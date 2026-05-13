@@ -6,7 +6,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TL-DI",
     coords: [125.5736, -8.5586],
-    name: { de: "Dili", hu: "Dili", ro: "Dili", en: "Dili" },
+    name: { de: "Dili", hu: "Dili", ro: "Dili", en: "Dili",
+image: "/poi-images/dili-cities-v2.webp"
+},
     description: {
       de: "Dili, die Hauptstadt von Osttimor, liegt an der Nordküste der Insel Timor.",
       hu: "Dili, Kelet-Timor fővárosa, a Timor-sziget északi partján fekszik.",
@@ -24,7 +26,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-BA",
     coords: [126.4497, -8.4711],
-    name: { de: "Baucau", hu: "Baucau", ro: "Baucau", en: "Baucau" },
+    name: { de: "Baucau", hu: "Baucau", ro: "Baucau", en: "Baucau",
+image: "/poi-images/baucau-cities-v2.webp"
+},
     description: {
       de: "Baucau ist die zweitgrößte Stadt in Osttimor.",
       hu: "Baucau Kelet-Timor második legnagyobb városa.",
@@ -42,7 +46,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-BO",
     coords: [125.2197, -8.9917],
-    name: { de: "Maliana", hu: "Maliana", ro: "Maliana", en: "Maliana" },
+    name: { de: "Maliana", hu: "Maliana", ro: "Maliana", en: "Maliana",
+image: "/poi-images/maliana-cities-v2.webp"
+},
     description: {
       de: "Maliana liegt nahe der Grenze zu Indonesien und ist ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Maliana az indonéz határ közelében fekszik, és fontos mezőgazdasági központ.",
@@ -60,7 +66,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-CO",
     coords: [125.2555, -9.3128],
-    name: { de: "Suai", hu: "Suai", ro: "Suai", en: "Suai" },
+    name: { de: "Suai", hu: "Suai", ro: "Suai", en: "Suai",
+image: "/poi-images/suai-cities-v2.webp"
+},
     description: {
       de: "Suai befindet sich im Südwesten des Landes nahe der Timorsee.",
       hu: "Suai az ország délnyugati részén, a Timor-tenger közelében található.",
@@ -78,7 +86,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-LA",
     coords: [126.9961, -8.5186],
-    name: { de: "Lospalos", hu: "Lospalos", ro: "Lospalos", en: "Lospalos" },
+    name: { de: "Lospalos", hu: "Lospalos", ro: "Lospalos", en: "Lospalos",
+image: "/poi-images/lospalos-cities-v2.webp"
+},
     description: {
       de: "Lospalos ist bekannt für seine traditionellen fataluku-Häuser.",
       hu: "Lospalos a hagyományos fataluku házairól ismert.",
@@ -96,7 +106,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-VI",
     coords: [126.3644, -8.8673],
-    name: { de: "Viqueque", hu: "Viqueque", ro: "Viqueque", en: "Viqueque" },
+    name: { de: "Viqueque", hu: "Viqueque", ro: "Viqueque", en: "Viqueque",
+image: "/poi-images/viqueque-cities-v2.webp"
+},
     description: {
       de: "Viqueque ist die Hauptstadt der größten gleichnamigen Gemeinde in Osttimor.",
       hu: "Viqueque Kelet-Timor legnagyobb azonos nevű községének fővárosa.",
@@ -114,7 +126,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-OE",
     coords: [124.3725, -9.2016],
-    name: { de: "Pante Macassar", hu: "Pante Macassar", ro: "Pante Macassar", en: "Pante Macassar" },
+    name: { de: "Pante Macassar", hu: "Pante Macassar", ro: "Pante Macassar", en: "Pante Macassar",
+image: "/poi-images/pante-macassar-cities-v2.webp"
+},
     description: {
       de: "Die Stadt liegt in der Exklave Oecusse und hat historische portugiesische Wurzeln.",
       hu: "A város az Oecusse exklávéban fekszik, és történelmi portugál gyökerekkel rendelkezik.",
@@ -132,7 +146,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MF",
     coords: [125.6475, -9.0033],
-    name: { de: "Same", hu: "Same", ro: "Same", en: "Same" },
+    name: { de: "Same", hu: "Same", ro: "Same", en: "Same",
+image: "/poi-images/same-cities-v2.webp"
+},
     description: {
       de: "Same liegt im Landesinneren und ist von Bergen umgeben.",
       hu: "Same a szárazföld belsejében fekszik, és hegyek veszik körül.",
@@ -150,7 +166,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-LI",
     coords: [125.3283, -8.5925],
-    name: { de: "Liquiçá", hu: "Liquiçá", ro: "Liquiçá", en: "Liquiçá" },
+    name: { de: "Liquiçá", hu: "Liquiçá", ro: "Liquiçá", en: "Liquiçá",
+image: "/poi-images/liquica-cities-v2.webp"
+},
     description: {
       de: "Liquiçá ist eine Küstenstadt westlich von Dili mit malerischen Stränden.",
       hu: "Liquiçá egy tengerparti város Dilitől nyugatra, festői strandokkal.",
@@ -168,7 +186,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-AL",
     coords: [125.5664, -8.7281],
-    name: { de: "Aileu", hu: "Aileu", ro: "Aileu", en: "Aileu" },
+    name: { de: "Aileu", hu: "Aileu", ro: "Aileu", en: "Aileu",
+image: "/poi-images/aileu-cities-v2.webp"
+},
     description: {
       de: "Aileu befindet sich im Hochland südlich der Hauptstadt Dili.",
       hu: "Aileu a fővárostól, Dilitől délre fekvő hegyvidéken található.",
@@ -186,7 +206,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-AN",
     coords: [125.5081, -8.9928],
-    name: { de: "Ainaro", hu: "Ainaro", ro: "Ainaro", en: "Ainaro" },
+    name: { de: "Ainaro", hu: "Ainaro", ro: "Ainaro", en: "Ainaro",
+image: "/poi-images/ainaro-cities-v2.webp"
+},
     description: {
       de: "Ainaro ist bekannt für sein kühleres Klima und die bergige Landschaft.",
       hu: "Ainaro hűvösebb éghajlatáról és hegyvidéki tájáról ismert.",
@@ -204,7 +226,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MT",
     coords: [126.0142, -8.5117],
-    name: { de: "Manatuto", hu: "Manatuto", ro: "Manatuto", en: "Manatuto" },
+    name: { de: "Manatuto", hu: "Manatuto", ro: "Manatuto", en: "Manatuto",
+image: "/poi-images/manatuto-cities-v2.webp"
+},
     description: {
       de: "Manatuto erstreckt sich von der Nordküste bis zur Südküste der Insel.",
       hu: "Manatuto a sziget északi partjától a déli partig terjed.",
@@ -222,7 +246,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-ER",
     coords: [125.4361, -8.7239],
-    name: { de: "Gleno", hu: "Gleno", ro: "Gleno", en: "Gleno" },
+    name: { de: "Gleno", hu: "Gleno", ro: "Gleno", en: "Gleno",
+image: "/poi-images/gleno-cities-v2.webp"
+},
     description: {
       de: "Gleno ist das Verwaltungszentrum der Gemeinde Ermera, bekannt für den Kaffeeanbau.",
       hu: "Gleno az Ermera község közigazgatási központja, amely kávétermesztéséről ismert.",
@@ -240,7 +266,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-AT",
     coords: [125.6025, -8.2431],
-    name: { de: "Vila de Ataúro", hu: "Vila de Ataúro", ro: "Vila de Ataúro", en: "Vila de Ataúro" },
+    name: { de: "Vila de Ataúro", hu: "Vila de Ataúro", ro: "Vila de Ataúro", en: "Vila de Ataúro",
+image: "/poi-images/vila-de-atauro-cities-v2.webp"
+},
     description: {
       de: "Vila ist der Hauptort der Insel Ataúro, nördlich von Dili gelegen.",
       hu: "Vila az Ataúro-sziget fő települése, Dilitől északra.",
@@ -258,7 +286,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-AN",
     coords: [125.5975, -8.8389],
-    name: { de: "Maubisse", hu: "Maubisse", ro: "Maubisse", en: "Maubisse" },
+    name: { de: "Maubisse", hu: "Maubisse", ro: "Maubisse", en: "Maubisse",
+image: "/poi-images/maubisse-cities-v2.webp"
+},
     description: {
       de: "Maubisse ist ein historischer Bergort und ein beliebtes Ausflugsziel.",
       hu: "Maubisse egy történelmi hegyi település és népszerű kirándulóhely.",
@@ -276,7 +306,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-BA",
     coords: [126.3789, -8.5861],
-    name: { de: "Venilale", hu: "Venilale", ro: "Venilale", en: "Venilale" },
+    name: { de: "Venilale", hu: "Venilale", ro: "Venilale", en: "Venilale",
+image: "/poi-images/venilale-cities-v2.webp"
+},
     description: {
       de: "Venilale war während der portugiesischen Kolonialzeit ein bekannter Erholungsort.",
       hu: "Venilale a portugál gyarmati időszakban ismert üdülőhely volt.",
@@ -294,7 +326,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-LA",
     coords: [127.2561, -8.3931],
-    name: { de: "Tutuala", hu: "Tutuala", ro: "Tutuala", en: "Tutuala" },
+    name: { de: "Tutuala", hu: "Tutuala", ro: "Tutuala", en: "Tutuala",
+image: "/poi-images/tutuala-cities-v2.webp"
+},
     description: {
       de: "Tutuala ist das östlichste Dorf auf der Insel Timor.",
       hu: "Tutuala a Timor-sziget legkeletibb falva.",
@@ -312,7 +346,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-BO",
     coords: [125.0417, -8.9681],
-    name: { de: "Balibo", hu: "Balibo", ro: "Balibo", en: "Balibo" },
+    name: { de: "Balibo", hu: "Balibo", ro: "Balibo", en: "Balibo",
+image: "/poi-images/balibo-cities-v2.webp"
+},
     description: {
       de: "Balibo ist ein historischer Ort, bekannt durch ein portugiesisches Fort.",
       hu: "Balibo egy történelmi település, amely egy portugál erődről ismert.",
@@ -330,7 +366,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-ER",
     coords: [125.3969, -8.7511],
-    name: { de: "Ermera", hu: "Ermera", ro: "Ermera", en: "Ermera" },
+    name: { de: "Ermera", hu: "Ermera", ro: "Ermera", en: "Ermera",
+image: "/poi-images/ermera-cities-v2.webp"
+},
     description: {
       de: "Die Stadt Ermera ist das Zentrum des osttimoresischen Kaffeehandels.",
       hu: "Ermera városa a kelet-timori kávékereskedelem központja.",
@@ -348,7 +386,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-LA",
     coords: [126.8258, -8.7114],
-    name: { de: "Iliomar", hu: "Iliomar", ro: "Iliomar", en: "Iliomar" },
+    name: { de: "Iliomar", hu: "Iliomar", ro: "Iliomar", en: "Iliomar",
+image: "/poi-images/iliomar-cities-v2.webp"
+},
     description: {
       de: "Iliomar liegt im Süden der Gemeinde Lautém.",
       hu: "Iliomar a Lautém község déli részén található.",
@@ -366,7 +406,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-LA",
     coords: [126.8317, -8.5414],
-    name: { de: "Luro", hu: "Luro", ro: "Luro", en: "Luro" },
+    name: { de: "Luro", hu: "Luro", ro: "Luro", en: "Luro",
+image: "/poi-images/luro-cities-v2.webp"
+},
     description: {
       de: "Luro ist ein kleiner ländlicher Verwaltungssitz im Osten des Landes.",
       hu: "Luro egy kis vidéki közigazgatási központ az ország keleti részén.",
@@ -384,7 +426,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-VI",
     coords: [126.7033, -8.8258],
-    name: { de: "Uatucarbau", hu: "Uatucarbau", ro: "Uatucarbau", en: "Uatucarbau" },
+    name: { de: "Uatucarbau", hu: "Uatucarbau", ro: "Uatucarbau", en: "Uatucarbau",
+image: "/poi-images/uatucarbau-cities-v2.webp"
+},
     description: {
       de: "Uatucarbau liegt in der Gemeinde Viqueque in der Nähe der Südküste.",
       hu: "Uatucarbau a Viqueque községben, a déli part közelében fekszik.",
@@ -402,7 +446,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-VI",
     coords: [126.3739, -8.7381],
-    name: { de: "Ossu", hu: "Ossu", ro: "Ossu", en: "Ossu" },
+    name: { de: "Ossu", hu: "Ossu", ro: "Ossu", en: "Ossu",
+image: "/poi-images/ossu-cities-v2.webp"
+},
     description: {
       de: "Ossu ist ein Bergort umgeben von den Bergen Mundo Perdido.",
       hu: "Ossu egy hegyvidéki település, amelyet a Mundo Perdido hegyek vesznek körül.",
@@ -420,7 +466,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MF",
     coords: [125.7958, -9.0181],
-    name: { de: "Alas", hu: "Alas", ro: "Alas", en: "Alas" },
+    name: { de: "Alas", hu: "Alas", ro: "Alas", en: "Alas",
+image: "/poi-images/alas-cities-v2.webp"
+},
     description: {
       de: "Alas befindet sich in der Gemeinde Manufahi.",
       hu: "Alas a Manufahi községben található.",
@@ -438,7 +486,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MF",
     coords: [125.8617, -9.0717],
-    name: { de: "Fatuberlio", hu: "Fatuberlio", ro: "Fatuberlio", en: "Fatuberlio" },
+    name: { de: "Fatuberlio", hu: "Fatuberlio", ro: "Fatuberlio", en: "Fatuberlio",
+image: "/poi-images/fatuberlio-cities-v2.webp"
+},
     description: {
       de: "Fatuberlio ist eine kleine Verwaltungseinheit an der Küste.",
       hu: "Fatuberlio egy kis tengerparti közigazgatási egység.",
@@ -456,7 +506,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MF",
     coords: [125.7061, -8.8239],
-    name: { de: "Turiscai", hu: "Turiscai", ro: "Turiscai", en: "Turiscai" },
+    name: { de: "Turiscai", hu: "Turiscai", ro: "Turiscai", en: "Turiscai",
+image: "/poi-images/turiscai-cities-v2.webp"
+},
     description: {
       de: "Turiscai liegt auf einer Höhe, die ein angenehmes Klima bietet.",
       hu: "Turiscai olyan magasságban fekszik, amely kellemes klímát biztosít.",
@@ -474,7 +526,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MT",
     coords: [126.1633, -8.5369],
-    name: { de: "Laleia", hu: "Laleia", ro: "Laleia", en: "Laleia" },
+    name: { de: "Laleia", hu: "Laleia", ro: "Laleia", en: "Laleia",
+image: "/poi-images/laleia-cities-v2.webp"
+},
     description: {
       de: "Laleia liegt in einem breiten Flusstal an der Nordküste.",
       hu: "Laleia egy széles folyóvölgyben fekszik az északi parton.",
@@ -492,7 +546,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-MT",
     coords: [125.9083, -8.7472],
-    name: { de: "Laclubar", hu: "Laclubar", ro: "Laclubar", en: "Laclubar" },
+    name: { de: "Laclubar", hu: "Laclubar", ro: "Laclubar", en: "Laclubar",
+image: "/poi-images/laclubar-cities-v2.webp"
+},
     description: {
       de: "Laclubar ist ein traditionelles Bergdorf in Osttimor.",
       hu: "Laclubar egy hagyományos hegyi falu Kelet-Timorban.",
@@ -510,7 +566,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-CO",
     coords: [125.4522, -9.1581],
-    name: { de: "Zumalai", hu: "Zumalai", ro: "Zumalai", en: "Zumalai" },
+    name: { de: "Zumalai", hu: "Zumalai", ro: "Zumalai", en: "Zumalai",
+image: "/poi-images/zumalai-cities-v2.webp"
+},
     description: {
       de: "Zumalai liegt an einem Fluss und grenzt an die Timorsee.",
       hu: "Zumalai egy folyóparti város, amely a Timor-tengerrel határos.",
@@ -528,7 +586,9 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     type: "city",
     parent: "TL-CO",
     coords: [125.0886, -9.2819],
-    name: { de: "Fohorem", hu: "Fohorem", ro: "Fohorem", en: "Fohorem" },
+    name: { de: "Fohorem", hu: "Fohorem", ro: "Fohorem", en: "Fohorem",
+image: "/poi-images/fohorem-cities-v2.webp"
+},
     description: {
       de: "Fohorem liegt nahe der Grenze und ist von Hügeln umgeben.",
       hu: "Fohorem a határ közelében fekszik, és dombok veszik körül.",

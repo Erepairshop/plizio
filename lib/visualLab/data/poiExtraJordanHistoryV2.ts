@@ -10,8 +10,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Petra",
       hu: "Petra",
       ro: "Petra",
-      en: "Petra"
-    },
+      en: "Petra",
+image: "/poi-images/petra-history-v2.webp"
+},
     description: {
       de: "Die antike Felsenstadt, die von den Nabatäern aus dem rosa Sandstein gehauen wurde, ist eines der neuen sieben Weltwunder.",
       hu: "A nabateusok által a rózsaszín homokkőből kivájt ősi sziklaváros a világ hét új csodájának egyike.",
@@ -49,8 +50,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Jerash",
       hu: "Dzseras",
       ro: "Jerash",
-      en: "Jerash"
-    },
+      en: "Jerash",
+image: "/poi-images/jerash-history-v2.webp"
+},
     description: {
       de: "Eine der am besten erhaltenen römischen Provinzstädte der Welt, bekannt als das Pompeji des Ostens.",
       hu: "A világ egyik legjobb állapotban fennmaradt római kori provinciális városa, a Kelet Pompejijeként is ismert.",
@@ -88,8 +90,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Zitadelle von Amman",
       hu: "Ammáni Citadella",
       ro: "Citadela din Amman",
-      en: "Amman Citadel"
-    },
+      en: "Amman Citadel",
+image: "/poi-images/amman-citadel-history-v2.webp"
+},
     description: {
       de: "Der historische Hügel Jabal al-Qal'a bietet Ruinen aus römischer, byzantinischer und umayyadischer Zeit.",
       hu: "A Jabal al-Qal'a történelmi dombja római, bizánci és Omajjád kori romokat rejt, páratlan kilátással a városra.",
@@ -127,8 +130,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Römisches Theater von Amman",
       hu: "Ammáni római színház",
       ro: "Teatrul Roman din Amman",
-      en: "Roman Theater of Amman"
-    },
+      en: "Roman Theater of Amman",
+image: "/poi-images/roman-theater-amman-history-v2.webp"
+},
     description: {
       de: "Ein monumentales Amphitheater aus dem 2. Jahrhundert, das tief in den Hang geschnitten wurde und Platz für 6000 Zuschauer bot.",
       hu: "A 2. századból származó monumentális amfiteátrumot egy hegyoldalba vájták, és 6000 néző befogadására volt alkalmas.",
@@ -166,8 +170,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Burg Ajloun",
       hu: "Ajlun vára",
       ro: "Castelul Ajloun",
-      en: "Ajloun Castle"
-    },
+      en: "Ajloun Castle",
+image: "/poi-images/ajloun-castle-history-v2.webp"
+},
     description: {
       de: "Eine islamische Festung aus dem 12. Jahrhundert, erbaut von Saladins Neffen, um die Region vor den Kreuzrittern zu schützen.",
       hu: "Szaladin unokaöccse által a 12. században épített iszlám erődítmény, amely a régió védelmét szolgálta a keresztesekkel szemben.",
@@ -205,8 +210,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Burg Kerak",
       hu: "Karak vára",
       ro: "Castelul Kerak",
-      en: "Kerak Castle"
-    },
+      en: "Kerak Castle",
+image: "/poi-images/kerak-castle-history-v2.webp"
+},
     description: {
       de: "Eine gewaltige Kreuzritterburg, die das Stadtbild dominiert und eine faszinierende Mischung aus europäischer, byzantinischer und arabischer Architektur zeigt.",
       hu: "A városképet uraló hatalmas keresztes lovagvár, amely az európai, bizánci és arab építészet lenyűgöző keverékét mutatja be.",
@@ -244,8 +250,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Berg Nebo",
       hu: "Nébó-hegy",
       ro: "Muntele Nebo",
-      en: "Mount Nebo"
-    },
+      en: "Mount Nebo",
+image: "/poi-images/mount-nebo-history-v2.webp"
+},
     description: {
       de: "Ein hochgelegener Bergrücken, von dem aus Moses das Gelobte Land erblickt haben soll, heute ein wichtiges Pilgerziel.",
       hu: "Egy magaslat, ahonnan a hagyomány szerint Mózes meglátta az Ígéret földjét; ma fontos zarándokhely.",
@@ -283,8 +290,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Mosaikkarte von Madaba",
       hu: "Madabai mozaiktérkép",
       ro: "Harta de la Madaba",
-      en: "Madaba Map"
-    },
+      en: "Madaba Map",
+image: "/poi-images/madaba-map-history-v2.webp"
+},
     description: {
       de: "Ein Bodenmosaik aus dem 6. Jahrhundert in der St.-Georgs-Kirche, das die älteste erhaltene kartografische Darstellung des Heiligen Landes zeigt.",
       hu: "Egy 6. századi padlómozaik a Szent György-templomban, amely a Szentföld legrégebbi fennmaradt térképészeti ábrázolása.",
@@ -322,8 +330,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Quseir Amra",
       hu: "Kuszajr Amra",
       ro: "Quseir Amra",
-      en: "Quseir Amra"
-    },
+      en: "Quseir Amra",
+image: "/poi-images/quseir-amra-history-v2.webp"
+},
     description: {
       de: "Eines der bekanntesten Wüstenschlösser Jordaniens, berühmt für seine einzigartigen frühislamischen Fresken und das gut erhaltene Badehaus.",
       hu: "Jordánia egyik legismertebb sivatagi kastélya, amely egyedülálló korai iszlám freskóiról és kiválóan megőrzött fürdőházáról híres.",
@@ -361,8 +370,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Burg Shobak",
       hu: "Sobak vára",
       ro: "Castelul Shobak",
-      en: "Shobak Castle"
-    },
+      en: "Shobak Castle",
+image: "/poi-images/shobak-castle-history-v2.webp"
+},
     description: {
       de: "Eine Kreuzritterburg auf einem kegelförmigen Berg, die wegen ihrer dramatischen und rauen Lage tief beeindruckt.",
       hu: "Egy kúpos hegyen épült keresztes lovagvár, amely drámai és zord elhelyezkedése miatt lenyűgöző látványt nyújt.",
@@ -400,8 +410,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Umm Qais",
       hu: "Umm Kajsz",
       ro: "Umm Qais",
-      en: "Umm Qais"
-    },
+      en: "Umm Qais",
+image: "/poi-images/umm-qais-history-v2.webp"
+},
     description: {
       de: "Die Ruinen der antiken Stadt Gadara mit einem atemberaubenden Blick über den See Genezareth und die Golanhöhen.",
       hu: "Az ókori Gadara város romjai, ahonnan lélegzetelállító kilátás nyílik a Galileai-tengerre és a Golán-fennsíkra.",
@@ -439,8 +450,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Pella",
       hu: "Pella",
       ro: "Pella",
-      en: "Pella"
-    },
+      en: "Pella",
+image: "/poi-images/pella-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten Stätten im Jordantal mit Ausgrabungen, die über 6000 Jahre kontinuierliche Besiedlung nachweisen.",
       hu: "A Jordán-völgy egyik legrégebbi települése, ahol az ásatások több mint 6000 éves folyamatos lakottságot bizonyítanak.",
@@ -478,8 +490,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Qasr Kharana",
       hu: "Kaszr Harana",
       ro: "Qasr Kharana",
-      en: "Qasr Kharana"
-    },
+      en: "Qasr Kharana",
+image: "/poi-images/qasr-kharana-history-v2.webp"
+},
     description: {
       de: "Eines der besterhaltenen Wüstenschlösser Jordaniens, das durch sein wehrhaftes Aussehen und die massive Steinbauweise besticht.",
       hu: "Jordánia egyik legjobban megőrzött sivatagi kastélya, amely zord, erődítményszerű megjelenésével hívja fel magára a figyelmet.",
@@ -517,8 +530,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Qasr Azraq",
       hu: "Kaszr Azrak",
       ro: "Qasr Azraq",
-      en: "Qasr Azraq"
-    },
+      en: "Qasr Azraq",
+image: "/poi-images/qasr-azraq-history-v2.webp"
+},
     description: {
       de: "Ein aus schwarzem Basalt erbautes Wüstenschloss, das während der Arabischen Revolte von T.E. Lawrence (Lawrence von Arabien) als Hauptquartier genutzt wurde.",
       hu: "Egy fekete bazaltból épült sivatagi kastély, amelyet Arábiai Lawrence főhadiszállásként használt az arab felkelés idején.",
@@ -556,8 +570,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Machaerus",
       hu: "Machaerus",
       ro: "Machaerus",
-      en: "Machaerus"
-    },
+      en: "Machaerus",
+image: "/poi-images/machaerus-history-v2.webp"
+},
     description: {
       de: "Die Ruine eines herodianischen Palastes auf einem steilen Hügel, berühmt als der Ort, an dem Johannes der Täufer enthauptet wurde.",
       hu: "Egy heródesi palota romjai egy meredek hegytetőn, amely arról hírhedt, hogy itt fejezték le Keresztelő Jánost.",
@@ -595,8 +610,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Al-Maghtas",
       hu: "Al-Maghtasz",
       ro: "Al-Maghtas",
-      en: "Al-Maghtas"
-    },
+      en: "Al-Maghtas",
+image: "/poi-images/al-maghtas-history-v2.webp"
+},
     description: {
       de: "Die historische Taufstätte am Jordan, die als authentischer Ort der Taufe Jesu durch Johannes den Täufer gilt.",
       hu: "A történelmi keresztelőhely a Jordán folyónál, amelyet Jézus megkeresztelkedésének hiteles helyszíneként tartanak számon.",
@@ -634,8 +650,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Umm ar-Rasas",
       hu: "Umm ar-Raszász",
       ro: "Umm ar-Rasas",
-      en: "Umm ar-Rasas"
-    },
+      en: "Umm ar-Rasas",
+image: "/poi-images/umm-ar-rasas-history-v2.webp"
+},
     description: {
       de: "Ein archäologischer Park, der römische, byzantinische und frühislamische Überreste sowie hervorragend erhaltene Mosaikböden beherbergt.",
       hu: "Egy régészeti park, amely római, bizánci és korai iszlám korból származó emlékeket, valamint lenyűgöző mozaikpadlókat rejt.",
@@ -673,8 +690,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Festung Akaba",
       hu: "Akabai erőd",
       ro: "Fortăreața Aqaba",
-      en: "Aqaba Fort"
-    },
+      en: "Aqaba Fort",
+image: "/poi-images/aqaba-fort-history-v2.webp"
+},
     description: {
       de: "Eine Küstenfestung aus der Mamlukenzeit, die während der Arabischen Revolte 1917 Schauplatz eines wichtigen Sieges war.",
       hu: "Mamlúk kori part menti erődítmény, amely az 1917-es arab felkelés egyik legfontosabb győzelmének helyszíne volt.",
@@ -712,8 +730,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Herkulestempel",
       hu: "Herkules-templom",
       ro: "Templul lui Hercule",
-      en: "Temple of Hercules"
-    },
+      en: "Temple of Hercules",
+image: "/poi-images/temple-of-hercules-amman-history-v2.webp"
+},
     description: {
       de: "Die monumentalen Überreste eines römischen Tempels, dessen kolossale Säulen majestätisch über der Altstadt von Amman aufragen.",
       hu: "Egy római templom monumentális romjai, melynek óriási oszlopai fenségesen magasodnak Ammán óvárosa fölé.",
@@ -751,8 +770,9 @@ export const poiExtraJordanHistoryV2: POI[] = [
       de: "Schlachtfeld am Jarmuk",
       hu: "Jarmúki csatamező",
       ro: "Câmpul de luptă de la Yarmouk",
-      en: "Battle of Yarmouk Site"
-    },
+      en: "Battle of Yarmouk Site",
+image: "/poi-images/yarmouk-battlefield-history-v2.webp"
+},
     description: {
       de: "Der Ort der entscheidenden Schlacht am Jarmuk im Jahr 636, die das Ende der byzantinischen Herrschaft in Syrien einläutete.",
       hu: "A 636-os sorsdöntő jarmúki csata helyszíne, amely a bizánci uralom végét jelentette Szíriában, és megnyitotta az utat az iszlám terjeszkedés előtt.",

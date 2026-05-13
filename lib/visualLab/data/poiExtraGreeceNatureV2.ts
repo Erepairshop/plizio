@@ -4,7 +4,9 @@ export const greeceNatureV2: POI[] = [
   {
     id: "greece-lake-plastira-nature-v2",
     type: "lake",
-    name: { de: "Plastira-See", hu: "Plasztira-tó", ro: "Lacul Plastira", en: "Lake Plastira" },
+    name: { de: "Plastira-See", hu: "Plasztira-tó", ro: "Lacul Plastira", en: "Lake Plastira",
+image: "/poi-images/greece-lake-plastira-nature-v2.webp"
+},
     coords: [21.75, 39.3],
     coordinates: { lat: 39.3, lng: 21.75 },
     description: {
@@ -19,11 +21,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Situat la 750 m în munții Agrafa", "Creat în 1959 prin bararea râului Tavropos", "Circumferința lacului este de circa 45 km", "Numit după generalul Nikolaos Plastiras"],
       en: ["Located at 750m altitude in Agrafa mountains", "Formed in 1959 by damming the Tavropos River", "The lake's perimeter is about 45 kilometers", "Named after General Nikolaos Plastiras"],
     },
-    imageHint: "Lake Plastira panoramic view with mountains", image: "/poi-images/greece-lake-plastira-nature-v2.webp"},
-  {
+imageHint: "Lake Plastira panoramic view with mountains",
+    descriptionAdvanced: {
+      de: "Dieser künstliche Stausee in Thessalien wurde 1959 durch den Bau einer Talsperre am Fluss Tavropos geschaffen und dient der Stromerzeugung sowie der Bewässerung.",
+      hu: "A Thesszáliában található mesterséges tározót 1959-ben hozták létre a Tavroposz-folyó elgátolásával, amely mára fontos öntözési forrás és turisztikai központ.",
+      ro: "Acest lac de acumulare din Tesalia a fost creat în 1959 prin construirea unui baraj pe râul Tavropos, servind astăzi la irigații și producerea de energie.",
+      en: "This artificial reservoir in Thessaly was created in 1959 by damming the Tavropos River, providing water for irrigation and hydroelectric power in the region.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Damms 1959", "Wasseroberfläche ca. 24 km2", "Liegt auf 800 Metern Höhe", "Maximale Tiefe etwa 60 Meter"],
+      hu: ["A gát 1959-ben készült el", "Felszíne kb. 24 négyzetkilométer", "800 méteres tengerszint feletti magasság", "Maximális mélysége 60 méter"],
+      ro: ["Baraj finalizat în anul 1959", "Suprafața este de 24 km2", "Altitudinea este de 800 metri", "Adâncimea maximă atinge 60 metri"],
+      en: ["Dam completed in 1959", "Surface area of 24 sq km", "Located at 800m altitude", "Maximum depth is 60 meters"],
+    },
+    image: "/poi-images/greece-lake-plastira-nature-v2.webp",
+},  {
     id: "greece-vikos-gorge-nature-v2",
     type: "valley",
-    name: { de: "Vikos-Schlucht", hu: "Vikosz-szurdok", ro: "Defileul Vikos", en: "Vikos Gorge" },
+    name: { de: "Vikos-Schlucht", hu: "Vikosz-szurdok", ro: "Defileul Vikos", en: "Vikos Gorge",
+image: "/poi-images/greece-vikos-gorge-nature-v2.webp"
+},
     coords: [20.75, 39.9],
     coordinates: { lat: 39.9, lng: 20.75 },
     description: {
@@ -38,11 +55,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai adânc defileu conform Guinness", "Lungime de cca. 20 km în munții Pindului", "Parte a Parcului Național Vikos-Aoos", "Adăpostește păsări de pradă rare și urși"],
       en: ["Deepest gorge in the world per Guinness", "Stretches 20 km through the Pindus range", "Part of the Vikos-Aoos National Park", "Home to rare birds of prey and bears"],
     },
-    imageHint: "Vikos Gorge deep canyon landscape", image: "/poi-images/greece-vikos-gorge-nature-v2.webp"},
-  {
+imageHint: "Vikos Gorge deep canyon landscape",
+    descriptionAdvanced: {
+      de: "Die im Pindos-Gebirge gelegene Schlucht gilt laut Guinness-Buch der Rekorde als die tiefste der Welt im Verhältnis zu ihrer Breite und ist Teil eines Nationalparks.",
+      hu: "A Pindosz-hegységben húzódó szurdok a Guinness-rekordok könyve szerint a világ legmélyebb kanyonja a szélességéhez képest, gazdag flórával és faunával rendelkezik.",
+      ro: "Situat în munții Pindus, acest defileu este considerat cel mai adânc din lume raportat la lățime, fiind inclus în Parcul Național Vikos-Aoos din 1973.",
+      en: "Located in the Pindus Mountains, this gorge is listed by Guinness World Records as the deepest relative to its width, reaching depths of up to 1,600 meters.",
+    },
+    factsAdvanced: {
+      de: ["Länge von etwa 12 Kilometern", "Maximale Tiefe 1600 Meter", "Nationalpark seit 1973", "Über 1800 Pflanzenarten vorhanden"],
+      hu: ["Hossza körülbelül 12 kilométer", "Mélysége eléri az 1600 métert", "1973 óta nemzeti park", "Több mint 1800 növényfaj él itt"],
+      ro: ["Lungime de circa 12 kilometri", "Adâncime maximă de 1600 metri", "Parc național din anul 1973", "Adăpostește 1800 specii de plante"],
+      en: ["Length of approximately 12 km", "Maximum depth of 1,600 meters", "National park status since 1973", "Home to 1,800 plant species"],
+    },
+    image: "/poi-images/greece-vikos-gorge-nature-v2.webp",
+},  {
     id: "greece-samaria-gorge-nature-v2",
     type: "park",
-    name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Defileul Samaria", en: "Samaria Gorge" },
+    name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Defileul Samaria", en: "Samaria Gorge",
+image: "/poi-images/greece-samaria-gorge-nature-v2.webp"
+},
     coords: [23.961, 35.271],
     coordinates: { lat: 35.271, lng: 23.961 },
     description: {
@@ -57,11 +89,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lungime de 16 km până la Marea Libiei", "Rezervație a biosferei UNESCO în Creta", "Punctul cel mai îngust are doar 3 m lățime", "Habitatul caprelor sălbatice protejate Kri-Kri"],
       en: ["16 km long, ending at the Libyan Sea", "UNESCO Biosphere Reserve on Crete island", "Narrowest point 'Iron Gates' is 3m wide", "Home to protected Kri-Kri wild goats"],
     },
-    imageHint: "Samaria Gorge narrow canyon walls", image: "/poi-images/greece-samaria-gorge-nature-v2.webp"},
-  {
+imageHint: "Samaria Gorge narrow canyon walls",
+    descriptionAdvanced: {
+      de: "Diese 16 Kilometer lange Schlucht im Südwesten Kretas ist eine der längsten Europas und beherbergt die seltene Kretische Wildziege in den Weißen Bergen.",
+      hu: "Kréta délnyugati részén, a Fehér-hegységben található 16 kilométeres szurdok Európa egyik leghosszabbja, és a ritka krétai vadkecske egyik utolsó menedéke.",
+      ro: "Situat în Munții Albi din Creta, acest defileu de 16 kilometri este unul dintre cele mai lungi din Europa, fiind habitatul caprei sălbatice Kri-Kri.",
+      en: "This 16-kilometer gorge in southwest Crete is one of Europe's longest, located within the White Mountains and serving as a refuge for the Kri-Kri goat.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 16 Kilometern", "Nationalpark seit 1962", "Schmalste Stelle nur 3 Meter breit", "UNESCO-Biosphärenreservat"],
+      hu: ["A szurdok hossza 16 kilométer", "Nemzeti park 1962 óta", "Legszűkebb pontja mindössze 3 méter", "UNESCO bioszféra-rezervátum"],
+      ro: ["Lungime totală de 16 kilometri", "Parc național din 1962", "Lățime minimă de doar 3 metri", "Rezervație a Biosferei UNESCO"],
+      en: ["Total length of 16 kilometers", "National park since 1962", "Minimum width of only 3 meters", "UNESCO Biosphere Reserve"],
+    },
+    image: "/poi-images/greece-samaria-gorge-nature-v2.webp",
+},  {
     id: "greece-lake-prespa-nature-v2",
     type: "lake",
-    name: { de: "Prespa-Seen", hu: "Preszpa-tavak", ro: "Lacurile Prespa", en: "Lake Prespa" },
+    name: { de: "Prespa-Seen", hu: "Preszpa-tavak", ro: "Lacurile Prespa", en: "Lake Prespa",
+image: "/poi-images/greece-lake-prespa-nature-v2.webp"
+},
     coords: [21.05, 40.75],
     coordinates: { lat: 40.75, lng: 21.05 },
     description: {
@@ -76,11 +123,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lacurile la cea mai mare altitudine din Balcani", "Principalul loc de cuibărit pentru pelicani", "Împărțite între Grecia, Albania și Macedonia de Nord", "Bogate în specii endemice de pești și plante"],
       en: ["Highest tectonic lakes in the Balkans at 850m", "Europe's largest colony of Dalmatian pelicans", "Shared by Greece, Albania, and North Macedonia", "Rich in endemic fish and plant species"],
     },
-    imageHint: "Lake Prespa with pelicans", image: "/poi-images/greece-lake-prespa-nature-v2.webp"},
-  {
+imageHint: "Lake Prespa with pelicans",
+    descriptionAdvanced: {
+      de: "Das aus dem Großen und Kleinen Prespasee bestehende System liegt im Dreiländereck und ist ein bedeutendes Brutgebiet für den Krauskopfpelikan.",
+      hu: "A görög, albán és macedón határon fekvő tórendszer a Nagy- és Kis-Preszpa-tóból áll, és Európa egyik legfontosabb vizes élőhelye a pelikánok számára.",
+      ro: "Acest sistem lacustru situat la granița dintre trei state cuprinde lacurile Prespa Mare și Prespa Mică, fiind un habitat crucial pentru pelicani.",
+      en: "Divided between Greece, Albania, and North Macedonia, this lake system consists of Great and Small Prespa, hosting the world's largest Dalmatian pelican colony.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von 850 Metern", "Fläche des Großen Sees 273 km2", "Über 260 Vogelarten beobachtet", "Ältestes tektonisches Seensystem"],
+      hu: ["850 méteres magasságban fekszik", "Nagy-Preszpa területe 273 km2", "Több mint 260 madárfaj fészkel itt", "Európa legrégebbi tektonikus tava"],
+      ro: ["Altitudine de 850 metri", "Suprafața lacului Mare este 273 km2", "Peste 260 de specii de păsări", "Cel mai vechi sistem tectonic"],
+      en: ["Altitude of 850 meters", "Great Prespa area is 273 sq km", "Over 260 bird species recorded", "Oldest tectonic lake in Europe"],
+    },
+    image: "/poi-images/greece-lake-prespa-nature-v2.webp",
+},  {
     id: "greece-mount-athos-nature-v2",
     type: "mountain",
-    name: { de: "Berg Athos", hu: "Athosz-hegy", ro: "Muntele Athos", en: "Mount Athos" },
+    name: { de: "Berg Athos", hu: "Athosz-hegy", ro: "Muntele Athos", en: "Mount Athos",
+image: "/poi-images/greece-mount-athos-nature-v2.webp"
+},
     coords: [24.326, 40.157],
     coordinates: { lat: 40.157, lng: 24.326 },
     description: {
@@ -95,11 +157,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârf de 2033 m situat direct pe malul mării", "Republică monastică autonomă din sec. X", "Accesul femeilor este strict interzis", "Situl UNESCO pentru natură și cultură"],
       en: ["Peak reaches 2,033 meters above the sea", "Autonomous monastic state since the 10th century", "Access for women is strictly prohibited", "UNESCO World Heritage site for nature and culture"],
     },
-    imageHint: "Mount Athos peak from the sea", image: "/poi-images/greece-mount-athos-nature-v2.webp"},
-  {
+imageHint: "Mount Athos peak from the sea",
+    descriptionAdvanced: {
+      de: "Die autonome Mönchsrepublik auf dem östlichsten Finger von Chalkidiki umfasst den 2033 Meter hohen Berg Athos und dichte, unberührte Kastanienwälder.",
+      hu: "A Chalkidiki-félsziget legkeletibb ágán található autonóm kolostorköztársaság a 2033 méter magas Athosz-hegynek és érintetlen erdőknek ad otthont.",
+      ro: "Această peninsulă autonomă adăpostește Muntele Athos, înalt de 2033 metri, și o vegetație densă protejată de secole datorită regimului monastic.",
+      en: "This autonomous monastic state on Halkidiki's eastern peninsula centers around the 2,033-meter Mount Athos, featuring pristine forests and 20 monasteries.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 2033 Meter", "Fläche der Halbinsel 335 km2", "UNESCO-Welterbe seit 1988", "Beherbergt 20 orthodoxe Klöster"],
+      hu: ["Csúcsmagassága 2033 méter", "A félsziget területe 335 km2", "UNESCO világörökség 1988 óta", "20 ortodox kolostor működik itt"],
+      ro: ["Altitudinea vârfului 2033 metri", "Suprafața peninsulei 335 km2", "Patrimoniu UNESCO din 1988", "Adăpostește 20 de mănăstiri"],
+      en: ["Peak height of 2,033 meters", "Peninsula area is 335 sq km", "UNESCO World Heritage since 1988", "Home to 20 Orthodox monasteries"],
+    },
+    image: "/poi-images/greece-mount-athos-nature-v2.webp",
+},  {
     id: "greece-aliakmon-river-nature-v2",
     type: "river",
-    name: { de: "Aliakmonas", hu: "Aliákmonasz", ro: "Râul Aliakmon", en: "Aliakmon River" },
+    name: { de: "Aliakmonas", hu: "Aliákmonasz", ro: "Râul Aliakmon", en: "Aliakmon River",
+image: "/poi-images/greece-aliakmon-river-nature-v2.webp"
+},
     coords: [21.8, 40.3],
     coordinates: { lat: 40.3, lng: 21.8 },
     description: {
@@ -114,11 +191,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai lung râu integral grecesc (297 km)", "Izvorăște din munții Grammos la graniță", "Se varsă în Golful Thermaic al Marii Egee", "Sursă importantă de hidroenergie și irigații"],
       en: ["Longest river entirely within Greek borders", "Originates in the Grammos mountain range", "Flows into the Thermaic Gulf of the Aegean", "Major source of hydroelectric power and irrigation"],
     },
-    imageHint: "Aliakmon River aerial view", image: "/poi-images/greece-aliakmon-river-nature-v2.webp"},
-  {
+imageHint: "Aliakmon River aerial view",
+    descriptionAdvanced: {
+      de: "Der Aliakmonas ist der längste ausschließlich in Griechenland verlaufende Fluss, entspringt im Grammos-Gebirge und mündet in den Thermaischen Golf.",
+      hu: "Az Aliakmonasz Görögország leghosszabb folyója, amely teljes egészében az ország területén folyik; a Grammosz-hegységben ered és az Égei-tengerbe torkollik.",
+      ro: "Aliakmon este cel mai lung râu care curge integral pe teritoriul Greciei, izvorând din munții Grammos și vărsându-se în Golful Thermaic.",
+      en: "The Aliakmon is the longest river flowing entirely within Greece, originating in the Grammos Mountains and traveling 297 kilometers to the Aegean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 297 Kilometern", "Einzugsgebiet 9225 km2", "Entspringt im Grammos-Gebirge", "Wichtig für die Wasserversorgung"],
+      hu: ["Teljes hossza 297 kilométer", "Vízgyűjtő területe 9225 km2", "A Grammosz-hegységben ered", "Fontos ivóvízforrás Szalonnikinek"],
+      ro: ["Lungime totală de 297 kilometri", "Bazin hidrografic de 9225 km2", "Izvorăște din munții Grammos", "Alimentează orașul Salonic"],
+      en: ["Total length of 297 kilometers", "Basin area of 9,225 sq km", "Source in the Grammos Mountains", "Key water source for Thessaloniki"],
+    },
+    image: "/poi-images/greece-aliakmon-river-nature-v2.webp",
+},  {
     id: "greece-pindus-mountains-nature-v2",
     type: "mountain",
-    name: { de: "Pindos-Gebirge", hu: "Pindosz-hegység", ro: "Munții Pindului", en: "Pindus Mountains" },
+    name: { de: "Pindos-Gebirge", hu: "Pindosz-hegység", ro: "Munții Pindului", en: "Pindus Mountains",
+image: "/poi-images/greece-pindus-mountains-nature-v2.webp"
+},
     coords: [21.1, 39.9],
     coordinates: { lat: 39.9, lng: 21.1 },
     description: {
@@ -133,11 +225,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cunoscuți ca 'coloana vertebrală a Greciei'", "Cel mai înalt vârf este Smolikas (2637 m)", "Include două parcuri naționale importante", "Habitat esențial pentru urși bruni și lupi"],
       en: ["Known as the 'Backbone of Greece'", "Highest peak is Mount Smolikas at 2,637m", "Contains two major National Parks", "Vital habitat for brown bears and wolves"],
     },
-    imageHint: "Pindus Mountains snow-capped peaks", image: "/poi-images/greece-pindus-mountains-nature-v2.webp"},
-  {
+imageHint: "Pindus Mountains snow-capped peaks",
+    descriptionAdvanced: {
+      de: "Das Pindos-Gebirge, oft als Rückgrat Griechenlands bezeichnet, erstreckt sich über 160 Kilometer und trennt Epirus von Thessalien und Mazedonien.",
+      hu: "A Görögország gerincének nevezett Pindosz-hegység 160 kilométer hosszan húzódik észak-déli irányban, elválasztva Epíroszt Thesszáliától.",
+      ro: "Munții Pindus, numiți și coloana vertebrală a Greciei, se întind pe 160 de kilometri, separând regiunile Epir, Tesalia și Macedonia.",
+      en: "Often called the backbone of Greece, the Pindus range stretches for 160 kilometers, separating Epirus from Thessaly and Western Macedonia.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg Smolikas (2637 m)", "Länge der Gebirgskette 160 km", "Zwei Nationalparks integriert", "Besteht hauptsächlich aus Kalkstein"],
+      hu: ["Legmagasabb pontja a Szmolikasz", "A hegylánc hossza 160 km", "Két nemzeti park található benne", "Főleg mészkőből épül fel"],
+      ro: ["Vârful maxim Smolikas (2637 m)", "Lungimea lanțului este de 160 km", "Include două parcuri naționale", "Format preponderent din calcar"],
+      en: ["Highest peak Smolikas (2,637m)", "Chain length of 160 kilometers", "Contains two national parks", "Composed mainly of limestone"],
+    },
+    image: "/poi-images/greece-pindus-mountains-nature-v2.webp",
+},  {
     id: "greece-mount-pelion-nature-v2",
     type: "mountain",
-    name: { de: "Pilion", hu: "Pélion-hegység", ro: "Muntele Pelion", en: "Mount Pelion" },
+    name: { de: "Pilion", hu: "Pélion-hegység", ro: "Muntele Pelion", en: "Mount Pelion",
+image: "/poi-images/greece-mount-pelion-nature-v2.webp"
+},
     coords: [23.0, 39.4],
     coordinates: { lat: 39.4, lng: 23.0 },
     description: {
@@ -152,11 +259,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Casa mitologică a centaurilor", "Acoperit cu păduri dese de fagi și castani", "Cel mai înalt vârf are 1624 de metri", "Face legătura între Golful Pagasetic și Egee"],
       en: ["Mythological home of the Centaurs", "Densely forested with beech and chestnut trees", "Highest peak is Pourianos Stavros at 1,624m", "Borders both the Pagasetic Gulf and Aegean Sea"],
     },
-    imageHint: "Mount Pelion lush forest landscape", image: "/poi-images/greece-mount-pelion-nature-v2.webp"},
-  {
+imageHint: "Mount Pelion lush forest landscape",
+    descriptionAdvanced: {
+      de: "Der Pilion ist ein waldreiches Gebirge in Thessalien, das in der Mythologie als Heimat der Kentauren galt und für seine dichten Buchenwälder bekannt ist.",
+      hu: "A Thesszáliában található Pelion-hegység a görög mitológia szerint a kentaúrok otthona volt; dús növényzetéről és tengerparti falvairól híres.",
+      ro: "Muntele Pelion este un masiv muntos din Tesalia, considerat în mitologie casa centaurilor, faimos pentru pădurile sale dese de fagi și stejari.",
+      en: "Mount Pelion in Thessaly is a lush mountain range mythologically known as the home of the Centaurs, famous for its dense beech and oak forests.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel 1624 Meter", "Lage in der Präfektur Magnisia", "Heimat von 24 Dörfern", "Bekannt für Äpfel und Kastanien"],
+      hu: ["Legmagasabb csúcsa 1624 méter", "Magnézia prefektúrában fekszik", "24 hagyományos falu található rajta", "Almájáról és gesztenyéjéről híres"],
+      ro: ["Vârful maxim are 1624 metri", "Situat în prefectura Magnesia", "Adăpostește 24 de sate tradiționale", "Renumit pentru mere și castane"],
+      en: ["Highest peak reaches 1,624 meters", "Located in Magnesia prefecture", "Home to 24 traditional villages", "Famous for apples and chestnuts"],
+    },
+    image: "/poi-images/greece-mount-pelion-nature-v2.webp",
+},  {
     id: "greece-mount-ida-nature-v2",
     type: "peak",
-    name: { de: "Psiloritis (Berg Ida)", hu: "Psziloritisz (Ida-hegy)", ro: "Muntele Ida (Psiloritis)", en: "Mount Ida (Psiloritis)" },
+    name: { de: "Psiloritis (Berg Ida)", hu: "Psziloritisz (Ida-hegy)", ro: "Muntele Ida (Psiloritis)", en: "Mount Ida (Psiloritis)",
+image: "/poi-images/greece-mount-ida-nature-v2.webp"
+},
     coords: [24.816, 35.226],
     coordinates: { lat: 35.226, lng: 24.816 },
     description: {
@@ -171,11 +293,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din Creta (2456 m)", "Geoparc Global UNESCO din anul 2015", "Peștera Ideon este legată de nașterea lui Zeus", "Vârful este acoperit de zăpadă până primăvara"],
       en: ["Highest peak on Crete island at 2,456m", "Part of the UNESCO Global Geoparks network", "The Idaean Cave is a legendary birthplace of Zeus", "Snow often stays on its peaks until late spring"],
     },
-    imageHint: "Mount Ida Psiloritis Crete rocky peak", image: "/poi-images/greece-mount-ida-nature-v2.webp"},
-  {
+imageHint: "Mount Ida Psiloritis Crete rocky peak",
+    descriptionAdvanced: {
+      de: "Der Psiloritis ist mit 2456 Metern der höchste Berg Kretas und beherbergt die Idäische Grotte, die als Geburtsort des Zeus in der Mythologie gilt.",
+      hu: "A 2456 méter magas Psziloritisz Kréta legmagasabb hegye; itt található az Ida-barlang, amely a mitológia szerint Zeusz születési helye volt.",
+      ro: "Masivul Psiloritis este cel mai înalt vârf din Creta, atingând 2456 metri, și găzduiește peștera Ideon, locul mitic de naștere al lui Zeus.",
+      en: "Also known as Psiloritis, this is the highest mountain on Crete at 2,456 meters, featuring the Idaean Cave, the mythical birthplace of Zeus.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 2456 Meter", "Teil des UNESCO Global Geoparks", "Lage im Zentrum von Kreta", "Fundort minoischer Artefakte"],
+      hu: ["Csúcsmagassága 2456 méter", "UNESCO Globális Geopark része", "Kréta középső részén helyezkedik el", "Minoi régészeti leletek helyszíne"],
+      ro: ["Altitudinea maximă 2456 metri", "Parte din Geoparcul UNESCO", "Situat în centrul insulei Creta", "Găzduiește vestigii minoice"],
+      en: ["Peak elevation of 2,456 meters", "Part of UNESCO Global Geopark", "Located in central Crete", "Site of Minoan archaeological finds"],
+    },
+    image: "/poi-images/greece-mount-ida-nature-v2.webp",
+},  {
     id: "greece-lake-volvi-nature-v2",
     type: "lake",
-    name: { de: "Volvi-See", hu: "Volvi-tó", ro: "Lacul Volvi", en: "Lake Volvi" },
+    name: { de: "Volvi-See", hu: "Volvi-tó", ro: "Lacul Volvi", en: "Lake Volvi",
+image: "/poi-images/greece-lake-volvi-nature-v2.webp"
+},
     coords: [23.46, 40.68],
     coordinates: { lat: 40.68, lng: 23.46 },
     description: {
@@ -190,11 +327,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Al doilea cel mai mare lac natural din Grecia", "Lac tectonic cu o adâncime de până la 23 m", "Zonă protejată prin Convenția Ramsar", "Habitat pentru specii rare de pești precum Liparia"],
       en: ["Second largest natural lake in Greece", "Tectonic lake reaching depths of 23 meters", "Protected under the Ramsar Convention", "Home to rare endemic fish species like Liparia"],
     },
-    imageHint: "Lake Volvi landscape Macedonia Greece", image: "/poi-images/greece-lake-volvi-nature-v2.webp"},
-  {
+imageHint: "Lake Volvi landscape Macedonia Greece",
+    descriptionAdvanced: {
+      de: "Der Volvi-See in Zentralmazedonien ist der zweitgrößte natürliche See Griechenlands und bildet zusammen mit dem Koronia-See ein Ramsar-Feuchtgebiet.",
+      hu: "A Közép-Makedóniában található Volvi-tó Görögország második legnagyobb természetes tava, amely a Koronia-tóval együtt nemzetközi jelentőségű vizes élőhely.",
+      ro: "Lacul Volvi din Macedonia Centrală este al doilea cel mai mare lac natural din Grecia, formând împreună cu lacul Koronia o zonă umedă protejată.",
+      en: "Located in Central Macedonia, Lake Volvi is the second largest natural lake in Greece and forms a protected Ramsar wetland with Lake Koronia.",
+    },
+    factsAdvanced: {
+      de: ["Wasseroberfläche etwa 70 km2", "Maximale Tiefe 23 Meter", "Heimat von 24 Fischarten", "Ramsar-Schutzgebiet seit 1975"],
+      hu: ["Felszíne körülbelül 70 km2", "Maximális mélysége 23 méter", "24 halfaj él a vizében", "Ramsari terület 1975 óta"],
+      ro: ["Suprafața este de circa 70 km2", "Adâncime maximă de 23 metri", "Găzduiește 24 specii de pești", "Zonă Ramsar din anul 1975"],
+      en: ["Surface area of approx 70 sq km", "Maximum depth of 23 meters", "Home to 24 species of fish", "Ramsar site since 1975"],
+    },
+    image: "/poi-images/greece-lake-volvi-nature-v2.webp",
+},  {
     id: "greece-acheloos-river-nature-v2",
     type: "river",
-    name: { de: "Achelous", hu: "Ahelóosz", ro: "Râul Acheloos", en: "Acheloos River" },
+    name: { de: "Achelous", hu: "Ahelóosz", ro: "Râul Acheloos", en: "Acheloos River",
+image: "/poi-images/greece-acheloos-river-nature-v2.webp"
+},
     coords: [21.1, 38.4],
     coordinates: { lat: 38.4, lng: 21.1 },
     description: {
@@ -209,11 +361,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Al doilea cel mai lung râu din Grecia (220 km)", "Venerat ca zeu al râului în mitologie", "Formează o deltă mare la vărsarea în Marea Ionică", "Principalul râu utilizat pentru energia electrică"],
       en: ["Second longest river in Greece at 220 km", "Venerated as a river god in ancient mythology", "Creates a vast delta at its mouth in the Ionian Sea", "Primary river for Greek hydroelectric power"],
     },
-    imageHint: "Acheloos River valley and dam", image: "/poi-images/greece-acheloos-river-nature-v2.webp"},
-  {
+imageHint: "Acheloos River valley and dam",
+    descriptionAdvanced: {
+      de: "Der Acheloos ist der wasserreichste Fluss Griechenlands, entspringt im Pindos-Gebirge und mündet nach mehreren Stauseen in das Ionische Meer.",
+      hu: "Az Ahelóosz Görögország legbővízűbb folyója, amely a Pindosz-hegységben ered, és több vízerőművön áthaladva a Jón-tengerbe torkollik.",
+      ro: "Acheloos este fluviul cu cel mai mare debit din Grecia, izvorând din munții Pindus și vărsându-se în Marea Ionică prin regiunea Etolia.",
+      en: "The Acheloos is the most water-abundant river in Greece, originating in the Pindus Mountains and flowing 220 kilometers to the Ionian Sea.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 220 Kilometern", "Vier große Staudämme installiert", "Mündet in das Ionische Meer", "Heimat seltener Fischarten"],
+      hu: ["Hossza 220 kilométer", "Négy nagy víztározó épült rajta", "A Jón-tengerbe torkollik", "Ritka halfajok élőhelye"],
+      ro: ["Lungime de 220 kilometri", "Include patru baraje majore", "Se varsă în Marea Ionică", "Habitat pentru specii rare de pești"],
+      en: ["Length of 220 kilometers", "Contains four major dams", "Flows into the Ionian Sea", "Habitat for rare fish species"],
+    },
+    image: "/poi-images/greece-acheloos-river-nature-v2.webp",
+},  {
     id: "greece-mount-smolikas-nature-v2",
     type: "peak",
-    name: { de: "Smolikas", hu: "Szmolikasz", ro: "Muntele Smolikas", en: "Mount Smolikas" },
+    name: { de: "Smolikas", hu: "Szmolikasz", ro: "Muntele Smolikas", en: "Mount Smolikas",
+image: "/poi-images/greece-mount-smolikas-nature-v2.webp"
+},
     coords: [20.9, 40.1],
     coordinates: { lat: 40.1, lng: 20.9 },
     description: {
@@ -228,11 +395,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf din masivul Pindului", "Găzduiește lacul alpin Drakolimni", "Al doilea cel mai înalt munte din Grecia", "Compus în principal din roci ofiolitice"],
       en: ["Highest peak of the Pindus range (2,637m)", "Home to the alpine Dragon Lake (Drakolimni)", "Second highest mountain in Greece after Olympus", "Composed largely of ophiolite rocks"],
     },
-    imageHint: "Mount Smolikas Drakolimni alpine lake", image: "/poi-images/greece-mount-smolikas-nature-v2.webp"},
-  {
+imageHint: "Mount Smolikas Drakolimni alpine lake",
+    descriptionAdvanced: {
+      de: "Der Smolikas ist mit 2637 Metern der zweithöchste Berg Griechenlands und bekannt für seinen Drachensee, einen alpinen See in Gipfelnähe.",
+      hu: "A 2637 méter magas Szmolikasz Görögország második legmagasabb hegye, amely a csúcs közelében található glaciális taváról, a Sárkány-tóról híres.",
+      ro: "Muntele Smolikas este al doilea cel mai înalt vârf din Grecia, atingând 2637 metri, fiind renumit pentru lacul alpin Drakolimni situat sub vârf.",
+      en: "Mount Smolikas is the second-highest mountain in Greece at 2,637 meters, famous for its 'Dragon Lake' (Drakolimni), a glacial alpine lake near the peak.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt 2637 Meter", "Zweithöchster Berg des Landes", "Beherbergt den Drakolimni-See", "Besteht aus Ophiolith-Gestein"],
+      hu: ["Legmagasabb pontja 2637 méter", "Az ország második legmagasabbja", "Itt található a Drakolimni-tó", "Ofiolit kőzetből épül fel"],
+      ro: ["Altitudinea vârfului 2637 metri", "Al doilea vârf ca înălțime", "Găzduiește lacul Drakolimni", "Compus din roci ofiolitice"],
+      en: ["Peak elevation of 2,637 meters", "Second highest peak in Greece", "Features the Drakolimni alpine lake", "Composed of ophiolite rocks"],
+    },
+    image: "/poi-images/greece-mount-smolikas-nature-v2.webp",
+},  {
     id: "greece-edessa-waterfalls-nature-v2",
     type: "park",
-    name: { de: "Edessa-Wasserfälle", hu: "Edesszai vízesések", ro: "Cascadele din Edessa", en: "Edessa Waterfalls" },
+    name: { de: "Edessa-Wasserfälle", hu: "Edesszai vízesések", ro: "Cascadele din Edessa", en: "Edessa Waterfalls",
+image: "/poi-images/greece-edessa-waterfalls-nature-v2.webp"
+},
     coords: [22.05, 40.8],
     coordinates: { lat: 40.8, lng: 22.05 },
     description: {
@@ -247,11 +429,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cea mai mare cascadă, Karanos, are 70 m", "Formate în urma unui cutremur în sec. XIV", "Singurul loc unde poți merge în spatele cascadei", "Situate într-un parc chiar în centrul orașului"],
       en: ["Largest waterfall, Karanos, is 70 meters high", "Formed after a major earthquake in the 14th century", "Visitors can walk behind the curtain of water", "Located within a park in the heart of Edessa city"],
     },
-    imageHint: "Edessa Waterfalls Karanos waterfall", image: "/poi-images/greece-edessa-waterfalls-nature-v2.webp"},
-  {
+imageHint: "Edessa Waterfalls Karanos waterfall",
+    descriptionAdvanced: {
+      de: "Die Wasserfälle von Edessa entstanden im 14. Jahrhundert nach einem Erdbeben und werden vom Fluss Edessaios gespeist, der durch die Stadt fließt.",
+      hu: "Az edesszai vízesések a 14. században keletkeztek egy földrengés után; a legnagyobb, a Karanosz, mintegy 70 méter magasból zúdul alá a város központjában.",
+      ro: "Cascadele din Edessa s-au format în secolul al XIV-lea în urma unui cutremur, cea mai mare fiind Karanos, cu o cădere de apă de 70 de metri.",
+      en: "Formed in the 14th century after a major earthquake, these waterfalls are fed by the Edessaios River, with the tallest fall, Karanos, dropping 70 meters.",
+    },
+    factsAdvanced: {
+      de: ["Karanos-Fall ist 70 Meter hoch", "Entstehung im 14. Jahrhundert", "Gelegen im Stadtzentrum", "Teil eines Geoparks"],
+      hu: ["A Karanosz-vízesés 70 méteres", "A 14. században keletkeztek", "A városközpontban találhatóak", "Egy geopark részét képezik"],
+      ro: ["Cascada Karanos are 70 metri", "Formate în secolul al XIV-lea", "Situate în centrul orașului", "Parte dintr-un parc geologic"],
+      en: ["Karanos fall is 70 meters high", "Created in the 14th century", "Located in the city center", "Part of a geological park"],
+    },
+    image: "/poi-images/greece-edessa-waterfalls-nature-v2.webp",
+},  {
     id: "greece-mount-helmos-nature-v2",
     type: "peak",
-    name: { de: "Helmos-Gebirge", hu: "Helmosz-hegység", ro: "Munții Helmos", en: "Mount Helmos" },
+    name: { de: "Helmos-Gebirge", hu: "Helmosz-hegység", ro: "Munții Helmos", en: "Mount Helmos",
+image: "/poi-images/greece-mount-helmos-nature-v2.webp"
+},
     coords: [22.2, 38.0],
     coordinates: { lat: 38.0, lng: 22.2 },
     description: {
@@ -266,11 +463,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârful cel mai înalt este Psili Koryfi (2341 m)", "Găzduiește apele mitologice ale râului Styx", "Locația telescopului Aristarchos", "Parte a Geoparcului Global UNESCO Helmos-Vouraikos"],
       en: ["Highest peak is Psili Koryfi at 2,341 meters", "Site of the mythological waters of the Styx", "Home to the powerful Aristarchos telescope", "Part of the Helmos-Vouraikos UNESCO Geopark"],
     },
-    imageHint: "Mount Helmos snow peaks observatory", image: "/poi-images/greece-mount-helmos-nature-v2.webp"},
-  {
+imageHint: "Mount Helmos snow peaks observatory",
+    descriptionAdvanced: {
+      de: "Das Helmos-Gebirge auf dem Peloponnes ist für den Wasserfall der Styx bekannt, der in der Antike als Eingang zur Unterwelt galt.",
+      hu: "A Peloponnészoszon fekvő Helmosz-hegység a Sztüx vízeséséről híres, amelyet az ókorban az alvilág bejárataként tiszteltek a görögök.",
+      ro: "Masivul Helmos din Peloponez este celebru pentru Cascada Styx, considerată în antichitate calea de acces către lumea subpământeană a lui Hades.",
+      en: "Located in the Peloponnese, Mount Helmos is famous for the Styx waterfall, which in ancient times was considered the gateway to the underworld.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel 2355 Meter", "Beherbergt den Styx-Wasserfall", "Besitzt ein Observatorium", "Höhle der Seen liegt hier"],
+      hu: ["Legmagasabb csúcsa 2355 méter", "Itt található a Sztüx-vízesés", "Csillagvizsgáló működik rajta", "A Tavak barlangja itt fekszik"],
+      ro: ["Vârful are 2355 metri", "Găzduiește cascada Styx", "Dotat cu un observator astronomic", "Peștera Lacurilor se află aici"],
+      en: ["Highest peak at 2,355 meters", "Home to the Styx waterfall", "Features a major observatory", "Site of the Cave of the Lakes"],
+    },
+    image: "/poi-images/greece-mount-helmos-nature-v2.webp",
+},  {
     id: "greece-mount-parnassus-nature-v2",
     type: "peak",
-    name: { de: "Parnass", hu: "Parnasszosz", ro: "Muntele Parnas", en: "Mount Parnassus" },
+    name: { de: "Parnass", hu: "Parnasszosz", ro: "Muntele Parnas", en: "Mount Parnassus",
+image: "/poi-images/greece-mount-parnassus-nature-v2.webp"
+},
     coords: [22.57, 38.53],
     coordinates: { lat: 38.53, lng: 22.57 },
     description: {
@@ -285,11 +497,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Liakoura (2457 m)", "Casa mitologică a muzelor", "Una dintre cele mai mari zone de schi din Grecia", "Situat chiar deasupra sitului antic Delphi"],
       en: ["Highest peak is Liakoura at 2,457 meters", "Mythological home of the Muses and Apollo", "One of the most popular ski centers in Greece", "Overlooks the ancient sanctuary of Delphi"],
     },
-    imageHint: "Mount Parnassus snow peaks", image: "/poi-images/greece-mount-parnassus-nature-v2.webp"},
-  {
+imageHint: "Mount Parnassus snow peaks",
+    descriptionAdvanced: {
+      de: "Der Parnass ist ein Kalksteingebirge in Mittelgriechenland, das in der Antike dem Apollon geweiht war und heute das größte Skigebiet des Landes beherbergt.",
+      hu: "A Közép-Görögországban fekvő Parnasszosz-hegység az ókorban Apollón szent hegye volt; ma itt található az ország legnagyobb síközpontja.",
+      ro: "Muntele Parnassus este un masiv calcaros dedicat zeului Apollo în antichitate, adăpostind astăzi cel mai mare domeniu schiabil din Grecia.",
+      en: "A limestone mountain in central Greece, Parnassus was sacred to Apollo in antiquity and now hosts the country's largest ski resort near Delphi.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel Liakoura (2457 m)", "Größtes Skigebiet Griechenlands", "Nationalpark seit 1938", "Nähe zum Orakel von Delphi"],
+      hu: ["Legmagasabb csúcsa 2457 méter", "Görögország legnagyobb síterepe", "Nemzeti park 1938 óta", "A delphoi jósda szomszédságában"],
+      ro: ["Vârful Liakoura are 2457 metri", "Cel mai mare centru de schi", "Parc național din anul 1938", "Situat lângă oracolul din Delphi"],
+      en: ["Liakoura peak is 2,457 meters", "Largest ski resort in Greece", "National park status since 1938", "Adjacent to ancient Delphi"],
+    },
+    image: "/poi-images/greece-mount-parnassus-nature-v2.webp",
+},  {
     id: "greece-mount-taygetos-nature-v2",
     type: "mountain",
-    name: { de: "Taygetos-Gebirge", hu: "Taügetosz-hegység", ro: "Munții Taiget", en: "Mount Taygetos" },
+    name: { de: "Taygetos-Gebirge", hu: "Taügetosz-hegység", ro: "Munții Taiget", en: "Mount Taygetos",
+image: "/poi-images/greece-mount-taygetos-nature-v2.webp"
+},
     coords: [22.35, 36.95],
     coordinates: { lat: 36.95, lng: 22.35 },
     description: {
@@ -304,11 +531,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Profitis Ilias (2407 m)", "Vârful are o formă naturală de piramidă", "Domină orașul antic și modern Sparta", "Bogat în plante endemice din regiunea Mani"],
       en: ["Highest peak is Profitis Ilias at 2,407m", "Features a natural pyramid-shaped summit", "Overlooks the historic city of Sparta", "Rich in endemic flora of the Mani peninsula"],
     },
-    imageHint: "Mount Taygetos pyramid peak", image: "/poi-images/greece-mount-taygetos-nature-v2.webp"},
-  {
+imageHint: "Mount Taygetos pyramid peak",
+    descriptionAdvanced: {
+      de: "Das Taygetos-Gebirge dominiert den Peloponnes und ist für seinen markanten pyramidenförmigen Gipfel bekannt, der die antike Stadt Sparta überragt.",
+      hu: "A Peloponnészoszon elterülő Taügetosz-hegység jellegzetes piramis alakú csúcsáról ismert, amely az ókori Spárta városa fölé magasodik.",
+      ro: "Munții Taygetos domină peninsula Peloponez, fiind renumiți pentru vârful lor piramidal care străjuiește ruinele anticului oraș Sparta.",
+      en: "Dominating the Peloponnesian landscape, the Taygetos range is famous for its distinct pyramid-shaped peak overlooking the ancient city of Sparta.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Profitis Ilias (2407 m)", "Etwa 100 Kilometer Gesamtlänge", "Über 25 endemische Pflanzenarten", "Trennt Lakonien von Messenien"],
+      hu: ["Profitisz Iliasz csúcs (2407 m)", "Kb. 100 km hosszú hegylánc", "25 endemikus növényfaj él itt", "Lakóniát és Messzíniát választja el"],
+      ro: ["Vârful Profitis Ilias (2407 m)", "Lungime de circa 100 kilometri", "Peste 25 de plante endemice", "Separă Laconica de Messenia"],
+      en: ["Profitis Ilias peak (2,407m)", "Total length of 100 kilometers", "Over 25 endemic plant species", "Separates Laconia and Messenia"],
+    },
+    image: "/poi-images/greece-mount-taygetos-nature-v2.webp",
+},  {
     id: "greece-nestos-river-nature-v2",
     type: "river",
-    name: { de: "Nestos", hu: "Nesztosz", ro: "Râul Nestos", en: "Nestos River" },
+    name: { de: "Nestos", hu: "Nesztosz", ro: "Râul Nestos", en: "Nestos River",
+image: "/poi-images/greece-nestos-river-nature-v2.webp"
+},
     coords: [24.7, 41.0],
     coordinates: { lat: 41.0, lng: 24.7 },
     description: {
@@ -323,11 +565,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Formează granița dintre Macedonia și Tracia", "Faimos pentru meandrele din defileul Nestos", "Delta râului este o zonă umedă protejată", "Lungime totală de 230 km (140 km în Grecia)"],
       en: ["Forms the border between Macedonia and Thrace", "Famous for its scenic meanders in the Nestos Gorge", "The river's delta is a RAMSAR-protected wetland", "Total length of 230 km (140 km within Greece)"],
     },
-    imageHint: "Nestos River meanders gorge", image: "/poi-images/greece-nestos-river-nature-v2.webp"},
-  {
+imageHint: "Nestos River meanders gorge",
+    descriptionAdvanced: {
+      de: "Der Nestos entspringt in Bulgarien und durchfließt Nordgriechenland, wo er zwischen Makedonien und Thrakien ein ökologisch wertvolles Delta bildet.",
+      hu: "A Bulgáriában eredő Nesztosz folyó Észak-Görögországban, Makedónia és Thrákia határán folyik, deltája nemzetközi jelentőségű madárvédelmi terület.",
+      ro: "Râul Nestos izvorăște din Bulgaria și traversează nordul Greciei, formând o deltă spectaculoasă și defileul denumit Tempe a Thraciei.",
+      en: "Originating in Bulgaria, the Nestos River flows through northern Greece, forming an ecologically rich delta and the scenic Thracian Tempe gorge.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 230 Kilometern", "Delta ist Ramsar-Schutzgebiet", "Durchfließt das Nestos-Tal", "Grenze Mazedonien/Thrakien"],
+      hu: ["Teljes hossza 230 kilométer", "Deltája Ramsari terület", "A Nesztosz-szurdokon folyik át", "Makedónia és Thrákia határa"],
+      ro: ["Lungime totală de 230 kilometri", "Deltă protejată prin Ramsar", "Traversează defileul Nestos", "Granița Macedonia/Thrace"],
+      en: ["Total length of 230 kilometers", "Delta is a Ramsar wetland", "Cuts through the Nestos Gorge", "Macedonia/Thrace border river"],
+    },
+    image: "/poi-images/greece-nestos-river-nature-v2.webp",
+},  {
     id: "greece-pineios-river-nature-v2",
     type: "river",
-    name: { de: "Pinios", hu: "Peneiosz", ro: "Râul Pineios", en: "Pineios River" },
+    name: { de: "Pinios", hu: "Peneiosz", ro: "Râul Pineios", en: "Pineios River",
+image: "/poi-images/greece-pineios-river-nature-v2.webp"
+},
     coords: [22.5, 39.8],
     coordinates: { lat: 39.8, lng: 22.5 },
     description: {
@@ -343,11 +600,25 @@ export const greeceNatureV2: POI[] = [
       en: ["Primary river of the Thessalian plain", "Flows through the legendary Vale of Tempe", "Total length of approximately 216 kilometers", "Worshipped as the river god Peneus in antiquity"],
     },
     imageHint: "Pineios River Vale of Tempe",
+    descriptionAdvanced: {
+      de: "Der Pineios ist der Hauptfluss Thessaliens, entspringt im Pindos-Gebirge und fließt durch das berühmte Tempe-Tal zum Ägäischen Meer.",
+      hu: "A Pineiosz Thesszália legfontosabb folyója; a Pindosz-hegységben ered, majd a híres Tempe-völgyön keresztül az Égei-tengerbe torkollik.",
+      ro: "Pineios este principalul râu al Tesaliei, izvorând din munții Pindus și străbătând valea Tempe înainte de a se vărsa în Marea Egee.",
+      en: "The Pineios is the primary river of Thessaly, originating in the Pindus Mountains and passing through the Vale of Tempe to reach the Aegean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 216 Kilometern", "Durchfließt das Tempe-Tal", "Entspringt im Pindos-Gebirge", "Mündet in den Thermaischen Golf"],
+      hu: ["Hossza 216 kilométer", "Áthalad a Tempe-völgyön", "A Pindosz-hegységben ered", "A Thermai-öbölbe torkollik"],
+      ro: ["Lungime de 216 kilometri", "Traversează valea Tempe", "Izvorăște din munții Pindus", "Se varsă în Golful Thermaic"],
+      en: ["Length of 216 kilometers", "Flows through Vale of Tempe", "Source in the Pindus Mountains", "Discharges into Thermaic Gulf"],
+    },
   },
   {
     id: "greece-lake-vegoritida-nature-v2",
     type: "lake",
-    name: { de: "Vegoritida-See", hu: "Vegoritida-tó", ro: "Lacul Vegoritida", en: "Lake Vegoritida" },
+    name: { de: "Vegoritida-See", hu: "Vegoritida-tó", ro: "Lacul Vegoritida", en: "Lake Vegoritida",
+image: "/poi-images/greece-lake-vegoritida-nature-v2.webp"
+},
     coords: [21.8, 40.75],
     coordinates: { lat: 40.75, lng: 21.8 },
     description: {
@@ -362,11 +633,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Unul dintre cele mai adânci lacuri grecești", "Situat la o altitudine de 540 m", "Inclus în rețeaua ecologică Natura 2000", "Renumit pentru calitatea ridicată a apei"],
       en: ["One of the deepest natural lakes in Greece", "Situated at an elevation of 540 meters", "Part of the European Natura 2000 network", "Noted for its exceptionally clear water"],
     },
-    imageHint: "Lake Vegoritida blue water mountains", image: "/poi-images/greece-lake-vegoritida-nature-v2.webp"},
-  {
+imageHint: "Lake Vegoritida blue water mountains",
+    descriptionAdvanced: {
+      de: "Der Vegoritida-See in Westmazedonien gehört zu den tiefsten Seen Griechenlands und liegt in einem tektonischen Becken umgeben von Bergen.",
+      hu: "A Nyugat-Makedóniában található Vegoritida-tó Görögország egyik legmélyebb tava, amely egy hegyekkel körülvett tektonikus medencében fekszik.",
+      ro: "Lacul Vegoritida din Macedonia de Vest este unul dintre cele mai adânce din Grecia, situat într-un bazin tectonic înconjurat de munți.",
+      en: "Located in Western Macedonia, Lake Vegoritida is one of Greece's deepest lakes, situated in a tectonic basin surrounded by mountains.",
+    },
+    factsAdvanced: {
+      de: ["Wasseroberfläche 72 km2", "Maximale Tiefe etwa 50 Meter", "Höhenlage 540 Meter", "Wichtiges Vogelschutzgebiet"],
+      hu: ["Felszíne 72 km2", "Maximális mélysége kb. 50 méter", "540 méteres magasságban van", "Fontos madárvédelmi körzet"],
+      ro: ["Suprafața de 72 km2", "Adâncime maximă de 50 metri", "Altitudine de 540 metri", "Zonă de protecție a păsărilor"],
+      en: ["Surface area of 72 sq km", "Maximum depth of 50 meters", "Altitude of 540 meters", "Key bird protection area"],
+    },
+    image: "/poi-images/greece-lake-vegoritida-nature-v2.webp",
+},  {
     id: "greece-lake-trichonida-nature-v2",
     type: "lake",
-    name: { de: "Trichonida-See", hu: "Trihonida-tó", ro: "Lacul Trichonida", en: "Lake Trichonida" },
+    name: { de: "Trichonida-See", hu: "Trihonida-tó", ro: "Lacul Trichonida", en: "Lake Trichonida",
+image: "/poi-images/greece-lake-trichonida-nature-v2.webp"
+},
     coords: [21.5, 38.5],
     coordinates: { lat: 38.5, lng: 21.5 },
     description: {
@@ -381,11 +667,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai mare lac natural din Grecia", "Suprafață de aproximativ 98 km pătrați", "Adăpostește peste 200 de specii de păsări", "Găzduiește specii de pești endemici"],
       en: ["Largest natural lake within Greek territory", "Covers an area of about 98 square kilometers", "Home to over 200 species of birds", "Contains several endemic fish species"],
     },
-    imageHint: "Lake Trichonida panoramic landscape", image: "/poi-images/greece-lake-trichonida-nature-v2.webp"},
-  {
+imageHint: "Lake Trichonida panoramic landscape",
+    descriptionAdvanced: {
+      de: "Der Trichonida-See in Ätolien-Akarnanien ist der größte natürliche See Griechenlands und bekannt für seine hohe biologische Vielfalt.",
+      hu: "Az Aitólia-Akarnania régióban fekvő Trihonida-tó Görögország legnagyobb természetes tava; tiszta vizéről és gazdag élővilágáról híres.",
+      ro: "Lacul Trichonida din Etolia-Acarnania este cel mai mare lac natural din Grecia, fiind renumit pentru biodiversitatea sa ridicată.",
+      en: "Situated in Aetolia-Acarnania, Lake Trichonida is the largest natural lake in Greece, known for its exceptional water quality and biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Größter natürlicher See (98 km2)", "Maximale Tiefe 58 Meter", "Heimat von 200 Vogelarten", "Umfang etwa 51 Kilometer"],
+      hu: ["Legnagyobb természetes tó (98 km2)", "Maximális mélysége 58 méter", "200 madárfaj élőhelye", "Kerülete kb. 51 kilométer"],
+      ro: ["Cel mai mare lac natural (98 km2)", "Adâncime maximă de 58 metri", "Adăpostește 200 specii păsări", "Circumferință de 51 kilometri"],
+      en: ["Largest natural lake (98 sq km)", "Maximum depth of 58 meters", "Home to 200 bird species", "Perimeter of about 51 kilometers"],
+    },
+    image: "/poi-images/greece-lake-trichonida-nature-v2.webp",
+},  {
     id: "greece-mount-dirfi-nature-v2",
     type: "peak",
-    name: { de: "Dirfys", hu: "Dirfisz", ro: "Muntele Dirfi", en: "Mount Dirfi" },
+    name: { de: "Dirfys", hu: "Dirfisz", ro: "Muntele Dirfi", en: "Mount Dirfi",
+image: "/poi-images/greece-mount-dirfi-nature-v2.webp"
+},
     coords: [23.8, 38.6],
     coordinates: { lat: 38.6, lng: 23.8 },
     description: {
@@ -400,11 +701,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din Evia (1743 m)", "Vârful conic este numit Delphi", "Cunoscut pentru ninsori abundente iarna", "Bogat în păduri de castani și brazi"],
       en: ["Highest peak on Evia island at 1,743m", "Distinct conical summit named Delphi", "Famous for receiving heavy snowfall in winter", "Covered with lush chestnut and fir forests"],
     },
-    imageHint: "Mount Dirfi snow conical peak Evia", image: "/poi-images/greece-mount-dirfi-nature-v2.webp"},
-  {
+imageHint: "Mount Dirfi snow conical peak Evia",
+    descriptionAdvanced: {
+      de: "Die Dirfi ist der höchste Berg auf der Insel Euböa und ähnelt aufgrund ihrer steilen, kegelförmigen Gestalt dem Berg Fuji in Miniatur.",
+      hu: "A Dirfisz az Évia-sziget legmagasabb hegye; meredek, kúpszerű formája miatt gyakran hasonlítják a Fudzsi-hegyhez kicsiben.",
+      ro: "Muntele Dirfi este cel mai înalt vârf de pe insula Evia, având o formă conică spectaculoasă ce amintește de muntele Fuji.",
+      en: "The highest mountain on the island of Euboea, Mount Dirfi is known for its steep, conical shape and its often snow-capped peak in winter.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 1743 Meter", "Höchster Berg auf Euböa", "Bekannt für starke Schneefälle", "Dichte Kastanien- und Eichenwälder"],
+      hu: ["Csúcsmagassága 1743 méter", "Évia legmagasabb hegye", "Híres a téli nagy havazásokról", "Gesztenye- és tölgyerdők borítják"],
+      ro: ["Vârful are 1743 metri", "Cel mai înalt munte din Evia", "Renumit pentru zăpezile abundente", "Păduri dese de castan și stejar"],
+      en: ["Peak height of 1,743 meters", "Highest mountain on Euboea", "Famous for heavy winter snow", "Dense chestnut and oak forests"],
+    },
+    image: "/poi-images/greece-mount-dirfi-nature-v2.webp",
+},  {
     id: "greece-mount-aenos-nature-v2",
     type: "mountain",
-    name: { de: "Enos", hu: "Énosz-hegy", ro: "Muntele Aenos", en: "Mount Aenos" },
+    name: { de: "Enos", hu: "Énosz-hegy", ro: "Muntele Aenos", en: "Mount Aenos",
+image: "/poi-images/greece-mount-aenos-nature-v2.webp"
+},
     coords: [20.6, 38.1],
     coordinates: { lat: 38.1, lng: 20.6 },
     description: {
@@ -419,11 +735,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din insulele Ionice", "Protejează bradul endemic de Kefalonia", "Habitat pentru o populație de cai sălbatici", "Singurul parc național de pe o insulă grecească"],
       en: ["Highest peak in the Ionian Islands at 1,628m", "Sanctuary for the endemic Kefalonia fir tree", "Home to a small population of wild horses", "Only National Park located on a Greek island"],
     },
-    imageHint: "Mount Aenos Kefalonia fir trees", image: "/poi-images/greece-mount-aenos-nature-v2.webp"},
-  {
+imageHint: "Mount Aenos Kefalonia fir trees",
+    descriptionAdvanced: {
+      de: "Der Ainos ist der höchste Berg auf Kefalonia und beherbergt die seltene Kefalonische Tanne, die nur in diesem Nationalpark vorkommt.",
+      hu: "Az Ainosz Kefalónia legmagasabb hegye; az itt található nemzeti park védett kincse a kefalóniai jegenyefenyő, amely csak itt őshonos.",
+      ro: "Muntele Aenos este cel mai înalt punct din insula Kefalonia, fiind protejat prin parc național datorită prezenței bradului de Kefalonia.",
+      en: "The highest peak on Kefalonia, Mount Aenos is protected by a national park specifically for the unique Abies cephalonica fir forest found here.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt 1628 Meter", "Nationalpark seit 1962", "Heimat der Kefalonischen Tanne", "Bietet Blick auf Zakynthos"],
+      hu: ["Legmagasabb pontja 1628 méter", "Nemzeti park 1962 óta", "A kefalóniai jegenyefenyő hazája", "Kilátás nyílik Zakinthoszra"],
+      ro: ["Altitudinea maximă 1628 metri", "Parc național din anul 1962", "Habitat pentru Abies cephalonica", "Vedere panoramică spre Zakynthos"],
+      en: ["Highest peak reaches 1,628m", "National park since 1962", "Endemic Abies cephalonica forest", "Views extending to Zakynthos"],
+    },
+    image: "/poi-images/greece-mount-aenos-nature-v2.webp",
+},  {
     id: "greece-mount-giona-nature-v2",
     type: "peak",
-    name: { de: "Giona", hu: "Giona", ro: "Muntele Giona", en: "Mount Giona" },
+    name: { de: "Giona", hu: "Giona", ro: "Muntele Giona", en: "Mount Giona",
+image: "/poi-images/greece-mount-giona-nature-v2.webp"
+},
     coords: [22.3, 38.6],
     coordinates: { lat: 38.6, lng: 22.3 },
     description: {
@@ -438,11 +769,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârful Pyramida are o înălțime de 2510 m", "Include peretele de stâncă Sykia de 1100 m", "Al cincilea cel mai înalt masiv din Grecia", "Zonă importantă pentru extracția bauxitei"],
       en: ["Highest summit is Pyramida at 2,510 meters", "Home to the massive 1,100m Sykia cliff", "Fifth highest mountain range in Greece", "Significant area for bauxite mining"],
     },
-    imageHint: "Mount Giona Pyramida peak cliff", image: "/poi-images/greece-mount-giona-nature-v2.webp"},
-  {
+imageHint: "Mount Giona Pyramida peak cliff",
+    descriptionAdvanced: {
+      de: "Die Giona in Mittelgriechenland ist das fünfthöchste Gebirge des Landes und für ihre steilen Kalksteinwände bekannt, die Bergsteiger anziehen.",
+      hu: "A Közép-Görögországban fekvő Giona az ország ötödik legmagasabb hegyvidéke; meredek mészkőfalai a sziklamászók kedvelt célpontjai.",
+      ro: "Muntele Giona din Grecia Centrală este al cincilea cel mai înalt masiv din țară, renumit pentru pereții săi calcaroși abrupți.",
+      en: "Located in Central Greece, Mount Giona is the country's fifth-highest mountain, featuring dramatic limestone cliffs that attract rock climbers.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Pyramida (2510 m)", "Fünfthöchster Berg Griechenlands", "Große Bauxit-Vorkommen", "Besteht aus Kalkstein"],
+      hu: ["Piramida csúcs (2510 m)", "Görögország 5. legmagasabbja", "Jelentős bauxitkészletek", "Mészkőből épül fel"],
+      ro: ["Vârful Pyramida are 2510 metri", "Al 5-lea munte ca înălțime", "Zăcăminte bogate de bauxită", "Structură din calcar masiv"],
+      en: ["Pyramida peak is 2,510 meters", "Fifth highest peak in Greece", "Major bauxite deposits", "Composed of solid limestone"],
+    },
+    image: "/poi-images/greece-mount-giona-nature-v2.webp",
+},  {
     id: "greece-enipeas-waterfall-nature-v2",
     type: "park",
-    name: { de: "Enipeas-Wasserfälle", hu: "Enipeasz-vízesések", ro: "Cascada Enipeas", en: "Enipeas Waterfall" },
+    name: { de: "Enipeas-Wasserfälle", hu: "Enipeasz-vízesések", ro: "Cascada Enipeas", en: "Enipeas Waterfall",
+image: "/poi-images/greece-enipeas-waterfall-nature-v2.webp"
+},
     coords: [22.4, 40.1],
     coordinates: { lat: 40.1, lng: 22.4 },
     description: {
@@ -457,12 +803,27 @@ export const greeceNatureV2: POI[] = [
       ro: ["Situată în defileul Enipeas de pe Olimp", "Bazinele sunt numite 'Băile lui Zeus'", "Traseu de drumeție popular din Litochoro", "Apă de munte cristalină, dar foarte rece"],
       en: ["Located in the Enipeas Gorge on Mt. Olympus", "Features pools called the 'Baths of Zeus'", "A popular hiking trail starts from Litochoro", "Crystal clear but very cold mountain water"],
     },
-    imageHint: "Enipeas Waterfall Baths of Zeus Olympus", image: "/poi-images/greece-enipeas-waterfall-nature-v2.webp"}
-,
+imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
+    descriptionAdvanced: {
+      de: "Der Enipeas-Wasserfall liegt am Fuße des Olymps bei Litochoro und ist Teil einer Schlucht, die laut Mythologie den Göttern als Badestelle diente.",
+      hu: "Az Olümposz lábánál, Litohoro közelében található Enipeasz-vízesés egy festői szurdok része, ahol a mitológia szerint az istenek fürödtek.",
+      ro: "Cascada Enipeas este situată la poalele Muntelui Olimp, lângă Litochoro, făcând parte dintr-un defileu spectaculos cu ape cristaline.",
+      en: "Situated at the foot of Mount Olympus near Litochoro, the Enipeas waterfall is part of a lush gorge where gods allegedly bathed in mythology.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Schlucht 10 km", "Nahe der Stadt Litochoro", "Beginnt bei Prionia (1100 m)", "Teil des Olymp-Nationalparks"],
+      hu: ["A szurdok hossza 10 km", "Litohoro városa mellett van", "Prioniánál kezdődik (1100 m)", "Az Olümposz Nemzeti Park része"],
+      ro: ["Lungimea defileului este 10 km", "Aproape de orașul Litochoro", "Începe la Prionia (1100 m)", "Parte din Parcul Național Olimp"],
+      en: ["Gorge length of 10 kilometers", "Located near Litochoro town", "Starts at Prionia (1,100m)", "Within Mount Olympus National Park"],
+    },
+    image: "/poi-images/greece-enipeas-waterfall-nature-v2.webp",
+},
   {
     id: "greece-lake-orestiada-nature-v2",
     type: "lake",
-    name: { de: "Orestiada-See", hu: "Orestiada-tó", ro: "Lacul Orestiada", en: "Lake Orestiada" },
+    name: { de: "Orestiada-See", hu: "Orestiada-tó", ro: "Lacul Orestiada", en: "Lake Orestiada",
+image: "/poi-images/greece-lake-orestiada-nature-v2.webp"
+},
     coordinates: { lat: 40.5186, lng: 21.2825 },
     description: {
       de: "Ein natürlicher See in Westmakedonien, der auf einer Höhe von 630 Metern liegt. Er umschließt die Halbinsel, auf der die Stadt Kastoria erbaut wurde, und ist für seine reiche Avifauna bekannt.",
@@ -477,11 +838,25 @@ export const greeceNatureV2: POI[] = [
       en: ["Surface area of approximately 28 sq km", "Maximum depth of about 9 meters", "Member of the Natura 2000 network", "Formed roughly 10 million years ago"],
     },
     imageHint: "Lake Orestiada with Kastoria city peninsula at dawn",
+    descriptionAdvanced: {
+      de: "Der Orestiada-See, auch See von Kastoria genannt, ist ein flacher See in Westmazedonien, der die Stadt Kastoria auf einer Halbinsel umschließt.",
+      hu: "A Nyugat-Makedóniában található Orestiada-tó (vagy Kasztoriai-tó) egy sekély vizű tó, amely egy félszigeten fekvő várost, Kasztoriát öleli körül.",
+      ro: "Lacul Orestiada, cunoscut și ca lacul Kastoria, este o întindere de apă dulce ce înconjoară orașul Kastoria situat pe o peninsulă.",
+      en: "Also known as Lake Kastoria, this shallow lake in Western Macedonia surrounds the historic city of Kastoria, which sits on a limestone peninsula.",
+    },
+    factsAdvanced: {
+      de: ["Fläche etwa 28 km2", "Maximale Tiefe 9 Meter", "Höhenlage 630 Meter", "Heimat vieler Pelikane"],
+      hu: ["Területe körülbelül 28 km2", "Maximális mélysége 9 méter", "630 méteres magasságban van", "Sok pelikán él a partján"],
+      ro: ["Suprafață de circa 28 km2", "Adâncime maximă de 9 metri", "Altitudine de 630 metri", "Habitat pentru pelicani"],
+      en: ["Surface area of 28 sq km", "Maximum depth of 9 meters", "Altitude of 630 meters", "Rich habitat for pelicans"],
+    },
   },
   {
     id: "greece-acheron-river-nature-v2",
     type: "river",
-    name: { de: "Acheron-Fluss", hu: "Acheron-folyó", ro: "Râul Acheron", en: "Acheron River" },
+    name: { de: "Acheron-Fluss", hu: "Acheron-folyó", ro: "Râul Acheron", en: "Acheron River",
+image: "/poi-images/greece-acheron-river-nature-v2.webp"
+},
     coordinates: { lat: 39.2411, lng: 20.4994 },
     description: {
       de: "Ein Fluss in der Region Epirus, der für sein kristallklares Wasser und seine tiefen Schluchten bekannt ist. In der antiken Mythologie galt er als einer der Wege in die Unterwelt.",
@@ -495,11 +870,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lungime totală de aproximativ 52 km", "Se varsă în Marea Ionică la Ammoudia", "Izvoarele sunt lângă satul Glyki", "Destinație populară pentru trekking fluvial"],
       en: ["Total length of approximately 52 km", "Flows into the Ionian Sea at Ammoudia", "Springs located near Glyki village", "Popular destination for river trekking"],
     },
-    imageHint: "Acheron river crystal clear water in rocky gorge", image: "/poi-images/greece-acheron-river-nature-v2.webp"},
-  {
+imageHint: "Acheron river crystal clear water in rocky gorge",
+    descriptionAdvanced: {
+      de: "Der Acheron in Epirus war in der Antike als Fluss der Unterwelt bekannt, durch den Charon die Seelen der Verstorbenen zum Hades führte.",
+      hu: "Az Epíroszban folyó Aheron folyót az ókorban az alvilág folyójaként ismerték; a mítosz szerint Kharón itt vitte át a holtak lelkét Hádészba.",
+      ro: "Râul Acheron din Epir a fost considerat în mitologia greacă poarta către Infern, fiind cursul de apă traversat de luntrașul Charon.",
+      en: "The Acheron River in Epirus was mythologically known as the river of the underworld, where Charon ferried the souls of the dead to Hades.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 52 Kilometern", "Entspringt im Souli-Gebirge", "Wichtiges Schutzgebiet (Natura)", "Mündet in das Ionische Meer"],
+      hu: ["Hossza 52 kilométer", "A Souli-hegységben ered", "Natura 2000-es terület", "A Jón-tengerbe torkollik"],
+      ro: ["Lungime de 52 kilometri", "Izvorăște din munții Souli", "Zonă protejată Natura 2000", "Se varsă în Marea Ionică"],
+      en: ["Length of 52 kilometers", "Source in the Souli Mountains", "Natura 2000 protected site", "Flows into the Ionian Sea"],
+    },
+    image: "/poi-images/greece-acheron-river-nature-v2.webp",
+},  {
     id: "greece-vouraikos-gorge-nature-v2",
     type: "valley",
-    name: { de: "Vouraikos-Schlucht", hu: "Vouraikos-szurdok", ro: "Cheile Vouraikos", en: "Vouraikos Gorge" },
+    name: { de: "Vouraikos-Schlucht", hu: "Vouraikos-szurdok", ro: "Cheile Vouraikos", en: "Vouraikos Gorge",
+image: "/poi-images/greece-vouraikos-gorge-nature-v2.webp"
+},
     coordinates: { lat: 38.1147, lng: 22.1642 },
     description: {
       de: "Eine beeindruckende Schlucht auf dem Peloponnes, die vom gleichnamigen Fluss geformt wurde. Sie ist berühmt für die historische Zahnradbahn, die die Orte Diakopto und Kalavryta verbindet.",
@@ -513,11 +903,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 20 de kilometri", "Parte a Geoparcului Chelmos-Vouraikos", "Calea ferată a fost deschisă în 1896", "Găzduiește specii de plante endemice rare"],
       en: ["Approximately 20 kilometers long", "Part of the Chelmos-Vouraikos Geopark", "Rack railway opened in 1896", "Home to rare endemic plant species"],
     },
-    imageHint: "Vouraikos gorge cliffs with rack railway tracks", image: "/poi-images/greece-vouraikos-gorge-nature-v2.webp"},
-  {
+imageHint: "Vouraikos gorge cliffs with rack railway tracks",
+    descriptionAdvanced: {
+      de: "Die Vouraikos-Schlucht auf dem Peloponnes ist berühmt für ihre Zahnradbahn, die durch steile Felswände und Tunnel von Diakopto nach Kalavryta führt.",
+      hu: "A Peloponnészoszon található Vouraikosz-szurdok híres a fogaskerekű vasútjáról, amely sziklákon és alagutakon át vezet Diakoptóból Kalavritába.",
+      ro: "Defileul Vouraikos din Peloponez este faimos pentru calea ferată cu cremalieră care șerpuiește printre pereți de stâncă și numeroase tuneluri.",
+      en: "Located in the Peloponnese, the Vouraikos Gorge is famous for its rack railway (Odontotos) that winds through steep cliffs and tunnels.",
+    },
+    factsAdvanced: {
+      de: ["Schluchtlänge 20 Kilometer", "Historische Zahnradbahn (1896)", "Teil eines UNESCO Geoparks", "Gehört zum Gebirgszug Chelmos"],
+      hu: ["A szurdok hossza 20 km", "Történelmi vasút (1896 óta)", "UNESCO Geopark része", "A Helmosz-hegységhez tartozik"],
+      ro: ["Lungimea defileului 20 km", "Cale ferată din anul 1896", "Parte din Geoparcul UNESCO", "Aparține masivului Chelmos"],
+      en: ["Gorge length of 20 kilometers", "Historic rack railway (1896)", "Part of a UNESCO Geopark", "Belongs to the Chelmos range"],
+    },
+    image: "/poi-images/greece-vouraikos-gorge-nature-v2.webp",
+},  {
     id: "greece-mount-mainalo-nature-v2",
     type: "mountain",
-    name: { de: "Berg Mainalo", hu: "Mainalo-hegy", ro: "Muntele Mainalo", en: "Mount Mainalo" },
+    name: { de: "Berg Mainalo", hu: "Mainalo-hegy", ro: "Muntele Mainalo", en: "Mount Mainalo",
+image: "/poi-images/greece-mount-mainalo-nature-v2.webp"
+},
     coordinates: { lat: 37.6258, lng: 22.2103 },
     description: {
       de: "Das höchste Bergmassiv in Arkadien im Zentrum des Peloponnes. Es ist fast vollständig mit dichten Tannenwäldern bedeckt und beherbergt eines der ältesten Skigebiete des Landes.",
@@ -531,11 +936,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârful maxim Ostrakina are 1981 m", "Parte a traseului montan Menalon Trail", "Zonă protejată prin Natura 2000", "Locul mitologic al zeului Pan"],
       en: ["Highest peak is Ostrakina at 1981m", "Part of the 75km Menalon Trail", "Protected Natura 2000 site", "Mythological home of the god Pan"],
     },
-    imageHint: "Snowy peak of Mount Mainalo with fir forest", image: "/poi-images/greece-mount-mainalo-nature-v2.webp"},
-  {
+imageHint: "Snowy peak of Mount Mainalo with fir forest",
+    descriptionAdvanced: {
+      de: "Das Mainalo-Gebirge im Zentrum des Peloponnes ist für seine ausgedehnten Tannenwälder und das dichte Wanderwegenetz des Menalon Trail bekannt.",
+      hu: "A Peloponnészosz szívében fekvő Mainalo-hegység sűrű fenyőerdőiről és a Menalon Trail túraútvonaláról ismert, amely történelmi falvakat köt össze.",
+      ro: "Munții Mainalo din centrul Peloponezului sunt cunoscuți pentru pădurile vaste de brad și rețeaua de trasee montane denumită Menalon Trail.",
+      en: "Located in central Peloponnese, Mount Mainalo is famous for its vast fir forests and the European-certified Menalon Trail hiking network.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Ostrakina (1981 m)", "Größtes Waldgebiet Peloponnes", "Menalon Trail (75 km Länge)", "Besitzt ein kleines Skizentrum"],
+      hu: ["Ostrakina csúcs (1981 m)", "A Peloponnészosz legnagyobb erdeje", "Menalon Trail (75 km hosszú)", "Kisebb síközponttal rendelkezik"],
+      ro: ["Vârful Ostrakina are 1981 m", "Cea mai mare pădure din zonă", "Traseul Menalon are 75 km", "Găzduiește un centru de schi"],
+      en: ["Ostrakina peak (1,981m)", "Largest forest in Peloponnese", "Menalon Trail length: 75 km", "Features a local ski center"],
+    },
+    image: "/poi-images/greece-mount-mainalo-nature-v2.webp",
+},  {
     id: "greece-polylimnio-waterfalls-nature-v2",
     type: "landmark",
-    name: { de: "Polylimnio-Wasserfälle", hu: "Polylimnio-vízesések", ro: "Cascadele Polylimnio", en: "Polylimnio Waterfalls" },
+    name: { de: "Polylimnio-Wasserfälle", hu: "Polylimnio-vízesések", ro: "Cascadele Polylimnio", en: "Polylimnio Waterfalls",
+image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp"
+},
     coordinates: { lat: 36.9833, lng: 21.85 },
     description: {
       de: "Ein verstecktes Naturparadies in Messenien, bestehend aus 15 aufeinanderfolgenden Seen und zahlreichen Wasserfällen. Das türkisfarbene Wasser sammelt sich in natürlichen Kalksteinbecken.",
@@ -549,11 +969,26 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cea mai înaltă cascadă, Kadoula (20 m)", "Situat lângă satul Charavgi", "Debit de apă constant tot anul", "Loc popular pentru înot în natură"],
       en: ["Highest waterfall is Kadoula (20m)", "Located near Charavgi village", "Constant water flow year-round", "Popular spot for wild swimming"],
     },
-    imageHint: "Polylimnio turquoise lake and waterfall in forest", image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp"},
-  {
+imageHint: "Polylimnio turquoise lake and waterfall in forest",
+    descriptionAdvanced: {
+      de: "Polylimnio in Messenien ist ein System aus 15 aufeinanderfolgenden Seen und Wasserfällen, die sich in einer üppig bewachsenen Schlucht verstecken.",
+      hu: "A Messzíniában található Polylimnio egy 15 tóból és vízesésből álló rendszer, amely egy dús növényzetű, rejtett szurdokban helyezkedik el.",
+      ro: "Polylimnio din Messenia este un complex format din 15 lacuri și cascade succesive, ascunse într-un defileu cu vegetație luxuriantă.",
+      en: "Polylimnio in Messenia is a stunning system of 15 successive lakes and waterfalls hidden within a lush green gorge near Kalamata.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 15 Seen", "Kadi-Fall ist 25 Meter hoch", "Liegt nahe der Stadt Pylos", "Natürliche Schwimmbecken"],
+      hu: ["15 tóból áll a rendszer", "Kadi-vízesés 25 méter magas", "Pilosz városa közelében van", "Természetes medencék fürdésre"],
+      ro: ["Cuprinde un total de 15 lacuri", "Cascada Kadi are 25 metri", "Situat aproape de orașul Pylos", "Bazine naturale pentru înot"],
+      en: ["Consists of 15 linked lakes", "Kadi fall is 25 meters high", "Located near the town of Pylos", "Natural basins used for swimming"],
+    },
+    image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp",
+},  {
     id: "greece-lake-stymphalia-nature-v2",
     type: "lake",
-    name: { de: "Stymphalia-See", hu: "Sztümphaloszi-tó", ro: "Lacul Stymphalia", en: "Lake Stymphalia" },
+    name: { de: "Stymphalia-See", hu: "Sztümphaloszi-tó", ro: "Lacul Stymphalia", en: "Lake Stymphalia",
+image: "/poi-images/greece-lake-stymphalia-nature-v2.webp"
+},
     coordinates: { lat: 37.8519, lng: 22.4647 },
     description: {
       de: "Ein geschlossener Karstsee in Korinthia auf einer Höhe von 600 Metern. Er ist ein bedeutendes Feuchtgebiet für Zugvögel und eng mit der Sage der stymphalischen Vögel von Herakles verknüpft.",
@@ -568,5 +1003,17 @@ export const greeceNatureV2: POI[] = [
       en: ["Water level varies significantly by season", "Habitat for the rare Phoxinellus fish", "Features a modern Environment Museum", "Part of the Peloponnesian highlands"],
     },
     imageHint: "Lake Stymphalia wetlands with mountains in background",
+    descriptionAdvanced: {
+      de: "Der Stymphalische See auf dem Peloponnes ist ein sumpfiger Karstsee, der durch die mythologische Herkules-Aufgabe der stymphalischen Vögel bekannt wurde.",
+      hu: "A Peloponnészoszon található Sztimfalia-tó egy mocsaras karszttó; a mitológiában Héraklész hatodik feladata, a sztümphaloszi madarak kiirtása fűződik hozzá.",
+      ro: "Lacul Stymphalia din Peloponez este un lac carstic mlăștinos, celebru în mitologie pentru a șasea muncă a lui Hercule: păsările stinfaliene.",
+      en: "Located in the Peloponnese, Lake Stymphalia is a marshy karst lake famous for Hercules' sixth labor: the slaying of the Stymphalian birds.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von 600 Metern", "Fläche variiert (ca. 3,5 km2)", "Wichtig für Zugvögel", "Sitz eines Umweltmuseums"],
+      hu: ["600 méteres magasságban van", "Változó terület (kb. 3,5 km2)", "Vándormadarak állomása", "Környezetvédelmi múzeum itt"],
+      ro: ["Altitudine de 600 metri", "Suprafață variabilă (3,5 km2)", "Popas pentru păsări migratoare", "Găzduiește un muzeu ecologic"],
+      en: ["Altitude of 600 meters", "Variable area (approx 3.5 sq km)", "Key stop for migratory birds", "Home to Environment Museum"],
+    },
   }
 ];

@@ -1,4 +1,4 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninEconomicV2: POI[] = [
@@ -11,8 +11,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Industriezone Glo-Djigbé (GDIZ)",
       hu: "Glo-Djigbé Ipari Övezet (GDIZ)",
       ro: "Zona Industrială Glo-Djigbé (GDIZ)",
-      en: "Glo-Djigbé Industrial Zone (GDIZ)"
-    },
+      en: "Glo-Djigbé Industrial Zone (GDIZ)",
+image: "/poi-images/industriezone-glo-djigbe-economic-v2.webp"
+},
     description: {
       de: "Ein massives Industrieprojekt nördlich von Cotonou, das auf die Verarbeitung lokaler Rohstoffe wie Baumwolle und Cashewnüsse spezialisiert ist.",
       hu: "Egy hatalmas ipari projekt Cotonoutól északra, amely a helyi nyersanyagok, például a gyapot és a kesudió feldolgozására specializálódott.",
@@ -43,8 +44,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Zementwerk Onigbolo",
       hu: "Onigbolo Cementgyár",
       ro: "Fabrica de Ciment Onigbolo",
-      en: "Onigbolo Cement Plant"
-    },
+      en: "Onigbolo Cement Plant",
+image: "/poi-images/zementwerk-onigbolo-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Zementwerke in Benin, das Kalkstein aus nahegelegenen Steinbrüchen verarbeitet, um den nationalen Baubedarf zu decken.",
       hu: "Benin egyik legnagyobb cementgyára, amely a közeli bányákból származó mészkövet dolgozza fel a nemzeti építkezési igények kielégítésére.",
@@ -74,8 +76,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Zuckerfabrik SUCOBE Savè",
       hu: "SUCOBE Cukorgyár, Savè",
       ro: "Fabrica de Zahăr SUCOBE Savè",
-      en: "SUCOBE Sugar Factory Savè"
-    },
+      en: "SUCOBE Sugar Factory Savè",
+image: "/poi-images/zuckerfabrik-sucobe-save-economic-v2.webp"
+},
     description: {
       de: "Ein großer Industriekomplex in Savè, der sich auf den Anbau von Zuckerrohr und die Produktion von raffiniertem Zucker konzentriert.",
       hu: "Egy nagy ipari komplexum Savèben, amely a cukornád termesztésére és a finomított cukor előállítására összpontosít.",
@@ -105,8 +108,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "SODECO Baumwollfabrik Banikoara",
       hu: "SODECO Gyapotgyár, Banikoara",
       ro: "Fabrica de Bumbac SODECO Banikoara",
-      en: "SODECO Cotton Factory Banikoara"
-    },
+      en: "SODECO Cotton Factory Banikoara",
+image: "/poi-images/sodeco-baumwollfabrik-banikoara-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige Entkörnungsanlage im Herzen des beninischen Baumwollgürtels, die das 'weiße Gold' für den Export vorbereitet.",
       hu: "Egy fontos gyapotfeldolgozó üzem a benini gyapotöv szívében, amely az 'fehér aranyat' készíti elő exportra.",
@@ -136,8 +140,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "SOBEBRA Brauerei Cotonou",
       hu: "SOBEBRA Sörgyár, Cotonou",
       ro: "Berăria SOBEBRA Cotonou",
-      en: "SOBEBRA Brewery Cotonou"
-    },
+      en: "SOBEBRA Brewery Cotonou",
+image: "/poi-images/sobebra-brauerei-cotonou-economic-v2.webp"
+},
     description: {
       de: "Die führende Brauerei Benins, die eine Vielzahl von Bieren und Erfrischungsgetränken für den gesamten westafrikanischen Markt produziert.",
       hu: "A legnagyobb sörgyár Beninben, amely 1960-ban nyitotta meg kapuit Cotonouban. Fontos szerepet tölt be a helyi gazdaságban és a munkahelyteremtésben.",
@@ -167,8 +172,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "SODECO Baumwollfabrik Parakou",
       hu: "SODECO Gyapotgyár, Parakou",
       ro: "Fabrica de Bumbac SODECO Parakou",
-      en: "SODECO Cotton Factory Parakou"
-    },
+      en: "SODECO Cotton Factory Parakou",
+image: "/poi-images/sodeco-baumwollfabrik-parakou-economic-v2.webp"
+},
     description: {
       de: "Eine zentrale Verarbeitungsanlage für Baumwolle in Nordbenin, die strategisch günstig am Endpunkt der Eisenbahnlinie liegt.",
       hu: "Központi gyapotfeldolgozó üzem Észak-Beninben, amely stratégiailag a vasútvonal végpontján helyezkedik el.",
@@ -198,8 +204,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Textilfabrik COTEB Parakou",
       hu: "COTEB Textilgyár, Parakou",
       ro: "Fabrica de Textile COTEB Parakou",
-      en: "COTEB Textile Factory Parakou"
-    },
+      en: "COTEB Textile Factory Parakou",
+image: "/poi-images/textilfabrik-coteb-parakou-economic-v2.webp"
+},
     description: {
       de: "Ein historisches Textilwerk, das darauf abzielt, die in Benin produzierte Baumwolle lokal zu Stoffen und Kleidung zu verarbeiten.",
       hu: "Egy történelmi textilgyár, amelynek célja a Beninben termelt gyapot helyi feldolgozása szövetté és ruházattá.",
@@ -229,8 +236,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Holzverarbeitungswerk Bassila",
       hu: "Bassila Fafeldolgozó Üzem",
       ro: "Fabrica de Prelucrare a Lemnului Bassila",
-      en: "Bassila Wood Processing Plant"
-    },
+      en: "Bassila Wood Processing Plant",
+image: "/poi-images/holzverarbeitung-bassila-economic-v2.webp"
+},
     description: {
       de: "Ein Industriezentrum für die nachhaltige Nutzung und Verarbeitung von Edelhölzern aus den umliegenden Waldreservaten.",
       hu: "Ipari központ a környező erdőrezervátumokból származó nemesfák fenntartható hasznosítására és feldolgozására.",
@@ -260,8 +268,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Cashew-Verarbeitungsanlage Djougou",
       hu: "Djougou Kesudió-feldolgozó Üzem",
       ro: "Instalația de Procesare Caju Djougou",
-      en: "Djougou Cashew Processing Plant"
-    },
+      en: "Djougou Cashew Processing Plant",
+image: "/poi-images/cashew-verarbeitung-djougou-economic-v2.webp"
+},
     description: {
       de: "Eine moderne Anlage zur Verarbeitung von Cashewnüssen, die dazu beiträgt, den Exportwert dieses wichtigen Agrarprodukts zu steigern.",
       hu: "Egy modern kesudió-feldolgozó üzem, amely hozzájárul e fontos mezőgazdasági termék exportértékének növeléséhez.",
@@ -291,8 +300,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Marmorbruch Idadjo",
       hu: "Idadjo Márványbánya",
       ro: "Cariera de Marmură Idadjo",
-      en: "Idadjo Marble Quarry"
-    },
+      en: "Idadjo Marble Quarry",
+image: "/poi-images/marmorbruch-idadjo-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Steinbruch nahe Savè, in dem hochwertiger Marmor für die Bauindustrie und dekorative Zwecke gewonnen wird.",
       hu: "Egy fontos bánya Savè közelében, ahol kiváló minőségű márványt bányásznak építőipari és dekorációs célokra.",
@@ -329,8 +339,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Palmölraffinerie Agonvy",
       hu: "Agonvy Pálmaolaj-finomító",
       ro: "Rafinăria de Ulei de Palmier Agonvy",
-      en: "Agonvy Palm Oil Refinery"
-    },
+      en: "Agonvy Palm Oil Refinery",
+image: "/poi-images/palmoelraffinerie-agonvy-economic-v2.webp"
+},
     description: {
       de: "Eine Anlage zur Veredelung von Rohpalmöl aus den umliegenden Plantagen zu Speiseöl und Seifenprodukten.",
       hu: "Üzem a környező ültetvényekről származó nyers pálmaolaj finomítására étolajjá és szappankészítményekké.",
@@ -360,8 +371,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Fischereihafen von Cotonou",
       hu: "Cotonou Halászkikötő",
       ro: "Portul de Pescuit Cotonou",
-      en: "Fishing Port of Cotonou"
-    },
+      en: "Fishing Port of Cotonou",
+image: "/poi-images/fischereihafen-cotonou-economic-v2.webp"
+},
     description: {
       de: "Das Zentrum der beninischen Fischwirtschaft, an dem täglich Hunderte von Pirogen und Trawlern ihren Fang anlanden.",
       hu: "Cotonou fő halászati kikötője, amely elengedhetetlen a helyi lakosság élelmezéséhez és a gazdasági kereskedelemhez. Naponta halászflották százai érkeznek ide.",
@@ -391,8 +403,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Erdölterminal Cotonou",
       hu: "Cotonou Kőolajterminál",
       ro: "Terminalul Petrolier Cotonou",
-      en: "Cotonou Petroleum Terminal"
-    },
+      en: "Cotonou Petroleum Terminal",
+image: "/poi-images/erdoelterminal-cotonou-economic-v2.webp"
+},
     description: {
       de: "Eine strategische Anlage für den Import und die Lagerung von Treibstoffen, die Benin und die Nachbarländer versorgt.",
       hu: "Stratégiai létesítmény üzemanyagok importálására és tárolására, amely Benint és a szomszédos országokat látja el.",
@@ -422,8 +435,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Trockenhafen Malanville",
       hu: "Malanville Szárazkikötő",
       ro: "Portul Uscat Malanville",
-      en: "Malanville Dry Port"
-    },
+      en: "Malanville Dry Port",
+image: "/poi-images/trockenhafen-malanville-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Logistikknotenpunkt an der Grenze zu Niger, der den Güterumschlag für den Transithandel nach Westafrika abwickelt.",
       hu: "Fontos logisztikai csomópont a nigéri határnál, amely a Nyugat-Afrikába irányuló tranzitkereskedelem áruforgalmát kezeli.",
@@ -453,8 +467,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Industriegebiet Sèmè-Kpodji",
       hu: "Sèmè-Kpodji Ipari Terület",
       ro: "Zona Industrială Sèmè-Kpodji",
-      en: "Sèmè-Kpodji Industrial Area"
-    },
+      en: "Sèmè-Kpodji Industrial Area",
+image: "/poi-images/industriegebiet-seme-kpodji-economic-v2.webp"
+},
     description: {
       de: "Ein wachsendes Industrieareal nahe der nigerianischen Grenze, das Logistik, Produktion und Handel kombiniert.",
       hu: "Egy növekvő ipari terület a nigériai határ közelében, amely egyesíti a logisztikát, a termelést és a kereskedelmet.",
@@ -484,8 +499,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Zementwerk Licel Bohicon",
       hu: "Licel Cementgyár, Bohicon",
       ro: "Fabrica de Ciment Licel Bohicon",
-      en: "Licel Cement Plant Bohicon"
-    },
+      en: "Licel Cement Plant Bohicon",
+image: "/poi-images/zementwerk-licel-bohicon-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Werk für die Produktion von Zement und Baustoffen in Zentralbenin, das die regionale Entwicklung unterstützt.",
       hu: "Fontos üzem cement és építőanyagok gyártására Közép-Beninben, amely támogatja a regionális fejlődést.",
@@ -515,8 +531,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Palmölmühle Hinvi",
       hu: "Hinvi Pálmaolaj-malom",
       ro: "Moara de Ulei de Palmier Hinvi",
-      en: "Hinvi Palm Oil Mill"
-    },
+      en: "Hinvi Palm Oil Mill",
+image: "/poi-images/palmoelmuehle-hinvi-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Standort für die Extraktion von Palmöl, der Teil eines großen agro-industriellen Komplexes in Südbenin ist.",
       hu: "A pálmaolaj-extrakció jelentős helyszíne, amely egy nagy agrár-ipari komplexum része Dél-Beninben.",
@@ -546,8 +563,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Ananasverarbeitung Allada",
       hu: "Allada Ananászfeldolgozó",
       ro: "Prelucrarea Ananasului Allada",
-      en: "Allada Pineapple Processing"
-    },
+      en: "Allada Pineapple Processing",
+image: "/poi-images/ananasverarbeitung-allada-economic-v2.webp"
+},
     description: {
       de: "Eine Industrieanlage, die sich auf die Herstellung von frischen Säften und Konserven aus den berühmten Allada-Ananas spezialisiert hat.",
       hu: "Ipari létesítmény, amely friss levek és konzervek készítésére specializálódott a híres alladai ananászból.",
@@ -577,8 +595,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Kalksteinbruch Onigbolo",
       hu: "Onigbolo Mészkőbánya",
       ro: "Cariera de Calcar Onigbolo",
-      en: "Onigbolo Limestone Quarry"
-    },
+      en: "Onigbolo Limestone Quarry",
+image: "/poi-images/kalksteinbruch-onigbolo-economic-v2.webp"
+},
     description: {
       de: "Der massive Tagebau, der den Rohstoff für die benachbarte Zementfabrik liefert und für die beninische Bergbauindustrie von zentraler Bedeutung ist.",
       hu: "Hatalmas külszíni fejtés, amely a szomszédos cementgyár nyersanyagát biztosítja, és központi jelentőségű a benini bányászat számára.",
@@ -608,8 +627,9 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Reismühle Glazoué",
       hu: "Glazoué Rizsmalom",
       ro: "Moara de Orez Glazoué",
-      en: "Glazoué Rice Mill"
-    },
+      en: "Glazoué Rice Mill",
+image: "/poi-images/reismuehle-glazoue-economic-v2.webp"
+},
     description: {
       de: "Ein Verarbeitungszentrum für lokal angebauten Reis, das die Selbstversorgung des Landes mit Grundnahrungsmitteln fördert.",
       hu: "A helyben termesztett rizs feldolgozó központja, amely elősegíti az ország önellátását alapvető élelmiszerekből.",

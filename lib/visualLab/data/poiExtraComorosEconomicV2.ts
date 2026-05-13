@@ -11,8 +11,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Kraftwerk Voidjou",
       hu: "Voidjou-erőmű",
       ro: "Centrala electrică Voidjou",
-      en: "Voidjou Power Station"
-    },
+      en: "Voidjou Power Station",
+image: "/poi-images/voidjou-power-station-economic-v2.webp"
+},
     description: {
       de: "Die Zentrale von Voidjou ist das wichtigste Wärmekraftwerk auf Grande Comore und sichert die Stromversorgung der Hauptstadt Moroni.",
       hu: "A voidjou-i erőmű Grande Comore legfontosabb hőerőműve, amely Moroni főváros áramellátását biztosítja.",
@@ -50,8 +51,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Hafen von Boingoma",
       hu: "Boingoma kikötője",
       ro: "Portul Boingoma",
-      en: "Port of Boingoma"
-    },
+      en: "Port of Boingoma",
+image: "/poi-images/boingoma-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Boingoma ist der wichtigste Seehafen der Insel Mohéli und dient als primärer Zugangspunkt für Waren und Passagiere.",
       hu: "Boingoma kikötője Mohéli szigetének legfontosabb tengeri kikötője, amely az áruk és utasok elsődleges belépési pontja.",
@@ -89,8 +91,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Seifenfabrik von Moroni",
       hu: "Moroni szappangyára",
       ro: "Fabrica de săpun din Moroni",
-      en: "Moroni Soap Factory"
-    },
+      en: "Moroni Soap Factory",
+image: "/poi-images/moroni-soap-factory-economic-v2.webp"
+},
     description: {
       de: "Diese Fabrik produziert Seifen und Reinigungsmittel aus lokalen Rohstoffen wie Kokosöl für den heimischen Markt.",
       hu: "Ez a gyár szappanokat és tisztítószereket állít elő helyi alapanyagokból, például kókuszolajból, a hazai piac számára.",
@@ -128,8 +131,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Öldepot von Mutsamudu",
       hu: "Mutsamudu kőolajraktára",
       ro: "Depozitul de petrol din Mutsamudu",
-      en: "Mutsamudu Oil Depot"
-    },
+      en: "Mutsamudu Oil Depot",
+image: "/poi-images/mutsamudu-oil-depot-economic-v2.webp"
+},
     description: {
       de: "Das Öldepot in Mutsamudu ist eine strategische Anlage zur Lagerung von Kraftstoffen für die gesamte Insel Anjouan.",
       hu: "A mutsamudui kőolajraktár stratégiai létesítmény az üzemanyagok tárolására egész Anjouan szigete számára.",
@@ -167,8 +171,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Hafen von Sima",
       hu: "Sima kikötője",
       ro: "Portul Sima",
-      en: "Port of Sima"
-    },
+      en: "Port of Sima",
+image: "/poi-images/sima-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Sima an der Westküste von Anjouan ist ein wichtiges Zentrum für den regionalen Warenverkehr und die Fischerei.",
       hu: "Az Anjouan nyugati partján fekvő Sima kikötője a regionális áruforgalom és a halászat fontos központja.",
@@ -207,8 +212,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Zolllager von Moroni",
       hu: "Moroni vámszabadraktára",
       ro: "Antrepozitul vamal din Moroni",
-      en: "Moroni Customs Warehouse"
-    },
+      en: "Moroni Customs Warehouse",
+image: "/poi-images/moroni-customs-warehouse-economic-v2.webp"
+},
     description: {
       de: "Dieses Logistikzentrum dient der Abfertigung und Lagerung importierter Waren, bevor sie im Land verteilt werden.",
       hu: "Ez a logisztikai központ az importált áruk vámkezelésére és tárolására szolgál, mielőtt szétosztanák azokat az országban.",
@@ -246,8 +252,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Druckerei des Indischen Ozeans",
       hu: "Indiai-óceáni Nyomda",
       ro: "Tipografia Oceanului Indian",
-      en: "Indian Ocean Printing Works"
-    },
+      en: "Indian Ocean Printing Works",
+image: "/poi-images/indian-ocean-printing-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Druckereien des Landes, die Zeitungen, staatliche Dokumente und Lehrmaterialien herstellt.",
       hu: "Az ország egyik legnagyobb nyomdája, amely újságokat, állami dokumentumokat és tananyagokat állít elő.",
@@ -285,8 +292,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Wärmekraftwerk Mutsamudu",
       hu: "Mutsamudu hőerőműve",
       ro: "Centrala termică din Mutsamudu",
-      en: "Mutsamudu Thermal Plant"
-    },
+      en: "Mutsamudu Thermal Plant",
+image: "/poi-images/mutsamudu-thermal-plant-economic-v2.webp"
+},
     description: {
       de: "Das Kraftwerk in Mutsamudu ist die Hauptquelle für Elektrizität auf der Insel Anjouan und versorgt Wohngebiete sowie Industrie.",
       hu: "A mutsamudui erőmű az elsődleges áramforrás Anjouan szigetén, amely lakóterületeket és ipari létesítményeket is ellát.",
@@ -324,8 +332,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Fischereihafen Mitsamiouli",
       hu: "Mitsamiouli halászkikötője",
       ro: "Portul de pescuit Mitsamiouli",
-      en: "Mitsamiouli Fishing Port"
-    },
+      en: "Mitsamiouli Fishing Port",
+image: "/poi-images/mitsamiouli-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Mitsamiouli im Norden von Grande Comore ist ein bedeutender Standort für die traditionelle und kommerzielle Fischerei.",
       hu: "A Grande Comore északi részén található Mitsamiouli kikötője a hagyományos és kereskedelmi halászat jelentős helyszíne.",
@@ -363,8 +372,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Schreinerei-Werkstatt Anjouan",
       hu: "Anjouan asztalosműhelye",
       ro: "Atelierul de tâmplărie din Anjouan",
-      en: "Anjouan Carpentry Workshop"
-    },
+      en: "Anjouan Carpentry Workshop",
+image: "/poi-images/anjouan-carpentry-economic-v2.webp"
+},
     description: {
       de: "In dieser Werkstatt werden hochwertige Möbel und Bauelemente aus lokalem Holz für den Archipel gefertigt.",
       hu: "Ebben a műhelyben kiváló minőségű bútorokat és építőelemeket készítenek helyi fából a szigetvilág számára.",
@@ -402,8 +412,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Kohlenwasserstoffdepot Moroni",
       hu: "Moroni szénhidrogén-raktára",
       ro: "Depozitul de hidrocarburi din Moroni",
-      en: "Moroni Hydrocarbon Depot"
-    },
+      en: "Moroni Hydrocarbon Depot",
+image: "/poi-images/moroni-hydrocarbon-depot-economic-v2.webp"
+},
     description: {
       de: "Das zentrale Depot der SCH in Moroni ist der Hauptlagerpunkt für Benzin und Diesel auf der Insel Grande Comore.",
       hu: "A moroni SCH központi raktár a Grande Comore sziget elsődleges benzin- és dízelüzemanyag-tárolóhelye.",
@@ -441,8 +452,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Lokaler Hafen Foumbouni",
       hu: "Foumbouni helyi kikötője",
       ro: "Portul local Foumbouni",
-      en: "Foumbouni Local Port"
-    },
+      en: "Foumbouni Local Port",
+image: "/poi-images/foumbouni-port-economic-v2.webp"
+},
     description: {
       de: "Foumbouni besitzt einen wichtigen Hafen für den Küstenhandel im Süden von Grande Comore und ist ein Zentrum der lokalen Fischerei.",
       hu: "Foumbouni fontos kikötővel rendelkezik a Grande Comore déli részén folyó part menti kereskedelemhez és a helyi halászat központja.",
@@ -481,8 +493,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Essenz-Destillerie Bambao",
       hu: "Bambao esszencia-lepárló",
       ro: "Distileria de esențe Bambao",
-      en: "Bambao Essence Distillery"
-    },
+      en: "Bambao Essence Distillery",
+image: "/poi-images/bambao-distillery-economic-v2.webp"
+},
     description: {
       de: "In dieser bedeutenden Industrieanlage wird das wertvolle Ylang-Ylang-Öl durch Wasserdampfdestillation für den Weltmarkt gewonnen.",
       hu: "Ebben a jelentős ipari létesítményben vízgőz-desztillációval nyerik ki az értékes ilang-ilang olajat a világpiac számára.",
@@ -520,8 +533,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Vanille-Zentrum Mutsamudu",
       hu: "Mutsamudu vanília-központja",
       ro: "Centrul pentru vanilie Mutsamudu",
-      en: "Mutsamudu Vanilla Center"
-    },
+      en: "Mutsamudu Vanilla Center",
+image: "/poi-images/mutsamudu-vanilla-center-economic-v2.webp"
+},
     description: {
       de: "Dieses Zentrum ist auf die Sortierung, Veredelung und Verpackung der weltberühmten komorischen Bourbon-Vanille spezialisiert.",
       hu: "Ez a központ a világhírű komori Bourbon-vanília válogatására, feldolgozására és csomagolására szakosodott.",
@@ -560,8 +574,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Handelshafen Domoni",
       hu: "Domoni kereskedelmi kikötője",
       ro: "Portul comercial Domoni",
-      en: "Domoni Trading Port"
-    },
+      en: "Domoni Trading Port",
+image: "/poi-images/domoni-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Domoni ist ein historischer und ökonomischer Umschlagplatz an der Ostküste von Anjouan für Agrargüter und Gewürze.",
       hu: "Domoni kikötője történelmi és gazdasági átrakodóhely Anjouan keleti partján mezőgazdasági cikkek és fűszerek számára.",
@@ -599,8 +614,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Fischverpackungsanlage Moroni",
       hu: "Moroni fischcsomagoló üzeme",
       ro: "Instalația de ambalare a peștelui Moroni",
-      en: "Moroni Fish Packaging Plant"
-    },
+      en: "Moroni Fish Packaging Plant",
+image: "/poi-images/moroni-fish-packaging-economic-v2.webp"
+},
     description: {
       de: "Diese Anlage bereitet frischen Fisch aus den Gewässern der Komoren für den lokalen Verkauf und den Export in die Region vor.",
       hu: "Ez a létesítmény friss halat készít elő a komori vizekből a helyi értékesítésre és a régióba történő exportra.",
@@ -638,8 +654,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Schiffswerft Mutsamudu",
       hu: "Mutsamudu hajógyára",
       ro: "Șantierul naval din Mutsamudu",
-      en: "Mutsamudu Shipyard"
-    },
+      en: "Mutsamudu Shipyard",
+image: "/poi-images/mutsamudu-shipyard-economic-v2.webp"
+},
     description: {
       de: "Die Werft in Mutsamudu ist spezialisiert auf die Wartung und Reparatur von kleineren Küstenfrachtschiffen und Fischerbooten.",
       hu: "A mutsamudui hajógyár kisebb part menti teherszállító hajók és halászhajók karbantartására és javítására szakosodott.",
@@ -677,8 +694,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Hafen von Nioumachoua",
       hu: "Nioumachoua kikötője",
       ro: "Portul Nioumachoua",
-      en: "Port of Nioumachoua"
-    },
+      en: "Port of Nioumachoua",
+image: "/poi-images/nioumachoua-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Nioumachoua im Süden von Mohéli ist ein wesentlicher Anlaufpunkt für die Versorgung der lokalen Bevölkerung.",
       hu: "A Mohéli déli részén található Nioumachoua kikötője a helyi lakosság ellátásának alapvető pontja.",
@@ -716,8 +734,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Elektrizitätswerk Fomboni",
       hu: "Fomboni áramfejlesztő üzeme",
       ro: "Uzina electrică din Fomboni",
-      en: "Fomboni Electricity Plant"
-    },
+      en: "Fomboni Electricity Plant",
+image: "/poi-images/fomboni-electricity-plant-economic-v2.webp"
+},
     description: {
       de: "Dieses Kraftwerk liefert die notwendige Energie für Fomboni und die umliegenden Gemeinden auf der Insel Mohéli.",
       hu: "Ez az erőmű biztosítja a szükséges energiát Fomboni és a környező települések számára Mohéli szigetén.",
@@ -755,8 +774,9 @@ export const poiExtraComorosEconomicV2: POI[] = [
       de: "Fischereihafen Iconi",
       hu: "Iconi halászkikötője",
       ro: "Portul de pescuit Iconi",
-      en: "Iconi Fishing Port"
-    },
+      en: "Iconi Fishing Port",
+image: "/poi-images/iconi-fishing-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Iconi ist ein bedeutender Stützpunkt für die handwerkliche Fischerei südlich der Hauptstadt Moroni.",
       hu: "Iconi kikötője a kisüzemi halászat jelentős bázisa a fővárostól, Moronitól délre.",

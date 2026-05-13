@@ -7,7 +7,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-12",
     coords: [8.5, 35.5],
-    name: { de: "Atlas-Gebirge", hu: "Atlasz-hegység", ro: "Munții Atlas", en: "Atlas Mountains" },
+    name: { de: "Atlas-Gebirge", hu: "Atlasz-hegység", ro: "Munții Atlas", en: "Atlas Mountains",
+image: "/poi-images/atlas-gebirge-relief-v2.webp"
+},
     description: { de: "Ein ausgedehntes Gebirgssystem in Nordafrika, das sich durch Tunesien erstreckt.", hu: "Észak-afrikai hegységrendszer, amely Tunézián is keresztülhúzódik.", ro: "Un sistem muntos extins în Africa de Nord care se întinde prin Tunisia.", en: "An extensive mountain system in North Africa that extends through Tunisia." },
     facts: {
       de: ["Höchster Punkt in Tunesien ist der Djebel Chambi.", "Bildet eine natürliche Barriere gegen die Sahara.", "Wichtige Wasserscheide für das Land.", "Erstreckt sich über 2400 Kilometer."],
@@ -29,7 +31,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-12",
     coords: [8.68, 35.15],
-    name: { de: "Djebel Chambi", hu: "Djebel Chambi", ro: "Djebel Chambi", en: "Djebel Chambi" },
+    name: { de: "Djebel Chambi", hu: "Djebel Chambi", ro: "Djebel Chambi", en: "Djebel Chambi",
+image: "/poi-images/djebel-chambi-relief-v2.webp"
+},
     description: { de: "Der höchste Berg Tunesiens.", hu: "Tunézia legmagasabb hegye.", ro: "Cel mai înalt munte din Tunisia.", en: "The highest mountain in Tunisia." },
     facts: {
       de: ["Erreicht eine Höhe von 1544 Metern.", "Liegt im Nationalpark Djebel Chambi.", "Bedeckt mit Pinienwäldern.", "Ein markantes Wahrzeichen der Region."],
@@ -51,7 +55,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-07",
     coords: [8.4, 33.7],
-    name: { de: "Chott el Djerid", hu: "Chott el Djerid", ro: "Chott el Djerid", en: "Chott el Djerid" },
+    name: { de: "Chott el Djerid", hu: "Chott el Djerid", ro: "Chott el Djerid", en: "Chott el Djerid",
+image: "/poi-images/chott-el-jerid-relief-v2.webp"
+},
     description: { de: "Der größte Salzsee Tunesiens, ein ausgedehntes Becken.", hu: "Tunézia legnagyobb sós tava, hatalmas medence.", ro: "Cel mai mare lac sărat din Tunisia, un bazin extins.", en: "The largest salt lake in Tunisia, an extensive basin." },
     facts: {
       de: ["Fläche von etwa 5000 Quadratkilometern.", "Liegt unter dem Meeresspiegel.", "Im Sommer fast völlig ausgetrocknet.", "Farbenprächtige Kristallablagerungen."],
@@ -73,7 +79,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-11",
     coords: [10.15, 36.8],
-    name: { de: "Ebene von Tunis", hu: "Tuniszi-síkság", ro: "Câmpia Tunis", en: "Plains of Tunis" },
+    name: { de: "Ebene von Tunis", hu: "Tuniszi-síkság", ro: "Câmpia Tunis", en: "Plains of Tunis",
+image: "/poi-images/tunis-ebene-relief-v2.webp"
+},
     description: { de: "Fruchtbares Tiefland rund um die Hauptstadt Tunis.", hu: "Termékeny síkság a főváros, Tunisz környékén.", ro: "Câmpie fertilă în jurul capitalei Tunis.", en: "Fertile lowland area surrounding the capital, Tunis." },
     facts: {
       de: ["Historisch bedeutsames landwirtschaftliches Zentrum.", "Gut bewässert durch lokale Flüsse.", "Dichte Besiedlung.", "Sanfte Hügellandschaft."],
@@ -95,7 +103,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-15",
     coords: [10.1, 36.35],
-    name: { de: "Djebel Zaghouan", hu: "Djebel Zaghouan", ro: "Djebel Zaghouan", en: "Djebel Zaghouan" },
+    name: { de: "Djebel Zaghouan", hu: "Djebel Zaghouan", ro: "Djebel Zaghouan", en: "Djebel Zaghouan",
+image: "/poi-images/djebel-zaghouan-relief-v2.webp"
+},
     description: { de: "Ein markanter Kalksteinberg südlich von Tunis.", hu: "Jellegzetes mészkőhegy Tunisztól délre.", ro: "Un munte de calcar distinctiv la sud de Tunis.", en: "A prominent limestone mountain south of Tunis." },
     facts: {
       de: ["Höhe von knapp 1300 Metern.", "Wichtige Quelle für antike Aquädukte.", "Naturschutzgebiet.", "Beliebt bei Wanderern."],
@@ -117,7 +127,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-08",
     coords: [10.3, 33.2],
-    name: { de: "Dahar-Plateau", hu: "Dahar-fennsík", ro: "Podișul Dahar", en: "Dahar Plateau" },
+    name: { de: "Dahar-Plateau", hu: "Dahar-fennsík", ro: "Podișul Dahar", en: "Dahar Plateau",
+image: "/poi-images/dahar-plateau-relief-v2.webp"
+},
     description: { de: "Eine steinige Hochfläche im Südosten Tunesiens.", hu: "Köves fennsík Tunézia délkeleti részén.", ro: "Un platou pietros în sud-estul Tunisiei.", en: "A stony plateau in southeastern Tunisia." },
     facts: {
       de: ["Bekannt für seine Berber-Architektur.", "Viele Höhlensiedlungen.", "Trockenes Wüstenklima.", "Geologisch vielfältige Gesteinsschichten."],
@@ -130,7 +142,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-11",
     coords: [10.9, 36.8],
-    name: { de: "Halbinsel Cap Bon", hu: "Cap Bon-félsziget", ro: "Peninsula Cap Bon", en: "Cap Bon Peninsula" },
+    name: { de: "Halbinsel Cap Bon", hu: "Cap Bon-félsziget", ro: "Peninsula Cap Bon", en: "Cap Bon Peninsula",
+image: "/poi-images/cap-bon-halbinsel-relief-v2.webp"
+},
     description: { de: "Eine fruchtbare Landzunge im Nordosten Tunesiens.", hu: "Termékeny földnyelv Tunézia északkeleti részén.", ro: "Un promontoriu fertil în nord-estul Tunisiei.", en: "A fertile promontory in northeastern Tunisia." },
     facts: {
       de: ["Bekannt für Weinbau und Zitrusfrüchte.", "Küstenlinie mit zahlreichen Buchten.", "Strategisch günstig gelegen.", "Mildes mediterranes Klima."],
@@ -143,7 +157,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-15",
     coords: [9.58, 36.05],
-    name: { de: "Djebel Serj", hu: "Djebel Serj", ro: "Djebel Serj", en: "Djebel Serj" },
+    name: { de: "Djebel Serj", hu: "Djebel Serj", ro: "Djebel Serj", en: "Djebel Serj",
+image: "/poi-images/djebel-serj-relief-v2.webp"
+},
     description: { de: "Ein imposanter Gebirgszug im Zentrum Tunesiens.", hu: "Impozáns hegyvonulat Tunézia központjában.", ro: "Un lanț muntos impunător în centrul Tunisiei.", en: "An imposing mountain range in central Tunisia." },
     facts: {
       de: ["Bekannt für die 'Aïn Dhab'-Höhle.", "Kalkstein-Massiv.", "Lebensraum seltener Pflanzen.", "Herausforderndes Gelände für Bergsteiger."],
@@ -156,7 +172,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-07",
     coords: [10.5, 34.0],
-    name: { de: "Golf von Gabès", hu: "Gabèsi-öböl", ro: "Golful Gabès", en: "Gulf of Gabes" },
+    name: { de: "Golf von Gabès", hu: "Gabèsi-öböl", ro: "Golful Gabès", en: "Gulf of Gabes",
+image: "/poi-images/gulf-von-gabes-relief-v2.webp"
+},
     description: { de: "Ein großer flacher Golf an der tunesischen Küste.", hu: "Nagy, sekély öböl a tunéziai partvidéken.", ro: "Un golf mare și puțin adânc pe coasta tunisiană.", en: "A large, shallow gulf on the Tunisian coast." },
     facts: {
       de: ["Besonders große Gezeitenunterschiede.", "Wichtige Fischereiregion.", "Umfasst die Insel Djerba.", "Sandige Küstenabschnitte."],
@@ -169,7 +187,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-05",
     coords: [8.8, 34.4],
-    name: { de: "Djebel Orbata", hu: "Djebel Orbata", ro: "Djebel Orbata", en: "Djebel Orbata" },
+    name: { de: "Djebel Orbata", hu: "Djebel Orbata", ro: "Djebel Orbata", en: "Djebel Orbata",
+image: "/poi-images/djebel-orbata-relief-v2.webp"
+},
     description: { de: "Ein Gebirgsmassiv in der Region Gafsa.", hu: "Hegyvonulat Gafsa régióban.", ro: "Un masiv muntos în regiunea Gafsa.", en: "A mountain massif in the Gafsa region." },
     facts: {
       de: ["Geologisch geprägt von Phosphatvorkommen.", "Trockene Berglandschaft.", "Teil der östlichen Atlasausläufer.", "Wichtiger ökologischer Korridor."],
@@ -182,7 +202,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "forest",
     parent: "TN-14",
     coords: [8.8, 36.8],
-    name: { de: "Kroumirie-Gebirge", hu: "Kroumirie-hegység", ro: "Munții Kroumirie", en: "Kroumirie Mountains" },
+    name: { de: "Kroumirie-Gebirge", hu: "Kroumirie-hegység", ro: "Munții Kroumirie", en: "Kroumirie Mountains",
+image: "/poi-images/kroumirie-gebirge-relief-v2.webp"
+},
     description: { de: "Ein bewaldetes Bergland im Nordwesten Tunesiens.", hu: "Erdős hegyvidék Tunézia északnyugati részén.", ro: "Un ținut muntos împădurit în nord-vestul Tunisiei.", en: "A forested mountain region in northwestern Tunisia." },
     facts: {
       de: ["Höchste Niederschläge in Tunesien.", "Dichte Korkeichenwälder.", "Kühleres Klima als im Rest des Landes.", "Hohe Biodiversität."],
@@ -195,7 +217,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-11",
     coords: [10.33, 36.68],
-    name: { de: "Djebel Bou Kornine", hu: "Djebel Bou Kornine", ro: "Djebel Bou Kornine", en: "Djebel Bou Kornine" },
+    name: { de: "Djebel Bou Kornine", hu: "Djebel Bou Kornine", ro: "Djebel Bou Kornine", en: "Djebel Bou Kornine",
+image: "/poi-images/djebel-bou-kornine-relief-v2.webp"
+},
     description: { de: "Ein markanter Berg nahe der Bucht von Tunis.", hu: "Jellegzetes hegy a Tuniszi-öböl közelében.", ro: "Un munte distinctiv lângă Golful Tunis.", en: "A prominent mountain near the Bay of Tunis." },
     facts: {
       de: ["Höhe von knapp 600 Metern.", "Nationalpark-Status.", "Beliebtes Ausflugsziel.", "Bietet einen Panoramablick auf Tunis."],
@@ -208,7 +232,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-06",
     coords: [9.1, 36.3],
-    name: { de: "Djebel Biada", hu: "Djebel Biada", ro: "Djebel Biada", en: "Djebel Biada" },
+    name: { de: "Djebel Biada", hu: "Djebel Biada", ro: "Djebel Biada", en: "Djebel Biada",
+image: "/poi-images/djebel-biada-relief-v2.webp"
+},
     description: { de: "Ein Gebirgszug in der Region Jendouba.", hu: "Hegyvonulat Jendouba régióban.", ro: "Un lanț muntos în regiunea Jendouba.", en: "A mountain range in the Jendouba region." },
     facts: {
       de: ["Teil des nördlichen Atlas.", "Bedeckt von Eichen- und Pinienwäldern.", "Relativ unberührte Natur.", "Ideal zum Wandern."],
@@ -222,7 +248,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-04",
     coords: [9.25, 35.3],
-    name: { de: "Djebel Mghila", hu: "Djebel Mghila", ro: "Djebel Mghila", en: "Djebel Mghila" },
+    name: { de: "Djebel Mghila", hu: "Djebel Mghila", ro: "Djebel Mghila", en: "Djebel Mghila",
+image: "/poi-images/djebel-mghila-relief-v2.webp"
+},
     description: { de: "Ein Bergmassiv in Zentraltunesien.", hu: "Hegymasszívum Közép-Tunéziában.", ro: "Un masiv muntos în Tunisia centrală.", en: "A mountain massif in central Tunisia." },
     facts: {
       de: ["Schutzgebiet für Berg-Gazellen.", "Typische semiaride Flora.", "Zerklüftete Landschaft.", "Wichtiger Lebensraum."],
@@ -235,7 +263,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-12",
     coords: [8.8, 35.1],
-    name: { de: "Djebel Selloum", hu: "Djebel Selloum", ro: "Djebel Selloum", en: "Djebel Selloum" },
+    name: { de: "Djebel Selloum", hu: "Djebel Selloum", ro: "Djebel Selloum", en: "Djebel Selloum",
+image: "/poi-images/djebel-selloum-relief-v2.webp"
+},
     description: { de: "Ein Bergzug südlich von Kasserine.", hu: "Hegyvonulat Kasserine-től délre.", ro: "Un lanț muntos la sud de Kasserine.", en: "A mountain range south of Kasserine." },
     facts: {
       de: ["Karge, trockene Umgebung.", "Hohe geologische Aktivität in der Erdgeschichte.", "Wichtig für die regionale Hydrologie.", "Grenzgebirge zwischen Ebenen."],
@@ -248,7 +278,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-11",
     coords: [10.0, 36.5],
-    name: { de: "Djebel Fkirine", hu: "Djebel Fkirine", ro: "Djebel Fkirine", en: "Djebel Fkirine" },
+    name: { de: "Djebel Fkirine", hu: "Djebel Fkirine", ro: "Djebel Fkirine", en: "Djebel Fkirine",
+image: "/poi-images/djebel-fkirine-relief-v2.webp"
+},
     description: { de: "Ein markantes Bergmassiv nahe Zaghouan.", hu: "Jellegzetes hegymasszívum Zaghouan közelében.", ro: "Un masiv muntos distinctiv lângă Zaghouan.", en: "A prominent mountain massif near Zaghouan." },
     facts: {
       de: ["Kalkgestein dominiert das Bild.", "Sehr trockenes Gelände.", "Bedeutend für lokale Quellen.", "Historisch als Landmarke genutzt."],
@@ -262,7 +294,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-14",
     coords: [8.9, 36.9],
-    name: { de: "Djebel Hamra", hu: "Djebel Hamra", ro: "Djebel Hamra", en: "Djebel Hamra" },
+    name: { de: "Djebel Hamra", hu: "Djebel Hamra", ro: "Djebel Hamra", en: "Djebel Hamra",
+image: "/poi-images/djebel-hamra-relief-v2.webp"
+},
     description: { de: "Ein Hügelzug in der Kroumirie-Region.", hu: "Hegyvonulat a Kroumirie-régióban.", ro: "Un lanț de dealuri în regiunea Kroumirie.", en: "A range of hills in the Kroumirie region." },
     facts: {
       de: ["Teil des nördlichen Atlas.", "Üppige Vegetation im Winter.", "Wichtige Weideflächen.", "Sehr malerische Aussichten."],
@@ -275,7 +309,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-02",
     coords: [9.3, 36.1],
-    name: { de: "Djebel es Sif", hu: "Djebel es Sif", ro: "Djebel es Sif", en: "Djebel es Sif" },
+    name: { de: "Djebel es Sif", hu: "Djebel es Sif", ro: "Djebel es Sif", en: "Djebel es Sif",
+image: "/poi-images/djebel-es-sif-relief-v2.webp"
+},
     description: { de: "Ein Berg in Zentraltunesien.", hu: "Hegy Közép-Tunéziában.", ro: "Un munte în Tunisia centrală.", en: "A mountain in central Tunisia." },
     facts: {
       de: ["Geologisch eng mit dem Atlas verwandt.", "Bedeutende tektonische Strukturen.", "Sehr abgelegenes Gebiet.", "Raues Klima."],
@@ -288,7 +324,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-12",
     coords: [8.9, 35.2],
-    name: { de: "Djebel el Gharrah", hu: "Djebel el Gharrah", ro: "Djebel el Gharrah", en: "Djebel el Gharrah" },
+    name: { de: "Djebel el Gharrah", hu: "Djebel el Gharrah", ro: "Djebel el Gharrah", en: "Djebel el Gharrah",
+image: "/poi-images/djebel-el-gharrah-relief-v2.webp"
+},
     description: { de: "Ein Bergzug in der Kasserine-Region.", hu: "Hegyvonulat Kasserine régióban.", ro: "Un lanț muntos în regiunea Kasserine.", en: "A mountain range in the Kasserine region." },
     facts: {
       de: ["Typisch für den hohen Atlas.", "Extrem trockene Bedingungen.", "Geologisch interessant.", "Dünn besiedeltes Umland."],
@@ -301,7 +339,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-15",
     coords: [9.6, 36.1],
-    name: { de: "Djebel Bel Khodra", hu: "Djebel Bel Khodra", ro: "Djebel Bel Khodra", en: "Djebel Bel Khodra" },
+    name: { de: "Djebel Bel Khodra", hu: "Djebel Bel Khodra", ro: "Djebel Bel Khodra", en: "Djebel Bel Khodra",
+image: "/poi-images/djebel-bel-khodra-relief-v2.webp"
+},
     description: { de: "Ein Bergmassiv in der Nähe von Siliana.", hu: "Hegymasszívum Siliana közelében.", ro: "Un masiv muntos lângă Siliana.", en: "A mountain massif near Siliana." },
     facts: {
       de: ["Kalksteingebirge.", "Bietet Schutz für Wildtiere.", "Wichtig für die Landwirtschaft am Fuß.", "Landschaftlich reizvoll."],
@@ -314,7 +354,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "relief",
     parent: "TN-07",
     coords: [7.9, 34.0],
-    name: { de: "Chott el Gharsa", hu: "Chott el Gharsa", ro: "Chott el Gharsa", en: "Chott el Gharsa" },
+    name: { de: "Chott el Gharsa", hu: "Chott el Gharsa", ro: "Chott el Gharsa", en: "Chott el Gharsa",
+image: "/poi-images/chott-el-gharsa-relief-v2.webp"
+},
     description: { de: "Ein Salzsee westlich des Chott el Djerid.", hu: "Sós tó a Chott el Djeridtől nyugatra.", ro: "Un lac sărat la vest de Chott el Djerid.", en: "A salt lake west of Chott el Djerid." },
     facts: {
       de: ["Einer der tiefsten Punkte Tunesiens.", "Sehr salzige Umgebung.", "Geologisch ein Becken.", "Umgeben von Wüstendünen."],
@@ -327,7 +369,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-05",
     coords: [8.6, 34.5],
-    name: { de: "Djebel Ben Youne", hu: "Djebel Ben Youne", ro: "Djebel Ben Youne", en: "Djebel Ben Youne" },
+    name: { de: "Djebel Ben Youne", hu: "Djebel Ben Youne", ro: "Djebel Ben Youne", en: "Djebel Ben Youne",
+image: "/poi-images/djebel-ben-youne-relief-v2.webp"
+},
     description: { de: "Ein Berg in der Gafsa-Region.", hu: "Hegy a Gafsa régióban.", ro: "Un munte în regiunea Gafsa.", en: "A mountain in the Gafsa region." },
     facts: {
       de: ["Phosphatbergbau in der Nähe.", "Trockenes Klima.", "Teil der östlichen Gebirgszüge.", "Schroffe Felshänge."],
@@ -340,7 +384,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-11",
     coords: [10.7, 36.75],
-    name: { de: "Djebel Abderrahmane", hu: "Djebel Abderrahmane", ro: "Djebel Abderrahmane", en: "Djebel Abderrahmane" },
+    name: { de: "Djebel Abderrahmane", hu: "Djebel Abderrahmane", ro: "Djebel Abderrahmane", en: "Djebel Abderrahmane",
+image: "/poi-images/djebel-abderrahmane-relief-v2.webp"
+},
     description: { de: "Ein Hügelzug auf der Halbinsel Cap Bon.", hu: "Hegyvonulat a Cap Bon-félszigeten.", ro: "Un lanț de dealuri pe peninsula Cap Bon.", en: "A range of hills on the Cap Bon peninsula." },
     facts: {
       de: ["Dominanter Rücken auf der Halbinsel.", "Wichtige Wetterbarriere.", "Mit mediterraner Macchia bedeckt.", "Blick auf das Mittelmeer."],
@@ -353,7 +399,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-12",
     coords: [8.5, 34.8],
-    name: { de: "Djebel Om el Adame", hu: "Djebel Om el Adame", ro: "Djebel Om el Adame", en: "Djebel Om el Adame" },
+    name: { de: "Djebel Om el Adame", hu: "Djebel Om el Adame", ro: "Djebel Om el Adame", en: "Djebel Om el Adame",
+image: "/poi-images/djebel-om-el-adame-relief-v2.webp"
+},
     description: { de: "Ein Berg in der Region Kasserine.", hu: "Hegy Kasserine régióban.", ro: "Un munte în regiunea Kasserine.", en: "A mountain in the Kasserine region." },
     facts: {
       de: ["Teil des zentralen Atlas.", "Trockene, steinige Landschaft.", "Wichtige Landmarke.", "Dünn besiedelt."],
@@ -366,7 +414,9 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     type: "mountain",
     parent: "TN-07",
     coords: [9.5, 34.5],
-    name: { de: "Djebel Bou Hedma", hu: "Djebel Bou Hedma", ro: "Djebel Bou Hedma", en: "Djebel Bou Hedma" },
+    name: { de: "Djebel Bou Hedma", hu: "Djebel Bou Hedma", ro: "Djebel Bou Hedma", en: "Djebel Bou Hedma",
+image: "/poi-images/djebel-bou-hedma-relief-v2.webp"
+},
     description: { de: "Ein Bergmassiv und Nationalpark.", hu: "Hegymasszívum és nemzeti park.", ro: "Un masiv muntos și parc național.", en: "A mountain massif and national park." },
     facts: {
       de: ["Heimat seltener Gazellenarten.", "Kombination aus Steppe und Gebirge.", "Hohe Biodiversität.", "Einzigartige Ökologie."],

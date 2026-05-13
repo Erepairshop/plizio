@@ -4,7 +4,9 @@ export const lithuaniaCitiesV2: POI[] = [
   {
     id: "lithuania-siauliai-cities-v2",
     type: "city",
-    name: { de: "Šiauliai", hu: "Šiauliai", ro: "Šiauliai", en: "Šiauliai" },
+    name: { de: "Šiauliai", hu: "Šiauliai", ro: "Šiauliai", en: "Šiauliai",
+image: "/poi-images/lithuania-siauliai-cities-v2.webp"
+},
     coords: [23.3167, 55.9333],
     coordinates: { lat: 55.9333, lng: 23.3167 },
     description: {
@@ -19,11 +21,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1236", "Al patrulea oraș ca mărime din țară", "Cunoscut pentru Dealul Crucilor", "Centru al producției de biciclete"],
       en: ["Founded in the year 1236", "Fourth largest city in the country", "Known for the Hill of Crosses", "Center of bicycle manufacturing"],
     },
-    imageHint: "Siauliai city square and cathedral", image: "/poi-images/lithuania-siauliai-cities-v2.webp"},
-  {
+imageHint: "Siauliai city square and cathedral",
+    descriptionAdvanced: {
+      de: "Šiauliai, die viertgrößte Stadt Litauens, hat sich im Norden des Landes als dynamisches Wirtschafts- und Kulturzentrum etabliert. Mit einer Bevölkerung von über 100.000 Einwohnern bietet die Stadt eine reiche Industriegeschichte, die insbesondere durch die renommierte Fahrradfabrik „Vairas“ und die Lederverarbeitung geprägt wurde. Das unbestrittene Wahrzeichen in der Nähe ist der berühmte Berg der Kreuze, ein weltweit einzigartiger Wallfahrtsort mit hunderttausenden Kruzifixen. Im Zentrum der Stadt dominiert die imposante Renaissance-Kathedrale St. Peter und Paul aus dem 17. Jahrhundert das Stadtbild. Zahlreiche Museen, wie das Fahrradmuseum und das Schokoladenmuseum, sowie die prachtvolle Chaim-Frenkel-Villa zeugen vom kulturellen Reichtum. Als „Sonnenstadt“ bekannt, spielt Šiauliai eine zentrale Rolle im litauischen Bildungs- und Verkehrswesen.",
+      hu: "Šiauliai, Litvánia negyedik legnépesebb városa, az ország északi részének meghatározó gazdasági és kulturális központja. A több mint 100 000 lakosú település komoly ipari hagyományokkal rendelkezik, amelyet történelmileg a bőr- és lábbeligyártás, valamint a híres „Vairas” kerékpárgyár fémjelzett. A város közvetlen közelében található a világhírű Keresztek hegye, amely több százezer keresztjével egyedülálló zarándokhely. A városközpont legkiemelkedőbb épülete a 17. században épült, reneszánsz stílusú Szent Péter és Pál-székesegyház. A Nap városaként is emlegetett Šiauliai kulturális életét a Chaim Frenkel-villa, valamint számos különleges múzeum – köztük a Kerékpármúzeum és a Csokoládémúzeum – teszi változatossá.",
+      ro: "Šiauliai, al patrulea oraș ca mărime din Lituania, s-a afirmat ca un centru economic și cultural dinamic în nordul țării. Cu o populație de peste 100.000 de locuitori, orașul are o bogată istorie industrială, marcată în special de prelucrarea pielii și de faimoasa fabrică de biciclete „Vairas”. În imediata apropiere se află celebrul Deal al Crucilor, un loc de pelerinaj unic în lume, care adăpostește sute de mii de cruci. În centrul orașului domină impunătoarea Catedrală Sf. Petru și Pavel, o capodoperă renascentistă din secolul al XVII-lea. Supranumit Orașul Soarelui, Šiauliai se mândrește cu o efervescență culturală susținută de atracții precum Vila Chaim Frenkel, Muzeul Bicicletelor și Muzeul Ciocolatei, având un rol central în educația regiunii.",
+      en: "Šiauliai, the fourth largest city in Lithuania, has firmly established itself as a dynamic economic and cultural hub in the northern part of the country. With a population exceeding 100,000 residents, the city boasts a rich industrial history, notably driven by leather processing and the famous “Vairas” bicycle factory. Just a short distance away lies the iconic Hill of Crosses, a globally unique pilgrimage site covered with hundreds of thousands of crucifixes. The city center is dominated by the imposing 17th-century Renaissance-style Cathedral of St. Peter and Paul. Often referred to as the City of the Sun, Šiauliai is home to diverse cultural landmarks, including the elegant Chaim Frenkel Villa, the Bicycle Museum, and the Chocolate Museum, playing a crucial role in the region's education system."
+    },
+    factsAdvanced: {
+      de: ["1236-ban a saulei csata helyszíneként lépett be a történelembe.", "Népessége napjainkban megközelítőleg 100 000 fő.", "A Keresztek hegye körülbelül 12 kilométerre északra található.", "Szent Péter és Pál-székesegyháza 1617 és 1626 között épült.", "A város egy jelentős NATO légibázisnak ad otthont (Šiauliai nemzetközi repülőtér).", "A 20. században a litván kerékpárgyártás központjává vált."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-siauliai-cities-v2.webp",
+},  {
     id: "lithuania-panevezys-cities-v2",
     type: "city",
-    name: { de: "Panevėžys", hu: "Panevėžys", ro: "Panevėžys", en: "Panevėžys" },
+    name: { de: "Panevėžys", hu: "Panevėžys", ro: "Panevėžys", en: "Panevėžys",
+image: "/poi-images/lithuania-panevezys-cities-v2.webp"
+},
     coords: [24.35, 55.7333],
     coordinates: { lat: 55.7333, lng: 24.35 },
     description: {
@@ -38,11 +55,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1503", "Al cincilea oraș ca mărime din Lituania", "Gazda unui faimos teatru dramatic", "Nod feroviar important"],
       en: ["Founded in the year 1503", "Fifth largest city in Lithuania", "Home to a famous drama theatre", "Important railway junction"],
     },
-    imageHint: "Panevezys city park and river", image: "/poi-images/lithuania-panevezys-cities-v2.webp"},
-  {
+imageHint: "Panevezys city park and river",
+    descriptionAdvanced: {
+      de: "Panevėžys ist die fünftgrößte Stadt Litauens und fungiert als zentraler Knotenpunkt der Region Aukštaitija. Gegründet im Jahr 1503 von Großfürst Alexander, erstreckt sich die Stadt malerisch an den Ufern des Flusses Nevėžis. Mit rund 85.000 Einwohnern hat sich Panevėžys im 20. Jahrhundert zu einem der wichtigsten Industriestandorte des Landes entwickelt. Die Stadt ist landesweit berühmt für das von Juozas Miltinis gegründete Dramatheater, das Panevėžys zu einer wahren Theaterhochburg machte. Das alte Flussbett, Senvagė, wurde in ein wunderschönes Naherholungsgebiet im Zentrum umgewandelt. Zudem ist die hochmoderne Cido Arena ein Austragungsort für internationale Radsport- und Basketballveranstaltungen, was die sportliche Bedeutung unterstreicht.",
+      hu: "Panevėžys Litvánia ötödik legnépesebb városa, amely Aukštaitija régió legfontosabb gazdasági és kulturális csomópontja. Az 1503-ban, Sándor litván nagyfejedelem által alapított település a Nevėžis folyó partján terül el. A mintegy 85 000 lakost számláló város a 20. század során az ország egyik legjelentősebb ipari központjává vált. Kiemelkedő kulturális jelentőségét a Juozas Miltinis által alapított Drámai Színháznak köszönheti, amely a színházművészet fellegvárává tette. A város szívében található a Senvagė nevű régi folyómeder, amelyet egy gyönyörű szabadidőparkká alakítottak át. A modern Cido Arena nemzetközi kerékpáros és kosárlabda események otthona, növelve a város sportéletének hírnevét.",
+      ro: "Panevėžys este al cincilea oraș ca mărime din Lituania și funcționează ca un nod central al regiunii Aukštaitija. Fondat în anul 1503 de Marele Duce Alexandru, orașul se întinde pitoresc pe malurile râului Nevėžis. Cu aproximativ 85.000 de locuitori, Panevėžys s-a dezvoltat în secolul al XX-lea ca unul dintre cele mai importante centre industriale ale țării. Orașul este renumit la nivel național pentru Teatrul Dramatic fondat de Juozas Miltinis, care a transformat Panevėžys într-o adevărată capitală a teatrului. Vechea albie a râului, Senvagė, a fost transformată într-o frumoasă zonă de recreere în inima orașului. De asemenea, moderna arenă Cido găzduiește competiții internaționale de ciclism și baschet.",
+      en: "Panevėžys is the fifth largest city in Lithuania, acting as the central hub of the Aukštaitija region. Founded in 1503 by Grand Duke Alexander Jagiellon, the city is beautifully situated along the banks of the Nevėžis River. With a population of around 85,000, Panevėžys developed into one of the country's most vital industrial centers during the 20th century. The city is renowned nationwide for its Drama Theatre, founded by Juozas Miltinis, which turned Panevėžys into a stronghold of theatrical arts. The old riverbed, known as Senvagė, has been transformed into a scenic recreational park right in the city center. Furthermore, the state-of-the-art Cido Arena frequently hosts international indoor cycling and basketball events."
+    },
+    factsAdvanced: {
+      de: ["Sándor litván nagyfejedelem alapította 1503-ban.", "Jelenlegi lakossága megközelítőleg 85 000 fő.", "A várost kettészeli a Nevėžis folyó.", "A Cido Arena 2008-ban nyitotta meg kapuit a nagyközönség előtt.", "A Juozas Miltinis Drámai Színház 1940-ben jött létre.", "A Senvagė park a város egyik fő turisztikai látványossága."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-panevezys-cities-v2.webp",
+},  {
     id: "lithuania-alytus-cities-v2",
     type: "city",
-    name: { de: "Alytus", hu: "Alytus", ro: "Alytus", en: "Alytus" },
+    name: { de: "Alytus", hu: "Alytus", ro: "Alytus", en: "Alytus",
+image: "/poi-images/lithuania-alytus-cities-v2.webp"
+},
     coords: [24.05, 54.4],
     coordinates: { lat: 54.4, lng: 24.05 },
     description: {
@@ -57,11 +89,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Cel mai mare oraș din sudul Lituaniei", "Cunoscut pentru parcul orașului", "Centru textil important"],
       en: ["Founded in the 14th century", "Largest city in southern Lithuania", "Known for its city park", "Important textile center"],
     },
-    imageHint: "Alytus bridge over Nemunas river", image: "/poi-images/lithuania-alytus-cities-v2.webp"},
-  {
+imageHint: "Alytus bridge over Nemunas river",
+    descriptionAdvanced: {
+      de: "Alytus ist die sechstgrößte Stadt Litauens und gilt als das historische Zentrum der Region Dzūkija im Süden des Landes. Die Stadt wird durch den größten litauischen Fluss, den Nemunas, in zwei markante Teile (Alytus I und Alytus II) geteilt, die durch mehrere Brücken verbunden sind, darunter die spektakuläre Weiße-Rosen-Brücke. Diese ist die höchste Fußgängerbrücke des Landes und bietet atemberaubende Ausblicke. Alytus erhielt 1581 die Magdeburger Stadtrechte und hat sich trotz starker Zerstörungen im Zweiten Weltkrieg zu einem wichtigen regionalen Industrie- und Bildungszentrum mit rund 50.000 Einwohnern entwickelt. Die Stadt ist umgeben von tiefen Wäldern, was sie zu einem hervorragenden Ausgangspunkt für Naturtourismus und Erholung macht.",
+      hu: "Alytus Litvánia hatodik legnagyobb városa, amely a déli Dzūkija régió történelmi és kulturális központjának számít. A települést a Nemunas, Litvánia legnagyobb folyója osztja két markáns részre (Alytus I és Alytus II), amelyeket több híd köt össze, köztük a látványos Fehér Rózsa híd. Ez az ország legmagasabb gyalogoshídja, ahonnan lenyűgöző kilátás nyílik a folyóvölgyre. A város 1581-ben kapott magdeburgi városjogot, és bár a második világháború alatt súlyos károkat szenvedett, mára egy közel 50 000 lakosú, dinamikus ipari és oktatási központtá fejlődött. A várost körülölelő hatalmas erdőségek révén a természeti turizmus és a kikapcsolódás kedvelt bázisa.",
+      ro: "Alytus este al șaselea oraș ca mărime din Lituania și este considerat centrul istoric al regiunii Dzūkija din sudul țării. Orașul este împărțit în două secțiuni distincte (Alytus I și Alytus II) de către cel mai mare râu lituanian, Nemunas. Acestea sunt conectate prin mai multe poduri, printre care se remarcă spectaculosul Pod al Trandafirului Alb, cel mai înalt pod pietonal din țară. Alytus a primit drepturile Magdeburgului în 1581 și, în ciuda distrugerilor masive din timpul celui de-al Doilea Război Mondial, s-a transformat într-un important centru industrial și educațional, având o populație de aproximativ 50.000 de locuitori. Orașul este înconjurat de păduri adânci, fiind un punct de plecare excelent pentru ecoturism.",
+      en: "Alytus is the sixth largest city in Lithuania and serves as the historical center of the Dzūkija region in the south of the country. The city is bisected by the Nemunas, Lithuania's largest river, dividing it into two distinct parts (Alytus I and Alytus II). These sections are connected by several bridges, notably the spectacular White Rose Bridge, which is the highest pedestrian bridge in the nation and offers breathtaking views. Granted Magdeburg rights in 1581, Alytus suffered heavy damage during World War II but has since rebuilt itself into a vital industrial and educational hub with around 50,000 residents. Surrounded by extensive forests, it has become a prime destination for nature tourism and recreation."
+    },
+    factsAdvanced: {
+      de: ["Első írásos említése 1377-ből származik.", "A magdeburgi városjogot Báthory István adományozta 1581-ben.", "A Fehér Rózsa híd 38 méter magasan ível át a Nemunas felett.", "Lakossága nagyjából 50 000 főt tesz ki.", "A város két fő részét (Alytus I és II) a Nemunas választja el.", "Dzūkija régió informális fővárosaként tartják számon."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-alytus-cities-v2.webp",
+},  {
     id: "lithuania-marijampole-cities-v2",
     type: "city",
-    name: { de: "Marijampolė", hu: "Marijampolė", ro: "Marijampolė", en: "Marijampolė" },
+    name: { de: "Marijampolė", hu: "Marijampolė", ro: "Marijampolė", en: "Marijampolė",
+image: "/poi-images/lithuania-marijampole-cities-v2.webp"
+},
     coords: [23.35, 54.5667],
     coordinates: { lat: 54.5667, lng: 23.35 },
     description: {
@@ -76,11 +123,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1667", "Centrul regiunii Suvalkija", "Locație importantă a industriei alimentare", "Sediul unei mănăstiri"],
       en: ["Founded in the year 1667", "Center of the Suvalkija region", "Important food industry site", "Home to a monastery"],
     },
-    imageHint: "Marijampole city square and church", image: "/poi-images/lithuania-marijampole-cities-v2.webp"},
-  {
+imageHint: "Marijampole city square and church",
+    descriptionAdvanced: {
+      de: "Marijampolė ist die siebtgrößte Stadt Litauens und das pulsierende Zentrum der ethnografischen Region Suvalkija. Gelegen in der fruchtbaren südwestlichen Ebene nahe der polnischen und russischen Grenze, spielt die Stadt eine Schlüsselrolle im grenzüberschreitenden Handel. Gegründet 1667 und stark geprägt durch den Orden der Marianer, beherbergt Marijampolė ein beeindruckendes Kloster sowie die Basilika des Heiligen Erzengels Michael. Im 19. Jahrhundert war die Stadt ein wichtiges Zentrum der litauischen Nationalbewegung, getragen durch das historische Rygiškių-Jonas-Gymnasium, das viele berühmte litauische Persönlichkeiten hervorbrachte. Heute zeichnet sich die 35.000-Einwohner-Stadt durch ihre florierende Lebensmittelindustrie und liebevoll restaurierte Parks aus.",
+      hu: "Marijampolė Litvánia hetedik legnépesebb települése, és a Suvalkija néprajzi régió lüktető központja. A lengyel és orosz határ közelében, egy termékeny délnyugati síkságon fekvő város kulcsszerepet játszik a határokon átnyúló kereskedelemben. Az 1667-ben alapított, a Máriás papok rendje által jelentősen formált város büszkesége egy lenyűgöző kolostor, valamint a Szent Mihály arkangyal-bazilika. A 19. században a litván nemzeti mozgalom egyik fontos bázisa volt, amihez hozzájárult a történelmi Rygiškių Jonas Gimnázium is, ahol számos híres litván személyiség tanult. A ma mintegy 35 000 lakosú várost virágzó élelmiszeripar és gyönyörűen felújított, gondozott parkok jellemzik.",
+      ro: "Marijampolė este al șaptelea oraș ca mărime din Lituania și centrul vibrant al regiunii etnografice Suvalkija. Situat în câmpia fertilă din sud-vest, aproape de granița cu Polonia și Rusia, orașul joacă un rol cheie în comerțul transfrontalier. Fondat în 1667 și marcat puternic de ordinul Părinților Mariani, Marijampolė găzduiește o mănăstire impresionantă și Bazilica Sfântul Arhanghel Mihail. În secolul al XIX-lea, orașul a fost un focar al mișcării naționale lituaniene, susținut de istoricul Gimnaziu Rygiškių Jonas, care a educat numeroase personalități celebre. Astăzi, orașul de 35.000 de locuitori iese în evidență prin industria alimentară prosperă și parcurile frumos restaurate.",
+      en: "Marijampolė is the seventh largest city in Lithuania and the vibrant heart of the Suvalkija ethnographic region. Located in the fertile southwestern plains near the Polish and Russian borders, the city plays a key role in cross-border commerce. Founded in 1667 and deeply influenced by the Congregation of Marian Fathers, Marijampolė features an impressive monastery and the Basilica of St. Michael the Archangel. During the 19th century, the city became a crucial center for the Lithuanian national revival, aided by the historic Rygiškių Jonas Gymnasium, which educated many famous Lithuanian figures. Today, the city of 35,000 residents is notable for its thriving food industry and beautifully restored public parks."
+    },
+    factsAdvanced: {
+      de: ["1667-ben alapították, eredetileg Pašešupis néven.", "A Máriás rend (Marian Fathers) jelentősen hozzájárult a város fejlődéséhez.", "Lakossága nagyjából 35 000 fő.", "A Rygiškių Jonas Gimnáziumot 1867-ben alapították.", "Suvalkija régió legnagyobb gazdasági és kulturális központja.", "A város nevét 1955 és 1989 között hivatalosan Kapsukasra változtatták."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-marijampole-cities-v2.webp",
+},  {
     id: "lithuania-mazeikiai-cities-v2",
     type: "city",
-    name: { de: "Mažeikiai", hu: "Mažeikiai", ro: "Mažeikiai", en: "Mažeikiai" },
+    name: { de: "Mažeikiai", hu: "Mažeikiai", ro: "Mažeikiai", en: "Mažeikiai",
+image: "/poi-images/lithuania-mazeikiai-cities-v2.webp"
+},
     coords: [22.3333, 56.3167],
     coordinates: { lat: 56.3167, lng: 22.3333 },
     description: {
@@ -95,11 +157,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XVI-lea", "Centru semnificativ al industriei petroliere", "Situat pe râul Venta", "Nod feroviar important"],
       en: ["First mentioned in the 16th century", "Significant center of the oil industry", "Located on the Venta River", "Important railway junction"],
     },
-    imageHint: "Mazeikiai industrial skyline and refinery", image: "/poi-images/lithuania-mazeikiai-cities-v2.webp"},
-  {
+imageHint: "Mazeikiai industrial skyline and refinery",
+    descriptionAdvanced: {
+      de: "Mažeikiai ist die achtgrößte Stadt Litauens und das wichtigste Industriezentrum im Nordwesten des Landes. Die Stadt, die unweit der lettischen Grenze am Fluss Venta liegt, ist vor allem für die riesige Ölraffinerie „ORLEN Lietuva“ bekannt, die einzige ihrer Art im gesamten Baltikum. Gegründet im 16. Jahrhundert, erlebte Mažeikiai im späten 19. und 20. Jahrhundert einen rasanten Aufschwung durch den Ausbau des Eisenbahnnetzes, das sie mit Riga und Liepāja verband. Heute präsentiert sich die Stadt als wirtschaftlicher Motor der Region Samogitien, der von weitläufigen Parks und einer modernen Infrastruktur durchzogen ist. Kulturelle Einrichtungen wie das Museum von Mažeikiai geben tiefe Einblicke in die regionale Geschichte und die Entwicklung der Ölindustrie.",
+      hu: "Mažeikiai Litvánia nyolcadik legnagyobb városa, amely az ország északnyugati részének legfontosabb ipari központja. A lett határ közelében, a Venta folyó partján fekvő város leginkább az „ORLEN Lietuva” olajfinomítóról ismert, amely az egyetlen ilyen létesítmény a teljes balti régióban. A 16. században alapított település a 19. és 20. század fordulóján indult gyors fejlődésnek, nagyrészt a Rigával és Liepājával összekötő vasútvonalak kiépítésének köszönhetően. Ma a város Szamogitia régió egyik gazdasági motorja, amelyet tágas parkok és modern infrastruktúra jellemez. A helyi múzeumok átfogó képet nyújtanak a térség viharos történelméről és az olajipar kialakulásáról.",
+      ro: "Mažeikiai este al optulea oraș ca mărime din Lituania și principalul centru industrial din nord-vestul țării. Situat în apropierea graniței cu Letonia, pe râul Venta, orașul este faimos mai ales pentru uriașa rafinărie de petrol „ORLEN Lietuva”, singura de acest fel din toate Țările Baltice. Fondată în secolul al XVI-lea, Mažeikiai a cunoscut o dezvoltare rapidă la sfârșitul secolului al XIX-lea și începutul secolului XX, datorită extinderii rețelei feroviare care o lega de Riga și Liepāja. Astăzi, orașul se prezintă ca un motor economic al regiunii Samogitia, fiind presărat cu parcuri spațioase și o infrastructură modernă. Instituțiile culturale, precum Muzeul Mažeikiai, oferă perspective profunde asupra istoriei locale și a dezvoltării industriei petroliere.",
+      en: "Mažeikiai is the eighth largest city in Lithuania and the foremost industrial center in the northwestern part of the country. Situated near the Latvian border on the Venta River, the city is best known for the massive “ORLEN Lietuva” oil refinery, the only facility of its kind in the entire Baltic region. First mentioned in the 16th century, Mažeikiai experienced rapid growth during the late 19th and early 20th centuries, fueled by the expansion of the railway network connecting it to Riga and Liepāja. Today, the city stands as an economic engine for the Samogitia region, featuring spacious public parks and modern infrastructure. Cultural venues like the Mažeikiai Museum provide deep insights into the region's history and the evolution of the oil industry."
+    },
+    factsAdvanced: {
+      de: ["Először egy 16. századi (1290 körüli, majd később) forrásokban említik.", "A város ad otthont a Baltikum egyetlen olajfinomítójának.", "Lakossága nagyjából 32 000 fő.", "A Venta folyó festői környezetet biztosít a városnak.", "Fontos vasúti csomópont Litvánia és Lettország között.", "A 20. század elején kapott városi rangot."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-mazeikiai-cities-v2.webp",
+},  {
     id: "lithuania-jonava-cities-v2",
     type: "city",
-    name: { de: "Jonava", hu: "Jonava", ro: "Jonava", en: "Jonava" },
+    name: { de: "Jonava", hu: "Jonava", ro: "Jonava", en: "Jonava",
+image: "/poi-images/lithuania-jonava-cities-v2.webp"
+},
     coords: [24.2833, 55.0833],
     coordinates: { lat: 55.0833, lng: 24.2833 },
     description: {
@@ -114,11 +191,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1750", "Centrul producției de îngrășăminte", "Situat la confluența râurilor Neris și Šventoji", "Festival anual de Sânziene"],
       en: ["Founded in the year 1750", "Center of fertilizer production", "Located at the confluence of Neris and Šventoji", "Annual Midsummer festival"],
     },
-    imageHint: "Jonava city view and bridge", image: "/poi-images/lithuania-jonava-cities-v2.webp"},
-  {
+imageHint: "Jonava city view and bridge",
+    descriptionAdvanced: {
+      de: "Jonava ist eine bedeutende Industriestadt in Zentrallitauen, die strategisch günstig am Zusammenfluss der Flüsse Neris und Šventoji liegt. Als neuntgrößte Stadt des Landes ist Jonava heute vor allem als Standort von „Achema“, der größten Düngemittelfabrik in den baltischen Staaten, bekannt. Die 1750 gegründete Stadt war historisch stark durch ihre jüdische Gemeinschaft geprägt und fungierte als wichtiges Handelszentrum. Jonava trägt stolz den Titel der „Hauptstadt des Mittsommerfestes“ (Joninės), da sie die landesweit größten und spektakulärsten Feierlichkeiten zu diesem traditionellen Fest ausrichtet. Neben der florierenden chemischen Industrie bietet die Stadt eine reizvolle Naturlandschaft, zahlreiche Parks und moderne Sportanlagen.",
+      hu: "Jonava egy jelentős iparváros Közép-Litvániában, amely stratégiailag fontos helyen, a Neris és a Šventoji folyók találkozásánál fekszik. Az ország kilencedik legnagyobb városaként Jonava ma elsősorban az „Achema” nevű vegyi üzemről ismert, amely a balti államok legnagyobb műtrágyagyára. Az 1750-ben alapított települést történelmileg jelentősen formálta az itt élő nagyszámú zsidó közösség, és fontos kereskedelmi csomópontként működött. Jonava büszkén viseli a „Szent Iván-éji fesztiválok fővárosa” (Joninės) címet, mivel a város rendezi a hagyományos ünnep legnagyobb és leglátványosabb eseményeit az országban. A virágzó vegyipar mellett a város vonzó természeti környezetet, tágas parkokat és modern sportlétesítményeket is kínál.",
+      ro: "Jonava este un important oraș industrial din centrul Lituaniei, situat strategic la confluența râurilor Neris și Šventoji. Fiind al nouălea oraș ca mărime din țară, Jonava este recunoscut astăzi în principal ca sediul „Achema”, cea mai mare fabrică de îngrășăminte din statele baltice. Fondat în 1750, orașul a fost marcat istoric de o comunitate evreiască puternică, funcționând ca un important centru comercial. Jonava poartă cu mândrie titlul de „Capitala Festivalului de Sânziene” (Joninės), organizând cele mai mari și spectaculoase sărbători ale acestei tradiții la nivel național. Pe lângă industria chimică prosperă, orașul oferă un peisaj natural atractiv, numeroase parcuri și facilități sportive moderne.",
+      en: "Jonava is a significant industrial city in central Lithuania, strategically located at the confluence of the Neris and Šventoji rivers. As the ninth largest city in the country, Jonava is primarily known today as the home of “Achema,” the largest fertilizer plant in the Baltic states. Founded in 1750, the city was historically shaped by a vibrant Jewish community and functioned as a crucial commercial hub. Jonava proudly holds the title of the “Capital of Midsummer” (Joninės), hosting the nation's largest and most spectacular celebrations for this traditional festival. Beyond its booming chemical industry, the city offers an appealing natural landscape, numerous expansive parks, and modern sports facilities."
+    },
+    factsAdvanced: {
+      de: ["A várost 1750-ben alapították.", "Az „Achema” műtrágyagyár a térség legnagyobb munkáltatója.", "Lakossága hozzávetőlegesen 26 000 fő.", "A Neris és a Šventoji folyók összefolyásánál épült.", "Litvánia hivatalos Szent Iván-éji (Joninės) fővárosa.", "A város egykor jelentős zsidó kereskedelmi központ volt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-jonava-cities-v2.webp",
+},  {
     id: "lithuania-utena-cities-v2",
     type: "city",
-    name: { de: "Utena", hu: "Utena", ro: "Utena", en: "Utena" },
+    name: { de: "Utena", hu: "Utena", ro: "Utena", en: "Utena",
+image: "/poi-images/lithuania-utena-cities-v2.webp"
+},
     coords: [25.6, 55.5],
     coordinates: { lat: 55.5, lng: 25.6 },
     description: {
@@ -133,11 +225,27 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1261", "Centru al producției de bere", "Situat în regiunea lacurilor lituaniene", "Locație industrială importantă"],
       en: ["First mentioned in 1261", "Center of beer manufacturing", "Located in the Lithuanian lake district", "Important industrial site"],
     },
-    imageHint: "Utena brewery and city park", image: "/poi-images/lithuania-utena-cities-v2.webp"},
-  {
+imageHint: "Utena brewery and city park",
+    descriptionAdvanced: {
+      de: "Utena ist eine dynamische Industriestadt im Osten Litauens und bildet das Zentrum der historischen Region Aukštaitija. Sie gehört zu den ältesten bekannten Siedlungen des Landes, deren erste urkundliche Erwähnung auf das Jahr 1261 zurückgeht. Heute ist Utena landesweit berühmt für zwei große Unternehmen: die Brauerei „Utenos alus“, eine der führenden Biermarken Litauens, und die Textilfabrik „Utenos trikotažas“. Eingebettet in die malerische litauische Seenplatte, umgeben von dichten Wäldern und klaren Gewässern, bietet die Stadt eine ideale Kombination aus industrieller Stärke und natürlicher Schönheit. Zu den Hauptattraktionen gehören der Stadtpark, moderne Kulturzentren und das nahegelegene Naherholungsgebiet Alaušas-See.",
+      hu: "Utena egy dinamikusan fejlődő iparváros Kelet-Litvániában, az Aukštaitija régió történelmi és kulturális központja. Az ország egyik legrégebbi települése, amelyet a történelmi források már 1261-ben megemlítettek. Napjainkban Utena két hatalmas ipari vállalatáról híres országszerte: az „Utenos alus” sörgyárról, amely az egyik vezető litván sörmárka, valamint az „Utenos trikotažas” textilgyárról. A festői litván tóvidék szívében, sűrű erdők és kristálytiszta vizek ölelésében fekvő város tökéletes egyensúlyt teremt az ipari teljesítmény és a természeti szépség között. A városnézők körében népszerű a központi városliget, a modern kulturális központok és a közeli Alaušas-tó szabadidős övezete.",
+      ro: "Utena este un oraș industrial dinamic din estul Lituaniei și centrul regiunii istorice Aukštaitija. Este una dintre cele mai vechi așezări cunoscute din țară, prima sa mențiune documentară datând din anul 1261. Astăzi, Utena este faimoasă la nivel național pentru două mari companii: fabrica de bere „Utenos alus”, un brand de top în Lituania, și fabrica de textile „Utenos trikotažas”. Amplasat în pitoreasca regiune a lacurilor lituaniene, înconjurat de păduri dese și ape limpezi, orașul oferă o combinație ideală de forță industrială și frumusețe naturală. Atracțiile principale includ parcul orășenesc, centrele culturale moderne și zona de agrement din apropierea lacului Alaušas.",
+      en: "",
+      en: "Utena is a dynamic industrial city in eastern Lithuania and serves as the core of the historic Aukštaitija region. It is one of the oldest known settlements in the country, with its first documented mention dating back to 1261. Today, Utena is famous nationwide for two major enterprises: the “Utenos alus” brewery, one of Lithuania's leading beer brands, and the textile manufacturer “Utenos trikotažas”. Nestled within the picturesque Lithuanian lake district, surrounded by dense forests and crystal-clear waters, the city offers an ideal blend of industrial strength and natural beauty. Key attractions include the central city park, modern cultural venues, and the popular recreational area near Lake Alaušas."
+    },
+    factsAdvanced: {
+      de: ["Először 1261-ben említették Mindaugas litván nagyfejedelem levelében.", "Az „Utenos alus” a legismertebb litván sörmárkák egyike.", "Lakossága megközelítőleg 25 000 fő.", "Anyaországi textilipara („Utenos trikotažas”) nemzetközi szinten is elismert.", "A város Aukštaitija régió közigazgatási központja.", "Rengeteg apró tó és erdő található a város közvetlen határában."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-utena-cities-v2.webp",
+},  {
     id: "lithuania-kedainiai-cities-v2",
     type: "city",
-    name: { de: "Kėdainiai", hu: "Kėdainiai", ro: "Kėdainiai", en: "Kėdainiai" },
+    name: { de: "Kėdainiai", hu: "Kėdainiai", ro: "Kėdainiai", en: "Kėdainiai",
+image: "/poi-images/lithuania-kedainiai-cities-v2.webp"
+},
     coords: [23.9667, 55.2833],
     coordinates: { lat: 55.2833, lng: 23.9667 },
     description: {
@@ -152,11 +260,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1372", "Are un centru istoric multicultural", "Centrul geografic al Lituaniei", "Centru agricol important"],
       en: ["Founded in the year 1372", "Features a multicultural old town", "Geographical center of Lithuania", "Important agricultural center"],
     },
-    imageHint: "Kedainiai old town market square", image: "/poi-images/lithuania-kedainiai-cities-v2.webp"},
-  {
+imageHint: "Kedainiai old town market square",
+    descriptionAdvanced: {
+      de: "Kėdainiai, oft als das geografische Zentrum Litauens bezeichnet, ist eine der ältesten und architektonisch wertvollsten Städte des Landes. Die 1372 am Fluss Nevėžis gegründete Stadt zeichnet sich durch eine außergewöhnlich gut erhaltene Altstadt aus, in der sich Einflüsse schottischer, jüdischer, deutscher und litauischer Gemeinschaften vermischen. Im 17. Jahrhundert wurde Kėdainiai von der mächtigen Adelsfamilie Radziwiłł regiert, die sie zu einem Zentrum der Reformation und der Bildung machte. Die gepflasterten Straßen, die Renaissancebauten, alte Synagogen und historische Kirchen verleihen der Stadt ein einzigartiges Flair. Heute ist die 23.000-Einwohner-Stadt auch als „Gurkenhauptstadt“ Litauens bekannt, was jedes Jahr mit einem eigenen Fest gefeiert wird.",
+      hu: "Kėdainiai, amelyet gyakran Litvánia földrajzi középpontjának is neveznek, az ország egyik legrégebbi és építészetileg legértékesebb városa. Az 1372-ben, a Nevėžis folyó partján alapított település rendkívül jól megőrzött óvárossal büszkélkedhet, ahol a skót, zsidó, német és litván közösségek építészeti és kulturális öröksége keveredik. A 17. században Kėdainiait a hatalmas Radziwiłł nemesi család uralta, akik a reformáció és az oktatás fontos központjává tették. A macskaköves utcák, a reneszánsz épületek, a régi zsinagógák és a történelmi templomok egyedi hangulatot kölcsönöznek a városnak. Napjainkban a 23 000 lakosú várost Litvánia „uborkafővárosaként” is emlegetik, amit évente külön fesztivállal ünnepelnek meg.",
+      ro: "Kėdainiai, adesea numit centrul geografic al Lituaniei, este unul dintre cele mai vechi și valoroase orașe din punct de vedere arhitectural din țară. Fondat în 1372 pe malurile râului Nevėžis, orașul se distinge printr-un centru vechi excepțional de bine conservat, unde se împletesc influențele comunităților scoțiene, evreiești, germane și lituaniene. În secolul al XVII-lea, Kėdainiai a fost guvernat de puternica familie nobiliară Radziwiłł, care l-a transformat într-un centru al Reformei și al educației. Străzile pietruite, clădirile renascentiste, sinagogile vechi și bisericile istorice conferă orașului un farmec unic. Astăzi, orașul de 23.000 de locuitori este cunoscut și ca „capitala castraveților” din Lituania, fapt celebrat anual printr-un festival dedicat.",
+      en: "Kėdainiai, often referred to as the geographical center of Lithuania, is one of the oldest and most architecturally precious cities in the country. Founded in 1372 along the Nevėžis River, the city boasts an exceptionally well-preserved old town that reflects a blend of Scottish, Jewish, German, and Lithuanian cultural heritage. During the 17th century, Kėdainiai was governed by the powerful Radziwiłł noble family, who transformed it into a prominent hub of the Reformation and education. The cobblestone streets, Renaissance buildings, historic synagogues, and ancient churches give the city a truly unique atmosphere. Today, this city of 23,000 residents is also famously known as the “Cucumber Capital” of Lithuania, an agricultural tradition celebrated with an annual festival."
+    },
+    factsAdvanced: {
+      de: ["1372-ben alapították a Nevėžis folyó partján.", "A történelmi óvárosban skót kereskedők által épített házak is találhatók.", "A Radziwiłł család a 17. században tette virágzó várossá.", "Litvánia földrajzi középpontja a közelben található.", "Lakossága nagyjából 23 000 fő.", "Országszerte híres a nagy hagyományokkal bíró uborkatermesztéséről."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kedainiai-cities-v2.webp",
+},  {
     id: "lithuania-telsiai-cities-v2",
     type: "city",
-    name: { de: "Telšiai", hu: "Telšiai", ro: "Telšiai", en: "Telšiai" },
+    name: { de: "Telšiai", hu: "Telšiai", ro: "Telšiai", en: "Telšiai",
+image: "/poi-images/lithuania-telsiai-cities-v2.webp"
+},
     coords: [22.25, 55.9833],
     coordinates: { lat: 55.9833, lng: 22.25 },
     description: {
@@ -171,11 +294,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Capitala regiunii Samogitia", "Situat pe șapte dealuri", "Centru catolic semnificativ"],
       en: ["Founded in the 14th century", "Capital of the Samogitia region", "Located on seven hills", "Significant Catholic center"],
     },
-    imageHint: "Telsiai cathedral on the hill", image: "/poi-images/lithuania-telsiai-cities-v2.webp"},
-  {
+imageHint: "Telsiai cathedral on the hill",
+    descriptionAdvanced: {
+      de: "Telšiai ist die stolze Hauptstadt der historischen Region Schemaitien (Žemaitija) im Nordwesten Litauens. Ähnlich wie Rom erbaut auf sieben Hügeln und malerisch gelegen am Ufer des Mastis-Sees, gilt die Stadt als das spirituelle und kulturelle Herz der Region. Das historische Zentrum wird von der beeindruckenden Kathedrale St. Antonius von Padua überragt, dem Sitz des schemaitischen Bistums. Telšiai ist berühmt für seine tief verwurzelten Traditionen, seinen einzigartigen schemaitischen Dialekt und eine Vielzahl kleiner Skulpturen, die überall in der Stadt versteckt sind. Die charmante Altstadt, renovierte Uferpromenaden und das reiche katholische Erbe machen Telšiai zu einem wahren Juwel abseits der großen Touristenströme.",
+      hu: "Telšiai Szamogitia (Žemaitija) történelmi régiójának büszke fővárosa Litvánia északnyugati részén. A Rómához hasonlóan hét dombra épült, és a festői Mastis-tó partján fekvő várost a régió szellemi és kulturális szívének tekintik. A történelmi központ fölé magasodik a lenyűgöző Páduai Szent Antal-székesegyház, amely a szamogitiai püspökség székhelye. Telšiai híres a mélyen gyökerező hagyományairól, egyedi szamogitiai dialektusáról és a városban mindenfelé elszórt apró, játékos szobrokról. A bájos óváros, a felújított tóparti sétányok és a gazdag katolikus örökség igazi rejtett kincsé teszik a települést a turisták számára.",
+      ro: "Telšiai este mândra capitală a regiunii istorice Samogitia (Žemaitija) din nord-vestul Lituaniei. Asemenea Romei, este construit pe șapte dealuri și este situat pitoresc pe malul lacului Mastis, fiind considerat inima spirituală și culturală a regiunii. Centrul istoric este dominat de impresionanta Catedrală Sfântul Anton de Padova, sediul episcopiei samogitiene. Telšiai este faimos pentru tradițiile sale adânc înrădăcinate, dialectul samogitian unic și o multitudine de mici sculpturi ascunse prin tot orașul. Orașul vechi plin de farmec, promenadele renovate de pe malul lacului și bogata moștenire catolică fac din Telšiai o adevărată bijuterie ascunsă.",
+      en: "Telšiai is the proud capital of the historic Samogitia (Žemaitija) region in northwestern Lithuania. Much like Rome, it is built on seven hills and is picturesquely situated on the shores of Lake Mastis, widely considered the spiritual and cultural heart of the region. The historic center is dominated by the impressive St. Anthony of Padua Cathedral, the seat of the Samogitian bishopric. Telšiai is famous for its deeply rooted traditions, its unique Samogitian dialect, and a multitude of small, playful sculptures hidden throughout the city. The charming old town, renovated lakefront promenades, and rich Catholic heritage make Telšiai a true hidden gem for visitors."
+    },
+    factsAdvanced: {
+      de: ["A várost hét dombra építették, akárcsak Rómát.", "A Mastis-tó partján fekszik.", "A Páduai Szent Antal-székesegyház a szamogitiai püspökség székhelye.", "Szamogitia (Žemaitija) régió hivatalos fővárosa.", "Lakossága nagyjából 22 000 fő.", "1791-ben kapott magdeburgi városjogot."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-telsiai-cities-v2.webp",
+},  {
     id: "lithuania-visaginas-cities-v2",
     type: "city",
-    name: { de: "Visaginas", hu: "Visaginas", ro: "Visaginas", en: "Visaginas" },
+    name: { de: "Visaginas", hu: "Visaginas", ro: "Visaginas", en: "Visaginas",
+image: "/poi-images/lithuania-visaginas-cities-v2.webp"
+},
     coords: [26.4333, 55.6],
     coordinates: { lat: 55.6, lng: 26.4333 },
     description: {
@@ -190,11 +328,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1975", "Cel mai tânăr oraș din Lituania", "Planificat ca oraș-dormitor pentru centrala nucleară", "Majoritar vorbitor de rusă"],
       en: ["Founded in the year 1975", "Youngest city in Lithuania", "Planned as a dormitory town for the power plant", "Majority Russian-speaking"],
     },
-    imageHint: "Visaginas modern apartment buildings in forest", image: "/poi-images/lithuania-visaginas-cities-v2.webp"},
-  {
+imageHint: "Visaginas modern apartment buildings in forest",
+    descriptionAdvanced: {
+      de: "Visaginas ist die jüngste Stadt Litauens, die erst 1975 aus dem Nichts inmitten unberührter Pinienwälder im äußersten Nordosten des Landes erbaut wurde. Ursprünglich unter dem Namen Sniečkus gegründet, diente sie als moderne Wohnsiedlung für die Arbeiter des nahegelegenen Kernkraftwerks Ignalina. Das architektonische Design der Stadt ist einzigartig: Aus der Luft betrachtet, ähnelt ihr Grundriss den Umrissen eines Schmetterlings. Heute zeichnet sich die Stadt durch eine stark multikulturelle Bevölkerung aus, wobei Russisch die am meisten gesprochene Sprache ist. Trotz der Stilllegung des Kraftwerks zieht Visaginas mit seiner faszinierenden Mischung aus sowjetischer Planstadtarchitektur und idyllischer Natur rund um den Visaginas-See viele interessierte Besucher an.",
+      hu: "Visaginas Litvánia legfiatalabb városa, amelyet 1975-ben a semmiből építettek fel az érintetlen fenyőerdők közepén, az ország legészakkeletibb csücskében. Az eredetileg Sniečkus néven alapított település a közeli Ignalina atomerőmű dolgozóinak modern lakóhelyeként szolgált. A város építészeti kialakítása teljesen egyedi: felülről nézve az alaprajza egy pillangó körvonalait formázza. Ma a várost erősen multikulturális lakosság jellemzi, és az orosz a leggyakrabban beszélt nyelv. Bár az atomerőművet azóta leállították, Visaginas továbbra is vonzza az érdeklődőket a szovjet tervezett városépítészet és a Visaginas-tó körüli idilli természet különleges kontrasztjával.",
+      ro: "Visaginas este cel mai tânăr oraș din Lituania, construit de la zero abia în 1975, în mijlocul pădurilor virgine de pini din extremitatea de nord-est a țării. Fondat inițial sub numele de Sniečkus, a servit ca o așezare rezidențială modernă pentru lucrătorii de la centrala nucleară din apropiere, Ignalina. Designul arhitectural al orașului este unic: privit de sus, planul său seamănă cu conturul unui fluture. Astăzi, orașul se caracterizează printr-o populație puternic multiculturală, limba rusă fiind cel mai des vorbită. În ciuda închiderii centralei, Visaginas atrage vizitatori interesați de amestecul său fascinant de arhitectură urbană sovietică și natura idilică din jurul lacului Visaginas.",
+      en: "Visaginas is the youngest city in Lithuania, built entirely from scratch in 1975 amidst pristine pine forests in the far northeastern corner of the country. Originally founded under the name Sniečkus, it served as a modern residential settlement for the workers of the nearby Ignalina Nuclear Power Plant. The architectural design of the city is highly unique: when viewed from above, its layout resembles the outline of a butterfly. Today, the city is characterized by a strongly multicultural population, with Russian being the most widely spoken language. Despite the decommissioning of the power plant, Visaginas draws visitors intrigued by its fascinating blend of Soviet-era planned architecture and the idyllic nature surrounding Lake Visaginas."
+    },
+    factsAdvanced: {
+      de: ["1975-ben alapították, eredetileg Sniečkus néven.", "Az Ignalina atomerőmű kiszolgálására épült.", "Litvánia legfiatalabb városa.", "A város alaprajza a magasból egy pillangóra emlékeztet.", "Lakossága nagyjából 18 000 fő, többnyire orosz anyanyelvű.", "Sűrű fenyőerdők és a Visaginas-tó veszi körül."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-visaginas-cities-v2.webp",
+},  {
     id: "lithuania-taurage-cities-v2",
     type: "city",
-    name: { de: "Tauragė", hu: "Tauragė", ro: "Tauragė", en: "Tauragė" },
+    name: { de: "Tauragė", hu: "Tauragė", ro: "Tauragė", en: "Tauragė",
+image: "/poi-images/lithuania-taurage-cities-v2.webp"
+},
     coords: [22.2833, 55.25],
     coordinates: { lat: 55.25, lng: 22.2833 },
     description: {
@@ -209,11 +362,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Cunoscut pentru castelul său", "Centru industrial important", "Situat pe râul Jūra"],
       en: ["Founded in the 15th century", "Known for its castle", "Important industrial center", "Located on the Jūra River"],
     },
-    imageHint: "Taurage castle and museum", image: "/poi-images/lithuania-taurage-cities-v2.webp"},
-  {
+imageHint: "Taurage castle and museum",
+    descriptionAdvanced: {
+      de: "Tauragė ist eine dynamische Stadt im Westen Litauens und das administrative Zentrum des Bezirks Tauragė. Am Ufer des Flusses Jūra gelegen, spielte die Stadt aufgrund ihrer Nähe zur ehemaligen preußischen Grenze historisch eine bedeutende Rolle im Zoll- und Handelswesen. Das prägnanteste Bauwerk ist das Schloss Tauragė aus dem 19. Jahrhundert, das ursprünglich als Zollhaus diente und heute ein Regionalmuseum sowie eine Musikschule beherbergt. Weltgeschichtliche Bedeutung erlangte die Stadt im Jahr 1812 durch die Konvention von Tauroggen, einem wichtigen Pakt in den Napoleonischen Kriegen. Heute ist die 21.000-Einwohner-Stadt ein prosperierendes Industriezentrum mit weiten Grünflächen und einem wachsenden Fokus auf grüne Energien.",
+      hu: "Tauragė egy dinamikus város Nyugat-Litvániában, és a Tauragė megye közigazgatási központja. A Jūra folyó partján fekvő város történelmileg fontos szerepet játszott a vám- és kereskedelemben, mivel a korábbi porosz határ közelében helyezkedik el. Legmeghatározóbb építménye a 19. századi Tauragė-kastély, amely eredetileg vámházként szolgált, ma pedig a regionális múzeumnak és egy zeneiskolának ad otthont. A város világtörténelmi jelentőségre 1812-ben tett szert a tauroggeni konvenció révén, amely a napóleoni háborúk egyik kulcsfontosságú megállapodása volt. Napjainkban a 21 000 lakosú település prosperáló ipari központ, kiterjedt zöldövezetekkel és erős fókusszal a zöldenergiára.",
+      ro: "Tauragė este un oraș dinamic din vestul Lituaniei și centrul administrativ al districtului Tauragė. Situat pe malul râului Jūra, orașul a jucat istoric un rol semnificativ în vămi și comerț datorită proximității sale de fosta graniță prusacă. Cea mai proeminentă clădire este Castelul Tauragė din secolul al XIX-lea, care a servit inițial ca vamă, iar astăzi găzduiește un muzeu regional și o școală de muzică. Orașul a căpătat importanță istorică mondială în 1812 prin Convenția de la Tauroggen, un pact crucial în timpul Războaielor Napoleoniene. Astăzi, orașul de 21.000 de locuitori este un centru industrial prosper, cu vaste spații verzi și o orientare tot mai mare către energia verde.",
+      en: "Tauragė is a dynamic city in western Lithuania and the administrative center of the Tauragė County. Situated on the banks of the Jūra River, the city historically played a significant role in customs and trade due to its proximity to the former Prussian border. Its most prominent landmark is the 19th-century Tauragė Castle, which originally served as a customs house and now hosts a regional museum and a music school. The city achieved global historical significance in 1812 with the Convention of Tauroggen, a crucial pact during the Napoleonic Wars. Today, this city of 21,000 residents is a prosperous industrial hub with extensive green spaces and a growing focus on renewable energy."
+    },
+    factsAdvanced: {
+      de: ["A Jūra folyó partján terül el.", "A Tauragė-kastély a 19. században épült vámháznak.", "Itt kötötték meg az 1812-es tauroggeni konvenciót.", "Történelmileg határváros volt Poroszország felé.", "Lakossága mintegy 21 000 fő.", "Jelentős evangélikus lutheránus templommal rendelkezik."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-taurage-cities-v2.webp",
+},  {
     id: "lithuania-ukmerge-cities-v2",
     type: "city",
-    name: { de: "Ukmergė", hu: "Ukmergė", ro: "Ukmergė", en: "Ukmergė" },
+    name: { de: "Ukmergė", hu: "Ukmergė", ro: "Ukmergė", en: "Ukmergė",
+image: "/poi-images/lithuania-ukmerge-cities-v2.webp"
+},
     coords: [24.7667, 55.25],
     coordinates: { lat: 55.25, lng: 24.7667 },
     description: {
@@ -228,11 +396,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1225", "Unul dintre cele mai vechi orașe din Lituania", "Deține o movilă de cetate", "Nod de transport important"],
       en: ["First mentioned in 1225", "One of the oldest cities in Lithuania", "Has a castle mound", "Important transportation node"],
     },
-    imageHint: "Ukmerge hillfort and old town", image: "/poi-images/lithuania-ukmerge-cities-v2.webp"},
-  {
+imageHint: "Ukmerge hillfort and old town",
+    descriptionAdvanced: {
+      de: "Ukmergė ist eine der ältesten und geschichtsträchtigsten Städte Litauens, gelegen am Ufer des Flusses Šventoji in der Region Aukštaitija. Ihre Ursprünge gehen auf das Jahr 1225 zurück, als sie als wichtige hölzerne Festung zur Abwehr von Angriffen des Livländischen Ordens diente. Die Überreste dieses Verteidigungswalls sind noch heute in Form des imposanten Burgberges im Stadtzentrum sichtbar. Über die Jahrhunderte entwickelte sich Ukmergė zu einem lebendigen Kreuzweg für Händler und Handwerker, was sich in der charmanten, gut erhaltenen Altstadt mit ihren engen Gassen widerspiegelt. Die 20.000-Einwohner-Stadt besticht heute durch ihr reiches kulturelles Erbe, wunderschöne Parks entlang des Flusses und ihre architektonische Vielfalt.",
+      hu: "Ukmergė Litvánia egyik legrégebbi és legnagyobb történelmi múltú városa, amely az Aukštaitija régióban, a Šventoji folyó partján fekszik. Eredete 1225-re nyúlik vissza, amikor fontos faerődítményként szolgált a Kardtestvérek rendjének támadásai ellen. Ennek a védműnek a maradványai ma is láthatók a városközpontban emelkedő impozáns várdomb (piliakalnis) formájában. Az évszázadok során Ukmergė a kereskedők és kézművesek élénk találkozóhelyévé fejlődött, amit jól tükröz a hangulatos, kiválóan megőrzött, szűk utcácskákkal átszőtt óváros. A 20 000 lakosú település ma gazdag kulturális örökségével, a folyó menti gyönyörű parkjaival és építészeti sokszínűségével vonzza a látogatókat.",
+      ro: "Ukmergė este unul dintre cele mai vechi și mai bogate în istorie orașe din Lituania, situat pe malul râului Šventoji, în regiunea Aukštaitija. Originile sale datează din 1225, când a servit ca o importantă fortăreață de lemn pentru a respinge atacurile Ordinului Livonian. Rămășițele acestui sistem de apărare sunt încă vizibile astăzi sub forma impozantei movile a castelului (piliakalnis) din centrul orașului. De-a lungul secolelor, Ukmergė a evoluat într-o răscruce animată pentru negustori și meșteșugari, fapt reflectat în orașul său vechi fermecător, bine conservat, cu străduțe înguste. Astăzi, orașul de 20.000 de locuitori impresionează prin bogata sa moștenire culturală, parcurile frumoase de-a lungul râului și diversitatea arhitecturală.",
+      en: "Ukmergė is one of Lithuania's oldest and most historically significant cities, situated on the banks of the Šventoji River in the Aukštaitija region. Its origins date back to 1225 when it served as a vital wooden fortress to repel attacks by the Livonian Order. The remnants of these defenses are still visible today as an imposing castle mound (piliakalnis) rising in the city center. Over the centuries, Ukmergė evolved into a bustling crossroads for merchants and artisans, which is beautifully reflected in its charming, well-preserved old town characterized by narrow streets. Today, this city of 20,000 residents captivates visitors with its rich cultural heritage, scenic riverfront parks, and architectural diversity."
+    },
+    factsAdvanced: {
+      de: ["1225-ben említik először a krónikák.", "A városközpontban egy hatalmas történelmi várdomb (piliakalnis) áll.", "A Šventoji folyó szeli ketté a várost.", "Fontos kereskedelmi csomópont volt a múltban.", "Lakossága nagyjából 20 000 fő.", "Óvárosa az egyik legjobban megőrzött Litvániában."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-ukmerge-cities-v2.webp",
+},  {
     id: "lithuania-plunge-cities-v2",
     type: "city",
-    name: { de: "Plungė", hu: "Plungė", ro: "Plungė", en: "Plungė" },
+    name: { de: "Plungė", hu: "Plungė", ro: "Plungė", en: "Plungė",
+image: "/poi-images/lithuania-plunge-cities-v2.webp"
+},
     coords: [21.85, 55.9167],
     coordinates: { lat: 55.9167, lng: 21.85 },
     description: {
@@ -247,11 +430,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Locația Palatului Oginski", "Centru cultural al Samogitiei", "Deține un parc mare"],
       en: ["Founded in the 16th century", "Site of the Oginski Palace", "Cultural center of Samogitia", "Features a large park"],
     },
-    imageHint: "Plunge Oginski palace and park", image: "/poi-images/lithuania-plunge-cities-v2.webp"},
-  {
+imageHint: "Plunge Oginski palace and park",
+    descriptionAdvanced: {
+      de: "Plungė ist eine historisch bedeutsame Stadt in der nordwestlichen Region Schemaitien, die eng mit der einflussreichen Adelsfamilie Oginski verbunden ist. Die Hauptattraktion der Stadt ist zweifellos das prunkvolle Oginski-Schloss aus dem 19. Jahrhundert, das von einem riesigen, wunderschön angelegten Landschaftspark mit jahrhundertealten Bäumen und Teichen umgeben ist. Dieses architektonische Meisterwerk diente einst als kulturelles Zentrum, in dem sogar der junge Mikalojus Konstantinas Čiurlionis Musik studierte. Heute ist Plungė mit seinen knapp 17.000 Einwohnern nicht nur ein kultureller Magnet, sondern durch Unternehmen wie die Vičiūnai-Gruppe, die für ihre Meeresfrüchteprodukte bekannt ist, auch ein wichtiger Wirtschaftsstandort.",
+      hu: "Plungė egy történelmi jelentőségű város Északnyugat-Litvániában, Szamogitia régiójában, amely szorosan összefonódott a befolyásos Oginski nemesi családdal. A település legfőbb látványossága vitathatatlanul a pompás 19. századi Oginski-kastély, amelyet egy hatalmas, lenyűgözően parkosított, évszázados fákkal és tavakkal tarkított tájkert vesz körül. Ez az építészeti remekmű egykor fontos kulturális központként szolgált, ahol többek között a fiatal Mikalojus Konstantinas Čiurlionis is tanult zenét. Napjainkban a csaknem 17 000 lakosú Plungė nem csupán kulturális mágnes, hanem jelentős gazdasági bázis is, részben a tengeri élelmiszereiről ismert Vičiūnai-csoportnak köszönhetően.",
+      ro: "Plungė este un oraș cu o semnificație istorică importantă în regiunea de nord-vest Samogitia, fiind strâns legat de influenta familie nobiliară Oginski. Atracția principală a orașului este, fără îndoială, magnificul Palat Oginski din secolul al XIX-lea, înconjurat de un parc peisagistic vast, frumos amenajat, cu copaci seculari și iazuri. Această capodoperă arhitecturală a servit odată ca centru cultural, unde chiar și tânărul Mikalojus Konstantinas Čiurlionis a studiat muzica. Astăzi, Plungė, cu cei aproape 17.000 de locuitori ai săi, nu este doar un magnet cultural, ci și un important centru economic, susținut de companii precum Grupul Vičiūnai, renumit pentru produsele sale din fructe de mare.",
+      en: "Plungė is a historically significant city in the northwestern Samogitia region, closely associated with the influential Oginski noble family. The undisputed main attraction of the city is the magnificent 19th-century Oginski Palace, surrounded by an expansive, beautifully landscaped park featuring centuries-old trees and tranquil ponds. This architectural masterpiece once served as a vibrant cultural center, where even the young Mikalojus Konstantinas Čiurlionis studied music. Today, Plungė, with its population of nearly 17,000, is not only a cultural magnet but also an important economic hub, bolstered by enterprises like the Vičiūnai Group, widely known for its seafood products."
+    },
+    factsAdvanced: {
+      de: ["A várost a 16. században (1567-ben) említik először.", "Az Oginski-kastély a 19. század végén épült neoreneszánsz stílusban.", "A kastély parkja majdnem 60 hektáron terül el.", "A város Szamogitia egyik jelentős turisztikai központja.", "Lakossága nagyjából 17 000 fő.", "Az élelmiszeripar a város gazdaságának egyik fő pillére."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-plunge-cities-v2.webp",
+},  {
     id: "lithuania-kretinga-cities-v2",
     type: "city",
-    name: { de: "Kretinga", hu: "Kretinga", ro: "Kretinga", en: "Kretinga" },
+    name: { de: "Kretinga", hu: "Kretinga", ro: "Kretinga", en: "Kretinga",
+image: "/poi-images/lithuania-kretinga-cities-v2.webp"
+},
     coords: [21.2333, 55.8833],
     coordinates: { lat: 55.8833, lng: 21.2333 },
     description: {
@@ -266,11 +464,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1253", "Cunoscut pentru grădina de iarnă", "Sediul unei mănăstiri franciscane", "Situat lângă coastă"],
       en: ["First mentioned in 1253", "Known for its Winter Garden", "Home to a Franciscan monastery", "Located near the coast"],
     },
-    imageHint: "Kretinga manor and winter garden", image: "/poi-images/lithuania-kretinga-cities-v2.webp"},
-  {
+imageHint: "Kretinga manor and winter garden",
+    descriptionAdvanced: {
+      de: "Kretinga ist eine der ältesten Städte Litauens und liegt nur wenige Kilometer von der Ostseeküste und dem beliebten Ferienort Palanga entfernt. Die Stadt, die 1253 erstmals urkundlich erwähnt wurde, besitzt ein reiches architektonisches und religiöses Erbe. Das Herzstück von Kretinga ist das Tiškevičius-Gut (Tyszkiewicz) aus dem 19. Jahrhundert, das berühmt ist für seinen prächtigen, exotischen Wintergarten, in dem Pflanzen aus aller Welt gedeihen. Eine weitere historische Perle ist die Kirche der Verkündigung der Heiligen Jungfrau Maria, die 1617 erbaut wurde und als die älteste erhaltene Kirche in Schemaitien gilt. Mit rund 17.000 Einwohnern bietet Kretinga eine friedliche Alternative zur belebten Küste.",
+      hu: "Kretinga Litvánia egyik legrégebbi városa, amely mindössze néhány kilométerre fekszik a balti tengerparttól és a népszerű Palanga üdülőhelytől. Az 1253-ban először említett település gazdag építészeti és vallási örökséggel rendelkezik. Kretinga ékköve a 19. századi Tiškevičius-birtok, amely leginkább egzotikus télikertjéről híres, ahol a világ minden tájáról származó ritka növények pompáznak. További történelmi kincse a Szűz Mária Angyali Üdvözlet templom, amelyet 1617-ben építettek, és Szamogitia legrégebbi fennmaradt templomaként tartják számon. A mintegy 17 000 lakosú Kretinga békés, kulturálisan gazdag alternatívát kínál a nyüzsgő tengerparttal szemben.",
+      ro: "Kretinga este unul dintre cele mai vechi orașe din Lituania, situat la doar câțiva kilometri de coasta Mării Baltice și de populara stațiune Palanga. Orașul, menționat pentru prima dată în 1253, posedă o bogată moștenire arhitecturală și religioasă. Piesa de rezistență a orașului Kretinga este domeniul Tiškevičius (Tyszkiewicz) din secolul al XIX-lea, faimos pentru magnifica sa grădină de iarnă exotică, unde prosperă plante din întreaga lume. O altă perlă istorică este Biserica Bunei Vestiri a Sfintei Fecioare Maria, construită în 1617 și considerată cea mai veche biserică supraviețuitoare din Samogitia. Cu aproximativ 17.000 de locuitori, Kretinga oferă o alternativă pașnică la coasta plină de viață.",
+      en: "Kretinga is one of the oldest cities in Lithuania, located just a few kilometers from the Baltic Sea coast and the popular resort town of Palanga. First documented in 1253, the city boasts a rich architectural and religious heritage. The centerpiece of Kretinga is the 19th-century Tiškevičius (Tyszkiewicz) estate, famous for its magnificent and exotic Winter Garden, which houses plants from all over the world. Another historical treasure is the Church of the Annunciation to the Blessed Virgin Mary, built in 1617 and considered the oldest surviving church in Samogitia. With a population of around 17,000, Kretinga offers a peaceful, culturally rich alternative to the bustling coast."
+    },
+    factsAdvanced: {
+      de: ["1253-ban említi először a kúr püspök dokumentuma.", "A Tiškevičius télikertet a 19. század végén hozták létre.", "Szamogitia legrégebbi (1617-ben épült) temploma itt található.", "A város egy jelentős ferences kolostornak ad otthont.", "Lakossága hozzávetőlegesen 17 000 fő.", "A balti tengerparttól csupán körülbelül 11 kilométerre fekszik."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kretinga-cities-v2.webp",
+},  {
     id: "lithuania-silute-cities-v2",
     type: "city",
-    name: { de: "Šilutė", hu: "Šilutė", ro: "Šilutė", en: "Šilutė" },
+    name: { de: "Šilutė", hu: "Šilutė", ro: "Šilutė", en: "Šilutė",
+image: "/poi-images/lithuania-silute-cities-v2.webp"
+},
     coords: [21.4667, 55.35],
     coordinates: { lat: 55.35, lng: 21.4667 },
     description: {
@@ -285,11 +498,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1511", "Centrul regiunii Klaipėda", "Locație importantă pentru pescuit", "Nume istoric Heydekrug"],
       en: ["Founded in the year 1511", "Center of the Memel Territory", "Important location for fishing", "Historical name Heydekrug"],
     },
-    imageHint: "Silute old post office and canal", image: "/poi-images/lithuania-silute-cities-v2.webp"},
-  {
+imageHint: "Silute old post office and canal",
+    descriptionAdvanced: {
+      de: "Šilutė, ehemals unter dem deutschen Namen Heydekrug bekannt, ist eine faszinierende Stadt in Kleinlitauen, nahe dem Memeldelta und dem Kurischen Haff. Die 1511 als belebter Marktplatz gegründete Stadt besticht durch eine Architektur, die stark vom ostpreußischen Erbe geprägt ist, mit markanten Backsteingebäuden und breiten Alleen. Šilutė ist eng mit dem Wasser verbunden und wird im Frühjahr oft von spektakulären Überschwemmungen der Flüsse Šyša und Nemunas heimgesucht, was ihr den Spitznamen „Venedig Litauens“ eingebracht hat. Heute ist die 15.000-Einwohner-Stadt nicht nur ein landwirtschaftliches und fischereitechnisches Zentrum, sondern auch das wichtigste Tor zur unberührten Natur des Regionalparks Memeldelta.",
+      hu: "Šilutė, korábbi német nevén Heydekrug, egy lenyűgöző város Kis-Litvániában, a Nemunas-delta és a Kur-öböl közelében. Az 1511-ben forgalmas piacként alapított település építészetét erősen meghatározza a kelet-porosz örökség, amit a jellegzetes vöröstéglás épületek és a széles, fákkal övezett sugárutak is bizonyítanak. Šilutė élete szorosan kötődik a vízhez; a tavaszi hóolvadáskor a Šyša és a Nemunas folyók látványos áradásai miatt a várost gyakran „Litvánia Velencéjeként” is emlegetik. Napjainkban a 15 000 lakosú település nemcsak mezőgazdasági és halászati központ, hanem a Nemunas-delta Regionális Park érintetlen természeti csodáinak legfőbb kapuja is.",
+      ro: "Šilutė, cunoscut anterior sub numele german Heydekrug, este un oraș fascinant din Lituania Mică, situat în apropierea Deltei Nemunas și a Lagunei Curoniene. Fondat în 1511 ca o piață aglomerată, orașul captivează printr-o arhitectură puternic influențată de moștenirea prusacă orientală, cu clădiri distinctive din cărămidă roșie și bulevarde largi. Viața în Šilutė este strâns legată de apă, orașul confruntându-se adesea cu inundații spectaculoase de primăvară ale râurilor Šyša și Nemunas, ceea ce i-a adus supranumele de „Veneția Lituaniei”. Astăzi, orașul de 15.000 de locuitori este atât un centru agricol și pescăresc, cât și principala poartă de acces către natura virgină a Parcului Regional Delta Nemunas.",
+      en: "Šilutė, formerly known by its German name Heydekrug, is a fascinating city in Lithuania Minor, located near the Nemunas Delta and the Curonian Lagoon. Founded in 1511 as a bustling marketplace, the city captivates visitors with architecture heavily influenced by its East Prussian heritage, featuring distinctive red-brick buildings and wide, tree-lined avenues. Šilutė's life is deeply connected to water; it often experiences spectacular spring floods from the Šyša and Nemunas rivers, earning it the nickname the “Venice of Lithuania.” Today, this city of 15,000 residents is not only a hub for agriculture and fishing but also the main gateway to the pristine nature of the Nemunas Delta Regional Park."
+    },
+    factsAdvanced: {
+      de: ["A várost 1511-ben alapították, történelmi neve Heydekrug.", "A Kis-Litvánia (Mažoji Lietuva) régió egyik legfontosabb városa.", "Építészetén erős kelet-porosz (német) hatás érződik.", "A tavaszi áradások rendszeresen víz alá vonják a környéket.", "Lakossága megközelítőleg 15 000 fő.", "Kiváló kiindulópont a Nemunas-delta madárrezervátumának felfedezéséhez."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-silute-cities-v2.webp",
+},  {
     id: "lithuania-radviliskis-cities-v2",
     type: "city",
-    name: { de: "Radviliškis", hu: "Radviliškis", ro: "Radviliškis", en: "Radviliškis" },
+    name: { de: "Radviliškis", hu: "Radviliškis", ro: "Radviliškis", en: "Radviliškis",
+image: "/poi-images/lithuania-radviliskis-cities-v2.webp"
+},
     coords: [23.5333, 55.8167],
     coordinates: { lat: 55.8167, lng: 23.5333 },
     description: {
@@ -304,11 +532,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Nod feroviar semnificativ", "Numit după familia Radziwiłł", "Centru de reparații feroviare"],
       en: ["Founded in the 16th century", "Significant railway junction", "Named after the Radziwiłłs", "Center of railway repair"],
     },
-    imageHint: "Radviliskis railway station and locomotive", image: "/poi-images/lithuania-radviliskis-cities-v2.webp"},
-  {
+imageHint: "Radviliskis railway station and locomotive",
+    descriptionAdvanced: {
+      de: "Radviliškis, gelegen im Norden Litauens, ist weithin bekannt als das größte und wichtigste Eisenbahnzentrum des Landes. Ihre erste Erwähnung fand die Stadt im Jahr 1567, und ihr Name leitet sich von der legendären und einflussreichen Adelsfamilie Radziwiłł ab, die das Gebiet jahrhundertelang beherrschte. Der wahre wirtschaftliche Aufschwung von Radviliškis begann jedoch in den 1870er Jahren mit dem Bau der Eisenbahnstrecke Liepāja–Romny, die die Stadt zu einem industriellen Drehkreuz machte. Das Stadtbild wird noch heute von Eisenbahninfrastruktur und historischen Holzkirchen, wie der großen hölzernen Glockenturmkirche, geprägt. Mit rund 15.000 Einwohnern vereint die Stadt stolze Industriehistorie mit litauischer Gastfreundschaft.",
+      hu: "A Litvánia északi részén fekvő Radviliškis széles körben az ország legnagyobb és legfontosabb vasúti csomópontjaként ismert. A várost 1567-ben említik először a krónikák, nevét pedig a legendás és befolyásos Radziwiłł nemesi családról kapta, akik évszázadokon át uralták a térséget. Radviliškis valódi gazdasági fellendülése az 1870-es években vette kezdetét a Liepāja–Romny vasútvonal megépítésével, amely a várost valóságos ipari és közlekedési központtá emelte. A városképet ma is a vasúti infrastruktúra, valamint a történelmi fatemplomok – köztük a hatalmas fa harangtorony – határozzák meg. A mintegy 15 000 lakosú település a büszke ipari múltat ötvözi a litván vendégszeretettel.",
+      ro: "Radviliškis, situat în nordul Lituaniei, este recunoscut pe scară largă ca fiind cel mai mare și mai important nod feroviar din țară. Orașul a fost menționat pentru prima dată în 1567, iar numele său derivă de la legendara și influenta familie nobiliară Radziwiłł, care a condus zona timp de secole. Cu toate acestea, adevăratul boom economic al orașului Radviliškis a început în anii 1870, odată cu construcția liniei de cale ferată Liepāja-Romny, care a transformat orașul într-un centru industrial și de transport. Peisajul urban este încă dominat de infrastructura feroviară și de bisericile istorice din lemn, cum ar fi marele turn-clopotniță din lemn. Cu aproximativ 15.000 de locuitori, orașul îmbină istoria industrială cu ospitalitatea lituaniană.",
+      en: "Radviliškis, located in northern Lithuania, is widely recognized as the largest and most crucial railway junction in the country. First mentioned in historical records in 1567, the city derives its name from the legendary and influential Radziwiłł noble family, who governed the area for centuries. However, the true economic boom of Radviliškis began in the 1870s with the construction of the Liepāja–Romny railway line, which transformed the town into a bustling industrial and transportation hub. The cityscape is still heavily defined by its railway infrastructure as well as historic wooden architecture, such as the grand wooden bell tower. With roughly 15,000 residents, the city seamlessly merges a proud industrial past with Lithuanian hospitality."
+    },
+    factsAdvanced: {
+      de: ["A várost 1567-ben említik először hivatalos okiratok.", "A nevét a hatalmas Radziwiłł mágnáscsaládról kapta.", "Litvánia legforgalmasabb és legnagyobb vasúti csomópontja.", "A vasútépítés (1870-es évek) hozta meg a város igazi fellendülését.", "Lakossága nagyjából 15 000 fő.", "Jelentős fafeldolgozó és gépipari központ."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-radviliskis-cities-v2.webp",
+},  {
     id: "lithuania-palanga-cities-v2",
     type: "city",
-    name: { de: "Palanga", hu: "Palanga", ro: "Palanga", en: "Palanga" },
+    name: { de: "Palanga", hu: "Palanga", ro: "Palanga", en: "Palanga",
+image: "/poi-images/lithuania-palanga-cities-v2.webp"
+},
     coords: [21.0667, 55.9167],
     coordinates: { lat: 55.9167, lng: 21.0667 },
     description: {
@@ -323,11 +566,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Cea mai mare stațiune balneară din țară", "Deține un Muzeu al Chihlimbarului", "Cunoscut pentru debarcaderul lung", "Destinație turistică populară"],
       en: ["Largest seaside resort in the country", "Features an Amber Museum", "Known for its long sea pier", "Popular tourist destination"],
     },
-    imageHint: "Palanga beach and sea pier at sunset", image: "/poi-images/lithuania-palanga-cities-v2.webp"},
-  {
+imageHint: "Palanga beach and sea pier at sunset",
+    descriptionAdvanced: {
+      de: "Palanga ist Litauens berühmtester und weitaus beliebtester Badeort, gelegen an den feinen weißen Sandstränden der Ostseeküste. Die Stadt, die im Jahr 1253 erstmals erwähnt wurde, erlebte ihren Aufschwung zur Kurstadt im 19. Jahrhundert unter der Schirmherrschaft der Familie Tiškevičius. Ihr prunkvolles Neorenaissance-Schloss, umgeben von einem weitläufigen botanischen Garten, beherbergt heute das weltbekannte Palanga Bernsteinmuseum, das eine der größten Sammlungen baltischen Bernsteins präsentiert. Die pulsierende J.-Basanavičius-Straße bildet mit ihren zahlreichen Restaurants, Cafés und Fahrgeschäften das Herz des städtischen Nachtlebens und führt direkt zur ikonischen Seebrücke, einem perfekten Ort, um die malerischen Sonnenuntergänge über dem Meer zu beobachten.",
+      hu: "Palanga Litvánia leghíresebb és legnépszerűbb tengerparti üdülővárosa, amely a Balti-tenger finom fehér homokos partjainál fekszik. Az 1253-ban először említett település a 19. században, a Tiškevičius (Tyszkiewicz) család pártfogása alatt indult virágzásnak mint elegáns fürdőváros. Pompás, neoreneszánsz stílusú kastélyuk, amelyet egy kiterjedt botanikus kert vesz körül, ma a világhírű Palangai Borostyánmúzeumnak ad otthont, ahol a balti borostyán egyik legnagyobb gyűjteménye tekinthető meg. A lüktető J. Basanavičius utca számtalan éttermével, kávézójával és vidámparkjával a városi éjszakai élet központja, amely egyenesen az ikonikus tengeri mólóhoz vezet – ez a tökéletes hely a tenger feletti festői naplementék megcsodálására.",
+      ro: "Palanga este cea mai faimoasă și populară stațiune balneară din Lituania, situată de-a lungul plajelor cu nisip fin și alb ale coastei Mării Baltice. Menționat pentru prima dată în 1253, orașul a înflorit ca o destinație de cură în secolul al XIX-lea, sub patronajul familiei Tiškevičius. Magnificul lor palat neorenascentist, înconjurat de o grădină botanică vastă, găzduiește astăzi faimosul Muzeu al Chihlimbarului din Palanga, prezentând una dintre cele mai mari colecții de chihlimbar baltic. Vibranta stradă J. Basanavičius, plină de restaurante, cafenele și atracții, formează inima vieții de noapte a orașului, ducând direct către emblematicul debarcader pe mare, locul perfect pentru a admira apusurile pitorești.",
+      en: "Palanga is Lithuania's most famous and popular seaside resort, nestled along the fine white sandy beaches of the Baltic Sea coast. First mentioned in 1253, the town flourished into an elegant spa destination in the 19th century under the patronage of the Tiškevičius family. Their magnificent Neo-Renaissance palace, surrounded by a sprawling botanical garden, now houses the world-renowned Palanga Amber Museum, showcasing one of the largest collections of Baltic amber. The vibrant J. Basanavičius Street, brimming with restaurants, cafes, and amusement rides, serves as the heart of the city's nightlife and leads straight to the iconic sea pier, a perfect spot to watch the picturesque sunsets over the water."
+    },
+    factsAdvanced: {
+      de: ["Palanga Litvánia legforgalmasabb nyári üdülővárosa.", "A Borostyánmúzeum mintegy 30 000 kiállítási tárggyal rendelkezik.", "A tengerbe nyúló ikonikus móló hossza 470 méter.", "1253-ban említi először egy történelmi krónika.", "A város kiterjedt fenyőerdőkkel és dűnékkel van körülvéve.", "Lakossága nagyjából 16 000 fő, de nyáron a többszörösére duzzad."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-palanga-cities-v2.webp",
+},  {
     id: "lithuania-gargzdai-cities-v2",
     type: "city",
-    name: { de: "Gargždai", hu: "Gargždai", ro: "Gargždai", en: "Gargždai" },
+    name: { de: "Gargždai", hu: "Gargždai", ro: "Gargždai", en: "Gargždai",
+image: "/poi-images/lithuania-gargzdai-cities-v2.webp"
+},
     coords: [21.4, 55.7167],
     coordinates: { lat: 55.7167, lng: 21.4 },
     description: {
@@ -342,11 +600,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea", "Suburban al orașului Klaipėda", "Situat pe râul Minija", "Cunoscut pentru tradiția fotbalistică"],
       en: ["Founded in the 13th century", "Suburb of Klaipėda", "Located on the Minija River", "Known for football tradition"],
     },
-    imageHint: "Gargzdai city center and park", image: "/poi-images/lithuania-gargzdai-cities-v2.webp"},
-  {
+imageHint: "Gargzdai city center and park",
+    descriptionAdvanced: {
+      de: "Gargždai ist eine wachsende und dynamische Stadt in Westlitauen, idyllisch gelegen am steilen rechten Ufer des Flusses Minija. Historisch erstmals 1253 erwähnt, diente die Stadt über Jahrhunderte als Grenzort zwischen dem Großfürstentum Litauen und Preußen, was zu einem ständigen Austausch von Kulturen und Handelsgütern führte. Heute ist Gargždai, das in unmittelbarer Nähe zur Hafenstadt Klaipėda liegt, ein begehrter Wohn- und Vorort. Die Stadt ist vor allem für ihren gepflegten, jahrhundertealten Park im Flusstal der Minija bekannt, der Einwohnern und Besuchern erholsame Spaziergänge bietet. Sportlich ist Gargždai durch den lokal stark verwurzelten Fußballverein FK Banga landesweit bekannt.",
+      hu: "Gargždai egy növekvő és dinamikus város Nyugat-Litvániában, amely idillien fekszik a Minija folyó meredek, jobb partján. A történelmileg 1253-ban először említett város évszázadokon át határtelepülésként szolgált a Litván Nagyfejedelemség és Poroszország között, ami a kultúrák és áruk folyamatos cseréjét eredményezte. Ma Gargždai, mivel közvetlenül a kikötőváros, Klaipėda szomszédságában található, rendkívül népszerű lakó- és elővárosi övezet. A város elsősorban a Minija folyó völgyében fekvő gondozott, évszázados parkjáról ismert, amely pihentető sétákat kínál a helyieknek és a látogatóknak. Sportéletét a mélyen gyökerező helyi futballklub, az FK Banga teszi országszerte is ismertté.",
+      ro: "Gargždai este un oraș în creștere și dinamic din vestul Lituaniei, situat idilic pe malul drept abrupt al râului Minija. Menționat istoric pentru prima dată în 1253, orașul a servit timp de secole ca așezare de graniță între Marele Ducat al Lituaniei și Prusia, facilitând un schimb continuu de culturi și mărfuri. Astăzi, aflat în imediata apropiere a orașului-port Klaipėda, Gargždai a devenit o suburbie și o zonă rezidențială foarte căutată. Orașul este recunoscut în special pentru parcul său secular și bine întreținut din valea râului Minija, oferind plimbări relaxante rezidenților și vizitatorilor. În domeniul sportiv, Gargždai este cunoscut la nivel național datorită clubului său local de fotbal cu tradiție, FK Banga.",
+      en: "Gargždai is a growing and dynamic city in western Lithuania, idyllically situated on the steep right bank of the Minija River. Historically first mentioned in 1253, the town served for centuries as a border settlement between the Grand Duchy of Lithuania and Prussia, resulting in a continuous exchange of cultures and goods. Today, located in close proximity to the port city of Klaipėda, Gargždai has become a highly sought-after residential and suburban area. The city is best known for its well-maintained, centuries-old park in the Minija river valley, offering relaxing strolls for locals and visitors alike. On the sporting front, Gargždai is recognized nationwide for its deeply rooted local football club, FK Banga."
+    },
+    factsAdvanced: {
+      de: ["1253-ban történik az első írásos említése a kúr püspök által.", "Klaipėda egyik legfontosabb, gyorsan növekvő elővárosa.", "A Minija folyó festői völgye népszerű kirándulóhely.", "Évszázadokon át határváros volt a porosz területek felé.", "A helyi FK Banga futballcsapat meghatározó a város életében.", "Lakossága stabilan 13 000 fő körül mozog."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-gargzdai-cities-v2.webp",
+},  {
     id: "lithuania-druskininkai-cities-v2",
     type: "city",
-    name: { de: "Druskininkai", hu: "Druskininkai", ro: "Druskininkai", en: "Druskininkai" },
+    name: { de: "Druskininkai", hu: "Druskininkai", ro: "Druskininkai", en: "Druskininkai",
+image: "/poi-images/lithuania-druskininkai-cities-v2.webp"
+},
     coords: [23.9667, 54.0167],
     coordinates: { lat: 54.0167, lng: 23.9667 },
     description: {
@@ -361,11 +634,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Cea mai veche stațiune din Lituania", "Cunoscut pentru izvoarele minerale", "Locația unei pârtii de schi acoperite", "Gazda parcului Grūtas"],
       en: ["Oldest spa resort in Lithuania", "Known for mineral springs", "Home to an indoor ski slope", "Site of Grūtas Park"],
     },
-    imageHint: "Druskininkai spa center and fountain", image: "/poi-images/lithuania-druskininkai-cities-v2.webp"},
-  {
+imageHint: "Druskininkai spa center and fountain",
+    descriptionAdvanced: {
+      de: "Druskininkai ist Litauens ältester, größter und international renommiertester Kurort, eingebettet in die endlosen Kiefernwälder der südlichen Region Dzūkija. Seit dem 19. Jahrhundert strömen Besucher hierher, um von den heilenden Eigenschaften der lokalen Mineralquellen und therapeutischen Schlammbäder zu profitieren. Die Stadt bietet eine einzigartige Mischung aus Erholung und Action: Neben den traditionellen Sanatorien und dem riesigen Aqua Park lockt die spektakuläre Snow Arena, eine der größten Indoor-Skihallen Europas. Die bewaldeten Ufer des Flusses Nemunas laden zum Radfahren und Wandern ein. Kulturell ist die Stadt als langjähriger Wohnort des berühmten litauischen Künstlers und Komponisten M. K. Čiurlionis bekannt, dem hier ein faszinierendes Gedenkmuseum gewidmet ist.",
+      hu: "Druskininkai Litvánia legrégebbi, legnagyobb és nemzetközileg is a legelismertebb gyógyüdülőhelye, amely a déli Dzūkija régió végtelen fenyőerdeiben bújik meg. A 19. század óta áramlanak ide a látogatók, hogy élvezzék a helyi ásványvízforrások és a terápiás iszapfürdők gyógyító hatásait. A város a pihenés és az aktív kikapcsolódás egyedülálló ötvözetét kínálja: a hagyományos szanatóriumok és a hatalmas Aquapark mellett itt található a látványos Snow Arena, Európa egyik legnagyobb fedett sípályája. A Nemunas folyó erdős partjai kerékpározásra és túrázásra csábítanak. Kulturális szempontból a város arról nevezetes, hogy sokáig itt élt a híres litván művész és zeneszerző, M. K. Čiurlionis, akinek munkásságát egy emlékmúzeum őrzi.",
+      ro: "Druskininkai este cea mai veche, mai mare și mai renumită stațiune balneară internațională din Lituania, amplasată în nesfârșitele păduri de pini din regiunea sudică Dzūkija. Încă din secolul al XIX-lea, vizitatorii au venit aici pentru a beneficia de proprietățile vindecătoare ale izvoarelor minerale locale și ale băilor terapeutice cu nămol. Orașul oferă un amestec unic de relaxare și acțiune: pe lângă sanatoriile tradiționale și uriașul Aqua Park, atracția principală este spectaculoasa Snow Arena, una dintre cele mai mari pârtii de schi acoperite din Europa. Malurile împădurite ale râului Nemunas sunt ideale pentru ciclism și drumeții. Cultural, orașul este faimos ca fiind reședința îndelungată a renumitului artist și compozitor lituanian M. K. Čiurlionis.",
+      en: "Druskininkai is Lithuania's oldest, largest, and most internationally acclaimed spa town, nestled within the endless pine forests of the southern Dzūkija region. Since the 19th century, visitors have flocked here to benefit from the healing properties of the local mineral springs and therapeutic mud baths. The town offers a unique blend of relaxation and high-energy recreation: alongside traditional sanatoriums and the massive Aqua Park, it features the spectacular Snow Arena, one of Europe's largest indoor ski slopes. The forested banks of the Nemunas River provide scenic trails for cycling and hiking. Culturally, the city is renowned as the longtime home of the famous Lithuanian artist and composer M. K. Čiurlionis, to whom a fascinating memorial museum is dedicated."
+    },
+    factsAdvanced: {
+      de: ["A település a 18. század végén (1794-ben) kapta meg a gyógyhelyi minősítést.", "Az ásványvízforrásai kimagasló sótartalmúak, innen ered a neve (druska = só).", "A Snow Arena egész évben nyitva tartó fedett sípálya.", "M. K. Čiurlionis litván zeneszerző fiatalkorát itt töltötte.", "Dél-Litvánia legfontosabb turisztikai központja.", "Közvetlen közelében fekszik a szovjet szobrokat bemutató Grūtas Park."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-druskininkai-cities-v2.webp",
+},  {
     id: "lithuania-rokiskis-cities-v2",
     type: "city",
-    name: { de: "Rokiškis", hu: "Rokiškis", ro: "Rokiškis", en: "Rokiškis" },
+    name: { de: "Rokiškis", hu: "Rokiškis", ro: "Rokiškis", en: "Rokiškis",
+image: "/poi-images/lithuania-rokiskis-cities-v2.webp"
+},
     coords: [25.5833, 55.9667],
     coordinates: { lat: 55.9667, lng: 25.5833 },
     description: {
@@ -380,11 +668,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1499", "Faimos pentru producția de brânză", "Găzduiește un muzeu regional în conac", "Biserica gotică Sfântul Matei"],
       en: ["Founded in the year 1499", "Famous for cheese production", "Houses a regional museum in the manor", "Gothic St. Matthew Church"],
     },
-    imageHint: "Rokiskis manor and church square", image: "/poi-images/lithuania-rokiskis-cities-v2.webp"},
-  {
+imageHint: "Rokiskis manor and church square",
+    descriptionAdvanced: {
+      de: "Rokiškis, im malerischen Nordosten Litauens gelegen, ist eine Stadt, die für ihr prunkvolles Erbe und ihre kulinarischen Traditionen weithin geschätzt wird. Gegründet 1499, wird das Stadtbild maßgeblich von dem beeindruckenden Rokiškis-Herrenhaus dominiert. Dieses architektonische Juwel aus dem 19. Jahrhundert, erbaut von den Grafen Tyzenhaus, beherbergt heute ein umfassendes Regionalmuseum mit einer einzigartigen Sammlung lokaler Holzschnitzereien. Der großzügig angelegte Marktplatz führt direkt zur atemberaubenden neugotischen St.-Matthäus-Kirche, die zu den schönsten Sakralbauten des Landes zählt. Weit über die Stadtgrenzen hinaus ist Rokiškis als die unangefochtene „Käsehauptstadt“ Litauens bekannt, da hier das renommierte Unternehmen Rokiškio sūris einige der besten Käsesorten der Region produziert.",
+      hu: "A festői Északkelet-Litvániában fekvő Rokiškis egy olyan város, amelyet országszerte nagyra értékelnek pompás öröksége és kulináris hagyományai miatt. Az 1499-ben alapított városképet alapvetően a lenyűgöző Rokiškis-kúria uralja. A Tyzenhaus grófok által a 19. században épített építészeti gyöngyszem ma egy átfogó regionális múzeumnak ad otthont, amely páratlan helyi fafaragvány-gyűjteménnyel büszkélkedhet. A tágas, téglalap alakú piactér egyenesen a lélegzetelállító neogótikus Szent Máté-templomhoz vezet, amely az ország egyik legszebb egyházi épülete. A városhatárokon túl Rokiškis Litvánia vitathatatlan „sajtfővárosaként” ismert, hiszen itt működik a hírneves Rokiškio sūris vállalat, amely a régió legkiválóbb sajtjait készíti.",
+      ro: "Rokiškis, situat în pitorescul nord-est al Lituaniei, este un oraș apreciat pe scară largă pentru moștenirea sa grandioasă și tradițiile culinare. Fondat în 1499, peisajul urban este dominat în mod clar de impresionantul Conac Rokiškis. Această bijuterie arhitecturală din secolul al XIX-lea, construită de conții Tyzenhaus, găzduiește astăzi un muzeu regional cuprinzător, care deține o colecție unică de sculpturi locale în lemn. Piața spațioasă duce direct la uluitoarea biserică neogotică Sfântul Matei, considerată una dintre cele mai frumoase clădiri religioase din țară. Dincolo de granițele orașului, Rokiškis este cunoscut ca indiscutabila „capitală a brânzeturilor” din Lituania, deoarece aici renumita companie Rokiškio sūris produce unele dintre cele mai fine brânzeturi din regiune.",
+      en: "Rokiškis, situated in the picturesque northeast of Lithuania, is a city widely esteemed for its grand heritage and culinary traditions. Founded in 1499, the cityscape is prominently dominated by the impressive Rokiškis Manor. This 19th-century architectural jewel, built by the Counts Tyzenhaus, now houses a comprehensive regional museum boasting a unique collection of local wood carvings. The spacious, classically planned market square leads directly to the breathtaking Neo-Gothic St. Matthew's Church, ranked among the most beautiful sacred buildings in the country. Well beyond its city limits, Rokiškis is celebrated as the undisputed “Cheese Capital” of Lithuania, home to the renowned Rokiškio sūris company, which produces some of the finest cheeses in the region."
+    },
+    factsAdvanced: {
+      de: ["A várost egy 1499-es történelmi feljegyzésben említik először.", "A Rokiškis-kúria a Tyzenhaus és a Przezdziecki grófok rezidenciája volt.", "A neogótikus Szent Máté-templomot a 19. század végén szentelték fel.", "A város egy klasszicista, szigorúan tervezett főtérrel büszkélkedhet.", "Az ország legnagyobb sajtgyára, a Rokiškio sūris itt található.", "Lakossága megközelítőleg 12 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-rokiskis-cities-v2.webp",
+},  {
     id: "lithuania-birzai-cities-v2",
     type: "city",
-    name: { de: "Biržai", hu: "Biržai", ro: "Biržai", en: "Biržai" },
+    name: { de: "Biržai", hu: "Biržai", ro: "Biržai", en: "Biržai",
+image: "/poi-images/lithuania-birzai-cities-v2.webp"
+},
     coords: [24.75, 56.2],
     coordinates: { lat: 56.2, lng: 24.75 },
     description: {
@@ -399,11 +702,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Deține un castel renascentist", "Centrul fabricării berii lituaniene", "Cunoscut pentru doline"],
       en: ["Founded in the 15th century", "Features a Renaissance castle", "Center of Lithuanian beer brewing", "Known for sinkholes"],
     },
-    imageHint: "Birzai castle and lake bridge", image: "/poi-images/lithuania-birzai-cities-v2.webp"},
-  {
+imageHint: "Birzai castle and lake bridge",
+    descriptionAdvanced: {
+      de: "Biržai ist eine historisch und geologisch faszinierende Stadt im Norden Litauens, unweit der lettischen Grenze. Die Stadt wird majestätisch vom Biržai-Schloss überragt, einer im 16. Jahrhundert von der Familie Radziwiłł erbauten Bastionsfestung, die heute ein reiches historisches Museum beherbergt. Das Schloss liegt am Ufer des Širvėna-Sees, dem ältesten künstlichen See Litauens, der 1580 zum Schutz der Festung angelegt wurde. Eine weitere Besonderheit der Region ist ihre Karstlandschaft: Zahlreiche beeindruckende Erdfälle (Dolinen), wie das berühmte „Kuhhöhlen“-Loch (Karvės ola), prägen die Umgebung. Darüber hinaus ist Biržai landesweit als die unangefochtene Hauptstadt der traditionellen litauischen Bierbrauerei bekannt.",
+      hu: "Biržai történelmileg és geológiailag is lenyűgöző város Észak-Litvániában, nem messze a lett határtól. A település fölé fenségesen magasodik a Biržai-kastély, egy 16. századi bástyás erődítmény, amelyet a Radziwiłł család építtetett, és amely ma gazdag történelmi múzeumnak ad otthont. A kastély a Širvėna-tó partján fekszik, amely Litvánia legrégebbi mesterséges tava; 1580-ban hozták létre az erőd védelmére. A régió másik különlegessége a karsztos táj: a környéket számos látványos víznyelő (dolina) tarkítja, köztük a híres „Tehén-barlang” (Karvės ola). Emellett Biržai országszerte a hagyományos litván sörfőzés vitathatatlan fővárosaként ismert.",
+      ro: "Biržai este un oraș fascinant din punct de vedere istoric și geologic, situat în nordul Lituaniei, nu departe de granița cu Letonia. Orașul este dominat maiestuos de Castelul Biržai, o fortăreață bastion construită în secolul al XVI-lea de familia Radziwiłł, care astăzi găzduiește un bogat muzeu istoric. Castelul este situat pe malul lacului Širvėna, cel mai vechi lac artificial din Lituania, creat în 1580 pentru a proteja fortăreața. O altă caracteristică specială a regiunii este peisajul său carstic: numeroase doline impresionante, cum ar fi faimoasa „Peșteră a Vacii” (Karvės ola), presară zona. Mai mult, Biržai este cunoscut la nivel național drept capitala incontestabilă a fabricării tradiționale a berii lituaniene.",
+      en: "Biržai is an historically and geologically fascinating city in northern Lithuania, not far from the Latvian border. The city is majestically dominated by Biržai Castle, a 16th-century bastion fortress built by the Radziwiłł family, which today houses a rich historical museum. The castle is situated on the shores of Lake Širvėna, the oldest artificial lake in Lithuania, created in 1580 to protect the fortress. Another unique feature of the region is its karst landscape: numerous impressive sinkholes, such as the famous “Cow's Cave” (Karvės ola), dot the surroundings. Furthermore, Biržai is widely recognized nationwide as the undisputed capital of traditional Lithuanian beer brewing."
+    },
+    factsAdvanced: {
+      de: ["A Širvėna-tó Litvánia legrégebbi mesterséges tava (1580).", "A karsztos régióban több ezer víznyelő található.", "A várost a befolyásos Radziwiłł család irányította a 16. században.", "A litván kézműves sörfőzés központja.", "A „Tehén-barlang” (Karvės ola) a legismertebb geológiai képződménye.", "Lakossága hozzávetőlegesen 10 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-birzai-cities-v2.webp",
+},  {
     id: "lithuania-elektrenai-cities-v2",
     type: "city",
-    name: { de: "Elektrėnai", hu: "Elektrėnai", ro: "Elektrėnai", en: "Elektrėnai" },
+    name: { de: "Elektrėnai", hu: "Elektrėnai", ro: "Elektrėnai", en: "Elektrėnai",
+image: "/poi-images/lithuania-elektrenai-cities-v2.webp"
+},
     coords: [24.6667, 54.7833],
     coordinates: { lat: 54.7833, lng: 24.6667 },
     description: {
@@ -418,11 +736,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1961", "Locația unei centrale electrice mari", "Cunoscut pentru tradiția hocheiului", "Rezervor artificial adiacent"],
       en: ["Founded in the year 1961", "Site of a major power plant", "Known for ice hockey tradition", "Artificial reservoir nearby"],
     },
-    imageHint: "Elektrenai power plant and church", image: "/poi-images/lithuania-elektrenai-cities-v2.webp"},
-  {
+imageHint: "Elektrenai power plant and church",
+    descriptionAdvanced: {
+      de: "Elektrėnai ist eine moderne und aufstrebende Stadt, die verkehrsgünstig genau auf halber Strecke zwischen den beiden größten litauischen Städten Vilnius und Kaunas liegt. Die Stadt wurde erst 1961 buchstäblich aus dem Boden gestampft, um als Wohnsiedlung für die Arbeiter des neu errichteten, massiven Wärmekraftwerks Elektrėnai zu dienen. An den Ufern des künstlich angelegten Elektrėnai-Stausees gelegen, bietet die Stadt heute nicht nur Energie für das Land, sondern auch exzellente Wassersportmöglichkeiten. Landesweit ist Elektrėnai jedoch am besten für seine herausragende Eishockeytradition bekannt; die lokale Eishalle brachte fast alle Nationalspieler Litauens hervor, darunter auch NHL-Profis wie Dainius Zubrus.",
+      hu: "Elektrėnai egy modern és dinamikusan fejlődő város, amely kiváló közlekedési adottságokkal rendelkezik, pontosan félúton a két legnagyobb litván város, Vilnius és Kaunas között. A települést 1961-ben szó szerint a semmiből hozták létre, hogy az újonnan épült, hatalmas hőerőmű dolgozóinak lakóhelyéül szolgáljon. A mesterségesen kialakított Elektrėnai-víztározó partján fekvő város ma nemcsak energiát termel az országnak, hanem kiváló vízi sportolási lehetőségeket is kínál. Országszerte Elektrėnai azonban leginkább kiemelkedő jéghoki-hagyományairól ismert; a helyi jégcsarnok nevelte ki szinte a teljes litván válogatottat, köztük olyan NHL-játékosokat is, mint Dainius Zubrus.",
+      ro: "Elektrėnai este un oraș modern și în plină ascensiune, situat convenabil la jumătatea distanței dintre cele mai mari două orașe ale Lituaniei, Vilnius și Kaunas. Orașul a fost creat literalmente de la zero în 1961, pentru a servi ca așezare rezidențială pentru lucrătorii noii și masivei centrale termoelectrice Elektrėnai. Situat pe malurile rezervorului artificial Elektrėnai, orașul oferă astăzi nu doar energie pentru țară, ci și oportunități excelente pentru sporturi nautice. La nivel național, Elektrėnai este însă cel mai bine cunoscut pentru remarcabila sa tradiție în hocheiul pe gheață; patinoarul local a produs aproape toți jucătorii naționalei Lituaniei, inclusiv profesioniști din NHL, cum ar fi Dainius Zubrus.",
+      en: "Elektrėnai is a modern and emerging city conveniently located exactly halfway between Lithuania's two largest cities, Vilnius and Kaunas. The city was literally built from scratch in 1961 to serve as a residential settlement for the workers of the newly constructed, massive Elektrėnai Power Plant. Situated on the shores of the artificial Elektrėnai Reservoir, the city today provides not only energy for the country but also excellent water sports opportunities. Nationwide, however, Elektrėnai is best known for its outstanding ice hockey tradition; the local ice arena has produced nearly all of Lithuania's national team players, including NHL professionals like Dainius Zubrus."
+    },
+    factsAdvanced: {
+      de: ["1961-ben alapították, a hőerőmű építésével egyidőben.", "Pontosan félúton fekszik Vilnius és Kaunas között.", "Az Elektrėnai-víztározó a Nemunas után a második legnagyobb vizfelület az országban.", "A litván jégkorong fellegvára.", "Az építkezés során több falut is elárasztottak a víztározó miatt.", "Lakossága nagyjából 11 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-elektrenai-cities-v2.webp",
+},  {
     id: "lithuania-kursenai-cities-v2",
     type: "city",
-    name: { de: "Kuršėnai", hu: "Kuršėnai", ro: "Kuršėnai", en: "Kuršėnai" },
+    name: { de: "Kuršėnai", hu: "Kuršėnai", ro: "Kuršėnai", en: "Kuršėnai",
+image: "/poi-images/lithuania-kursenai-cities-v2.webp"
+},
     coords: [22.9333, 56.0],
     coordinates: { lat: 56.0, lng: 22.9333 },
     description: {
@@ -437,11 +770,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Centrul olăritului", "Situat pe râul Venta", "Deține un conac din lemn"],
       en: ["Founded in the 16th century", "Center of pottery art", "Located on the Venta River", "Features a wooden manor"],
     },
-    imageHint: "Kursenai pottery monument and bridge", image: "/poi-images/lithuania-kursenai-cities-v2.webp"},
-  {
+imageHint: "Kursenai pottery monument and bridge",
+    descriptionAdvanced: {
+      de: "Kuršėnai ist eine beschauliche, jedoch kulturell reiche Stadt im Nordwesten Litauens, die an den Ufern des Flusses Venta liegt und eng mit der nahegelegenen Metropole Šiauliai verbunden ist. Die Stadt rühmt sich des Titels als „Hauptstadt der litauischen Töpferkunst“, ein Erbe, das auf reichhaltigen, lokalen Tonvorkommen basiert und bis heute in Werkstätten und Museen zelebriert wird. Ein architektonisches Highlight ist das prachtvolle hölzerne Kuršėnai-Herrenhaus der Adelsfamilie Gruževskiai, das zu den wertvollsten Holzschlössern des Landes zählt. Neben dem Handwerk ist Kuršėnai in ganz Litauen für eine kulinarische Spezialität berühmt: den „Kuršėnų vyniotinis“, eine unwiderstehlich süße Biskuitrolle mit Quarkfüllung, die in keiner Bäckerei fehlen darf.",
+      hu: "Kuršėnai egy békés, ám kulturálisan gazdag város Északnyugat-Litvániában, amely a Venta folyó partján fekszik, és szorosan kötődik a közeli Šiauliai metropoliszhoz. A város büszkén viseli a „litván fazekasság fővárosa” címet, amely a gazdag helyi agyaglelőhelyeken alapul, és amelyet mind a mai napig műhelyekben és múzeumokban ünnepelnek. Építészeti fénypontja a Gruževskiai nemesi család pompás faépítésű Kuršėnai-kúriája, amely az ország egyik legértékesebb fakastélyának számít. A kézművesség mellett Kuršėnai egy kulináris különlegességről is híres egész Litvániában: a „Kuršėnų vyniotinis” nevű, ellenállhatatlanul édes, túrókrémmel töltött piskótatekércsről, amely elengedhetetlen a helyi pékségek kínálatából.",
+      ro: "Kuršėnai este un oraș liniștit, dar bogat cultural, în nord-vestul Lituaniei, situat pe malurile râului Venta și strâns legat de metropola din apropiere, Šiauliai. Orașul se mândrește cu titlul de „capitală a olăritului lituanian”, o moștenire bazată pe depozite locale bogate de argilă, celebrată și astăzi în ateliere și muzee. Un punct de atracție arhitectural este magnificul conac din lemn Kuršėnai al familiei nobiliare Gruževskiai, care se numără printre cele mai valoroase castele de lemn din țară. Pe lângă meșteșuguri, Kuršėnai este faimos în toată Lituania pentru o specialitate culinară: „Kuršėnų vyniotinis”, o ruladă de pandișpan irezistibil de dulce, umplută cu brânză de vaci, care nu lipsește din nicio brutărie.",
+      en: "Kuršėnai is a tranquil yet culturally rich city in northwestern Lithuania, situated on the banks of the Venta River and closely connected to the nearby metropolis of Šiauliai. The city proudly holds the title of the “Capital of Lithuanian Pottery,” a heritage rooted in abundant local clay deposits and celebrated to this day in workshops and museums. An architectural highlight is the magnificent wooden Kuršėnai Manor of the Gruževskiai noble family, recognized as one of the most valuable wooden palaces in the country. In addition to its crafts, Kuršėnai is famous throughout Lithuania for a culinary specialty: “Kuršėnų vyniotinis,” an irresistibly sweet sponge cake roll filled with sweet curd that is a staple in every local bakery."
+    },
+    factsAdvanced: {
+      de: ["A várost 1564-ben említik először okiratok.", "A helyi agyag kiváló minősége tette a fazekasság központjává.", "A Kuršėnai-kúria a 19. század elején épült, teljes egészében fából.", "A híres Kuršėnų vyniotinis édesség szülőhazája.", "Šiauliai városának egyik legfontosabb elővárosi régiója.", "Lakossága megközelítőleg 11 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kursenai-cities-v2.webp",
+},  {
     id: "lithuania-jurbarkas-cities-v2",
     type: "city",
-    name: { de: "Jurbarkas", hu: "Jurbarkas", ro: "Jurbarkas", en: "Jurbarkas" },
+    name: { de: "Jurbarkas", hu: "Jurbarkas", ro: "Jurbarkas", en: "Jurbarkas",
+image: "/poi-images/lithuania-jurbarkas-cities-v2.webp"
+},
     coords: [22.7667, 55.0833],
     coordinates: { lat: 55.0833, lng: 22.7667 },
     description: {
@@ -456,11 +804,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1259", "Oraș-port fluvial semnificativ", "Deține un parc cu ruine", "Aproape de granița cu Rusia"],
       en: ["First mentioned in 1259", "Significant river port city", "Has a park with ruins", "Near the border with Russia"],
     },
-    imageHint: "Jurbarkas bridge over Nemunas and park", image: "/poi-images/lithuania-jurbarkas-cities-v2.webp"},
-  {
+imageHint: "Jurbarkas bridge over Nemunas and park",
+    descriptionAdvanced: {
+      de: "Jurbarkas ist eine malerische und historisch bedeutende Stadt im Westen Litauens, die sich entlang des rechten Ufers der majestätischen Memel (Nemunas) erstreckt. Gegründet nahe der ehemaligen Grenze zu Ostpreußen, profitierte die Stadt jahrhundertelang als florierender Binnenhafen vom Handel auf Litauens größtem Wasserweg. Die reiche Vergangenheit von Jurbarkas zeigt sich noch heute im weitläufigen Schlosspark der ehemaligen Fürstenfamilie Wassiltschikow, der zu entspannten Spaziergängen einlädt. Die Stadt ist auch von großer symbolischer Bedeutung für die litauische Verteidigungsgeschichte, da hier der Verteidigungsgürtel entlang des Nemunas verlief. Heute lockt das 10.000-Einwohner-Städtchen mit Ruhe, schöner Flusslandschaft und dem modernen V.-Grybas-Kunstmuseum.",
+      hu: "Jurbarkas egy festői és történelmileg jelentős város Nyugat-Litvániában, amely a fenséges Nemunas (Nyeman) folyó jobb partja mentén húzódik. Az egykori kelet-porosz határ közelében fekvő település évszázadokon át virágzó folyami kikötőként profitált a Litvánia legnagyobb vízi útján zajló kereskedelemből. Jurbarkas gazdag múltja ma is megmutatkozik a Vaszilszikov hercegi család egykori, kiterjedt kastélyparkjában, amely kellemes sétákra csábít. A város nagy szimbolikus jelentőséggel bír a litván védelmi történelemben is, hiszen itt húzódott a Nemunas menti történelmi védvonal. Ma a 10 000 lakosú kisváros nyugalmával, gyönyörű folyóparti tájaival és a modern V. Grybas Művészeti Múzeummal vonzza a látogatókat.",
+      ro: "Jurbarkas este un oraș pitoresc și cu o importanță istorică din vestul Lituaniei, care se întinde de-a lungul malului drept al maiestuosului râu Nemunas. Fondat în apropierea fostei granițe cu Prusia Orientală, orașul a prosperat secole de-a rândul ca un port fluvial înfloritor, datorită comerțului pe cea mai mare cale navigabilă a Lituaniei. Trecutul bogat al orașului Jurbarkas este vizibil și astăzi în parcul extins al castelului fostei familii princiare Vasilchikov, care te invită la plimbări relaxante. Orașul are, de asemenea, o mare importanță simbolică pentru istoria apărării lituaniene, deoarece centura de apărare de-a lungul râului Nemunas a trecut pe aici. Astăzi, micul oraș de 10.000 de locuitori atrage prin liniștea sa, peisajele frumoase ale râului și modernul Muzeu de Artă V. Grybas.",
+      en: "Jurbarkas is a picturesque and historically significant city in western Lithuania, stretching along the right bank of the majestic Nemunas River. Founded near the former border with East Prussia, the town thrived for centuries as a bustling inland port, capitalizing on trade along Lithuania's largest waterway. The rich past of Jurbarkas is still evident today in the expansive manor park of the former Vasilchikov princely family, which invites visitors for relaxing strolls. The city also holds great symbolic importance in Lithuanian defense history, as the historical defensive belt along the Nemunas ran through here. Today, the town of 10,000 residents charms visitors with its tranquility, beautiful river scenery, and the modern V. Grybas Art Museum."
+    },
+    factsAdvanced: {
+      de: ["1259-ben a Német Lovagrend egy erődöt épített a közelben.", "Évszázadokon keresztül a Nemunas folyó egyik legfontosabb kikötője volt.", "Közvetlen közelében fut a Kalinyingrádi terület (Oroszország) határa.", "A Vaszilszikov-kastély parkja a város fő zöldövezete.", "Jelentős zsidó közösség élt itt a második világháború előtt.", "Lakossága megközelítőleg 10 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-jurbarkas-cities-v2.webp",
+},  {
     id: "lithuania-garliava-cities-v2",
     type: "city",
-    name: { de: "Garliava", hu: "Garliava", ro: "Garliava", en: "Garliava" },
+    name: { de: "Garliava", hu: "Garliava", ro: "Garliava", en: "Garliava",
+image: "/poi-images/lithuania-garliava-cities-v2.webp"
+},
     coords: [23.8833, 54.8167],
     coordinates: { lat: 54.8167, lng: 23.8833 },
     description: {
@@ -475,11 +838,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1809", "Suburban al orașului Kaunas", "Centru educațional important", "Zonă rezidențială cu creștere rapidă"],
       en: ["Founded in the year 1809", "Suburb of Kaunas", "Important educational center", "Fast-growing residential area"],
     },
-    imageHint: "Garliava church and main street", image: "/poi-images/lithuania-garliava-cities-v2.webp"},
-  {
+imageHint: "Garliava church and main street",
+    descriptionAdvanced: {
+      de: "Garliava ist eine rasch wachsende und aufstrebende Stadt in Zentrallitauen, die unmittelbar südlich an die Metropole Kaunas angrenzt. Gegründet im Jahr 1809 von dem Adligen Józef Godlewski, entwickelte sich der Ort schnell um die historische Dreifaltigkeitskirche, die das Zentrum des städtischen Lebens bildet. Heute fungiert Garliava primär als attraktiver, verkehrsgünstiger Vorort für Pendler, die in Kaunas arbeiten, sich aber ein ruhigeres Wohnumfeld wünschen. Die Stadt zeichnet sich durch moderne Wohnviertel, ein starkes Bildungsnetzwerk und ausgedehnte, gepflegte Parkanlagen aus. Durch ihre strategische Lage an wichtigen nationalen Straßen hat sich Garliava zu einem bedeutenden logistischen und wirtschaftlichen Knotenpunkt der Region entwickelt.",
+      hu: "Garliava egy gyorsan növekvő és dinamikusan fejlődő város Közép-Litvániában, amely közvetlenül Kaunas metropoliszától délre fekszik. Az 1809-ben Józef Godlewski nemes által alapított település gyorsan kiépült a történelmi Szentháromság-templom körül, amely ma is a városi élet központja. Napjainkban Garliava elsősorban vonzó, kiváló közlekedéssel rendelkező elővárosként szolgál azoknak az ingázóknak, akik Kaunasban dolgoznak, de nyugodtabb lakókörnyezetre vágynak. A várost modern lakónegyedek, erős oktatási hálózat és kiterjedt, gondozott parkok jellemzik. Fontos országos főutak mentén elfoglalt stratégiai fekvésének köszönhetően a régió egyik jelentős logisztikai és gazdasági csomópontjává vált.",
+      ro: "Garliava este un oraș în creștere rapidă și în plină dezvoltare din centrul Lituaniei, situat imediat la sud de metropola Kaunas. Fondat în 1809 de nobilul Józef Godlewski, orașul s-a dezvoltat rapid în jurul istoricei Biserici a Sfintei Treimi, care formează centrul vieții urbane. Astăzi, Garliava funcționează în principal ca o suburbie atractivă și ușor accesibilă pentru navetiștii care lucrează în Kaunas, dar care își doresc un mediu de viață mai liniștit. Orașul este caracterizat de cartiere rezidențiale moderne, o rețea educațională puternică și parcuri extinse și bine întreținute. Datorită locației sale strategice pe drumuri naționale importante, Garliava a devenit un nod logistic și economic semnificativ în regiune.",
+      en: "Garliava is a rapidly growing and dynamic city in central Lithuania, located immediately south of the metropolis of Kaunas. Founded in 1809 by the nobleman Józef Godlewski, the town quickly developed around the historic Holy Trinity Church, which remains the center of urban life. Today, Garliava primarily serves as an attractive, easily accessible suburb for commuters who work in Kaunas but desire a quieter residential environment. The city is characterized by modern residential neighborhoods, a strong educational network, and extensive, well-maintained parks. Thanks to its strategic location along major national roads, Garliava has evolved into a significant logistical and economic hub for the region."
+    },
+    factsAdvanced: {
+      de: ["A várost viszonylag későn, 1809-ben alapította Józef Godlewski.", "Kaunas egyik legfontosabb és legdinamikusabban növő elővárosa.", "A Szentháromság-templom a város legjelentősebb műemléke.", "A Via Baltica nemzetközi autópálya halad el a közelében.", "Jelentős kereskedelmi és logisztikai központ.", "Lakossága meghaladja a 10 000 főt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-garliava-cities-v2.webp",
+},  {
     id: "lithuania-vilkaviskis-cities-v2",
     type: "city",
-    name: { de: "Vilkaviškis", hu: "Vilkaviškis", ro: "Vilkaviškis", en: "Vilkaviškis" },
+    name: { de: "Vilkaviškis", hu: "Vilkaviškis", ro: "Vilkaviškis", en: "Vilkaviškis",
+image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp"
+},
     coords: [23.0333, 54.65],
     coordinates: { lat: 54.65, lng: 23.0333 },
     description: {
@@ -494,11 +872,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XVI-lea", "Centrul regiunii Suvalkija", "Important pentru producția de cereale", "Cunoscut pentru catedrala sa"],
       en: ["First mentioned in the 16th century", "Center of the Suvalkija region", "Important for grain production", "Known for its cathedral"],
     },
-    imageHint: "Vilkaviskis cathedral and park", image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp"},
-  {
+imageHint: "Vilkaviskis cathedral and park",
+    descriptionAdvanced: {
+      de: "Vilkaviškis ist das administrative und wirtschaftliche Zentrum der ethnografischen Region Suvalkija im Südwesten Litauens. Die Stadt, die im 16. Jahrhundert erstmals urkundlich erwähnt wurde, ist umgeben von einer der fruchtbarsten Agrarlandschaften des Landes und spielt daher eine zentrale Rolle in der nationalen Getreide- und Lebensmittelproduktion. Das prägnanteste Gebäude im Stadtzentrum ist die beeindruckende Kathedrale der Heiligen Jungfrau Maria, der Sitz des örtlichen Bistums. Vilkaviškis hat im Laufe der Geschichte viel gelitten und wurde im Zweiten Weltkrieg schwer beschädigt, jedoch erfolgreich wiederaufgebaut. Heute ist die 10.000-Einwohner-Stadt stolz auf ihre renovierten öffentlichen Plätze, ihr florierendes Kultursommerfestival und ihre tiefe landwirtschaftliche Verwurzelung.",
+      hu: "Vilkaviškis a délnyugat-litvániai Suvalkija néprajzi régió adminisztratív és gazdasági központja. A 16. században először említett várost az ország egyik legtermékenyebb mezőgazdasági vidéke veszi körül, így központi szerepet játszik az országos gabona- és élelmiszertermelésben. A városközpont legmeghatározóbb épülete az impozáns Szűz Mária-székesegyház, amely a helyi püspökség székhelye. Vilkaviškis a történelem során sokat szenvedett, a második világháborúban súlyos károkat szenvedett, de sikeresen újjáépítették. Ma a 10 000 lakosú kisváros büszke a felújított köztereire, a virágzó nyári kulturális fesztiváljaira és a mély mezőgazdasági gyökereire.",
+      ro: "Vilkaviškis este centrul administrativ și economic al regiunii etnografice Suvalkija din sud-vestul Lituaniei. Orașul, menționat pentru prima dată în documente în secolul al XVI-lea, este înconjurat de unul dintre cele mai fertile peisaje agricole din țară și joacă așadar un rol central în producția națională de cereale și alimente. Cea mai proeminentă clădire din centrul orașului este impresionanta Catedrală a Sfintei Fecioare Maria, sediul episcopiei locale. Vilkaviškis a suferit mult de-a lungul istoriei și a fost grav avariat în timpul celui de-al Doilea Război Mondial, dar a fost reconstruit cu succes. Astăzi, orașul de 10.000 de locuitori este mândru de piețele sale publice renovate, festivalul cultural de vară înfloritor și rădăcinile sale agricole profunde.",
+      en: "Vilkaviškis is the administrative and economic center of the Suvalkija ethnographic region in southwestern Lithuania. First documented in the 16th century, the city is surrounded by one of the most fertile agricultural landscapes in the country, playing a central role in national grain and food production. The most prominent building in the city center is the impressive Cathedral of the Blessed Virgin Mary, the seat of the local diocese. Vilkaviškis has suffered greatly throughout history, sustaining severe damage during World War II, but was successfully rebuilt. Today, this city of 10,000 residents is proud of its renovated public squares, its flourishing summer cultural festivals, and its deep agricultural roots."
+    },
+    factsAdvanced: {
+      de: ["A várost a 16. században (1561 körül) említik először.", "Suvalkija régió egyik legfontosabb agráripari központja.", "A Szűz Mária-székesegyházat a II. világháború után szinte teljesen újjá kellett építeni.", "Vincas Kudirka, a litván himnusz szerzője a közelben született.", "Gazdag termőföldjeinek köszönhetően kiemelkedő a gabonatermesztése.", "Lakossága hozzávetőlegesen 10 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp",
+},  {
     id: "lithuania-raseiniai-cities-v2",
     type: "city",
-    name: { de: "Raseiniai", hu: "Raseiniai", ro: "Raseiniai", en: "Raseiniai" },
+    name: { de: "Raseiniai", hu: "Raseiniai", ro: "Raseiniai", en: "Raseiniai",
+image: "/poi-images/lithuania-raseiniai-cities-v2.webp"
+},
     coords: [23.1167, 55.3667],
     coordinates: { lat: 55.3667, lng: 23.1167 },
     description: {
@@ -513,11 +906,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1253", "Fosta capitală a Samogitiei", "Distrus aproape total în război", "Locația unei mănăstiri celebre"],
       en: ["Founded in the year 1253", "Former capital of Samogitia", "Almost completely destroyed in war", "Site of a well-known monastery"],
     },
-    imageHint: "Raseiniai monument and church", image: "/poi-images/lithuania-raseiniai-cities-v2.webp"},
-  {
+imageHint: "Raseiniai monument and church",
+    descriptionAdvanced: {
+      de: "Raseiniai ist eine der ältesten und historisch bedeutendsten Städte Litauens und gilt als die ehemalige historische Hauptstadt der stolzen Region Schemaitien (Žemaitija). Bereits 1253 gegründet, war die Stadt jahrhundertelang ein wichtiges politisches und kulturelles Zentrum des Großfürstentums. Eine der größten Tragödien erlebte Raseiniai im Zweiten Weltkrieg, als fast die gesamte Altstadt durch heftige Kämpfe dem Erdboden gleichgemacht wurde. Heute zeugt das berühmte „Žemaitis“-Denkmal auf dem zentralen Platz – die Skulptur eines starken schemaitischen Mannes, der einen Bären bändigt – vom unbezwingbaren Geist der Einwohner. Mit rund 10.000 Einwohnern bietet die Stadt eine friedliche Atmosphäre nahe der Autobahn A1, bereichert durch das neu aufgebaute Dominikanerkloster.",
+      hu: "Raseiniai Litvánia egyik legrégebbi és történelmileg legjelentősebb városa, a büszke Szamogitia (Žemaitija) régió egykori történelmi fővárosa. A már 1253-ban megalapított város évszázadokon át a Nagyfejedelemség fontos politikai és kulturális központja volt. Raseiniai egyik legnagyobb tragédiáját a második világháború alatt élte át, amikor a heves harcok következtében a történelmi óváros szinte teljesen megsemmisült. Ma a központi téren álló híres „Žemaitis” emlékmű – egy medvét megszelídítő erős szamogit férfi szobra – a lakosok megtörhetetlen szellemét hirdeti. A mintegy 10 000 lakosú, az A1-es autópálya közelében fekvő település békés légkört és gazdag történelmet kínál, amelyet az újjáépített domonkos kolostor is színesít.",
+      ro: "Raseiniai este unul dintre cele mai vechi și mai semnificative orașe din punct de vedere istoric din Lituania și este considerat fosta capitală istorică a mândrei regiuni Samogitia (Žemaitija). Fondat încă din 1253, orașul a fost un important centru politic și cultural al Marelui Ducat timp de secole. Una dintre cele mai mari tragedii pentru Raseiniai a avut loc în al Doilea Război Mondial, când aproape tot orașul vechi a fost distrus în lupte grele. Astăzi, faimosul monument „Žemaitis” din piața centrală – sculptura unui om puternic din Samogitia îmblânzind un urs – stă mărturie spiritului de neînvins al locuitorilor. Cu aproximativ 10.000 de locuitori, orașul oferă o atmosferă pașnică în apropierea autostrăzii A1, îmbogățită de mănăstirea dominicană reconstruită.",
+      en: "Raseiniai is one of the oldest and most historically significant cities in Lithuania, recognized as the former historical capital of the proud Samogitia (Žemaitija) region. Founded as early as 1253, the city served for centuries as a vital political and cultural center of the Grand Duchy. One of the greatest tragedies to strike Raseiniai occurred during World War II, when almost the entire old town was leveled during fierce fighting. Today, the famous “Žemaitis” monument in the central square—a sculpture of a strong Samogitian man taming a bear—stands as a testament to the indomitable spirit of its residents. With around 10,000 inhabitants, the town offers a peaceful atmosphere near the A1 highway, enriched by the rebuilt Dominican monastery."
+    },
+    factsAdvanced: {
+      de: ["1253-ban alapították, Szamogitia egyik legrégebbi városa.", "Szamogitia (Žemaitija) egykori történelmi és politikai fővárosa.", "A II. világháború alatti raseiniai csata (1941) során a város 90%-a elpusztult.", "A főtéren álló „Žemaitis” szobor a régió függetlenségének szimbóluma.", "A domonkos rendi kolostor a város egyik legfontosabb vallási központja.", "Lakossága napjainkban hozzávetőlegesen 10 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-raseiniai-cities-v2.webp",
+},  {
     id: "lithuania-anyksciai-cities-v2",
     type: "city",
-    name: { de: "Anykščiai", hu: "Anykščiai", ro: "Anykščiai", en: "Anykščiai" },
+    name: { de: "Anykščiai", hu: "Anykščiai", ro: "Anykščiai", en: "Anykščiai",
+image: "/poi-images/lithuania-anyksciai-cities-v2.webp"
+},
     coords: [25.1, 55.5167],
     coordinates: { lat: 55.5167, lng: 25.1 },
     description: {
@@ -532,11 +940,27 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Cunoscut ca oraș al poeților", "Locația traseului prin coronamentul arborilor", "Deține piatra Puntukas", "Muzeul căii ferate înguste"],
       en: ["Known as the city of poets", "Site of the treetop walking path", "Home to the Puntukas stone", "Narrow-gauge railway museum"],
     },
-    imageHint: "Anyksciai treetop walking path", image: "/poi-images/lithuania-anyksciai-cities-v2.webp"},
-  {
+imageHint: "Anyksciai treetop walking path",
+    descriptionAdvanced: {
+      de: "Anykščiai gilt unbestritten als die literarische Hauptstadt Litauens, da hier einige der bedeutendsten nationalen Dichter und Schriftsteller, wie Antanas Baranauskas, geboren wurden oder wirkten. Die Stadt schmiegt sich malerisch in das tiefe, grüne Tal des Flusses Šventoji. Das Stadtbild wird dominiert von der imposanten neugotischen St.-Matthias-Kirche, die mit ihren 79 Metern die höchsten Kirchtürme Litauens besitzt. Anykščiai ist ein absoluter Magnet für Natur- und Kulturtouristen: Der berühmte Baumwipfelpfad (Medžių lajų takas) bietet atemberaubende Ausblicke über die Wälder, während der massive Findling „Puntukas“ und die historische Schmalspurbahn einzigartige Attraktionen darstellen. Mit rund 8.500 Einwohnern versprüht Anykščiai einen unvergleichlich ruhigen, poetischen Charme.",
+      hu: "Anykščiai vitathatatlanul Litvánia irodalmi fővárosaként ismert, mivel a nemzet legjelentősebb költői és írói közül többen, például Antanas Baranauskas is itt születtek vagy alkottak. A város festőien simul bele a Šventoji folyó mély, zöldellő völgyébe. A városképet az impozáns neogótikus Szent Máté-templom uralja, amely 79 méteres magasságával a legmagasabb templomtornyokkal büszkélkedhet egész Litvániában. Anykščiai mágnesként vonzza a természet- és kultúrakedvelő turistákat: a világhírű lombkorona sétány (Medžių lajų takas) lélegzetelállító kilátást nyújt az erdőkre, míg a hatalmas „Puntukas” vándorkő és a történelmi keskeny nyomközű vasút egyedülálló élményeket kínál. A mintegy 8500 lakosú kisváros páratlanul békés, költői bájjal bír.",
+      ro: "Anykščiai este considerată incontestabil capitala literară a Lituaniei, deoarece câțiva dintre cei mai importanți poeți și scriitori naționali, precum Antanas Baranauskas, s-au născut sau au lucrat aici. Orașul se cuibărește pitoresc în valea adâncă și verde a râului Šventoji. Peisajul urban este dominat de impunătoarea Biserică Neogotică Sf. Matei, ale cărei turnuri gemene de 79 de metri sunt cele mai înalte din Lituania. Anykščiai este un magnet absolut pentru turiștii iubitori de natură și cultură: faimoasa potecă printre coroanele copacilor (Medžių lajų takas) oferă priveliști uluitoare asupra pădurilor, în timp ce uriașul bolovan „Puntukas” și calea ferată istorică cu ecartament îngust reprezintă atracții unice. Cu aproximativ 8.500 de locuitori, Anykščiai emană un farmec liniștit și poetic incomparabil.",
+      en: "",
+      en: "Anykščiai is undisputedly recognized as the literary capital of Lithuania, being the birthplace or workplace of some of the nation's most prominent poets and writers, such as Antanas Baranauskas. The city nestles picturesquely within the deep, lush green valley of the Šventoji River. The cityscape is dominated by the imposing Neo-Gothic St. Matthew's Church, boasting twin spires that reach 79 meters, making them the tallest church towers in Lithuania. Anykščiai is an absolute magnet for nature and culture tourists: the famous treetop walking path (Medžių lajų takas) provides breathtaking views over the forests, while the massive “Puntukas” boulder and the historic narrow-gauge railway offer unique attractions. With around 8,500 residents, Anykščiai exudes an unparalleled peaceful, poetic charm."
+    },
+    factsAdvanced: {
+      de: ["A város fölé magasodó Szent Máté-templom Litvánia legmagasabb temploma (79 m).", "A Lombkorona sétány (Medžių lajų takas) Kelet-Európa egyik leglátogatottabb természeti attrakciója.", "A Puntukas kő az ország második legnagyobb vándorköve.", "Antanas Baranauskas híres költő szülővárosa (az irodalom fővárosa).", "Működő, 19. századi keskeny nyomközű vasúttal (Siaurukas) rendelkezik.", "Lakossága nagyjából 8 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-anyksciai-cities-v2.webp",
+},  {
     id: "lithuania-lentvaris-cities-v2",
     type: "city",
-    name: { de: "Lentvaris", hu: "Lentvaris", ro: "Lentvaris", en: "Lentvaris" },
+    name: { de: "Lentvaris", hu: "Lentvaris", ro: "Lentvaris", en: "Lentvaris",
+image: "/poi-images/lithuania-lentvaris-cities-v2.webp"
+},
     coords: [25.05, 54.6333],
     coordinates: { lat: 54.6333, lng: 25.05 },
     description: {
@@ -551,11 +975,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Nod feroviar semnificativ", "Deține un palat neogotic", "Cunoscut pentru fabricarea covoarelor"],
       en: ["Founded in the 19th century", "Significant railway junction", "Features a Neo-Gothic palace", "Known for carpet manufacturing"],
     },
-    imageHint: "Lentvaris palace and lake", image: "/poi-images/lithuania-lentvaris-cities-v2.webp"},
-  {
+imageHint: "Lentvaris palace and lake",
+    descriptionAdvanced: {
+      de: "Lentvaris ist eine industriell geprägte Stadt im Osten Litauens, die strategisch günstig zwischen der Hauptstadt Vilnius und der historischen Wasserburgstadt Trakai liegt. Ihre rasante Entwicklung im 19. Jahrhundert verdankt die Stadt dem Bau der St.-Petersburg-Warschau-Eisenbahn, die Lentvaris zu einem wichtigen Eisenbahnknotenpunkt machte. Die Hauptattraktion ist zweifelsohne das beeindruckende Lentvaris-Herrenhaus der Adelsfamilie Tiškevičius (Tyszkiewicz). Dieses architektonische Meisterwerk im englischen neugotischen Stil wird von einem atemberaubenden, weitläufigen Park umgeben, der von dem berühmten französischen Landschaftsarchitekten Édouard André entworfen wurde. Trotz ihres industriellen Charakters, insbesondere in der Teppichherstellung, bietet die knapp über 10.000 Einwohner zählende Stadt durch diesen Park und den angrenzenden See herrliche Rückzugsorte in die Natur.",
+      hu: "Lentvaris egy ipari jellegű város Kelet-Litvániában, amely stratégiailag kiváló helyen, a főváros, Vilnius és a történelmi víziváráról híres Trakai között fekszik. A település 19. századi, ugrásszerű fejlődését a Szentpétervár–Varsó vasútvonal megépítésének köszönheti, amely fontos vasúti csomóponttá tette Lentvarist. A város legfőbb látványossága kétségtelenül a Tiškevičius (Tyszkiewicz) nemesi család lenyűgöző kúriája. Ezt az angol neogótikus stílusú építészeti remekművet egy lélegzetelállító, kiterjedt park veszi körül, amelyet a híres francia tájépítész, Édouard André tervezett. Noha a valamivel több mint 10 000 lakosú város ipari – különösen szőnyeggyártási – múlttal rendelkezik, a kastélypark és a szomszédos tó révén csodálatos természeti menedéket kínál.",
+      ro: "Lentvaris este un oraș industrial din estul Lituaniei, situat strategic între capitala Vilnius și orașul istoric Trakai. Dezvoltarea sa rapidă din secolul al XIX-lea s-a datorat construcției căii ferate Sankt Petersburg-Varșovia, care a transformat Lentvaris într-un important nod feroviar. Atracția principală este, fără îndoială, impresionantul conac Lentvaris al familiei nobiliare Tiškevičius (Tyszkiewicz). Această capodoperă arhitecturală în stil neogotic englezesc este înconjurată de un parc vast, care îți taie respirația, proiectat de faimosul arhitect peisagist francez Édouard André. În ciuda caracterului său industrial, în special în producția de covoare, orașul cu puțin peste 10.000 de locuitori oferă refugii naturale minunate prin acest parc și lacul adiacent.",
+      en: "Lentvaris is an industrially characterized city in eastern Lithuania, strategically located between the capital Vilnius and the historic water-castle town of Trakai. The city owes its rapid development in the 19th century to the construction of the Saint Petersburg–Warsaw railway, which transformed Lentvaris into a major railway junction. The primary attraction is undoubtedly the impressive Lentvaris Manor of the Tiškevičius (Tyszkiewicz) noble family. This architectural masterpiece in the English Neo-Gothic style is surrounded by a breathtaking, expansive park designed by the renowned French landscape architect Édouard André. Despite its industrial nature, particularly in carpet manufacturing, the city of just over 10,000 residents offers magnificent natural retreats through this park and the adjacent lake."
+    },
+    factsAdvanced: {
+      de: ["A Szentpétervár–Varsó vasútvonal hozta meg a város igazi fellendülését a 19. században.", "A Lentvaris-kastélyt angol neogótikus stílusban építették át.", "A kastély lenyűgöző parkját Édouard André francia tájépítész tervezte.", "A város egy mesterséges tó (Lentvaris-tó) partján fekszik.", "Hosszú ideig a litván szőnyeggyártás központja volt.", "Lakossága meghaladja a 10 000 főt, sokan ingáznak Vilniusba."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-lentvaris-cities-v2.webp",
+},  {
     id: "lithuania-grigiskes-cities-v2",
     type: "city",
-    name: { de: "Grigiškės", hu: "Grigiškės", ro: "Grigiškės", en: "Grigiškės" },
+    name: { de: "Grigiškės", hu: "Grigiškės", ro: "Grigiškės", en: "Grigiškės",
+image: "/poi-images/lithuania-grigiskes-cities-v2.webp"
+},
     coords: [25.0833, 54.6667],
     coordinates: { lat: 54.6667, lng: 25.0833 },
     description: {
@@ -570,11 +1009,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1923", "Centrul industriei hârtiei", "Suburban de vest al Vilniusului", "Situat pe râul Vokė"],
       en: ["Founded in the year 1923", "Center of the paper industry", "Western suburb of Vilnius", "Located on the Voke River"],
     },
-    imageHint: "Grigiskes industrial area and river", image: "/poi-images/lithuania-grigiskes-cities-v2.webp"},
-  {
+imageHint: "Grigiskes industrial area and river",
+    descriptionAdvanced: {
+      de: "Grigiškės ist ein industriell geprägter Vorort im Westen der Hauptstadt Vilnius, der malerisch am Zusammenfluss der Flüsse Vokė und Neris liegt. Die Entstehungsgeschichte der Stadt ist untrennbar mit dem visionären Ingenieur Grigas Kurecas verbunden, der hier im Jahr 1923 eine große Papierfabrik gründete, die der Stadt schließlich auch ihren Namen gab. Noch heute dominiert die Fabrik „Grigeo“ als einer der größten Hersteller von Papier- und Holzprodukten im Baltikum die lokale Wirtschaft. Ein besonderes historisches Wahrzeichen von Grigiškės ist das markante, fast drei Kilometer lange Aquädukt über den Fluss Vokė, das in der Zwischenkriegszeit erbaut wurde, um die Fabrik mit Wasser zu versorgen. Grigiškės vereint industrielles Erbe mit der Nähe zur umgebenden Naturlandschaft.",
+      hu: "Grigiškės a főváros, Vilnius nyugati elővárosa, amely festői környezetben, a Vokė és a Neris folyók találkozásánál fekszik. A település története elválaszthatatlanul összefonódott Grigas Kurecas látnoki mérnök nevével, aki 1923-ban egy nagy papírgyárat alapított itt, amely végül a város nevét is adta. A „Grigeo” gyár a balti térség egyik legnagyobb papír- és fatermékgyártójaként a mai napig meghatározza a helyi gazdaságot. Grigiškės egyik különleges történelmi látványossága a Vokė folyó felett átívelő, csaknem három kilométer hosszú vízvezeték (akvadukt), amelyet a két világháború között építettek a gyár vízellátásának biztosítására. A mintegy 10 000 lakosú város az ipari örökséget ötvözi a környező természeti táj közelségével.",
+      ro: "Grigiškės este o suburbie industrială aflată în vestul capitalei Vilnius, situată pitoresc la confluența râurilor Vokė și Neris. Istoria orașului este inseparabil legată de inginerul vizionar Grigas Kurecas, care a fondat aici o mare fabrică de hârtie în 1923, fabrică ce a dat în cele din urmă și numele orașului. Chiar și astăzi, fabrica „Grigeo” domină economia locală, fiind unul dintre cei mai mari producători de hârtie și produse din lemn din Țările Baltice. Un reper istoric special al orașului Grigiškės este apeductul distinctiv, lung de aproape trei kilometri, peste râul Vokė, care a fost construit în perioada interbelică pentru a furniza apă fabricii. Grigiškės îmbină moștenirea industrială cu proximitatea față de peisajul natural înconjurător.",
+      en: "Grigiškės is an industrial suburb located in the western part of the capital, Vilnius, picturesquely situated at the confluence of the Vokė and Neris rivers. The history of the city is inseparably linked to the visionary engineer Grigas Kurecas, who founded a large paper mill here in 1923, which ultimately gave the town its name. Today, the “Grigeo” factory still dominates the local economy as one of the largest producers of paper and wood products in the Baltics. A special historical landmark of Grigiškės is the striking, nearly three-kilometer-long aqueduct over the Vokė River, built during the interwar period to supply water to the factory. Grigiškės combines its industrial heritage with close proximity to the surrounding natural landscape."
+    },
+    factsAdvanced: {
+      de: ["A várost 1923-ban alapította Grigas Kurecas mérnök.", "Nevét magáról az alapítóról (Grigas) kapta.", "A Vokė folyón átívelő ipari akvadukt egyedülálló építészeti emlék.", "A Grigeo vállalatcsoport a balti államok legnagyobb papírgyártóinak egyike.", "Vilnius városának integrált, nyugati elővárosa.", "Lakossága nagyjából 10 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-grigiskes-cities-v2.webp",
+},  {
     id: "lithuania-naujoji-akmene-cities-v2",
     type: "city",
-    name: { de: "Naujoji Akmenė", hu: "Naujoji Akmenė", ro: "Naujoji Akmenė", en: "Naujoji Akmenė" },
+    name: { de: "Naujoji Akmenė", hu: "Naujoji Akmenė", ro: "Naujoji Akmenė", en: "Naujoji Akmenė",
+image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp"
+},
     coords: [22.8833, 56.3167],
     coordinates: { lat: 56.3167, lng: 22.8833 },
     description: {
@@ -589,11 +1043,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1952", "Centrul producției de ciment", "Cel mai nordic oraș din Lituania", "Deține mari cariere de calcar"],
       en: ["Founded in the year 1952", "Center of cement production", "Northernmost city in Lithuania", "Features large limestone quarries"],
     },
-    imageHint: "Naujoji Akmene cement factory and quarries", image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp"},
-  {
+imageHint: "Naujoji Akmene cement factory and quarries",
+    descriptionAdvanced: {
+      de: "Naujoji Akmenė, was wörtlich „Neu-Akmenė“ bedeutet, ist eine der jüngsten Städte Litauens und das administrative Zentrum der Rajongemeinde Akmenė im äußersten Norden des Landes. Die Stadt wurde erst im Jahr 1952 nach sowjetischer Stadtplanung eigens für die Arbeiter des neu errichteten, massiven Zementwerks „Akmenės cementas“ buchstäblich aus dem Boden gestampft. Bis heute prägen die riesigen Anlagen des Zementwerks und die gigantischen, fast mondartig anmutenden Kalksteinbrüche das Bild der Region. Trotz ihres primär industriellen Ursprungs wurde viel Wert auf breite, grüne Alleen und öffentliche Parks gelegt, was der Stadt eine überraschend entspannte Atmosphäre verleiht. Naujoji Akmenė ist ein faszinierendes Beispiel für eine funktionale Monostadt aus der Mitte des 20. Jahrhunderts.",
+      hu: "Naujoji Akmenė, amely szó szerint „Új-Akmenét” jelent, Litvánia egyik legfiatalabb városa és az északi Akmenė járás közigazgatási központja. A várost 1952-ben, szovjet várostervezési elvek alapján hozták létre a semmiből, kifejezetten az újonnan épült, hatalmas „Akmenės cementas” cementgyár dolgozói számára. A térség arculatát mind a mai napig a cementgyár hatalmas létesítményei és a gigantikus, szinte holdbéli tájra emlékeztető mészkőbányák határozzák meg. Bár a település elsősorban ipari gyökerű, az építkezés során nagy hangsúlyt fektettek a széles, zöld sugárutak és a közparkok kialakítására, ami meglepően békés atmoszférát kölcsönöz a városnak. Naujoji Akmenė a 20. század közepi funkcionális monovárások lenyűgöző példája.",
+      ro: "Naujoji Akmenė, care înseamnă literal „Noul Akmenė”, este unul dintre cele mai tinere orașe din Lituania și centrul administrativ al districtului Akmenė din nordul extrem al țării. Orașul a fost creat de la zero în 1952, pe baza planificării urbane sovietice, special pentru muncitorii noii și masivei fabrici de ciment „Akmenės cementas”. Până astăzi, peisajul regiunii este dominat de facilitățile uriașe ale fabricii de ciment și de carierele gigantice de calcar, care par a fi peisaje lunare. În ciuda originilor sale predominant industriale, s-a pus un mare accent pe bulevardele largi, verzi și pe parcurile publice, ceea ce conferă orașului o atmosferă surprinzător de relaxată. Naujoji Akmenė este un exemplu fascinant de mono-oraș funcțional de la mijlocul secolului al XX-lea.",
+      en: "Naujoji Akmenė, literally meaning “New Akmenė,” is one of Lithuania's youngest cities and the administrative center of the Akmenė District in the far north of the country. The city was built from scratch in 1952, following Soviet urban planning principles, specifically to house the workers of the newly constructed, massive “Akmenės cementas” cement plant. To this day, the region's landscape is dominated by the huge facilities of the cement factory and the gigantic, almost lunar-like limestone quarries. Despite its primarily industrial origins, significant emphasis was placed on creating wide, green avenues and public parks, giving the town a surprisingly relaxed atmosphere. Naujoji Akmenė stands as a fascinating example of a mid-20th-century functional monotown."
+    },
+    factsAdvanced: {
+      de: ["A várost 1952-ben alapították a cementgyár dolgozói számára.", "Az „Akmenės cementas” Litvánia egyetlen cementgyára.", "A régióban hatalmas mészkő- és agyagbányák működnek.", "Tipikus, 20. századi szovjet várostervezés (széles, zöld sugárutak).", "A lett határ közelében helyezkedik el.", "Lakossága hozzávetőlegesen 7 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp",
+},  {
     id: "lithuania-prienai-cities-v2",
     type: "city",
-    name: { de: "Prienai", hu: "Prienai", ro: "Prienai", en: "Prienai" },
+    name: { de: "Prienai", hu: "Prienai", ro: "Prienai", en: "Prienai",
+image: "/poi-images/lithuania-prienai-cities-v2.webp"
+},
     coords: [23.95, 54.6333],
     coordinates: { lat: 54.6333, lng: 23.95 },
     description: {
@@ -608,11 +1077,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1502", "Situat pe buclele râului Nemunas", "Cunoscut pentru planorism", "Centru regional important"],
       en: ["First mentioned in 1502", "Located on the Nemunas loops", "Known for gliding sports", "Important regional center"],
     },
-    imageHint: "Prienai bridge and river loops", image: "/poi-images/lithuania-prienai-cities-v2.webp"},
-  {
+imageHint: "Prienai bridge and river loops",
+    descriptionAdvanced: {
+      de: "Prienai ist eine friedliche und landschaftlich außergewöhnlich reizvolle Stadt in Süd-Zentrallitauen, eingebettet in den malerischen Regionalpark der großen Nemunas-Schleifen. Die im Jahr 1502 erstmals erwähnte Stadt diente historisch oft als Verteidigungsposten und regionales Handelszentrum. Eine der Hauptattraktionen in der Region ist die unberührte Flusslandschaft des Nemunas, die sowohl Naturliebhaber als auch Wanderer anzieht. Ein weiteres markantes Merkmal von Prienai ist seine lange und tiefe Verbundenheit mit der Luftfahrt, insbesondere dem Segelfliegen; das nahegelegene Sportluftfahrtwerk in Pociūnai ist landesweit bekannt. Mit etwas weniger als 9.000 Einwohnern bietet Prienai eine erholsame Auszeit und ist das perfekte Tor zur Kurstadt Birštonas, die nur wenige Kilometer entfernt liegt.",
+      hu: "Prienai egy békés és természeti szépségekben rendkívül gazdag város Közép-Litvánia déli részén, a nagy Nemunas-kanyarok (Nemuno kilpos) festői Regionális Parkjába ágyazva. Az 1502-ben először említett város a történelem során gyakran szolgált védelmi posztként és helyi kereskedelmi központként. A térség egyik legfőbb vonzerejét a Nemunas folyó érintetlen völgye adja, amely mágnesként vonzza a természetjárókat és a túrázókat. Prienai másik kiemelkedő jellemzője a repüléshez, különösen a vitorlázórepüléshez fűződő mély, évtizedes kötődése; a közeli pociūnai sportrepülőgép-gyár országszerte híres. A kevesebb mint 9000 lakosú Prienai nyugodt pihenést kínál, és tökéletes kapu a mindössze néhány kilométerre fekvő Birštonas gyógyüdülőhelyéhez.",
+      ro: "Prienai este un oraș liniștit și cu un peisaj excepțional de pitoresc în partea de sud-centrală a Lituaniei, amplasat în Parcul Regional al Marilor Bucle ale râului Nemunas. Menționat pentru prima dată în 1502, orașul a servit adesea în istorie ca post de apărare și centru comercial regional. Una dintre principalele atracții din zonă este peisajul fluvial curat al râului Nemunas, care atrage atât iubitorii de natură, cât și excursioniștii. O altă trăsătură distinctivă a orașului Prienai este conexiunea sa lungă și profundă cu aviația, în special cu planorismul; fabrica de aviație sportivă din apropiere, la Pociūnai, este cunoscută la nivel național. Cu puțin sub 9.000 de locuitori, Prienai oferă o evadare relaxantă și este poarta perfectă către stațiunea balneară Birštonas.",
+      en: "Prienai is a peaceful and exceptionally scenic city in south-central Lithuania, nestled within the picturesque Regional Park of the Great Nemunas Loops. First mentioned in 1502, the town historically served as a defensive outpost and a regional trading center. One of the main attractions in the area is the pristine river landscape of the Nemunas, which draws nature lovers and hikers alike. Another striking feature of Prienai is its long and deep association with aviation, particularly gliding; the nearby sports aviation plant in Pociūnai is nationally renowned. With just under 9,000 residents, Prienai offers a relaxing retreat and serves as the perfect gateway to the spa town of Birštonas, located just a few kilometers away."
+    },
+    factsAdvanced: {
+      de: ["Első írásos említése Sándor litván nagyfejedelem levelében (1502) található.", "A híres Nemunas-kanyarok Regionális Park szívében fekszik.", "A közeli Pociūnai repülőtér a litván vitorlázórepülés fellegvára.", "Hagyományos fafeldolgozó és papíriparral rendelkezett.", "Kiváló bázis a szomszédos Birštonas gyógyváros felfedezéséhez.", "Lakossága nagyjából 8 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-prienai-cities-v2.webp",
+},  {
     id: "lithuania-joniskis-cities-v2",
     type: "city",
-    name: { de: "Joniškis", hu: "Joniškis", ro: "Joniškis", en: "Joniškis" },
+    name: { de: "Joniškis", hu: "Joniškis", ro: "Joniškis", en: "Joniškis",
+image: "/poi-images/lithuania-joniskis-cities-v2.webp"
+},
     coords: [23.6167, 56.2333],
     coordinates: { lat: 56.2333, lng: 23.6167 },
     description: {
@@ -627,11 +1111,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1523", "Aproape de granița cu Letonia", "Deține un complex de sinagogi", "Centru agricol semnificativ"],
       en: ["Founded in the year 1523", "Near the Latvian border", "Features a synagogue complex", "Significant agricultural center"],
     },
-    imageHint: "Joniskis synagogue and church", image: "/poi-images/lithuania-joniskis-cities-v2.webp"},
-  {
+imageHint: "Joniskis synagogue and church",
+    descriptionAdvanced: {
+      de: "Joniškis ist eine geschichtsträchtige Stadt im äußersten Norden Litauens, die nur wenige Kilometer von der Grenze zu Lettland entfernt liegt. Seit ihrer Gründung im Jahr 1523 durch den Bischof von Vilnius hat sich die Stadt zu einem der wichtigsten Zentren für die litauische Landwirtschaft entwickelt, umgeben von weiten, fruchtbaren Feldern. Das absolute architektonische und kulturelle Highlight von Joniškis ist der einzigartige, liebevoll restaurierte Synagogenkomplex aus dem 19. Jahrhundert, der aus einer „Weißen“ und einer „Roten“ Synagoge besteht und von der einst bedeutenden jüdischen Gemeinde zeugt. Heute beherbergt der Komplex Kulturveranstaltungen und Ausstellungen. Mit knapp 9.000 Einwohnern bietet die Stadt eine ruhige, aber kulturell reiche Atmosphäre und dient als wichtiges Tor in den Norden.",
+      hu: "Joniškis egy nagy történelmi múlttal rendelkező város Litvánia legészakibb részén, amely mindössze néhány kilométerre fekszik a lett határtól. Amióta a vilniusi püspök 1523-ban megalapította, a település a litván mezőgazdaság egyik legfontosabb központjává fejlődött, melyet tágas, termékeny szántóföldek öveznek. Joniškis abszolút építészeti és kulturális fénypontja a 19. századi, egyedülálló módon restaurált zsinagógakomplexum, amely egy „Fehér” és egy „Vörös” zsinagógából áll, és az egykor jelentős zsidó közösség emlékét őrzi. Ma a komplexum kulturális rendezvényeknek és kiállításoknak ad otthont. A mintegy 9000 lakosú város csendes, ám kulturálisan gazdag atmoszférát kínál, és fontos északi kapuként szolgál.",
+      ro: "Joniškis este un oraș cu o istorie bogată în nordul extrem al Lituaniei, situat la doar câțiva kilometri de granița cu Letonia. De la fondarea sa în 1523 de către episcopul de Vilnius, orașul s-a dezvoltat într-unul dintre cele mai importante centre pentru agricultura lituaniană, fiind înconjurat de câmpuri vaste și fertile. Punctul de atracție arhitectural și cultural absolut al orașului Joniškis este complexul de sinagogi din secolul al XIX-lea, unic și restaurat cu grijă, format dintr-o sinagogă „Albă” și una „Roșie”, care stă mărturie comunității evreiești odinioară semnificative. Astăzi, complexul găzduiește evenimente culturale și expoziții. Cu aproape 9.000 de locuitori, orașul oferă o atmosferă linișită, dar bogată cultural, și servește ca o poartă importantă spre nord.",
+      en: "Joniškis is a historically rich city in the far north of Lithuania, located just a few kilometers from the border with Latvia. Since its founding in 1523 by the Bishop of Vilnius, the city has evolved into one of the most vital centers for Lithuanian agriculture, surrounded by expansive, fertile fields. The absolute architectural and cultural highlight of Joniškis is its unique, lovingly restored 19th-century synagogue complex, consisting of a “White” and a “Red” synagogue, which bears witness to the once-significant Jewish community. Today, the complex hosts cultural events and exhibitions. With nearly 9,000 residents, the town offers a quiet yet culturally rich atmosphere and serves as an important gateway to the north."
+    },
+    factsAdvanced: {
+      de: ["1523-ban alapította a vilniusi püspök.", "A 19. században a lakosság több mint fele zsidó származású volt.", "A Fehér és Vörös zsinagóga komplexuma egyedülálló Litvániában.", "A lett határ közelsége miatt fontos tranzitváros.", "Északkelet-Litvánia egyik legfontosabb mezőgazdasági központja.", "Lakossága megközelítőleg 8 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-joniskis-cities-v2.webp",
+},  {
     id: "lithuania-varena-cities-v2",
     type: "city",
-    name: { de: "Varėna", hu: "Varėna", ro: "Varėna", en: "Varėna" },
+    name: { de: "Varėna", hu: "Varėna", ro: "Varėna", en: "Varėna",
+image: "/poi-images/lithuania-varena-cities-v2.webp"
+},
     coords: [24.5667, 54.2167],
     coordinates: { lat: 54.2167, lng: 24.5667 },
     description: {
@@ -646,11 +1145,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Centrul regiunii ciupercilor", "Locul de naștere al artistului Čiurlionis", "Înconjurat de mari păduri de pini"],
       en: ["Founded in the 19th century", "Center of the mushroom region", "Birthplace of artist Čiurlionis", "Surrounded by large pine forests"],
     },
-    imageHint: "Varena forest and railway station", image: "/poi-images/lithuania-varena-cities-v2.webp"},
-  {
+imageHint: "Varena forest and railway station",
+    descriptionAdvanced: {
+      de: "Varėna ist das unbestrittene Zentrum der südlichen Region Dzūkija und liegt eingebettet in die weiten, dichten Kiefernwälder Litauens. Die Stadt entwickelte sich Mitte des 19. Jahrhunderts um den damals neu erbauten Bahnhof der Eisenbahnlinie St. Petersburg–Warschau. Landesweit genießt Varėna den Ruf als die „Pilz-Hauptstadt“ Litauens; jeden Herbst lockt das berühmte Pilzfest (Grybų šventė) Tausende von Naturfreunden und Sammlern in die Region. Neben ihrem natürlichen Reichtum an Beeren und Pilzen hat die Stadt auch eine große kulturelle Bedeutung: Der bekannteste litauische Komponist und Maler, Mikalojus Konstantinas Čiurlionis, wurde im benachbarten Alt-Varėna (Senoji Varėna) geboren. Heute bietet das 8.000-Einwohner-Städtchen Ruhe und Natur pur.",
+      hu: "Varėna a déli Dzūkija régió vitathatatlan központja, amely Litvánia végtelen, sűrű fenyőerdeinek ölelésében fekszik. A város a 19. század közepén, a Szentpétervár–Varsó vasútvonal újonnan épült állomása körül kezdett el kifejlődni. Varėna országszerte Litvánia „gombafővárosaként” ismert; a híres gombafesztivál (Grybų šventė) minden ősszel természetbarátok és gombászok ezreit vonzza a régióba. A bogyós gyümölcsökben és gombákban bővelkedő természeti gazdagság mellett a város kulturális jelentősége is hatalmas: a szomszédos Ó-Varėnában (Senoji Varėna) született a leghíresebb litván zeneszerző és festő, Mikalojus Konstantinas Čiurlionis. Ma a mintegy 8000 lakosú kisváros színtiszta nyugalmat és természetközeliséget kínál.",
+      ro: "Varėna este centrul incontestabil al regiunii sudice Dzūkija, cuibărită în vastele și densele păduri de pini ale Lituaniei. Orașul a început să se dezvolte la mijlocul secolului al XIX-lea în jurul gării nou construite a liniei de cale ferată Sankt Petersburg-Varșovia. La nivel național, Varėna se bucură de reputația de „capitală a ciupercilor” din Lituania; în fiecare toamnă, faimosul festival al ciupercilor (Grybų šventė) atrage mii de iubitori ai naturii și culegători în regiune. Pe lângă bogăția sa naturală în fructe de pădure și ciuperci, orașul are și o mare importanță culturală: cel mai faimos compozitor și pictor lituanian, Mikalojus Konstantinas Čiurlionis, s-a născut în localitatea învecinată Vechiul Varėna (Senoji Varėna). Astăzi, orășelul de 8.000 de locuitori oferă liniște și natură pură.",
+      en: "Varėna is the undisputed center of the southern Dzūkija region, nestled within the vast, dense pine forests of Lithuania. The city began to develop in the mid-19th century around the newly built railway station on the Saint Petersburg–Warsaw line. Nationwide, Varėna enjoys the reputation of being the “Mushroom Capital” of Lithuania; every autumn, the famous Mushroom Festival (Grybų šventė) attracts thousands of nature lovers and foragers to the region. In addition to its natural abundance of berries and mushrooms, the town holds great cultural significance: the most famous Lithuanian composer and painter, Mikalojus Konstantinas Čiurlionis, was born in the neighboring Old Varėna (Senoji Varėna). Today, this small town of 8,000 residents offers pure tranquility and nature."
+    },
+    factsAdvanced: {
+      de: ["A vasútvonal megépítése (1862) hívta életre a modern várost.", "M. K. Čiurlionis litván művész a szomszédos Senoji Varėnában született.", "Litvánia gomba- és bogyósgyümölcs-fővárosa.", "Minden ősszel megrendezik a híres gombafesztivált (Grybų šventė).", "A régiót sűrű fenyőerdők borítják (Dzūkija Nemzeti Park a közelben).", "Lakossága nagyjából 8 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-varena-cities-v2.webp",
+},  {
     id: "lithuania-kelme-cities-v2",
     type: "city",
-    name: { de: "Kelmė", hu: "Kelmė", ro: "Kelmė", en: "Kelmė" },
+    name: { de: "Kelmė", hu: "Kelmė", ro: "Kelmė", en: "Kelmė",
+image: "/poi-images/lithuania-kelme-cities-v2.webp"
+},
     coords: [22.9333, 55.6333],
     coordinates: { lat: 55.6333, lng: 22.9333 },
     description: {
@@ -665,11 +1179,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Deține un conac baroc", "Centru al regiunii Samogitia", "Situat pe râul Kražantė"],
       en: ["Founded in the 15th century", "Features a Baroque manor", "Center of the Samogitia region", "Located on the Kražantė River"],
     },
-    imageHint: "Kelme manor and park", image: "/poi-images/lithuania-kelme-cities-v2.webp"},
-  {
+imageHint: "Kelme manor and park",
+    descriptionAdvanced: {
+      de: "Kelmė ist eine historisch bedeutsame Stadt in der westlitauischen Region Schemaitien, malerisch am Ufer des Flusses Kražantė gelegen. Die im 15. Jahrhundert gegründete Stadt wurde stark von der Adelsfamilie Gruževskiai geprägt, die hier ein beeindruckendes Barock-Herrenhaus erbaute, das heute zu den schönsten Architekturobjekten der Region zählt und ein reiches lokales Geschichtsmuseum beherbergt. Kelmė ist zudem als historisches Zentrum der protestantischen Reformation in Schemaitien bekannt; die ansässige evangelisch-reformierte Gemeinde gehört zu den ältesten des Landes. Trotz verheerender Zerstörungen im Zweiten Weltkrieg konnte Kelmė seinen charmanten Charakter bewahren. Heute lebt die etwa 8.000-Einwohner-Stadt von einer Mischung aus lebendigem Kulturerbe und lokaler Landwirtschaft.",
+      hu: "Kelmė egy történelmileg jelentős város a nyugat-litvániai Szamogitia régióban, festői környezetben a Kražantė folyó partján. A 15. században alapított települést erősen meghatározta a Gruževskiai nemesi család, akik egy lenyűgöző barokk kúriát építtettek ide. Ez az épület ma a régió egyik legszebb építészeti kincse, amely a helyi történelmi múzeumnak is otthont ad. Kelmė emellett a protestáns reformáció történelmi központjaként is ismert Szamogitiában; a helyi evangélikus református gyülekezet az ország legrégebbiek közé tartozik. Bár a második világháború során súlyos károkat szenvedett, Kelmė sikeresen megőrizte bájos karakterét. Napjainkban a mintegy 8000 lakosú város az élő kulturális örökség és a helyi mezőgazdaság egyedi keverékére épít.",
+      ro: "Kelmė este un oraș cu o importanță istorică din regiunea vest-lituaniană Samogitia, situat pitoresc pe malurile râului Kražantė. Orașul, fondat în secolul al XV-lea, a fost puternic influențat de familia nobiliară Gruževskiai, care a construit aici un impresionant conac baroc. Acesta se numără astăzi printre cele mai frumoase obiecte arhitecturale din regiune și găzduiește un bogat muzeu de istorie locală. Kelmė este cunoscut, de asemenea, ca centrul istoric al Reformei Protestante din Samogitia; comunitatea evanghelică reformată de aici este una dintre cele mai vechi din țară. În ciuda distrugerilor devastatoare din timpul celui de-al Doilea Război Mondial, Kelmė și-a păstrat caracterul fermecător. Astăzi, orașul de aproximativ 8.000 de locuitori trăiește dintr-un amestec de moștenire culturală vie și agricultură locală.",
+      en: "Kelmė is a historically significant city in the western Lithuanian region of Samogitia, picturesquely situated on the banks of the Kražantė River. Founded in the 15th century, the city was heavily influenced by the Gruževskiai noble family, who built an impressive Baroque manor here. Today, this manor is considered one of the most beautiful architectural objects in the region and houses a rich local history museum. Kelmė is also known as a historical center of the Protestant Reformation in Samogitia; the local Evangelical Reformed community is among the oldest in the country. Despite facing devastating destruction during World War II, Kelmė has managed to preserve its charming character. Today, the town of about 8,000 residents thrives on a mix of living cultural heritage and local agriculture."
+    },
+    factsAdvanced: {
+      de: ["A várost a 15. században említik először.", "A Kelmė-kúria (Gruževskiai birtok) barokk stílusú építészeti emlék.", "Szamogitia református központja volt a 16–17. században.", "A Kražantė folyó partján fekszik.", "A helyi múzeum a litván és szamogit kultúra gazdag tárháza.", "Lakossága megközelítőleg 8 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kelme-cities-v2.webp",
+},  {
     id: "lithuania-kaisiadorys-cities-v2",
     type: "city",
-    name: { de: "Kaišiadorys", hu: "Kaišiadorys", ro: "Kaišiadorys", en: "Kaišiadorys" },
+    name: { de: "Kaišiadorys", hu: "Kaišiadorys", ro: "Kaišiadorys", en: "Kaišiadorys",
+image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp"
+},
     coords: [24.45, 54.85],
     coordinates: { lat: 54.85, lng: 24.45 },
     description: {
@@ -684,11 +1213,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Nod feroviar semnificativ", "Sediul unei dieceze catolice", "Centru al industriei avicole"],
       en: ["Founded in the 19th century", "Significant railway junction", "Seat of a Catholic diocese", "Center of the poultry industry"],
     },
-    imageHint: "Kaisiadorys cathedral and railway", image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp"},
-  {
+imageHint: "Kaisiadorys cathedral and railway",
+    descriptionAdvanced: {
+      de: "Kaišiadorys ist eine lebendige Stadt in Zentrallitauen, deren Aufstieg und Wohlstand im 19. Jahrhundert untrennbar mit dem Bau der strategisch wichtigen Eisenbahnstrecken zwischen Vilnius und Kaunas verbunden war. Heute fungiert die Stadt als einer der wichtigsten Verkehrsknotenpunkte des Landes. Das religiöse Zentrum der Stadt ist die beeindruckende Christi-Verklärungs-Kathedrale, die Kaišiadorys zum Sitz eines katholischen Bistums macht. Wirtschaftlich ist die Region vor allem durch die Geflügelzucht geprägt; das Unternehmen Kaišiadorių paukštynas gehört zu den größten Geflügelproduzenten im Baltikum. Umgeben von Wäldern und nicht weit vom riesigen Kaunas-Stausee entfernt, bietet die knapp über 8.000 Einwohner zählende Stadt zudem vielfältige Freizeitmöglichkeiten in der Natur.",
+      hu: "Kaišiadorys egy élénk város Közép-Litvániában, amelynek 19. századi felemelkedése és jóléte elválaszthatatlanul összefonódott a Vilnius és Kaunas közötti stratégiailag fontos vasútvonalak megépítésével. A város ma az ország egyik legfontosabb közlekedési csomópontjaként funkcionál. Vallási központja a lenyűgöző Krisztus Színeváltozása-székesegyház, amely Kaišiadoryst a katolikus püspökség székhelyévé teszi. Gazdaságilag a régiót elsősorban a baromfitenyésztés határozza meg; a Kaišiadorių paukštynas nevű vállalat a Baltikum egyik legnagyobb baromfitermelője. Az erdőkkel körülvett, a hatalmas Kaunasi-víztározótól nem messze fekvő, alig több mint 8000 lakosú város emellett változatos szabadtéri szabadidős lehetőségeket kínál a természetben.",
+      ro: "Kaišiadorys este un oraș vibrant din centrul Lituaniei, a cărui ascensiune și prosperitate în secolul al XIX-lea au fost inseparabil legate de construcția liniilor de cale ferată de importanță strategică între Vilnius și Kaunas. Astăzi, orașul funcționează ca unul dintre cele mai importante noduri de transport din țară. Centrul religios al orașului este impresionanta Catedrală a Schimbării la Față a lui Hristos, care face din Kaišiadorys sediul unei dieceze catolice. Din punct de vedere economic, regiunea se caracterizează în primul rând prin avicultură; compania Kaišiadorių paukštynas este unul dintre cei mai mari producători de păsări de curte din statele baltice. Înconjurat de păduri și deloc departe de uriașul rezervor Kaunas, orașul cu puțin peste 8.000 de locuitori oferă diverse oportunități de agrement în natură.",
+      en: "Kaišiadorys is a vibrant city in central Lithuania, whose rise and prosperity in the 19th century were inextricably linked to the construction of strategically important railway lines between Vilnius and Kaunas. Today, the city functions as one of the country's most vital transportation hubs. The religious center of the town is the impressive Cathedral of the Transfiguration of Christ, which makes Kaišiadorys the seat of a Catholic diocese. Economically, the region is primarily characterized by poultry farming; the company Kaišiadorių paukštynas is among the largest poultry producers in the Baltics. Surrounded by forests and located not far from the massive Kaunas Reservoir, the city of just over 8,000 residents also offers diverse outdoor recreational opportunities."
+    },
+    factsAdvanced: {
+      de: ["A vasútépítés (19. század közepe) alakította várossá.", "Jelentős közlekedési csomópont Vilnius és Kaunas között.", "A Krisztus Színeváltozása-székesegyház püspöki székhely.", "A balti államok egyik legnagyobb baromfitenyésztő vállalata itt működik.", "Lakossága nagyjából 8 000 fő.", "Nevének eredete egy helyi tatár előkelőséghez köthető."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp",
+},  {
     id: "lithuania-pasvalys-cities-v2",
     type: "city",
-    name: { de: "Pasvalys", hu: "Pasvalys", ro: "Pasvalys", en: "Pasvalys" },
+    name: { de: "Pasvalys", hu: "Pasvalys", ro: "Pasvalys", en: "Pasvalys",
+image: "/poi-images/lithuania-pasvalys-cities-v2.webp"
+},
     coords: [24.4, 56.0667],
     coordinates: { lat: 56.0667, lng: 24.4 },
     description: {
@@ -703,11 +1247,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1497", "Cunoscut pentru fenomenele carstice", "Deține un muzeu al pietrelor", "Port fluvial semnificativ"],
       en: ["Founded in the year 1497", "Known for karst phenomena", "Features a museum of stones", "Significant river port"],
     },
-    imageHint: "Pasvalys river and sinkhole park", image: "/poi-images/lithuania-pasvalys-cities-v2.webp"},
-  {
+imageHint: "Pasvalys river and sinkhole park",
+    descriptionAdvanced: {
+      de: "Pasvalys ist eine einzigartige Kleinstadt im Norden Litauens, die geografisch dort liegt, wo die Flüsse Lėvuo und Svalia aufeinandertreffen. Das Gebiet, das 1497 erstmals schriftlich erwähnt wurde, ist berühmt für seine außergewöhnliche Geologie. Die gesamte Region ist reich an Karstphänomenen und tiefen Erdfällen (Dolinen), aus denen häufig mineralstoffreiches Quellwasser an die Oberfläche tritt. Besonders bekannt ist die sogenannte „Grüne Quelle“ (Žaliasis šaltinis), ein tiefes Karstloch im Stadtzentrum. Neben den Naturwundern lockt Pasvalys mit dem sehenswerten Steinemuseum von Antanas Stapulionis, das eine riesige Sammlung kurioser Steine und Mühlsteine zeigt. Mit etwa 6.500 Einwohnern bietet die Stadt eine reiche Mischung aus Natur, Mineralquellen und nordlitauischer Gemütlichkeit.",
+      hu: "Pasvalys egy egyedülálló kisváros Észak-Litvániában, amely földrajzilag a Lėvuo és a Svalia folyók találkozásánál fekszik. Az 1497-ben először említett terület leginkább kivételes geológiájáról híres. Az egész régió gazdag karsztjelenségekben és mély víznyelőkben (dolinák), amelyekből gyakran ásványi anyagokban gazdag forrásvíz tör a felszínre. Különösen ismert az úgynevezett „Zöld-forrás” (Žaliasis šaltinis), egy mély karsztlyuk a városközpontban. A természeti csodák mellett Pasvalys az Antanas Stapulionis által alapított Kőmúzeummal is vonzza a látogatókat, amely különleges kövek és malomkövek hatalmas gyűjteményét mutatja be. A mintegy 6500 lakosú város a természet, az ásványvizek és az észak-litván békesség különleges keverékét nyújtja.",
+      ro: "Pasvalys este un mic oraș unic în nordul Lituaniei, situat geografic la confluența râurilor Lėvuo și Svalia. Zona, menționată pentru prima dată în scris în 1497, este faimoasă pentru geologia sa excepțională. Întreaga regiune este bogată în fenomene carstice și doline adânci, din care izvorăște adesea apă de izvor bogată în minerale. Deosebit de cunoscut este așa-numitul „Izvor Verde” (Žaliasis šaltinis), o gaură carstică adâncă chiar în centrul orașului. Pe lângă minunile naturale, Pasvalys atrage vizitatorii cu Muzeul Pietrelor al lui Antanas Stapulionis, care prezintă o colecție uriașă de pietre și pietre de moară curioase. Cu aproximativ 6.500 de locuitori, orașul oferă un amestec bogat de natură, izvoare minerale și confort nord-lituanian.",
+      en: "Pasvalys is a unique small town in northern Lithuania, geographically situated where the Lėvuo and Svalia rivers converge. First mentioned in historical records in 1497, the area is famous for its exceptional geology. The entire region is rich in karst phenomena and deep sinkholes, from which mineral-rich spring water frequently surfaces. Particularly well-known is the so-called “Green Spring” (Žaliasis šaltinis), a deep karst hole right in the city center. In addition to its natural wonders, Pasvalys attracts visitors with the Antanas Stapulionis Stone Museum, showcasing a massive collection of curious stones and millstones. With about 6,500 residents, the town offers a rich blend of nature, mineral springs, and northern Lithuanian coziness."
+    },
+    factsAdvanced: {
+      de: ["1497-ben alapították, a Lėvuo és a Svalia folyók találkozásánál.", "Karsztos területen fekszik, számos víznyelővel (dolinával).", "A városközpontban található a leghíresebb víznyelő, a Zöld-forrás.", "A Kőmúzeum Litvánia egyik legegyedülállóbb szabadtéri gyűjteménye.", "A 19. században az ásványvizes fürdőkulurája miatt kedvelt volt.", "Lakossága hozzávetőlegesen 6 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-pasvalys-cities-v2.webp",
+},  {
     id: "lithuania-kupiskis-cities-v2",
     type: "city",
-    name: { de: "Kupiškis", hu: "Kupiškis", ro: "Kupiškis", en: "Kupiškis" },
+    name: { de: "Kupiškis", hu: "Kupiškis", ro: "Kupiškis", en: "Kupiškis",
+image: "/poi-images/lithuania-kupiskis-cities-v2.webp"
+},
     coords: [24.9667, 55.8333],
     coordinates: { lat: 55.8333, lng: 24.9667 },
     description: {
@@ -722,11 +1281,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1529", "Situat pe râul Lėvuo", "Cunoscut pentru un mare rezervor", "Centru al producției de in"],
       en: ["First mentioned in 1529", "Located on the Lėvuo River", "Known for a large reservoir", "Center of linen manufacturing"],
     },
-    imageHint: "Kupiskis church and reservoir", image: "/poi-images/lithuania-kupiskis-cities-v2.webp"},
-  {
+imageHint: "Kupiskis church and reservoir",
+    descriptionAdvanced: {
+      de: "Kupiškis ist eine malerische Stadt im Nordosten Litauens, durch die das gewundene Flussbett der Lėvuo verläuft. Die 1529 erstmals erwähnte Stadt liegt in einer idyllischen, hügeligen Landschaft und wird besonders wegen des nahegelegenen Kupiškis-Stausees (Kupiškio marios) geschätzt. Dieser riesige, künstlich angelegte See bietet exzellente Bedingungen für Wassersportler, Angler und Badegäste und ist Austragungsort internationaler Regatten. Kupiškis selbst besticht durch eine gut erhaltene, monumentale neugotische Kirche der Himmelfahrt Christi. Die Region bewahrt stolz ihre tiefen ethnografischen Traditionen, die sich in einzigartigen Liedern, alten Leinenwebereien und dem alljährlichen Folklorefestival widerspiegeln. Kupiškis, mit rund 6.000 Einwohnern, ist ein Ort stiller Schönheit.",
+      hu: "Kupiškis egy festői kisváros Litvánia északkeleti részén, amelyet a Lėvuo folyó kanyargós medre szel át. Az 1529-ben először említett település idilli, dombos környezetben fekszik, és leginkább a közeli Kupiškis-víztározó (Kupiškio marios) miatt kedvelt a turisták körében. Ez a hatalmas, mesterségesen kialakított tó kiváló lehetőségeket biztosít a vízi sportok szerelmeseinek, a horgászoknak, és rendszeresen ad otthont nemzetközi evezősversenyeknek is. Maga Kupiškis büszkélkedhet a Krisztus Mennybemenetele neogótikus templommal, amely uralja a városképet. A régió büszkén őrzi mély néprajzi hagyományait, amelyek az egyedi népdalokban, a lenvászon-szövésben és a helyi folklórfesztiválokban élnek tovább. Kupiškis, nagyjából 6000 lakosával a csendes szépség menedéke.",
+      ro: "Kupiškis este un oraș pitoresc din nord-estul Lituaniei, străbătut de albia șerpuitoare a râului Lėvuo. Menționat pentru prima dată în 1529, orașul este situat într-un peisaj idilic, deluros și este deosebit de apreciat pentru rezervorul Kupiškis (Kupiškio marios) din apropiere. Acest lac artificial uriaș oferă condiții excelente pentru sporturi nautice, pescuit și înot, fiind adesea gazda unor regate internaționale. Kupiškis însuși captivează prin biserica neogotică monumentală a Înălțării lui Hristos, foarte bine conservată. Regiunea își păstrează cu mândrie tradițiile etnografice profunde, reflectate în cântece unice, meșteșugul vechi al țeserii inului și festivalul folcloric anual. Cu aproximativ 6.000 de locuitori, Kupiškis este un loc de o frumusețe tăcută.",
+      en: "Kupiškis is a picturesque city in northeastern Lithuania, intersected by the winding riverbed of the Lėvuo. First mentioned in 1529, the town is set in an idyllic, hilly landscape and is particularly prized for the nearby Kupiškis Reservoir (Kupiškio marios). This massive artificial lake offers excellent conditions for water sports, fishing, and swimming, and frequently hosts international rowing regattas. Kupiškis itself captivates visitors with its well-preserved, monumental Neo-Gothic Church of the Ascension of Christ. The region proudly maintains its deep ethnographic traditions, which are reflected in unique folk songs, the ancient craft of linen weaving, and annual folklore festivals. With roughly 6,000 residents, Kupiškis is a sanctuary of quiet beauty."
+    },
+    factsAdvanced: {
+      de: ["1529-ben említik először egy határkijelölési okmányban.", "A Kupiškis-víztározó Litvánia egyik legnagyobb mesterséges tava.", "A város neogótikus templomát az 1900-as évek elején építették.", "A helyi Palėvenė domonkos kolostor a környék egyik legfontosabb műemléke.", "A város környéke évszázadokon át a lenvászon-szövés központja volt.", "Lakossága mintegy 6 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kupiskis-cities-v2.webp",
+},  {
     id: "lithuania-zarasai-cities-v2",
     type: "city",
-    name: { de: "Zarasai", hu: "Zarasai", ro: "Zarasai", en: "Zarasai" },
+    name: { de: "Zarasai", hu: "Zarasai", ro: "Zarasai", en: "Zarasai",
+image: "/poi-images/lithuania-zarasai-cities-v2.webp"
+},
     coords: [26.25, 55.7333],
     coordinates: { lat: 55.7333, lng: 26.25 },
     description: {
@@ -741,11 +1315,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Orașul celor șapte lacuri", "Are o planificare urbană circulară", "Stațiune populară de vară", "Cel mai bătrân stejar din țară este aproape"],
       en: ["City of seven lakes", "Features a circular town planning", "Popular summer resort", "Oldest oak tree in the country nearby"],
     },
-    imageHint: "Zarasai lake panoramic view and bridge", image: "/poi-images/lithuania-zarasai-cities-v2.webp"},
-  {
+imageHint: "Zarasai lake panoramic view and bridge",
+    descriptionAdvanced: {
+      de: "Zarasai, oft liebevoll als die „Stadt der sieben Seen“ bezeichnet, liegt im äußersten Nordosten Litauens nahe der Grenze zu Lettland und Belarus. Die Stadt ist landesweit berühmt für ihre einzigartige Stadtplanung: Die Straßen sind strahlenförmig wie die halbe Sonne um einen zentralen Platz angeordnet. Zarasai ist fast vollständig von Wasser umgeben; die idyllischen Ufer des Zarasas-Sees mit ihrer modernen, kreisförmigen Aussichtsplattform, die sich hoch über das Wasser erhebt, bieten einen unvergesslichen Panoramablick. Nur wenige Kilometer entfernt steht die Stelmužė-Eiche, der älteste Baum Litauens. Als anerkannter Kurort zieht das 6.000-Einwohner-Städtchen Erholungssuchende und Naturliebhaber magisch an.",
+      hu: "Zarasai, amelyet gyakran és szeretettel a „hét tó városaként” emlegetnek, Litvánia legészakkeletibb csücskében fekszik, a lett és a fehérorosz határ közelében. A város országszerte híres különleges, félköríves várostervezéséről: az utcák sugarasan futnak szét a központi térről, mintha egy felkelő napot formáznának. Zarasait szinte teljesen víz veszi körül; a Zarasas-tó idilli partja, a víz fölé magasodó, modern, kör alakú panorámasétánnyal lenyűgöző kilátást nyújt. A várostól csupán néhány kilométerre magasodik a Stelmužė tölgy, Litvánia legöregebb, több mint ezeréves fája. Elismert üdülőhelyként a mintegy 6000 lakosú kisváros mágnesként vonzza a pihenni vágyókat és a természet szerelmeseit.",
+      ro: "Zarasai, numit adesea cu afecțiune „Orașul celor șapte lacuri”, este situat în extremitatea nord-estică a Lituaniei, aproape de granițele cu Letonia și Belarus. Orașul este faimos la nivel național pentru planificarea urbană unică: străzile sunt dispuse radial în jurul unei piețe centrale, formând o jumătate de soare. Zarasai este aproape complet înconjurat de apă; malurile idilice ale lacului Zarasas, cu platforma lor modernă de observare circulară care se înalță deasupra apei, oferă o vedere panoramică de neuitat. La doar câțiva kilometri distanță se află Stejarul Stelmužė, cel mai bătrân copac din Lituania. Fiind o stațiune recunoscută, acest orășel cu 6.000 de locuitori atrage ca un magnet pe cei care caută relaxare și iubitorii de natură.",
+      en: "Zarasai, affectionately known as the “City of Seven Lakes,” is located in the far northeastern corner of Lithuania near the borders with Latvia and Belarus. The city is famous nationwide for its unique urban planning: the streets radiate outward from a central square in a semi-circular pattern, resembling a rising sun. Zarasai is almost completely surrounded by water; the idyllic shores of Lake Zarasas, featuring a modern, circular observation walkway soaring above the water, offer unforgettable panoramic views. Just a few kilometers away stands the Stelmužė Oak, the oldest tree in Lithuania. As a recognized resort town, this community of 6,000 residents acts as a magnet for those seeking relaxation and nature lovers."
+    },
+    factsAdvanced: {
+      de: ["A „hét tó városaként” ismert, és elismert turisztikai üdülőhely.", "Különleges, sugaras (fél napot formázó) városszerkezettel rendelkezik.", "A Zarasas-tó feletti kilátósétány többszörös építészeti díjnyertes.", "A közeli Stelmužė falu tölgyfája Litvánia legöregebb fája (kb. 1500 éves).", "A lett és fehérorosz hármashatár közvetlen közelében fekszik.", "Lakossága nagyjából 6 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-zarasai-cities-v2.webp",
+},  {
     id: "lithuania-skuodas-cities-v2",
     type: "city",
-    name: { de: "Skuodas", hu: "Skuodas", ro: "Skuodas", en: "Skuodas" },
+    name: { de: "Skuodas", hu: "Skuodas", ro: "Skuodas", en: "Skuodas",
+image: "/poi-images/lithuania-skuodas-cities-v2.webp"
+},
     coords: [21.5333, 56.2667],
     coordinates: { lat: 56.2667, lng: 21.5333 },
     description: {
@@ -760,11 +1349,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1253", "Situat la granița cu Letonia", "Centru regional în Samogitia", "Oraș comercial semnificativ"],
       en: ["Founded in the year 1253", "Located on the Latvian border", "Regional center in Samogitia", "Significant trading town"],
     },
-    imageHint: "Skuodas city square and park", image: "/poi-images/lithuania-skuodas-cities-v2.webp"},
-  {
+imageHint: "Skuodas city square and park",
+    descriptionAdvanced: {
+      de: "Skuodas ist eine historische Grenzstadt im äußersten Nordwesten Litauens, tief verwurzelt in der Region Schemaitien (Žemaitija) und nur einen Steinwurf von der lettischen Grenze entfernt. Das Städtchen, das vom Fluss Bartuva durchzogen wird, kann auf eine lange Geschichte zurückblicken, deren Ursprünge bis ins Jahr 1253 reichen. Ganz in der Nähe befindet sich der Apuolė-Hügel, der Standort der ältesten urkundlich erwähnten Siedlung Litauens (853 n. Chr.), wo einst die Kuren erbitterte Schlachten gegen die Wikinger führten. Das moderne Skuodas, mit einer Bevölkerung von knapp über 5.000 Einwohnern, ist das charmante Zentrum eines weitgehend landwirtschaftlich geprägten Bezirks, das sich seine ruhige Lebensweise und seine lokalen schemaitischen Dialekte bewahrt hat.",
+      hu: "Skuodas egy történelmi határváros Litvánia legészaknyugatibb részén, amely mélyen gyökerezik a Szamogitia (Žemaitija) régióban, és csupán egy kőhajításnyira fekszik a lett határtól. A Bartuva folyó által átszelt település hosszú történelemre tekinthet vissza, melynek eredete az 1253-as évig nyúlik. A város közvetlen közelében található az Apuolė-halom, amely Litvánia legrégebbi írásos forrásokban (Kr. u. 853) említett településének helyszíne; itt a kúr törzsek egykor elkeseredett csatákat vívtak a vikingekkel. A modern, alig több mint 5000 lakosú Skuodas ma egy nagyrészt mezőgazdasági jellegű járás bájos központja, amely hűen megőrizte csendes életmódját és helyi szamogitiai dialektusát.",
+      ro: "Skuodas este un oraș istoric de graniță din nord-vestul extrem al Lituaniei, adânc înrădăcinat în regiunea Samogitia (Žemaitija) și la doar o aruncătură de băț de granița cu Letonia. Orășelul, străbătut de râul Bartuva, se poate lăuda cu o istorie lungă, ale cărei origini datează din 1253. Foarte aproape se află movila Apuolė, locul celei mai vechi așezări lituaniene menționate în documente (853 d.Hr.), unde triburile curoniene au purtat odată bătălii crâncene împotriva vikingilor. Skuodasul modern, cu o populație de puțin peste 5.000 de locuitori, este centrul fermecător al unui district în mare parte agricol, care și-a păstrat modul de viață liniștit și dialectele locale samogitiene.",
+      en: "Skuodas is a historic border town in the extreme northwest of Lithuania, deeply rooted in the Samogitia (Žemaitija) region and located just a stone's throw from the Latvian border. The town, intersected by the Bartuva River, boasts a long history with origins dating back to 1253. Very close by lies the Apuolė mound, the site of the oldest documented settlement in Lithuania (853 AD), where Curonian tribes once fought fierce battles against the Vikings. The modern Skuodas, with a population of just over 5,000, serves as the charming center of a largely agricultural district, having faithfully preserved its quiet way of life and its local Samogitian dialects."
+    },
+    factsAdvanced: {
+      de: ["1253-ban említik először Skuodas nevét a történelmi dokumentumok.", "Közvetlenül a lett határ mellett, a Bartuva folyó partján fekszik.", "A közeli Apuolė domb az első név szerint (853) említett litván település.", "Erős szamogit identitással és jól megőrzött nyelvjárással bír.", "Történelmileg fontos kereskedelmi útvonalak kereszteződése volt.", "Lakossága csupán megközelítőleg 5 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-skuodas-cities-v2.webp",
+},  {
     id: "lithuania-kazlu-ruda-cities-v2",
     type: "city",
-    name: { de: "Kazlų Rūda", hu: "Kazlų Rūda", ro: "Kazlų Rūda", en: "Kazlų Rūda" },
+    name: { de: "Kazlų Rūda", hu: "Kazlų Rūda", ro: "Kazlų Rūda", en: "Kazlų Rūda",
+image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp"
+},
     coords: [23.5, 54.75],
     coordinates: { lat: 54.75, lng: 23.5 },
     description: {
@@ -779,11 +1383,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XVIII-lea", "Centrul industriei lemnului", "Înconjurat de zone forestiere mari", "Bază feroviară importantă"],
       en: ["First mentioned in the 18th century", "Center of the wood industry", "Surrounded by vast forest areas", "Important railway base"],
     },
-    imageHint: "Kazlu Ruda railway station and forest", image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp"},
-  {
+imageHint: "Kazlu Ruda railway station and forest",
+    descriptionAdvanced: {
+      de: "Kazlų Rūda ist eine kleine, aber industriell bedeutende Stadt im Südwesten Litauens, die buchstäblich in die endlosen Waldgebiete der Region Suvalkija eingebettet ist. Die Geschichte der Stadt, die im 18. Jahrhundert begann, ist tief mit der reichen Natur ihrer Umgebung verwurzelt – insbesondere mit dem Holz und dem einst hier geförderten Eisenerz (‚Rūda‘). Der eigentliche Wachstumsschub erfolgte jedoch im 19. Jahrhundert durch den Anschluss an das internationale Eisenbahnnetz. Heute ist Kazlų Rūda vor allem als das unangefochtene Zentrum der litauischen holzverarbeitenden Industrie bekannt, unter anderem als wichtiger Standort von IKEA Industry. Die weiten Kiefernwälder, die die Stadt umgeben, sind zudem ein Paradies für Pilzsammler und Naturliebhaber.",
+      hu: "Kazlų Rūda egy apró, ám ipari szempontból kiemelkedő jelentőségű város Délnyugat-Litvániában, amely szó szerint a Suvalkija régió végtelen erdőségeibe ágyazva fekszik. A 18. században gyökerező település története szorosan összefonódik a környező természet gazdagságával – különösen a fával és az egykor itt bányászott vasérccel (‚Rūda’). A város valódi növekedési ugrását azonban a 19. században az interkontinentális vasúthálózathoz való csatlakozás hozta el. Ma Kazlų Rūda elsősorban a litván fafeldolgozó ipar vitathatatlan központjaként ismert, többek között az IKEA Industry egyik fontos bázisaként. A várost körülvevő hatalmas fenyőerdők ezenfelül valóságos paradicsomot jelentenek a gombászok és a természetbarátok számára.",
+      ro: "Kazlų Rūda este un oraș mic, dar important din punct de vedere industrial, în sud-vestul Lituaniei, situat literalmente în mijlocul pădurilor nesfârșite din regiunea Suvalkija. Istoria orașului, care a început în secolul al XVIII-lea, este adânc înrădăcinată în natura bogată a împrejurimilor sale - în special în lemnul și minereul de fier (‚Rūda’) care au fost extrase odinioară aici. Cu toate acestea, impulsul real de creștere a avut loc în secolul al XIX-lea odată cu conectarea la rețeaua feroviară internațională. Astăzi, Kazlų Rūda este cunoscut în principal ca centrul incontestabil al industriei lituaniene de prelucrare a lemnului, fiind, printre altele, o locație importantă pentru IKEA Industry. Vastele păduri de pini care înconjoară orașul sunt, de asemenea, un paradis pentru culegătorii de ciuperci și iubitorii de natură.",
+      en: "Kazlų Rūda is a small but industrially significant city in southwestern Lithuania, literally nestled within the endless forests of the Suvalkija region. The history of the city, which began in the 18th century, is deeply rooted in the rich nature of its surroundings—particularly the timber and the iron ore (‚Rūda’) that was once mined here. However, the real surge in growth occurred in the 19th century with its connection to the international railway network. Today, Kazlų Rūda is primarily known as the undisputed center of the Lithuanian wood processing industry, serving, among other things, as a major site for IKEA Industry. The vast pine forests surrounding the city also make it a paradise for mushroom foragers and nature lovers."
+    },
+    factsAdvanced: {
+      de: ["A város nevét a Kazlas családról és a helyi vasércről (rūda) kapta.", "A fafeldolgozás és a bútoripar az elsődleges gazdasági ágazata.", "A 19. századi vasútépítés jelentősen felgyorsította a növekedését.", "A várost szinte minden oldalról hatalmas kiterjedésű erdők határolják.", "A régió népszerű a túrázók és a természetfotósok körében.", "Lakossága nagyjából 5 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp",
+},  {
     id: "lithuania-sirvintos-cities-v2",
     type: "city",
-    name: { de: "Širvintos", hu: "Širvintos", ro: "Širvintos", en: "Širvintos" },
+    name: { de: "Širvintos", hu: "Širvintos", ro: "Širvintos", en: "Širvintos",
+image: "/poi-images/lithuania-sirvintos-cities-v2.webp"
+},
     coords: [24.9667, 55.05],
     coordinates: { lat: 55.05, lng: 24.9667 },
     description: {
@@ -798,11 +1417,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Centru administrativ", "Producție textilă semnificativă", "Aproape de autostrada A2"],
       en: ["Founded in the 14th century", "Administrative center", "Significant textile production", "Located near the A2 highway"],
     },
-    imageHint: "Sirvintos city park and river", image: "/poi-images/lithuania-sirvintos-cities-v2.webp"},
-  {
+imageHint: "Sirvintos city park and river",
+    descriptionAdvanced: {
+      de: "Širvintos ist das administrative Zentrum der gleichnamigen Rajongemeinde im Osten Litauens und liegt idyllisch am Fluss Širvinta, der der Stadt ihren Namen gab. Ihre Geschichte reicht bis ins 14. Jahrhundert zurück, als sie erstmals urkundlich erwähnt wurde. Die Stadt profitiert enorm von ihrer strategisch hervorragenden Lage direkt an der Autobahn A2, die auf halber Strecke die Hauptstadt Vilnius mit Panevėžys verbindet. Diese Nähe zur Hauptstadt hat Širvintos zu einem attraktiven Standort für mittelständische Unternehmen und die Textilindustrie gemacht. Die Stadt zeichnet sich durch gepflegte Grünanlagen, einen malerischen kleinen Stausee im Zentrum und die auffällige rote Backsteinkirche des Erzengels Michael aus dem 19. Jahrhundert aus.",
+      hu: "Širvintos a kelet-litvániai, azonos nevű járás közigazgatási központja, amely idillien fekszik a névadó Širvinta folyó partján. Története a 14. századig nyúlik vissza, ekkor említik először az okiratok. A város óriási hasznot húz kiváló stratégiai fekvéséből, hiszen közvetlenül az A2-es autópálya mentén helyezkedik el, nagyjából félúton a főváros, Vilnius és Panevėžys között. A főváros közelsége Širvintost vonzó célponttá tette a középvállalkozások és a textilipar számára. A települést gondozott zöldövezetek, a városközpontban található festői kis víztározó, valamint a 19. században épült, figyelemfelkeltő, vöröstéglás Mihály arkangyal-templom teszi vonzóvá a látogatók számára.",
+      ro: "Širvintos este centrul administrativ al districtului cu același nume din estul Lituaniei și este situat idilic pe râul Širvinta, care a dat numele orașului. Istoria sa datează din secolul al XIV-lea, când a fost menționat pentru prima dată în documente. Orașul beneficiază enorm de pe urma locației sale strategice excelente, chiar pe autostrada A2, la jumătatea distanței dintre capitala Vilnius și Panevėžys. Această proximitate față de capitală a făcut din Širvintos o locație atractivă pentru întreprinderile mijlocii și pentru industria textilă. Orașul se caracterizează prin spații verzi bine întreținute, un mic rezervor pitoresc în centru și o frapantă biserică din cărămidă roșie a Arhanghelului Mihail din secolul al XIX-lea.",
+      en: "Širvintos is the administrative center of the eponymous district municipality in eastern Lithuania, idyllically situated on the Širvinta River, which gives the town its name. Its history dates back to the 14th century when it was first mentioned in historical documents. The city benefits enormously from its outstanding strategic location right along the A2 highway, halfway between the capital, Vilnius, and Panevėžys. This proximity to the capital has made Širvintos an attractive location for medium-sized businesses and the textile industry. The town is characterized by well-maintained green spaces, a picturesque small reservoir in the center, and the striking 19th-century red-brick Church of St. Michael the Archangel."
+    },
+    factsAdvanced: {
+      de: ["Első írásos említése a 14. század végére tehető.", "Nevét az ott átfolyó Širvinta folyóról kapta.", "Közvetlenül az A2-es (Vilnius–Panevėžys) autópálya mellett fekszik.", "A Mihály arkangyal-templom neogótikus vöröstéglás épület.", "A város központját egy szép, mesterséges tó (víztározó) díszíti.", "Lakossága hozzávetőlegesen 5 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-sirvintos-cities-v2.webp",
+},  {
     id: "lithuania-moletai-cities-v2",
     type: "city",
-    name: { de: "Molėtai", hu: "Molėtai", ro: "Molėtai", en: "Molėtai" },
+    name: { de: "Molėtai", hu: "Molėtai", ro: "Molėtai", en: "Molėtai",
+image: "/poi-images/lithuania-moletai-cities-v2.webp"
+},
     coords: [25.4167, 55.2333],
     coordinates: { lat: 55.2333, lng: 25.4167 },
     description: {
@@ -817,11 +1451,27 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1387", "Poarta către regiunea lacurilor", "Locația unui observator", "Cunoscut pentru Muzeul de Cosmologie"],
       en: ["Founded in the year 1387", "Gateway to the lake district", "Site of an astronomical observatory", "Known for the cosmology museum"],
     },
-    imageHint: "Moletai ethnocosmology museum architecture", image: "/poi-images/lithuania-moletai-cities-v2.webp"},
-  {
+imageHint: "Moletai ethnocosmology museum architecture",
+    descriptionAdvanced: {
+      de: "Molėtai ist ein bezauberndes Städtchen im Osten Litauens und das unumstrittene Herz der litauischen Seenplatte, das von über 200 funkelnden Seen umgeben ist. Die 1387 vom litauischen Großfürsten Jogaila gegründete Siedlung ist heute eines der beliebtesten Sommer- und Wochenendziele für die Einwohner von Vilnius. Molėtais größter Stolz liegt jedoch hoch oben in den Sternen: In der Nähe der Stadt befinden sich das Nationale Astronomische Observatorium von Litauen und das außergewöhnliche Litauische Museum für Ethnokosmologie. Dieses einzigartige Museum, dessen Architektur an ein gelandetes Raumschiff erinnert, erforscht die spirituelle und wissenschaftliche Beziehung der Menschheit zum Kosmos. Mit etwa 5.500 Einwohnern bietet Molėtai eine perfekte Mischung aus Sternenbeobachtung und unberührter Natur.",
+      hu: "Molėtai egy elbűvölő kisváros Kelet-Litvániában, és a litván tóvidék vitathatatlan szíve, amelyet több mint 200 csillogó tó vesz körül. A Jogaila litván nagyfejedelem által 1387-ben alapított település ma a vilniusiak egyik legnépszerűbb nyári és hétvégi úti célja. Molėtai legnagyobb büszkesége azonban magasan, a csillagok között keresendő: a város közelében található a Litván Nemzeti Csillagvizsgáló és a rendkívüli Litván Etnokozmológiai Múzeum. Ez az egyedülálló, földet ért űrhajóra emlékeztető építészeti formájú múzeum az emberiség és a kozmosz spirituális, valamint tudományos kapcsolatát kutatja. A mintegy 5500 lakosú Molėtai a csillagvizsgálás és az érintetlen természet tökéletes ötvözetét nyújtja.",
+      ro: "Molėtai este un oraș fermecător din estul Lituaniei și inima de necontestat a districtului lacurilor lituaniene, fiind înconjurat de peste 200 de lacuri strălucitoare. Așezarea, fondată în 1387 de Marele Duce lituanian Jogaila, este astăzi una dintre cele mai populare destinații de vară și de weekend pentru locuitorii din Vilnius. Cea mai mare mândrie a orașului Molėtai se află însă sus, în stele: în apropierea orașului se află Observatorul Astronomic Național al Lituaniei și extraordinarul Muzeu Lituanian de Etnocosmologie. Acest muzeu unic, a cărui arhitectură amintește de o navă spațială aterizată, explorează relația spirituală și științifică a umanității cu cosmosul. Cu aproximativ 5.500 de locuitori, Molėtai oferă o fuziune perfectă între observarea stelelor și natura curată.",
+      en: "",
+      en: "Molėtai is an enchanting small town in eastern Lithuania and the undisputed heart of the Lithuanian lake district, surrounded by over 200 sparkling lakes. Founded in 1387 by the Lithuanian Grand Duke Jogaila, the settlement is today one of the most popular summer and weekend getaway destinations for the residents of Vilnius. Molėtai's greatest pride, however, lies high up in the stars: located near the town are the National Astronomical Observatory of Lithuania and the extraordinary Lithuanian Museum of Ethnocosmology. This unique museum, whose architecture resembles a landed spaceship, explores humanity's spiritual and scientific relationship with the cosmos. With about 5,500 residents, Molėtai offers a perfect blend of stargazing and pristine nature."
+    },
+    factsAdvanced: {
+      de: ["1387-ben Jogaila litván nagyfejedelem és lengyel király alapította.", "Több mint 200 tó található a Molėtai járás területén.", "Az Etnokozmológiai Múzeum egyedülálló intézmény Európában.", "Az itteni csillagvizsgáló Litvánia legfontosabb asztronómiai bázisa.", "Népszerű ökoturisztikai célpont a fővárosiak körében.", "Lakossága nagyjából 5 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-moletai-cities-v2.webp",
+},  {
     id: "lithuania-salcininkai-cities-v2",
     type: "city",
-    name: { de: "Šalčininkai", hu: "Šalčininkai", ro: "Šalčininkai", en: "Šalčininkai" },
+    name: { de: "Šalčininkai", hu: "Šalčininkai", ro: "Šalčininkai", en: "Šalčininkai",
+image: "/poi-images/lithuania-salcininkai-cities-v2.webp"
+},
     coords: [25.3833, 54.3],
     coordinates: { lat: 54.3, lng: 25.3833 },
     description: {
@@ -836,11 +1486,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XIV-lea", "Comunitate poloneză semnificativă", "Centrul administrativ al districtului", "Aproape de granița cu Belarus"],
       en: ["First mentioned in the 14th century", "Significant Polish community", "Administrative center of the district", "Near the Belarusian border"],
     },
-    imageHint: "Salcininkai manor house and park", image: "/poi-images/lithuania-salcininkai-cities-v2.webp"},
-  {
+imageHint: "Salcininkai manor house and park",
+    descriptionAdvanced: {
+      de: "Šalčininkai ist eine faszinierende, multikulturelle Stadt im äußersten Südosten Litauens, die sich unmittelbar an der Grenze zu Belarus befindet. Die Stadt, die im 14. Jahrhundert erstmals urkundlich erwähnt wurde, ist das administrative Zentrum einer Region, in der die polnische Minderheit die absolute Mehrheit der Bevölkerung bildet, was Šalčininkai einen einzigartigen kulturellen und sprachlichen Charakter verleiht. Gelegen am malerischen Fluss Šalčia, zeichnet sich das Stadtbild durch das elegante Šalčininkai-Herrenhaus aus dem 19. Jahrhundert aus, das von einem klassischen Park umgeben ist und heute als Kunst- und Musikschule dient. Das rund 6.500 Einwohner zählende Städtchen ist ein Symbol für das harmonische Zusammenleben verschiedener Kulturen in der Grenzregion.",
+      hu: "Šalčininkai egy lenyűgöző, multikulturális város Litvánia legdélkeletibb részén, közvetlenül a fehérorosz határ mellett. A 14. században először említett település egy olyan járás közigazgatási központja, ahol a lengyel kisebbség alkotja a lakosság abszolút többségét, ami egyedülálló kulturális és nyelvi karaktert kölcsönöz Šalčininkainak. A festői Šalčia folyó partján fekvő városképet a 19. századi elegáns Šalčininkai-kúria határozza meg, amelyet egy klasszikus park vesz körül, és amely ma művészeti és zeneiskolaként működik. A mintegy 6500 lakosú kisváros a különböző kultúrák harmonikus együttélésének szimbóluma ebben a különleges határ menti régióban.",
+      ro: "Šalčininkai este un oraș fascinant și multicultural din sud-estul extrem al Lituaniei, situat chiar la granița cu Belarus. Orașul, menționat pentru prima dată în documente în secolul al XIV-lea, este centrul administrativ al unei regiuni în care minoritatea poloneză formează majoritatea absolută a populației, ceea ce conferă orașului Šalčininkai un caracter cultural și lingvistic unic. Situat pe pitorescul râu Šalčia, peisajul urban este caracterizat de elegantul Conac Šalčininkai din secolul al XIX-lea, înconjurat de un parc clasic și care servește astăzi drept școală de artă și muzică. Orășelul de aproximativ 6.500 de locuitori este un simbol al coexistenței armonioase a diferitelor culturi în regiunea de frontieră.",
+      en: "Šalčininkai is a fascinating, multicultural city in the extreme southeast of Lithuania, located right on the border with Belarus. First documented in the 14th century, the city is the administrative center of a region where the Polish minority constitutes the absolute majority of the population, giving Šalčininkai a unique cultural and linguistic character. Situated on the picturesque Šalčia River, the cityscape is highlighted by the elegant 19th-century Šalčininkai Manor, which is surrounded by a classic park and today serves as a school of art and music. The small town of about 6,500 residents stands as a symbol of the harmonious coexistence of different cultures in this border region."
+    },
+    factsAdvanced: {
+      de: ["A járás lakosságának több mint 70%-a lengyel nemzetiségű.", "Közvetlenül az európai uniós, fehérorosz külső határ mentén fekszik.", "A történelmi Šalčininkai-kúria a 19. század végén nyerte el mai formáját.", "Nevét a mellette folyó Šalčia (Hideg) folyóról kapta.", "Adam Mickiewicz híres lengyel költő is járt a környéken.", "Lakossága hozzávetőlegesen 6 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-salcininkai-cities-v2.webp",
+},  {
     id: "lithuania-sakiai-cities-v2",
     type: "city",
-    name: { de: "Šakiai", hu: "Šakiai", ro: "Šakiai", en: "Šakiai" },
+    name: { de: "Šakiai", hu: "Šakiai", ro: "Šakiai", en: "Šakiai",
+image: "/poi-images/lithuania-sakiai-cities-v2.webp"
+},
     coords: [23.0333, 54.95],
     coordinates: { lat: 54.95, lng: 23.0333 },
     description: {
@@ -855,11 +1520,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Centrul regiunii Suvalkija", "Locație agricolă importantă", "Festivaluri regulate de carillon"],
       en: ["Founded in the 16th century", "Center of the Suvalkija region", "Important agricultural site", "Regular carillon music festivals"],
     },
-    imageHint: "Sakiai city square and park", image: "/poi-images/lithuania-sakiai-cities-v2.webp"},
-  {
+imageHint: "Sakiai city square and park",
+    descriptionAdvanced: {
+      de: "Šakiai ist eine ruhige und traditionell geprägte Stadt im Westen Litauens, die als inoffizielles Zentrum der historischen Unterregion Zanavykija (einem Teil von Suvalkija) gilt. Die Stadt, die im 16. Jahrhundert entstand, ist landesweit bekannt für ihre tiefen landwirtschaftlichen Wurzeln und ihr reiches volkstümliches Erbe. Die Einwohner, die sogenannten Zanavykai, sind stolz auf ihren markanten Dialekt und ihre farbenfrohen Trachten. Das Zentrum der Stadt wird von der St.-Johannes-der-Täufer-Kirche sowie dem modernen Glockenspiel (Carillon) dominiert, das regelmäßig Besucher zu musikalischen Festen anlockt. Mit knapp 6.000 Einwohnern ist Šakiai ein friedlicher Ort, der sich ideal eignet, um das ländliche, unberührte Litauen abseits der großen Städte kennenzulernen.",
+      hu: "Šakiai egy csendes és hagyományőrző kisváros Nyugat-Litvániában, amelyet a történelmi Zanavykija kistérség (Suvalkija része) nem hivatalos központjaként tartanak számon. A 16. században kialakult település országszerte híres mély mezőgazdasági gyökereiről és gazdag népi örökségéről. A lakosok, az úgynevezett zanavykai-ok különösen büszkék jellegzetes nyelvjárásukra és színpompás népviseletükre. A városközpontot a Keresztelő Szent János-templom, valamint a modern harangjáték (carillon) uralja, amely rendszeresen vonzza a látogatókat a helyi zenei fesztiválokra. A mintegy 6000 lakosú Šakiai egy békés menedék, amely tökéletes kiindulópont a vidékies, érintetlen Litvánia felfedezéséhez, távol a nyüzsgő nagyvárosoktól.",
+      ro: "Šakiai este un oraș liniștit și tradițional din vestul Lituaniei, considerat centrul neoficial al subregiunii istorice Zanavykija (o parte a regiunii Suvalkija). Orașul, care a apărut în secolul al XVI-lea, este cunoscut la nivel național pentru rădăcinile sale agricole profunde și pentru bogata sa moștenire folclorică. Locuitorii, numiți zanavykai, sunt mândri de dialectul lor distinctiv și de costumele populare colorate. Centrul orașului este dominat de Biserica Sfântul Ioan Botezătorul și de carillonul modern, care atrage în mod regulat vizitatori la festivalurile muzicale. Cu puțin sub 6.000 de locuitori, Šakiai este un loc pașnic, ideal pentru a experimenta Lituania rurală, nealterată, departe de marile orașe.",
+      en: "Šakiai is a quiet and highly traditional town in western Lithuania, considered the unofficial center of the historic Zanavykija sub-region (a part of Suvalkija). Emerging in the 16th century, the town is known nationwide for its deep agricultural roots and rich folkloric heritage. The local residents, known as Zanavykai, take immense pride in their distinctive dialect and colorful traditional costumes. The town center is dominated by the St. John the Baptist Church as well as a modern carillon, which regularly draws visitors to local musical festivals. With just under 6,000 residents, Šakiai is a peaceful haven, perfectly suited for discovering rural, pristine Lithuania away from the bustling major cities."
+    },
+    factsAdvanced: {
+      de: ["A 16. században kezdett el kialakulni egy erdei irtáson.", "A Zanavykija nevű néprajzi kistérség kulturális fővárosa.", "Országszerte híres a modern városi harangjátékáról (carillon).", "A lakosság főleg a kiterjedt mezőgazdaságból él.", "A város környéke Litvánia legtermékenyebb síkságai közé tartozik.", "Lakossága nagyjából 5 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-sakiai-cities-v2.webp",
+},  {
     id: "lithuania-kybartai-cities-v2",
     type: "city",
-    name: { de: "Kybartai", hu: "Kybartai", ro: "Kybartai", en: "Kybartai" },
+    name: { de: "Kybartai", hu: "Kybartai", ro: "Kybartai", en: "Kybartai",
+image: "/poi-images/lithuania-kybartai-cities-v2.webp"
+},
     coords: [22.75, 54.6333],
     coordinates: { lat: 54.6333, lng: 22.75 },
     description: {
@@ -874,11 +1554,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Oraș de frontieră important", "Nod feroviar semnificativ", "Locul de naștere al pictorului Levitan"],
       en: ["Founded in the 19th century", "Important border town", "Significant railway junction", "Birthplace of painter Levitan"],
     },
-    imageHint: "Kybartai railway border crossing", image: "/poi-images/lithuania-kybartai-cities-v2.webp"},
-  {
+imageHint: "Kybartai railway border crossing",
+    descriptionAdvanced: {
+      de: "Kybartai ist eine der wichtigsten Grenzstädte im äußersten Südwesten Litauens und fungiert als direktes Tor zur russischen Exklave Kaliningrad. Der wirtschaftliche Aufstieg der Stadt im 19. Jahrhundert war das direkte Resultat der Anbindung an die strategische Eisenbahnlinie St. Petersburg–Eydtkuhnen (Ostpreußen). Dadurch entwickelte sich Kybartai zu einem blühenden Zoll- und Handelszentrum. Architektonisch sticht die imposante neorenaissancistische Eucharistie-Erlöserkirche hervor, unter der sich riesige, gewölbte Gewölbekeller befinden, die einst als Zolllager dienten. International bekannt ist die Stadt zudem als Geburtsort des berühmten Landschaftsmalers Isaak Lewitan. Mit knapp 5.000 Einwohnern bleibt Kybartai ein bedeutender Transitpunkt und ein lebendiges Stück Eisenbahngeschichte.",
+      hu: "Kybartai az egyik legfontosabb határváros Litvánia legdélnyugatibb részén, amely közvetlen kapuként szolgál az oroszországi Kalinyingrádi exklávé felé. A település 19. századi gazdasági felemelkedése egyértelműen a Szentpétervár–Eydtkuhnen (Kelet-Poroszország) stratégiai vasútvonalhoz való csatlakozás eredménye volt, ami a várost virágzó vám- és kereskedelmi központtá tette. Építészetileg kiemelkedik az impozáns, neoreneszánsz stílusú Eucharisztikus Megváltó-templom, amely alatt hatalmas, boltozatos pincerendszer húzódik; ezt egykor vámraktárként használták. A város nemzetközileg is ismert, mint a világhírű tájképfestő, Iszaak Levitan szülőhelye. A mintegy 5000 lakosú Kybartai ma is jelentős tranzitpont és az élő vasúttörténelem része.",
+      ro: "Kybartai este unul dintre cele mai importante orașe de graniță din extremitatea sud-vestică a Lituaniei, acționând ca o poartă directă către exclava rusă Kaliningrad. Ascensiunea economică a orașului în secolul al XIX-lea a fost rezultatul direct al conectării la linia strategică de cale ferată Sankt Petersburg-Eydtkuhnen (Prusia Orientală). Ca urmare, Kybartai s-a transformat într-un centru vamal și comercial înfloritor. Din punct de vedere arhitectural, iese în evidență impunătoarea Biserică Mântuitorul Euharistic în stil neorenascentist, sub care se află pivnițe uriașe, boltite, care au servit odinioară ca depozit vamal. Orașul este, de asemenea, cunoscut la nivel internațional ca locul de naștere al celebrului pictor peisagist Isaac Levitan. Cu aproape 5.000 de locuitori, Kybartai rămâne un punct de tranzit vital.",
+      en: "Kybartai is one of the most critical border towns in the extreme southwest of Lithuania, serving as a direct gateway to the Russian exclave of Kaliningrad. The town's economic rise in the 19th century was the direct result of its connection to the strategic Saint Petersburg–Eydtkuhnen (East Prussia) railway line. This transformed Kybartai into a thriving customs and commercial hub. Architecturally, the town is noted for the imposing Neo-Renaissance Eucharistic Savior Church, beneath which lie massive vaulted cellars once used as customs warehouses. Internationally, the town is recognized as the birthplace of the renowned landscape painter Isaac Levitan. With nearly 5,000 residents, Kybartai remains a vital transit point and a living piece of railway history."
+    },
+    factsAdvanced: {
+      de: ["Litvánia legfontosabb nyugati határátkelője a Kalinyingrádi terület felé.", "Iszaak Levitan világhírű orosz-zsidó tájképfestő szülőhelye (1860).", "A város fejlődését a Szentpétervár–Varsó–Poroszország vasútvonal indította el.", "A helyi templom alatt Litvánia egyik legnagyobb épített pincerendszere található.", "Erős tranzit és logisztikai gazdasággal bír.", "Lakossága nagyjából 4 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kybartai-cities-v2.webp",
+},  {
     id: "lithuania-pabrade-cities-v2",
     type: "city",
-    name: { de: "Pabradė", hu: "Pabradė", ro: "Pabradė", en: "Pabradė" },
+    name: { de: "Pabradė", hu: "Pabradė", ro: "Pabradė", en: "Pabradė",
+image: "/poi-images/lithuania-pabrade-cities-v2.webp"
+},
     coords: [25.7667, 54.9833],
     coordinates: { lat: 54.9833, lng: 25.7667 },
     description: {
@@ -893,11 +1588,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Locație militară semnificativă", "Situat pe râul Žeimena", "Nod feroviar istoric"],
       en: ["Founded in the 15th century", "Significant military location", "Located on the Žeimena River", "Historic railway junction"],
     },
-    imageHint: "Pabrade bridge and pine forest", image: "/poi-images/lithuania-pabrade-cities-v2.webp"},
-  {
+imageHint: "Pabrade bridge and pine forest",
+    descriptionAdvanced: {
+      de: "Pabradė ist eine multikulturelle Kleinstadt im Osten Litauens, malerisch gelegen am Ufer der Žeimena, einem beliebten Fluss für Kanufahrer. Im 15. Jahrhundert gegründet, erlebte die Stadt ihren größten Aufschwung während des Baus der St.-Petersburg-Warschau-Eisenbahn im 19. Jahrhundert. Landesweit ist Pabradė heute jedoch weniger für seine Eisenbahnvergangenheit als vielmehr für seine militärische Bedeutung bekannt: In unmittelbarer Nähe befindet sich einer der größten und modernsten Truppenübungsplätze der litauischen Streitkräfte und der NATO. Die Stadt selbst, umgeben von dichten Pinienwäldern, ist ein friedlicher Schmelztiegel, in dem litauische, polnische und russische Gemeinschaften zusammenleben. Pabradė hat etwa 5.500 Einwohner.",
+      hu: "Pabradė egy multikulturális kisváros Kelet-Litvániában, amely festői környezetben fekszik a kajakosok körében népszerű Žeimena folyó partján. A 15. században alapított település legnagyobb fellendülését a Szentpétervár–Varsó vasútvonal 19. századi megépítése hozta el. Országszerte azonban ma Pabradė nem annyira a vasúti múltjáról, mint inkább katonai jelentőségéről ismert: a város közvetlen közelében található a litván fegyveres erők és a NATO egyik legnagyobb és legkorszerűbb gyakorlótere. Maga a sűrű fenyőerdőkkel övezett városka egy békés kulturális olvasztótégely, ahol litván, lengyel és orosz közösségek élnek együtt harmóniában. Pabradė lakossága nagyjából 5500 fő.",
+      ro: "Pabradė este un mic oraș multicultural din estul Lituaniei, situat pitoresc pe malul râului Žeimena, un râu popular printre canoiști. Fondat în secolul al XV-lea, orașul a cunoscut cel mai mare avânt în timpul construcției căii ferate Sankt Petersburg-Varșovia în secolul al XIX-lea. Astăzi, însă, Pabradė este cunoscut la nivel național nu atât pentru trecutul său feroviar, cât pentru importanța sa militară: în imediata vecinătate se află unul dintre cele mai mari și mai moderne terenuri de antrenament militar ale Forțelor Armate Lituaniene și ale NATO. Orașul în sine, înconjurat de păduri dense de pini, este un creuzet pașnic în care coexistă comunitățile lituaniană, poloneză și rusă. Pabradė are aproximativ 5.500 de locuitori.",
+      en: "Pabradė is a multicultural small town in eastern Lithuania, picturesquely situated on the banks of the Žeimena, a river highly popular among canoeists. Founded in the 15th century, the town experienced its greatest boom during the construction of the Saint Petersburg–Warsaw railway in the 19th century. Nationwide, however, Pabradė is known today not so much for its railway past, but for its military significance: located in its immediate vicinity is one of the largest and most modern military training grounds used by the Lithuanian Armed Forces and NATO. The town itself, surrounded by dense pine forests, is a peaceful melting pot where Lithuanian, Polish, and Russian communities coexist harmoniously. Pabradė has a population of approximately 5,500."
+    },
+    factsAdvanced: {
+      de: ["A várost a 15. század végén említik először okiratok.", "A Žeimena és a Dubinga folyók találkozásánál fekszik.", "A Pabradėi Központi Gyakorlótér a litván hadsereg és a NATO bázisa.", "Lakosságának jelentős része lengyel és orosz származású.", "Népszerű a kajakosok és természetjárók körében.", "Lakossága hozzávetőlegesen 5 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-pabrade-cities-v2.webp",
+},  {
     id: "lithuania-silale-cities-v2",
     type: "city",
-    name: { de: "Šilalė", hu: "Šilalė", ro: "Šilale", en: "Šilalė" },
+    name: { de: "Šilalė", hu: "Šilalė", ro: "Šilale", en: "Šilalė",
+image: "/poi-images/lithuania-silale-cities-v2.webp"
+},
     coords: [22.1833, 55.4833],
     coordinates: { lat: 55.4833, lng: 22.1833 },
     description: {
@@ -912,11 +1622,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Centru al regiunii Samogitia", "Reședință administrativă", "Cadru natural deluros"],
       en: ["Founded in the 16th century", "Center of the Samogitia region", "Administrative seat", "Hilly surroundings"],
     },
-    imageHint: "Silale church and central park", image: "/poi-images/lithuania-silale-cities-v2.webp"},
-  {
+imageHint: "Silale church and central park",
+    descriptionAdvanced: {
+      de: "Šilalė ist eine charmante und ruhige Kleinstadt in der Region Schemaitien im Westen Litauens. Die Stadt, die im 16. Jahrhundert erstmals erwähnt wurde, fungiert als administratives und kulturelles Zentrum des gleichnamigen Bezirks. Die umliegende Landschaft ist geprägt von den sanften, typisch schemaitischen Hügeln, die zu ausgedehnten Spaziergängen und Erkundungen einladen. Ein besonderes architektonisches Highlight ist die beeindruckende neugotische Franz-von-Assisi-Kirche im Stadtzentrum, die mit ihren leuchtend roten Backsteinen das Stadtbild dominiert. Trotz ihrer geringen Größe – knapp über 5.000 Einwohner – pflegt Šilalė starke kulturelle Traditionen, eine tiefe Verbundenheit zur regionalen Sprache und ein lebendiges Gemeinschaftsgefühl abseits der großen Verkehrsadern.",
+      hu: "Šilalė egy bájos és nyugodt kisváros a nyugat-litvániai Szamogitia régióban. A 16. században először említett település az azonos nevű járás közigazgatási és kulturális központjaként működik. A környező tájat a tipikus szamogitiai, lankás dombok határozzák meg, amelyek hosszú sétákra és felfedezésre hívogatnak. A város egyik különleges építészeti fénypontja az impozáns, neogótikus stílusú Assisi Szent Ferenc-templom, amely élénk vörös tégláival uralja a városközpont képét. Bár a település kis méretű – alig több mint 5000 lakost számlál –, Šilalė erős kulturális hagyományokat, a regionális nyelvjárás iránti mély elkötelezettséget és élénk közösségi életet ápol, távol a nagy közlekedési ütőerektől.",
+      ro: "Šilalė este un mic oraș fermecător și liniștit din regiunea Samogitia, în vestul Lituaniei. Orașul, menționat pentru prima dată în secolul al XVI-lea, funcționează ca centru administrativ și cultural al districtului cu același nume. Peisajul înconjurător este caracterizat de dealurile blânde, tipice Samogitiei, care te invită la plimbări lungi și explorări. Un punct de atracție arhitectural deosebit este impresionanta biserică neogotică Sfântul Francisc de Assisi din centrul orașului, care domină peisajul urban cu cărămizile sale roșii strălucitoare. În ciuda dimensiunilor sale reduse – puțin peste 5.000 de locuitori – Šilalė cultivă tradiții culturale puternice, o legătură profundă cu limba regională și un sentiment vibrant de comunitate.",
+      en: "Šilalė is a charming and tranquil small town in the Samogitia region of western Lithuania. First mentioned in the 16th century, the town serves as the administrative and cultural center of the district of the same name. The surrounding landscape is characterized by the gentle, rolling hills typical of Samogitia, inviting visitors for long walks and exploration. A special architectural highlight is the impressive Neo-Gothic St. Francis of Assisi Church in the town center, which dominates the cityscape with its vibrant red bricks. Despite its small size—just over 5,000 residents—Šilalė cultivates strong cultural traditions, a deep devotion to the regional dialect, and a vibrant sense of community, far removed from major traffic arteries."
+    },
+    factsAdvanced: {
+      de: ["Első írásos említése egy 1533-as oklevélben található.", "Szamogitia (Žemaitija) dombvidékének szívében helyezkedik el.", "Az Assisi Szent Ferenc-templom a város legmagasabb épülete.", "Számos történelmi pogány halomsír (piliakalnis) található a környékén.", "A helyiek erősen őrzik a szamogit dialektust.", "Lakossága nagyjából 5 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-silale-cities-v2.webp",
+},  {
     id: "lithuania-ignalina-cities-v2",
     type: "city",
-    name: { de: "Ignalina", hu: "Ignalina", ro: "Ignalina", en: "Ignalina" },
+    name: { de: "Ignalina", hu: "Ignalina", ro: "Ignalina", en: "Ignalina",
+image: "/poi-images/lithuania-ignalina-cities-v2.webp"
+},
     coords: [26.1667, 55.3333],
     coordinates: { lat: 55.3333, lng: 26.1667 },
     description: {
@@ -931,11 +1656,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Centrul sporturilor de iarnă", "Situat într-un parc național", "Înconjurat de multe lacuri", "Orașul care a dat numele centralei nucleare"],
       en: ["Center of winter sports", "Located in a national park", "Surrounded by many lakes", "Gave its name to the nuclear power plant"],
     },
-    imageHint: "Ignalina winter sports center and lake", image: "/poi-images/lithuania-ignalina-cities-v2.webp"},
-  {
+imageHint: "Ignalina winter sports center and lake",
+    descriptionAdvanced: {
+      de: "Ignalina ist ein malerischer Ferienort im Osten Litauens, der oft als das pulsierende Tor zum Nationalpark Aukštaitija betrachtet wird. Die 1810 erstmals erwähnte Stadt liegt idyllisch inmitten einer Landschaft, die von dichten Wäldern und nicht weniger als neun wunderschönen Seen durchzogen ist. Während Ignalina im Sommer ein Paradies für Wassersportler, Schwimmer und Wanderer darstellt, verwandelt sich die Stadt in den kälteren Monaten in das nationale Zentrum des litauischen Wintersports. Das Litauische Wintersportzentrum bietet hervorragende Bedingungen für Skilanglauf und Biathlon. Ein interessanter historischer Fakt: Obwohl das berühmte Kernkraftwerk Ignalina den Namen der Stadt trägt, befand es sich tatsächlich in der benachbarten Planstadt Visaginas.",
+      hu: "Ignalina egy festői fekvésű üdülőváros Kelet-Litvániában, amelyet gyakran az Aukštaitija Nemzeti Park lüktető kapujának is neveznek. Az 1810-ben először említett város idillien helyezkedik el egy sűrű erdőkkel és nem kevesebb, mint kilenc gyönyörű tóval tarkított táj kellős közepén. Míg nyáron Ignalina valóságos paradicsom a vízi sportok szerelmesei, az úszók és a túrázók számára, a hidegebb hónapokban a litván téli sportok országos központjává változik át. A Litván Téli Sportközpont kiváló feltételeket biztosít a sífutáshoz és a biatlonhoz. Érdekesség: bár a híres Ignalina atomerőmű a város nevét viseli, valójában a szomszédos Visaginas tervezett városában épült fel.",
+      ro: "Ignalina este un oraș-stațiune pitoresc din estul Lituaniei, considerat adesea poarta vibrantă de intrare în Parcul Național Aukštaitija. Orașul, menționat pentru prima dată în 1810, este situat idilic în mijlocul unui peisaj brăzdat de păduri dense și nu mai puțin de nouă lacuri frumoase. În timp ce vara Ignalina este un paradis pentru iubitorii de sporturi nautice, înotători și excursioniști, în lunile mai reci orașul se transformă în centrul național al sporturilor de iarnă lituaniene. Centrul Lituanian de Sporturi de Iarnă oferă condiții excelente pentru schi fond și biatlon. Un fapt istoric interesant: deși faimoasa centrală nucleară Ignalina poartă numele orașului, aceasta a fost de fapt construită în orașul vecin planificat, Visaginas.",
+      en: "Ignalina is a picturesque resort town in eastern Lithuania, often considered the vibrant gateway to the Aukštaitija National Park. First mentioned in 1810, the town is idyllically situated amidst a landscape intersected by dense forests and no fewer than nine beautiful lakes. While Ignalina is a paradise for water sports enthusiasts, swimmers, and hikers in the summer, it transforms into the national hub of Lithuanian winter sports during the colder months. The Lithuanian Winter Sports Center provides excellent conditions for cross-country skiing and biathlon. An interesting historical fact: although the famous Ignalina Nuclear Power Plant bears the town's name, it was actually located in the neighboring planned city of Visaginas."
+    },
+    factsAdvanced: {
+      de: ["1810-ben említik először, fejlődését a vasútépítés indította el.", "Kilenc tó veszi körül magát a várost.", "A Litván Téli Sportközpont a biatlonosok és sífutók fő bázisa.", "Az Aukštaitija Nemzeti Park igazgatósága a közelben található.", "Az atomerőművet róla nevezték el, bár 40 km-re fekszik innen.", "Lakossága nagyjából 4 800 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-ignalina-cities-v2.webp",
+},  {
     id: "lithuania-nemencine-cities-v2",
     type: "city",
-    name: { de: "Nemenčinė", hu: "Nemenčinė", ro: "Nemenčinė", en: "Nemenčinė" },
+    name: { de: "Nemenčinė", hu: "Nemenčinė", ro: "Nemenčinė", en: "Nemenčinė",
+image: "/poi-images/lithuania-nemencine-cities-v2.webp"
+},
     coords: [25.4667, 54.85],
     coordinates: { lat: 54.85, lng: 25.4667 },
     description: {
@@ -950,11 +1690,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XIV-lea", "Situat la nord-est de Vilnius", "Înconjurat de păduri de pini", "Minoritate poloneză semnificativă"],
       en: ["First mentioned in the 14th century", "Located northeast of Vilnius", "Surrounded by pine forests", "Significant Polish minority"],
     },
-    imageHint: "Nemencine bridge over Neris river", image: "/poi-images/lithuania-nemencine-cities-v2.webp"},
-  {
+imageHint: "Nemencine bridge over Neris river",
+    descriptionAdvanced: {
+      de: "Nemenčinė ist eine ruhige, naturnahe Stadt im Nordosten der Hauptstadt Vilnius, die sich perfekt an den malerischen Zusammenfluss der Flüsse Neris und Nemenčia schmiegt. Der Ort gehört zu den ältesten Siedlungen des Landes und wurde bereits 1338 urkundlich erwähnt. Nemenčinė ist umgeben von dichten, weitläufigen Pinienwäldern, die nicht nur für saubere Luft sorgen, sondern die Stadt auch zu einem beliebten Naherholungsgebiet für gestresste Hauptstädter machen. Kulturell zeichnet sich die 5.000-Einwohner-Stadt durch ihre ausgeprägte Multikulturalität aus; eine starke polnische Minderheit prägt das lokale Leben, was sich in zweisprachigen Schildern und lebendigen Traditionen widerspiegelt. Die Stadt bietet eine harmonische Kombination aus reicher Geschichte, kultureller Vielfalt und Naturschönheit.",
+      hu: "Nemenčinė egy nyugodt, természetközeli város a fővárostól, Vilniustól északkeletre, amely festőien simul a Neris és a Nemenčia folyók találkozásához. A település az ország egyik legrégebbi lakott helye, történelmi források már 1338-ban megemlítik. Nemenčinėt sűrű, kiterjedt fenyőerdők veszik körül, amelyek nemcsak a tiszta levegőről gondoskodnak, hanem a várost a stresszes fővárosiak egyik kedvelt kirándulóhelyévé is teszik. Kulturális szempontból a mintegy 5000 lakosú település jellegzetesen multikulturális; egy erős lengyel kisebbség határozza meg a helyi életet, ami a kétnyelvű feliratokban és az élő hagyományokban is megmutatkozik. A város a gazdag történelem, a kulturális sokszínűség és a természeti szépség harmonikus egyvelegét nyújtja.",
+      ro: "Nemenčinė este un oraș liniștit, aproape de natură, la nord-est de capitala Vilnius, situat perfect la confluența pitorească a râurilor Neris și Nemenčia. Localitatea este una dintre cele mai vechi așezări din țară și a fost menționată în documente încă din 1338. Nemenčinė este înconjurat de păduri de pini dense și întinse, care nu numai că asigură un aer curat, dar fac din oraș o zonă populară de recreere pentru locuitorii stresați ai capitalei. Din punct de vedere cultural, orașul cu 5.000 de locuitori se remarcă prin multiculturalismul său pronunțat; o puternică minoritate poloneză modelează viața locală, fapt reflectat în indicatoarele bilingve și tradițiile vii. Orașul oferă o combinație armonioasă de istorie bogată, diversitate culturală și frumusețe naturală.",
+      en: "Nemenčinė is a quiet, nature-oriented town northeast of the capital, Vilnius, perfectly nestled at the picturesque confluence of the Neris and Nemenčia rivers. The settlement is one of the oldest in the country, having been mentioned in historical records as early as 1338. Nemenčinė is surrounded by dense, extensive pine forests, which not only provide clean air but also make the town a highly popular recreational area for stressed capital city dwellers. Culturally, the town of 5,000 residents stands out for its distinct multiculturalism; a strong Polish minority shapes local life, reflected in bilingual signs and vibrant traditions. The city offers a harmonious combination of rich history, cultural diversity, and natural beauty."
+    },
+    factsAdvanced: {
+      de: ["1338-ban említik először Gediminas nagyfejedelem egyik oklevelében.", "A Neris és a Nemenčia folyók festői összefolyásánál épült.", "Jelentős, több mint 50%-os lengyel kisebbség él a városban.", "Vilnius egyik legkedveltebb zöld elővárosi övezete.", "Környezetét hatalmas, egybefüggő fenyőerdők alkotják.", "Lakossága hozzávetőlegesen 5 000 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-nemencine-cities-v2.webp",
+},  {
     id: "lithuania-pakruojis-cities-v2",
     type: "city",
-    name: { de: "Pakruojis", hu: "Pakruojis", ro: "Pakruojis", en: "Pakruojis" },
+    name: { de: "Pakruojis", hu: "Pakruojis", ro: "Pakruojis", en: "Pakruojis",
+image: "/poi-images/lithuania-pakruojis-cities-v2.webp"
+},
     coords: [23.8667, 55.9667],
     coordinates: { lat: 55.9667, lng: 23.8667 },
     description: {
@@ -969,11 +1724,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Deține un conac mare", "Cunoscut pentru festivalurile de bere", "Fondat în secolul al XVI-lea", "Monument arhitectural"],
       en: ["Features a large manor estate", "Known for beer festivals", "Founded in the 16th century", "Architectural monument"],
     },
-    imageHint: "Pakruojis manor and stone bridge", image: "/poi-images/lithuania-pakruojis-cities-v2.webp"},
-  {
+imageHint: "Pakruojis manor and stone bridge",
+    descriptionAdvanced: {
+      de: "Pakruojis ist eine bezaubernde Kleinstadt im Norden Litauens, deren Landschaft sanft vom Fluss Kruoja durchschnitten wird. Das Kronjuwel der Stadt und ein Magnet für Touristen aus dem ganzen Land ist der Gutshof Pakruojis. Er ist das größte erhaltene Herrenhaus-Ensemble in Litauen und besticht durch beeindruckende 43 historische Gebäude, darunter eine malerische Wassermühle und eine ikonische Bogenbrücke. Der Gutshof wird heute lebendig gehalten, indem hier historische Feste und Handwerksvorführungen stattfinden. Abseits des Schlosses ist Pakruojis tief mit der traditionellen schemaitischen Bierbraukunst verwurzelt; die lokalen Biere gelten unter Kennern als Delikatesse. Mit etwa 4.500 Einwohnern bietet die Stadt eine romantische Zeitreise in die litauische Adelskultur des 19. Jahrhunderts.",
+      hu: "Pakruojis egy varázslatos kisváros Észak-Litvániában, amelynek tájait a Kruoja folyó lankásan szeli ketté. A város koronaékszere és az egész országból ideérkező turisták legnagyobb mágnese a Pakruojisi-kúria (birtok). Ez a legnagyobb épségben fennmaradt kastélyegyüttes Litvániában, amely 43 lenyűgöző történelmi épülettel büszkélkedhet, köztük egy festői vízimalommal és egy ikonikus íves kőhíddal. A birtokot ma élénk élet jellemzi, történelmi fesztiváloknak és hagyományos kézműves bemutatóknak ad otthont. A kastélyon túl Pakruojis mélyen gyökerezik a hagyományos szamogitiai sörfőzés művészetében; a helyi söröket a szakértők igazi ínyencségnek tartják. A mintegy 4500 lakosú város romantikus időutazást kínál a 19. századi litván nemesi kultúrába.",
+      ro: "Pakruojis este un orășel fermecător în nordul Lituaniei, al cărui peisaj este blând intersectat de râul Kruoja. Bijuteria coroanei orașului și un magnet pentru turiștii din întreaga țară este Conacul Pakruojis. Acesta este cel mai mare ansamblu de conac conservat din Lituania și impresionează cu cele 43 de clădiri istorice uimitoare ale sale, incluzând o moară de apă pitorească și un pod boltit emblematic. Astăzi, domeniul este ținut în viață găzduind festivaluri istorice și demonstrații de meșteșuguri. Dincolo de palat, Pakruojis este adânc înrădăcinat în arta tradițională a fabricării berii samogitiene; berile locale sunt considerate o delicatesă printre cunoscători. Cu aproximativ 4.500 de locuitori, orașul oferă o călătorie romantică în timp în cultura nobiliară lituaniană din secolul al XIX-lea.",
+      en: "Pakruojis is an enchanting small town in northern Lithuania, with a landscape gently intersected by the Kruoja River. The crown jewel of the town and a magnet for tourists from across the country is the Pakruojis Manor. It is the largest preserved manor ensemble in Lithuania, boasting an impressive 43 historic buildings, including a picturesque water mill and an iconic arched stone bridge. The estate is kept vibrant today by hosting historical festivals and traditional craft demonstrations. Beyond the manor, Pakruojis is deeply rooted in the traditional art of Samogitian beer brewing; local beers are considered a true delicacy among connoisseurs. With about 4,500 residents, the city offers a romantic journey back in time to the 19th-century Lithuanian noble culture."
+    },
+    factsAdvanced: {
+      de: ["1531-ben említik először történelmi feljegyzések.", "A Pakruojisi-kúria az ország legnagyobb épen maradt birtokegyüttese.", "A birtokon található egy ritka, 19. századi boltíves kőhíd.", "Észak-Litvánia egyik legfontosabb kézműves sörfőző központja.", "A város a Kruoja folyó mentén terül el.", "Lakossága megközelítőleg 4 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-pakruojis-cities-v2.webp",
+},  {
     id: "lithuania-svencioneliai-cities-v2",
     type: "city",
-    name: { de: "Švenčionėliai", hu: "Švenčionėliai", ro: "Švenčionėliai", en: "Švenčionėliai" },
+    name: { de: "Švenčionėliai", hu: "Švenčionėliai", ro: "Švenčionėliai", en: "Švenčionėliai",
+image: "/poi-images/lithuania-svencioneliai-cities-v2.webp"
+},
     coords: [26.0, 55.15],
     coordinates: { lat: 55.15, lng: 26.0 },
     description: {
@@ -988,11 +1758,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Nod feroviar semnificativ", "Înconjurat de pădurea Labanoras", "Centru al industriei lemnului"],
       en: ["Founded in the 19th century", "Significant railway junction", "Surrounded by Labanoras forest", "Center of the wood industry"],
     },
-    imageHint: "Svencioneliai railway station and forest", image: "/poi-images/lithuania-svencioneliai-cities-v2.webp"},
-  {
+imageHint: "Svencioneliai railway station and forest",
+    descriptionAdvanced: {
+      de: "Švenčionėliai ist eine von dichten Wäldern umgebene Eisenbahnstadt im Osten Litauens, die tief in der Region Aukštaitija und im Nationalpark Labanoras verwurzelt ist. Ihre Entwicklung begann im Jahr 1862, als hier ein wichtiger Bahnhof für die neue Eisenbahnlinie St. Petersburg–Warschau errichtet wurde. Gegen Ende des 19. Jahrhunderts wurde die Bedeutung der Stadt als Verkehrsknotenpunkt durch den Bau einer Schmalspurbahn weiter verstärkt. Heute ist Švenčionėliai, das vom klaren Fluss Žeimena durchzogen wird, ein ruhiger Ort für Natur- und Geschichtsliebhaber. Die umliegenden, fast unendlichen Kiefernwälder des Labanoras-Waldes bieten unberührte Natur und machen die knapp 5.000 Einwohner zählende Stadt zu einem beliebten Ausgangspunkt für Wandertouren und Kanufahrten.",
+      hu: "Švenčionėliai egy sűrű erdőkkel övezett, kelet-litvániai vasutas város, amely mélyen gyökerezik az Aukštaitija régióban és a Labanoras Nemzeti Parkban. Fejlődése 1862-ben vette kezdetét, amikor a településen egy fontos állomást építettek a Szentpétervár–Varsó vasútvonal számára. A 19. század vége felé a város közlekedési csomópontként betöltött szerepét tovább erősítette egy keskeny nyomközű vasútvonal megépítése. Ma a kristálytiszta Žeimena folyó által átszelt Švenčionėliai egy békés menedék a természet és a történelem szerelmeseinek. A környező Labanoras-erdő szinte végtelen fenyvesei érintetlen természetet kínálnak, és az alig 5000 lakosú várost a gyalogtúrák és kajaktúrák kedvelt kiindulópontjává teszik.",
+      ro: "Švenčionėliai este un oraș feroviar din estul Lituaniei, înconjurat de păduri dense, adânc înrădăcinat în regiunea Aukštaitija și în Parcul Național Labanoras. Dezvoltarea sa a început în 1862, când aici a fost construită o gară importantă pentru noua linie de cale ferată Sankt Petersburg-Varșovia. Spre sfârșitul secolului al XIX-lea, importanța orașului ca nod de transport a fost sporită și mai mult de construcția unei căi ferate cu ecartament îngust. Astăzi, Švenčionėliai, traversat de râul limpede Žeimena, este un loc liniștit pentru iubitorii de natură și istorie. Pădurile de pini aproape infinite din jur ale Pădurii Labanoras oferă natură neatinsă și fac din orașul cu aproape 5.000 de locuitori un punct de plecare popular pentru drumeții și plimbări cu canoea.",
+      en: "Švenčionėliai is a railway town in eastern Lithuania surrounded by dense forests, deeply rooted in the Aukštaitija region and the Labanoras National Park. Its development began in 1862 when a crucial station was built here for the new Saint Petersburg–Warsaw railway line. Toward the end of the 19th century, the town's importance as a transportation hub was further solidified by the construction of a narrow-gauge railway. Today, Švenčionėliai, intersected by the crystal-clear Žeimena River, is a tranquil haven for nature and history lovers. The surrounding, almost endless pine forests of the Labanoras Woods offer untouched nature, making the town of just under 5,000 residents a popular starting point for hiking and canoeing expeditions."
+    },
+    factsAdvanced: {
+      de: ["A Szentpétervár–Varsó vasútvonal (1862) építésével alakult várossá.", "Közlekedési csomópontként egy keskeny nyomközű vasútvonal is átszelte.", "A Labanoras-erdő, Litvánia legnagyobb egybefüggő erdeje veszi körül.", "A városon keresztülfolyó Žeimena folyó népszerű a kajakosok körében.", "Fontos faipari és erdészeti központ Kelet-Litvániában.", "Lakossága megközelítőleg 4 800 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-svencioneliai-cities-v2.webp",
+},  {
     id: "lithuania-vievis-cities-v2",
     type: "city",
-    name: { de: "Vievis", hu: "Vievis", ro: "Vievis", en: "Vievis" },
+    name: { de: "Vievis", hu: "Vievis", ro: "Vievis", en: "Vievis",
+image: "/poi-images/lithuania-vievis-cities-v2.webp"
+},
     coords: [24.8167, 54.7667],
     coordinates: { lat: 54.7667, lng: 24.8167 },
     description: {
@@ -1007,11 +1792,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Deține un muzeu al drumurilor", "Situat pe malul lacului Vievis", "Nod de transport important"],
       en: ["Founded in the 16th century", "Features a road museum", "Located by Lake Vievis", "Important transportation hub"],
     },
-    imageHint: "Vievis lake and church", image: "/poi-images/lithuania-vievis-cities-v2.webp"},
-  {
+imageHint: "Vievis lake and church",
+    descriptionAdvanced: {
+      de: "Vievis ist eine verkehrstechnisch äußerst wichtige Kleinstadt im Osten Litauens, strategisch günstig an der Hauptverkehrsader zwischen der Hauptstadt Vilnius und der zweitgrößten Stadt Kaunas gelegen. Die am Ufer des wunderschönen Vievis-Sees gelegene Stadt wurde 1539 erstmals urkundlich erwähnt. Historisch bekannt wurde Vievis im 17. Jahrhundert, als hier eine der ersten litauischen Druckereien eingerichtet wurde. Heute verbindet die Stadt eine entspannte, seenreiche Natur mit moderner Infrastruktur. Die wohl bemerkenswerteste und einzigartigste Touristenattraktion der Stadt ist das Litauische Straßenmuseum, das eine faszinierende und umfassende Sammlung zur Geschichte des litauischen Straßenbaus und Verkehrswesens präsentiert. Mit knapp 4.500 Einwohnern bietet Vievis einen reizvollen Zwischenstopp.",
+      hu: "Vievis egy közlekedési szempontból rendkívül fontos kisváros Kelet-Litvániában, amely stratégiailag kiváló helyen, a főváros, Vilnius és a második legnagyobb város, Kaunas közötti főútvonal mentén fekszik. A gyönyörű Vievis-tó partján elterülő települést először 1539-ben említik az okiratok. Történelmileg Vievis a 17. században vált ismertté, amikor az egyik első litván nyomdát itt állították fel. Ma a város a tavakkal tarkított, nyugodt természetet modern infrastruktúrával ötvözi. A település legfigyelemreméltóbb és legegyedülállóbb turisztikai látványossága a Litván Útmúzeum, amely egy lenyűgöző és átfogó gyűjteményt mutat be a litván útépítés és közlekedés történetéről. A közel 4500 lakosú Vievis elbűvölő pihenőhely az utazók számára.",
+      ro: "Vievis este un orășel extrem de important din punct de vedere al transportului, situat în estul Lituaniei, amplasat strategic pe principala arteră de circulație dintre capitala Vilnius și cel de-al doilea oraș ca mărime, Kaunas. Situat pe malul frumosului lac Vievis, orașul a fost menționat pentru prima dată în documente în 1539. Din punct de vedere istoric, Vievis a devenit cunoscut în secolul al XVII-lea, când aici a fost înființată una dintre primele tipografii lituaniene. Astăzi, orașul combină natura relaxantă, plină de lacuri, cu o infrastructură modernă. Probabil cea mai remarcabilă și unică atracție turistică a orașului este Muzeul Drumurilor Lituaniene, care prezintă o colecție fascinantă și cuprinzătoare despre istoria construcției de drumuri și a transportului lituanian. Cu aproape 4.500 de locuitori, Vievis oferă un popas încântător.",
+      en: "Vievis is a highly important small town in eastern Lithuania from a transportation perspective, strategically located on the main artery between the capital, Vilnius, and the second-largest city, Kaunas. Situated on the shores of the beautiful Lake Vievis, the town was first documented in 1539. Historically, Vievis became known in the 17th century when one of the first Lithuanian printing presses was established here. Today, the town combines a relaxing, lake-filled natural environment with modern infrastructure. Perhaps the most remarkable and unique tourist attraction in the city is the Lithuanian Road Museum, which presents a fascinating and comprehensive collection detailing the history of Lithuanian road construction and transportation. With nearly 4,500 residents, Vievis offers a charming stopover."
+    },
+    factsAdvanced: {
+      de: ["Stratégiailag a Vilnius–Kaunas autópálya (A1) mentén fekszik.", "A festői Vievis-tó partján épült fel.", "A 17. században az egyik legkorábbi litván nyomda működött itt.", "A Litván Útmúzeum a város legismertebb kulturális intézménye.", "A 19. századi orosz birodalmi úthálózat egyik fontos állomása volt.", "Lakossága hozzávetőlegesen 4 500 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-vievis-cities-v2.webp",
+},  {
     id: "lithuania-lazdijai-cities-v2",
     type: "city",
-    name: { de: "Lazdijai", hu: "Lazdijai", ro: "Lazdijai", en: "Lazdijai" },
+    name: { de: "Lazdijai", hu: "Lazdijai", ro: "Lazdijai", en: "Lazdijai",
+image: "/poi-images/lithuania-lazdijai-cities-v2.webp"
+},
     coords: [23.5167, 54.2333],
     coordinates: { lat: 54.2333, lng: 23.5167 },
     description: {
@@ -1026,11 +1826,26 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Aproape de granița cu Polonia", "Centru administrativ", "Poartă către Europa"],
       en: ["Founded in the 16th century", "Near the Polish border", "Administrative center", "Gateway to Europe"],
     },
-    imageHint: "Lazdijai border crossing and church", image: "/poi-images/lithuania-lazdijai-cities-v2.webp"},
-  {
+imageHint: "Lazdijai border crossing and church",
+    descriptionAdvanced: {
+      de: "Lazdijai ist eine bedeutende Grenzstadt im äußersten Südwesten Litauens, tief in der sanften Hügel- und Seenlandschaft der Region Dzūkija gelegen. Seit dem Zerfall der Sowjetunion wird die 1560 gegründete Stadt oft als Litauens „Tor zu Europa“ bezeichnet, da sie aufgrund ihrer unmittelbaren Nähe zur polnischen Grenze ein Knotenpunkt für den grenzüberschreitenden Transit und Tourismus ist. Der zentrale Platz von Lazdijai ist historisch gewachsen und wird von der eleganten St.-Anna-Kirche geschmückt, die im späten 19. Jahrhundert erbaut wurde. Die 3.600-Einwohner-Stadt strahlt eine ruhige, ländliche Atmosphäre aus und ist der perfekte Ausgangspunkt für ausgedehnte Ausflüge in die unberührten Naturparks und Seen der südlichen Dzūkija.",
+      hu: "Lazdijai egy jelentős határváros Litvánia legdélnyugatibb részén, mélyen a Dzūkija régió lankás domb- és tóvidékébe ágyazva. A Szovjetunió felbomlása óta az 1560-ban alapított várost gyakran Litvánia „Európába nyíló kapujának” is nevezik, mivel a lengyel határ közvetlen közelsége miatt a határokon átnyúló tranzitforgalom és a turizmus fontos csomópontja. Lazdijai történelmileg kialakult központi terét az elegáns, a 19. század végén épült Szent Anna-templom díszíti. A 3600 lakosú város csendes, vidékies atmoszférát áraszt, és tökéletes kiindulópontként szolgál a dél-dzūkijai érintetlen natúrparkok és tavak felfedezésére irányuló kirándulásokhoz.",
+      ro: "Lazdijai este un oraș de graniță important din sud-vestul extrem al Lituaniei, situat adânc în peisajul blând cu dealuri și lacuri al regiunii Dzūkija. De la prăbușirea Uniunii Sovietice, orașul, fondat în 1560, a fost adesea numit „poarta către Europa” a Lituaniei, fiind un punct nodal pentru tranzitul transfrontalier și turism, datorită apropierii sale imediate de granița cu Polonia. Piața centrală a orașului Lazdijai s-a dezvoltat istoric și este împodobită de eleganta biserică Sfânta Ana, construită la sfârșitul secolului al XIX-lea. Orașul de 3.600 de locuitori emană o atmosferă liniștită, rurală și este punctul de plecare perfect pentru excursii extinse în parcurile naturale și lacurile nealterate din sudul regiunii Dzūkija.",
+      en: "Lazdijai is a significant border town in the extreme southwest of Lithuania, nestled deep within the gentle rolling hills and lake-filled landscape of the Dzūkija region. Since the collapse of the Soviet Union, the town, founded in 1560, has often been referred to as Lithuania's “Gateway to Europe” due to its immediate proximity to the Polish border, making it a hub for cross-border transit and tourism. Lazdijai's central square has grown historically and is adorned by the elegant St. Anne's Church, built in the late 19th century. The town of 3,600 residents exudes a quiet, rural atmosphere and serves as the perfect starting point for extensive excursions into the pristine nature parks and lakes of southern Dzūkija."
+    },
+    factsAdvanced: {
+      de: ["1560-ban Zsigmond Ágost litván nagyfejedelem és lengyel király alapította.", "Közvetlenül a litván-lengyel államhatár mellett fekszik.", "A rendszerváltás után a legfőbb tranzitútvonal volt Nyugat-Európa felé.", "A helyi Szent Anna-templom a város legmagasabb épülete.", "Környezetét tucatnyi tiszta vizű dzūkijai tó és fenyves alkotja.", "Lakossága mindössze 3 600 fő körül van."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-lazdijai-cities-v2.webp",
+},  {
     id: "lithuania-kalvarija-cities-v2",
     type: "city",
-    name: { de: "Kalvarija", hu: "Kalvarija", ro: "Kalvarija", en: "Kalvarija" },
+    name: { de: "Kalvarija", hu: "Kalvarija", ro: "Kalvarija", en: "Kalvarija",
+image: "/poi-images/lithuania-kalvarija-cities-v2.webp"
+},
     coords: [23.2333, 54.4167],
     coordinates: { lat: 54.4167, lng: 23.2333 },
     description: {
@@ -1046,5 +1861,17 @@ export const lithuaniaCitiesV2: POI[] = [
       en: ["Founded in the 17th century", "Near the Polish border", "Features a synagogue", "Significant mail station"],
     },
     imageHint: "Kalvarija church and historical buildings",
+    descriptionAdvanced: {
+      de: "Kalvarija ist eine kleine, aber historisch unglaublich dichte Stadt im Südwesten Litauens, nahe der Grenze zu Polen in der Region Suvalkija. Ursprünglich im 17. Jahrhundert gegründet, wuchs die Stadt im 19. Jahrhundert schnell zu einem florierenden Handelszentrum heran, was vor allem der Errichtung einer großen Pferdepoststation an der imperialen Route St. Petersburg–Warschau zu verdanken war. Diese beeindruckende Poststation ist noch heute erhalten und eine Hauptattraktion. Kalvarija zeichnet sich durch seine außergewöhnlich gut erhaltene und kompakte Altstadt aus, in der ein einzigartiger Synagogenkomplex – bestehend aus einer Sommer- und einer Wintersynagoge – Zeugnis von der einst großen jüdischen Gemeinde ablegt. Mit etwa 3.800 Einwohnern bewahrt Kalvarija ein authentisches Stück litauischer Geschichte.",
+      hu: "Kalvarija egy kicsiny, de történelmileg hihetetlenül sűrű város Délnyugat-Litvániában, a lengyel határ közelében, a Suvalkija régióban. A 17. században alapított város a 19. században gyorsan virágzó kereskedelmi központtá nőtte ki magát, ami leginkább a Szentpétervár–Varsó birodalmi útvonalon létesített nagy lovas postaállomásnak volt köszönhető. Ez a lenyűgöző postaállomás a mai napig fennmaradt, és a település egyik fő látványossága. Kalvarija különlegessége a kivételesen jól megőrzött és kompakt óváros, amelyben egy egyedülálló zsinagógakomplexum – egy nyári és egy téli zsinagógából állva – tanúskodik az egykor jelentős zsidó közösségről. A mintegy 3800 lakosú Kalvarija a litván történelem egy hiteles és értékes darabját őrzi.",
+      ro: "Kalvarija este un orășel mic, dar incredibil de dens din punct de vedere istoric, situat în sud-vestul Lituaniei, aproape de granița cu Polonia, în regiunea Suvalkija. Fondat inițial în secolul al XVII-lea, orașul a crescut rapid într-un centru comercial înfloritor în secolul al XIX-lea, datorită în mare parte înființării unei mari stații de poștă cu cai pe ruta imperială Sankt Petersburg-Varșovia. Această stație de poștă impresionantă se păstrează și astăzi și este o atracție principală. Kalvarija se remarcă prin centrul său vechi excepțional de bine conservat și compact, unde un complex sinagogal unic – format dintr-o sinagogă de vară și una de iarnă – stă mărturie marii comunități evreiești de odinioară. Cu aproximativ 3.800 de locuitori, Kalvarija păstrează o bucată autentică de istorie lituaniană.",
+      en: "Kalvarija is a small but historically incredibly dense town in southwestern Lithuania, near the border with Poland in the Suvalkija region. Originally founded in the 17th century, the town grew rapidly into a flourishing commercial center in the 19th century, largely due to the establishment of a major horse-drawn post station on the imperial Saint Petersburg–Warsaw route. This impressive post station has survived to this day and remains a major attraction. Kalvarija is distinguished by its exceptionally well-preserved and compact old town, where a unique synagogue complex—consisting of a summer and a winter synagogue—bears witness to the once-large Jewish community. With about 3,800 residents, Kalvarija preserves an authentic and valuable piece of Lithuanian history."
+    },
+    factsAdvanced: {
+      de: ["A várost a 17. században alapították a Šešupė folyó partján.", "A 19. században fontos postaállomás épült itt a Szentpétervár–Varsó útvonalon.", "Ritkaságszámba menő, dupla zsinagógakomplexum (nyári és téli) található a városban.", "Az óváros kompakt szerkezete szinte érintetlenül fennmaradt.", "Fontos tranzit- és határváros a szomszédos Lengyelország felé.", "Lakossága mintegy 3 800 fő."],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

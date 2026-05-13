@@ -4,7 +4,9 @@ export const czechrepublicLifeV2: POI[] = [
   {
     id: "czechrepublic-krkonose-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park" },
+    name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park",
+image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"
+},
     coords: [15.733, 50.733],
     coordinates: { lat: 50.733, lng: 15.733 },
     description: {
@@ -19,11 +21,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1963", "Găzduiește vârful Sněžka (1603 m)", "Rezervație UNESCO din 1992", "Include izvorul râului Elba"],
       en: ["Founded in 1963", "Home to Sněžka peak (1,603 m)", "UNESCO Biosphere Reserve since 1992", "Contains the source of the Elbe river"],
     },
-    imageHint: "Krkonoše mountains landscape in summer", image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"},
+    imageHint: "Krkonoše mountains landscape in summer",
+    image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der älteste Nationalpark Tschechiens schützt die subalpine Tundra der Sudeten. Das Gebirge beherbergt eiszeitliche Relikte und die Quellen der Elbe auf dem Hochplateau.",
+      hu: "Csehország legrégebbi nemzeti parkja a Szudéták legmagasabb gerinceit óvja. A terület jégkorszaki maradványfajokkal és az Elba forrásvidékével büszkélkedhet.",
+      ro: "Cel mai vechi parc național din Cehia protejează ecosistemele subalpine ale Munților Sudeți. Adăpostește relicve glaciare și izvoarele râului Elba pe platoul înalt.",
+      en: "The oldest national park in the Czech Republic protects the unique subalpine tundra of the Giant Mountains. It hosts glacial relics and the source of the Elbe River.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1963", "Höchster Gipfel Sněžka (1603 m)", "Fläche beträgt ca. 363 km²", "UNESCO-Biosphärenreservat seit 1992"],
+      hu: ["1963-ban alapították", "Legmagasabb pontja a Sněžka (1603 m)", "Területe körülbelül 363 km²", "1992 óta UNESCO bioszféra-rezervátum"],
+      ro: ["Fondat în anul 1963", "Vârful Sněžka are 1603 metri", "Suprafață de aproximativ 363 km²", "Rezervație UNESCO din anul 1992"],
+      en: ["Established in 1963", "Highest peak Sněžka at 1603 m", "Total area of approx. 363 km²", "UNESCO Biosphere Reserve since 1992"],
+    },
+  },
   {
     id: "czechrepublic-sumava-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park" },
+    name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park",
+image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"
+},
     coords: [13.517, 48.983],
     coordinates: { lat: 48.983, lng: 13.517 },
     description: {
@@ -38,11 +56,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Suprafață de cca. 680 km pătrați", "Adăpostește populații rare de râși", "Include lacul glaciar Laka"],
       en: ["Founded in 1991", "Area of approx. 680 square km", "Home to rare lynx populations", "Contains the Laka glacial lake"],
     },
-    imageHint: "Šumava forest and peat bog landscape", image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"},
+    imageHint: "Šumava forest and peat bog landscape",
+    image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das größte Schutzgebiet des Landes bildet das Grüne Dach Europas. Der Park umfasst ausgedehnte Hochmoore, Gletscherseen und die urwaldähnlichen Bestände des Böhmerwalds.",
+      hu: "Az ország legnagyobb természetvédelmi területe Európa zöld tetejének része. Hatalmas tőzeglápok, gleccsertavak és az ősi cseh erdő maradványai alkotják.",
+      ro: "Cea mai mare zonă protejată din țară face parte din Acoperișul Verde al Europei. Cuprinde turbării vaste, lacuri glaciare și păduri virgine din Boemia.",
+      en: "The largest protected area in the country forms part of the Green Roof of Europe. It features extensive peat bogs, glacial lakes, and ancient forest stands.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1991", "Fläche von 680,6 km²", "Beinhaltet den Plöckensteinsee", "Höchster Punkt Plechý (1378 m)"],
+      hu: ["1991-ben hozták létre", "Területe 680,6 négyzetkilométer", "Itt található a Plešné-tó", "Legmagasabb csúcsa a Plechý (1378 m)"],
+      ro: ["Înființat în anul 1991", "Suprafață de 680,6 km²", "Include lacul glaciar Plešné", "Vârful Plechý are 1378 metri"],
+      en: ["Founded in 1991", "Area of 680.6 square kilometers", "Contains the Plešné glacial lake", "Highest point is Plechý at 1378 m"],
+    },
+  },
   {
     id: "czechrepublic-podyji-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park" },
+    name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park",
+image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"
+},
     coords: [15.833, 48.85],
     coordinates: { lat: 48.85, lng: 15.833 },
     description: {
@@ -57,11 +91,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Suprafață de doar 63 km pătrați", "Cunoscut pentru specii rare de șerpi", "Se învecinează cu parcul austriac Thayatal"],
       en: ["Founded in 1991", "Area of only 63 square km", "Known for rare snake species", "Borders the Austrian Thayatal park"],
     },
-    imageHint: "Dyje river canyon in Podyjí", image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"},
+    imageHint: "Dyje river canyon in Podyjí",
+    image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser kleinste Nationalpark schützt das tief eingeschnittene Windungstal der Thaya. Die Felsformationen und Heidelandschaften beherbergen eine hohe Dichte an Reptilienarten.",
+      hu: "A legkisebb cseh nemzeti park a Thaya folyó mélyen bevágódott kanyarulatait védi. Sziklafalai és pusztái rendkívül gazdag hüllőfaunának adnak otthont.",
+      ro: "Cel mai mic parc național protejează valea adâncă și șerpuitoare a râului Thaya. Formațiunile stâncoase și pajiștile adăpostesc numeroase specii de reptile.",
+      en: "The smallest national park protects the deep, winding valley of the Thaya River. Its rock formations and heaths host a high density of reptile species.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1991", "Fläche von nur 63 km²", "42 km langes unverbautes Flusstal", "Heimat der Smaragdeidechse"],
+      hu: ["1991-ben alapították", "Területe mindössze 63 km²", "42 km hosszú érintetlen folyóvölgy", "A zöld gyík fontos élőhelye"],
+      ro: ["Fondat în anul 1991", "Suprafață de doar 63 km²", "Vale fluvială de 42 km lungime", "Habitat pentru șopârla smarald"],
+      en: ["Established in 1991", "Area of only 63 square km", "42 km of untouched river valley", "Home to the European green lizard"],
+    },
+  },
   {
     id: "czechrepublic-bohemian-switzerland-life-v2",
     type: "park",
-    name: { de: "Nationalpark Böhmische Schweiz", hu: "Cseh Svájc Nemzeti Park", ro: "Parcul Național Elveția Bohemiană", en: "Bohemian Switzerland National Park" },
+    name: { de: "Nationalpark Böhmische Schweiz", hu: "Cseh Svájc Nemzeti Park", ro: "Parcul Național Elveția Bohemiană", en: "Bohemian Switzerland National Park",
+image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"
+},
     coords: [14.333, 50.883],
     coordinates: { lat: 50.883, lng: 14.333 },
     description: {
@@ -76,11 +126,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 2000", "Parte din Munții de Gresie ai Elbei", "Include cheile râului Kamenice", "Zonă de cuibărit pentru șoimul călător"],
       en: ["Founded in 2000", "Part of the Elbe Sandstone Mountains", "Includes the Kamenice River gorges", "Important nesting site for peregrine falcons"],
     },
-    imageHint: "Pravčická brána sandstone arch", image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"},
+    imageHint: "Pravčická brána sandstone arch",
+    image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Berühmt für das Prebischtor, bietet der Park eine mystische Landschaft aus Sandsteinfelsen und engen Schluchten. Er schließt direkt an den Nationalpark Sächsische Schweiz an.",
+      hu: "A Pravčická brána sziklakapujáról híres park homokkő tornyok és szűk szurdokok vidéke. Közvetlenül határos a német Szász Svájc Nemzeti Parkkal.",
+      ro: "Faimos pentru Poarta Pravčická, parcul oferă un peisaj mistic cu stânci de gresie și defilee înguste. Se învecinează cu Elveția Saxonă din Germania.",
+      en: "Famous for the Pravčická brána arch, the park offers a mystical landscape of sandstone rocks and narrow gorges. It borders Saxon Switzerland in Germany.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 2000", "Prebischtor: 26,5 m Spannweite", "Höchster Berg: Děčínský Sněžník", "Besteht aus Kreidesandstein"],
+      hu: ["2000-ben alapították", "Pravčická brána: 26,5 m fesztáv", "Legmagasabb hegy: Děčínský Sněžník", "Kréta kori homokkő építi fel"],
+      ro: ["Înființat în anul 2000", "Poarta are o deschidere de 26,5 m", "Vârful maxim: Děčínský Sněžník", "Format din gresie cretacică"],
+      en: ["Established in 2004", "Pravčická gate span is 26.5 m", "Highest peak: Děčínský Sněžník", "Composed of Cretaceous sandstone"],
+    },
+  },
   {
     id: "czechrepublic-prague-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Prag", hu: "Prágai Állatkert", ro: "Grădina Zoologică din Praga", en: "Prague Zoo" },
+    name: { de: "Zoo Prag", hu: "Prágai Állatkert", ro: "Grădina Zoologică din Praga", en: "Prague Zoo",
+image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"
+},
     coords: [14.407, 50.117],
     coordinates: { lat: 50.117, lng: 14.407 },
     description: {
@@ -95,11 +161,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Deschisă în anul 1931", "Găzduiește peste 5000 de animale", "Suprafață de 58 de hectare", "Faimoasă pentru pavilionul Jungla Indoneziană"],
       en: ["Opened in 1931", "Home to over 5,000 animals", "Covers 58 hectares", "Famous for the Indonesian Jungle pavilion"],
     },
-    imageHint: "Elephant valley at Prague Zoo", image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"},
+    imageHint: "Elephant valley at Prague Zoo",
+    image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoo im Prager Stadtteil Troja gilt weltweit als eine der besten Anlagen. Besonders erfolgreich ist er bei der Rettung des Przewalski-Pferdes und der Zucht von Gorillas.",
+      hu: "A prágai Troja negyedben található állatkert a világ legjobbjai közé tartozik. Kiemelkedő sikereket ért el a Przewalski-lovak megmentésében és a gorillák tenyésztésében.",
+      ro: "Grădina zoologică din districtul Troja este considerată una dintre cele mai bune din lume. Este celebră pentru salvarea calului Przewalski și creșterea gorilelor.",
+      en: "Located in the Troja district, this zoo is consistently ranked among the best globally. It is famous for saving the Przewalski's horse and breeding gorillas.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung am 28. September 1931", "Fläche von etwa 58 Hektar", "Über 5.000 Tiere aus 670 Arten", "Modernes Elefantenhaus (Valley of Elephants)"],
+      hu: ["1931. szeptember 28-án nyílt meg", "Területe körülbelül 58 hektár", "Több mint 5000 állat 670 fajból", "Modern elefántház (Elefántok völgye)"],
+      ro: ["Deschisă la 28 septembrie 1931", "Suprafață de circa 58 hectare", "Peste 5.000 de animale din 670 specii", "Pavilion modern pentru elefanți"],
+      en: ["Opened on Sept 28, 1931", "Spans roughly 58 hectares", "Over 5,000 animals of 670 species", "Features the Valley of Elephants"],
+    },
+  },
   {
     id: "czechrepublic-zlin-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Zlín", hu: "Zlíni Állatkert", ro: "Grădina Zoologică Zlín", en: "Zlín Zoo" },
+    name: { de: "Zoo Zlín", hu: "Zlíni Állatkert", ro: "Grădina Zoologică Zlín", en: "Zlín Zoo",
+image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"
+},
     coords: [17.717, 49.273],
     coordinates: { lat: 49.273, lng: 17.717 },
     description: {
@@ -114,11 +196,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Cea mai vizitată atracție din Moravia", "Combină grădina zoologică cu castelul Lešná", "Hrănire unică a pisicilor de mare", "Specializată pe ungulate africane"],
       en: ["Most visited attraction in Moravia", "Combines a zoo and Lešná Castle", "Unique stingray feeding experience", "Specializes in African ungulates"],
     },
-    imageHint: "Zlín Zoo Lešná castle and park", image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"},
+    imageHint: "Zlín Zoo Lešná castle and park",
+    image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser einzigartige Zoo ist nach Kontinenten gegliedert und mit dem historischen Schloss Lešná verbunden. Er ist bekannt für seine begehbaren Volieren und die Rochenhalle.",
+      hu: "Ez az egyedülálló állatkert kontinensek szerint tagolt, és a történelmi Lešná-kastély parkjában fekszik. Híres a látogatható madárröpödéiről és rájasimogatójáról.",
+      ro: "Această grădină zoologică unică este organizată pe continente și legată de castelul istoric Lešná. Este cunoscută pentru volierele deschise și bazinul cu pisici de mare.",
+      en: "This unique zoo is divided into continental sections and integrated with the historic Lešná Castle. It is known for its walk-through aviaries and stingray tank.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1948", "Zweitmeistbesuchter Zoo in CZ", "Bucht der Rochen (Zátoka rejnoků)", "Elf thematische Regionen"],
+      hu: ["1948-ban alapították", "Csehország 2. leglátogatottabb állatkertje", "Ráják öble (Zátoka rejnoků) interaktív medence", "Tizenegy tematikus régióra oszlik"],
+      ro: ["Fondată în anul 1948", "A doua cea mai vizitată din Cehia", "Golful Rochen (Zátoka rejnoků)", "Împărțită în 11 regiuni tematice"],
+      en: ["Founded in 1948", "2nd most visited zoo in Czechia", "Features the Bay of Rays", "Divided into 11 thematic regions"],
+    },
+  },
   {
     id: "czechrepublic-plzen-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Pilsen", hu: "Plzeňi Állatkert", ro: "Grădina Zoologică Plzeň", en: "Plzeň Zoo" },
+    name: { de: "Zoo Pilsen", hu: "Plzeňi Állatkert", ro: "Grădina Zoologică Plzeň", en: "Plzeň Zoo",
+image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"
+},
     coords: [13.359, 49.758],
     coordinates: { lat: 49.758, lng: 13.359 },
     description: {
@@ -133,11 +231,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondată în anul 1926", "A doua cea mai veche grădină zoo din Cehia", "Prezintă flora și fauna cehă", "Include o expoziție subterană Akva-Tera"],
       en: ["Founded in 1926", "Second oldest zoo in the Czech Republic", "Showcases Czech flora and fauna", "Features an underground Akva-Tera exhibit"],
     },
-    imageHint: "Plzeň Zoo entrance and botanical garden", image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"},
+    imageHint: "Plzeň Zoo entrance and botanical garden",
+    image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoo ist eng mit einem botanischen Garten verbunden und spezialisiert auf zoogeographische Expositionen. Er beherbergt seltene Nashörner und Reptilien in naturnahen Anlagen.",
+      hu: "Az állatkert szorosan kapcsolódik a botanikus kerthez, és állatföldrajzi szempontú bemutatókra szakosodott. Ritka orrszarvúknak és hüllőknek ad otthont.",
+      ro: "Grădina este unită cu o grădină botanică și specializată în expoziții zoogeografice. Găzduiește rinoceri rari și reptile în habitate naturale.",
+      en: "This zoo is merged with a botanical garden and focuses on zoogeographical exhibits. It houses rare rhinoceroses and reptiles in naturalistic enclosures.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1926", "Zusammenschluss mit Botanik 1981", "Heimat des Panzernashorns", "Zweitältester Zoo des Landes"],
+      hu: ["1926-ban alapították", "1981-ben egyesült a botanikus kerttel", "Indiai orrszarvúak otthona", "Az ország második legidősebb állatkertje"],
+      ro: ["Fondată în anul 1926", "Fuzionată cu grădina botanică în 1981", "Găzduiește rinoceri indieni", "A doua cea mai veche din țară"],
+      en: ["Established in 1926", "Merged with botanical garden in 1981", "Home to Indian rhinoceroses", "Second oldest zoo in the country"],
+    },
+  },
   {
     id: "czechrepublic-ostrava-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Ostrava", hu: "Ostravai Állatkert", ro: "Grădina Zoologică Ostrava", en: "Ostrava Zoo" },
+    name: { de: "Zoo Ostrava", hu: "Ostravai Állatkert", ro: "Grădina Zoologică Ostrava", en: "Ostrava Zoo",
+image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"
+},
     coords: [18.324, 49.845],
     coordinates: { lat: 49.845, lng: 18.324 },
     description: {
@@ -152,11 +266,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["A doua ca mărime din țară după suprafață", "Cunoscută pentru creșterea elefanților", "Include o potecă botanică", "Găzduiește specii rare de vulturi"],
       en: ["Second largest zoo in the country by area", "Known for elephant breeding", "Includes a Botanical Path", "Home to rare vulture species"],
     },
-    imageHint: "Elephant at Ostrava Zoo", image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"},
+    imageHint: "Elephant at Ostrava Zoo",
+    image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Eingebettet in einen weitläufigen Waldpark, konzentriert sich dieser Zoo auf die Zucht gefährdeter Huftiere und Primaten. Ein Lehrpfad führt durch den Botanischen Park.",
+      hu: "Egy kiterjedt erdőparkban elhelyezkedő állatkert, amely veszélyeztetett patások és főemlősök tenyésztésére összpontosít. Tanösvénye a botanikai kertet is bemutatja.",
+      ro: "Situată într-un parc forestier vast, această grădină se concentrează pe creșterea copitatelor și primatelor periclitate. Include un traseu prin parcul botanic.",
+      en: "Set in a sprawling forest park, this zoo focuses on breeding endangered ungulates and primates. An educational trail leads through the botanical section.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1951", "Fläche von ca. 100 Hektar", "Große Elefantenherde", "Zentrum für Greifvogelrettung"],
+      hu: ["1951-ben alapították", "Területe kb. 100 hektár", "Nagy elefántcsorda él itt", "Ragadozómadár-mentő központ"],
+      ro: ["Fondată în anul 1951", "Suprafață de circa 100 hectare", "Găzduiește o turmă de elefanți", "Centru de salvare pentru păsări de pradă"],
+      en: ["Founded in 1951", "Covers approximately 100 hectares", "Features a large elephant herd", "Center for bird of prey rescue"],
+    },
+  },
   {
     id: "czechrepublic-olomouc-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Olmütz", hu: "Olomouci Állatkert", ro: "Grădina Zoologică Olomouc", en: "Olomouc Zoo" },
+    name: { de: "Zoo Olmütz", hu: "Olomouci Állatkert", ro: "Grădina Zoologică Olomouc", en: "Olomouc Zoo",
+image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp"
+},
     coords: [17.341, 49.636],
     coordinates: { lat: 49.636, lng: 17.341 },
     description: {
@@ -172,11 +302,25 @@ export const czechrepublicLifeV2: POI[] = [
       en: ["Features a large shark tank", "Known for antelope breeding", "Has a safari train", "Opened in 1956"],
     },
     imageHint: "Olomouc Zoo lookout tower and enclosures",
+    descriptionAdvanced: {
+      de: "Auf dem Heiligen Berg gelegen, bietet der Zoo eine Aussichtsturm und spezialisiert sich auf Antilopen und Giraffen. Besucher können das Gehege der Berberaffen durchwandern.",
+      hu: "A Svatý Kopeček hegyen fekvő állatkert kilátótoronnyal és antilop- illetve zsiráf-gyűjteménnyel várja a vendégeket. A berbermakákók kifutója bejárható.",
+      ro: "Situată pe Dealul Sfânt, grădina oferă un turn de observație și se specializează în antilope și girafe. Vizitatorii pot intra în țarcul macacilor berberi.",
+      en: "Located on Holy Hill, this zoo features an observation tower and specializes in antelopes and giraffes. It offers a walk-through Barbary macaque enclosure.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1956", "32 Meter hoher Aussichtsturm", "Zucht von bedrohten Oryx-Antilopen", "Meeresaquarium mit Haien"],
+      hu: ["1956-ban nyílt meg", "32 méter magas kilátótorony", "Veszélyeztetett oryx antilopok tenyésztése", "Cápás tengeri akvárium"],
+      ro: ["Înființată în anul 1956", "Turn de observație de 32 metri", "Creșterea antilopelor Oryx pe cale de dispariție", "Acvariu marin cu rechini"],
+      en: ["Established in 1956", "32-meter high lookout tower", "Breeds endangered Oryx antelopes", "Features a marine aquarium with sharks"],
+    },
   },
   {
     id: "czechrepublic-jihlava-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Iglau", hu: "Jihlavai Állatkert", ro: "Grădina Zoologică Jihlava", en: "Jihlava Zoo" },
+    name: { de: "Zoo Iglau", hu: "Jihlavai Állatkert", ro: "Grădina Zoologică Jihlava", en: "Jihlava Zoo",
+image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"
+},
     coords: [15.597, 49.395],
     coordinates: { lat: 49.395, lng: 15.597 },
     description: {
@@ -191,11 +335,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Găzduiește peste 200 de specii", "Accent pe animale sud-americane", "Include o casă tropicală", "Succes în creșterea leoparzilor de zăpadă"],
       en: ["Home to over 200 animal species", "Focus on South American animals", "Includes a tropical house", "Successful snow leopard breeding"],
     },
-    imageHint: "Small monkeys at Jihlava Zoo", image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"},
+    imageHint: "Small monkeys at Jihlava Zoo",
+    image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Bekannt als der 'Zoo ohne Gitter', nutzt er Wassergräben statt Zäunen. Er konzentriert sich auf kleine Raubkatzen, Primaten und die Fauna Südamerikas und Afrikas.",
+      hu: "A 'rács nélküli állatkertként' ismert park vizesárkokat használ kerítések helyett. Főleg kismacskákra, főemlősökre, valamint dél-amerikai és afrikai fajokra összpontosít.",
+      ro: "Cunoscută ca 'grădina fără gratii', folosește șanțuri cu apă în loc de garduri. Se concentrează pe feline mici, primate și fauna din America de Sud și Africa.",
+      en: "Known as the 'Zoo without Bars,' it uses water moats instead of fences. It focuses on small cats, primates, and the fauna of South America and Africa.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1957", "Spezialisierung auf Krallenaffen", "Afrikanisches Dorf Matongo", "Etwa 200 seltene Tierarten"],
+      hu: ["1957-ben alapították", "Karmosmajmok tenyésztésére szakosodott", "Matongo afrikai falu látványosság", "Körülbelül 200 ritka állatfaj"],
+      ro: ["Fondată în anul 1957", "Specializată în tamarini și marmosete", "Satul african Matongo", "Aproximativ 200 de specii rare"],
+      en: ["Founded in 1957", "Specializes in callitrichid monkeys", "Features Matongo African village", "Home to about 200 rare species"],
+    },
+  },
   {
     id: "czechrepublic-brno-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Brünn", hu: "Brnói Állatkert", ro: "Grădina Zoologică Brno", en: "Brno Zoo" },
+    name: { de: "Zoo Brünn", hu: "Brnói Állatkert", ro: "Grădina Zoologică Brno", en: "Brno Zoo",
+image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"
+},
     coords: [16.533, 49.231],
     coordinates: { lat: 49.231, lng: 16.533 },
     description: {
@@ -210,11 +370,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Deschisă în anul 1953", "Cunoscută pentru urșii polari", "Dispune de o casă a reptilelor", "Specializată pe cămile"],
       en: ["Opened in 1953", "Known for polar bear breeding", "Features a reptile house", "Specializes in camels"],
     },
-    imageHint: "Brno Zoo polar bear exhibit", image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"},
+    imageHint: "Brno Zoo polar bear exhibit",
+    image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoo am Mönchsberg präsentiert Tiere in geografischen Einheiten wie Beringia. Er ist berühmt für die erfolgreiche natürliche Aufzucht von Eisbären und Kamtschatkabären.",
+      hu: "A Mniší hora hegyoldalában fekvő állatkert földrajzi egységekben, például Beringiában mutatja be az állatokat. Híres a jegesmedvék és kamcsatkai medvék tenyésztéséről.",
+      ro: "Grădina de pe Muntele Călugărilor prezintă animalele în unități geografice precum Beringia. Este celebră pentru creșterea urșilor polari și a urșilor de Kamceatka.",
+      en: "Located on Monk's Hill, this zoo presents animals in geographic zones like Beringia. It is famous for naturally breeding polar and Kamchatka brown bears.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1953", "Fläche von 65 Hektar", "Exposition 'Beringia' für Arktis-Fauna", "Erfolg bei der Eisbärenzucht"],
+      hu: ["1953-ban alapították", "Területe 65 hektár", "Beringia bemutató az északi faunának", "Sikeres jegesmedve-szaporítás"],
+      ro: ["Înființată în anul 1953", "Suprafață de 65 hectare", "Expoziția 'Beringia' pentru fauna arctică", "Succes în reproducerea urșilor polari"],
+      en: ["Established in 1953", "Covers 65 hectares", "Features the Beringia Arctic exhibit", "Notable success in polar bear breeding"],
+    },
+  },
   {
     id: "czechrepublic-usti-nad-labem-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo" },
+    name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo",
+image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"
+},
     coords: [14.057, 50.665],
     coordinates: { lat: 50.665, lng: 14.057 },
     description: {
@@ -229,11 +405,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondată în anul 1908", "Una dintre cele mai vechi din Europa", "Cunoscută pentru urangutani", "Dispune de un Dinopark"],
       en: ["Founded in 1908", "One of the oldest in Central Europe", "Known for orangutan breeding", "Features a Dinopark"],
     },
-    imageHint: "Ústí nad Labem Zoo hilltop view", image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"},
+    imageHint: "Ústí nad Labem Zoo hilltop view",
+    image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Ursprünglich als Vogelschutzpark Lumpepark gegründet, liegt dieser Zoo an einem steilen Hang. Er ist bekannt für seine Elefanten und die Erhaltung seltener südostasiatischer Arten.",
+      hu: "Eredetileg Lumpepark néven madárvédelmi parkként indult a meredek domboldalon. Napjainkban elefántjairól és ritka délkelet-ázsiai fajok védelméről ismert.",
+      ro: "Fondată inițial ca parcul Lumpe pentru păsări, grădina se află pe o pantă abruptă. Este cunoscută pentru elefanții săi și conservarea speciilor din Asia de Sud-Est.",
+      en: "Originally founded as Lumpepark bird reserve, this zoo is set on a steep hillside. It is known for its elephants and conservation of Southeast Asian species.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1908 (Lumpepark)", "Steile Hanglage (96 m Höhenunterschied)", "Zucht von Orang-Utans", "Schwerpunkt auf asiatischen Tieren"],
+      hu: ["1908-ban alapították (Lumpepark)", "Meredek terep (96 m szintkülönbség)", "Borneói orangutánok tenyésztése", "Fő fókusza az ázsiai fauna"],
+      ro: ["Fondată în 1908 (Lumpepark)", "Teren abrupt (96 m diferență de nivel)", "Creșterea urangutanilor", "Focus pe fauna asiatică"],
+      en: ["Founded in 1908 as Lumpepark", "Steep terrain (96 m elevation change)", "Breeds Bornean orangutans", "Focus on Asian animal species"],
+    },
+  },
   {
     id: "czechrepublic-pruhonice-park-life-v2",
     type: "park",
-    name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park" },
+    name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park",
+image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"
+},
     coords: [14.557, 49.998],
     coordinates: { lat: 49.998, lng: 14.557 },
     description: {
@@ -248,11 +440,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Creat începând cu 1885", "Patrimoniu UNESCO din 2010", "Peste 8000 de rododendroni", "Suprafață de 250 de hectare"],
       en: ["Established starting in 1885", "UNESCO World Heritage since 2010", "Over 8,000 rhododendron bushes", "Covers 250 hectares"],
     },
-    imageHint: "Průhonice park and castle in spring", image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"},
+    imageHint: "Průhonice park and castle in spring",
+    image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser UNESCO-Weltkulturerbepark kombiniert meisterhafte Landschaftsarchitektur mit einer riesigen botanischen Sammlung, insbesondere Rhododendren, rund um ein Neorenaissance-Schloss.",
+      hu: "Ez az UNESCO világörökségi helyszín a tájépítészet mesterműve. Egy neoreneszánsz kastély körül hatalmas botanikai gyűjteményt, főleg rododendronokat mutat be.",
+      ro: "Acest parc din patrimoniul UNESCO combină arhitectura peisageră cu o colecție botanică uriașă, în special rododendroni, în jurul unui castel neorenascentist.",
+      en: "This UNESCO World Heritage site masterfully combines landscape architecture with a vast botanical collection, notably rhododendrons, around a Neo-Renaissance castle.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1885 von Silva-Tarouca", "Fläche von 250 Hektar", "Über 8.000 Rhododendren", "UNESCO-Welterbe seit 2010"],
+      hu: ["1885-ben alapította Silva-Tarouca", "Területe 250 hektár", "Több mint 8000 rododendron bokor", "2010 óta UNESCO világörökség"],
+      ro: ["Fondat în 1885 de Silva-Tarouca", "Suprafață de 250 hectare", "Peste 8.000 de rododendroni", "Patrimoniu UNESCO din 2010"],
+      en: ["Founded in 1885 by Silva-Tarouca", "Covers 250 hectares", "Over 8,000 rhododendron plants", "UNESCO site since 2010"],
+    },
+  },
   {
     id: "czechrepublic-trebon-fishponds-life-v2",
     type: "park",
-    name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds" },
+    name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds",
+image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"
+},
     coords: [14.77, 49.003],
     coordinates: { lat: 49.003, lng: 14.77 },
     description: {
@@ -267,11 +475,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Include iazul Rožmberk", "Rezervație UNESCO din 1977", "Centru important pentru creșterea crapului", "Peste 450 de iazuri în regiune"],
       en: ["Includes the Rožmberk pond", "UNESCO Biosphere Reserve since 1977", "Important carp breeding center", "Over 450 ponds in the region"],
     },
-    imageHint: "Rožmberk pond landscape near Třeboň", image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"},
+    imageHint: "Rožmberk pond landscape near Třeboň",
+    image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Ein künstliches Wassersystem aus dem 16. Jahrhundert bildet heute ein wichtiges Biosphärenreservat. Die Teiche dienen der Fischzucht und sind Rastplatz für Zugvögel.",
+      hu: "A 16. században kialakított mesterséges tórendszer ma fontos bioszféra-rezervátum. A tavak haltenyésztésre szolgálnak és a vándormadarak pihenőhelyei.",
+      ro: "Un sistem acvatic artificial din secolul al XVI-lea formează astăzi o importantă rezervație a biosferei. Iazurile sunt folosite pentru piscicultură și refugiu avifaunistic.",
+      en: "A 16th-century artificial water system now forms a vital Biosphere Reserve. The ponds are used for fish farming and serve as major stops for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Rožmberk ist der größte Teich (489 ha)", "Entworfen von Jakub Krčín", "UNESCO-Biosphärenreservat seit 1977", "System aus über 500 Teichen"],
+      hu: ["Legnagyobb tava a Rožmberk (489 ha)", "Jakub Krčín tervezte a hálózatot", "1977 óta UNESCO bioszféra-rezervátum", "Több mint 500 halastóból áll"],
+      ro: ["Rožmberk e cel mai mare iaz (489 ha)", "Proiectat de Jakub Krčín", "Rezervație UNESCO din anul 1977", "Sistem de peste 500 de iazuri"],
+      en: ["Rožmberk is the largest pond (489 ha)", "Designed by Jakub Krčín", "UNESCO Biosphere Reserve since 1977", "System of over 500 fishponds"],
+    },
+  },
   {
     id: "czechrepublic-palava-reserve-life-v2",
     type: "park",
-    name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve",
+image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"
+},
     coords: [16.65, 48.867],
     coordinates: { lat: 48.867, lng: 16.65 },
     description: {
@@ -286,11 +510,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Protecție UNESCO din 1986", "Adăpostește specii rare de orhidee", "Cel mai înalt punct este Děvín (550 m)", "Zonă viticolă importantă"],
       en: ["UNESCO protection since 1986", "Home to rare orchid species", "Highest point is Děvín (550 m)", "Important wine-growing region"],
     },
-    imageHint: "Pálava hills limestone rocks and vineyards", image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"},
+    imageHint: "Pálava hills limestone rocks and vineyards",
+    image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Pollauer Berge erheben sich markant aus der südmährischen Ebene. Das Reservat schützt pannonische Steppen, Kalkfelsen und Weinberge mit seltener wärmeliebender Flora.",
+      hu: "A Pavlov-hegyek látványosan emelkednek ki a dél-morva síkságból. A rezervátum pannon sztyeppéket, mészkősziklákat és melegkedvelő flórát oltalmaz.",
+      ro: "Munții Pavlov se ridică proeminent din câmpia Moraviei de Sud. Rezervația protejează stepe panonice, stânci calcaroase și floră termofilă rară.",
+      en: "The Pavlov Hills rise strikingly from the South Moravian plain. The reserve protects Pannonian steppes, limestone cliffs, and rare thermophilous flora.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Biosphärenreservat seit 1986", "Höchster Punkt Děvín (554 m)", "Fundort der Venus von Dolní Věstonice", "Wichtiges Weinbaugebiet"],
+      hu: ["1986 óta UNESCO bioszféra-rezervátum", "Legmagasabb pontja a Děvín (554 m)", "A dolní věstonicei vénusz lelőhelye", "Kiemelkedő bortermelő vidék"],
+      ro: ["Rezervație UNESCO din anul 1986", "Vârful Děvín are 554 metri", "Locul descoperirii Venerei din Dolní Věstonice", "Zonă viticolă importantă"],
+      en: ["UNESCO Biosphere Reserve since 1986", "Highest point Děvín at 554 m", "Site of Venus of Dolní Věstonice find", "Major wine-growing region"],
+    },
+  },
   {
     id: "czechrepublic-moravian-karst-life-v2",
     type: "landmark",
-    name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst" },
+    name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst",
+image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"
+},
     coords: [16.712, 49.366],
     coordinates: { lat: 49.366, lng: 16.712 },
     description: {
@@ -305,11 +545,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Abisul Macocha are 138 m adâncime", "Peste 1100 de peșteri înregistrate", "Râul Punkva curge prin subteran", "Habitat important pentru lilieci"],
       en: ["Macocha Abyss is 138 m deep", "Over 1,100 caves registered", "Punkva is an underground river", "Significant bat habitat"],
     },
-    imageHint: "Macocha Abyss bottom view", image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"},
+    imageHint: "Macocha Abyss bottom view",
+    image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das bedeutendste Karstgebiet Mitteleuropas beherbergt über 1.100 Höhlen. Highlight ist die Macocha-Schlucht, die durch den Einsturz einer riesigen Höhlendecke entstand.",
+      hu: "Közép-Európa egyik legjelentősebb karsztvidéke több mint 1100 barlangot rejt. Fő látványossága a Macocha-szakadék, amely egy hatalmas barlang beomlásával keletkezett.",
+      ro: "Cea mai importantă zonă carstică din Europa Centrală adăpostește peste 1.100 de peșteri. Atracția principală este abisul Macocha, format prin prăbușirea unei peșteri.",
+      en: "The most significant karst area in Central Europe contains over 1,100 caves. Its highlight is the Macocha Gorge, formed by a massive cave roof collapse.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe der Macocha-Schlucht: 138 m", "Punkva-Höhlen mit Bootsfahrt", "Über 1.100 registrierte Höhlen", "Landschaftsschutzgebiet seit 1956"],
+      hu: ["A Macocha-szakadék mélysége 138 m", "Csónakázás a Punkva-barlangban", "Több mint 1100 regisztrált barlang", "1956 óta tájvédelmi körzet"],
+      ro: ["Adâncimea abisului Macocha: 138 m", "Peșterile Punkva oferă plimbări cu barca", "Peste 1.100 de peșteri înregistrate", "Zonă protejată din anul 1956"],
+      en: ["Macocha Gorge depth: 138 meters", "Punkva Caves offer boat tours", "Over 1,100 registered caves", "Protected landscape since 1956"],
+    },
+  },
   {
     id: "czechrepublic-soos-reserve-life-v2",
     type: "park",
-    name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve" },
+    name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve",
+image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"
+},
     coords: [12.404, 50.147],
     coordinates: { lat: 50.147, lng: 12.404 },
     description: {
@@ -324,11 +580,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Cunoscută pentru vulcanii noroioși", "Fundul unui fost lac sărat", "Izvoare minerale active", "Include un muzeu al dinozaurilor"],
       en: ["Known for mud volcanoes", "Former floor of a salt lake", "Mineral springs emerge here", "Contains a dinosaur museum"],
     },
-    imageHint: "Soos mud volcanoes mofettes", image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"},
+    imageHint: "Soos mud volcanoes mofettes",
+    image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses Moor- und Sumpfgebiet bei Cheb ist ein geologisches Unikat mit 'Mofetten' (CO2-Ausströmungen). Die mineralstoffreiche Landschaft gleicht einer Mondoberfläche.",
+      hu: "A Cheb melletti lápos terület geológiai ritkaság mofettákkal (szén-dioxid feltörésekkel). Az ásványi lerakódások miatt holdbéli tájra emlékeztet.",
+      ro: "Această zonă de mlaștină de lângă Cheb este o raritate geologică cu 'mofete' (emisii de CO2). Peisajul bogat în minerale seamănă cu suprafața Lunii.",
+      en: "This peat bog near Cheb is a geological rarity featuring 'mofettes' (CO2 vents). Its mineral-rich landscape resembles a lunar surface.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzgebiet seit 1964", "Lehrpfad auf Holzstegen", "Vorkommen von Thermalsalzwasser", "Einzige tschechische 'Vulkanaustritte'"],
+      hu: ["1964 óta természetvédelmi terület", "Fapallókon vezető tanösvény", "Termál sós vizek forráshelye", "Csehország egyetlen mofetta-mezője"],
+      ro: ["Rezervație naturală din anul 1964", "Traseu educativ pe punți de lemn", "Prezența apelor termale sărate", "Singurele emanații vulcanice din Cehia"],
+      en: ["National Nature Reserve since 1964", "Nature trail on wooden boardwalks", "Presence of thermal salt water", "Unique Czech 'mini-volcano' vents"],
+    },
+  },
   {
     id: "czechrepublic-boubin-primeval-forest-life-v2",
     type: "forest",
-    name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest" },
+    name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest",
+image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"
+},
     coords: [13.824, 48.975],
     coordinates: { lat: 48.975, lng: 13.824 },
     description: {
@@ -343,11 +615,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Protejată din anul 1858", "Copaci de până la 50 m înălțime", "Zona centrală este împrejmuită", "Include lacul Boubín"],
       en: ["Protected since 1858", "Trees reach up to 50 m high", "Core zone is fenced off", "Includes the Boubín lake"],
     },
-    imageHint: "Old trees in Boubín primeval forest", image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"},
+    imageHint: "Old trees in Boubín primeval forest",
+    image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Im Herzen des Böhmerwalds liegt eines der ältesten Waldreservate Europas. Einige Fichten und Tannen sind über 400 Jahre alt und erreichen gewaltige Ausmaße.",
+      hu: "A Cseh-erdő szívében található Európa egyik legrégebbi erdőrezervátuma. Egyes luc- és jegenyefenyők több mint 400 évesek és hatalmas méretűek.",
+      ro: "În inima Pădurii Boemiei se află una dintre cele mai vechi rezervații forestiere din Europa. Unii molizi și brazi au peste 400 de ani și dimensiuni uriașe.",
+      en: "In the heart of the Bohemian Forest lies one of Europe's oldest forest reserves. Some spruces and firs are over 400 years old and reach massive sizes.",
+    },
+    factsAdvanced: {
+      de: ["Unter Schutz seit 1858", "Kernzone umfasst 666 Hektar", "Boubín-Gipfel (1362 m) mit Turm", "Fichten bis zu 50 Meter hoch"],
+      hu: ["1858 óta védelem alatt áll", "Központi magja 666 hektár", "Boubín-csúcs (1362 m) kilátóval", "Akár 50 méter magas lucfenyők"],
+      ro: ["Protejat încă din anul 1858", "Zona centrală are 666 hectare", "Vârful Boubín (1362 m) cu turn", "Molizi de până la 50 de metri înălțime"],
+      en: ["Protected since 1858", "Core zone spans 666 hectares", "Boubín peak (1362 m) with tower", "Spruces reach up to 50 meters"],
+    },
+  },
   {
     id: "czechrepublic-adrspach-teplice-rocks-life-v2",
     type: "landmark",
-    name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks" },
+    name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks",
+image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"
+},
     coords: [16.113, 50.613],
     coordinates: { lat: 50.613, lng: 16.113 },
     description: {
@@ -362,11 +650,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Cel mai înalt turn este 'Îndrăgostiții'", "Include Marea Cascadă", "Loc de filmare pentru Narnia", "Rezervație naturală națională"],
       en: ["Highest tower is the 'Lovers'", "Contains the Great Waterfall", "Filming location for Narnia", "National Nature Reserve"],
     },
-    imageHint: "Sandstone towers at Adršpach", image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"},
+    imageHint: "Sandstone towers at Adršpach",
+    image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Ein Labyrinth aus monumentalen Sandsteintürmen bildet diese Felsenstadt. Die engen Klüfte und der kristallklare See in einem alten Steinbruch schaffen eine märchenhafte Atmosphäre.",
+      hu: "Hatalmas homokkő tornyok alkotta sziklaváros és labirintus. A szűk hasadékok és egy régi kőfejtő kristálytiszta tava mesebeli hangulatot áraszt.",
+      ro: "Un labirint de turnuri monumentale de gresie formează acest oraș de piatră. Defileele înguste și lacul de smarald dintr-o fostă carieră creează o atmosferă feerică.",
+      en: "A labyrinth of monumental sandstone towers forms this rock city. Its narrow crevices and the crystal-clear lake in an old quarry create a fairytale atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Sandsteinfelsen bis 70 m hoch", "Metuje-Fluss bildet Wasserfälle", "Drehort für 'Die Chroniken von Narnia'", "Teil des Naturschutzgebiets Broumovsko"],
+      hu: ["Akár 70 méter magas homokkő sziklák", "A Metuje-folyó vízeséseket alkot", "A 'Narnia krónikái' forgatási helyszíne", "A Broumovsko tájvédelmi körzet része"],
+      ro: ["Stânci de gresie de până la 70 m", "Râul Metuje formează cascade", "Loc de filmare pentru 'Cronicile din Narnia'", "Parte din zona protejată Broumovsko"],
+      en: ["Sandstone rocks up to 70 m high", "Metuje River forms waterfalls", "Filming site for 'The Chronicles of Narnia'", "Part of Broumovsko protected area"],
+    },
+  },
   {
     id: "czechrepublic-jeseniky-mountains-life-v2",
     type: "mountain",
-    name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains" },
+    name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains",
+image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"
+},
     coords: [17.231, 50.083],
     coordinates: { lat: 50.083, lng: 17.231 },
     description: {
@@ -381,11 +685,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Vârful Praděd are 1491 m", "Fondat în anul 1969", "Include lacul Rejvíz", "Populație de capre negre"],
       en: ["Praděd peak is 1,491 m high", "Established in 1969", "Includes the Rejvíz moss lake", "Home to chamois populations"],
     },
-    imageHint: "Praděd peak and TV tower in Jeseníky", image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"},
+    imageHint: "Praděd peak and TV tower in Jeseníky",
+    image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das mährische Gebirge ist bekannt für seine raue Natur und saubere Luft. Der Praděd-Gipfel überragt die Landschaft mit einem futuristischen Fernsehturm inmitten alpiner Flora.",
+      hu: "Ez a morva hegység zord természetéről és tiszta levegőjéről ismert. A Praděd-csúcson futurisztikus tévétorony magasodik az alpesi flóra felett.",
+      ro: "Munții din Moravia sunt cunoscuți pentru natura sălbatică și aerul curat. Vârful Praděd domină peisajul cu un turn TV futurist în mijlocul florei alpine.",
+      en: "These Moravian mountains are known for their rugged nature and clean air. Praděd peak dominates with a futuristic TV tower amidst alpine flora.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg Praděd (1491 m)", "Größtes Pumpspeicherkraftwerk Dlouhé stráně", "Vorkommen der Alpengams", "Gegründet als Schutzgebiet 1969"],
+      hu: ["Legmagasabb hegye a Praděd (1491 m)", "Dlouhé stráně szivattyús-tározós erőmű", "Alpesi zergék élnek itt", "1969-ben lett tájvédelmi körzet"],
+      ro: ["Cel mai înalt vârf: Praděd (1491 m)", "Hidrocentrala Dlouhé stráně", "Prezența caprei negre alpine", "Zonă protejată din anul 1969"],
+      en: ["Highest peak is Praděd (1491 m)", "Dlouhé stráně pumped-storage plant", "Home to Alpine chamois", "Protected landscape since 1969"],
+    },
+  },
   {
     id: "czechrepublic-beskydy-mountains-life-v2",
     type: "mountain",
-    name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains" },
+    name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains",
+image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"
+},
     coords: [18.4, 49.5],
     coordinates: { lat: 49.5, lng: 18.4 },
     description: {
@@ -400,11 +720,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Suprafață de 1160 km pătrați", "Vârful Lysá hora (1323 m)", "Habitat pentru râși", "Bogat în arhitectură din lemn"],
       en: ["Area of 1,160 square km", "Highest peak is Lysá hora (1,323 m)", "Habitat for lynx", "Rich in wooden folk architecture"],
     },
-    imageHint: "Beskydy mountains forested landscape", image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"},
+    imageHint: "Beskydy mountains forested landscape",
+    image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die sanften Hügel der Beskiden sind geprägt von Urwäldern und traditioneller Holzarchitektur. Sie bilden ein wichtiges Rückzugsgebiet für große Raubtiere wie Bären und Luchse.",
+      hu: "A Beszkidek lankáit őserdők és hagyományos faépítészet jellemzi. Fontos menedéket nyújtanak a nagyragadozóknak, például medvéknek és hiúzoknak.",
+      ro: "Dealurile blânde ale Beskizilor sunt marcate de păduri virgine și arhitectură tradițională din lemn. Sunt un refugiu pentru urși și lincși.",
+      en: "The rolling hills of the Beskids are defined by primeval forests and traditional wooden architecture. They serve as a vital refuge for bears and lynx.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg Lysá hora (1323 m)", "Größtes tschechisches Schutzgebiet", "Siedlungsgebiet der Walachen", "Vorkommen von Wölfen und Bären"],
+      hu: ["Legmagasabb pontja a Lysá hora (1323 m)", "Csehország legnagyobb kiterjedésű védett területe", "A valach (oláh) kultúra központja", "Farkasok és medvék állandó élőhelye"],
+      ro: ["Cel mai înalt vârf: Lysá hora (1323 m)", "Cea mai mare zonă protejată din Cehia", "Zonă de așezare a vlahilor", "Prezența lupilor și a urșilor"],
+      en: ["Highest peak Lysá hora (1323 m)", "Largest protected area in Czechia", "Cultural region of the Vlachs", "Home to wolves and brown bears"],
+    },
+  },
   {
     id: "czechrepublic-krivoklatsko-forest-life-v2",
     type: "forest",
-    name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape" },
+    name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape",
+image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"
+},
     coords: [13.867, 50.033],
     coordinates: { lat: 50.033, lng: 13.867 },
     description: {
@@ -419,11 +755,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Rezervație UNESCO din 1977", "Peste 80 de specii de arbori", "Include castelul Křivoklát", "Zonă importantă de protecție a păsărilor"],
       en: ["UNESCO Biosphere Reserve since 1977", "Over 80 native tree species", "Contains Křivoklát Castle", "Significant bird protection area"],
     },
-    imageHint: "Berounka river valley and forests", image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"},
+    imageHint: "Berounka river valley and forests",
+    image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses waldreiche Gebiet entlang der Berounka ist ein UNESCO-Biosphärenreservat. Es zeichnet sich durch eine enorme Vielfalt an Baumarten und die markanten Windungen des Flusses aus.",
+      hu: "A Berounka folyó menti erdős vidék UNESCO bioszféra-rezervátum. Kiemelkedő fafaj-diverzitás és a folyó festői kanyarulatai jellemzik.",
+      ro: "Această zonă împădurită de-a lungul râului Berounka este rezervație UNESCO. Se remarcă prin marea diversitate de specii de arbori și meandrele râului.",
+      en: "This forested area along the Berounka River is a UNESCO Biosphere Reserve. It features immense tree diversity and striking river meanders.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Biosphärenreservat seit 1977", "Über 1.800 Gefäßpflanzenarten", "Schutzgebiet umfasst 628 km²", "Zentrum ist die Burg Křivoklát"],
+      hu: ["1977 óta UNESCO bioszféra-rezervátum", "Több mint 1800 edényes növényfaj", "A védett terület 628 km²", "Központjában Křivoklát vára áll"],
+      ro: ["Rezervație UNESCO din anul 1977", "Peste 1.800 specii de plante", "Zona protejată are 628 km²", "Centrul este castelul Křivoklát"],
+      en: ["UNESCO Biosphere Reserve since 1977", "Over 1,800 vascular plant species", "Covers 628 square kilometers", "Centered around Křivoklát Castle"],
+    },
+  },
   {
     id: "czechrepublic-prague-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Prag", hu: "Prágai Botanikus Kert", ro: "Grădina Botanică din Praga", en: "Prague Botanical Garden" },
+    name: { de: "Botanischer Garten Prag", hu: "Prágai Botanikus Kert", ro: "Grădina Botanică din Praga", en: "Prague Botanical Garden",
+image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"
+},
     coords: [14.414, 50.119],
     coordinates: { lat: 50.119, lng: 14.414 },
     description: {
@@ -438,11 +790,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Sera Fata Morgana are 130 m lungime", "Include podgoria Sf. Clement", "Fondată în anul 1969", "Include o grădină japoneză"],
       en: ["Fata Morgana greenhouse is 130 m long", "Includes the St. Claire vineyard", "Founded in 1969", "Features a Japanese garden"],
     },
-    imageHint: "Fata Morgana greenhouse in Prague", image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"},
+    imageHint: "Fata Morgana greenhouse in Prague",
+    image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "In Troja gelegen, bietet der Garten das futuristische Gewächshaus Fata Morgana. Er umfasst Weinberge, japanische Gärten und eine reiche Sammlung mediterraner und tropischer Pflanzen.",
+      hu: "A Troja negyedben található kert fő attrakciója a Fata Morgana üvegház. Szőlőültetvények, japánkert és trópusi gyűjtemény várja a látogatókat.",
+      ro: "Situată în Troja, grădina include sera futuristă Fata Morgana. Cuprinde podgorii, grădini japoneze și o colecție bogată de plante tropicale.",
+      en: "Located in Troja, this garden features the futuristic Fata Morgana greenhouse. it includes vineyards, Japanese gardens, and tropical plant collections.",
+    },
+    factsAdvanced: {
+      de: ["Gewächshaus Fata Morgana (1750 m²)", "Historischer Weinberg St. Klara", "Gegründet im Jahr 1969", "Japanischer Garten auf 0,67 ha"],
+      hu: ["Fata Morgana üvegház (1750 m²)", "Szent Klára történelmi szőlőskert", "1969-ben alapították", "0,67 hektáros japánkert"],
+      ro: ["Sera Fata Morgana are 1750 m²", "Podgoria istorică Sfânta Clara", "Înființată în anul 1969", "Grădină japoneză de 0,67 ha"],
+      en: ["Fata Morgana greenhouse (1750 m²)", "Historic St. Clare's Vineyard", "Founded in 1969", "0.67-hectare Japanese garden"],
+    },
+  },
   {
     id: "czechrepublic-rejviz-reserve-life-v2",
     type: "park",
-    name: { de: "Naturreservat Rejvíz", hu: "Rejvíz természetvédelmi terület", ro: "Rezervația Naturală Rejvíz", en: "Rejvíz Nature Reserve" },
+    name: { de: "Naturreservat Rejvíz", hu: "Rejvíz természetvédelmi terület", ro: "Rezervația Naturală Rejvíz", en: "Rejvíz Nature Reserve",
+image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"
+},
     coords: [17.294, 50.23],
     coordinates: { lat: 50.23, lng: 17.294 },
     description: {
@@ -457,11 +825,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Găzduiește Lacul Mare de Mușchi", "Cel mai înalt sat din Silezia", "Potecă educațională pe podețe", "Prezența plantelor carnivore"],
       en: ["Home to the Great Moss Lake", "Highest village in Silesia", "Boardwalk educational trail", "Presence of carnivorous plants"],
     },
-    imageHint: "Rejvíz moss lake boardwalk", image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"},
+    imageHint: "Rejvíz moss lake boardwalk",
+    image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das höchstgelegene Hochmoor Mährens besticht durch seine dunklen Seen und seltenen fleischfressenden Pflanzen. Ein Holzsteg führt Besucher sicher durch die sensible Sumpflandschaft.",
+      hu: "Morvaország legmagasabban fekvő tőzeglápja sötét tavairól és húsevő növényeiről nevezetes. Fapallós tanösvény vezet át az érzékeny mocsári tájon.",
+      ro: "Cea mai înaltă turbărie din Moravia impresionează prin lacurile întunecate și plantele carnivore. O punte de lemn traversează mlaștina sensibilă.",
+      en: "Moravia's highest peat bog is notable for its dark moss lakes and rare carnivorous plants. A boardwalk safely leads visitors through the marshy landscape.",
+    },
+    factsAdvanced: {
+      de: ["Großer Moossee (Velké mechové jezírko)", "Fläche von 396 Hektar", "Höhe von 734 bis 794 m n.m.", "Heimat des Sonnentaus"],
+      hu: ["Nagy-mohas-tó (Velké mechové jezírko)", "Területe 396 hektár", "Tengerszint feletti magasság: 734-794 m", "A kereklevelű harmatfű élőhelye"],
+      ro: ["Marele lac de mușchi (Velké mechové jezírko)", "Suprafață de 396 hectare", "Altitudine între 734 și 794 m", "Habitat pentru planta carnivoră Drosera"],
+      en: ["Great Moss Lake (Velké mechové jezírko)", "Total area of 396 hectares", "Elevation between 734 and 794 m", "Home to sundew carnivorous plants"],
+    },
+  },
   {
     id: "czechrepublic-slavkovsky-les-life-v2",
     type: "forest",
-    name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest" },
+    name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest",
+image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"
+},
     coords: [12.75, 50.083],
     coordinates: { lat: 50.083, lng: 12.75 },
     description: {
@@ -476,11 +860,27 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1974", "Suprafață de 606 km pătrați", "Include turbăriile Kladská", "Zonă importantă de protecție a izvoarelor"],
       en: ["Established in 1974", "Area of 606 square km", "Includes the Kladská peat bogs", "Important mineral spring protection zone"],
     },
-    imageHint: "Kladská peat bog in Slavkov forest", image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"},
+    imageHint: "Kladská peat bog in Slavkov forest",
+    image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das waldreiche Bergland in Westböhmen ist ein Reservoir für Mineralquellen. Es schützt Moorgebiete, seltene Serpentinit-Flora und bildet die Kulisse der berühmten Kurorte.",
+      hu: "A nyugat-csehországi erdős hegység az ásványvízforrások tárháza. Lápokat és ritka szerpentinit-flórát véd, keretet adva a híres fürdővárosoknak.",
+      ro: "Zonă montană împădurită din Boemia de Vest, rezervor de izvoare minerale. Protejează turbării și floră rară, fiind cadrul celebrelor stațiuni balneare.",
+      en: "This forested highland in West Bohemia is a reservoir for mineral springs. It protects peat bogs and rare serpentine flora near famous spa towns.",
+    },
+    factsAdvanced: {
+      de: ["Landschaftsschutzgebiet seit 1974", "Fläche von 606 km²", "Höchster Berg Lesný (983 m)", "Quelle von Magnesia-Mineralwasser"],
+      hu: ["1974 óta tájvédelmi körzet", "Területe 606 km²", "Legmagasabb pontja a Lesný (983 m)", "A Magnesia ásványvíz forrásvidéke"],
+      ro: ["Zonă protejată din anul 1974", "Suprafață de 606 km²", "Vârful Lesný are 983 metri", "Sursa apei minerale Magnesia"],
+      en: ["Protected landscape since 1974", "Area of 606 square kilometers", "Highest peak Lesný at 983 m", "Source of Magnesia mineral water"],
+    },
+  },
   {
     id: "czechrepublic-orlicke-hory-life-v2",
     type: "mountain",
-    name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains" },
+    name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains",
+image: "/poi-images/czechrepublic-orlicke-hory-life-v2.webp"
+},
     coords: [16.442, 50.211],
     coordinates: { lat: 50.211, lng: 16.442 },
     description: {
@@ -496,5 +896,17 @@ export const czechrepublicLifeV2: POI[] = [
       en: ["Highest peak is Velká Deštná (1,115 m)", "Established in 1969", "Includes the Bukačka primeval beech forest", "Major hiking region"],
     },
     imageHint: "Eagle Mountains ridgeline view",
+    descriptionAdvanced: {
+      de: "Das Adlergebirge an der polnischen Grenze bietet eine friedliche Berglandschaft mit tiefen Buchenwäldern. Es ist bekannt für seine historischen Grenzbefestigungen aus dem 20. Jahrhundert.",
+      hu: "A lengyel határon fekvő Sas-hegység békés táj bükkerdőkkel. A terület a 20. századi határvédelmi erődrendszer maradványairól is nevezetes.",
+      ro: "Munții Vulturului de la granița poloneză oferă un peisaj montan liniștit cu păduri de fag. Sunt cunoscuți pentru fortificațiile de frontieră din secolul XX.",
+      en: "The Eagle Mountains on the Polish border offer peaceful landscapes with deep beech forests. They are noted for historic 20th-century border fortifications.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg Velká Deštná (1115 m)", "Artillerie-Festung Hanička", "Gegründet als Schutzgebiet 1969", "Länge des Hauptkamms ca. 50 km"],
+      hu: ["Legmagasabb hegye a Velká Deštná (1115 m)", "Hanička tüzérségi erődrendszer", "1969 óta védett terület", "A főgerinc hossza kb. 50 km"],
+      ro: ["Cel mai înalt vârf: Velká Deštná (1115 m)", "Fortăreața de artilerie Hanička", "Zonă protejată din anul 1969", "Creastă principală de circa 50 km"],
+      en: ["Highest peak Velká Deštná (1115 m)", "Features Hanička artillery fortress", "Protected landscape since 1969", "Main ridge length approx. 50 km"],
+    },
   }
 ];

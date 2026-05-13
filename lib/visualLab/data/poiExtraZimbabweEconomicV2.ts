@@ -11,8 +11,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Hwange Colliery",
       de: "Zeche Hwange",
       hu: "Hwange Szénbánya",
-      ro: "Mina de Cărbune Hwange"
-    },
+      ro: "Mina de Cărbune Hwange",
+image: "/poi-images/hwange-colliery-economic-v2.webp"
+},
     description: {
       en: "One of Zimbabwe's largest and oldest coal mines, supplying thermal power stations and industry.",
       de: "Eines der größten und ältesten Kohlebergwerke Simbabwes, das Wärmekraftwerke und die Industrie versorgt.",
@@ -53,8 +54,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Zimplats Ngezi Mine",
       de: "Zimplats Ngezi Mine",
       hu: "Zimplats Ngezi Bánya",
-      ro: "Mina Zimplats Ngezi"
-    },
+      ro: "Mina Zimplats Ngezi",
+image: "/poi-images/zimplats-ngezi-mine-economic-v2.webp"
+},
     description: {
       en: "A major platinum group metals (PGM) mining operation in the Great Dyke.",
       de: "Ein großes Abbaugebiet für Platingruppenmetalle (PGM) im Great Dyke.",
@@ -95,8 +97,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Mimosa Platinum Mine",
       de: "Mimosa Platinmine",
       hu: "Mimosa Platinabánya",
-      ro: "Mina de Platină Mimosa"
-    },
+      ro: "Mina de Platină Mimosa",
+image: "/poi-images/mimosa-platinum-mine-economic-v2.webp"
+},
     description: {
       en: "One of the oldest operating platinum mines located on the Wedza geological complex.",
       de: "Eine der ältesten in Betrieb befindlichen Platinminen am geologischen Wedza-Komplex.",
@@ -137,8 +140,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Unki Platinum Mine",
       de: "Unki Platinmine",
       hu: "Unki Platinabánya",
-      ro: "Mina de Platină Unki"
-    },
+      ro: "Mina de Platină Unki",
+image: "/poi-images/unki-platinum-mine-economic-v2.webp"
+},
     description: {
       en: "A major underground platinum mine owned by Anglo American Platinum.",
       de: "Eine große unterirdische Platinmine im Besitz von Anglo American Platinum.",
@@ -179,8 +183,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Murowa Diamond Mine",
       de: "Murowa Diamantenmine",
       hu: "Murowa Gyémántbánya",
-      ro: "Mina de Diamante Murowa"
-    },
+      ro: "Mina de Diamante Murowa",
+image: "/poi-images/murowa-diamond-mine-economic-v2.webp"
+},
     description: {
       en: "An open-pit diamond mine known for producing high-quality gems.",
       de: "Eine im Tagebau betriebene Diamantenmine, bekannt für die Produktion hochwertiger Edelsteine.",
@@ -214,8 +219,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Freda Rebecca Gold Mine",
       de: "Freda Rebecca Goldmine",
       hu: "Freda Rebecca Aranybánya",
-      ro: "Mina de Aur Freda Rebecca"
-    },
+      ro: "Mina de Aur Freda Rebecca",
+image: "/poi-images/freda-rebecca-gold-mine-economic-v2.webp"
+},
     description: {
       en: "The largest gold producer in Zimbabwe, located near Bindura.",
       de: "Der größte Goldproduzent in Simbabwe, in der Nähe von Bindura.",
@@ -249,8 +255,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Blanket Gold Mine",
       de: "Blanket Goldmine",
       hu: "Blanket Aranybánya",
-      ro: "Mina de Aur Blanket"
-    },
+      ro: "Mina de Aur Blanket",
+image: "/poi-images/blanket-gold-mine-economic-v2.webp"
+},
     description: {
       en: "A well-established underground gold mine with a long history of production.",
       de: "Eine gut etablierte unterirdische Goldmine mit einer langen Produktionsgeschichte.",
@@ -284,8 +291,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "How Mine",
       de: "How Mine",
       hu: "How Bánya",
-      ro: "Mina How"
-    },
+      ro: "Mina How",
+image: "/poi-images/how-mine-economic-v2.webp"
+},
     description: {
       en: "A significant gold mining operation located just outside Bulawayo.",
       de: "Ein bedeutendes Goldbergbauunternehmen direkt außerhalb von Bulawayo.",
@@ -319,8 +327,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Eureka Gold Mine",
       de: "Eureka Goldmine",
       hu: "Eureka Aranybánya",
-      ro: "Mina de Aur Eureka"
-    },
+      ro: "Mina de Aur Eureka",
+image: "/poi-images/eureka-gold-mine-economic-v2.webp"
+},
     description: {
       en: "An open-pit gold mine that has seen significant redevelopment.",
       de: "Eine im Tagebau betriebene Goldmine, die erheblich umgebaut wurde.",
@@ -354,8 +363,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Zisco Steel Works",
       de: "Zisco Stahlwerke",
       hu: "Zisco Acélművek",
-      ro: "Uzina Siderurgică Zisco"
-    },
+      ro: "Uzina Siderurgică Zisco",
+image: "/poi-images/zisco-steel-works-economic-v2.webp"
+},
     description: {
       en: "Historically one of the largest integrated steelworks in Africa, currently undergoing revitalization.",
       de: "Historisch gesehen eines der größten integrierten Stahlwerke in Afrika, das derzeit revitalisiert wird.",
@@ -389,8 +399,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Sable Chemicals",
       de: "Sable Chemicals",
       hu: "Sable Vegyiművek",
-      ro: "Uzina Chimică Sable"
-    },
+      ro: "Uzina Chimică Sable",
+image: "/poi-images/sable-chemicals-economic-v2.webp"
+},
     description: {
       en: "Zimbabwe's sole manufacturer of ammonium nitrate fertilizer.",
       de: "Simbabwes einziger Hersteller von Ammoniumnitrat-Dünger.",
@@ -424,8 +435,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Triangle Sugar Estate and Mill",
       de: "Triangle Zuckerrohrplantage und Mühle",
       hu: "Triangle Cukorültetvény és Malom",
-      ro: "Plantația și Moara de Zahăr Triangle"
-    },
+      ro: "Plantația și Moara de Zahăr Triangle",
+image: "/poi-images/triangle-sugar-estate-economic-v2.webp"
+},
     description: {
       en: "A vast sugarcane plantation and processing facility in the Lowveld region.",
       de: "Eine riesige Zuckerrohrplantage und Verarbeitungsanlage in der Lowveld-Region.",
@@ -459,8 +471,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Hippo Valley Estate Mill",
       de: "Hippo Valley Estate Mühle",
       hu: "Hippo Valley Birtok Malma",
-      ro: "Moara domeniului Hippo Valley"
-    },
+      ro: "Moara domeniului Hippo Valley",
+image: "/poi-images/hippo-valley-estate-economic-v2.webp"
+},
     description: {
       en: "A major agricultural and industrial sugar processing complex near Chiredzi.",
       de: "Ein großer landwirtschaftlicher und industrieller Zuckerverarbeitungskomplex in der Nähe von Chiredzi.",
@@ -494,8 +507,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Delta Beverages Harare Brewery",
       de: "Delta Beverages Brauerei Harare",
       hu: "Delta Beverages Harare Sörfőzde",
-      ro: "Berăria Delta Beverages Harare"
-    },
+      ro: "Berăria Delta Beverages Harare",
+image: "/poi-images/delta-beverages-harare-economic-v2.webp"
+},
     description: {
       en: "The largest brewing facility in Zimbabwe, producing popular lagers and soft drinks.",
       de: "Die größte Brauerei in Simbabwe, die beliebte Lagerbiere und Erfrischungsgetränke produziert.",
@@ -529,8 +543,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Delta Beverages Bulawayo",
       de: "Delta Beverages Bulawayo",
       hu: "Delta Beverages Bulawayo",
-      ro: "Delta Beverages Bulawayo"
-    },
+      ro: "Delta Beverages Bulawayo",
+image: "/poi-images/delta-beverages-bulawayo-economic-v2.webp"
+},
     description: {
       en: "A key brewing and distribution hub for the southern regions of Zimbabwe.",
       de: "Ein wichtiges Brau- und Vertriebszentrum für die südlichen Regionen Simbabwes.",
@@ -564,8 +579,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Bata Shoe Factory",
       de: "Bata Schuhfabrik",
       hu: "Bata Cipőgyár",
-      ro: "Fabrica de Încălțăminte Bata"
-    },
+      ro: "Fabrica de Încălțăminte Bata",
+image: "/poi-images/bata-shoe-factory-gweru-economic-v2.webp"
+},
     description: {
       en: "An iconic footwear manufacturing plant that has operated for decades.",
       de: "Eine ikonische Schuhfabrik, die seit Jahrzehnten in Betrieb ist.",
@@ -599,8 +615,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Mutare Board and Paper Mills",
       de: "Mutare Karton- und Papierfabrik",
       hu: "Mutare Papír- és Kartongyár",
-      ro: "Fabrica de Hârtie și Carton Mutare"
-    },
+      ro: "Fabrica de Hârtie și Carton Mutare",
+image: "/poi-images/mutare-board-paper-mills-economic-v2.webp"
+},
     description: {
       en: "A traditional hub for forestry product processing in the Eastern Highlands.",
       de: "Ein traditionelles Zentrum für die Verarbeitung von Forstprodukten in den Eastern Highlands.",
@@ -634,8 +651,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Willowvale Motor Industries",
       de: "Willowvale Motor Industries",
       hu: "Willowvale Autóipar",
-      ro: "Industria Auto Willowvale"
-    },
+      ro: "Industria Auto Willowvale",
+image: "/poi-images/willowvale-motor-industries-economic-v2.webp"
+},
     description: {
       en: "The premier vehicle assembly plant in Zimbabwe, assembling various international brands.",
       de: "Das wichtigste Fahrzeugmontagewerk in Simbabwe, das verschiedene internationale Marken montiert.",
@@ -669,8 +687,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Quest Motor Corporation",
       de: "Quest Motor Corporation",
       hu: "Quest Autógyár",
-      ro: "Quest Motor Corporation"
-    },
+      ro: "Quest Motor Corporation",
+image: "/poi-images/quest-motor-corporation-economic-v2.webp"
+},
     description: {
       en: "A notable vehicle manufacturing and assembly plant situated in Mutare.",
       de: "Ein bemerkenswertes Fahrzeugproduktions- und Montagewerk in Mutare.",
@@ -704,8 +723,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Mazowe Citrus Estate",
       de: "Mazowe Zitrusplantage",
       hu: "Mazowe Citrusültetvény",
-      ro: "Domeniul de Citrice Mazowe"
-    },
+      ro: "Domeniul de Citrice Mazowe",
+image: "/poi-images/mazowe-citrus-estate-economic-v2.webp"
+},
     description: {
       en: "One of the largest citrus plantations in Southern Africa with integrated processing.",
       de: "Eine der größten Zitrusplantagen im südlichen Afrika mit integrierter Verarbeitung.",
@@ -739,8 +759,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Tanganda Tea Estate",
       de: "Tanganda Teeplantage",
       hu: "Tanganda Teaültetvény",
-      ro: "Plantația de Ceai Tanganda"
-    },
+      ro: "Plantația de Ceai Tanganda",
+image: "/poi-images/tanganda-tea-estate-economic-v2.webp"
+},
     description: {
       en: "Zimbabwe's largest tea producer with extensive processing factories.",
       de: "Simbabwes größter Teeproduzent mit umfangreichen Verarbeitungsfabriken.",
@@ -774,8 +795,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Bikita Minerals",
       de: "Bikita Minerals",
       hu: "Bikita Ásványbánya",
-      ro: "Minerale Bikita"
-    },
+      ro: "Minerale Bikita",
+image: "/poi-images/bikita-minerals-economic-v2.webp"
+},
     description: {
       en: "Home to one of the world's largest known lithium deposits.",
       de: "Heimat eines der weltweit größten bekannten Lithiumvorkommen.",
@@ -809,8 +831,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Arcadia Lithium Mine",
       de: "Arcadia Lithiummine",
       hu: "Arcadia Lítiumbánya",
-      ro: "Mina de Litiu Arcadia"
-    },
+      ro: "Mina de Litiu Arcadia",
+image: "/poi-images/arcadia-lithium-mine-economic-v2.webp"
+},
     description: {
       en: "A newly developed, massive hard-rock lithium mining and processing plant.",
       de: "Ein neu entwickeltes, massives Hartgesteins-Lithiumabbau- und Verarbeitungszentrum.",
@@ -844,8 +867,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Trojan Nickel Mine",
       de: "Trojan Nickelmine",
       hu: "Trojan Nikkelbánya",
-      ro: "Mina de Nichel Trojan"
-    },
+      ro: "Mina de Nichel Trojan",
+image: "/poi-images/trojan-nickel-mine-economic-v2.webp"
+},
     description: {
       en: "The primary nickel producing underground mine in Zimbabwe, located in Bindura.",
       de: "Die wichtigste unterirdische Nickelmine in Simbabwe, gelegen in Bindura.",
@@ -879,8 +903,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Empress Nickel Refinery",
       de: "Empress Nickelraffinerie",
       hu: "Empress Nikkel Finomító",
-      ro: "Rafinăria de Nichel Empress"
-    },
+      ro: "Rafinăria de Nichel Empress",
+image: "/poi-images/empress-nickel-mine-economic-v2.webp"
+},
     description: {
       en: "A base metal refinery dedicated to processing nickel and copper matte.",
       de: "Eine Basismetallraffinerie für die Verarbeitung von Nickel- und Kupfermatte.",
@@ -914,8 +939,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Mutare Dry Port",
       de: "Trockenhafen Mutare",
       hu: "Mutare Szárazkikötő",
-      ro: "Portul Sec Mutare"
-    },
+      ro: "Portul Sec Mutare",
+image: "/poi-images/mutare-dry-port-economic-v2.webp"
+},
     description: {
       en: "A vital inland logistics hub facilitating trade via the Beira corridor.",
       de: "Ein wichtiges Binnenlogistikzentrum, das den Handel über den Beira-Korridor erleichtert.",
@@ -949,8 +975,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Bulawayo Dry Port",
       de: "Trockenhafen Bulawayo",
       hu: "Bulawayo Szárazkikötő",
-      ro: "Portul Sec Bulawayo"
-    },
+      ro: "Portul Sec Bulawayo",
+image: "/poi-images/bulawayo-dry-port-economic-v2.webp"
+},
     description: {
       en: "An inland terminal strategically placed to connect South African and regional rail networks.",
       de: "Ein Binnenterminal in strategisch günstiger Lage zur Anbindung an südafrikanische und regionale Schienennetze.",
@@ -984,8 +1011,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Harare Inland Port",
       de: "Binnenhafen Harare",
       hu: "Harare Szárazföldi Kikötő",
-      ro: "Portul Intern Harare"
-    },
+      ro: "Portul Intern Harare",
+image: "/poi-images/harare-inland-port-economic-v2.webp"
+},
     description: {
       en: "The central container depot handling bulk imports and exports for the capital.",
       de: "Das zentrale Containerdepot zur Abfertigung von Massengutimporten und -exporten für die Hauptstadt.",
@@ -1019,8 +1047,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Beitbridge Cargo Hub",
       de: "Frachtzentrum Beitbridge",
       hu: "Beitbridge Teheráru Központ",
-      ro: "Centrul de Marfă Beitbridge"
-    },
+      ro: "Centrul de Marfă Beitbridge",
+image: "/poi-images/beitbridge-cargo-hub-economic-v2.webp"
+},
     description: {
       en: "The busiest inland border crossing and cargo port in Sub-Saharan Africa.",
       de: "Der verkehrsreichste Binnengrenzübergang und Frachthafen in Subsahara-Afrika.",
@@ -1054,8 +1083,9 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
       en: "Plumtree Inland Cargo Terminal",
       de: "Binnenfrachtterminal Plumtree",
       hu: "Plumtree Szárazföldi Teherterminál",
-      ro: "Terminalul Intern de Marfă Plumtree"
-    },
+      ro: "Terminalul Intern de Marfă Plumtree",
+image: "/poi-images/plumtree-inland-cargo-terminal-economic-v2.webp"
+},
     description: {
       en: "A crucial logistical waypoint for freight moving between Zimbabwe and Botswana.",
       de: "Ein entscheidender logistischer Wegpunkt für Fracht zwischen Simbabwe und Botswana.",

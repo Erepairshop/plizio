@@ -4,7 +4,9 @@ export const luxembourgEconomicV2: POI[] = [
   {
     id: "luxembourg-kirchberg-district-economic-v2",
     type: "city",
-    name: { de: "Finanzdistrikt Kirchberg", hu: "Kirchberg pénzügyi negyed", ro: "Districtul financiar Kirchberg", en: "Kirchberg Financial District" },
+    name: { de: "Finanzdistrikt Kirchberg", hu: "Kirchberg pénzügyi negyed", ro: "Districtul financiar Kirchberg", en: "Kirchberg Financial District",
+image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp"
+},
     coords: [6.158, 49.626],
     coordinates: { lat: 49.626, lng: 6.158 },
     description: {
@@ -19,11 +21,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul Băncii Europene de Investiții", "Centru pentru peste 140 de bănci internaționale", "Locația Curții de Justiție a Uniunii Europene", "Al doilea cel mai mare centru de fonduri de investiții din lume"],
       en: ["Headquarters of the European Investment Bank", "Home to over 140 international banks", "Location of the European Court of Justice", "World's second-largest investment fund center"],
     },
-    imageHint: "Modern skyscrapers and glass buildings in Kirchberg Luxembourg", image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp"},
-  {
+imageHint: "Modern skyscrapers and glass buildings in Kirchberg Luxembourg",
+    descriptionAdvanced: {
+      de: "Das Kirchberg-Plateau ist das Finanzzentrum Luxemburgs. Es beherbergt zahlreiche EU-Institutionen, internationale Banken und den bedeutenden europäischen Gerichtshof.",
+      hu: "A Kirchberg-fennsík Luxemburg pénzügyi központja, ahol számos európai uniós intézmény, nemzetközi bank és az Európai Bíróság modern székháza is található.",
+      ro: "Districtul Kirchberg este inima financiară a Luxemburgului, găzduind numeroase instituții ale UE, bănci internaționale și Curtea de Justiție a Uniunii Europene.",
+      en: "The Kirchberg district is Luxembourg's primary financial hub, hosting numerous European Union institutions and global banking headquarters on a modern urban plateau.",
+    },
+    factsAdvanced: {
+      de: ["Über 100 internationale Banken", "Sitz der Europäischen Investitionsbank", "Fläche von ca. 365 Hektar", "Standort des Luxexpo The Box Zentrums"],
+      hu: ["Több mint 100 nemzetközi bank székhelye", "Az Európai Beruházási Bank központja", "Mintegy 365 hektáros területen fekszik", "A Luxexpo The Box kiállítási központ helyszíne"],
+      ro: ["Peste 100 de bănci internaționale prezentate", "Sediul Băncii Europene de Investiții", "Suprafață de aproximativ 365 de hectare", "Locația centrului expozițional Luxexpo The Box"],
+      en: ["Over 100 international banks present", "Headquarters of the European Investment Bank", "Covers an area of about 365 hectares", "Home to the Luxexpo The Box exhibition center"],
+    },
+    image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp",
+},  {
     id: "luxembourg-belval-innovation-economic-v2",
     type: "industry",
-    name: { de: "Belval Innovationscampus", hu: "Belval Innovációs Kampusz", ro: "Campusul de Inovare Belval", en: "Belval Innovation Campus" },
+    name: { de: "Belval Innovationscampus", hu: "Belval Innovációs Kampusz", ro: "Campusul de Inovare Belval", en: "Belval Innovation Campus",
+image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp"
+},
     coords: [5.948, 49.499],
     coordinates: { lat: 49.499, lng: 5.948 },
     description: {
@@ -38,11 +55,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Locația Universității din Luxemburg", "Centru pentru institutele naționale de cercetare", "Cel mai mare proiect de dezvoltare urbană din țară", "Fostul cel mai important sit siderurgic din regiune"],
       en: ["Location of the University of Luxembourg", "Home to national research centers", "Country's largest urban development project", "Formerly the most important steel site in the region"],
     },
-    imageHint: "Preserved blast furnaces in Belval Luxembourg at night", image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp"},
-  {
+imageHint: "Preserved blast furnaces in Belval Luxembourg at night",
+    descriptionAdvanced: {
+      de: "Belval ist ein ehemaliges Stahlwerksareal, das in ein modernes Forschungs- und Innovationszentrum mit der Universität Luxemburg und der Rockhal umgewandelt wurde.",
+      hu: "Belval egy egykori acélmű területe, amelyet modern kutatási és innovációs központtá alakítottak, itt található a Luxemburgi Egyetem és a Rockhal koncertterem.",
+      ro: "Belval este un fost sit siderurgic transformat într-un centru modern de cercetare și inovare, găzduind Universitatea din Luxemburg și sala de concerte Rockhal.",
+      en: "Belval is a former steelworks site transformed into a premier research and innovation hub, featuring the University of Luxembourg and the iconic Rockhal venue.",
+    },
+    factsAdvanced: {
+      de: ["Früherer Standort der ARBED-Hochöfen", "Sitz der Universität Luxemburg seit 2015", "Fläche von etwa 120 Hektar", "Standort des Maison du Savoir Gebäudes"],
+      hu: ["Az egykori ARBED kohók helyszíne", "2015 óta a Luxemburgi Egyetem székhelye", "Körülbelül 120 hektáros fejlesztési terület", "Itt található a Maison du Savoir épülete"],
+      ro: ["Fostul amplasament al furnalelor ARBED", "Sediul Universității din Luxemburg din 2015", "Suprafață de aproximativ 120 de hectare", "Găzduiește clădirea emblematică Maison du Savoir"],
+      en: ["Former site of ARBED blast furnaces", "Headquarters of University of Luxembourg since 2015", "Covers approximately 120 hectares", "Home to the landmark Maison du Savoir building"],
+    },
+    image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp",
+},  {
     id: "luxembourg-findel-cargo-center-economic-v2",
     type: "port",
-    name: { de: "Cargo Center Findel", hu: "Findel Cargo Központ", ro: "Centrul Cargo Findel", en: "Findel Cargo Center" },
+    name: { de: "Cargo Center Findel", hu: "Findel Cargo Központ", ro: "Centrul Cargo Findel", en: "Findel Cargo Center",
+image: "/poi-images/luxembourg-findel-cargo-center-economic-v2.webp"
+},
     coords: [6.215, 49.638],
     coordinates: { lat: 49.638, lng: 6.215 },
     description: {
@@ -58,11 +90,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["Home airport of Cargolux", "Eighth largest cargo airport in Europe", "Over 1 million tonnes of annual cargo capacity", "Direct highway access to the European network"],
     },
     imageHint: "Cargolux freight plane at Findel Airport Luxembourg",
+    descriptionAdvanced: {
+      de: "Das Cargo Center am Flughafen Findel ist eines der größten Luftfrachtdrehkreuze Europas und dient als Heimatbasis für die Frachtfluggesellschaft Cargolux.",
+      hu: "A findeli repülőtér áruforgalmi központja Európa egyik legnagyobb légi teherfuvarozási csomópontja, és a Cargolux légitársaság bázisaként szolgál.",
+      ro: "Centrul cargo de la aeroportul Findel este unul dintre cele mai mari hub-uri de transport aerian din Europa, fiind baza principală a companiei Cargolux.",
+      en: "The Cargo Center at Findel Airport is one of Europe's largest air freight hubs and serves as the primary home base for the cargo airline Cargolux.",
+    },
+    factsAdvanced: {
+      de: ["Siebtgrößter Frachtflughafen in Europa", "Abwicklung von fast 1 Million Tonnen Fracht", "Hauptsitz der Cargolux Airlines", "Spezialisiert auf Pharma- und Lebendtiertransporte"],
+      hu: ["Európa hetedik legnagyobb teherforgalmi repülőtere", "Közel 1 millió tonna árut kezel évente", "A Cargolux légitársaság központja", "Gyógyszerek és élőállatok szállítására specializálódott"],
+      ro: ["Al șaptelea cel mai mare aeroport de marfă din Europa", "Manipulează aproape 1 milion de tone de marfă", "Sediul central al companiei aeriene Cargolux", "Specializat în transportul de produse farmaceutice"],
+      en: ["Seventh largest cargo airport in Europe", "Handles nearly 1 million tonnes of freight", "Global headquarters of Cargolux Airlines", "Specialized in pharmaceutical and live animal transport"],
+    },
   },
   {
     id: "luxembourg-ses-astra-headquarters-economic-v2",
     type: "industry",
-    name: { de: "SES Astra Hauptsitz", hu: "SES Astra Székház", ro: "Sediul SES Astra", en: "SES Astra Headquarters" },
+    name: { de: "SES Astra Hauptsitz", hu: "SES Astra Székház", ro: "Sediul SES Astra", en: "SES Astra Headquarters",
+image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp"
+},
     coords: [6.331, 49.693],
     coordinates: { lat: 49.693, lng: 6.331 },
     description: {
@@ -77,11 +123,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Cel mai mare operator de sateliți din lume", "Sediul într-un fost castel mare-ducal", "Servește peste 350 de milioane de gospodării", "Unul dintre cei mai mari angajatori privați din țară"],
       en: ["World's largest satellite operator", "Headquarters in a former Grand Ducal castle", "Serves over 350 million households", "One of the largest private employers in the country"],
     },
-    imageHint: "Satellite dishes and control center at Betzdorf Luxembourg", image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp"},
-  {
+imageHint: "Satellite dishes and control center at Betzdorf Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Hauptsitz von SES in Schloss Betzdorf steuert eine globale Satellitenflotte, die Fernsehen und Internet für Milliarden von Menschen weltweit bereitstellt.",
+      hu: "A SES betzdorfi kastélyban található központja egy globális műholdflottát irányít, amely televíziós és internetes szolgáltatást nyújt milliárdoknak világszerte.",
+      ro: "Sediul central al SES de la castelul Betzdorf gestionează o flotă globală de sateliți, oferind servicii de televiziune și internet pentru miliarde de oameni.",
+      en: "The SES headquarters at Betzdorf Castle manages a global satellite fleet, providing television and internet connectivity to billions of people worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der SES im Jahr 1985", "Erster Astra-Satellit startete 1988", "Über 70 Satelliten in verschiedenen Orbits", "Standort ist das historische Schloss Betzdorf"],
+      hu: ["A SES alapítása 1985-ben történt", "Az első Astra műhold 1988-ban állt pályára", "Több mint 70 műholdat üzemeltetnek", "A történelmi Betzdorf-kastély ad otthont neki"],
+      ro: ["Fondarea SES în anul 1985", "Primul satelit Astra a fost lansat în 1988", "Peste 70 de sateliți în diverse orbite", "Locația este castelul istoric Betzdorf"],
+      en: ["SES founded in 1985", "First Astra satellite launched in 1988", "Operates over 70 satellites in orbit", "Located at the historic Betzdorf Castle"],
+    },
+    image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp",
+},  {
     id: "luxembourg-port-of-mertert-economic-v2",
     type: "port",
-    name: { de: "Hafen von Mertert", hu: "Merterti kikötő", ro: "Portul Mertert", en: "Port of Mertert" },
+    name: { de: "Hafen von Mertert", hu: "Merterti kikötő", ro: "Portul Mertert", en: "Port of Mertert",
+image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp"
+},
     coords: [6.485, 49.701],
     coordinates: { lat: 49.701, lng: 6.485 },
     description: {
@@ -96,11 +157,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Singura cale de acces la rețeaua transeuropeană de căi navigabile", "Manipulează aproximativ 1,5 milioane de tone anual", "Hub logistic important pentru export", "Fondat în anul 1966"],
       en: ["Only access to the trans-European waterway network", "Handles approx. 1.5 million tonnes annually", "Important logistics hub for exports", "Founded in 1966"],
     },
-    imageHint: "Cargo ships and cranes at Port of Mertert on the Moselle", image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp"},
-  {
+imageHint: "Cargo ships and cranes at Port of Mertert on the Moselle",
+    descriptionAdvanced: {
+      de: "Der Hafen von Mertert ist der einzige Binnenhafen Luxemburgs an der Mosel und ein wichtiger trimodaler Logistikknotenpunkt für den Export von Stahl und Gütern.",
+      hu: "Mertert kikötője Luxemburg egyetlen folyami kikötője a Mosel partján, és fontos trimodális logisztikai csomópont az acél és egyéb áruk exportjához.",
+      ro: "Portul Mertert este singurul port fluvial al Luxemburgului pe râul Moselle, fiind un nod logistic trimodal crucial pentru exportul de oțel și mărfuri.",
+      en: "The Port of Mertert is Luxembourg's only inland port on the Moselle river, serving as a vital trimodal logistics hub for exporting steel and other goods.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Hafens im Jahr 1966", "Verbindung zum Rhein und zur Nordsee", "Gesamtfläche von ca. 65 Hektar", "Umschlag von rund 1 Million Tonnen jährlich"],
+      hu: ["A kikötő megnyitása 1966-ban volt", "Közvetlen kapcsolat a Rajnával és az Északi-tengerrel", "Teljes területe körülbelül 65 hektár", "Évente mintegy 1 millió tonna árut mozgat"],
+      ro: ["Inaugurarea portului în anul 1966", "Conexiune directă cu Rinul și Marea Nordului", "Suprafață totală de aproximativ 65 de hectare", "Manipulează circa 1 milion de tone anual"],
+      en: ["Port opened in 1966", "Connects to the Rhine and North Sea", "Total area of approximately 65 hectares", "Handles about 1 million tonnes of cargo annually"],
+    },
+    image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp",
+},  {
     id: "luxembourg-vianden-pumped-storage-economic-v2",
     type: "industry",
-    name: { de: "Pumpspeicherkraftwerk Vianden", hu: "Viandeni szivattyús-tározós erőmű", ro: "Centrala hidroelectrică de acumulare Vianden", en: "Vianden Pumped Storage Plant" },
+    name: { de: "Pumpspeicherkraftwerk Vianden", hu: "Viandeni szivattyús-tározós erőmű", ro: "Centrala hidroelectrică de acumulare Vianden", en: "Vianden Pumped Storage Plant",
+image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp"
+},
     coords: [6.183, 49.952],
     coordinates: { lat: 49.952, lng: 6.183 },
     description: {
@@ -115,11 +191,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Putere instalată de 1.300 megawați", "Are două rezervoare superioare artificiale", "Stabilizator important pentru rețeaua electrică europeană", "Caverne subterane mari pentru turbine"],
       en: ["Installed capacity of 1,300 megawatts", "Features two artificial upper reservoirs", "Key stabilizer for the European power grid", "Large underground caverns for the turbines"],
     },
-    imageHint: "The upper reservoir of the Vianden pumped storage plant", image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp"},
-  {
+imageHint: "The upper reservoir of the Vianden pumped storage plant",
+    descriptionAdvanced: {
+      de: "Das Pumpspeicherwerk Vianden ist eines der größten seiner Art in Europa und dient der Speicherung von Energie sowie der Stabilisierung des Stromnetzes.",
+      hu: "A viandeni szivattyús-tározós erőmű Európa egyik legnagyobb ilyen létesítménye, amely energiatárolásra és az elektromos hálózat stabilizálására szolgál.",
+      ro: "Centrala cu acumulare prin pompare din Vianden este una dintre cele mai mari din Europa, fiind utilizată pentru stocarea energiei și stabilizarea rețelei.",
+      en: "The Vianden Pumped Storage Plant is one of the largest facilities of its kind in Europe, used for energy storage and stabilizing the electrical grid.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Leistung von 1.300 Megawatt", "Betrieb durch die SEO (Société Électrique de l'Our)", "Bauzeit zwischen 1959 und 1964", "Verfügt über 11 Turbinengruppen"],
+      hu: ["Maximális teljesítménye 1300 megawatt", "Az SEO (Société Électrique de l'Our) üzemelteti", "1959 és 1964 között épült", "Összesen 11 turbinacsoporttal rendelkezik"],
+      ro: ["Capacitate maximă de 1.300 megawați", "Operată de SEO (Société Électrique de l'Our)", "Construită între anii 1959 și 1964", "Dispune de 11 grupuri de turbine"],
+      en: ["Maximum capacity of 1,300 megawatts", "Operated by SEO (Société Électrique de l'Our)", "Built between 1959 and 1964", "Features 11 turbine units in total"],
+    },
+    image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp",
+},  {
     id: "luxembourg-arcelormittal-differdange-economic-v2",
     type: "factory",
-    name: { de: "ArcelorMittal Differdange", hu: "ArcelorMittal Differdange", ro: "ArcelorMittal Differdange", en: "ArcelorMittal Differdange" },
+    name: { de: "ArcelorMittal Differdange", hu: "ArcelorMittal Differdange", ro: "ArcelorMittal Differdange", en: "ArcelorMittal Differdange",
+image: "/poi-images/luxembourg-arcelormittal-differdange-economic-v2.webp"
+},
     coords: [5.892, 49.524],
     coordinates: { lat: 49.524, lng: 5.892 },
     description: {
@@ -135,11 +226,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["Producer of 'Grey beams' since 1901", "Luxembourg steel was used in the Burj Khalifa", "Operates a modern electric arc furnace", "Key export site for the construction industry"],
     },
     imageHint: "Large steel beams at ArcelorMittal factory in Differdange",
+    descriptionAdvanced: {
+      de: "Das ArcelorMittal-Werk in Differdingen ist weltberühmt für die Produktion riesiger Stahlträger, die in den höchsten Wolkenkratzern der Welt verbaut werden.",
+      hu: "A differdange-i ArcelorMittal gyár világhírű az óriási acélgerendák gyártásáról, amelyeket a világ legmagasabb felhőkarcolóinak építéséhez használnak fel.",
+      ro: "Uzina ArcelorMittal din Differdange este renumită la nivel mondial pentru producția de grinzi gigantice de oțel, utilizate în cei mai înalți zgârie-nori.",
+      en: "The ArcelorMittal plant in Differdange is world-renowned for producing massive steel beams used in the construction of the world's tallest skyscrapers.",
+    },
+    factsAdvanced: {
+      de: ["Produziert die größten Stahlträger der Welt", "Stahl für den Burj Khalifa geliefert", "Verwendet moderne Elektrolichtbogenöfen", "Spezialisierung auf Grey-Träger"],
+      hu: ["A világ legnagyobb acélgerendáit gyártja", "Acélt szállított a Burdzs Kalifa építéséhez", "Modern elektromos ívkemencéket használ", "A Grey-gerendák gyártására specializálódott"],
+      ro: ["Produce cele mai mari grinzi de oțel din lume", "A furnizat oțel pentru Burj Khalifa", "Utilizează cuptoare moderne cu arc electric", "Specializată în grinzi de tip Grey"],
+      en: ["Produces the world's largest steel beams", "Supplied steel for the Burj Khalifa", "Uses modern electric arc furnaces", "Specialized in Grey beams"],
+    },
   },
   {
     id: "luxembourg-bettembourg-terminal-economic-v2",
     type: "port",
-    name: { de: "Multimodaler Terminal Bettemburg", hu: "Bettembourgi multimodális terminál", ro: "Terminalul multimodal Bettembourg", en: "Bettembourg Multimodal Terminal" },
+    name: { de: "Multimodaler Terminal Bettemburg", hu: "Bettembourgi multimodális terminál", ro: "Terminalul multimodal Bettembourg", en: "Bettembourg Multimodal Terminal",
+image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp"
+},
     coords: [6.115, 49.491],
     coordinates: { lat: 49.491, lng: 6.115 },
     description: {
@@ -154,11 +259,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Specializat în transport combinat (feroviar-rutier)", "Manipulează peste 600.000 de containere anual", "Conexiune la serviciul 'autostradă feroviară'", "Operat de CFL Multimodal"],
       en: ["Specialized in combined transport (rail-road)", "Handles over 600,000 containers annually", "Connection to the 'Rolling Motorway' service", "Operated by CFL Multimodal"],
     },
-    imageHint: "Container cranes at Bettembourg multimodal railway terminal", image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp"},
-  {
+imageHint: "Container cranes at Bettembourg multimodal railway terminal",
+    descriptionAdvanced: {
+      de: "Das intermodale Terminal Bettemburg ist eine zentrale Drehscheibe für den europäischen Schienengüterverkehr und verbindet Nordeuropa mit dem Mittelmeerraum.",
+      hu: "A bettembourgi intermodális terminál az európai vasúti árufuvarozás központi csomópontja, amely összeköti Észak-Európát a földközi-tengeri térséggel.",
+      ro: "Terminalul intermodal din Bettembourg este un hub central pentru transportul feroviar european, legând Europa de Nord cu regiunea mediteraneană.",
+      en: "The Bettembourg multimodal terminal is a central hub for European rail freight, connecting Northern Europe with the Mediterranean region.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität von 600.000 Containern pro Jahr", "Wichtiger Halt der 'Autobahn auf Schienen'", "Betrieben durch CFL Multimodal", "Fläche von etwa 33 Hektar"],
+      hu: ["Évi 600 000 konténer kezelési kapacitás", "A 'vasúti autópálya' fontos megállója", "A CFL Multimodal üzemelteti", "Körülbelül 33 hektáros területen fekszik"],
+      ro: ["Capacitate de 600.000 de containere anual", "Punct cheie al 'autostrăzii pe șine'", "Operat de CFL Multimodal", "Suprafață de aproximativ 33 de hectare"],
+      en: ["Capacity of 600,000 containers per year", "Key stop for the 'railway motorway'", "Operated by CFL Multimodal", "Area of approximately 33 hectares"],
+    },
+    image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp",
+},  {
     id: "luxembourg-goodyear-colmar-berg-economic-v2",
     type: "factory",
-    name: { de: "Goodyear Werk Colmar-Berg", hu: "Goodyear gyár Colmar-Berg", ro: "Fabrica Goodyear Colmar-Berg", en: "Goodyear Colmar-Berg Plant" },
+    name: { de: "Goodyear Werk Colmar-Berg", hu: "Goodyear gyár Colmar-Berg", ro: "Fabrica Goodyear Colmar-Berg", en: "Goodyear Colmar-Berg Plant",
+image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp"
+},
     coords: [6.095, 49.811],
     coordinates: { lat: 49.811, lng: 6.095 },
     description: {
@@ -173,11 +293,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Al doilea cel mai mare angajator din sectorul privat", "Sediul Goodyear Innovation Center Luxembourg", "Producție de anvelope pentru camioane și utilaje", "Pistă proprie de testare pentru verificări de mare viteză"],
       en: ["Second largest employer in the private sector", "Home of the Goodyear Innovation Center Luxembourg", "Production of truck and earthmover tires", "Own test track for high-speed testing"],
     },
-    imageHint: "Goodyear factory building and test track in Colmar-Berg", image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp"},
-  {
+imageHint: "Goodyear factory building and test track in Colmar-Berg",
+    descriptionAdvanced: {
+      de: "Goodyear betreibt in Colmar-Berg ein bedeutendes Forschungszentrum und eine Reifenfabrik, die spezialisierte Reifen für den Weltmarkt entwickelt und produziert.",
+      hu: "A Goodyear Colmar-Bergben egy jelentős kutatóközpontot és gumiabroncsgyárat üzemeltet, ahol speciális abroncsokat fejlesztenek és gyártanak a világpiacra.",
+      ro: "Goodyear operează în Colmar-Berg un important centru de cercetare și o fabrică de anvelope, dezvoltând produse specializate pentru piața mondială.",
+      en: "Goodyear operates a major research center and tire manufacturing plant in Colmar-Berg, developing and producing specialized tires for the global market.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößter privater Arbeitgeber im Land", "Eigene Teststrecke auf dem Gelände", "Spezialisierung auf LKW-Reifen", "Gründung des Standorts im Jahr 1951"],
+      hu: ["Az ország második legnagyobb magánfoglalkoztatója", "Saját tesztpályával rendelkezik a helyszínen", "Tehergépkocsi-abroncsokra specializálódott", "A telephely alapítása 1951-ben történt"],
+      ro: ["Al doilea mare angajator privat din țară", "Dispune de propria pistă de testare", "Specializată în anvelope pentru camioane", "Fondarea sitului în anul 1951"],
+      en: ["Second largest private employer in Luxembourg", "Features its own on-site test track", "Specialized in truck and OTR tires", "Established at this location in 1951"],
+    },
+    image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp",
+},  {
     id: "luxembourg-rtl-group-headquarters-economic-v2",
     type: "industry",
-    name: { de: "RTL Group Hauptsitz", hu: "RTL Group Székház", ro: "Sediul RTL Group", en: "RTL Group Headquarters" },
+    name: { de: "RTL Group Hauptsitz", hu: "RTL Group Székház", ro: "Sediul RTL Group", en: "RTL Group Headquarters",
+image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp"
+},
     coords: [6.173, 49.636],
     coordinates: { lat: 49.636, lng: 6.173 },
     description: {
@@ -192,11 +327,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Cel mai mare radiodifuzor privat din Europa", "Rădăcini istorice în Radio Luxembourg", "Parte a grupului Bertelsmann", "Turnuri de transmisie proprii în Junglinster și Hosingen"],
       en: ["Europe's largest private broadcaster", "Historical roots in Radio Luxembourg", "Part of the Bertelsmann Group", "Own broadcasting towers in Junglinster and Hosingen"],
     },
-    imageHint: "RTL City building and studios in Luxembourg", image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp"},
-  {
+imageHint: "RTL City building and studios in Luxembourg",
+    descriptionAdvanced: {
+      de: "Die RTL Group, Europas führender Unterhaltungskonzern, steuert von ihrem Luxemburger Hauptsitz aus ein riesiges Netzwerk von Fernseh- und Radiosendern.",
+      hu: "Az RTL Group, Európa vezető szórakoztatóipari konszernje, luxemburgi központjából irányítja televíziós és rádiócsatornákból álló hatalmas hálózatát.",
+      ro: "RTL Group, liderul european în divertisment, își coordonează vasta rețea de posturi TV și radio din sediul său central din Luxemburg.",
+      en: "RTL Group, Europe's leading entertainment network, manages its vast international portfolio of TV channels and radio stations from its Luxembourg base.",
+    },
+    factsAdvanced: {
+      de: ["Sitz im modernen RTL City Komplex", "Betrieb von 68 Fernsehsendern weltweit", "Mehrheitsaktionär ist die Bertelsmann AG", "Wurzeln gehen auf das Jahr 1931 zurück"],
+      hu: ["A modern RTL City komplexumban található", "Világszerte 68 televíziócsatornát üzemeltet", "Többségi tulajdonosa a Bertelsmann AG", "Gyökerei 1931-ig nyúlnak vissza"],
+      ro: ["Sediul în complexul modern RTL City", "Operează 68 de canale TV la nivel mondial", "Acționar majoritar este Bertelsmann AG", "Rădăcinile companiei datează din 1931"],
+      en: ["Housed in the modern RTL City complex", "Operates 68 television channels globally", "Majority owned by Bertelsmann AG", "Company roots date back to 1931"],
+    },
+    image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp",
+},  {
     id: "luxembourg-arcelormittal-dudelange-economic-v2",
     type: "factory",
-    name: { de: "ArcelorMittal Düdelingen", hu: "ArcelorMittal Dudelange", ro: "ArcelorMittal Dudelange", en: "ArcelorMittal Dudelange" },
+    name: { de: "ArcelorMittal Düdelingen", hu: "ArcelorMittal Dudelange", ro: "ArcelorMittal Dudelange", en: "ArcelorMittal Dudelange",
+image: "/poi-images/luxembourg-arcelormittal-dudelange-economic-v2.webp"
+},
     coords: [6.091, 49.471],
     coordinates: { lat: 49.471, lng: 6.091 },
     description: {
@@ -212,11 +362,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["World leader in Alusi coatings", "Specialized in corrosion protection", "Key supplier for BMW and VW", "Part of the historic 'Minette' industry"],
     },
     imageHint: "Industrial facilities of ArcelorMittal in Dudelange",
+    descriptionAdvanced: {
+      de: "Das Werk in Düdelingen ist auf die Veredelung von Flachstahl spezialisiert und beliefert vor allem die europäische Automobilindustrie mit Hightech-Blechen.",
+      hu: "A dudelange-i gyár a síkacél felületkezelésére specializálódott, és elsősorban az európai autóipart látja el csúcstechnológiás acéllemezekkel.",
+      ro: "Uzina din Dudelange este specializată în finisarea oțelului plat, furnizând table de înaltă tehnologie în special pentru industria auto europeană.",
+      en: "The Dudelange plant specializes in high-end flat steel finishing, primarily supplying high-tech steel sheets to the European automotive industry.",
+    },
+    factsAdvanced: {
+      de: ["Führend in der Alusi-Beschichtung", "Beliefert große Autohersteller wie BMW", "Teil der ArcelorMittal Flat Europe", "Standort historisch wichtig seit 1882"],
+      hu: ["Vezető szerep az Alusi bevonatok terén", "Olyan gyártóknak szállít, mint a BMW", "Az ArcelorMittal Flat Europe része", "A helyszín 1882 óta ipari jelentőségű"],
+      ro: ["Lider în tehnologia de acoperire Alusi", "Furnizează oțel pentru mărci precum BMW", "Parte a diviziei ArcelorMittal Flat Europe", "Situl are importanță istorică din 1882"],
+      en: ["Leader in Alusi coating technology", "Supplies major car makers like BMW", "Part of ArcelorMittal Flat Europe", "Site historically significant since 1882"],
+    },
   },
   {
     id: "luxembourg-luxlait-roost-economic-v2",
     type: "factory",
-    name: { de: "Luxlait Molkerei Roost", hu: "Luxlait tejüzem Roost", ro: "Lăptăria Luxlait Roost", en: "Luxlait Dairy Roost" },
+    name: { de: "Luxlait Molkerei Roost", hu: "Luxlait tejüzem Roost", ro: "Lăptăria Luxlait Roost", en: "Luxlait Dairy Roost",
+image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp"
+},
     coords: [6.079, 49.782],
     coordinates: { lat: 49.782, lng: 6.079 },
     description: {
@@ -231,11 +395,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Procesează laptele de la aproape 400 de ferme", "Cunoscută pentru producția de 'Kachkéis'", "Centru de logistică agricolă în nord", "Fondată ca cooperativă în 1894"],
       en: ["Processes milk from nearly 400 farms", "Known for producing 'Kachkéis' (cooked cheese)", "Center for agricultural logistics in the north", "Founded as a cooperative in 1894"],
     },
-    imageHint: "Modern Luxlait dairy production facility in Roost", image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp"},
-  {
+imageHint: "Modern Luxlait dairy production facility in Roost",
+    descriptionAdvanced: {
+      de: "Luxlait in Roost ist die größte Molkerei des Landes und verbindet traditionelle Landwirtschaft mit modernster Produktionstechnik und einem Besucherzentrum.",
+      hu: "A roost-i Luxlait az ország legnagyobb tejüzeme, amely a hagyományos mezőgazdaságot ötvözi a legmodernebb gyártási technológiával és látogatóközponttal.",
+      ro: "Luxlait din Roost este cea mai mare lăptărie din țară, îmbinând agricultura tradițională cu tehnologia de producție modernă și un centru pentru vizitatori.",
+      en: "Luxlait in Roost is the country's largest dairy cooperative, combining traditional farming with state-of-the-art production and an interactive visitor center.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Genossenschaft im Jahr 1894", "Sitz des Vitarium Besucherzentrums", "Verarbeitung von fast 160 Mio. Litern Milch", "Produziert das berühmte 'Kachkéis'"],
+      hu: ["1894-ben alapították szövetkezetként", "Itt található a Vitarium látogatóközpont", "Évente közel 160 millió liter tejet dolgoz fel", "Itt készül a híres luxemburgi 'Kachkéis'"],
+      ro: ["Fondată ca cooperativă în anul 1894", "Găzduiește centrul pentru vizitatori Vitarium", "Procesează aproape 160 milioane litri de lapte", "Produce faimoasa brânză 'Kachkéis'"],
+      en: ["Founded as a cooperative in 1894", "Home to the Vitarium visitor center", "Processes nearly 160 million liters of milk", "Producer of the famous 'Kachkéis' cheese"],
+    },
+    image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp",
+},  {
     id: "luxembourg-bissen-google-data-center-site-economic-v2",
     type: "industry",
-    name: { de: "Wirtschaftszone Bissen", hu: "Bissen gazdasági zóna", ro: "Zona economică Bissen", en: "Bissen Economic Zone" },
+    name: { de: "Wirtschaftszone Bissen", hu: "Bissen gazdasági zóna", ro: "Zona economică Bissen", en: "Bissen Economic Zone",
+image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp"
+},
     coords: [6.068, 49.775],
     coordinates: { lat: 49.775, lng: 6.068 },
     description: {
@@ -250,11 +429,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Locația fabricii de trefilare ArcelorMittal", "Centru pentru logistică și tehnologia datelor", "Situată strategic lângă autostrada A7", "Accent pe infrastructura digitală"],
       en: ["Location of the ArcelorMittal wire drawing plant", "Center for logistics and data technology", "Strategically located along the A7 highway", "Focus on digital infrastructure"],
     },
-    imageHint: "Aerial view of the industrial zone in Bissen Luxembourg", image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp"},
-  {
+imageHint: "Aerial view of the industrial zone in Bissen Luxembourg",
+    descriptionAdvanced: {
+      de: "Die Wirtschaftszone in Bissen ist ein strategischer Standort für technologische Großprojekte, darunter das geplante nachhaltige Google-Rechenzentrum.",
+      hu: "A bissen-i gazdasági övezet stratégiai helyszín nagy technológiai projektek számára, ideértve a Google tervezett fenntartható adatközpontját is.",
+      ro: "Zona economică din Bissen este o locație strategică pentru proiecte tehnologice majore, inclusiv viitorul centru de date sustenabil al Google.",
+      en: "The Bissen economic zone is a strategic location for major technological projects, including the planned sustainable Google data center site.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 33 Hektar für Google", "Fokus auf grüne Energieversorgung", "Strategische Lage im Zentrum des Landes", "Geplante Investition in Millionenhöhe"],
+      hu: ["Kb. 33 hektáros terület a Google számára", "Fókuszban a zöld energiaellátás", "Stratégiai fekvés az ország közepén", "Több millió eurós tervezett beruházás"],
+      ro: ["Suprafață de circa 33 hectare pentru Google", "Accent pe furnizarea de energie verde", "Locație strategică în centrul țării", "Investiție planificată de ordinul milioanelor"],
+      en: ["Approx. 33 hectares allocated for Google", "Focus on green energy supply", "Strategic location in the center of the country", "Multi-million euro planned investment"],
+    },
+    image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp",
+},  {
     id: "luxembourg-contern-industrial-park-economic-v2",
     type: "industry",
-    name: { de: "Industriepark Contern", hu: "Conterni ipari park", ro: "Parcul industrial Contern", en: "Contern Industrial Park" },
+    name: { de: "Industriepark Contern", hu: "Conterni ipari park", ro: "Parcul industrial Contern", en: "Contern Industrial Park",
+image: "/poi-images/luxembourg-contern-industrial-park-economic-v2.webp"
+},
     coords: [6.228, 49.585],
     coordinates: { lat: 49.585, lng: 6.228 },
     description: {
@@ -270,11 +464,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["Major DuPont site (Tyvek production)", "Base for international freight forwarders (Kühne + Nagel)", "Important rail connection for industrial goods", "One of the largest business parks in the east"],
     },
     imageHint: "Large industrial warehouses and factories in Contern",
+    descriptionAdvanced: {
+      de: "Der Industriepark Contern ist ein vielseitiger Standort für Logistik, Produktion und Pharmazie, begünstigt durch seine Nähe zum Flughafen und zur Autobahn.",
+      hu: "A contern-i ipari park a logisztika, a gyártás és a gyógyszeripar sokoldalú központja, amelynek kedvez a repülőtér és az autópálya közelsége.",
+      ro: "Parcul industrial Contern este un sit versatil pentru logistică, producție și farmaceutice, beneficiind de proximitatea față de aeroport și autostradă.",
+      en: "The Contern industrial park is a versatile site for logistics, manufacturing, and pharmaceuticals, benefiting from its proximity to the airport and motorway.",
+    },
+    factsAdvanced: {
+      de: ["Sitz von IEE und Kuehne+Nagel", "Schwerpunkt auf High-Tech-Logistik", "Anschluss an das nationale Schienennetz", "Zahlreiche spezialisierte Pharma-Lager"],
+      hu: ["Az IEE és a Kuehne+Nagel székhelye", "A csúcstechnológiás logisztikára összpontosít", "Kapcsolat a nemzeti vasúthálózattal", "Számos speciális gyógyszerraktár található itt"],
+      ro: ["Sediul companiilor IEE și Kuehne+Nagel", "Accent pe logistică de înaltă tehnologie", "Conexiune la rețeaua feroviară națională", "Numeroase depozite farmaceutice specializate"],
+      en: ["Home to IEE and Kuehne+Nagel", "Focus on high-tech logistics", "Connected to the national rail network", "Features numerous specialized pharma warehouses"],
+    },
   },
   {
     id: "luxembourg-mertert-petroleum-port-economic-v2",
     type: "port",
-    name: { de: "Tanklager Mertert", hu: "Merterti üzemanyagtároló", ro: "Depozitul de combustibil Mertert", en: "Mertert Petroleum Port" },
+    name: { de: "Tanklager Mertert", hu: "Merterti üzemanyagtároló", ro: "Depozitul de combustibil Mertert", en: "Mertert Petroleum Port",
+image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp"
+},
     coords: [6.478, 49.698],
     coordinates: { lat: 49.698, lng: 6.478 },
     description: {
@@ -289,11 +497,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Capacitate pentru milioane de litri de combustibil", "Loc de acostare important pentru nave tanc", "Conexiune la rețeaua națională de cale ferată", "Asigurarea independenței energetice"],
       en: ["Capacity for millions of liters of fuel", "Important mooring for tanker ships", "Connection to the national rail network", "Securing energetic independence"],
     },
-    imageHint: "Large white oil storage tanks by the river in Mertert", image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp"},
-  {
+imageHint: "Large white oil storage tanks by the river in Mertert",
+    descriptionAdvanced: {
+      de: "Der Mineralölhafen Mertert ist der zentrale Punkt für die Energieversorgung Luxemburgs, wo Treibstoffe per Schiff ankommen und gelagert werden.",
+      hu: "A mertert-i kőolajkikötő Luxemburg energiaellátásának központi pontja, ahol az üzemanyagok hajón érkeznek és tárolásra kerülnek.",
+      ro: "Portul petrolier din Mertert este punctul central pentru aprovizionarea cu energie a Luxemburgului, unde combustibilii sosesc pe apă și sunt depozitați.",
+      en: "The Mertert petroleum port is the central hub for Luxembourg's energy supply, where fuels arrive by river barge for storage and distribution.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigstes Tanklager des Landes", "Kapazität von mehreren Millionen Litern", "Sichert die Versorgung mit Heizöl und Benzin", "Teil des Hafens von Mertert"],
+      hu: ["Az ország legfontosabb üzemanyagraktára", "Több millió literes tárolókapacitás", "Biztosítja a fűtőolaj- és benzinellátást", "A mertert-i kikötő szerves része"],
+      ro: ["Cel mai important depozit de combustibil", "Capacitate de câteva milioane de litri", "Asigură furnizarea de păcură și benzină", "Parte integrantă a portului Mertert"],
+      en: ["Country's primary fuel storage site", "Capacity of several million liters", "Secures supply of heating oil and petrol", "Integrated part of the Port of Mertert"],
+    },
+    image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp",
+},  {
     id: "luxembourg-bascharage-industrial-zone-economic-v2",
     type: "industry",
-    name: { de: "Industriezone Bascharage", hu: "Bascharage ipari zóna", ro: "Zona industrială Bascharage", en: "Bascharage Industrial Zone" },
+    name: { de: "Industriezone Bascharage", hu: "Bascharage ipari zóna", ro: "Zona industrială Bascharage", en: "Bascharage Industrial Zone",
+image: "/poi-images/luxembourg-bascharage-industrial-zone-economic-v2.webp"
+},
     coords: [5.915, 49.571],
     coordinates: { lat: 49.571, lng: 5.915 },
     description: {
@@ -309,11 +532,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["Home to Luxembourg's largest brewery", "Center for high-tech glass manufacturing", "Site for automotive suppliers (Delphi)", "Strong export orientation of the businesses"],
     },
     imageHint: "The large Bofferding brewery complex in Bascharage",
+    descriptionAdvanced: {
+      de: "Die Industriezone Bascharage beheimatet traditionsreiche Unternehmen wie die Brauerei Bofferding sowie moderne Glas- und Kunststoffverarbeiter.",
+      hu: "A bascharage-i ipari övezet olyan hagyományos vállalatoknak ad otthont, mint a Bofferding sörfőzde, valamint modern üveg- és műanyagipari cégeknek.",
+      ro: "Zona industrială Bascharage găzduiește companii tradiționale, precum berăria Bofferding, dar și unități moderne de prelucrare a sticlei și plasticului.",
+      en: "The Bascharage industrial zone is home to long-standing companies like the Bofferding brewery, alongside modern glass and plastic manufacturers.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Brasserie Nationale (Bofferding)", "Bedeutender Standort für Guardian Glass", "Liegt im Südwesten des Landes", "Vielseitiger Branchenmix"],
+      hu: ["A Brasserie Nationale (Bofferding) székhelye", "A Guardian Glass fontos telephelye", "Az ország délnyugati részén található", "Sokszínű ipari szerkezettel rendelkezik"],
+      ro: ["Sediul Brasserie Nationale (Bofferding)", "Locație importantă pentru Guardian Glass", "Situată în sud-vestul țării", "Mix diversificat de ramuri industriale"],
+      en: ["Headquarters of Brasserie Nationale", "Major site for Guardian Glass", "Located in the southwest of Luxembourg", "Features a diverse industrial sector mix"],
+    },
   },
   {
     id: "luxembourg-echternach-industrial-area-economic-v2",
     type: "industry",
-    name: { de: "Industriegebiet Echternach", hu: "Echternachi ipari terület", ro: "Zona industrială Echternach", en: "Echternach Industrial Area" },
+    name: { de: "Industriegebiet Echternach", hu: "Echternachi ipari terület", ro: "Zona industrială Echternach", en: "Echternach Industrial Area",
+image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp"
+},
     coords: [6.405, 49.795],
     coordinates: { lat: 49.795, lng: 6.405 },
     description: {
@@ -328,11 +565,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul european al Fanuc Robotics", "Specializare în piese pentru industria aerospațială", "Angajator important pentru regiunea de frontieră", "Accent pe producția de precizie"],
       en: ["European headquarters of Fanuc Robotics", "Specialization in aerospace components", "Important employer for the border region", "Focus on precision manufacturing"],
     },
-    imageHint: "Fanuc Robotics building in Echternach industrial zone", image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp"},
-  {
+imageHint: "Fanuc Robotics building in Echternach industrial zone",
+    descriptionAdvanced: {
+      de: "Das Industriegebiet Echternach ist bekannt für hochspezialisierte High-Tech-Unternehmen, die innovative Komponenten für die Luft- und Raumfahrt fertigen.",
+      hu: "Az echternach-i ipari terület magasan specializált csúcstechnológiai vállalatokról ismert, amelyek innovatív alkatrészeket gyártanak a repülőgépipar számára.",
+      ro: "Zona industrială Echternach este cunoscută pentru companiile high-tech specializate care produc componente inovatoare pentru industria aerospațială.",
+      en: "The Echternach industrial area is known for housing highly specialized high-tech companies that manufacture innovative aerospace and automotive components.",
+    },
+    factsAdvanced: {
+      de: ["Sitz von Euro-Composite", "Fokus auf Leichtbaumaterialien", "Wichtiger Arbeitgeber in der Region Ost", "Produktion für globale Märkte"],
+      hu: ["Az Euro-Composite székhelye", "A könnyűszerkezetes anyagokra összpontosít", "A keleti régió fontos munkáltatója", "Termelés a globális piacokra"],
+      ro: ["Sediul companiei Euro-Composite", "Accent pe materiale compozite ușoare", "Angajator major în regiunea de est", "Producție pentru piețele globale"],
+      en: ["Home to Euro-Composite", "Focus on lightweight composite materials", "Major employer in the eastern region", "Production for global markets"],
+    },
+    image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp",
+},  {
     id: "luxembourg-wiltz-business-park-economic-v2",
     type: "industry",
-    name: { de: "Wirtschaftspark Wiltz", hu: "Wiltzi üzleti park", ro: "Parcul de afaceri Wiltz", en: "Wiltz Business Park" },
+    name: { de: "Wirtschaftspark Wiltz", hu: "Wiltzi üzleti park", ro: "Parcul de afaceri Wiltz", en: "Wiltz Business Park",
+image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp"
+},
     coords: [5.925, 49.965],
     coordinates: { lat: 49.965, lng: 5.925 },
     description: {
@@ -347,11 +599,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Centrul industriei de pardoseli din Luxemburg", "Sediul unor departamente internaționale de cercetare", "Locație importantă pentru economia circulară", "Cel mai mare angajator industrial din nord"],
       en: ["Center of the Luxembourg flooring industry", "Base for international research departments", "Important site for circular economy", "Largest industrial employer in the north"],
     },
-    imageHint: "Large industrial complex of Tarkett in Wiltz", image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp"},
-  {
+imageHint: "Large industrial complex of Tarkett in Wiltz",
+    descriptionAdvanced: {
+      de: "Der Business Park in Wiltz fördert die wirtschaftliche Entwicklung im Norden des Landes mit einem Schwerpunkt auf Kreislaufwirtschaft und modernen Start-ups.",
+      hu: "A wiltzi üzleti park az ország északi részének gazdasági fejlődését segíti, különös tekintettel a körforgásos gazdaságra és a modern startupokra.",
+      ro: "Parcul de afaceri din Wiltz promovează dezvoltarea economică în nordul țării, punând accent pe economia circulară și startup-uri moderne.",
+      en: "The Wiltz business park fosters economic development in the north of Luxembourg, with a strong focus on circular economy and modern start-ups.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum für zirkuläre Wirtschaft (EPEA)", "Sitz der No-Nail Boxes Fabrik", "Regionaler Innovationsknotenpunkt", "Teil der Revitalisierung der Region"],
+      hu: ["A körforgásos gazdaság központja (EPEA)", "A No-Nail Boxes gyár székhelye", "Regionális innovációs csomópont", "A régió újjáélesztésének kulcseleme"],
+      ro: ["Centru pentru economie circulară (EPEA)", "Sediul fabricii No-Nail Boxes", "Hub regional de inovare", "Parte a revitalizării regiunii de nord"],
+      en: ["Center for circular economy (EPEA)", "Home to the No-Nail Boxes factory", "Regional innovation hub", "Key to the northern region's revitalization"],
+    },
+    image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp",
+},  {
     id: "luxembourg-lentzweiler-industrial-zone-economic-v2",
     type: "industry",
-    name: { de: "Industriezone Lentzweiler", hu: "Lentzweiler ipari zóna", ro: "Zona industrială Lentzweiler", en: "Lentzweiler Industrial Zone" },
+    name: { de: "Industriezone Lentzweiler", hu: "Lentzweiler ipari zóna", ro: "Zona industrială Lentzweiler", en: "Lentzweiler Industrial Zone",
+image: "/poi-images/luxembourg-lentzweiler-industrial-zone-economic-v2.webp"
+},
     coords: [5.965, 50.045],
     coordinates: { lat: 50.045, lng: 5.965 },
     description: {
@@ -367,11 +634,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["Site of IEE production (sensors)", "Important hub in the Ösling region", "Modern energy concept for businesses", "Focus on high-technology components"],
     },
     imageHint: "Modern factory buildings in the Lentzweiler industrial park",
+    descriptionAdvanced: {
+      de: "Die Industriezone Lentzweiler ist ein bedeutender Industriestandort im Ösling, der international tätigen Firmen wie Tarkett eine moderne Infrastruktur bietet.",
+      hu: "A lentzweileri ipari övezet az Ösling régió jelentős ipari helyszíne, amely olyan nemzetközi cégeknek kínál infrastruktúrát, mint a Tarkett.",
+      ro: "Zona industrială Lentzweiler este un sit industrial major în regiunea Oesling, oferind infrastructură modernă unor firme internaționale precum Tarkett.",
+      en: "The Lentzweiler industrial zone is a significant industrial site in the Oesling region, providing modern infrastructure for global firms like Tarkett.",
+    },
+    factsAdvanced: {
+      de: ["Großer Standort der Firma Tarkett", "Spezialisierung auf Bodenbeläge", "Wichtiger Beschäftigungsfaktor im Norden", "Moderne Logistik-Anbindungen"],
+      hu: ["A Tarkett vállalat nagy telephelye", "Padlóburkolatok gyártására specializálódott", "Fontos foglalkoztató északon", "Modern logisztikai összeköttetések"],
+      ro: ["Locație majoră a companiei Tarkett", "Specializată în pardoseli și covoare", "Factor major de angajare în nord", "Conexiuni logistice moderne"],
+      en: ["Major production site for Tarkett", "Specialized in flooring solutions", "Key employment factor in the north", "Modern logistics connections"],
+    },
   },
   {
     id: "luxembourg-rosport-mineral-water-economic-v2",
     type: "factory",
-    name: { de: "Rosport Mineralwasserquelle", hu: "Rosporti ásványvízforrás", ro: "Sursa de apă minerală Rosport", en: "Rosport Mineral Water Plant" },
+    name: { de: "Rosport Mineralwasserquelle", hu: "Rosporti ásványvízforrás", ro: "Sursa de apă minerală Rosport", en: "Rosport Mineral Water Plant",
+image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp"
+},
     coords: [6.505, 49.805],
     coordinates: { lat: 49.805, lng: 6.505 },
     description: {
@@ -386,11 +667,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Lider de piață pentru apa minerală în țară", "Deține o fabrică de îmbuteliere neutră din punct de vedere al CO2", "Extracție de la peste 60 de metri adâncime", "Angajator regional important"],
       en: ["Market leader for mineral water in the country", "Has a CO2-neutral bottling plant", "Extraction from over 60 meters deep", "Important regional employer"],
     },
-    imageHint: "Bottling line at the Rosport mineral water factory", image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp"},
-  {
+imageHint: "Bottling line at the Rosport mineral water factory",
+    descriptionAdvanced: {
+      de: "Die Quelle von Rosport ist die Heimat des bekanntesten Mineralwassers Luxemburgs, das landesweit für seine natürliche Kohlensäure geschätzt wird.",
+      hu: "A rosporti forrás Luxemburg legismertebb ásványvizének hazája, amelyet az ország egészében kedvelnek természetes szénsavtartalma miatt.",
+      ro: "Izvorul din Rosport este casa celei mai cunoscute ape minerale din Luxemburg, apreciată la nivel național pentru carbonatarea sa naturală.",
+      en: "The Rosport spring is the source of Luxembourg's most famous mineral water, valued nationwide for its natural carbonation and purity.",
+    },
+    factsAdvanced: {
+      de: ["Einzige natürliche Quelle dieser Art im Land", "Gegründet im Jahr 1959", "Bekannt für die Marken 'Classic' und 'Blue'", "Nachhaltige Glasflaschen-Abfüllung"],
+      hu: ["Az ország egyetlen ilyen természetes forrása", "1959-ben alapították", "A 'Classic' és 'Blue' márkákról ismert", "Fenntartható üvegpalackos töltés"],
+      ro: ["Singurul izvor natural de acest tip din țară", "Fondată în anul 1959", "Cunoscută pentru mărcile 'Classic' și 'Blue'", "Îmbuteliere sustenabilă în sticlă"],
+      en: ["Only natural sparkling spring in Luxembourg", "Established in 1959", "Famous for 'Classic' and 'Blue' brands", "Sustainable glass bottle packaging"],
+    },
+    image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp",
+},  {
     id: "luxembourg-mamer-high-tech-zone-economic-v2",
     type: "industry",
-    name: { de: "Hochtechnologiezone Mamer", hu: "Mameri csúcstechnológiai zóna", ro: "Zona de înaltă tehnologie Mamer", en: "Mamer High-Tech Zone" },
+    name: { de: "Hochtechnologiezone Mamer", hu: "Mameri csúcstechnológiai zóna", ro: "Zona de înaltă tehnologie Mamer", en: "Mamer High-Tech Zone",
+image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp"
+},
     coords: [6.025, 49.635],
     coordinates: { lat: 49.635, lng: 6.025 },
     description: {
@@ -405,11 +701,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul Ceratizit", "Specializare în materiale de tăiere și scule", "Cooperare strânsă cu cercetarea", "Poziție strategică la vest de capitală"],
       en: ["Headquarters of Ceratizit", "Specialization in cutting materials and tools", "Close cooperation with research", "Strategic location west of the capital"],
     },
-    imageHint: "Modern Ceratizit industrial building in Mamer", image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp"},
-  {
+imageHint: "Modern Ceratizit industrial building in Mamer",
+    descriptionAdvanced: {
+      de: "In Mamer konzentrieren sich hochmoderne Unternehmen aus dem Bereich Ingenieurwesen und Industrieautomation, die globale Märkte bedienen.",
+      hu: "Mamerben olyan ultramodern mérnöki és ipari automatizálási vállalatok összpontosulnak, amelyek a globális piacokat szolgálják ki.",
+      ro: "În Mamer se concentrează companii ultra-moderne din domeniul ingineriei și automatizării industriale, care deservesc piețele globale.",
+      en: "Mamer hosts cutting-edge companies in the engineering and industrial automation sectors that provide advanced solutions for global markets.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Firma Ceratizit", "Fokus auf Hartmetall-Technologien", "Nähe zur Stadt Luxemburg", "Innovationszentrum für Werkstoffkunde"],
+      hu: ["A Ceratizit vállalat székhelye", "Keményfém-technológiákra összpontosít", "Luxemburg városának közelsége", "Anyagtudományi innovációs központ"],
+      ro: ["Sediul companiei Ceratizit", "Accent pe tehnologii cu carburi metalice", "Proximitate față de orașul Luxemburg", "Centru de inovare în știința materialelor"],
+      en: ["Headquarters of Ceratizit", "Focus on hard material technologies", "Close proximity to Luxembourg City", "Innovation center for material science"],
+    },
+    image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp",
+},  {
     id: "luxembourg-remich-wine-logistics-economic-v2",
     type: "industry",
-    name: { de: "Remich Wein-Logistikzentrum", hu: "Remichi borlogisztikai központ", ro: "Centrul de logistică viticolă Remich", en: "Remich Wine Logistics Center" },
+    name: { de: "Remich Wein-Logistikzentrum", hu: "Remichi borlogisztikai központ", ro: "Centrul de logistică viticolă Remich", en: "Remich Wine Logistics Center",
+image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp"
+},
     coords: [6.365, 49.545],
     coordinates: { lat: 49.545, lng: 6.365 },
     description: {
@@ -424,11 +735,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul marilor exportatori precum Bernard-Massard", "Centru pentru producția de Crémant", "Locație importantă pentru agroturism", "Sediul Institutului Viticol"],
       en: ["Home to major exporters like Bernard-Massard", "Center for Crémant production", "Important site for agro-tourism", "Base for the Viticulture Institute"],
     },
-    imageHint: "Large wine cellars and shipping docks in Remich", image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp"},
-  {
+imageHint: "Large wine cellars and shipping docks in Remich",
+    descriptionAdvanced: {
+      de: "Das Logistikzentrum in Remich ist der Dreh- und Angelpunkt für den Export der hochwertigen Moselweine und Crémants in alle Welt.",
+      hu: "A remichi logisztikai központ a kiváló minőségű moseli borok és pezsgők (Crémants) világméretű exportjának központi csomópontja.",
+      ro: "Centrul logistic din Remich este punctul central pentru exportul vinurilor de înaltă calitate de pe Moselle și al spumantelor Crémant.",
+      en: "The Remich logistics center is the pivotal hub for exporting high-quality Moselle wines and Crémants to international markets.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Vinsmoselle Genossenschaft", "Zentrale Weinlagerung und Versand", "Wichtigster Weinort an der Mosel", "Touristische und ökonomische Bedeutung"],
+      hu: ["A Vinsmoselle szövetkezet székhelye", "Központi bortárolás és szállítás", "A Mosel-vidék legfontosabb borvárosa", "Turisztikai és gazdasági jelentőség"],
+      ro: ["Sediul cooperativei Vinsmoselle", "Stocare și expediere centralizată a vinului", "Cea mai importantă localitate viticolă", "Importanță turistică și economică"],
+      en: ["Home to the Vinsmoselle cooperative", "Centralized wine storage and shipping", "Premier wine town on the Moselle", "Significant tourism and economic impact"],
+    },
+    image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp",
+},  {
     id: "luxembourg-twinerg-power-plant-economic-v2",
     type: "industry",
-    name: { de: "Twinerg Gaskraftwerk", hu: "Twinerg gázerőmű", ro: "Centrala electrică Twinerg", en: "Twinerg Power Plant" },
+    name: { de: "Twinerg Gaskraftwerk", hu: "Twinerg gázerőmű", ro: "Centrala electrică Twinerg", en: "Twinerg Power Plant",
+image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp"
+},
     coords: [5.985, 49.505],
     coordinates: { lat: 49.505, lng: 5.985 },
     description: {
@@ -443,11 +769,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Putere de aproximativ 375 megawați", "Desevește industria grea din sud", "Combină generarea de energie electrică și termică", "Parte importantă a securității energetice naționale"],
       en: ["Capacity of approx. 375 megawatts", "Supplies heavy industry in the south", "Combines electricity and heat generation", "Key part of national energy security"],
     },
-    imageHint: "Modern gas power plant with cooling towers in Esch-sur-Alzette", image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp"},
-  {
+imageHint: "Modern gas power plant with cooling towers in Esch-sur-Alzette",
+    descriptionAdvanced: {
+      de: "Das Twinerg-Kraftwerk in Esch-sur-Alzette nutzt moderne Gas- und Dampfturbinentechnik zur effizienten Strom- und Wärmeerzeugung für die Region.",
+      hu: "Az Esch-sur-Alzette-ben található Twinerg erőmű modern gáz- és gőzturbina-technológiát használ a hatékony áram- és hőtermeléshez.",
+      ro: "Centrala Twinerg din Esch-sur-Alzette utilizează tehnologia turbinelor cu gaz și abur pentru producerea eficientă de energie și căldură.",
+      en: "The Twinerg power plant in Esch-sur-Alzette uses advanced gas and steam turbine technology for efficient electricity and heat generation.",
+    },
+    factsAdvanced: {
+      de: ["Gas-und-Dampf-Kombikraftwerk", "Leistung von etwa 375 Megawatt", "Versorgt die Industrie im Süden", "Inbetriebnahme im Jahr 2002"],
+      hu: ["Kombinált ciklusú gáz- és gőzerőmű", "Körülbelül 375 megawatt teljesítmény", "A déli ipari övezetet látja el", "2002-ben helyezték üzembe"],
+      ro: ["Centrală cu ciclu combinat gaz-abur", "Capacitate de aproximativ 375 megawați", "Alimentează industria din sud", "Pusă în funcțiune în anul 2002"],
+      en: ["Combined cycle gas turbine plant", "Capacity of approximately 375 megawatts", "Supplies industry in the south", "Commissioned in 2002"],
+    },
+    image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp",
+},  {
     id: "luxembourg-eib-headquarters-economic-v2",
     type: "industry",
-    name: { de: "EIB Hauptsitz", hu: "EBB Székház", ro: "Sediul BEI", en: "EIB Headquarters" },
+    name: { de: "EIB Hauptsitz", hu: "EBB Székház", ro: "Sediul BEI", en: "EIB Headquarters",
+image: "/poi-images/luxembourg-eib-headquarters-economic-v2.webp"
+},
     coords: [6.139, 49.621],
     coordinates: { lat: 49.621, lng: 6.139 },
     description: {
@@ -463,11 +804,25 @@ export const luxembourgEconomicV2: POI[] = [
       en: ["Largest multilateral lender in the world", "Architecturally striking glass buildings", "Manages billions in investments", "Central actor in EU economic policy"],
     },
     imageHint: "The glass headquarters of the European Investment Bank in Luxembourg",
+    descriptionAdvanced: {
+      de: "Die Europäische Investitionsbank (EIB) hat ihren Sitz in Luxemburg und ist als Finanzierungsorgan der EU einer der weltweit größten multilateralen Kreditgeber.",
+      hu: "Az Európai Beruházási Bank (EBB) luxemburgi székhelyű, az EU finanszírozási szerveként a világ egyik legnagyobb multilaterális hitelezője.",
+      ro: "Banca Europeană de Investiții (BEI) are sediul în Luxemburg și este brațul financiar al UE, fiind unul dintre cei mai mari creditori mondiali.",
+      en: "The European Investment Bank (EIB) is headquartered in Luxembourg and serves as the EU's financing arm, one of the world's largest multilateral lenders.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1958", "Sitz im markanten Gebäude auf Kirchberg", "Fördert Projekte in über 160 Ländern", "Eigentümer sind die EU-Mitgliedstaaten"],
+      hu: ["1958-ban alapították", "Székhelye a kirchbergi emblematikus épület", "Több mint 160 országban támogat projektet", "Tulajdonosai az EU tagállamai"],
+      ro: ["Fondată în anul 1958", "Sediul în clădirea emblematică din Kirchberg", "Finanțează proiecte în peste 160 de țări", "Proprietari sunt statele membre ale UE"],
+      en: ["Founded in 1958", "Located in a landmark building on Kirchberg", "Finances projects in over 160 countries", "Owned by the EU member states"],
+    },
   },
   {
     id: "luxembourg-cfl-multimodal-hub-economic-v2",
     type: "port",
-    name: { de: "CFL Multimodal Logistikzentrum", hu: "CFL Multimodal logisztikai központ", ro: "Centrul logistic CFL Multimodal", en: "CFL Multimodal Logistics Hub" },
+    name: { de: "CFL Multimodal Logistikzentrum", hu: "CFL Multimodal logisztikai központ", ro: "Centrul logistic CFL Multimodal", en: "CFL Multimodal Logistics Hub",
+image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp"
+},
     coords: [6.105, 49.495],
     coordinates: { lat: 49.495, lng: 6.105 },
     description: {
@@ -482,11 +837,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Operează propriile parcuri logistice", "Conexiune cu porturile Anvers și Zeebrugge", "Accent pe transportul sustenabil de mărfuri", "Vămuire integrată la fața locului"],
       en: ["Operates its own logistics parks", "Connection to Antwerp and Zeebrugge ports", "Focus on sustainable freight transport", "Integrated on-site customs clearance"],
     },
-    imageHint: "Freight trains and logistics warehouses in Bettembourg", image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp"},
-  {
+imageHint: "Freight trains and logistics warehouses in Bettembourg",
+    descriptionAdvanced: {
+      de: "Das CFL Multimodal Hub ist das logistische Rückgrat des Landes und verknüpft Schiene, Straße und Luftfracht für effiziente internationale Warenströme.",
+      hu: "A CFL Multimodal Hub az ország logisztikai gerince, amely összeköti a vasúti, közúti és légi árufuvarozást a hatékony nemzetközi áruforgalomért.",
+      ro: "Hub-ul CFL Multimodal este coloana vertebrală logistică a țării, legând transportul feroviar, rutier și aerian pentru fluxuri eficiente de mărfuri.",
+      en: "The CFL Multimodal Hub is the logistics backbone of Luxembourg, linking rail, road, and air freight for efficient international trade flows.",
+    },
+    factsAdvanced: {
+      de: ["Teil der CFL-Gruppe (Staatsbahn)", "Zentrum für grenzüberschreitende Logistik", "Anbindung an große europäische Häfen", "Fokus auf nachhaltigen Transport"],
+      hu: ["A CFL-csoport (államvasút) része", "A határokon átnyúló logisztika központja", "Összeköttetés a nagy európai kikötőkkel", "Fókuszban a fenntartható szállítás"],
+      ro: ["Parte a grupului CFL (căile ferate)", "Centru pentru logistică transfrontalieră", "Conexiune cu marile porturi europene", "Accent pe transportul sustenabil"],
+      en: ["Part of the CFL Group (national rail)", "Center for cross-border logistics", "Connected to major European ports", "Focus on sustainable transportation"],
+    },
+    image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp",
+},  {
     id: "luxembourg-freeport-findel-economic-v2",
     type: "industry",
-    name: { de: "Luxembourg Freeport", hu: "Luxemburgi Freeport", ro: "Freeport Luxemburg", en: "Luxembourg Freeport" },
+    name: { de: "Luxembourg Freeport", hu: "Luxemburgi Freeport", ro: "Freeport Luxemburg", en: "Luxembourg Freeport",
+image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp"
+},
     coords: [6.222, 49.632],
     coordinates: { lat: 49.632, lng: 6.222 },
     description: {
@@ -501,11 +871,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Cele mai stricte măsuri de securitate din lume", "Camere cu climatizare specială pentru artă", "Acces direct la pista aeroportului", "Depozitare fără TVA la import"],
       en: ["World's strictest security measures", "Special climate-controlled rooms for art", "Direct access to the airport tarmac", "Storage without import VAT"],
     },
-    imageHint: "The modern grey concrete building of the Luxembourg Freeport", image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp"},
-  {
+imageHint: "The modern grey concrete building of the Luxembourg Freeport",
+    descriptionAdvanced: {
+      de: "Der Luxemburg Freeport am Findel ist ein Hochsicherheitslager für wertvolle Güter wie Kunst und Edelmetalle, das steuerfreie Lagerung unter Zollkontrolle bietet.",
+      hu: "A findeli Luxemburg Freeport egy nagy biztonságú raktár értékes áruk, például műkincsek és nemesfémek számára, vámfelügyelet melletti adómentes tárolással.",
+      ro: "Luxembourg Freeport de la Findel este un depozit de înaltă securitate pentru bunuri de valoare, oferind stocare scutită de taxe sub control vamal.",
+      en: "The Luxembourg Freeport at Findel is a high-security warehouse for valuable assets like art and precious metals, offering tax-free storage under customs.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 2014", "Hochmoderne Klimatechnik für Kunstwerke", "Direkte Anbindung an das Rollfeld", "Spezialisierung auf alternative Anlagen"],
+      hu: ["2014-ben nyílt meg", "Ultramodern klímatechnika műalkotásoknak", "Közvetlen kapcsolat a repülőtérrel", "Alternatív befektetésekre specializálódott"],
+      ro: ["Inaugurat în anul 2014", "Tehnologie climaterică pentru opere de artă", "Conexiune directă cu pista aeroportului", "Specializat în active alternative"],
+      en: ["Opened in 2014", "State-of-the-art climate control for art", "Direct access to the airport tarmac", "Specialized in alternative investments"],
+    },
+    image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp",
+},  {
     id: "luxembourg-husky-injection-molding-economic-v2",
     type: "factory",
-    name: { de: "Husky Spritzgießsysteme", hu: "Husky fröccsöntő rendszerek", ro: "Sisteme de injecție Husky", en: "Husky Injection Molding" },
+    name: { de: "Husky Spritzgießsysteme", hu: "Husky fröccsöntő rendszerek", ro: "Sisteme de injecție Husky", en: "Husky Injection Molding",
+image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp"
+},
     coords: [6.125, 49.485],
     coordinates: { lat: 49.485, lng: 6.125 },
     description: {
@@ -520,11 +905,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Specializare în preforme PET", "Centru global de service în Luxemburg", "Procese de fabricație înalt automatizate", "Actor important în construcția de mașini din Luxemburg"],
       en: ["Specialization in PET preforms", "Global service center in Luxembourg", "Highly automated manufacturing processes", "Key player in Luxembourgish mechanical engineering"],
     },
-    imageHint: "Large industrial machinery manufacturing hall of Husky", image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp"},
-  {
+imageHint: "Large industrial machinery manufacturing hall of Husky",
+    descriptionAdvanced: {
+      de: "Husky Injection Molding in Düdelingen ist ein Weltmarktführer für Spritzgießanlagen, die vor allem zur Herstellung von PET-Flaschen genutzt werden.",
+      hu: "A dudelange-i Husky Injection Molding a fröccsöntő berendezések világpiaci vezetője, amelyeket elsősorban PET-palackok gyártásához használnak.",
+      ro: "Husky Injection Molding din Dudelange este un lider mondial în sisteme de turnare prin injecție, utilizate în special pentru sticlele PET.",
+      en: "Husky Injection Molding in Dudelange is a global leader in injection molding systems, primarily used for manufacturing PET preforms and closures.",
+    },
+    factsAdvanced: {
+      de: ["Europäischer Hauptsitz in Düdelingen", "Fokus auf PET-Verpackungslösungen", "Großer High-Tech-Arbeitgeber", "Innovationszentrum für Kunststoffe"],
+      hu: ["Európai központja Dudelange-ban van", "A PET-csomagolási megoldásokra fókuszál", "Jelentős csúcstechnológiai munkáltató", "Műanyagipari innovációs központ"],
+      ro: ["Sediul european în Dudelange", "Accent pe soluții de ambalare PET", "Angajator major în high-tech", "Centru de inovare pentru plastice"],
+      en: ["European headquarters in Dudelange", "Focus on PET packaging solutions", "Major high-tech employer", "Innovation center for plastic systems"],
+    },
+    image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp",
+},  {
     id: "luxembourg-guardian-glass-dudelange-economic-v2",
     type: "factory",
-    name: { de: "Guardian Glass Düdelingen", hu: "Guardian Glass Dudelange", ro: "Guardian Glass Dudelange", en: "Guardian Glass Dudelange" },
+    name: { de: "Guardian Glass Düdelingen", hu: "Guardian Glass Dudelange", ro: "Guardian Glass Dudelange", en: "Guardian Glass Dudelange",
+image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp"
+},
     coords: [6.105, 49.465],
     coordinates: { lat: 49.465, lng: 6.105 },
     description: {
@@ -539,11 +939,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Producție de sticlă cu acoperire prin pulverizare", "Accent pe tehnologia sustenabilă a clădirilor", "Furnizare pentru proiecte mari de zgârie-nori", "Unul dintre cele mai mari situri de sticlă din regiune"],
       en: ["Production of sputter-coated glass", "Focus on sustainable building technology", "Supplier for major skyscraper projects", "One of the largest glass sites in the region"],
     },
-    imageHint: "Large glass sheets moving on a conveyor in a factory", image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp"},
-  {
+imageHint: "Large glass sheets moving on a conveyor in a factory",
+    descriptionAdvanced: {
+      de: "Guardian Glass betreibt in Düdelingen eine der modernsten Floatglas-Produktionslinien Europas, die Glas für ikonische Architekturprojekte liefert.",
+      hu: "A Guardian Glass Dudelange-ban Európa egyik legmodernebb síküveggyártó sorát üzemelteti, amely ikonikus építészeti projektekhez szállít üveget.",
+      ro: "Guardian Glass operează în Dudelange una dintre cele mai moderne linii de producție a sticlei plane din Europa, pentru proiecte arhitecturale.",
+      en: "Guardian Glass operates one of Europe's most modern float glass production lines in Dudelange, supplying glass for iconic architectural projects.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisiert auf beschichtetes Glas", "Einsatz in Hochhäusern weltweit", "Teil der Guardian Industries Gruppe", "Großflächiges Werksgelände im Süden"],
+      hu: ["Bevonatos üvegekre specializálódott", "Felhőkarcolókhoz használják világszerte", "A Guardian Industries csoport része", "Hatalmas gyártelep az ország déli részén"],
+      ro: ["Specializată în sticlă peliculizată", "Utilizată în zgârie-nori din întreaga lume", "Parte a grupului Guardian Industries", "Sit industrial vast în sudul țării"],
+      en: ["Specialized in coated high-performance glass", "Used in skyscrapers worldwide", "Part of the Guardian Industries group", "Large industrial facility in the south"],
+    },
+    image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp",
+},  {
     id: "luxembourg-euro-composite-echternach-economic-v2",
     type: "factory",
-    name: { de: "Euro-Composite Echternach", hu: "Euro-Composite Echternach", ro: "Euro-Composite Echternach", en: "Euro-Composite Echternach" },
+    name: { de: "Euro-Composite Echternach", hu: "Euro-Composite Echternach", ro: "Euro-Composite Echternach", en: "Euro-Composite Echternach",
+image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp"
+},
     coords: [6.412, 49.792],
     coordinates: { lat: 49.792, lng: 6.412 },
     description: {
@@ -558,11 +973,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Furnizor pentru Airbus și Boeing", "Producție de panouri pentru sateliți", "Departament de cercetare propriu la fața locului", "Cel mai important angajator privat din Echternach"],
       en: ["Supplier for Airbus and Boeing", "Production of panels for satellites", "Own research department on-site", "Most important private employer in Echternach"],
     },
-    imageHint: "Lightweight honeycomb composite panels in a factory", image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp"},
-  {
+imageHint: "Lightweight honeycomb composite panels in a factory",
+    descriptionAdvanced: {
+      de: "Euro-Composite in Echternach fertigt hochkomplexe Wabenstrukturen und Leichtbauteile, die unverzichtbar für die moderne Luft- und Raumfahrtindustrie sind.",
+      hu: "Az echternach-i Euro-Composite komplex méhsejt-struktúrákat és könnyűszerkezetes elemeket gyárt, amelyek elengedhetetlenek a repülőgépipar számára.",
+      ro: "Euro-Composite din Echternach produce structuri de tip fagure și piese ușoare, indispensabile pentru industria aerospațială modernă.",
+      en: "Euro-Composite in Echternach manufactures complex honeycomb structures and lightweight components essential for the aerospace industry.",
+    },
+    factsAdvanced: {
+      de: ["Zulieferer für Airbus und Boeing", "Verwendung von Kevlar und Aluminium", "Über 800 Mitarbeiter am Standort", "Hochpräzise CNC-Fertigung"],
+      hu: ["Az Airbus és a Boeing beszállítója", "Kevlár és alumínium alapú anyagok", "Több mint 800 alkalmazott a telephelyen", "Nagy pontosságú CNC-megmunkálás"],
+      ro: ["Furnizor pentru Airbus și Boeing", "Utilizează materiale precum Kevlar", "Peste 800 de angajați la acest sediu", "Producție CNC de înaltă precizie"],
+      en: ["Supplier for Airbus and Boeing", "Uses materials like Kevlar and aluminum", "Over 800 employees at the site", "High-precision CNC manufacturing"],
+    },
+    image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp",
+},  {
     id: "luxembourg-iee-contern-economic-v2",
     type: "industry",
-    name: { de: "IEE Hauptsitz Contern", hu: "IEE Székház Contern", ro: "Sediul IEE Contern", en: "IEE Headquarters Contern" },
+    name: { de: "IEE Hauptsitz Contern", hu: "IEE Székház Contern", ro: "Sediul IEE Contern", en: "IEE Headquarters Contern",
+image: "/poi-images/luxembourg-iee-contern-economic-v2.webp"
+},
     coords: [6.225, 49.582],
     coordinates: { lat: 49.582, lng: 6.225 },
     description: {
@@ -577,11 +1007,26 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Pionier în sistemele de detectare a ocupanților", "Accent pe siguranță și conducere autonomă", "Echipă internațională de ingineri", "Investiții mari în cercetare și dezvoltare"],
       en: ["Pioneer in occupant detection systems", "Focus on safety and autonomous driving", "International team of engineers", "High investment in Research & Development"],
     },
-    imageHint: "Modern office and lab building of IEE in Contern", image: "/poi-images/luxembourg-iee-contern-economic-v2.webp"},
-  {
+imageHint: "Modern office and lab building of IEE in Contern",
+    descriptionAdvanced: {
+      de: "IEE in Contern ist ein Pionier in der Sensortechnologie, dessen Systeme in Millionen von Fahrzeugen weltweit für Sicherheit und Komfort sorgen.",
+      hu: "A contern-i IEE a szenzortechnológia úttörője, amelynek rendszerei világszerte autók millióiban gondoskodnak a biztonságról és kényelemről.",
+      ro: "IEE din Contern este un pionier în tehnologia senzorilor, ale cărui sisteme asigură siguranța și confortul în milioane de vehicule din lume.",
+      en: "IEE in Contern is a pioneer in sensor technology, whose advanced systems enhance safety and comfort in millions of vehicles worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisierung auf Sitzbelegungserkennung", "Über 1.000 Patente weltweit", "Globaler Partner der Automobilindustrie", "Sitz im neuen Contern-Campus"],
+      hu: ["Ülésfoglaltság-érzékelőkre specializálódott", "Több mint 1000 szabadalom világszerte", "Az autóipar globális partnere", "Az új contern-i kampuszon található"],
+      ro: ["Specializată în senzori de prezență", "Peste 1.000 de brevete la nivel mondial", "Partener global al industriei auto", "Sediul în noul campus din Contern"],
+      en: ["Specialized in occupant detection systems", "Holds over 1,000 patents worldwide", "Global partner for the auto industry", "Located at the new Contern campus"],
+    },
+    image: "/poi-images/luxembourg-iee-contern-economic-v2.webp",
+},  {
     id: "luxembourg-fanuc-europe-echternach-economic-v2",
     type: "industry",
-    name: { de: "Fanuc Europe Zentrale", hu: "Fanuc Europe Központ", ro: "Sediul Fanuc Europe", en: "Fanuc Europe Headquarters" },
+    name: { de: "Fanuc Europe Zentrale", hu: "Fanuc Europe Központ", ro: "Sediul Fanuc Europe", en: "Fanuc Europe Headquarters",
+image: "/poi-images/luxembourg-fanuc-europe-echternach-economic-v2.webp"
+},
     coords: [6.402, 49.798],
     coordinates: { lat: 49.798, lng: 6.402 },
     description: {

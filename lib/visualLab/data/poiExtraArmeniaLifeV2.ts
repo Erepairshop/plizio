@@ -6,7 +6,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-ER",
     coords: [44.5583, 40.2117],
-    name: { de: "Botanischer Garten Eriwan", hu: "Jereváni Botanikus Kert", ro: "Grădina Botanică din Erevan", en: "Yerevan Botanical Garden" },
+    name: { de: "Botanischer Garten Eriwan", hu: "Jereváni Botanikus Kert", ro: "Grădina Botanică din Erevan", en: "Yerevan Botanical Garden",
+image: "/poi-images/armenia-botanical-garden-yerevan-life-v2.webp"
+},
     description: { de: "Der Botanische Garten in Eriwan ist ein weitläufiger Park, der eine große Vielfalt an kaukasischen und internationalen Pflanzenarten beherbergt.", hu: "A Jereváni Botanikus Kert egy kiterjedt park, amely a kaukázusi és nemzetközi növényfajok széles választékának ad otthont.", ro: "Grădina Botanică din Erevan este un parc extins care găzduiește o mare varietate de specii de plante caucaziene și internaționale.", en: "The Botanical Garden in Yerevan is a sprawling park housing a wide variety of Caucasian and international plant species." },
     facts: {
       de: ["Wurde 1935 gegründet.", "Umfasst eine Fläche von 80 Hektar.", "Beherbergt seltene und bedrohte Pflanzen."],
@@ -32,7 +34,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "AM-ER",
     coords: [44.5492, 40.2003],
-    name: { de: "Zoo Eriwan", hu: "Jereváni Állatkert", ro: "Grădina Zoologică din Erevan", en: "Yerevan Zoo" },
+    name: { de: "Zoo Eriwan", hu: "Jereváni Állatkert", ro: "Grădina Zoologică din Erevan", en: "Yerevan Zoo",
+image: "/poi-images/armenia-yerevan-zoo-life-v2.webp"
+},
     description: { de: "Der Zoo in der Hauptstadt bietet Familien die Möglichkeit, über zweitausend Tiere aus verschiedenen Kontinenten aus der Nähe zu betrachten.", hu: "A fővárosi állatkert lehetőséget kínál a családoknak, hogy több mint kétezer állatot figyeljenek meg közelről a különböző kontinensekről.", ro: "Grădina zoologică din capitală oferă familiilor ocazia de a observa îndeaproape peste două mii de animale de pe diverse continente.", en: "The zoo in the capital offers families the opportunity to closely observe over two thousand animals from different continents." },
     facts: {
       de: ["Wurde 1940 eröffnet.", "Beherbergt etwa 274 Tierarten.", "Ein beliebtes Ausflugsziel für Kinder."],
@@ -58,7 +62,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-ER",
     coords: [44.5074, 40.1756],
-    name: { de: "Englischer Park Eriwan", hu: "Angol park Jereván", ro: "Parcul Englezesc Erevan", en: "English Park Yerevan" },
+    name: { de: "Englischer Park Eriwan", hu: "Angol park Jereván", ro: "Parcul Englezesc Erevan", en: "English Park Yerevan",
+image: "/poi-images/armenia-english-park-yerevan-life-v2.webp"
+},
     description: { de: "Einer der ältesten Parks in Eriwan, der im 19. Jahrhundert angelegt wurde und mit seinen klassischen Denkmälern Besucher anzieht.", hu: "Jereván egyik legrégebbi parkja, amelyet a 19. században hoztak létre, és klasszikus emlékműveivel vonzza a látogatókat.", ro: "Unul dintre cele mai vechi parcuri din Erevan, creat în secolul al XIX-lea, atrăgând vizitatori cu monumentele sale clasice.", en: "One of the oldest parks in Yerevan, established in the 19th century and attracting visitors with its classical monuments." },
     facts: {
       de: ["Im Jahr 1860 angelegt.", "Oft als Kulisse für Hochzeitsfotos genutzt.", "Das Sundukjan-Theater befindet sich hier."],
@@ -84,7 +90,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-ER",
     coords: [44.5078, 40.1919],
-    name: { de: "Park der Liebenden", hu: "Szerelmesek parkja", ro: "Parcul Îndrăgostiților", en: "Lovers' Park" },
+    name: { de: "Park der Liebenden", hu: "Szerelmesek parkja", ro: "Parcul Îndrăgostiților", en: "Lovers' Park",
+image: "/poi-images/armenia-lovers-park-yerevan-life-v2.webp"
+},
     description: { de: "Ein wunderschön gestalteter japanischer Garten im Zentrum von Eriwan, der als romantischer Treffpunkt für Paare dient.", hu: "Egy gyönyörűen kialakított japánkert Jereván központjában, amely a párok romantikus találkozóhelyeként szolgál.", ro: "O grădină japoneză frumos amenajată în centrul Erevanului, servind ca punct de întâlnire romantic pentru cupluri.", en: "A beautifully landscaped Japanese garden in the center of Yerevan, serving as a romantic meeting place for couples." },
     facts: {
       de: ["Stammt aus dem 18. Jahrhundert.", "2008 im japanischen Stil renoviert.", "Verfügt über Wasserfälle und kleine Teiche."],
@@ -109,7 +117,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-ER",
     coords: [44.4756, 40.1983],
-    name: { de: "Tumanjan-Park", hu: "Tumanjan park", ro: "Parcul Tumanyan", en: "Tumanyan Park" },
+    name: { de: "Tumanjan-Park", hu: "Tumanjan park", ro: "Parcul Tumanyan", en: "Tumanyan Park",
+image: "/poi-images/armenia-tumanyan-park-life-v2.webp"
+},
     description: { de: "Ein weitläufiger Stadtpark benannt nach dem berühmten armenischen Dichter Howhannes Tumanjan, ideal für Spaziergänge und Erholung.", hu: "Egy kiterjedt városi park, amelyet a híres örmény költőről, Hovhannesz Tumanjanról neveztek el, ideális sétákra és pihenésre.", ro: "Un parc urban extins numit după celebrul poet armean Hovhannes Tumanyan, ideal pentru plimbări și recreere.", en: "An expansive urban park named after the famous Armenian poet Hovhannes Tumanyan, ideal for walks and recreation." },
     facts: {
       de: ["Liegt in der Hrasdan-Schlucht.", "Wurde 1970 eröffnet.", "Umfasst zahlreiche Sportplätze."],
@@ -134,7 +144,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-ER",
     coords: [44.5244, 40.1953],
-    name: { de: "Siegespark", hu: "Győzelem park", ro: "Parcul Victoriei", en: "Victory Park" },
+    name: { de: "Siegespark", hu: "Győzelem park", ro: "Parcul Victoriei", en: "Victory Park",
+image: "/poi-images/armenia-victory-park-life-v2.webp"
+},
     description: { de: "Ein großer Vergnügungspark auf einem Hügel, der neben Fahrgeschäften auch einen atemberaubenden Blick über Eriwan bietet.", hu: "Egy nagy vidámpark egy dombon, amely a körhinták mellett lélegzetelállító kilátást nyújt Jerevánra.", ro: "Un mare parc de distracții pe un deal, oferind pe lângă atracții și o priveliște uluitoare asupra Erevanului.", en: "A large amusement park on a hill that, in addition to rides, offers a breathtaking view over Yerevan." },
     facts: {
       de: ["Beherbergt die Mutter Armenien-Statue.", "Erinnert an den sowjetischen Sieg im Zweiten Weltkrieg.", "Bietet ein Riesenrad für Kinder."],
@@ -159,7 +171,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-TV",
     coords: [45.1481, 40.8753],
-    name: { de: "Dendropark Idschewan", hu: "Idzseváni Dendropark", ro: "Dendroparcul Ijevan", en: "Ijevan Dendropark" },
+    name: { de: "Dendropark Idschewan", hu: "Idzseváni Dendropark", ro: "Dendroparcul Ijevan", en: "Ijevan Dendropark",
+image: "/poi-images/armenia-ijevan-dendropark-life-v2.webp"
+},
     description: { de: "Ein malerisches Arboretum in der Region Tawusch, das für seine Sammlung seltener Nadelbäume und ruhigen Spazierwege bekannt ist.", hu: "Egy festői arborétum Tavus régióban, amely ritka tűlevelű fák gyűjteményéről és békés sétaútjairól ismert.", ro: "Un arboret pitoresc în regiunea Tavush, cunoscut pentru colecția sa de conifere rare și aleile liniștite pentru plimbări.", en: "A picturesque arboretum in the Tavush region, known for its collection of rare conifers and peaceful walking paths." },
     facts: {
       de: ["Wurde 1962 gegründet.", "Beherbergt über 650 Pflanzenarten.", "Ein Paradies für Naturliebhaber."],
@@ -184,7 +198,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "park",
     parent: "AM-LO",
     coords: [44.3217, 40.9231],
-    name: { de: "Dendropark Stepanawan", hu: "Sztyepanavani Dendropark", ro: "Dendroparcul Stepanavan", en: "Stepanavan Dendropark" },
+    name: { de: "Dendropark Stepanawan", hu: "Sztyepanavani Dendropark", ro: "Dendroparcul Stepanavan", en: "Stepanavan Dendropark",
+image: "/poi-images/armenia-stepanavan-dendropark-life-v2.webp"
+},
     description: { de: "Der größte botanische Garten Armeniens, der sich tief in der bewaldeten Region Lori befindet und eine friedliche Atmosphäre bietet.", hu: "Örményország legnagyobb botanikus kertje, amely mélyen a Lori régió erdős részén található, és békés légkört kínál.", ro: "Cea mai mare grădină botanică din Armenia, situată adânc în regiunea împădurită Lori, oferind o atmosferă pașnică.", en: "Armenia's largest botanical garden, located deep in the forested Lori region and offering a peaceful atmosphere." },
     facts: {
       de: ["Umfasst 35 Hektar Waldfläche.", "Wurde 1931 vom polnischen Biologen Edmon Leonowicz gegründet.", "Ein Zentrum für den Schutz von Koniferen."],
@@ -209,7 +225,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AM-KT",
     coords: [44.6067, 40.1294],
-    name: { de: "Staatliches Reservat Erebuni", hu: "Erebuni Állami Rezervátum", ro: "Rezervația de Stat Erebuni", en: "Erebuni State Reserve" },
+    name: { de: "Staatliches Reservat Erebuni", hu: "Erebuni Állami Rezervátum", ro: "Rezervația de Stat Erebuni", en: "Erebuni State Reserve",
+image: "/poi-images/armenia-erebuni-state-reserve-life-v2.webp"
+},
     description: { de: "Ein Schutzgebiet zur Erhaltung seltener Wildweizenarten und endemischer Flora der Kaukasusregion.", hu: "Egy védett terület a ritka vadbúzafajok és a kaukázusi régió endemikus növényvilágának megőrzésére.", ro: "O zonă protejată pentru conservarea speciilor rare de grâu sălbatic și a florei endemice din regiunea Caucazului.", en: "A protected area for the conservation of rare wild wheat species and endemic flora of the Caucasus region." },
     facts: {
       de: ["Erstreckt sich über 120 Hektar.", "Schützt wilden Triticum urartu Weizen.", "Lebensraum für seltene kaukasische Reptilien."],
@@ -235,7 +253,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AM-SU",
     coords: [46.2239, 39.5969],
-    name: { de: "Sew-Litsch-Schutzgebiet", hu: "Fekete-tó Rezervátum", ro: "Rezervația Sev Lich", en: "Sev Lich Sanctuary" },
+    name: { de: "Sew-Litsch-Schutzgebiet", hu: "Fekete-tó Rezervátum", ro: "Rezervația Sev Lich", en: "Sev Lich Sanctuary",
+image: "/poi-images/armenia-sev-lich-sanctuary-life-v2.webp"
+},
     description: { de: "Ein geschützter Kratersee im Vulkangebirge von Sjunik, der als Trinkwasserquelle und Lebensraum für Wasservögel dient.", hu: "Egy védett krátertó a Szjunik vulkanikus hegységben, amely ivóvízforrásként és vízimadarak élőhelyeként szolgál.", ro: "Un lac de crater protejat în munții vulcanici din Syunik, care servește ca sursă de apă potabilă și habitat pentru păsări de apă.", en: "A protected crater lake in the volcanic mountains of Syunik, serving as a drinking water source and habitat for waterfowl." },
     facts: {
       de: ["Liegt auf über 2600 Metern Höhe.", "Das Wasser ist fast eiskalt.", "Ein wichtiges Rastgebiet für Zugvögel."],
@@ -260,7 +280,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AM-SU",
     coords: [46.3333, 39.5000],
-    name: { de: "Schutzgebiet Goris", hu: "Gorisz Állami Rezervátum", ro: "Rezervația de Stat Goris", en: "Goris State Sanctuary" },
+    name: { de: "Schutzgebiet Goris", hu: "Gorisz Állami Rezervátum", ro: "Rezervația de Stat Goris", en: "Goris State Sanctuary",
+image: "/poi-images/armenia-goris-state-sanctuary-life-v2.webp"
+},
     description: { de: "Ein Gebiet mit tiefen Schluchten und Höhlen, das dem Schutz des bedrohten kaukasischen Leoparden und anderer Großtiere dient.", hu: "Mély szurdokokkal és barlangokkal tarkított terület, amely a veszélyeztetett kaukázusi leopárd és más nagytestű állatok védelmét szolgálja.", ro: "O zonă cu defileuri adânci și peșteri, dedicată protejării leopardului caucazian pe cale de dispariție și a altor animale mari.", en: "An area with deep gorges and caves dedicated to protecting the endangered Caucasian leopard and other large animals." },
     facts: {
       de: ["Bekannt für die einzigartigen Felsformationen.", "Beherbergt Braunbären und Luchse.", "Teil des armenischen ökologischen Korridors."],
@@ -286,7 +308,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AM-SU",
     coords: [46.1500, 39.1167],
-    name: { de: "Sangesur-Schutzgebiet", hu: "Zangezur Állami Rezervátum", ro: "Rezervația Zangezur", en: "Zangezur State Sanctuary" },
+    name: { de: "Sangesur-Schutzgebiet", hu: "Zangezur Állami Rezervátum", ro: "Rezervația Zangezur", en: "Zangezur State Sanctuary",
+image: "/poi-images/armenia-zangezur-sanctuary-life-v2.webp"
+},
     description: { de: "Ein raues Berggebiet im Süden Armeniens, das als entscheidendes Habitat für die vom Aussterben bedrohten Bezoarziegen fungiert.", hu: "Dél-Örményország zord hegyvidéki területe, amely kritikus élőhelyként szolgál a kihalás szélén álló bezoárkecskék számára.", ro: "O zonă montană accidentată în sudul Armeniei, care servește ca habitat crucial pentru caprele bezoar pe cale de dispariție.", en: "A rugged mountainous area in southern Armenia acting as a crucial habitat for the endangered Bezoar ibex." },
     facts: {
       de: ["Gegründet im Jahr 2009.", "Grenzt direkt an das Arewik-Nationalparkgebiet.", "Unterstützt den Arterhalt von Greifvögeln."],
@@ -312,7 +336,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "AM-AR",
     coords: [44.5333, 39.9500],
-    name: { de: "Weinberge des Ararat-Tals", hu: "Ararát-völgyi szőlőültetvények", ro: "Podgoriile din Valea Ararat", en: "Ararat Valley Vineyards" },
+    name: { de: "Weinberge des Ararat-Tals", hu: "Ararát-völgyi szőlőültetvények", ro: "Podgoriile din Valea Ararat", en: "Ararat Valley Vineyards",
+image: "/poi-images/armenia-ararat-valley-vineyards-life-v2.webp"
+},
     description: { de: "Die sonnenverwöhnten Hänge am Fuße des Berges Ararat bringen einige der besten Weintrauben für die Weinproduktion im Kaukasus hervor.", hu: "Az Ararát-hegy lábánál fekvő napsütötte lejtők a Kaukázus legjobb borszőlőit teremtik meg a bortermelés számára.", ro: "Versanții însoriți de la poalele Muntelui Ararat produc unii dintre cei mai buni struguri pentru producția de vin din Caucaz.", en: "The sun-drenched slopes at the foot of Mount Ararat produce some of the best wine grapes for wine production in the Caucasus." },
     facts: {
       de: ["Eine der ältesten Weinbauregionen der Welt.", "Profitiert vom vulkanischen Boden.", "Zentrum der Brandy-Herstellung in Armenien."],
@@ -337,7 +363,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "AM-VD",
     coords: [45.1833, 39.7167],
-    name: { de: "Weinregion Areni", hu: "Areni borvidék", ro: "Regiunea viticolă Areni", en: "Areni Wine Region" },
+    name: { de: "Weinregion Areni", hu: "Areni borvidék", ro: "Regiunea viticolă Areni", en: "Areni Wine Region",
+image: "/poi-images/armenia-areni-wine-region-life-v2.webp"
+},
     description: { de: "Die bergige Region Areni ist weltberühmt für ihre alten Rebsorten und die traditionelle armenische Weinherstellung in Tonkrügen.", hu: "Az Areni hegyvidéki régió világhírű ősi szőlőfajtáiról és a hagyományos örmény cserépedényes borkészítésről.", ro: "Regiunea muntoasă Areni este faimoasă la nivel mondial pentru soiurile sale antice de struguri și vinificația tradițională armeană în vase de lut.", en: "The mountainous Areni region is world-famous for its ancient grape varieties and traditional Armenian winemaking in clay jugs." },
     facts: {
       de: ["Die Höhle von Areni-1 zeigt 6000 Jahre alten Weinbau.", "Bekannt für den Areni Noir-Wein.", "Ein wichtiges Ziel für Agrotourismus."],
@@ -362,7 +390,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "AM-AV",
     coords: [44.0333, 40.1500],
-    name: { de: "Aprikosenplantagen von Armawir", hu: "Armaviri sárgabarack-ültetvények", ro: "Livezile de caise din Armavir", en: "Armavir Apricot Orchards" },
+    name: { de: "Aprikosenplantagen von Armawir", hu: "Armaviri sárgabarack-ültetvények", ro: "Livezile de caise din Armavir", en: "Armavir Apricot Orchards",
+image: "/poi-images/armenia-armavir-apricot-orchards-life-v2.webp"
+},
     description: { de: "Weite Plantagen im Westen Armeniens kultivieren die legendäre armenische Aprikose, die tief in der nationalen Kultur verwurzelt ist.", hu: "Nyugat-Örményország hatalmas ültetvényein termesztik a legendás örmény sárgabarackot, amely mélyen gyökerezik a nemzeti kultúrában.", ro: "Vaste plantații din vestul Armeniei cultivă legendara caisă armeană, adânc înrădăcinată în cultura națională.", en: "Vast orchards in western Armenia cultivate the legendary Armenian apricot, deeply rooted in the national culture." },
     facts: {
       de: ["Die Aprikose heißt wissenschaftlich Prunus armeniaca.", "Armenien exportiert tonnenweise frische Aprikosen.", "Das Holz wird für das Duduk-Instrument verwendet."],
@@ -387,7 +417,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "AM-VD",
     coords: [45.3333, 39.7500],
-    name: { de: "Granatapfelplantagen von Wajoz Dsor", hu: "Vajoc Dzor-i gránátalma-ültetvények", ro: "Livezile de rodii din Vayots Dzor", en: "Vayots Dzor Pomegranate Orchards" },
+    name: { de: "Granatapfelplantagen von Wajoz Dsor", hu: "Vajoc Dzor-i gránátalma-ültetvények", ro: "Livezile de rodii din Vayots Dzor", en: "Vayots Dzor Pomegranate Orchards",
+image: "/poi-images/armenia-vayots-dzor-pomegranate-orchards-life-v2.webp"
+},
     description: { de: "Die warmen und trockenen Bedingungen in Wajoz Dsor sind ideal für den Anbau von Granatäpfeln, dem Symbol des Lebens in Armenien.", hu: "A Vajoc Dzor meleg és száraz körülményei ideálisak a gránátalma termesztésére, amely az élet szimbóluma Örményországban.", ro: "Condițiile calde și uscate din Vayots Dzor sunt ideale pentru cultivarea rodiilor, simbolul vieții în Armenia.", en: "The warm and dry conditions in Vayots Dzor are ideal for growing pomegranates, the symbol of life in Armenia." },
     facts: {
       de: ["Der Granatapfel steht für Fruchtbarkeit und Glück.", "Wird für Säfte und traditionelle Weine geerntet.", "Erfordert wenig Wasser zum Gedeihen."],
@@ -412,7 +444,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "AM-SH",
     coords: [43.8333, 40.8333],
-    name: { de: "Weizenfelder von Schirak", hu: "Sirak búzamezői", ro: "Câmpurile de grâu din Shirak", en: "Shirak Wheat Fields" },
+    name: { de: "Weizenfelder von Schirak", hu: "Sirak búzamezői", ro: "Câmpurile de grâu din Shirak", en: "Shirak Wheat Fields",
+image: "/poi-images/armenia-shirak-wheat-fields-life-v2.webp"
+},
     description: { de: "Die weiten, goldenen Weizenfelder in der Provinz Schirak sichern die Getreideversorgung des Landes und prägen die flache Landschaft.", hu: "A hatalmas, aranyszínű búzamezők Sirak tartományban biztosítják az ország gabonaellátását, és meghatározzák a sík tájat.", ro: "Câmpurile vaste și aurii de grâu din provincia Shirak asigură aprovizionarea cu cereale a țării și definesc peisajul plat.", en: "The vast, golden wheat fields in the Shirak province ensure the country's grain supply and define the flat landscape." },
     facts: {
       de: ["Schirak ist die Kornkammer Armeniens.", "Wird hauptsächlich im Trockenfeldbau kultiviert.", "Liefert das Mehl für das traditionelle Lavasch-Brot."],
@@ -437,7 +471,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "AM-GR",
     coords: [45.1667, 40.3333],
-    name: { de: "Kartoffelfarmen von Gegharkunik", hu: "Gegarkunik burgonyafarmjai", ro: "Fermele de cartofi din Gegharkunik", en: "Gegharkunik Potato Farms" },
+    name: { de: "Kartoffelfarmen von Gegharkunik", hu: "Gegarkunik burgonyafarmjai", ro: "Fermele de cartofi din Gegharkunik", en: "Gegharkunik Potato Farms",
+image: "/poi-images/armenia-gegharkunik-potato-farms-life-v2.webp"
+},
     description: { de: "Die kühlen klimatischen Bedingungen rund um den Sewansee eignen sich hervorragend für den Anbau hochwertiger armenischer Kartoffeln.", hu: "A Szeván-tó körüli hűvös éghajlati viszonyok kiválóan alkalmasak a kiváló minőségű örmény burgonya termesztésére.", ro: "Condițiile climatice răcoroase din jurul Lacului Sevan sunt excelente pentru cultivarea cartofilor armeni de înaltă calitate.", en: "The cool climatic conditions around Lake Sevan are excellent for growing high-quality Armenian potatoes." },
     facts: {
       de: ["Ein Hauptbestandteil der ländlichen Wirtschaft in Gegharkunik.", "Die Kartoffeln sind für ihren einzigartigen Geschmack bekannt.", "Wichtige Einkommensquelle für lokale Familien."],
@@ -462,7 +498,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "AM-ER",
     coords: [44.5622, 40.2094],
-    name: { de: "Wasserpark Eriwan", hu: "Jereváni Vízipark", ro: "Parcul Acvatic Erevan", en: "Water World Yerevan" },
+    name: { de: "Wasserpark Eriwan", hu: "Jereváni Vízipark", ro: "Parcul Acvatic Erevan", en: "Water World Yerevan",
+image: "/poi-images/armenia-water-world-yerevan-life-v2.webp"
+},
     description: { de: "Ein großes Freibad in der Hauptstadt, das in den heißen Sommermonaten erfrischende Rutschen und Wellenbäder für die ganze Familie bietet.", hu: "Egy nagy szabadtéri strand a fővárosban, amely a forró nyári hónapokban frissítő csúszdákat és hullámmedencéket kínál az egész családnak.", ro: "Un mare parc acvatic în aer liber în capitală, oferind tobogane răcoritoare și piscine cu valuri pentru întreaga familie în lunile fierbinți de vară.", en: "A large outdoor water park in the capital, offering refreshing slides and wave pools for the whole family during the hot summer months." },
     facts: {
       de: ["Im Jahr 2001 eröffnet.", "Verfügt über mehrere große Wasserrutschen.", "Wird im Winter teilweise als Eislaufbahn genutzt."],
@@ -487,7 +525,9 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "AM-ER",
     coords: [44.5517, 40.2225],
-    name: { de: "Play City Eriwan", hu: "Play City Jereván", ro: "Play City Erevan", en: "Play City Yerevan" },
+    name: { de: "Play City Eriwan", hu: "Play City Jereván", ro: "Play City Erevan", en: "Play City Yerevan",
+image: "/poi-images/armenia-play-city-yerevan-life-v2.webp"
+},
     description: { de: "Ein modernes Unterhaltungszentrum, das eine Vielzahl von Indoor- und Outdoor-Aktivitäten wie Kartfahren und Minigolf bietet.", hu: "Modern szórakoztatóközpont, amely különféle beltéri és szabadtéri tevékenységeket kínál, mint például a gokart és a minigolf.", ro: "Un centru modern de divertisment care oferă o varietate de activități în interior și în aer liber, cum ar fi karting și minigolf.", en: "A modern entertainment center offering a variety of indoor and outdoor activities such as go-karting and mini golf." },
     facts: {
       de: ["Bietet eine große Bowlingbahn.", "Zahlreiche Arcade-Spiele für Kinder.", "Ein beliebter Ort für Geburtstagsfeiern."],

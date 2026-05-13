@@ -10,8 +10,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Château Viale",
       hu: "Château Viale",
       ro: "Château Viale",
-      en: "Château Viale"
-    },
+      en: "Château Viale",
+image: "/poi-images/chateau-viale-history-v2.webp"
+},
     description: {
       de: "Dieses burgähnliche Gebäude wurde während der französischen Kolonialzeit in den 1940er Jahren erbaut und thront majestätisch auf einem Hügel nahe Kpalimé.",
       hu: "Ez a várkastélyszerű épület az 1940-es években, a francia gyarmati korszakban épült, és fenségesen magasodik egy dombon Kpalimé közelében.",
@@ -33,8 +34,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Sklavenhaus von Agbodrafo",
       hu: "Agbodrafói rabszolgaház",
       ro: "Casa Sclavilor din Agbodrafo",
-      en: "Slave House of Agbodrafo"
-    },
+      en: "Slave House of Agbodrafo",
+image: "/poi-images/maison-esclaves-agbodrafo-history-v2.webp"
+},
     description: {
       de: "Das auch als 'Woold Homé' bekannte Haus in Agbodrafo ist ein erschütterndes Denkmal an den transatlantischen Sklavenhandel im 19. Jahrhundert.",
       hu: "A Woold Homé néven is ismert ház Agbodrafóban a 19. századi transzatlanti rabszolga-kereskedelem megrázó emlékműve.",
@@ -56,8 +58,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Nationalmuseum von Togo",
       hu: "Togói Nemzeti Múzeum",
       ro: "Muzeul Național din Togo",
-      en: "National Museum of Togo"
-    },
+      en: "National Museum of Togo",
+image: "/poi-images/musee-national-lome-history-v2.webp"
+},
     description: {
       de: "Das im Palais des Congrès in Lomé untergebrachte Museum bewahrt die reiche Kultur, Kunst und Geschichte der togoischen Völker von der Vorgeschichte bis heute.",
       hu: "A loméi Palais des Congrès-ben helyet kapó múzeum Togo népeinek gazdag kultúráját, művészetét és történelmét őrzi az őskortól napjainkig.",
@@ -79,8 +82,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Gouverneurspalast",
       hu: "Kormányzói palota",
       ro: "Palatul Guvernatorilor",
-      en: "Governors' Palace"
-    },
+      en: "Governors' Palace",
+image: "/poi-images/palais-gouverneurs-history-v2.webp"
+},
     description: {
       de: "Dieser prächtige Palast in Lomé war der Sitz der deutschen Kolonialverwaltung und später der französischen Gouverneure.",
       hu: "Ez a loméi pompás palota a német gyarmati közigazgatás, majd később a francia kormányzók székhelye volt.",
@@ -103,8 +107,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Unabhängigkeitsdenkmal",
       hu: "Függetlenségi emlékmű",
       ro: "Monumentul Independenței",
-      en: "Independence Monument"
-    },
+      en: "Independence Monument",
+image: "/poi-images/monument-independance-history-v2.webp"
+},
     description: {
       de: "Dieses imposante Denkmal im Zentrum von Lomé erinnert an die Erlangung der Unabhängigkeit Togos von Frankreich am 27. April 1960.",
       hu: "Ez az impozáns emlékmű Lomé központjában Togo Franciaországtól való függetlenségének 1960. április 27-i elnyerésére emlékeztet.",
@@ -126,8 +131,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Herz-Jesu-Kathedrale",
       hu: "Szent Szív-székesegyház",
       ro: "Catedrala Sacré-Cœur",
-      en: "Sacré-Cœur Cathedral"
-    },
+      en: "Sacré-Cœur Cathedral",
+image: "/poi-images/cathedrale-sacre-coeur-history-v2.webp"
+},
     description: {
       de: "Die neugotische Kathedrale von Lomé wurde während der deutschen Kolonialzeit erbaut und ist eines der markantesten religiösen Bauwerke des Landes.",
       hu: "Lomé neogótikus székesegyháza a német gyarmati időszakban épült, és az ország egyik legjellegzetesebb vallási épülete.",
@@ -149,8 +155,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Deutscher Friedhof",
       hu: "Német temető",
       ro: "Cimitirul German",
-      en: "German Cemetery"
-    },
+      en: "German Cemetery",
+image: "/poi-images/cimetiere-allemand-lome-history-v2.webp"
+},
     description: {
       de: "Ein ruhiger historischer Ort in Lomé, auf dem Beamte, Händler und Soldaten aus der Zeit des deutschen Schutzgebiets Togoland begraben liegen.",
       hu: "Csendes történelmi hely Loméban, ahol a német Togoföld gyarmati tisztviselői, kereskedői és katonái nyugszanak.",
@@ -172,8 +179,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Koutammakou",
       hu: "Koutammakou",
       ro: "Koutammakou",
-      en: "Koutammakou"
-    },
+      en: "Koutammakou",
+image: "/poi-images/koutammakou-batammariba-history-v2.webp"
+},
     description: {
       de: "Dieses UNESCO-Weltkulturerbe im Nordosten Togos ist berühmt für die 'Takienta', die einzigartigen mehrstöckigen Lehmburgen des Batammariba-Volkes.",
       hu: "Ez az északkelet-togói UNESCO világörökségi helyszín a Batammariba nép egyedülálló, többszintes agyagvárairól, a 'Takientákról' híres.",
@@ -195,8 +203,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Grotten von Nano",
       hu: "Nanói barlangok",
       ro: "Grotele din Nano",
-      en: "Caves of Nano"
-    },
+      en: "Caves of Nano",
+image: "/poi-images/grottes-nano-history-v2.webp"
+},
     description: {
       de: "Diese in die Klippen von Dapaong gehauenen Höhlen dienten den lokalen Völkern jahrhundertelang als Zufluchtsort während ethnischer Konflikte.",
       hu: "Ezek a Dapaong szikláiba vájt barlangok évszázadokon át menedékként szolgáltak a helyi népek számára az etnikai konfliktusok idején.",
@@ -219,8 +228,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Grotten von Maproug",
       hu: "Maprougi barlangok",
       ro: "Grotele din Maproug",
-      en: "Caves of Maproug"
-    },
+      en: "Caves of Maproug",
+image: "/poi-images/grottes-maproug-history-v2.webp"
+},
     description: {
       de: "Ähnlich wie Nano sind die Höhlen von Maproug historische Höhlensiedlungen, die von den Moba-Völkern als Schutzräume genutzt wurden.",
       hu: "Nanóhoz hasonlóan Maproug barlangjai is történelmi barlanglakások, amelyeket a moba népek használtak védelmi célokra.",
@@ -242,8 +252,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Eisenhütten von Bandjeli",
       hu: "Bandjeli vasolvasztó helyek",
       ro: "Situl de prelucrare a fierului din Bandjeli",
-      en: "Iron Smelting Sites of Bandjeli"
-    },
+      en: "Iron Smelting Sites of Bandjeli",
+image: "/poi-images/sites-fer-bandjeli-history-v2.webp"
+},
     description: {
       de: "Die Region Bassar ist bekannt für ihre jahrtausendealte Tradition der Eisenverhüttung, wobei die Öfen von Bandjeli zu den bedeutendsten gehören.",
       hu: "A Bassar régió évezredes vasolvasztási hagyományairól ismert, melyek közül a bandjeli kemencék a legjelentősebbek közé tartoznak.",
@@ -265,8 +276,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Funkstation Kamina",
       hu: "Kaminai rádióállomás romjai",
       ro: "Ruinele stației radio Kamina",
-      en: "Kamina Radio Station Ruins"
-    },
+      en: "Kamina Radio Station Ruins",
+image: "/poi-images/ruines-radio-kamina-history-v2.webp"
+},
     description: {
       de: "Die Ruinen der von den Deutschen erbauten Großfunkstation Kamina zeugen von der strategischen Bedeutung Togos im Ersten Weltkrieg.",
       hu: "A németek által épített kaminai nagy rádióállomás romjai Togo első világháborús stratégiai jelentőségéről tanúskodnak.",
@@ -288,8 +300,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Stadtmauern von Notsé",
       hu: "Notsé városfalai",
       ro: "Zidurile orașului Notsé",
-      en: "Walls of Notsé"
-    },
+      en: "Walls of Notsé",
+image: "/poi-images/murailles-notse-history-v2.webp"
+},
     description: {
       de: "Die Überreste der antiken Stadtmauern von Notsé markieren die historische Hauptstadt des Ewe-Volkes vor ihrer großen Abwanderung.",
       hu: "Notsé ősi városfalainak maradványai az ewe nép történelmi fővárosát jelzik a nagy vándorlásuk előtt.",
@@ -312,8 +325,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Der Wharf von Lomé",
       hu: "Loméi móló",
       ro: "Wharf-ul din Lomé",
-      en: "Wharf of Lomé"
-    },
+      en: "Wharf of Lomé",
+image: "/poi-images/wharf-lome-history-v2.webp"
+},
     description: {
       de: "Die Überreste der alten Landungsbrücken (Wharfs) in Lomé sind stumme Zeugen der kolonialen Handelsgeschichte und Ingenieurskunst.",
       hu: "A loméi régi kikötőmólók (Wharf) maradványai a gyarmati kereskedelemtörténet és mérnöki tudomány néma tanúi.",
@@ -335,8 +349,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Fetischmarkt von Akodessewa",
       hu: "Akodessewa-i fetispiac",
       ro: "Piața de Fetișuri din Akodessewa",
-      en: "Akodessewa Fetish Market"
-    },
+      en: "Akodessewa Fetish Market",
+image: "/poi-images/marche-fetiches-akodessewa-history-v2.webp"
+},
     description: {
       de: "Der weltweit größte Fetischmarkt bietet einen tiefen Einblick in die Jahrhunderte alten Traditionen und spirituellen Praktiken des Voodoo.",
       hu: "A világ legnagyobb fetispiaca mély betekintést nyújt a vudu évszázados hagyományaiba és szellemi gyakorlataiba.",
@@ -358,8 +373,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Deutsche Brücke von Amakpapé",
       hu: "Amakpapéi német híd",
       ro: "Podul German din Amakpapé",
-      en: "German Bridge of Amakpapé"
-    },
+      en: "German Bridge of Amakpapé",
+image: "/poi-images/pont-allemand-amakpape-history-v2.webp"
+},
     description: {
       de: "Diese während der deutschen Kolonialzeit errichtete Brücke ist ein robustes Beispiel für die Infrastrukturentwicklung zu Beginn des 20. Jahrhunderts.",
       hu: "Ez a német gyarmati időszakban emelt híd a 20. század eleji infrastruktúra-fejlesztés robusztus példája.",
@@ -381,8 +397,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Historisches Viertel von Aného",
       hu: "Aného történelmi negyede",
       ro: "Cartierul istoric din Aného",
-      en: "Historic District of Aného"
-    },
+      en: "Historic District of Aného",
+image: "/poi-images/quartier-historique-aneho-history-v2.webp"
+},
     description: {
       de: "In Aného, der ehemaligen Hauptstadt, finden sich zahlreiche Gebäude im afro-brasilianischen und kolonialen Stil, die von der wechselvollen Geschichte erzählen.",
       hu: "Anéhóban, az egykori fővárosban számos afro-brazil és gyarmati stílusú épület található, amelyek a város változatos történelméről mesélnek.",
@@ -405,8 +422,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Denkmal des Togoville-Vertrags",
       hu: "Togoville-i szerződés emlékműve",
       ro: "Monumentul Tratatului de la Togoville",
-      en: "Togoville Treaty Monument"
-    },
+      en: "Togoville Treaty Monument",
+image: "/poi-images/monument-traite-togoville-history-v2.webp"
+},
     description: {
       de: "Dieses Denkmal markiert die Stelle, an der Gustav Nachtigal und König Mlapa III. im Jahr 1884 den Vertrag unterzeichneten, der Togo zum deutschen Protektorat machte.",
       hu: "Ez az emlékmű jelöli azt a helyet, ahol 1884-ben Gustav Nachtigal és III. Mlapa király aláírták azt a szerződést, amely Togót német protektorátussá tette.",
@@ -428,8 +446,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Sklavenbrunnen von Chilla",
       hu: "Chillai rabszolgakút",
       ro: "Puțul Sclavilor din Chilla",
-      en: "Slave Well of Chilla"
-    },
+      en: "Slave Well of Chilla",
+image: "/poi-images/puit-esclaves-chilla-history-v2.webp"
+},
     description: {
       de: "Dieser Brunnen in der Nähe von Wahala diente als wichtige Wasserstation auf der Route der Sklavenkarawanen aus dem Landesinneren zur Küste.",
       hu: "Ez a Wahala közelében található kút fontos vízállomásként szolgált a belső területekről a part felé tartó rabszolgakaravánok útvonalán.",
@@ -451,8 +470,9 @@ export const poiExtraTogoHistoryV2: POI[] = [
       de: "Deutsches Fort",
       hu: "Német erőd maradványai",
       ro: "Fortul German",
-      en: "German Fort"
-    },
+      en: "German Fort",
+image: "/poi-images/fort-allemand-sansanne-mango-history-v2.webp"
+},
     description: {
       de: "Die Ruinen des deutschen Forts in Sansanné-Mango erinnern an die militärische Präsenz der Kolonialmacht im Norden des Landes.",
       hu: "A sansanné-mangói német erőd romjai a gyarmati hatalom katonai jelenlétére emlékeztetnek az ország északi részén.",

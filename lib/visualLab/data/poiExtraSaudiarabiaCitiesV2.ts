@@ -6,7 +6,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-01",
     coords: [46.7167, 24.6333],
-    name: { de: "Riad", hu: "Rijád", ro: "Riad", en: "Riyadh" },
+    name: { de: "Riad", hu: "Rijád", ro: "Riad", en: "Riyadh",
+image: "/poi-images/riyadh-cities-v2.webp"
+},
     description: {
       de: "Die weitläufige Hauptstadt Saudi-Arabiens ist das politische und finanzielle Zentrum der Arabischen Halbinsel.",
       hu: "Szaúd-Arábia kiterjedt sivatagi fővárosa az Arab-félsziget politikai és pénzügyi központja.",
@@ -48,7 +50,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-02",
     coords: [39.1979, 21.5433],
-    name: { de: "Dschidda", hu: "Dzsidda", ro: "Jeddah", en: "Jeddah" },
+    name: { de: "Dschidda", hu: "Dzsidda", ro: "Jeddah", en: "Jeddah",
+image: "/poi-images/jeddah-cities-v2.webp"
+},
     description: {
       de: "Eine moderne Hafenstadt am Roten Meer, die traditionell als Tor für Pilger auf dem Weg nach Mekka dient.",
       hu: "Modern kikötőváros a Vörös-tenger partján, amely hagyományosan a Mekkába tartó zarándokok kapuja.",
@@ -90,7 +94,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-02",
     coords: [39.8261, 21.4225],
-    name: { de: "Mekka", hu: "Mekka", ro: "Mecca", en: "Mecca" },
+    name: { de: "Mekka", hu: "Mekka", ro: "Mecca", en: "Mecca",
+image: "/poi-images/mecca-cities-v2.webp"
+},
     description: {
       de: "Die heiligste Stadt des Islams, Geburtsort des Propheten Mohammed und Ziel der jährlichen Hadsch-Pilgerfahrt.",
       hu: "Az iszlám legszentebb városa, Mohamed próféta szülőhelye és az éves haddzs zarándoklat célpontja.",
@@ -132,7 +138,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-03",
     coords: [39.6122, 24.4686],
-    name: { de: "Medina", hu: "Medina", ro: "Medina", en: "Medina" },
+    name: { de: "Medina", hu: "Medina", ro: "Medina", en: "Medina",
+image: "/poi-images/medina-cities-v2.webp"
+},
     description: {
       de: "Die zweitheiligste Stadt des Islams beherbergt die Prophetenmoschee und ist ein zentraler spiritueller Ort.",
       hu: "Az iszlám második legszentebb városa, amely a Próféta mecsetjének ad otthont és fontos spirituális központ.",
@@ -174,7 +182,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-04",
     coords: [50.1033, 26.4333],
-    name: { de: "Dammam", hu: "Dammám", ro: "Dammam", en: "Dammam" },
+    name: { de: "Dammam", hu: "Dammám", ro: "Dammam", en: "Dammam",
+image: "/poi-images/dammam-cities-v2.webp"
+},
     description: {
       de: "Die Metropole an der Ostküste ist ein wichtiges Verwaltungszentrum und reich an Erdölindustrieanlagen.",
       hu: "A keleti partvidék metropolisa fontos közigazgatási központ, amely gazdag kőolajipari létesítményekben.",
@@ -216,7 +226,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-02",
     coords: [40.4167, 21.2667],
-    name: { de: "Ta'if", hu: "Taif", ro: "Taif", en: "Ta'if" },
+    name: { de: "Ta'if", hu: "Taif", ro: "Taif", en: "Ta'if",
+image: "/poi-images/taif-cities-v2.webp"
+},
     description: {
       de: "Eine Bergstadt in der Provinz Mekka, bekannt für ihr kühleres Klima und die Produktion von Rosenwasser.",
       hu: "Mekka tartományának hegyi városa, amely hűvösebb éghajlatáról és rózsavíz-termeléséről híres.",
@@ -259,7 +271,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-07",
     coords: [36.5715, 28.3833],
-    name: { de: "Tabuk", hu: "Tabúk", ro: "Tabuk", en: "Tabuk" },
+    name: { de: "Tabuk", hu: "Tabúk", ro: "Tabuk", en: "Tabuk",
+image: "/poi-images/tabuk-cities-v2.webp"
+},
     description: {
       de: "Die Provinzhauptstadt im Nordwesten des Landes nahe der jordanischen Grenze ist von historischen Stätten umgeben.",
       hu: "Az ország északnyugati részén, a jordán határ közelében fekvő tartományi fővárost történelmi helyszínek övezik.",
@@ -301,7 +315,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-05",
     coords: [43.9750, 26.3260],
-    name: { de: "Buraida", hu: "Burajda", ro: "Buraidah", en: "Buraidah" },
+    name: { de: "Buraida", hu: "Burajda", ro: "Buraidah", en: "Buraidah",
+image: "/poi-images/buraidah-cities-v2.webp"
+},
     description: {
       de: "Das Herz der Region Al Qasim ist ein bedeutendes landwirtschaftliches Zentrum, das besonders für seine Datteln bekannt ist.",
       hu: "Al-Kaszím régió központja jelentős mezőgazdasági csomópont, amely különösen datolyatermeléséről híres.",
@@ -343,7 +359,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-14",
     coords: [42.7333, 18.3000],
-    name: { de: "Chamis Muschait", hu: "Hamísz Musajt", ro: "Khamis Mushait", en: "Khamis Mushait" },
+    name: { de: "Chamis Muschait", hu: "Hamísz Musajt", ro: "Khamis Mushait", en: "Khamis Mushait",
+image: "/poi-images/khamis-mushait-cities-v2.webp"
+},
     description: {
       de: "Eine pulsierende Handelsstadt in den Bergen der Asir-Provinz, die ein wichtiges Militär- und Geschäftszentrum ist.",
       hu: "Pehegéses kereskedőváros Aszír tartomány hegyei között, amely fontos katonai és üzleti központ.",
@@ -385,7 +403,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-14",
     coords: [42.5053, 18.2164],
-    name: { de: "Abha", hu: "Abhá", ro: "Abha", en: "Abha" },
+    name: { de: "Abha", hu: "Abhá", ro: "Abha", en: "Abha",
+image: "/poi-images/abha-cities-v2.webp"
+},
     description: {
       de: "Die hoch gelegene Provinzhauptstadt von Asir zieht mit ihrem milden Klima und der malerischen Berglandschaft viele Besucher an.",
       hu: "Aszír tartomány magasan fekvő fővárosa enyhe éghajlatával és festői hegyvidéki tájával sok látogatót vonz.",
@@ -427,7 +447,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [49.5653, 25.3646],
-    name: { de: "Hofuf", hu: "Hofuf", ro: "Al Hofuf", en: "Al Hofuf" },
+    name: { de: "Hofuf", hu: "Hofuf", ro: "Al Hofuf", en: "Al Hofuf",
+image: "/poi-images/al-hofuf-cities-v2.webp"
+},
     description: {
       de: "Das städtische Zentrum der Al-Ahsa-Oase ist tief in der Geschichte verwurzelt und von Millionen Dattelpalmen umgeben.",
       hu: "Az Al-Aksza oázis városi központja mélyen gyökerezik a történelemben, és több millió datolyapálma övezi.",
@@ -469,7 +491,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [49.5858, 25.4136],
-    name: { de: "Al Mubarraz", hu: "Al Mubarraz", ro: "Al Mubarraz", en: "Al Mubarraz" },
+    name: { de: "Al Mubarraz", hu: "Al Mubarraz", ro: "Al Mubarraz", en: "Al Mubarraz",
+image: "/poi-images/al-mubarraz-cities-v2.webp"
+},
     description: {
       de: "Die Zwillingsstadt von Hofuf innerhalb der Al-Ahsa-Oase teilt sich deren fruchtbares Landbewässerungssystem.",
       hu: "Hofuf ikervárosa az Al-Aksza oázison belül, amely osztozik a terület termékeny öntözőrendszerén.",
@@ -511,7 +535,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-06",
     coords: [41.6907, 27.5158],
-    name: { de: "Ha'il", hu: "Háíl", ro: "Ha'il", en: "Ha'il" },
+    name: { de: "Ha'il", hu: "Háíl", ro: "Ha'il", en: "Ha'il",
+image: "/poi-images/hail-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt umgeben von markanten Granitbergen, die auf der historischen Pilgerroute von Persien nach Mekka liegt.",
       hu: "A feltűnő gránithegyekkel körülvett város a Perzsiából Mekkába vezető történelmi zarándokúton fekszik.",
@@ -554,7 +580,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-10",
     coords: [44.1277, 17.4933],
-    name: { de: "Nadschran", hu: "Nadzsrán", ro: "Najran", en: "Najran" },
+    name: { de: "Nadschran", hu: "Nadzsrán", ro: "Najran", en: "Najran",
+image: "/poi-images/najran-cities-v2.webp"
+},
     description: {
       de: "Die südliche Stadt an der Grenze zum Jemen ist berühmt für ihre alten Ruinen und die Lehmarchitektur des Palastes von Al-Aan.",
       hu: "A jemen melletti déli város ősi romjairól és az Al-Aan palota vályogépítészetéről híres.",
@@ -596,7 +624,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [49.6583, 27.0111],
-    name: { de: "Al-Dschubail", hu: "Al-Dzsubajl", ro: "Al Jubail", en: "Al Jubail" },
+    name: { de: "Al-Dschubail", hu: "Al-Dzsubajl", ro: "Al Jubail", en: "Al Jubail",
+image: "/poi-images/al-jubail-cities-v2.webp"
+},
     description: {
       de: "Ein ehemaliges kleines Fischerdorf, das sich zu einer der größten Industriestädte der Welt entwickelt hat.",
       hu: "Az egykori kis halászfalu a világ egyik legnagyobb iparvárosává nőtte ki magát.",
@@ -638,7 +668,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-01",
     coords: [47.3346, 24.1550],
-    name: { de: "Al-Chardsch", hu: "Al-Hardzs", ro: "Al Kharj", en: "Al Kharj" },
+    name: { de: "Al-Chardsch", hu: "Al-Hardzs", ro: "Al Kharj", en: "Al Kharj",
+image: "/poi-images/al-kharj-cities-v2.webp"
+},
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt südlich von Riad, die historische Wasserbrunnen und Paläste beherbergt.",
       hu: "A Rijádtól délre fekvő mezőgazdasági város történelmi vízgyűjtőknek és palotáknak ad otthont.",
@@ -680,7 +712,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-03",
     coords: [38.0622, 24.0891],
-    name: { de: "Yanbu", hu: "Janbu", ro: "Yanbu", en: "Yanbu" },
+    name: { de: "Yanbu", hu: "Janbu", ro: "Yanbu", en: "Yanbu",
+image: "/poi-images/yanbu-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt, die durch ihre Raffinerien und den wichtigen Exporthafen für Erdöl an der Westküste bedeutend ist.",
       hu: "A nyugati partvidéken fekvő tengerparti város a finomítóiról és a fontos kőolaj-exportkikötőjéről nevezetes.",
@@ -722,7 +756,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [50.0000, 26.5500],
-    name: { de: "Qatif", hu: "Katif", ro: "Qatif", en: "Qatif" },
+    name: { de: "Qatif", hu: "Katif", ro: "Qatif", en: "Qatif",
+image: "/poi-images/qatif-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Siedlungen in Ostarabien mit einer reichen landwirtschaftlichen Tradition in der Dattelpalmenkultur.",
       hu: "Kelet-Arábia egyik legrégebbi települése, amely gazdag mezőgazdasági és datolyapálma-termesztési hagyományokkal rendelkezik.",
@@ -764,7 +800,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-08",
     coords: [41.0194, 30.9753],
-    name: { de: "Arar", hu: "Arar", ro: "Arar", en: "Arar" },
+    name: { de: "Arar", hu: "Arar", ro: "Arar", en: "Arar",
+image: "/poi-images/arar-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Provinz Nördliche Grenzen liegt in einer weiten Ebene und wurde nach der Transarabischen Pipeline gegründet.",
       hu: "Az Északi Határvidék tartományának fővárosa egy széles síkságon fekszik, és a Transzarábiai Csővezeték megépítése után alapították.",
@@ -806,7 +844,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-12",
     coords: [40.2064, 29.9697],
-    name: { de: "Sakaka", hu: "Szakáka", ro: "Sakakah", en: "Sakakah" },
+    name: { de: "Sakaka", hu: "Szakáka", ro: "Sakakah", en: "Sakakah",
+image: "/poi-images/sakakah-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Region Al-Dschauf zeichnet sich durch ihre Olivenfarmen und bedeutende archäologische Stätten aus.",
       hu: "Al-Dzsauf régió fővárosát hatalmas olajfaültetvényei és jelentős régészeti lelőhelyei teszik különlegessé.",
@@ -848,7 +888,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-09",
     coords: [42.5511, 16.8892],
-    name: { de: "Dschisan", hu: "Dzsízán", ro: "Jizan", en: "Jizan" },
+    name: { de: "Dschisan", hu: "Dzsízán", ro: "Jizan", en: "Jizan",
+image: "/poi-images/jizan-cities-v2.webp"
+},
     description: {
       de: "Die Hafenstadt im äußersten Südwesten des Landes profitiert vom Roten Meer und verfügt über reichhaltige Agrarflächen.",
       hu: "Az ország délnyugati csücskében fekvő kikötőváros a Vörös-tengerből profitál, és gazdag mezőgazdasági területekkel rendelkezik.",
@@ -890,7 +932,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-12",
     coords: [37.3628, 31.3318],
-    name: { de: "Al-Qurayyat", hu: "Al-Kurajját", ro: "Al Qurayyat", en: "Al Qurayyat" },
+    name: { de: "Al-Qurayyat", hu: "Al-Kurajját", ro: "Al Qurayyat", en: "Al Qurayyat",
+image: "/poi-images/al-qurayyat-cities-v2.webp"
+},
     description: {
       de: "Die nördliche Stadt nahe der jordanischen Grenze ist vor allem für den Handel, Salzgewinnung und Oliven berühmt.",
       hu: "A jordán határ közelében fekvő északi város elsősorban a kereskedelemről, a sólepárlásról és az olajbogyóiról híres.",
@@ -932,7 +976,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [50.1500, 26.2833],
-    name: { de: "Dhahran", hu: "Dahrán", ro: "Dhahran", en: "Dhahran" },
+    name: { de: "Dhahran", hu: "Dahrán", ro: "Dhahran", en: "Dhahran",
+image: "/poi-images/dhahran-cities-v2.webp"
+},
     description: {
       de: "Als Hauptsitz des nationalen Erdölunternehmens Saudi Aramco ist die Stadt das administrative Zentrum der Ölindustrie.",
       hu: "A szaúdi Aramco nemzeti kőolajtársaság központjaként a város az olajipar kiemeltebb adminisztratív bázisa.",
@@ -974,7 +1020,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SA-11",
     coords: [41.4589, 20.0129],
-    name: { de: "Al-Baha", hu: "Al-Báha", ro: "Al Bahah", en: "Al Bahah" },
+    name: { de: "Al-Baha", hu: "Al-Báha", ro: "Al Bahah", en: "Al Bahah",
+image: "/poi-images/al-bahah-cities-v2.webp"
+},
     description: {
       de: "Eine Hochlandstadt inmitten von Wäldern und Bergen, die für ihre traditionelle Architektur und landwirtschaftlichen Terrassen geschätzt wird.",
       hu: "Erdők és hegyek között fekvő hegyvidéki város, amelyet hagyományos építészete és mezőgazdasági teraszai miatt becsülnek.",
@@ -1016,7 +1064,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [50.0500, 26.5667],
-    name: { de: "Tarut", hu: "Tárút", ro: "Tarut", en: "Tarut" },
+    name: { de: "Tarut", hu: "Tárút", ro: "Tarut", en: "Tarut",
+image: "/poi-images/tarut-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten besiedelten Inseln im Persischen Golf, bekannt für ihre archäologischen Funde und die historische Burg.",
       hu: "A Perzsa-öböl egyik legrégebben lakott szigete, amely régészeti leleteiről és történelmi váráról ismert.",
@@ -1058,7 +1108,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [50.2083, 26.2833],
-    name: { de: "Al-Chubar", hu: "Al-Hubar", ro: "Al Khobar", en: "Al Khobar" },
+    name: { de: "Al-Chubar", hu: "Al-Hubar", ro: "Al Khobar", en: "Al Khobar",
+image: "/poi-images/al-khobar-cities-v2.webp"
+},
     description: {
       de: "Eine wohlhabende Handels- und Küstenstadt am Persischen Golf, die eng mit Bahrain verbunden ist.",
       hu: "Gazdag kereskedelmi és tengerparti város a Perzsa-öbölben, amely szoros kapcsolatban áll Bahreinnel.",
@@ -1100,7 +1152,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [48.5000, 28.4333],
-    name: { de: "Al-Chafdschi", hu: "Al-Hafdzsi", ro: "Al Khafji", en: "Al Khafji" },
+    name: { de: "Al-Chafdschi", hu: "Al-Hafdzsi", ro: "Al Khafji", en: "Al Khafji",
+image: "/poi-images/al-khafji-cities-v2.webp"
+},
     description: {
       de: "Eine Grenzstadt im Nordosten zu Kuwait, die nach dem Fund von Erdöl in der neutralen Zone rapide wuchs.",
       hu: "Kuvait északkeleti határánál fekvő város, amely a semleges zónában talált kőolajnak köszönhetően indult gyors növekedésnek.",
@@ -1142,7 +1196,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-04",
     coords: [45.9667, 28.4333],
-    name: { de: "Hafar al-Batin", hu: "Hafar al-Bátin", ro: "Hafar Al Batin", en: "Hafar Al Batin" },
+    name: { de: "Hafar al-Batin", hu: "Hafar al-Bátin", ro: "Hafar Al Batin", en: "Hafar Al Batin",
+image: "/poi-images/hafar-al-batin-cities-v2.webp"
+},
     description: {
       de: "Diese im Nordosten gelegene Wüstenstadt dient seit Jahrhunderten als Rastplatz für Pilger und Handelskarawanen auf dem Weg nach Mekka.",
       hu: "Ez az északkeleten fekvő sivatagi város évszázadok óta pihenőhely a Mekkába tartó zarándokok és karavánok számára.",
@@ -1184,7 +1240,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-05",
     coords: [43.9744, 26.0855],
-    name: { de: "Unaiza", hu: "Unajza", ro: "Unayzah", en: "Unayzah" },
+    name: { de: "Unaiza", hu: "Unajza", ro: "Unayzah", en: "Unayzah",
+image: "/poi-images/unayzah-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt in der Region Al Qasim ist für ihr kulturelles Erbe, Dattelfarmen und die jährlichen Festivals bekannt.",
       hu: "Az Al-Kaszím régió második legnagyobb városa, amely kulturális örökségéről, datolyatermeléséről és fesztiváljairól ismert.",
@@ -1226,7 +1284,9 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     type: "city",
     parent: "SA-01",
     coords: [45.3333, 25.9000],
-    name: { de: "Al-Madschma'a", hu: "Al-Madzsma'a", ro: "Al Majma'ah", en: "Al Majma'ah" },
+    name: { de: "Al-Madschma'a", hu: "Al-Madzsma'a", ro: "Al Majma'ah", en: "Al Majma'ah",
+image: "/poi-images/al-majmaah-cities-v2.webp"
+},
     description: {
       de: "Eine historische Siedlung nördlich von Riad, die ehemals als administratives Zentrum der Najd-Region diente.",
       hu: "Történelmi település Rijádtól északra, amely egykor a Nadzsd régió adminisztratív központjaként működött.",

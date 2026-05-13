@@ -11,8 +11,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Festung San Felipe de Barajas",
       hu: "San Felipe de Barajas-erőd",
       ro: "Fortăreața San Felipe de Barajas",
-      en: "Castillo San Felipe de Barajas"
-    },
+      en: "Castillo San Felipe de Barajas",
+image: "/poi-images/castillo-san-felipe-landmarks-v2.webp"
+},
     description: {
       de: "Die Festung San Felipe de Barajas ist eine gewaltige spanische Befestigungsanlage in Cartagena, die zum Schutz vor Piraten und feindlichen Flotten errichtet wurde. Sie dominiert die Skyline der Stadt und gehört zum UNESCO-Weltkulturerbe.",
       hu: "A San Felipe de Barajas-erőd egy hatalmas spanyol katonai erődítmény Cartagenában, amelyet a kalózok és ellenséges flották elleni védekezésre építettek. Az UNESCO Világörökség része, és uralja a városképet.",
@@ -64,8 +65,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Wallfahrtskirche Las Lajas",
       hu: "Las Lajas-bazilika",
       ro: "Sanctuarul Las Lajas",
-      en: "Las Lajas Sanctuary"
-    },
+      en: "Las Lajas Sanctuary",
+image: "/poi-images/santuario-de-las-lajas-landmarks-v2.webp"
+},
     description: {
       de: "Die Wallfahrtskirche Las Lajas ist eine spektakuläre Basilika im neugotischen Stil, die in der Schlucht des Flusses Guáitara erbaut wurde. Sie gilt als eines der herausragendsten architektonischen Bauwerke Kolumbiens.",
       hu: "A Las Lajas-bazilika egy látványos neogótikus stílusú templom, amely a Guáitara-folyó szurdokában épült. Kolumbia egyik legkiemelkedőbb építészeti alkotásának tartják.",
@@ -117,8 +119,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Torre Colpatria",
       hu: "Torre Colpatria felhőkarcoló",
       ro: "Zgârie-norul Torre Colpatria",
-      en: "Torre Colpatria Skyscraper"
-    },
+      en: "Torre Colpatria Skyscraper",
+image: "/poi-images/torre-colpatria-landmarks-v2.webp"
+},
     description: {
       de: "Der Torre Colpatria ist eines der höchsten Gebäude in Bogotá und ein markantes Wahrzeichen der Stadt. Von der Aussichtsplattform auf dem Dach bietet sich ein atemberaubender Blick über die Hauptstadt.",
       hu: "A Torre Colpatria Bogotá egyik legmagasabb épülete és a város jellegzetes nevezetessége. A tetőn található kilátóból lenyűgöző kilátás nyílik a fővárosra.",
@@ -170,8 +173,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Salzkathedrale von Zipaquirá",
       hu: "Zipaquirá-i Sókatedrális",
       ro: "Catedrala de Sare din Zipaquirá",
-      en: "Salt Cathedral of Zipaquirá"
-    },
+      en: "Salt Cathedral of Zipaquirá",
+image: "/poi-images/catedral-de-sal-landmarks-v2.webp"
+},
     description: {
       de: "Die Salzkathedrale von Zipaquirá ist eine unterirdische römisch-katholische Kirche, die in den Tunneln eines Salzbergwerks errichtet wurde. Sie ist ein Meisterwerk der kolumbianischen Architektur und ein beliebtes Touristenziel.",
       hu: "A Zipaquirá-i Sókatedrális egy földalatti római katolikus templom, amelyet egy sóbánya alagútjaiban alakítottak ki. A kolumbiai építészet remekműve és népszerű turisztikai célpont.",
@@ -223,8 +227,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Bolívar-Platz",
       hu: "Bolívar tér",
       ro: "Piața Bolívar",
-      en: "Bolívar Square"
-    },
+      en: "Bolívar Square",
+image: "/poi-images/plaza-de-bolivar-landmarks-v2.webp"
+},
     description: {
       de: "Der Bolívar-Platz ist der Hauptplatz von Bogotá und das historische Herz der Stadt. Er ist von wichtigen Gebäuden wie der Kathedrale, dem Nationalkapitol und dem Justizpalast umgeben.",
       hu: "A Bolívar tér Bogotá főtere és a város történelmi központja. Olyan fontos épületek veszik körül, mint a Katedrális, a Nemzeti Kapitólium és az Igazságügyi Palota.",
@@ -276,8 +281,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Heiligtum von Monserrate",
       hu: "Monserrate-i szentély",
       ro: "Sanctuarul de pe Monserrate",
-      en: "Monserrate Sanctuary"
-    },
+      en: "Monserrate Sanctuary",
+image: "/poi-images/santuario-monserrate-landmarks-v2.webp"
+},
     description: {
       de: "Das Heiligtum von Monserrate ist eine weiße Kirche auf dem Berg Monserrate, die über Bogotá wacht. Sie ist sowohl ein wichtiger Pilgerort als auch ein Aussichtspunkt, der mit der Seilbahn erreichbar ist.",
       hu: "A Monserrate-i szentély egy fehér templom a Monserrate-hegyen, amely Bogotá fölé magasodik. Fontos zarándokhely és kilátópont, amely drótkötélpályán is megközelíthető.",
@@ -329,8 +335,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Denkmal der alten Schuhe",
       hu: "Régi cipők emlékműve",
       ro: "Monumentul Pantofilor Vechi",
-      en: "Old Shoes Monument"
-    },
+      en: "Old Shoes Monument",
+image: "/poi-images/zapatos-viejos-landmarks-v2.webp"
+},
     description: {
       de: "Das Denkmal der alten Schuhe ist eine riesige Bronzeskulptur in Cartagena, die zwei abgetragene Stiefel darstellt. Es ist eine Hommage an den Dichter Luis Carlos López, der die Stadt mit einem alten Paar Schuhe verglich.",
       hu: "A Régi cipők emlékműve egy hatalmas bronzszobor Cartagenában, amely két kopott csizmát ábrázol. Luis Carlos López költőnek állít emléket, aki a várost egy régi pár cipőhöz hasonlította.",
@@ -382,8 +389,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Felsen von Guatapé",
       hu: "Guatapé-szikla",
       ro: "Stânca Guatapé",
-      en: "Rock of Guatapé"
-    },
+      en: "Rock of Guatapé",
+image: "/poi-images/penon-de-guatape-landmarks-v2.webp"
+},
     description: {
       de: "Der Felsen von Guatapé, auch bekannt als El Peñol, ist ein riesiger monolithischer Inselberg, in dessen Seite Zickzack-Treppen geschlagen wurden. Oben bietet er einen fantastischen Blick auf den künstlichen Stausee.",
       hu: "A Guatapé-szikla, más néven El Peñol, egy hatalmas monolit szikla, amelynek oldalába cikk-cakk lépcsőket vájtak. A tetejéről fantasztikus kilátás nyílik a mesterséges víztározóra.",
@@ -435,8 +443,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Pumarejo-Brücke",
       hu: "Pumarejo híd",
       ro: "Podul Pumarejo",
-      en: "Pumarejo Bridge"
-    },
+      en: "Pumarejo Bridge",
+image: "/poi-images/puente-pumarejo-landmarks-v2.webp"
+},
     description: {
       de: "Die Pumarejo-Brücke ist eine moderne Schrägseilbrücke in Barranquilla, die den Río Magdalena überspannt. Sie ist eine der längsten Brücken Kolumbiens und ein Wunderwerk der Ingenieurskunst.",
       hu: "A Pumarejo híd egy modern ferdekábeles híd Barranquillában, amely a Magdalena folyót íveli át. Kolumbia egyik leghosszabb hídja és igazi mérnöki csoda.",
@@ -488,8 +497,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Cristo-Rey-Statue Cali",
       hu: "Krisztus Király-szobor (Cali)",
       ro: "Statuia Cristo Rey din Cali",
-      en: "Cristo Rey Statue Cali"
-    },
+      en: "Cristo Rey Statue Cali",
+image: "/poi-images/cristo-rey-cali-landmarks-v2.webp"
+},
     description: {
       de: "Die Cristo-Rey-Statue auf dem Cerro los Cristales ist ein ikonisches Monument in Cali. Mit ausgebreiteten Armen überblickt sie die Stadt und feiert den Frieden nach einem internen Konflikt.",
       hu: "A Cristo Rey szobor a Cerro los Cristales dombon található ikonikus műemlék Caliban. Kitárt karokkal tekint a városra, és a belső konfliktusok utáni békét ünnepli.",
@@ -541,8 +551,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Stadion Roberto Meléndez",
       hu: "Roberto Meléndez Stadion",
       ro: "Stadionul Roberto Meléndez",
-      en: "Roberto Meléndez Stadium"
-    },
+      en: "Roberto Meléndez Stadium",
+image: "/poi-images/estadio-metropolitano-landmarks-v2.webp"
+},
     description: {
       de: "Das Estadio Metropolitano Roberto Meléndez in Barranquilla ist das Heimstadion der kolumbianischen Fußballnationalmannschaft. Es ist für seine unglaubliche Atmosphäre und sein markantes Design bekannt.",
       hu: "A barranquillai Estadio Metropolitano Roberto Meléndez a kolumbiai labdarúgó-válogatott hazai stadionja. Hihetetlen hangulatáról és jellegzetes dizájnjáról ismert.",
@@ -594,8 +605,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Denkmal der Lanzenreiter",
       hu: "Lándzsások emlékműve",
       ro: "Monumentul Lăncierilor",
-      en: "Lancers Monument"
-    },
+      en: "Lancers Monument",
+image: "/poi-images/monumento-lanceros-landmarks-v2.webp"
+},
     description: {
       de: "Das Monumento a los Lanceros erinnert an die mutigen Lanzenreiter, die in der Schlacht am Pantano de Vargas kämpften. Diese riesige Skulptur ist ein beeindruckendes Symbol der kolumbianischen Unabhängigkeit.",
       hu: "A Lándzsások emlékműve a Pantano de Vargas-i csatában harcoló bátor lándzsásoknak állít emléket. Ez a hatalmas szobor a kolumbiai függetlenség lenyűgöző szimbóluma.",
@@ -647,8 +659,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Kathedrale von Medellín",
       hu: "Medellíni Metropolitán Székesegyház",
       ro: "Catedrala Metropolitană din Medellín",
-      en: "Metropolitan Cathedral of Medellín"
-    },
+      en: "Metropolitan Cathedral of Medellín",
+image: "/poi-images/catedral-metropolitana-medellin-landmarks-v2.webp"
+},
     description: {
       de: "Die Catedral Basílica Metropolitana de Medellín ist eine massive katholische Kirche im neoromanischen Stil am Bolívar-Park. Sie ist eines der größten Backsteingebäude der Welt.",
       hu: "A Catedral Basílica Metropolitana de Medellín egy hatalmas neoromán stílusú katolikus templom a Bolívar park mellett. A világ egyik legnagyobb téglából épült épülete.",
@@ -700,8 +713,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Brücke von Boyacá",
       hu: "Boyacá híd",
       ro: "Podul Boyacá",
-      en: "Bridge of Boyacá"
-    },
+      en: "Bridge of Boyacá",
+image: "/poi-images/puente-de-boyaca-landmarks-v2.webp"
+},
     description: {
       de: "Die Brücke von Boyacá ist ein kleines, aber historisch immens wichtiges Bauwerk. Hier fand 1819 die entscheidende Schlacht statt, die zur endgültigen Unabhängigkeit Kolumbiens führte.",
       hu: "A Boyacá híd egy apró, de történelmileg hatalmas jelentőségű építmény. Itt zajlott 1819-ben az a döntő csata, amely Kolumbia végső függetlenségéhez vezetett.",
@@ -753,8 +767,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Torre de Cali",
       hu: "Torre de Cali felhőkarcoló",
       ro: "Turnul Cali",
-      en: "Cali Tower"
-    },
+      en: "Cali Tower",
+image: "/poi-images/torre-de-cali-landmarks-v2.webp"
+},
     description: {
       de: "Der Torre de Cali ist das höchste Gebäude in Cali und ein Symbol der modernen Entwicklung der Stadt. Er beherbergt Büros, ein Hotel und bietet einen weiten Blick über das Valle del Cauca.",
       hu: "A Torre de Cali a legmagasabb épület Caliban, és a város modern fejlődésének szimbóluma. Irodáknak és egy szállodának ad helyet, valamint pazar kilátást nyújt a Cauca-völgyre.",
@@ -806,8 +821,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "BD Bacatá Wolkenkratzer",
       hu: "BD Bacatá felhőkarcoló",
       ro: "Zgârie-norul BD Bacatá",
-      en: "BD Bacatá Skyscraper"
-    },
+      en: "BD Bacatá Skyscraper",
+image: "/poi-images/bd-bacata-landmarks-v2.webp"
+},
     description: {
       de: "Der BD Bacatá ist ein moderner Wolkenkratzerkomplex im Zentrum von Bogotá. Als höchstes Gebäude des Landes repräsentiert es den architektonischen Fortschritt und dominiert das Stadtbild.",
       hu: "A BD Bacatá egy modern felhőkarcoló-komplexum Bogotá központjában. Az ország legmagasabb épületeként az építészeti fejlődést képviseli, és uralja a városképet.",
@@ -859,8 +875,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Botero-Platz",
       hu: "Botero tér",
       ro: "Piața Botero",
-      en: "Botero Square"
-    },
+      en: "Botero Square",
+image: "/poi-images/plaza-botero-landmarks-v2.webp"
+},
     description: {
       de: "Der Botero-Platz ist ein bedeutender öffentlicher Platz in Medellín, der mit üppigen, voluminösen Bronzeskulpturen des berühmten kolumbianischen Künstlers Fernando Botero geschmückt ist.",
       hu: "A Botero tér egy jelentős közterület Medellínben, amelyet a híres kolumbiai művész, Fernando Botero dús, terjedelmes bronzszobrai díszítenek.",
@@ -912,8 +929,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Coltejer-Gebäude",
       hu: "Coltejer-épület",
       ro: "Clădirea Coltejer",
-      en: "Coltejer Building"
-    },
+      en: "Coltejer Building",
+image: "/poi-images/edificio-coltejer-landmarks-v2.webp"
+},
     description: {
       de: "Das Edificio Coltejer war einst das höchste Gebäude in Kolumbien und ist bis heute ein Wahrzeichen von Medellín. Sein einzigartiges spitzes Design erinnert an eine Nähnadel und verweist auf die Textilindustrie der Stadt.",
       hu: "Az Edificio Coltejer egykor Kolumbia legmagasabb épülete volt, és máig Medellín egyik jelképe. Egyedi hegyes formája varrótűre emlékeztet, utalva a város textiliparára.",
@@ -965,8 +983,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Primas-Kathedrale von Kolumbien",
       hu: "Kolumbiai Prímás-katedrális",
       ro: "Catedrala Primată din Columbia",
-      en: "Primary Cathedral of Colombia"
-    },
+      en: "Primary Cathedral of Colombia",
+image: "/poi-images/catedral-primada-colombia-landmarks-v2.webp"
+},
     description: {
       de: "Die Primas-Kathedrale von Bogotá ist der Sitz des Erzbischofs und das wichtigste katholische Gotteshaus des Landes. Ihre neoklassizistische Fassade ist ein zentraler Bestandteil des Bolívar-Platzes.",
       hu: "A bogotái Prímás-katedrális az érsek székhelye és az ország legfontosabb katolikus imahelye. Neoklasszicista homlokzata a Bolívar tér központi eleme.",
@@ -1018,8 +1037,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Kirche San Pedro Claver",
       hu: "San Pedro Claver-templom",
       ro: "Biserica San Pedro Claver",
-      en: "San Pedro Claver Church"
-    },
+      en: "San Pedro Claver Church",
+image: "/poi-images/iglesia-san-pedro-claver-landmarks-v2.webp"
+},
     description: {
       de: "Die Iglesia de San Pedro Claver ist eine historische Kirche in Cartagena, die nach dem spanischen Jesuiten benannt ist, der sein Leben der Pflege versklavter Afrikaner widmete. Die Architektur ist atemberaubend.",
       hu: "Az Iglesia de San Pedro Claver egy történelmi templom Cartagenában, amelyet arról a spanyol jezsuitáról neveztek el, aki életét a rabszolgasorba taszított afrikaiak gondozásának szentelte. Építészete lenyűgöző.",
@@ -1071,8 +1091,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Denkmal der Solidarität",
       hu: "Szolidaritás-emlékmű",
       ro: "Monumentul Solidarității",
-      en: "Solidarity Monument"
-    },
+      en: "Solidarity Monument",
+image: "/poi-images/monumento-solidaridad-landmarks-v2.webp"
+},
     description: {
       de: "Das Monumento a la Solidarität ist eine ikonische Skulptur in Cali, die kollektive Zusammenarbeit und den Willen zum Fortschritt darstellt. Es zeigt Figuren, die ein monumentales Rad ziehen.",
       hu: "A Szolidaritás-emlékmű egy ikonikus szobor Caliban, amely a kollektív együttműködést és a fejlődés iránti vágyat jelképezi. Egy hatalmas kereket húzó alakokat ábrázol.",
@@ -1124,8 +1145,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Kongresszentrum Cartagena",
       hu: "Cartagenai Kongresszusi Központ",
       ro: "Centrul de Convenții Cartagena",
-      en: "Cartagena Convention Center"
-    },
+      en: "Cartagena Convention Center",
+image: "/poi-images/centro-convenciones-cartagena-landmarks-v2.webp"
+},
     description: {
       de: "Das moderne Julio Cesar Turbay Ayala Kongresszentrum liegt an der Bucht von Las Ánimas. Es ist Austragungsort bedeutender internationaler Gipfeltreffen und kultureller Veranstaltungen in Cartagena.",
       hu: "A modern Julio Cesar Turbay Ayala Kongresszusi Központ a Las Ánimas-öböl partján fekszik. Fontos nemzetközi csúcstalálkozók és kulturális események helyszíne Cartagenában.",
@@ -1177,8 +1199,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Stadion El Campín",
       hu: "El Campín Stadion",
       ro: "Stadionul El Campín",
-      en: "El Campín Stadium"
-    },
+      en: "El Campín Stadium",
+image: "/poi-images/estadio-el-campin-landmarks-v2.webp"
+},
     description: {
       de: "Das Estadio Nemesio Camacho El Campín ist das wichtigste Stadion in Bogotá. Es ist ein zentraler Ort für kolumbianischen Fußball und gelegentlich für große Konzerte.",
       hu: "A Nemesio Camacho El Campín Stadion Bogotá legfontosabb stadionja. A kolumbiai labdarúgás központja és esetenként nagy koncertek helyszíne.",
@@ -1230,8 +1253,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Stadion Atanasio Girardot",
       hu: "Atanasio Girardot Stadion",
       ro: "Stadionul Atanasio Girardot",
-      en: "Atanasio Girardot Stadium"
-    },
+      en: "Atanasio Girardot Stadium",
+image: "/poi-images/estadio-atanasio-girardot-landmarks-v2.webp"
+},
     description: {
       de: "Das Stadion Atanasio Girardot ist der Hauptsportkomplex von Medellín. Es ist bekannt für die leidenschaftlichen Fans der dort spielenden Fußballvereine Atlético Nacional und Independiente Medellín.",
       hu: "Az Atanasio Girardot Stadion Medellín fő sportkomplexuma. Híres az itt játszó Atlético Nacional és az Independiente Medellín labdarúgóklubok szenvedélyes szurkolóiról.",
@@ -1283,8 +1307,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Movistar Arena Bogotá",
       hu: "Movistar Aréna Bogotá",
       ro: "Arena Movistar Bogota",
-      en: "Movistar Arena Bogotá"
-    },
+      en: "Movistar Arena Bogotá",
+image: "/poi-images/movistar-arena-bogota-landmarks-v2.webp"
+},
     description: {
       de: "Die Movistar Arena ist ein hochmodernes Indoor-Stadion in Bogotá, das für große Konzerte und Veranstaltungen genutzt wird. Es ersetzte das alte Coliseo El Campín und brachte moderne Eventinfrastruktur in die Stadt.",
       hu: "A Movistar Aréna egy ultramodern fedett stadion Bogotában, amelyet nagy koncertekre és rendezvényekre használnak. A régi Coliseo El Campín-t váltotta fel, modern rendezvényinfrastruktúrát hozva a városba.",
@@ -1336,8 +1361,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Uhrenturm von Cartagena",
       hu: "Cartagenai Óratorony",
       ro: "Turnul Ceasului din Cartagena",
-      en: "Clock Tower of Cartagena"
-    },
+      en: "Clock Tower of Cartagena",
+image: "/poi-images/torre-del-reloj-cartagena-landmarks-v2.webp"
+},
     description: {
       de: "Der Torre del Reloj ist das markante Haupttor zur ummauerten Altstadt von Cartagena. Sein leuchtend gelbes Äußeres und der historische Bogen sind eines der meistfotografierten Wahrzeichen Kolumbiens.",
       hu: "A Torre del Reloj a cartagenai fallal körülvett óváros lenyűgöző főkapuja. Élénksárga külseje és történelmi boltíve Kolumbia egyik legtöbbet fotózott nevezetessége.",
@@ -1389,8 +1415,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Viadukt César Gaviria Trujillo",
       hu: "César Gaviria Trujillo Völgyhíd",
       ro: "Viaductul César Gaviria Trujillo",
-      en: "César Gaviria Trujillo Viaduct"
-    },
+      en: "César Gaviria Trujillo Viaduct",
+image: "/poi-images/viaducto-cesar-gaviria-landmarks-v2.webp"
+},
     description: {
       de: "Das César Gaviria Trujillo Viadukt ist eine beeindruckende Schrägseilbrücke, die die Städte Pereira und Dosquebradas verbindet. Es hat den Transport in der Kaffeeregion revolutioniert.",
       hu: "A César Gaviria Trujillo Völgyhíd egy lenyűgöző ferdekábeles híd, amely Pereira és Dosquebradas városait köti össze. Forradalmasította a kávérégió közlekedését.",
@@ -1442,8 +1469,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Fenster zur Welt",
       hu: "Ablak a Világra",
       ro: "Fereastra către Lume",
-      en: "Window to the World"
-    },
+      en: "Window to the World",
+image: "/poi-images/ventana-al-mundo-landmarks-v2.webp"
+},
     description: {
       de: "Das Fenster zur Welt ist ein modernes, farbenfrohes Monument in Barranquilla. Diese gigantische Struktur aus Aluminium und Glas symbolisiert die industrielle Stärke und Offenheit der Stadt.",
       hu: "Az Ablak a Világra egy modern, színes emlékmű Barranquillában. Ez a gigantikus alumínium és üveg szerkezet a város ipari erejét és nyitottságát szimbolizálja.",
@@ -1495,8 +1523,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Nationalkapitol Kolumbiens",
       hu: "Kolumbiai Nemzeti Kapitólium",
       ro: "Capitoliul Național al Columbiei",
-      en: "National Capitol of Colombia"
-    },
+      en: "National Capitol of Colombia",
+image: "/poi-images/capitolio-nacional-colombia-landmarks-v2.webp"
+},
     description: {
       de: "Das Nationalkapitol von Kolumbien am Bolívar-Platz in Bogotá ist der Sitz des Nationalkongresses. Dieses imposante neoklassizistische Gebäude ist ein Meisterwerk der kolumbianischen Architektur.",
       hu: "A kolumbiai Nemzeti Kapitólium a bogotái Bolívar téren a Nemzeti Kongresszus székhelye. Ez az impozáns neoklasszicista épület a kolumbiai építészet remekműve.",
@@ -1548,8 +1577,9 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
       de: "Colón-Theater",
       hu: "Colón Színház",
       ro: "Teatrul Colón",
-      en: "Colón Theater"
-    },
+      en: "Colón Theater",
+image: "/poi-images/teatro-colon-bogota-landmarks-v2.webp"
+},
     description: {
       de: "Das Teatro Colón in Bogotá ist das Nationaltheater Kolumbiens und eine architektonische Perle. Mit seiner prachtvollen Dekoration und exzellenten Akustik bietet es einen eleganten Rahmen für Darbietungen.",
       hu: "A bogotái Teatro Colón Kolumbia nemzeti színháza és egy építészeti gyöngyszem. Pompás díszítésével és kiváló akusztikájával elegáns keretet biztosít az előadásokhoz.",

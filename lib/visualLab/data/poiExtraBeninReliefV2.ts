@@ -1,4 +1,4 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninReliefV2: POI[] = [
@@ -11,8 +11,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Waldreservat Mont Kouffé",
       hu: "Mont Kouffé erdőrezervátum",
       ro: "Rezervația forestieră Mont Kouffé",
-      en: "Mont Kouffé Forest Reserve"
-    },
+      en: "Mont Kouffé Forest Reserve",
+image: "/poi-images/mont-kouffe-relief-v2.webp"
+},
     description: {
       de: "Ein ausgedehntes Waldschutzgebiet in Zentralbenin, das für seine markanten Granitfelsen und hohe Artenvielfalt bekannt ist.",
       hu: "A Kouffé-hegy a központi országrész domborzatának kiemelkedő része, fontos erdős területekkel és változatos élővilággal.",
@@ -34,8 +35,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Wari-Maro-Wald",
       hu: "Wari-Maro erdő",
       ro: "Pădurea Wari-Maro",
-      en: "Wari-Maro Forest"
-    },
+      en: "Wari-Maro Forest",
+image: "/poi-images/wari-maro-forest-relief-v2.webp"
+},
     description: {
       de: "Der Wald von Wari-Maro ist ein bedeutendes Naturschutzgebiet, das für seine dichten Baumbestände und biologische Vielfalt bekannt ist.",
       hu: "A Wari-Maro erdővidék egy jelentős dombos terület, amely a központi régió természetes erdőállományának fontos védett szigete.",
@@ -57,8 +59,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Agoua-Wald",
       hu: "Agoua erdő",
       ro: "Pădurea Agoua",
-      en: "Agoua Forest"
-    },
+      en: "Agoua Forest",
+image: "/poi-images/agoua-forest-relief-v2.webp"
+},
     description: {
       de: "Ein klassifizierter Wald in der Zentralregion, der als wichtiger Korridor für wandernde Tierarten dient.",
       hu: "Védett erdő a központi régióban, amely fontos folyosóként szolgál a vándorló állatfajok számára.",
@@ -80,8 +83,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Kouandé-Berge",
       hu: "Kouandé-hegység",
       ro: "Munții Kouandé",
-      en: "Kouandé Mountains"
-    },
+      en: "Kouandé Mountains",
+image: "/poi-images/kouande-mountains-relief-v2.webp"
+},
     description: {
       de: "Die Berge von Kouandé im Nordwesten Benins bieten eine beeindruckende Landschaft mit markanten Felsformationen und Tälern.",
       hu: "A Kouandé-vidéki hegyláncok az északnyugati régió jellemző domborzati elemei, amelyek befolyásolják a helyi éghajlatot.",
@@ -103,8 +107,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Hügel von Dassa",
       hu: "Dassa dombjai",
       ro: "Dealurile Dassa",
-      en: "Dassa Hills"
-    },
+      en: "Dassa Hills",
+image: "/poi-images/dassa-hills-relief-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Ansammlung von 41 Granithügeln, die das Stadtbild von Dassa-Zoumé prägen und heilig sind.",
       hu: "A Dassa-dombság a közép-benini táj jellegzetes része, ismert sziklás képződményeiről és a régió kulturális tájképéről.",
@@ -126,8 +131,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Allada-Plateau",
       hu: "Allada-fennsík",
       ro: "Podișul Allada",
-      en: "Allada Plateau"
-    },
+      en: "Allada Plateau",
+image: "/poi-images/allada-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein fruchtbares Hochplateau im Süden Benins, das für seinen reichen Ackerbau und seine historische Bedeutung bekannt ist.",
       hu: "Az Allada-fennsík egy termékeny domborzati formáció a déli régióban, amely ideális az ananásztermesztéshez.",
@@ -149,8 +155,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Kandi-Becken",
       hu: "Kandi-medence",
       ro: "Bazinul Kandi",
-      en: "Kandi Basin"
-    },
+      en: "Kandi Basin",
+image: "/poi-images/kandi-basin-relief-v2.webp"
+},
     description: {
       de: "Eine ausgedehnte geologische Senke im Norden Benins, die reich an Sedimentgestein und Grundwasservorkommen ist.",
       hu: "Kiterjedt geológiai medence Benin északi részén, amely üledékes kőzetekben és talajvízben gazdag.",
@@ -172,8 +179,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Forst von Papatia",
       hu: "Papatia erdő",
       ro: "Pădurea Papatia",
-      en: "Papatia Forest"
-    },
+      en: "Papatia Forest",
+image: "/poi-images/papatia-forest-relief-v2.webp"
+},
     description: {
       de: "Ein bedeutender Wald im Norden, der für seine Heilpflanzen und den dortigen botanischen Lehrpfad bekannt ist.",
       hu: "Fontos erdő északon, amely gyógynövényeiről és az ott található botanikai tanösvényről ismert.",
@@ -195,8 +203,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Goungoun-Waldreservat",
       hu: "Goungoun erdőrezervátum",
       ro: "Rezervația forestieră Goungoun",
-      en: "Goungoun Forest Reserve"
-    },
+      en: "Goungoun Forest Reserve",
+image: "/poi-images/goungoun-forest-relief-v2.webp"
+},
     description: {
       de: "Ein geschütztes Waldgebiet im Norden Benins, das einen wichtigen Übergang zwischen Trockensavanne und Galeriewäldern darstellt.",
       hu: "Védett erdőterület Benin északi részén, amely fontos átmenetet képez a száraz szavanna és a galériaerdők között.",
@@ -218,8 +227,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Berge von Bassila",
       hu: "Bassila-hegyek",
       ro: "Munții Bassila",
-      en: "Bassila Mountains"
-    },
+      en: "Bassila Mountains",
+image: "/poi-images/bassila-mountains-relief-v2.webp"
+},
     description: {
       de: "Das Bergland um Bassila ist geprägt von dichten Wäldern und sanften Erhebungen, die die Grenze zu Togo markieren.",
       hu: "A Bassila környéki hegyvidék a nyugati határ közelében változatos terepet és fontos erdős élőhelyeket kínál.",
@@ -241,8 +251,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Nigertal-Ebene",
       hu: "Niger-völgyi síkság",
       ro: "Câmpia Văii Nigerului",
-      en: "Niger Valley Plain"
-    },
+      en: "Niger Valley Plain",
+image: "/poi-images/niger-valley-relief-v2.webp"
+},
     description: {
       de: "Das Nigertal im äußersten Norden Benins ist eine weite, flache Ebene, die während der Regenzeit von den Wassermassen des Flusses gespeist wird.",
       hu: "A Niger-völgy az ország északi részének sík, alacsonyan fekvő, de gazdag vízrajzi jellemzőkkel bíró domborzati egysége.",
@@ -264,8 +275,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Abomey-Plateau",
       hu: "Abomey-fennsík",
       ro: "Podișul Abomey",
-      en: "Abomey Plateau"
-    },
+      en: "Abomey Plateau",
+image: "/poi-images/abomey-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein zentrales Plateau, das historisch als Herzland des Königreichs Dahomey diente und aus lateritischen Böden besteht.",
       hu: "Központi fennsík, amely történelmileg a Dahomey Királyság szíveként szolgált, és laterites talajból áll.",
@@ -287,8 +299,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Forst von Ouénou-Kouandé",
       hu: "Ouénou-Kouandé erdő",
       ro: "Pădurea Ouénou-Kouandé",
-      en: "Ouénou-Kouandé Forest"
-    },
+      en: "Ouénou-Kouandé Forest",
+image: "/poi-images/ouenou-kouande-forest-relief-v2.webp"
+},
     description: {
       de: "Der Wald von Ouénou-Kouandé ist ein wichtiges Rückzugsgebiet für viele Tierarten und schützt die Quellen lokaler Wasserläufe.",
       hu: "Az Ouenou-Kouandé erdőterület egy dombos régióban fekszik, amely a természetes élővilág és a helyi növényzet védelmét szolgálja.",
@@ -310,8 +323,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Hügelkette von Savalou",
       hu: "Savalou dombsága",
       ro: "Dealurile din Savalou",
-      en: "Savalou Hills"
-    },
+      en: "Savalou Hills",
+image: "/poi-images/savalou-hills-relief-v2.webp"
+},
     description: {
       de: "Die Hügel von Savalou sind für ihre bizarren Felsformationen bekannt, die in der lokalen Voodoo-Kultur als heilige Stätten gelten.",
       hu: "A Savalou környéki dombok a közép-benini régió jellegzetes és kulturálisan is jelentős domborzati képződményei.",
@@ -333,8 +347,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Sédent-Wald",
       hu: "Sédent-erdő",
       ro: "Pădurea Sédent",
-      en: "Sédent Forest"
-    },
+      en: "Sédent Forest",
+image: "/poi-images/sedent-forest-relief-v2.webp"
+},
     description: {
       de: "Der Sédent-Wald ist eines der letzten verbliebenen dichten Waldgebiete in Zentralbenin und von großer ökologischer Bedeutung.",
       hu: "A Sédent-erdő egy érintetlen, dombos vidék, amely a régió biológiai sokféleségének megőrzésében játszik fontos szerepet.",
@@ -356,8 +371,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Bellefoungou-Wald",
       hu: "Bellefoungou-erdő",
       ro: "Pădurea Bellefoungou",
-      en: "Bellefoungou Forest"
-    },
+      en: "Bellefoungou Forest",
+image: "/poi-images/bellefoungou-forest-relief-v2.webp"
+},
     description: {
       de: "Der Wald von Bellefoungou dient als wichtiger Korridor für wandernde Tierarten zwischen den verschiedenen Schutzgebieten der Region.",
       hu: "Védett erdő Benin északnyugati részén, amely sűrű faállományáról és vadállományáról ismert.",
@@ -379,8 +395,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Kétou-Plateau",
       hu: "Kétou-fennsík",
       ro: "Podișul Kétou",
-      en: "Kétou Plateau"
-    },
+      en: "Kétou Plateau",
+image: "/poi-images/ketou-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein geologisch interessantes Plateau im Südosten, das die historische Stadt Kétou umgibt und fruchtbare Lehmböden besitzt.",
       hu: "A Kétou-fennsík az ország délkeleti részének termékeny síkvidéki területe, amely mezőgazdasági szempontból kiemelkedő.",
@@ -402,8 +419,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Berge von Djougou",
       hu: "Djougou-hegyek",
       ro: "Munții Djougou",
-      en: "Djougou Mountains"
-    },
+      en: "Djougou Mountains",
+image: "/poi-images/djougou-mountains-relief-v2.webp"
+},
     description: {
       de: "Mehrere Gebirgszüge rund um die Stadt Djougou, die Teil des Atakora-Massivs sind und das regionale Klima beeinflussen.",
       hu: "A Djougou környéki hegyek az északnyugati régió változatos domborzatának részei, amelyek a helyi mikroklímát határozzák meg.",
@@ -425,8 +443,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Djigbé-Waldreservat",
       hu: "Djigbé erdőrezervátum",
       ro: "Rezervația forestieră Djigbé",
-      en: "Djigbé Forest Reserve"
-    },
+      en: "Djigbé Forest Reserve",
+image: "/poi-images/djigbe-forest-relief-v2.webp"
+},
     description: {
       de: "Der Djigbé-Wald im Süden Benins ist ein wertvoller Restbestand des ursprünglichen Küstenwaldes und Heimat seltener Pflanzen.",
       hu: "A Djigbé-erdővidék egy dombos táj a déli országrészben, amely fontos szerepet játszik a vízgyűjtő területek védelmében.",
@@ -448,8 +467,9 @@ export const poiExtraBeninReliefV2: POI[] = [
       de: "Pendjari-Ebene",
       hu: "Pendjari-síkság",
       ro: "Câmpia Pendjari",
-      en: "Pendjari Plain"
-    },
+      en: "Pendjari Plain",
+image: "/poi-images/pendjari-plain-relief-v2.webp"
+},
     description: {
       de: "Die weite Savannenebene im Nordwesten, die den Pendjari-Fluss umgibt und eine der wildreichsten Regionen Westafrikas ist.",
       hu: "A Pendjari-síkság a nemzeti park kiterjedt, lapos területe, amely a hatalmas állatcsordák legelőhelyéül szolgál.",

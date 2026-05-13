@@ -6,7 +6,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-YUZ",
     coords: [68.2705, 43.2977],
-    name: { de: "Mausoleum von Hodscha Ahmad Jassawi", hu: "Hodzsa Ahmed Jasszavi mauzóleuma", ro: "Mausoleul Khoja Ahmed Yasawi", en: "Khoja Ahmed Yasawi Mausoleum" },
+    name: { de: "Mausoleum von Hodscha Ahmad Jassawi", hu: "Hodzsa Ahmed Jasszavi mauzóleuma", ro: "Mausoleul Khoja Ahmed Yasawi", en: "Khoja Ahmed Yasawi Mausoleum",
+image: "/poi-images/kz-yasawi-mausoleum-history-v2.webp"
+},
     description: {
       de: "Das unvollendete, aber monumentale Mausoleum ist ein Meisterwerk der timuridischen Architektur. Es ehrt den berühmten Sufi-Mystiker aus dem 12. Jahrhundert und prägt die Skyline von Turkestan.",
       hu: "A befejezetlen, ám monumentális mauzóleum a timurida építészet egyik remekműve. A 12. századi híres szúfi misztikusnak állít emléket, és meghatározza Turkesztán látképét.",
@@ -34,7 +36,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "ruin",
     parent: "KZ-YUZ",
     coords: [68.3, 42.85],
-    name: { de: "Ruinen von Otrar", hu: "Otrar romjai", ro: "Ruinele Otrar", en: "Otrar Ruins" },
+    name: { de: "Ruinen von Otrar", hu: "Otrar romjai", ro: "Ruinele Otrar", en: "Otrar Ruins",
+image: "/poi-images/kz-otrar-ruins-history-v2.webp"
+},
     description: {
       de: "Die antike Geisterstadt war einst ein florierendes Zentrum des Handels an der Seidenstraße, bevor die mongolische Invasion ihr Schicksal besiegelte. Heute zeugen die staubigen Ruinen von ihrem vergangenen Reichtum.",
       hu: "Az ősi szellemváros egykor a Selyemút egyik virágzó kereskedelmi központja volt, mielőtt a mongol invázió megpecsételte volna sorsát. Ma a poros romok tanúskodnak egykori gazdagságáról.",
@@ -62,7 +66,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-ALM",
     coords: [75.45, 43.8],
-    name: { de: "Petroglyphen von Tamgaly", hu: "Tamgali sziklarajzai", ro: "Petroglifele de la Tamgaly", en: "Tamgaly Petroglyphs" },
+    name: { de: "Petroglyphen von Tamgaly", hu: "Tamgali sziklarajzai", ro: "Petroglifele de la Tamgaly", en: "Tamgaly Petroglyphs",
+image: "/poi-images/kz-tamgaly-petroglyphs-history-v2.webp"
+},
     description: {
       de: "Versteckt in einer malerischen Schlucht, bietet diese antike Freiluftgalerie einen faszinierenden Einblick in die spirituelle Welt früher Steppenbewohner. Die kunstvollen Ritzungen überdauerten Jahrtausende im harten Gestein.",
       hu: "Egy festői szurdokban rejtőzve ez az ősi szabadtéri galéria lenyűgöző bepillantást nyújt a korai sztyeppei lakosok spirituális világába. A művészi karcolatok évezredeket vészeltek át a kemény kőzetben.",
@@ -90,7 +96,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-ZHA",
     coords: [71.2094, 42.8319],
-    name: { de: "Mausoleum der Aischa Bibi", hu: "Ajsa Bibi mauzóleuma", ro: "Mausoleul Aisha Bibi", en: "Aisha Bibi Mausoleum" },
+    name: { de: "Mausoleum der Aischa Bibi", hu: "Ajsa Bibi mauzóleuma", ro: "Mausoleul Aisha Bibi", en: "Aisha Bibi Mausoleum",
+image: "/poi-images/kz-aisha-bibi-mausoleum-history-v2.webp"
+},
     description: {
       de: "Dieses architektonische Juwel besticht durch seine aufwendigen und detailreichen Terrakotta-Ornamente. Eine romantische, wenn auch tragische Legende macht es zu einem besonderen Ort der kasachischen Folklore.",
       hu: "Ez az építészeti ékszerdoboz lenyűgöző és részletgazdag terrakotta díszítéseivel tűnik ki. Egy romantikus, bár tragikus legenda a kazah folklór különleges helyszínévé teszi.",
@@ -118,7 +126,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-KAR",
     coords: [67.8183, 48.1563],
-    name: { de: "Dschötschi-Khan-Mausoleum", hu: "Dzsocsi kán mauzóleuma", ro: "Mausoleul Jochi Khan", en: "Jochi Khan Mausoleum" },
+    name: { de: "Dschötschi-Khan-Mausoleum", hu: "Dzsocsi kán mauzóleuma", ro: "Mausoleul Jochi Khan", en: "Jochi Khan Mausoleum",
+image: "/poi-images/kz-jochi-khan-mausoleum-history-v2.webp"
+},
     description: {
       de: "In der endlosen Weite der zentralen Steppe markiert dieser historische Bau den Beginn der Goldenen Horde. Es ist ein Symbol der Macht und das wichtigste Zeugnis der mongolischen Ära in Kasachstan.",
       hu: "A középső sztyeppe végtelen kiterjedésében ez a történelmi építmény jelzi az Arany Horda kezdetét. A hatalom szimbóluma és a kazahsztáni mongol korszak legfontosabb tanúja.",
@@ -146,7 +156,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-AKM",
     coords: [71.0772, 51.0786],
-    name: { de: "Gedenkstätte ALSCHIR", hu: "ALSZSIR Emlékhely", ro: "Memorialul ALZHIR", en: "ALZhIR Memorial" },
+    name: { de: "Gedenkstätte ALSCHIR", hu: "ALSZSIR Emlékhely", ro: "Memorialul ALZHIR", en: "ALZhIR Memorial",
+image: "/poi-images/kz-alzhir-memorial-history-v2.webp"
+},
     description: {
       de: "Dieses düstere Zeugnis der Stalin-Ära erinnert an das Leiden der inhaftierten Frauen. Die bedrückende Gedenkstätte mahnt eindrucksvoll an die dunkelsten Kapitel der jüngeren Geschichte.",
       hu: "A Sztálin-korszak ez a komor tanúja a fogságba esett ártatlan nők szenvedéseire emlékeztet nyomasztóan. Az emlékhely hatásosan figyelmeztet a közelmúlt történelmének legsötétebb fejezeteire.",
@@ -174,7 +186,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-ALM",
     coords: [77.3997, 43.4022],
-    name: { de: "Issyk-Kurgan", hu: "Iszik kurgán", ro: "Kurganul Issyk", en: "Issyk Kurgan" },
+    name: { de: "Issyk-Kurgan", hu: "Iszik kurgán", ro: "Kurganul Issyk", en: "Issyk Kurgan",
+image: "/poi-images/kz-issyk-kurgan-history-v2.webp"
+},
     description: {
       de: "In diesem uralten Grabhügel wurde einer der wichtigsten archäologischen Schätze Zentralasiens gehoben. Der prächtige Goldschmuck des begrabenen Kriegers wurde zum stolzen Symbol der kasachischen Identität.",
       hu: "Ebben az ősi sírhalomban tárták fel Közép-Ázsia egyik legfontosabb régészeti kincsét. Az eltemetett harcos pompás aranyékszerei a kazah identitás büszke szimbólumává váltak.",
@@ -202,7 +216,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-MAN",
     coords: [54.07, 43.59],
-    name: { de: "Beket-Ata-Moschee", hu: "Beket-Ata földalatti mecset", ro: "Moscheea subterană Beket-Ata", en: "Beket-Ata Underground Mosque" },
+    name: { de: "Beket-Ata-Moschee", hu: "Beket-Ata földalatti mecset", ro: "Moscheea subterană Beket-Ata", en: "Beket-Ata Underground Mosque",
+image: "/poi-images/kz-beket-ata-history-v2.webp"
+},
     description: {
       de: "Tief in der unbarmherzigen Wüste verborgen, bietet dieses unterirdische Heiligtum eine kühle Oase der Ruhe und Besinnung. Die Gläubigen wandern weite Strecken, um an diesem abgeschiedenen Ort zu beten.",
       hu: "A könyörtelen sivatag mélyén elrejtve ez a földalatti szentély a nyugalom és az elmélkedés hűvös oázisát kínálja. A hívők hosszú utakat tesznek meg, hogy ezen az elhagyatott helyen imádkozzanak.",
@@ -231,7 +247,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "ruin",
     parent: "KZ-YUZ",
     coords: [67.765, 43.515],
-    name: { de: "Ruinen von Sauran", hu: "Szauran romjai", ro: "Ruinele orașului Sauran", en: "Sauran Ruins" },
+    name: { de: "Ruinen von Sauran", hu: "Szauran romjai", ro: "Ruinele orașului Sauran", en: "Sauran Ruins",
+image: "/poi-images/kz-sauran-ruins-history-v2.webp"
+},
     description: {
       de: "Umgeben von weiten, trockenen Ebenen erheben sich die gut erhaltenen Lehmziegelmauern dieser einst uneinnehmbaren Festung. Man kann fast das Echo der alten Handelskarawanen hören, die hier rasteten.",
       hu: "A hatalmas, száraz síkságokkal körülvett egykori bevehetetlen erőd jó állapotban fennmaradt vályogtéglából épült falai büszkén emelkednek ki. Szinte hallani lehet az itt megpihenő ősi kereskedelmi karavánok visszhangját.",
@@ -259,7 +277,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-YUZ",
     coords: [68.270, 42.850],
-    name: { de: "Mausoleum des Arystan Bab", hu: "Ariszlán Bab mauzóleuma", ro: "Mausoleul Arystan Bab", en: "Arystan Bab Mausoleum" },
+    name: { de: "Mausoleum des Arystan Bab", hu: "Ariszlán Bab mauzóleuma", ro: "Mausoleul Arystan Bab", en: "Arystan Bab Mausoleum",
+image: "/poi-images/kz-arystan-bab-history-v2.webp"
+},
     description: {
       de: "Es ist Tradition, dass Pilger zuerst diesen heiligen Ort besuchen, bevor sie nach Turkestan weiterziehen. Die prunkvolle Architektur mit ihren markanten Holzsäulen erzählt von unerschütterlicher Andacht.",
       hu: "A hagyomány szerint a zarándokok először ezt a szent helyet látogatják meg, mielőtt továbbmennének Turkesztánba. A feltűnő faoszlopokkal díszített pompás építészet rendíthetetlen áhítatról mesél.",
@@ -287,7 +307,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "ruin",
     parent: "KZ-ZHA",
     coords: [71.8105, 42.9519],
-    name: { de: "Palastkomplex Akyrtas", hu: "Akirtasz palotakomplexum", ro: "Complexul Akyrtas", en: "Akyrtas Palace Complex" },
+    name: { de: "Palastkomplex Akyrtas", hu: "Akirtasz palotakomplexum", ro: "Complexul Akyrtas", en: "Akyrtas Palace Complex",
+image: "/poi-images/kz-akyrtas-palace-history-v2.webp"
+},
     description: {
       de: "Die massiven, unvollendeten roten Steinblöcke geben Archäologen bis heute Rätsel auf. Dieses gigantische Bauprojekt der Antike wurde aus unbekannten Gründen abrupt abgebrochen und der Natur überlassen.",
       hu: "A masszív, befejezetlen vörös kőtömbök mind a mai napig rejtélyek elé állítják a régészeket. Ezt a gigantikus ókori építkezést ismeretlen okokból hirtelen megszakították és sorsára hagyták.",
@@ -315,7 +337,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "ruin",
     parent: "KZ-ATY",
     coords: [51.442, 47.165],
-    name: { de: "Ruinen von Saraichik", hu: "Szarajcsik romjai", ro: "Ruinele Saraichik", en: "Saraichik Ruins" },
+    name: { de: "Ruinen von Saraichik", hu: "Szarajcsik romjai", ro: "Ruinele Saraichik", en: "Saraichik Ruins",
+image: "/poi-images/kz-saraichik-ruins-history-v2.webp"
+},
     description: {
       de: "Wo heute nur noch verstreute Steine liegen, stand einst eine wohlhabende islamische Metropole. Der tückische Fluss Ural spült immer wieder antike Münzen und Keramiken aus den alten Gräbern frei.",
       hu: "Ahol ma már csak elszórt kövek hevernek, ott egykor egy gazdag iszlám metropolisz állt. A szeszélyes Urál folyó rendszeresen mos ki ősi érméket és kerámiákat a régi sírokból.",
@@ -343,7 +367,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-MAN",
     coords: [51.144, 44.425],
-    name: { de: "Schakpak-Ata-Höhlenmoschee", hu: "Sakpak-Ata barlangmecset", ro: "Moscheea Shakpak-Ata", en: "Shakpak-Ata Cave Mosque" },
+    name: { de: "Schakpak-Ata-Höhlenmoschee", hu: "Sakpak-Ata barlangmecset", ro: "Moscheea Shakpak-Ata", en: "Shakpak-Ata Cave Mosque",
+image: "/poi-images/kz-shakpak-ata-history-v2.webp"
+},
     description: {
       de: "Die in den strahlend weißen Fels gehauene Moschee ist ein surrealer Anblick in der kargen Landschaft. Jahrhunderte von Wind und Wetter haben den Fels porös gemacht, doch der heilige Ort bleibt intakt.",
       hu: "A vakítóan fehér sziklába vájt mecset szürreális látványt nyújt a kopár tájban. Bár az évszázadok során az időjárás porózussá tette a kőzetet, a szent hely érintetlen maradt.",
@@ -371,7 +397,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-ZHA",
     coords: [71.21, 42.8318],
-    name: { de: "Babadscha-Chatun-Mausoleum", hu: "Babadzsa-Hatun mauzóleuma", ro: "Mausoleul Babadzha Khatun", en: "Babadzha Khatun Mausoleum" },
+    name: { de: "Babadscha-Chatun-Mausoleum", hu: "Babadzsa-Hatun mauzóleuma", ro: "Mausoleul Babadzha Khatun", en: "Babadzha Khatun Mausoleum",
+image: "/poi-images/kz-babadzha-khatun-history-v2.webp"
+},
     description: {
       de: "Das schlichte, aber elegant geformte Dach dieses Grabmals macht es zu einer Besonderheit der zentralasiatischen Architektur. Es ist ein steinernes Denkmal für Loyalität und grenzenlose weibliche Freundschaft.",
       hu: "Ennek a síremléknek az egyszerű, mégis elegáns formájú teteje a közép-ázsiai építészet különlegességévé teszi. A hűség és a határtalan női barátság kőbe zárt emlékműve.",
@@ -399,7 +427,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "battlefield",
     parent: "KZ-ALM",
     coords: [75.1, 44.0],
-    name: { de: "Schlachtfeld von Anyrakay", hu: "Anyrakaji csatamező", ro: "Bătălia de la Anyrakay", en: "Anyrakay Battlefield" },
+    name: { de: "Schlachtfeld von Anyrakay", hu: "Anyrakaji csatamező", ro: "Bătălia de la Anyrakay", en: "Anyrakay Battlefield",
+image: "/poi-images/kz-anyrakay-battlefield-history-v2.webp"
+},
     description: {
       de: "In dieser weiten Ebene kämpften die vereinten kasachischen Stämme um ihr Überleben und ihre Freiheit. Das moderne Monument auf dem Feld ehrt die gefallenen Krieger, die die Nation vereinten.",
       hu: "Ezen a hatalmas síkságon küzdöttek az egyesült kazah törzsek a túlélésért és a szabadságért. A mezőn álló modern emlékmű a nemzetet egyesítő elesett harcosok előtt tiszteleg.",
@@ -427,7 +457,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-KAR",
     coords: [72.84, 49.66],
-    name: { de: "Karlag-Gedenkstätte", hu: "Karlag emlékhely", ro: "Memorialul Karlag", en: "Karlag Memorial" },
+    name: { de: "Karlag-Gedenkstätte", hu: "Karlag emlékhely", ro: "Memorialul Karlag", en: "Karlag Memorial",
+image: "/poi-images/kz-karlag-memorial-history-v2.webp"
+},
     description: {
       de: "Inmitten der harschen Steppe steht das ehemalige Hauptquartier des Straflagers wie ein stiller Ankläger. Die Ausstellungen im Inneren dokumentieren schonungslos den grausamen Alltag der unschuldig Verurteilten.",
       hu: "A zord sztyeppe közepén csendes vádlóként áll a büntetőtábor egykori főhadiszállása. A belső kiállítások kíméletlenül dokumentálják az ártatlanul elítéltek kegyetlen mindennapjait.",
@@ -456,7 +488,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-YUZ",
     coords: [68.87, 43.83],
-    name: { de: "Mausoleum des Karabura", hu: "Karabura mauzóleuma", ro: "Mausoleul Karabura", en: "Karabura Mausoleum" },
+    name: { de: "Mausoleum des Karabura", hu: "Karabura mauzóleuma", ro: "Mausoleul Karabura", en: "Karabura Mausoleum",
+image: "/poi-images/kz-karabura-mausoleum-history-v2.webp"
+},
     description: {
       de: "Der Legende nach besaß Karabura die Gabe, unheilbare Krankheiten zu heilen. Sein Mausoleum, aus robusten Ziegeln erbaut, ist ein zentraler spiritueller Ort für viele Einheimische, die Hoffnung suchen.",
       hu: "A legenda szerint Karabura birtokolta a gyógyíthatatlan betegségek gyógyításának adományát. Erős téglákból épült mauzóleuma a reményt kereső helyiek központi spirituális helye.",
@@ -484,7 +518,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "KZ-MAN",
     coords: [54.02, 45.28],
-    name: { de: "Nekropole von Sisem-Ata", hu: "Sziszem-Ata nekropolisz", ro: "Necropola Sisem-Ata", en: "Sisem-Ata Necropolis" },
+    name: { de: "Nekropole von Sisem-Ata", hu: "Sziszem-Ata nekropolisz", ro: "Necropola Sisem-Ata", en: "Sisem-Ata Necropolis",
+image: "/poi-images/kz-sisem-ata-history-v2.webp"
+},
     description: {
       de: "Diese beeindruckende Nekropole gleicht einem steinernen Wald aus kunstvoll verzierten Grabstelen. Jeder behauene Stein erzählt die stolze Geschichte der mutigen Nomadenkrieger des Westens.",
       hu: "Ez a lenyűgöző nekropolisz egy művészien díszített sírkövekből álló kőerdőhöz hasonlít. Minden faragott kő a nyugati nomád harcosok büszke történetét meséli el.",
@@ -512,7 +548,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "ruin",
     parent: "KZ-KZY",
     coords: [66.97, 44.15],
-    name: { de: "Ruinen von Sygnak", hu: "Szignak romjai", ro: "Ruinele Sygnak", en: "Sygnak Ruins" },
+    name: { de: "Ruinen von Sygnak", hu: "Szignak romjai", ro: "Ruinele Sygnak", en: "Sygnak Ruins",
+image: "/poi-images/kz-sygnak-ruins-history-v2.webp"
+},
     description: {
       de: "Einst prägte diese mächtige Stadt eigene Münzen und handelte mit der ganzen bekannten Welt. Heute wandert der stetige Steppenwind durch die verwitterten Mauerreste der einstigen Metropole.",
       hu: "Egykor ez a hatalmas város saját érméket vert, és az egész ismert világgal kereskedett. Ma az állandó sztyeppei szél járja át az egykori metropolisz málladozó falmaradványait.",
@@ -541,7 +579,9 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     type: "monument",
     parent: "KZ-VOS",
     coords: [79.25, 48.95],
-    name: { de: "Abai-Schäkärim-Mausoleum", hu: "Abaj-Säkerim mauzóleum", ro: "Mausoleul Abai-Shakarim", en: "Abai-Shakarim Mausoleum" },
+    name: { de: "Abai-Schäkärim-Mausoleum", hu: "Abaj-Säkerim mauzóleum", ro: "Mausoleul Abai-Shakarim", en: "Abai-Shakarim Mausoleum",
+image: "/poi-images/kz-abai-shakarim-history-v2.webp"
+},
     description: {
       de: "Die strahlend weißen Türme dieses Denkmals ragen wie Leuchttürme des Intellekts in den Himmel der Steppe. Es ist eine tiefe Verneigung vor den größten Denkern und Dichtern der kasachischen Nation.",
       hu: "Az emlékmű ragyogóan fehér tornyai az intellektus világítótornyaiként magasodnak a sztyeppei égbolt felé. Mély főhajtás a kazah nemzet legnagyobb gondolkodói és költői előtt.",

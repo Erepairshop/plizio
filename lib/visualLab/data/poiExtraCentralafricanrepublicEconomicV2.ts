@@ -11,8 +11,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Haupthafen von Bangui",
       hu: "Bangui fő kikötője",
       ro: "Portul Principal din Bangui",
-      en: "Main Port of Bangui"
-    },
+      en: "Main Port of Bangui",
+image: "/poi-images/haupthafen-bangui-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Haupthafen in Bangui ist die Lebensader für den Import und Export der Zentralafrikanischen Republik. Gelegen am Ubangi, ermöglicht er den Warenverkehr bis zum Kongobecken, was entscheidend für das Binnenland ist, das keinen Zugang zum Meer besitzt. Die Infrastruktur des Hafens ist zentral für die Versorgung der Hauptstadt und die Anbindung an internationale Märkte. Erdkunde K7 – Logistik in Binnenstaaten.",
       ro: "Portul principal din Bangui este punctul central al activităților fluviale pe râul Ubangi, facilitând legătura vitală între capitală și restul rețelei de transport a țării. Acesta gestionează cea mai mare parte a importurilor și exporturilor pe calea apei, fiind esențial pentru aprovizionarea națiunii. Geografie K7 – Transport și economie.",
@@ -60,8 +61,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Ndassima-Goldmine",
       hu: "Ndassima aranybánya",
       ro: "Mina de aur Ndassima",
-      en: "Ndassima Gold Mine"
-    },
+      en: "Ndassima Gold Mine",
+image: "/poi-images/ndassima-goldmine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Ndassima-Goldmine im Zentrum der Zentralafrikanischen Republik ist eine der bedeutendsten Rohstoffstätten des Landes. Der Abbau von Gold spielt eine wichtige Rolle in der nationalen Wirtschaftsbilanz, wobei die Mine sowohl industrielle als auch informelle Bergbauaktivitäten umfasst. Ihre Präsenz beeinflusst die lokale Siedlungsstruktur und ist ein zentraler wirtschaftlicher Faktor für die Region Ouaka. Geografie K7 – Rohstoffabbau in Afrika.",
       ro: "Mina de aur de la Ndassima este unul dintre cele mai importante situri de extracție a metalelor prețioase din Republica Centrafricană, reprezentând o sursă semnificativă de venituri și dezvoltare pentru economia regională. Extracția aurului atrage forță de muncă și dezvoltă infrastructura locală. Geografie K7 – Resurse miniere.",
@@ -109,8 +111,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Boali-II-Wasserkraftwerk",
       hu: "Boali II vízerőmű",
       ro: "Hidrocentrala Boali II",
-      en: "Boali II Hydroelectric Power Station"
-    },
+      en: "Boali II Hydroelectric Power Station",
+image: "/poi-images/boali-ii-wasserkraftwerk-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Boali-II-Wasserkraftwerk ist ein entscheidender Pfeiler für die Energieversorgung der Zentralafrikanischen Republik, insbesondere für die Hauptstadt Bangui. Es nutzt die Wasserfälle des M'Bali-Flusses zur Stromerzeugung, was eine saubere Energiequelle für den urbanen und wirtschaftlichen Bedarf darstellt. Die Anlage ist ein Beispiel für die Nutzung geografischer Gegebenheiten zur industriellen Entwicklung des Landes. Erdkunde K7 – Energiegewinnung aus Wasserkraft.",
       ro: "Centrala hidroelectrică Boali II este esențială pentru sistemul energetic al Republicii Centrafricane, asigurând o parte majoră din necesarul de electricitate al orașului Bangui. Aceasta reprezintă un pilon al infrastructurii moderne, contribuind direct la dezvoltarea industrială și domestică. Geografie K7 – Infrastructură energetică.",
@@ -158,8 +161,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Hafen von Salo",
       hu: "Salo kikötője",
       ro: "Portul Salo",
-      en: "Port of Salo"
-    },
+      en: "Port of Salo",
+image: "/poi-images/hafen-salo-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Salo am Sangha-Fluss dient als wichtiger Handelsstützpunkt im Südwesten des Landes. Er spielt eine zentrale Rolle für den Transport von Tropenholz und anderen Produkten, die für den Export in benachbarte Länder und den Weltmarkt bestimmt sind. Als Teil der logistischen Kette im Südwesten ist der Hafen von Salo essenziell für die wirtschaftliche Dynamik in einer Region, die stark von der Forstwirtschaft geprägt ist. Erdkunde K7 – Forstwirtschaft und Transport.",
       ro: "Portul din Salo servește drept punct de colectare și transport fluvial pentru resursele forestiere din regiunea sud-vestică, fiind vital pentru industria lemnului. Infrastructura sa permite legătura cu rutele de export ale țării prin intermediul transportului pe apă. Geografie K7 – Resurse forestiere.",
@@ -207,8 +211,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Zuckerfabrik Ngakobo",
       hu: "Ngakobo cukorgyár",
       ro: "Fabrica de zahăr Ngakobo",
-      en: "Ngakobo Sugar Refinery"
-    },
+      en: "Ngakobo Sugar Refinery",
+image: "/poi-images/zuckerfabrik-ngakobo-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Zuckerfabrik in Ngakobo ist ein bedeutendes industrielles Zentrum der Agrarwirtschaft, spezialisiert auf den Anbau und die Verarbeitung von Zuckerrohr. Diese Anlage ist für die lokale Arbeitsplatzschaffung und die landwirtschaftliche Diversifizierung der Region Ouaka von großer Bedeutung. Durch die industrielle Verarbeitung von Agrarrohstoffen trägt die Fabrik zur wirtschaftlichen Stabilität und zur Produktion von Gütern für den nationalen Markt bei. Erdkunde K7 – Industrielle Agrarverarbeitung.",
       ro: "Fabrica de zahăr din Ngakobo este o unitate industrială importantă ce valorifică producția de trestie de zahăr din regiune, contribuind la industria alimentară a țării. Aceasta oferă locuri de muncă și stimulează economia locală. Geografie K7 – Industrie alimentară.",
@@ -256,8 +261,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Diamantenmine von Bria",
       hu: "Bria gyémántbánya",
       ro: "Mina de diamante din Bria",
-      en: "Bria Diamond Mine"
-    },
+      en: "Bria Diamond Mine",
+image: "/poi-images/diamantenmine-bria-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Diamantenminen von Bria im Osten des Landes sind für den Bergbau und die damit verbundene wirtschaftliche Aktivität von zentraler Bedeutung. Bria ist ein Zentrum für den Diamantentransport und die erste Bearbeitung des Gesteins, wobei diese Aktivitäten das soziale und wirtschaftliche Leben in der Region maßgeblich prägen. Trotz der schwierigen geografischen Lage ist der Diamantenabbau ein wesentlicher Bestandteil der nationalen Rohstoffstrategie. Erdkunde K7 – Bergbauwirtschaft.",
       ro: "Mina de diamante de la Bria reprezintă un centru de extracție istoric și economic pentru regiunea de est, influențând viața socială și economică a orașului. Diamantele extrase aici sunt un bun de export major pentru economia centrafricană. Geografie K7 – Economia resurselor.",
@@ -305,8 +311,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Baumwollentkörnung Bambari",
       hu: "Bambari gyapotmagtalanító",
       ro: "Stația de egrenare a bumbacului Bambari",
-      en: "Bambari Cotton Gin"
-    },
+      en: "Bambari Cotton Gin",
+image: "/poi-images/baumwollentkoernung-bambari-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Anlage zur Baumwollentkörnung in Bambari ist ein wichtiger industrieller Betrieb in der Zentralregion des Landes. Als Zentrum für den Baumwollsektor spielt sie eine entscheidende Rolle bei der Verarbeitung des wichtigen Agrarexportguts Baumwolle. Sie bietet Arbeit für viele lokale Bauern und Arbeiter und ist eine unverzichtbare Säule für den agrarindustriellen Sektor in der Präfektur Ouaka. Erdkunde K7 – Agrarverarbeitung.",
       ro: "Unitatea de prelucrare a bumbacului din Bambari este vitală pentru sectorul agricol, asigurând separarea semințelor de fibră pentru export. Aceasta susține numeroși agricultori locali care cultivă bumbac în regiune. Geografie K7 – Prelucrarea producției agricole.",
@@ -354,8 +361,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Hafen von Mongoumba",
       hu: "Mongoumba kikötője",
       ro: "Portul Mongoumba",
-      en: "Port of Mongoumba"
-    },
+      en: "Port of Mongoumba",
+image: "/poi-images/hafen-mongoumba-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Mongoumba liegt strategisch am Ubangi-Fluss an der Grenze zwischen der Zentralafrikanischen Republik und der Republik Kongo. Er dient als lokaler Handelsplatz und ist ein bedeutender Punkt für den Austausch von Waren über die Flussgrenze hinweg. Mongoumba ist zudem ein Zentrum für die lokale Fischerei und den Kleingewerbe-Handel, was zur Ernährungssicherheit und wirtschaftlichen Dynamik der Region beiträgt. Erdkunde K7 – Grenzorte und Flusswirtschaft.",
       ro: "Portul din Mongoumba este un punct de intersecție fluvială internațională, facilitând schimburile comerciale cu statele vecine prin transportul pe râul Ubangi. Acesta joacă un rol în economia de frontieră a țării. Geografie K7 – Schimburi comerciale.",
@@ -403,8 +411,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Brauerei Mocaf Bangui",
       hu: "Mocaf sörfőzde Bangui",
       ro: "Berăria Mocaf Bangui",
-      en: "Mocaf Brewery Bangui"
-    },
+      en: "Mocaf Brewery Bangui",
+image: "/poi-images/brauerei-mocaf-bangui-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Brauerei MOCAF in Bangui ist einer der wichtigsten industriellen Arbeitgeber der Hauptstadt. Als Produzent von Getränken versorgt sie sowohl die städtische Bevölkerung als auch regionale Märkte und trägt damit maßgeblich zur industriellen Basis der Stadt bei. Die Brauerei ist ein Symbol für den urbanen industriellen Sektor und demonstriert die Kapazitäten des Landes zur eigenen Güterproduktion. Geschichte K5 – Industrialisierung in afrikanischen Hauptstädten.",
       ro: "Berăria MOCAF din Bangui este o întreprindere industrială majoră care contribuie la sectorul băuturilor și la economia capitalei, fiind unul dintre marii angajatori locali. Produsele sale sunt distribuite la nivel național. Geografie K7 – Industrie și comerț.",
@@ -453,8 +462,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Diamantenfeld Sam-Ouandja",
       hu: "Sam-Ouandja gyémántmező",
       ro: "Câmpul de diamante Sam-Ouandja",
-      en: "Sam-Ouandja Diamond Field"
-    },
+      en: "Sam-Ouandja Diamond Field",
+image: "/poi-images/diamantenfeld-sam-ouandja-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Diamantenfeld bei Sam-Ouandja ist ein wichtiger Standort für den Bergbau im Nordosten des Landes. Die Region, in der dieser Abbau stattfindet, ist für ihre reichen Vorkommen bekannt, die eine wirtschaftliche Nische für die lokale Bevölkerung bieten. Obwohl Sam-Ouandja in einer geografisch isolierten Gegend liegt, beeinflusst der Diamantenhandel das Leben vor Ort und die Anbindung an die nationalen Handelswege für Rohstoffe. Erdkunde K7 – Rohstoffökonomie.",
       ro: "Câmpul de diamante din Sam-Ouandja este o zonă de extracție artizanală și semi-industrială importantă pentru economia nordului țării. Resursele extrase aici contribuie la piața internă și internațională de pietre prețioase. Geografie K7 – Extracția resurselor.",
@@ -502,8 +512,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Sägewerk Nola",
       hu: "Nola fűrészüzem",
       ro: "Găterul din Nola",
-      en: "Nola Sawmill"
-    },
+      en: "Nola Sawmill",
+image: "/poi-images/saegewerk-nola-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Sägewerk in Nola ist ein wesentlicher industrieller Betrieb in der waldreichen Präfektur Sangha-Mbaéré. Es spielt eine entscheidende Rolle in der lokalen Holzverarbeitung und ermöglicht die Nutzung der reichhaltigen Waldressourcen des Kongobeckens. Diese industriellen Aktivitäten sind ein zentraler Faktor für den wirtschaftlichen Fortschritt der Region Nola, da sie sowohl Arbeitsplätze schaffen als auch Produkte für den Export generieren. Erdkunde K7 – Nachhaltige Waldnutzung.",
       ro: "Ferăstrăul industrial din Nola este un pilon pentru economia regiunii forestiere, procesând lemnul brut pentru export și utilizare locală. Acesta contribuie la gestionarea responsabilă și valorificarea resurselor naturale. Geografie K7 – Industrie forestieră."
@@ -549,8 +560,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Flusshafen Nola",
       hu: "Nola folyami kikötő",
       ro: "Portul fluvial Nola",
-      en: "Nola River Port"
-    },
+      en: "Nola River Port",
+image: "/poi-images/flusshafen-nola-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Flusshafen in Nola fungiert als logistischer Knotenpunkt für den Abtransport von verarbeitetem Holz und anderen Agrargütern aus der Waldregion Sangha-Mbaéré. Aufgrund der Lage an schiffbaren Wasserwegen ist der Hafen entscheidend für die wirtschaftliche Integration der Region in das überregionale Handelsnetz. Die Nutzung der Flussinfrastruktur ermöglicht den Transport schwerer Fracht, die auf dem Landweg nur schwer bewältigbar wäre. Erdkunde K7 – Transport und Infrastruktur.",
       ro: "Portul fluvial din Nola este un punct critic pentru transportul lemnului și al altor produse forestiere din regiunea de sud-vest, asigurând legătura cu rutele de transport naționale și internaționale. Geografie K7 – Logistică fluvială."
@@ -596,8 +608,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Baumwollfabrik Bossangoa",
       hu: "Bossangoa gyapotgyár",
       ro: "Fabrica de bumbac Bossangoa",
-      en: "Bossangoa Cotton Factory"
-    },
+      en: "Bossangoa Cotton Factory",
+image: "/poi-images/baumwollfabrik-bossangoa-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Baumwollfabrik in Bossangoa ist ein industrieller Stützpunkt für die Verarbeitung des bedeutenden Agrarexportprodukts Baumwolle. Sie ist eng mit der landwirtschaftlichen Geschichte der Region Ouham verknüpft und leistet einen zentralen Beitrag zur lokalen Wertschöpfung. Durch die Verarbeitung vor Ort werden Agrarprodukte veredelt und für den nationalen Markt sowie den Export vorbereitet, was die wirtschaftliche Bedeutung von Bossangoa als landwirtschaftliches Zentrum unterstreicht. Erdkunde K7 – Landwirtschaftliche industrielle Entwicklung.",
       ro: "Fabrica de bumbac din Bossangoa este o unitate de procesare importantă pentru economia nord-vestului țării, fiind esențială pentru agricultorii din prefectura Ouham care cultivă această resursă. Geografie K7 – Industrie agricolă."
@@ -643,8 +656,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Hafen von Mobaye",
       hu: "Mobaye kikötője",
       ro: "Portul Mobaye",
-      en: "Port of Mobaye"
-    },
+      en: "Port of Mobaye",
+image: "/poi-images/hafen-mobaye-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Mobaye, gelegen am Ubangi, ist ein bedeutender Standort für die regionale Logistik und den Handel im Südosten des Landes. Durch die Lage an einer wichtigen Wasserstraße dient er als Umschlagplatz für Waren, die den Flussweg zur Anbindung an andere Regionen nutzen. Mobaye bleibt ein lokaler Marktort, der besonders für Händler und Fischer an der Flussgrenze zur DR Kongo von großem Wert für die wirtschaftliche Interaktion ist. Erdkunde K7 – Regionaler Handel.",
       ro: "Portul fluvial din Mobaye este un punct de legătură esențial pentru comerțul cu comunitățile riverane din regiunea de est, facilitând accesul la resursele necesare dezvoltării locale. Geografie K7 – Transport fluvial."
@@ -691,8 +705,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Palmölraffinerie Bambari",
       hu: "Bambari pálmaolaj-finomító",
       ro: "Rafinăria de ulei de palmier Bambari",
-      en: "Bambari Palm Oil Mill"
-    },
+      en: "Bambari Palm Oil Mill",
+image: "/poi-images/palmoelraffinerie-bambari-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Palmölraffinerie in Bambari ist ein industrieller Betrieb, der sich der Veredelung von landwirtschaftlichen Produkten widmet. Palmöl ist ein vielseitiges Produkt für den heimischen Markt und die Industrie, weshalb diese Raffinerie eine zentrale Rolle für die landwirtschaftliche Diversifizierung in der Region Ouaka spielt. Die industrielle Verarbeitung vor Ort bietet lokale Arbeitsplätze und stärkt die industrielle Kapazität von Bambari als agrarwirtschaftliches Zentrum. Erdkunde K7 – Agrarverarbeitung.",
       ro: "Rafinăria de ulei de palmier din Bambari valorifică producția de ulei din regiune, fiind o unitate industrială care contribuie la industria alimentară și la diversificarea economiei. Geografie K7 – Industrie agricolă."
@@ -738,8 +753,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Hafen von Bangassou",
       hu: "Bangassou kikötője",
       ro: "Portul Bangassou",
-      en: "Port of Bangassou"
-    },
+      en: "Port of Bangassou",
+image: "/poi-images/hafen-bangassou-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Bangassou am Mbomou-Fluss dient als wichtiger Handelsstützpunkt für den Südosten des Landes. Seine Lage in einer Region, die stark von Waldlandschaften geprägt ist, macht ihn zu einem entscheidenden Ort für den Transport von Holz und anderen Gütern. Als administrativer Außenposten ist Bangassou durch seinen Hafen wirtschaftlich eng mit den Wasserwegen verbunden, die den Austausch zwischen entlegenen Gebieten und dem Rest der Zentralafrikanischen Republik ermöglichen. Erdkunde K7 – Infrastruktur in entlegenen Gebieten.",
       ro: "Portul fluvial din Bangassou reprezintă un nod vital de transport pentru resursele din estul îndepărtat al Republicii Centrafricane, facilitând circulația bunurilor pe râul Mbomou. Geografie K7 – Transport și economie."
@@ -785,8 +801,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Holzverarbeitungszentrum Mbaïki",
       hu: "Mbaïki fafeldolgozó központ",
       ro: "Centrul de prelucrare a lemnului Mbaïki",
-      en: "Mbaïki Wood Processing Center"
-    },
+      en: "Mbaïki Wood Processing Center",
+image: "/poi-images/holzverarbeitungszentrum-mbaiki-economic-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Centrul de procesare a lemnului din Mbaïki gestionează resursele forestiere din regiune, fiind un element cheie pentru industria lemnului și economia locală. Acesta valorifică lemnul prin prelucrare industrială. Geografie K7 – Resurse forestiere."
     },
@@ -831,8 +848,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Hafen von Ouango",
       hu: "Ouango kikötője",
       ro: "Portul Ouango",
-      en: "Port of Ouango"
-    },
+      en: "Port of Ouango",
+image: "/poi-images/hafen-ouango-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Ouango am Mbomou-Fluss ist ein lokaler Handelsort und dient als wichtiger Knotenpunkt für den Warenverkehr in der Präfektur Mbomou. Durch seine Funktion als Flussanlegestelle unterstützt er die wirtschaftliche Aktivität und Versorgung der Region, die aufgrund der geografischen Lage und der dichten Bewaldung auf die Wasserwege angewiesen ist. Ouango spielt eine unterstützende Rolle bei der logistischen Vernetzung der entlegenen Gemeinden im Südosten. Erdkunde K7 – Transportlogistik in Waldgebieten.",
       ro: "Portul din Ouango facilitează schimburile comerciale între comunitățile de pe râul Mbomou, fiind un punct critic pentru aprovizionarea și transportul resurselor locale în regiunea de est. Geografie K7 – Economie riverană."
@@ -878,8 +896,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Boali-I-Wasserkraftwerk",
       hu: "Boali I vízerőmű",
       ro: "Hidrocentrala Boali I",
-      en: "Boali I Hydroelectric Station"
-    },
+      en: "Boali I Hydroelectric Station",
+image: "/poi-images/boali-i-wasserkraftwerk-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Boali-I-Wasserkraftwerk ist eine der älteren und wichtigsten Anlagen zur Energiegewinnung in der Zentralafrikanischen Republik. Zusammen mit Boali-II bildet es das Rückgrat der Stromversorgung für die industrielle Produktion in Bangui. Diese Wasserkraftnutzung ist ein Schlüsselfaktor für den Betrieb der Fabriken in der Hauptstadt und für die gesamte wirtschaftliche Infrastruktur der städtischen Region, was ihre energetische Bedeutung unterstreicht. Erdkunde K7 – Wasser- und Energieinfrastruktur.",
       ro: "Centrala hidroelectrică Boali I face parte din complexul energetic Boali, fiind una dintre primele și esențiale unități de producție a electricității care alimentează sistemul național. Geografie K7 – Infrastructură energetică."
@@ -925,8 +944,9 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       de: "Seifenfabrik von Bangui",
       hu: "Bangui szappangyár",
       ro: "Fabrica de săpun din Bangui",
-      en: "Bangui Soap Factory"
-    },
+      en: "Bangui Soap Factory",
+image: "/poi-images/seifenfabrik-bangui-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Seifenfabrik in Bangui ist ein industrieller Betrieb, der sich auf den lokalen Markt konzentriert und wesentliche Produkte des täglichen Bedarfs herstellt. Diese industrielle Aktivität zeigt die Kapazität Bangui zur Produktion von Konsumgütern und trägt zur lokalen Wertschöpfung sowie zur Versorgungssicherheit bei. Als Teil des industriellen Sektors von Bangui stellt sie Arbeitsplätze bereit und ist ein Beispiel für den Aufbau einer nationalen Konsumgüterindustrie. Erdkunde K7 – Konsumgüterproduktion in afrikanischen Hauptstädten.",
       ro: "Fabrica de săpun din Bangui reprezintă o unitate industrială locală care deservește piața de consum a capitalei, oferind produse esențiale și susținând economia urbană prin crearea de locuri de muncă. Geografie K7 – Industrie de bunuri de larg consum."

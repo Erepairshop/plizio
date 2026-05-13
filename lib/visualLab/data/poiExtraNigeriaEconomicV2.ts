@@ -11,8 +11,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafenkomplex Apapa",
       hu: "Apapa Kikötőkomplexum",
       ro: "Complexul Portuar Apapa",
-      en: "Apapa Port Complex"
-    },
+      en: "Apapa Port Complex",
+image: "/poi-images/apapa-port-complex-economic-v2.webp"
+},
     description: {
       de: "Der größte und wichtigste Hafen Nigerias, der einen Großteil des internationalen Handels des Landes abwickelt.",
       hu: "Nigéria legnagyobb és legfontosabb kikötője, amely az ország nemzetközi kereskedelmének nagy részét bonyolítja le.",
@@ -47,8 +48,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Tin Can Island",
       hu: "Tin Can Szigeti Kikötő",
       ro: "Portul Insulei Tin Can",
-      en: "Tin Can Island Port"
-    },
+      en: "Tin Can Island Port",
+image: "/poi-images/tin-can-island-port-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Seehafen in Lagos, der den Apapa-Hafen entlastet und viele RoRo-Schiffe abfertigt.",
       hu: "Jelentős tengeri kikötő Lagosban, amely tehermentesíti az Apapa kikötőt, és sok RoRo hajót szolgál ki.",
@@ -83,8 +85,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Onne",
       hu: "Onne Kikötő",
       ro: "Portul Onne",
-      en: "Onne Port"
-    },
+      en: "Onne Port",
+image: "/poi-images/onne-port-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Hafen für die Öl- und Gasindustrie, der über eine der größten Freihandelszonen für diesen Sektor in der Welt verfügt.",
       hu: "Az olaj- és gáziparra specializálódott kikötő, amely a világ egyik legnagyobb szabadkereskedelmi övezetével rendelkezik ebben a szektorban.",
@@ -119,8 +122,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen von Port Harcourt",
       hu: "Port Harcourt Kikötő",
       ro: "Portul Port Harcourt",
-      en: "Port of Port Harcourt"
-    },
+      en: "Port of Port Harcourt",
+image: "/poi-images/port-harcourt-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Hafen im Nigerdelta, der für den Export von Erdölprodukten und den Import von Industriegütern zentral ist.",
       hu: "Fontos kikötő a Niger-deltában, amely központi szerepet játszik a kőolajtermékek exportjában és az ipari cikkek importjában.",
@@ -155,8 +159,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Calabar",
       hu: "Calabar Kikötő",
       ro: "Portul Calabar",
-      en: "Calabar Port"
-    },
+      en: "Calabar Port",
+image: "/poi-images/calabar-port-economic-v2.webp"
+},
     description: {
       de: "Ein Hafen, der hauptsächlich dem Osten Nigerias und den angrenzenden Binnenländern dient.",
       hu: "Kikötő, amely főként Kelet-Nigériát és a szomszédos szárazföldi országokat szolgálja ki.",
@@ -191,8 +196,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Warri",
       hu: "Warri Kikötő",
       ro: "Portul Warri",
-      en: "Warri Port"
-    },
+      en: "Warri Port",
+image: "/poi-images/warri-port-economic-v2.webp"
+},
     description: {
       de: "Ein Flusshafen in Warri, der eine wichtige Rolle in der Unterstützung der lokalen Ölindustrie spielt.",
       hu: "Folyami kikötő Warriban, amely fontos szerepet játszik a helyi olajipar támogatásában.",
@@ -227,8 +233,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Tiefseehafen Lekki",
       hu: "Lekki Mélytengeri Kikötő",
       ro: "Portul Maritim de Adâncime Lekki",
-      en: "Lekki Deep Sea Port"
-    },
+      en: "Lekki Deep Sea Port",
+image: "/poi-images/lekki-deep-sea-port-economic-v2.webp"
+},
     description: {
       de: "Der modernste und tiefste Seehafen Nigerias, entworfen für die Abfertigung großer Containerschiffe.",
       hu: "Nigéria legmodernebb és legmélyebb tengeri kikötője, amelyet nagy konténerhajók kiszolgálására terveztek.",
@@ -263,8 +270,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Koko",
       hu: "Koko Kikötő",
       ro: "Portul Koko",
-      en: "Koko Port"
-    },
+      en: "Koko Port",
+image: "/poi-images/koko-port-economic-v2.webp"
+},
     description: {
       de: "Ein kleinerer Hafen im Bundesstaat Delta, der historisch bedeutend war und heute primär Nischenladungen abwickelt.",
       hu: "Kisebb kikötő Delta államban, amely történelmileg jelentős volt, ma pedig elsősorban réspiaci szállítmányokat kezel.",
@@ -299,8 +307,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Sapele",
       hu: "Sapele Kikötő",
       ro: "Portul Sapele",
-      en: "Sapele Port"
-    },
+      en: "Sapele Port",
+image: "/poi-images/sapele-port-economic-v2.webp"
+},
     description: {
       de: "Ein Binnenhafen, der historisch für den Holzexport bekannt war und heute landwirtschaftliche Güter umschlägt.",
       hu: "Belföldi kikötő, amely történelmileg a faexportról volt ismert, ma pedig mezőgazdasági termékeket rakodnak át.",
@@ -335,8 +344,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Hafen Burutu",
       hu: "Burutu Kikötő",
       ro: "Portul Burutu",
-      en: "Burutu Port"
-    },
+      en: "Burutu Port",
+image: "/poi-images/burutu-port-economic-v2.webp"
+},
     description: {
       de: "Ein alter Binnenhafen, der von der Royal Niger Company gegründet wurde und heute vor allem lokal genutzt wird.",
       hu: "Régi belföldi kikötő, amelyet a Royal Niger Company alapított, ma főként helyi szinten használják.",
@@ -371,8 +381,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Escravos Terminal",
       hu: "Escravos Terminál",
       ro: "Terminalul Escravos",
-      en: "Escravos Terminal"
-    },
+      en: "Escravos Terminal",
+image: "/poi-images/escravos-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Öl- und Gasterminal in der Bucht von Benin, der von großen multinationalen Energiekonzernen betrieben wird.",
       hu: "Fontos olaj- és gázterminál a Benini-öbölben, amelyet nagy multinacionális energetikai vállalatok üzemeltetnek.",
@@ -406,8 +417,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Forcados Terminal",
       hu: "Forcados Terminál",
       ro: "Terminalul Forcados",
-      en: "Forcados Terminal"
-    },
+      en: "Forcados Terminal",
+image: "/poi-images/forcados-terminal-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Exportterminals für Rohöl in Nigeria, das große Mengen Erdöl für den Weltmarkt verschifft.",
       hu: "Nigéria egyik legnagyobb kőolaj-export terminálja, amely nagy mennyiségű olajat szállít a világpiacra.",
@@ -441,8 +453,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Ölterminal Bonny",
       hu: "Bonny Olajterminál",
       ro: "Terminalul de Petrol Bonny",
-      en: "Bonny Oil Terminal"
-    },
+      en: "Bonny Oil Terminal",
+image: "/poi-images/bonny-oil-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein riesiger Umschlagplatz für Erdöl und verflüssigtes Erdgas (LNG), das eine Schlüsselrolle in der nigerianischen Wirtschaft spielt.",
       hu: "Hatalmas átrakodóhely kőolaj és cseppfolyósított földgáz (LNG) számára, amely kulcsszerepet játszik a nigériai gazdaságban.",
@@ -477,8 +490,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Qua Iboe Terminal",
       hu: "Qua Iboe Terminál",
       ro: "Terminalul Qua Iboe",
-      en: "Qua Iboe Terminal"
-    },
+      en: "Qua Iboe Terminal",
+image: "/poi-images/qua-iboe-terminal-economic-v2.webp"
+},
     description: {
       de: "Eine bedeutende Anlage für den Ölexport im Bundesstaat Akwa Ibom, in der Rohöl aus Offshore-Feldern gesammelt wird.",
       hu: "Jelentős olajexportáló létesítmény Akwa Ibom államban, ahol az offshore mezőkről származó nyersolajat gyűjtik.",
@@ -513,8 +527,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Brass Terminal",
       hu: "Brass Terminál",
       ro: "Terminalul Brass",
-      en: "Brass Terminal"
-    },
+      en: "Brass Terminal",
+image: "/poi-images/brass-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein historisch wichtiges und heute noch relevantes Ölterminal in der Brass-Region des Nigerdeltas.",
       hu: "Történelmileg fontos és ma is releváns olajterminál a Niger-delta Brass régiójában.",
@@ -548,8 +563,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Raffinerie Dangote",
       hu: "Dangote Finomító",
       ro: "Rafinăria Dangote",
-      en: "Dangote Refinery"
-    },
+      en: "Dangote Refinery",
+image: "/poi-images/dangote-refinery-economic-v2.webp"
+},
     description: {
       de: "Die größte einsträngige Ölraffinerie der Welt, konzipiert um Nigerias Abhängigkeit von Treibstoffimporten drastisch zu reduzieren.",
       hu: "A világ legnagyobb egyvonalas olajfinomítója, amelyet azért terveztek, hogy drasztikusan csökkentse Nigéria függőségét az üzemanyag-importtól.",
@@ -584,8 +600,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Raffinerie Port Harcourt",
       hu: "Port Harcourt Finomító",
       ro: "Rafinăria Port Harcourt",
-      en: "Port Harcourt Refinery"
-    },
+      en: "Port Harcourt Refinery",
+image: "/poi-images/port-harcourt-refinery-economic-v2.webp"
+},
     description: {
       de: "Ein Komplex aus zwei Raffinerien in Port Harcourt, der entscheidend für die inländische Kraftstoffversorgung Nigerias ist.",
       hu: "Két finomítóból álló komplexum Port Harcourtban, amely döntő fontosságú Nigéria belföldi üzemanyag-ellátásában.",
@@ -621,8 +638,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Raffinerie Warri",
       hu: "Warri Finomító",
       ro: "Rafinăria Warri",
-      en: "Warri Refinery"
-    },
+      en: "Warri Refinery",
+image: "/poi-images/warri-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine große Ölraffinerie im Bundesstaat Delta, die neben Benzin und Diesel auch petrochemische Produkte herstellt.",
       hu: "Nagy olajfinomító Delta államban, amely a benzin és dízel mellett petrolkémiai termékeket is gyárt.",
@@ -657,8 +675,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Raffinerie Kaduna",
       hu: "Kaduna Finomító",
       ro: "Rafinăria Kaduna",
-      en: "Kaduna Refinery"
-    },
+      en: "Kaduna Refinery",
+image: "/poi-images/kaduna-refinery-economic-v2.webp"
+},
     description: {
       de: "Die einzige Ölraffinerie in Nordnigeria, entworfen zur Verarbeitung von schwerem und leichtem Rohöl.",
       hu: "Az egyetlen olajfinomító Észak-Nigériában, amelyet nehéz és könnyű nyersolaj feldolgozására terveztek.",
@@ -692,8 +711,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Stahlwerk Ajaokuta",
       hu: "Ajaokuta Acélmű",
       ro: "Oțelăria Ajaokuta",
-      en: "Ajaokuta Steel Mill"
-    },
+      en: "Ajaokuta Steel Mill",
+image: "/poi-images/ajaokuta-steel-mill-economic-v2.webp"
+},
     description: {
       de: "Das größte unvollendete Industrieprojekt Nigerias, ein massiver Stahlkomplex, der die Industrialisierung des Landes vorantreiben sollte.",
       hu: "Nigéria legnagyobb befejezetlen ipari projektje, egy hatalmas acélkomplexum, amelynek az ország iparosítását kellett volna előmozdítania.",
@@ -727,8 +747,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Delta Steel Company",
       hu: "Delta Acélipari Vállalat",
       ro: "Compania de Oțel Delta",
-      en: "Delta Steel Company"
-    },
+      en: "Delta Steel Company",
+image: "/poi-images/delta-steel-company-economic-v2.webp"
+},
     description: {
       de: "Ein großes Stahlwerk in Aladja, das Direktreduktionstechnologie nutzt und wichtig für den Bausektor ist.",
       hu: "Nagy acélmű Aladjában, amely közvetlen redukciós technológiát alkalmaz, és fontos az építőipar számára.",
@@ -762,8 +783,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Zementwerk Obajana",
       hu: "Obajana Cementgyár",
       ro: "Fabrica de Ciment Obajana",
-      en: "Obajana Cement Plant"
-    },
+      en: "Obajana Cement Plant",
+image: "/poi-images/obajana-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Zementfabriken der Welt und die größte in Afrika, betrieben von Dangote Cement.",
       hu: "A világ egyik legnagyobb, és Afrika legnagyobb cementgyára, amelyet a Dangote Cement üzemeltet.",
@@ -798,8 +820,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Zementwerk Ibese",
       hu: "Ibese Cementgyár",
       ro: "Fabrica de Ciment Ibese",
-      en: "Ibese Cement Plant"
-    },
+      en: "Ibese Cement Plant",
+image: "/poi-images/ibese-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein weiteres großes Zementwerk von Dangote im Südwesten Nigerias, das die hohe Baunachfrage bedient.",
       hu: "Egy másik nagy Dangote cementgyár Délnyugat-Nigériában, amely a magas építési keresletet elégíti ki.",
@@ -834,8 +857,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Zementwerk Gboko",
       hu: "Gboko Cementgyár",
       ro: "Fabrica de Ciment Gboko",
-      en: "Gboko Cement Plant"
-    },
+      en: "Gboko Cement Plant",
+image: "/poi-images/gboko-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein zentral gelegenes Zementwerk im Bundesstaat Benue, wichtig für den Zementmarkt in den mittleren Regionen Nigerias.",
       hu: "Központi elhelyezkedésű cementgyár Benue államban, amely fontos a nigériai középső régiók cementpiacán.",
@@ -870,8 +894,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Zementwerk Mfamosing",
       hu: "Mfamosing Cementgyár",
       ro: "Fabrica de Ciment Mfamosing",
-      en: "Mfamosing Cement Plant"
-    },
+      en: "Mfamosing Cement Plant",
+image: "/poi-images/mfamosing-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Eine hochmoderne Zementproduktionsstätte in Cross River State, die von LafargeHolcim betrieben wird.",
       hu: "Korszerű cementgyártó üzem Cross River államban, amelyet a LafargeHolcim üzemeltet.",
@@ -906,8 +931,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "BUA Zementwerk Sokoto",
       hu: "BUA Cementgyár Sokoto",
       ro: "Fabrica de Ciment BUA Sokoto",
-      en: "BUA Cement Sokoto"
-    },
+      en: "BUA Cement Sokoto",
+image: "/poi-images/bua-cement-sokoto-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Zementwerk in Nordwest-Nigeria, das eine Schlüsselrolle für die Infrastrukturentwicklung der Region spielt.",
       hu: "Jelentős cementgyár Északnyugat-Nigériában, amely kulcsszerepet játszik a régió infrastruktúra-fejlesztésében.",
@@ -942,8 +968,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Ashaka Zementwerk",
       hu: "Ashaka Cementgyár",
       ro: "Fabrica de Ciment Ashaka",
-      en: "Ashaka Cement Plant"
-    },
+      en: "Ashaka Cement Plant",
+image: "/poi-images/lafarge-ashaka-cement-economic-v2.webp"
+},
     description: {
       de: "Bekannt als 'Der Star des Nordens', versorgt dieses Werk den Nordosten Nigerias mit Zement.",
       hu: "Az 'Észak Csillaga' néven is ismert gyár Nigéria északkeleti részét látja el cementtel.",
@@ -978,8 +1005,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Zementwerk Ewekoro",
       hu: "Ewekoro Cementgyár",
       ro: "Fabrica de Ciment Ewekoro",
-      en: "Ewekoro Cement Plant"
-    },
+      en: "Ewekoro Cement Plant",
+image: "/poi-images/ewekoro-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Das älteste Zementwerk Nigerias, das noch in Betrieb ist und eine wichtige historische Rolle in der Bauindustrie spielt.",
       hu: "Nigéria legrégebbi, még mindig üzemelő cementgyára, amely fontos történelmi szerepet játszik az építőiparban.",
@@ -1014,8 +1042,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Zementwerk Okpella",
       hu: "Okpella Cementgyár",
       ro: "Fabrica de Ciment Okpella",
-      en: "Okpella Cement Plant"
-    },
+      en: "Okpella Cement Plant",
+image: "/poi-images/okpella-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein Zementwerk im Bundesstaat Edo, das in den letzten Jahren wiederbelebt und modernisiert wurde.",
       hu: "Cementgyár Edo államban, amelyet az elmúlt években újjáélesztettek és modernizáltak.",
@@ -1050,8 +1079,9 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       de: "Aluminiumhütte ALSCON",
       hu: "ALSCON Alumíniumkohó",
       ro: "Topitoria de Aluminiu ALSCON",
-      en: "ALSCON Smelter"
-    },
+      en: "ALSCON Smelter",
+image: "/poi-images/alscon-smelter-economic-v2.webp"
+},
     description: {
       de: "Ein großes Aluminiumwerk in Ikot Abasi, entworfen um die enormen Erdgasreserven der Region industriell zu nutzen.",
       hu: "Nagy alumíniumüzem Ikot Abasiban, amelyet úgy terveztek, hogy a régió hatalmas földgáztartalékait iparilag hasznosítsa.",

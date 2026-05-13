@@ -1,4 +1,4 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninNatureV2: POI[] = [
@@ -11,8 +11,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Ouémé",
       hu: "Ouémé-folyó",
       ro: "Râul Ouémé",
-      en: "Ouémé River"
-    },
+      en: "Ouémé River",
+image: "/poi-images/oueme-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Ouémé ist der längste Fluss Benins und spielt eine zentrale Rolle für die Landwirtschaft und das Ökosystem im Süden des Landes. Er fließt durch abwechslungsreiche Landschaften und mündet schließlich in die Nokoué-Lagune. Die fruchtbaren Uferbereiche werden intensiv landwirtschaftlich genutzt, insbesondere für den Reisanbau. Die Region entlang des Flusses ist zudem Lebensraum für eine Vielzahl von Tier- und Pflanzenarten. Geografie K7 — Flüsse und Wasserwege."
     },
@@ -41,8 +42,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Niger (Benin-Abschnitt)",
       hu: "Niger-folyó (benini szakasz)",
       ro: "Fluviul Niger (sectorul Benin)",
-      en: "Niger River (Benin section)"
-    },
+      en: "Niger River (Benin section)",
+image: "/poi-images/niger-river-benin-nature-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Niger-Fluss bildet einen Teil der nördlichen Grenze Benins und ist eine lebenswichtige Ressource für die gesamte Region. Er verbindet Benin mit seinen Nachbarländern und ist von großer Bedeutung für den regionalen Handel und die Fischerei. Die Landschaften entlang des Nigers in Benin sind durch ausgedehnte Savannen und eine reiche Tierwelt geprägt. Sachkunde K6 — Die großen Flüsse Afrikas."
     },
@@ -71,8 +73,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Pendjari",
       hu: "Pendjari-folyó",
       ro: "Râul Pendjari",
-      en: "Pendjari River"
-    },
+      en: "Pendjari River",
+image: "/poi-images/pendjari-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Pendjari-Fluss ist das Herzstück des Pendjari-Nationalparks im Norden Benins. Er ist eine unverzichtbare Wasserquelle für die vielfältige Tierwelt des Parks, darunter Löwen, Elefanten und zahlreiche Antilopenarten. Während der Trockenzeit konzentriert sich das Leben der Wildtiere entlang der Flussläufe, was den Pendjari zu einem der besten Orte für Naturbeobachtungen in Westafrika macht. Biologie K6 — Wildtiere und Habitate."
     },
@@ -101,8 +104,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Mékrou",
       hu: "Mékrou-folyó",
       ro: "Râul Mékrou",
-      en: "Mékrou River"
-    },
+      en: "Mékrou River",
+image: "/poi-images/mekrou-river-nature-v2.webp"
+},
     description: {
       de: "Der Mékrou ist ein Nebenfluss des Niger, der durch den W-Nationalpark im Norden Benins fließt.",
       hu: "A Mékrou a Niger mellékfolyója, amely a W Nemzeti Parkon folyik keresztül Benin északi részén.",
@@ -124,8 +128,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Sota",
       hu: "Sota-folyó",
       ro: "Râul Sota",
-      en: "Sota River"
-    },
+      en: "Sota River",
+image: "/poi-images/sota-river-nature-v2.webp"
+},
     description: {
       de: "Der Sota ist ein rechter Nebenfluss des Niger im Norden Benins, bekannt für seine Bedeutung für die Landwirtschaft.",
       hu: "A Sota a Niger jobb oldali mellékfolyója Benin északi részén, amely jelentős a mezőgazdaság számára.",
@@ -147,8 +152,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Alibori",
       hu: "Alibori-folyó",
       ro: "Râul Alibori",
-      en: "Alibori River"
-    },
+      en: "Alibori River",
+image: "/poi-images/alibori-river-nature-v2.webp"
+},
     description: {
       de: "Der Alibori ist ein Nebenfluss des Niger im Nordosten Benins, der der gleichnamigen Provinz ihren Namen gab.",
       hu: "Az Alibori a Niger mellékfolyója Benin északkeleti részén, amelyről az Alibori megye a nevét kapta.",
@@ -170,8 +176,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Couffo",
       hu: "Couffo-folyó",
       ro: "Râul Couffo",
-      en: "Couffo River"
-    },
+      en: "Couffo River",
+image: "/poi-images/couffo-river-nature-v2.webp"
+},
     description: {
       de: "Der Couffo ist ein Fluss im Südwesten Benins, der in den Ahémé-See mündet.",
       hu: "A Couffo folyó a délnyugati régió fontos vízfolyása, amely táplálja a környező vizes élőhelyeket és a mezőgazdasági területeket.",
@@ -193,8 +200,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Mono",
       hu: "Mono-folyó",
       ro: "Râul Mono",
-      en: "Mono River"
-    },
+      en: "Mono River",
+image: "/poi-images/mono-river-nature-v2.webp"
+},
     description: {
       de: "Der Mono markiert die Grenze zwischen Benin und Togo im Süden und mündet in den Golf von Guinea.",
       hu: "A Mono folyó alkotja Benin és Togo határát délen, és a Guineai-öbölbe torkollik.",
@@ -216,8 +224,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lake Nokoué",
       hu: "Nokoué-tó",
       ro: "Lacul Nokoué",
-      en: "Lake Nokoué"
-    },
+      en: "Lake Nokoué",
+image: "/poi-images/lake-nokoue-nature-v2.webp"
+},
     description: {
       de: "Der Nokoué-See ist die größte Lagune Benins, gelegen nördlich der Hauptstadt Cotonou.",
       hu: "A Nokoué-tó Benin legnagyobb lagúnája, Cotonou városától északra.",
@@ -239,8 +248,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lake Ahémé",
       hu: "Ahémé-tó",
       ro: "Lacul Ahémé",
-      en: "Lake Ahémé"
-    },
+      en: "Lake Ahémé",
+image: "/poi-images/lake-aheme-nature-v2.webp"
+},
     description: {
       de: "Der Ahémé-See ist eine bedeutende Lagune im Südwesten Benins, bekannt für seinen Fischreichtum.",
       hu: "Az Ahémé-tó jelentős lagúna Benin délnyugati részén, amely gazdag halállományáról ismert.",
@@ -262,8 +272,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lagune von Porto-Novo",
       hu: "Porto-Novo-i lagúna",
       ro: "Laguna Porto-Novo",
-      en: "Porto-Novo Lagoon"
-    },
+      en: "Porto-Novo Lagoon",
+image: "/poi-images/porto-novo-lagoon-nature-v2.webp"
+},
     description: {
       de: "Die Lagune von Porto-Novo erstreckt sich entlang der Hauptstadt Benins und verbindet den Ouémé-Fluss mit der nigerianischen Grenze.",
       hu: "A Porto-Novo-i lagúna Benin fővárosa mentén húzódik, összekötve az Ouémé-folyót a nigériai határral.",
@@ -285,8 +296,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lagune von Cotonou",
       hu: "Cotonou-i lagúna",
       ro: "Laguna Cotonou",
-      en: "Cotonou Lagoon"
-    },
+      en: "Cotonou Lagoon",
+image: "/poi-images/cotonou-lagoon-nature-v2.webp"
+},
     description: {
       de: "Die Lagune von Cotonou ist ein Wasserweg, der den Nokoué-See mit dem Atlantischen Ozean verbindet.",
       hu: "A Cotonou-i lagúna egy vízi út, amely a Nokoué-tavat köti össze az Atlanti-óceánnal.",
@@ -308,8 +320,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lake Toho",
       hu: "Toho-tó",
       ro: "Lacul Toho",
-      en: "Lake Toho"
-    },
+      en: "Lake Toho",
+image: "/poi-images/lake-toho-nature-v2.webp"
+},
     description: {
       de: "Der Toho-See ist ein kleinerer See im Südwesten Benins, nahe der Grenze zu Togo.",
       hu: "A Toho-tó egy kisebb tó Benin délnyugati részén, a togói határ közelében.",
@@ -331,8 +344,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Atakora-Gebirge",
       hu: "Atakora-hegység",
       ro: "Munții Atakora",
-      en: "Atakora Mountains"
-    },
+      en: "Atakora Mountains",
+image: "/poi-images/atakora-mountains-nature-v2.webp"
+},
     description: {
       de: "Das Atakora-Gebirge ist ein Mittelgebirge im Nordwesten Benins und die wichtigste Bergregion des Landes.",
       hu: "Az Atakora-hegység egy középhegység Benin északnyugati részén, az ország legfontosabb hegyvidéke.",
@@ -354,8 +368,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Mont Sokbaro",
       hu: "Sokbaro-hegy",
       ro: "Muntele Sokbaro",
-      en: "Mont Sokbaro"
-    },
+      en: "Mont Sokbaro",
+image: "/poi-images/mont-sokbaro-nature-v2.webp"
+},
     description: {
       de: "Der Mont Sokbaro gilt traditionell als der höchste Berg Benins an der Grenze zu Togo.",
       hu: "A Sokbaro-hegyet hagyományosan Benin legmagasabb hegyének tekintik a togói határon.",
@@ -377,8 +392,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Mont Tanékas",
       hu: "Tanékas-hegy",
       ro: "Muntele Tanékas",
-      en: "Mont Tanékas"
-    },
+      en: "Mont Tanékas",
+image: "/poi-images/mont-tanekas-nature-v2.webp"
+},
     description: {
       de: "Der Mont Tanékas ist eine markante Erhebung im Norden Benins, bekannt für seine kulturelle Bedeutung.",
       hu: "A Tanékas-hegy egy jellegzetes magaslat Benin északi részén, amely kulturális jelentőségéről ismert.",
@@ -400,8 +416,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Heiliger Wald von Kpassè",
       hu: "Kpassè szent erdő",
       ro: "Pădurea Sacră din Kpassè",
-      en: "Sacred Forest of Kpassè"
-    },
+      en: "Sacred Forest of Kpassè",
+image: "/poi-images/sacred-forest-kpasse-nature-v2.webp"
+},
     description: {
       de: "Der Heilige Wald von Kpassè in Ouidah ist ein wichtiges spirituelles und ökologisches Zentrum der Voodoo-Kultur.",
       hu: "Az uidahi Kpassè szent erdő a vudu kultúra egyik fontos spirituális és ökológiai központja.",
@@ -423,8 +440,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Niaouli-Wald",
       hu: "Niaouli-erdő",
       ro: "Pădurea Niaouli",
-      en: "Niaouli Forest"
-    },
+      en: "Niaouli Forest",
+image: "/poi-images/niaouli-forest-nature-v2.webp"
+},
     description: {
       de: "Der Niaouli-Wald ist ein forstwirtschaftliches Forschungsgebiet und ein wichtiges Waldfragment im Süden Benins.",
       hu: "A Niaouli-erdő egy erdészeti kutatási terület és fontos erdőmaradvány Benin déli részén.",
@@ -446,8 +464,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lama-Wald",
       hu: "Lama-erdő",
       ro: "Pădurea Lama",
-      en: "Lama Forest"
-    },
+      en: "Lama Forest",
+image: "/poi-images/lama-forest-nature-v2.webp"
+},
     description: {
       de: "Der Lama-Wald ist einer der letzten verbliebenen Primärwälder Benins, gelegen in einer Senke im Zentrum des Landes.",
       hu: "A Lama-erdő Benin egyik utolsó megmaradt őserdeje, amely az ország központi részén, egy mélyedésben található.",
@@ -469,8 +488,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Golf von Guinea",
       hu: "Guineai-öböl",
       ro: "Golful Guineei",
-      en: "Gulf of Guinea"
-    },
+      en: "Gulf of Guinea",
+image: "/poi-images/gulf-of-guinea-benin-nature-v2.webp"
+},
     description: {
       de: "Der Golf von Guinea bildet die gesamte Südküste Benins und ist Teil des tropischen Atlantiks.",
       hu: "A Guineai-öböl alkotja Benin teljes déli partvidékét, és a trópusi Atlanti-óceán része.",
@@ -492,8 +512,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Bucht von Benin",
       hu: "Benini-öböl",
       ro: "Golful Benin",
-      en: "Bight of Benin"
-    },
+      en: "Bight of Benin",
+image: "/poi-images/bight-of-benin-nature-v2.webp"
+},
     description: {
       de: "Die Bucht von Benin ist ein großer Meeresarm im Norden des Golfs von Guinea, an dem Benin liegt.",
       hu: "A Benini-öböl a Guineai-öböl északi részén található nagy tengeröböl, amelynél Benin fekszik.",
@@ -515,8 +536,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Togodo-Wald",
       hu: "Togodo-erdő",
       ro: "Pădurea Togodo",
-      en: "Togodo Forest"
-    },
+      en: "Togodo Forest",
+image: "/poi-images/togodo-forest-nature-v2.webp"
+},
     description: {
       de: "Der Togodo-Wald ist ein grenzüberschreitendes Waldgebiet im Südwesten Benins, nahe dem Mono-Fluss.",
       hu: "A Togodo-erdő egy határokon átnyúló erdőterület Benin délnyugati részén, a Mono-folyó közelében.",
@@ -538,8 +560,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Sô",
       hu: "Sô-folyó",
       ro: "Râul Sô",
-      en: "Sô River"
-    },
+      en: "Sô River",
+image: "/poi-images/so-river-nature-v2.webp"
+},
     description: {
       de: "Der Sô ist ein Fluss im Süden Benins, der parallel zum Ouémé fließt und in den Nokoué-See mündet.",
       hu: "A Sô egy folyó Benin déli részén, amely az Ouémével párhuzamosan folyik és a Nokoué-tóba torkollik.",
@@ -561,8 +584,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Donga",
       hu: "Donga-folyó",
       ro: "Râul Donga",
-      en: "Donga River"
-    },
+      en: "Donga River",
+image: "/poi-images/donga-river-nature-v2.webp"
+},
     description: {
       de: "Der Donga ist ein Wasserlauf im Zentrum Benins, der die Region Donga entwässert.",
       hu: "A Donga egy vízfolyás Benin középső részén, amely a Donga régió vizét vezeti el.",
@@ -584,8 +608,9 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Lake Azili",
       hu: "Azili-tó",
       ro: "Lacul Azili",
-      en: "Lake Azili"
-    },
+      en: "Lake Azili",
+image: "/poi-images/lake-azili-nature-v2.webp"
+},
     description: {
       de: "Der Azili-See ist ein natürlicher See im Zentrum Benins, umgeben von dichten Sumpfwäldern.",
       hu: "Az Azili-tó egy természetes tó Benin középső részén, sűrű mocsári erdőkkel körülvéve.",

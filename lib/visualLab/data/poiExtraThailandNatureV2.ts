@@ -11,8 +11,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Khao Yai Nationalpark",
       hu: "Khao Yai Nemzeti Park",
       ro: "Parcul Național Khao Yai",
-      en: "Khao Yai National Park"
-    },
+      en: "Khao Yai National Park",
+image: "/poi-images/khao-yai-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein uralter Wald, der zum UNESCO-Weltkulturerbe gehört. Stell dir vor, du bist ein Entdecker, der durch einen Dschungel reist, in dem wilde Elefanten umherstreifen und Gibbons durch die Baumkronen rufen.",
       hu: "Ősi erdő, amely az UNESCO Világörökség része. Képzeld el, hogy egy felfedező vagy, aki egy olyan dzsungelen vág keresztül, ahol vad elefántok kószálnak, és gibbonok kiáltanak a fák lombkoronájában.",
@@ -46,8 +47,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Doi Inthanon Nationalpark",
       hu: "Doi Inthanon Nemzeti Park",
       ro: "Parcul Național Doi Inthanon",
-      en: "Doi Inthanon National Park"
-    },
+      en: "Doi Inthanon National Park",
+image: "/poi-images/doi-inthanon-national-park-nature-v2.webp"
+},
     description: {
       de: "Bekannt als das 'Dach Thailands'. Eine Reise hierher ist wie der Aufstieg in die Wolken, vorbei an moosbedeckten Wäldern und hin zu den Zwillingspagoden, die dem Himmel Tribut zollen.",
       hu: "Thaiföld 'tetejeként' ismert. Egy utazás ide olyan, mintha a fellegekbe emelkednél, elhaladva mohával borított erdők mellett, az égnek tisztelegő ikerpagodák felé.",
@@ -81,8 +83,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Erawan Nationalpark",
       hu: "Erawan Nemzeti Park",
       ro: "Parcul Național Erawan",
-      en: "Erawan National Park"
-    },
+      en: "Erawan National Park",
+image: "/poi-images/erawan-national-park-nature-v2.webp"
+},
     description: {
       de: "Berühmt für seinen siebenstufigen Wasserfall, der einem mythischen Elefanten ähnelt. Das Wasser fällt in smaragdgrüne Becken, die außerirdische Entdecker zum Eintauchen und Nachdenken über die Schwerkraft einladen.",
       hu: "Híres a hétszintes vízeséséről, amely egy mitikus elefántra hasonlít. A víz smaragdzöld medencékbe zuhan, amelyek arra csábítják a földönkívüli felfedezőket, hogy elmerüljenek és elgondolkodjanak a gravitáción.",
@@ -116,8 +119,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Khao Sok Nationalpark",
       hu: "Khao Sok Nemzeti Park",
       ro: "Parcul Național Khao Sok",
-      en: "Khao Sok National Park"
-    },
+      en: "Khao Sok National Park",
+image: "/poi-images/khao-sok-national-park-nature-v2.webp"
+},
     description: {
       de: "Eine Landschaft aus hoch aufragenden Kalksteinfelsen und einem uralten Regenwald, der älter ist als der Amazonas. Das Herzstück ist der Cheow Lan See, ein smaragdgrünes Reservoir, das wie ein außerirdisches Meer aussieht.",
       hu: "Hatalmas mészkősziklák és egy, az Amazonas-medencénél is idősebb ősi esőerdő tája. Központjában a Cheow Lan-tó található, egy smaragdszínű víztározó, amely egy földönkívüli tengerre emlékeztet.",
@@ -151,8 +155,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Mu Ko Similan Nationalpark",
       hu: "Mu Ko Similan Nemzeti Park",
       ro: "Parcul Național Mu Ko Similan",
-      en: "Mu Ko Similan National Park"
-    },
+      en: "Mu Ko Similan National Park",
+image: "/poi-images/mu-ko-similan-national-park-nature-v2.webp"
+},
     description: {
       de: "Eine Ansammlung von Inseln in der Andamanensee, die wie Juwelen auf einem blauen Tuch verstreut sind. Unter der Oberfläche befindet sich eine Unterwassergalaxie aus Korallenriffen und Meereslebewesen, die Taucher aus dem ganzen Universum anzieht.",
       hu: "Szigetek csoportja az Andamán-tengeren, szétszórva, mint drágakövek egy kék szöveten. A felszín alatt korallzátonyok és tengeri élőlények víz alatti galaxisa található, amely vonzza a búvárokat az egész univerzumból.",
@@ -186,8 +191,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Ao Phang Nga Nationalpark",
       hu: "Ao Phang Nga Nemzeti Park",
       ro: "Parcul Național Ao Phang Nga",
-      en: "Ao Phang Nga National Park"
-    },
+      en: "Ao Phang Nga National Park",
+image: "/poi-images/ao-phang-nga-national-park-nature-v2.webp"
+},
     description: {
       de: "Eine Bucht, die mit smaragdgrünen Kalksteintürmen übersät ist, die senkrecht aus dem Wasser ragen. Ein Raumschiff, das hier navigiert, würde sich fühlen, als würde es durch eine versteinerte außerirdische Flotte fliegen. Berühmt für 'James Bond Island'.",
       hu: "Egy öböl, amelyet a vízből függőlegesen kiemelkedő smaragdzöld mészkőtornyok tarkítanak. Egy itt navigáló űrhajó úgy érezné, mintha egy megkövesedett idegen flotta között repülne. Híres a 'James Bond-szigetről'.",
@@ -221,8 +227,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Doi Chiang Dao",
       hu: "Doi Chiang Dao",
       ro: "Doi Chiang Dao",
-      en: "Doi Chiang Dao"
-    },
+      en: "Doi Chiang Dao",
+image: "/poi-images/doi-chiang-dao-mountain-nature-v2.webp"
+},
     description: {
       de: "Ein massiver Kalksteinmonolith, der als 'Stadt der Sterne' bekannt ist. Der Aufstieg fühlt sich an wie eine Pilgerreise zu einem Observatorium, das von einer alten Zivilisation erbaut wurde, mit einem atemberaubenden Blick auf ein Meer von Wolken.",
       hu: "Egy hatalmas mészkő monolit, amelyet a 'Csillagok Városának' neveznek. A megmászása olyan, mint egy zarándoklat egy ősi civilizáció által épített csillagvizsgálóhoz, ahonnan lélegzetelállító kilátás nyílik a felhők tengerére.",
@@ -256,8 +263,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Chao Phraya Fluss",
       hu: "Csaophraja",
       ro: "Râul Chao Phraya",
-      en: "Chao Phraya River"
-    },
+      en: "Chao Phraya River",
+image: "/poi-images/chao-phraya-river-nature-v2.webp"
+},
     description: {
       de: "Die Hauptschlagader Thailands, ein kosmischer Fluss, der durch das Herz von Bangkok fließt. Eine Reise auf diesem Fluss ist wie eine Zeitreise, vorbei an alten Tempeln und modernen Wolkenkratzern, die wie Wächter am Ufer stehen.",
       hu: "Thaiföld ütőere, egy kozmikus folyó, amely Bangkok szívén folyik keresztül. Egy utazás ezen a folyón időutazással ér fel, elhaladva ősi templomok és modern felhőkarcolók mellett, amelyek őrszemként állnak a partokon.",
@@ -291,8 +299,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Cheow Lan See",
       hu: "Cheow Lan-tó",
       ro: "Lacul Cheow Lan",
-      en: "Cheow Lan Lake"
-    },
+      en: "Cheow Lan Lake",
+image: "/poi-images/cheow-lan-lake-nature-v2.webp"
+},
     description: {
       de: "Ein künstlicher See, der wie eine verlorene Welt wirkt. Smaragdgrünes Wasser umgibt Hunderte von Kalksteinfelsen, die wie Türme einer versunkenen Zivilisation aussehen. Hier zu übernachten, ist wie auf einem fremden Wasserplaneten zu campen.",
       hu: "Egy mesterséges tó, amely egy elveszett világ benyomását kelti. Smaragdzöld víz veszi körül a több száz mészkősziklát, amelyek egy elsüllyedt civilizáció tornyainak tűnnek. Itt éjszakázni olyan, mint egy idegen vízibolygón táborozni.",
@@ -326,8 +335,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Songkhla See",
       hu: "Szongkhla-tó",
       ro: "Lacul Songkhla",
-      en: "Songkhla Lake"
-    },
+      en: "Songkhla Lake",
+image: "/poi-images/songkhla-lake-nature-v2.webp"
+},
     description: {
       de: "Die größte natürliche Lagune in Thailand, ein komplexes System, in dem Süß- und Salzwasser aufeinandertreffen. Es ist, als würde man ein riesiges aquatisches Labor erkunden, in dem zwei verschiedene planetarische Atmosphären in einem einzigartigen Ökosystem verschmelzen.",
       hu: "Thaiföld legnagyobb természetes lagúnája, egy komplex rendszer, ahol az édes- és a sósvíz találkozik. Olyan, mintha egy hatalmas vízi laboratóriumot fedeznénk fel, ahol két különböző bolygó légköre olvad össze egy egyedi ökoszisztémában.",
@@ -361,8 +371,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Kaeng Krachan Nationalpark",
       hu: "Kaeng Krachan Nemzeti Park",
       ro: "Parcul Național Kaeng Krachan",
-      en: "Kaeng Krachan National Park"
-    },
+      en: "Kaeng Krachan National Park",
+image: "/poi-images/kaeng-krachan-national-park-nature-v2.webp"
+},
     description: {
       de: "Thailands größter Nationalpark, eine riesige Wildnis an der Grenze zu Myanmar. Eine Erkundung hier ist wie der Eintritt in eine verlorene Welt, bekannt für ihre dichten Nebelmeere am Morgen und eine unglaubliche Vielfalt an Schmetterlingen.",
       hu: "Thaiföld legnagyobb nemzeti parkja, egy hatalmas vadon Mianmar határán. Felfedezése olyan, mintha egy elveszett világba lépnénk, amely a reggeli sűrű ködtengereiről és a lepkék hihetetlen sokféleségéről ismert.",
@@ -396,8 +407,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Mu Ko Ang Thong Nationalpark",
       hu: "Mu Ko Ang Thong Nemzeti Park",
       ro: "Parcul Național Marin Mu Ko Ang Thong",
-      en: "Mu Ko Ang Thong National Marine Park"
-    },
+      en: "Mu Ko Ang Thong National Marine Park",
+image: "/poi-images/mu-ko-ang-thong-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Archipel aus 42 Inseln im Golf von Thailand. Es fühlt sich an, als würde man eine Miniatur-Planetenkette entdecken, jede Insel eine eigene Welt mit versteckten Lagunen, wie dem berühmten Smaragdsee (Thale Nai).",
       hu: "Egy 42 szigetből álló szigetcsoport a Thai-öbölben. Olyan érzés, mintha egy miniatűr bolygóláncot fedeznénk fel, minden sziget egy külön világ rejtett lagúnákkal, mint például a híres Smaragd-tó (Thale Nai).",
@@ -431,8 +443,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Mekong Fluss (Thailand)",
       hu: "Mekong (thaiföldi szakasz)",
       ro: "Râul Mekong (Thailanda)",
-      en: "Mekong River (Thailand)"
-    },
+      en: "Mekong River (Thailand)",
+image: "/poi-images/mekong-river-thailand-nature-v2.webp"
+},
     description: {
       de: "Eine Lebensader Südostasiens, die die Grenze zwischen Thailand und Laos bildet. Die Reise entlang dieses galaktischen Stroms offenbart eine Welt aus schwimmenden Märkten, ländlichem Leben und dem schwer fassbaren Riesenwels, einem wahren Flussmonster.",
       hu: "Délkelet-Ázsia életvonala, amely határt képez Thaiföld és Laosz között. Az utazás ezen a galaktikus folyamon egy olyan világot tár fel, amely úszó piacokból, vidéki életből és a megfoghatatlan óriás harcsából, egy igazi folyami szörnyetegből áll.",
@@ -466,8 +479,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Phu Kradueng Nationalpark",
       hu: "Phu Kradueng Nemzeti Park",
       ro: "Parcul Național Phu Kradueng",
-      en: "Phu Kradueng National Park"
-    },
+      en: "Phu Kradueng National Park",
+image: "/poi-images/phu-kradueng-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein glockenförmiger Berg mit einem riesigen Plateau an der Spitze. Der Aufstieg ist eine Herausforderung, die Entdecker mit einer kühlen, savannenartigen Landschaft belohnt, die sich von allen anderen in Thailand unterscheidet, als ob man auf einem anderen Planeten gelandet wäre.",
       hu: "Egy harang alakú hegy, amelynek tetején egy hatalmas fennsík található. A mászás kihívást jelent, de a felfedezőket egy hűvös, szavannaszerű tájjal jutalmazza, amely semmi máshoz nem hasonlítható Thaiföldön, mintha egy másik bolygóra érkeztünk volna.",
@@ -501,8 +515,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Mae Klong Fluss",
       hu: "Mae Klong-folyó",
       ro: "Râul Mae Klong",
-      en: "Mae Klong River"
-    },
+      en: "Mae Klong River",
+image: "/poi-images/mae-klong-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der berühmt ist für ein bizarres und doch faszinierendes Phänomen: einen Markt, der direkt auf den Eisenbahnschienen stattfindet. Wenn ein Zug kommt, packen die Verkäufer ihre Stände in Sekundenschnelle zusammen – eine einzigartige Anpassung des Lebens an die Technologie.",
       hu: "Egy folyó, amely egy bizarr, mégis lenyűgöző jelenségről híres: egy piacról, amely közvetlenül a vasúti síneken működik. Amikor jön a vonat, az árusok másodpercek alatt összecsomagolják a standjaikat – az élet és a technológia egyedülálló adaptációja.",
@@ -536,8 +551,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Khao Sam Roi Yot Nationalpark",
       hu: "Khao Sam Roi Yot Nemzeti Park",
       ro: "Parcul Național Khao Sam Roi Yot",
-      en: "Khao Sam Roi Yot National Park"
-    },
+      en: "Khao Sam Roi Yot National Park",
+image: "/poi-images/khao-sam-roi-yot-national-park-nature-v2.webp"
+},
     description: {
       de: "Bedeutet 'Berg mit 300 Gipfeln'. Dieser Küstenpark ist eine Mischung aus hoch aufragenden Kalksteinfelsen und Süßwassersümpfen. Seine verborgene Kammer, die Phraya Nakhon Höhle, beherbergt einen Pavillon, der von einem himmlischen Lichtstrahl beleuchtet wird.",
       hu: "Jelentése: 'A 300 csúcs hegye'. Ez a tengerparti park magasba törő mészkősziklák és édesvízi mocsarak keveréke. Rejtett kamrája, a Phraya Nakhon-barlang, egy pavilont rejt, amelyet egy mennyei fénysugár világít meg.",
@@ -571,8 +587,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Bueng Boraphet",
       hu: "Bueng Boraphet",
       ro: "Lacul Bueng Boraphet",
-      en: "Bueng Boraphet"
-    },
+      en: "Bueng Boraphet",
+image: "/poi-images/bueng-boraphet-lake-nature-v2.webp"
+},
     description: {
       de: "Das größte Süßwasser-Sumpfgebiet in Thailand, ein riesiges aquatisches Reich. Für einen interstellaren Biologen wäre dies ein Paradies, ein riesiger Petrischale, die von saisonalen Migrationen von Tausenden von Wasservögeln wimmelt.",
       hu: "Thaiföld legnagyobb édesvízi mocsara, egy hatalmas vízi birodalom. Egy csillagközi biológus számára ez a paradicsom lenne, egy hatalmas Petri-csésze, amelyben több ezer vízimadár szezonális vándorlása zajlik.",
@@ -606,8 +623,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Khao Mokochu",
       hu: "Khao Mokochu",
       ro: "Muntele Khao Mokochu",
-      en: "Khao Mokochu"
-    },
+      en: "Khao Mokochu",
+image: "/poi-images/khao-mokochu-mountain-nature-v2.webp"
+},
     description: {
       de: "Einer der anspruchsvollsten Gipfel Thailands, versteckt im Mae Wong Nationalpark. Die Reise dorthin ist eine mehrtägige Expedition durch dichten Dschungel, als ob man zum geheimen Versteck einer vergessenen Zivilisation reist. Der Gipfel wird oft von Wolken verdeckt.",
       hu: "Thaiföld egyik legnehezebben megközelíthető csúcsa, a Mae Wong Nemzeti Parkban elrejtve. Az odajutás egy többnapos expedíció sűrű dzsungelen keresztül, mintha egy elfeledett civilizáció titkos rejtekhelyére utaznánk. A csúcsot gyakran felhők takarják.",
@@ -641,8 +659,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Doi Suthep-Pui Nationalpark",
       hu: "Doi Suthep-Pui Nemzeti Park",
       ro: "Parcul Național Doi Suthep-Pui",
-      en: "Doi Suthep-Pui National Park"
-    },
+      en: "Doi Suthep-Pui National Park",
+image: "/poi-images/doi-suthep-pui-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Bergheiligtum, das die Stadt Chiang Mai überblickt. Es beherbergt den verehrten Tempel Wat Phra That Doi Suthep. Für einen außerirdischen Besucher ist dies ein Ort, an dem spirituelle Energie und natürliche Kraft in den nebligen Höhen verschmelzen.",
       hu: "Egy hegyi szentély, amely Chiang Mai városára néz. Itt található a tisztelt Wat Phra That Doi Suthep templom. Egy földönkívüli látogató számára ez egy olyan hely, ahol a spirituális energia és a természeti erő összeolvad a ködös magasságokban.",
@@ -676,8 +695,9 @@ export const poiExtraThailandNatureV2: POI[] = [
       de: "Kui Buri Nationalpark",
       hu: "Kui Buri Nemzeti Park",
       ro: "Parcul Național Kui Buri",
-      en: "Kui Buri National Park"
-    },
+      en: "Kui Buri National Park",
+image: "/poi-images/kui-buri-national-park-nature-v2.webp"
+},
     description: {
       de: "Einer der besten Orte in Asien, um wilde Elefanten in ihrem natürlichen Lebensraum zu beobachten. Eine Safari hier ist wie die Beobachtung von sanften Riesen, die frei auf einem fremden Planeten umherziehen, ein Zeugnis für erfolgreiche Erhaltungsbemühungen.",
       hu: "Ázsia egyik legjobb helye a vadon élő elefántok természetes élőhelyükön való megfigyelésére. Egy szafari itt olyan, mintha szelíd óriásokat figyelnénk meg, amint szabadon vándorolnak egy idegen bolygón, ami a sikeres természetvédelmi erőfeszítések bizonyítéka.",

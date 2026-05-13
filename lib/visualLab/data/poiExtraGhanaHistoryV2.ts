@@ -6,7 +6,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.2361, 5.1036],
-    name: {"de": "Cape Coast Castle", "hu": "Cape Coast-i vár", "ro": "Castelul Cape Coast", "en": "Cape Coast Castle"},
+    name: {"de": "Cape Coast Castle", "hu": "Cape Coast-i vár", "ro": "Castelul Cape Coast", "en": "Cape Coast Castle",
+image: "/poi-images/cape-coast-castle-history-v2.webp"
+},
     description: {"de": "Eine der bedeutendsten Sklavenburgen an der Goldküste, die im 17. Jahrhundert von Schweden errichtet und später zum britischen Hauptquartier wurde.", "hu": "Az 1650-es években épült erőd a transzatlanti rabszolgakereskedelem egyik központja volt.", "ro": "Un castel istoric impunător situat pe coasta Ghanei, folosit anterior în comerțul transatlantice cu sclavi.", "en": "A historic colonial fortress used during the trans-Atlantic slave trade. It remains a somber monument to the victims of this era."},
     facts: {"de": ["Gegründet im Jahr 1653", "UNESCO-Welterbe seit 1979", "Zentrum des transatlantischen Sklavenhandels", "Sitz des britischen Gouverneurs bis 1877"], "hu": ["UNESCO világörökségi helyszín", "Svéd kereskedők alapították", "Többször cserélt gazdát", "Múzeumként üzemel ma"], "ro": ["Construit de suedezi în 1653", "Sediul guvernului britanic până în 1877", "Inclus în Patrimoniul Mondial UNESCO"], "en": ["Built by Swedish traders in 1653", "UNESCO World Heritage site", "Served as seat of British colonial power", "Features the infamous 'Door of No Return'"]},
     descriptionAdvanced: {
@@ -27,7 +29,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.3486, 5.0825],
-    name: {"de": "Elmina Castle", "hu": "Elmina vára", "ro": "Castelul Elmina", "en": "Elmina Castle"},
+    name: {"de": "Elmina Castle", "hu": "Elmina vára", "ro": "Castelul Elmina", "en": "Elmina Castle",
+image: "/poi-images/elmina-castle-history-v2.webp"
+},
     description: {"de": "Das älteste europäische Bauwerk in Subsahara-Afrika, 1482 von den Portugiesen als befestigter Posten für den Goldhandel erbaut.", "hu": "A portugálok által 1482-ben alapított építmény a legrégebbi európai erődítmény a térségben.", "ro": "Construit de portughezi în secolul al XV-lea, este cea mai veche structură europeană din Africa subsahariană. A funcționat ca centru comercial pentru aur și sclavi.", "en": "The oldest European building in sub-Saharan Africa, established to facilitate trade. It stands as a significant site of memory for the slave trade."},
     facts: {"de": ["Errichtet im Jahr 1482", "Ursprünglich São Jorge da Mina genannt", "Älteste europäische Festung in Westafrika", "1637 von den Niederländern erobert"], "hu": ["Eredetileg São Jorge da Mina", "Arany- és rabszolgakereskedelem", "Holland uralom alá került 1637-ben", "Sötét történeti emlékhely"], "ro": ["Construit în 1482.", "Prima așezare europeană în vestul Africii.", "Patrimoniu Mondial UNESCO.", "Localizat în orașul Elmina."], "en": ["Built by the Portuguese in 1482", "UNESCO World Heritage site", "Located in the Central Region", "Center for ivory and gold trade before slavery"]},
     descriptionAdvanced: {
@@ -47,7 +51,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AA",
     coords: [-0.1764, 5.5486],
-    name: {"de": "Osu Castle", "hu": "Osu-vár", "ro": "Castelul Osu", "en": "Osu Castle"},
+    name: {"de": "Osu Castle", "hu": "Osu-vár", "ro": "Castelul Osu", "en": "Osu Castle",
+image: "/poi-images/osu-castle-history-v2.webp"
+},
     description: {"de": "Diese in Accra gelegene Festung wurde von Dänen als Fort Christiansborg erbaut und diente jahrzehntelang als offizieller Regierungssitz Ghanas.", "hu": "A fővárosban, Accrában álló erőd sokáig a ghánai kormány központja volt.", "ro": "Cunoscut și sub numele de Fort Christiansborg, a servit drept sediu al guvernului ghanez până în 2013. A fost construit inițial de danezi pentru comerț.", "en": "Also known as Christiansborg Castle, this structure served as the administrative headquarters for Ghana for many decades."},
     facts: {"de": ["Erbaut im Jahr 1661", "Ehemaliges dänisches Hauptquartier", "Sitz der ghanaischen Regierung bis 2013", "Direkt am Golf von Guinea gelegen"], "hu": ["Dánok építették 1661-ben", "Christiansborg erőd néven is ismert", "Kormányzati épületként funkcionált", "Tengerparti elhelyezkedés"], "ro": ["Construit în 1661.", "Situat în Accra, cartierul Osu.", "A fost reședință prezidențială.", "Construit de danezi inițial."], "en": ["Built by Danes in 1661", "Overlooks the Gulf of Guinea", "Former seat of Ghanaian government", "Reflects complex colonial history"]},
     descriptionAdvanced: {
@@ -68,7 +74,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-SV",
     coords: [-1.8606, 9.2217],
-    name: {"de": "Moschee von Larabanga", "hu": "Larabanga-mecset", "ro": "Moscheea din Larabanga", "en": "Larabanga Mosque"},
+    name: {"de": "Moschee von Larabanga", "hu": "Larabanga-mecset", "ro": "Moscheea din Larabanga", "en": "Larabanga Mosque",
+image: "/poi-images/larabanga-mosque-history-v2.webp"
+},
     description: {"de": "Die im sudano-sahelischen Stil aus Lehm und Schilf errichtete Moschee gilt als die älteste in ganz Ghana und ist ein wichtiges religiöses Zentrum.", "hu": "Nyugat-Afrika egyik legidősebb szudáni stílusú mecsete a 15. századból.", "ro": "Cea mai veche moschee din Ghana, construită în stil arhitectural sudano-sahelian. Este un loc sacru important pentru comunitatea musulmană locală.", "en": "An ancient Sudanese-style mosque built from mud and wood. It is considered the oldest mosque in Ghana."},
     facts: {"de": ["Gegründet um 1421", "Älteste Moschee Westafrikas", "Beherbergt ein antikes Koran-Exemplar", "Wird als das Mekka Westafrikas bezeichnet"], "hu": ["Sárból és fából épült", "Mekkai stílusjegyek", "Kulturális zarándokhely", "Gyakori felújítást igényel"], "ro": ["Construită în 1421.", "Stil arhitectural sudano-sahelian.", "Situată în satul Larabanga.", "Restaurată periodic cu lut."], "en": ["Founded in 1421", "Known as the 'Mecca of West Africa'", "Built using mud-plaster architecture", "Holds a historic 17th-century Quran"]},
     descriptionAdvanced: {
@@ -89,7 +97,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AH",
     coords: [-1.6215, 6.6976],
-    name: {"de": "Kumasi Fort", "hu": "Kumasi erod", "ro": "Fortul Kumasi", "en": "Kumasi Fort"},
+    name: {"de": "Kumasi Fort", "hu": "Kumasi erod", "ro": "Fortul Kumasi", "en": "Kumasi Fort",
+image: "/poi-images/kumasi-fort-history-v2.webp"
+},
     description: {"de": "Dieses von den Briten Ende des 19. Jahrhunderts errichtete Fort dient heute als Militärmuseum und dokumentiert die Kolonialkriege im Aschantireich.", "hu": "Az asanti királyság szívében fekvő erőd a gyarmati ellenállás szimbóluma.", "ro": "Acest fort din Kumasi a fost construit pentru a consolida controlul britanic în regiunea Ashanti după conflictele din secolul al XIX-lea. Astăzi găzduiește un muzeu militar.", "en": "A British-built fortress designed to assert control over the Ashanti Empire. It now serves as a museum."},
     facts: {"de": ["Erbaut im Jahr 1896", "Beherbergt das Armed Forces Museum", "Aus Granit und Sandstein gefertigt", "Zentrum des Widerstands gegen die Briten"], "hu": ["1897-ben kezdték építeni", "Katonai központ volt", "Katonai múzeumnak ad otthont", "Asanti történelmi örökség"], "ro": ["Construit în 1897.", "Situat în Kumasi.", "Fost sediu administrativ.", "Acum Muzeu Militar Ashanti."], "en": ["Completed by British in 1897", "Site of the Yaa Asantewaa War", "Located near Manhyia Palace", "Provides insight into Ashanti history"]},
     descriptionAdvanced: {
@@ -110,7 +120,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AH",
     coords: [-1.6163, 6.7061],
-    name: {"de": "Manhyia Palast", "hu": "Manhyia Palota", "ro": "Palatul Manhyia", "en": "Manhyia Palace"},
+    name: {"de": "Manhyia Palast", "hu": "Manhyia Palota", "ro": "Palatul Manhyia", "en": "Manhyia Palace",
+image: "/poi-images/manhyia-palace-history-v2.webp"
+},
     description: {"de": "Der ehemalige Sitz des Asantehene in Kumasi beherbergt heute ein Museum, das die prunkvolle Geschichte und Kultur der Ashanti-Monarchie zeigt.", "hu": "Az asanti királyok rezidenciája, amely ma a nép történelmét bemutató múzeum.", "ro": "Reședința oficială a regilor Ashanti din Kumasi, construită inițial de britanici ca gest de bunăvoință. Acum este un muzeu care prezintă istoria regalității locale.", "en": "The official residence of the Asantehene, the monarch of the Ashanti people. It is a center of Ashanti culture and history."},
     facts: {"de": ["Baujahr 1925", "Residenz der Ashanti-Könige", "Offizielles Museum für Ashanti-Kultur", "Kulturzentrum für traditionelle Feste"], "hu": ["Eredetileg britek építették", "Arany díszítésű tárgyak", "Uralkodói hagyományok központja", "Kulturális turizmus célpontja"], "ro": ["Construit în 1925.", "Situat în Kumasi.", "Sediu istoric Ashanti.", "Muzeu al culturii locale."], "en": ["Opened in 1925", "Built for Asantehene Agyeman Prempeh I", "Houses the Ashanti cultural museum", "Symbol of Ashanti political continuity"]},
     descriptionAdvanced: {
@@ -131,7 +143,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.1557, 5.5165],
-    name: {"de": "Assin Manso Sklavenfluss", "hu": "Assin Manso rabszolgafolyó", "ro": "Râul Sclavilor Assin Manso", "en": "Assin Manso Slave River"},
+    name: {"de": "Assin Manso Sklavenfluss", "hu": "Assin Manso rabszolgafolyó", "ro": "Râul Sclavilor Assin Manso", "en": "Assin Manso Slave River",
+image: "/poi-images/assin-manso-slave-river-history-v2.webp"
+},
     description: {"de": "Ein heiliger Ort des Gedenkens, an dem versklavte Menschen ihr letztes Bad nahmen, bevor sie in die Küstenfestungen getrieben wurden.", "hu": "A rabszolgaútvonal egykori megállóhelye, ahol a foglyok utoljára fürödhettek.", "ro": "Locul unde sclavii capturați din nordul Ghanei făceau ultima baie în râu înainte de a fi trimiși la coasta oceanului. Un loc de reculegere și memorie.", "en": "A river where captive slaves took their final bath before the long march to the coastal dungeons. A sacred site for the African Diaspora."},
     facts: {"de": ["Ort des rituellen 'Letzten Bades'", "Zentrum für den jährlichen Emancipation Day", "Gedenkstätte für die afrikanische Diaspora", "Ehemaliger historischer Sklavenmarkt"], "hu": ["Rabszolgák fürdőhelye volt", "Emlékhely az áldozatoknak", "Kulturális megemlékezések", "Fájdalmas múltú hely"], "ro": ["Ultimul loc de baie.", "Situat în regiunea Assin.", "Loc de pelerinaj istoric.", "Simbol al traumei sclaviei."], "en": ["Historical transit point for captives", "Features a memorial wall of return", "Located in Central Region", "Significant site for spiritual healing"]},
     descriptionAdvanced: {
@@ -151,7 +165,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-TV",
     coords: [0.9856, 5.9208],
-    name: {"de": "Fort Prinzenstein", "hu": "Fort Prinzenstein", "ro": "Fortul Prinzenstein", "en": "Fort Prinzenstein"},
+    name: {"de": "Fort Prinzenstein", "hu": "Fort Prinzenstein", "ro": "Fortul Prinzenstein", "en": "Fort Prinzenstein",
+image: "/poi-images/fort-prinzenstein-history-v2.webp"
+},
     description: {"de": "Ein 1784 von Dänen in Keta erbautes Fort, das als Sklavenmarkt diente und heute durch die fortschreitende Küstenerosion bedroht ist.", "hu": "Keta városában található, egykori dán erőd, amely a rabszolgakereskedelemhez kapcsolódott.", "ro": "Singurul fort danez situat la est de râul Volta, construit pentru a supraveghea comerțul cu sclavi din zona Keta. Ruinele sale sunt astăzi o atracție istorică.", "en": "A historic fort in Keta, originally built by Danes as a slave trading post. Much of it has been reclaimed by the Atlantic Ocean."},
     facts: {"de": ["Baujahr 1784", "Einzige dänische Festung östlich der Volta", "Stark durch Meereserosion gefährdet", "Diente im 19. Jahrhundert als Gefängnis"], "hu": ["1784-ben épült", "Kereskedelmi központ", "Tengeri erózió károsította", "Történelmi romterület"], "ro": ["Construit în 1784.", "Situat în Keta.", "Fost punct danez.", "Parțial afectat de eroziune."], "en": ["Constructed by Danish in 1784", "Located in Volta Region", "Used for slave and goods trade", "Remains vulnerable to coastal erosion"]},
     descriptionAdvanced: {
@@ -172,7 +188,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-WP",
     coords: [-1.6053, 5.0069],
-    name: {"de": "Fort San Sebastian", "hu": "Fort San Sebastian", "ro": "Fortul San Sebastian", "en": "Fort San Sebastian"},
+    name: {"de": "Fort San Sebastian", "hu": "Fort San Sebastian", "ro": "Fortul San Sebastian", "en": "Fort San Sebastian",
+image: "/poi-images/fort-san-sebastian-history-v2.webp"
+},
     description: {"de": "Das drittälteste Fort in Ghana wurde von Portugiesen in Shama gegründet und zeugt von der frühen europäischen Präsenz an der Goldküste.", "hu": "Shama településnél épült portugál eredetű erőd a 16. századból.", "ro": "Un fort construit de portughezi și ulterior preluat de olandezi în localitatea Shama. A jucat un rol strategic în controlul zonei de coastă.", "en": "A massive fort in Shama, originally built by the Portuguese and later seized by the Dutch."},
     facts: {"de": ["Gegründet im Jahr 1523", "Wichtiger Posten für den Goldhandel", "Grabstätte des Philosophen Anton Wilhelm Amo", "In den 1640er Jahren von Niederländern übernommen"], "hu": ["1526-os alapítás", "Hollandok foglalták el", "Kereskedelmi raktárként működött", "Erős falú építmény"], "ro": ["Construit în 1526.", "Situat în Shama.", "A aparținut portughezilor.", "Ulterior sub control olandez."], "en": ["Established by Portuguese in 1526", "Second oldest European fort in Ghana", "Burial site of philosopher Anton Wilhelm Amo", "Used as a major trade facility"]},
     descriptionAdvanced: {
@@ -193,7 +211,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-WP",
     coords: [-2.6083, 4.9817],
-    name: {"de": "Fort Apollonia", "hu": "Fort Apollonia", "ro": "Fortul Apollonia", "en": "Fort Apollonia"},
+    name: {"de": "Fort Apollonia", "hu": "Fort Apollonia", "ro": "Fortul Apollonia", "en": "Fort Apollonia",
+image: "/poi-images/fort-apollonia-history-v2.webp"
+},
     description: {"de": "Die westlichste Festung Ghanas wurde im 18. Jahrhundert von Briten in Beyin erbaut und beherbergt heute ein Museum für die lokale Nzema-Kultur.", "hu": "Beyin településén elhelyezkedő erőd, amelyet a britek emeltek 1768-ban.", "ro": "Ultimul fort construit de britanici pe Coasta de Aur, situat în Beyin. A servit pentru controlul comerțului local în secolul al XVIII-lea.", "en": "A former British fort in Beyin, once a major center for palm oil and gold trade."},
     facts: {"de": ["Erbaut im Jahr 1768", "Standort im Distrikt Jomoro", "Spezialisierung auf Palmöl- und Goldhandel", "Nach der Schutzheiligen Apollonia benannt"], "hu": ["Brit érdekeltség", "Kereskedelmi funkciók", "Part menti védelem", "Szépen felújított emlékhely"], "ro": ["Construit în 1768.", "Situat în Beyin.", "Ultimul fort britanic.", "Acum muzeu local."], "en": ["Built by British in 1768", "Located on the western coast", "Now houses a museum", "Displays cultural history of Nzema"]},
     descriptionAdvanced: {
@@ -214,7 +234,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-WP",
     coords: [-1.9866, 4.8153],
-    name: {"de": "Fort Metal Cross", "hu": "Fort Metal Cross", "ro": "Fort Metal Cross", "en": "Fort Metal Cross"},
+    name: {"de": "Fort Metal Cross", "hu": "Fort Metal Cross", "ro": "Fort Metal Cross", "en": "Fort Metal Cross",
+image: "/poi-images/fort-metal-cross-history-v2.webp"
+},
     description: {"de": "Ein britisches Fort in Dixcove, das strategisch auf einer Klippe über dem Hafen zur Verteidigung gegen brandenburgisch-preußische Interessen errichtet wurde.", "hu": "Dixcove településén található erőd, amelyet a britek építettek 1692-ben.", "ro": "Construit de danezi în Dixcove, fortul a fost utilizat în principal pentru comerțul cu aur. Ulterior a trecut sub administrație britanică.", "en": "A hilltop fortification in Dixcove, designed to overlook the harbor and control trade."},
     facts: {"de": ["Baujahr 1683", "Ursprünglich Fort Dixcove genannt", "Wichtiger Posten für den Holzhandel", "Strategische Lage auf einer Anhöhe"], "hu": ["Brit kereskedelmi bázis", "Strategikus tengeri pozíció", "Rabszolga- és árukereskedelem", "Történelmi műemlék"], "ro": ["Construit în 1698.", "Situat în Dixcove.", "Construcție daneză inițială.", "Preluat de britanici."], "en": ["Built by British in 1693", "Key site for timber trade", "Located on the Western Region coast", "Noted for its strategic elevation"]},
     descriptionAdvanced: {
@@ -235,7 +257,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.1542, 5.1931],
-    name: {"de": "Fort Amsterdam", "hu": "Fort Amsterdam", "ro": "Fort Amsterdam", "en": "Fort Amsterdam"},
+    name: {"de": "Fort Amsterdam", "hu": "Fort Amsterdam", "ro": "Fort Amsterdam", "en": "Fort Amsterdam",
+image: "/poi-images/fort-amsterdam-history-v2.webp"
+},
     description: {"de": "Die ruinen des ersten britischen Forts an der Goldküste in Abandze wurden später von den Niederländern erobert und umbenannt.", "hu": "Abandze település felett álló erőd, amelyet a britek és hollandok is használtak.", "ro": "Un fort construit de britanici și ocupat ulterior de olandezi în Kormantin. Este un exemplu notabil al competiției coloniale europene.", "en": "A fort in Abandze, originally constructed by the English and later captured by the Dutch."},
     facts: {"de": ["Baujahr 1631", "Erstes britisches Hauptquartier in Afrika", "Ursprünglich Fort Cormantin genannt", "1665 von Admiral de Ruyter erobert"], "hu": ["1638-ban kezdték építeni", "Kereskedelmi bástya", "Fantai királyság közelében", "UNESCO világörökség része"], "ro": ["Construit în 1638.", "Situat în Kormantin.", "Ocupat de olandezi.", "Patrimoniu istoric local."], "en": ["Built in 1638", "Located near Saltpond", "Historically key trade node", "Offers panoramic coastal views"]},
     descriptionAdvanced: {
@@ -256,7 +280,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.1189, 5.1744],
-    name: {"de": "Fort William (Anomabu)", "hu": "Fort William (Anomabu)", "ro": "Fortul William (Anomabu)", "en": "Fort William (Anomabu)"},
+    name: {"de": "Fort William (Anomabu)", "hu": "Fort William (Anomabu)", "ro": "Fortul William (Anomabu)", "en": "Fort William (Anomabu)",
+image: "/poi-images/fort-william-anomabu-history-v2.webp"
+},
     description: {"de": "Dieses massive Backsteinfort in Anomabu wurde im 18. Jahrhundert von den Briten erbaut, um den profitablen lokalen Sklavenhandel zu sichern.", "hu": "Anomabu városában álló erőd, amelyet a 18. század közepén építettek a britek.", "ro": "Fort situat în Anomabu, construit de britanici pentru a contracara influența olandeză din zonă. A fost un punct major în comerțul transatlantic.", "en": "A fortress located in Anomabu, built by the British to counteract Dutch and French trade influence."},
     facts: {"de": ["Erbaut im Jahr 1753", "Widerstand gegen Ashanti-Angriffe 1807", "Ehemaliger Leuchtturm im 19. Jahrhundert", "Zentrum für den Export von Kakaobohnen"], "hu": ["1753-as építés", "Brit gyarmati múlt", "Rabszolgák gyűjtőhelye", "Műemlék védelem alatt"], "ro": ["Construit în 1753.", "Situat în Anomabu.", "Administrație britanică.", "Centru comercial major."], "en": ["Constructed in 1753", "Strategically placed on the coast", "Served as a lighthouse in 19th century", "Reflects colonial rivalry"]},
     descriptionAdvanced: {
@@ -277,7 +303,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AA",
     coords: [-0.2025, 5.5444],
-    name: {"de": "Kwame Nkrumah Mausoleum", "hu": "Kwame Nkrumah Mauzóleum", "ro": "Mausoleul Kwame Nkrumah", "en": "Kwame Nkrumah Mausoleum"},
+    name: {"de": "Kwame Nkrumah Mausoleum", "hu": "Kwame Nkrumah Mauzóleum", "ro": "Mausoleul Kwame Nkrumah", "en": "Kwame Nkrumah Mausoleum",
+image: "/poi-images/kwame-nkrumah-mausoleum-history-v2.webp"
+},
     description: {"de": "Eine monumentale Gedenkstätte in Accra für den Gründervater Ghanas, Kwame Nkrumah, die den panafrikanischen Geist und die Unabhängigkeit ehrt.", "hu": "Ghána első elnökének, Kwame Nkrumahnak állít emléket a fővárosban.", "ro": "Mausoleul dedicat primului președinte al Ghanei, Kwame Nkrumah, liderul care a condus țara spre independență în 1957. Este un monument național central.", "en": "The final resting place of Ghana's first president and a pioneer of Pan-Africanism."},
     facts: {"de": ["Eingeweiht im Jahr 1992", "Letzte Ruhestätte von Dr. Kwame Nkrumah", "Architektur symbolisiert ein Friedensschwert", "Ort der Unabhängigkeitserklärung von 1957"], "hu": ["Modern építészeti stílus", "Nkrumah nyughelye", "Nemzeti büszkeség helyszíne", "Park veszi körül"], "ro": ["Inaugurat în 1992.", "Situat în Accra.", "Dedicat lui Kwame Nkrumah.", "Simbol al independenței."], "en": ["Located in central Accra", "Designed to represent sword of peace", "Surrounded by reflecting pools", "Houses personal effects of Nkrumah"]},
     descriptionAdvanced: {
@@ -298,7 +326,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AA",
     coords: [-0.1691, 5.5861],
-    name: {"de": "W. E. B. Du Bois Centre", "hu": "W. E. B. Du Bois Központ", "ro": "Centrul W. E. B. Du Bois", "en": "W. E. B. Du Bois Centre"},
+    name: {"de": "W. E. B. Du Bois Centre", "hu": "W. E. B. Du Bois Központ", "ro": "Centrul W. E. B. Du Bois", "en": "W. E. B. Du Bois Centre",
+image: "/poi-images/w-e-b-du-bois-centre-history-v2.webp"
+},
     description: {"de": "Das ehemalige Wohnhaus des bedeutenden Bürgerrechtlers W.E.B. Du Bois in Accra ist heute ein Museum und Forschungszentrum für Panafrikanismus.", "hu": "W.E.B. Du Bois afroamerikai tudós emlékhelye és kutatóközpontja.", "ro": "Centrul dedicat memoriei lui W.E.B. Du Bois, sociolog și activist panafrican care și-a petrecut ultimii ani în Ghana. Locuința sa este acum un centru cultural.", "en": "The former residence and final burial site of the prominent American civil rights leader and intellectual."},
     facts: {"de": ["Wohnsitz von Du Bois ab 1961", "Beherbergt seine umfangreiche Privatbibliothek", "Grabstätte von Du Bois und seiner Frau", "Zentrum für afrikanische Kulturforschung"], "hu": ["Pan-afrikanista központ", "Du Bois sírhelye", "Könyvtár és kutatások", "Kulturális központ"], "ro": ["Fondat în 1985.", "Situat în Accra.", "Dedicat lui W.E.B. Du Bois.", "Centru de studii panafricane."], "en": ["Home of W.E.B. Du Bois in Ghana", "Pan-African research center", "Holds extensive library and artifacts", "Located in Cantonments, Accra"]},
     descriptionAdvanced: {
@@ -319,7 +349,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AA",
     coords: [-0.1925, 5.5486],
-    name: {"de": "Unabhängigkeitsplatz (Accra)", "hu": "Függetlenség tere (Accra)", "ro": "Pia?a Independenței (Accra)", "en": "Independence Square (Accra)"},
+    name: {"de": "Unabhängigkeitsplatz (Accra)", "hu": "Függetlenség tere (Accra)", "ro": "Pia?a Independenței (Accra)", "en": "Independence Square (Accra)",
+image: "/poi-images/independence-square-accra-history-v2.webp"
+},
     description: {"de": "Der auch als Black Star Square bekannte Platz in Accra ist der zentrale Ort für nationale Feierlichkeiten und ein Symbol der Befreiung.", "hu": "A nemzeti függetlenség tiszteletére emelt nagy tér az Accrai kormányzati negyedben.", "ro": "Piață simbolică din Accra, construită pentru a celebra independența țării. Găzduiește parade naționale și evenimente oficiale majore.", "en": "A landmark venue in Accra used for Ghana's Independence Day celebrations and other national events."},
     facts: {"de": ["Fertiggestellt im Jahr 1961", "Fasst bis zu 30.000 Menschen", "Standort des Unabhängigkeitsbogens", "Zentrum für Militärparaden am Nationalfeiertag"], "hu": ["1961-ben készült", "Katonai díszszemlék", "Függetlenségi emlékmű", "Központi gyülekezőhely"], "ro": ["Finalizată în 1961.", "Situată în Accra.", "Loc pentru parade naționale.", "Simbol al suveranității."], "en": ["Completed in 1961", "Features the Independence Arch", "Hosts massive public parades", "Symbol of Ghanaian sovereignty"]},
     descriptionAdvanced: {
@@ -339,7 +371,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AH",
     coords: [-1.5033, 6.7161],
-    name: {"de": "Yaa Asantewaa Museum", "hu": "Yaa Asantewaa Múzeum", "ro": "Muzeul Yaa Asantewaa", "en": "Yaa Asantewaa Museum"},
+    name: {"de": "Yaa Asantewaa Museum", "hu": "Yaa Asantewaa Múzeum", "ro": "Muzeul Yaa Asantewaa", "en": "Yaa Asantewaa Museum",
+image: "/poi-images/yaa-asantewaa-museum-history-v2.webp"
+},
     description: {"de": "Ein der tapferen Königinmutter von Ejisu gewidmetes Museum, die 1900 den bewaffneten Widerstand der Ashanti gegen die Briten anführte.", "hu": "Yaa Asantewaa királynő tiszteletére létrehozott múzeum, aki harcolt a britek ellen.", "ro": "Muzeu dedicat Reginei-Mamă Yaa Asantewaa, eroină a poporului Ashanti care a condus rezistența împotriva colonizatorilor britanici în 1900.", "en": "A museum dedicated to the Queen Mother of Ejisu who led the Ashanti resistance against the British."},
     facts: {"de": ["Eröffnet im Jahr 2000", "Ehrt die Anführerin des 'War of the Golden Stool'", "Präsentiert Artefakte des Ashanti-Widerstands", "Kulturdenkmal in der Ashanti-Region"], "hu": ["Asanti hősnő emlékére", "Kulturális örökség", "Történelmi kiállítások", "Ejisu városában található"], "ro": ["Situat în Ejisu.", "Dedicat Yaa Asantewaa.", "Simbol al rezistenței Ashanti.", "Muzeu cultural local."], "en": ["Commemorates the War of the Golden Stool", "Located in Ejisu, Ashanti Region", "Showcases Yaa Asantewaa's life", "Center for Ashanti nationalist history"]},
     descriptionAdvanced: {
@@ -360,7 +394,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-SV",
     coords: [-0.5186, 8.5494],
-    name: {"de": "Sklavenmarkt von Salaga", "hu": "Salagai rabszolgapiac", "ro": "Pia?a de sclavi din Salaga", "en": "Salaga Slave Market"},
+    name: {"de": "Sklavenmarkt von Salaga", "hu": "Salagai rabszolgapiac", "ro": "Pia?a de sclavi din Salaga", "en": "Salaga Slave Market",
+image: "/poi-images/salaga-slave-market-history-v2.webp"
+},
     description: {"de": "Ein historischer Sklavenmarkt im Norden Ghanas, der über Jahrhunderte ein zentraler Knotenpunkt auf den trans-saharischen Handelsrouten war.", "hu": "Az északi rabszolgakereskedelem egykori jelentős piaca.", "ro": "În secolul al XIX-lea, Salaga a fost una dintre cele mai importante piețe de sclavi din vestul Africii, conectând rutele comerciale trans-sahariene.", "en": "The site of one of the largest slave markets in West Africa, pivotal for historical studies of the slave trade."},
     facts: {"de": ["Wichtigster Markt im 18. und 19. Jahrhundert", "Knotenpunkt für Gold-, Salz- und Sklavenhandel", "Bekannt für seine antiken Baobab-Bäume", "Zentrum für historische Handelsforschung"], "hu": ["Kereskedelmi csomópont volt", "Rabszolgák gyűjtőhelye", "Északi útvonalak", "Történelmi emlékhely"], "ro": ["Piață din sec. XIX.", "Situată în Salaga.", "Centru comercial major.", "Punct de rută sahariană."], "en": ["Primary hub for northern slave trade", "Located in East Gonja", "Site of the annual Damba festival", "Subject of extensive academic research"]},
     descriptionAdvanced: {
@@ -381,7 +417,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-UW",
     coords: [-2.2217, 10.9753],
-    name: {"de": "Verteidigungsmauer von Gwollu", "hu": "Gwollu védofala", "ro": "Zidul de aparare din Gwollu", "en": "Gwollu Defence Wall"},
+    name: {"de": "Verteidigungsmauer von Gwollu", "hu": "Gwollu védofala", "ro": "Zidul de aparare din Gwollu", "en": "Gwollu Defence Wall",
+image: "/poi-images/gwollu-defence-wall-history-v2.webp"
+},
     description: {"de": "Diese im 19. Jahrhundert in Gwollu errichtete Verteidigungsmauer diente dem Schutz der Bevölkerung vor Sklavenräubern wie Samori Ture.", "hu": "A 19. században épített védelmi fal, amely a rabszolga-vadászok ellen védte a népet.", "ro": "Rămășițele unui zid de apărare istoric construit pentru a proteja comunitatea locală împotriva raidurilor și sclaviei din secolul al XIX-lea.", "en": "The ruins of an 18th-century defensive wall built to protect the people of Gwollu from slave raiders."},
     facts: {"de": ["Erbaut unter König Koro Limann", "Besteht aus zwei konzentrischen Mauern", "Schutzwall gegen Sklavenjäger aus dem Norden", "Bedeutendes Monument in der Upper West Region"], "hu": ["Védelmi építmény", "Sárból és kőből", "Kulturális védelem", "Északi régióban áll"], "ro": ["Construit în sec. XIX.", "Situat în Gwollu.", "Zid de apărare.", "Protecție împotriva raidurilor."], "en": ["Located in Upper West Region", "Built by Limann dynasty", "Significant historical defensive structure", "Symbol of regional resistance"]},
     descriptionAdvanced: {
@@ -402,7 +440,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-NE",
     coords: [-0.3639, 10.5283],
-    name: {"de": "Verteidigungsmauer von Nalerigu", "hu": "Nalerigu védofala", "ro": "Zidul de aparare din Nalerigu", "en": "Nalerigu Defence Wall"},
+    name: {"de": "Verteidigungsmauer von Nalerigu", "hu": "Nalerigu védofala", "ro": "Zidul de aparare din Nalerigu", "en": "Nalerigu Defence Wall",
+image: "/poi-images/nalerigu-defence-wall-history-v2.webp"
+},
     description: {"de": "Eine historische Befestigungsanlage im Norden Ghanas, die zum Schutz des Mamprusi-Königreichs während der Unruhen des 16. Jahrhunderts erbaut wurde.", "hu": "Történelmi védelmi falak, amelyek a helyi közösségeket védték az inváziók ellen.", "ro": "Un zid defensiv istoric situat în nordul Ghanei, utilizat de comunitatea locală pentru a se proteja în perioadele de instabilitate regională.", "en": "A series of defensive earthworks constructed to protect Nalerigu from external invaders."},
     facts: {"de": ["Errichtet im 16. Jahrhundert", "Etwa zwei Kilometer lange Mauerstruktur", "Historische Verteidigung des Mamprusi-Volkes", "Archäologisches Denkmal im Nordosten Ghanas"], "hu": ["Ősi építészeti stílus", "Védelmi stratégia", "Történelmi örökség", "Mamprugu területén"], "ro": ["Construit în sec. XVII.", "Situat în Nalerigu.", "Structură defensivă.", "Protecție comunitară."], "en": ["Historically significant to Mamprusi", "Located in North East Region", "Oldest defensive wall in Northern Ghana", "Reflects indigenous engineering"]},
     descriptionAdvanced: {
@@ -423,7 +463,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-UE",
     coords: [-1.1511, 10.9164],
-    name: {"de": "Sklavenlager Pikworo", "hu": "Pikworo rabszolgatábor", "ro": "Tabara de sclavi Pikworo", "en": "Pikworo Slave Camp"},
+    name: {"de": "Sklavenlager Pikworo", "hu": "Pikworo rabszolgatábor", "ro": "Tabara de sclavi Pikworo", "en": "Pikworo Slave Camp",
+image: "/poi-images/pikworo-slave-camp-history-v2.webp"
+},
     description: {"de": "Ein ehemaliges Sammellager bei Paga, in dem versklavte Menschen unter freiem Himmel gefangen gehalten wurden, bevor sie in den Süden marschierten.", "hu": "Egykori rabszolgatábor, ahol a rabszolgákat tartották fogva a szállítás előtt.", "ro": "Locul unui fost lagăr de sclavie din secolul al XVIII-lea, unde aceștia erau ținuți înainte de a fi trimiși pe piața din Salaga.", "en": "A site where captives were held before being moved to coastal markets. It retains remnants of cells and punishment areas."},
     facts: {"de": ["Gegründet im Jahr 1704", "Felsvertiefungen dienten als Essschalen", "Transitlager auf dem Weg zur Küste", "Historische Gedenkstätte für Sklavenopfer"], "hu": ["Fájdalmas történeti hely", "Foglyok elosztója", "Történelmi oktatási központ", "Északkeleti régióban"], "ro": ["Fondat în 1704.", "Situat în Paga.", "Lagăr de tranzit.", "Simbol istoric dureros."], "en": ["Established in 1704", "Located in Upper East Region", "Used for holding transit slaves", "Serves as a somber historical memorial"]},
     descriptionAdvanced: {
@@ -444,7 +486,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-BE",
     coords: [-1.9, 7.8],
-    name: {"de": "Bono Manso", "hu": "Bono Manso", "ro": "Bono Manso", "en": "Bono Manso"},
+    name: {"de": "Bono Manso", "hu": "Bono Manso", "ro": "Bono Manso", "en": "Bono Manso",
+image: "/poi-images/bono-manso-history-v2.webp"
+},
     description: {"de": "Die einstige Hauptstadt des Bono-Staates gilt als archäologische Wiege der Akan-Zivilisation und war ein Zentrum des Goldhandels.", "hu": "Az ősi Bono állam jelentős kereskedelmi városa volt a 11-18. század között.", "ro": "Capitala vechiului regat Bono, un important centru comercial medieval cunoscut pentru aur și comerțul cu sare între nord și sud.", "en": "The center of the ancient Bono State, recognized for its complex trade networks before the rise of the Ashanti."},
     facts: {"de": ["Gegründet um 1295", "Erstes großes Akan-Königreich", "Knotenpunkt des mittelalterlichen Goldhandels", "Wichtiger historischer Ort der Bono-Region"], "hu": ["Aranykereskedelmi központ", "Kulturális bölcső", "Régészeti lelőhely", "Történelmi kereskedelmi út"], "ro": ["Capitala regatului Bono.", "Centru comercial medieval.", "Situat în regiunea Bono.", "Sursă istorică de aur."], "en": ["Key market for gold and kola nuts", "Founded in the 13th century", "Located in the Bono Region", "Central to Akan state development"]},
     descriptionAdvanced: {
@@ -465,7 +509,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-BE",
     coords: [-2.45, 7.85],
-    name: {"de": "Antike Stadt Begho", "hu": "Begho ókori városa", "ro": "Orașul antic Begho", "en": "Begho Ancient City"},
+    name: {"de": "Antike Stadt Begho", "hu": "Begho ókori városa", "ro": "Orașul antic Begho", "en": "Begho Ancient City",
+image: "/poi-images/begho-ancient-city-history-v2.webp"
+},
     description: {"de": "Eine mittelalterliche Handelsstadt, die für ihren Reichtum durch Gold bekannt war und weitreichende Verbindungen bis in das Mali-Reich unterhielt.", "hu": "Fontos középkori kereskedelmi központ volt az ország északnyugati részén.", "ro": "Unul dintre cele mai vechi orașe comerciale din vestul Africii, care a prosperat între secolele al XI-lea și al XVIII-lea ca punct de tranzit vital.", "en": "One of the most important trade centers in pre-colonial Ghana, serving as a connector between forest and savannah."},
     facts: {"de": ["Blütezeit zwischen 1100 und 1750", "Zentrum für den trans-saharischen Goldhandel", "Bedeutende archäologische Fundstätte", "Verbindungspunkt zwischen Wald und Savanne"], "hu": ["Hanyatlása a 18. században", "Kereskedelmi csomópont", "Régészeti feltárások", "Bono terület"], "ro": ["Activ între 1000-1700.", "Oraș comercial major.", "Situat în regiunea Bono.", "Punct de comerț saharian."], "en": ["flourished between 1100 and 1700", "Major hub for trans-Saharan merchants", "Located near Hani in Bono Region", "Renowned archaeological site"]},
     descriptionAdvanced: {
@@ -486,7 +532,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-BE",
     coords: [-1.7289, 8.0531],
-    name: {"de": "Kintampo-Komplex", "hu": "Kintampo komplexum", "ro": "Complexul Kintampo", "en": "Kintampo Complex"},
+    name: {"de": "Kintampo-Komplex", "hu": "Kintampo komplexum", "ro": "Complexul Kintampo", "en": "Kintampo Complex",
+image: "/poi-images/kintampo-complex-history-v2.webp"
+},
     description: {"de": "Diese prähistorische Stätte belegt die Existenz einer der frühesten bäuerlichen Gesellschaften in Westafrika während der Jungsteinzeit.", "hu": "Kőkori leletekben gazdag régészeti terület, amely a korai emberi tevékenységet mutatja be.", "ro": "Situl arheologic al complexului Kintampo, care oferă informații despre dezvoltarea agriculturii și a așezărilor umane în perioada neolitică.", "en": "An archaeological site that gives its name to the Kintampo culture of the late Stone Age."},
     facts: {"de": ["Etwa 4.000 Jahre alte Besiedlung", "Namensgebend für die Kintampo-Kultur", "Funde von Steinäxten und Tonfiguren", "Früheste Belege für Landwirtschaft in Ghana"], "hu": ["Őskori eszközök", "Régészeti örökség", "Kintampo kultúra", "Tudományos kutatások"], "ro": ["Perioadă neolitică.", "Situat în Kintampo.", "Situl arheologic.", "Importanță agricolă timpurie."], "en": ["Key site for early agricultural evidence", "Located in Bono East Region", "Provides evidence of pottery and iron", "Crucial for West African prehistory"]},
     descriptionAdvanced: {
@@ -506,7 +554,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-AH",
     coords: [-1.6225, 6.6994],
-    name: {"de": "Prempeh II. Jubiläumsmuseum", "hu": "Prempeh II Jubileumi Múzeum", "ro": "Muzeul Jubiliar Prempeh II", "en": "Prempeh II Jubilee Museum"},
+    name: {"de": "Prempeh II. Jubiläumsmuseum", "hu": "Prempeh II Jubileumi Múzeum", "ro": "Muzeul Jubiliar Prempeh II", "en": "Prempeh II Jubilee Museum",
+image: "/poi-images/prempeh-ii-museum-history-v2.webp"
+},
     description: {"de": "Das Jubiläumsmuseum in Kumasi bewahrt die persönlichen Insignien und Artefakte der Ashanti-Könige und zeigt die imperiale Geschichte der Region.", "hu": "A Kumasi-i múzeum az asanti uralkodók életét és történetét mutatja be.", "ro": "Muzeu care expune artefacte legate de istoria regilor Ashanti, în special domnia lui Asantehene Prempeh II, o figură centrală a secolului XX.", "en": "A museum in Kumasi showcasing artifacts of the Ashanti royals and the history of the Ashanti throne."},
     facts: {"de": ["Gegründet im Jahr 1954", "Nach Asantehene Prempeh II. benannt", "Beherbergt den gefälschten Goldenen Stuhl", "Zentrum für königliche Ashanti-Geschichte"], "hu": ["Asanti királyi örökség", "Uralkodói tárgyak", "Kulturális oktatás", "Kumasi belvárosa"], "ro": ["Situat în Kumasi.", "Dedicat lui Prempeh II.", "Artefacte regale Ashanti.", "Muzeu cultural."], "en": ["Located within Kumasi city limits", "Named after Asantehene Prempeh II", "Houses royal gold jewelry and regalia", "Explains Ashanti dynastic history"]},
     descriptionAdvanced: {
@@ -527,7 +577,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.3469, 5.0847],
-    name: {"de": "Fort St. Jago", "hu": "Fort St. Jago", "ro": "Fortul Sf. Jago", "en": "Fort St. Jago"},
+    name: {"de": "Fort St. Jago", "hu": "Fort St. Jago", "ro": "Fortul Sf. Jago", "en": "Fort St. Jago",
+image: "/poi-images/fort-st-jago-history-v2.webp"
+},
     description: {"de": "Ein strategisch auf einer Anhöhe gelegenes Fort in Elmina, das im 17. Jahrhundert von Niederländern zur Sicherung des Sklavenschlosses erbaut wurde.", "hu": "Elmina közelében lévő dombi erődítmény, amely a védelmet szolgálta.", "ro": "Fort construit pe un deal cu vedere spre Castelul Elmina, utilizat pentru a supraveghea și proteja baza comercială de jos.", "en": "A fortified position overlooking Elmina Castle, built by the Portuguese for observation and defense."},
     facts: {"de": ["Ursprünglich Fort Coenraadsburg genannt", "Erbaut zwischen 1637 und 1660", "Gilt als ältestes Militärgebäude Westafrikas", "Bietet Panorama-Blick auf Elmina Castle"], "hu": ["Katonai stratégiai pont", "Hollandok építették", "UNESCO világörökség", "Panoráma az erődökre"], "ro": ["Construit în 1665.", "Situat în Elmina.", "Poziție strategică pe deal.", "Protecție pentru Elmina."], "en": ["Original structure built in 1555", "Strategically built on Conraadsburg Hill", "Reflects military architecture", "Offers views of the coastal area"]},
     descriptionAdvanced: {
@@ -547,7 +599,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.2481, 5.1053],
-    name: {"de": "Fort Victoria", "hu": "Fort Victoria", "ro": "Fortul Victoria", "en": "Fort Victoria"},
+    name: {"de": "Fort Victoria", "hu": "Fort Victoria", "ro": "Fortul Victoria", "en": "Fort Victoria",
+image: "/poi-images/fort-victoria-cape-coast-history-v2.webp"
+},
     description: {"de": "Eine kleine Verteidigungsanlage auf einer Anhöhe in Cape Coast, die den Hafen und die Festung gegen Angriffe aus dem Hinterland absicherte.", "hu": "Cape Coast erődítményrendszerének része, a megfigyelést szolgálta.", "ro": "Un fort construit de britanici pentru a întări apărarea castelului principal din Cape Coast împotriva potențialelor atacuri.", "en": "A hilltop fort built by the British to protect Cape Coast Castle from artillery fire."},
     facts: {"de": ["Erbaut im Jahr 1837", "Ursprünglich Phipps Tower genannt", "Zu Ehren von Königin Victoria umbenannt", "Teil des britischen Verteidigungssystems"], "hu": ["18. századi építés", "Védelmi szerepkör", "Rálátás az óceánra", "Brit erőd"], "ro": ["Construit în 1702.", "Situat în Cape Coast.", "Fort de apărare.", "Vedere spre castel."], "en": ["Constructed in 1702", "Strategically dominates skyline", "Named after Queen Victoria", "Served as a lighthouse base"]},
     descriptionAdvanced: {
@@ -568,7 +622,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-1.2503, 5.1089],
-    name: {"de": "Fort McCarthy", "hu": "Fort McCarthy", "ro": "Fort McCarthy", "en": "Fort McCarthy"},
+    name: {"de": "Fort McCarthy", "hu": "Fort McCarthy", "ro": "Fort McCarthy", "en": "Fort McCarthy",
+image: "/poi-images/fort-mccarthy-history-v2.webp"
+},
     description: {"de": "Ein britisches Verteidigungsfort in Cape Coast, das als Teil eines strategischen Netzwerks zum Schutz der Stadt gegen die Ashanti diente.", "hu": "Accra környékén található, egykori brit katonai erődítmény.", "ro": "Un fort mai mic din Accra, numit după Sir Charles McCarthy, construit pentru a îmbunătăți securitatea capitalei coloniale în secolul al XIX-lea.", "en": "A small British defensive fort located on a hill overlooking Accra."},
     facts: {"de": ["Baujahr 1822", "Benannt nach Sir Charles MacCarthy", "Diente als Signalposten an der Küste", "Heute als historische Ruine erhalten"], "hu": ["Védelmi funkciók", "Katonai történelem", "Kilátópont", "Gyarmati építés"], "ro": ["Construit în sec. XIX.", "Situat în Accra.", "Numit după Sir McCarthy.", "Structură defensivă."], "en": ["Built in 1820s", "Named after Sir Charles MacCarthy", "Overlooks the capital city", "Historical defense outpost"]},
     descriptionAdvanced: {
@@ -589,7 +645,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-0.885, 5.3853],
-    name: {"de": "Fort Good Hope", "hu": "Fort Good Hope", "ro": "Fortul Speran?ei Bune", "en": "Fort Good Hope"},
+    name: {"de": "Fort Good Hope", "hu": "Fort Good Hope", "ro": "Fortul Speran?ei Bune", "en": "Fort Good Hope",
+image: "/poi-images/fort-good-hope-history-v2.webp"
+},
     description: {"de": "Ein niederländisches Fort in Senya Beraku, das im 18. Jahrhundert zur Kontrolle des Handels mit Gold und Sklaven an diesem Küstenabschnitt erbaut wurde.", "hu": "Senya Beraku településén lévő erőd, amelyet a hollandok építettek 1706-ban.", "ro": "Fort situat în Senya Beraku, construit de olandezi pentru comerțul cu sclavi. A schimbat mai mulți proprietari de-a lungul istoriei sale.", "en": "A fort located in Senya Beraku, built by the Dutch for trade and protection against local threats."},
     facts: {"de": ["Baujahr 1706", "Markante dreieckige Festungsarchitektur", "Wichtiger niederländischer Posten in der Region", "Letztes von Niederländern erbautes Fort"], "hu": ["Holland kereskedelmi bázis", "Tengerparti védelem", "Rabszolgák raktározása", "Műemléki állapot"], "ro": ["Construit în 1706.", "Situat în Senya Beraku.", "Administrație olandeză.", "Istorie colonială complexă."], "en": ["Built in 1706", "Strategically placed on a hill", "Used by Dutch West India Company", "Known for unique architectural layout"]},
     descriptionAdvanced: {
@@ -610,7 +668,9 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     type: "historical",
     parent: "GH-CP",
     coords: [-0.7247, 5.2831],
-    name: {"de": "Fort Patience", "hu": "Fort Patience", "ro": "Fortul Rabdarii", "en": "Fort Patience"},
+    name: {"de": "Fort Patience", "hu": "Fort Patience", "ro": "Fortul Rabdarii", "en": "Fort Patience",
+image: "/poi-images/fort-patience-history-v2.webp"
+},
     description: {"de": "Das Fort in Apam erhielt seinen Namen aufgrund der extrem langen Bauzeit, die durch den ständigen Widerstand der lokalen Bevölkerung verursacht wurde.", "hu": "Apam városában épített erőd, amely a holland kereskedelmet biztosította.", "ro": "Fortul olandez din Apam, renumit pentru perioada lungă de construcție care a dus la numele său, simbolizând răbdarea necesară în acea epocă.", "en": "A small fort in Apam, built by the Dutch and named due to the time taken for its completion."},
     facts: {"de": ["Bauzeit von 1697 bis 1702", "Niederländischer Name: Fort Leydsaemheyt", "Wichtiger Posten für den Goldhandel", "UNESCO-Welterbe seit 1979"], "hu": ["1697-es alapítás", "Kereskedelmi erőd", "Parti védelem", "Holland gyarmati emlék"], "ro": ["Construit în 1697.", "Situat în Apam.", "Administrație olandeză.", "Nume simbolic."], "en": ["Construction began in 1697", "Located on a promontory", "Reflects the delay in building works", "Historic maritime trade site"]},
     descriptionAdvanced: {

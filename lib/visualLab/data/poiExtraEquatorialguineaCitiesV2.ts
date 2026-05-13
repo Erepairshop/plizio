@@ -7,7 +7,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-BN",
     coords: [8.7833, 3.75],
-    name: { de: "Malabo", hu: "Malabo", ro: "Malabo", en: "Malabo" },
+    name: { de: "Malabo", hu: "Malabo", ro: "Malabo", en: "Malabo",
+image: "/poi-images/malabo-cities-v2.webp"
+},
     description: {
       de: "Malabo ist die Hauptstadt von Äquatorialguinea und liegt an der Nordküste der Insel Bioko.",
       hu: "Malabo Egyenlítői-Guinea fővárosa, amely Bioko szigetének északi partján található.",
@@ -37,7 +39,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-LI",
     coords: [9.7658, 1.8639],
-    name: { de: "Bata", hu: "Bata", ro: "Bata", en: "Bata" },
+    name: { de: "Bata", hu: "Bata", ro: "Bata", en: "Bata",
+image: "/poi-images/bata-cities-v2.webp"
+},
     description: {
       de: "Bata ist die größte Stadt des Landes und ein bedeutender Hafen am Atlantik in der Region Río Muni.",
       hu: "Bata az ország legnagyobb városa és jelentős atlanti kikötő Río Muni régióban.",
@@ -67,7 +71,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-KN",
     coords: [11.3353, 2.1511],
-    name: { de: "Ebebiyín", hu: "Ebebiyín", ro: "Ebebiyín", en: "Ebebiyín" },
+    name: { de: "Ebebiyín", hu: "Ebebiyín", ro: "Ebebiyín", en: "Ebebiyín",
+image: "/poi-images/ebebiyin-cities-v2.webp"
+},
     description: {
       de: "Ebebiyín liegt im Nordosten des Festlandes, direkt am Dreiländereck mit Gabun und Kamerun.",
       hu: "Ebebiyín a szárazföld északkeleti részén fekszik, közvetlenül a gaboni és kameruni hármashatárnál.",
@@ -95,7 +101,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-WN",
     coords: [11.3133, 1.6275],
-    name: { de: "Mongomo", hu: "Mongomo", ro: "Mongomo", en: "Mongomo" },
+    name: { de: "Mongomo", hu: "Mongomo", ro: "Mongomo", en: "Mongomo",
+image: "/poi-images/mongomo-cities-v2.webp"
+},
     description: {
       de: "Mongomo ist eine moderne Stadt im Osten von Río Muni, nahe der Grenze zu Gabun.",
       hu: "Mongomo egy modern város Río Muni keleti részén, a gaboni határ közelében.",
@@ -122,7 +130,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-BS",
     coords: [8.5547, 3.4569],
-    name: { de: "Luba", hu: "Luba", ro: "Luba", en: "Luba" },
+    name: { de: "Luba", hu: "Luba", ro: "Luba", en: "Luba",
+image: "/poi-images/luba-cities-v2.webp"
+},
     description: {
       de: "Luba ist die zweitgrößte Stadt auf der Insel Bioko und ein bedeutender Hafen für die Holzindustrie.",
       hu: "Luba Bioko szigetének második legnagyobb városa és a faipar egyik jelentős kikötője.",
@@ -149,7 +159,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-CS",
     coords: [10.5514, 1.4461],
-    name: { de: "Evinayong", hu: "Evinayong", ro: "Evinayong", en: "Evinayong" },
+    name: { de: "Evinayong", hu: "Evinayong", ro: "Evinayong", en: "Evinayong",
+image: "/poi-images/evinayong-cities-v2.webp"
+},
     description: {
       de: "Evinayong ist die Hauptstadt der Provinz Centro Sur und liegt malerisch in den zentralen Highlands.",
       hu: "Evinayong Centro Sur tartomány székhelye, amely festői környezetben, a központi felföldön található.",
@@ -177,7 +189,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-AN",
     coords: [5.6325, -1.4014],
-    name: { de: "San Antonio de Palé", hu: "San Antonio de Palé", ro: "San Antonio de Palé", en: "San Antonio de Palé" },
+    name: { de: "San Antonio de Palé", hu: "San Antonio de Palé", ro: "San Antonio de Palé", en: "San Antonio de Palé",
+image: "/poi-images/san-antonio-de-pale-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Insel Annobón ist eine abgelegene Siedlung mit einer einzigartigen Kultur.",
       hu: "Annobón szigetének fővárosa egy távoli település, amely egyedülálló kultúrával rendelkezik.",
@@ -204,7 +218,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GQ-DJ",
     coords: [10.8268, 1.5994],
-    name: { de: "Ciudad de la Paz", hu: "Ciudad de la Paz", ro: "Ciudad de la Paz", en: "Ciudad de la Paz" },
+    name: { de: "Ciudad de la Paz", hu: "Ciudad de la Paz", ro: "Ciudad de la Paz", en: "Ciudad de la Paz",
+image: "/poi-images/ciudad-de-la-paz-cities-v2.webp"
+},
     description: {
       de: "Ciudad de la Paz, früher Oyala genannt, ist eine geplante Stadt im Regenwald, die als neue Hauptstadt fungieren soll.",
       hu: "Ciudad de la Paz, korábbi nevén Oyala, egy tervezett város az esőerdőben, amely az új fővárosként szolgál majd.",
@@ -234,7 +250,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [10.7667, 1.8667],
-    name: { de: "Añisoc", hu: "Añisoc", ro: "Añisoc", en: "Añisoc" },
+    name: { de: "Añisoc", hu: "Añisoc", ro: "Añisoc", en: "Añisoc",
+image: "/poi-images/anisoc-cities-v2.webp"
+},
     description: {
       de: "Añisoc ist eine wichtige Stadt im Landesinneren von Río Muni, bekannt für ihren lebhaften Markt.",
       hu: "Añisoc Río Muni belső részének egyik fontos városa, amely élénk piacáról ismert.",
@@ -261,7 +279,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.6167, 1.5833],
-    name: { de: "Mbini", hu: "Mbini", ro: "Mbini", en: "Mbini" },
+    name: { de: "Mbini", hu: "Mbini", ro: "Mbini", en: "Mbini",
+image: "/poi-images/mbini-cities-v2.webp"
+},
     description: {
       de: "Mbini liegt an der Mündung des Benito-Flusses und ist bekannt für seine malerische Lage am Meer.",
       hu: "Mbini a Benito-folyó torkolatánál fekszik, és festői tengerparti fekvéséről ismert.",
@@ -290,7 +310,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [10.9333, 1.3],
-    name: { de: "Akonibe", hu: "Akonibe", ro: "Akonibe", en: "Akonibe" },
+    name: { de: "Akonibe", hu: "Akonibe", ro: "Akonibe", en: "Akonibe",
+image: "/poi-images/aconibe-cities-v2.webp"
+},
     description: {
       de: "Akonibe ist eine ruhige Stadt im südlichen Teil des Festlandes, umgeben von dichtem Regenwald.",
       hu: "Akonibe egy csendes város a szárazföld déli részén, sűrű esőerdővel körülvéve.",
@@ -320,7 +342,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-KN",
     coords: [10.6167, 2.1333],
-    name: { de: "Micomeseng", hu: "Micomeseng", ro: "Micomeseng", en: "Micomeseng" },
+    name: { de: "Micomeseng", hu: "Micomeseng", ro: "Micomeseng", en: "Micomeseng",
+image: "/poi-images/micomeseng-cities-v2.webp"
+},
     description: {
       de: "Micomeseng liegt im Norden des Festlandes und ist ein Zentrum der Kakaoproduktion.",
       hu: "Micomeseng a szárazföld északi részén található, és a kakaótermelés egyik központja.",
@@ -350,7 +374,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [11.2667, 1.1333],
-    name: { de: "Nsok", hu: "Nsok", ro: "Nsok", en: "Nsok" },
+    name: { de: "Nsok", hu: "Nsok", ro: "Nsok", en: "Nsok",
+image: "/poi-images/nsok-cities-v2.webp"
+},
     description: {
       de: "Nsok ist eine abgelegene Grenzstadt im südöstlichen Teil des Festlandes von Äquatorialguinea.",
       hu: "Nsok egy távoli határváros Egyenlítői-Guinea szárazföldi részének délkeleti felén.",
@@ -378,7 +404,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.6931, 1.0842],
-    name: { de: "Cogo", hu: "Cogo", ro: "Cogo", en: "Cogo" },
+    name: { de: "Cogo", hu: "Cogo", ro: "Cogo", en: "Cogo",
+image: "/poi-images/cogo-cities-v2.webp"
+},
     description: {
       de: "Cogo liegt an der Mündung des Muni-Flusses und ist für seine koloniale Vergangenheit bekannt.",
       hu: "Cogo a Muni-folyó torkolatánál fekszik, és gyarmati múltjáról ismert.",
@@ -407,7 +435,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [11.2667, 1.0167],
-    name: { de: "Nsork", hu: "Nsork", ro: "Nsork", en: "Nsork" },
+    name: { de: "Nsork", hu: "Nsork", ro: "Nsork", en: "Nsork",
+image: "/poi-images/nsork-cities-v2.webp"
+},
     description: {
       de: "Nsork liegt im tiefen Süden und dient als wichtiger Ausgangspunkt für Besuche im Nsork-Nationalpark.",
       hu: "Nsork a távoli délen fekszik, és fontos kiindulópontként szolgál a Nsork Nemzeti Park látogatásához.",
@@ -435,7 +465,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BS",
     coords: [8.7619, 3.3811],
-    name: { de: "Riaba", hu: "Riaba", ro: "Riaba", en: "Riaba" },
+    name: { de: "Riaba", hu: "Riaba", ro: "Riaba", en: "Riaba",
+image: "/poi-images/riaba-cities-v2.webp"
+},
     description: {
       de: "Riaba ist eine Küstenstadt auf der Insel Bioko, die für ihre Geschichte als ehemaliger Kolonialhafen bekannt ist.",
       hu: "Riaba egy tengerparti város Bioko szigetén, amely egykori gyarmati kikötőként ismert.",
@@ -465,7 +497,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BN",
     coords: [8.9333, 3.6833],
-    name: { de: "Baney", hu: "Baney", ro: "Baney", en: "Baney" },
+    name: { de: "Baney", hu: "Baney", ro: "Baney", en: "Baney",
+image: "/poi-images/baney-cities-v2.webp"
+},
     description: {
       de: "Baney ist eine Stadt im Nordosten von Bioko, umgeben von fruchtbarem Ackerland.",
       hu: "Baney egy város Bioko északkeleti részén, termékeny mezőgazdasági területekkel körülvéve.",
@@ -492,7 +526,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BN",
     coords: [8.8333, 3.7167],
-    name: { de: "Rebola", hu: "Rebola", ro: "Rebola", en: "Rebola" },
+    name: { de: "Rebola", hu: "Rebola", ro: "Rebola", en: "Rebola",
+image: "/poi-images/rebola-cities-v2.webp"
+},
     description: {
       de: "Rebola ist eine malerische Kleinstadt auf Bioko, bekannt für ihre lebendige Bubi-Kultur.",
       hu: "Rebola egy festői kisváros Bioko szigetén, amely élénk bubi kultúrájáról ismert.",
@@ -519,7 +555,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-CS",
     coords: [10.1736, 1.9961],
-    name: { de: "Niefang", hu: "Niefang", ro: "Niefang", en: "Niefang" },
+    name: { de: "Niefang", hu: "Niefang", ro: "Niefang", en: "Niefang",
+image: "/poi-images/niefang-cities-v2.webp"
+},
     description: {
       de: "Niefang ist ein wichtiger Verkehrsknotenpunkt im Zentrum des Festlandes.",
       hu: "Niefang egy fontos közlekedési csomópont a szárazföld központi részén.",
@@ -547,7 +585,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-KN",
     coords: [10.5, 2.0167],
-    name: { de: "Nkue", hu: "Nkue", ro: "Nkue", en: "Nkue" },
+    name: { de: "Nkue", hu: "Nkue", ro: "Nkue", en: "Nkue",
+image: "/poi-images/nkue-cities-v2.webp"
+},
     description: {
       de: "Nkue ist eine Stadt im Norden von Río Muni, bekannt für ihre Rolle im regionalen Handel.",
       hu: "Nkue egy város Río Muni északi részén, amely a regionális kereskedelemben betöltött szerepéről ismert.",
@@ -574,7 +614,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.8167, 1.9167],
-    name: { de: "Machinda", hu: "Machinda", ro: "Machinda", en: "Machinda" },
+    name: { de: "Machinda", hu: "Machinda", ro: "Machinda", en: "Machinda",
+image: "/poi-images/machinda-cities-v2.webp"
+},
     description: {
       de: "Machinda ist eine wachsende Siedlung nahe der Stadt Bata am Festland.",
       hu: "Machinda egy növekvő település Bata városa közelében a szárazföldön.",
@@ -602,7 +644,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-CS",
     coords: [10.65, 1.0333],
-    name: { de: "Acurenam", hu: "Acurenam", ro: "Acurenam", en: "Acurenam" },
+    name: { de: "Acurenam", hu: "Acurenam", ro: "Acurenam", en: "Acurenam",
+image: "/poi-images/acurenam-cities-v2.webp"
+},
     description: {
       de: "Acurenam ist eine südliche Stadt in der Provinz Centro Sur, nahe der Grenze zu Gabun.",
       hu: "Acurenam egy déli város Centro Sur tartományban, a gaboni határ közelében.",
@@ -630,7 +674,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-CS",
     coords: [10.4667, 1.5833],
-    name: { de: "Bicurga", hu: "Bicurga", ro: "Bicurga", en: "Bicurga" },
+    name: { de: "Bicurga", hu: "Bicurga", ro: "Bicurga", en: "Bicurga",
+image: "/poi-images/bicurga-cities-v2.webp"
+},
     description: {
       de: "Bicurga ist eine kleine Gemeinde im Herzen der Provinz Centro Sur.",
       hu: "Bicurga egy kis közösség Centro Sur tartomány szívében.",
@@ -658,7 +704,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.6333, 1.45],
-    name: { de: "Bitica", hu: "Bitica", ro: "Bitica", en: "Bitica" },
+    name: { de: "Bitica", hu: "Bitica", ro: "Bitica", en: "Bitica",
+image: "/poi-images/bitica-cities-v2.webp"
+},
     description: {
       de: "Bitica liegt südlich von Bata und dient als regionales Zentrum für die umliegenden Dörfer.",
       hu: "Bitica Batától délre fekszik, és a környező falvak regionális központjaként szolgál.",
@@ -686,7 +734,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.3167, 0.9167],
-    name: { de: "Corisco", hu: "Corisco", ro: "Corisco", en: "Corisco" },
+    name: { de: "Corisco", hu: "Corisco", ro: "Corisco", en: "Corisco",
+image: "/poi-images/corisco-cities-v2.webp"
+},
     description: {
       de: "Corisco ist die Hauptsiedlung auf der gleichnamigen Insel vor der Küste von Río Muni.",
       hu: "Corisco az azonos nevű sziget fő települése Río Muni partjainál.",
@@ -713,7 +763,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BS",
     coords: [8.6667, 3.35],
-    name: { de: "Moca", hu: "Moka", ro: "Moka", en: "Moka" },
+    name: { de: "Moca", hu: "Moka", ro: "Moka", en: "Moka",
+image: "/poi-images/moca-cities-v2.webp"
+},
     description: {
       de: "Moca liegt im Hochland der Insel Bioko und ist für sein kühles Klima bekannt.",
       hu: "Moka Bioko szigetének felföldjén található, és hűvös éghajlatáról ismert.",
@@ -742,7 +794,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BN",
     coords: [8.7167, 3.6667],
-    name: { de: "Basakato", hu: "Basakato", ro: "Basakato", en: "Basakato" },
+    name: { de: "Basakato", hu: "Basakato", ro: "Basakato", en: "Basakato",
+image: "/poi-images/basakato-cities-v2.webp"
+},
     description: {
       de: "Basakato ist ein traditionelles Dorf auf der Insel Bioko mit engen kulturellen Wurzeln.",
       hu: "Basakato egy hagyományos falu Bioko szigetén, mély kulturális gyökerekkel.",
@@ -771,7 +825,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BS",
     coords: [8.5, 3.4167],
-    name: { de: "Batete", hu: "Batete", ro: "Batete", en: "Batete" },
+    name: { de: "Batete", hu: "Batete", ro: "Batete", en: "Batete",
+image: "/poi-images/batete-cities-v2.webp"
+},
     description: {
       de: "Batete ist eine historische Siedlung im Süden von Bioko, bekannt für ihre Holzarchitektur.",
       hu: "Batete egy történelmi település Bioko déli részén, fatemplomáról ismert.",
@@ -802,7 +858,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BS",
     coords: [8.55, 3.4333],
-    name: { de: "Musola", hu: "Musola", ro: "Musola", en: "Musola" },
+    name: { de: "Musola", hu: "Musola", ro: "Musola", en: "Musola",
+image: "/poi-images/musola-cities-v2.webp"
+},
     description: {
       de: "Musola ist ein kleiner Ort an der Westküste von Bioko, umgeben von üppiger Vegetation.",
       hu: "Musola egy kis település Bioko nyugati partján, buja növényzettel körülvéve.",
@@ -833,7 +891,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [11.1667, 1.5],
-    name: { de: "Beayop", hu: "Beayop", ro: "Beayop", en: "Beayop" },
+    name: { de: "Beayop", hu: "Beayop", ro: "Beayop", en: "Beayop",
+image: "/poi-images/beayop-cities-v2.webp"
+},
     description: {
       de: "Beayop ist eine ländliche Siedlung in der Provinz Wele-Nzas.",
       hu: "Beayop egy vidéki település Wele-Nzas tartományban.",
@@ -864,7 +924,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-KN",
     coords: [10.75, 2.24],
-    name: { de: "Bidjabidján", hu: "Bidjabidján", ro: "Bidjabidján", en: "Bidjabidján" },
+    name: { de: "Bidjabidján", hu: "Bidjabidján", ro: "Bidjabidján", en: "Bidjabidján",
+image: "/poi-images/bidjabidjan-cities-v2.webp"
+},
     description: {
       de: "Bidjabidján liegt im äußersten Norden des Landes, nahe der kamerunischen Grenze.",
       hu: "Bidjabidján az ország távoli északi részén található, a kameruni határ közelében.",
@@ -895,7 +957,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-KN",
     coords: [11.0, 2.02],
-    name: { de: "Nsang", hu: "Nsang", ro: "Nsang", en: "Nsang" },
+    name: { de: "Nsang", hu: "Nsang", ro: "Nsang", en: "Nsang",
+image: "/poi-images/nsang-cities-v2.webp"
+},
     description: {
       de: "Nsang ist eine Stadt in der Provinz Kié-Ntem, bekannt für ihre landwirtschaftliche Umgebung.",
       hu: "Nsang egy város Kié-Ntem tartományban, mezőgazdasági környezetéről ismert.",
@@ -926,7 +990,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [11.0333, 1.7],
-    name: { de: "Ayene", hu: "Ayene", ro: "Ayene", en: "Ayene" },
+    name: { de: "Ayene", hu: "Ayene", ro: "Ayene", en: "Ayene",
+image: "/poi-images/ayene-cities-v2.webp"
+},
     description: {
       de: "Ayene ist eine charmante Stadt in der Provinz Wele-Nzas.",
       hu: "Ayene egy bájos város Wele-Nzas tartományban.",
@@ -957,7 +1023,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-WN",
     coords: [11.03, 1.62],
-    name: { de: "Mengomeyén", hu: "Mengomeyén", ro: "Mengomeyén", en: "Mengomeyén" },
+    name: { de: "Mengomeyén", hu: "Mengomeyén", ro: "Mengomeyén", en: "Mengomeyén",
+image: "/poi-images/mengomeyen-cities-v2.webp"
+},
     description: {
       de: "Mengomeyén ist ein bedeutender Ort im Landesinneren, Standort des internationalen Flughafens Mongomo.",
       hu: "Mengomeyén fontos hely a belső országrészben, itt található a Mongomo nemzetközi repülőtér.",
@@ -988,7 +1056,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.35, 1.18],
-    name: { de: "Cabo San Juan", hu: "Cabo San Juan", ro: "Cabo San Juan", en: "Cabo San Juan" },
+    name: { de: "Cabo San Juan", hu: "Cabo San Juan", ro: "Cabo San Juan", en: "Cabo San Juan",
+image: "/poi-images/cabo-san-juan-cities-v2.webp"
+},
     description: {
       de: "Cabo San Juan liegt an einer markanten Landzunge an der Südwestküste von Río Muni.",
       hu: "Cabo San Juan egy jellegzetes földnyelven található Río Muni délnyugati partján.",
@@ -1019,7 +1089,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.6167, 1.62],
-    name: { de: "Bolondo", hu: "Bolondo", ro: "Bolondo", en: "Bolondo" },
+    name: { de: "Bolondo", hu: "Bolondo", ro: "Bolondo", en: "Bolondo",
+image: "/poi-images/bolondo-cities-v2.webp"
+},
     description: {
       de: "Bolondo ist eine Küstensiedlung nördlich der Mündung des Benito-Flusses.",
       hu: "Bolondo egy tengerparti település a Benito-folyó torkolatától északra.",
@@ -1050,7 +1122,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-CS",
     coords: [10.25, 1.61],
-    name: { de: "Nkimi", hu: "Nkimi", ro: "Nkimi", en: "Nkimi" },
+    name: { de: "Nkimi", hu: "Nkimi", ro: "Nkimi", en: "Nkimi",
+image: "/poi-images/nkimi-cities-v2.webp"
+},
     description: {
       de: "Nkimi ist eine kleine Stadt in der Provinz Centro Sur, bekannt für ihre ruhige Atmosphäre.",
       hu: "Nkimi egy kisváros Centro Sur tartományban, csendes légköréről ismert.",
@@ -1081,7 +1155,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-KN",
     coords: [11.07, 1.87],
-    name: { de: "Nsok-Nsomo", hu: "Nsok-Nsomo", ro: "Nsok-Nsomo", en: "Nsok-Nsomo" },
+    name: { de: "Nsok-Nsomo", hu: "Nsok-Nsomo", ro: "Nsok-Nsomo", en: "Nsok-Nsomo",
+image: "/poi-images/nsok-nsomo-cities-v2.webp"
+},
     description: {
       de: "Nsok-Nsomo liegt im Osten von Kié-Ntem und ist ein regionales Zentrum.",
       hu: "Nsok-Nsomo Kié-Ntem keleti részén található, és regionális központként szolgál.",
@@ -1112,7 +1188,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.82, 2.34],
-    name: { de: "Río Campo", hu: "Río Campo", ro: "Río Campo", en: "Río Campo" },
+    name: { de: "Río Campo", hu: "Río Campo", ro: "Río Campo", en: "Río Campo",
+image: "/poi-images/rio-campo-cities-v2.webp"
+},
     description: {
       de: "Río Campo ist eine Grenzstadt im Norden, direkt an der Mündung des Ntem-Flusses zu Kamerun.",
       hu: "Río Campo egy határváros északon, közvetlenül az Ntem-folyó torkolatánál, Kamerun mellett.",
@@ -1143,7 +1221,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-DJ",
     coords: [10.8, 1.36],
-    name: { de: "Mbere", hu: "Mbere", ro: "Mbere", en: "Mbere" },
+    name: { de: "Mbere", hu: "Mbere", ro: "Mbere", en: "Mbere",
+image: "/poi-images/mbere-cities-v2.webp"
+},
     description: {
       de: "Mbere ist eine aufstrebende Stadt in der jungen Provinz Djibloho.",
       hu: "Mbere egy feltörekvő város a fiatal Djibloho tartományban.",
@@ -1174,7 +1254,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BN",
     coords: [8.93, 3.68],
-    name: { de: "Santiago de Baney", hu: "Santiago de Baney", ro: "Santiago de Baney", en: "Santiago de Baney" },
+    name: { de: "Santiago de Baney", hu: "Santiago de Baney", ro: "Santiago de Baney", en: "Santiago de Baney",
+image: "/poi-images/santiago-de-baney-cities-v2.webp"
+},
     description: {
       de: "Santiago de Baney ist eine historische Siedlung im Nordosten der Insel Bioko.",
       hu: "Santiago de Baney egy történelmi település Bioko szigetének északkeleti részén.",
@@ -1205,7 +1287,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BN",
     coords: [8.65, 3.65],
-    name: { de: "Basakato del Oeste", hu: "Basakato del Oeste", ro: "Basakato del Oeste", en: "Basakato del Oeste" },
+    name: { de: "Basakato del Oeste", hu: "Basakato del Oeste", ro: "Basakato del Oeste", en: "Basakato del Oeste",
+image: "/poi-images/basakato-del-oeste-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiges Dorf westlich der Hauptstadt Malabo auf der Insel Bioko.",
       hu: "Egy csendes falu a fővárostól, Malabótól nyugatra, Bioko szigetén.",
@@ -1236,7 +1320,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BN",
     coords: [8.8, 3.75],
-    name: { de: "Bilelipa", hu: "Bilelipa", ro: "Bilelipa", en: "Bilelipa" },
+    name: { de: "Bilelipa", hu: "Bilelipa", ro: "Bilelipa", en: "Bilelipa",
+image: "/poi-images/bilelipa-cities-v2.webp"
+},
     description: {
       de: "Bilelipa ist ein Küstendorf auf Bioko, bekannt für seine Fischertradition.",
       hu: "Bilelipa egy tengerparti falu Biokón, halászati hagyományairól ismert.",
@@ -1267,7 +1353,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BS",
     coords: [8.55, 3.35],
-    name: { de: "Bakake", hu: "Bakake", ro: "Bakake", en: "Bakake" },
+    name: { de: "Bakake", hu: "Bakake", ro: "Bakake", en: "Bakake",
+image: "/poi-images/bakake-cities-v2.webp"
+},
     description: {
       de: "Bakake ist eine kleine Siedlung im südlichen Teil der Insel Bioko.",
       hu: "Bakake egy kis település Bioko szigetének déli részén.",
@@ -1298,7 +1386,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-BS",
     coords: [8.52, 3.48],
-    name: { de: "Fishtown", hu: "Fishtown", ro: "Fishtown", en: "Fishtown" },
+    name: { de: "Fishtown", hu: "Fishtown", ro: "Fishtown", en: "Fishtown",
+image: "/poi-images/fishtown-cities-v2.webp"
+},
     description: {
       de: "Fishtown ist eine historische Küstenortschaft auf der Insel Bioko.",
       hu: "Fishtown egy történelmi tengerparti település Bioko szigetén.",
@@ -1329,7 +1419,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.5, 1.5],
-    name: { de: "Cupapa", hu: "Cupapa", ro: "Cupapa", en: "Cupapa" },
+    name: { de: "Cupapa", hu: "Cupapa", ro: "Cupapa", en: "Cupapa",
+image: "/poi-images/cupapa-cities-v2.webp"
+},
     description: {
       de: "Cupapa ist ein ländliches Dorf in der Küstenregion Río Muni.",
       hu: "Cupapa egy vidéki falu Río Muni tengerparti régiójában.",
@@ -1360,7 +1452,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.8, 1.6],
-    name: { de: "Sendje", hu: "Sendje", ro: "Sendje", en: "Sendje" },
+    name: { de: "Sendje", hu: "Sendje", ro: "Sendje", en: "Sendje",
+image: "/poi-images/sendje-cities-v2.webp"
+},
     description: {
       de: "Sendje ist eine Gemeinde südlich von Bata, bekannt für ihre Gemeinschaft.",
       hu: "Sendje egy közösség Batától délre, amely összetartó lakosságáról ismert.",
@@ -1391,7 +1485,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-LI",
     coords: [9.8, 1.8],
-    name: { de: "Bata-manga", hu: "Bata-manga", ro: "Bata-manga", en: "Bata-manga" },
+    name: { de: "Bata-manga", hu: "Bata-manga", ro: "Bata-manga", en: "Bata-manga",
+image: "/poi-images/bata-manga-cities-v2.webp"
+},
     description: {
       de: "Bata-manga ist ein Stadtteil und Vorort von Bata am Festland.",
       hu: "Bata-manga Bata egyik városnegyede és elővárosa a szárazföldön.",
@@ -1422,7 +1518,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-CS",
     coords: [10.37, 1.53],
-    name: { de: "Nkumekien", hu: "Nkumekien", ro: "Nkumekien", en: "Nkumekien" },
+    name: { de: "Nkumekien", hu: "Nkumekien", ro: "Nkumekien", en: "Nkumekien",
+image: "/poi-images/nkumekien-cities-v2.webp"
+},
     description: {
       de: "Nkumekien ist eine kleine Ortschaft in den Hügeln von Centro Sur.",
       hu: "Nkumekien egy kis település Centro Sur dombjai között.",
@@ -1453,7 +1551,9 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     type: "city",
     parent: "GQ-KN",
     coords: [10.9, 2.15],
-    name: { de: "Ayene", hu: "Ayene", ro: "Ayene", en: "Ayene" },
+    name: { de: "Ayene", hu: "Ayene", ro: "Ayene", en: "Ayene",
+image: "/poi-images/ayene-kie-ntem-cities-v2.webp"
+},
     description: {
       de: "Dieses Ayene befindet sich in der Provinz Kié-Ntem im Norden.",
       hu: "Ez az Ayene az északi Kié-Ntem tartományban található.",

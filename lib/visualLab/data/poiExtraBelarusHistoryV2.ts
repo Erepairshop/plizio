@@ -4,7 +4,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-mir-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle" },
+    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle",
+image: "/poi-images/belarus-mir-castle-history-v2.webp"
+},
     coords: [26.4728, 53.4511],
     coordinates: { lat: 53.4511, lng: 26.4728 },
     description: {
@@ -35,7 +37,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-nesvizh-castle-history-v2",
     type: "palace",
-    name: { de: "Schloss Njaswisch", hu: "Njaszvizi kastély", ro: "Castelul Nesvizh", en: "Nesvizh Castle" },
+    name: { de: "Schloss Njaswisch", hu: "Njaszvizi kastély", ro: "Castelul Nesvizh", en: "Nesvizh Castle",
+image: "/poi-images/belarus-nesvizh-castle-history-v2.webp"
+},
     coords: [26.6917, 53.2228],
     coordinates: { lat: 53.2228, lng: 26.6917 },
     description: {
@@ -66,7 +70,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-brest-fortress-history-v2",
     type: "monument",
-    name: { de: "Festung Brest", hu: "Breszti erőd", ro: "Cetatea Brest", en: "Brest Fortress" },
+    name: { de: "Festung Brest", hu: "Breszti erőd", ro: "Cetatea Brest", en: "Brest Fortress",
+image: "/poi-images/belarus-brest-fortress-history-v2.webp"
+},
     coords: [23.6553, 52.0827],
     coordinates: { lat: 52.0827, lng: 23.6553 },
     description: {
@@ -97,7 +103,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-khatyn-memorial-history-v2",
     type: "monument",
-    name: { de: "Gedenkstätte Chatyn", hu: "Hatinyi emlékhely", ro: "Complexul Memorial Khatyn", en: "Khatyn Memorial" },
+    name: { de: "Gedenkstätte Chatyn", hu: "Hatinyi emlékhely", ro: "Complexul Memorial Khatyn", en: "Khatyn Memorial",
+image: "/poi-images/belarus-khatyn-memorial-history-v2.webp"
+},
     coords: [27.9436, 54.3353],
     coordinates: { lat: 54.3353, lng: 27.9436 },
     description: {
@@ -128,7 +136,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-polotsk-st-sophia-history-v2",
     type: "cathedral",
-    name: { de: "Sophienkathedrale Polozk", hu: "Polocki Szent Szófia-székesegyház", ro: "Catedrala Sfânta Sofia din Polonțk", en: "Saint Sophia Cathedral in Polotsk" },
+    name: { de: "Sophienkathedrale Polozk", hu: "Polocki Szent Szófia-székesegyház", ro: "Catedrala Sfânta Sofia din Polonțk", en: "Saint Sophia Cathedral in Polotsk",
+image: "/poi-images/belarus-polotsk-st-sophia-history-v2.webp"
+},
     coords: [28.7583, 55.4861],
     coordinates: { lat: 55.4861, lng: 28.7583 },
     description: {
@@ -160,7 +170,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-stalin-line-history-v2",
     type: "battlefield",
-    name: { de: "Stalin-Linie", hu: "Sztálin-vonal", ro: "Linia Stalin", en: "Stalin Line" },
+    name: { de: "Stalin-Linie", hu: "Sztálin-vonal", ro: "Linia Stalin", en: "Stalin Line",
+image: "/poi-images/belarus-stalin-line-history-v2.webp"
+},
     coords: [27.2944, 54.0583],
     coordinates: { lat: 54.0583, lng: 27.2944 },
     description: {
@@ -191,7 +203,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-hrodna-old-castle-history-v2",
     type: "castle",
-    name: { de: "Altes Schloss Grodno", hu: "Grodnói régi vár", ro: "Castelul Vechi din Grodno", en: "Hrodna Old Castle" },
+    name: { de: "Altes Schloss Grodno", hu: "Grodnói régi vár", ro: "Castelul Vechi din Grodno", en: "Hrodna Old Castle",
+image: "/poi-images/belarus-hrodna-old-castle-history-v2.webp"
+},
     coords: [23.8236, 53.6769],
     coordinates: { lat: 53.6769, lng: 23.8236 },
     description: {
@@ -222,7 +236,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-lida-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Lida", hu: "Lidai vár", ro: "Castelul Lida", en: "Lida Castle" },
+    name: { de: "Burg Lida", hu: "Lidai vár", ro: "Castelul Lida", en: "Lida Castle",
+image: "/poi-images/belarus-lida-castle-history-v2.webp"
+},
     coords: [25.3025, 53.8872],
     coordinates: { lat: 53.8872, lng: 25.3025 },
     description: {
@@ -254,7 +270,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-kosava-castle-history-v2",
     type: "palace",
-    name: { de: "Palast von Kosava", hu: "Koszavai kastély", ro: "Palatul Kosava", en: "Kosava Castle" },
+    name: { de: "Palast von Kosava", hu: "Koszavai kastély", ro: "Palatul Kosava", en: "Kosava Castle",
+image: "/poi-images/belarus-kosava-castle-history-v2.webp"
+},
     coords: [25.1219, 52.7656],
     coordinates: { lat: 52.7656, lng: 25.1219 },
     description: {
@@ -285,7 +303,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-ruzhany-palace-history-v2",
     type: "ruins",
-    name: { de: "Palast von Ruschany", hu: "Ruzsanyi palota", ro: "Palatul Ruzhany", en: "Ruzhany Palace" },
+    name: { de: "Palast von Ruschany", hu: "Ruzsanyi palota", ro: "Palatul Ruzhany", en: "Ruzhany Palace",
+image: "/poi-images/belarus-ruzhany-palace-history-v2.webp"
+},
     coords: [24.8961, 52.8603],
     coordinates: { lat: 52.8603, lng: 24.8961 },
     description: {
@@ -316,7 +336,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-gomel-palace-history-v2",
     type: "palace",
-    name: { de: "Palast- und Parkensemble Gomel", hu: "Homeli palota és park", ro: "Complexul Palatului și Parcului Gomel", en: "Gomel Palace and Park Ensemble" },
+    name: { de: "Palast- und Parkensemble Gomel", hu: "Homeli palota és park", ro: "Complexul Palatului și Parcului Gomel", en: "Gomel Palace and Park Ensemble",
+image: "/poi-images/belarus-gomel-palace-history-v2.webp"
+},
     coords: [31.0164, 52.4225],
     coordinates: { lat: 52.4225, lng: 31.0164 },
     description: {
@@ -347,7 +369,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-turov-ancient-history-v2",
     type: "ruins",
-    name: { de: "Antikes Turow", hu: "Ősi Turav", ro: "Turovul Antic", en: "Ancient Turov" },
+    name: { de: "Antikes Turow", hu: "Ősi Turav", ro: "Turovul Antic", en: "Ancient Turov",
+image: "/poi-images/belarus-turov-ancient-history-v2.webp"
+},
     coords: [27.7333, 52.0667],
     coordinates: { lat: 52.0667, lng: 27.7333 },
     description: {
@@ -378,7 +402,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-berestye-archeology-history-v2",
     type: "museum",
-    name: { de: "Archäologisches Museum Berestje", hu: "Berestye Régészeti Múzeum", ro: "Muzeul Arheologic Berestye", en: "Berestye Archeological Museum" },
+    name: { de: "Archäologisches Museum Berestje", hu: "Berestye Régészeti Múzeum", ro: "Muzeul Arheologic Berestye", en: "Berestye Archeological Museum",
+image: "/poi-images/belarus-berestye-archeology-history-v2.webp"
+},
     coords: [23.6558, 52.0797],
     coordinates: { lat: 52.0797, lng: 23.6558 },
     description: {
@@ -409,7 +435,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-krevo-castle-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Krewo", hu: "Krevói várrom", ro: "Ruinele Castelului Krevo", en: "Krevo Castle Ruins" },
+    name: { de: "Burgruine Krewo", hu: "Krevói várrom", ro: "Ruinele Castelului Krevo", en: "Krevo Castle Ruins",
+image: "/poi-images/belarus-krevo-castle-ruins-history-v2.webp"
+},
     coords: [26.2828, 54.3103],
     coordinates: { lat: 54.3103, lng: 26.2828 },
     description: {
@@ -440,7 +468,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-novogrudok-castle-history-v2",
     type: "ruins",
-    name: { de: "Burg Nowogrudok", hu: "Novogrúdeki vár", ro: "Castelul Novogrudok", en: "Novogrudok Castle" },
+    name: { de: "Burg Nowogrudok", hu: "Novogrúdeki vár", ro: "Castelul Novogrudok", en: "Novogrudok Castle",
+image: "/poi-images/belarus-novogrudok-castle-history-v2.webp"
+},
     coords: [25.8272, 53.6017],
     coordinates: { lat: 53.6017, lng: 25.8272 },
     description: {
@@ -472,7 +502,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-halshany-castle-history-v2",
     type: "ruins",
-    name: { de: "Schloss Holschany", hu: "Halsanyi vár", ro: "Castelul Halshany", en: "Halshany Castle" },
+    name: { de: "Schloss Holschany", hu: "Halsanyi vár", ro: "Castelul Halshany", en: "Halshany Castle",
+image: "/poi-images/belarus-halshany-castle-history-v2.webp"
+},
     coords: [26.0203, 54.2514],
     coordinates: { lat: 54.2514, lng: 26.0203 },
     description: {
@@ -503,7 +535,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-minsk-upper-town-history-v2",
     type: "city",
-    name: { de: "Minsker Oberstadt", hu: "Minszki felsőváros", ro: "Orașul de Sus din Minsk", en: "Minsk Upper Town" },
+    name: { de: "Minsker Oberstadt", hu: "Minszki felsőváros", ro: "Orașul de Sus din Minsk", en: "Minsk Upper Town",
+image: "/poi-images/belarus-minsk-upper-town-history-v2.webp"
+},
     coords: [27.5561, 53.9036],
     coordinates: { lat: 53.9036, lng: 27.5561 },
     description: {
@@ -535,7 +569,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-vitebsk-ratusha-history-v2",
     type: "tower",
-    name: { de: "Rathaus von Witebsk", hu: "Vityebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk City Hall" },
+    name: { de: "Rathaus von Witebsk", hu: "Vityebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk City Hall",
+image: "/poi-images/belarus-vitebsk-ratusha-history-v2.webp"
+},
     coords: [30.2058, 55.1953],
     coordinates: { lat: 55.1953, lng: 30.2058 },
     description: {
@@ -567,7 +603,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-mahilyou-city-hall-history-v2",
     type: "tower",
-    name: { de: "Rathaus von Mogilew", hu: "Mohiljovi városháza", ro: "Primăria din Moghilău", en: "Mahilyou City Hall" },
+    name: { de: "Rathaus von Mogilew", hu: "Mohiljovi városháza", ro: "Primăria din Moghilău", en: "Mahilyou City Hall",
+image: "/poi-images/belarus-mahilyou-city-hall-history-v2.webp"
+},
     coords: [30.3325, 53.8942],
     coordinates: { lat: 53.8942, lng: 30.3325 },
     description: {
@@ -599,7 +637,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-synkavichy-church-history-v2",
     type: "church",
-    name: { de: "Wehrkirche Synkawitschy", hu: "Szinkavicsi erődtemplom", ro: "Biserica fortificată Synkavichy", en: "Synkavichy Fortified Church" },
+    name: { de: "Wehrkirche Synkawitschy", hu: "Szinkavicsi erődtemplom", ro: "Biserica fortificată Synkavichy", en: "Synkavichy Fortified Church",
+image: "/poi-images/belarus-synkavichy-church-history-v2.webp"
+},
     coords: [25.1553, 53.1233],
     coordinates: { lat: 53.1233, lng: 25.1553 },
     description: {
@@ -630,7 +670,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-babruysk-fortress-history-v2",
     type: "battlefield",
-    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Babruysk", en: "Babruysk Fortress" },
+    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Babruysk", en: "Babruysk Fortress",
+image: "/poi-images/belarus-babruysk-fortress-history-v2.webp"
+},
     coords: [29.2431, 53.1389],
     coordinates: { lat: 53.1389, lng: 29.2431 },
     description: {
@@ -661,7 +703,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-luzhany-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Lubscha", hu: "Lubcsai vár", ro: "Castelul Lubcha", en: "Lubcha Castle" },
+    name: { de: "Schloss Lubscha", hu: "Lubcsai vár", ro: "Castelul Lubcha", en: "Lubcha Castle",
+image: "/poi-images/belarus-luzhany-castle-history-v2.webp"
+},
     coords: [26.0592, 53.7522],
     coordinates: { lat: 53.7522, lng: 26.0592 },
     description: {
@@ -692,7 +736,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-bykhaw-fortress-history-v2",
     type: "ruins",
-    name: { de: "Burg und Synagoge Bychau", hu: "Bihavi vár és zsinagóga", ro: "Castelul și sinagoga din Bykhaw", en: "Bykhaw Castle and Synagogue" },
+    name: { de: "Burg und Synagoge Bychau", hu: "Bihavi vár és zsinagóga", ro: "Castelul și sinagoga din Bykhaw", en: "Bykhaw Castle and Synagogue",
+image: "/poi-images/belarus-bykhaw-fortress-history-v2.webp"
+},
     coords: [30.2589, 53.5189],
     coordinates: { lat: 53.5189, lng: 30.2589 },
     description: {
@@ -723,7 +769,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-zaslawye-museum-history-v2",
     type: "ruins",
-    name: { de: "Geschichtsmuseum Saslauje", hu: "Zaszlavjei Történelmi Múzeum", ro: "Muzeul de Istorie Zaslawye", en: "Zaslawye Historical Museum-Reserve" },
+    name: { de: "Geschichtsmuseum Saslauje", hu: "Zaszlavjei Történelmi Múzeum", ro: "Muzeul de Istorie Zaslawye", en: "Zaslawye Historical Museum-Reserve",
+image: "/poi-images/belarus-zaslawye-museum-history-v2.webp"
+},
     coords: [27.2889, 54.0083],
     coordinates: { lat: 54.0083, lng: 27.2889 },
     description: {
@@ -754,7 +802,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-pinsk-collegium-history-v2",
     type: "university",
-    name: { de: "Jesuitenkolleg Pinsk", hu: "Pinszki jezsuita kollégium", ro: "Colegiul Iezuit din Pinsk", en: "Pinsk Jesuit Collegium" },
+    name: { de: "Jesuitenkolleg Pinsk", hu: "Pinszki jezsuita kollégium", ro: "Colegiul Iezuit din Pinsk", en: "Pinsk Jesuit Collegium",
+image: "/poi-images/belarus-pinsk-collegium-history-v2.webp"
+},
     coords: [26.1044, 52.1122],
     coordinates: { lat: 52.1122, lng: 26.1044 },
     description: {
@@ -785,7 +835,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-muravanka-church-history-v2",
     type: "church",
-    name: { de: "Wehrkirche Murawanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Muravanka Fortified Church" },
+    name: { de: "Wehrkirche Murawanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Muravanka Fortified Church",
+image: "/poi-images/belarus-muravanka-church-history-v2.webp"
+},
     coords: [24.7583, 53.6975],
     coordinates: { lat: 53.6975, lng: 24.7583 },
     description: {
@@ -816,7 +868,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-berezina-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld an der Beresina", hu: "Berezina-menti csatatér", ro: "Câmpul de luptă de la Berezina", en: "Berezina River Battlefield" },
+    name: { de: "Schlachtfeld an der Beresina", hu: "Berezina-menti csatatér", ro: "Câmpul de luptă de la Berezina", en: "Berezina River Battlefield",
+image: "/poi-images/belarus-berezina-battlefield-history-v2.webp"
+},
     coords: [28.3517, 54.3217],
     coordinates: { lat: 54.3217, lng: 28.3517 },
     description: {
@@ -847,7 +901,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-slutsk-belts-history-v2",
     type: "city",
-    name: { de: "Historisches Sluzk", hu: "Történelmi Szluck", ro: "Slutskul Istoric", en: "Historic Slutsk" },
+    name: { de: "Historisches Sluzk", hu: "Történelmi Szluck", ro: "Slutskul Istoric", en: "Historic Slutsk",
+image: "/poi-images/belarus-slutsk-belts-history-v2.webp"
+},
     coords: [27.5583, 53.0275],
     coordinates: { lat: 53.0275, lng: 27.5583 },
     description: {
@@ -881,7 +937,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-zhirovichi-monastery-history-v2",
     type: "cathedral",
-    name: { de: "Kloster Schirowitschi", hu: "Zsirovicsi kolostor", ro: "Mănăstirea Zhirovichi", en: "Zhirovichi Monastery" },
+    name: { de: "Kloster Schirowitschi", hu: "Zsirovicsi kolostor", ro: "Mănăstirea Zhirovichi", en: "Zhirovichi Monastery",
+image: "/poi-images/belarus-zhirovichi-monastery-history-v2.webp"
+},
     coords: [25.3444, 53.0142],
     coordinates: { lat: 53.0142, lng: 25.3444 },
     description: {
@@ -912,7 +970,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-novogrudok-hill-history-v2",
     type: "ruins",
-    name: { de: "Schlossberg Nowogrudok", hu: "Novogrúdeki várhegy", ro: "Dealul Castelului Novogrudok", en: "Novogrudok Castle Hill" },
+    name: { de: "Schlossberg Nowogrudok", hu: "Novogrúdeki várhegy", ro: "Dealul Castelului Novogrudok", en: "Novogrudok Castle Hill",
+image: "/poi-images/belarus-novogrudok-hill-history-v2.webp"
+},
     coords: [25.8272, 53.6017],
     coordinates: { lat: 53.6017, lng: 25.8272 },
     description: {
@@ -943,7 +1003,9 @@ export const belarusHistoryV2: POI[] = [
   {
     id: "belarus-lida-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Lida", hu: "Lidai erőd", ro: "Cetatea Lida", en: "Lida Fortress" },
+    name: { de: "Festung Lida", hu: "Lidai erőd", ro: "Cetatea Lida", en: "Lida Fortress",
+image: "/poi-images/belarus-lida-fortress-history-v2.webp"
+},
     coords: [25.3025, 53.8872],
     coordinates: { lat: 53.8872, lng: 25.3025 },
     description: {

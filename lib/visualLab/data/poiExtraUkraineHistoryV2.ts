@@ -4,7 +4,9 @@ export const ukraineHistoryV2: POI[] = [
   {
     id: "ukraine-chersonesus-history-v2",
     type: "ruins",
-    name: { de: "Chersones", hu: "Herszonészosz", ro: "Chersones", en: "Chersonesus" },
+    name: { de: "Chersones", hu: "Herszonészosz", ro: "Chersones", en: "Chersonesus",
+image: "/poi-images/ukraine-chersonesus-history-v2.webp"
+},
     coords: [33.4925, 44.6106],
     coordinates: { lat: 44.6106, lng: 33.4925 },
     description: {
@@ -19,11 +21,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Fondată în secolul al V-lea î.Hr. de coloniști din Heraclea Pontica.", "Locul legendar al botezului lui Vladimir cel Mare în anul 988.", "Teatrul antic avea o capacitate de aproximativ 3.000 de spectatori.", "Orașul a fost abandonat în secolul al XIV-lea după atacurile Hoardei de Aur."],
       en: ["Founded in the 5th century BC by settlers from Heraclea Pontica.", "Site of the legendary baptism of Vladimir the Great in 988.", "The ancient theater had a seating capacity of about 3,000.", "Abandoned in the 14th century following Golden Horde attacks."],
     },
-    imageHint: "Ruins of ancient Chersonesus with Byzantine columns near the sea", image: "/poi-images/ukraine-chersonesus-history-v2.webp"},
-  {
+imageHint: "Ruins of ancient Chersonesus with Byzantine columns near the sea",
+    descriptionAdvanced: {
+      de: "Die antike griechische Stadt wurde im 6. Jahrhundert v. Chr. gegründet und gilt als Ort der Taufe von Wladimir dem Großen im Jahr 988, was die Kiewer Rus prägte.",
+      hu: "Az i.e. 6. században alapított görög gyarmatváros Szevasztopol mellett fekszik. Itt keresztelték meg Nagy Vlagyimir fejedelmet 988-ban, megnyitva az utat a kereszténységnek.",
+      ro: "Fondată în secolul VI î.Hr., această colonie greacă antică este locul unde Cneazul Vladimir cel Mare a fost botezat în 988, marcând creștinarea oficială a Rusiei Kievene.",
+      en: "Founded in the 6th century BC, this ancient Greek colony is famous as the site where Prince Vladimir the Great was baptized in 988, initiating the Christianization of Rus.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 528 v. Chr.", "UNESCO-Welterbe seit 2013", "Besteht aus über 240 Hektar", "Ruinen von 28 byzantinischen Kirchen"],
+      hu: ["Alapítás ideje: i.e. 528 körül", "2013 óta az UNESCO Világörökség része", "Területe több mint 240 hektár", "28 bizánci bazilika maradványa látható"],
+      ro: ["Fondat în aproximativ 528 î.Hr.", "Patrimoniu UNESCO din 2013", "Suprafață de peste 240 hectare", "Peste 28 de ruine de biserici bizantine"],
+      en: ["Founded around 528 BC", "UNESCO World Heritage site since 2013", "Covers over 240 hectares", "Ruins of 28 Byzantine basilicas found"],
+    },
+    image: "/poi-images/ukraine-chersonesus-history-v2.webp",
+},  {
     id: "ukraine-khotyn-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Chotyn", hu: "Hotini vár", ro: "Cetatea Hotin", en: "Khotyn Fortress" },
+    name: { de: "Festung Chotyn", hu: "Hotini vár", ro: "Cetatea Hotin", en: "Khotyn Fortress",
+image: "/poi-images/ukraine-khotyn-fortress-history-v2.webp"
+},
     coords: [26.4986, 48.5222],
     coordinates: { lat: 48.5222, lng: 26.4986 },
     description: {
@@ -38,11 +55,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Zidurile cetății au o înălțime de până la 40 de metri și 5 metri grosime.", "Cunoscută pentru bătălia de la Hotin din 1621.", "Fortăreața a fost extinsă sub domnia lui Ștefan cel Mare al Moldovei.", "A servit drept decor pentru numeroase filme istorice de aventură."],
       en: ["The fortress walls are up to 40 meters high and 5 meters thick.", "Famed for the Battle of Khotyn in 1621 against the Ottomans.", "Expanded significantly under Moldavian Prince Stephen the Great.", "Has served as a filming location for numerous historical adventure movies."],
     },
-    imageHint: "Medieval Khotyn Fortress with high stone walls by the Dniester river", image: "/poi-images/ukraine-khotyn-fortress-history-v2.webp"},
-  {
+imageHint: "Medieval Khotyn Fortress with high stone walls by the Dniester river",
+    descriptionAdvanced: {
+      de: "Diese strategische Festung am Dnister war Schauplatz der berühmten Schlacht von 1621, in der polnisch-litauische und kosakische Truppen das osmanische Heer besiegten.",
+      hu: "A Dnyeszter partján álló stratégiai erőd az 1621-es csata helyszíne, ahol a lengyel és kozák hadak megállították az Oszmán Birodalom hatalmas északi terjeszkedését.",
+      ro: "Această cetate strategică de pe Nistru a fost locul celebrei bătălii din 1621, unde forțele polono-lituaniene și căzăcești au oprit expansiunea Imperiului Otoman.",
+      en: "This strategic fortress on the Dniester River witnessed the 1621 battle where Polish-Lithuanian and Cossack forces decisively halted the massive Ottoman army advance.",
+    },
+    factsAdvanced: {
+      de: ["Erste Steinmauern im 13. Jh.", "Mauern sind bis zu 40 Meter hoch", "Umfasst 21 Hektar Gelände", "Im 15. Jh. unter Stefan dem Großen ausgebaut"],
+      hu: ["Első kőfalai a 13. században épültek", "A falak magassága eléri a 40 métert", "Az erőd területe 21 hektár", "III. István moldvai fejedelem bővítette"],
+      ro: ["Primele ziduri de piatră în sec. XIII", "Ziduri înalte de până la 40 de metri", "Complexul ocupă 21 de hectare", "Extinsă de Ștefan cel Mare în sec. XV"],
+      en: ["First stone walls built in 13th century", "Walls reach a height of 40 meters", "Covers an area of 21 hectares", "Expanded by Stephen the Great in 15th century"],
+    },
+    image: "/poi-images/ukraine-khotyn-fortress-history-v2.webp",
+},  {
     id: "ukraine-kamianets-podilskyi-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Kamjanez-Podilskyj", hu: "Kamjanec-pogyilszkiji vár", ro: "Cetatea Camenița", en: "Kamianets-Podilskyi Castle" },
+    name: { de: "Burg Kamjanez-Podilskyj", hu: "Kamjanec-pogyilszkiji vár", ro: "Cetatea Camenița", en: "Kamianets-Podilskyi Castle",
+image: "/poi-images/ukraine-kamianets-podilskyi-castle-history-v2.webp"
+},
     coords: [26.5631, 48.6736],
     coordinates: { lat: 48.6736, lng: 26.5631 },
     description: {
@@ -57,11 +89,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Cetatea este compusă din douăsprezece turnuri, fiecare având un nume propriu.", "A fost cucerită prin asediu doar de două ori în întreaga sa istorie.", "Podul cetății este singurul pod care nu leagă două maluri, ci doi munți.", "Face parte din lista celor șapte minuni ale Ucrainei."],
       en: ["The castle consists of twelve towers, each with its own unique name.", "The fortress was successfully besieged only twice in history.", "The Castle Bridge is unique for connecting two cliffs rather than two banks.", "Listed as one of the Seven Wonders of Ukraine."],
     },
-    imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk", image: "/poi-images/ukraine-kamianets-podilskyi-castle-history-v2.webp"},
-  {
+imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
+    descriptionAdvanced: {
+      de: "Die auf einer Halbinsel im Smotrytsch-Fluss gelegene Burg galt als unbezwingbares Bollwerk des polnisch-litauischen Reiches gegen osmanische und tatarische Angriffe.",
+      hu: "A Szmotrics-folyó szigetén álló vár a lengyel-litván állam egyik legfontosabb határőrvidéki erődítménye volt, amely évszázadokig ellenállt a török támadásoknak.",
+      ro: "Situată pe o peninsulă formată de râul Smotrici, această cetate a servit ca bastion inexpugnabil al regatului Poloniei împotriva invaziilor otomane și tătare.",
+      en: "Situated on a loop of the Smotrych River, this castle served as an impregnable bastion for the Polish-Lithuanian Commonwealth against Ottoman and Tatar raids.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 12 Wehrtürmen", "Erstmals 1374 urkundlich erwähnt", "Verfügt über 1,5 km Tunnelgänge", "Turm der Rosa ist der älteste Teil"],
+      hu: ["12 védőtorony alkotja a várat", "Első írásos említése 1374-ből való", "1,5 km hosszú alagútrendszerrel bír", "A Rózsatorony a legősibb része"],
+      ro: ["Compusă din 12 turnuri de apărare", "Menționată documentar prima dată în 1374", "Tuneluri subterane de 1,5 km lungime", "Turnul Roza este cea mai veche parte"],
+      en: ["Consists of 12 defensive towers", "First documented mention in 1374", "Contains 1.5 km of underground passages", "The Roza tower is the oldest section"],
+    },
+    image: "/poi-images/ukraine-kamianets-podilskyi-castle-history-v2.webp",
+},  {
     id: "ukraine-pidhirtsi-castle-history-v2",
     type: "palace",
-    name: { de: "Schloss Pidhirtsi", hu: "Podhorcei kastély", ro: "Castelul Pidhirtsi", en: "Pidhirtsi Castle" },
+    name: { de: "Schloss Pidhirtsi", hu: "Podhorcei kastély", ro: "Castelul Pidhirtsi", en: "Pidhirtsi Castle",
+image: "/poi-images/ukraine-pidhirtsi-castle-history-v2.webp"
+},
     coords: [24.9836, 49.9431],
     coordinates: { lat: 49.9431, lng: 24.9836 },
     description: {
@@ -77,11 +124,25 @@ export const ukraineHistoryV2: POI[] = [
       en: ["Constructed between 1635 and 1640 for Hetman Stanisław Koniecpolski.", "Once considered one of the most magnificent palaces in Eastern Europe.", "The interiors were largely destroyed during World War I.", "Legend says the castle is haunted by a ghost known as the 'White Lady'."],
     },
     imageHint: "Renaissance Pidhirtsi Castle with classical facade and stone terraces",
+    descriptionAdvanced: {
+      de: "Das im 17. Jahrhundert erbaute Schloss verbindet Verteidigungsarchitektur mit prunkvoller Renaissance-Residenz und war einst für seine Kunstsammlungen berühmt.",
+      hu: "A 17. századi kastély a védelmi funkciót és a barokk pompát ötvözi. Egykor Európa egyik leggazdagabb műkincsgyűjteményének adott otthont a Koniecpolski-család birtokán.",
+      ro: "Construit în secolul XVII, acest castel îmbină arhitectura defensivă cu eleganța unei reședințe renascentiste, fiind renumit pentru colecțiile sale de artă.",
+      en: "Built in the 17th century, this castle blends defensive fortification with grand Renaissance palace architecture, once famous for its vast art collections.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1635 und 1640", "Entwurf von Guillaume le Vasseur de Beauplan", "Umfasst einen 20 Hektar großen Park", "Besitzt eine eigene Schlosskapelle"],
+      hu: ["1635 és 1640 között épült", "Guillaume le Vasseur de Beauplan tervezte", "Parkja 20 hektáros területen fekszik", "Saját barokk kápolnával rendelkezik"],
+      ro: ["Construit între 1635 și 1640", "Proiectat de Guillaume le Vasseur de Beauplan", "Includă un parc de 20 de hectare", "Deține o capelă proprie în stil baroc"],
+      en: ["Constructed between 1635 and 1640", "Designed by Guillaume le Vasseur de Beauplan", "Includes a 20-hectare parkland", "Features a private Baroque chapel"],
+    },
   },
   {
     id: "ukraine-baturyn-citadel-history-v2",
     type: "fortress",
-    name: { de: "Zitadelle von Baturyn", hu: "Baturini citadella", ro: "Citadela Baturin", en: "Baturyn Citadel" },
+    name: { de: "Zitadelle von Baturyn", hu: "Baturini citadella", ro: "Citadela Baturin", en: "Baturyn Citadel",
+image: "/poi-images/ukraine-baturyn-citadel-history-v2.webp"
+},
     coords: [32.8942, 51.3458],
     coordinates: { lat: 51.3458, lng: 32.8942 },
     description: {
@@ -96,11 +157,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Baturin a fost capitala Hatmanatului Căzăcesc între 1669 și 1708.", "Ivan Mazepa a transformat orașul într-un centru cultural și comercial.", "După masacrul din 1708, orașul a rămas aproape pustiu timp de un secol.", "Fortăreața actuală din lemn este o reconstrucție fidelă realizată în 2008."],
       en: ["Baturyn served as the capital of the Cossack Hetmanate from 1669 to 1708.", "Ivan Mazepa developed the city into a center of culture and trade.", "After the 1708 destruction, the city remained abandoned for nearly a century.", "The current wooden fortress is a detailed reconstruction completed in 2008."],
     },
-    imageHint: "Reconstructed wooden Baturyn Citadel with defensive towers", image: "/poi-images/ukraine-baturyn-citadel-history-v2.webp"},
-  {
+imageHint: "Reconstructed wooden Baturyn Citadel with defensive towers",
+    descriptionAdvanced: {
+      de: "Als ehemalige Hauptstadt des Kosaken-Hetmanats wurde Baturyn 1708 während des Großen Nordischen Krieges zerstört und dient heute als Symbol nationaler Geschichte.",
+      hu: "A Kozák Hetmanátus egykori fővárosát 1708-ban a cári orosz csapatok teljesen lerombolták. Ma a független Ukrajna egyik legfontosabb történelmi emlékhelye.",
+      ro: "Fosta capitală a Hetmanatului Căzăcesc, Baturyn a fost distrusă în 1708 în timpul Marelui Război al Nordului, fiind astăzi un simbol al rezistenței naționale.",
+      en: "As the former capital of the Cossack Hetmanate, Baturyn was destroyed in 1708 during the Great Northern War and now stands as a symbol of Ukrainian history.",
+    },
+    factsAdvanced: {
+      de: ["Zerstörung am 2. November 1708", "Wiederaufbau der Zitadelle ab 2008", "Residenz von Hetman Iwan Mazepa", "Umfasst das Palastensemble von Kirill Rasumowski"],
+      hu: ["1708. november 2-án pusztult el", "A citadellát 2008-ban rekonstruálták", "Mazepa hetman rezidenciája volt", "Itt áll a Razumovszkij-palota"],
+      ro: ["Distrusă la 2 noiembrie 1708", "Citadela a fost reconstruită din 2008", "Reședința hatmanului Ivan Mazepa", "Include palatul lui Kirill Razumovski"],
+      en: ["Destroyed on November 2, 1708", "Citadel reconstruction started in 2008", "Residence of Hetman Ivan Mazepa", "Features the Kirill Razumovsky Palace"],
+    },
+    image: "/poi-images/ukraine-baturyn-citadel-history-v2.webp",
+},  {
     id: "ukraine-poltava-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Poltawa", hu: "Poltavai csatatér", ro: "Câmpul de luptă de la Poltava", en: "Poltava Battlefield" },
+    name: { de: "Schlachtfeld von Poltawa", hu: "Poltavai csatatér", ro: "Câmpul de luptă de la Poltava", en: "Poltava Battlefield",
+image: "/poi-images/ukraine-poltava-battlefield-history-v2.webp"
+},
     coords: [34.5511, 49.6292],
     coordinates: { lat: 49.6292, lng: 34.5511 },
     description: {
@@ -115,11 +191,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Bătălia a avut loc pe 27 iunie 1709 (conform calendarului iulian).", "Petru cel Mare a comandat personal trupele rusești în timpul luptei.", "Regele Carol al XII-lea al Suediei a fost forțat să fugă în Imperiul Otoman.", "În prezent, complexul include un muzeu și mai multe monumente comemorative."],
       en: ["The battle took place on June 27, 1709 (Julian calendar).", "Peter the Great personally commanded the Russian troops.", "King Charles XII of Sweden was forced to flee to the Ottoman Empire after the defeat.", "The site now features a museum and several memorial monuments."],
     },
-    imageHint: "Memorial park and museum at the Poltava Battlefield", image: "/poi-images/ukraine-poltava-battlefield-history-v2.webp"},
-  {
+imageHint: "Memorial park and museum at the Poltava Battlefield",
+    descriptionAdvanced: {
+      de: "Hier fand 1709 die entscheidende Schlacht statt, in der Peter der Große den schwedischen König Karl XII. besiegte und damit die europäische Machtbalance veränderte.",
+      hu: "Az 1709-es poltavai csata helyszíne, ahol I. Péter cár legyőzte XII. Károly svéd királyt, végleg eldöntve az északi háborút és Oroszország nagyhatalmi státuszát.",
+      ro: "Locul bătăliei decisive din 1709, unde Petru cel Mare l-a învins pe regele Suediei, Carol al XII-lea, schimbând echilibrul de putere în Europa de Est.",
+      en: "Site of the decisive 1709 battle where Peter the Great defeated King Charles XII of Sweden, shifting the European balance of power towards Russia.",
+    },
+    factsAdvanced: {
+      de: ["Schlacht am 27. Juni 1709", "Museumsgelände umfasst 771 Hektar", "Siegessäule im Stadtzentrum (1811)", "Über 10 Denkmäler auf dem Schlachtfeld"],
+      hu: ["A csata 1709. június 27-én zajlott", "A múzeum területe 771 hektár", "1811-ben emelt győzelmi oszlop a városban", "Több mint 10 emlékmű a csatatéren"],
+      ro: ["Bătălia a avut loc la 27 iunie 1709", "Parcul muzeal acoperă 771 hectare", "Coloana Victoriei ridicată în 1811", "Peste 10 monumente pe câmpul de luptă"],
+      en: ["Battle fought on June 27, 1709", "Museum grounds cover 771 hectares", "Victory Column erected in 1811", "Over 10 monuments across the battlefield"],
+    },
+    image: "/poi-images/ukraine-poltava-battlefield-history-v2.webp",
+},  {
     id: "ukraine-khortytsia-sich-history-v2",
     type: "fortress",
-    name: { de: "Saporoger Sitsch auf Chortyzja", hu: "Zaporozsjei Szics (Hortica)", ro: "Siciul Zaporojean de pe Hortițea", en: "Zaporizhzhian Sich (Khortytsia)" },
+    name: { de: "Saporoger Sitsch auf Chortyzja", hu: "Zaporozsjei Szics (Hortica)", ro: "Siciul Zaporojean de pe Hortițea", en: "Zaporizhzhian Sich (Khortytsia)",
+image: "/poi-images/ukraine-khortytsia-sich-history-v2.webp"
+},
     coords: [35.0747, 47.8583],
     coordinates: { lat: 47.8583, lng: 35.0747 },
     description: {
@@ -134,11 +225,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Hortițea este cea mai mare insulă de pe râul Nipru.", "Prima Sici a fost fondată în secolul al XVI-lea de către Dmitro Vișnevețki.", "Cazacii își alegeau liderii, hatmanii, în cadrul unor adunări democratice.", "Complexul include biserici din lemn, locuințe și turnuri de apărare."],
       en: ["Khortytsia is the largest island on the Dnieper River.", "The Sich was founded in the 16th century by Dmytro Vyshnevetsky.", "Cossacks elected their leaders, Hetmans, here in democratic assemblies.", "The complex includes wooden churches, houses, and defensive watchtowers."],
     },
-    imageHint: "Wooden fortress and church of the Zaporizhzhian Sich on Khortytsia island", image: "/poi-images/ukraine-khortytsia-sich-history-v2.webp"},
-  {
+imageHint: "Wooden fortress and church of the Zaporizhzhian Sich on Khortytsia island",
+    descriptionAdvanced: {
+      de: "Die Insel Chortyzja im Dnipro war das spirituelle und militärische Zentrum der Saporoger Kosaken und gilt heute als Wiege der ukrainischen Staatlichkeit.",
+      hu: "A Dnyeper legnagyobb szigete a zaporozsjei kozákok központja és katonai fészke volt. A kozák demokrácia és az ukrán önazonosság legfőbb jelképe.",
+      ro: "Insula Hortiția de pe Nipru a fost centrul spiritual și militar al cazacilor zaporojeni, fiind considerată astăzi leagănul statalității ucrainene.",
+      en: "Khortytsia Island on the Dnieper was the spiritual and military heart of the Zaporizhzhian Cossacks, regarded as the cradle of Ukrainian statehood.",
+    },
+    factsAdvanced: {
+      de: ["Größte Dnipro-Insel (12 km lang)", "Erste Sitsch gegründet um 1550", "Umfasst 2.350 Hektar Fläche", "Rekonstruierte Holzkirche von 1700"],
+      hu: ["A Dnyeper legnagyobb szigete (12 km)", "Első szics alapítása: 1550 körül", "Területe 2350 hektár", "Helyreállított 1700-as évekbeli fatemplom"],
+      ro: ["Cea mai mare insulă pe Nipru (12 km)", "Prima Sici fondată în jurul anului 1550", "Suprafață de 2.350 hectare", "Biserică de lemn reconstruită (sec. XVIII)"],
+      en: ["Largest island on the Dnieper (12 km)", "First Sich founded around 1550", "Covers 2,350 hectares of land", "Reconstructed wooden church from 1700s"],
+    },
+    image: "/poi-images/ukraine-khortytsia-sich-history-v2.webp",
+},  {
     id: "ukraine-babi-yar-memorial-history-v2",
     type: "monument",
-    name: { de: "Gedenkstätte Babyn Jar", hu: "Babij Jar emlékhely", ro: "Memorialul de la Babi Yar", en: "Babi Yar Memorial Site" },
+    name: { de: "Gedenkstätte Babyn Jar", hu: "Babij Jar emlékhely", ro: "Memorialul de la Babi Yar", en: "Babi Yar Memorial Site",
+image: "/poi-images/ukraine-babi-yar-memorial-history-v2.webp"
+},
     coords: [30.4494, 50.4714],
     coordinates: { lat: 50.4714, lng: 30.4494 },
     description: {
@@ -153,11 +259,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Masacrul principal a avut loc pe 29 și 30 septembrie 1941.", "Se estimează că un total de 100.000 de persoane au fost ucise în acest loc.", "Printre victime s-au numărat și romi, prizonieri de război sovietici și naționaliști ucraineni.", "Memorialul include mai multe monumente, inclusiv o menoră simbolică."],
       en: ["The main massacre occurred on September 29–30, 1941.", "An estimated 100,000 people in total were murdered at this site.", "Victims also included Romani people, Soviet POWs, and Ukrainian nationalists.", "The site features several monuments, including a symbolic Menorah."],
     },
-    imageHint: "Menorah monument and memorial at the Babi Yar ravine in Kyiv", image: "/poi-images/ukraine-babi-yar-memorial-history-v2.webp"},
-  {
+imageHint: "Menorah monument and memorial at the Babi Yar ravine in Kyiv",
+    descriptionAdvanced: {
+      de: "Als Ort eines der schlimmsten Massaker des Holocausts erinnert diese Gedenkstätte in Kyjiw an die Ermordung zehntausender Juden durch die Nationalsozialisten 1941.",
+      hu: "A kijevi szurdok az 1941-es náci népirtás tragikus helyszíne, ahol napok alatt több mint 33 ezer zsidó embert gyilkoltak meg. Ma nemzeti emlékhely.",
+      ro: "Locul unuia dintre cele mai atroce masacre ale Holocaustului, acest memorial din Kiev onorează memoria zecilor de mii de evrei uciși de naziști în 1941.",
+      en: "This memorial in Kyiv commemorates the victims of one of the Holocaust's deadliest massacres, where tens of thousands were murdered by Nazis in 1941.",
+    },
+    factsAdvanced: {
+      de: ["Massaker am 29.-30. Sept. 1941", "33.771 jüdische Opfer in zwei Tagen", "Über 100.000 Gesamtopfer bis 1943", "Menora-Denkmal errichtet 1991"],
+      hu: ["A fő mészárlás 1941. szept. 29-30-án történt", "33 771 zsidó áldozat két nap alatt", "Összesen kb. 100 000 áldozat 1943-ig", "A Menóra-emlékmű 1991-ben készült"],
+      ro: ["Masacrul principal: 29-30 sept. 1941", "33.771 victime evreiești în două zile", "Peste 100.000 victime totale până în 1943", "Monumentul Menora ridicat în 1991"],
+      en: ["Main massacre: Sept 29-30, 1941", "33,771 Jewish victims in two days", "Over 100,000 total victims by 1943", "Menorah monument erected in 1991"],
+    },
+    image: "/poi-images/ukraine-babi-yar-memorial-history-v2.webp",
+},  {
     id: "ukraine-ostroh-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Ostroh", hu: "Osztrogi vár", ro: "Castelul Ostrog", en: "Ostroh Castle" },
+    name: { de: "Burg Ostroh", hu: "Osztrogi vár", ro: "Castelul Ostrog", en: "Ostroh Castle",
+image: "/poi-images/ukraine-ostroh-castle-history-v2.webp"
+},
     coords: [26.5222, 50.3275],
     coordinates: { lat: 50.3275, lng: 26.5222 },
     description: {
@@ -172,11 +293,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Prinții de Ostrog au fondat aici prima instituție de învățământ superior din Europa de Est în 1576.", "'Turnul Zidit' din secolul al XIV-lea este un tip rar de donjon defensiv.", "Prima Biblie completă în slavonă a fost tipărită la Ostrog în 1581.", "Catedrala Epifaniei a servit drept necropolă pentru familia princiară."],
       en: ["The Princes of Ostroh founded the first higher education institution in Eastern Europe here in 1576.", "The 14th-century 'Stone Tower' is a rare example of a residential donjon.", "The first complete Church Slavonic Bible was printed in Ostroh in 1581.", "The Epiphany Cathedral served as the burial site for the princely family."],
     },
-    imageHint: "Medieval stone tower and cathedral of Ostroh Castle on a hill", image: "/poi-images/ukraine-ostroh-castle-history-v2.webp"},
-  {
+imageHint: "Medieval stone tower and cathedral of Ostroh Castle on a hill",
+    descriptionAdvanced: {
+      de: "Die Stammburg der Familie Ostrogski war ein bedeutendes Zentrum der orthodoxen Bildung und Kultur, in dem 1581 die berühmte Ostroger Bibel gedruckt wurde.",
+      hu: "Az Osztrogszki család székhelye a 16. századi ortodox kultúra és oktatás legfontosabb központja volt, ahol 1581-ben az első szláv Bibliát kinyomtatták.",
+      ro: "Reședința familiei Ostrogski a fost un centru major al educației și culturii ortodoxe, unde a fost tipărită celebra Biblie de la Ostrog în 1581.",
+      en: "The ancestral seat of the Ostrogski family was a vital center for Orthodox education, where the famous Ostrog Bible was printed in 1581.",
+    },
+    factsAdvanced: {
+      de: ["Mauerturm aus dem 14. Jahrhundert", "Ostrogski-Akademie gegründet 1576", "Besitzt eine 400 Jahre alte Glocke", "Ehemalige Residenz der reichsten Fürsten"],
+      hu: ["A falaktanya tornya 14. századi", "Az Akadémiát 1576-ban alapították", "400 éves történelmi harangja van", "A leggazdagabb hercegek rezidenciája volt"],
+      ro: ["Turnul principal din secolul XIV", "Academia din Ostrog fondată în 1576", "Deține un clopot vechi de 400 de ani", "Fosta reședință a celor mai bogați prinți"],
+      en: ["Stone tower dates to 14th century", "Ostrog Academy founded in 1576", "Features a 400-year-old bell", "Former residence of the wealthiest princes"],
+    },
+    image: "/poi-images/ukraine-ostroh-castle-history-v2.webp",
+},  {
     id: "ukraine-akkerman-fortress-history-v2",
     type: "fortress",
-    name: { de: "Festung Akkerman", hu: "Akkermani erőd", ro: "Cetatea Albă", en: "Akkerman Fortress" },
+    name: { de: "Festung Akkerman", hu: "Akkermani erőd", ro: "Cetatea Albă", en: "Akkerman Fortress",
+image: "/poi-images/ukraine-akkerman-fortress-history-v2.webp"
+},
     coords: [30.3506, 46.2008],
     coordinates: { lat: 46.2008, lng: 30.3506 },
     description: {
@@ -191,11 +327,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Fortăreața actuală a fost construită în mare parte în secolele XIV și XV.", "Lungimea totală a zidurilor cetății depășește 2 kilometri.", "Are 26 de turnuri conservate, care aparțineau în trecut diferitelor bresle.", "Orașul s-a aflat sub dominație genoveză, moldovenească și otomană."],
       en: ["The current fortress was largely built during the 14th and 15th centuries.", "The total length of the fortress walls exceeds 2 kilometers.", "It features 26 preserved towers, formerly belonging to different trade guilds.", "The city has been under Genoese, Moldavian, and Ottoman rule."],
     },
-    imageHint: "Massive stone walls and towers of Akkerman Fortress by the water", image: "/poi-images/ukraine-akkerman-fortress-history-v2.webp"},
-  {
+imageHint: "Massive stone walls and towers of Akkerman Fortress by the water",
+    descriptionAdvanced: {
+      de: "Die am Liman des Dnister gelegene Festung zählt zu den größten und am besten erhaltenen mittelalterlichen Wehranlagen in der heutigen Ukraine.",
+      hu: "A Dnyeszter-limán partján fekvő hatalmas erődítmény Ukrajna egyik legnagyobb középkori vára, amely genovai, moldvai és oszmán építészeti stílusokat ötvöz.",
+      ro: "Situată pe malul limanului Nistrului, această cetate este una dintre cele mai mari și mai bine conservate fortificații medievale din Ucraina.",
+      en: "Located on the Dniester Liman, this fortress is one of the largest and best-preserved medieval defensive structures in modern Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst 9 Hektar Gesamtfläche", "Besitzt 24 erhaltene Wehrtürme", "Mauern bis zu 15 Meter hoch", "Gegründet auf antiken Tyras-Ruinen"],
+      hu: ["Teljes területe 9 hektár", "24 épen maradt bástyája van", "A falak magassága 15 méterig terjed", "Az ókori Türasz romjaira épült"],
+      ro: ["Suprafață totală de 9 hectare", "Include 24 de turnuri conservate", "Ziduri înalte de până la 15 metri", "Construită pe ruinele anticului Tyras"],
+      en: ["Covers 9 hectares of land", "Features 24 surviving towers", "Walls reach up to 15 meters high", "Built atop the ruins of ancient Tyras"],
+    },
+    image: "/poi-images/ukraine-akkerman-fortress-history-v2.webp",
+},  {
     id: "ukraine-palanok-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Palanok", hu: "Munkácsi vár", ro: "Cetatea Palanok", en: "Palanok Castle" },
+    name: { de: "Burg Palanok", hu: "Munkácsi vár", ro: "Cetatea Palanok", en: "Palanok Castle",
+image: "/poi-images/ukraine-palanok-castle-history-v2.webp"
+},
     coords: [22.6869, 48.4322],
     coordinates: { lat: 48.4322, lng: 22.6869 },
     description: {
@@ -210,11 +361,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Cetatea a devenit celebră pentru apărarea condusă de Ilona Zrínyi împotriva Habsburgilor.", "Complexul este împărțit în trei secțiuni: cetatea de sus, de mijloc și de jos.", "În secolele XVIII și XIX, a servit drept închisoare politică a Imperiului Habsburgic.", "Cea mai adâncă fântână a cetății are 85 de metri adâncime, fiind săpată în stâncă."],
       en: ["The castle became famous for its defense led by Ilona Zrínyi against the Habsburgs.", "The complex is divided into three sections: upper, middle, and lower castle.", "In the 18th and 19th centuries, it served as a political prison for the Habsburg Monarchy.", "The castle's deepest well is 85 meters deep, carved directly into the rock."],
     },
-    imageHint: "Palanok Castle in Mukachevo on a high hill with multiple tiers", image: "/poi-images/ukraine-palanok-castle-history-v2.webp"},
-  {
+imageHint: "Palanok Castle in Mukachevo on a high hill with multiple tiers",
+    descriptionAdvanced: {
+      de: "Die strategisch wichtige Burg in Mukatschewo war eine Bastion der ungarischen Unabhängigkeitskämpfer und ist heute ein Wahrzeichen Transkarpatiens.",
+      hu: "A munkácsi vár a Rákóczi-szabadságharc legendás erődítménye, ahol Zrínyi Ilona három évig hősiesen védte a várat a császári ostrommal szemben.",
+      ro: "Cetatea strategică din Mucacevo a fost un bastion al luptătorilor maghiari pentru independență și este astăzi un simbol al regiunii Transcarpatia.",
+      en: "The strategic Palanok Castle in Mukachevo was a bastion for Hungarian independence fighters and remains a key landmark of the Transcarpathian region.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen auf einem 68m hohen Vulkanhügel", "Umfasst 14.000 m² Innenfläche", "Tiefe des Burgbrunnens: 85 Meter", "Diente von 1782 bis 1896 als Gefängnis"],
+      hu: ["68 méter magas vulkáni dombon áll", "Belső területe 14 000 m²", "A várkút mélysége 85 méter", "1782 és 1896 között börtönként szolgált"],
+      ro: ["Situată pe un deal vulcanic de 68m", "Suprafață interioară de 14.000 m²", "Adâncimea fântânii cetății: 85 metri", "A servit drept închisoare (1782-1896)"],
+      en: ["Set on a 68m high volcanic hill", "Total floor area of 14,000 m²", "Castle well is 85 meters deep", "Used as a prison from 1782 to 1896"],
+    },
+    image: "/poi-images/ukraine-palanok-castle-history-v2.webp",
+},  {
     id: "ukraine-berestechko-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Berestetschko", hu: "Beresztecskói csatatér", ro: "Câmpul de luptă de la Beresteciko", en: "Berestechko Battlefield" },
+    name: { de: "Schlachtfeld von Berestetschko", hu: "Beresztecskói csatatér", ro: "Câmpul de luptă de la Beresteciko", en: "Berestechko Battlefield",
+image: "/poi-images/ukraine-berestechko-battlefield-history-v2.webp"
+},
     coords: [25.1206, 50.3514],
     coordinates: { lat: 50.3514, lng: 25.1206 },
     description: {
@@ -229,11 +395,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Bătălia s-a încheiat cu o victorie poloneză decisivă sub regele Ioan Cazimir al II-lea.", "În prezent, aici se află Rezervația Națională Istorică 'Mormintele Cazacilor'.", "Biserica Sfântul Gheorghe de pe sit servește drept memorial pentru cazacii căzuți.", "A fost una dintre primele bătălii în care s-a utilizat masiv infanteria de linie."],
       en: ["The battle ended in a decisive Polish victory under King John II Casimir.", "The site now hosts the National Historical Memorial 'Cossack Graves'.", "The St. George's Church on site serves as a memorial for the fallen Cossacks.", "It was one of the first battles where line infantry was used on a massive scale."],
     },
-    imageHint: "Memorial church and museum building at the Berestechko battlefield", image: "/poi-images/ukraine-berestechko-battlefield-history-v2.webp"},
-  {
+imageHint: "Memorial church and museum building at the Berestechko battlefield",
+    descriptionAdvanced: {
+      de: "Auf diesem Feld fand 1651 eine der größten Landschlachten des 17. Jahrhunderts zwischen den polnischen Truppen und den Kosaken Bohdan Chmelnyzkyjs statt.",
+      hu: "1651-ben itt zajlott a 17. század egyik legnagyobb szárazföldi csatája a lengyel királyi erők és Bohdan Hmelnyickij kozák-tatár hadserege között.",
+      ro: "În 1651, acest câmp a fost martorul uneia dintre cele mai mari bătălii terestre din secolul XVII, între forțele poloneze și cazacii lui Bogdan Hmelnițki.",
+      en: "Site of one of the 17th century's largest land battles, fought in 1651 between Polish royal forces and Bohdan Khmelnytsky's Cossack army.",
+    },
+    factsAdvanced: {
+      de: ["Schlacht vom 28. Juni bis 10. Juli", "Über 200.000 Beteiligte geschätzt", "Denkmalinsel 'Kosaken-Gräber'", "Sankt-Georgs-Kirche vor Ort (1914)"],
+      hu: ["A csata június 28. és július 10. közt zajlott", "Becslések szerint 200 000 résztvevő", "Kozák-sírok emlékhely az idős szigeten", "Szent György-templom épült itt 1914-ben"],
+      ro: ["Bătălia: 28 iunie - 10 iulie 1651", "Estimare de 200.000 de combatanți", "Memorialul 'Mormintele Căzăcești'", "Biserica Sf. Gheorghe ridicată în 1914"],
+      en: ["Battle dates: June 28 - July 10, 1651", "Estimated 200,000 participants", "Home to the 'Cossack Graves' memorial", "St. George's Church built on site (1914)"],
+    },
+    image: "/poi-images/ukraine-berestechko-battlefield-history-v2.webp",
+},  {
     id: "ukraine-chyhyryn-hetman-residence-history-v2",
     type: "palace",
-    name: { de: "Hetman-Residenz Tschyhyryn", hu: "Csihirini hetmani rezidencia", ro: "Reședința Hatmanului din Cihirin", en: "Chyhyryn Hetman Residence" },
+    name: { de: "Hetman-Residenz Tschyhyryn", hu: "Csihirini hetmani rezidencia", ro: "Reședința Hatmanului din Cihirin", en: "Chyhyryn Hetman Residence",
+image: "/poi-images/ukraine-chyhyryn-hetman-residence-history-v2.webp"
+},
     coords: [32.6586, 49.0803],
     coordinates: { lat: 49.0803, lng: 32.6586 },
     description: {
@@ -248,11 +429,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Hmelnițki a primit aici diplomați din întreaga Europă și din Imperiul Otoman.", "Orașul a fost aproape complet distrus de trupele otomane în 1678.", "Complexul include palatul hatmanului, o arhivă și o trezorerie.", "Situl se află la poalele Dealului Cetății, unde se ridică un monument impunător."],
       en: ["Khmelnytsky received diplomats from all over Europe and the Ottoman Empire here.", "The city was almost completely destroyed by Ottoman forces in 1678.", "The area includes the Hetman's palace, an archive, and a treasury.", "The complex is located at the foot of Castle Hill, which features a massive monument."],
     },
-    imageHint: "Reconstructed wooden residence of the Cossack Hetman in Chyhyryn", image: "/poi-images/ukraine-chyhyryn-hetman-residence-history-v2.webp"},
-  {
+imageHint: "Reconstructed wooden residence of the Cossack Hetman in Chyhyryn",
+    descriptionAdvanced: {
+      de: "Chyhyryn war die erste Hauptstadt des ukrainischen Hetman-Staates und diente Hetman Bohdan Chmelnyzkyj als politisches und diplomatisches Zentrum.",
+      hu: "Csihirin volt az ukrán kozák állam első fővárosa és Bohdan Hmelnyickij hetman politikai központja, ahol fontos nemzetközi szerződéseket kötöttek.",
+      ro: "Chyhyryn a fost prima capitală a statului hatmanatului ucrainean, servind drept centru politic și diplomatic pentru hatmanul Bogdan Hmelnițki.",
+      en: "Chyhyryn served as the first capital of the Ukrainian Cossack state and the political and diplomatic headquarters of Hetman Bohdan Khmelnytsky.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt von 1648 bis 1676", "Rekonstruierte Hetman-Residenz (2009)", "Gelegen am Berg der Freiheit", "Sitz der diplomatischen Gesandtschaften"],
+      hu: ["Főváros 1648 és 1676 között", "A rezidenciát 2009-ben rekonstruálták", "A Szabadság-hegy lábánál fekszik", "Diplomáciai követek állandó székhelye"],
+      ro: ["Capitală între 1648 și 1676", "Reședința hatmanului reconstruită în 2009", "Situată pe Muntele Castelului", "Centru de primire a delegațiilor străine"],
+      en: ["Capital city from 1648 to 1676", "Hetman residence reconstructed in 2009", "Located on the Castle Hill", "Hosted major foreign diplomatic missions"],
+    },
+    image: "/poi-images/ukraine-chyhyryn-hetman-residence-history-v2.webp",
+},  {
     id: "ukraine-lutsk-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Luzk", hu: "Lucki vár", ro: "Castelul din Luțk", en: "Lutsk Castle" },
+    name: { de: "Burg Luzk", hu: "Lucki vár", ro: "Castelul din Luțk", en: "Lutsk Castle",
+image: "/poi-images/ukraine-lutsk-castle-history-v2.webp"
+},
     coords: [25.3228, 50.7389],
     coordinates: { lat: 50.7389, lng: 25.3228 },
     description: {
@@ -267,11 +463,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Castelul are trei turnuri principale: Turnul Porții, Turnul Styr și Turnul Vlădica.", "Găzduiește singura expoziție de clopote istorice din întreaga lume.", "Întâlnirea din 1429 a vizat apărarea comună împotriva expansiunii otomane.", "Zidurile castelului au o grosime de până la 3 metri în anumite secțiuni."],
       en: ["The castle features three prominent towers: Gateway, Styr, and Vladika towers.", "It houses the world's only museum dedicated to historical bells.", "The 1429 congress discussed the defense of Europe against Ottoman expansion.", "The castle walls reach a thickness of up to 3 meters in some parts."],
     },
-    imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries", image: "/poi-images/ukraine-lutsk-castle-history-v2.webp"},
-  {
+imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
+    descriptionAdvanced: {
+      de: "Die auch als Lubart-Burg bekannte Festung ist eine der besterhaltenen Burgen der Ukraine und war 1429 Gastgeber für einen europäischen Fürstenkongress.",
+      hu: "A Lubart-vár Ukrajna egyik legépebben maradt gótikus erődje. 1429-ben itt gyűltek össze az európai uralkodók, hogy megvitassák a török veszélyt.",
+      ro: "Cunoscută sub numele de Castelul Lubart, această fortificație este una dintre cele mai bine păstrate din Ucraina, găzduind un congres european în 1429.",
+      en: "Also known as Lubart's Castle, this is one of Ukraine's best-preserved forts, famous for hosting a major congress of European monarchs in 1429.",
+    },
+    factsAdvanced: {
+      de: ["Drei erhaltene Türme (27-28m hoch)", "Erbaut im 14. Jahrhundert", "Abgebildet auf dem 200-Hrywnja-Schein", "Beherbergt ein Glockenmuseum"],
+      hu: ["Három épp torony (27-28 méter magas)", "A 14. században épült", "A 200 hrivnyás bankjegyen is látható", "Harangmúzeumnak ad otthont"],
+      ro: ["Trei turnuri conservate (27-28m)", "Construit în secolul XIV", "Apare pe bancnota de 200 de grivne", "Găzduiește un muzeu al clopotelor"],
+      en: ["Features three towers (27-28m high)", "Built in the 14th century", "Depicted on the 200-hryvnia banknote", "Home to a specialized Bell Museum"],
+    },
+    image: "/poi-images/ukraine-lutsk-castle-history-v2.webp",
+},  {
     id: "ukraine-olesko-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Olesko", hu: "Oleszkói vár", ro: "Castelul Olesko", en: "Olesko Castle" },
+    name: { de: "Burg Olesko", hu: "Oleszkói vár", ro: "Castelul Olesko", en: "Olesko Castle",
+image: "/poi-images/ukraine-olesko-castle-history-v2.webp"
+},
     coords: [24.9006, 49.9681],
     coordinates: { lat: 49.9681, lng: 24.9006 },
     description: {
@@ -286,11 +497,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Castelul a fost menționat pentru prima dată în documente în anul 1327.", "În prezent, găzduiește o colecție importantă de artă religioasă și sculptură.", "Clădirea are un plan oval neobișnuit pentru fortificațiile vremii.", "Un parc peisagistic vast înconjoară dealul pe care se află castelul."],
       en: ["The castle was first mentioned in written records in the year 1327.", "It currently houses a significant collection of religious art and sculptures.", "The building features an unusual oval-shaped architectural layout.", "A large landscape park surrounds the castle hill."],
     },
-    imageHint: "Olesko Castle with white walls on a green hill surrounded by gardens", image: "/poi-images/ukraine-olesko-castle-history-v2.webp"},
-  {
+imageHint: "Olesko Castle with white walls on a green hill surrounded by gardens",
+    descriptionAdvanced: {
+      de: "Auf einem steilen Hügel gelegen, gilt Olesko als eine der ältesten Burgen der Region und ist als Geburtsort des polnischen Königs Jan III. Sobieski bekannt.",
+      hu: "A dombtetőn trónoló oleszkói vár a régió egyik legősibb erődje, amely leginkább III. János Sobieski lengyel király szülőhelyeként híresült el.",
+      ro: "Situat pe o colină abruptă, Olesko este unul dintre cele mai vechi castele din regiune, fiind cunoscut drept locul de naștere al regelui polonez Ian III Sobieski.",
+      en: "Perched on a steep hill, Olesko is one of the region's oldest castles and is famously the birthplace of the Polish King Jan III Sobieski.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung im Jahr 1327", "Geburtsort von Jan III. Sobieski (1629)", "Heute Zweigstelle der Lwiwer Kunstgalerie", "Umfasst eine Skulpturensammlung"],
+      hu: ["Első említése 1327-ből származik", "III. János Sobieski itt született 1629-ben", "A Lvivi Képtár egyik részlege", "Gazdag szoborgyűjteménnyel rendelkezik"],
+      ro: ["Prima mențiune documentară în 1327", "Locul nașterii lui Ian III Sobieski (1629)", "Astăzi secție a Galeriei de Artă din Liov", "Deține o vastă colecție de sculptură"],
+      en: ["First mentioned in 1327", "Birthplace of King Jan III Sobieski (1629)", "Current branch of Lviv Art Gallery", "Houses a significant sculpture collection"],
+    },
+    image: "/poi-images/ukraine-olesko-castle-history-v2.webp",
+},  {
     id: "ukraine-medzhybizh-fortress-history-v2",
     type: "fortress",
-    name: { de: "Festung Medschybisch", hu: "Medzsibizsi erőd", ro: "Cetatea Medjibij", en: "Medzhybizh Fortress" },
+    name: { de: "Festung Medschybisch", hu: "Medzsibizsi erőd", ro: "Cetatea Medjibij", en: "Medzhybizh Fortress",
+image: "/poi-images/ukraine-medzhybizh-fortress-history-v2.webp"
+},
     coords: [27.4103, 49.4361],
     coordinates: { lat: 49.4361, lng: 27.4103 },
     description: {
@@ -305,11 +531,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Cetatea actuală din piatră a fost ridicată în secolul al XVI-lea.", "La Medjibij a fost înmormântat Baal Șem Tov, fondatorul hasidismului.", "Zidurile fortăreței au o grosime de până la 4 metri.", "Incinta găzduiește o biserică de castel bine conservată din secolul al XVI-lea."],
       en: ["The current stone castle was constructed in the 16th century.", "The founder of Hasidism, Baal Shem Tov, is buried in Medzhybizh.", "The fortress walls are up to 4 meters thick in some places.", "The complex contains a well-preserved castle church from the 16th century."],
     },
-    imageHint: "Medzhybizh Fortress with white stone walls and large towers", image: "/poi-images/ukraine-medzhybizh-fortress-history-v2.webp"},
-  {
+imageHint: "Medzhybizh Fortress with white stone walls and large towers",
+    descriptionAdvanced: {
+      de: "Am Zusammenfluss von Südlichem Bug und Buschok gelegen, diente diese mächtige Festung über Jahrhunderte als Grenzschutz gegen tatarische Überfälle.",
+      hu: "A Déli-Bug és a Buzsok folyók összefolyásánál épült hatalmas erődítmény évszázadokon át védte a határt a tatarok és törökök betöréseivel szemben.",
+      ro: "Situată la confluența râurilor Bugul de Sud și Bujok, această fortăreață masivă a servit drept protecție la frontieră împotriva raidurilor tătare.",
+      en: "Located at the confluence of the Southern Bug and Buzhok rivers, this massive fortress guarded the frontier against Tatar raids for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Steinmauern aus dem 16. Jahrhundert", "Länge der Festung: 130 Meter", "Mauerdicke bis zu 4 Meter", "Beherbergt das Holodomor-Museum"],
+      hu: ["Kőfalai a 16. században épültek", "Az erőd hossza: 130 méter", "A falak vastagsága eléri a 4 métert", "Itt található a Holodomor-múzeum"],
+      ro: ["Ziduri de piatră din secolul XVI", "Lungimea fortăreței: 130 metri", "Ziduri groase de până la 4 metri", "Găzduiește muzeul foametei Holodomor"],
+      en: ["Stone walls date to the 16th century", "Fortress length is 130 meters", "Walls are up to 4 meters thick", "Houses the National Holodomor Museum"],
+    },
+    image: "/poi-images/ukraine-medzhybizh-fortress-history-v2.webp",
+},  {
     id: "ukraine-tarakaniv-fort-history-v2",
     type: "fortress",
-    name: { de: "Fort Tarakaniw", hu: "Tarakanivi erőd", ro: "Fortul Tarakaniv", en: "Tarakaniv Fort" },
+    name: { de: "Fort Tarakaniw", hu: "Tarakanivi erőd", ro: "Fortul Tarakaniv", en: "Tarakaniv Fort",
+image: "/poi-images/ukraine-tarakaniv-fort-history-v2.webp"
+},
     coords: [25.7139, 50.3625],
     coordinates: { lat: 50.3625, lng: 25.7139 },
     description: {
@@ -324,11 +565,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Fortul este în prezent parțial în ruinsă și acoperit de vegetație.", "Dispune de un sistem complex de tuneluri subterane și cazemate.", "A fost construit folosind cele mai moderne tehnici ale vremii, precum betonul și electricitatea.", "A servit drept depozit și cazarmă pentru până la 800 de soldați."],
       en: ["The fort is currently partially ruined and overgrown by nature.", "It features a complex system of underground tunnels and casemates.", "It was built using the most advanced techniques of its time, including concrete and electricity.", "It served as storage and housing for up to 800 soldiers."],
     },
-    imageHint: "Overgrown brick ruins and tunnels of the 19th-century Tarakaniv Fort", image: "/poi-images/ukraine-tarakaniv-fort-history-v2.webp"},
-  {
+imageHint: "Overgrown brick ruins and tunnels of the 19th-century Tarakaniv Fort",
+    descriptionAdvanced: {
+      de: "Dieses architektonische Meisterwerk des späten 19. Jahrhunderts wurde zur Verteidigung der Westgrenzen des Russischen Reiches als Betonfestung erbaut.",
+      hu: "A 19. század végén épült monumentális beton- és téglaerőd az Orosz Birodalom nyugati határait védte. Különleges, föld alatti folyosórendszere lenyűgöző.",
+      ro: "Această capodoperă arhitecturală de la sfârșitul secolului XIX a fost construită ca o fortificație de beton pentru a apăra granițele de vest ale Rusiei.",
+      en: "This late 19th-century architectural feat was built as a reinforced concrete fortress to defend the western borders of the Russian Empire.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1873 und 1890", "Umfasst zwei Stockwerke unter der Erde", "Verfügt über 100 Kasematten", "Fläche des Forts beträgt 4 Hektar"],
+      hu: ["1873 és 1890 között épült", "Két szintje a föld alatt fekszik", "Több mint 100 kazamatája van", "Az erőd területe 4 hektár"],
+      ro: ["Construit între 1873 și 1890", "Include două niveluri subterane", "Dispune de 100 de cazămi", "Suprafața fortului este de 4 hectare"],
+      en: ["Constructed between 1873 and 1890", "Features two subterranean levels", "Contains over 100 casemates", "Covers a total area of 4 hectares"],
+    },
+    image: "/poi-images/ukraine-tarakaniv-fort-history-v2.webp",
+},  {
     id: "ukraine-zhovkva-ideal-city-history-v2",
     type: "landmark",
-    name: { de: "Zhovkva 'Ideale Stadt'", hu: "Zsovkva 'ideális város'", ro: "Jovkva 'orașul ideal'", en: "Zhovkva 'Ideal City'" },
+    name: { de: "Zhovkva 'Ideale Stadt'", hu: "Zsovkva 'ideális város'", ro: "Jovkva 'orașul ideal'", en: "Zhovkva 'Ideal City'",
+image: "/poi-images/ukraine-zhovkva-ideal-city-history-v2.webp"
+},
     coords: [23.9708, 50.0572],
     coordinates: { lat: 50.0572, lng: 23.9708 },
     description: {
@@ -343,11 +599,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Orașul a fost fondat de comandantul polonez Stanisław Żółkiewski.", "Jovkva a fost pentru o perioadă o reședință importantă a regelui Ioan al III-lea Sobieski.", "Orașul găzduiește una dintre cele mai vechi biserici de lemn conservate din Ucraina.", "Centrul istoric se află pe lista indicativă pentru Patrimoniul Mondial UNESCO."],
       en: ["The city was founded by the Polish military commander Stanisław Żółkiewski.", "Zhovkva was once an important residence of King Jan III Sobieski.", "The town features one of the oldest surviving wooden churches in Ukraine.", "The historic center is on the tentative list for UNESCO World Heritage status."],
     },
-    imageHint: "Central square of Zhovkva with Renaissance castle and church", image: "/poi-images/ukraine-zhovkva-ideal-city-history-v2.webp"},
-  {
+imageHint: "Central square of Zhovkva with Renaissance castle and church",
+    descriptionAdvanced: {
+      de: "Zhovkva wurde nach dem Vorbild der 'idealen Stadt' der Renaissance geplant und war einst eine prächtige Residenz des polnischen Königs Jan III. Sobieski.",
+      hu: "Zsolkva a reneszánsz „ideális város” elvei alapján épült a 16. század végén. III. János Sobieski király idején fontos művészeti és vallási központ volt.",
+      ro: "Zhovkva a fost planificată pe modelul „orașului ideal” al Renașterii, servind ca reședință magnifică pentru regele polonez Ian III Sobieski.",
+      en: "Zhovkva was designed according to the Renaissance 'ideal city' concept and once served as a grand residence for Polish King Jan III Sobieski.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1594", "Besitzt eine Synagoge im Festungsstil", "Umfasst über 50 Baudenkmäler", "Entwurf von Architekt Paolo de Ducato"],
+      hu: ["1594-ben alapították", "Erődszerű zsinagógája egyedülálló", "Több mint 50 műemlék található itt", "Paolo de Ducato építész tervezte"],
+      ro: ["Oraș fondat în anul 1594", "Deține o sinagogă tip fortăreață", "Peste 50 de monumente istorice", "Proiectat de arhitectul Paolo de Ducato"],
+      en: ["Founded in 1594", "Features a unique fortress-style synagogue", "Contains over 50 architectural monuments", "Designed by architect Paolo de Ducato"],
+    },
+    image: "/poi-images/ukraine-zhovkva-ideal-city-history-v2.webp",
+},  {
     id: "ukraine-sudak-fortress-history-v2",
     type: "fortress",
-    name: { de: "Genuesische Festung Sudak", hu: "Szudaki genovai erőd", ro: "Cetatea genoveză din Sudak", en: "Genoese Fortress of Sudak" },
+    name: { de: "Genuesische Festung Sudak", hu: "Szudaki genovai erőd", ro: "Cetatea genoveză din Sudak", en: "Genoese Fortress of Sudak",
+image: "/poi-images/ukraine-sudak-fortress-history-v2.webp"
+},
     coords: [34.9583, 44.8425],
     coordinates: { lat: 44.8425, lng: 34.9583 },
     description: {
@@ -362,11 +633,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Fortăreața se întinde pe o suprafață de aproape 30 de hectare.", "Este compusă din două linii de apărare cu 14 turnuri conservate.", "Sudak a fost un punct important pe Drumul Mătăsii.", "Zidurile sunt ridicate pe stânci abrupte, direct deasupra mării."],
       en: ["The fortress covers an area of nearly 30 hectares.", "It consists of two defensive lines with 14 surviving towers.", "Sudak was an important hub on the Silk Road.", "The walls are built on steep cliffs directly overlooking the sea."],
     },
-    imageHint: "Genoese Fortress of Sudak with stone towers on a rocky cliff by the sea", image: "/poi-images/ukraine-sudak-fortress-history-v2.webp"},
-  {
+imageHint: "Genoese Fortress of Sudak with stone towers on a rocky cliff by the sea",
+    descriptionAdvanced: {
+      de: "Diese mächtige Festung der Genuesen am Schwarzen Meer zeugt von der Bedeutung der Krim für die Handelswege zwischen Europa und Asien im Mittelalter.",
+      hu: "A Krím-félszigeten fekvő genovai erődítmény a középkori Fekete-tengeri kereskedelem egyik legfontosabb vára volt, lenyűgöző lőrésekkel és bástyákkal.",
+      ro: "Această fortăreață genoveză de la Marea Neagră este o dovadă a importanței Crimeii pentru rutele comerciale dintre Europa și Asia în Evul Mediu.",
+      en: "This massive Genoese fortress on the Black Sea coast reflects Crimea's strategic role in medieval trade routes between Europe and Asia.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1371 und 1469", "Besitzt 14 erhaltene Wehrtürme", "Umfasst eine Fläche von 30 Hektar", "Mauern sind 2 Meter dick"],
+      hu: ["1371 és 1469 között épült", "14 épen maradt bástyája van", "Területe 30 hektárt tesz ki", "A falak vastagsága 2 méter"],
+      ro: ["Construită între 1371 și 1469", "Deține 14 turnuri de apărare", "Suprafață totală de 30 de hectare", "Zidurile au o grosime de 2 metri"],
+      en: ["Built between 1371 and 1469", "Features 14 defensive towers", "Covers an area of 30 hectares", "Walls are 2 meters thick"],
+    },
+    image: "/poi-images/ukraine-sudak-fortress-history-v2.webp",
+},  {
     id: "ukraine-panteleimon-church-halych-history-v2",
     type: "church",
-    name: { de: "Panteleimon-Kirche in Halych", hu: "Szent Pantaleon-templom (Halics)", ro: "Biserica Sfântul Pantelimon din Halici", en: "St. Panteleimon Church in Halych" },
+    name: { de: "Panteleimon-Kirche in Halych", hu: "Szent Pantaleon-templom (Halics)", ro: "Biserica Sfântul Pantelimon din Halici", en: "St. Panteleimon Church in Halych",
+image: "/poi-images/ukraine-panteleimon-church-halych-history-v2.webp"
+},
     coords: [24.7006, 49.1353],
     coordinates: { lat: 49.1353, lng: 24.7006 },
     description: {
@@ -381,11 +667,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1194 la ordinul prințului Roman Mstislavici.", "Fațada este decorată cu sculpturi fine în piatră și ornamente.", "A fost transformată în biserică catolică în secolul al XIV-lea.", "Biserica a fost restaurată după distrugerile suferite în Primul Război Mondial."],
       en: ["Built around 1194 on the orders of Prince Roman Mstislavich.", "The facade is decorated with fine stone carvings and ornaments.", "It was converted into a Catholic church in the 14th century.", "The church was restored after significant damage during World War I."],
     },
-    imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque portal", image: "/poi-images/ukraine-panteleimon-church-halych-history-v2.webp"},
-  {
+imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque portal",
+    descriptionAdvanced: {
+      de: "Die Ende des 12. Jahrhunderts erbaute Kirche ist das einzige erhaltene Bauwerk des antiken Halych und ein Juwel der romanischen Architektur in der Ukraine.",
+      hu: "A 12. század végén emelt templom az ősi Halics egyetlen épen maradt épülete, az ukrajnai román stílusú építészet ritka és értékes példája.",
+      ro: "Construită la sfârșitul secolului XII, această biserică este singura structură supraviețuitoare din vechiul Halici, fiind o bijuterie a stilului romanic.",
+      en: "Built in the late 12th century, this church is the sole surviving structure of ancient Halych and a masterpiece of Romanesque architecture in Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1194", "Wurde im 16. Jh. Franziskanerkloster", "Restaurierung im Jahr 1998", "Romanische Portale aus weißem Kalkstein"],
+      hu: ["1194 körül építették", "A 16. században ferences kolostor lett", "1998-ban restaurálták teljesen", "Fehér mészkőből faragott román kapuk"],
+      ro: ["Ridicată în jurul anului 1194", "Devenită mănăstire franciscană în sec. XVI", "Restaurată integral în 1998", "Portaluri romanice din calcar alb"],
+      en: ["Constructed around 1194", "Became a Franciscan friary in 16th century", "Underwent full restoration in 1998", "Features white limestone Romanesque portals"],
+    },
+    image: "/poi-images/ukraine-panteleimon-church-halych-history-v2.webp",
+},  {
     id: "ukraine-vorontsov-palace-history-v2",
     type: "palace",
-    name: { de: "Woronzow-Palast", hu: "Voroncov-kastély", ro: "Palatul Voronțov", en: "Vorontsov Palace" },
+    name: { de: "Woronzow-Palast", hu: "Voroncov-kastély", ro: "Palatul Voronțov", en: "Vorontsov Palace",
+image: "/poi-images/ukraine-vorontsov-palace-history-v2.webp"
+},
     coords: [34.0556, 44.4194],
     coordinates: { lat: 44.4194, lng: 34.0556 },
     description: {
@@ -400,11 +701,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Palatul a fost construit din rocă locală de diabaz.", "Fațada sudică seamănă cu palatul Alhambra din Granada.", "În timpul Conferinței de la Ialta din 1944, a servit drept reședință pentru Winston Churchill.", "Parcul înconjurător găzduiește peste 200 de specii de plante exotice."],
       en: ["The palace was constructed from local diabase rock.", "The southern facade resembles the Alhambra palace in Granada.", "During the 1944 Yalta Conference, it served as Winston Churchill's residence.", "The surrounding park features over 200 species of exotic plants."],
     },
-    imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statues", image: "/poi-images/ukraine-vorontsov-palace-history-v2.webp"},
-  {
+imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statues",
+    descriptionAdvanced: {
+      de: "Dieser eklektische Palast am Fuße des Ai-Petri verbindet englische Gotik mit maurischen Einflüssen und war die Krim-Residenz von Graf Michail Woronzow.",
+      hu: "Az Aj-Petri hegy lábánál fekvő palota az angol gótika és a mór stílus egyedülálló keveréke. Mihail Voroncov gróf építtette krími nyári rezidenciájának.",
+      ro: "Acest palat eclectic de la poalele muntelui Ai-Petri îmbină goticul englez cu influențe maure, fiind reședința din Crimeea a contelui Mihail Voronțov.",
+      en: "This eclectic palace at the foot of Mount Ai-Petri blends English Gothic with Moorish influences, built as the Crimean seat of Count Mikhail Vorontsov.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1828 und 1848", "Architekt war Edward Blore", "Umfasst 150 Räume", "Gelegen in einem 40 Hektar großen Park"],
+      hu: ["1828 és 1848 között épült", "Edward Blore brit építész tervezte", "150 szobája van", "40 hektáros tájképi park veszi körül"],
+      ro: ["Construit între 1828 și 1848", "Arhitect: britanicul Edward Blore", "Conține un număr de 150 de camere", "Situat într-un parc de 40 de hectare"],
+      en: ["Built from 1828 to 1848", "Designed by British architect Edward Blore", "Features 150 rooms", "Surrounded by a 40-hectare park"],
+    },
+    image: "/poi-images/ukraine-vorontsov-palace-history-v2.webp",
+},  {
     id: "ukraine-livadia-palace-history-v2",
     type: "palace",
-    name: { de: "Liwadija-Palast", hu: "Livádiai palota", ro: "Palatul Livadia", en: "Livadia Palace" },
+    name: { de: "Liwadija-Palast", hu: "Livádiai palota", ro: "Palatul Livadia", en: "Livadia Palace",
+image: "/poi-images/ukraine-livadia-palace-history-v2.webp"
+},
     coords: [34.1436, 44.4678],
     coordinates: { lat: 44.4678, lng: 34.1436 },
     description: {
@@ -419,11 +735,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Actualul Palat Alb a fost finalizat în 1911 în doar 17 luni.", "Roosevelt, Churchill și Stalin s-au întâlnit aici în februarie 1945.", "Palatul este construit în stilul neorenașterii italiene.", "În prezent, găzduiește un muzeu dedicat conferinței și dinastiei Romanov."],
       en: ["The current White Palace was completed in 1911 in just 17 months.", "Roosevelt, Churchill, and Stalin met here in February 1945.", "The palace is built in the Italian Neorenaissance style.", "Today, it houses a museum about the conference and the Romanov dynasty."],
     },
-    imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard", image: "/poi-images/ukraine-livadia-palace-history-v2.webp"},
-  {
+imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard",
+    descriptionAdvanced: {
+      de: "Als Sommerresidenz des letzten russischen Zaren erlangte der Palast 1945 Weltrang als Austragungsort der Jalta-Konferenz zwischen Stalin, Roosevelt und Churchill.",
+      hu: "Az utolsó orosz cár nyári rezidenciája 1945-ben vált világhírűvé, amikor itt tartották a jaltai konferenciát a szövetséges nagyhatalmak vezetői.",
+      ro: "Fosta reședință de vară a ultimului țar rus, palatul a devenit celebru în 1945 ca loc de desfășurare a Conferinței de la Ialta între marii lideri aliați.",
+      en: "The summer retreat of the last Russian Tsar, this palace gained global fame in 1945 as the site of the Yalta Conference between Allied leaders.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1910-1911 im Renaissancestil", "Besitzt 116 prunkvolle Räume", "Konferenzraum im Weißen Saal", "Architekt war Nikolai Krasnow"],
+      hu: ["1910-1911-ben épült reneszánsz stílusban", "116 díszes teremmel rendelkezik", "A Fehér terem volt a konferencia helyszíne", "Nyikolaj Krasznov építész tervezte"],
+      ro: ["Construit în 1910-1911 (stil renașcentist)", "Deține 116 camere somptuoase", "Sala Albă a găzduit sesiunile conferinței", "Arhitect: Nikolai Krasnov"],
+      en: ["Built in 1910-1911 in Renaissance style", "Contains 116 ornate rooms", "White Hall hosted the Yalta sessions", "Designed by architect Nikolay Krasnov"],
+    },
+    image: "/poi-images/ukraine-livadia-palace-history-v2.webp",
+},  {
     id: "ukraine-massandra-palace-history-v2",
     type: "palace",
-    name: { de: "Schloss Massandra", hu: "Masszandrai palota", ro: "Palatul Massandra", en: "Massandra Palace" },
+    name: { de: "Schloss Massandra", hu: "Masszandrai palota", ro: "Palatul Massandra", en: "Massandra Palace",
+image: "/poi-images/ukraine-massandra-palace-history-v2.webp"
+},
     coords: [34.2025, 44.5169],
     coordinates: { lat: 44.5169, lng: 34.2025 },
     description: {
@@ -438,11 +769,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Construcția a început în 1881, dar a fost finalizată abia în 1902.", "Țarul Nicolae al II-lea nu a înnoptat niciodată în palatul terminat.", "În epoca sovietică, palatul a servit drept dacea secretă pentru liderii de stat.", "Fațada este decorată cu numeroase sculpturi de himere și sfincși."],
       en: ["Construction began in 1881 but was only completed in 1902.", "Tsar Nicholas II never spent a single night in the finished palace.", "During the Soviet era, it served as a top-secret dacha for state leaders.", "The facade is adorned with numerous sculptures of chimeras and sphinxes."],
     },
-    imageHint: "French-style Massandra Palace with ornate towers and yellow brickwork", image: "/poi-images/ukraine-massandra-palace-history-v2.webp"},
-  {
+imageHint: "French-style Massandra Palace with ornate towers and yellow brickwork",
+    descriptionAdvanced: {
+      de: "Ursprünglich für Alexander III. im Stil eines französischen Schlosses entworfen, erinnert dieser märchenhafte Palast an die Chateaux der Loire-Region.",
+      hu: "A francia kastélyok stílusában épült palota eredetileg III. Sándor cár számára készült. Különleges tornyai és díszítései mesebeli hangulatot árasztanak.",
+      ro: "Proiectat inițial pentru Alexandru al III-lea în stilul unui castel francez, acest palat de poveste amintește de celebrele castele de pe Valea Loarei.",
+      en: "Originally designed for Alexander III in the style of a French chateau, this fairy-tale palace evokes the spirit of the Loire Valley castles.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1881", "Fertigstellung erst 1902", "Diente als geheime Stalin-Residenz", "Umgeben von Mammutbäumen"],
+      hu: ["Építése 1881-ben kezdődött", "Csak 1902-ben fejezték be", "Sztálin titkos nyaralója is volt", "Mamutfenyők veszik körül a parkban"],
+      ro: ["Construcția a început în 1881", "Finalizat abia în anul 1902", "A servit drept reședință secretă a lui Stalin", "Înconjurat de arbori sequoia giganți"],
+      en: ["Construction began in 1881", "Completed finally in 1902", "Later used as a secret retreat for Stalin", "Surrounded by giant sequoia trees"],
+    },
+    image: "/poi-images/ukraine-massandra-palace-history-v2.webp",
+},  {
     id: "ukraine-kachanivka-estate-history-v2",
     type: "palace",
-    name: { de: "Landsitz Katschaniwka", hu: "Kacsanyivkai birtok", ro: "Domeniul Kacanivka", en: "Kachanivka Estate" },
+    name: { de: "Landsitz Katschaniwka", hu: "Kacsanyivkai birtok", ro: "Domeniul Kacanivka", en: "Kachanivka Estate",
+image: "/poi-images/ukraine-kachanivka-estate-history-v2.webp"
+},
     coords: [32.6547, 50.8369],
     coordinates: { lat: 50.8369, lng: 32.6547 },
     description: {
@@ -457,11 +803,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Ansamblul include un palat, clădiri anexe și un parc imens.", "Parcul, cu o suprafață de 700 de hectare, este unul dintre cele mai mari din Europa.", "Aici Ilya Repin a realizat schițe pentru faimoasa sa lucrare 'Cazacii zaporojeni'.", "Este singurul domeniu din estul Ucrainei care a supraviețuit intact celui de-al Doilea Război Mondial."],
       en: ["The ensemble includes a palace, outbuildings, and a massive park.", "Covering 700 hectares, the park is one of the largest in Europe.", "Ilya Repin painted sketches for his famous work 'The Zaporozhian Cossacks' here.", "It is the only estate in Eastern Ukraine to have survived World War II intact."],
     },
-    imageHint: "Neoclassical white palace of Kachanivka with a green dome and park", image: "/poi-images/ukraine-kachanivka-estate-history-v2.webp"},
-  {
+imageHint: "Neoclassical white palace of Kachanivka with a green dome and park",
+    descriptionAdvanced: {
+      de: "Kachanivka ist das einzige vollständig erhaltene Ensemble eines Gutsbesitzers des 18. und 19. Jahrhunderts in der Ukraine und war ein Treffpunkt berühmter Künstler.",
+      hu: "Kacsanivka az egyetlen teljesen épen maradt 18-19. századi ukrán nemesi birtokegyüttes, amely egykor neves írók és zeneszerzők találkozóhelye volt.",
+      ro: "Kachanivka este singurul ansamblu nobiliar din secolele XVIII-XIX conservat integral în Ucraina, fiind un fost centru de întâlnire pentru artiști celebri.",
+      en: "Kachanivka is the only fully preserved 18th-19th century noble estate in Ukraine, once a cultural hub for famous writers and composers.",
+    },
+    factsAdvanced: {
+      de: ["Park umfasst 732 Hektar", "Hauptpalast im neoklassizistischen Stil", "12 Teiche auf dem Gelände", "Besucht von Gogol und Glinka"],
+      hu: ["A park területe 732 hektár", "Neoklasszicista stílusú főúri palota", "12 tó található a birtokon", "Gogol és Glinka is gyakran megfordult itt"],
+      ro: ["Parcul are o suprafață de 732 hectare", "Palatul principal în stil neoclasic", "Include un sistem de 12 iazuri", "Vizitat de Gogol și Glinka"],
+      en: ["Park covers 732 hectares of land", "Main palace is neoclassical in style", "Features 12 lakes on the estate", "Visited by Gogol and Glinka"],
+    },
+    image: "/poi-images/ukraine-kachanivka-estate-history-v2.webp",
+},  {
     id: "ukraine-tustan-rock-fortress-history-v2",
     type: "ruins",
-    name: { de: "Felsenfestung Tustan", hu: "Tusztáni sziklavár", ro: "Cetatea pe stâncă Tustan", en: "Tustan Rock Fortress" },
+    name: { de: "Felsenfestung Tustan", hu: "Tusztáni sziklavár", ro: "Cetatea pe stâncă Tustan", en: "Tustan Rock Fortress",
+image: "/poi-images/ukraine-tustan-rock-fortress-history-v2.webp"
+},
     coords: [23.4092, 49.1919],
     coordinates: { lat: 49.1919, lng: 23.4092 },
     description: {
@@ -476,11 +837,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Fortăreața a existat între secolele IX și XVI.", "Controla drumul sării care ducea din Galiția spre Europa Centrală.", "Tustan este un exemplu rar de arhitectură ecologică timpurie.", "Cercetătorii au reușit să reconstruiască digital cetatea pe baza crestăturilor în stâncă."],
       en: ["The fortress existed between the 9th and 16th centuries.", "It controlled the salt trade route from Galicia to Central Europe.", "Tustan is a rare example of early ecological architecture.", "Scientists have digitally reconstructed the fortress based on the rock markings."],
     },
-    imageHint: "Giant sandstone rocks of Tustan where a medieval fortress once stood", image: "/poi-images/ukraine-tustan-rock-fortress-history-v2.webp"},
-  {
+imageHint: "Giant sandstone rocks of Tustan where a medieval fortress once stood",
+    descriptionAdvanced: {
+      de: "Diese einzigartige hölzerne Felsenfestung in den Karpaten war im Mittelalter ein wichtiger Zollpunkt an der Handelsroute nach Westeuropa.",
+      hu: "A Kárpátok szikláira épült különleges faerődítmény a középkorban fontos vámhely volt a Nyugat-Európába vezető só- és kereskedelmi útvonalakon.",
+      ro: "Această fortăreață unică pe stâncă din Carpați a fost un punct vamal important pe ruta comercială spre Europa de Vest în Evul Mediu.",
+      en: "This unique rock fortress in the Carpathians served as a vital medieval customs station on trade routes connecting to Western Europe.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 80 Meter hohen Felsen", "Gegründet im 9. Jahrhundert", "Einst fünfstöckige Holzkonstruktion", "4000 Spuren von Balken im Fels"],
+      hu: ["80 méter magas sziklákon áll", "A 9. században alapították", "Eredetileg ötszintes faépítmény volt", "4000 gerendanyom látható a sziklában"],
+      ro: ["Stânci cu înălțimea de 80 de metri", "Fondată în secolul al IX-lea", "Fostă construcție din lemn cu 5 etaje", "Peste 4000 de urme de grinzi în stâncă"],
+      en: ["Built on 80-meter high rocks", "Founded in the 9th century", "Once a 5-story wooden structure", "4,000 grooves for beams carved in rock"],
+    },
+    image: "/poi-images/ukraine-tustan-rock-fortress-history-v2.webp",
+},  {
     id: "ukraine-mangup-kale-history-v2",
     type: "ruins",
-    name: { de: "Mangup-Kale", hu: "Mangup-Kale", ro: "Mangup-Kale", en: "Mangup-Kale" },
+    name: { de: "Mangup-Kale", hu: "Mangup-Kale", ro: "Mangup-Kale", en: "Mangup-Kale",
+image: "/poi-images/ukraine-mangup-kale-history-v2.webp"
+},
     coords: [33.7967, 44.5928],
     coordinates: { lat: 44.5928, lng: 33.7967 },
     description: {
@@ -495,11 +871,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Platoul este situat la 580 de metri deasupra nivelului mării.", "Orașul dispune de un sistem complex de peșteri artificiale și bastioane.", "A fost unul dintre ultimele centre ale culturii bizantine în Crimeea.", "În interiorul zidurilor se află ruinele unei bazilici și ale unui palat."],
       en: ["The plateau sits at an elevation of 580 meters above sea level.", "The city features a complex system of artificial caves and bastions.", "It was one of the last centers of Byzantine culture in Crimea.", "The site contains the ruins of a basilica and a palace within the walls."],
     },
-    imageHint: "Cave structures and ruined walls on the plateau of Mangup-Kale", image: "/poi-images/ukraine-mangup-kale-history-v2.webp"},
-  {
+imageHint: "Cave structures and ruined walls on the plateau of Mangup-Kale",
+    descriptionAdvanced: {
+      de: "Mangup-Kale war die Hauptstadt des mittelalterlichen Fürstentums Theodoro und liegt spektakulär auf einem Hochplateau in den Bergen der Krim.",
+      hu: "Mangup-Kale a középkori Theodoro Fejedelemség fővárosa volt. A hatalmas hegyi fennsíkon elterülő romváros lélegzetelállító védelmi barlangokkal rendelkezik.",
+      ro: "Mangup-Kale a fost capitala principatului medieval Theodoro, situată spectaculos pe un platou înalt în munții Crimeii.",
+      en: "Mangup-Kale served as the capital of the medieval Principality of Theodoro, spectacularly located on a high plateau in the Crimean Mountains.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen auf 583 Metern Höhe", "Fläche des Plateaus: 90 Hektar", "Belagert und zerstört 1475", "Zahlreiche künstliche Höhlenkomplexe"],
+      hu: ["583 méteres tengerszint feletti magasság", "A fennsík területe 90 hektár", "1475-ben az oszmánok rombolták le", "Számos mesterséges barlanglakás látható"],
+      ro: ["Situată la 583 metri altitudine", "Suprafața platoului: 90 de hectare", "Asediată și distrusă în 1475", "Numeroase complexe de peșteri artificiale"],
+      en: ["Located at 583 meters above sea level", "Plateau covers 90 hectares", "Besieged and destroyed in 1475", "Features many man-made cave dwellings"],
+    },
+    image: "/poi-images/ukraine-mangup-kale-history-v2.webp",
+},  {
     id: "ukraine-olbia-ancient-city-history-v2",
     type: "ruins",
-    name: { de: "Olbia", hu: "Olbia", ro: "Olbia", en: "Olbia" },
+    name: { de: "Olbia", hu: "Olbia", ro: "Olbia", en: "Olbia",
+image: "/poi-images/ukraine-olbia-ancient-city-history-v2.webp"
+},
     coords: [31.9014, 46.6919],
     coordinates: { lat: 46.6919, lng: 31.9014 },
     description: {
@@ -514,11 +905,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Fondată în secolul al VII-lea î.Hr. de coloniști din Milet.", "Filosoful Dion Hrisostomul a vizitat Olbia în secolul I d.Hr.", "La Olbia s-au bătut monede unice în formă de delfini.", "O mare parte a orașului antic este astăzi inundată de apele mării."],
       en: ["Founded in the 7th century BC by settlers from Miletus.", "The philosopher Dio Chrysostom visited Olbia in the 1st century AD.", "Unique coins shaped like dolphins were minted in Olbia.", "A significant portion of the ancient city is now submerged by the sea."],
     },
-    imageHint: "Archaeological excavations and stone foundations of ancient Olbia", image: "/poi-images/ukraine-olbia-ancient-city-history-v2.webp"},
-  {
+imageHint: "Archaeological excavations and stone foundations of ancient Olbia",
+    descriptionAdvanced: {
+      de: "Olbia war eine der wichtigsten griechischen Kolonien am Nördlichen Schwarzmeerufer und diente über tausend Jahre als Brücke zwischen der antiken Welt und den Steppenvölkern.",
+      hu: "Olbia az ókori görög világ egyik legfontosabb északi-fekete-tengeri gyarmatvárosa volt, amely évezreden át közvetített a hellén kultúra és a sztyeppei népek között.",
+      ro: "Olbia a fost una dintre cele mai importante colonii grecești de la Marea Neagră, servind drept punte între lumea antică și popoarele stepei.",
+      en: "Olbia was a premier Greek colony on the northern Black Sea coast, acting as a gateway between the ancient world and the steppe nomads for over a millennium.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 7. Jahrhundert v. Chr.", "Umfasst 270 Hektar Ausgrabungsfläche", "Eigene Münzprägung ('Olbia-Delfine')", "Besucht vom Historiker Herodot"],
+      hu: ["Az i.e. 7. században alapították", "270 hektárnyi régészeti terület", "Saját pénzt vertek (delfin alakú érmék)", "Hérodotosz is felkereste a várost"],
+      ro: ["Fondată în secolul VII î.Hr.", "Suprafață de 270 hectare excavate", "Monede proprii în formă de delfin", "Vizitată de istoricul Herodot"],
+      en: ["Founded in the 7th century BC", "Archaeological site covers 270 hectares", "Minted dolphin-shaped bronze coins", "Visited by the historian Herodotus"],
+    },
+    image: "/poi-images/ukraine-olbia-ancient-city-history-v2.webp",
+},  {
     id: "ukraine-uzhhorod-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Uschhorod", hu: "Ungvári vár", ro: "Cetatea Ujhorod", en: "Uzhhorod Castle" },
+    name: { de: "Burg Uschhorod", hu: "Ungvári vár", ro: "Cetatea Ujhorod", en: "Uzhhorod Castle",
+image: "/poi-images/ukraine-uzhhorod-castle-history-v2.webp"
+},
     coords: [22.3061, 48.6214],
     coordinates: { lat: 48.6214, lng: 22.3061 },
     description: {
@@ -533,11 +939,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Forma actuală a castelului datează din secolul al XVI-lea.", "Găzduiește Muzeul Regional de Istorie din Transcarpatia.", "Zidurile sunt întărite la colțuri cu bastioane în formă de romb.", "Conform legendei, castelul este bântuit de 'Stafia Albă', fiica unui fost stăpân."],
       en: ["The castle's current appearance dates from the 16th century.", "It houses the Transcarpathian Museum of Regional History.", "The walls are reinforced with diamond-shaped bastions at the corners.", "Legend tells of a 'White Ghost' haunting the castle, the daughter of a former lord."],
     },
-    imageHint: "Medieval stone Uzhhorod Castle with massive bastions and museum courtyard", image: "/poi-images/ukraine-uzhhorod-castle-history-v2.webp"},
-  {
+imageHint: "Medieval stone Uzhhorod Castle with massive bastions and museum courtyard",
+    descriptionAdvanced: {
+      de: "Die Burg von Uschhorod war jahrhundertelang der Sitz der Familie Drugeth und ist ein hervorragendes Beispiel für eine Festungsanlage, die nie im Sturm erobert wurde.",
+      hu: "Az ungvári vár évszázadokon át a Drugeth-család székhelye volt. Az erődítmény soha nem esett el ostrom által, köszönhetően kiváló védelmi rendszerének.",
+      ro: "Castelul din Uzhhorod a fost timp de secole reședința familiei Drugeth, fiind un exemplu remarcabil de fortificație care nu a fost niciodată cucerită prin asalt.",
+      en: "Uzhhorod Castle served for centuries as the Drugeth family seat and is a rare example of a fortress that was never taken by storm.",
+    },
+    factsAdvanced: {
+      de: ["Steinmauern aus dem 16. Jahrhundert", "Dicke der Außenmauern: 3-5 Meter", "Besitzt 4 massive Eckbasteien", "Beherbergt das Museum für Heimatkunde"],
+      hu: ["Kőfalai a 16. században épültek", "A külső falak vastagsága 3-5 méter", "4 hatalmas sarokbástyája van", "Ma a Kárpátaljai Honismereti Múzeum otthona"],
+      ro: ["Ziduri de piatră din secolul XVI", "Grosimea zidurilor: 3-5 metri", "Dispune de 4 bastioane masive", "Găzduiește Muzeul de Istorie Locală"],
+      en: ["Stone walls date to the 16th century", "Outer walls are 3-5 meters thick", "Features 4 massive corner bastions", "Houses the Transcarpathian Regional Museum"],
+    },
+    image: "/poi-images/ukraine-uzhhorod-castle-history-v2.webp",
+},  {
     id: "ukraine-st-cyril-church-kyiv-history-v2",
     type: "church",
-    name: { de: "St.-Kyrill-Kirche (Kiew)", hu: "Szent Cirill-templom (Kijev)", ro: "Biserica Sfântul Chiril din Kiev", en: "St. Cyril's Church (Kyiv)" },
+    name: { de: "St.-Kyrill-Kirche (Kiew)", hu: "Szent Cirill-templom (Kijev)", ro: "Biserica Sfântul Chiril din Kiev", en: "St. Cyril's Church (Kyiv)",
+image: "/poi-images/ukraine-st-cyril-church-kyiv-history-v2.webp"
+},
     coords: [30.4719, 50.4831],
     coordinates: { lat: 50.4831, lng: 30.4719 },
     description: {
@@ -552,11 +973,26 @@ export const ukraineHistoryV2: POI[] = [
       ro: ["Biserica a fost construită ca necropolă pentru dinastia Olgovici.", "Aproximativ 800 de metri pătrați de fresce originale din secolul al XII-lea sunt conservate.", "Vrubel a creat iconostasul impresionant în secolul al XIX-lea.", "Spre deosebire de alte lăcașuri, a fost conservată ca muzeu în perioada sovietică."],
       en: ["The church was built as a burial place for the Olgovichi dynasty.", "About 800 square meters of original 12th-century frescoes are preserved.", "Vrubel created the impressive iconostasis in the 19th century.", "Unlike many other churches, it was preserved as a museum during the Soviet era."],
     },
-    imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls", image: "/poi-images/ukraine-st-cyril-church-kyiv-history-v2.webp"},
-  {
+imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls",
+    descriptionAdvanced: {
+      de: "Diese Kirche aus dem 12. Jahrhundert ist berühmt für ihre originalen Fresken und die beeindruckenden Jugendstil-Gemälde von Michail Wrubel aus dem 19. Jahrhundert.",
+      hu: "A 12. századi bizánci templom különlegessége az eredeti középkori freskók és Mihail Vrubel 19. századi modernista festményeinek találkozása.",
+      ro: "Această biserică din secolul XII este renumită pentru frescele sale originale și picturile impresionante de Mihail Vrubel din secolul XIX.",
+      en: "This 12th-century church is celebrated for its original medieval frescoes and striking 19th-century Modernist paintings by Mikhail Vrubel.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1139", "800 m² originale Fresken erhalten", "Wrubel malte hier 1884-1885", "Teil des Sophienkathedralen-Reservats"],
+      hu: ["1139 körül építették", "800 m² eredeti freskó maradt fenn", "Vrubel 1884-1885 között alkotott itt", "A Szent Szófia Nemzeti Rezervátum része"],
+      ro: ["Construită în jurul anului 1139", "800 m² de fresce originale păstrate", "Vrubel a lucrat aici între 1884-1885", "Parte a Rezervației Sfânta Sofia"],
+      en: ["Built around 1139", "Contains 800 m² of original frescoes", "Vrubel painted here in 1884-1885", "Part of the Saint Sophia National Reserve"],
+    },
+    image: "/poi-images/ukraine-st-cyril-church-kyiv-history-v2.webp",
+},  {
     id: "ukraine-bakota-cave-monastery-history-v2",
     type: "ruins",
-    name: { de: "Höhlenkloster Bakota", hu: "Bakotai barlangkolostor", ro: "Mănăstirea rupestră Bakota", en: "Bakota Cave Monastery" },
+    name: { de: "Höhlenkloster Bakota", hu: "Bakotai barlangkolostor", ro: "Mănăstirea rupestră Bakota", en: "Bakota Cave Monastery",
+image: "/poi-images/ukraine-bakota-cave-monastery-history-v2.webp"
+},
     coords: [26.9989, 48.5853],
     coordinates: { lat: 48.5853, lng: 26.9989 },
     description: {
@@ -572,5 +1008,17 @@ export const ukraineHistoryV2: POI[] = [
       en: ["The first hermitages appeared here as early as the 11th century.", "Bakota was an important political center of Podolia during the Middle Ages.", "The site features several cells and churches carved into the limestone cliff.", "Visitors can enjoy a panoramic view of the 'Ukrainian fjords' from the site."],
     },
     imageHint: "Monastery cells carved into white cliffs overlooking a large blue reservoir",
+    descriptionAdvanced: {
+      de: "In den Kalksteinfelsen über dem Dnister gelegen, ist dieses Höhlenkloster eines der ältesten christlichen Zentren der Ukraine und ein Ort tiefer Spiritualität.",
+      hu: "A Dnyeszter feletti mészkősziklákba vájt barlangkolostor Ukrajna egyik legősibb keresztény központja, amely lenyűgöző panorámát nyújt a folyóra.",
+      ro: "Situată în stâncile de calcar deasupra Nistrului, această mănăstire rupestră este unul dintre cele mai vechi centre creștine din Ucraina.",
+      en: "Carved into limestone cliffs above the Dniester, this cave monastery is one of Ukraine's oldest Christian sites, offering profound spiritual heritage.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals 1362 erwähnt", "Zerstört durch Erdrutsch im 15. Jh.", "Drei erhaltene Höhlenkirchen", "Gelegen im Podilski-Towtry-Nationalpark"],
+      hu: ["Első említése 1362-ből való", "A 15. században egy földcsuszamlás pusztította", "Három épen maradt barlangtemplom", "A Podilszki Tovtri Nemzeti Park része"],
+      ro: ["Prima mențiune documentară în 1362", "Parțial distrusă de o alunecare de teren în sec. XV", "Trei biserici rupestre conservate", "Situată în Parcul Național Podilski Tovtrî"],
+      en: ["First mentioned in 1362", "Partially destroyed by a 15th-century landslide", "Features three surviving cave churches", "Located in Podilski Tovtry National Park"],
+    },
   }
 ];

@@ -11,8 +11,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Thian Hock Keng Tempel",
       hu: "Thian Hock Keng templom",
       ro: "Templul Thian Hock Keng",
-      en: "Thian Hock Keng Temple"
-    },
+      en: "Thian Hock Keng Temple",
+image: "/poi-images/sg-thian-hock-keng-temple-history-v2.webp"
+},
     description: {
       de: "Einer der ältesten und wichtigsten Hokkien-Tempel in Singapur, der der Meeresgöttin Mazu gewidmet ist.",
       hu: "Szingapúr egyik legrégebbi és legfontosabb hokkien temploma, amelyet Mazunak, a tenger istennőjének szenteltek.",
@@ -34,8 +35,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Bukit Brown Friedhof",
       hu: "Bukit Brown temető",
       ro: "Cimitirul Bukit Brown",
-      en: "Bukit Brown Cemetery"
-    },
+      en: "Bukit Brown Cemetery",
+image: "/poi-images/sg-bukit-brown-cemetery-history-v2.webp"
+},
     description: {
       de: "Ein großer, historischer chinesischer Friedhof, der die Gräber vieler prominenter Pioniere Singapurs beherbergt.",
       hu: "Nagy, történelmi kínai temető, ahol Szingapúr számos kiemelkedő úttörőjének sírja található.",
@@ -57,8 +59,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Der Kenotaph",
       hu: "A Kenotáfium",
       ro: "Cenotaful",
-      en: "The Cenotaph"
-    },
+      en: "The Cenotaph",
+image: "/poi-images/sg-the-cenotaph-history-v2.webp"
+},
     description: {
       de: "Ein Kriegsdenkmal im Esplanade Park, das den Männern aus Singapur gewidmet ist, die im Ersten und Zweiten Weltkrieg ihr Leben verloren haben.",
       hu: "Egy háborús emlékmű az Esplanade Parkban, amelyet azoknak a szingapúri férfiaknak szenteltek, akik az első és második világháborúban vesztették életüket.",
@@ -80,8 +83,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Bahnhof Tanjong Pagar",
       hu: "Tanjong Pagar vasútállomás",
       ro: "Gara Tanjong Pagar",
-      en: "Tanjong Pagar Railway Station"
-    },
+      en: "Tanjong Pagar Railway Station",
+image: "/poi-images/sg-tanjong-pagar-railway-station-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliger Bahnhof mit beeindruckender Art-déco-Architektur, der einst der südliche Endpunkt des malaysischen Eisenbahnnetzes war.",
       hu: "Egy lenyűgöző art deco építészeti stílusú egykori vasútállomás, amely egykor a maláj vasúthálózat déli végállomása volt.",
@@ -103,8 +107,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Istana Kampong Glam",
       hu: "Istana Kampong Glam",
       ro: "Istana Kampong Glam",
-      en: "Istana Kampong Glam"
-    },
+      en: "Istana Kampong Glam",
+image: "/poi-images/sg-istana-kampong-glam-history-v2.webp"
+},
     description: {
       de: "Der ehemalige Sultanspalast der malaiischen Könige von Singapur. Heute beherbergt er das Malay Heritage Centre.",
       hu: "A szingapúri maláj királyok egykori szultáni palotája. Ma a Maláj Örökségközpontnak ad otthont.",
@@ -126,8 +131,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Alexandra Hospital (WWII)",
       hu: "Alexandra Kórház (II. vh.)",
       ro: "Spitalul Alexandra (Al Doilea Război Mondial)",
-      en: "Alexandra Hospital (WWII)"
-    },
+      en: "Alexandra Hospital (WWII)",
+image: "/poi-images/sg-alexandra-hospital-wwii-history-v2.webp"
+},
     description: {
       de: "Der Schauplatz eines Massakers im Zweiten Weltkrieg, bei dem japanische Soldaten Patienten und Personal des britischen Militärkrankenhauses töteten.",
       hu: "Egy második világháborús mészárlás helyszíne, ahol japán katonák a brit katonai kórház pácienseit és személyzetét ölték meg.",
@@ -149,8 +155,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Schlachtfeld Adam Park",
       hu: "Adam Park-i csatatér",
       ro: "Câmpul de luptă Adam Park",
-      en: "Adam Park Battlefield"
-    },
+      en: "Adam Park Battlefield",
+image: "/poi-images/sg-adam-park-battlefield-history-v2.webp"
+},
     description: {
       de: "Ein Wohngebiet, das Schauplatz heftiger Kämpfe in den letzten Tagen der Schlacht um Singapur war. Die Häuser dienten als Schlachtfeldbunker.",
       hu: "Egy lakónegyed, amely a szingapúri csata utolsó napjaiban heves harcok helyszíne volt. A házak csatatéri bunkerekként szolgáltak.",
@@ -172,8 +179,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Yueh Hai Ching Tempel",
       hu: "Yueh Hai Ching templom",
       ro: "Templul Yueh Hai Ching",
-      en: "Yueh Hai Ching Temple"
-    },
+      en: "Yueh Hai Ching Temple",
+image: "/poi-images/sg-yuch-hai-ching-temple-history-v2.webp"
+},
     description: {
       de: "Einer der ältesten Teochew-Tempel in Singapur, bekannt als 'Tempel der ruhigen See'.",
       hu: "Szingapúr egyik legrégebbi Teochew temploma, más néven 'A nyugodt tenger temploma'.",
@@ -195,8 +203,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Schrein des deutschen Mädchens",
       hu: "A német lány szentélye",
       ro: "Sanctuarul fetei germane",
-      en: "German Girl Shrine"
-    },
+      en: "German Girl Shrine",
+image: "/poi-images/sg-german-girl-shrine-history-v2.webp"
+},
     description: {
       de: "Ein Schrein auf Pulau Ubin, der der Tochter eines deutschen Kaffeeplantagenbesitzers gewidmet ist, die angeblich während des Ersten Weltkriegs auf der Flucht vor britischen Soldaten in einen Steinbruch fiel.",
       hu: "Egy szentély Pulau Ubin szigetén, amelyet egy német kávéültetvény-tulajdonos lányának szenteltek, aki állítólag az első világháború alatt egy kőbányába zuhant, miközben brit katonák elől menekült.",
@@ -218,8 +227,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Masjid Hajjah Fatimah",
       hu: "Hajjah Fatimah mecset",
       ro: "Moscheea Hajjah Fatimah",
-      en: "Masjid Hajjah Fatimah"
-    },
+      en: "Masjid Hajjah Fatimah",
+image: "/poi-images/sg-masjid-hajjah-fatimah-history-v2.webp"
+},
     description: {
       de: "Eine Moschee aus dem Jahr 1846, die für ihren einzigartigen schiefen Minarett bekannt ist, der an den Spinnaker-Turm in Portsmouth erinnert.",
       hu: "Egy 1846-ban épült mecset, amely egyedülálló, ferde minaretjéről ismert, amely a portsmouthi Spinnaker-toronyra emlékeztet.",
@@ -241,8 +251,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Hong San See Tempel",
       hu: "Hong San See templom",
       ro: "Templul Hong San See",
-      en: "Hong San See Temple"
-    },
+      en: "Hong San See Temple",
+image: "/poi-images/sg-hong-san-see-temple-history-v2.webp"
+},
     description: {
       de: "Ein chinesischer Tempel, der 1913 fertiggestellt wurde und für seine exquisite Architektur im traditionellen südchinesischen Stil bekannt ist.",
       hu: "Egy 1913-ban elkészült kínai templom, amely a hagyományos dél-kínai stílusú, kitűnő építészetéről ismert.",
@@ -265,8 +276,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "St. George's Kirche",
       hu: "Szent György-templom",
       ro: "Biserica Sfântul Gheorghe",
-      en: "St. George's Church"
-    },
+      en: "St. George's Church",
+image: "/poi-images/sg-st-georges-church-history-v2.webp"
+},
     description: {
       de: "Eine anglikanische Garnisonskirche, die 1913 für die britischen Truppen erbaut wurde, die in der Tanglin-Kaserne stationiert waren.",
       hu: "Egy anglikán helyőrségi templom, amelyet 1913-ban építettek a Tanglin laktanyában állomásozó brit csapatok számára.",
@@ -288,8 +300,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Tan Si Chong Su Tempel",
       hu: "Tan Si Chong Su templom",
       ro: "Templul Tan Si Chong Su",
-      en: "Tan Si Chong Su Temple"
-    },
+      en: "Tan Si Chong Su Temple",
+image: "/poi-images/sg-tan-si-chong-su-temple-history-v2.webp"
+},
     description: {
       de: "Ein wichtiger Ahnentempel für die Tan-Clan-Vereinigung in Singapur, der 1876 erbaut wurde.",
       hu: "A szingapúri Tan klán szövetségének fontos ősi temploma, amelyet 1876-ban építettek.",
@@ -311,8 +324,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Bowyer Block (SGH)",
       hu: "Bowyer-tömb (SGH)",
       ro: "Blocul Bowyer (SGH)",
-      en: "Bowyer Block (SGH)"
-    },
+      en: "Bowyer Block (SGH)",
+image: "/poi-images/sg-bowyer-block-sgh-history-v2.webp"
+},
     description: {
       de: "Ein historischer Block des Singapore General Hospital, der 1926 eröffnet wurde und als Herzstück des Krankenhauses diente.",
       hu: "A Singapore General Hospital történelmi tömbje, amelyet 1926-ban nyitottak meg, és a kórház központi elemeként szolgált.",
@@ -334,8 +348,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Grab von Tan Tock Seng",
       hu: "Tan Tock Seng sírja",
       ro: "Mormântul lui Tan Tock Seng",
-      en: "Tomb of Tan Tock Seng"
-    },
+      en: "Tomb of Tan Tock Seng",
+image: "/poi-images/sg-tomb-of-tan-tock-seng-history-v2.webp"
+},
     description: {
       de: "Die Grabstätte von Tan Tock Seng, einem führenden Philanthropen des 19. Jahrhunderts, der das Tan Tock Seng Hospital gründete.",
       hu: "Tan Tock Seng, egy 19. századi vezető filantróp sírhelye, aki a Tan Tock Seng Kórházat alapította.",
@@ -357,8 +372,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Rotes Haus Pasir Ris",
       hu: "Pasir Ris Vörös Ház",
       ro: "Casa Roșie din Pasir Ris",
-      en: "Pasir Ris Red House"
-    },
+      en: "Pasir Ris Red House",
+image: "/poi-images/sg-pasir-ris-red-house-history-v2.webp"
+},
     description: {
       de: "Ein markanter kolonialer Bungalow aus dem frühen 20. Jahrhundert, bekannt für seine rote Fassade und seine Lage am Meer.",
       hu: "Egy jellegzetes, 20. század eleji gyarmati bungaló, amely vörös homlokzatáról és tengerparti elhelyezkedéséről ismert.",
@@ -380,8 +396,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Marinestützpunkt Sembawang",
       hu: "Sembawang haditengerészeti bázis",
       ro: "Baza Navală Sembawang",
-      en: "Sembawang Naval Base"
-    },
+      en: "Sembawang Naval Base",
+image: "/poi-images/sg-sembawang-naval-base-history-v2.webp"
+},
     description: {
       de: "Ein bedeutender britischer Marinestützpunkt, der in den 1930er Jahren fertiggestellt wurde und eine entscheidende Rolle in der Verteidigungsstrategie Großbritanniens spielte.",
       hu: "Egy jelentős brit haditengerészeti bázis, amelyet az 1930-as években fejeztek be, és döntő szerepet játszott Nagy-Britannia védelmi stratégiájában.",
@@ -404,8 +421,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Ehemaliges Keng Teck Whay Gebäude",
       hu: "Volt Keng Teck Whay épület",
       ro: "Fosta Clădire Keng Teck Whay",
-      en: "Former Keng Teck Whay Building"
-    },
+      en: "Former Keng Teck Whay Building",
+image: "/poi-images/sg-former-keng-teck-whay-bldg-history-v2.webp"
+},
     description: {
       de: "Die Fassade eines historischen Gebäudes, das einst der Keng Teck Whay, einer philanthropischen Vereinigung, gehörte. Es wurde 1831 erbaut.",
       hu: "Egy történelmi épület homlokzata, amely egykor a Keng Teck Whay jótékonysági egyesületé volt. 1831-ben épült.",
@@ -427,8 +445,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Altes Hauptquartier der Küstenwache",
       hu: "A Parti Őrség régi főkapitánysága",
       ro: "Fostul Cartier General al Pazei de Coastă",
-      en: "Old Police Coast Guard HQ"
-    },
+      en: "Old Police Coast Guard HQ",
+image: "/poi-images/sg-old-police-coast-guard-hq-history-v2.webp"
+},
     description: {
       de: "Ein Art-déco-Gebäude aus den 1930er Jahren, das als Hauptquartier für die Küstenwache von Singapur diente.",
       hu: "Egy 1930-as évekbeli art deco épület, amely a szingapúri parti őrség főhadiszállásaként szolgált.",
@@ -451,8 +470,9 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       de: "Ehemaliges St. Andrew's Missionskrankenhaus",
       hu: "Volt Szent András Missziós Kórház",
       ro: "Fostul Spital al Misiunii Sfântul Andrei",
-      en: "Former St. Andrew's Mission Hospital"
-    },
+      en: "Former St. Andrew's Mission Hospital",
+image: "/poi-images/sg-former-st-andrews-mission-hospital-history-v2.webp"
+},
     description: {
       de: "Ein Gebäude aus dem Jahr 1923, das ursprünglich als Krankenhaus für Frauen und Kinder diente. Es ist eines der ältesten Krankenhäuser Singapurs.",
       hu: "Egy 1923-ban épült épület, amely eredetileg nők és gyermekek kórházaként szolgált. Szingapúr egyik legrégebbi kórháza.",

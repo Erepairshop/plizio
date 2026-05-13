@@ -12,7 +12,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Borobudur templom",
       ro: "Templul Borobudur",
       en: "Borobudur Temple",
-    },
+image: "/poi-images/borobudur-temple-history-v2.webp"
+},
     description: {
       de: "Der größte buddhistische Tempel der Welt aus dem 9. Jahrhundert, ein Meisterwerk der indonesischen Architektur.",
       hu: "A világ legnagyobb 9. századi buddhista temploma, az indonéz építészet mesterműve.",
@@ -48,7 +49,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Prambanani templom",
       ro: "Templul Prambanan",
       en: "Prambanan Temple",
-    },
+image: "/poi-images/prambanan-temple-history-v2.webp"
+},
     description: {
       de: "Ein hinduistischer Tempelkomplex aus dem 9. Jahrhundert, der Trimurti gewidmet ist: Brahma, Vishnu und Shiva.",
       hu: "Egy 9. századi hindu templomegyüttes, amelyet a Trimurtinak szenteltek: Brahma, Visnu és Siva.",
@@ -84,7 +86,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Ratu Boko palota",
       ro: "Palatul Ratu Boko",
       en: "Ratu Boko Palace",
-    },
+image: "/poi-images/ratu-boko-palace-history-v2.webp"
+},
     description: {
       de: "Die Ruinen eines befestigten Palastkomplexes aus dem 8. Jahrhundert, der sowohl von Buddhisten als auch von Hindus genutzt wurde.",
       hu: "Egy 8. századi erődített palotakomplexum romjai, amelyet buddhisták és hinduk egyaránt használtak.",
@@ -120,7 +123,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Sangirani ősemberlelőhely",
       ro: "Situl omului timpuriu de la Sangiran",
       en: "Sangiran Early Man Site",
-    },
+image: "/poi-images/sangiran-early-man-site-history-v2.webp"
+},
     description: {
       de: "Eine wichtige archäologische Ausgrabungsstätte, an der Fossilien von Homo erectus gefunden wurden, bekannt als 'Java-Mensch'.",
       hu: "Fontos régészeti lelőhely, ahol a Homo erectus, más néven 'jávai ember' fosszíliáit találták meg.",
@@ -156,7 +160,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Goa Gajah 'Elefánt-barlang'",
       ro: "Goa Gajah 'Peștera Elefantului'",
       en: "Goa Gajah 'Elephant Cave'",
-    },
+image: "/poi-images/goa-gajah-history-v2.webp"
+},
     description: {
       de: "Ein bedeutender hinduistischer archäologischer Ort in Bali, der als Heiligtum diente.",
       hu: "Egy jelentős hindu régészeti lelőhely Balin, amely szentélyként szolgált.",
@@ -192,7 +197,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Gunung Kawi templom",
       ro: "Templul Gunung Kawi",
       en: "Gunung Kawi Temple",
-    },
+image: "/poi-images/gunung-kawi-temple-history-v2.webp"
+},
     description: {
       de: "Ein Tempelkomplex aus dem 11. Jahrhundert mit in die Felswand gehauenen Schreinen.",
       hu: "Egy 11. századi templomkomplexum, amelynek szentélyeit egy sziklafalba vájták.",
@@ -228,7 +234,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Trowulani régészeti lelőhely",
       ro: "Situl arheologic Trowulan",
       en: "Trowulan Archaeological Site",
-    },
+image: "/poi-images/trowulan-archaeological-site-history-v2.webp"
+},
     description: {
       de: "Die ehemalige Hauptstadt des Majapahit-Reiches, das vom 13. bis 15. Jahrhundert blühte.",
       hu: "A 13. és 15. század között virágzó Majapahit Birodalom egykori fővárosa.",
@@ -264,7 +271,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Rotterdam erőd, Makassar",
       ro: "Fortul Rotterdam Makassar",
       en: "Fort Rotterdam Makassar",
-    },
+image: "/poi-images/fort-rotterdam-makassar-history-v2.webp"
+},
     description: {
       de: "Eine Festung aus dem 17. Jahrhundert, die von den Niederländern auf einer früheren Festung des Gowa-Königreichs erbaut wurde.",
       hu: "Egy 17. századi erőd, amelyet a hollandok építettek a Gowai Királyság egy korábbi erődjének helyén.",
@@ -300,7 +308,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Muara Takus templomok",
       ro: "Templele Muara Takus",
       en: "Muara Takus Temples",
-    },
+image: "/poi-images/muara-takus-temples-history-v2.webp"
+},
     description: {
       de: "Ein buddhistischer Tempelkomplex in Sumatra, der vermutlich mit dem Srivijaya-Reich in Verbindung steht.",
       hu: "Egy buddhista templomkomplexum Szumátrán, amely valószínűleg a Srivijaya birodalomhoz kötődik.",
@@ -336,7 +345,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Lawang Sewu",
       ro: "Lawang Sewu",
       en: "Lawang Sewu",
-    },
+image: "/poi-images/lawang-sewu-history-v2.webp"
+},
     description: {
       de: "Ein Wahrzeichen in Semarang, das als Hauptsitz der Niederländisch-Indischen Eisenbahngesellschaft diente.",
       hu: "Semarang egyik nevezetessége, amely a Holland Kelet-indiai Vasúttársaság székhelye volt.",
@@ -372,7 +382,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Yogyakartai Kraton",
       ro: "Kratonul Yogyakarta",
       en: "Kraton of Yogyakarta",
-    },
+image: "/poi-images/kraton-yogyakarta-history-v2.webp"
+},
     description: {
       de: "Der Palastkomplex des Sultanats Yogyakarta, ein Zentrum der javanischen Kultur und Sitz des amtierenden Sultans.",
       hu: "A Yogyakartai Szultánság palotakomplexuma, a jávai kultúra központja és az uralkodó szultán székhelye.",
@@ -408,7 +419,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Banda Neira erődjei",
       ro: "Forturile din Banda Neira",
       en: "Banda Neira Forts",
-    },
+image: "/poi-images/banda-neira-forts-history-v2.webp"
+},
     description: {
       de: "Eine Ansammlung von niederländischen Festungen, darunter Fort Belgica und Fort Nassau, die den lukrativen Muskatnuss-Handel kontrollierten.",
       hu: "Holland erődök gyűjteménye, köztük a Belgica és a Nassau erőd, amelyek a jövedelmező szerecsendió-kereskedelmet ellenőrizték.",
@@ -444,7 +456,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Surabayai Hősök Emlékműve",
       ro: "Monumentul Eroilor din Surabaya",
       en: "Surabaya Heroes Monument",
-    },
+image: "/poi-images/surabaya-heroes-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal zur Erinnerung an die Schlacht von Surabaya, eine der wichtigsten Schlachten der indonesischen Nationalrevolution.",
       hu: "A surabayai csatának emléket állító emlékmű, amely az indonéz nemzeti forradalom egyik legfontosabb ütközete volt.",
@@ -480,7 +493,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Gedong Songo templomok",
       ro: "Templele Gedong Songo",
       en: "Gedong Songo Temples",
-    },
+image: "/poi-images/gedong-songo-temples-history-v2.webp"
+},
     description: {
       de: "Eine Gruppe von Hindu-Tempeln an den Hängen des Ungaran-Berges, die während der Medang-Königreich-Ära erbaut wurden.",
       hu: "Hindu templomok csoportja az Ungaran-hegy lejtőin, a Medang Királyság idején épültek.",
@@ -516,7 +530,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Dieng-fennsík templomai",
       ro: "Templele de pe Platoul Dieng",
       en: "Dieng Plateau Temples",
-    },
+image: "/poi-images/dieng-plateau-temples-history-v2.webp"
+},
     description: {
       de: "Einige der ältesten erhaltenen Steinbauten in Java, eine Gruppe von Hindu-Tempeln aus dem 7. bis 8. Jahrhundert.",
       hu: "Jáva néhány legrégebbi fennmaradt kőépítménye, egy 7-8. századi hindu templomcsoport.",
@@ -552,7 +567,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Bali bombamerényletek emlékműve",
       ro: "Memorialul atentatelor din Bali",
       en: "Bali Bombing Memorial",
-    },
+image: "/poi-images/bali-bombing-memorial-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Kuta, das den Opfern der Bombenanschläge von 2002 gewidmet ist.",
       hu: "Egy emlékmű Kutában, amelyet a 2002-es bombamerényletek áldozatainak szenteltek.",
@@ -588,7 +604,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Sumbai megalitikus sírok",
       ro: "Mormintele megalitice din Sumba",
       en: "Sumba Megalithic Tombs",
-    },
+image: "/poi-images/sumba-megalithic-tombs-history-v2.webp"
+},
     description: {
       de: "Sumba ist bekannt für seine lebendige megalithische Kultur, bei der große Steingräber für prominente Personen errichtet werden.",
       hu: "Sumba élő megalitikus kultúrájáról ismert, ahol nagy kősírokat emelnek a kiemelkedő személyek számára.",
@@ -624,7 +641,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Gunungan Történelmi Park",
       ro: "Parcul Istoric Gunungan",
       en: "Gunungan Historical Park",
-    },
+image: "/poi-images/gunungan-historical-park-history-v2.webp"
+},
     description: {
       de: "Ein künstlicher Hügel, der von Sultan Iskandar Muda als Zeichen seiner Liebe zu seiner Gemahlin erbaut wurde.",
       hu: "Egy mesterséges domb, amelyet Iskandar Muda szultán épített felesége iránti szerelme jeléül.",
@@ -660,7 +678,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Jakarta óvárosa (Kota Tua)",
       ro: "Orașul Vechi Jakarta (Kota Tua)",
       en: "Jakarta Old Town (Kota Tua)",
-    },
+image: "/poi-images/jakarta-old-town-history-v2.webp"
+},
     description: {
       de: "Das ursprüngliche Stadtzentrum von Batavia, das das Erbe der niederländischen Kolonialzeit zeigt.",
       hu: "Batavia eredeti központja, amely a holland gyarmati korszak örökségét mutatja be.",
@@ -696,7 +715,8 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
       hu: "Nemzeti Emlékmű (Monas)",
       ro: "Monumentul Național (Monas)",
       en: "National Monument (Monas)",
-    },
+image: "/poi-images/monas-national-monument-history-v2.webp"
+},
     description: {
       de: "Ein 132 m hoher Turm im Zentrum des Merdeka-Platzes, der den Kampf für die Unabhängigkeit Indonesiens symbolisiert.",
       hu: "Egy 132 méter magas torony a Merdeka tér közepén, amely az indonéz függetlenségi harcot szimbolizálja.",

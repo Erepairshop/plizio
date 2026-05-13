@@ -4,7 +4,9 @@ export const belgiumLandmarksV2: POI[] = [
   {
     id: "belgium-grand-place-landmarks-v2",
     type: "landmark",
-    name: { de: "Grand-Place", hu: "Grand-Place", ro: "Grand-Place", en: "Grand Place" },
+    name: { de: "Grand-Place", hu: "Grand-Place", ro: "Grand-Place", en: "Grand Place",
+image: "/poi-images/belgium-grand-place-landmarks-v2.webp"
+},
     coords: [4.3524, 50.8467],
     coordinates: { lat: 50.8467, lng: 4.3524 },
     description: {
@@ -19,11 +21,26 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1998", "Covor de flori la fiecare doi ani", "Primăria datează din secolul XV", "Casele breslelor în stil baroc"],
       en: ["UNESCO World Heritage since 1998", "Flower carpet every two years", "15th-century City Hall building", "Baroque-style guildhalls"],
     },
-    imageHint: "Brussels Grand Place square with guildhalls", image: "/poi-images/belgium-grand-place-landmarks-v2.webp"},
-  {
+imageHint: "Brussels Grand Place square with guildhalls",
+    descriptionAdvanced: {
+      de: "Die Grand-Place, im Herzen von Brüssel gelegen, ist zweifellos einer der beeindruckendsten historischen Marktplätze Europas und das unbestrittene Zentrum der belgischen Hauptstadt. Der Platz zeichnet sich durch ein außergewöhnlich harmonisches Ensemble aus prächtigen Zunfthäusern im barocken Stil und dem imposanten gotischen Rathaus aus, dessen markanter Turm weit über die Altstadt hinausragt. Die Entstehungsgeschichte dieses architektonischen Meisterwerks reicht bis ins Mittelalter zurück, wobei der Großteil der heutigen Bausubstanz nach der Zerstörung durch französische Truppen im späten 17. Jahrhundert wieder aufgebaut wurde. Jedes Zunfthaus trägt einen individuellen Namen und symbolisiert den einstigen Reichtum der Brüsseler Handwerkerschaften. Besonders faszinierend ist der alle zwei Jahre im August ausgelegte Blumenteppich, bei dem mehr als eine halbe Million Begonien den gesamten Platz in ein leuchtendes Farbenmeer verwandeln. Die Grand-Place wurde nicht zuletzt wegen ihrer kulturellen und historischen Bedeutung im Jahr 1998 in die Liste des UNESCO-Welterbes aufgenommen.",
+      hu: "A Grand-Place Brüsszel lüktető szíve és vitathatatlanul Európa egyik legpompásabb történelmi piactere. A teret csodálatos barokk stílusú céhházak és a lenyűgöző gótikus Városháza szegélyezik, melynek karcsú tornya uralja a belváros látképét. Bár a tér története a kora középkorig nyúlik vissza, a ma látható épületek többsége a 17. század végén épült újjá, miután a francia csapatok lebombázták a várost. A gazdagon díszített céhházak mindegyike saját nevet visel, és a korabeli brüsszeli kézművesek és kereskedők hatalmát és gazdagságát hirdeti. A tér egyik leglátványosabb eseménye a kétévente augusztusban megrendezett Virágszőnyeg fesztivál, amikor a hatalmas macskaköves felületet több mint félmillió begóniából álló, bonyolult mintázatú kompozíció borítja. Kiemelkedő kulturális és építészeti jelentőségének köszönhetően a Grand-Place 1998-ban felkerült az UNESCO Világörökség listájára.",
+      ro: "Grand-Place este inima vibrantă a orașului Bruxelles și, fără îndoială, una dintre cele mai spectaculoase piețe istorice din Europa. Piața este definită de un ansamblu arhitectural armonios, dominat de casele breslelor bogat ornamentate în stil baroc și de impresionanta Primărie gotică, al cărei turn ascuțit se înalță maiestuos deasupra centrului vechi. Deși originile pieței coboară până în Evul Mediu, majoritatea clădirilor care pot fi admirate astăzi au fost reconstruite la sfârșitul secolului al XVII-lea, după bombardamentul devastator al trupelor franceze. Fiecare casă a breslei poartă un nume specific și reflectă opulența și influența meșteșugarilor și negustorilor de odinioară. Unul dintre cele mai așteptate evenimente este realizarea celebrului Covor de Flori, o dată la doi ani în luna august, când sute de mii de begonii acoperă pavajul cu modele vibrante. Pentru valoarea sa universală, piața a fost înscrisă pe lista Patrimoniului Mondial UNESCO în anul 1998.",
+      en: "The Grand Place is the bustling heart of Brussels and undeniably one of the most magnificent historical squares in Europe. The square is characterized by an extraordinarily harmonious ensemble of opulent Baroque guildhalls and the imposing Gothic City Hall, whose striking tower dominates the skyline of the historic center. While the origins of this architectural masterpiece trace back to the Middle Ages, the vast majority of the current buildings were meticulously reconstructed after a devastating bombardment by French troops in the late 17th century. Each guildhall bears a unique name and symbolizes the immense wealth and political power of the former Brussels merchant and artisan guilds. A particularly captivating spectacle is the Flower Carpet, laid out every two years in August, where over half a million begonias are arranged into a vibrant, intricate pattern covering the cobblestones. In recognition of its outstanding historical and cultural significance, the Grand Place was designated a UNESCO World Heritage site in 1998."
+    },
+    factsAdvanced: {
+      de: ["Eingetragen in die UNESCO-Welterbeliste seit dem Jahr 1998", "Wurde 1695 von Truppen des Königs Ludwig XIV. weitgehend zerstört", "Rathausturm erreicht eine beachtliche Höhe von 96 Metern", "Auf dem Turm thront eine Statue des Erzengels Michael", "Blumenteppich besteht aus etwa 500.000 frischen Begonien", "Maison du Roi beherbergt heute das Museum der Stadt Brüssel"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-grand-place-landmarks-v2.webp",
+},  {
     id: "belgium-atomium-landmarks-v2",
     type: "monument",
-    name: { de: "Atomium", hu: "Atomium", ro: "Atomium", en: "Atomium" },
+    name: { de: "Atomium", hu: "Atomium", ro: "Atomium", en: "Atomium",
+image: "/poi-images/belgium-atomium-landmarks-v2.webp"
+},
     coords: [4.3415, 50.8949],
     coordinates: { lat: 50.8949, lng: 4.3415 },
     description: {
@@ -38,11 +55,26 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțime totală de 102 metri", "Nouă sfere interconectate", "Proiectat de André Waterkeyn", "Planificat inițial ca temporar"],
       en: ["Total height of 102 meters", "Nine interconnected spheres", "Designed by André Waterkeyn", "Originally planned as temporary"],
     },
-    imageHint: "Atomium monument in Brussels daytime", image: "/poi-images/belgium-atomium-landmarks-v2.webp"},
-  {
+imageHint: "Atomium monument in Brussels daytime",
+    descriptionAdvanced: {
+      de: "Das Atomium ist nicht nur das markanteste Wahrzeichen von Brüssel, sondern auch ein faszinierendes Symbol für den Fortschrittsglauben und die wissenschaftliche Euphorie der Nachkriegszeit. Das futuristische Bauwerk wurde vom Ingenieur André Waterkeyn für die Weltausstellung Expo 58 entworfen und stellt die Elementarzelle eines Eisenkristalls in einer 165-milliardenfachen Vergrößerung dar. Die beeindruckende Struktur besteht aus neun mit Edelstahl verkleideten Kugeln, die durch dicke Rohre miteinander verbunden sind, in denen sich Rolltreppen und Aufzüge befinden. Ursprünglich war das Atomium nur für die Dauer der sechsmonatigen Ausstellung geplant, doch es erwies sich als so populär, dass es permanent erhalten blieb. Heute können Besucher mehrere der Kugeln erkunden, die Ausstellungen zur Geschichte des Gebäudes, zu wissenschaftlichen Themen sowie zu Architektur und Design beherbergen. Die oberste Kugel in über 100 Metern Höhe bietet zudem ein spektakuläres Panorama-Restaurant und eine atemberaubende Aussicht über die belgische Hauptstadt.",
+      hu: "Az Atomium Brüsszel legismertebb modern jelképe, amely a második világháború utáni korszak tudományos optimizmusát és a fejlődésbe vetett hitét szimbolizálja. A lenyűgöző, futurisztikus építményt André Waterkeyn mérnök tervezte az 1958-as brüsszeli világkiállításra (Expo 58), és egy vas kristályrácsának alapelemét ábrázolja 165 milliárdszoros nagyításban. A szerkezet kilenc, eredetileg alumíniummal, majd rozsdamentes acéllal borított gömbből áll, amelyeket mozgólépcsőket és lifteket rejtő vastag csövek kötnek össze. Bár az Atomiumot eredetileg csak a hathónapos kiállítás idejére tervezték megtartani, hatalmas népszerűsége miatt végül állandó építmény maradt. Manapság a látogatók a gömbök többségét bejárhatják; belsejükben az épület történetét bemutató, valamint tudományos és design tematikájú kiállítások kaptak helyet. A legfelső, több mint 100 méter magasan lévő gömb egy panorámaéttermet rejt, ahonnan lélegzetelállító kilátás nyílik egész Brüsszelre és környékére.",
+      ro: "Atomium este cel mai emblematic simbol modern al Bruxelles-ului și un monument fascinant dedicat optimismului științific din perioada postbelică. Proiectată de inginerul André Waterkeyn pentru Expoziția Universală Expo 58, structura futuristă reprezintă o celulă elementară a unui cristal de fier, mărită de nu mai puțin de 165 de miliarde de ori. Acest edificiu uimitor este format din nouă sfere masive acoperite cu oțel inoxidabil, interconectate prin tuburi groase care adăpostesc scări rulante și lifturi. Deși inițial a fost conceput ca o instalație temporară menită să reziste doar cele șase luni ale expoziției, succesul său enorm a dus la păstrarea sa permanentă. În prezent, vizitatorii pot explora interiorul mai multor sfere, care găzduiesc expoziții permanente despre istoria Expo 58, precum și instalații de artă și design. Sfera superioară, situată la o înălțime de peste 100 de metri, găzduiește un restaurant și oferă o perspectivă panoramică extraordinară asupra întregii capitale belgiene.",
+      en: "The Atomium is Brussels' most iconic modern landmark and a powerful symbol of the scientific optimism and boundless faith in progress that characterized the post-war era. Designed by engineer André Waterkeyn for the 1958 World Expo (Expo 58), this futuristic structure depicts the elementary cell of an iron crystal magnified a staggering 165 billion times. The impressive edifice consists of nine massive spheres, now clad in stainless steel, which are connected by thick tubes containing escalators and elevators. Originally intended to be a temporary installation lasting only the six months of the exhibition, its overwhelming popularity ensured its permanent survival. Today, visitors can explore several of the interconnected spheres, which host permanent and temporary exhibitions covering the history of the building, science, and modern design. The uppermost sphere, located at a height of over 100 meters, features a spectacular panoramic restaurant and observation deck, offering breathtaking, uninterrupted views across the Belgian capital and its surroundings."
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine imposante Gesamthöhe von 102 Metern", "Jede der neun Kugeln hat einen Durchmesser von 18 Metern", "Wurde ursprünglich für die Weltausstellung Expo 58 im Jahr 1958 gebaut", "Umfangreiche Renovierung und Verkleidung mit Edelstahl zwischen 2004 und 2006", "Der Aufzug in der zentralen Röhre gehört zu den schnellsten in Europa", "Fünf der neun Sphären sind für die Öffentlichkeit zugänglich"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-atomium-landmarks-v2.webp",
+},  {
     id: "belgium-gravensteen-landmarks-v2",
     type: "castle",
-    name: { de: "Gravensteen", hu: "Gravensteen", ro: "Castelul Gravensteen", en: "Gravensteen" },
+    name: { de: "Gravensteen", hu: "Gravensteen", ro: "Castelul Gravensteen", en: "Gravensteen",
+image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"
+},
     coords: [3.7208, 51.0575],
     coordinates: { lat: 51.0575, lng: 3.7208 },
     description: {
@@ -57,11 +89,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Singurul castel medieval cu donjon", "Restaurare amplă din 1885", "Găzduiește un muzeu al torturii", "Emblemă a orașului Gent"],
       en: ["Only Flemish castle with keep", "Extensive restoration from 1885", "Houses a museum of torture", "Symbol of the city of Ghent"],
     },
-    imageHint: "Gravensteen castle Ghent moat", image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"},
+    imageHint: "Gravensteen castle Ghent moat",
+    image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"},
   {
     id: "belgium-antwerp-central-station-landmarks-v2",
     type: "landmark",
-    name: { de: "Bahnhof Antwerpen-Centraal", hu: "Antwerpen-Centraal pályaudvar", ro: "Gara Centrală din Anvers", en: "Antwerp Central Station" },
+    name: { de: "Bahnhof Antwerpen-Centraal", hu: "Antwerpen-Centraal pályaudvar", ro: "Gara Centrală din Anvers", en: "Antwerp Central Station",
+image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"
+},
     coords: [4.4211, 51.2172],
     coordinates: { lat: 51.2172, lng: 4.4211 },
     description: {
@@ -76,11 +111,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțimea domului este de 75 metri", "Proiectată de Louis Delacenserie", "Una dintre cele mai frumoase gări", "Patru niveluri pentru trafic feroviar"],
       en: ["Dome height of 75 meters", "Designed by Louis Delacenserie", "One of world's most beautiful stations", "Four levels for train traffic"],
     },
-    imageHint: "Antwerp Central Station interior architecture", image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"},
+    imageHint: "Antwerp Central Station interior architecture",
+    image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"},
   {
     id: "belgium-manneken-pis-landmarks-v2",
     type: "monument",
-    name: { de: "Manneken Pis", hu: "Manneken Pis", ro: "Manneken Pis", en: "Manneken Pis" },
+    name: { de: "Manneken Pis", hu: "Manneken Pis", ro: "Manneken Pis", en: "Manneken Pis",
+image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"
+},
     coords: [4.35, 50.845],
     coordinates: { lat: 50.845, lng: 4.35 },
     description: {
@@ -95,11 +133,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Statuia actuală datează din 1619", "Posedă peste 1.000 de costume", "Originalul se află în Muzeul Orașului", "Înălțime de doar 61 de centimetri"],
       en: ["Current statue dates to 1619", "Owns over 1,000 costumes", "Original kept in City Museum", "Height of only 61 centimeters"],
     },
-    imageHint: "Manneken Pis statue Brussels fountain", image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"},
+    imageHint: "Manneken Pis statue Brussels fountain",
+    image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"},
   {
     id: "belgium-cathedral-of-our-lady-antwerp-landmarks-v2",
     type: "cathedral",
-    name: { de: "Liebfrauenkathedrale", hu: "Miasszonyunk-székesegyház", ro: "Catedrala Maicii Domnului din Anvers", en: "Cathedral of Our Lady" },
+    name: { de: "Liebfrauenkathedrale", hu: "Miasszonyunk-székesegyház", ro: "Catedrala Maicii Domnului din Anvers", en: "Cathedral of Our Lady",
+image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"
+},
     coords: [4.4014, 51.2202],
     coordinates: { lat: 51.2202, lng: 4.4014 },
     description: {
@@ -114,11 +155,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțimea turnului de 123 metri", "Construcția a durat 169 de ani", "Patru capodopere de Rubens", "Plan cu șapte nave"],
       en: ["Tower height of 123 meters", "Construction took 169 years", "Houses four Rubens masterpieces", "Seven-aisled ground plan"],
     },
-    imageHint: "Cathedral of Our Lady Antwerp spire", image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"},
+    imageHint: "Cathedral of Our Lady Antwerp spire",
+    image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"},
   {
     id: "belgium-st-bavos-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "St.-Bavo-Kathedrale", hu: "Szent Bávó-székesegyház", ro: "Catedrala Sfântul Bavo din Gent", en: "St. Bavo's Cathedral" },
+    name: { de: "St.-Bavo-Kathedrale", hu: "Szent Bávó-székesegyház", ro: "Catedrala Sfântul Bavo din Gent", en: "St. Bavo's Cathedral",
+image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"
+},
     coords: [3.7269, 51.0531],
     coordinates: { lat: 51.0531, lng: 3.7269 },
     description: {
@@ -133,11 +177,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Găzduiește Altarul din Gent (1432)", "Locul botezului lui Carol al V-lea", "Turnul are 89 de metri înălțime", "Criptă din secolul al X-lea"],
       en: ["Houses the Ghent Altarpiece (1432)", "Site of Charles V's baptism", "89-meter tall church tower", "Crypt dates to the 10th century"],
     },
-    imageHint: "St Bavo's Cathedral Ghent exterior", image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"},
+    imageHint: "St Bavo's Cathedral Ghent exterior",
+    image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"},
   {
     id: "belgium-royal-palace-brussels-landmarks-v2",
     type: "palace",
-    name: { de: "Königlicher Palast von Brüssel", hu: "Brüsszeli királyi palota", ro: "Palatul Regal din Bruxelles", en: "Royal Palace of Brussels" },
+    name: { de: "Königlicher Palast von Brüssel", hu: "Brüsszeli királyi palota", ro: "Palatul Regal din Bruxelles", en: "Royal Palace of Brussels",
+image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"
+},
     coords: [4.3622, 50.8419],
     coordinates: { lat: 50.8419, lng: 4.3622 },
     description: {
@@ -152,11 +199,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Deschis vizitatorilor în timpul verii", "Fațadă mai lungă decât Buckingham Palace", "Construit pe dealul Koudenberg", "Nu este reședința regală efectivă"],
       en: ["Open to visitors during summer", "Façade longer than Buckingham Palace", "Built on the Koudenberg hill", "Not used as a royal residence"],
     },
-    imageHint: "Royal Palace of Brussels front view", image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"},
+    imageHint: "Royal Palace of Brussels front view",
+    image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"},
   {
     id: "belgium-lions-mound-landmarks-v2",
     type: "monument",
-    name: { de: "Löwenhügel", hu: "Oroszlános domb", ro: "Tumulul Leului", en: "Lion's Mound" },
+    name: { de: "Löwenhügel", hu: "Oroszlános domb", ro: "Tumulul Leului", en: "Lion's Mound",
+image: "/poi-images/belgium-lions-mound-landmarks-v2.webp"
+},
     coords: [4.4053, 50.6785],
     coordinates: { lat: 50.6785, lng: 4.4053 },
     description: {
@@ -171,11 +221,26 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["226 de trepte până la leu", "Finalizat în anul 1826", "Statuia leului cântărește 28 tone", "Vedere asupra câmpului de luptă"],
       en: ["226 steps lead to the lion", "Completed in 1826", "Lion statue weighs 28 tons", "Overlooks the battlefield"],
     },
-    imageHint: "Lion's Mound Waterloo monument", image: "/poi-images/belgium-lions-mound-landmarks-v2.webp"},
-  {
+imageHint: "Lion's Mound Waterloo monument",
+    descriptionAdvanced: {
+      de: "Der Löwenhügel (Butte du Lion) ist das markanteste und bekannteste Monument auf dem historischen Schlachtfeld von Waterloo in Braine-l'Alleud. Dieser künstlich aufgeschüttete, 40 Meter hohe Erdkegel wurde zwischen 1823 und 1826 im Auftrag von König Wilhelm I. der Niederlande errichtet, um an den entscheidenden Ort zu erinnern, an dem sein Sohn, der Prinz von Oranien (der spätere König Wilhelm II.), während der epischen Schlacht vom 18. Juni 1815 verwundet wurde. Die Spitze des Hügels, die über 226 steile Treppenstufen erreicht wird, krönt eine gewaltige gusseiserne Löwenstatue. Der 28 Tonnen schwere Löwe, der auf einem steinernen Sockel thront und heroisch in Richtung Frankreich blickt, symbolisiert den Mut der alliierten Truppen sowie den hart erkämpften Frieden in Europa nach der endgültigen Niederlage Napoleons. Von der Aussichtsplattform zu Füßen des Löwen bietet sich den Besuchern ein beeindruckender Panoramablick über die weitläufigen Felder und Höfe, auf denen sich das blutige Gefecht zutrug, unterstützt durch detaillierte Orientierungstafeln, die den Verlauf der Truppenbewegungen veranschaulichen.",
+      hu: "Az Oroszlános domb (Butte du Lion) a történelmi waterlooi csatatér legszembetűnőbb és legismertebb emlékműve Braine-l'Alleud területén. Ezt a mesterségesen kialakított, 40 méter magas földkúpot 1823 és 1826 között emelték I. Vilmos holland király parancsára, hogy megjelöljék azt a sorsdöntő helyet, ahol fia, az Orániai herceg (a későbbi II. Vilmos király) megsebesült az 1815. június 18-i epikus ütközetben. A domb tetejét, amelyhez 226 meredek lépcsőfok vezet fel, egy hatalmas, öntöttvasból készült oroszlánszobor koronázza. A 28 tonnás oroszlán, amely egy kőtalapzaton pihen és hősiesen Franciaország felé tekint, a szövetséges csapatok bátorságát, valamint a Napóleon végső veresége után Európában kivívott békét szimbolizálja. Az oroszlán lábánál található kilátóteraszról a látogatók lenyűgöző panorámában gyönyörködhetnek a kiterjedt mezők és tanyák felett, ahol a véres összecsapás lezajlott. Ezt a történelmi élményt a csapatok mozgását részletesen bemutató tájékoztató táblák teszik teljessé.",
+      ro: "Tumulul Leului (Butte du Lion) este cel mai frapant și faimos monument de pe câmpul de luptă istoric de la Waterloo, situat în Braine-l'Alleud. Acest con artificial de pământ, înalt de 40 de metri, a fost construit între 1823 și 1826 la ordinul regelui Willem I al Țărilor de Jos, pentru a marca locul precis unde fiul său, Prințul de Orania (viitorul rege Willem al II-lea), a fost rănit în timpul bătăliei epice din 18 iunie 1815. Vârful dealului, la care se ajunge urcând 226 de trepte abrupte, este încununat de o statuie gigantică a unui leu din fontă. Leul, care cântărește 28 de tone și se sprijină pe un piedestal de piatră privind eroic spre Franța, simbolizează curajul trupelor aliate și pacea greu câștigată în Europa după înfrângerea definitivă a lui Napoleon. De pe platforma de observare de la picioarele leului, vizitatorii au parte de o vedere panoramică impresionantă asupra câmpurilor și fermelor extinse unde s-a desfășurat sângeroasa confruntare, peisajul fiind completat de panouri de orientare detaliate care ilustrează mișcările trupelor.",
+      en: "The Lion's Mound (Butte du Lion) is the most prominent and iconic monument on the historic battlefield of Waterloo in Braine-l'Alleud. This artificially constructed, 40-meter-high conical earthen hill was built between 1823 and 1826 by order of King William I of the Netherlands to mark the decisive spot where his son, the Prince of Orange (the future King William II), was wounded during the epic battle on June 18, 1815. The summit of the mound, reached by climbing 226 steep steps, is crowned by a colossal cast-iron lion statue. The 28-ton lion, resting on a stone pedestal and gazing heroically towards France, symbolizes the courage of the allied troops and the hard-won peace across Europe following Napoleon's final defeat. From the observation deck at the lion's feet, visitors are treated to an impressive panoramic view over the vast, rolling fields and farmsteads where the bloody engagement took place, supported by detailed orientation panels that clearly illustrate the complex troop movements of that fateful day."
+    },
+    factsAdvanced: {
+      de: ["Künstlicher Erdhügel mit einer imposanten Höhe von 40 Metern", "Wurde zwischen 1823 und 1826 errichtet, wobei Erde vom Schlachtfeld zusammengetragen wurde", "Genau 226 Stufen führen zur Aussichtsplattform auf dem Gipfel", "Die Löwenstatue aus Gusseisen ist 4,5 Meter hoch und wiegt gewaltige 28 Tonnen", "Markiert die Stelle der Verwundung des Prinzen von Oranien", "Der Löwe blickt symbolisch und drohend in Richtung Frankreich"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-lions-mound-landmarks-v2.webp",
+},  {
     id: "belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale St. Michael und St. Gudula", hu: "Szent Mihály és Szent Gudula-székesegyház", ro: "Catedrala Sfinții Mihail și Gudula din Bruxelles", en: "Cathedral of St. Michael and St. Gudula" },
+    name: { de: "Kathedrale St. Michael und St. Gudula", hu: "Szent Mihály és Szent Gudula-székesegyház", ro: "Catedrala Sfinții Mihail și Gudula din Bruxelles", en: "Cathedral of St. Michael and St. Gudula",
+image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.webp"
+},
     coords: [4.3601, 50.8478],
     coordinates: { lat: 50.8478, lng: 4.3601 },
     description: {
@@ -190,11 +255,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțimea turnurilor de 64 metri", "Construcția a durat peste 300 ani", "Vitralii remarcabile", "Posedă un carilon cu 49 de clopote"],
       en: ["Tower height of 64 meters", "Took over 300 years to build", "Excellent stained-glass windows", "Contains a 49-bell carillon"],
     },
-    imageHint: "Cathedral of St Michael and St Gudula Brussels towers", image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.webp"},
+    imageHint: "Cathedral of St Michael and St Gudula Brussels towers",
+    image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.webp"},
   {
     id: "belgium-mas-museum-landmarks-v2",
     type: "museum",
-    name: { de: "MAS - Museum am Strom", hu: "MAS - Museum aan de Stroom", ro: "MAS - Museum aan de Stroom", en: "MAS Museum" },
+    name: { de: "MAS - Museum am Strom", hu: "MAS - Museum aan de Stroom", ro: "MAS - Museum aan de Stroom", en: "MAS Museum",
+image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"
+},
     coords: [4.4047, 51.2289],
     coordinates: { lat: 51.2289, lng: 4.4047 },
     description: {
@@ -209,11 +277,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțime de 60 de metri", "Platformă de observare gratuită", "Inaugurat în anul 2011", "Peste 500.000 de piese de muzeu"],
       en: ["Height of 60 meters", "Free observation deck at top", "Opened in the year 2011", "Over 500,000 museum pieces"],
     },
-    imageHint: "MAS Museum Antwerp red sandstone building", image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"},
+    imageHint: "MAS Museum Antwerp red sandstone building",
+    image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"},
   {
     id: "belgium-plantin-moretus-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Plantin-Moretus-Museum", hu: "Plantin-Moretus Múzeum", ro: "Muzeul Plantin-Moretus din Anvers", en: "Plantin-Moretus Museum" },
+    name: { de: "Plantin-Moretus-Museum", hu: "Plantin-Moretus Múzeum", ro: "Muzeul Plantin-Moretus din Anvers", en: "Plantin-Moretus Museum",
+image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"
+},
     coords: [4.3986, 51.2185],
     coordinates: { lat: 51.2185, lng: 4.3986 },
     description: {
@@ -228,11 +299,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2005", "Două prese de tipar din cca. 1600", "Casă de locuit și atelier", "Posedă o Biblie Gutenberg"],
       en: ["UNESCO Heritage since 2005", "Two presses from around 1600", "Residence and workshop combined", "Houses a Gutenberg Bible"],
     },
-    imageHint: "Plantin-Moretus Museum Antwerp printing press", image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"},
+    imageHint: "Plantin-Moretus Museum Antwerp printing press",
+    image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"},
   {
     id: "belgium-basilica-of-the-holy-blood-landmarks-v2",
     type: "church",
-    name: { de: "Heilig-Blut-Basilika", hu: "Szent Vér-bazilika", ro: "Bazilica Sângelui Sfânt din Bruges", en: "Basilica of the Holy Blood" },
+    name: { de: "Heilig-Blut-Basilika", hu: "Szent Vér-bazilika", ro: "Bazilica Sângelui Sfânt din Bruges", en: "Basilica of the Holy Blood",
+image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"
+},
     coords: [3.2267, 51.2081],
     coordinates: { lat: 51.2081, lng: 3.2267 },
     description: {
@@ -247,11 +321,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Relicvă prezentă din secolul XII", "Procesiunea anuală a Sângelui Sfânt", "Parterul este aproape neschimbat", "Situată în Piața Burg"],
       en: ["Relic here since 12th century", "Annual Procession of Holy Blood", "Lower level largely unchanged", "Located on the Burg square"],
     },
-    imageHint: "Basilica of the Holy Blood Bruges facade", image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"},
+    imageHint: "Basilica of the Holy Blood Bruges facade",
+    image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"},
   {
     id: "belgium-chateau-de-beloeil-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Belœil", hu: "Belœil-i kastély", ro: "Castelul Belœil", en: "Château de Belœil" },
+    name: { de: "Schloss Belœil", hu: "Belœil-i kastély", ro: "Castelul Belœil", en: "Château de Belœil",
+image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"
+},
     coords: [3.7297, 50.5508],
     coordinates: { lat: 50.5508, lng: 3.7297 },
     description: {
@@ -266,11 +343,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Grădină barocă de 25 hectare", "Bibliotecă cu 20.000 de volume", "Înconjurat de un șanț cu apă", "Colecție de artă importantă"],
       en: ["25-hectare Baroque garden", "Library with 20,000 books", "Surrounded by a water moat", "Significant art collection"],
     },
-    imageHint: "Chateau de Beloeil castle and lake", image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"},
+    imageHint: "Chateau de Beloeil castle and lake",
+    image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"},
   {
     id: "belgium-church-of-our-lady-bruges-landmarks-v2",
     type: "church",
-    name: { de: "Liebfrauenkirche", hu: "Miasszonyunk-templom", ro: "Biserica Maicii Domnului din Bruges", en: "Church of Our Lady" },
+    name: { de: "Liebfrauenkirche", hu: "Miasszonyunk-templom", ro: "Biserica Maicii Domnului din Bruges", en: "Church of Our Lady",
+image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"
+},
     coords: [3.2244, 51.2047],
     coordinates: { lat: 51.2047, lng: 3.2244 },
     description: {
@@ -285,11 +365,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Cel mai înalt turn de cărămidă", "Mormintele lui Carol Temerarul", "Singura sculptură de Michelangelo în afara Italiei", "Construcție de peste două secole"],
       en: ["Tallest brick tower in the world", "Tombs of Charles the Bold", "Only Michelangelo statue outside Italy", "Took over two centuries to build"],
     },
-    imageHint: "Church of Our Lady Bruges brick tower", image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"},
+    imageHint: "Church of Our Lady Bruges brick tower",
+    image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"},
   {
     id: "belgium-saint-peters-abbey-landmarks-v2",
     type: "landmark",
-    name: { de: "St.-Peters-Abtei", hu: "Szent Péter-apátság", ro: "Abația Sfântul Petru din Gent", en: "Saint Peter's Abbey" },
+    name: { de: "St.-Peters-Abtei", hu: "Szent Péter-apátság", ro: "Abația Sfântul Petru din Gent", en: "Saint Peter's Abbey",
+image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"
+},
     coords: [3.7275, 51.0414],
     coordinates: { lat: 51.0414, lng: 3.7275 },
     description: {
@@ -304,11 +387,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Fondată de Sfântul Amandus", "Biserică abacială barocă (sec. XVII)", "Deține propria podgorie", "Acum centru cultural al orașului"],
       en: ["Founded by Saint Amandus", "17th-century Baroque abbey church", "Features its own vineyard", "Now a city cultural center"],
     },
-    imageHint: "Saint Peter's Abbey Ghent buildings", image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"},
+    imageHint: "Saint Peter's Abbey Ghent buildings",
+    image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"},
   {
     id: "belgium-royal-museums-of-fine-arts-landmarks-v2",
     type: "museum",
-    name: { de: "Königliche Museen der Schönen Künste", hu: "Királyi Szépművészeti Múzeum", ro: "Muzee Regale de Arte Frumoase din Belgia", en: "Royal Museums of Fine Arts" },
+    name: { de: "Königliche Museen der Schönen Künste", hu: "Királyi Szépművészeti Múzeum", ro: "Muzee Regale de Arte Frumoase din Belgia", en: "Royal Museums of Fine Arts",
+image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"
+},
     coords: [4.3586, 50.8417],
     coordinates: { lat: 50.8417, lng: 4.3586 },
     description: {
@@ -323,11 +409,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Peste 20.000 de opere de artă", "Include Muzeul Magritte", "Fondat sub Napoleon", "Colecție importantă de Bruegel"],
       en: ["Over 20,000 works of art", "Includes the Magritte Museum", "Founded under Napoleon", "Significant Bruegel collection"],
     },
-    imageHint: "Royal Museums of Fine Arts Brussels entrance", image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"},
+    imageHint: "Royal Museums of Fine Arts Brussels entrance",
+    image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"},
   {
     id: "belgium-town-hall-leuven-landmarks-v2",
     type: "monument",
-    name: { de: "Rathaus von Löwen", hu: "Leuveni városháza", ro: "Primăria din Leuven", en: "Town Hall" },
+    name: { de: "Rathaus von Löwen", hu: "Leuveni városháza", ro: "Primăria din Leuven", en: "Town Hall",
+image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"
+},
     coords: [4.7011, 50.8794],
     coordinates: { lat: 50.8794, lng: 4.7011 },
     description: {
@@ -342,11 +431,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["236 de statui pe fațadă", "Construită între 1448 și 1469", "A supraviețuit ambelor războaie", "Trei etaje în stil gotic"],
       en: ["236 statues on the façade", "Built between 1448 and 1469", "Survived both World Wars", "Three stories in Gothic style"],
     },
-    imageHint: "Leuven Town Hall Gothic facade statues", image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"},
+    imageHint: "Leuven Town Hall Gothic facade statues",
+    image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"},
   {
     id: "belgium-st-peters-church-leuven-landmarks-v2",
     type: "church",
-    name: { de: "St.-Peters-Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru din Leuven", en: "St. Peter's Church" },
+    name: { de: "St.-Peters-Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru din Leuven", en: "St. Peter's Church",
+image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"
+},
     coords: [4.7011, 50.8797],
     coordinates: { lat: 50.8797, lng: 4.7011 },
     description: {
@@ -361,11 +453,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO (turnul)", "Pictura lui Dieric Bouts (1464)", "Turnurile au rămas neterminate", "Fondată în anul 986"],
       en: ["UNESCO World Heritage (tower)", "Dieric Bouts painting (1464)", "Towers remained unfinished", "Founded in the year 986"],
     },
-    imageHint: "St Peter's Church Leuven unfinished towers", image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"},
+    imageHint: "St Peter's Church Leuven unfinished towers",
+    image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"},
   {
     id: "belgium-orval-abbey-landmarks-v2",
     type: "landmark",
-    name: { de: "Abtei Orval", hu: "Orvali apátság", ro: "Abația Orval", en: "Orval Abbey" },
+    name: { de: "Abtei Orval", hu: "Orvali apátság", ro: "Abația Orval", en: "Orval Abbey",
+image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"
+},
     coords: [5.3486, 49.6386],
     coordinates: { lat: 49.6386, lng: 5.3486 },
     description: {
@@ -380,11 +475,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1132", "Proprie berărie trapistă", "Legenda păstrăvului de aur", "Muzeu farmaceutic la fața locului"],
       en: ["Founded in the year 1132", "Own Trappist brewery", "Legend of the golden trout", "On-site pharmaceutical museum"],
     },
-    imageHint: "Orval Abbey ruins and monastery", image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"},
+    imageHint: "Orval Abbey ruins and monastery",
+    image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"},
   {
     id: "belgium-modave-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Modave", hu: "Modave-i kastély", ro: "Castelul Modave", en: "Modave Castle" },
+    name: { de: "Schloss Modave", hu: "Modave-i kastély", ro: "Castelul Modave", en: "Modave Castle",
+image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"
+},
     coords: [5.2958, 50.4422],
     coordinates: { lat: 50.4422, lng: 5.2958 },
     description: {
@@ -399,11 +497,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["20 de săli splendid decorate", "Sediul istoric al conților de Marchin", "Stucaturi de Jan Christian Hansche", "Înconjurat de o rezervație naturală"],
       en: ["20 lavishly decorated rooms", "Ancestral home of Counts of Marchin", "Stucco work by Jan Christian Hansche", "Surrounded by a nature reserve"],
     },
-    imageHint: "Modave Castle on cliff", image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"},
+    imageHint: "Modave Castle on cliff",
+    image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"},
   {
     id: "belgium-cinquantenaire-arch-landmarks-v2",
     type: "monument",
-    name: { de: "Triumphbogen des Cinquantenaire", hu: "Cinquantenaire diadalív", ro: "Arcul Cinquantenaire", en: "Cinquantenaire Arch" },
+    name: { de: "Triumphbogen des Cinquantenaire", hu: "Cinquantenaire diadalív", ro: "Arcul Cinquantenaire", en: "Cinquantenaire Arch",
+image: "/poi-images/belgium-cinquantenaire-arch-landmarks-v2.webp"
+},
     coords: [4.3922, 50.8403],
     coordinates: { lat: 50.8403, lng: 4.3922 },
     description: {
@@ -418,12 +519,15 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 1905", "Încoronat de o cvadrigă", "Parte a Parcului Cinquantenaire", "Găzduiește Muzeul Armatei"],
       en: ["Completed in the year 1905", "Crowned by a bronze quadriga", "Part of the Cinquantenaire Park", "Houses the Military Museum"],
     },
-    imageHint: "Cinquantenaire Arch Brussels Jubelpark", image: "/poi-images/belgium-cinquantenaire-arch-landmarks-v2.webp"}
+    imageHint: "Cinquantenaire Arch Brussels Jubelpark",
+    image: "/poi-images/belgium-cinquantenaire-arch-landmarks-v2.webp"},
 ,
   {
     id: "belgium-brussels-justice-palace-landmarks-v2",
     type: "landmark",
-    name: { de: "Justizpalast von Brüssel", hu: "Brüsszeli Igazságügyi Palota", ro: "Palatul de Justiție din Bruxelles", en: "Palace of Justice of Brussels" },
+    name: { de: "Justizpalast von Brüssel", hu: "Brüsszeli Igazságügyi Palota", ro: "Palatul de Justiție din Bruxelles", en: "Palace of Justice of Brussels",
+image: "/poi-images/belgium-brussels-justice-palace-landmarks-v2.webp"
+},
     coordinates: { lat: 50.8369, lng: 4.3516 },
     description: {
       de: "Der Justizpalast von Brüssel ist das wichtigste Gerichtsgebäude Belgiens und thront auf dem Galgenberg. Das zwischen 1866 und 1883 von Joseph Poelaert errichtete Bauwerk galt im 19. Jahrhundert als das größte Gebäude der Welt.",
@@ -438,11 +542,25 @@ export const belgiumLandmarksV2: POI[] = [
       en: ["Ground area of 26,000 square meters", "Built between 1866 and 1883", "Designed by architect Joseph Poelaert", "Features a 104-meter tall dome"],
     },
     imageHint: "Palace of Justice Brussels facade and dome",
+    descriptionAdvanced: {
+      de: "Der Justizpalast von Brüssel (Palais de Justice) ist ein absolutes architektonisches Monstrum und dominiert mit seiner massiven Silhouette die Skyline der belgischen Hauptstadt vom Galgenberg aus. Das gewaltige Bauwerk, entworfen von dem größenwahnsinnigen Architekten Joseph Poelaert, wurde zwischen 1866 und 1883 errichtet und gilt als das größte Gebäude, das weltweit im gesamten 19. Jahrhundert gebaut wurde – es ist sogar größer als der Petersdom in Rom. Der eklektische Stil des Palastes, der klassizistische und assyrisch-babylonische Elemente auf fast schon bedrohliche Weise vermischt, sollte die uneingeschränkte Autorität und Erhabenheit des Gesetzes demonstrieren. Der Innenraum ist ein labyrinthisches Netzwerk aus 27 Gerichtssälen, fast 250 kleineren Räumen, endlosen Gängen und acht riesigen Innenhöfen, das von einer massiven, über 100 Meter hohen Kuppel gekrönt wird. Für den Bau dieses gigantischen Regierungsprojekts musste ein ganzer Stadtteil, das traditionelle Marollen-Viertel, abgerissen werden, was den Architekten bei den enteigneten Bewohnern bis heute zur Hassfigur machte.",
+      hu: "A brüsszeli Igazságügyi Palota (Palais de Justice) egy lenyűgöző és szinte már félelmetes építészeti monstrum, amely masszív sziluettjével a Galgenberg dombról uralja a belga főváros látképét. A grandiózus, Joseph Poelaert építész által tervezett építményt 1866 és 1883 között emelték, és a 19. században épült legnagyobb épületként tartják számon az egész világon – alapterülete még a római Szent Péter-bazilikáét is meghaladja. A palota eklektikus stílusa, amely klasszicista és asszír-babilóniai elemeket vegyít, a törvény megkérdőjelezhetetlen tekintélyét és fenségességét hivatott demonstrálni. A belső tér egy valóságos labirintus, amely 27 tárgyalóteremből, csaknem 250 kisebb helyiségből, végtelen folyosókból és nyolc hatalmas belső udvarból áll, és amelyet egy masszív, több mint 100 méter magas kupola koronáz meg. Ennek a gigantikus kormányzati projektnek a felépítéséhez egy egész történelmi városrészt, a Marollen negyedet kellett lerombolni, ami miatt az építész a kilakoltatott lakosok szemében a mai napig gyűlölt figurává vált.",
+      ro: "Palatul de Justiție din Bruxelles (Palais de Justice) este un monstru arhitectural absolut, a cărui siluetă masivă domină orizontul capitalei belgiene de pe colina Galgenberg. Această structură gigantică, proiectată de arhitectul vizionar Joseph Poelaert, a fost construită între anii 1866 și 1883 și este considerată cea mai mare clădire construită oriunde în lume în secolul al XIX-lea – suprafața sa depășind-o chiar și pe cea a Bazilicii Sfântul Petru din Roma. Stilul eclectic al palatului, care îmbină elemente neoclasice și asiriano-babiloniene într-un mod aproape intimidant, a fost conceput pentru a demonstra autoritatea absolută și măreția legii. Interiorul este un labirint uriaș format din 27 de săli de judecată, aproape 250 de camere mai mici, coridoare nesfârșite și opt curți interioare masive, totul fiind încununat de o cupolă colosală înaltă de peste 100 de metri. Pentru a face loc acestui proiect guvernamental faraonic, o mare parte dintr-un cartier tradițional, Marollen, a fost demolată, atrăgând ura veșnică a localnicilor față de arhitect.",
+      en: "The Palace of Justice of Brussels (Palais de Justice) is an absolute architectural behemoth, its massive and somewhat intimidating silhouette dominating the capital's skyline from its vantage point on Galgenberg hill. Designed by the visionary architect Joseph Poelaert, the colossal structure was erected between 1866 and 1883 and holds the undisputed title of the largest building constructed anywhere in the world during the entire 19th century—its total ground area even surpasses that of St. Peter's Basilica in Rome. The palace's highly eclectic style, which heavily mixes Neoclassical and Assyrian-Babylonian elements, was deliberately chosen to project the ultimate authority and unyielding majesty of the law. The interior is a vast labyrinthine network consisting of 27 grand courtrooms, nearly 250 smaller rooms, seemingly endless corridors, and eight enormous courtyards, all crowned by a massive dome reaching a height of over 100 meters. The construction of this gigantic state project required the demolition of a large section of the traditional Marollen working-class neighborhood, making the architect a despised figure among the evicted locals to this day."
+    },
+    factsAdvanced: {
+      de: ["Gilt als das größte Bauwerk, das weltweit im gesamten 19. Jahrhundert errichtet wurde", "Das gigantische Gebäude nimmt eine beeindruckende Grundfläche von 26.000 Quadratmetern ein", "Die zentrale Kuppel erhebt sich majestätisch auf eine Höhe von fast 104 Metern", "Für den Bau musste ein erheblicher Teil des historischen Marollen-Viertels abgerissen werden", "Der Architekt Joseph Poelaert erlebte die Fertigstellung seines Meisterwerks nicht mehr", "Das Gebäude ist seit Jahrzehnten fast vollständig eingerüstet und wird aufwendig restauriert"],
+      hu: ["Ezt tartják a 19. században épült legnagyobb alapterületű épületnek az egész világon", "A gigantikus építmény lenyűgöző, 26 000 négyzetméteres teljes alapterületet foglal el", "A masszív központi kupola fenségesen, majdnem 104 méteres magasságba emelkedik", "A palota felépítéséhez a történelmi Marollen negyed jelentős részét le kellett bontani", "Joseph Poelaert, a tervező építész már nem érhette meg főművének végleges átadását", "Az épület homlokzata évtizedek óta fel van állványozva a folyamatos felújítások miatt"],
+      ro: ["Este considerată cea mai mare clădire construită la nivel mondial pe parcursul secolului al XIX-lea", "Construcția gigantică ocupă o suprafață la sol impresionantă de 26.000 de metri pătrați", "Cupola centrală masivă se înalță maiestuos până la o înălțime de aproape 104 metri", "Pentru construcția sa a fost necesară demolarea unei părți semnificative din cartierul istoric Marollen", "Arhitectul vizionar Joseph Poelaert a murit înainte de finalizarea capodoperei sale", "Clădirea a fost acoperită de schele timp de decenii din cauza restaurărilor complexe și continue"],
+      en: ["Recognized as the largest single building constructed anywhere in the world during the 19th century", "The colossal structure covers an incredibly massive ground area of exactly 26,000 square meters", "The imposing central dome soars majestically to a remarkable total height of nearly 104 meters", "Construction controversially required the demolition of a large section of the historic Marollen district", "The building's visionary architect, Joseph Poelaert, tragically died four years before its completion", "The exterior has famously been shrouded in scaffolding for decades due to ongoing restoration work"]
+    }
   },
   {
     id: "belgium-koekelberg-basilica-landmarks-v2",
     type: "church",
-    name: { de: "Nationalbasilika des Heiligen Herzens", hu: "Koekelbergi bazilika", ro: "Bazilica Inimii Sacre din Koekelberg", en: "Basilica of the Sacred Heart" },
+    name: { de: "Nationalbasilika des Heiligen Herzens", hu: "Koekelbergi bazilika", ro: "Bazilica Inimii Sacre din Koekelberg", en: "Basilica of the Sacred Heart",
+image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"
+},
     coordinates: { lat: 50.8667, lng: 4.3167 },
     description: {
       de: "Die Nationalbasilika des Heiligen Herzens in Koekelberg ist eine der größten Kirchen der Welt. Das massive Art-Déco-Bauwerk wurde zur Feier des 75. Jahrestages der belgischen Unabhängigkeit begonnen und erst 1970 fertiggestellt.",
@@ -456,11 +574,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["A cincea cea mai mare biserică din lume", "Construită în stil Art Deco", "Lungime totală de 164,5 metri", "Finalizată complet în anul 1970"],
       en: ["Fifth largest church in the world", "Built in Art Deco style", "Total length of 164.5 meters", "Construction spanned from 1905 to 1970"],
     },
-    imageHint: "Basilica of the Sacred Heart Koekelberg exterior", image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"},
+    imageHint: "Basilica of the Sacred Heart Koekelberg exterior",
+    image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"},
   {
     id: "belgium-antwerp-port-house-landmarks-v2",
     type: "landmark",
-    name: { de: "Hafenhaus Antwerpen", hu: "Antwerpeni Kikötőház", ro: "Casa Portului din Anvers", en: "Antwerp Port House" },
+    name: { de: "Hafenhaus Antwerpen", hu: "Antwerpeni Kikötőház", ro: "Casa Portului din Anvers", en: "Antwerp Port House",
+image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"
+},
     coordinates: { lat: 51.2411, lng: 4.4072 },
     description: {
       de: "Das Hafenhaus in Antwerpen ist der Hauptsitz der Hafenbehörde und ein architektonisches Wahrzeichen von Zaha Hadid. Der Entwurf kombiniert eine ehemalige Feuerwache mit einem futuristischen Glasaufbau, der an einen Diamanten erinnert.",
@@ -474,11 +595,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Proiectată de Zaha Hadid Architects", "Inaugurată în septembrie 2016", "Structura de sticlă are 111 metri lungime", "Găzduiește peste 500 de angajați"],
       en: ["Designed by Zaha Hadid Architects", "Opened in September 2016", "The glass structure is 111 meters long", "Provides workspace for 500 employees"],
     },
-    imageHint: "Antwerp Port House Zaha Hadid architecture", image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"},
+    imageHint: "Antwerp Port House Zaha Hadid architecture",
+    image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"},
   {
     id: "belgium-laeken-royal-greenhouses-landmarks-v2",
     type: "landmark",
-    name: { de: "Königliche Gewächshäuser von Laeken", hu: "Laekeni Királyi Üvegházak", ro: "Serele Regale de la Laeken", en: "Royal Greenhouses of Laeken" },
+    name: { de: "Königliche Gewächshäuser von Laeken", hu: "Laekeni Királyi Üvegházak", ro: "Serele Regale de la Laeken", en: "Royal Greenhouses of Laeken",
+image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"
+},
     coordinates: { lat: 50.8872, lng: 4.3603 },
     description: {
       de: "Die Königlichen Gewächshäuser von Laeken sind ein monumentaler Komplex aus Glas und Eisen im Park des Schlosses Laeken. Sie wurden im späten 19. Jahrhundert für König Leopold II. errichtet und beherbergen eine Sammlung seltener Pflanzen.",
@@ -492,11 +616,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Construite între 1874 și 1895", "Proiectate de arhitectul Alphonse Balat", "Suprafață totală de 2,5 hectare", "Deschise publicului doar 3 săptămâni pe an"],
       en: ["Built between 1874 and 1895", "Designed by architect Alphonse Balat", "Total surface area of 2.5 hectares", "Open to the public for only 3 weeks a year"],
     },
-    imageHint: "Royal Greenhouses of Laeken glass dome", image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"},
+    imageHint: "Royal Greenhouses of Laeken glass dome",
+    image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"},
   {
     id: "belgium-freyr-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Freÿr", hu: "Freÿr kastélya", ro: "Castelul Freÿr", en: "Castle of Freÿr" },
+    name: { de: "Schloss Freÿr", hu: "Freÿr kastélya", ro: "Castelul Freÿr", en: "Castle of Freÿr",
+image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 50.2264, lng: 4.8889 },
     description: {
       de: "Schloss Freÿr ist ein Renaissance-Schloss am Ufer der Maas in der Nähe von Dinant. Die ehemalige Sommerresidenz der Herzöge von Beaufort-Spontin ist bekannt für ihre prächtigen Gärten im Stil von André Le Nôtre.",
@@ -510,11 +637,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Grădini datând din anul 1760", "Deține portocali vechi de 300 de ani", "Arhitectură renascentistă și barocă", "Situat direct pe malul fluviului Meuse"],
       en: ["Gardens date back to 1760", "Home to 300-year-old orange trees", "Renaissance and Baroque architecture", "Located on the banks of the Meuse river"],
     },
-    imageHint: "Castle of Freyr and Meuse river", image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"},
+    imageHint: "Castle of Freyr and Meuse river",
+    image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"},
   {
     id: "belgium-alden-biesen-landmarks-v2",
     type: "castle",
-    name: { de: "Landkommende Alden Biesen", hu: "Alden Biesen lovagrendi kastély", ro: "Comanderia Alden Biesen", en: "Alden Biesen Commandery" },
+    name: { de: "Landkommende Alden Biesen", hu: "Alden Biesen lovagrendi kastély", ro: "Comanderia Alden Biesen", en: "Alden Biesen Commandery",
+image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"
+},
     coordinates: { lat: 50.8419, lng: 5.5208 },
     description: {
       de: "Alden Biesen ist eine historische Landkommende des Deutschen Ordens in Rijkhoven. Gegründet im 13. Jahrhundert, war sie einst der Hauptsitz der Ballei Biesen und dient heute als internationales Kulturzentrum.",
@@ -528,11 +658,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Fondată de Ordinul Teuton în 1220", "Restaurată după un incendiu major în 1971", "Include o biserică și grădini baroce", "Cea mai mare comanderie din regiune"],
       en: ["Founded by the Teutonic Order in 1220", "Restored after a major fire in 1971", "Includes a church and Baroque gardens", "Largest commandery between Rhine and Meuse"],
     },
-    imageHint: "Alden Biesen castle and gardens", image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"},
+    imageHint: "Alden Biesen castle and gardens",
+    image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"},
   {
     id: "belgium-ghent-st-nicholas-church-landmarks-v2",
     type: "church",
-    name: { de: "Sankt-Niklas-Kirche", hu: "Szent Miklós-templom", ro: "Biserica Sfântul Nicolae", en: "St. Nicholas' Church" },
+    name: { de: "Sankt-Niklas-Kirche", hu: "Szent Miklós-templom", ro: "Biserica Sfântul Nicolae", en: "St. Nicholas' Church",
+image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"
+},
     coordinates: { lat: 51.0539, lng: 3.7225 },
     description: {
       de: "Die Sankt-Niklas-Kirche in Gent ist ein herausragendes Beispiel der Scheldegotik. Sie wurde im 13. Jahrhundert aus blaugrauem Stein errichtet und war die Kirche der wohlhabenden Gilden und Kaufleute der Stadt.",
@@ -546,11 +679,14 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Construită în stil gotic scaldian", "Utilizează piatră gri de Tournai", "Are un turn-lanternă central", "Datată din secolul al XIII-lea"],
       en: ["Built in the Scheldt Gothic style", "Constructed with blue-gray Tournai stone", "Features a central lantern tower", "Dating back to the early 13th century"],
     },
-    imageHint: "St Nicholas Church Ghent exterior", image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"},
+    imageHint: "St Nicholas Church Ghent exterior",
+    image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"},
   {
     id: "belgium-brussels-bourse-landmarks-v2",
     type: "landmark",
-    name: { de: "Brüsseler Börse", hu: "Brüsszeli Tőzsde", ro: "Bursa din Bruxelles", en: "Brussels Stock Exchange" },
+    name: { de: "Brüsseler Börse", hu: "Brüsszeli Tőzsde", ro: "Bursa din Bruxelles", en: "Brussels Stock Exchange",
+image: "/poi-images/belgium-brussels-bourse-landmarks-v2.webp"
+},
     coordinates: { lat: 50.8481, lng: 4.3503 },
     description: {
       de: "Die Brüsseler Börse ist ein historisches Gebäude im Zentrum der Stadt, entworfen von Léon-Pierre Suys. Das 1873 fertiggestellte Bauwerk im Stil der Neorenaissance beherbergt heute ein Biermuseum und archäologische Ausgrabungen.",
@@ -565,5 +701,17 @@ export const belgiumLandmarksV2: POI[] = [
       en: ["Completed in 1873", "Designed by architect Léon-Pierre Suys", "Houses the Belgian Beer World museum", "Built on the site of a Franciscan convent"],
     },
     imageHint: "Brussels Stock Exchange Bourse building",
+    descriptionAdvanced: {
+      de: "Die Brüsseler Börse (Bourse de Bruxelles) am belebten Place de la Bourse ist ein prachtvolles architektonisches Monument und ein pulsierender Mittelpunkt des Brüsseler Stadtlebens. Das gewaltige, palastartige Gebäude wurde zwischen 1868 und 1873 nach den Plänen des renommierten Architekten Léon-Pierre Suys im Stil der Neorenaissance errichtet, eingebettet in das massive Stadterneuerungsprojekt der Überwölbung der Senne. Es ruht historisch interessant auf den alten Ruinen des ehemaligen Récollets-Klosters (eines Franziskanerordens), deren faszinierende archäologische Überreste heute in einem unterirdischen Museum besichtigt werden können. Die Außenfassade der Börse ist über und über mit kunstvollen Skulpturen und Ornamenten verziert, an denen berühmte Künstler der Zeit, darunter auch ein junger Auguste Rodin, mitwirkten. Im Jahr 2015 wurde das Gebäude für den klassischen Börsenhandel geschlossen. Nach einer umfassenden und meisterhaften Renovierung öffnete es 2023 seine prachtvollen Türen wieder für die Öffentlichkeit und beherbergt nun das 'Belgian Beer World', ein hochmodernes Erlebniszentrum, das der weltberühmten belgischen Bierkultur Tribut zollt.",
+      hu: "A Brüsszeli Tőzsde (Bourse de Bruxelles) a nyüzsgő Place de la Bourse téren található, és nemcsak egy pompás építészeti műemlék, hanem a brüsszeli városi élet egyik lüktető központja is. Ezt a hatalmas, palotaszerű épületet 1868 és 1873 között emelték a neves építész, Léon-Pierre Suys tervei alapján, neoreneszánsz stílusban, a Senne folyó beboltozásának nagyszabású városmegújítási projektje keretében. Történelmileg rendkívül érdekes, hogy az épület az egykori Récollets (ferences) kolostor romjaira épült, melynek lenyűgöző régészeti maradványai ma egy földalatti múzeumban tekinthetők meg. A Tőzsde külső homlokzatát gazdagon díszítik a művészi szobrok és ornamentikák, amelyek megalkotásában a kor híres művészei, köztük a fiatal Auguste Rodin is részt vett. A klasszikus tőzsdei kereskedés 2015-ben szűnt meg az épületben. Egy átfogó és mesteri felújítást követően 2023-ban a palota újra megnyitotta kapuit a nagyközönség előtt, és jelenleg a 'Belgian Beer World' nevű ultramodern élményközpontnak ad otthont, amely a világhírű belga sörkultúra előtt tiszteleg.",
+      ro: "Bursa din Bruxelles (Bourse de Bruxelles), situată în animata Place de la Bourse, este un monument arhitectural magnific și un centru vibrant al vieții urbane din capitală. Această clădire masivă, asemănătoare unui palat, a fost construită între anii 1868 și 1873 după planurile renumitului arhitect Léon-Pierre Suys, în stil neorenascentist, ca parte a proiectului major de reînnoire urbană care a implicat acoperirea râului Senne. Un aspect istoric interesant este că se sprijină pe ruinele fostei mănăstiri Récollets (un ordin franciscan), ale cărei rămășițe arheologice fascinante pot fi vizitate astăzi într-un muzeu subteran. Fațada exterioară a Bursei este abundent decorată cu sculpturi și ornamente artistice elaborate, la care au contribuit artiști faimoși ai vremii, printre care și un tânăr Auguste Rodin. În anul 2015, clădirea a fost închisă pentru tranzacțiile bursiere clasice. După o renovare amplă și magistrală, și-a redeschis porțile spectaculoase pentru public în 2023 și găzduiește acum 'Belgian Beer World', un centru de experiență ultramodern care aduce un omagiu culturii belgiene a berii, faimoasă în întreaga lume.",
+      en: "The Brussels Stock Exchange (Bourse de Bruxelles), prominently located on the bustling Place de la Bourse, is a magnificent architectural monument and a vibrant focal point of city life in Brussels. This massive, palatial building was constructed between 1868 and 1873 in the Neo-Renaissance style following the grand designs of the renowned architect Léon-Pierre Suys. Its creation was an integral part of the massive urban renewal project that involved covering the Senne river. Historically intriguing, the edifice is built directly over the ruins of the former Récollets (Franciscan) convent; its fascinating archaeological remains can still be explored today in a dedicated underground museum. The exterior facade of the Bourse is lavishly decorated with intricate sculptures and artistic ornaments, with contributions from famous contemporary artists, including a young Auguste Rodin. In 2015, the building officially closed its doors to classical stock market trading. Following an extensive and masterful renovation, it triumphantly reopened to the general public in 2023 and now proudly houses 'Belgian Beer World', a state-of-the-art experience center paying a grand tribute to Belgium's world-famous beer culture."
+    },
+    factsAdvanced: {
+      de: ["Errichtet zwischen 1868 und 1873 vom Architekten Léon-Pierre Suys im Neorenaissance-Stil", "Das prächtige Gebäude ruht auf den unterirdischen Ruinen eines alten Franziskanerklosters", "Der junge Bildhauer Auguste Rodin wirkte an der Erstellung der kunstvollen Fassadenskulpturen mit", "Wurde als Teil eines großen Stadtumbaus errichtet, der die Überwölbung der Senne umfasste", "Diente bis zum Jahr 2015 als Finanzzentrum und Sitz der offiziellen Brüsseler Börse", "Wurde 2023 nach umfangreicher Restaurierung als interaktives Museum 'Belgian Beer World' neu eröffnet"],
+      hu: ["1868 és 1873 között épült Léon-Pierre Suys építész tervei alapján, neoreneszánsz stílusban", "A pompás építmény egy ősi ferences kolostor földalatti romjaira és alapjaira épült", "A fiatal szobrász, Auguste Rodin is közreműködött a homlokzat művészi szobrainak elkészítésében", "Egy nagyszabású városrekonstrukció részeként épült, amely a Senne folyó befedését is magában foglalta", "Egészen 2015-ig a város pénzügyi központjaként és a Brüsszeli Tőzsde hivatalos székhelyeként működött", "2023-ban, egy átfogó felújítás után, 'Belgian Beer World' interaktív múzeumként nyílt meg újra"],
+      ro: ["Construită între 1868 și 1873 de arhitectul Léon-Pierre Suys în somptuosul stil neorenascentist", "Clădirea magnifică se sprijină direct pe ruinele subterane ale unei vechi mănăstiri franciscane", "Tânărul sculptor Auguste Rodin a contribuit personal la crearea sculpturilor artistice de pe fațadă", "A fost ridicată ca parte a unei ample reamenajări urbane care a inclus acoperirea râului Senne", "A servit drept centru financiar și sediul Bursei oficiale din Bruxelles până în anul 2015", "A fost redeschisă în 2023, după o restaurare masivă, ca muzeul interactiv 'Belgian Beer World'"],
+      en: ["Constructed between 1868 and 1873 by the architect Léon-Pierre Suys in the grand Neo-Renaissance style", "The magnificent building historically rests on the underground ruins of a former Franciscan convent", "The young sculptor Auguste Rodin contributed significantly to the creation of the ornate facade sculptures", "Erected as a central part of a massive urban renewal project that involved covering the Senne river", "Served actively as the primary financial center and the official Brussels Stock Exchange until 2015", "Triumphantly reopened in 2023 after extensive restoration as the interactive 'Belgian Beer World' museum"]
+    }
   }
 ];

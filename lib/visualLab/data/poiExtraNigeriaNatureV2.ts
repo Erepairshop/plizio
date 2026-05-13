@@ -7,7 +7,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-KO",
     coords: [6.7333, 5.3333],
-    name: { de: "Niger", hu: "Niger", ro: "Niger", en: "Niger" },
+    name: { de: "Niger", hu: "Niger", ro: "Niger", en: "Niger",
+image: "/poi-images/niger-river-nature-v2.webp"
+},
     description: { de: "Der drittlängste Fluss Afrikas, der durch Nigeria fließt.", hu: "Afrika harmadik leghosszabb folyója, amely átfolyik Nigérián.", ro: "Al treilea cel mai lung fluviu din Africa, care traversează Nigeria.", en: "The third-longest river in Africa, flowing through Nigeria." },
     facts: {
       de: ["Entspringt im Hochland von Guinea.", "Mündet in den Golf von Guinea."],
@@ -33,7 +35,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-AD",
     coords: [11.75, 9.48],
-    name: { de: "Benue", hu: "Benue", ro: "Benue", en: "Benue" },
+    name: { de: "Benue", hu: "Benue", ro: "Benue", en: "Benue",
+image: "/poi-images/benue-river-nature-v2.webp"
+},
     description: { de: "Der wichtigste Nebenfluss des Nigers.", hu: "A Niger legfontosabb mellékfolyója.", ro: "Cel mai important afluent al fluviului Niger.", en: "The most important tributary of the Niger River." },
     facts: {
       de: ["Fließt durch den Kamerun und Nigeria.", "Ist etwa 1400 km lang."],
@@ -59,7 +63,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "lake",
     parent: "NG-BO",
     coords: [14.5, 13.2],
-    name: { de: "Tschadsee", hu: "Csád-tó", ro: "Lacul Ciad", en: "Lake Chad" },
+    name: { de: "Tschadsee", hu: "Csád-tó", ro: "Lacul Ciad", en: "Lake Chad",
+image: "/poi-images/chad-lake-nature-v2.webp"
+},
     description: { de: "Ein bedeutender See im Tschadbecken, der Nigeria berührt.", hu: "Fontos tó a Csád-medencében, amely érinti Nigériát.", ro: "Un lac important din Bazinul Ciadului, care atinge Nigeria.", en: "A significant lake in the Chad Basin that touches Nigeria." },
     facts: {
       de: ["Ist ein endorheischer See.", "Die Fläche variiert stark."],
@@ -85,7 +91,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "NG-PL",
     coords: [9.0, 9.5],
-    name: { de: "Jos-Plateau", hu: "Jos-fennsík", ro: "Platoul Jos", en: "Jos Plateau" },
+    name: { de: "Jos-Plateau", hu: "Jos-fennsík", ro: "Platoul Jos", en: "Jos Plateau",
+image: "/poi-images/jos-plateau-mountain-nature-v2.webp"
+},
     description: { de: "Ein Hochland im Zentrum Nigerias.", hu: "Fennsík Nigéria középső részén.", ro: "Un platou înalt în centrul Nigeriei.", en: "A highland area in central Nigeria." },
     facts: {
       de: ["Besteht aus vulkanischem Gestein.", "Kühleres Klima als die Umgebung."],
@@ -111,7 +119,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "NG-TA",
     coords: [11.63, 7.03],
-    name: { de: "Chappal Waddi", hu: "Chappal Waddi", ro: "Chappal Waddi", en: "Chappal Waddi" },
+    name: { de: "Chappal Waddi", hu: "Chappal Waddi", ro: "Chappal Waddi", en: "Chappal Waddi",
+image: "/poi-images/chappal-waddi-mountain-nature-v2.webp"
+},
     description: { de: "Der höchste Berg Nigerias.", hu: "Nigéria legmagasabb hegye.", ro: "Cel mai înalt munte din Nigeria.", en: "The highest mountain in Nigeria." },
     facts: {
       de: ["Liegt an der Grenze zu Kamerun.", "Höhe von ca. 2419 Metern."],
@@ -137,7 +147,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-CR",
     coords: [8.5, 5.0],
-    name: { de: "Cross River", hu: "Cross folyó", ro: "Râul Cross", en: "Cross River" },
+    name: { de: "Cross River", hu: "Cross folyó", ro: "Râul Cross", en: "Cross River",
+image: "/poi-images/cross-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss im Südosten Nigerias.", hu: "Jelentős folyó Nigéria délkeleti részén.", ro: "Un râu important în sud-estul Nigeriei.", en: "A significant river in southeastern Nigeria." },
     facts: {
       de: ["Fließt durch tropischen Regenwald.", "Mündet in den Atlantik."],
@@ -163,7 +175,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-OG",
     coords: [3.3, 6.6],
-    name: { de: "Ogun", hu: "Ogun", ro: "Ogun", en: "Ogun" },
+    name: { de: "Ogun", hu: "Ogun", ro: "Ogun", en: "Ogun",
+image: "/poi-images/ogun-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss im Südwesten Nigerias, der in die Lagune von Lagos mündet.", hu: "Folyó Nigéria délnyugati részén, amely a Lagos-lagúnába torkollik.", ro: "Un râu în sud-vestul Nigeriei, care se varsă în Laguna Lagos.", en: "A river in southwestern Nigeria that empties into the Lagos Lagoon." },
     facts: {
       de: ["Speist die Oyan-Talsperre.", "Wichtige Wasserquelle für Lagos."],
@@ -189,7 +203,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "lake",
     parent: "NG-NE",
     coords: [4.5, 10.2],
-    name: { de: "Kainji-Stausee", hu: "Kainji-víztározó", ro: "Lacul de acumulare Kainji", en: "Kainji Lake" },
+    name: { de: "Kainji-Stausee", hu: "Kainji-víztározó", ro: "Lacul de acumulare Kainji", en: "Kainji Lake",
+image: "/poi-images/kainji-lake-nature-v2.webp"
+},
     description: { de: "Ein großer Stausee im Nordwesten Nigerias.", hu: "Nagy víztározó Nigéria északnyugati részén.", ro: "Un mare lac de acumulare în nord-vestul Nigeriei.", en: "A large reservoir in northwestern Nigeria." },
     facts: {
       de: ["Entstand durch den Bau der Kainji-Talsperre.", "Wird für Elektrizität genutzt."],
@@ -215,7 +231,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "sea",
     parent: "NG-LA",
     coords: [4.1, 6.5],
-    name: { de: "Lekki-Lagune", hu: "Lekki-lagúna", ro: "Laguna Lekki", en: "Lekki Lagoon" },
+    name: { de: "Lekki-Lagune", hu: "Lekki-lagúna", ro: "Laguna Lekki", en: "Lekki Lagoon",
+image: "/poi-images/lekki-lagoon-nature-v2.webp"
+},
     description: { de: "Eine Lagune nahe der Küste bei Lagos.", hu: "Lagúna a part közelében, Lagosnál.", ro: "O lagună aproape de coastă, lângă Lagos.", en: "A lagoon near the coast near Lagos." },
     facts: {
       de: ["Ist ein Brackwassergebiet.", "Reich an Fischvorkommen."],
@@ -242,7 +260,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-BY",
     coords: [6.0, 5.0],
-    name: { de: "Nigerdelta", hu: "Niger-delta", ro: "Delta Nigerului", en: "Niger Delta" },
+    name: { de: "Nigerdelta", hu: "Niger-delta", ro: "Delta Nigerului", en: "Niger Delta",
+image: "/poi-images/niger-delta-nature-v2.webp"
+},
     description: { de: "Ein weitläufiges Flussdelta am Golf von Guinea.", hu: "Kiterjedt folyódelta a Guineai-öbölben.", ro: "O deltă vastă a fluviului la Golful Guineei.", en: "An extensive river delta on the Gulf of Guinea." },
     facts: {
       de: ["Sehr reich an Biodiversität.", "Ein wichtiges Ökosystem."],
@@ -268,7 +288,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "NG-PL",
     coords: [9.0, 9.8],
-    name: { de: "Shere Hills", hu: "Shere-hegyek", ro: "Munții Shere", en: "Shere Hills" },
+    name: { de: "Shere Hills", hu: "Shere-hegyek", ro: "Munții Shere", en: "Shere Hills",
+image: "/poi-images/shere-hills-mountain-nature-v2.webp"
+},
     description: { de: "Eine Bergkette auf dem Jos-Plateau.", hu: "Hegyvonulat a Jos-fennsíkon.", ro: "Un lanț muntos pe platoul Jos.", en: "A mountain range on the Jos Plateau." },
     facts: {
       de: ["Bekannt für Wandermöglichkeiten.", "Hohe Felsformationen."],
@@ -294,7 +316,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "NG-CR",
     coords: [9.3, 6.6],
-    name: { de: "Obudu-Plateau", hu: "Obudu-fennsík", ro: "Platoul Obudu", en: "Obudu Plateau" },
+    name: { de: "Obudu-Plateau", hu: "Obudu-fennsík", ro: "Platoul Obudu", en: "Obudu Plateau",
+image: "/poi-images/obudu-plateau-mountain-nature-v2.webp"
+},
     description: { de: "Ein Hochplateau mit angenehmem Klima.", hu: "Fennsík kellemes éghajlattal.", ro: "Un platou înalt cu o climă plăcută.", en: "A high plateau with a pleasant climate." },
     facts: {
       de: ["Ein beliebtes Ziel für Touristen.", "Üppige Vegetation."],
@@ -320,7 +344,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-OS",
     coords: [4.5, 7.5],
-    name: { de: "Osun", hu: "Osun", ro: "Osun", en: "Osun" },
+    name: { de: "Osun", hu: "Osun", ro: "Osun", en: "Osun",
+image: "/poi-images/osun-river-nature-v2.webp"
+},
     description: { de: "Ein spirituell bedeutsamer Fluss im Südwesten Nigerias.", hu: "Spirituálisan jelentős folyó Nigéria délnyugati részén.", ro: "Un râu semnificativ spiritual în sud-vestul Nigeriei.", en: "A spiritually significant river in southwestern Nigeria." },
     facts: {
       de: ["Fließt durch den Osun-Osogbo-Hain.", "Ein wichtiges Kulturerbe."],
@@ -346,7 +372,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "forest",
     parent: "NG-BO",
     coords: [13.0, 12.0],
-    name: { de: "Tschadbecken", hu: "Csád-medence", ro: "Bazinul Ciadului", en: "Chad Basin" },
+    name: { de: "Tschadbecken", hu: "Csád-medence", ro: "Bazinul Ciadului", en: "Chad Basin",
+image: "/poi-images/chad-basin-nature-v2.webp"
+},
     description: { de: "Ein weites Gebiet, das im Nordosten Nigerias liegt.", hu: "Tágas terület, amely Nigéria északkeleti részén fekszik.", ro: "O zonă vastă situată în nord-estul Nigeriei.", en: "A vast area located in the northeast of Nigeria." },
     facts: {
       de: ["Trockenes bis semiarides Klima.", "Bedeutend für die Landwirtschaft."],
@@ -372,7 +400,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "forest",
     parent: "NG-TA",
     coords: [11.5, 7.2],
-    name: { de: "Gashaka-Gumti-Nationalpark", hu: "Gashaka-Gumti Nemzeti Park", ro: "Parcul Național Gashaka-Gumti", en: "Gashaka-Gumti National Park" },
+    name: { de: "Gashaka-Gumti-Nationalpark", hu: "Gashaka-Gumti Nemzeti Park", ro: "Parcul Național Gashaka-Gumti", en: "Gashaka-Gumti National Park",
+image: "/poi-images/gashaka-gumti-forest-nature-v2.webp"
+},
     description: { de: "Nigerias größter Nationalpark mit weiten Waldgebieten.", hu: "Nigéria legnagyobb nemzeti parkja kiterjedt erdőterületekkel.", ro: "Cel mai mare parc național din Nigeria cu zone forestiere vaste.", en: "Nigeria's largest national park with vast forest areas." },
     facts: {
       de: ["Beheimatet zahlreiche Arten.", "Bergige Landschaft."],
@@ -398,7 +428,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-KN",
     coords: [8.5, 11.5],
-    name: { de: "Kano", hu: "Kano", ro: "Kano", en: "Kano" },
+    name: { de: "Kano", hu: "Kano", ro: "Kano", en: "Kano",
+image: "/poi-images/kano-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der die Region um Kano bewässert.", hu: "Folyó, amely öntözi a Kano környéki régiót.", ro: "Un râu care irigă regiunea din jurul orașului Kano.", en: "A river that irrigates the region around Kano." },
     facts: {
       de: ["Wichtig für die Landwirtschaft.", "Speist Bewässerungssysteme."],
@@ -424,7 +456,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-KD",
     coords: [6.0, 9.5],
-    name: { de: "Kaduna", hu: "Kaduna", ro: "Kaduna", en: "Kaduna" },
+    name: { de: "Kaduna", hu: "Kaduna", ro: "Kaduna", en: "Kaduna",
+image: "/poi-images/kaduna-river-nature-v2.webp"
+},
     description: { de: "Ein wichtiger Zufluss des Nigers.", hu: "A Niger fontos mellékfolyója.", ro: "Un afluent important al Nigerului.", en: "An important tributary of the Niger River." },
     facts: {
       de: ["Fließt durch das Zentrum Nigerias.", "Schafft wichtige Flussauen."],
@@ -450,7 +484,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-SO",
     coords: [4.5, 12.0],
-    name: { de: "Sokoto", hu: "Sokoto", ro: "Sokoto", en: "Sokoto" },
+    name: { de: "Sokoto", hu: "Sokoto", ro: "Sokoto", en: "Sokoto",
+image: "/poi-images/sokoto-river-nature-v2.webp"
+},
     description: { de: "Ein Zufluss des Nigers im Nordwesten.", hu: "A Niger mellékfolyója északnyugaton.", ro: "Un afluent al Nigerului în nord-vest.", en: "A tributary of the Niger in the northwest." },
     facts: {
       de: ["Wichtige Wasserquelle im trockeneren Norden.", "Unterstützt lokale Landwirtschaft."],
@@ -476,7 +512,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-JI",
     coords: [10.5, 12.5],
-    name: { de: "Hadejia", hu: "Hadejia", ro: "Hadejia", en: "Hadejia" },
+    name: { de: "Hadejia", hu: "Hadejia", ro: "Hadejia", en: "Hadejia",
+image: "/poi-images/hadejia-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der die Hadejia-Nguru-Feuchtgebiete speist.", hu: "Folyó, amely táplálja a Hadejia-Nguru vizes élőhelyeket.", ro: "Un râu care alimentează zonele umede Hadejia-Nguru.", en: "A river that feeds the Hadejia-Nguru wetlands." },
     facts: {
       de: ["Wichtiges Feuchtgebiet für Zugvögel.", "Sehr artenreich."],
@@ -502,7 +540,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-GO",
     coords: [10.5, 10.0],
-    name: { de: "Gongola", hu: "Gongola", ro: "Gongola", en: "Gongola" },
+    name: { de: "Gongola", hu: "Gongola", ro: "Gongola", en: "Gongola",
+image: "/poi-images/gongola-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Nebenfluss des Benue.", hu: "A Benue jelentős mellékfolyója.", ro: "Un afluent semnificativ al râului Benue.", en: "A significant tributary of the Benue." },
     facts: {
       de: ["Fließt durch den Nordosten Nigerias.", "Schafft weite Flusslandschaften."],
@@ -528,7 +568,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-YO",
     coords: [12.0, 13.0],
-    name: { de: "Yobe", hu: "Yobe", ro: "Yobe", en: "Yobe" },
+    name: { de: "Yobe", hu: "Yobe", ro: "Yobe", en: "Yobe",
+image: "/poi-images/yobe-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss an der Grenze zwischen Nigeria und Niger.", hu: "Folyó Nigéria és Niger határán.", ro: "Un râu la granița dintre Nigeria și Niger.", en: "A river on the border between Nigeria and Niger." },
     facts: {
       de: ["Mündet in den Tschadsee.", "Wichtig für die Grenzregion."],
@@ -554,7 +596,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "forest",
     parent: "NG-OG",
     coords: [3.5, 7.0],
-    name: { de: "Ogun-Waldgebiet", hu: "Ogun erdővidék", ro: "Regiunea forestieră Ogun", en: "Ogun Forest Area" },
+    name: { de: "Ogun-Waldgebiet", hu: "Ogun erdővidék", ro: "Regiunea forestieră Ogun", en: "Ogun Forest Area",
+image: "/poi-images/ogun-forest-nature-v2.webp"
+},
     description: { de: "Ein Waldgebiet im Südwesten Nigerias.", hu: "Erdős terület Nigéria délnyugati részén.", ro: "O zonă forestieră în sud-vestul Nigeriei.", en: "A forest area in southwestern Nigeria." },
     facts: {
       de: ["Beheimatet tropische Bäume.", "Wichtig für die Holzgewinnung."],
@@ -580,7 +624,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "forest",
     parent: "NG-OS",
     coords: [4.5, 7.8],
-    name: { de: "Osun-Wald", hu: "Osun-erdő", ro: "Pădurea Osun", en: "Osun Forest" },
+    name: { de: "Osun-Wald", hu: "Osun-erdő", ro: "Pădurea Osun", en: "Osun Forest",
+image: "/poi-images/osun-forest-nature-v2.webp"
+},
     description: { de: "Ein Waldgebiet um den heiligen Osun-Fluss.", hu: "Erdő a szent Osun-folyó körül.", ro: "O zonă forestieră în jurul sfântului râu Osun.", en: "A forest area around the sacred Osun river." },
     facts: {
       de: ["Geschütztes Gebiet.", "Hohe ökologische Bedeutung."],
@@ -606,7 +652,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "forest",
     parent: "NG-NE",
     coords: [4.8, 10.5],
-    name: { de: "Kainji-Nationalpark-Wald", hu: "Kainji Nemzeti Park erdője", ro: "Pădurea Parcului Național Kainji", en: "Kainji National Park Forest" },
+    name: { de: "Kainji-Nationalpark-Wald", hu: "Kainji Nemzeti Park erdője", ro: "Pădurea Parcului Național Kainji", en: "Kainji National Park Forest",
+image: "/poi-images/kainji-forest-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Waldgebiet innerhalb des Nationalparks.", hu: "Jelentős erdőterület a nemzeti parkon belül.", ro: "O zonă forestieră semnificativă în cadrul parcului național.", en: "A significant forest area within the national park." },
     facts: {
       de: ["Lebensraum für viele Wildtiere.", "Wichtige Pufferzone."],
@@ -632,7 +680,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "forest",
     parent: "NG-CR",
     coords: [8.8, 5.5],
-    name: { de: "Cross-River-Regenwald", hu: "Cross-folyó esőerdő", ro: "Pădurea tropicală Cross River", en: "Cross River Rainforest" },
+    name: { de: "Cross-River-Regenwald", hu: "Cross-folyó esőerdő", ro: "Pădurea tropicală Cross River", en: "Cross River Rainforest",
+image: "/poi-images/cross-river-forest-nature-v2.webp"
+},
     description: { de: "Ein ausgedehnter Regenwald im Südosten.", hu: "Kiterjedt esőerdő délkeleten.", ro: "O pădure tropicală extinsă în sud-est.", en: "An extensive rainforest in the southeast." },
     facts: {
       de: ["Extrem artenreich.", "Ein Hotspot der Biodiversität."],
@@ -658,7 +708,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "NG-CR",
     coords: [9.2, 5.2],
-    name: { de: "Obudu-Berge", hu: "Obudu-hegyek", ro: "Munții Obudu", en: "Obudu Mountains" },
+    name: { de: "Obudu-Berge", hu: "Obudu-hegyek", ro: "Munții Obudu", en: "Obudu Mountains",
+image: "/poi-images/buea-mountain-nature-v2.webp"
+},
     description: { de: "Ein Gebirgszug nahe der Grenze zu Kamerun.", hu: "Hegyvonulat a Kamerunnal határos területen.", ro: "Un lanț muntos aproape de granița cu Camerunul.", en: "A mountain range near the border with Cameroon." },
     facts: {
       de: ["Spektakuläre Berglandschaften.", "Sehr grün und feucht."],
@@ -684,7 +736,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "NG-BO",
     coords: [13.5, 11.0],
-    name: { de: "Mandara-Gebirge", hu: "Mandara-hegység", ro: "Munții Mandara", en: "Mandara Mountains" },
+    name: { de: "Mandara-Gebirge", hu: "Mandara-hegység", ro: "Munții Mandara", en: "Mandara Mountains",
+image: "/poi-images/mandara-mountains-nature-v2.webp"
+},
     description: { de: "Ein vulkanisches Gebirge zwischen Nigeria und Kamerun.", hu: "Vulkáni hegység Nigéria és Kamerun között.", ro: "Un lanț muntos vulcanic între Nigeria și Camerun.", en: "A volcanic mountain range between Nigeria and Cameroon." },
     facts: {
       de: ["Stark erodierte Gipfel.", "Historisch besiedeltes Gebiet."],
@@ -710,7 +764,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "sea",
     parent: "NG-LA",
     coords: [3.0, 5.5],
-    name: { de: "Golf von Guinea", hu: "Guineai-öböl", ro: "Golful Guineei", en: "Gulf of Guinea" },
+    name: { de: "Golf von Guinea", hu: "Guineai-öböl", ro: "Golful Guineei", en: "Gulf of Guinea",
+image: "/poi-images/guinea-gulf-sea-nature-v2.webp"
+},
     description: { de: "Das Küstenmeer im Süden Nigerias.", hu: "Partmenti tenger Nigéria déli részén.", ro: "Marea de coastă în sudul Nigeriei.", en: "The coastal sea in the south of Nigeria." },
     facts: {
       de: ["Wichtig für Schifffahrt.", "Reich an Erdölvorkommen."],
@@ -736,7 +792,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "lake",
     parent: "NG-NE",
     coords: [4.6, 10.3],
-    name: { de: "Kainji-Stausee-Ufer", hu: "Kainji-víztározó partja", ro: "Malul lacului Kainji", en: "Kainji Reservoir Shore" },
+    name: { de: "Kainji-Stausee-Ufer", hu: "Kainji-víztározó partja", ro: "Malul lacului Kainji", en: "Kainji Reservoir Shore",
+image: "/poi-images/kainji-dam-nature-v2.webp"
+},
     description: { de: "Die Uferzone des großen Stausees.", hu: "A nagy víztározó partvidéke.", ro: "Zona de mal a marelui lac de acumulare.", en: "The shore zone of the large reservoir." },
     facts: {
       de: ["Wichtig für Vögel.", "Beliebt für Beobachtungen."],
@@ -762,7 +820,9 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     type: "river",
     parent: "NG-RI",
     coords: [6.5, 4.8],
-    name: { de: "Nigerdelta-Mangroven", hu: "Niger-delta mangrovék", ro: "Mangrovele din Delta Nigerului", en: "Niger Delta Mangroves" },
+    name: { de: "Nigerdelta-Mangroven", hu: "Niger-delta mangrovék", ro: "Mangrovele din Delta Nigerului", en: "Niger Delta Mangroves",
+image: "/poi-images/niger-river-delta-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Mangroven-Ökosystem.", hu: "Jelentős mangrove-ökoszisztéma.", ro: "Un ecosistem important de mangrove.", en: "A significant mangrove ecosystem." },
     facts: {
       de: ["Schützt die Küste.", "Hohe Biodiversität."],

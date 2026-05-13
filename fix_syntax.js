@@ -1,18 +1,27 @@
 const fs = require('fs');
-const dir = 'lib/visualLab/data';
+const path = require('path');
+const dir = path.join(__dirname, 'lib/visualLab/data');
 
-fs.readdirSync(dir).forEach(file => {
-  if (!file.endsWith('.ts')) return;
-  let txt = fs.readFileSync(dir + '/' + file, 'utf8');
-  let modified = false;
-  
-  if (txt.match(/},\s*,\s*([a-z]{2}):\s*\[/)) {
-    txt = txt.replace(/},\s*,\s*([a-z]{2}):\s*\[/g, '},\n    factsAdvanced: {\n      $1: [');
-    modified = true;
-  }
-  
-  if (modified) {
-    fs.writeFileSync(dir + '/' + file, txt);
-    console.log('Fixed factsAdvanced in', file);
-  }
+const files = fs.readdirSync(dir).filter(f => f.endsWith('.ts'));
+let totalFixed = 0;
+
+files.forEach(f => {
+    let p = path.join(dir, f);
+    let content = fs.readFileSync(p, 'utf8');
+    let original = content;
+
+    // Fix missing comma after facts object
+    // }\n    factsAdvanced:
+    content = content.replace(/\}(\s*)factsAdvanced:/g, '},$1factsAdvanced:');
+    
+    // Also check if there's any other place missing a comma like "]" before factsAdvanced
+    content = content.replace(/\](\s*)factsAdvanced:/g, '],$1factsAdvanced:');
+    content = content.replace(/\"(\s*)factsAdvanced:/g, '",$1factsAdvanced:');
+
+    if (content !== original) {
+        fs.writeFileSync(p, content, 'utf8');
+        totalFixed++;
+    }
 });
+
+console.log('Fixed ' + totalFixed + ' files.');

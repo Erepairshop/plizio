@@ -11,8 +11,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "MacRitchie-Stausee-Park",
       hu: "MacRitchie-víztározó Park",
       ro: "Parcul Rezervorului MacRitchie",
-      en: "MacRitchie Reservoir Park"
-    },
+      en: "MacRitchie Reservoir Park",
+image: "/poi-images/sg-macritchie-reservoir-park-life-v2.webp"
+},
     description: {
       de: "Ein beliebtes Ziel für Naturliebhaber, bekannt für seinen TreeTop Walk und die Wanderwege durch den unberührten Wald.",
       hu: "A természetkedvelők népszerű célpontja, a TreeTop Walk ösvényről és az érintetlen erdőn átvezető túraútvonalairól ismert.",
@@ -34,8 +35,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Sungei Buloh Feuchtgebietsreservat",
       hu: "Sungei Buloh Vadvédelmi Terület",
       ro: "Rezervația Sungei Buloh Wetland",
-      en: "Sungei Buloh Wetland Reserve"
-    },
+      en: "Sungei Buloh Wetland Reserve",
+image: "/poi-images/sg-sungei-buloh-wetland-reserve-life-v2.webp"
+},
     description: {
       de: "Singapurs erstes ASEAN-Kulturerbe-Park, weltweit bekannt für seine reiche Vogelwelt, besonders während der Zugvogelsaison.",
       hu: "Szingapúr első ASEAN Örökségi Parkja, világszerte ismert gazdag madárvilágáról, különösen a vonulási időszakban.",
@@ -57,8 +59,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Bollywood Veggies",
       hu: "Bollywood Veggies Farm",
       ro: "Ferma Bollywood Veggies",
-      en: "Bollywood Veggies"
-    },
+      en: "Bollywood Veggies",
+image: "/poi-images/sg-bollywood-veggies-life-v2.webp"
+},
     description: {
       de: "Eine Bio-Farm im ländlichen Kranji, die Besuchern eine Pause von der Hektik der Stadt bietet und Einblicke in die nachhaltige Landwirtschaft gibt.",
       hu: "Egy organikus farm a vidéki Kranjiban, amely menekülést kínál a városi nyüzsgésből és betekintést nyújt a fenntartható gazdálkodásba.",
@@ -80,8 +83,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Jurong Froschfarm",
       hu: "Jurong Békatelep",
       ro: "Ferma de broaște Jurong",
-      en: "Jurong Frog Farm"
-    },
+      en: "Jurong Frog Farm",
+image: "/poi-images/sg-jurong-frog-farm-life-v2.webp"
+},
     description: {
       de: "Singapurs einzige Froschfarm, auf der Besucher mehr über amerikanische Ochsenfrösche erfahren und sogar Froschschenkel probieren können.",
       hu: "Szingapúr egyetlen békatenyészete, ahol a látogatók többet tudhatnak meg az amerikai ökörbékákról, és még békacombot is kóstolhatnak.",
@@ -103,8 +107,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Pulau Ubin",
       hu: "Pulau Ubin sziget",
       ro: "Insula Pulau Ubin",
-      en: "Pulau Ubin"
-    },
+      en: "Pulau Ubin",
+image: "/poi-images/sg-pulau-ubin-life-v2.webp"
+},
     description: {
       de: "Eine rustikale Insel, die einen Einblick in das Singapur der 1960er Jahre bietet. Beliebt zum Radfahren, Wandern und Erkunden des Chek Jawa Feuchtgebiets.",
       hu: "Egy rusztikus sziget, amely bepillantást enged az 1960-as évek Szingapúrjába. Népszerű kerékpározásra, túrázásra és a Chek Jawa vizes élőhely felfedezésére.",
@@ -126,8 +131,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Botanischer Garten Singapur",
       hu: "Szingapúri Botanikus Kert",
       ro: "Grădinile Botanice din Singapore",
-      en: "Singapore Botanic Gardens"
-    },
+      en: "Singapore Botanic Gardens",
+image: "/poi-images/sg-singapore-botanic-gardens-life-v2.webp"
+},
     description: {
       de: "Ein 160 Jahre alter tropischer Garten und Singapurs erste UNESCO-Welterbestätte. Heimat des Nationalen Orchideengartens.",
       hu: "Egy 160 éves trópusi kert, Szingapúr első UNESCO Világörökségi helyszíne. Otthona a Nemzeti Orchidea Kertnek.",
@@ -149,8 +155,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Gardens by the Bay",
       hu: "Gardens by the Bay",
       ro: "Grădinile de lângă Golf",
-      en: "Gardens by the Bay"
-    },
+      en: "Gardens by the Bay",
+image: "/poi-images/sg-gardens-by-the-bay-life-v2.webp"
+},
     description: {
       de: "Ein futuristischer Park mit den berühmten Supertree Grove, Flower Dome und Cloud Forest. Ein Schaufenster für Gartenbau und Gartenkunst.",
       hu: "Egy futurisztikus park a híres Supertree Grove-val, a Flower Dome-mal és a Cloud Foresttel. A kertészet és a kertművészet bemutatóhelye.",
@@ -172,8 +179,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "East Coast Park",
       hu: "East Coast Park",
       ro: "Parcul Coasta de Est",
-      en: "East Coast Park"
-    },
+      en: "East Coast Park",
+image: "/poi-images/sg-east-coast-park-life-v2.webp"
+},
     description: {
       de: "Singapurs beliebtester Stadtpark, der eine Vielzahl von Freizeit-, Sport- und Speisemöglichkeiten entlang einer malerischen Küste bietet.",
       hu: "Szingapúr legkedveltebb városi parkja, amely festői tengerpart mentén kínál kikapcsolódási, sportolási és étkezési lehetőségek széles skáláját.",
@@ -195,8 +203,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Jacob Ballas Kinder-Garten",
       hu: "Jacob Ballas Gyermekkert",
       ro: "Grădina pentru copii Jacob Ballas",
-      en: "Jacob Ballas Children's Garden"
-    },
+      en: "Jacob Ballas Children's Garden",
+image: "/poi-images/sg-jacob-ballas-childrens-garden-life-v2.webp"
+},
     description: {
       de: "Asiens erster Garten für Kinder. Er soll Kindern einen Raum bieten, in dem sie durch Spiel, Entdeckung und Erkundung etwas über das Pflanzenleben lernen können.",
       hu: "Ázsia első, gyerekeknek szánt kertje. Célja, hogy a gyerekek játék, felfedezés és kutatás révén ismerkedjenek meg a növények életével.",
@@ -218,8 +227,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Hay Dairies Ziegenfarm",
       hu: "Hay Dairies Kecskefarm",
       ro: "Ferma de capre Hay Dairies",
-      en: "Hay Dairies Goat Farm"
-    },
+      en: "Hay Dairies Goat Farm",
+image: "/poi-images/sg-hay-dairies-goat-farm-life-v2.webp"
+},
     description: {
       de: "Singapurs einzige Ziegenfarm, auf der Besucher den Melkprozess beobachten und frische Ziegenmilch probieren können.",
       hu: "Szingapúr egyetlen kecskefarmja, ahol a látogatók megnézhetik a fejést és megkóstolhatják a friss kecsketejet.",
@@ -241,8 +251,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Admiralty Park",
       hu: "Admiralty Park",
       ro: "Parcul Admiralty",
-      en: "Admiralty Park"
-    },
+      en: "Admiralty Park",
+image: "/poi-images/sg-admiralty-park-life-v2.webp"
+},
     description: {
       de: "Bekannt für seine aufregenden Rutschen. Der Park hat die meisten Rutschen in Singapur und bietet Spielplätze für alle Altersgruppen.",
       hu: "Izgalmas csúszdáiról híres. Ebben a parkban található a legtöbb csúszda Szingapúrban, és minden korosztály számára kínál játszótereket.",
@@ -264,8 +275,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Bukit Timah Naturreservat",
       hu: "Bukit Timah Természetvédelmi Terület",
       ro: "Rezervația Naturală Bukit Timah",
-      en: "Bukit Timah Nature Reserve"
-    },
+      en: "Bukit Timah Nature Reserve",
+image: "/poi-images/sg-bukit-timah-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Eines der ersten Waldreservate Singapurs. Es enthält etwa 40 % der Flora und Fauna des Landes auf seinem kleinen Gebiet.",
       hu: "Szingapúr egyik első erdőrezervátuma. Kis területén az ország flórájának és faunájának mintegy 40%-a megtalálható.",
@@ -287,8 +299,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Chestnut Nature Park",
       hu: "Gesztenye Natúrpark",
       ro: "Parcul Natural Chestnut",
-      en: "Chestnut Nature Park"
-    },
+      en: "Chestnut Nature Park",
+image: "/poi-images/sg-chestnut-nature-park-life-v2.webp"
+},
     description: {
       de: "Singapurs größter Naturpark, unterteilt in Nord- und Südabschnitte. Bietet separate Wander- und Mountainbike-Strecken.",
       hu: "Szingapúr legnagyobb natúrparkja, északi és déli részre osztva. Külön túra- és hegyikerékpár-útvonalakat kínál.",
@@ -310,8 +323,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Pasir Ris Park",
       hu: "Pasir Ris Park",
       ro: "Parcul Pasir Ris",
-      en: "Pasir Ris Park"
-    },
+      en: "Pasir Ris Park",
+image: "/poi-images/sg-pasir-ris-park-life-v2.webp"
+},
     description: {
       de: "Ein ruhiger Park im Osten, bekannt für seinen riesigen Spielplatz, Mangroven-Promenade und einen der größten Mangrovenwälder in Singapur.",
       hu: "Egy csendes park keleten, amely hatalmas játszóteréről, mangrove sétányáról és Szingapúr egyik legnagyobb mangroveerdőjéről ismert.",
@@ -333,8 +347,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Dairy Farm Nature Park",
       hu: "Dairy Farm Natúrpark",
       ro: "Parcul Natural Dairy Farm",
-      en: "Dairy Farm Nature Park"
-    },
+      en: "Dairy Farm Nature Park",
+image: "/poi-images/sg-dairy-farm-nature-park-life-v2.webp"
+},
     description: {
       de: "Dieser Park verfügt über Pfade für Wanderer und Biker sowie das Wallace Education Centre, das die lokale Artenvielfalt zeigt.",
       hu: "Ez a park túrázóknak és kerékpárosoknak szóló ösvényekkel, valamint a helyi biodiverzitást bemutató Wallace Oktatási Központtal rendelkezik.",
@@ -356,8 +371,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Sembawang Park",
       hu: "Sembawang Park",
       ro: "Parcul Sembawang",
-      en: "Sembawang Park"
-    },
+      en: "Sembawang Park",
+image: "/poi-images/sg-sembawang-park-life-v2.webp"
+},
     description: {
       de: "Ein ruhiger Park mit Blick auf die Straße von Johor. Er hat einen natürlichen Strand, Angelplätze und einen restaurierten Kolonialzeit-Bungalow.",
       hu: "Egy csendes park, kilátással a Johori-szorosra. Természetes stranddal, horgászhelyekkel és egy felújított, gyarmati korabeli bungalóval rendelkezik.",
@@ -380,8 +396,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Coney Island Park",
       hu: "Coney Island Park",
       ro: "Parcul Insula Coney",
-      en: "Coney Island Park"
-    },
+      en: "Coney Island Park",
+image: "/poi-images/sg-coney-island-park-life-v2.webp"
+},
     description: {
       de: "Ein ökologisch nachhaltiger Park mit einer reichen Vielfalt an Lebensräumen. Er ist bei Vogelbeobachtern und Radfahrern beliebt.",
       hu: "Egy ökológiailag fenntartható park, gazdag élőhely-választékkal. Népszerű a madármegfigyelők és a kerékpárosok körében.",
@@ -403,8 +420,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Marine Cove Spielplatz",
       hu: "Marine Cove játszótér",
       ro: "Locul de joacă Marine Cove",
-      en: "Marine Cove Playground"
-    },
+      en: "Marine Cove Playground",
+image: "/poi-images/sg-marine-cove-playground-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiger, 3.500 Quadratmeter großer Kinderspielplatz im East Coast Park, der für Kinder aller Altersgruppen und Fähigkeiten konzipiert ist.",
       hu: "Egy tágas, 3500 négyzetméteres játszótér az East Coast Parkban, amelyet minden korosztályú és képességű gyermek számára terveztek.",
@@ -426,8 +444,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Fort Canning Park",
       hu: "Fort Canning Park",
       ro: "Parcul Fort Canning",
-      en: "Fort Canning Park"
-    },
+      en: "Fort Canning Park",
+image: "/poi-images/sg-fort-canning-park-life-v2.webp"
+},
     description: {
       de: "Ein ikonischer Hügel und Park im Zentrum von Singapur, reich an Geschichte und Artefakten, die bis ins 14. Jahrhundert zurückreichen.",
       hu: "Egy ikonikus domb és park Szingapúr központjában, gazdag történelemmel és a 14. századig visszanyúló leletekkel.",
@@ -449,8 +468,9 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       de: "Kranji Marshes",
       hu: "Kranji Lápvidék",
       ro: "Mlaștinile Kranji",
-      en: "Kranji Marshes"
-    },
+      en: "Kranji Marshes",
+image: "/poi-images/sg-kranji-marshes-life-v2.webp"
+},
     description: {
       de: "Eines der größten Süßwassermarschgebiete in Singapur. Es ist ein wichtiger Lebensraum für eine Vielzahl von Flora und Fauna.",
       hu: "Szingapúr egyik legnagyobb édesvízi mocsaras területe. Fontos élőhely a legkülönfélébb növény- és állatvilág számára.",

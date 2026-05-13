@@ -6,7 +6,9 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR-34",
     coords: [28.9811, 41.0128],
-    name: { de: "Gülhane-Park", hu: "Gülhane park", ro: "Parcul Gülhane", en: "Gülhane Park" },
+    name: { de: "Gülhane-Park", hu: "Gülhane park", ro: "Parcul Gülhane", en: "Gülhane Park",
+image: "/poi-images/gulhane-park-life-v2.webp"
+},
     description: {
       de: "Ein historischer Stadtpark in Istanbul, der einst Teil der Gärten des Topkapı-Palastes war und heute eine grüne Oase bietet.",
       hu: "Isztambul egyik legrégebbi városi parkja, amely egykor a Topkapı palota kertjének része volt, ma pedig zöld oázis a város szívében.",
@@ -34,13 +36,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Located next to Topkapı Palace.",
         "Popular during the tulip festival."
       ]
-    }, image: "/poi-images/gulhane-park-life-v2.webp"},
+    }, image: "/poi-images/gulhane-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese historische Parkanlage grenzt an den Topkapi-Palast. Einst der königliche Garten der Sultane, dient sie heute als grüne Oase im Herzen des Istanbuler Stadtteils Eminönü.",
+      hu: "Az Isztambul szívében, a Topkapi palota szomszédságában elterülő park egykor a szultánok magánkertje volt. Ma a város egyik legkedveltebb pihenőhelye hatalmas fákkal.",
+      ro: "Situat lângă Palatul Topkapi, acest parc istoric a fost odinioară grădina regală a sultanilor. Astăzi este o oază de liniște în centrul Istanbulului, faimoasă pentru aleile sale.",
+      en: "Located adjacent to Topkapi Palace, this historic park was once the outer garden of the Ottoman sultans. Today, it offers a lush escape in the heart of Istanbul's Fatih district.",
+    },
+    factsAdvanced: {
+      de: ["1912 für die Öffentlichkeit geöffnet", "Umfasst eine Fläche von etwa 16 Hektar", "Beherbergt das Museum für Wissenschaft", "Älteste öffentliche Parkanlage Istanbuls"],
+      hu: ["1912-ben nyitották meg a nyilvánosság előtt", "Területe megközelítőleg 16 hektár", "Iszlám Tudománytörténeti Múzeum otthona", "Isztambul legidősebb városi közparkja"],
+      ro: ["Deschis pentru public în anul 1912", "Acoperă o suprafață de circa 16 hectare", "Găzduiește Muzeul de Istorie a Științei", "Cel mai vechi parc public din Istanbul"],
+      en: ["Opened to the public in 1912", "Covers an area of roughly 16 hectares", "Home to the Museum of Science History", "Oldest public urban park in Istanbul"],
+    },
+  },
   {
     id: "dilek-peninsula-life-v2",
     type: "wildlife-area",
     parent: "TR-09",
     coords: [27.1833, 37.6667],
-    name: { de: "Dilek-Halbinsel-Nationalpark", hu: "Dilek-félsziget Nemzeti Park", ro: "Parcul Național Peninsula Dilek", en: "Dilek Peninsula National Park" },
+    name: { de: "Dilek-Halbinsel-Nationalpark", hu: "Dilek-félsziget Nemzeti Park", ro: "Parcul Național Peninsula Dilek", en: "Dilek Peninsula National Park",
+image: "/poi-images/dilek-peninsula-life-v2.webp"
+},
     description: {
       de: "Ein artenreicher Nationalpark an der Ägäisküste mit unberührten Stränden, dichten Wäldern und frei lebenden Wildschweinen.",
       hu: "Egy fajokban gazdag nemzeti park az Égei-tenger partján, érintetlen strandokkal, sűrű erdőkkel és szabadon élő vaddisznókkal.",
@@ -68,13 +85,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Home to Anatolian leopards.",
         "Includes the Büyük Menderes delta."
       ]
-    }, image: "/poi-images/dilek-peninsula-life-v2.webp"},
+    }, image: "/poi-images/dilek-peninsula-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser Nationalpark bei Kusadasi schützt eine unberührte Küstenlandschaft mit Bergen und Stränden. Er ist ein wichtiges Rückzugsgebiet für die seltene Mittelmeer-Mönchsrobbe.",
+      hu: "A Kusadasi közelében fekvő nemzeti park érintetlen tengerparti tájairól és hegyeiről ismert. Fontos élőhelye a veszélyeztetett mediterrán barátfókának és vadlovaknak.",
+      ro: "Situat lângă Kusadasi, acest parc național protejează un ecosistem divers de munți și plaje. Este unul dintre puținele locuri unde se mai poate vedea foca monah mediteraneană.",
+      en: "Nestled near Kusadasi, this national park protects a pristine coastline and mountainous terrain. It serves as a vital sanctuary for the endangered Mediterranean monk seal.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1966", "Fläche von ca. 27.600 Hektar", "Höchster Punkt Mycale-Berg (1.237 m)", "Lebensraum für 209 verschiedene Vogelarten"],
+      hu: ["1966-ban alapított nemzeti park", "Területe kb. 27 600 hektár", "Legmagasabb pontja a Mycale-hegy (1237 m)", "209 különböző madárfaj élőhelye"],
+      ro: ["Înființat în anul 1966", "Suprafață de circa 27.600 hectare", "Vârful Mycale are o înălțime de 1.237 m", "Habitat pentru 209 specii de păsări"],
+      en: ["Established in 1966", "Area of approximately 27,600 hectares", "Mycale Mountain peak reaches 1,237 m", "Habitat for 209 distinct bird species"],
+    },
+  },
   {
     id: "cukurova-plain-life-v2",
     type: "agriculture",
     parent: "TR-01",
     coords: [35.4833, 36.8333],
-    name: { de: "Çukurova-Ebene", hu: "Çukurova-síkság", ro: "Câmpia Çukurova", en: "Çukurova Plain" },
+    name: { de: "Çukurova-Ebene", hu: "Çukurova-síkság", ro: "Câmpia Çukurova", en: "Çukurova Plain",
+image: "/poi-images/cukurova-plain-life-v2.webp"
+},
     description: {
       de: "Eine ausgedehnte, fruchtbare Ebene in der südlichen Türkei, die historisch als Kilikien bekannt ist und ein wichtiges landwirtschaftliches Zentrum darstellt.",
       hu: "Egy kiterjedt, termékeny síkság Dél-Törökországban, amely történelmileg Kilikiaként ismert, és fontos mezőgazdasági központ.",
@@ -102,14 +134,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Irrigated by the Seyhan and Ceyhan rivers.",
         "Center of the Turkish textile industry."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die fruchtbare Tiefebene im Süden der Türkei ist das wichtigste Baumwollanbaugebiet des Landes. Sie wird von den Flüssen Seyhan und Ceyhan bewässert und gilt als Agrarzentrum.",
+      hu: "Törökország déli részén elterülő termékeny síkság, amely az ország gyapottermelésének központja. A Seyhan és Ceyhan folyók öntözik, biztosítva a mezőgazdasági bőséget.",
+      ro: "Această câmpie fertilă din sudul Turciei este principalul centru de producție a bumbacului. Irigată de râurile Seyhan și Ceyhan, regiunea are o importanță agricolă majoră.",
+      en: "This fertile plain in southern Turkey is the nation's primary cotton-growing region. Irrigated by the Seyhan and Ceyhan rivers, it is a cornerstone of Turkish agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 38.000 Quadratkilometern", "Produziert 50% der türkischen Baumwolle", "Historisch bekannt als Kilikien", "Heimat für über 4 Millionen Menschen"],
+      hu: ["Területe kb. 38 000 négyzetkilométer", "A török gyapot 50%-át itt termelik", "Történelmileg Kilikia néven ismert", "Több mint 4 millió lakos otthona"],
+      ro: ["Suprafață de cca 38.000 km pătrați", "Produce 50% din bumbacul Turciei", "Cunoscută istoric sub numele de Cilicia", "Găzduiește peste 4 milioane de locuitori"],
+      en: ["Area of roughly 38,000 square km", "Produces 50% of Turkey's cotton", "Historically known as Cilicia", "Home to over 4 million people in the region"],
+    },
   },
   {
     id: "isfanbul-themepark-life-v2",
     type: "kid-friendly",
     parent: "TR-34",
     coords: [28.9167, 41.0767],
-    name: { de: "Isfanbul-Themenpark", hu: "Isfanbul Vidámpark", ro: "Parcul de Distracții Isfanbul", en: "Isfanbul Theme Park" },
+    name: { de: "Isfanbul-Themenpark", hu: "Isfanbul Vidámpark", ro: "Parcul de Distracții Isfanbul", en: "Isfanbul Theme Park",
+image: "/poi-images/isfanbul-themepark-life-v2.webp"
+},
     description: {
       de: "Ein großer Vergnügungspark in Istanbul, der Achterbahnen, Einkaufszentren und Unterhaltung für die ganze Familie bietet.",
       hu: "Egy hatalmas vidámpark Isztambulban, amely hullámvasutakkal, bevásárlóközpontokkal és családi szórakoztató programokkal várja a látogatókat.",
@@ -137,13 +183,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Features one of Turkey's fastest roller coasters.",
         "Has an integrated shopping mall."
       ]
-    }, image: "/poi-images/isfanbul-themepark-life-v2.webp"},
+    }, image: "/poi-images/isfanbul-themepark-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser massive Themenpark in Istanbul bietet Attraktionen für alle Altersgruppen. Neben modernen Fahrgeschäften umfasst der Komplex ein Einkaufszentrum und Show-Center.",
+      hu: "Isztambul egyik legnagyobb vidámparkja, amely modern hullámvasutakkal és családi programokkal várja a látogatókat. A komplexumhoz hatalmas bevásárlóközpont is tartozik.",
+      ro: "Acest parc de distracții masiv din Istanbul oferă atracții moderne și divertisment pentru toate vârstele. Complexul include un mall și zone tematice spectaculoase.",
+      en: "This massive theme park in Istanbul offers world-class attractions and entertainment. The complex includes a shopping mall and thematic zones like Game World and Adventure.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 2013", "Gesamtfläche von 600.000 m²", "Achterbahn erreicht 110 km/h", "Über 30 verschiedene Attraktionen"],
+      hu: ["2013-ban nyitotta meg kapuit", "600 000 négyzetméteres összterület", "Hullámvasútja 110 km/h sebességet ér el", "Több mint 30 különféle attrakció"],
+      ro: ["Anul deschiderii este 2013", "Suprafață totală de 600.000 mp", "Roller coaster-ul atinge 110 km/h", "Peste 30 de atracții diferite"],
+      en: ["Opened to the public in 2013", "Total area of 600,000 square meters", "Roller coaster speed up to 110 km/h", "More than 30 distinct attractions"],
+    },
+  },
   {
     id: "rize-tea-plantations-life-v2",
     type: "agriculture",
     parent: "TR-53",
     coords: [40.5219, 41.0201],
-    name: { de: "Teeplantagen von Rize", hu: "Rize teaültetvényei", ro: "Plantațiile de ceai din Rize", en: "Rize Tea Plantations" },
+    name: { de: "Teeplantagen von Rize", hu: "Rize teaültetvényei", ro: "Plantațiile de ceai din Rize", en: "Rize Tea Plantations",
+image: "/poi-images/rize-tea-plantations-life-v2.webp"
+},
     description: {
       de: "Die steilen, grünen Hügel der Schwarzmeerregion sind das Herzstück der türkischen Teeproduktion und bieten malerische Landschaften.",
       hu: "A fekete-tengeri régió meredek, zöldellő dombjai a török teatermelés központját jelentik, és festői tájat alkotnak.",
@@ -171,13 +232,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The humid climate is ideal for tea cultivation.",
         "Tea harvesting usually takes place in spring."
       ]
-    }, image: "/poi-images/rize-tea-plantations-life-v2.webp"},
+    }, image: "/poi-images/rize-tea-plantations-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die steilen, immergrünen Hänge bei Rize sind das Zentrum der türkischen Teeproduktion. Das feuchte Klima der Schwarzmeerregion begünstigt das Wachstum der Teesträucher.",
+      hu: "A Fekete-tenger partján fekvő Rize környéki domboldalak adják a török tea nagy részét. A párás klíma és a bőséges csapadék tökéletes feltételeket biztosít a termesztéshez.",
+      ro: "Pantele verzi de lângă Rize reprezintă inima producției de ceai din Turcia. Climatul umed al regiunii Mării Negre permite recoltarea frunzelor de ceai de trei ori pe an.",
+      en: "The lush green slopes near Rize are the heart of Turkey's black tea production. The region's humid climate and high rainfall create perfect conditions for tea cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Erste Teesamen wurden 1924 gepflanzt", "Produziert 60% des türkischen Tees", "Jährlicher Niederschlag von 2.500 mm", "Drei Ernteperioden pro Jahr"],
+      hu: ["Az első magokat 1924-ben ültették", "A török tea 60%-át itt termelik", "2500 mm éves csapadékmennyiség", "Évente háromszori betakarítás"],
+      ro: ["Primele semințe plantate în 1924", "Produce 60% din ceaiul turcesc", "Precipitații anuale de 2.500 mm", "Trei perioade de recoltare pe an"],
+      en: ["First tea seeds planted in 1924", "Produces 60% of all Turkish tea", "Annual rainfall of 2,500 mm", "Three harvest periods per year"],
+    },
+  },
   {
     id: "kuscenneti-nationalpark-life-v2",
     type: "wildlife-area",
     parent: "TR-10",
     coords: [28.0000, 40.2000],
-    name: { de: "Kuşcenneti-Nationalpark", hu: "Kuşcenneti Nemzeti Park", ro: "Parcul Național Kușcenneti", en: "Kuşcenneti National Park" },
+    name: { de: "Kuşcenneti-Nationalpark", hu: "Kuşcenneti Nemzeti Park", ro: "Parcul Național Kușcenneti", en: "Kuşcenneti National Park",
+image: "/poi-images/kuscenneti-nationalpark-life-v2.webp"
+},
     description: {
       de: "Dieses Vogelparadies am Manyas-See ist ein wichtiger Rastplatz für Millionen von Zugvögeln auf ihrem Weg zwischen Europa und Afrika.",
       hu: "Ez a Manyas-tó partján fekvő madárparadicsom fontos pihenőhely a több millió vándormadár számára Európa és Afrika között.",
@@ -205,13 +281,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Protects over 250 bird species.",
         "Awarded the European Diploma of Protected Areas."
       ]
-    }, image: "/poi-images/kuscenneti-nationalpark-life-v2.webp"},
+    }, image: "/poi-images/kuscenneti-nationalpark-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Am Manyas-See gelegen, ist dieser Park ein wichtiges Schutzgebiet für Zugvögel. Hunderttausende Vögel nutzen das Feuchtgebiet jährlich als Rastplatz auf ihrem Weg nach Afrika.",
+      hu: "A Manyas-tó partján fekvő madárrezervátum fontos megállóhely a költöző madarak számára. Európa egyik legjelentősebb vizes élőhelye, ahol több száz faj fészkel rendszeresen.",
+      ro: "Situat pe malul lacului Manyas, acest parc este un sanctuar vital pentru păsările migratoare. Este unul dintre cele mai importante zone umede din Europa pentru ornitologi.",
+      en: "Located by Manyas Lake, this bird sanctuary is a vital stopover for migratory species. It is one of Europe's most significant wetlands, hosting hundreds of nesting species.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark-Status seit 1959", "266 verschiedene Vogelarten gesichtet", "2-3 Millionen Vögel passieren den Park", "Europa-Diplom für Naturschutz 1976"],
+      hu: ["1959-ben kapott nemzeti park rangot", "266 különböző madárfajt figyeltek meg", "Évente 2-3 millió madár vonul át", "Európa Diplomát kapott 1976-ban"],
+      ro: ["Statut de parc național din 1959", "266 de specii de păsări înregistrate", "2-3 milioane de păsări tranzitează anual", "Diplomă Europeană pentru Mediu în 1976"],
+      en: ["National park status since 1959", "266 distinct bird species recorded", "2-3 million birds pass through annually", "Awarded European Diploma in 1976"],
+    },
+  },
   {
     id: "bursa-peach-orchards-life-v2",
     type: "agriculture",
     parent: "TR-16",
     coords: [29.0667, 40.1833],
-    name: { de: "Pfirsichgärten von Bursa", hu: "Bursa őszibarackligetei", ro: "Livezile de piersici din Bursa", en: "Bursa Peach Orchards" },
+    name: { de: "Pfirsichgärten von Bursa", hu: "Bursa őszibarackligetei", ro: "Livezile de piersici din Bursa", en: "Bursa Peach Orchards",
+image: "/poi-images/bursa-peach-orchards-life-v2.webp"
+},
     description: {
       de: "Die Region um Bursa ist berühmt für ihre weiten Obstplantagen, auf denen einige der saftigsten und süßesten Pfirsiche des Landes wachsen.",
       hu: "A Bursa környéki régió híres kiterjedt gyümölcsöskertjeiről, ahol az ország leglédúsabb és legédesebb őszibarackjai teremnek.",
@@ -239,13 +330,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The mild climate favors the growth of the fruit.",
         "The fruits are exported throughout Europe."
       ]
-    }, image: "/poi-images/bursa-peach-orchards-life-v2.webp"},
+    }, image: "/poi-images/bursa-peach-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die fruchtbaren Böden rund um Bursa sind berühmt für ihre saftigen Pfirsiche. Die Region nutzt das mineralreiche Wasser des Uludağ-Gebirges für den großflächigen Obstanbau.",
+      hu: "Bursa környékének termékeny vidéke híres a zamatos őszibarackról. Az Uludag-hegyről érkező ásványi anyagokban gazdag víz és a talaj kiváló minőségű gyümölcsöt eredményez.",
+      ro: "Livezile fertile din jurul Bursei sunt faimoase pentru piersicile lor suculente. Regiunea beneficiază de apele bogate în minerale ale muntelui Uludağ pentru culturi vaste.",
+      en: "The fertile lands around Bursa are world-renowned for their juicy peaches. The region utilizes mineral-rich water from Mount Uludağ to sustain its vast fruit orchards.",
+    },
+    factsAdvanced: {
+      de: ["Liefert 20% der türkischen Pfirsiche", "Haupterntezeit zwischen Juni und September", "Lokale Sorte Yarma ist besonders beliebt", "Vulkanische Bodenbasis vom Uludağ"],
+      hu: ["A török baracktermelés 20%-át adja", "Főszezon júniustól szeptemberig tart", "A helyi Yarma fajta ikonikus", "Uludag-hegyi vulkáni talaj alap"],
+      ro: ["Asigură 20% din piersicile Turciei", "Recolta principală între iunie și septembrie", "Soiul local Yarma este cel mai cunoscut", "Sol vulcanic fertil de la muntele Uludağ"],
+      en: ["Supplies 20% of Turkey's peaches", "Peak harvest from June to September", "Iconic local Yarma variety grown here", "Volcanic soil base from Mount Uludağ"],
+    },
+  },
   {
     id: "emirgan-park-life-v2",
     type: "park",
     parent: "TR-34",
     coords: [29.0531, 41.1086],
-    name: { de: "Emirgan-Park", hu: "Emirgan park", ro: "Parcul Emirgan", en: "Emirgan Park" },
+    name: { de: "Emirgan-Park", hu: "Emirgan park", ro: "Parcul Emirgan", en: "Emirgan Park",
+image: "/poi-images/emirgan-park-life-v2.webp"
+},
     description: {
       de: "Ein historischer Park am Bosporus, der besonders für sein jährliches Tulpenfestival im Frühling weltberühmt ist.",
       hu: "Egy történelmi park a Boszporusz partján, amely különösen a tavaszi, évente megrendezett tulipánfesztiváljáról világhírű.",
@@ -273,13 +379,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Houses three historical wooden pavilions.",
         "Millions of tulips bloom here in April."
       ]
-    }, image: "/poi-images/emirgan-park-life-v2.webp"},
+    }, image: "/poi-images/emirgan-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese weitläufige Parkanlage am Bosporus ist berühmt für ihr jährliches Tulpenfestival. Drei historische Pavillons zeugen von der osmanischen Pracht des 19. Jahrhunderts.",
+      hu: "A Boszporusz partján fekvő park tavasszal tulipánok millióitól pompázik. A területen három díszes oszmán pavilon is található, amelyek ma étteremként és kávézóként üzemelnek.",
+      ro: "Acest parc vast de pe malul Bosforului este celebru pentru festivalul anual al lalelelor. Trei pavilioane istorice amintesc de splendoarea otomană a secolului al XIX-lea.",
+      en: "This expansive park on the Bosphorus is famous for its annual Tulip Festival. Three historic pavilions reflect the 19th-century Ottoman grandeur within the lush grounds.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 47 Hektar", "Über 190 verschiedene Baumarten", "Drei historische Holzpavillons", "Tulpenfestival findet seit 2006 statt"],
+      hu: ["Területe megközelítőleg 47 hektár", "Több mint 190 fafaj található itt", "Három történelmi fa pavilon díszíti", "2006 óta rendezik a Tulipánfesztivált"],
+      ro: ["Suprafață de aproximativ 47 hectare", "Peste 190 de specii de arbori prezente", "Trei pavilioane istorice din lemn", "Festivalul Lalelelor organizat din 2006"],
+      en: ["Covers an area of 47 hectares", "Home to over 190 tree species", "Contains three historic wooden pavilions", "Tulip Festival held since 2006"],
+    },
+  },
   {
     id: "antalya-aquarium-life-v2",
     type: "kid-friendly",
     parent: "TR-07",
     coords: [30.6550, 36.8828],
-    name: { de: "Antalya Aquarium", hu: "Antalyai Akvárium", ro: "Acvariul din Antalya", en: "Antalya Aquarium" },
+    name: { de: "Antalya Aquarium", hu: "Antalyai Akvárium", ro: "Acvariul din Antalya", en: "Antalya Aquarium",
+image: "/poi-images/antalya-aquarium-life-v2.webp"
+},
     description: {
       de: "Eines der größten Aquarien der Welt, das Besucher mit einem massiven Unterwassertunnel und Themenbereichen wie der Schneewelt begeistert.",
       hu: "A világ egyik legnagyobb akváriuma, amely egy hatalmas víz alatti alagúttal és tematikus részekkel, például a Hóvilággal várja a látogatókat.",
@@ -307,13 +428,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Features an exhibition of tropical reptiles.",
         "You can observe real sharks up close."
       ]
-    }, image: "/poi-images/antalya-aquarium-life-v2.webp"},
+    }, image: "/poi-images/antalya-aquarium-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Mit einem der längsten Tunnel-Aquarien der Welt bietet dieser Komplex faszinierende Einblicke in die Unterwasserwelt. Er beherbergt Tausende Meeresbewohner in 40 Themenbecken.",
+      hu: "A világ egyik leghosszabb alagút-akváriumával rendelkező komplexum lenyűgöző tengeri élőlényeket mutat be. A látogatók 40 különböző tematikus medencében figyelhetik meg a halakat.",
+      ro: "Cu unul dintre cele mai lungi acvarii-tunel din lume, acest complex oferă o perspectivă unică asupra vieții marine. Găzduiește mii de specii în 40 de bazine tematice.",
+      en: "Featuring one of the world's longest tunnel aquariums, this complex offers an immersive underwater experience. It houses thousands of species across 40 thematic aquariums.",
+    },
+    factsAdvanced: {
+      de: ["Tunnel-Aquarium ist 131 Meter lang", "Beherbergt ca. 10.000 Meeresbewohner", "40 verschiedene Themenbecken", "Umfasst die Snow World Eiswelt"],
+      hu: ["Az akváriumalagút 131 méter hosszú", "Kb. 10 000 tengeri élőlény lakhelye", "40 különféle tematikus medence", "Snow World jégvilág is található itt"],
+      ro: ["Tunelul are o lungime de 131 metri", "Găzduiește cca 10.000 de vietăți marine", "40 de bazine acvatice tematice", "Include zona Snow World și Muzeul de Gheață"],
+      en: ["Tunnel aquarium is 131 meters long", "Houses roughly 10,000 sea creatures", "40 distinct thematic aquariums", "Features the Snow World ice museum"],
+    },
+  },
   {
     id: "giresun-hazelnut-life-v2",
     type: "agriculture",
     parent: "TR-28",
     coords: [38.3833, 40.9167],
-    name: { de: "Haselnussplantagen von Giresun", hu: "Giresun mogyoróültetvényei", ro: "Plantațiile de aluni din Giresun", en: "Giresun Hazelnut Plantations" },
+    name: { de: "Haselnussplantagen von Giresun", hu: "Giresun mogyoróültetvényei", ro: "Plantațiile de aluni din Giresun", en: "Giresun Hazelnut Plantations",
+image: "/poi-images/giresun-hazelnut-life-v2.webp"
+},
     description: {
       de: "Die Provinz Giresun ist das Zentrum der weltweiten Haselnussproduktion, deren Plantagen die steilen Hänge zum Schwarzen Meer hinab bedecken.",
       hu: "Giresun tartomány a globális mogyorótermelés központja, amelynek ültetvényei a Fekete-tenger felé ereszkedő meredek lejtőket borítják.",
@@ -341,13 +477,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Hazelnuts are an important export commodity.",
         "Often used in the chocolate industry."
       ]
-    }, image: "/poi-images/giresun-hazelnut-life-v2.webp"},
+    }, image: "/poi-images/giresun-hazelnut-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Giresun gilt als Welthauptstadt der Haselnuss. Die an den Küstenhängen wachsenden Nüsse sind für ihren hohen Ölgehalt und ihr besonderes Aroma international geschätzt.",
+      hu: "Giresun a világ mogyorótermelésének egyik legfontosabb központja. A tengerparti lankákon termő mogyoró magas olajtartalma és különleges aromája miatt világszerte keresett.",
+      ro: "Giresun este considerată capitala mondială a alunelor de pădure. Alunele cultivate pe pantele de coastă sunt apreciate internațional pentru aroma și conținutul lor de ulei.",
+      en: "Giresun is recognized as a global hub for hazelnut production. The nuts grown on the coastal slopes are prized worldwide for their high oil content and unique flavor.",
+    },
+    factsAdvanced: {
+      de: ["Giresun liefert 25% der türkischen Ernte", "Haupternte findet im August statt", "Geschützt durch Herkunftssiegel (GI)", "Türkei hält 70% Weltmarktanteil"],
+      hu: ["Giresun adja a török termés 25%-át", "A főszezon augusztusban van", "Földrajzi árujelzővel (GI) védett", "Törökország világpiaci részesedése 70%"],
+      ro: ["Giresun asigură 25% din recolta Turciei", "Recoltarea are loc în luna august", "Statut de Indicație Geografică Protejată", "Turcia deține 70% din piața mondială"],
+      en: ["Giresun provides 25% of Turkish yield", "Main harvest occurs during August", "Protected by Geographical Indication", "Turkey supplies 70% of global market"],
+    },
+  },
   {
     id: "igneada-floodplain-life-v2",
     type: "wildlife-area",
     parent: "TR-39",
     coords: [27.9833, 41.8667],
-    name: { de: "İğneada-Auwald-Nationalpark", hu: "İğneada Ártéri-erdő Nemzeti Park", ro: "Parcul Național Pădurea Inundabilă İğneada", en: "İğneada Floodplain Forests National Park" },
+    name: { de: "İğneada-Auwald-Nationalpark", hu: "İğneada Ártéri-erdő Nemzeti Park", ro: "Parcul Național Pădurea Inundabilă İğneada", en: "İğneada Floodplain Forests National Park",
+image: "/poi-images/igneada-floodplain-life-v2.webp"
+},
     description: {
       de: "Ein seltenes Ökosystem aus überfluteten Wäldern an der bulgarischen Grenze, das eine unglaubliche Vielfalt an Flora und Fauna beheimatet.",
       hu: "Egy ritka ártéri erdei ökoszisztéma a bolgár határon, amely elképesztő változatosságú növény- és állatvilágnak ad otthont.",
@@ -375,13 +526,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Includes swamps, lakes, and sand dunes.",
         "Important habitat for amphibians."
       ]
-    }, image: "/poi-images/igneada-floodplain-life-v2.webp"},
+    }, image: "/poi-images/igneada-floodplain-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser Nationalpark schützt eines der letzten intakten Auwaldökosysteme Europas. Die Mischung aus Sümpfen, Seen und Dünen an der Schwarzmeerküste bietet seltene Biodiversität.",
+      hu: "Európa egyik utolsó érintetlen ártéri erdőrendszere a bolgár határ közelében fekszik. A mocsarak, tavak és homokdűnék elegye egyedülálló élővilágnak ad otthont.",
+      ro: "Acest parc național protejează unul dintre ultimele ecosisteme de pădure inundabilă din Europa. Mixul de mlaștini, lacuri și dune oferă o biodiversitate rară.",
+      en: "This national park protects one of Europe's last remaining floodplain forest ecosystems. The mix of swamps, lakes, and dunes near the Black Sea offers rare biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark-Status seit 2007", "Fläche von ca. 3.155 Hektar", "Umfasst fünf natürliche Seen", "Beherbergt 671 Pflanzenarten"],
+      hu: ["2007-ben lett nemzeti park", "Területe kb. 3155 hektár", "Öt természetes tavat foglal magában", "671 különféle növényfaj él itt"],
+      ro: ["Statut de parc național din 2007", "Suprafață de circa 3.155 hectare", "Cuprinde cinci lacuri naturale", "Adăpostește 671 de specii de plante"],
+      en: ["National park status since 2007", "Area of roughly 3,155 hectares", "Contains five distinct natural lakes", "Home to 671 different plant species"],
+    },
+  },
   {
     id: "yildiz-park-life-v2",
     type: "park",
     parent: "TR-34",
     coords: [29.0119, 41.0483],
-    name: { de: "Yıldız-Park", hu: "Yıldız park", ro: "Parcul Yıldız", en: "Yıldız Park" },
+    name: { de: "Yıldız-Park", hu: "Yıldız park", ro: "Parcul Yıldız", en: "Yıldız Park",
+image: "/poi-images/yildiz-park-life-v2.webp"
+},
     description: {
       de: "Einst die königlichen Jagdgründe der osmanischen Sultane, bietet dieser riesige Park heute malerische Spazierwege und alte Pavillons.",
       hu: "Egykor az oszmán szultánok királyi vadászterülete volt, ma ez a hatalmas park festői sétányokat és régi pavilonokat kínál.",
@@ -409,13 +575,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Home to the famous Yıldız Porcelain Factory.",
         "Offers a magnificent view of the Bosphorus."
       ]
-    }, image: "/poi-images/yildiz-park-life-v2.webp"},
+    }, image: "/poi-images/yildiz-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese historische Parkanlage war einst Teil des kaiserlichen Yıldız-Palastes. Mit ihren alten Bäumen und Teichen bietet sie einen ruhigen Rückzugsort inmitten von Beşiktaş.",
+      hu: "Az egykori Yıldız-palota kertjeként szolgáló park Isztambul egyik legnagyobb zöldterülete. Évszázados fái és díszes pavilonjai az oszmán uralkodók nyugalmát idézik.",
+      ro: "Acest parc istoric a făcut parte odinioară din complexul Palatului Yıldız. Cu arborii săi seculari și iazurile liniștite, este un refugiu verde în cartierul Beşiktaş.",
+      en: "This historic park was once part of the imperial Yıldız Palace grounds. With its centuries-old trees and serene ponds, it offers a peaceful escape in central Istanbul.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von etwa 160 Hektar", "Bäume sind teils über 400 Jahre alt", "Beherbergt Malta- und Şale-Pavillons", "Einstiges Jagdrevier der Sultane"],
+      hu: ["Területe kb. 160 hektár", "400 évnél idősebb fák is találhatók itt", "A Malta és Şale pavilonok helyszíne", "Egykor szultáni vadászterület volt"],
+      ro: ["Suprafață de aproximativ 160 hectare", "Arbori cu vârste de peste 400 de ani", "Găzduiește pavilioanele Malta și Şale", "Fost domeniu de vânătoare al sultanilor"],
+      en: ["Total area of 160 hectares", "Trees over 400 years old are present", "Home to Malta and Şale pavilions", "Former hunting ground of the Sultans"],
+    },
+  },
   {
     id: "faruk-yalcin-zoo-life-v2",
     type: "kid-friendly",
     parent: "TR-41",
     coords: [29.3833, 40.8167],
-    name: { de: "Faruk-Yalçın-Zoo", hu: "Faruk Yalçın Állatkert", ro: "Grădina Zoologică Faruk Yalçın", en: "Faruk Yalçın Zoo" },
+    name: { de: "Faruk-Yalçın-Zoo", hu: "Faruk Yalçın Állatkert", ro: "Grădina Zoologică Faruk Yalçın", en: "Faruk Yalçın Zoo",
+image: "/poi-images/faruk-yalcin-zoo-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiger zoologischer Garten in der Nähe von Istanbul, der sich dem Tierschutz und der Bildung über bedrohte Arten widmet.",
       hu: "Egy kiterjedt állatkert Isztambul közelében, amely az állatvédelemnek és a veszélyeztetett fajok megismertetésének szenteli magát.",
@@ -443,13 +624,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Has a large botanical garden.",
         "Involved in international breeding programs."
       ]
-    }, image: "/poi-images/faruk-yalcin-zoo-life-v2.webp"},
+    }, image: "/poi-images/faruk-yalcin-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Als führender privater Zoo der Türkei widmet sich dieser Park dem Artenschutz. Die Anlage in Darıca kombiniert einen botanischen Garten mit moderner Tierhaltung.",
+      hu: "Törökország vezető magánállatkertje Darıca városában található, ahol a fajmegőrzésre koncentrálnak. A park botanikus kertként is funkcionál, ritka növényekkel.",
+      ro: "Fiind cel mai important grădină zoologică privată din Turcia, acest parc se dedică conservării speciilor. Facilitatea combină o grădină botanică cu habitate moderne.",
+      en: "As a leading private zoo in Turkey, this park is dedicated to wildlife conservation. The facility in Darıca combines a botanical garden with modern animal habitats.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1993", "Beherbergt ca. 250 Tierarten", "Über 8.000 Pflanzenarten vorhanden", "Mitglied des Zoo-Verbandes EAZA"],
+      hu: ["1993-ban nyitotta meg kapuit", "Kb. 250 állatfajnak ad otthont", "Több mint 8000 növényfaj látható", "Az EAZA állatkerti szövetség tagja"],
+      ro: ["Deschis în anul 1993", "Găzduiește cca 250 de specii de animale", "Peste 8.000 de specii de plante", "Membru al asociației europene EAZA"],
+      en: ["Opened to the public in 1993", "Houses roughly 250 animal species", "Features over 8,000 plant species", "Member of the EAZA association"],
+    },
+  },
   {
     id: "aydin-fig-orchards-life-v2",
     type: "agriculture",
     parent: "TR-09",
     coords: [27.8333, 37.8333],
-    name: { de: "Feigengärten von Aydın", hu: "Aydın fügeligetei", ro: "Livezile de smochini din Aydın", en: "Aydın Fig Orchards" },
+    name: { de: "Feigengärten von Aydın", hu: "Aydın fügeligetei", ro: "Livezile de smochini din Aydın", en: "Aydın Fig Orchards",
+image: "/poi-images/aydin-fig-orchards-life-v2.webp"
+},
     description: {
       de: "Die sonnenverwöhnte Region Aydın ist weltweit bekannt für den Anbau der besten Feigen, die hier in großen Mengen getrocknet werden.",
       hu: "A napsütötte Aydın régió világszerte ismert a legjobb minőségű fügék termesztéséről, amelyeket itt nagy mennyiségben aszalnak.",
@@ -477,13 +673,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Drying is done traditionally in the sun.",
         "Main export item of the Aegean region."
       ]
-    }, image: "/poi-images/aydin-fig-orchards-life-v2.webp"},
+    }, image: "/poi-images/aydin-fig-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Menderes-Tal bei Aydın ist das weltweit größte Anbaugebiet für getrocknete Feigen. Die Sarılop-Sorte profitiert vom heißen Klima und der geringen Luftfeuchtigkeit.",
+      hu: "Az Aydın környéki völgyek a világ fügetermelésének központjai. A Sarılop fajta a forró éghajlatnak és az alacsony páratartalomnak köszönhetően itt éri el a legjobb minőséget.",
+      ro: "Valea râului Meandru de lângă Aydın este cea mai mare zonă de producție a smochinelor din lume. Soiul Sarılop beneficiază de climatul cald și umiditatea scăzută.",
+      en: "The Meander Valley near Aydın is the world's largest production area for dried figs. The Sarılop variety thrives here due to the hot climate and low humidity levels.",
+    },
+    factsAdvanced: {
+      de: ["Liefert 60% der weltweiten Trockenfeigen", "37.000 Hektar Anbaufläche in Aydın", "Ernte beginnt jährlich im August", "Geschützte Ursprungsbezeichnung (PDO)"],
+      hu: ["A világ aszalt fügéjének 60%-át adja", "37 000 hektárnyi ültetvény Aydınban", "A betakarítás augusztusban kezdődik", "Eredetvédett (PDO) termékfajta"],
+      ro: ["Asigură 60% din smochinele uscate global", "37.000 hectare de livezi în Aydın", "Recoltarea începe anual în august", "Denumire de Origine Protejată (PDO)"],
+      en: ["Supplies 60% of world's dried figs", "37,000 hectares of orchards in Aydın", "Harvest begins annually in August", "Protected Designation of Origin status"],
+    },
+  },
   {
     id: "soguksu-nationalpark-life-v2",
     type: "park",
     parent: "TR-06",
     coords: [32.6167, 40.4667],
-    name: { de: "Soğuksu-Nationalpark", hu: "Soğuksu Nemzeti Park", ro: "Parcul Național Soğuksu", en: "Soğuksu National Park" },
+    name: { de: "Soğuksu-Nationalpark", hu: "Soğuksu Nemzeti Park", ro: "Parcul Național Soğuksu", en: "Soğuksu National Park",
+image: "/poi-images/soguksu-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein malerischer Nationalpark in der Nähe von Ankara, der für seine dichten Kiefernwälder und heilenden Thermalquellen bekannt ist.",
       hu: "Egy festői nemzeti park Ankara közelében, amely sűrű fenyőerdőiről és gyógyító termálforrásairól ismert.",
@@ -511,13 +722,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Home to the rare cinereous vulture.",
         "The volcanic terrain warms the springs."
       ]
-    }, image: "/poi-images/soguksu-nationalpark-life-v2.webp"},
+    }, image: "/poi-images/soguksu-nationalpark-life-v2.webp",
+    descriptionAdvanced: {
+      de: "In der Nähe von Ankara gelegen, schützt dieser Park dichte Nadelwälder und ist für seine Thermalquellen bekannt. Er ist einer der wenigen Brutplätze der Mönchsgeier.",
+      hu: "Az Ankara közelében fekvő nemzeti park sűrű fenyőerdőiről és gyógyvizeiről nevezetes. Fontos fészkelőhelye a ritka barátkeselyűnek és számos más ragadozómadárnak.",
+      ro: "Situat lângă Ankara, acest parc protejează păduri dense de conifere și este cunoscut pentru apele termale. Este unul dintre puținele locuri unde cuibărește vulturul negru.",
+      en: "Located near Ankara, this park protects dense coniferous forests and is famous for its thermal springs. It is one of the few nesting sites for the rare cinereous vulture.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark seit dem Jahr 1959", "Umfasst eine Fläche von 1.187 Hektar", "Beherbergt über 160 Pflanzenarten", "Wichtiger Schutzraum für Mönchsgeier"],
+      hu: ["1959-ben alapított nemzeti park", "Területe összesen 1187 hektár", "Több mint 160 növényfaj él itt", "A barátkeselyűk fontos menedékhelye"],
+      ro: ["Înființat ca parc național în 1959", "Acoperă o suprafață de 1.187 hectare", "Găzduiește peste 160 specii de plante", "Habitat critic pentru vulturul negru"],
+      en: ["Established as a national park in 1959", "Covers a total area of 1,187 hectares", "Home to over 160 plant species", "Key nesting site for cinereous vultures"],
+    },
+  },
   {
     id: "iztuzu-beach-life-v2",
     type: "wildlife-area",
     parent: "TR-48",
     coords: [28.6231, 36.7919],
-    name: { de: "İztuzu-Strand", hu: "İztuzu-part", ro: "Plaja İztuzu", en: "İztuzu Beach" },
+    name: { de: "İztuzu-Strand", hu: "İztuzu-part", ro: "Plaja İztuzu", en: "İztuzu Beach",
+image: "/poi-images/iztuzu-beach-life-v2.webp"
+},
     description: {
       de: "Ein unberührter Sandstrandstreifen, der eine natürliche Barriere zwischen dem Süßwasserdelta des Dalyan-Flusses und dem Mittelmeer bildet.",
       hu: "Egy érintetlen homokos tengerpart, amely természetes gátat képez a Dalyan folyó édesvízi deltája és a Földközi-tenger között.",
@@ -545,13 +771,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Closed to visitors at night to protect the nests.",
         "Houses a turtle rescue center."
       ]
-    }, image: "/poi-images/iztuzu-beach-life-v2.webp"},
+    }, image: "/poi-images/iztuzu-beach-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser schmale Sandstrand bei Dalyan ist ein international bedeutender Nistplatz für die Unechte Karettschildkröte. Strenge Schutzregeln bewahren die natürliche Umgebung.",
+      hu: "A Dalyan közelében elnyúló homokos tengerpart a Caretta caretta teknősök egyik legfontosabb fészkelőhelye. A terület éjszaka le van zárva a hüllők védelme érdekében.",
+      ro: "Această plajă îngustă de lângă Dalyan este un loc de cuibărit de importanță internațională pentru țestoasele Caretta caretta. Reguli stricte protejează mediul natural.",
+      en: "This narrow sandbar near Dalyan is an internationally significant nesting site for Loggerhead sea turtles. Strict conservation rules protect the natural habitat.",
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 4,5 Kilometern", "Wichtiger Lebensraum der Caretta caretta", "Nachts für Besucher gesperrt (20-8 Uhr)", "Trennt Süßwasser-Delta vom Meer"],
+      hu: ["A strand hossza kb. 4,5 kilométer", "Caretta caretta teknősök élőhelye", "Éjszaka zárva (20:00-08:00 között)", "Édesvízi deltát választ el a tengertől"],
+      ro: ["Lungimea plajei este de 4,5 kilometri", "Habitat major pentru Caretta caretta", "Închisă noaptea (între 20:00 și 08:00)", "Separă delta de apă dulce de mare"],
+      en: ["Beach length of roughly 4.5 km", "Prime habitat for Caretta caretta", "Closed at night (20:00 to 08:00)", "Separates freshwater delta from sea"],
+    },
+  },
   {
     id: "miniaturk-life-v2",
     type: "kid-friendly",
     parent: "TR-34",
     coords: [28.9483, 41.0600],
-    name: { de: "Miniatürk", hu: "Miniatürk", ro: "Miniatürk", en: "Miniatürk" },
+    name: { de: "Miniatürk", hu: "Miniatürk", ro: "Miniatürk", en: "Miniatürk",
+image: "/poi-images/miniaturk-life-v2.webp"
+},
     description: {
       de: "Ein beeindruckender Miniaturpark in Istanbul, der detailgetreue Nachbildungen der berühmtesten Bauwerke aus der Türkei und der osmanischen Geschichte zeigt.",
       hu: "Egy lenyűgöző miniatűr park Isztambulban, amely Törökország és az oszmán történelem leghíresebb építményeinek részletes másolatait mutatja be.",
@@ -579,13 +820,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Includes over 130 architectural masterpieces.",
         "Picturesquely located on the shores of the Golden Horn."
       ]
-    }, image: "/poi-images/miniaturk-life-v2.webp"},
+    }, image: "/poi-images/miniaturk-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser Park am Goldenen Horn zeigt maßstabgetreue Modelle der wichtigsten Bauwerke der Türkei. Er bietet eine Zeitreise durch die osmanische und seldschukische Architektur.",
+      hu: "Az Aranyszarv-öböl partján található park Törökország építészeti remekműveinek kicsinyített másait mutatja be. Az 1:25 arányú modellek között ókori emlékek is láthatók.",
+      ro: "Acest parc de pe malul Cornului de Aur prezintă modele la scară ale celor mai importante edificii din Turcia. Oferă o călătorie prin arhitectura otomană și selgiucidă.",
+      en: "Located on the Golden Horn, this park features scale models of Turkey's most significant landmarks. It offers a journey through Ottoman and Seljuk architectural history.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 2003", "Fläche von ca. 60.000 m²", "Beherbergt 135 verschiedene Modelle", "Maßstab der Modelle beträgt 1:25"],
+      hu: ["2003-ban nyitotta meg kapuit", "Területe kb. 60 000 négyzetméter", "135 különféle makettet mutat be", "A modellek méretaránya 1:25"],
+      ro: ["Deschis în anul 2003", "Suprafață de circa 60.000 mp", "Găzduiește 135 de modele diferite", "Scara machetelor este de 1:25"],
+      en: ["Opened to visitors in 2003", "Total area of 60,000 square meters", "Houses 135 distinct scale models", "Models built to a 1:25 scale ratio"],
+    },
+  },
   {
     id: "malatya-apricots-life-v2",
     type: "agriculture",
     parent: "TR-44",
     coords: [38.3167, 38.3500],
-    name: { de: "Aprikosenplantagen von Malatya", hu: "Malatya sárgabarack-ültetvényei", ro: "Plantațiile de caise din Malatya", en: "Malatya Apricot Orchards" },
+    name: { de: "Aprikosenplantagen von Malatya", hu: "Malatya sárgabarack-ültetvényei", ro: "Plantațiile de caise din Malatya", en: "Malatya Apricot Orchards",
+image: "/poi-images/malatya-apricots-life-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Böden und das sonnige Klima dieser ostanatolischen Provinz machen sie zum Weltzentrum für den Anbau süßer Aprikosen.",
       hu: "A kelet-anatóliai tartomány termékeny talaja és napos éghajlata a világ központjává teszi az édes sárgabarack termesztését.",
@@ -613,13 +869,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The fruits are gently dried on family farms.",
         "Malatya is often referred to as the apricot capital."
       ]
-    }, image: "/poi-images/malatya-apricots-life-v2.webp"},
+    }, image: "/poi-images/malatya-apricots-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hochebenen von Malatya produzieren den Großteil der weltweiten Ernte an getrockneten Aprikosen. Das sonnige Klima ermöglicht eine natürliche Trocknung auf den Feldern.",
+      hu: "Malatya vidéke a világ aszalt sárgabarack termelésének központja. A napos éghajlat és a magas fekvésű síkságok tökéletesek a gyümölcs természetes szárításához.",
+      ro: "Podișurile din Malatya produc cea mai mare parte a recoltei mondiale de caise uscate. Climatul însorit permite uscarea naturală a fructelor direct pe câmp.",
+      en: "The high plains of Malatya produce the majority of the world's sun-dried apricot harvest. The sunny climate allows for natural drying process in the open fields.",
+    },
+    factsAdvanced: {
+      de: ["Liefert 85% der weltweiten Trockenware", "Über 8 Millionen Aprikosenbäume", "Haupterntezeit liegt im Juli", "Besitzt ein EU-Herkunftssiegel (GI)"],
+      hu: ["A világ aszalt árujának 85%-át adja", "Több mint 8 millió sárgabarackfa", "A betakarítás júliusban tetőzik", "EU-s földrajzi árujelzővel (GI) védett"],
+      ro: ["Asigură 85% din producția mondială", "Peste 8 milioane de caise plantați", "Vârful recoltei este în luna iulie", "Protejată prin Indicație Geografică UE"],
+      en: ["Provides 85% of world's dried supply", "Province has over 8 million apricot trees", "Peak harvest occurs during July", "Holds an EU Geographical Indication"],
+    },
+  },
   {
     id: "sarikamis-forest-life-v2",
     type: "wildlife-area",
     parent: "TR-36",
     coords: [42.6667, 40.3333],
-    name: { de: "Sarıkamış-Allahuekber-Nationalpark", hu: "Sarıkamış-Allahuekber Nemzeti Park", ro: "Parcul Național Sarıkamış-Allahuekber", en: "Sarıkamış-Allahuekber Mountains National Park" },
+    name: { de: "Sarıkamış-Allahuekber-Nationalpark", hu: "Sarıkamış-Allahuekber Nemzeti Park", ro: "Parcul Național Sarıkamış-Allahuekber", en: "Sarıkamış-Allahuekber Mountains National Park",
+image: "/poi-images/sarikamis-forest-life-v2.webp"
+},
     description: {
       de: "Ein hochgelegener Nationalpark in Ostanatolien, berühmt für seine tiefen Schneedecken im Winter und die ausgedehnten, dichten Kiefernwälder.",
       hu: "Egy magaslati nemzeti park Kelet-Anatóliában, amely télen a vastag hótakarójáról és kiterjedt, sűrű fenyőerdeiről híres.",
@@ -647,13 +918,28 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Important habitat for brown bears and wolves.",
         "Popular destination for winter sports enthusiasts."
       ]
-    }, image: "/poi-images/sarikamis-forest-life-v2.webp"},
+    }, image: "/poi-images/sarikamis-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser Nationalpark in Ostanatolien ist berühmt für seine dichten Kiefernwälder auf großer Höhe. Er dient auch als Gedenkstätte für die gefallenen Soldaten des Winters 1914.",
+      hu: "Kelet-Anatólia magashegyi fenyveseiről ismert nemzeti parkja fontos ökológiai terület. Egyben emlékhely az 1914-es téli hadjáratban elesett katonák tiszteletére.",
+      ro: "Acest parc național din estul Anatoliei este celebru pentru pădurile de pini de mare altitudine. Servește și ca memorial pentru soldații căzuți în iarna anului 1914.",
+      en: "This national park in eastern Anatolia is famous for its high-altitude Scots pine forests. It also serves as a memorial for soldiers who died in the 1914 winter campaign.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark-Status seit 2004", "Fläche von ca. 22.519 Hektar", "Kiefern wachsen bis auf 2.500 m Höhe", "Befindet sich in der Provinz Kars"],
+      hu: ["2004-ben kapott nemzeti park rangot", "Területe kb. 22 519 hektár", "Fenyvesek 2500 m magasságig nőnek", "Kars tartomány területén található"],
+      ro: ["Statut de parc național din 2004", "Suprafață de circa 22.519 hectare", "Pini cresc la altitudini de 2.500 m", "Situat în provincia Kars din est"],
+      en: ["National park status since 2004", "Area of roughly 22,519 hectares", "Scots pines grow up to 2,500 m high", "Located within the Kars province"],
+    },
+  },
   {
     id: "karagol-sahara-life-v2",
     type: "park",
     parent: "TR-08",
     coords: [42.4500, 41.2333],
-    name: { de: "Karagöl-Sahara-Nationalpark", hu: "Karagöl-Sahara Nemzeti Park", ro: "Parcul Național Karagöl-Sahara", en: "Karagöl-Sahara National Park" },
+    name: { de: "Karagöl-Sahara-Nationalpark", hu: "Karagöl-Sahara Nemzeti Park", ro: "Parcul Național Karagöl-Sahara", en: "Karagöl-Sahara National Park",
+image: "/poi-images/karagol-sahara-life-v2.webp"
+},
     description: {
       de: "Ein zweigeteilter Nationalpark in der nordöstlichen Region Artvin, bestehend aus einem idyllischen Gletschersee und einer weiten Hochebene.",
       hu: "Egy két részre osztott nemzeti park az északkeleti Artvin régióban, amely egy idilli gleccsertóból és egy hatalmas fennsíkból áll.",
@@ -681,6 +967,18 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The Sahara plateau is known for traditional festivals.",
         "Rich biodiversity due to isolated location."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "In der Provinz Artvin gelegen, besticht dieser Park durch den idyllischen Karagöl-See und alpine Hochweiden. Er ist bekannt für seine dichten Mischwälder und Volksfeste.",
+      hu: "Artvin tartomány egyik legszebb vidéke, amely a gleccser eredetű Karagöl-tóról és a Sahara-fennsíkról híres. Sűrű erdők és hagyományos népi fesztiválok jellemzik.",
+      ro: "Situat în provincia Artvin, acest parc impresionează prin lacul Karagöl și pășunile alpine Sahara. Este cunoscut pentru pădurile sale de foioase și festivalurile locale.",
+      en: "Located in Artvin province, this park features the idyllic Karagöl lake and alpine Sahara plateau. It is renowned for its dense mixed forests and traditional festivals.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark seit dem Jahr 1994", "Umfasst eine Fläche von 3.229 Hektar", "See entstand durch Hangrutsch (1800er)", "Sahara-Volksfest findet jährlich statt"],
+      hu: ["1994 óta nemzeti park", "Területe 3229 hektár", "A tó az 1800-as években keletkezett", "Évente rendezik a Sahara fesztivált"],
+      ro: ["Parc național din anul 1994", "Suprafață totală de 3.229 hectare", "Lac format prin alunecare în sec. XIX", "Găzduiește anual festivalul Sahara"],
+      en: ["National park status since 1994", "Covers an area of 3,229 hectares", "Lake formed by landslide in the 1800s", "Hosts the annual Artvin Sahara Festival"],
+    },
   }
 ];

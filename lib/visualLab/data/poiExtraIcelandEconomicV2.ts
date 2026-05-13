@@ -4,7 +4,9 @@ export const icelandEconomicV2: POI[] = [
   {
     id: "iceland-hellisheidi-power-station-economic-v2",
     type: "industry",
-    name: { de: "Geothermiekraftwerk Hellisheiði", hu: "Hellisheiði geotermikus erőmű", ro: "Centrala geotermală Hellisheiði", en: "Hellisheiði Geothermal Power Station" },
+    name: { de: "Geothermiekraftwerk Hellisheiði", hu: "Hellisheiði geotermikus erőmű", ro: "Centrala geotermală Hellisheiði", en: "Hellisheiði Geothermal Power Station",
+image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp"
+},
     coords: [-21.402, 64.037],
     coordinates: { lat: 64.037, lng: -21.402 },
     description: {
@@ -19,11 +21,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 2006", "Capacitate electrică de 303 MW", "Putere termică de 400 MW", "Utilizează tehnologia Carbfix pentru stocarea CO2"],
       en: ["Commissioned in 2006", "Electricity capacity of 303 MW", "Thermal output of 400 MW", "Uses Carbfix technology for carbon storage"],
     },
-    imageHint: "Hellisheidi Geothermal Power Plant aerial view", image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp"},
-  {
+imageHint: "Hellisheidi Geothermal Power Plant aerial view",
+    descriptionAdvanced: {
+      de: "Dieses Kraftwerk am Vulkan Hengill ist eines der weltweit größten geothermischen Anlagen und kombiniert Stromerzeugung mit Fernwärme für die Hauptstadtregion Reykjavík.",
+      hu: "A Hengill-vulkán lábánál fekvő erőmű a világ egyik legnagyobb geotermikus létesítménye, amely elektromos áramot és távhőt is termel a fővárosi régió számára.",
+      ro: "Situată lângă vulcanul Hengill, această centrală este una dintre cele mai mari facilități geotermale din lume, furnizând energie și apă caldă pentru zona Reykjavík.",
+      en: "Located near the Hengill volcano, this facility is one of the world's largest geothermal power stations, producing both electricity and hot water for the capital area.",
+    },
+    factsAdvanced: {
+      de: ["303 MW elektrische Leistung", "133 MW thermische Leistung", "Inbetriebnahme im Jahr 2006", "Nutzt 30 Bohrlöcher bis 3000m Tiefe"],
+      hu: ["303 MW elektromos kapacitás", "133 MW hőenergia termelés", "2006-ban kezdték meg a működést", "30 darab, 3000 méter mély fúrás"],
+      ro: ["Capacitate de 303 MW electrici", "Capacitate de 133 MW termici", "Dată în folosință în anul 2006", "Utilizează 30 de puțuri la 3000m"],
+      en: ["303 MW electrical capacity", "133 MW thermal capacity", "Commissioned in 2006", "Uses 30 wells up to 3000m deep"],
+    },
+    image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp",
+},  {
     id: "iceland-nesjavellir-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Nesjavellir", hu: "Nesjavellir erőmű", ro: "Centrala Nesjavellir", en: "Nesjavellir Power Station" },
+    name: { de: "Kraftwerk Nesjavellir", hu: "Nesjavellir erőmű", ro: "Centrala Nesjavellir", en: "Nesjavellir Power Station",
+image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp"
+},
     coords: [-21.253, 64.108],
     coordinates: { lat: 64.108, lng: -21.253 },
     description: {
@@ -38,11 +55,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Construită între 1987 și 1990", "Produce 120 MW de energie electrică", "Livrează 1.100 litri de apă caldă pe secundă", "Situată în zona vulcanică activă Hengill"],
       en: ["Construction lasted from 1987 to 1990", "Produces 120 MW of electrical energy", "Supplies 1,100 liters of hot water per second", "Located in the active Hengill volcanic area"],
     },
-    imageHint: "Nesjavellir Power Station pipes and steam", image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp"},
-  {
+imageHint: "Nesjavellir Power Station pipes and steam",
+    descriptionAdvanced: {
+      de: "Das 1990 eröffnete Kraftwerk Nesjavellir nutzt die Hitze des Hengill-Vulkansystems zur Erzeugung von Strom und versorgt Reykjavík über eine 27 km lange Leitung mit Heißwasser.",
+      hu: "Az 1990-ben átadott Nesjavellir erőmű a Hengill vulkáni rendszer hőjét használja, és egy 27 km hosszú vezetéken keresztül látja el Reykjavíkot forró vízzel.",
+      ro: "Inaugurată în 1990, centrala Nesjavellir folosește căldura sistemului Hengill pentru a genera electricitate și apă fierbinte prin conducte de 27 km.",
+      en: "Opened in 1990, the Nesjavellir station harnesses heat from the Hengill volcanic system to provide electricity and hot water via a 27 km pipeline.",
+    },
+    factsAdvanced: {
+      de: ["120 MW elektrische Leistung", "300 MW thermische Leistung", "Wassertemperatur ca. 82-85 °C", "Zweitgrößte Geothermieanlage Islands"],
+      hu: ["120 MW elektromos teljesítmény", "300 MW termikus kapacitás", "82-85 °C-os vízszállítás", "Izland második legnagyobb geotermikus műve"],
+      ro: ["120 MW putere electrică", "300 MW putere termică", "Temperatura apei de 82-85 °C", "A doua cea mai mare centrală geotermală"],
+      en: ["120 MW electrical power", "300 MW thermal capacity", "Water temperature 82-85 °C", "Second largest geothermal plant in Iceland"],
+    },
+    image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp",
+},  {
     id: "iceland-karahnjukar-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Kárahnjúkar", hu: "Kárahnjúkar vízerőmű", ro: "Centrala hidroelectrică Kárahnjúkar", en: "Kárahnjúkar Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Kárahnjúkar", hu: "Kárahnjúkar vízerőmű", ro: "Centrala hidroelectrică Kárahnjúkar", en: "Kárahnjúkar Hydropower Plant",
+image: "/poi-images/iceland-karahnjukar-hydropower-plant-economic-v2.webp"
+},
     coords: [-15.811, 64.945],
     coordinates: { lat: 64.945, lng: -15.811 },
     description: {
@@ -57,11 +89,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în folosință în 2007", "Are o capacitate de 690 MW", "Înălțimea barajului este de 193 de metri", "Utilizează râuri glaciare de la Vatnajökull"],
       en: ["Commissioned in 2007", "Has a capacity of 690 MW", "Dam height of 193 meters", "Utilizes glacial rivers from Vatnajökull"],
     },
-    imageHint: "Karahnjukar dam and reservoir Iceland", image: "/poi-images/iceland-karahnjukar-hydropower-plant-economic-v2.webp"},
-  {
+imageHint: "Karahnjukar dam and reservoir Iceland",
+    descriptionAdvanced: {
+      de: "Dieses gewaltige Wasserkraftwerk im Osten Islands nutzt den Abfluss von Gletschern, um Strom exklusiv für das Alcoa-Aluminiumwerk in Reyðarfjörður zu erzeugen.",
+      hu: "Ez a kelet-izlandi óriási vízerőmű a gleccserfolyók energiáját hasznosítja, hogy kizárólag a Reyðarfjörður melletti Alcoa alumíniumkohót lássa el árammal.",
+      ro: "Această hidrocentrală masivă din estul Islandei folosește apele glaciare pentru a genera energie exclusiv pentru topitoria de aluminiu Alcoa.",
+      en: "This massive hydropower plant in East Iceland utilizes glacial runoff to generate electricity exclusively for the Alcoa aluminium smelter in Reyðarfjörður.",
+    },
+    factsAdvanced: {
+      de: ["690 MW installierte Leistung", "193 Meter hohe Hauptstaumauer", "73 km lange Tunnelvortriebe", "Eröffnung im Jahr 2007"],
+      hu: ["690 MW beépített teljesítmény", "193 méter magas fő gát", "73 km hosszúságú alagútrendszer", "2007-es hivatalos megnyitó"],
+      ro: ["690 MW putere instalată", "Baraj principal de 193 metri înălțime", "73 km de tuneluri subterane", "Inaugurată în anul 2007"],
+      en: ["690 MW installed capacity", "193-meter high main dam", "73 km of tunnels", "Official opening in 2007"],
+    },
+    image: "/poi-images/iceland-karahnjukar-hydropower-plant-economic-v2.webp",
+},  {
     id: "iceland-straumsvik-aluminium-smelter-economic-v2",
     type: "factory",
-    name: { de: "Aluminiumhütte Straumsvík", hu: "Straumsvík alumíniumkohó", ro: "Topitoria de aluminiu Straumsvík", en: "Straumsvík Aluminium Smelter" },
+    name: { de: "Aluminiumhütte Straumsvík", hu: "Straumsvík alumíniumkohó", ro: "Topitoria de aluminiu Straumsvík", en: "Straumsvík Aluminium Smelter",
+image: "/poi-images/iceland-straumsvik-aluminium-smelter-economic-v2.webp"
+},
     coords: [-22.03, 64.043],
     coordinates: { lat: 64.043, lng: -22.03 },
     description: {
@@ -76,11 +123,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Operată de Rio Tinto", "Producție anuală de aproximativ 210.000 tone", "Prima fabrică din Islanda care a primit certificarea ISO 14001", "Utilizează exclusiv energie regenerabilă"],
       en: ["Operated by Rio Tinto", "Annual production of approx. 210,000 tonnes", "First plant in Iceland to receive ISO 14001 certification", "Uses exclusively renewable energy"],
     },
-    imageHint: "Straumsvik aluminium smelter coast Iceland", image: "/poi-images/iceland-straumsvik-aluminium-smelter-economic-v2.webp"},
-  {
+imageHint: "Straumsvik aluminium smelter coast Iceland",
+    descriptionAdvanced: {
+      de: "Die Anlage in Straumsvík war das erste Aluminiumwerk Islands und markierte 1969 den Beginn der großflächigen industriellen Nutzung der heimischen Wasserkraftreserven.",
+      hu: "A straumsvíki üzem volt Izland első alumíniumkohója, amely 1969-ben mérföldkövet jelentett a hazai vízerőforrások nagyipari felhasználásában.",
+      ro: "Unitatea din Straumsvík a fost prima topitorie de aluminiu din Islanda, marcând în 1969 începutul utilizării industriale a resurselor hidroenergetice.",
+      en: "The Straumsvík facility was Iceland's first aluminium smelter, marking the 1969 beginning of large-scale industrial use of domestic hydropower resources.",
+    },
+    factsAdvanced: {
+      de: ["210.000 Tonnen Jahreskapazität", "Betrieben von Rio Tinto Alcan", "Eigener Hafen für Rohstoffimport", "Gegründet im Jahr 1969"],
+      hu: ["210 000 tonna éves kapacitás", "Rio Tinto Alcan az üzemeltető", "Saját kikötő az alapanyagoknak", "1969-es alapítási év"],
+      ro: ["Capacitate de 210.000 tone pe an", "Operată de Rio Tinto Alcan", "Port propriu pentru materii prime", "Înființată în anul 1969"],
+      en: ["210,000 tonnes annual capacity", "Operated by Rio Tinto Alcan", "Dedicated port for raw materials", "Founded in 1969"],
+    },
+    image: "/poi-images/iceland-straumsvik-aluminium-smelter-economic-v2.webp",
+},  {
     id: "iceland-fjardaal-aluminium-smelter-economic-v2",
     type: "factory",
-    name: { de: "Aluminiumhütte Fjardaál", hu: "Fjardaál alumíniumkohó", ro: "Topitoria de aluminiu Fjardaál", en: "Fjardaál Aluminium Smelter" },
+    name: { de: "Aluminiumhütte Fjardaál", hu: "Fjardaál alumíniumkohó", ro: "Topitoria de aluminiu Fjardaál", en: "Fjardaál Aluminium Smelter",
+image: "/poi-images/iceland-fjardaal-aluminium-smelter-economic-v2.webp"
+},
     coords: [-14.161, 65.027],
     coordinates: { lat: 65.027, lng: -14.161 },
     description: {
@@ -95,11 +157,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Începerea producției în 2007", "Capacitate de 360.000 de tone pe an", "Angajează direct aproximativ 450 de persoane", "Cel mai mare angajator privat din estul Islandei"],
       en: ["Start of production in 2007", "Capacity of 360,000 tonnes per year", "Employs approximately 450 people directly", "Largest private employer in East Iceland"],
     },
-    imageHint: "Alcoa Fjardaal smelter Reydarfjordur Iceland", image: "/poi-images/iceland-fjardaal-aluminium-smelter-economic-v2.webp"},
-  {
+imageHint: "Alcoa Fjardaal smelter Reydarfjordur Iceland",
+    descriptionAdvanced: {
+      de: "Fjardaál ist eines der modernsten Aluminiumwerke weltweit. Es liegt im Osten Islands und ist der Hauptabnehmer der Energie aus dem Kárahnjúkar-Kraftwerk.",
+      hu: "A Fjardaál a világ egyik legmodernebb alumíniumkohója Kelet-Izlandon, amely a Kárahnjúkar vízerőmű által termelt energia elsődleges felhasználója.",
+      ro: "Fjardaál este una dintre cele mai moderne topitorii de aluminiu din lume, situată în estul Islandei și fiind principalul consumator al centralei Kárahnjúkar.",
+      en: "Fjardaál is one of the world's most modern aluminium smelters. Located in East Iceland, it is the primary consumer of energy from the Kárahnjúkar plant.",
+    },
+    factsAdvanced: {
+      de: ["346.000 Tonnen Jahresproduktion", "Eigentümer ist Alcoa", "90% Exportquote des Werks", "Inbetriebnahme im Jahr 2007"],
+      hu: ["346 000 tonna éves termelés", "Az Alcoa tulajdonában van", "A termelés 90%-a exportra megy", "2007-es üzembe helyezés"],
+      ro: ["346.000 tone producție anuală", "Deținută de compania Alcoa", "90% din producție este exportată", "Pornirea producției în 2007"],
+      en: ["346,000 tonnes annual production", "Owned by Alcoa", "90% export rate of production", "Commissioned in 2007"],
+    },
+    image: "/poi-images/iceland-fjardaal-aluminium-smelter-economic-v2.webp",
+},  {
     id: "iceland-grundartangi-aluminium-smelter-economic-v2",
     type: "industry",
-    name: { de: "Industriezentrum Grundartangi", hu: "Grundartangi ipari központ", ro: "Centrul industrial Grundartangi", en: "Grundartangi Industrial Center" },
+    name: { de: "Industriezentrum Grundartangi", hu: "Grundartangi ipari központ", ro: "Centrul industrial Grundartangi", en: "Grundartangi Industrial Center",
+image: "/poi-images/iceland-grundartangi-aluminium-smelter-economic-v2.webp"
+},
     coords: [-21.782, 64.359],
     coordinates: { lat: 64.359, lng: -21.782 },
     description: {
@@ -114,11 +191,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Uzina de aluminiu este operată de Norðurál", "Uzina de ferosiliciu aparține Elkem", "Port propriu de adâncime pentru export", "Produce peste 300.000 de tone de aluminiu anual"],
       en: ["Aluminium plant operated by Norðurál", "Ferrosilicon plant owned by Elkem", "Has its own deep-water port for exports", "Produces over 300,000 tonnes of aluminium annually"],
     },
-    imageHint: "Grundartangi industrial site Hvalfjordur", image: "/poi-images/iceland-grundartangi-aluminium-smelter-economic-v2.webp"},
-  {
+imageHint: "Grundartangi industrial site Hvalfjordur",
+    descriptionAdvanced: {
+      de: "Dieses Industriezentrum nördlich von Reykjavík beherbergt ein bedeutendes Aluminiumwerk und eine Ferrosiliziumanlage, die von der günstigen Geothermie profitieren.",
+      hu: "Ez a Reykjavíktól északra fekvő ipari központ egy jelentős alumíniumkohónak és egy ferroszilícium-üzemnek ad otthont, kihasználva az olcsó energiát.",
+      ro: "Acest centru industrial la nord de Reykjavík găzduiește o topitorie importantă de aluminiu și o fabrică de ferosiliciu, profitând de energia geotermală.",
+      en: "This industrial hub north of Reykjavík houses a significant aluminium smelter and a ferrosilicon plant, benefiting from affordable geothermal energy.",
+    },
+    factsAdvanced: {
+      de: ["317.000 Tonnen Aluminium pro Jahr", "Besitz von Century Aluminum", "Gegründet im Jahr 1998", "Hafen mit 10m Tiefgang"],
+      hu: ["317 000 tonna alumínium évente", "A Century Aluminum tulajdona", "1998-ban alapított létesítmény", "10 méter mély kikötőhely"],
+      ro: ["317.000 tone de aluminiu pe an", "Deținut de Century Aluminum", "Fondat în anul 1998", "Port cu adâncime de 10m"],
+      en: ["317,000 tonnes of aluminium annually", "Owned by Century Aluminum", "Established in 1998", "Port with 10m draft"],
+    },
+    image: "/poi-images/iceland-grundartangi-aluminium-smelter-economic-v2.webp",
+},  {
     id: "iceland-reykjavik-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Reykjavík", hu: "Reykjavíki kikötő", ro: "Portul Reykjavík", en: "Reykjavík Port" },
+    name: { de: "Hafen von Reykjavík", hu: "Reykjavíki kikötő", ro: "Portul Reykjavík", en: "Reykjavík Port",
+image: "/poi-images/iceland-reykjavik-port-economic-v2.webp"
+},
     coords: [-21.942, 64.152],
     coordinates: { lat: 64.152, lng: -21.942 },
     description: {
@@ -133,11 +225,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Fondat la începutul secolului XX", "Format din Portul Vechi și Sundahöfn", "Cel mai important terminal de containere din țară", "Centrul industriei de observare a balenelor din Islanda"],
       en: ["Founded in the early 20th century", "Consists of the Old Harbour and Sundahöfn", "Most important container terminal in the country", "Center of the Icelandic whale watching industry"],
     },
-    imageHint: "Reykjavik Old Harbour with fishing boats", image: "/poi-images/iceland-reykjavik-port-economic-v2.webp"},
-  {
+imageHint: "Reykjavik Old Harbour with fishing boats",
+    descriptionAdvanced: {
+      de: "Der Hafen von Reykjavík, insbesondere der Bereich Sundahöfn, ist das logistische Herz Islands und wickelt den Großteil der Importe und Containerfracht ab.",
+      hu: "Reykjavík kikötője, különösen a Sundahöfn terület, Izland logisztikai központja, ahol az importáruk és a konténeres forgalom döntő többségét kezelik.",
+      ro: "Portul Reykjavík, în special zona Sundahöfn, este inima logistică a Islandei, gestionând majoritatea importurilor și a transportului de containere.",
+      en: "Reykjavík Port, specifically the Sundahöfn area, is Iceland's logistical heart, handling the vast majority of imports and containerized freight.",
+    },
+    factsAdvanced: {
+      de: ["Islands größter Containerhafen", "Zentrum der isländischen Marine", "Über 150 Kreuzfahrtschiffe jährlich", "7 km Kailänge insgesamt"],
+      hu: ["Izland legnagyobb konténerkikötője", "Az izlandi haditengerészet bázisa", "Évente több mint 150 üdülőhajó", "7 km össz-rakparthossz"],
+      ro: ["Cel mai mare port de containere", "Baza marinei islandeze", "Peste 150 de nave de croazieră anual", "7 km lungime totală de chei"],
+      en: ["Largest container port in Iceland", "Base of the Icelandic Navy", "Over 150 cruise ships annually", "7 km total pier length"],
+    },
+    image: "/poi-images/iceland-reykjavik-port-economic-v2.webp",
+},  {
     id: "iceland-akureyri-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Akureyri", hu: "Akureyri kikötője", ro: "Portul Akureyri", en: "Akureyri Port" },
+    name: { de: "Hafen von Akureyri", hu: "Akureyri kikötője", ro: "Portul Akureyri", en: "Akureyri Port",
+image: "/poi-images/iceland-akureyri-port-economic-v2.webp"
+},
     coords: [-18.084, 65.688],
     coordinates: { lat: 65.688, lng: -18.084 },
     description: {
@@ -152,11 +259,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Bază importantă pentru pescuitul de mare adâncime", "Dispune de instalații moderne de procesare a peștelui", "Punct de oprire pentru peste 100 de nave de croazieră anual", "Port liber de gheață pe tot parcursul anului"],
       en: ["Significant base for deep-sea fishing", "Features modern fish processing facilities", "Host to over 100 cruise ships annually", "Ice-free harbour throughout the year"],
     },
-    imageHint: "Port of Akureyri with cruise ship", image: "/poi-images/iceland-akureyri-port-economic-v2.webp"},
-  {
+imageHint: "Port of Akureyri with cruise ship",
+    descriptionAdvanced: {
+      de: "Der Hafen von Akureyri ist der wichtigste Fischerei- und Logistikknotenpunkt Nordislands und ein zentrales Ziel für Kreuzfahrtschiffe in der Arktis.",
+      hu: "Akureyri kikötője Észak-Izland legfontosabb halászati és logisztikai csomópontja, valamint az arktiszi tengeri turizmus központi állomása.",
+      ro: "Portul Akureyri este cel mai important nod pescăresc și logistic din nordul Islandei și o destinație centrală pentru navele de croazieră arctice.",
+      en: "Akureyri Port is North Iceland's most important fishing and logistical hub, and a central destination for Arctic cruise tourism.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößter Kreuzfahrthafen Islands", "Tiefwasserbecken im Eyjafjörður", "Zentrum der Fischverarbeitung", "Hafen seit dem 16. Jahrhundert"],
+      hu: ["Izland második legnagyobb utaskikötője", "Mélyvízi horgonyzóhely az Eyjafjörður-ben", "Halmegmunkáló központ", "Kikötő a 16. század óta"],
+      ro: ["Al doilea port de croazieră al țării", "Ape adânci în fiordul Eyjafjörður", "Centru de procesare a peștelui", "Activ din secolul al XVI-lea"],
+      en: ["Second largest cruise port in Iceland", "Deep-water berth in Eyjafjörður", "Fish processing center", "Port since the 16th century"],
+    },
+    image: "/poi-images/iceland-akureyri-port-economic-v2.webp",
+},  {
     id: "iceland-grindavik-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Grindavík", hu: "Grindavíki kikötő", ro: "Portul Grindavík", en: "Grindavík Port" },
+    name: { de: "Hafen von Grindavík", hu: "Grindavíki kikötő", ro: "Portul Grindavík", en: "Grindavík Port",
+image: "/poi-images/iceland-grindavik-port-economic-v2.webp"
+},
     coords: [-22.433, 63.842],
     coordinates: { lat: 63.842, lng: -22.433 },
     description: {
@@ -171,11 +293,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Specializat în cod și pește sărat", "Centrul economic al peninsulei Reykjanes", "Portul de origine al unei flote mari de pescuit", "Instalații portuare modernizate din anii 1970"],
       en: ["Specializes in cod and salted fish", "Economic center of the Reykjanes peninsula", "Home port to a large fishing fleet", "Modernized harbour facilities since the 1970s"],
     },
-    imageHint: "Grindavik harbour with fishing fleet", image: "/poi-images/iceland-grindavik-port-economic-v2.webp"},
-  {
+imageHint: "Grindavik harbour with fishing fleet",
+    descriptionAdvanced: {
+      de: "Dieser Hafen an der Südküste der Reykjanes-Halbinsel gehört zu den ertragreichsten Fischereihäfen des Landes und liegt nahe der berühmten Blauen Lagune.",
+      hu: "A Reykjanes-félsziget déli partján fekvő kikötő az ország egyik legjövedelmezőbb halászati bázisa, a híres Kék Lagúna szomszédságában.",
+      ro: "Acest port de pe coasta de sud a peninsulei Reykjanes este unul dintre cele mai productive porturi de pescuit, situat lângă Laguna Albastră.",
+      en: "This port on the south coast of the Reykjanes Peninsula is among the country's most productive fishing hubs, located near the famous Blue Lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Einer der Top 3 Fischereihäfen", "Spezialisiert auf Kabeljaufang", "Basis für 100+ Fischerboote", "Liegt auf aktivem Vulkangebiet"],
+      hu: ["A top 3 halászati kikötő egyike", "Tőkehalhalászatra specializálódott", "Több mint 100 halászhajó bázisa", "Aktív vulkáni területen fekszik"],
+      ro: ["În top 3 porturi de pescuit", "Specializat în pescuitul de cod", "Bază pentru peste 100 de bărci", "Situat pe un teren vulcanic activ"],
+      en: ["One of top 3 fishing ports", "Specialized in cod fishing", "Base for 100+ fishing boats", "Located on active volcanic ground"],
+    },
+    image: "/poi-images/iceland-grindavik-port-economic-v2.webp",
+},  {
     id: "iceland-vestmannaeyjar-port-economic-v2",
     type: "port",
-    name: { de: "Hafen der Westmännerinseln", hu: "Vestmannaeyjar kikötője", ro: "Portul din Insulele Vestmann", en: "Vestmannaeyjar Port" },
+    name: { de: "Hafen der Westmännerinseln", hu: "Vestmannaeyjar kikötője", ro: "Portul din Insulele Vestmann", en: "Vestmannaeyjar Port",
+image: "/poi-images/iceland-vestmannaeyjar-port-economic-v2.webp"
+},
     coords: [-20.274, 63.443],
     coordinates: { lat: 63.443, lng: -20.274 },
     description: {
@@ -190,11 +327,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Amenințat de erupția Eldfell în 1973", "Răcirea lavei a salvat intrarea în port", "Centru pentru exportul de pește de înaltă calitate", "Unul dintre cele mai aglomerate porturi din Islanda"],
       en: ["Threatened by the Eldfell eruption in 1973", "Cooling of lava saved the harbour entrance", "Center for high-quality fish exports", "One of the busiest ports in Iceland"],
     },
-    imageHint: "Heimaey harbour entrance volcanic rocks", image: "/poi-images/iceland-vestmannaeyjar-port-economic-v2.webp"},
-  {
+imageHint: "Heimaey harbour entrance volcanic rocks",
+    descriptionAdvanced: {
+      de: "Der Hafen auf Heimaey ist durch einen Vulkanausbruch 1973 beinahe zerstört worden. Heute ist er wieder ein lebenswichtiger Pfeiler der isländischen Wirtschaft.",
+      hu: "A Heimaey szigetén található kikötőt az 1973-as vulkánkitörés majdnem megsemmisítette. Ma ismét az izlandi gazdaság egyik létfontosságú pillére.",
+      ro: "Portul de pe insula Heimaey a fost aproape distrus de erupția din 1973. Astăzi este din nou un pilon vital al economiei islandeze.",
+      en: "The port on Heimaey island was nearly destroyed by the 1973 volcanic eruption. Today, it is once again a vital pillar of the Icelandic economy.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Fischereihafen für Kapelan", "Einziger sicherer Hafen an der Südküste", "Vulkanausbruch 1973 verengte Einfahrt", "Basis der Heringsflotte"],
+      hu: ["A legfontosabb csuklyás hal kikötő", "Az egyetlen biztonságos déli kikötő", "Az 1973-as láva szűkítette le a bejáratot", "A heringhalász-flotta bázisa"],
+      ro: ["Cel mai important port pentru capelin", "Singurul port sigur de pe coasta de sud", "Erupția din 1973 a îngustat intrarea", "Bază pentru flota de hering"],
+      en: ["Key port for capelin fishing", "Only safe harbor on the south coast", "1973 eruption narrowed the entrance", "Base of the herring fleet"],
+    },
+    image: "/poi-images/iceland-vestmannaeyjar-port-economic-v2.webp",
+},  {
     id: "iceland-keflavik-airport-economic-v2",
     type: "industry",
-    name: { de: "Flughafen Keflavík", hu: "Keflavík repülőtér", ro: "Aeroportul Keflavík", en: "Keflavík International Airport" },
+    name: { de: "Flughafen Keflavík", hu: "Keflavík repülőtér", ro: "Aeroportul Keflavík", en: "Keflavík International Airport",
+image: "/poi-images/iceland-keflavik-airport-economic-v2.webp"
+},
     coords: [-22.605, 63.985],
     coordinates: { lat: 63.985, lng: -22.605 },
     description: {
@@ -209,11 +361,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Deschis în 1943 ca bază militară", "Procesează peste 7 milioane de pasageri anual", "Hub central pentru Icelandair", "Cel mai important angajator din regiunea Suðurnes"],
       en: ["Opened in 1943 as a military base", "Processes over 7 million passengers annually", "Central hub for Icelandair", "Most important employer in the Suðurnes region"],
     },
-    imageHint: "Keflavik International Airport terminal exterior", image: "/poi-images/iceland-keflavik-airport-economic-v2.webp"},
-  {
+imageHint: "Keflavik International Airport terminal exterior",
+    descriptionAdvanced: {
+      de: "Keflavík ist das Tor zur Welt für Island. Der ehemalige NATO-Stützpunkt dient heute als moderner Hub für den transatlantischen Flugverkehr.",
+      hu: "Keflavík Izland kapuja a világra. Az egykori NATO-támaszpont ma modern csomópontként szolgál a transzatlanti légiforgalom számára.",
+      ro: "Keflavík este poarta Islandei către lume. Fosta bază NATO servește astăzi ca un nod modern pentru traficul aerian transatlantic.",
+      en: "Keflavík is Iceland's gateway to the world. The former NATO base now serves as a modern hub for transatlantic air travel.",
+    },
+    factsAdvanced: {
+      de: ["Leifur Eiríksson Terminal (1987)", "9,8 Millionen Passagiere (Peak 2018)", "Zwei Landebahnen über 3000m", "45 km Entfernung von Reykjavík"],
+      hu: ["Leifur Eiríksson terminál (1987)", "9,8 millió utas (2018-as csúcs)", "Két, 3000 méternél hosszabb kifutó", "45 km távolság Reykjavíktól"],
+      ro: ["Terminalul Leifur Eiríksson (1987)", "9,8 milioane de pasageri (vârf 2018)", "Două piste de peste 3000m", "La 45 km de Reykjavík"],
+      en: ["Leifur Eiríksson Terminal (1987)", "9.8 million passengers (2018 peak)", "Two runways over 3000m", "45 km from Reykjavík"],
+    },
+    image: "/poi-images/iceland-keflavik-airport-economic-v2.webp",
+},  {
     id: "iceland-hveragerdi-greenhouses-economic-v2",
     type: "industry",
-    name: { de: "Gewächshäuser von Hveragerði", hu: "Hveragerði üvegházai", ro: "Serele din Hveragerði", en: "Hveragerði Greenhouses" },
+    name: { de: "Gewächshäuser von Hveragerði", hu: "Hveragerði üvegházai", ro: "Serele din Hveragerði", en: "Hveragerði Greenhouses",
+image: "/poi-images/iceland-hveragerdi-greenhouses-economic-v2.webp"
+},
     coords: [-21.187, 63.999],
     coordinates: { lat: 63.999, lng: -21.187 },
     description: {
@@ -228,11 +395,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Utilizează izvoare termale naturale pentru încălzire", "Centrul horticulturii islandeze", "Aici se cultivă chiar și banane și papaya", "Locație importantă pentru cercetarea agricolă"],
       en: ["Uses natural hot springs for heating", "Center of Icelandic horticulture", "Even bananas and papayas are grown here", "Important site for agricultural research"],
     },
-    imageHint: "Hveragerdi greenhouses lit up at night", image: "/poi-images/iceland-hveragerdi-greenhouses-economic-v2.webp"},
-  {
+imageHint: "Hveragerdi greenhouses lit up at night",
+    descriptionAdvanced: {
+      de: "Dank reichhaltiger geothermischer Energie ist Hveragerði das Zentrum des isländischen Gartenbaus, wo in Gewächshäusern sogar Südfrüchte und Blumen gedeihen.",
+      hu: "A bőséges geotermikus energiának köszönhetően Hveragerði az izlandi kertészet központja, ahol az üvegházakban még déligyümölcsök és virágok is teremnek.",
+      ro: "Datorită energiei geotermale abundente, Hveragerði este centrul horticulturii islandeze, unde în sere cresc chiar și fructe tropicale și flori.",
+      en: "Thanks to abundant geothermal energy, Hveragerði is the hub of Icelandic horticulture, where greenhouses produce even tropical fruits and flowers.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichste Bananenplantage Europas", "Geothermische Heizung seit 1920", "Zentrum für Gartenbauwissenschaft", "Über 50.000 m² Gewächshausfläche"],
+      hu: ["Európa legészakibb banánültetvénye", "Geotermikus fűtés 1920 óta", "Kertészeti tudományi központ", "Több mint 50 000 m² üvegház"],
+      ro: ["Cea mai nordică plantație de banane", "Încălzire geotermală din 1920", "Centru pentru științe horticole", "Peste 50.000 m² de sere"],
+      en: ["Europe's northernmost banana grove", "Geothermal heating since 1920", "Center for horticultural science", "Over 50,000 m² of greenhouse area"],
+    },
+    image: "/poi-images/iceland-hveragerdi-greenhouses-economic-v2.webp",
+},  {
     id: "iceland-selfoss-dairy-plant-economic-v2",
     type: "factory",
-    name: { de: "Molkerei Selfoss", hu: "Selfossi tejüzem", ro: "Fabrica de lactate Selfoss", en: "Selfoss Dairy Plant" },
+    name: { de: "Molkerei Selfoss", hu: "Selfossi tejüzem", ro: "Fabrica de lactate Selfoss", en: "Selfoss Dairy Plant",
+image: "/poi-images/iceland-selfoss-dairy-plant-economic-v2.webp"
+},
     coords: [-20.999, 63.94],
     coordinates: { lat: 63.94, lng: -20.999 },
     description: {
@@ -247,11 +429,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Face parte din cooperativa Mjólkursamsalan (MS)", "Locul de producție al celebrului Skyr islandez", "Procesează peste 80 de milioane de litri de lapte anual", "Pilon central al economiei regionale"],
       en: ["Part of the Mjólkursamsalan (MS) cooperative", "Production site for the famous Icelandic Skyr", "Processes over 80 million liters of milk annually", "Central pillar of the regional economy"],
     },
-    imageHint: "Selfoss dairy processing plant exterior", image: "/poi-images/iceland-selfoss-dairy-plant-economic-v2.webp"},
-  {
+imageHint: "Selfoss dairy processing plant exterior",
+    descriptionAdvanced: {
+      de: "Die Molkerei in Selfoss ist die größte des Landes und verarbeitet Milch von Bauernhöfen aus dem gesamten Süden, was die Stadt zum Agrarzentrum Islands macht.",
+      hu: "A selfossi tejüzem az ország legnagyobbja, amely Dél-Izland gazdaságainak tejét dolgozza fel, ezzel a várost az ország agrárközpontjává téve.",
+      ro: "Fabrica de lactate din Selfoss este cea mai mare din țară, procesând lapte de la fermele din sud, făcând din oraș centrul agricol al Islandei.",
+      en: "The dairy plant in Selfoss is the country's largest, processing milk from farms across the south, making the town Iceland's agricultural hub.",
+    },
+    factsAdvanced: {
+      de: ["Betrieben von Mjólkursamsalan (MS)", "Hauptproduktionsort für Skyr", "Verarbeitet 80+ Mio. Liter Milch", "Größter Arbeitgeber der Region"],
+      hu: ["A Mjólkursamsalan (MS) üzemelteti", "A Skyr fő gyártási helyszíne", "Évi 80+ millió liter tej feldolgozása", "A régió legnagyobb munkáltatója"],
+      ro: ["Operată de Mjólkursamsalan (MS)", "Locul principal de producție Skyr", "Procesează peste 80 mil. litri lapte", "Cel mai mare angajator regional"],
+      en: ["Operated by Mjólkursamsalan (MS)", "Main production site for Skyr", "Processes 80+ million liters of milk", "Largest employer in the region"],
+    },
+    image: "/poi-images/iceland-selfoss-dairy-plant-economic-v2.webp",
+},  {
     id: "iceland-svartsengi-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Svartsengi", hu: "Svartsengi erőmű", ro: "Centrala Svartsengi", en: "Svartsengi Power Station" },
+    name: { de: "Kraftwerk Svartsengi", hu: "Svartsengi erőmű", ro: "Centrala Svartsengi", en: "Svartsengi Power Station",
+image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp"
+},
     coords: [-22.432, 63.878],
     coordinates: { lat: 63.878, lng: -22.432 },
     description: {
@@ -266,11 +463,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 1976", "Alimentează cu energie peninsula Reykjanes", "Apele reziduale umplu bazinul Lagunei Albastre", "Utilizează geotermia de la 2.000 de metri adâncime"],
       en: ["Commissioned in 1976", "Supplies energy to the Reykjanes peninsula", "Run-off water fills the Blue Lagoon basin", "Uses geothermal energy from 2,000 meters depth"],
     },
-    imageHint: "Svartsengi power plant near Blue Lagoon", image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp"},
-  {
+imageHint: "Svartsengi power plant near Blue Lagoon",
+    descriptionAdvanced: {
+      de: "Dieses Kraftwerk nahe Grindavík liefert Strom und heißes Wasser. Das mineralreiche Abwasser der Anlage schuf die weltberühmte Blaue Lagune.",
+      hu: "Ez a Grindavík közeli erőmű áramot és forró vizet szolgáltat. Az üzem ásványi anyagokban gazdag elfolyó vize hozta létre a híres Kék Lagúnát.",
+      ro: "Această centrală de lângă Grindavík furnizează curent și apă caldă. Apa reziduală bogată în minerale a creat celebra Lagună Albastră.",
+      en: "This power station near Grindavík provides electricity and hot water. Its mineral-rich runoff created the world-famous Blue Lagoon.",
+    },
+    factsAdvanced: {
+      de: ["75 MW elektrische Leistung", "150 MW thermische Leistung", "Erstes Kombikraftwerk der Welt", "Inbetriebnahme im Jahr 1976"],
+      hu: ["75 MW elektromos kapacitás", "150 MW termikus teljesítmény", "A világ első hibrid erőműve", "1976-os üzembe helyezés"],
+      ro: ["75 MW putere electrică", "150 MW putere termică", "Prima centrală combinată din lume", "Dată în folosință în anul 1976"],
+      en: ["75 MW electrical capacity", "150 MW thermal capacity", "World's first combined plant", "Commissioned in 1976"],
+    },
+    image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp",
+},  {
     id: "iceland-krafla-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Krafla", hu: "Krafla erőmű", ro: "Centrala Krafla", en: "Krafla Power Station" },
+    name: { de: "Kraftwerk Krafla", hu: "Krafla erőmű", ro: "Centrala Krafla", en: "Krafla Power Station",
+image: "/poi-images/iceland-krafla-power-station-economic-v2.webp"
+},
     coords: [-16.775, 65.703],
     coordinates: { lat: 65.703, lng: -16.775 },
     description: {
@@ -285,11 +497,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Deschiderea în 1977 a fost amânată de erupții", "Dispune de două turbine de 30 MW", "Prima centrală geotermală majoră din țară", "Situată direct deasupra unei camere magmatice"],
       en: ["Opening in 1977 delayed by volcanic eruptions", "Features two 30 MW turbines", "First major geothermal power plant in the country", "Located directly above a magma chamber"],
     },
-    imageHint: "Krafla geothermal power plant steam Iceland", image: "/poi-images/iceland-krafla-power-station-economic-v2.webp"},
-  {
+imageHint: "Krafla geothermal power plant steam Iceland",
+    descriptionAdvanced: {
+      de: "Im Norden Islands nutzt Krafla die enorme Hitze eines aktiven Vulkangebiets. Die Bauphase wurde durch die spektakulären Krafla-Feuer unterbrochen.",
+      hu: "Észak-Izlandon a Krafla egy aktív vulkáni terület hatalmas hőjét hasznosítja. Az építkezést a látványos Krafla-tüzek kitöréssorozata hátráltatta.",
+      ro: "În nordul Islandei, Krafla folosește căldura enormă a unei zone vulcanice active. Construcția a fost marcată de erupțiile Focurile Krafla.",
+      en: "In northern Iceland, Krafla harnesses the heat of an active volcanic area. Construction was interrupted by the spectacular Krafla Fires eruptions.",
+    },
+    factsAdvanced: {
+      de: ["60 MW installierte Leistung", "Eröffnung im Jahr 1977", "Nutzt Magma-nahe Hitzequellen", "Tiefe der Bohrlöcher bis 2100m"],
+      hu: ["60 MW beépített teljesítmény", "1977-ben nyitották meg", "Magma-közeli hőforrásokat használ", "A fúrások mélysége 2100 méterig"],
+      ro: ["60 MW putere instalată", "Deschisă în anul 1977", "Folosește surse de căldură magmatică", "Puțuri cu adâncime de până la 2100m"],
+      en: ["60 MW installed capacity", "Opened in 1977", "Uses near-magma heat sources", "Well depth up to 2100m"],
+    },
+    image: "/poi-images/iceland-krafla-power-station-economic-v2.webp",
+},  {
     id: "iceland-burfell-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Búrfell", hu: "Búrfell vízerőmű", ro: "Centrala hidroelectrică Búrfell", en: "Búrfell Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Búrfell", hu: "Búrfell vízerőmű", ro: "Centrala hidroelectrică Búrfell", en: "Búrfell Hydropower Plant",
+image: "/poi-images/iceland-burfell-hydropower-plant-economic-v2.webp"
+},
     coords: [-19.818, 64.106],
     coordinates: { lat: 64.106, lng: -19.818 },
     description: {
@@ -305,11 +532,25 @@ export const icelandEconomicV2: POI[] = [
       en: ["Completed in 1969", "Installed capacity of 270 MW", "Main supplier for industry in the southwest", "Features a modern expansion (Búrfell II)"],
     },
     imageHint: "Burfell hydropower plant and Thjorsa river",
+    descriptionAdvanced: {
+      de: "Búrfell ist ein Schlüsselkraftwerk am Fluss Þjórsá. Es wurde ursprünglich gebaut, um den Energiebedarf des ersten Aluminiumwerks in Straumsvík zu decken.",
+      hu: "A Búrfell a Þjórsá folyó kulcsfontosságú vízerőműve. Eredetileg azért építették, hogy ellássa a straumsvíki alumíniumkohót energiával.",
+      ro: "Búrfell este o hidrocentrală cheie pe râul Þjórsá. A fost construită inițial pentru a alimenta prima topitorie de aluminiu din Straumsvík.",
+      en: "Búrfell is a key hydropower plant on the Þjórsá river. It was originally built to supply energy for the first aluminium smelter in Straumsvík.",
+    },
+    factsAdvanced: {
+      de: ["270 MW Gesamtkapazität", "Inbetriebnahme im Jahr 1969", "Unterirdisches Maschinenhaus", "Fallhöhe des Wassers 115 Meter"],
+      hu: ["270 MW összkapacitás", "1969-es üzembe helyezés", "Föld alatti gépház", "A víz esési magassága 115 méter"],
+      ro: ["270 MW capacitate totală", "Dată în folosință în anul 1969", "Sală a mașinilor subterană", "Cădere de apă de 115 metri"],
+      en: ["270 MW total capacity", "Commissioned in 1969", "Underground powerhouse", "Water head of 115 meters"],
+    },
   },
   {
     id: "iceland-sultartangi-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Sultartangi", hu: "Sultartangi vízerőmű", ro: "Centrala hidroelectrică Sultartangi", en: "Sultartangi Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Sultartangi", hu: "Sultartangi vízerőmű", ro: "Centrala hidroelectrică Sultartangi", en: "Sultartangi Hydropower Plant",
+image: "/poi-images/iceland-sultartangi-hydropower-plant-economic-v2.webp"
+},
     coords: [-19.468, 64.187],
     coordinates: { lat: 64.187, lng: -19.468 },
     description: {
@@ -325,11 +566,25 @@ export const icelandEconomicV2: POI[] = [
       en: ["Commissioned in 1999", "Installed capacity of 120 MW", "Uses a 6 km long canal system", "Important node in the national power grid"],
     },
     imageHint: "Sultartangi hydropower plant dam and river",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Sultartangi nutzt den Zusammenfluss der Flüsse Þjórsá und Tungnaá und verfügt über einen der längsten Staudämme des Landes.",
+      hu: "A Sultartangi erőmű a Þjórsá és a Tungnaá folyók találkozásánál található, és az ország egyik leghosszabb gátjával rendelkezik.",
+      ro: "Centrala Sultartangi utilizează confluența râurilor Þjórsá și Tungnaá și deține unul dintre cele mai lungi baraje din țară.",
+      en: "The Sultartangi plant utilizes the confluence of the Þjórsá and Tungnaá rivers and features one of the country's longest dams.",
+    },
+    factsAdvanced: {
+      de: ["120 MW installierte Leistung", "6,1 km langer Staudamm", "Inbetriebnahme im Jahr 1999", "Zwei Francis-Turbinen im Einsatz"],
+      hu: ["120 MW beépített teljesítmény", "6,1 km hosszú gátrendszer", "1999-ben helyezték üzembe", "Két Francis-turbina működik"],
+      ro: ["120 MW putere instalată", "Baraj lung de 6,1 km", "Dată în folosință în anul 1999", "Două turbine Francis în uz"],
+      en: ["120 MW installed capacity", "6.1 km long dam", "Commissioned in 1999", "Two Francis turbines in use"],
+    },
   },
   {
     id: "iceland-sigalda-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Sigalda", hu: "Sigalda erőmű", ro: "Centrala Sigalda", en: "Sigalda Power Station" },
+    name: { de: "Kraftwerk Sigalda", hu: "Sigalda erőmű", ro: "Centrala Sigalda", en: "Sigalda Power Station",
+image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp"
+},
     coords: [-19.124, 64.175],
     coordinates: { lat: 64.175, lng: -19.124 },
     description: {
@@ -344,11 +599,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Construită între 1973 și 1977", "Putere de 150 MW", "Reglează fluxul de apă pentru centralele din aval", "Punct de plecare frecvent pentru tururi montane"],
       en: ["Built between 1973 and 1977", "Capacity of 150 MW", "Regulates water flow for downstream plants", "Common starting point for highland tours"],
     },
-    imageHint: "Sigalda power station in highlands", image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp"},
-  {
+imageHint: "Sigalda power station in highlands",
+    descriptionAdvanced: {
+      de: "Sigalda liegt im isländischen Hochland am Fluss Tungnaá. Das Kraftwerk war ein Pionierprojekt bei der Erschließung der gewaltigen Wasserreserven im Landesinneren.",
+      hu: "A Sigalda az izlandi felföldön, a Tungnaá folyón található. Az erőmű úttörő projekt volt a belső területek vízkészletének kiaknázásában.",
+      ro: "Sigalda se află în munții Islandei, pe râul Tungnaá. Centrala a fost un proiect pionier în exploatarea rezervelor de apă din interiorul țării.",
+      en: "Sigalda is located in the Icelandic highlands on the Tungnaá river. The plant was a pioneer project in tapping the vast inland water reserves.",
+    },
+    factsAdvanced: {
+      de: ["150 MW installierte Leistung", "Eröffnung im Jahr 1977", "Drei vertikale Francis-Turbinen", "Teil der Tungnaá-Kaskade"],
+      hu: ["150 MW beépített teljesítmény", "1977-es megnyitás", "Három függőleges Francis-turbina", "A Tungnaá-vízlépcső része"],
+      ro: ["150 MW putere instalată", "Inaugurată în anul 1977", "Trei turbine Francis verticale", "Parte din cascada Tungnaá"],
+      en: ["150 MW installed capacity", "Opened in 1977", "Three vertical Francis turbines", "Part of the Tungnaá cascade"],
+    },
+    image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp",
+},  {
     id: "iceland-hrauneyjafoss-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Hrauneyjafoss", hu: "Hrauneyjafoss vízerőmű", ro: "Hidrocentrala Hrauneyjafoss", en: "Hrauneyjafoss Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Hrauneyjafoss", hu: "Hrauneyjafoss vízerőmű", ro: "Hidrocentrala Hrauneyjafoss", en: "Hrauneyjafoss Hydropower Plant",
+image: "/poi-images/iceland-hrauneyjafoss-hydropower-plant-economic-v2.webp"
+},
     coords: [-19.264, 64.195],
     coordinates: { lat: 64.195, lng: -19.264 },
     description: {
@@ -364,11 +634,25 @@ export const icelandEconomicV2: POI[] = [
       en: ["Commissioned in 1981", "Capacity of 210 MW", "Utilizes three large Francis turbines", "Features distinctive architecture in the highlands"],
     },
     imageHint: "Hrauneyjafoss hydropower plant exterior",
+    descriptionAdvanced: {
+      de: "Dieses Hochlandkraftwerk ist eine der wichtigsten Stützen des isländischen Stromnetzes und nutzt die starke Strömung der Tungnaá kurz vor ihrer Mündung.",
+      hu: "Ez a felföldi vízerőmű az izlandi elektromos hálózat egyik legfontosabb bástyája, kihasználva a Tungnaá folyó torkolat előtti erős sodrását.",
+      ro: "Această hidrocentrală montană este un pilon important al rețelei electrice islandeze, folosind curentul puternic al râului Tungnaá.",
+      en: "This highland power plant is a major pillar of the Icelandic grid, utilizing the powerful flow of the Tungnaá river just before its mouth.",
+    },
+    factsAdvanced: {
+      de: ["210 MW installierte Leistung", "Inbetriebnahme im Jahr 1981", "Drei Generatoren zu je 70 MW", "88 Meter Fallhöhe des Wassers"],
+      hu: ["210 MW beépített teljesítmény", "1981-es üzembe helyezés", "Három darab 70 MW-os generátor", "88 méter esési magasság"],
+      ro: ["210 MW putere instalată", "Dată în folosință în anul 1981", "Trei generatoare de câte 70 MW", "Cădere de apă de 88 de metri"],
+      en: ["210 MW installed capacity", "Commissioned in 1981", "Three 70 MW generators", "88-meter water head"],
+    },
   },
   {
     id: "iceland-vatnsfell-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Vatnsfell", hu: "Vatnsfell erőmű", ro: "Centrala Vatnsfell", en: "Vatnsfell Power Station" },
+    name: { de: "Kraftwerk Vatnsfell", hu: "Vatnsfell erőmű", ro: "Centrala Vatnsfell", en: "Vatnsfell Power Station",
+image: "/poi-images/iceland-vatnsfell-hydropower-plant-economic-v2.webp"
+},
     coords: [-19.049, 64.198],
     coordinates: { lat: 64.198, lng: -19.049 },
     description: {
@@ -383,11 +667,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 2001", "Putere de 90 MW", "Controlată de la distanță din Reykjavík", "Parte importantă a sistemului Thjorsa-Tungnaa"],
       en: ["Commissioned in 2001", "Capacity of 90 MW", "Remote controlled from Reykjavík", "Key component of the Thjorsa-Tungnaa system"],
     },
-    imageHint: "Vatnsfell power plant highland landscape", image: "/poi-images/iceland-vatnsfell-hydropower-plant-economic-v2.webp"},
-  {
+imageHint: "Vatnsfell power plant highland landscape",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Vatnsfell liegt am Übergang zwischen Þórisvatn und dem Tungnaá-Gebiet und dient primär zur Spitzenlastabdeckung im Winter.",
+      hu: "A Vatnsfell erőmű a Þórisvatn tó és a Tungnaá terület közötti átmenetnél fekszik, és elsősorban a téli csúcsidőszaki igényeket szolgálja ki.",
+      ro: "Centrala Vatnsfell este situată la trecerea dintre lacul Þórisvatn și zona Tungnaá, servind în principal la acoperirea vârfului de consum iarna.",
+      en: "Vatnsfell power station sits at the transition between Lake Þórisvatn and the Tungnaá area, primarily used for peak winter loads.",
+    },
+    factsAdvanced: {
+      de: ["90 MW installierte Leistung", "Inbetriebnahme im Jahr 2001", "Nutzt 67 Meter Gefälle", "Zwei vertikale Francis-Turbinen"],
+      hu: ["90 MW beépített teljesítmény", "2001-ben adták át", "67 méteres szintkülönbséget használ", "Két függőleges Francis-turbina"],
+      ro: ["90 MW putere instalată", "Inaugurată în anul 2001", "Folosește o cădere de 67 metri", "Două turbine Francis verticale"],
+      en: ["90 MW installed capacity", "Commissioned in 2001", "Utilizes 67 meters of head", "Two vertical Francis turbines"],
+    },
+    image: "/poi-images/iceland-vatnsfell-hydropower-plant-economic-v2.webp",
+},  {
     id: "iceland-blonda-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Blöndustöð", hu: "Blöndustöð vízerőmű", ro: "Hidrocentrala Blöndustöð", en: "Blöndustöð Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Blöndustöð", hu: "Blöndustöð vízerőmű", ro: "Hidrocentrala Blöndustöð", en: "Blöndustöð Hydropower Plant",
+image: "/poi-images/iceland-blonda-hydropower-plant-economic-v2.webp"
+},
     coords: [-19.341, 65.414],
     coordinates: { lat: 65.414, lng: -19.341 },
     description: {
@@ -402,11 +701,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 1991", "Produce aproximativ 150 MW de energie", "Sala mașinilor este la 200 de metri sub pământ", "Prima centrală majoră din nordul Islandei"],
       en: ["Commissioned in 1991", "Generates approx. 150 MW of power", "The powerhouse is 200 meters underground", "First major power plant in North Iceland"],
     },
-    imageHint: "Blondustod hydropower plant dam area", image: "/poi-images/iceland-blonda-hydropower-plant-economic-v2.webp"},
-  {
+imageHint: "Blondustod hydropower plant dam area",
+    descriptionAdvanced: {
+      de: "Blöndustöð im Norden Islands ist eines der wenigen großen Wasserkraftwerke abseits des Südens und nutzt den aufgestauten Fluss Blanda zur Energiegewinnung.",
+      hu: "A Blöndustöð Észak-Izland kevés nagy vízerőművének egyike, amely a Blanda folyó felduzzasztott vizét használja energiatermelésre.",
+      ro: "Blöndustöð din nordul Islandei este una dintre puținele hidrocentrale mari din afara sudului, utilizând râul Blanda pentru energie.",
+      en: "Blöndustöð in northern Iceland is one of the few large hydropower plants outside the south, utilizing the dammed Blanda river for energy.",
+    },
+    factsAdvanced: {
+      de: ["150 MW installierte Leistung", "Inbetriebnahme im Jahr 1991", "287 Meter Fallhöhe des Wassers", "Unterirdisches Maschinenhaus"],
+      hu: ["150 MW beépített teljesítmény", "1991-ben helyezték üzembe", "287 méter esési magasság", "Föld alatti gépház"],
+      ro: ["150 MW putere instalată", "Dată în folosință în anul 1991", "Cădere de apă de 287 metri", "Sală a mașinilor subterană"],
+      en: ["150 MW installed capacity", "Commissioned in 1991", "287-meter water head", "Underground powerhouse"],
+    },
+    image: "/poi-images/iceland-blonda-hydropower-plant-economic-v2.webp",
+},  {
     id: "iceland-ljosafoss-hydropower-plant-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Ljósafoss", hu: "Ljósafoss erőmű", ro: "Centrala Ljósafoss", en: "Ljósafoss Power Station" },
+    name: { de: "Kraftwerk Ljósafoss", hu: "Ljósafoss erőmű", ro: "Centrala Ljósafoss", en: "Ljósafoss Power Station",
+image: "/poi-images/iceland-ljosafoss-hydropower-plant-economic-v2.webp"
+},
     coords: [-21.011, 64.15],
     coordinates: { lat: 64.15, lng: -21.011 },
     description: {
@@ -421,11 +735,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 1937", "Putere instalată de 15 MW", "Găzduiește un muzeu al istoriei electricității", "Monument tehnic important al țării"],
       en: ["Commissioned in 1937", "Installed capacity of 15 MW", "Houses a museum on the history of electricity", "Important technical monument of the country"],
     },
-    imageHint: "Ljosafoss power station at Sog river", image: "/poi-images/iceland-ljosafoss-hydropower-plant-economic-v2.webp"},
-  {
+imageHint: "Ljosafoss power station at Sog river",
+    descriptionAdvanced: {
+      de: "Ljósafoss am Fluss Sog ist eines der ältesten Wasserkraftwerke Islands und war ein Meilenstein in der Elektrifizierung der Hauptstadt Reykjavík.",
+      hu: "A Sog folyónál lévő Ljósafoss Izland egyik legrégebbi vízerőműve, amely mérföldkő volt Reykjavík főváros villamosításában.",
+      ro: "Ljósafoss de pe râul Sog este una dintre cele mai vechi hidrocentrale din Islanda și a fost un punct de reper în electrificarea capitalei.",
+      en: "Ljósafoss on the Sog river is one of Iceland's oldest hydropower plants and was a milestone in the electrification of Reykjavík.",
+    },
+    factsAdvanced: {
+      de: ["15 MW installierte Leistung", "Inbetriebnahme im Jahr 1937", "Nutzt den Ausfluss des Þingvallavatn", "Historisches Kraftwerksgebäude"],
+      hu: ["15 MW beépített teljesítmény", "1937-ben adták át", "A Þingvallavatn kifolyását használja", "Történelmi erőműépület"],
+      ro: ["15 MW putere instalată", "Dată în folosință în anul 1937", "Folosește ieșirea lacului Þingvallavatn", "Clădire istorică a centralei"],
+      en: ["15 MW installed capacity", "Commissioned in 1937", "Uses outflow from Lake Þingvallavatn", "Historical power plant building"],
+    },
+    image: "/poi-images/iceland-ljosafoss-hydropower-plant-economic-v2.webp",
+},  {
     id: "iceland-theistareykir-geothermal-power-economic-v2",
     type: "industry",
-    name: { de: "Geothermiekraftwerk Þeistareykir", hu: "Þeistareykir geotermikus erőmű", ro: "Centrala geotermală Þeistareykir", en: "Þeistareykir Geothermal Power Station" },
+    name: { de: "Geothermiekraftwerk Þeistareykir", hu: "Þeistareykir geotermikus erőmű", ro: "Centrala geotermală Þeistareykir", en: "Þeistareykir Geothermal Power Station",
+image: "/poi-images/iceland-theistareykir-geothermal-power-economic-v2.webp"
+},
     coords: [-16.963, 65.885],
     coordinates: { lat: 65.885, lng: -16.963 },
     description: {
@@ -441,11 +770,25 @@ export const icelandEconomicV2: POI[] = [
       en: ["First phase commissioned in 2017", "Current capacity of 90 MW", "Developed with a focus on environmental sustainability", "Supports local silicon production"],
     },
     imageHint: "Theistareykir geothermal power plant modern architecture",
+    descriptionAdvanced: {
+      de: "Dieses moderne Geothermiekraftwerk im Norden Islands wurde unter strengen ökologischen Auflagen in die sensible Vulkanlandschaft integriert.",
+      hu: "Ez a modern észak-izlandi geotermikus erőmű szigorú ökológiai előírások mellett épült be az érzékeny vulkáni tájba.",
+      ro: "Această centrală geotermală modernă din nordul Islandei a fost integrată în peisajul vulcanic sensibil sub norme ecologice stricte.",
+      en: "This modern geothermal power station in northern Iceland was integrated into the sensitive volcanic landscape under strict ecological rules.",
+    },
+    factsAdvanced: {
+      de: ["90 MW installierte Leistung", "Eröffnung der 1. Phase 2017", "18 Bohrlöcher in Betrieb", "Nachhaltiges Architekturkonzept"],
+      hu: ["90 MW beépített teljesítmény", "Első fázis megnyitása: 2017", "18 működő fúrólyuk", "Fenntartható építészeti koncepció"],
+      ro: ["90 MW putere instalată", "Prima fază deschisă în 2017", "18 puțuri în funcțiune", "Concept arhitectural sustenabil"],
+      en: ["90 MW installed capacity", "Phase 1 opened in 2017", "18 wells in operation", "Sustainable architectural design"],
+    },
   },
   {
     id: "iceland-eskifjordur-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Eskifjörður", hu: "Eskifjörður kikötője", ro: "Portul Eskifjörður", en: "Eskifjörður Port" },
+    name: { de: "Hafen von Eskifjörður", hu: "Eskifjörður kikötője", ro: "Portul Eskifjörður", en: "Eskifjörður Port",
+image: "/poi-images/iceland-eskifjordur-port-economic-v2.webp"
+},
     coords: [-14.015, 65.072],
     coordinates: { lat: 65.072, lng: -14.015 },
     description: {
@@ -460,11 +803,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Locație importantă a companiei Eskja", "Procesează zeci de mii de tone de pește anual", "Dispune de fabrici moderne de făină de pește", "Centrul pescuitului pelagic din est"],
       en: ["Important site for the company Eskja", "Processes tens of thousands of tonnes of fish annually", "Features modern fishmeal plants", "Center of pelagic fishing in the East"],
     },
-    imageHint: "Eskifjordur harbour with fish processing plants", image: "/poi-images/iceland-eskifjordur-port-economic-v2.webp"},
-  {
+imageHint: "Eskifjordur harbour with fish processing plants",
+    descriptionAdvanced: {
+      de: "Der Hafen von Eskifjörður ist ein traditionsreicher Fischereistandort in den Ostfjorden, spezialisiert auf die Verarbeitung von Tiefseegarnelen und Hering.",
+      hu: "Eskifjörður kikötője a keleti fjordok tradicionális halászati helyszíne, amely a mélytengeri garnéla és a hering feldolgozására specializálódott.",
+      ro: "Portul Eskifjörður este o locație de pescuit tradițională în fiordurile de est, specializată în procesarea creveților de adâncime și a heringului.",
+      en: "Eskifjörður Port is a traditional fishing location in the East Fjords, specializing in the processing of deep-sea shrimp and herring.",
+    },
+    factsAdvanced: {
+      de: ["Große Fischverarbeitungsanlage", "Tiefwasserhafen für Trawler", "Zentrum der Garnelenfischerei", "Hafen seit Ende des 18. Jhd."],
+      hu: ["Nagy halmegmunkáló üzem", "Mélyvízi kikötő vonóhálós hajóknak", "Garnélahalászat központja", "Kikötő a 18. sz. vége óta"],
+      ro: ["Unitate mare de procesare pește", "Port adânc pentru traulere", "Centru al pescuitului de creveți", "Port activ de la finele sec. XVIII"],
+      en: ["Large fish processing plant", "Deep-water port for trawlers", "Center for shrimp fishing", "Port since the late 18th century"],
+    },
+    image: "/poi-images/iceland-eskifjordur-port-economic-v2.webp",
+},  {
     id: "iceland-neskaupstadur-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Neskaupstaður", hu: "Neskaupstaður kikötője", ro: "Portul Neskaupstaður", en: "Neskaupstaður Port" },
+    name: { de: "Hafen von Neskaupstaður", hu: "Neskaupstaður kikötője", ro: "Portul Neskaupstaður", en: "Neskaupstaður Port",
+image: "/poi-images/iceland-neskaupstadur-port-economic-v2.webp"
+},
     coords: [-13.687, 65.151],
     coordinates: { lat: 65.151, lng: -13.687 },
     description: {
@@ -479,11 +837,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Sediul companiei de pescuit Síldarvinnslan", "Dispune de capacități pentru congelare și conserve", "Centru pentru procesarea mihalțului albastru", "Punct important de export pentru fructe de mare"],
       en: ["Headquarters of the Síldarvinnslan fishing company", "Has capacities for deep-freezing and canning", "Center for blue whiting processing", "Significant export point for seafood"],
     },
-    imageHint: "Neskaupstadur port and mountain backdrop", image: "/poi-images/iceland-neskaupstadur-port-economic-v2.webp"},
-  {
+imageHint: "Neskaupstadur port and mountain backdrop",
+    descriptionAdvanced: {
+      de: "Neskaupstaður besitzt einen der modernsten Fischereihäfen Islands und ist bekannt für seine gigantischen Anlagen zur Frostung von pelagischen Fischen.",
+      hu: "Neskaupstaður rendelkezik Izland egyik legmodernebb halászati kikötőjével, és híres hatalmas pelágikus fagyasztó üzemeiről.",
+      ro: "Neskaupstaður deține unul dintre cele mai moderne porturi de pescuit din Islanda, fiind faimos pentru unitățile uriașe de congelare a peștelui.",
+      en: "Neskaupstaður has one of Iceland's most modern fishing ports, renowned for its massive pelagic fish freezing facilities.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Firma Síldarvinnslan", "Größtes Gefrierwerk des Landes", "Hafen für große Hochseetrawler", "Über 100.000 Tonnen Fisch umschlag"],
+      hu: ["A Síldarvinnslan cég székhelye", "Az ország legnagyobb fagyasztója", "Kikötő nagy óceáni hajóknak", "Évi 100 000+ tonna halforgalom"],
+      ro: ["Sediul companiei Síldarvinnslan", "Cea mai mare fabrică de congelare", "Port pentru traulere oceanice mari", "Peste 100.000 tone de pește anual"],
+      en: ["Headquarters of Síldarvinnslan", "Largest freezing plant in Iceland", "Port for large oceanic trawlers", "Over 100,000 tonnes fish turnover"],
+    },
+    image: "/poi-images/iceland-neskaupstadur-port-economic-v2.webp",
+},  {
     id: "iceland-hofn-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Höfn", hu: "Höfn kikötője", ro: "Portul din Höfn", en: "Höfn Port" },
+    name: { de: "Hafen von Höfn", hu: "Höfn kikötője", ro: "Portul din Höfn", en: "Höfn Port",
+image: "/poi-images/iceland-hofn-port-economic-v2.webp"
+},
     coords: [-15.207, 64.254],
     coordinates: { lat: 64.254, lng: -15.207 },
     description: {
@@ -498,11 +871,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Capitala neoficială a homarului din Islanda", "Festivalul anual al homarului atrage investiții", "Intrare dificilă în port din cauza bancurilor de nisip", "Punct logistic important în sud-est"],
       en: ["Iceland's unofficial lobster capital", "Annual lobster festival attracts investment", "Challenging harbour entrance due to sandbars", "Important logistics point in the Southeast"],
     },
-    imageHint: "Hofn harbour with fishing boats Iceland", image: "/poi-images/iceland-hofn-port-economic-v2.webp"},
-  {
+imageHint: "Hofn harbour with fishing boats Iceland",
+    descriptionAdvanced: {
+      de: "Höfn ist das wirtschaftliche Zentrum Südostislands und gilt als die Hauptstadt der Kaisergranat-Fischerei (Scampi) im Nordatlantik.",
+      hu: "Höfn Délkelet-Izland gazdasági központja, és az észak-atlanti norvég homár (scampi) halászatának fővárosaként ismert.",
+      ro: "Höfn este centrul economic al sud-estului Islandei și este considerată capitala pescuitului de homar (scampi) din Atlanticul de Nord.",
+      en: "Höfn is the economic center of Southeast Iceland and is considered the capital of Norway lobster (scampi) fishing in the North Atlantic.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Scampi-Fischerei", "Hafen in einer flachen Lagune", "Jährliches Hummerfestival im Juli", "Tor zum Vatnajökull-Nationalpark"],
+      hu: ["A scampi-halászat központja", "Kikötő egy sekély lagúnában", "Éves homárfesztivál júliusban", "A Vatnajökull Nemzeti Park kapuja"],
+      ro: ["Centrul pescuitului de scampi", "Port situat într-o lagună puțin adâncă", "Festival anual al homarului în iulie", "Poarta către Parcul Vatnajökull"],
+      en: ["Center of scampi fishing", "Port in a shallow lagoon", "Annual lobster festival in July", "Gateway to Vatnajökull National Park"],
+    },
+    image: "/poi-images/iceland-hofn-port-economic-v2.webp",
+},  {
     id: "iceland-dalvik-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Dalvík", hu: "Dalvík kikötője", ro: "Portul Dalvík", en: "Dalvík Port" },
+    name: { de: "Hafen von Dalvík", hu: "Dalvík kikötője", ro: "Portul Dalvík", en: "Dalvík Port",
+image: "/poi-images/iceland-dalvik-port-economic-v2.webp"
+},
     coords: [-18.525, 65.972],
     coordinates: { lat: 65.972, lng: -18.525 },
     description: {
@@ -517,11 +905,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Portul de origine al flotei Samherji", "Centru pentru procesarea peștelui congelat", "Port de feribot important către insula Grímsey", "Ziua anuală a peștelui celebrează industria"],
       en: ["Home port of the Samherji fleet", "Center for frozen fish processing", "Key ferry terminal for Grímsey island", "Annual 'Great Fish Day' celebrates the industry"],
     },
-    imageHint: "Dalvik harbour with mountains in north", image: "/poi-images/iceland-dalvik-port-economic-v2.webp"},
-  {
+imageHint: "Dalvik harbour with mountains in north",
+    descriptionAdvanced: {
+      de: "Der Hafen von Dalvík im Eyjafjörður ist ein wichtiger Stützpunkt für die Hochseefischerei und der Ausgangspunkt der Fähre zur Insel Hrísey.",
+      hu: "Az Eyjafjörður-ben található dalvíki kikötő a nyílt tengeri halászat fontos bázisa, és a Hrísey-szigetre tartó komp indulási pontja.",
+      ro: "Portul Dalvík din Eyjafjörður este o bază importantă pentru pescuitul oceanic și punctul de plecare al feribotului către insula Hrísey.",
+      en: "Dalvík Port in Eyjafjörður is an important base for high-sea fishing and the starting point for the ferry to Hrísey island.",
+    },
+    factsAdvanced: {
+      de: ["Stützpunkt großer Fischtrawler", "Fähre Sævar nach Hrísey", "Bekanntes Fischfest im August", "Bedeutende Garnelenverarbeitung"],
+      hu: ["Nagy halászhajók bázisa", "Sævar komp Hrísey felé", "Híres halünnep augusztusban", "Jelentős garnélafeldolgozás"],
+      ro: ["Bază pentru traulere mari de pește", "Feribotul Sævar spre Hrísey", "Faimos festival al peștelui în august", "Procesare importantă de creveți"],
+      en: ["Base for large fish trawlers", "Sævar ferry to Hrísey", "Famous fish festival in August", "Significant shrimp processing"],
+    },
+    image: "/poi-images/iceland-dalvik-port-economic-v2.webp",
+},  {
     id: "iceland-siglufjordur-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Siglufjörður", hu: "Siglufjörður kikötője", ro: "Portul Siglufjörður", en: "Siglufjörður Port" },
+    name: { de: "Hafen von Siglufjörður", hu: "Siglufjörður kikötője", ro: "Portul Siglufjörður", en: "Siglufjörður Port",
+image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp"
+},
     coords: [-18.907, 66.149],
     coordinates: { lat: 66.149, lng: -18.907 },
     description: {
@@ -536,11 +939,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Era de aur a pescuitului în anii 1940", "Noua conexiune prin tunel stimulează comerțul", "Găzduiește Muzeul Heringului, premiat internațional", "Destinație în creștere pentru croaziere de lux"],
       en: ["Golden era of fishing in the 1940s", "New tunnel connection boosts trade", "Home to the award-winning Herring Era Museum", "Growing destination for luxury cruises"],
     },
-    imageHint: "Siglufjordur harbour and Herring Era Museum", image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp"},
-  {
+imageHint: "Siglufjordur harbour and Herring Era Museum",
+    descriptionAdvanced: {
+      de: "Siglufjörður war einst die Welthauptstadt der Heringsfischerei. Heute erlebt der Hafen durch den Tourismus und moderne Fischverarbeitung eine Renaissance.",
+      hu: "Siglufjörður egykor a világ heringhalászatának fővárosa volt. Ma a kikötő a turizmusnak és a modern halmegmunkálásnak köszönhetően éli újjászületését.",
+      ro: "Siglufjörður a fost cândva capitala mondială a pescuitului de hering. Astăzi, portul renaște prin turism și procesare modernă.",
+      en: "Siglufjörður was once the herring fishing capital of the world. Today, the port is undergoing a renaissance through tourism and modern processing.",
+    },
+    factsAdvanced: {
+      de: ["Ehemaliger Hauptheringshafen", "Hering-Museum als Attraktion", "Neue Tunnelverbindung seit 2010", "Zentrum für Luxus-Bootstourismus"],
+      hu: ["Egykori fő heringkikötő", "Heringmúzeum mint látványosság", "Új alagút-összeköttetés 2010 óta", "Luxus hajóturizmus központja"],
+      ro: ["Fostul port principal pentru hering", "Muzeul Heringului ca atracție", "Nou tunel de legătură din 2010", "Centru pentru turismul cu iahturi"],
+      en: ["Former main herring port", "Herring Museum as a key attraction", "New tunnel link since 2010", "Center for luxury boat tourism"],
+    },
+    image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp",
+},  {
     id: "iceland-akranes-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Akranes", hu: "Akranes kikötője", ro: "Portul Akranes", en: "Akranes Port" },
+    name: { de: "Hafen von Akranes", hu: "Akranes kikötője", ro: "Portul Akranes", en: "Akranes Port",
+image: "/poi-images/iceland-akranes-port-economic-v2.webp"
+},
     coords: [-22.073, 64.316],
     coordinates: { lat: 64.316, lng: -22.073 },
     description: {
@@ -555,11 +973,26 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Fostul sediu al fabricii de ciment de stat", "Punct important de transbordare pentru bunuri industriale", "Centru pentru repararea navelor de pescuit", "Cel mai important port din regiunea Vesturland"],
       en: ["Former site of the state cement factory", "Significant transshipment point for industrial goods", "Center for fishing vessel repairs", "Most important port in the Vesturland region"],
     },
-    imageHint: "Akranes harbour and old lighthouse", image: "/poi-images/iceland-akranes-port-economic-v2.webp"},
-  {
+imageHint: "Akranes harbour and old lighthouse",
+    descriptionAdvanced: {
+      de: "Der Hafen von Akranes dient sowohl der Fischerei als auch der Industrie. Er ist eng mit dem nahegelegenen Werk Grundartangi und der Zementproduktion verknüpft.",
+      hu: "Akranes kikötője a halászatot és az ipart egyaránt kiszolgálja. Szoros kapcsolatban áll a közeli Grundartangi üzemmel és a cementgyártással.",
+      ro: "Portul Akranes deservește atât pescuitul, cât și industria. Este strâns legat de fabrica Grundartangi și de producția de ciment.",
+      en: "Akranes Port serves both fishing and industry. It is closely linked to the nearby Grundartangi plant and cement production.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Zementherstellung", "Hafen für Industrierohstoffe", "Fischereiflotte für Grundfisch", "Zweitgrößte Stadt Westislands"],
+      hu: ["A cementgyártás központja", "Ipari alapanyagok kikötője", "Fenékhal-halászflotta bázisa", "Nyugat-Izland második legnagyobb városa"],
+      ro: ["Centrul producției de ciment", "Port pentru materii prime industriale", "Flotă de pescuit pentru pești de fund", "Al doilea oraș din vestul Islandei"],
+      en: ["Center of cement production", "Port for industrial raw materials", "Demersal fishing fleet base", "Second largest town in West Iceland"],
+    },
+    image: "/poi-images/iceland-akranes-port-economic-v2.webp",
+},  {
     id: "iceland-reykjanes-geothermal-power-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Reykjanes", hu: "Reykjanes erőmű", ro: "Centrala Reykjanes", en: "Reykjanes Power Plant" },
+    name: { de: "Kraftwerk Reykjanes", hu: "Reykjanes erőmű", ro: "Centrala Reykjanes", en: "Reykjanes Power Plant",
+image: "/poi-images/iceland-reykjanes-geothermal-power-economic-v2.webp"
+},
     coords: [-22.684, 63.826],
     coordinates: { lat: 63.826, lng: -22.684 },
     description: {
@@ -575,5 +1008,17 @@ export const icelandEconomicV2: POI[] = [
       en: ["Commissioned in 2006", "Capacity of 100 MW from two turbines", "Steam temperature reaches up to 310 degrees", "Supplies energy for local data centers"],
     },
     imageHint: "Reykjanes geothermal power plant pipes",
+    descriptionAdvanced: {
+      de: "Dieses Kraftwerk an der Südwestspitze Islands nutzt extrem heißen Hochtemperaturdampf direkt aus einem vulkanischen Feld am Mittelatlantischen Rücken.",
+      hu: "Izland délnyugati csücskén ez az erőmű rendkívül forró, magas hőmérsékletű gőzt használ közvetlenül a Közép-Atlanti-hátság vulkáni mezőjéről.",
+      ro: "Această centrală de la vârful sud-vestic al Islandei folosește abur de temperatură înaltă direct dintr-un câmp vulcanic de pe creasta Atlantică.",
+      en: "This power plant at Iceland's southwest tip utilizes extremely hot high-temperature steam directly from a volcanic field on the Mid-Atlantic Ridge.",
+    },
+    factsAdvanced: {
+      de: ["100 MW installierte Leistung", "Inbetriebnahme im Jahr 2006", "Dampftemperatur ca. 290-320 °C", "Zwei 50 MW Fuji-Turbinen"],
+      hu: ["100 MW beépített teljesítmény", "2006-os üzembe helyezés", "290-320 °C-os gőzhőmérséklet", "Két 50 MW-os Fuji turbina"],
+      ro: ["100 MW putere instalată", "Dată în folosință în anul 2006", "Temperatură abur 290-320 °C", "Două turbine Fuji de 50 MW"],
+      en: ["100 MW installed capacity", "Commissioned in 2006", "Steam temperature 290-320 °C", "Two 50 MW Fuji turbines"],
+    },
   }
 ];

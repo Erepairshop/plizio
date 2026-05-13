@@ -12,7 +12,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Szingapúr város",
       ro: "Orașul Singapore",
       en: "Singapore City",
-    },
+image: "/poi-images/singapore-city-cities-v2.webp"
+},
     description: {
       de: "Das Herz des Stadtstaates, ein globales Finanzzentrum mit tropischem Klima und multikultureller Bevölkerung.",
       hu: "A városállam szíve, egy globális pénzügyi központ trópusi éghajlattal és multikulturális lakossággal.",
@@ -48,7 +49,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Jurong East",
       ro: "Jurong East",
       en: "Jurong East",
-    },
+image: "/poi-images/jurong-east-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger kommerzieller Knotenpunkt im Westen Singapurs, bekannt für seine Einkaufszentren und den Jurong Lake.",
       hu: "Fontos kereskedelmi csomópont Szingapúr nyugati részén, amely bevásárlóközpontjairól és a Jurong-tóról ismert.",
@@ -84,7 +86,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Tampines",
       ro: "Tampines",
       en: "Tampines",
-    },
+image: "/poi-images/tampines-cities-v2.webp"
+},
     description: {
       de: "Das regionale Zentrum für den Osten Singapurs, eine reife Wohnsiedlung mit umfassenden Annehmlichkeiten.",
       hu: "Szingapúr keleti részének regionális központja, egy fejlett lakótelep átfogó szolgáltatásokkal.",
@@ -120,7 +123,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Woodlands",
       ro: "Woodlands",
       en: "Woodlands",
-    },
+image: "/poi-images/woodlands-cities-v2.webp"
+},
     description: {
       de: "Das regionale Zentrum für den Norden Singapurs und das Tor zu Malaysia über den Woodlands Causeway.",
       hu: "Szingapúr északi részének regionális központja és kapuja Malajziához a Woodlands Causeway-en keresztül.",
@@ -156,7 +160,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Bedok",
       ro: "Bedok",
       en: "Bedok",
-    },
+image: "/poi-images/bedok-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Wohnsiedlungen in Singapur, bekannt für ihr lokales Essen und den Bedok Reservoir.",
       hu: "Szingapúr egyik legrégebbi lakónegyede, amely helyi ételeiről és a Bedok víztározóról ismert.",
@@ -192,7 +197,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Hougang",
       ro: "Hougang",
       en: "Hougang",
-    },
+image: "/poi-images/hougang-cities-v2.webp"
+},
     description: {
       de: "Eine große Wohnsiedlung im Nordosten Singapurs mit einer reichen Geschichte und einem starken Gemeinschaftsgeist.",
       hu: "Nagy lakónegyed Szingapúr északkeleti részén, gazdag történelemmel és erős közösségi szellemmel.",
@@ -228,7 +234,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Punggol",
       ro: "Punggol",
       en: "Punggol",
-    },
+image: "/poi-images/punggol-cities-v2.webp"
+},
     description: {
       de: "Eine Ufer-Wohnsiedlung, die als nachhaltige Öko-Stadt entwickelt wurde und viele Freizeitmöglichkeiten am Wasser bietet.",
       hu: "Fenntartható ökóvárosként kifejlesztett vízparti lakónegyed, amely számos vízparti kikapcsolódási lehetőséget kínál.",
@@ -264,7 +271,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Sengkang",
       ro: "Sengkang",
       en: "Sengkang",
-    },
+image: "/poi-images/sengkang-cities-v2.webp"
+},
     description: {
       de: "Eine relativ neue Wohnsiedlung im Nordosten mit schnell wachsender Bevölkerung und modernen Annehmlichkeiten.",
       hu: "Viszonylag új lakónegyed az északkeleti részen, gyorsan növekvő népességgel és modern szolgáltatásokkal.",
@@ -300,7 +308,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Choa Chu Kang",
       ro: "Choa Chu Kang",
       en: "Choa Chu Kang",
-    },
+image: "/poi-images/choa-chu-kang-cities-v2.webp"
+},
     description: {
       de: "Eine Wohnsiedlung im Nordwesten Singapurs, die einst ländlich war und sich zu einer modernen Stadt entwickelt hat.",
       hu: "Szingapúr északnyugati részén fekvő lakónegyed, amely egykor vidéki terület volt, és modern várossá fejlődött.",
@@ -336,7 +345,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Bukit Merah",
       ro: "Bukit Merah",
       en: "Bukit Merah",
-    },
+image: "/poi-images/bukit-merah-cities-v2.webp"
+},
     description: {
       de: "Eine reife Wohnsiedlung mit einer Mischung aus öffentlichen und privaten Wohnungen, Parks und kommerziellen Gebäuden.",
       hu: "Fejlett lakónegyed, amelyben állami és magánlakások, parkok és kereskedelmi épületek egyaránt megtalálhatók.",
@@ -372,7 +382,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Queenstown",
       ro: "Queenstown",
       en: "Queenstown",
-    },
+image: "/poi-images/queenstown-cities-v2.webp"
+},
     description: {
       de: "Singapurs erste Satellitenstadt, eine reife Wohnsiedlung mit einer Mischung aus alten und neuen Entwicklungen.",
       hu: "Szingapúr első szatellitvárosa, egy érett lakónegyed régi és új fejlesztések keverékével.",
@@ -408,7 +419,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Geylang",
       ro: "Geylang",
       en: "Geylang",
-    },
+image: "/poi-images/geylang-cities-v2.webp"
+},
     description: {
       de: "Ein lebhaftes Viertel, das für seine reiche kulinarische Szene, seine erhaltenen Ladenhäuser und sein pulsierendes Nachtleben bekannt ist.",
       hu: "Élénk negyed, amely gazdag gasztronómiai életéről, megőrzött üzletházairól és nyüzsgő éjszakai életéről ismert.",
@@ -444,7 +456,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Kallang",
       ro: "Kallang",
       en: "Kallang",
-    },
+image: "/poi-images/kallang-cities-v2.webp"
+},
     description: {
       de: "Ein Sport- und Unterhaltungszentrum, das den Singapore Sports Hub beherbergt und am Kallang River liegt.",
       hu: "Sport- és szórakoztató központ, amely a Singapore Sports Hub-nak ad otthont és a Kallang folyó mellett fekszik.",
@@ -480,7 +493,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Bishan",
       ro: "Bishan",
       en: "Bishan",
-    },
+image: "/poi-images/bishan-cities-v2.webp"
+},
     description: {
       de: "Ein zentral gelegener Wohnort, der für seine gut gestalteten öffentlichen Wohnungen und den Bishan-Ang Mo Kio Park bekannt ist.",
       hu: "Központi fekvésű lakónegyed, amely jól megtervezett állami lakásairól és a Bishan-Ang Mo Kio Parkról ismert.",
@@ -516,7 +530,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Ang Mo Kio",
       ro: "Ang Mo Kio",
       en: "Ang Mo Kio",
-    },
+image: "/poi-images/ang-mo-kio-cities-v2.webp"
+},
     description: {
       de: "Eine der älteren und am weitesten entwickelten Wohnsiedlungen in Singapur, die eine gut etablierte Gemeinschaft bietet.",
       hu: "Szingapúr egyik legrégebbi és legfejlettebb lakónegyede, amely egy jól bevált közösséget kínál.",
@@ -552,7 +567,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Bukit Batok",
       ro: "Bukit Batok",
       en: "Bukit Batok",
-    },
+image: "/poi-images/bukit-batok-cities-v2.webp"
+},
     description: {
       de: "Ein Wohnort im Westen, der für seine malerischen Steinbrüche bekannt ist, die in Parks und Seen umgewandelt wurden.",
       hu: "Nyugati lakónegyed, amely festői kőbányáiról ismert, amelyeket parkokká és tavakká alakítottak át.",
@@ -588,7 +604,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Yishun",
       ro: "Yishun",
       en: "Yishun",
-    },
+image: "/poi-images/yishun-cities-v2.webp"
+},
     description: {
       de: "Eine reife Wohnsiedlung im Norden Singapurs, die sich um den Lower Seletar Reservoir Park herum entwickelt hat.",
       hu: "Fejlett lakónegyed Szingapúr északi részén, amely a Lower Seletar Reservoir Park köré épült.",
@@ -624,7 +641,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Pasir Ris",
       ro: "Pasir Ris",
       en: "Pasir Ris",
-    },
+image: "/poi-images/pasir-ris-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenwohnstadt im Osten, die für ihre Strandparks, Freizeiteinrichtungen und Ferienbungalows bekannt ist.",
       hu: "Keleti tengerparti lakóváros, amely strandparkjairól, rekreációs létesítményeiről és üdülőbungalóiról ismert.",
@@ -660,7 +678,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Clementi",
       ro: "Clementi",
       en: "Clementi",
-    },
+image: "/poi-images/clementi-cities-v2.webp"
+},
     description: {
       de: "Eine Wohn- und Bildungsstadt im Westen, in der sich die National University of Singapore in der Nähe befindet.",
       hu: "Nyugati lakó- és oktatási város, a Szingapúri Nemzeti Egyetem közelében.",
@@ -696,7 +715,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Toa Payoh",
       ro: "Toa Payoh",
       en: "Toa Payoh",
-    },
+image: "/poi-images/toa-payoh-cities-v2.webp"
+},
     description: {
       de: "Die zweite Satellitenstadt, die in Singapur gebaut wurde, eine reife Siedlung mit einem starken Gemeinschaftsgefühl.",
       hu: "A második szatellitváros Szingapúrban, egy érett település erős közösségi érzéssel.",
@@ -732,7 +752,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Marine Parade",
       ro: "Marine Parade",
       en: "Marine Parade",
-    },
+image: "/poi-images/marine-parade-cities-v2.webp"
+},
     description: {
       de: "Ein wohlhabendes Wohnviertel an der Ostküste, das vollständig auf zurückgewonnenem Land gebaut wurde.",
       hu: "Jómódú lakónegyed a keleti parton, amely teljes egészében feltöltött földre épült.",
@@ -768,7 +789,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Szentosa-sziget",
       ro: "Insula Sentosa",
       en: "Sentosa Island",
-    },
+image: "/poi-images/sentosa-island-cities-v2.webp"
+},
     description: {
       de: "Eine beliebte Insel-Ferienanlage mit Stränden, Themenparks, einem Casino und Luxushotels.",
       hu: "Népszerű üdülősziget strandokkal, vidámparkokkal, kaszinóval és luxusszállodákkal.",
@@ -804,7 +826,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Orchard Road",
       ro: "Orchard Road",
       en: "Orchard Road",
-    },
+image: "/poi-images/orchard-road-cities-v2.webp"
+},
     description: {
       de: "Singapurs wichtigstes Einkaufsviertel, gesäumt von luxuriösen Einkaufszentren, Kaufhäusern und gehobenen Hotels.",
       hu: "Szingapúr legfontosabb bevásárlónegyede, amelyet luxus bevásárlóközpontok, áruházak és felső kategóriás szállodák szegélyeznek.",
@@ -840,7 +863,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Kínai negyed",
       ro: "Chinatown",
       en: "Chinatown",
-    },
+image: "/poi-images/chinatown-cities-v2.webp"
+},
     description: {
       de: "Ein historisches Viertel, das eine Mischung aus alten Tempeln, traditionellen Ladenhäusern und modernen Bars und Restaurants zeigt.",
       hu: "Történelmi negyed, amely régi templomok, hagyományos üzletházak és modern bárok és éttermek keverékét mutatja be.",
@@ -876,7 +900,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Little India",
       ro: "Little India",
       en: "Little India",
-    },
+image: "/poi-images/little-india-cities-v2.webp"
+},
     description: {
       de: "Ein pulsierendes ethnisches Viertel, das eine Explosion von Sehenswürdigkeiten, Geräuschen und Gerüchen der indischen Kultur bietet.",
       hu: "Élénk etnikai negyed, amely az indiai kultúra látványosságainak, hangjainak és illatainak robbanásszerű élményét nyújtja.",
@@ -912,7 +937,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Kampong Glam",
       ro: "Kampong Glam",
       en: "Kampong Glam",
-    },
+image: "/poi-images/kampong-glam-cities-v2.webp"
+},
     description: {
       de: "Das historische malaiische Viertel Singapurs, bekannt für seine trendigen Boutiquen, hippen Cafés und die Sultan-Moschee.",
       hu: "Szingapúr történelmi maláj negyede, amely divatos butikjairól, menő kávézóiról és a Szultán-mecsetről ismert.",
@@ -948,7 +974,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Bukit Timah",
       ro: "Bukit Timah",
       en: "Bukit Timah",
-    },
+image: "/poi-images/bukit-timah-cities-v2.webp"
+},
     description: {
       de: "Ein erstklassiges Wohnviertel, das für seine üppige Grünfläche, prestigeträchtigen Schulen und das Bukit-Timah-Naturreservat bekannt ist.",
       hu: "Elsőrangú lakónegyed, amely buja zöldterületeiről, tekintélyes iskoláiról és a Bukit Timah természetvédelmi területről ismert.",
@@ -984,7 +1011,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Serangoon",
       ro: "Serangoon",
       en: "Serangoon",
-    },
+image: "/poi-images/serangoon-cities-v2.webp"
+},
     description: {
       de: "Eine reife Wohnsiedlung mit einer Mischung aus öffentlichen und privaten Wohnungen, die durch das Einkaufszentrum NEX bedient wird.",
       hu: "Fejlett lakónegyed állami és magánlakások keverékével, amelyet a NEX bevásárlóközpont szolgál ki.",
@@ -1020,7 +1048,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Downtown Core",
       ro: "Centrul Orașului",
       en: "Downtown Core",
-    },
+image: "/poi-images/downtown-core-cities-v2.webp"
+},
     description: {
       de: "Das wirtschaftliche Herz von Singapur, das das zentrale Geschäftsviertel und die Gegend um Marina Bay umfasst.",
       hu: "Szingapúr gazdasági szíve, amely a központi üzleti negyedet és a Marina Bay környékét foglalja magában.",
@@ -1056,7 +1085,8 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       hu: "Sembawang",
       ro: "Sembawang",
       en: "Sembawang",
-    },
+image: "/poi-images/sembawang-cities-v2.webp"
+},
     description: {
       de: "Ein Küstenort im Norden, bekannt für seinen Park, seine natürlichen Strände und seine Geschichte als britischer Marinestützpunkt.",
       hu: "Északi tengerparti város, amely parkjáról, természetes strandjairól és a brit haditengerészeti bázisként betöltött történelméről ismert.",

@@ -11,8 +11,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Nationales Pantheon von Venezuela",
       hu: "Venezuela Nemzeti Panteonja",
       ro: "Panteonul Național din Venezuela",
-      en: "National Pantheon of Venezuela"
-    },
+      en: "National Pantheon of Venezuela",
+image: "/poi-images/venezuela-panteon-nacional-history-v2.webp"
+},
     description: {
       de: "Das Nationales Pantheon ist die letzte Ruhestätte venezolanischer Nationalhelden, darunter Simón Bolívar.",
       hu: "A Nemzeti Panteon Venezuela nemzeti hőseinek, köztük Simón Bolívarnak a végső nyughelye.",
@@ -46,8 +47,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Geburtshaus von Simón Bolívar",
       hu: "Simón Bolívar Szülőháza",
       ro: "Casa Natală a lui Simón Bolívar",
-      en: "Birthplace of Simón Bolívar"
-    },
+      en: "Birthplace of Simón Bolívar",
+image: "/poi-images/venezuela-casa-natal-bolivar-history-v2.webp"
+},
     description: {
       de: "Dieses Kolonialhaus ist der Geburtsort des berühmten südamerikanischen Befreiers Simón Bolívar.",
       hu: "Ez a gyarmati stílusú ház a híres dél-amerikai felszabadító, Simón Bolívar szülőhelye.",
@@ -81,8 +83,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Festung San Carlos de la Barra",
       hu: "San Carlos de la Barra Erőd",
       ro: "Cetatea San Carlos de la Barra",
-      en: "San Carlos de la Barra Fortress"
-    },
+      en: "San Carlos de la Barra Fortress",
+image: "/poi-images/venezuela-castillo-san-carlos-barra-history-v2.webp"
+},
     description: {
       de: "Eine historische Sternfestung aus dem 17. Jahrhundert, die den Golf von Venezuela vor Piraten schützte.",
       hu: "Egy 17. századi történelmi csillagerőd, amely a Venezuelai-öblöt védte a kalózoktól.",
@@ -116,8 +119,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Fortín Solano",
       hu: "Fortín Solano Erőd",
       ro: "Fortul Solano",
-      en: "Fortín Solano"
-    },
+      en: "Fortín Solano",
+image: "/poi-images/venezuela-fortin-solano-history-v2.webp"
+},
     description: {
       de: "Eine koloniale Militärfestung im Nationalpark San Esteban mit Panoramablick auf Puerto Cabello.",
       hu: "Egy gyarmati katonai erőd a San Esteban Nemzeti Parkban, panorámás kilátással Puerto Cabellóra.",
@@ -151,8 +155,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Festung San Felipe",
       hu: "San Felipe Erőd",
       ro: "Cetatea San Felipe",
-      en: "San Felipe Fortress"
-    },
+      en: "San Felipe Fortress",
+image: "/poi-images/venezuela-castillo-san-felipe-history-v2.webp"
+},
     description: {
       de: "Eine riesige Festung, die den Hafen von Puerto Cabello verteidigte und später als Gefängnis diente.",
       hu: "Egy hatalmas erőd, amely Puerto Cabello kikötőjét védte, később pedig börtönként szolgált.",
@@ -186,8 +191,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Historisches Zentrum von Coro",
       hu: "Coro Történelmi Központja",
       ro: "Centrul Istoric din Coro",
-      en: "Historic Center of Coro"
-    },
+      en: "Historic Center of Coro",
+image: "/poi-images/venezuela-historic-center-coro-history-v2.webp"
+},
     description: {
       de: "Das historische Zentrum von Coro beeindruckt mit seiner einzigartigen Lehmarchitektur aus der Kolonialzeit.",
       hu: "Coro történelmi központja lenyűgöző egyedülálló, gyarmati korabeli vályogépítészetével.",
@@ -221,8 +227,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Schlachtfeld von Carabobo",
       hu: "Carabobo Csata Emlékmű",
       ro: "Câmpul de Luptă de la Carabobo",
-      en: "Campo de Carabobo"
-    },
+      en: "Campo de Carabobo",
+image: "/poi-images/venezuela-campo-de-carabobo-history-v2.webp"
+},
     description: {
       de: "Dieser historische Ort markiert das Schlachtfeld, auf dem Venezuela 1821 seine Unabhängigkeit errang.",
       hu: "Ez a történelmi helyszín jelöli azt a csatateret, ahol Venezuela 1821-ben kivívta függetlenségét.",
@@ -256,8 +263,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Festung San Carlos Borromeo",
       hu: "San Carlos Borromeo Erőd",
       ro: "Cetatea San Carlos Borromeo",
-      en: "San Carlos Borromeo Fortress"
-    },
+      en: "San Carlos Borromeo Fortress",
+image: "/poi-images/venezuela-castillo-san-carlos-borromeo-history-v2.webp"
+},
     description: {
       de: "Eine spanische Festung auf der Isla Margarita, die zum Schutz der Bucht von Pampatar errichtet wurde.",
       hu: "Egy spanyol erőd a Margarita-szigeten, amelyet a Pampatar-öböl védelmére építettek.",
@@ -291,8 +299,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Festung Santa Rosa",
       hu: "Santa Rosa Erőd",
       ro: "Cetatea Santa Rosa",
-      en: "Santa Rosa Fortress"
-    },
+      en: "Santa Rosa Fortress",
+image: "/poi-images/venezuela-castillo-de-santa-rosa-history-v2.webp"
+},
     description: {
       de: "Diese historische Festung in La Asunción ist eng mit dem Unabhängigkeitskampf der Isla Margarita verbunden.",
       hu: "Ez a La Asunciónban található történelmi erőd szorosan kapcsolódik a Margarita-sziget függetlenségi harcához.",
@@ -326,8 +335,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Fortín de La Caranta",
       hu: "La Caranta Erőd",
       ro: "Fortul La Caranta",
-      en: "Fortín de La Caranta"
-    },
+      en: "Fortín de La Caranta",
+image: "/poi-images/venezuela-fortin-de-la-caranta-history-v2.webp"
+},
     description: {
       de: "Die Ruinen der ersten Festung, die auf der Isla Margarita zur Abwehr von Piratenangriffen gebaut wurde.",
       hu: "A Margarita-szigeten a kalóztámadások elhárítására épült első erőd romjai.",
@@ -361,8 +371,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Haus des Kongresses von Angostura",
       hu: "Angosturai Kongresszus Háza",
       ro: "Casa Congresului din Angostura",
-      en: "House of the Congress of Angostura"
-    },
+      en: "House of the Congress of Angostura",
+image: "/poi-images/venezuela-casa-del-congreso-angostura-history-v2.webp"
+},
     description: {
       de: "Ein bedeutendes historisches Gebäude, in dem Simón Bolívar 1819 seine berühmte Angostura-Rede hielt.",
       hu: "Jelentős történelmi épület, ahol Simón Bolívar 1819-ben megtartotta híres angosturai beszédét.",
@@ -396,8 +407,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Ruinen von Nueva Cádiz",
       hu: "Nueva Cádiz Romjai",
       ro: "Ruinele din Nueva Cádiz",
-      en: "Ruins of Nueva Cádiz"
-    },
+      en: "Ruins of Nueva Cádiz",
+image: "/poi-images/venezuela-ruinas-nueva-cadiz-history-v2.webp"
+},
     description: {
       de: "Die Überreste der ersten spanischen Siedlung in Südamerika auf der kleinen Insel Cubagua.",
       hu: "Az első dél-amerikai spanyol település maradványai a kis Cubagua-szigeten.",
@@ -432,8 +444,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Ruinen der Casa Fuerte",
       hu: "Casa Fuerte Romok",
       ro: "Ruinele Casa Fuerte",
-      en: "Casa Fuerte Ruins"
-    },
+      en: "Casa Fuerte Ruins",
+image: "/poi-images/venezuela-casa-fuerte-barcelona-history-v2.webp"
+},
     description: {
       de: "Die Ruinen eines ehemaligen Franziskanerklosters, das während des Unabhängigkeitskrieges zu einer Festung wurde.",
       hu: "Egykori ferences kolostor romjai, amely a függetlenségi háború idején erőddé vált.",
@@ -467,8 +480,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Burgruine von Araya",
       hu: "Araya Várromok",
       ro: "Ruinele Castelului din Araya",
-      en: "Ruins of Araya Castle"
-    },
+      en: "Ruins of Araya Castle",
+image: "/poi-images/venezuela-ruinas-castillo-araya-history-v2.webp"
+},
     description: {
       de: "Eine beeindruckende koloniale Festung, die zur Sicherung der wertvollen Salzpfannen von Araya gebaut wurde.",
       hu: "Lenyűgöző gyarmati erődítmény, amelyet Araya értékes sólepárlóinak védelmére építettek.",
@@ -502,8 +516,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Festung San Antonio de la Eminencia",
       hu: "San Antonio de la Eminencia Erőd",
       ro: "Cetatea San Antonio de la Eminencia",
-      en: "San Antonio de la Eminencia Fortress"
-    },
+      en: "San Antonio de la Eminencia Fortress",
+image: "/poi-images/venezuela-castillo-san-antonio-eminencia-history-v2.webp"
+},
     description: {
       de: "Eine sternförmige Festung auf einem Hügel in Cumaná, die einst als Verteidigungsanlage diente.",
       hu: "Egy csillag alakú erőd egy dombon Cumanában, amely egykor védelmi létesítményként szolgált.",
@@ -537,8 +552,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Gelbes Haus von Caracas",
       hu: "Caracas-i Sárga Ház",
       ro: "Casa Galbenă din Caracas",
-      en: "Yellow House of Caracas"
-    },
+      en: "Yellow House of Caracas",
+image: "/poi-images/venezuela-casa-amarilla-caracas-history-v2.webp"
+},
     description: {
       de: "Das historische gelbe Gebäude war einst ein königliches Gefängnis und später der Präsidentenpalast.",
       hu: "A történelmi sárga épület egykor királyi börtön, később pedig elnöki palota volt.",
@@ -572,8 +588,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Kathedrale von Caracas",
       hu: "Caracas-i Katedrális",
       ro: "Catedrala din Caracas",
-      en: "Caracas Cathedral"
-    },
+      en: "Caracas Cathedral",
+image: "/poi-images/venezuela-catedral-caracas-history-v2.webp"
+},
     description: {
       de: "Die älteste Kirche in Caracas, die viele Erdbeben überstanden hat und das Grab von Bolívars Eltern birgt.",
       hu: "Caracas legrégebbi temploma, amely számos földrengést túlélt, és itt található Bolívar szüleinek sírja.",
@@ -607,8 +624,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Kloster San Francisco",
       hu: "San Francisco Kolostor",
       ro: "Mănăstirea San Francisco",
-      en: "Convent of San Francisco"
-    },
+      en: "Convent of San Francisco",
+image: "/poi-images/venezuela-convento-san-francisco-history-v2.webp"
+},
     description: {
       de: "Ein historisches Kloster in Caracas, in dem Simón Bolívar 1813 feierlich zum Befreier ernannt wurde.",
       hu: "Egy történelmi kolostor Caracasban, ahol Simón Bolívart 1813-ban ünnepélyesen Felszabadítóvá nyilvánították.",
@@ -642,8 +660,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Quinta de Anauco",
       hu: "Quinta de Anauco",
       ro: "Quinta de Anauco",
-      en: "Quinta de Anauco"
-    },
+      en: "Quinta de Anauco",
+image: "/poi-images/venezuela-quinta-de-anauco-history-v2.webp"
+},
     description: {
       de: "Dieses schöne Anwesen aus der Kolonialzeit beherbergt heute das Museum für koloniale Kunst in Caracas.",
       hu: "Ez a gyönyörű gyarmati birtok ma a caracasi Gyarmati Művészeti Múzeumnak ad otthont.",
@@ -677,8 +696,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Casona Ibarra",
       hu: "Casona Ibarra",
       ro: "Casona Ibarra",
-      en: "Casona Ibarra"
-    },
+      en: "Casona Ibarra",
+image: "/poi-images/venezuela-casona-ibarra-history-v2.webp"
+},
     description: {
       de: "Eine charmante historische Hacienda aus dem 18. Jahrhundert, die sich auf dem Gelände der Zentraluniversität befindet.",
       hu: "Egy bájos 18. századi történelmi hacienda, amely a Központi Egyetem területén található.",
@@ -712,8 +732,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Bergkaserne (Cuartel de la Montaña)",
       hu: "Hegyi Laktanya",
       ro: "Cazarma de Munte",
-      en: "Mountain Barracks (Cuartel de la Montaña)"
-    },
+      en: "Mountain Barracks (Cuartel de la Montaña)",
+image: "/poi-images/venezuela-cuartel-montana-history-v2.webp"
+},
     description: {
       de: "Ein markantes Militärgebäude, das eine wichtige Rolle in der modernen Geschichte Venezuelas spielt.",
       hu: "Egy feltűnő katonai épület, amely fontos szerepet játszik Venezuela modern történelmében.",
@@ -748,8 +769,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Denkmal der Schlacht von Taguanes",
       hu: "Taguanes-i Csata Emlékműve",
       ro: "Monumentul Bătăliei de la Taguanes",
-      en: "Taguanes Battle Monument"
-    },
+      en: "Taguanes Battle Monument",
+image: "/poi-images/venezuela-monumento-batalla-taguanes-history-v2.webp"
+},
     description: {
       de: "Ein beeindruckendes Denkmal zu Ehren der siegreichen Unabhängigkeitskämpfer in der Schlacht von Taguanes.",
       hu: "Lenyűgöző emlékmű a taguanesi csatában győztes függetlenségi harcosok tiszteletére.",
@@ -783,8 +805,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Kathedrale von Coro",
       hu: "Coro-i Katedrális",
       ro: "Catedrala din Coro",
-      en: "Coro Cathedral"
-    },
+      en: "Coro Cathedral",
+image: "/poi-images/venezuela-catedral-de-coro-history-v2.webp"
+},
     description: {
       de: "Die Kathedrale von Coro gehört zu den ältesten und architektonisch bedeutendsten Kirchen Venezuelas.",
       hu: "A corói katedrális Venezuela legrégebbi és építészetileg legjelentősebb templomai közé tartozik.",
@@ -818,8 +841,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Haus der eisernen Fenster",
       hu: "Vasablakok Háza",
       ro: "Casa Ferestrelor de Fier",
-      en: "House of the Iron Windows"
-    },
+      en: "House of the Iron Windows",
+image: "/poi-images/venezuela-casa-ventanas-hierro-history-v2.webp"
+},
     description: {
       de: "Ein klassisches Beispiel für die koloniale Architektur in Coro, bekannt für seinen schmiedeeisernen Balkon.",
       hu: "A corói gyarmati építészet klasszikus példája, amely kovácsoltvas erkélyéről ismert.",
@@ -853,8 +877,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Casa Guipuzcoana",
       hu: "Casa Guipuzcoana",
       ro: "Casa Guipuzcoana",
-      en: "Casa Guipuzcoana"
-    },
+      en: "Casa Guipuzcoana",
+image: "/poi-images/venezuela-casa-guipuzcoana-history-v2.webp"
+},
     description: {
       de: "Ein koloniales Handelshaus in La Guaira, das die wirtschaftliche Geschichte der Region symbolisiert.",
       hu: "Egy gyarmati kereskedőház La Guairában, amely a régió gazdasági történelmét szimbolizálja.",
@@ -888,8 +913,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Festung San Carlos in La Guaira",
       hu: "La Guaira-i San Carlos Erőd",
       ro: "Cetatea San Carlos din La Guaira",
-      en: "San Carlos Fort in La Guaira"
-    },
+      en: "San Carlos Fort in La Guaira",
+image: "/poi-images/venezuela-fuerte-san-carlos-history-v2.webp"
+},
     description: {
       de: "Diese historische Festung schützte den wichtigen Hafen von La Guaira vor maritimen Bedrohungen.",
       hu: "Ez a történelmi erőd védte La Guaira fontos kikötőjét a tengeri fenyegetésektől.",
@@ -923,8 +949,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Casa del Vínculo",
       hu: "Casa del Vínculo",
       ro: "Casa del Vínculo",
-      en: "Casa del Vínculo"
-    },
+      en: "Casa del Vínculo",
+image: "/poi-images/venezuela-casa-del-vinculo-history-v2.webp"
+},
     description: {
       de: "Ein kürzlich restauriertes Haus in Caracas, in dem Bolívar in den ersten Jahren seiner Ehe lebte.",
       hu: "Egy nemrégiben felújított ház Caracasban, ahol Bolívar élt házassága első éveiben.",
@@ -958,8 +985,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Hacienda La Trinidad",
       hu: "La Trinidad Birtok",
       ro: "Hacienda La Trinidad",
-      en: "Hacienda La Trinidad"
-    },
+      en: "Hacienda La Trinidad",
+image: "/poi-images/venezuela-hacienda-la-trinidad-history-v2.webp"
+},
     description: {
       de: "Eine ehemalige Kaffeeplantage, die heute ein blühendes kulturelles Zentrum und historischer Park ist.",
       hu: "Egykori kávéültetvény, amely ma virágzó kulturális központ és történelmi park.",
@@ -993,8 +1021,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Fortín El Zamuro",
       hu: "El Zamuro Erőd",
       ro: "Fortul El Zamuro",
-      en: "Fortín El Zamuro"
-    },
+      en: "Fortín El Zamuro",
+image: "/poi-images/venezuela-fortin-el-zamuro-history-v2.webp"
+},
     description: {
       de: "Eine Festung auf einem kleinen Hügel in Ciudad Bolívar, die bei militärischen Konflikten genutzt wurde.",
       hu: "Erőd egy kis dombon Ciudad Bolívarban, amelyet katonai konfliktusok során használtak.",
@@ -1028,8 +1057,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
       de: "Kirche von San Francisco de Yare",
       hu: "San Francisco de Yare Templom",
       ro: "Biserica din San Francisco de Yare",
-      en: "Church of San Francisco de Yare"
-    },
+      en: "Church of San Francisco de Yare",
+image: "/poi-images/venezuela-iglesia-san-francisco-yare-history-v2.webp"
+},
     description: {
       de: "Eine koloniale Kirche, die weltbekannt für die traditionellen Feierlichkeiten der tanzenden Teufel ist.",
       hu: "Gyarmati templom, amely világszerte ismert a táncoló ördögök hagyományos ünnepségeiről.",

@@ -11,8 +11,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Casablanca",
       hu: "Casablanca",
       ro: "Casablanca",
-      en: "Casablanca"
-    },
+      en: "Casablanca",
+image: "/poi-images/ma-casablanca-cities-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Casablanca, Marokkó lüktető gazdasági fővárosa, egyben a Maghreb-régió legnagyobb városa. A 20. század elején, a francia protektorátus alatt vált modern metropolisszá, és építészete máig őrzi a mór stílust az Art Deco és a modernizmus elemeivel vegyítő egyedi karakterét. A város szimbóluma a világ egyik legnagyobb mecsete, a II. Hasszán-mecset, amelynek 210 méter magas minaretje az Atlanti-óceán fölé magasodik. Casablanca ad otthont Marokkó legnagyobb kikötőjének és legfontosabb pénzügyi intézményeinek, így az ország kereskedelmi és ipari központja. A híres filmklasszikus ellenére a város inkább egy nyüzsgő, modern üzleti központ, mint egy romantikus hely, de a történelmi medinája és az elegáns, gyarmati korabeli negyedei bepillantást engednek gazdag múltjába. Földrajz K10 - Megapoliszok és gazdasági központok.",
       de: "Casablanca ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Die größte Stadt Marokkos und sein wirtschaftliches Zentrum. Wurde im 20. Jahrhundert stark ausgebaut. Die Hassan-II.-Moschee ist ein Wahrzeichen. Hat den größten Hafen des Landes. Diese Stadt zählt zu den charakteristischen Siedlungen Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -63,8 +64,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Rabat",
       hu: "Rabat",
       ro: "Rabat",
-      en: "Rabat"
-    },
+      en: "Rabat",
+image: "/poi-images/ma-rabat-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt Marokkos an der Küste des Atlantischen Ozeans.",
       hu: "Marokkó fővárosa az Atlanti-óceán partján.",
@@ -117,8 +119,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Fes",
       hu: "Fes",
       ro: "Fes",
-      en: "Fes"
-    },
+      en: "Fes",
+image: "/poi-images/ma-fes-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten und bedeutendsten Königsstädte Marokkos.",
       hu: "Marokkó egyik legrégebbi és legjelentősebb királyi városa.",
@@ -171,8 +174,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Marrakech",
       hu: "Marrakech",
       ro: "Marrakech",
-      en: "Marrakech"
-    },
+      en: "Marrakech",
+image: "/poi-images/ma-marrakech-cities-v2.webp"
+},
     description: {
       de: "Eine lebhafte Königsstadt, die als 'Rote Stadt' bekannt ist.",
       hu: "Nyüzsgő királyi város, amelyet 'Vörös Városként' is ismernek.",
@@ -225,8 +229,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Tangier",
       hu: "Tangier",
       ro: "Tangier",
-      en: "Tangier"
-    },
+      en: "Tangier",
+image: "/poi-images/ma-tangier-cities-v2.webp"
+},
     description: {
       de: "Eine bedeutende Hafenstadt an der Straße von Gibraltar.",
       hu: "Jelentős kikötőváros a Gibraltári-szorosnál.",
@@ -279,8 +284,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Agadir",
       hu: "Agadir",
       ro: "Agadir",
-      en: "Agadir"
-    },
+      en: "Agadir",
+image: "/poi-images/ma-agadir-cities-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Agadir, capitala regiunii Souss-Massa, este cel mai important oraș din sudul Marocului și o stațiune balneară de renume internațional. Distrus aproape în totalitate de un cutremur devastator în 1960, orașul a fost reconstruit complet, devenind un simbol al modernității marocane. Arhitectura sa este funcțională și aerisită, cu bulevarde largi și clădiri albe. Inima orașului este faleza sa magnifică, o plajă cu nisip fin, lungă de 9 km, mărginită de o promenadă plină de hoteluri, restaurante și cafenele. Portul său este unul dintre cele mai mari din Maroc, un centru vital pentru pescuit și comerț. Agadir este, de asemenea, un punct de plecare ideal pentru a explora Munții Anti-Atlas și parcurile naționale din sud. Urbanism K8 – reconstrucție și planificare urbană modernă.",
       de: "Agadir ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Ein beliebtes Küstenzentrum im Süden Marokkos, bekannt für seine Strände. Wurde nach einem Erdbeben 1960 fast vollständig neu erbaut. Bietet 300 Sonnentage im Jahr. Hat einen wichtigen Fischereihafen. Diese Stadt zählt zu den charakteristischen Siedlungen Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -329,8 +335,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Meknes",
       hu: "Meknes",
       ro: "Meknes",
-      en: "Meknes"
-    },
+      en: "Meknes",
+image: "/poi-images/ma-meknes-cities-v2.webp"
+},
     description: {
       de: "Eine der vier Königsstädte, geprägt durch Sultan Moulay Ismail.",
       hu: "A négy királyi város egyike, amelyet Moulay Ismail szultán formált.",
@@ -383,8 +390,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Oujda",
       hu: "Oujda",
       ro: "Oujda",
-      en: "Oujda"
-    },
+      en: "Oujda",
+image: "/poi-images/ma-oujda-cities-v2.webp"
+},
     description: {
       de: "Die wichtigste Stadt im Nordosten Marokkos nahe der algerischen Grenze.",
       hu: "Északkelet-Marokkó legfontosabb városa az algériai határ közelében.",
@@ -437,8 +445,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Kenitra",
       hu: "Kenitra",
       ro: "Kenitra",
-      en: "Kenitra"
-    },
+      en: "Kenitra",
+image: "/poi-images/ma-kenitra-cities-v2.webp"
+},
     description: {
       de: "Eine bedeutende Stadt am Fluss Sebou mit starker industrieller Basis.",
       hu: "Jelentős város a Sebou folyó mentén, erős ipari bázissal.",
@@ -491,8 +500,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Tetouan",
       hu: "Tetouan",
       ro: "Tetouan",
-      en: "Tetouan"
-    },
+      en: "Tetouan",
+image: "/poi-images/ma-tetouan-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'weiße Taube', eine Stadt mit starkem andalusischen Charakter.",
       hu: "A 'fehér galambként' ismert város erős andalúziai karakterrel.",
@@ -545,8 +555,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Safi",
       hu: "Safi",
       ro: "Safi",
-      en: "Safi"
-    },
+      en: "Safi",
+image: "/poi-images/ma-safi-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Hafenstadt und das Zentrum der marokkanischen Keramik.",
       hu: "Fontos kikötőváros és a marokkói kerámia központja.",
@@ -599,8 +610,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Mohammedia",
       hu: "Mohammedia",
       ro: "Mohammedia",
-      en: "Mohammedia"
-    },
+      en: "Mohammedia",
+image: "/poi-images/ma-mohammedia-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in der Nähe von Casablanca, bekannt für ihre Raffinerien.",
       hu: "Casablanca közeli tengerparti város, amely finomítóiról ismert.",
@@ -653,8 +665,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Khouribga",
       hu: "Khouribga",
       ro: "Khouribga",
-      en: "Khouribga"
-    },
+      en: "Khouribga",
+image: "/poi-images/ma-khouribga-cities-v2.webp"
+},
     description: {
       de: "Das Zentrum des marokkanischen Phosphatabbaus.",
       hu: "A marokkói foszfátbányászat központja.",
@@ -707,8 +720,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Beni Mellal",
       hu: "Beni Mellal",
       ro: "Beni Mellal",
-      en: "Beni Mellal"
-    },
+      en: "Beni Mellal",
+image: "/poi-images/ma-beni-mellal-cities-v2.webp"
+},
     description: {
       de: "Eine fruchtbare Oasenstadt am Fuße des Mittleren Atlas.",
       hu: "Termékeny oázisváros a Középső-Atlasz lábánál.",
@@ -761,8 +775,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "El Jadida",
       hu: "El Jadida",
       ro: "El Jadida",
-      en: "El Jadida"
-    },
+      en: "El Jadida",
+image: "/poi-images/ma-el-jadida-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt mit einer gut erhaltenen portugiesischen Zitadelle.",
       hu: "Tengerparti város egy jó állapotban fennmaradt portugál fellegvárral.",
@@ -815,8 +830,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Taza",
       hu: "Taza",
       ro: "Taza",
-      en: "Taza"
-    },
+      en: "Taza",
+image: "/poi-images/ma-taza-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt, die den strategischen Pass zwischen Rif und Atlasgebirge kontrolliert.",
       hu: "Történelmi város, amely a Rif és az Atlasz-hegység közötti stratégiai hágót ellenőrzi.",
@@ -869,8 +885,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Nador",
       hu: "Nador",
       ro: "Nador",
-      en: "Nador"
-    },
+      en: "Nador",
+image: "/poi-images/ma-nador-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt in der Region Rif am Ufer einer großen Lagune.",
       hu: "A Rif régió legnagyobb városa egy nagy lagúna partján.",
@@ -923,8 +940,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Settat",
       hu: "Settat",
       ro: "Settat",
-      en: "Settat"
-    },
+      en: "Settat",
+image: "/poi-images/ma-settat-cities-v2.webp"
+},
     description: {
       de: "Eine wachsende Universitäts- und Industriestadt auf der Chaouia-Ebene.",
       hu: "Növekvő egyetemi és ipari város a Chaouia-fennsíkon.",
@@ -977,8 +995,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Ksar El Kebir",
       hu: "Ksar El Kebir",
       ro: "Ksar El Kebir",
-      en: "Ksar El Kebir"
-    },
+      en: "Ksar El Kebir",
+image: "/poi-images/ma-ksar-el-kebir-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte Nordmarokkos mit reicher islamischer Geschichte.",
       hu: "Észak-Marokkó egyik legrégebbi városa gazdag iszlám történelemmel.",
@@ -1031,8 +1050,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Larache",
       hu: "Larache",
       ro: "Larache",
-      en: "Larache"
-    },
+      en: "Larache",
+image: "/poi-images/ma-larache-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt am Atlantik, bekannt für ihre blau-weiß getünchte Medina.",
       hu: "Tengerparti város az Atlanti-óceán partján, amely kék-fehérre meszelt medinájáról ismert.",
@@ -1085,8 +1105,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Khemisset",
       hu: "Khemisset",
       ro: "Khemisset",
-      en: "Khemisset"
-    },
+      en: "Khemisset",
+image: "/poi-images/ma-khemisset-cities-v2.webp"
+},
     description: {
       de: "Bekannt als das Herz des Zemmour-Stammesgebietes in der Nähe von Rabat.",
       hu: "A Zemmour törzsi terület szíveként ismert Rabat közelében.",
@@ -1139,8 +1160,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Guelmim",
       hu: "Guelmim",
       ro: "Guelmim",
-      en: "Guelmim"
-    },
+      en: "Guelmim",
+image: "/poi-images/ma-guelmim-cities-v2.webp"
+},
     description: {
       de: "Das Tor zur Sahara und bekannt für seinen Kamelmarkt.",
       hu: "A Szahara kapuja, amely tevepiacáról ismert.",
@@ -1193,8 +1215,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Berrechid",
       hu: "Berrechid",
       ro: "Berrechid",
-      en: "Berrechid"
-    },
+      en: "Berrechid",
+image: "/poi-images/ma-berrechid-cities-v2.webp"
+},
     description: {
       de: "Eine sich schnell entwickelnde Industriestadt im Großraum Casablanca.",
       hu: "Gyorsan fejlődő ipari város a tágabb Casablanca területén.",
@@ -1247,8 +1270,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Taourirt",
       hu: "Taourirt",
       ro: "Taourirt",
-      en: "Taourirt"
-    },
+      en: "Taourirt",
+image: "/poi-images/ma-taourirt-cities-v2.webp"
+},
     description: {
       de: "Eine Handels- und Industriestadt in der orientalischen Region.",
       hu: "Kereskedelmi és ipari város a keleti régióban.",
@@ -1301,8 +1325,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Errachidia",
       hu: "Errachidia",
       ro: "Errachidia",
-      en: "Errachidia"
-    },
+      en: "Errachidia",
+image: "/poi-images/ma-errachidia-cities-v2.webp"
+},
     description: {
       de: "Verwaltungszentrum der Region Drâa-Tafilalet und ein Militärstandort.",
       hu: "A Drâa-Tafilalet régió közigazgatási központja és katonai helyszín.",
@@ -1355,8 +1380,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Taroudant",
       hu: "Taroudant",
       ro: "Taroudant",
-      en: "Taroudant"
-    },
+      en: "Taroudant",
+image: "/poi-images/ma-taroudant-cities-v2.webp"
+},
     description: {
       de: "Oft als 'Klein-Marrakesch' bezeichnet, bekannt für ihre Stadtmauern.",
       hu: "Gyakran 'Kis-Marrakesh'-nek nevezik, városfalairól ismert.",
@@ -1409,8 +1435,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Ouarzazate",
       hu: "Ouarzazate",
       ro: "Ouarzazate",
-      en: "Ouarzazate"
-    },
+      en: "Ouarzazate",
+image: "/poi-images/ma-ouarzazate-cities-v2.webp"
+},
     description: {
       de: "Bekannt als das 'Hollywood Afrikas' wegen seiner Filmstudios.",
       hu: "Az afrikai 'Hollywood'-ként ismert filmstúdiói miatt.",
@@ -1463,8 +1490,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Berkane",
       hu: "Berkane",
       ro: "Berkane",
-      en: "Berkane"
-    },
+      en: "Berkane",
+image: "/poi-images/ma-berkane-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der marokkanischen Zitrusfrüchte-Produktion.",
       hu: "A marokkói citrusfélék termesztésének fővárosa.",
@@ -1517,8 +1545,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Al Hoceima",
       hu: "Al Hoceima",
       ro: "Al Hoceima",
-      en: "Al Hoceima"
-    },
+      en: "Al Hoceima",
+image: "/poi-images/ma-al-hoceima-cities-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Al Hoceima este un oraș situat pe coasta mediteraneană a Marocului, în inima regiunii muntoase Rif. Este renumit pentru golfurile sale spectaculoase și plajele cu nisip fin, precum Plage Quemado. Fondat de spanioli la începutul secolului al XX-lea sub numele de Villa Sanjurjo, orașul păstrează încă o anumită influență arhitecturală iberică. Este un port de pescuit important și o stațiune estivală populară printre marocani. Parcul Național Al Hoceima, situat în apropiere, protejează o porțiune de coastă sălbatică, cu stânci abrupte și o biodiversitate marină bogată, inclusiv colonii de vulturi pescari. Orașul este, de asemenea, un simbol al identității culturale a berberilor din Rif. Geografie K7 – interacțiunea dintre munte și mare.",
       de: "Al Hoceima ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Eine Hafenstadt am Mittelmeer, die für ihre Strände und den Nationalpark bekannt ist. Von spanischen Einflüssen geprägt (wurde 1925 als Villa Sanjurjo gegründet). Die Bucht gehört zu den schönsten in Marokko. Befindet sich im Zentrum des Rif-Gebirges. Diese Stadt zählt zu den charakteristischen Siedlungen Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -1567,8 +1596,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Chefchaouen",
       hu: "Chefchaouen",
       ro: "Chefchaouen",
-      en: "Chefchaouen"
-    },
+      en: "Chefchaouen",
+image: "/poi-images/ma-chefchaouen-cities-v2.webp"
+},
     description: {
       de: "Die berühmte 'Blaue Stadt' in den Ausläufern des Rif-Gebirges.",
       hu: "A híres 'Kék Város' a Rif-hegység lábánál.",
@@ -1621,8 +1651,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Laayoune",
       hu: "Laayoune",
       ro: "Laayoune",
-      en: "Laayoune"
-    },
+      en: "Laayoune",
+image: "/poi-images/ma-laayoune-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt der Westsahara, die de facto von Marokko verwaltet wird.",
       hu: "Nyugat-Szahara legnagyobb városa, amelyet de facto Marokkó igazgat.",
@@ -1675,8 +1706,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Dakhla",
       hu: "Dakhla",
       ro: "Dakhla",
-      en: "Dakhla"
-    },
+      en: "Dakhla",
+image: "/poi-images/ma-dakhla-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt auf einer Halbinsel, bekannt als Paradies für Kitesurfer.",
       hu: "Város egy félszigeten, amely a kiteszörfösök paradicsomaként ismert.",
@@ -1729,8 +1761,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Sidi Kacem",
       hu: "Sidi Kacem",
       ro: "Sidi Kacem",
-      en: "Sidi Kacem"
-    },
+      en: "Sidi Kacem",
+image: "/poi-images/ma-sidi-kacem-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftliches Zentrum in der fruchtbaren Rharb-Ebene.",
       hu: "Mezőgazdasági központ a termékeny Rharb-síkságon.",
@@ -1783,8 +1816,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Tiflet",
       hu: "Tiflet",
       ro: "Tiflet",
-      en: "Tiflet"
-    },
+      en: "Tiflet",
+image: "/poi-images/ma-tiflet-cities-v2.webp"
+},
     description: {
       de: "Eine rasch wachsende Stadt auf der Hochebene des Zemmour-Landes.",
       hu: "Gyorsan növekvő város a Zemmour-föld fennsíkján.",
@@ -1837,8 +1871,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Essaouira",
       hu: "Essaouira",
       ro: "Essaouira",
-      en: "Essaouira"
-    },
+      en: "Essaouira",
+image: "/poi-images/ma-essaouira-cities-v2.webp"
+},
     description: {
       de: "Eine charmante Küstenstadt, früher bekannt als Mogador.",
       hu: "Bájos tengerparti város, korábban Mogador néven volt ismert.",
@@ -1891,8 +1926,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Tiznit",
       hu: "Tiznit",
       ro: "Tiznit",
-      en: "Tiznit"
-    },
+      en: "Tiznit",
+image: "/poi-images/ma-tiznit-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Südmarokko, die für ihre Silber-Handwerkskunst bekannt ist.",
       hu: "Dél-Marokkó városa, amely ezüstművességéről ismert.",
@@ -1945,8 +1981,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Azrou",
       hu: "Azrou",
       ro: "Azrou",
-      en: "Azrou"
-    },
+      en: "Azrou",
+image: "/poi-images/ma-azrou-cities-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Azrou este un oraș berber situat în inima Munților Atlasul Mijlociu, la o altitudine de 1.250 de metri. Numele său înseamnă 'stâncă' în limba berberă (tamazight), făcând referire la o formațiune vulcanică proeminentă din centrul orașului. Azrou este renumit pentru pădurile sale de cedru din jur, care adăpostesc o populație semnificativă de macaci de Barbaria, o atracție majoră pentru vizitatori. Orașul este un centru important pentru artizanatul local, în special pentru covoarele berbere lucrate manual și pentru obiectele sculptate din lemn de cedru. Clima sa răcoroasă vara îl face o destinație populară pentru a scăpa de căldura orașelor imperiale. Este o bază excelentă pentru drumeții și explorarea frumuseții naturale a Atlasului Mijlociu. Geografie K6 – așezări montane.",
       de: "Azrou ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Eine Berberstadt im Mittleren Atlas, bekannt für ihre Zedernwälder. Der Name bedeutet 'Felsen' in der lokalen Berbersprache. Liegt in einer Höhe von über 1200 Metern. Berühmt für die Barbarenaffen in den nahen Wäldern. Diese Stadt zählt zu den charakteristischen Siedlungen Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -1995,8 +2032,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Midelt",
       hu: "Midelt",
       ro: "Midelt",
-      en: "Midelt"
-    },
+      en: "Midelt",
+image: "/poi-images/ma-midelt-cities-v2.webp"
+},
     description: {
       de: "Eine Bergstadt, die als das 'Apfelzentrum' Marokkos bekannt ist.",
       hu: "Hegyi város, amely Marokkó 'almaközpontjaként' ismert.",
@@ -2049,8 +2087,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Sefrou",
       hu: "Sefrou",
       ro: "Sefrou",
-      en: "Sefrou"
-    },
+      en: "Sefrou",
+image: "/poi-images/ma-sefrou-cities-v2.webp"
+},
     description: {
       de: "Eine charmante Stadt nahe Fès, die für ihr jährliches Kirschenfestival berühmt ist.",
       hu: "Bájos város Fés közelében, amely éves cseresznyefesztiváljáról híres.",
@@ -2103,8 +2142,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Jerada",
       hu: "Jerada",
       ro: "Jerada",
-      en: "Jerada"
-    },
+      en: "Jerada",
+image: "/poi-images/ma-jerada-cities-v2.webp"
+},
     description: {
       de: "Einst das Zentrum der marokkanischen Kohleförderung im Oriental.",
       hu: "Egykor a marokkói szénbányászat központja a keleti régióban.",
@@ -2157,8 +2197,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Tinghir",
       hu: "Tinghir",
       ro: "Tinghir",
-      en: "Tinghir"
-    },
+      en: "Tinghir",
+image: "/poi-images/ma-tinghir-cities-v2.webp"
+},
     description: {
       de: "Die wichtigste Stadt in der Nähe der berühmten Todra-Schlucht.",
       hu: "A legfontosabb város a híres Todra-szurdok közelében.",
@@ -2211,8 +2252,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Zagora",
       hu: "Zagora",
       ro: "Zagora",
-      en: "Zagora"
-    },
+      en: "Zagora",
+image: "/poi-images/ma-zagora-cities-v2.webp"
+},
     description: {
       de: "Eine Wüstenstadt im Drâa-Tal mit einem ikonischen Schild 'Timbuktu 52 Tage'.",
       hu: "Sivatagi város a Drâa-völgyben az ikonikus 'Timbuktu 52 nap' táblával.",
@@ -2265,8 +2307,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Youssoufia",
       hu: "Youssoufia",
       ro: "Youssoufia",
-      en: "Youssoufia"
-    },
+      en: "Youssoufia",
+image: "/poi-images/ma-youssoufia-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt, die nach dem Phosphatbergbau aufgebaut wurde.",
       hu: "Ipari város, amely a foszfátbányászat után épült fel.",
@@ -2319,8 +2362,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Fnideq",
       hu: "Fnideq",
       ro: "Fnideq",
-      en: "Fnideq"
-    },
+      en: "Fnideq",
+image: "/poi-images/ma-fnideq-cities-v2.webp"
+},
     description: {
       de: "Eine geschäftige Grenzstadt in der Nähe der spanischen Exklave Ceuta.",
       hu: "Nyüzsgő határváros a spanyol Ceuta exklávé közelében.",
@@ -2373,8 +2417,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Ouezzane",
       hu: "Ouezzane",
       ro: "Ouezzane",
-      en: "Ouezzane"
-    },
+      en: "Ouezzane",
+image: "/poi-images/ma-ouezzane-cities-v2.webp"
+},
     description: {
       de: "Eine spirituelle Stadt im Rif-Gebirge, heilig für viele Muslime und Juden.",
       hu: "Spirituális város a Rif-hegységben, szent sok muszlim és zsidó számára.",
@@ -2427,8 +2472,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Guercif",
       hu: "Guercif",
       ro: "Guercif",
-      en: "Guercif"
-    },
+      en: "Guercif",
+image: "/poi-images/ma-guercif-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt am Zusammenfluss von Moulouya und Melloulou.",
       hu: "Fontos közlekedési csomópont a Moulouya és a Melloulou folyók találkozásánál.",
@@ -2481,8 +2527,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Oued Zem",
       hu: "Oued Zem",
       ro: "Oued Zem",
-      en: "Oued Zem"
-    },
+      en: "Oued Zem",
+image: "/poi-images/ma-oued-zem-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Chaouia-Region, geprägt durch die Phosphatindustrie.",
       hu: "A Chaouia régió városa, amelyet a foszfátipar alakított.",
@@ -2535,8 +2582,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Sidi Ifni",
       hu: "Sidi Ifni",
       ro: "Sidi Ifni",
-      en: "Sidi Ifni"
-    },
+      en: "Sidi Ifni",
+image: "/poi-images/ma-sidi-ifni-cities-v2.webp"
+},
     description: {
       de: "Eine ehemalige spanische Enklave an der Atlantikküste, bekannt für ihre Art-Déco-Architektur.",
       hu: "Egykori spanyol exklávé az Atlanti-óceán partján, amely Art Deco építészetéről ismert.",
@@ -2589,8 +2637,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Martil",
       hu: "Martil",
       ro: "Martil",
-      en: "Martil"
-    },
+      en: "Martil",
+image: "/poi-images/ma-martil-cities-v2.webp"
+},
     description: {
       de: "Ein beliebter Badeort an der Mittelmeerküste nahe Tetouan.",
       hu: "Népszerű tengerparti üdülőhely a Földközi-tenger partján Tetouan közelében.",
@@ -2643,8 +2692,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Asilah",
       hu: "Asilah",
       ro: "Asilah",
-      en: "Asilah"
-    },
+      en: "Asilah",
+image: "/poi-images/ma-asilah-cities-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Asilah este un oraș fortificat fermecător pe coasta Atlanticului, la sud de Tanger. Medina sa, înconjurată de ziduri impunătoare construite de portughezi în secolul al XV-lea, este renumită pentru casele sale văruite în alb și albastru și pentru străzile curate și liniștite. Orașul a devenit un important centru artistic, găzduind anual un Festival Cultural Internațional, în timpul căruia artiști din întreaga lume pictează muralii pe pereții caselor din medină, transformând orașul într-o galerie de artă în aer liber. Pe lângă artă, Asilah este și o stațiune estivală populară, cu plaje frumoase și restaurante excelente cu specific pescăresc. Atmosfera sa boemă și relaxată atrage artiști, scriitori și turiști în căutare de inspirație. Artă și cultură K7 – arta publică și festivaluri.",
       de: "Asilah ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Eine charmante Kunststadt an der Küste mit gut erhaltenen portugiesischen Festungsmauern. Die Medina ist bekannt für ihre Wandmalereien, die jährlich erneuert werden. Richtet im Sommer ein internationales Kulturfestival aus. War im 15. Jahrhundert eine portugiesische Garnison. Diese Stadt zählt zu den charakteristischen Siedlungen Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -2693,8 +2743,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Ifrane",
       hu: "Ifrane",
       ro: "Ifrane",
-      en: "Ifrane"
-    },
+      en: "Ifrane",
+image: "/poi-images/ma-ifrane-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Schweiz Marokkos' aufgrund ihrer alpinen Architektur und des Schnees im Winter.",
       hu: "A 'Marokkói Svájc' néven ismert alpesi építészete és a téli hó miatt.",
@@ -2747,8 +2798,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Tan-Tan",
       hu: "Tan-Tan",
       ro: "Tan-Tan",
-      en: "Tan-Tan"
-    },
+      en: "Tan-Tan",
+image: "/poi-images/ma-tan-tan-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in den südlichen Provinzen, berühmt für ihr Nomadenfestival (Moussem).",
       hu: "Város a déli tartományokban, amely nomád fesztiváljáról (Moussem) híres.",
@@ -2801,8 +2853,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Khenifra",
       hu: "Khenifra",
       ro: "Khenifra",
-      en: "Khenifra"
-    },
+      en: "Khenifra",
+image: "/poi-images/ma-khenifra-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Mittleren Atlas, die als Hauptstadt der Zayanes (Berberstamm) gilt.",
       hu: "Város a Középső-Atlaszban, amelyet a Zayanes (berber törzs) fővárosának tartanak.",
@@ -2855,8 +2908,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Taounate",
       hu: "Taounate",
       ro: "Taounate",
-      en: "Taounate"
-    },
+      en: "Taounate",
+image: "/poi-images/ma-taounate-cities-v2.webp"
+},
     description: {
       de: "Eine hügelige Stadt im südlichen Rif-Gebirge, geprägt von Oliven- und Feigenanbau.",
       hu: "Dombvidéki város a déli Rif-hegységben, amelyet olíva- és fügetermesztés jellemez.",
@@ -2909,8 +2963,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Azemmour",
       hu: "Azemmour",
       ro: "Azemmour",
-      en: "Azemmour"
-    },
+      en: "Azemmour",
+image: "/poi-images/ma-azemmour-cities-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Azemmour este un oraș istoric situat pe malul stâng al râului Oum Er-Rbia, aproape de vărsarea acestuia în Oceanul Atlantic. Medina sa veche, înconjurată de ziduri ocru, păstrează o atmosferă autentică, mai puțin atinsă de turismul de masă. Orașul a fost sub control portughez în secolul al XVI-lea, iar fortificațiile și bastioanele masive amintesc de această perioadă. Este un loc care a inspirat mulți artiști, iar în ultimii ani, a devenit un centru pentru arta stradală, cu numeroase picturi murale care decorează casele din medină. Cartierul evreiesc (mellah) și sinagoga sa veche sunt, de asemenea, de interes istoric. Azemmour oferă o incursiune într-un Maroc mai tradițional și mai liniștit, la mică distanță de agitația Casablancăi. Istorie K7 – influențe portugheze în Maroc.",
       de: "Azemmour ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Eine alte Stadt am Ufer des Oum er-Rbia mit portugiesischer Vergangenheit. Ihre Medina wird von beeindruckenden portugiesischen Mauern geschützt. Die Stadt ist ein wichtiges Pilgerziel für marokkanische Juden. Viele Künstler haben sich von den ruhigen Straßen inspirieren lassen. Diese Stadt zählt zu den charakteristischen Siedlungen Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -2959,8 +3014,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "El Kelaa des Sraghna",
       hu: "El Kelaa des Sraghna",
       ro: "El Kelaa des Sraghna",
-      en: "El Kelaa des Sraghna"
-    },
+      en: "El Kelaa des Sraghna",
+image: "/poi-images/ma-el-kelaa-des-sraghna-cities-v2.webp"
+},
     description: {
       de: "Ein bedeutendes landwirtschaftliches Zentrum, das besonders für seinen Olivenanbau bekannt ist.",
       hu: "Jelentős mezőgazdasági központ, amely különösen az olajbogyó-termesztésről ismert.",
@@ -3013,8 +3069,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Benslimane",
       hu: "Benslimane",
       ro: "Benslimane",
-      en: "Benslimane"
-    },
+      en: "Benslimane",
+image: "/poi-images/ma-benslimane-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Grüne Lunge' aufgrund des umliegenden Eichenwaldes.",
       hu: "A 'Zöld Tüdő' néven ismert a környező tölgyerdő miatt.",
@@ -3067,8 +3124,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Sidi Bennour",
       hu: "Sidi Bennour",
       ro: "Sidi Bennour",
-      en: "Sidi Bennour"
-    },
+      en: "Sidi Bennour",
+image: "/poi-images/ma-sidi-bennour-cities-v2.webp"
+},
     description: {
       de: "Das landwirtschaftliche Zentrum der wohlhabenden Doukkala-Ebene.",
       hu: "A gazdag Doukkala-síkság mezőgazdasági központja.",
@@ -3121,8 +3179,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Boujdour",
       hu: "Boujdour",
       ro: "Boujdour",
-      en: "Boujdour"
-    },
+      en: "Boujdour",
+image: "/poi-images/ma-boujdour-cities-v2.webp"
+},
     description: {
       de: "Eine schnell wachsende Küstenstadt in der Westsahara mit einem bekannten Leuchtturm.",
       hu: "Gyorsan növekvő tengerparti város Nyugat-Szaharában, jól ismert világítótoronnyal.",
@@ -3175,8 +3234,9 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       de: "Taliouine",
       hu: "Taliouine",
       ro: "Taliouine",
-      en: "Taliouine"
-    },
+      en: "Taliouine",
+image: "/poi-images/ma-taliouine-cities-v2.webp"
+},
     description: {
       de: "Das marokkanische Zentrum der Safranproduktion.",
       hu: "A sáfránytermesztés marokkói központja.",

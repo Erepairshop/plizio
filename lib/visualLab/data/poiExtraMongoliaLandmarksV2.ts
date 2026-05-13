@@ -10,8 +10,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Khongoryn Els",
       hu: "Khongoryn Els",
       ro: "Khongoryn Els",
-      en: "Khongoryn Els"
-    },
+      en: "Khongoryn Els",
+image: "/poi-images/khongoryn-els-landmarks-v2.webp"
+},
     description: {
       de: "Khongoryn Els, auch als 'Singender Sand' bekannt, sind die größten und spektakulärsten Sanddünen der Wüste Gobi in der Mongolei. Wenn der Wind den Sand bewegt, entsteht ein unverwechselbares summendes Geräusch.",
       hu: "A Khongoryn Els, vagyis az 'Éneklő Homokdűnék', a Góbi sivatag legmagasabb és leglátványosabb dűnéi Mongóliában. Amikor a szél fúj, a mozgó homok egyedi búgó hangot ad ki.",
@@ -53,8 +54,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Flammende Klippen (Bajandsag)",
       hu: "Lángoló Sziklák (Bayanzag)",
       ro: "Stâncile Înflăcărate (Bayanzag)",
-      en: "Flaming Cliffs (Bayanzag)"
-    },
+      en: "Flaming Cliffs (Bayanzag)",
+image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp"
+},
     description: {
       de: "Die Flammenden Klippen, mongolisch Bajandsag, sind eine rötliche Sandsteinformation in der Wüste Gobi. Sie erhielten ihren Namen durch die intensiv rote Farbe, die besonders bei Sonnenuntergang leuchtet.",
       hu: "A Lángoló Sziklák, mongolul Bayanzag, egy vöröses homokkő-képződmény a Góbi sivatagban. Nevüket az intenzív vörös színükről kapták, amely különösen naplemente idején ragyog.",
@@ -96,8 +98,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Geierschlucht (Yolyn Am)",
       hu: "Keselyűk Völgye (Yolyn Am)",
       ro: "Valea Vulturilor (Yolyn Am)",
-      en: "Valley of the Eagles (Yolyn Am)"
-    },
+      en: "Valley of the Eagles (Yolyn Am)",
+image: "/poi-images/yolyn-am-landmarks-v2.webp"
+},
     description: {
       de: "Yolyn Am, auch als Geierschlucht bekannt, ist eine tiefe und enge Schlucht im Gurwan-Saichan-Nationalpark. Ungewöhnlich für die Gobi-Wüste, bewahrt die Schlucht oft tiefes Eis, das bis in den Sommer hinein erhalten bleibt.",
       hu: "A Yolyn Am, vagyis a Keselyűk Völgye egy mély és szűk szurdok a Gurvan Saikhan Nemzeti Parkban. A Góbi sivataghoz képest szokatlan módon, a szurdok mélyén gyakran nyárig megmarad a jég.",
@@ -139,8 +142,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Schildkrötenfelsen (Melkhii Khad)",
       hu: "Teknős-szikla (Melkhii Khad)",
       ro: "Stânca Țestoasă (Melkhii Khad)",
-      en: "Turtle Rock (Melkhii Khad)"
-    },
+      en: "Turtle Rock (Melkhii Khad)",
+image: "/poi-images/turtle-rock-landmarks-v2.webp"
+},
     description: {
       de: "Der Schildkrötenfelsen ist eine imposante Granitfelsformation im Gorkhi-Terelj-Nationalpark, die natürlich die Form einer riesigen Schildkröte angenommen hat. Er ist ein beliebtes Fotomotiv und ein Symbol des Parks.",
       hu: "A Teknős-szikla egy lenyűgöző gránit sziklaképződmény a Gorkhi-Terelj Nemzeti Parkban, amely természetes módon egy hatalmas teknős formáját öltötte. Kedvelt fotótéma és a park egyik szimbóluma.",
@@ -182,8 +186,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Chustain-Nuruu-Nationalpark",
       hu: "Hustain Nuruu Nemzeti Park",
       ro: "Parcul Național Hustai",
-      en: "Hustai National Park"
-    },
+      en: "Hustai National Park",
+image: "/poi-images/khustai-national-park-landmarks-v2.webp"
+},
     description: {
       de: "Der Chustain-Nuruu-Nationalpark ist das wichtigste Schutzgebiet für die erfolgreiche Wiederansiedlung der Przewalski-Pferde, auch Takhi genannt. Diese seltenen, ehemals in freier Wildbahn ausgestorbenen Urpferde streifen hier wieder frei umher.",
       hu: "A Hustain Nuruu Nemzeti Park a Przsevalszkij-lovak, más néven takhik sikeres visszatelepítésének legfontosabb védett területe. Ezek a ritka, a vadonból korábban kihalt őslovak itt újra szabadon kószálnak.",
@@ -225,8 +230,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Orchon-Wasserfall (Ulaan Tsutgalan)",
       hu: "Orkhon-vízesés (Ulaan Tsutgalan)",
       ro: "Cascada Orkhon (Ulaan Tsutgalan)",
-      en: "Orkhon Waterfall (Ulaan Tsutgalan)"
-    },
+      en: "Orkhon Waterfall (Ulaan Tsutgalan)",
+image: "/poi-images/orkhon-waterfall-landmarks-v2.webp"
+},
     description: {
       de: "Der Orchon-Wasserfall, mongolisch Ulaan Tsutgalan, ist der berühmteste Wasserfall der Mongolei. Er entstand vor tausenden Jahren durch Vulkaneruptionen und Erdbeben, die das tiefe Basalttal des Orchon-Flusses formten.",
       hu: "Az Orkhon-vízesés, mongolul Ulaan Tsutgalan, Mongólia leghíresebb vízesése. Több ezer évvel ezelőtt alakult ki vulkánkitörések és földrengések nyomán, amelyek az Orkhon-folyó mély bazaltvölgyét formálták.",
@@ -268,8 +274,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Weiße Stupa (Tsagaan Suvarga)",
       hu: "Fehér Sztúpa (Tsagaan Suvarga)",
       ro: "Stupa Albă (Tsagaan Suvarga)",
-      en: "White Stupa (Tsagaan Suvarga)"
-    },
+      en: "White Stupa (Tsagaan Suvarga)",
+image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp"
+},
     description: {
       de: "Tsagaan Suvarga, was übersetzt Weiße Stupa bedeutet, ist eine steile Kalksteinformation in der Halbwüste, die durch Wind- und Wassererosion geformt wurde. Von Weitem betrachtet erinnern die farbenfrohen Klippen an die Ruinen einer antiken Stadt.",
       hu: "A Tsagaan Suvarga, amelynek jelentése Fehér Sztúpa, egy meredek mészkőképződmény a félsivatagban, amelyet a szél és a víz eróziója formált. Távolról nézve a színes sziklák egy ókori város romjaira emlékeztetnek.",
@@ -311,8 +318,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Baga Gazriin Chuluu",
       hu: "Baga Gazriin Chuluu",
       ro: "Baga Gazriin Chuluu",
-      en: "Baga Gazriin Chuluu"
-    },
+      en: "Baga Gazriin Chuluu",
+image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp"
+},
     description: {
       de: "Baga Gazriin Chuluu ist ein malerisches Granitfelsmassiv, das abrupt aus der flachen Steppe der Mittelgobi emporragt. Zwischen den verwitterten Felsblöcken verbergen sich antike Inschriften, kleine Höhlen und Ruinen alter Tempel.",
       hu: "A Baga Gazriin Chuluu egy festői gránit sziklatömb, amely hirtelen emelkedik ki a Közép-Góbi lapos sztyeppéjéből. A viharvert sziklatömbök között ősi feliratok, apró barlangok és régi templomok romjai bújnak meg.",
@@ -354,8 +362,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Chorgo-Vulkan",
       hu: "Khorgo-vulkán",
       ro: "Vulcanul Khorgo",
-      en: "Khorgo Volcano"
-    },
+      en: "Khorgo Volcano",
+image: "/poi-images/khorgo-volcano-landmarks-v2.webp"
+},
     description: {
       de: "Der Chorgo-Vulkan ist ein erloschener Vulkan im Nationalpark Khorgo-Terkhiin Tsagaan Nuur. Sein Krater und das umliegende Lavafeld zeugen von den gewaltigen Ausbrüchen, die diese Region vor Tausenden von Jahren geprägt haben.",
       hu: "A Khorgo-vulkán egy kialudt vulkán a Khorgo-Terkhiin Tsagaan Nuur Nemzeti Parkban. Krátere és a környező lávamező tanúskodik azokról a hatalmas kitörésekről, amelyek évezredekkel ezelőtt formálták a régiót.",
@@ -397,8 +406,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Terkhiin Tsagaan Nuur",
       hu: "Terkhiin Tsagaan Nuur",
       ro: "Terkhiin Tsagaan Nuur",
-      en: "Terkhiin Tsagaan Nuur"
-    },
+      en: "Terkhiin Tsagaan Nuur",
+image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp"
+},
     description: {
       de: "Der Terkhiin Tsagaan Nuur, oder Große Weiße See, ist ein wunderschöner Süßwassersee in der zentralen Mongolei, der von Vulkanen umgeben ist. Er ist ein Paradies für Vogelliebhaber und ein ideales Gebiet für entspannte Reitausflüge.",
       hu: "A Terkhiin Tsagaan Nuur, vagyis a Nagy Fehér-tó egy gyönyörű édesvizű tó Közép-Mongóliában, amelyet vulkánok vesznek körül. A tó valóságos paradicsom a madármegfigyelők számára, és ideális hely a nyugodt lovastúrákhoz.",
@@ -440,8 +450,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Heiße Quellen von Tsenkher",
       hu: "Tsenkher hőforrások",
       ro: "Izvoarele Termale Tsenkher",
-      en: "Tsenkher Hot Springs"
-    },
+      en: "Tsenkher Hot Springs",
+image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp"
+},
     description: {
       de: "Die heißen Quellen von Tsenkher sind tief in den bewaldeten Bergen der Arkhangai-Provinz verborgen. Das bis zu 85 Grad heiße Thermalwasser ist reich an Mineralien und speist heute mehrere entspannende Außenbecken von Jurtencamps.",
       hu: "A Tsenkher hőforrások mélyen az Arkhangai tartomány erdős hegyeiben bújnak meg. Az akár 85 fokos termálvíz ásványi anyagokban gazdag, és ma több jurtatábor pihentető szabadtéri medencéjét látja el.",
@@ -483,8 +494,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Aryabal-Meditationszentrum",
       hu: "Aryabal meditációs templom",
       ro: "Templul de Meditație Aryabal",
-      en: "Aryabal Meditation Temple"
-    },
+      en: "Aryabal Meditation Temple",
+image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp"
+},
     description: {
       de: "Das Aryabal-Meditationszentrum ist ein buddhistischer Tempel im Gorkhi-Terelj-Nationalpark, der malerisch in einen steilen Berghang gebaut wurde. Es ehrt Aryabal, den Bodhisattva des Mitgefühls, und bietet eine ruhige Atmosphäre.",
       hu: "Az Aryabal meditációs központ egy buddhista templom a Gorkhi-Terelj Nemzeti Parkban, amelyet festői környezetben egy meredek hegyoldalba építettek. Aryabalt, az együttérzés bódhiszattváját tiszteli, és békés légkört kínál.",
@@ -526,8 +538,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Süchbaatar-Platz",
       hu: "Szühebátor tér",
       ro: "Piața Sukhbaatar",
-      en: "Sükhbaatar Square"
-    },
+      en: "Sükhbaatar Square",
+image: "/poi-images/sukhbaatar-square-landmarks-v2.webp"
+},
     description: {
       de: "Der Süchbaatar-Platz ist das pulsierende Herz der Hauptstadt Ulaanbaatar. Umgeben von wichtigen Regierungsgebäuden und Museen, dient der riesige Platz als Schauplatz für nationale Feste, Paraden und Konzerte.",
       hu: "A Szühebátor tér a főváros, Ulánbátor lüktető szíve. A fontos kormányzati épületekkel és múzeumokkal körülvett hatalmas tér nemzeti ünnepek, parádék és koncertek helyszíneként szolgál.",
@@ -569,8 +582,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Altai-Tavan-Bogd-Nationalpark",
       hu: "Altaj Tavan Bogd Nemzeti Park",
       ro: "Parcul Național Altai Tavan Bogd",
-      en: "Altai Tavan Bogd National Park"
-    },
+      en: "Altai Tavan Bogd National Park",
+image: "/poi-images/al-tai-tavan-bogd-landmarks-v2.webp"
+},
     description: {
       de: "Der Altai-Tavan-Bogd-Nationalpark im äußersten Westen der Mongolei ist berühmt für seine vergletscherten Gipfel, tiefen Seen und antiken Petroglyphen. Er ist die Heimat der kasachischen Adlerjäger, die hier ihre jahrhundertealte Tradition pflegen.",
       hu: "A Mongólia legnyugatibb csücskében fekvő Altaj Tavan Bogd Nemzeti Park híres gleccseres csúcsairól, mély tavairól és ősi petroglifáiról. Itt élnek a kazah sasvadászok, akik ma is ápolják évszázados hagyományaikat.",
@@ -613,8 +627,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Khermen Tsav",
       hu: "Khermen Tsav",
       ro: "Khermen Tsav",
-      en: "Khermen Tsav"
-    },
+      en: "Khermen Tsav",
+image: "/poi-images/khermen-tsav-landmarks-v2.webp"
+},
     description: {
       de: "Khermen Tsav ist eine entlegene, zerklüftete Canyon-Landschaft aus rotem Sandstein tief in der Wüste Gobi. Wegen der extremen Abgeschiedenheit und der rauen Bedingungen wird sie oft als das 'Ende der Welt' bezeichnet.",
       hu: "A Khermen Tsav egy távoli, zord vörös homokkő kanyon a Góbi sivatag mélyén. Az extrém elszigeteltség és a zord körülmények miatt gyakran a 'világ végének' is nevezik.",
@@ -656,8 +671,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Burchan Chaldun",
       hu: "Burkhan Khaldun hegy",
       ro: "Muntele Burkhan Khaldun",
-      en: "Burkhan Khaldun Mountain"
-    },
+      en: "Burkhan Khaldun Mountain",
+image: "/poi-images/burkhan-khaldun-landmarks-v2.webp"
+},
     description: {
       de: "Der Burchan Chaldun ist der heiligste Berg der Mongolei, versteckt in der bewaldeten Khentii-Gebirgskette. Er gilt als der wahrscheinliche Geburtsort und die geheime Ruhestätte von Dschingis Khan.",
       hu: "A Burkhan Khaldun Mongólia legszentebb hegye, amely a fás Khentii-hegységben rejtőzik. Úgy tartják, hogy ez Dzsingisz kán feltételezett szülőhelye és titkos végső nyughelye.",
@@ -699,8 +715,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Aglag Buteel Kloster",
       hu: "Aglag Buteel kolostor",
       ro: "Mănăstirea Aglag Buteel",
-      en: "Aglag Buteel Monastery"
-    },
+      en: "Aglag Buteel Monastery",
+image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Das Aglag Buteel Kloster ist ein einzigartiges spirituelles Zentrum und Museum, eingebettet in die schroffen Granitberge. Es wurde von einem berühmten mongolischen buddhistischen Lama entworfen und zeichnet sich durch fantastische Steinskulpturen aus.",
       hu: "Az Aglag Buteel kolostor egy egyedülálló spirituális központ és múzeum a zord gránithegyek ölelésében. Egy híres mongol buddhista láma tervezte, és fantasztikus kőszobrok sokasága jellemzi.",
@@ -742,8 +759,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Versteinerter Wald von Suikhent",
       hu: "Suikhent megkövesedett erdeje",
       ro: "Pădurea Pietrificată Suikhent",
-      en: "Suikhent Petrified Forest"
-    },
+      en: "Suikhent Petrified Forest",
+image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp"
+},
     description: {
       de: "Der versteinerte Wald von Suikhent ist eine paläontologische Sensation in der mongolischen Wüste. Vor Millionen von Jahren von Vulkanasche begraben, verwandelten sich die massiven Baumstämme in steinernes Holz.",
       hu: "A suikhenti megkövesedett erdő igazi őslénytani szenzáció a mongol sivatagban. A több millió évvel ezelőtt vulkáni hamu alá temetett hatalmas fatörzsek kővé dermedtek az idők során.",
@@ -785,8 +803,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Shiliin Bogd",
       hu: "Shiliin Bogd vulkán",
       ro: "Vulcanul Shiliin Bogd",
-      en: "Shiliin Bogd Mountain"
-    },
+      en: "Shiliin Bogd Mountain",
+image: "/poi-images/shiliin-bogd-landmarks-v2.webp"
+},
     description: {
       de: "Der Shiliin Bogd ist ein markanter, erloschener Vulkankegel in der weitläufigen Steppe der Provinz Sükhbaatar. Für die Mongolen ist er ein heiliger Ort, der besonders bei Sonnenaufgang für Gebete aufgesucht wird.",
       hu: "A Shiliin Bogd egy feltűnő, kialudt vulkáni kúp Sükhbaatar tartomány tágas sztyeppéjén. A mongolok számára szent hely, amelyet különösen napkeltekor látogatnak imádkozás céljából.",
@@ -828,8 +847,9 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Taikhar-Felsen (Taikhar Chuluu)",
       hu: "Taikhar-szikla (Taikhar Chuluu)",
       ro: "Stânca Taikhar (Taikhar Chuluu)",
-      en: "Taikhar Rock (Taikhar Chuluu)"
-    },
+      en: "Taikhar Rock (Taikhar Chuluu)",
+image: "/poi-images/taikhar-chuluu-landmarks-v2.webp"
+},
     description: {
       de: "Der Taikhar Chuluu ist ein massiver, 20 Meter hoher Granitblock, der rätselhafterweise mitten in der weiten Ebene am Fluss Tamir steht. Der Felsen ist über und über mit historischen Inschriften bedeckt.",
       hu: "A Taikhar Chuluu egy hatalmas, 20 méter magas gránittömb, amely rejtélyes módon a Tamir folyó melletti síkság közepén áll. A sziklát történelmi feliratok borítják minden oldalról.",

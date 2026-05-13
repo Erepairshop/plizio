@@ -4,7 +4,9 @@ export const bosniaherzegovinaLifeV2: POI[] = [
   {
     id: "bosniaherzegovina-kozara-life-v2",
     type: "park",
-    name: { de: "Nationalpark Kozara", hu: "Kozara Nemzeti Park", ro: "Parcul Național Kozara", en: "Kozara National Park" },
+    name: { de: "Nationalpark Kozara", hu: "Kozara Nemzeti Park", ro: "Parcul Național Kozara", en: "Kozara National Park",
+image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"
+},
     coords: [16.8925, 45.0117],
     coordinates: { lat: 45.0117, lng: 16.8925 },
     description: {
@@ -19,11 +21,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Parc național din 1967", "902 specii de plante", "Păduri mixte dense", "Zonă bogată în avifaună"],
       en: ["National park since 1967", "902 plant species documented", "Dense mixed forests", "Bird-rich forest area"],
     },
-    imageHint: "Kozara National Park dense forest", image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"},
+    imageHint: "Kozara National Park dense forest",
+    image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1967 gegründete Nationalpark im Norden Bosniens schützt die dichten Nadelwälder des Kozara-Gebirges. Das Mrakovica-Denkmal erinnert an die historische Bedeutung der Region.",
+      hu: "Az 1967-ben alapított nemzeti park a Kozara-hegység sűrű fenyőerdőit és történelmi helyszíneit óvja. A Mrakovica-emlékmű a térség második világháborús ellenállásának állít emléket.",
+      ro: "Înființat în 1967, parcul național din nordul Bosniei protejează pădurile dense de conifere ale munților Kozara. Monumentul Mrakovica subliniază importanța istorică a regiunii.",
+      en: "Established in 1967, this national park protects the dense coniferous forests of the Kozara mountains. The Mrakovica monument highlights the historical significance of the area.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 33,75 km²", "Gegründet: 1967", "Höchster Punkt: 978 m (Lisina)", "Baumbestand: Buche und Tanne"],
+      hu: ["Területe: 33,75 km²", "Alapítás: 1967", "Legmagasabb pont: 978 m (Lisina)", "Flóra: bükk és jegenyefenyő"],
+      ro: ["Suprafață: 33,75 km²", "Fondat în: 1967", "Altitudine max.: 978 m (Lisina)", "Floră: fag și brad"],
+      en: ["Area: 33.75 km²", "Founded: 1967", "Highest peak: 978 m (Lisina)", "Forest type: Beech and fir"],
+    },
+  },
   {
     id: "bosniaherzegovina-drina-life-v2",
     type: "park",
-    name: { de: "Nationalpark Drina", hu: "Drina Nemzeti Park", ro: "Parcul Național Drina", en: "Drina National Park" },
+    name: { de: "Nationalpark Drina", hu: "Drina Nemzeti Park", ro: "Parcul Național Drina", en: "Drina National Park",
+image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"
+},
     coords: [19.3458, 43.9875],
     coordinates: { lat: 43.9875, lng: 19.3458 },
     description: {
@@ -38,11 +56,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Fondat în anul 2017", "Protejează molidul sârbesc", "Canioane adânci de stâncă", "Habitat pentru capre negre"],
       en: ["Established in 2017", "Protects the Pančić spruce", "Deep rocky canyons", "Habitat for chamois"],
     },
-    imageHint: "Drina river canyon and spruce trees", image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"},
+    imageHint: "Drina river canyon and spruce trees",
+    image: "/poi-images/bosniaherzegovina-drina-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser 2017 gegründete Nationalpark umfasst die spektakulären Schluchten am Mittellauf der Drina. Er ist ein Refugium für seltene Pflanzen wie die Serbische Fichte.",
+      hu: "A 2017-ben létrehozott nemzeti park a Drina-folyó középső szakaszának lenyűgöző szurdokait és a ritka szerb lucfenyő élőhelyeit őrzi a szerb határ menti térségben.",
+      ro: "Înființat în 2017, parcul protejează defileele spectaculoase de pe cursul mijlociu al râului Drina. Este un refugiu pentru specii rare, precum molidul sârbesc (Picea omorika).",
+      en: "Created in 2017, this national park encompasses the spectacular canyons of the middle Drina river course. it is a sanctuary for rare plants like the Serbian spruce.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 63,15 km²", "Gegründet: 2017", "Flusslänge im Park: 35 km", "Spezies: Serbische Fichte"],
+      hu: ["Területe: 63,15 km²", "Alapítás: 2017", "Folyóhossz a parkban: 35 km", "Faj: szerb lucfenyő"],
+      ro: ["Suprafață: 63,15 km²", "Fondat în: 2017", "Lungime râu: 35 km", "Specie cheie: Picea omorika"],
+      en: ["Area: 63.15 km²", "Established: 2017", "River length: 35 km", "Key species: Serbian Spruce"],
+    },
+  },
   {
     id: "bosniaherzegovina-bardaca-life-v2",
     type: "wildlife",
-    name: { de: "Feuchtgebiet Bardača", hu: "Bardača-mocsár", ro: "Zona umedă Bardača", en: "Bardača Wetland" },
+    name: { de: "Feuchtgebiet Bardača", hu: "Bardača-mocsár", ro: "Zona umedă Bardača", en: "Bardača Wetland",
+image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp"
+},
     coords: [17.4394, 45.1056],
     coordinates: { lat: 45.1056, lng: 17.4394 },
     description: {
@@ -58,11 +92,25 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       en: ["Ramsar status since 2007", "Complex of 11 lakes", "178 bird species recorded", "Important fish spawning site"],
     },
     imageHint: "Bardaca wetland lakes",
+    descriptionAdvanced: {
+      de: "Dieses Ramsar-Schutzgebiet umfasst elf Seen und ist ein kritischer Lebensraum für über 190 Vogelarten. Es spielt eine zentrale Rolle für den Naturschutz in der Save-Ebene.",
+      hu: "A Ramsari egyezmény alá tartozó terület tizenegy tavat foglal magában, és több mint 190 madárfaj élőhelye. Kulcsszerepet játszik a Száva-síkság biodiverzitásában.",
+      ro: "Această zonă Ramsar cuprinde unsprezece lacuri și reprezintă un habitat critic pentru peste 190 de specii de păsări. Este vitală pentru conservarea biodiversității în valea Savei.",
+      en: "This Ramsar wetland site includes eleven lakes and serves as a critical habitat for over 190 bird species. It plays a central role in biodiversity in the Sava river plain.",
+    },
+    factsAdvanced: {
+      de: ["Ramsar-Status: seit 2007", "Vogelarten: 193 dokumentiert", "Anzahl der Seen: 11", "Lage: Nahe Srbac"],
+      hu: ["Ramsari státusz: 2007 óta", "Madárfajok száma: 193", "Tavak száma: 11", "Helyszín: Srbac közelében"],
+      ro: ["Statut Ramsar: din 2007", "Specii de păsări: 193", "Număr de lacuri: 11", "Locație: Lângă Srbac"],
+      en: ["Ramsar status: since 2007", "Bird species: 193 documented", "Number of lakes: 11", "Location: Near Srbac"],
+    },
   },
   {
     id: "bosniaherzegovina-sarajevo-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Sarajevo", hu: "Szarajevói Állatkert", ro: "Grădina Zoologică Sarajevo", en: "Sarajevo Zoo" },
+    name: { de: "Zoo Sarajevo", hu: "Szarajevói Állatkert", ro: "Grădina Zoologică Sarajevo", en: "Sarajevo Zoo",
+image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"
+},
     coords: [18.4161, 43.8742],
     coordinates: { lat: 43.8742, lng: 18.4161 },
     description: {
@@ -77,11 +125,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Cea mai veche grădină zoo", "Situată în Pionirska dolina", "Găzduiește lei și urși", "Include secțiune botanică"],
       en: ["Oldest zoo in the country", "Located in Pionirska dolina", "Home to lions and bears", "Includes botanical section"],
     },
-    imageHint: "Sarajevo Zoo entrance", image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"},
+    imageHint: "Sarajevo Zoo entrance",
+    image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1951 eröffnete Zoo, bekannt als Pionirska dolina, ist die älteste Einrichtung ihrer Art in Bosnien. Nach dem Krieg wurde er als modernes Erholungsgebiet wiederaufgebaut.",
+      hu: "Az 1951-ben megnyílt állatkert, a Pionirska dolina, Bosznia legrégebbi ilyen intézménye. A háború után újjáépítették, ma modern családi szabadidőparkként működik.",
+      ro: "Deschis în 1951, grădina zoologică Pionirska dolina este cea mai veche din Bosnia. Reconstruită după război, este acum un centru modern de recreere pentru familii.",
+      en: "Opened in 1951, the Pionirska dolina zoo is the oldest in Bosnia. Rebuilt after the war, it now serves as a modern recreation area for families and nature lovers.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1951", "Fläche: ca. 8,5 ha", "Lage: Sarajevo-Centar", "Wiedereröffnung: 1999"],
+      hu: ["Megnyitás: 1951", "Területe: kb. 8,5 ha", "Helyszín: Szarajevó-Centar", "Újraindítás: 1999"],
+      ro: ["Deschidere: 1951", "Suprafață: aprox. 8,5 ha", "Locație: Sarajevo-Centar", "Redeschidere: 1999"],
+      en: ["Opened: 1951", "Area: approx. 8.5 ha", "Location: Sarajevo-Centar", "Reopening: 1999"],
+    },
+  },
   {
     id: "bosniaherzegovina-botanical-garden-sarajevo-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Sarajevo", hu: "Szarajevói Botanikus Kert", ro: "Grădina Botanică Sarajevo", en: "Botanical Garden of Sarajevo" },
+    name: { de: "Botanischer Garten Sarajevo", hu: "Szarajevói Botanikus Kert", ro: "Grădina Botanică Sarajevo", en: "Botanical Garden of Sarajevo",
+image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"
+},
     coords: [18.4022, 43.8547],
     coordinates: { lat: 43.8547, lng: 18.4022 },
     description: {
@@ -96,11 +160,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Peste 2.000 de specii", "Înființată în anul 1888", "Colecție bogată de endemiți", "Parte a Muzeului Național"],
       en: ["Over 2,000 plant species", "Established in 1888", "Rich collection of endemics", "Part of the National Museum"],
     },
-    imageHint: "Botanical Garden Sarajevo plants", image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"},
+    imageHint: "Botanical Garden Sarajevo plants",
+    image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1913 gegründete Garten gehört zum Nationalmuseum und beherbergt über 3000 Pflanzenarten. Er umfasst wertvolle Sammlungen von Endemiten der Dinarischen Alpen.",
+      hu: "Az 1913-ban alapított kert a Nemzeti Múzeum része, és több mint 3000 növényfajnak ad otthont. A Dinaridák ritka, endemikus fajait őrző gyűjteménye világhírű.",
+      ro: "Fondată în 1913 ca parte a Muzeului Național, grădina găzduiește peste 3000 de specii de plante. Deține colecții valoroase de endemisme ale Alpilor Dinarici.",
+      en: "Founded in 1913 as part of the National Museum, this garden hosts over 3,000 plant species. It features valuable collections of endemic flora from the Dinaric Alps.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1913", "Pflanzenarten: über 3000", "Lage: Nationalmuseum BiH", "Schwerpunkt: Endemiten"],
+      hu: ["Alapítás: 1913", "Növényfajok száma: 3000+", "Helyszín: Nemzeti Múzeum", "Fókusz: Endemikus fajok"],
+      ro: ["An fondare: 1913", "Specii: peste 3000", "Locație: Muzeul Național", "Specializare: Endemisme"],
+      en: ["Founded: 1913", "Plant species: 3,000+", "Location: National Museum", "Focus: Endemic species"],
+    },
+  },
   {
     id: "bosniaherzegovina-vrelo-bosne-life-v2",
     type: "park",
-    name: { de: "Vrelo Bosne", hu: "Vrelo Bosne", ro: "Vrelo Bosne", en: "Vrelo Bosne" },
+    name: { de: "Vrelo Bosne", hu: "Vrelo Bosne", ro: "Vrelo Bosne", en: "Vrelo Bosne",
+image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"
+},
     coords: [18.2694, 43.8197],
     coordinates: { lat: 43.8197, lng: 18.2694 },
     description: {
@@ -115,11 +195,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Izvorul râului Bosna", "Monument natural din 2006", "Alee istorică de platani", "Numeroase lebede și rațe"],
       en: ["Source of the Bosna River", "Natural monument since 2006", "Historic plane tree avenue", "Numerous swans and ducks"],
     },
-    imageHint: "Vrelo Bosne spring and park", image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"},
+    imageHint: "Vrelo Bosne spring and park",
+    image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses Quellgebiet des Flusses Bosna am Fuße des Igman-Berges besticht durch seine Kanäle und historischen Brücken. Es ist seit der österreichisch-ungarischen Zeit ein Kurort.",
+      hu: "A Boszna-folyó forrásvidéke az Igman-hegy lábánál fekszik, híres csatornáiról és íves hídjairól. Az osztrák-magyar monarchia óta kedvelt gyógy- és pihenőhely.",
+      ro: "Zona de izvoare a râului Bosna, la poalele muntelui Igman, este celebră pentru canalele și podurile sale. Este o destinație de relaxare încă din epoca austro-ungară.",
+      en: "The source of the Bosna river at the foot of Mount Igman is famous for its waterways and arched bridges. It has been a popular resort since the Austro-Hungarian era.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Bosna", "Lage: Ilidža bei Sarajevo", "Denkmal: Römerbrücke", "Schutzstatus: seit 2006"],
+      hu: ["Folyó: Boszna", "Helyszín: Ilidža, Szarajevó", "Emlék: Római híd", "Védettség: 2006 óta"],
+      ro: ["Râu: Bosna", "Locație: Ilidža, Sarajevo", "Monument: Podul Roman", "Statut: Protejat din 2006"],
+      en: ["River: Bosna", "Location: Ilidža, Sarajevo", "Monument: Roman Bridge", "Status: Protected since 2006"],
+    },
+  },
   {
     id: "bosniaherzegovina-bijambare-life-v2",
     type: "park",
-    name: { de: "Bijambare Schutzlandschaft", hu: "Bijambare védett terület", ro: "Peisajul protejat Bijambare", en: "Bijambare Protected Landscape" },
+    name: { de: "Bijambare Schutzlandschaft", hu: "Bijambare védett terület", ro: "Peisajul protejat Bijambare", en: "Bijambare Protected Landscape",
+image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"
+},
     coords: [18.5028, 44.0931],
     coordinates: { lat: 44.0931, lng: 18.5028 },
     description: {
@@ -134,11 +230,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Complex de 5 peșteri", "Altitudine de cca. 950 m", "Păduri dese de conifere", "Faună bogată de lilieci"],
       en: ["Complex of 5 caves", "Altitude of approx. 950m", "Dense coniferous forests", "Rich bat fauna"],
     },
-    imageHint: "Bijambare caves and pine forest", image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"},
+    imageHint: "Bijambare caves and pine forest",
+    image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bijambare-Plateau ist für seine fünf Karsthöhlen und die weitläufigen Nadelwälder bekannt. Die Haupthöhle ist 420 Meter lang und beeindruckt durch ihre Akustik.",
+      hu: "A Bijambare-fennsík öt karsztbarlangjáról és kiterjedt fenyőerdőiről ismert. A 420 méter hosszú főbarlang különleges akusztikájáról és tágas termeiről nevezetes.",
+      ro: "Podișul Bijambare este cunoscut pentru cele cinci peșteri carstice și pădurile de conifere. Peștera principală are 420 de metri lungime și o acustică impresionantă.",
+      en: "The Bijambare plateau is known for its five karst caves and extensive pine forests. The main cave is 420 meters long and is famous for its acoustics and large chambers.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 950 m", "Haupthöhlenlänge: 420 m", "Fläche: 370 ha", "Besonderheit: Stalaktiten"],
+      hu: ["Tengerszint felett: 950 m", "Főbarlang hossza: 420 m", "Területe: 370 ha", "Látnivaló: Cseppkövek"],
+      ro: ["Altitudine: 950 m", "Lungime peșteră: 420 m", "Suprafață: 370 ha", "Atracție: Stalactite"],
+      en: ["Altitude: 950 m", "Main cave length: 420 m", "Area: 370 ha", "Feature: Stalactites"],
+    },
+  },
   {
     id: "bosniaherzegovina-tajan-life-v2",
     type: "park",
-    name: { de: "Naturpark Tajan", hu: "Tajan Natúrpark", ro: "Parcul Natural Tajan", en: "Tajan Nature Park" },
+    name: { de: "Naturpark Tajan", hu: "Tajan Natúrpark", ro: "Parcul Natural Tajan", en: "Tajan Nature Park",
+image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"
+},
     coords: [18.15, 44.3167],
     coordinates: { lat: 44.3167, lng: 18.15 },
     description: {
@@ -153,11 +265,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Peste 100 de peșteri", "Prezența caprelor negre", "Bogat în plante medicinale", "Pâraie montane cu păstrăv"],
       en: ["Over 100 caves discovered", "Presence of chamois", "Rich in medicinal plants", "Mountain streams with trout"],
     },
-    imageHint: "Tajan Nature Park forest and rocks", image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"},
+    imageHint: "Tajan Nature Park forest and rocks",
+    image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Naturpark Tajan bei Zavidovići umfasst ein bergiges Gelände mit Canyons und über 100 Objekten der speläologischen Forschung. Er beherbergt die seltene Tajan-Glockenblume.",
+      hu: "A Zavidovići melletti Tajan natúrpark kanyonokkal és több mint 100 feltárt barlanggal várja a látogatókat. Itt él a ritka és endemikus Tajan-harangvirág is.",
+      ro: "Parcul natural Tajan de lângă Zavidovići include canioane și peste 100 de obiective speologice. Găzduiește specia endemică rară numită clopoțelul de Tajan.",
+      en: "Tajan Nature Park near Zavidovići features mountainous terrain with canyons and over 100 speleological sites. It is home to the rare and endemic Tajan bellflower.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Zavidovići / Kakanj", "Gründung: 2008", "Fläche: 49,5 km²", "Spezies: Tajan-Glockenblume"],
+      hu: ["Helyszín: Zavidovići / Kakanj", "Alapítás: 2008", "Területe: 49,5 km²", "Faj: Tajani harangvirág"],
+      ro: ["Locație: Zavidovići / Kakanj", "Fondat: 2008", "Suprafață: 49,5 km²", "Specie: Clopoțelul de Tajan"],
+      en: ["Location: Zavidovići / Kakanj", "Founded: 2008", "Area: 49.5 km²", "Species: Tajan Bellflower"],
+    },
+  },
   {
     id: "bosniaherzegovina-trebevic-life-v2",
     type: "park",
-    name: { de: "Schutzlandschaft Trebević", hu: "Trebević védett terület", ro: "Peisajul protejat Trebević", en: "Trebević Protected Landscape" },
+    name: { de: "Schutzlandschaft Trebević", hu: "Trebević védett terület", ro: "Peisajul protejat Trebević", en: "Trebević Protected Landscape",
+image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"
+},
     coords: [18.4414, 43.8322],
     coordinates: { lat: 43.8322, lng: 18.4414 },
     description: {
@@ -172,11 +300,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Zonă protejată din 2014", "Peste 90 specii de ciuperci", "Habitat pentru vânturei", "Păduri dese de molid"],
       en: ["Protected area since 2014", "Over 90 species of fungi", "Home to kestrels", "Dense spruce forests"],
     },
-    imageHint: "Trebevic mountain forest", image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"},
+    imageHint: "Trebevic mountain forest",
+    image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hausberg von Sarajevo war ein Austragungsort der Olympischen Winterspiele 1984. Er ist heute ein geschütztes Landschaftsgebiet mit Seilbahnzugang und Wanderwegen.",
+      hu: "Szarajevó házi hegye az 1984-es téli olimpia egyik helyszíne volt. Ma védett tájvédelmi körzet, amely libegővel is elérhető, és kiváló panorámát kínál a városra.",
+      ro: "Muntele simbolic al orașului Sarajevo a fost gazda Jocurilor Olimpice de Iarnă din 1984. Astăzi este o zonă protejată accesibilă cu telecabina și oferă trasee de drumeție.",
+      en: "Sarajevo's landmark mountain was a venue for the 1984 Winter Olympics. Today it is a protected landscape area accessible by cable car, offering panoramic city views.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1627 m", "Olympiade: 1984", "Lage: Sarajevo", "Attraktion: Bobbahn-Ruine"],
+      hu: ["Magasság: 1627 m", "Olimpia: 1984", "Helyszín: Szarajevó", "Látnivaló: Bobpálya romjai"],
+      ro: ["Înălțime: 1627 m", "Olimpiadă: 1984", "Locație: Sarajevo", "Atracție: Pista de bob"],
+      en: ["Elevation: 1,627 m", "Olympics: 1984", "Location: Sarajevo", "Attraction: Bobsleigh track"],
+    },
+  },
   {
     id: "bosniaherzegovina-skakavac-life-v2",
     type: "wildlife",
-    name: { de: "Skakavac Wasserfall", hu: "Skakavac-vízesés", ro: "Cascada Skakavac", en: "Skakavac Waterfall" },
+    name: { de: "Skakavac Wasserfall", hu: "Skakavac-vízesés", ro: "Cascada Skakavac", en: "Skakavac Waterfall",
+image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"
+},
     coords: [18.4453, 43.9511],
     coordinates: { lat: 43.9511, lng: 18.4453 },
     description: {
@@ -191,11 +335,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Înălțime de 98 de metri", "Monument al naturii cat. III", "Păduri de molid și fag", "Bogat în mușchi și ferigi"],
       en: ["Height of 98 meters", "Category III natural monument", "Spruce-beech mixed forests", "Rich in mosses and ferns"],
     },
-    imageHint: "Skakavac waterfall Sarajevo forest", image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"},
+    imageHint: "Skakavac waterfall Sarajevo forest",
+    image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Mit einer Fallhöhe von 98 Metern gehört der Skakavac zu den höchsten Wasserfällen des Balkans. Er liegt inmitten eines dichten Waldes, nur 12 Kilometer von Sarajevo entfernt.",
+      hu: "A 98 méter magas Skakavac a Balkán egyik legmagasabb vízesése. Egy sűrű bükk- és fenyőerdő közepén található, mindössze 12 kilométerre Szarajevó központjától.",
+      ro: "Cu o cădere de 98 de metri, Skakavac este una dintre cele mai înalte cascade din Balcani. Situată în mijlocul unei păduri dese, se află la doar 12 km de Sarajevo.",
+      en: "At 98 meters tall, Skakavac is one of the highest waterfalls in the Balkans. It is located in a dense forest, only 12 kilometers from the center of Sarajevo.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 98 m", "Lage: Nahe Sarajevo", "Schutzstatus: seit 1954", "Waldtyp: Fichte und Tanne"],
+      hu: ["Magasság: 98 m", "Helyszín: Szarajevó mellett", "Védettség: 1954 óta", "Erdőtípus: Luc és jegenye"],
+      ro: ["Înălțime: 98 m", "Locație: Lângă Sarajevo", "Statut: Protejat din 1954", "Pădure: Molid și brad"],
+      en: ["Height: 98 m", "Location: Near Sarajevo", "Status: Protected since 1954", "Forest: Spruce and fir"],
+    },
+  },
   {
     id: "bosniaherzegovina-janjske-otoke-life-v2",
     type: "wildlife",
-    name: { de: "Janjske Otoke", hu: "Janj-szigetek", ro: "Janjske Otoke", en: "Janj Islands" },
+    name: { de: "Janjske Otoke", hu: "Janj-szigetek", ro: "Janjske Otoke", en: "Janj Islands",
+image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"
+},
     coords: [17.1186, 44.2461],
     coordinates: { lat: 44.2461, lng: 17.1186 },
     description: {
@@ -210,11 +370,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Deltă de râu montan", "Numeroase cascade mici", "Floră de mușchi bogată", "Zonă populară pentru păstrăv"],
       en: ["Mountain river delta", "Numerous small waterfalls", "Very rich moss flora", "Popular trout fishing area"],
     },
-    imageHint: "Janjske otoke river and islands", image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"},
+    imageHint: "Janjske otoke river and islands",
+    image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Inseln des Flusses Janj bilden ein einzigartiges Delta mit zahlreichen Kaskaden und Kanälen. Es ist ein unberührtes Naturparadies in der Nähe der Stadt Šipovo.",
+      hu: "A Janj-folyó szigetei egyedülálló folyódelta-szerű vidéket alkotnak számos vízeséssel és csatornával. Érintetlen természeti paradicsom Šipovo városának közelében.",
+      ro: "Insulele râului Janj formează o deltă interioară unică, cu numeroase cascade și canale. Este un paradis natural nealterat, situat în apropierea orașului Šipovo.",
+      en: "The islands of the Janj river form a unique inland delta with numerous cascades and channels. It is an untouched natural paradise located near the town of Šipovo.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Janj", "Lage: Nahe Šipovo", "Phänomen: Flussinseln", "Besonderheit: Kaltes Wasser"],
+      hu: ["Folyó: Janj", "Helyszín: Šipovo mellett", "Jelenség: Folyami szigetek", "Adottság: Hideg forrásvíz"],
+      ro: ["Râu: Janj", "Locație: Lângă Šipovo", "Fenomen: Insule fluviale", "Caracteristică: Apă rece"],
+      en: ["River: Janj", "Location: Near Šipovo", "Phenomenon: River islands", "Feature: Very cold water"],
+    },
+  },
   {
     id: "bosniaherzegovina-gromizelj-life-v2",
     type: "wildlife",
-    name: { de: "Sonderreservat Gromiželj", hu: "Gromiželj különleges rezervátum", ro: "Rezervația specială Gromiželj", en: "Gromiželj Special Nature Reserve" },
+    name: { de: "Sonderreservat Gromiželj", hu: "Gromiželj különleges rezervátum", ro: "Rezervația specială Gromiželj", en: "Gromiželj Special Nature Reserve",
+image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"
+},
     coords: [19.3375, 44.8517],
     coordinates: { lat: 44.8517, lng: 19.3375 },
     description: {
@@ -229,11 +405,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Protejează peștele țigănuș", "Unul dintre cele mai vechi ecosisteme", "Zonă umedă mlăștinoasă", "Descoperită în anul 2008"],
       en: ["Protects European mudminnow", "One of the oldest ecosystems", "Marshy wetland area", "Discovered in 2008"],
     },
-    imageHint: "Gromizelj swamp and nature", image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"},
+    imageHint: "Gromizelj swamp and nature",
+    image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses Sumpfgebiet ist berühmt für das Vorkommen des Europäischen Hundsfisches (Umbra krameri). Es ist eines der wenigen Reservate dieser Art in der Semberija-Region.",
+      hu: "Ez a mocsaras terület a lápi póc (Umbra krameri) nevű ritka halfaj jelenlétéről híres. A Semberija-régió egyik legfontosabb természetvédelmi rezervátuma.",
+      ro: "Această zonă mlăștinoasă este celebră pentru prezența țigănușului (Umbra krameri), un pește rar. Este una dintre puținele rezervații de acest tip din regiunea Semberija.",
+      en: "This marshland is famous for the presence of the European mudminnow (Umbra krameri). it is one of the few nature reserves of its kind in the Semberija region.",
+    },
+    factsAdvanced: {
+      de: ["Spezies: Umbra krameri", "Lage: Nahe Bijeljina", "Typ: Feuchtgebiet", "Gegründet: 2008"],
+      hu: ["Faj: Lápi póc", "Helyszín: Bijeljina mellett", "Típus: Vizes élőhely", "Alapítás: 2008"],
+      ro: ["Specie: Umbra krameri", "Locație: Lângă Bijeljina", "Tip: Zonă umedă", "Fondată: 2008"],
+      en: ["Species: Umbra krameri", "Location: Near Bijeljina", "Type: Wetland", "Established: 2008"],
+    },
+  },
   {
     id: "bosniaherzegovina-tisina-life-v2",
     type: "wildlife",
-    name: { de: "Ornithologisches Reservat Tišina", hu: "Tišina madárrezervátum", ro: "Rezervația ornitologică Tišina", en: "Tišina Ornithological Reserve" },
+    name: { de: "Ornithologisches Reservat Tišina", hu: "Tišina madárrezervátum", ro: "Rezervația ornitologică Tišina", en: "Tišina Ornithological Reserve",
+image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"
+},
     coords: [18.4833, 45.0417],
     coordinates: { lat: 45.0417, lng: 18.4833 },
     description: {
@@ -248,11 +440,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Rezervație avifaunistică", "Situată lângă râul Sava", "Plante acvatice rare", "Loc de popas pentru păsări"],
       en: ["Important bird reserve", "Located near Sava River", "Rare aquatic plants", "Migratory bird stopover"],
     },
-    imageHint: "Tisina swamp birds", image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"},
+    imageHint: "Tisina swamp birds",
+    image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tišina-See bei Šamac ist ein wichtiges ornithologisches Reservat und ein Überbleibsel eines alten Save-Flussarms. Er bietet Schutz für gefährdete Wasserpflanzen.",
+      hu: "A Šamac melletti Tišina-tó fontos madárvédelmi rezervátum, amely a Száva-folyó egy régi holtága. Számos veszélyeztetett vízi növényfajnak nyújt biztonságos menedéket.",
+      ro: "Lacul Tišina de lângă Šamac este o rezervație ornitologică importantă și un vestigiu al unui vechi braț al râului Sava. Protejează specii de plante acvatice periclitate.",
+      en: "The Tišina lake near Šamac is an important ornithological reserve and a remnant of an old Sava river oxbow. it provides protection for endangered aquatic plant species.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Altwasser der Save", "Lage: Nahe Šamac", "Fläche: 197 ha", "Status: Schutzgebiet"],
+      hu: ["Típus: Száva-holtág", "Helyszín: Šamac közelében", "Területe: 197 ha", "Státusz: Védett terület"],
+      ro: ["Tip: Braț mort al Savei", "Locație: Lângă Šamac", "Suprafață: 197 ha", "Statut: Rezervație"],
+      en: ["Type: Sava oxbow lake", "Location: Near Šamac", "Area: 197 ha", "Status: Nature reserve"],
+    },
+  },
   {
     id: "bosniaherzegovina-konjuh-life-v2",
     type: "park",
-    name: { de: "Schutzlandschaft Konjuh", hu: "Konjuh védett terület", ro: "Peisajul protejat Konjuh", en: "Konjuh Protected Landscape" },
+    name: { de: "Schutzlandschaft Konjuh", hu: "Konjuh védett terület", ro: "Peisajul protejat Konjuh", en: "Konjuh Protected Landscape",
+image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"
+},
     coords: [18.55, 44.3167],
     coordinates: { lat: 44.3167, lng: 18.55 },
     description: {
@@ -267,11 +475,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Bogat în păduri de conifere", "Habitat pentru urșii bruni", "Numeroase izvoare montane", "Peste 1.000 specii de plante"],
       en: ["Rich in coniferous forests", "Habitat for brown bears", "Numerous mountain springs", "Over 1,000 plant species"],
     },
-    imageHint: "Konjuh mountain forest landscape", image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"},
+    imageHint: "Konjuh mountain forest landscape",
+    image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die geschützte Berglandschaft des Konjuh ist reich an dichten Buchen- und Kiefernwäldern sowie zahlreichen historischen Stećci-Grabsteinen aus dem Mittelalter.",
+      hu: "A Konjuh-hegység védett tájegysége sűrű bükk- és erdeifenyő-erdőkben, valamint középkori szteccsikben (monumentális sírkövekben) is rendkívül gazdag terület.",
+      ro: "Peisajul montan protejat Konjuh este bogat în păduri dese de fag și pin, găzduind totodată numeroase necropole medievale de tip stećci.",
+      en: "The protected mountain landscape of Konjuh is rich in dense beech and pine forests and features numerous medieval stećci tombstones scattered throughout.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel: Konjuh (1327 m)", "Lage: Nahe Tuzla", "Fläche: 80 km²", "Kulturerbe: Stećci-Nekropolen"],
+      hu: ["Csúcs: Konjuh (1327 m)", "Helyszín: Tuzla mellett", "Területe: 80 km²", "Örökség: Szteccsi sírkövek"],
+      ro: ["Vârf: Konjuh (1327 m)", "Locație: Lângă Tuzla", "Suprafață: 80 km²", "Patrimoniu: Necropole stećci"],
+      en: ["Peak: Konjuh (1,327 m)", "Location: Near Tuzla", "Area: 80 km²", "Heritage: Stećci necropolises"],
+    },
+  },
   {
     id: "bosniaherzegovina-livanjsko-polje-life-v2",
     type: "wildlife",
-    name: { de: "Livanjsko Polje", hu: "Livnói-mező", ro: "Livanjsko Polje", en: "Livanjsko Polje" },
+    name: { de: "Livanjsko Polje", hu: "Livnói-mező", ro: "Livanjsko Polje", en: "Livanjsko Polje",
+image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"
+},
     coords: [16.9667, 43.8833],
     coordinates: { lat: 43.8833, lng: 16.9667 },
     description: {
@@ -286,11 +510,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Cea mai mare câmpie carstică", "Găzduiește cai sălbatici", "Sit Ramsar din 2008", "Coridor important pentru păsări"],
       en: ["World's largest karst field", "Home to wild horses", "Ramsar site since 2008", "Important bird corridor"],
     },
-    imageHint: "Livanjsko Polje wild horses", image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"},
+    imageHint: "Livanjsko Polje wild horses",
+    image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Mit einer Fläche von 405 Quadratkilometern ist dies eines der größten Karstfelder der Welt. Es beherbergt eine bedeutende Population von Wildpferden und seltenen Vögeln.",
+      hu: "405 négyzetkilométeres területével ez a világ egyik legnagyobb karsztmezője. Jelentős vadlópopulációnak és ritka vándormadaraknak ad otthont Livno környékén.",
+      ro: "Cu o suprafață de 405 km pătrați, acesta este unul dintre cele mai mari câmpuri carstice din lume. Găzduiește o populație importantă de cai sălbatici și păsări rare.",
+      en: "Covering 405 square kilometers, this is one of the largest karst fields in the world. It is home to a significant population of wild horses and rare migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 405 km²", "Ramsar-Status: seit 2008", "Fauna: Wildpferde", "Typ: Karst-Polje"],
+      hu: ["Területe: 405 km²", "Ramsari státusz: 2008 óta", "Fauna: Vadlovak", "Típus: Karsztmező"],
+      ro: ["Suprafață: 405 km²", "Statut Ramsar: din 2008", "Faună: Cai sălbatici", "Tip: Polie carstică"],
+      en: ["Area: 405 km²", "Ramsar status: since 2008", "Fauna: Wild horses", "Type: Karst polje"],
+    },
+  },
   {
     id: "bosniaherzegovina-rakitnica-life-v2",
     type: "wildlife",
-    name: { de: "Rakitnica-Schlucht", hu: "Rakitnica-szurdok", ro: "Canionul Rakitnica", en: "Rakitnica Canyon" },
+    name: { de: "Rakitnica-Schlucht", hu: "Rakitnica-szurdok", ro: "Canionul Rakitnica", en: "Rakitnica Canyon",
+image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"
+},
     coords: [18.2325, 43.6453],
     coordinates: { lat: 43.6453, lng: 18.2325 },
     description: {
@@ -305,11 +545,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Adâncime de până la 800m", "Ecosistem neatins", "Habitat pentru acvila de munte", "Numeroși endemiți"],
       en: ["Depth of up to 800m", "Untouched ecosystem", "Habitat for golden eagles", "Numerous endemics"],
     },
-    imageHint: "Rakitnica canyon river and cliffs", image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"},
+    imageHint: "Rakitnica canyon river and cliffs",
+    image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Rakitnica-Canyon ist eine der tiefsten Schluchten Europas und trennt die Berge Bjelašnica und Visočica. Er ist für seine unberührte Wildnis und steilen Wände bekannt.",
+      hu: "A Rakitnica-kanyon Európa egyik legmélyebb szurdoka, amely a Bjelašnica és a Visočica hegyeket választja el egymástól. Híres érintetlen vadvilágáról és meredek falairól.",
+      ro: "Canionul Rakitnica este unul dintre cele mai adânci din Europa, separând munții Bjelašnica și Visočica. Este cunoscut pentru sălbăticia nealterată și pereții abrupți.",
+      en: "The Rakitnica Canyon is one of the deepest in Europe, separating the Bjelašnica and Visočica mountains. It is renowned for its untouched wilderness and steep walls.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 26 km", "Tiefe: bis zu 800 m", "Lage: Dinarische Alpen", "Fluss: Rakitnica"],
+      hu: ["Hossza: 26 km", "Mélysége: akár 800 m", "Helyszín: Dinári-Alpok", "Folyó: Rakitnica"],
+      ro: ["Lungime: 26 km", "Adâncime: până la 800 m", "Locație: Alpii Dinarici", "Râu: Rakitnica"],
+      en: ["Length: 26 km", "Depth: up to 800 m", "Location: Dinaric Alps", "River: Rakitnica"],
+    },
+  },
   {
     id: "bosniaherzegovina-zelengora-life-v2",
     type: "wildlife",
-    name: { de: "Zelengora Gletscherseen", hu: "Zelengora-tavak", ro: "Lacurile glaciare Zelengora", en: "Zelengora Glacial Lakes" },
+    name: { de: "Zelengora Gletscherseen", hu: "Zelengora-tavak", ro: "Lacurile glaciare Zelengora", en: "Zelengora Glacial Lakes",
+image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"
+},
     coords: [18.5775, 43.3283],
     coordinates: { lat: 43.3283, lng: 18.5775 },
     description: {
@@ -324,11 +580,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["8 lacuri glaciare naturale", "Floră alpină bogată", "Prezența caprelor negre", "Faimos pentru afine"],
       en: ["8 natural glacial lakes", "Rich alpine flora", "Presence of chamois", "Famous for blueberries"],
     },
-    imageHint: "Zelengora glacial lake Orlovacko", image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"},
+    imageHint: "Zelengora glacial lake Orlovacko",
+    image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Zelengora liegt im Nationalpark Sutjeska und ist berühmt für seine acht Gletscherseen, die auch als Bergaugen bekannt sind. Sie bietet eine einzigartige alpine Flora.",
+      hu: "A Sutjeska Nemzeti Park területén fekvő Zelengora nyolc gleccsertaváról híres, amelyeket a népnyelv hegyi szemeknek hív. Egyedülálló alpesi flórával rendelkezik.",
+      ro: "Situat în Parcul Național Sutjeska, Zelengora este celebru pentru cele opt lacuri glaciare, cunoscute ca ochi de munte. Oferă o floră alpină unică în regiune.",
+      en: "Located within Sutjeska National Park, Zelengora is famous for its eight glacial lakes, known as mountain eyes. it boasts a unique alpine flora and vast meadows.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Seen: 8", "Gipfel: Bregoč (2014 m)", "Lage: NP Sutjeska", "Typ: Gletscherseen"],
+      hu: ["Tavak száma: 8", "Csúcs: Bregoč (2014 m)", "Helyszín: Sutjeska NP", "Típus: Gleccsertavak"],
+      ro: ["Număr lacuri: 8", "Vârf: Bregoč (2014 m)", "Locație: PN Sutjeska", "Tip: Lacuri glaciare"],
+      en: ["Number of lakes: 8", "Peak: Bregoč (2,014 m)", "Location: Sutjeska NP", "Type: Glacial lakes"],
+    },
+  },
   {
     id: "bosniaherzegovina-prenj-life-v2",
     type: "wildlife",
-    name: { de: "Prenj Gebirgsmassiv", hu: "Prenj-hegység", ro: "Masivul Prenj", en: "Prenj Mountain Range" },
+    name: { de: "Prenj Gebirgsmassiv", hu: "Prenj-hegység", ro: "Masivul Prenj", en: "Prenj Mountain Range",
+image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"
+},
     coords: [17.91, 43.535],
     coordinates: { lat: 43.535, lng: 17.91 },
     description: {
@@ -343,11 +615,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Himalaya dinarică", "Numeroși endemiți", "Pajiști alpine", "Prezența urșilor bruni"],
       en: ["Dinaric Himalayas", "Numerous endemics", "Alpine grasslands", "Presence of brown bears"],
     },
-    imageHint: "Prenj mountain peaks and flora", image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"},
+    imageHint: "Prenj mountain peaks and flora",
+    image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Prenj wird oft als das bosnische Himalaya bezeichnet. Seine schroffen Gipfel und tiefen Täler machen ihn zu einem der herausforderndsten Gebirge für Wanderer im Land.",
+      hu: "A Prenj-hegységet gyakran nevezik bosnyák Himalájának. Csipkés csúcsai és mély völgyei miatt az ország egyik legnagyobb kihívást jelentő terepe a túrázók számára.",
+      ro: "Muntele Prenj este adesea numit Himalaya bosniacă. Vârfurile sale zimțate și văile adânci îl fac una dintre cele mai provocatoare destinații pentru excursioniști.",
+      en: "Prenj is often referred to as the Bosnian Himalaya. Its jagged peaks and deep valleys make it one of the most challenging and scenic mountain ranges in the country.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel: Lupoglav (2102 m)", "Lage: Herzegowina", "Gipfel über 2000m: 11", "Besonderheit: Alpin-Karst"],
+      hu: ["Csúcs: Lupoglav (2102 m)", "Helyszín: Hercegovina", "2000m feletti csúcsok: 11", "Típus: Alpesi karszt"],
+      ro: ["Vârf: Lupoglav (2102 m)", "Locație: Herțegovina", "Vârfuri peste 2000m: 11", "Tip: Carst alpin"],
+      en: ["Peak: Lupoglav (2,102 m)", "Location: Herzegovina", "Peaks over 2000m: 11", "Feature: Alpine karst"],
+    },
+  },
   {
     id: "bosniaherzegovina-cvrsnica-life-v2",
     type: "wildlife",
-    name: { de: "Čvrsnica Berg", hu: "Čvrsnica-hegy", ro: "Muntele Čvrsnica", en: "Čvrsnica Mountain" },
+    name: { de: "Čvrsnica Berg", hu: "Čvrsnica-hegy", ro: "Muntele Čvrsnica", en: "Čvrsnica Mountain",
+image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"
+},
     coords: [17.5858, 43.6017],
     coordinates: { lat: 43.6017, lng: 17.5858 },
     description: {
@@ -362,11 +650,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Habitatul pinului leucoderm", "Monumentul Hajdučka vrata", "Zonă importantă pentru capre negre", "Ecosisteme alpine"],
       en: ["Home to Bosnian pine", "Hajdučka vrata stone arch", "Important chamois area", "High alpine ecosystems"],
     },
-    imageHint: "Hajducka vrata stone arch Cvrsnica", image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"},
+    imageHint: "Hajducka vrata stone arch Cvrsnica",
+    image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Čvrsnica beherbergt das Naturphänomen Hajdučka vrata, einen natürlichen Felsbogen auf 2000 Metern Höhe. Das Massiv ist von tiefen Canyons und Schluchten umgeben.",
+      hu: "A Čvrsnica-hegység ad otthont a Hajdučka vrata nevű természeti jelenségnek, amely egy hatalmas sziklakapu 2000 méteres magasságban, mély kanyonokkal körülvéve.",
+      ro: "Muntele Čvrsnica găzduiește fenomenul natural Hajdučka vrata, un arc de piatră situat la 2000 m altitudine. Masivul este înconjurat de canioane și defilee adânci.",
+      en: "Čvrsnica is home to the Hajdučka vrata natural phenomenon, a stone arch situated at 2,000 meters altitude. the massif is surrounded by deep canyons and gorges.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel: Pločno (2228 m)", "Attraktion: Hajdučka vrata", "Lage: West-Herzegowina", "Höhenrekord: Höchster Gipfel"],
+      hu: ["Csúcs: Pločno (2228 m)", "Látnivaló: Hajdú-kapu", "Helyszín: Nyugat-Hercegovina", "Rekord: Magashegység"],
+      ro: ["Vârf: Pločno (2228 m)", "Atracție: Hajdučka vrata", "Locație: Herțegovina de Vest", "Record: Altitudine mare"],
+      en: ["Peak: Pločno (2,228 m)", "Attraction: Hajdučka vrata", "Location: West Herzegovina", "Record: High peak"],
+    },
+  },
   {
     id: "bosniaherzegovina-maglic-life-v2",
     type: "wildlife",
-    name: { de: "Maglić Gebirge", hu: "Maglić-hegység", ro: "Munții Maglić", en: "Maglić Mountain" },
+    name: { de: "Maglić Gebirge", hu: "Maglić-hegység", ro: "Munții Maglić", en: "Maglić Mountain",
+image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"
+},
     coords: [18.7364, 43.2803],
     coordinates: { lat: 43.2803, lng: 18.7364 },
     description: {
@@ -381,11 +685,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Cel mai înalt punct din țară", "2.386 metri altitudine", "Bogat în endemiți", "Se învecinează cu pădurea Perućica"],
       en: ["Highest point in the country", "2,386 meters altitude", "Rich in endemics", "Borders Perućica forest"],
     },
-    imageHint: "Maglic mountain peak landscape", image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"},
+    imageHint: "Maglic mountain peak landscape",
+    image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Maglić ist der höchste Berg von Bosnien und Herzegowina und liegt an der Grenze zu Montenegro. Er grenzt an den Perućica-Urwald, einen der letzten Europas.",
+      hu: "A Maglić Bosznia-Hercegovina legmagasabb hegye, közvetlenül a montenegrói határon. Mellette található a Perućica-őserdő, Európa egyik utolsó érintetlen erdősége.",
+      ro: "Maglić este cel mai înalt munte din Bosnia și Herțegovina, situat la granița cu Muntenegru. Se învecinează cu Perućica, una dintre ultimele păduri virgine din Europa.",
+      en: "Maglić is the highest mountain in Bosnia and Herzegovina, situated on the border with Montenegro. It borders Perućica, one of the last remaining primeval forests in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2386 m", "Lage: NP Sutjeska", "Grenze: Montenegro", "Urwald: Perućica"],
+      hu: ["Magasság: 2386 m", "Helyszín: Sutjeska NP", "Határ: Montenegró", "Erdő: Perućica őserdő"],
+      ro: ["Înălțime: 2386 m", "Locație: PN Sutjeska", "Graniță: Muntenegru", "Pădure: Perućica"],
+      en: ["Height: 2,386 m", "Location: Sutjeska NP", "Border: Montenegro", "Primeval forest: Perućica"],
+    },
+  },
   {
     id: "bosniaherzegovina-kravica-life-v2",
     type: "wildlife",
-    name: { de: "Kravica Wasserfälle", hu: "Kravica-vízesés", ro: "Cascada Kravica", en: "Kravica Waterfalls" },
+    name: { de: "Kravica Wasserfälle", hu: "Kravica-vízesés", ro: "Cascada Kravica", en: "Kravica Waterfalls",
+image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"
+},
     coords: [17.6078, 43.1594],
     coordinates: { lat: 43.1594, lng: 17.6078 },
     description: {
@@ -400,11 +720,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Formațiuni de tuf calcaros", "Lățime de 120 de metri", "Vegetație riverană bogată", "Habitat important pentru pești"],
       en: ["Tufa formations", "Width of 120 meters", "Rich riparian vegetation", "Important fish habitat"],
     },
-    imageHint: "Kravica waterfalls and vegetation", image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"},
+    imageHint: "Kravica waterfalls and vegetation",
+    image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese beeindruckenden Wasserfälle am Fluss Trebižat stürzen über eine Breite von 120 Metern in ein natürliches Becken. Sie sind ein Juwel der herzegowinischen Karstlandschaft.",
+      hu: "A Trebižat-folyón található lenyűgöző vízesések 120 méter szélességben zúdulnak alá egy természetes medencébe. Hercegovina karsztvidékének egyik legszebb gyöngyszeme.",
+      ro: "Aceste cascade impresionante de pe râul Trebižat se revarsă pe o lățime de 120 de metri într-un bazin natural. Reprezintă o bijuterie a peisajului carstic herțegovinean.",
+      en: "These impressive waterfalls on the Trebižat river plunge across a width of 120 meters into a natural basin. They are a jewel of the Herzegovinian karst landscape.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 25 m", "Breite: 120 m", "Fluss: Trebižat", "Lage: Nahe Ljubuški"],
+      hu: ["Magasság: 25 m", "Szélesség: 120 m", "Folyó: Trebižat", "Helyszín: Ljubuški mellett"],
+      ro: ["Înălțime: 25 m", "Lățime: 120 m", "Râu: Trebižat", "Locație: Lângă Ljubuški"],
+      en: ["Height: 25 m", "Width: 120 m", "River: Trebižat", "Location: Near Ljubuški"],
+    },
+  },
   {
     id: "bosniaherzegovina-prokosko-lake-life-v2",
     type: "wildlife",
-    name: { de: "Prokoško See", hu: "Prokoško-tó", ro: "Lacul Prokoško", en: "Prokoško Lake" },
+    name: { de: "Prokoško See", hu: "Prokoško-tó", ro: "Lacul Prokoško", en: "Prokoško Lake",
+image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"
+},
     coords: [17.7553, 43.9608],
     coordinates: { lat: 43.9608, lng: 17.7553 },
     description: {
@@ -419,11 +755,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Lac glaciar la 1.636 m", "Habitatul tritonului endemic", "Monument natural din 2005", "Ecosistem alpin"],
       en: ["Glacial lake at 1,636m", "Home to endemic triton", "Natural monument since 2005", "Alpine ecosystem"],
     },
-    imageHint: "Prokosko lake and mountain cabins", image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"},
+    imageHint: "Prokosko lake and mountain cabins",
+    image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gletschersee auf dem Vranica-Berg liegt auf 1636 Metern Höhe und ist von traditionellen Hirtenhütten umgeben. Er ist der Lebensraum des endemischen Tritons.",
+      hu: "A Vranica-hegyen, 1636 méteren fekvő gleccsertavat hagyományos pásztorkunyhók veszik körül. Híres a benne élő ritka, endemikus alpesi gőte (triton) alfajról.",
+      ro: "Lacul glaciar de pe muntele Vranica este situat la 1636 m altitudine și este înconjurat de colibe tradiționale. Este habitatul tritonului endemic reiseri.",
+      en: "This glacial lake on Mount Vranica is located at 1,636 meters and is surrounded by traditional shepherd huts. it is the habitat of the endemic Triton salamander.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1636 m", "Gebirge: Vranica", "Spezies: Endemischer Triton", "Typ: Gletschersee"],
+      hu: ["Tengerszint felett: 1636 m", "Hegység: Vranica", "Faj: Endemikus gőte", "Típus: Gleccsertó"],
+      ro: ["Altitudine: 1636 m", "Munți: Vranica", "Specie: Triton endemic", "Tip: Lac glaciar"],
+      en: ["Elevation: 1,636 m", "Mountain: Vranica", "Species: Endemic triton", "Type: Glacial lake"],
+    },
+  },
   {
     id: "bosniaherzegovina-vjetrenica-life-v2",
     type: "wildlife",
-    name: { de: "Vjetrenica Höhle", hu: "Vjetrenica-barlang", ro: "Peștera Vjetrenica", en: "Vjetrenica Cave" },
+    name: { de: "Vjetrenica Höhle", hu: "Vjetrenica-barlang", ro: "Peștera Vjetrenica", en: "Vjetrenica Cave",
+image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"
+},
     coords: [17.9844, 42.8442],
     coordinates: { lat: 42.8442, lng: 17.9844 },
     description: {
@@ -438,11 +790,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Peste 200 de specii", "Habitatul proteului", "Cea mai mare biodiversitate", "Patrimoniu UNESCO"],
       en: ["Over 200 species recorded", "Home to the olm", "Highest cave biodiversity", "UNESCO World Heritage site"],
     },
-    imageHint: "Vjetrenica cave interior", image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"},
+    imageHint: "Vjetrenica cave interior",
+    image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Vjetrenica ist das größte Höhlensystem in Bosnien und bekannt für ihre starken Luftströme am Eingang. Sie beherbergt eine außergewöhnliche unterirdische Artenvielfalt.",
+      hu: "A Vjetrenica Bosznia legnagyobb barlangrendszere, amely a bejáratánál érezhető erős légáramlatokról kapta a nevét. Különleges földalatti élővilágnak ad otthont.",
+      ro: "Vjetrenica este cel mai mare sistem de peșteri din Bosnia, fiind cunoscută pentru curenții puternici de aer de la intrare și biodiversitatea subterană excepțională.",
+      en: "Vjetrenica is the largest cave system in Bosnia, known for the strong air currents at its entrance and its extraordinary underground biological diversity.",
+    },
+    factsAdvanced: {
+      de: ["Länge: über 7 km", "Fauna: Grottenolm", "Lage: Popovo Polje", "UNESCO: Tentative Liste"],
+      hu: ["Hossz: 7 km felett", "Fauna: Barlangi vakgőte", "Helyszín: Popovo Polje", "UNESCO: Várományosi lista"],
+      ro: ["Lungime: peste 7 km", "Faună: Proteu (peștele om)", "Locație: Popovo Polje", "UNESCO: Listă tentativă"],
+      en: ["Length: Over 7 km", "Fauna: Proteus anguinus", "Location: Popovo Polje", "UNESCO: Tentative list"],
+    },
+  },
   {
     id: "bosniaherzegovina-lom-forest-life-v2",
     type: "forest",
-    name: { de: "Urwaldreservat Lom", hu: "Lom őserdő-rezervátum", ro: "Rezervația forestieră Lom", en: "Lom Forest Reserve" },
+    name: { de: "Urwaldreservat Lom", hu: "Lom őserdő-rezervátum", ro: "Rezervația forestieră Lom", en: "Lom Forest Reserve",
+image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"
+},
     coords: [16.4525, 44.4533],
     coordinates: { lat: 44.4533, lng: 16.4525 },
     description: {
@@ -457,11 +825,27 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Rezervație naturală strictă", "Pădure virgină de fag și brad", "Fondată în anul 1956", "Fără intervenție umană"],
       en: ["Strict nature reserve", "Beech-fir primeval forest", "Established in 1956", "No human intervention"],
     },
-    imageHint: "Lom primeval forest landscape", image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"},
+    imageHint: "Lom primeval forest landscape",
+    image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Lom-Reservat am Klekovača-Berg schützt einen der wenigen verbliebenen Urwälder Europas mit riesigen Buchen und Tannen, die teilweise über 500 Jahre alt sind.",
+      hu: "A Klekovača-hegyen található Lom rezervátum Európa kevés megmaradt őserdőjének egyike, ahol 500 évnél is idősebb hatalmas bükkfák és jegenyefenyők élnek érintetlenül.",
+      ro: "Rezervația Lom de pe muntele Klekovača protejează una dintre puținele păduri virgine din Europa, cu fagi și brazi uriași care depășesc vârsta de 500 de ani.",
+      en: "The Lom reserve on Klekovača mountain protects one of Europe's few remaining primeval forests, featuring giant beech and fir trees over 500 years old.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 297 ha", "Lage: Gebirge Klekovača", "Baumalter: bis 500 Jahre", "Typ: Urwald"],
+      hu: ["Területe: 297 ha", "Helyszín: Klekovača-hegy", "Fák kora: akár 500 év", "Típus: Őserdő"],
+      ro: ["Suprafață: 297 ha", "Locație: Muntele Klekovača", "Vârstă arbori: 500 ani", "Tip: Pădure virgină"],
+      en: ["Area: 297 ha", "Location: Klekovača mountain", "Tree age: Up to 500 years", "Type: Primeval forest"],
+    },
+  },
   {
     id: "bosniaherzegovina-janj-forest-life-v2",
     type: "forest",
-    name: { de: "Urwaldreservat Janj", hu: "Janj őserdő-rezervátum", ro: "Rezervația forestieră Janj", en: "Janj Forest Reserve" },
+    name: { de: "Urwaldreservat Janj", hu: "Janj őserdő-rezervátum", ro: "Rezervația forestieră Janj", en: "Janj Forest Reserve",
+image: "/poi-images/bosniaherzegovina-janj-forest-life-v2.webp"
+},
     coords: [17.275, 44.1481],
     coordinates: { lat: 44.1481, lng: 17.275 },
     description: {
@@ -477,5 +861,17 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       en: ["UNESCO World Heritage site", "Area of 295 hectares", "Ancient beech stands", "Significant research area"],
     },
     imageHint: "Janj forest UNESCO site trees",
+    descriptionAdvanced: {
+      de: "Der Janj-Urwald ist ein strenges Naturschutzgebiet und Teil des UNESCO-Weltnaturerbes. Er zeichnet sich durch seine ungestörte ökologische Entwicklung aus.",
+      hu: "A Janj-őserdő szigorúan védett természetvédelmi terület, amely az UNESCO világörökség része. Különlegessége a teljesen zavartalan ökológiai fejlődés és a biodiverzitás.",
+      ro: "Pădurea virgină Janj este o rezervație naturală strictă și face parte din patrimoniul mondial UNESCO. Se remarcă prin dezvoltarea sa ecologică neperturbată.",
+      en: "The Janj primeval forest is a strict nature reserve and part of the UNESCO World Heritage. It is distinguished by its undisturbed ecological development and biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO: seit 2021", "Fläche: 295 ha", "Lage: Nahe Šipovo", "Typ: Alter Buchenwald"],
+      hu: ["UNESCO: 2021 óta", "Területe: 295 ha", "Helyszín: Šipovo mellett", "Típus: Ősbükkös"],
+      ro: ["UNESCO: din 2021", "Suprafață: 295 ha", "Locație: Lângă Šipovo", "Tip: Făget virgin"],
+      en: ["UNESCO: since 2021", "Area: 295 ha", "Location: Near Šipovo", "Type: Ancient beech forest"],
+    },
   }
 ];

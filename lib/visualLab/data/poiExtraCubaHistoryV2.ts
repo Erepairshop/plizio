@@ -7,7 +7,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-VC",
     coords: [-79.9555, 22.4075],
-    name: { de: "Schlacht von Santa Clara", hu: "Santa Clara-i csata", ro: "Bătălia de la Santa Clara", en: "Battle of Santa Clara" },
+    name: { de: "Schlacht von Santa Clara", hu: "Santa Clara-i csata", ro: "Bătălia de la Santa Clara", en: "Battle of Santa Clara",
+image: "/poi-images/batalla-santa-clara-history-v2.webp"
+},
     description: {
       de: "Entscheidende Schlacht der kubanischen Revolution im Jahr 1958.",
       hu: "A kubai forradalom döntő csatája 1958-ban.",
@@ -38,7 +40,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-03",
     coords: [-82.3486, 23.1467],
-    name: { de: "Fortaleza de la Cabaña", hu: "Fortaleza de la Cabaña erőd", ro: "Fortaleza de la Cabaña", en: "Fortaleza de la Cabaña" },
+    name: { de: "Fortaleza de la Cabaña", hu: "Fortaleza de la Cabaña erőd", ro: "Fortaleza de la Cabaña", en: "Fortaleza de la Cabaña",
+image: "/poi-images/fortaleza-cabana-history-v2.webp"
+},
     description: {
       de: "Die Fortaleza de la Cabaña ist eine große Festung aus dem 18. Jahrhundert am Eingang der Bucht von Havanna. Sie gehört zu den bekanntesten Verteidigungsanlagen der Stadt.",
       hu: "Havanna híres 18. századi erődítménye a kikötő bejáratánál.",
@@ -69,7 +73,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-09",
     coords: [-81.0333, 22.2167],
-    name: { de: "Museo de Playa Girón", hu: "Playa Girón Múzeum", ro: "Muzeul Playa Girón", en: "Playa Girón Museum" },
+    name: { de: "Museo de Playa Girón", hu: "Playa Girón Múzeum", ro: "Muzeul Playa Girón", en: "Playa Girón Museum",
+image: "/poi-images/museo-giron-history-v2.webp"
+},
     description: {
       de: "Museum über die Invasion in der Schweinebucht im Jahr 1961.",
       hu: "Múzeum a Disznó-öbölbeli invázióról 1961-ből.",
@@ -100,7 +106,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.8, 19.95],
-    name: { de: "Ruinen französischer Kaffeeplantagen", hu: "Francia kávéültetvények romjai", ro: "Ruinele plantațiilor franceze de cafea", en: "Ruins of French Coffee Plantations" },
+    name: { de: "Ruinen französischer Kaffeeplantagen", hu: "Francia kávéültetvények romjai", ro: "Ruinele plantațiilor franceze de cafea", en: "Ruins of French Coffee Plantations",
+image: "/poi-images/ruinas-cafetal-history-v2.webp"
+},
     description: {
       de: "Überreste alter Kaffeefarmen aus dem 19. Jahrhundert im Escambray.",
       hu: "19. századi régi kávéfarmok maradványai az Escambray-ben.",
@@ -131,7 +139,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-14",
     coords: [-74.502, 20.352],
-    name: { de: "Fuerte Matachín", hu: "Fuerte Matachín erőd", ro: "Fuerte Matachín", en: "Fuerte Matachín" },
+    name: { de: "Fuerte Matachín", hu: "Fuerte Matachín erőd", ro: "Fuerte Matachín", en: "Fuerte Matachín",
+image: "/poi-images/fuerte-matachin-history-v2.webp"
+},
     description: {
       de: "Historische Festung in Baracoa, beherbergt das Stadtmuseum.",
       hu: "Történelmi erőd Baracoában, a városi múzeumnak ad otthont.",
@@ -162,7 +172,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.828, 20.021],
-    name: { de: "Haus von Diego Velázquez", hu: "Diego Velázquez háza", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House" },
+    name: { de: "Haus von Diego Velázquez", hu: "Diego Velázquez háza", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House",
+image: "/poi-images/casa-diego-velazquez-history-v2.webp"
+},
     description: {
       de: "Das Haus von Diego Velázquez in Santiago de Cuba gilt als eine der ältesten kolonialen Residenzen der Insel. Heute dient es als Museum und zeigt frühe Stadtgeschichte.",
       hu: "Santiago de Cuba legrégebbi fennmaradt háza, egykori gyarmati rezidencia.",
@@ -193,7 +205,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.811, 20.025],
-    name: { de: "Moncada-Kaserne", hu: "Moncada-laktanya", ro: "Cazarma Moncada", en: "Moncada Barracks" },
+    name: { de: "Moncada-Kaserne", hu: "Moncada-laktanya", ro: "Cazarma Moncada", en: "Moncada Barracks",
+image: "/poi-images/moncada-barracks-history-v2.webp"
+},
     description: {
       de: "Ort des Angriffs von 1953, der die Revolution auslöste.",
       hu: "Az 1953-as támadás helyszíne, amely elindította a forradalmat.",
@@ -224,7 +238,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.84, 19.97],
-    name: { de: "Leuchtturm von Santiago", hu: "Santiago-i világítótorony", ro: "Farul din Santiago", en: "Santiago Lighthouse" },
+    name: { de: "Leuchtturm von Santiago", hu: "Santiago-i világítótorony", ro: "Farul din Santiago", en: "Santiago Lighthouse",
+image: "/poi-images/faro-morro-santiago-history-v2.webp"
+},
     description: {
       de: "Der Leuchtturm am Morro von Santiago de Cuba markiert die Einfahrt zur Bucht. Er ist Teil des historischen Festungskomplexes an der Küste.",
       hu: "Santiago de Cuba történelmi világítótornya a kikötő védelmi rendszerében.",
@@ -255,7 +271,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-03",
     coords: [-82.3575, 23.1388],
-    name: { de: "Museum der Revolution", hu: "Forradalmi Múzeum", ro: "Muzeul Revoluției", en: "Museum of the Revolution" },
+    name: { de: "Museum der Revolution", hu: "Forradalmi Múzeum", ro: "Muzeul Revoluției", en: "Museum of the Revolution",
+image: "/poi-images/museo-revolucion-history-v2.webp"
+},
     description: {
       de: "Ehemals der Präsidentenpalast, jetzt Museum der Revolution.",
       hu: "Korábban az elnöki palota, ma a forradalom múzeuma.",
@@ -286,7 +304,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.823, 20.032],
-    name: { de: "Friedhof Santa Ifigenia", hu: "Santa Ifigenia temető", ro: "Cimitirul Santa Ifigenia", en: "Santa Ifigenia Cemetery" },
+    name: { de: "Friedhof Santa Ifigenia", hu: "Santa Ifigenia temető", ro: "Cimitirul Santa Ifigenia", en: "Santa Ifigenia Cemetery",
+image: "/poi-images/cemetery-santa-ifigenia-history-v2.webp"
+},
     description: {
       de: "Historischer Friedhof in Santiago, Grab von Jose Marti und Fidel Castro.",
       hu: "Történelmi temető Santiago de Cubában, Jose Marti és Fidel Castro sírja.",
@@ -317,7 +337,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-03",
     coords: [-82.28, 23.15],
-    name: { de: "Festung von Cojímar", hu: "Cojímar erődje", ro: "Fortăreața din Cojímar", en: "Fortress of Cojímar" },
+    name: { de: "Festung von Cojímar", hu: "Cojímar erődje", ro: "Fortăreața din Cojímar", en: "Fortress of Cojímar",
+image: "/poi-images/fuerte-cojimar-history-v2.webp"
+},
     description: {
       de: "Kleine Festung in der Nähe von Havanna, oft mit Hemingway verbunden.",
       hu: "Kis parti erőd Havanna közelében, a tengerparti védelem részeként ismert.",
@@ -348,7 +370,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-03",
     coords: [-82.35, 23.13],
-    name: { de: "Geburtshaus von José Martí", hu: "José Martí szülőháza", ro: "Casa natală a lui José Martí", en: "José Martí Birthplace" },
+    name: { de: "Geburtshaus von José Martí", hu: "José Martí szülőháza", ro: "Casa natală a lui José Martí", en: "José Martí Birthplace",
+image: "/poi-images/casa-natal-marti-history-v2.webp"
+},
     description: {
       de: "Das Geburtshaus von José Martí in Havanna erinnert an den Nationalhelden Kubas. Das Museum zeigt sein frühes Leben und seinen politischen Hintergrund.",
       hu: "Kuba nemzeti hősének szülőháza Havannában.",
@@ -379,7 +403,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-04",
     coords: [-81.57, 23.04],
-    name: { de: "Museo Farmacéutico", hu: "Gyógyszerészeti Múzeum", ro: "Muzeul Farmaceutic", en: "Pharmaceutical Museum" },
+    name: { de: "Museo Farmacéutico", hu: "Gyógyszerészeti Múzeum", ro: "Muzeul Farmaceutic", en: "Pharmaceutical Museum",
+image: "/poi-images/museo-farmacia-history-v2.webp"
+},
     description: {
       de: "Die historische Apotheke in Matanzas zählt zu den bekanntesten Apothekenmuseen Lateinamerikas. Ihre Originaleinrichtung vermittelt einen seltenen Blick auf das 19. Jahrhundert.",
       hu: "Történelmi gyógyszertár Matanzasban, az egyik legrégebbi Latin-Amerikában.",
@@ -410,7 +436,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-05",
     coords: [-79.55, 22.48],
-    name: { de: "Historisches Remedios", hu: "Történelmi Remedios", ro: "Remedios istoric", en: "Historic Remedios" },
+    name: { de: "Historisches Remedios", hu: "Történelmi Remedios", ro: "Remedios istoric", en: "Historic Remedios",
+image: "/poi-images/fuerte-remedios-history-v2.webp"
+},
     description: {
       de: "Remedios gehört zu den ältesten Städten Kubas und ist für sein gut erhaltenes koloniales Zentrum bekannt. Die Stadt ist auch mit dem Fest Las Parrandas verbunden.",
       hu: "Kuba egyik legrégebbi városa, jól megőrzött központtal.",
@@ -441,7 +469,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-05",
     coords: [-79.46, 22.51],
-    name: { de: "Museo de Caibarién", hu: "Caibariéni Múzeum", ro: "Muzeul din Caibarién", en: "Caibarién Museum" },
+    name: { de: "Museo de Caibarién", hu: "Caibariéni Múzeum", ro: "Muzeul din Caibarién", en: "Caibarién Museum",
+image: "/poi-images/museo-caibarien-history-v2.webp"
+},
     description: {
       de: "Das Museum in Caibarién zeigt die Geschichte der Küstenstadt mit Fokus auf Hafenleben und Fischerei. Es ist ein wichtiger Ort für das lokale Gedächtnis.",
       hu: "Caibarién tengerparti múzeuma a város helytörténetét és halászati múltját mutatja be.",
@@ -472,7 +502,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-07",
     coords: [-77.91, 21.38],
-    name: { de: "Casa del Patrimonio", hu: "Örökség Háza (Camagüey)", ro: "Casa Patrimoniului (Camagüey)", en: "Heritage House (Camagüey)" },
+    name: { de: "Casa del Patrimonio", hu: "Örökség Háza (Camagüey)", ro: "Casa Patrimoniului (Camagüey)", en: "Heritage House (Camagüey)",
+image: "/poi-images/casa-camaguey-history-v2.webp"
+},
     description: {
       de: "Das Haus in Camagüey bewahrt das städtische Erbe der Altstadt. Es gibt einen kompakten Überblick über die koloniale Architektur der Region.",
       hu: "Camagüey örökségi háza a belvárosi épített örökség megőrzésére szolgál.",
@@ -503,7 +535,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-06",
     coords: [-79.9, 21.8],
-    name: { de: "Valle de los Ingenios", hu: "Cukormalmok völgye", ro: "Valea Morilor de Zahăr", en: "Valley of the Sugar Mills" },
+    name: { de: "Valle de los Ingenios", hu: "Cukormalmok völgye", ro: "Valea Morilor de Zahăr", en: "Valley of the Sugar Mills",
+image: "/poi-images/ruinas-ingenios-history-v2.webp"
+},
     description: {
       de: "UNESCO-Welterbe-Region mit Ruinen alter Zuckermühlen.",
       hu: "UNESCO Világörökségi régió, régi cukormalmok romjaival.",
@@ -534,7 +568,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-04",
     coords: [-81.57, 23.05],
-    name: { de: "Castillo de San Severino", hu: "San Severino-vár", ro: "Castelul San Severino", en: "Castillo de San Severino" },
+    name: { de: "Castillo de San Severino", hu: "San Severino-vár", ro: "Castelul San Severino", en: "Castillo de San Severino",
+image: "/poi-images/castillo-severo-history-v2.webp"
+},
     description: {
       de: "Das Castillo de San Severino in Matanzas ist eine Festung aus der Kolonialzeit. Heute erinnert der Ort an die militärische Verteidigung der Hafenstadt.",
       hu: "A castillói erőd Matanzas gyarmati védelmi rendszerének része volt.",
@@ -565,7 +601,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-08",
     coords: [-77.06, 20.38],
-    name: { de: "Iglesia Mayor de Bayamo", hu: "Bayamo főtemploma", ro: "Biserica Mare din Bayamo", en: "Major Church of Bayamo" },
+    name: { de: "Iglesia Mayor de Bayamo", hu: "Bayamo főtemploma", ro: "Biserica Mare din Bayamo", en: "Major Church of Bayamo",
+image: "/poi-images/iglesia-mayor-history-v2.webp"
+},
     description: {
       de: "Die Iglesia Mayor de Bayamo ist eine historische Kirche im Zentrum der Stadt. Sie gehört zu den wichtigen Zeugnissen der kolonialen Vergangenheit Bayamos.",
       hu: "Történelmi templom Bayamóban, Kuba második legrégebbi városában.",
@@ -596,7 +634,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-09",
     coords: [-81.0, 22.2],
-    name: { de: "Museo de la Comandancia", hu: "Parancsnoksági Múzeum", ro: "Muzeul Comandamentului", en: "Command Museum" },
+    name: { de: "Museo de la Comandancia", hu: "Parancsnoksági Múzeum", ro: "Muzeul Comandamentului", en: "Command Museum",
+image: "/poi-images/museo-bata-history-v2.webp"
+},
     description: {
       de: "Das Museum in der Schweinebucht erinnert an den historischen Kommandoposten der Invasion von 1961. Der Ort ist eng mit dem militärischen Verlauf der Operation verbunden.",
       hu: "A Disznó-öbölnél álló múzeum az 1961-es invázió parancsnoki pontját idézi fel.",
@@ -627,7 +667,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-10",
     coords: [-83.7, 22.6],
-    name: { de: "Cueva del Indio", hu: "Indiai-barlang", ro: "Peștera Indianului", en: "Cave of the Indian" },
+    name: { de: "Cueva del Indio", hu: "Indiai-barlang", ro: "Peștera Indianului", en: "Cave of the Indian",
+image: "/poi-images/cueva-indio-history-v2.webp"
+},
     description: {
       de: "Höhle in Viñales, einst von Ureinwohnern genutzt.",
       hu: "A Viñalesben található Cueva del Indio természetes barlang, amelyet egykor az őslakosok használtak.",
@@ -658,7 +700,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-05",
     coords: [-80.45, 22.14],
-    name: { de: "Teatro Tomás Terry", hu: "Teatro Tomás Terry", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theater" },
+    name: { de: "Teatro Tomás Terry", hu: "Teatro Tomás Terry", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theater",
+image: "/poi-images/teatro-tomas-terry-history-v2.webp"
+},
     description: {
       de: "Das Teatro Tomás Terry ist ein prächtiges Opernhaus in Cienfuegos. Es steht für die kulturelle Blüte der Stadt im späten 19. Jahrhundert.",
       hu: "Cienfuegos ismert történelmi színháza, gazdag belső díszítéssel.",
@@ -689,7 +733,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-07",
     coords: [-77.5, 20.9],
-    name: { de: "Faro Roncador", hu: "Faro Roncador világítótorony", ro: "Farul Roncador", en: "Roncador Lighthouse" },
+    name: { de: "Faro Roncador", hu: "Faro Roncador világítótorony", ro: "Farul Roncador", en: "Roncador Lighthouse",
+image: "/poi-images/faro-roncador-history-v2.webp"
+},
     description: {
       de: "Der Faro Roncador ist ein historischer Leuchtturm an der kubanischen Küste. Er gehört zu den maritimen Zeugnissen der Kolonialzeit.",
       hu: "Történelmi világítótorony a part mentén.",
@@ -720,7 +766,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-03",
     coords: [-82.38, 23.12],
-    name: { de: "Cementerio de Colón", hu: "Kolumbusz temető", ro: "Cimitirul Colon", en: "Colon Cemetery" },
+    name: { de: "Cementerio de Colón", hu: "Kolumbusz temető", ro: "Cimitirul Colon", en: "Colon Cemetery",
+image: "/poi-images/cementerio-cristobal-colon-history-v2.webp"
+},
     description: {
       de: "Der Cementerio de Colón in Havanna zählt zu den bekanntesten Friedhöfen Amerikas. Seine Grabarchitektur macht ihn zu einem wichtigen Kulturort.",
       hu: "A havannai Colón temető Kuba legismertebb sírkertjei közé tartozik.",
@@ -751,7 +799,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-76.26, 20.88],
-    name: { de: "Fortín de la Loma de la Cruz", hu: "Loma de la Cruz erődítmény", ro: "Fortăreața Loma de la Cruz", en: "Fortress of Loma de la Cruz" },
+    name: { de: "Fortín de la Loma de la Cruz", hu: "Loma de la Cruz erődítmény", ro: "Fortăreața Loma de la Cruz", en: "Fortress of Loma de la Cruz",
+image: "/poi-images/fortin-loma-cruz-history-v2.webp"
+},
     description: {
       de: "Historische Anlage auf dem Hügel in Holguín.",
       hu: "A holguíni Loma de la Cruz erődítménye városi jelkép és régi kilátópont.",
@@ -782,7 +832,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.8, 20.02],
-    name: { de: "Parque de los Mártires", hu: "Mártírok Parkja", ro: "Parcul Martirilor", en: "Martyrs Park" },
+    name: { de: "Parque de los Mártires", hu: "Mártírok Parkja", ro: "Parcul Martirilor", en: "Martyrs Park",
+image: "/poi-images/parque-martires-history-v2.webp"
+},
     description: {
       de: "Der Parque de los Mártires ist eine Gedenkstätte für die Gefallenen der Revolution. Der Ort verbindet Erinnerungskultur und Stadtgeschichte.",
       hu: "A Mártírok Parkja a forradalom elesettjeinek szentelt emlékhely Santiago de Cubában.",
@@ -813,7 +865,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-05",
     coords: [-80.4, 22.0],
-    name: { de: "Castillo de Jagua", hu: "Jagua-vár", ro: "Castelul Jagua", en: "Castillo de Jagua" },
+    name: { de: "Castillo de Jagua", hu: "Jagua-vár", ro: "Castelul Jagua", en: "Castillo de Jagua",
+image: "/poi-images/fortaleza-jagua-history-v2.webp"
+},
     description: {
       de: "Die Fortaleza de Jagua bewacht die Einfahrt zur Bucht von Cienfuegos. Die Festung wurde im 18. Jahrhundert gegen Piratenangriffe errichtet.",
       hu: "Erődítmény a Cienfuegos-öböl bejáratánál.",
@@ -844,7 +898,9 @@ export const poiExtraCubaHistoryV2: POI[] = [
     type: "historical",
     parent: "CU-12",
     coords: [-75.82, 20.02],
-    name: { de: "Antiguo Ayuntamiento", hu: "Antiguo Ayuntamiento", ro: "Antiguo Ayuntamiento", en: "Antiguo Ayuntamiento" },
+    name: { de: "Antiguo Ayuntamiento", hu: "Antiguo Ayuntamiento", ro: "Antiguo Ayuntamiento", en: "Antiguo Ayuntamiento",
+image: "/poi-images/antiguo-ayuntamiento-history-v2.webp"
+},
     description: {
       de: "Das Antiguo Ayuntamiento war das ehemalige Rathaus von Santiago de Cuba. Das Gebäude steht für die koloniale Verwaltungsgeschichte der Stadt.",
       hu: "Az egykori városháza Santiago de Cuba gyarmati közigazgatási múltját őrzi.",

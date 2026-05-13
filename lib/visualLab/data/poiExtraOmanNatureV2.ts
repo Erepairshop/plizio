@@ -6,7 +6,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "national-park",
     parent: "OM-SJ",
     coords: [59.2069, 22.3781],
-    name: { de: "Al Saleel Naturpark", hu: "Al Szalíl Nemzeti Park", ro: "Parcul Național Al Saleel", en: "Al Saleel National Park" },
+    name: { de: "Al Saleel Naturpark", hu: "Al Szalíl Nemzeti Park", ro: "Parcul Național Al Saleel", en: "Al Saleel National Park",
+image: "/poi-images/oman-al-saleel-national-park-nature-v2.webp"
+},
     description: {
       de: "Dieser Naturpark schützt wertvolle Wälder mit Akazienbäumen und ist ein wichtiger Lebensraum für die arabische Gazelle in der Region Ash Sharqiyah.",
       hu: "Ez a nemzeti park értékes akáciaerdőket véd, és az arab gazella egyik legfontosabb élőhelye az As-Sarkijja régióban.",
@@ -37,7 +39,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "national-park",
     parent: "OM-WU",
     coords: [57.2667, 19.9667],
-    name: { de: "Naturschutzgebiet der Arabischen Oryx", hu: "Arab Oryx Természetvédelmi Terület", ro: "Rezervația de Oryx Arab", en: "Arabian Oryx Sanctuary" },
+    name: { de: "Naturschutzgebiet der Arabischen Oryx", hu: "Arab Oryx Természetvédelmi Terület", ro: "Rezervația de Oryx Arab", en: "Arabian Oryx Sanctuary",
+image: "/poi-images/oman-arabian-oryx-sanctuary-nature-v2.webp"
+},
     description: {
       de: "Ein riesiges Schutzgebiet in der Wüste von Al Wusta, das gegründet wurde, um die seltene Arabische Oryxantilope vor dem Aussterben zu bewahren.",
       hu: "Hatalmas védett terület az Al Vuszta sivatagban, amelyet a ritka arab bejza kipusztulástól való megmentésére hoztak létre.",
@@ -68,7 +72,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "national-park",
     parent: "OM-MA",
     coords: [58.4839, 23.6264],
-    name: { de: "Qurum-Naturpark", hu: "Kurum Nemzeti Park", ro: "Parcul Natural Qurum", en: "Qurum Natural Park" },
+    name: { de: "Qurum-Naturpark", hu: "Kurum Nemzeti Park", ro: "Parcul Natural Qurum", en: "Qurum Natural Park",
+image: "/poi-images/oman-qurum-natural-park-nature-v2.webp"
+},
     description: {
       de: "Die größte öffentliche Grünfläche in Maskat mit einem großen See, Mangrovenwäldern und Rosengärten, die eine Oase der Ruhe in der Stadt bietet.",
       hu: "Maszkat legnagyobb nyilvános zöldterülete, egy nagy tóval, mangroveerdőkkel és rózsakertekkel, amely a nyugalom szigete a városban.",
@@ -99,7 +105,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-MA",
     coords: [58.3392, 23.5592],
-    name: { de: "Al-Ansab-Feuchtgebiete", hu: "Al-Anszáb Vadvíz", ro: "Zonele Umede Al Ansab", en: "Al Ansab Wetlands" },
+    name: { de: "Al-Ansab-Feuchtgebiete", hu: "Al-Anszáb Vadvíz", ro: "Zonele Umede Al Ansab", en: "Al Ansab Wetlands",
+image: "/poi-images/oman-al-ansab-wetlands-nature-v2.webp"
+},
     description: {
       de: "Ein Netzwerk künstlich geschaffener Teiche und Schilflandschaften bei Maskat, das sich zu einem erstklassigen Vogelbeobachtungsgebiet entwickelt hat.",
       hu: "Mesterséges tavakból és nádasokból álló hálózat Maszkat közelében, amely elsőrangú madármegfigyelő területté fejlődött.",
@@ -130,7 +138,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [54.1755, 17.1472],
-    name: { de: "Ayn Sahalnoot", hu: "Ayn Szahalnut", ro: "Ayn Sahalnoot", en: "Ayn Sahalnoot" },
+    name: { de: "Ayn Sahalnoot", hu: "Ayn Szahalnut", ro: "Ayn Sahalnoot", en: "Ayn Sahalnoot",
+image: "/poi-images/oman-ayn-sahalnoot-nature-v2.webp"
+},
     description: {
       de: "Eine natürliche Süßwasserquelle in der Dhofar-Region, umgeben von dramatischen Kalksteinfelsen und üppiger Vegetation, besonders grün während des Khareef-Monsuns.",
       hu: "Természetes édesvizű forrás a Dhofar-régióban, drámai mészkősziklákkal és buja növényzettel övezve, amely különösen zöld a harif-monszun idején.",
@@ -161,7 +171,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [54.2344, 17.1264],
-    name: { de: "Ayn Razat", hu: "Ayn Razat", ro: "Ayn Razat", en: "Ayn Razat" },
+    name: { de: "Ayn Razat", hu: "Ayn Razat", ro: "Ayn Razat", en: "Ayn Razat",
+image: "/poi-images/oman-ayn-razat-nature-v2.webp"
+},
     description: {
       de: "Die wichtigste Wasserquelle in der Gegend von Salala, die Höhlen, Teiche und ausgedehnte tropische Gärten speist.",
       hu: "Szalála környékének legfontosabb vízforrása, amely barlangokat, tavakat és kiterjedt trópusi kerteket táplál.",
@@ -192,7 +204,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [54.3644, 17.1147],
-    name: { de: "Ayn Athum", hu: "Ayn Atum", ro: "Ayn Athum", en: "Ayn Athum" },
+    name: { de: "Ayn Athum", hu: "Ayn Atum", ro: "Ayn Athum", en: "Ayn Athum",
+image: "/poi-images/oman-ayn-athum-nature-v2.webp"
+},
     description: {
       de: "Ein malerisches Gewässer, das durch einen hohen Wasserfall gespeist wird, der tief in den grünen Bergen von Dhofar versteckt liegt.",
       hu: "Festői víztömeg, amelyet egy magas vízesés táplál, mélyen a Dhofar zöldellő hegyeiben elrejtve.",
@@ -223,7 +237,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [53.9497, 17.0603],
-    name: { de: "Ayn Khor", hu: "Ayn Khor", ro: "Ayn Khor", en: "Ayn Khor" },
+    name: { de: "Ayn Khor", hu: "Ayn Khor", ro: "Ayn Khor", en: "Ayn Khor",
+image: "/poi-images/oman-ayn-khor-nature-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Naturbecken mit einem spektakulären Wasserfall in der Nähe von Salala, dessen Zugang eine kurze Offroad-Fahrt durch raues Gelände erfordert.",
       hu: "Félreeső természetes medence Szalála közelében, ahová egy látványos vízesés zúdul, és ahova rövid terepjárós utazás vezet.",
@@ -254,7 +270,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [54.4339, 17.0378],
-    name: { de: "Khor Rori Lagune", hu: "Khor Rori Lagúna", ro: "Laguna Khawr Ruri", en: "Khawr Ruri Lagoon" },
+    name: { de: "Khor Rori Lagune", hu: "Khor Rori Lagúna", ro: "Laguna Khawr Ruri", en: "Khawr Ruri Lagoon",
+image: "/poi-images/oman-khawr-ruri-nature-v2.webp"
+},
     description: {
       de: "Die größte Lagune in Dhofar, die Süßwasser mit dem Meer verbindet und als wichtiges Heiligtum für Zugvögel und Schildkröten fungiert.",
       hu: "Dhofar legnagyobb lagúnája, amely összeköti az édesvizet a tengerrel, és fontos menedékhely a vándormadarak és teknősök számára.",
@@ -285,7 +303,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [53.7847, 16.8906],
-    name: { de: "Khor Al Mughsail", hu: "Khor Al-Mugszajl", ro: "Khawr Al Maghsail", en: "Khawr Al Maghsail" },
+    name: { de: "Khor Al Mughsail", hu: "Khor Al-Mugszajl", ro: "Khawr Al Maghsail", en: "Khawr Al Maghsail",
+image: "/poi-images/oman-khawr-al-maghsail-nature-v2.webp"
+},
     description: {
       de: "Eine Brackwasserlagune an der Südküste, flankiert von Bergen und dem Meer, die für ihre dichten Schilfgürtel und artenreiche Vogelwelt bekannt ist.",
       hu: "Brakkvizes lagúna a déli parton, amelyet hegyek és a tenger szegélyeznek, ismert sűrű nádasairól és gazdag madárvilágáról.",
@@ -316,7 +336,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "river",
     parent: "OM-BJ",
     coords: [57.6533, 23.4914],
-    name: { de: "Wadi Al Abiyad", hu: "Vádi Al-Abijad", ro: "Wadi Al Abiyad", en: "Wadi Al Abiyad" },
+    name: { de: "Wadi Al Abiyad", hu: "Vádi Al-Abijad", ro: "Wadi Al Abiyad", en: "Wadi Al Abiyad",
+image: "/poi-images/oman-wadi-al-abiyad-nature-v2.webp"
+},
     description: {
       de: "Ein breites Flusstal, dessen Name 'das weiße Wadi' bedeutet, benannt nach den weißen Kalksteinfelsen und den hellen Kiesbetten entlang des ganzjährigen Wasserlaufs.",
       hu: "Széles folyóvölgy, melynek neve 'fehér vádi', az állandó vízfolyás menti fehér mészkősziklákról és világos kavicságyakról kapta nevét.",
@@ -347,7 +369,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "river",
     parent: "OM-SS",
     coords: [58.0772, 22.5800],
-    name: { de: "Wadi Andam", hu: "Vádi Andam", ro: "Wadi Andam", en: "Wadi Andam" },
+    name: { de: "Wadi Andam", hu: "Vádi Andam", ro: "Wadi Andam", en: "Wadi Andam",
+image: "/poi-images/oman-wadi-andam-nature-v2.webp"
+},
     description: {
       de: "Eines der längsten Wadis im Oman, das sich durch schroffe Landschaften schlängelt und kleine grüne Oasen mit Dattelpalmen bildet.",
       hu: "Omán egyik leghosszabb vádija, amely zord tájakon kanyarog, és datolyapálmás, apró zöld oázisokat hoz létre.",
@@ -378,7 +402,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "river",
     parent: "OM-DA",
     coords: [57.6719, 22.9558],
-    name: { de: "Wadi Muaydin", hu: "Vádi Muajdin", ro: "Wadi Muaydin", en: "Wadi Muaydin" },
+    name: { de: "Wadi Muaydin", hu: "Vádi Muajdin", ro: "Wadi Muaydin", en: "Wadi Muaydin",
+image: "/poi-images/oman-wadi-muaydin-nature-v2.webp"
+},
     description: {
       de: "Ein tief eingeschnittenes Flusstal, das als natürliches Tor zum Saiq-Plateau dient und ganzjährig Wasser führt.",
       hu: "Mélyen bevágott folyóvölgy, amely természetes kapuként szolgál a Szajq-fennsíkhoz, és egész évben vízzel teli.",
@@ -409,7 +435,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "mountain",
     parent: "OM-MU",
     coords: [56.2300, 25.9753],
-    name: { de: "Dschebel Harim", hu: "Jebel Harim", ro: "Jebel Harim", en: "Jebel Harim" },
+    name: { de: "Dschebel Harim", hu: "Jebel Harim", ro: "Jebel Harim", en: "Jebel Harim",
+image: "/poi-images/oman-jebel-harim-nature-v2.webp"
+},
     description: {
       de: "Der 'Berg der Frauen' ist der höchste Gipfel der Musandam-Halbinsel und bietet spektakuläre Ausblicke auf zerklüftete Fjorde und den Persischen Golf.",
       hu: "A 'Nők hegye' a Muszandam-félsziget legmagasabb csúcsa, ahonnan látványos kilátás nyílik a csipkézett fjordokra és a Perzsa-öbölre.",
@@ -440,7 +468,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "mountain",
     parent: "OM-SS",
     coords: [58.1219, 22.4286],
-    name: { de: "Dschebel Madar", hu: "Jebel Madar", ro: "Jebel Madar", en: "Jebel Madar" },
+    name: { de: "Dschebel Madar", hu: "Jebel Madar", ro: "Jebel Madar", en: "Jebel Madar",
+image: "/poi-images/oman-jebel-madar-nature-v2.webp"
+},
     description: {
       de: "Ein markanter, isolierter Kalksteinberg in der Sharqiyah-Region, der sich majestätisch aus der umliegenden flachen Wüstenebene erhebt.",
       hu: "Jellegzetes, elszigetelt mészkőhegy a Sarkijja-régióban, amely fenségesen magasodik ki a környező sík sivatagi síkságból.",
@@ -471,7 +501,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "river",
     parent: "OM-ZU",
     coords: [55.6669, 17.9250],
-    name: { de: "Wadi Ash Shuwaymiyyah", hu: "Vádi As-Suvajmijja", ro: "Wadi Ash Shuwaymiyyah", en: "Wadi Ash Shuwaymiyyah" },
+    name: { de: "Wadi Ash Shuwaymiyyah", hu: "Vádi As-Suvajmijja", ro: "Wadi Ash Shuwaymiyyah", en: "Wadi Ash Shuwaymiyyah",
+image: "/poi-images/oman-wadi-ash-shuwaymiyyah-nature-v2.webp"
+},
     description: {
       de: "Ein atemberaubendes Wüstenwadi, das tief in die Hochebene eingeschnitten ist und eine dramatische Landschaft aus weißen und roten Kalksteinklippen offenbart.",
       hu: "Lélegzetelállító sivatagi vádi, amely mélyen a fennsíkba vág, és fehér és vörös mészkősziklák drámai táját tárja fel.",
@@ -502,7 +534,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "river",
     parent: "OM-BJ",
     coords: [57.4525, 23.3644],
-    name: { de: "Wadi Al Fara", hu: "Vádi Al-Fara", ro: "Wadi Al Fara", en: "Wadi Al Fara" },
+    name: { de: "Wadi Al Fara", hu: "Vádi Al-Fara", ro: "Wadi Al Fara", en: "Wadi Al Fara",
+image: "/poi-images/oman-wadi-al-fara-nature-v2.webp"
+},
     description: {
       de: "Ein malerisches Tal mit engen Felspassagen, das das Wasser aus dem Hadschar-Gebirge sammelt und fruchtbare Plantagen versorgt.",
       hu: "Festői völgy szűk sziklaszorosokkal, amely a Hadzsar-hegység vizét gyűjti össze, és termékeny ültetvényeket lát el vele.",
@@ -533,7 +567,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "mountain",
     parent: "OM-DA",
     coords: [57.1722, 23.2383],
-    name: { de: "Dschebel As-Sarat", hu: "Jebel Asz-Szarat", ro: "Jebel As-Sarat", en: "Jebel As-Sarat" },
+    name: { de: "Dschebel As-Sarat", hu: "Jebel Asz-Szarat", ro: "Jebel As-Sarat", en: "Jebel As-Sarat",
+image: "/poi-images/oman-jebel-as-sarat-nature-v2.webp"
+},
     description: {
       de: "Ein mächtiger Gebirgsausläufer westlich des Dschebel Schams, der durch steile Klippen und tiefe Schluchten geprägt ist.",
       hu: "Hatalmas hegygerinc a Jebel Samsztól nyugatra, amelyet meredek sziklák és mély szurdokok jellemeznek.",
@@ -564,7 +600,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "lake",
     parent: "OM-ZU",
     coords: [54.0417, 16.9944],
-    name: { de: "Khor Awqad", hu: "Khor Avkad", ro: "Khawr Awqad", en: "Khawr Awqad" },
+    name: { de: "Khor Awqad", hu: "Khor Avkad", ro: "Khawr Awqad", en: "Khawr Awqad",
+image: "/poi-images/oman-khawr-awqad-nature-v2.webp"
+},
     description: {
       de: "Ein Feuchtgebiet in der Nähe von Salala, das als natürliches Reservoir dient und für seinen dichten Bewuchs und die Vogelvielfalt bekannt ist.",
       hu: "Vadvízi terület Szalála közelében, amely természetes tározóként szolgál, és sűrű növényzetéről, valamint madárvilágáról ismert.",
@@ -595,7 +633,9 @@ export const poiExtraOmanNatureV2: POI[] = [
     type: "river",
     parent: "OM-MU",
     coords: [56.1669, 25.8672],
-    name: { de: "Wadi Khabbab", hu: "Vádi Khabbab", ro: "Wadi Khabbab", en: "Wadi Khabbab" },
+    name: { de: "Wadi Khabbab", hu: "Vádi Khabbab", ro: "Wadi Khabbab", en: "Wadi Khabbab",
+image: "/poi-images/oman-wadi-khabbab-nature-v2.webp"
+},
     description: {
       de: "Ein zerklüftetes Tal auf der Halbinsel Musandam, das sich durch karge, scharfe Felswände und saisonale Wasserbecken auszeichnet.",
       hu: "Csipkézett völgy a Muszandam-félszigeten, amelyet kopár, éles sziklafalak és szezonális vízmedencék jellemeznek.",

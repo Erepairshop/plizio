@@ -4,7 +4,9 @@ export const icelandReliefV2: POI[] = [
   {
     id: "iceland-hvannadalshnukur-relief-v2",
     type: "peak",
-    name: { de: "Hvannadalshnúkur", hu: "Hvannadalshnúkur", ro: "Hvannadalshnúkur", en: "Hvannadalshnúkur" },
+    name: { de: "Hvannadalshnúkur", hu: "Hvannadalshnúkur", ro: "Hvannadalshnúkur", en: "Hvannadalshnúkur",
+image: "/poi-images/iceland-hvannadalshnukur-relief-v2.webp"
+},
     coords: [-16.6749, 64.0147],
     coordinates: { lat: 64.0147, lng: -16.6749 },
     description: {
@@ -19,11 +21,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Islanda (2110 m)", "Face parte din vulcanul Öræfajökull", "Situat în Parcul Național Vatnajökull", "Destinație populară pentru drumeții pe ghețar"],
       en: ["Highest point in Iceland (2110 m)", "Part of the Öræfajökull glacier volcano", "Located in Vatnajökull National Park", "Popular destination for glacier hiking"],
     },
-    imageHint: "Hvannadalshnúkur peak covered in snow", image: "/poi-images/iceland-hvannadalshnukur-relief-v2.webp"},
-  {
+imageHint: "Hvannadalshnúkur peak covered in snow",
+    descriptionAdvanced: {
+      de: "Der höchste Gipfel Islands ist ein pyramidenförmiger Nunatak am nordwestlichen Rand des Öræfajökull-Vulkans. Er ist Teil des Vatnajökull-Nationalparks und ein Ziel für Bergsteiger.",
+      hu: "Izland legmagasabb pontja az Öræfajökull gleccservulkán peremén található. A csúcs a Vatnajökull Nemzeti Park része, megmászása speciális gleccserjáró felszerelést igényel.",
+      ro: "Cel mai înalt vârf din Islanda este situat pe marginea craterului vulcanului Öræfajökull. Face parte din Parcul Național Vatnajökull și oferă o panoramă asupra coastei de sud.",
+      en: "The highest peak in Iceland is a pyramidal nunatak on the northwestern rim of the Öræfajökull volcano. It is part of Vatnajökull National Park and requires a guided glacier hike.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2110 Meter über dem Meeresspiegel", "Teil des massiven Öræfajökull-Vulkans", "Erstbesteigung im Jahr 1891 dokumentiert", "Gehört zum Vatnajökull-Nationalpark"],
+      hu: ["Magassága 2110 méter a tengerszint felett", "Az Öræfajökull jégborította vulkán része", "Első dokumentált megmászása 1891-ben történt", "A Vatnajökull Nemzeti Park területén fekszik"],
+      ro: ["Altitudine: 2110 metri peste nivelul mării", "Parte a masivului vulcanic Öræfajökull", "Prima ascensiune documentată în anul 1891", "Situat în interiorul Parcului Național Vatnajökull"],
+      en: ["Elevation: 2110 meters above sea level", "Part of the massive Öræfajökull volcano", "First documented ascent occurred in 1891", "Located within the Vatnajökull National Park"],
+    },
+    image: "/poi-images/iceland-hvannadalshnukur-relief-v2.webp",
+},  {
     id: "iceland-herdubreid-relief-v2",
     type: "mountain",
-    name: { de: "Herðubreið", hu: "Herðubreið", ro: "Herðubreið", en: "Herðubreið" },
+    name: { de: "Herðubreið", hu: "Herðubreið", ro: "Herðubreið", en: "Herðubreið",
+image: "/poi-images/iceland-herdubreid-relief-v2.webp"
+},
     coords: [-16.35, 65.1833],
     coordinates: { lat: 65.1833, lng: -16.35 },
     description: {
@@ -38,11 +55,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 1682 de metri", "Format prin erupție subglaciară", "Votat muntele național în 1956", "Situat în pustiul Ódáðahraun"],
       en: ["Elevation of 1682 meters", "Formed by a subglacial eruption", "Voted national mountain in 1956", "Located in the Ódáðahraun desert"],
     },
-    imageHint: "Herðubreið table mountain in the highlands", image: "/poi-images/iceland-herdubreid-relief-v2.webp"},
-  {
+imageHint: "Herðubreið table mountain in the highlands",
+    descriptionAdvanced: {
+      de: "Diese markante Tuya im nördlichen Hochland entstand durch Eruptionen unter einem massiven Gletscher während der letzten Eiszeit. Sie wird oft als Königin der isländischen Berge bezeichnet.",
+      hu: "Ez a különleges táblahegy az északi felföldön keletkezett a jégkorszak idején, egy gleccser alatti vulkánkitörés során. Gyakran az izlandi hegyek királynőjeként emlegetik.",
+      ro: "Acest munte de tip tuia din podișul nordic s-a format prin erupții subglaciare în timpul ultimei ere glaciare. Este adesea numit regina munților islandezi datorită formei sale.",
+      en: "This prominent tuya in the northern highlands was formed by subglacial eruptions during the last ice age. It is frequently referred to as the Queen of Icelandic Mountains.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe: 1682 Meter", "Entstand durch Eruptionen unter Gletschereis", "Erste dokumentierte Besteigung im Jahr 1908", "Liegt in der Nähe der Askja-Caldera"],
+      hu: ["A csúcs magassága 1682 méter", "Gleccser alatti vulkáni tevékenység hozta létre", "Első dokumentált megmászása 1908-ban volt", "Az Askja-kaldera közelében található"],
+      ro: ["Înălțimea vârfului: 1682 metri", "Format prin activitate vulcanică subglaciară", "Prima ascensiune documentată în anul 1908", "Situat în apropierea calderei Askja"],
+      en: ["Summit elevation: 1682 meters", "Formed by volcanic activity beneath a glacier", "First documented ascent occurred in 1908", "Located near the Askja caldera"],
+    },
+    image: "/poi-images/iceland-herdubreid-relief-v2.webp",
+},  {
     id: "iceland-esja-relief-v2",
     type: "mountain",
-    name: { de: "Esja", hu: "Esja", ro: "Esja", en: "Esja" },
+    name: { de: "Esja", hu: "Esja", ro: "Esja", en: "Esja",
+image: "/poi-images/iceland-esja-relief-v2.webp"
+},
     coords: [-21.6167, 64.25],
     coordinates: { lat: 64.25, lng: -21.6167 },
     description: {
@@ -57,11 +89,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punctul maxim are 914 metri", "Muntele de referință al orașului Reykjavík", "Format în Pliocenul târziu", "Vechime de peste 7 milioane de ani"],
       en: ["Highest point is 914 meters", "The mountain of Reykjavík city", "Formed during the late Pliocene", "Over 7 million years old"],
     },
-    imageHint: "Esja mountain range seen from Reykjavik", image: "/poi-images/iceland-esja-relief-v2.webp"},
-  {
+imageHint: "Esja mountain range seen from Reykjavik",
+    descriptionAdvanced: {
+      de: "Das Bergmassiv dominiert die Skyline von Reykjavík und besteht aus abwechselnden Schichten von Basalt und Tuffstein. Es ist ein beliebtes Wandergebiet mit verschiedenen Routen.",
+      hu: "A Reykjavík látképét meghatározó hegység bazalt- és tufarétegekből épül fel. Népszerű kirándulóhely, amely számos különböző nehézségű túraútvonalat kínál a látogatóknak.",
+      ro: "Masivul muntos care domină orizontul orașului Reykjavík este format din straturi alternative de bazalt și tuf. Este o zonă populară pentru drumeții, cu trasee variate.",
+      en: "Dominating the Reykjavík skyline, this mountain range consists of alternating layers of basalt and tuff. It is a popular hiking destination with several well-marked trails.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 914 Meter (Habunga)", "Besteht aus vulkanischem Gestein und Sedimenten", "Entstand vor etwa 1,8 bis 3,2 Millionen Jahren", "Wichtigstes Naherholungsgebiet der Hauptstadt"],
+      hu: ["Legmagasabb pontja a 914 méteres Habunga", "Vulkáni kőzetekből és üledékből áll", "Kora 1,8 és 3,2 millió év közé tehető", "A főváros legfontosabb szabadidős övezete"],
+      ro: ["Punctul maxim: 914 metri (Habunga)", "Format din roci vulcanice și sedimente", "Vârsta este estimată la 1,8 - 3,2 milioane ani", "Cea mai importantă zonă de recreere a capitalei"],
+      en: ["Highest point: 914 meters (Habunga)", "Composed of volcanic rock and sediments", "Formed between 1.8 and 3.2 million years ago", "Primary recreational area for the capital city"],
+    },
+    image: "/poi-images/iceland-esja-relief-v2.webp",
+},  {
     id: "iceland-kerlingarfjoll-relief-v2",
     type: "mountain",
-    name: { de: "Kerlingarfjöll", hu: "Kerlingarfjöll", ro: "Kerlingarfjöll", en: "Kerlingarfjöll" },
+    name: { de: "Kerlingarfjöll", hu: "Kerlingarfjöll", ro: "Kerlingarfjöll", en: "Kerlingarfjöll",
+image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp"
+},
     coords: [-19.3, 64.6333],
     coordinates: { lat: 64.6333, lng: -19.3 },
     description: {
@@ -76,11 +123,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Vârful maxim are 1477 metri", "Compus în principal din riolit", "Găzduiește zona geotermală Hveradalir", "Numele înseamnă Munții Femeii Bătrâne"],
       en: ["Highest peak is 1477 meters", "Composed mainly of rhyolite", "Home to Hveradalir geothermal area", "Name translates to Old Woman's Mountains"],
     },
-    imageHint: "Kerlingarfjöll rhyolite mountains and steam", image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp"},
-  {
+imageHint: "Kerlingarfjöll rhyolite mountains and steam",
+    descriptionAdvanced: {
+      de: "Dieses Gebirge im zentralen Hochland ist bekannt für seine farbenfrohen Rhyolith-Berge und aktiven Geothermalgebiete. Es bietet einen starken Kontrast zwischen Eis und Dampf.",
+      hu: "A központi felföldön található hegység színes riolit csúcsairól és aktív geotermikus területeiről ismert. Látványos kontrasztot alkot itt a jég és a feltörő gőz.",
+      ro: "Acest lanț muntos din podișul central este renumit pentru munții de riolit colorați și zonele geotermale active. Oferă un contrast puternic între gheață și abur.",
+      en: "Located in the central highlands, this mountain range is famous for its colorful rhyolite peaks and active geothermal areas. It offers a striking contrast of ice and steam.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Snækollur (1477 m)", "Besteht hauptsächlich aus hellem Rhyolith-Gestein", "Ehemals Standort einer Sommerskischule", "Teil eines Naturschutzgebiets seit 2020"],
+      hu: ["Legmagasabb csúcsa a Snækollur (1477 m)", "Főleg világos színű riolit kőzet építi fel", "Korábban nyári síiskola működött itt", "2020 óta természetvédelmi terület része"],
+      ro: ["Cel mai înalt vârf: Snækollur (1477 m)", "Format în principal din rocă de riolit deschisă", "Fost sediu al unei școli de schi de vară", "Parte a unei rezervații naturale din anul 2020"],
+      en: ["Highest peak: Snækollur (1477 m)", "Composed mainly of light-colored rhyolite rock", "Formerly the site of a summer ski school", "Part of a nature reserve since 2020"],
+    },
+    image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp",
+},  {
     id: "iceland-latrabjarg-relief-v2",
     type: "landmark",
-    name: { de: "Látrabjarg", hu: "Látrabjarg", ro: "Látrabjarg", en: "Látrabjarg" },
+    name: { de: "Látrabjarg", hu: "Látrabjarg", ro: "Látrabjarg", en: "Látrabjarg",
+image: "/poi-images/iceland-latrabjarg-relief-v2.webp"
+},
     coords: [-24.5311, 65.5019],
     coordinates: { lat: 65.5019, lng: -24.5311 },
     description: {
@@ -95,11 +157,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai vestic punct al Islandei", "Înălțime de până la 441 metri", "Găzduiește milioane de pufini", "Locul unei salvări maritime celebre în 1947"],
       en: ["Westernmost point of Iceland", "Up to 441 meters high", "Home to millions of Atlantic puffins", "Site of a famous 1947 shipwreck rescue"],
     },
-    imageHint: "Látrabjarg bird cliffs and puffins", image: "/poi-images/iceland-latrabjarg-relief-v2.webp"},
-  {
+imageHint: "Látrabjarg bird cliffs and puffins",
+    descriptionAdvanced: {
+      de: "Die massiven Vogelfelsen markieren den westlichsten Punkt Islands und beherbergen Millionen von Seevögeln. Die Klippen ragen steil aus dem Nordatlantik empor.",
+      hu: "Ezek a hatalmas madársziklák Izland legnyugatibb pontját jelölik, és tengeri madarak millióinak adnak otthont. A sziklafalak meredeken emelkednek ki az Atlanti-óceánból.",
+      ro: "Aceste stânci masive marchează cel mai vestic punct al Islandei și găzduiesc milioane de păsări marine. Falezele se ridică abrupt din Oceanul Atlantic de Nord.",
+      en: "These massive bird cliffs mark the westernmost point of Iceland and are home to millions of seabirds. The cliffs rise steeply from the North Atlantic Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Felswand: etwa 14 Kilometer", "Maximale Höhe: 441 Meter", "Westlichster Punkt der Insel und Europas", "Brutplatz für Papageitaucher und Alkenvögel"],
+      hu: ["A sziklafal hossza kb. 14 kilométer", "Maximális magassága eléri a 441 métert", "A sziget és egyben Európa legnyugatibb pontja", "Lunda- és alkafélék fontos fészkelőhelye"],
+      ro: ["Lungimea falezei: aproximativ 14 kilometri", "Înălțimea maximă: 441 metri", "Cel mai vestic punct al insulei și al Europei", "Loc de cuibărit pentru pufini și pinguini polari"],
+      en: ["Length of the cliff: about 14 kilometers", "Maximum height: 441 meters", "Westernmost point of Iceland and Europe", "Nesting site for puffins and razorbills"],
+    },
+    image: "/poi-images/iceland-latrabjarg-relief-v2.webp",
+},  {
     id: "iceland-almannagja-relief-v2",
     type: "landmark",
-    name: { de: "Almannagjá", hu: "Almannagjá", ro: "Almannagjá", en: "Almannagjá" },
+    name: { de: "Almannagjá", hu: "Almannagjá", ro: "Almannagjá", en: "Almannagjá",
+image: "/poi-images/iceland-almannagja-relief-v2.webp"
+},
     coords: [-21.1294, 64.2561],
     coordinates: { lat: 64.2561, lng: -21.1294 },
     description: {
@@ -114,11 +191,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Parte a Dorsalei Medio-Atlantice", "Locul parlamentului istoric", "Patrimoniu UNESCO din 2004", "Falie cu o lungime de 7,7 km"],
       en: ["Part of the Mid-Atlantic Ridge", "Site of the historic Althing parliament", "UNESCO World Heritage site since 2004", "7.7 km long fissure"],
     },
-    imageHint: "Almannagjá fissure in Þingvellir National Park", image: "/poi-images/iceland-almannagja-relief-v2.webp"},
-  {
+imageHint: "Almannagjá fissure in Þingvellir National Park",
+    descriptionAdvanced: {
+      de: "Diese markante Verwerfungsspalte markiert den östlichen Rand der nordamerikanischen Kontinentalplatte im Thingvellir-Nationalpark. Sie bildet ein natürliches Amphitheater.",
+      hu: "Ez a látványos repedés az észak-amerikai kőzetlemez keleti szélét jelzi a Thingvellir Nemzeti Parkban. A szurdokvölgy természetes amfiteátrumként is szolgált.",
+      ro: "Această falie proeminentă marchează marginea estică a plăcii tectonice nord-americane în Parcul Național Thingvellir. Formează un amfiteatru natural.",
+      en: "This prominent rift valley marks the eastern edge of the North American tectonic plate in Thingvellir National Park. It forms a unique natural amphitheater.",
+    },
+    factsAdvanced: {
+      de: ["Teil des UNESCO-Welterbes Thingvellir", "Markiert die Grenze der Kontinentalplatten", "Länge der Schlucht: etwa 7,7 Kilometer", "Ort der historischen Versammlungen (Althing)"],
+      hu: ["A Thingvellir UNESCO Világörökség része", "A kőzetlemezek közötti határvonalat jelzi", "A szurdok hossza kb. 7,7 kilométer", "A történelmi népgyűlések (Althing) helyszíne"],
+      ro: ["Parte a Patrimoniului Mondial UNESCO", "Marchează limita plăcilor tectonice", "Lungimea defileului: aproximativ 7,7 km", "Locul adunărilor istorice (Althing)"],
+      en: ["Part of the UNESCO World Heritage site", "Marks the boundary of tectonic plates", "Length of the gorge: about 7.7 kilometers", "Site of historical assemblies (Althing)"],
+    },
+    image: "/poi-images/iceland-almannagja-relief-v2.webp",
+},  {
     id: "iceland-baula-relief-v2",
     type: "peak",
-    name: { de: "Baula", hu: "Baula", ro: "Baula", en: "Baula" },
+    name: { de: "Baula", hu: "Baula", ro: "Baula", en: "Baula",
+image: "/poi-images/iceland-baula-relief-v2.webp"
+},
     coords: [-21.4367, 64.8517],
     coordinates: { lat: 64.8517, lng: -21.4367 },
     description: {
@@ -133,11 +225,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 934 metri", "Vechime de peste 3 milioane de ani", "O intruziune vulcanică tipică", "Pante foarte abrupte"],
       en: ["Elevation of 934 meters", "Over 3 million years old", "A typical volcanic intrusion", "Very steep slopes"],
     },
-    imageHint: "Baula conical rhyolite mountain", image: "/poi-images/iceland-baula-relief-v2.webp"},
-  {
+imageHint: "Baula conical rhyolite mountain",
+    descriptionAdvanced: {
+      de: "Der markante, kegelförmige Berg in Westisland besteht aus hellem Rhyolith-Gestein. Seine fast perfekte Symmetrie macht ihn zu einer bekannten Landmarke in der Region.",
+      hu: "Ez a feltűnő, kúp alakú hegy Nyugat-Izlandon világos színű riolit kőzetből épül fel. Szinte tökéletes szimmetriája miatt a régió egyik legismertebb tájékozódási pontja.",
+      ro: "Muntele conic proeminent din vestul Islandei este format din rocă de riolit deschisă la culoare. Simetria sa aproape perfectă îl face un reper cunoscut în regiune.",
+      en: "This striking, cone-shaped mountain in West Iceland is composed of light-colored rhyolite rock. Its nearly perfect symmetry makes it a well-known landmark in the region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 934 Meter", "Besteht aus Intrusionen von Rhyolith", "Alter: etwa 3,4 Millionen Jahre", "Steile Hänge erschweren den Aufstieg"],
+      hu: ["Magassága 934 méter", "Riolit intrúziók építik fel a hegyet", "Kora körülbelül 3,4 millió évre tehető", "Meredek oldalai megnehezítik a megmászását"],
+      ro: ["Altitudine: 934 metri", "Compus din intruziuni de riolit", "Vârsta: aproximativ 3,4 milioane de ani", "Pantele abrupte fac ascensiunea dificilă"],
+      en: ["Elevation: 934 meters", "Composed of rhyolite intrusions", "Age: approximately 3.4 million years", "Steep slopes make the ascent challenging"],
+    },
+    image: "/poi-images/iceland-baula-relief-v2.webp",
+},  {
     id: "iceland-thorsmork-relief-v2",
     type: "valley",
-    name: { de: "Þórsmörk", hu: "Þórsmörk", ro: "Þórsmörk", en: "Þórsmörk" },
+    name: { de: "Þórsmörk", hu: "Þórsmörk", ro: "Þórsmörk", en: "Þórsmörk",
+image: "/poi-images/iceland-thorsmork-relief-v2.webp"
+},
     coords: [-19.48, 63.68],
     coordinates: { lat: 63.68, lng: -19.48 },
     description: {
@@ -152,11 +259,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Poartă numele zeului Thor", "Închisă de trei ghețari masivi", "Cea mai populară zonă de drumeții", "Accesibilă doar cu vehicule 4x4"],
       en: ["Named after the god Thor", "Enclosed by major glaciers", "Most popular hiking area in Iceland", "Accessible only via 4x4 vehicles"],
     },
-    imageHint: "Þórsmörk valley landscape with glaciers", image: "/poi-images/iceland-thorsmork-relief-v2.webp"},
-  {
+imageHint: "Þórsmörk valley landscape with glaciers",
+    descriptionAdvanced: {
+      de: "Dieses bewaldete Tal liegt eingebettet zwischen drei Gletschern und bietet Schutz vor den harschen Winden des Hochlands. Es ist bekannt für seine Birkenwälder und Schluchten.",
+      hu: "A három gleccser közé ékelt erdős völgy védelmet nyújt a felföld zord szelei ellen. Nyírfaerdőiről, mély szurdokairól és kanyargó gleccserfolyóiról híres.",
+      ro: "Această vale împădurită este situată între trei ghețari și oferă adăpost împotriva vânturilor aspre din podiș. Este renumită pentru pădurile de mesteacăn.",
+      en: "Tucked between three glaciers, this forested valley is sheltered from the harsh highland winds. It is famous for its birch forests, deep gorges, and glacial rivers.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach dem germanischen Gott Thor", "Eingeschlossen von drei großen Gletschern", "Beliebter Endpunkt des Laugavegur-Treks", "Zahlreiche Wanderwege durch Birkenwälder"],
+      hu: ["Thor germán istenről kapta a nevét", "Három nagy gleccser veszi körül a területet", "A Laugavegur túraútvonal népszerű végpontja", "Számos túraútvonal szeli át nyírerdőit"],
+      ro: ["Numită după zeul germanic Thor", "Înconjurată de trei ghețari majori", "Punct terminus al traseului Laugavegur", "Numeroase poteci prin păduri de mesteacăn"],
+      en: ["Named after the Norse god Thor", "Enclosed by three major glaciers", "Popular terminus of the Laugavegur trail", "Numerous hiking paths through birch forests"],
+    },
+    image: "/poi-images/iceland-thorsmork-relief-v2.webp",
+},  {
     id: "iceland-fimmvorduhals-relief-v2",
     type: "landmark",
-    name: { de: "Fimmvörðuháls", hu: "Fimmvörðuháls", ro: "Fimmvörðuháls", en: "Fimmvörðuháls" },
+    name: { de: "Fimmvörðuháls", hu: "Fimmvörðuháls", ro: "Fimmvörðuháls", en: "Fimmvörðuháls",
+image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp"
+},
     coords: [-19.4333, 63.6333],
     coordinates: { lat: 63.6333, lng: -19.4333 },
     description: {
@@ -171,11 +293,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțimea trecătorii cca. 1100 m", "Traseu de drumeție celebru", "Două cratere noi: Magni și Móði", "Conectează Skógar cu Þórsmörk"],
       en: ["Pass elevation around 1100 meters", "Famous hiking route", "Two new craters: Magni and Móði", "Connects Skógar to Þórsmörk"],
     },
-    imageHint: "Fimmvörðuháls mountain pass hiking trail", image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp"},
-  {
+imageHint: "Fimmvörðuháls mountain pass hiking trail",
+    descriptionAdvanced: {
+      de: "Der Gebirgspass zwischen Eyjafjallajökull und Mýrdalsjökull war Schauplatz der ersten Phase der Eruptionen von 2010. Er ist Teil einer der bekanntesten Wanderrouten.",
+      hu: "Az Eyjafjallajökull és a Mýrdalsjökull közötti hágó a 2010-es vulkánkitörés első fázisának helyszíne volt. Itt találhatók a Magni és Móði nevű új kráterek.",
+      ro: "Pasul montan dintre Eyjafjallajökull și Mýrdalsjökull a fost locul primei faze a erupțiilor din 2010. Face parte dintr-un traseu de drumeție renumit.",
+      en: "The mountain pass between Eyjafjallajökull and Mýrdalsjökull was the site of the first phase of the 2010 eruptions. It features the new craters Magni and Móði.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Passes: etwa 1100 Meter", "Ort der Eruption im März 2010", "Verbindet Skógar mit dem Tal Þórsmörk", "Beherbergt die neuen Krater Magni und Móði"],
+      hu: ["A hágó magassága kb. 1100 méter", "A 2010. márciusi kitörés helyszíne", "Összeköti Skógart a Þórsmörk-völggyel", "Itt találhatók a Magni és Móði kráterek"],
+      ro: ["Înălțimea pasului: aproximativ 1100 m", "Locul erupției din martie 2010", "Conectează Skógar cu valea Þórsmörk", "Găzduiește noile cratere Magni și Móði"],
+      en: ["Pass elevation: about 1100 meters", "Site of the March 2010 eruption", "Connects Skógar with the Þórsmörk valley", "Features the new craters Magni and Móði"],
+    },
+    image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp",
+},  {
     id: "iceland-dimmuborgir-relief-v2",
     type: "landmark",
-    name: { de: "Dimmuborgir", hu: "Dimmuborgir", ro: "Dimmuborgir", en: "Dimmuborgir" },
+    name: { de: "Dimmuborgir", hu: "Dimmuborgir", ro: "Dimmuborgir", en: "Dimmuborgir",
+image: "/poi-images/iceland-dimmuborgir-relief-v2.webp"
+},
     coords: [-16.9128, 65.5911],
     coordinates: { lat: 65.5911, lng: -16.9128 },
     description: {
@@ -190,11 +327,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Format acum aproximativ 2300 de ani", "Kirkjan (Biserica) este cea mai faimoasă peșteră", "Casa simbolică a celor 13 Yule Lads", "Zonă protejată UNESCO"],
       en: ["Formed around 2300 years ago", "Kirkjan (The Church) is the most famous cave", "Mythical home of the 13 Yule Lads", "UNESCO protected area"],
     },
-    imageHint: "Dimmuborgir dark lava formations", image: "/poi-images/iceland-dimmuborgir-relief-v2.webp"},
-  {
+imageHint: "Dimmuborgir dark lava formations",
+    descriptionAdvanced: {
+      de: "Dieses Gebiet am Mývatn-See ist bekannt für seine bizarren Lavaformationen, die an eine verfallene Stadt oder Festung erinnern. Sie entstanden in einem ehemaligen Lavasee.",
+      hu: "A Mývatn-tónál fekvő terület bizarr lávaalakzatairól ismert, amelyek egy romos városra vagy várra emlékeztetnek. Egy egykori lávató kiszáradása során keletkeztek.",
+      ro: "Această zonă de lângă lacul Mývatn este cunoscută pentru formațiunile de lavă bizare care seamănă cu un oraș sau o cetate în ruină, formate într-un fost lac de lavă.",
+      en: "Located near Lake Mývatn, this area is famous for its bizarre lava formations that resemble a ruined city or fortress. They were formed in a former lava lake.",
+    },
+    factsAdvanced: {
+      de: ["Entstand vor etwa 2300 Jahren", "Name bedeutet \"Dunkle Burgen\"", "Besteht aus erstarrten Lavasäulen", "Beliebter Drehort für Fantasy-Filme"],
+      hu: ["Körülbelül 2300 évvel ezelőtt keletkezett", "A neve magyarul \"Sötét Várakat\" jelent", "Megszilárdult lávaoszlopok építik fel", "Népszerű forgatási helyszín fantasy filmekhez"],
+      ro: ["Format în urmă cu circa 2300 de ani", "Numele înseamnă „Castele Întunecate”", "Compus din coloane de lavă solidificată", "Loc de filmare popular pentru filme fantasy"],
+      en: ["Formed approximately 2300 years ago", "Name means \"Dark Castles\" in Icelandic", "Composed of solidified lava pillars", "Popular filming location for fantasy movies"],
+    },
+    image: "/poi-images/iceland-dimmuborgir-relief-v2.webp",
+},  {
     id: "iceland-vatnajokull-plateau-relief-v2",
     type: "mountain",
-    name: { de: "Vatnajökull", hu: "Vatnajökull", ro: "Vatnajökull", en: "Vatnajökull" },
+    name: { de: "Vatnajökull", hu: "Vatnajökull", ro: "Vatnajökull", en: "Vatnajökull",
+image: "/poi-images/iceland-vatnajokull-plateau-relief-v2.webp"
+},
     coords: [-17.3333, 64.4167],
     coordinates: { lat: 64.4167, lng: -17.3333 },
     description: {
@@ -209,11 +361,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai mare ghețar din Europa după volum", "Grosimea medie a gheții este de 400 m", "Adăpostește vulcanul Grímsvötn", "Parc Național din 2008"],
       en: ["Largest glacier in Europe by volume", "Average ice thickness is 400 meters", "Harbors the Grímsvötn volcano", "National Park status since 2008"],
     },
-    imageHint: "Vatnajökull glacier ice cap wide view", image: "/poi-images/iceland-vatnajokull-plateau-relief-v2.webp"},
-  {
+imageHint: "Vatnajökull glacier ice cap wide view",
+    descriptionAdvanced: {
+      de: "Das zentrale Plateau des größten Gletschers Europas bedeckt aktive Vulkane und riesige Eisfelder. Es ist das Herzstück des gleichnamigen Nationalparks und prägt das Klima.",
+      hu: "Európa legnagyobb gleccserének központi fennsíkja aktív vulkánokat és hatalmas jégmezőket takar. Ez a nemzeti park szíve, amely meghatározza Izland éghajlatát.",
+      ro: "Podișul central al celui mai mare ghețar din Europa acoperă vulcani activi și câmpuri de gheață vaste. Este inima parcului național cu același nume.",
+      en: "The central plateau of Europe's largest glacier covers active volcanoes and vast ice fields. It is the core of the national park and significantly influences the climate.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: etwa 7700 Quadratkilometer", "Maximale Eisdicke: etwa 950 Meter", "Beherbergt aktive Vulkane wie Grímsvötn", "Teil des UNESCO-Welterbes seit 2019"],
+      hu: ["Területe kb. 7700 négyzetkilométer", "Maximális jégvastagsága eléri a 950 métert", "Olyan aktív vulkánokat rejt, mint a Grímsvötn", "2019 óta az UNESCO Világörökség része"],
+      ro: ["Suprafață: circa 7700 kilometri pătrați", "Grosimea maximă a gheții: circa 950 m", "Adăpostește vulcani activi ca Grímsvötn", "Parte a Patrimoniului UNESCO din 2019"],
+      en: ["Area: approximately 7700 square km", "Maximum ice thickness: about 950 meters", "Covers active volcanoes like Grímsvötn", "Part of UNESCO World Heritage since 2019"],
+    },
+    image: "/poi-images/iceland-vatnajokull-plateau-relief-v2.webp",
+},  {
     id: "iceland-bardarbunga-relief-v2",
     type: "peak",
-    name: { de: "Bárðarbunga", hu: "Bárðarbunga", ro: "Bárðarbunga", en: "Bárðarbunga" },
+    name: { de: "Bárðarbunga", hu: "Bárðarbunga", ro: "Bárðarbunga", en: "Bárðarbunga",
+image: "/poi-images/iceland-bardarbunga-relief-v2.webp"
+},
     coords: [-17.528, 64.641],
     coordinates: { lat: 64.641, lng: -17.528 },
     description: {
@@ -228,11 +395,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 2009 metri", "Caldera are o adâncime de 700 m", "Ultima erupție majoră în 2014-2015", "Parte dintr-un sistem vulcanic de 200 km"],
       en: ["Elevation of 2009 meters", "Caldera is 700 meters deep", "Last major eruption in 2014-2015", "Part of a 200 km long volcanic system"],
     },
-    imageHint: "Bárðarbunga volcano under glacier", image: "/poi-images/iceland-bardarbunga-relief-v2.webp"},
-  {
+imageHint: "Bárðarbunga volcano under glacier",
+    descriptionAdvanced: {
+      de: "Dieser massive Stratovulkan liegt unter der nordwestlichen Kappe des Vatnajökull. Er ist eines der aktivsten Vulkansysteme Islands mit einer riesigen, eisgefüllten Caldera.",
+      hu: "Ez a hatalmas sztratovulkán a Vatnajökull északnyugati részén, a jég alatt található. Izland egyik legaktívabb vulkánrendszere, hatalmas, jéggel telt kalderával.",
+      ro: "Acest stratovulcan masiv este situat sub calota nord-vestică a ghețarului Vatnajökull. Este unul dintre cele mai active sisteme vulcanice din Islanda.",
+      en: "This massive stratovolcano is located under the northwestern cap of Vatnajökull. It is one of Iceland's most active volcanic systems with a giant, ice-filled caldera.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Randes: 2009 Meter", "Zweitvorderster Berg Islands", "Eruption im Holuhraun-Feld (2014-2015)", "Caldera-Tiefe: bis zu 700 Meter"],
+      hu: ["A perem magassága 2009 méter", "Izland második legmagasabb hegye", "Holuhraun-mezei kitörés (2014-2015)", "A kaldera mélysége eléri a 700 métert"],
+      ro: ["Înălțimea marginii: 2009 metri", "Al doilea cel mai înalt munte din Islanda", "Erupția din câmpul Holuhraun (2014-2015)", "Adâncimea calderei: până la 700 m"],
+      en: ["Rim elevation: 2009 meters", "Second highest mountain in Iceland", "Holuhraun field eruption (2014-2015)", "Caldera depth: up to 700 meters"],
+    },
+    image: "/poi-images/iceland-bardarbunga-relief-v2.webp",
+},  {
     id: "iceland-oraefajokull-relief-v2",
     type: "mountain",
-    name: { de: "Öræfajökull", hu: "Öræfajökull", ro: "Öræfajökull", en: "Öræfajökull" },
+    name: { de: "Öræfajökull", hu: "Öræfajökull", ro: "Öræfajökull", en: "Öræfajökull",
+image: "/poi-images/iceland-oraefajokull-relief-v2.webp"
+},
     coords: [-16.65, 64.0],
     coordinates: { lat: 64.0, lng: -16.65 },
     description: {
@@ -247,11 +429,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai mare vulcan activ din țară", "Erupție masivă în anul 1362", "Numele înseamnă ghețarul pustiului", "Diametrul bazei este de cca. 20 km"],
       en: ["Largest erupting volcano in the country", "Massive eruption occurred in 1362", "Name translates to Wasteland Glacier", "Base diameter is approximately 20 km"],
     },
-    imageHint: "Öræfajökull glacier volcano massif", image: "/poi-images/iceland-oraefajokull-relief-v2.webp"},
-  {
+imageHint: "Öræfajökull glacier volcano massif",
+    descriptionAdvanced: {
+      de: "Der größte aktive Vulkan Islands ist mit Eis bedeckt und beherbergt den höchsten Gipfel des Landes. Historische Eruptionen haben die umliegende Region stark geprägt.",
+      hu: "Izland legnagyobb aktív vulkánját jég borítja, és itt található az ország legmagasabb csúcsa is. A történelmi kitörések alapjaiban formálták át a környéket.",
+      ro: "Cel mai mare vulcan activ din Islanda este acoperit de gheață și găzduiește cel mai înalt vârf al țării. Erupțiile istorice au marcat profund regiunea.",
+      en: "Iceland's largest active volcano is covered in ice and home to the country's highest peak. Historical eruptions have significantly reshaped the surrounding region.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Hvannadalshnúkur", "Massive Eruption im Jahr 1362", "Zerstörte die Region Litla-Hérað", "Zweitgrößter aktiver Vulkan Europas"],
+      hu: ["Legmagasabb pontja a Hvannadalshnúkur", "Hatalmas kitörés történt 1362-ben", "Elpusztította a Litla-Hérað régiót", "Európa második legnagyobb aktív vulkánja"],
+      ro: ["Punctul maxim: Hvannadalshnúkur", "Erupție masivă în anul 1362", "A distrus regiunea Litla-Hérað", "Al doilea cel mai mare vulcan activ din Europa"],
+      en: ["Highest point: Hvannadalshnúkur", "Massive eruption occurred in 1362", "Destroyed the Litla-Hérað region", "Europe's second largest active volcano"],
+    },
+    image: "/poi-images/iceland-oraefajokull-relief-v2.webp",
+},  {
     id: "iceland-hofsjokull-relief-v2",
     type: "mountain",
-    name: { de: "Hofsjökull", hu: "Hofsjökull", ro: "Hofsjökull", en: "Hofsjökull" },
+    name: { de: "Hofsjökull", hu: "Hofsjökull", ro: "Hofsjökull", en: "Hofsjökull",
+image: "/poi-images/iceland-hofsjokull-relief-v2.webp"
+},
     coords: [-18.8167, 64.8167],
     coordinates: { lat: 64.8167, lng: -18.8167 },
     description: {
@@ -266,11 +463,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Suprafață de cca. 925 km²", "Punctul maxim la 1765 metri", "Sursa mai multor râuri mari", "Formă aproape circulară"],
       en: ["Area of approximately 925 sq km", "Highest point is 1765 meters", "Source of several major rivers", "Almost circular in shape"],
     },
-    imageHint: "Hofsjökull glacier aerial view", image: "/poi-images/iceland-hofsjokull-relief-v2.webp"},
-  {
+imageHint: "Hofsjökull glacier aerial view",
+    descriptionAdvanced: {
+      de: "Dieser fast kreisförmige Gletscher im zentralen Hochland bedeckt einen massiven Schildvulkan mit einer Caldera. Er speist mehrere der größten Flüsse des Landes.",
+      hu: "Ez a majdnem kör alakú gleccser a központi felföldön egy hatalmas pajzsvulkánt és annak kalderáját takarja. Innen ered Izland több nagy folyója is.",
+      ro: "Acest ghețar aproape circular din podișul central acoperă un vulcan scut masiv cu o calderă. Alimentează câteva dintre cele mai mari râuri ale țării.",
+      en: "This nearly circular glacier in the central highlands covers a massive shield volcano with a caldera. It feeds several of Iceland's largest rivers.",
+    },
+    factsAdvanced: {
+      de: ["Drittgrößter Gletscher Islands", "Fläche: etwa 925 Quadratkilometer", "Quelle des Flusses Þjórsá", "Beherbergt eine subglaziale Caldera"],
+      hu: ["Izland harmadik legnagyobb gleccsere", "Területe kb. 925 négyzetkilométer", "A Þjórsá folyó egyik forrásvidéke", "A jég alatt egy vulkáni kaldera található"],
+      ro: ["Al treilea ghețar ca mărime din Islanda", "Suprafață: circa 925 kilometri pătrați", "Sursa râului Þjórsá", "Adăpostește o calderă subglaciară"],
+      en: ["Third largest glacier in Iceland", "Area: approximately 925 square km", "Source of the Þjórsá river", "Contains a subglacial volcanic caldera"],
+    },
+    image: "/poi-images/iceland-hofsjokull-relief-v2.webp",
+},  {
     id: "iceland-langjokull-relief-v2",
     type: "mountain",
-    name: { de: "Langjökull", hu: "Langjökull", ro: "Langjökull", en: "Langjökull" },
+    name: { de: "Langjökull", hu: "Langjökull", ro: "Langjökull", en: "Langjökull",
+image: "/poi-images/iceland-langjokull-relief-v2.webp"
+},
     coords: [-20.0, 64.75],
     coordinates: { lat: 64.75, lng: -20.0 },
     description: {
@@ -285,11 +497,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Suprafață de aproximativ 950 km²", "Punctul maxim are 1450 metri", "Alimentează cascada Gullfoss", "Adăpostește două sisteme vulcanice"],
       en: ["Area of approximately 950 sq km", "Highest point is 1450 meters", "Feeds the Gullfoss waterfall", "Contains two volcanic systems"],
     },
-    imageHint: "Langjökull glacier snowmobile tour", image: "/poi-images/iceland-langjokull-relief-v2.webp"},
-  {
+imageHint: "Langjökull glacier snowmobile tour",
+    descriptionAdvanced: {
+      de: "Der lange Gletscher liegt im Westen des Hochlands und ist für seine weiten Eiskappen und künstlichen Eistunnel bekannt. Er liegt über zwei aktiven Vulkansystemen.",
+      hu: "A nyugati felföldön elterülő gleccser hatalmas jégsapkájáról és mesterséges jégalagútjáról ismert. A jég alatt két aktív vulkáni rendszer is meghúzódik.",
+      ro: "Ghețarul lung situat în vestul podișului este cunoscut pentru calotele sale de gheață vaste și tunelurile de gheață artificiale. Acoperă două sisteme vulcanice.",
+      en: "This long glacier in the western highlands is known for its vast ice caps and man-made ice tunnels. it sits atop two active volcanic systems.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößter Gletscher des Landes", "Höchster Punkt: 1450 Meter", "Heimat des längsten künstlichen Eistunnels", "Speist das Geothermalgebiet von Haukadalur"],
+      hu: ["Az ország második legnagyobb gleccsere", "Legmagasabb pontja 1450 méter", "Itt található a leghosszabb jégalagút", "A Haukadalur geotermikus terület vízbázisa"],
+      ro: ["Al doilea ghețar ca mărime din țară", "Punctul maxim: 1450 metri", "Găzduiește cel mai lung tunel de gheață", "Alimentează zona geotermală Haukadalur"],
+      en: ["Second largest glacier in the country", "Highest point: 1450 meters", "Home to the longest man-made ice tunnel", "Feeds the Haukadalur geothermal area"],
+    },
+    image: "/poi-images/iceland-langjokull-relief-v2.webp",
+},  {
     id: "iceland-myrdalsjokull-relief-v2",
     type: "mountain",
-    name: { de: "Mýrdalsjökull", hu: "Mýrdalsjökull", ro: "Mýrdalsjökull", en: "Mýrdalsjökull" },
+    name: { de: "Mýrdalsjökull", hu: "Mýrdalsjökull", ro: "Mýrdalsjökull", en: "Mýrdalsjökull",
+image: "/poi-images/iceland-myrdalsjokull-relief-v2.webp"
+},
     coords: [-19.1, 63.6667],
     coordinates: { lat: 63.6667, lng: -19.1 },
     description: {
@@ -304,11 +531,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Al patrulea ghețar din Islanda", "Suprafață de cca. 595 km²", "Cea mai ploioasă regiune din țară", "Limba glaciară Sólheimajökull este celebră"],
       en: ["Fourth-largest glacier in Iceland", "Area of about 595 sq km", "Wettest region in Iceland", "Sólheimajökull outlet is popular for tours"],
     },
-    imageHint: "Mýrdalsjökull glacier edge and black sand", image: "/poi-images/iceland-myrdalsjokull-relief-v2.webp"},
-  {
+imageHint: "Mýrdalsjökull glacier edge and black sand",
+    descriptionAdvanced: {
+      de: "Dieser südliche Gletscher bedeckt den mächtigen und gefürchteten Vulkan Katla. Die Eiskappe ist oft von Ascheschichten früherer Eruptionen durchzogen.",
+      hu: "Ez a déli gleccser a hatalmas és félelmetes Katla-vulkánt takarja. A jégsapkát gyakran korábbi kitörésekből származó hamurétegek sötétítik meg.",
+      ro: "Acest ghețar sudic acoperă puternicul și temutul vulcan Katla. Calota de gheață este adesea marcată de straturi de cenușă de la erupții anterioare.",
+      en: "This southern glacier covers the powerful and feared Katla volcano. The ice cap is often streaked with ash layers from historical eruptions.",
+    },
+    factsAdvanced: {
+      de: ["Viertgrößter Gletscher Islands", "Bedeckt den aktiven Vulkan Katla", "Maximale Eisdicke: 750 Meter", "Häufige Schauplätze von Gletscherläufen"],
+      hu: ["Izland negyedik legnagyobb gleccsere", "Az aktív Katla-vulkánt borítja", "Maximális jégvastagsága 750 méter", "Gyakoriak itt a gleccseráradások (jökulhlaup)"],
+      ro: ["Al patrulea ghețar ca mărime din Islanda", "Acoperă vulcanul activ Katla", "Grosimea maximă a gheții: 750 metri", "Locul unor inundații glaciare frecvente"],
+      en: ["Fourth largest glacier in Iceland", "Covers the active Katla volcano", "Maximum ice thickness: 750 meters", "Frequent site of glacial floods (jökulhlaup)"],
+    },
+    image: "/poi-images/iceland-myrdalsjokull-relief-v2.webp",
+},  {
     id: "iceland-eyjafjallajokull-relief-v2",
     type: "mountain",
-    name: { de: "Eyjafjallajökull", hu: "Eyjafjallajökull", ro: "Eyjafjallajökull", en: "Eyjafjallajökull" },
+    name: { de: "Eyjafjallajökull", hu: "Eyjafjallajökull", ro: "Eyjafjallajökull", en: "Eyjafjallajökull",
+image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp"
+},
     coords: [-19.6167, 63.6333],
     coordinates: { lat: 63.6333, lng: -19.6167 },
     description: {
@@ -323,11 +565,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 1651 de metri", "Numele înseamnă Ghețarul Munților Insulă", "Erupția din 2010 a durat săptămâni", "Unul dintre sistemele vulcanice mai vechi"],
       en: ["Elevation of 1651 meters", "Name means Island-Mountain Glacier", "2010 eruption lasted for weeks", "One of the older volcanic systems"],
     },
-    imageHint: "Eyjafjallajökull volcano eruption clouds", image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp"},
-  {
+imageHint: "Eyjafjallajökull volcano eruption clouds",
+    descriptionAdvanced: {
+      de: "Der durch die Eruption von 2010 weltberühmt gewordene Gletscher bedeckt einen Stratovulkan an der Südküste. Er prägt die Landschaft mit markanten Gipfeln.",
+      hu: "A 2010-es kitörése révén világhírűvé vált gleccser egy sztratovulkánt borít a déli parton. Kiemelkedő csúcsaival és jégeséseivel uralja a tájat.",
+      ro: "Devenit celebru la nivel mondial după erupția din 2010, acest ghețar acoperă un stratovulcan de pe coasta de sud. Domină peisajul cu vârfurile sale.",
+      en: "World-famous for its 2010 eruption, this glacier covers a stratovolcano on the south coast. It shapes the landscape with its prominent peaks and icefalls.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe: 1651 Meter", "Eruption 2010 störte den Flugverkehr", "Bedeckt eine Fläche von 100 km²", "Nachbar des größeren Mýrdalsjökull"],
+      hu: ["A csúcs magassága 1651 méter", "A 2010-es kitörés leállította a légiforgalmat", "Területe körülbelül 100 km²", "A nagyobb Mýrdalsjökull szomszédja"],
+      ro: ["Înălțimea vârfului: 1651 metri", "Erupția din 2010 a oprit traficul aerian", "Acoperă o suprafață de 100 km²", "Vecin cu ghețarul mai mare Mýrdalsjökull"],
+      en: ["Summit elevation: 1651 meters", "The 2010 eruption halted air traffic", "Covers an area of 100 square km", "Neighbor to the larger Mýrdalsjökull"],
+    },
+    image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp",
+},  {
     id: "iceland-drangajokull-relief-v2",
     type: "mountain",
-    name: { de: "Drangajökull", hu: "Drangajökull", ro: "Drangajökull", en: "Drangajökull" },
+    name: { de: "Drangajökull", hu: "Drangajökull", ro: "Drangajökull", en: "Drangajökull",
+image: "/poi-images/iceland-drangajokull-relief-v2.webp"
+},
     coords: [-22.25, 66.15],
     coordinates: { lat: 66.15, lng: -22.25 },
     description: {
@@ -342,11 +599,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punctul maxim la 925 metri", "Singurul ghețar din Westfjords", "Suprafață de cca. 160 km²", "Cea mai rece climă din Islanda"],
       en: ["Highest point is 925 meters", "Only glacier in the Westfjords", "Area of approximately 160 sq km", "Coldest climate region in Iceland"],
     },
-    imageHint: "Drangajökull glacier landscape Westfjords", image: "/poi-images/iceland-drangajokull-relief-v2.webp"},
-  {
+imageHint: "Drangajökull glacier landscape Westfjords",
+    descriptionAdvanced: {
+      de: "Der nördlichste Gletscher Islands liegt in den Westfjorden und ist der einzige, dessen Fläche in den letzten Jahren nicht signifikant geschrumpft ist.",
+      hu: "Izland legészakibb gleccsere a Nyugati-fjordok régiójában található. Ez az egyetlen olyan gleccser, amelynek területe nem csökkent jelentősen az utóbbi években.",
+      ro: "Cel mai nordic ghețar din Islanda este situat în Westfjords și este singurul a cărui suprafață nu s-a redus semnificativ în ultimii ani.",
+      en: "The northernmost glacier in Iceland is located in the Westfjords. It is the only glacier in the country that has not shrunk significantly in recent years.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: etwa 160 Quadratkilometer", "Liegt unter 1000 Metern Höhe", "Nördlichster Gletscher des Landes", "Einzige nicht schrumpfende Eiskappe"],
+      hu: ["Területe kb. 160 négyzetkilométer", "1000 méteres magasság alatt fekszik", "Az ország legészakibb gleccsere", "Az egyetlen nem zsugorodó jégsapka"],
+      ro: ["Suprafață: circa 160 kilometri pătrați", "Situat sub altitudinea de 1000 de metri", "Cel mai nordic ghețar al țării", "Singura calotă care nu se micșorează"],
+      en: ["Area: approximately 160 square km", "Located below 1000 meters elevation", "Northernmost glacier in the country", "The only ice cap not currently shrinking"],
+    },
+    image: "/poi-images/iceland-drangajokull-relief-v2.webp",
+},  {
     id: "iceland-burfell-relief-v2",
     type: "peak",
-    name: { de: "Búrfell", hu: "Búrfell", ro: "Búrfell", en: "Búrfell" },
+    name: { de: "Búrfell", hu: "Búrfell", ro: "Búrfell", en: "Búrfell",
+image: "/poi-images/iceland-burfell-relief-v2.webp"
+},
     coords: [-19.8333, 64.0833],
     coordinates: { lat: 64.0833, lng: -19.8333 },
     description: {
@@ -361,12 +633,27 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 669 metri", "Munte de bazalt cu vârf plat", "Locul unui parc eolian major", "Oferă vedere spre vulcanul Hekla"],
       en: ["Elevation of 669 meters", "Basaltic table mountain", "Site of a major wind farm", "Offers a clear view of Hekla volcano"],
     },
-    imageHint: "Búrfell table mountain in south Iceland", image: "/poi-images/iceland-burfell-relief-v2.webp"}
-,
+imageHint: "Búrfell table mountain in south Iceland",
+    descriptionAdvanced: {
+      de: "Dieser markante Tafelberg im Tal der Þjórsá ist eine bekannte Landmarke. An seinem Fuß befindet sich eines der wichtigsten Wasserkraftwerke Islands.",
+      hu: "Ez a Þjórsá-völgyben található jellegzetes táblahegy fontos tájékozódási pont. Lábánál épült fel Izland egyik legfontosabb vízerőműve.",
+      ro: "Acest munte plat distinctiv din valea Þjórsá este un punct de reper cunoscut. La baza sa se află una dintre cele mai importante hidrocentrale din Islanda.",
+      en: "This distinctive table mountain in the Þjórsá valley is a well-known landmark. One of Iceland's most important hydroelectric power plants is located at its base.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 669 Meter", "Besteht aus Basalt und Tuffstein", "Standort eines großen Kraftwerks", "Bietet Blick auf den Vulkan Hekla"],
+      hu: ["Magassága 669 méter", "Bazalt és tufa építi fel", "Egy nagy vízerőmű helyszíne", "Kilátás nyílik innen a Hekla-vulkánra"],
+      ro: ["Altitudine: 669 metri", "Format din bazalt și tuf", "Locația unei hidrocentrale mari", "Oferă o vedere spre vulcanul Hekla"],
+      en: ["Elevation: 669 meters", "Composed of basalt and tuff", "Site of a major hydroelectric plant", "Offers views of the Hekla volcano"],
+    },
+    image: "/poi-images/iceland-burfell-relief-v2.webp",
+},
   {
     id: "iceland-skjaldbreidur-relief-v2",
     type: "mountain",
-    name: { de: "Skjaldbreiður", hu: "Skjaldbreiður", ro: "Skjaldbreiður", en: "Skjaldbreiður" },
+    name: { de: "Skjaldbreiður", hu: "Skjaldbreiður", ro: "Skjaldbreiður", en: "Skjaldbreiður",
+image: "/poi-images/iceland-skjaldbreidur-relief-v2.webp"
+},
     coordinates: { lat: 64.408, lng: -20.751 },
     description: {
       de: "Ein markanter Schildvulkan nördlich des Thingvellir-Nationalparks. Er entstand vor etwa 9.000 Jahren durch eine einzige, langanhaltende Eruption.",
@@ -381,11 +668,25 @@ export const icelandReliefV2: POI[] = [
       en: ["Elevation: 1,060 meters", "Base diameter: 10 km", "Classic shield volcano", "Lava flows formed the Thingvellir basin"],
     },
     imageHint: "Skjaldbreidur shield volcano landscape",
+    descriptionAdvanced: {
+      de: "Der Prototyp eines Schildvulkans besticht durch seine sanft ansteigenden Flanken und seine fast perfekte Symmetrie. Er prägte die Landschaft um Thingvellir.",
+      hu: "A pajzsvulkánok prototípusa, amely enyhén emelkedő oldalaival és szinte tökéletes szimmetriájával tűnik ki. Meghatározta a Thingvellir környéki tájat.",
+      ro: "Prototipul unui vulcan scut impresionează prin flancurile sale ușor înclinate și simetria aproape perfectă. A modelat peisajul din jurul Thingvellir.",
+      en: "The prototype of a shield volcano, it is noted for its gently sloping flanks and nearly perfect symmetry. It shaped the landscape around Thingvellir.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1060 Meter", "Entstand vor etwa 9000 Jahren", "Durchmesser der Basis: etwa 10 km", "Lavaströme bildeten das Thingvellir-Becken"],
+      hu: ["Magassága 1060 méter", "Kb. 9000 évvel ezelőtt keletkezett", "Az alap átmérője kb. 10 km", "Lávája hozta létre a Thingvellir-medencét"],
+      ro: ["Altitudine: 1060 metri", "Format în urmă cu circa 9000 de ani", "Diametrul bazei: aproximativ 10 km", "Lava sa a format bazinul Thingvellir"],
+      en: ["Elevation: 1060 meters", "Formed approximately 9000 years ago", "Base diameter: about 10 kilometers", "Lava flows created the Thingvellir basin"],
+    },
   },
   {
     id: "iceland-blafjoll-relief-v2",
     type: "mountain",
-    name: { de: "Bláfjöll", hu: "Bláfjöll", ro: "Bláfjöll", en: "Bláfjöll" },
+    name: { de: "Bláfjöll", hu: "Bláfjöll", ro: "Bláfjöll", en: "Bláfjöll",
+image: "/poi-images/iceland-blafjoll-relief-v2.webp"
+},
     coordinates: { lat: 63.98, lng: -21.65 },
     description: {
       de: "Ein vulkanischer Gebirgszug südöstlich von Reykjavík. Die 'Blauen Berge' entstanden durch subglaziale Eruptionen während der letzten Eiszeit.",
@@ -399,11 +700,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punct maxim: 702 metri", "Zonă populară de schi", "Compus din vulcani platou", "Lângă peștera de lavă Leidarendi"],
       en: ["Highest point: 702 meters", "Popular Icelandic ski resort", "Composed of table mountains", "Near Leidarendi lava tube"],
     },
-    imageHint: "Blafjoll mountains winter landscape", image: "/poi-images/iceland-blafjoll-relief-v2.webp"},
-  {
+imageHint: "Blafjoll mountains winter landscape",
+    descriptionAdvanced: {
+      de: "Dieses Lavagebirge in der Nähe von Reykjavík ist das wichtigste Skigebiet des Landes. Es ist geprägt von Kratern, Lavaströmen und zahlreichen Höhlen.",
+      hu: "A Reykjavík közelében fekvő lávahegység az ország legfontosabb síközpontja. A tájat kráterek, lávamezők és számos barlang határozza meg.",
+      ro: "Acest masiv de lavă de lângă Reykjavík este cea mai importantă zonă de schi a țării. Este marcat de cratere, fluxuri de lavă și numeroase peșteri.",
+      en: "This lava mountain range near Reykjavík is the country's primary ski destination. It is characterized by craters, lava flows, and numerous caves.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 702 Meter", "Wichtigstes Skigebiet bei Reykjavík", "Enthält die Höhle Leidarendi", "Vulkanisch aktives Gebiet"],
+      hu: ["Legmagasabb pontja 702 méter", "Reykjavík fő síelési helyszíne", "Itt található a Leidarendi-barlang", "Vulkánilag aktív terület"],
+      ro: ["Punctul maxim: 702 metri", "Principala zonă de schi lângă Reykjavík", "Conține peștera Leidarendi", "Zonă vulcanică activă"],
+      en: ["Highest point: 702 meters", "Primary ski area near Reykjavík", "Contains the Leidarendi cave", "Volcanically active area"],
+    },
+    image: "/poi-images/iceland-blafjoll-relief-v2.webp",
+},  {
     id: "iceland-eiriksjokull-relief-v2",
     type: "peak",
-    name: { de: "Eiríksjökull", hu: "Eiríksjökull", ro: "Eiríksjökull", en: "Eiríksjökull" },
+    name: { de: "Eiríksjökull", hu: "Eiríksjökull", ro: "Eiríksjökull", en: "Eiríksjökull",
+image: "/poi-images/iceland-eiriksjokull-relief-v2.webp"
+},
     coordinates: { lat: 64.77, lng: -20.4 },
     description: {
       de: "Der größte Tafelvulkan Islands im Westen des Hochlands. Sein markantes, flaches Plateau ist von einer Eiskappe bedeckt.",
@@ -417,11 +733,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 1.675 metri", "Suprafață: 40 km²", "Domină câmpul de lavă Hallmundarhraun", "Format sub un ghețar"],
       en: ["Elevation: 1,675 meters", "Area: 40 square kilometers", "Towers over Hallmundarhraun", "Formed during subglacial eruptions"],
     },
-    imageHint: "Eiriksjokull table mountain Iceland", image: "/poi-images/iceland-eiriksjokull-relief-v2.webp"},
-  {
+imageHint: "Eiriksjokull table mountain Iceland",
+    descriptionAdvanced: {
+      de: "Die größte Tuya Islands überragt das umliegende Lavagebiet Hallmundarhraun. Sie besitzt eine markante Eiskappe auf ihrem flachen Gipfelplateau.",
+      hu: "Izland legnagyobb táblahegye (tuya) magasodik a Hallmundarhraun lávamező fölé. Lapos csúcsfennsíkját jellegzetes jégsapka borítja.",
+      ro: "Cea mai mare tuia din Islanda domină câmpul de lavă Hallmundarhraun. Are o calotă de gheață distinctivă pe platoul său somital plat.",
+      en: "The largest tuya in Iceland towers over the Hallmundarhraun lava field. It features a prominent ice cap on its flat summit plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1675 Meter", "Größte Tuya (Tafelvulkan) Islands", "Entstand durch subglaziale Eruptionen", "Bedeckt von einem kleinen Gletscher"],
+      hu: ["Magassága 1675 méter", "Izland legnagyobb táblahegye", "Gleccser alatti kitörések formálták", "Egy kisebb gleccser borítja a tetejét"],
+      ro: ["Altitudine: 1675 metri", "Cea mai mare tuia din Islanda", "Formată prin erupții subglaciare", "Acoperit de un mic ghețar"],
+      en: ["Elevation: 1675 meters", "Largest tuya (table volcano) in Iceland", "Formed by subglacial eruptions", "Capped by a small glacier"],
+    },
+    image: "/poi-images/iceland-eiriksjokull-relief-v2.webp",
+},  {
     id: "iceland-torfajokull-relief-v2",
     type: "mountain",
-    name: { de: "Torfajökull-Massiv", hu: "Torfajökull-masszívum", ro: "Masivul Torfajökull", en: "Torfajökull Massif" },
+    name: { de: "Torfajökull-Massiv", hu: "Torfajökull-masszívum", ro: "Masivul Torfajökull", en: "Torfajökull Massif",
+image: "/poi-images/iceland-torfajokull-relief-v2.webp"
+},
     coordinates: { lat: 63.92, lng: -19.17 },
     description: {
       de: "Ein riesiges vulkanisches Gebiet im südlichen Hochland, bekannt für seine farbenfrohen Rhyolith-Berge und intensive geothermische Aktivität.",
@@ -435,11 +766,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: 1.190 metri", "Cea mai mare zonă de riolit", "Include Landmannalaugar", "Conține o calderă de 12x18 km"],
       en: ["Highest peak: 1.190 meters", "Largest rhyolite area in Iceland", "Encompasses Landmannalaugar", "Contains a 12x18 km caldera"],
     },
-    imageHint: "Torfajokull rhyolite mountains landscape", image: "/poi-images/iceland-torfajokull-relief-v2.webp"},
-  {
+imageHint: "Torfajokull rhyolite mountains landscape",
+    descriptionAdvanced: {
+      de: "Dieses Rhyolith-Massiv im südlichen Hochland beherbergt das größte oberflächliche Geothermalgebiet Islands. Die Berge sind für ihre Farbenpracht bekannt.",
+      hu: "A déli felföldön található riolit masszívum Izland legnagyobb felszíni geotermikus területének ad otthont. Hegyei rendkívüli színvilágukról híresek.",
+      ro: "Acest masiv de riolit din podișul sudic găzduiește cea mai mare zonă geotermală de suprafață din Islanda. Munții sunt renumiți pentru culorile lor.",
+      en: "This rhyolite massif in the southern highlands hosts Iceland's largest surface geothermal area. Its mountains are famous for their vivid colors.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 1190 Meter", "Größtes Geothermalgebiet des Landes", "Besteht hauptsächlich aus Rhyolith", "Zentrum saurer vulkanischer Aktivität"],
+      hu: ["Legmagasabb pontja 1190 méter", "Az ország legnagyobb geotermikus mezője", "Főleg színes riolit építi fel", "A savas vulkáni tevékenység központja"],
+      ro: ["Punctul maxim: 1190 metri", "Cea mai mare zonă geotermală din țară", "Format în principal din riolit", "Centru de activitate vulcanică acidă"],
+      en: ["Highest point: 1190 meters", "Largest geothermal area in the country", "Composed mainly of rhyolite", "Center of acid volcanic activity"],
+    },
+    image: "/poi-images/iceland-torfajokull-relief-v2.webp",
+},  {
     id: "iceland-kverkfjoll-relief-v2",
     type: "mountain",
-    name: { de: "Kverkfjöll", hu: "Kverkfjöll", ro: "Kverkfjöll", en: "Kverkfjöll" },
+    name: { de: "Kverkfjöll", hu: "Kverkfjöll", ro: "Kverkfjöll", en: "Kverkfjöll",
+image: "/poi-images/iceland-kverkfjoll-relief-v2.webp"
+},
     coordinates: { lat: 64.65, lng: -16.7 },
     description: {
       de: "Ein mächtiger Gebirgszug am Nordrand des Vatnajökull. Er beherbergt eines der aktivsten Hochtemperaturgebiete Islands mit spektakulären Eishöhlen.",
@@ -453,11 +799,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 1.920 metri", "Sistem vulcanic activ", "Cunoscut pentru izvoare calde sub gheață", "Adiacent limbii glaciare Kverkjökull"],
       en: ["Elevation: 1,920 meters", "Active volcanic system", "Famous for hot springs under ice", "Bordered by Kverkjökull glacier"],
     },
-    imageHint: "Kverkfjoll mountains and ice caves", image: "/poi-images/iceland-kverkfjoll-relief-v2.webp"},
-  {
+imageHint: "Kverkfjoll mountains and ice caves",
+    descriptionAdvanced: {
+      de: "An der Nordgrenze des Vatnajökull gelegen, ist dieses Gebirge bekannt für seine massiven Eishöhlen, die durch geothermische Wärme unter dem Gletscher entstehen.",
+      hu: "A Vatnajökull északi peremén fekvő hegység a hatalmas jégbarlangjairól ismert, amelyeket a gleccser alatti geotermikus hő formál folyamatosan.",
+      ro: "Situat la marginea nordică a ghețarului Vatnajökull, acest masiv este cunoscut pentru peșterile de gheață formate de căldura geotermală subglaciară.",
+      en: "Located at the northern edge of Vatnajökull, this mountain range is famous for its massive ice caves formed by subglacial geothermal heat.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 1920 Meter", "Bekannt für riesige Eishöhlen", "Liegt am Rande des Vatnajökull", "Aktives geothermales System"],
+      hu: ["Legmagasabb csúcsa 1920 méter", "Hatalmas jégbarlangjairól híres", "A Vatnajökull peremén található", "Aktív geotermikus rendszer jellemzi"],
+      ro: ["Cel mai înalt vârf: 1920 metri", "Renumit pentru peșteri de gheață", "Situat la marginea Vatnajökull", "Sistem geotermal activ sub gheață"],
+      en: ["Highest peak: 1920 meters", "Famous for giant ice caves", "Located at the edge of Vatnajökull", "Active subglacial geothermal system"],
+    },
+    image: "/poi-images/iceland-kverkfjoll-relief-v2.webp",
+},  {
     id: "iceland-hengill-relief-v2",
     type: "mountain",
-    name: { de: "Hengill", hu: "Hengill", ro: "Hengill", en: "Hengill" },
+    name: { de: "Hengill", hu: "Hengill", ro: "Hengill", en: "Hengill",
+image: "/poi-images/iceland-hengill-relief-v2.webp"
+},
     coordinates: { lat: 64.18, lng: -21.31 },
     description: {
       de: "Ein großes Vulkanmassiv östlich von Reykjavík. Es bildet das Zentrum eines riesigen Geothermalgebiets, das die Hauptstadt mit Energie versorgt.",
@@ -471,11 +832,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punct maxim: 803 metri", "Suprafață: aprox. 100 km²", "Ultima erupție acum 2.000 de ani", "Numeroase trasee de drumeție"],
       en: ["Highest point: 803 meters", "Area: approx. 100 sq km", "Last erupted 2,000 years ago", "Extensive network of hiking trails"],
     },
-    imageHint: "Hengill mountain geothermal steam", image: "/poi-images/iceland-hengill-relief-v2.webp"},
-  {
+imageHint: "Hengill mountain geothermal steam",
+    descriptionAdvanced: {
+      de: "Dieser aktive Vulkan in der Nähe von Reykjavík ist das Zentrum der isländischen Geothermienutzung. Zahlreiche Wanderwege führen durch dampfende Täler.",
+      hu: "Ez a Reykjavík közelében található aktív vulkán az izlandi geotermikus energiahasznosítás központja. Számos túraútvonal vezet gőzölgő völgyein át.",
+      ro: "Acest vulcan activ de lângă Reykjavík este centrul utilizării energiei geotermale în Islanda. Numeroase poteci traversează văile sale cu aburi.",
+      en: "This active volcano near Reykjavík is the center of Iceland's geothermal energy production. Numerous hiking trails lead through its steaming valleys.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 803 Meter", "Versorgt Reykjavík mit Fernwärme", "Standort großer Geothermalkraftwerke", "Letzte Eruption vor ca. 2000 Jahren"],
+      hu: ["Legmagasabb pontja 803 méter", "Reykjavík távhőellátásának bázisa", "Nagy geotermikus erőművek helyszíne", "Utolsó kitörése kb. 2000 éve volt"],
+      ro: ["Punctul maxim: 803 metri", "Alimentează Reykjavík cu căldură", "Locația unor mari centrale geotermale", "Ultima erupție în urmă cu circa 2000 ani"],
+      en: ["Highest point: 803 meters", "Provides district heating for Reykjavík", "Site of major geothermal power plants", "Last eruption occurred about 2000 years ago"],
+    },
+    image: "/poi-images/iceland-hengill-relief-v2.webp",
+},  {
     id: "iceland-snaefell-east-relief-v2",
     type: "peak",
-    name: { de: "Snæfell (Ost)", hu: "Snæfell (Kelet)", ro: "Snæfell (Est)", en: "Snæfell (East)" },
+    name: { de: "Snæfell (Ost)", hu: "Snæfell (Kelet)", ro: "Snæfell (Est)", en: "Snæfell (East)",
+image: "/poi-images/iceland-snaefell-east-relief-v2.webp"
+},
     coordinates: { lat: 64.8, lng: -15.56 },
     description: {
       de: "Der höchste Berg Islands außerhalb der großen Gletschergebiete. Dieser erloschene Vulkan dominiert das östliche Hochland nördlich des Vatnajökull.",
@@ -489,11 +865,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 1.833 metri", "Vulcan central solitar", "Adesea înzăpezit vara", "Habitat important pentru reni"],
       en: ["Elevation: 1,833 meters", "Solitary central volcano", "Often snow-capped in summer", "Important habitat for reindeer"],
     },
-    imageHint: "Snaefell mountain East Iceland", image: "/poi-images/iceland-snaefell-east-relief-v2.webp"},
-  {
+imageHint: "Snaefell mountain East Iceland",
+    descriptionAdvanced: {
+      de: "Der höchste Berg Islands außerhalb des zentralen Plateaus ist ein markanter, freistehender Vulkan im Osten. Er ist oft bis spät in den Sommer schneebedeckt.",
+      hu: "Izland legmagasabb, a központi fennsíkon kívül eső hegye egy jellegzetes, magányosan álló vulkán keleten. Gyakran még késő nyáron is hó borítja.",
+      ro: "Cel mai înalt munte din Islanda în afara podișului central este un vulcan solitar proeminent din est. Este adesea înzăpezit până târziu în vară.",
+      en: "The highest mountain in Iceland outside the central plateau is a prominent, free-standing volcano in the east. It is often snow-capped late into summer.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1833 Meter", "Höchster Berg außerhalb der Gletscher", "Ein ruhender Stratovulkan", "Bietet weite Sicht über das Hochland"],
+      hu: ["Magassága 1833 méter", "Legmagasabb hegy a fő gleccsereken kívül", "Egy jelenleg szunnyadó sztratovulkán", "Pazar kilátást nyújt a felföldre"],
+      ro: ["Altitudine: 1833 metri", "Cel mai înalt munte în afara ghețarilor", "Un stratovulcan în stare de repaus", "Oferă o vedere vastă asupra podișului"],
+      en: ["Elevation: 1833 meters", "Highest peak outside the main glaciers", "A dormant stratovolcano", "Offers extensive views over the highlands"],
+    },
+    image: "/poi-images/iceland-snaefell-east-relief-v2.webp",
+},  {
     id: "iceland-maelifell-relief-v2",
     type: "peak",
-    name: { de: "Mælifell", hu: "Mælifell", ro: "Mælifell", en: "Mælifell" },
+    name: { de: "Mælifell", hu: "Mælifell", ro: "Mælifell", en: "Mælifell",
+image: "/poi-images/iceland-maelifell-relief-v2.webp"
+},
     coordinates: { lat: 63.8, lng: -18.94 },
     description: {
       de: "Ein markanter, kegelförmiger Vulkanberg im südlichen Hochland. Er ist fast vollständig mit leuchtend grünem Moos bedeckt und von schwarzem Sand umgeben.",
@@ -507,11 +898,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 791 metri", "Compus din palagonit", "Situat pe câmpia Mælifellssandur", "Format inițial sub un ghețar"],
       en: ["Elevation: 791 meters", "Composed of palagonite", "Located on Mælifellssandur plain", "Formed under a glacier"],
     },
-    imageHint: "Maelifell green volcano cone", image: "/poi-images/iceland-maelifell-relief-v2.webp"},
-  {
+imageHint: "Maelifell green volcano cone",
+    descriptionAdvanced: {
+      de: "Dieser perfekt geformte, grüne Vulkankegel bildet einen spektakulären Kontrast zur schwarzen Sandwüste Mælifellssandur. Er ist ein bekanntes Fotomotiv.",
+      hu: "Ez a tökéletes formájú, élénkzöld vulkáni kúp látványos kontrasztot alkot a Mælifellssandur fekete homoksivatagával. Kedvelt fotótéma a túrázók körében.",
+      ro: "Acest con vulcanic verde, perfect format, creează un contrast spectaculos cu deșertul de nisip negru Mælifellssandur. Este un subiect fotografic celebru.",
+      en: "This perfectly shaped, moss-green volcanic cone creates a spectacular contrast with the black sand desert of Mælifellssandur. It is a iconic photo spot.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 791 Meter", "Besteht aus vulkanischem Palagonit", "Umgeben von schwarzen Sandebenen", "Nur mit Allradfahrzeugen erreichbar"],
+      hu: ["Magassága kb. 791 méter", "Vulkáni palagonit építi fel", "Fekete homoksíkságok veszik körül", "Csak terepjáróval közelíthető meg"],
+      ro: ["Altitudine: circa 791 metri", "Format din palagonit vulcanic", "Înconjurat de câmpii de nisip negru", "Accesibil doar cu vehicule 4x4"],
+      en: ["Elevation: about 791 meters", "Composed of volcanic palagonite", "Surrounded by black sand plains", "Accessible only by 4WD vehicles"],
+    },
+    image: "/poi-images/iceland-maelifell-relief-v2.webp",
+},  {
     id: "iceland-thrihnukagigur-relief-v2",
     type: "peak",
-    name: { de: "Þríhnúkagígur", hu: "Þríhnúkagígur", ro: "Þríhnúkagígur", en: "Þríhnúkagígur" },
+    name: { de: "Þríhnúkagígur", hu: "Þríhnúkagígur", ro: "Þríhnúkagígur", en: "Þríhnúkagígur",
+image: "/poi-images/iceland-thrihnukagigur-relief-v2.webp"
+},
     coordinates: { lat: 63.98, lng: -21.7 },
     description: {
       de: "Ein schlafender Vulkan nahe Reykjavík, der weltweit für seine begehbare Magmakammer bekannt ist, die bei der letzten Eruption nicht einstürzte.",
@@ -525,11 +931,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Adâncimea camerei: 213 metri", "Ultima erupție: acum 4.000 de ani", "Depozite minerale colorate pe pereți", "Numele înseamnă 'Craterul cu trei vârfuri'"],
       en: ["Chamber depth: 213 meters", "Last erupted: 4,000 years ago", "Colorful mineral stains on walls", "Name means 'Three Peaks Crater'"],
     },
-    imageHint: "Thrihnukagigur magma chamber interior", image: "/poi-images/iceland-thrihnukagigur-relief-v2.webp"},
-  {
+imageHint: "Thrihnukagigur magma chamber interior",
+    descriptionAdvanced: {
+      de: "Dieser einzigartige Vulkan ermöglicht es Besuchern, in eine leere Magmakammer hinabzufahren. Er ist weltweit der einzige Ort, an dem dies sicher möglich ist.",
+      hu: "Ez az egyedülálló vulkán lehetővé teszi a látogatóknak, hogy leereszkedjenek egy üres magmakamrába. Ez a világon az egyetlen hely, ahol ez biztonságosan megtehető.",
+      ro: "Acest vulcan unic permite vizitatorilor să coboare într-o cameră magmatică goală. Este singurul loc din lume unde acest lucru este posibil în siguranță.",
+      en: "This unique volcano allows visitors to descend into an empty magma chamber. It is the only place in the world where this can be done safely.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe der Kammer: 120 Meter", "Letzte Eruption vor 4000 Jahren", "Magma floss ab, statt zu erstarren", "Abstieg mit einem offenen Lift"],
+      hu: ["A kamra mélysége 120 méter", "Utolsó kitörése 4000 éve volt", "A magma elfolyt ahelyett, hogy megfagyott volna", "Nyitott lifttel lehet leereszkedni"],
+      ro: ["Adâncimea camerei: 120 metri", "Ultima erupție în urmă cu 4000 ani", "Magma s-a scurs în loc să se solidifice", "Coborâre realizată cu un lift deschis"],
+      en: ["Chamber depth: 120 meters", "Last eruption occurred 4000 years ago", "Magma drained away instead of solidifying", "Descent via an open elevator system"],
+    },
+    image: "/poi-images/iceland-thrihnukagigur-relief-v2.webp",
+},  {
     id: "iceland-kaldidalur-relief-v2",
     type: "valley",
-    name: { de: "Kaldidalur", hu: "Kaldidalur", ro: "Kaldidalur", en: "Kaldidalur" },
+    name: { de: "Kaldidalur", hu: "Kaldidalur", ro: "Kaldidalur", en: "Kaldidalur",
+image: "/poi-images/iceland-kaldidalur-relief-v2.webp"
+},
     coordinates: { lat: 64.55, lng: -20.78 },
     description: {
       de: "Ein karger Hochlandpass zwischen dem Langjökull-Gletscher und dem Berg Ok. Es ist das kürzeste der großen Hochland-Verbindungsstücke Islands.",
@@ -543,11 +964,26 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punct maxim: 727 metri", "Numele înseamnă 'Valea Rece'", "Rută istorică nord-sud importantă", "Înconjurată de ghețari și lavă"],
       en: ["Highest point: 727 meters", "Name means 'Cold Valley'", "Important historical north-south route", "Surrounded by glaciers and lava"],
     },
-    imageHint: "Kaldidalur highland road landscape", image: "/poi-images/iceland-kaldidalur-relief-v2.webp"},
-  {
+imageHint: "Kaldidalur highland road landscape",
+    descriptionAdvanced: {
+      de: "Die \"Kalte Tal\"-Route ist eine der kürzesten Hochlandpisten Islands. Sie führt durch eine karge, mondähnliche Landschaft zwischen Gletschern und Bergen.",
+      hu: "A \"Hideg-völgy\" útja Izland egyik legrövidebb felföldi útvonala. Kopár, holdszerű tájon halad keresztül gleccserek és hegyek szomszédságában.",
+      ro: "Ruta „Valea Rece” este una dintre cele mai scurte piste din podișul islandez. Traversează un peisaj arid, selenar, între ghețari și munți.",
+      en: "The \"Cold Valley\" route is one of Iceland's shortest highland passes. it traverses a barren, moon-like landscape nestled between glaciers and mountains.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt der Piste: 727 Meter", "Verbindet Westisland mit Thingvellir", "Kürzeste Hochlandroute des Landes", "Umgeben von Langjökull und Ok"],
+      hu: ["Az út legmagasabb pontja 727 méter", "Nyugat-Izlandot köti össze Thingvellirrel", "Az ország legrövidebb felföldi útvonala", "A Langjökull és az Ok gleccserek övezik"],
+      ro: ["Punctul maxim al rutei: 727 metri", "Conectează vestul cu Thingvellir", "Cea mai scurtă rută de podiș", "Înconjurată de Langjökull și Ok"],
+      en: ["Highest point of the pass: 727 meters", "Connects West Iceland with Thingvellir", "Shortest highland route in the country", "Bordered by Langjökull and Ok glaciers"],
+    },
+    image: "/poi-images/iceland-kaldidalur-relief-v2.webp",
+},  {
     id: "iceland-oksnadalsheidi-relief-v2",
     type: "mountain",
-    name: { de: "Öksnadalsheiði", hu: "Öksnadalsheiði", ro: "Öksnadalsheiði", en: "Öksnadalsheiði" },
+    name: { de: "Öksnadalsheiði", hu: "Öksnadalsheiði", ro: "Öksnadalsheiði", en: "Öksnadalsheiði",
+image: "/poi-images/iceland-oksnadalsheidi-relief-v2.webp"
+},
     coordinates: { lat: 65.46, lng: -18.72 },
     description: {
       de: "Ein bedeutender Gebirgspass in Nordisland, der die Regionen Skagafjörður und Eyjafjörður verbindet. Er ist Teil der isländischen Ringstraße.",
@@ -562,5 +998,17 @@ export const icelandReliefV2: POI[] = [
       en: ["Maximum altitude: 540 meters", "Famous for sharp mountain peaks", "Hraundrangi is its most iconic spire", "Often challenging to pass in winter"],
     },
     imageHint: "Oksnadalsheidi mountain pass Iceland",
+    descriptionAdvanced: {
+      de: "Dieser Pass ist ein wichtiger Teil der Ringstraße und verbindet den Norden mit dem Westen. Er ist bekannt für seine dramatischen Gipfel, wie den Hraundrangi.",
+      hu: "Ez a hágó a körút (1-es út) fontos része, amely összeköti az északi és nyugati országrészt. Drámai csúcsairól, például a Hraundrangiról nevezetes.",
+      ro: "Această trecătoare este o parte importantă a drumului de centură, legând nordul de vest. Este cunoscută pentru vârfurile sale dramatice, ca Hraundrangi.",
+      en: "This mountain pass is a vital segment of the Ring Road, connecting the north and west. It is famous for its dramatic peaks, such as the spire-like Hraundrangi.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Passes: 540 Meter", "Teil der isländischen Ringstraße (Nr. 1)", "Heimat des spitzen Hraundrangi-Gipfels", "Wichtige Verkehrsverbindung im Norden"],
+      hu: ["A hágó magassága 540 méter", "Az izlandi 1-es főút része", "Itt található a hegyes Hraundrangi-csúcs", "Fontos északi közlekedési útvonal"],
+      ro: ["Înălțimea trecătorii: 540 metri", "Parte a drumului de centură (Nr. 1)", "Găzduiește vârful ascuțit Hraundrangi", "Rută de transport vitală în nord"],
+      en: ["Pass elevation: 540 meters", "Part of the Icelandic Ring Road (Route 1)", "Home to the jagged Hraundrangi peak", "Vital transport link in Northern Iceland"],
+    },
   }
 ];

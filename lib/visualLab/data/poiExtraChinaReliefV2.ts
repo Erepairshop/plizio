@@ -11,8 +11,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Wüste Taklamakan",
       hu: "Takla-Makán-sivatag",
       ro: "Deșertul Taklamakan",
-      en: "Taklamakan Desert"
-    },
+      en: "Taklamakan Desert",
+image: "/poi-images/taklamakan-desert-relief-v2.webp"
+},
     description: {
       de: "Eine große Sandwüste in Xinjiang, bekannt als eine der größten Wanderdünenwüsten der Welt.",
       hu: "Nagy kiterjedésű homoksivatag Hszincsiangban, a világ egyik legnagyobb vándorló dűnékkel borított sivatagaként ismert.",
@@ -34,8 +35,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Tibetisches Hochland",
       hu: "Tibeti-fennsík",
       ro: "Podișul Tibet",
-      en: "Tibetan Plateau"
-    },
+      en: "Tibetan Plateau",
+image: "/poi-images/tibetan-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein riesiges Hochplateau in Zentral- und Ostasien, das den größten Teil der Autonomen Region Tibet und der Provinz Qinghai umfasst.",
       hu: "Hatalmas fennsík Közép- és Kelet-Ázsiában, amely magában foglalja a Tibeti Autonóm Terület és Csinghaj tartomány nagy részét.",
@@ -57,8 +59,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Pamir-Gebirge",
       hu: "Pamír-hegység",
       ro: "Munții Pamir",
-      en: "Pamir Mountains"
-    },
+      en: "Pamir Mountains",
+image: "/poi-images/pamir-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette in Zentralasien, die an der Kreuzung anderer bemerkenswerter Gebirgsketten liegt. Ein Teil davon erstreckt sich nach China.",
       hu: "Közép-ázsiai hegylánc, amely más nevezetes hegyláncok találkozásánál fekszik. Egy része Kínába is átnyúlik.",
@@ -80,8 +83,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Turpan-Senke",
       hu: "Turfáni-mélyedés",
       ro: "Depresiunea Turpan",
-      en: "Turpan Depression"
-    },
+      en: "Turpan Depression",
+image: "/poi-images/turpan-depression-relief-v2.webp"
+},
     description: {
       de: "Eine abflusslose Senke in Xinjiang. Es ist der heißeste und trockenste Ort Chinas und der dritttiefste Punkt der Erde.",
       hu: "Lefolyástalan medence Hszincsiangban. Kína legforróbb és legszárazabb helye, és a Föld harmadik legmélyebb pontja.",
@@ -103,8 +107,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Lössplateau",
       hu: "Lösz-fennsík",
       ro: "Podișul Loess",
-      en: "Loess Plateau"
-    },
+      en: "Loess Plateau",
+image: "/poi-images/loess-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein großes Plateau in Nordchina, das aus Löss besteht, einem vom Wind abgelagerten Sediment, das sich über Tausende von Jahren angesammelt hat.",
       hu: "Nagy kiterjedésű fennsík Észak-Kínában, amely löszből, a szél által lerakott üledékből áll, ami évezredek alatt halmozódott fel.",
@@ -126,8 +131,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Qilian-Gebirge",
       hu: "Csilien-hegység",
       ro: "Munții Qilian",
-      en: "Qilian Mountains"
-    },
+      en: "Qilian Mountains",
+image: "/poi-images/qilian-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette am nordöstlichen Rand des Tibetischen Plateaus, die eine natürliche Grenze zwischen den Provinzen Qinghai und Gansu bildet.",
       hu: "Hegylánc a Tibeti-fennsík északkeleti peremén, amely természetes határt képez Csinghaj és Kanszu tartományok között.",
@@ -149,8 +155,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Sichuan-Becken",
       hu: "Szecsuáni-medence",
       ro: "Bazinul Sichuan",
-      en: "Sichuan Basin"
-    },
+      en: "Sichuan Basin",
+image: "/poi-images/sichuan-basin-relief-v2.webp"
+},
     description: {
       de: "Ein großes, tief liegendes Gebiet in Südwestchina, umgeben von Gebirgen. Es ist eine der bevölkerungsreichsten und landwirtschaftlich produktivsten Regionen Chinas.",
       hu: "Nagy, alacsonyan fekvő terület Délnyugat-Kínában, hegyekkel körülvéve. Kína egyik legsűrűbben lakott és mezőgazdaságilag legtermékenyebb régiója.",
@@ -172,8 +179,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Straße von Qiongzhou",
       hu: "Csioncsou-szoros",
       ro: "Strâmtoarea Qiongzhou",
-      en: "Qiongzhou Strait"
-    },
+      en: "Qiongzhou Strait",
+image: "/poi-images/qiongzhou-strait-coast-relief-v2.webp"
+},
     description: {
       de: "Die Meerenge, die die Leizhou-Halbinsel in Guangdong vom Inselprovinz Hainan trennt.",
       hu: "A tengerszoros, amely elválasztja a Lejcsou-félszigetet Kuangtungban Hajnan sziget-tartománytól.",
@@ -195,8 +203,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Bohai-Meer",
       hu: "Pohaj-tenger",
       ro: "Marea Bohai",
-      en: "Bohai Sea"
-    },
+      en: "Bohai Sea",
+image: "/poi-images/bohai-sea-coast-relief-v2.webp"
+},
     description: {
       de: "Ein fast vollständig von Land umschlossenes Randmeer an der Nordküste Chinas. Es ist ein wichtiger maritimer Zugang für die Hauptstadtregion und die Häfen des Nordens.",
       hu: "Majdnem teljesen szárazfölddel körülvett beltenger a kínai szárazföld keleti partján.",
@@ -218,8 +227,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Qinling-Gebirge",
       hu: "Csinling-hegység",
       ro: "Munții Qinling",
-      en: "Qinling Mountains"
-    },
+      en: "Qinling Mountains",
+image: "/poi-images/qinling-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine große Ost-West-Gebirgskette, die als natürliche Grenze zwischen Nord- und Südchina dient.",
       hu: "Nagy, kelet-nyugati irányú hegylánc, amely természetes határként szolgál Észak- és Dél-Kína között.",
@@ -241,8 +251,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Altun-Gebirge",
       hu: "Altun-hegység",
       ro: "Munții Altun",
-      en: "Altun Mountains"
-    },
+      en: "Altun Mountains",
+image: "/poi-images/altun-shan-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette im Nordwesten Chinas, die den südlichen Rand des Tarim-Beckens bildet.",
       hu: "Hegylánc Északnyugat-Kínában, amely a Tarim-medence déli peremét képezi.",
@@ -264,8 +275,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Wuyi-Gebirge",
       hu: "Vuji-hegység",
       ro: "Munții Wuyi",
-      en: "Wuyi Mountains"
-    },
+      en: "Wuyi Mountains",
+image: "/poi-images/wuyi-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette an der Grenze zwischen den Provinzen Fujian und Jiangxi, bekannt für ihre landschaftliche Schönheit und reiche Artenvielfalt.",
       hu: "Hegylánc Fucsien és Csianghszi tartományok határán, amely festői szépségéről és gazdag biodiverzitásáról ismert.",
@@ -287,8 +299,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Yunnan-Guizhou-Plateau",
       hu: "Jünnan-Kujcsou-fennsík",
       ro: "Podișul Yunnan-Guizhou",
-      en: "Yunnan-Guizhou Plateau"
-    },
+      en: "Yunnan-Guizhou Plateau",
+image: "/poi-images/yunnan-guizhou-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein großes Hochlandgebiet in Südwestchina, das sich über die Provinzen Yunnan und Guizhou erstreckt. Bekannt für seine zerklüftete Karsttopographie.",
       hu: "Nagy kiterjedésű felföld Délnyugat-Kínában, amely Jünnan és Kujcsou tartományokon terül el. Zord karszttopográfiájáról ismert.",
@@ -310,8 +323,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Hangzhou-Bucht",
       hu: "Hangcsou-öböl",
       ro: "Golful Hangzhou",
-      en: "Hangzhou Bay"
-    },
+      en: "Hangzhou Bay",
+image: "/poi-images/hangzhou-bay-coast-relief-v2.webp"
+},
     description: {
       de: "Eine Bucht des Ostchinesischen Meeres, begrenzt von der Provinz Zhejiang und der Gemeinde Shanghai. Der Qiantang-Fluss mündet in die Bucht.",
       hu: "A Kelet-kínai-tenger egyik öble, amelyet Csöcsiang tartomány és Sanghaj városa határol. A Csientang-folyó az öbölbe ömlik.",
@@ -333,8 +347,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Hexi-Korridor",
       hu: "Hsziszi-korridor",
       ro: "Coridorul Hexi",
-      en: "Hexi Corridor"
-    },
+      en: "Hexi Corridor",
+image: "/poi-images/hexi-corridor-valley-relief-v2.webp"
+},
     description: {
       de: "Eine historische Route in der Provinz Gansu, die Teil der Nördlichen Seidenstraße war. Ein Korridor, der sich zwischen dem Tibetischen Plateau und der Wüste Gobi erstreckt.",
       hu: "Történelmi útvonal Kanszu tartományban, amely az Északi Selyemút része volt. Egy folyosó, amely a Tibeti-fennsík és a Góbi-sivatag között húzódik.",
@@ -356,8 +371,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Dsungarisches Becken",
       hu: "Dzsungáriai-medence",
       ro: "Bazinul Dzungarian",
-      en: "Dzungarian Basin"
-    },
+      en: "Dzungarian Basin",
+image: "/poi-images/dzungarian-basin-relief-v2.webp"
+},
     description: {
       de: "Ein großes geologisches Becken im Nordwesten Chinas, in der nördlichen Hälfte von Xinjiang gelegen.",
       hu: "Nagy geológiai medence Északnyugat-Kínában, Hszincsiang északi felén.",
@@ -379,8 +395,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Tian-Shan-Gebirge",
       hu: "Tien-san",
       ro: "Munții Tian Shan",
-      en: "Tian Shan Mountains"
-    },
+      en: "Tian Shan Mountains",
+image: "/poi-images/tian-shan-mountains-relief-v2.webp"
+},
     description: {
       de: "Ein großes Gebirgssystem in Zentralasien, das sich über mehrere Länder, einschließlich China, erstreckt. Es trennt das Tarim-Becken vom Dsungarischen Becken.",
       hu: "Nagy kiterjedésű hegységrendszer Közép-Ázsiában, amely több országon, köztük Kínán is áthalad. Elválasztja a Tarim-medencét a Dzsungáriai-medencétől.",
@@ -402,8 +419,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Liaodong-Halbinsel",
       hu: "Liaotung-félsziget",
       ro: "Peninsula Liaodong",
-      en: "Liaodong Peninsula"
-    },
+      en: "Liaodong Peninsula",
+image: "/poi-images/liaodong-peninsula-coast-relief-v2.webp"
+},
     description: {
       de: "Eine Halbinsel in der Provinz Liaoning im Nordosten Chinas, die das Bohai-Meer vom Koreagolf trennt.",
       hu: "Félsziget Liaoning tartományban, Északkelet-Kínában, amely elválasztja a Bohai-tengert a Koreai-öböltől.",
@@ -425,8 +443,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Karakorum-Gebirge",
       hu: "Karakorum-hegység",
       ro: "Lanțul Karakorum",
-      en: "Karakoram Range"
-    },
+      en: "Karakoram Range",
+image: "/poi-images/karakoram-range-relief-v2.webp"
+},
     description: {
       de: "Eine große Gebirgskette, die die Grenzen von Pakistan, Indien und China überspannt. Sie beherbergt den K2, den zweithöchsten Berg der Welt.",
       hu: "Nagy kiterjedésű hegylánc, amely Pakisztán, India és Kína határain húzódik. Itt található a K2, a világ második legmagasabb hegye.",
@@ -448,8 +467,9 @@ export const poiExtraChinaReliefV2: POI[] = [
       de: "Qaidam-Becken",
       hu: "Cajdam-medence",
       ro: "Bazinul Qaidam",
-      en: "Qaidam Basin"
-    },
+      en: "Qaidam Basin",
+image: "/poi-images/qudam-basin-relief-v2.webp"
+},
     description: {
       de: "Eine extrem trockene Region auf dem nordöstlichen Teil des Tibetischen Plateaus. Es ist ein unfruchtbares, dünn besiedeltes Gebiet.",
       hu: "Rendkívül száraz régió a Tibeti-fennsík északkeleti részén. Ez egy terméketlen, ritkán lakott terület.",

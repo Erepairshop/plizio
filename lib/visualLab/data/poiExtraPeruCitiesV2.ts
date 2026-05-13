@@ -11,8 +11,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Lima",
       hu: "Lima",
       ro: "Lima",
-      en: "Lima"
-    },
+      en: "Lima",
+image: "/poi-images/lima-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt und größte Stadt Perus.",
       hu: "Peru fővárosa és legnagyobb városa.",
@@ -56,8 +57,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Arequipa",
       hu: "Arequipa",
       ro: "Arequipa",
-      en: "Arequipa"
-    },
+      en: "Arequipa",
+image: "/poi-images/arequipa-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Weiße Stadt'.",
       hu: "A 'Fehér Város' néven ismert.",
@@ -101,8 +103,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Trujillo",
       hu: "Trujillo",
       ro: "Trujillo",
-      en: "Trujillo"
-    },
+      en: "Trujillo",
+image: "/poi-images/trujillo-cities-v2.webp"
+},
     description: {
       de: "Zentrum der Chimú-Kultur in Nordperu.",
       hu: "A Chimú kultúra központja Észak-Peruban.",
@@ -146,8 +149,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Chiclayo",
       hu: "Chiclayo",
       ro: "Chiclayo",
-      en: "Chiclayo"
-    },
+      en: "Chiclayo",
+image: "/poi-images/chiclayo-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Region Lambayeque.",
       hu: "Lambayeque régió fővárosa.",
@@ -191,8 +195,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Piura",
       hu: "Piura",
       ro: "Piura",
-      en: "Piura"
-    },
+      en: "Piura",
+image: "/poi-images/piura-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten spanischen Städte Südamerikas.",
       hu: "Dél-Amerika egyik legrégebbi spanyol városa.",
@@ -236,8 +241,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Iquitos",
       hu: "Iquitos",
       ro: "Iquitos",
-      en: "Iquitos"
-    },
+      en: "Iquitos",
+image: "/poi-images/iquitos-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt im peruanischen Amazonasgebiet.",
       hu: "A perui Amazonas legnagyobb városa.",
@@ -281,8 +287,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Cusco",
       hu: "Cusco",
       ro: "Cusco",
-      en: "Cusco"
-    },
+      en: "Cusco",
+image: "/poi-images/cusco-cities-v2.webp"
+},
     description: {
       de: "Ehemalige Hauptstadt des Inkareiches.",
       hu: "Az Inka Birodalom egykori fővárosa.",
@@ -326,8 +333,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Chimbote",
       hu: "Chimbote",
       ro: "Chimbote",
-      en: "Chimbote"
-    },
+      en: "Chimbote",
+image: "/poi-images/chimbote-cities-v2.webp"
+},
     description: {
       de: "Wichtiger Fischereihafen in Peru.",
       hu: "Fontos halászkikötő Peruban.",
@@ -371,8 +379,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Huancayo",
       hu: "Huancayo",
       ro: "Huancayo",
-      en: "Huancayo"
-    },
+      en: "Huancayo",
+image: "/poi-images/huancayo-cities-v2.webp"
+},
     description: {
       de: "Kulturelles Zentrum im zentralen Hochland.",
       hu: "Kulturális központ a központi hegyvidéken.",
@@ -416,8 +425,9 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Tacna",
       hu: "Tacna",
       ro: "Tacna",
-      en: "Tacna"
-    },
+      en: "Tacna",
+image: "/poi-images/tacna-cities-v2.webp"
+},
     description: {
       de: "Grenzstadt zu Chile im Süden Perus.",
       hu: "Határváros Chilével Peru déli részén.",

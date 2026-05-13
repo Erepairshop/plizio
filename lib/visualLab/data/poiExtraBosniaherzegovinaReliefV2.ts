@@ -4,7 +4,9 @@ export const bosniaherzegovinaReliefV2: POI[] = [
   {
     id: "bosniaherzegovina-volujak-relief-v2",
     type: "mountain",
-    name: { de: "Volujak", hu: "Volujak", ro: "Volujak", en: "Volujak" },
+    name: { de: "Volujak", hu: "Volujak", ro: "Volujak", en: "Volujak",
+image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"
+},
     coords: [18.7167, 43.2333],
     coordinates: { lat: 43.2333, lng: 18.7167 },
     description: {
@@ -19,11 +21,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: 2.336 m", "Munți de frontieră", "Lacuri glaciare", "Destinație de drumeție"],
       en: ["Highest peak: 2,336 m", "Border mountain range", "Glacial lakes present", "Popular hiking area"],
     },
-    imageHint: "Volujak mountain Bosnia border", image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"},
+    imageHint: "Volujak mountain Bosnia border",
+    image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Volujak-Massiv an der Grenze zu Montenegro besticht durch seine schroffen Kalksteinfelsen. Sein höchster Gipfel Studenac erreicht eine markante Höhe von 2296 Metern.",
+      hu: "A Volujak-hegység Bosznia-Hercegovina és Montenegró határán fekszik. Legmagasabb csúcsa, a Studenac 2296 méteres magasságával a Dinaridák egyik legzordabb mészkővonulata.",
+      ro: "Masivul Volujak, situat la granița cu Muntenegru, este renumit pentru relieful său carstic spectaculos. Vârful Studenac atinge 2296 metri, fiind o destinație alpină tehnică.",
+      en: "The Volujak mountain range sits on the border with Montenegro, featuring dramatic limestone peaks. Its highest summit, Studenac, reaches an elevation of 2,296 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Studenac (2296 m)", "Grenze zu Montenegro", "Dinarisches Gebirge", "Kalksteinformationen"],
+      hu: ["Studenac-csúcs (2296 m)", "Montenegrói határvidék", "Dinaridák része", "Karsztos felszínformák"],
+      ro: ["Vârful Studenac (2296 m)", "Granița cu Muntenegru", "Munții Dinarici", "Relief carstic masiv"],
+      en: ["Studenac peak (2,296 m)", "Montenegrin border", "Dinaric Alps range", "Limestone geology"],
+    },
+  },
   {
     id: "bosniaherzegovina-treskavica-relief-v2",
     type: "mountain",
-    name: { de: "Treskavica", hu: "Treskavica", ro: "Treskavica", en: "Treskavica" },
+    name: { de: "Treskavica", hu: "Treskavica", ro: "Treskavica", en: "Treskavica",
+image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"
+},
     coords: [18.3564, 43.5956],
     coordinates: { lat: 43.5956, lng: 18.3564 },
     description: {
@@ -38,11 +56,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Mala Ćaba: 2.086 m", "Cinci lacuri montane", "Munți calcaroși", "Relief glaciar"],
       en: ["Highest peak: Mala Ćaba", "2,086 m elevation", "Five natural lakes", "Dinaric range"],
     },
-    imageHint: "Treskavica mountain lakes Bosnia", image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"},
+    imageHint: "Treskavica mountain lakes Bosnia",
+    image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Südlich von Sarajevo gelegen, ist die Treskavica für ihre zahlreichen Gebirgsseen bekannt. Der höchste Punkt, Mala Ćaba, bietet weite Ausblicke bis zum Adriatischen Meer.",
+      hu: "Szarajevótól délre található a Treskavica, amely kristálytiszta tengerszemeiről híres. Legmagasabb pontja a Mala Ćaba (2086 m), ahonnan belátható az egész hercegovinai régió.",
+      ro: "Situat la sud de Sarajevo, Treskavica este cunoscut pentru numeroasele sale lacuri glaciare. Cel mai înalt punct, Mala Ćaba, oferă panorame vaste până la Marea Adriatică.",
+      en: "Located south of Sarajevo, Treskavica is famous for its numerous glacial lakes. The highest point, Mala Ćaba at 2,086 meters, offers views spanning to the Adriatic Sea.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Mala Ćaba (2086 m)", "5 große Gebirgsseen", "Südlich von Sarajevo", "Dinarische Kalkalpen"],
+      hu: ["Mala Ćaba csúcs (2086 m)", "5 jelentős tengerszem", "Szarajevótól délre", "Vízválasztó vonulat"],
+      ro: ["Vârful Mala Ćaba (2086 m)", "5 lacuri montane majore", "Sud de Sarajevo", "Alpii Dinarici"],
+      en: ["Mala Ćaba peak (2,086 m)", "5 major glacial lakes", "South of Sarajevo", "Dinaric karst range"],
+    },
+  },
   {
     id: "bosniaherzegovina-vlasic-relief-v2",
     type: "mountain",
-    name: { de: "Vlašić", hu: "Vlašić", ro: "Vlašić", en: "Vlašić" },
+    name: { de: "Vlašić", hu: "Vlašić", ro: "Vlašić", en: "Vlašić",
+image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"
+},
     coords: [17.6058, 44.2981],
     coordinates: { lat: 44.2981, lng: 17.6058 },
     description: {
@@ -57,11 +91,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Opaljenik: 1.933 m", "Producție de brânză", "Centru de sporturi de iarnă", "Munte central"],
       en: ["Highest peak: Opaljenik", "1,933 m elevation", "Livestock farming center", "Well-known ski center"],
     },
-    imageHint: "Vlasic mountain pastures Bosnia", image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"},
+    imageHint: "Vlasic mountain pastures Bosnia",
+    image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Vlašić-Massiv bei Travnik ist ein Zentrum für Wintersport und traditionelle Almwirtschaft. Der Gipfel Paljenik beherbergt wichtige Telekommunikationsanlagen auf 1943 Metern.",
+      hu: "A Travnik melletti Vlašić-hegység a téli sportok és a hagyományos pásztorkodás központja. A 1943 méter magas Paljenik-csúcson jelentős távközlési tornyok találhatók.",
+      ro: "Masivul Vlašić de lângă Travnik este un centru pentru sporturi de iarnă și păstorit tradițional. Vârful Paljenik găzduiește facilități de telecomunicații la 1943 metri.",
+      en: "The Vlašić massif near Travnik is a hub for winter sports and traditional pastoralism. Its Paljenik peak hosts key telecommunication facilities at 1,943 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Paljenik (1943 m)", "Zentralbosnien bei Travnik", "Heimat des Vlašić-Käses", "Bedeutendes Skigebiet"],
+      hu: ["Paljenik-csúcs (1943 m)", "Közép-Bosznia, Travnik", "Híres juhtúró hazája", "Népszerű síközpont"],
+      ro: ["Vârful Paljenik (1943 m)", "Bosnia Centrală, Travnik", "Originea brânzei Vlašić", "Stațiune de schi majoră"],
+      en: ["Paljenik peak (1,943 m)", "Central Bosnia region", "Home of Vlašić cheese", "Major skiing destination"],
+    },
+  },
   {
     id: "bosniaherzegovina-kozara-relief-v2",
     type: "park",
-    name: { de: "Kozara", hu: "Kozara", ro: "Kozara", en: "Kozara" },
+    name: { de: "Kozara", hu: "Kozara", ro: "Kozara", en: "Kozara",
+image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"
+},
     coords: [16.9111, 45.0083],
     coordinates: { lat: 45.0083, lng: 16.9111 },
     description: {
@@ -76,11 +126,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Lisina: 978 m", "Parc național din 1967", "Munte de tip insulă", "Monument istoric"],
       en: ["Highest peak: Lisina", "978 m elevation", "National park since 1967", "Revolution Monument"],
     },
-    imageHint: "Kozara National Park monument Bosnia", image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"},
+    imageHint: "Kozara National Park monument Bosnia",
+    image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kozara im Nordwesten Bosniens ist als Nationalpark geschützt und historisch bedeutsam. Der bewaldete Gebirgszug erreicht am Gipfel Mrakovica eine Höhe von 806 Metern.",
+      hu: "Az északnyugat-boszniai Kozara nemzeti parkként védett és történelmileg jelentős terület. Sűrű erdőkkel borított vonulata a Mrakovica-csúcson 806 méteres magasságot ér el.",
+      ro: "Muntele Kozara din nord-vestul Bosniei este protejat ca parc național și are o importanță istorică. Lanțul muntos împădurit atinge 806 metri pe vârful Mrakovica.",
+      en: "Kozara in northwest Bosnia is protected as a National Park and holds historical significance. The forested range reaches an elevation of 806 meters at Mrakovica peak.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Mrakovica (806 m)", "Nationalpark seit 1967", "Nordwestbosnien", "Denkmal für den II. WK"],
+      hu: ["Mrakovica-csúcs (806 m)", "Nemzeti Park 1967 óta", "Északnyugat-Bosznia", "II. világháborús emlékmű"],
+      ro: ["Vârful Mrakovica (806 m)", "Parc Național din 1967", "Nord-vestul Bosniei", "Monument al celui de-al II-lea R.M."],
+      en: ["Mrakovica peak (806 m)", "National Park since 1967", "Northwest Bosnia", "WWII memorial site"],
+    },
+  },
   {
     id: "bosniaherzegovina-dinara-troglav-relief-v2",
     type: "peak",
-    name: { de: "Dinara (Troglav)", hu: "Dinara (Troglav)", ro: "Dinara (Troglav)", en: "Dinara (Troglav)" },
+    name: { de: "Dinara (Troglav)", hu: "Dinara (Troglav)", ro: "Dinara (Troglav)", en: "Dinara (Troglav)",
+image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"
+},
     coords: [16.585, 43.945],
     coordinates: { lat: 43.945, lng: 16.585 },
     description: {
@@ -95,11 +161,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.913 m", "Vârful suprem al masivului", "Zona de frontieră", "Relief calcaros"],
       en: ["Elevation: 1,913 meters", "Highest peak of Dinara", "Border region with Croatia", "Karst plateau"],
     },
-    imageHint: "Dinara mountain Troglav peak", image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"},
+    imageHint: "Dinara mountain Troglav peak",
+    image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Troglav ist mit 1913 Metern der höchste Gipfel des Dinara-Massivs an der Grenze zu Kroatien. Er prägt das Relief der Region Livno durch seine weiten Karsthochflächen.",
+      hu: "A 1913 méter magas Troglav a Dinara-hegység legmagasabb csúcsa a horvát határon. A Livnói-mező fölé magasodó tömb a Dinaridák névadó vonulatának központi része.",
+      ro: "Troglav, cu 1913 metri, este cel mai înalt vârf al masivului Dinara de la granița cu Croația. Acesta domină relieful regiunii Livno prin platourile sale carstice vaste.",
+      en: "Troglav is the highest peak of the Dinara massif at 1,913 meters on the Croatian border. It dominates the Livno region's relief with its expansive karst plateaus.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Troglav (1913 m)", "Grenze zu Kroatien", "Namensgeber der Dinariden", "Karst-Hochebene"],
+      hu: ["Troglav-csúcs (1913 m)", "Horvát határvidék", "Dinaridák névadója", "Karsztfennsík"],
+      ro: ["Vârful Troglav (1913 m)", "Granița cu Croația", "Eponim al Alpilor Dinarici", "Podiș carstic"],
+      en: ["Troglav peak (1,913 m)", "Croatian border", "Dinaric Alps namesake", "Karst plateau terrain"],
+    },
+  },
   {
     id: "bosniaherzegovina-romanija-relief-v2",
     type: "mountain",
-    name: { de: "Romanija", hu: "Romanija", ro: "Romanija", en: "Romanija" },
+    name: { de: "Romanija", hu: "Romanija", ro: "Romanija", en: "Romanija",
+image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"
+},
     coords: [18.6667, 43.8833],
     coordinates: { lat: 43.8833, lng: 18.6667 },
     description: {
@@ -114,11 +196,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: Lupoglav", "1.652 m altitudine", "Stâncile Crvene Stijene", "Peștera Novak"],
       en: ["Highest peak: Lupoglav", "1,652 m elevation", "Crvene Stijene cliffs", "Novak cave"],
     },
-    imageHint: "Romanija mountain cliffs Bosnia", image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"},
+    imageHint: "Romanija mountain cliffs Bosnia",
+    image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Romanija östlich von Sarajevo ist bekannt für ihre senkrechten Felswände und die Höhle des Hajduken Starina Novak. Der höchste Punkt ist der Veliki Lupoglav mit 1652 m.",
+      hu: "A Szarajevótól keletre fekvő Romanija függőleges sziklafalairól és Starina Novak hajdukkapitány barlangjáról híres. Legmagasabb pontja a 1652 méteres Veliki Lupoglav.",
+      ro: "Romanija, la est de Sarajevo, este cunoscută pentru pereții săi verticali de stâncă și peștera haiducului Starina Novak. Cel mai înalt punct este Veliki Lupoglav la 1652 m.",
+      en: "Romanija, east of Sarajevo, is renowned for its vertical rock faces and the cave of outlaw Starina Novak. Its highest point is Veliki Lupoglav at 1,652 meters.",
+    },
+    factsAdvanced: {
+      de: ["Veliki Lupoglav (1652 m)", "Östlich von Sarajevo", "Starina Novak-Höhle", "Markante Felswände"],
+      hu: ["Veliki Lupoglav (1652 m)", "Szarajevótól keletre", "Starina Novak barlangja", "Függőleges sziklafalak"],
+      ro: ["Veliki Lupoglav (1652 m)", "Est de Sarajevo", "Peștera Starina Novak", "Pereți de stâncă abrupți"],
+      en: ["Veliki Lupoglav (1,652 m)", "East of Sarajevo", "Starina Novak cave", "Prominent rock faces"],
+    },
+  },
   {
     id: "bosniaherzegovina-grmec-relief-v2",
     type: "mountain",
-    name: { de: "Grmeč", hu: "Grmeč", ro: "Grmeč", en: "Grmeč" },
+    name: { de: "Grmeč", hu: "Grmeč", ro: "Grmeč", en: "Grmeč",
+image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"
+},
     coords: [16.3333, 44.6667],
     coordinates: { lat: 44.6667, lng: 16.3333 },
     description: {
@@ -133,11 +231,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Crni Vrh: 1.605 m", "Lungime de peste 70 km", "Habitat pentru carnivore mari", "Munți dinarici"],
       en: ["Highest peak: Crni Vrh", "1,605 m elevation", "Over 70 km long", "Important forest location"],
     },
-    imageHint: "Grmec mountain forest Bosnia", image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"},
+    imageHint: "Grmec mountain forest Bosnia",
+    image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Grmeč im Nordwesten Bosniens erstreckt sich über 70 Kilometer und ist fast vollständig bewaldet. Sein höchster Gipfel Crni Vrh erreicht eine Höhe von 1605 Metern.",
+      hu: "Az északnyugat-boszniai Grmeč egy 70 kilométer hosszan elnyúló, sűrű erdőkkel borított hegylánc. Legmagasabb csúcsa, a Crni Vrh 1605 méter magasságba emelkedik.",
+      ro: "Grmeč, în nord-vestul Bosniei, se întinde pe 70 de kilometri și este aproape în întregime împădurit. Vârful său cel mai înalt, Crni Vrh, atinge o înălțime de 1605 metri.",
+      en: "Grmeč in northwest Bosnia stretches over 70 kilometers and is almost entirely forested. Its highest peak, Crni Vrh, reaches an elevation of 1,605 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Crni Vrh (1605 m)", "70 km Ausdehnung", "Zwischen Una und Sana", "Dichte Buchenwälder"],
+      hu: ["Crni Vrh csúcs (1605 m)", "70 km-es hosszúság", "Una és Sana folyók között", "Sűrű bükkerdők"],
+      ro: ["Vârful Crni Vrh (1605 m)", "Lungime de 70 km", "Între râurile Una și Sana", "Păduri dese de fag"],
+      en: ["Crni Vrh peak (1,605 m)", "70 km total length", "Between Una and Sana rivers", "Dense beech forests"],
+    },
+  },
   {
     id: "bosniaherzegovina-majevica-relief-v2",
     type: "mountain",
-    name: { de: "Majevica", hu: "Majevica", ro: "Majevica", en: "Majevica" },
+    name: { de: "Majevica", hu: "Majevica", ro: "Majevica", en: "Majevica",
+image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"
+},
     coords: [18.85, 44.57],
     coordinates: { lat: 44.57, lng: 18.85 },
     description: {
@@ -152,11 +266,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Stolice: 916 m", "Munți terțiari", "Resurse de cărbune", "Nord-estul Bosniei"],
       en: ["Highest peak: Stolice", "916 m elevation", "Tertiary mountain range", "Rich in brown coal"],
     },
-    imageHint: "Majevica mountain landscape", image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"},
+    imageHint: "Majevica mountain landscape",
+    image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Majevica ist ein Mittelgebirge im Nordosten Bosniens, das die Pannonische Tiefebene von der Tuzla-Region trennt. Der Gipfel Stolice erreicht eine Höhe von 916 Metern.",
+      hu: "A Majevica egy középhegység Északkelet-Boszniában, amely elválasztja a Pannon-síkságot a Tuzlai-medencétől. Legmagasabb csúcsa, a Stolice 916 méter magas.",
+      ro: "Majevica este un munte de înălțime medie în nord-estul Bosniei, care separă Câmpia Panonică de regiunea Tuzla. Vârful Stolice atinge o înălțime de 916 metri.",
+      en: "Majevica is a low mountain range in northeast Bosnia, separating the Pannonian Plain from the Tuzla region. Its Stolice peak reaches an elevation of 916 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Stolice (916 m)", "Nordostbosnien", "Trennung zur Tiefebene", "Braunkohlevorkommen"],
+      hu: ["Stolice-csúcs (916 m)", "Északkelet-Bosznia", "Alföldi határvonal", "Barnaszén lelőhelyek"],
+      ro: ["Vârful Stolice (916 m)", "Nord-estul Bosniei", "Limita Câmpiei Panonice", "Zăcăminte de lignit"],
+      en: ["Stolice peak (916 m)", "Northeast Bosnia", "Pannonian Plain border", "Lignite coal deposits"],
+    },
+  },
   {
     id: "bosniaherzegovina-ozren-relief-v2",
     type: "mountain",
-    name: { de: "Ozren", hu: "Ozren", ro: "Ozren", en: "Ozren" },
+    name: { de: "Ozren", hu: "Ozren", ro: "Ozren", en: "Ozren",
+image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp"
+},
     coords: [18.3333, 44.6],
     coordinates: { lat: 44.6, lng: 18.3333 },
     description: {
@@ -172,11 +302,25 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       en: ["Highest peak: Velika Ostravica", "918 m elevation", "Rich in ores", "Healing springs present"],
     },
     imageHint: "Ozren mountain Doboj Bosnia",
+    descriptionAdvanced: {
+      de: "Der Ozren liegt zwischen Doboj und Maglaj und ist für sein reiches kulturelles Erbe und Klöster bekannt. Die höchste Erhebung ist der Gipfel Velika Ostravica mit 918 m.",
+      hu: "Az Ozren Doboj és Maglaj között fekszik, gazdag kulturális örökségéről és ortodox kolostorairól ismert. Legmagasabb pontja a 918 méteres Velika Ostravica-csúcs.",
+      ro: "Ozren este situat între Doboj și Maglaj, fiind cunoscut pentru patrimoniul său cultural bogat și mănăstiri. Cea mai înaltă cotă este vârful Velika Ostravica la 918 m.",
+      en: "Ozren is located between Doboj and Maglaj, known for its rich cultural heritage and monasteries. Its highest elevation is the Velika Ostravica peak at 918 meters.",
+    },
+    factsAdvanced: {
+      de: ["Velika Ostravica (918 m)", "Zwischen Doboj und Maglaj", "Kloster Ozren (16. Jh.)", "Heilquellen der Region"],
+      hu: ["Velika Ostravica (918 m)", "Doboj és Maglaj között", "Ozren-kolostor (16. sz.)", "Gyógyvízforrások"],
+      ro: ["Velika Ostravica (918 m)", "Între Doboj și Maglaj", "Mănăstirea Ozren (sec. XVI)", "Izvoare tămăduitoare"],
+      en: ["Velika Ostravica (918 m)", "Between Doboj and Maglaj", "Ozren Monastery (16th c.)", "Regional mineral springs"],
+    },
   },
   {
     id: "bosniaherzegovina-cincar-relief-v2",
     type: "mountain",
-    name: { de: "Cincar", hu: "Cincar", ro: "Cincar", en: "Cincar" },
+    name: { de: "Cincar", hu: "Cincar", ro: "Cincar", en: "Cincar",
+image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"
+},
     coords: [17.1, 43.9014],
     coordinates: { lat: 43.9014, lng: 17.1 },
     description: {
@@ -191,11 +335,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 2.006 m", "Cai sălbatici rezidenți", "Relief carstic", "Aproape de Livno"],
       en: ["Elevation: 2,006 meters", "Wild horse population", "Karst plateau", "North of Livno"],
     },
-    imageHint: "Cincar mountain wild horses", image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"},
+    imageHint: "Cincar mountain wild horses",
+    image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Cincar überragt das Livnó-Feld und ist berühmt für die dort lebenden Wildpferde. Der Gipfel erreicht 2006 Meter und bietet eine karge, aber faszinierende Karstlandschaft.",
+      hu: "A Cincar a Livnói-mező fölé magasodik, és a fennsíkján élő vadlovairól nevezetes. 2006 méteres csúcsa kopár, mégis lenyűgöző karsztvidéki tájat kínál a túrázóknak.",
+      ro: "Cincar domină câmpia Livno și este renumit pentru caii sălbatici care trăiesc acolo. Vârful atinge 2006 metri, oferind un peisaj carstic arid, dar fascinant.",
+      en: "Cincar towers over the Livno field and is famous for the wild horses living on its slopes. The peak reaches 2,006 meters, offering a stark yet fascinating karst landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Cincar (2006 m)", "Livno-Region", "Population von Wildpferden", "Starke Bora-Winde"],
+      hu: ["Cincar-csúcs (2006 m)", "Livnói kistérség", "Vadlovak populációja", "Erős bóra szelek"],
+      ro: ["Vârful Cincar (2006 m)", "Regiunea Livno", "Populație de cai sălbatici", "Vânturi Bora puternice"],
+      en: ["Cincar peak (2,006 m)", "Livno region", "Wild horse population", "Strong Bora winds"],
+    },
+  },
   {
     id: "bosniaherzegovina-vitorog-relief-v2",
     type: "mountain",
-    name: { de: "Vitorog", hu: "Vitorog", ro: "Vitorog", en: "Vitorog" },
+    name: { de: "Vitorog", hu: "Vitorog", ro: "Vitorog", en: "Vitorog",
+image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"
+},
     coords: [17.0333, 44.1167],
     coordinates: { lat: 44.1167, lng: 17.0333 },
     description: {
@@ -210,11 +370,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.906 m", "Peștera Vaganska", "Cumpăna apelor", "Vedere spre Adriatică"],
       en: ["Elevation: 1,906 meters", "Vaganska karst cave", "Watershed point", "Strategic viewpoint"],
     },
-    imageHint: "Vitorog mountain peak Bosnia", image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"},
+    imageHint: "Vitorog mountain peak Bosnia",
+    image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vitorog liegt im Grenzgebiet zwischen der Republika Srpska und der Föderation. Sein Gipfel auf 1906 m ist ein strategischer Punkt mit weitreichendem Funk-Relais.",
+      hu: "A Vitorog a boszniai Szerb Köztársaság és a Föderáció határvidékén fekszik. 1906 méteres csúcsa stratégiai pont, ahol egy fontos távközlési átjátszóállomás is található.",
+      ro: "Vitorog este situat în zona de frontieră între Republika Srpska și Federație. Vârful său la 1906 m este un punct strategic cu un releu radio important.",
+      en: "Vitorog is situated in the border area between Republika Srpska and the Federation. Its peak at 1,906 meters is a strategic point with a significant radio relay station.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Vitorog (1906 m)", "Zentraler Westteil Bosniens", "Höhlensystem Vaganska", "Gipfel-Relaisstation"],
+      hu: ["Vitorog-csúcs (1906 m)", "Közép-Nyugat-Bosznia", "Vaganska-barlangrendszer", "Átjátszóállomás"],
+      ro: ["Vârful Vitorog (1906 m)", "Bosnia Central-Vestică", "Peștera Vaganska", "Stație releu montană"],
+      en: ["Vitorog peak (1,906 m)", "Central-West Bosnia", "Vaganska cave system", "Summit relay station"],
+    },
+  },
   {
     id: "bosniaherzegovina-sator-relief-v2",
     type: "mountain",
-    name: { de: "Šator", hu: "Šator", ro: "Šator", en: "Šator" },
+    name: { de: "Šator", hu: "Šator", ro: "Šator", en: "Šator",
+image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"
+},
     coords: [16.6, 44.1667],
     coordinates: { lat: 44.1667, lng: 16.6 },
     description: {
@@ -229,11 +405,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful maxim: 1.875 m", "Lacul Šatorsko Jezero", "Zonă protejată", "Munți calcaroși"],
       en: ["Highest peak: 1,875 m", "Šatorsko Jezero lake", "Dinaric range", "Flora reserve"],
     },
-    imageHint: "Sator mountain lake Bosnia", image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"},
+    imageHint: "Sator mountain lake Bosnia",
+    image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Šator im Westen Bosniens ist bekannt für den gleichnamigen Bergsee auf 1488 Metern Höhe. Der höchste Gipfel erreicht eine beachtliche Höhe von 1875 Metern.",
+      hu: "A nyugat-boszniai Šator a 1488 méteren fekvő, kristálytiszta hegyi taváról (Šatorsko jezero) ismert. Legmagasabb csúcsa 1875 méteres magasságba tör.",
+      ro: "Muntele Šator din vestul Bosniei este cunoscut pentru lacul montan omonim situat la 1488 de metri. Cel mai înalt vârf atinge o înălțime considerabilă de 1875 de metri.",
+      en: "Mount Šator in western Bosnia is known for its namesake mountain lake at 1,488 meters. The highest peak reaches a significant elevation of 1,875 meters.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel (1875 m)", "Šatorsko jezero (See)", "West-Bosnien", "Gletschersee-Ursprung"],
+      hu: ["Legmagasabb csúcs (1875 m)", "Sátori-tó (1488 m)", "Nyugat-Bosznia", "Gleccser eredetű tó"],
+      ro: ["Cel mai înalt vârf (1875 m)", "Lacul Šatorsko (1488 m)", "Vestul Bosniei", "Lac de origine glaciară"],
+      en: ["Highest peak (1,875 m)", "Šator Lake (1,488 m)", "Western Bosnia", "Glacial lake origin"],
+    },
+  },
   {
     id: "bosniaherzegovina-klekovaca-relief-v2",
     type: "mountain",
-    name: { de: "Klekovača", hu: "Klekovača", ro: "Klekovača", en: "Klekovača" },
+    name: { de: "Klekovača", hu: "Klekovača", ro: "Klekovača", en: "Klekovača",
+image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"
+},
     coords: [16.5, 44.4333],
     coordinates: { lat: 44.4333, lng: 16.5 },
     description: {
@@ -248,11 +440,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.962 m", "Cel mai înalt vârf din vest", "Etimologie din ienupăr", "Păduri virgine"],
       en: ["Elevation: 1,962 meters", "Highest in the west", "Named after dwarf pine", "Rich in medicinal herbs"],
     },
-    imageHint: "Klekovaca mountain forest Bosnia", image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"},
+    imageHint: "Klekovaca mountain forest Bosnia",
+    image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Klekovača ist der höchste Berg im Nordwesten Bosniens und für ihre artenreiche Flora bekannt. Der Gipfel Velika Klekovača ragt 1962 Meter über den Meeresspiegel.",
+      hu: "A Klekovača Északnyugat-Bosznia legmagasabb hegye, amely gazdag és ritka növényvilágáról híres. A Velika Klekovača csúcsa 1962 méterrel magasodik a tengerszint fölé.",
+      ro: "Klekovača este cel mai înalt munte din nord-vestul Bosniei și este cunoscut pentru flora sa diversă. Vârful Velika Klekovača se ridică la 1962 de metri deasupra mării.",
+      en: "Klekovača is the highest mountain in northwest Bosnia, renowned for its rich and rare flora. The Velika Klekovača peak rises 1,962 meters above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Velika Klekovača (1962 m)", "Region Drvar", "Heimat des Edelweiß", "Dichte Nadelwälder"],
+      hu: ["Velika Klekovača (1962 m)", "Drvar kistérség", "Havasi gyopár élőhelye", "Sűrű fenyvesek"],
+      ro: ["Velika Klekovača (1962 m)", "Regiunea Drvar", "Habitat pentru floarea de colț", "Păduri dese de conifere"],
+      en: ["Velika Klekovača (1,962 m)", "Drvar region", "Edelweiss habitat", "Dense coniferous forests"],
+    },
+  },
   {
     id: "bosniaherzegovina-konjuh-relief-v2",
     type: "mountain",
-    name: { de: "Konjuh", hu: "Konjuh", ro: "Konjuh", en: "Konjuh" },
+    name: { de: "Konjuh", hu: "Konjuh", ro: "Konjuh", en: "Konjuh",
+image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"
+},
     coords: [18.6, 44.3],
     coordinates: { lat: 44.3, lng: 18.6 },
     description: {
@@ -267,11 +475,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: 1.328 m", "Peisaj protejat", "Păduri de fag", "Aproape de Kladanj"],
       en: ["Highest peak: 1,328 m", "Protected landscape", "Rich in beech forests", "Near Kladanj"],
     },
-    imageHint: "Konjuh mountain forest Bosnia", image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"},
+    imageHint: "Konjuh mountain forest Bosnia",
+    image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Konjuh ist ein Mittelgebirge bei Tuzla, das durch dichte Buchen- und Nadelwälder geprägt ist. Der höchste Gipfel des geschützten Gebiets liegt auf 1328 Metern.",
+      hu: "A Tuzla közelében fekvő Konjuh egy középhegység, amelyet sűrű bükk- és fenyőerdők borítanak. A tájvédelmi körzet legmagasabb csúcsa 1328 méter magas.",
+      ro: "Konjuh este un munte de înălțime medie lângă Tuzla, caracterizat prin păduri dese de fag și conifere. Cel mai înalt vârf al zonei protejate se află la 1328 de metri.",
+      en: "Konjuh is a mid-sized mountain range near Tuzla, defined by dense beech and coniferous forests. The highest peak of this protected area stands at 1,328 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Konjuh (1328 m)", "Nähe Kladanj/Banovići", "Geschützte Landschaft", "Flussquelle der Oskova"],
+      hu: ["Konjuh-csúcs (1328 m)", "Kladanj/Banovići környéke", "Tájvédelmi körzet", "Oskova folyó forrása"],
+      ro: ["Vârful Konjuh (1328 m)", "Lângă Kladanj și Banovići", "Peisaj protejat", "Izvorul râului Oskova"],
+      en: ["Konjuh peak (1,328 m)", "Near Kladanj/Banovići", "Protected landscape", "Source of Oskova river"],
+    },
+  },
   {
     id: "bosniaherzegovina-bitovnja-relief-v2",
     type: "mountain",
-    name: { de: "Bitovnja", hu: "Bitovnja", ro: "Bitovnja", en: "Bitovnja" },
+    name: { de: "Bitovnja", hu: "Bitovnja", ro: "Bitovnja", en: "Bitovnja",
+image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"
+},
     coords: [17.95, 43.8167],
     coordinates: { lat: 43.8167, lng: 17.95 },
     description: {
@@ -286,11 +510,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.700 m", "Cumpăna apelor", "Relief calcaros", "Aproape de Kreševo"],
       en: ["Elevation: 1,700 meters", "Watershed point", "Dinaric limestone", "Near Kreševo"],
     },
-    imageHint: "Bitovnja mountain meadows", image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"},
+    imageHint: "Bitovnja mountain meadows",
+    image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bitovnja in Zentralbosnien bildet die Wasserscheide zwischen dem Adriatischen und dem Schwarzen Meer. Ihr höchster Punkt, Lisin, erreicht eine Höhe von 1744 Metern.",
+      hu: "A közép-boszniai Bitovnja alkotja az Adria és a Fekete-tenger közötti vízválasztót. Legmagasabb pontja a 1744 méteres Lisin-csúcs, amely fontos tájékozódási pont.",
+      ro: "Bitovnja, în Bosnia Centrală, formează cumpăna apelor între mările Adriatică și Neagră. Cel mai înalt punct al său, Lisin, atinge o înălțime de 1744 de metri.",
+      en: "Bitovnja in Central Bosnia forms the watershed between the Adriatic and Black Sea basins. Its highest point, Lisin, reaches an elevation of 1,744 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Lisin (1744 m)", "Hauptwasserscheide", "Zentralbosnien", "Vielfältige Pilzflora"],
+      hu: ["Lisin-csúcs (1744 m)", "Fő vízválasztó vonal", "Közép-Bosznia", "Gazdag gombavilág"],
+      ro: ["Vârful Lisin (1744 m)", "Cumpăna apelor principală", "Bosnia Centrală", "Floră micologică bogată"],
+      en: ["Lisin peak (1,744 m)", "Major watershed line", "Central Bosnia", "Diverse fungal flora"],
+    },
+  },
   {
     id: "bosniaherzegovina-radusa-relief-v2",
     type: "mountain",
-    name: { de: "Raduša", hu: "Raduša", ro: "Raduša", en: "Raduša" },
+    name: { de: "Raduša", hu: "Raduša", ro: "Raduša", en: "Raduša",
+image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"
+},
     coords: [17.4667, 43.9167],
     coordinates: { lat: 43.9167, lng: 17.4667 },
     description: {
@@ -305,11 +545,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Idovac: 1.956 m", "Centru de schi", "Vedere spre Lacul Rama", "Munți dinarici"],
       en: ["Highest peak: Idovac", "1,956 m elevation", "Raduša ski center", "View of Rama lake"],
     },
-    imageHint: "Radusa mountain Idovac peak", image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"},
+    imageHint: "Radusa mountain Idovac peak",
+    image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Raduša ist ein Hochgebirge in der Nähe von Gornji Vakuf, bekannt für ihr Skigebiet. Der höchste Gipfel Idovac ragt mit 1956 Metern markant aus der Umgebung hervor.",
+      hu: "A Raduša egy magashegység Gornji Vakuf közelében, amely síközpontjáról nevezetes. Legmagasabb csúcsa az Idovac, amely 1956 méterével uralja a környéket.",
+      ro: "Raduša este un munte înalt lângă Gornji Vakuf, cunoscut pentru stațiunea sa de schi. Cel mai înalt vârf, Idovac, se ridică proeminent la 1956 de metri.",
+      en: "Raduša is a high mountain range near Gornji Vakuf, well-known for its ski resort. Its highest peak, Idovac, rises prominently to 1,956 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Idovac (1956 m)", "Region Gornji Vakuf", "Bedeutendes Wintersportzentrum", "Karst-Hochland"],
+      hu: ["Idovac-csúcs (1956 m)", "Gornji Vakuf kistérség", "Népszerű téli sportközpont", "Karsztfennsík"],
+      ro: ["Vârful Idovac (1956 m)", "Regiunea Gornji Vakuf", "Centru de sporturi de iarnă", "Platou carstic"],
+      en: ["Idovac peak (1,956 m)", "Gornji Vakuf region", "Notable winter sports center", "Karst highland"],
+    },
+  },
   {
     id: "bosniaherzegovina-visocica-relief-v2",
     type: "mountain",
-    name: { de: "Visočica", hu: "Visočica", ro: "Visočica", en: "Visočica" },
+    name: { de: "Visočica", hu: "Visočica", ro: "Visočica", en: "Visočica",
+image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"
+},
     coords: [18.2167, 43.5833],
     coordinates: { lat: 43.5833, lng: 18.2167 },
     description: {
@@ -324,11 +580,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Džamija: 1.967 m", "Canionul Rakitnica", "Necropole UNESCO", "Peisaj alpin"],
       en: ["Highest peak: Džamija", "1,967 m elevation", "Rakitnica canyon", "Ancient Stećci sites"],
     },
-    imageHint: "Visocica mountain Rakitnica canyon", image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"},
+    imageHint: "Visocica mountain Rakitnica canyon",
+    image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Visočica liegt südlich der Bjelašnica und wird durch den tiefen Rakitnica-Canyon begrenzt. Der Gipfel Džamija erreicht 1967 Meter und ist von Bergdörfern umgeben.",
+      hu: "A Visočica a Bjelašnicától délre fekszik, és a mély Rakitnica-kanyon határolja. A 1967 méteres Džamija-csúcsot hagyományos hegyi falvak és legelők veszik körül.",
+      ro: "Visočica este situată la sud de Bjelašnica și este mărginită de adâncul canion Rakitnica. Vârful Džamija atinge 1967 metri și este înconjurat de sate montane.",
+      en: "Visočica lies south of Bjelašnica and is bordered by the deep Rakitnica Canyon. The Džamija peak reaches 1,967 meters and is surrounded by traditional mountain villages.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Džamija (1967 m)", "Rakitnica-Canyon-Grenze", "Südlich von Sarajevo", "Traditionelle Steinhäuser"],
+      hu: ["Džamija-csúcs (1967 m)", "Rakitnica-kanyon határa", "Szarajevótól délre", "Hagyományos kőházas falvak"],
+      ro: ["Vârful Džamija (1967 m)", "Granița canionului Rakitnica", "Sud de Sarajevo", "Sate cu case din piatră"],
+      en: ["Džamija peak (1,967 m)", "Rakitnica Canyon border", "South of Sarajevo", "Traditional stone villages"],
+    },
+  },
   {
     id: "bosniaherzegovina-cabulja-relief-v2",
     type: "mountain",
-    name: { de: "Čabulja", hu: "Čabulja", ro: "Čabulja", en: "Čabulja" },
+    name: { de: "Čabulja", hu: "Čabulja", ro: "Čabulja", en: "Čabulja",
+image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"
+},
     coords: [17.7, 43.4333],
     coordinates: { lat: 43.4333, lng: 17.7 },
     description: {
@@ -343,11 +615,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Velika Vlajna: 1.786 m", "Relief carstic", "Aproape de Mostar", "Pășuni de altitudine"],
       en: ["Highest peak: Velika Vlajna", "1,786 m elevation", "Karst plateau", "Near Mostar"],
     },
-    imageHint: "Cabulja mountain Mostar view", image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"},
+    imageHint: "Cabulja mountain Mostar view",
+    image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Čabulja nördlich von Mostar ist ein karges Kalksteinplateau, das steil zum Neretva-Tal abfällt. Ihr höchster Punkt Velika Vlajna erreicht eine Höhe von 1780 Metern.",
+      hu: "A Mostartól északra fekvő Čabulja egy kopár mészkőfennsík, amely meredeken szakad le a Neretva völgyébe. Legmagasabb pontja a 1780 méteres Velika Vlajna.",
+      ro: "Čabulja, la nord de Mostar, este un podiș carstic arid care coboară abrupt spre valea Neretvei. Cel mai înalt punct al său, Velika Vlajna, atinge 1780 de metri.",
+      en: "Čabulja, north of Mostar, is a barren limestone plateau that drops steeply toward the Neretva Valley. Its highest point, Velika Vlajna, reaches 1,780 meters.",
+    },
+    factsAdvanced: {
+      de: ["Velika Vlajna (1780 m)", "Nördlich von Mostar", "Steilabfall zur Neretva", "Klassischer Dinarischer Karst"],
+      hu: ["Velika Vlajna (1780 m)", "Mostartól északra", "Meredek letörés a Neretvához", "Klasszikus dinári karszt"],
+      ro: ["Velika Vlajna (1780 m)", "Nord de Mostar", "Abrupt spre râul Neretva", "Relief carstic tipic"],
+      en: ["Velika Vlajna (1,780 m)", "North of Mostar", "Steep drop to Neretva", "Classic Dinaric karst"],
+    },
+  },
   {
     id: "bosniaherzegovina-vran-relief-v2",
     type: "mountain",
-    name: { de: "Vran", hu: "Vran", ro: "Vran", en: "Vran" },
+    name: { de: "Vran", hu: "Vran", ro: "Vran", en: "Vran",
+image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"
+},
     coords: [17.5, 43.65],
     coordinates: { lat: 43.65, lng: 17.5 },
     description: {
@@ -362,11 +650,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: 2.074 m", "Parcul Natural Blidinje", "Legende locale", "Relief glaciar"],
       en: ["Highest peak: Veliki Vran", "2,074 m elevation", "Blidinje Nature Park", "Dinaric massif"],
     },
-    imageHint: "Vran mountain Blidinje lake", image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"},
+    imageHint: "Vran mountain Blidinje lake",
+    image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vran liegt im Herzen der Herzegowina oberhalb des Blidinje-Sees. Sein höchster Gipfel Veliki Vran erreicht 2074 Meter und steht der Čvrsnica direkt gegenüber.",
+      hu: "A Vran-hegység Hercegovina szívében, a Blidinje-tó fölé magasodik. Legmagasabb csúcsa, a Veliki Vran 2074 méter magas, közvetlenül szemben állva a Čvrsnicával.",
+      ro: "Muntele Vran este situat în inima Herțegovinei, deasupra lacului Blidinje. Vârful său cel mai înalt, Veliki Vran, atinge 2074 metri și se află vizavi de Čvrsnica.",
+      en: "Vran mountain is located in the heart of Herzegovina, above Blidinje Lake. Its highest peak, Veliki Vran, reaches 2,074 meters and stands directly opposite Čvrsnica.",
+    },
+    factsAdvanced: {
+      de: ["Veliki Vran (2074 m)", "Naturpark Blidinje", "Gegenüber der Čvrsnica", "Hochalpine Weiden"],
+      hu: ["Veliki Vran (2074 m)", "Blidinje Természetvédelmi Park", "Szemben a Čvrsnicával", "Magashegyi legelők"],
+      ro: ["Veliki Vran (2074 m)", "Parcul Natural Blidinje", "Vizavi de muntele Čvrsnica", "Pășuni alpine înalte"],
+      en: ["Veliki Vran (2,074 m)", "Blidinje Nature Park", "Opposite Čvrsnica mountain", "High alpine meadows"],
+    },
+  },
   {
     id: "bosniaherzegovina-pljesevica-relief-v2",
     type: "mountain",
-    name: { de: "Plješevica", hu: "Plješevica", ro: "Plješevica", en: "Plješevica" },
+    name: { de: "Plješevica", hu: "Plješevica", ro: "Plješevica", en: "Plješevica",
+image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"
+},
     coords: [15.75, 44.75],
     coordinates: { lat: 44.75, lng: 15.75 },
     description: {
@@ -381,11 +685,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Ozeblin: 1.657 m", "Granița cu Croația", "Baza subterană Željava", "Relief carstic"],
       en: ["Highest peak: Ozeblin", "1,657 m elevation", "Border mountain range", "Željava airbase location"],
     },
-    imageHint: "Pljesevica mountain Bihac border", image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"},
+    imageHint: "Pljesevica mountain Bihac border",
+    image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Plješevica bildet die natürliche Grenze zwischen Bosnien und Kroatien bei Bihać. Der Gipfel Ozeblin (1657 m) gehört zum Gebirgszug, der für den Flugplatz Željava bekannt ist.",
+      hu: "A Plješevica természetes határt képez Bosznia és Horvátország között Bihaćnál. 1657 méteres Ozeblin-csúcsa és a hegy gyomrába épült Željava repülőtér tette híressé.",
+      ro: "Plješevica formează granița naturală între Bosnia și Croația lângă Bihać. Vârful Ozeblin (1657 m) aparține lanțului montan cunoscut pentru baza aeriană Željava.",
+      en: "Plješevica forms the natural border between Bosnia and Croatia near Bihać. Ozeblin peak (1,657 m) belongs to the range famous for the underground Željava Air Base.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Ozeblin (1657 m)", "Grenze zu Kroatien", "Nähe zu Bihać", "Flugplatz Željava im Berg"],
+      hu: ["Ozeblin-csúcs (1657 m)", "Horvát határvonal", "Bihać közvetlen közelében", "Željava földalatti bázis"],
+      ro: ["Vârful Ozeblin (1657 m)", "Granița cu Croația", "Lângă orașul Bihać", "Baza aeriană Željava"],
+      en: ["Ozeblin peak (1,657 m)", "Croatian border", "Near Bihać city", "Željava underground base"],
+    },
+  },
   {
     id: "bosniaherzegovina-kamesnica-relief-v2",
     type: "mountain",
-    name: { de: "Kamešnica", hu: "Kamešnica", ro: "Kamešnica", en: "Kamešnica" },
+    name: { de: "Kamešnica", hu: "Kamešnica", ro: "Kamešnica", en: "Kamešnica",
+image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"
+},
     coords: [16.9167, 43.75],
     coordinates: { lat: 43.75, lng: 16.9167 },
     description: {
@@ -400,11 +720,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Konj: 1.856 m", "Granița cu Croația", "Vânturi de tip Bora", "Munți calcaroși"],
       en: ["Highest peak: Konj", "1,856 m elevation", "Border with Croatia", "Known for Bora winds"],
     },
-    imageHint: "Kamesnica mountain Konj peak", image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"},
+    imageHint: "Kamesnica mountain Konj peak",
+    image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kamešnica ist die südöstliche Fortsetzung der Dinara an der Grenze zu Kroatien. Ihr höchster Gipfel Konj erreicht 1856 Meter und bietet Sicht auf die Inseln der Adria.",
+      hu: "A Kamešnica a Dinara délkeleti folytatása a horvát határon. Legmagasabb csúcsa a 1856 méteres Konj, ahonnan tiszta időben az adriai szigetek is jól láthatók.",
+      ro: "Kamešnica este continuarea sud-estică a masivului Dinara la granița cu Croația. Cel mai înalt vârf, Konj, atinge 1856 metri și oferă vedere spre insulele Adriatice.",
+      en: "Kamešnica is the southeastern continuation of the Dinara range on the Croatian border. Its highest peak, Konj, reaches 1,856 meters and offers views of Adriatic islands.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Konj (1856 m)", "Grenze zu Kroatien", "Südöstliche Dinara", "Blick auf die Adria"],
+      hu: ["Konj-csúcs (1856 m)", "Horvát határvidék", "Délkeleti-Dinara", "Kilátás az Adriára"],
+      ro: ["Vârful Konj (1856 m)", "Granița cu Croația", "Continuarea masivului Dinara", "Vedere spre Marea Adriatică"],
+      en: ["Konj peak (1,856 m)", "Croatian border", "Southeastern Dinara", "Views of the Adriatic Sea"],
+    },
+  },
   {
     id: "bosniaherzegovina-lelija-relief-v2",
     type: "mountain",
-    name: { de: "Lelija", hu: "Lelija", ro: "Lelija", en: "Lelija" },
+    name: { de: "Lelija", hu: "Lelija", ro: "Lelija", en: "Lelija",
+image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"
+},
     coords: [18.4833, 43.4167],
     coordinates: { lat: 43.4167, lng: 18.4833 },
     description: {
@@ -419,11 +755,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Velika Lelija: 2.032 m", "Geomorfologie carstică", "Munți dinarici", "Peisaj stâncos"],
       en: ["Highest peak: Velika Lelija", "2,032 m elevation", "Karst geomorphology", "Near Kalinovik"],
     },
-    imageHint: "Lelija mountain rocks Bosnia", image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"},
+    imageHint: "Lelija mountain rocks Bosnia",
+    image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lelija liegt südöstlich von Kalinovik und ist für ihre unberührte Natur bekannt. Der Gipfel Velika Lelija erreicht 2032 Meter und gehört zum Komplex der Zelengora.",
+      hu: "A Lelija Kalinoviktól délkeletre fekszik, és érintetlen természeti környezetéről ismert. 2032 méteres Velika Lelija nevű csúcsa a Zelengora-hegycsoport szerves része.",
+      ro: "Lelija este situată la sud-est de Kalinovik și este cunoscută pentru natura sa virgină. Vârful Velika Lelija atinge 2032 metri și aparține complexului Zelengora.",
+      en: "Lelija is located southeast of Kalinovik and is known for its pristine nature. Its Velika Lelija peak reaches 2,032 meters and is part of the Zelengora mountain complex.",
+    },
+    factsAdvanced: {
+      de: ["Velika Lelija (2032 m)", "Region Kalinovik", "Teil der Zelengora-Gruppe", "Unberührte Bergwelt"],
+      hu: ["Velika Lelija (2032 m)", "Kalinovik környéke", "Zelengora-csoport része", "Érintetlen vadon"],
+      ro: ["Velika Lelija (2032 m)", "Regiunea Kalinovik", "Parte din grupul Zelengora", "Natură nealterată"],
+      en: ["Velika Lelija (2,032 m)", "Kalinovik region", "Part of Zelengora group", "Pristine wilderness"],
+    },
+  },
   {
     id: "bosniaherzegovina-ivan-planina-relief-v2",
     type: "mountain",
-    name: { de: "Ivan Planina", hu: "Ivan Planina", ro: "Ivan Planina", en: "Ivan Planina" },
+    name: { de: "Ivan Planina", hu: "Ivan Planina", ro: "Ivan Planina", en: "Ivan Planina",
+image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"
+},
     coords: [18.0333, 43.7667],
     coordinates: { lat: 43.7667, lng: 18.0333 },
     description: {
@@ -438,12 +790,28 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.534 m", "Cumpăna apelor", "Pasul Ivan Sedlo", "Limită geografică regională"],
       en: ["Elevation: 1,534 meters", "Adriatic/Black Sea watershed", "Ivan Sedlo mountain pass", "Bosnia/Herzegovina border"],
     },
-    imageHint: "Ivan Planina mountain pass Bosnia", image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"}
+    imageHint: "Ivan Planina mountain pass Bosnia",
+    image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ivan Planina ist ein Gebirgszug südlich von Sarajevo, der die historische Grenze zwischen Bosnien und der Herzegowina bildet. Der Gipfel Lupoglav liegt auf 1534 m.",
+      hu: "Az Ivan Planina egy hegylánc Szarajevótól délre, amely Bosznia és Hercegovina történelmi határát alkotja. Legmagasabb pontja a 1534 méteres Lupoglav-csúcs.",
+      ro: "Ivan Planina este un lanț muntos la sud de Sarajevo, care formează granița istorică între Bosnia și Herțegovina. Vârful Lupoglav se află la 1534 m.",
+      en: "Ivan Planina is a mountain range south of Sarajevo, forming the historical border between Bosnia and Herzegovina. Its Lupoglav peak stands at 1,534 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Lupoglav (1534 m)", "Grenze Bosnien-Herzegowina", "Ivan-Sattel (Pass)", "Wichtiger Verkehrsknoten"],
+      hu: ["Lupoglav-csúcs (1534 m)", "Bosznia-Hercegovina határa", "Ivan-nyereg (hágó)", "Fontos közlekedési folyosó"],
+      ro: ["Vârful Lupoglav (1534 m)", "Limita Bosnia-Herțegovina", "Pasul Ivan (șaua)", "Coridor vital de transport"],
+      en: ["Lupoglav peak (1,534 m)", "Bosnia-Herzegovina border", "Ivan Saddle (mountain pass)", "Key transport corridor"],
+    },
+  }
 ,
   {
     id: "bosniaherzegovina-osjecenica-relief-v2",
     type: "mountain",
-    name: { de: "Osječenica", hu: "Osječenica-hegység", ro: "Muntele Osječenica", en: "Osječenica" },
+    name: { de: "Osječenica", hu: "Osječenica-hegység", ro: "Muntele Osječenica", en: "Osječenica",
+image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp"
+},
     coordinates: { lat: 44.5036, lng: 16.3025 },
     description: {
       de: "Ein markanter Kalksteinberg im Westen Bosniens, der bis auf 1.795 Meter ansteigt. Er zeichnet sich durch einen langen Bergrücken und steile Klippen aus, die weite Ausblicke über die Karstplateaus bieten.",
@@ -458,11 +826,25 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       en: ["Summit height reaches 1,795 meters", "Notable for its 500-meter long rocky ridge", "Surrounded by Petrovac and Medeno fields", "Composed primarily of Triassic limestone"],
     },
     imageHint: "Osjecenica mountain rocky ridge western Bosnia",
+    descriptionAdvanced: {
+      de: "Die Osječenica im Westen Bosniens ist bekannt für ihre markante, abgeschnittene Gipfelform. Der höchste Punkt erreicht 1795 Meter und dominiert das Petrovac-Feld.",
+      hu: "A nyugat-boszniai Osječenica jellegzetes, „levágott” csúcsformájáról kapta a nevét. 1795 méteres magasságával a Petrovaci-mező (Petrovačko polje) fölé magasodik.",
+      ro: "Osječenica, în vestul Bosniei, este cunoscută pentru forma sa distinctivă de vârf „tăiat”. Cel mai înalt punct atinge 1795 de metri și domină câmpia Petrovac.",
+      en: "Osječenica in western Bosnia is known for its distinctive, \"cut-off\" peak shape. Its highest point reaches 1,795 meters and dominates the Petrovac Field.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel (1795 m)", "Nähe Bosanski Petrovac", "Besonderer Karst-Relief", "Blick auf Grmeč"],
+      hu: ["Legmagasabb csúcs (1795 m)", "Bosanski Petrovac közelében", "Különleges karsztmorfológia", "Kilátás a Grmečre"],
+      ro: ["Cel mai înalt vârf (1795 m)", "Lângă Bosanski Petrovac", "Relief carstic specific", "Vedere spre muntele Grmeč"],
+      en: ["Highest peak (1,795 m)", "Near Bosanski Petrovac", "Unique karst morphology", "View of Grmeč mountain"],
+    },
   },
   {
     id: "bosniaherzegovina-crvanj-relief-v2",
     type: "mountain",
-    name: { de: "Crvanj", hu: "Crvanj-hegység", ro: "Muntele Crvanj", en: "Crvanj" },
+    name: { de: "Crvanj", hu: "Crvanj-hegység", ro: "Muntele Crvanj", en: "Crvanj",
+image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"
+},
     coordinates: { lat: 43.3739, lng: 18.1714 },
     description: {
       de: "Ein Berg in der östlichen Herzegowina, nördlich von Nevesinje, dessen höchster Gipfel Zimomor 1.920 Meter erreicht. Er bildet eine natürliche Grenze zwischen den Karstfeldern von Nevesinje und Gacko.",
@@ -476,11 +858,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Zimomor are 1.920 de metri", "Situat în regiunea Herțegovinei Superioare", "Mărginit la nord de râul Neretva", "Zonă tradițională de pășunat pentru oi"],
       en: ["Highest summit Zimomor reaches 1,920 meters", "Located in the Upper Herzegovina region", "Bordered by the Neretva river to the north", "Features traditional high-altitude grazing"],
     },
-    imageHint: "Crvanj mountain landscape near Nevesinje", image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"},
+    imageHint: "Crvanj mountain landscape near Nevesinje",
+    image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Crvanj liegt in der Ostherzegowina nahe Nevesinje. Sein höchster Gipfel Zimomor erreicht 1920 Meter und überblickt den Oberlauf des Flusses Neretva.",
+      hu: "A Crvanj Kelet-Hercegovinában, Nevesinje közelében található. Legmagasabb csúcsa a 1920 méteres Zimomor, ahonnan remek kilátás nyílik a Neretva felső folyására.",
+      ro: "Crvanj este situat în Herțegovina de Est, lângă Nevesinje. Vârful său cel mai înalt, Zimomor, atinge 1920 metri și domină cursul superior al râului Neretva.",
+      en: "Crvanj is located in East Herzegovina near Nevesinje. Its highest peak, Zimomor, reaches 1,920 meters and overlooks the upper course of the Neretva River.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Zimomor (1920 m)", "Region Nevesinje", "Dinarisches Kalkgebirge", "Viehwirtschaftsprägung"],
+      hu: ["Zimomor-csúcs (1920 m)", "Nevesinje kistérség", "Dinári mészkőhegység", "Hagyományos állattartás"],
+      ro: ["Vârful Zimomor (1920 m)", "Regiunea Nevesinje", "Munți calcaroși dinarici", "Tradiție în oierit"],
+      en: ["Zimomor peak (1,920 m)", "Nevesinje region", "Dinaric limestone range", "Pastoral traditions"],
+    },
+  },
   {
     id: "bosniaherzegovina-popovopolje-relief-v2",
     type: "valley",
-    name: { de: "Popovo Polje", hu: "Popovo Polje", ro: "Popovo Polje", en: "Popovo Polje" },
+    name: { de: "Popovo Polje", hu: "Popovo Polje", ro: "Popovo Polje", en: "Popovo Polje",
+image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"
+},
     coordinates: { lat: 42.8333, lng: 18.0 },
     description: {
       de: "Eines der größten Karstfelder der Welt im Süden der Herzegowina. Der Fluss Trebišnjica fließt durch diese tektonische Senke, die für ihren fruchtbaren Boden und ihre Ponore bekannt ist.",
@@ -494,11 +892,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Suprafață totală de circa 181 km²", "Râul Trebišnjica are un curs subteran aici", "Unul dintre cele mai mari polji din Balcani", "Altitudine cuprinsă între 200 și 250 m"],
       en: ["Total area of 181 square kilometers", "Trebišnjica river flows underground here", "One of the largest karst poljes in Balkans", "Elevation between 200 and 250 meters"],
     },
-    imageHint: "Aerial view of Popovo Polje karst field", image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"},
+    imageHint: "Aerial view of Popovo Polje karst field",
+    image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Popovo Polje ist eines der größten Karstfelder der Welt im Süden der Herzegowina. Der Fluss Trebišnjica durchfließt es als einer der längsten Versickerungsflüsse.",
+      hu: "A Popovo Polje a világ egyik legnagyobb karsztmezeje Dél-Hercegovinában. A rajta átfolyó Trebišnjica a Föld egyik leghosszabb búvófolyója (víznyelőkkel teli).",
+      ro: "Popovo Polje este una dintre cele mai mari depresiuni carstice din lume, în sudul Herțegovinei. Râul Trebišnjica o traversează, fiind un râu intermitent lung.",
+      en: "Popovo Polje is one of the largest karst fields in the world, located in southern Herzegovina. The Trebišnjica River flows through it as a major sinking stream.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 180 km²", "Fluss Trebišnjica", "Region Trebinje", "Zahlreiche Höhlensysteme"],
+      hu: ["Területe kb. 180 km²", "Trebišnjica-folyó", "Trebinje környéke", "Számos barlangrendszer"],
+      ro: ["Suprafață aprox. 180 km²", "Râul Trebišnjica", "Regiunea Trebinje", "Sisteme cavernicol abundente"],
+      en: ["Area approx. 180 km²", "Trebišnjica River", "Trebinje region", "Extensive cave systems"],
+    },
+  },
   {
     id: "bosniaherzegovina-cemerno-relief-v2",
     type: "peak",
-    name: { de: "Čemerno", hu: "Čemerno-hágó", ro: "Trecătoarea Čemerno", en: "Čemerno" },
+    name: { de: "Čemerno", hu: "Čemerno-hágó", ro: "Trecătoarea Čemerno", en: "Čemerno",
+image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"
+},
     coordinates: { lat: 43.2536, lng: 18.5919 },
     description: {
       de: "Ein Gebirgszug und Hochpass in Ostbosnien, der als hydrologische Wasserscheide zwischen den Einzugsgebieten der Adria und des Schwarzen Meeres dient. Der Gipfel erreicht eine Höhe von 1.607 Metern.",
@@ -512,11 +926,27 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful maxim are 1.607 metri", "Cumpănă de ape hidrologică majoră", "Separă bazinele Adriaticei și Mării Negre", "Locul unei trecători montane strategice"],
       en: ["Highest peak reaches 1,607 meters", "Acts as a major hydrological watershed", "Separates Adriatic and Black Sea basins", "Location of a strategic mountain pass"],
     },
-    imageHint: "Cemerno mountain pass and rugged peaks", image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"},
+    imageHint: "Cemerno mountain pass and rugged peaks",
+    image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Čemerno ist ein Gebirgspass auf 1329 m, der die Wasserscheide zwischen dem Adriatischen und dem Schwarzen Meer bildet. Er verbindet das Drina- mit dem Neretva-Becken.",
+      hu: "A Čemerno egy 1329 méter magasan fekvő hágó, amely az Adria és a Fekete-tenger vízválasztója. Összeköti a Drina-medencét a Neretva völgyével.",
+      ro: "Čemerno este o trecătoare montană la 1329 m, care formează cumpăna apelor între mările Adriatică și Neagră. Conectează bazinele râurilor Drina și Neretva.",
+      en: "Čemerno is a mountain pass at 1,329 meters, forming the watershed between the Adriatic and Black Sea basins. It connects the Drina and Neretva river basins.",
+    },
+    factsAdvanced: {
+      de: ["Passhöhe (1329 m)", "Hauptwasserscheide", "Region Gacko", "Zufahrt zum NP Sutjeska"],
+      hu: ["Hágó magassága (1329 m)", "Fő vízválasztó pont", "Gacko kistérség", "Sutjeska NP kapuja"],
+      ro: ["Înălțimea pasului (1329 m)", "Cumpăna apelor principală", "Regiunea Gacko", "Acces spre PN Sutjeska"],
+      en: ["Pass elevation (1,329 m)", "Major watershed point", "Gacko region", "Access to Sutjeska NP"],
+    },
+  },
   {
     id: "bosniaherzegovina-manjaca-relief-v2",
     type: "mountain",
-    name: { de: "Manjača", hu: "Manjača-hegység", ro: "Muntele Manjača", en: "Manjača" },
+    name: { de: "Manjača", hu: "Manjača-hegység", ro: "Muntele Manjača", en: "Manjača",
+image: "/poi-images/bosniaherzegovina-manjaca-relief-v2.webp"
+},
     coordinates: { lat: 44.6, lng: 17.05 },
     description: {
       de: "Ein Berg und Karstplateau südlich von Banja Luka in der Region Bosanska Krajina. Es ist bekannt für seine vielfältigen Kalksteinformationen und Weiden, wobei der höchste Gipfel 1.239 Meter erreicht.",
@@ -531,5 +961,17 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       en: ["Highest peak is 1,239 meters", "Characterized by vast karst plateaus", "Located 25 kilometers from Banja Luka", "Rich in traditional livestock pastures"],
     },
     imageHint: "Manjaca mountain plateau landscape",
+    descriptionAdvanced: {
+      de: "Die Manjača ist ein Gebirgsplateau südlich von Banja Luka, bekannt für seine karge Karstlandschaft und Almwirtschaft. Der höchste Gipfel liegt auf 1239 Metern.",
+      hu: "A Manjača egy hegyvidéki fennsík Banja Lukától délre, amely kopár karsztvidékéről és legelőiről ismert. Legmagasabb pontja a 1239 méteres Velika Manjača csúcs.",
+      ro: "Manjača este un podiș montan la sud de Banja Luka, cunoscut pentru peisajul său carstic arid și păstorit. Cel mai înalt vârf se află la 1239 de metri.",
+      en: "Manjača is a mountain plateau south of Banja Luka, known for its barren karst landscape and pastoralism. Its highest peak stands at 1,239 meters.",
+    },
+    factsAdvanced: {
+      de: ["Velika Manjača (1239 m)", "Südlich von Banja Luka", "Karst-Hochebene", "Traditionelle Kočić-Tage"],
+      hu: ["Velika Manjača (1239 m)", "Banja Lukától délre", "Karsztfennsík", "Hagyományos ünnepségek"],
+      ro: ["Velika Manjača (1239 m)", "Sud de Banja Luka", "Podiș carstic", "Evenimente tradiționale"],
+      en: ["Velika Manjača (1,239 m)", "South of Banja Luka", "Karst plateau", "Traditional festivals"],
+    },
   }
 ];

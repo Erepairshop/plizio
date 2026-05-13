@@ -11,8 +11,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Cordillera Occidental (Kolumbien)",
       hu: "Nyugati-Kordillerák (Kolumbia)",
       ro: "Cordiliera Occidentală (Columbia)",
-      en: "Cordillera Occidental (Colombia)"
-    },
+      en: "Cordillera Occidental (Colombia)",
+image: "/poi-images/co-cordillera-occidental-relief-v2.webp"
+},
     description: {
       de: "Die Cordillera Occidental ist der westlichste Zweig der kolumbianischen Anden, der sich parallel zur Pazifikküste erstreckt.",
       hu: "A Nyugati-Kordillerák a kolumbiai Andok legnyugatibb láncolata, amely a csendes-óceáni partvidékkel párhuzamosan fut.",
@@ -68,8 +69,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Cordillera Central (Kolumbien)",
       hu: "Középső-Kordillerák (Kolumbia)",
       ro: "Cordiliera Centrală (Columbia)",
-      en: "Cordillera Central (Colombia)"
-    },
+      en: "Cordillera Central (Colombia)",
+image: "/poi-images/co-cordillera-central-relief-v2.webp"
+},
     description: {
       de: "Die Cordillera Central ist der höchste der drei Andenzweige in Kolumbien und beherbergt zahlreiche aktive Vulkane.",
       hu: "A Középső-Kordillerák a kolumbiai Andok legmagasabb lánca, amely számos aktív vulkánnak ad otthont.",
@@ -125,8 +127,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Cordillera Oriental (Kolumbien)",
       hu: "Keleti-Kordillerák (Kolumbia)",
       ro: "Cordiliera Orientală (Columbia)",
-      en: "Cordillera Oriental (Colombia)"
-    },
+      en: "Cordillera Oriental (Colombia)",
+image: "/poi-images/co-cordillera-oriental-relief-v2.webp"
+},
     description: {
       de: "Die Cordillera Oriental ist der breiteste Zweig der kolumbianischen Anden und Heimat der Hochebene von Bogotá.",
       hu: "A Keleti-Kordillerák a kolumbiai Andok legszélesebb láncolata, és a bogotái fennsík otthona.",
@@ -182,8 +185,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Macizo Colombiano",
       hu: "Kolumbiai-masszívum",
       ro: "Masivul Columbian",
-      en: "Colombian Massif"
-    },
+      en: "Colombian Massif",
+image: "/poi-images/co-macizo-colombiano-relief-v2.webp"
+},
     description: {
       de: "Das Macizo Colombiano ist der Hauptwasserscheidepunkt des Landes, wo die Anden sich in ihre drei Hauptketten teilen.",
       hu: "A Kolumbiai-masszívum az ország fő vízválasztója, ahol az Andok három fő láncra válik szét.",
@@ -239,8 +243,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Sierra Nevada de Santa Marta",
       hu: "Sierra Nevada de Santa Marta",
       ro: "Sierra Nevada de Santa Marta",
-      en: "Sierra Nevada de Santa Marta"
-    },
+      en: "Sierra Nevada de Santa Marta",
+image: "/poi-images/co-sierra-nevada-santa-marta-relief-v2.webp"
+},
     description: {
       de: "Die Sierra Nevada de Santa Marta ist das höchste Küstengebirge der Welt und geologisch von den Anden isoliert.",
       hu: "A Sierra Nevada de Santa Marta a világ legmagasabb partmenti hegysége, geológiailag elszigetelve az Andoktól.",
@@ -296,8 +301,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Serranía de la Macarena",
       hu: "Serranía de la Macarena",
       ro: "Serranía de la Macarena",
-      en: "Serranía de la Macarena"
-    },
+      en: "Serranía de la Macarena",
+image: "/poi-images/co-serrania-macarena-relief-v2.webp"
+},
     description: {
       de: "Die Serranía de la Macarena ist ein isoliertes Gebirge, das Elemente des Amazonas, des Orinoco und der Anden vereint.",
       hu: "A Serranía de la Macarena egy elszigetelt hegység, amely ötvözi az Amazonas, az Orinoco és az Andok elemeit.",
@@ -353,8 +359,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Serranía del Baudó",
       hu: "Baudó-hegység",
       ro: "Serranía del Baudó",
-      en: "Serranía del Baudó"
-    },
+      en: "Serranía del Baudó",
+image: "/poi-images/co-serrania-baudo-relief-v2.webp"
+},
     description: {
       de: "Die Serranía del Baudó ist ein dicht bewaldeter Gebirgszug entlang der Pazifikküste Kolumbiens, der sich bis nach Panama erstreckt.",
       hu: "A Baudó-hegység egy sűrű erdővel borított hegylánc Kolumbia csendes-óceáni partvidéke mentén, amely Panamáig húzódik.",
@@ -410,8 +417,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Serranía de Chiribiquete",
       hu: "Chiribiquete-hegység",
       ro: "Serranía de Chiribiquete",
-      en: "Serranía de Chiribiquete"
-    },
+      en: "Serranía de Chiribiquete",
+image: "/poi-images/co-serrania-chiribiquete-relief-v2.webp"
+},
     description: {
       de: "Die Serranía de Chiribiquete besteht aus markanten Tepuis im Amazonas-Regenwald und ist für ihre alten Felsmalereien bekannt.",
       hu: "A Chiribiquete-hegység jellegzetes tepuikból áll az Amazonas esőerdejében, és ősi sziklafestményeiről ismert.",
@@ -467,8 +475,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Serranía del Darién",
       hu: "Darién-hegység",
       ro: "Serranía del Darién",
-      en: "Serranía del Darién"
-    },
+      en: "Serranía del Darién",
+image: "/poi-images/co-serrania-darien-relief-v2.webp"
+},
     description: {
       de: "Die Serranía del Darién bildet die natürliche Grenze zwischen Kolumbien und Panama und ist mit dichtem Dschungel bedeckt.",
       hu: "A Darién-hegység alkotja a természetes határt Kolumbia és Panama között, és sűrű dzsungel borítja.",
@@ -524,8 +533,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Serranía del Perijá",
       hu: "Perijá-hegység",
       ro: "Serranía del Perijá",
-      en: "Serranía del Perijá"
-    },
+      en: "Serranía del Perijá",
+image: "/poi-images/co-serrania-perija-relief-v2.webp"
+},
     description: {
       de: "Die Serranía del Perijá ist die nördlichste Ausläuferkette der Anden und markiert die Grenze zwischen Kolumbien und Venezuela.",
       hu: "A Perijá-hegység az Andok legészakibb nyúlványa, amely kijelöli a Kolumbia és Venezuela közötti határt.",
@@ -581,8 +591,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Vulkan Azufral",
       hu: "Azufral vulkán",
       ro: "Vulcanul Azufral",
-      en: "Azufral Volcano"
-    },
+      en: "Azufral Volcano",
+image: "/poi-images/co-vulkan-azufral-relief-v2.webp"
+},
     description: {
       de: "Der Azufral ist ein halbschlafender Vulkan im Süden Kolumbiens, bekannt für die grüne Laguna Verde in seinem Krater.",
       hu: "Az Azufral egy félig szunnyadó vulkán Kolumbia déli részén, amely a kráterében lévő zöld Laguna Verdéről ismert.",
@@ -638,8 +649,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Vulkan Doña Juana",
       hu: "Doña Juana vulkán",
       ro: "Vulcanul Doña Juana",
-      en: "Doña Juana Volcano"
-    },
+      en: "Doña Juana Volcano",
+image: "/poi-images/co-vulkan-dona-juana-relief-v2.webp"
+},
     description: {
       de: "Der Vulkan Doña Juana ist ein explosiver Stratovulkan im kolumbianischen Macizo und von einem dichten Nebelwald umgeben.",
       hu: "A Doña Juana vulkán egy robbanékony rétegvulkán a Kolumbiai-masszívumban, amelyet sűrű köderdő vesz körül.",
@@ -695,8 +707,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Vulkan Machín",
       hu: "Machín vulkán",
       ro: "Vulcanul Machín",
-      en: "Machín Volcano"
-    },
+      en: "Machín Volcano",
+image: "/poi-images/co-vulkan-machin-relief-v2.webp"
+},
     description: {
       de: "Der Vulkan Machín ist ein kleiner, aber gefährlicher Vulkan in der Zentralkordillere, der für sein explosives Potenzial gefürchtet ist.",
       hu: "A Machín vulkán egy kicsi, de veszélyes vulkán a Középső-Kordillerákban, amely robbanékony potenciáljáról rettegett.",
@@ -752,8 +765,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Vulkan Sotará",
       hu: "Sotará vulkán",
       ro: "Vulcanul Sotará",
-      en: "Sotará Volcano"
-    },
+      en: "Sotará Volcano",
+image: "/poi-images/co-vulkan-sotara-relief-v2.webp"
+},
     description: {
       de: "Der Sotará ist ein markanter Vulkan in der Zentralkordillere südlich von Popayán, der oft von Wolken verhüllt ist.",
       hu: "A Sotará egy jellegzetes vulkán a Középső-Kordillerákban Popayántól délre, amelyet gyakran felhők borítanak.",
@@ -809,8 +823,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Vulkan Cumbal",
       hu: "Cumbal vulkán",
       ro: "Vulcanul Cumbal",
-      en: "Cumbal Volcano"
-    },
+      en: "Cumbal Volcano",
+image: "/poi-images/co-vulkan-cumbal-relief-v2.webp"
+},
     description: {
       de: "Der Vulkan Cumbal ist der höchste Gipfel im Süden Kolumbiens und ein aktiver Stratovulkan nahe der Grenze zu Ecuador.",
       hu: "A Cumbal vulkán Kolumbia déli részének legmagasabb csúcsa, és egy aktív rétegvulkán az ecuadori határ közelében.",
@@ -864,8 +879,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Vulkan Chiles",
       hu: "Chiles vulkán",
       ro: "Vulcanul Chiles",
-      en: "Chiles Volcano"
-    },
+      en: "Chiles Volcano",
+image: "/poi-images/co-vulkan-chiles-relief-v2.webp"
+},
     description: {
       de: "Der Vulkan Chiles liegt direkt auf der Grenze zwischen Kolumbien und Ecuador und bildet ein vulkanisches Zwillingssystem mit dem Cerro Negro.",
       hu: "A Chiles vulkán közvetlenül a kolumbiai-ecuadori határon fekszik, és vulkáni ikerrendszert alkot a Cerro Negróval.",
@@ -921,8 +937,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Páramo de Sumapaz",
       hu: "Sumapaz-páramo",
       ro: "Páramo de Sumapaz",
-      en: "Sumapaz Páramo"
-    },
+      en: "Sumapaz Páramo",
+image: "/poi-images/co-paramo-sumapaz-relief-v2.webp"
+},
     description: {
       de: "Der Páramo de Sumapaz südlich von Bogotá ist das größte Páramo-Ökosystem der Welt und ein entscheidendes Wasserreservoir.",
       hu: "A Bogotától délre fekvő Sumapaz-páramo a világ legnagyobb páramo ökoszisztémája, és létfontosságú víztározó.",
@@ -978,8 +995,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Páramo de Santurbán",
       hu: "Santurbán-páramo",
       ro: "Páramo de Santurbán",
-      en: "Santurbán Páramo"
-    },
+      en: "Santurbán Páramo",
+image: "/poi-images/co-paramo-santurban-relief-v2.webp"
+},
     description: {
       de: "Der Páramo de Santurbán in den östlichen Anden ist ein Hochgebirgsökosystem, das zunehmend durch Bergbau bedroht wird.",
       hu: "A Keleti-Andokban található Santurbán-páramo egy magashegyi ökoszisztéma, amelyet egyre inkább veszélyeztet a bányászat.",
@@ -1035,8 +1053,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Páramo de Ocetá",
       hu: "Ocetá-páramo",
       ro: "Páramo de Ocetá",
-      en: "Ocetá Páramo"
-    },
+      en: "Ocetá Páramo",
+image: "/poi-images/co-paramo-oceta-relief-v2.webp"
+},
     description: {
       de: "Der Páramo de Ocetá gilt aufgrund seiner spektakulären Steingärten und unberührten Landschaften als der schönste Páramo Kolumbiens.",
       hu: "Látványos sziklakertjei és érintetlen tájai miatt az Ocetá-páramót Kolumbia legszebb páramójának tartják.",
@@ -1092,8 +1111,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Tatacoa-Wüste",
       hu: "Tatacoa-sivatag",
       ro: "Deșertul Tatacoa",
-      en: "Tatacoa Desert"
-    },
+      en: "Tatacoa Desert",
+image: "/poi-images/co-desierto-tatacoa-relief-v2.webp"
+},
     description: {
       de: "Die Tatacoa-Wüste ist eigentlich ein tropischer Trockenwald, bekannt für ihre rötlich und grau gefärbten, stark erodierten Schluchten.",
       hu: "A Tatacoa-sivatag valójában egy trópusi száraz erdő, amely vöröses és szürkés színű, erősen erodálódott szurdokairól ismert.",
@@ -1149,8 +1169,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "La Guajira-Wüste",
       hu: "Guajira-sivatag",
       ro: "Deșertul La Guajira",
-      en: "La Guajira Desert"
-    },
+      en: "La Guajira Desert",
+image: "/poi-images/co-desierto-guajira-relief-v2.webp"
+},
     description: {
       de: "Die La Guajira-Wüste ist eine weitläufige Trockenregion im äußersten Norden Südamerikas, wo Sanddünen auf das Karibische Meer treffen.",
       hu: "A Guajira-sivatag egy kiterjedt száraz régió Dél-Amerika legészakibb részén, ahol a homokdűnék találkoznak a Karib-tengerrel.",
@@ -1204,8 +1225,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Farallones de Cali",
       hu: "Farallones de Cali",
       ro: "Farallones de Cali",
-      en: "Farallones de Cali"
-    },
+      en: "Farallones de Cali",
+image: "/poi-images/co-farallones-cali-relief-v2.webp"
+},
     description: {
       de: "Die Farallones de Cali sind markante Felsgipfel in der Westkordillere, die eine beeindruckende Kulisse für die Stadt Cali bilden.",
       hu: "A Farallones de Cali jellegzetes sziklacsúcsok a Nyugati-Kordillerákban, amelyek lenyűgöző hátteret biztosítanak Cali városának.",
@@ -1261,8 +1283,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Cerro de Guadalupe",
       hu: "Guadalupe-hegy",
       ro: "Cerro de Guadalupe",
-      en: "Cerro de Guadalupe"
-    },
+      en: "Cerro de Guadalupe",
+image: "/poi-images/co-cerro-guadalupe-relief-v2.webp"
+},
     description: {
       de: "Der Cerro de Guadalupe ist ein markanter Berg, der sich zusammen mit dem Monserrate über der Hauptstadt Bogotá erhebt.",
       hu: "A Guadalupe-hegy egy jellegzetes hegy, amely a Monserrate-tal együtt magasodik Bogotá fővárosa fölé.",
@@ -1318,8 +1341,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Serranía de San Lucas",
       hu: "San Lucas-hegység",
       ro: "Serranía de San Lucas",
-      en: "Serranía de San Lucas"
-    },
+      en: "Serranía de San Lucas",
+image: "/poi-images/co-serrania-san-lucas-relief-v2.webp"
+},
     description: {
       de: "Die Serranía de San Lucas ist ein isoliertes Gebirgsmassiv im Norden Kolumbiens, das dichte Wälder und reichhaltige Goldvorkommen birgt.",
       hu: "A San Lucas-hegység egy elszigetelt hegytömb Kolumbia északi részén, amely sűrű erdőket és gazdag aranylelőhelyeket rejt.",
@@ -1375,8 +1399,9 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Darién-Lücke",
       hu: "Darién-régió esőerdeje",
       ro: "Regiunea Darién",
-      en: "Darién Gap"
-    },
+      en: "Darién Gap",
+image: "/poi-images/co-tapon-darien-relief-v2.webp"
+},
     description: {
       de: "Die Darién-Lücke ist ein extrem dichter, wegeloser Dschungelbereich, der Süd- und Mittelamerika voneinander trennt.",
       hu: "A Darién-régió egy rendkívül sűrű, úttalan dzsungelterület, amely elválasztja Dél- és Közép-Amerikát.",

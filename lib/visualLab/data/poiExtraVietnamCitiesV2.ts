@@ -12,7 +12,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Hanoi",
       ro: "Hanoi",
       en: "Hanoi",
-    },
+image: "/poi-images/hanoi-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt Vietnams, bekannt für ihre jahrhundertealte Architektur und eine reiche Kultur mit südostasiatischen, chinesischen und französischen Einflüssen.",
       hu: "Vietnám fővárosa, évszázados építészetéről és gazdag kultúrájáról ismert, amely délkelet-ázsiai, kínai és francia hatásokat ötvöz.",
@@ -48,7 +49,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Ho Si Minh-város",
       ro: "Ho Și Min",
       en: "Ho Chi Minh City",
-    },
+image: "/poi-images/ho-chi-minh-city-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt Vietnams, berühmt für ihre zentrale Rolle im Vietnamkrieg und ihre französische Kolonialarchitektur.",
       hu: "Vietnám legnagyobb városa, híres a vietnámi háborúban betöltött központi szerepéről és a francia gyarmati építészetéről.",
@@ -84,7 +86,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Bắc Ninh",
       ro: "Bắc Ninh",
       en: "Bắc Ninh",
-    },
+image: "/poi-images/bac-ninh-cities-v2.webp"
+},
     description: {
       de: "Eine schnell wachsende Industriestadt und das traditionelle Zentrum des Quan-họ-Volksgesangs.",
       hu: "Gyorsan növekvő ipari város és a Quan họ népi éneklés hagyományos központja.",
@@ -120,7 +123,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Hải Dương",
       ro: "Hải Dương",
       en: "Hải Dương",
-    },
+image: "/poi-images/hai-duong-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Delta des Roten Flusses, die für ihre traditionellen grünen Bohnenkuchen bekannt ist.",
       hu: "Város a Vörös-folyó deltájában, híres a hagyományos zöldbab süteményéről.",
@@ -156,7 +160,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Vĩnh Yên",
       ro: "Vĩnh Yên",
       en: "Vĩnh Yên",
-    },
+image: "/poi-images/vinh-yen-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Provinz Vĩnh Phúc und ein wichtiges wirtschaftliches Zentrum in der Nähe von Hanoi.",
       hu: "Vĩnh Phúc tartomány fővárosa és fontos gazdasági központ Hanoi közelében.",
@@ -192,7 +197,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Thái Bình",
       ro: "Thái Bình",
       en: "Thái Bình",
-    },
+image: "/poi-images/thai-binh-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der gleichnamigen Provinz, gelegen im fruchtbaren Delta des Roten Flusses.",
       hu: "Az azonos nevű tartomány fővárosa, a termékeny Vörös-folyó deltájában található.",
@@ -228,7 +234,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Phủ Lý",
       ro: "Phủ Lý",
       en: "Phủ Lý",
-    },
+image: "/poi-images/phu-ly-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Ufer des Đáy-Flusses, die im Vietnamkrieg schwer zerstört und danach wiederaufgebaut wurde.",
       hu: "Város a Đáy-folyó partján, amelyet a vietnami háborúban súlyosan leromboltak, majd újjáépítettek.",
@@ -264,7 +271,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Ninh Bình",
       ro: "Ninh Bình",
       en: "Ninh Bình",
-    },
+image: "/poi-images/ninh-binh-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'trockene Halong-Bucht' wegen seiner atemberaubenden Landschaft aus Karstfelsen und Reisfeldern.",
       hu: "A 'szárazföldi Halong-öbölként' ismert a lenyűgöző karszt-sziklákból és rizsföldekből álló tája miatt.",
@@ -300,7 +308,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Bắc Giang",
       ro: "Bắc Giang",
       en: "Bắc Giang",
-    },
+image: "/poi-images/bac-giang-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt nordöstlich von Hanoi, die für ihre Litschis und ihre strategische Lage bekannt ist.",
       hu: "Város Hanoitól északkeletre, licsijéről és stratégiai fekvéséről ismert.",
@@ -336,7 +345,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Móng Cái",
       ro: "Móng Cái",
       en: "Móng Cái",
-    },
+image: "/poi-images/mong-cai-cities-v2.webp"
+},
     description: {
       de: "Eine Grenzstadt in der Provinz Quảng Ninh, ein wichtiger Handelsposten zwischen Vietnam und China.",
       hu: "Határváros Quảng Ninh tartományban, fontos kereskedelmi pont Vietnám és Kína között.",
@@ -372,7 +382,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Lào Cai",
       ro: "Lào Cai",
       en: "Lào Cai",
-    },
+image: "/poi-images/lao-cai-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Grenzstadt im Nordwesten, das Tor zur Bergstadt Sa Pa und zum Handel mit China.",
       hu: "Fontos északnyugati határváros, kapu Sa Pa hegyi városához és a Kínával folytatott kereskedelemhez.",
@@ -408,7 +419,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Điện Biên Phủ",
       ro: "Điện Biên Phủ",
       en: "Điện Biên Phủ",
-    },
+image: "/poi-images/dien-bien-phu-cities-v2.webp"
+},
     description: {
       de: "Berühmt als Schauplatz der entscheidenden Schlacht, die den Ersten Indochinakrieg beendete.",
       hu: "Híres a döntő csata helyszíneként, amely véget vetett az első indokínai háborúnak.",
@@ -444,7 +456,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Sơn La",
       ro: "Sơn La",
       en: "Sơn La",
-    },
+image: "/poi-images/son-la-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der bergigen Nordwestregion, bekannt für ihre Tee- und Kaffeeplantagen.",
       hu: "Város a hegyvidéki Északnyugati régióban, tea- és kávéültetvényeiről ismert.",
@@ -480,7 +493,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Bến Tre",
       ro: "Bến Tre",
       en: "Bến Tre",
-    },
+image: "/poi-images/ben-tre-cities-v2.webp"
+},
     description: {
       de: "Die 'Hauptstadt der Kokosnüsse' Vietnams, eine üppige Gegend im Mekong-Delta.",
       hu: "Vietnám 'kókuszdió fővárosa', egy buja terület a Mekong-deltában.",
@@ -516,7 +530,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Trà Vinh",
       ro: "Trà Vinh",
       en: "Trà Vinh",
-    },
+image: "/poi-images/tra-vinh-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Mekong-Delta mit einer bedeutenden Khmer-Bevölkerung und über 140 Khmer-Pagoden.",
       hu: "Város a Mekong-deltában, jelentős khmer lakossággal és több mint 140 khmer pagodával.",
@@ -552,7 +567,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Vĩnh Long",
       ro: "Vĩnh Long",
       en: "Vĩnh Long",
-    },
+image: "/poi-images/vinh-long-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Herzen des Mekong-Deltas, umgeben von Flüssen und Obstgärten.",
       hu: "Város a Mekong-delta szívében, folyók és gyümölcsösök veszik körül.",
@@ -588,7 +604,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Cao Lãnh",
       ro: "Cao Lãnh",
       en: "Cao Lãnh",
-    },
+image: "/poi-images/cao-lanh-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Provinz Đồng Tháp, bekannt für ihre Lotusfelder und den Nationalpark Tràm Chim in der Nähe.",
       hu: "Đồng Tháp tartomány fővárosa, lótuszmezőiről és a közeli Tràm Chim Nemzeti Parkról ismert.",
@@ -624,7 +641,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Châu Đốc",
       ro: "Châu Đốc",
       en: "Châu Đốc",
-    },
+image: "/poi-images/chau-doc-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt an der Grenze zu Kambodscha, berühmt für den heiligen Sam-Berg und eine vielfältige Kultur.",
       hu: "Város a kambodzsai határon, híres a szent Sam-hegyről és a sokszínű kultúrájáról.",
@@ -660,7 +678,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Hà Tiên",
       ro: "Hà Tiên",
       en: "Hà Tiên",
-    },
+image: "/poi-images/ha-tien-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Küsten- und Grenzstadt nahe Kambodscha, bekannt für ihre Kalksteinhöhlen und Strände.",
       hu: "Festői tengerparti és határváros Kambodzsa közelében, mészkőbarlangjairól és strandjairól ismert.",
@@ -696,7 +715,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Bạc Liêu",
       ro: "Bạc Liêu",
       en: "Bạc Liêu",
-    },
+image: "/poi-images/bac-lieu-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Mekong-Delta, bekannt für die Villa eines reichen Playboys aus der Kolonialzeit und ihre Windparks.",
       hu: "Város a Mekong-deltában, egy gyarmati kori gazdag playboy villájáról és szélerőműparkjairól ismert.",
@@ -732,7 +752,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Kon Tum",
       ro: "Kon Tum",
       en: "Kon Tum",
-    },
+image: "/poi-images/kon-tum-cities-v2.webp"
+},
     description: {
       de: "Eine ruhige Stadt im zentralen Hochland, bekannt für ihre Holzkirche und die umliegenden Dörfer ethnischer Minderheiten.",
       hu: "Csendes város a központi fennsíkon, fatemplomáról és a környező etnikai kisebbségi falvakról ismert.",
@@ -768,7 +789,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Gia Nghĩa",
       ro: "Gia Nghĩa",
       en: "Gia Nghĩa",
-    },
+image: "/poi-images/gia-nghia-cities-v2.webp"
+},
     description: {
       de: "Die junge Hauptstadt der Provinz Đắk Nông im zentralen Hochland, umgeben von Kaffeeplantagen und Wasserfällen.",
       hu: "Đắk Nông tartomány fiatal fővárosa a központi fennsíkon, kávéültetvényekkel és vízesésekkel körülvéve.",
@@ -804,7 +826,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Bảo Lộc",
       ro: "Bảo Lộc",
       en: "Bảo Lộc",
-    },
+image: "/poi-images/bao-loc-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im zentralen Hochland, die für ihre Teeindustrie, Seidenproduktion und das kühlere Klima bekannt ist.",
       hu: "Város a központi fennsíkon, teaiparáról, selyemgyártásáról és hűvösebb éghajlatáról ismert.",
@@ -840,7 +863,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Đồng Xoài",
       ro: "Đồng Xoài",
       en: "Đồng Xoài",
-    },
+image: "/poi-images/dong-xoai-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Provinz Bình Phước, bekannt für ihre Kautschuk- und Cashew-Plantagen.",
       hu: "Bình Phước tartomány fővárosa, gumi- és kesudió-ültetvényeiről ismert.",
@@ -876,7 +900,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Tây Ninh",
       ro: "Tây Ninh",
       en: "Tây Ninh",
-    },
+image: "/poi-images/tay-ninh-cities-v2.webp"
+},
     description: {
       de: "Das Zentrum der Cao-Đài-Religion, Heimat des farbenfrohen und kunstvollen Cao-Đài-Heiligen Stuhls.",
       hu: "A Cao Đài vallás központja, az élénk és díszes Cao Đài Szent Szék otthona.",
@@ -912,7 +937,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Tam Điệp",
       ro: "Tam Điệp",
       en: "Tam Điệp",
-    },
+image: "/poi-images/tam-diep-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Ninh Bình, die für ihre Zementindustrie und ihre strategische Lage zwischen Nord- und Zentralvietnam bekannt ist.",
       hu: "Város Ninh Bình tartományban, cementiparáról és Észak- és Közép-Vietnám közötti stratégiai elhelyezkedéséről ismert.",
@@ -948,7 +974,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "Lai Châu",
       ro: "Lai Châu",
       en: "Lai Châu",
-    },
+image: "/poi-images/lai-chau-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der gleichnamigen Provinz in einer der abgelegensten und gebirgigsten Regionen Vietnams.",
       hu: "Az azonos nevű tartomány fővárosa Vietnám egyik legeldugottabb és leghegyvidékibb régiójában.",
@@ -984,7 +1011,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: "An Khê",
       ro: "An Khê",
       en: "An Khê",
-    },
+image: "/poi-images/an-khe-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Gia Lai im zentralen Hochland, historisch bekannt für den An-Khê-Pass.",
       hu: "Város Gia Lai tartományban a központi fennsíkon, történelmileg az An Khê-hágóról ismert.",

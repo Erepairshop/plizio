@@ -11,8 +11,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Hafen von Kamsar",
       hu: "Kamsar kikötője",
       ro: "Portul Kamsar",
-      en: "Port of Kamsar"
-    },
+      en: "Port of Kamsar",
+image: "/poi-images/hafen-kamsar-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Kamsar ist einer der wichtigsten Exporthäfen Guineas und dient primär der Verschiffung von Bauxit aus den Sangarédi-Minen.",
       hu: "Kamsar kikötője Guinea egyik legfontosabb exportkikötője, amely elsősorban a Sangarédi bányákból származó bauxit szállítását szolgálja.",
@@ -46,8 +47,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Hafen von Dapilon",
       hu: "Dapilon kikötője",
       ro: "Portul Dapilon",
-      en: "Port of Dapilon"
-    },
+      en: "Port of Dapilon",
+image: "/poi-images/hafen-dapilon-economic-v2.webp"
+},
     description: {
       de: "Ein moderner Flusshafen in der Region Boké, der speziell für den groşflächigen Export von Bauxit durch das SMB-Winning Consortium entwickelt wurde.",
       hu: "Modern folyami kikötő Boké régióban, amelyet kifejezetten az SMB-Winning konzorcium bauxitexportjára fejlesztettek ki.",
@@ -81,8 +83,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Hafen von Katougouma",
       hu: "Katougouma kikötője",
       ro: "Portul Katougouma",
-      en: "Port of Katougouma"
-    },
+      en: "Port of Katougouma",
+image: "/poi-images/hafen-katougouma-economic-v2.webp"
+},
     description: {
       de: "Ein strategischer Binnenhafen am Rio Nuñez, der eine Schlüsselrolle beim Transport von Bauxit aus den nahegelegenen Abbaugebieten zum Weltmarkt spielt.",
       hu: "Stratégiai jelentőségű belvízi kikötő a Rio Nuñez folyón, amely kulcsszerepet játszik a közeli bányák bauxitjának világpiacra juttatásában.",
@@ -116,8 +119,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Bauxitmine Sangarédi",
       hu: "Sangarédi bauxitbánya",
       ro: "Mina de bauxită Sangarédi",
-      en: "Sangarédi Bauxite Mine"
-    },
+      en: "Sangarédi Bauxite Mine",
+image: "/poi-images/bauxitmine-sangaredi-economic-v2.webp"
+},
     description: {
       de: "Eine der weltweit reichsten Bauxitminen, die von der Compagnie des Bauxites de Guinée betrieben wird und für ihre hohe Erzqualität bekannt ist.",
       hu: "A világ egyik leggazdagabb bauxitbányája, amelyet a Compagnie des Bauxites de Guinée üzemeltet, és kiváló minőségű ércéről híres.",
@@ -152,8 +156,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Bauxitmine Debele",
       hu: "Debele bauxitbánya",
       ro: "Mina de bauxită Debele",
-      en: "Debele Bauxite Mine"
-    },
+      en: "Debele Bauxite Mine",
+image: "/poi-images/bauxitmine-debele-economic-v2.webp"
+},
     description: {
       de: "Die Mine bei Kindia wird in Kooperation mit russischen Unternehmen betrieben und ist ein bedeutender Standort der guineischen Aluminiumindustrie.",
       hu: "A Kindia melletti bányát orosz vállalatokkal együttműködésben üzemeltetik, és a guineai alumíniumipar egyik jelentős helyszíne.",
@@ -187,8 +192,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Simandou-Eisenerzprojekt",
       hu: "Simandou vasércprojekt",
       ro: "Proiectul de minereu de fier Simandou",
-      en: "Simandou Iron Ore Project"
-    },
+      en: "Simandou Iron Ore Project",
+image: "/poi-images/simandou-eisenerzmine-economic-v2.webp"
+},
     description: {
       de: "Das Simandou-Projekt gilt als eines der weltweit gröşten unerschlossenen Eisenerzvorkommen mit extrem hohem Metallgehalt.",
       hu: "A Simandou-projekt a világ egyik legnagyobb feltáratlan vasérckészletének számít, rendkívül magas fémtartalommal.",
@@ -222,8 +228,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Kaléta-Wasserkraftwerk",
       hu: "Kaléta vízerőmű",
       ro: "Hidrocentrala Kaléta",
-      en: "Kaléta Hydropower Plant"
-    },
+      en: "Kaléta Hydropower Plant",
+image: "/poi-images/kaleta-wasserkraftwerk-economic-v2.webp"
+},
     description: {
       de: "Ein groşes Wasserkraftwerk am Fluss Konkouré, das einen wesentlichen Beitrag zur Stromversorgung der Hauptstadt Conakry und der Industrie leistet.",
       hu: "Hatalmas vízerőmű a Konkouré folyón, amely jelentősen hozzájárul Conakry főváros és az ipar áramellátásához.",
@@ -257,8 +264,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Souapiti-Wasserkraftwerk",
       hu: "Souapiti vízerőmű",
       ro: "Hidrocentrala Souapiti",
-      en: "Souapiti Hydropower Plant"
-    },
+      en: "Souapiti Hydropower Plant",
+image: "/poi-images/souapiti-wasserkraftwerk-economic-v2.webp"
+},
     description: {
       de: "Souapiti ist das gröşte Wasserkraftprojekt Guineas und dient der Regulierung des Konkouré-Flusses sowie der massiven Steigerung der Energieproduktion.",
       hu: "Souapiti Guinea legnagyobb vízerőmű-projektje, amely a Konkouré folyó szabályozását és az energiatermelés jelentős növelését szolgálja.",
@@ -292,8 +300,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Garafiri-Wasserkraftwerk",
       hu: "Garafiri vízerőmű",
       ro: "Hidrocentrala Garafiri",
-      en: "Garafiri Hydropower Plant"
-    },
+      en: "Garafiri Hydropower Plant",
+image: "/poi-images/garafiri-wasserkraftwerk-economic-v2.webp"
+},
     description: {
       de: "Das Garafiri-Kraftwerk war das erste groşe Staudammprojekt nach der Unabhängigkeit und ist ein Meilenstein der nationalen Energieinfrastruktur.",
       hu: "A Garafiri erőmű volt az első nagy gátprojekt a függetlenség elnyerése után, és mérföldkő a nemzeti energetikai infrastruktúrában.",
@@ -327,8 +336,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Siguiri-Goldmine",
       hu: "Siguiri aranybánya",
       ro: "Mina de aur Siguiri",
-      en: "Siguiri Gold Mine"
-    },
+      en: "Siguiri Gold Mine",
+image: "/poi-images/goldmine-siguiri-economic-v2.webp"
+},
     description: {
       de: "Die Siguiri-Goldmine im Nordosten Guineas ist ein groşangelegter Tagebau, der jährlich beträchtliche Mengen an Gold für den Export produziert.",
       hu: "Az északkelet-guineai Siguiri aranybánya egy nagyszabású külszíni fejtés, amely évente jelentős mennyiségű aranyat termel exportra.",
@@ -362,8 +372,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Lefa-Goldmine",
       hu: "Lefa aranybánya",
       ro: "Mina de aur Lefa",
-      en: "Lefa Gold Mine"
-    },
+      en: "Lefa Gold Mine",
+image: "/poi-images/goldmine-lefa-economic-v2.webp"
+},
     description: {
       de: "Lefa ist eine der gröşten Goldminen Westafrikas und ein technologisches Zentrum für den Bergbau in der Region Faranah.",
       hu: "Lefa Nyugat-Afrika egyik legnagyobb aranybányája, és a bányászat technológiai központja a Faranah régióban.",
@@ -398,8 +409,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Kiniero-Goldmine",
       hu: "Kiniero aranybánya",
       ro: "Mina de aur Kiniero",
-      en: "Kiniero Gold Mine"
-    },
+      en: "Kiniero Gold Mine",
+image: "/poi-images/goldmine-kiniero-economic-v2.webp"
+},
     description: {
       de: "Eine historische Goldmine in der Region Kouroussa, die durch neue Investitionen wiederbelebt wurde und zur wirtschaftlichen Entwicklung Oberguineas beiträgt.",
       hu: "Történelmi aranybánya Kouroussa régióban, amelyet új beruházásokkal élesztettek újjá, hozzájárulva Felső-Guinea gazdasági fejlődéséhez.",
@@ -434,8 +446,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Aluminiumoxid-Werk Fria",
       hu: "Fria timföldgyár",
       ro: "Fabrica de alumină Fria",
-      en: "Fria Alumina Plant"
-    },
+      en: "Fria Alumina Plant",
+image: "/poi-images/aluminiumwerk-fria-economic-v2.webp"
+},
     description: {
       de: "Das Werk in Fria ist die älteste Aluminiumoxid-Raffinerie Afrikas und bildet das industrielle Rückgrat der gleichnamigen Bergbaustadt.",
       hu: "A friai gyár Afrika legrégebbi timföldfinomítója, és az azonos nevű bányászváros ipari gerincét alkotja.",
@@ -470,8 +483,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Zogota-Eisenerzmine",
       hu: "Zogota vasércbánya",
       ro: "Mina de minereu de fier Zogota",
-      en: "Zogota Iron Ore Mine"
-    },
+      en: "Zogota Iron Ore Mine",
+image: "/poi-images/eisenerzmine-zogota-economic-v2.webp"
+},
     description: {
       de: "Eine bedeutende Eisenerzmine in der Waldregion Guineas, die Teil der Erschlieşung der gewaltigen Erzvorkommen im Südosten des Landes ist.",
       hu: "Jelentős vasércbánya Guinea erdős régiójában, amely az ország délkeleti részén található hatalmas érckészletek feltárásának része.",
@@ -506,8 +520,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Bel-Air-Bauxitmine",
       hu: "Bel-Air bauxitbánya",
       ro: "Mina de bauxită Bel-Air",
-      en: "Bel-Air Bauxite Mine"
-    },
+      en: "Bel-Air Bauxite Mine",
+image: "/poi-images/bauxitmine-bel-air-economic-v2.webp"
+},
     description: {
       de: "Die Bel-Air-Mine an der Küste von Boffa ist bekannt für ihren direkten Zugang zum Meer und effiziente Verladeprozesse für den Bauxitexport.",
       hu: "A Boffa partjainál található Bel-Air bánya közvetlen tengeri kapcsolatáról és a bauxitexport hatékony rakodási folyamatairól ismert.",
@@ -542,8 +557,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Hafen von Konta",
       hu: "Konta kikötője",
       ro: "Portul Konta",
-      en: "Port of Konta"
-    },
+      en: "Port of Konta",
+image: "/poi-images/hafen-konta-economic-v2.webp"
+},
     description: {
       de: "Ein kleinerer, aber strategisch wichtiger Hafen in der Region Forécariah, der primär für den Umschlag lokaler Rohstoffe genutzt wird.",
       hu: "Kisebb, de stratégiailag fontos kikötő Forécariah régióban, amelyet elsősorban a helyi nyersanyagok átrakodására használnak.",
@@ -578,8 +594,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Banankoro-Diamantenminen",
       hu: "Banankoro gyémántbányák",
       ro: "Minele de diamante Banankoro",
-      en: "Banankoro Diamond Mines"
-    },
+      en: "Banankoro Diamond Mines",
+image: "/poi-images/diamantenmine-banankoro-economic-v2.webp"
+},
     description: {
       de: "Das Gebiet um Banankoro ist das Herz der guineischen Diamantenförderung, wo sowohl industrieller als auch handwerklicher Abbau betrieben wird.",
       hu: "Banankoro környéke a guineai gyémántbányászat szíve, ahol ipari és kisipari kitermelés egyaránt folyik.",
@@ -614,8 +631,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Kalksteinwerk Souguéta",
       hu: "Souguéta mészkőbánya",
       ro: "Fabrica de calcar Souguéta",
-      en: "Souguéta Limestone Plant"
-    },
+      en: "Souguéta Limestone Plant",
+image: "/poi-images/kalksteinwerk-sougueta-economic-v2.webp"
+},
     description: {
       de: "Das Werk in Souguéta nutzt die lokalen Kalksteinvorkommen für die Produktion von Baumaterialien und Zementzuschlagstoffen.",
       hu: "A souguétai üzem a helyi mészkőkészleteket hasznosítja építőanyagok és cementadalékok gyártásához.",
@@ -650,8 +668,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Ciments de Guinée Werk",
       hu: "Ciments de Guinée gyár",
       ro: "Fabrica Ciments de Guinée",
-      en: "Ciments de Guinée Plant"
-    },
+      en: "Ciments de Guinée Plant",
+image: "/poi-images/zementwerk-conakry-economic-v2.webp"
+},
     description: {
       de: "Die Zementfabrik in Conakry ist die bedeutendste Produktionsstätte für Zement im Land und deckt einen Groşteil des nationalen Bedarfs.",
       hu: "A conakry-i cementgyár az ország legjelentősebb cementgyártó üzeme, amely a nemzeti szükséglet nagy részét fedezi.",
@@ -686,8 +705,9 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "Koumbia-Bauxitmine",
       hu: "Koumbia bauxitbánya",
       ro: "Mina de bauxită Koumbia",
-      en: "Koumbia Bauxite Mine"
-    },
+      en: "Koumbia Bauxite Mine",
+image: "/poi-images/bauxitmine-koumbia-economic-v2.webp"
+},
     description: {
       de: "Eine der neueren Bauxitminen in der Region Boké, die Teil der massiven Expansion Guineas zum weltweit führenden Bauxitexporteur ist.",
       hu: "Az egyik újabb bauxitbánya Boké régióban, amely része Guinea világranglistás bauxitexportőrré válásának.",

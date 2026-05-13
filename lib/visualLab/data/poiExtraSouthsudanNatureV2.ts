@@ -7,7 +7,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "mountain",
     parent: "SS-EE",
     coords: [32.912, 3.947],
-    name: { de: "Mount Kinyeti", hu: "Kinyeti-hegy", ro: "Muntele Kinyeti", en: "Mount Kinyeti" },
+    name: { de: "Mount Kinyeti", hu: "Kinyeti-hegy", ro: "Muntele Kinyeti", en: "Mount Kinyeti",
+image: "/poi-images/mount-kinyeti-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg im Südsudan, gelegen im Imatong-Gebirge nahe der Grenze zu Uganda.",
       hu: "Dél-Szudán legmagasabb hegye, az Imatong-hegységben, az ugandai határ közelében.",
@@ -25,7 +27,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "mountain",
     parent: "SS-EE",
     coords: [32.8, 3.9],
-    name: { de: "Imatong-Gebirge", hu: "Imatong-hegység", ro: "Munții Imatong", en: "Imatong Mountains" },
+    name: { de: "Imatong-Gebirge", hu: "Imatong-hegység", ro: "Munții Imatong", en: "Imatong Mountains",
+image: "/poi-images/imatong-mountains-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug im Südosten des Landes, bekannt für seine Regenwälder und hohe Biodiversität.",
       hu: "Hegység az ország délkeleti részén, esőerdőiről és gazdag élővilágáról ismert.",
@@ -43,7 +47,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-EC",
     coords: [31.6, 4.85],
-    name: { de: "Weißer Nil", hu: "Fehér-Nílus", ro: "Nilul Alb", en: "White Nile" },
+    name: { de: "Weißer Nil", hu: "Fehér-Nílus", ro: "Nilul Alb", en: "White Nile",
+image: "/poi-images/white-nile-southsudan-nature-v2.webp"
+},
     description: {
       de: "Der Hauptarm des Nils, der den Südsudan von Süden nach Norden durchfließt.",
       hu: "A Nílus fő ága, amely délről északra szeli át Dél-Szudánt.",
@@ -61,7 +67,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-UY",
     coords: [30.5, 9.5],
-    name: { de: "Bahr al-Ghazal", hu: "Bahr el-Ghazal", ro: "Bahr el Ghazal", en: "Bahr el Ghazal" },
+    name: { de: "Bahr al-Ghazal", hu: "Bahr el-Ghazal", ro: "Bahr el Ghazal", en: "Bahr el Ghazal",
+image: "/poi-images/bahr-el-ghazal-river-nature-v2.webp"
+},
     description: {
       de: "Ein bedeutender linker Nebenfluss des Weißen Nils, der ausgedehnte Sumpfgebiete durchquert.",
       hu: "A Fehér-Nílus jelentős bal oldali mellékfolyója, amely kiterjedt mocsárvidékeken folyik keresztül.",
@@ -79,7 +87,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-UY",
     coords: [30.47, 9.48],
-    name: { de: "No-See", hu: "No-tó", ro: "Lacul No", en: "Lake No" },
+    name: { de: "No-See", hu: "No-tó", ro: "Lacul No", en: "Lake No",
+image: "/poi-images/lake-no-nature-v2.webp"
+},
     description: {
       de: "Ein See im Südsudan, an dem der Bahr al-Dschabal und der Bahr al-Ghazal zusammentreffen.",
       hu: "Tó Dél-Szudánban, ahol a Bahr al-Dschabal és a Bahr al-Ghazal folyók találkoznak.",
@@ -97,7 +107,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-JG",
     coords: [31.0, 7.5],
-    name: { de: "Sudd-Sümpfe", hu: "Sudd-mocsárvidék", ro: "Mlaștinile Sudd", en: "Sudd Wetland" },
+    name: { de: "Sudd-Sümpfe", hu: "Sudd-mocsárvidék", ro: "Mlaștinile Sudd", en: "Sudd Wetland",
+image: "/poi-images/sudd-wetland-nature-v2.webp"
+},
     description: {
       de: "Eines der weltweit größten Sumpfgebiete, gebildet durch den Weißen Nil.",
       hu: "A világ egyik legnagyobb mocsárvidéke, amelyet a Fehér-Nílus alakított ki.",
@@ -115,7 +127,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-NU",
     coords: [33.0, 9.3],
-    name: { de: "Sobat", hu: "Sobat-folyó", ro: "Râul Sobat", en: "Sobat River" },
+    name: { de: "Sobat", hu: "Sobat-folyó", ro: "Râul Sobat", en: "Sobat River",
+image: "/poi-images/sobat-river-nature-v2.webp"
+},
     description: {
       de: "Ein Nebenfluss des Weißen Nils, der während der Regenzeit große Mengen an Sedimenten führt.",
       hu: "A Fehér-Nílus mellékfolyója, amely az esős évszakban nagy mennyiségű hordalékot szállít.",
@@ -133,7 +147,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-BW",
     coords: [28.0, 8.5],
-    name: { de: "Jur", hu: "Jur-folyó", ro: "Râul Jur", en: "Jur River" },
+    name: { de: "Jur", hu: "Jur-folyó", ro: "Râul Jur", en: "Jur River",
+image: "/poi-images/jur-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Westen des Südsudans, der in den Bahr al-Ghazal mündet.",
       hu: "Folyó Dél-Szudán nyugati részén, amely a Bahr al-Ghazalba torkollik.",
@@ -151,7 +167,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-JG",
     coords: [33.1, 7.8],
-    name: { de: "Pibor", hu: "Pibor-folyó", ro: "Râul Pibor", en: "Pibor River" },
+    name: { de: "Pibor", hu: "Pibor-folyó", ro: "Râul Pibor", en: "Pibor River",
+image: "/poi-images/pibor-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Osten des Südsudans, der zusammen mit dem Baro den Sobat bildet.",
       hu: "Folyó Dél-Szudán keleti részén, amely a Baróval egyesülve alkotja a Sobatot.",
@@ -169,7 +187,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-WR",
     coords: [28.8, 8.7],
-    name: { de: "Ambadi-See", hu: "Ambadi-tó", ro: "Lacul Ambadi", en: "Lake Ambadi" },
+    name: { de: "Ambadi-See", hu: "Ambadi-tó", ro: "Lacul Ambadi", en: "Lake Ambadi",
+image: "/poi-images/lake-ambadi-nature-v2.webp"
+},
     description: {
       de: "Ein See im Norden des Landes, der ein wichtiger Lebensraum für Wasservögel ist.",
       hu: "Tó az ország északi részén, amely vízimadarak fontos élőhelye.",
@@ -187,7 +207,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-LK",
     coords: [30.5, 6.5],
-    name: { de: "Yirol-See", hu: "Yirol-tó", ro: "Lacul Yirol", en: "Lake Yirol" },
+    name: { de: "Yirol-See", hu: "Yirol-tó", ro: "Lacul Yirol", en: "Lake Yirol",
+image: "/poi-images/lake-yirol-nature-v2.webp"
+},
     description: {
       de: "Ein Süßwassersee im Bundesstaat Lakes, zentral für die lokale Fischerei.",
       hu: "Édesvízi tó Lakes államban, központi szerepet játszik a helyi halászatban.",
@@ -205,7 +227,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "mountain",
     parent: "SS-JG",
     coords: [34.4, 6.2],
-    name: { de: "Boma-Plateau", hu: "Boma-fennsík", ro: "Podișul Boma", en: "Boma Plateau" },
+    name: { de: "Boma-Plateau", hu: "Boma-fennsík", ro: "Podișul Boma", en: "Boma Plateau",
+image: "/poi-images/boma-plateau-nature-v2.webp"
+},
     description: {
       de: "Ein Hochplateau im Osten, Schauplatz einer der größten Tierwanderungen Afrikas.",
       hu: "Magasföld keleten, Afrika egyik legnagyobb állatvándorlásának helyszíne.",
@@ -223,7 +247,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "mountain",
     parent: "SS-EC",
     coords: [31.58, 5.1],
-    name: { de: "Mount Lado", hu: "Lado-hegy", ro: "Muntele Lado", en: "Mount Lado" },
+    name: { de: "Mount Lado", hu: "Lado-hegy", ro: "Muntele Lado", en: "Mount Lado",
+image: "/poi-images/mount-lado-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Inselberg nördlich der Hauptstadt Juba.",
       hu: "Jellegzetes tanúhegy a fővárostól, Jubától északra.",
@@ -241,7 +267,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "island",
     parent: "SS-EC",
     coords: [31.62, 4.9],
-    name: { de: "Gondokoro-Insel", hu: "Gondokoro-sziget", ro: "Insula Gondokoro", en: "Gondokoro Island" },
+    name: { de: "Gondokoro-Insel", hu: "Gondokoro-sziget", ro: "Insula Gondokoro", en: "Gondokoro Island",
+image: "/poi-images/gondokoro-island-nature-v2.webp"
+},
     description: {
       de: "Eine historische Insel im Weißen Nil, ehemals ein wichtiger Handelsposten.",
       hu: "Történelmi sziget a Fehér-Níluson, korábban fontos kereskedelmi állomás.",
@@ -259,7 +287,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-JG",
     coords: [33.0, 7.8],
-    name: { de: "Akobo", hu: "Akobo-folyó", ro: "Râul Akobo", en: "Akobo River" },
+    name: { de: "Akobo", hu: "Akobo-folyó", ro: "Râul Akobo", en: "Akobo River",
+image: "/poi-images/akobo-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der einen Teil der Grenze zwischen dem Südsudan und Äthiopien bildet.",
       hu: "Folyó, amely Dél-Szudán és Etiópia határának egy részét alkotja.",
@@ -277,7 +307,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "forest",
     parent: "SS-EW",
     coords: [29.8, 4.4],
-    name: { de: "Lantoto-Wald", hu: "Lantoto-erdő", ro: "Pădurea Lantoto", en: "Lantoto Forest" },
+    name: { de: "Lantoto-Wald", hu: "Lantoto-erdő", ro: "Pădurea Lantoto", en: "Lantoto Forest",
+image: "/poi-images/lantoto-forest-nature-v2.webp"
+},
     description: {
       de: "Ein dritter Waldkomplex im Südwesten, Teil des Lantoto-Nationalparks.",
       hu: "Erdőkomplexum az ország délnyugati részén, a Lantoto Nemzeti Park része.",
@@ -295,7 +327,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "forest",
     parent: "SS-BW",
     coords: [28.5, 6.5],
-    name: { de: "Süd-Nationalpark", hu: "Déli Nemzeti Park", ro: "Parcul Național de Sud", en: "Southern National Park" },
+    name: { de: "Süd-Nationalpark", hu: "Déli Nemzeti Park", ro: "Parcul Național de Sud", en: "Southern National Park",
+image: "/poi-images/southern-national-park-forest-nature-v2.webp"
+},
     description: {
       de: "Ein riesiges Wald- und Savannengebiet im Herzen des Südsudans.",
       hu: "Hatalmas erdős és szavannás terület Dél-Szudán szívében.",
@@ -313,7 +347,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-EE",
     coords: [32.0, 3.6],
-    name: { de: "Nimule-Stromschnellen", hu: "Nimule-zúgók", ro: "Cascadele Nimule", en: "Nimule Rapids" },
+    name: { de: "Nimule-Stromschnellen", hu: "Nimule-zúgók", ro: "Cascadele Nimule", en: "Nimule Rapids",
+image: "/poi-images/nimule-rapids-nature-v2.webp"
+},
     description: {
       de: "Spektakuläre Stromschnellen des Weißen Nils im Nimule-Nationalpark.",
       hu: "A Fehér-Nílus látványos zúgói a Nimule Nemzeti Parkban.",
@@ -331,7 +367,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-LK",
     coords: [30.8, 7.1],
-    name: { de: "Shambe-See", hu: "Shambe-tó", ro: "Lacul Shambe", en: "Shambe Lake" },
+    name: { de: "Shambe-See", hu: "Shambe-tó", ro: "Lacul Shambe", en: "Shambe Lake",
+image: "/poi-images/shambe-lake-nature-v2.webp"
+},
     description: {
       de: "Ein See im Sudd-Gebiet, der für seinen Fischreichtum und seine Tierwelt bekannt ist.",
       hu: "Tó a Sudd-vidéken, amely bőséges halállományáról és vadvilágáról ismert.",
@@ -349,7 +387,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-LK",
     coords: [30.1, 6.8],
-    name: { de: "Nyubor-See", hu: "Nyubor-tó", ro: "Lacul Nyubor", en: "Lake Nyubor" },
+    name: { de: "Nyubor-See", hu: "Nyubor-tó", ro: "Lacul Nyubor", en: "Lake Nyubor",
+image: "/poi-images/lake-nyubor-nature-v2.webp"
+},
     description: {
       de: "Ein See im Zentrum des Landes, umgeben von weiten Graslandschaften.",
       hu: "Tó az ország közepén, hatalmas füves pusztákkal körülvéve.",
@@ -367,7 +407,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-JG",
     coords: [31.5, 6.0],
-    name: { de: "Bahr al-Dschabal", hu: "Bahr el-Jebel", ro: "Bahr al-Jabal", en: "Bahr al-Jabal" },
+    name: { de: "Bahr al-Dschabal", hu: "Bahr el-Jebel", ro: "Bahr al-Jabal", en: "Bahr al-Jabal",
+image: "/poi-images/bahr-el-jebel-river-nature-v2.webp"
+},
     description: {
       de: "Der Name des Weißen Nils in seinem südlichen Abschnitt im Südsudan.",
       hu: "A Fehér-Nílus neve annak déli szakaszán Dél-Szudánban.",
@@ -385,7 +427,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "river",
     parent: "SS-EE",
     coords: [33.7, 3.8],
-    name: { de: "Kidepo", hu: "Kidepo-folyó", ro: "Râul Kidepo", en: "Kidepo River" },
+    name: { de: "Kidepo", hu: "Kidepo-folyó", ro: "Râul Kidepo", en: "Kidepo River",
+image: "/poi-images/kidepo-river-nature-v2.webp"
+},
     description: {
       de: "Ein saisonaler Fluss im äußersten Südosten, der durch Trockengebiete fließt.",
       hu: "Időszakos folyó a távoli délkeleten, amely száraz területeken folyik át.",
@@ -403,7 +447,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "lake",
     parent: "SS-WR",
     coords: [28.6, 8.8],
-    name: { de: "Aluk-See", hu: "Aluk-tó", ro: "Lacul Aluk", en: "Aluk Lake" },
+    name: { de: "Aluk-See", hu: "Aluk-tó", ro: "Lacul Aluk", en: "Aluk Lake",
+image: "/poi-images/aluk-lake-nature-v2.webp"
+},
     description: {
       de: "Ein flacher See im Norden des Bahr el Ghazal-Beckens.",
       hu: "Sekély tó a Bahr el Ghazal-medence északi részén.",
@@ -421,7 +467,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "forest",
     parent: "SS-EW",
     coords: [27.8, 4.6],
-    name: { de: "Bengengai-Wald", hu: "Bengengai-erdő", ro: "Pădurea Bengengai", en: "Bengengai Forest" },
+    name: { de: "Bengengai-Wald", hu: "Bengengai-erdő", ro: "Pădurea Bengengai", en: "Bengengai Forest",
+image: "/poi-images/bengengai-forest-nature-v2.webp"
+},
     description: {
       de: "Ein dichter Wald im Südwesten, bekannt für seine Primatenpopulation.",
       hu: "Sűrű erdő délnyugaton, primátus-populációjáról ismert.",
@@ -439,7 +487,9 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     type: "mountain",
     parent: "SS-BW",
     coords: [27.0, 7.5],
-    name: { de: "Eisenstein-Plateau", hu: "Ironstone-fennsík", ro: "Podișul Ironstone", en: "Ironstone Plateau" },
+    name: { de: "Eisenstein-Plateau", hu: "Ironstone-fennsík", ro: "Podișul Ironstone", en: "Ironstone Plateau",
+image: "/poi-images/ironstone-plateau-nature-v2.webp"
+},
     description: {
       de: "Eine weitläufige Hochebene im Westen, geprägt durch eisenhaltige Böden.",
       hu: "Kiterjedt fennsík nyugaton, vasat tartalmazó talajok jellemzik.",

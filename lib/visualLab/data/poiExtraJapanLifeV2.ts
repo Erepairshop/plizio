@@ -12,8 +12,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Ueno Park & Zoo",
       hu: "Ueno Park és Állatkert",
       ro: "Parcul și Grădina Zoologică Ueno",
-      en: "Ueno Park & Zoo"
-    },
+      en: "Ueno Park & Zoo",
+image: "/poi-images/ueno-park-and-zoo-life-v2.webp"
+},
     description: {
       de: "Ein großer öffentlicher Park in Tokio, der mehrere Museen, einen Schrein und den ältesten Zoo Japans beherbergt. Ein beliebtes Ziel für die Kirschblütenschau.",
       hu: "Egy nagy nyilvános park Tokióban, amely több múzeumnak, egy szentélynek és Japán legrégebbi állatkertjének ad otthont. Népszerű hely a cseresznyevirágzás megtekintésére.",
@@ -47,8 +48,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Yoyogi-Park",
       hu: "Jojogi park",
       ro: "Parcul Yoyogi",
-      en: "Yoyogi Park"
-    },
+      en: "Yoyogi Park",
+image: "/poi-images/yoyogi-park-life-v2.webp"
+},
     description: {
       de: "Einer der größten Parks Tokios, bekannt für seine weiten Rasenflächen, Teiche und bewaldeten Gebiete. Ein beliebter Ort für Picknicks, Sport und als Treffpunkt für Subkulturen.",
       hu: "Tokió egyik legnagyobb parkja, amely tágas pázsitjairól, tavairól és erdős területeiről ismert. Népszerű hely piknikezésre, sportolásra és szubkultúrák találkozóhelyeként.",
@@ -82,8 +84,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Shinjuku Gyoen Nationalgarten",
       hu: "Sindzsuku Gjoen Nemzeti Kert",
       ro: "Grădina Națională Shinjuku Gyoen",
-      en: "Shinjuku Gyoen National Garden"
-    },
+      en: "Shinjuku Gyoen National Garden",
+image: "/poi-images/shinjuku-gyoen-national-garden-life-v2.webp"
+},
     description: {
       de: "Ein großer Park in Shinjuku mit drei verschiedenen Gartenstilen: einem traditionellen japanischen Landschaftsgarten, einem formellen französischen Garten und einem englischen Landschaftsgarten.",
       hu: "Egy nagy park Sindzsukuban, három különböző kertstílussal: egy hagyományos japán tájkert, egy formális francia kert és egy angol tájkert.",
@@ -117,8 +120,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Fuji-Q Highland",
       hu: "Fuji-Q Highland",
       ro: "Fuji-Q Highland",
-      en: "Fuji-Q Highland"
-    },
+      en: "Fuji-Q Highland",
+image: "/poi-images/fuji-q-highland-life-v2.webp"
+},
     description: {
       de: "Ein Vergnügungspark am Fuße des Berges Fuji, bekannt für seine rekordverdächtigen Achterbahnen und atemberaubenden Ausblicke. Er bietet auch viele Attraktionen für Kinder und Familien.",
       hu: "Egy vidámpark a Fudzsi lábánál, amely rekordokat döntögető hullámvasútjairól és lélegzetelállító kilátásáról ismert. Számos gyermek- és családi attrakciót is kínál.",
@@ -152,8 +156,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Ghibli-Museum, Mitaka",
       hu: "Ghibli Múzeum, Mitaka",
       ro: "Muzeul Ghibli, Mitaka",
-      en: "Ghibli Museum, Mitaka"
-    },
+      en: "Ghibli Museum, Mitaka",
+image: "/poi-images/ghibli-museum-mitaka-life-v2.webp"
+},
     description: {
       de: "Ein skurriles Museum, das der Arbeit des Animationsstudios Studio Ghibli gewidmet ist. Es zeigt die Kunst und Technik der Animation und beherbergt ein kleines Kino, das exklusive Kurzfilme zeigt.",
       hu: "Egy szeszélyes múzeum, amelyet a Studio Ghibli animációs stúdió munkásságának szenteltek. Bemutatja az animáció művészetét és technikáját, és otthont ad egy kis mozinak, amely exkluzív rövidfilmeket vetít.",
@@ -187,8 +192,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Niseko Landwirtschaft",
       hu: "Niseko Mezőgazdaság",
       ro: "Agricultura din Niseko",
-      en: "Niseko Agriculture"
-    },
+      en: "Niseko Agriculture",
+image: "/poi-images/niseko-united-agriculture-life-v2.webp"
+},
     description: {
       de: "Die Region um Niseko ist nicht nur für ihren Pulverschnee bekannt, sondern auch für ihre Landwirtschaft. Im Sommer werden hier Kartoffeln, Mais und Spargel von hoher Qualität angebaut.",
       hu: "A Niseko körüli régió nemcsak a porhóval borított lejtőiről, hanem a mezőgazdaságáról is ismert. Nyáron kiváló minőségű burgonyát, kukoricát és spárgát termesztenek itt.",
@@ -222,8 +228,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Kushiro-Sumpfgebiet",
       hu: "Kusiro-mocsárvidék",
       ro: "Mlaștina Kushiro",
-      en: "Kushiro Wetlands"
-    },
+      en: "Kushiro Wetlands",
+image: "/poi-images/kushiro-shitsugen-wildlife-v2.webp"
+},
     description: {
       de: "Japans größtes Feuchtgebiet, ein wichtiger Lebensraum für viele Pflanzen- und Tierarten. Es ist besonders bekannt als einziger bekannter Lebensraum des Mandschurenkranichs in Japan.",
       hu: "Japán legnagyobb vizes élőhelye, amely számos növény- és állatfaj számára fontos. Különösen ismert, mint a mandzsúriai daru egyetlen ismert japán élőhelye.",
@@ -257,8 +264,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Jigokudani Affenpark",
       hu: "Dzsikokudani Majompark",
       ro: "Parcul de Maimuțe Jigokudani",
-      en: "Jigokudani Monkey Park"
-    },
+      en: "Jigokudani Monkey Park",
+image: "/poi-images/jigokudani-monkey-park-life-v2.webp"
+},
     description: {
       de: "Berühmt für seine Japanmakaken, auch bekannt als Schneeaffen, die im Winter in den heißen Quellen (Onsen) baden. Es ist ein einzigartiger Anblick von Wildtieren, die sich an die kalte Umgebung anpassen.",
       hu: "Híres a japán makákóiról, más néven hómajmokról, amelyek télen a forró forrásokban (onszen) fürdenek. Egyedülálló látvány, ahogy a vadon élő állatok alkalmazkodnak a hideg környezethez.",
@@ -293,8 +301,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Furano Blumenfelder",
       hu: "Furano virágmezők",
       ro: "Câmpurile de flori din Furano",
-      en: "Furano Flower Fields"
-    },
+      en: "Furano Flower Fields",
+image: "/poi-images/furano-flower-fields-agriculture-v2.webp"
+},
     description: {
       de: "Furano in Hokkaido ist berühmt für seine weitläufigen Lavendelfelder, die im Sommer blühen. Die Region produziert auch eine Vielzahl anderer Blumen und landwirtschaftlicher Produkte.",
       hu: "A hokkaidói Furano híres a nyáron virágzó hatalmas levendulamezőiről. A régió számos más virágot és mezőgazdasági terméket is termel.",
@@ -328,8 +337,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Tokyo Disneyland & DisneySea",
       hu: "Tokiói Disneyland & DisneySea",
       ro: "Tokyo Disneyland & DisneySea",
-      en: "Tokyo Disneyland & DisneySea"
-    },
+      en: "Tokyo Disneyland & DisneySea",
+image: "/poi-images/tokyo-disneyland-disneysea-life-v2.webp"
+},
     description: {
       de: "Zwei Themenparks in Chiba, die ein magisches Erlebnis für Besucher jeden Alters bieten. Disneyland folgt dem klassischen Magic-Kingdom-Stil, während DisneySea ein einzigartiges nautisches Erkundungsthema hat.",
       hu: "Két vidámpark Csibában, amelyek varázslatos élményt nyújtanak minden korosztály számára. A Disneyland a klasszikus Magic Kingdom stílust követi, míg a DisneySea egyedi, tengeri felfedező témával rendelkezik.",
@@ -363,8 +373,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Hokkaido Milchfarmen",
       hu: "Hokkaidói tejgazdaságok",
       ro: "Fermele de lapte din Hokkaido",
-      en: "Hokkaido Dairy Farms"
-    },
+      en: "Hokkaido Dairy Farms",
+image: "/poi-images/hokkaido-dairy-farms-agriculture-v2.webp"
+},
     description: {
       de: "Hokkaido ist das Herz der japanischen Milchindustrie und produziert über die Hälfte der gesamten Milch des Landes. Die weiten Weiden und das kühle Klima sind ideal für die Milchviehhaltung.",
       hu: "Hokkaidó a japán tejipar szíve, az ország teljes tejtermelésének több mint felét adja. A tágas legelők és a hűvös éghajlat ideálisak a tejelő szarvasmarha-tenyésztéshez.",
@@ -398,8 +409,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Shiretoko-Nationalpark",
       hu: "Siretoko Nemzeti Park",
       ro: "Parcul Național Shiretoko",
-      en: "Shiretoko National Park"
-    },
+      en: "Shiretoko National Park",
+image: "/poi-images/shiretoko-national-park-wildlife-v2.webp"
+},
     description: {
       de: "Einer der entlegensten und unberührtesten Parks Japans. Die Shiretoko-Halbinsel ist berühmt für ihre große Braunbärenpopulation und die reiche Meeresfauna.",
       hu: "Japán egyik legeldugottabb és legérintetlenebb parkja. A Siretoko-félsziget híres a nagy barnamedve-populációjáról és a gazdag tengeri élővilágáról.",
@@ -433,8 +445,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Kerama-Shotō-Nationalpark",
       hu: "Kerama Sotó Nemzeti Park",
       ro: "Parcul Național Kerama Shotō",
-      en: "Kerama Shotō National Park"
-    },
+      en: "Kerama Shotō National Park",
+image: "/poi-images/kerama-shoto-national-park-wildlife-v2.webp"
+},
     description: {
       de: "Eine Gruppe von Inseln vor der Küste Okinawas, bekannt für ihr außergewöhnlich klares Wasser, das als 'Kerama Blue' bekannt ist. Ein erstklassiger Ort zum Schnorcheln, Tauchen und zur Walbeobachtung.",
       hu: "Egy szigetcsoport Okinava partjainál, amely a kivételesen tiszta, 'Kerama kék' néven ismert vizéről híres. Elsőrangú hely a búvárkodáshoz, a merüléshez és a bálnák megfigyeléséhez.",
@@ -468,8 +481,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Sanrio Puroland",
       hu: "Sanrio Puroland",
       ro: "Sanrio Puroland",
-      en: "Sanrio Puroland"
-    },
+      en: "Sanrio Puroland",
+image: "/poi-images/sanrio-puroland-life-v2.webp"
+},
     description: {
       de: "Ein Indoor-Themenpark, der den Charakteren von Sanrio wie Hello Kitty, My Melody und Gudetama gewidmet ist. Er bietet Paraden, Shows und Charaktertreffen.",
       hu: "Egy fedett vidámpark, amelyet a Sanrio karaktereknek, például Hello Kitty-nek, My Melody-nek és Gudetamának szenteltek. Felvonulásokat, előadásokat és karakter-találkozókat kínál.",
@@ -503,8 +517,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Shizuoka Teeplantagen",
       hu: "Sizuokai teaültetvények",
       ro: "Plantațiile de ceai din Shizuoka",
-      en: "Shizuoka Tea Plantations"
-    },
+      en: "Shizuoka Tea Plantations",
+image: "/poi-images/shizuoka-tea-plantations-agriculture-v2.webp"
+},
     description: {
       de: "Die Präfektur Shizuoka ist der größte Teeproduzent in Japan. Die sanften Hügel sind mit ordentlichen Reihen von Teesträuchern bedeckt und bieten oft einen atemberaubenden Blick auf den Berg Fuji im Hintergrund.",
       hu: "Sizuoka prefektúra a legnagyobb teatermelő Japánban. A lankás dombokat rendezett teasorok borítják, gyakran lenyűgöző kilátással a Fudzsi-hegyre a háttérben.",
@@ -538,8 +553,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Hida-Volkskundedorf (Hida no Sato)",
       hu: "Hida Népi Falu (Hida no Szato)",
       ro: "Satul popular Hida (Hida no Sato)",
-      en: "Hida Folk Village (Hida no Sato)"
-    },
+      en: "Hida Folk Village (Hida no Sato)",
+image: "/poi-images/hida-folk-village-kid-friendly-v2.webp"
+},
     description: {
       de: "Ein Freilichtmuseum in Takayama mit über 30 traditionellen Häusern aus der Hida-Region. Es zeigt traditionelle Gassho-Zukuri-Bauernhäuser und andere Gebäude, die einen Einblick in das ländliche Leben vergangener Zeiten geben.",
       hu: "Egy szabadtéri múzeum Takajamában, amely több mint 30 hagyományos házat mutat be a Hida régióból. Hagyományos gassó-zukuri parasztházakat és más épületeket mutat be, betekintést nyújtva a múlt vidéki életébe.",
@@ -573,8 +589,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Insel Iriomote",
       hu: "Iriomote-sziget",
       ro: "Insula Iriomote",
-      en: "Iriomote Island"
-    },
+      en: "Iriomote Island",
+image: "/poi-images/iriomote-jima-wildlife-v2.webp"
+},
     description: {
       de: "Die größte der Yaeyama-Inseln in Okinawa, von denen über 90% mit dichtem Dschungel und Mangrovenwäldern bedeckt sind. Sie ist die Heimat der Iriomote-Katze, einer vom Aussterben bedrohten Wildkatzenart.",
       hu: "Az okinavai Jaejama-szigetek legnagyobbika, amelynek több mint 90%-át sűrű dzsungel és mangroveerdők borítják. Az iriomote-i vadmacska, egy kritikusan veszélyeztetett vadmacskafaj otthona.",
@@ -608,8 +625,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Hakone-Seilbahn",
       hu: "Hakone kötélpálya",
       ro: "Telecabina Hakone",
-      en: "Hakone Ropeway"
-    },
+      en: "Hakone Ropeway",
+image: "/poi-images/hakone-ropeway-kid-friendly-v2.webp"
+},
     description: {
       de: "Eine Seilbahn, die malerische Ausblicke auf das vulkanische Tal Ōwakudani und den Ashi-See bietet. An klaren Tagen ist der Berg Fuji sichtbar. Kinder genießen die Fahrt und die vulkanische Aktivität aus sicherer Entfernung.",
       hu: "Egy kötélpálya, amely festői kilátást nyújt az Óvakudani vulkanikus völgyre és az Asi-tóra. Tiszta napokon látható a Fudzsi-hegy. A gyerekek élvezik az utazást és a vulkáni tevékenységet biztonságos távolságból.",
@@ -643,8 +661,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Noboribetsu Bärenpark",
       hu: "Noboribecu Medvepark",
       ro: "Parcul de Urși Noboribetsu",
-      en: "Noboribetsu Bear Park"
-    },
+      en: "Noboribetsu Bear Park",
+image: "/poi-images/noboribetsu-bear-park-wildlife-v2.webp"
+},
     description: {
       de: "Ein Park auf einem Berg, der den Ussuri-Braunbären gewidmet ist. Besucher können die Bären von verschiedenen Plattformen aus beobachten und sie mit speziellen Leckereien füttern.",
       hu: "Egy hegyen található park, amelyet az usszuri barnamedvéknek szenteltek. A látogatók különböző emelvényekről figyelhetik meg a medvéket, és speciális csemegékkel etethetik őket.",
@@ -678,8 +697,9 @@ export const poiExtraJapanLifeV2: POI[] = [
       de: "Minamichita Strandland",
       hu: "Minamicsita Strandország",
       ro: "Minamichita Beach Land",
-      en: "Minamichita Beach Land"
-    },
+      en: "Minamichita Beach Land",
+image: "/poi-images/minamichita-beach-land-kid-friendly-v2.webp"
+},
     description: {
       de: "Ein Vergnügungspark und Aquarium an der Küste der Chita-Halbinsel. Er bietet Delfinshows, Interaktionen mit Meerestieren und eine Vielzahl von Fahrgeschäften für Kinder.",
       hu: "Egy vidámpark és akvárium a Csita-félsziget partján. Delfinbemutatókat, tengeri állatokkal való interakciót és számos gyermekeknek szóló attrakciót kínál.",

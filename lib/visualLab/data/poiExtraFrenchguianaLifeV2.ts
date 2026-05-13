@@ -16,8 +16,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Zoo de Guyane bei Macouria ist ein wichtiges Zentrum für die Erhaltung der lokalen Tierwelt und bietet Besuchern einen tiefen Einblick in die Artenvielfalt des Amazonasgebiets. Inmitten der üppigen Vegetation können Gäste eine beeindruckende Sammlung von Tieren wie Jaguaren, Faultieren und bunten Papageien in ihren natürlich gestalteten Gehegen bewundern. Der Zoo legt großen Wert auf die Bildungsarbeit und das Verständnis für die empfindlichen Ökosysteme Guayanas. Ein Highlight für viele Besucher ist der Baumwipfelpfad, der einen Perspektivwechsel ermöglicht und den Wald auf einer anderen Ebene erfahrbar macht. Als Ort der Begegnung zwischen Mensch und Natur spielt der Zoo eine zentrale Rolle im Umweltbewusstsein der Region. Sachkunde K5 — heimische Tiere und ihre Lebensräume im tropischen Regenwald.",
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf zoo de guyane in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf zoo de guyane in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-zoo-de-guyane.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -52,8 +53,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "Îlet La Mère ist eine der reizvollen Inseln vor der Küste von Cayenne und ist heute insbesondere als Heimat einer stabilen Totenkopfaffen-Population bekannt. Die Insel kann im Rahmen von Ausflügen besucht werden und bietet Wanderwege, die durch eine tropische Vegetation führen, in der man die quirligen Affen oft aus nächster Nähe beobachten kann. Historisch gesehen war die Insel in der Vergangenheit bewohnt und weist noch Spuren aus dieser Zeit auf, die im dichten Grün verborgen sind. Heute dient sie vor allem der Naturbeobachtung und Erholung vom Festland. Der Ausflug zur Insel ist ein beliebtes Ziel für Naturfreunde, die eine unberührte Atmosphäre suchen. Biologie K6 — Primatenverhalten und insulare Ökosysteme.",
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf ilet la mere in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf ilet la mere in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-ilet-la-mere.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -87,8 +89,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf reserve amana in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf reserve amana in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-reserve-amana.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -121,8 +124,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf reserve tresor in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf reserve tresor in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-reserve-tresor.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -155,8 +159,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf hmong farm cacao in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf hmong farm cacao in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-hmong-farm-cacao.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -189,8 +194,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf orchideenfarm montsinery in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf orchideenfarm montsinery in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-orchideenfarm-montsinery.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -223,8 +229,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf bienenfarm macouria in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf bienenfarm macouria in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-bienenfarm-macouria.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -257,8 +264,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf lernbauernhof matoury in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf lernbauernhof matoury in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-lernbauernhof-matoury.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -291,8 +299,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf rum destillerie toucan in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf rum destillerie toucan in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-rum-destillerie-toucan.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -325,8 +334,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
-      en: "The region surrounding gf vanilleplantage regina in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf vanilleplantage regina in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-vanilleplantage-regina.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -359,8 +369,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf zebu farm sinnamary in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf zebu farm sinnamary in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-zebu-farm-sinnamary.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },

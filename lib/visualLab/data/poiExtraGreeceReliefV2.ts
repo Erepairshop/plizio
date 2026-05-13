@@ -4,7 +4,9 @@ export const greeceReliefV2: POI[] = [
   {
     id: "greece-pindus-range-relief-v2",
     type: "mountain",
-    name: { de: "Pindos-Gebirge", hu: "Pindosz-hegység", ro: "Munții Pindului", en: "Pindus Mountain Range" },
+    name: { de: "Pindos-Gebirge", hu: "Pindosz-hegység", ro: "Munții Pindului", en: "Pindus Mountain Range",
+image: "/poi-images/greece-pindus-range-relief-v2.webp"
+},
     coords: [21.0, 40.0],
     coordinates: { lat: 40.0, lng: 21.0 },
     description: {
@@ -19,11 +21,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Lungime de aproximativ 160 kilometri", "Parte a sistemului muntos dinaric", "Include defileul Vikos, unul dintre cele mai adânci", "Reprezintă principala cumpănă a apelor"],
       en: ["Stretches for approximately 160 kilometers", "Part of the Dinaric mountain system", "Contains the Vikos Gorge, a world-record canyon", "Primary watershed of mainland Greece"],
     },
-    imageHint: "Pindus mountain range landscape overview", image: "/poi-images/greece-pindus-range-relief-v2.webp"},
-  {
+imageHint: "Pindus mountain range landscape overview",
+    descriptionAdvanced: {
+      de: "Das Pindos-Gebirge bildet als Rückgrat Griechenlands eine markante Barriere zwischen dem Ionischen Meer und der Ägäis. Es ist geprägt durch tiefe Schluchten und Flysch-Gestein.",
+      hu: "A Píndosz-hegység Görögország fő vízválasztója, amely észak-déli irányban szeli át az országot. Jellemzői a mély szurdokok és a változatos mészkő- és flisformációk.",
+      ro: "Munții Pindului constituie coloana vertebrală a Greciei, separând Epirul de Tesalia. Relieful este definit de văi adânci și piscuri calcaroase ce depășesc 2600 de metri.",
+      en: "The Pindus range serves as the backbone of mainland Greece, stretching from the northern borders to the Peloponnese. It is characterized by steep peaks and the Vikos Gorge.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Smolikas (2637 m)", "Länge: ca. 160 km in Griechenland", "Heimat des Nationalparks Vikos-Aoos", "Geologische Zusammensetzung: Kalkstein"],
+      hu: ["Legmagasabb pont: Szmólikasz (2637 m)", "Hossza: kb. 160 km görög területen", "Itt található a Vikosz-szurdok", "Fontos élőhely a barna medvék számára"],
+      ro: ["Vârful Smolikas: 2637 m altitudine", "Lungime: aproximativ 160 kilometri", "Găzduiește parcul național Vikos-Aoos", "Structură geologică: roci sedimentare"],
+      en: ["Highest peak: Smolikas at 2,637 m", "Length: approx. 160 km within Greece", "Home to the deep Vikos Gorge", "Contains significant flysch deposits"],
+    },
+    image: "/poi-images/greece-pindus-range-relief-v2.webp",
+},  {
     id: "greece-lefka-ori-relief-v2",
     type: "mountain",
-    name: { de: "Weiße Berge (Lefka Ori)", hu: "Fehér-hegység (Lefka Ori)", ro: "Munții Albi (Lefka Ori)", en: "White Mountains (Lefka Ori)" },
+    name: { de: "Weiße Berge (Lefka Ori)", hu: "Fehér-hegység (Lefka Ori)", ro: "Munții Albi (Lefka Ori)", en: "White Mountains (Lefka Ori)",
+image: "/poi-images/greece-lefka-ori-relief-v2.webp"
+},
     coords: [24.0333, 35.2917],
     coordinates: { lat: 35.2917, lng: 24.0333 },
     description: {
@@ -38,11 +55,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Pachnes este cel mai înalt (2453 m)", "Format din calcar alb și dolomit", "Adăpostește faimosul defileu Samaria", "Peste 30 de vârfuri depășesc 2000 m"],
       en: ["Highest peak is Pachnes (2,453 m)", "Composed of light limestone and dolomite", "Home to the famous Samaria Gorge", "Contains over 30 peaks above 2,000 meters"],
     },
-    imageHint: "White Mountains Lefka Ori Crete landscape", image: "/poi-images/greece-lefka-ori-relief-v2.webp"},
-  {
+imageHint: "White Mountains Lefka Ori Crete landscape",
+    descriptionAdvanced: {
+      de: "Die Weißen Berge auf Kreta bestehen aus hellem Kalkstein, der im Sonnenlicht weiß glänzt. Das Gebirge beherbergt die berühmte Samaria-Schlucht und über 30 Gipfel über 2000 Meter.",
+      hu: "A Kréta szigetén magasodó Fehér-hegység nevét a világos mészkősziklákról kapta. Itt található Európa egyik leghosszabb szurdoka, a Szamaria-hasadék is.",
+      ro: "Munții Albi din Creta sunt recunoscuți pentru peisajul lor selenar format din calcar alb. Masivul include peste 30 de vârfuri care depășesc cota de 2000 de metri.",
+      en: "Lefka Ori, or the White Mountains, dominate western Crete with their limestone peaks. The range is famous for the Samaria Gorge and its unique high-altitude desert.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Pachnes (2453 m)", "Beinhaltet die 16 km lange Samaria-Schlucht", "Geologie: Überwiegend Kalkstein", "Über 30 Gipfel über 2000 Meter Höhe"],
+      hu: ["Legmagasabb csúcs: Pachnesz (2453 m)", "Itt van a 16 km hosszú Szamaria-szurdok", "Alapzata: krétai kristályos mészkő", "Télen hótakaró borítja a csúcsokat"],
+      ro: ["Vârful Pachnes: 2453 m înălțime", "Include defileul Samaria de 16 km", "Peste 30 de vârfuri peste 2000 m", "Culoare albă datorată calcarului"],
+      en: ["Highest peak: Pachnes at 2,453 m", "Home to the 16 km Samaria Gorge", "Over 30 peaks above 2,000 meters", "Formed mainly of Triassic limestone"],
+    },
+    image: "/poi-images/greece-lefka-ori-relief-v2.webp",
+},  {
     id: "greece-thessalian-plain-relief-v2",
     type: "valley",
-    name: { de: "Thessalische Ebene", hu: "Thesszáliai-alföld", ro: "Câmpia Tesaliei", en: "Thessalian Plain" },
+    name: { de: "Thessalische Ebene", hu: "Thesszáliai-alföld", ro: "Câmpia Tesaliei", en: "Thessalian Plain",
+image: "/poi-images/greece-thessalian-plain-relief-v2.webp"
+},
     coords: [22.3333, 39.5],
     coordinates: { lat: 39.5, lng: 22.3333 },
     description: {
@@ -57,11 +89,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Cea mai întinsă câmpie din Grecia", "Principala zonă cerealieră a țării", "Traversată de râul Pineios", "Fost fund de lac în perioade preistorice"],
       en: ["Largest plain in Greece", "Primary area for grain production", "Traversed by the Pineios river", "Ancient lake basin in prehistoric times"],
     },
-    imageHint: "Thessalian Plain agricultural landscape", image: "/poi-images/greece-thessalian-plain-relief-v2.webp"},
-  {
+imageHint: "Thessalian Plain agricultural landscape",
+    descriptionAdvanced: {
+      de: "Die Thessalische Ebene ist die größte Tiefebene Griechenlands und wird vom Fluss Pineios entwässert. Sie ist das landwirtschaftliche Herzstück des Landes mit fruchtbaren Böden.",
+      hu: "A Thesszáliai-alföld Görögország legnagyobb síksága, amelyet a Piniósz folyó hálóz be. Az ország éléskamrájaként ismert területet magas hegyvonulatok zárják körül.",
+      ro: "Câmpia Tesaliei este cea mai întinsă regiune joasă a Greciei, fiind drenată de râul Pineios. Este înconjurată de munții Olimp, Pind și Ossa, formând un bazin fertil.",
+      en: "The Thessalian Plain is Greece's primary agricultural region, surrounded by high mountain ranges. It was once a large lake before the Pineios river carved its outlet.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 5000 Quadratkilometer", "Hauptfluss: Pineios (Pinios)", "Begrenzt durch Olymp und Pindos", "Wichtigstes Anbaugebiet für Baumwolle"],
+      hu: ["Területe: kb. 5000 négyzetkilométer", "Fő folyója: a Piniósz", "Határai: Olimposz, Píndosz és Ossza", "Görögország legfőbb gabonatermő vidéke"],
+      ro: ["Suprafață: circa 5000 km pătrați", "Principalul râu: Pineios", "Delimitată de munții Olimp și Pind", "Cel mai mare bazin agricol al Greciei"],
+      en: ["Total area: approx. 5,000 sq km", "Primary drainage: Pineios River", "Bounded by Olympus and Pindus", "Main producer of cereals and cotton"],
+    },
+    image: "/poi-images/greece-thessalian-plain-relief-v2.webp",
+},  {
     id: "greece-mount-tymfi-relief-v2",
     type: "peak",
-    name: { de: "Tymfi-Gebirge", hu: "Tümfi-hegység", ro: "Muntele Tymfi", en: "Mount Tymfi" },
+    name: { de: "Tymfi-Gebirge", hu: "Tümfi-hegység", ro: "Muntele Tymfi", en: "Mount Tymfi",
+image: "/poi-images/greece-mount-tymfi-relief-v2.webp"
+},
     coords: [20.7894, 39.9972],
     coordinates: { lat: 39.9972, lng: 20.7894 },
     description: {
@@ -76,11 +123,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful maxim este Gamila (2497 m)", "Faimos pentru lacul Drakolimni de pe Tymfi", "Alcăuit aproape integral din calcar", "Parte din Parcul Național Vikos-Aoos"],
       en: ["Highest peak is Gamila (2,497 m)", "Famous for the Dragon Lake (Drakolimni)", "Composed almost entirely of limestone", "Part of the Vikos–Aoös National Park"],
     },
-    imageHint: "Mount Tymfi Gamila peak and cliffs", image: "/poi-images/greece-mount-tymfi-relief-v2.webp"},
-  {
+imageHint: "Mount Tymfi Gamila peak and cliffs",
+    descriptionAdvanced: {
+      de: "Das Tymfi-Massiv im Epirus ist für seine spektakulären Steilwände und den Drachensee bekannt. Es bildet die nördliche Begrenzung der Vikos-Schlucht und besteht aus Kalkstein.",
+      hu: "A Timfi-hegység az Epírosz régióban található, híres függőleges sziklafalairól és a tengerszeméről (Drakolimni). Északi oldala a Vikosz-szurdok peremét alkotja.",
+      ro: "Muntele Tymfi din Epir este celebru pentru peretii verticali si lacul glaciar Drakolimni. Masivul limitează la nord spectaculosul defileu Vikos din parcul național.",
+      en: "Mount Tymfi in the Epirus region features dramatic limestone cliffs and the alpine Dragon Lake. Its southern slopes form the northern rim of the deep Vikos Gorge.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Gamila (2497 m)", "Beherbergt den Bergsee Drakolimni", "Höhenlage der Drakolimni: 2050 m", "Teil des Nationalparks Vikos-Aoos"],
+      hu: ["Legmagasabb pont: Gamila (2497 m)", "Itt fekszik a 2050 m magas Drakolimni", "A Vikosz-szurdok északi határa", "Mészkőből álló masszívum"],
+      ro: ["Vârful Gamila: 2497 m altitudine", "Adăpostește lacul glaciar Drakolimni", "Altitudinea lacului: 2050 m", "Face parte din parcul Vikos-Aoos"],
+      en: ["Highest peak: Gamila at 2,497 m", "Features Dragon Lake at 2,050 m", "Part of the Vikos-Aoos National Park", "Steepest walls reach 1,000 m drop"],
+    },
+    image: "/poi-images/greece-mount-tymfi-relief-v2.webp",
+},  {
     id: "greece-mount-oeta-relief-v2",
     type: "peak",
-    name: { de: "Oite", hu: "Oiti-hegység", ro: "Muntele Oeta", en: "Mount Oeta" },
+    name: { de: "Oite", hu: "Oiti-hegység", ro: "Muntele Oeta", en: "Mount Oeta",
+image: "/poi-images/greece-mount-oeta-relief-v2.webp"
+},
     coords: [22.2833, 38.8167],
     coordinates: { lat: 38.8167, lng: 22.2833 },
     description: {
@@ -95,11 +157,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 2152 metri", "Parc național din anul 1966", "Platou carstic major în zona de vârf", "Cunoscut drept 'muntele florilor'"],
       en: ["Maximum elevation of 2,152 meters", "National park since 1966", "Significant karst plateau at the summit", "Known as the 'mountain of flowers'"],
     },
-    imageHint: "Mount Oeta mountain landscape", image: "/poi-images/greece-mount-oeta-relief-v2.webp"},
-  {
+imageHint: "Mount Oeta mountain landscape",
+    descriptionAdvanced: {
+      de: "Das Oeta-Gebirge in Zentralgriechenland ist ein wasserreiches Kalksteinmassiv mit dichten Tannenwäldern. In der Mythologie ist es als Ort des Todes von Herakles bekannt.",
+      hu: "Az Oita-hegység Közép-Görögországban fekszik, híres sűrű fenyőerdőiről és gazdag vízhálózatáról. A mitológia szerint itt fejezte be életét Héraklész a máglyán.",
+      ro: "Muntele Oeta din centrul Greciei este un masiv calcaros bogat în resurse hidrografice. Este acoperit de păduri de brad și legat mitologic de moartea lui Hercule.",
+      en: "Mount Oeta in Central Greece is a limestone massif rich in water sources and fir forests. Mythology places the funeral pyre of Heracles on its highest slopes.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Pyrgos (2152 m)", "Nationalpark seit dem Jahr 1966", "Höhenunterschied zum Spercheios: 2100 m", "Bekannt für den Pyra-Herkules-Tempel"],
+      hu: ["Legmagasabb pont: Pürgosz (2152 m)", "Nemzeti parki védelem alatt 1966 óta", "A Szperkhiósz-völgytől délre fekszik", "Híres a Pürasz-Héraklész szentélyről"],
+      ro: ["Vârful Pyrgos: 2152 m înălțime", "Parc național declarat în 1966", "Diferență nivel valea Spercheios: 2100 m", "Locul mitic al rugului lui Hercule"],
+      en: ["Highest peak: Pyrgos at 2,152 m", "Established national park since 1966", "South of the Spercheios River valley", "Site of the ancient Pyra of Heracles"],
+    },
+    image: "/poi-images/greece-mount-oeta-relief-v2.webp",
+},  {
     id: "greece-rhodope-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Rhodopen", hu: "Rodope-hegység", ro: "Munții Rodopi", en: "Rhodope Mountains" },
+    name: { de: "Rhodopen", hu: "Rodope-hegység", ro: "Munții Rodopi", en: "Rhodope Mountains",
+image: "/poi-images/greece-rhodope-mountains-relief-v2.webp"
+},
     coords: [24.5, 41.4167],
     coordinates: { lat: 41.4167, lng: 24.5 },
     description: {
@@ -114,11 +191,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Graniță naturală între Grecia și Bulgaria", "Format din roci cristaline străvechi", "Găzduiește Parcul Național Rodopi", "Bogați în minereuri de plumb și zinc"],
       en: ["Border between Greece and Bulgaria", "Composed of crystalline basement rocks", "Home to the Rhodope Mountain Range National Park", "Rich in lead and zinc ores"],
     },
-    imageHint: "Rhodope mountains forested landscape", image: "/poi-images/greece-rhodope-mountains-relief-v2.webp"},
-  {
+imageHint: "Rhodope mountains forested landscape",
+    descriptionAdvanced: {
+      de: "Die Rhodopen erstrecken sich über Nordgriechenland und Bulgarien und zeichnen sich durch sanftere Gipfel und dichte Urwälder aus. Sie sind ein Rückzugsort für Braunbären.",
+      hu: "A Rodope-hegység Észak-Görögország és Bulgária határán húzódik, hatalmas erdőségeiről ismert. Földtanilag Európa egyik legidősebb kristályos kőzetből álló tömbje.",
+      ro: "Munții Rodopi se întind între Grecia și Bulgaria, având un relief mai domol și păduri virgine. Masivul este format din roci metamorfice și magmatice vechi.",
+      en: "The Rhodope Mountains span across northern Greece and Bulgaria, featuring dense forests and karst landscapes. They represent one of the oldest landmasses in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Höchster griechischer Gipfel: 1826 m", "Über 70% der Fläche liegen in Bulgarien", "Heimat des Haidou-Urwaldes", "Besteht aus Gneis und Marmor"],
+      hu: ["Görög oldali csúcs: Deloche (1529 m)", "A hegység 70%-a Bulgáriában található", "Itt van a Haidu-őserdő rezervátum", "Anyaga: gneisz és kristályos pala"],
+      ro: ["Vârful Deloche (Grecia): 1529 m", "Circa 70% din masiv este în Bulgaria", "Conține păduri virgine de fag și brad", "Geologie: gnaisuri și șisturi vechi"],
+      en: ["Greek peak (Deloche): 1,529 m", "70% of the range lies in Bulgaria", "Home to the Haidou virgin forest", "Composed of gneiss and marble rocks"],
+    },
+    image: "/poi-images/greece-rhodope-mountains-relief-v2.webp",
+},  {
     id: "greece-mount-falakro-relief-v2",
     type: "peak",
-    name: { de: "Falakro", hu: "Falakro-hegység", ro: "Muntele Falakro", en: "Mount Falakro" },
+    name: { de: "Falakro", hu: "Falakro-hegység", ro: "Muntele Falakro", en: "Mount Falakro",
+image: "/poi-images/greece-mount-falakro-relief-v2.webp"
+},
     coords: [24.0017, 41.2961],
     coordinates: { lat: 41.2961, lng: 24.0017 },
     description: {
@@ -133,11 +225,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Profitis Ilias are 2232 m", "Cunoscut pentru dolinele sale carstice", "Centru de schi major în nordul Greciei", "Alcăuit în principal din calcar"],
       en: ["Highest peak is Profitis Ilias (2,232 m)", "Known for its karst dolines (sinkholes)", "Important ski center in Northern Greece", "Composed predominantly of limestone"],
     },
-    imageHint: "Mount Falakro barren rocky peaks", image: "/poi-images/greece-mount-falakro-relief-v2.webp"},
-  {
+imageHint: "Mount Falakro barren rocky peaks",
+    descriptionAdvanced: {
+      de: "Das Falakro-Gebirge in Ostmakedonien trägt seinen Namen aufgrund der kargen, baumlosen Gipfelregionen. Es beherbergt eines der bedeutendsten Skigebiete Nordgriechenlands.",
+      hu: "A Falakro-hegység Kelet-Makedóniában található, neve 'kopaszt' jelent a fátlan csúcsai miatt. Jelentős karsztos területek és barlangok jellemzik a vidéket.",
+      ro: "Muntele Falakro din Macedonia de Est este numit astfel datorită crestelor sale pleșuve. Masivul este renumit pentru fenomenele carstice și stațiunea de schi.",
+      en: "Mount Falakro in Eastern Macedonia is known as the 'Bald Mountain' due to its treeless summit. It is a major center for winter sports and features deep sinkholes.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Profitis Ilias (2232 m)", "Besitzt das höchstgelegene Skizentrum", "Geologie: Kristalliner Kalkstein", "Berühmt für die Höhlen von Angitis"],
+      hu: ["Legmagasabb pont: Profitisz Iliasz (2232 m)", "Észak-Görögország síközpontja", "Kőzete: kristályos mészkő és márvány", "Itt ered az Aggitisz-folyó barlangja"],
+      ro: ["Vârful Profitis Ilias: 2232 m înălțime", "Găzduiește o importantă stațiune de schi", "Compoziție: calcar și marmură", "Izvorul râului Angitis se află la bază"],
+      en: ["Highest peak: Profitis Ilias (2,232 m)", "Hosts Northern Greece's highest ski resort", "Composed of limestone and marble", "Contains significant karst sinkholes"],
+    },
+    image: "/poi-images/greece-mount-falakro-relief-v2.webp",
+},  {
     id: "greece-mount-ossa-relief-v2",
     type: "peak",
-    name: { de: "Ossa (Kissavos)", hu: "Ossza-hegy (Kisszavosz)", ro: "Muntele Ossa (Kissavos)", en: "Mount Ossa (Kissavos)" },
+    name: { de: "Ossa (Kissavos)", hu: "Ossza-hegy (Kisszavosz)", ro: "Muntele Ossa (Kissavos)", en: "Mount Ossa (Kissavos)",
+image: "/poi-images/greece-mount-ossa-relief-v2.webp"
+},
     coords: [22.7, 39.8],
     coordinates: { lat: 39.8, lng: 22.7 },
     description: {
@@ -152,11 +259,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 1978 metri", "Separat de Olimp prin valea Tempe", "Ceața este foarte frecventă pe vârf", "Format din șisturi cristaline"],
       en: ["Maximum elevation of 1,978 meters", "Separated from Olympus by the Vale of Tempe", "Frequent fog formation at the summit", "Composed of crystalline schist"],
     },
-    imageHint: "Mount Ossa Kissavos peak landscape", image: "/poi-images/greece-mount-ossa-relief-v2.webp"},
-  {
+imageHint: "Mount Ossa Kissavos peak landscape",
+    descriptionAdvanced: {
+      de: "Der Berg Ossa, auch Kissavos genannt, trennt die Thessalische Ebene vom Ägäischen Meer. Er steht dem Olymp direkt gegenüber und ist für seine dichten Kastanienwälder bekannt.",
+      hu: "Az Ossza-hegység, más néven Kisszavosz, Thesszália keleti peremén magasodik az Égei-tenger felett. Az Olimposszal szemben állva fontos stratégiai pont volt.",
+      ro: "Muntele Ossa, cunoscut și sub numele de Kissavos, separă câmpia Tesaliei de Marea Egee. Este acoperit de păduri de castan și stejar, fiind opus muntelui Olimp.",
+      en: "Mount Ossa, also called Kissavos, stands between the Thessalian Plain and the Aegean Sea. It is separated from Mount Olympus by the narrow Tempe Valley.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Profitis Ilias (1978 m)", "Vom Olymp durch das Tempe-Tal getrennt", "Berühmt für Esskastanien-Produktion", "Dominante Form: Schiefer und Gneis"],
+      hu: ["Legmagasabb csúcs: 1978 méter", "A Tempé-völgy választja el az Olimposztól", "Híres szelídgesztenye-erdőiről", "Anyaga: kristályos pala és márvány"],
+      ro: ["Altitudine maximă: 1978 metri", "Separat de Olimp prin Valea Tempe", "Cunoscut pentru producția de castane", "Geologie: șisturi și calcare vechi"],
+      en: ["Highest peak: 1,978 meters", "Separated from Olympus by Tempe Valley", "Major producer of sweet chestnuts", "Primary rock types: schist and gneiss"],
+    },
+    image: "/poi-images/greece-mount-ossa-relief-v2.webp",
+},  {
     id: "greece-mount-paiko-relief-v2",
     type: "mountain",
-    name: { de: "Paiko", hu: "Paiko-hegység", ro: "Muntele Paiko", en: "Mount Paiko" },
+    name: { de: "Paiko", hu: "Paiko-hegység", ro: "Muntele Paiko", en: "Mount Paiko",
+image: "/poi-images/greece-mount-paiko-relief-v2.webp"
+},
     coords: [22.3333, 41.0],
     coordinates: { lat: 41.0, lng: 22.3333 },
     description: {
@@ -171,11 +293,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Gola Tsuka are 1650 m", "Păduri vaste de castani și stejari", "Relief mai domol comparat cu munții Pind", "Bogat în cursuri de apă și izvoare"],
       en: ["Highest peak is Gola Tsuka (1,650 m)", "Extensive chestnut and oak forests", "Gentler relief compared to the Pindus", "Rich in water streams and springs"],
     },
-    imageHint: "Mount Paiko forested slopes", image: "/poi-images/greece-mount-paiko-relief-v2.webp"},
-  {
+imageHint: "Mount Paiko forested slopes",
+    descriptionAdvanced: {
+      de: "Das Paiko-Gebirge liegt an der Grenze zwischen Zentral- und Ostmakedonien. Es ist ein sanftes Mittelgebirge mit vielen Wasserquellen und ausgedehnten Buchenwäldern.",
+      hu: "A Paiko-hegység Közép-Makedónia régiójában fekszik, lágyabb vonulatairól és bőséges forrásairól ismert. A hegység jelentős részét sűrű bükkerdők borítják.",
+      ro: "Muntele Paiko este situat la granița dintre unitățile Pella și Kilkis. Este un masiv cu forme domoale, bogat în izvoare și păduri întinse de fag și castan.",
+      en: "Mount Paiko is located on the border of Pella and Kilkis regions in Macedonia. It is characterized by gentle slopes, abundant water springs, and beech forests.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Gola Tsuka (1650 m)", "Hauptgestein: Kalkstein und Schiefer", "Wichtiges Trinkwasserreservoir der Region", "Bekannt für Kirsch- und Apfelanbau"],
+      hu: ["Legmagasabb pont: Gola Csuka (1650 m)", "Kőzete: mészkő és vulkáni kőzetek", "A régió fontos ivóvízbázisa", "Híres cseresznye- és almatermő vidék"],
+      ro: ["Vârful Gola Tsuka: 1650 m înălțime", "Roci predominante: calcar și șisturi", "Sursă vitală de apă pentru câmpie", "Renumit pentru livezile de cireși"],
+      en: ["Highest peak: Gola Tsuka at 1,650 m", "Composed of limestone and schist", "Vital water reservoir for the Axiou valley", "Famous for cherry and apple orchards"],
+    },
+    image: "/poi-images/greece-mount-paiko-relief-v2.webp",
+},  {
     id: "greece-mount-parnitha-relief-v2",
     type: "mountain",
-    name: { de: "Parnitha", hu: "Parnitha-hegység", ro: "Muntele Parnitha", en: "Mount Parnitha" },
+    name: { de: "Parnitha", hu: "Parnitha-hegység", ro: "Muntele Parnitha", en: "Mount Parnitha",
+image: "/poi-images/greece-mount-parnitha-relief-v2.webp"
+},
     coords: [23.7175, 38.1747],
     coordinates: { lat: 38.1747, lng: 23.7175 },
     description: {
@@ -190,11 +327,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Karavola are 1413 m", "Parc național din anul 1961", "Plămânul verde vital pentru zona Atenei", "Conține numeroase peșteri, precum Panas"],
       en: ["Highest peak is Karavola (1,413 m)", "National park since 1961", "Vital 'green lung' for the Athens area", "Contains numerous caves like Panas"],
     },
-    imageHint: "Mount Parnitha peaks near Athens", image: "/poi-images/greece-mount-parnitha-relief-v2.webp"},
-  {
+imageHint: "Mount Parnitha peaks near Athens",
+    descriptionAdvanced: {
+      de: "Die Parnitha ist das höchste Gebirge in der Nähe von Athen und dient als wichtiges Naherholungsgebiet. Große Teile des Massivs sind als Nationalpark geschützt.",
+      hu: "A Parnitha-hegység Athén legmagasabb és legfontosabb hegyvonulata, amely a város északi határát alkotja. Területének nagy része nemzeti parki védelem alatt áll.",
+      ro: "Muntele Parnitha este cel mai înalt masiv din proximitatea Atenei, fiind un plămân verde vital. Găzduiește un parc național cu o biodiversitate remarcabilă.",
+      en: "Mount Parnitha is the highest mountain near Athens, serving as a vital green lung for the capital. It was designated as a National Park in 1961 to protect its flora.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Karavola (1413 m)", "Nationalpark gegründet im Jahr 1961", "Beheimatet eine Population von Rothirschen", "Standort eines bekannten Kasinos"],
+      hu: ["Legmagasabb csúcs: Karavola (1413 m)", "1961-ben alapították nemzeti parkját", "Gímszarvas-állomány él a területén", "Itt található az athéni kaszinó"],
+      ro: ["Vârful Karavola: 1413 m altitudine", "Parc național înființat în 1961", "Adăpostește populații de cerbi carpatini", "Accesibil prin telecabină din Atena"],
+      en: ["Highest peak: Karavola at 1,413 m", "National Park status since 1961", "Home to a large red deer population", "Features a prominent cable car and casino"],
+    },
+    image: "/poi-images/greece-mount-parnitha-relief-v2.webp",
+},  {
     id: "greece-mount-pentelicus-relief-v2",
     type: "mountain",
-    name: { de: "Pentelikon", hu: "Pentelikon-hegy", ro: "Muntele Pentelic", en: "Mount Pentelicus" },
+    name: { de: "Pentelikon", hu: "Pentelikon-hegy", ro: "Muntele Pentelic", en: "Mount Pentelicus",
+image: "/poi-images/greece-mount-pentelicus-relief-v2.webp"
+},
     coords: [23.8833, 38.0811],
     coordinates: { lat: 38.0811, lng: 23.8833 },
     description: {
@@ -209,11 +361,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine de 1109 metri", "Sursa marmurei pentelice", "Marcat de cariere antice și moderne", "Oferă vedere spre câmpia Maraton"],
       en: ["Elevation of 1,109 meters", "Source of the Pentelic marble", "Heavily shaped by ancient and modern quarries", "Overlooks the plain of Marathon"],
     },
-    imageHint: "Mount Pentelicus marble quarries", image: "/poi-images/greece-mount-pentelicus-relief-v2.webp"},
-  {
+imageHint: "Mount Pentelicus marble quarries",
+    descriptionAdvanced: {
+      de: "Der Pentelikon ist weltberühmt für seinen weißen Marmor, aus dem der Parthenon erbaut wurde. Er liegt nordöstlich von Athen und prägt das Landschaftsbild Attikas.",
+      hu: "A Pentelikosz-hegy világhírét a fehér márványnak köszönheti, amelyből az Akropoliszt is építették. Athéntól északkeletre fekszik, kőbányái évezredek óta működnek.",
+      ro: "Muntele Pentelic este renumit mondial pentru marmura albă folosită la construcția Partenonului. Masivul domină nord-estul Atenei și are o istorie minieră vastă.",
+      en: "Mount Pentelicus is globally famous for its white marble, used to build the Parthenon. It forms the northeastern boundary of the Athens basin in Attica.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Pyrgari (1109 m)", "Quelle des Pentelischen Marmors", "Antike Steinbrüche sind noch sichtbar", "Ort der Gründung des Klosters Penteli"],
+      hu: ["Legmagasabb pont: Pürgari (1109 m)", "A Parthenón márványának származási helye", "Ókori bányái ma is látogathatók", "Több nagy tűzvész sújtotta az erdőit"],
+      ro: ["Vârful Pyrgari: 1109 m înălțime", "Sursă de marmură pentru Partenon", "Exploatat încă din secolul V î.Hr.", "Găzduiește mănăstirea istorică Penteli"],
+      en: ["Highest peak: Pyrgari at 1,109 m", "Source of Pentelic marble since antiquity", "Supplied stone for the Acropolis temples", "Home to the 16th-century Penteli Monastery"],
+    },
+    image: "/poi-images/greece-mount-pentelicus-relief-v2.webp",
+},  {
     id: "greece-mount-hymettus-relief-v2",
     type: "mountain",
-    name: { de: "Hymettos", hu: "Hümettosz-hegység", ro: "Muntele Imitos", en: "Mount Hymettus" },
+    name: { de: "Hymettos", hu: "Hümettosz-hegység", ro: "Muntele Imitos", en: "Mount Hymettus",
+image: "/poi-images/greece-mount-hymettus-relief-v2.webp"
+},
     coords: [23.8167, 37.95],
     coordinates: { lat: 37.95, lng: 23.8167 },
     description: {
@@ -228,11 +395,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Lungime de aproximativ 16 km", "Cel mai înalt punct Evzonas (1026 m)", "Renumit pentru 'mierea de Imitos'", "Numeroase peșteri și mănăstiri"],
       en: ["Length of about 16 kilometers", "Highest point is Evzonas (1,026 m)", "Famous for 'Hymettian honey'", "Features numerous caves and monasteries"],
     },
-    imageHint: "Mount Hymettus ridge near Athens", image: "/poi-images/greece-mount-hymettus-relief-v2.webp"},
-  {
+imageHint: "Mount Hymettus ridge near Athens",
+    descriptionAdvanced: {
+      de: "Der Hymettos begrenzt das Athener Becken im Osten und ist seit der Antike für seinen aromatischen Thymianhonig bekannt. Er besteht aus Marmor und Kalkstein.",
+      hu: "A Hümettosz-hegység Athén keleti határa, amely évezredek óta híres kakukkfüves mézéről. Kedvelt kirándulóhely kolostorokkal és barlangokkal tarkítva.",
+      ro: "Muntele Hymettus mărginește Atena la est, fiind celebru încă din antichitate pentru mierea sa. Masivul calcaros este presărat cu mănăstiri bizantine și peșteri.",
+      en: "Mount Hymettus flanks the eastern side of Athens and is renowned since antiquity for its honey. It offers panoramic views of the Saronic Gulf and the city.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Evzonas (1026 m)", "Berühmt für Thymianhonig", "Beherbergt das Kaisariani-Kloster", "Geologie: Vorwiegend blaugrauer Marmor"],
+      hu: ["Legmagasabb csúcs: Evzonasz (1026 m)", "Híres a különleges kakukkfűmézéről", "Itt található a Készariani-kolostor", "Kőzete: kékes szürke márvány"],
+      ro: ["Vârful Evzonas: 1026 m altitudine", "Renumit pentru mierea de cimbru", "Adăpostește mănăstirea Kaisariani", "Format din marmură și calcar"],
+      en: ["Highest peak: Evzonas at 1,026 m", "Famous for aromatic thyme honey", "Site of the 11th-century Kaisariani Monastery", "Composed of blue-gray marble and limestone"],
+    },
+    image: "/poi-images/greece-mount-hymettus-relief-v2.webp",
+},  {
     id: "greece-mount-voras-relief-v2",
     type: "peak",
-    name: { de: "Voras (Kaimaktsalan)", hu: "Vorasz-hegység (Kajmakcsalan)", ro: "Muntele Voras (Kaimaktsalan)", en: "Mount Voras (Kaimaktsalan)" },
+    name: { de: "Voras (Kaimaktsalan)", hu: "Vorasz-hegység (Kajmakcsalan)", ro: "Muntele Voras (Kaimaktsalan)", en: "Mount Voras (Kaimaktsalan)",
+image: "/poi-images/greece-mount-voras-relief-v2.webp"
+},
     coords: [21.7892, 40.9325],
     coordinates: { lat: 40.9325, lng: 21.7892 },
     description: {
@@ -247,11 +429,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine de 2524 metri", "Al treilea cel mai înalt punct din țară", "Vârful este format din granit și gnais", "Găzduiește stațiunea de schi Kaimaktsalan"],
       en: ["Elevation of 2,524 meters", "Third highest point in Greece", "Summit composed of granite and gneiss", "Popular Kaimaktsalan ski resort"],
     },
-    imageHint: "Mount Voras Kaimaktsalan peaks", image: "/poi-images/greece-mount-voras-relief-v2.webp"},
-  {
+imageHint: "Mount Voras Kaimaktsalan peaks",
+    descriptionAdvanced: {
+      de: "Das Voras-Gebirge, auch Kaimaktsalan genannt, markiert die Grenze zu Nordmazedonien. Sein Gipfelplateau beherbergt eine markante Kapelle für gefallene Soldaten.",
+      hu: "A Vorasz-hegység (Kajmaktalan) Észak-Makedónia határán fekszik. Híres magashegyi fennsíkjáról és az ott található emlékkápolnáról, amely az I. világháborúra emlékeztet.",
+      ro: "Muntele Voras, cunoscut și ca Kaimaktsalan, se află la granița cu Macedonia de Nord. Vârful său găzduiește o capelă ridicată în memoria soldaților din Primul Război Mondial.",
+      en: "Mount Voras, also known as Kaimaktsalan, sits on the border with North Macedonia. Its high-altitude plateau is home to a Greek Orthodox chapel and a popular ski resort.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Profitis Ilias (2524 m)", "Drittshöchster Berg Griechenlands", "Wichtiger Schauplatz im Ersten Weltkrieg", "Bekanntes Skizentrum Kaimaktsalan"],
+      hu: ["Legmagasabb pont: 2524 méter", "Görögország 3. legmagasabb hegye", "Fontos I. világháborús hadszíntér", "Itt van a Kajmaktalan síközpont"],
+      ro: ["Vârful Profitis Ilias: 2524 m", "Al treilea cel mai înalt munte din Grecia", "Teatru de luptă în Primul Război Mondial", "Stațiune de schi la peste 2000 m"],
+      en: ["Highest peak: Profitis Ilias (2,524 m)", "Greece's third highest mountain", "Major battlefield in World War I", "Features the Kaimaktsalan ski center"],
+    },
+    image: "/poi-images/greece-mount-voras-relief-v2.webp",
+},  {
     id: "greece-mount-vardousia-relief-v2",
     type: "peak",
-    name: { de: "Vardousia", hu: "Vardouszia-hegység", ro: "Munții Vardousia", en: "Mount Vardousia" },
+    name: { de: "Vardousia", hu: "Vardouszia-hegység", ro: "Munții Vardousia", en: "Mount Vardousia",
+image: "/poi-images/greece-mount-vardousia-relief-v2.webp"
+},
     coords: [22.1333, 38.65],
     coordinates: { lat: 38.65, lng: 22.1333 },
     description: {
@@ -266,11 +463,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Korakas are 2495 m", "Relief alpin foarte accidentat", "Una dintre cele mai sudice zone alpine", "Format din calcar masiv"],
       en: ["Highest peak is Korakas (2,495 m)", "Very alpine and rugged relief", "One of the southernmost alpine areas", "Composed of solid limestone"],
     },
-    imageHint: "Mount Vardousia alpine peaks", image: "/poi-images/greece-mount-vardousia-relief-v2.webp"},
-  {
+imageHint: "Mount Vardousia alpine peaks",
+    descriptionAdvanced: {
+      de: "Die Vardousia-Berge in Zentralgriechenland gelten als eine der alpinsten Regionen des Landes. Die zerklüfteten Gipfel aus Kalkstein ragen steil über die Täler auf.",
+      hu: "A Vardouszia-hegység Közép-Görögországban található, az ország egyik leginkább alpesi jellegű vonulata. Híres éles gerinceiről és függőleges mészkőfalairól.",
+      ro: "Munții Vardousia din Grecia Centrală au un aspect alpin marcat, cu creste ascuțite. Sunt formați din calcare jurasice și cretacice, oferind peisaje spectaculoase.",
+      en: "Mount Vardousia is one of the most alpine-looking ranges in Central Greece. Its rugged limestone ridges and high peaks make it a favorite for mountaineers.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Korakas (2495 m)", "Zweithöchster Berg Süd-Griechenlands", "Alpiner Charakter mit scharfen Graten", "Beliebtes Ziel für Bergsteiger"],
+      hu: ["Legmagasabb pont: Korakasz (2495 m)", "Dél-Görögország második legmagasabbja", "Erősen alpesi domborzat jellemzi", "Fő kőzete a kemény mészkő"],
+      ro: ["Vârful Korakas: 2495 m înălțime", "Al doilea cel mai înalt din Grecia Centrală", "Relief glaciar și creste calcaroase", "Destinație majoră pentru alpinism"],
+      en: ["Highest peak: Korakas at 2,495 m", "Second highest in Central Greece", "Features extremely steep alpine ridges", "Primarily composed of hard limestone"],
+    },
+    image: "/poi-images/greece-mount-vardousia-relief-v2.webp",
+},  {
     id: "greece-mount-chelmos-relief-v2",
     type: "peak",
-    name: { de: "Chelmos (Aroania)", hu: "Helmosz-hegység (Aroania)", ro: "Muntele Chelmos (Aroania)", en: "Mount Chelmos (Aroania)" },
+    name: { de: "Chelmos (Aroania)", hu: "Helmosz-hegység (Aroania)", ro: "Muntele Chelmos (Aroania)", en: "Mount Chelmos (Aroania)",
+image: "/poi-images/greece-mount-chelmos-relief-v2.webp"
+},
     coords: [22.1833, 37.9667],
     coordinates: { lat: 37.9667, lng: 22.1833 },
     description: {
@@ -285,11 +497,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 2355 metri", "Geoparc Global UNESCO", "Include cascadele râului Styx", "Găzduiește un important observator astronomic"],
       en: ["Maximum elevation of 2,355 meters", "UNESCO Global Geopark designation", "Home to the Waters of Styx waterfall", "Features a major astronomical observatory"],
     },
-    imageHint: "Mount Chelmos snow and rocky slopes", image: "/poi-images/greece-mount-chelmos-relief-v2.webp"},
-  {
+imageHint: "Mount Chelmos snow and rocky slopes",
+    descriptionAdvanced: {
+      de: "Das Chelmos-Massiv auf der Peloponnes ist für das antike Wasser des Styx und seine Sternwarte bekannt. Das Gebiet ist als Geopark der UNESCO geschützt.",
+      hu: "A Chelmosz-hegység (Aroania) a Peloponnészoszon fekszik, híres a Sztüx vizéről és modern csillagvizsgálójáról. Az UNESCO Geopark része különleges geológiája miatt.",
+      ro: "Muntele Chelmos din Peloponez este faimos pentru cascada Styx și observatorul astronomic. Regiunea este inclusă în rețeaua UNESCO a geoparkurilor.",
+      en: "Mount Chelmos, or Aroania, is a prominent range in the Peloponnese, home to the mythical Waters of Styx. It hosts the Aristarchos telescope, one of Europe's largest.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Psili Koryfi (2341 m)", "Heimat des mythischen Flusses Styx", "Standort des Aristarchos-Teleskops", "UNESCO Global Geopark seit 2009"],
+      hu: ["Legmagasabb csúcs: 2341 méter", "Itt található a Sztüx folyó vízesése", "Itt működik az Arisztarkhosz-távcső", "UNESCO Globális Geopark tagja"],
+      ro: ["Vârful Psili Koryfi: 2341 m", "Locul legendar al izvorului Styx", "Găzduiește telescopul Aristarchos", "Inclus în rețeaua UNESCO din 2009"],
+      en: ["Highest peak: Psili Koryfi (2,341 m)", "Site of the mythical Styx waterfall", "Hosts the 2.3m Aristarchos telescope", "Part of the Chelmos-Vouraikos Geopark"],
+    },
+    image: "/poi-images/greece-mount-chelmos-relief-v2.webp",
+},  {
     id: "greece-mount-erymanthos-relief-v2",
     type: "peak",
-    name: { de: "Erymanthos", hu: "Erümanthosz-hegység", ro: "Muntele Erymanthos", en: "Mount Erymanthos" },
+    name: { de: "Erymanthos", hu: "Erümanthosz-hegység", ro: "Muntele Erymanthos", en: "Mount Erymanthos",
+image: "/poi-images/greece-mount-erymanthos-relief-v2.webp"
+},
     coords: [21.8333, 37.9333],
     coordinates: { lat: 37.9333, lng: 21.8333 },
     description: {
@@ -304,11 +531,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Olenos are 2224 m", "Format în principal din calcar", "Izvoare carstice importante la bază", "Habitat crucial pentru păsări de pradă"],
       en: ["Highest peak is Olenos (2,224 m)", "Mainly composed of limestone", "Significant karst springs at the base", "Important habitat for birds of prey"],
     },
-    imageHint: "Mount Erymanthos rocky peaks", image: "/poi-images/greece-mount-erymanthos-relief-v2.webp"},
-  {
+imageHint: "Mount Erymanthos rocky peaks",
+    descriptionAdvanced: {
+      de: "Der Erymanthos ist ein Gebirgsmassiv im Nordwesten der Peloponnes. In der griechischen Mythologie ist er als Schauplatz der Jagd auf den Erymanthischen Eber bekannt.",
+      hu: "Az Erümanthosz-hegység a Peloponnészosz északnyugati részén magasodik. A mitológiában Héraklész negyedik feladataként, az erümanthoszi vadkan elejtéseként szerepel.",
+      ro: "Muntele Erymanthos este situat în nord-vestul Peloponezului. În mitologie, este locul unde Hercule a capturat mistrețul din Erymanthos, una din cele 12 munci.",
+      en: "Mount Erymanthos is a rugged limestone massif in the northwestern Peloponnesese. It is famously associated with the mythical labor of Heracles hunting the Erymanthian Boar.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Olonos (2224 m)", "Besteht hauptsächlich aus Kalkstein", "Wasserscheide zwischen Alfeios und Pineios", "Reich an endemischen Pflanzenarten"],
+      hu: ["Legmagasabb pont: Olonosz (2224 m)", "Fő kőzete a mezozoikumi mészkő", "Fontos vízválasztó hegység", "Híres ritka növényfajairól"],
+      ro: ["Vârful Olonos: 2224 m altitudine", "Masiv format predominant din calcar", "Sursă pentru râurile Pineios și Erymanthos", "Legat de a patra muncă a lui Hercule"],
+      en: ["Highest peak: Olonos at 2,224 m", "Composed of sedimentary limestone", "Source of the Erymanthos River", "Mythical site of the Erymanthian Boar"],
+    },
+    image: "/poi-images/greece-mount-erymanthos-relief-v2.webp",
+},  {
     id: "greece-mount-kyllini-relief-v2",
     type: "peak",
-    name: { de: "Kyllini (Ziria)", hu: "Küllini-hegység (Ziria)", ro: "Muntele Kyllini (Ziria)", en: "Mount Kyllini (Ziria)" },
+    name: { de: "Kyllini (Ziria)", hu: "Küllini-hegység (Ziria)", ro: "Muntele Kyllini (Ziria)", en: "Mount Kyllini (Ziria)",
+image: "/poi-images/greece-mount-kyllini-relief-v2.webp"
+},
     coords: [22.4, 37.9333],
     coordinates: { lat: 37.9333, lng: 22.4 },
     description: {
@@ -323,11 +565,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine de 2376 metri", "Al doilea punct culminant din Peloponez", "Cunoscut pentru Peștera lui Hermes", "Alcăuit din straturi masive de calcar"],
       en: ["Elevation of 2,376 meters", "Second highest point in Peloponnese", "Famous for the Cave of Hermes", "Composed of massive limestone layers"],
     },
-    imageHint: "Mount Kyllini Ziria mountain landscape", image: "/poi-images/greece-mount-kyllini-relief-v2.webp"},
-  {
+imageHint: "Mount Kyllini Ziria mountain landscape",
+    descriptionAdvanced: {
+      de: "Die Kyllini, auch Ziria genannt, ist das zweithöchste Gebirge der Peloponnes. Mythologisch gilt sie als Geburtsort des Hermes und ist reich an Höhlen und Quellen.",
+      hu: "A Killini-hegység (Ziria) a Peloponnészosz második legmagasabb hegye. A mitológia szerint itt, egy barlangban született Hermész isten, a hegy tiszta forrásokban gazdag.",
+      ro: "Muntele Kyllini, cunoscut ca Ziria, este al doilea cel mai înalt masiv din Peloponez. Mitologia îl indică drept locul nașterii zeului Hermes, într-o peșteră locală.",
+      en: "Mount Kyllini, or Ziria, is the second highest mountain in the Peloponnese. It is famously known in mythology as the birthplace of the god Hermes in a mountain cave.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 2376 Meter", "Geburtsort des Gottes Hermes", "Unterteilt in Große und Kleine Ziria", "Bekannt für das Bergdorf Trikala"],
+      hu: ["Legmagasabb csúcs: 2376 méter", "Hermész isten mitikus születési helye", "Nagy- és Kis-Ziria részekre oszlik", "Híres a trikalai hegyi üdülőhelyről"],
+      ro: ["Cota maximă: 2376 metri", "Locul mitic al nașterii lui Hermes", "Divizat în Ziria Mare și Ziria Mică", "Renumit pentru podișurile înalte"],
+      en: ["Highest peak: 2,376 meters", "Mythical birthplace of god Hermes", "Split into 'Big' and 'Small' Ziria", "Home to the Cave of Hermes"],
+    },
+    image: "/poi-images/greece-mount-kyllini-relief-v2.webp",
+},  {
     id: "greece-mount-dikti-relief-v2",
     type: "mountain",
-    name: { de: "Dikti-Gebirge", hu: "Dikti-hegység", ro: "Munții Dikti", en: "Mount Dikti" },
+    name: { de: "Dikti-Gebirge", hu: "Dikti-hegység", ro: "Munții Dikti", en: "Mount Dikti",
+image: "/poi-images/greece-mount-dikti-relief-v2.webp"
+},
     coords: [25.4833, 35.1167],
     coordinates: { lat: 35.1167, lng: 25.4833 },
     description: {
@@ -342,11 +599,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Spathi are 2148 metri", "Înconjoară platoul Lassithi", "Locația peșterii Dicteene", "Format predominant din calcar"],
       en: ["Highest peak is Spathi (2,148 m)", "Encloses the Lassithi Plateau", "Site of the Psychro (Dictaean) Cave", "Composed mainly of limestone"],
     },
-    imageHint: "Mount Dikti and Lassithi plateau view", image: "/poi-images/greece-mount-dikti-relief-v2.webp"},
-  {
+imageHint: "Mount Dikti and Lassithi plateau view",
+    descriptionAdvanced: {
+      de: "Das Dikti-Gebirge im Osten Kretas umschließt die fruchtbare Lassithi-Hochebene. Es beherbergt die Psychro-Höhle, die als einer der Geburtsorte von Zeus gilt.",
+      hu: "A Dikti-hegység Kréta keleti részén található, amely körülöleli a Lasszithi-fennsíkot. Itt található a Pszühro-barlang, Zeusz egyik lehetséges születési helye.",
+      ro: "Munții Dikti domină estul insulei Creta, înconjurând platoul Lassithi. Masivul este faimos pentru peștera Psychro, legată de nașterea lui Zeus.",
+      en: "The Dikti Mountains dominate eastern Crete, surrounding the high Lassithi Plateau. The range is famous for the Psychro Cave, a legendary birthplace of Zeus.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Spathi (2148 m)", "Umschließt das Lassithi-Plateau", "Standort der Zeus-Höhle (Psychro)", "Typisches Karstgebirge mit Dolinen"],
+      hu: ["Legmagasabb pont: Szpathi (2148 m)", "A Lasszithi-fennsíkot veszi körül", "Itt van a mitikus Pszühro-barlang", "Karsztos domborzat jellemzi"],
+      ro: ["Vârful Spathi: 2148 m înălțime", "Înconjoară platoul fertil Lassithi", "Adăpostește peștera mitică Psychro", "Relief carstic cu numeroase doline"],
+      en: ["Highest peak: Spathi at 2,148 m", "Encloses the fertile Lassithi Plateau", "Home to the Diktaean (Psychro) Cave", "Formed by Jurassic limestone"],
+    },
+    image: "/poi-images/greece-mount-dikti-relief-v2.webp",
+},  {
     id: "greece-mount-pangaion-relief-v2",
     type: "peak",
-    name: { de: "Pangaion", hu: "Pangaion-hegység", ro: "Muntele Pangaion", en: "Mount Pangaion" },
+    name: { de: "Pangaion", hu: "Pangaion-hegység", ro: "Muntele Pangaion", en: "Mount Pangaion",
+image: "/poi-images/greece-mount-pangaion-relief-v2.webp"
+},
     coords: [24.1167, 40.9167],
     coordinates: { lat: 40.9167, lng: 24.1167 },
     description: {
@@ -361,11 +633,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 1956 metri", "Faimos pentru mineritul aurului antic", "Alcăuit din marmură și micașist", "Poziție izolată în apropierea coastei"],
       en: ["Maximum elevation of 1,956 meters", "Famous for ancient gold mining", "Composed of marble and mica schist", "Isolated location near the coast"],
     },
-    imageHint: "Mount Pangaion peak landscape", image: "/poi-images/greece-mount-pangaion-relief-v2.webp"},
-  {
+imageHint: "Mount Pangaion peak landscape",
+    descriptionAdvanced: {
+      de: "Der Pangaion in Ostmakedonien war in der Antike für seine Gold- und Silberminen berühmt. Er ragt isoliert aus der Ebene auf und besitzt ein markantes Erscheinungsbild.",
+      hu: "A Pangaion-hegység Kelet-Makedóniában található, az ókorban arany- és ezüstbányáiról volt híres. Kiemelkedik a környező síkságból, fontos vallási központ.",
+      ro: "Muntele Pangaion din Macedonia de Est a fost faimos pentru minele sale de aur și argint. Masivul este un nod istoric și spiritual, cu numeroase mănăstiri.",
+      en: "Mount Pangaion in Eastern Macedonia was renowned in antiquity for its gold and silver mines. It rises sharply from the plains, offering a distinct profile.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Koutra (1956 m)", "Quelle von Philipps II. Goldreichtum", "Besteht aus Marmor und Glimmerschiefer", "Heimat des Klosters Eikosiphoinissa"],
+      hu: ["Legmagasabb csúcs: Koutra (1956 m)", "II. Philipposz aranybányáinak helye", "Kőzete: márvány és csillámpala", "Itt van az Eikosziphoinissza kolostor"],
+      ro: ["Vârful Koutra: 1956 m înălțime", "Sursă de aur pentru Filip al II-lea", "Structură: marmură și șisturi", "Găzduiește mănăstirea Eikosiphoinissa"],
+      en: ["Highest peak: Koutra at 1,956 m", "Ancient source of gold and silver", "Composed of marble and mica schist", "Home to Eikosiphoinissa Monastery"],
+    },
+    image: "/poi-images/greece-mount-pangaion-relief-v2.webp",
+},  {
     id: "greece-copais-plain-relief-v2",
     type: "valley",
-    name: { de: "Kopaïs-Ebene", hu: "Kopaisz-síkság", ro: "Câmpia Copais", en: "Copais Plain" },
+    name: { de: "Kopaïs-Ebene", hu: "Kopaisz-síkság", ro: "Câmpia Copais", en: "Copais Plain",
+image: "/poi-images/greece-copais-plain-relief-v2.webp"
+},
     coords: [23.05, 38.45],
     coordinates: { lat: 38.45, lng: 23.05 },
     description: {
@@ -381,12 +668,26 @@ export const greeceReliefV2: POI[] = [
       en: ["Former lake (Lake Copais)", "Drainage completed in 1892", "Area of approximately 250 km²", "Extremely flat and low-lying relief"],
     },
     imageHint: "Copais Plain flat agricultural fields",
+    descriptionAdvanced: {
+      de: "Die Kopais-Ebene in Böotien war ursprünglich ein großer flacher See, der im 19. Jahrhundert endgültig trockengelegt wurde. Heute ist sie eine fruchtbare Agrarfläche.",
+      hu: "A Kopaisz-alföld Boiótiában fekszik, amely egykor egy hatalmas sekély tó volt. A 19. századi lecsapolás után Görögország egyik legtermékenyebb szántóföldjévé vált.",
+      ro: "Câmpia Copais din Beoția a fost inițial un lac întins, desecat complet la sfârșitul secolului al XIX-lea. Astăzi este o zonă agricolă extrem de productivă.",
+      en: "The Copais Plain in Boeotia was once a vast shallow lake, drained in the late 19th century. It now serves as a major agricultural basin for central Greece.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 200 Quadratkilometer", "Trockengelegt zwischen 1867 und 1894", "Einst Heimat der Stadt Orchomenos", "Wichtiges Gebiet für Baumwollanbau"],
+      hu: ["Területe: kb. 200 négyzetkilométer", "Lecsapolása 1867-ben kezdődött", "Egykor az ókori Orkhomenosz vizei", "Ma jelentős gyapottermelő vidék"],
+      ro: ["Suprafață: aproximativ 200 km pătrați", "Desecat integral între 1867 și 1894", "Fosta locație a lacului Copais", "Sol fertil, optim pentru bumbac"],
+      en: ["Area: approx. 200 square kilometers", "Drained between 1867 and 1894", "Former site of Lake Copais", "Major center for cotton production"],
+    },
   }
 ,
   {
     id: "greece-mount-grammos-relief-v2",
     type: "mountain",
-    name: { de: "Grammos-Gebirge", hu: "Grammosz-hegység", ro: "Muntele Grammos", en: "Mount Grammos" },
+    name: { de: "Grammos-Gebirge", hu: "Grammosz-hegység", ro: "Muntele Grammos", en: "Mount Grammos",
+image: "/poi-images/greece-mount-grammos-relief-v2.webp"
+},
     coordinates: { lat: 40.3583, lng: 20.7833 },
     description: {
       de: "Das Grammos-Massiv liegt an der Grenze zwischen Griechenland und Albanien. Mit einer Höhe von 2523 Metern ist es der vierthöchste Berg des Landes und bekannt für seine alpinen Bergseen.",
@@ -401,11 +702,25 @@ export const greeceReliefV2: POI[] = [
       en: ["Elevation: 2,523 meters", "4th highest peak in Greece", "Located on the Albanian border", "Gkistova lake at 2,350m"],
     },
     imageHint: "Mount Grammos landscape with alpine lake",
+    descriptionAdvanced: {
+      de: "Der Grammos an der albanischen Grenze ist ein abgelegenes Massiv mit unberührter Natur. Er erlangte historische Bedeutung als letzter Schauplatz des griechischen Bürgerkriegs.",
+      hu: "A Grammosz-hegység az albán határon húzódik, érintetlen természetéről és mély völgyeiről ismert. A görög polgárháború utolsó szakaszának meghatározó helyszíne volt.",
+      ro: "Muntele Grammos, situat la granița cu Albania, este un masiv izolat cu o natură sălbatică. A fost scena finală a războiului civil grec în anul 1949.",
+      en: "Mount Grammos lies on the border with Albania and is known for its pristine alpine nature. It was the final stronghold in the Greek Civil War during the 1940s.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 2520 Meter", "Quelle des Flusses Aliakmonas", "Schauplatz der Operation Fackel (1949)", "Reich an alpinen Wiesen und Seen"],
+      hu: ["Legmagasabb pont: 2520 méter", "Az Aliakmonasz folyó forrásvidéke", "A görög polgárháború végső helyszíne", "Alpesi rétek és gleccsertavak jellemzik"],
+      ro: ["Cota maximă: 2520 metri", "Izvorul râului Aliakmonas", "Locul bătăliei decisive din 1949", "Biodiversitate bogată, urși și lupi"],
+      en: ["Highest peak: 2,520 meters", "Source of the Aliakmonas River", "Final battlefield of Greek Civil War", "Features Gistova, a high alpine lake"],
+    },
   },
   {
     id: "greece-mount-pieria-relief-v2",
     type: "mountain",
-    name: { de: "Pieria-Gebirge", hu: "Pieria-hegység", ro: "Munții Pieria", en: "Mount Pieria" },
+    name: { de: "Pieria-Gebirge", hu: "Pieria-hegység", ro: "Munții Pieria", en: "Mount Pieria",
+image: "/poi-images/greece-mount-pieria-relief-v2.webp"
+},
     coordinates: { lat: 40.2444, lng: 22.2111 },
     description: {
       de: "Das Pieria-Gebirge erstreckt sich westlich des Olymp in Zentralmazedonien. Sein höchster Gipfel Flampouro erreicht 2193 Meter und das Gebiet ist für seine dichten Buchen- und Eichenwälder bekannt.",
@@ -419,11 +734,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful principal: Flampouro", "Altitudine: 2193 metri", "Căminul muzelor în mitologie", "Păduri dese de foioase"],
       en: ["Highest peak: Flampouro", "Elevation: 2,193 meters", "Mythological home of the Muses", "Dense deciduous forests"],
     },
-    imageHint: "Mount Pieria forests and snowy peaks", image: "/poi-images/greece-mount-pieria-relief-v2.webp"},
-  {
+imageHint: "Mount Pieria forests and snowy peaks",
+    descriptionAdvanced: {
+      de: "Die Pieria-Berge liegen nördlich des Olymp und sind für ihre sanften Formen und dichten Mischwälder bekannt. In der Mythologie galten sie als Heimat der Pierischen Musen.",
+      hu: "A Pieria-hegység az Olimposztól északra fekszik, gazdag erdőiről és szelídebb lejtőiről ismert. A mitológiában a pieriai múzsák otthonaként tartották számon.",
+      ro: "Munții Pieria se află la nord de muntele Olimp, având relief domol și păduri dese. Sunt considerați în mitologie locul de reședință al Muzelor pieriene.",
+      en: "The Pierian Mountains are located north of Mount Olympus, known for their lush forests. In mythology, they were the home of the Pierian Muses before they moved to Helicon.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Flampouro (2193 m)", "Heimat der Pierischen Musen", "Besteht aus kristallinem Schiefer", "Beliebt für Wandern und Skilanglauf"],
+      hu: ["Legmagasabb csúcs: Flampouro (2193 m)", "A pieriai múzsák mitikus lakhelye", "Kőzete: kristályos pala és gránit", "Sűrű bükk- és fenyőerdők borítják"],
+      ro: ["Vârful Flampouro: 2193 m altitudine", "Locul de origine al Muzelor", "Geologie: șisturi și granite", "Acoperit de păduri de fag și brad"],
+      en: ["Highest peak: Flampouro at 2,193 m", "Mythical home of the Pierian Muses", "Composed of metamorphic schist", "Features the Elatohori ski center"],
+    },
+    image: "/poi-images/greece-mount-pieria-relief-v2.webp",
+},  {
     id: "greece-mount-vermio-relief-v2",
     type: "mountain",
-    name: { de: "Vermio-Gebirge", hu: "Vermio-hegység", ro: "Munții Vermio", en: "Mount Vermio" },
+    name: { de: "Vermio-Gebirge", hu: "Vermio-hegység", ro: "Munții Vermio", en: "Mount Vermio",
+image: "/poi-images/greece-mount-vermio-relief-v2.webp"
+},
     coordinates: { lat: 40.6167, lng: 21.9833 },
     description: {
       de: "Das Vermio-Gebirge liegt in Westmazedonien nahe der Stadt Veria. Der Gipfel Chamiti erreicht 2052 Meter und das Massiv beherbergt einige der ältesten Skizentren Griechenlands.",
@@ -437,11 +767,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârf: Chamiti (2052 m)", "Găzduiește stațiunea Seli", "Bogat în păduri de fag", "Lângă orașul Veria"],
       en: ["Peak: Chamiti (2,052m)", "Home of Seli ski resort", "Rich in beech forests", "Near the city of Veria"],
     },
-    imageHint: "Mount Vermio ski resort and slopes", image: "/poi-images/greece-mount-vermio-relief-v2.webp"},
-  {
+imageHint: "Mount Vermio ski resort and slopes",
+    descriptionAdvanced: {
+      de: "Das Vermio-Gebirge in Zentralmakedonien ist ein bewaldetes Massiv mit bedeutenden Skigebieten. Es bildet eine natürliche Barriere zwischen der Ebene von Imathia und Kozani.",
+      hu: "A Vermio-hegység Közép-Makedóniában található, dús erdőiről és síközpontjairól híres. Fontos szerepet játszik a régió vízellátásában és a téli turizmusban.",
+      ro: "Muntele Vermio din Macedonia Centrală este un masiv împădurit, esențial pentru sporturile de iarnă. Separă regiunile Imathia și Kozani prin crestele sale.",
+      en: "Mount Vermio in Central Macedonia is a forested range known for its abundant water and ski resorts. It separates the fertile plains of Imathia from the Kozani plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 2052 Meter", "Standort des Skizentrums Seli", "Reich an Buchen- und Tannenwäldern", "Wichtige Quelle des Flusses Arapitsa"],
+      hu: ["Legmagasabb pont: 2052 méter", "Itt alapították az első görög síközpontot", "Bükk- és fenyőerdők uralják", "Az Arapicész-folyó forráshelye"],
+      ro: ["Cota maximă: 2052 metri", "Găzduiește stațiunea de schi Seli", "Bogat în păduri de fag și conifere", "Izvorul principal al râului Arapitsa"],
+      en: ["Highest peak: 2,052 meters", "Site of Greece's first ski resort (Seli)", "Abundant in beech and fir forests", "Primary source for local hydro-power"],
+    },
+    image: "/poi-images/greece-mount-vermio-relief-v2.webp",
+},  {
     id: "greece-mount-parnon-relief-v2",
     type: "mountain",
-    name: { de: "Parnon-Gebirge", hu: "Parnon-hegység", ro: "Munții Parnon", en: "Mount Parnon" },
+    name: { de: "Parnon-Gebirge", hu: "Parnon-hegység", ro: "Munții Parnon", en: "Mount Parnon",
+image: "/poi-images/greece-mount-parnon-relief-v2.webp"
+},
     coordinates: { lat: 37.2833, lng: 22.6167 },
     description: {
       de: "Das Parnon-Gebirge erstreckt sich über den östlichen Peloponnes zwischen Lakonien und Arkadien. Sein höchster Gipfel Megali Tourla ragt 1935 Meter empor und ist von Kalksteinfelsen geprägt.",
@@ -455,11 +800,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine: 1935 metri", "Cel mai lung munte din Peloponez", "Păduri rare de ienupăr", "Abrupturi calcaroase"],
       en: ["Elevation: 1,935 meters", "Longest range in Peloponnese", "Rare juniper forests", "Limestone cliffs"],
     },
-    imageHint: "Mount Parnon Peloponnese rocky ridges", image: "/poi-images/greece-mount-parnon-relief-v2.webp"},
-  {
+imageHint: "Mount Parnon Peloponnese rocky ridges",
+    descriptionAdvanced: {
+      de: "Der Parnon erstreckt sich im Osten der Peloponnes und ist für seine einsamen Bergdörfer und Klöster bekannt. Er weist eine hohe Vielfalt an endemischen Pflanzenarten auf.",
+      hu: "A Parnon-hegység a Peloponnészosz keleti részén húzódik, híres elszigetelt falvairól és kolostorairól. Görögország egyik legfontosabb botanikai területe.",
+      ro: "Muntele Parnon se întinde în estul Peloponezului, fiind renumit pentru satele izolate și flora endemică. Este un masiv calcaros cu păduri de pin negru.",
+      en: "Mount Parnon stretches across the eastern Peloponnese, known for its traditional villages and monasteries. It boasts one of the highest biodiversity levels in Greece.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Megali Tourla (1935 m)", "Höchste Dichte an Endemiten", "Wichtiges Habitat für Greifvögel", "Beinhaltet das Kloster Elona"],
+      hu: ["Legmagasabb csúcs: 1935 méter", "Kiemelkedő növényi biodiverzitás", "Itt található az Elona-kolostor", "Fő kőzete a triász kori mészkő"],
+      ro: ["Vârful Megali Tourla: 1935 m", "Peste 15 specii de plante endemice", "Adăpostește mănăstirea Elona", "Format predominant din calcar"],
+      en: ["Highest peak: Megali Tourla (1,935 m)", "Home to many endemic plant species", "Site of the Elona Monastery", "Dominated by black pine forests"],
+    },
+    image: "/poi-images/greece-mount-parnon-relief-v2.webp",
+},  {
     id: "greece-mount-menalon-relief-v2",
     type: "mountain",
-    name: { de: "Menalon-Gebirge", hu: "Menalon-hegység", ro: "Munții Menalon", en: "Mount Menalon" },
+    name: { de: "Menalon-Gebirge", hu: "Menalon-hegység", ro: "Munții Menalon", en: "Mount Menalon",
+image: "/poi-images/greece-mount-menalon-relief-v2.webp"
+},
     coordinates: { lat: 37.6667, lng: 22.1833 },
     description: {
       de: "Das Menalon-Gebirge liegt im Herzen von Arkadien auf dem Peloponnes. Es erreicht eine Höhe von 1981 Metern und beherbergt den ersten zertifizierten Fernwanderweg Griechenlands durch dichte Tannenwälder.",
@@ -473,11 +833,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârf: Ostrakina (1981 m)", "Prima potecă certificată", "Păduri dense de brad", "Centrul Arcadiei antice"],
       en: ["Peak: Ostrakina (1,981m)", "First certified hiking trail", "Dense Greek fir forests", "Center of ancient Arcadia"],
     },
-    imageHint: "Mount Menalon forest trail Arcadia", image: "/poi-images/greece-mount-menalon-relief-v2.webp"},
-  {
+imageHint: "Mount Menalon forest trail Arcadia",
+    descriptionAdvanced: {
+      de: "Das Menalon-Gebirge im Zentrum der Peloponnes ist das mythologische Reich des Pan. Es ist geprägt durch dichte Tannenwälder und das erste zertifizierte Wanderwegenetz Griechenlands.",
+      hu: "A Menalon-hegység a Peloponnészosz szívében fekszik, Pán isten mitikus birodalma. Híres sűrű fenyőerdőiről és Görögország első minősített túraútvonaláról.",
+      ro: "Muntele Menalon din centrul Peloponezului este tărâmul mitologic al zeului Pan. Masivul oferă peisaje forestiere dense și primul traseu de drumeție certificat.",
+      en: "Mount Menalon in central Peloponnese was the mythical home of the god Pan. It features dense Greek fir forests and the first certified hiking trail network in Greece.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Profitis Ilias (1849 m)", "Erster 'Leading Quality Trail' Griechenlands", "Mythologischer Wohnort des Pan", "Bedeutendes Wintersportzentrum Ostrakina"],
+      hu: ["Legmagasabb pont: 1849 méter", "Az első európai minősítésű túraútvonal", "Pán isten szent hegysége", "Itt található az Osztrakina síközpont"],
+      ro: ["Vârful Profitis Ilias: 1849 m înălțime", "Primul traseu certificat LQT din Grecia", "Locul de joacă al zeului Pan", "Acoperit de păduri de brad grecesc"],
+      en: ["Highest peak: Profitis Ilias (1,849 m)", "First 'Leading Quality Trail' in Greece", "Mythical realm of the god Pan", "Home to the Ostrakina ski resort"],
+    },
+    image: "/poi-images/greece-mount-menalon-relief-v2.webp",
+},  {
     id: "greece-lassithi-plateau-relief-v2",
     type: "valley",
-    name: { de: "Lassithi-Hochebene", hu: "Laszithi-fennsík", ro: "Podișul Lassithi", en: "Lassithi Plateau" },
+    name: { de: "Lassithi-Hochebene", hu: "Laszithi-fennsík", ro: "Podișul Lassithi", en: "Lassithi Plateau",
+image: "/poi-images/greece-lassithi-plateau-relief-v2.webp"
+},
     coordinates: { lat: 35.1833, lng: 25.4833 },
     description: {
       de: "Die Lassithi-Hochebene ist eine weite Ebene im Osten Kretas, umgeben vom Dikti-Gebirge. Sie liegt auf etwa 850 Metern Höhe und war historisch für Tausende von Windmühlen mit weißen Segeln bekannt.",
@@ -491,11 +866,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine medie: 850 m", "Înconjurat de munții Dikti", "Faimos pentru morile de vânt", "Locația peșterii Psychro"],
       en: ["Average elevation: 850m", "Surrounded by Dikti range", "Famous for windmills", "Site of Psychro Cave"],
     },
-    imageHint: "Lassithi Plateau windmills and mountains Crete", image: "/poi-images/greece-lassithi-plateau-relief-v2.webp"},
-  {
+imageHint: "Lassithi Plateau windmills and mountains Crete",
+    descriptionAdvanced: {
+      de: "Die Lassithi-Hochebene auf Kreta liegt auf ca. 840 Metern Höhe und ist für ihre historischen Windmühlen mit Segeltuchflügeln bekannt. Sie ist ein fruchtbarer Polje-Kessel.",
+      hu: "A Lasszithi-fennsík Kréta egyik legszebb tája, amely 840 méteres magasságban fekszik. Híres a fehér vitorlás szélmalmairól, amelyek egykor az öntözést szolgálták.",
+      ro: "Platoul Lassithi din Creta este o depresiune carstică situată la 840 m altitudine. Este faimos pentru morile de vânt cu pânze albe, folosite istoric la irigații.",
+      en: "The Lassithi Plateau in Crete is a high-altitude fertile plain famous for its thousands of traditional white-sailed windmills used for groundwater irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe: 840 Meter", "Einst über 10.000 Windmühlen", "Umgeben vom Dikti-Gebirge", "Geologische Formation: Polje"],
+      hu: ["Átlagmagasság: 840 méter", "Egykor több mint 10 000 szélmalom", "A Dikti-hegység veszi körül", "Típus: zárt karsztos fennsík (polje)"],
+      ro: ["Altitudine medie: 840 metri", "Peste 10.000 de mori de vânt istoric", "Delimitat de munții Dikti", "Formă de relief: polie carstică"],
+      en: ["Average elevation: 840 meters", "Historical home to 10,000+ windmills", "Surrounded by the Dikti range", "Formed as a large karstic polje"],
+    },
+    image: "/poi-images/greece-lassithi-plateau-relief-v2.webp",
+},  {
     id: "greece-mount-athamanika-relief-v2",
     type: "mountain",
-    name: { de: "Athamanika-Gebirge", hu: "Athamanika-hegység", ro: "Munții Athamanika", en: "Mount Athamanika" },
+    name: { de: "Athamanika-Gebirge", hu: "Athamanika-hegység", ro: "Munții Athamanika", en: "Mount Athamanika",
+image: "/poi-images/greece-mount-athamanika-relief-v2.webp"
+},
     coordinates: { lat: 39.4222, lng: 21.1389 },
     description: {
       de: "Das Athamanika-Gebirge, auch Tzoumerka genannt, ist ein Teil des Pindus-Zentralmassivs. Es zeichnet sich durch schroffe Kalksteingipfel aus, wobei die Kakarditsa mit 2429 Metern den höchsten Punkt markiert.",
@@ -509,11 +899,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Kakarditsa", "Altitudine: 2429 metri", "Peisaj calcaros abrupt", "Parte din lanțul Pind"],
       en: ["Highest point: Kakarditsa", "Elevation: 2,429 meters", "Rugged limestone terrain", "Part of the Pindus chain"],
     },
-    imageHint: "Tzoumerka mountains rugged peaks Greece", image: "/poi-images/greece-mount-athamanika-relief-v2.webp"},
-  {
+imageHint: "Tzoumerka mountains rugged peaks Greece",
+    descriptionAdvanced: {
+      de: "Die Athamanika-Berge, auch Tzoumerka genannt, sind ein wildes Gebirgsmassiv im zentralen Pindos. Sie sind bekannt für ihre steilen Felswände und die traditionellen Steindörfer.",
+      hu: "Az Athamanika-hegység (Cumerka) a Píndosz központi részén magasodik. Vad sziklafalai, mély kanyonjai és hagyományos kőépítészetű falvai teszik egyedivé.",
+      ro: "Munții Athamanika, cunoscuți ca Tzoumerka, fac parte din lanțul Pindului central. Masivul se remarcă prin versanți abrupți și sate tradiționale din piatră.",
+      en: "Mount Athamanika, also known as Tzoumerka, is a rugged section of the Pindus range. It is defined by its sheer cliffs, waterfalls, and isolated stone villages.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Kakarditsa (2429 m)", "Bekannt unter dem Namen Tzoumerka", "Besteht aus Jura-Kalkstein", "Region der traditionellen Mastorochoria"],
+      hu: ["Legmagasabb pont: Kakardica (2429 m)", "Közismertebb neve: Cumerka", "Jura kori mészkőrétegekből áll", "Híres a kőfaragó mestereiről"],
+      ro: ["Vârful Kakarditsa: 2429 m înălțime", "Denumire populară: Tzoumerka", "Format din calcare jurasice", "Renumit pentru podurile vechi de piatră"],
+      en: ["Highest peak: Kakarditsa at 2,429 m", "Commonly called Tzoumerka", "Composed of Jurassic limestone", "Known for the twin Katarraktis waterfalls"],
+    },
+    image: "/poi-images/greece-mount-athamanika-relief-v2.webp",
+},  {
     id: "greece-mount-helicon-relief-v2",
     type: "mountain",
-    name: { de: "Helikon-Gebirge", hu: "Helikon-hegység", ro: "Muntele Helicon", en: "Mount Helicon" },
+    name: { de: "Helikon-Gebirge", hu: "Helikon-hegység", ro: "Muntele Helicon", en: "Mount Helicon",
+image: "/poi-images/greece-mount-helicon-relief-v2.webp"
+},
     coordinates: { lat: 38.3511, lng: 22.9917 },
     description: {
       de: "Das Helikon-Gebirge befindet sich in Böotien, westlich von Theben. Es erreicht eine Höhe von 1748 Metern und gilt in der griechischen Mythologie als einer der Wohnsitze der Musen.",
@@ -527,11 +932,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine: 1748 metri", "Vârf: Paliovouna", "Locul izvorului Hippocrene", "Căminul muzelor în mitologie"],
       en: ["Elevation: 1,748 meters", "Peak: Paliovouna", "Site of Hippocrene spring", "Mythological home of Muses"],
     },
-    imageHint: "Mount Helicon slopes and valley Boeotia", image: "/poi-images/greece-mount-helicon-relief-v2.webp"},
-  {
+imageHint: "Mount Helicon slopes and valley Boeotia",
+    descriptionAdvanced: {
+      de: "Der Helikon in Böotien war in der Antike den Musen geweiht und ist Schauplatz zahlreicher Mythen. Er ist bekannt für seine Quellen, insbesondere die Hippokrene.",
+      hu: "A Helikon-hegység Boiótiában található, az ókorban a múzsák szent helyeként tisztelték. Itt fakad a mitikus Hippokréné-forrás, amelyet Pegazosz patája nyitott meg.",
+      ro: "Muntele Helicon din Beoția a fost dedicat Muzelor în antichitate. Este renumit pentru izvoarele sale mitice, precum Hippocrene, create de copita lui Pegas.",
+      en: "Mount Helicon in Boeotia was sacred to the Muses and is the site of many classical myths. It is famous for the Hippocrene spring, said to be created by Pegasus.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Paliovouna (1748 m)", "Sitz der Musen in der Mythologie", "Ort der Hippokrene-Quelle", "Besteht hauptsächlich aus Kalkstein"],
+      hu: ["Legmagasabb csúcs: Paliovouna (1748 m)", "A múzsák lakhelye a mitológiában", "Itt található a Hippokréné-forrás", "Mészkőből felépülő hegység"],
+      ro: ["Vârful Paliovouna: 1748 m înălțime", "Reședința Muzelor în mitologie", "Sursa izvorului Hippocrene", "Geologie: calcar și depozite fliș"],
+      en: ["Highest peak: Paliovouna at 1,748 m", "Sacred to the Muses in mythology", "Home of the Hippocrene spring", "Predominantly composed of limestone"],
+    },
+    image: "/poi-images/greece-mount-helicon-relief-v2.webp",
+},  {
     id: "greece-mount-agrafa-relief-v2",
     type: "mountain",
-    name: { de: "Agrafa-Gebirge", hu: "Agrafa-hegység", ro: "Munții Agrafa", en: "Mount Agrafa" },
+    name: { de: "Agrafa-Gebirge", hu: "Agrafa-hegység", ro: "Munții Agrafa", en: "Mount Agrafa",
+image: "/poi-images/greece-mount-agrafa-relief-v2.webp"
+},
     coordinates: { lat: 39.1417, lng: 21.6528 },
     description: {
       de: "Das Agrafa-Gebirge bildet den südlichen Teil des Pindus-Gebirges. Aufgrund seines extrem unwegsamen Geländes blieb das Gebiet historisch weitgehend autonom und isoliert von zentralen Verwaltungen.",
@@ -545,11 +965,26 @@ export const greeceReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Karava", "Altitudine: 2184 metri", "Numele înseamnă 'nescris'", "Teren foarte accidentat"],
       en: ["Highest peak: Karava", "Elevation: 2,184 meters", "Name means 'unwritten'", "Highly inaccessible terrain"],
     },
-    imageHint: "Agrafa mountains remote landscape Greece", image: "/poi-images/greece-mount-agrafa-relief-v2.webp"},
-  {
+imageHint: "Agrafa mountains remote landscape Greece",
+    descriptionAdvanced: {
+      de: "Das Agrafa-Gebirge ist eine der unwegsamsten Regionen Griechenlands. Sein Name 'die Unbeschriebenen' deutet darauf hin, dass die Region aufgrund ihrer Abgelegenheit nie voll besteuert wurde.",
+      hu: "Az Agrafa-hegység Görögország egyik legelszigeteltebb vidéke. Neve 'leíratlant' jelent, utalva arra, hogy a terület a nehéz terep miatt kimaradt az adóösszeírásokból.",
+      ro: "Munții Agrafa reprezintă una dintre cele mai izolate regiuni ale Greciei. Numele înseamnă 'nescriși', referindu-se la independența lor față de fiscul otoman.",
+      en: "Mount Agrafa is one of Greece's most remote and rugged mountain areas. Its name, 'the Unwritten,' reflects its historical evasion of central taxation and control.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Karava (2184 m)", "Historisch autonomes Gebiet", "Teil des südlichen Pindos-Gebirges", "Reich an tiefen Schluchten und Flüssen"],
+      hu: ["Legmagasabb pont: Karava (2184 m)", "Történelmileg autonóm terület", "A déli Píndosz-hegység része", "Szakadékvölgyek és vadvizek vidéke"],
+      ro: ["Vârful Karava: 2184 m altitudine", "Regiune istoric autonomă", "Face parte din Pindul de Sud", "Relief accidentat cu numeroase defilee"],
+      en: ["Highest peak: Karava at 2,184 m", "Historically an autonomous region", "Part of the southern Pindus range", "Known for its pristine mountain rivers"],
+    },
+    image: "/poi-images/greece-mount-agrafa-relief-v2.webp",
+},  {
     id: "greece-messara-plain-relief-v2",
     type: "valley",
-    name: { de: "Messara-Ebene", hu: "Messzara-síkság", ro: "Câmpia Messara", en: "Messara Plain" },
+    name: { de: "Messara-Ebene", hu: "Messzara-síkság", ro: "Câmpia Messara", en: "Messara Plain",
+image: "/poi-images/greece-messara-plain-relief-v2.webp"
+},
     coordinates: { lat: 35.0522, lng: 24.8711 },
     description: {
       de: "Die Messara-Ebene ist die größte Ebene auf der Insel Kreta und erstreckt sich über etwa 50 Kilometer. Sie ist ein bedeutendes landwirtschaftliches Zentrum, das zwischen dem Psiloritis und dem Asterousia-Gebirge liegt.",
@@ -564,5 +999,17 @@ export const greeceReliefV2: POI[] = [
       en: ["Length: 50 kilometers", "Largest plain in Crete", "Major olive oil producer", "Site of ancient Gortyn"],
     },
     imageHint: "Messara Plain olive groves Crete aerial view",
+    descriptionAdvanced: {
+      de: "Die Messara-Ebene ist die größte Ebene Kretas und liegt im Süden der Insel. Sie ist ein Zentrum der Olivenölproduktion und beherbergt die antike Stätte Phaistos.",
+      hu: "A Messzara-alföld Kréta legnagyobb síksága a sziget déli részén. Az intenzív mezőgazdaság központja, ahol az ókori Phaisztosz és Gortün romjai is találhatók.",
+      ro: "Câmpia Messara este cea mai mare zonă joasă din Creta, situată în sud. Este un pol al agriculturii și găzduiește siturile arheologice Phaistos și Gortyn.",
+      en: "The Messara Plain is the largest lowland area in Crete, located in the southern part of the island. It is a vital hub for olive and greenhouse cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 50 km", "Wichtigstes Olivenanbaugebiet Kretas", "Standort des minoischen Palastes Phaistos", "Begrenzt durch das Ida-Gebirge im Norden"],
+      hu: ["Hossza: körülbelül 50 km", "Kréta fő olívaolaj-termelő vidéke", "Itt állt Phaisztosz minószi palotája", "Északról az Ida-hegység határolja"],
+      ro: ["Lungime: aproximativ 50 km", "Principalul bazin olivicol din Creta", "Locația palatului minoic Phaistos", "Mărginită la nord de muntele Ida"],
+      en: ["Length: approx. 50 kilometers", "Primary olive oil region of Crete", "Home to the Minoan palace of Phaistos", "Bounded by the Ida Mountains to the north"],
+    },
   }
 ];

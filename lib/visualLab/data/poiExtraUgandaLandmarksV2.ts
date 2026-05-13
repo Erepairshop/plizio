@@ -11,8 +11,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Uganda-Nationalmoschee",
       hu: "Ugandai Nemzeti Mecset",
       ro: "Moscheea Națională din Uganda",
-      en: "Uganda National Mosque"
-    },
+      en: "Uganda National Mosque",
+image: "/poi-images/ug-uganda-national-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Zuvor als Gaddafi-Nationalmoschee bekannt, ist sie eine der größten Moscheen Ostafrikas und bietet von ihrem Minarett einen Panoramablick auf Kampala.",
       hu: "Korábban Kadhafi Nemzeti Mecsetként ismert, Kelet-Afrika egyik legnagyobb mecsete, melynek minaretjéből panorámás kilátás nyílik Kampalára.",
@@ -47,8 +48,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "St. Pauls Kathedrale Namirembe",
       hu: "Namirembe Katedrális",
       ro: "Catedrala Namirembe",
-      en: "Namirembe Cathedral"
-    },
+      en: "Namirembe Cathedral",
+image: "/poi-images/ug-namirembe-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die älteste Kathedrale Ugandas, die als Provinzialkathedrale der Church of Uganda dient und auf dem Namirembe-Hügel liegt.",
       hu: "Uganda legrégebbi katedrálisa, amely az Ugandai Egyház tartományi központjaként szolgál a Namirembe-hegyen.",
@@ -83,8 +85,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Rubaga-Kathedrale",
       hu: "Rubaga Katedrális",
       ro: "Catedrala Rubaga",
-      en: "Rubaga Cathedral"
-    },
+      en: "Rubaga Cathedral",
+image: "/poi-images/ug-rubaga-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Mutterkathedrale des römisch-katholischen Erzbistums Kampala, die vom Rubaga-Hügel einen beeindruckenden Blick auf die Stadt bietet.",
       hu: "A kampalai római katolikus érsekség anyatemploma, amely a Rubaga-hegyről lenyűgöző kilátást nyújt a városra.",
@@ -107,8 +110,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Kasubi-Gräber",
       hu: "Kasubi Sírhelyek",
       ro: "Mormintele Kasubi",
-      en: "Kasubi Tombs"
-    },
+      en: "Kasubi Tombs",
+image: "/poi-images/ug-kasubi-tombs-landmarks-v2.webp"
+},
     description: {
       de: "Ein prominentes UNESCO-Weltkulturerbe und traditionelle Begräbnisstätte der Könige von Buganda, bekannt für seine massiven strohgedeckten Strukturen.",
       hu: "Kiemelkedő UNESCO világörökségi helyszín és a bugandai királyok hagyományos temetkezési helye, mely híres hatalmas nádfedeles építményeiről.",
@@ -130,8 +134,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Märtyrerschrein von Namugongo",
       hu: "Namugongói Mártírok Szentélye",
       ro: "Sanctuarul Martirilor din Uganda Namugongo",
-      en: "Uganda Martyrs Shrine Namugongo"
-    },
+      en: "Uganda Martyrs Shrine Namugongo",
+image: "/poi-images/ug-namugongo-shrine-landmarks-v2.webp"
+},
     description: {
       de: "Eine den ugandischen Märtyrern gewidmete Basilika, in Form einer traditionellen afrikanischen Hütte erbaut und von 22 Kupfersäulen getragen.",
       hu: "Az ugandai mártíroknak szentelt bazilika, amelyet hagyományos afrikai kunyhó formájára építettek, és 22 rézoszlop támaszt alá.",
@@ -153,8 +158,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Unabhängigkeitsdenkmal",
       hu: "Függetlenségi Emlékmű",
       ro: "Monumentul Independenței",
-      en: "Independence Monument"
-    },
+      en: "Independence Monument",
+image: "/poi-images/ug-independence-monument-landmarks-v2.webp"
+},
     description: {
       de: "Eine symbolische Skulptur im Herzen von Kampala, die einen Mann zeigt, der seine Hände befreit und ein Kind in den Himmel hebt, um Ugandas Unabhängigkeit zu feiern.",
       hu: "Egy szimbolikus szobor Kampala szívében, amely egy kezeit kiszabadító és gyermekét az ég felé emelő férfit ábrázol, Uganda függetlenségét ünnepelve.",
@@ -176,8 +182,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Mandela-Nationalstadion",
       hu: "Mandela Nemzeti Stadion",
       ro: "Stadionul Național Mandela",
-      en: "Mandela National Stadium"
-    },
+      en: "Mandela National Stadium",
+image: "/poi-images/ug-namboole-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Auch bekannt als Namboole-Stadion, ist es ein Mehrzweckstadion in Kampala und die Heimat der ugandischen Fußballnationalmannschaft.",
       hu: "Más néven Namboole Stadion, egy többcélú létesítmény Kampalában, amely az ugandai labdarúgó-válogatott hazai pályája.",
@@ -199,8 +206,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Haus der Andacht der Bahai",
       hu: "Bahá'í Istentiszteleti Ház",
       ro: "Casa de Adorație Baha'i",
-      en: "Baha'i House of Worship"
-    },
+      en: "Baha'i House of Worship",
+image: "/poi-images/ug-bahai-temple-landmarks-v2.webp"
+},
     description: {
       de: "Der einzige Bahai-Tempel auf dem afrikanischen Kontinent auf dem Kikaya-Hügel, bekannt für seine einzigartige Kuppelarchitektur und die ruhigen Gärten.",
       hu: "Az afrikai kontinens egyetlen bahá'í temploma a Kikaya-hegyen, amely egyedi kupolás építészetéről és békés kertjeiről ismert.",
@@ -222,8 +230,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Source-of-the-Nile-Brücke",
       hu: "A Nílus Forrása Híd",
       ro: "Podul Izvorului Nilului",
-      en: "Source of the Nile Bridge"
-    },
+      en: "Source of the Nile Bridge",
+image: "/poi-images/ug-source-nile-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine moderne Schrägseilbrücke über den Victoria-Nil in Jinja, die nachts durch spektakuläre LED-Beleuchtung besticht.",
       hu: "Egy modern ferdekábeles híd a Viktória-Nílus felett Jinjában, amely éjszaka látványos LED-világítással rendelkezik.",
@@ -245,8 +254,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Nalubaale-Damm (Owen Falls Damm)",
       hu: "Nalubaale-gát",
       ro: "Barajul Nalubaale (Barajul Owen Falls)",
-      en: "Nalubaale Dam (Owen Falls Dam)"
-    },
+      en: "Nalubaale Dam (Owen Falls Dam)",
+image: "/poi-images/ug-nalubaale-dam-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Wasserkraftwerk an der Quelle des Weißen Nils bei Jinja, das für die Energieversorgung der ugandischen Wirtschaft entscheidend ist.",
       hu: "A Fehér-Nílus forrásánál Jinja közelében található nagy vízerőmű, amely létfontosságú Uganda gazdaságának energiaellátásában.",
@@ -268,8 +278,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Parlamentsgebäude von Uganda",
       hu: "Ugandai Parlament Épülete",
       ro: "Clădirea Parlamentului din Uganda",
-      en: "Parliament of Uganda Building"
-    },
+      en: "Parliament of Uganda Building",
+image: "/poi-images/ug-parliament-house-landmarks-v2.webp"
+},
     description: {
       de: "Das majestätische Verwaltungszentrum, das das ugandische Parlament beherbergt und sich durch monumentale Architektur der Jahrhundertmitte auszeichnet.",
       hu: "A fenséges adminisztratív központ, amely az Ugandai Parlamentnek ad otthont, és a huszadik század közepének monumentális építészetét mutatja be.",
@@ -291,8 +302,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Bulange Mengo",
       hu: "Bulange Mengo",
       ro: "Bulange Mengo",
-      en: "Bulange Mengo"
-    },
+      en: "Bulange Mengo",
+image: "/poi-images/ug-bulange-mengo-landmarks-v2.webp"
+},
     description: {
       de: "Der Verwaltungssitz und das Parlament des Königreichs Buganda, bekannt für sein markantes königliches Architekturdesign und sein kulturelles Erbe.",
       hu: "A Buganda Királyság közigazgatási központja és parlamentje, amely feltűnő királyi építészeti kialakításáról és kulturális örökségéről ismert.",
@@ -314,8 +326,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Kabaka-Palast (Mengo-Palast)",
       hu: "Kabaka Palota (Mengo Palota)",
       ro: "Palatul Kabaka (Palatul Mengo)",
-      en: "Kabaka's Palace (Mengo Palace)"
-    },
+      en: "Kabaka's Palace (Mengo Palace)",
+image: "/poi-images/ug-kabaka-palace-landmarks-v2.webp"
+},
     description: {
       de: "Die historische königliche Residenz des Königs von Buganda auf dem Mengo-Hügel. Sie zeichnet sich durch großartige Kolonialarchitektur und dunkle unterirdische Folterkammern aus.",
       hu: "A bugandai király történelmi királyi rezidenciája a Mengo-hegyen. Nagyszerű gyarmati stílusú építészettel és sötét földalatti kínzókamrákkal rendelkezik.",
@@ -337,8 +350,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Crested Towers",
       hu: "Crested Towers",
       ro: "Crested Towers",
-      en: "Crested Towers"
-    },
+      en: "Crested Towers",
+image: "/poi-images/ug-crested-towers-landmarks-v2.webp"
+},
     description: {
       de: "Einer von Kampalas ältesten und bekanntesten modernen Twin-Tower-Wolkenkratzern, der verschiedene Regierungs- und Unternehmensbüros beherbergt.",
       hu: "Kampala egyik legrégebbi és legismertebb modern ikertorony felhőkarcolója, amely különféle kormányzati és vállalati irodáknak ad otthont.",
@@ -360,8 +374,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Pearl of Africa Hotel",
       hu: "Pearl of Africa Hotel",
       ro: "Hotelul Pearl of Africa",
-      en: "Pearl of Africa Hotel"
-    },
+      en: "Pearl of Africa Hotel",
+image: "/poi-images/ug-pearl-of-africa-hotel-landmarks-v2.webp"
+},
     description: {
       de: "Ein herausragendes luxuriöses Wolkenkratzer-Hotel, das die Skyline von Kampala dominiert und elegant auf dem Nakasero-Hügel liegt.",
       hu: "Kiemelkedő luxus felhőkarcoló szálloda, amely uralja Kampala látképét, és elegánsan helyezkedik el a Nakasero-hegyen.",
@@ -383,8 +398,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Mapeera House",
       hu: "Mapeera House",
       ro: "Mapeera House",
-      en: "Mapeera House"
-    },
+      en: "Mapeera House",
+image: "/poi-images/ug-mapeera-house-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes, markantes, glasverkleidetes Bürogebäude im Zentrum von Kampala, das als Hauptsitz der Centenary Bank dient.",
       hu: "Modern, jellegzetes üvegburkolatú irodaépület Kampala központjában, amely a Centenary Bank központjaként szolgál.",
@@ -406,8 +422,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Kampala Uhrenturm",
       hu: "Kampalai Óratorony",
       ro: "Turnul cu Ceas din Kampala",
-      en: "Kampala Clock Tower"
-    },
+      en: "Kampala Clock Tower",
+image: "/poi-images/ug-kampala-clock-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Denkmal an einem belebten Kreisverkehr in Kampala, das zum Gedenken an die Herrschaft von König Georg V. errichtet wurde.",
       hu: "Egy történelmi emlékmű egy forgalmas körforgalomnál Kampalában, amelyet V. György király uralkodásának emlékére építettek.",
@@ -429,8 +446,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Makerere-Universität Hauptgebäude",
       hu: "Makerere Egyetem Főépülete",
       ro: "Clădirea Principală a Universității Makerere",
-      en: "Makerere University Main Building"
-    },
+      en: "Makerere University Main Building",
+image: "/poi-images/ug-makerere-main-building-landmarks-v2.webp"
+},
     description: {
       de: "Der ikonische Elfenbeinturm und das administrative Herz der Makerere-Universität, geprägt von seiner markanten britischen Kolonialarchitektur.",
       hu: "A Makerere Egyetem ikonikus elefántcsonttornya és adminisztratív központja, amelyet a jellegzetes brit gyarmati építészet jellemez.",
@@ -453,8 +471,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Uganda-Nationalmuseum",
       hu: "Ugandai Nemzeti Múzeum Épülete",
       ro: "Clădirea Muzeului Național din Uganda",
-      en: "Uganda National Museum Building"
-    },
+      en: "Uganda National Museum Building",
+image: "/poi-images/ug-uganda-national-museum-landmarks-v2.webp"
+},
     description: {
       de: "Ein klassisches Gebäude aus der Mitte des 20. Jahrhunderts, das Ugandas ältestes Museum beherbergt und ethnologische und historische Artefakte ausstellt.",
       hu: "Klasszikus 20. század közepi épület, amely Uganda legrégebbi múzeumának ad otthont, néprajzi és történelmi leleteket bemutatva.",
@@ -476,8 +495,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Workers House",
       hu: "Workers House",
       ro: "Workers House",
-      en: "Workers House"
-    },
+      en: "Workers House",
+image: "/poi-images/ug-workers-house-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutender moderner Wolkenkratzer in Kampalas Geschäftsviertel, bekannt für seine dunkle Glasfassade und seine Höhe.",
       hu: "Jelentős modern felhőkarcoló Kampala üzleti negyedében, amely sötét üveghomlokzatáról és magasságáról ismert.",
@@ -499,8 +519,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Karuma-Brücke",
       hu: "Karuma Híd",
       ro: "Podul Karuma",
-      en: "Karuma Bridge"
-    },
+      en: "Karuma Bridge",
+image: "/poi-images/ug-karuma-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine strategisch wichtige Brücke über den Victoria-Nil, die als entscheidende Verbindung zwischen Nord- und Süd-Uganda dient.",
       hu: "Stratégiai híd a Viktória-Nílus felett, amely kulcsfontosságú összekötő kapocs Észak- és Dél-Uganda között.",
@@ -522,8 +543,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Alter Flughafen Entebbe Terminal",
       hu: "Entebbe Régi Repülőtéri Terminál",
       ro: "Vechiul Terminal al Aeroportului Entebbe",
-      en: "Entebbe Old Airport Terminal"
-    },
+      en: "Entebbe Old Airport Terminal",
+image: "/poi-images/ug-entebbe-old-terminal-landmarks-v2.webp"
+},
     description: {
       de: "Das historische Terminal des Flughafens Entebbe, das weltweit als Ort der Geiselbefreiung (Operation Entebbe) im Jahr 1976 bekannt ist.",
       hu: "Az Entebbe Repülőtér történelmi terminálja, amely az 1976-os túszmentő akció (Entebbe hadművelet) helyszíneként vált világszerte ismertté.",
@@ -545,8 +567,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Shree Sanatan Dharma Mandal Tempel",
       hu: "Shree Sanatan Dharma Mandal Templom",
       ro: "Templul Shree Sanatan Dharma Mandal",
-      en: "Shree Sanatan Dharma Mandal Temple"
-    },
+      en: "Shree Sanatan Dharma Mandal Temple",
+image: "/poi-images/ug-shree-sanatan-temple-landmarks-v2.webp"
+},
     description: {
       de: "Ein farbenfroher und kunstvoll verzierter Hindu-Tempel im belebten Nakasero-Viertel von Kampala, der filigrane Schnitzereien aufweist.",
       hu: "Egy élénk és díszes hindu templom Kampala forgalmas Nakasero negyedében, amely bonyolult faragásokkal büszkélkedhet.",
@@ -568,8 +591,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Igongo-Kulturzentrum",
       hu: "Igongo Kulturális Központ",
       ro: "Centrul Cultural Igongo",
-      en: "Igongo Cultural Centre"
-    },
+      en: "Igongo Cultural Centre",
+image: "/poi-images/ug-igongo-cultural-centre-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes kulturelles und historisches Zentrum in Mbarara, bemerkenswert für seine Museumsarchitektur und großen Statuen von Langhornrindern.",
       hu: "Egy modern kulturális és történelmi központ Mbararában, amely nevezetes múzeumi építészetéről és hatalmas, hosszúszarvú marhákat ábrázoló szobrairól.",
@@ -591,8 +615,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Kibuli-Moschee",
       hu: "Kibuli Mecset",
       ro: "Moscheea Kibuli",
-      en: "Kibuli Mosque"
-    },
+      en: "Kibuli Mosque",
+image: "/poi-images/ug-kibuli-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutsame und optisch auffällige weiße Moschee auf dem Kibuli-Hügel, umgeben von Palmen.",
       hu: "Történelmileg jelentős és látványos fehér mecset, amely a Kibuli-hegy tetején áll, pálmafákkal szegélyezve.",
@@ -615,8 +640,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Nakivubo-Stadion",
       hu: "Nakivubo Stadion",
       ro: "Stadionul Nakivubo",
-      en: "Nakivubo Stadium"
-    },
+      en: "Nakivubo Stadium",
+image: "/poi-images/ug-nakivubo-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Sportstätte im Zentrum von Kampala, die als moderner Mehrzweck-Sport- und Handelskomplex komplett neu aufgebaut wurde.",
       hu: "Történelmi sportlétesítmény Kampala központjában, amelyet modern, többcélú sport- és kereskedelmi komplexumként teljesen újjáépítettek.",
@@ -638,8 +664,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Eisenbahnbrücke Jinja",
       hu: "Jinjai Vasúti Híd",
       ro: "Podul Feroviar Jinja",
-      en: "Jinja Railway Bridge"
-    },
+      en: "Jinja Railway Bridge",
+image: "/poi-images/ug-jinja-railway-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine alte stählerne Fachwerkbrücke, die den Nil in Jinja überspannt und für die Uganda Railway von historischer Bedeutung ist.",
       hu: "Egy régi acélrácsos vasúti híd a Nílus felett Jinjában, amely történelmi jelentőséggel bír az Ugandai Vasút szempontjából.",
@@ -661,8 +688,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Mautstelle der Kampala-Entebbe Expressway",
       hu: "Kampala-Entebbe Gyorsforgalmi Út Fizetőkapu",
       ro: "Punctul de Taxare a Autostrăzii Kampala-Entebbe",
-      en: "Kampala-Entebbe Expressway Toll Plaza"
-    },
+      en: "Kampala-Entebbe Expressway Toll Plaza",
+image: "/poi-images/ug-busega-toll-plaza-landmarks-v2.webp"
+},
     description: {
       de: "Ein großes, modernes Straßeninfrastrukturbauwerk, das die Einfahrt zu Ugandas erster mautpflichtiger Schnellstraße bildet, die die Hauptstadt mit dem Flughafen verbindet.",
       hu: "Hatalmas, modern útinfrastruktúra-létesítmény, amely Uganda első jelentős, a fővárost a repülőtérrel összekötő fizetős gyorsforgalmi útjának bejáratát jelöli.",
@@ -684,8 +712,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Katonga-Brücke",
       hu: "Katonga Híd",
       ro: "Podul Katonga",
-      en: "Katonga Bridge"
-    },
+      en: "Katonga Bridge",
+image: "/poi-images/ug-katonga-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine wichtige Autobahnbrücke über den Fluss Katonga und seine weiten Feuchtgebiete, lebenswichtig für den Verkehr im Südwesten Ugandas.",
       hu: "Kritikus autópályahíd a Katonga folyó és kiterjedt vizes élőhelyei felett, amely létfontosságú a délnyugat-ugandai közlekedés számára.",
@@ -708,8 +737,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       de: "Namilyango College Kapelle",
       hu: "Namilyango Főiskola Kápolnája",
       ro: "Capela Colegiului Namilyango",
-      en: "Namilyango College Chapel"
-    },
+      en: "Namilyango College Chapel",
+image: "/poi-images/ug-namiryango-college-landmarks-v2.webp"
+},
     description: {
       de: "Eine ikonische historische Kapelle in Ugandas ältester Internatsschule, die sich durch klassische Missionsarchitektur auszeichnet.",
       hu: "Ikonikus történelmi kápolna Uganda legrégebbi bentlakásos középiskolájában, melyet klasszikus misszionáriusi építészet jellemez.",

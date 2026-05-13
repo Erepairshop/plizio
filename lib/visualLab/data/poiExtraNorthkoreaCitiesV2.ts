@@ -6,7 +6,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "KP-01",
     coords: [125.7533, 39.0194],
-    name: { de: "Pjöngjang", hu: "Phenjan", ro: "Phenian", en: "Pyongyang" },
+    name: { de: "Pjöngjang", hu: "Phenjan", ro: "Phenian", en: "Pyongyang",
+image: "/poi-images/kp-pyongyang-cities-v2.webp"
+},
     description: {
       de: "Pjöngjang ist die Hauptstadt und das politische Zentrum Nordkoreas, gelegen am Fluss Taedong.",
       hu: "Phenjan Észak-Korea fővárosa és politikai központja, amely a Tedong folyó partján fekszik.",
@@ -37,7 +39,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-08",
     coords: [127.5369, 39.9144],
-    name: { de: "Hamhŭng", hu: "Hamhung", ro: "Hamhung", en: "Hamhung" },
+    name: { de: "Hamhŭng", hu: "Hamhung", ro: "Hamhung", en: "Hamhung",
+image: "/poi-images/kp-hamhung-cities-v2.webp"
+},
     description: {
       de: "Hamhŭng ist die zweitgrößte Stadt Nordkoreas und ein bedeutendes Zentrum der chemischen Industrie.",
       hu: "Hamhung Észak-Korea második legnagyobb városa és a vegyipar kiemelkedő központja.",
@@ -68,7 +72,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-09",
     coords: [129.7758, 41.7956],
-    name: { de: "Chŏngjin", hu: "Cshongdzsin", ro: "Chongjin", en: "Chongjin" },
+    name: { de: "Chŏngjin", hu: "Cshongdzsin", ro: "Chongjin", en: "Chongjin",
+image: "/poi-images/kp-chongjin-cities-v2.webp"
+},
     description: {
       de: "Chŏngjin ist die drittgrößte Stadt des Landes und ein wichtiges Zentrum der Stahlproduktion an der Ostküste.",
       hu: "Cshongdzsin az ország harmadik legnagyobb városa, a keleti partvidék acéliparának központja.",
@@ -99,7 +105,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-14",
     coords: [125.4056, 38.7303],
-    name: { de: "Namp'o", hu: "Nampo", ro: "Nampo", en: "Nampo" },
+    name: { de: "Namp'o", hu: "Nampo", ro: "Nampo", en: "Nampo",
+image: "/poi-images/kp-nampo-cities-v2.webp"
+},
     description: {
       de: "Namp'o ist eine bedeutende Hafenstadt am Gelben Meer und das maritime Tor zur Hauptstadt Pjöngjang.",
       hu: "Nampo jelentős kikötőváros a Sárga-tengernél, és a főváros tengeri kapuja.",
@@ -130,7 +138,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-07",
     coords: [127.4436, 39.1539],
-    name: { de: "Wŏnsan", hu: "Vonszan", ro: "Wonsan", en: "Wonsan" },
+    name: { de: "Wŏnsan", hu: "Vonszan", ro: "Wonsan", en: "Wonsan",
+image: "/poi-images/kp-wonsan-cities-v2.webp"
+},
     description: {
       de: "Wŏnsan ist eine Hafenstadt und ein wichtiger Marinestützpunkt an der Ostkorea-Bucht.",
       hu: "Vonszan kikötőváros és fontos haditengerészeti bázis a Kelet-koreai-öböl partján.",
@@ -161,7 +171,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-03",
     coords: [124.3983, 40.0994],
-    name: { de: "Sinŭiju", hu: "Sinidzsu", ro: "Sinuiju", en: "Sinuiju" },
+    name: { de: "Sinŭiju", hu: "Sinidzsu", ro: "Sinuiju", en: "Sinuiju",
+image: "/poi-images/kp-sinuiju-cities-v2.webp"
+},
     description: {
       de: "Sinŭiju liegt am Yalu-Fluss an der Grenze zu China und wickelt einen Großteil des nordkoreanisch-chinesischen Handels ab.",
       hu: "Sinidzsu a Jalu folyó mentén, a kínai határon fekszik, és az észak-koreai–kínai kereskedelem nagy részét bonyolítja.",
@@ -192,7 +204,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-08",
     coords: [128.9103, 40.4578],
-    name: { de: "Tanch'ŏn", hu: "Tancshon", ro: "Tanchon", en: "Tanchon" },
+    name: { de: "Tanch'ŏn", hu: "Tancshon", ro: "Tanchon", en: "Tanchon",
+image: "/poi-images/kp-tanchon-cities-v2.webp"
+},
     description: {
       de: "Tanch'ŏn ist eine bedeutende Bergbaustadt im Osten des Landes, bekannt für ihre riesigen Magnesitvorkommen.",
       hu: "Tancshon jelentős bányászváros az ország keleti részén, amely hatalmas magnezitkészleteiről ismert.",
@@ -223,7 +237,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-02",
     coords: [125.8978, 39.6953],
-    name: { de: "Kaech'ŏn", hu: "Kecshon", ro: "Kaechon", en: "Kaechon" },
+    name: { de: "Kaech'ŏn", hu: "Kecshon", ro: "Kaechon", en: "Kaechon",
+image: "/poi-images/kp-kaechon-cities-v2.webp"
+},
     description: {
       de: "Kaech'ŏn ist eine wichtige Industriestadt in der Provinz Süd-P'yŏngan, bekannt für ihren Kohlebergbau und ihre Wasserreservoirs.",
       hu: "Kecshon fontos iparváros Dél-Phjongan tartományban, amely szénbányászatáról és víztározóiról ismert.",
@@ -254,7 +270,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-15",
     coords: [126.5544, 37.9708],
-    name: { de: "Kaesŏng", hu: "Keszong", ro: "Kaesong", en: "Kaesong" },
+    name: { de: "Kaesŏng", hu: "Keszong", ro: "Kaesong", en: "Kaesong",
+image: "/poi-images/kp-kaesong-cities-v2.webp"
+},
     description: {
       de: "Kaesŏng war die Hauptstadt des Koryo-Reiches und liegt heute nahe der demilitarisierten Zone an der südkoreanischen Grenze.",
       hu: "Keszong a Korjo Birodalom fővárosa volt, ma pedig a demilitarizált övezet közelében, a dél-koreai határnál fekszik.",
@@ -285,7 +303,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-06",
     coords: [125.7536, 38.5081],
-    name: { de: "Sariwŏn", hu: "Szarivon", ro: "Sariwon", en: "Sariwon" },
+    name: { de: "Sariwŏn", hu: "Szarivon", ro: "Sariwon", en: "Sariwon",
+image: "/poi-images/kp-sariwon-cities-v2.webp"
+},
     description: {
       de: "Sariwŏn ist eine Stadt im zentralen Westen Nordkoreas und ein wichtiges Zentrum für Bildung und Landwirtschaft.",
       hu: "Szarivon egy város Észak-Korea középső-nyugati részén, amely az oktatás és a mezőgazdaság fontos központja.",
@@ -316,7 +336,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-02",
     coords: [125.9264, 39.4217],
-    name: { de: "Sunch'ŏn", hu: "Szuncshon", ro: "Sunchon", en: "Sunchon" },
+    name: { de: "Sunch'ŏn", hu: "Szuncshon", ro: "Sunchon", en: "Sunchon",
+image: "/poi-images/kp-sunchon-cities-v2.webp"
+},
     description: {
       de: "Sunch'ŏn ist eine große Industriestadt, in der ein bedeutender Teil der chemischen Güter und Düngemittel Nordkoreas hergestellt wird.",
       hu: "Szuncshon nagy iparváros, ahol Észak-Korea vegyipari termékeinek és műtrágyáinak jelentős részét gyártják.",
@@ -347,7 +369,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-02",
     coords: [125.8456, 39.2464],
-    name: { de: "P'yŏngsŏng", hu: "Phjongszong", ro: "Pyongsong", en: "Pyongsong" },
+    name: { de: "P'yŏngsŏng", hu: "Phjongszong", ro: "Pyongsong", en: "Pyongsong",
+image: "/poi-images/kp-pyongsong-cities-v2.webp"
+},
     description: {
       de: "P'yŏngsŏng ist das wissenschaftliche und technologische Zentrum Nordkoreas, das speziell für akademische Forschung gegründet wurde.",
       hu: "Phjongszong Észak-Korea tudományos és technológiai központja, amelyet kifejezetten akadémiai kutatás céljából alapítottak.",
@@ -378,7 +402,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-05",
     coords: [125.7144, 38.0308],
-    name: { de: "Haeju", hu: "Hedzsu", ro: "Haeju", en: "Haeju" },
+    name: { de: "Haeju", hu: "Hedzsu", ro: "Haeju", en: "Haeju",
+image: "/poi-images/kp-haeju-cities-v2.webp"
+},
     description: {
       de: "Haeju ist eine strategisch wichtige Hafenstadt im Südwesten Nordkoreas, umgeben von bedeutenden landwirtschaftlichen Flächen.",
       hu: "Hedzsu egy stratégiailag fontos kikötőváros Észak-Korea délnyugati részén, amelyet jelentős mezőgazdasági területek vesznek körül.",
@@ -409,7 +435,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-04",
     coords: [126.5861, 40.9694],
-    name: { de: "Kanggye", hu: "Kanggje", ro: "Kanggye", en: "Kanggye" },
+    name: { de: "Kanggye", hu: "Kanggje", ro: "Kanggye", en: "Kanggye",
+image: "/poi-images/kp-kanggye-cities-v2.webp"
+},
     description: {
       de: "Kanggye liegt tief in den Bergen der Provinz Chagang und ist ein logistisches Zentrum nahe der chinesischen Grenze.",
       hu: "Kanggje Csagang tartomány hegyei között fekszik, és egy fontos logisztikai központ a kínai határ közelében.",
@@ -440,7 +468,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-02",
     coords: [125.6592, 39.6178],
-    name: { de: "Anju", hu: "Andzsu", ro: "Anju", en: "Anju" },
+    name: { de: "Anju", hu: "Andzsu", ro: "Anju", en: "Anju",
+image: "/poi-images/kp-anju-cities-v2.webp"
+},
     description: {
       de: "Anju liegt am Fluss Ch'ŏngch'ŏn und spielt eine wichtige Rolle in der Energieerzeugung des Landes.",
       hu: "Andzsu a Cshongcshon folyó mentén található, és fontos szerepet játszik az ország energiatermelésében.",
@@ -471,7 +501,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-02",
     coords: [126.2869, 39.7547],
-    name: { de: "Tŏkch'ŏn", hu: "Tokcshon", ro: "Tokchon", en: "Tokchon" },
+    name: { de: "Tŏkch'ŏn", hu: "Tokcshon", ro: "Tokchon", en: "Tokchon",
+image: "/poi-images/kp-tokchon-cities-v2.webp"
+},
     description: {
       de: "Tŏkch'ŏn ist eine florierende Industriestadt, in der Nordkoreas größte Automobilfabrik für Lastwagen betrieben wird.",
       hu: "Tokcshon egy virágzó iparváros, ahol Észak-Korea legnagyobb teherautó-gyárát üzemeltetik.",
@@ -502,7 +534,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-09",
     coords: [129.1978, 40.6694],
-    name: { de: "Kimch'aek", hu: "Kimcshak", ro: "Kimchaek", en: "Kimchaek" },
+    name: { de: "Kimch'aek", hu: "Kimcshak", ro: "Kimchaek", en: "Kimchaek",
+image: "/poi-images/kp-kimchaek-cities-v2.webp"
+},
     description: {
       de: "Kimch'aek, früher Songjin, wurde nach einem nordkoreanischen General benannt und ist ein wichtiger Hafen an der Ostküste.",
       hu: "A korábban Szongdzsin néven ismert Kimcshak egy észak-koreai tábornokról kapta a nevét, és fontos kikötő a keleti parton.",
@@ -533,7 +567,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-13",
     coords: [130.2981, 42.2472],
-    name: { de: "Rasŏn", hu: "Raszon", ro: "Rason", en: "Rason" },
+    name: { de: "Rasŏn", hu: "Raszon", ro: "Rason", en: "Rason",
+image: "/poi-images/kp-rason-cities-v2.webp"
+},
     description: {
       de: "Rasŏn ist eine besondere Wirtschaftszone im äußersten Nordosten, wo die Grenzen Nordkoreas, Chinas und Russlands aufeinandertreffen.",
       hu: "Raszon egy különleges gazdasági övezet a távol-északkeleten, ahol Észak-Korea, Kína és Oroszország határai találkoznak.",
@@ -564,7 +600,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-03",
     coords: [125.2444, 39.9792],
-    name: { de: "Kusŏng", hu: "Kuszong", ro: "Kusong", en: "Kusong" },
+    name: { de: "Kusŏng", hu: "Kuszong", ro: "Kusong", en: "Kusong",
+image: "/poi-images/kp-kusong-cities-v2.webp"
+},
     description: {
       de: "Kusŏng liegt im Westen des Landes und hat sowohl militärstrategische als auch industrielle Bedeutung für die Verteidigungsindustrie.",
       hu: "Kuszong az ország nyugati részén fekszik, és mind katonai-stratégiai, mind védelmi ipari jelentőséggel bír.",
@@ -595,7 +633,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-10",
     coords: [128.1758, 41.4014],
-    name: { de: "Hyesan", hu: "Hjeszan", ro: "Hyesan", en: "Hyesan" },
+    name: { de: "Hyesan", hu: "Hjeszan", ro: "Hyesan", en: "Hyesan",
+image: "/poi-images/kp-hyesan-cities-v2.webp"
+},
     description: {
       de: "Hyesan liegt am Yalu-Fluss im hohen Norden, bekannt für eiskalte Winter und die Holzindustrie.",
       hu: "Hjeszan a magas északon, a Jalu folyó mentén található, jéghideg teleiről és faiparáról ismert.",
@@ -626,7 +666,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-04",
     coords: [126.2750, 40.1706],
-    name: { de: "Hŭich'ŏn", hu: "Hicshon", ro: "Huichon", en: "Huichon" },
+    name: { de: "Hŭich'ŏn", hu: "Hicshon", ro: "Huichon", en: "Huichon",
+image: "/poi-images/kp-huichon-cities-v2.webp"
+},
     description: {
       de: "Hŭich'ŏn ist eine stark industrialisierte Stadt, die auf Telekommunikation und Maschinenbau spezialisiert ist.",
       hu: "Hicshon egy erősen iparosodott város, amely a telekommunikációra és a gépiparra specializálódott.",
@@ -657,7 +699,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-03",
     coords: [125.2056, 39.6967],
-    name: { de: "Chŏngju", hu: "Csongdzsu", ro: "Jongju", en: "Jongju" },
+    name: { de: "Chŏngju", hu: "Csongdzsu", ro: "Jongju", en: "Jongju",
+image: "/poi-images/kp-jongju-cities-v2.webp"
+},
     description: {
       de: "Chŏngju ist ein landwirtschaftlicher Verkehrsknotenpunkt in der Provinz Nord-P'yŏngan am Gelben Meer.",
       hu: "Csongdzsu egy mezőgazdasági közlekedési csomópont Észak-Phjongan tartományban, a Sárga-tengernél.",
@@ -688,7 +732,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-06",
     coords: [125.6450, 38.7369],
-    name: { de: "Songrim", hu: "Szongnim", ro: "Songrim", en: "Songrim" },
+    name: { de: "Songrim", hu: "Szongnim", ro: "Songrim", en: "Songrim",
+image: "/poi-images/kp-songrim-cities-v2.webp"
+},
     description: {
       de: "Songrim liegt südlich von Pjöngjang und ist durch sein riesiges Hwanghae-Stahlwerk eine zentrale Industriestadt.",
       hu: "Szongnim Phenjantól délre fekszik, és hatalmas Hvanghe acélművével központi iparvárosnak számít.",
@@ -719,7 +765,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-09",
     coords: [129.7497, 42.2611],
-    name: { de: "Hoeryŏng", hu: "Hörjong", ro: "Hoeryong", en: "Hoeryong" },
+    name: { de: "Hoeryŏng", hu: "Hörjong", ro: "Hoeryong", en: "Hoeryong",
+image: "/poi-images/kp-hoeryong-cities-v2.webp"
+},
     description: {
       de: "Hoeryŏng liegt direkt an der Tumen-Grenze zu China und ist berühmt als Geburtsort von Kim Jong-suks, der Mutter von Kim Jong-il.",
       hu: "Hörjong közvetlenül a Tumen folyó kínai határán fekszik, és Kim Dzsongszuk, Kim Dzsongil anyjának szülőhelyeként híres.",
@@ -750,7 +798,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-07",
     coords: [127.3556, 39.3131],
-    name: { de: "Munch'ŏn", hu: "Muncshon", ro: "Munchon", en: "Munchon" },
+    name: { de: "Munch'ŏn", hu: "Muncshon", ro: "Munchon", en: "Munchon",
+image: "/poi-images/kp-munchon-cities-v2.webp"
+},
     description: {
       de: "Munch'ŏn ist eine Stadt an der Ostküste nördlich von Wŏnsan, die maritime Wirtschaft und Landwirtschaft verbindet.",
       hu: "Muncshon egy város a keleti parton, Vonszantól északra, amely a tengeri gazdaságot és a mezőgazdaságot ötvözi.",
@@ -781,7 +831,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-04",
     coords: [126.2894, 41.4681],
-    name: { de: "Manp'o", hu: "Manpho", ro: "Manpo", en: "Manpo" },
+    name: { de: "Manp'o", hu: "Manpho", ro: "Manpo", en: "Manpo",
+image: "/poi-images/kp-manpo-cities-v2.webp"
+},
     description: {
       de: "Manp'o ist eine malerische Stadt am Yalu-Fluss, die als wichtiger Handelsknotenpunkt mit der chinesischen Stadt Ji'an fungiert.",
       hu: "Manpho egy festői város a Jalu folyó partján, amely fontos kereskedelmi csomópont a kínai Csian városával.",
@@ -812,7 +864,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-03",
     coords: [124.9189, 39.7997],
-    name: { de: "Sŏnch'ŏn", hu: "Szoncshon", ro: "Sonchon", en: "Sonchon" },
+    name: { de: "Sŏnch'ŏn", hu: "Szoncshon", ro: "Sonchon", en: "Sonchon",
+image: "/poi-images/kp-sonchon-cities-v2.webp"
+},
     description: {
       de: "Sŏnch'ŏn liegt in der Ebene der Provinz Nord-P'yŏngan und zeichnet sich durch weite Reisfelder aus.",
       hu: "Szoncshon Észak-Phjongan tartomány síkságán fekszik, és hatalmas rizsföldjeivel tűnik ki.",
@@ -843,7 +897,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-08",
     coords: [128.1756, 40.0353],
-    name: { de: "Sinp'o", hu: "Szinpho", ro: "Sinpo", en: "Sinpho" },
+    name: { de: "Sinp'o", hu: "Szinpho", ro: "Sinpo", en: "Sinpho",
+image: "/poi-images/kp-sinpho-cities-v2.webp"
+},
     description: {
       de: "Sinp'o ist eine Küstenstadt am Japanischen Meer und gilt als das Herz der nordkoreanischen U-Boot-Industrie.",
       hu: "Szinpho a Japán-tenger partján fekszik, és az észak-koreai tengeralattjáró-ipar szívének tekintik.",
@@ -874,7 +930,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-10",
     coords: [128.3200, 41.8317],
-    name: { de: "Samjiyŏn", hu: "Szamdzsijon", ro: "Samjiyon", en: "Samjiyon" },
+    name: { de: "Samjiyŏn", hu: "Szamdzsijon", ro: "Samjiyon", en: "Samjiyon",
+image: "/poi-images/kp-samjiyon-cities-v2.webp"
+},
     description: {
       de: "Samjiyŏn liegt am Fuße des heiligen Berges Paektu und wurde zu einem modernen alpinen Vorzeigedorf ausgebaut.",
       hu: "Szamdzsijon a szent Pektu-hegy lábánál fekszik, és egy modern, mintaszerű alpesi faluvá fejlesztették.",
@@ -905,7 +963,9 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     type: "city",
     parent: "KP-02",
     coords: [126.1117, 39.5847],
-    name: { de: "Pukch'ang", hu: "Pukcshang", ro: "Pukchang", en: "Pukchang" },
+    name: { de: "Pukch'ang", hu: "Pukcshang", ro: "Pukchang", en: "Pukchang",
+image: "/poi-images/kp-pukchang-cities-v2.webp"
+},
     description: {
       de: "Pukch'ang in der Provinz Süd-P'yŏngan beherbergt das größte Kohlekraftwerk Nordkoreas und ist essenziell für die Stromversorgung.",
       hu: "A Dél-Phjongan tartományban található Pukcshang Észak-Korea legnagyobb szénerőművének ad otthont, ami elengedhetetlen az áramellátáshoz.",

@@ -7,7 +7,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-CU",
     coords: [-0.37, 11.78],
-    name: { de: "Tenkodogo-Ebene", hu: "Tenkodogo-síkság", ro: "Câmpia Tenkodogo", en: "Tenkodogo Plain" },
+    name: { de: "Tenkodogo-Ebene", hu: "Tenkodogo-síkság", ro: "Câmpia Tenkodogo", en: "Tenkodogo Plain",
+image: "/poi-images/tenkodogo-relief-v2.webp"
+},
     description: { de: "Eine weite Ebene im Osten von Burkina Faso.", hu: "Egy széles síkság Burkina Faso keleti részén.", ro: "O câmpie întinsă în estul Burkina Faso.", en: "A vast plain in the east of Burkina Faso." },
     facts: {
       de: ["Geprägt durch sanfte Hügel", "Wichtige landwirtschaftliche Zone"],
@@ -21,7 +23,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-GN",
     coords: [0.35, 12.06],
-    name: { de: "Fada-N'Gourma-Plateau", hu: "Fada-N'Gourma-fennsík", ro: "Podișul Fada-N'Gourma", en: "Fada-N'Gourma Plateau" },
+    name: { de: "Fada-N'Gourma-Plateau", hu: "Fada-N'Gourma-fennsík", ro: "Podișul Fada-N'Gourma", en: "Fada-N'Gourma Plateau",
+image: "/poi-images/fada-n-gourma-relief-v2.webp"
+},
     description: { de: "Ein trockenes Plateau in der Region Est.", hu: "Száraz fennsík az Est régióban.", ro: "Un podiș arid în regiunea Est.", en: "An arid plateau in the Est region." },
     facts: {
       de: ["Durchschnittliche Höhe von 300 Metern", "Geringe Niederschläge"],
@@ -34,7 +38,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-TU",
     coords: [-3.52, 11.5],
-    name: { de: "Houndé-Becken", hu: "Houndé-medence", ro: "Bazinul Houndé", en: "Houndé Basin" },
+    name: { de: "Houndé-Becken", hu: "Houndé-medence", ro: "Bazinul Houndé", en: "Houndé Basin",
+image: "/poi-images/hounde-relief-v2.webp"
+},
     description: { de: "Ein bedeutendes Sedimentbecken im Südwesten.", hu: "Fontos üledékes medence délnyugaton.", ro: "Un bazin sedimentar important în sud-vest.", en: "A significant sedimentary basin in the southwest." },
     facts: {
       de: ["Reich an Mineralvorkommen", "Gute Bodenqualität"],
@@ -48,7 +54,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-YO",
     coords: [-2.42, 13.58],
-    name: { de: "Ouahigouya-Senke", hu: "Ouahigouya-mélyföld", ro: "Depresiunea Ouahigouya", en: "Ouahigouya Depression" },
+    name: { de: "Ouahigouya-Senke", hu: "Ouahigouya-mélyföld", ro: "Depresiunea Ouahigouya", en: "Ouahigouya Depression",
+image: "/poi-images/ouahigouya-relief-v2.webp"
+},
     description: { de: "Ein flaches Gebiet im Norden des Landes.", hu: "Lapos terület az ország északi részén.", ro: "O zonă plată în nordul țării.", en: "A flat area in the north of the country." },
     facts: {
       de: ["Wüstenartige Bedingungen am Rand", "Wichtige Viehzuchtregion"],
@@ -62,7 +70,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-BL",
     coords: [-2.93, 11.75],
-    name: { de: "Boromo-Hügelland", hu: "Boromo-dombság", ro: "Dealurile Boromo", en: "Boromo Hills" },
+    name: { de: "Boromo-Hügelland", hu: "Boromo-dombság", ro: "Dealurile Boromo", en: "Boromo Hills",
+image: "/poi-images/boromo-relief-v2.webp"
+},
     description: { de: "Das Relief von Boromo ist von sanften Hügeln entlang des Schwarzen Volta geprägt. Die Landschaft bildet einen Übergang zwischen Flussraum und trockener Savanne.", hu: "Dombos táj a Fekete-Volta mentén.", ro: "Un peisaj deluros de-a lungul râului Volta Neagră.", en: "A hilly landscape along the Black Volta." },
     facts: {
       de: ["Entlang des Schwarzen Volta", "Sanfte Hügel", "Übergang zur Savanne"],
@@ -75,7 +85,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-SM",
     coords: [-1.08, 13.08],
-    name: { de: "Kaya-Hochland", hu: "Kaya-felföld", ro: "Podișul Kaya", en: "Kaya Highlands" },
+    name: { de: "Kaya-Hochland", hu: "Kaya-felföld", ro: "Podișul Kaya", en: "Kaya Highlands",
+image: "/poi-images/kaya-plateau-v2.webp"
+},
     description: { de: "Ein welliges Hochland nordöstlich von Ouagadougou.", hu: "Hullámos felföld Ouagadougou-tól északkeletre.", ro: "Un podiș vălurit la nord-est de Ouagadougou.", en: "An undulating highland northeast of Ouagadougou." },
     facts: {
       de: ["Granitischer Untergrund", "Bedeutende Wasserreservoire"],
@@ -89,7 +101,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-PG",
     coords: [-3.18, 10.3],
-    name: { de: "Gaoua-Hügel", hu: "Gaoua-dombok", ro: "Dealurile Gaoua", en: "Gaoua Hills" },
+    name: { de: "Gaoua-Hügel", hu: "Gaoua-dombok", ro: "Dealurile Gaoua", en: "Gaoua Hills",
+image: "/poi-images/gaoua-relief-v2.webp"
+},
     description: { de: "Ein grünes Hügelgebiet im Südwesten.", hu: "Zöld dombvidék a délnyugaton.", ro: "O zonă deluroasă verde în sud-vest.", en: "A green hilly area in the southwest." },
     facts: {
       de: ["Höchste Niederschlagsmengen", "Tropische Vegetation"],
@@ -102,7 +116,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-TP",
     coords: [1.79, 12.06],
-    name: { de: "Diapaga-Plateau", hu: "Diapaga-fennsík", ro: "Podișul Diapaga", en: "Diapaga Plateau" },
+    name: { de: "Diapaga-Plateau", hu: "Diapaga-fennsík", ro: "Podișul Diapaga", en: "Diapaga Plateau",
+image: "/poi-images/diapaga-relief-v2.webp"
+},
     description: { de: "Ein abgelegenes Plateau im äußersten Osten.", hu: "Távoli fennsík a legkeletibb részen.", ro: "Un podiș izolat în extremitatea estică.", en: "A remote plateau in the far east." },
     facts: {
       de: ["Grenzt an den W-Nationalpark", "Wichtiger Lebensraum für Tiere"],
@@ -115,7 +131,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-SS",
     coords: [-2.1, 11.1],
-    name: { de: "Léo-Tiefland", hu: "Léo-alföld", ro: "Câmpia Léo", en: "Léo Lowlands" },
+    name: { de: "Léo-Tiefland", hu: "Léo-alföld", ro: "Câmpia Léo", en: "Léo Lowlands",
+image: "/poi-images/leo-relief-v2.webp"
+},
     description: { de: "Eine tiefergelegene Region nahe der Grenze zu Ghana.", hu: "Mélyebben fekvő régió Ghána határának közelében.", ro: "O regiune joasă aproape de granița cu Ghana.", en: "A low-lying region near the border with Ghana." },
     facts: {
       de: ["Fruchtbare Schwemmböden", "Hohe landwirtschaftliche Produktivität"],
@@ -128,7 +146,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-SO",
     coords: [-1.63, 14.1],
-    name: { de: "Djibo-Dünenfeld", hu: "Djibo-dűnamező", ro: "Câmpia dunară Djibo", en: "Djibo Dune Field" },
+    name: { de: "Djibo-Dünenfeld", hu: "Djibo-dűnamező", ro: "Câmpia dunară Djibo", en: "Djibo Dune Field",
+image: "/poi-images/djibo-relief-v2.webp"
+},
     description: { de: "Ein sandiges Gebiet am Rande der Sahelzone.", hu: "Homokos terület a Száhel-övezet szélén.", ro: "O zonă nisipoasă la marginea Sahelului.", en: "A sandy area on the edge of the Sahel." },
     facts: {
       de: ["Starke Winderosion", "Wanderdünen vorhanden"],
@@ -142,7 +162,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-MU",
     coords: [-3.47, 12.47],
-    name: { de: "Dédougou-Ebene", hu: "Dédougou-síkság", ro: "Câmpia Dédougou", en: "Dédougou Plain" },
+    name: { de: "Dédougou-Ebene", hu: "Dédougou-síkság", ro: "Câmpia Dédougou", en: "Dédougou Plain",
+image: "/poi-images/dedougou-relief-v2.webp"
+},
     description: { de: "Die Reliefzone von Dédougou ist überwiegend flach und offen. Sie gehört zu den typischen Ebenen im Westen Burkina Fasos.", hu: "Dédougou térsége inkább sík, enyhén hullámos felszínéről ismert. A táj a nyugat-burkinai szavannavidék jellegzetes része.", ro: "O savană vastă și plată în vest.", en: "The Dédougou relief is made up of broad plains and gentle rises in west-central Burkina Faso. It gives the area an open savanna profile with few steep forms." },
     facts: {
       de: ["Flaches Relief", "Im Westen des Landes", "Offene Ebene"],
@@ -156,7 +178,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-YA",
     coords: [0.52, 13.93],
-    name: { de: "Sebba-Wadi-Region", hu: "Sebba-vádi régió", ro: "Regiunea Sebba Wadi", en: "Sebba Wadi Region" },
+    name: { de: "Sebba-Wadi-Region", hu: "Sebba-vádi régió", ro: "Regiunea Sebba Wadi", en: "Sebba Wadi Region",
+image: "/poi-images/sebba-relief-v2.webp"
+},
     description: { de: "Ein Gebiet mit zahlreichen ausgetrockneten Flussläufen.", hu: "Számos kiszáradt folyómederrel tarkított terület.", ro: "O zonă cu numeroase albii de râuri secate.", en: "An area with numerous dried-up riverbeds." },
     facts: {
       de: ["Einzige Wasserquelle in der Trockenzeit", "Wichtige Wanderrouten für Nomaden"],
@@ -169,7 +193,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-ZO",
     coords: [-2.35, 13.15],
-    name: { de: "Gourcy-Plateau", hu: "Gourcy-fennsík", ro: "Podișul Gourcy", en: "Gourcy Plateau" },
+    name: { de: "Gourcy-Plateau", hu: "Gourcy-fennsík", ro: "Podișul Gourcy", en: "Gourcy Plateau",
+image: "/poi-images/gourcy-relief-v2.webp"
+},
     description: { de: "Ein trockenes, steiniges Hochland.", hu: "Gourcy környéke szárazabb, keményebb domborzatú vidék. A felszín a Száhel peremének tájképét idézi.", ro: "Un podiș arid și stâncos.", en: "The Gourcy relief is a low, rolling landscape in northern Burkina Faso. It is shaped by flat ground, shallow valleys, and sparse elevation changes." },
     facts: {
       de: ["Sehr karge Vegetation", "Steinige Oberfläche"],
@@ -183,7 +209,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-KS",
     coords: [-1.1, 12.85],
-    name: { de: "Boussouma-Hügelland", hu: "Boussouma-dombság", ro: "Dealurile Boussouma", en: "Boussouma Hills" },
+    name: { de: "Boussouma-Hügelland", hu: "Boussouma-dombság", ro: "Dealurile Boussouma", en: "Boussouma Hills",
+image: "/poi-images/boussouma-relief-v2.webp"
+},
     description: { de: "Eine leicht wellige Landschaft im Zentrum.", hu: "Enyhén hullámos táj a központban.", ro: "Un peisaj ușor vălurit în centru.", en: "A slightly undulating landscape in the center." },
     facts: {
       de: ["Landwirtschaftliche Nutzung", "Kleine Felsformationen"],
@@ -196,7 +224,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-TP",
     coords: [1.4, 11.25],
-    name: { de: "Pama-Tiefebene", hu: "Pama-alföld", ro: "Câmpia Pama", en: "Pama Lowlands" },
+    name: { de: "Pama-Tiefebene", hu: "Pama-alföld", ro: "Câmpia Pama", en: "Pama Lowlands",
+image: "/poi-images/pama-relief-v2.webp"
+},
     description: { de: "Eine tiefe Ebene im Südosten nahe der Grenze zu Benin.", hu: "Mély alföld délkeleten, Benin határának közelében.", ro: "O câmpie joasă în sud-est, aproape de granița cu Benin.", en: "The Pama relief combines low plains with wooded savanna in southeastern Burkina Faso. It sits close to conservation landscapes and seasonal water routes." },
     facts: {
       de: ["Reiche Wildfauna", "Dichte Buschvegetation"],
@@ -209,7 +239,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-NR",
     coords: [-0.55, 12.75],
-    name: { de: "Boulsa-Plateau", hu: "Boulsa-fennsík", ro: "Podișul Boulsa", en: "Boulsa Plateau" },
+    name: { de: "Boulsa-Plateau", hu: "Boulsa-fennsík", ro: "Podișul Boulsa", en: "Boulsa Plateau",
+image: "/poi-images/boulsa-relief-v2.webp"
+},
     description: { de: "Das Relief von Boulsa ist leicht wellig und liegt im Zentrum des Landes. Es verbindet flache Landschaften mit kleinen Erhebungen.", hu: "Boulsa környéke átmeneti, mozaikos felszínű terület. A síkságok és kisebb magaslatok váltakozása jellemzi.", ro: "Boulsa este un punct de relief asociat cu terenul ondulat din centrul Burkinei Faso. Zona oferă o trecere clară între câmpii și dealuri joase.", en: "The Boulsa relief is a mostly flat to gently undulating area in central-northern Burkina Faso. It reflects the typical terrain of the country’s savanna heartland." },
     facts: {
       de: ["Leicht wellig", "In Zentralburkina", "Kleine Erhebungen"],
@@ -223,7 +255,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-KC",
     coords: [-0.28, 12.28],
-    name: { de: "Pouytenga-Ebene", hu: "Pouytenga-síkság", ro: "Câmpia Pouytenga", en: "Pouytenga Plain" },
+    name: { de: "Pouytenga-Ebene", hu: "Pouytenga-síkság", ro: "Câmpia Pouytenga", en: "Pouytenga Plain",
+image: "/poi-images/pouytenga-relief-v2.webp"
+},
     description: { de: "Eine flache Handelsregion.", hu: "Lapos kereskedelmi régió.", ro: "O regiune plată de comerț.", en: "A flat commercial region." },
     facts: {
       de: ["Gute Bodenqualität", "Hohe Bevölkerungsdichte"],
@@ -237,7 +271,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-TP",
     coords: [1.35, 11.15],
-    name: { de: "Tanguiéta-Hügelrand", hu: "Tanguiéta-dombszegély", ro: "Piemontul Tanguiéta", en: "Tanguiéta Foothills" },
+    name: { de: "Tanguiéta-Hügelrand", hu: "Tanguiéta-dombszegély", ro: "Piemontul Tanguiéta", en: "Tanguiéta Foothills",
+image: "/poi-images/tanguieta-relief-v2.webp"
+},
     description: { de: "Das Relief bei Tanguiéta liegt im Grenzraum und zeigt die Übergänge zu den Hügeln der Atakora-Region. Die Landschaft ist deutlich gegliedert und leicht ansteigend.", hu: "Tanguiéta térsége határközeli, tagolt tájként jelenik meg. A domborzat itt a környező természeti zónák átmenetét mutatja.", ro: "Tanguieta este un punct de relief legat de zona de tranziție din sud-vest. El face parte din peisajele locale cu diferențe clare de nivel.", en: "The Tanguiéta relief describes a borderland landscape with plains and low rises near the southwest edge of Burkina Faso. It marks a transition between neighboring regional landforms." },
     facts: {
       de: ["Grenzraum-Lage", "Übergangsrelief", "Leicht ansteigend"],
@@ -250,7 +286,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-BL",
     coords: [-2.36, 12.25],
-    name: { de: "Koudougou-Ebene", hu: "Koudougou-síkság", ro: "Câmpia Koudougou", en: "Koudougou Plain" },
+    name: { de: "Koudougou-Ebene", hu: "Koudougou-síkság", ro: "Câmpia Koudougou", en: "Koudougou Plain",
+image: "/poi-images/koudougou-relief-v2.webp"
+},
     description: { de: "Ein flaches, landwirtschaftlich geprägtes Zentrum.", hu: "Lapos, mezőgazdasági jellegű központ.", ro: "Un centru plat, marcat de agricultură.", en: "A flat, agriculture-oriented center." },
     facts: {
       de: ["Viel Getreideanbau", "Relativ flache Topographie"],
@@ -264,7 +302,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-KA",
     coords: [-1.52, 12.37],
-    name: { de: "Ouagadougou-Plateau", hu: "Ouagadougou-fennsík", ro: "Podișul Ouagadougou", en: "Ouagadougou Plateau" },
+    name: { de: "Ouagadougou-Plateau", hu: "Ouagadougou-fennsík", ro: "Podișul Ouagadougou", en: "Ouagadougou Plateau",
+image: "/poi-images/ouagadougou-plateau-v2.webp"
+},
     description: { de: "Das zentrale Plateau um die Hauptstadt.", hu: "A főváros körüli központi fennsík.", ro: "Podișul central din jurul capitalei.", en: "The central plateau around the capital city." },
     facts: {
       de: ["Leichte Erhebungen", "Zentrum der Besiedlung"],
@@ -277,7 +317,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-HU",
     coords: [-4.28, 11.18],
-    name: { de: "Bobo-Dioulasso-Hügelland", hu: "Bobo-Dioulasso-dombság", ro: "Dealurile Bobo-Dioulasso", en: "Bobo-Dioulasso Hills" },
+    name: { de: "Bobo-Dioulasso-Hügelland", hu: "Bobo-Dioulasso-dombság", ro: "Dealurile Bobo-Dioulasso", en: "Bobo-Dioulasso Hills",
+image: "/poi-images/bobodioulasso-relief-v2.webp"
+},
     description: { de: "Eine hügelige Landschaft im fruchtbaren Südwesten.", hu: "Dombság a termékeny délnyugaton.", ro: "Un peisaj deluros în sud-vestul fertil.", en: "The Bobo-Dioulasso relief is a mix of low plateaus and gentle hills around the city. It is less flat than the northern Sahel but still broadly open." },
     facts: {
       de: ["Reiche Vegetation", "Gute Niederschläge"],
@@ -291,7 +333,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-CO",
     coords: [-4.76, 10.63],
-    name: { de: "Banfora-Felsplateau", hu: "Banfora-sziklafennsík", ro: "Podișul stâncos Banfora", en: "Banfora Rock Plateau" },
+    name: { de: "Banfora-Felsplateau", hu: "Banfora-sziklafennsík", ro: "Podișul stâncos Banfora", en: "Banfora Rock Plateau",
+image: "/poi-images/banfora-relief-v2.webp"
+},
     description: { de: "Ein spektakuläres Felsplateau im Südwesten.", hu: "Látványos sziklafennsík délnyugaton.", ro: "Un podiș stâncos spectaculos în sud-vest.", en: "A spectacular rock plateau in the southwest." },
     facts: {
       de: ["Bekannt für die Wasserfälle", "Beeindruckende Klippen"],
@@ -304,7 +348,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-GN",
     coords: [-0.14, 12.98],
-    name: { de: "Bogandé-Senke", hu: "Bogandé-mélyföld", ro: "Depresiunea Bogandé", en: "Bogandé Depression" },
+    name: { de: "Bogandé-Senke", hu: "Bogandé-mélyföld", ro: "Depresiunea Bogandé", en: "Bogandé Depression",
+image: "/poi-images/bogande-relief-v2.webp"
+},
     description: { de: "Eine flache Senke im Osten.", hu: "Bogandé környéke inkább száraz, síkabb táj, kisebb kiemelkedésekkel. A helyi domborzat jól illeszkedik a keleti vidék karakteréhez.", ro: "Bogandé reprezintă o formă de relief din estul Burkinei Faso. Terenul de aici este tipic pentru regiunile de savană și câmp deschis.", en: "The Bogandé relief is dominated by open eastern plains. The terrain is low and broad, with only small variations in height." },
     facts: {
       de: ["Weites Weideland", "Trockene Savanne"],
@@ -317,7 +363,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-SM",
     coords: [-0.5, 13.0],
-    name: { de: "Pissila-Hügelland", hu: "Pissila-dombság", ro: "Dealurile Pissila", en: "Pissila Hills" },
+    name: { de: "Pissila-Hügelland", hu: "Pissila-dombság", ro: "Dealurile Pissila", en: "Pissila Hills",
+image: "/poi-images/pissila-relief-v2.webp"
+},
     description: { de: "Das Relief von Pissila ist eine offene, relativ flache Landschaft im Zentrum-Norden. Es passt zum trockenen Charakter der Region und zu ihrer landwirtschaftlichen Nutzung.", hu: "Pissila környezete enyhén hullámos, szavannás felszín. A táj a közép-burkinai átmeneti övezethez tartozik.", ro: "Pissila este o zonă de relief din partea central-estică a țării. Ea se înscrie în peisajul ușor ondulat specific regiunii.", en: "The Pissila relief is a gently shaped landscape in north-central Burkina Faso. It combines flat stretches with subtle rises in the ground." },
     facts: {
       de: ["Offene Landschaft", "Im Zentrum-Norden", "Trockenes Relief"],
@@ -330,7 +378,9 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-SO",
     coords: [0.23, 14.45],
-    name: { de: "Gorom-Gorom-Dünen", hu: "Gorom-Gorom-dűnék", ro: "Dunele Gorom-Gorom", en: "Gorom-Gorom Dunes" },
+    name: { de: "Gorom-Gorom-Dünen", hu: "Gorom-Gorom-dűnék", ro: "Dunele Gorom-Gorom", en: "Gorom-Gorom Dunes",
+image: "/poi-images/gorom-gorom-relief-v2.webp"
+},
     description: { de: "Das Relief um Gorom-Gorom ist von der trockenen Sahelzone geprägt. Sandige Flächen, flache Formen und weite Horizonte bestimmen das Bild.", hu: "Gorom-Gorom környéke a száraz északi táj egyik jellegzetes domborzati egysége. A síkabb felszínt kisebb magaslatok és szélformálta területek tagolják.", ro: "Gorom-Gorom este asociat unui relief arid și deschis din nordul Burkinei Faso. Zona este tipică pentru mediul sahelian.", en: "The Gorom-Gorom relief is a classic Sahel landscape of flat plains, sandy ground, and low features. It shows the dry character of far northern Burkina Faso." },
     facts: {
       de: ["Sahel-Relief", "Sandige Flächen", "Weite, flache Formen"],

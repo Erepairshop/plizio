@@ -4,7 +4,9 @@ export const icelandHistoryV2: POI[] = [
   {
     id: "iceland-thingvellir-history-v2",
     type: "ruins",
-    name: { de: "Þingvellir", hu: "Þingvellir", ro: "Þingvellir", en: "Þingvellir" },
+    name: { de: "Þingvellir", hu: "Þingvellir", ro: "Þingvellir", en: "Þingvellir",
+image: "/poi-images/iceland-thingvellir-history-v2.webp"
+},
     coords: [-21.1295, 64.2559],
     coordinates: { lat: 64.2559, lng: -21.1295 },
     description: {
@@ -19,11 +21,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Anul fondării parlamentului: 930", "Patrimoniu UNESCO din 2004", "Locul proclamării republicii în 1944", "Sediul adunării legislative medievale"],
       en: ["Year of parliament foundation: 930", "UNESCO World Heritage site since 2004", "Site of republic proclamation in 1944", "Seat of the legislative assembly"],
     },
-    imageHint: "Thingvellir national park assembly site Iceland", image: "/poi-images/iceland-thingvellir-history-v2.webp"},
-  {
+imageHint: "Thingvellir national park assembly site Iceland",
+    descriptionAdvanced: {
+      de: "Þingvellir ist der Ort, an dem 930 das Alþingi gegründet wurde, das älteste noch bestehende Parlament der Welt. Es liegt direkt an der geologischen Bruchzone.",
+      hu: "A Þingvellir Nemzeti Park az izlandi történelem legfontosabb helyszíne, ahol 930-ban megalapították az Alþingit, a világ egyik legrégebbi parlamenti gyűlését.",
+      ro: "Þingvellir este locul unde în anul 930 a fost fondat Alþingi, cel mai vechi parlament activ din lume, situat într-o vale de rift spectaculoasă din punct de vedere geologic.",
+      en: "Þingvellir is the historic site where the Alþingi parliament was established in 930 AD. It is a UNESCO World Heritage site located on the tectonic rift valley.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Alþingi im Jahr 930", "Annahme des Christentums um 1000", "Proklamation der Republik 1944", "UNESCO-Welterbe seit 2004"],
+      hu: ["Az Alþingi alapítása 930-ban", "A kereszténység felvétele 1000-ben", "A köztársaság kikiáltása 1944-ben", "UNESCO világörökségi helyszín"],
+      ro: ["Fondarea Alþingi în anul 930", "Adoptarea creștinismului în anul 1000", "Proclamarea republicii în 1944", "Sit UNESCO din anul 2004"],
+      en: ["Establishment of Alþingi in 930 AD", "Adoption of Christianity in 1000 AD", "Republic proclaimed here in 1944", "UNESCO World Heritage site since 2004"],
+    },
+    image: "/poi-images/iceland-thingvellir-history-v2.webp",
+},  {
     id: "iceland-skalholt-history-v2",
     type: "cathedral",
-    name: { de: "Skálholt", hu: "Skálholt", ro: "Skálholt", en: "Skálholt" },
+    name: { de: "Skálholt", hu: "Skálholt", ro: "Skálholt", en: "Skálholt",
+image: "/poi-images/iceland-skalholt-history-v2.webp"
+},
     coords: [-20.5255, 64.1261],
     coordinates: { lat: 64.1261, lng: -20.5255 },
     description: {
@@ -38,11 +55,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Scaun episcopal fondat în 1056", "Locul primei școli din țară", "Locul execuției ultimului episcop catolic", "Centru istoric de învățătură"],
       en: ["Bishopric founded in 1056", "Site of the country's first school", "Execution site of the last Catholic bishop", "Historical center of learning"],
     },
-    imageHint: "Skalholt cathedral historic site Iceland", image: "/poi-images/iceland-skalholt-history-v2.webp"},
-  {
+imageHint: "Skalholt cathedral historic site Iceland",
+    descriptionAdvanced: {
+      de: "Skálholt war über 700 Jahre lang das geistige und politische Zentrum Islands. Hier wurde 1056 der erste Bischofssitz des Landes durch Ísleifur Gissurarson errichtet.",
+      hu: "Skálholt több mint 700 éven át Izland vallási és kulturális központja volt. 1056-ban itt alapították meg az ország első püspökségét Ísleifur Gissurarson vezetésével.",
+      ro: "Skálholt a fost centrul religios și cultural al Islandei timp de peste 700 de ani. Aici a fost stabilit primul sediu episcopal în 1056 de către Ísleifur Gissurarson.",
+      en: "Skálholt served as Iceland's cultural and religious center for over seven centuries. It became the site of the country's first bishopric in 1056 AD.",
+    },
+    factsAdvanced: {
+      de: ["Erster Bischofssitz ab 1056", "Sitz von 44 Bischöfen bis 1785", "Hinrichtung von Jón Arason 1550", "Bau der heutigen Kathedrale 1963"],
+      hu: ["Első püspöki székhely 1056-tól", "44 püspök székhelye 1785-ig", "Jón Arason kivégzése 1550-ben", "A jelenlegi katedrális 1963-as"],
+      ro: ["Primul sediu episcopal din 1056", "Reședința a 44 de episcopi până în 1785", "Execuția lui Jón Arason în 1550", "Catedrala actuală construită în 1963"],
+      en: ["First bishopric founded in 1056", "Home to 44 bishops until 1785", "Execution of Jón Arason in 1550", "Current cathedral built in 1963"],
+    },
+    image: "/poi-images/iceland-skalholt-history-v2.webp",
+},  {
     id: "iceland-holar-history-v2",
     type: "cathedral",
-    name: { de: "Hólar í Hjaltadal", hu: "Hólar í Hjaltadal", ro: "Hólar í Hjaltadal", en: "Hólar í Hjaltadal" },
+    name: { de: "Hólar í Hjaltadal", hu: "Hólar í Hjaltadal", ro: "Hólar í Hjaltadal", en: "Hólar í Hjaltadal",
+image: "/poi-images/iceland-holar-history-v2.webp"
+},
     coords: [-19.1122, 65.7325],
     coordinates: { lat: 65.7325, lng: -19.1122 },
     description: {
@@ -57,11 +89,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Eparhie fondată în 1106", "Locul primei tipografii din Islanda", "Găzduiește o biserică de piatră din 1763", "Fost centru spiritual al nordului"],
       en: ["Bishopric founded in 1106", "Site of Iceland's first printing press", "Features a stone church from 1763", "Former spiritual center of the North"],
     },
-    imageHint: "Holar cathedral and university Iceland", image: "/poi-images/iceland-holar-history-v2.webp"},
-  {
+imageHint: "Holar cathedral and university Iceland",
+    descriptionAdvanced: {
+      de: "Hólar í Hjaltadal wurde 1106 als zweiter Bischofssitz Islands gegründet. Es entwickelte sich zum wichtigsten Bildungszentrum im Norden mit einer berühmten Druckerei.",
+      hu: "Hólar í Hjaltadal Izland második püspöki székhelye volt, amelyet 1106-ban alapítottak. Az északi országrész legfontosabb oktatási és kulturális központjává vált.",
+      ro: "Hólar í Hjaltadal a fost al doilea sediu episcopal al Islandei, fondat în 1106. A devenit centrul educațional și cultural major al regiunii de nord.",
+      en: "Hólar í Hjaltadal was established as Iceland's second bishopric in 1106. It became a vital educational hub for the north, hosting a famous printing press.",
+    },
+    factsAdvanced: {
+      de: ["Bischofssitz gegründet 1106", "Erste Druckerei Islands um 1530", "Guðbrandsbiblía Druck im Jahr 1584", "Hólar-Kathedrale aus rotem Sandstein"],
+      hu: ["Püspökség alapítása 1106-ban", "Első nyomda Izlandon 1530 körül", "Guðbrandur-biblia nyomtatása 1584-ben", "Vörös homokkőből épült székesegyház"],
+      ro: ["Sediu episcopal fondat în 1106", "Prima tiparniță din Islanda c. 1530", "Biblia lui Guðbrandur tipărită în 1584", "Catedrala din gresie roșie"],
+      en: ["Bishopric established in 1106", "First printing press in Iceland c. 1530", "Guðbrand's Bible printed in 1584", "Cathedral built from red sandstone"],
+    },
+    image: "/poi-images/iceland-holar-history-v2.webp",
+},  {
     id: "iceland-reykholt-history-v2",
     type: "landmark",
-    name: { de: "Reykholt", hu: "Reykholt", ro: "Reykholt", en: "Reykholt" },
+    name: { de: "Reykholt", hu: "Reykholt", ro: "Reykholt", en: "Reykholt",
+image: "/poi-images/iceland-reykholt-history-v2.webp"
+},
     coords: [-21.2889, 64.6644],
     coordinates: { lat: 64.6644, lng: -21.2889 },
     description: {
@@ -76,11 +123,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Casa lui Snorri Sturluson (1179–1241)", "Locul asasinării lui Snorri în 1241", "Include o baie termală medievală", "Centru important pentru literatura nordică veche"],
       en: ["Home of Snorri Sturluson (1179–1241)", "Site of Snorri's assassination in 1241", "Contains a medieval geothermal bath", "Important center for Old Norse literature"],
     },
-    imageHint: "Reykholt Snorri Sturluson historic site Iceland", image: "/poi-images/iceland-reykholt-history-v2.webp"},
-  {
+imageHint: "Reykholt Snorri Sturluson historic site Iceland",
+    descriptionAdvanced: {
+      de: "Reykholt war im 13. Jahrhundert die Heimat des Historikers Snorri Sturluson. Der Ort beherbergt das älteste erhaltene Thermalbad Islands, das Snorralaug.",
+      hu: "Reykholt a 13. században Snorri Sturluson, a híres történetíró otthona volt. Itt található Izland legrégebbi fennmaradt termálvizes medencéje, a Snorralaug.",
+      ro: "Reykholt a fost reședința istoricului Snorri Sturluson în secolul al XIII-lea. Situl găzduiește Snorralaug, cea mai veche piscină termală conservată din țară.",
+      en: "Reykholt was the 13th-century home of historian Snorri Sturluson. It features Snorralaug, the oldest preserved geothermal pool in Iceland, used by Snorri himself.",
+    },
+    factsAdvanced: {
+      de: ["Wohnsitz von Snorri Sturluson", "Snorralaug aus dem 13. Jahrhundert", "Ermordung Snorris im Jahr 1241", "Snorrastofa Forschungszentrum"],
+      hu: ["Snorri Sturluson lakóhelye", "13. századi Snorralaug medence", "Snorri meggyilkolása 1241-ben", "Snorrastofa kutatóközpont"],
+      ro: ["Reședința lui Snorri Sturluson", "Piscina Snorralaug din secolul XIII", "Uciderea lui Snorri în 1241", "Centrul de cercetare Snorrastofa"],
+      en: ["Home of Snorri Sturluson", "13th-century Snorralaug pool", "Snorri's assassination in 1241", "Snorrastofa research center"],
+    },
+    image: "/poi-images/iceland-reykholt-history-v2.webp",
+},  {
     id: "iceland-bessastadir-history-v2",
     type: "palace",
-    name: { de: "Bessastaðir", hu: "Bessastaðir", ro: "Bessastaðir", en: "Bessastaðir" },
+    name: { de: "Bessastaðir", hu: "Bessastaðir", ro: "Bessastaðir", en: "Bessastaðir",
+image: "/poi-images/iceland-bessastadir-history-v2.webp"
+},
     coords: [-22.0108, 64.1061],
     coordinates: { lat: 64.1061, lng: -22.0108 },
     description: {
@@ -95,11 +157,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Fosta proprietate a lui Snorri Sturluson", "Sediul guvernatorului danez din 1613", "Reședință oficială din 1941", "Biserica sitului datează din 1796"],
       en: ["Former property of Snorri Sturluson", "Seat of the Danish governor from 1613", "Official residence since 1941", "Church on site dates from 1796"],
     },
-    imageHint: "Bessastadir presidential residence Iceland", image: "/poi-images/iceland-bessastadir-history-v2.webp"},
-  {
+imageHint: "Bessastadir presidential residence Iceland",
+    descriptionAdvanced: {
+      de: "Bessastaðir ist der offizielle Amtssitz des isländischen Präsidenten. Das geschichtsträchtige Anwesen diente früher als Residenz für dänische Gouverneure.",
+      hu: "Bessastaðir az izlandi köztársasági elnök hivatalos rezidenciája. A történelmi birtok korábban a dán kormányzók és tisztviselők székhelyeként szolgált.",
+      ro: "Bessastaðir este reședința oficială a președintelui Islandei. Această proprietate istorică a servit anterior ca sediu pentru guvernatorii danezi.",
+      en: "Bessastaðir is the official residence of the President of Iceland. This historic estate previously served as a seat for Danish governors and officials.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Präsidenten seit 1941", "Einstiges Eigentum Snorri Sturlusons", "Steingebäude errichtet 1761–1766", "Bessastaðakirkja geweiht 1796"],
+      hu: ["Elnöki rezidencia 1941 óta", "Egykor Snorri Sturluson tulajdona", "Kőépület épült 1761–1766 között", "Bessastaðakirkja felszentelése 1796"],
+      ro: ["Reședință prezidențială din 1941", "Fostă proprietate a lui Snorri Sturluson", "Clădire din piatră construită 1761–1766", "Biserica sfințită în 1796"],
+      en: ["Presidential residence since 1941", "Once owned by Snorri Sturluson", "Stone building built 1761–1766", "Church consecrated in 1796"],
+    },
+    image: "/poi-images/iceland-bessastadir-history-v2.webp",
+},  {
     id: "iceland-eiriksstadir-history-v2",
     type: "ruins",
-    name: { de: "Eiríksstaðir", hu: "Eiríksstaðir", ro: "Eiríksstaðir", en: "Eiríksstaðir" },
+    name: { de: "Eiríksstaðir", hu: "Eiríksstaðir", ro: "Eiríksstaðir", en: "Eiríksstaðir",
+image: "/poi-images/iceland-eiriksstadir-history-v2.webp"
+},
     coords: [-21.5369, 65.1211],
     coordinates: { lat: 65.1211, lng: -21.5369 },
     description: {
@@ -114,11 +191,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Reședința lui Erik cel Roșu în jurul anului 980", "Locul de naștere al lui Leif Erikson", "Casă lungă reconstruită din brazde de iarbă", "Săpăturile arheologice au început în 1938"],
       en: ["Residence of Erik the Red around 980", "Birthplace of Leif Erikson", "Reconstructed turf longhouse on site", "Archaeological excavations began in 1938"],
     },
-    imageHint: "Eiriksstadir viking longhouse reconstruction Iceland", image: "/poi-images/iceland-eiriksstadir-history-v2.webp"},
-  {
+imageHint: "Eiriksstadir viking longhouse reconstruction Iceland",
+    descriptionAdvanced: {
+      de: "Eiríksstaðir war der Hof von Erik dem Roten und der Geburtsort von Leif Eriksson. Heute zeigt ein rekonstruiertes Langhaus das Leben der Wikingerzeit.",
+      hu: "Eiríksstaðir Vörös Erik tanyája és Leif Eriksson szülőhelye volt. A helyszínen ma egy rekonstruált hosszúház mutatja be a viking kori életmódot.",
+      ro: "Eiríksstaðir a fost ferma lui Erik cel Roșu și locul de naștere al lui Leif Erikson. O casă lungă reconstruită ilustrează astăzi viața din epoca vikingă.",
+      en: "Eiríksstaðir was the home of Erik the Red and the birthplace of Leif Erikson. A reconstructed turf longhouse now stands near the original archaeological ruins.",
+    },
+    factsAdvanced: {
+      de: ["Wohnsitz von Erik dem Roten", "Geburtsort von Leif Eriksson", "Rekonstruiertes Langhaus (2000)", "Archäologische Ausgrabung 1997"],
+      hu: ["Vörös Erik lakóhelye", "Leif Eriksson szülőhelye", "Rekonstruált hosszúház (2000)", "Régészeti feltárások 1997-ben"],
+      ro: ["Ferma lui Erik cel Roșu", "Locul de naștere al lui Leif Erikson", "Casă lungă reconstruită în 2000", "Săpături arheologice în 1997"],
+      en: ["Home of Erik the Red", "Birthplace of Leif Erikson", "Reconstructed longhouse (2000)", "Archaeological excavations in 1997"],
+    },
+    image: "/poi-images/iceland-eiriksstadir-history-v2.webp",
+},  {
     id: "iceland-videy-island-history-v2",
     type: "landmark",
-    name: { de: "Viðey", hu: "Viðey", ro: "Viðey", en: "Viðey Island" },
+    name: { de: "Viðey", hu: "Viðey", ro: "Viðey", en: "Viðey Island",
+image: "/poi-images/iceland-videy-island-history-v2.webp"
+},
     coords: [-21.8542, 64.1642],
     coordinates: { lat: 64.1642, lng: -21.8542 },
     description: {
@@ -133,11 +225,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire augustiniană fondată în 1226", "Viðeyjarstofa construită în 1755", "Fost centru administrativ al Islandei", "Găzduiește cea mai veche biserică din 1774"],
       en: ["Augustinian monastery founded in 1226", "Viðeyjarstofa built in 1755", "Former administrative center of Iceland", "Houses the oldest church from 1774"],
     },
-    imageHint: "Videy Island historic house Reykjavik", image: "/poi-images/iceland-videy-island-history-v2.webp"},
-  {
+imageHint: "Videy Island historic house Reykjavik",
+    descriptionAdvanced: {
+      de: "Die Insel Viðey beherbergte im 13. Jahrhundert eines der reichsten Klöster Islands. Später wurde hier das erste Steingebäude des Landes, Viðeyjarstofa, errichtet.",
+      hu: "Viðey-sziget a 13. században az egyik leggazdagabb izlandi kolostornak adott otthont. Később itt épült fel az ország első kőépülete, a Viðeyjarstofa.",
+      ro: "Insula Viðey a găzduit una dintre cele mai bogate mănăstiri din secolul al XIII-lea. Mai târziu, aici a fost construită prima clădire din piatră, Viðeyjarstofa.",
+      en: "Viðey Island hosted one of Iceland's wealthiest monasteries in the 13th century. It is also home to Viðeyjarstofa, the country's first stone building.",
+    },
+    factsAdvanced: {
+      de: ["Klostergründung im Jahr 1226", "Viðeyjarstofa erbaut 1755", "Älteste Kirche Reykjavíks (1774)", "Standort des Imagine Peace Tower"],
+      hu: ["Kolostor alapítása 1226-ban", "Viðeyjarstofa épült 1755-ben", "Reykjavík legrégebbi temploma (1774)", "Az Imagine Peace Tower helyszíne"],
+      ro: ["Mănăstire fondată în 1226", "Viðeyjarstofa construită în 1755", "Cea mai veche biserică din Reykjavik", "Locația Imagine Peace Tower"],
+      en: ["Monastery founded in 1226", "Viðeyjarstofa built in 1755", "Oldest church in Reykjavik (1774)", "Site of the Imagine Peace Tower"],
+    },
+    image: "/poi-images/iceland-videy-island-history-v2.webp",
+},  {
     id: "iceland-keldur-history-v2",
     type: "monument",
-    name: { de: "Keldur", hu: "Keldur", ro: "Keldur", en: "Keldur" },
+    name: { de: "Keldur", hu: "Keldur", ro: "Keldur", en: "Keldur",
+image: "/poi-images/iceland-keldur-history-v2.webp"
+},
     coords: [-20.2372, 63.8217],
     coordinates: { lat: 63.8217, lng: -20.2372 },
     description: {
@@ -152,11 +259,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Cea mai veche fermă de gazon din țară", "Conține un tunel lung de 25 de metri", "Fosta reședință a unor căpetenii puternice", "Părți datează din secolul al XI-lea"],
       en: ["Oldest turf farm in the country", "Contains a 25-meter long tunnel", "Former residence of powerful chieftains", "Parts date back to the 11th century"],
     },
-    imageHint: "Keldur turf farm South Iceland", image: "/poi-images/iceland-keldur-history-v2.webp"},
-  {
+imageHint: "Keldur turf farm South Iceland",
+    descriptionAdvanced: {
+      de: "Keldur ist einer der ältesten erhaltenen Torfhöfe Islands und wird in der Njáls-Saga erwähnt. Die Anlage umfasst ein seltenes mittelalterliches Tunnelsystem.",
+      hu: "Keldur az egyik legrégebbi fennmaradt tőzegtanya Izlandon, amely a Njál-sagában is szerepel. A birtok egy ritka, középkori alagútrendszert is magában foglal.",
+      ro: "Keldur este una dintre cele mai vechi ferme de turbă conservate, menționată în Saga lui Njál. Situl include un rar sistem de tuneluri medievale.",
+      en: "Keldur is one of Iceland's oldest preserved turf farms, mentioned in the Njáls Saga. It features a unique and rare medieval underground escape tunnel.",
+    },
+    factsAdvanced: {
+      de: ["Ältester Torfhof des Landes", "Mittelalterlicher Fluchttunnel", "Erwähnung in der Njáls-Saga", "Besitz der mächtigen Oddaverjar"],
+      hu: ["Az ország legrégebbi tőzegtanyája", "Középkori menekülő alagút", "Említés a Njál-sagában", "A hatalmas Oddaverjar családé volt"],
+      ro: ["Cea mai veche fermă de turbă", "Tunel de evacuare medieval", "Menționată în Saga lui Njál", "Proprietatea clanului Oddaverjar"],
+      en: ["Oldest turf farm in Iceland", "Medieval escape tunnel", "Mentioned in the Njáls Saga", "Owned by the powerful Oddaverjar"],
+    },
+    image: "/poi-images/iceland-keldur-history-v2.webp",
+},  {
     id: "iceland-laufas-history-v2",
     type: "museum",
-    name: { de: "Laufás", hu: "Laufás", ro: "Laufás", en: "Laufás" },
+    name: { de: "Laufás", hu: "Laufás", ro: "Laufás", en: "Laufás",
+image: "/poi-images/iceland-laufas-history-v2.webp"
+},
     coords: [-18.0708, 65.8942],
     coordinates: { lat: 65.8942, lng: -18.0708 },
     description: {
@@ -171,11 +293,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Menționată pentru prima dată în 874", "Clădirile actuale datează din 1866", "Găzduia până la 30 de persoane", "Deține o biserică din anul 1865"],
       en: ["First mentioned in the year 874", "Current buildings date from 1866", "Housed up to 30 people", "Has a church built in 1865"],
     },
-    imageHint: "Laufas turf farm Akureyri Iceland", image: "/poi-images/iceland-laufas-history-v2.webp"},
-  {
+imageHint: "Laufas turf farm Akureyri Iceland",
+    descriptionAdvanced: {
+      de: "Der Torfhof Laufás bei Akureyri ist ein klassisches Beispiel für ein herrschaftliches Gehöft. Die heutige Bausubstanz stammt größtenteils aus dem 19. Jahrhundert.",
+      hu: "Az Akureyri melletti Laufás tőzegtanya a nagybirtokosi építészet klasszikus példája. A mai épületek nagy része a 19. század közepéről származik.",
+      ro: "Ferma de turbă Laufás de lângă Akureyri este un exemplu clasic de reședință nobiliară. Majoritatea structurilor actuale datează din secolul al XIX-lea.",
+      en: "Laufás is a grand turf farmhouse near Akureyri, representing a wealthy manor. Most of the current buildings were constructed in the mid-19th century.",
+    },
+    factsAdvanced: {
+      de: ["Erwähnung seit der Besiedlung", "Wohnraum für 20–30 Personen", "Kirche erbaut im Jahr 1865", "Teil des Nationalmuseums"],
+      hu: ["A honfoglalás óta lakott hely", "20–30 embernek adott otthont", "A templom 1865-ben épült", "A Nemzeti Múzeum része"],
+      ro: ["Locuit încă din epoca colonizării", "Găzduia între 20 și 30 de persoane", "Biserica construită în 1865", "Parte a Muzeului Național"],
+      en: ["Inhabited since the Settlement", "Housed 20–30 people at its peak", "Church built in 1865", "Part of the National Museum"],
+    },
+    image: "/poi-images/iceland-laufas-history-v2.webp",
+},  {
     id: "iceland-glaumbaer-history-v2",
     type: "museum",
-    name: { de: "Glaumbær", hu: "Glaumbær", ro: "Glaumbær", en: "Glaumbær" },
+    name: { de: "Glaumbær", hu: "Glaumbær", ro: "Glaumbær", en: "Glaumbær",
+image: "/poi-images/iceland-glaumbaer-history-v2.webp"
+},
     coords: [-19.5042, 65.6111],
     coordinates: { lat: 65.6111, lng: -19.5042 },
     description: {
@@ -190,11 +327,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Locul unei biserici încă de la creștinizare", "Ferma actuală datează din secolul XVIII", "Locul de reședință al lui Snorri Þorfinnsson", "Unul dintre cele mai bune exemple de construcție din turbă"],
       en: ["Site of a church since Christianization", "Current farm dates from the 18th century", "Residence of Snorri Þorfinnsson", "One of the best examples of turf building"],
     },
-    imageHint: "Glaumbaer turf farm museum Iceland", image: "/poi-images/iceland-glaumbaer-history-v2.webp"},
-  {
+imageHint: "Glaumbaer turf farm museum Iceland",
+    descriptionAdvanced: {
+      de: "Glaumbær ist ein weitläufiger Torfhof, der Einblicke in das bäuerliche Leben früherer Jahrhunderte bietet. Hier lebten Snorri Þorfinnsson und seine Familie.",
+      hu: "Glaumbær egy kiterjedt tőzegtanya, amely bepillantást enged az elmúlt évszázadok vidéki életébe. Itt élt családjával Snorri Þorfinnsson, az első Amerikában született európai.",
+      ro: "Glaumbær este o fermă de turbă extinsă care oferă o perspectivă asupra vieții rurale din secolele trecute. Aici a locuit Snorri Þorfinnsson și familia sa.",
+      en: "Glaumbær is an extensive turf farm showcasing rural Icelandic life. It was once the home of Snorri Þorfinnsson, the first European born in North America.",
+    },
+    factsAdvanced: {
+      de: ["Torfhof aus dem 18. Jahrhundert", "Wohnsitz von Snorri Þorfinnsson", "13 einzelne Torfgebäude", "Skagafjörður Heimatmuseum"],
+      hu: ["18. századi tőzegépületek", "Snorri Þorfinnsson lakóhelye", "13 különálló tőzegház", "Skagafjörður tájmúzeuma"],
+      ro: ["Clădiri de turbă din secolul XVIII", "Reședința lui Snorri Þorfinnsson", "13 clădiri individuale din turbă", "Muzeul regional Skagafjörður"],
+      en: ["Turf buildings from the 18th century", "Home of Snorri Þorfinnsson", "Composed of 13 separate units", "Skagafjörður Heritage Museum"],
+    },
+    image: "/poi-images/iceland-glaumbaer-history-v2.webp",
+},  {
     id: "iceland-vidimyrarkirkja-history-v2",
     type: "church",
-    name: { de: "Víðimýrarkirkja", hu: "Víðimýrarkirkja", ro: "Víðimýrarkirkja", en: "Víðimýrarkirkja" },
+    name: { de: "Víðimýrarkirkja", hu: "Víðimýrarkirkja", ro: "Víðimýrarkirkja", en: "Víðimýrarkirkja",
+image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp"
+},
     coords: [-19.4703, 65.5392],
     coordinates: { lat: 65.5392, lng: -19.4703 },
     description: {
@@ -209,11 +361,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Construită în anul 1834", "Folosește lemn plutitor pentru interior", "Gazonul este integrat în pereții bisericii", "Declarată monument istoric în 1936"],
       en: ["Built in the year 1834", "Uses driftwood for the interior", "Turf is built into the church walls", "Placed under national protection in 1936"],
     },
-    imageHint: "Vidimyrarkirkja turf church Iceland", image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp"},
-  {
+imageHint: "Vidimyrarkirkja turf church Iceland",
+    descriptionAdvanced: {
+      de: "Víðimýrarkirkja gilt als eine der schönsten Torfkirchen Islands. Sie wurde 1834 erbaut und zeigt die meisterhafte Verwendung lokaler Baumaterialien wie Torf und Treibholz.",
+      hu: "A Víðimýrarkirkja Izland egyik legszebb tőzegtemploma. 1834-ben épült, és kiválóan szemlélteti a helyi anyagok, mint a tőzeg és az uszadékfa mesteri felhasználását.",
+      ro: "Víðimýrarkirkja este considerată una dintre cele mai frumoase biserici de turbă. Construită în 1834, exemplifică utilizarea magistrală a turbei și a lemnului plutitor.",
+      en: "Víðimýrarkirkja is widely considered one of Iceland's most beautiful turf churches. Built in 1834, it features masterfully crafted turf and driftwood structures.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1834", "Material: Torf und Treibholz", "Teil des Nationalmuseums", "Eine von 6 erhaltenen Torfkirchen"],
+      hu: ["1834-ben épült", "Anyaga tőzeg és uszadékfa", "A Nemzeti Múzeum tulajdona", "A 6 fennmaradt tőzegtemplom egyike"],
+      ro: ["Construită în anul 1834", "Materiale: turbă și lemn plutitor", "Parte a Muzeului Național", "Una dintre cele 6 biserici de turbă"],
+      en: ["Built in 1834", "Made of turf and driftwood", "Part of the National Museum", "One of 6 remaining turf churches"],
+    },
+    image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp",
+},  {
     id: "iceland-thingeyrar-history-v2",
     type: "church",
-    name: { de: "Þingeyrar", hu: "Þingeyrar", ro: "Þingeyrar", en: "Þingeyrar" },
+    name: { de: "Þingeyrar", hu: "Þingeyrar", ro: "Þingeyrar", en: "Þingeyrar",
+image: "/poi-images/iceland-thingeyrar-history-v2.webp"
+},
     coords: [-20.3258, 65.5544],
     coordinates: { lat: 65.5544, lng: -20.3258 },
     description: {
@@ -228,11 +395,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Prima mănăstire fondată în 1133", "Biserică de piatră semnificativă din 1877", "Loc de adunări în Evul Mediu", "Centru al învățăturii și al sagăi"],
       en: ["First monastery founded in 1133", "Significant stone church from 1877", "Site for assemblies in the Middle Ages", "Center of scholarship and sagas"],
     },
-    imageHint: "Thingeyrar stone church Iceland", image: "/poi-images/iceland-thingeyrar-history-v2.webp"},
-  {
+imageHint: "Thingeyrar stone church Iceland",
+    descriptionAdvanced: {
+      de: "In Þingeyrar wurde 1133 das erste Kloster Islands gegründet. Der Ort war im Mittelalter ein bedeutendes Zentrum für die Niederschrift isländischer Sagas.",
+      hu: "Þingeyrarban alapították meg 1133-ban Izland első kolostorát. A helyszín a középkorban a sagák lejegyzésének egyik legfontosabb központja volt.",
+      ro: "La Þingeyrar a fost fondată prima mănăstire din Islanda în 1133. În Evul Mediu, a fost un centru major pentru scrierea sagălor islandeze.",
+      en: "Þingeyrar was the site of Iceland's first monastery, founded in 1133. It became a crucial center for literary production and saga writing in the Middle Ages.",
+    },
+    factsAdvanced: {
+      de: ["Erstes Kloster (gegr. 1133)", "Sitz berühmter Saga-Schreiber", "Steinkirche fertiggestellt 1877", "Standort historischer Parlamente"],
+      hu: ["Első kolostor (alapítva 1133)", "Híres saga-írók központja", "A kőtemplom 1877-ben készült el", "Történelmi gyűlések helyszíne"],
+      ro: ["Prima mănăstire (fondată 1133)", "Centru de scriere a sagălor", "Biserica de piatră finalizată în 1877", "Locul unor adunări istorice"],
+      en: ["First monastery (founded 1133)", "Center for saga composition", "Stone church completed in 1877", "Site of ancient regional assemblies"],
+    },
+    image: "/poi-images/iceland-thingeyrar-history-v2.webp",
+},  {
     id: "iceland-munkathvera-history-v2",
     type: "ruins",
-    name: { de: "Munkaþverá", hu: "Munkaþverá", ro: "Munkaþverá", en: "Munkaþverá" },
+    name: { de: "Munkaþverá", hu: "Munkaþverá", ro: "Munkaþverá", en: "Munkaþverá",
+image: "/poi-images/iceland-munkathvera-history-v2.webp"
+},
     coords: [-18.0931, 65.5658],
     coordinates: { lat: 65.5658, lng: -18.0931 },
     description: {
@@ -247,11 +429,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire benedictină fondată în 1155", "Locul de înmormântare al unor eroi din saga", "Găzduiește o biserică din 1844", "Loc spiritual semnificativ în nord"],
       en: ["Benedictine monastery founded in 1155", "Burial site of powerful saga heroes", "Features a church built in 1844", "Significant spiritual site of the North"],
     },
-    imageHint: "Munkathvera church and historic site Iceland", image: "/poi-images/iceland-munkathvera-history-v2.webp"},
-  {
+imageHint: "Munkathvera church and historic site Iceland",
+    descriptionAdvanced: {
+      de: "Munkaþverá war ein bedeutendes Benediktinerkloster, das 1155 gegründet wurde. Es ist eng mit der Geschichte der mächtigen Sturlungar-Familie verbunden.",
+      hu: "Munkaþverá egy jelentős bencés kolostor volt, amelyet 1155-ben alapítottak. Szoros szálak fűzik a hatalmas Sturlungar család történetéhez.",
+      ro: "Munkaþverá a fost o mănăstire benedictină importantă, fondată în 1155. Este strâns legată de istoria puternicului clan Sturlungar.",
+      en: "Munkaþverá was a prominent Benedictine monastery established in 1155. It holds a significant place in the history of the powerful Sturlungar clan.",
+    },
+    factsAdvanced: {
+      de: ["Benediktinerkloster seit 1155", "Ruhestätte von Sighvatur Sturluson", "Sitz bedeutender Gelehrter", "Kirche erbaut im Jahr 1844"],
+      hu: ["Bencés kolostor 1155-től", "Sighvatur Sturluson nyughelye", "Fontos tudományos központ", "A templom 1844-ben épült"],
+      ro: ["Mănăstire benedictină din 1155", "Locul de odihnă al lui Sighvatur Sturluson", "Centru de erudiție medievală", "Biserica construită în 1844"],
+      en: ["Benedictine monastery since 1155", "Burial place of Sighvatur Sturluson", "Medieval center of learning", "Church built in 1844"],
+    },
+    image: "/poi-images/iceland-munkathvera-history-v2.webp",
+},  {
     id: "iceland-stong-history-v2",
     type: "ruins",
-    name: { de: "Stöng", hu: "Stöng", ro: "Stöng", en: "Stöng" },
+    name: { de: "Stöng", hu: "Stöng", ro: "Stöng", en: "Stöng",
+image: "/poi-images/iceland-stong-history-v2.webp"
+},
     coords: [-19.7514, 64.1522],
     coordinates: { lat: 64.1522, lng: -19.7514 },
     description: {
@@ -266,11 +463,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Distrusă de Hekla în anul 1104", "Excavată în anul 1939", "Model pentru reconstrucții moderne", "Cunoscută sub numele de 'Pompeii islandez'"],
       en: ["Destroyed by Hekla in 1104", "Excavated in the year 1939", "Basis for modern reconstructions", "Known as the 'Icelandic Pompeii'"],
     },
-    imageHint: "Stong viking farm ruins Iceland", image: "/poi-images/iceland-stong-history-v2.webp"},
-  {
+imageHint: "Stong viking farm ruins Iceland",
+    descriptionAdvanced: {
+      de: "Stöng ist ein Wikingerhof, der 1104 beim Ausbruch des Vulkans Hekla unter Asche begraben wurde. Er bietet exzellente archäologische Einblicke in die Siedlungszeit.",
+      hu: "Stöng egy viking kori tanya, amelyet 1104-ben temetett el a Hekla kitöréséből származó hamu. Kiváló bepillantást nyújt a honfoglalás kori életbe.",
+      ro: "Stöng este o fermă vikingă care a fost îngropată sub cenușă în timpul erupției vulcanului Hekla din 1104. Oferă dovezi arheologice excepționale.",
+      en: "Stöng is a Viking-era farmstead buried by volcanic ash during the 1104 Hekla eruption. It provides a remarkably preserved look at early settlement life.",
+    },
+    factsAdvanced: {
+      de: ["Begraben durch Hekla-Ausbruch 1104", "Ausgrabung im Jahr 1939", "Basis für Rekonstruktion Þjóðveldisbær", "Langhaus-Grundriss 17 Meter"],
+      hu: ["1104-es Hekla-kitörés temette be", "Feltárás 1939-ben", "A Þjóðveldisbær rekonstrukció alapja", "17 méter hosszú hosszúház"],
+      ro: ["Îngropată de erupția Hekla (1104)", "Excavată în anul 1939", "Baza pentru reconstrucția Þjóðveldisbær", "Casă lungă de 17 metri"],
+      en: ["Buried by Hekla eruption in 1104", "Excavated in 1939", "Basis for Þjóðveldisbær reconstruction", "Longhouse floor plan: 17 meters"],
+    },
+    image: "/poi-images/iceland-stong-history-v2.webp",
+},  {
     id: "iceland-kirkjubaejarklaustur-history-v2",
     type: "ruins",
-    name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur" },
+    name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur",
+image: "/poi-images/iceland-kirkjubaejarklaustur-history-v2.webp"
+},
     coords: [-18.0617, 63.7872],
     coordinates: { lat: 63.7872, lng: -18.0617 },
     description: {
@@ -285,11 +497,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire de călugărițe fondată în 1186", "Locul celebrei 'predici de foc' din 1783", "Mănăstirea a funcționat până în 1550", "Găzduiește câmpul de bazalt Kirkjugólf"],
       en: ["Nunnery founded in 1186", "Site of the famous 'Fire Sermon' in 1783", "Monastery lasted until 1550", "Houses the Kirkjugólf basalt pavement"],
     },
-    imageHint: "Kirkjubaejarklaustur historic site Iceland", image: "/poi-images/iceland-kirkjubaejarklaustur-history-v2.webp"},
-  {
+imageHint: "Kirkjubaejarklaustur historic site Iceland",
+    descriptionAdvanced: {
+      de: "Kirkjubæjarklaustur war Standort eines bedeutenden Nonnenklosters des Benediktinerordens, das 1186 gegründet wurde. Es ist berühmt für die 'Feuerpredigt' von 1783.",
+      hu: "Kirkjubæjarklausturban 1186-ban alapítottak bencés apácakolostort. A település híres az 1783-as Laki-kitörés idején tartott „tűzbeszédről”.",
+      ro: "Kirkjubæjarklaustur a găzduit o mănăstire de călugărițe benedictine, fondată în 1186. Este faimos pentru „predica de foc” din timpul erupției Laki.",
+      en: "Kirkjubæjarklaustur was the site of a Benedictine nunnery founded in 1186. It is famous for the 1783 'Fire Sermon' held during the Laki eruption.",
+    },
+    factsAdvanced: {
+      de: ["Benediktinerinnenkloster (1186)", "Laki-Ausbruch im Jahr 1783", "Standort der Kirkjugólf-Basaltsäulen", "Sitz des Pastors Jón Steingrímsson"],
+      hu: ["Bencés apácakolostor (1186)", "Laki-kitörés 1783-ban", "A Kirkjugólf bazaltpadló helyszíne", "Jón Steingrímsson lelkész székhelye"],
+      ro: ["Mănăstire de călugărițe (1186)", "Erupția Laki din 1783", "Locația coloanelor Kirkjugólf", "Reședința preotului Jón Steingrímsson"],
+      en: ["Benedictine nunnery (1186)", "Laki eruption in 1783", "Site of Kirkjugólf basalt pavement", "Home of pastor Jón Steingrímsson"],
+    },
+    image: "/poi-images/iceland-kirkjubaejarklaustur-history-v2.webp",
+},  {
     id: "iceland-oddi-history-v2",
     type: "landmark",
-    name: { de: "Oddi", hu: "Oddi", ro: "Oddi", en: "Oddi" },
+    name: { de: "Oddi", hu: "Oddi", ro: "Oddi", en: "Oddi",
+image: "/poi-images/iceland-oddi-history-v2.webp"
+},
     coords: [-20.4144, 63.7719],
     coordinates: { lat: 63.7719, lng: -20.4144 },
     description: {
@@ -304,11 +531,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Centru important de învățătură", "Sediul clanului Oddaverjar", "Locul educației lui Snorri Sturluson", "Locul unei biserici încă din 1100"],
       en: ["Major center of scholarship", "Seat of the Oddaverjar clan", "Upbringing of Snorri Sturluson", "Site of a church since 1100"],
     },
-    imageHint: "Oddi church Rangárvallasýsla Iceland", image: "/poi-images/iceland-oddi-history-v2.webp"},
-  {
+imageHint: "Oddi church Rangárvallasýsla Iceland",
+    descriptionAdvanced: {
+      de: "Oddi war eines der wichtigsten kulturellen und machtpolitischen Zentren des mittelalterlichen Islands. Es war der Stammsitz des einflussreichen Oddaverjar-Clans.",
+      hu: "Oddi a középkori Izland egyik legfontosabb kulturális és politikai központja volt. Itt volt a befolyásos Oddaverjar-klán ősi székhelye.",
+      ro: "Oddi a fost unul dintre cele mai importante centre culturale și politice ale Islandei medievale. A fost sediul influentului clan Oddaverjar.",
+      en: "Oddi was a major cultural and political power center in medieval Iceland. It served as the ancestral seat of the influential Oddaverjar clan.",
+    },
+    factsAdvanced: {
+      de: ["Heimat von Sæmundur fróði", "Bildungsstätte von Snorri Sturluson", "Sitz des Oddaverjar-Clans", "Bedeutendes Gelehrtenzentrum"],
+      hu: ["Sæmundur fróði otthona", "Snorri Sturluson neveltetési helye", "Az Oddaverjar-klán székhelye", "Fontos tudományos központ"],
+      ro: ["Casa lui Sæmundur fróði", "Locul educației lui Snorri Sturluson", "Sediul clanului Oddaverjar", "Centru medieval de erudiție"],
+      en: ["Home of Sæmundur the Learned", "Place of Snorri Sturluson's education", "Seat of the Oddaverjar clan", "Important medieval learning center"],
+    },
+    image: "/poi-images/iceland-oddi-history-v2.webp",
+},  {
     id: "iceland-helgafell-history-v2",
     type: "landmark",
-    name: { de: "Helgafell", hu: "Helgafell", ro: "Helgafell", en: "Helgafell" },
+    name: { de: "Helgafell", hu: "Helgafell", ro: "Helgafell", en: "Helgafell",
+image: "/poi-images/iceland-helgafell-history-v2.webp"
+},
     coords: [-22.7275, 65.0425],
     coordinates: { lat: 65.0425, lng: -22.7275 },
     description: {
@@ -323,11 +565,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire fondată în 1184", "Locul de înmormântare al lui Guðrún Ósvífursdóttir", "Cadru frecvent în Saga Laxdæla", "Credința în îndeplinirea dorințelor pe vârf"],
       en: ["Monastery founded in 1184", "Burial place of Guðrún Ósvífursdóttir", "Frequent setting in Laxdæla Saga", "Belief in wish fulfillment at the summit"],
     },
-    imageHint: "Helgafell mountain and church Snaefellsnes", image: "/poi-images/iceland-helgafell-history-v2.webp"},
-  {
+imageHint: "Helgafell mountain and church Snaefellsnes",
+    descriptionAdvanced: {
+      de: "Helgafell ist ein geschichtsträchtiger Berg auf Snæfellsnes, der bereits in der Wikingerzeit als heilig galt. Hier befand sich später ein bedeutendes Augustinerkloster.",
+      hu: "Helgafell egy történelmi hegy a Snæfellsnes-félszigeten, amelyet már a viking korban is szentként tiszteltek. Később jelentős Ágoston-rendi kolostor állt itt.",
+      ro: "Helgafell este un munte istoric din Snæfellsnes, considerat sacru încă din epoca vikingă. Mai târziu, a găzduit o mănăstire augustiniană importantă.",
+      en: "Helgafell is a historic mountain in Snæfellsnes, revered as sacred since Viking times. It later became the site of a significant Augustinian monastery.",
+    },
+    factsAdvanced: {
+      de: ["Heiliger Berg der Siedler", "Kloster verlegt im Jahr 1184", "Ruhestätte von Guðrún Ósvífursdóttir", "Drei Wünsche bei der Erstbesteigung"],
+      hu: ["A honfoglalók szent hegye", "Kolostor ide költözött 1184-ben", "Guðrún Ósvífursdóttir nyughelye", "Három kívánság az első mászáskor"],
+      ro: ["Munte sacru al coloniștilor", "Mănăstire mutată aici în 1184", "Locul de odihnă al lui Guðrún Ósvífursdóttir", "Trei dorințe la prima urcare"],
+      en: ["Sacred mountain of early settlers", "Monastery moved here in 1184", "Burial place of Guðrún Ósvífursdóttir", "Tradition of three wishes on first ascent"],
+    },
+    image: "/poi-images/iceland-helgafell-history-v2.webp",
+},  {
     id: "iceland-hofstadir-history-v2",
     type: "ruins",
-    name: { de: "Hofstaðir", hu: "Hofstaðir", ro: "Hofstaðir", en: "Hofstaðir" },
+    name: { de: "Hofstaðir", hu: "Hofstaðir", ro: "Hofstaðir", en: "Hofstaðir",
+image: "/poi-images/iceland-hofstadir-history-v2.webp"
+},
     coords: [-17.1583, 65.6125],
     coordinates: { lat: 65.6125, lng: -17.1583 },
     description: {
@@ -342,11 +599,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Rămășițele unei case lungi de 42 m", "Centru pentru sacrificii ritualice", "Datat în secolul al X-lea", "Important pentru cercetarea păgânismului"],
       en: ["Remains of a 42m long longhouse", "Center for ritual sacrifices", "Dates back to the 10th century", "Important for paganism research"],
     },
-    imageHint: "Hofstadir archaeological site Myvatn Iceland", image: "/poi-images/iceland-hofstadir-history-v2.webp"},
-  {
+imageHint: "Hofstadir archaeological site Myvatn Iceland",
+    descriptionAdvanced: {
+      de: "Hofstaðir ist bekannt für die Überreste eines der größten wikingerzeitlichen Langhäuser Islands. Es war ein bedeutender Ort für religiöse Rituale und soziale Treffen.",
+      hu: "Hofstaðir Izland egyik legnagyobb viking kori hosszúházának maradványairól ismert. A helyszín fontos vallási rituálék és közösségi gyűlések színhelye volt.",
+      ro: "Hofstaðir este cunoscut pentru rămășițele uneia dintre cele mai mari case lungi din epoca vikingă. A fost un loc major pentru ritualuri și întâlniri sociale.",
+      en: "Hofstaðir is renowned for the remains of one of Iceland's largest Viking-age longhouses. It served as a major site for religious rituals and social gatherings.",
+    },
+    factsAdvanced: {
+      de: ["Langhaus-Länge: über 40 Meter", "Große rituelle Opferhalle", "Datierung: 10. Jahrhundert", "Nahe dem See Mývatn gelegen"],
+      hu: ["Több mint 40 méteres hosszúház", "Nagy rituális áldozati csarnok", "10. századi leletek", "A Mývatn-tó közelében található"],
+      ro: ["Casă lungă de peste 40 metri", "Mare hală pentru ritualuri", "Datată în secolul al X-lea", "Situat lângă lacul Mývatn"],
+      en: ["Longhouse length: over 40 meters", "Large ritual feasting hall", "Dated to the 10th century", "Located near Lake Mývatn"],
+    },
+    image: "/poi-images/iceland-hofstadir-history-v2.webp",
+},  {
     id: "iceland-borg-a-myrum-history-v2",
     type: "landmark",
-    name: { de: "Borg á Mýrum", hu: "Borg á Mýrum", ro: "Borg á Mýrum", en: "Borg á Mýrum" },
+    name: { de: "Borg á Mýrum", hu: "Borg á Mýrum", ro: "Borg á Mýrum", en: "Borg á Mýrum",
+image: "/poi-images/iceland-borg-a-myrum-history-v2.webp"
+},
     coords: [-21.9142, 64.5492],
     coordinates: { lat: 64.5492, lng: -21.9142 },
     description: {
@@ -361,11 +633,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Cadru pentru Saga lui Egill", "Casa lui Egill Skallagrímsson", "Găzduiește opera de artă 'Sonatorrek'", "Colonizat la scurt timp după 874"],
       en: ["Setting for Egils Saga", "Home of Egill Skallagrímsson", "Houses the 'Sonatorrek' artwork", "Settled shortly after 874"],
     },
-    imageHint: "Borg a Myrum historic site Iceland", image: "/poi-images/iceland-borg-a-myrum-history-v2.webp"},
-  {
+imageHint: "Borg a Myrum historic site Iceland",
+    descriptionAdvanced: {
+      de: "Borg á Mýrum ist der historische Wohnsitz von Skalla-Grímur Kveldúlfsson und seinem Sohn Egill Skallagrímsson, dem Protagonisten der Egils-Saga.",
+      hu: "Borg á Mýrum Skalla-Grímur Kveldúlfsson és fia, Egill Skallagrímsson, a híres Egils-saga főhősének történelmi lakóhelye volt.",
+      ro: "Borg á Mýrum a fost reședința istorică a lui Skalla-Grímur Kveldúlfsson și a fiului său, Egill Skallagrímsson, protagonistul Sagăi lui Egill.",
+      en: "Borg á Mýrum was the historic homestead of Skalla-Grímur Kveldúlfsson and his son, the famous poet-warrior Egill Skallagrímsson of Egils Saga.",
+    },
+    factsAdvanced: {
+      de: ["Sitz von Egill Skallagrímsson", "Skulptur 'Sonatorrek' vor Ort", "Kirche mit Altarbild von 1897", "Zentrum der Borgarfjörður-Siedlung"],
+      hu: ["Egill Skallagrímsson lakóhelye", "„Sonatorrek” szobor a helyszínen", "Templom 1897-es oltárképpel", "Borgarfjörður honfoglalási központja"],
+      ro: ["Reședința lui Egill Skallagrímsson", "Sculptura „Sonatorrek” la sit", "Biserică cu pictură de altar din 1897", "Centrul colonizării în Borgarfjörður"],
+      en: ["Home of Egill Skallagrímsson", "Sonatorrek sculpture on site", "Church with 1897 altarpiece", "Center of the Borgarfjörður settlement"],
+    },
+    image: "/poi-images/iceland-borg-a-myrum-history-v2.webp",
+},  {
     id: "iceland-gasir-history-v2",
     type: "ruins",
-    name: { de: "Gásir", hu: "Gásir", ro: "Gásir", en: "Gásir" },
+    name: { de: "Gásir", hu: "Gásir", ro: "Gásir", en: "Gásir",
+image: "/poi-images/iceland-gasir-history-v2.webp"
+},
     coords: [-18.1669, 65.7831],
     coordinates: { lat: 65.7831, lng: -18.1669 },
     description: {
@@ -380,11 +667,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Port comercial major până în 1500", "Centru pentru exportul de șoimi", "Zile medievale anuale la fața locului", "Săpăturile arheologice arată legături comerciale"],
       en: ["Major trading port until 1500", "Center for the export of gyrfalcons", "Annual Medieval Days held on site", "Excavations reveal trade connections"],
     },
-    imageHint: "Gasir medieval trading post ruins Iceland", image: "/poi-images/iceland-gasir-history-v2.webp"},
-  {
+imageHint: "Gasir medieval trading post ruins Iceland",
+    descriptionAdvanced: {
+      de: "Gásir war im Mittelalter der wichtigste Handelsplatz Nordislands. Archäologische Funde belegen einen regen Austausch mit Europa bis ins 16. Jahrhundert.",
+      hu: "Gásir a középkori Észak-Izland legfontosabb kereskedelmi helyszíne volt. Régészeti leletek tanúskodnak az élénk európai kereskedelemről a 16. századig.",
+      ro: "Gásir a fost cel mai important loc de tranzacționare din nordul Islandei în Evul Mediu. Săpăturile arată un comerț activ cu Europa până în secolul XVI.",
+      en: "Gásir was the main trading post in North Iceland during the Middle Ages. Archaeological finds reveal extensive international trade lasting until the 16th century.",
+    },
+    factsAdvanced: {
+      de: ["Handelszentrum bis ca. 1500", "Jährliche Wikingertage im Sommer", "Ausgrabung von Lagerhäusern", "11 km nördlich von Akureyri"],
+      hu: ["Kereskedelmi központ kb. 1500-ig", "Évente megrendezett viking napok", "Raktárépületek feltárása", "11 km-re északra Akureyritől"],
+      ro: ["Centru comercial până în cca. 1500", "Zilele Vikingilor organizate anual", "Excavarea unor depozite medievale", "Situat la 11 km nord de Akureyri"],
+      en: ["Major trade hub until c. 1500", "Annual Medieval Days festival", "Excavated warehouse remains", "Located 11 km north of Akureyri"],
+    },
+    image: "/poi-images/iceland-gasir-history-v2.webp",
+},  {
     id: "iceland-hrafnseyri-history-v2",
     type: "museum",
-    name: { de: "Hrafnseyri", hu: "Hrafnseyri", ro: "Hrafnseyri", en: "Hrafnseyri" },
+    name: { de: "Hrafnseyri", hu: "Hrafnseyri", ro: "Hrafnseyri", en: "Hrafnseyri",
+image: "/poi-images/iceland-hrafnseyri-history-v2.webp"
+},
     coords: [-23.4475, 65.8647],
     coordinates: { lat: 65.8647, lng: -23.4475 },
     description: {
@@ -399,11 +701,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Locul de naștere al lui Jón Sigurðsson (1811)", "Capelă istorică de gazon la fața locului", "Centrul luptei pentru independență", "Situat pe Arnarfjörður"],
       en: ["Birthplace of Jón Sigurðsson (1811)", "Historical turf chapel on site", "Center of the independence struggle", "Located on the Arnarfjörður fjord"],
     },
-    imageHint: "Hrafnseyri Jon Sigurdsson museum Iceland", image: "/poi-images/iceland-hrafnseyri-history-v2.webp"},
-  {
+imageHint: "Hrafnseyri Jon Sigurdsson museum Iceland",
+    descriptionAdvanced: {
+      de: "Hrafnseyri ist der Geburtsort von Jón Sigurðsson, dem Anführer der isländischen Unabhängigkeitsbewegung. Heute befindet sich dort ein Museum zu seinem Gedenken.",
+      hu: "Hrafnseyri Jón Sigurðsson, az izlandi függetlenségi mozgalom vezetőjének szülőhelye. Ma a helyszínen az emlékének szentelt múzeum működik.",
+      ro: "Hrafnseyri este locul de naștere al lui Jón Sigurðsson, liderul mișcării de independență a Islandei. Astăzi, găzduiește un muzeu dedicat memoriei sale.",
+      en: "Hrafnseyri is the birthplace of Jón Sigurðsson, the leader of Iceland's independence movement. It now features a museum and memorial dedicated to his life.",
+    },
+    factsAdvanced: {
+      de: ["Geburtsort von Jón Sigurðsson", "Nationalfeiertag am 17. Juni", "Museum in einem Torfhaus", "Lage am Arnarfjörður"],
+      hu: ["Jón Sigurðsson szülőhelye", "Nemzeti ünnep június 17-én", "Múzeum egy tőzegházban", "Az Arnarfjörður partján fekszik"],
+      ro: ["Locul de naștere al lui Jón Sigurðsson", "Ziua națională pe 17 iunie", "Muzeu într-o casă de turbă", "Situat pe malul Arnarfjörður"],
+      en: ["Birthplace of Jón Sigurðsson", "National Day celebrated June 17", "Heritage museum in a turf house", "Located in Arnarfjörður"],
+    },
+    image: "/poi-images/iceland-hrafnseyri-history-v2.webp",
+},  {
     id: "iceland-eyrarbakki-history-v2",
     type: "port",
-    name: { de: "Eyrarbakki", hu: "Eyrarbakki", ro: "Eyrarbakki", en: "Eyrarbakki" },
+    name: { de: "Eyrarbakki", hu: "Eyrarbakki", ro: "Eyrarbakki", en: "Eyrarbakki",
+image: "/poi-images/iceland-eyrarbakki-history-v2.webp"
+},
     coords: [-21.1492, 63.8653],
     coordinates: { lat: 63.8653, lng: -21.1492 },
     description: {
@@ -418,11 +735,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Cel mai important port din sud până în 1900", "Locația 'Húsið' (construită în 1765)", "Găzduiește un muzeu maritim", "Fost centru comercial danez"],
       en: ["Main southern port until 1900", "Site of 'Húsið' (built in 1765)", "Houses a maritime museum", "Former Danish trading hub"],
     },
-    imageHint: "Eyrarbakki The House historic building Iceland", image: "/poi-images/iceland-eyrarbakki-history-v2.webp"},
-  {
+imageHint: "Eyrarbakki The House historic building Iceland",
+    descriptionAdvanced: {
+      de: "Eyrarbakki war jahrhundertelang der wichtigste Hafen und Handelsplatz an der Südküste. Der Ort bewahrt viele gut erhaltene Holzhäuser aus dem 19. Jahrhundert.",
+      hu: "Eyrarbakki évszázadokon át a déli part legfontosabb kikötője és kereskedelmi központja volt. Számos 19. századi faházát épségben megőrizte.",
+      ro: "Eyrarbakki a fost cel mai important port și centru comercial de pe coasta de sud timp de secole. Conservă multe case din lemn din secolul al XIX-lea.",
+      en: "Eyrarbakki was for centuries the main trading port on the South Coast. It preserves a unique collection of historical wooden houses from the 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Südhafen bis 1925", "Ältestes Haus 'Húsið' von 1765", "Standort eines großen Gefängnisses", "Berühmte historische Handelsstation"],
+      hu: ["Fő déli kikötő 1925-ig", "A „Húsið” 1765-ben épült", "Itt található egy nagy börtön", "Híres történelmi kereskedőhely"],
+      ro: ["Principal port sudic până în 1925", "Cea mai veche casă „Húsið” (1765)", "Locația unei închisori majore", "Fost centru comercial important"],
+      en: ["Main south port until 1925", "The 'Húsið' built in 1765", "Location of a major prison", "Famous historical trading station"],
+    },
+    image: "/poi-images/iceland-eyrarbakki-history-v2.webp",
+},  {
     id: "iceland-vatnsfjordur-history-v2",
     type: "landmark",
-    name: { de: "Vatnsfjörður", hu: "Vatnsfjörður", ro: "Vatnsfjörður", en: "Vatnsfjörður" },
+    name: { de: "Vatnsfjörður", hu: "Vatnsfjörður", ro: "Vatnsfjörður", en: "Vatnsfjörður",
+image: "/poi-images/iceland-vatnsfjordur-history-v2.webp"
+},
     coords: [-23.125, 65.9556],
     coordinates: { lat: 65.9556, lng: -23.125 },
     description: {
@@ -437,11 +769,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Sediul unui clan de căpetenii important", "Menționat în Landnámabók", "Locul unor lupte medievale importante", "Găzduiește ruine ale unor biserici vechi"],
       en: ["Seat of a major chieftain clan", "Mentioned in the Landnámabók", "Site of important medieval conflicts", "Houses ancient church ruins"],
     },
-    imageHint: "Vatnsfjordur Westfjords historic site Iceland", image: "/poi-images/iceland-vatnsfjordur-history-v2.webp"},
-  {
+imageHint: "Vatnsfjordur Westfjords historic site Iceland",
+    descriptionAdvanced: {
+      de: "Vatnsfjörður war im Mittelalter ein bedeutender Häuptlingssitz in den Westfjorden. Der Ort ist eng mit Hrafna-Flóki verbunden, dem ersten Wikinger, der Island benannte.",
+      hu: "Vatnsfjörður a középkorban a Westfjords egyik legjelentősebb törzsfői székhelye volt. Szoros kapcsolatban áll Hrafna-Flóki alakjával, aki nevet adott Izlandnak.",
+      ro: "Vatnsfjörður a fost un sediu important al căpeteniilor din Westfjords în Evul Mediu. Este legat de Hrafna-Flóki, primul viking care a numit Islanda.",
+      en: "Vatnsfjörður was a major chieftain's seat in the Westfjords during the Middle Ages. It is linked to Hrafna-Flóki, the first Viking to name Iceland.",
+    },
+    factsAdvanced: {
+      de: ["Wohnsitz von Hrafna-Flóki", "Sitz mächtiger Häuptlinge", "Archäologische Funde aus 1000 n.Chr.", "Historische Kirche vor Ort"],
+      hu: ["Hrafna-Flóki lakóhelye", "Hatalmas törzsfők székhelye", "Régészeti leletek i.sz. 1000-ből", "Történelmi templom a helyszínen"],
+      ro: ["Reședința lui Hrafna-Flóki", "Sediul unor căpetenii puternice", "Descoperiri din anul 1000 d.Hr.", "Biserică istorică pe sit"],
+      en: ["Home of Raven-Flóki", "Seat of powerful chieftains", "Archaeological finds from 1000 AD", "Historic church site"],
+    },
+    image: "/poi-images/iceland-vatnsfjordur-history-v2.webp",
+},  {
     id: "iceland-modruvellir-history-v2",
     type: "university",
-    name: { de: "Möðruvellir", hu: "Möðruvellir", ro: "Möðruvellir", en: "Möðruvellir" },
+    name: { de: "Möðruvellir", hu: "Möðruvellir", ro: "Möðruvellir", en: "Möðruvellir",
+image: "/poi-images/iceland-modruvellir-history-v2.webp"
+},
     coords: [-18.2522, 65.7761],
     coordinates: { lat: 65.7761, lng: -18.2522 },
     description: {
@@ -456,11 +803,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire augustiniană fondată în 1296", "Sediul primei școli secundare din nord", "Deține o biserică de lemn din 1867", "Sediul istoric al guvernatorului"],
       en: ["Augustinian monastery founded in 1296", "Seat of the first high school in the north", "Features a wooden church built in 1867", "Historical seat of the governor"],
     },
-    imageHint: "Modruvellir church and school site Iceland", image: "/poi-images/iceland-modruvellir-history-v2.webp"},
-  {
+imageHint: "Modruvellir church and school site Iceland",
+    descriptionAdvanced: {
+      de: "Möðruvellir war Standort eines wohlhabenden Augustinerklosters und später ein bedeutendes Verwaltungszentrum. Hier befand sich auch eine der ersten Schulen Nordislands.",
+      hu: "Möðruvellir egy tehetős Ágoston-rendi kolostornak adott otthont, később pedig fontos közigazgatási központ lett. Itt működött Észak-Izland egyik első iskolája.",
+      ro: "Möðruvellir a găzduit o mănăstire augustiniană bogată și a devenit ulterior un centru administrativ major. Aici a funcționat una dintre primele școli din nord.",
+      en: "Möðruvellir hosted a wealthy Augustinian monastery and later became a key administrative center. It was also home to one of North Iceland's first schools.",
+    },
+    factsAdvanced: {
+      de: ["Kloster gegründet im Jahr 1296", "Zentrum für Bildung und Kultur", "Steinkirche fertiggestellt 1867", "Bedeutender Häuptlingssitz"],
+      hu: ["Kolostor alapítása 1296-ban", "Oktatási és kulturális központ", "A kőtemplom 1867-ben készült el", "Jelentős törzsfői székhely"],
+      ro: ["Mănăstire fondată în 1296", "Centru de educație și cultură", "Biserica de piatră finalizată în 1867", "Fost sediu important de căpetenie"],
+      en: ["Monastery founded in 1296", "Center for education and culture", "Stone church completed in 1867", "Prominent chieftain's estate"],
+    },
+    image: "/poi-images/iceland-modruvellir-history-v2.webp",
+},  {
     id: "iceland-saurbaer-history-v2",
     type: "church",
-    name: { de: "Saurbær", hu: "Saurbær", ro: "Saurbær", en: "Saurbær" },
+    name: { de: "Saurbær", hu: "Saurbær", ro: "Saurbær", en: "Saurbær",
+image: "/poi-images/iceland-saurbaer-history-v2.webp"
+},
     coords: [-18.2311, 65.4325],
     coordinates: { lat: 65.4325, lng: -18.2311 },
     description: {
@@ -475,11 +837,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Biserică de gazon construită în 1858", "Sediul unei mănăstiri în secolul XIII", "Una dintre cele mai mari biserici de turbă", "Cadru important pentru saga locale"],
       en: ["Turf church built in 1858", "Seat of a monastery in the 13th century", "One of the largest turf churches", "Important setting for local sagas"],
     },
-    imageHint: "Saurbaer turf church Eyjafjordur Iceland", image: "/poi-images/iceland-saurbaer-history-v2.webp"},
-  {
+imageHint: "Saurbaer turf church Eyjafjordur Iceland",
+    descriptionAdvanced: {
+      de: "Saurbær am Hvalfjörður ist bekannt für seine Torfkirche aus dem Jahr 1858. Der Ort ist eng mit dem Leben und Wirken des Dichters Hallgrímur Pétursson verbunden.",
+      hu: "A Hvalfjörður mellett fekvő Saurbær az 1858-as tőzegtemplomáról ismert. A helyszín szorosan kötődik Hallgrímur Pétursson költő életéhez és munkásságához.",
+      ro: "Saurbær din Hvalfjörður este cunoscut pentru biserica sa de turbă din 1858. Situl este strâns legat de viața și opera poetului Hallgrímur Pétursson.",
+      en: "Saurbær in Hvalfjörður is famous for its 1858 turf church. The site is deeply connected to the life of the renowned poet and clergyman Hallgrímur Pétursson.",
+    },
+    factsAdvanced: {
+      de: ["Torfkirche erbaut 1858", "Wirkungsstätte von Hallgrímur Pétursson", "Eine von wenigen Torfkirchen", "Historischer Ort am Hvalfjörður"],
+      hu: ["1858-ban épült tőzegtemplom", "Hallgrímur Pétursson lakóhelye", "Kevés fennmaradt tőzegtemplom egyike", "Történelmi hely a Hvalfjörður partján"],
+      ro: ["Biserică de turbă din 1858", "Locul unde a activat Hallgrímur Pétursson", "Una dintre puținele biserici de turbă", "Sit istoric în Hvalfjörður"],
+      en: ["Turf church built in 1858", "Home of poet Hallgrímur Pétursson", "One of few remaining turf churches", "Historical site in Hvalfjörður"],
+    },
+    image: "/poi-images/iceland-saurbaer-history-v2.webp",
+},  {
     id: "iceland-breidabolstadur-history-v2",
     type: "landmark",
-    name: { de: "Breiðabólstaður", hu: "Breiðabólstaður", ro: "Breiðabólstaður", en: "Breiðabólstaður" },
+    name: { de: "Breiðabólstaður", hu: "Breiðabólstaður", ro: "Breiðabólstaður", en: "Breiðabólstaður",
+image: "/poi-images/iceland-breidabolstadur-history-v2.webp"
+},
     coords: [-20.4194, 65.4519],
     coordinates: { lat: 65.4519, lng: -20.4194 },
     description: {
@@ -494,11 +871,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Prima tipografie în jurul anului 1530", "Planificarea tipăririi Noului Testament", "Fosta reședință a unor preoți învățați", "Biserica locală datează din 1893"],
       en: ["First printing press around 1530", "Planned printing of the New Testament", "Former residence of learned vicars", "Church on site dates from 1893"],
     },
-    imageHint: "Breidabolstadur church Hunavatnssysla Iceland", image: "/poi-images/iceland-breidabolstadur-history-v2.webp"},
-  {
+imageHint: "Breidabolstadur church Hunavatnssysla Iceland",
+    descriptionAdvanced: {
+      de: "Breiðabólstaður war ein bedeutender klerikaler Sitz und Standort der ersten Druckerei Islands, die im 16. Jahrhundert von Jón Arason dorthin gebracht wurde.",
+      hu: "Breiðabólstaður jelentős egyházi központ volt, ahol felállították Izland első nyomdáját. Jón Arason püspök hozatta ide a berendezést a 16. században.",
+      ro: "Breiðabólstaður a fost un sediu clerical important și locația primei tiparnițe din Islanda, adusă de Jón Arason în secolul al XVI-lea.",
+      en: "Breiðabólstaður was a major clerical center and the site of Iceland's first printing press, brought to the country by Jón Arason in the 16th century.",
+    },
+    factsAdvanced: {
+      de: ["Erste Druckerei (ca. 1530)", "Sitz einflussreicher Priester", "Hafliði Másson lebte hier", "Bedeutende Manuskript-Quelle"],
+      hu: ["Első nyomda (kb. 1530)", "Befolyásos papok székhelye", "Itt élt Hafliði Másson", "Fontos kéziratok lelőhelye"],
+      ro: ["Prima tiparniță (cca. 1530)", "Sediul unor preoți influenți", "Reședința lui Hafliði Másson", "Sursă importantă de manuscrise"],
+      en: ["First printing press (c. 1530)", "Seat of influential priests", "Home of Hafliði Másson", "Source of important manuscripts"],
+    },
+    image: "/poi-images/iceland-breidabolstadur-history-v2.webp",
+},  {
     id: "iceland-hitardalur-history-v2",
     type: "landmark",
-    name: { de: "Hítardalur", hu: "Hítardalur", ro: "Hítardalur", en: "Hítardalur" },
+    name: { de: "Hítardalur", hu: "Hítardalur", ro: "Hítardalur", en: "Hítardalur",
+image: "/poi-images/iceland-hitardalur-history-v2.webp"
+},
     coords: [-22.25, 64.7667],
     coordinates: { lat: 64.7667, lng: -22.25 },
     description: {
@@ -513,11 +905,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire cu existență scurtă (1166–1201)", "Cadru semnificativ pentru saga", "Casa unor învățați celebri", "Cunoscut pentru formațiuni stâncoase"],
       en: ["Short-lived monastery (1166–1201)", "Significant saga setting", "Home to famous scholars", "Known for striking rock formations"],
     },
-    imageHint: "Hitardalur valley and historic farm Iceland", image: "/poi-images/iceland-hitardalur-history-v2.webp"},
-  {
+imageHint: "Hitardalur valley and historic farm Iceland",
+    descriptionAdvanced: {
+      de: "Hítardalur war Schauplatz der historischen Schlacht von Hítardalsbardagi im Jahr 1106. Das Anwesen war über Jahrhunderte ein wichtiger kultureller Treffpunkt.",
+      hu: "Hítardalur volt az 1106-os történelmi Hítardalsbardagi csata helyszíne. A birtok évszázadokon át fontos kulturális és közösségi találkozóhelyként szolgált.",
+      ro: "Hítardalur a fost scena bătăliei istorice Hítardalsbardagi din 1106. Proprietatea a fost un punct de întâlnire cultural important timp de secole.",
+      en: "Hítardalur was the scene of the historic Battle of Hítardalsbardagi in 1106. For centuries, the estate served as a significant cultural gathering point.",
+    },
+    factsAdvanced: {
+      de: ["Schlacht im Jahr 1106", "Besitz der mächtigen Bischöfe", "Historisches Gehöft in Westisland", "Zentrum der Saga-Überlieferung"],
+      hu: ["Csata 1106-ban", "Hatalmas püspökök birtoka", "Történelmi tanya Nyugat-Izlandon", "A sagák hagyományozásának központja"],
+      ro: ["Bătălie în anul 1106", "Proprietate a unor episcopi puternici", "Fermă istorică în vestul Islandei", "Centru de tradiție a sagălor"],
+      en: ["Battle site in 1106 AD", "Owned by powerful bishops", "Historical farm in West Iceland", "Center of saga traditions"],
+    },
+    image: "/poi-images/iceland-hitardalur-history-v2.webp",
+},  {
     id: "iceland-thvotta-history-v2",
     type: "monument",
-    name: { de: "Þvottá", hu: "Þvottá", ro: "Þvottá", en: "Þvottá" },
+    name: { de: "Þvottá", hu: "Þvottá", ro: "Þvottá", en: "Þvottá",
+image: "/poi-images/iceland-thvotta-history-v2.webp"
+},
     coords: [-14.4758, 64.4019],
     coordinates: { lat: 64.4019, lng: -14.4758 },
     description: {
@@ -532,11 +939,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Locul primelor botezuri în 997", "Numele înseamnă 'Râul de spălat'", "Monument în memoria botezului", "Loc important în istoria religioasă"],
       en: ["Site of the first baptisms in 997", "Name means 'Wash River'", "Monument commemorating the baptism", "Important site in religious history"],
     },
-    imageHint: "Thvotta historic baptism site Iceland", image: "/poi-images/iceland-thvotta-history-v2.webp"},
-  {
+imageHint: "Thvotta historic baptism site Iceland",
+    descriptionAdvanced: {
+      de: "Þvottá ist der Ort, an dem die Christianisierung Islands im Jahr 1000 ihren Anfang nahm. Hier wurden die Siedler vom Missionar Thangbrand getauft.",
+      hu: "Þvottá az a helyszín, ahol Izland keresztény hitre térése elkezdődött 1000-ben. Itt keresztelte meg a honfoglalókat Thangbrand hittérítő.",
+      ro: "Þvottá este locul unde a început creștinarea Islandei în anul 1000. Aici, coloniștii au fost botezați de către misionarul Thangbrand.",
+      en: "Þvottá is the site where the Christianization of Iceland began around 1000 AD. It is where missionary Thangbrand baptized the early settlers.",
+    },
+    factsAdvanced: {
+      de: ["Ort der ersten Taufen", "Missionar Thangbrand (1000 n.Chr.)", "Lage an der Südostküste", "Religionsgeschichtliches Denkmal"],
+      hu: ["Az első keresztelők helyszíne", "Thangbrand hittérítő (i.sz. 1000)", "A délkeleti parton található", "Vallástörténeti emlékhely"],
+      ro: ["Locul primelor botezuri", "Misionarul Thangbrand (1000 d.Hr.)", "Situat pe coasta de sud-est", "Monument de istorie religioasă"],
+      en: ["Site of the first baptisms", "Missionary Thangbrand (1000 AD)", "Located on the southeast coast", "Religious history monument"],
+    },
+    image: "/poi-images/iceland-thvotta-history-v2.webp",
+},  {
     id: "iceland-steinsholt-history-v2",
     type: "ruins",
-    name: { de: "Steinsholt", hu: "Steinsholt", ro: "Steinsholt", en: "Steinsholt" },
+    name: { de: "Steinsholt", hu: "Steinsholt", ro: "Steinsholt", en: "Steinsholt",
+image: "/poi-images/iceland-steinsholt-history-v2.webp"
+},
     coords: [-19.65, 64.1333],
     coordinates: { lat: 64.1333, lng: -19.65 },
     description: {
@@ -551,11 +973,26 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Loc de adunare medieval", "Rămășițe de case din brazde", "Obiectele găsite sunt în Muzeul Național", "Perspectivă asupra administrației timpurii"],
       en: ["Medieval assembly place", "Remains of turf buildings", "Artifacts held in the National Museum", "Insight into early administration"],
     },
-    imageHint: "Steinsholt archaeological ruins Iceland", image: "/poi-images/iceland-steinsholt-history-v2.webp"},
-  {
+imageHint: "Steinsholt archaeological ruins Iceland",
+    descriptionAdvanced: {
+      de: "Steinsholt im Þjórsárdalur beherbergt Ruinen aus der Siedlungszeit, die vermutlich beim Hekla-Ausbruch 1104 zerstört wurden. Es ist ein wertvolles archäologisches Areal.",
+      hu: "A Þjórsárdalur völgyében fekvő Steinsholt honfoglalás kori romokat őriz, amelyek valószínűleg az 1104-es Hekla-kitöréskor pusztultak el.",
+      ro: "Steinsholt din Þjórsárdalur adăpostește ruine din epoca colonizării, probabil distruse de erupția Hekla din 1104. Este un sit arheologic valoros.",
+      en: "Steinsholt in Þjórsárdalur contains settlement-era ruins likely destroyed by the 1104 Hekla eruption. It offers insights into early Viking farm layouts.",
+    },
+    factsAdvanced: {
+      de: ["Siedlungszeitliche Ruinen", "Zerstörung durch Vulkanasche 1104", "Lage im Þjórsárdalur-Tal", "Archäologische Ausgrabungsstätte"],
+      hu: ["Honfoglalás kori romok", "1104-es vulkáni hamu pusztította el", "A Þjórsárdalur-völgyben található", "Régészeti feltárási terület"],
+      ro: ["Ruine din epoca colonizării", "Distruse de cenușă vulcanică în 1104", "Situat în valea Þjórsárdalur", "Situl unor săpături arheologice"],
+      en: ["Settlement-era farm ruins", "Destroyed by ash in 1104 AD", "Located in Þjórsárdalur valley", "Active archaeological research site"],
+    },
+    image: "/poi-images/iceland-steinsholt-history-v2.webp",
+},  {
     id: "iceland-herjolfsdalur-history-v2",
     type: "ruins",
-    name: { de: "Herjólfsdalur", hu: "Herjólfsdalur", ro: "Herjólfsdalur", en: "Herjólfsdalur" },
+    name: { de: "Herjólfsdalur", hu: "Herjólfsdalur", ro: "Herjólfsdalur", en: "Herjólfsdalur",
+image: "/poi-images/iceland-herjolfsdalur-history-v2.webp"
+},
     coords: [-20.2925, 63.4442],
     coordinates: { lat: 63.4442, lng: -20.2925 },
     description: {
@@ -571,5 +1008,17 @@ export const icelandHistoryV2: POI[] = [
       en: ["Settlement traces before 874 AD", "Site of the first settler Herjólfur", "Annual folk festival held in the valley", "Viking Age archaeological finds"],
     },
     imageHint: "Herjolfsdalur ruins Westman Islands Iceland",
+    descriptionAdvanced: {
+      de: "Herjólfsdalur auf den Westmännerinseln ist der Ort der ersten Besiedlung der Inseln durch Herjólfur Bárðarson. Hier wurden Überreste eines frühen Langhauses gefunden.",
+      hu: "A Vestmannaeyjar-szigeteken található Herjólfsdalur az első helyi honfoglaló, Herjólfur Bárðarson tanyájának helyszíne. Egy korai hosszúház maradványait tárták fel itt.",
+      ro: "Herjólfsdalur din Insulele Westman este locul primei colonizări a insulelor de către Herjólfur Bárðarson. Aici au fost găsite ruinele unei case lungi timpurii.",
+      en: "Herjólfsdalur on the Westman Islands is the site of the islands' first settlement by Herjólfur Bárðarson. It features remains of an early Viking longhouse.",
+    },
+    factsAdvanced: {
+      de: ["Erster Siedler: Herjólfur Bárðarson", "Fund eines Langhauses aus dem 9. Jh.", "Lage auf der Insel Heimaey", "Zentrum des Þjóðhátíð-Festivals"],
+      hu: ["Első honfoglaló: Herjólfur Bárðarson", "9. századi hosszúház lelete", "Heimaey szigetén található", "A Þjóðhátíð fesztivál helyszíne"],
+      ro: ["Primul colonist: Herjólfur Bárðarson", "Casă lungă din secolul al IX-lea", "Situat pe insula Heimaey", "Locul festivalului Þjóðhátíð"],
+      en: ["First settler: Herjólfur Bárðarson", "9th-century longhouse found here", "Located on Heimaey island", "Site of the annual Þjóðhátíð festival"],
+    },
   }
 ];

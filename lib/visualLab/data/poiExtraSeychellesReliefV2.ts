@@ -10,8 +10,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Nid d'Aigle (Adlerhorst)",
       hu: "Nid d'Aigle (Sasfészek)",
       ro: "Nid d'Aigle (Cuibul Vulturului)",
-      en: "Nid d'Aigle (Eagle's Nest)"
-    },
+      en: "Nid d'Aigle (Eagle's Nest)",
+image: "/poi-images/nid-d-aigle-relief-v2.webp"
+},
     description: {
       de: "Der höchste Punkt auf der Insel La Digue bietet einen atemberaubenden Panoramablick auf die umliegenden Inseln Praslin und Felicité.",
       hu: "La Digue szigetének legmagasabb pontja, ahonnan lélegzetelállító panoráma nyílik a környező Praslin és Felicité szigetekre.",
@@ -33,8 +34,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Dauban",
       hu: "Mont Dauban",
       ro: "Mont Dauban",
-      en: "Mont Dauban"
-    },
+      en: "Mont Dauban",
+image: "/poi-images/mont-dauban-relief-v2.webp"
+},
     description: {
       de: "Der höchste Berg der Insel Silhouette erhebt sich steil aus dem Meer und ist oft in dichte Wolken gehüllt.",
       hu: "Silhouette szigetének legmagasabb hegye, amely meredeken emelkedik ki a tengerből, és gyakran sűrű felhőkbe burkolózik.",
@@ -56,8 +58,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Glacis Noir (Schwarzer Felsen)",
       hu: "Glacis Noir (Fekete-szikla)",
       ro: "Glacis Noir (Stânca Neagră)",
-      en: "Glacis Noir (Black Rock)"
-    },
+      en: "Glacis Noir (Black Rock)",
+image: "/poi-images/glacis-noir-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Aussichtspunkt auf Praslin, der für seine dunklen Granitformationen und den Blick über den Praslin Nationalpark bekannt ist.",
       hu: "Praslin egyik jellegzetes kilátópontja, amely sötét gránitképződményeiről és a Praslin Nemzeti Parkra nyíló kilátásáról ismert.",
@@ -79,8 +82,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Pot-à-Eau",
       hu: "Mont Pot-à-Eau",
       ro: "Mont Pot-à-Eau",
-      en: "Mont Pot-à-Eau"
-    },
+      en: "Mont Pot-à-Eau",
+image: "/poi-images/mont-pot-a-eau-relief-v2.webp"
+},
     description: {
       de: "Ein bedeutender Gipfel auf der Insel Silhouette, der seinen Namen von den fleischfressenden Kannenpflanzen hat, die dort wachsen.",
       hu: "Silhouette szigetének egyik jelentős csúcsa, amely nevét az ott növekvő húsevő kancsókáról kapta.",
@@ -102,8 +106,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Sebert",
       hu: "Mont Sebert",
       ro: "Mont Sebert",
-      en: "Mont Sebert"
-    },
+      en: "Mont Sebert",
+image: "/poi-images/mont-sebert-relief-v2.webp"
+},
     description: {
       de: "Ein imposanter Granitberg im Osten von Mahé, der steile Felswände und eine einzigartige Flora aufweist.",
       hu: "Mahé keleti részén található impozáns gránithegy, amely meredek sziklafalakkal és egyedülálló flórával rendelkezik.",
@@ -125,8 +130,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Planeau",
       hu: "Mont Planeau",
       ro: "Mont Planeau",
-      en: "Mont Planeau"
-    },
+      en: "Mont Planeau",
+image: "/poi-images/mont-planeau-relief-v2.webp"
+},
     description: {
       de: "Ein zentral gelegener Berg auf Mahé, der einen weiten Blick über die Küstenebenen im Süden der Insel ermöglicht.",
       hu: "Mahé központi részén elhelyezkedő hegy, ahonnan messzire el lehet látni a sziget déli partvidéki síkságaira.",
@@ -148,8 +154,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Poseidon",
       hu: "Mont Poseidon",
       ro: "Mont Poseidon",
-      en: "Mont Poseidon"
-    },
+      en: "Mont Poseidon",
+image: "/poi-images/mont-poseidon-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berggipfel im Süden von Mahé, der die Landschaft von Anse Royale dominiert.",
       hu: "Jellegzetes hegycsúcs Mahé déli részén, amely Anse Royale tájképét uralja.",
@@ -171,8 +178,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Dans Gallas",
       hu: "Dans Gallas",
       ro: "Dans Gallas",
-      en: "Dans Gallas"
-    },
+      en: "Dans Gallas",
+image: "/poi-images/dans-gallas-relief-v2.webp"
+},
     description: {
       de: "Ein erhöhtes Felsplateau oberhalb von Beau Vallon, bekannt für seine beeindruckenden geologischen Strukturen und Panoramen.",
       hu: "Beau Vallon felett elhelyezkedő magaslati sziklaplatoó, amely lenyűgöző geológiai szerkezeteiről és panorámájáról ismert.",
@@ -194,8 +202,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Belle Vue",
       hu: "Belle Vue",
       ro: "Belle Vue",
-      en: "Belle Vue"
-    },
+      en: "Belle Vue",
+image: "/poi-images/belle-vue-relief-v2.webp"
+},
     description: {
       de: "Ein malerischer Aussichtspunkt auf halber Höhe des Nid d'Aigle auf La Digue, berühmt für Sonnenuntergänge.",
       hu: "Festői kilátópont a La Digue-i Nid d'Aigle hegy felénél, amely híres a naplementéiről.",
@@ -217,8 +226,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Signal",
       hu: "Mont Signal",
       ro: "Mont Signal",
-      en: "Mont Signal"
-    },
+      en: "Mont Signal",
+image: "/poi-images/mont-signal-relief-v2.webp"
+},
     description: {
       de: "Ein Berg oberhalb von Victoria, der früher für Signalflaggen zur Ankündigung ankommender Schiffe genutzt wurde.",
       hu: "Victoria felett magasodó hegy, amelyet korábban jelzőzászlók kitűzésére használtak az érkező hajók bejelentésére.",
@@ -240,8 +250,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Salazie-Plateau",
       hu: "Salazie-fennsík",
       ro: "Platoul Salazie",
-      en: "Salazie Plateau"
-    },
+      en: "Salazie Plateau",
+image: "/poi-images/salazie-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein hochgelegenes Plateau im Zentrum von Mahé, geprägt durch Feuchtgebiete und eine kühle Bergbrise.",
       hu: "Mahé központjában található magaslati fennsík, amelyet vizes élőhelyek és hűvös hegyi szellő jellemez.",
@@ -264,8 +275,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Montagne Brulée",
       hu: "Montagne Brulée",
       ro: "Montagne Brulée",
-      en: "Montagne Brulée"
-    },
+      en: "Montagne Brulée",
+image: "/poi-images/montagne-brulee-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berg im Süden von Mahé, bekannt für seine steilen Granitwände und den dichten Regenwald.",
       hu: "Jellegzetes hegy Mahé déli részén, amely meredek gránitfalairól és sűrű esőerdőjéről ismert.",
@@ -287,8 +299,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Castle Peak (Schlossberg)",
       hu: "Castle Peak (Vár-csúcs)",
       ro: "Castle Peak",
-      en: "Castle Peak"
-    },
+      en: "Castle Peak",
+image: "/poi-images/castle-peak-relief-v2.webp"
+},
     description: {
       de: "Ein schroffer Gipfel im Süden von Mahé, dessen Form an eine mittelalterliche Festung erinnert.",
       hu: "Mahé déli részén található zord csúcs, amelynek alakja egy középkori erődre emlékeztet.",
@@ -310,8 +323,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Fond Azore",
       hu: "Fond Azore",
       ro: "Fond Azore",
-      en: "Fond Azore"
-    },
+      en: "Fond Azore",
+image: "/poi-images/fond-azore-relief-v2.webp"
+},
     description: {
       de: "Ein abgelegener Gipfel auf der Insel Silhouette, der durch dichte tropische Vegetation und steile Hänge geprägt ist.",
       hu: "Silhouette szigetének egyik elszigetelt csúcsa, amelyet sűrű trópusi növényzet és meredek lejtők jellemeznek.",
@@ -334,8 +348,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Point Lookout (Aussichtspunkt)",
       hu: "Point Lookout (Kilátóhely)",
       ro: "Point Lookout",
-      en: "Point Lookout"
-    },
+      en: "Point Lookout",
+image: "/poi-images/point-lookout-relief-v2.webp"
+},
     description: {
       de: "Ein exponierter Felsvorsprung an der Nordküste von Mahé, der einen weiten Blick über den Meeresnationalpark Port Launay bietet.",
       hu: "Mahé északi partján elhelyezkedő meredek sziklakiszögellés, ahonnan tágas kilátás nyílik a Port Launay Tengeri Nemzeti Parkra.",
@@ -357,8 +372,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Zimbabwe-Aussichtspunkt",
       hu: "Zimbabwe-kilátó",
       ro: "Punctul de belvedere Zimbabwe",
-      en: "Zimbabwe Viewpoint"
-    },
+      en: "Zimbabwe Viewpoint",
+image: "/poi-images/zimbabwe-viewpoint-relief-v2.webp"
+},
     description: {
       de: "Der höchste per Straße erreichbare Punkt auf Praslin, benannt nach der Funkstation auf dem Gipfel.",
       hu: "Praslin legmagasabb pontja, amely közúton is megközelíthető, nevét a csúcson található rádióállomásról kapta.",
@@ -380,8 +396,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Jasmin",
       hu: "Mont Jasmin",
       ro: "Mont Jasmin",
-      en: "Mont Jasmin"
-    },
+      en: "Mont Jasmin",
+image: "/poi-images/mont-jasmin-relief-v2.webp"
+},
     description: {
       de: "Ein Berg im Norden von Mahé, der in einem weniger besuchten Teil der Insel liegt und durch dichten Urwald besticht.",
       hu: "Mahé északi részén található hegy, amely a sziget kevésbé látogatott részén fekszik, és sűrű őserdővel büszkélkedhet.",
@@ -403,8 +420,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Harrison",
       hu: "Mont Harrison",
       ro: "Mont Harrison",
-      en: "Mont Harrison"
-    },
+      en: "Mont Harrison",
+image: "/poi-images/mont-harrison-relief-v2.webp"
+},
     description: {
       de: "Ein Berggipfel in der Nähe des Zentrums von Mahé, der einen beeindruckenden Blick auf die Westküste bietet.",
       hu: "Mahé központjának közelében található hegycsúcs, amely lenyűgöző kilátást nyújt a nyugati partra.",
@@ -426,8 +444,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Mont Bernardia",
       hu: "Mont Bernardia",
       ro: "Mont Bernardia",
-      en: "Mont Bernardia"
-    },
+      en: "Mont Bernardia",
+image: "/poi-images/mont-bernardia-relief-v2.webp"
+},
     description: {
       de: "Ein Berg im Westen von Mahé, der steil zum Indischen Ozean abfällt und ein markantes Merkmal der Küste ist.",
       hu: "Mahé nyugati részén fekvő hegy, amely meredeken szakad le az Indiai-óceán felé, és a partvidék meghatározó eleme.",
@@ -449,8 +468,9 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       de: "Congo Rouge",
       hu: "Congo Rouge",
       ro: "Congo Rouge",
-      en: "Congo Rouge"
-    },
+      en: "Congo Rouge",
+image: "/poi-images/congo-rouge-relief-v2.webp"
+},
     description: {
       de: "Ein hochgelegenes Waldgebiet auf Mahé, bekannt für seinen hohen Anteil an endemischen Pflanzen und seltener Moose.",
       hu: "Mahé egyik magaslati erdőterülete, amely az endemikus növények és ritka mohák magas arányáról ismert.",

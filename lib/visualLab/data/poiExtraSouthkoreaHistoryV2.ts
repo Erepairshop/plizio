@@ -11,8 +11,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Gyeongbokgung-Palast",
       hu: "Kjongbokkung palota",
       ro: "Palatul Gyeongbokgung",
-      en: "Gyeongbokgung Palace"
-    },
+      en: "Gyeongbokgung Palace",
+image: "/poi-images/gyeongbokgung-palace-history-v2.webp"
+},
     description: {
       de: "Der größte der Fünf Großen Paläste, die während der Joseon-Dynastie erbaut wurden. Er diente als Hauptpalast und repräsentiert die Pracht der koreanischen Architektur.",
       hu: "Az Öt Nagy Palota közül a legnagyobb, amely a Csoszon-dinasztia idején épült. Fő palotaként szolgált, és a koreai építészet pompáját képviseli.",
@@ -34,8 +35,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Demilitarisierte Zone (DMZ) / Panmunjom",
       hu: "Demilitarizált övezet (DMZ) / Panmindzson",
       ro: "Zona Demilitarizată Coreeană (DMZ) / Panmunjom",
-      en: "Korean Demilitarized Zone (DMZ) / Panmunjom"
-    },
+      en: "Korean Demilitarized Zone (DMZ) / Panmunjom",
+image: "/poi-images/dmz-panmunjom-history-v2.webp"
+},
     description: {
       de: "Eine Pufferzone, die die koreanische Halbinsel teilt. Panmunjom, die 'Waffenstillstandsdorf', ist der einzige Ort, an dem sich Nord- und Südkoreaner treffen können.",
       hu: "A Koreai-félszigetet kettéosztó pufferzóna. Panmindzson, a 'fegyverszüneti falu' az egyetlen hely, ahol észak- és dél-koreaiak találkozhatnak.",
@@ -57,8 +59,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Bulguksa-Tempel",
       hu: "Pulguksza-templom",
       ro: "Templul Bulguksa",
-      en: "Bulguksa Temple"
-    },
+      en: "Bulguksa Temple",
+image: "/poi-images/bulguksa-temple-history-v2.webp"
+},
     description: {
       de: "Ein Meisterwerk der buddhistischen Kunst aus dem Silla-Königreich. Der Tempelkomplex umfasst mehrere Nationalschätze Koreas.",
       hu: "A Silla királyság buddhista művészetének mesterműve. A templomkomplexum Korea több nemzeti kincsét is magában foglalja.",
@@ -80,8 +83,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Hwaseong-Festung",
       hu: "Hvaszong erőd",
       ro: "Fortăreața Hwaseong",
-      en: "Hwaseong Fortress"
-    },
+      en: "Hwaseong Fortress",
+image: "/poi-images/hwaseong-fortress-history-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Festung aus dem späten 18. Jahrhundert in Suwon, die militärische, wissenschaftliche und kommerzielle Funktionen vereint.",
       hu: "Lenyűgöző erőd a 18. század végéről Suwonban, amely katonai, tudományos és kereskedelmi funkciókat egyesít.",
@@ -103,8 +107,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Seokguram-Grotte",
       hu: "Szokkuram-barlang",
       ro: "Grota Seokguram",
-      en: "Seokguram Grotto"
-    },
+      en: "Seokguram Grotto",
+image: "/poi-images/seokguram-grotto-history-v2.webp"
+},
     description: {
       de: "Ein künstlich angelegter Steintempel auf dem Berg Tohamsan, der eine monumentale Buddha-Statue beherbergt.",
       hu: "Mesterségesen létrehozott kőtemplom a Tohamsan-hegyen, amely egy monumentális Buddha-szobornak ad otthont.",
@@ -126,8 +131,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Changdeokgung-Palast",
       hu: "Cshangdokkung palota",
       ro: "Palatul Changdeokgung",
-      en: "Changdeokgung Palace"
-    },
+      en: "Changdeokgung Palace",
+image: "/poi-images/changdeokgung-palace-history-v2.webp"
+},
     description: {
       de: "Einer der Fünf Großen Paläste, der für seine harmonische Integration in die umgebende Landschaft bekannt ist. Besonders berühmt ist der Geheime Garten (Huwon).",
       hu: "Az Öt Nagy Palota egyike, amely a környező tájjal való harmonikus integrációjáról ismert. Különösen híres a Titkos Kert (Huvon).",
@@ -149,8 +155,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Dolmenstätten von Gochang",
       hu: "Kocshangi dolmenek",
       ro: "Situl dolmenelor Gochang",
-      en: "Gochang Dolmen Sites"
-    },
+      en: "Gochang Dolmen Sites",
+image: "/poi-images/gochang-dolmen-sites-history-v2.webp"
+},
     description: {
       de: "Die größte und konzentrierteste Ansammlung von Dolmen (prähistorischen Steingräbern) in der Welt. Ein Fenster in die Megalithkultur.",
       hu: "A világ legnagyobb és legkoncentráltabb dolmen (őskori kősír) gyűjteménye. Ablak a megalitikus kultúrába.",
@@ -172,8 +179,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Jongmyo-Schrein",
       hu: "Csongmjo-szentély",
       ro: "Sanctuarul Jongmyo",
-      en: "Jongmyo Shrine"
-    },
+      en: "Jongmyo Shrine",
+image: "/poi-images/jongmyo-shrine-history-v2.webp"
+},
     description: {
       de: "Der oberste konfuzianische Schrein, der den Gedenktafeln der Könige und Königinnen der Joseon-Dynastie gewidmet ist. Hier finden noch heute Ahnenrituale statt.",
       hu: "A legfőbb konfuciánus szentély, amelyet a Csoszon-dinasztia királyainak és királynőinek emléktábláinak szenteltek. Itt még ma is tartanak ősi rituálékat.",
@@ -195,8 +203,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Kriegsdenkmal von Korea",
       hu: "Koreai Háborús Emlékmű",
       ro: "Memorialul de Război al Coreei",
-      en: "War Memorial of Korea"
-    },
+      en: "War Memorial of Korea",
+image: "/poi-images/war-memorial-of-korea-history-v2.webp"
+},
     description: {
       de: "Ein massives Museum und Denkmal in Seoul, das die Militärgeschichte Koreas dokumentiert und derer gedenkt, die in den Kriegen des Landes gekämpft haben.",
       hu: "Hatalmas múzeum és emlékmű Szöulban, amely Korea hadtörténelmét dokumentálja, és megemlékezik azokról, akik az ország háborúiban harcoltak.",
@@ -218,8 +227,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Haedong-Yonggungsa-Tempel",
       hu: "Hedong Jonggungsza-templom",
       ro: "Templul Haedong Yonggungsa",
-      en: "Haedong Yonggungsa Temple"
-    },
+      en: "Haedong Yonggungsa Temple",
+image: "/poi-images/haedong-yonggungsa-temple-history-v2.webp"
+},
     description: {
       de: "Einer der wenigen Tempel in Korea, der direkt an der Küste liegt. Er bietet einen atemberaubenden Blick auf den Ozean und ist dem Bodhisattva des Mitgefühls gewidmet.",
       hu: "Egyike azon kevés koreai templomoknak, amelyek közvetlenül a tengerparton fekszenek. Lenyűgöző óceáni kilátást nyújt, és az együttérzés bódhiszattvájának szentelték.",
@@ -242,8 +252,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Gefängnis Seodaemun",
       hu: "Szodemun börtön",
       ro: "Închisoarea Seodaemun",
-      en: "Seodaemun Prison"
-    },
+      en: "Seodaemun Prison",
+image: "/poi-images/seodaemun-prison-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliges Gefängnis, das während der japanischen Kolonialzeit erbaut wurde. Heute ist es ein Museum, das an die koreanischen Unabhängigkeitsaktivisten erinnert.",
       hu: "A japán gyarmati időszak alatt épült egykori börtön. Ma múzeumként emlékezik meg a koreai függetlenségi aktivistákról.",
@@ -265,8 +276,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Unabhängigkeitshalle von Korea",
       hu: "Koreai Függetlenségi Csarnok",
       ro: "Sala Independenței din Coreea",
-      en: "Independence Hall of Korea"
-    },
+      en: "Independence Hall of Korea",
+image: "/poi-images/independence-hall-korea-history-v2.webp"
+},
     description: {
       de: "Ein riesiger Komplex, der der koreanischen Unabhängigkeitsbewegung gegen die japanische Herrschaft gewidmet ist. Er beherbergt zahlreiche Ausstellungshallen und Denkmäler.",
       hu: "Hatalmas komplexum, amelyet a japán uralom elleni koreai függetlenségi mozgalomnak szenteltek. Számos kiállítóteremnek és emlékműnek ad otthont.",
@@ -288,8 +300,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Mireuksa-Tempelstätte",
       hu: "Miruksza templomrom",
       ro: "Situl Templului Mireuksa",
-      en: "Mireuksa Temple Site"
-    },
+      en: "Mireuksa Temple Site",
+image: "/poi-images/mireuksa-temple-site-history-v2.webp"
+},
     description: {
       de: "Die Ruinen des größten buddhistischen Tempels des alten Baekje-Königreichs. Berühmt für seine massive Steinpagode, die älteste und größte in Korea.",
       hu: "Az ősi Pekcse királyság legnagyobb buddhista templomának romjai. Híres hatalmas kőpagodájáról, amely a legrégebbi és legnagyobb Koreában.",
@@ -312,8 +325,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Königsgräber der Joseon-Dynastie",
       hu: "A Csoszon-dinasztia királyi sírjai",
       ro: "Mormintele Regale ale Dinastiei Joseon",
-      en: "Royal Tombs of the Joseon Dynasty"
-    },
+      en: "Royal Tombs of the Joseon Dynasty",
+image: "/poi-images/royal-tombs-joseon-dynasty-history-v2.webp"
+},
     description: {
       de: "Eine Sammlung von über 40 Gräbern, die über 18 Standorte verstreut sind und den Königen, Königinnen und geehrten Mitgliedern der Joseon-Dynastie gewidmet sind.",
       hu: "Több mint 40 sírból álló gyűjtemény, amely 18 helyszínen szétszórva található, és a Csoszon-dinasztia királyainak, királynőinek és megbecsült tagjainak van szentelve.",
@@ -335,8 +349,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Volksdorf Naganeupseong",
       hu: "Naganeupszeong népi falu",
       ro: "Satul Popular Naganeupseong",
-      en: "Naganeupseong Folk Village"
-    },
+      en: "Naganeupseong Folk Village",
+image: "/poi-images/naganeupseong-folk-village-history-v2.webp"
+},
     description: {
       de: "Eine gut erhaltene Festungsstadt aus der Joseon-Dynastie. Im Gegensatz zu anderen Volksdörfern leben hier heute noch Bewohner.",
       hu: "Jól megőrzött erődváros a Csoszon-dinasztia idejéből. Más népi falvakkal ellentétben itt ma is laknak lakosok.",
@@ -358,8 +373,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Cheomseongdae-Observatorium",
       hu: "Cshomszongde obszervatórium",
       ro: "Observatorul Cheomseongdae",
-      en: "Cheomseongdae Observatory"
-    },
+      en: "Cheomseongdae Observatory",
+image: "/poi-images/cheomseongdae-observatory-history-v2.webp"
+},
     description: {
       de: "Das älteste erhaltene astronomische Observatorium in Ostasien. Es wurde im 7. Jahrhundert während des Silla-Königreichs in Gyeongju erbaut.",
       hu: "Kelet-Ázsia legrégebbi fennmaradt csillagászati obszervatóriuma. A 7. században épült a Silla királyság idején Kjongdzsuban.",
@@ -381,8 +397,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Nachbau des Schildkrötenschiffs (Geobukseon)",
       hu: "Teknőshajó másolat (Geobukseon)",
       ro: "Replica Navei Țestoasă (Geobukseon)",
-      en: "Turtle Ship (Geobukseon) Replica"
-    },
+      en: "Turtle Ship (Geobukseon) Replica",
+image: "/poi-images/turtle-ship-replica-history-v2.webp"
+},
     description: {
       de: "Ein Nachbau des berühmten Kriegsschiffs, das von Admiral Yi Sun-sin während der Imjin-Kriege im 16. Jahrhundert eingesetzt wurde. Man findet sie in Städten wie Yeosu.",
       hu: "A híres hadihajó másolata, amelyet Yi Sun-sin admirális használt a 16. századi Imjin-háborúk során. Olyan városokban található, mint Joszu.",
@@ -404,8 +421,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Schlachtfeld von Myeongnyang",
       hu: "A myeongnyangi csata helyszíne",
       ro: "Locul Bătăliei de la Myeongnyang",
-      en: "Battle of Myeongnyang Site"
-    },
+      en: "Battle of Myeongnyang Site",
+image: "/poi-images/battle-of-myeongnyang-site-history-v2.webp"
+},
     description: {
       de: "Die Meerenge, in der Admiral Yi Sun-sin 1597 mit nur 13 Schiffen einen wundersamen Sieg gegen eine japanische Flotte von über 130 Schiffen errang.",
       hu: "A tengerszoros, ahol Yi Sun-sin admirális 1597-ben mindössze 13 hajóval csodálatos győzelmet aratott egy több mint 130 hajóból álló japán flotta felett.",
@@ -427,8 +445,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Goryeo-Seladon-Museum",
       hu: "Korjo Seladon Múzeum",
       ro: "Muzeul Celadonului Goryeo",
-      en: "Goryeo Celadon Museum"
-    },
+      en: "Goryeo Celadon Museum",
+image: "/poi-images/goryeo-celadon-museum-history-v2.webp"
+},
     description: {
       de: "Das in Gangjin gelegene Museum ist der exquisiten Seladon-Keramik der Goryeo-Dynastie gewidmet. Gangjin war ein Hauptproduktionszentrum für diese Töpferwaren.",
       hu: "A Gangjinban található múzeum a Korjo-dinasztia kiváló szeladon kerámiáinak van szentelve. Gangjin volt ezen kerámiák egyik fő gyártóközpontja.",
@@ -450,8 +469,9 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       de: "Insel Hansan",
       hu: "Hansan-sziget",
       ro: "Insula Hansan",
-      en: "Hansan Island"
-    },
+      en: "Hansan Island",
+image: "/poi-images/hansan-island-history-v2.webp"
+},
     description: {
       de: "Der Ort der berühmten Schlacht von Hansan im Jahr 1592, bei der Admiral Yi Sun-sins Flotte eine 'Kranichflügel'-Formation einsetzte, um die japanische Marine entscheidend zu besiegen.",
       hu: "A híres hansani csata helyszíne 1592-ben, ahol Yi Sun-sin admirális flottája a 'daruszárny' formációt alkalmazva döntő győzelmet aratott a japán haditengerészet felett.",

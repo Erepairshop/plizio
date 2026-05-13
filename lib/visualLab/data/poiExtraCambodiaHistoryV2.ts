@@ -10,8 +10,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Angkor Wat",
       hu: "Angkorvat",
       ro: "Angkor Wat",
-      en: "Angkor Wat"
-    },
+      en: "Angkor Wat",
+image: "/poi-images/angkor-wat-history-v2.webp"
+},
     description: {
       de: "Der größte religiöse Denkmalkomplex der Welt und das Nationalsymbol Kambodschas, ursprünglich als hinduistischer Tempel erbaut.",
       hu: "A világ legnagyobb vallási épületegyüttese és Kambodzsa nemzeti szimbóluma, melyet eredetileg hindu templomként építettek.",
@@ -33,8 +34,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Bayon-Tempel",
       hu: "Bayon-templom",
       ro: "Templul Bayon",
-      en: "Bayon Temple"
-    },
+      en: "Bayon Temple",
+image: "/poi-images/bayon-temple-history-v2.webp"
+},
     description: {
       de: "Ein buddhistischer Tempel in Angkor Thom, berühmt für seine massiven Steingesichter, die in verschiedene Richtungen blicken.",
       hu: "Buddhista templom Angkor Thomban, amely híres a különböző irányokba néző hatalmas kőarcairól.",
@@ -56,8 +58,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Ta Prohm",
       hu: "Ta Prohm",
       ro: "Ta Prohm",
-      en: "Ta Prohm"
-    },
+      en: "Ta Prohm",
+image: "/poi-images/ta-prohm-history-v2.webp"
+},
     description: {
       de: "Ta Prohm ist ein Tempel im Angkor-Komplex, der wegen seiner von Bäumen überwachsenen Mauern bekannt ist. Die Anlage zeigt besonders gut, wie Architektur und Dschungel hier ineinandergreifen.",
       hu: "A Ta Prohm az angkori templomok egyik legismertebb romja, amelyet a fák gyökerei szinte teljesen benőttek. Jayavarman VII idején épült, és különösen erős dzsungelhangulata miatt emlékezetes.",
@@ -79,8 +82,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Banteay Srei",
       hu: "Banteay Srei",
       ro: "Banteay Srei",
-      en: "Banteay Srei"
-    },
+      en: "Banteay Srei",
+image: "/poi-images/banteay-srei-history-v2.webp"
+},
     description: {
       de: "Ein hinduistischer Tempel aus rotem Sandstein, der für seine äußerst feinen und aufwendigen Schnitzereien berühmt ist.",
       hu: "Vörös homokkőből épült hindu templom, amely rendkívül finom és kidolgozott faragványairól híres.",
@@ -102,8 +106,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Preah Khan",
       hu: "Preah Khan",
       ro: "Preah Khan",
-      en: "Preah Khan"
-    },
+      en: "Preah Khan",
+image: "/poi-images/preah-khan-history-v2.webp"
+},
     description: {
       de: "Preah Khan ist ein großer Tempelkomplex in Angkor, der einst als Kloster und Lernort diente. Heute gehört er zu den wichtigsten Ruinen der Anlage.",
       hu: "A Preah Khan egy nagy angkori templomkomplexum, amely egykor vallási központ és tanulóhely is volt. A romjai ma is jól mutatják a Khmer Birodalom méretét és szervezettségét.",
@@ -125,8 +130,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Tuol-Sleng-Genozid-Museum",
       hu: "Tuol Sleng Népirtás Múzeum",
       ro: "Muzeul Genocidului Tuol Sleng",
-      en: "Tuol Sleng Genocide Museum"
-    },
+      en: "Tuol Sleng Genocide Museum",
+image: "/poi-images/tuol-sleng-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliges Gefängnis der Roten Khmer, das heute als Gedenkstätte und Museum an die Opfer des Genozids erinnert.",
       hu: "A Vörös Khmer egykori börtöne, amely ma emlékhelyként és múzeumként őrzi a népirtás áldozatainak emlékét.",
@@ -148,8 +154,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Choeung Ek",
       hu: "Choeung Ek",
       ro: "Choeung Ek",
-      en: "Choeung Ek"
-    },
+      en: "Choeung Ek",
+image: "/poi-images/choeung-ek-history-v2.webp"
+},
     description: {
       de: "Die bekannteste der sogenannten \"Killing Fields\", wo ein Denkmal aus Tausenden von menschlichen Schädeln an die Ermordeten erinnert.",
       hu: "A legismertebb a \"Gyilkos mezők\" közül, ahol emberi koponyák ezreiből épült emlékmű állít emléket az áldozatoknak.",
@@ -171,8 +178,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Unabhängigkeitsdenkmal",
       hu: "Függetlenségi Emlékmű",
       ro: "Monumentul Independenței",
-      en: "Independence Monument"
-    },
+      en: "Independence Monument",
+image: "/poi-images/independence-monument-kh-history-v2.webp"
+},
     description: {
       de: "Ein lotusförmiges Monument in Phnom Penh, das an die Unabhängigkeit von Frankreich im Jahr 1953 erinnert.",
       hu: "A Függetlenségi Emlékmű Phnompen központi jelképe, amely Kambodzsa francia uralom alóli függetlenségét idézi fel. Lótusz formája a modern fővárosi építészet egyik legismertebb példája.",
@@ -194,8 +202,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Königspalast von Phnom Penh",
       hu: "Királyi Palota (Phnompen)",
       ro: "Palatul Regal din Phnom Penh",
-      en: "Royal Palace of Cambodia"
-    },
+      en: "Royal Palace of Cambodia",
+image: "/poi-images/royal-palace-kh-history-v2.webp"
+},
     description: {
       de: "Der königliche Residenzkomplex mit klassischen Khmer-Dächern und kunstvollen Verzierungen, einschließlich der berühmten Silberpagode.",
       hu: "A királyi rezidenciakomplexum klasszikus khmer tetőszerkezettel és díszes motívumokkal, köztük az ikonikus Ezüst Pagodával.",
@@ -217,8 +226,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Wat Phnom",
       hu: "Wat Phnom",
       ro: "Wat Phnom",
-      en: "Wat Phnom"
-    },
+      en: "Wat Phnom",
+image: "/poi-images/wat-phnom-history-v2.webp"
+},
     description: {
       de: "Ein buddhistischer Tempel auf dem einzigen Hügel der Stadt, welcher der Hauptstadt Phnom Penh ihren Namen gab.",
       hu: "Buddhista templom a város egyetlen dombján, amelyről a főváros, Phnompen a nevét kapta.",
@@ -240,8 +250,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Koh Ker",
       hu: "Koh Ker",
       ro: "Koh Ker",
-      en: "Koh Ker"
-    },
+      en: "Koh Ker",
+image: "/poi-images/koh-ker-history-v2.webp"
+},
     description: {
       de: "Eine verlassene Stadt im Dschungel und ehemalige Hauptstadt des Khmer-Reiches, dominiert von einer riesigen Stufenpyramide.",
       hu: "Elhagyatott dzsungelváros és a Khmer Birodalom egykori fővárosa, amelyet egy hatalmas lépcsős piramis ural.",
@@ -263,8 +274,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Tempel Preah Vihear",
       hu: "Preah Vihear-templom",
       ro: "Templul Preah Vihear",
-      en: "Preah Vihear Temple"
-    },
+      en: "Preah Vihear Temple",
+image: "/poi-images/preah-vihear-history-v2.webp"
+},
     description: {
       de: "Ein majestätischer hinduistischer Tempelkomplex spektakulär auf einer Klippe des Dangrek-Gebirges an der Grenze zu Thailand gelegen.",
       hu: "Fenséges hindu templomkomplexum látványos helyen, a Dangrek-hegység egyik szirtjén, a thaiföldi határ mentén.",
@@ -286,8 +298,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Sambor Prei Kuk",
       hu: "Sambor Prei Kuk",
       ro: "Sambor Prei Kuk",
-      en: "Sambor Prei Kuk"
-    },
+      en: "Sambor Prei Kuk",
+image: "/poi-images/sambor-prei-kuk-history-v2.webp"
+},
     description: {
       de: "Archäologische Stätte und ehemalige Hauptstadt des Chenla-Reiches, berühmt für die ältesten Tempelanlagen Kambodschas.",
       hu: "Régészeti lelőhely és a Csenla Királyság egykori fővárosa, amely Kambodzsa legrégebbi templomépületeiről híres.",
@@ -309,8 +322,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Banteay Chhmar",
       hu: "Banteay Chhmar",
       ro: "Banteay Chhmar",
-      en: "Banteay Chhmar"
-    },
+      en: "Banteay Chhmar",
+image: "/poi-images/banteay-chhmar-history-v2.webp"
+},
     description: {
       de: "Ein monumentaler, abgelegener Tempelkomplex mit detailreichen Reliefs, der im dichten Dschungel versteckt liegt.",
       hu: "Kiterjedt, távoli templomkomplexum részletgazdag domborművekkel, amely a sűrű dzsungel mélyén bújik meg.",
@@ -332,8 +346,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Beng Mealea",
       hu: "Beng Mealea",
       ro: "Beng Mealea",
-      en: "Beng Mealea"
-    },
+      en: "Beng Mealea",
+image: "/poi-images/beng-mealea-history-v2.webp"
+},
     description: {
       de: "Ein teilweise eingestürzter, kaum restaurierter Tempel, der von der umgebenden Natur und Baumwurzeln regelrecht verschluckt wird.",
       hu: "Részben beomlott, alig restaurált templom, amelyet szinte teljesen elnyelt a környező természet és a gyökérzet.",
@@ -355,8 +370,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Roluos-Gruppe (Bakong)",
       hu: "Roluos-csoport (Bakong)",
       ro: "Grupul Roluos (Bakong)",
-      en: "Roluos Group (Bakong)"
-    },
+      en: "Roluos Group (Bakong)",
+image: "/poi-images/roluos-bakong-history-v2.webp"
+},
     description: {
       de: "Einige der frühesten permanenten Tempelanlagen des Khmer-Reiches, wobei Bakong die erste bedeutende Bergtempel-Architektur aufweist.",
       hu: "A Khmer Birodalom legkorábbi kőből épült templomai, melyek közül a Bakong az első jelentős hegytemplom-építészeti alkotás.",
@@ -378,8 +394,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Phnom Chisor",
       hu: "Phnom Chisor",
       ro: "Phnom Chisor",
-      en: "Phnom Chisor"
-    },
+      en: "Phnom Chisor",
+image: "/poi-images/phnom-chisor-history-v2.webp"
+},
     description: {
       de: "Ein alter Brahmanen-Tempel auf einem Hügel in der Provinz Takeo, der eine herrliche Aussicht auf die umgebenden Reisfelder bietet.",
       hu: "Ősi brahman templom egy dombtetőn Takeo tartományban, ahonnan csodálatos kilátás nyílik a környező rizsföldekre.",
@@ -401,8 +418,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Ta Som",
       hu: "Ta Som",
       ro: "Ta Som",
-      en: "Ta Som"
-    },
+      en: "Ta Som",
+image: "/poi-images/ta-som-history-v2.webp"
+},
     description: {
       de: "Ein kleiner buddhistischer Tempel, dessen östlicher Eingang von den massiven Wurzeln eines heiligen Feigenbaums umschlungen ist.",
       hu: "Kisméretű buddhista templom, amelynek keleti bejáratát egy szent fügefa hatalmas gyökerei fonják körbe.",
@@ -424,8 +442,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Neak Pean",
       hu: "Neak Pean",
       ro: "Neak Pean",
-      en: "Neak Pean"
-    },
+      en: "Neak Pean",
+image: "/poi-images/neak-pean-history-v2.webp"
+},
     description: {
       de: "Neak Pean ist ein kleiner Tempel auf einer künstlichen Insel in Angkor. Der Ort war mit Wasser und ritueller Reinigung verbunden.",
       hu: "A Neak Pean egy mesterséges szigeten álló kis angkori templom, amely egykor rituális tisztuláshoz kapcsolódhatott. Kerek vízfelülete és különleges elhelyezése miatt könnyen felismerhető.",
@@ -447,8 +466,9 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       de: "Wat Ek Phnom",
       hu: "Wat Ek Phnom",
       ro: "Wat Ek Phnom",
-      en: "Wat Ek Phnom"
-    },
+      en: "Wat Ek Phnom",
+image: "/poi-images/wat-ek-phnom-history-v2.webp"
+},
     description: {
       de: "Eine stimmungsvolle, teilweise eingestürzte Tempelanlage aus dem 11. Jahrhundert, neben der eine moderne weiße Buddha-Statue thront.",
       hu: "Hangulatos, részben beomlott 11. századi templomrom, amely mellett egy modern, fehér Buddha-szobor magasodik.",

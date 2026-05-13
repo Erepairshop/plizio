@@ -4,7 +4,9 @@ export const ukraineEconomicV2: POI[] = [
   {
     id: "ukraine-unit-city-economic-v2",
     type: "industry",
-    name: { de: "UNIT.City Innovationspark", hu: "UNIT.City Innovációs Park", ro: "Parcul de Inovare UNIT.City", en: "UNIT.City Innovation Park" },
+    name: { de: "UNIT.City Innovationspark", hu: "UNIT.City Innovációs Park", ro: "Parcul de Inovare UNIT.City", en: "UNIT.City Innovation Park",
+image: "/poi-images/ukraine-unit-city-economic-v2.webp"
+},
     coords: [30.462, 50.468],
     coordinates: { lat: 50.468, lng: 30.462 },
     description: {
@@ -20,11 +22,25 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Opened in 2017", "Houses over 100 companies", "Site of the UNIT Factory IT school", "Area of approximately 25 hectares"],
     },
     imageHint: "Modern office buildings in UNIT.City Kyiv",
+    descriptionAdvanced: {
+      de: "Dieser erste Innovationspark der Ukraine in Kiew fungiert als zentrales Ökosystem für IT-Unternehmen und Start-ups auf einer Fläche von 25 Hektar.",
+      hu: "Ukrajna első innovációs parkja Kijevben található, 25 hektáron kínál modern ökoszisztémát IT-cégeknek, startupoknak és oktatási központoknak.",
+      ro: "Primul parc de inovare din Ucraina, situat în Kiev, funcționează ca un ecosistem central pentru companii IT și startup-uri pe o suprafață de 25 ha.",
+      en: "Ukraine's first innovation park in Kyiv serves as a central ecosystem for IT companies and startups across a massive 25-hectare urban site.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 2017", "Über 100 ansässige Firmen", "Zentrum für IT-Ausbildung", "Fläche von 25 Hektar"],
+      hu: ["2017-ben nyitották meg", "Több mint 100 betelepült cég", "IT-oktatási központ", "25 hektáros terület"],
+      ro: ["Deschis în anul 2017", "Peste 100 de companii rezidente", "Centru de educație IT", "Suprafață de 25 de hectare"],
+      en: ["Opened in 2017", "Over 100 resident companies", "Center for IT education", "25-hectare total area"],
+    },
   },
   {
     id: "ukraine-dnieper-hydroelectric-economic-v2",
     type: "industry",
-    name: { de: "DniproHES Wasserkraftwerk", hu: "DnyiproHESZ vízerőmű", ro: "Hidrocentrala Nipru", en: "Dnieper Hydroelectric Station" },
+    name: { de: "DniproHES Wasserkraftwerk", hu: "DnyiproHESZ vízerőmű", ro: "Hidrocentrala Nipru", en: "Dnieper Hydroelectric Station",
+image: "/poi-images/ukraine-dnieper-hydroelectric-economic-v2.webp"
+},
     coords: [35.081, 47.868],
     coordinates: { lat: 47.868, lng: 35.081 },
     description: {
@@ -39,11 +55,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Construită între 1927 și 1932", "Capacitate instalată de 1569 MW", "Barajul are o lungime de 800 de metri", "Distrusă în Al Doilea Război Mondial și reconstruită"],
       en: ["Built between 1927 and 1932", "Installed capacity of 1,569 MW", "Dam length is 800 meters", "Destroyed during WWII and later rebuilt"],
     },
-    imageHint: "Dnieper Hydroelectric Station dam in Zaporizhzhia", image: "/poi-images/ukraine-dnieper-hydroelectric-economic-v2.webp"},
-  {
+imageHint: "Dnieper Hydroelectric Station dam in Zaporizhzhia",
+    descriptionAdvanced: {
+      de: "Das DniproHES in Saporischschja ist das älteste und größte Wasserkraftwerk am Dnipro und ein Symbol der sowjetischen Industrialisierung der 1930er Jahre.",
+      hu: "A Zaporizzsjában található DnyiproHESZ a Dnyeper legrégebbi és legnagyobb vízerőműve, az 1930-as évek szovjet iparosításának jelképe.",
+      ro: "Stația DniproHES din Zaporojie este cea mai veche și mai mare hidrocentrală de pe Nipru, fiind un simbol al industrializării din anii 1930.",
+      en: "The DniproHES in Zaporizhzhia is the oldest and largest hydroelectric station on the Dnieper, symbolizing the massive industrialization of the 1930s.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 1927 bis 1932", "Leistung von 1569 MW", "Staudammlänge 800 Meter", "60 Meter Fallhöhe"],
+      hu: ["1927 és 1932 között épült", "1569 MW összteljesítmény", "800 méter gáthosszúság", "60 méteres esésmagasság"],
+      ro: ["Construită între 1927-1932", "Capacitate de 1569 MW", "Lungime baraj 800 metri", "Cădere de apă de 60 metri"],
+      en: ["Built between 1927-1932", "1569 MW capacity", "Dam length of 800 meters", "Water drop of 60 meters"],
+    },
+    image: "/poi-images/ukraine-dnieper-hydroelectric-economic-v2.webp",
+},  {
     id: "ukraine-arcelormittal-kryvyi-rih-economic-v2",
     type: "factory",
-    name: { de: "ArcelorMittal Krywyj Rih", hu: "ArcelorMittal Krivij Rih", ro: "ArcelorMittal Krivoi Rog", en: "ArcelorMittal Kryvyi Rih" },
+    name: { de: "ArcelorMittal Krywyj Rih", hu: "ArcelorMittal Krivij Rih", ro: "ArcelorMittal Krivoi Rog", en: "ArcelorMittal Kryvyi Rih",
+image: "/poi-images/ukraine-arcelormittal-kryvyi-rih-economic-v2.webp"
+},
     coords: [33.398, 47.876],
     coordinates: { lat: 47.876, lng: 33.398 },
     description: {
@@ -59,11 +90,25 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Founded in 1934 as Kryvorizhstal", "Privatized in 2005", "Employs over 20,000 workers", "Produces millions of tons of steel annually"],
     },
     imageHint: "Industrial skyline of ArcelorMittal steel plant in Kryvyi Rih",
+    descriptionAdvanced: {
+      de: "Dieses integrierte Stahlwerk in Krywyj Rih ist der größte Stahlproduzent der Ukraine und gehört zum globalen ArcelorMittal-Konzern.",
+      hu: "Ez a Krivij Rih-i integrált acélmű Ukrajna legnagyobb acéltermelője, amely a globális ArcelorMittal vállalatcsoport tagja.",
+      ro: "Această oțelărie integrată din Krivoi Rog este cel mai mare producător de oțel din Ucraina, parte a grupului global ArcelorMittal.",
+      en: "This integrated steel plant in Kryvyi Rih is Ukraine's largest steel producer, operating as part of the global ArcelorMittal corporation.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1934", "Über 20.000 Mitarbeiter", "Eigener Eisenerzabbau", "Export in über 160 Länder"],
+      hu: ["1934-ben alapították", "Több mint 20 000 alkalmazott", "Saját vasércbányászat", "Export 160+ országba"],
+      ro: ["Fondată în anul 1934", "Peste 20.000 de angajați", "Mină proprie de fier", "Export în peste 160 de țări"],
+      en: ["Founded in 1934", "Over 20,000 employees", "Own iron ore mining", "Exports to over 160 countries"],
+    },
   },
   {
     id: "ukraine-port-odesa-economic-v2",
     type: "port",
-    name: { de: "Hafen von Odesa", hu: "Odessa kikötője", ro: "Portul Odesa", en: "Port of Odesa" },
+    name: { de: "Hafen von Odesa", hu: "Odessa kikötője", ro: "Portul Odesa", en: "Port of Odesa",
+image: "/poi-images/ukraine-port-odesa-economic-v2.webp"
+},
     coords: [30.739, 46.495],
     coordinates: { lat: 46.495, lng: 30.739 },
     description: {
@@ -78,11 +123,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1794", "Dispune de 54 de dane", "Cel mai important port pentru exportul de cereale", "Capacitate de manipulare de peste 40 de milioane de tone"],
       en: ["Founded in 1794", "Has 54 berths", "Most important port for grain exports", "Handling capacity of over 40 million tons"],
     },
-    imageHint: "Cranes and container ships at the Port of Odesa", image: "/poi-images/ukraine-port-odesa-economic-v2.webp"},
-  {
+imageHint: "Cranes and container ships at the Port of Odesa",
+    descriptionAdvanced: {
+      de: "Der Hafen von Odessa ist der wichtigste Seehafen der Ukraine und ein zentraler Knotenpunkt für den Getreideexport und den Containerumschlag.",
+      hu: "Odessza kikötője Ukrajna legfontosabb tengeri kikötője, a gabonaexport és a konténerforgalom központi csomópontja a Fekete-tengeren.",
+      ro: "Portul Odesa este cel mai important port maritim al Ucrainei, fiind un nod central pentru exportul de cereale și traficul de containere.",
+      en: "The Port of Odesa is Ukraine's primary seaport and a critical hub for global grain exports and regional container shipping operations.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1794", "54 Liegeplätze für Schiffe", "Umschlag von 40 Mio. Tonnen", "Passagierterminal vorhanden"],
+      hu: ["1794-ben alapították", "54 horgonyzóhely", "40 millió tonna forgalom", "Saját utasterminállal rendelkezik"],
+      ro: ["Fondat în anul 1794", "54 de dane pentru nave", "Capacitate 40 mil. tone", "Terminal de pasageri inclus"],
+      en: ["Founded in 1794", "54 berths for vessels", "40 million tons turnover", "Includes passenger terminal"],
+    },
+    image: "/poi-images/ukraine-port-odesa-economic-v2.webp",
+},  {
     id: "ukraine-kremenchuk-refinery-economic-v2",
     type: "factory",
-    name: { de: "Erdölraffinerie Krementschuk", hu: "Kremencsuki olajfinomító", ro: "Rafinăria Kremenciuk", en: "Kremenchuk Oil Refinery" },
+    name: { de: "Erdölraffinerie Krementschuk", hu: "Kremencsuki olajfinomító", ro: "Rafinăria Kremenciuk", en: "Kremenchuk Oil Refinery",
+image: "/poi-images/ukraine-kremenchuk-refinery-economic-v2.webp"
+},
     coords: [33.483, 49.167],
     coordinates: { lat: 49.167, lng: 33.483 },
     description: {
@@ -97,11 +157,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["În funcțiune din 1966", "Proprietatea Ukrtatnafta", "Capacitate de procesare de 18 milioane tone/an", "Situată pe malul stâng al Niprului"],
       en: ["Operating since 1966", "Owned by Ukrtatnafta", "Processing capacity of 18 million tons per year", "Located on the left bank of the Dnieper"],
     },
-    imageHint: "Industrial columns of the Kremenchuk oil refinery", image: "/poi-images/ukraine-kremenchuk-refinery-economic-v2.webp"},
-  {
+imageHint: "Industrial columns of the Kremenchuk oil refinery",
+    descriptionAdvanced: {
+      de: "Die Erdölraffinerie Krementschuk ist die größte ihrer Art in der Ukraine und spielt eine strategische Rolle bei der Kraftstoffversorgung des Landes.",
+      hu: "A kremencsuki olajfinomító Ukrajna legnagyobb ilyen létesítménye, amely stratégiai szerepet játszik az ország üzemanyag-ellátásában.",
+      ro: "Rafinăria de petrol Kremenciuk este cea mai mare de acest tip din Ucraina, jucând un rol strategic în aprovizionarea cu combustibil.",
+      en: "The Kremenchuk Oil Refinery is the largest of its kind in Ukraine, playing a strategic role in the nation's domestic fuel supply.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 1966", "Kapazität 18,6 Mio. Tonnen", "Eigentum von Ukrtatnafta", "Produziert Euro-5 Kraftstoffe"],
+      hu: ["1966-ban helyezték üzembe", "18,6 millió tonna kapacitás", "Az Ukrtatnafta tulajdona", "Euro-5 szabványú üzemanyag"],
+      ro: ["Pusă în funcțiune în 1966", "Capacitate 18,6 mil. tone", "Proprietate Ukrtatnafta", "Produce combustibili Euro-5"],
+      en: ["Commissioned in 1966", "18.6 million tons capacity", "Owned by Ukrtatnafta", "Produces Euro-5 fuels"],
+    },
+    image: "/poi-images/ukraine-kremenchuk-refinery-economic-v2.webp",
+},  {
     id: "ukraine-zaporizhzhia-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Saporischschja", hu: "Zaporizzsjai atomerőmű", ro: "Centrala nucleară Zaporojie", en: "Zaporizhzhia Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Saporischschja", hu: "Zaporizzsjai atomerőmű", ro: "Centrala nucleară Zaporojie", en: "Zaporizhzhia Nuclear Power Plant",
+image: "/poi-images/ukraine-zaporizhzhia-npp-economic-v2.webp"
+},
     coords: [34.586, 47.511],
     coordinates: { lat: 47.511, lng: 34.586 },
     description: {
@@ -116,11 +191,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 6 unități de reactoare", "Putere totală de 6000 MW", "Primul reactor a intrat în funcțiune în 1984", "Cea mai mare centrală electrică din Ucraina"],
       en: ["Has 6 reactor units", "Total capacity of 6,000 MW", "First reactor went online in 1984", "Largest power plant in Ukraine"],
     },
-    imageHint: "Six reactor domes of the Zaporizhzhia NPP", image: "/poi-images/ukraine-zaporizhzhia-npp-economic-v2.webp"},
-  {
+imageHint: "Six reactor domes of the Zaporizhzhia NPP",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Saporischschja ist mit sechs Reaktoren das größte Atomkraftwerk Europas und erzeugt einen Großteil des ukrainischen Stroms.",
+      hu: "A zaporizzsjai atomerőmű hat reaktorával Európa legnagyobbja, amely az ukrán villamosenergia-termelés jelentős részét adja.",
+      ro: "Centrala Nucleară Zaporojie este cea mai mare din Europa, având șase reactoare care generează o parte semnificativă din energia Ucrainei.",
+      en: "The Zaporizhzhia Nuclear Power Plant is Europe's largest, featuring six reactors that generate a massive portion of Ukraine's electricity.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung 6000 MW", "Baubeginn im Jahr 1980", "VVER-1000 Druckwasserreaktoren", "Nähe zur Stadt Enerhodar"],
+      hu: ["6000 MW beépített teljesítmény", "1980-ban kezdték építeni", "VVER-1000 típusú reaktorok", "Enerhodar városa mellett"],
+      ro: ["Capacitate de 6000 MW", "Construcție începută în 1980", "Reactoare tip VVER-1000", "Lângă orașul Enerhodar"],
+      en: ["6000 MW installed capacity", "Construction started in 1980", "VVER-1000 type reactors", "Located near Enerhodar"],
+    },
+    image: "/poi-images/ukraine-zaporizhzhia-npp-economic-v2.webp",
+},  {
     id: "ukraine-motor-sich-zaporizhzhia-economic-v2",
     type: "factory",
-    name: { de: "Motor Sitsch Werk", hu: "Motor Szics gyár", ro: "Fabrica Motor Sici", en: "Motor Sich Plant" },
+    name: { de: "Motor Sitsch Werk", hu: "Motor Szics gyár", ro: "Fabrica Motor Sici", en: "Motor Sich Plant",
+image: "/poi-images/ukraine-motor-sich-zaporizhzhia-economic-v2.webp"
+},
     coords: [35.21, 47.822],
     coordinates: { lat: 47.822, lng: 35.21 },
     description: {
@@ -136,11 +226,25 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Founded in 1907", "Produces engines for Antonov aircraft", "Employs tens of thousands of specialists", "One of the largest companies in the region"],
     },
     imageHint: "Aircraft engine manufacturing hall at Motor Sich",
+    descriptionAdvanced: {
+      de: "Motor Sich in Saporischschja gehört zu den weltweit führenden Herstellern von Triebwerken für Flugzeuge und Hubschrauber.",
+      hu: "A zaporizzsjai Motor Szics a világ egyik vezető vállalata a repülőgép- és helikopter-hajtóművek tervezése és gyártása terén.",
+      ro: "Motor Sich din Zaporojie se numără printre liderii mondiali în fabricarea motoarelor pentru aeronave și elicoptere.",
+      en: "Motor Sich in Zaporizhzhia is among the world's leading manufacturers of engines for various aircraft and helicopter models.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1907", "Triebwerke für die An-225", "Export in über 100 Länder", "Über 20.000 Angestellte"],
+      hu: ["1907-ben alapították", "Hajtóművek az An-225-höz", "Export 100+ országba", "Több mint 20 000 dolgozó"],
+      ro: ["Fondată în anul 1907", "Motoare pentru An-225", "Export în peste 100 de țări", "Peste 20.000 de angajați"],
+      en: ["Founded in 1907", "Engines for the An-225", "Exports to 100+ countries", "Over 20,000 employees"],
+    },
   },
   {
     id: "ukraine-yuzhmash-dnipro-economic-v2",
     type: "factory",
-    name: { de: "Juschmasch Maschinenfabrik", hu: "Juzsmmas gépgyár", ro: "Uzina de mașini Iujmaș", en: "Yuzhmash Machine Plant" },
+    name: { de: "Juschmasch Maschinenfabrik", hu: "Juzsmmas gépgyár", ro: "Uzina de mașini Iujmaș", en: "Yuzhmash Machine Plant",
+image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp"
+},
     coords: [35.003, 48.435],
     coordinates: { lat: 48.435, lng: 35.003 },
     description: {
@@ -155,11 +259,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondată în anul 1944", "A produs rachetele purtătoare Zenit", "Fabrică și tractoare și troleibuze", "Oficial: Uzina de Mașini din Sud"],
       en: ["Founded in 1944", "Produced the Zenit carrier rockets", "Also manufactures tractors and trolleybuses", "Officially: Southern Machine-Building Plant"],
     },
-    imageHint: "Large rocket components inside Yuzhmash factory", image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp"},
-  {
+imageHint: "Large rocket components inside Yuzhmash factory",
+    descriptionAdvanced: {
+      de: "Pivdenmash in Dnipro ist ein führendes Unternehmen der Luft- und Raumfahrtindustrie, bekannt für die Produktion von Raketen und Satelliten.",
+      hu: "A dnyiprói Pivdenmas egy vezető űripari vállalat, amely rakéták, műholdak és űrtechnológiai berendezések gyártásáról híres.",
+      ro: "Pivdenmash din Dnipro este o companie lider în industria aerospațială, cunoscută pentru producția de rachete și sateliți.",
+      en: "Pivdenmash in Dnipro is a leading aerospace manufacturer, world-renowned for producing rockets, satellites, and spacecraft components.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1944", "Hersteller der Zenit-Raketen", "Früher Top-Secret-Anlage", "Produktion von Oberleitungsbussen"],
+      hu: ["1944-ben alapították", "A Zenit rakéták gyártója", "Korábban szigorúan titkos", "Trolibuszokat is gyártanak"],
+      ro: ["Fondată în anul 1944", "Producător rachete Zenit", "Fostă unitate ultra-secretă", "Produce și troleibuze"],
+      en: ["Founded in 1944", "Manufacturer of Zenit rockets", "Formerly a top-secret site", "Also produces trolleybuses"],
+    },
+    image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp",
+},  {
     id: "ukraine-port-pivdennyi-economic-v2",
     type: "port",
-    name: { de: "Hafen Piwdennyj", hu: "Pivdennyij kikötő", ro: "Portul Pivdennîi", en: "Port Pivdennyi" },
+    name: { de: "Hafen Piwdennyj", hu: "Pivdennyij kikötő", ro: "Portul Pivdennîi", en: "Port Pivdennyi",
+image: "/poi-images/ukraine-port-pivdennyi-economic-v2.webp"
+},
     coords: [31.02, 46.618],
     coordinates: { lat: 46.618, lng: 31.02 },
     description: {
@@ -174,11 +293,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1978", "Adâncime maximă de 18-20 de metri", "Nume anterior: Portul Iujne", "Conectat direct cu Uzina Portuară Odesa"],
       en: ["Founded in 1978", "Maximum depth of 18-20 meters", "Former name: Port Yuzhny", "Connected directly to the Odesa Portside Plant"],
     },
-    imageHint: "Deep-water port terminal at Pivdennyi", image: "/poi-images/ukraine-port-pivdennyi-economic-v2.webp"},
-  {
+imageHint: "Deep-water port terminal at Pivdennyi",
+    descriptionAdvanced: {
+      de: "Der Hafen Piwdennyj bei Odessa ist der tiefste und umschlagstärkste Seehafen der Ukraine, spezialisiert auf Massengut wie Erz und Kohle.",
+      hu: "Az Odessza melletti Pivdennyij kikötő Ukrajna legmélyebb és legnagyobb forgalmú kikötője, amely főként érc és szén szállítására szakosodott.",
+      ro: "Portul Pivdennyi de lângă Odesa este cel mai adânc și mai tranzitat port maritim din Ucraina, specializat în mărfuri vrac.",
+      en: "Port Pivdennyi near Odesa is Ukraine's deepest and busiest seaport, specialized in handling bulk cargo like iron ore and coal.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe bis 18,5 Meter", "Gegründet im Jahr 1978", "Kapazität 47 Mio. Tonnen", "Anschluss an Gaspipeline"],
+      hu: ["18,5 méteres vízmélység", "1978-ban alapították", "47 millió tonna kapacitás", "Gázvezeték csatlakozás"],
+      ro: ["Adâncime de 18,5 metri", "Fondat în anul 1978", "Capacitate 47 mil. tone", "Conectat la gazoduct"],
+      en: ["Depth up to 18.5 meters", "Founded in 1978", "47 million tons capacity", "Connected to gas pipeline"],
+    },
+    image: "/poi-images/ukraine-port-pivdennyi-economic-v2.webp",
+},  {
     id: "ukraine-roshen-vinnytsia-economic-v2",
     type: "factory",
-    name: { de: "Roshen Süßwarenfabrik Winnyzja", hu: "Roshen édességgyár, Vinnyicja", ro: "Fabrica de dulciuri Roshen Vinnița", en: "Roshen Confectionery Factory Vinnytsia" },
+    name: { de: "Roshen Süßwarenfabrik Winnyzja", hu: "Roshen édességgyár, Vinnyicja", ro: "Fabrica de dulciuri Roshen Vinnița", en: "Roshen Confectionery Factory Vinnytsia",
+image: "/poi-images/ukraine-roshen-vinnytsia-economic-v2.webp"
+},
     coords: [28.49, 49.231],
     coordinates: { lat: 49.231, lng: 28.49 },
     description: {
@@ -194,11 +328,25 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Major employer in Vinnytsia", "Produces over 100 different products", "Integrated logistics centers on site", "The Roshen Fountain is located right in front of it"],
     },
     imageHint: "Modern Roshen factory building in Vinnytsia",
+    descriptionAdvanced: {
+      de: "Die Roshen-Fabrik in Winnyzja ist eine der modernsten Süßwarenfabriken Europas und produziert eine breite Palette an Schokoladen und Gebäck.",
+      hu: "A vinnicjai Roshen gyár Európa egyik legmodernebb édesipari üzeme, amely csokoládék és sütemények széles választékát gyártja.",
+      ro: "Fabrica Roshen din Vinița este una dintre cele mai moderne fabrici de dulciuri din Europa, producând o gamă largă de ciocolată.",
+      en: "The Roshen factory in Vinnytsia is among Europe's most modern confectionery plants, producing a wide range of premium chocolates.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Roshen-Konzerns", "Standort der Mulitmedia-Fontäne", "Export in die gesamte EU", "Produziert 600.000 Tonnen jährlich"],
+      hu: ["A Roshen csoport tagja", "Itt van a multimédiás szökőkút", "Export az egész EU-ba", "Évi 600 000 tonna termelés"],
+      ro: ["Parte a grupului Roshen", "Lângă fântâna multimedia", "Export în toată Uniunea Europeană", "Producție 600.000 tone anual"],
+      en: ["Part of the Roshen group", "Home to a multimedia fountain", "Exports to the entire EU", "Produces 600,000 tons annually"],
+    },
   },
   {
     id: "ukraine-nikopol-ferroalloy-economic-v2",
     type: "factory",
-    name: { de: "Ferrolegierungswerk Nikopol", hu: "Nikopoli ferroötvözet-gyár", ro: "Uzina de feroaliaje Nikopol", en: "Nikopol Ferroalloy Plant" },
+    name: { de: "Ferrolegierungswerk Nikopol", hu: "Nikopoli ferroötvözet-gyár", ro: "Uzina de feroaliaje Nikopol", en: "Nikopol Ferroalloy Plant",
+image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp"
+},
     coords: [34.331, 47.608],
     coordinates: { lat: 47.608, lng: 34.331 },
     description: {
@@ -213,11 +361,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["În funcțiune din 1966", "Cel mai mare producător de silicomangan", "Exportă în peste 50 de țări", "Folosește minereuri din regiunea Nikopol"],
       en: ["Operating since 1966", "Largest producer of silicomanganese", "Exports to over 50 countries", "Uses ores from the Nikopol region"],
     },
-    imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant", image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp"},
-  {
+imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
+    descriptionAdvanced: {
+      de: "Das Ferrolegierungswerk Nikopol ist einer der weltgrößten Produzenten von Manganlegierungen, die für die Stahlindustrie unverzichtbar sind.",
+      hu: "A nyikopoli ötvözetgyár a világ egyik legnagyobb mangánötvözet-előállítója, amely elengedhetetlen az acélgyártás számára.",
+      ro: "Uzina de feroaliaje din Nikopol este unul dintre cei mai mari producători mondiali de aliaje de mangan, esențiale pentru oțelării.",
+      en: "The Nikopol Ferroalloy Plant is one of the world's largest producers of manganese alloys, which are vital for the steel industry.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1966", "Größtes Werk in Europa", "Produziert Silicomangan", "Nutzt Strom aus Kernkraft"],
+      hu: ["1966-ban alapították", "Európa legnagyobb ilyen üzeme", "Szilikomangánt gyártanak", "Atomerőművi áramot használ"],
+      ro: ["Fondată în anul 1966", "Cea mai mare uzină din Europa", "Produce silicomangan", "Folosește energie nucleară"],
+      en: ["Founded in 1966", "Largest plant in Europe", "Produces silicomanganese", "Uses nuclear-generated power"],
+    },
+    image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp",
+},  {
     id: "ukraine-burshtyn-tpp-economic-v2",
     type: "industry",
-    name: { de: "Wärmekraftwerk Burschtyn", hu: "Bustyini hőerőmű", ro: "Termocentrala Burștîn", en: "Burshtyn Thermal Power Plant" },
+    name: { de: "Wärmekraftwerk Burschtyn", hu: "Bustyini hőerőmű", ro: "Termocentrala Burștîn", en: "Burshtyn Thermal Power Plant",
+image: "/poi-images/ukraine-burshtyn-tpp-economic-v2.webp"
+},
     coords: [24.665, 49.213],
     coordinates: { lat: 49.213, lng: 24.665 },
     description: {
@@ -232,11 +395,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Capacitate instalată de 2334 MW", "Dispune de 12 unități energetice", "Pusă în funcțiune în 1969", "Situată pe lacul de acumulare Burștîn"],
       en: ["Installed capacity of 2,334 MW", "Features 12 power units", "Commissioned in 1969", "Located by the Burshtyn Reservoir"],
     },
-    imageHint: "Chimneys and cooling towers of Burshtyn TPP", image: "/poi-images/ukraine-burshtyn-tpp-economic-v2.webp"},
-  {
+imageHint: "Chimneys and cooling towers of Burshtyn TPP",
+    descriptionAdvanced: {
+      de: "Das Wärmekraftwerk Burschtyn ist ein wichtiger Stromlieferant für die Westukraine und spielt eine Schlüsselrolle beim Energieexport in die EU.",
+      hu: "A burstini hőerőmű Nyugat-Ukrajna egyik fő áramforrása, és kulcsszerepet játszik az Európai Unióba irányuló áramexportban.",
+      ro: "Termocentrala Burshtyn este un furnizor major de energie pentru vestul Ucrainei și joacă un rol cheie în exportul de electricitate.",
+      en: "The Burshtyn Thermal Power Plant is a major electricity supplier for Western Ukraine and plays a key role in energy exports to the EU.",
+    },
+    factsAdvanced: {
+      de: ["Leistung von 2300 MW", "12 Energieblöcke", "Kaminhöhe bis 250 Meter", "Teil der Burschtyn-Insel"],
+      hu: ["2300 MW teljesítmény", "12 energiablokk", "250 méter magas kémények", "A burstini sziget része"],
+      ro: ["Capacitate de 2300 MW", "12 blocuri energetice", "Coșuri de fum de 250 metri", "Parte a Insulei Burshtyn"],
+      en: ["2300 MW capacity", "12 power blocks", "Chimneys up to 250m high", "Part of the Burshtyn Island"],
+    },
+    image: "/poi-images/ukraine-burshtyn-tpp-economic-v2.webp",
+},  {
     id: "ukraine-port-izmail-economic-v2",
     type: "port",
-    name: { de: "Hafen von Ismajil", hu: "Izmajil kikötője", ro: "Portul Ismail", en: "Port of Izmail" },
+    name: { de: "Hafen von Ismajil", hu: "Izmajil kikötője", ro: "Portul Ismail", en: "Port of Izmail",
+image: "/poi-images/ukraine-port-izmail-economic-v2.webp"
+},
     coords: [28.835, 45.335],
     coordinates: { lat: 45.335, lng: 28.835 },
     description: {
@@ -251,11 +429,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1813", "Specializat în minereu de fier și cărbune", "Port liber de gheață tot anul", "Conectează Ucraina cu Europa Centrală"],
       en: ["Founded in 1813", "Specializes in iron ore and coal", "Ice-free port all year round", "Connects Ukraine with Central Europe"],
     },
-    imageHint: "Barges and cranes on the Danube river in Izmail", image: "/poi-images/ukraine-port-izmail-economic-v2.webp"},
-  {
+imageHint: "Barges and cranes on the Danube river in Izmail",
+    descriptionAdvanced: {
+      de: "Der Hafen von Ismajil an der Donau ist der größte ukrainische Binnenhafen und ein wichtiges Tor für den Handel mit Mitteleuropa.",
+      hu: "Izmajil dunai kikötője Ukrajna legnagyobb folyami kikötője, amely fontos kapu a Közép-Európával folytatott kereskedelemben.",
+      ro: "Portul Ismail de pe Dunăre este cel mai mare port fluvial ucrainean și o poartă importantă pentru comerțul cu Europa Centrală.",
+      en: "The Port of Izmail on the Danube is Ukraine's largest river port and a vital gateway for trade with Central European countries.",
+    },
+    factsAdvanced: {
+      de: ["93 km von der Mündung", "Gegründet im Jahr 1813", "24 Liegeplätze vorhanden", "Umschlag von Eisenerz"],
+      hu: ["93 km-re a torkolattól", "1813-ban alapították", "24 horgonyzóhely", "Vasérc rakodási központ"],
+      ro: ["La 93 km de vărsare", "Fondat în anul 1813", "24 de dane operaționale", "Tranzitează minereu de fier"],
+      en: ["93 km from the river mouth", "Founded in 1813", "24 active berths", "Handles iron ore transshipment"],
+    },
+    image: "/poi-images/ukraine-port-izmail-economic-v2.webp",
+},  {
     id: "ukraine-khmelnytskyi-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Chmelnyzkyj", hu: "Hmelnyickiji atomerőmű", ro: "Centrala nucleară Hmelnîțkîi", en: "Khmelnytskyi Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Chmelnyzkyj", hu: "Hmelnyickiji atomerőmű", ro: "Centrala nucleară Hmelnîțkîi", en: "Khmelnytskyi Nuclear Power Plant",
+image: "/poi-images/ukraine-khmelnytskyi-npp-economic-v2.webp"
+},
     coords: [26.65, 50.301],
     coordinates: { lat: 50.301, lng: 26.65 },
     description: {
@@ -270,11 +463,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Putere totală de 2000 MW", "Punerea în funcțiune a unității 1 în 1987", "Alimentează vestul Ucrainei cu energie", "Locația planificată a reactoarelor 3 și 4"],
       en: ["Total capacity of 2,000 MW", "Unit 1 commissioned in 1987", "Supplies western Ukraine with power", "Site of planned units 3 and 4"],
     },
-    imageHint: "Reactor buildings and cooling pond of Khmelnytskyi NPP", image: "/poi-images/ukraine-khmelnytskyi-npp-economic-v2.webp"},
-  {
+imageHint: "Reactor buildings and cooling pond of Khmelnytskyi NPP",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Chmelnyzkyj in Netischyn betreibt zwei Reaktoren und ist ein wesentlicher Bestandteil des ukrainischen Energienetzes.",
+      hu: "A netiszinben található hmelnickiji atomerőmű két reaktorral működik, és az ukrán energiahálózat alapvető részét képezi.",
+      ro: "Centrala Nucleară Hmelnîțki din Netișîn operează două reactoare și este o componentă esențială a rețelei energetice ucrainene.",
+      en: "The Khmelnytskyi Nuclear Power Plant in Netishyn operates two reactors and is a vital component of the Ukrainian national power grid.",
+    },
+    factsAdvanced: {
+      de: ["Zwei 1000 MW Reaktoren", "Inbetriebnahme 1987", "Kühlturmhöhe 150 Meter", "Standort in Netischyn"],
+      hu: ["Két darab 1000 MW-os reaktor", "1987-ben indult az első blokk", "150 méter magas hűtőtorony", "Netiszin városában található"],
+      ro: ["Două reactoare de 1000 MW", "Pusă în funcțiune în 1987", "Turn de răcire de 150 metri", "Situată în orașul Netișîn"],
+      en: ["Two 1000 MW reactors", "Commissioned in 1987", "150m high cooling tower", "Located in Netishyn"],
+    },
+    image: "/poi-images/ukraine-khmelnytskyi-npp-economic-v2.webp",
+},  {
     id: "ukraine-rivne-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Riwne", hu: "Rivnei atomerőmű", ro: "Centrala nucleară Rivne", en: "Rivne Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Riwne", hu: "Rivnei atomerőmű", ro: "Centrala nucleară Rivne", en: "Rivne Nuclear Power Plant",
+image: "/poi-images/ukraine-rivne-npp-economic-v2.webp"
+},
     coords: [25.892, 51.328],
     coordinates: { lat: 51.328, lng: 25.892 },
     description: {
@@ -289,11 +497,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 4 unități de reactoare", "Putere totală de 2835 MW", "Construcția a început în 1973", "Respectă standardele internaționale moderne de siguranță"],
       en: ["Has 4 reactor units", "Total capacity of 2,835 MW", "Construction started in 1973", "Meets modern international safety standards"],
     },
-    imageHint: "View of the Rivne nuclear power plant in Varash", image: "/poi-images/ukraine-rivne-npp-economic-v2.webp"},
-  {
+imageHint: "View of the Rivne nuclear power plant in Varash",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Riwne war das erste in der Ukraine, das Reaktoren des Typs VVER-400 einsetzte, und versorgt heute die gesamte Nordwestregion.",
+      hu: "A rivnei atomerőmű volt az első Ukrajnában, amely VVER-400-as reaktorokat használt, és ma a teljes északnyugati régiót ellátja árammal.",
+      ro: "Centrala Nucleară Rivne a fost prima din Ucraina care a folosit reactoare VVER-400, alimentând întreaga regiune de nord-vest.",
+      en: "The Rivne Nuclear Power Plant was the first in Ukraine to utilize VVER-400 reactors and now powers the entire northwestern region.",
+    },
+    factsAdvanced: {
+      de: ["Vier Reaktoren in Betrieb", "Leistung von 2835 MW", "Baubeginn im Jahr 1973", "Standort in Warasch"],
+      hu: ["Négy reaktor üzemel", "2835 MW összteljesítmény", "1973-ban kezdték építeni", "Varas városában található"],
+      ro: ["Patru reactoare în funcțiune", "Capacitate de 2835 MW", "Construcție începută în 1973", "Situată în orașul Varaș"],
+      en: ["Four reactors in operation", "2835 MW total capacity", "Construction started in 1973", "Located in the town of Varash"],
+    },
+    image: "/poi-images/ukraine-rivne-npp-economic-v2.webp",
+},  {
     id: "ukraine-pavlohrad-coal-economic-v2",
     type: "mine",
-    name: { de: "Pavlohrad Kohlebergwerk", hu: "Pavlohrádi szénbánya", ro: "Mina de cărbune Pavlohrad", en: "Pavlohrad Coal Mine" },
+    name: { de: "Pavlohrad Kohlebergwerk", hu: "Pavlohrádi szénbánya", ro: "Mina de cărbune Pavlohrad", en: "Pavlohrad Coal Mine",
+image: "/poi-images/ukraine-pavlohrad-coal-economic-v2.webp"
+},
     coords: [35.917, 48.514],
     coordinates: { lat: 48.514, lng: 35.917 },
     description: {
@@ -308,11 +531,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Parte a grupului DTEK", "Principala zonă de extracție pentru cărbune gazos", "Are mii de mineri angajați", "Asigură producția de energie termoelectrică"],
       en: ["Part of the DTEK corporation", "Main extraction area for gas coal", "Employs thousands of miners", "Secures thermal power generation"],
     },
-    imageHint: "Mining tower and coal processing facility in Pavlohrad", image: "/poi-images/ukraine-pavlohrad-coal-economic-v2.webp"},
-  {
+imageHint: "Mining tower and coal processing facility in Pavlohrad",
+    descriptionAdvanced: {
+      de: "Das Kohlebergwerk Pawlohrad ist das größte Kohlefördergebiet der Ukraine und bildet das Rückgrat der thermischen Energieerzeugung des Landes.",
+      hu: "A pavlohradi szénbánya Ukrajna legnagyobb széntermelő vidéke, amely az ország hőenergia-termelésének gerincét adja.",
+      ro: "Mina de cărbune Pavlohrad este cea mai mare zonă carboniferă din Ucraina, constituind coloana vertebrală a energiei termice.",
+      en: "The Pavlohrad Coal Mine area is Ukraine's largest coal-producing region, serving as the backbone for the nation's thermal power generation.",
+    },
+    factsAdvanced: {
+      de: ["Teil des DTEK-Konzerns", "Förderung von Gaskohle", "10 aktive Bergwerke", "Über 25.000 Bergleute"],
+      hu: ["A DTEK vállalatcsoport tagja", "Gázszén kitermelése", "10 aktív bányaüzem", "Több mint 25 000 bányász"],
+      ro: ["Parte a grupului DTEK", "Extracție de cărbune gazos", "10 mine active în zonă", "Peste 25.000 de mineri"],
+      en: ["Part of the DTEK group", "Extraction of gas coal", "10 active mines in the area", "Over 25,000 miners employed"],
+    },
+    image: "/poi-images/ukraine-pavlohrad-coal-economic-v2.webp",
+},  {
     id: "ukraine-vilnohirsk-titanium-economic-v2",
     type: "mine",
-    name: { de: "Vilnohirsk Titan-Kombinat", hu: "Vilnohirszki titán-kombinát", ro: "Combinatul de titan Vilnohirsk", en: "Vilnohirsk Titanium Plant" },
+    name: { de: "Vilnohirsk Titan-Kombinat", hu: "Vilnohirszki titán-kombinát", ro: "Combinatul de titan Vilnohirsk", en: "Vilnohirsk Titanium Plant",
+image: "/poi-images/ukraine-vilnohirsk-titanium-economic-v2.webp"
+},
     coords: [34.032, 48.472],
     coordinates: { lat: 48.472, lng: 34.032 },
     description: {
@@ -327,11 +565,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Extrage minereuri de ilmenit și rutil", "Produce materii prime pentru aviație", "Proprietatea United Mining and Chemical Company", "Important furnizor global de materii prime"],
       en: ["Extracts ilmenite and rutile ores", "Produces raw materials for aviation", "Owned by United Mining and Chemical Company", "Major global supplier of raw materials"],
     },
-    imageHint: "Open-pit titanium mine in Vilnohirsk", image: "/poi-images/ukraine-vilnohirsk-titanium-economic-v2.webp"},
-  {
+imageHint: "Open-pit titanium mine in Vilnohirsk",
+    descriptionAdvanced: {
+      de: "Das Vilnohirsk-Kombinat ist auf den Abbau und die Veredelung von Titan- und Zirkonsanden spezialisiert, die weltweit in der Industrie gefragt sind.",
+      hu: "A vilnohirszki kombinát titán- és cirkóniumhomok bányászatára és feldolgozására szakosodott, amely világszerte keresett ipari alapanyag.",
+      ro: "Combinatul Vilnohirsk este specializat în extracția și prelucrarea nisipurilor de titan și zirconiu, foarte căutate pe plan mondial.",
+      en: "The Vilnohirsk Combine specializes in the mining and processing of titanium and zirconium sands, which are vital for global high-tech industries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1956", "Gewinnung von Ilmenit", "Tagebau-Abbauverfahren", "Export in über 20 Länder"],
+      hu: ["1956-ban alapították", "Ilmenit kinyerése", "Külszíni fejtésű bányászat", "Export 20+ országba"],
+      ro: ["Fondat în anul 1956", "Extracție de ilmenit", "Metodă de exploatare la zi", "Export în peste 20 de țări"],
+      en: ["Founded in 1956", "Extraction of ilmenite", "Open-pit mining method", "Exports to over 20 countries"],
+    },
+    image: "/poi-images/ukraine-vilnohirsk-titanium-economic-v2.webp",
+},  {
     id: "ukraine-turboatom-kharkiv-economic-v2",
     type: "factory",
-    name: { de: "Turboatom Charkiw", hu: "Turboatom Harkiv", ro: "Turboatom Harkov", en: "Turboatom Kharkiv" },
+    name: { de: "Turboatom Charkiw", hu: "Turboatom Harkiv", ro: "Turboatom Harkov", en: "Turboatom Kharkiv",
+image: "/poi-images/ukraine-turboatom-kharkiv-economic-v2.webp"
+},
     coords: [36.311, 49.975],
     coordinates: { lat: 49.975, lng: 36.311 },
     description: {
@@ -346,11 +599,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondată în anul 1934", "Exportă în peste 45 de țări", "Produce turbine de până la 1100 MW", "Are ingineri înalt calificați"],
       en: ["Founded in 1934", "Exports to over 45 countries", "Produces turbines up to 1,100 MW", "Employs highly skilled engineers"],
     },
-    imageHint: "Large steam turbine rotors in Kharkiv factory", image: "/poi-images/ukraine-turboatom-kharkiv-economic-v2.webp"},
-  {
+imageHint: "Large steam turbine rotors in Kharkiv factory",
+    descriptionAdvanced: {
+      de: "Turboatom in Charkiw gehört zu den weltweit größten Herstellern von Turbinen für Kern-, Wasser- und Wärmekraftwerke.",
+      hu: "A harkivi Turboatom a világ egyik legnagyobb turbinagyártója, amely atom-, víz- és hőerőművek számára készít berendezéseket.",
+      ro: "Turboatom din Harkov este unul dintre cei mai mari producători mondiali de turbine pentru centrale nucleare, hidro și termice.",
+      en: "Turboatom in Kharkiv is one of the world's largest turbine manufacturers, producing equipment for nuclear, hydro, and thermal power plants.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1934", "Export in 45 Länder", "Turbinen bis 1100 MW", "Über 5000 Mitarbeiter"],
+      hu: ["1934-ben alapították", "Export 45 országba", "Akár 1100 MW-os turbinák", "Több mint 5000 alkalmazott"],
+      ro: ["Fondată în anul 1934", "Export în 45 de țări", "Turbine de până la 1100 MW", "Peste 5000 de angajați"],
+      en: ["Founded in 1934", "Exports to 45 countries", "Turbines up to 1100 MW", "Over 5,000 employees"],
+    },
+    image: "/poi-images/ukraine-turboatom-kharkiv-economic-v2.webp",
+},  {
     id: "ukraine-poltava-mining-economic-v2",
     type: "mine",
-    name: { de: "Poltava Bergbau-Kombinat", hu: "Poltavai bányászati kombinát", ro: "Combinatul minier Poltava", en: "Poltava Mining" },
+    name: { de: "Poltava Bergbau-Kombinat", hu: "Poltavai bányászati kombinát", ro: "Combinatul minier Poltava", en: "Poltava Mining",
+image: "/poi-images/ukraine-poltava-mining-economic-v2.webp"
+},
     coords: [33.682, 49.035],
     coordinates: { lat: 49.035, lng: 33.682 },
     description: {
@@ -365,11 +633,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Parte a grupului Ferrexpo", "Principala zonă de extracție: Horișnie-Plavnînîske", "Grad ridicat de automatizare", "Sursă importantă de valută pentru Ucraina"],
       en: ["Part of the Ferrexpo group", "Main extraction site: Horishnje-Plavnynske", "High degree of automation", "Major foreign exchange earner for Ukraine"],
     },
-    imageHint: "Iron ore pelletizing plant at Poltava Mining", image: "/poi-images/ukraine-poltava-mining-economic-v2.webp"},
-  {
+imageHint: "Iron ore pelletizing plant at Poltava Mining",
+    descriptionAdvanced: {
+      de: "Das Poltava-Mining-Kombinat in Horischni Plawni ist der größte Exporteur von Eisenerzpellets in der Ukraine und Teil der Ferrexpo-Gruppe.",
+      hu: "A horisnyi plavni Poltava Mining a vasércpellet legnagyobb ukrán exportőre, amely a Ferrexpo vállalatcsoporthoz tartozik.",
+      ro: "Combinatul Poltava Mining din Horișni Plavni este cel mai mare exportator de pelete de fier din Ucraina, parte a grupului Ferrexpo.",
+      en: "The Poltava Mining plant in Horishni Plavni is Ukraine's largest exporter of iron ore pellets, operating under the Ferrexpo group.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1970", "Börsennotiert in London", "Eigene Eisenbahnflotte", "Produziert Pellets für EU"],
+      hu: ["1970-ben alapították", "Londoni tőzsdén jegyzik", "Saját vasúti flotta", "Pelletgyártás az EU-nak"],
+      ro: ["Fondat în anul 1970", "Listat la bursa din Londra", "Flotă feroviară proprie", "Produce pelete pentru UE"],
+      en: ["Founded in 1970", "Listed on London Exchange", "Own railway fleet", "Produces pellets for EU steel"],
+    },
+    image: "/poi-images/ukraine-poltava-mining-economic-v2.webp",
+},  {
     id: "ukraine-antonov-kyiv-economic-v2",
     type: "factory",
-    name: { de: "Antonow Flugzeugwerk", hu: "Antonov repülőgépgyár", ro: "Fabrica de avioane Antonov", en: "Antonov Aircraft Plant" },
+    name: { de: "Antonow Flugzeugwerk", hu: "Antonov repülőgépgyár", ro: "Fabrica de avioane Antonov", en: "Antonov Aircraft Plant",
+image: "/poi-images/ukraine-antonov-kyiv-economic-v2.webp"
+},
     coords: [30.395, 50.458],
     coordinates: { lat: 50.458, lng: 30.395 },
     description: {
@@ -385,11 +668,25 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Designer of the An-225 'Mriya'", "Operates its own cargo airline", "Based in Kyiv with its own airfield in Hostomel", "Founded in 1946"],
     },
     imageHint: "Antonov aircraft in a large assembly hangar",
+    descriptionAdvanced: {
+      de: "Das Antonow-Werk in Kiew ist weltberühmt für die Konstruktion der größten Frachtflugzeuge der Welt, wie der An-124 und der An-225.",
+      hu: "A kijevi Antonov gyár világhírű a világ legnagyobb teherszállító repülőgépeinek, például az An-124-es és az An-225-ös tervezéséről.",
+      ro: "Uzina Antonov din Kiev este celebră în întreaga lume pentru proiectarea celor mai mari avioane cargo, precum An-124 și An-225.",
+      en: "The Antonov plant in Kyiv is world-famous for designing the globe's largest cargo aircraft, including the iconic An-124 and An-225.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1946", "Bau der An-225 Mriya", "Über 100 Flugzeugtypen", "Eigene Fluggesellschaft"],
+      hu: ["1946-ban alapították", "Az An-225 Mrija szülőhelye", "Több mint 100 repülőtípus", "Saját légitársasággal bír"],
+      ro: ["Fondată în anul 1946", "Constructorul An-225 Mriya", "Peste 100 de tipuri de avioane", "Companie aeriană proprie"],
+      en: ["Founded in 1946", "Builder of An-225 Mriya", "Over 100 aircraft types", "Operates its own airline"],
+    },
   },
   {
     id: "ukraine-chornobyl-solar-economic-v2",
     type: "industry",
-    name: { de: "Solarkraftwerk Tschornobyl", hu: "Csernobili naperőmű", ro: "Centrala solară Cernobîl", en: "Chornobyl Solar Farm" },
+    name: { de: "Solarkraftwerk Tschornobyl", hu: "Csernobili naperőmű", ro: "Centrala solară Cernobîl", en: "Chornobyl Solar Farm",
+image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp"
+},
     coords: [30.099, 51.389],
     coordinates: { lat: 51.389, lng: 30.099 },
     description: {
@@ -404,11 +701,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Deschisă în anul 2018", "Situată lângă centrala nucleară", "Putere de aproximativ 1 MW (prima fază)", "Simbol al energiei verzi în Ucraina"],
       en: ["Opened in 2018", "Located near the nuclear power plant", "Capacity of about 1 MW (first phase)", "Symbol of green energy in Ukraine"],
     },
-    imageHint: "Solar panels with Chornobyl NPP in the background", image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp"},
-  {
+imageHint: "Solar panels with Chornobyl NPP in the background",
+    descriptionAdvanced: {
+      de: "Der Solarpark Tschernobyl nutzt die Sperrzone für erneuerbare Energien und befindet sich in direkter Nähe zum ehemaligen Kernkraftwerk.",
+      hu: "A csernobili naperőmű a tilalmi zónát hasznosítja megújuló energia termelésére, közvetlenül a korábbi atomerőmű közelében.",
+      ro: "Parcul solar Cernobîl utilizează zona de excludere pentru energie regenerabilă, fiind situat lângă fosta centrală nucleară.",
+      en: "The Chornobyl solar farm repurposes the exclusion zone for renewable energy, located in close proximity to the former nuclear power plant.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 2018", "1 Megawatt Leistung", "3800 Solarmodule", "Auf 1,6 Hektar Fläche"],
+      hu: ["2018-ban adták át", "1 megawatt teljesítmény", "3800 napelem modul", "1,6 hektáros területen"],
+      ro: ["Pus în funcțiune în 2018", "Capacitate de 1 Megawatt", "3800 de panouri solare", "Suprafață de 1,6 hectare"],
+      en: ["Opened in 2018", "1 megawatt initial capacity", "3,800 solar panels", "Covers 1.6 hectares of land"],
+    },
+    image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp",
+},  {
     id: "ukraine-port-reni-economic-v2",
     type: "port",
-    name: { de: "Hafen von Reni", hu: "Reni kikötője", ro: "Portul Reni", en: "Port of Reni" },
+    name: { de: "Hafen von Reni", hu: "Reni kikötője", ro: "Portul Reni", en: "Port of Reni",
+image: "/poi-images/ukraine-port-reni-economic-v2.webp"
+},
     coords: [28.283, 45.441],
     coordinates: { lat: 45.441, lng: 28.283 },
     description: {
@@ -423,11 +735,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 30 de dane", "Zonă economică specială „Reni”", "Manipularea produselor petroliere și cerealelor", "Legătură feroviară directă cu Moldova"],
       en: ["Has 30 berths", "Special Economic Zone 'Reni'", "Handles oil products and grain", "Direct rail link to Moldova"],
     },
-    imageHint: "River port facilities on the Danube in Reni", image: "/poi-images/ukraine-port-reni-economic-v2.webp"},
-  {
+imageHint: "River port facilities on the Danube in Reni",
+    descriptionAdvanced: {
+      de: "Der Hafen von Reni liegt am Dreiländereck zur Republik Moldau und Rumänien und ist ein strategischer Punkt für den Donauhandel.",
+      hu: "Reni kikötője a moldáv és a román határ találkozásánál fekszik, és a dunai kereskedelem stratégiai fontosságú pontja.",
+      ro: "Portul Reni este situat la granița cu Republica Moldova și România, fiind un punct strategic pentru comerțul pe Dunăre.",
+      en: "The Port of Reni is located at the border junction with Moldova and Romania, serving as a strategic hub for Danube river trade.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 94 Hektar", "39 Liegeplätze", "Direkter Eisenbahnanschluss", "Tiefe bis zu 12 Meter"],
+      hu: ["94 hektáros terület", "39 horgonyzóhely", "Közvetlen vasúti kapcsolat", "Akár 12 méteres mélység"],
+      ro: ["Suprafață de 94 hectare", "39 de dane de acostare", "Conexiune feroviară directă", "Adâncime de până la 12 m"],
+      en: ["94-hectare total area", "39 berths for ships", "Direct railway connection", "Depth up to 12 meters"],
+    },
+    image: "/poi-images/ukraine-port-reni-economic-v2.webp",
+},  {
     id: "ukraine-rosava-bila-tserkva-economic-v2",
     type: "factory",
-    name: { de: "Rosava Reifenwerk", hu: "Rosava gumiabroncsgyár", ro: "Fabrica de anvelope Rosava", en: "Rosava Tire Plant" },
+    name: { de: "Rosava Reifenwerk", hu: "Rosava gumiabroncsgyár", ro: "Fabrica de anvelope Rosava", en: "Rosava Tire Plant",
+image: "/poi-images/ukraine-rosava-bila-tserkva-economic-v2.webp"
+},
     coords: [30.158, 49.809],
     coordinates: { lat: 49.809, lng: 30.158 },
     description: {
@@ -442,11 +769,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1972", "Produce anual peste 6 milioane de anvelope", "Exportă în mai mult de 60 de țări", "Cea mai importantă companie industrială din Bila Țerkva"],
       en: ["Founded in 1972", "Produces over 6 million tires annually", "Exports to more than 60 countries", "Key industrial enterprise in Bila Tserkva"],
     },
-    imageHint: "Stacks of new tires at the Rosava factory", image: "/poi-images/ukraine-rosava-bila-tserkva-economic-v2.webp"},
-  {
+imageHint: "Stacks of new tires at the Rosava factory",
+    descriptionAdvanced: {
+      de: "Rosava in Bila Zerkwa ist der größte Reifenhersteller der Ukraine und liefert Gummiprodukte für PKW, LKW und landwirtschaftliche Fahrzeuge.",
+      hu: "A bila cerkvai Rosava Ukrajna legnagyobb gumiabroncsgyártója, amely személyautókhoz és mezőgazdasági gépekhez készít abroncsokat.",
+      ro: "Rosava din Bila Țerkva este cel mai mare producător de anvelope din Ucraina, furnizând produse pentru diverse tipuri de vehicule.",
+      en: "Rosava in Bila Tserkva is Ukraine's leading tire manufacturer, supplying rubber products for cars, trucks, and agricultural vehicles.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1972", "Export in 60 Länder", "Über 200 Reifentypen", "Moderne Testlabore"],
+      hu: ["1972-ben alapították", "Export 60 országba", "Több mint 200 abroncstípus", "Modern tesztlaboratóriumok"],
+      ro: ["Fondată în anul 1972", "Export în 60 de țări", "Peste 200 de tipuri de pneuri", "Laboratoare de testare moderne"],
+      en: ["Founded in 1972", "Exports to 60 countries", "Over 200 tire models", "Features modern test labs"],
+    },
+    image: "/poi-images/ukraine-rosava-bila-tserkva-economic-v2.webp",
+},  {
     id: "ukraine-skf-ukraine-lutsk-economic-v2",
     type: "factory",
-    name: { de: "SKF Ukraine Lagerwerk", hu: "SKF Ukraine csapágygyár", ro: "Fabrica SKF Ucraina", en: "SKF Ukraine Bearing Plant" },
+    name: { de: "SKF Ukraine Lagerwerk", hu: "SKF Ukraine csapágygyár", ro: "Fabrica SKF Ucraina", en: "SKF Ukraine Bearing Plant",
+image: "/poi-images/ukraine-skf-ukraine-lutsk-economic-v2.webp"
+},
     coords: [25.321, 50.722],
     coordinates: { lat: 50.722, lng: 25.321 },
     description: {
@@ -461,11 +803,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Una dintre cele mai de succes investiții străine", "Exportă aproape 100% din producție", "Furnizor pentru mărci auto globale", "Standarde înalte de calitate conform ISO"],
       en: ["One of the most successful foreign investments", "Exports nearly 100% of its production", "Supplier for global automotive brands", "High quality standards according to ISO"],
     },
-    imageHint: "Automated production line for bearings at SKF Lutsk", image: "/poi-images/ukraine-skf-ukraine-lutsk-economic-v2.webp"},
-  {
+imageHint: "Automated production line for bearings at SKF Lutsk",
+    descriptionAdvanced: {
+      de: "Das SKF-Werk in Luzk ist Teil des schwedischen Weltkonzerns und spezialisiert auf die Produktion von hochwertigen Kegelrollenlagern.",
+      hu: "A lucki SKF gyár a svéd világcég része, amely kiváló minőségű kúpgörgős csapágyak gyártására szakosodott az autóipar számára.",
+      ro: "Uzina SKF din Luțk face parte din grupul mondial suedez, fiind specializată în producția de rulmenți cu role conice de înaltă calitate.",
+      en: "The SKF plant in Lutsk is part of the Swedish global group, specializing in the production of high-precision tapered roller bearings.",
+    },
+    factsAdvanced: {
+      de: ["Über 1000 Mitarbeiter", "95% Exportanteil", "ISO-zertifizierte Qualität", "Ehemals GPZ-28 Werk"],
+      hu: ["Több mint 1000 dolgozó", "95%-os exportarány", "ISO minősített gyártás", "Korábban a GPZ-28 üzeme"],
+      ro: ["Peste 1000 de angajați", "95% rată de export", "Calitate certificată ISO", "Fostă uzină GPZ-28"],
+      en: ["Over 1,000 employees", "95% export share", "ISO-certified quality", "Formerly the GPZ-28 plant"],
+    },
+    image: "/poi-images/ukraine-skf-ukraine-lutsk-economic-v2.webp",
+},  {
     id: "ukraine-leoni-stryi-economic-v2",
     type: "factory",
-    name: { de: "Leoni Kabelwerk Stryj", hu: "Leoni kábelgyár, Sztrij", ro: "Fabrica de cabluri Leoni Strîi", en: "Leoni Wiring Systems Stryi" },
+    name: { de: "Leoni Kabelwerk Stryj", hu: "Leoni kábelgyár, Sztrij", ro: "Fabrica de cabluri Leoni Strîi", en: "Leoni Wiring Systems Stryi",
+image: "/poi-images/ukraine-leoni-stryi-economic-v2.webp"
+},
     coords: [23.864, 49.273],
     coordinates: { lat: 49.273, lng: 23.864 },
     description: {
@@ -480,11 +837,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Deschisă în anul 2003", "Are peste 6000 de angajați", "Furnizează pentru BMW, VW și Audi", "Cel mai important investitor din regiunea Strîi"],
       en: ["Opened in 2003", "Employs over 6,000 workers", "Supplies BMW, VW, and Audi", "Most significant investor in the Stryi region"],
     },
-    imageHint: "Workers assembling automotive wire harnesses at Leoni", image: "/poi-images/ukraine-leoni-stryi-economic-v2.webp"},
-  {
+imageHint: "Workers assembling automotive wire harnesses at Leoni",
+    descriptionAdvanced: {
+      de: "Leoni in Stryj ist ein wichtiger Zulieferer für die globale Automobilindustrie und produziert Bordnetz-Systeme und Kabelsätze für Top-Marken.",
+      hu: "A sztriji Leoni az autóipar fontos beszállítója, amely kábelkorbácsokat és elektromos rendszereket gyárt neves autómárkák számára.",
+      ro: "Leoni din Strîi este un furnizor major pentru industria auto globală, producând sisteme de cabluri pentru mărci de top.",
+      en: "Leoni in Stryi is a key supplier for the global automotive industry, manufacturing wiring systems and cable harnesses for top brands.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2002", "Über 6000 Arbeitsplätze", "Kunden wie BMW und Opel", "Fläche von 44.000 qm"],
+      hu: ["2002-ben alapították", "Több mint 6000 munkahely", "Vevők: BMW, Opel és mások", "44 000 m2-es alapterület"],
+      ro: ["Fondată în anul 2002", "Peste 6000 de locuri de muncă", "Clienți ca BMW și Opel", "Suprafață de 44.000 mp"],
+      en: ["Founded in 2002", "Over 6,000 jobs created", "Clients like BMW and Opel", "44,000 sqm floor area"],
+    },
+    image: "/poi-images/ukraine-leoni-stryi-economic-v2.webp",
+},  {
     id: "ukraine-vostgok-zhovti-vody-economic-v2",
     type: "mine",
-    name: { de: "VostGOK Uranbergwerk", hu: "VosztGOK uránbánya", ro: "Mina de uraniu VostGOK", en: "VostGOK Uranium Mine" },
+    name: { de: "VostGOK Uranbergwerk", hu: "VosztGOK uránbánya", ro: "Mina de uraniu VostGOK", en: "VostGOK Uranium Mine",
+image: "/poi-images/ukraine-vostgok-zhovti-vody-economic-v2.webp"
+},
     coords: [33.518, 48.347],
     coordinates: { lat: 48.347, lng: 33.518 },
     description: {
@@ -499,11 +871,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Sediul în Jovti Vodî", "Acoperă o parte din necesarul intern", "Fondat în anul 1951", "Companie de stat strategică"],
       en: ["Based in Zhovti Vody", "Covers part of the domestic need", "Founded in 1951", "Strategic state-owned enterprise"],
     },
-    imageHint: "Mining equipment at a uranium extraction site", image: "/poi-images/ukraine-vostgok-zhovti-vody-economic-v2.webp"},
-  {
+imageHint: "Mining equipment at a uranium extraction site",
+    descriptionAdvanced: {
+      de: "VostGOK in Schowti Wody ist das einzige Unternehmen der Ukraine, das Uranerz abbaut und zu Urankonzentrat für die Kernkraftwerke verarbeitet.",
+      hu: "A zsoti vogyi VosztGOK Ukrajna egyetlen vállalata, amely uránércet bányászik és dolgoz fel az atomerőművek számára szükséges koncentrátummá.",
+      ro: "VostGOK din Jovti Vodî este singura companie din Ucraina care extrage minereu de uraniu și îl procesează pentru centralele nucleare.",
+      en: "VostGOK in Zhovti Vody is Ukraine's sole enterprise dedicated to mining uranium ore and processing it into fuel for nuclear power plants.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1951", "Abbau in Inhulska Mine", "Zentrum Schowti Wody", "Strategische Rohstoffquelle"],
+      hu: ["1951-ben alapították", "Inhulszka bányaüzem", "Központja Zsoti Vogyi", "Stratégiai nyersanyagforrás"],
+      ro: ["Fondată în anul 1951", "Extracție în mina Inhulska", "Centrul la Jovti Vodî", "Sursă strategică de resurse"],
+      en: ["Founded in 1951", "Mining at Inhulska site", "HQ in Zhovti Vody", "Strategic resource supplier"],
+    },
+    image: "/poi-images/ukraine-vostgok-zhovti-vody-economic-v2.webp",
+},  {
     id: "ukraine-south-ukraine-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Südukraine", hu: "Dél-ukrajnai atomerőmű", ro: "Centrala nucleară Ucraina de Sud", en: "South Ukraine Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Südukraine", hu: "Dél-ukrajnai atomerőmű", ro: "Centrala nucleară Ucraina de Sud", en: "South Ukraine Nuclear Power Plant",
+image: "/poi-images/ukraine-south-ukraine-npp-economic-v2.webp"
+},
     coords: [31.218, 47.813],
     coordinates: { lat: 47.813, lng: 31.218 },
     description: {
@@ -518,11 +905,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 3 unități de reactoare", "Capacitate instalată de 3000 MW", "Primul reactor a intrat în funcțiune în 1982", "Furnizor important de electricitate pentru sudul Ucrainei"],
       en: ["Has 3 reactor units", "Installed capacity of 3,000 MW", "First reactor went online in 1982", "Key power supplier for southern Ukraine"],
     },
-    imageHint: "Power plant reactors near the Southern Bug river", image: "/poi-images/ukraine-south-ukraine-npp-economic-v2.webp"},
-  {
+imageHint: "Power plant reactors near the Southern Bug river",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Südukraine in Juschnoukrajinsk nutzt drei Reaktoren und ist Teil eines einzigartigen Energiekomplexes mit Wasserkraft.",
+      hu: "A juzsnoukrajinszki dél-ukrajnai atomerőmű három reaktorral üzemel, és egy egyedülálló, vízerőművel kombinált energiakomplexum része.",
+      ro: "Centrala Nucleară Ucraina de Sud din Iujnoukraiinsk are trei reactoare și face parte dintr-un complex energetic unic cu hidrocentrale.",
+      en: "The South Ukraine Nuclear Power Plant in Yuzhnoukrainsk operates three reactors and is part of a unique combined energy complex.",
+    },
+    factsAdvanced: {
+      de: ["Leistung von 3000 MW", "Inbetriebnahme 1982", "Drei VVER-1000 Blöcke", "Kombiniert mit Pumpspeicher"],
+      hu: ["3000 MW összteljesítmény", "1982-ben indult az első blokk", "Három VVER-1000 blokk", "Szivattyús-tározós egység"],
+      ro: ["Capacitate de 3000 MW", "Pusă în funcțiune în 1982", "Trei unități VVER-1000", "Include hidrocentrală pompaj"],
+      en: ["3000 MW total capacity", "Commissioned in 1982", "Three VVER-1000 units", "Includes pumped-storage hydro"],
+    },
+    image: "/poi-images/ukraine-south-ukraine-npp-economic-v2.webp",
+},  {
     id: "ukraine-karpatnaftokhim-economic-v2",
     type: "factory",
-    name: { de: "Karpatnaftokhim Werk", hu: "Karpatnaftohim gyár", ro: "Uzina Karpatnaftohim", en: "Karpatnaftokhim Plant" },
+    name: { de: "Karpatnaftokhim Werk", hu: "Karpatnaftohim gyár", ro: "Uzina Karpatnaftohim", en: "Karpatnaftokhim Plant",
+image: "/poi-images/ukraine-karpatnaftokhim-economic-v2.webp"
+},
     coords: [24.316, 49.071],
     coordinates: { lat: 49.071, lng: 24.316 },
     description: {
@@ -537,11 +939,26 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Singurul producător de polietilenă din Ucraina", "Exportator important către UE", "Centru de producție modernizat", "Cel mai important angajator din Kaluș"],
       en: ["Only manufacturer of polyethylene in Ukraine", "Significant exporter to the EU", "Modernized production center", "Key employer in Kalush"],
     },
-    imageHint: "Industrial petrochemical complex in Kalush", image: "/poi-images/ukraine-karpatnaftokhim-economic-v2.webp"},
-  {
+imageHint: "Industrial petrochemical complex in Kalush",
+    descriptionAdvanced: {
+      de: "Karpatnaftokhim in Kalusch ist das größte petrochemische Unternehmen der Ukraine und produziert Ethylen, Polyethylen und PVC.",
+      hu: "A kalusi Karpatnaftokhim Ukrajna legnagyobb petrolkémiai vállalata, amely etilént, polietilént és PVC-t állít elő ipari felhasználásra.",
+      ro: "Karpatnaftokhim din Kaluș este cea mai mare companie petrochimică din Ucraina, producând etilenă, polietilenă și PVC.",
+      en: "Karpatnaftokhim in Kalush is Ukraine's largest petrochemical enterprise, producing vital ethylene, polyethylene, and PVC materials.",
+    },
+    factsAdvanced: {
+      de: ["Standort in Kalusch", "Produziert 250.000t Ethylen", "Einziger PVC-Hersteller", "Über 2000 Mitarbeiter"],
+      hu: ["Kalus városában található", "Évi 250 000 t etilén", "Egyetlen hazai PVC-gyártó", "Több mint 2000 alkalmazott"],
+      ro: ["Situată în orașul Kaluș", "Produce 250.000 tone etilenă", "Singurul producător de PVC", "Peste 2000 de angajați"],
+      en: ["Located in Kalush city", "Produces 250,000t of ethylene", "Sole domestic PVC producer", "Over 2,000 employees"],
+    },
+    image: "/poi-images/ukraine-karpatnaftokhim-economic-v2.webp",
+},  {
     id: "ukraine-mykolaiv-shipyard-economic-v2",
     type: "port",
-    name: { de: "Mykolajiw Schiffswerft", hu: "Mikolajivi hajógyár", ro: "Șantierul naval Nikolaev", en: "Mykolaiv Shipyard" },
+    name: { de: "Mykolajiw Schiffswerft", hu: "Mikolajivi hajógyár", ro: "Șantierul naval Nikolaev", en: "Mykolaiv Shipyard",
+image: "/poi-images/ukraine-mykolaiv-shipyard-economic-v2.webp"
+},
     coords: [31.996, 46.974],
     coordinates: { lat: 46.974, lng: 31.996 },
     description: {
@@ -557,11 +974,25 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Founded in 1789", "Formerly built aircraft carriers", "Important repair base for the navy", "Largest shipyard in the Black Sea region"],
     },
     imageHint: "Large ships under construction at Mykolaiv shipyard",
+    descriptionAdvanced: {
+      de: "Die Werft von Mykolajiw ist eine der ältesten und bedeutendsten Schiffbauanlagen der Ukraine, bekannt für den Bau großer Marineschiffe.",
+      hu: "A mikolajivi hajógyár Ukrajna egyik legrégebbi és legjelentősebb üzeme, amely nagy méretű hadihajók építéséről nevezetes.",
+      ro: "Șantierul naval din Nikolaev este unul dintre cele mai vechi și importante din Ucraina, renumit pentru construcția navelor militare.",
+      en: "The Mykolaiv Shipyard is one of Ukraine's oldest and most significant shipbuilding facilities, historically famous for large naval vessels.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1789", "Bau der Slawa-Klasse", "Zentrum Mykolajiw", "Früher Werft Nr. 445"],
+      hu: ["1789-ben alapították", "Szlava-osztályú hajók helye", "Mikolajiv központjában", "Korábban 445-ös hajógyár"],
+      ro: ["Fondat în anul 1789", "Constructor nave clasa Slava", "Centru în orașul Nikolaev", "Fost Șantier Naval Nr. 445"],
+      en: ["Founded in 1789", "Built Slava-class cruisers", "Located in Mykolaiv city", "Formerly Shipyard No. 445"],
+    },
   },
   {
     id: "ukraine-port-chornomorsk-economic-v2",
     type: "port",
-    name: { de: "Hafen Tschornomorsk", hu: "Csornomorszk kikötője", ro: "Portul Ciornomorsk", en: "Port of Chornomorsk" },
+    name: { de: "Hafen Tschornomorsk", hu: "Csornomorszk kikötője", ro: "Portul Ciornomorsk", en: "Port of Chornomorsk",
+image: "/poi-images/ukraine-port-chornomorsk-economic-v2.webp"
+},
     coords: [30.658, 46.326],
     coordinates: { lat: 46.326, lng: 30.658 },
     description: {
@@ -577,5 +1008,17 @@ export const ukraineEconomicV2: POI[] = [
       en: ["Former name: Port Illichivsk", "Important terminus of the Silk Road", "Has a large grain terminal", "Navigable year-round"],
     },
     imageHint: "Container terminal and cranes in Chornomorsk",
+    descriptionAdvanced: {
+      de: "Der Hafen von Tschornomorsk ist ein wichtiger Frachtumschlagsplatz am Schwarzen Meer, spezialisiert auf Ro-Ro-Verkehre und Getreide.",
+      hu: "Csornomorszk kikötője a Fekete-tenger egyik legfontosabb teherforgalmi csomópontja, amely Ro-Ro és gabonaszállításra szakosodott.",
+      ro: "Portul Ciornomorsk este un nod major de marfă la Marea Neagră, specializat în transporturi Ro-Ro și cereale.",
+      en: "The Port of Chornomorsk is a major Black Sea cargo hub, specializing in Ro-Ro ferry services and large-scale grain shipments.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1958", "Wassertiefe bis 14 Meter", "Fährverbindung nach Georgien", "Umschlag 15 Mio. Tonnen"],
+      hu: ["1958-ban alapították", "14 méteres vízmélység", "Kompjárat Grúziába", "15 millió tonna forgalom"],
+      ro: ["Fondat în anul 1958", "Adâncime de 14 metri", "Linii ferry către Georgia", "Capacitate 15 mil. tone"],
+      en: ["Founded in 1958", "Depth up to 14 meters", "Ferry links to Georgia", "Handles 15 million tons"],
+    },
   }
 ];

@@ -7,7 +7,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-13",
     coords: [-76.78, 17.95],
-    name: { de: "Kingston Harbour", hu: "Kingstoni kikötő", ro: "Portul Kingston", en: "Kingston Harbour" },
+    name: { de: "Kingston Harbour", hu: "Kingstoni kikötő", ro: "Portul Kingston", en: "Kingston Harbour",
+image: "/poi-images/jm-kingston-harbour-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Kingston ist der siebtgrößte natürliche Hafen der Welt und das wirtschaftliche Herz Jamaikas. Er dient als zentraler Umschlagplatz für den internationalen Containerverkehr in der Karibik.",
       hu: "A világ egyik legnagyobb természetes kikötője, központi szereppel a jamaicai külkereskedelemben.",
@@ -33,7 +35,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-09",
     coords: [-77.93, 18.46],
-    name: { de: "Montego Bay Freeport", hu: "Montego Bay-i szabadkikötő", ro: "Portul Liber Montego Bay", en: "Montego Bay Freeport" },
+    name: { de: "Montego Bay Freeport", hu: "Montego Bay-i szabadkikötő", ro: "Portul Liber Montego Bay", en: "Montego Bay Freeport",
+image: "/poi-images/jm-montego-freeport-economic-v2.webp"
+},
     description: {
       de: "Montego Freeport ist ein bedeutendes Industrie- und Handelszentrum im Westen Jamaikas, das direkt an den Tiefwasserhafen von Montego Bay angrenzt. Es beherbergt zahlreiche Freihandelszonen.",
       hu: "Fontos ipari és tengerjáró övezet a sziget nyugati részén.",
@@ -60,7 +64,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-08",
     coords: [-77.30, 18.45],
-    name: { de: "Kaiser Bauxit Mine", hu: "Kaiser Bauxitbánya", ro: "Mina de bauxită Kaiser", en: "Kaiser Bauxite Mine" },
+    name: { de: "Kaiser Bauxit Mine", hu: "Kaiser Bauxitbánya", ro: "Mina de bauxită Kaiser", en: "Kaiser Bauxite Mine",
+image: "/poi-images/jm-bauxite-kaiser-economic-v2.webp"
+},
     description: {
       de: "Die Kaiser-Bauxit-Anlage ist eine der wichtigsten Einrichtungen für den Abbau und Export von Bauxit, dem Hauptexportgut Jamaikas. Die Anlage ist entscheidend für die Aluminiumproduktion.",
       hu: "Jamaica egyik legnagyobb bauxitbányája, elengedhetetlen az alumíniumipar számára.",
@@ -87,7 +93,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-05",
     coords: [-77.60, 18.25],
-    name: { de: "Worthy Park Zuckerfabrik", hu: "Worthy Park cukorgyár", ro: "Fabrica de zahăr Worthy Park", en: "Worthy Park Sugar Factory" },
+    name: { de: "Worthy Park Zuckerfabrik", hu: "Worthy Park cukorgyár", ro: "Fabrica de zahăr Worthy Park", en: "Worthy Park Sugar Factory",
+image: "/poi-images/jm-sugar-factory-economic-v2.webp"
+},
     description: {
       de: "Diese Zuckerfabrik repräsentiert die traditionsreiche Zuckerrohrverarbeitung Jamaikas, die seit Jahrhunderten einen Pfeiler der Agrarwirtschaft bildet. Hier wird Rohzucker für den Export gewonnen.",
       hu: "Jamaica egyik történelmi cukortermelő létesítménye.",
@@ -114,7 +122,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-12",
     coords: [-77.10, 17.88],
-    name: { de: "Port Esquivel", hu: "Port Esquivel", ro: "Port Esquivel", en: "Port Esquivel" },
+    name: { de: "Port Esquivel", hu: "Port Esquivel", ro: "Port Esquivel", en: "Port Esquivel",
+image: "/poi-images/jm-port-esquivel-economic-v2.webp"
+},
     description: {
       de: "Port Esquivel ist ein spezialisierter Industriehafen an der Südküste, der primär für den Umschlag von Tonerde und Treibstoffen genutzt wird. Er ist ein Schlüsselstandort der Schwerindustrie.",
       hu: "Ipari kikötő timföld és alumíniumtermékek exportjára.",
@@ -140,7 +150,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-08",
     coords: [-77.65, 18.45],
-    name: { de: "Falmouth Cruise Port", hu: "Falmouth tengerjáró kikötő", ro: "Portul de croazieră Falmouth", en: "Falmouth Cruise Port" },
+    name: { de: "Falmouth Cruise Port", hu: "Falmouth tengerjáró kikötő", ro: "Portul de croazieră Falmouth", en: "Falmouth Cruise Port",
+image: "/poi-images/jm-falcmouth-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Falmouth ist einer der modernsten Kreuzfahrthäfen der Karibik und ein bedeutender Wirtschaftsfaktor für den Norden der Insel. Er wurde für die größten Schiffe der Welt konzipiert.",
       hu: "Modern tengerjáró kikötő közvetlen összeköttetéssel történelmi helyszínekhez.",
@@ -167,7 +179,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.80, 17.98],
-    name: { de: "Rockfort Kraftwerk", hu: "Rockforti erőmű", ro: "Centrala Rockfort", en: "Rockfort Power Station" },
+    name: { de: "Rockfort Kraftwerk", hu: "Rockforti erőmű", ro: "Centrala Rockfort", en: "Rockfort Power Station",
+image: "/poi-images/jm-energy-power-economic-v2.webp"
+},
     description: {
       de: "Dieses Kraftwerk ist eine zentrale Säule der Energieversorgung Jamaikas und sichert die Stromzufuhr für Industrie und Haushalte. Es nutzt moderne Technologien zur Stromerzeugung.",
       hu: "Központi erőmű a fővárosi régió energiaellátásához.",
@@ -194,7 +208,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-06",
     coords: [-77.45, 18.35],
-    name: { de: "Appleton Estate Destillerie", hu: "Appleton Estate lepárló", ro: "Distileria Appleton Estate", en: "Appleton Estate Distillery" },
+    name: { de: "Appleton Estate Destillerie", hu: "Appleton Estate lepárló", ro: "Distileria Appleton Estate", en: "Appleton Estate Distillery",
+image: "/poi-images/jm-rum-distillery-economic-v2.webp"
+},
     description: {
       de: "Die Rum-Destillerie ist weltweit für ihre hochwertigen Spirituosen bekannt, die aus lokalem Zuckerrohr gewonnen werden. Sie ist ein Symbol für jamaikanische Handwerkskunst.",
       hu: "A jamaicai rumtermelés központja.",
@@ -221,7 +237,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-11",
     coords: [-76.65, 18.10],
-    name: { de: "Blue Mountain Kaffeeverarbeitung", hu: "Blue Mountain kávéfeldolgozó", ro: "Procesarea cafelei Blue Mountain", en: "Blue Mountain Coffee Processor" },
+    name: { de: "Blue Mountain Kaffeeverarbeitung", hu: "Blue Mountain kávéfeldolgozó", ro: "Procesarea cafelei Blue Mountain", en: "Blue Mountain Coffee Processor",
+image: "/poi-images/jm-coffee-processor-economic-v2.webp"
+},
     description: {
       de: "In dieser Verarbeitungsanlage werden die berühmten Blue Mountain Kaffeebohnen für den Weltmarkt vorbereitet. Die Anlage garantiert höchste Qualitätsstandards für den Export.",
       hu: "Speciális üzem az exkluzív Blue Mountain kávé feldolgozására.",
@@ -248,7 +266,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-13",
     coords: [-76.84, 17.93],
-    name: { de: "Port Royal Kreuzfahrtterminal", hu: "Port Royal tengerjáró terminál", ro: "Terminalul de croazieră Port Royal", en: "Port Royal Cruise Terminal" },
+    name: { de: "Port Royal Kreuzfahrtterminal", hu: "Port Royal tengerjáró terminál", ro: "Terminalul de croazieră Port Royal", en: "Port Royal Cruise Terminal",
+image: "/poi-images/jm-port-royal-terminal-economic-v2.webp"
+},
     description: {
       de: "Das Kreuzfahrtterminal in Port Royal ermöglicht Touristen den Zugang zu einer der historisch bedeutendsten Stätten der Karibik. Es verbindet Geschichte mit moderner Infrastruktur.",
       hu: "Újonnan fejlesztett tengerjáró kikötő történelmi környezetben.",
@@ -275,7 +295,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-12",
     coords: [-77.55, 17.98],
-    name: { de: "Alpart Raffinerie", hu: "Alpart finomító", ro: "Rafinăria Alpart", en: "Alpart Alumina Refinery" },
+    name: { de: "Alpart Raffinerie", hu: "Alpart finomító", ro: "Rafinăria Alpart", en: "Alpart Alumina Refinery",
+image: "/poi-images/jm-alpart-plant-economic-v2.webp"
+},
     description: {
       de: "Große Industrieanlage zur Verarbeitung von Bauxit zu Tonerde.",
       hu: "Nagy ipari létesítmény a bauxit timfölddé történő feldolgozására.",
@@ -302,7 +324,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-09",
     coords: [-77.95, 18.45],
-    name: { de: "Sandexport Anlage", hu: "Homokexportáló létesítmény", ro: "Facilitate pentru exportul de nisip", en: "Sand Export Facility" },
+    name: { de: "Sandexport Anlage", hu: "Homokexportáló létesítmény", ro: "Facilitate pentru exportul de nisip", en: "Sand Export Facility",
+image: "/poi-images/jm-sand-export-economic-v2.webp"
+},
     description: {
       de: "Diese Einrichtung ist auf den Abbau und Export von hochwertigem Bausand spezialisiert, der für regionale Bauprojekte von großer Bedeutung ist. Nachhaltige Gewinnung steht im Fokus.",
       hu: "Létesítmény építőhomok ipari előkészítésére és exportjára.",
@@ -329,7 +353,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-08",
     coords: [-77.30, 18.46],
-    name: { de: "Port Kaiser", hu: "Port Kaiser", ro: "Port Kaiser", en: "Port Kaiser" },
+    name: { de: "Port Kaiser", hu: "Port Kaiser", ro: "Port Kaiser", en: "Port Kaiser",
+image: "/poi-images/jm-port-kaiser-economic-v2.webp"
+},
     description: {
       de: "Port Kaiser ist ein strategisch wichtiger Hafen für den Export von Tonerde im Südwesten der Insel. Er verfügt über spezialisierte Verladeanlagen für die Bauxit-Industrie.",
       hu: "Bauxitszállításra szakosodott kikötői létesítmény.",
@@ -356,7 +382,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-07",
     coords: [-77.20, 17.85],
-    name: { de: "Fischereizentrum Old Harbour Bay", hu: "Old Harbour Bay halászati központ", ro: "Centrul de pescuit Old Harbour Bay", en: "Old Harbour Bay Fishing Center" },
+    name: { de: "Fischereizentrum Old Harbour Bay", hu: "Old Harbour Bay halászati központ", ro: "Centrul de pescuit Old Harbour Bay", en: "Old Harbour Bay Fishing Center",
+image: "/poi-images/jm-fisheries-economic-v2.webp"
+},
     description: {
       de: "Die Fischereiindustrie ist ein wichtiger Lebensunterhalt für Küstengemeinden und sichert die Versorgung der Insel mit frischen Meeresfrüchten. Moderne Anlagen fördern die nachhaltige Nutzung.",
       hu: "A sziget kereskedelmi halászatának egyik központja.",
@@ -383,7 +411,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.75, 17.97],
-    name: { de: "Carib Cement Werk", hu: "Carib cementgyár", ro: "Fabrica de ciment Carib", en: "Carib Cement Plant" },
+    name: { de: "Carib Cement Werk", hu: "Carib cementgyár", ro: "Fabrica de ciment Carib", en: "Carib Cement Plant",
+image: "/poi-images/jm-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Das Zementwerk ist der Hauptlieferant für Baustoffe auf der Insel und unterstützt das Wachstum der jamaikanischen Infrastruktur. Es ist eines der größten Industrieunternehmen des Landes.",
       hu: "Cementgyár a helyi építőipar ellátására.",
@@ -410,7 +440,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-05",
     coords: [-77.50, 18.20],
-    name: { de: "Holzverarbeitungswerk", hu: "Faipari feldolgozó", ro: "Unitate de prelucrare a lemnului", en: "Lumber Mill" },
+    name: { de: "Holzverarbeitungswerk", hu: "Faipari feldolgozó", ro: "Unitate de prelucrare a lemnului", en: "Lumber Mill",
+image: "/poi-images/jm-lumber-mill-economic-v2.webp"
+},
     description: {
       de: "Das Sägewerk verarbeitet lokal gewonnenes Holz für die Möbel- und Bauindustrie Jamaikas. Es spielt eine wichtige Rolle in der nachhaltigen Forstwirtschaft der Insel.",
       hu: "Ipari fafeldolgozó a helyi és exportpiacra.",
@@ -437,7 +469,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-10",
     coords: [-77.10, 18.05],
-    name: { de: "Geflügelverarbeitungswerk", hu: "Baromfifeldolgozó üzem", ro: "Unitate de procesare a păsărilor", en: "Poultry Processing Plant" },
+    name: { de: "Geflügelverarbeitungswerk", hu: "Baromfifeldolgozó üzem", ro: "Unitate de procesare a păsărilor", en: "Poultry Processing Plant",
+image: "/poi-images/jm-poultry-processing-economic-v2.webp"
+},
     description: {
       de: "Die Geflügelverarbeitung ist ein zentraler Bestandteil der Ernährungssicherung und bietet Tausende von Arbeitsplätzen im Agrarsektor. Die Produkte erfüllen höchste Hygienestandards.",
       hu: "Ipari baromfifeldolgozó az élelmiszerpiac számára.",
@@ -464,7 +498,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.82, 18.00],
-    name: { de: "Getränkeabfüllanlage", hu: "Italpalackozó üzem", ro: "Facilitate de îmbuteliere a băuturilor", en: "Beverage Bottling Plant" },
+    name: { de: "Getränkeabfüllanlage", hu: "Italpalackozó üzem", ro: "Facilitate de îmbuteliere a băuturilor", en: "Beverage Bottling Plant",
+image: "/poi-images/jm-bottling-plant-economic-v2.webp"
+},
     description: {
       de: "In dieser Abfüllanlage werden lokale Erfrischungsgetränke und Mineralwasser für den heimischen Markt und den Export produziert. Sie ist ein Beispiel für moderne industrielle Fertigung.",
       hu: "Nagy ipari palackozóüzem üdítőitalok és helyi italok számára.",
@@ -491,7 +527,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.77, 18.00],
-    name: { de: "Telekommunikations-Hub", hu: "Telekommunikációs központ", ro: "Hub de telecomunicații", en: "Telecommunications Hub" },
+    name: { de: "Telekommunikations-Hub", hu: "Telekommunikációs központ", ro: "Hub de telecomunicații", en: "Telecommunications Hub",
+image: "/poi-images/jm-telecom-hub-economic-v2.webp"
+},
     description: {
       de: "Dieser Telekommunikationsknotenpunkt verbindet Jamaika mit globalen Datennetzen und ist das Rückgrat der digitalen Wirtschaft der Insel. Er ermöglicht schnelles Internet.",
       hu: "Digitális infrastruktúra és kommunikáció központi csomópontja.",
@@ -518,7 +556,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-09",
     coords: [-77.80, 18.30],
-    name: { de: "Solarpark", hu: "Naperőmű", ro: "Parc solar", en: "Solar Farm" },
+    name: { de: "Solarpark", hu: "Naperőmű", ro: "Parc solar", en: "Solar Farm",
+image: "/poi-images/jm-solar-farm-economic-v2.webp"
+},
     description: {
       de: "Der Solarpark ist Teil der Initiative Jamaikas, den Anteil erneuerbarer Energien massiv zu erhöhen. Er nutzt die intensive Sonneneinstrahlung zur sauberen Stromerzeugung.",
       hu: "Nagy létesítmény megújuló energia termelésére.",
@@ -545,7 +585,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-09",
     coords: [-77.90, 18.50],
-    name: { de: "Sangster Frachtterminal", hu: "Sangster áruterminál", ro: "Terminalul de marfă Sangster", en: "Sangster Cargo Terminal" },
+    name: { de: "Sangster Frachtterminal", hu: "Sangster áruterminál", ro: "Terminalul de marfă Sangster", en: "Sangster Cargo Terminal",
+image: "/poi-images/jm-airport-cargo-economic-v2.webp"
+},
     description: {
       de: "Das Frachtzentrum am Flughafen ist der wichtigste Umschlagplatz für zeitkritische Exporte wie frische Produkte und Blue Mountain Kaffee. Es verbindet Jamaika mit Weltmärkten.",
       hu: "Fontos logisztikai helyszín légi áruszállítás számára.",
@@ -572,7 +614,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "port",
     parent: "JM-08",
     coords: [-77.40, 18.47],
-    name: { de: "Mineralien-Umschlagterminal", hu: "Ásványi anyag átrakodó terminál", ro: "Terminal de transbordare a mineralelor", en: "Mineral Transshipment Terminal" },
+    name: { de: "Mineralien-Umschlagterminal", hu: "Ásványi anyag átrakodó terminál", ro: "Terminal de transbordare a mineralelor", en: "Mineral Transshipment Terminal",
+image: "/poi-images/jm-mineral-terminal-economic-v2.webp"
+},
     description: {
       de: "Dieses Terminal ist auf die Lagerung und den Export von Industriemineralien spezialisiert, die im Hinterland abgebaut werden. Es sichert den effizienten Abtransport von Rohstoffen.",
       hu: "Speciális létesítmény ásványi anyagok átrakodására.",
@@ -599,7 +643,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-05",
     coords: [-77.35, 18.25],
-    name: { de: "Agrar-Verarbeitungszentrum", hu: "Mezőgazdasági feldolgozó központ", ro: "Centru de procesare agricolă", en: "Agricultural Processing Center" },
+    name: { de: "Agrar-Verarbeitungszentrum", hu: "Mezőgazdasági feldolgozó központ", ro: "Centru de procesare agricolă", en: "Agricultural Processing Center",
+image: "/poi-images/jm-agri-processing-economic-v2.webp"
+},
     description: {
       de: "Diese Agrarverarbeitungsanlage veredelt lokale Früchte und Gemüse zu hochwertigen Exportprodukten wie Marmeladen und Saucen. Sie steigert die Wertschöpfung in der Landwirtschaft.",
       hu: "Központ helyi mezőgazdasági termékek feldolgozására.",
@@ -626,7 +672,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.78, 17.96],
-    name: { de: "Wasserwerk Kingston", hu: "Kingstoni vízmű", ro: "Uzina de apă Kingston", en: "Kingston Water Works" },
+    name: { de: "Wasserwerk Kingston", hu: "Kingstoni vízmű", ro: "Uzina de apă Kingston", en: "Kingston Water Works",
+image: "/poi-images/jm-water-works-economic-v2.webp"
+},
     description: {
       de: "Das Wasserwerk sichert die Versorgung von Industriegebieten und Wohnsiedlungen mit sauberem Trinkwasser. Es nutzt modernste Filter- und Reinigungssysteme.",
       hu: "Központi víztisztító telep a fővárosi régió számára.",
@@ -653,7 +701,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-08",
     coords: [-77.60, 18.40],
-    name: { de: "Frucht-Packhaus", hu: "Gyümölcs-csomagolóüzem", ro: "Unitate de ambalare a fructelor", en: "Fruit Packhouse" },
+    name: { de: "Frucht-Packhaus", hu: "Gyümölcs-csomagolóüzem", ro: "Unitate de ambalare a fructelor", en: "Fruit Packhouse",
+image: "/poi-images/jm-fruit-packhouse-economic-v2.webp"
+},
     description: {
       de: "Spezialisierte Anlage zur Verpackung und Vorbereitung von Früchten für den Export.",
       hu: "Speciális üzem gyümölcsök exportra történő csomagolására és előkészítésére.",
@@ -680,7 +730,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.79, 17.95],
-    name: { de: "Schiffswerft Kingston", hu: "Kingstoni hajógyár", ro: "Șantier naval Kingston", en: "Kingston Shipyard" },
+    name: { de: "Schiffswerft Kingston", hu: "Kingstoni hajógyár", ro: "Șantier naval Kingston", en: "Kingston Shipyard",
+image: "/poi-images/jm-shipyard-economic-v2.webp"
+},
     description: {
       de: "Anlage für die Wartung und Reparatur von Schiffen.",
       hu: "Hajók karbantartására és javítására szolgáló létesítmény.",
@@ -707,7 +759,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-05",
     coords: [-77.55, 18.28],
-    name: { de: "Biokraftstoffanlage", hu: "Bioüzemanyag-üzem", ro: "Unitate de biocombustibil", en: "Bio-Fuel Plant" },
+    name: { de: "Biokraftstoffanlage", hu: "Bioüzemanyag-üzem", ro: "Unitate de biocombustibil", en: "Bio-Fuel Plant",
+image: "/poi-images/jm-bio-fuel-plant-economic-v2.webp"
+},
     description: {
       de: "Die Biokraftstoffanlage experimentiert mit der Gewinnung von Energie aus landwirtschaftlichen Abfällen, um die Abhängigkeit von Ölimporten zu verringern. Es ist ein nachhaltiges Vorzeigeprojekt.",
       hu: "Létesítmény bioüzemanyagok előállítására mezőgazdasági hulladékból.",
@@ -734,7 +788,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-10",
     coords: [-77.05, 18.02],
-    name: { de: "Fleischverarbeitungswerk", hu: "Húsfeldolgozó üzem", ro: "Unitate de procesare a cărnii", en: "Meat Packing Plant" },
+    name: { de: "Fleischverarbeitungswerk", hu: "Húsfeldolgozó üzem", ro: "Unitate de procesare a cărnii", en: "Meat Packing Plant",
+image: "/poi-images/jm-meat-packing-economic-v2.webp"
+},
     description: {
       de: "Großer Betrieb zur Verarbeitung von Fleischprodukten für den Inlandsmarkt.",
       hu: "Nagy üzem hústermékek feldolgozására a belföldi piac számára.",
@@ -761,7 +817,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.80, 17.96],
-    name: { de: "Kühlhaus-Logistik", hu: "Hűtőházi logisztika", ro: "Logistică de depozitare la rece", en: "Cold Storage Logistics" },
+    name: { de: "Kühlhaus-Logistik", hu: "Hűtőházi logisztika", ro: "Logistică de depozitare la rece", en: "Cold Storage Logistics",
+image: "/poi-images/jm-cold-storage-economic-v2.webp"
+},
     description: {
       de: "Dieses Kühlhaus ist ein entscheidendes Glied in der Kühlkette Jamaikas und ermöglicht die langfristige Lagerung von leicht verderblichen Lebensmitteln. Es sichert die Marktstabilität.",
       hu: "Nagy ipari hűtőberendezés romlandó áruk számára.",
@@ -788,7 +846,9 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     type: "industry",
     parent: "JM-13",
     coords: [-76.78, 17.99],
-    name: { de: "Textilfabrik Kingston", hu: "Kingstoni textilgyár", ro: "Fabrica de textile Kingston", en: "Kingston Textile Factory" },
+    name: { de: "Textilfabrik Kingston", hu: "Kingstoni textilgyár", ro: "Fabrica de textile Kingston", en: "Kingston Textile Factory",
+image: "/poi-images/jm-textile-factory-economic-v2.webp"
+},
     description: {
       de: "Die Textilfabrik produziert Kleidung und Heimtextilien für den lokalen Markt und nutzt dabei moderne Webverfahren. Sie ist ein wichtiger Arbeitgeber im verarbeitenden Gewerbe.",
       hu: "Ipari textilgyártás helyi és exportcélokra.",

@@ -7,7 +7,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-KH",
     coords: [32.5322, 15.5517],
-    name: { de: "Khartum", hu: "Kartúm", ro: "Khartoum", en: "Khartoum" },
+    name: { de: "Khartum", hu: "Kartúm", ro: "Khartoum", en: "Khartoum",
+image: "/poi-images/khartoum-cities-v2.webp"
+},
     description: {
       de: "Khartum ist die Hauptstadt und das politische Zentrum des Sudan, gelegen am Zusammenfluss von Weißem und Blauem Nil. Die Metropole vereint moderne Infrastruktur mit historischer Architektur.",
       hu: "Kartúm Szudán fővárosa és politikai központja, amely a Fehér- és Kék-Nílus összefolyásánál fekszik. A metropolisz ötvözi a modern infrastruktúrát a történelmi építészettel.",
@@ -56,7 +58,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-KH",
     coords: [32.4777, 15.6445],
-    name: { de: "Omdurman", hu: "Omdurman", ro: "Omdurman", en: "Omdurman" },
+    name: { de: "Omdurman", hu: "Omdurman", ro: "Omdurman", en: "Omdurman",
+image: "/poi-images/omdurman-cities-v2.webp"
+},
     description: {
       de: "Omdurman ist eine wichtige Siedlung im sudanesischen Bundesstaat Region KH. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Omdurman egy fontos település Szudán régió KH területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -103,7 +107,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-KH",
     coords: [32.5342, 15.6322],
-    name: { de: "Khartum Bahri", hu: "Kartúm Bahri", ro: "Khartoum Bahri", en: "Khartoum Bahri" },
+    name: { de: "Khartum Bahri", hu: "Kartúm Bahri", ro: "Khartoum Bahri", en: "Khartoum Bahri",
+image: "/poi-images/khartoum-bahri-cities-v2.webp"
+},
     description: {
       de: "Khartum Bahri ist eine wichtige Siedlung im sudanesischen Bundesstaat Region KH. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Kartúm Bahri egy fontos település Szudán régió KH területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -150,7 +156,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-RS",
     coords: [37.2164, 19.6175],
-    name: { de: "Port Sudan", hu: "Port Sudan", ro: "Port Sudan", en: "Port Sudan" },
+    name: { de: "Port Sudan", hu: "Port Sudan", ro: "Port Sudan", en: "Port Sudan",
+image: "/poi-images/port-sudan-cities-v2.webp"
+},
     description: {
       de: "Port Sudan ist die Hauptstadt des Bundesstaates Region RS im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Port Sudan Szudán régió RS államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -197,7 +205,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-KS",
     coords: [36.4, 15.45],
-    name: { de: "Kassala", hu: "Kassala", ro: "Kassala", en: "Kassala" },
+    name: { de: "Kassala", hu: "Kassala", ro: "Kassala", en: "Kassala",
+image: "/poi-images/kassala-cities-v2.webp"
+},
     description: {
       de: "Kassala ist die Hauptstadt des Bundesstaates Region KS im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Kassala Szudán régió KS államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -244,7 +254,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-GD",
     coords: [35.3833, 14.0333],
-    name: { de: "Al Qadarif", hu: "Al Qadarif", ro: "Al Qadarif", en: "Al Qadarif" },
+    name: { de: "Al Qadarif", hu: "Al Qadarif", ro: "Al Qadarif", en: "Al Qadarif",
+image: "/poi-images/al-qadarif-cities-v2.webp"
+},
     description: {
       de: "Al Qadarif ist die Hauptstadt des Bundesstaates Region GD im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Al Qadarif Szudán régió GD államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -291,7 +303,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-GZ",
     coords: [33.5, 14.4],
-    name: { de: "Wad Madani", hu: "Wad Madani", ro: "Wad Madani", en: "Wad Madani" },
+    name: { de: "Wad Madani", hu: "Wad Madani", ro: "Wad Madani", en: "Wad Madani",
+image: "/poi-images/wad-madani-cities-v2.webp"
+},
     description: {
       de: "Wad Madani ist die Hauptstadt des Bundesstaates Region GZ im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Wad Madani Szudán régió GZ államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -338,7 +352,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-WN",
     coords: [32.74, 13.18],
-    name: { de: "Rabak", hu: "Rabak", ro: "Rabak", en: "Rabak" },
+    name: { de: "Rabak", hu: "Rabak", ro: "Rabak", en: "Rabak",
+image: "/poi-images/rabak-cities-v2.webp"
+},
     description: {
       de: "Rabak ist die Hauptstadt des Bundesstaates Region WN im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Rabak Szudán régió WN államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -385,7 +401,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-BN",
     coords: [34.3944, 11.765],
-    name: { de: "Ad-Damazin", hu: "Ad-Damazin", ro: "Ad-Damazin", en: "Ad-Damazin" },
+    name: { de: "Ad-Damazin", hu: "Ad-Damazin", ro: "Ad-Damazin", en: "Ad-Damazin",
+image: "/poi-images/ad-damazin-cities-v2.webp"
+},
     description: {
       de: "Ad-Damazin ist die Hauptstadt des Bundesstaates Region BN im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Ad-Damazin Szudán régió BN államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -432,7 +450,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-SI",
     coords: [33.5672, 13.5514],
-    name: { de: "Sennar", hu: "Sennar", ro: "Sennar", en: "Sennar" },
+    name: { de: "Sennar", hu: "Sennar", ro: "Sennar", en: "Sennar",
+image: "/poi-images/sennar-cities-v2.webp"
+},
     description: {
       de: "Sennar ist die Hauptstadt des Bundesstaates Region SI im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Sennar Szudán régió SI államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -479,7 +499,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-NR",
     coords: [33.9783, 17.5892],
-    name: { de: "Ad-Damir", hu: "Ad-Damir", ro: "Ad-Damir", en: "Ad-Damir" },
+    name: { de: "Ad-Damir", hu: "Ad-Damir", ro: "Ad-Damir", en: "Ad-Damir",
+image: "/poi-images/ad-damir-cities-v2.webp"
+},
     description: {
       de: "Ad-Damir ist die Hauptstadt des Bundesstaates Region NR im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Ad-Damir Szudán régió NR államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -526,7 +548,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NR",
     coords: [33.9804, 18.0202],
-    name: { de: "Berber", hu: "Berber", ro: "Berber", en: "Berber" },
+    name: { de: "Berber", hu: "Berber", ro: "Berber", en: "Berber",
+image: "/poi-images/berber-cities-v2.webp"
+},
     description: {
       de: "Berber ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NR. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Berber egy fontos település Szudán régió NR területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -573,7 +597,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-NO",
     coords: [30.4739, 19.1667],
-    name: { de: "Dongola", hu: "Dongola", ro: "Dongola", en: "Dongola" },
+    name: { de: "Dongola", hu: "Dongola", ro: "Dongola", en: "Dongola",
+image: "/poi-images/dongola-cities-v2.webp"
+},
     description: {
       de: "Dongola ist die Hauptstadt des Bundesstaates Region NO im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Dongola Szudán régió NO államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -620,7 +646,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-ND",
     coords: [25.35, 13.6253],
-    name: { de: "Al Fashir", hu: "Al Fashir", ro: "Al Fashir", en: "Al Fashir" },
+    name: { de: "Al Fashir", hu: "Al Fashir", ro: "Al Fashir", en: "Al Fashir",
+image: "/poi-images/al-fashir-cities-v2.webp"
+},
     description: {
       de: "Al Fashir ist die Hauptstadt des Bundesstaates Region ND im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Al Fashir Szudán régió ND államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -667,7 +695,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-WD",
     coords: [22.45, 13.45],
-    name: { de: "Al-Dschunaina", hu: "Geneina", ro: "Geneina", en: "Geneina" },
+    name: { de: "Al-Dschunaina", hu: "Geneina", ro: "Geneina", en: "Geneina",
+image: "/poi-images/geneina-cities-v2.webp"
+},
     description: {
       de: "Al-Dschunaina ist die Hauptstadt des Bundesstaates Region WD im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Geneina Szudán régió WD államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -714,7 +744,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-SD",
     coords: [24.8833, 12.05],
-    name: { de: "Nyala", hu: "Nyala", ro: "Nyala", en: "Nyala" },
+    name: { de: "Nyala", hu: "Nyala", ro: "Nyala", en: "Nyala",
+image: "/poi-images/nyala-cities-v2.webp"
+},
     description: {
       de: "Nyala ist die Hauptstadt des Bundesstaates Region SD im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Nyala Szudán régió SD államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -761,7 +793,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-ED",
     coords: [26.1258, 11.4586],
-    name: { de: "Ad-Du'ain", hu: "Ed Daein", ro: "Ed Daein", en: "Ed Daein" },
+    name: { de: "Ad-Du'ain", hu: "Ed Daein", ro: "Ed Daein", en: "Ed Daein",
+image: "/poi-images/ed-daein-cities-v2.webp"
+},
     description: {
       de: "Ad-Du'ain ist die Hauptstadt des Bundesstaates Region ED im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Ed Daein Szudán régió ED államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -808,7 +842,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-CD",
     coords: [23.475, 12.9067],
-    name: { de: "Zalingei", hu: "Zalingei", ro: "Zalingei", en: "Zalingei" },
+    name: { de: "Zalingei", hu: "Zalingei", ro: "Zalingei", en: "Zalingei",
+image: "/poi-images/zalingei-cities-v2.webp"
+},
     description: {
       de: "Zalingei ist die Hauptstadt des Bundesstaates Region CD im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Zalingei Szudán régió CD államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -855,7 +891,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-NK",
     coords: [30.2167, 13.1833],
-    name: { de: "Al-Ubayyid", hu: "El Obeid", ro: "El Obeid", en: "El Obeid" },
+    name: { de: "Al-Ubayyid", hu: "El Obeid", ro: "El Obeid", en: "El Obeid",
+image: "/poi-images/el-obeid-cities-v2.webp"
+},
     description: {
       de: "Al-Ubayyid ist die Hauptstadt des Bundesstaates Region NK im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "El Obeid Szudán régió NK államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -902,7 +940,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-SK",
     coords: [29.7167, 11.0167],
-    name: { de: "Kaduqli", hu: "Kaduqli", ro: "Kaduqli", en: "Kaduqli" },
+    name: { de: "Kaduqli", hu: "Kaduqli", ro: "Kaduqli", en: "Kaduqli",
+image: "/poi-images/kaduqli-cities-v2.webp"
+},
     description: {
       de: "Kaduqli ist die Hauptstadt des Bundesstaates Region SK im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Kaduqli Szudán régió SK államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -949,7 +989,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SD-WK",
     coords: [28.3667, 11.8333],
-    name: { de: "Al-Fula", hu: "Al-Fulah", ro: "Al-Fulah", en: "Al-Fulah" },
+    name: { de: "Al-Fula", hu: "Al-Fulah", ro: "Al-Fulah", en: "Al-Fulah",
+image: "/poi-images/al-fulah-cities-v2.webp"
+},
     description: {
       de: "Al-Fula ist die Hauptstadt des Bundesstaates Region WK im Sudan. Sie spielt eine bedeutende Rolle in der regionalen Verwaltung und Wirtschaft. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Al-Fulah Szudán régió WK államának fővárosa. Jelentős szerepet játszik a regionális közigazgatásban és gazdaságban. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -996,7 +1038,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-WN",
     coords: [32.6636, 13.1629],
-    name: { de: "Kosti", hu: "Kosti", ro: "Kosti", en: "Kosti" },
+    name: { de: "Kosti", hu: "Kosti", ro: "Kosti", en: "Kosti",
+image: "/poi-images/kosti-cities-v2.webp"
+},
     description: {
       de: "Kosti ist eine wichtige Siedlung im sudanesischen Bundesstaat Region WN. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Kosti egy fontos település Szudán régió WN területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1043,7 +1087,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-SI",
     coords: [33.9317, 13.1511],
-    name: { de: "Sindscha", hu: "Singa", ro: "Singa", en: "Singa" },
+    name: { de: "Sindscha", hu: "Singa", ro: "Singa", en: "Singa",
+image: "/poi-images/singa-cities-v2.webp"
+},
     description: {
       de: "Sindscha ist eine wichtige Siedlung im sudanesischen Bundesstaat Region SI. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Singa egy fontos település Szudán régió SI területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1090,7 +1136,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-RS",
     coords: [37.332, 19.1065],
-    name: { de: "Suakin", hu: "Suakin", ro: "Suakin", en: "Suakin" },
+    name: { de: "Suakin", hu: "Suakin", ro: "Suakin", en: "Suakin",
+image: "/poi-images/suakin-cities-v2.webp"
+},
     description: {
       de: "Suakin ist eine wichtige Siedlung im sudanesischen Bundesstaat Region RS. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Suakin egy fontos település Szudán régió RS területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1137,7 +1185,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-RS",
     coords: [37.728, 18.425],
-    name: { de: "Tokar", hu: "Tokar", ro: "Tokar", en: "Tokar" },
+    name: { de: "Tokar", hu: "Tokar", ro: "Tokar", en: "Tokar",
+image: "/poi-images/tokar-cities-v2.webp"
+},
     description: {
       de: "Tokar ist eine wichtige Siedlung im sudanesischen Bundesstaat Region RS. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Tokar egy fontos település Szudán régió RS területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1184,7 +1234,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-KS",
     coords: [35.5975, 15.3308],
-    name: { de: "Neu-Halfa", hu: "Új-Halfa", ro: "Noua Halfa", en: "New Halfa" },
+    name: { de: "Neu-Halfa", hu: "Új-Halfa", ro: "Noua Halfa", en: "New Halfa",
+image: "/poi-images/new-halfa-cities-v2.webp"
+},
     description: {
       de: "Neu-Halfa ist eine wichtige Siedlung im sudanesischen Bundesstaat Region KS. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Új-Halfa egy fontos település Szudán régió KS területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1231,7 +1283,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NR",
     coords: [33.435, 16.6919],
-    name: { de: "Schendi", hu: "Shendi", ro: "Shendi", en: "Shendi" },
+    name: { de: "Schendi", hu: "Shendi", ro: "Shendi", en: "Shendi",
+image: "/poi-images/shendi-cities-v2.webp"
+},
     description: {
       de: "Schendi ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NR. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Shendi egy fontos település Szudán régió NR területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1278,7 +1332,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NO",
     coords: [31.3533, 21.7853],
-    name: { de: "Wadi Halfa", hu: "Wadi Halfa", ro: "Wadi Halfa", en: "Wadi Halfa" },
+    name: { de: "Wadi Halfa", hu: "Wadi Halfa", ro: "Wadi Halfa", en: "Wadi Halfa",
+image: "/poi-images/wadi-halfa-cities-v2.webp"
+},
     description: {
       de: "Wadi Halfa ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NO. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Wadi Halfa egy fontos település Szudán régió NO területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1325,7 +1381,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NO",
     coords: [31.85, 18.55],
-    name: { de: "Karima", hu: "Karima", ro: "Karima", en: "Karima" },
+    name: { de: "Karima", hu: "Karima", ro: "Karima", en: "Karima",
+image: "/poi-images/karima-cities-v2.webp"
+},
     description: {
       de: "Karima ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NO. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Karima egy fontos település Szudán régió NO területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1372,7 +1430,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NO",
     coords: [31.8028, 18.4728],
-    name: { de: "Merowe", hu: "Merowe", ro: "Merowe", en: "Merowe" },
+    name: { de: "Merowe", hu: "Merowe", ro: "Merowe", en: "Merowe",
+image: "/poi-images/merowe-cities-v2.webp"
+},
     description: {
       de: "Merowe ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NO. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Merowe egy fontos település Szudán régió NO területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1419,7 +1479,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GZ",
     coords: [32.9083, 14.2253],
-    name: { de: "Al-Managil", hu: "Al-Managil", ro: "Al-Managil", en: "Al-Managil" },
+    name: { de: "Al-Managil", hu: "Al-Managil", ro: "Al-Managil", en: "Al-Managil",
+image: "/poi-images/al-managil-cities-v2.webp"
+},
     description: {
       de: "Al-Managil ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GZ. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Al-Managil egy fontos település Szudán régió GZ területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1466,7 +1528,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GZ",
     coords: [33.2981, 14.7336],
-    name: { de: "Al-Hasaheisa", hu: "Al-Hasaheisa", ro: "Al-Hasaheisa", en: "Al-Hasaheisa" },
+    name: { de: "Al-Hasaheisa", hu: "Al-Hasaheisa", ro: "Al-Hasaheisa", en: "Al-Hasaheisa",
+image: "/poi-images/al-hasaheisa-cities-v2.webp"
+},
     description: {
       de: "Al-Hasaheisa ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GZ. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Al-Hasaheisa egy fontos település Szudán régió GZ területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1513,7 +1577,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-WN",
     coords: [32.3308, 13.9922],
-    name: { de: "Ad-Duwaim", hu: "Ad-Duwaim", ro: "Ad-Duwaim", en: "Ad-Duwaim" },
+    name: { de: "Ad-Duwaim", hu: "Ad-Duwaim", ro: "Ad-Duwaim", en: "Ad-Duwaim",
+image: "/poi-images/ad-duwaim-cities-v2.webp"
+},
     description: {
       de: "Ad-Duwaim ist eine wichtige Siedlung im sudanesischen Bundesstaat Region WN. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Ad-Duwaim egy fontos település Szudán régió WN területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1560,7 +1626,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NK",
     coords: [31.2167, 12.9069],
-    name: { de: "Umm Ruwaba", hu: "Umm Ruwaba", ro: "Umm Ruwaba", en: "Umm Ruwaba" },
+    name: { de: "Umm Ruwaba", hu: "Umm Ruwaba", ro: "Umm Ruwaba", en: "Umm Ruwaba",
+image: "/poi-images/umm-ruwaba-cities-v2.webp"
+},
     description: {
       de: "Umm Ruwaba ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Umm Ruwaba egy fontos település Szudán régió NK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1607,7 +1675,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NK",
     coords: [30.3708, 13.7025],
-    name: { de: "Bara", hu: "Bara", ro: "Bara", en: "Bara" },
+    name: { de: "Bara", hu: "Bara", ro: "Bara", en: "Bara",
+image: "/poi-images/bara-cities-v2.webp"
+},
     description: {
       de: "Bara ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Bara egy fontos település Szudán régió NK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1654,7 +1724,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-WK",
     coords: [28.4167, 12.7],
-    name: { de: "An-Nahud", hu: "An-Nahud", ro: "An-Nahud", en: "An-Nahud" },
+    name: { de: "An-Nahud", hu: "An-Nahud", ro: "An-Nahud", en: "An-Nahud",
+image: "/poi-images/an-nahud-cities-v2.webp"
+},
     description: {
       de: "An-Nahud ist eine wichtige Siedlung im sudanesischen Bundesstaat Region WK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "An-Nahud egy fontos település Szudán régió WK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1701,7 +1773,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-WK",
     coords: [27.8106, 11.3417],
-    name: { de: "Babanusa", hu: "Babanusa", ro: "Babanusa", en: "Babanusa" },
+    name: { de: "Babanusa", hu: "Babanusa", ro: "Babanusa", en: "Babanusa",
+image: "/poi-images/babanusa-cities-v2.webp"
+},
     description: {
       de: "Babanusa ist eine wichtige Siedlung im sudanesischen Bundesstaat Region WK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Babanusa egy fontos település Szudán régió WK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1748,7 +1822,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-WK",
     coords: [27.7333, 11.0333],
-    name: { de: "Al-Muglad", hu: "Al-Muglad", ro: "Al-Muglad", en: "Al-Muglad" },
+    name: { de: "Al-Muglad", hu: "Al-Muglad", ro: "Al-Muglad", en: "Al-Muglad",
+image: "/poi-images/al-muglad-cities-v2.webp"
+},
     description: {
       de: "Al-Muglad ist eine wichtige Siedlung im sudanesischen Bundesstaat Region WK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Al-Muglad egy fontos település Szudán régió WK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1795,7 +1871,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-SK",
     coords: [29.65, 12.05],
-    name: { de: "Dalanj", hu: "Dalanj", ro: "Dalanj", en: "Dalanj" },
+    name: { de: "Dalanj", hu: "Dalanj", ro: "Dalanj", en: "Dalanj",
+image: "/poi-images/dalanj-cities-v2.webp"
+},
     description: {
       de: "Dalanj ist eine wichtige Siedlung im sudanesischen Bundesstaat Region SK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Dalanj egy fontos település Szudán régió SK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1842,7 +1920,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-WK",
     coords: [29.2433, 12.35],
-    name: { de: "Abu Zabad", hu: "Abu Zabad", ro: "Abu Zabad", en: "Abu Zabad" },
+    name: { de: "Abu Zabad", hu: "Abu Zabad", ro: "Abu Zabad", en: "Abu Zabad",
+image: "/poi-images/abu-zabad-cities-v2.webp"
+},
     description: {
       de: "Abu Zabad ist eine wichtige Siedlung im sudanesischen Bundesstaat Region WK. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Abu Zabad egy fontos település Szudán régió WK területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -1889,7 +1969,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-BN",
     coords: [34.3828, 11.855],
-    name: { de: "Ar-Rusairis", hu: "Ar-Rusairis", ro: "Ar-Rusairis", en: "Ar-Rusairis" },
+    name: { de: "Ar-Rusairis", hu: "Ar-Rusairis", ro: "Ar-Rusairis", en: "Ar-Rusairis",
+image: "/poi-images/ar-rusairis-cities-v2.webp"
+},
     description: {
       de: "Ar-Rusairis ist eine wichtige Siedlung im sudanesischen Bundesstaat Region BN. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Ar-Rusairis egy fontos település Szudán régió BN területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -1936,7 +2018,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-BN",
     coords: [34.2831, 10.5517],
-    name: { de: "Kurmuk", hu: "Kurmuk", ro: "Kurmuk", en: "Kurmuk" },
+    name: { de: "Kurmuk", hu: "Kurmuk", ro: "Kurmuk", en: "Kurmuk",
+image: "/poi-images/kurmuk-cities-v2.webp"
+},
     description: {
       de: "Kurmuk ist eine wichtige Siedlung im sudanesischen Bundesstaat Region BN. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Kurmuk egy fontos település Szudán régió BN területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -1983,7 +2067,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-BN",
     coords: [34.0817, 11.3325],
-    name: { de: "Bau", hu: "Bau", ro: "Bau", en: "Bau" },
+    name: { de: "Bau", hu: "Bau", ro: "Bau", en: "Bau",
+image: "/poi-images/bau-cities-v2.webp"
+},
     description: {
       de: "Bau ist eine wichtige Siedlung im sudanesischen Bundesstaat Region BN. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Bau egy fontos település Szudán régió BN területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -2030,7 +2116,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-SI",
     coords: [34.0531, 13.3108],
-    name: { de: "Ad-Dindar", hu: "Ad-Dindar", ro: "Ad-Dindar", en: "Ad-Dindar" },
+    name: { de: "Ad-Dindar", hu: "Ad-Dindar", ro: "Ad-Dindar", en: "Ad-Dindar",
+image: "/poi-images/ad-dindar-cities-v2.webp"
+},
     description: {
       de: "Ad-Dindar ist eine wichtige Siedlung im sudanesischen Bundesstaat Region SI. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Ad-Dindar egy fontos település Szudán régió SI területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -2077,7 +2165,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-SI",
     coords: [33.6267, 13.6247],
-    name: { de: "Maiurno", hu: "Maiurno", ro: "Maiurno", en: "Maiurno" },
+    name: { de: "Maiurno", hu: "Maiurno", ro: "Maiurno", en: "Maiurno",
+image: "/poi-images/maiurno-cities-v2.webp"
+},
     description: {
       de: "Maiurno ist eine wichtige Siedlung im sudanesischen Bundesstaat Region SI. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Maiurno egy fontos település Szudán régió SI területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -2124,7 +2214,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GZ",
     coords: [33.3283, 14.9392],
-    name: { de: "Tambul", hu: "Tambul", ro: "Tambul", en: "Tambul" },
+    name: { de: "Tambul", hu: "Tambul", ro: "Tambul", en: "Tambul",
+image: "/poi-images/tambul-cities-v2.webp"
+},
     description: {
       de: "Tambul ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GZ. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Tambul egy fontos település Szudán régió GZ területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -2171,7 +2263,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GZ",
     coords: [33.3236, 14.7578],
-    name: { de: "Rufaa", hu: "Rufaa", ro: "Rufaa", en: "Rufaa" },
+    name: { de: "Rufaa", hu: "Rufaa", ro: "Rufaa", en: "Rufaa",
+image: "/poi-images/rufaa-cities-v2.webp"
+},
     description: {
       de: "Rufaa ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GZ. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Rufaa egy fontos település Szudán régió GZ területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -2218,7 +2312,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GZ",
     coords: [33.0536, 15.0211],
-    name: { de: "Al-Kamlin", hu: "Al-Kamlin", ro: "Al-Kamlin", en: "Al-Kamlin" },
+    name: { de: "Al-Kamlin", hu: "Al-Kamlin", ro: "Al-Kamlin", en: "Al-Kamlin",
+image: "/poi-images/al-kamlin-cities-v2.webp"
+},
     description: {
       de: "Al-Kamlin ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GZ. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Al-Kamlin egy fontos település Szudán régió GZ területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -2265,7 +2361,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GD",
     coords: [34.5936, 14.1506],
-    name: { de: "Al-Faw", hu: "Al-Faw", ro: "Al-Faw", en: "Al-Faw" },
+    name: { de: "Al-Faw", hu: "Al-Faw", ro: "Al-Faw", en: "Al-Faw",
+image: "/poi-images/al-faw-cities-v2.webp"
+},
     description: {
       de: "Al-Faw ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GD. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Al-Faw egy fontos település Szudán régió GD területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -2312,7 +2410,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-GD",
     coords: [35.7761, 13.5286],
-    name: { de: "Doka", hu: "Doka", ro: "Doka", en: "Doka" },
+    name: { de: "Doka", hu: "Doka", ro: "Doka", en: "Doka",
+image: "/poi-images/doka-cities-v2.webp"
+},
     description: {
       de: "Doka ist eine wichtige Siedlung im sudanesischen Bundesstaat Region GD. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Doka egy fontos település Szudán régió GD területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -2359,7 +2459,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-KS",
     coords: [36.1436, 15.8239],
-    name: { de: "Aroma", hu: "Aroma", ro: "Aroma", en: "Aroma" },
+    name: { de: "Aroma", hu: "Aroma", ro: "Aroma", en: "Aroma",
+image: "/poi-images/aroma-cities-v2.webp"
+},
     description: {
       de: "Aroma ist eine wichtige Siedlung im sudanesischen Bundesstaat Region KS. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Aroma egy fontos település Szudán régió KS területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -2406,7 +2508,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-RS",
     coords: [36.3311, 18.3303],
-    name: { de: "Haya", hu: "Haya", ro: "Haya", en: "Haya" },
+    name: { de: "Haya", hu: "Haya", ro: "Haya", en: "Haya",
+image: "/poi-images/haya-cities-v2.webp"
+},
     description: {
       de: "Haya ist eine wichtige Siedlung im sudanesischen Bundesstaat Region RS. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Haya egy fontos település Szudán régió RS területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -2453,7 +2557,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-RS",
     coords: [36.8333, 18.8333],
-    name: { de: "Sinkat", hu: "Sinkat", ro: "Sinkat", en: "Sinkat" },
+    name: { de: "Sinkat", hu: "Sinkat", ro: "Sinkat", en: "Sinkat",
+image: "/poi-images/sinkat-cities-v2.webp"
+},
     description: {
       de: "Sinkat ist eine wichtige Siedlung im sudanesischen Bundesstaat Region RS. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Sinkat egy fontos település Szudán régió RS területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -2500,7 +2606,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-KH",
     coords: [32.525, 15.7533],
-    name: { de: "Karari", hu: "Karari", ro: "Karari", en: "Karari" },
+    name: { de: "Karari", hu: "Karari", ro: "Karari", en: "Karari",
+image: "/poi-images/karari-cities-v2.webp"
+},
     description: {
       de: "Karari ist eine wichtige Siedlung im sudanesischen Bundesstaat Region KH. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Karari egy fontos település Szudán régió KH területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -2547,7 +2655,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-KH",
     coords: [32.4833, 15.2333],
-    name: { de: "Jabal Awliya", hu: "Jabal Awliya", ro: "Jabal Awliya", en: "Jabal Awliya" },
+    name: { de: "Jabal Awliya", hu: "Jabal Awliya", ro: "Jabal Awliya", en: "Jabal Awliya",
+image: "/poi-images/jabal-awliya-cities-v2.webp"
+},
     description: {
       de: "Jabal Awliya ist eine wichtige Siedlung im sudanesischen Bundesstaat Region KH. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Jabal Awliya egy fontos település Szudán régió KH területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -2594,7 +2704,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NR",
     coords: [33.3267, 19.5317],
-    name: { de: "Abu Hamad", hu: "Abu Hamad", ro: "Abu Hamad", en: "Abu Hamad" },
+    name: { de: "Abu Hamad", hu: "Abu Hamad", ro: "Abu Hamad", en: "Abu Hamad",
+image: "/poi-images/abu-hamad-cities-v2.webp"
+},
     description: {
       de: "Abu Hamad ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NR. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Abu Hamad egy fontos település Szudán régió NR területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -2641,7 +2753,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NO",
     coords: [30.9389, 18.0536],
-    name: { de: "Ad-Dabba", hu: "Ad-Dabba", ro: "Ad-Dabba", en: "Ad-Dabba" },
+    name: { de: "Ad-Dabba", hu: "Ad-Dabba", ro: "Ad-Dabba", en: "Ad-Dabba",
+image: "/poi-images/ad-dabba-cities-v2.webp"
+},
     description: {
       de: "Ad-Dabba ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NO. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Ad-Dabba egy fontos település Szudán régió NO területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",
@@ -2688,7 +2802,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-NO",
     coords: [30.4136, 19.2319],
-    name: { de: "Argo", hu: "Argo", ro: "Argo", en: "Argo" },
+    name: { de: "Argo", hu: "Argo", ro: "Argo", en: "Argo",
+image: "/poi-images/argo-cities-v2.webp"
+},
     description: {
       de: "Argo ist eine wichtige Siedlung im sudanesischen Bundesstaat Region NO. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die traditionellen Märkte ziehen viele Besucher aus dem Umland an.",
       hu: "Argo egy fontos település Szudán régió NO területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A hagyományos piacok sok látogatót vonzanak a környékről.",
@@ -2735,7 +2851,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-ND",
     coords: [24.6667, 14.2],
-    name: { de: "Kutum", hu: "Kutum", ro: "Kutum", en: "Kutum" },
+    name: { de: "Kutum", hu: "Kutum", ro: "Kutum", en: "Kutum",
+image: "/poi-images/kutum-cities-v2.webp"
+},
     description: {
       de: "Kutum ist eine wichtige Siedlung im sudanesischen Bundesstaat Region ND. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. Die landwirtschaftliche Produktion in der Umgebung prägt das Stadtbild.",
       hu: "Kutum egy fontos település Szudán régió ND területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. A környék mezőgazdasági termelése meghatározza a városképet.",
@@ -2782,7 +2900,9 @@ export const poiExtraSudanCitiesV2: POI[] = [
     type: "city",
     parent: "SD-ND",
     coords: [25.7953, 14.1203],
-    name: { de: "Mellit", hu: "Mellit", ro: "Mellit", en: "Mellit" },
+    name: { de: "Mellit", hu: "Mellit", ro: "Mellit", en: "Mellit",
+image: "/poi-images/mellit-cities-v2.webp"
+},
     description: {
       de: "Mellit ist eine wichtige Siedlung im sudanesischen Bundesstaat Region ND. Die Stadt dient als zentraler Handelsknotenpunkt für die lokale Bevölkerung. In den letzten Jahrzehnten hat sich die Infrastruktur stark weiterentwickelt.",
       hu: "Mellit egy fontos település Szudán régió ND területén. A város központi kereskedelmi csomópontként szolgál a helyi lakosság számára. Az elmúlt évtizedekben az infrastruktúra sokat fejlődött.",

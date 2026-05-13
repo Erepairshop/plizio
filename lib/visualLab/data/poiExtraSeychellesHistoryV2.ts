@@ -10,8 +10,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Victoria Uhrturm (Lorloz)",
       hu: "Victoriai óratorony (Lorloz)",
       ro: "Turnul cu ceas din Victoria (Lorloz)",
-      en: "Victoria Clock Tower (Lorloz)"
-    },
+      en: "Victoria Clock Tower (Lorloz)",
+image: "/poi-images/victoria-clock-tower-history-v2.webp"
+},
     description: {
       de: "Ein Wahrzeichen im Zentrum von Victoria, das 1903 zum Gedenken an Königin Victoria errichtet wurde und dem Londoner Big Ben nachempfunden ist.",
       hu: "Egy ikonikus emlékmű Victoria központjában, amelyet 1903-ban emeltek Viktória királynő tiszteletére, a londoni Big Ben mintájára.",
@@ -33,8 +34,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Mission Lodge (Venn's Town)",
       hu: "Mission Lodge (Venn's Town)",
       ro: "Mission Lodge (Venn's Town)",
-      en: "Mission Lodge (Venn's Town)"
-    },
+      en: "Mission Lodge (Venn's Town)",
+image: "/poi-images/mission-lodge-history-v2.webp"
+},
     description: {
       de: "Eine historische Stätte auf Mahé, die einst eine Schule für befreite Sklavenkinder beherbergte und einen atemberaubenden Blick auf die Küste bietet.",
       hu: "Történelmi helyszín Mahé szigetén, amely egykor felszabadított rabszolgagyerekek iskolájának adott otthont, és lenyűgöző kilátást nyújt a partra.",
@@ -56,8 +58,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "L'Union Estate",
       hu: "L'Union Estate",
       ro: "L'Union Estate",
-      en: "L'Union Estate"
-    },
+      en: "L'Union Estate",
+image: "/poi-images/l-union-estate-history-v2.webp"
+},
     description: {
       de: "Eine historische Plantage auf La Digue, die Einblicke in die koloniale Landwirtschaft der Seychellen und die Kopra-Produktion bietet.",
       hu: "Történelmi ültetvény La Digue szigetén, amely betekintést nyújt a Seychelle-szigetek gyarmati mezőgazdaságába és a kopra-termelésbe.",
@@ -80,8 +83,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Domaine de Val des Près",
       hu: "Domaine de Val des Près",
       ro: "Domaine de Val des Près",
-      en: "Domaine de Val des Près"
-    },
+      en: "Domaine de Val des Près",
+image: "/poi-images/domaine-de-val-des-pres-history-v2.webp"
+},
     description: {
       de: "Ein rekonstruiertes kreolisches Dorf in Au Cap, das ein prächtiges Herrenhaus von 1870 und traditionelle Handwerkskunst zeigt.",
       hu: "Rekonstruált kreol falu Au Capban, amely egy pompás 1870-es udvarházat és hagyományos kézművességet mutat be.",
@@ -103,8 +107,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Bel Air Friedhof",
       hu: "Bel Air temető",
       ro: "Cimitirul Bel Air",
-      en: "Bel Air Cemetery"
-    },
+      en: "Bel Air Cemetery",
+image: "/poi-images/bel-air-cemetery-history-v2.webp"
+},
     description: {
       de: "Der älteste Friedhof der Seychellen, auf dem viele berühmte Persönlichkeiten der frühen Kolonialgeschichte begraben sind.",
       hu: "A Seychelle-szigetek legrégebbi temetője, ahol a korai gyarmati történelem számos híres személyisége nyugszik.",
@@ -126,8 +131,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Bicentennial-Monument (Twa Zwazo)",
       hu: "Kétszáz éves évfordulós emlékmű (Twa Zwazo)",
       ro: "Monumentul bicentenar (Twa Zwazo)",
-      en: "Bicentennial Monument (Twa Zwazo)"
-    },
+      en: "Bicentennial Monument (Twa Zwazo)",
+image: "/poi-images/bicentennial-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Victoria, das 1978 zum 200. Jahrestag der Gründung der Stadt errichtet wurde und die drei Herkunftskontinente symbolisiert.",
       hu: "Emlékmű Victoriában, amelyet 1978-ban állítottak a város alapításának 200. évfordulójára, és a három származási kontinenst jelképezi.",
@@ -150,8 +156,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Sir Selwyn Selwyn-Clarke Markt",
       hu: "Sir Selwyn Selwyn-Clarke piac",
       ro: "Piața Sir Selwyn Selwyn-Clarke",
-      en: "Sir Selwyn Selwyn-Clarke Market"
-    },
+      en: "Sir Selwyn Selwyn-Clarke Market",
+image: "/poi-images/sir-selwyn-market-history-v2.webp"
+},
     description: {
       de: "Der 1840 errichtete Hauptmarkt von Victoria ist ein lebendiges Zeugnis der Geschichte und des Handels der Inseln.",
       hu: "Az 1840-ben alapított victoriai főpiac a szigetek történelmének és kereskedelmének élő bizonyítéka.",
@@ -173,8 +180,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "St. Paul's Kathedrale",
       hu: "Szent Pál-székesegyház",
       ro: "Catedrala Sfântul Paul",
-      en: "St. Paul's Cathedral"
-    },
+      en: "St. Paul's Cathedral",
+image: "/poi-images/st-pauls-cathedral-history-v2.webp"
+},
     description: {
       de: "Die anglikanische Kathedrale in Victoria, deren Ursprünge bis ins Jahr 1859 zurückreichen und die für ihre schlichte Eleganz bekannt ist.",
       hu: "Victoria anglikán székesegyháza, amelynek eredete 1859-ig nyúlik vissza, és letisztult eleganciájáról ismert.",
@@ -196,8 +204,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Kathedrale der Unbefleckten Empfängnis",
       hu: "Szeplőtelen Fogantatás székesegyház",
       ro: "Catedrala Imaculata Concepție",
-      en: "Immaculate Conception Cathedral"
-    },
+      en: "Immaculate Conception Cathedral",
+image: "/poi-images/immaculate-conception-cathedral-history-v2.webp"
+},
     description: {
       de: "Die größte katholische Kirche des Landes, ein beeindruckendes Bauwerk im französischen Kolonialstil im Herzen der Hauptstadt.",
       hu: "Az ország legnagyobb katolikus temploma, lenyűgöző francia gyarmati stílusú épület a főváros szívében.",
@@ -219,8 +228,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "State House",
       hu: "State House",
       ro: "State House",
-      en: "State House"
-    },
+      en: "State House",
+image: "/poi-images/state-house-history-v2.webp"
+},
     description: {
       de: "Der Amtssitz des Präsidenten der Seychellen, ein elegantes Gebäude von 1910, das ursprünglich als Sitz der britischen Gouverneure diente.",
       hu: "A Seychelle-szigetek elnökének hivatalos rezidenciája, egy elegáns 1910-es épület, amely eredetileg a brit kormányzók székhelye volt.",
@@ -242,8 +252,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Kenwyn House",
       hu: "Kenwyn House",
       ro: "Kenwyn House",
-      en: "Kenwyn House"
-    },
+      en: "Kenwyn House",
+image: "/poi-images/kenwyn-house-history-v2.webp"
+},
     description: {
       de: "Eines der schönsten Beispiele kolonialer Architektur in Victoria, ein sorgfältig restauriertes Holzhaus aus dem 19. Jahrhundert.",
       hu: "A gyarmati építészet egyik legszebb példája Victoriában, egy gondosan restaurált 19. századi faház.",
@@ -265,8 +276,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Dauban Mausoleum",
       hu: "Dauban-mauzóleum",
       ro: "Mausoleul Dauban",
-      en: "Dauban Mausoleum"
-    },
+      en: "Dauban Mausoleum",
+image: "/poi-images/dauban-mausoleum-history-v2.webp"
+},
     description: {
       de: "Ein beeindruckendes neoklassizistisches Grabmal auf der Insel Silhouette, das für die Familie Dauban errichtet wurde.",
       hu: "Lenyűgöző neoklasszicista síremlék Silhouette szigetén, amelyet a Dauban család számára emeltek.",
@@ -289,8 +301,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Carnegie-Bibliothek",
       hu: "Carnegie Könyvtár",
       ro: "Biblioteca Carnegie",
-      en: "Carnegie Library"
-    },
+      en: "Carnegie Library",
+image: "/poi-images/carnegie-library-history-v2.webp"
+},
     description: {
       de: "Eine historische Bibliothek in Victoria, die 1910 mit Mitteln des Philanthropen Andrew Carnegie erbaut wurde.",
       hu: "Történelmi könyvtár Victoriában, amely 1910-ben épült Andrew Carnegie filantróp támogatásával.",
@@ -312,8 +325,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "La Bastille",
       hu: "La Bastille",
       ro: "La Bastille",
-      en: "La Bastille"
-    },
+      en: "La Bastille",
+image: "/poi-images/la-bastille-history-v2.webp"
+},
     description: {
       de: "Ein prächtiges Kolonialgebäude in Victoria, das heute kulturelle Institutionen beherbergt und für seine Steinarchitektur bekannt ist.",
       hu: "Pompás gyarmati épület Victoriában, amely ma kulturális intézményeknek ad otthont, és kőépítészetéről ismert.",
@@ -335,8 +349,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Eustache Sarde's Haus",
       hu: "Eustache Sarde háza",
       ro: "Casa lui Eustache Sarde",
-      en: "Eustache Sarde's House"
-    },
+      en: "Eustache Sarde's House",
+image: "/poi-images/eustache-sarde-house-history-v2.webp"
+},
     description: {
       de: "Eines der wenigen verbliebenen traditionellen Holzhäuser auf La Digue, das die kreolische Architektur des frühen 20. Jahrhunderts zeigt.",
       hu: "La Digue azon kevés megmaradt hagyományos faházainak egyike, amely a 20. század eleji kreol építészetet képviseli.",
@@ -358,8 +373,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Grann Kaz (Frégate Island)",
       hu: "Grann Kaz (Frégate-sziget)",
       ro: "Grann Kaz (Insula Frégate)",
-      en: "Grann Kaz (Frégate Island)"
-    },
+      en: "Grann Kaz (Frégate Island)",
+image: "/poi-images/grann-kaz-fregate-history-v2.webp"
+},
     description: {
       de: "Ein historisches Plantagenhaus auf der Insel Frégate, das sorgfältig restauriert wurde, um die Atmosphäre der Kolonialzeit zu bewahren.",
       hu: "Történelmi ültetvényház Frégate szigetén, amelyet gondosan restauráltak a gyarmati idők hangulatának megőrzése érdekében.",
@@ -382,8 +398,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Befreiungsdenkmal (Zonm Lib)",
       hu: "Felszabadulási emlékmű (Zonm Lib)",
       ro: "Monumentul Eliberării (Zonm Lib)",
-      en: "Liberation Monument (Zonm Lib)"
-    },
+      en: "Liberation Monument (Zonm Lib)",
+image: "/poi-images/liberation-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Victoria, das an den Staatsstreich von 1977 erinnert, der als wichtiger Wendepunkt in der Geschichte gilt.",
       hu: "Emlékmű Victoriában, amely az 1977-es államcsínyre emlékeztet, amely fontos fordulópont volt a szigetek történelmében.",
@@ -405,8 +422,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Kaz Zanana",
       hu: "Kaz Zanana",
       ro: "Kaz Zanana",
-      en: "Kaz Zanana"
-    },
+      en: "Kaz Zanana",
+image: "/poi-images/kaz-zanana-history-v2.webp"
+},
     description: {
       de: "Ein ikonisches kreolisches Holzhaus in Victoria, das heute als Kunstgalerie dient und ein wichtiges Stück Architekturgeschichte ist.",
       hu: "Ikonikus kreol faház Victoriában, amely ma művészeti galériaként működik, és az építészeti történelem fontos része.",
@@ -429,8 +447,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Le Jardin du Roi",
       hu: "Le Jardin du Roi",
       ro: "Le Jardin du Roi",
-      en: "Le Jardin du Roi"
-    },
+      en: "Le Jardin du Roi",
+image: "/poi-images/le-jardin-du-roi-history-v2.webp"
+},
     description: {
       de: "Ein historischer Gewürzgarten in Anse Royale, der die Tradition des ersten Gartens der französischen Siedler von 1772 fortsetzt.",
       hu: "Történelmi fűszerkert Anse Royale-ban, amely a francia telepesek 1772-es első kertjének hagyományát folytatja.",
@@ -453,8 +472,9 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       de: "Nationalmuseum für Geschichte",
       hu: "Nemzeti Történeti Múzeum",
       ro: "Muzeul Național de Istorie",
-      en: "National Museum of History"
-    },
+      en: "National Museum of History",
+image: "/poi-images/national-history-museum-history-v2.webp"
+},
     description: {
       de: "Das im historischen Gebäude des ehemaligen Obersten Gerichtshofs untergebrachte Museum zeigt die wechselvolle Geschichte der Inselgruppe.",
       hu: "Az egykori Legfelsőbb Bíróság történelmi épületében elhelyezett múzeum a szigetcsoport mozgalmas történelmét mutatja be.",

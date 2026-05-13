@@ -4,7 +4,9 @@ export const lithuaniaReliefV2: POI[] = [
   {
     id: "lithuania-juozapine-hill-relief-v2",
     type: "peak",
-    name: { de: "Juozapinė", hu: "Juozapinė-domb", ro: "Dealul Juozapinė", en: "Juozapinė Hill" },
+    name: { de: "Juozapinė", hu: "Juozapinė-domb", ro: "Dealul Juozapinė", en: "Juozapinė Hill",
+image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp"
+},
     coords: [25.625, 54.528],
     coordinates: { lat: 54.528, lng: 25.625 },
     description: {
@@ -19,11 +21,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 292,7 metri", "Fostul cel mai înalt punct al țării", "Situat în districtul Vilnius", "Format prin procese glaciare"],
       en: ["Elevation of 292.7 meters", "Formerly the highest point of Lithuania", "Located near Medininkai village", "Formed during the last ice age"],
     },
-    imageHint: "Juozapine Hill summit area Lithuania", image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp"},
-  {
+imageHint: "Juozapine Hill summit area Lithuania",
+    descriptionAdvanced: {
+      de: "Der Juozapinė, gelegen im Medininkai-Hochland im Osten Litauens, hielt für lange Zeit den Titel der höchsten Erhebung des Landes. Mit einer Höhe von 292,7 Metern ragt er markant aus der hügeligen, von eiszeitlichen Gletschern geformten Landschaft hervor. Erst durch präzisiere Messungen im Jahr 2004 wurde der benachbarte Aukštojas als um wenige Zentimeter höher identifiziert. Der Hügel ist heute ein beliebtes Ziel für Wanderer und Naturliebhaber, die die weiten Ausblicke über die bewaldeten Gebiete und Felder in der Nähe der belarussischen Grenze schätzen. Ein großer Gedenkstein auf dem Gipfel ehrt den litauischen König Mindaugas. Die Umgebung zeichnet sich durch unberührte Natur und eine reiche Flora aus, die typisch für die Moränenlandschaft dieser Region ist.",
+      hu: "A Kelet-Litvániában, a Medininkai-felföldön magasodó Juozapinė-domb évtizedeken át hivatalosan az ország legmagasabb pontjaként volt ismert. A 292,7 méteres magasságával kiemelkedik a jégkorszak által formált dombos vidéken, egészen a 2004-es precíziós mérésekig, amelyek során a közeli Aukštojas bizonyult néhány centiméterrel magasabbnak. A magaslat tetején egy nagyméretű emlékkő áll, amelyet Mindaugas litván király tiszteletére állítottak fel. A domb környezete kiváló lehetőséget nyújt a túrázóknak, akik élvezhetik a fehérorosz határ közelében fekvő hatalmas erdőségekre és mezőkre nyíló kilátást. A terület gazdag növény- és állatvilága hűen tükrözi a morénavidék sajátos természeti adottságait.",
+      ro: "Dealul Juozapinė, situat în pitorescul Podiș Medininkai din estul Lituaniei, a fost considerat zeci de ani cel mai înalt punct al țării. Cu o altitudine de 292,7 metri deasupra nivelului mării, acest relief glaciar domină peisajul până când măsurătorile precise din 2004 au acordat titlul vârfului vecin, Aukštojas. Astăzi, dealul este o atracție importantă pentru drumeții pasionați de natura nealterată și panoramele vaste spre pădurile ce se întind până la granița cu Belarus. Pe culmea sa se găsește o piatră memorială impunătoare dedicată regelui Mindaugas, marcând importanța istorică și culturală a zonei. Peisajul din jur este marcat de pajiști întinse și un relief vălurit specific regiunii morenaice.",
+      en: "Juozapinė Hill, located in the Medininkai Highland of eastern Lithuania, held the prestigious title of the country's highest elevation for many decades. Standing at 292.7 meters above sea level, this glacial formation prominently overlooks the surrounding landscape, until modern measurements in 2004 proved the neighboring Aukštojas to be slightly taller. The summit features a large memorial stone dedicated to the historical Lithuanian King Mindaugas, adding cultural significance to the natural landmark. It remains a very popular destination for hikers and nature enthusiasts who come to enjoy the panoramic views over the extensive forests and agricultural fields near the Belarusian border. The area perfectly showcases the rolling moraine terrain shaped during the last ice age."
+    },
+    factsAdvanced: {
+      de: ["Reach an elevation of exactly 292.7 meters above sea level", "Considered the highest peak in Lithuania until the year 2004", "Located in the Medininkai Highland near the Belarusian border", "Features a prominent memorial stone dedicated to King Mindaugas", "Formed by advancing and retreating glaciers during the last ice age", "Just a short walking distance from the current highest point Aukštojas"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp",
+},  {
     id: "lithuania-kruopine-hill-relief-v2",
     type: "peak",
-    name: { de: "Kruopinė", hu: "Kruopinė-domb", ro: "Dealul Kruopinė", en: "Kruopinė Hill" },
+    name: { de: "Kruopinė", hu: "Kruopinė-domb", ro: "Dealul Kruopinė", en: "Kruopinė Hill",
+image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp"
+},
     coords: [25.539, 54.512],
     coordinates: { lat: 54.512, lng: 25.539 },
     description: {
@@ -38,11 +55,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Al doilea vârf ca înălțime din țară", "Altitudine de 293,4 metri", "Situat în Podișul Medininkai", "Aproape de satul Medininkai"],
       en: ["Second highest point in Lithuania", "Elevation of 293.4 meters", "Part of the Medininkai Highland", "Located near the Belarusian border"],
     },
-    imageHint: "Kruopine hill landscape Lithuania", image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp"},
-  {
+imageHint: "Kruopine hill landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Der Kruopinė ist mit einer Höhe von 293,4 Metern offiziell die zweithöchste Erhebung der Republik Litauen. Der Hügel befindet sich im weitläufigen Medininkai-Hochland, südöstlich der Hauptstadt Vilnius, und ist Teil eines wichtigen geomorphologischen Schutzgebietes. Die Formung des Kruopinė geht auf die massiven Gletscherbewegungen der letzten Eiszeit zurück, die eine charakteristische Moränenlandschaft hinterlassen haben. Heute ist die Erhebung von dichten, intakten Wäldern und landwirtschaftlichen Nutzflächen umgeben, was sie zu einem Rückzugsort für diverse Tierarten macht. Naturfreunde schätzen die Ruhe abseits der großen Touristenströme sowie die unberührten Pfade, die sanft ansteigend über die Hügelflanken führen. Die geographische Nähe zur Staatsgrenze macht die Region auch historisch interessant.",
+      hu: "A 293,4 méter magas Kruopinė hivatalosan Litvánia második legmagasabb pontja, amely a fővárostól délkeletre, a Medininkai-felföldön helyezkedik el. A domb és környéke egy jelentős geomorfológiai természetvédelmi terület része, amely megőrzi a vidék jégkorszaki eredetű formáit. A Kruopinė lejtőit sűrű erdők és hagyományos mezőgazdasági területek borítják, így a táj változatos és érintetlen élőhelyet biztosít számos állatfajnak. A terület kevésbé ismert a turisták körében, így tökéletes célpont azok számára, akik a csendet és a nyugalmat keresik a természetben. A finoman ívelő morénagerincek jól mutatják a több ezer évvel ezelőtti gleccserek munkáját, miközben a dombról szép kilátás nyílik az alacsonyabban fekvő völgyekre.",
+      ro: "Cu o altitudine de 293,4 metri, Kruopinė este recunoscut oficial ca al doilea cel mai înalt punct din Republica Lituania. Situat în Podișul Medininkai, la sud-est de capitala Vilnius, dealul face parte dintr-o rezervație geomorfologică protejată care conservă formele de relief glaciare. Aspectul actual al dealului Kruopinė a fost modelat de mișcările masive ale ghețarilor din ultima eră glaciară, rezultând un peisaj vălurit presărat cu roci aduse de gheață. Versanții sunt acoperiți de păduri dense și terenuri agricole, oferind un habitat excelent pentru fauna sălbatică locală. Lipsa turismului de masă face din acest loc un refugiu liniștit pentru iubitorii de natură și o zonă excelentă pentru drumeții exploratorii aproape de granița cu Belarus.",
+      en: "At an elevation of 293.4 meters, Kruopinė Hill is officially recognized as the second-highest point in the Republic of Lithuania. Located in the Medininkai Highland southeast of Vilnius, the hill is an integral part of a protected geomorphological reserve established to preserve the unique glacial landscape. The formation of Kruopinė dates back to the extensive glacial movements of the last ice age, which carved out the characteristic rolling moraine terrain of the region. The hill's slopes are covered with dense, undisturbed forests and patches of traditional farmland, providing a crucial habitat for local wildlife. Because it is less frequented by large crowds, it offers a tranquil environment for hikers seeking peaceful trails and a deep connection with the natural history of the Baltic region."
+    },
+    factsAdvanced: {
+      de: ["Officially measured at an elevation of 293.4 meters above sea level", "Ranked as the second-highest peak in the entire country", "Part of the protected Medininkai geomorphological reserve area", "Located in close proximity to the Belarusian national border", "Geological structure composed primarily of glacial moraine deposits", "Surrounded by a mix of thick forests and traditional agricultural lands"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp",
+},  {
     id: "lithuania-nevaisiai-hill-relief-v2",
     type: "peak",
-    name: { de: "Nevaišiai", hu: "Nevaišiai-domb", ro: "Dealul Nevaišiai", en: "Nevaišiai Hill" },
+    name: { de: "Nevaišiai", hu: "Nevaišiai-domb", ro: "Dealul Nevaišiai", en: "Nevaišiai Hill",
+image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp"
+},
     coords: [26.033, 55.483],
     coordinates: { lat: 55.483, lng: 26.033 },
     description: {
@@ -57,11 +89,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Aukštaitija", "Altitudine de 289 metri", "Situat în districtul Ignalina", "Zonă populară pentru drumeții"],
       en: ["Highest point in Aukštaitija Highland", "Elevation of 289 meters", "Located in Ignalina district", "Significant viewpoint in eastern Lithuania"],
     },
-    imageHint: "Nevaisiai hill landscape Ignalina Lithuania", image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp"},
-  {
+imageHint: "Nevaisiai hill landscape Ignalina Lithuania",
+    descriptionAdvanced: {
+      de: "Der Nevaišiai ist mit einer Höhe von 289 Metern der markanteste und höchste Punkt des gesamten Aukštaitija-Hochlands im Osten Litauens. Er erhebt sich stolz im Bezirk Ignalina, einer Region, die für ihre schier unzähligen Seen und dichten Wälder berühmt ist. Von seinem leicht zugänglichen Gipfel aus eröffnet sich ein atemberaubendes Panorama über die umliegende, waldreiche Seenplatte, was ihn zu einem beliebten Aussichtspunkt macht. Geologisch gesehen ist der Hügel das Produkt massiver Gletscherschübe, die riesige Mengen an Sand, Kies und Gestein zu diesem imposanten Wall auftürmten. Die Hänge des Nevaišiai sind oft mit tiefgrünen Fichten- und Kiefernwäldern bewachsen, die typisch für diese ostlitauische Landschaft sind. Wanderwege führen durch die unberührte Natur direkt zur Bergkuppe.",
+      hu: "A 289 méter magas Nevaišiai az északkelet-litvániai Aukštaitija-felföld legkiemelkedőbb és legmagasabb pontja. Az Ignalina körzetében található domb a híres litván tóvidék szívében emelkedik, ahol jégkorszaki tavak tucatjai bújnak meg a völgyekben. A könnyen megközelíthető csúcsról kiváló panoráma nyílik a sűrű fenyvesekre és a környező víztükrökre, így a hely a természetjárók kedvelt célpontja. Földtani szempontból a magaslatot a több ezer évvel ezelőtt visszahúzódó gleccserek formálták, hatalmas mennyiségű homokot, kavicsot és sziklatörmeléket felhalmozva. A Nevaišiai oldalait sötétzöld erdőségek borítják, míg a környéken számos jelzett turistaútvonal fut, amelyek bemutatják a kelet-litván táj páratlan szépségét.",
+      ro: "Cu o înălțime de 289 de metri, Dealul Nevaišiai este cel mai înalt și mai proeminent punct din întregul Podiș Aukštaitija din estul Lituaniei. Se înalță maiestuos în districtul Ignalina, o regiune renumită pentru salba sa de lacuri glaciare și pădurile dese. De pe culmea sa ușor accesibilă, vizitatorii se pot bucura de o panoramă largă asupra peisajului lacustru înconjurător, fiind un punct de belvedere excelent. Din punct de vedere geologic, dealul a fost format prin acumularea de nisip, pietriș și roci împinse de ghețari în timpul ultimei glaciațiuni. Versanții sunt acoperiți cu păduri adânci de molid și pin, completând frumusețea sălbatică a acestei regiuni populare printre turiștii pasionați de drumeții.",
+      en: "Standing at an elevation of 289 meters, Nevaišiai Hill is the most prominent and highest point of the Aukštaitija Highland in eastern Lithuania. It is located in the Ignalina district, a picturesque region celebrated for its dense forests and intricate network of glacial lakes. The easily accessible summit provides an excellent vantage point, offering expansive panoramic views over the surrounding forested lake district. Geologically, the hill is a massive terminal moraine formed by the advancing and retreating glaciers that deposited vast amounts of sand, gravel, and boulders. The slopes of Nevaišiai are deeply covered with thick spruce and pine forests, which are highly characteristic of the eastern Lithuanian landscape. Hiking trails around the hill attract many nature enthusiasts throughout the year."
+    },
+    factsAdvanced: {
+      de: ["Reaches a peak elevation of 289 meters above sea level", "Recognized as the absolute highest point in the Aukštaitija Highland", "Geographically situated in the scenic Ignalina district", "Provides expansive views over the famous Lithuanian lake district", "Composed mainly of glacial deposits like sand, gravel, and boulders", "Slopes are predominantly covered by thick coniferous forests"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp",
+},  {
     id: "lithuania-medvegalis-hill-relief-v2",
     type: "peak",
-    name: { de: "Medvėgalis", hu: "Medvėgalis", ro: "Dealul Medvėgalis", en: "Medvėgalis Hill" },
+    name: { de: "Medvėgalis", hu: "Medvėgalis", ro: "Dealul Medvėgalis", en: "Medvėgalis Hill",
+image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp"
+},
     coords: [22.383, 55.627],
     coordinates: { lat: 55.627, lng: 22.383 },
     description: {
@@ -76,11 +123,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din regiunea Žemaitija", "Altitudine de 234,6 metri", "Locul unei vechi fortificații", "Format din două culmi apropiate"],
       en: ["Highest point in the Žemaitija Highland", "Elevation of 234.6 meters", "Site of a historical hill fort", "Consists of two distinct peaks"],
     },
-    imageHint: "Medvegalis hill fort and landscape Lithuania", image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp"},
-  {
+imageHint: "Medvegalis hill fort and landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Der Medvėgalis ist mit seinen 234,6 Metern nicht nur der höchste Punkt des Žemaitija-Hochlands, sondern auch ein Ort von immenser historischer Bedeutung für Westlitauen. Der Hügel besteht eigentlich aus zwei markanten Gipfeln, auf denen im 14. Jahrhundert eine der stärksten hölzernen Verteidigungsburgen der Schamaiten stand. Diese Festung widerstand zahlreichen verheerenden Angriffen des Deutschen Ordens, was den Ort zu einem Symbol des litauischen Widerstands machte. Die geographische Lage bot den Verteidigern einen strategischen Vorteil mit einer weiten Sicht über die bewaldeten Ebenen und Täler der Region. Heute führen gepflegte Holztreppen und Wanderwege die steilen Flanken hinauf zur Bergkuppe, von der aus Besucher bis zu dreizehn umliegende Kirchen und zahllose Dörfer sehen können. Die archäologischen Schichten des Hügels bergen noch immer Geheimnisse aus der heidnischen Epoche.",
+      hu: "A 234,6 méter magas Medvėgalis nemcsak a nyugat-litvániai Žemaitija-felföld legmagasabb pontja, hanem az ország történelmének egyik legfontosabb helyszíne is. A magaslat két különálló csúcsból áll, amelyeken a 14. században a zsemaitok egyik legerősebb és legjelentősebb faerődítménye állt. Ez a stratégiai fontosságú vár számtalan heves támadást vert vissza a Német Lovagrend részéről, ezáltal az ellenállás és a szabadság szimbólumává vált. A meredek lejtők természetes védelmet biztosítottak, míg a tetőről kiváló kilátás nyílt a környező vidékre, megkönnyítve a közeledő ellenség észlelését. Napjainkban jól kiépített falépcsőkön lehet feljutni a tetőre, ahonnan tiszta időben akár tizenhárom környékbeli falu templomtornya is kivehető. A hegy régészeti jelentősége a pogány litván múlt megértésében is kiemelkedő.",
+      ro: "Cu o altitudine de 234,6 metri, Medvėgalis este cel mai înalt punct din Podișul Žemaitija și un sit de o importanță istorică majoră pentru vestul Lituaniei. Dealul este format din două culmi distincte, unde în secolul al XIV-lea s-a aflat una dintre cele mai formidabile fortărețe de lemn ale samogițienilor. Această cetate a rezistat la numeroase asedii devastatoare din partea Cavalerilor Teutoni, devenind un simbol puternic al rezistenței lituaniene. Pantele abrupte ofereau o apărare naturală formidabilă, în timp ce vizibilitatea excelentă de pe vârf asigura un avantaj tactic. Astăzi, trepte de lemn bine întreținute duc vizitatorii spre culme, de unde, în zilele senine, se pot observa până la treisprezece biserici din satele înconjurătoare. Straturile arheologice ale dealului continuă să fascineze cercetătorii epocii păgâne.",
+      en: "At 234.6 meters, Medvėgalis is not only the highest point of the Žemaitija Highland but also a site of immense historical and cultural significance in western Lithuania. The prominent hill actually consists of two distinct peaks, which during the 14th century hosted one of the most formidable wooden fortresses of the Samogitians. This strategic stronghold withstood numerous fierce sieges by the Teutonic Order, earning its status as a symbol of fierce Lithuanian resistance. The natural steepness of the slopes provided excellent defensive advantages, while the sweeping views from the top allowed for early detection of approaching enemies. Today, well-maintained wooden stairs guide visitors up to the summit, from where up to thirteen surrounding village churches can be spotted on a clear day. The hill remains an important archaeological site detailing Lithuania's pagan past."
+    },
+    factsAdvanced: {
+      de: ["Peaks at an elevation of exactly 234.6 meters above sea level", "Serves as the highest point in the entire Žemaitija Highland region", "Hosted a major 14th-century wooden fortress of the Samogitians", "Famous for withstanding multiple sieges by the Teutonic Order", "Comprises two distinct peaks offering extensive panoramic views", "Features well-preserved archaeological layers from the pagan era"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp",
+},  {
     id: "lithuania-satrija-hill-relief-v2",
     type: "peak",
-    name: { de: "Šatrija", hu: "Šatrija-domb", ro: "Dealul Šatrija", en: "Šatrija Hill" },
+    name: { de: "Šatrija", hu: "Šatrija-domb", ro: "Dealul Šatrija", en: "Šatrija Hill",
+image: "/poi-images/lithuania-satrija-hill-relief-v2.webp"
+},
     coords: [22.56, 55.871],
     coordinates: { lat: 55.871, lng: 22.56 },
     description: {
@@ -95,11 +157,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 228,7 metri", "Vechi loc de cult păgân", "Proeminent în peisajul din Žemaitija", "Găzduiește un sit arheologic"],
       en: ["Elevation of 228.7 meters", "Ancient pagan cult site", "Part of the Žemaitija Highland", "Significant archaeological hill fort"],
     },
-    imageHint: "Satrija hill and landscape Telšiai district Lithuania", image: "/poi-images/lithuania-satrija-hill-relief-v2.webp"},
-  {
+imageHint: "Satrija hill and landscape Telšiai district Lithuania",
+    descriptionAdvanced: {
+      de: "Der Šatrija ist mit 228,7 Metern über dem Meeresspiegel einer der markantesten und legendenumwobensten Hügel im Žemaitija-Hochland. Bereits in vorchristlicher Zeit galt diese Erhebung als ein bedeutendes Heiligtum und zentraler Kultplatz der baltischen Stämme. Die archäologischen Ausgrabungen auf dem Gipfel zeugen von einer langen Besiedlungsgeschichte und einer alten Holzfestung, die Teil eines ausgedehnten Verteidigungssystems war. Zahlreiche Mythen ranken sich um den Berg, darunter Erzählungen über Hexen, die sich hier in der Mittsommernacht versammelt haben sollen, um ihre Rituale abzuhalten. Heute bietet der Šatrija Besuchern einen weiten Rundumblick über die sanft gewellte Landschaft Niederlitauens. Ein markantes Holzkreuz auf dem Gipfel erinnert an die spätere Christianisierung der Region.",
+      hu: "A 228,7 méter magas Šatrija a Žemaitija-felföld egyik legikonikusabb és legtitokzatosabb dombja, amely már a kereszténység felvétele előtt is központi kultuszhely volt. A balti törzsek szent helyként tisztelték, és a csúcson végzett régészeti feltárások egy kiterjedt védelmi rendszer részét képező ősi faerőd nyomait hozták felszínre. A magaslathoz számos legenda fűződik, a legismertebbek szerint a litván boszorkányok itt gyűltek össze Szent Iván éjjelén, hogy megtartsák titkos rituáléikat. Napjainkban a Šatrija népszerű kirándulóhely, ahonnan zavartalan körpanoráma nyílik Nyugat-Litvánia lankás dombvidékére. A hegytetőn álló nagyméretű fakereszt a régió későbbi keresztényesítésének állít emléket.",
+      ro: "Cu o altitudine de 228,7 metri, Šatrija este unul dintre cele mai emblematice și misterioase dealuri din Podișul Žemaitija. Încă din perioada precreștină, această proeminență a fost considerată un sanctuar major și un loc central de cult pentru triburile baltice. Săpăturile arheologice de pe culme au scos la iveală rămășițele unei vechi fortificații de lemn, care făcea parte dintr-un sistem defensiv extins. Dealul este învăluit în numeroase legende locale, cele mai cunoscute povestind despre vrăjitoare care se adunau aici în noaptea de Sânziene pentru a-și oficia ritualurile. Astăzi, Šatrija atrage mulți vizitatori oferind o panoramă circulară neobstrucționată asupra peisajului vălurit din vestul Lituaniei. O cruce mare de lemn pe vârf comemorează creștinarea ulterioară a regiunii.",
+      en: "At an elevation of 228.7 meters, Šatrija is one of the most iconic and legend-filled hills in the Žemaitija Highland. Long before the region was Christianized, this prominent elevation served as a major sanctuary and a central cult site for the ancient Baltic tribes. Archaeological excavations on the summit have uncovered the remnants of an old wooden fortress that was once part of an extensive regional defense network. The hill is steeped in local mythology, with the most famous legends claiming that Lithuanian witches would gather here on Midsummer's Eve to perform their secret rituals. Today, Šatrija is a popular destination offering a sweeping 360-degree panorama of the gently rolling landscape of western Lithuania. A large wooden cross standing on the peak commemorates the later Christianization of the area."
+    },
+    factsAdvanced: {
+      de: ["Reaches an elevation of 228.7 meters above sea level", "Considered one of the most prominent hills in the Žemaitija Highland", "Served as a major pagan sanctuary and cult site in ancient times", "Archaeological excavations revealed a historical wooden hill fort", "Rich in local folklore, often associated with witches and rituals", "Features a large wooden cross memorializing the region's Christianization"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-satrija-hill-relief-v2.webp",
+},  {
     id: "lithuania-pavistytis-hill-relief-v2",
     type: "peak",
-    name: { de: "Pavištytis", hu: "Pavištytis-domb", ro: "Dealul Pavištytis", en: "Pavištytis Hill" },
+    name: { de: "Pavištytis", hu: "Pavištytis-domb", ro: "Dealul Pavištytis", en: "Pavištytis Hill",
+image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp"
+},
     coords: [22.733, 54.383],
     coordinates: { lat: 54.383, lng: 22.733 },
     description: {
@@ -114,11 +191,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 282,4 metri", "Vârful maxim din Podișul Sūduva", "Situat în Parcul Regional Vištytis", "Aproape de punctul triplu de frontieră"],
       en: ["Elevation of 282.4 meters", "Highest point in Sūduva Highland", "Located in Vištytis Regional Park", "Near the Polish and Russian borders"],
     },
-    imageHint: "Pavistytis hill view near Vistytis lake Lithuania", image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp"},
-  {
+imageHint: "Pavistytis hill view near Vistytis lake Lithuania",
+    descriptionAdvanced: {
+      de: "Der Pavištytis ist mit einer Höhe von 282,4 Metern der höchste Punkt des Sūduva-Hochlands und befindet sich im äußersten Südwesten Litauens. Der Hügel liegt eingebettet in die malerische Landschaft des Regionalparks Vištytis, in unmittelbarer Nähe zum Dreiländereck zwischen Litauen, Polen und der russischen Exklave Kaliningrad. Entstanden durch die Ablagerungen der massiven eiszeitlichen Gletscher, präsentiert sich der Pavištytis heute als eine sanfte Erhebung, die dicht von Wäldern und landwirtschaftlich geprägten Feldern überzogen ist. Die Region rund um den Hügel zeichnet sich durch extrem fruchtbare Böden aus, was sie zu einem der wichtigsten Agrargebiete des Landes macht. Wanderwege führen durch die ruhige Natur, wobei der nahegelegene, glasklare Vištytis-See die Umgebung prägt.",
+      hu: "A 282,4 méteres tengerszint feletti magasságával a Pavištytis a Sūduva-felföld legmagasabb pontja, amely Litvánia délnyugati csücskében fekszik. A domb a festői Vištytis Regionális Park szívében helyezkedik el, közvetlenül a litván-lengyel-orosz (kalinyingrádi) hármashatár közelében. A masszív jégkorszaki gleccserek hordalékából felépült Pavištytis napjainkban egy lankás magaslat, amelyet sűrű erdők és művelt mezőgazdasági területek borítanak. A domb körüli régió rendkívül termékeny talajjal rendelkezik, ami az ország egyik legfontosabb agrártérségévé teszi. A nyugodt természeti környezetet átszelő túraútvonalak mellett a közeli, kristálytiszta vizű Vištytis-tó is jelentős vonzerőt jelent a látogatók számára.",
+      ro: "Cu o înălțime de 282,4 metri, Pavištytis este cel mai înalt punct din Podișul Sūduva, situat în extremitatea sud-vestică a Lituaniei. Dealul se află în peisajul pitoresc al Parcului Regional Vištytis, în imediata apropiere a punctului triplu de frontieră dintre Lituania, Polonia și exclava rusă Kaliningrad. Format din depozitele masive aduse de ghețari în ultima eră glaciară, Pavištytis este astăzi o proeminență blândă, acoperită de păduri dense și terenuri agricole. Regiunea din jurul dealului este renumită pentru solurile sale extrem de fertile, fiind una dintre cele mai importante zone agricole ale țării. Traseele de drumeție străbat natura liniștită, iar lacul cristalin Vištytis din apropiere adaugă un farmec deosebit întregii zone.",
+      en: "At an elevation of 282.4 meters, Pavištytis is the highest point of the Sūduva Highland, located in the extreme southwestern corner of Lithuania. The hill is nestled within the picturesque landscape of the Vištytis Regional Park, situated in close proximity to the tripoint border connecting Lithuania, Poland, and the Russian exclave of Kaliningrad. Formed by massive glacial deposits during the last ice age, Pavištytis today presents itself as a gentle elevation covered by dense forests and cultivated agricultural fields. The region surrounding the hill boasts exceptionally fertile soils, making it one of the country's most vital agricultural areas. Hiking trails meander through the tranquil natural environment, heavily influenced by the nearby crystal-clear waters of Lake Vištytis."
+    },
+    factsAdvanced: {
+      de: ["Highest elevation in the Sūduva Highland at 282.4 meters", "Located within the scenic boundaries of Vištytis Regional Park", "Situated very close to the tripoint border of Lithuania, Poland, and Russia", "Geologically composed of fertile glacial moraine deposits", "Surrounded by some of the most productive agricultural lands in Lithuania", "Proximity to the clear and deep Lake Vištytis adds to its natural value"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp",
+},  {
     id: "lithuania-girniu-hill-relief-v2",
     type: "peak",
-    name: { de: "Girnių", hu: "Girnių-domb", ro: "Dealul Girnių", en: "Girnių Hill" },
+    name: { de: "Girnių", hu: "Girnių-domb", ro: "Dealul Girnių", en: "Girnių Hill",
+image: "/poi-images/lithuania-girniu-hill-relief-v2.webp"
+},
     coords: [25.117, 55.45],
     coordinates: { lat: 55.45, lng: 25.117 },
     description: {
@@ -133,11 +225,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 194 metri", "Situat în districtul Anykščiai", "Oferă panoramă spre valea Šventoji", "Relief proeminent în regiune"],
       en: ["Elevation of 194 meters", "Located in Anykščiai district", "Views over the Šventoji valley", "Prominent local landform"],
     },
-    imageHint: "Girniu hill Anyksciai district Lithuania", image: "/poi-images/lithuania-girniu-hill-relief-v2.webp"},
-  {
+imageHint: "Girniu hill Anyksciai district Lithuania",
+    descriptionAdvanced: {
+      de: "Der Girnių-Hügel ist eine markante Erhebung von etwa 194 Metern im Bezirk Anykščiai, im Herzen von Ostlitauen. Er sticht in der umliegenden hügeligen Landschaft besonders durch seine für die Region ungewöhnlich steilen Flanken hervor. Diese geologische Besonderheit ist das Resultat starker Schmelzwasserströme, die während des Rückzugs der eiszeitlichen Gletscher tiefe Täler in den Sand und Kies schnitten. Vom Kamm des Hügels aus bietet sich ein beeindruckender Blick auf das tief eingeschnittene Tal des Flusses Šventoji, eines der malerischsten Flusstäler des Landes. Der Girnių-Hügel war aufgrund seiner dominierenden Position in der Vergangenheit auch als natürlicher Beobachtungspunkt und lokalgeschichtlicher Verteidigungsposten von Bedeutung. Heute ist das Gebiet dicht bewaldet und bietet ruhige Wanderwege für Naturliebhaber.",
+      hu: "A Girnių-domb egy nagyjából 194 méter magas, jellegzetes képződmény az Anykščiai körzetben, Kelet-Litvánia szívében. A környező dombos tájból leginkább a régióban szokatlanul meredek lejtőivel emelkedik ki. Ez a geológiai sajátosság a jégkorszaki gleccserek visszahúzódásakor lezúduló hatalmas olvadékvizeknek köszönhető, amelyek mély völgyeket vájtak a homokba és a kavicsba. A dombgerincről lenyűgöző kilátás nyílik a Šventoji folyó mélyen bevágódott völgyére, amely az ország egyik legfestőibb természeti látványossága. A Girnių-domb domináns elhelyezkedése miatt a múltban természetes megfigyelőpontként és helyi jelentőségű védelmi állásként is szolgált. Napjainkban a sűrűn erdősült terület békés túraútvonalakat kínál a természetjáróknak.",
+      ro: "Dealul Girnių este o proeminență marcantă de aproximativ 194 de metri situată în districtul Anykščiai, în inima estului Lituaniei. Se distinge în peisajul deluros înconjurător prin pantele sale neobișnuit de abrupte pentru această regiune. Această particularitate geologică este rezultatul curenților puternici de apă de topire, care, în timpul retragerii ghețarilor, au sculptat văi adânci în depozitele de nisip și pietriș. De pe creasta dealului se deschide o priveliște impresionantă asupra văii adânci a râului Šventoji, una dintre cele mai pitorești văi fluviale din țară. Datorită poziției sale dominante, dealul Girnių a fost folosit în trecut și ca punct natural de observație și avanpost defensiv local. Astăzi, zona este dens împădurită și oferă trasee liniștite pentru iubitorii de drumeții.",
+      en: "Girnių Hill is a striking elevation of approximately 194 meters located in the Anykščiai district, in the heart of eastern Lithuania. It stands out in the surrounding hilly landscape due to its unusually steep slopes for the region. This distinct geological feature is the result of powerful glacial meltwater streams that carved deep valleys into the sand and gravel deposits as the ice age glaciers retreated. From the crest of the hill, visitors are treated to an impressive view over the deeply incised valley of the Šventoji River, widely considered one of the country's most picturesque river valleys. Because of its commanding position, Girnių Hill historically served as a natural observation point and a local defensive outpost. Today, the heavily forested area provides peaceful hiking trails for nature enthusiasts."
+    },
+    factsAdvanced: {
+      de: ["Reaches an approximate elevation of 194 meters above sea level", "Located in the culturally and naturally rich Anykščiai district", "Known for its unusually steep slopes formed by glacial meltwater", "Provides an excellent vantage point overlooking the Šventoji River valley", "Historically utilized as a natural observation and defensive post", "Covered by dense forests offering numerous tranquil hiking paths"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-girniu-hill-relief-v2.webp",
+},  {
     id: "lithuania-ladakalnis-hill-relief-v2",
     type: "peak",
-    name: { de: "Ladakalnis", hu: "Ladakalnis", ro: "Ladakalnis", en: "Ladakalnis Hill" },
+    name: { de: "Ladakalnis", hu: "Ladakalnis", ro: "Ladakalnis", en: "Ladakalnis Hill",
+image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp"
+},
     coords: [25.986, 55.366],
     coordinates: { lat: 55.366, lng: 25.986 },
     description: {
@@ -152,11 +259,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 175 metri", "Panoramă asupra a șase lacuri", "În Parcul Național Aukštaitija", "Venerat în trecut de păgâni"],
       en: ["Elevation of 175 meters", "Views of six surrounding lakes", "In Aukštaitija National Park", "Ancient pagan sacrificial site"],
     },
-    imageHint: "Ladakalnis hill view with lakes Lithuania", image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp"},
-  {
+imageHint: "Ladakalnis hill view with lakes Lithuania",
+    descriptionAdvanced: {
+      de: "Der Ladakalnis ist mit einer Höhe von 175 Metern eine der bekanntesten und beeindruckendsten geomorphologischen Formationen im litauischen Nationalpark Aukštaitija. Obwohl er nicht die höchste Erhebung der Region ist, bietet sein strategisch perfekt gelegener Gipfel ein Panorama, das im gesamten Baltikum seinesgleichen sucht. Von hier aus können Besucher gleichzeitig auf sechs verschiedene, eiszeitlich geformte Seen blicken, darunter der Linkmenas und der Ūkojas, die durch dichte, smaragdgrüne Kiefernwälder getrennt sind. Historisch und kulturell ist der Berg tief verwurzelt, da er in heidnischen Zeiten ein heiliger Opferplatz war, der vermutlich der baltischen Göttin Lada gewidmet war. Als geschütztes Naturdenkmal zieht der Ladakalnis jährlich Tausende von Touristen an. Eine alte Eiche auf dem Gipfel wird noch heute mit kleinen Opfergaben und Bändern geschmückt.",
+      hu: "A 175 méter magas Ladakalnis az Aukštaitija Nemzeti Park egyik legismertebb és leglenyűgözőbb geomorfológiai képződménye Litvániában. Bár nem a régió legmagasabb pontja, tökéletes stratégiai elhelyezkedésű csúcsa olyan panorámát nyújt, amelynek aligha akad párja a Baltikumban. A látogatók innen egyszerre hat különböző, jégkorszak által vájt tóra – köztük a Linkmenasra és az Ūkojasra – láthatnak rá, amelyeket smaragdzöld fenyvesek választanak el egymástól. A hegy történelmileg és kulturálisan is mély gyökerekkel rendelkezik, hiszen a pogány időkben szent áldozati hely volt, amelyet feltehetően Lada balti istennőnek szenteltek. Védett természeti emlékként a Ladakalnis évente turisták ezreit vonzza. A tetőn álló öreg tölgyfát a látogatók mind a mai napig apró áldozati szalagokkal díszítik.",
+      ro: "Cu o altitudine de 175 de metri, Ladakalnis este una dintre cele mai faimoase și impresionante formațiuni geomorfologice din Parcul Național Aukštaitija. Deși nu este cel mai înalt punct din regiune, vârful său perfect poziționat strategic oferă o panoramă inegalabilă în statele baltice. De aici, vizitatorii pot admira simultan șase lacuri diferite formate în era glaciară, inclusiv Linkmenas și Ūkojas, care sunt separate de păduri dese de pin de culoare verde smarald. Din punct de vedere istoric și cultural, muntele are rădăcini adânci, fiind un sanctuar sacru în perioada precreștină, dedicat probabil zeiței baltice Lada. Ca monument natural protejat, Ladakalnis atrage mii de turiști anual. Un stejar bătrân de pe culme este și astăzi decorat de vizitatori cu mici ofrande și panglici.",
+      en: "At 175 meters high, Ladakalnis is one of the most famous and spectacular geomorphological formations in Lithuania's Aukštaitija National Park. While not the absolute highest elevation in the region, its strategically perfect summit offers a panorama that is arguably unmatched in the Baltics. From this vantage point, visitors can look out over six different glacial lakes simultaneously, including Linkmenas and Ūkojas, interspersed with dense emerald-green pine forests. The hill is deeply rooted in history and culture, having served as a sacred sacrificial site during pagan times, believed to be dedicated to the Baltic goddess Lada. As a highly protected natural monument, Ladakalnis attracts thousands of tourists every year. An old oak tree standing on the summit is still frequently adorned with small traditional offerings and ribbons by modern visitors."
+    },
+    factsAdvanced: {
+      de: ["Elevated 175 meters above sea level within Aukštaitija National Park", "Famous for offering simultaneous views of six different glacial lakes", "Served as an ancient pagan sacrificial site dedicated to the goddess Lada", "Recognized and protected as a national natural monument of Lithuania", "Surrounded by deep, emerald-green pine forests typical of the region", "A traditional oak tree on the summit is still used for small modern offerings"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp",
+},  {
     id: "lithuania-aukstaiciai-upland-relief-v2",
     type: "mountain",
-    name: { de: "Aukštaitija-Hochland", hu: "Aukštaitija-felföld", ro: "Podișul Aukštaitija", en: "Aukštaitija Highland" },
+    name: { de: "Aukštaitija-Hochland", hu: "Aukštaitija-felföld", ro: "Podișul Aukštaitija", en: "Aukštaitija Highland",
+image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp"
+},
     coords: [25.5, 55.5],
     coordinates: { lat: 55.5, lng: 25.5 },
     description: {
@@ -171,11 +293,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Nevaišiai", "Format de activitatea glaciară", "Nucleul zonei lacustre lituaniene", "Situat în partea de est a țării"],
       en: ["Highest point is Nevaišiai Hill", "Formed by glacial processes", "Center of the Lithuanian lake district", "Located in eastern Lithuania"],
     },
-    imageHint: "Aukstaitija highland hilly landscape with lakes Lithuania", image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp"},
-  {
+imageHint: "Aukstaitija highland hilly landscape with lakes Lithuania",
+    descriptionAdvanced: {
+      de: "Das Aukštaitija-Hochland im Osten Litauens ist eine faszinierende und abwechslungsreiche Naturlandschaft, die während der letzten großen Eiszeit durch die gigantischen Kräfte von Gletschern geformt wurde. Die hügelige Region ist geprägt von unzähligen, tief eingebetteten Seen, die oft durch schmale Wasserwege oder Flüsse miteinander verbunden sind und ein einzigartiges blaues Netzwerk bilden. Zwischen diesen Gewässern erheben sich langgezogene Moränenrücken und sanfte Hügel, die überwiegend von dichten, alten Kiefern- und Fichtenwäldern bedeckt sind. Der höchste Punkt dieses Hochlands ist der Nevaišiai mit 289 Metern, der imposant über die umliegende Seenplatte wacht. Neben seiner geologischen Bedeutung spielt das Hochland auch eine zentrale Rolle im litauischen Ökotourismus, da es als Kerngebiet des Aukštaitija-Nationalparks unberührte Lebensräume für viele geschützte Pflanzen- und Tierarten bietet.",
+      hu: "Az Aukštaitija-felföld Kelet-Litvánia egyik legvarázslatosabb és legváltozatosabb természeti régiója, amelyet az utolsó jégkorszak visszahúzódó gleccserei formáltak jelenlegi alakjára. Ezt a hullámzó dombvidéket számtalan, mélyen a tájba ágyazott, kristálytiszta tó tagolja, amelyek gyakran keskeny csatornákon és folyókon keresztül kapcsolódnak egymáshoz. A kék víztükrök között elterülő morénagerinceket és lankás dombokat többnyire sűrű, ősi fenyőerdők borítják, amelyek kiváló menedéket nyújtanak a helyi élővilágnak. A felföld legmagasabb pontja a 289 méter magas Nevaišiai, amely büszkén emelkedik a tóvidék fölé. Földtani értékei mellett a régió a litván ökoturizmus fellegvára, és az Aukštaitija Nemzeti Park központjaként számos védett növény- és állatfaj zavartalan élőhelyét biztosítja.",
+      ro: "Podișul Aukštaitija, situat în estul Lituaniei, este un peisaj natural fascinant și divers, modelat în timpul ultimei glaciațiuni majore de forțele gigantice ale ghețarilor în retragere. Regiunea deluroasă se caracterizează prin nenumărate lacuri glaciare adânci, care sunt adesea conectate între ele prin căi navigabile înguste și râuri pitorești. Între aceste întinderi de apă se ridică creste de morene și dealuri blânde, acoperite predominant de păduri seculare și dense de pin și molid. Cel mai înalt punct al acestui podiș este dealul Nevaišiai, cu o altitudine de 289 de metri, care domină zona lacustră înconjurătoare. Pe lângă importanța sa geologică, podișul joacă un rol central în ecoturismul lituanian, formând inima Parcului Național Aukštaitija și oferind habitate neatinse pentru multe specii protejate.",
+      en: "The Aukštaitija Highland in eastern Lithuania is a fascinating and highly diverse natural landscape shaped entirely by the immense power of retreating glaciers during the last major ice age. This rolling region is uniquely characterized by its countless, deeply set glacial lakes, which are frequently interconnected by narrow waterways and winding rivers to form a vast blue network. Between these pristine bodies of water rise elongated moraine ridges and gentle hills, predominantly covered by dense, ancient pine and spruce forests. The absolute highest point of this highland is Nevaišiai Hill at 289 meters, standing prominently over the encompassing lake district. Beyond its undeniable geological significance, the highland serves as the core of Lithuanian ecotourism, harboring the Aukštaitija National Park and providing undisturbed habitats for an array of protected flora and fauna."
+    },
+    factsAdvanced: {
+      de: ["Complex rolling landscape shaped primarily by the last glacial period", "Characterized by a vast network of interconnected glacial lakes", "The highest point in the region is Nevaišiai Hill at 289 meters", "Forms the geographical heart of the famous Aukštaitija National Park", "Features elongated moraine ridges covered by dense coniferous forests", "Acts as a major center for ecotourism and wildlife conservation in Lithuania"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp",
+},  {
     id: "lithuania-zemaiciai-upland-relief-v2",
     type: "mountain",
-    name: { de: "Žemaitija-Hochland", hu: "Žemaitija-felföld", ro: "Podișul Žemaitija", en: "Žemaitija Highland" },
+    name: { de: "Žemaitija-Hochland", hu: "Žemaitija-felföld", ro: "Podișul Žemaitija", en: "Žemaitija Highland",
+image: "/poi-images/lithuania-zemaiciai-upland-relief-v2.webp"
+},
     coords: [22.2, 56.0],
     coordinates: { lat: 56.0, lng: 22.2 },
     description: {
@@ -191,11 +328,25 @@ export const lithuaniaReliefV2: POI[] = [
       en: ["Highest point is Medvėgalis Hill", "Located in western Lithuania", "Acts as a major watershed", "Formed by terminal moraines"],
     },
     imageHint: "Zemaitija highland landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Das Žemaitija-Hochland ist eine markante, hügelige Landschaftsform, die den Westen Litauens geographisch dominiert. Diese ausgedehnte Endmoränenlandschaft entstand vor rund 15.000 Jahren während des langsamen Rückzugs des skandinavischen Inlandeises. Es fungiert als eine der wichtigsten Wasserscheiden des Landes, von der aus Flüsse sowohl nach Osten in das Becken der Memel als auch direkt nach Westen in die Ostsee fließen. Der höchste Punkt dieser Region ist der geschichtsträchtige Medvėgalis, der sich 234,6 Meter über den Meeresspiegel erhebt. Im Gegensatz zu den sandigen Ebenen im Süden oder Osten zeichnet sich das Žemaitija-Hochland durch schwerere, lehmige Böden und eine Kombination aus Laub- und Nadelwäldern aus. Die Region ist zudem für ihre vielen kleinen Moorlandschaften und abgelegenen Täler bekannt, die das traditionelle Landschaftsbild Samogitiens prägen.",
+      hu: "A Žemaitija-felföld egy markáns, dombos tájegység, amely Litvánia nyugati részének földrajzát uralja. Ez a kiterjedt végmorénás vidék körülbelül 15 000 évvel ezelőtt, a skandináv belföldi jégtakaró lassú visszahúzódása során jött létre. A felföld az ország egyik legfontosabb vízválasztójaként működik: innen a folyók egy része kelet felé, a Nyeman (Memel) medencéjébe, míg más részük egyenesen nyugatra, a Balti-tengerbe tart. A régió legmagasabb pontja a történelmi jelentőségű, 234,6 méteres Medvėgalis. A déli vagy keleti homokos síkságokkal ellentétben a Žemaitija-felföldet kötöttebb agyagtalajok és vegyes (lombhullató és tűlevelű) erdők jellemzik. A térség jellegzetességét az apró mocsarak és a nehezen megközelíthető, elzárt völgyek adják, amelyek hűen tükrözik a történelmi Szamogitia képét.",
+      ro: "Podișul Žemaitija este o formă de relief deluroasă și proeminentă care domină din punct de vedere geografic vestul Lituaniei. Acest peisaj extins, format din morene terminale, a apărut în urmă cu aproximativ 15.000 de ani, în timpul retragerii lente a calotei glaciare scandinave. Funcționează ca una dintre cele mai importante cumpene de ape ale țării, de unde râurile curg atât spre est, în bazinul râului Nemunas, cât și direct spre vest, în Marea Baltică. Cel mai înalt punct al acestei regiuni este dealul istoric Medvėgalis, care se ridică la 234,6 metri deasupra nivelului mării. Spre deosebire de câmpiile nisipoase din sud, Podișul Žemaitija se distinge prin soluri mai grele, argiloase și printr-o combinație de păduri de foioase și conifere. Regiunea este presărată cu numeroase mlaștini mici și văi izolate.",
+      en: "The Žemaitija Highland is a prominent, hilly landform that geographically dominates the western part of Lithuania. This extensive terminal moraine landscape was created approximately 15,000 years ago during the slow retreat of the massive Scandinavian ice sheet. It acts as one of the country's most crucial watersheds, from which rivers flow both eastward into the Nemunas River basin and directly westward towards the Baltic Sea. The absolute highest point in this region is the historically significant Medvėgalis Hill, standing at 234.6 meters above sea level. Unlike the sandy plains found in the south or east, the Žemaitija Highland features heavier clay soils and a diverse mixture of broadleaf and coniferous forests. The region is widely known for its scattered small peat bogs and remote, undisturbed valleys, reflecting the traditional landscape of Samogitia."
+    },
+    factsAdvanced: {
+      de: ["Extensive terminal moraine landscape dominating western Lithuania", "Formed roughly 15,000 years ago during the retreat of the Scandinavian ice sheet", "Serves as a major national watershed for rivers flowing to the Nemunas and the Baltic", "The highest elevation in the highland is Medvėgalis Hill at 234.6 meters", "Features a distinctive mix of heavier clay soils and mixed forests", "Contains numerous isolated valleys and small traditional peat bogs"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "lithuania-dzukai-upland-relief-v2",
     type: "mountain",
-    name: { de: "Dzūkija-Hochland", hu: "Dzūkija-felföld", ro: "Podișul Dzūkija", en: "Dzūkija Highland" },
+    name: { de: "Dzūkija-Hochland", hu: "Dzūkija-felföld", ro: "Podișul Dzūkija", en: "Dzūkija Highland",
+image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp"
+},
     coords: [24.3, 54.3],
     coordinates: { lat: 54.3, lng: 24.3 },
     description: {
@@ -210,11 +361,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Caracterizat prin soluri nisipoase", "Situat în sud-estul Lituaniei", "Traversat de râul Merkys", "Acoperit de păduri vaste de pin"],
       en: ["Features sandy soil composition", "Located in southeastern Lithuania", "Traversed by the Merkys river", "Vast pine forest coverage"],
     },
-    imageHint: "Dzukija highland forest and hills Lithuania", image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp"},
-  {
+imageHint: "Dzukija highland forest and hills Lithuania",
+    descriptionAdvanced: {
+      de: "Das Dzūkija-Hochland im äußersten Südosten Litauens präsentiert eine ganz eigene, faszinierende Landschaftsstruktur, die sich deutlich von den anderen Hochländern abhebt. Es besteht vorwiegend aus weitläufigen sandigen Ebenen und sanften Hügeln, die am Ende der Eiszeit durch gewaltige Schmelzwasserströme des Gletschers abgelagert wurden. Diese sandigen und nährstoffarmen Böden sind heute die Heimat riesiger, fast endloser Kiefernwälder, die für die Region Dzūkija so charakteristisch sind. Durch dieses grüne Meer schlängeln sich zahlreiche saubere Flüsse, allen voran die Merkys und die Ūla, die tief in die sandigen Ufer eingeschnitten sind. Die Region ist ein Paradies für Pilz- und Beerensammler, eine Tradition, die tief in der lokalen Kultur verankert ist. Das Hochland ist zugleich ein Refugium für seltene Vogelarten, die in den trockenen Kiefernwäldern nisten.",
+      hu: "A Litvánia legdélibb részén elterülő Dzūkija-felföld egy teljesen egyedi és varázslatos tájszerkezetet mutat, amely élesen elkülönül az ország többi felföldjétől. Jellemzően homokos síkságokból és lankás dombokból áll, amelyeket a jégkorszak végén a gleccserekből kizúduló óriási olvadékvizek raktak le. Ezen a homokos, tápanyagban viszonylag szegény talajon hatalmas, szinte végtelenbe nyúló fenyőerdők nőttek, amelyek a Dzūkija régió igazi szimbólumaivá váltak. Ezt a zöld tengert számos kristálytiszta vizű folyó szeli át, mint például a Merkys és az Ūla, amelyek mélyen bevágódtak a puha homokpartokba. A térség valóságos paradicsom a gomba- és bogyógyűjtők számára, ami a helyi kultúra egyik legősibb hagyománya. Emellett a felföld menedéket nyújt olyan ritka madárfajoknak, amelyek a száraz fenyvesekben találnak otthonra.",
+      ro: "Podișul Dzūkija, situat în extremitatea sud-estică a Lituaniei, prezintă o structură peisagistică cu totul unică, distinctă de celelalte podișuri ale țării. Este compus în principal din câmpii nisipoase întinse și dealuri blânde, formate din sedimentele depuse de fluxurile masive de apă rezultate din topirea ghețarilor la sfârșitul epocii glaciare. Aceste soluri nisipoase și relativ sărace în nutrienți sunt astăzi acoperite de păduri de pin vaste, aproape nesfârșite, care sunt definitorii pentru regiunea Dzūkija. Numeroase râuri cu ape limpezi, în special Merkys și Ūla, șerpuiesc prin această mare verde, tăind maluri nisipoase abrupte. Regiunea este un adevărat paradis pentru culegătorii de ciuperci și fructe de pădure, o tradiție adânc înrădăcinată în cultura locală, și un sanctuar pentru păsări rare.",
+      en: "The Dzūkija Highland in the far southeastern corner of Lithuania presents a completely unique and captivating landscape structure that stands out sharply from the country's other highlands. It is primarily composed of extensive sandy plains and gentle, rolling hills that were deposited by massive torrents of glacial meltwater at the very end of the ice age. Today, these sandy and relatively nutrient-poor soils support vast, seemingly endless tracts of pine forests, which have become the defining natural characteristic of the Dzūkija region. Numerous crystal-clear rivers, most notably the Merkys and the Ūla, meander through this green expanse, carving deeply into the soft sandy banks. The region is a widely renowned paradise for wild mushroom and berry foragers—a practice deeply embedded in the local culture—and serves as a critical refuge for rare bird species nesting in the dry pine woods."
+    },
+    factsAdvanced: {
+      de: ["Characterized by extensive sandy plains and gentle, rolling hills", "Formed primarily by massive torrents of glacial meltwater deposits", "Dominated by vast, seemingly endless tracts of dry pine forests", "Traversed by crystal-clear regional rivers such as the Merkys and Ūla", "Famous nationally as a prime destination for traditional foraging", "Provides an essential nesting refuge for several rare and protected bird species"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp",
+},  {
     id: "lithuania-medininkai-upland-relief-v2",
     type: "mountain",
-    name: { de: "Medininkai-Hochland", hu: "Medininkai-felföld", ro: "Podișul Medininkai", en: "Medininkai Highland" },
+    name: { de: "Medininkai-Hochland", hu: "Medininkai-felföld", ro: "Podișul Medininkai", en: "Medininkai Highland",
+image: "/poi-images/lithuania-medininkai-upland-relief-v2.webp"
+},
     coords: [25.6, 54.5],
     coordinates: { lat: 54.5, lng: 25.6 },
     description: {
@@ -230,11 +396,25 @@ export const lithuaniaReliefV2: POI[] = [
       en: ["Oldest moraine landscape in Lithuania", "Home to Aukštojas Hill", "Highest part of the country", "Located near the Belarus border"],
     },
     imageHint: "Medininkai highland hills landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Das Medininkai-Hochland im Südosten Litauens stellt geologisch den ältesten und stabilsten Teil des gesamten litauischen Reliefs dar. Im Gegensatz zum Rest des Landes, der stark durch die letzte Eiszeit geprägt wurde, entging dieses Hochland den massiven Umformungen durch die allerjüngsten Gletscher und hat somit eine ältere Moränenstruktur bewahrt. Hier konzentrieren sich die höchsten topographischen Erhebungen Litauens, darunter der höchste Berg Aukštojas (293,8 m) sowie der Juozapinė und der Kruopinė, die alle die 290-Meter-Marke überschreiten. Das Landschaftsbild ist offen, weiträumig und geprägt von landwirtschaftlich genutzten, fruchtbaren Feldern sowie eingestreuten kleinen Wäldchen. Das Hochland erstreckt sich bis an die Grenze zu Belarus und bietet aufgrund seiner erhöhten Lage oft ungestörte Weitblicke über das Umland.",
+      hu: "A Délkelet-Litvániában található Medininkai-felföld földtani szempontból a litván domborzat legidősebb és legstabilabb részét képezi. Ellentétben az ország többi, az utolsó jégkorszak által erősen átformált vidékével, ez a terület megmenekült a legutóbbi gleccserek pusztító erejétől, így megőrizte régebbi morénás szerkezetét. Ezen a felföldön sűrűsödnek Litvánia legmagasabb topográfiai pontjai, köztük a legmagasabb csúcs, a 293,8 méteres Aukštojas, valamint a Juozapinė és a Kruopinė, amelyek mind meghaladják a 290 méteres magasságot. A táj rendkívül nyitott, tágas, amelyet főként mezőgazdaságilag hasznosított, termékeny táblák és elszórtan elhelyezkedő kisebb erdőfoltok uralnak. A fehérorosz határig nyúló felföld emelkedett fekvése miatt sok helyen zavartalan kilátást nyújt a környező alacsonyabb területekre.",
+      ro: "Podișul Medininkai, situat în sud-estul Lituaniei, reprezintă din punct de vedere geologic cea mai veche și mai stabilă parte a reliefului țării. Spre deosebire de restul teritoriului, care a fost puternic reconfigurat de ultima eră glaciară, acest podiș a scăpat de forțele transformatoare ale celor mai recenți ghețari, conservând o structură mai veche de morene. Aici se concentrează cele mai mari altitudini topografice din Lituania, inclusiv cel mai înalt vârf, Aukštojas (293,8 m), precum și Juozapinė și Kruopinė, toate depășind pragul de 290 de metri. Peisajul este deschis, vast, dominat de terenuri agricole fertile, intercalate cu mici pâlcuri de pădure. Podișul se întinde până la granița cu Belarus și, datorită altitudinii sale ridicate, oferă frecvent panorame neîntrerupte asupra împrejurimilor.",
+      en: "The Medininkai Highland in southeastern Lithuania represents the oldest and most geologically stable part of the entire Lithuanian relief. In sharp contrast to the rest of the country, which was heavily reshaped by the last ice age, this specific highland largely escaped the massive transformative forces of the most recent glaciers, thereby preserving an older, underlying moraine structure. It is the geographic home to Lithuania's highest topographical elevations, including the highest peak, Aukštojas (293.8 m), as well as Juozapinė and Kruopinė, all of which exceed the 290-meter mark. The landscape here is characteristically open and expansive, defined by fertile agricultural fields interspersed with small, scattered woodlands. Extending right to the border with Belarus, the highland's elevated position frequently provides sweeping, uninterrupted views of the lower surrounding regions."
+    },
+    factsAdvanced: {
+      de: ["Geologically represents the oldest and most stable moraine relief in Lithuania", "Largely escaped the most dramatic reshaping forces of the last recent ice age", "Hosts the country's absolute highest point, Aukštojas Hill at 293.8 meters", "Contains multiple peaks that notably exceed 290 meters in elevation", "Characterized by open, expansive landscapes heavily utilized for agriculture", "Geographically extends directly to the eastern border with Belarus"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "lithuania-suduva-upland-relief-v2",
     type: "mountain",
-    name: { de: "Sūduva-Hochland", hu: "Sūduva-felföld", ro: "Podișul Sūduva", en: "Sūduva Highland" },
+    name: { de: "Sūduva-Hochland", hu: "Sūduva-felföld", ro: "Podișul Sūduva", en: "Sūduva Highland",
+image: "/poi-images/lithuania-suduva-upland-relief-v2.webp"
+},
     coords: [23.0, 54.4],
     coordinates: { lat: 54.4, lng: 23.0 },
     description: {
@@ -249,11 +429,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Pavištytis", "Terenuri agricole fertile", "Situat în sud-vestul țării", "Zonă de frontieră cu Polonia"],
       en: ["Highest point is Pavištytis Hill", "Features very fertile agricultural land", "Located in southwestern Lithuania", "Borders Poland to the south"],
     },
-    imageHint: "Suduva highland agricultural hills Lithuania", image: "/poi-images/lithuania-suduva-upland-relief-v2.webp"},
-  {
+imageHint: "Suduva highland agricultural hills Lithuania",
+    descriptionAdvanced: {
+      de: "Das Sūduva-Hochland, im tiefen Südwesten Litauens gelegen, ist eine bezaubernde, sanft hügelige Region, die direkt an die Grenzen von Polen und der russischen Exklave Kaliningrad stößt. Diese Landschaft ist das direkte geologische Erbe der letzten Eiszeit und zeichnet sich durch eiszeitliche Moränen, tiefe Täler und eine Fülle von glasklaren Seen aus, von denen der Vištytis-See der prominenteste ist. Das Sūduva-Hochland beheimatet einige der fruchtbarsten und ertragreichsten Böden des gesamten Landes, was es historisch wie auch gegenwärtig zu einem Zentrum der litauischen Landwirtschaft macht. Der höchste Gipfel der Region ist der Pavištytis mit 282,4 Metern. Neben der intensiven agrarischen Nutzung bietet das Hochland unberührte Naturgebiete, die als Schutzgebiete für eine reiche Flora und Fauna dienen. Die malerische Kombination aus weiten Feldern und dichten Laubwäldern macht es zu einem besonderen Erlebnis.",
+      hu: "A Sūduva-felföld Litvánia délnyugati részén elterülő, varázslatos, lankás dombvidék, amely közvetlenül határos Lengyelországgal és az oroszországi Kalinyingrádi területtel. Ez a táj az utolsó jégkorszak közvetlen geológiai öröksége, amelyet morénák, mély völgyek és kristálytiszta vizű tavak sokasága jellemez, köztük is a leghíresebb a Vištytis-tó. A Sūduva-felföld büszkélkedhet az ország legtermékenyebb és legkiválóbb mezőgazdasági talajaival, ami történelmileg és napjainkban is a litván agrárium egyik központjává teszi a régiót. A vidék legmagasabb pontja a 282,4 méteres Pavištytis-domb. Az intenzív mezőgazdasági művelés ellenére a felföld számos érintetlen természeti területet rejt, amelyek gazdag növény- és állatvilág menedékéül szolgálnak. A széles szántóföldek és a sűrű lombhullató erdők festői ötvözete egyedülálló arculatot ad a tájnak.",
+      ro: "Podișul Sūduva, situat în sud-vestul profund al Lituaniei, este o regiune încântătoare, ușor deluroasă, care se învecinează direct cu Polonia și cu exclava rusă Kaliningrad. Acest peisaj este moștenirea geologică directă a ultimei ere glaciare și se remarcă prin morene glaciare, văi adânci și o abundență de lacuri cu ape limpezi, dintre care Lacul Vištytis este cel mai proeminent. Podișul Sūduva găzduiește unele dintre cele mai fertile și productive soluri din întreaga țară, ceea ce l-a transformat istoric și în prezent într-un centru al agriculturii lituaniene. Cel mai înalt vârf din regiune este Pavištytis, cu o altitudine de 282,4 metri. În ciuda utilizării agricole intense, podișul oferă arii naturale neatinse, care servesc drept rezervații pentru o floră și o faună bogate. Combinația pitorească de câmpuri întinse și păduri dese de foioase îl face o experiență specială.",
+      en: "The Sūduva Highland, located in the deep southwest of Lithuania, is a charming, gently rolling region that directly borders Poland and the Russian exclave of Kaliningrad. This landscape is the direct geological legacy of the last ice age, characterized by distinct glacial moraines, deep valleys, and an abundance of crystal-clear lakes, the most prominent of which is Lake Vištytis. The Sūduva Highland boasts some of the most fertile and highly productive soils in the entire country, historically and currently making it a major center for Lithuanian agriculture. The absolute highest peak in the region is Pavištytis Hill at 282.4 meters. Despite the intensive agricultural utilization, the highland contains pristine natural areas that serve as protected reserves for diverse flora and fauna. The picturesque combination of vast cultivated fields and dense broadleaf forests creates a truly unique landscape."
+    },
+    factsAdvanced: {
+      de: ["Located in southwestern Lithuania, bordering Poland and Kaliningrad", "Geological landscape shaped by glacial moraines from the last ice age", "Features the prominent and deep crystal-clear Lake Vištytis", "Boasts some of the most fertile agricultural soils in the entire country", "The highest geographical point is Pavištytis Hill at 282.4 meters", "Combines vast cultivated farmland with protected natural forest reserves"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-suduva-upland-relief-v2.webp",
+},  {
     id: "lithuania-middle-lithuanian-lowland-relief-v2",
     type: "valley",
-    name: { de: "Mittellitauisches Tiefland", hu: "Közép-litván alföld", ro: "Câmpia Lituaniei Centrale", en: "Middle Lithuanian Lowland" },
+    name: { de: "Mittellitauisches Tiefland", hu: "Közép-litván alföld", ro: "Câmpia Lituaniei Centrale", en: "Middle Lithuanian Lowland",
+image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp"
+},
     coords: [24.0, 55.2],
     coordinates: { lat: 55.2, lng: 24.0 },
     description: {
@@ -268,11 +463,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cea mai mare câmpie din țară", "Inima agriculturii lituaniene", "Formată prin sedimentare", "Relief plat și deschis"],
       en: ["Largest lowland in the country", "Agricultural heartland of Lithuania", "Formed by glaciolacustrine sediments", "Features flat and open relief"],
     },
-    imageHint: "Middle Lithuanian lowland flat agricultural fields", image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp"},
-  {
+imageHint: "Middle Lithuanian lowland flat agricultural fields",
+    descriptionAdvanced: {
+      de: "Das Mittellitauische Tiefland ist eine ausgedehnte, bemerkenswert flache und offene Ebene, die das Land in Nord-Süd-Richtung zentral durchschneidet. Es verdankt seine Entstehung dem Boden eines riesigen, prähistorischen Eisstausees, der sich nach dem Abschmelzen der eiszeitlichen Gletscher bildete. Heute ist diese Tiefebene das unbestrittene landwirtschaftliche Herzstück Litauens, da die Sedimente des ehemaligen Sees eine extrem fruchtbare, lehmige und humusreiche Bodenschicht hinterlassen haben. Das flache Relief ermöglicht eine intensive, großflächige Bewirtschaftung, wodurch die Region enorme Mengen an Getreide, Zuckerrüben und anderen Nutzpflanzen produziert. Wälder sind hier im Vergleich zu anderen Teilen des Landes selten und oft nur auf kleine, feuchtere Inseln beschränkt. Das Gebiet wird von den wasserreichen, breiten Strömen der Nevėžis und der Dubysa durchflossen, die das Landschaftsbild sanft auflockern.",
+      hu: "A Közép-litván alföld egy kiterjedt, rendkívül sík és nyitott terület, amely észak-déli irányban szeli ketté az országot. Kialakulását egy hatalmas, történelem előtti jégkorszaki tónak köszönheti, amely a visszahúzódó gleccserek olvadékvizéből jött létre. Napjainkban ez az alföld Litvánia vitathatatlan mezőgazdasági központja, mivel az egykori tó üledéke rendkívül termékeny, agyagos és humuszban gazdag talajréteget hagyott hátra. A lapos domborzat lehetővé teszi az intenzív, nagytáblás gazdálkodást, így a régió hatalmas mennyiségű gabonát, cukorrépát és más haszonnövényeket állít elő. Az ország többi részéhez képest az erdők itt ritkábbak, és gyakran csak a vizenyősebb területekre korlátozódnak. Az alföldet a Nevėžis és a Dubysa széles, lassú folyású vizei szelik át, amelyek finoman tagolják az egyhangú tájat.",
+      ro: "Câmpia Lituaniei Centrale este o câmpie extinsă, remarcabil de plată și deschisă, care străbate centrul țării pe direcția nord-sud. Își datorează formarea fundului unui lac glaciar preistoric uriaș, creat după topirea ghețarilor din ultima eră glaciară. Astăzi, această zonă joasă este inima agricolă incontestabilă a Lituaniei, deoarece sedimentele fostului lac au lăsat în urmă un strat de sol extrem de fertil, argilos și bogat în humus. Relieful plat permite o agricultură intensivă pe suprafețe mari, regiunea producând cantități enorme de cereale, sfeclă de zahăr și alte culturi. Comparativ cu alte părți ale țării, pădurile sunt rare aici și adesea limitate la mici insule mai umede. Zona este traversată de cursurile largi și bogate în apă ale râurilor Nevėžis și Dubysa, care adaugă o variație subtilă peisajului.",
+      en: "The Middle Lithuanian Lowland is an extensive, remarkably flat, and open plain that cuts directly through the center of the country from north to south. It owes its geological origin to the bed of a massive prehistoric proglacial lake formed by the meltwater of the retreating ice age glaciers. Today, this expansive lowland is the undisputed agricultural heartland of Lithuania, as the fine sediments from the former lake left behind an extremely fertile, loamy, and humus-rich soil layer. The flat relief perfectly accommodates intensive, large-scale farming, enabling the region to produce massive yields of grain, sugar beets, and various other crops. Compared to other Lithuanian regions, forests are relatively scarce here, typically confined to small, damp patches. The plain is gently intersected by the broad, slow-moving currents of the Nevėžis and Dubysa rivers."
+    },
+    factsAdvanced: {
+      de: ["An extensive, notably flat plain running north to south through central Lithuania", "Geologically formed on the bed of a massive prehistoric proglacial lake", "Features extremely fertile, loamy soil left by ancient glaciolacustrine sediments", "Serves as the undisputed, highly productive agricultural heartland of the country", "Forest cover is relatively sparse compared to other Lithuanian geographic regions", "Gently intersected by major national rivers such as the Nevėžis and Dubysa"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp",
+},  {
     id: "lithuania-pajuris-lowland-relief-v2",
     type: "valley",
-    name: { de: "Pajūris-Tiefland", hu: "Pajūris-alföld", ro: "Câmpia Litorală Pajūris", en: "Pajūris Lowland" },
+    name: { de: "Pajūris-Tiefland", hu: "Pajūris-alföld", ro: "Câmpia Litorală Pajūris", en: "Pajūris Lowland",
+image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp"
+},
     coords: [21.2, 55.7],
     coordinates: { lat: 55.7, lng: 21.2 },
     description: {
@@ -287,11 +497,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Situată pe coasta Mării Baltice", "Relief nisipos și jos", "Include Laguna Curoniană", "Regiune importantă pentru turism"],
       en: ["Located along the Baltic coast", "Features sandy and flat relief", "Includes the Curonian Lagoon coast", "Major region for tourism"],
     },
-    imageHint: "Pajuris lowland coastal landscape Lithuania", image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp"},
-  {
+imageHint: "Pajuris lowland coastal landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Das Pajūris-Tiefland ist ein schmaler, aber landschaftlich überaus reizvoller Küstenstreifen, der die westliche Grenze Litauens zur Ostsee bildet. Dieses Tiefland ist das direkte Resultat postglazialer Meerespiegelschwankungen und der anhaltenden geologischen Arbeit von Wind und Wellen. Die Region ist geprägt von ausgedehnten, feinen Sandstränden, wandernden Dünen und dichten, vom stetigen Seewind geformten Kiefernwäldern. Im Hinterland der Küste breiten sich oft weite Feuchtgebiete und Moore aus, die ökologisch besonders wertvoll sind. Ein wesentlicher Teil des Tieflands umfasst die Ufer des Kurischen Haffs, das durch die Kurische Nehrung vom offenen Meer getrennt ist. Klimatisch ist das Gebiet durch maritime Einflüsse mit milderen Wintern und kühleren Sommern geprägt, was es zu Litauens beliebtestem Ziel für Sommer- und Naturtourismus macht.",
+      hu: "A Pajūris-alföld egy keskeny, de természeti szépségekben rendkívül gazdag tengerparti sáv, amely Litvánia nyugati határát képezi a Balti-tenger mentén. Ez az alföld a jégkorszak utáni tengerszint-ingadozások, valamint a szél és a hullámok folyamatos felszínformáló munkájának közvetlen eredménye. A régiót hosszú, finom homokos strandok, vándorló dűnék és az állandó tengeri szél által formált sűrű fenyőerdők jellemzik. A part mögötti belső területeken gyakran kiterjedt vizes élőhelyek és lápok találhatók, amelyek ökológiai szempontból felbecsülhetetlen értékűek. Az alföld jelentős része magában foglalja a Kur-öböl partvidékét is, amelyet a Kur-földnyelv választ el a nyílt tengertől. Az éghajlatot erősen befolyásolja a tenger, így a telek enyhébbek, a nyarak hűvösebbek, ami az ország legnépszerűbb turisztikai célpontjává teszi.",
+      ro: "Câmpia Litorală Pajūris este o fâșie de coastă îngustă, dar extrem de atractivă, care formează granița de vest a Lituaniei cu Marea Baltică. Această zonă joasă este rezultatul direct al fluctuațiilor postglaciare ale nivelului mării și al activității geologice continue a vântului și a valurilor. Regiunea este caracterizată prin plaje extinse cu nisip fin, dune mișcătoare și păduri dese de pin, modelate de briza constantă a mării. În spatele zonei de coastă se întind adesea vaste zone umede și mlaștini, care sunt deosebit de valoroase din punct de vedere ecologic. O parte semnificativă a acestei câmpii include țărmurile Lagunei Curoniene, care este separată de marea deschisă prin Istmul Curonian. Din punct de vedere climatic, zona este puternic influențată de mare, având ierni mai blânde și veri mai răcoroase, fiind principala destinație turistică de vară.",
+      en: "The Pajūris Lowland is a narrow yet scenically stunning coastal strip that forms Lithuania's western border along the Baltic Sea. This distinct lowland area is the direct result of post-glacial sea-level fluctuations and the continuous geological shaping power of wind and coastal waves. The region is famously characterized by its expansive fine-sand beaches, shifting sand dunes, and dense pine forests that have been bent and shaped by the constant maritime winds. Inward from the immediate coast, the terrain frequently transitions into vast wetlands and peat bogs of immense ecological value. A significant portion of this lowland encompasses the eastern shores of the Curonian Lagoon, separated from the open sea by the Curonian Spit. Influenced by a maritime climate with milder winters and cooler summers, it stands as Lithuania's premier destination for summer and nature tourism."
+    },
+    factsAdvanced: {
+      de: ["Forms a narrow, sandy coastal strip along Lithuania's western Baltic Sea border", "Geologically shaped by post-glacial sea-level changes, wind, and wave action", "Famous for expansive fine-sand beaches and naturally shifting sand dunes", "Inland areas feature ecologically invaluable wetlands and extensive peat bogs", "Includes the eastern shores of the historically significant Curonian Lagoon", "Experiences a maritime climate, making it the top national tourist destination"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp",
+},  {
     id: "lithuania-nemunas-delta-relief-v2",
     type: "valley",
-    name: { de: "Memel-Delta", hu: "Nyeman-delta", ro: "Delta râului Nemunas", en: "Nemunas Delta" },
+    name: { de: "Memel-Delta", hu: "Nyeman-delta", ro: "Delta râului Nemunas", en: "Nemunas Delta",
+image: "/poi-images/lithuania-nemunas-delta-relief-v2.webp"
+},
     coords: [21.3, 55.3],
     coordinates: { lat: 55.3, lng: 21.3 },
     description: {
@@ -307,11 +532,25 @@ export const lithuaniaReliefV2: POI[] = [
       en: ["Mouth of the Nemunas River", "Composed of numerous islands", "Very low-lying relief", "Major bird sanctuary area"],
     },
     imageHint: "Nemunas delta channels and wetlands Lithuania",
+    descriptionAdvanced: {
+      de: "Das Memel-Delta, litauisch Nemuno delta, ist eine spektakuläre, tiefliegende Schwemmlandebene im äußersten Westen des Landes, dort, wo der größte litauische Fluss in das Kurische Haff und die Ostsee mündet. Es ist eine überaus dynamische Landschaft, die sich durch die ständige Ablagerung von Flusssedimenten kontinuierlich weiter ins Haff vorschiebt. Das Delta ist ein komplexes Labyrinth aus unzähligen Haupt- und Nebenarmen, kleinen Kanälen, Altwasserseen, Poldern und Feuchtwiesen. Ein großer Teil des Gebiets liegt nur knapp über oder sogar leicht unter dem Meeresspiegel, weshalb es häufig von Frühjahrshochwassern überschwemmt wird. Dieses intakte Feuchtgebiet ist von globaler ökologischer Bedeutung und dient als essenzieller Rast- und Brutplatz für Millionen von Zugvögeln auf der Ostatlantischen Flugroute. Die Region ist zudem bekannt für ihre alten, auf den Inseln gelegenen Fischerdörfer wie Rusnė.",
+      hu: "A Nyeman-delta (litvánul: Nemuno delta) egy látványos, rendkívül alacsonyan fekvő hordaléksíkság az ország legnyugatibb részén, ahol Litvánia legnagyobb folyója a Kur-öbölbe és a Balti-tengerbe ömlik. Ez egy állandóan változó, dinamikus táj, amely a folyó által szállított üledék folyamatos lerakódása révén egyre beljebb nyomul az öbölbe. A delta számtalan fő- és mellékág, kis csatorna, holtág, polder és nedves rét bonyolult labirintusa. A terület nagy része épphogy a tengerszint felett, vagy akár az alatt fekszik, ezért a tavaszi áradások rendszeresen elöntik. Ez az érintetlen vizes élőhely globális ökológiai jelentőséggel bír, mivel több millió költöző madár számára nyújt létfontosságú pihenő- és fészkelőhelyet a kelet-atlanti vonulási útvonalon. A régió híres az apró szigeteken megbújó, hagyományos halászfalvairól, mint amilyen Rusnė.",
+      ro: "Delta râului Nemunas, sau Nemuno delta în lituaniană, este o câmpie aluvială spectaculoasă, cu o altitudine foarte joasă, situată în extremitatea vestică a țării, acolo unde cel mai mare râu lituanian se varsă în Laguna Curoniană și în Marea Baltică. Este un peisaj extrem de dinamic, care continuă să avanseze în lagună datorită depunerii constante de sedimente fluviale. Delta este un labirint complex de nenumărate brațe principale și secundare, canale mici, lacuri de braț mort, poldere și pajiști umede. O mare parte a zonei se află chiar deasupra sau chiar ușor sub nivelul mării, fiind frecvent inundată de apele de primăvară. Această zonă umedă intactă este de importanță ecologică globală, servind drept loc esențial de odihnă și reproducere pentru milioane de păsări migratoare de pe ruta est-atlantică. Regiunea este renumită pentru satele sale vechi de pescari, precum Rusnė.",
+      en: "The Nemunas Delta, known locally as Nemuno delta, is a spectacular, exceedingly low-lying alluvial plain in the far west of Lithuania, where the country's largest river empties into the Curonian Lagoon and the Baltic Sea. It is a highly dynamic geological landscape that continuously advances into the lagoon due to the constant deposition of massive amounts of fluvial sediments. The delta forms a complex, intricate labyrinth of numerous main and side river branches, small navigation channels, oxbow lakes, polders, and wet meadows. Because much of the area lies just barely above or even slightly below sea level, it is highly prone to extensive spring floods. This intact wetland is of global ecological importance, serving as a critical resting and breeding ground for millions of migratory birds along the East Atlantic Flyway. The region is also celebrated for its traditional island fishing villages, such as Rusnė."
+    },
+    factsAdvanced: {
+      de: ["A highly dynamic alluvial plain where the Nemunas River meets the Curonian Lagoon", "Continuously expanding into the lagoon via the deposition of river sediments", "Features a complex labyrinth of river branches, oxbow lakes, channels, and polders", "Large sections of the delta sit precariously at or slightly below sea level", "Recognized globally as a critical resting site for millions of migratory birds", "Home to unique and traditional island fishing communities like Rusnė village"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "lithuania-seskine-esker-relief-v2",
     type: "peak",
-    name: { de: "Šeškinė-Oser", hu: "Šeškinė-óz", ro: "Eskerul Šeškinė", en: "Šeškinė Esker" },
+    name: { de: "Šeškinė-Oser", hu: "Šeškinė-óz", ro: "Eskerul Šeškinė", en: "Šeškinė Esker",
+image: "/poi-images/lithuania-seskine-esker-relief-v2.webp"
+},
     coords: [25.25, 54.71],
     coordinates: { lat: 54.71, lng: 25.25 },
     description: {
@@ -326,11 +565,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Creastă de sedimente glaciare", "Lungime de 1,1 kilometri", "Monument al naturii în Vilnius", "Înălțime de până la 18 metri"],
       en: ["Glacial sediment ridge", "Length of 1.1 kilometers", "Natural monument in Vilnius", "Height up to 18 meters"],
     },
-    imageHint: "Seskine esker ridge park Vilnius Lithuania", image: "/poi-images/lithuania-seskine-esker-relief-v2.webp"},
-  {
+imageHint: "Seskine esker ridge park Vilnius Lithuania",
+    descriptionAdvanced: {
+      de: "Der Šeškinė-Oser ist eine außergewöhnliche geologische Formation mitten im urbanen Gebiet der Hauptstadt Vilnius. Es handelt sich um einen schmalen, gewundenen Wall, der am Ende der letzten Eiszeit durch Schmelzwasserflüsse entstand, die unter oder innerhalb des Gletschers flossen und dort riesige Mengen an Sand und Kies ablagerten. Der Oser erstreckt sich über eine Länge von etwa 1,1 Kilometern durch das Stadtviertel Šeškinė und erreicht an einigen Stellen eine bemerkenswerte Höhe von bis zu 18 Metern gegenüber seiner unmittelbaren Umgebung. Aufgrund seiner geologischen Seltenheit und seiner fast perfekten Erhaltung in einem dicht besiedelten Gebiet steht er unter strengem Naturschutz. Heute ist er ein beliebtes Erholungsgebiet für die Anwohner, mit Spazierwegen, die entlang des Kamms führen und Einblicke in die eiszeitliche Vergangenheit der Region bieten.",
+      hu: "A Šeškinė-óz egy kivételes geológiai képződmény a főváros, Vilnius sűrűn beépített, városi környezetében. Ez egy keskeny, kanyargós gerinc, amely az utolsó jégkorszak végén jött létre, amikor a gleccser alatt vagy belsejében áramló olvadékvizek hatalmas mennyiségű homokot és kavicsot raktak le. Az óz nagyjából 1,1 kilométer hosszan húzódik végig a Šeškinė városrészen, és helyenként figyelemre méltó, akár 18 méteres magasságot is elér a közvetlen környezetéhez képest. Geológiai ritkasága és annak ténye miatt, hogy egy nagyváros közepén szinte érintetlenül maradt fenn, szigorú természetvédelmi oltalom alatt áll. Napjainkban a helyiek kedvelt rekreációs területe, ahol a gerincen végigfutó sétányok nemcsak kikapcsolódást, hanem egyedülálló bepillantást is nyújtanak a régió jégkorszaki múltjába.",
+      ro: "Eskerul Šeškinė este o formațiune geologică excepțională situată chiar în zona urbană a capitalei Vilnius. Este o creastă îngustă și șerpuitoare, care s-a format la sfârșitul ultimei ere glaciare prin fluxurile de apă de topire ce curgeau sub sau în interiorul ghețarului, depunând cantități masive de nisip și pietriș. Eskerul se întinde pe o lungime de aproximativ 1,1 kilometri prin cartierul Šeškinė, atingând în unele locuri o înălțime remarcabilă de până la 18 metri față de împrejurimile sale imediate. Datorită rarității sale geologice și a conservării aproape perfecte într-o zonă dens populată, este protejat strict ca monument al naturii. Astăzi, este o zonă de recreere populară pentru locuitori, cu alei care merg de-a lungul crestei, oferind o perspectivă asupra trecutului glaciar al regiunii.",
+      en: "The Šeškinė Esker is an exceptional geological formation located right in the middle of the dense urban area of the capital, Vilnius. It is a narrow, winding ridge created at the very end of the last ice age by powerful meltwater streams flowing beneath or within the glacier, which deposited massive quantities of sand and gravel. The esker gracefully stretches for approximately 1.1 kilometers through the Šeškinė neighborhood, reaching a remarkable height of up to 18 meters above its immediate surroundings in certain sections. Because of its extreme geological rarity and the fact that it has been perfectly preserved within a modern, densely populated cityscape, it is strictly protected as a national natural monument. Today, it serves as a highly popular recreational area for local residents, featuring walking paths along its crest that offer unique insights into the region's icy past."
+    },
+    factsAdvanced: {
+      de: ["A rare glacial meltwater deposit located in an urban environment", "Stretches for approximately 1.1 kilometers through the Šeškinė district", "Reaches significant heights of up to 18 meters above the surrounding terrain", "Formed primarily of stratified sand and gravel deposited beneath a glacier", "Officially recognized and strictly protected as a national natural monument", "Provides a highly popular recreational walking path along its elevated crest"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-seskine-esker-relief-v2.webp",
+},  {
     id: "lithuania-linkuva-ridge-relief-v2",
     type: "peak",
-    name: { de: "Linkuva-Rücken", hu: "Linkuva-hátság", ro: "Creasta Linkuva", en: "Linkuva Ridge" },
+    name: { de: "Linkuva-Rücken", hu: "Linkuva-hátság", ro: "Creasta Linkuva", en: "Linkuva Ridge",
+image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp"
+},
     coords: [24.1, 56.1],
     coordinates: { lat: 56.1, lng: 24.1 },
     description: {
@@ -345,11 +599,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Morenă glaciară în nord", "Situată lângă Linkuva", "Altitudine de până la 100 m", "Formată de ghețari"],
       en: ["Moraine ridge in the north", "Located near Linkuva town", "Elevation up to 100 meters", "Formed by glacial activity"],
     },
-    imageHint: "Linkuva ridge moraine landscape Lithuania", image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp"},
-  {
+imageHint: "Linkuva ridge moraine landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Der Linkuva-Rücken ist ein äußerst markanter und langgestreckter Moränenwall, der sich wie ein gewaltiges Rückgrat durch die flache Landschaft Nordlitauens zieht. Diese imposante geologische Erhebung entstand während der späten Phasen der Nemunas-Vereisung, als enorme Gletschermassen gewaltige Mengen an Gestein, Lehm und Sand vor sich herschoben und an ihrem Rand auftürmten. Der Wall erhebt sich deutlich über die ansonsten flachen, angrenzenden landwirtschaftlichen Ebenen und erreicht Höhen von bis zu 100 Metern über dem Meeresspiegel. Der Linkuva-Rücken ist nicht nur von geologischer, sondern auch von historischer Bedeutung, da seine erhöhte, trockenere Lage ihn schon in prähistorischen Zeiten zu einem idealen Siedlungsplatz machte. Heute sind die fruchtbaren Hänge intensiv landwirtschaftlich genutzt, während die steileren Abschnitte oft von Laubwäldern gekrönt sind.",
+      hu: "A Linkuva-hátság egy rendkívül markáns, hosszan elnyúló morénagerinc, amely szinte egy óriási gerincoszlopként szeli át Észak-Litvánia sík vidékét. Ez az impozáns geológiai kiemelkedés a Nyeman-eljegesedés késői szakaszaiban jött létre, amikor az előrenyomuló gleccserek hatalmas mennyiségű sziklát, agyagot és homokot toltak maguk előtt, és halmoztak fel a peremükön. A hátság élesen kiemelkedik a környező lapos, mezőgazdasági síkságokból, és helyenként eléri a 100 méteres tengerszint feletti magasságot. A Linkuva-hátság nemcsak geológiai, hanem történelmi szempontból is kiemelkedő jelentőségű, hiszen emelkedett, szárazabb fekvése már a történelem előtti időkben is ideális településhellyé tette. Napjainkban a termékeny lejtőket intenzív mezőgazdasági művelés alatt tartják, míg a meredekebb szakaszokat gyakran lombhullató erdők koronázzák.",
+      ro: "Creasta Linkuva este o morenă glaciară extrem de proeminentă și alungită, care străbate peisajul plat din nordul Lituaniei ca o coloană vertebrală masivă. Această elevație geologică impunătoare s-a format în timpul etapelor târzii ale glaciațiunii Nemunas, când mase uriașe de gheață au împins în fața lor cantități enorme de roci, argilă și nisip, pe care le-au acumulat la marginile lor. Creasta se ridică semnificativ deasupra câmpiilor agricole plate adiacente, atingând altitudini de până la 100 de metri deasupra nivelului mării. Creasta Linkuva este de importanță nu doar geologică, ci și istorică, deoarece poziția sa ridicată și mai uscată a făcut-o un loc ideal de așezare încă din timpurile preistorice. Astăzi, pantele sale fertile sunt utilizate intens pentru agricultură, în timp ce porțiunile mai abrupte sunt adesea încoronate de păduri de foioase.",
+      en: "The Linkuva Ridge is a highly prominent and elongated moraine ridge that runs like a massive backbone through the flat landscape of northern Lithuania. This imposing geological elevation was formed during the late stages of the Nemunas glaciation when massive advancing glaciers pushed enormous amounts of rock, clay, and sand ahead of them, piling them up at their margins. The ridge rises sharply and distinctly above the otherwise flat, adjacent agricultural plains, reaching heights of up to 100 meters above sea level. The Linkuva Ridge is of significant importance not only geologically but also historically, as its elevated, drier position made it an ideal settlement location even in prehistoric times. Today, its fertile slopes are subjected to intensive agricultural use, while the steeper sections are frequently crowned by dense broadleaf forests."
+    },
+    factsAdvanced: {
+      de: ["A prominent, elongated terminal moraine ridge in northern Lithuania", "Formed during the late stages of the extensive Nemunas glaciation", "Rises distinctly above the flat plains, reaching up to 100 meters above sea level", "Elevated, dry position made it a preferred site for prehistoric human settlement", "Composed primarily of a rich mixture of glacial rocks, clay, and sand", "Slopes are currently utilized for highly intensive agricultural farming"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp",
+},  {
     id: "lithuania-karsuva-plain-relief-v2",
     type: "valley",
-    name: { de: "Karšuva-Ebene", hu: "Karšuva-síkság", ro: "Câmpia Karšuva", en: "Karšuva Plain" },
+    name: { de: "Karšuva-Ebene", hu: "Karšuva-síkság", ro: "Câmpia Karšuva", en: "Karšuva Plain",
+image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp"
+},
     coords: [22.5, 55.1],
     coordinates: { lat: 55.1, lng: 22.5 },
     description: {
@@ -364,11 +633,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Câmpie joasă nisipoasă", "Acoperită de păduri mari", "Conține dune continentale", "Situată în sud-vest"],
       en: ["Sandy lowland area", "Large forest coverage", "Contains inland sand dunes", "Located in southwestern Lithuania"],
     },
-    imageHint: "Karsuva plain forest and sandy landscape", image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp"},
-  {
+imageHint: "Karsuva plain forest and sandy landscape",
+    descriptionAdvanced: {
+      de: "Die Karšuva-Ebene im Südwesten Litauens ist eine faszinierende, von weiten Wäldern dominierte Sandebene. Geologisch gesehen handelt es sich um eine postglaziale Schwemmebene, die durch riesige Mengen an Schmelzwasser entstand, die große Mengen Sand ablagerten. Ein besonderes Merkmal dieser Landschaft sind die charakteristischen Binnendünen, die sich in trockeneren Perioden nach der Eiszeit durch Windeinwirkung formten und heute fast vollständig von Kiefern bewachsen sind. Neben diesen trockenen Sandböden prägen auch ausgedehnte Feuchtgebiete, Sümpfe und Moore die tieferliegenden Teile der Ebene. Diese landschaftliche Vielfalt macht die Karšuva-Ebene zu einem wichtigen ökologischen Rückzugsort. Zahlreiche seltene Pflanzen- und Tierarten, insbesondere solche, die auf sandige Habitate oder ungestörte Feuchtgebiete angewiesen sind, finden hier ideale Bedingungen.",
+      hu: "A Délnyugat-Litvániában elterülő Karšuva-síkság egy lenyűgöző, hatalmas erdőségek által uralt homokos síkvidék. Földtani szempontból ez egy jégkorszak utáni hordaléksíkság, amelyet a lezúduló olvadékvizek hoztak létre, hatalmas mennyiségű homokot hátrahagyva. A táj egyik legkülönlegesebb vonása a jellegzetes belső dűnék jelenléte, amelyek a jégkorszakot követő szárazabb időszakokban, a szél munkája nyomán alakultak ki, ma pedig szinte teljesen fenyőerdők borítják őket. Ezek a száraz, homokos területek éles kontrasztban állnak a síkság alacsonyabban fekvő részeivel, amelyeket kiterjedt vizes élőhelyek és mocsarak jellemeznek. Ez a páratlan táji változatosság a Karšuva-síkságot kiemelten fontos ökológiai menedékhellyé teszi. Számos ritka növény- és állatfaj, különösen a homokos élőhelyeket vagy az érintetlen lápokat kedvelők találnak itt tökéletes otthonra.",
+      ro: "Câmpia Karšuva, situată în sud-vestul Lituaniei, este o câmpie nisipoasă fascinantă, dominată de păduri vaste. Din punct de vedere geologic, este o câmpie aluvială postglaciară, creată de cantități uriașe de apă de topire care au depus straturi groase de nisip. O caracteristică specială a acestui peisaj sunt dunele continentale, formate prin acțiunea vântului în perioadele mai secetoase de după era glaciară, care astăzi sunt aproape complet acoperite de păduri de pin. Pe lângă aceste soluri nisipoase uscate, părțile mai joase ale câmpiei sunt marcate de zone umede extinse și mlaștini. Această diversitate peisagistică transformă Câmpia Karšuva într-un refugiu ecologic important. Numeroase specii rare de plante și animale, în special cele dependente de habitate nisipoase sau de zone umede netulburate, găsesc aici condiții ideale.",
+      en: "The Karšuva Plain in southwestern Lithuania is a fascinating, heavily forested sandy plain. Geologically, it is a post-glacial outwash plain created by massive volumes of glacial meltwater that deposited thick layers of sand across the region. A highly distinctive feature of this landscape is the presence of characteristic inland dunes, which were formed by wind action during drier periods following the ice age and are today almost entirely stabilized and covered by dense pine forests. In sharp contrast to these dry sandy soils, the lower-lying parts of the plain are heavily characterized by extensive wetlands, marshes, and peat bogs. This striking landscape diversity makes the Karšuva Plain a critically important ecological refuge. Numerous rare plant and animal species, particularly those uniquely adapted to sandy habitats or undisturbed wetlands, find perfect conditions here."
+    },
+    factsAdvanced: {
+      de: ["A post-glacial sandy outwash plain located in southwestern Lithuania", "Features distinctive inland sand dunes formed by ancient wind action", "The inland dunes are now stabilized and heavily forested with pine trees", "Lower elevations are characterized by extensive, ecologically vital wetlands", "Serves as a crucial natural refuge for specialized flora and fauna", "Contrasts sharply with the neighboring heavier clay soils of the central lowlands"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp",
+},  {
     id: "lithuania-zeimena-plain-relief-v2",
     type: "valley",
-    name: { de: "Žeimena-Ebene", hu: "Žeimena-síkság", ro: "Câmpia Žeimena", en: "Žeimena Plain" },
+    name: { de: "Žeimena-Ebene", hu: "Žeimena-síkság", ro: "Câmpia Žeimena", en: "Žeimena Plain",
+image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp"
+},
     coords: [25.9, 55.1],
     coordinates: { lat: 55.1, lng: 25.9 },
     description: {
@@ -383,11 +667,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Câmpie de tip sandur", "Sol preponderent nisipos", "Păduri de pin extinse", "Traversată de râul Žeimena"],
       en: ["Glacial outwash plain", "Sandy soil composition", "Dominated by pine forests", "Traversed by the Žeimena river"],
     },
-    imageHint: "Zeimena plain pine forest Lithuania", image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp"},
-  {
+imageHint: "Zeimena plain pine forest Lithuania",
+    descriptionAdvanced: {
+      de: "Die Žeimena-Ebene im Osten Litauens ist eine klassische Sanderebene, die durch gigantische Schmelzwasserströme am Ende der letzten Eiszeit geformt wurde. Die Flüsse, die dem abtauenden Gletscher entsprangen, breiteten hier gewaltige Mengen an Sand und feinem Kies aus und schufen ein extrem flaches Relief. Heute ist der poröse, nährstoffarme Boden fast vollständig von dichten Kiefernwäldern, der sogenannten Labanoras-Puscha, bewachsen. Das absolute Highlight der Ebene ist der namensgebende Fluss Žeimena, der sich mit seinem kristallklaren, kühlen Wasser malerisch durch die Wälder schlängelt. Aufgrund der sandigen Beschaffenheit des Bodens versickert Regenwasser sehr schnell, was die Bildung von großen landwirtschaftlichen Flächen verhindert hat. Die unberührte Natur ist stattdessen ein Paradies für Kanufahrer, Wanderer und Naturliebhaber, die die Stille der ostlitauischen Wälder suchen.",
+      hu: "A kelet-litvániai Žeimena-síkság egy klasszikus homokos hordaléksíkság, amelyet az utolsó jégkorszak végén lezúduló gigantikus gleccser-olvadékvizek alakítottak ki. A visszahúzódó jégtakaróból eredő folyók hatalmas mennyiségű homokot és finom kavicsot terítettek szét ezen a területen, rendkívül lapos domborzatot hozva létre. Napjainkban a porózus, tápanyagban szegény talajt szinte teljes egészében sűrű fenyőerdők, az úgynevezett Labanoras-erdőség borítja. A síkság legfőbb ékessége a névadó Žeimena folyó, amely kristálytiszta, hűs vizével festőien kanyarog a sötétzöld erdők között. A talaj homokos szerkezete miatt a csapadékvíz nagyon gyorsan elszivárog, ami megakadályozta a nagy kiterjedésű mezőgazdasági területek kialakulását. A háborítatlan természet így igazi paradicsommá vált a kenusok, túrázók és mindazok számára, akik a kelet-litvániai erdők csendjét keresik.",
+      ro: "Câmpia Žeimena din estul Lituaniei este o câmpie de tip sandur clasică, modelată de fluxuri gigantice de apă de topire la sfârșitul ultimei ere glaciare. Râurile care izvorau din ghețarul în retragere au răspândit aici cantități masive de nisip și pietriș fin, creând un relief extrem de plat. Astăzi, solul poros și sărac în nutrienți este aproape complet acoperit de păduri dense de pin, cunoscute sub numele de Pădurea Labanoras. Atracția principală a câmpiei este râul eponim Žeimena, care șerpuiește pitoresc prin păduri cu apele sale reci și cristaline. Datorită naturii nisipoase a solului, apa de ploaie se infiltrează foarte repede, ceea ce a împiedicat formarea unor suprafețe agricole mari. Natura neatinsă este în schimb un paradis pentru canoiști, drumeți și iubitorii de natură care caută liniștea pădurilor din estul Lituaniei.",
+      en: "The Žeimena Plain in eastern Lithuania is a classic glacial outwash plain, formed by gigantic torrents of meltwater at the end of the last ice age. The rivers flowing from the retreating ice sheet spread massive quantities of sand and fine gravel across this area, creating an extremely flat and even relief. Today, the highly porous, nutrient-poor sandy soil is almost entirely covered by dense pine forests, forming a major part of the famous Labanoras Forest. The absolute highlight of the plain is the eponymous Žeimena River, which meanders picturesquely through the woodlands with its crystal-clear, cool waters. Due to the highly sandy nature of the soil, rainwater percolates very rapidly, which historically prevented the development of large-scale agricultural operations. The pristine natural environment is instead a true paradise for canoeists, hikers, and nature lovers seeking the deep silence of eastern Lithuania's forests."
+    },
+    factsAdvanced: {
+      de: ["A classic glacial outwash plain formed by massive ice age meltwater streams", "Characterized by highly porous, sandy, and relatively nutrient-poor soils", "Almost entirely covered by the dense pine woods of the Labanoras Forest", "Intersected by the crystal-clear, winding waters of the Žeimena River", "Sandy soil structure prevents the retention of water for large-scale farming", "Highly popular national destination for canoeing, hiking, and eco-tourism"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp",
+},  {
     id: "lithuania-dysna-plain-relief-v2",
     type: "valley",
-    name: { de: "Dysna-Ebene", hu: "Dysna-síkság", ro: "Câmpia Dysna", en: "Dysna Plain" },
+    name: { de: "Dysna-Ebene", hu: "Dysna-síkság", ro: "Câmpia Dysna", en: "Dysna Plain",
+image: "/poi-images/lithuania-dysna-plain-relief-v2.webp"
+},
     coords: [26.4, 55.3],
     coordinates: { lat: 55.3, lng: 26.4 },
     description: {
@@ -402,11 +701,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Fost fund de lac glaciar", "Zonă joasă mlăștinoasă", "Situată în nord-est", "Parte din bazinul râului Dysna"],
       en: ["Former glacial lake bed", "Marshy lowland area", "Located in the northeast", "Part of the Dysna river basin"],
     },
-    imageHint: "Dysna plain marshy landscape Lithuania", image: "/poi-images/lithuania-dysna-plain-relief-v2.webp"},
-  {
+imageHint: "Dysna plain marshy landscape Lithuania",
+    descriptionAdvanced: {
+      de: "Die Dysna-Ebene, die sich im entlegenen Nordosten Litauens bis zur belarussischen Grenze erstreckt, ist eine ausgedehnte, flache und oft sumpfige Landschaft. Geologisch gesehen bildet diese Ebene den Grund eines massiven, prähistorischen Eisstausees, der sich nach der letzten Vereisung bildete. Als das Wasser abfloss, hinterließ es eine dicke Schicht aus schwerem Ton und feinen Sedimenten, die dafür sorgt, dass Wasser nur sehr langsam im Boden versickert. Dies ist der Hauptgrund für die zahlreichen Feuchtgebiete, Moore und kleinen Tümpel, die die Region heute prägen. Der namensgebende Fluss Dysna durchzieht die Ebene und entwässert sie langsam in Richtung der Daugava. Aufgrund der eher kargen landwirtschaftlichen Bedingungen ist die Gegend dünn besiedelt und bietet so ungestörte Rückzugsorte für Wasser- und Watvögel. Es ist eine Region, in der man die Stille und die Weite der unberührten baltischen Natur intensiv erleben kann.",
+      hu: "A Dysna-síkság, amely Litvánia távoli északkeleti részén, egészen a fehérorosz határig nyúlik, egy kiterjedt, lapos és gyakran mocsaras tájegység. Földtani szempontból ez a síkság egy hatalmas, történelem előtti jégkorszaki tó medrét képezi, amely az utolsó eljegesedés után alakult ki. Amikor a víz lefolyt, egy vastag, nehéz agyagból és finom üledékből álló réteget hagyott hátra, amely nagyon lassan engedi át a vizet a talajba. Ez a fő oka a régiót ma is jellemző kiterjedt vizes élőhelyek, lápok és kisebb tavak jelenlétének. A névadó Dysna folyó lassan kanyarog keresztül a síkságon, a Daugava felé vezetve a vizet. A kedvezőtlenebb mezőgazdasági adottságok miatt a terület ritkán lakott, így zavartalan menedéket nyújt számos vízi- és gázlómadárnak. Ez egy olyan vidék, ahol a látogatók mélyen átélhetik a háborítatlan balti természet csendjét és tágasságát.",
+      ro: "Câmpia Dysna, care se întinde în nord-estul îndepărtat al Lituaniei până la granița cu Belarus, este un peisaj vast, plat și adesea mlăștinos. Din punct de vedere geologic, această câmpie formează fundul unui masiv lac glaciar preistoric, creat după ultima glaciațiune. Când apele s-au retras, au lăsat în urmă un strat gros de argilă grea și sedimente fine, care face ca apa să se infiltreze foarte încet în sol. Acesta este motivul principal pentru numeroasele zone umede, mlaștini și iazuri mici care caracterizează astăzi regiunea. Râul omonim Dysna străbate câmpia, drenând-o lent spre râul Daugava. Datorită condițiilor agricole mai puțin favorabile, zona este slab populată, oferind astfel refugii netulburate pentru păsările de apă și de țărm. Este o regiune în care se poate experimenta intens liniștea și vastitatea naturii baltice neatinse.",
+      en: "The Dysna Plain, stretching across the remote northeast of Lithuania to the Belarusian border, is an expansive, remarkably flat, and frequently marshy landscape. Geologically, this plain forms the literal bed of a massive, prehistoric proglacial lake that existed shortly after the last ice age. When the waters eventually receded, they left behind a thick layer of heavy clay and fine sediments, which significantly restricts the downward percolation of surface water. This impermeable layer is the primary reason for the extensive wetlands, peat bogs, and small shallow pools that heavily characterize the region today. The eponymous Dysna River slowly meanders through the plain, eventually draining towards the Daugava basin. Due to its challenging agricultural conditions, the area remains sparsely populated, thereby providing an undisturbed sanctuary for numerous water and wading birds. It is a region where visitors can truly experience the profound silence and vastness of untouched Baltic nature."
+    },
+    factsAdvanced: {
+      de: ["Geologically represents the flat, heavy clay bed of a former massive proglacial lake", "Located in the remote northeastern part of Lithuania along the Belarusian border", "Characterized by poor water drainage leading to extensive marshes and peat bogs", "Traversed and slowly drained by the meandering currents of the Dysna River", "Sparsely populated due to the challenging heavy clay soils for agriculture", "Provides a highly important and undisturbed sanctuary for water and wading birds"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-dysna-plain-relief-v2.webp",
+},  {
     id: "lithuania-musa-nemunelis-lowland-relief-v2",
     type: "valley",
-    name: { de: "Mūša-Nemunėlis-Tiefland", hu: "Mūša-Nemunėlis alföld", ro: "Câmpia Mūša-Nemunėlis", en: "Mūša-Nemunėlis Lowland" },
+    name: { de: "Mūša-Nemunėlis-Tiefland", hu: "Mūša-Nemunėlis alföld", ro: "Câmpia Mūša-Nemunėlis", en: "Mūša-Nemunėlis Lowland",
+image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp"
+},
     coords: [24.5, 56.2],
     coordinates: { lat: 56.2, lng: 24.5 },
     description: {
@@ -421,11 +735,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Zonă carstică în nord", "Prezintă numeroase doline", "Biržai este situat aici", "Soluri argiloase fertile"],
       en: ["Karst region in the north", "Numerous sinkholes present", "Biržai town is located here", "Fertile clay soil composition"],
     },
-    imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania", image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp"},
-  {
+imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
+    descriptionAdvanced: {
+      de: "Das Mūša-Nemunėlis-Tiefland erstreckt sich über den Norden Litauens und grenzt direkt an Lettland. Diese weite Ebene wurde aus eiszeitlichen Flusssedimenten gebildet und zeichnet sich durch extrem fruchtbare, lehmige Böden aus, die sie zu einer der ertragreichsten landwirtschaftlichen Zonen des Landes machen. Was dieses Tiefland jedoch geologisch besonders faszinierend und einzigartig macht, ist der tieferliegende Gips- und Kalksteinuntergrund. Besonders in der Region um die Stadt Biržai führt die ständige Auswaschung dieser wasserlöslichen Gesteine zur Bildung von hunderten Karstdolinen und spektakulären Erdfällen (Sinkhöhlen), die oft urplötzlich entstehen und sich manchmal mit Wasser füllen, um kleine, kreisrunde Seen zu bilden. Diese Karstlandschaft zieht Geologen und Naturinteressierte gleichermaßen an. Die Flüsse Mūša und Nemunėlis entwässern das Gebiet stetig in Richtung des Flusses Lielupe.",
+      hu: "A Mūša-Nemunėlis alföld Észak-Litvániában terül el, közvetlenül a lett határ mentén. Ez a széles síkság jégkorszaki folyami üledékekből alakult ki, és rendkívül termékeny agyagtalajok jellemzik, amelyek az ország egyik legkiválóbb mezőgazdasági övezetévé teszik. Ami azonban geológiai szempontból különösen lenyűgözővé és egyedivé teszi ezt az alföldet, az a mélyebben fekvő gipsz- és mészkő alapkőzet. Különösen Biržai városa körül ezen vízoldékony kőzetek folyamatos kimosódása több száz karsztos dolina és látványos víznyelő kialakulásához vezetett, amelyek gyakran hirtelen jönnek létre, és néha vízzel megtelve apró, kerek tavacskákat alkotnak. Ez az aktív karsztvidék geológusokat és természetbúvárokat egyaránt vonz. A terület vizeit a Mūša és a Nemunėlis folók szállítják a Lielupe vízgyűjtője felé.",
+      ro: "Câmpia Mūša-Nemunėlis se întinde în nordul Lituaniei, la granița directă cu Letonia. Această câmpie vastă s-a format din sedimente fluviale glaciare și se distinge prin soluri argiloase extrem de fertile, ceea ce o face una dintre cele mai productive zone agricole din țară. Totuși, ceea ce face această zonă joasă deosebit de fascinantă și unică din punct de vedere geologic este stratul de rocă de bază din gips și calcar. În special în regiunea din jurul orașului Biržai, dizolvarea constantă a acestor roci solubile duce la formarea a sute de doline carstice și prăbușiri spectaculoase ale terenului, care adesea apar brusc și uneori se umplu cu apă, formând mici lacuri circulare. Acest peisaj carstic activ atrage deopotrivă geologi și pasionați de natură. Râurile Mūša și Nemunėlis drenează constant zona către bazinul râului Lielupe.",
+      en: "The Mūša-Nemunėlis Lowland stretches across northern Lithuania, directly bordering neighboring Latvia. This expansive plain was formed from glacial fluvial sediments and is characterized by extremely fertile, loamy clay soils, making it one of the country's most highly productive agricultural zones. However, what makes this lowland particularly fascinating and unique geologically is its underlying bedrock of highly soluble gypsum and limestone. Especially in the region surrounding the town of Biržai, the constant dissolution of these rocks by groundwater leads to the continuous formation of hundreds of active karst dolines and spectacular sinkholes, which often open up suddenly and sometimes fill with water to form small, perfectly circular lakes. This active karst landscape attracts geologists and curious nature enthusiasts alike. The plain is steadily drained by the Mūša and Nemunėlis rivers towards the Lielupe basin."
+    },
+    factsAdvanced: {
+      de: ["Expansive glacial fluvial plain located in northern Lithuania bordering Latvia", "Features highly fertile, loamy clay soils extensively used for productive agriculture", "Geologically unique due to its underlying highly soluble gypsum and limestone bedrock", "Famous for active karst phenomena, including hundreds of sudden sinkholes", "The Biržai region is specifically renowned as the epicenter of this karst activity", "Drained steadily northward by the major Mūša and Nemunėlis rivers"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp",
+},  {
     id: "lithuania-sesupe-lowland-relief-v2",
     type: "valley",
-    name: { de: "Šešupė-Tiefland", hu: "Šešupė-alföld", ro: "Câmpia Šešupė", en: "Šešupė Lowland" },
+    name: { de: "Šešupė-Tiefland", hu: "Šešupė-alföld", ro: "Câmpia Šešupė", en: "Šešupė Lowland",
+image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp"
+},
     coords: [23.0, 54.8],
     coordinates: { lat: 54.8, lng: 23.0 },
     description: {
@@ -440,11 +769,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Bazinul râului Šešupė", "Soluri aluviale fertile", "Relief plat în sud-vest", "Inima agriculturii din Suvalkija"],
       en: ["Basin of the Šešupė river", "Fertile alluvial soils", "Flat relief in the southwest", "Core of Suvalkija agriculture"],
     },
-    imageHint: "Sesupe lowland river valley and fields Lithuania", image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp"},
-  {
+imageHint: "Sesupe lowland river valley and fields Lithuania",
+    descriptionAdvanced: {
+      de: "Das Šešupė-Tiefland befindet sich im Südwesten Litauens und erstreckt sich als flache, äußerst fruchtbare Ebene entlang des Flusses Šešupė, der ein wichtiger Nebenfluss der Memel ist. Geologisch ist die Ebene von mächtigen Alluvialböden (Schwemmböden) bedeckt, die durch historische Überschwemmungen und glaziale Ablagerungen entstanden sind. Diese hervorragende Bodenqualität hat die Region, oft auch als Suvalkija bezeichnet, zum historischen und gegenwärtigen Zentrum des litauischen Ackerbaus gemacht. Die Landschaft ist sehr offen, mit schier endlosen, sorgfältig gepflegten Feldern, die von einem dichten Netz aus Be- und Entwässerungsgräben durchzogen sind, um die Erträge zu maximieren. Trotz der intensiven menschlichen Nutzung haben sich entlang der Flussufer kleine Laubwälder und Feuchtgebiete erhalten, die lokale Biodiversität fördern. Große Erhebungen sucht man hier vergeblich, der Horizont ist weit und flach.",
+      hu: "A Šešupė-alföld Litvánia délnyugati részén helyezkedik el, és egy lapos, rendkívül termékeny síkságként nyúlik el a Šešupė folyó – a Nyeman egyik fontos mellékfolyója – mentén. Geológiailag a síkságot vastag alluviális (hordalékos) talajok borítják, amelyek a történelmi áradások és a jégkorszaki üledékek révén alakultak ki. Ez a kiváló talajminőség tette a régiót – amelyet gyakran Suvalkija néven is emlegetnek – a litván mezőgazdaság történelmi és jelenlegi központjává. A táj rendkívül nyitott, szinte végtelen, gondosan művelt mezőkkel, amelyeket sűrű öntöző- és vízelvezető csatornahálózat szel át a terméshozamok maximalizálása érdekében. Az intenzív emberi beavatkozás ellenére a folyópartok mentén kisebb lombhullató erdők és nedves területek maradtak fenn, támogatva a helyi biológiai sokféleséget. Jelentős domborzati kiemelkedések nincsenek, a horizont széles és sík.",
+      ro: "Câmpia Šešupė este situată în sud-vestul Lituaniei și se întinde ca o zonă plată și extrem de fertilă de-a lungul râului Šešupė, un afluent important al râului Nemunas. Geologic, câmpia este acoperită de soluri aluviale puternice, formate prin inundații istorice și depuneri glaciare. Această calitate excelentă a solului a transformat regiunea, adesea numită Suvalkija, în centrul istoric și actual al agriculturii lituaniene. Peisajul este foarte deschis, cu câmpuri aparent nesfârșite și îngrijite, traversate de o rețea densă de canale de irigații și drenaj pentru a maximiza recoltele. În ciuda utilizării umane intense, de-a lungul malurilor râului s-au păstrat mici păduri de foioase și zone umede care susțin biodiversitatea locală. Aici nu există elevații majore, orizontul fiind larg și complet plat.",
+      en: "The Šešupė Lowland is located in southwestern Lithuania, extending as a flat, highly fertile plain along the winding course of the Šešupė River, a major tributary of the Nemunas. Geologically, the plain is deeply covered by rich alluvial soils formed through centuries of historical flooding combined with ancient glacial deposits. This exceptional soil quality has firmly established the region, historically referred to as Suvalkija, as the agricultural powerhouse of Lithuania. The landscape is notably open, featuring seemingly endless, meticulously cultivated crop fields that are systematically intersected by a dense network of irrigation and drainage ditches designed to maximize agricultural yields. Despite the intensive human cultivation, small strips of broadleaf forests and riparian wetlands have been preserved along the riverbanks, supporting local biodiversity. The terrain lacks any major elevations, offering broad, uninterrupted flat horizons."
+    },
+    factsAdvanced: {
+      de: ["A prominent, flat alluvial plain located in the southwestern region of Lithuania", "Follows the winding course of the Šešupė River, a major Nemunas tributary", "Covered by exceptionally fertile alluvial soils ideal for intensive farming", "Historically and currently recognized as the agricultural powerhouse of Suvalkija", "Features an open landscape intersected by complex drainage and irrigation systems", "Lacks any major geographical elevations, offering wide and uninterrupted horizons"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp",
+},  {
     id: "lithuania-birute-hill-relief-v2",
     type: "peak",
-    name: { de: "Birutė-Hügel", hu: "Birutė-domb", ro: "Dealul Birutė", en: "Birutė Hill" },
+    name: { de: "Birutė-Hügel", hu: "Birutė-domb", ro: "Dealul Birutė", en: "Birutė Hill",
+image: "/poi-images/lithuania-birute-hill-relief-v2.webp"
+},
     coords: [21.054, 55.907],
     coordinates: { lat: 55.907, lng: 21.054 },
     description: {
@@ -459,11 +803,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 21 metri", "Dună litorală în Palanga", "Vechi loc de cult păgân", "Găzduiește o capelă pe vârf"],
       en: ["Elevation of 21 meters", "Coastal dune in Palanga", "Ancient pagan cult site", "Topped by a small chapel"],
     },
-    imageHint: "Birute hill with chapel Palanga Lithuania", image: "/poi-images/lithuania-birute-hill-relief-v2.webp"},
-  {
+imageHint: "Birute hill with chapel Palanga Lithuania",
+    descriptionAdvanced: {
+      de: "Der Birutė-Hügel (Birutės kalnas) ist eine markante, 21 Meter hohe Küstendüne im beliebten Seebad Palanga, direkt an der Ostseeküste Litauens. Geologisch gesehen handelt es sich um eine durch stetige Seewinde geformte Parabeldüne, die im Laufe der Jahrhunderte von einem alten Kiefernwald überwachsen und somit stabilisiert wurde. Der Hügel ist jedoch vor allem für seine immense kulturhistorische und mythologische Bedeutung bekannt. In vorchristlicher Zeit befand sich hier ein wichtiges heidnisches Heiligtum mit einem heiligen Feuer, das von Vaidelotinnen (heidnischen Priesterinnen) gehütet wurde. Der Legende nach stammt Birutė, die spätere Frau des litauischen Großfürsten Kęstutis und Mutter von Vytautas dem Großen, von hier. Im 19. Jahrhundert wurde auf dem Gipfel eine kleine, achteckige neugotische Kapelle errichtet. Heute ist der Hügel ein romantisches Wahrzeichen des Botanischen Gartens von Palanga und bietet einen idyllischen Blick auf das Meer.",
+      hu: "A Birutė-domb (Birutės kalnas) egy 21 méter magas, lenyűgöző tengerparti homokdűne Palanga népszerű üdülővárosában, közvetlenül a Balti-tenger partján. Földtani szempontból ez egy az állandó tengeri szelek által formált paraboladűne, amelyet az évszázadok során egy ősi fenyőerdő nőtt be és stabilizált. A domb azonban leginkább hatalmas kultúrtörténeti és mitológiai jelentőségéről ismert. A kereszténység előtti időkben itt működött egy fontos pogány szentély, amelynek szent tüzét a vaideloták (pogány papnők) őrizték. A legenda szerint innen származott Birutė, Kęstutis litván nagyfejedelem későbbi felesége és Nagy Vytautas édesanyja. A 19. században a csúcson egy kis, nyolcszögletű neogótikus kápolnát emeltek. Ma a magaslat a palangai botanikus kert egyik legromantikusabb látványossága, ahonnan idilli kilátás nyílik a tengerre.",
+      ro: "Dealul Birutė (Birutės kalnas) este o dună de coastă marcantă, cu o înălțime de 21 de metri, situată în populara stațiune Palanga, direct pe coasta Mării Baltice. Din punct de vedere geologic, este o dună parabolică formată de vânturile constante de pe mare, care de-a lungul secolelor a fost acoperită și stabilizată de o pădure bătrână de pini. Totuși, dealul este renumit în principal pentru imensa sa importanță istorică și mitologică. În perioada precreștină, aici se afla un sanctuar păgân important, cu un foc sacru păzit de preotesele vaidelote. Conform legendei, Birutė, viitoarea soție a Marelui Duce lituanian Kęstutis și mama lui Vytautas cel Mare, provenea de aici. În secolul al XIX-lea, pe vârf a fost construită o mică capelă neogotică octogonală. Astăzi, dealul este un reper romantic al Grădinii Botanice din Palanga, oferind o vedere idilică asupra mării.",
+      en: "Birutė Hill (Birutės kalnas) is a prominent, 21-meter-high coastal sand dune located in the popular seaside resort town of Palanga, directly on the Baltic Sea coast. Geologically, it is a classic parabolic dune sculpted over millennia by constant maritime winds, which was eventually overgrown and stabilized by an ancient, twisted pine forest. However, the hill is most famously known for its immense cultural, historical, and mythological significance. During pre-Christian times, it served as a major pagan sanctuary featuring a sacred eternal fire guarded by Vaidelotės (pagan priestesses). According to national legend, Birutė, who later became the wife of the Lithuanian Grand Duke Kęstutis and the mother of Vytautas the Great, originated from this very site. In the 19th century, a small, picturesque octagonal neo-Gothic chapel was erected on the summit. Today, the hill is a highly romantic landmark within the Palanga Botanical Park, offering idyllic views of the sea."
+    },
+    factsAdvanced: {
+      de: ["A stabilized 21-meter-high coastal parabolic dune located directly on the Baltic coast", "Geologically formed by persistent maritime winds and stabilized by an ancient pine forest", "Served as a highly important pre-Christian pagan sanctuary with a sacred eternal fire", "Mythological home of Birutė, mother of the famous Lithuanian Grand Duke Vytautas the Great", "Features a picturesque octagonal neo-Gothic chapel built on the summit in 1869", "Serves as the highest and most romantic focal point of the Palanga Botanical Park"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-birute-hill-relief-v2.webp",
+},  {
     id: "lithuania-ginuciai-hill-relief-v2",
     type: "peak",
-    name: { de: "Ginučiai-Burgberg", hu: "Ginučiai-várhegy", ro: "Dealul Ginučiai", en: "Ginučiai Hill Fort" },
+    name: { de: "Ginučiai-Burgberg", hu: "Ginučiai-várhegy", ro: "Dealul Ginučiai", en: "Ginučiai Hill Fort",
+image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp"
+},
     coords: [25.986, 55.375],
     coordinates: { lat: 55.375, lng: 25.986 },
     description: {
@@ -478,11 +837,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Pante abrupte ale dealului", "Situat între două lacuri", "În Parcul Național Aukštaitija", "Monument arheologic protejat"],
       en: ["Steep hill slopes", "Located between two lakes", "In Aukštaitija National Park", "Significant archaeological site"],
     },
-    imageHint: "Ginuciai hill fort and lakes Lithuania", image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp"},
-  {
+imageHint: "Ginuciai hill fort and lakes Lithuania",
+    descriptionAdvanced: {
+      de: "Der Ginučiai-Burgberg, wunderschön eingebettet in den Nationalpark Aukštaitija, ist eine der beeindruckendsten historischen Erhebungen Ostlitauens. Dieser natürlich steile Hügel erhebt sich strategisch zwischen den glitzernden Seen Linkmenas und Asėkas, was ihm in der Vergangenheit eine natürliche Barrierefunktion verlieh. Zwischen dem 9. und 12. Jahrhundert befand sich auf seinem flachen, künstlich erweiterten Gipfel eine mächtige hölzerne Festung der Litauer, die als Verteidigungsanlage gegen feindliche Stämme und später gegen Schwertbrüder diente. Die archäologischen Ausgrabungen auf dem Gelände brachten zahlreiche Artefakte zutage, die von einem regen Leben und intensiven Verteidigungsschlachten zeugen. Heute sind die Hänge des Hügels mit Holztreppen ausgestattet, die Besuchern den Aufstieg erleichtern. Oben angekommen, wird man mit einem herrlichen Blick über die bewaldete Seenlandschaft des Nationalparks belohnt, der Geschichte und Natur perfekt vereint.",
+      hu: "A Ginučiai-várhegy, amely az Aukštaitija Nemzeti Park szívében fekszik, Kelet-Litvánia egyik legimpozánsabb történelmi magaslata. Ez a természetesen meredek domb stratégiailag kiváló helyen, a csillogó Linkmenas és Asėkas tavak között emelkedik, ami a múltban tökéletes természetes védelmet biztosított számára. A 9. és 12. század között a domb mesterségesen kiszélesített, lapos tetején egy hatalmas litván faerődítmény állt, amely fontos védelmi bázisként szolgált az ellenséges törzsek, majd később a Kardtestvérek rendje ellen. A területen végzett régészeti ásatások számos olyan leletet hoztak felszínre, amelyek az itt folyó élénk életről és heves védelmi harcokról tanúskodnak. Napjainkban a domboldalakat falépcsőkkel látták el, így a látogatók könnyen feljuthatnak a csúcsra. A tetőre érve lenyűgöző kilátás nyílik a nemzeti park erdős tóvidékére, ahol a történelem és a természet tökéletes harmóniát alkot.",
+      ro: "Dealul fortificat Ginučiai, frumos integrat în Parcul Național Aukštaitija, este una dintre cele mai impresionante elevații istorice din estul Lituaniei. Acest deal natural abrupt se ridică strategic între lacurile strălucitoare Linkmenas și Asėkas, ceea ce i-a oferit în trecut o funcție de barieră naturală. Între secolele al IX-lea și al XII-lea, pe vârful său plat și extins artificial s-a aflat o puternică fortăreață de lemn lituaniană, care a servit ca bază defensivă împotriva triburilor inamice și, mai târziu, împotriva Fraților Sabiei. Săpăturile arheologice din zonă au scos la lumină numeroase artefacte care mărturisesc o viață activă și bătălii defensive intense. Astăzi, pantele dealului sunt echipate cu scări de lemn care facilitează ascensiunea vizitatorilor. Ajunși în vârf, turiștii sunt răsplătiți cu o vedere magnifică asupra peisajului forestier și lacustru al parcului național.",
+      en: "The Ginučiai Hill Fort, beautifully nestled within the Aukštaitija National Park, is one of the most impressive and historically significant elevations in eastern Lithuania. This naturally steep hill rises in a strategically perfect location between the sparkling lakes of Linkmenas and Asėkas, providing it with a formidable natural water barrier in the past. Between the 9th and 12th centuries, its artificially flattened and expanded summit hosted a massive wooden Lithuanian fortress, which served as a crucial defensive stronghold against rival tribes and later the Livonian Brothers of the Sword. Archaeological excavations at the site have unearthed numerous artifacts, testifying to active daily life and intense defensive battles. Today, the slopes of the hill are equipped with well-maintained wooden stairs to facilitate visitor access. Once at the top, visitors are rewarded with a magnificent, unobstructed view over the wooded lake district of the national park."
+    },
+    factsAdvanced: {
+      de: ["A prominent and naturally steep hill fort located in Aukštaitija National Park", "Strategically positioned directly between the historic Linkmenas and Asėkas lakes", "Hosted a massive wooden defensive fortress active between the 9th and 12th centuries", "Archaeological excavations revealed significant artifacts from ancient battles", "Features well-maintained wooden stairs allowing easy access for modern visitors", "Offers magnificent, unobstructed panoramic views over the surrounding lake district"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp",
+},  {
     id: "lithuania-dyburiai-escarpment-relief-v2",
     type: "peak",
-    name: { de: "Dyburiai-Schleife", hu: "Dyburiai-kanyarulat", ro: "Escarpamentul Dyburiai", en: "Dyburiai Escarpment" },
+    name: { de: "Dyburiai-Schleife", hu: "Dyburiai-kanyarulat", ro: "Escarpamentul Dyburiai", en: "Dyburiai Escarpment",
+image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp"
+},
     coords: [21.6, 55.93],
     coordinates: { lat: 55.93, lng: 21.6 },
     description: {
@@ -497,11 +871,26 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Vedere spre bucla Minija", "Escarpament fluvial abrupt", "În Parcul Regional Salantai", "Formațiune geologică vizibilă"],
       en: ["View of the Minija River loop", "Steep river escarpment", "In Salantai Regional Park", "Exposed geological formation"],
     },
-    imageHint: "Dyburiai river loop view Minija Lithuania", image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp"},
-  {
+imageHint: "Dyburiai river loop view Minija Lithuania",
+    descriptionAdvanced: {
+      de: "Die Dyburiai-Schleife (Aufschluss) ist ein beeindruckendes geologisches Naturdenkmal im Regionalpark Salantai, im Nordwesten Litauens. Hier hat sich der Fluss Minija über Jahrtausende tief in das eiszeitliche Relief eingegraben und eine der tiefsten und spektakulärsten Flussschleifen des Landes geschaffen. Der steile Aufschluss erhebt sich fast senkrecht über das Flusstal und entblößt dabei verschiedene geologische Schichten, die einen faszinierenden Blick in die erdgeschichtliche Entwicklung der Region nach dem Rückzug der Gletscher bieten. Von der oberen Kante des Escarpments öffnet sich ein atemberaubendes Panorama auf den stark mäandrierenden Flusslauf, der sich durch dichte, fast urwaldartige Laubwälder windet. Das schwer zugängliche Tal unterhalb des Aufschlusses bietet einen ungestörten Lebensraum für eine Vielzahl seltener Tier- und Pflanzenarten. Es ist ein Ort von rauer, wilder Schönheit, der vor allem bei Naturfotografen und Geologen beliebt ist.",
+      hu: "A Dyburiai-kanyarulat (vagy Dyburiai-kilátóhely) egy lenyűgöző geológiai természeti emlék a Salantai Regionális Parkban, Északnyugat-Litvániában. A Minija folyó az évezredek során mélyen belevágta magát a jégkorszaki domborzatba, létrehozva ezzel az ország egyik legmélyebb és leglátványosabb folyókanyarulatát. A meredek, szinte függőleges sziklafal a folyóvölgy fölé magasodik, és láthatóvá tesz különböző geológiai rétegeket, amelyek lenyűgöző bepillantást engednek a régió gleccserek visszahúzódása utáni földtörténeti fejlődésébe. A meredély felső pereméről lélegzetelállító panoráma nyílik a sűrű, szinte őserdőszerű lombhullató erdőkön keresztül erősen kanyargó folyómederre. A kilátó alatti, nehezen megközelíthető völgy zavartalan élőhelyet biztosít számos ritka állat- és növényfaj számára. Ez egy nyers, vad szépségű hely, amely különösen népszerű a természetfotósok és geológusok körében.",
+      ro: "Escarpamentul Dyburiai este un monument natural geologic impresionant situat în Parcul Regional Salantai, în nord-vestul Lituaniei. Aici, râul Minija s-a adâncit profund în relieful glaciar de-a lungul mileniilor, creând una dintre cele mai adânci și spectaculoase bucle fluviale din țară. Aflorimentul abrupt se ridică aproape vertical deasupra văii râului, expunând diferite straturi geologice care oferă o privire fascinantă asupra dezvoltării istoriei Pământului din regiune după retragerea ghețarilor. De pe marginea superioară a escarpamentului se deschide o panoramă uluitoare asupra cursului râului puternic meandrat, care șerpuiește prin păduri de foioase dense, aproape virgine. Valea greu accesibilă de sub afloriment oferă un habitat netulburat pentru o varietate de specii rare de animale și plante. Este un loc de o frumusețe aspră și sălbatică, deosebit de popular printre fotografii de natură și geologi.",
+      en: "The Dyburiai Escarpment (or Dyburiai Outcrop) is an impressive geological natural monument located in the Salantai Regional Park in northwestern Lithuania. Over millennia, the Minija River has carved deeply into the post-glacial relief here, creating one of the deepest and most spectacular river loops in the entire country. The steep escarpment rises almost vertically above the river valley, effectively exposing various geological layers that provide a fascinating glimpse into the region's earth history following the retreat of the glaciers. From the upper edge of the steep cliff, a breathtaking panorama opens up over the heavily meandering river course, which winds its way through dense, almost primeval broadleaf forests. The difficult-to-access valley directly beneath the outcrop provides a completely undisturbed habitat for a wide variety of rare animal and plant species. It is a place of raw, wild beauty, exceptionally popular among nature photographers and geologists."
+    },
+    factsAdvanced: {
+      de: ["A steep, almost vertical geological escarpment located in the Salantai Regional Park", "Formed over millennia by the deep carving action of the meandering Minija River", "Exposes clear geological sediment layers from the period after the glacial retreat", "Provides a breathtaking panoramic view of one of Lithuania's deepest river loops", "Surrounded by dense, almost primeval broadleaf forests creating a wild landscape", "The inaccessible valley below offers a highly protected habitat for rare wildlife"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp",
+},  {
     id: "lithuania-puckoriai-exposure-relief-v2",
     type: "peak",
-    name: { de: "Pučkoriai-Aufschluss", hu: "Pučkoriai-feltárás", ro: "Aflorimentul Pučkoriai", en: "Pučkoriai Exposure" },
+    name: { de: "Pučkoriai-Aufschluss", hu: "Pučkoriai-feltárás", ro: "Aflorimentul Pučkoriai", en: "Pučkoriai Exposure",
+image: "/poi-images/lithuania-puckoriai-exposure-relief-v2.webp"
+},
     coords: [25.353, 54.692],
     coordinates: { lat: 54.692, lng: 25.353 },
     description: {
@@ -517,5 +906,17 @@ export const lithuaniaReliefV2: POI[] = [
       en: ["Elevation of 65 meters", "Natural monument in Vilnius", "On the banks of Vilnia River", "Exposes glacial deposits"],
     },
     imageHint: "Puckoriai exposure geological cliff Vilnius Lithuania",
+    descriptionAdvanced: {
+      de: "Der Pučkoriai-Aufschluss (Pučkorių atodanga) ist das höchste und dramatischste geologische Naturdenkmal seiner Art in Litauen. Er liegt direkt am Rande der Hauptstadt Vilnius im Regionalpark Pavilniai. Diese gewaltige, beinahe senkrechte Felswand erhebt sich beeindruckende 65 Meter über dem malerischen Tal des Flusses Vilnia und erstreckt sich über eine Breite von 260 Metern. Der Aufschluss ist für Geologen weltweit von Interesse, da er die Sedimentschichten der letzten 20.000 Jahre offenlegt, die durch eiszeitliche Gletscherbewegungen stark aufgefaltet und gepresst wurden. Besucher können von einer gut ausgebauten Aussichtsplattform oben an der Kante tief in das grüne Flusstal blicken. Unten schlängelt sich ein beliebter Wanderweg entlang des Flusses, von dem aus man die schiere Größe der Felswand am besten erfassen kann. Die historischen Anlagen einer alten Kanonengießerei in der Nähe runden das landschaftliche Erlebnis ab.",
+      hu: "A Pučkoriai-feltárás (Pučkorių atodanga) a legmagasabb és legdrámaibb ilyen típusú geológiai természeti emlék Litvániában, amely közvetlenül a főváros, Vilnius peremén, a Pavilniai Regionális Parkban található. Ez a hatalmas, szinte függőleges sziklafal lenyűgöző, 65 méteres magasságba emelkedik a Vilnia folyó festői völgye fölé, szélessége pedig eléri a 260 métert. A feltárás világszerte nagy érdeklődésre tart számot a geológusok körében, mivel láthatóvá teszi az elmúlt 20 000 év üledékes rétegeit, amelyeket a jégkorszaki gleccserek mozgása erősen felgyűrt és összepréselt. A látogatók a perem tetején kialakított, kiváló állapotú kilátóteraszról tekinthetnek le mélyen a zöldellő folyóvölgybe. Lent egy népszerű túraútvonal kanyarog a folyó mentén, ahonnan a sziklafal puszta méreteit a legjobban fel lehet fogni. A közelben található egykori ágyúöntöde történelmi romjai teszik teljessé a táj nyújtotta élményt.",
+      ro: "Aflorimentul Pučkoriai (Pučkorių atodanga) este cel mai înalt și dramatic monument natural geologic de acest tip din Lituania, situat chiar la marginea capitalei Vilnius, în Parcul Regional Pavilniai. Acest perete stâncos masiv, aproape vertical, se înalță la impresionanta altitudine de 65 de metri deasupra văii pitorești a râului Vilnia și se întinde pe o lățime de 260 de metri. Aflorimentul este de interes mondial pentru geologi, deoarece expune clar straturile sedimentare din ultimii 20.000 de ani, care au fost puternic pliate și presate de mișcările glaciare. Vizitatorii pot privi adânc în valea verde a râului de pe o platformă de observație bine amenajată pe marginea superioară. Jos, un traseu popular de drumeții șerpuiește de-a lungul râului, de unde dimensiunea imensă a peretelui poate fi apreciată cel mai bine. Ruinele istorice ale unei vechi turnătorii de tunuri din apropiere completează experiența.",
+      en: "The Pučkoriai Exposure (Pučkorių atodanga) is the highest and most dramatic geological natural monument of its kind in Lithuania, located right on the edge of the capital city, Vilnius, within the Pavilniai Regional Park. This massive, almost perfectly vertical cliff face rises an impressive 65 meters above the picturesque valley of the Vilnia River and stretches across a width of 260 meters. The outcrop is of significant global interest to geologists, as it clearly exposes the sediment layers of the last 20,000 years, which were heavily folded and compressed by powerful advancing ice age glaciers. Visitors can gaze deep down into the lush green river valley from a well-maintained observation deck built safely on the upper edge. Below, a popular hiking trail meanders right alongside the river, offering the best perspective to truly grasp the sheer scale of the cliff wall. The nearby historic ruins of an ancient cannon foundry complete the landscape experience."
+    },
+    factsAdvanced: {
+      de: ["The highest geological exposure in Lithuania, featuring a dramatic 65-meter vertical drop", "Stretches across a width of 260 meters along the picturesque Vilnia River valley", "Exposes heavily folded sediment layers dating back approximately 20,000 years", "Located in the Pavilniai Regional Park, easily accessible from the capital, Vilnius", "Features a highly popular observation deck offering deep views into the green valley", "A scenic hiking trail at the base allows visitors to fully appreciate the cliff's massive scale"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

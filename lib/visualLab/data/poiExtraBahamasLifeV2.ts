@@ -13,7 +13,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Ardastra Kertek és Állatkert",
       ro: "Grădinile și Grădina Zoologică Ardastra",
       en: "Ardastra Gardens & Zoo",
-    },
+image: "/poi-images/ardastra-gardens-zoo-life-v2.webp"
+},
     description: {
       de: "Ein tropischer Garten und Boutique-Zoo in Nassau, berühmt für seine marschierenden Flamingos.",
       hu: "Trópusi kert és butik állatkert Nassauban, amely a menetelő flamingóiról híres.",
@@ -51,7 +52,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Lucayan Nemzeti Park élővilága",
       ro: "Fauna Parcului Național Lucayan",
       en: "Lucayan National Park Wildlife",
-    },
+image: "/poi-images/lucayan-national-park-habitat-life-v2.webp"
+},
     description: {
       de: "Obwohl bekannt für seine Höhlen, beherbergt der Park diverse Vogelarten in seinen Kiefernwäldern und Mangrovensümpfen.",
       hu: "Bár a barlangjairól ismert, a park változatos madárfajoknak ad otthont fenyőerdőiben és mangrove mocsaraiban.",
@@ -87,7 +89,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Malac-part (Big Major Cay)",
       ro: "Plaja Porcilor (Big Major Cay)",
       en: "Pig Beach (Big Major Cay)",
-    },
+image: "/poi-images/pig-beach-exuma-life-v2.webp"
+},
     description: {
       de: "Eine unbewohnte Insel, die für eine Kolonie von schwimmenden Schweinen berühmt ist, die am Strand leben.",
       hu: "Egy lakatlan sziget, amely a tengerparton élő úszó malacok kolóniájáról híres.",
@@ -125,7 +128,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Lovaglás a Pink Sands Beachen",
       ro: "Călărie pe Plaja Pink Sands",
       en: "Horseback Riding on Pink Sands Beach",
-    },
+image: "/poi-images/harbour-island-pferde-life-v2.webp"
+},
     description: {
       de: "Ein einzigartiges Erlebnis, bei dem man auf Pferden entlang des weltberühmten rosa Sandstrandes von Harbour Island reiten kann.",
       hu: "Egyedülálló élmény, ahol lovagolni lehet a világhírű rózsaszín homokos tengerparton, a Harbour-szigeten.",
@@ -163,7 +167,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Eleuthera ananászfarmjai",
       ro: "Fermele de ananas din Eleuthera",
       en: "Eleuthera Pineapple Farms",
-    },
+image: "/poi-images/eleuthera-ananas-farmen-life-v2.webp"
+},
     description: {
       de: "Eleuthera ist historisch bekannt für den Anbau von süßen, saftigen Ananas. Die Farmen sind ein wichtiger Teil des landwirtschaftlichen Erbes.",
       hu: "Eleuthera történelmileg híres az édes, lédús ananászok termesztéséről. A farmok a mezőgazdasági örökség fontos részét képezik.",
@@ -201,7 +206,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Nassau Kalózai Múzeum",
       ro: "Muzeul Piraților din Nassau",
       en: "Pirates of Nassau Museum",
-    },
+image: "/poi-images/pirates-of-nassau-museum-life-v2.webp"
+},
     description: {
       de: "Ein interaktives Museum für Kinder und Erwachsene, das die goldene Ära der Piraterie in den Bahamas nachstellt.",
       hu: "Interaktív múzeum gyerekeknek és felnőtteknek, amely a kalózkodás aranykorát eleveníti fel a Bahamákon.",
@@ -239,7 +245,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Allen Cay leguánjai",
       ro: "Iguanele din Allen Cay",
       en: "Allen Cay Iguanas",
-    },
+image: "/poi-images/allen-cay-iguanas-life-v2.webp"
+},
     description: {
       de: "Die Heimat der vom Aussterben bedrohten Felsenleguane der Exuma-Inseln, einer Unterart, die nur in diesem Gebiet vorkommt.",
       hu: "Az Exuma-szigeteki sziklaleguánok, egy csak ezen a területen előforduló alfaj otthona.",
@@ -277,7 +284,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "A Retreat Kert",
       ro: "Grădina Retreat",
       en: "The Retreat Garden",
-    },
+image: "/poi-images/the-retreat-garden-nassau-life-v2.webp"
+},
     description: {
       de: "Ein nationaler Park, der vom Bahamas National Trust verwaltet wird und eine der weltweit größten privaten Sammlungen seltener und exotischer Palmen beherbergt. Es ist auch ein Paradies für Vogelbeobachter.",
       hu: "A Bahamai Nemzeti Tröszt által kezelt nemzeti park, amely a világ egyik legnagyobb magángyűjteményét tartalmazza ritka és egzotikus pálmákból. Madármegfigyelők paradicsoma is.",
@@ -315,7 +323,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Dajkacápák a Compass Cay-nél",
       ro: "Rechinii doici din Compass Cay",
       en: "Compass Cay Nurse Sharks",
-    },
+image: "/poi-images/compass-cay-nurse-sharks-life-v2.webp"
+},
     description: {
       de: "Ein Yachthafen in den Exumas, wo Besucher mit einer Population von relativ harmlosen Ammenhaien im seichten Wasser schwimmen können.",
       hu: "Jachtkikötő az Exumákon, ahol a látogatók a sekély vízben úszkálhatnak a viszonylag ártalmatlan dajkacápák egy populációjával.",
@@ -353,7 +362,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Aquaventure az Atlantisban",
       ro: "Aquaventure la Atlantis",
       en: "Aquaventure at Atlantis",
-    },
+image: "/poi-images/aquaventure-atlantis-life-v2.webp"
+},
     description: {
       de: "Ein riesiger Wasserpark auf Paradise Island mit Hochgeschwindigkeitsrutschen, einem Lazy River und über 20 Schwimmbereichen.",
       hu: "Hatalmas vízi park a Paradise-szigeten, gyorscsúszdákkal, egy lusta folyóval és több mint 20 úszóterülettel.",
@@ -391,7 +401,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Bahamai Mezőgazdasági Kutatóközpont",
       ro: "Centrul de Cercetare Agricolă din Bahamas",
       en: "Bahamas Agricultural Research Centre",
-    },
+image: "/poi-images/bahamas-agri-research-centre-life-v2.webp"
+},
     description: {
       de: "Eine Einrichtung auf Andros, die sich der Erforschung und Förderung nachhaltiger landwirtschaftlicher Praktiken auf den Bahamas widmet.",
       hu: "Egy létesítmény Androszon, amely a fenntartható mezőgazdasági gyakorlatok kutatásával és előmozdításával foglalkozik a Bahamákon.",
@@ -429,7 +440,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Rand Természetvédelmi Központ",
       ro: "Centrul Natural Rand",
       en: "Rand Nature Centre",
-    },
+image: "/poi-images/rand-nature-centre-life-v2.webp"
+},
     description: {
       de: "Ein 100 Hektar großes Naturschutzgebiet in Freeport, das als wichtiges Vogelbeobachtungsgebiet und Bildungszentrum dient.",
       hu: "100 hektáros természetvédelmi terület Freeportban, amely fontos madármegfigyelő hely és oktatási központ.",
@@ -467,7 +479,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Állattenyésztés Long Islanden",
       ro: "Creșterea animalelor pe Long Island",
       en: "Livestock Farming on Long Island",
-    },
+image: "/poi-images/long-island-viehzucht-life-v2.webp"
+},
     description: {
       de: "Long Island ist bekannt für seine Ziegen- und Schafzucht, die ein wichtiger Bestandteil der lokalen Landwirtschaft und Küche ist.",
       hu: "A Long Island híres a kecske- és juhtenyésztéséről, amely a helyi mezőgazdaság és konyha fontos része.",
@@ -505,7 +518,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Rákászat Androszon",
       ro: "Prinderea crabilor pe Andros",
       en: "Crabbing on Andros",
-    },
+image: "/poi-images/andros-krabbenfang-life-v2.webp"
+},
     description: {
       de: "Andros ist die 'Hauptstadt der Landkrabben' der Bahamas. Der Fang und Verkauf von Krabben ist ein wichtiger Wirtschaftszweig.",
       hu: "Andros a Bahamák 'szárazföldi rák fővárosa'. A rákok fogása és értékesítése fontos gazdasági ágazat.",
@@ -543,7 +557,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Bimini Tanösvény",
       ro: "Poteca Naturală din Bimini",
       en: "Bimini Nature Trail",
-    },
+image: "/poi-images/bimini-nature-trail-life-v2.webp"
+},
     description: {
       de: "Ein familienfreundlicher Lehrpfad in Nord-Bimini, der die einheimische Flora und Fauna der Insel vorstellt.",
       hu: "Családbarát tanösvény Észak-Biminin, amely bemutatja a sziget őshonos növény- és állatvilágát.",
@@ -581,7 +596,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Delfinek a Sanctuary-öbölben",
       ro: "Delfinii din Golful Sanctuary",
       en: "Dolphins at Sanctuary Bay",
-    },
+image: "/poi-images/sanctuary-bay-delfine-life-v2.webp"
+},
     description: {
       de: "Eine große, naturnahe Anlage in Freeport, in der Besucher mit Atlantischen Fleckendelfinen interagieren können.",
       hu: "Nagy, természetes környezet Freeportban, ahol a látogatók kapcsolatba léphetnek az atlanti pettyes delfinekkel.",
@@ -619,7 +635,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Graycliff Csokoládékészítő",
       ro: "Ciocolatierul Graycliff",
       en: "Graycliff Chocolatier",
-    },
+image: "/poi-images/graycliff-chocolatier-life-v2.webp"
+},
     description: {
       de: "Eine Schokoladenfabrik in Nassau, in der Kinder und Erwachsene an Touren teilnehmen und lernen können, wie man ihre eigenen Schokoladenkreationen herstellt.",
       hu: "Csokoládégyár Nassauban, ahol gyerekek és felnőttek is részt vehetnek túrákon, és megtanulhatják, hogyan készítsék el saját csokoládéalkotásaikat.",
@@ -657,7 +674,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Abaco Barb lovak menedékhelye",
       ro: "Rezervația cailor Abaco Barb",
       en: "Abaco Barb Horse Preserve",
-    },
+image: "/poi-images/abaco-barb-pferde-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet, das dem Erhalt der vom Aussterben bedrohten Abaco-Barb-Pferde gewidmet ist, einer einzigartigen Pferderasse, die einst wild auf der Insel lebte.",
       hu: "A kihalás szélén álló Abaco Barb lovak, egy egyedülálló, egykor a szigeten vadon élt lófajta megőrzésére szánt menedékhely.",
@@ -695,7 +713,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Tengeri Élőhely az Atlantisban",
       ro: "Habitatul Marin de la Atlantis",
       en: "Marine Habitat at Atlantis",
-    },
+image: "/poi-images/marine-habitat-atlantis-life-v2.webp"
+},
     description: {
       de: "Eines der größten Freiluft-Meereslebensräume der Welt, das über 50.000 Meerestiere aus über 250 Arten beherbergt.",
       hu: "A világ egyik legnagyobb szabadtéri tengeri élőhelye, amely több mint 250 fajból származó 50 000 tengeri állatnak ad otthont.",
@@ -733,7 +752,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Earth Village Gyerektábor",
       ro: "Tabăra de Copii Earth Village",
       en: "Earth Village Kids Camp",
-    },
+image: "/poi-images/earth-village-kids-camp-life-v2.webp"
+},
     description: {
       de: "Ein Öko-Bildungscamp in der Nähe von Adelaide Village, das Kindern die Natur, nachhaltige Landwirtschaft und bahamaische Kultur näher bringt.",
       hu: "Öko-oktatási tábor Adelaide Village közelében, amely a természetről, a fenntartható gazdálkodásról és a bahamai kultúráról tanítja a gyerekeket.",
@@ -771,7 +791,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Bonefish Pond Nemzeti Park",
       ro: "Parcul Național Bonefish Pond",
       en: "Bonefish Pond National Park",
-    },
+image: "/poi-images/bonefish-pond-national-park-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Küstenfeuchtgebiet auf New Providence, das als wichtige Kinderstube für Fische und wirbellose Meerestiere dient.",
       hu: "Fontos part menti vizes élőhely New Providence-en, amely a tengeri halak és gerinctelenek fontos bölcsődéjeként szolgál.",
@@ -809,7 +830,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Freeport Parfümgyár",
       ro: "Fabrica de Parfumuri din Freeport",
       en: "Freeport Perfume Factory",
-    },
+image: "/poi-images/freeport-perfume-factory-life-v2.webp"
+},
     description: {
       de: "Ein Ort, an dem Besucher, einschließlich Kinder, ihren eigenen einzigartigen Duft aus einer Vielzahl von Essenzen mischen können.",
       hu: "Egy hely, ahol a látogatók, beleértve a gyerekeket is, saját egyedi illatukat keverhetik ki különféle esszenciákból.",
@@ -847,7 +869,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Önellátó gazdálkodás a Macska-szigeten",
       ro: "Agricultura de subzistență pe Insula Cat",
       en: "Subsistence Farming on Cat Island",
-    },
+image: "/poi-images/cat-island-landwirtschaft-life-v2.webp"
+},
     description: {
       de: "Viele Einwohner von Cat Island betreiben kleine Bauernhöfe und Gärten und bauen traditionelle Pflanzen wie Süßkartoffeln, Kassava und Taubenerbsen an.",
       hu: "A Macska-sziget sok lakója kis gazdaságokat és kerteket tart fenn, ahol hagyományos növényeket, például édesburgonyát, maniókát és galambborsót termesztenek.",
@@ -885,7 +908,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Seahorse Vitorlásiskola gyerekeknek",
       ro: "Școala de Navigație Seahorse pentru Copii",
       en: "Seahorse Sailing School for Kids",
-    },
+image: "/poi-images/seahorse-sailing-kids-life-v2.webp"
+},
     description: {
       de: "Eine Segelschule in Nassau, die Programme speziell für Kinder anbietet, um die Grundlagen des Segelns in einer sicheren Umgebung zu erlernen.",
       hu: "Vitorlásiskola Nassauban, amely kifejezetten gyerekeknek szóló programokat kínál a vitorlázás alapjainak biztonságos környezetben történő elsajátítására.",
@@ -923,7 +947,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Az Exuma Cays Szárazföldi és Tengeri Park faunája",
       ro: "Fauna din Parcul Terestru și Marin Exuma Cays",
       en: "Fauna of Exuma Cays Land and Sea Park",
-    },
+image: "/poi-images/exuma-cays-land-sea-park-fauna-life-v2.webp"
+},
     description: {
       de: "Der Park ist ein Schutzgebiet für eine Vielzahl von Meeres- und Landtieren, einschließlich Seevögeln, Hutias (eine Nagetierart) und Riff-Fischen.",
       hu: "A park számos tengeri és szárazföldi állat, köztük tengeri madarak, hutiák (egy rágcsálófaj) és zátonyhalak menedékhelye.",
@@ -961,7 +986,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Bahamai méztermelés",
       ro: "Producția de miere în Bahamas",
       en: "Bahamas Honey Production",
-    },
+image: "/poi-images/bahamas-honig-produktion-life-v2.webp"
+},
     description: {
       de: "Lokale Imker produzieren einzigartigen Honig aus der Nektarvielfalt der einheimischen Flora, wie z.B. Brasiletto- und Gumbo-Limbo-Bäumen.",
       hu: "A helyi méhészek egyedi mézet termelnek az őshonos növényvilág, például a brasiletto és a gumbo-limbo fák nektárjának sokféleségéből.",
@@ -999,7 +1025,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Oroszlánfókák a Blue Lagoon-szigeten",
       ro: "Leii de mare de pe Insula Blue Lagoon",
       en: "Sea Lions at Blue Lagoon Island",
-    },
+image: "/poi-images/blue-lagoon-island-sea-lions-life-v2.webp"
+},
     description: {
       de: "Auf Blue Lagoon Island können Besucher Kalifornische Seelöwen in einer naturnahen Umgebung treffen und mit ihnen interagieren.",
       hu: "A Blue Lagoon-szigeten a látogatók természetes környezetben találkozhatnak és léphetnek kapcsolatba a kaliforniai oroszlánfókákkal.",
@@ -1037,7 +1064,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Tengeri szőlő szüretelése",
       ro: "Recoltarea strugurilor de mare",
       en: "Sea Grape Harvesting",
-    },
+image: "/poi-images/sea-grape-ernte-life-v2.webp"
+},
     description: {
       de: "Meerestrauben (Coccoloba uvifera) wachsen wild an den Küsten der Bahamas. Die Früchte werden von Einheimischen geerntet und zu Marmelade verarbeitet oder roh gegessen.",
       hu: "A tengeri szőlő (Coccoloba uvifera) vadon nő a Bahamák partjain. A gyümölcsöt a helyiek szüretelik, és lekvárt készítenek belőle vagy nyersen fogyasztják.",
@@ -1075,7 +1103,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Játszótér a Fort Charlotte közelében",
       ro: "Loc de joacă lângă Fort Charlotte",
       en: "Playground near Fort Charlotte",
-    },
+image: "/poi-images/fort-charlotte-spielplatz-life-v2.webp"
+},
     description: {
       de: "Ein öffentlicher Spielplatz in der Nähe des historischen Fort Charlotte, der einen Bereich für Kinder zum Spielen nach dem Erkunden der Festung bietet.",
       hu: "Nyilvános játszótér a történelmi Fort Charlotte közelében, amely területet biztosít a gyerekeknek a játékra az erőd felfedezése után.",
@@ -1113,7 +1142,8 @@ export const poiExtraBahamasLifeV2: POI[] = [
       hu: "Élő sztromatolitok",
       ro: "Stromatolite vii",
       en: "Living Stromatolites",
-    },
+image: "/poi-images/stromatolithen-exuma-life-v2.webp"
+},
     description: {
       de: "In den hypersalinen Seen von Highborne Cay in den Exumas finden sich lebende Stromatolithen, geschichtete Strukturen, die von Mikroben gebildet werden. Sie sind moderne Beispiele für die ältesten Lebensformen auf der Erde.",
       hu: "Az Exuma-szigeteki Highborne Cay hiperszalin tavaiban élő sztromatolitok találhatók, melyek mikrobák által létrehozott rétegzett képződmények. A Föld legősibb életformáinak modern példái.",

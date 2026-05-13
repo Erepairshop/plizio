@@ -7,7 +7,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-C",
     coords: [31.3333, 30.1333],
-    name: { de: "Gabal el-Asfar", hu: "Gabal el-Asfar", ro: "Gabal el-Asfar", en: "Gabal el-Asfar" },
+    name: { de: "Gabal el-Asfar", hu: "Gabal el-Asfar", ro: "Gabal el-Asfar", en: "Gabal el-Asfar",
+image: "/poi-images/gabal-el-asfar-relief-v2.webp"
+},
     description: { de: "Ein isolierter Berg östlich des Nildeltas.", hu: "Elszigetelt hegy a Nílus-deltától keletre.", ro: "Un munte izolat la est de Delta Nilului.", en: "An isolated mountain east of the Nile Delta." },
     facts: {
       de: ["Besteht aus Sedimentgestein.", "Bietet weite Sicht auf das Umland."],
@@ -32,7 +34,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-C",
     coords: [31.4166, 30.2500],
-    name: { de: "Gabal is-Sawda", hu: "Gabal is-Sawda", ro: "Gabal is-Sawda", en: "Gabal is-Sawda" },
+    name: { de: "Gabal is-Sawda", hu: "Gabal is-Sawda", ro: "Gabal is-Sawda", en: "Gabal is-Sawda",
+image: "/poi-images/gabal-is-sawda-relief-v2.webp"
+},
     description: { de: "Kleinerer Bergkamm im Bereich des Nildeltas.", hu: "Kisebb hegylánc a Nílus-delta területén.", ro: "O creastă montană mai mică în zona Deltei Nilului.", en: "Smaller mountain ridge in the Nile Delta area." },
     facts: {
       de: ["Flache Erhebung.", "Besteht aus Sandstein."],
@@ -57,7 +61,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "relief",
     parent: "EG-BH",
     coords: [30.1666, 30.3333],
-    name: { de: "Wadi Natrun Depression", hu: "Wadi Natrun mélyföld", ro: "Depresiunea Wadi Natrun", en: "Wadi Natrun Depression" },
+    name: { de: "Wadi Natrun Depression", hu: "Wadi Natrun mélyföld", ro: "Depresiunea Wadi Natrun", en: "Wadi Natrun Depression",
+image: "/poi-images/wadi-natrun-depression-relief-v2.webp"
+},
     description: { de: "Eine tiefliegende Depression westlich des Nildeltas.", hu: "Mélységi mélyföld a Nílus-deltától nyugatra.", ro: "O depresiune joasă la vest de Delta Nilului.", en: "A low-lying depression west of the Nile Delta." },
     facts: {
       de: ["Bekannt für Salzseen.", "Geologisch bedeutend."],
@@ -82,7 +88,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-MT",
     coords: [31.1333, 26.3500],
-    name: { de: "Gabal Ghurabi", hu: "Gabal Ghurabi", ro: "Gabal Ghurabi", en: "Gabal Ghurabi" },
+    name: { de: "Gabal Ghurabi", hu: "Gabal Ghurabi", ro: "Gabal Ghurabi", en: "Gabal Ghurabi",
+image: "/poi-images/gabal-ghurabi-relief-v2.webp"
+},
     description: { de: "Hügeliges Gelände in der Nähe der Oase Bahariya.", hu: "Havas terep a Baharija-oázis közelében.", ro: "Teren deluros în apropierea Oazei Bahariya.", en: "Hilly terrain near Bahariya Oasis." },
     facts: {
       de: ["Trockenes Wüstenklima.", "Erosionslandschaft."],
@@ -108,7 +116,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-AS",
     coords: [32.8333, 24.8500],
-    name: { de: "Gabal el-Hosh", hu: "Gabal el-Hosh", ro: "Gabal el-Hosh", en: "Gabal el-Hosh" },
+    name: { de: "Gabal el-Hosh", hu: "Gabal el-Hosh", ro: "Gabal el-Hosh", en: "Gabal el-Hosh",
+image: "/poi-images/gabal-el-hosh-relief-v2.webp"
+},
     description: { de: "Erhebung südlich von Assuan.", hu: "Emelkedés Asszuántól délre.", ro: "Elevație la sud de Aswan.", en: "Elevation south of Aswan." },
     facts: {
       de: ["Besteht aus Granit.", "Felsige Umgebung."],
@@ -133,7 +143,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "relief",
     parent: "EG-JS",
     coords: [33.5000, 29.5000],
-    name: { de: "Gabal el-Tih Plateau", hu: "Gabal el-Tih-fennsík", ro: "Platoul Gabal el-Tih", en: "Gabal el-Tih Plateau" },
+    name: { de: "Gabal el-Tih Plateau", hu: "Gabal el-Tih-fennsík", ro: "Platoul Gabal el-Tih", en: "Gabal el-Tih Plateau",
+image: "/poi-images/gabal-el-tih-plateau-relief-v2.webp"
+},
     description: { de: "Ein weites Kalksteinplateau auf der Sinai-Halbinsel.", hu: "Széles mészkőfennsík a Sínai-félszigeten.", ro: "Un platou calcaros extins în Peninsula Sinai.", en: "An expansive limestone plateau on the Sinai Peninsula." },
     facts: {
       de: ["Karstlandschaft.", "Sehr trockenes Plateau."],
@@ -158,7 +170,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.6333, 28.6000],
-    name: { de: "Gabal Serbal", hu: "Gabal Serbal", ro: "Gabal Serbal", en: "Gabal Serbal" },
+    name: { de: "Gabal Serbal", hu: "Gabal Serbal", ro: "Gabal Serbal", en: "Gabal Serbal",
+image: "/poi-images/gabal-serbal-relief-v2.webp"
+},
     description: { de: "Ein bedeutender Berg auf der Sinai-Halbinsel.", hu: "Jelentős hegy a Sínai-félszigeten.", ro: "Un munte important în Peninsula Sinai.", en: "A significant mountain on the Sinai Peninsula." },
     facts: {
       de: ["Granitgipfel.", "Bekanntes Ziel für Wanderer."],
@@ -183,7 +197,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.8000, 28.5000],
-    name: { de: "Gabal el-Dhalal", hu: "Gabal el-Dhalal", ro: "Gabal el-Dhalal", en: "Gabal el-Dhalal" },
+    name: { de: "Gabal el-Dhalal", hu: "Gabal el-Dhalal", ro: "Gabal el-Dhalal", en: "Gabal el-Dhalal",
+image: "/poi-images/gabal-el-dhalal-relief-v2.webp"
+},
     description: { de: "Berg im südlichen Sinai.", hu: "Hegy a déli Sínai-félszigeten.", ro: "Munte în sudul Sinaiului.", en: "Mountain in the southern Sinai." },
     facts: {
       de: ["Steile Hänge.", "Trockene Vegetation."],
@@ -208,7 +224,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.7166, 28.4333],
-    name: { de: "Gabal Um Shomer", hu: "Gabal Um Shomer", ro: "Gabal Um Shomer", en: "Gabal Um Shomer" },
+    name: { de: "Gabal Um Shomer", hu: "Gabal Um Shomer", ro: "Gabal Um Shomer", en: "Gabal Um Shomer",
+image: "/poi-images/gabal-um-shomer-relief-v2.webp"
+},
     description: { de: "Einer der höchsten Gipfel im Sinai-Gebirge.", hu: "A Sínai-hegység egyik legmagasabb csúcsa.", ro: "Unul dintre cele mai înalte vârfuri din Munții Sinai.", en: "One of the highest peaks in the Sinai Mountains." },
     facts: {
       de: ["Hochgebirgslandschaft.", "Sehr unzugänglich."],
@@ -233,7 +251,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.3333, 26.3666],
-    name: { de: "Gabal el-Banat", hu: "Gabal el-Banat", ro: "Gabal el-Banat", en: "Gabal el-Banat" },
+    name: { de: "Gabal el-Banat", hu: "Gabal el-Banat", ro: "Gabal el-Banat", en: "Gabal el-Banat",
+image: "/poi-images/gabal-el-banat-relief-v2.webp"
+},
     description: { de: "Berg in der östlichen Wüste Ägyptens.", hu: "Hegy Egyiptom keleti sivatagában.", ro: "Munte în Deșertul de Est al Egiptului.", en: "Mountain in the Eastern Desert of Egypt." },
     facts: {
       de: ["Erosionsgeprägt.", "Geringe Niederschläge."],
@@ -258,7 +278,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.5666, 28.7500],
-    name: { de: "Gabal Nuqara", hu: "Gabal Nuqara", ro: "Gabal Nuqara", en: "Gabal Nuqara" },
+    name: { de: "Gabal Nuqara", hu: "Gabal Nuqara", ro: "Gabal Nuqara", en: "Gabal Nuqara",
+image: "/poi-images/gabal-nuqara-relief-v2.webp"
+},
     description: { de: "Erhebung im Sinai-Massiv.", hu: "Emelkedés a Sínai-hegységben.", ro: "Elevație în masivul Sinai.", en: "Elevation in the Sinai massif." },
     facts: {
       de: ["Felsiges Gelände.", "Blick auf den Golf von Aqaba."],
@@ -284,7 +306,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.4000, 28.3000],
-    name: { de: "Gabal el-Fath", hu: "Gabal el-Fath", ro: "Gabal el-Fath", en: "Gabal el-Fath" },
+    name: { de: "Gabal el-Fath", hu: "Gabal el-Fath", ro: "Gabal el-Fath", en: "Gabal el-Fath",
+image: "/poi-images/gabal-el-fath-relief-v2.webp"
+},
     description: { de: "Berg im Süden der Sinai-Halbinsel.", hu: "Hegy a Sínai-félsziget déli részén.", ro: "Munte în sudul Peninsulei Sinai.", en: "Mountain in the south of the Sinai Peninsula." },
     facts: {
       de: ["Sehr trockenes Klima.", "Granitmassiv."],
@@ -309,7 +333,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.8666, 28.5500],
-    name: { de: "Gabal el-Deir", hu: "Gabal el-Deir", ro: "Gabal el-Deir", en: "Gabal el-Deir" },
+    name: { de: "Gabal el-Deir", hu: "Gabal el-Deir", ro: "Gabal el-Deir", en: "Gabal el-Deir",
+image: "/poi-images/gabal-el-deir-relief-v2.webp"
+},
     description: { de: "Massiv in der Nähe des Katharinenklosters.", hu: "Masszívum a Szent Katalin-kolostor közelében.", ro: "Masiv în apropierea Mănăstirii Sf. Ecaterina.", en: "Massif near St. Catherine's Monastery." },
     facts: {
       de: ["Bekannt bei Bergsteigern.", "Süd Sinai."],
@@ -334,7 +360,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.9166, 28.6000],
-    name: { de: "Gabal Abas", hu: "Gabal Abas", ro: "Gabal Abas", en: "Gabal Abas" },
+    name: { de: "Gabal Abas", hu: "Gabal Abas", ro: "Gabal Abas", en: "Gabal Abas",
+image: "/poi-images/gabal-abas-relief-v2.webp"
+},
     description: { de: "Hügeliges Gelände im östlichen Sinai.", hu: "Havas terep a keleti Sínai-félszigeten.", ro: "Teren deluros în Sinaiul de est.", en: "Hilly terrain in the eastern Sinai." },
     facts: {
       de: ["Trocken.", "Wüstencharakter."],
@@ -359,7 +387,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.1666, 26.2000],
-    name: { de: "Gabal el-Dhib", hu: "Gabal el-Dhib", ro: "Gabal el-Dhib", en: "Gabal el-Dhib" },
+    name: { de: "Gabal el-Dhib", hu: "Gabal el-Dhib", ro: "Gabal el-Dhib", en: "Gabal el-Dhib",
+image: "/poi-images/gabal-el-dhib-relief-v2.webp"
+},
     description: { de: "Berg in der östlichen Wüste.", hu: "Hegy a Keleti-sivatagban.", ro: "Munte în Deșertul de Est.", en: "Mountain in the Eastern Desert." },
     facts: {
       de: ["Gering erschlossen.", "Abgelegen."],
@@ -384,7 +414,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.5000, 25.8000],
-    name: { de: "Gabal el-Suqur", hu: "Gabal el-Suqur", ro: "Gabal el-Suqur", en: "Gabal el-Suqur" },
+    name: { de: "Gabal el-Suqur", hu: "Gabal el-Suqur", ro: "Gabal el-Suqur", en: "Gabal el-Suqur",
+image: "/poi-images/gabal-el-suqur-relief-v2.webp"
+},
     description: { de: "Erhebung im Rotmeergebirge.", hu: "Emelkedés a Vörös-tengeri-hegységben.", ro: "Elevație în Munții Mării Roșii.", en: "Elevation in the Red Sea Mountains." },
     facts: {
       de: ["Felsig.", "Wüstenlandschaft."],
@@ -409,7 +441,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.3000, 25.5000],
-    name: { de: "Gabal el-Himeiyan", hu: "Gabal el-Himeiyan", ro: "Gabal el-Himeiyan", en: "Gabal el-Himeiyan" },
+    name: { de: "Gabal el-Himeiyan", hu: "Gabal el-Himeiyan", ro: "Gabal el-Himeiyan", en: "Gabal el-Himeiyan",
+image: "/poi-images/gabal-el-himeiyan-relief-v2.webp"
+},
     description: { de: "Bergzug im Osten Ägyptens.", hu: "Hegyvonulat Egyiptom keleti részén.", ro: "Lanț muntos în estul Egiptului.", en: "Mountain range in eastern Egypt." },
     facts: {
       de: ["Teil des Rotmeergebirges.", "Sehr trocken."],
@@ -434,7 +468,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.5833, 26.8333],
-    name: { de: "Gabal el-Shayib", hu: "Gabal el-Shayib", ro: "Gabal el-Shayib", en: "Gabal el-Shayib" },
+    name: { de: "Gabal el-Shayib", hu: "Gabal el-Shayib", ro: "Gabal el-Shayib", en: "Gabal el-Shayib",
+image: "/poi-images/gabal-el-shayib-relief-v2.webp"
+},
     description: { de: "Einer der höchsten Berge in der östlichen Wüste.", hu: "A Keleti-sivatag egyik legmagasabb hegye.", ro: "Unul dintre cei mai înalți munți din Deșertul de Est.", en: "One of the highest mountains in the Eastern Desert." },
     facts: {
       de: ["Sehr markant.", "Wanderziel."],
@@ -459,7 +495,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.2500, 27.5000],
-    name: { de: "Gabal el-Dara", hu: "Gabal el-Dara", ro: "Gabal el-Dara", en: "Gabal el-Dara" },
+    name: { de: "Gabal el-Dara", hu: "Gabal el-Dara", ro: "Gabal el-Dara", en: "Gabal el-Dara",
+image: "/poi-images/gabal-el-dara-relief-v2.webp"
+},
     description: { de: "Gebirgszug in der Nähe der Küste.", hu: "Hegyvonulat a part közelében.", ro: "Lanț muntos în apropierea coastei.", en: "Mountain range near the coast." },
     facts: {
       de: ["Sicht aufs Rote Meer.", "Karges Gelände."],
@@ -484,7 +522,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.7000, 29.2000],
-    name: { de: "Gabal el-Muta", hu: "Gabal el-Muta", ro: "Gabal el-Muta", en: "Gabal el-Muta" },
+    name: { de: "Gabal el-Muta", hu: "Gabal el-Muta", ro: "Gabal el-Muta", en: "Gabal el-Muta",
+image: "/poi-images/gabal-el-muta-relief-v2.webp"
+},
     description: { de: "Hügel im Norden des Sinai.", hu: "Dombok a Sínai-félsziget északon.", ro: "Dealuri în nordul Sinaiului.", en: "Hills in the north of Sinai." },
     facts: {
       de: ["Sedimentgestein.", "Sehr erosiv."],
@@ -509,7 +549,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-MT",
     coords: [29.1000, 28.2000],
-    name: { de: "Gabal el-Fara", hu: "Gabal el-Fara", ro: "Gabal el-Fara", en: "Gabal el-Fara" },
+    name: { de: "Gabal el-Fara", hu: "Gabal el-Fara", ro: "Gabal el-Fara", en: "Gabal el-Fara",
+image: "/poi-images/gabal-el-fara-relief-v2.webp"
+},
     description: { de: "Berg in der Westlichen Wüste.", hu: "Hegy a Nyugati-sivatagban.", ro: "Munte în Deșertul de Vest.", en: "Mountain in the Western Desert." },
     facts: {
       de: ["Isoliert.", "Sandsteinbasis."],
@@ -534,7 +576,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.8500, 28.8000],
-    name: { de: "Gabal el-Haddad", hu: "Gabal el-Haddad", ro: "Gabal el-Haddad", en: "Gabal el-Haddad" },
+    name: { de: "Gabal el-Haddad", hu: "Gabal el-Haddad", ro: "Gabal el-Haddad", en: "Gabal el-Haddad",
+image: "/poi-images/gabal-el-haddad-relief-v2.webp"
+},
     description: { de: "Felsiger Berg im Sinai.", hu: "Sziklás hegy a Sínai-félszigeten.", ro: "Munte stâncos în Sinai.", en: "Rocky mountain in Sinai." },
     facts: {
       de: ["Sehr hartes Gestein.", "Kletterregion."],
@@ -559,7 +603,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.6000, 26.5000],
-    name: { de: "Gabal el-Fau", hu: "Gabal el-Fau", ro: "Gabal el-Fau", en: "Gabal el-Fau" },
+    name: { de: "Gabal el-Fau", hu: "Gabal el-Fau", ro: "Gabal el-Fau", en: "Gabal el-Fau",
+image: "/poi-images/gabal-el-fau-relief-v2.webp"
+},
     description: { de: "Teil der östlichen Gebirgskette.", hu: "A keleti hegyvonulat része.", ro: "Parte a lanțului muntos estic.", en: "Part of eastern mountain chain." },
     facts: {
       de: ["Sehr karg.", "Wüstenwind."],
@@ -584,7 +630,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-RS",
     coords: [33.7000, 26.2000],
-    name: { de: "Gabal el-Hish", hu: "Gabal el-Hish", ro: "Gabal el-Hish", en: "Gabal el-Hish" },
+    name: { de: "Gabal el-Hish", hu: "Gabal el-Hish", ro: "Gabal el-Hish", en: "Gabal el-Hish",
+image: "/poi-images/gabal-el-hish-relief-v2.webp"
+},
     description: { de: "Erhebung im Rotmeer-Massiv.", hu: "Emelkedés a Vörös-tengeri-masszívumban.", ro: "Elevație în masivul Mării Roșii.", en: "Elevation in Red Sea massif." },
     facts: {
       de: ["Gering besiedelt.", "Wildnis."],
@@ -609,7 +657,9 @@ export const poiExtraEgyptReliefV2: POI[] = [
     type: "mountain",
     parent: "EG-JS",
     coords: [33.8000, 28.7000],
-    name: { de: "Gabal el-Gamil", hu: "Gabal el-Gamil", ro: "Gabal el-Gamil", en: "Gabal el-Gamil" },
+    name: { de: "Gabal el-Gamil", hu: "Gabal el-Gamil", ro: "Gabal el-Gamil", en: "Gabal el-Gamil",
+image: "/poi-images/gabal-el-gamil-relief-v2.webp"
+},
     description: { de: "Kleinerer Berg im Sinai.", hu: "Kisebb hegy a Sínai-félszigeten.", ro: "Munte mai mic în Sinai.", en: "Smaller mountain in Sinai." },
     facts: {
       de: ["Wanderpfade.", "Trockene Steine."],

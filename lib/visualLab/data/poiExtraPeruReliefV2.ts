@@ -11,8 +11,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Misti-Vulkan",
       hu: "Misti tűzhányó",
       ro: "Vulcanul Misti",
-      en: "Misti Volcano"
-    },
+      en: "Misti Volcano",
+image: "/poi-images/misti-volcano-relief-v2.webp"
+},
     description: {
       de: "Ein kegelförmiger Schichtvulkan, dessen schneebedeckter Gipfel das Wahrzeichen von Arequipa ist.",
       hu: "Kúp alakú rétegvulkán, amelynek hósapkás csúcsa Arequipa városának szimbóluma.",
@@ -48,8 +49,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Ubinas",
       hu: "Ubinas vulkán",
       ro: "Vulcanul Ubinas",
-      en: "Ubinas Volcano"
-    },
+      en: "Ubinas Volcano",
+image: "/poi-images/ubinas-volcano-relief-v2.webp"
+},
     description: {
       de: "Der aktivste Vulkan Perus, der in der Moquegua-Region liegt und für seine häufigen Ascheeruptionen bekannt ist.",
       hu: "Peru legaktívabb vulkánja a Moquegua régióban, amely gyakori hamukitöréseiről ismert.",
@@ -85,8 +87,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Huaynaputina",
       hu: "Huaynaputina",
       ro: "Huaynaputina",
-      en: "Huaynaputina"
-    },
+      en: "Huaynaputina",
+image: "/poi-images/huaynaputina-volcano-relief-v2.webp"
+},
     description: {
       de: "Ein Stratovulkan ohne ausgeprägtes Profil, berühmt für die größte Vulkaneruption der südamerikanischen Geschichte im Jahr 1600.",
       hu: "Jellegzetes vulkáni kúp nélküli tűzhányó, amely az 1600-as, dél-amerikai történelem legnagyobb kitöréséről híres.",
@@ -121,8 +124,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Sabancaya",
       hu: "Sabancaya",
       ro: "Vulcanul Sabancaya",
-      en: "Sabancaya Volcano"
-    },
+      en: "Sabancaya Volcano",
+image: "/poi-images/sabancaya-volcano-relief-v2.webp"
+},
     description: {
       de: "Ein extrem aktiver, mehrfach vergletscherter Schichtvulkan in der Nähe des Colca-Tals, der oft Aschewolken ausstößt.",
       hu: "Rendkívül aktív, részben eljegesedett rétegvulkán a Colca-völgy közelében, amely gyakran bocsát ki hamufelhőket.",
@@ -158,8 +162,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Ampato",
       hu: "Ampato",
       ro: "Ampato",
-      en: "Mount Ampato"
-    },
+      en: "Mount Ampato",
+image: "/poi-images/ampato-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein ruhender, eisbedeckter Vulkan in den Anden, auf dem 1995 die berühmte Inka-Eismumie 'Juanita' gefunden wurde.",
       hu: "Szunnyadó, jéggel borított vulkán az Andokban, ahol 1995-ben megtalálták 'Juanita', a híres inka jégmúmia maradványait.",
@@ -195,8 +200,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Coropuna",
       hu: "Coropuna",
       ro: "Coropuna",
-      en: "Coropuna"
-    },
+      en: "Coropuna",
+image: "/poi-images/coropuna-mountain-relief-v2.webp"
+},
     description: {
       de: "Der höchste Vulkan Perus und der dritthöchste Berg des Landes, gekrönt von einer massiven Eiskappe.",
       hu: "Peru legmagasabb vulkánja és harmadik legmagasabb hegye, amelyet hatalmas jégsapka koronáz.",
@@ -232,8 +238,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Chachani",
       hu: "Chachani",
       ro: "Chachani",
-      en: "Chachani"
-    },
+      en: "Chachani",
+image: "/poi-images/chachani-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein massives Vulkansystem in der Nähe von Arequipa, das aufgrund fehlender Gletscher oft als der am einfachsten zu besteigende Sechstausender gilt.",
       hu: "Hatalmas vulkáni masszívum Arequipa közelében, amelyet gleccserek hiánya miatt gyakran a legkönnyebben megmászható hatezresnek tartanak.",
@@ -269,8 +276,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Cordillera Blanca",
       hu: "Cordillera Blanca",
       ro: "Cordillera Blanca",
-      en: "Cordillera Blanca"
-    },
+      en: "Cordillera Blanca",
+image: "/poi-images/cordillera-blanca-relief-v2.webp"
+},
     description: {
       de: "Die höchste tropische Gebirgskette der Welt, berühmt für ihre schneebedeckten Gipfel und türkisfarbenen Gletscherseen.",
       hu: "A világ legmagasabb trópusi hegylánca, amely hófödte csúcsairól és türkizkék gleccsertavairól híres.",
@@ -306,8 +314,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Cordillera Huayhuash",
       hu: "Cordillera Huayhuash",
       ro: "Cordillera Huayhuash",
-      en: "Cordillera Huayhuash"
-    },
+      en: "Cordillera Huayhuash",
+image: "/poi-images/cordillera-huayhuash-relief-v2.webp"
+},
     description: {
       de: "Ein spektakuläres, kompakt Hochgebirge, das bei Trekkern und Bergsteigern weltweit für seine steilen Felswände geschätzt wird.",
       hu: "Látványos, kompakt magashegység, amelyet a túrázók és hegymászók világszerte meredek sziklafalai miatt kedvelnek.",
@@ -343,8 +352,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Pampa de La Joya",
       hu: "Pampa de La Joya",
       ro: "Pampa de La Joya",
-      en: "Pampa de La Joya"
-    },
+      en: "Pampa de La Joya",
+image: "/poi-images/pampa-de-la-joya-relief-v2.webp"
+},
     description: {
       de: "Eine Wüstenebene im Süden Perus, die wegen ihrer extremen Trockenheit und Mars-ähnlichen Landschaft oft für Weltraumforschung genutzt wird.",
       hu: "Sivatagos síkság Peru déli részén, amelyet rendkívüli szárazsága és marsbéli tája miatt űrkutatási tesztekre is használnak.",
@@ -380,8 +390,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Colca-Canyon",
       hu: "Colca-kanyon",
       ro: "Canionul Colca",
-      en: "Colca Canyon"
-    },
+      en: "Colca Canyon",
+image: "/poi-images/colca-canyon-relief-v2.webp"
+},
     description: {
       de: "Eine der tiefsten Schluchten der Welt, geformt vom Río Colca, und ein idealer Ort zur Beobachtung des Andenkondors.",
       hu: "A világ egyik legmélyebb szurdoka, amelyet a Río Colca formált, és ideális hely az andoki kondor megfigyelésére.",
@@ -417,8 +428,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Pato-Canyon",
       hu: "Pato-kanyon",
       ro: "Canionul Pato",
-      en: "Duck Canyon"
-    },
+      en: "Duck Canyon",
+image: "/poi-images/canon-del-pato-relief-v2.webp"
+},
     description: {
       de: "Eine enge, spektakuläre Felsschlucht, die die Cordillera Blanca von der Cordillera Negra trennt.",
       hu: "Szűk, látványos sziklasurdok, amely elválasztja a Cordillera Blancát a Cordillera Negrától.",
@@ -454,8 +466,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Altiplano-Hochebene",
       hu: "Collao-fennsík",
       ro: "Podișul Collao",
-      en: "Collao Plateau"
-    },
+      en: "Collao Plateau",
+image: "/poi-images/meseta-del-collao-relief-v2.webp"
+},
     description: {
       de: "Die ausgedehnte andine Hochebene, in der sich auch der Titicaca-See befindet, geprägt von rauem Klima und Grasland.",
       hu: "Kiterjedt andoki fennsík, amely a Titicaca-tónak is otthont ad; zord éghajlat és füves puszták jellemzik.",
@@ -491,8 +504,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Paracas-Halbinsel",
       hu: "Paracas-félsziget",
       ro: "Peninsula Paracas",
-      en: "Paracas Peninsula"
-    },
+      en: "Paracas Peninsula",
+image: "/poi-images/paracas-peninsula-relief-v2.webp"
+},
     description: {
       de: "Eine wüstenartige Küstenhalbinsel, die für ihre reiche Meeresbiodiversität und prähistorische Kulturen bekannt ist.",
       hu: "Sivatagos tengerparti félsziget, amely gazdag tengeri biológiai sokféleségéről és történelem előtti kultúráiról ismert.",
@@ -528,8 +542,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Illescas-Halbinsel",
       hu: "Illescas-félsziget",
       ro: "Peninsula Illescas",
-      en: "Illescas Peninsula"
-    },
+      en: "Illescas Peninsula",
+image: "/poi-images/illescas-peninsula-relief-v2.webp"
+},
     description: {
       de: "Eine abgelegene Halbinsel im Norden Perus, wo Wüste auf den Ozean trifft und Seelöwenkolonien leben.",
       hu: "Félreeső félsziget Peru északi részén, ahol a sivatag találkozik az óceánnal, és oroszlánfókák kolóniái élnek.",
@@ -565,8 +580,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nationalpark Yanachaga-Chemillén",
       hu: "Yanachaga-Chemillén Nemzeti Park",
       ro: "Parcul Național Yanachaga-Chemillén",
-      en: "Yanachaga-Chemillén National Park"
-    },
+      en: "Yanachaga-Chemillén National Park",
+image: "/poi-images/yanachaga-chemillen-relief-v2.webp"
+},
     description: {
       de: "Ein üppiges Schutzgebiet im peruanischen Dschungel, das eine außergewöhnliche Vielfalt an Flora und Fauna der Bergnebelwälder bewahrt.",
       hu: "Buja védett terület a perui dzsungelben, amely a hegyi köderdők kivételes növény- és állatvilágát őrzi.",
@@ -602,8 +618,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nationalpark Alto Purús",
       hu: "Alto Purús Nemzeti Park",
       ro: "Parcul Național Alto Purús",
-      en: "Alto Purús National Park"
-    },
+      en: "Alto Purús National Park",
+image: "/poi-images/alto-purus-relief-v2.webp"
+},
     description: {
       de: "Der flächenmäßig größte Nationalpark Perus, der unberührte Amazonas-Regenwälder und isolierte indigene Stämme schützt.",
       hu: "Peru legnagyobb kiterjedésű nemzeti parkja, amely érintetlen amazóniai esőerdőket és elszigetelt őslakos törzseket véd.",
@@ -639,8 +656,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nationalpark Otishi",
       hu: "Otishi Nemzeti Park",
       ro: "Parcul Național Otishi",
-      en: "Otishi National Park"
-    },
+      en: "Otishi National Park",
+image: "/poi-images/otishi-national-park-relief-v2.webp"
+},
     description: {
       de: "Ein geschützter Bergwald in der Cordillera Vilcabamba, reich an Wasserfällen und endemischen Arten.",
       hu: "Védett hegyvidéki erdő a Cordillera Vilcabamba területén, amely vízesésekben és endemikus fajokban gazdag.",
@@ -676,8 +694,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nationalpark Cordillera Azul",
       hu: "Cordillera Azul Nemzeti Park",
       ro: "Parcul Național Cordillera Azul",
-      en: "Cordillera Azul National Park"
-    },
+      en: "Cordillera Azul National Park",
+image: "/poi-images/cordillera-azul-relief-v2.webp"
+},
     description: {
       de: "Ein riesiger Regenwald auf einem zerklüfteten Gebirgszug zwischen Anden und Amazonasbecken, Heimat für Jaguare und Tapire.",
       hu: "Hatalmas esőerdő az Andok és az Amazonas-medence közötti zord hegyvonulaton, jaguárok és tapírok élőhelye.",
@@ -713,8 +732,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nationalpark Río Abiseo",
       hu: "Río Abiseo Nemzeti Park",
       ro: "Parcul Național Río Abiseo",
-      en: "Río Abiseo National Park"
-    },
+      en: "Río Abiseo National Park",
+image: "/poi-images/rio-abiseo-relief-v2.webp"
+},
     description: {
       de: "Ein UNESCO-Weltkultur- und Naturerbe, das Bergnebelwälder und die archäologische Stätte Gran Pajatén schützt.",
       hu: "UNESCO világörökségi helyszín, amely hegyi köderdőket és a Gran Pajatén régészeti lelőhelyet védi.",
@@ -750,8 +770,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nationalreservat Allpahuayo Mishana",
       hu: "Allpahuayo Mishana Nemzeti Rezervátum",
       ro: "Rezervația Națională Allpahuayo Mishana",
-      en: "Allpahuayo Mishana National Reserve"
-    },
+      en: "Allpahuayo Mishana National Reserve",
+image: "/poi-images/allpahuayo-mishana-relief-v2.webp"
+},
     description: {
       de: "Ein besonderes Regenwaldgebiet bei Iquitos, bekannt für seine einzigartigen Weißsandwälder und seltene Vogelarten.",
       hu: "Különleges esőerdő Iquitos közelében, amely egyedi fehérhomokos erdőiről és ritka madárfajairól ismert.",
@@ -787,8 +808,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Pastoruri-Gletscher",
       hu: "Pastoruri-gleccser",
       ro: "Ghețarul Pastoruri",
-      en: "Pastoruri Glacier"
-    },
+      en: "Pastoruri Glacier",
+image: "/poi-images/pastoruri-glacier-relief-v2.webp"
+},
     description: {
       de: "Ein leicht zugänglicher Andengletscher, der leider aufgrund des Klimawandels stark schrumpft, aber ein wichtiges Naturdenkmal bleibt.",
       hu: "Könnyen megközelíthető andoki gleccser, amely az éghajlatváltozás miatt gyorsan zsugorodik, de fontos természeti emlék marad.",
@@ -824,8 +846,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Nevado Mismi",
       hu: "Mismi-hegy",
       ro: "Nevado Mismi",
-      en: "Nevado Mismi"
-    },
+      en: "Nevado Mismi",
+image: "/poi-images/nevado-mismi-relief-v2.webp"
+},
     description: {
       de: "Ein vergletscherter Berggipfel, dessen Schmelzwasser nach einer langen Reise durch den Amazonas schließlich in den Atlantik mündet.",
       hu: "Eljegesedett hegycsúcs, amelynek olvadékvize hosszú amazóniai utazás után végül az Atlanti-óceánba ömlik.",
@@ -861,8 +884,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Huandoy",
       hu: "Huandoy",
       ro: "Huandoy",
-      en: "Huandoy"
-    },
+      en: "Huandoy",
+image: "/poi-images/huandoy-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berg in der Cordillera Blanca mit vier ausgeprägten Gipfeln, der sich direkt neben dem höheren Huascarán erhebt.",
       hu: "Különleges hegy a Cordillera Blancában négy jellegzetes csúccsal, amely közvetlenül a magasabb Huascarán mellett magasodik.",
@@ -898,8 +922,9 @@ export const poiExtraPeruReliefV2: POI[] = [
       de: "Artesonraju",
       hu: "Artesonraju",
       ro: "Artesonraju",
-      en: "Artesonraju"
-    },
+      en: "Artesonraju",
+image: "/poi-images/artesonraju-relief-v2.webp"
+},
     description: {
       de: "Ein pyramidenförmiger Berg in den peruanischen Anden, von dem oft angenommen wird, dass er das Logo der Paramount Pictures inspirierte.",
       hu: "Piramis alakú hegy a perui Andokban, amelyről sokan úgy tartják, hogy ihletője volt a Paramount Pictures logójának.",

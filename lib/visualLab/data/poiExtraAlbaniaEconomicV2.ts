@@ -4,7 +4,9 @@ export const albaniaEconomicV2: POI[] = [
   {
     id: "albania-port-of-durres-economic-v2",
     type: "port",
-    name: { de: "Hafen von Durrës", hu: "Durrësi kikötő", ro: "Portul Durrës", en: "Port of Durrës" },
+    name: { de: "Hafen von Durrës", hu: "Durrësi kikötő", ro: "Portul Durrës", en: "Port of Durrës",
+image: "/poi-images/albania-port-of-durres-economic-v2.webp"
+},
     coords: [19.452, 41.313],
     coordinates: { lat: 41.313, lng: 19.452 },
     description: {
@@ -19,11 +21,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cel mai mare port din Albania", "Gestionează 90% din comerțul maritim", "Terminal major pentru feriboturi adriatice", "Parte a Coridorului Paneuropean VIII"],
       en: ["Largest port in Albania", "Handles 90% of maritime trade", "Major terminal for Adriatic ferries", "Part of Pan-European Corridor VIII"],
     },
-    imageHint: "Aerial view of the industrial Port of Durres with shipping containers", image: "/poi-images/albania-port-of-durres-economic-v2.webp"},
-  {
+imageHint: "Aerial view of the industrial Port of Durres with shipping containers",
+    descriptionAdvanced: {
+      de: "Wichtigster Seehafen Albaniens an der Adria, der über 90% des Seeverkehrs abwickelt. Er ist ein zentraler Knotenpunkt für den Korridor VIII nach Nordmazedonien.",
+      hu: "Albánia legnagyobb tengeri kikötője az Adrián, a nemzeti tengeri áruforgalom több mint 90%-át kezeli, és kulcsfontosságú a balkáni kereskedelmi útvonalakon.",
+      ro: "Cel mai mare port maritim al Albaniei la Marea Adriatică, gestionând peste 90% din comerțul maritim al țării și servind drept nod vital pentru Coridorul VIII.",
+      en: "The largest seaport in Albania on the Adriatic Sea, handling over 90% of the country's maritime trade and acting as a vital hub for the Pan-European Corridor VIII.",
+    },
+    factsAdvanced: {
+      de: ["Über 4 Millionen Tonnen Fracht", "Gegründet im 7. Jahrhundert v. Chr.", "Zentrum des Korridors VIII", "Fährverbindung nach Bari und Ancona"],
+      hu: ["Évi 4 millió tonna áruforgalom", "Alapítva i.e. 7. században", "A VIII. korridor központja", "Rendszeres kompjáratok Bari felé"],
+      ro: ["Peste 4 milioane de tone de marfă", "Fondat în secolul VII î.Hr.", "Nod central al Coridorului VIII", "Linii de feribot către Italia"],
+      en: ["Handles 4 million tons of cargo", "Founded in the 7th century BC", "Hub of Pan-European Corridor VIII", "Regular ferry lines to Italy"],
+    },
+    image: "/poi-images/albania-port-of-durres-economic-v2.webp",
+},  {
     id: "albania-koman-hydroelectric-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Koman", hu: "Komani vízerőmű", ro: "Hidrocentrala Koman", en: "Koman Hydroelectric Power Station" },
+    name: { de: "Wasserkraftwerk Koman", hu: "Komani vízerőmű", ro: "Hidrocentrala Koman", en: "Koman Hydroelectric Power Station",
+image: "/poi-images/albania-koman-hydroelectric-plant-economic-v2.webp"
+},
     coords: [19.822, 42.109],
     coordinates: { lat: 42.109, lng: 19.822 },
     description: {
@@ -38,11 +55,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Construită între 1980 și 1988", "Putere instalată de 600 MW", "Parte a cascadei râului Drin", "Barajul are o înălțime de 115 metri"],
       en: ["Built between 1980 and 1988", "Installed capacity of 600 MW", "Part of the Drin River cascade", "Dam height reaches 115 meters"],
     },
-    imageHint: "Large hydroelectric dam and power station at Koman Lake", image: "/poi-images/albania-koman-hydroelectric-plant-economic-v2.webp"},
-  {
+imageHint: "Large hydroelectric dam and power station at Koman Lake",
+    descriptionAdvanced: {
+      de: "Das 1985 in Betrieb genommene Kraftwerk am Drin verfügt über eine installierte Leistung von 600 MW und ist ein Pfeiler der albanischen Energieunabhängigkeit.",
+      hu: "A Drin folyón épült, 1985-ben átadott vízerőmű 600 MW beépített teljesítményével Albánia egyik legfontosabb megújuló energiaforrása és gátja.",
+      ro: "Inaugurată în 1985 pe râul Drin, această hidrocentrală are o capacitate de 600 MW, fiind un pilon esențial pentru independența energetică a Albaniei.",
+      en: "Commissioned in 1985 on the Drin River, this power station has a capacity of 600 MW and serves as a cornerstone of Albania's renewable energy production.",
+    },
+    factsAdvanced: {
+      de: ["600 MW installierte Leistung", "4 Francis-Turbinen im Einsatz", "Dammhöhe von 115 Metern", "Teil der Drin-Kaskade"],
+      hu: ["600 MW beépített teljesítmény", "4 darab Francis-turbina", "115 méter magas gátrendszer", "A Drin-kaszkád középső tagja"],
+      ro: ["Putere instalată de 600 MW", "Dotată cu 4 turbine Francis", "Înălțimea barajului de 115 metri", "Parte a cascadei râului Drin"],
+      en: ["600 MW installed capacity", "Features 4 Francis turbines", "Dam height of 115 meters", "Key part of the Drin River cascade"],
+    },
+    image: "/poi-images/albania-koman-hydroelectric-plant-economic-v2.webp",
+},  {
     id: "albania-patos-marinza-oil-field-economic-v2",
     type: "mine",
-    name: { de: "Ölfeld Patos-Marinza", hu: "Patos-Marinza olajmező", ro: "Câmpul petrolifer Patos-Marinza", en: "Patos-Marinza Oil Field" },
+    name: { de: "Ölfeld Patos-Marinza", hu: "Patos-Marinza olajmező", ro: "Câmpul petrolifer Patos-Marinza", en: "Patos-Marinza Oil Field",
+image: "/poi-images/albania-patos-marinza-oil-field-economic-v2.webp"
+},
     coords: [19.621, 40.683],
     coordinates: { lat: 40.683, lng: 19.621 },
     description: {
@@ -57,11 +89,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Descoperit în anul 1928", "Cel mai mare câmp onshore din Europa", "Produce petrol greu", "Angajator major în regiunea Fier"],
       en: ["Discovered in 1928", "Largest onshore oil field in Europe", "Produces heavy crude oil", "Major employer in the Fier region"],
     },
-    imageHint: "Oil pumps and industrial drilling rigs in Patos-Marinza", image: "/poi-images/albania-patos-marinza-oil-field-economic-v2.webp"},
-  {
+imageHint: "Oil pumps and industrial drilling rigs in Patos-Marinza",
+    descriptionAdvanced: {
+      de: "Das größte Onshore-Ölfeld Kontinentaleuropas liegt in der Nähe von Fier und wird seit den 1920er Jahren ausgebeutet, was die lokale Wirtschaft massiv prägt.",
+      hu: "Kontinentális Európa legnagyobb szárazföldi olajmezője Fier közelében található. Az 1920-as évek óta folyó kitermelés meghatározó az ország gazdaságában.",
+      ro: "Cel mai mare câmp petrolier onshore din Europa continentală, situat lângă Fier, este exploatat din anii 1920, fiind motorul principal al economiei locale.",
+      en: "The largest onshore oil field in continental Europe, located near Fier, has been in operation since the 1920s and is a key driver of the national economy.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Onshore-Ölfeld Europas", "Entdeckt im Jahr 1928", "Tausende aktive Bohrlöcher", "Schweröl-Lagerstätte"],
+      hu: ["Európa legnagyobb szárazföldi mezője", "1928-as felfedezési év", "Több ezer aktív fúrótorony", "Nehézolaj-lelőhely"],
+      ro: ["Cel mai mare zăcământ onshore din Europa", "Descoperit în anul 1928", "Mii de sonde active", "Zăcământ de petrol greu"],
+      en: ["Largest onshore oil field in Europe", "Discovered in 1928", "Thousands of active wells", "Primary source of heavy crude"],
+    },
+    image: "/poi-images/albania-patos-marinza-oil-field-economic-v2.webp",
+},  {
     id: "albania-bulqize-chrome-mine-economic-v2",
     type: "mine",
-    name: { de: "Chrommine Bulqizë", hu: "Bulqizëi krómabánya", ro: "Mina de crom Bulqizë", en: "Bulqizë Chrome Mine" },
+    name: { de: "Chrommine Bulqizë", hu: "Bulqizëi krómabánya", ro: "Mina de crom Bulqizë", en: "Bulqizë Chrome Mine",
+image: "/poi-images/albania-bulqize-chrome-mine-economic-v2.webp"
+},
     coords: [20.222, 41.491],
     coordinates: { lat: 41.491, lng: 20.222 },
     description: {
@@ -77,11 +124,25 @@ export const albaniaEconomicV2: POI[] = [
       en: ["Largest chrome mine in Albania", "In operation since 1948", "High-grade chromium ore", "Key economic sector in eastern Albania"],
     },
     imageHint: "Entrance to a mountain chrome mine with industrial equipment",
+    descriptionAdvanced: {
+      de: "Bulqizë beherbergt eine der weltweit reichsten Chromerzlagerstätten. Die Mine ist seit 1948 in Betrieb und bildet das Rückgrat der albanischen Bergbauindustrie.",
+      hu: "Bulqizë ad otthont a világ egyik leggazdagabb krómtartalékának. A bánya 1948 óta üzemel, és az albán bányászat gerincét alkotja a mai napig.",
+      ro: "Bulqiză găzduiește unul dintre cele mai bogate zăcăminte de crom din lume. Mina este în funcțiune din 1948 și reprezintă nucleul industriei miniere.",
+      en: "Bulqizë hosts one of the world's richest chromium deposits. Operational since 1948, the mine remains the backbone of Albania's mining industry.",
+    },
+    factsAdvanced: {
+      de: ["Betrieb seit 1948", "Hochgradiges Chromerz", "Größte Chrommine des Balkans", "Über 500 Meter Tiefe"],
+      hu: ["Üzemel 1948 óta", "Magas tisztaságú krómérc", "A Balkán legnagyobb krómnyerőhelye", "Több mint 500 méter mély"],
+      ro: ["Funcționează din 1948", "Minereu de crom de înaltă calitate", "Cea mai mare mină de crom din Balcani", "Adâncime de peste 500 de metri"],
+      en: ["Operating since 1948", "High-grade chromium ore", "Largest chrome mine in the Balkans", "Depth exceeding 500 meters"],
+    },
   },
   {
     id: "albania-elbasan-steel-mill-economic-v2",
     type: "factory",
-    name: { de: "Stahlwerk Elbasan", hu: "Elbasani acélmű", ro: "Combinatul siderurgic Elbasan", en: "Elbasan Steel Mill" },
+    name: { de: "Stahlwerk Elbasan", hu: "Elbasani acélmű", ro: "Combinatul siderurgic Elbasan", en: "Elbasan Steel Mill",
+image: "/poi-images/albania-elbasan-steel-mill-economic-v2.webp"
+},
     coords: [20.021, 41.101],
     coordinates: { lat: 41.101, lng: 20.021 },
     description: {
@@ -96,11 +157,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fondat în anii 1970", "Cel mai mare complex industrial din țară", "Exportă oțel în regiunea Balcanilor", "Nod feroviar important"],
       en: ["Founded in the 1970s", "Largest industrial complex in Albania", "Exports steel to the Balkans", "Key railway logistics hub"],
     },
-    imageHint: "Large industrial steel mill complex with chimneys in Elbasan", image: "/poi-images/albania-elbasan-steel-mill-economic-v2.webp"},
-  {
+imageHint: "Large industrial steel mill complex with chimneys in Elbasan",
+    descriptionAdvanced: {
+      de: "Das in den 1970er Jahren als 'Stahl der Partei' errichtete Kombinat in Elbasan ist das Zentrum der albanischen Metallurgie und verarbeitet heute Stahlschrott.",
+      hu: "Az 1970-es években 'A Párt Acélja' néven épült elbasani kombinát az albán kohászat központja, amely ma főként fémhulladék feldolgozásával foglalkozik.",
+      ro: "Construit în anii 1970 sub numele de 'Oțelul Partidului', combinatul din Elbasan este centrul metalurgiei albaneze, procesând astăzi deșeuri feroase.",
+      en: "Built in the 1970s as the 'Steel of the Party', the Elbasan metallurgical complex is the heart of Albania's heavy industry, now focused on steel recycling.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1971-1974", "Einst 12.000 Mitarbeiter", "Zentrum der Schwerindustrie", "Heute modernisierte Lichtbogenöfen"],
+      hu: ["Épült 1971 és 1974 között", "Egykor 12 000 alkalmazott", "A nehézipar nemzeti központja", "Modern elektromos ívkemencék"],
+      ro: ["Construit între 1971-1974", "Cândva 12.000 de angajați", "Centrul industriei grele", "Dotat acum cu cuptoare electrice"],
+      en: ["Built between 1971-1974", "Formerly 12,000 employees", "Hub of heavy industry", "Modern electric arc furnaces"],
+    },
+    image: "/poi-images/albania-elbasan-steel-mill-economic-v2.webp",
+},  {
     id: "albania-tirana-airport-economic-v2",
     type: "industry",
-    name: { de: "Flughafen Tirana Nënë Tereza", hu: "Tiranai Teréz anya repülőtér", ro: "Aeroportul Internațional Tirana", en: "Tirana International Airport Nënë Tereza" },
+    name: { de: "Flughafen Tirana Nënë Tereza", hu: "Tiranai Teréz anya repülőtér", ro: "Aeroportul Internațional Tirana", en: "Tirana International Airport Nënë Tereza",
+image: "/poi-images/albania-tirana-airport-economic-v2.webp"
+},
     coords: [19.721, 41.414],
     coordinates: { lat: 41.414, lng: 19.721 },
     description: {
@@ -115,11 +191,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Singurul aeroport internațional major", "Numit după Maica Tereza", "Terminal de marfă modernizat", "Peste 5 milioane de pasageri anual"],
       en: ["Main international airport", "Named after Mother Teresa", "Modernized cargo facilities", "Handles over 5 million passengers annually"],
     },
-    imageHint: "Modern terminal of Tirana International Airport", image: "/poi-images/albania-tirana-airport-economic-v2.webp"},
-  {
+imageHint: "Modern terminal of Tirana International Airport",
+    descriptionAdvanced: {
+      de: "Der internationale Flughafen Nënë Tereza ist das einzige Luftdrehkreuz Albaniens. Er wurde modernisiert, um jährlich über 5 Millionen Passagiere abzufertigen.",
+      hu: "A Nënë Tereza nemzetközi repülőtér Albánia legfőbb légiközlekedési csomópontja, amely az utóbbi években évi 5 milliós utasforgalomra bővült.",
+      ro: "Aeroportul Internațional Nënë Tereza este singurul hub aerian major al Albaniei, modernizat recent pentru a gestiona peste 5 milioane de pasageri anual.",
+      en: "Tirana International Airport Nënë Tereza is Albania's primary aviation hub, recently modernized to handle over 5 million passengers per year.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1957", "Über 5 Millionen Passagiere (2023)", "Einzige Landebahn mit 2.750m", "Benannt nach Mutter Teresa"],
+      hu: ["Megnyitva 1957-ben", "Évi 5 millió utas (2023)", "2750 méter hosszú futópálya", "Teréz anyáról nevezték el"],
+      ro: ["Deschis în anul 1957", "Peste 5 milioane de pasageri (2023)", "Pistă unică de 2.750 m", "Numit după Maica Tereza"],
+      en: ["Opened in 1957", "Over 5 million passengers (2023)", "Single 2,750m runway", "Named after Mother Teresa"],
+    },
+    image: "/poi-images/albania-tirana-airport-economic-v2.webp",
+},  {
     id: "albania-fierza-hydroelectric-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Fierza", hu: "Fierzai vízerőmű", ro: "Hidrocentrala Fierza", en: "Fierza Hydroelectric Power Station" },
+    name: { de: "Wasserkraftwerk Fierza", hu: "Fierzai vízerőmű", ro: "Hidrocentrala Fierza", en: "Fierza Hydroelectric Power Station",
+image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp"
+},
     coords: [20.041, 42.251],
     coordinates: { lat: 42.251, lng: 20.041 },
     description: {
@@ -134,11 +225,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Barajul are 166 metri înălțime", "Construcția a început în 1971", "Capacitate de 500 MW", "Reglează debitul râului Drin"],
       en: ["Dam height of 166 meters", "Construction started in 1971", "Generating capacity of 500 MW", "Regulates the Drin River flow"],
     },
-    imageHint: "High dam wall and large reservoir lake in Fierza", image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp"},
-  {
+imageHint: "High dam wall and large reservoir lake in Fierza",
+    descriptionAdvanced: {
+      de: "Mit einer Dammhöhe von 167 Metern ist Fierza das größte Wasserkraftwerk Albaniens. Es reguliert den Wasserfluss der gesamten Drin-Kaskade im Norden.",
+      hu: "A 167 méter magas gáttal rendelkező Fierza Albánia legnagyobb vízerőműve, amely a teljes északi Drin-kaszkád vízhozamát és energiatermelését szabályozza.",
+      ro: "Cu un baraj de 167 de metri înălțime, Fierza este cea mai mare hidrocentrală din Albania, reglând fluxul întregii cascade de pe râul Drin.",
+      en: "With a dam height of 167 meters, Fierza is Albania's largest hydroelectric plant, regulating the flow of the entire Drin River cascade.",
+    },
+    factsAdvanced: {
+      de: ["500 MW installierte Leistung", "167 Meter hoher Felsschüttdamm", "Größter Stausee des Landes", "Baujahr 1971-1978"],
+      hu: ["500 MW beépített teljesítmény", "167 méteres gátmagasság", "Az ország legnagyobb tározója", "Épült 1971-1978 között"],
+      ro: ["Capacitate de 500 MW", "Baraj de anrocamente de 167 m", "Cel mai mare lac de acumulare", "Construit între 1971-1978"],
+      en: ["500 MW installed capacity", "167m high rock-fill dam", "Largest reservoir in Albania", "Built between 1971-1978"],
+    },
+    image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp",
+},  {
     id: "albania-port-of-vlore-economic-v2",
     type: "port",
-    name: { de: "Hafen von Vlorë", hu: "Vlorai kikötő", ro: "Portul Vlorë", en: "Port of Vlorë" },
+    name: { de: "Hafen von Vlorë", hu: "Vlorai kikötő", ro: "Portul Vlorë", en: "Port of Vlorë",
+image: "/poi-images/albania-port-of-vlore-economic-v2.webp"
+},
     coords: [19.482, 40.451],
     coordinates: { lat: 40.451, lng: 19.482 },
     description: {
@@ -153,11 +259,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Al doilea port maritim al țării", "Aproape de strâmtoarea Otranto", "Include un terminal petrolier", "Centru important pentru pescuit"],
       en: ["Second largest seaport in the country", "Close to the Strait of Otranto", "Features a petroleum terminal", "Significant fishing industry base"],
     },
-    imageHint: "Vlore port with ferries and industrial docks", image: "/poi-images/albania-port-of-vlore-economic-v2.webp"},
-  {
+imageHint: "Vlore port with ferries and industrial docks",
+    descriptionAdvanced: {
+      de: "Der zweitgrößte Hafen des Landes dient als wichtiges Tor für den Tourismus und den Handel im Süden, mit regelmäßigen Verbindungen nach Brindisi in Italien.",
+      hu: "Az ország második legnagyobb kikötője fontos kapu a déli turizmus és kereskedelem számára, rendszeres összeköttetést biztosítva az olaszországi Brindisivel.",
+      ro: "Al doilea port ca mărime al țării servește drept poartă importantă pentru turism și comerț în sud, având legături regulate cu orașul italian Brindisi.",
+      en: "The country's second-largest port serves as a major gateway for tourism and trade in the south, with regular ferry connections to Brindisi, Italy.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößter Hafen Albaniens", "Regelmäßige Fähren nach Brindisi", "Zentrum der Fischereiindustrie", "Modernisierung des Passagierterminals"],
+      hu: ["Második legnagyobb kikötő", "Napi kompjáratok Brindisibe", "A halászati ipar központja", "Modernizált utasterminál"],
+      ro: ["Al doilea port al Albaniei", "Feriboturi zilnice spre Brindisi", "Centru al industriei pescărești", "Terminal de pasageri modernizat"],
+      en: ["Second largest port in Albania", "Daily ferries to Brindisi", "Hub for the fishing industry", "Newly modernized passenger terminal"],
+    },
+    image: "/poi-images/albania-port-of-vlore-economic-v2.webp",
+},  {
     id: "albania-ballsh-oil-refinery-economic-v2",
     type: "factory",
-    name: { de: "Ölraffinerie Ballsh", hu: "Ballshi olajfinomító", ro: "Rafinăria de petrol Ballsh", en: "Ballsh Oil Refinery" },
+    name: { de: "Ölraffinerie Ballsh", hu: "Ballshi olajfinomító", ro: "Rafinăria de petrol Ballsh", en: "Ballsh Oil Refinery",
+image: "/poi-images/albania-ballsh-oil-refinery-economic-v2.webp"
+},
     coords: [19.734, 40.598],
     coordinates: { lat: 40.598, lng: 19.734 },
     description: {
@@ -172,11 +293,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Singura unitate majoră de procesare", "Vitală pentru independența energetică", "Produce bitum pentru export", "Sursă de locuri de muncă în Mallakastra"],
       en: ["Only major deep-processing refinery", "Vital for energy independence", "Produces bitumen for export", "Key employer in the Mallakastra region"],
     },
-    imageHint: "Industrial pipes and towers of an oil refinery in Ballsh", image: "/poi-images/albania-ballsh-oil-refinery-economic-v2.webp"},
-  {
+imageHint: "Industrial pipes and towers of an oil refinery in Ballsh",
+    descriptionAdvanced: {
+      de: "Die Raffinerie von Ballsh wurde zur Verarbeitung des lokal geförderten Schweröls errichtet und ist eine der wichtigsten Industrieanlagen im Süden Albaniens.",
+      hu: "A ballshi finomítót a helyben kitermelt nehézolaj feldolgozására hozták létre. Dél-Albánia egyik legfontosabb ipari létesítménye és foglalkoztatója.",
+      ro: "Rafinăria din Ballsh a fost construită pentru procesarea țițeiului greu extras local, fiind una dintre cele mai importante facilități industriale din sud.",
+      en: "The Ballsh refinery was established to process locally extracted heavy crude oil, serving as one of the most significant industrial plants in southern Albania.",
+    },
+    factsAdvanced: {
+      de: ["Verarbeitung von Schweröl", "In den 1970ern erbaut", "Kapazität von 1 Mio. Tonnen/Jahr", "Zentrales Wirtschaftsobjekt in Mallakastra"],
+      hu: ["Nehézolaj finomítása", "Az 1970-es években épült", "1 millió tonna/év kapacitás", "Mallakastra gazdasági központja"],
+      ro: ["Procesarea țițeiului greu", "Construită în anii 1970", "Capacitate de 1 mil. tone/an", "Obiectiv vital în Mallakastra"],
+      en: ["Processes heavy crude oil", "Built during the 1970s", "1 million ton/year capacity", "Economic hub for Mallakastra"],
+    },
+    image: "/poi-images/albania-ballsh-oil-refinery-economic-v2.webp",
+},  {
     id: "albania-vau-i-dejes-power-plant-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Vau i Dejës", hu: "Vau i Dejës-i vízerőmű", ro: "Hidrocentrala Vau i Dejës", en: "Vau i Dejës Hydroelectric Power Station" },
+    name: { de: "Wasserkraftwerk Vau i Dejës", hu: "Vau i Dejës-i vízerőmű", ro: "Hidrocentrala Vau i Dejës", en: "Vau i Dejës Hydroelectric Power Station",
+image: "/poi-images/albania-vau-i-dejes-power-plant-economic-v2.webp"
+},
     coords: [19.641, 42.012],
     coordinates: { lat: 42.012, lng: 19.641 },
     description: {
@@ -191,11 +327,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în 1971", "Putere instalată de 250 MW", "Formează un lac de 25 km²", "Importanță majoră în controlul inundațiilor"],
       en: ["Commissioned in 1971", "Installed capacity of 250 MW", "Forms a 25 square km reservoir", "Key for flood control in the region"],
     },
-    imageHint: "Hydroelectric power plant building and spillway at Vau i Dejes", image: "/poi-images/albania-vau-i-dejes-power-plant-economic-v2.webp"},
-  {
+imageHint: "Hydroelectric power plant building and spillway at Vau i Dejes",
+    descriptionAdvanced: {
+      de: "Vau i Dejës ist das dritte Glied in der Drin-Kaskade. Es nutzt das Wasser, das bereits Fierza und Koman passiert hat, zur zusätzlichen Stromerzeugung.",
+      hu: "Vau i Dejës a Drin-kaszkád harmadik tagja. A Fierza és Koman erőműveken már áthaladt vizet hasznosítja további elektromos áram termelésére.",
+      ro: "Vau i Dejës este a treia verigă a cascadei Drin. Utilizează apa care a trecut deja prin Fierza și Koman pentru a genera energie electrică suplimentară.",
+      en: "Vau i Dejës is the third link in the Drin River cascade. It utilizes water that has already passed through Fierza and Koman to generate electricity.",
+    },
+    factsAdvanced: {
+      de: ["250 MW installierte Leistung", "5 Turbinen im Einsatz", "Baujahr 1967-1971", "Erster großer Damm am Drin"],
+      hu: ["250 MW beépített teljesítmény", "5 generátoros egység", "Épült 1967 és 1971 között", "A Drin első nagy gátja"],
+      ro: ["Putere de 250 MW", "Dotată cu 5 turbine", "Construită între 1967-1971", "Primul baraj mare de pe Drin"],
+      en: ["250 MW installed capacity", "Features 5 turbine units", "Built between 1967-1971", "First major dam on the Drin"],
+    },
+    image: "/poi-images/albania-vau-i-dejes-power-plant-economic-v2.webp",
+},  {
     id: "albania-lushnje-agricultural-hub-economic-v2",
     type: "industry",
-    name: { de: "Agrarzentrum Lushnjë", hu: "Lushnjëi mezőgazdasági központ", ro: "Centrul agricol Lushnjë", en: "Lushnjë Agricultural Hub" },
+    name: { de: "Agrarzentrum Lushnjë", hu: "Lushnjëi mezőgazdasági központ", ro: "Centrul agricol Lushnjë", en: "Lushnjë Agricultural Hub",
+image: "/poi-images/albania-lushnje-agricultural-hub-economic-v2.webp"
+},
     coords: [19.652, 40.941],
     coordinates: { lat: 40.941, lng: 19.652 },
     description: {
@@ -210,11 +361,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centrul câmpiei Myzeqe", "Sediul unor mari procesatori alimentari", "Cea mai mare piață agricolă", "Lider în producția de sere"],
       en: ["Heart of the Myzeqe agricultural plain", "Home to major food processing plants", "Main market for agricultural goods", "Leader in greenhouse production"],
     },
-    imageHint: "Vast agricultural fields and greenhouses near Lushnje", image: "/poi-images/albania-lushnje-agricultural-hub-economic-v2.webp"},
-  {
+imageHint: "Vast agricultural fields and greenhouses near Lushnje",
+    descriptionAdvanced: {
+      de: "Lushnje liegt in der fruchtbaren Myzeqe-Ebene und gilt als Kornkammer Albaniens, wo ein Großteil des Obstes und Gemüses für den Export produziert wird.",
+      hu: "A termékeny Myzeqe-síkságon fekvő Lushnje Albánia éléstára, ahol az ország exportra szánt zöldség- és gyümölcstermésének jelentős részét termesztik.",
+      ro: "Situat în câmpia fertilă Myzeqe, orașul Lushnje este considerat grânarul Albaniei, producând majoritatea legumelor și fructelor destinate exportului.",
+      en: "Located in the fertile Myzeqe plain, Lushnje is considered the breadbasket of Albania, producing a large share of the country's agricultural exports.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Myzeqe-Ebene", "Hauptexporteur von Tomaten", "Größter Agrarmarkt des Landes", "Fruchtbare Schwemmlandböden"],
+      hu: ["A Myzeqe-síkság központja", "Paradicsom-export fő forrása", "Az ország legnagyobb agrárpiaca", "Termékeny öntéstalaj"],
+      ro: ["Centrul câmpiei Myzeqe", "Principal exportator de roșii", "Cea mai mare piață agricolă", "Soluri aluvionare fertile"],
+      en: ["Heart of the Myzeqe plain", "Major exporter of tomatoes", "Largest agri-market in Albania", "Fertile alluvial soil"],
+    },
+    image: "/poi-images/albania-lushnje-agricultural-hub-economic-v2.webp",
+},  {
     id: "albania-korca-brewery-economic-v2",
     type: "factory",
-    name: { de: "Brauerei Korça", hu: "Korçai sörgyár", ro: "Fabrica de bere Korça", en: "Korça Brewery" },
+    name: { de: "Brauerei Korça", hu: "Korçai sörgyár", ro: "Fabrica de bere Korça", en: "Korça Brewery",
+image: "/poi-images/albania-korca-brewery-economic-v2.webp"
+},
     coords: [20.782, 40.619],
     coordinates: { lat: 40.619, lng: 20.782 },
     description: {
@@ -229,11 +395,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1928", "Prima fabrică de bere din Albania", "Multiple premii internaționale", "Angajator important în Korçë"],
       en: ["Founded in 1928", "First brewery in Albania", "Winner of multiple international awards", "Significant employer in the Korçë region"],
     },
-    imageHint: "Exterior of the historic Birra Korca brewery factory", image: "/poi-images/albania-korca-brewery-economic-v2.webp"},
-  {
+imageHint: "Exterior of the historic Birra Korca brewery factory",
+    descriptionAdvanced: {
+      de: "Birra Korça wurde 1928 gegründet und ist die älteste Brauerei Albaniens. Sie ist ein Symbol für die lokale Industrietradition und ein bedeutender Arbeitgeber.",
+      hu: "Az 1928-ban alapított Birra Korça Albánia legrégebbi sörfőzdéje. A helyi ipari hagyományok szimbóluma és a régió egyik legfontosabb munkaadója.",
+      ro: "Fondată în 1928, Birra Korça este cea mai veche berărie din Albania. Este un simbol al tradiției industriale locale și un angajator major în regiune.",
+      en: "Founded in 1928, Birra Korça is the oldest brewery in Albania. It stands as a symbol of local industrial tradition and remains a major regional employer.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1928", "Älteste Brauerei des Landes", "Gewinner internationaler Preise", "Verwendet Quellwasser von Morava"],
+      hu: ["Alapítás éve: 1928", "Az ország legidősebb sörgyára", "Nemzetközi díjas termékek", "A Morava-hegy forrásvizét használja"],
+      ro: ["Fondată în anul 1928", "Cea mai veche berărie din țară", "Premiată la nivel internațional", "Folosește apa din munții Morava"],
+      en: ["Founded in 1928", "Oldest brewery in the country", "Winner of international awards", "Uses Morava mountain spring water"],
+    },
+    image: "/poi-images/albania-korca-brewery-economic-v2.webp",
+},  {
     id: "albania-kruje-cement-plant-economic-v2",
     type: "factory",
-    name: { de: "Zementwerk Krujë", hu: "Krujëi cementgyár", ro: "Fabrica de ciment Krujë", en: "Krujë Cement Plant" },
+    name: { de: "Zementwerk Krujë", hu: "Krujëi cementgyár", ro: "Fabrica de ciment Krujë", en: "Krujë Cement Plant",
+image: "/poi-images/albania-kruje-cement-plant-economic-v2.webp"
+},
     coords: [19.791, 41.512],
     coordinates: { lat: 41.512, lng: 19.791 },
     description: {
@@ -248,11 +429,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Investiție majoră străină", "Produce pentru întreaga regiune", "Cariere de calcar proprii în apropiere", "Tehnologie modernă de filtrare"],
       en: ["Major foreign investment project", "Supplies the entire Balkan region", "Operates nearby limestone quarries", "Equipped with modern filtration tech"],
     },
-    imageHint: "Large industrial cement factory with silos near Kruje", image: "/poi-images/albania-kruje-cement-plant-economic-v2.webp"},
-  {
+imageHint: "Large industrial cement factory with silos near Kruje",
+    descriptionAdvanced: {
+      de: "Das Zementwerk in Kruje ist für den albanischen Bausektor von entscheidender Bedeutung und nutzt die Kalksteinvorkommen der nahegelegenen Berge.",
+      hu: "A krujei cementgyár kulcsfontosságú az albán építőipar számára, kihasználva a közeli hegyek bőséges mészkőkészleteit a termeléshez.",
+      ro: "Fabrica de ciment din Kruje este vitală pentru sectorul construcțiilor din Albania, utilizând resursele de calcar din munții învecinați.",
+      en: "The Kruje cement plant is essential for Albania's construction sector, utilizing the vast limestone deposits from the nearby mountains for production.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Baustoffindustrie", "Verwendung lokaler Kalksteine", "Wichtiger Exportartikel", "Hohe Produktionskapazität"],
+      hu: ["Az építőanyag-ipar központja", "Helyi mészkő felhasználása", "Jelentős exporttermék", "Nagy gyártási kapacitás"],
+      ro: ["Centru al materialelor de construcții", "Folosește calcar local", "Produs major de export", "Capacitate mare de producție"],
+      en: ["Hub of construction materials", "Uses local limestone deposits", "Major export commodity", "High annual production output"],
+    },
+    image: "/poi-images/albania-kruje-cement-plant-economic-v2.webp",
+},  {
     id: "albania-tirana-business-park-economic-v2",
     type: "industry",
-    name: { de: "Tirana Business Park", hu: "Tirana Business Park", ro: "Tirana Business Park", en: "Tirana Business Park" },
+    name: { de: "Tirana Business Park", hu: "Tirana Business Park", ro: "Tirana Business Park", en: "Tirana Business Park",
+image: "/poi-images/albania-tirana-business-park-economic-v2.webp"
+},
     coords: [19.711, 41.374],
     coordinates: { lat: 41.374, lng: 19.711 },
     description: {
@@ -267,11 +463,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Primul parc de afaceri din țară", "Construit la standarde germane", "Centru pentru IT și servicii", "Locație strategică lângă autostradă"],
       en: ["First dedicated business park in Albania", "Built to high international standards", "Hub for IT and professional services", "Strategically located on the main highway"],
     },
-    imageHint: "Modern office buildings and landscaped areas of a business park", image: "/poi-images/albania-tirana-business-park-economic-v2.webp"},
-  {
+imageHint: "Modern office buildings and landscaped areas of a business park",
+    descriptionAdvanced: {
+      de: "Ein moderner Bürokomplex in der Nähe des Flughafens, der internationale Unternehmen anzieht und Albaniens Wandel hin zu einer Dienstleistungswirtschaft zeigt.",
+      hu: "A repülőtér közelében található modern irodakomplexum nemzetközi cégeket vonz, jelképezve Albánia átalakulását a szolgáltatásalapú gazdaság felé.",
+      ro: "Un complex modern de birouri situat lângă aeroport, care atrage companii internaționale și reflectă tranziția Albaniei către o economie de servicii.",
+      en: "A modern office complex near the airport that attracts international companies, showcasing Albania's shift towards a service-oriented economy.",
+    },
+    factsAdvanced: {
+      de: ["Nähe zum Flughafen Rinas", "Modernste IT-Infrastruktur", "Grüne Architekturstandards", "Sitz globaler Konzerne"],
+      hu: ["A rinasi repülőtér mellett", "Modern IT infrastruktúra", "Zöld építészeti megoldások", "Globális cégek székhelye"],
+      ro: ["Proximitate de aeroport", "Infrastructură IT modernă", "Standarde de arhitectură verde", "Găzduiește corporații globale"],
+      en: ["Proximity to Rinas Airport", "State-of-the-art IT infrastructure", "Green building standards", "Host to global corporations"],
+    },
+    image: "/poi-images/albania-tirana-business-park-economic-v2.webp",
+},  {
     id: "albania-port-of-shengjin-economic-v2",
     type: "port",
-    name: { de: "Hafen von Shëngjin", hu: "Shëngjini kikötő", ro: "Portul Shëngjin", en: "Port of Shëngjin" },
+    name: { de: "Hafen von Shëngjin", hu: "Shëngjini kikötő", ro: "Portul Shëngjin", en: "Port of Shëngjin",
+image: "/poi-images/albania-port-of-shengjin-economic-v2.webp"
+},
     coords: [19.592, 41.811],
     coordinates: { lat: 41.811, lng: 19.592 },
     description: {
@@ -286,11 +497,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cel mai nordic port din Albania", "Principalul port pentru mărfuri spre Kosovo", "Extindere planificată a terminalului", "Centru de logistică de coastă"],
       en: ["Northernmost seaport in Albania", "Primary port for goods destined for Kosovo", "Terminal expansion in progress", "Hub for coastal logistics"],
     },
-    imageHint: "Port docks with small ships and fishing boats in Shengjin", image: "/poi-images/albania-port-of-shengjin-economic-v2.webp"},
-  {
+imageHint: "Port docks with small ships and fishing boats in Shengjin",
+    descriptionAdvanced: {
+      de: "Dieser nördliche Hafen ist auf die Einfuhr von Kraftstoffen und Baumaterialien spezialisiert und dient als strategischer Punkt für den Handel mit dem Kosovo.",
+      hu: "Ez az északi kikötő üzemanyag- és építőanyag-importra szakosodott, és stratégiai pontként szolgál a Koszovóval folytatott kereskedelemben.",
+      ro: "Acest port nordic este specializat în importul de combustibili și materiale de construcții, fiind un punct strategic pentru comerțul cu Kosovo.",
+      en: "This northern port specializes in fuel and construction material imports, serving as a strategic point for trade with neighboring Kosovo.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Tiefseehafen", "Spezialisiert auf Öltanks", "Wichtig für Kosovo-Logistik", "Wachsende Kapazitäten"],
+      hu: ["A legészakibb mélyvízi kikötő", "Olajterminálokra szakosodott", "Fontos a koszovói logisztikában", "Bővülő raktárkapacitás"],
+      ro: ["Cel mai nordic port maritim", "Specializat în terminale petroliere", "Vital pentru logistica spre Kosovo", "Capacități în creștere"],
+      en: ["Northernmost deep-water port", "Specializes in oil terminals", "Vital for Kosovo logistics", "Expanding storage capacity"],
+    },
+    image: "/poi-images/albania-port-of-shengjin-economic-v2.webp",
+},  {
     id: "albania-kucove-oil-field-economic-v2",
     type: "mine",
-    name: { de: "Ölfeld Kuçovë", hu: "Kuçovëi olajmező", ro: "Câmpul petrolifer Kuçovë", en: "Kuçovë Oil Field" },
+    name: { de: "Ölfeld Kuçovë", hu: "Kuçovëi olajmező", ro: "Câmpul petrolifer Kuçovë", en: "Kuçovë Oil Field",
+image: "/poi-images/albania-kucove-oil-field-economic-v2.webp"
+},
     coords: [19.911, 40.802],
     coordinates: { lat: 40.802, lng: 19.911 },
     description: {
@@ -305,11 +531,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Primele foraje în anii 1920", "Centrul asistenței petroliere sovietice", "Deține instalații de extracție istorice", "Locație strategică pentru o bază NATO"],
       en: ["First drilling in the 1920s", "Hub of Soviet-era oil assistance", "Features historic oil derricks", "Location of a major NATO airbase"],
     },
-    imageHint: "Vintage oil derricks and modern drilling equipment in Kucove", image: "/poi-images/albania-kucove-oil-field-economic-v2.webp"},
-  {
+imageHint: "Vintage oil derricks and modern drilling equipment in Kucove",
+    descriptionAdvanced: {
+      de: "Kuçovë, einst als 'Stadt Stalins' bekannt, ist ein historisches Zentrum der Ölindustrie mit den ersten in den 1930er Jahren errichteten Raffinerien.",
+      hu: "A korábban 'Sztálinváros' néven ismert Kuçovë az olajipar történelmi központja, ahol az 1930-as években épültek az ország első finomítói.",
+      ro: "Cunoscut anterior sub numele de 'Orașul Stalin', Kuçovë este un centru istoric al petrolului, găzduind primele rafinării construite în anii 1930.",
+      en: "Kuçovë, formerly known as 'Stalin City', is a historic oil industry hub where Albania's first refineries were built during the 1930s.",
+    },
+    factsAdvanced: {
+      de: ["Ehemals Stadt Stalin genannt", "Ölförderung seit den 1930ern", "Historisches Industrieerbe", "Standort eines Luftwaffenstützpunkts"],
+      hu: ["Korábbi neve: Sztálinváros", "Olajkitermelés az 1930-as évektől", "Ipari örökségi helyszín", "Légibázis is található itt"],
+      ro: ["Fostul 'Oraș Stalin'", "Exploatare din anii 1930", "Patrimoniu industrial istoric", "Găzduiește o bază aeriană"],
+      en: ["Formerly called Stalin City", "Oil extraction since the 1930s", "Historic industrial heritage", "Site of a major airbase"],
+    },
+    image: "/poi-images/albania-kucove-oil-field-economic-v2.webp",
+},  {
     id: "albania-port-of-sarande-economic-v2",
     type: "port",
-    name: { de: "Hafen von Sarandë", hu: "Sarandai kikötő", ro: "Portul Sarandë", en: "Port of Sarandë" },
+    name: { de: "Hafen von Sarandë", hu: "Sarandai kikötő", ro: "Portul Sarandë", en: "Port of Sarandë",
+image: "/poi-images/albania-port-of-sarande-economic-v2.webp"
+},
     coords: [20.001, 39.874],
     coordinates: { lat: 39.874, lng: 20.001 },
     description: {
@@ -324,11 +565,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cel mai important port pentru turism", "Feriboturi regulate către Corfu", "Terminal pentru nave de croazieră", "Centru al comerțului regional"],
       en: ["Albania's most important tourist port", "Daily ferry services to Corfu", "Deep-water terminal for cruise liners", "Hub for regional cross-border trade"],
     },
-    imageHint: "Sarande harbor with cruise ships and ferries", image: "/poi-images/albania-port-of-sarande-economic-v2.webp"},
-  {
+imageHint: "Sarande harbor with cruise ships and ferries",
+    descriptionAdvanced: {
+      de: "Der Hafen von Sarandë ist der wichtigste Anlaufpunkt für Kreuzfahrtschiffe im Süden Albaniens und fungiert als primäres Tor zur antiken Stätte Butrint.",
+      hu: "Sarandë kikötője a dél-albániai üdülőhajók legfőbb állomása, és elsődleges kapuként szolgál a Butrint ókori romvárosába látogatók számára.",
+      ro: "Portul Sarandë este principalul punct de acostare pentru navele de croazieră din sudul Albaniei, fiind poarta de intrare către situl antic Butrint.",
+      en: "The Port of Sarandë is the leading stop for cruise ships in southern Albania, acting as the primary gateway to the ancient ruins of Butrint.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des Kreuzfahrttourismus", "Tor zum UNESCO-Weltkulturerbe Butrint", "Fähren zur Insel Korfu", "Wichtigster Passagierhafen im Süden"],
+      hu: ["Az üdülőhajó-turizmus központja", "Kapu Butrint UNESCO-helyszínhez", "Kompjáratok Korfu szigetére", "Dél legfontosabb utaskikötője"],
+      ro: ["Centrul turismului de croazieră", "Poarta către Butrint (UNESCO)", "Linii de feribot spre Corfu", "Cel mai important port de pasageri din sud"],
+      en: ["Hub for cruise tourism", "Gateway to Butrint UNESCO site", "Daily ferries to Corfu, Greece", "Key passenger terminal in the south"],
+    },
+    image: "/poi-images/albania-port-of-sarande-economic-v2.webp",
+},  {
     id: "albania-durres-railway-hub-economic-v2",
     type: "industry",
-    name: { de: "Bahnhof Durrës", hu: "Durrësi vasúti csomópont", ro: "Nodul feroviar Durrës", en: "Durrës Railway Hub" },
+    name: { de: "Bahnhof Durrës", hu: "Durrësi vasúti csomópont", ro: "Nodul feroviar Durrës", en: "Durrës Railway Hub",
+image: "/poi-images/albania-durres-railway-hub-economic-v2.webp"
+},
     coords: [19.455, 41.318],
     coordinates: { lat: 41.318, lng: 19.455 },
     description: {
@@ -343,11 +599,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centrul căilor ferate albaneze", "Conexiune directă cu portul", "Vital pentru transportul de minereu", "Sediul companiei naționale de căi ferate"],
       en: ["Heart of the Albanian railway system", "Direct connection to the seaport", "Key for transporting ore and steel", "Headquarters of the national rail company"],
     },
-    imageHint: "Railway tracks and freight trains at the Durres station", image: "/poi-images/albania-durres-railway-hub-economic-v2.webp"},
-  {
+imageHint: "Railway tracks and freight trains at the Durres station",
+    descriptionAdvanced: {
+      de: "Das Herzstück des albanischen Eisenbahnnetzes verbindet den Hafen mit Tirana und anderen Städten. Es steht derzeit vor einer umfassenden Modernisierung.",
+      hu: "Az albán vasúthálózat központja, amely összeköti a kikötőt Tiranával és más városokkal. Jelenleg átfogó modernizáció előtt áll a hálózat.",
+      ro: "Nodul central al rețelei feroviare albaneze, care conectează portul cu Tirana și alte orașe. În prezent, se află într-un proces de modernizare.",
+      en: "The heart of the Albanian railway network, connecting the port with Tirana and other cities. It is currently undergoing major modernization.",
+    },
+    factsAdvanced: {
+      de: ["Zentrale der Hekurudha Shqiptare", "Anbindung an den Hafen Durrës", "Hauptbahnhof des Landes", "Geplante neue Schnellverbindung nach Tirana"],
+      hu: ["Az Albán Vasutak központja", "Közvetlen kikötői csatlakozás", "Az ország főpályaudvara", "Tervezett gyorsvasút Tirana felé"],
+      ro: ["Sediul Căilor Ferate Albaneze", "Conexiune directă cu portul", "Cea mai importantă gară", "Viitoare linie rapidă spre Tirana"],
+      en: ["HQ of Hekurudha Shqiptare", "Direct connection to the port", "Main railway station of the country", "Planned high-speed link to Tirana"],
+    },
+    image: "/poi-images/albania-durres-railway-hub-economic-v2.webp",
+},  {
     id: "albania-shkoder-industrial-zone-economic-v2",
     type: "factory",
-    name: { de: "Industriezone Shkodër", hu: "Shkodëri ipari zóna", ro: "Zona industrială Shkodër", en: "Shkodër Industrial Zone" },
+    name: { de: "Industriezone Shkodër", hu: "Shkodëri ipari zóna", ro: "Zona industrială Shkodër", en: "Shkodër Industrial Zone",
+image: "/poi-images/albania-shkoder-industrial-zone-economic-v2.webp"
+},
     coords: [19.501, 42.062],
     coordinates: { lat: 42.062, lng: 19.501 },
     description: {
@@ -362,11 +633,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centru al industriei textile", "Important pentru fabricarea încălțămintei", "Exportă în principal către UE", "Cea mai veche zonă industrială din nord"],
       en: ["Hub for the textile and garment industry", "Major production site for footwear", "Exports primarily to EU markets", "Oldest industrial center in northern Albania"],
     },
-    imageHint: "Modern factory buildings in the industrial outskirts of Shkoder", image: "/poi-images/albania-shkoder-industrial-zone-economic-v2.webp"},
-  {
+imageHint: "Modern factory buildings in the industrial outskirts of Shkoder",
+    descriptionAdvanced: {
+      de: "Die Industriezone von Shkodër hat eine lange Tradition in der Textil- und Elektroindustrie und profitiert von ihrer strategischen Lage nahe der Grenze zu Montenegro.",
+      hu: "Shkodër ipari negyede hosszú hagyományokkal rendelkezik a textil- és elektronikai iparban, kihasználva a montenegrói határ közelségét.",
+      ro: "Zona industrială din Shkodër are o tradiție îndelungată în industria textilă și electronică, beneficiind de poziția sa aproape de granița cu Muntenegru.",
+      en: "The Shkodër industrial zone has a long tradition in textile and electronics manufacturing, benefiting from its location near the Montenegro border.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Textilherstellung", "Nähe zur montenegrinischen Grenze", "Historische Tabakverarbeitung", "Wachsende Leichtindustrie"],
+      hu: ["A textilgyártás központja", "Közel a montenegrói határhoz", "Történelmi dohányfeldolgozás", "Fejlődő könnyűipari szektor"],
+      ro: ["Centru al producției textile", "Aproape de granița cu Muntenegru", "Istoric în prelucrarea tutunului", "Industrie ușoară în expansiune"],
+      en: ["Hub for textile manufacturing", "Near the border with Montenegro", "Historic tobacco processing site", "Growing light industry sector"],
+    },
+    image: "/poi-images/albania-shkoder-industrial-zone-economic-v2.webp",
+},  {
     id: "albania-prrenjas-nickel-mine-economic-v2",
     type: "mine",
-    name: { de: "Nickelmine Prrenjas", hu: "Prrenjasi nikkelbánya", ro: "Mina de nichel Prrenjas", en: "Prrenjas Nickel Mine" },
+    name: { de: "Nickelmine Prrenjas", hu: "Prrenjasi nikkelbánya", ro: "Mina de nichel Prrenjas", en: "Prrenjas Nickel Mine",
+image: "/poi-images/albania-prrenjas-nickel-mine-economic-v2.webp"
+},
     coords: [20.552, 41.071],
     coordinates: { lat: 41.071, lng: 20.552 },
     description: {
@@ -382,11 +668,25 @@ export const albaniaEconomicV2: POI[] = [
       en: ["Significant deposits of ferro-nickel", "Key mining location in eastern Albania", "Direct railway connection for transport", "Supplies international smelting plants"],
     },
     imageHint: "Mining excavation site and industrial trucks in Prrenjas",
+    descriptionAdvanced: {
+      de: "Prrenjas ist ein bedeutendes Zentrum für den Abbau von Eisen-Nickel-Erzen, die für den Export und die metallurgische Industrie in Elbasan bestimmt sind.",
+      hu: "Prrenjas a vas-nikkel ércbányászat jelentős központja, amelynek termelését exportra és az elbasani kohászati ipar számára hasznosítják.",
+      ro: "Prrenjas este un centru semnificativ pentru extracția minereurilor de fier-nichel, destinate exportului și industriei metalurgice din Elbasan.",
+      en: "Prrenjas is a major center for iron-nickel ore mining, with production destined for export and the metallurgical industry in Elbasan.",
+    },
+    factsAdvanced: {
+      de: ["Große Eisen-Nickel-Vorkommen", "Wichtiger Rohstofflieferant", "Anbindung an das Eisenbahnnetz", "Abbau seit der sozialistischen Ära"],
+      hu: ["Hatalmas vas-nikkel készletek", "Fontos nyersanyagszállító", "Vasúti összeköttetés a bányához", "A szocialista korszak óta üzemel"],
+      ro: ["Zăcăminte mari de fier-nichel", "Furnizor vital de materii prime", "Conexiune feroviară dedicată", "Exploatare din epoca socialistă"],
+      en: ["Large iron-nickel deposits", "Key raw material supplier", "Dedicated railway connection", "Active since the socialist era"],
+    },
   },
   {
     id: "albania-memaliaj-coal-mine-economic-v2",
     type: "mine",
-    name: { de: "Kohlebergwerk Memaliaj", hu: "Memaliaji szénbánya", ro: "Mina de cărbune Memaliaj", en: "Memaliaj Coal Mine" },
+    name: { de: "Kohlebergwerk Memaliaj", hu: "Memaliaji szénbánya", ro: "Mina de cărbune Memaliaj", en: "Memaliaj Coal Mine",
+image: "/poi-images/albania-memaliaj-coal-mine-economic-v2.webp"
+},
     coords: [19.981, 40.352],
     coordinates: { lat: 40.352, lng: 19.981 },
     description: {
@@ -401,11 +701,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fosta cea mai mare mină de cărbune", "Orașul a fost fondat datorită minei", "Extracția cărbunelui brun", "Sit industrial istoric important"],
       en: ["Formerly the largest coal mine in Albania", "The town was founded to serve the mine", "Produced lignite coal for industry", "Significant historical industrial site"],
     },
-    imageHint: "Old coal mining structures and industrial heritage site in Memaliaj", image: "/poi-images/albania-memaliaj-coal-mine-economic-v2.webp"},
-  {
+imageHint: "Old coal mining structures and industrial heritage site in Memaliaj",
+    descriptionAdvanced: {
+      de: "Die Kohlemine von Memaliaj war einst die größte des Landes. Heute ist sie ein Beispiel für den industriellen Niedergang und den Übergang zu neuen Energien.",
+      hu: "Memaliaj szénbányája egykor az ország legnagyobbja volt. Ma az ipari hanyatlás és az új energiaforrások felé való átmenet egyik példája.",
+      ro: "Mina de cărbune din Memaliaj a fost cândva cea mai mare din țară. Astăzi reprezintă un exemplu al declinului industrial și al tranziției energetice.",
+      en: "The Memaliaj coal mine was once the largest in the country. Today, it stands as an example of industrial decline and the transition to new energies.",
+    },
+    factsAdvanced: {
+      de: ["Einst größtes Kohlebergwerk", "Gegründet im Jahr 1946", "Abbau von Braunkohle", "Prägt das Stadtbild von Memaliaj"],
+      hu: ["Egykor a legnagyobb szénbánya", "Alapítva 1946-ban", "Barnaszén kitermelése", "Meghatározza Memaliaj városképét"],
+      ro: ["Cândva cea mai mare mină de cărbune", "Fondată în anul 1946", "Extracție de cărbune brun", "Definește peisajul urban din Memaliaj"],
+      en: ["Once the largest coal mine", "Founded in 1946", "Brown coal (lignite) extraction", "Defines the townscape of Memaliaj"],
+    },
+    image: "/poi-images/albania-memaliaj-coal-mine-economic-v2.webp",
+},  {
     id: "albania-rubik-copper-plant-economic-v2",
     type: "factory",
-    name: { de: "Kupferwerk Rubik", hu: "Rubiki rézmű", ro: "Uzina de cupru Rubik", en: "Rubik Copper Industry" },
+    name: { de: "Kupferwerk Rubik", hu: "Rubiki rézmű", ro: "Uzina de cupru Rubik", en: "Rubik Copper Industry",
+image: "/poi-images/albania-rubik-copper-plant-economic-v2.webp"
+},
     coords: [19.782, 41.712],
     coordinates: { lat: 41.712, lng: 19.782 },
     description: {
@@ -420,11 +735,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Locație tradițională pentru topirea cuprului", "Important pentru metalurgie", "Aproape de depozitele de minereu Mirdita", "Peisaj urban dominat de industrie"],
       en: ["Traditional site for copper smelting", "Key metallurgical hub in the north", "Close to Mirdita's mineral deposits", "Defines the town's industrial character"],
     },
-    imageHint: "Industrial copper smelting plant in a valley in Rubik", image: "/poi-images/albania-rubik-copper-plant-economic-v2.webp"},
-  {
+imageHint: "Industrial copper smelting plant in a valley in Rubik",
+    descriptionAdvanced: {
+      de: "Rubik war das Zentrum der albanischen Kupferverarbeitung, inklusive Schmelzhütten und Raffinerien, die über Jahrzehnte die Region Mirdita prägten.",
+      hu: "Rubik volt az albán rézfeldolgozás központja, kohókkal és finomítókkal, amelyek évtizedeken át meghatározták Mirdita régió gazdaságát.",
+      ro: "Rubik a fost centrul prelucrării cuprului în Albania, incluzând topitorii și rafinării care au definit regiunea Mirdita timp de decenii.",
+      en: "Rubik was the hub of Albanian copper processing, including smelters and refineries that defined the Mirdita region's economy for decades.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Kupfermetallurgie", "Wichtigster Betrieb in Mirdita", "Produktion von Kupferkathoden", "Historisches Industriegelände"],
+      hu: ["A rézkohászat központja", "Mirdita legfontosabb üzeme", "Rézkatódok gyártása", "Történelmi ipari terület"],
+      ro: ["Centrul metalurgiei cuprului", "Cea mai importantă uzină din Mirdita", "Producție de catozi de cupru", "Situl industrial istoric"],
+      en: ["Hub for copper metallurgy", "Main employer in Mirdita", "Production of copper cathodes", "Historic industrial site"],
+    },
+    image: "/poi-images/albania-rubik-copper-plant-economic-v2.webp",
+},  {
     id: "albania-lac-industrial-zone-economic-v2",
     type: "factory",
-    name: { de: "Industriezone Laç", hu: "Laçi ipari zóna", ro: "Zona industrială Laç", en: "Laç Industrial Zone" },
+    name: { de: "Industriezone Laç", hu: "Laçi ipari zóna", ro: "Zona industrială Laç", en: "Laç Industrial Zone",
+image: "/poi-images/albania-lac-industrial-zone-economic-v2.webp"
+},
     coords: [19.712, 41.631],
     coordinates: { lat: 41.631, lng: 19.712 },
     description: {
@@ -439,11 +769,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fost centru pentru superfosfați", "Complex chimic major în regiune", "Vital pentru sprijinirea agriculturii", "Transformat în pol de logistică"],
       en: ["Former center for superphosphate production", "Largest chemical complex in the region", "Historically vital for agriculture", "Transitioned into a logistics and recycling hub"],
     },
-    imageHint: "Large chemical factory complex and industrial area in Lac", image: "/poi-images/albania-lac-industrial-zone-economic-v2.webp"},
-  {
+imageHint: "Large chemical factory complex and industrial area in Lac",
+    descriptionAdvanced: {
+      de: "Laç war ein bedeutender Standort für die chemische Industrie und Düngemittelproduktion, der heute versucht, neue Investoren in der Leichtindustrie anzuziehen.",
+      hu: "Laç a vegyipar és a műtrágyagyártás jelentős központja volt, amely ma a könnyűiparban próbál új befektetőket vonzani a régióba.",
+      ro: "Laç a fost un site major pentru industria chimică și producția de îngrășăminte, încercând astăzi să atragă noi investitori în industria ușoară.",
+      en: "Laç was a major site for the chemical industry and fertilizer production, now striving to attract new investors in light manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der chemischen Industrie", "Ehemalige Düngemittelwerke", "Strategische Lage nahe der Autobahn", "Wirtschaftlicher Wiederaufbau"],
+      hu: ["A vegyipar központja", "Korábbi műtrágyagyárak", "Stratégiai fekvés az autópálya mellett", "Gazdasági újjáépítési zóna"],
+      ro: ["Centru al industriei chimice", "Foste fabrici de îngrășăminte", "Poziție strategică lângă autostradă", "Zonă de reconstrucție economică"],
+      en: ["Hub for the chemical industry", "Former fertilizer plants", "Strategic location near the highway", "Economic reconstruction zone"],
+    },
+    image: "/poi-images/albania-lac-industrial-zone-economic-v2.webp",
+},  {
     id: "albania-berat-textile-mill-economic-v2",
     type: "factory",
-    name: { de: "Textilkombinat Berat", hu: "Berati textilgyár", ro: "Combinatul textil Berat", en: "Berat Textile Mill" },
+    name: { de: "Textilkombinat Berat", hu: "Berati textilgyár", ro: "Combinatul textil Berat", en: "Berat Textile Mill",
+image: "/poi-images/albania-berat-textile-mill-economic-v2.webp"
+},
     coords: [19.952, 40.701],
     coordinates: { lat: 40.701, lng: 19.952 },
     description: {
@@ -458,11 +803,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cea mai mare fabrică de textile din Albania", "Cunoscută în trecut sub numele 'Mao Zedong'", "Centru de procesare a bumbacului", "Angajator istoric major în Berat"],
       en: ["Formerly the largest textile plant in Albania", "Historically named after Mao Zedong", "Center for cotton processing and spinning", "Key historical driver of the local economy"],
     },
-    imageHint: "Old industrial textile factory buildings in Berat", image: "/poi-images/albania-berat-textile-mill-economic-v2.webp"},
-  {
+imageHint: "Old industrial textile factory buildings in Berat",
+    descriptionAdvanced: {
+      de: "Das einstige Textilkombinat von Berat war eines der größten des Balkans und beschäftigte in seiner Blütezeit Tausende von Arbeitern in der Baumwollverarbeitung.",
+      hu: "Berat egykori textilkombinátja a Balkán egyik legnagyobbja volt, fénykorában több ezer embert foglalkoztatott a pamutfeldolgozás területén.",
+      ro: "Fostul combinat textil din Berat a fost unul dintre cele mai mari din Balcani, angajând mii de muncitori în prelucrarea bumbacului.",
+      en: "The former Berat textile complex was one of the largest in the Balkans, employing thousands of workers in cotton processing during its peak.",
+    },
+    factsAdvanced: {
+      de: ["Einst 10.000 Mitarbeiter", "Größtes Textilwerk Albaniens", "Gegründet in den 1960ern", "Name: Mao-Tse-Tung-Kombinat"],
+      hu: ["Egykor 10 000 alkalmazott", "Albánia legnagyobb textilgyára", "Az 1960-as években alapították", "Mao Ce-tung nevét viselte"],
+      ro: ["Cândva 10.000 de angajați", "Cea mai mare fabrică textilă", "Fondată în anii 1960", "Nume: Combinatul Mao Zedong"],
+      en: ["Formerly 10,000 employees", "Largest textile plant in Albania", "Founded in the 1960s", "Named Mao Tse-tung Complex"],
+    },
+    image: "/poi-images/albania-berat-textile-mill-economic-v2.webp",
+},  {
     id: "albania-pogradec-nickel-mine-economic-v2",
     type: "mine",
-    name: { de: "Ferro-Nickel-Mine Pogradec", hu: "Pogradeci nikkelbánya", ro: "Mina de fero-nichel Pogradec", en: "Pogradec Ferro-Nickel Mine" },
+    name: { de: "Ferro-Nickel-Mine Pogradec", hu: "Pogradeci nikkelbánya", ro: "Mina de fero-nichel Pogradec", en: "Pogradec Ferro-Nickel Mine",
+image: "/poi-images/albania-pogradec-nickel-mine-economic-v2.webp"
+},
     coords: [20.651, 40.902],
     coordinates: { lat: 40.902, lng: 20.651 },
     description: {
@@ -477,11 +837,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Exportă minereu în Europa Centrală", "Sursă importantă de locuri de muncă", "Utilizează linia feroviară spre Durrës", "Produce minereu industrial de calitate"],
       en: ["Exports ore to Central European markets", "Key mining location in the southeast", "Utilizes the railway connection to Durrës", "Produces high-grade industrial mineral ore"],
     },
-    imageHint: "Mining pits and mineral processing equipment near Pogradec", image: "/poi-images/albania-pogradec-nickel-mine-economic-v2.webp"},
-  {
+imageHint: "Mining pits and mineral processing equipment near Pogradec",
+    descriptionAdvanced: {
+      de: "Die Minen nahe Pogradec am Ohridsee fördern Ferro-Nickel, ein wertvolles Exportgut, das für die internationale Stahlproduktion unerlässlich ist.",
+      hu: "A Pogradec melletti bányák az Ohridi-tónál ferro-nikkel ércet termelnek ki, amely az ország egyik legfontosabb exportterméke az acélipar számára.",
+      ro: "Minele de lângă Pogradec, de pe malul lacului Ohrid, extrag fero-nichel, un produs de export valoros pentru industria siderurgică internațională.",
+      en: "The mines near Pogradec by Lake Ohrid extract ferro-nickel, a valuable export commodity essential for international steel production.",
+    },
+    factsAdvanced: {
+      de: ["Abbau von Ferro-Nickel", "Lagerstätten in Pishkash", "Wichtiger Devisenbringer", "Transport per Eisenbahn"],
+      hu: ["Ferro-nikkel kitermelése", "Pishkash környéki lelőhelyek", "Jelentős valutaforrás", "Vasúti szállítás az érceknek"],
+      ro: ["Extracție de fero-nichel", "Zăcăminte în zona Pishkash", "Sursă majoră de valută", "Transport feroviar al minereului"],
+      en: ["Ferro-nickel extraction", "Deposits in the Pishkash area", "Major foreign exchange earner", "Railway transport for ores"],
+    },
+    image: "/poi-images/albania-pogradec-nickel-mine-economic-v2.webp",
+},  {
     id: "albania-kukes-airport-economic-v2",
     type: "industry",
-    name: { de: "Flughafen Kukës Zayed", hu: "Kukësi Zayed repülőtér", ro: "Aeroportul Kukës Zayed", en: "Kukës International Airport Zayed" },
+    name: { de: "Flughafen Kukës Zayed", hu: "Kukësi Zayed repülőtér", ro: "Aeroportul Kukës Zayed", en: "Kukës International Airport Zayed",
+image: "/poi-images/albania-kukes-airport-economic-v2.webp"
+},
     coords: [20.411, 42.032],
     coordinates: { lat: 42.032, lng: 20.411 },
     description: {
@@ -496,11 +871,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Al doilea aeroport internațional", "Finanțat de Emiratele Arabe Unite", "Important pentru liniile low-cost", "Hub pentru conectivitate regională"],
       en: ["Albania's second international airport", "Funded by the United Arab Emirates", "Focuses on low-cost carrier services", "Hub for regional economic connectivity"],
     },
-    imageHint: "Modern terminal and runway of Kukes Airport", image: "/poi-images/albania-kukes-airport-economic-v2.webp"},
-  {
+imageHint: "Modern terminal and runway of Kukes Airport",
+    descriptionAdvanced: {
+      de: "Kukës International Airport Zayed ist der zweite internationale Flughafen Albaniens und soll die wirtschaftliche Entwicklung im Nordosten des Landes ankurbeln.",
+      hu: "A Kukës International Airport Zayed Albánia második nemzetközi repülőtere, amely az ország északkeleti részének gazdasági fellendítését célozza.",
+      ro: "Aeroportul Internațional Kukës Zayed este al doilea aeroport internațional al Albaniei, menit să stimuleze dezvoltarea în nord-estul țării.",
+      en: "Kukës International Airport Zayed is Albania's second international airport, designed to boost economic development in the country's northeast.",
+    },
+    factsAdvanced: {
+      de: ["Zweiter internationaler Flughafen", "Bau durch VAE finanziert", "2.200 Meter lange Landebahn", "Eröffnung im Jahr 2021"],
+      hu: ["Második nemzetközi repülőtér", "Az Egyesült Arab Emírségek finanszírozta", "2200 méter hosszú kifutópálya", "Megnyitás éve: 2021"],
+      ro: ["Al doilea aeroport internațional", "Finanțat de Emiratele Arabe Unite", "Pistă de 2.200 metri", "Deschis în anul 2021"],
+      en: ["Second international airport", "Funded by the UAE", "2,200-meter long runway", "Opened for traffic in 2021"],
+    },
+    image: "/poi-images/albania-kukes-airport-economic-v2.webp",
+},  {
     id: "albania-divjake-gas-field-economic-v2",
     type: "mine",
-    name: { de: "Erdgasfeld Divjakë", hu: "Divjakëi földgázmező", ro: "Câmpul de gaze naturale Divjakë", en: "Divjakë Natural Gas Field" },
+    name: { de: "Erdgasfeld Divjakë", hu: "Divjakëi földgázmező", ro: "Câmpul de gaze naturale Divjakë", en: "Divjakë Natural Gas Field",
+image: "/poi-images/albania-divjake-gas-field-economic-v2.webp"
+},
     coords: [19.531, 40.992],
     coordinates: { lat: 40.992, lng: 19.531 },
     description: {
@@ -515,11 +905,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centru al extracției de gaze", "Alimentează industria locală", "Noduri de conducte importante", "Puncte de extracție în apropierea coastei"],
       en: ["Major hub for natural gas production", "Supplies regional industrial plants", "Key pipeline intersection point", "Coastal gas extraction facilities"],
     },
-    imageHint: "Natural gas extraction facility and pipelines in Divjake", image: "/poi-images/albania-divjake-gas-field-economic-v2.webp"},
-  {
+imageHint: "Natural gas extraction facility and pipelines in Divjake",
+    descriptionAdvanced: {
+      de: "Das Gasfeld von Divjakë ist eine der primären Quellen für Erdgas in Albanien und deckt einen Teil des industriellen Energiebedarfs des Landes.",
+      hu: "A divjakëi gázmező Albánia egyik elsődleges földgázforrása, amely az ország ipari energiaszükségletének egy részét fedezi.",
+      ro: "Câmpul de gaze din Divjakë este una dintre principalele surse de gaz natural din Albania, acoperind o parte din necesarul energetic industrial.",
+      en: "The Divjakë gas field is one of the primary sources of natural gas in Albania, covering a portion of the country's industrial energy needs.",
+    },
+    factsAdvanced: {
+      de: ["Erdgasförderung onshore", "Wichtig für die lokale Industrie", "Gegründet in den 1960ern", "Verbindung zum Pipelinenetz"],
+      hu: ["Szárazföldi földgázkitermelés", "Fontos a helyi ipar számára", "Az 1960-as évek óta üzemel", "Csatlakozás a gázvezeték-hálózathoz"],
+      ro: ["Extracție onshore de gaz natural", "Vital pentru industria locală", "Exploatare din anii 1960", "Conectat la rețeaua de conducte"],
+      en: ["Onshore natural gas extraction", "Vital for local industry", "Operational since the 1960s", "Connected to the pipeline network"],
+    },
+    image: "/poi-images/albania-divjake-gas-field-economic-v2.webp",
+},  {
     id: "albania-sarande-ferry-terminal-economic-v2",
     type: "port",
-    name: { de: "Fährterminal Sarandë", hu: "Sarandai kompterminál", ro: "Terminalul de feribot Sarandë", en: "Sarandë Ferry Terminal" },
+    name: { de: "Fährterminal Sarandë", hu: "Sarandai kompterminál", ro: "Terminalul de feribot Sarandë", en: "Sarandë Ferry Terminal",
+image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp"
+},
     coords: [20.003, 39.872],
     coordinates: { lat: 39.872, lng: 20.003 },
     description: {
@@ -534,11 +939,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Principala rută comercială spre Corfu", "Sute de pasageri zilnic", "Punct vamal și de frontieră important", "Centru de creștere pentru sectorul serviciilor"],
       en: ["Primary trade route to Corfu, Greece", "Handles hundreds of passengers daily", "Major customs and border post", "Hub for the expanding service sector"],
     },
-    imageHint: "Busy ferry terminal with ships docking in Sarande", image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp"},
-  {
+imageHint: "Busy ferry terminal with ships docking in Sarande",
+    descriptionAdvanced: {
+      de: "Das Fährterminal in Sarandë verbindet Albanien täglich mit der griechischen Insel Korfu und ist ein kritischer Knotenpunkt für den internationalen Tourismus.",
+      hu: "Sarandë kompkikötője naponta köti össze Albániát a görögországi Korfu szigetével, és a nemzetközi turizmus kritikus csomópontja.",
+      ro: "Terminalul de feribot din Sarandë conectează zilnic Albania cu insula grecească Corfu, fiind un nod critic pentru turismul internațional.",
+      en: "The Sarandë ferry terminal connects Albania daily with the Greek island of Corfu, serving as a critical hub for international tourism.",
+    },
+    factsAdvanced: {
+      de: ["Tägliche Verbindung nach Korfu", "30 Minuten Überfahrtzeit", "Zoll- und Grenzübergangsstelle", "Haupttor für Individualtouristen"],
+      hu: ["Napi járatok Korfura", "30 perces menetidő", "Hivatalos határátkelőhely", "Az egyéni turisták fő kapuja"],
+      ro: ["Legătură zilnică spre Corfu", "Timp de traversare de 30 min", "Punct oficial de trecere a frontierei", "Poarta principală pentru turiști"],
+      en: ["Daily connection to Corfu", "30-minute crossing time", "Official border crossing point", "Main gate for individual tourists"],
+    },
+    image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp",
+},  {
     id: "albania-vlore-industrial-park-economic-v2",
     type: "industry",
-    name: { de: "Industriepark Vlorë", hu: "Vlorai ipari park", ro: "Parcul industrial Vlorë", en: "Vlorë Industrial Park" },
+    name: { de: "Industriepark Vlorë", hu: "Vlorai ipari park", ro: "Parcul industrial Vlorë", en: "Vlorë Industrial Park",
+image: "/poi-images/albania-vlore-industrial-park-economic-v2.webp"
+},
     coords: [19.461, 40.482],
     coordinates: { lat: 40.482, lng: 19.461 },
     description: {
@@ -553,11 +973,26 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Focus pe energie și logistică", "Acces direct la drumul de coastă", "Găzduiește grupuri industriale internaționale", "Vital pentru economia maritimă"],
       en: ["Focuses on energy and logistics sectors", "Direct access to main coastal highways", "Home to international industrial firms", "Vital for the regional maritime economy"],
     },
-    imageHint: "Modern industrial warehouses and factories near the coast of Vlore", image: "/poi-images/albania-vlore-industrial-park-economic-v2.webp"},
-  {
+imageHint: "Modern industrial warehouses and factories near the coast of Vlore",
+    descriptionAdvanced: {
+      de: "Ein neu entwickelter Industriepark, der auf erneuerbare Energien und moderne Fertigung spezialisiert ist und von der Nähe zum neuen Flughafen Vlorë profitieren wird.",
+      hu: "Egy újonnan kialakított ipari park, amely a megújuló energiára és a modern gyártásra szakosodott, kihasználva a készülő vlorai repülőtér közelségét.",
+      ro: "Un parc industrial recent dezvoltat, specializat în energie regenerabilă și producție modernă, beneficiind de proximitatea viitorului aeroport.",
+      en: "A newly developed industrial park specialized in renewable energy and modern manufacturing, benefiting from the proximity to the future Vlorë airport.",
+    },
+    factsAdvanced: {
+      de: ["Schwerpunkt Erneuerbare Energien", "Nähe zum geplanten Flughafen", "Steuervergünstigungen für Investoren", "Modernes Logistikzentrum"],
+      hu: ["Megújuló energia fókusz", "A tervezett repülőtér mellett", "Adókedvezmények befektetőknek", "Modern logisztikai központ"],
+      ro: ["Focus pe energie regenerabilă", "Lângă viitorul aeroport", "Facilități fiscale pentru investitori", "Centru logistic modern"],
+      en: ["Focus on renewable energy", "Near the planned airport", "Tax incentives for investors", "Modern logistics center"],
+    },
+    image: "/poi-images/albania-vlore-industrial-park-economic-v2.webp",
+},  {
     id: "albania-bitincka-mining-area-economic-v2",
     type: "mine",
-    name: { de: "Bergbauregion Bitincka", hu: "Bitinckai bányavidék", ro: "Zona minieră Bitincka", en: "Bitincka Mining Area" },
+    name: { de: "Bergbauregion Bitincka", hu: "Bitinckai bányavidék", ro: "Zona minieră Bitincka", en: "Bitincka Mining Area",
+image: "/poi-images/albania-bitincka-mining-area-economic-v2.webp"
+},
     coords: [20.952, 40.601],
     coordinates: { lat: 40.601, lng: 20.952 },
     description: {
@@ -573,5 +1008,17 @@ export const albaniaEconomicV2: POI[] = [
       en: ["Major center for marble quarrying", "Exports natural stone globally", "Features large limestone quarries", "Key economic driver near the city of Korçë"],
     },
     imageHint: "Marble quarries and large stone blocks in Bitincka",
+    descriptionAdvanced: {
+      de: "Das Bergbaugebiet Bitincka ist bekannt für seine hochwertigen Nickelvorkommen, die einen wesentlichen Teil der albanischen Mineralexporte ausmachen.",
+      hu: "A bitinckai bányavidék kiváló minőségű nikkelkészleteiről ismert, amely az albán ásványi export jelentős részét teszi ki.",
+      ro: "Zona minieră Bitincka este cunoscută pentru zăcămintele sale de nichel de înaltă calitate, care reprezintă o parte esențială a exporturilor minerale.",
+      en: "The Bitincka mining area is renowned for its high-quality nickel deposits, forming a significant part of Albania's mineral exports.",
+    },
+    factsAdvanced: {
+      de: ["Abbau von Nickel-Laterit", "Große Reserven im Südosten", "Wichtig für die Edelstahlindustrie", "Prägt die Region Bilisht"],
+      hu: ["Nikkel-laterit kitermelése", "Hatalmas délkeleti tartalékok", "Fontos a rozsdamentes acélgyártáshoz", "Meghatározó Bilisht régiójában"],
+      ro: ["Extracție de nichel lateritic", "Rezerve mari în sud-est", "Vital pentru industria oțelului", "Definește regiunea Bilisht"],
+      en: ["Nickel-laterite extraction", "Large reserves in the southeast", "Vital for the stainless steel industry", "Economic driver for the Bilisht region"],
+    },
   }
 ];

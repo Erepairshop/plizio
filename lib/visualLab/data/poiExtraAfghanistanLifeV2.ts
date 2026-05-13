@@ -7,7 +7,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "park",
     parent: "AF-KAB",
     coords: [69.1585, 34.5029],
-    name: { de: "Bagh-e Babur", hu: "Bábur kertje", ro: "Grădinile Babur", en: "Gardens of Babur" },
+    name: { de: "Bagh-e Babur", hu: "Bábur kertje", ro: "Grădinile Babur", en: "Gardens of Babur",
+image: "/poi-images/af-bagh-e-babur-life-v2.webp"
+},
     description: { de: "Ein historischer Park in Kabul, der das Grab des ersten Mogulkaisers Babur beherbergt und terrassierte Gärten bietet.", hu: "Történelmi park Kabulban, amely Bábur, az első mogul császár sírját és teraszos kertjeit őrzi.", ro: "Un parc istoric din Kabul, care găzduiește mormântul primului împărat mogul Babur și grădini terasate.", en: "A historic park in Kabul that houses the tomb of the first Mughal emperor Babur and features terraced gardens." },
     facts: {
       de: ["Angelegt im frühen 16. Jahrhundert.", "Auf 15 Terrassen erbaut.", "Wurde 2008 umfassend restauriert.", "Bietet einen Panoramablick auf Kabul."],
@@ -27,7 +29,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AF-KAB",
     coords: [69.1970, 34.4980],
-    name: { de: "Kol-e-Hashmat-Khan", hu: "Kol-e-Hasmat-Kán mocsár", ro: "Zona umedă Kol-e-Hashmat-Khan", en: "Kol-e-Hashmat-Khan Wetland" },
+    name: { de: "Kol-e-Hashmat-Khan", hu: "Kol-e-Hasmat-Kán mocsár", ro: "Zona umedă Kol-e-Hashmat-Khan", en: "Kol-e-Hashmat-Khan Wetland",
+image: "/poi-images/af-kol-e-hashmat-khan-life-v2.webp"
+},
     description: { de: "Ein wichtiges Feuchtgebiet südlich von Kabul, das als Rastplatz für tausende Zugvögel auf ihrer Route nach Indien dient.", hu: "Fontos vizes élőhely Kabulól délre, amely több ezer költöző madár pihenőhelye az Indiába vezető úton.", ro: "O zonă umedă importantă la sud de Kabul, care servește drept loc de popas pentru mii de păsări migratoare spre India.", en: "An important wetland south of Kabul that serves as a resting place for thousands of migratory birds on their route to India." },
     facts: {
       de: ["Zählt zu den wichtigsten Vogelbeobachtungsgebieten.", "Ehemaliges königliches Jagdgebiet.", "Lebensraum für Pelikane und Flamingos.", "Wurde 2017 zum Naturschutzgebiet erklärt."],
@@ -47,7 +51,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AF-GHA",
     coords: [67.8180, 33.7220],
-    name: { de: "Dascht-e Nawar", hu: "Dast-e Nawar", ro: "Dasht-e Nawar", en: "Dasht-e Nawar" },
+    name: { de: "Dascht-e Nawar", hu: "Dast-e Nawar", ro: "Dasht-e Nawar", en: "Dasht-e Nawar",
+image: "/poi-images/af-dasht-e-nawar-life-v2.webp"
+},
     description: { de: "Eine hoch gelegene Wüsten- und Seelandschaft, die den weltweit höchstgelegenen Brutplatz für Rosaflamingos bildet.", hu: "Magasan fekvő sivatagi és tavi táj, amely a rózsás flamingók világának legmagasabban fekvő költőhelye.", ro: "Un peisaj deșertic și lacustru la mare altitudine, care constituie cel mai înalt loc de reproducere din lume pentru flamingo roz.", en: "A high-altitude desert and lake landscape that forms the world's highest breeding ground for greater flamingos." },
     facts: {
       de: ["Liegt auf über 3000 Metern Höhe.", "Wichtiger Zwischenstopp für Wasservögel.", "Das Gebiet ist von Bergen umgeben.", "Beherbergt auch seltene Säugetiere."],
@@ -67,7 +73,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-HER",
     coords: [62.1500, 34.3300],
-    name: { de: "Safranfelder von Herat", hu: "Heráti sáfrányföldek", ro: "Câmpurile de șofran din Herat", en: "Herat Saffron Fields" },
+    name: { de: "Safranfelder von Herat", hu: "Heráti sáfrányföldek", ro: "Câmpurile de șofran din Herat", en: "Herat Saffron Fields",
+image: "/poi-images/af-safran-herat-life-v2.webp"
+},
     description: { de: "Herat ist das Zentrum des afghanischen Safrananbaus, wo die wertvollen roten Fäden von Hand geerntet werden und weltweit Preise gewinnen.", hu: "Herát az afgán sáfránytermesztés központja, ahol az értékes piros szálakat kézzel szüretelik, és világszerte díjakat nyernek.", ro: "Herat este centrul cultivării șofranului afgan, unde firele roșii prețioase sunt recoltate manual și câștigă premii internaționale.", en: "Herat is the center of Afghan saffron cultivation, where the precious red threads are hand-harvested and win awards worldwide." },
     facts: {
       de: ["Safran wird oft als rotes Gold bezeichnet.", "Bietet Arbeitsplätze für viele Frauen.", "Ersetzt teilweise den Mohnanbau.", "Der afghanische Safran gilt als einer der besten."],
@@ -87,7 +95,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-KAN",
     coords: [65.6500, 31.6300],
-    name: { de: "Granatapfelplantagen von Kandahar", hu: "Kandahári gránátalma-ültetvények", ro: "Livezile de rodii din Kandahar", en: "Kandahar Pomegranate Orchards" },
+    name: { de: "Granatapfelplantagen von Kandahar", hu: "Kandahári gránátalma-ültetvények", ro: "Livezile de rodii din Kandahar", en: "Kandahar Pomegranate Orchards",
+image: "/poi-images/af-granatapfel-kandahar-life-v2.webp"
+},
     description: { de: "Die üppigen Obstgärten entlang des Arghandab-Tals bringen einige der saftigsten und berühmtesten Granatäpfel Asiens hervor.", hu: "Az Arghandab-völgy buja gyümölcsösei Ázsia leglédúsabb és leghíresebb gránátalmáit termelik.", ro: "Livezile luxuriante de-a lungul văii Arghandab produc unele dintre cele mai suculente și faimoase rodii din Asia.", en: "The lush orchards along the Arghandab Valley produce some of the juiciest and most famous pomegranates in Asia." },
     facts: {
       de: ["Kandahar ist berühmt für seine großen Früchte.", "Die Ernte findet im Herbst statt.", "Granatäpfel sind ein wichtiges Exportgut.", "Sie wachsen in einem trockenen Klima."],
@@ -107,7 +117,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-BDG",
     coords: [63.1500, 34.9000],
-    name: { de: "Pistazienwälder von Badghis", hu: "Badghisz pisztáciaerdői", ro: "Pădurile de fistic din Badghis", en: "Badghis Pistachio Woodlands" },
+    name: { de: "Pistazienwälder von Badghis", hu: "Badghisz pisztáciaerdői", ro: "Pădurile de fistic din Badghis", en: "Badghis Pistachio Woodlands",
+image: "/poi-images/af-pistazien-badghis-life-v2.webp"
+},
     description: { de: "Diese natürlichen Waldgebiete im Nordwesten Afghanistans liefern wilde Pistazien, die eine wichtige Einkommensquelle für die lokale Bevölkerung sind.", hu: "Ezek az északnyugat-afganisztáni természetes erdők vadpisztáciát adnak, ami fontos jövedelemforrás a helyi lakosság számára.", ro: "Aceste păduri naturale din nord-vestul Afganistanului furnizează fistic sălbatic, care reprezintă o sursă importantă de venit pentru populația locală.", en: "These natural woodlands in northwestern Afghanistan provide wild pistachios, which are an important source of income for the local population." },
     facts: {
       de: ["Die Wälder haben unter Abholzung gelitten.", "Die Ernte ist oft ein Gemeinschaftsereignis.", "Wilde Pistazien haben ein starkes Aroma.", "Bemühungen zur Wiederaufforstung laufen."],
@@ -127,7 +139,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "park",
     parent: "AF-KAB",
     coords: [69.1190, 34.4650],
-    name: { de: "Darul-Aman-Park", hu: "Darul Aman Park", ro: "Parcul Darul Aman", en: "Darul Aman Park" },
+    name: { de: "Darul-Aman-Park", hu: "Darul Aman Park", ro: "Parcul Darul Aman", en: "Darul Aman Park",
+image: "/poi-images/af-darul-aman-park-life-v2.webp"
+},
     description: { de: "Ein weitläufiger öffentlicher Park rund um den frisch restaurierten Darul-Aman-Palast, der Familien einen ruhigen Rückzugsort bietet.", hu: "Egy tágas nyilvános park a frissen felújított Darul Aman Palota körül, amely nyugodt menedéket nyújt a családoknak.", ro: "Un parc public extins în jurul Palatului Darul Aman proaspăt restaurat, oferind un refugiu liniștit familiilor.", en: "A spacious public park surrounding the newly restored Darul Aman Palace, offering a peaceful retreat for families." },
     facts: {
       de: ["Der Palast wurde 2019 restauriert.", "Beliebter Ort für Picknicks.", "Von Alleen und Bäumen gesäumt.", "Symbol für den Wiederaufbau Kabuls."],
@@ -147,7 +161,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "AF-KAB",
     coords: [69.1730, 34.5200],
-    name: { de: "Kabul City Park", hu: "Kabul Városliget", ro: "Parcul Orașului Kabul", en: "Kabul City Park" },
+    name: { de: "Kabul City Park", hu: "Kabul Városliget", ro: "Parcul Orașului Kabul", en: "Kabul City Park",
+image: "/poi-images/af-kabul-city-park-life-v2.webp"
+},
     description: { de: "Einer der ersten modernen Vergnügungsparks in der Hauptstadt, ausgestattet mit Riesenrad und Karussells für Kinder.", hu: "A főváros egyik első modern vidámparkja, amely óriáskerékkel és körhintákkal várja a gyerekeket.", ro: "Unul dintre primele parcuri de distracții moderne din capitală, dotat cu o roată panoramică și carusele pentru copii.", en: "One of the first modern amusement parks in the capital, equipped with a Ferris wheel and carousels for children." },
     facts: {
       de: ["Zieht an Wochenenden viele Besucher an.", "Verfügt über bunte Beleuchtung bei Nacht.", "Bietet Fahrgeschäfte für alle Altersgruppen.", "Ein seltener Ort der Unbeschwertheit in Kabul."],
@@ -167,7 +183,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "AF-KAB",
     coords: [69.2300, 34.5100],
-    name: { de: "Habibullah-Zazi-Park", hu: "Habibullah Zazi Park", ro: "Parcul Habibullah Zazi", en: "Habibullah Zazi Park" },
+    name: { de: "Habibullah-Zazi-Park", hu: "Habibullah Zazi Park", ro: "Parcul Habibullah Zazi", en: "Habibullah Zazi Park",
+image: "/poi-images/af-habibullah-zazi-park-life-v2.webp"
+},
     description: { de: "Ein riesiger Freizeitkomplex auf den Hügeln im Osten Kabuls, der neben Grünflächen auch spektakuläre Fahrgeschäfte bietet.", hu: "Egy hatalmas szabadidőkomplexum Kabul keleti dombjain, amely zöldterületek mellett látványos vidámparki játékokat is kínál.", ro: "Un complex de agrement uriaș pe dealurile din estul Kabulului, care oferă spații verzi și atracții spectaculoase.", en: "A massive leisure complex on the hills in eastern Kabul, offering green spaces alongside spectacular amusement rides." },
     facts: {
       de: ["Einer der größten Parks des Landes.", "Bietet einen weiten Blick über die Stadt.", "Wurde von einem afghanischen Unternehmer erbaut.", "Besitzt eine eigene kleine Achterbahn."],
@@ -187,7 +205,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "park",
     parent: "AF-KAB",
     coords: [69.1700, 34.5320],
-    name: { de: "Shahr-e-Naw Park", hu: "Sahr-e-Naw Park", ro: "Parcul Shahr-e-Naw", en: "Shahr-e-Naw Park" },
+    name: { de: "Shahr-e-Naw Park", hu: "Sahr-e-Naw Park", ro: "Parcul Shahr-e-Naw", en: "Shahr-e-Naw Park",
+image: "/poi-images/af-shahr-e-naw-park-life-v2.webp"
+},
     description: { de: "Ein zentraler Stadtpark im gleichnamigen Geschäftsviertel von Kabul, der als grüner Treffpunkt für Einwohner dient.", hu: "Központi városi park Kabul azonos nevű üzleti negyedében, amely zöld találkozóhelyként szolgál a lakosok számára.", ro: "Un parc central în cartierul de afaceri omonim din Kabul, care servește drept punct de întâlnire verde pentru rezidenți.", en: "A central city park in the eponymous business district of Kabul, serving as a green meeting point for residents." },
     facts: {
       de: ["Liegt im Herzen des modernen Kabul.", "Beliebt bei Studenten und Familien.", "Umgeben von Cafés und Geschäften.", "Ein ruhiger Ort inmitten des Stadtverkehrs."],
@@ -207,7 +227,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-BAL",
     coords: [66.8900, 36.7500],
-    name: { de: "Melonenfelder von Balkh", hu: "Balkhi dinnyeföldek", ro: "Câmpurile de pepeni din Balkh", en: "Balkh Melon Fields" },
+    name: { de: "Melonenfelder von Balkh", hu: "Balkhi dinnyeföldek", ro: "Câmpurile de pepeni din Balkh", en: "Balkh Melon Fields",
+image: "/poi-images/af-melonen-balkh-life-v2.webp"
+},
     description: { de: "Die fruchtbaren Ebenen von Balkh bringen in den heißen Sommern eine riesige Vielfalt an süßen und saftigen Melonen hervor.", hu: "Balkh termékeny síkságai a forró nyarak során hatalmas választékban teremnek édes és szaftos dinnyéket.", ro: "Câmpiile fertile din Balkh produc o varietate uriașă de pepeni dulci și suculenți în timpul verilor fierbinți.", en: "The fertile plains of Balkh produce a huge variety of sweet and juicy melons during the hot summers." },
     facts: {
       de: ["Afghanistan hat dutzende Melonensorten.", "Melonen sind ein traditionelles Sommeressen.", "Werden auf den Basaren im ganzen Land verkauft.", "Die Bewässerung erfolgt durch Flusskanäle."],
@@ -228,7 +250,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-KDZ",
     coords: [68.8600, 36.7200],
-    name: { de: "Baumwollfelder von Kundus", hu: "Kunduzi pamutföldek", ro: "Câmpurile de bumbac din Kunduz", en: "Kunduz Cotton Fields" },
+    name: { de: "Baumwollfelder von Kundus", hu: "Kunduzi pamutföldek", ro: "Câmpurile de bumbac din Kunduz", en: "Kunduz Cotton Fields",
+image: "/poi-images/af-baumwoll-kundus-life-v2.webp"
+},
     description: { de: "Das Weiße Gold Nordafghanistans wird auf weiten Feldern in der Provinz Kundus angebaut und ist ein Eckpfeiler der lokalen Wirtschaft.", hu: "Észak-Afganisztán fehér aranyát Kunduz tartomány hatalmas mezőin termesztik, amely a helyi gazdaság alappillére.", ro: "Aurul alb din nordul Afganistanului este cultivat pe câmpuri întinse din provincia Kunduz și este un pilon al economiei locale.", en: "The white gold of northern Afghanistan is grown in vast fields in Kunduz province and is a cornerstone of the local economy." },
     facts: {
       de: ["Kundus ist das Zentrum der Baumwollproduktion.", "Wird in lokalen Fabriken verarbeitet.", "Die Ernte ist extrem arbeitsintensiv.", "Ein Großteil wird in Nachbarländer exportiert."],
@@ -248,7 +272,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-NAN",
     coords: [70.4500, 34.4300],
-    name: { de: "Zitrusplantagen von Dschalalabad", hu: "Dzsalálábádi citrusültetvények", ro: "Plantațiile de citrice din Jalalabad", en: "Jalalabad Citrus Orchards" },
+    name: { de: "Zitrusplantagen von Dschalalabad", hu: "Dzsalálábádi citrusültetvények", ro: "Plantațiile de citrice din Jalalabad", en: "Jalalabad Citrus Orchards",
+image: "/poi-images/af-zitrus-dschalalabad-life-v2.webp"
+},
     description: { de: "Dank des wärmeren, fast subtropischen Klimas im Osten des Landes gedeihen hier Zitronen, Orangen und andere Zitrusfrüchte.", hu: "Az ország keleti részének melegebb, szinte szubtrópusi éghajlatának köszönhetően itt citrom, narancs és más citrusfélék teremnek.", ro: "Datorită climatului mai cald, aproape subtropical din estul țării, aici prosperă lămâile, portocalele și alte citrice.", en: "Thanks to the warmer, almost subtropical climate in the east of the country, lemons, oranges, and other citrus fruits thrive here." },
     facts: {
       de: ["Dschalalabad ist die Winterhauptstadt.", "Bekannt für seine süßen Orangen.", "Die Ernte beginnt im späten Herbst.", "Die Plantagen sind oft von Zypressen umgeben."],
@@ -268,7 +294,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-BAM",
     coords: [67.8200, 34.8200],
-    name: { de: "Kartoffelfelder von Bamiyan", hu: "Bámijáni burgonyaföldek", ro: "Câmpurile de cartofi din Bamyan", en: "Bamyan Potato Fields" },
+    name: { de: "Kartoffelfelder von Bamiyan", hu: "Bámijáni burgonyaföldek", ro: "Câmpurile de cartofi din Bamyan", en: "Bamyan Potato Fields",
+image: "/poi-images/af-kartoffeln-bamiyan-life-v2.webp"
+},
     description: { de: "In den kühlen und hoch gelegenen Tälern von Bamiyan werden Kartoffeln angebaut, die das wichtigste landwirtschaftliche Produkt der Region darstellen.", hu: "Bámiján hűvös és magasan fekvő völgyeiben burgonyát termesztenek, amely a régió legfontosabb mezőgazdasági terméke.", ro: "În văile răcoroase și înalte din Bamyan se cultivă cartofi, reprezentând cel mai important produs agricol al regiunii.", en: "In the cool and high-altitude valleys of Bamyan, potatoes are grown, representing the region's most important agricultural product." },
     facts: {
       de: ["Bamiyan produziert über die Hälfte der afghanischen Kartoffeln.", "Das kühle Klima ist ideal für Knollenfrüchte.", "Wurden im 20. Jahrhundert weiträumig eingeführt.", "Es gibt lokale Kartoffelfestivals."],
@@ -288,7 +316,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AF-GHA",
     coords: [67.9200, 32.5300],
-    name: { de: "Ab-i-Istada", hu: "Ab-i-Isztada", ro: "Ab-i-Istada", en: "Ab-i-Istada" },
+    name: { de: "Ab-i-Istada", hu: "Ab-i-Isztada", ro: "Ab-i-Istada", en: "Ab-i-Istada",
+image: "/poi-images/af-ab-i-istada-life-v2.webp"
+},
     description: { de: "Ein flacher, salzhaltiger See in der Provinz Ghazni, der Tausende von Wasservögeln anzieht und eine faszinierende Naturkulisse bietet.", hu: "Sekély, sós vizű tó Ghazni tartományban, amely több ezer vízimadarat vonz, és lenyűgöző természeti látványt nyújt.", ro: "Un lac de mică adâncime, cu apă sărată în provincia Ghazni, care atrage mii de păsări de apă și oferă un peisaj natural fascinant.", en: "A shallow, saline lake in Ghazni province that attracts thousands of waterbirds and offers a fascinating natural backdrop." },
     facts: {
       de: ["Der See kann im Sommer stark schrumpfen.", "Wichtiger Brutplatz für Rosaflamingos.", "Teil des globalen Zugvogelnetzwerks.", "Das Wasser ist extrem alkalisch."],
@@ -308,7 +338,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AF-BAM",
     coords: [67.6300, 35.0300],
-    name: { de: "Ajar-Tal Naturschutzgebiet", hu: "Ajar-völgy Természetvédelmi Terület", ro: "Rezervația Naturală Valea Ajar", en: "Ajar Valley Nature Reserve" },
+    name: { de: "Ajar-Tal Naturschutzgebiet", hu: "Ajar-völgy Természetvédelmi Terület", ro: "Rezervația Naturală Valea Ajar", en: "Ajar Valley Nature Reserve",
+image: "/poi-images/af-ajar-tal-life-v2.webp"
+},
     description: { de: "Ein abgelegenes Flusstal im Hindukusch, das ehemals als königliches Jagdrevier diente und heute seltene Wildtiere wie den Steinbock schützt.", hu: "Félreeső folyóvölgy a Hindukusban, amely egykor királyi vadászterület volt, ma pedig olyan ritka vadállatokat véd, mint a kőszáli kecske.", ro: "O vale izolată din Hindu Kush, care a servit anterior ca domeniu regal de vânătoare și astăzi protejează animale sălbatice rare, cum ar fi ibexul.", en: "A remote river valley in the Hindu Kush that formerly served as a royal hunting reserve and today protects rare wildlife such as the ibex." },
     facts: {
       de: ["Wurde in den 1970er Jahren als Schutzgebiet vorgeschlagen.", "Bietet tiefe Schluchten und steile Klippen.", "Heimat von Wildschafen und Steinböcken.", "Ist aufgrund seiner Abgeschiedenheit unberührt."],
@@ -328,7 +360,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "AF-BDS",
     coords: [73.0000, 37.1500],
-    name: { de: "Großes Pamir Wildtierreservat", hu: "Nagy-Pamír Vadvédelmi Terület", ro: "Rezervația de Faună Sălbatică Pamirul Mare", en: "Big Pamir Wildlife Reserve" },
+    name: { de: "Großes Pamir Wildtierreservat", hu: "Nagy-Pamír Vadvédelmi Terület", ro: "Rezervația de Faună Sălbatică Pamirul Mare", en: "Big Pamir Wildlife Reserve",
+image: "/poi-images/af-grosses-pamir-life-v2.webp"
+},
     description: { de: "Ein hochalpines Ökosystem im Wakhan-Korridor, bekannt für seine unberührte Natur und die Beobachtung des seltenen Marco-Polo-Schafs.", hu: "Magasalpesi ökoszisztéma a Vahán-folyosón, amely érintetlen természetéről és a ritka Marco Polo juhokról ismert.", ro: "Un ecosistem alpin înalt în Coridorul Wakhan, cunoscut pentru natura sa curată și observarea rarei oi Marco Polo.", en: "A high alpine ecosystem in the Wakhan Corridor, known for its pristine nature and the observation of the rare Marco Polo sheep." },
     facts: {
       de: ["Eines der rauesten Klimas der Welt.", "Die Region ist kaum besiedelt.", "Schneeleoparden durchstreifen dieses Gebiet.", "Nur im kurzen Sommer zugänglich."],
@@ -348,7 +382,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "AF-BAL",
     coords: [67.1100, 36.7000],
-    name: { de: "Familienpark Mazar-e Sharif", hu: "Mazár-e Saríf Családi Park", ro: "Parcul Familial Mazar-i-Sharif", en: "Mazar-i-Sharif Family Park" },
+    name: { de: "Familienpark Mazar-e Sharif", hu: "Mazár-e Saríf Családi Park", ro: "Parcul Familial Mazar-i-Sharif", en: "Mazar-i-Sharif Family Park",
+image: "/poi-images/af-mazar-park-life-v2.webp"
+},
     description: { de: "Ein bunter und lebhafter Park im Zentrum von Mazar-e Sharif, der Familien einen Raum zum Spielen, Essen und Entspannen bietet.", hu: "Színes és nyüzsgő park Mazár-e Saríf központjában, amely teret ad a családoknak a játékra, étkezésre és pihenésre.", ro: "Un parc colorat și plin de viață în centrul Mazar-i-Sharif, oferind familiilor un spațiu pentru joacă, masă și relaxare.", en: "A colorful and lively park in the center of Mazar-i-Sharif, offering families a space to play, eat, and relax." },
     facts: {
       de: ["Liegt in der Nähe der Blauen Moschee.", "Besonders an Frühlingsfesten gut besucht.", "Verfügt über Spielplätze und kleine Fahrgeschäfte.", "Ein Symbol des städtischen Lebens im Norden."],
@@ -368,7 +404,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-SAM",
     coords: [68.0100, 36.2600],
-    name: { de: "Mandeln von Samangan", hu: "Szamangani mandulaültetvények", ro: "Livezile de migdali din Samangan", en: "Samangan Almond Orchards" },
+    name: { de: "Mandeln von Samangan", hu: "Szamangani mandulaültetvények", ro: "Livezile de migdali din Samangan", en: "Samangan Almond Orchards",
+image: "/poi-images/af-mandeln-samangan-life-v2.webp"
+},
     description: { de: "Die Provinz Samangan ist berühmt für ihre ertragreichen Mandelbaumplantagen, deren Nüsse landesweit als Delikatesse geschätzt werden.", hu: "Szamangan tartomány híres bőséges termést hozó mandulafa-ültetvényeiről, amelyek dióit országszerte csemegeként tartják számon.", ro: "Provincia Samangan este renumită pentru livezile sale de migdali foarte productive, ale căror nuci sunt apreciate ca o delicatesă la nivel național.", en: "Samangan province is famous for its highly productive almond tree orchards, whose nuts are appreciated as a delicacy nationwide." },
     facts: {
       de: ["Die Mandelblüte im Frühling ist spektakulär.", "Es gibt dutzende verschiedene Mandelsorten.", "Ein wichtiger Wirtschaftsfaktor für Aybak.", "Mandeln werden frisch und getrocknet gegessen."],
@@ -388,7 +426,9 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     type: "agriculture",
     parent: "AF-KHO",
     coords: [69.9000, 33.3300],
-    name: { de: "Pinienwälder von Chost", hu: "Hoszti fenyőerdők", ro: "Pădurile de pini din Khost", en: "Khost Pine Forests" },
+    name: { de: "Pinienwälder von Chost", hu: "Hoszti fenyőerdők", ro: "Pădurile de pini din Khost", en: "Khost Pine Forests",
+image: "/poi-images/af-pinien-chost-life-v2.webp"
+},
     description: { de: "Die bewaldeten Berge im Osten Afghanistans bringen wertvolle Pinienkerne hervor, die traditionell geerntet und geröstet werden.", hu: "Kelet-Afganisztán erdős hegyei értékes fenyőmagot teremnek, amelyet hagyományosan takarítanak be és pörkölnek.", ro: "Munții împăduriți din estul Afganistanului produc semințe de pin valoroase, care sunt recoltate și prăjite tradițional.", en: "The forested mountains in eastern Afghanistan produce valuable pine nuts, which are traditionally harvested and roasted." },
     facts: {
       de: ["Die Pinienkerne werden 'Jalghoza' genannt.", "Eine der wichtigsten Exportwaren der Region.", "Die Bäume wachsen in steilem Gelände.", "Die Ernte erfordert geschicktes Klettern."],

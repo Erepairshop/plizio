@@ -4,7 +4,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-warsaw-business-district-economic-v2",
     type: "landmark",
-    name: { de: "Warschauer Geschäftsviertel", hu: "Varsói üzleti negyed", ro: "Districtul de afaceri din Varșovia", en: "Warsaw Business District" },
+    name: { de: "Warschauer Geschäftsviertel", hu: "Varsói üzleti negyed", ro: "Districtul de afaceri din Varșovia", en: "Warsaw Business District",
+image: "/poi-images/poland-warsaw-business-district-economic-v2.webp"
+},
     coords: [21.001, 52.231],
     coordinates: { lat: 52.231, lng: 21.001 },
     description: {
@@ -35,7 +37,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-port-of-gdansk-economic-v2",
     type: "port",
-    name: { de: "Hafen von Danzig", hu: "Gdański kikötő", ro: "Portul Gdańsk", en: "Port of Gdańsk" },
+    name: { de: "Hafen von Danzig", hu: "Gdański kikötő", ro: "Portul Gdańsk", en: "Port of Gdańsk",
+image: "/poi-images/poland-port-of-gdansk-economic-v2.webp"
+},
     coords: [18.675, 54.394],
     coordinates: { lat: 54.394, lng: 18.675 },
     description: {
@@ -66,7 +70,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-belchatow-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Bełchatów", hu: "Bełchatówi erőmű", ro: "Centrala electrică Bełchatów", en: "Bełchatów Power Station" },
+    name: { de: "Kraftwerk Bełchatów", hu: "Bełchatówi erőmű", ro: "Centrala electrică Bełchatów", en: "Bełchatów Power Station",
+image: "/poi-images/poland-belchatow-power-station-economic-v2.webp"
+},
     coords: [19.332, 51.266],
     coordinates: { lat: 51.266, lng: 19.332 },
     description: {
@@ -97,7 +103,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-pkn-orlen-plock-economic-v2",
     type: "factory",
-    name: { de: "PKN Orlen Raffinerie Płock", hu: "PKN Orlen Płocki Finomító", ro: "Rafinăria PKN Orlen Płock", en: "PKN Orlen Płock Refinery" },
+    name: { de: "PKN Orlen Raffinerie Płock", hu: "PKN Orlen Płocki Finomító", ro: "Rafinăria PKN Orlen Płock", en: "PKN Orlen Płock Refinery",
+image: "/poi-images/poland-pkn-orlen-plock-economic-v2.webp"
+},
     coords: [19.688, 52.583],
     coordinates: { lat: 52.583, lng: 19.688 },
     description: {
@@ -129,7 +137,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-kghm-lubin-mine-economic-v2",
     type: "mine",
-    name: { de: "KGHM Kupfermine Lubin", hu: "KGHM Lubini rézbánya", ro: "Mina de cupru KGHM Lubin", en: "KGHM Lubin Copper Mine" },
+    name: { de: "KGHM Kupfermine Lubin", hu: "KGHM Lubini rézbánya", ro: "Mina de cupru KGHM Lubin", en: "KGHM Lubin Copper Mine",
+image: "/poi-images/poland-kghm-lubin-mine-economic-v2.webp"
+},
     coords: [16.191, 51.401],
     coordinates: { lat: 51.401, lng: 16.191 },
     description: {
@@ -160,7 +170,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-huta-katowice-economic-v2",
     type: "factory",
-    name: { de: "Stahlwerk Huta Katowice", hu: "Huta Katowice acélmű", ro: "Combinatul siderurgic Huta Katowice", en: "Huta Katowice Steelworks" },
+    name: { de: "Stahlwerk Huta Katowice", hu: "Huta Katowice acélmű", ro: "Combinatul siderurgic Huta Katowice", en: "Huta Katowice Steelworks",
+image: "/poi-images/poland-huta-katowice-economic-v2.webp"
+},
     coords: [19.271, 50.342],
     coordinates: { lat: 50.342, lng: 19.271 },
     description: {
@@ -191,7 +203,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-port-of-gdynia-economic-v2",
     type: "port",
-    name: { de: "Hafen von Gdingen", hu: "Gdyniai kikötő", ro: "Portul Gdynia", en: "Port of Gdynia" },
+    name: { de: "Hafen von Gdingen", hu: "Gdyniai kikötő", ro: "Portul Gdynia", en: "Port of Gdynia",
+image: "/poi-images/poland-port-of-gdynia-economic-v2.webp"
+},
     coords: [18.552, 54.531],
     coordinates: { lat: 54.531, lng: 18.552 },
     description: {
@@ -222,7 +236,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-port-of-szczecin-economic-v2",
     type: "port",
-    name: { de: "Hafen von Stettin", hu: "Szczecini kikötő", ro: "Portul Szczecin", en: "Port of Szczecin" },
+    name: { de: "Hafen von Stettin", hu: "Szczecini kikötő", ro: "Portul Szczecin", en: "Port of Szczecin",
+image: "/poi-images/poland-port-of-szczecin-economic-v2.webp"
+},
     coords: [14.591, 53.432],
     coordinates: { lat: 53.432, lng: 14.591 },
     description: {
@@ -253,7 +269,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-swinoujscie-lng-terminal-economic-v2",
     type: "industry",
-    name: { de: "LNG-Terminal Swinemünde", hu: "Świnoujściei LNG-terminál", ro: "Terminalul LNG Świnoujście", en: "Świnoujście LNG Terminal" },
+    name: { de: "LNG-Terminal Swinemünde", hu: "Świnoujściei LNG-terminál", ro: "Terminalul LNG Świnoujście", en: "Świnoujście LNG Terminal",
+image: "/poi-images/poland-swinoujscie-lng-terminal-economic-v2.webp"
+},
     coords: [14.295, 53.911],
     coordinates: { lat: 53.911, lng: 14.295 },
     description: {
@@ -284,7 +302,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-fiat-factory-tychy-economic-v2",
     type: "factory",
-    name: { de: "Fiat-Werk Tychy", hu: "Tychyi Fiat autógyár", ro: "Fabrica Fiat Tychy", en: "Fiat Factory Tychy" },
+    name: { de: "Fiat-Werk Tychy", hu: "Tychyi Fiat autógyár", ro: "Fabrica Fiat Tychy", en: "Fiat Factory Tychy",
+image: "/poi-images/poland-fiat-factory-tychy-economic-v2.webp"
+},
     coords: [19.042, 50.111],
     coordinates: { lat: 50.111, lng: 19.042 },
     description: {
@@ -315,7 +335,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-stellantis-factory-gliwice-economic-v2",
     type: "factory",
-    name: { de: "Stellantis-Werk Gleiwitz", hu: "Gliwicei Stellantis-gyár", ro: "Fabrica Stellantis Gliwice", en: "Stellantis Factory Gliwice" },
+    name: { de: "Stellantis-Werk Gleiwitz", hu: "Gliwicei Stellantis-gyár", ro: "Fabrica Stellantis Gliwice", en: "Stellantis Factory Gliwice",
+image: "/poi-images/poland-stellantis-factory-gliwice-economic-v2.webp"
+},
     coords: [18.611, 50.352],
     coordinates: { lat: 50.352, lng: 18.611 },
     description: {
@@ -347,7 +369,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-poznan-international-fair-economic-v2",
     type: "landmark",
-    name: { de: "Internationale Messe Posen", hu: "Poznańi Nemzetközi Vásár", ro: "Târgul Internațional Poznań", en: "Poznań International Fair" },
+    name: { de: "Internationale Messe Posen", hu: "Poznańi Nemzetközi Vásár", ro: "Târgul Internațional Poznań", en: "Poznań International Fair",
+image: "/poi-images/poland-poznan-international-fair-economic-v2.webp"
+},
     coords: [16.911, 52.404],
     coordinates: { lat: 52.404, lng: 16.911 },
     description: {
@@ -378,7 +402,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-wieliczka-salt-mine-economic-v2",
     type: "mine",
-    name: { de: "Salzbergwerk Wieliczka", hu: "Wieliczkai sóbánya", ro: "Salina Wieliczka", en: "Wieliczka Salt Mine" },
+    name: { de: "Salzbergwerk Wieliczka", hu: "Wieliczkai sóbánya", ro: "Salina Wieliczka", en: "Wieliczka Salt Mine",
+image: "/poi-images/poland-wieliczka-salt-mine-economic-v2.webp"
+},
     coords: [20.061, 49.983],
     coordinates: { lat: 49.983, lng: 20.061 },
     description: {
@@ -409,7 +435,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-pulawy-nitrogen-works-economic-v2",
     type: "factory",
-    name: { de: "Stickstoffwerke Puławy", hu: "Puławyi Nitrogénművek", ro: "Combinatul chimic Puławy", en: "Puławy Nitrogen Works" },
+    name: { de: "Stickstoffwerke Puławy", hu: "Puławyi Nitrogénművek", ro: "Combinatul chimic Puławy", en: "Puławy Nitrogen Works",
+image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp"
+},
     coords: [21.972, 51.451],
     coordinates: { lat: 51.451, lng: 21.972 },
     description: {
@@ -440,7 +468,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-police-chemical-plant-economic-v2",
     type: "factory",
-    name: { de: "Chemiewerk Police", hu: "Policei Vegyiművek", ro: "Combinatul chimic Police", en: "Police Chemical Plant" },
+    name: { de: "Chemiewerk Police", hu: "Policei Vegyiművek", ro: "Combinatul chimic Police", en: "Police Chemical Plant",
+image: "/poi-images/poland-police-chemical-plant-economic-v2.webp"
+},
     coords: [14.531, 53.562],
     coordinates: { lat: 53.562, lng: 14.531 },
     description: {
@@ -471,7 +501,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-stalowa-wola-ironworks-economic-v2",
     type: "factory",
-    name: { de: "Huta Stalowa Wola", hu: "Huta Stalowa Wola", ro: "Combinatul Stalowa Wola", en: "Stalowa Wola Ironworks" },
+    name: { de: "Huta Stalowa Wola", hu: "Huta Stalowa Wola", ro: "Combinatul Stalowa Wola", en: "Stalowa Wola Ironworks",
+image: "/poi-images/poland-stalowa-wola-ironworks-economic-v2.webp"
+},
     coords: [22.052, 50.551],
     coordinates: { lat: 50.551, lng: 22.052 },
     description: {
@@ -502,7 +534,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-mielec-aviation-valley-economic-v2",
     type: "industry",
-    name: { de: "Luftfahrtpark Mielec", hu: "Mieleci repülőgépgyár", ro: "Valea Aviației Mielec", en: "Mielec Aviation Valley" },
+    name: { de: "Luftfahrtpark Mielec", hu: "Mieleci repülőgépgyár", ro: "Valea Aviației Mielec", en: "Mielec Aviation Valley",
+image: "/poi-images/poland-mielec-aviation-valley-economic-v2.webp"
+},
     coords: [21.462, 50.291],
     coordinates: { lat: 50.291, lng: 21.462 },
     description: {
@@ -533,7 +567,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-bogdanka-coal-mine-economic-v2",
     type: "mine",
-    name: { de: "Steinkohlebergwerk Bogdanka", hu: "Bogdankai kőszénbánya", ro: "Mina de cărbune Bogdanka", en: "Bogdanka Coal Mine" },
+    name: { de: "Steinkohlebergwerk Bogdanka", hu: "Bogdankai kőszénbánya", ro: "Mina de cărbune Bogdanka", en: "Bogdanka Coal Mine",
+image: "/poi-images/poland-bogdanka-coal-mine-economic-v2.webp"
+},
     coords: [23.001, 51.331],
     coordinates: { lat: 51.331, lng: 23.001 },
     description: {
@@ -564,7 +600,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-turow-lignite-mine-economic-v2",
     type: "mine",
-    name: { de: "Tagebau Turów", hu: "Turówi külszíni fejtés", ro: "Mina de suprafață Turów", en: "Turów Lignite Mine" },
+    name: { de: "Tagebau Turów", hu: "Turówi külszíni fejtés", ro: "Mina de suprafață Turów", en: "Turów Lignite Mine",
+image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp"
+},
     coords: [14.921, 50.912],
     coordinates: { lat: 50.912, lng: 14.921 },
     description: {
@@ -595,7 +633,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-kozienice-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Kozienice", hu: "Kozienicei erőmű", ro: "Centrala electrică Kozienice", en: "Kozienice Power Station" },
+    name: { de: "Kraftwerk Kozienice", hu: "Kozienicei erőmű", ro: "Centrala electrică Kozienice", en: "Kozienice Power Station",
+image: "/poi-images/poland-kozienice-power-station-economic-v2.webp"
+},
     coords: [21.462, 51.661],
     coordinates: { lat: 51.661, lng: 21.462 },
     description: {
@@ -626,7 +666,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-tarnow-chemical-plant-economic-v2",
     type: "factory",
-    name: { de: "Chemiewerk Tarnów", hu: "Tarnówi Vegyiművek", ro: "Combinatul chimic Tarnów", en: "Tarnów Chemical Plant" },
+    name: { de: "Chemiewerk Tarnów", hu: "Tarnówi Vegyiművek", ro: "Combinatul chimic Tarnów", en: "Tarnów Chemical Plant",
+image: "/poi-images/poland-tarnow-chemical-plant-economic-v2.webp"
+},
     coords: [20.942, 50.011],
     coordinates: { lat: 50.011, lng: 20.942 },
     description: {
@@ -657,7 +699,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-jaworzno-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Jaworzno", hu: "Jaworznoi erőmű", ro: "Centrala electrică Jaworzno", en: "Jaworzno Power Station" },
+    name: { de: "Kraftwerk Jaworzno", hu: "Jaworznoi erőmű", ro: "Centrala electrică Jaworzno", en: "Jaworzno Power Station",
+image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp"
+},
     coords: [19.202, 50.211],
     coordinates: { lat: 50.211, lng: 19.202 },
     description: {
@@ -688,7 +732,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-legnica-copper-smelter-economic-v2",
     type: "factory",
-    name: { de: "Kupferhütte Legnica", hu: "Legnicai rézkohó", ro: "Topitoria de cupru Legnica", en: "Legnica Copper Smelter" },
+    name: { de: "Kupferhütte Legnica", hu: "Legnicai rézkohó", ro: "Topitoria de cupru Legnica", en: "Legnica Copper Smelter",
+image: "/poi-images/poland-legnica-copper-smelter-economic-v2.webp"
+},
     coords: [16.142, 51.211],
     coordinates: { lat: 51.211, lng: 16.142 },
     description: {
@@ -719,7 +765,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-elblag-turbine-factory-economic-v2",
     type: "factory",
-    name: { de: "Turbinenfabrik Elbing", hu: "Elblągi turbinagyár", ro: "Fabrica de turbine Elbląg", en: "Elbląg Turbine Factory" },
+    name: { de: "Turbinenfabrik Elbing", hu: "Elblągi turbinagyár", ro: "Fabrica de turbine Elbląg", en: "Elbląg Turbine Factory",
+image: "/poi-images/poland-elblag-turbine-factory-economic-v2.webp"
+},
     coords: [19.411, 54.162],
     coordinates: { lat: 54.162, lng: 19.411 },
     description: {
@@ -750,7 +798,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-kwidzyn-paper-mill-economic-v2",
     type: "factory",
-    name: { de: "Papierfabrik Kwidzyn", hu: "Kwidzyni papírgyár", ro: "Fabrica de hârtie Kwidzyn", en: "Kwidzyn Paper Mill" },
+    name: { de: "Papierfabrik Kwidzyn", hu: "Kwidzyni papírgyár", ro: "Fabrica de hârtie Kwidzyn", en: "Kwidzyn Paper Mill",
+image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp"
+},
     coords: [18.911, 53.731],
     coordinates: { lat: 53.731, lng: 18.911 },
     description: {
@@ -781,7 +831,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-opole-cement-works-economic-v2",
     type: "factory",
-    name: { de: "Zementwerk Opole", hu: "Opolei cementgyár", ro: "Fabrica de ciment Opole", en: "Opole Cement Works" },
+    name: { de: "Zementwerk Opole", hu: "Opolei cementgyár", ro: "Fabrica de ciment Opole", en: "Opole Cement Works",
+image: "/poi-images/poland-opole-cement-works-economic-v2.webp"
+},
     coords: [17.922, 50.672],
     coordinates: { lat: 50.672, lng: 17.922 },
     description: {
@@ -812,7 +864,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-starachowice-truck-plant-economic-v2",
     type: "factory",
-    name: { de: "Lkw-Werk Starachowice", hu: "Starachowicei teherautógyár", ro: "Fabrica de camioane Starachowice", en: "Starachowice Truck Plant" },
+    name: { de: "Lkw-Werk Starachowice", hu: "Starachowicei teherautógyár", ro: "Fabrica de camioane Starachowice", en: "Starachowice Truck Plant",
+image: "/poi-images/poland-starachowice-truck-plant-economic-v2.webp"
+},
     coords: [21.072, 51.051],
     coordinates: { lat: 51.051, lng: 21.072 },
     description: {
@@ -843,7 +897,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-bydgoszcz-nitro-chem-economic-v2",
     type: "factory",
-    name: { de: "Nitro-Chem Bromberg", hu: "Bydgoszczi Nitro-Chem", ro: "Nitro-Chem Bydgoszcz", en: "Bydgoszcz Nitro-Chem" },
+    name: { de: "Nitro-Chem Bromberg", hu: "Bydgoszczi Nitro-Chem", ro: "Nitro-Chem Bydgoszcz", en: "Bydgoszcz Nitro-Chem",
+image: "/poi-images/poland-bydgoszcz-nitro-chem-economic-v2.webp"
+},
     coords: [18.092, 53.071],
     coordinates: { lat: 53.071, lng: 18.092 },
     description: {
@@ -875,7 +931,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-walbrzych-economic-zone-economic-v2",
     type: "industry",
-    name: { de: "Sonderwirtschaftszone Waldenburg", hu: "Wałbrzychi különleges gazdasági övezet", ro: "Zona economică specială Wałbrzych", en: "Wałbrzych Special Economic Zone" },
+    name: { de: "Sonderwirtschaftszone Waldenburg", hu: "Wałbrzychi különleges gazdasági övezet", ro: "Zona economică specială Wałbrzych", en: "Wałbrzych Special Economic Zone",
+image: "/poi-images/poland-walbrzych-economic-zone-economic-v2.webp"
+},
     coords: [16.312, 50.801],
     coordinates: { lat: 50.801, lng: 16.312 },
     description: {
@@ -906,7 +964,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-lodz-manufaktura-economic-v2",
     type: "landmark",
-    name: { de: "Manufaktura Lodz", hu: "Łódźi Manufaktura", ro: "Manufaktura Łódź", en: "Manufaktura Łódź" },
+    name: { de: "Manufaktura Lodz", hu: "Łódźi Manufaktura", ro: "Manufaktura Łódź", en: "Manufaktura Łódź",
+image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp"
+},
     coords: [19.442, 51.772],
     coordinates: { lat: 51.772, lng: 19.442 },
     description: {
@@ -937,7 +997,9 @@ export const polandEconomicV2: POI[] = [
   {
     id: "poland-katowice-business-center-economic-v2",
     type: "city",
-    name: { de: "Geschäftszentrum Kattowitz", hu: "Katowicei üzleti központ", ro: "Centrul de afaceri Katowice", en: "Katowice Business Center" },
+    name: { de: "Geschäftszentrum Kattowitz", hu: "Katowicei üzleti központ", ro: "Centrul de afaceri Katowice", en: "Katowice Business Center",
+image: "/poi-images/poland-katowice-business-center-economic-v2.webp"
+},
     coords: [19.022, 50.261],
     coordinates: { lat: 50.261, lng: 19.022 },
     description: {

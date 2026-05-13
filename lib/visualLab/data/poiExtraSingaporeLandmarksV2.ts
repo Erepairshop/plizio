@@ -12,8 +12,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Merlion Park",
       hu: "Merlion Park",
       ro: "Parcul Merlion",
-      en: "Merlion Park"
-    },
+      en: "Merlion Park",
+image: "/poi-images/merlion-park-landmarks-v2.webp"
+},
     description: {
       de: "Der Merlion Park ist eine berühmte Sehenswürdigkeit in Singapur und Heimat der Merlion-Statue, einer mythischen Kreatur mit dem Kopf eines Löwen und dem Körper eines Fisches.",
       hu: "A Merlion Park Szingapúr híres látványossága, amely a Merlion szobornak, egy mitikus, oroszlánfejű és haltestű lénynek ad otthont.",
@@ -35,8 +36,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Gardens by the Bay",
       hu: "Gardens by the Bay",
       ro: "Grădinile din Golf",
-      en: "Gardens by the Bay"
-    },
+      en: "Gardens by the Bay",
+image: "/poi-images/gardens-by-the-bay-landmarks-v2.webp"
+},
     description: {
       de: "Ein futuristischer Park im Herzen Singapurs, bekannt für seine Supertree Grove, riesige baumähnliche Strukturen, die nachts leuchten.",
       hu: "Egy futurisztikus park Szingapúr szívében, amely a Supertree Grove-ról ismert, hatalmas, faszerű építményekről, amelyek éjjel világítanak.",
@@ -58,8 +60,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Marina Bay Sands",
       hu: "Marina Bay Sands",
       ro: "Marina Bay Sands",
-      en: "Marina Bay Sands"
-    },
+      en: "Marina Bay Sands",
+image: "/poi-images/marina-bay-sands-landmarks-v2.webp"
+},
     description: {
       de: "Ein integriertes Resort, das für seine einzigartige Architektur bekannt ist und drei Hoteltürme umfasst, die von einem riesigen SkyPark auf dem Dach gekrönt werden.",
       hu: "Egy integrált üdülőhely, amely egyedi építészetéről ismert, három szállodatoronnyal, amelyeket egy hatalmas tetőtéri SkyPark koronáz.",
@@ -81,8 +84,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Singapore Flyer",
       hu: "Singapore Flyer",
       ro: "Singapore Flyer",
-      en: "Singapore Flyer"
-    },
+      en: "Singapore Flyer",
+image: "/poi-images/singapore-flyer-landmarks-v2.webp"
+},
     description: {
       de: "Ein riesiges Riesenrad, das einen atemberaubenden Panoramablick auf die Skyline der Stadt und darüber hinaus bietet.",
       hu: "Egy hatalmas óriáskerék, amely lélegzetelállító panorámát nyújt a város látképére és azon túl.",
@@ -104,8 +108,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Helix-Brücke",
       hu: "Helix-híd",
       ro: "Podul Helix",
-      en: "Helix Bridge"
-    },
+      en: "Helix Bridge",
+image: "/poi-images/helix-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine Fußgängerbrücke, die für ihr von der DNA-Struktur inspiriertes Design bekannt ist und Marina Centre mit Marina South verbindet.",
       hu: "Egy gyalogos híd, amely a DNS-szerkezet ihlette tervezéséről ismert, és összeköti a Marina Centre-t a Marina South-szal.",
@@ -127,8 +132,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Sentosa Insel",
       hu: "Sentosa-sziget",
       ro: "Insula Sentosa",
-      en: "Sentosa Island"
-    },
+      en: "Sentosa Island",
+image: "/poi-images/sentosa-island-landmarks-v2.webp"
+},
     description: {
       de: "Eine Ferieninsel in Singapur mit zahlreichen Attraktionen, darunter Stränden, Themenparks wie den Universal Studios Singapore und dem S.E.A. Aquarium.",
       hu: "Egy üdülősziget Szingapúrban, számos látnivalóval, beleértve strandokat, vidámparkokat, mint a Universal Studios Singapore és a S.E.A. Akvárium.",
@@ -150,8 +156,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Nationalmuseum von Singapur",
       hu: "Szingapúri Nemzeti Múzeum",
       ro: "Muzeul Național din Singapore",
-      en: "National Museum of Singapore"
-    },
+      en: "National Museum of Singapore",
+image: "/poi-images/national-museum-of-singapore-landmarks-v2.webp"
+},
     description: {
       de: "Das älteste Museum in Singapur, das die Geschichte und Kultur des Landes durch immersive und interaktive Ausstellungen präsentiert.",
       hu: "Szingapúr legrégebbi múzeuma, amely az ország történelmét és kultúráját mutatja be magával ragadó és interaktív kiállításokon keresztül.",
@@ -173,8 +180,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Clarke Quay",
       hu: "Clarke Quay",
       ro: "Clarke Quay",
-      en: "Clarke Quay"
-    },
+      en: "Clarke Quay",
+image: "/poi-images/clarke-quay-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Kai am Flussufer, der in ein pulsierendes Zentrum für Nachtleben und Unterhaltung mit Restaurants, Bars und Clubs umgewandelt wurde.",
       hu: "Egy történelmi folyóparti rakpart, amelyet pezsgő éjszakai élet és szórakoztató központtá alakítottak át éttermekkel, bárokkal és klubokkal.",
@@ -196,8 +204,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Jewel Changi Airport",
       hu: "Jewel Changi Repülőtér",
       ro: "Aeroportul Jewel Changi",
-      en: "Jewel Changi Airport"
-    },
+      en: "Jewel Changi Airport",
+image: "/poi-images/jewel-changi-airport-landmarks-v2.webp"
+},
     description: {
       de: "Ein Natur-Themen-Unterhaltungs- und Einzelhandelskomplex am Flughafen Changi, der für den Rain Vortex, den höchsten Indoor-Wasserfall der Welt, bekannt ist.",
       hu: "Egy természet témájú szórakoztató és kiskereskedelmi komplexum a Changi repülőtéren, amely a Rain Vortexről, a világ legmagasabb beltéri vízeséséről híres.",
@@ -219,8 +228,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Sultan-Moschee",
       hu: "Szultán-mecset",
       ro: "Moscheea Sultan",
-      en: "Sultan Mosque"
-    },
+      en: "Sultan Mosque",
+image: "/poi-images/sultan-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine prominente Moschee im historischen Viertel Kampong Glam, bekannt für ihre massive goldene Kuppel und ihre beeindruckende Architektur.",
       hu: "Egy kiemelkedő mecset a történelmi Kampong Glam negyedben, amely masszív aranykupolájáról és lenyűgöző építészetéről ismert.",
@@ -242,8 +252,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Esplanade – Theatres on the Bay",
       hu: "Esplanade – Theatres on the Bay",
       ro: "Esplanade – Teatrele din Golf",
-      en: "Esplanade – Theatres on the Bay"
-    },
+      en: "Esplanade – Theatres on the Bay",
+image: "/poi-images/esplanade-theatres-on-the-bay-landmarks-v2.webp"
+},
     description: {
       de: "Ein Zentrum für darstellende Künste am Wasser, das wegen seiner einzigartigen stacheligen Dachkonstruktion, die der Durian-Frucht ähnelt, den Spitznamen 'Die Durian' trägt.",
       hu: "Egy vízparti előadóművészeti központ, amelyet egyedi, tüskés tetőszerkezete miatt, amely a durián gyümölcsre emlékeztet, 'A Durián'-nak becéznek.",
@@ -265,8 +276,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Lau Pa Sat",
       hu: "Lau Pa Sat",
       ro: "Lau Pa Sat",
-      en: "Lau Pa Sat"
-    },
+      en: "Lau Pa Sat",
+image: "/poi-images/lau-pa-sat-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude im Herzen des Finanzviertels, das in ein beliebtes Hawker-Zentrum umgewandelt wurde, das eine Vielzahl lokaler Gerichte anbietet.",
       hu: "Egy történelmi épület a pénzügyi negyed szívében, amelyet népszerű ételudvarrá alakítottak át, ahol számos helyi ételt kínálnak.",
@@ -288,8 +300,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "ArtScience Museum",
       hu: "ArtScience Múzeum",
       ro: "Muzeul ArtScience",
-      en: "ArtScience Museum"
-    },
+      en: "ArtScience Museum",
+image: "/poi-images/artscience-museum-landmarks-v2.webp"
+},
     description: {
       de: "Ein Museum, das Kunst, Wissenschaft, Kultur und Technologie erforscht. Sein ikonisches Gebäude ähnelt einer Lotusblume.",
       hu: "Egy múzeum, amely a művészet, a tudomány, a kultúra és a technológia metszéspontját kutatja. Ikonikus épülete egy lótuszvirágra emlékeztet.",
@@ -311,8 +324,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Old Parliament House",
       hu: "Régi Parlament",
       ro: "Vechea Casă a Parlamentului",
-      en: "Old Parliament House"
-    },
+      en: "Old Parliament House",
+image: "/poi-images/old-parliament-house-landmarks-v2.webp"
+},
     description: {
       de: "Das älteste erhaltene Regierungsgebäude in Singapur, das heute als The Arts House, ein Zentrum für darstellende Künste, dient.",
       hu: "Szingapúr legrégebbi fennmaradt kormányzati épülete, amely ma The Arts House-ként, egy előadóművészeti központként működik.",
@@ -334,8 +348,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Victoria Theatre and Concert Hall",
       hu: "Victoria Színház és Koncertterem",
       ro: "Teatrul și Sala de Concerte Victoria",
-      en: "Victoria Theatre and Concert Hall"
-    },
+      en: "Victoria Theatre and Concert Hall",
+image: "/poi-images/victoria-theatre-and-concert-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein Komplex aus zwei Gebäuden, der aus einem Theater und einer Konzerthalle besteht und durch einen markanten Glockenturm verbunden ist. Ein wichtiges Zentrum für die darstellenden Künste in Singapur.",
       hu: "Egy két épületből álló komplexum, amely egy színházból és egy koncertteremből áll, amelyeket egy jellegzetes óratorony köt össze. Szingapúr egyik fontos előadóművészeti központja.",
@@ -357,8 +372,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Raffles Hotel",
       hu: "Raffles Hotel",
       ro: "Hotel Raffles",
-      en: "Raffles Hotel"
-    },
+      en: "Raffles Hotel",
+image: "/poi-images/raffles-hotel-landmarks-v2.webp"
+},
     description: {
       de: "Ein ikonisches Kolonialhotel, das für seinen luxuriösen Service, seine historische Bedeutung und als Geburtsort des Singapore Sling Cocktails bekannt ist.",
       hu: "Egy ikonikus gyarmati szálloda, amely luxus szolgáltatásairól, történelmi jelentőségéről és a Singapore Sling koktél szülőhelyeként ismert.",
@@ -380,8 +396,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Tiong Bahru Markt",
       hu: "Tiong Bahru piac",
       ro: "Piața Tiong Bahru",
-      en: "Tiong Bahru Market"
-    },
+      en: "Tiong Bahru Market",
+image: "/poi-images/tiong-bahru-market-landmarks-v2.webp"
+},
     description: {
       de: "Einer der ältesten und beliebtesten Märkte Singapurs, der einen Nassmarkt und ein Hawker-Zentrum beherbergt und eine große Auswahl an lokalen Köstlichkeiten bietet.",
       hu: "Szingapúr egyik legrégebbi és legnépszerűbb piaca, amely egy nedves piacnak és egy ételudvarnak ad otthont, ahol a helyi finomságok széles választékát kínálják.",
@@ -403,8 +420,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Southern Ridges",
       hu: "Southern Ridges",
       ro: "Crestele Sudice",
-      en: "The Southern Ridges"
-    },
+      en: "The Southern Ridges",
+image: "/poi-images/southern-ridges-landmarks-v2.webp"
+},
     description: {
       de: "Ein 10 Kilometer langer offener Raum, der mehrere Parks entlang des südlichen Bergrückens von Singapur verbindet und Wanderwege und atemberaubende Ausblicke bietet.",
       hu: "Egy 10 kilométeres nyílt terület, amely Szingapúr déli gerince mentén több parkot köt össze, sétautakat és lenyűgöző kilátást kínálva.",
@@ -426,8 +444,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Botanischer Garten Singapur",
       hu: "Szingapúri Botanikus Kert",
       ro: "Grădina Botanică din Singapore",
-      en: "Singapore Botanic Gardens"
-    },
+      en: "Singapore Botanic Gardens",
+image: "/poi-images/singapore-botanic-gardens-landmarks-v2.webp"
+},
     description: {
       de: "Ein 160 Jahre alter tropischer Garten im Herzen von Singapur, der als erstes und einziges tropisches botanisches UNESCO-Weltkulturerbe des Landes anerkannt ist.",
       hu: "Egy 160 éves trópusi kert Szingapúr szívében, amelyet az ország első és egyetlen trópusi botanikus UNESCO Világörökségi helyszíneként ismernek el.",
@@ -449,8 +468,9 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
       de: "Zivil-Kriegsdenkmal",
       hu: "Polgári Háborús Emlékmű",
       ro: "Memorialul de Război Civil",
-      en: "Civilian War Memorial"
-    },
+      en: "Civilian War Memorial",
+image: "/poi-images/civilian-war-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal, das den Zivilisten gewidmet ist, die während der japanischen Besetzung Singapurs im Zweiten Weltkrieg gestorben sind.",
       hu: "Egy emlékmű, amelyet a második világháború alatti japán megszállás során elhunyt civileknek szenteltek.",

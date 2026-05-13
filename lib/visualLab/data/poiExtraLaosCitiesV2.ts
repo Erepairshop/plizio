@@ -10,8 +10,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Vientiane",
       hu: "Vientián",
       ro: "Vientiane",
-      en: "Vientiane"
-    },
+      en: "Vientiane",
+image: "/poi-images/vientiane-cities-v2.webp"
+},
     description: {
       de: "Vientiane ist die Hauptstadt von Laos und liegt am Fluss Mekong. Sie ist bekannt für ihre französisch-koloniale Architektur und buddhistische Tempel.",
       hu: "Vientián Laosz fővárosa, amely a Mekong folyó partján fekszik. Híres a francia gyarmati építészetéről és buddhista templomairól.",
@@ -85,8 +86,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Luang Prabang",
       hu: "Luangprabang",
       ro: "Luang Prabang",
-      en: "Luang Prabang"
-    },
+      en: "Luang Prabang",
+image: "/poi-images/luang-prabang-cities-v2.webp"
+},
     description: {
       de: "Luang Prabang ist eine historische Stadt im Norden von Laos. Die Altstadt gehört zum UNESCO-Weltkulturerbe und bietet zahlreiche Tempelanlagen.",
       hu: "Luangprabang egy történelmi város Észak-Laoszban. Az óváros az UNESCO Világörökség része, és számos templommal büszkélkedhet.",
@@ -160,8 +162,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Pakse",
       hu: "Pakse",
       ro: "Pakse",
-      en: "Pakse"
-    },
+      en: "Pakse",
+image: "/poi-images/pakse-cities-v2.webp"
+},
     description: {
       de: "Pakse ist die Hauptstadt der Provinz Champasak und ein wichtiges Handelszentrum. Sie wurde 1905 von den Franzosen gegründet.",
       hu: "Pakse Champasak tartomány fővárosa és egy fontos kereskedelmi központ. A franciák alapították 1905-ben.",
@@ -235,8 +238,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Savannakhet",
       hu: "Savannakhet",
       ro: "Savannakhet",
-      en: "Savannakhet"
-    },
+      en: "Savannakhet",
+image: "/poi-images/savannakhet-cities-v2.webp"
+},
     description: {
       de: "Savannakhet, auch Kaysone Phomvihane genannt, ist die zweitgrößte Stadt in Laos. Sie ist bekannt für ihre historische Architektur und das Savan-Vegas Casino.",
       hu: "Savannakhet, más néven Kaysone Phomvihane, Laosz második legnagyobb városa. Történelmi építészetéről és a Savan-Vegas kaszinóról ismert.",
@@ -310,8 +314,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Thakhek",
       hu: "Thakhek",
       ro: "Thakhek",
-      en: "Thakhek"
-    },
+      en: "Thakhek",
+image: "/poi-images/thakhek-cities-v2.webp"
+},
     description: {
       de: "Thakhek liegt am Mekong gegenüber der thailändischen Stadt Nakhon Phanom. Die Stadt ist ein Ausgangspunkt für Höhlenerkundungen.",
       hu: "Thakhek a Mekong partján fekszik, a thaiföldi Nakhon Phanom várossal szemben. A város kiindulópont a barlangi túrákhoz.",
@@ -385,8 +390,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Vang Vieng",
       hu: "Vang Vieng",
       ro: "Vang Vieng",
-      en: "Vang Vieng"
-    },
+      en: "Vang Vieng",
+image: "/poi-images/vang-vieng-cities-v2.webp"
+},
     description: {
       de: "Vang Vieng ist eine Kleinstadt nördlich von Vientiane. Sie ist umgeben von beeindruckenden Karstbergen und ein beliebtes Ziel für Rucksacktouristen.",
       hu: "Vang Vieng egy kisváros Vientiántól északra. Lenyűgöző karszthegyek veszik körül, és népszerű célpont a hátizsákos turisták körében.",
@@ -460,8 +466,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Phonsavan",
       hu: "Phonsavan",
       ro: "Phonsavan",
-      en: "Phonsavan"
-    },
+      en: "Phonsavan",
+image: "/poi-images/phonsavan-cities-v2.webp"
+},
     description: {
       de: "Phonsavan ist die Hauptstadt der Provinz Xieng Khouang. Die Stadt ist berühmt für die nahegelegene Ebene der Tonkrüge.",
       hu: "Phonsavan Xieng Khouang tartomány fővárosa. A város híres a közeli Kőedény-síkságról.",
@@ -535,8 +542,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Xam Neua",
       hu: "Xam Neua",
       ro: "Xam Neua",
-      en: "Xam Neua"
-    },
+      en: "Xam Neua",
+image: "/poi-images/xam-neua-cities-v2.webp"
+},
     description: {
       de: "Xam Neua ist eine der am wenigsten besuchten Provinzhauptstädte in Laos. Sie liegt in einem malerischen Tal in der Provinz Houaphanh.",
       hu: "Xam Neua az egyik legkevésbé látogatott tartományi főváros Laoszban. Egy festői völgyben fekszik Houaphanh tartományban.",
@@ -610,8 +618,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Luang Namtha",
       hu: "Luang Namtha",
       ro: "Luang Namtha",
-      en: "Luang Namtha"
-    },
+      en: "Luang Namtha",
+image: "/poi-images/luang-namtha-cities-v2.webp"
+},
     description: {
       de: "Luang Namtha ist ein wichtiges Zentrum für Ökotourismus in Laos. Von hier aus starten viele Trekkingtouren in den umliegenden Nationalpark.",
       hu: "Luang Namtha az ökoturizmus egyik fontos központja Laoszban. Innen számos túra indul a környező nemzeti parkba.",
@@ -685,8 +694,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Huay Xai",
       hu: "Huay Xai",
       ro: "Huay Xai",
-      en: "Huay Xai"
-    },
+      en: "Huay Xai",
+image: "/poi-images/huay-xai-cities-v2.webp"
+},
     description: {
       de: "Huay Xai liegt am Ufer des Mekong und ist ein wichtiger Grenzübergang nach Thailand. Die Stadt ist bekannt für die Gibbon Experience.",
       hu: "Huay Xai a Mekong partján fekszik, és fontos határátkelőhely Thaiföld felé. A város a Gibbon Experience túrákról ismert.",
@@ -760,8 +770,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Muang Xay",
       hu: "Muang Xay",
       ro: "Muang Xay",
-      en: "Muang Xay"
-    },
+      en: "Muang Xay",
+image: "/poi-images/muang-xay-cities-v2.webp"
+},
     description: {
       de: "Muang Xay ist das wichtigste Verkehrsdrehkreuz im Norden von Laos. Die Stadt wächst schnell durch Investitionen aus dem benachbarten China.",
       hu: "Muang Xay Észak-Laosz legfontosabb közlekedési csomópontja. A város gyorsan növekszik a szomszédos Kínából érkező befektetéseknek köszönhetően.",
@@ -835,8 +846,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Sainyabuli",
       hu: "Sainyabuli",
       ro: "Sainyabuli",
-      en: "Sainyabuli"
-    },
+      en: "Sainyabuli",
+image: "/poi-images/sainyabuli-cities-v2.webp"
+},
     description: {
       de: "Sainyabuli ist die Hauptstadt der gleichnamigen Provinz. Sie ist besonders bekannt für das jährliche Elefantenfestival.",
       hu: "Sainyabuli az azonos nevű tartomány fővárosa. Különösen ismert az évente megrendezett elefántfesztiváljáról.",
@@ -910,8 +922,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Pakxan",
       hu: "Pakxan",
       ro: "Pakxan",
-      en: "Pakxan"
-    },
+      en: "Pakxan",
+image: "/poi-images/pakxan-cities-v2.webp"
+},
     description: {
       de: "Pakxan ist die Hauptstadt der Provinz Bolikhamsai. Die Stadt liegt an der Mündung des Nam San in den Mekong.",
       hu: "Pakxan Bolikhamsai tartomány fővárosa. A város a Nam San és a Mekong folyók összefolyásánál fekszik.",
@@ -985,8 +998,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Attapeu",
       hu: "Attapeu",
       ro: "Attapeu",
-      en: "Attapeu"
-    },
+      en: "Attapeu",
+image: "/poi-images/attapeu-cities-v2.webp"
+},
     description: {
       de: "Attapeu, auch Samakkhixay genannt, liegt im Südosten von Laos. Die Region ist reich an Holz und Bodenschätzen.",
       hu: "Attapeu, más néven Samakkhixay, Délkelet-Laoszban található. A régió gazdag faanyagban és ásványi kincsekben.",
@@ -1060,8 +1074,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Salavan",
       hu: "Salavan",
       ro: "Salavan",
-      en: "Salavan"
-    },
+      en: "Salavan",
+image: "/poi-images/salavan-cities-v2.webp"
+},
     description: {
       de: "Salavan ist eine Provinzstadt im Süden von Laos. Die Stadt wurde während des Vietnamkriegs fast vollständig zerstört.",
       hu: "Salavan egy tartományi város Dél-Laoszban. A várost a vietnámi háború alatt szinte teljesen elpusztították.",
@@ -1136,8 +1151,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Phongsaly",
       hu: "Phongsaly",
       ro: "Phongsaly",
-      en: "Phongsaly"
-    },
+      en: "Phongsaly",
+image: "/poi-images/phongsaly-cities-v2.webp"
+},
     description: {
       de: "Phongsaly ist die nördlichste Provinzhauptstadt in Laos. Sie liegt auf rund 1.400 Metern Höhe und hat ein kühleres Klima.",
       hu: "Phongsaly Laosz legészakibb tartományi fővárosa. Körülbelül 1400 méteres magasságban fekszik, és hűvösebb az éghajlata.",
@@ -1211,8 +1227,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Sekong",
       hu: "Sekong",
       ro: "Sekong",
-      en: "Sekong"
-    },
+      en: "Sekong",
+image: "/poi-images/sekong-cities-v2.webp"
+},
     description: {
       de: "Sekong wurde 1984 als Provinzhauptstadt gegründet. Sie ist eine der kleinsten und ruhigsten Städte in Laos.",
       hu: "Sekongot 1984-ben alapították tartományi fővárosként. Ez Laosz egyik legkisebb és legcsendesebb városa.",
@@ -1287,8 +1304,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Xaisomboun",
       hu: "Xaisomboun",
       ro: "Xaisomboun",
-      en: "Xaisomboun"
-    },
+      en: "Xaisomboun",
+image: "/poi-images/xaisomboun-cities-v2.webp"
+},
     description: {
       de: "Xaisomboun, auch als Anouvong bekannt, ist die Hauptstadt der jüngsten Provinz von Laos. Die Berglandschaft ist wild und ursprünglich.",
       hu: "Xaisomboun, más néven Anouvong, Laosz legfiatalabb tartományának fővárosa. A hegyvidéki táj vad és érintetlen.",
@@ -1362,8 +1380,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Phonhong",
       hu: "Phonhong",
       ro: "Phonhong",
-      en: "Phonhong"
-    },
+      en: "Phonhong",
+image: "/poi-images/phonhong-cities-v2.webp"
+},
     description: {
       de: "Phonhong ist der Verwaltungssitz der Provinz Vientiane. Die Stadt liegt an einer wichtigen Nord-Süd-Verkehrsachse.",
       hu: "Phonhong Vientián tartomány közigazgatási központja. A város egy fontos észak-déli közlekedési tengelyen fekszik.",
@@ -1437,8 +1456,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Kasi",
       hu: "Kasi",
       ro: "Kasi",
-      en: "Kasi"
-    },
+      en: "Kasi",
+image: "/poi-images/kasi-cities-v2.webp"
+},
     description: {
       de: "Kasi ist eine Kleinstadt an der Route 13 zwischen Vang Vieng und Luang Prabang. Sie bietet spektakuläre Ausblicke auf die Berge.",
       hu: "Kasi egy kisváros a 13-as úton Vang Vieng és Luangprabang között. Lenyűgöző kilátást nyújt a hegyekre.",
@@ -1512,8 +1532,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Champasak",
       hu: "Champasak",
       ro: "Champasak",
-      en: "Champasak"
-    },
+      en: "Champasak",
+image: "/poi-images/champasak-cities-v2.webp"
+},
     description: {
       de: "Champasak ist eine historische Stadt im Süden von Laos. Sie war einst das Zentrum eines Königreichs und ist für den Tempel Vat Phou bekannt.",
       hu: "Champasak egy történelmi város Dél-Laoszban. Egykor egy királyság központja volt, és a Vat Phou templomról ismert.",
@@ -1587,8 +1608,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Pak Lay",
       hu: "Pak Lay",
       ro: "Pak Lay",
-      en: "Pak Lay"
-    },
+      en: "Pak Lay",
+image: "/poi-images/pak-lay-cities-v2.webp"
+},
     description: {
       de: "Pak Lay ist eine Stadt am Mekong in der Provinz Sainyabuli. Sie hat eine gut erhaltene französische Kolonialarchitektur.",
       hu: "Pak Lay egy város a Mekong mentén, Sainyabuli tartományban. Jól megőrzött francia gyarmati építészettel rendelkezik.",
@@ -1662,8 +1684,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Seno",
       hu: "Seno",
       ro: "Seno",
-      en: "Seno"
-    },
+      en: "Seno",
+image: "/poi-images/seno-cities-v2.webp"
+},
     description: {
       de: "Seno ist ein wichtiger Verkehrsknotenpunkt in der Provinz Savannakhet. Die Stadt ist für ihre Militärbasis und Grillhähnchen bekannt.",
       hu: "Seno egy fontos közlekedési csomópont Savannakhet tartományban. A város a katonai bázisáról és a grillcsirkéjéről ismert.",
@@ -1737,8 +1760,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Muang Long",
       hu: "Muang Long",
       ro: "Muang Long",
-      en: "Muang Long"
-    },
+      en: "Muang Long",
+image: "/poi-images/muang-long-cities-v2.webp"
+},
     description: {
       de: "Muang Long ist eine kleine Stadt im Nordwesten von Laos, nahe der Grenze zu Myanmar. Die Region ist von steilen Bergen und Dschungel geprägt.",
       hu: "Muang Long egy kisváros Északnyugat-Laoszban, a mianmari határ közelében. A régiót meredek hegyek és dzsungel jellemzi.",
@@ -1812,8 +1836,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Boun Neua",
       hu: "Boun Neua",
       ro: "Boun Neua",
-      en: "Boun Neua"
-    },
+      en: "Boun Neua",
+image: "/poi-images/boun-neua-cities-v2.webp"
+},
     description: {
       de: "Boun Neua liegt in der Provinz Phongsaly und ist ein wichtiges Handelszentrum für lokale Bergvölker. Die Umgebung ist stark bewaldet.",
       hu: "Boun Neua Phongsaly tartományban fekszik, és fontos kereskedelmi központ a helyi hegyi népek számára. A környék erősen erdős.",
@@ -1888,8 +1913,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Muang Khong",
       hu: "Muang Khong",
       ro: "Muang Khong",
-      en: "Muang Khong"
-    },
+      en: "Muang Khong",
+image: "/poi-images/muang-khong-cities-v2.webp"
+},
     description: {
       de: "Muang Khong ist der Hauptort der Insel Don Khong im Gebiet der 4000 Inseln. Die Stadt hat eine ruhige, entspannte Atmosphäre.",
       hu: "Muang Khong a Don Khong sziget központja a 4000 sziget vidékén. A város nyugodt, laza légkörrel rendelkezik.",
@@ -1963,8 +1989,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Sepon",
       hu: "Sepon",
       ro: "Sepon",
-      en: "Sepon"
-    },
+      en: "Sepon",
+image: "/poi-images/sepon-cities-v2.webp"
+},
     description: {
       de: "Sepon war während des Vietnamkriegs stark umkämpft. Heute ist die Region für den Gold- und Kupferabbau bekannt.",
       hu: "Sepon a vietnámi háború alatt heves harcok színtere volt. Ma a régió arany- és rézbányászatáról ismert.",
@@ -2038,8 +2065,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Muang Sing",
       hu: "Muang Sing",
       ro: "Muang Sing",
-      en: "Muang Sing"
-    },
+      en: "Muang Sing",
+image: "/poi-images/muang-sing-cities-v2.webp"
+},
     description: {
       de: "Muang Sing ist eine historische Stadt nahe der chinesischen Grenze. Sie war ein Zentrum für den Opiumhandel und ist heute für ihre Märkte bekannt.",
       hu: "Muang Sing egy történelmi város a kínai határ közelében. Korábban az ópiumkereskedelem központja volt, ma pedig a piacairól ismert.",
@@ -2113,8 +2141,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Nong Khiaw",
       hu: "Nong Khiaw",
       ro: "Nong Khiaw",
-      en: "Nong Khiaw"
-    },
+      en: "Nong Khiaw",
+image: "/poi-images/nong-khiaw-cities-v2.webp"
+},
     description: {
       de: "Nong Khiaw liegt malerisch am Fluss Nam Ou, umgeben von Kalksteinfelsen. Es ist ein beliebtes Ziel für Outdoor-Aktivitäten.",
       hu: "Nong Khiaw festői környezetben fekszik a Nam Ou folyó partján, mészkősziklák ölelésében. Népszerű szabadtéri tevékenységek célpontja.",
@@ -2188,8 +2217,9 @@ export const poiExtraLaosCitiesV2: POI[] = [
       de: "Viengxay",
       hu: "Viengxay",
       ro: "Viengxay",
-      en: "Viengxay"
-    },
+      en: "Viengxay",
+image: "/poi-images/viengxay-cities-v2.webp"
+},
     description: {
       de: "Viengxay ist berühmt für seine Karsthöhlen, die während des Vietnamkriegs als Hauptquartier der Pathet Lao dienten.",
       hu: "Viengxay híres a karsztbarlangjairól, amelyek a Pathet Lao főhadiszállásaként szolgáltak a vietnámi háború alatt.",

@@ -6,7 +6,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-01",
     coords: [46.737, 24.664],
-    name: { de: "König-Abdullah-Park", hu: "Abdullah Király Park", ro: "Parcul Regele Abdullah", en: "King Abdullah Park" },
+    name: { de: "König-Abdullah-Park", hu: "Abdullah Király Park", ro: "Parcul Regele Abdullah", en: "King Abdullah Park",
+image: "/poi-images/sa-king-abdullah-park-life-v2.webp"
+},
     description: { de: "Ein großer öffentlicher Park in Riad mit beleuchteten tanzenden Wasserfontänen und breiten Wegen.", hu: "Egy nagy nyilvános park Rijádban kivilágított zenélő szökőkutakkal és széles sétányokkal.", ro: "Un mare parc public în Riad, cu fântâni arteziene iluminate și alei largi.", en: "A large public park in Riyadh featuring illuminated dancing water fountains and wide walkways." },
     facts: {
       de: ["Wurde 2013 eröffnet.", "Verfügt über einen 12 Meter breiten Fußgängerweg.", "Bietet regelmäßige Licht- und Wassershows."],
@@ -19,7 +21,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-01",
     coords: [46.711, 24.627],
-    name: { de: "Salam-Park", hu: "Szalám Park", ro: "Parcul Salam", en: "Salam Park" },
+    name: { de: "Salam-Park", hu: "Szalám Park", ro: "Parcul Salam", en: "Salam Park",
+image: "/poi-images/sa-salam-park-life-v2.webp"
+},
     description: { de: "Eine grüne Oase im Herzen von Riad mit einem großen künstlichen See und Palmenhainen.", hu: "Egy zöld oázis Rijád szívében, nagy mesterséges tóval és pálmafaligetekkel.", ro: "O oază verde în inima Riadului, cu un mare lac artificial și crânguri de palmieri.", en: "A green oasis in the heart of Riyadh featuring a large artificial lake and palm groves." },
     facts: {
       de: ["Der künstliche See umfasst 33.000 Quadratmeter.", "Etwa 1000 Dattelpalmen wachsen im Park.", "Bietet Bootsfahrten auf dem See an."],
@@ -32,7 +36,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "SA-02",
     coords: [40.320, 21.326],
-    name: { de: "Rosenfarmen von Al-Hada", hu: "Al-Hada rózsafarmok", ro: "Fermele de trandafiri din Al Hada", en: "Al Hada Rose Farms" },
+    name: { de: "Rosenfarmen von Al-Hada", hu: "Al-Hada rózsafarmok", ro: "Fermele de trandafiri din Al Hada", en: "Al Hada Rose Farms",
+image: "/poi-images/sa-al-hada-rose-farms-life-v2.webp"
+},
     description: { de: "Terrassenförmige Blumenfelder in den Bergen, die für die Produktion des berühmten Taif-Rosenwassers bekannt sind.", hu: "Teraszos virágföldek a hegyekben, amelyek a híres taifi rózsavíz előállításáról ismertek.", ro: "Câmpuri de flori în terase, în munți, faimoase pentru producția de apă de trandafiri de Taif.", en: "Terraced flower fields in the mountains known for producing the famous Taif rose water." },
     facts: {
       de: ["Produziert jährlich Millionen von Rosen.", "Die Erntezeit ist meist im April.", "Aus den Rosen wird auch hochwertiges Parfümöl gewonnen."],
@@ -45,7 +51,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.112, 21.574],
-    name: { de: "Fakieh-Aquarium", hu: "Fakieh Akvárium", ro: "Acvariul Fakieh", en: "Fakieh Aquarium" },
+    name: { de: "Fakieh-Aquarium", hu: "Fakieh Akvárium", ro: "Acvariul Fakieh", en: "Fakieh Aquarium",
+image: "/poi-images/sa-fakieh-aquarium-life-v2.webp"
+},
     description: { de: "Das einzige öffentliche Aquarium in Saudi-Arabien, das Meeresbewohner des Roten Meeres zeigt.", hu: "Szaúd-Arábia egyetlen nyilvános akváriuma, amely a Vörös-tenger tengeri élővilágát mutatja be.", ro: "Singurul acvariu public din Arabia Saudită, care prezintă viața marină a Mării Roșii.", en: "The only public aquarium in Saudi Arabia showcasing the marine life of the Red Sea." },
     facts: {
       de: ["Beherbergt über 200 Meeresarten.", "Bietet tägliche Delfin- und Seelöwenshows.", "Verfügt über einen Tunnel für Unterwasser-Sicht."],
@@ -58,7 +66,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.111, 21.579],
-    name: { de: "Al-Shallal-Themenpark", hu: "Al-Shallal Vidámpark", ro: "Parcul de distracții Al Shallal", en: "Al Shallal Theme Park" },
+    name: { de: "Al-Shallal-Themenpark", hu: "Al-Shallal Vidámpark", ro: "Parcul de distracții Al Shallal", en: "Al Shallal Theme Park",
+image: "/poi-images/sa-al-shallal-theme-park-life-v2.webp"
+},
     description: { de: "Ein großer Vergnügungspark an der Corniche von Dschidda mit Achterbahnen und einer Eisbahn.", hu: "Egy nagy vidámpark Dzsidda tengerparti sétányán, hullámvasutakkal és jégpályával.", ro: "Un mare parc de distracții pe faleza din Jeddah, cu montagne russe și un patinoar.", en: "A large amusement park on the Jeddah Corniche featuring roller coasters and an ice rink." },
     facts: {
       de: ["Zieht jährlich etwa eine Million Besucher an.", "Verfügt über eine der größten Achterbahnen Asiens.", "Hat einen speziellen Themenbereich für den Amazonas."],
@@ -71,7 +81,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "SA-01",
     coords: [46.735, 24.673],
-    name: { de: "Zoo von Riad", hu: "Rijádi Állatkert", ro: "Grădina Zoologică din Riad", en: "Riyadh Zoo" },
+    name: { de: "Zoo von Riad", hu: "Rijádi Állatkert", ro: "Grădina Zoologică din Riad", en: "Riyadh Zoo",
+image: "/poi-images/sa-riyadh-zoo-life-v2.webp"
+},
     description: { de: "Der größte und älteste Zoo in Saudi-Arabien mit einer Vielzahl exotischer und heimischer Tiere.", hu: "Szaúd-Arábia legnagyobb és legrégebbi állatkertje, egzotikus és hazai állatok széles választékával.", ro: "Cea mai mare și mai veche grădină zoologică din Arabia Saudită, cu o varietate de animale exotice și native.", en: "The largest and oldest zoo in Saudi Arabia, housing a wide variety of exotic and native animals." },
     facts: {
       de: ["Wurde 1957 ursprünglich für die königliche Familie gegründet.", "Beherbergt über 1500 Tiere aus 40 Arten.", "Erstreckt sich über eine Fläche von 55 Hektar."],
@@ -84,7 +96,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "SA-04",
     coords: [49.605, 25.405],
-    name: { de: "Al-Ahsa Dattelpalmenoase", hu: "Al-Ahsa datolyapálma oázis", ro: "Oaza de palmieri Al-Ahsa", en: "Al Ahsa Date Farms" },
+    name: { de: "Al-Ahsa Dattelpalmenoase", hu: "Al-Ahsa datolyapálma oázis", ro: "Oaza de palmieri Al-Ahsa", en: "Al Ahsa Date Farms",
+image: "/poi-images/sa-al-ahsa-date-farms-life-v2.webp"
+},
     description: { de: "Die größte Oase der Welt, bekannt für ihre ausgedehnten Dattelpalmenhaine und traditionellen Bewässerungssysteme.", hu: "A világ legnagyobb oázisa, amely hatalmas datolyapálma-ligeteiről és hagyományos öntözőrendszereiről ismert.", ro: "Cea mai mare oază din lume, cunoscută pentru întinsele sale crânguri de curmali și sistemele tradiționale de irigare.", en: "The largest oasis in the world, known for its extensive date palm groves and traditional irrigation systems." },
     facts: {
       de: ["Beherbergt mehr als 2,5 Millionen Dattelpalmen.", "Wurde 2018 zum UNESCO-Weltkulturerbe erklärt.", "Produziert jährlich über 100.000 Tonnen Datteln."],
@@ -97,7 +111,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "SA-02",
     coords: [41.670, 22.250],
-    name: { de: "Mahazat as-Sayd Schutzgebiet", hu: "Mahazat as-Sayd Természetvédelmi Terület", ro: "Rezervația Mahazat as-Sayd", en: "Mahazat as-Sayd Protected Area" },
+    name: { de: "Mahazat as-Sayd Schutzgebiet", hu: "Mahazat as-Sayd Természetvédelmi Terület", ro: "Rezervația Mahazat as-Sayd", en: "Mahazat as-Sayd Protected Area",
+image: "/poi-images/sa-mahazat-as-sayd-life-v2.webp"
+},
     description: { de: "Ein vollständig eingezäuntes Naturschutzgebiet, das für die Wiederansiedlung bedrohter Wüstentiere genutzt wird.", hu: "Egy teljesen bekerített természetvédelmi terület, amelyet veszélyeztetett sivatagi állatok visszatelepítésére használnak.", ro: "O rezervație naturală complet împrejmuită, folosită pentru reintroducerea animalelor de deșert pe cale de dispariție.", en: "A fully fenced nature reserve used for the reintroduction of endangered desert animal species." },
     facts: {
       de: ["Mit 2244 Quadratkilometern ist es extrem groß.", "Hier lebt der stark gefährdete Arabische Oryx.", "Es ist nach dem Yellowstone eines der größten eingezäunten Gebiete."],
@@ -111,7 +127,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-01",
     coords: [46.711, 24.647],
-    name: { de: "Park des Nationalmuseums", hu: "Nemzeti Múzeum Parkja", ro: "Parcul Muzeului Național", en: "National Museum Park" },
+    name: { de: "Park des Nationalmuseums", hu: "Nemzeti Múzeum Parkja", ro: "Parcul Muzeului Național", en: "National Museum Park",
+image: "/poi-images/sa-national-museum-park-life-v2.webp"
+},
     description: { de: "Eine schön angelegte Gartenanlage rund um das Nationalmuseum in Riad mit Gehwegen und ruhigen Plätzen.", hu: "Egy gyönyörűen parkosított kert a rijádi Nemzeti Múzeum körül, sétányokkal és csendes pihenőhelyekkel.", ro: "O grădină frumos amenajată în jurul Muzeului Național din Riad, cu alei și locuri liniștite de odihnă.", en: "A beautifully landscaped garden surrounding the National Museum in Riyadh, featuring walkways and quiet spots." },
     facts: {
       de: ["Teil des King Abdulaziz Historical Centre.", "Bietet traditionelle islamische Gartenelemente.", "Verfügt über künstliche Wasserläufe."],
@@ -124,7 +142,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "SA-04",
     coords: [49.664, 27.025],
-    name: { de: "Mangrovenpark Jubail", hu: "Jubajl Mangrove Park", ro: "Parcul de Mangrove Jubail", en: "Jubail Mangrove Park" },
+    name: { de: "Mangrovenpark Jubail", hu: "Jubajl Mangrove Park", ro: "Parcul de Mangrove Jubail", en: "Jubail Mangrove Park",
+image: "/poi-images/sa-jubail-mangrove-park-life-v2.webp"
+},
     description: { de: "Ein geschütztes Feuchtgebiet an der Küste des Persischen Golfs, das zahlreichen Vogelarten als Lebensraum dient.", hu: "Védett vizes élőhely a Perzsa-öböl partján, amely számos madárfaj élőhelyéül szolgál.", ro: "O zonă umedă protejată pe coasta Golfului Persic, care servește drept habitat pentru numeroase specii de păsări.", en: "A protected wetland on the coast of the Persian Gulf that serves as a habitat for numerous bird species." },
     facts: {
       de: ["Die Mangrovenbäume schützen die Küste vor Erosion.", "Es gibt Holzstege für Besucher.", "Ein wichtiger Zwischenstopp für Zugvögel."],
@@ -137,7 +157,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "SA-02",
     coords: [40.350, 21.300],
-    name: { de: "Erdbeerfarm Taif", hu: "Taifi eperfarm", ro: "Ferma de Căpșuni din Taif", en: "Taif Strawberry Farm" },
+    name: { de: "Erdbeerfarm Taif", hu: "Taifi eperfarm", ro: "Ferma de Căpșuni din Taif", en: "Taif Strawberry Farm",
+image: "/poi-images/sa-taif-strawberry-farm-life-v2.webp"
+},
     description: { de: "Ein landwirtschaftlicher Betrieb in den kühlen Bergen von Taif, wo Besucher frische Erdbeeren pflücken können.", hu: "Egy mezőgazdasági farm Taif hűvös hegyeiben, ahol a látogatók friss epret szedhetnek.", ro: "O fermă agricolă în munții răcoroși din Taif, unde vizitatorii pot culege căpșuni proaspete.", en: "An agricultural farm in the cool mountains of Taif where visitors can pick fresh strawberries." },
     facts: {
       de: ["Profitiert vom kühlen Klima der Region.", "Bietet auch Produkte wie Erdbeermarmelade an.", "Ein beliebtes Ziel für den Agrotourismus."],
@@ -150,7 +172,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.108, 21.618],
-    name: { de: "Atallah Happy Land Park", hu: "Atallah Happy Land Park", ro: "Parcul Atallah Happy Land", en: "Atallah Happy Land Park" },
+    name: { de: "Atallah Happy Land Park", hu: "Atallah Happy Land Park", ro: "Parcul Atallah Happy Land", en: "Atallah Happy Land Park",
+image: "/poi-images/sa-atallah-happy-land-park-life-v2.webp"
+},
     description: { de: "Einer der ältesten Vergnügungsparks in Dschidda mit einer großen Auswahl an Fahrgeschäften und Spielen.", hu: "Dzsidda egyik legrégebbi vidámparkja, vidámparki játékok és attrakciók széles választékával.", ro: "Unul dintre cele mai vechi parcuri de distracții din Jeddah, cu o gamă largă de atracții și jocuri.", en: "One of the oldest amusement parks in Jeddah, featuring a wide variety of rides and games." },
     facts: {
       de: ["Eröffnete bereits 1986 seine Türen.", "Verfügt über ein großes Riesenrad mit Blick aufs Meer.", "Bietet auch eine Bowlingbahn und Kletterwände."],
@@ -163,7 +187,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-04",
     coords: [50.116, 26.398],
-    name: { de: "König-Fahd-Park (Dammam)", hu: "Fahd Király Park (Dammám)", ro: "Parcul Regele Fahd (Dammam)", en: "King Fahd Park (Dammam)" },
+    name: { de: "König-Fahd-Park (Dammam)", hu: "Fahd Király Park (Dammám)", ro: "Parcul Regele Fahd (Dammam)", en: "King Fahd Park (Dammam)",
+image: "/poi-images/sa-king-fahd-park-dammam-life-v2.webp"
+},
     description: { de: "Ein weitläufiger Erholungspark in Dammam mit künstlichen Lagunen, Wasserfällen und vielen Grünflächen.", hu: "Egy kiterjedt rekreációs park Dammámban, mesterséges lagúnákkal, vízesésekkel és sok zöldfelülettel.", ro: "Un vast parc de recreere în Dammam, cu lagune artificiale, cascade și multe spații verzi.", en: "A vast recreational park in Dammam featuring artificial lagoons, waterfalls, and many green spaces." },
     facts: {
       de: ["Er ist der größte Park in der saudischen Ostprovinz.", "Umfasst eine Fläche von 1,2 Millionen Quadratmetern.", "Beinhaltet auch ein kleines Unterhaltungszentrum."],
@@ -176,7 +202,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "SA-01",
     coords: [46.101, 24.237],
-    name: { de: "Nofa Wildlife Safari", hu: "Nofa Vadaspark és Szafari", ro: "Safariul Nofa", en: "Nofa Wildlife Safari" },
+    name: { de: "Nofa Wildlife Safari", hu: "Nofa Vadaspark és Szafari", ro: "Safariul Nofa", en: "Nofa Wildlife Safari",
+image: "/poi-images/sa-nofa-wildlife-safari-life-v2.webp"
+},
     description: { de: "Ein afrikanisch inspiriertes Wildreservat in der Nähe von Riad, das geführte Safaritouren anbietet.", hu: "Egy afrikai ihletésű vadaspark Rijád közelében, amely vezetett szafaritúrákat kínál.", ro: "O rezervație de animale sălbatice de inspirație africană lângă Riad, care oferă tururi de safari ghidate.", en: "An African-inspired wildlife reserve near Riyadh that offers guided safari tours." },
     facts: {
       de: ["Beherbergt über 700 Tiere, darunter Giraffen und Geparden.", "Das Gelände umfasst auch einen Golfplatz.", "Besucher können die Tiere in offenen Safari-Fahrzeugen beobachten."],
@@ -189,7 +217,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-02",
     coords: [40.435, 21.222],
-    name: { de: "Al-Rudaf-Park", hu: "Al-Rudaf Park", ro: "Parcul Al Rudaf", en: "Al Rudaf Park" },
+    name: { de: "Al-Rudaf-Park", hu: "Al-Rudaf Park", ro: "Parcul Al Rudaf", en: "Al Rudaf Park",
+image: "/poi-images/sa-al-rudaf-park-life-v2.webp"
+},
     description: { de: "Ein beliebter Familienpark in Taif, berühmt für seine musikalischen Springbrunnen und Blumenausstellungen.", hu: "Egy népszerű családi park Taifban, amely zenei szökőkútjairól és virágkiállításairól híres.", ro: "Un parc familial popular în Taif, faimos pentru fântânile sale muzicale și expozițiile florale.", en: "A popular family park in Taif famous for its musical dancing fountains and flower exhibitions." },
     facts: {
       de: ["Der große Springbrunnen schießt Wasser bis zu 80 Meter hoch.", "Die Grünanlage umfasst über 560.000 Quadratmeter.", "Während des Taif-Rosenfestivals ist der Park besonders farbenfroh."],
@@ -202,7 +232,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-01",
     coords: [44.975, 26.027],
-    name: { de: "Al-Ghat-Nationalpark", hu: "Al-Ghat Nemzeti Park", ro: "Parcul Național Al-Ghat", en: "Al-Ghat National Park" },
+    name: { de: "Al-Ghat-Nationalpark", hu: "Al-Ghat Nemzeti Park", ro: "Parcul Național Al-Ghat", en: "Al-Ghat National Park",
+image: "/poi-images/sa-al-ghat-national-park-life-v2.webp"
+},
     description: { de: "Ein Naturschutzgebiet mit wüstenartiger Landschaft, das für seine Akazienbäume und Picknickplätze geschätzt wird.", hu: "Sivatagos tájjal rendelkező természetvédelmi terület, amelyet akácfái és piknikezőhelyei miatt kedvelnek.", ro: "O rezervație naturală cu un peisaj deșertic, apreciată pentru arborii de salcâm și locurile de picnic.", en: "A nature reserve with a desert-like landscape, valued for its acacia trees and picnic spots." },
     facts: {
       de: ["Liegt in einem Tal umgeben von Bergen.", "Wichtiges Gebiet für den Erhalt der einheimischen Flora.", "Im Frühling erblüht die Wüste in sanften Farben."],
@@ -215,7 +247,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "SA-12",
     coords: [39.865, 29.969],
-    name: { de: "Olivenhaine von Al-Dschauf", hu: "Al-Dzsauf olajfaligetek", ro: "Livezile de măslini din Al Jouf", en: "Al Jouf Olive Orchards" },
+    name: { de: "Olivenhaine von Al-Dschauf", hu: "Al-Dzsauf olajfaligetek", ro: "Livezile de măslini din Al Jouf", en: "Al Jouf Olive Orchards",
+image: "/poi-images/sa-al-jouf-olive-orchards-life-v2.webp"
+},
     description: { de: "Das größte Olivenanbaugebiet im Nahen Osten, das hochwertiges Olivenöl produziert.", hu: "A Közel-Kelet legnagyobb olajbogyó-termesztő vidéke, amely kiváló minőségű olívaolajat állít elő.", ro: "Cea mai mare zonă de cultivare a măslinilor din Orientul Mijlociu, care produce ulei de măsline de înaltă calitate.", en: "The largest olive-growing region in the Middle East, producing high-quality olive oil." },
     facts: {
       de: ["Es gibt dort über 18 Millionen Olivenbäume.", "Hält den Guinness-Weltrekord für die größte moderne Olivenfarm.", "Jedes Jahr findet hier ein großes Olivenfestival statt."],
@@ -228,7 +262,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "SA-01",
     coords: [46.541, 23.518],
-    name: { de: "Steinbock-Reservat", hu: "Kőszáli kecske Rezervátum", ro: "Rezervația Ibex", en: "Ibex Reserve" },
+    name: { de: "Steinbock-Reservat", hu: "Kőszáli kecske Rezervátum", ro: "Rezervația Ibex", en: "Ibex Reserve",
+image: "/poi-images/sa-ibex-reserve-life-v2.webp"
+},
     description: { de: "Ein bergiges Schutzgebiet südlich von Riad, das speziell für den Schutz des Nubischen Steinbocks eingerichtet wurde.", hu: "Egy hegyvidéki védett terület Rijádtól délre, amelyet kifejezetten a núbiai kőszáli kecske védelmére hoztak létre.", ro: "O rezervație montană la sud de Riad, înființată special pentru protecția ibexului nubian.", en: "A mountainous protected area south of Riyadh established specifically for the conservation of the Nubian ibex." },
     facts: {
       de: ["Umfasst tiefe Täler und steile Klippen.", "Neben Steinböcken leben hier auch Klippschliefer und Füchse.", "Zugang ist streng reguliert, um die Tiere nicht zu stören."],
@@ -241,7 +277,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "SA-01",
     coords: [46.757, 24.786],
-    name: { de: "Water Splash Park", hu: "Water Splash Aquapark", ro: "Water Splash Park", en: "Water Splash Park" },
+    name: { de: "Water Splash Park", hu: "Water Splash Aquapark", ro: "Water Splash Park", en: "Water Splash Park",
+image: "/poi-images/sa-water-splash-park-life-v2.webp"
+},
     description: { de: "Ein familienfreundlicher Wasserpark in Riad mit Schwimmbecken, Rutschen und Picknickbereichen.", hu: "Egy családbarát vízi vidámpark Rijádban, medencékkel, csúszdákkal és piknikezőhelyekkel.", ro: "Un parc acvatic prietenos cu familiile în Riad, cu piscine, tobogane și zone de picnic.", en: "A family-friendly water park in Riyadh featuring swimming pools, water slides, and picnic areas." },
     facts: {
       de: ["Besonders beliebt in den heißen Sommermonaten.", "Bietet separate Bereiche für kleine Kinder.", "Verfügt über private Chalets, die Familien mieten können."],
@@ -254,7 +292,9 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-02",
     coords: [39.141, 21.611],
-    name: { de: "Parks der Dschidda Corniche", hu: "Dzsidda tengerparti parkjai", ro: "Parcurile falezei din Jeddah", en: "Jeddah Corniche Parks" },
+    name: { de: "Parks der Dschidda Corniche", hu: "Dzsidda tengerparti parkjai", ro: "Parcurile falezei din Jeddah", en: "Jeddah Corniche Parks",
+image: "/poi-images/sa-jeddah-corniche-parks-life-v2.webp"
+},
     description: { de: "Eine kilometerlange Aneinanderreihung von landschaftlich gestalteten Parks entlang der Küste des Roten Meeres.", hu: "A Vörös-tenger partján húzódó, kilométereken át elterülő parkosított rekreációs területek sora.", ro: "O succesiune de parcuri amenajate peisagistic de-a lungul coastei Mării Roșii, care se întinde pe kilometri.", en: "A kilometer-long stretch of landscaped parks running along the coast of the Red Sea." },
     facts: {
       de: ["Ausgestattet mit modernen Kunstskulpturen.", "Beliebt zum Fahrradfahren und Joggen bei Sonnenuntergang.", "Bietet direkten Zugang zu Sandstränden."],

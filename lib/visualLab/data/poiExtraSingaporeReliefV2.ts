@@ -11,8 +11,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Bukit Timah Hügel",
       hu: "Bukit Timah-hegy",
       ro: "Dealul Bukit Timah",
-      en: "Bukit Timah Hill"
-    },
+      en: "Bukit Timah Hill",
+image: "/poi-images/sg-bukit-timah-hill-relief-v2.webp"
+},
     description: {
       de: "Der höchste natürliche Punkt in Singapur mit einer Höhe von 163,63 Metern.",
       hu: "Szingapúr legmagasabb természetes pontja, 163,63 méter magas.",
@@ -34,8 +35,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Mount Faber Park",
       hu: "Mount Faber Park",
       ro: "Parcul Mount Faber",
-      en: "Mount Faber Park"
-    },
+      en: "Mount Faber Park",
+image: "/poi-images/sg-mount-faber-park-relief-v2.webp"
+},
     description: {
       de: "Ein Hügel und Park mit Panoramablick auf die Stadt und die südlichen Inseln.",
       hu: "Egy hegy és park, ahonnan panorámás kilátás nyílik a városra és a déli szigetekre.",
@@ -57,8 +59,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Fort Canning Park",
       hu: "Fort Canning Park",
       ro: "Parcul Fort Canning",
-      en: "Fort Canning Park"
-    },
+      en: "Fort Canning Park",
+image: "/poi-images/sg-fort-canning-park-relief-v2.webp"
+},
     description: {
       de: "Ein kleiner Hügel im Herzen von Singapur, reich an historischer Bedeutung.",
       hu: "Egy kis hegy Szingapúr szívében, történelmileg rendkívül jelentős.",
@@ -80,8 +83,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "MacRitchie Reservoir Park",
       hu: "MacRitchie-víztározó Park",
       ro: "Parcul Rezervorului MacRitchie",
-      en: "MacRitchie Reservoir Park"
-    },
+      en: "MacRitchie Reservoir Park",
+image: "/poi-images/sg-macritchie-reservoir-park-relief-v2.webp"
+},
     description: {
       de: "Ein großes Talgebiet, das Singapurs ältestes Reservoir umgibt.",
       hu: "Egy nagy völgyterület, amely Szingapúr legrégebbi víztározóját veszi körül.",
@@ -103,8 +107,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "East Coast Park",
       hu: "East Coast Park",
       ro: "Parcul East Coast",
-      en: "East Coast Park"
-    },
+      en: "East Coast Park",
+image: "/poi-images/sg-east-coast-park-relief-v2.webp"
+},
     description: {
       de: "Ein beliebter Küstenpark, der sich über 15 km erstreckt und eine Vielzahl von Freizeitaktivitäten bietet.",
       hu: "Egy népszerű tengerparti park 15 km hosszan, számos szabadidős tevékenységgel.",
@@ -126,8 +131,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Changi Beach Park",
       hu: "Changi Beach Park",
       ro: "Parcul Plaja Changi",
-      en: "Changi Beach Park"
-    },
+      en: "Changi Beach Park",
+image: "/poi-images/sg-changi-beach-park-relief-v2.webp"
+},
     description: {
       de: "Einer der ältesten Küstenparks in Singapur mit einer dörflichen Atmosphäre.",
       hu: "Szingapúr egyik legrégebbi tengerparti parkja, falusias hangulattal.",
@@ -149,8 +155,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Pasir Ris Park",
       hu: "Pasir Ris Park",
       ro: "Parcul Pasir Ris",
-      en: "Pasir Ris Park"
-    },
+      en: "Pasir Ris Park",
+image: "/poi-images/sg-pasir-ris-park-relief-v2.webp"
+},
     description: {
       de: "Ein Küstenpark an der Nordostküste Singapurs, bekannt für seinen großen Spielplatz und Mangrovenwald.",
       hu: "Egy tengerparti park Szingapúr északkeleti partján, nagy játszóteréről és mangroveerdőjéről ismert.",
@@ -172,8 +179,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Labrador Naturreservat",
       hu: "Labrador Természetvédelmi Terület",
       ro: "Rezervația Naturală Labrador",
-      en: "Labrador Nature Reserve"
-    },
+      en: "Labrador Nature Reserve",
+image: "/poi-images/sg-labrador-nature-reserve-relief-v2.webp"
+},
     description: {
       de: "Ein Küstenreservat, das den einzigen felsigen Meeresklippen auf dem Festland Singapurs enthält.",
       hu: "Egy tengerparti rezervátum, amely Szingapúr szárazföldjének egyetlen sziklás tengeri szirtjét foglalja magában.",
@@ -196,8 +204,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Strände der Insel Sentosa",
       hu: "Sentosa-sziget strandjai",
       ro: "Plajele insulei Sentosa",
-      en: "Sentosa Island Beaches"
-    },
+      en: "Sentosa Island Beaches",
+image: "/poi-images/sg-sentosa-island-beaches-relief-v2.webp"
+},
     description: {
       de: "Eine Reihe von künstlichen Stränden entlang der Südküste der Insel Sentosa.",
       hu: "Mesterséges strandok sorozata a Sentosa-sziget déli partja mentén.",
@@ -219,8 +228,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Southern Ridges",
       hu: "Southern Ridges",
       ro: "Crestele Sudice",
-      en: "The Southern Ridges"
-    },
+      en: "The Southern Ridges",
+image: "/poi-images/sg-southern-ridges-relief-v2.webp"
+},
     description: {
       de: "Ein 10 km langer Pfad, der mehrere Parks entlang des südlichen Bergrückens von Singapur verbindet.",
       hu: "Egy 10 km hosszú ösvény, amely több parkot köt össze Szingapúr déli hegygerince mentén.",
@@ -242,8 +252,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Pulau Ubin",
       hu: "Pulau Ubin",
       ro: "Pulau Ubin",
-      en: "Pulau Ubin"
-    },
+      en: "Pulau Ubin",
+image: "/poi-images/sg-pulau-ubin-relief-v2.webp"
+},
     description: {
       de: "Eine Insel nordöstlich von Singapur, die für ihre rustikale Küstenlandschaft und reiche Natur bekannt ist.",
       hu: "Egy sziget Szingapúrtól északkeletre, rusztikus tengerparti tájáról és gazdag természetéről ismert.",
@@ -265,8 +276,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Lower Peirce Reservoir Park",
       hu: "Lower Peirce-víztározó Park",
       ro: "Parcul Rezervorului Lower Peirce",
-      en: "Lower Peirce Reservoir Park"
-    },
+      en: "Lower Peirce Reservoir Park",
+image: "/poi-images/sg-lower-peirce-reservoir-park-relief-v2.webp"
+},
     description: {
       de: "Umgibt Singapurs zweitältestes Reservoir, eingebettet in ein üppiges Tal.",
       hu: "Szingapúr második legrégebbi víztározóját veszi körül, egy buja völgyben.",
@@ -288,8 +300,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Telok Blangah Hill Park",
       hu: "Telok Blangah Hill Park",
       ro: "Parcul Dealul Telok Blangah",
-      en: "Telok Blangah Hill Park"
-    },
+      en: "Telok Blangah Hill Park",
+image: "/poi-images/sg-telok-blangah-hill-park-relief-v2.webp"
+},
     description: {
       de: "Ein Teil der Southern Ridges, bekannt für seine Terrassengärten und den Forest Walk.",
       hu: "A Southern Ridges része, teraszos kertjeiről és a Forest Walkról (erdei sétány) ismert.",
@@ -311,8 +324,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Küste der Insel Kusu",
       hu: "Kusu-sziget partvidéke",
       ro: "Coasta insulei Kusu",
-      en: "Kusu Island Coast"
-    },
+      en: "Kusu Island Coast",
+image: "/poi-images/sg-kusu-island-coast-relief-v2.webp"
+},
     description: {
       de: "Eine der südlichen Inseln von Singapur mit unberührten Küsten, Lagunen und Stränden.",
       hu: "Szingapúr egyik déli szigete, érintetlen partokkal, lagúnákkal és strandokkal.",
@@ -335,8 +349,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Sungei Buloh Wetland Reserve",
       hu: "Sungei Buloh Vizes Élőhely Rezervátum",
       ro: "Rezervația de Zone Umede Sungei Buloh",
-      en: "Sungei Buloh Wetland Reserve"
-    },
+      en: "Sungei Buloh Wetland Reserve",
+image: "/poi-images/sg-sunget-buloh-wetland-reserve-relief-v2.webp"
+},
     description: {
       de: "Ein wichtiges Küstengebiet für Zugvögel an der Nordwestküste von Singapur.",
       hu: "Fontos tengerparti terület a vándormadarak számára Szingapúr északnyugati partján.",
@@ -358,8 +373,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Marina Barrage",
       hu: "Marina Barrage",
       ro: "Barajul Marina",
-      en: "Marina Barrage"
-    },
+      en: "Marina Barrage",
+image: "/poi-images/sg-marina-barrage-relief-v2.webp"
+},
     description: {
       de: "Ein Damm an der Küste, der ein Süßwasserreservoir im Herzen der Stadt bildet.",
       hu: "Egy tengerparti gát, amely egy édesvizű víztározót hoz létre a város szívében.",
@@ -381,8 +397,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Upper Seletar Reservoir Park",
       hu: "Upper Seletar-víztározó Park",
       ro: "Parcul Rezervorului Upper Seletar",
-      en: "Upper Seletar Reservoir Park"
-    },
+      en: "Upper Seletar Reservoir Park",
+image: "/poi-images/sg-upper-seletar-reservoir-park-relief-v2.webp"
+},
     description: {
       de: "Ein ruhiges Tal und Park, bekannt für seine ikonische Aussichtsturm und friedliche Atmosphäre.",
       hu: "Egy csendes völgy és park, mely ikonikus kilátótornyáról és békés hangulatáról ismert.",
@@ -405,8 +422,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Kent Ridge Park",
       hu: "Kent Ridge Park",
       ro: "Parcul Kent Ridge",
-      en: "Kent Ridge Park"
-    },
+      en: "Kent Ridge Park",
+image: "/poi-images/sg-kent-ridge-park-relief-v2.webp"
+},
     description: {
       de: "Ein historischer Hügelpark, in dem eine der letzten Schlachten um Singapur im Zweiten Weltkrieg stattfand.",
       hu: "Egy történelmi hegyi park, ahol a második világháborúban Szingapúrért vívott egyik utolsó csata zajlott.",
@@ -428,8 +446,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Clementi Wald",
       hu: "Clementi-erdő",
       ro: "Pădurea Clementi",
-      en: "Clementi Forest"
-    },
+      en: "Clementi Forest",
+image: "/poi-images/sg-clementi-forest-relief-v2.webp"
+},
     description: {
       de: "Ein großes, unbebautes Waldtal, das für seine reiche Biodiversität und natürlichen Bäche bekannt ist.",
       hu: "Egy nagy, beépítetlen erdei völgy, amely gazdag biodiverzitásáról és természetes patakjairól ismert.",
@@ -451,8 +470,9 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       de: "Coney Island Park",
       hu: "Coney Island Park",
       ro: "Parcul Insula Coney",
-      en: "Coney Island Park"
-    },
+      en: "Coney Island Park",
+image: "/poi-images/sg-coney-island-park-relief-v2.webp"
+},
     description: {
       de: "Ein rustikaler Küstenpark auf einer Insel mit vielfältigen Lebensräumen, darunter Küstenwälder und Mangroven.",
       hu: "Egy rusztikus tengerparti park egy szigeten, változatos élőhelyekkel, beleértve a part menti erdőket és mangroveerdőket.",

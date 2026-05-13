@@ -11,8 +11,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bangui",
       hu: "Bangui",
       ro: "Bangui",
-      en: "Bangui"
-    },
+      en: "Bangui",
+image: "/poi-images/bangui-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bangui, am Nordufer des Ubangi gelegen, ist das Herz der Zentralafrikanischen Republik. Die Stadt wurde 1889 von den Franzosen als Militärposten gegründet. Heute ist sie ein zentraler Umschlagplatz für den Binnenhandel des Landes. Fällt die Ubangi-Quelle in den Bergen, schwillt der Fluss bei Bangui an und ermöglicht den Warenverkehr bis zum Kongo. Bangui verbindet koloniale Geschichte mit einer lebendigen, afrikanischen Handelsstruktur. Geografie K7 – Flusssysteme und wirtschaftliche Zentren.",
       hu: "Bangui az Ubangi folyó északi partján fekszik, és a Közép-afrikai Köztársaság szíve, egyben közigazgatási és kereskedelmi központja. Az 1889-ben francia katonai posztként alapított város ma az ország belső kereskedelmének legfontosabb csomópontja. Földrajzi fekvésének köszönhetően a folyami hajózás révén összeköttetésben áll a Kongó-medencével, ami létfontosságú az áruszállítás szempontjából. A város építészetében és mindennapjaiban a gyarmati örökség és az élénk afrikai kereskedelmi kultúra találkozik. Földrajz K7 – Folyórendszerek és gazdasági központok.",
@@ -45,8 +46,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bimbo",
       hu: "Bimbo",
       ro: "Bimbo",
-      en: "Bimbo"
-    },
+      en: "Bimbo",
+image: "/poi-images/bimbo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bimbo liegt strategisch günstig südwestlich der Hauptstadt Bangui und dient als wichtiges wirtschaftliches Einzugsgebiet. Als Zentrum der Präfektur Ombella-M'Poko profitiert die Stadt von der unmittelbaren Nähe zum Regierungssitz und der zentralen Verkehrsanbindung. Bimbo hat sich in den letzten Jahrzehnten schnell von einer kleineren Siedlung zu einer urbanen Drehscheibe entwickelt, die vor allem durch lokale Handelsaktivitäten geprägt ist. Erdkunde K7 – Urbanisierung in Zentralafrika.",
       hu: "Bimbo stratégiailag kulcsfontosságú helyen, a fővárostól, Bangui-tól délnyugatra fekszik, és az Ombella-M'Poko prefektúra központjaként működik. A város gyors fejlődésen ment keresztül, mára az ország egyik legjelentősebb lakott településévé vált, amely jelentősen profitál a közeli főváros nyújtotta gazdasági lehetőségekből. A település kereskedelmi csomópontként szolgál a régióban, ahol a helyi lakosság életmódja szorosan összefonódik a környező területek mezőgazdasági termelésével. Földrajz K7 – Urbanizáció Afrikában.",
@@ -79,8 +81,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Berbérati",
       hu: "Berbérati",
       ro: "Berbérati",
-      en: "Berbérati"
-    },
+      en: "Berbérati",
+image: "/poi-images/berberati-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Berbérati ist die drittgrößte Stadt des Landes und ein wirtschaftlich bedeutender Knotenpunkt in der Region Mambéré-Kadéï. Sie ist bekannt für den Handel mit Diamanten und landwirtschaftlichen Produkten. Die Geschichte der Stadt ist eng mit dem Kolonialismus und der Entwicklung des Handelsnetzwerkes im Südwesten verknüpft. Heute ist sie ein Schmelztiegel verschiedener ethnischer Gruppen, die die wirtschaftliche Dynamik des Zentrums bestimmen. Erdkunde K7 – Rohstoffabbau und lokaler Handel.",
       hu: "Berbérati a Közép-afrikai Köztársaság harmadik legnagyobb városa, a Mambéré-Kadéï régió gazdaságilag jelentős központja. A város a gyémántkereskedelemről és a mezőgazdasági termények piacáról ismert. Története szorosan összefonódik a gyarmati korszakkal, valamint a délnyugati kereskedelmi hálózatok fejlődésével. Ma a város különböző etnikai csoportok olvasztótégelye, akik meghatározzák a régió gazdasági dinamikáját. Földrajz K7 – Nyersanyagkitermelés és helyi kereskedelem.",
@@ -113,8 +116,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Carnot",
       hu: "Carnot",
       ro: "Carnot",
-      en: "Carnot"
-    },
+      en: "Carnot",
+image: "/poi-images/carnot-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Carnot liegt in der Nähe von Berbérati in der Präfektur Mambéré-Kadéï und spielt eine entscheidende Rolle in der Rohstoffwirtschaft der Zentralafrikanischen Republik. Benannt nach dem französischen Ingenieur Sadi Carnot, war die Stadt schon früh ein Zentrum der industriellen Erschließung durch die Kolonialmächte. Ihre Wirtschaft stützt sich auf den Bergbau und den Abbau von Bodenschätzen. Geografie K7 – Geologie und Bodenschätze Afrikas.",
       hu: "Carnot a Mambéré-Kadéï prefektúrában található város, amely szintén jelentős szerepet játszik a gyémántbányászat és az ahhoz kapcsolódó kereskedelem területén. A település a régió gazdasági vérkeringésének fontos része, amely a természeti erőforrások kitermelésével és azok környező piacokra történő továbbításával biztosítja a lakosság megélhetését. Carnot fejlődése szorosan köthető a bányászati tevékenységekhez, amelyek a régió infrastrukturális és társadalmi szerkezetét is alapjaiban határozzák meg. Földrajz K7 – Bányászat és környezeti hatások.",
@@ -148,8 +152,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bambari",
       hu: "Bambari",
       ro: "Bambari",
-      en: "Bambari"
-    },
+      en: "Bambari",
+image: "/poi-images/bambari-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bambari liegt am Ufer des Ouaka-Flusses und fungiert als unverzichtbarer Handelsknoten im Zentrum der Zentralafrikanischen Republik. Als Hauptstadt der Präfektur Ouaka war Bambari schon vor Jahrzehnten ein bedeutender Markt für landwirtschaftliche Erzeugnisse wie Baumwolle und Kaffee. Die Stadt ist ein symbolträchtiger Ort für die Zentralregion, da sie klimatische Vorteile für den Anbau tropischer Früchte bietet. Erdkunde K7 – Agrarregionen und Flusswirtschaft.",
       hu: "Bambari az Ouaka folyó partján fekszik, és a Közép-afrikai Köztársaság központi régiójának elengedhetetlen kereskedelmi csomópontja. Ouaka prefektúra székhelyeként a város évtizedek óta jelentős piac a mezőgazdasági termékek, például a gyapot és a kávé számára. A település szimbolikus jelentőséggel bír a középső régióban, mivel éghajlati szempontból kedvező feltételeket biztosít a trópusi gyümölcsök termesztéséhez. Földrajz K7 – Agrárterületek és folyógazdaság.",
@@ -182,8 +187,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bouar",
       hu: "Bouar",
       ro: "Bouar",
-      en: "Bouar"
-    },
+      en: "Bouar",
+image: "/poi-images/bouar-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bouar, gelegen im Nordwesten der Zentralafrikanischen Republik, ist die Hauptstadt der Präfektur Nana-Mambéré. Die Stadt ist bekannt für ihre prähistorischen Megalithanlagen, die als monumentale Steinmonolithen in der Landschaft ragen und touristisches sowie historisches Interesse wecken. Geografisch liegt sie auf einem Plateau, was ihr ein milderes Klima als in den Tieflandgebieten verleiht. Geschichte K5 – Megalithkulturen und Altertum.",
       hu: "Bouar az ország nyugati részén fekszik, és a Nana-Mambéré prefektúra központja. A város stratégiai fontossággal bír a kereskedelmi útvonalak szempontjából, mivel az ország egyik fő összekötő pontja Kamerun irányába. A környék nemcsak kereskedelmi szerepe miatt fontos, hanem a vidéken található ősi megalitok, az úgynevezett 'bouari kövek' révén is, amelyek egyedülálló kulturális és régészeti jelentőséggel bírnak. Földrajz K7 – Közlekedési folyosók és régészet.",
@@ -216,8 +222,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bossangoa",
       hu: "Bossangoa",
       ro: "Bossangoa",
-      en: "Bossangoa"
-    },
+      en: "Bossangoa",
+image: "/poi-images/bossangoa-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bossangoa ist eine zentrale Stadt in der Präfektur Ouham und dient als wirtschaftliches Zentrum des agrarisch geprägten Nordwestens. Sie liegt am Fluss Ouham, der die Region fruchtbar macht und eine wichtige Wasserquelle darstellt. Die Stadt hat eine bedeutende Rolle im Baumwoll- und Kaffeeanbau gespielt, was sie zu einem historischen Stützpunkt für die koloniale Landwirtschaft machte. Erdkunde K7 – Agrarsysteme in den Tropen.",
       hu: "Bossangoa az ország északnyugati részén, az Ouham folyó partján fekvő tartományi székhely, az Ouham prefektúra központja. A várost a 19. század végén alapították kereskedelmi telepként, és a francia gyarmati időszakban a gyapottermelés egyik legfontosabb csomópontjává vált. A környező szavannás vidéken ma is meghatározó a gyapot-, manióka-, kukorica- és földimogyoró-termesztés, valamint a szarvasmarha-tenyésztés a fula pásztorok körében. A 2013–2014-es polgárháború során Bossangoa súlyos humanitárius válság színterévé vált, és tömeges menekülttáborok jöttek létre a katolikus misszió körül. A város katolikus egyházmegyei székhely, és kereskedelmi szerepe a Csád felé tartó útvonalon ma is jelentős. Földrajz K7 – Szavannavárosok és gyapotgazdaság.",
@@ -250,8 +257,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bria",
       hu: "Bria",
       ro: "Bria",
-      en: "Bria"
-    },
+      en: "Bria",
+image: "/poi-images/bria-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bria liegt im Osten der Zentralafrikanischen Republik und fungiert als Hauptstadt der Präfektur Haute-Kotto. Die Region um Bria is reich an Diamantvorkommen, was die wirtschaftliche Bedeutung der Stadt seit ihrer Entdeckung des Rohstoffabbaus geprägt hat. Bria ist ein isolierter, aber wichtiger Außenposten für den Diamantenhandel und die damit verbundene wirtschaftliche Infrastruktur im Landesinneren. Erdkunde K7 – Rohstoffabbau in abgelegenen Gebieten.",
       hu: "Bria a Haute-Kotto prefektúra székhelye az ország keleti részén, a Kotto folyó partján elterülő bányászváros. A környék az 1920-as évektől a Közép-afrikai Köztársaság egyik legfontosabb gyémántlelőhelye, ahol a kézi és kisüzemi alluviális gyémántkitermelés ma is meghatározó megélhetési forma. A vörös laterittalajú szavannás táj, a galériaerdők és a folyópartok kavicsteraszai gazdag drágakőlerakódásokat rejtenek, ami évtizedek óta vonzza a kereskedőket és a kalandorokat. Bria a 2013 utáni konfliktusok egyik gócpontjává vált, ahol az ENSZ MINUSCA missziójának egyik legnagyobb táborát rendezte be. A lakosság többségét a banda, runga és gula népcsoport alkotja, akik a bányászat mellett földművelésből és vadászatból élnek. Földrajz K7 – Gyémántbányászat és konfliktusövezetek.",
@@ -284,8 +292,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bangassou",
       hu: "Bangassou",
       ro: "Bangassou",
-      en: "Bangassou"
-    },
+      en: "Bangassou",
+image: "/poi-images/bangassou-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bangassou liegt am Mbomou-Fluss an der Grenze zur Demokratischen Republik Kongo und dient als administratives Zentrum der Präfektur Mbomou. Die Stadt ist ein wichtiger Knotenpunkt für den Handel zwischen beiden Ländern und nutzt den Mbomou-Fluss als Transportweg. Bangassou ist bekannt für seine natürliche Lage in einer Region, die durch dichte Wälder und Flusslandschaften geprägt ist. Erdkunde K7 – Grenzregionen und Flusshandel.",
       hu: "Bangassou a Mbomou prefektúra központja, a Mbomou folyó északi partján fekszik, közvetlenül a Kongói Demokratikus Köztársasággal közös határon. A várost a 19. század végén a zande királyság egyik kereskedelmi pontjaként alapították, és ma is a délkeleti országrész egyik legfontosabb kulturális és vallási központja, katolikus egyházmegyei székhellyel. A környékbeli folyóvizek bővelkednek halban, az erdős szavannás táj pedig kávé-, pálmaolaj- és maniókatermesztésnek ad otthont. A városban található a híres Bangassou-i Természetvédelmi Erdő, amely csimpánz- és erdei elefántállományáról ismert. A polgárháborús években Bangassou a humanitárius beavatkozások egyik központja lett, ahol a katolikus misszió többezer menekültnek nyújtott védelmet. Földrajz K7 – Határvárosok és folyami kereskedelem.",
@@ -318,8 +327,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Nola",
       hu: "Nola",
       ro: "Nola",
-      en: "Nola"
-    },
+      en: "Nola",
+image: "/poi-images/nola-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Nola befindet sich im Südwesten der Zentralafrikanischen Republik und ist die Hauptstadt der Präfektur Sangha-Mbaéré. Die Stadt ist ein Zentrum der Forstwirtschaft und des Diamantenhandels, da sie in einer dicht bewaldeten Region liegt. Durch ihre Lage nahe der Grenze zu Kamerun und der Republik Kongo hat Nola eine besondere strategische Bedeutung für den Handel in der Region Sangha. Erdkunde K7 – Forstwirtschaft und nachhaltige Landnutzung.",
       hu: "Nola a Sangha-Mbaéré prefektúra központja, az ország délnyugati csücskében, a Sangha és a Mambéré folyó találkozásánál fekszik. A város az egyenlítői esőerdő szegélyén helyezkedik el, és ezzel a Közép-afrikai Köztársaság egyik legcsapadékosabb és legbiodiverzebb térségéhez tartozik. A környék gazdaságát hagyományosan a fakitermelés, a kávé- és kakaótermesztés, valamint az aranymosás határozza meg. A közeli Dzanga-Sangha Nemzeti Park UNESCO világörökségi terület, amely az erdei elefántok, gorillák és bongo antilopok egyik legfontosabb védett élőhelye. A lakosság jelentős részét a baka pigmeusok és a sangha-sangha népcsoport alkotja, akik az erdő mély ismeretén alapuló életmódot folytatnak. Földrajz K7 – Trópusi esőerdők és ökoturizmus.",
@@ -352,8 +362,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Mbaïki",
       hu: "Mbaïki",
       ro: "Mbaïki",
-      en: "Mbaïki"
-    },
+      en: "Mbaïki",
+image: "/poi-images/mbaiki-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mbaiki, Hauptstadt der Präfektur Lobaye, ist ein wichtiges Zentrum der Kaffee- und Holzproduktion südwestlich der Hauptstadt Bangui. Die Region Lobaye ist für ihre üppige Vegetation und den Regenwald bekannt, der den wirtschaftlichen Fokus der Stadt auf Agrar- und Forstwirtschaft legt. Mbaiki dient als lokaler Handelsplatz für die umliegenden Dörfer und ist ein wichtiger Akteur in der landwirtschaftlichen Exportwirtschaft des Landes. Erdkunde K7 – Agrarwirtschaft im Regenwald.",
       hu: "M'Baïki a Lobaye prefektúra központja, Banguitól mintegy 100 kilométerre délnyugatra, az egyenlítői erdő határán fekvő város. Történelmileg a francia gyarmati időszak egyik legfontosabb fakitermelő és gumigyűjtő központja volt, ma pedig a kávé-, pálmaolaj- és kakaótermesztés mellett a fafeldolgozó ipar adja a város gazdasági alapját. A környező Lobaye-erdő a baka és a aka pigmeus közösségek hagyományos otthona, akik vadászó-gyűjtögető életmódjukkal generációk óta megőrizték az erdő ökológiai egyensúlyát. M'Baïki éghajlata trópusi, évi 1700 milliméter feletti csapadékkal, ami kedvez az esőerdei növényzetnek és a kis léptékű mezőgazdaságnak. A városban regionális kórház és számos misszió működik. Földrajz K7 – Erdei városok és pigmeus kultúrák.",
@@ -386,8 +397,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Kaga-Bandoro",
       hu: "Kaga-Bandoro",
       ro: "Kaga-Bandoro",
-      en: "Kaga-Bandoro"
-    },
+      en: "Kaga-Bandoro",
+image: "/poi-images/kaga-bandoro-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kaga-Bandoro ist die Hauptstadt der Präfektur Nana-Gribizi und ein bedeutender Handelsort in der nördlichen Zentralregion. Die Stadt liegt verkehrsgünstig an den Verbindungsstraßen zwischen Bangui und dem Norden des Landes. Als lokales Marktzentrum ist Kaga-Bandoro von entscheidender Bedeutung für den Austausch von Waren zwischen den agrarischen Gebieten des Nordens und den urbanen Märkten im Süden. Erdkunde K7 – Verkehrsknotenpunkte und Regionalmärkte.",
       hu: "Kaga-Bandoro, korábbi nevén Fort-Crampel, a Nana-Grébizi prefektúra központja az ország középső részén, a sűrű szavanna és a galériaerdők találkozásánál. A várost a francia gyarmati közigazgatás 1899-ben alapította erődként, és sokáig a Csád felé vezető útvonal fontos megállóhelye volt. Gazdasági szempontból a gyapottermesztés, a marha- és kecsketenyésztés, valamint a regionális piaci kereskedelem dominál. A 2013 utáni konfliktusok során a város súlyos pusztítást szenvedett, és tömeges belső menekülttáborok alakultak ki, ami máig érzékelteti hatását a közigazgatásra és a lakosságra. A környéken élő banda, runga és kara népcsoportok hagyományos kézművessége, valamint a fula pásztorok jelenléte sajátos kulturális arculatot kölcsönöz a városnak. Földrajz K7 – Szavannavárosok és gyarmati örökség.",
@@ -420,8 +432,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Sibut",
       hu: "Sibut",
       ro: "Sibut",
-      en: "Sibut"
-    },
+      en: "Sibut",
+image: "/poi-images/sibut-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Sibut ist eine bedeutende Stadt in der Präfektur Kémo, die eine zentrale Lage auf der Verkehrsachse nach Bangui einnimmt. Als administratives Zentrum spielt Sibut eine Schlüsselrolle bei der Verwaltung der Region und der Organisation des lokalen Handels. Die Stadt ist vor allem als Durchgangsstation bekannt, die den Warenfluss aus den nördlichen Präfekturen in Richtung der Hauptstadt koordiniert. Erdkunde K7 – Zentralorte und Infrastruktur.",
       hu: "Sibut, korábbi nevén Fort-Sibut, a Kémo prefektúra központja, Banguitól mintegy 190 kilométerre északra, a fő közlekedési csomópontok egyikén fekvő város. Itt válik szét az országot átszelő két fő útvonal: az egyik észak felé, Kaga-Bandoro és Csád irányába, a másik kelet felé, Bambari és Bria felé halad. Sibut környékén a banda népcsoport él, akik hagyományos földművelést és kovácsmesterséget folytatnak. A város a francia gyarmati közigazgatás idején fontos állomás volt a kongó-csádi útvonalon, és a régi misszió épületei, valamint a piactér ma is gyarmati hangulatot árasztanak. A környező szavannás-erdős táj a manióka, a köles és a gyapot termesztésének kedvez. Földrajz K7 – Útkereszteződések és gyarmati alapítású városok.",
@@ -454,8 +467,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bozoum",
       hu: "Bozoum",
       ro: "Bozoum",
-      en: "Bozoum"
-    },
+      en: "Bozoum",
+image: "/poi-images/bozoum-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bozoum, die Hauptstadt der Präfektur Ouham-Pendé, liegt strategisch im Nordwesten der Zentralafrikanischen Republik. Die Region ist von einer vielfältigen Hügellandschaft geprägt, die den Ackerbau begünstigt. Bozoum dient als lokales Handels- und Verwaltungszentrum, das die landwirtschaftliche Produktion der Region koordiniert. Die Stadt ist eng mit der Geschichte der dort lebenden Gbaya-Bevölkerung verknüpft. Erdkunde K7 – Regionalwirtschaft und Verwaltung.",
       hu: "Bozoum az Ouham-Pendé prefektúra központja, az ország északnyugati részén, az Ouham folyó felső szakaszánál fekvő város. A környék jellegzetessége a vörös laterittalajú dombvidék és a galériaerdőkkel szegélyezett folyóvölgyek, amelyek az ország egyik legfontosabb aranymosó területét rejtik. A kínai és helyi vállalkozók aranybányászati tevékenysége az utóbbi évtizedekben jelentős környezeti és társadalmi feszültségeket okozott, amit a helyi katolikus misszió képviselői is felemeltek. A városlakók többsége gbaya és kare etnikumú, akik a manióka-, kukorica- és földimogyoró-termesztés mellett kávétermelésből élnek. Bozoum éghajlata trópusi szavanna jellegű, kifejezett száraz és nedves évszakkal. Földrajz K7 – Aranybányászat és környezeti hatások.",
@@ -488,8 +502,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Ndélé",
       hu: "Ndélé",
       ro: "Ndélé",
-      en: "Ndélé"
-    },
+      en: "Ndélé",
+image: "/poi-images/ndele-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "N'Délé ist die Hauptstadt der Präfektur Bamingui-Bangoran im Norden der Zentralafrikanischen Republik. Die Stadt liegt in einer Region, die für ihre Nationalparks und eine reiche Tierwelt bekannt ist. Als Verwaltungszentrum ist N'Délé von Bedeutung für die Überwachung und den Schutz der umliegenden Naturgebiete, während sie gleichzeitig als lokaler Handelsknotenpunkt für den Norden fungiert. Erdkunde K7 – Naturschutz und Nationalparks.",
       hu: "N'Délé a Bamingui-Bangoran prefektúra központja az ország északi részén, a száraz szudáni szavanna és a Csád-medence szegélyén fekvő város. Történelmileg a Dar al-Kuti szultánság fővárosa volt a 19. század végén, Rabih ez-Zubajr és Senussi szultán uralma alatt. A városban ma is láthatók a régi szultánsági erőd maradványai. A környéken található a Bamingui-Bangoran Nemzeti Park, az ország egyik legnagyobb védett területe, amely elefántoknak, antilopoknak és oroszlánoknak ad otthont. A lakosság vegyes: szárai, runga, gula és arab pásztorközösségek élnek itt, akik főleg állattenyésztésből, vadászatból és transzszaharai kereskedelemből élnek. Földrajz K7 – Szultánságok öröksége és nemzeti parkok.",
@@ -522,8 +537,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Birao",
       hu: "Birao",
       ro: "Birao",
-      en: "Birao"
-    },
+      en: "Birao",
+image: "/poi-images/birao-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Birao liegt im äußersten Nordosten der Zentralafrikanischen Republik und ist die Hauptstadt der Präfektur Vakaga. Aufgrund ihrer isolierten Lage nahe der Grenze zum Sudan ist die Stadt ein wichtiger Vorposten für die staatliche Verwaltung und den regionalen Handel im extremen Norden. Die Region ist geprägt von einer trockeneren Savannenlandschaft, die sich stark von den üppigen Regenwäldern des Südens unterscheidet. Erdkunde K7 – Klimazonen und Grenzgebiete.",
       hu: "Birao a Vakaga prefektúra központja, az ország legészakibb csücskében, alig száz kilométerre Csád és Szudán határától. A város a Sahel-öv szegélyén fekszik, és éghajlata szárazabb, mint az ország bármely más részén, évi 700–800 milliméteres csapadékkal. A környéken található a hatalmas Manovo-Gounda St. Floris Nemzeti Park, amely UNESCO-világörökség és veszélyeztetett természeti érték, korábban gazdag oroszlán-, elefánt- és fekete orrszarvú-állományával. A lakosság többségét a runga, kara és gula népcsoportok alkotják, akik szarvasmarha- és kecsketenyésztésből, valamint a Csád felé folyó határ menti kereskedelemből élnek. Birao stratégiai elszigeteltsége miatt sokszor a központi kormányzat befolyási körén kívül esett. Földrajz K7 – Sahel-régió és határvidéki gazdaság.",
@@ -556,8 +572,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Mobaye",
       hu: "Mobaye",
       ro: "Mobaye",
-      en: "Mobaye"
-    },
+      en: "Mobaye",
+image: "/poi-images/mobaye-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mobaye liegt am Ufer des Ubangi-Flusses im Südosten des Landes und dient als wichtiges Zentrum der Präfektur Basse-Kotto. Der Fluss dient hier sowohl als Transportweg für Waren als auch als natürliche Grenze zum Nachbarstaat. Mobaye war historisch ein bedeutender Stützpunkt für den Handel entlang des Ubangi und bleibt bis heute ein wichtiger lokaler Markt für Fischer und Händler der Region. Erdkunde K7 – Flusslauf-Städte und Grenzhandel.",
       hu: "Mobaye a Basse-Kotto prefektúra központja, a Kongó-medence szegélyén, az Ubangi folyó északi partján található határváros. A folyó túlsó partján fekszik a Kongói Demokratikus Köztársaság Mobayi-Mbongo nevű települése, amelytől csónakos átkelőhely választja el. Az Ubangi e szakaszán látványos zúgók és sziklás folyószoros figyelhető meg, amelyek egykor akadályt jelentettek a folyami hajózásnak. Mobaye környékén a banda és langbasi etnikumúak laknak, akik halászatból, manióka- és pálmaolaj-termelésből, valamint a határ menti kereskedelemből élnek. A városban a francia gyarmati közigazgatás idején épült egy kis vízerőmű, amely még ma is működik. Földrajz K7 – Folyóhatárok és határ menti kereskedelem.",
@@ -591,8 +608,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Obo",
       hu: "Obo",
       ro: "Obo",
-      en: "Obo"
-    },
+      en: "Obo",
+image: "/poi-images/obo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Obo befindet sich im äußersten Südosten der Zentralafrikanischen Republik und ist die Hauptstadt der Präfektur Haut-Mbomou. Die Stadt ist von weiten Savannen und Wäldern umgeben und aufgrund ihrer Abgeschiedenheit ein wichtiger Außenposten für die Verwaltung im Südosten. Obo fungiert zudem als Drehkreuz für die Kommunikation und den lokalen Warenaustausch in einem weiten, dünn besiedelten Gebiet nahe der Grenze zum Südsudan und zur DR Kongo. Erdkunde K7 – Peripherie und Grenzgebiete.",
       hu: "Obo a Haut-Mbomou prefektúra központja, az ország délkeleti csücskében, a Dél-szudánnal és a Kongói Demokratikus Köztársasággal közös hármashatár közelében. A város elszigeteltsége miatt sokáig az egész ország egyik legnehezebben megközelíthető pontja volt, esős évszakban a földutak gyakorlatilag járhatatlanná válnak. Obo a 2008 utáni években tragikus szerepet kapott: az ugandai Lord's Resistance Army (LRA) milíciák támadásai miatt humanitárius válság alakult ki, amelyet az ENSZ és az amerikai különleges erők együttesen kezeltek. A környék lakossága főleg a zande népcsoporthoz tartozik, akik kávé-, manióka- és kukoricatermesztésből, valamint vadászatból élnek. A trópusi erdős táj a Mbomou folyó vízgyűjtőjének része. Földrajz K7 – Hármashatárok és humanitárius övezetek.",
@@ -625,8 +643,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Paoua",
       hu: "Paoua",
       ro: "Paoua",
-      en: "Paoua"
-    },
+      en: "Paoua",
+image: "/poi-images/paoua-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Paoua ist die Hauptstadt der Präfektur Lim-Pendé im Nordwesten der Zentralafrikanischen Republik. Die Stadt dient als Zentrum für die landwirtschaftliche Produktion in einer Region, die für den Anbau von Getreide und Baumwolle bekannt ist. Als Verwaltungszentrum koordiniert Paoua die wirtschaftlichen Aktivitäten des Nordwestens und ist ein bedeutender Marktort für die lokale Bevölkerung, die vor allem von der kleinbäuerlichen Landwirtschaft lebt. Erdkunde K7 – Agrarregionen und Verwaltung.",
       hu: "Paoua az Ouham-Pendé prefektúra egyik legnagyobb városa, az ország északnyugati részén, a Pendé folyó vízgyűjtő területén fekszik. A környék a gyapottermesztés egyik klasszikus központja a francia gyarmati időszak óta, és máig is jelentős szerepet tölt be a regionális mezőgazdaságban. A várost erdőkkel és termékeny szavannás területekkel veszik körül, ahol a manióka, a köles, a kukorica és a földimogyoró meghatározó kultúra. Paoua a polgárháborús években többször is konfliktusövezetté vált, és az ország egyik legnagyobb belső menekülttáborának ad otthont. A lakosság többségét a kare, gbaya és tali népcsoportok alkotják, akik mellett jelentős számú fula pásztor él a környéken. Földrajz K7 – Gyapottermesztés és belső menekültek.",
@@ -659,8 +678,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Batangafo",
       hu: "Batangafo",
       ro: "Batangafo",
-      en: "Batangafo"
-    },
+      en: "Batangafo",
+image: "/poi-images/batangafo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Batangafo liegt am Ufer des Ouham-Flusses in der Präfektur Ouham und ist ein bedeutender Ort im Norden des Landes. Die Lage am Fluss macht die Region besonders fruchtbar und begünstigt den Anbau von Feldfrüchten, die den lokalen Markt versorgen. Batangafo spielt eine wichtige Rolle bei der Verbindung der nördlichen Präfekturen mit dem Zentrum des Landes und dient als administrativer Ankerpunkt für die Region. Erdkunde K7 – Flusssysteme und regionale Versorgung.",
       hu: "Batangafo az Ouham prefektúra északi részén, az Ouham és a Bahr Aouk folyók találkozásánál fekvő település. A város a francia gyarmati időszakban a gyapotipar egyik központja volt, és ma is fontos piaci csomópont. A környék trópusi szavannás éghajlatú, ahol a gyapot mellett szezámmag, manióka és köles termesztése jellemző. A 2013-as polgárháború során Batangafo súlyosan érintett volt: az ország egyik legnagyobb belső menekülttáborát hozták létre itt, amely az Orvosok Határok Nélkül szervezet támogatásával működik. A lakosság a gbaya, runga és sara népcsoportokból tevődik össze, akik mellett a fula pásztorok szezonálisan jelennek meg a folyópartokon. A városban katolikus misszió és kórház is működik. Földrajz K7 – Folyótalálkozások és humanitárius városok.",
@@ -693,8 +713,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bossembélé",
       hu: "Bossembélé",
       ro: "Bossembélé",
-      en: "Bossembélé"
-    },
+      en: "Bossembélé",
+image: "/poi-images/bossembele-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bossembélé ist eine strategisch wichtige Stadt im Südwesten der Zentralafrikanischen Republik, gelegen an der Hauptverkehrsachse von Bangui nach Kamerun. Aufgrund ihrer Lage ist die Stadt ein zentraler Anlaufpunkt für den Transit von Waren und Reisenden, was ihre Bedeutung als lokales Handelszentrum unterstreicht. Bossembélé dient als wichtiger Verbindungspunkt für den wirtschaftlichen Austausch und ist ein wesentlicher Bestandteil des nationalen Logistiknetzes. Erdkunde K7 – Infrastruktur und Logistikknotenpunkte.",
       hu: "Bossembélé az Ombella-M'Poko prefektúra egyik legfontosabb közlekedési csomópontja, Banguitól mintegy 160 kilométerre északnyugatra, a Kamerun felé vezető fő útvonalon. A város stratégiai jelentőségét az adja, hogy itt találkoznak a Bouar–Bangui és a Bossangoa–Bangui útvonalak, így az ország nyugati és északi részének áruforgalma jórészt rajta keresztül áramlik. A környéken trópusi szavanna a meghatározó tájtípus, ahol a manióka, kukorica és földimogyoró termesztése folyik. Bossembélé a polgárháború idején több ízben is harcok színhelye volt, és katonai bázisként szolgált. A városban katolikus misszió, regionális kórház és élénk teherautó-pihenőzóna működik, amely a transzkontinentális kereskedelmet támogatja. Földrajz K7 – Logisztikai csomópontok és tranzitvárosok.",
@@ -727,8 +748,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Yaloké",
       hu: "Yaloké",
       ro: "Yaloké",
-      en: "Yaloké"
-    },
+      en: "Yaloké",
+image: "/poi-images/yaloke-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Yaloké liegt westlich der Hauptstadt Bangui und ist bekannt für seine bedeutenden Diamantenminen und als wichtiger Ort für die regionale Wirtschaft der Präfektur Ombella-M'Poko. Der Abbau von Rohstoffen ist eine Hauptbeschäftigung der lokalen Bevölkerung, wobei der Ort sowohl kleine als auch größere Bergbauaktivitäten beherbergt. Die strategische Lage macht Yaloké zudem zu einem Bindeglied für den Handel zwischen der Hauptstadt und den westlichen Regionen. Erdkunde K7 – Rohstoffabbau und Wirtschaft.",
       hu: "Yaloké az Ombella-M'Poko prefektúra északnyugati részén, Banguitól mintegy 220 kilométerre fekvő város, a fővárosból Bouar és Kamerun felé vezető főút mentén. A környék trópusi szavannás táj, amely manióka-, gyapot- és kávétermesztésnek ad otthont. Yaloké a 2014-es konfliktusok egyik szimbóluma lett, mivel itt alakult ki az ország egyik legnagyobb fula menekülttábora, ahol Orvosok Határok Nélkül és más nemzetközi szervezetek nyújtottak segítséget. A városban a gbaya és kare népcsoportok mellett jelentős fula pásztorközösség él, akik az átvonuló jószágokkal a Csád felé vezető útvonalakon mozognak. Yaloké éghajlata trópusi szavanna jellegű, kifejezett száraz és nedves évszakkal, és a környéken kis aranybányák is működnek. Földrajz K7 – Tranzitvárosok és menekültügy.",
@@ -760,8 +782,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bouca",
       hu: "Bouca",
       ro: "Bouca",
-      en: "Bouca"
-    },
+      en: "Bouca",
+image: "/poi-images/bouca-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bouca liegt im Norden der Zentralafrikanischen Republik in der Präfektur Ouham. Die Stadt dient als lokaler Mittelpunkt für die landwirtschaftliche Produktion und den Austausch von Waren in einer Region, die durch ihre weiten Savannen charakterisiert ist. Die Bewohner der Stadt sind stark mit der bäuerlichen Tradition verbunden, und Bouca fungiert als wichtiges Zentrum für die Versorgung der umliegenden ländlichen Gebiete mit notwendigen Gütern und Dienstleistungen. Erdkunde K7 – Landwirtschaftliche Siedlungsmuster.",
       hu: "Bouca az Ouham prefektúra délkeleti részén, a Bossangoát Kaga-Bandoróval összekötő útvonal mentén fekvő település. A környék termékeny szavannás táj, ahol a gyapot, a manióka és a köles termesztése a fő gazdasági tevékenység. A város a 2013–2014-es konfliktusok során súlyos károkat szenvedett, és lakosságának nagy része időszakosan elhagyni kényszerült otthonát. Az itt élő gbaya, banda és fula közösségek között a polgárháború utáni évek megbékélést szolgáló folyamatai zajlanak, katolikus és protestáns missziók részvételével. A környéken galériaerdők kísérik a folyópartokat, és időszakos vízfolyások szabdalják a vidéket. Bouca regionális piaca rendszeres találkozási pont a környékbeli falvak gazdái és a kereskedők számára. Földrajz K7 – Megbékélés és vidéki piacok.",
@@ -793,8 +816,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Kabo",
       hu: "Kabo",
       ro: "Kabo",
-      en: "Kabo"
-    },
+      en: "Kabo",
+image: "/poi-images/kabo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kabo liegt im hohen Norden der Zentralafrikanischen Republik nahe der Grenze zum Tschad und ist ein bedeutender Handelsort der Präfektur Ouham. Die Stadt dient als Transitstation für den grenzüberschreitenden Handel und ist ein wichtiger Umschlagplatz für Waren, die zwischen der Zentralafrikanischen Republik und dem Tschad ausgetauscht werden. Ihre geografische Position in einer Savannenregion macht Kabo zu einem entscheidenden Ort für die regionale wirtschaftliche Integration. Erdkunde K7 – Grenzen und wirtschaftliche Interaktion.",
       hu: "Kabo az Ouham prefektúra északi részén, az Ouham folyó középső szakaszán, a Csád felé vezető útvonal mentén fekvő város. Történelmileg fontos átkelőhely volt a transz-szaharai marhakereskedelem útvonalán, és a francia gyarmati közigazgatás idején a gyapotipar egyik bázisa. A környéken trópusi szavanna és galériaerdők váltakoznak, ahol a gyapot mellett a köles, a kukorica és a manióka termesztése jellemző. A 2013 utáni konfliktusok alatt Kabo súlyosan érintett volt, és nagy belső menekülttábor jött létre a városban, amelyet humanitárius szervezetek tartanak fenn. A lakosságot főleg a gbaya, runga és fula népcsoportok alkotják, akik együtt élnek a vidéken átvonuló pásztorközösségekkel. Földrajz K7 – Átkelőhelyek és pásztorgazdaság.",
@@ -826,8 +850,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bocaranga",
       hu: "Bocaranga",
       ro: "Bocaranga",
-      en: "Bocaranga"
-    },
+      en: "Bocaranga",
+image: "/poi-images/bocaranga-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bocaranga ist eine bedeutende Stadt im Nordwesten des Landes, gelegen in der Präfektur Ouham-Pendé. Die Stadt ist bekannt als Zentrum für den Getreideanbau und ist ein wichtiger Knotenpunkt für den Handel in einer Region, die für ihre fruchtbaren Böden und günstigen klimatischen Bedingungen geschätzt wird. Als administrativer Stützpunkt spielt Bocaranga eine zentrale Rolle bei der Organisation des wirtschaftlichen Lebens in einer der wichtigsten Agrarpräfekturen der Zentralafrikanischen Republik. Erdkunde K7 – Agrarstrukturen in Zentralafrika.",
       hu: "Bocaranga az Ouham-Pendé prefektúra nyugati részén, a Yadé-fennsíkon, közel a kameruni határhoz fekvő hegyvidéki város. Az ország egyik legmagasabb fekvésű települése, közel 1100 méteres tengerszint feletti magassággal, ami hűvösebb mikroklímát kölcsönöz neki, mint az alföldi vidékeknek. A környéken kávét, almát, banánt és zöldségeket termesztenek, sőt, a francia gyarmati időszakban kísérleti almaültetvények is létesültek. A lakosság többségét a kare és gbaya népcsoport alkotja, akik mellett fula pásztorközösségek élnek. A környező hegyek a Mbéré- és Logone-folyó vízgyűjtőjéhez tartoznak. Bocaranga a polgárháború során számos összecsapás színtere volt, és határvidéki helyzete miatt a határőrizet egyik kulcsfontosságú pontja. Földrajz K7 – Hegyvidéki városok és mikroklíma.",
@@ -859,8 +884,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Kouango",
       hu: "Kouango",
       ro: "Kouango",
-      en: "Kouango"
-    },
+      en: "Kouango",
+image: "/poi-images/kouango-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kouango liegt im Süden der Präfektur Ouaka am rechten Ufer des Ubangi-Flusses, gegenüber der Demokratischen Republik Kongo. Die Stadt diente in der französischen Kolonialzeit als wichtiger Flusshafen für den Transport von Kautschuk, Baumwolle und Palmöl flussabwärts nach Bangui. Heute lebt die Bevölkerung überwiegend von Fischfang, Maniokanbau und kleinem Grenzhandel mit den kongolesischen Dörfern auf dem gegenüberliegenden Ufer. Die Landschaft besteht aus Galeriewäldern entlang des Flusses und feuchten Savannen im Hinterland. Während des Bürgerkriegs nach 2013 war Kouango wiederholt von bewaffneten Gruppen besetzt, was die wirtschaftliche Entwicklung erheblich verzögerte. Die Mehrheit der Einwohner gehört den Banda- und Langbasi-Völkern an. Erdkunde K7 – Flussstädte und Grenzhandel.",
       hu: "Kouango az Ouaka prefektúra déli részén, az Ubangi folyó jobb partján fekvő város, szemben a Kongói Demokratikus Köztársasággal. A francia gyarmati időszakban a folyami kereskedelem fontos kikötője volt, ahonnan kaucsukot, gyapotot és pálmaolajat szállítottak Bangui felé. Ma a lakosság elsősorban halászatból, manióka- és pálmaolaj-termelésből, valamint a folyó túloldalán fekvő kongói falvakkal folytatott kis léptékű kereskedelemből él. A táj a folyópartokat kísérő galériaerdőkből és a hátország nedves szavannáiból áll. A 2013 utáni polgárháború során Kouangót több alkalommal is fegyveres csoportok foglalták el, ami jelentősen lassította a település fejlődését. A lakosság többsége a banda és langbasi népcsoporthoz tartozik. Földrajz K7 – Folyóparti városok és határ menti kereskedelem.",
@@ -892,8 +918,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Grimari",
       hu: "Grimari",
       ro: "Grimari",
-      en: "Grimari"
-    },
+      en: "Grimari",
+image: "/poi-images/grimari-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Grimari liegt im Westen der Präfektur Ouaka, etwa auf halber Strecke zwischen Bambari und Sibut, an der Hauptstraße, die das östliche Hinterland mit der Hauptstadt Bangui verbindet. Die Stadt entstand in der französischen Kolonialzeit als landwirtschaftliches Zentrum für den Anbau von Baumwolle, Kaffee und Maniok in den fruchtbaren Savannen der Region. Die Bevölkerung gehört überwiegend zu den Banda- und Mandja-Völkern, die seit Generationen Landwirtschaft, Fischerei und traditionelles Handwerk pflegen. Während des Bürgerkriegs ab 2013 wurde Grimari mehrfach Schauplatz von Kämpfen, und die Stadt beherbergt bis heute Programme zur Wiedereingliederung ehemaliger Kämpfer. Die nahegelegenen Galeriewälder am Bambari-Fluss bieten reiche biologische Vielfalt. Erdkunde K7 – Savannenstädte und ländliche Wirtschaft.",
       hu: "Grimari az Ouaka prefektúra nyugati részén, körülbelül félúton Bambari és Sibut között, a keleti hátországot a fővárossal, Banguival összekötő főút mentén fekszik. A város a francia gyarmati időszakban jött létre mezőgazdasági központként, a gyapot, a kávé és a manióka termesztésére alkalmas termékeny szavannás vidéken. A lakosság többsége a banda és mandja népcsoporthoz tartozik, akik nemzedékek óta földművelésből, halászatból és hagyományos kézművességből élnek. A 2013-tól kibontakozott polgárháború idején Grimari többször is harcok színhelye volt, és a város ma is otthont ad volt fegyveresek reintegrációs programjainak. A közeli, Bambari folyót kísérő galériaerdők gazdag biológiai sokféleséget rejtenek. Földrajz K7 – Szavannavárosok és vidéki gazdaság.",
@@ -926,8 +953,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Alindao",
       hu: "Alindao",
       ro: "Alindao",
-      en: "Alindao"
-    },
+      en: "Alindao",
+image: "/poi-images/alindao-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Alindao ist die Hauptstadt der Präfektur Basse-Kotto im Süden der Zentralafrikanischen Republik und liegt am Mbomou-Becken, etwa 500 km östlich von Bangui. Die Stadt ist Sitz einer katholischen Diözese und ein wichtiges Handelszentrum für die umliegenden Dörfer, in denen Kaffee, Maniok und Palmöl angebaut werden. Während des Bürgerkriegs nach 2013 erlebte Alindao mehrere schwerwiegende Angriffe, darunter den tragischen Massaker von 2018, bei dem zahlreiche Binnenvertriebene auf dem Gelände der Bischofsresidenz getötet wurden. Die Bevölkerung gehört vorwiegend den Banda- und Yakoma-Völkern an. Die landwirtschaftlich geprägte Umgebung wird von feuchten Savannen und Galeriewäldern dominiert, die ein typisches zentralafrikanisches Tieflandklima aufweisen. Erdkunde K7 – Diözesanstädte und Nachkriegsentwicklung.",
       hu: "Alindao a Basse-Kotto prefektúra központja az ország déli részén, a Mbomou-medence területén, mintegy 500 kilométerre keletre Banguitól. A város katolikus egyházmegyei székhely és fontos kereskedelmi központ a környező falvak számára, ahol kávét, maniókát és pálmaolajat termelnek. A 2013 utáni polgárháború idején Alindao többször súlyos támadások színtere lett, közülük a legtragikusabb a 2018-as mészárlás volt, amikor számos belső menekültet öltek meg a püspöki rezidencia területén. A lakosság többsége a banda és yakoma népcsoporthoz tartozik. A környezetet főleg nedves szavannák és galériaerdők uralják, jellegzetes közép-afrikai síksági éghajlattal. Földrajz K7 – Egyházmegyei városok és háború utáni újjáépítés.",
@@ -959,8 +987,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Kembé",
       hu: "Kembé",
       ro: "Kembé",
-      en: "Kembé"
-    },
+      en: "Kembé",
+image: "/poi-images/kembe-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kembé liegt in der Präfektur Basse-Kotto am gleichnamigen Wasserfall des Kotto-Flusses, etwa 80 km westlich von Mobaye. Die imposanten Kembé-Wasserfälle gehören zu den eindrucksvollsten Naturwundern des Landes und besitzen ein erhebliches, jedoch noch wenig erschlossenes touristisches Potenzial. Die Stadt diente in der Kolonialzeit als kleines Verwaltungs- und Handelszentrum und ist heute ein lokaler Markt für Maniok, Bananen und Fisch aus dem Kotto-Fluss. Die Bevölkerung gehört überwiegend den Banda-Völkern an, die traditionelle Fischerei und kleine Landwirtschaft betreiben. Die umgebende Landschaft besteht aus Galeriewäldern entlang des Flusses und feuchten Savannenflächen mit typischer Tropenfauna. Erdkunde K7 – Wasserfälle und naturtouristisches Potenzial.",
       hu: "Kembé a Basse-Kotto prefektúrában fekszik, a Kotto folyó azonos nevű vízeséseinél, mintegy 80 kilométerre Mobayétől nyugatra. A lenyűgöző Kembé-vízesés az ország egyik legszebb természeti csodája, jelentős, ám még alig kiaknázott turisztikai potenciállal. A város a gyarmati időszakban kis közigazgatási és kereskedelmi központként működött, ma pedig helyi piac, ahol maniókát, banánt és a Kotto folyóból származó halat árulnak. A lakosság főleg a banda népcsoporthoz tartozik, akik hagyományos halászatból és kisparaszti gazdálkodásból élnek. A környező táj galériaerdőkből és nedves szavannákból áll, jellegzetes trópusi élővilággal. Földrajz K7 – Vízesések és természeti turizmus.",
@@ -992,8 +1021,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Gambo",
       hu: "Gambo",
       ro: "Gambo",
-      en: "Gambo"
-    },
+      en: "Gambo",
+image: "/poi-images/gambo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Gambo ist eine Kleinstadt in der Präfektur Mbomou, gelegen am gleichnamigen Nebenfluss des Mbomou-Flusses, südöstlich von Bangassou. Die Region ist tief im äquatorialen Regenwaldgürtel verankert und zeichnet sich durch dichte Wälder, hohe Niederschlagsmengen und eine außergewöhnliche Biodiversität aus. Wirtschaftlich basiert Gambo auf Kleinbauern, die Kaffee, Kakao, Palmöl und Maniok anbauen, sowie auf traditionellem Goldwaschen entlang der Flussufer. Die Bevölkerung besteht überwiegend aus Nzakara- und Zande-Gemeinschaften, die in patrilinearen Dorfstrukturen leben. Während des Bürgerkriegs war Gambo aufgrund seiner Grenznähe zur Demokratischen Republik Kongo wiederholt Schauplatz humanitärer Krisen. Erdkunde K7 – Regenwaldorte und Kleingoldgewinnung.",
       hu: "Gambo a Mbomou prefektúrában fekvő kisváros, az azonos nevű mellékfolyó partján, Bangassoutól délkeletre. A régió mélyen az egyenlítői esőerdő öve fekszik, és sűrű erdők, bőséges csapadék és kivételes biológiai sokféleség jellemzi. Gazdaságát kistermelők alkotják, akik kávét, kakaót, pálmaolajat és maniókát termesztenek, miközben a folyópartokon hagyományos aranymosás is zajlik. A lakosságot főként nzakara és zande közösségek alkotják, akik patrilineáris falustruktúrákban élnek. A polgárháború idején Gambo a Kongói Demokratikus Köztársasággal közös határ közelsége miatt többször is humanitárius válság színhelye lett. Földrajz K7 – Esőerdei települések és aranymosás.",
@@ -1025,8 +1055,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Ouadda",
       hu: "Ouadda",
       ro: "Ouadda",
-      en: "Ouadda"
-    },
+      en: "Ouadda",
+image: "/poi-images/ouadda-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Ouadda liegt im Norden der Präfektur Haute-Kotto auf dem zentralen Hochplateau der Zentralafrikanischen Republik, nahe der Wasserscheide zwischen den Becken von Tschad und Kongo. Die Stadt ist ein historisches Zentrum der Diamantengewinnung; bereits in den 1930er Jahren wurden hier ergiebige alluviale Vorkommen entdeckt, die das wirtschaftliche Schicksal der Region prägten. Die hochgelegene Lage sorgt für ein vergleichsweise mildes Klima mit kühleren Nächten als im Tiefland. Die Bevölkerung gehört zu den Runga- und Banda-Völkern und lebt überwiegend von Kleinbergbau, Jagd und Subsistenzlandwirtschaft. Die umliegende Region ist ein wichtiger Korridor für Wildtiere zwischen den nördlichen Schutzgebieten und den südlichen Wäldern. Erdkunde K7 – Diamantenplateaus und Wildtierkorridore.",
       hu: "Ouadda a Haute-Kotto prefektúra északi részén, a Közép-afrikai Köztársaság középső fennsíkján fekszik, közel a Csád- és a Kongó-medence vízválasztójához. A város a gyémántkitermelés történelmi központja: az 1930-as években fedezték fel itt a gazdag alluviális lelőhelyeket, amelyek meghatározták a régió gazdasági sorsát. Magas fekvése viszonylag enyhe éghajlatot biztosít, hűvösebb éjszakákkal, mint az alföldi területeken. A lakosság a runga és banda népcsoporthoz tartozik, akik elsősorban kisbányászatból, vadászatból és önellátó mezőgazdaságból élnek. A környező vidék fontos vadvilági folyosót alkot az északi védett területek és a déli erdők között. Földrajz K7 – Gyémántfennsíkok és vadvilági folyosók.",
@@ -1058,8 +1089,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bakouma",
       hu: "Bakouma",
       ro: "Bakouma",
-      en: "Bakouma"
-    },
+      en: "Bakouma",
+image: "/poi-images/bakouma-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bakouma liegt in der Präfektur Mbomou im Südosten der Zentralafrikanischen Republik und ist in geologischen Kreisen für seine bedeutenden Uranvorkommen bekannt. In den 1970er Jahren begannen französische Bergbaugesellschaften erste Erkundungen, später übernahmen kanadische und russische Unternehmen die Lizenzen, doch ein industrieller Abbau im großen Stil ist bis heute nicht zustande gekommen. Die Stadt selbst ist eine kleine ländliche Siedlung, deren Bewohner überwiegend Nzakara und Zande sind und von Maniok-, Kaffee- und Palmölanbau leben. Die umliegenden Galeriewälder beherbergen Schimpansen und Waldelefanten. Während des Bürgerkriegs war Bakouma aufgrund seiner abgelegenen Lage praktisch von Bangui isoliert. Erdkunde K7 – Uranlagerstätten und ländliche Isolation.",
       hu: "Bakouma a Mbomou prefektúrában, az ország délkeleti részén fekszik, és geológiai körökben jelentős uránérc-előfordulásairól ismert. Az 1970-es években francia bányatársaságok kezdték az első kutatásokat, később kanadai és orosz vállalatok vették át a koncessziókat, de a nagyüzemi kitermelés a mai napig nem indult el. A város maga kis vidéki település, amelynek lakói főként nzakara és zande népcsoporthoz tartoznak, és manióka-, kávé- és pálmaolaj-termesztésből élnek. A környező galériaerdők csimpánzoknak és erdei elefántoknak adnak otthont. A polgárháború alatt Bakouma elszigetelt fekvése miatt gyakorlatilag elszakadt Banguitól. Földrajz K7 – Uránlelőhelyek és vidéki elszigeteltség.",
@@ -1092,8 +1124,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Rafaï",
       hu: "Rafaï",
       ro: "Rafaï",
-      en: "Rafaï"
-    },
+      en: "Rafaï",
+image: "/poi-images/rafai-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Rafaï liegt im äußersten Südosten der Zentralafrikanischen Republik, in der Präfektur Mbomou, am Ufer des gleichnamigen Flusses Chinko. Die Stadt war in der Kolonialzeit Sitz des einflussreichen Sultans Hetman, dessen Palast bis heute als historisches Wahrzeichen gilt. Die umliegende Region beherbergt das Chinko-Schutzreservat, eines der größten und letzten unberührten Wildnisgebiete Afrikas, in dem Löwen, Elefanten und seltene Antilopenarten leben. Die örtliche Wirtschaft basiert auf Kaffee- und Maniokanbau, Honigsammeln und kleinbäuerlicher Viehzucht. Die Bevölkerung besteht überwiegend aus Zande-Gemeinschaften. Wegen seiner Abgeschiedenheit war Rafaï während des Bürgerkriegs nur schwer zu erreichen, doch das Reservat lockt seit einigen Jahren wieder Naturschutzinitiativen an. Erdkunde K7 – Sultanate und Wildnisreservate.",
       hu: "Rafaï az ország délkeleti csücskében, a Mbomou prefektúrában, az azonos nevű Chinko folyó partján fekszik. A város a gyarmati időszakban a befolyásos Hetman szultán székhelye volt, akinek palotája ma is történelmi nevezetességként áll. A környező térség otthont ad a Chinko Természetvédelmi Területnek, amely Afrika egyik legnagyobb és legérintetlenebb vadonvidéke, ahol oroszlánok, elefántok és ritka antilopfajok élnek. A helyi gazdaság kávé- és maniókatermesztésen, mézgyűjtésen és kisparaszti állattartáson alapul. A lakosság többsége zande közösségekhez tartozik. Elszigeteltsége miatt Rafaï a polgárháború idején nehezen volt elérhető, de a természetvédelmi területet az utóbbi években ismét egyre több civil szervezet támogatja. Földrajz K7 – Szultánságok és vadrezervátumok.",
@@ -1125,8 +1158,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Zémio",
       hu: "Zémio",
       ro: "Zémio",
-      en: "Zémio"
-    },
+      en: "Zémio",
+image: "/poi-images/zemio-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Zémio liegt im Südosten der Zentralafrikanischen Republik in der Präfektur Haut-Mbomou, nahe der Grenze zur Demokratischen Republik Kongo. Die Stadt war im 19. Jahrhundert ein bedeutender Handelsposten der Zande und ist nach dem gleichnamigen Sultan benannt, der die Region einigte. Heute lebt die Bevölkerung hauptsächlich von Kaffee-, Maniok- und Palmölanbau sowie von kleinflächigem Goldwaschen. Die Region ist von dichten tropischen Wäldern und Galeriewäldern entlang der Flüsse geprägt, mit hoher biologischer Vielfalt. Während des Bürgerkriegs war Zémio aufgrund der LRA-Aktivitäten und späterer Konflikte ein humanitärer Brennpunkt, in dem mehrere Vertriebenenlager unter UN-Aufsicht entstanden. Die ethnische Mehrheit bilden Zande-Gemeinschaften. Erdkunde K7 – Zande-Sultanate und humanitäre Korridore.",
       hu: "Zémio az ország délkeleti részén, a Haut-Mbomou prefektúrában, a Kongói Demokratikus Köztársasággal közös határ közelében fekszik. A város a 19. században jelentős zande kereskedelmi pont volt, és az azonos nevű szultánról kapta a nevét, aki egyesítette a régiót. Ma a lakosság elsősorban kávé-, manióka- és pálmaolaj-termesztésből, valamint kisüzemi aranymosásból él. A térséget sűrű trópusi erdők és a folyók mentén húzódó galériaerdők jellemzik, gazdag élővilággal. A polgárháború során Zémio az LRA-tevékenység és a későbbi konfliktusok miatt humanitárius gócponttá vált, ahol több ENSZ-felügyelet alatt működő menekülttábor jött létre. Az etnikai többséget zande közösségek alkotják. Földrajz K7 – Zande-szultánságok és humanitárius folyosók.",
@@ -1158,8 +1192,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Boali",
       hu: "Boali",
       ro: "Boali",
-      en: "Boali"
-    },
+      en: "Boali",
+image: "/poi-images/boali-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Boali liegt rund 90 km nordwestlich von Bangui in der Präfektur Ombella-M'Poko und ist vor allem für die spektakulären Boali-Wasserfälle des M'Bali-Flusses berühmt. Mit einer Höhe von rund 50 Metern und einer Breite von etwa 250 Metern in der Regenzeit zählen sie zu den eindrucksvollsten Naturschauspielen Zentralafrikas. Direkt unterhalb der Fälle befindet sich das wichtigste Wasserkraftwerk des Landes, das einen erheblichen Teil des Stromes für Bangui liefert. Boali ist ein beliebtes Ausflugsziel und besitzt eine bescheidene touristische Infrastruktur. Die Bevölkerung gehört vorwiegend zu den Mbati-Völkern und lebt von Landwirtschaft sowie kleinem Gewerbe. Die umliegende Landschaft besteht aus tropischer Savanne und Galeriewäldern. Erdkunde K7 – Wasserfälle und Wasserkraft.",
       hu: "Boali Banguitól mintegy 90 kilométerre északnyugatra, az Ombella-M'Poko prefektúrában fekszik, és elsősorban a látványos Boali-vízesésről híres, amelyet az M'Bali folyó alkot. A mintegy 50 méter magas és az esős évszakban közel 250 méter széles vízesés Közép-Afrika egyik legimpozánsabb természeti látványossága. Közvetlenül a vízesés alatt található az ország legfontosabb vízerőműve, amely Bangui áramellátásának jelentős részét biztosítja. Boali kedvelt kirándulóhely, ahol szerény turisztikai infrastruktúra működik. A lakosság főleg az mbati népcsoporthoz tartozik, és mezőgazdaságból, valamint kisiparból él. A környező táj trópusi szavanna és galériaerdő. Földrajz K7 – Vízesések és vízenergia.",
@@ -1191,8 +1226,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Damara",
       hu: "Damara",
       ro: "Damara",
-      en: "Damara"
-    },
+      en: "Damara",
+image: "/poi-images/damara-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Damara liegt in der Präfektur Ombella-M'Poko, etwa 75 km nördlich von Bangui an der Hauptstraße nach Sibut und Kaga-Bandoro. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und war historisch bekannt für ihre Baumwollverarbeitung in der französischen Kolonialzeit. Die fruchtbaren Savannen rund um Damara unterstützen den Anbau von Maniok, Erdnüssen, Mais und Sorghum. In der Region leben überwiegend Mandja- und Banda-Gemeinschaften, die alte traditionelle Riten und Tänze pflegen. Während der Krise nach 2013 spielte Damara eine strategische Rolle als Pufferzone zwischen den verfeindeten Milizen, was den Wiederaufbau verzögerte. Heute ist die Stadt ein lebhafter Marktplatz, an dem regionale Produkte aus dem Norden gehandelt werden. Erdkunde K7 – Verkehrsknoten und Pufferzonen.",
       hu: "Damara az Ombella-M'Poko prefektúrában fekszik, mintegy 75 kilométerre északra Banguitól, a Sibut és Kaga-Bandoro felé vezető főút mentén. A város fontos közlekedési csomópont, és történelmileg a francia gyarmati időszak gyapotfeldolgozásáról ismert. A Damara körüli termékeny szavannás vidék manióka, földimogyoró, kukorica és cirok termesztésének kedvez. A környéken főként mandja és banda közösségek élnek, akik régi hagyományos szertartásokat és táncokat ápolnak. A 2013 utáni válság idején Damara stratégiai szerepet kapott pufferzónaként az egymással szemben álló milíciák között, ami lassította az újjáépítést. Ma a város élénk piaci helyszín, ahol az északi régió termékeit forgalmazzák. Földrajz K7 – Csomópontok és pufferzónák.",
@@ -1224,8 +1260,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Mongoumba",
       hu: "Mongoumba",
       ro: "Mongoumba",
-      en: "Mongoumba"
-    },
+      en: "Mongoumba",
+image: "/poi-images/mongoumba-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mongoumba ist eine kleine Hafenstadt im Süden der Präfektur Lobaye, am Nordufer des Ubangi-Flusses gelegen, gegenüber der Demokratischen Republik Kongo. Die Stadt war historisch ein wichtiger Knotenpunkt für den Flusshandel zwischen Bangui und den Dörfern an der kongolesischen Grenze. Die Region ist tief im äquatorialen Regenwaldgürtel verankert und beherbergt Aka-Pygmäen-Gemeinschaften, die ein traditionelles Jäger-Sammler-Leben in den dichten Wäldern führen. Die wirtschaftliche Basis bilden Fischfang, Maniokanbau und der Handel mit Palmprodukten. Die hohe Niederschlagsmenge fördert eine üppige tropische Vegetation, und die Galeriewälder am Ubangi sind reich an Vogelarten. Erdkunde K7 – Flusshäfen und Pygmäen-Gemeinschaften.",
       hu: "Mongoumba kis kikötőváros a Lobaye prefektúra déli részén, az Ubangi folyó északi partján, szemben a Kongói Demokratikus Köztársasággal. A település történelmileg fontos csomópont volt a Bangui és a kongói határ menti falvak közötti folyami kereskedelemben. A térség mélyen az egyenlítői esőerdő öve fekszik, és aka pigmeus közösségeknek ad otthont, akik a sűrű erdőkben hagyományos vadászó-gyűjtögető életmódot folytatnak. A gazdaság alapját a halászat, a maniókatermesztés és a pálmatermékek kereskedelme képezi. A bőséges csapadék buja trópusi növényzetet táplál, és az Ubangi mentén húzódó galériaerdők gazdag madárvilágnak adnak otthont. Földrajz K7 – Folyami kikötők és pigmeus közösségek.",
@@ -1257,8 +1294,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Boda",
       hu: "Boda",
       ro: "Boda",
-      en: "Boda"
-    },
+      en: "Boda",
+image: "/poi-images/boda-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Boda liegt in der Präfektur Lobaye im Südwesten der Zentralafrikanischen Republik und ist das Zentrum eines wichtigen Diamantenbergbaugebiets. Die kleinflächige, handwerkliche Diamantengewinnung in den Flussterrassen rund um Boda zieht seit Jahrzehnten Schürfer aus dem ganzen Land an. Die Bevölkerung ist ethnisch sehr gemischt, mit Banda-, Gbaya- und Mbati-Gemeinschaften sowie zahlreichen muslimischen Händlern, die traditionell die Diamantenhandelsketten kontrollieren. Während des Bürgerkriegs nach 2013 wurde Boda zum Schauplatz schwerer interkommunaler Spannungen. Die umliegende Landschaft ist von feuchten Wäldern und Bananenplantagen geprägt. Heute beherbergt die Stadt zahlreiche Friedens- und Reintegrationsprogramme. Erdkunde K7 – Diamantenstädte und interkommunale Versöhnung.",
       hu: "Boda az ország délnyugati részén, a Lobaye prefektúrában fekszik, és egy fontos gyémántbányászati terület központja. A Boda körüli folyóteraszokon folyó kisüzemi, kézműves gyémántkitermelés évtizedek óta vonz az ország minden részéből érkező bányászokat. A lakosság etnikailag nagyon vegyes: banda, gbaya és mbati közösségek élnek itt, valamint számos muszlim kereskedő, akik hagyományosan a gyémántkereskedelmi láncokat ellenőrzik. A 2013 utáni polgárháború során Boda súlyos közösségek közötti feszültségek színhelye lett. A környező táj nedves erdőkkel és banánültetvényekkel tarkított. Ma a város számos béke- és reintegrációs programnak ad otthont. Földrajz K7 – Gyémántvárosok és közösségi megbékélés.",
@@ -1290,8 +1328,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Gadzi",
       hu: "Gadzi",
       ro: "Gadzi",
-      en: "Gadzi"
-    },
+      en: "Gadzi",
+image: "/poi-images/gadzi-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Gadzi ist eine kleine Stadt in der Präfektur Mambéré-Kadéï im Südwesten der Zentralafrikanischen Republik, an der Verkehrsachse zwischen Berbérati und Carnot. Die Region ist von feuchten Tropenwäldern und Galeriewäldern entlang der zahlreichen Flüsse geprägt. Wirtschaftlich ist Gadzi eng mit dem Diamanten- und Holzhandel verbunden, da viele kleine Schürferdörfer in der Umgebung Diamanten aus den Flussterrassen gewinnen. Die Bevölkerung besteht überwiegend aus Gbaya-Gemeinschaften, die traditionelle Landwirtschaft mit Maniok, Mais und Bananen betreiben. Die abgelegene Lage und die schlechten Straßen machen Gadzi zu einer typischen ländlichen Verwaltungseinheit, in der die Marktversorgung saisonal abhängt. Erdkunde K7 – Bergbau und ländliche Versorgungsketten.",
       hu: "Gadzi kisváros a Mambéré-Kadéï prefektúrában, az ország délnyugati részén, a Berbérati és Carnot közötti közlekedési tengelyen. A térséget nedves trópusi erdők és a számos folyó mentén húzódó galériaerdők jellemzik. Gazdaságilag Gadzi szorosan kapcsolódik a gyémánt- és fakereskedelemhez, mivel a környező apró bányászfalvak gyémántot nyernek a folyóteraszokból. A lakosság többsége gbaya közösségekhez tartozik, akik hagyományos földművelést folytatnak: maniókát, kukoricát és banánt termesztenek. Az elszigetelt fekvés és a rossz utak miatt Gadzi tipikus vidéki közigazgatási egység, ahol a piaci ellátás évszakfüggő. Földrajz K7 – Bányászat és vidéki ellátási láncok.",
@@ -1323,8 +1362,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Amada-Gaza",
       hu: "Amada-Gaza",
       ro: "Amada-Gaza",
-      en: "Amada-Gaza"
-    },
+      en: "Amada-Gaza",
+image: "/poi-images/amada-gaza-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Amada-Gaza liegt in der Präfektur Mambéré-Kadéï im Südwesten der Zentralafrikanischen Republik, in einer Region dichter tropischer Regenwälder. Die Stadt ist überwiegend ländlich geprägt und stellt einen wichtigen lokalen Sammelpunkt für Holz, Maniok und Kaffee dar. Wegen der ausgedehnten Wälder ist die Forstwirtschaft ein zentraler Wirtschaftszweig, der jedoch in den letzten Jahren mit Problemen illegaler Abholzung zu kämpfen hat. Die Bevölkerung besteht überwiegend aus Gbaya- und Aka-Pygmäen-Gemeinschaften, die in symbiotischen Dorfstrukturen zusammenleben. Die nahegelegenen Flüsse gehören zum Einzugsgebiet des Sangha-Flusses und beherbergen seltene Fischarten. Erdkunde K7 – Regenwaldwirtschaft und ethnische Symbiose.",
       hu: "Amada-Gaza a Mambéré-Kadéï prefektúrában fekszik az ország délnyugati részén, sűrű trópusi esőerdők övezte vidéken. A település jellemzően vidéki, és fontos helyi gyűjtőpontként szolgál a fa, manióka és kávé számára. A kiterjedt erdők miatt az erdőgazdálkodás központi gazdasági ág, amely azonban az utóbbi években illegális fakitermelési problémákkal küzd. A lakosság többségét gbaya és aka pigmeus közösségek alkotják, akik szimbiotikus falustruktúrákban élnek együtt. A közeli folyók a Sangha folyó vízgyűjtőjéhez tartoznak, és ritka halfajoknak adnak otthont. Földrajz K7 – Esőerdei gazdaság és etnikai szimbiózis.",
@@ -1356,8 +1396,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Abba",
       hu: "Abba",
       ro: "Abba",
-      en: "Abba"
-    },
+      en: "Abba",
+image: "/poi-images/abba-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Abba ist eine kleine Gemeinde in der Präfektur Nana-Mambéré im Westen der Zentralafrikanischen Republik. Die Stadt liegt auf dem westlichen Hochplateau, in einer Höhenlage, die für ein angenehmeres Klima als in den Tieflandgebieten sorgt. Die umliegende Landschaft ist von Savanne und kleinen Galeriewäldern geprägt, in denen Bauern Mais, Maniok und Kaffee anbauen. Die Bevölkerung gehört überwiegend zu den Gbaya- und Mbum-Völkern, die seit Generationen traditionelle Riten, Tänze und Schmiedehandwerk bewahren. Abba liegt nahe der wichtigsten Verkehrsachse nach Kamerun und profitiert von einem kleinen Grenzhandel. Während des Bürgerkriegs blieb die Region relativ stabil, was die Stadt zu einem Anlaufpunkt für Vertriebene aus stärker betroffenen Gebieten machte. Erdkunde K7 – Plateaustädte und Grenzwirtschaft.",
       hu: "Abba kisközség a Nana-Mambéré prefektúrában, az ország nyugati részén. A település a nyugati fennsíkon helyezkedik el, olyan magasságban, amely kellemesebb éghajlatot biztosít, mint a síksági területek. A környező táj szavannás és kisebb galériaerdőkkel tarkított, ahol a parasztok kukoricát, maniókát és kávét termesztenek. A lakosság többsége a gbaya és mbum népcsoporthoz tartozik, akik nemzedékek óta őriznek hagyományos szertartásokat, táncokat és kovácsmesterséget. Abba a Kamerun felé vezető legfontosabb közlekedési tengely közelében fekszik, és kis léptékű határ menti kereskedelemből is profitál. A polgárháború idején a térség viszonylag stabil maradt, így a város a súlyosabban érintett területekről menekülők egyik felvevőhelyévé vált. Földrajz K7 – Fennsíkvárosok és határgazdaság.",
@@ -1389,8 +1430,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Baboua",
       hu: "Baboua",
       ro: "Baboua",
-      en: "Baboua"
-    },
+      en: "Baboua",
+image: "/poi-images/baboua-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Baboua liegt in der Präfektur Nana-Mambéré im Westen der Zentralafrikanischen Republik, an der Hauptstraße zwischen Bouar und der Grenze zu Kamerun. Die Stadt ist ein zentraler Knotenpunkt für den grenzüberschreitenden Warenverkehr und beherbergt zahlreiche kleine Speditionen sowie einen lebhaften LKW-Stopp. Die umliegende Region zeichnet sich durch eine Mischung aus tropischer Savanne, Galeriewäldern und kleinen Bergketten aus. Die Bevölkerung gehört überwiegend zu den Mbum-, Gbaya- und Fulani-Gemeinschaften, die Landwirtschaft, Viehzucht und Handel betreiben. Während des Bürgerkriegs ab 2013 wurde Baboua mehrfach Schauplatz von Auseinandersetzungen, doch dank der grenznahen Lage konnte sich die wirtschaftliche Aktivität teilweise wieder erholen. Erdkunde K7 – Grenzstädte und Logistikkorridore.",
       hu: "Baboua a Nana-Mambéré prefektúrában fekszik az ország nyugati részén, a Bouar és a kameruni határ közötti főút mentén. A város fontos csomópont a határon átnyúló áruforgalomban, és számos kis fuvarozó cég, valamint egy élénk teherautó-pihenőhely is működik itt. A környező táj a trópusi szavanna, a galériaerdők és a kisebb hegyláncok keverékéből áll. A lakosság többsége a mbum, gbaya és fula közösségekhez tartozik, akik mezőgazdasággal, állattartással és kereskedelemmel foglalkoznak. A 2013-tól tartó polgárháború idején Baboua többször is összecsapások színtere volt, ám a határ közeli fekvésnek köszönhetően a gazdasági élet részben helyreállhatott. Földrajz K7 – Határvárosok és logisztikai folyosók.",
@@ -1422,8 +1464,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Baoro",
       hu: "Baoro",
       ro: "Baoro",
-      en: "Baoro"
-    },
+      en: "Baoro",
+image: "/poi-images/baoro-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Baoro ist eine Kleinstadt in der Präfektur Nana-Mambéré im Westen der Zentralafrikanischen Republik, gelegen an der Hauptstraße zwischen Bouar und Carnot. Die Region ist landwirtschaftlich geprägt, mit ausgedehnten Mais-, Maniok- und Erdnussfeldern in den umliegenden Savannen. Baoro ist ein wichtiger lokaler Marktort, an dem Bauern aus den umliegenden Dörfern ihre Produkte verkaufen und Händler aus den größeren Städten Vorräte einkaufen. Die Bevölkerung besteht überwiegend aus Gbaya-Gemeinschaften, ergänzt durch Fulani-Hirten, die saisonal mit ihren Herden vorbeiziehen. Die nahegelegenen Hügelketten gehören zum Yadé-Plateau und beherbergen kleine Wasserläufe, die in das Mambéré-Becken münden. Erdkunde K7 – Marktstädte und Savannenlandwirtschaft.",
       hu: "Baoro kisváros a Nana-Mambéré prefektúrában, az ország nyugati részén, a Bouar és Carnot közötti főút mentén. A térség mezőgazdasági jellegű, kiterjedt kukorica-, manióka- és földimogyoró-földekkel a környező szavannákon. Baoro fontos helyi piac, ahol a környező falvak parasztjai értékesítik termékeiket, és a nagyobb városokból érkező kereskedők készleteket vásárolnak. A lakosság többsége gbaya közösségekhez tartozik, kiegészülve a fula pásztorokkal, akik szezonálisan vonulnak át nyájaikkal. A közeli dombvidék a Yadé-fennsík része, és kisebb vízfolyások erednek belőle, amelyek a Mambéré-medencébe ömlenek. Földrajz K7 – Piacvárosok és szavanna-mezőgazdaság.",
@@ -1455,8 +1498,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bayanga",
       hu: "Bayanga",
       ro: "Bayanga",
-      en: "Bayanga"
-    },
+      en: "Bayanga",
+image: "/poi-images/bayanga-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bayanga liegt im äußersten Südwesten der Zentralafrikanischen Republik in der Präfektur Sangha-Mbaéré, am Sangha-Fluss und am Rand des berühmten Dzanga-Sangha-Schutzgebiets. Das nahegelegene Dzanga-Bai gilt als eines der besten Beobachtungsorte für Waldelefanten in ganz Afrika; dort versammeln sich täglich Dutzende dieser scheuen Tiere, um mineralreichen Schlamm zu trinken. Die Region ist Heimat der Aka-Pygmäen, die seit Jahrtausenden in den dichten äquatorialen Regenwäldern leben. Bayanga selbst entwickelte sich aus einem Holzfällerlager und hat dank des wachsenden Ökotourismus heute eine kleine, jedoch internationale Präsenz von Forschern und Naturschützern. Erdkunde K7 – Regenwaldreservate und Ökotourismus.",
       hu: "Bayanga az ország délnyugati csücskében, a Sangha-Mbaéré prefektúrában fekszik, a Sangha folyó partján és a híres Dzanga-Sangha védett terület szegélyén. A közeli Dzanga-Bai egész Afrika egyik legjobb erdei elefánt megfigyelő helyszíne; naponta tucatnyi e visszahúzódó állat gyűlik össze itt, hogy ásványi sókban gazdag iszapot fogyasszanak. A térség az aka pigmeusok hazája, akik évezredek óta élnek a sűrű egyenlítői esőerdőkben. Bayanga maga egy fakitermelő telepből nőtte ki magát, és a növekvő ökoturizmusnak köszönhetően ma kis, de nemzetközi kutatói és természetvédelmi jelenléttel rendelkezik. Földrajz K7 – Esőerdei rezervátumok és ökoturizmus.",
@@ -1488,8 +1532,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bambio",
       hu: "Bambio",
       ro: "Bambio",
-      en: "Bambio"
-    },
+      en: "Bambio",
+image: "/poi-images/bambio-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bambio ist eine kleine Stadt in der Präfektur Sangha-Mbaéré im Südwesten der Zentralafrikanischen Republik, eingebettet in eine der dichtesten Regenwaldzonen des Landes. Die Stadt liegt an einem wichtigen Forstweg und diente in der Kolonialzeit als Verwaltungspunkt für die Holzkonzessionen rund um den Sangha-Fluss. Heute lebt die Bevölkerung von Maniok-, Bananen- und Kaffeeanbau, ergänzt durch Honigsammeln und Pilzsammeln in den umliegenden Wäldern. Die ethnischen Gemeinschaften umfassen Bantu-Gruppen wie die Mbati sowie Aka-Pygmäen, die als Spezialisten der Waldwirtschaft gelten. Die hohe Niederschlagsmenge und die ganzjährige Wärme machen die Region biologisch außergewöhnlich vielfältig. Erdkunde K7 – Waldverwaltung und Honigsammeln.",
       hu: "Bambio kisváros a Sangha-Mbaéré prefektúrában, az ország délnyugati részén, az ország egyik legsűrűbb esőerdős zónájában. A település fontos erdészeti út mentén fekszik, és a gyarmati időszakban a Sangha folyó környéki fakitermelési koncessziók közigazgatási pontjaként szolgált. Ma a lakosság manióka-, banán- és kávétermesztésből, valamint a környező erdőkben folytatott méz- és gombagyűjtésből él. Az etnikai közösségek közé tartoznak az mbati bantu csoportok és az aka pigmeusok, akiket az erdőgazdálkodás szakértőiként tartanak számon. A magas csapadékmennyiség és az egész évben tartó meleg miatt a térség biológiailag rendkívül változatos. Földrajz K7 – Erdőgazdálkodás és mézgyűjtés.",
@@ -1521,8 +1566,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Dékoa",
       hu: "Dékoa",
       ro: "Dékoa",
-      en: "Dékoa"
-    },
+      en: "Dékoa",
+image: "/poi-images/dekoa-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Dékoa liegt im zentralen Teil der Zentralafrikanischen Republik, in der Präfektur Kémo, etwa auf halbem Weg zwischen Sibut und Kaga-Bandoro. Die Stadt ist ein historischer Verwaltungsposten aus der französischen Kolonialzeit und liegt in einer typischen Savannenlandschaft mit Galeriewäldern entlang der kleinen Wasserläufe. Wirtschaftlich basiert Dékoa auf Subsistenzlandwirtschaft, vor allem Maniok-, Sorghum- und Erdnussanbau, sowie auf der Viehzucht durch saisonale Fulani-Herden. Die Bevölkerung gehört überwiegend zur Banda-Sprachgruppe und bewahrt eine reiche Tradition mündlicher Erzählungen und ritueller Tänze. Während der Krise nach 2013 war Dékoa wegen seiner Lage an der Nord-Süd-Achse Schauplatz mehrerer Auseinandersetzungen. Erdkunde K7 – Savannenposten und mündliche Traditionen.",
       hu: "Dékoa az ország középső részén, a Kémo prefektúrában fekszik, körülbelül félúton Sibut és Kaga-Bandoro között. A város történelmi közigazgatási poszt a francia gyarmati időszakból, és tipikus szavannás tájon helyezkedik el, kis vízfolyásokat kísérő galériaerdőkkel. Gazdaságát az önellátó mezőgazdaság – főként manióka-, cirok- és földimogyoró-termesztés – és a szezonálisan érkező fula nyájak állattartása alkotja. A lakosság többsége a banda nyelvcsoporthoz tartozik, és gazdag szóbeli elbeszélő- és rituális tánchagyományokat őriz. A 2013 utáni válság idején Dékoa az észak–déli tengelyen elfoglalt helyzete miatt több összecsapás színtere is volt. Földrajz K7 – Szavannaposztok és szóbeli hagyományok.",
@@ -1554,8 +1600,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Mala",
       hu: "Mala",
       ro: "Mala",
-      en: "Mala"
-    },
+      en: "Mala",
+image: "/poi-images/mala-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mala ist eine kleine Stadt in der Präfektur Kémo im zentralen Teil der Zentralafrikanischen Republik. Die Region ist von typischer sudano-guineischer Savanne geprägt, mit ausgedehnten Grasflächen, vereinzelten Akazien und galerieartigen Wäldern entlang der saisonalen Bäche. Die Bevölkerung lebt überwiegend von Subsistenzlandwirtschaft mit Maniok, Mais und Sorghum sowie von der Jagd auf kleines Wild. In den Trockenzeiten weiden Fulani-Hirten ihre Rinderherden auf den umliegenden Brachen, was traditionell ein wichtiges Element der lokalen Wirtschaft ist. Mala besitzt einen kleinen Wochenmarkt und eine Grundschule. Während der Krise nach 2013 wurden viele Bewohner zeitweise vertrieben, kehrten aber später zurück. Erdkunde K7 – Savannenkörper und kleine Verwaltungsorte.",
       hu: "Mala kisváros a Kémo prefektúrában, a Közép-afrikai Köztársaság középső részén. A térséget a tipikus szudán-guineai szavanna jellemzi, kiterjedt füves térségekkel, elszórtan álló akáciákkal és az időszakos patakokat kísérő galériaerdőkkel. A lakosság elsősorban önellátó földművelésből – manióka, kukorica, cirok – és kisvad-vadászatból él. A száraz évszakokban a fula pásztorok marhanyájaikat a környező parlagföldeken legeltetik, ami hagyományosan a helyi gazdaság fontos eleme. Mala kis heti piaccal és egy alapiskolával rendelkezik. A 2013 utáni válság alatt sokan időlegesen elhagyni kényszerültek otthonukat, de később visszatértek. Földrajz K7 – Szavannás térségek és kis közigazgatási helyek.",
@@ -1588,8 +1635,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Ippy",
       hu: "Ippy",
       ro: "Ippy",
-      en: "Ippy"
-    },
+      en: "Ippy",
+image: "/poi-images/ippy-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Ippy liegt in der Präfektur Ouaka im zentralen Teil der Zentralafrikanischen Republik, östlich von Bambari. Die Stadt entstand als Verwaltungs- und Missionsposten in der französischen Kolonialzeit und ist heute ein wichtiger Knotenpunkt für den Handel zwischen Bambari und den nordöstlichen Präfekturen. Wirtschaftlich basiert Ippy auf Baumwoll-, Maniok- und Sorghumanbau sowie auf einer kleinen, aber regional bedeutenden Diamantengewinnung. Die Bevölkerung gehört überwiegend zu den Banda-Völkern, deren mündliche Tradition reich an Erzählungen über die Gründung der lokalen Dörfer und über den Widerstand gegen die Sklavenraubzüge des 19. Jahrhunderts ist. Während der Krise nach 2013 war Ippy mehrfach von bewaffneten Gruppen besetzt. Erdkunde K7 – Banda-Tradition und Bergbauknoten.",
       hu: "Ippy az Ouaka prefektúrában fekszik a Közép-afrikai Köztársaság középső részén, Bambaritól keletre. A város a francia gyarmati időszakban közigazgatási és missziós posztként jött létre, és ma fontos csomópont Bambari és az északkeleti prefektúrák közötti kereskedelemben. Gazdasága a gyapot-, manióka- és cirokművelésen, valamint kis, ám regionálisan jelentős gyémántkitermelésen alapul. A lakosság többsége a banda népcsoporthoz tartozik, akiknek szóbeli hagyománya gazdag a helyi falvak alapításáról és a 19. századi rabszolgavadászatok elleni ellenállásról szóló történetekben. A 2013 utáni válság idején Ippy többször is fegyveres csoportok kezébe került. Földrajz K7 – Banda-hagyomány és bányászati csomópontok.",
@@ -1622,8 +1670,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Ndjoukou",
       hu: "Ndjoukou",
       ro: "Ndjoukou",
-      en: "Ndjoukou"
-    },
+      en: "Ndjoukou",
+image: "/poi-images/ndjoukou-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Ndjoukou ist eine kleine Stadt in der Präfektur Kémo im zentralen Teil der Zentralafrikanischen Republik, am Ufer des Oubangui-Zuflusses Tomi gelegen. Die Stadt ist ein historisch gewachsener Fischerort, dessen Bewohner überwiegend aus Banda- und Sara-Gemeinschaften bestehen. Die Wirtschaft basiert auf Süßwasserfischerei, Maniok- und Sorghumanbau sowie kleinem Flusshandel mit den Dörfern flussabwärts. Die umliegenden Galeriewälder beherbergen Antilopen, Affen und zahlreiche Vogelarten, was die Region für Naturliebhaber attraktiv macht. In Ndjoukou gibt es eine Grundschule, eine kleine Krankenstation und einen Wochenmarkt, der die Versorgung der umliegenden Weiler sicherstellt. Erdkunde K7 – Flussfischer und ländliche Versorgung.",
       hu: "Ndjoukou kisváros a Kémo prefektúrában a Közép-afrikai Köztársaság középső részén, az Ubangi mellékfolyójának, a Tomi folyónak a partján. A település történelmileg halászfaluként alakult ki, lakói főként banda és sara közösségekhez tartoznak. Gazdaságát az édesvízi halászat, a manióka- és cirokművelés, valamint a folyón lefelé fekvő falvakkal folytatott kis léptékű kereskedelem alkotja. A környező galériaerdőkben antilopok, majmok és számos madárfaj él, ami a természetkedvelők számára vonzóvá teszi a térséget. Ndjoukouban egy alapiskola, egy kis egészségügyi állomás és egy heti piac biztosítja a környező tanyák ellátását. Földrajz K7 – Folyami halászok és vidéki ellátás.",
@@ -1655,8 +1704,9 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       de: "Bogangolo",
       hu: "Bogangolo",
       ro: "Bogangolo",
-      en: "Bogangolo"
-    },
+      en: "Bogangolo",
+image: "/poi-images/bogangolo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bogangolo ist eine kleine Stadt in der Präfektur Ombella-M'Poko, etwa nordwestlich der Hauptstadt Bangui. Die Region befindet sich im Übergang zwischen feuchten Wäldern und tropischer Savanne, was eine vielfältige Vegetation und Tierwelt ermöglicht. Die Bewohner leben hauptsächlich von Subsistenzlandwirtschaft mit Maniok, Mais und Erdnüssen sowie von kleinem Handel auf dem Wochenmarkt. Bogangolo war historisch ein Zwischenstopp auf dem Handelsweg zwischen Bangui und Bossembélé und beherbergt einen kleinen Verwaltungsposten sowie eine Grundschule. Während der Krise nach 2013 mussten viele Einwohner vorübergehend in den Busch fliehen, kehrten aber dank der relativen Nähe zur Hauptstadt schnell zurück. Erdkunde K7 – Übergangszonen und Marktortwirtschaft.",
       hu: "Bogangolo kisváros az Ombella-M'Poko prefektúrában, a fővárostól, Banguitól északnyugatra. A térség a nedves erdők és a trópusi szavanna közötti átmeneti zónában található, ami változatos növény- és állatvilágot tesz lehetővé. A lakosok elsősorban önellátó földművelésből élnek – manióka-, kukorica- és földimogyoró-termesztésből –, valamint a heti piacon folytatott kis léptékű kereskedelemből. Bogangolo történelmileg pihenőhely volt a Bangui és Bossembélé közötti kereskedelmi úton, és kis közigazgatási posztot, valamint alapiskolát is működtet. A 2013 utáni válság alatt sok lakó ideiglenesen a bozótba menekült, de a fővároshoz való viszonylagos közelség miatt gyorsan visszatértek. Földrajz K7 – Átmeneti zónák és piacvárosi gazdaság.",

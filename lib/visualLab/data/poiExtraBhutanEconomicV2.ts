@@ -6,7 +6,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-12",
     coords: [89.5858, 26.8522],
-    name: { de: "Tala-Wasserkraftwerk", hu: "Tala Vízerőmű", ro: "Hidrocentrala Tala", en: "Tala Hydropower Plant" },
+    name: { de: "Tala-Wasserkraftwerk", hu: "Tala Vízerőmű", ro: "Hidrocentrala Tala", en: "Tala Hydropower Plant",
+image: "/poi-images/tala-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Ein gigantisches Laufwasserkraftwerk am Fluss Wang Chhu, das als größtes Energieprojekt Bhutans gilt. Es exportiert riesige Mengen an sauberem Strom nach Indien und ist das Rückgrat der bhutanischen Wirtschaft.",
       hu: "Egy gigantikus folyóvizes vízerőmű a Wang Chhu folyón, amely Bhután legnagyobb energetikai projektje. Hatalmas mennyiségű tiszta áramot exportál Indiába, és a bhutáni gazdaság gerincét alkotja.",
@@ -36,7 +38,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-12",
     coords: [89.5750, 27.0583],
-    name: { de: "Chukha-Wasserkraftwerk", hu: "Chukha Vízerőmű", ro: "Hidrocentrala Chukha", en: "Chukha Hydropower Plant" },
+    name: { de: "Chukha-Wasserkraftwerk", hu: "Chukha Vízerőmű", ro: "Hidrocentrala Chukha", en: "Chukha Hydropower Plant",
+image: "/poi-images/chukha-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Bhutans erstes großes Wasserkraftprojekt, das in den 1980er Jahren mit indischer Hilfe gebaut wurde. Es revolutionierte die Wirtschaft des Landes durch die Erschließung erneuerbarer Energien für den Export.",
       hu: "Bhután első nagy vízerőműprojektje, amely az 1980-as években épült indiai segítséggel. Forradalmasította az ország gazdaságát a megújuló energia exportra történő hasznosításával.",
@@ -67,7 +71,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-42",
     coords: [91.2408, 27.2831],
-    name: { de: "Kurichhu-Wasserkraftwerk", hu: "Kurichhu Vízerőmű", ro: "Hidrocentrala Kurichhu", en: "Kurichhu Hydropower Plant" },
+    name: { de: "Kurichhu-Wasserkraftwerk", hu: "Kurichhu Vízerőmű", ro: "Hidrocentrala Kurichhu", en: "Kurichhu Hydropower Plant",
+image: "/poi-images/kurichhu-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Wasserkraftwerk in Ost-Bhutan, das die Region mit stabiler Elektrizität versorgt. Es fördert die industrielle Entwicklung in Distrikten, die früher stark isoliert waren.",
       hu: "Egy fontos vízerőmű Kelet-Bhutánban, amely stabil áramellátást biztosít a régiónak. Elősegíti az ipari fejlődést a korábban erősen elszigetelt körzetekben.",
@@ -97,7 +103,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-34",
     coords: [90.5050, 27.4819],
-    name: { de: "Mangdechhu-Wasserkraftwerk", hu: "Mangdechhu Vízerőmű", ro: "Hidrocentrala Mangdechhu", en: "Mangdechhu Hydropower Plant" },
+    name: { de: "Mangdechhu-Wasserkraftwerk", hu: "Mangdechhu Vízerőmű", ro: "Hidrocentrala Mangdechhu", en: "Mangdechhu Hydropower Plant",
+image: "/poi-images/mangdechhu-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Ein hochmodernes Laufwasserkraftwerk am Fluss Mangdechhu im Distrikt Trongsa. Dieses preisgekrönte Projekt zeichnet sich durch seine Effizienz und seine positiven wirtschaftlichen Auswirkungen aus.",
       hu: "Egy ultramodern folyóvizes vízerőmű a Mangdechhu folyón, Trongsa körzetben. Ez a díjnyertes projekt hatékonyságával és pozitív gazdasági hatásaival tűnik ki.",
@@ -127,7 +135,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-32",
     coords: [89.8972, 27.3514],
-    name: { de: "Punatsangchhu-Projekt", hu: "Punatsangchhu Projekt", ro: "Proiectul Punatsangchhu", en: "Punatsangchhu Project" },
+    name: { de: "Punatsangchhu-Projekt", hu: "Punatsangchhu Projekt", ro: "Proiectul Punatsangchhu", en: "Punatsangchhu Project",
+image: "/poi-images/punatsangchhu-hydropower-economic-v2.webp"
+},
     description: {
       de: "Zwei massive Wasserkraft-Megaprojekte im Bau am Fluss Punatsangchhu. Nach ihrer Fertigstellung werden sie die Stromproduktion Bhutans drastisch erhöhen und die Wirtschaftsexporte vervielfachen.",
       hu: "Két hatalmas, építés alatt álló vízerőmű-megaprojekt a Punatsangchhu folyón. Befejezésük után drasztikusan növelik Bhután áramtermelését, és megsokszorozzák a gazdasági exportot.",
@@ -152,7 +162,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-32",
     coords: [89.9200, 27.3917],
-    name: { de: "Basochhu-Wasserkraftwerk", hu: "Basochhu Vízerőmű", ro: "Hidrocentrala Basochhu", en: "Basochhu Hydropower Plant" },
+    name: { de: "Basochhu-Wasserkraftwerk", hu: "Basochhu Vízerőmű", ro: "Hidrocentrala Basochhu", en: "Basochhu Hydropower Plant",
+image: "/poi-images/basochhu-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Ein kleineres, aber effizientes Wasserkraftwerk, das mit österreichischer Unterstützung gebaut wurde. Es nutzt den steilen Abfall eines Gebirgsbachs zur Stromerzeugung für den Inlandsbedarf.",
       hu: "Egy kisebb, de hatékony vízerőmű, amely osztrák támogatással épült. Egy hegyi patak meredek esését használja fel áramtermelésre a belföldi szükségletek kielégítésére.",
@@ -183,7 +195,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "energy",
     parent: "BT-21",
     coords: [89.9678, 27.0506],
-    name: { de: "Dagachhu-Wasserkraftwerk", hu: "Dagachhu Vízerőmű", ro: "Hidrocentrala Dagachhu", en: "Dagachhu Hydropower Plant" },
+    name: { de: "Dagachhu-Wasserkraftwerk", hu: "Dagachhu Vízerőmű", ro: "Hidrocentrala Dagachhu", en: "Dagachhu Hydropower Plant",
+image: "/poi-images/dagachhu-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Ein Wasserkraftprojekt im Distrikt Dagana, das als erstes bhutanisches Infrastrukturprojekt im Rahmen eines öffentlich-privaten Partnerschaftsmodells entwickelt wurde. Es generiert auch CO2-Zertifikate.",
       hu: "Egy vízerőműprojekt Dagana körzetben, amelyet az első bhutáni infrastrukturális projektként, köz-magán társulási modell keretében fejlesztettek ki. Szén-dioxid-krediteket is generál.",
@@ -214,7 +228,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-12",
     coords: [89.4181, 26.8394],
-    name: { de: "Industriegebiet Pasakha", hu: "Pasakha Ipari Park", ro: "Parcul Industrial Pasakha", en: "Pasakha Industrial Estate" },
+    name: { de: "Industriegebiet Pasakha", hu: "Pasakha Ipari Park", ro: "Parcul Industrial Pasakha", en: "Pasakha Industrial Estate",
+image: "/poi-images/pasakha-industrial-estate-economic-v2.webp"
+},
     description: {
       de: "Bhutans größtes und wichtigstes Industriezentrum nahe der indischen Grenze. Hier befinden sich Schwerindustrien wie Ferrosilizium- und Zementwerke, die vom reichlichen Stromangebot profitieren.",
       hu: "Bhután legnagyobb és legfontosabb ipari központja az indiai határ közelében. Itt találhatók olyan nehézipari üzemek, mint a ferroszilícium- és cementgyárak, amelyek a bőséges áramkínálatból profitálnak.",
@@ -244,7 +260,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-31",
     coords: [90.4667, 26.9000],
-    name: { de: "Industriepark Jigmeling", hu: "Jigmeling Ipari Park", ro: "Parcul Industrial Jigmeling", en: "Jigmeling Industrial Park" },
+    name: { de: "Industriepark Jigmeling", hu: "Jigmeling Ipari Park", ro: "Parcul Industrial Jigmeling", en: "Jigmeling Industrial Park",
+image: "/poi-images/jigmeling-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Ein neu entwickelter, großflächiger Industriepark im Distrikt Sarpang. Er ist darauf ausgelegt, ausländische Direktinvestitionen anzuziehen und umweltfreundliche Produktionsstätten aufzubauen.",
       hu: "Egy újonnan fejlesztett, nagy kiterjedésű ipari park Sarpang körzetben. Célja a közvetlen külföldi tőkebefektetések vonzása és környezetbarát gyártóüzemek létrehozása.",
@@ -274,7 +292,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-45",
     coords: [91.5000, 26.8333],
-    name: { de: "Industriepark Motanga", hu: "Motanga Ipari Park", ro: "Parcul Industrial Motanga", en: "Motanga Industrial Park" },
+    name: { de: "Industriepark Motanga", hu: "Motanga Ipari Park", ro: "Parcul Industrial Motanga", en: "Motanga Industrial Park",
+image: "/poi-images/motanga-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Dieser Industriepark in Ost-Bhutan fördert die regionale Wirtschaftsentwicklung. Er bietet Infrastruktur für mittlere Unternehmen und nutzt die Nähe zum indischen Bundesstaat Assam für den Handel.",
       hu: "Ez a kelet-bhutáni ipari park a regionális gazdaságfejlesztést támogatja. Infrastruktúrát biztosít középvállalkozások számára, és kihasználja az indiai Asszám állam közelségét a kereskedelemhez.",
@@ -304,7 +324,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-15",
     coords: [89.5539, 27.4208],
-    name: { de: "Industriegebiet Bjemina", hu: "Bjemina Ipari Park", ro: "Zona Industrială Bjemina", en: "Bjemina Industrial Estate" },
+    name: { de: "Industriegebiet Bjemina", hu: "Bjemina Ipari Park", ro: "Zona Industrială Bjemina", en: "Bjemina Industrial Estate",
+image: "/poi-images/bjemina-industrial-estate-economic-v2.webp"
+},
     description: {
       de: "Ein Industriegebiet in der Nähe der Hauptstadt Thimphu, das sich auf Leichtindustrie, Holzverarbeitung und Baustoffe konzentriert. Es unterstützt das städtische Wachstum ohne schwere Umweltbelastung.",
       hu: "A főváros, Thimphu közelében található ipari terület, amely a könnyűiparra, a fafeldolgozásra és az építőanyagokra összpontosít. Támogatja a városi növekedést súlyos környezeti terhelés nélkül.",
@@ -334,7 +356,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-14",
     coords: [89.0989, 26.8997],
-    name: { de: "Industriepark Dhamdum", hu: "Dhamdum Ipari Park", ro: "Parcul Industrial Dhamdum", en: "Dhamdum Industrial Park" },
+    name: { de: "Industriepark Dhamdum", hu: "Dhamdum Ipari Park", ro: "Parcul Industrial Dhamdum", en: "Dhamdum Industrial Park",
+image: "/poi-images/dhamdum-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Ein moderner Industriepark im Distrikt Samtse. Er zielt darauf ab, saubere Technologien und verarbeitende Industrien anzusiedeln, um Arbeitsplätze für die lokale Bevölkerung im Südwesten zu schaffen.",
       hu: "Modern ipari park Samtse körzetben. Célja tiszta technológiák és feldolgozóipari vállalatok letelepítése, hogy munkahelyeket teremtsen a délnyugati régió helyi lakosságának.",
@@ -364,7 +388,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-14",
     coords: [89.1550, 26.7911],
-    name: { de: "Penden Zementfabrik (Gomtu)", hu: "Penden Cementgyár (Gomtu)", ro: "Fabrica de Ciment Penden (Gomtu)", en: "Penden Cement Authority (Gomtu)" },
+    name: { de: "Penden Zementfabrik (Gomtu)", hu: "Penden Cementgyár (Gomtu)", ro: "Fabrica de Ciment Penden (Gomtu)", en: "Penden Cement Authority (Gomtu)",
+image: "/poi-images/penden-cement-authority-economic-v2.webp"
+},
     description: {
       de: "Das älteste und eines der größten Zementwerke Bhutans in Gomtu. Die Produktion ist essenziell für die Infrastrukturprojekte des Landes und den Bau der riesigen Wasserkraftwerke.",
       hu: "A Penden Cement Authority Bhután egyik legnagyobb ipari létesítménye, amely jelentősen hozzájárul az ország építőiparának fejlődéséhez. A vállalat modern technológiát alkalmaz a cementgyártásban, kielégítve a hazai és a regionális keresletet.",
@@ -395,7 +421,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-43",
     coords: [91.2464, 26.8306],
-    name: { de: "Dungsam Zementfabrik", hu: "Dungsam Cementgyár", ro: "Fabrica de Ciment Dungsam", en: "Dungsam Cement Corporation" },
+    name: { de: "Dungsam Zementfabrik", hu: "Dungsam Cementgyár", ro: "Fabrica de Ciment Dungsam", en: "Dungsam Cement Corporation",
+image: "/poi-images/dungsam-cement-corporation-economic-v2.webp"
+},
     description: {
       de: "Eine hochmoderne, staatliche Zementproduktionsstätte in Nganglam. Sie produziert hochwertigen Zement, der den stark wachsenden Inlandsbedarf deckt und Exportmöglichkeiten bietet.",
       hu: "Egy ultramodern, állami tulajdonú cementgyártó üzem Nganglamban. Kiváló minőségű cementet állít elő, amely fedezi az erősen növekvő belföldi igényeket és exportlehetőségeket kínál.",
@@ -425,7 +453,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "port",
     parent: "BT-12",
     coords: [89.3875, 26.8625],
-    name: { de: "Trockenhafen Phuentsholing", hu: "Phuentsholing Szárazkikötő", ro: "Portul Uscat Phuentsholing", en: "Phuentsholing Mini Dry Port" },
+    name: { de: "Trockenhafen Phuentsholing", hu: "Phuentsholing Szárazkikötő", ro: "Portul Uscat Phuentsholing", en: "Phuentsholing Mini Dry Port",
+image: "/poi-images/phuentsholing-mini-dry-port-economic-v2.webp"
+},
     description: {
       de: "Ein entscheidender Umschlagplatz für Bhutans Außenhandel. Da das Land keinen Zugang zum Meer hat, werden hier Güter aus und nach Indien, Kalkutta, zentral abgewickelt und verzollt.",
       hu: "Bhután külkereskedelmének kulcsfontosságú átrakóhelye. Mivel az ország tengerparttal nem rendelkezik, az Indiából és Kalkuttából származó árukat itt kezelik és vámolják központilag.",
@@ -456,7 +486,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "port",
     parent: "BT-31",
     coords: [90.4939, 26.8661],
-    name: { de: "Trockenhafen Gelephu", hu: "Gelephu Szárazkikötő", ro: "Portul Uscat Gelephu", en: "Gelephu Dry Port" },
+    name: { de: "Trockenhafen Gelephu", hu: "Gelephu Szárazkikötő", ro: "Portul Uscat Gelephu", en: "Gelephu Dry Port",
+image: "/poi-images/gelephu-dry-port-economic-v2.webp"
+},
     description: {
       de: "Dieser Hafen im Landesinneren dient als wichtiges Logistikzentrum für den mittleren Süden Bhutans. Er ermöglicht eine effiziente Abwicklung von Import- und Exportgütern auf dem Landweg.",
       hu: "Ez a szárazföldi kikötő fontos logisztikai központként szolgál Bhután középső déli része számára. Lehetővé teszi az import- és exportáruk hatékony szárazföldi lebonyolítását.",
@@ -486,7 +518,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "BT-31",
     coords: [90.5167, 26.8833],
-    name: { de: "Sonderwirtschaftszone Gelephu", hu: "Gelephu Különleges Gazdasági Övezet", ro: "Zona Economică Specială Gelephu", en: "Gelephu Special Economic Zone" },
+    name: { de: "Sonderwirtschaftszone Gelephu", hu: "Gelephu Különleges Gazdasági Övezet", ro: "Zona Economică Specială Gelephu", en: "Gelephu Special Economic Zone",
+image: "/poi-images/gelephu-special-economic-zone-v2.webp"
+},
     description: {
       de: "Ein bahnbrechendes visionäres Projekt des Königs, bekannt als 'Mindfulness City'. Es soll ein globaler Knotenpunkt für nachhaltige Wirtschaft, Gesundheit, Bildung und grüne Technologie werden.",
       hu: "A király úttörő, látnoki projektje, amely 'Mindfulness City' néven ismert. Célja, hogy a fenntartható gazdaság, az egészségügy, az oktatás és a zöld technológia globális csomópontjává váljon.",
@@ -516,7 +550,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "BT-45",
     coords: [91.5033, 26.8000],
-    name: { de: "Handelszentrum Samdrup Jongkhar", hu: "Samdrup Jongkhar Kereskedelmi Központ", ro: "Centrul Comercial Samdrup Jongkhar", en: "Samdrup Jongkhar Trade Hub" },
+    name: { de: "Handelszentrum Samdrup Jongkhar", hu: "Samdrup Jongkhar Kereskedelmi Központ", ro: "Centrul Comercial Samdrup Jongkhar", en: "Samdrup Jongkhar Trade Hub",
+image: "/poi-images/samdrup-jongkhar-trade-hub-economic-v2.webp"
+},
     description: {
       de: "Der älteste Grenzort im Osten Bhutans, der historisch als primärer Handelsstützpunkt diente. Heute erlebt er eine Wiederbelebung als vitaler Grenzübergang für den wirtschaftlichen Warenaustausch.",
       hu: "A legrégebbi határváros Kelet-Bhutánban, amely történelmileg elsődleges kereskedelmi bázisként szolgált. Ma újraéledését éli, mint a gazdasági árucsere létfontosságú határátkelőhelye.",
@@ -546,7 +582,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "mine",
     parent: "BT-43",
     coords: [91.3122, 27.0511],
-    name: { de: "Gipsmine Khothakpa", hu: "Khothakpa Gipszbánya", ro: "Mina de Ghips Khothakpa", en: "Khothakpa Gypsum Mine" },
+    name: { de: "Gipsmine Khothakpa", hu: "Khothakpa Gipszbánya", ro: "Mina de Ghips Khothakpa", en: "Khothakpa Gypsum Mine",
+image: "/poi-images/khothakpa-gypsum-mine-economic-v2.webp"
+},
     description: {
       de: "Bhutans wichtigste Gipsmine, betrieben durch die State Mining Corporation. Das hier gewonnene Mineral wird intensiv für die heimische Zementproduktion sowie für den Export genutzt.",
       hu: "Bhután legfontosabb gipszbányája, amelyet a State Mining Corporation üzemeltet. Az itt kitermelt ásványt intenzíven használják a hazai cementgyártáshoz, valamint exportra.",
@@ -576,7 +614,9 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     type: "industry",
     parent: "BT-12",
     coords: [89.4120, 26.8375],
-    name: { de: "Bhutan Ferro Alloys", hu: "Bhutan Ferro Alloys", ro: "Bhutan Ferro Alloys", en: "Bhutan Ferro Alloys" },
+    name: { de: "Bhutan Ferro Alloys", hu: "Bhutan Ferro Alloys", ro: "Bhutan Ferro Alloys", en: "Bhutan Ferro Alloys",
+image: "/poi-images/bhutan-ferro-alloys-economic-v2.webp"
+},
     description: {
       de: "Ein führendes Industrieunternehmen in Pasakha, das hochwertiges Ferrosilizium herstellt. Es nutzt den reichlich vorhandenen und günstigen Strom Bhutans, um wettbewerbsfähige Legierungen für den internationalen Stahlmarkt zu produzieren.",
       hu: "Egy vezető ipari vállalat Pasakhában, amely kiváló minőségű ferroszilíciumot gyárt. Bhután bőséges és olcsó áramát használja fel versenyképes ötvözetek előállítására a nemzetközi acélpiac számára.",

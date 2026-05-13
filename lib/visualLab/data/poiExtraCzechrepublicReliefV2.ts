@@ -4,7 +4,9 @@ export const czechrepublicReliefV2: POI[] = [
   {
     id: "czechrepublic-snezka-relief-v2",
     type: "peak",
-    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Snezka", en: "Snezka" },
+    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Snezka", en: "Snezka",
+image: "/poi-images/czechrepublic-snezka-relief-v2.webp"
+},
     coords: [15.7402, 50.7361],
     coordinates: { lat: 50.7361, lng: 15.7402 },
     description: {
@@ -19,11 +21,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1603 metri", "Munții: Karkonosze", "Granița cu Polonia", "Accesibil prin telecabină"],
       en: ["Elevation: 1,603 meters", "Range: Giant Mountains", "Border with Poland", "Accessible by cable car"],
     },
-    imageHint: "Snezka peak with chapel and post office building", image: "/poi-images/czechrepublic-snezka-relief-v2.webp"},
+    imageHint: "Snezka peak with chapel and post office building",
+    image: "/poi-images/czechrepublic-snezka-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Schneekoppe ist mit 1603 Metern der höchste Gipfel des Riesengebirges und Tschechiens. Auf ihrem markanten Gipfel verläuft die Staatsgrenze zwischen Tschechien und Polen.",
+      hu: "A 1603 méter magas Sněžka az Óriás-hegység és Csehország legmagasabb pontja. A csúcson halad át a cseh-lengyel határ, ahol egy kápolna és egy obszervatórium is található.",
+      ro: "Vârful Sněžka, situat la 1603 metri altitudine, reprezintă cel mai înalt punct din Munții Karkonosze și din Cehia. Creasta sa marchează granița naturală cu Polonia.",
+      en: "Snezka is the highest peak in the Czech Republic, reaching 1603 meters in the Giant Mountains. Its summit hosts a chapel and a unique post office right on the Polish border.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1603 m ü. NHN", "Prominenz: 1197 Meter", "Laurentiuskapelle von 1681", "Windspitzen bis 216 km/h"],
+      hu: ["Magasság: 1603 méter", "Szent Lőrinc-kápolna (1681)", "Évi középhőmérséklet: 0,2 °C", "A határ 1945-ben rögzült"],
+      ro: ["Altitudine: 1603 metri", "Capela Sf. Laurențiu (1681)", "Vânturi de peste 200 km/h", "Prima ascensiune în 1456"],
+      en: ["Elevation: 1603 meters", "St. Lawrence Chapel (1681)", "Average temp: 0.2°C", "Prominence: 1197 meters"],
+    },
+  },
   {
     id: "czechrepublic-praded-relief-v2",
     type: "peak",
-    name: { de: "Altvater", hu: "Praděd", ro: "Praded", en: "Praded" },
+    name: { de: "Altvater", hu: "Praděd", ro: "Praded", en: "Praded",
+image: "/poi-images/czechrepublic-praded-relief-v2.webp"
+},
     coords: [17.2311, 50.0831],
     coordinates: { lat: 50.0831, lng: 17.2311 },
     description: {
@@ -38,11 +56,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1491 metri", "Munții: Jeseníky", "Turn TV de 162 metri", "Cel mai înalt vârf din Moravia"],
       en: ["Elevation: 1,491 meters", "Range: Hruby Jesenik", "162-meter TV tower", "Highest mountain in Moravia"],
     },
-    imageHint: "Praded mountain peak with TV tower", image: "/poi-images/czechrepublic-praded-relief-v2.webp"},
+    imageHint: "Praded mountain peak with TV tower",
+    image: "/poi-images/czechrepublic-praded-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Altvater ist mit 1491 Metern der höchste Berg des Altvatergebirges in Mähren. Sein charakteristischer Fernsehturm auf dem Gipfel erhöht die Gesamthöhe auf über 1600 Meter.",
+      hu: "A Praděd Morvaország legmagasabb csúcsa a Hrubý Jeseník hegységben. A 162 méter magas tévétorony teteje az ország legmagasabb mesterséges pontja, 1653 méteren.",
+      ro: "Vârful Praděd este cel mai înalt punct din Moravia, atingând 1491 metri. Turnul de televiziune de pe vârf oferă o panoramă vastă asupra masivului Hrubý Jeseník.",
+      en: "Praded is the highest peak of the Hruby Jesenik range at 1491 meters. Its modern TV tower features an observation deck that stands as the country's highest reachable point.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1491 Meter", "Turmhöhe: 162 Meter", "Naturschutzgebiet seit 1955", "Sichtweite bis zu den Alpen"],
+      hu: ["Magasság: 1491 méter", "Tévétorony épült: 1968-1983", "A torony kilátója 1563 m", "Átlaghőmérséklet: 0,9 °C"],
+      ro: ["Altitudine: 1491 metri", "Turn TV finalizat în 1983", "Rezervație din anul 1955", "Vizibilitate până la Alpi"],
+      en: ["Elevation: 1491 meters", "TV tower height: 162 meters", "Nature reserve since 1955", "View reaches the Alps"],
+    },
+  },
   {
     id: "czechrepublic-lysa-hora-relief-v2",
     type: "peak",
-    name: { de: "Kahlberg", hu: "Lysá hora", ro: "Lysa hora", en: "Lysa hora" },
+    name: { de: "Kahlberg", hu: "Lysá hora", ro: "Lysa hora", en: "Lysa hora",
+image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"
+},
     coords: [18.4475, 49.5461],
     coordinates: { lat: 49.5461, lng: 18.4475 },
     description: {
@@ -57,11 +91,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1323 metri", "Munții: Beskizi", "Stație meteorologică", "Vedere spre Munții Tatra"],
       en: ["Elevation: 1,323 meters", "Range: Beskids", "Meteorological station", "Views of the High Tatras"],
     },
-    imageHint: "Lysa hora summit with meteorological station", image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"},
+    imageHint: "Lysa hora summit with meteorological station",
+    image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kahlberg ist die höchste Erhebung der Mährisch-Schlesischen Beskiden. Der Berg gilt als 'Königin der Beskiden' und ist für seine extremen Wetterbedingungen bekannt.",
+      hu: "A Lysá hora a Morva-sziléziai Beszkidek legmagasabb csúcsa. A 'Beszkidek királynőjeként' ismert hegy tetején meteorológiai állomás és egy TV-adó torony található.",
+      ro: "Lysá hora reprezintă cel mai înalt vârf din Beskizii Moravo-Silezieni, la 1323 metri. Este renumit pentru vânturile puternice și condițiile meteorologice aspre.",
+      en: "Lysa hora is the highest peak of the Moravian-Silesian Beskids at 1323 meters. It is often called the 'Queen of the Beskids' and is a popular site for extreme hiking.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1323 Meter", "Niederschlag: ca. 1500 mm/Jahr", "Bau des TV-Turms 1980", "Luftlinie zu Ostrava: 25 km"],
+      hu: ["Magasság: 1323 méter", "Évi csapadék: 1500 mm", "A tévétorony 78 méter", "Turistaház épült: 1934-ben"],
+      ro: ["Altitudine: 1323 metri", "Precipitații: 1500 mm/an", "Turn radio de 78 metri", "Distana de Ostrava: 25 km"],
+      en: ["Elevation: 1323 meters", "Annual rainfall: 1500 mm", "Radio tower height: 78m", "Distance to Ostrava: 25 km"],
+    },
+  },
   {
     id: "czechrepublic-klinovec-relief-v2",
     type: "peak",
-    name: { de: "Keilberg", hu: "Klínovec", ro: "Klinovec", en: "Klinovec" },
+    name: { de: "Keilberg", hu: "Klínovec", ro: "Klinovec", en: "Klinovec",
+image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"
+},
     coords: [12.9675, 50.3958],
     coordinates: { lat: 50.3958, lng: 12.9675 },
     description: {
@@ -76,11 +126,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1244 metri", "Munții: Metaliferi", "Turn de observație", "Stațiune de schi"],
       en: ["Elevation: 1,244 meters", "Range: Ore Mountains", "Observation tower on top", "Popular ski resort"],
     },
-    imageHint: "Klinovec peak with lookout tower and transmitter", image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"},
+    imageHint: "Klinovec peak with lookout tower and transmitter",
+    image: "/poi-images/czechrepublic-klinovec-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Keilberg ist der höchste Punkt des Erzgebirges an der Grenze zu Deutschland. Ein markanter Aussichtsturm und moderne Skianlagen prägen das Plateau auf 1244 Metern.",
+      hu: "A Klínovec az Érchegység legmagasabb csúcsa a cseh oldalon. A 1244 méteres magasságban fekvő hegytetőn egy 1884-ben épült kilátótorony és síközpont várja a látogatókat.",
+      ro: "Klínovec este cel mai înalt vârf din Munții Metaliferi, situat la granița cu Germania. Turnul de observație istoric datează din 1884 și domină regiunea Karlovy Vary.",
+      en: "Klinovec is the highest peak of the Ore Mountains, rising to 1244 meters near the German border. It features a historic lookout tower and the largest ski resort in the area.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1244 Meter", "Aussichtsturm von 1884", "80-m-Fernmeldeturm", "Nähe zu Oberwiesenthal"],
+      hu: ["Magasság: 1244 méter", "Kilátótorony épült: 1884", "Síterület: 18 km pálya", "Telekommunikációs torony: 80m"],
+      ro: ["Altitudine: 1244 metri", "Turn de observație din 1884", "Stațiune de schi modernă", "Turn de comunicații de 80m"],
+      en: ["Elevation: 1244 meters", "Observation tower built 1884", "80m telecomm tower", "Ski slopes: 18 km total"],
+    },
+  },
   {
     id: "czechrepublic-milesovka-relief-v2",
     type: "peak",
-    name: { de: "Milleschauer", hu: "Milešovka", ro: "Milesovka", en: "Milesovka" },
+    name: { de: "Milleschauer", hu: "Milešovka", ro: "Milesovka", en: "Milesovka",
+image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"
+},
     coords: [13.9312, 50.5552],
     coordinates: { lat: 50.5552, lng: 13.9312 },
     description: {
@@ -95,11 +161,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 837 metri", "Munții Centrali Boemi", "Cel mai vântos loc din Cehia", "Origine vulcanică"],
       en: ["Elevation: 837 meters", "Range: Central Bohemian Uplands", "Windiest place in CZ", "Volcanic origin"],
     },
-    imageHint: "Milesovka mountain with observatory on top", image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"},
+    imageHint: "Milesovka mountain with observatory on top",
+    image: "/poi-images/czechrepublic-milesovka-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Milleschauer ist der höchste Berg des Böhmischen Mittelgebirges. Er gilt als windreichster Ort Tschechiens und bietet eine weite Sicht über die vulkanische Landschaft.",
+      hu: "A Milešovka a Cseh-középhegység legmagasabb, bazaltkúp alakú csúcsa. Az ország legszelesebb pontjaként ismert, tetején 1905 óta működik meteorológiai állomás.",
+      ro: "Milešovka este cel mai înalt vârf din Munții Centrali Boemi, având origini vulcanice. Este considerat cel mai vântos loc din Cehia, cu o stație meteo activă din 1905.",
+      en: "Milesovka is the highest peak of the Central Bohemian Uplands, known for its volcanic origin. It is the windiest spot in the country and hosts a weather station since 1905.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 837 Meter", "Sturmfreie Tage: nur ca. 8/Jahr", "Wetterstation seit 1905", "Vulkanisches Gestein (Phonolith)"],
+      hu: ["Magasság: 837 méter", "Viharmentes napok száma: ~8", "Kőzete: fonolit", "A kilátótorony 19 méter"],
+      ro: ["Altitudine: 837 metri", "Vânturi furtunoase 280 zile/an", "Stație meteo din 1905", "Rocă vulcanică: fonolit"],
+      en: ["Elevation: 837 meters", "Windiest Czech location", "Weather station since 1905", "Rock type: Phonolite"],
+    },
+  },
   {
     id: "czechrepublic-velka-destna-relief-v2",
     type: "peak",
-    name: { de: "Deschneyer Großkoppe", hu: "Velká Deštná", ro: "Velka Destna", en: "Velka Destna" },
+    name: { de: "Deschneyer Großkoppe", hu: "Velká Deštná", ro: "Velka Destna", en: "Velka Destna",
+image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"
+},
     coords: [16.3842, 50.3015],
     coordinates: { lat: 50.3015, lng: 16.3842 },
     description: {
@@ -114,11 +196,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1115 metri", "Munții: Orlické", "Turn de observație nou", "Boemia de Est"],
       en: ["Elevation: 1,115 meters", "Range: Eagle Mountains", "Observation tower built 2019", "Highest point of the range"],
     },
-    imageHint: "Velka Destna observation tower on forest peak", image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"},
+    imageHint: "Velka Destna observation tower on forest peak",
+    image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Deschnayer Koppe ist die höchste Erhebung des Adlergebirges. Auf ihrem Plateau steht ein moderner, aerodynamisch geformter Aussichtsturm, der weite Panoramablicke bietet.",
+      hu: "A Velká Deštná az Sas-hegység legmagasabb pontja 1115 méteres magassággal. A tetőn álló futurisztikus kilátótorony az uralkodó szélirányt és az esőt jelképezi.",
+      ro: "Velká Deštná este cel mai înalt vârf din Munții Orlické, la 1115 metri. Turnul de observație modern, inaugurat în 2019, are un design inspirat de forțele naturii.",
+      en: "Velka Destna is the highest peak of the Eagle Mountains at 1115 meters. Its award-winning observation tower, built in 2019, offers views of the Giant and Glatz Mountains.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1115 Meter", "Turmbaujahr: 2019", "Namensgebung nach Regen (Dešť)", "Frühere Holztürme zerstört"],
+      hu: ["Magasság: 1115 méter", "Új kilátó épült: 2019", "A torony magassága: 19 méter", "Évi 1000 mm feletti eső"],
+      ro: ["Altitudine: 1115 metri", "Turn inaugurat în 2019", "Înălțime turn: 19 metri", "Vedere spre Munții Krkonoše"],
+      en: ["Elevation: 1115 meters", "New tower built in 2019", "Tower height: 19 meters", "Named after heavy rain"],
+    },
+  },
   {
     id: "czechrepublic-plechy-relief-v2",
     type: "peak",
-    name: { de: "Plöckenstein", hu: "Plechý", ro: "Plechy", en: "Plechy" },
+    name: { de: "Plöckenstein", hu: "Plechý", ro: "Plechy", en: "Plechy",
+image: "/poi-images/czechrepublic-plechy-relief-v2.webp"
+},
     coords: [13.8542, 48.7711],
     coordinates: { lat: 48.7711, lng: 13.8542 },
     description: {
@@ -133,11 +231,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1378 metri", "Pădurea Boemiei", "Granița cu Austria", "Lacul glaciar Plesne"],
       en: ["Elevation: 1,378 meters", "Range: Bohemian Forest", "Border with Austria", "Glacial lake nearby"],
     },
-    imageHint: "Plechy mountain peak overlooking glacial lake", image: "/poi-images/czechrepublic-plechy-relief-v2.webp"},
+    imageHint: "Plechy mountain peak overlooking glacial lake",
+    image: "/poi-images/czechrepublic-plechy-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Plöckenstein ist der höchste Berg des Böhmerwaldes auf tschechischem Staatsgebiet. Unweit des Gipfels befindet sich der malerische Plöckensteinsee in einem Gletscherkar.",
+      hu: "A Plechý a Šumava (Cseh-erdő) legmagasabb csúcsa a cseh oldalon. A hegy lábánál fekszik a jégkorszaki eredetű Plešné-tó, amely felett Stifter-emlékmű magasodik.",
+      ro: "Vârful Plechý este cea mai înaltă cotă din Selva Boemă pe teritoriul Cehiei. Lângă vârf se află lacul Plešné, un lac glaciar spectaculos situat într-o căldare montană.",
+      en: "Plechy is the highest mountain of the Bohemian Forest on the Czech side, rising to 1378 meters. It overlooks the glacial Plešné Lake and sits on the border with Austria.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1378 Meter", "Stifter-Denkmal (14,5 m)", "Plöckensteinsee-Tiefe: 18 m", "Grenze zu Österreich"],
+      hu: ["Magasság: 1378 méter", "Stifter-emlékmű magassága: 14,5 m", "Plešné-tó mélysége: 18 m", "Határhegy Ausztriával"],
+      ro: ["Altitudine: 1378 metri", "Monumentul Stifter (14,5 m)", "Adâncime lac Plešné: 18 m", "Granița cu Austria"],
+      en: ["Elevation: 1378 meters", "Stifter Monument (14.5m)", "Lake depth: 18 meters", "Austrian border nearby"],
+    },
+  },
   {
     id: "czechrepublic-smrk-relief-v2",
     type: "peak",
-    name: { de: "Tafelfichte", hu: "Smrk", ro: "Smrk", en: "Smrk" },
+    name: { de: "Tafelfichte", hu: "Smrk", ro: "Smrk", en: "Smrk",
+image: "/poi-images/czechrepublic-smrk-relief-v2.webp"
+},
     coords: [15.2711, 50.8889],
     coordinates: { lat: 50.8889, lng: 15.2711 },
     description: {
@@ -152,11 +266,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1124 metri", "Munții: Jizera", "Granița cu Polonia", "Turn de 20 metri"],
       en: ["Elevation: 1,124 meters", "Range: Jizera Mountains", "Near Polish border", "20-meter lookout tower"],
     },
-    imageHint: "Smrk mountain peak with steel tower", image: "/poi-images/czechrepublic-smrk-relief-v2.webp"},
+    imageHint: "Smrk mountain peak with steel tower",
+    image: "/poi-images/czechrepublic-smrk-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tafelfichte ist der höchste Gipfel des tschechischen Isergebirges. Auf dem Gipfel steht ein stählerner Aussichtsturm direkt an der Grenze zum polnischen Teil des Gebirges.",
+      hu: "A Smrk az Jizera-hegység legmagasabb csúcsa Csehországban. A csúcson egy 20 méter magas acél kilátótorony áll, ahonnan tiszta időben Drezdáig is el lehet látni.",
+      ro: "Vârful Smrk este cel mai înalt punct din Munții Jizera, atingând 1124 metri. Turnul metalic de pe vârf, construit în 2003, oferă vederi spre Boemia și Polonia.",
+      en: "Smrk is the highest peak of the Jizera Mountains in the Czech Republic. Its name means 'Spruce' and the summit features a 20-meter steel observation tower built in 2003.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1124 Meter", "Stahlturm seit 2003", "Körner-Denkmal von 1909", "Grenze zu Polen (Stóg Izerski)"],
+      hu: ["Magasság: 1124 méter", "Kilátó épült: 2003", "A torony 20 méter magas", "Körner-emlékmű (1909)"],
+      ro: ["Altitudine: 1124 metri", "Turn metalic din 2003", "Înălțime turn: 20 metri", "Granița cu Polonia"],
+      en: ["Elevation: 1124 meters", "Tower built in 2003", "Tower height: 20 meters", "Spruce forest vegetation"],
+    },
+  },
   {
     id: "czechrepublic-luz-relief-v2",
     type: "peak",
-    name: { de: "Lausche", hu: "Luž", ro: "Luz", en: "Luz" },
+    name: { de: "Lausche", hu: "Luž", ro: "Luz", en: "Luz",
+image: "/poi-images/czechrepublic-luz-relief-v2.webp"
+},
     coords: [14.6475, 50.8492],
     coordinates: { lat: 50.8492, lng: 14.6475 },
     description: {
@@ -171,11 +301,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 793 metri", "Munții: Lusacia", "Granița cu Germania", "Con vulcanic"],
       en: ["Elevation: 793 meters", "Range: Lusatian Mountains", "Border with Germany", "Volcanic phonolite cone"],
     },
-    imageHint: "Luz mountain peak on Czech-German border", image: "/poi-images/czechrepublic-luz-relief-v2.webp"},
+    imageHint: "Luz mountain peak on Czech-German border",
+    image: "/poi-images/czechrepublic-luz-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lausche ist der höchste Berg des Lausitzer Gebirges an der Grenze zu Sachsen. Der phonolithische Gipfel bietet ein Rundumpanorama von Böhmen bis in die Oberlausitz.",
+      hu: "A Luž a Luzsicei-hegység legmagasabb csúcsa a cseh-német határon. A hegycsúcson egy 2020-ban átadott modern kilátóterasz található a korábbi fogadó romjai felett.",
+      ro: "Vârful Luž este cel mai înalt punct din Munții Luzațieni, situat la granița cu Germania. Structura sa vulcanică oferă o panoramă vastă asupra Boemiei și Saxoniei.",
+      en: "Luz is the highest peak of the Lusatian Mountains, situated on the border with Germany. The summit features a modern observation deck opened in 2020 on historic ruins.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 793 Meter", "Phonolith-Gesteinskegel", "Aussichtsplateau seit 2020", "Brand der Gipfelbaude 1946"],
+      hu: ["Magasság: 793 méter", "Kilátóterasz nyílt: 2020", "Vulkáni eredetű fonolit", "A határ a csúcson fut"],
+      ro: ["Altitudine: 793 metri", "Platformă de belvedere din 2020", "Formațiune de fonolit", "Vedere spre Dresda"],
+      en: ["Elevation: 793 meters", "Observation deck opened 2020", "Phonolite volcanic rock", "Border peak (DE/CZ)"],
+    },
+  },
   {
     id: "czechrepublic-devet-skal-relief-v2",
     type: "peak",
-    name: { de: "Neun Felsen", hu: "Devět skal", ro: "Devet skal", en: "Devet skal" },
+    name: { de: "Neun Felsen", hu: "Devět skal", ro: "Devet skal", en: "Devet skal",
+image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"
+},
     coords: [16.0319, 49.6703],
     coordinates: { lat: 49.6703, lng: 16.0319 },
     description: {
@@ -190,11 +336,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 836 metri", "Munții: Žďárské", "Formațiuni stâncoase", "Podișul Boemo-Morav"],
       en: ["Elevation: 836 meters", "Range: Zdarske vrchy", "Distinct rock towers", "Bohemian-Moravian Highlands"],
     },
-    imageHint: "Devet skal rock formations on mountain top", image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"},
+    imageHint: "Devet skal rock formations on mountain top",
+    image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Neun Felsen sind die höchste Erhebung der Saarer Berge. Die markante Felsgruppe aus Gneis ist ein Labyrinth aus Türmen, das weite Blicke über die Böhmisch-Mährische Höhe bietet.",
+      hu: "A Devět skal (Kilenc szikla) a Žďárské vrchy legmagasabb pontja. A kristályos pala formációk egy sziklavárost alkotnak, amelynek teteje 836 méterrel emelkedik a tengerszint fölé.",
+      ro: "Devět skal reprezintă cel mai înalt vârf din Munții Žďárské, atingând 836 metri. Este un complex de nouă formațiuni stâncoase din gnais, protejat ca monument natural.",
+      en: "Devet skal (Nine Rocks) is the highest peak of the Žďárské vrchy range. This rock complex of gneiss towers forms a 'rock city' that provides a panoramic view of the highlands.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 836 Meter", "Gneisfels-Formation", "Naturdenkmal seit 1976", "9 Hauptfelsgruppen"],
+      hu: ["Magasság: 836 méter", "Kőzete: gneisz", "Természeti emlék 1976 óta", "9 különálló sziklatömb"],
+      ro: ["Altitudine: 836 metri", "Monument natural din 1976", "Formațiuni de gnais", "9 grupuri de stânci"],
+      en: ["Elevation: 836 meters", "Gneiss rock formation", "Natural monument since 1976", "9 distinct rock groups"],
+    },
+  },
   {
     id: "czechrepublic-velka-javorina-relief-v2",
     type: "peak",
-    name: { de: "Großer Jauerling", hu: "Velká Javořina", ro: "Velka Javorina", en: "Velka Javorina" },
+    name: { de: "Großer Jauerling", hu: "Velká Javořina", ro: "Velka Javorina", en: "Velka Javorina",
+image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"
+},
     coords: [17.6758, 48.8578],
     coordinates: { lat: 48.8578, lng: 17.6758 },
     description: {
@@ -209,11 +371,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 970 metri", "Carpații Albi", "Granița cu Slovacia", "Punct de întâlnire cultural"],
       en: ["Elevation: 970 meters", "Range: White Carpathians", "Border with Slovakia", "TV transmitter on top"],
     },
-    imageHint: "Velka Javorina peak with transmitter at sunset", image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"},
+    imageHint: "Velka Javorina peak with transmitter at sunset",
+    image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Große Jaborin ist der höchste Berg der Weißen Karpaten an der Grenze zur Slowakei. Er ist ein Symbol der tschechisch-slowakischen Verbundenheit und Treffpunkt beider Völker.",
+      hu: "A Velká Javorina a Fehér-Kárpátok legmagasabb csúcsa a cseh-szlovák határon. A hegy a két nemzet barátságának jelképe, ahol évente közös kulturális találkozókat tartanak.",
+      ro: "Velká Javorina este cel mai înalt vârf din Carpații Albi, situat la granița cu Slovacia. Este un loc simbolic pentru prietenia dintre cehi și slovaci, găzduind festivaluri comune.",
+      en: "Velka Javorina is the highest peak of the White Carpathians, standing on the border with Slovakia. It serves as a symbol of unity and a venue for traditional Czech-Slovak meetings.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 970 Meter", "Sendeturm-Höhe: 135 Meter", "Holuby-Hütte (1923)", "Festivals der Verbrüderung"],
+      hu: ["Magasság: 970 méter", "Tévétorony: 135 méter", "Holuby-menedékház (1923)", "Határhegy Szlovákiával"],
+      ro: ["Altitudine: 970 metri", "Turn de transmisie: 135 m", "Cabana Holuby (1923)", "Granița cu Slovacia"],
+      en: ["Elevation: 970 meters", "Transmitter height: 135m", "Holuby Hut built 1923", "Symbol of Slavic brotherhood"],
+    },
+  },
   {
     id: "czechrepublic-tok-relief-v2",
     type: "peak",
-    name: { de: "Tok", hu: "Tok", ro: "Tok", en: "Tok" },
+    name: { de: "Tok", hu: "Tok", ro: "Tok", en: "Tok",
+image: "/poi-images/czechrepublic-tok-relief-v2.webp"
+},
     coords: [13.8403, 49.7028],
     coordinates: { lat: 49.7028, lng: 13.8403 },
     description: {
@@ -228,11 +406,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 865 metri", "Munții: Brdy", "Fost poligon militar", "Vârf de tip platou"],
       en: ["Elevation: 865 meters", "Range: Brdy Highlands", "Former military zone", "Plateau-like summit"],
     },
-    imageHint: "Tok mountain plateau in Brdy forest", image: "/poi-images/czechrepublic-tok-relief-v2.webp"},
+    imageHint: "Tok mountain plateau in Brdy forest",
+    image: "/poi-images/czechrepublic-tok-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tok ist der höchste Berg des Brdy-Waldgebirges. Das ausgedehnte Hochplateau war lange Teil eines Truppenübungsplatzes und ist heute für seine weiten Heideflächen bekannt.",
+      hu: "A Tok a Brdy-hegység legmagasabb pontja Közép-Csehországban. A terület évtizedekig katonai lőtér volt, így megőrizte érintetlen természetét és különleges fenyéreit.",
+      ro: "Vârful Tok este cel mai înalt punct din Munții Brdy, la 865 metri. Situat într-o fostă zonă militară, vârful este înconjurat de platouri vaste și păduri de conifere.",
+      en: "Tok is the highest peak of the Brdy Highlands in Central Bohemia. Formerly part of a restricted military area, it features unique moorlands and expansive spruce forests.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 865 Meter", "Ehemaliges Militärgebiet", "Ausgedehnte Heideflächen", "Quellgebiet vieler Bäche"],
+      hu: ["Magasság: 865 méter", "Egykori katonai terület", "Kőzete: kambriumi homokkő", "Párduc-árok közelsége"],
+      ro: ["Altitudine: 865 metri", "Fost poligon militar", "Zona protejată Brdy", "Podis de gresie cambriană"],
+      en: ["Elevation: 865 meters", "Former military range", "Cambrian sandstone base", "Brdy protected landscape area"],
+    },
+  },
   {
     id: "czechrepublic-radhost-relief-v2",
     type: "peak",
-    name: { de: "Radhost", hu: "Radhošť", ro: "Radhost", en: "Radhost" },
+    name: { de: "Radhost", hu: "Radhošť", ro: "Radhost", en: "Radhost",
+image: "/poi-images/czechrepublic-radhost-relief-v2.webp"
+},
     coords: [18.2197, 49.4853],
     coordinates: { lat: 49.4853, lng: 18.2197 },
     description: {
@@ -247,11 +441,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1129 metri", "Munții: Beskizi", "Statuia lui Radegast", "Loc de pelerinaj"],
       en: ["Elevation: 1,129 meters", "Range: Beskids", "Radegast statue", "Pilgrimage site"],
     },
-    imageHint: "Radhost mountain with Radegast statue", image: "/poi-images/czechrepublic-radhost-relief-v2.webp"},
+    imageHint: "Radhost mountain with Radegast statue",
+    image: "/poi-images/czechrepublic-radhost-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Radhoscht ist ein mythischer Berg in den Mährisch-Schlesischen Beskiden. Er ist eng mit der slawischen Mythologie und dem Gott Radegast verbunden, dessen Statue den Weg ziert.",
+      hu: "A Radhošť a Morva-sziléziai Beszkidek egyik legismertebb hegye. A szláv mitológia szent helye, ahol Radegast hadisten szobra és egy Cirill és Metód kápolna is áll.",
+      ro: "Vârful Radhošť este un loc sacru în mitologia slavă, situat în Beskizii Moravo-Silezieni. Este faimos pentru statuia zeului Radegast și capela dedicată Sfinților Chiril și Metodiu.",
+      en: "Radhost is a legendary mountain in the Moravian-Silesian Beskids, tied to Slavic mythology. It features a famous statue of the god Radegast and a 19th-century wooden chapel.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1129 Meter", "Radegast-Statue (1931)", "Byzantinische Kapelle (1898)", "Blick bis zur Hohen Tatra"],
+      hu: ["Magasság: 1129 méter", "Radegast-szobor (1931)", "Kápolna épült: 1898", "Híres búcsújáró hely"],
+      ro: ["Altitudine: 1129 metri", "Statuia lui Radegast (1931)", "Capela Chiril și Metodiu (1898)", "Vedere spre Tatra Mare"],
+      en: ["Elevation: 1129 meters", "Radegast statue (1931)", "Byzantine chapel (1898)", "View of High Tatras"],
+    },
+  },
   {
     id: "czechrepublic-serak-relief-v2",
     type: "peak",
-    name: { de: "Hochschar", hu: "Šerák", ro: "Serak", en: "Serak" },
+    name: { de: "Hochschar", hu: "Šerák", ro: "Serak", en: "Serak",
+image: "/poi-images/czechrepublic-serak-relief-v2.webp"
+},
     coords: [17.1083, 50.1872],
     coordinates: { lat: 50.1872, lng: 17.1083 },
     description: {
@@ -266,11 +476,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1351 metri", "Munții: Jeseníky", "Cabană din 1888", "Telescaun din Ramzová"],
       en: ["Elevation: 1,351 meters", "Range: Hruby Jesenik", "Chalet built in 1888", "Chairlift from Ramzova"],
     },
-    imageHint: "Serak mountain chalet in winter", image: "/poi-images/czechrepublic-serak-relief-v2.webp"},
+    imageHint: "Serak mountain chalet in winter",
+    image: "/poi-images/czechrepublic-serak-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hochschar ist ein bedeutender Gipfel im Altvatergebirge. Bekannt ist er für die Georgsschutzhütte, eine der ältesten Bergbauden der Region, und den weiten Blick nach Schlesien.",
+      hu: "A Šerák a Hrubý Jeseník hegység északi részének egyik legnépszerűbb csúcsa. A 1351 méter magas hegyen álló 'Jiřího chata' menedékház 1888 óta fogadja a túrázókat.",
+      ro: "Vârful Šerák este o destinație populară în Munții Hrubý Jeseník, atingând 1351 metri. Cabana istorică 'Jiřího' de pe vârf datează din 1888 și este un simbol al turismului local.",
+      en: "Serak is a prominent peak in the Hruby Jesenik range, rising to 1351 meters. It is home to the historic George's Hut, built in 1888, and serves as a gateway to the high ridges.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1351 Meter", "Georgsschutzhütte (1888)", "Seilbahn von Ramzová", "Naturschutzgebiet Šerák-Keprník"],
+      hu: ["Magasság: 1351 méter", "Menedékház épült: 1888", "Libegő Ramzová faluból", "Šerák-Keprník természetvédelmi terület"],
+      ro: ["Altitudine: 1351 metri", "Cabana Jiřího (1888)", "Telescaun din Ramzová", "Rezervația Šerák-Keprník"],
+      en: ["Elevation: 1351 meters", "George's Hut (1888)", "Chairlift from Ramzova", "Serak-Keprnik Nature Reserve"],
+    },
+  },
   {
     id: "czechrepublic-rip-relief-v2",
     type: "landmark",
-    name: { de: "Georgsberg", hu: "Říp", ro: "Rip", en: "Rip" },
+    name: { de: "Georgsberg", hu: "Říp", ro: "Rip", en: "Rip",
+image: "/poi-images/czechrepublic-rip-relief-v2.webp"
+},
     coords: [14.2894, 50.3861],
     coordinates: { lat: 50.3861, lng: 14.2894 },
     description: {
@@ -285,11 +511,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Înălțime: 456 metri", "Deal de origine bazaltică", "Rotonda Sf. Gheorghe", "Simbol național"],
       en: ["Height: 456 meters", "Basalt erosion remnant", "St. George Rotunda", "National symbol"],
     },
-    imageHint: "Mount Rip with rotunda on top", image: "/poi-images/czechrepublic-rip-relief-v2.webp"},
+    imageHint: "Mount Rip with rotunda on top",
+    image: "/poi-images/czechrepublic-rip-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Georgsberg ist ein isolierter Basaltkegel in der Elbebene. Er ist der tschechische Nationalberg, auf dem laut Legende der Urvater Tschech sein Volk ansiedelte.",
+      hu: "A Říp egy magányos bazaltkúp a közép-csehországi síkságon. A cseh nép legendás őshazája, ahol a monda szerint Čech ősapa letelepedett, tetején Szent György-rotunda áll.",
+      ro: "Muntele Říp este un con bazaltic izolat, având o valoare simbolică imensă pentru națiunea cehă. Legenda spune că aici s-a stabilit strămoșul Čech cu poporul său.",
+      en: "Mount Rip is a solitary basalt hill in Central Bohemia, iconic in national legends. It is said to be where the mythical forefather Čech first settled his people in the land.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 459 Meter", "Rotunde St. Georg (1126)", "Magnetische Anomalie am Gipfel", "Vulkanischer Ursprung"],
+      hu: ["Magasság: 459 méter", "Szent György-rotunda (1126)", "Mágneses anomália a csúcson", "Nemzeti kulturális emlékhely"],
+      ro: ["Altitudine: 459 metri", "Rotonda Sf. Gheorghe (1126)", "Anomalie magnetică locală", "Origine vulcanică"],
+      en: ["Elevation: 459 meters", "St. George Rotunda (1126)", "Magnetic anomaly at summit", "National cultural monument"],
+    },
+  },
   {
     id: "czechrepublic-pravcicka-brana-relief-v2",
     type: "landmark",
-    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravcicka", en: "Pravcicka brana" },
+    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravcicka", en: "Pravcicka brana",
+image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"
+},
     coords: [14.2814, 50.8842],
     coordinates: { lat: 50.8842, lng: 14.2814 },
     description: {
@@ -304,11 +546,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cea mai mare poartă naturală", "Înălțime: 16 metri", "Deschidere: 26,5 metri", "Elveția Boemă"],
       en: ["Largest arch in Europe", "Height: 16 meters", "Span: 26.5 meters", "Bohemian Switzerland"],
     },
-    imageHint: "Pravcicka brana sandstone arch", image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"},
+    imageHint: "Pravcicka brana sandstone arch",
+    image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Prebischtor ist die größte natürliche Sandstein-Felsbrücke Europas. Es liegt im Nationalpark Böhmische Schweiz und ist ein Meisterwerk der Erosion in grandioser Kulisse.",
+      hu: "A Pravčická brána Európa legnagyobb természetes homokkő sziklakapuja. A Cseh Svájc Nemzeti Parkban található képződmény mellett a 'Sólyomfészek' nevű kastély áll.",
+      ro: "Pravčická brána este cea mai mare poartă naturală de gresie din Europa, situată în Elveția Boemă. Podul spectaculos are o deschidere de 26,5 metri și o înălțime de 16 metri.",
+      en: "Pravcicka brana is Europe's largest natural sandstone arch, located in the Bohemian Switzerland National Park. This majestic erosion feature spans 26.5 meters wide.",
+    },
+    factsAdvanced: {
+      de: ["Spannweite: 26,5 Meter", "Höhe: 16 Meter", "Schlösschen Falkennest (1881)", "Betreten der Brücke seit 1982 verboten"],
+      hu: ["Fesztávolság: 26,5 méter", "Magasság: 16 méter", "Sokolí hnízdo kastély (1881)", "1982 óta nem léphető át"],
+      ro: ["Lățime arc: 26,5 metri", "Înălțime: 16 metri", "Castelul Sokolí hnízdo (1881)", "Acces pe arc interzis din 1982"],
+      en: ["Span: 26.5 meters", "Height: 16 meters", "Falcon's Nest chateau (1881)", "Walking on arch banned since 1982"],
+    },
+  },
   {
     id: "czechrepublic-podyji-relief-v2",
     type: "valley",
-    name: { de: "Thayatal", hu: "Podyjí", ro: "Valea Thaya", en: "Podyji Valley" },
+    name: { de: "Thayatal", hu: "Podyjí", ro: "Valea Thaya", en: "Podyji Valley",
+image: "/poi-images/czechrepublic-podyji-relief-v2.webp"
+},
     coords: [15.9, 48.85],
     coordinates: { lat: 48.85, lng: 15.9 },
     description: {
@@ -323,11 +581,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Parcul Național Podyjí", "Râul Thaya", "Meandre spectaculoase", "Granița cu Austria"],
       en: ["Podyji National Park", "River: Thaya", "Canyon-like valley", "Border with Austria"],
     },
-    imageHint: "Thaya river meander in Podyji valley", image: "/poi-images/czechrepublic-podyji-relief-v2.webp"},
+    imageHint: "Thaya river meander in Podyji valley",
+    image: "/poi-images/czechrepublic-podyji-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Thayatal ist der kleinste Nationalpark Tschechiens. Er schützt den tief eingeschnittenen, mäandrierenden Flusslauf der Thaya an der Grenze zu Niederösterreich.",
+      hu: "A Podyjí Nemzeti Park a legkisebb Csehországban, amely a Thaya folyó mélyen bevágott völgyét és annak meandereit védi az osztrák határ mentén.",
+      ro: "Valea Podyjí este nucleul celui mai mic parc național din Cehia, protejând canionul spectaculos al râului Thaya. Zona este renumită pentru biodiversitatea sa forestieră.",
+      en: "The Podyji Valley is the centerpiece of the smallest Czech National Park. It features the deeply incised meanders of the Dyje River along the border with Lower Austria.",
+    },
+    factsAdvanced: {
+      de: ["Parkfläche: 63 km²", "Gründung: 1991", "Flusslänge im Park: 40 km", "Über 1500 Pflanzenarten"],
+      hu: ["Park területe: 63 km²", "Alapítás: 1991", "Folyó hossza a parkban: 40 km", "1500+ növényfaj"],
+      ro: ["Suprafață parc: 63 km²", "An înființare: 1991", "Lungime râu în parc: 40 km", "Peste 1500 specii de plante"],
+      en: ["Park area: 63 sq km", "Established: 1991", "River length in park: 40 km", "Over 1500 plant species"],
+    },
+  },
   {
     id: "czechrepublic-palava-relief-v2",
     type: "landmark",
-    name: { de: "Pollauer Berge", hu: "Pálava", ro: "Dealurile Palava", en: "Palava Hills" },
+    name: { de: "Pollauer Berge", hu: "Pálava", ro: "Dealurile Palava", en: "Palava Hills",
+image: "/poi-images/czechrepublic-palava-relief-v2.webp"
+},
     coords: [16.65, 48.8333],
     coordinates: { lat: 48.8333, lng: 16.65 },
     description: {
@@ -342,11 +616,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Masiv calcaros", "Rezervație a Biosferei", "Vârful cel mai înalt: Devin", "Regiune viticolă"],
       en: ["Limestone massif", "Biosphere Reserve", "Highest peak: Devin", "Vineyard region"],
     },
-    imageHint: "Palava white limestone hills with castle ruins", image: "/poi-images/czechrepublic-palava-relief-v2.webp"},
+    imageHint: "Palava white limestone hills with castle ruins",
+    image: "/poi-images/czechrepublic-palava-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Pollauer Berge sind ein isolierter Kalkstock in Südmähren. Die Gegend ist als UNESCO-Biosphärenreservat geschützt und bekannt für Weinbau und prähistorische Funde.",
+      hu: "A Pálava-hegység egy fehér mészkősziklákból álló sziget a dél-morvaországi síkságon. UNESCO bioszféra-rezervátum, híres bortermeléséről és a Vénusz-leletről.",
+      ro: "Dealurile Pálava reprezintă un masiv calcaros spectaculos în Moravia de Sud. Rezervația UNESCO este celebră pentru peisajul carstic, podgorii și cetăți medievale.",
+      en: "The Palava Hills are a limestone formation in South Moravia, protected as a UNESCO Biosphere Reserve. The area is famous for its white cliffs, vineyards, and ancient history.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Děvín (550 m)", "Biosphärenreservat seit 1986", "Fundort der Venus von Dolní Věstonice", "Ruine Dívčí hrady"],
+      hu: ["Legmagasabb pont: Děvín (550 m)", "UNESCO védelem 1986 óta", "Děvičky várrom", "Dolní Věstonice-i Vénusz lelőhelye"],
+      ro: ["Cel mai înalt punct: Děvín (550 m)", "Rezervație UNESCO din 1986", "Cetatea Dívčí hrady", "Descoperirea Venerei din Dolní Věstonice"],
+      en: ["Highest point: Děvín (550 m)", "UNESCO reserve since 1986", "Venus of Dolní Věstonice find site", "Dívčí hrady castle ruins"],
+    },
+  },
   {
     id: "czechrepublic-tiske-steny-relief-v2",
     type: "landmark",
-    name: { de: "Tyssaer Wände", hu: "Tisái-falak", ro: "Stancile Tisa", en: "Tisa Walls" },
+    name: { de: "Tyssaer Wände", hu: "Tisái-falak", ro: "Stancile Tisa", en: "Tisa Walls",
+image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"
+},
     coords: [14.0306, 50.7889],
     coordinates: { lat: 50.7889, lng: 14.0306 },
     description: {
@@ -361,11 +651,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Labirint de gresie", "Loc de filmare pentru Narnia", "Forme de eroziune", "Elveția Boemă"],
       en: ["Sandstone labyrinth", "Chronicles of Narnia filming site", "Erosion pillars", "Bohemian Switzerland"],
     },
-    imageHint: "Tisa Walls sandstone rock city", image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"},
+    imageHint: "Tisa Walls sandstone rock city",
+    image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tyssaer Wände sind ein bizarres Felsenlabyrinth im Elbsandsteingebirge. Die zerklüfteten Türme und engen Gassen dienten als Drehort für Fantasy-Filme.",
+      hu: "A Tiské stěny egy bizarr homokkő sziklaváros a Cseh Svájc szélén. A változatos formájú tornyok és szűk szurdokok között kanyargó tanösvény rendkívül népszerű.",
+      ro: "Zidurile Tisa reprezintă un labirint de stânci de gresie situat la marginea Elveției Boeme. Formațiunile fantastice și coridoarele înguste au servit drept decor pentru filme.",
+      en: "The Tisa Walls are a stunning sandstone rock labyrinth on the edge of the Elbe Sandstone Mountains. Its bizarre formations and narrow alleys create a fairy-tale landscape.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: bis 613 Meter", "Zwei Rundwege: Groß & Klein", "Filmkulisse für Narnia", "Entstehung durch Kreide-Meere"],
+      hu: ["Magasság: 613 méter", "Két útvonal: Nagy és Kis kör", "Narnia krónikái forgatási helyszín", "Kréta kori üledék"],
+      ro: ["Înălțime: până la 613 m", "Două circuite turistice", "Locație film: Cronicile din Narnia", "Sedimente din perioada cretacică"],
+      en: ["Elevation: up to 613m", "Two circuits: Great & Small", "Filming site for Narnia", "Cretaceous sandstone origin"],
+    },
+  },
   {
     id: "czechrepublic-hruby-jesenik-relief-v2",
     type: "mountain",
-    name: { de: "Altvatergebirge", hu: "Hrubý Jeseník", ro: "Hruby Jesenik", en: "Hruby Jesenik" },
+    name: { de: "Altvatergebirge", hu: "Hrubý Jeseník", ro: "Hruby Jesenik", en: "Hruby Jesenik",
+image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"
+},
     coords: [17.2, 50.1],
     coordinates: { lat: 50.1, lng: 17.2 },
     description: {
@@ -380,11 +686,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Al doilea lanț ca înălțime", "Vârful Praded", "Arie protejată", "Moravia și Silezia"],
       en: ["Second-highest CZ range", "Highest peak: Praded", "Protected landscape area", "Moravian-Silesian border"],
     },
-    imageHint: "Hruby Jesenik mountains panoramic view", image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"},
+    imageHint: "Hruby Jesenik mountains panoramic view",
+    image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hohe Gesenke ist das zweithöchste Gebirge Tschechiens. Die Region ist geprägt von eiszeitlichen Karen, Hochmooren und dem mächtigen Altvater-Massiv.",
+      hu: "A Hrubý Jeseník Csehország második legmagasabb hegysége. Glaciális formák, tőzeglápok és mély völgyek jellemzik, központja a Praděd csúcsa.",
+      ro: "Munții Hrubý Jeseník reprezintă al doilea masiv ca înălțime din Cehia. Peisajul este definit de circuri glaciare, turbării și creste alpine spectaculoase.",
+      en: "Hruby Jesenik is the second-highest mountain range in the Czech Republic. It is characterized by glacial cirques, peat bogs, and the dominant peak of Praded.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Praděd (1491 m)", "Fläche: ca. 530 km²", "Wasserfall Vysoký vodopád (28 m)", "Gletschertal Velká kotlina"],
+      hu: ["Legmagasabb csúcs: Praděd (1491 m)", "Terület: ~530 km²", "Vysoký vodopád vízesés: 28 m", "Velká kotlina gleccservölgy"],
+      ro: ["Cel mai înalt vârf: Praděd (1491 m)", "Suprafață: ~530 km²", "Cascada Vysoký vodopád (28 m)", "Valea glaciară Velká kotlina"],
+      en: ["Highest peak: Praded (1491 m)", "Area: ~530 sq km", "Vysoký waterfall: 28m high", "Velká kotlina glacial cirque"],
+    },
+  },
   {
     id: "czechrepublic-krkonose-relief-v2",
     type: "mountain",
-    name: { de: "Riesengebirge", hu: "Óriás-hegység", ro: "Muntii Karkonosze", en: "Giant Mountains" },
+    name: { de: "Riesengebirge", hu: "Óriás-hegység", ro: "Muntii Karkonosze", en: "Giant Mountains",
+image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"
+},
     coords: [15.6, 50.75],
     coordinates: { lat: 50.75, lng: 15.6 },
     description: {
@@ -399,11 +721,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cel mai înalt masiv din Cehia", "Rezervație UNESCO", "Izvorul Elbei", "Granița cu Polonia"],
       en: ["Highest CZ mountain range", "UNESCO Biosphere Reserve", "Source of the Elbe", "Part of the Sudetes"],
     },
-    imageHint: "Giant Mountains ridgeline in summer", image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"},
+    imageHint: "Giant Mountains ridgeline in summer",
+    image: "/poi-images/czechrepublic-krkonose-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Riesengebirge ist das höchste und meistbesuchte Gebirge Tschechiens. Es beherbergt die Quelle der Elbe und beeindruckende subalpine Tundra-Landschaften.",
+      hu: "Az Óriás-hegység Csehország legmagasabb hegyvonulata, az Elba folyó forrásvidéke. Egyedülálló szubalpin tundrával és látványos gleccservölgyekkel rendelkezik.",
+      ro: "Munții Krkonoše reprezintă cel mai înalt masiv ceh, adăpostind izvoarele râului Elba. Regiunea este protejată ca parc național și rezervație a biosferei UNESCO.",
+      en: "The Giant Mountains are the highest range in the Czech Republic and the source of the Elbe River. They feature unique subalpine tundra and vast glacial valleys.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Sněžka (1603 m)", "Nationalpark seit 1963", "Elbquelle auf 1386 m Höhe", "UNESCO-Biosphärenreservat"],
+      hu: ["Legmagasabb csúcs: Sněžka (1603 m)", "Nemzeti Park 1963 óta", "Elba forrása: 1386 m", "UNESCO bioszféra-rezervátum"],
+      ro: ["Cel mai înalt vârf: Sněžka (1603 m)", "Parc Național din 1963", "Izvorul Elbei: 1386 m", "Rezervație UNESCO"],
+      en: ["Highest peak: Snezka (1603 m)", "National Park since 1963", "Elbe source elevation: 1386 m", "UNESCO Biosphere Reserve"],
+    },
+  },
   {
     id: "czechrepublic-ceske-stredohori-relief-v2",
     type: "mountain",
-    name: { de: "Böhmisches Mittelgebirge", hu: "Cseh-középhegység", ro: "Munții Centrali Boemi", en: "Central Bohemian Uplands" },
+    name: { de: "Böhmisches Mittelgebirge", hu: "Cseh-középhegység", ro: "Munții Centrali Boemi", en: "Central Bohemian Uplands",
+image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp"
+},
     coords: [14.0, 50.5],
     coordinates: { lat: 50.5, lng: 14 },
     description: {
@@ -419,11 +757,25 @@ export const czechrepublicReliefV2: POI[] = [
       en: ["Volcanic origin", "Highest peak: Milesovka", "Distinctive conical hills", "Bisected by the Elbe river"],
     },
     imageHint: "Central Bohemian Uplands with conical hills",
+    descriptionAdvanced: {
+      de: "Das Böhmische Mittelgebirge besticht durch seine markanten Kegelberge vulkanischen Ursprungs. Es durchschneidet die nordböhmische Landschaft mit einzigartigen Basalt- und Phonolithkuppen.",
+      hu: "A Cseh-középhegység látványos vulkáni kúpjairól ismert. A bazalt- és fonolitcsúcsok, mint a Milešovka, egyedülálló sziluettet adnak a tájnak az Elba áttörése mentén.",
+      ro: "Munții Centrali Boemi sunt definiți de conurile lor vulcanice distinctive. Peisajul este marcat de formațiuni de bazalt și fonolit care se ridică deasupra văii Elbei.",
+      en: "The Central Bohemian Uplands are famous for their striking volcanic cones. This range features basalt and phonolite peaks that rise sharply above the Elbe River valley.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Milešovka (837 m)", "Landschaftsschutzgebiet seit 1976", "Durchbruchstal Porta Bohemica", "Vulkanismus vor 30 Mio. Jahren"],
+      hu: ["Legmagasabb csúcs: Milešovka (837 m)", "Tájvédelmi körzet 1976 óta", "Porta Bohemica szoros", "30 millió éves vulkánosság"],
+      ro: ["Cel mai înalt vârf: Milešovka (837 m)", "Zona protejată din 1976", "Defileul Porta Bohemica", "Vulcanism de acum 30 mil. ani"],
+      en: ["Highest peak: Milesovka (837 m)", "Protected area since 1976", "Porta Bohemica gorge", "Volcanic activity 30M years ago"],
+    },
   },
   {
     id: "czechrepublic-polabi-relief-v2",
     type: "valley",
-    name: { de: "Elbeniederung", hu: "Polabí", ro: "Câmpia Elbei", en: "Elbe Lowlands" },
+    name: { de: "Elbeniederung", hu: "Polabí", ro: "Câmpia Elbei", en: "Elbe Lowlands",
+image: "/poi-images/czechrepublic-polabi-relief-v2.webp"
+},
     coords: [15.0, 50.1],
     coordinates: { lat: 50.1, lng: 15 },
     description: {
@@ -438,12 +790,28 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Câmpie fertilă", "Râul Elba", "Cea mai caldă regiune", "Zonă agricolă majoră"],
       en: ["Fertile plain", "Elbe river basin", "Warmest CZ region", "Agricultural heartland"],
     },
-    imageHint: "Elbe lowlands with fertile fields and river", image: "/poi-images/czechrepublic-polabi-relief-v2.webp"}
+    imageHint: "Elbe lowlands with fertile fields and river",
+    image: "/poi-images/czechrepublic-polabi-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Elbeniederung ist eine fruchtbare Ebene entlang der Elbe. Sie bildet das klimatisch mildeste Gebiet Böhmens und ist ein Zentrum der tschechischen Landwirtschaft.",
+      hu: "A Polabí az Elba folyó menti termékeny síkság Közép-Csehországban. Ez az ország egyik legenyhébb éghajlatú tájegysége és legfontosabb mezőgazdasági területe.",
+      ro: "Câmpia Elbei (Polabí) este o regiune fertilă de-a lungul cursului râului Elba. Este considerată 'grânarul Boemiei', având un climat blând și soluri bogate.",
+      en: "The Elbe Lowlands (Polabí) are a fertile agricultural region along the Elbe River. Known for its mild climate, it is the primary food-producing heartland of Bohemia.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittshöhe: ca. 200 m", "Hauptfluss: Labe (Elbe)", "Zentrum für Gartenbau", "Wichtige Verkehrskorridore"],
+      hu: ["Átlagos magasság: ~200 m", "Fő folyó: Labe (Elba)", "Zöldség- és gyümölcstermesztés", "Közép-csehországi medence"],
+      ro: ["Altitudine medie: ~200 m", "Râul principal: Labe (Elba)", "Centru agricol major", "Regiune cu climat continental-blând"],
+      en: ["Average elevation: ~200 m", "Main river: Labe (Elbe)", "Bohemian garden center", "Key transport corridor"],
+    },
+  }
 ,
   {
     id: "czechrepublic-mount-klet-relief-v2",
     type: "peak",
-    name: { de: "Kleť", hu: "Kleť-hegy", ro: "Muntele Kleť", en: "Mount Kleť" },
+    name: { de: "Kleť", hu: "Kleť-hegy", ro: "Muntele Kleť", en: "Mount Kleť",
+image: "/poi-images/czechrepublic-mount-klet-relief-v2.webp"
+},
     coordinates: { lat: 48.864, lng: 14.283 },
     description: {
       de: "Der Berg Kleť ist der höchste Gipfel des Blanský les in Südböhmen. Er ist bekannt für seinen markanten Fernsehturm und den ältesten Aussichtsturm des Landes.",
@@ -458,11 +826,25 @@ export const czechrepublicReliefV2: POI[] = [
       en: ["Elevation of 1,084 meters", "Oldest lookout tower from 1825", "Home to a major observatory", "Accessible by a chairlift"],
     },
     imageHint: "Mount Klet lookout tower and transmitter",
+    descriptionAdvanced: {
+      de: "Der Schöninger ist der höchste Berg des Blansker Waldes. Auf dem Gipfel steht der älteste steinerne Aussichtsturm Tschechiens sowie ein bedeutendes astronomisches Observatorium.",
+      hu: "A Kleť a Blanský les legmagasabb csúcsa. Itt található Csehország legrégebbi kőből épült kilátótornya és egy világhírű csillagvizsgáló, amely kisbolygók kutatására szakosodott.",
+      ro: "Muntele Kleť este cel mai înalt vârf din pădurea Blanský. Găzduiește cel mai vechi turn de piatră din Cehia (1825) și un observator astronomic renumit la nivel mondial.",
+      en: "Mount Klet is the highest peak of the Blansky Forest. It features the oldest stone lookout tower in the Czech Republic and a world-renowned astronomical observatory.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1084 Meter", "Aussichtsturm Josefsturm (1825)", "Observatorium Kleť (1957)", "Sessellift von Krasetín"],
+      hu: ["Magasság: 1084 méter", "József-kilátótorony (1825)", "Kleť Csillagvizsgáló (1957)", "Libegő Krasetín felől"],
+      ro: ["Altitudine: 1084 metri", "Turnul Iosif (1825)", "Observatorul Kleť (1957)", "Telescaun din Krasetín"],
+      en: ["Elevation: 1084 meters", "Josef Tower built 1825", "Klet Observatory founded 1957", "Chairlift from Krasetin"],
+    },
   },
   {
     id: "czechrepublic-upper-palatine-forest-relief-v2",
     type: "mountain",
-    name: { de: "Oberpfälzer Wald", hu: "Cseh-erdő", ro: "Pădurea Boemiei Superioare", en: "Upper Palatine Forest" },
+    name: { de: "Oberpfälzer Wald", hu: "Cseh-erdő", ro: "Pădurea Boemiei Superioare", en: "Upper Palatine Forest",
+image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"
+},
     coordinates: { lat: 49.6, lng: 12.6 },
     description: {
       de: "Der Oberpfälzer Wald, in Tschechien Český les genannt, erstreckt sich entlang der westlichen Grenze zu Bayern. Er ist ein waldreiches Mittelgebirge mit sanften Bergrücken.",
@@ -476,11 +858,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Čerchov", "Parte a Masivului Boemian", "Fostă zonă restricționată a Cortinei de Fier", "Habitat important pentru lincși"],
       en: ["Highest peak is Čerchov", "Part of the Bohemian Massif", "Former Iron Curtain restricted zone", "Important habitat for lynx"],
     },
-    imageHint: "Cerchov mountain with lookout tower", image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"},
+    imageHint: "Cerchov mountain with lookout tower",
+    image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Oberpfälzer Wald (Český les) bildet die natürliche Grenze zu Bayern. Er ist ein weitläufiges, dünn besiedeltes Waldgebirge, das nach Jahrzehnten im Sperrgebiet seine Wildnis bewahrt hat.",
+      hu: "A Cseh-erdő (Český les) Bajorország és Csehország határán húzódó erdős hegység. A vasfüggöny idején lezárt terület ma érintetlen természetéről és csendjéről híres.",
+      ro: "Selva Palatină Superioară (Český les) formează o frontieră forestieră vastă cu Bavaria. Regiunea a rămas sălbatică datorită restricțiilor de acces din timpul Războiului Rece.",
+      en: "The Upper Palatine Forest (Český les) forms a pristine wooded border with Bavaria. Once part of the Iron Curtain, it has preserved a unique wilderness and quiet atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Čerchov (1042 m)", "LSG seit 2005", "Historische Glashüttentradition", "Teil des Grünen Bandes"],
+      hu: ["Legmagasabb csúcs: Čerchov (1042 m)", "Tájvédelmi körzet 2005 óta", "Hagyományos üvegművesség", "Az 'Európai Zöld Öv' része"],
+      ro: ["Cel mai înalt vârf: Čerchov (1042 m)", "Zona protejată din 2005", "Tradiție în fabricarea sticlei", "Parte din Centura Verde Europeană"],
+      en: ["Highest peak: Čerchov (1042 m)", "Protected area since 2005", "Historic glassmaking center", "Part of the European Green Belt"],
+    },
+  },
   {
     id: "czechrepublic-iron-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Eisengebirge", hu: "Vas-hegység", ro: "Munții Železné", en: "Iron Mountains" },
+    name: { de: "Eisengebirge", hu: "Vas-hegység", ro: "Munții Železné", en: "Iron Mountains",
+image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"
+},
     coordinates: { lat: 49.85, lng: 15.6 },
     description: {
       de: "Das Eisengebirge ist ein geologisch vielfältiges Gebirge in Ostböhmen. Die Region ist als nationaler Geopark anerkannt und für ihre tiefen Täler und Stauseen bekannt.",
@@ -494,11 +892,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Vârful maxim este Vestec", "Statut de geoparc UNESCO", "Exploatare istorică de minereu de fier", "Adăpostește barajul Seč"],
       en: ["Highest peak is Vestec", "UNESCO Geopark status", "Historical iron ore mining", "Home to the Seč reservoir"],
     },
-    imageHint: "Iron Mountains landscape with Sec dam", image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"},
+    imageHint: "Iron Mountains landscape with Sec dam",
+    image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Eisengebirge ist ein geologisch vielfältiges Mittelgebirge in Ostböhmen. Es ist als Nationaler Geopark anerkannt und bietet tiefe Schluchten sowie zahlreiche Burgruinen.",
+      hu: "Az Železné hory (Vas-hegység) egy geológiailag rendkívül változatos terület Kelet-Csehországban. Nemzeti geoparkként védett, szurdokvölgyek és középkori várromok tarkítják.",
+      ro: "Munții de Fier (Železné hory) reprezintă un masiv cu o diversitate geologică rară în Boemia de Est. Este un geopark național renumit pentru defileele sale și ruinele cetăților.",
+      en: "The Iron Mountains are a geologically diverse range in Eastern Bohemia. Designated as a National Geopark, they feature deep river canyons and numerous medieval castle ruins.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Vestec (668 m)", "Nationaler Geopark seit 2012", "Talsperre Seč", "Fluss Chrudimka"],
+      hu: ["Legmagasabb pont: Vestec (668 m)", "Nemzeti Geopark 2012 óta", "Seč-i víztározó", "Chrudimka folyó völgye"],
+      ro: ["Cel mai înalt punct: Vestec (668 m)", "Geoparc Național din 2012", "Lacul de acumulare Seč", "Râul Chrudimka"],
+      en: ["Highest point: Vestec (668 m)", "National Geopark since 2012", "Seč Reservoir dam", "Chrudimka River valley"],
+    },
+  },
   {
     id: "czechrepublic-chriby-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Marsgebirge", hu: "Chřiby-hegység", ro: "Munții Chřiby", en: "Chřiby Mountains" },
+    name: { de: "Marsgebirge", hu: "Chřiby-hegység", ro: "Munții Chřiby", en: "Chřiby Mountains",
+image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"
+},
     coordinates: { lat: 49.15, lng: 17.25 },
     description: {
       de: "Die Chřiby sind ein bewaldetes Bergland in Mähren, das für seine Sandsteinfelsen und historischen Denkmäler bekannt ist. Sie bilden den höchsten Teil der Mittelmährischen Karpaten.",
@@ -512,11 +926,27 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Brdo", "Cunoscut pentru castelul Buchlov", "Bogați în formațiuni de gresie", "Zonă populară de drumeții și alpinism"],
       en: ["Highest peak is Brdo", "Known for the Buchlov Castle", "Rich in bizarre sandstone formations", "Popular hiking and climbing area"],
     },
-    imageHint: "Chriby mountains forest and sandstone rocks", image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"},
+    imageHint: "Chriby mountains forest and sandstone rocks",
+    image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Marsgebirge ist ein bewaldeter Höhenzug in Südmähren. Es ist bekannt für seine Sandsteinfelsen, die majestätische Burg Buchlov und den spirituellen Berg Velehrad.",
+      hu: "A Chřiby egy festői, erdős dombság Közép-Morvaországban. Híres homokkő alakzatairól, a monumentális Buchlov váráról és a régió vallási központjáról, Velehradról.",
+      ro: "Munții Chřiby reprezintă un lanț deluros împădurit în Moravia. Zona este apreciată pentru formațiunile de gresie, castelul Buchlov și importanța sa spirituală istorică.",
+      en: "The Chriby Mountains are a forested range in Moravia, known for their unique sandstone rocks. They host the iconic Buchlov Castle and the pilgrimage site of Velehrad.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Brdo (587 m)", "Aussichtsturm Brdo (Stein)", "Burg Buchlov (13. Jh.)", "Pilgerort Velehrad"],
+      hu: ["Legmagasabb pont: Brdo (587 m)", "Kőkilátó a Brdo csúcson", "Buchlov vára (13. század)", "Velehrad zarándokhely"],
+      ro: ["Cel mai înalt vârf: Brdo (587 m)", "Turn de piatră pe Brdo", "Castelul Buchlov (sec. XIII)", "Centrul spiritual Velehrad"],
+      en: ["Highest point: Brdo (587 m)", "Stone lookout tower on Brdo", "Buchlov Castle (13th century)", "Velehrad pilgrimage site"],
+    },
+  },
   {
     id: "czechrepublic-hostyn-hills-relief-v2",
     type: "mountain",
-    name: { de: "Hosteiner Berge", hu: "Hostýni-hegyek", ro: "Munții Hostýn", en: "Hostýn Hills" },
+    name: { de: "Hosteiner Berge", hu: "Hostýni-hegyek", ro: "Munții Hostýn", en: "Hostýn Hills",
+image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
+},
     coordinates: { lat: 49.38, lng: 17.7 },
     description: {
       de: "Die Hostýnské vrchy sind ein malerisches Gebirge im Osten Mährens. Der namensgebende Berg Hostýn ist einer der bedeutendsten Wallfahrtsorte des Landes.",
@@ -531,5 +961,132 @@ export const czechrepublicReliefV2: POI[] = [
       en: ["Highest peak is Kelčský Javorník", "Important Catholic pilgrimage center", "Wooden lookout towers on summits", "Dense beech forests"],
     },
     imageHint: "Hostyn pilgrimage basilica on hilltop",
+    descriptionAdvanced: {
+      de: "Die Hosteiner Berge sind ein bedeutender Wallfahrtsort in Mähren. Der Berg Hostýn mit seiner Basilika ist weithin sichtbar und ein Zentrum mährischer Tradition und Frömmigkeit.",
+      hu: "A Hostýni-hegyek Morvaország szívében fekszenek. A Svatý Hostýn csúcsa a leglátogatottabb cseh Mária-kegyhely, ahol egy pompás barokk bazilika és keresztút várja a hívőket.",
+      ro: "Dealurile Hostýn sunt un reper spiritual major în Moravia. Vârful Svatý Hostýn găzduiește o bazilică barocă impunătoare, fiind cel mai popular loc de pelerinaj din regiune.",
+      en: "The Hostyn Hills are a prominent spiritual landmark in Moravia. Mount Hostyn is home to a magnificent Baroque basilica and is the most visited pilgrimage site in the area.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Kelčský Javorník (865 m)", "Basilika Mariä Himmelfahrt", "Klassizistischer Kreuzweg", "Windkraftrad am Hostýn"],
+      hu: ["Legmagasabb pont: Kelčský Javorník (865 m)", "Szűz Mária Mennybevétele bazilika", "Jurkovič-féle keresztút", "Svatý Hostýn búcsújáróhely"],
+      ro: ["Cel mai înalt vârf: Kelčský Javorník (865 m)", "Bazilica Adormirea Maicii Domnului", "Calea Crucii de Jurkovič", "Svatý Hostýn (735 m)"],
+      en: ["Highest point: Kelčský Javorník (865 m)", "Basilica of the Assumption", "Stations of the Cross by Jurkovič", "Hostyn elevation: 735 m"],
+    },
+  }
+,
+  {
+    id: "czechrepublic-moravian-gate-relief-v2",
+    type: "valley",
+    name: { de: "Mährische Pforte", hu: "Morva-kapu", ro: "Poarta Moraviei", en: "Moravian Gate" },
+    coordinates: { lat: 49.548, lng: 17.734 },
+    description: {
+      de: "Ein geomorphologischer Tieflandpass in Mähren, der das Tal der Oder mit dem der Bečva verbindet und die Karpaten von den Sudeten trennt.",
+      hu: "Geomorfológiai völgykapu Morvaországban, amely az Odera és a Bečva folyók völgyét köti össze a Szudéták és a Kárpátok között.",
+      ro: "O trecătoare joasă în Moravia care leagă valea râului Odra de cea a râului Bečva, separând munții Sudeți de lanțul Carpatic.",
+      en: "A geomorphological lowland pass in Moravia connecting the Oder and Bečva river valleys, separating the Sudetes and the Carpathians.",
+    },
+    facts: {
+      de: ["Höhe bis 310 Meter", "Länge etwa 65 Kilometer", "Europäische Wasserscheide", "Antiker Handelsweg"],
+      hu: ["Maximum 310 méter magas", "Körülbelül 65 km hosszú", "Európai vízválasztó", "Ősi kereskedelmi útvonal"],
+      ro: ["Altitudine maximă 310 m", "Lungime de circa 65 km", "Diviziune hidrografică", "Rută istorică comercială"],
+      en: ["Max elevation 310 meters", "Length about 65 kilometers", "European watershed", "Ancient trade route"],
+    },
+    imageHint: "Moravian Gate landscape near Hranice",
+  },
+  {
+    id: "czechrepublic-bohemian-moravian-highlands-relief-v2",
+    type: "mountain",
+    name: { de: "Böhmisch-Mährische Höhe", hu: "Cseh–Morva-dombság", ro: "Podișul Boemo-Morav", en: "Bohemian-Moravian Highlands" },
+    coordinates: { lat: 49.4, lng: 15.59 },
+    description: {
+      de: "Ein weitläufiges Bergland an der historischen Grenze zwischen Böhmen und Mähren, geprägt durch sanfte Kuppen und kristalline Gesteine.",
+      hu: "Hatalmas dombság Csehország és Morvaország határán, amelyet lekerekített formák és ősi kristályos kőzetek jellemeznek.",
+      ro: "Un podiș vast la granița istorică dintre Boemia și Moravia, caracterizat prin culmi domoale și roci cristaline vechi.",
+      en: "An extensive highland on the historical border between Bohemia and Moravia, characterized by rounded peaks and ancient crystalline rocks.",
+    },
+    facts: {
+      de: ["Fläche 11.750 km²", "Gipfel Devět skal (836 m)", "Granit- und Gneisgestein", "Quellgebiet vieler Flüsse"],
+      hu: ["Területe 11 750 km²", "Legmagasabb pontja a Devět skal", "Gránit és gneisz alapkőzet", "Sok folyó forrásvidéke"],
+      ro: ["Suprafață de 11.750 km²", "Vârful Devět skal (836 m)", "Roci de granit și gnais", "Zonă de izvorâre a râurilor"],
+      en: ["Area 11,750 km²", "Highest peak Devět skal (836 m)", "Granite and gneiss bedrock", "Source region for many rivers"],
+    },
+    imageHint: "Bohemian-Moravian Highlands rolling hills and fields",
+  },
+  {
+    id: "czechrepublic-broumov-highlands-relief-v2",
+    type: "mountain",
+    name: { de: "Braunauer Bergland", hu: "Broumovi-felföld", ro: "Podișul Broumov", en: "Broumov Highlands" },
+    coordinates: { lat: 50.59, lng: 16.29 },
+    description: {
+      de: "Ein geologisch faszinierendes Gebiet mit markanten Sandsteinfelsen und vulkanischen Erhebungen im Nordosten Böhmens.",
+      hu: "Földtanilag lenyűgöző terület Északkelet-Csehországban, jellegzetes homokkő sziklavárosokkal és vulkáni kúpokkal.",
+      ro: "O zonă fascinantă geologic, cu orașe de piatră din gresie și elevații vulcanice în nord-estul Boemiei.",
+      en: "A geologically fascinating area with prominent sandstone rock cities and volcanic elevations in Northeast Bohemia.",
+    },
+    facts: {
+      de: ["Gehört zu den Sudeten", "Sandstein-Plateaus", "Vulkanisches Javoří-Gebirge", "Grenze zu Polen"],
+      hu: ["A Szudéták rendszerének része", "Homokkő fennsíkok jellemzik", "Vulkáni eredetű Javoří-hegység", "Lengyelországgal határos"],
+      ro: ["Parte a sistemului muntos Sudeți", "Podișuri din gresie silicioasă", "Munții vulcanici Javoří", "Graniță naturală cu Polonia"],
+      en: ["Part of the Sudetes system", "Sandstone plateaus", "Volcanic Javoří Mountains", "Border with Poland"],
+    },
+    imageHint: "Broumov Highlands sandstone rock towers",
+  },
+  {
+    id: "czechrepublic-upper-morava-valley-relief-v2",
+    type: "valley",
+    name: { de: "Obermährische Senke", hu: "Felső-Morva-völgy", ro: "Depresiunea Moravei Superioare", en: "Upper Morava Valley" },
+    coordinates: { lat: 49.593, lng: 17.252 },
+    description: {
+      de: "Eine breite tektonische Senke und fruchtbare Ebene entlang des Oberlaufs der March, bekannt als die Region Haná.",
+      hu: "Széles tektonikus süllyedék és termékeny alföld a Morva folyó felső szakasza mentén, közismert nevén a Haná vidék.",
+      ro: "O depresiune tectonică largă și o câmpie fertilă de-a lungul cursului superior al râului Morava, cunoscută ca regiunea Haná.",
+      en: "A broad tectonic depression and fertile lowland along the upper course of the Morava River, known as the Haná region.",
+    },
+    facts: {
+      de: ["Tektonischer Ursprung", "Höhe 190 bis 250 Meter", "Sehr fruchtbare Lössböden", "Zentrum von Mähren"],
+      hu: ["Tektonikus eredetű süllyedék", "190-250 méter tengerszint felett", "Rendkívül termékeny löszös talaj", "Morvaország középső része"],
+      ro: ["Origine tectonică", "Altitudine de 190-250 metri", "Soluri de loess extrem de fertile", "Locație centrală în Moravia"],
+      en: ["Tectonic origin", "Elevation 190-250 meters", "Extremely fertile loess soils", "Central Moravian location"],
+    },
+    imageHint: "Upper Morava Valley fertile plains and river",
+  },
+  {
+    id: "czechrepublic-trebon-basin-relief-v2",
+    type: "valley",
+    name: { de: "Wittingauer Becken", hu: "Třeboni-medence", ro: "Depresiunea Třeboň", en: "Třeboň Basin" },
+    coordinates: { lat: 49.003, lng: 14.77 },
+    description: {
+      de: "Ein flaches tektonisches Becken in Südböhmen, das durch sandige Böden und ausgedehnte Feuchtgebiete geprägt ist.",
+      hu: "Lapos tektonikus medence Dél-Csehországban, amelyet homokos talaj és kiterjedt mocsárvidékek jellemeznek.",
+      ro: "O depresiune tectonică plată în Boemia de Sud, caracterizată prin sol nisipos și zone umede întinse.",
+      en: "A flat tectonic depression in South Bohemia characterized by sandy soil and extensive wetlands.",
+    },
+    facts: {
+      de: ["Fläche etwa 1.360 km²", "Höhe rund 420 Meter", "Achse des Flusses Lužnice", "Zentrum der Fischzucht"],
+      hu: ["Területe kb. 1360 km²", "Magassága 420 méter körül", "A Lužnice folyó tengelye", "A tógazdálkodás központja"],
+      ro: ["Suprafață de circa 1.360 km²", "Altitudine de aproximativ 420 m", "Axa râului Lužnice", "Inima pisciculturii cehe"],
+      en: ["Area approx 1,360 km²", "Elevation around 420 meters", "Axis of the Lužnice river", "Center of Czech pond farming"],
+    },
+    imageHint: "Třeboň Basin landscape with fishponds",
+  },
+  {
+    id: "czechrepublic-low-jesenik-relief-v2",
+    type: "mountain",
+    name: { de: "Niederes Gesenke", hu: "Alacsony-Jeseník", ro: "Jeseník de Jos", en: "Low Jeseník" },
+    coordinates: { lat: 49.988, lng: 17.464 },
+    description: {
+      de: "Ein weitläufiges, hügeliges Hochplateau im Osten der Sudeten, das mehrere junge, erloschene Vulkane umfasst.",
+      hu: "Kiterjedt, dombos fennsík a Szudéták keleti részén, amely több fiatal, kialudt vulkánt is magában foglal.",
+      ro: "Un podiș deluros vast în estul munților Sudeți, care include câțiva vulcani stinși de dată recentă.",
+      en: "An extensive hilly plateau in the eastern Sudetes, featuring several young extinct volcanoes.",
+    },
+    facts: {
+      de: ["Höhe 400 bis 600 Meter", "Gipfel Slunečná (800 m)", "Schiefer- und Grauwackegestein", "Erloschener Vulkan Velký Roudný"],
+      hu: ["400-600 méteres magasság", "Legmagasabb pontja a Slunečná", "Pala és grauvacke kőzetek", "Velký Roudný kialudt vulkán"],
+      ro: ["Altitudine medie 400-600 m", "Vârful Slunečná (800 m)", "Roci de șist și gresie", "Vulcanul stins Velký Roudný"],
+      en: ["Elevation 400-600 meters", "Highest peak Slunečná (800 m)", "Shale and greywacke rocks", "Extinct volcano Velký Roudný"],
+    },
+    imageHint: "Low Jeseník extinct volcano Velky Roudny",
   }
 ];

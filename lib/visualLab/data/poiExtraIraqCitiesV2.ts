@@ -6,7 +6,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-BG",
     coords: [44.3661, 33.3152],
-    name: { de: "Bagdad", hu: "Bagdad", ro: "Bagdad", en: "Baghdad" },
+    name: { de: "Bagdad", hu: "Bagdad", ro: "Bagdad", en: "Baghdad",
+image: "/poi-images/baghdad-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt und größte Stadt des Irak, am Tigris gelegen.",
       hu: "Irak fővárosa és legnagyobb városa, amely a Tigris folyó partján fekszik.",
@@ -36,7 +38,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-BA",
     coords: [47.7835, 30.5081],
-    name: { de: "Basra", hu: "Bászra", ro: "Basra", en: "Basra" },
+    name: { de: "Basra", hu: "Bászra", ro: "Basra", en: "Basra",
+image: "/poi-images/basra-cities-v2.webp"
+},
     description: {
       de: "Die wichtigste Hafenstadt des Irak, gelegen am Shatt al-Arab im Süden des Landes.",
       hu: "Irak legfontosabb kikötővárosa, amely a Satt el-Arab partján található délen.",
@@ -66,7 +70,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-NI",
     coords: [43.13, 36.34],
-    name: { de: "Mosul", hu: "Moszul", ro: "Mosul", en: "Mosul" },
+    name: { de: "Mosul", hu: "Moszul", ro: "Mosul", en: "Mosul",
+image: "/poi-images/mosul-cities-v2.webp"
+},
     description: {
       de: "Eine der größten Städte im Nordirak, nahe den Ruinen der antiken Stadt Ninive.",
       hu: "Észak-Irak egyik legnagyobb városa, az ókori Ninive romjainak közelében.",
@@ -96,7 +102,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-AR",
     coords: [44.0092, 36.1911],
-    name: { de: "Erbil", hu: "Erbíl", ro: "Erbil", en: "Erbil" },
+    name: { de: "Erbil", hu: "Erbíl", ro: "Erbil", en: "Erbil",
+image: "/poi-images/erbil-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Autonomen Region Kurdistan, bekannt für ihre historische Zitadelle.",
       hu: "Az Iraki Kurdisztán fővárosa, amely történelmi fellegváráról ismert.",
@@ -126,7 +134,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-SU",
     coords: [45.4351, 35.5558],
-    name: { de: "Sulaimaniyya", hu: "Szulejmánijja", ro: "Sulaymaniyah", en: "Sulaymaniyah" },
+    name: { de: "Sulaimaniyya", hu: "Szulejmánijja", ro: "Sulaymaniyah", en: "Sulaymaniyah",
+image: "/poi-images/sulaymaniyah-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiges kulturelles Zentrum im irakischen Kurdistan, umgeben von Bergen.",
       hu: "Fontos kulturális központ az iraki Kurdisztánban, amelyet hegyek vesznek körül.",
@@ -156,7 +166,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-KI",
     coords: [44.3833, 35.4667],
-    name: { de: "Kirkuk", hu: "Kirkuk", ro: "Kirkuk", en: "Kirkuk" },
+    name: { de: "Kirkuk", hu: "Kirkuk", ro: "Kirkuk", en: "Kirkuk",
+image: "/poi-images/kirkuk-cities-v2.webp"
+},
     description: {
       de: "Eine multikulturelle Stadt im Nordirak, berühmt für ihre großen Erdölvorkommen.",
       hu: "Multikulturális város Észak-Irakban, amely hatalmas kőolajkészleteiről híres.",
@@ -186,7 +198,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-NA",
     coords: [44.349, 32.029],
-    name: { de: "Nadschaf", hu: "Nedzsef", ro: "Najaf", en: "Najaf" },
+    name: { de: "Nadschaf", hu: "Nedzsef", ro: "Najaf", en: "Najaf",
+image: "/poi-images/najaf-cities-v2.webp"
+},
     description: {
       de: "Eine heilige Stadt des schiitischen Islam im Zentrum des Irak.",
       hu: "A síita iszlám szent városa Közép-Irakban.",
@@ -216,7 +230,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-KA",
     coords: [44.025, 32.616],
-    name: { de: "Kerbela", hu: "Kerbela", ro: "Karbala", en: "Karbala" },
+    name: { de: "Kerbela", hu: "Kerbela", ro: "Karbala", en: "Karbala",
+image: "/poi-images/karbala-cities-v2.webp"
+},
     description: {
       de: "Einer der heiligsten Orte für Schiiten, bekannt für die Schlacht von Kerbela.",
       hu: "A síiták egyik legszentebb helye, amely a kerbelai csatáról ismert.",
@@ -246,7 +262,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-DQ",
     coords: [46.257, 31.058],
-    name: { de: "Nasiriyya", hu: "Nászirijja", ro: "Nasiriyah", en: "Nasiriyah" },
+    name: { de: "Nasiriyya", hu: "Nászirijja", ro: "Nasiriyah", en: "Nasiriyah",
+image: "/poi-images/nasiriyah-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Euphrat im Südirak, nahe der antiken sumerischen Stadt Ur.",
       hu: "Város az Eufrátesz partján Dél-Irakban, az ókori sumér Úr városának közelében.",
@@ -276,7 +294,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-MA",
     coords: [47.143, 31.841],
-    name: { de: "Amara", hu: "Amára", ro: "Amarah", en: "Amarah" },
+    name: { de: "Amara", hu: "Amára", ro: "Amarah", en: "Amarah",
+image: "/poi-images/amarah-cities-v2.webp"
+},
     description: {
       de: "Eine am Tigris gelegene Stadt im Südosten des Irak.",
       hu: "A Tigris folyó partján fekvő város Délkelet-Irakban.",
@@ -306,7 +326,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-QA",
     coords: [44.933, 31.983],
-    name: { de: "Diwaniyya", hu: "Dívánijja", ro: "Al Diwaniyah", en: "Al Diwaniyah" },
+    name: { de: "Diwaniyya", hu: "Dívánijja", ro: "Al Diwaniyah", en: "Al Diwaniyah",
+image: "/poi-images/al-diwaniyah-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Agrarstadt am Fluss Euphrat im Zentralirak.",
       hu: "Fontos mezőgazdasági város az Eufrátesz partján Közép-Irakban.",
@@ -336,7 +358,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-WA",
     coords: [45.824, 32.505],
-    name: { de: "Kut", hu: "Kút", ro: "Kut", en: "Kut" },
+    name: { de: "Kut", hu: "Kút", ro: "Kut", en: "Kut",
+image: "/poi-images/kut-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am linken Ufer des Tigris, bekannt für ihre strategische Bedeutung.",
       hu: "A Tigris folyó bal partján fekvő város, amely stratégiai jelentőségéről ismert.",
@@ -366,7 +390,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-BB",
     coords: [44.434, 32.478],
-    name: { de: "Hilla", hu: "Hilla", ro: "Hillah", en: "Hillah" },
+    name: { de: "Hilla", hu: "Hilla", ro: "Hillah", en: "Hillah",
+image: "/poi-images/hillah-cities-v2.webp"
+},
     description: {
       de: "Eine moderne Stadt am Euphrat, gelegen neben den Ruinen des antiken Babylon.",
       hu: "Modern város az Eufrátesz mentén, az ókori Babilon romjainak szomszédságában.",
@@ -396,7 +422,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-AN",
     coords: [43.308, 33.425],
-    name: { de: "Ramadi", hu: "Ramádi", ro: "Ramadi", en: "Ramadi" },
+    name: { de: "Ramadi", hu: "Ramádi", ro: "Ramadi", en: "Ramadi",
+image: "/poi-images/ramadi-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Gouvernements Al-Anbar, am Euphrat gelegen.",
       hu: "El-Anbár kormányzóság fővárosa, amely az Eufrátesz partján található.",
@@ -426,7 +454,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-AN",
     coords: [43.78, 33.348],
-    name: { de: "Falludscha", hu: "Fallúdzsa", ro: "Fallujah", en: "Fallujah" },
+    name: { de: "Falludscha", hu: "Fallúdzsa", ro: "Fallujah", en: "Fallujah",
+image: "/poi-images/fallujah-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Euphrat in der Provinz Al-Anbar, bekannt als Stadt der Moscheen.",
       hu: "Város az Eufrátesz mentén El-Anbár tartományban, a mecsetek városaként is ismert.",
@@ -456,7 +486,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-DI",
     coords: [44.641, 33.748],
-    name: { de: "Baquba", hu: "Bákúba", ro: "Baqubah", en: "Baqubah" },
+    name: { de: "Baquba", hu: "Bákúba", ro: "Baqubah", en: "Baqubah",
+image: "/poi-images/baqubah-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Provinz Diyala, berühmt für ihre großen Orangenhaine.",
       hu: "Dijala tartomány fővárosa, amely hatalmas narancsligeteiről híres.",
@@ -486,7 +518,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-SA",
     coords: [43.683, 34.6],
-    name: { de: "Tikrit", hu: "Tikrit", ro: "Tikrit", en: "Tikrit" },
+    name: { de: "Tikrit", hu: "Tikrit", ro: "Tikrit", en: "Tikrit",
+image: "/poi-images/tikrit-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Tigris, bekannt als Geburtsort von Saladin.",
       hu: "Város a Tigris partján, amely Szaladin egyiptomi szultán szülőhelyeként ismert.",
@@ -516,7 +550,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-SA",
     coords: [43.896, 34.198],
-    name: { de: "Samarra", hu: "Szamarra", ro: "Samarra", en: "Samarra" },
+    name: { de: "Samarra", hu: "Szamarra", ro: "Samarra", en: "Samarra",
+image: "/poi-images/samarra-cities-v2.webp"
+},
     description: {
       de: "Eine antike Stadt am Tigris, berühmt für ihre spiralige Große Moschee.",
       hu: "Ókori város a Tigris partján, amely spirális Nagymecsetéről híres.",
@@ -546,7 +582,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-MU",
     coords: [45.286, 31.313],
-    name: { de: "Samawa", hu: "Szamáva", ro: "Samawah", en: "Samawah" },
+    name: { de: "Samawa", hu: "Szamáva", ro: "Samawah", en: "Samawah",
+image: "/poi-images/samawah-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Euphrat, auf halbem Weg zwischen Bagdad und Basra gelegen.",
       hu: "Város az Eufrátesz mentén, Bagdad és Bászra között félúton.",
@@ -576,7 +614,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-DA",
     coords: [42.99, 36.866],
-    name: { de: "Duhok", hu: "Duhok", ro: "Duhok", en: "Duhok" },
+    name: { de: "Duhok", hu: "Duhok", ro: "Duhok", en: "Duhok",
+image: "/poi-images/duhok-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Stadt im Norden der Autonomen Region Kurdistan.",
       hu: "Festői város az Iraki Kurdisztán északi részén.",
@@ -606,7 +646,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-DA",
     coords: [42.68, 37.14],
-    name: { de: "Zaxo", hu: "Záhó", ro: "Zakho", en: "Zakho" },
+    name: { de: "Zaxo", hu: "Záhó", ro: "Zakho", en: "Zakho",
+image: "/poi-images/zakho-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt nahe der türkischen Grenze, bekannt für die alte Delal-Brücke.",
       hu: "A török határ közelében fekvő város, amely a régi Delal hídról ismert.",
@@ -636,7 +678,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-NI",
     coords: [42.455, 36.376],
-    name: { de: "Tal Afar", hu: "Tel-Áfár", ro: "Tal Afar", en: "Tal Afar" },
+    name: { de: "Tal Afar", hu: "Tel-Áfár", ro: "Tal Afar", en: "Tal Afar",
+image: "/poi-images/tal-afar-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Ninive, dominiert von einer historischen osmanischen Festung.",
       hu: "Ninive tartomány egyik városa, amelyet egy történelmi oszmán erőd ural.",
@@ -666,7 +710,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IQ-HA",
     coords: [45.987, 35.177],
-    name: { de: "Halabdscha", hu: "Halabdzsa", ro: "Halabja", en: "Halabja" },
+    name: { de: "Halabdscha", hu: "Halabdzsa", ro: "Halabja", en: "Halabja",
+image: "/poi-images/halabja-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Kurdistan, nahe der Grenze zum Iran.",
       hu: "Város Kurdisztánban, az iráni határ közelében.",
@@ -696,7 +742,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-NA",
     coords: [44.4, 32.03],
-    name: { de: "Kufa", hu: "Kúfa", ro: "Kufa", en: "Kufa" },
+    name: { de: "Kufa", hu: "Kúfa", ro: "Kufa", en: "Kufa",
+image: "/poi-images/kufa-cities-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Stadt am Euphrat, nahe Nadschaf.",
       hu: "Történelmileg jelentős város az Eufrátesz partján, Nedzsef közelében.",
@@ -726,7 +774,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-BB",
     coords: [44.288, 32.784],
-    name: { de: "Musayyib", hu: "Muszajjib", ro: "Al Musayyib", en: "Al Musayyib" },
+    name: { de: "Musayyib", hu: "Muszajjib", ro: "Al Musayyib", en: "Al Musayyib",
+image: "/poi-images/al-musayyib-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Euphrat in der Provinz Babil, wichtig für die Landwirtschaft.",
       hu: "Város az Eufrátesz mentén Bábil tartományban, a mezőgazdaság szempontjából jelentős.",
@@ -756,7 +806,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-SA",
     coords: [43.488, 34.931],
-    name: { de: "Baidschi", hu: "Baidzsi", ro: "Baiji", en: "Baiji" },
+    name: { de: "Baidschi", hu: "Baidzsi", ro: "Baiji", en: "Baiji",
+image: "/poi-images/baiji-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt in der Provinz Salah ad-Din, bekannt für ihre großen Ölraffinerien.",
       hu: "Ipari város Szalah ad-Dín tartományban, amely hatalmas olajfinomítóiról ismert.",
@@ -786,7 +838,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-BB",
     coords: [44.664, 32.298],
-    name: { de: "Al Qasim", hu: "Al-Kászim", ro: "Al Qasim", en: "Al Qasim" },
+    name: { de: "Al Qasim", hu: "Al-Kászim", ro: "Al Qasim", en: "Al Qasim",
+image: "/poi-images/al-qasim-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Babil, die ein beliebtes lokales Pilgerziel ist.",
       hu: "Város Bábil tartományban, amely népszerű helyi zarándokcélpont.",
@@ -816,7 +870,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-BG",
     coords: [44.183, 33.3],
-    name: { de: "Abu Ghuraib", hu: "Abu Graib", ro: "Abu Ghraib", en: "Abu Ghraib" },
+    name: { de: "Abu Ghuraib", hu: "Abu Graib", ro: "Abu Ghraib", en: "Abu Ghraib",
+image: "/poi-images/abu-ghraib-cities-v2.webp"
+},
     description: {
       de: "Eine Vorstadt westlich von Bagdad, gelegen im Gouvernement Bagdad.",
       hu: "Bagdadtól nyugatra fekvő külváros, Bagdad kormányzóságban.",
@@ -846,7 +902,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-AN",
     coords: [42.823, 33.64],
-    name: { de: "Hit", hu: "Hít", ro: "Hit", en: "Hit" },
+    name: { de: "Hit", hu: "Hít", ro: "Hit", en: "Hit",
+image: "/poi-images/hit-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Euphrat, die seit der Antike für ihre natürlichen Bitumenquellen bekannt ist.",
       hu: "Város az Eufrátesz mentén, amely az ókor óta ismert természetes bitumenforrásairól.",
@@ -876,7 +934,9 @@ export const poiExtraIraqCitiesV2: POI[] = [
     type: "city",
     parent: "IQ-AR",
     coords: [44.526, 36.611],
-    name: { de: "Rawanduz", hu: "Ravandúz", ro: "Rawandiz", en: "Rawandiz" },
+    name: { de: "Rawanduz", hu: "Ravandúz", ro: "Rawandiz", en: "Rawandiz",
+image: "/poi-images/rawandiz-cities-v2.webp"
+},
     description: {
       de: "Eine Bergstadt in Kurdistan, spektakulär an einer tiefen Schlucht gelegen.",
       hu: "Hegyvidéki város Kurdisztánban, amely látványosan egy mély szurdok peremén fekszik.",

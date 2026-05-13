@@ -7,7 +7,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ER-MA",
     coords: [38.9333, 15.3333],
-    name: { de: "Asmara", hu: "Aszmara", ro: "Asmara", en: "Asmara" },
+    name: { de: "Asmara", hu: "Aszmara", ro: "Asmara", en: "Asmara",
+image: "/poi-images/asmara-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Eritrea liegt auf einer Höhe von über 2300 Metern und ist für ihre gut erhaltene modernistische Architektur bekannt.",
       hu: "Eritrea fővárosa több mint 2300 méteres tengerszint feletti magasságban fekszik, és kiválóan megőrzött modernista építészetéről híres.",
@@ -37,7 +39,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.4746, 15.6097],
-    name: { de: "Massaua", hu: "Massawa", ro: "Massawa", en: "Massawa" },
+    name: { de: "Massaua", hu: "Massawa", ro: "Massawa", en: "Massawa",
+image: "/poi-images/massawa-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Hafenstadt am Roten Meer, die für ihre historische osmanische Architektur und als Handelszentrum von Bedeutung ist.",
       hu: "Fontos kikötőváros a Vörös-tenger partján, amely történelmi oszmán építészetéről és kereskedelmi központként ismert.",
@@ -67,7 +71,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [38.4522, 15.7778],
-    name: { de: "Keren", hu: "Keren", ro: "Keren", en: "Keren" },
+    name: { de: "Keren", hu: "Keren", ro: "Keren", en: "Keren",
+image: "/poi-images/keren-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt Eritreas ist ein wichtiges landwirtschaftliches Zentrum und liegt in einem breiten Tal, umgeben von Granitbergen.",
       hu: "Eritrea második legnagyobb városa egy fontos mezőgazdasági központ, amely egy széles völgyben fekszik, gránithegyekkel körülvéve.",
@@ -92,7 +98,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DK",
     coords: [42.7394, 13.0092],
-    name: { de: "Assab", hu: "Assab", ro: "Assab", en: "Assab" },
+    name: { de: "Assab", hu: "Assab", ro: "Assab", en: "Assab",
+image: "/poi-images/assab-cities-v2.webp"
+},
     description: {
       de: "Diese strategisch günstig gelegene Hafenstadt an der Küste des Roten Meeres spielte historisch eine Schlüsselrolle im Seehandel.",
       hu: "Ez a stratégiailag fontos elhelyezkedésű vörös-tengeri kikötőváros történelmileg kulcsszerepet játszott a tengeri kereskedelemben.",
@@ -118,7 +126,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.8153, 14.8856],
-    name: { de: "Mendefera", hu: "Mendefera", ro: "Mendefera", en: "Mendefera" },
+    name: { de: "Mendefera", hu: "Mendefera", ro: "Mendefera", en: "Mendefera",
+image: "/poi-images/mendefera-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Debub-Region zeichnet sich durch historische Stätten und eine florierende Landwirtschaft in der Umgebung aus.",
       hu: "A Debub régió fővárosa történelmi helyszínekkel és a környező virágzó mezőgazdasággal tűnik ki.",
@@ -143,7 +153,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.5928, 15.1136],
-    name: { de: "Barentu", hu: "Barentu", ro: "Barentu", en: "Barentu" },
+    name: { de: "Barentu", hu: "Barentu", ro: "Barentu", en: "Barentu",
+image: "/poi-images/barentu-cities-v2.webp"
+},
     description: {
       de: "Als Hauptstadt der Gash-Barka-Region ist Barentu ein Schmelztiegel verschiedener ethnischer Gruppen, insbesondere der Kunama.",
       hu: "A Gash-Barka régió fővárosaként Barentu különböző etnikai csoportok, különösen a kunama nép olvasztótégelye.",
@@ -168,7 +180,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.3761, 14.8394],
-    name: { de: "Adi Keih", hu: "Adi Keyh", ro: "Adi Keyh", en: "Adi Keyh" },
+    name: { de: "Adi Keih", hu: "Adi Keyh", ro: "Adi Keyh", en: "Adi Keyh",
+image: "/poi-images/adi-keyh-cities-v2.webp"
+},
     description: {
       de: "Eine Bergstadt in der südlichen Region, in deren Nähe bedeutende archäologische Ruinen aus alten Zivilisationen liegen.",
       hu: "Egy hegyvidéki város a déli régióban, amelynek közelében ősi civilizációk jelentős régészeti romjai találhatók.",
@@ -193,7 +207,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DK",
     coords: [41.6936, 13.9317],
-    name: { de: "Edd", hu: "Edd", ro: "Edd", en: "Edd" },
+    name: { de: "Edd", hu: "Edd", ro: "Edd", en: "Edd",
+image: "/poi-images/edd-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Küstensiedlung am Roten Meer, die für ihre traditionellen Fischerboote und das trockene Klima bekannt ist.",
       hu: "Egy kis tengerparti település a Vörös-tenger mentén, amely hagyományos halászhajóiról és száraz éghajlatáról ismert.",
@@ -221,7 +237,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.0436, 15.0717],
-    name: { de: "Dekemhare", hu: "Dekemhare", ro: "Dekemhare", en: "Dekemhare" },
+    name: { de: "Dekemhare", hu: "Dekemhare", ro: "Dekemhare", en: "Dekemhare",
+image: "/poi-images/dekemhare-cities-v2.webp"
+},
     description: {
       de: "Die Stadt liegt im zentralen Hochland und war während der italienischen Kolonialzeit ein wichtiges landwirtschaftliches und industrielles Zentrum.",
       hu: "A város a központi fennsíkon fekszik, és az olasz gyarmati időszakban fontos mezőgazdasági és ipari központ volt.",
@@ -248,7 +266,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.8867, 15.5486],
-    name: { de: "Agordat", hu: "Akordat", ro: "Akordat", en: "Akordat" },
+    name: { de: "Agordat", hu: "Akordat", ro: "Akordat", en: "Akordat",
+image: "/poi-images/akordat-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt am Fluss Barka, die als Knotenpunkt für Handelsrouten im westlichen Tiefland von Eritrea dient.",
       hu: "Történelmi város a Barka folyó mentén, amely a nyugati síkság kereskedelmi útvonalainak csomópontjaként szolgál.",
@@ -275,7 +295,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [38.4756, 16.6653],
-    name: { de: "Nakfa", hu: "Nakfa", ro: "Nakfa", en: "Nakfa" },
+    name: { de: "Nakfa", hu: "Nakfa", ro: "Nakfa", en: "Nakfa",
+image: "/poi-images/nakfa-cities-v2.webp"
+},
     description: {
       de: "Diese im nördlichen Gebirge gelegene Stadt hat durch ihren Widerstand im Unabhängigkeitskrieg hohe symbolische Bedeutung.",
       hu: "Az északi hegyekben fekvő város nagy szimbolikus jelentőséggel bír a függetlenségi háborúban tanúsított ellenállása miatt.",
@@ -300,7 +322,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [36.6583, 15.1100],
-    name: { de: "Tessenei", hu: "Tessenei", ro: "Tessenei", en: "Tessenei" },
+    name: { de: "Tessenei", hu: "Tessenei", ro: "Tessenei", en: "Tessenei",
+image: "/poi-images/tessenei-cities-v2.webp"
+},
     description: {
       de: "Eine Grenzstadt im Westen nahe dem Sudan, die als wichtiges Zentrum für den grenzüberschreitenden Handel und landwirtschaftliche Exporte fungiert.",
       hu: "A szudáni határ közelében fekvő nyugati város, amely a határon átnyúló kereskedelem és a mezőgazdasági export fontos központja.",
@@ -319,7 +343,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [38.6872, 16.1956],
-    name: { de: "Afabet", hu: "Afabet", ro: "Afabet", en: "Afabet" },
+    name: { de: "Afabet", hu: "Afabet", ro: "Afabet", en: "Afabet",
+image: "/poi-images/afabet-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im nördlichen Tiefland, die als Schauplatz einer der entscheidendsten Schlachten im eritreischen Unabhängigkeitskrieg berühmt wurde.",
       hu: "Egy város az északi síkságon, amely az eritreai függetlenségi háború egyik legdöntőbb csatájának helyszíneként vált híressé.",
@@ -337,7 +363,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.4217, 14.7000],
-    name: { de: "Senafe", hu: "Senafe", ro: "Senafe", en: "Senafe" },
+    name: { de: "Senafe", hu: "Senafe", ro: "Senafe", en: "Senafe",
+image: "/poi-images/senafe-cities-v2.webp"
+},
     description: {
       de: "Eine hochgelegene Marktstadt im Süden nahe der äthiopischen Grenze, dominiert von markanten Felsformationen in der Umgebung.",
       hu: "Egy magasan fekvő délvidéki mezőváros az etióp határ közelében, amelyet a környék jellegzetes sziklaképződményei uralnak.",
@@ -355,7 +383,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.1883, 15.0531],
-    name: { de: "Segeneiti", hu: "Segeneiti", ro: "Segeneiti", en: "Segeneiti" },
+    name: { de: "Segeneiti", hu: "Segeneiti", ro: "Segeneiti", en: "Segeneiti",
+image: "/poi-images/segeneiti-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Stadt, die für ihre riesigen, jahrhundertealten Sykomoren-Feigenbäume bekannt ist, die in der lokalen Kultur geschätzt werden.",
       hu: "Egy kisváros, amely hatalmas, évszázados szikomor fügefáiról ismert, amelyeket a helyi kultúrában nagyra becsülnek.",
@@ -373,7 +403,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.0989, 15.4411],
-    name: { de: "Ghinda", hu: "Ghinda", ro: "Ghinda", en: "Ghinda" },
+    name: { de: "Ghinda", hu: "Ghinda", ro: "Ghinda", en: "Ghinda",
+image: "/poi-images/ghinda-cities-v2.webp"
+},
     description: {
       de: "Die Stadt liegt an der Hauptstraße zwischen Asmara und Massaua und ist ein Zentrum für Obstanbau dank regelmäßiger Niederschläge.",
       hu: "A város az Aszmara és Massawa közötti főút mentén található, és a rendszeres csapadéknak köszönhetően a gyümölcstermesztés központja.",
@@ -391,7 +423,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-MA",
     coords: [38.8000, 15.2500],
-    name: { de: "Himbirti", hu: "Himbirti", ro: "Himbirti", en: "Himbirti" },
+    name: { de: "Himbirti", hu: "Himbirti", ro: "Himbirti", en: "Himbirti",
+image: "/poi-images/himbirti-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftlich geprägtes Dorf in der Zentralregion, das von traditionellem Ackerbau und Viehzucht in den Hochebenen lebt.",
       hu: "Egy mezőgazdasági jellegű falu a központi régióban, amely a fennsíkok hagyományos mezőgazdaságából és állattenyésztéséből él.",
@@ -410,7 +444,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.0583, 15.3322],
-    name: { de: "Nefasit", hu: "Nefasit", ro: "Nefasit", en: "Nefasit" },
+    name: { de: "Nefasit", hu: "Nefasit", ro: "Nefasit", en: "Nefasit",
+image: "/poi-images/nefasit-cities-v2.webp"
+},
     description: {
       de: "Die malerische Stadt an den Osthängen des Hochlands ist bekannt für das nahegelegene Debre Bizen-Kloster, das auf einem Berg thront.",
       hu: "A felvidék keleti lejtőin fekvő festői város a közeli Debre Bizen kolostorról ismert, amely egy hegyen magasodik.",
@@ -428,7 +464,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DK",
     coords: [40.9589, 14.6869],
-    name: { de: "Tio", hu: "Tio", ro: "Tio", en: "Tio" },
+    name: { de: "Tio", hu: "Tio", ro: "Tio", en: "Tio",
+image: "/poi-images/tio-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Hafenstadt entlang der abgelegenen Wüstenküste der südlichen Roten Meer-Region, in der die traditionelle Kultur der Afar gepflegt wird.",
       hu: "Egy kis kikötőváros a déli Vörös-tenger régió távoli sivatagi partvidékén, ahol az afarok hagyományos kultúráját ápolják.",
@@ -446,7 +484,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.6739, 15.2458],
-    name: { de: "Zula", hu: "Zula", ro: "Zula", en: "Zula" },
+    name: { de: "Zula", hu: "Zula", ro: "Zula", en: "Zula",
+image: "/poi-images/zula-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt am Golf von Zula, nahe der antiken Hafenstadt Adulis, die seit Jahrtausenden den Zugang zum Meer kontrolliert.",
       hu: "Történelmi város a Zula-öbölben, az ősi Adulis kikötőváros közelében, amely évezredek óta ellenőrzi a tengerhez való hozzáférést.",
@@ -464,7 +504,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.7656, 14.6364],
-    name: { de: "Adi Quala", hu: "Adi Quala", ro: "Adi Quala", en: "Adi Quala" },
+    name: { de: "Adi Quala", hu: "Adi Quala", ro: "Adi Quala", en: "Adi Quala",
+image: "/poi-images/adi-quala-cities-v2.webp"
+},
     description: {
       de: "Eine lebendige Stadt nahe der Grenze, die für ihren Markt und einen markanten Aussichtspunkt über das Flusstal des Mareb bekannt ist.",
       hu: "Élénk határközeli város, amely piacáról és a Mareb folyó völgyére néző kilátópontjáról ismert.",
@@ -482,7 +524,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [38.4000, 15.9000],
-    name: { de: "Halhal", hu: "Halhal", ro: "Halhal", en: "Halhal" },
+    name: { de: "Halhal", hu: "Halhal", ro: "Halhal", en: "Halhal",
+image: "/poi-images/halhal-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Ortschaft nördlich von Keren, die in einer gebirgigen Region liegt und hauptsächlich von der Subsistenzlandwirtschaft lebt.",
       hu: "Egy kis település Kerentől északra, amely egy hegyvidéki régióban fekszik, és főként önellátó mezőgazdaságból él.",
@@ -500,7 +544,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [38.3167, 15.6833],
-    name: { de: "Hagaz", hu: "Hagaz", ro: "Hagaz", en: "Hagaz" },
+    name: { de: "Hagaz", hu: "Hagaz", ro: "Hagaz", en: "Hagaz",
+image: "/poi-images/hagaz-cities-v2.webp"
+},
     description: {
       de: "Die Stadt ist ein landwirtschaftliches Zentrum, das für seine Agrarschule und weitreichende Projekte zur Förderung von Obst und Gemüse bekannt ist.",
       hu: "A város mezőgazdasági központ, amely agráriskolájáról és a gyümölcsök és zöldségek termesztését támogató kiterjedt projektekről ismert.",
@@ -518,7 +564,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [38.5667, 15.7167],
-    name: { de: "Elabered", hu: "Elabered", ro: "Elabered", en: "Elabered" },
+    name: { de: "Elabered", hu: "Elabered", ro: "Elabered", en: "Elabered",
+image: "/poi-images/elabered-cities-v2.webp"
+},
     description: {
       de: "Eine Siedlung, die weithin für ihre großen landwirtschaftlichen Plantagen bekannt ist, auf denen Zitrusfrüchte, Tomaten und andere Kulturen angebaut werden.",
       hu: "Egy település, amely széles körben ismert nagy mezőgazdasági ültetvényeiről, ahol citrusféléket, paradicsomot és más növényeket termesztenek.",
@@ -536,7 +584,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DK",
     coords: [42.3486, 13.2625],
-    name: { de: "Beylul", hu: "Beylul", ro: "Beylul", en: "Beylul" },
+    name: { de: "Beylul", hu: "Beylul", ro: "Beylul", en: "Beylul",
+image: "/poi-images/beilul-cities-v2.webp"
+},
     description: {
       de: "Eine sehr heiße Küstenstadt nördlich von Assab, die traditionell als Anlaufpunkt für Fischerboote und Karawanen in die Wüste diente.",
       hu: "Egy nagyon forró tengerparti város Assabtól északra, amely hagyományosan a halászhajók és a sivatagi karavánok kikötőjeként szolgált.",
@@ -555,7 +605,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.3917, 14.9219],
-    name: { de: "Areza", hu: "Areza", ro: "Areza", en: "Areza" },
+    name: { de: "Areza", hu: "Areza", ro: "Areza", en: "Areza",
+image: "/poi-images/areza-cities-v2.webp"
+},
     description: {
       de: "Diese im westlichen Teil der südlichen Region gelegene Stadt ist umgeben von dramatischen Gebirgszügen und fruchtbaren Tälern.",
       hu: "A déli régió nyugati részén fekvő várost drámai hegyvonulatok és termékeny völgyek veszik körül.",
@@ -574,7 +626,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.8375, 15.0514],
-    name: { de: "Debarwa", hu: "Debarwa", ro: "Debarwa", en: "Debarwa" },
+    name: { de: "Debarwa", hu: "Debarwa", ro: "Debarwa", en: "Debarwa",
+image: "/poi-images/debarwa-cities-v2.webp"
+},
     description: {
       de: "Einst die Hauptstadt des antiken Königreichs von Medri Bahri, ist die Stadt heute für reiche Mineralienvorkommen und Goldminen bekannt.",
       hu: "Az egykori Medri Bahri ősi királyság fővárosa ma gazdag ásványkincs-lelőhelyeiről és aranybányáiról ismert.",
@@ -592,7 +646,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.1764, 15.4211],
-    name: { de: "Dongollo", hu: "Dongollo", ro: "Dongollo", en: "Dongollo" },
+    name: { de: "Dongollo", hu: "Dongollo", ro: "Dongollo", en: "Dongollo",
+image: "/poi-images/dongollo-cities-v2.webp"
+},
     description: {
       de: "Dieses Tal nahe der Stadt Massaua ist berühmt für seine natürlichen Mineralquellen, die abgefüllt und landesweit verkauft werden.",
       hu: "Ez a Massawa városa melletti völgy híres természetes ásványvízforrásairól, amelyeket palackoznak és országszerte árusítanak.",
@@ -611,7 +667,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-MA",
     coords: [38.9222, 15.4042],
-    name: { de: "Emba Derho", hu: "Emba Derho", ro: "Emba Derho", en: "Emba Derho" },
+    name: { de: "Emba Derho", hu: "Emba Derho", ro: "Emba Derho", en: "Emba Derho",
+image: "/poi-images/emba-derho-cities-v2.webp"
+},
     description: {
       de: "Eine landwirtschaftliche Gemeinde im zentralen Hochland, die an wichtigen Versorgungsrouten für die Hauptstadt liegt.",
       hu: "Közép-hegyvidéki mezőgazdasági közösség, amely a főváros fontos ellátási útvonalai mentén fekszik.",
@@ -629,7 +687,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [38.9833, 15.7667],
-    name: { de: "Filfil", hu: "Filfil", ro: "Filfil", en: "Filfil" },
+    name: { de: "Filfil", hu: "Filfil", ro: "Filfil", en: "Filfil",
+image: "/poi-images/filfil-cities-v2.webp"
+},
     description: {
       de: "Eingebettet in die grünen Ausläufer des Hochlands, ist diese Ortschaft berühmt für die letzten verbliebenen tropischen Nebelwälder Eritreas.",
       hu: "A felföld zöldellő lankáin megbúvó település Eritrea utolsó megmaradt trópusi köderdeiről híres.",
@@ -647,7 +707,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.3167, 15.5500],
-    name: { de: "Mai Atal", hu: "Mai Atal", ro: "Mai Atal", en: "Mai Atal" },
+    name: { de: "Mai Atal", hu: "Mai Atal", ro: "Mai Atal", en: "Mai Atal",
+image: "/poi-images/mai-atal-cities-v2.webp"
+},
     description: {
       de: "Eine wüstenähnliche Haltestation auf der Route zwischen Ghinda und Massaua, in der Karawanen traditionell Wasser fanden.",
       hu: "Egy sivatagos pihenőhely a Ghinda és Massawa közötti útvonalon, ahol a karavánok hagyományosan vizet találtak.",
@@ -665,7 +727,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.2667, 14.9667],
-    name: { de: "Quatit", hu: "Quatit", ro: "Quatit", en: "Quatit" },
+    name: { de: "Quatit", hu: "Quatit", ro: "Quatit", en: "Quatit",
+image: "/poi-images/quatit-cities-v2.webp"
+},
     description: {
       de: "Eine historische Siedlung in der südlichen Debub-Region, die durch alte Steinkirchen und traditionelle orthodoxe Gemeinden gekennzeichnet ist.",
       hu: "Történelmi település a déli Debub régióban, amelyet ősi kőtemplomok és hagyományos ortodox közösségek jellemeznek.",
@@ -683,7 +747,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-MA",
     coords: [38.8417, 15.3500],
-    name: { de: "Tsazega", hu: "Tsazega", ro: "Tsazega", en: "Tsazega" },
+    name: { de: "Tsazega", hu: "Tsazega", ro: "Tsazega", en: "Tsazega",
+image: "/poi-images/tsazega-cities-v2.webp"
+},
     description: {
       de: "Dieses Dorf im Hochland von Maekel war historisch der Sitz mächtiger Feudalherren, die große Ländereien in der Region kontrollierten.",
       hu: "Ez a Maekel-fennsíkon fekvő falu történelmileg olyan hatalmas hűbérurak székhelye volt, akik nagy területeket birtokoltak a régióban.",
@@ -702,7 +768,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.3333, 15.8000],
-    name: { de: "Wekiro", hu: "Wekiro", ro: "Wekiro", en: "Wekiro" },
+    name: { de: "Wekiro", hu: "Wekiro", ro: "Wekiro", en: "Wekiro",
+image: "/poi-images/wekiro-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Ansiedlung, die als Durchgangsort in Richtung der nördlichen Küstenebenen dient und von nomadischen Hirten frequentiert wird.",
       hu: "Egy kis település, amely átjáróként szolgál az északi part menti síkságok felé, és nomád pásztorok látogatják.",
@@ -721,7 +789,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.8000, 14.8667],
-    name: { de: "Kudo-Felasi", hu: "Kudo-Felasi", ro: "Kudo-Felasi", en: "Kudo-Felasi" },
+    name: { de: "Kudo-Felasi", hu: "Kudo-Felasi", ro: "Kudo-Felasi", en: "Kudo-Felasi",
+image: "/poi-images/kudo-felasi-cities-v2.webp"
+},
     description: {
       de: "In der Debub-Region gelegene Kleinstadt, die für ihre traditionellen Webereien und den Anbau von Getreide geschätzt wird.",
       hu: "A Debub régióban fekvő kisváros, amelyet hagyományos szövőszékei és gabonatermesztése miatt értékelnek.",
@@ -739,7 +809,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.6000, 14.8667],
-    name: { de: "Emni Haili", hu: "Emni Haili", ro: "Emni Haili", en: "Emni Haili" },
+    name: { de: "Emni Haili", hu: "Emni Haili", ro: "Emni Haili", en: "Emni Haili",
+image: "/poi-images/emni-haili-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftlich wichtiges Verwaltungszentrum, das von felsigen Hügeln umgeben ist und als Getreidespeicher der Region gilt.",
       hu: "Mezőgazdasági szempontból fontos közigazgatási központ, amelyet sziklás dombok vesznek körül, és a régió magtárának tartják.",
@@ -758,7 +830,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.5000, 14.8333],
-    name: { de: "Mai Dima", hu: "Mai Dima", ro: "Mai Dima", en: "Mai Dima" },
+    name: { de: "Mai Dima", hu: "Mai Dima", ro: "Mai Dima", en: "Mai Dima",
+image: "/poi-images/mai-dima-cities-v2.webp"
+},
     description: {
       de: "Eine isolierte, aber strategisch gelegene Siedlung, die während historischer Konflikte oft als Verteidigungsstellung diente.",
       hu: "Elszigetelt, de stratégiai elhelyezkedésű település, amely a történelmi konfliktusok során gyakran szolgált védelmi állásként.",
@@ -776,7 +850,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [38.8167, 14.9333],
-    name: { de: "Tera-Emni", hu: "Tera-Emni", ro: "Tera-Emni", en: "Tera-Emni" },
+    name: { de: "Tera-Emni", hu: "Tera-Emni", ro: "Tera-Emni", en: "Tera-Emni",
+image: "/poi-images/tera-emni-cities-v2.webp"
+},
     description: {
       de: "Ein prosperierendes landwirtschaftliches Dorf in der Nähe von Mendefera, das von lokalen Wasserreservoirs profitiert.",
       hu: "Virágzó mezőgazdasági falu Mendefera közelében, amely a helyi víztározókból profitál.",
@@ -795,7 +871,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.2000, 14.6167],
-    name: { de: "Tserona", hu: "Tserona", ro: "Tserona", en: "Tserona" },
+    name: { de: "Tserona", hu: "Tserona", ro: "Tserona", en: "Tserona",
+image: "/poi-images/tserona-cities-v2.webp"
+},
     description: {
       de: "Eine grenznahe Stadt, die im Grenzkonflikt von 1998 schwer in Mitleidenschaft gezogen wurde und heute schrittweise wiederbelebt wird.",
       hu: "Határmenti város, amelyet az 1998-as határkonfliktus súlyosan érintett, és ma fokozatosan újjáéled.",
@@ -814,7 +892,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-DU",
     coords: [39.3500, 14.9500],
-    name: { de: "Halai", hu: "Halai", ro: "Halai", en: "Halai" },
+    name: { de: "Halai", hu: "Halai", ro: "Halai", en: "Halai",
+image: "/poi-images/halai-cities-v2.webp"
+},
     description: {
       de: "Auf einem markanten Hochplateau gelegen, diente dieser Ort als Beobachtungsposten und hat ein deutlich kühleres Mikroklima.",
       hu: "Egy jellegzetes magas fennsíkon fekvő település megfigyelőállomásként szolgált, és jelentősen hűvösebb mikroklímával rendelkezik.",
@@ -832,7 +912,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [36.5333, 15.2667],
-    name: { de: "Sebderat", hu: "Sebderat", ro: "Sebderat", en: "Sebderat" },
+    name: { de: "Sebderat", hu: "Sebderat", ro: "Sebderat", en: "Sebderat",
+image: "/poi-images/sebderat-cities-v2.webp"
+},
     description: {
       de: "Das Dorf an der sudanesischen Grenze verzeichnet starke kulturelle Einflüsse aus beiden Ländern und profitiert vom Grenzhandel.",
       hu: "A szudáni határ menti falu erős kulturális hatásokat mutat mindkét országból, és profitál a határkereskedelemből.",
@@ -850,7 +932,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.7667, 14.8500],
-    name: { de: "Shambuko", hu: "Shambuko", ro: "Shambuko", en: "Shambuko" },
+    name: { de: "Shambuko", hu: "Shambuko", ro: "Shambuko", en: "Shambuko",
+image: "/poi-images/shambuko-cities-v2.webp"
+},
     description: {
       de: "In dieser westlichen Ebene dominiert der Hirseanbau, und die Stadt dient als Knotenpunkt für die landwirtschaftliche Produktion der Kunama-Region.",
       hu: "Ezen a nyugati síkságon a köles termesztése dominál, és a város a kunama régió mezőgazdasági termelésének csomópontja.",
@@ -869,7 +953,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.6000, 14.8000],
-    name: { de: "Tokombia", hu: "Tokombia", ro: "Tokombia", en: "Tokombia" },
+    name: { de: "Tokombia", hu: "Tokombia", ro: "Tokombia", en: "Tokombia",
+image: "/poi-images/tokombia-cities-v2.webp"
+},
     description: {
       de: "Die Stadt am Ufer des Gash-Flusses ist von üppigen landwirtschaftlichen Flächen umgeben, die stark vom saisonalen Hochwasser abhängen.",
       hu: "A Gash folyó partján fekvő várost buja mezőgazdasági területek veszik körül, amelyek erősen függnek a szezonális árvizektől.",
@@ -888,7 +974,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [36.5667, 14.2000],
-    name: { de: "Omhajer", hu: "Omhajer", ro: "Omhajer", en: "Omhajer" },
+    name: { de: "Omhajer", hu: "Omhajer", ro: "Omhajer", en: "Omhajer",
+image: "/poi-images/omhajer-cities-v2.webp"
+},
     description: {
       de: "Am westlichsten Punkt Eritreas am Setit-Fluss gelegen, ist diese Stadt eine strategisch wichtige Brücke zu Sudan und Äthiopien.",
       hu: "Eritrea legnyugatibb pontján, a Setit folyó mentén található város egy stratégiailag fontos híd Szudán és Etiópia felé.",
@@ -907,7 +995,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [36.8833, 14.7167],
-    name: { de: "Goluj", hu: "Goluj", ro: "Goluj", en: "Goluj" },
+    name: { de: "Goluj", hu: "Goluj", ro: "Goluj", en: "Goluj",
+image: "/poi-images/goluj-cities-v2.webp"
+},
     description: {
       de: "Ein agrarisches Zentrum im weiten Tiefland von Gash-Barka, das für großflächigen Sorghum- und Sesam-Anbau gerühmt wird.",
       hu: "Agrárközpont a Gash-Barka tágas síkságán, amelyet a nagyléptékű cirok- és szezámmag-termesztés tesz híressé.",
@@ -926,7 +1016,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [36.5500, 15.1167],
-    name: { de: "Ali Ghider", hu: "Ali Ghider", ro: "Ali Ghider", en: "Ali Ghider" },
+    name: { de: "Ali Ghider", hu: "Ali Ghider", ro: "Ali Ghider", en: "Ali Ghider",
+image: "/poi-images/ali-ghider-cities-v2.webp"
+},
     description: {
       de: "Bekannt durch das gleichnamige Landwirtschaftsprojekt, das von italienischen Investoren gegründet wurde und Baumwolle in großen Mengen produzierte.",
       hu: "A nevét viselő mezőgazdasági projektről ismert, amelyet olasz befektetők alapítottak, és amely nagy mennyiségben termelt gyapotot.",
@@ -944,7 +1036,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [37.4000, 16.3167],
-    name: { de: "Kerkebet", hu: "Kerkebet", ro: "Kerkebet", en: "Kerkebet" },
+    name: { de: "Kerkebet", hu: "Kerkebet", ro: "Kerkebet", en: "Kerkebet",
+image: "/poi-images/kerkebet-cities-v2.webp"
+},
     description: {
       de: "Eine von pastoralen Gemeinschaften geprägte Stadt am Barka-Fluss, nahe einem der größten modernen Staudämme des Landes.",
       hu: "Pásztorközösségek által lakott város a Barka folyó mentén, az ország egyik legnagyobb modern gátjának közelében.",
@@ -963,7 +1057,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.1000, 15.8667],
-    name: { de: "She'eb", hu: "She'eb", ro: "She'eb", en: "She'eb" },
+    name: { de: "She'eb", hu: "She'eb", ro: "She'eb", en: "She'eb",
+image: "/poi-images/sheeb-cities-v2.webp"
+},
     description: {
       de: "In der heißen Küstenebene gelegen, praktizieren die Einwohner hier eine einzigartige Form der Sturzflut-Bewässerung, um Felder zu bewirtschaften.",
       hu: "A forró part menti síkságon található, lakói az áradásos öntözés egyedülálló formáját alkalmazzák a földek művelésére.",
@@ -981,7 +1077,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.6167, 15.2667],
-    name: { de: "Foro", hu: "Foro", ro: "Foro", en: "Foro" },
+    name: { de: "Foro", hu: "Foro", ro: "Foro", en: "Foro",
+image: "/poi-images/foro-cities-v2.webp"
+},
     description: {
       de: "Das Tor zur archäologischen Stätte von Adulis und den vulkanischen Landschaften der Zula-Bucht am Roten Meer.",
       hu: "Adulis régészeti lelőhelyének és a Vörös-tenger melletti Zula-öböl vulkanikus tájainak kapuja.",
@@ -999,7 +1097,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-SK",
     coords: [39.7500, 15.0667],
-    name: { de: "Irafale", hu: "Irafale", ro: "Irafale", en: "Irafale" },
+    name: { de: "Irafale", hu: "Irafale", ro: "Irafale", en: "Irafale",
+image: "/poi-images/irafale-cities-v2.webp"
+},
     description: {
       de: "Eine isolierte Küstensiedlung an der Buri-Halbinsel, in deren Nähe heiße vulkanische Quellen entspringen.",
       hu: "Elszigetelt tengerparti település a Buri-félszigeten, amelynek közelében forró vulkanikus források fakadnak.",
@@ -1018,7 +1118,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-MA",
     coords: [38.9000, 15.4667],
-    name: { de: "Serejaka", hu: "Serejaka", ro: "Serejaka", en: "Serejaka" },
+    name: { de: "Serejaka", hu: "Serejaka", ro: "Serejaka", en: "Serejaka",
+image: "/poi-images/serejaka-cities-v2.webp"
+},
     description: {
       de: "Dieses Dorf nördlich von Asmara bietet weite Ausblicke auf das zentrale Hochland und stützt sich auf traditionellen Ackerbau.",
       hu: "Ez az Aszmarától északra fekvő falu széles kilátást nyújt a központi fennsíkra, és hagyományos földművelésre támaszkodik.",
@@ -1037,7 +1139,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-MA",
     coords: [38.9167, 15.2167],
-    name: { de: "Shiketi", hu: "Shiketi", ro: "Shiketi", en: "Shiketi" },
+    name: { de: "Shiketi", hu: "Shiketi", ro: "Shiketi", en: "Shiketi",
+image: "/poi-images/shiketi-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiger Wohnort am Rand der Hauptstadtregion, in dem die Lebensweise stark durch alte dörfliche Traditionen geprägt ist.",
       hu: "Csendes lakóhely a fővárosi régió peremén, ahol az életmódot erősen meghatározzák a régi falusi hagyományok.",
@@ -1056,7 +1160,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.5333, 15.4833],
-    name: { de: "Bisha", hu: "Bisha", ro: "Bisha", en: "Bisha" },
+    name: { de: "Bisha", hu: "Bisha", ro: "Bisha", en: "Bisha",
+image: "/poi-images/bisha-cities-v2.webp"
+},
     description: {
       de: "Eine neu entwickelte Bergbausiedlung im westlichen Tiefland, die sich um eine der profitabelsten Gold- und Kupferminen des Landes gebildet hat.",
       hu: "Újonnan épült bányásztelepülés a nyugati síkságon, amely az ország egyik legjövedelmezőbb arany- és rézbányája körül alakult ki.",
@@ -1074,7 +1180,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [38.0000, 15.1167],
-    name: { de: "Mensura", hu: "Mensura", ro: "Mensura", en: "Mensura" },
+    name: { de: "Mensura", hu: "Mensura", ro: "Mensura", en: "Mensura",
+image: "/poi-images/mensura-cities-v2.webp"
+},
     description: {
       de: "Ein Knotenpunkt für lokale Nomaden im Osten der Gash-Barka-Region, mit einem geschäftigen Wochenmarkt für Nutztiere.",
       hu: "A helyi nomádok csomópontja a Gash-Barka régió keleti részén, egy nyüzsgő heti állatpiaccal.",
@@ -1092,7 +1200,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.6167, 15.2667],
-    name: { de: "Dghe", hu: "Dghe", ro: "Dghe", en: "Dghe" },
+    name: { de: "Dghe", hu: "Dghe", ro: "Dghe", en: "Dghe",
+image: "/poi-images/dghe-cities-v2.webp"
+},
     description: {
       de: "Eine kleine landwirtschaftliche Siedlung in den Ebenen, die stark von den Monsunregen im Sommer abhängt.",
       hu: "Egy kis mezőgazdasági település a síkságon, amely nagymértékben függ a nyári monszunesőktől.",
@@ -1110,7 +1220,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.0333, 15.6000],
-    name: { de: "Forto", hu: "Forto", ro: "Forto", en: "Forto" },
+    name: { de: "Forto", hu: "Forto", ro: "Forto", en: "Forto",
+image: "/poi-images/forto-cities-v2.webp"
+},
     description: {
       de: "Der Name geht auf ein altes Fort zurück; heute ist es eine ruhige Ortschaft inmitten von ausgedehntem Weideland.",
       hu: "A neve egy régi erődre utal; ma csendes település a kiterjedt legelők közepén.",
@@ -1128,7 +1240,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.5833, 15.2333],
-    name: { de: "Gogne", hu: "Gogne", ro: "Gogne", en: "Gogne" },
+    name: { de: "Gogne", hu: "Gogne", ro: "Gogne", en: "Gogne",
+image: "/poi-images/gogne-cities-v2.webp"
+},
     description: {
       de: "Diese wachsende Stadt profitiert von neuen Verkehrsanbindungen und dient als Umschlagplatz für landwirtschaftliche Erzeugnisse der umliegenden Dörfer.",
       hu: "Ez a növekvő város új közlekedési kapcsolatokból profitál, és a környező falvak mezőgazdasági termékeinek átrakóhelyeként szolgál.",
@@ -1146,7 +1260,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-GB",
     coords: [37.2833, 15.1333],
-    name: { de: "Haykota", hu: "Haykota", ro: "Haykota", en: "Haykota" },
+    name: { de: "Haykota", hu: "Haykota", ro: "Haykota", en: "Haykota",
+image: "/poi-images/haykota-cities-v2.webp"
+},
     description: {
       de: "Ein lebendiger Marktort im Tiefland, der für sein Monument eines lokalen Kriegshelden und seine bunten Handwerksmärkte bekannt ist.",
       hu: "Élénk piaci város a síkságon, amely a helyi háborús hős emlékművéről és színes kézműves piacairól ismert.",
@@ -1165,7 +1281,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [38.3167, 16.2000],
-    name: { de: "Asmat", hu: "Asmat", ro: "Asmat", en: "Asmat" },
+    name: { de: "Asmat", hu: "Asmat", ro: "Asmat", en: "Asmat",
+image: "/poi-images/asmat-cities-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Gebirgsdorf im Norden der Anseba-Region, wo die Einwohner die kargen Hänge durch kunstvolle Terrassen kultivieren.",
       hu: "Elszigetelt hegyi falu az Anseba régió északi részén, ahol a lakosok a kopár lejtőket mesterséges teraszok segítségével művelik.",
@@ -1183,7 +1301,9 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     type: "city",
     parent: "ER-AN",
     coords: [38.4833, 16.1167],
-    name: { de: "Habero", hu: "Habero", ro: "Habero", en: "Habero" },
+    name: { de: "Habero", hu: "Habero", ro: "Habero", en: "Habero",
+image: "/poi-images/habero-cities-v2.webp"
+},
     description: {
       de: "Im rauen Terrain der nördlichen Ausläufer gelegen, ist diese Ortschaft ein wichtiges Zentrum der Tigre sprechenden Bevölkerungsminderheit.",
       hu: "Az északi lankák zord terepén fekvő település a tigré nyelven beszélő kisebbség fontos központja.",

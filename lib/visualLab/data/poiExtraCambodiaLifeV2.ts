@@ -6,7 +6,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-21",
     coords: [104.793, 11.302],
-    name: { de: "Phnom Tamao Wildtier-Rettungszentrum", hu: "Phnom Tamao Vadvédelmi Központ", ro: "Centrul de Salvare a Faunei Sălbatice Phnom Tamao", en: "Phnom Tamao Wildlife Rescue Center" },
+    name: { de: "Phnom Tamao Wildtier-Rettungszentrum", hu: "Phnom Tamao Vadvédelmi Központ", ro: "Centrul de Salvare a Faunei Sălbatice Phnom Tamao", en: "Phnom Tamao Wildlife Rescue Center",
+image: "/poi-images/phnom-tamao-wildlife-rescue-center-life-v2.webp"
+},
     description: {
       de: "Dieses Rettungszentrum ist Kambodschas größte Einrichtung zur Pflege und Rehabilitation von geretteten Wildtieren.",
       hu: "Ez a mentőközpont Kambodzsa legnagyobb létesítménye a megmentett vadállatok gondozására és rehabilitációjára.",
@@ -40,7 +42,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-02",
     coords: [103.666, 13.233],
-    name: { de: "Prek Toal Vogelschutzgebiet", hu: "Prek Toal Madárvédelmi Terület", ro: "Sanctuarul de Păsări Prek Toal", en: "Prek Toal Bird Sanctuary" },
+    name: { de: "Prek Toal Vogelschutzgebiet", hu: "Prek Toal Madárvédelmi Terület", ro: "Sanctuarul de Păsări Prek Toal", en: "Prek Toal Bird Sanctuary",
+image: "/poi-images/prek-toal-bird-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein unverzichtbares Feuchtgebiet am Tonle Sap, das als Nistplatz für viele gefährdete Wasservögel dient.",
       hu: "Egy elengedhetetlenül fontos vizes élőhely a Tonlé Szap tavon, amely sok veszélyeztetett vízimadár fészkelőhelye.",
@@ -74,7 +78,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-07",
     coords: [104.341, 10.603],
-    name: { de: "La Plantation Kampot", hu: "La Plantation Borsültetvény", ro: "Plantația de Piper din Kampot", en: "La Plantation Kampot Pepper Farm" },
+    name: { de: "La Plantation Kampot", hu: "La Plantation Borsültetvény", ro: "Plantația de Piper din Kampot", en: "La Plantation Kampot Pepper Farm",
+image: "/poi-images/la-plantation-kampot-pepper-farm-life-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftliches Projekt, das sich dem nachhaltigen Anbau des weltberühmten Kampot-Pfeffers widmet.",
       hu: "Egy mezőgazdasági projekt, amely a világhírű kampoti bors fenntartható termesztésére szakosodott.",
@@ -108,7 +114,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "KH-17",
     coords: [103.965, 13.568],
-    name: { de: "Banteay Srey Schmetterlingszentrum", hu: "Banteay Srey Pillangóközpont", ro: "Centrul de Fluturi Banteay Srey", en: "Banteay Srey Butterfly Centre" },
+    name: { de: "Banteay Srey Schmetterlingszentrum", hu: "Banteay Srey Pillangóközpont", ro: "Centrul de Fluturi Banteay Srey", en: "Banteay Srey Butterfly Centre",
+image: "/poi-images/banteay-srey-butterfly-centre-life-v2.webp"
+},
     description: {
       de: "Dieses interaktive Zentrum zeigt eine große Vielfalt an einheimischen Schmetterlingen in einem tropischen Netzgehege.",
       hu: "Ez az interaktív központ a helyi pillangók hatalmas választékát mutatja be egy trópusi hálós zárt térben.",
@@ -142,7 +150,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-17",
     coords: [104.015, 13.682],
-    name: { de: "Angkor Zentrum für Biodiversitätserhaltung", hu: "Angkor Biodiverzitás Megőrzési Központ", ro: "Centrul Angkor pentru Conservarea Biodiversității", en: "Angkor Centre for Conservation of Biodiversity" },
+    name: { de: "Angkor Zentrum für Biodiversitätserhaltung", hu: "Angkor Biodiverzitás Megőrzési Központ", ro: "Centrul Angkor pentru Conservarea Biodiversității", en: "Angkor Centre for Conservation of Biodiversity",
+image: "/poi-images/angkor-centre-for-conservation-of-biodiversity-life-v2.webp"
+},
     description: {
       de: "Das ACCB nahe Siem Reap widmet sich dem Schutz und der Rehabilitation der bedrohten Tierwelt Kambodschas.",
       hu: "A Sziemreap közelében található ACCB Kambodzsa veszélyeztetett élővilágának védelmével és rehabilitációjával foglalkozik.",
@@ -176,7 +186,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-17",
     coords: [104.075, 13.585],
-    name: { de: "Kulen Elefantenwald", hu: "Kulen Elefánt-erdő", ro: "Pădurea de Elefanți Kulen", en: "Kulen Elephant Forest" },
+    name: { de: "Kulen Elefantenwald", hu: "Kulen Elefánt-erdő", ro: "Pădurea de Elefanți Kulen", en: "Kulen Elephant Forest",
+image: "/poi-images/kulen-elephant-forest-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Schutzgebiet, in dem ehemalige Arbeitselefanten ein friedliches und natürliches Leben führen können.",
       hu: "Egy tágas rezervátum, ahol egykori munkaselefántok élhetnek békés és természetes életet.",
@@ -210,7 +222,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-11",
     coords: [107.228, 12.441],
-    name: { de: "Elefanten-Tal-Projekt", hu: "Elefánt-völgy Projekt", ro: "Proiectul Valea Elefanților", en: "Elephant Valley Project" },
+    name: { de: "Elefanten-Tal-Projekt", hu: "Elefánt-völgy Projekt", ro: "Proiectul Valea Elefanților", en: "Elephant Valley Project",
+image: "/poi-images/elephant-valley-project-life-v2.webp"
+},
     description: {
       de: "Dieses Ökotourismus-Projekt in Mondulkiri ermöglicht es Besuchern, Elefanten artgerecht durch den Dschungel streifen zu sehen.",
       hu: "Ez a Mondulkiriben található ökoturisztikai projekt lehetővé teszi a látogatók számára, hogy megfigyeljék, ahogy az elefántok szabadon kószálnak a dzsungelben.",
@@ -244,7 +258,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-10",
     coords: [106.015, 12.602],
-    name: { de: "Kampi Delfin-Lebensraum", hu: "Kampi Delfin Élőhely", ro: "Habitatul Delfinilor din Kampi", en: "Kampi Dolphin Habitat" },
+    name: { de: "Kampi Delfin-Lebensraum", hu: "Kampi Delfin Élőhely", ro: "Habitatul Delfinilor din Kampi", en: "Kampi Dolphin Habitat",
+image: "/poi-images/kampi-dolphin-habitat-life-v2.webp"
+},
     description: {
       de: "Einer der besten Orte in Kambodscha, um die seltenen Irrawaddy-Delfine in freier Wildbahn im Mekong zu beobachten.",
       hu: "Kambodzsa egyik legjobb helye, ahol a ritka irrawaddy-delfineket a Mekong folyóban szabadon lehet megfigyelni.",
@@ -278,7 +294,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-17",
     coords: [103.864, 13.315],
-    name: { de: "Bio-Bauernhof im Dorf Chreav", hu: "Chreav Falu Biofarmja", ro: "Ferma Ecologică din Satul Chreav", en: "Chreav Village Organic Farm" },
+    name: { de: "Bio-Bauernhof im Dorf Chreav", hu: "Chreav Falu Biofarmja", ro: "Ferma Ecologică din Satul Chreav", en: "Chreav Village Organic Farm",
+image: "/poi-images/chreav-village-organic-farm-life-v2.webp"
+},
     description: {
       de: "Ein gemeindebasiertes Landwirtschaftsprojekt, das nachhaltige Anbaumethoden fördert und die Märkte in Siem Reap mit frischem Gemüse versorgt.",
       hu: "Közösségi mezőgazdasági projekt, amely támogatja a fenntartható gazdálkodást, és friss zöldségekkel látja el Sziemreap piacait.",
@@ -312,7 +330,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-23",
     coords: [104.341, 10.518],
-    name: { de: "Sothys Pfefferfarm", hu: "Sothy Borsfarmja", ro: "Ferma de Piper Sothy", en: "Sothy's Pepper Farm" },
+    name: { de: "Sothys Pfefferfarm", hu: "Sothy Borsfarmja", ro: "Ferma de Piper Sothy", en: "Sothy's Pepper Farm",
+image: "/poi-images/sothys-pepper-farm-life-v2.webp"
+},
     description: {
       de: "Eine ökologisch betriebene Pfefferfarm in Kep, die Besuchern Einblicke in den traditionellen Pfefferanbau gibt.",
       hu: "Egy környezetbarát borsfarm Kep tartományban, amely bepillantást enged a látogatóknak a hagyományos borstermesztés rejtelmeibe.",
@@ -346,7 +366,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-07",
     coords: [104.195, 10.579],
-    name: { de: "Kampot Salzfelder", hu: "Kampot Sópárló Mezők", ro: "Câmpurile de Sare din Kampot", en: "Kampot Salt Fields" },
+    name: { de: "Kampot Salzfelder", hu: "Kampot Sópárló Mezők", ro: "Câmpurile de Sare din Kampot", en: "Kampot Salt Fields",
+image: "/poi-images/kampot-salt-fields-life-v2.webp"
+},
     description: {
       de: "Die ausgedehnten Salzfelder von Kampot sind von großer Bedeutung für die kambodschanische Salzproduktion.",
       hu: "Kampot hatalmas sópárló mezői nagy jelentőséggel bírnak a kambodzsai sótermelésben.",
@@ -380,7 +402,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "park",
     parent: "KH-12",
     coords: [104.887, 11.668],
-    name: { de: "Phnom Penh Safari-Park", hu: "Phnom Penh Szafaripark", ro: "Parcul Safari Phnom Penh", en: "Phnom Penh Safari Park" },
+    name: { de: "Phnom Penh Safari-Park", hu: "Phnom Penh Szafaripark", ro: "Parcul Safari Phnom Penh", en: "Phnom Penh Safari Park",
+image: "/poi-images/phnom-penh-safari-park-life-v2.webp"
+},
     description: {
       de: "Ein großer Zoo und Vergnügungspark am Stadtrand von Phnom Penh, der Familien vielfältige Attraktionen bietet.",
       hu: "Egy hatalmas állatkert és vidámpark Phnompen külvárosában, amely változatos attrakciókat kínál a családoknak.",
@@ -414,7 +438,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-09",
     coords: [103.011, 11.567],
-    name: { de: "Koh Kong Reptilienschutzzentrum", hu: "Koh Kong Hüllővédelmi Központ", ro: "Centrul de Conservare a Reptilelor din Koh Kong", en: "Koh Kong Reptile Conservation Center" },
+    name: { de: "Koh Kong Reptilienschutzzentrum", hu: "Koh Kong Hüllővédelmi Központ", ro: "Centrul de Conservare a Reptilelor din Koh Kong", en: "Koh Kong Reptile Conservation Center",
+image: "/poi-images/koh-kong-reptile-conservation-center-life-v2.webp"
+},
     description: {
       de: "Eine spezialisierte Einrichtung, die sich für den Schutz stark gefährdeter Krokodilarten und Schildkröten in Kambodscha einsetzt.",
       hu: "Egy speciális létesítmény, amely Kambodzsa súlyosan veszélyeztetett krokodil- és teknősfajainak védelmével foglalkozik.",
@@ -448,7 +474,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-11",
     coords: [107.215, 12.508],
-    name: { de: "Jahoo Gibbon Camp", hu: "Jahoo Gibbon Tábor", ro: "Tabăra de Giboni Jahoo", en: "Jahoo Gibbon Camp" },
+    name: { de: "Jahoo Gibbon Camp", hu: "Jahoo Gibbon Tábor", ro: "Tabăra de Giboni Jahoo", en: "Jahoo Gibbon Camp",
+image: "/poi-images/jahoo-gibbon-camp-life-v2.webp"
+},
     description: {
       de: "Ein einzigartiges Naturschutzprojekt, bei dem Besucher geführte Wanderungen unternehmen, um die seltenen Gelbwangen-Schopfgibbons zu sehen.",
       hu: "Különleges természetvédelmi projekt, ahol a látogatók vezetett túrákon vehetnek részt, hogy megfigyelhessék a ritka sárgaarcú gibbonokat.",
@@ -482,7 +510,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-12",
     coords: [104.945, 11.657],
-    name: { de: "Seideninsel (Koh Dach)", hu: "Selyem-sziget (Koh Dach)", ro: "Insula Mătăsii (Koh Dach)", en: "Silk Island (Koh Dach)" },
+    name: { de: "Seideninsel (Koh Dach)", hu: "Selyem-sziget (Koh Dach)", ro: "Insula Mătăsii (Koh Dach)", en: "Silk Island (Koh Dach)",
+image: "/poi-images/silk-island-koh-dach-life-v2.webp"
+},
     description: {
       de: "Eine friedliche Insel im Mekong bei Phnom Penh, die weithin für ihre traditionelle Seidenweberei und Landwirtschaft bekannt ist.",
       hu: "Egy békés sziget a Mekong folyón Phnompen közelében, amely széles körben ismert hagyományos selyemszövéséről és mezőgazdaságáról.",
@@ -516,7 +546,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-17",
     coords: [103.821, 13.275],
-    name: { de: "Siem Reap Lotusfarm", hu: "Siem Reap Lótuszfarm", ro: "Ferma de Lotuși din Siem Reap", en: "Siem Reap Lotus Farm" },
+    name: { de: "Siem Reap Lotusfarm", hu: "Siem Reap Lótuszfarm", ro: "Ferma de Lotuși din Siem Reap", en: "Siem Reap Lotus Farm",
+image: "/poi-images/siem-reap-lotus-farm-life-v2.webp"
+},
     description: {
       de: "Eine faszinierende Farm, auf der Lotosblumen angebaut werden, um aus ihren Stängeln feinste und umweltfreundliche Naturfasern zu gewinnen.",
       hu: "Egy lenyűgöző farm, ahol lótuszvirágot termesztenek, hogy a szárából finom, környezetbarát természetes rostokat állítsanak elő.",
@@ -550,7 +582,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-11",
     coords: [107.198, 12.456],
-    name: { de: "Mondulkiri Elefantenprojekt", hu: "Mondulkiri Elefántprojekt", ro: "Proiectul Elefanților din Mondulkiri", en: "Mondulkiri Elephant Project" },
+    name: { de: "Mondulkiri Elefantenprojekt", hu: "Mondulkiri Elefántprojekt", ro: "Proiectul Elefanților din Mondulkiri", en: "Mondulkiri Elephant Project",
+image: "/poi-images/mondulkiri-elephant-project-life-v2.webp"
+},
     description: {
       de: "Ein Zufluchtsort im Hochland, der geretteten Elefanten ein stressfreies Umfeld bietet und sich gegen das Elefantenreiten einsetzt.",
       hu: "Egy hegyvidéki menedékhely, amely stresszmentes környezetet biztosít a megmentett elefántoknak, és fellép az elefánthátolás ellen.",
@@ -584,7 +618,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-13",
     coords: [104.887, 13.845],
-    name: { de: "Tmatboey Ibis-Schutzgebiet", hu: "Tmatboey Íbiszvédelmi Terület", ro: "Situl Ibișilor din Tmatboey", en: "Tmatboey Ibis Site" },
+    name: { de: "Tmatboey Ibis-Schutzgebiet", hu: "Tmatboey Íbiszvédelmi Terület", ro: "Situl Ibișilor din Tmatboey", en: "Tmatboey Ibis Site",
+image: "/poi-images/tmatboey-ibis-site-life-v2.webp"
+},
     description: {
       de: "Ein international anerkanntes Naturschutzgebiet im Norden Kambodschas, bekannt für seine erfolgreichen Bemühungen zur Erhaltung bedrohter Ibis-Arten.",
       hu: "Egy nemzetközileg elismert természetvédelmi terület Észak-Kambodzsában, amely a veszélyeztetett íbiszfajok megmentésére tett sikeres erőfeszítéseiről ismert.",
@@ -618,7 +654,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "KH-15",
     coords: [103.189, 12.164],
-    name: { de: "Veal Veng Krokodilschutzgebiet", hu: "Veal Veng Krokodilrezervátum", ro: "Sanctuarul Crocodililor din Veal Veng", en: "Veal Veng Crocodile Sanctuary" },
+    name: { de: "Veal Veng Krokodilschutzgebiet", hu: "Veal Veng Krokodilrezervátum", ro: "Sanctuarul Crocodililor din Veal Veng", en: "Veal Veng Crocodile Sanctuary",
+image: "/poi-images/veal-veng-crocodile-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein abgelegenes und geschütztes Feuchtgebiet im Kardamom-Gebirge, das als wichtiger Rückzugsort für das seltene Siam-Krokodil dient.",
       hu: "Egy elszigetelt és védett vizes élőhely a Kardamom-hegységben, amely a ritka sziámi krokodil fontos menedékhelyeként szolgál.",
@@ -652,7 +690,9 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "KH-02",
     coords: [103.111, 13.064],
-    name: { de: "Battambang Orangenplantagen", hu: "Battambang Narancsültetvények", ro: "Livezile de Portocali din Battambang", en: "Battambang Orange Orchards" },
+    name: { de: "Battambang Orangenplantagen", hu: "Battambang Narancsültetvények", ro: "Livezile de Portocali din Battambang", en: "Battambang Orange Orchards",
+image: "/poi-images/battambang-orange-orchards-life-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Böden rund um Battambang bringen eine einzigartige, grüne Orangensorte hervor, die in ganz Kambodscha berühmt ist.",
       hu: "Battambang környékének termékeny talaja egy egyedülálló, zöld narancsfajtát terem, amely egész Kambodzsában híres.",

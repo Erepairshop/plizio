@@ -6,7 +6,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "park",
     parent: "TL-DI",
     coords: [125.5841, -8.5512],
-    name: { de: "Jardim de Lecidere", hu: "Jardim de Lecidere park", ro: "Parcul Jardim de Lecidere", en: "Jardim de Lecidere" },
+    name: { de: "Jardim de Lecidere", hu: "Jardim de Lecidere park", ro: "Parcul Jardim de Lecidere", en: "Jardim de Lecidere",
+image: "/poi-images/jardim-de-lecidere-life-v2.webp"
+},
     description: {
       de: "Ein beliebter öffentlicher Park an der Uferpromenade von Dili mit schattigen Bäumen und Erholungsflächen.",
       hu: "Népszerű közpark Dili tengerparti sétányán, árnyékos fákkal és pihenőhelyekkel.",
@@ -24,7 +26,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-ER",
     coords: [125.4001, -8.7501],
-    name: { de: "Ermera Kaffeeplantagen", hu: "Ermera kávéültetvényei", ro: "Plantațiile de cafea din Ermera", en: "Ermera Coffee Plantations" },
+    name: { de: "Ermera Kaffeeplantagen", hu: "Ermera kávéültetvényei", ro: "Plantațiile de cafea din Ermera", en: "Ermera Coffee Plantations",
+image: "/poi-images/ermera-coffee-plantations-life-v2.webp"
+},
     description: {
       de: "Ausgedehnte Kaffeeplantagen in der Bergregion Ermera, die für den hochwertigen Timor-Kaffee bekannt sind.",
       hu: "Kiterjedt kávéültetvények az Ermera hegyvidéken, amelyek a kiváló minőségű timori kávéról ismertek.",
@@ -42,7 +46,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TL-DI",
     coords: [125.5801, -8.2501],
-    name: { de: "Atauro Korallenriffe", hu: "Atauro korallzátonyok", ro: "Recifele de corali Atauro", en: "Atauro Coral Reefs" },
+    name: { de: "Atauro Korallenriffe", hu: "Atauro korallzátonyok", ro: "Recifele de corali Atauro", en: "Atauro Coral Reefs",
+image: "/poi-images/atauro-coral-reefs-life-v2.webp"
+},
     description: {
       de: "Eines der artenreichsten Riffsysteme der Welt rund um die Insel Atauro, ein Paradies für Meereslebewesen.",
       hu: "A világ egyik legfajgazdagabb zátonyrendszere Atauro szigete körül, a tengeri élőlények paradicsoma.",
@@ -61,7 +67,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TL-CO",
     coords: [125.2161, -9.3331],
-    name: { de: "Tilomar Naturreservat", hu: "Tilomar Természetvédelmi Terület", ro: "Rezervația Naturală Tilomar", en: "Tilomar Nature Reserve" },
+    name: { de: "Tilomar Naturreservat", hu: "Tilomar Természetvédelmi Terület", ro: "Rezervația Naturală Tilomar", en: "Tilomar Nature Reserve",
+image: "/poi-images/tilomar-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Waldschutzgebiet im Südwesten, das vielen bedrohten Vogelarten und heimischer Flora Schutz bietet.",
       hu: "Jelentős erdővédelmi terület délnyugaton, amely számos veszélyeztetett madárfajnak és helyi növénynek nyújt menedéket.",
@@ -79,7 +87,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-BO",
     coords: [125.2191, -8.9911],
-    name: { de: "Maliana Reisfelder", hu: "Maliana rizsföldek", ro: "Câmpurile de orez din Maliana", en: "Maliana Rice Fields" },
+    name: { de: "Maliana Reisfelder", hu: "Maliana rizsföldek", ro: "Câmpurile de orez din Maliana", en: "Maliana Rice Fields",
+image: "/poi-images/maliana-rice-fields-life-v2.webp"
+},
     description: {
       de: "Weite, malerische Reisfelder in der Ebene von Maliana, die als Reiskammer von Timor-Leste gelten.",
       hu: "Széles, festői rizsföldek Maliana síkságán, amelyet Kelet-Timor rizskamrájának tartanak.",
@@ -97,7 +107,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TL-DI",
     coords: [125.6101, -8.5201],
-    name: { de: "Fatucama Meeresschutzgebiet", hu: "Fatucama Tengeri Menedék", ro: "Sanctuarul Marin Fatucama", en: "Fatucama Marine Sanctuary" },
+    name: { de: "Fatucama Meeresschutzgebiet", hu: "Fatucama Tengeri Menedék", ro: "Sanctuarul Marin Fatucama", en: "Fatucama Marine Sanctuary",
+image: "/poi-images/fatucama-marine-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein geschützter Küstenabschnitt in der Nähe von Dili, der für seine intakten Korallengärten und Seegraswiesen bekannt ist.",
       hu: "Védett partszakasz Dili közelében, amely érintetlen korallkertjeiről és tengerifű-mezőiről ismert.",
@@ -115,7 +127,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-MT",
     coords: [126.0141, -8.5111],
-    name: { de: "Manatuto Salzpfannen", hu: "Manatuto sólepárlók", ro: "Salinele din Manatuto", en: "Manatuto Salt Pans" },
+    name: { de: "Manatuto Salzpfannen", hu: "Manatuto sólepárlók", ro: "Salinele din Manatuto", en: "Manatuto Salt Pans",
+image: "/poi-images/manatuto-salt-pans-life-v2.webp"
+},
     description: {
       de: "Traditionelle Salzgewinnungsanlagen an der Nordküste, wo Meerwasser in flachen Becken durch die Sonne verdunstet wird.",
       hu: "Hagyományos sólepárlók az északi parton, ahol a tengervizet sekély medencékben párologtatja el a nap.",
@@ -133,7 +147,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TL-DI",
     coords: [125.6111, -8.5251],
-    name: { de: "Cristo Rei Affenhabitat", hu: "Cristo Rei majomélőhely", ro: "Habitatul macacilor de la Cristo Rei", en: "Cristo Rei Macaque Habitat" },
+    name: { de: "Cristo Rei Affenhabitat", hu: "Cristo Rei majomélőhely", ro: "Habitatul macacilor de la Cristo Rei", en: "Cristo Rei Macaque Habitat",
+image: "/poi-images/cristo-rei-macaque-habitat-life-v2.webp"
+},
     description: {
       de: "Die bewaldeten Hügel rund um die Christusstatue bieten einen natürlichen Lebensraum für wilde Javaneraffen.",
       hu: "A Krisztus-szobrot körülvevő erdős dombok természetes élőhelyet biztosítanak a vadon élő jávai makákóknak.",
@@ -151,7 +167,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-AN",
     coords: [125.5971, -8.8381],
-    name: { de: "Maubisse Farmlandschaft", hu: "Maubisse farmvidék", ro: "Terenurile agricole din Maubisse", en: "Maubisse Farmlands" },
+    name: { de: "Maubisse Farmlandschaft", hu: "Maubisse farmvidék", ro: "Terenurile agricole din Maubisse", en: "Maubisse Farmlands",
+image: "/poi-images/maubisse-farms-life-v2.webp"
+},
     description: {
       de: "Die kühlen Hochebenen von Maubisse sind ideal für den Anbau von Gemüse, Erdbeeren und Kaffee.",
       hu: "Maubisse hűvös fennsíkjai ideálisak zöldségek, eper és kávé termesztésére.",
@@ -169,7 +187,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "park",
     parent: "TL-DI",
     coords: [125.5781, -8.5581],
-    name: { de: "Jardim Borja da Costa", hu: "Jardim Borja da Costa", ro: "Jardim Borja da Costa", en: "Jardim Borja da Costa" },
+    name: { de: "Jardim Borja da Costa", hu: "Jardim Borja da Costa", ro: "Jardim Borja da Costa", en: "Jardim Borja da Costa",
+image: "/poi-images/jardim-borja-da-costa-life-v2.webp"
+},
     description: {
       de: "Ein ruhiger Park in Dili, benannt nach einem berühmten timoresischen Dichter, der zum Verweilen einlädt.",
       hu: "Csendes park Diliben, amelyet egy híres timori költőről neveztek el, és pihenésre csábít.",
@@ -187,7 +207,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TL-LA",
     coords: [127.0601, -8.3581],
-    name: { de: "Com Küstenreservat", hu: "Com partvidéki rezervátum", ro: "Rezervația de coastă Com", en: "Com Coastal Reserve" },
+    name: { de: "Com Küstenreservat", hu: "Com partvidéki rezervátum", ro: "Rezervația de coastă Com", en: "Com Coastal Reserve",
+image: "/poi-images/com-coastal-reserve-life-v2.webp"
+},
     description: {
       de: "Ein malerischer Küstenstreifen im Osten, der für seine vielfältige Vogelwelt und Meeresschildkröten-Nistplätze bekannt ist.",
       hu: "Festői partszakasz keleten, amely gazdag madárvilágáról és tengeri teknősök fészkelőhelyeiről ismert.",
@@ -205,7 +227,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-OE",
     coords: [124.3661, -9.2831],
-    name: { de: "Oecusse Sandelholz-Wälder", hu: "Oecusse szantálfa-erdők", ro: "Pădurile de lemn de santal Oecusse", en: "Oecusse Sandalwood Forests" },
+    name: { de: "Oecusse Sandelholz-Wälder", hu: "Oecusse szantálfa-erdők", ro: "Pădurile de lemn de santal Oecusse", en: "Oecusse Sandalwood Forests",
+image: "/poi-images/oecusse-sandalwood-life-v2.webp"
+},
     description: {
       de: "Die Exklave Oecusse war historisch das Zentrum des Sandelholzhandels; heute gibt es Bemühungen zur Wiederaufforstung.",
       hu: "Oecusse exklávé történelmileg a szantálfa-kereskedelem központja volt; ma újraerdősítési erőfeszítések folynak.",
@@ -223,7 +247,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-BA",
     coords: [126.4581, -8.4711],
-    name: { de: "Baucau Terrassenfelder", hu: "Baucau teraszos földek", ro: "Câmpurile terasate din Baucau", en: "Baucau Terrace Fields" },
+    name: { de: "Baucau Terrassenfelder", hu: "Baucau teraszos földek", ro: "Câmpurile terasate din Baucau", en: "Baucau Terrace Fields",
+image: "/poi-images/baucau-terraces-life-v2.webp"
+},
     description: {
       de: "Durch natürliche Quellen bewässerte Terrassenfelder, auf denen Reis und Gemüse in der hügeligen Landschaft angebaut werden.",
       hu: "Természetes források által öntözött teraszos mezők, ahol rizst és zöldségeket termesztenek a dombos tájon.",
@@ -241,7 +267,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-LA",
     coords: [126.9951, -8.5221],
-    name: { de: "Lospalos Viehweiden", hu: "Lospalos állatlegelők", ro: "Pășunile din Lospalos", en: "Lospalos Livestock Pastures" },
+    name: { de: "Lospalos Viehweiden", hu: "Lospalos állatlegelők", ro: "Pășunile din Lospalos", en: "Lospalos Livestock Pastures",
+image: "/poi-images/lospalos-livestock-life-v2.webp"
+},
     description: {
       de: "Weite Grasebenen in der Region Lospalos, die traditionell für die Zucht von Wasserbüffeln und Rindern genutzt werden.",
       hu: "Széles füves síkságok a Lospalos régióban, amelyeket hagyományosan vízibivalyok és szarvasmarhák tenyésztésére használnak.",
@@ -259,7 +287,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TL-MA",
     coords: [125.7271, -9.1621],
-    name: { de: "Betano Krokodil-Sümpfe", hu: "Betano krokodilmocsarak", ro: "Mlaștinile cu crocodili Betano", en: "Betano Crocodile Swamps" },
+    name: { de: "Betano Krokodil-Sümpfe", hu: "Betano krokodilmocsarak", ro: "Mlaștinile cu crocodili Betano", en: "Betano Crocodile Swamps",
+image: "/poi-images/betano-crocodile-habitat-life-v2.webp"
+},
     description: {
       de: "Die Sumpfgebiete nahe der Südküste sind ein wichtiger natürlicher Lebensraum für das Leistenkrokodil, das hier heilig ist.",
       hu: "A déli part közelében lévő mocsárvidékek fontos természetes élőhelyei a bordás krokodilnak, amely itt szent állat.",
@@ -278,7 +308,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-VI",
     coords: [126.3641, -8.8671],
-    name: { de: "Viqueque Teakwälder", hu: "Viqueque tíkfaerdők", ro: "Pădurile de tec Viqueque", en: "Viqueque Teak Forests" },
+    name: { de: "Viqueque Teakwälder", hu: "Viqueque tíkfaerdők", ro: "Pădurile de tec Viqueque", en: "Viqueque Teak Forests",
+image: "/poi-images/viqueque-teak-forests-life-v2.webp"
+},
     description: {
       de: "Forstwirtschaftlich genutzte Gebiete in Viqueque, in denen Teakbäume für die Holzproduktion angebaut werden.",
       hu: "Viqueque erdészeti területei, ahol tíkfákat termesztenek faanyag előállítására.",
@@ -296,7 +328,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TL-DI",
     coords: [125.5481, -8.5531],
-    name: { de: "Timor Plaza Spielbereich", hu: "Timor Plaza játszóház", ro: "Zona de joacă Timor Plaza", en: "Timor Plaza Kids Zone" },
+    name: { de: "Timor Plaza Spielbereich", hu: "Timor Plaza játszóház", ro: "Zona de joacă Timor Plaza", en: "Timor Plaza Kids Zone",
+image: "/poi-images/timor-plaza-kids-zone-life-v2.webp"
+},
     description: {
       de: "Ein sicherer und unterhaltsamer Indoor-Spielplatz im größten Einkaufszentrum von Dili, ideal für Familien.",
       hu: "Biztonságos és szórakoztató beltéri játszóház Dili legnagyobb bevásárlóközpontjában, ideális családok számára.",
@@ -314,7 +348,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "park",
     parent: "TL-DI",
     coords: [125.5761, -8.5491],
-    name: { de: "Dili Uferpromenade", hu: "Dili tengerparti sétány", ro: "Promenada Dili", en: "Dili Waterfront Promenade" },
+    name: { de: "Dili Uferpromenade", hu: "Dili tengerparti sétány", ro: "Promenada Dili", en: "Dili Waterfront Promenade",
+image: "/poi-images/dili-promenade-park-life-v2.webp"
+},
     description: {
       de: "Eine von Bäumen gesäumte Promenade entlang der Bucht von Dili, beliebt für abendliche Spaziergänge und Erholung.",
       hu: "Fákkal szegélyezett sétány a Dili-öböl mentén, amely népszerű az esti séták és a pihenés céljából.",
@@ -332,7 +368,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-MA",
     coords: [125.6481, -9.0041],
-    name: { de: "Same Kakao-Plantagen", hu: "Same kakaóültetvények", ro: "Plantațiile de cacao din Same", en: "Same Cocoa Plantations" },
+    name: { de: "Same Kakao-Plantagen", hu: "Same kakaóültetvények", ro: "Plantațiile de cacao din Same", en: "Same Cocoa Plantations",
+image: "/poi-images/same-cocoa-farms-life-v2.webp"
+},
     description: {
       de: "Landwirtschaftliche Betriebe in der Region Same, die zunehmend hochwertigen Kakao neben Kaffee anbauen.",
       hu: "Mezőgazdasági üzemek a Same régióban, amelyek a kávé mellett egyre több kiváló minőségű kakaót termesztenek.",
@@ -350,7 +388,9 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     type: "agriculture",
     parent: "TL-LA",
     coords: [126.9661, -8.4161],
-    name: { de: "Fuiloro-Plateau Landwirtschaft", hu: "Fuiloro-fennsík mezőgazdasága", ro: "Agricultura din Platoul Fuiloro", en: "Fuiloro Plateau Farming" },
+    name: { de: "Fuiloro-Plateau Landwirtschaft", hu: "Fuiloro-fennsík mezőgazdasága", ro: "Agricultura din Platoul Fuiloro", en: "Fuiloro Plateau Farming",
+image: "/poi-images/fuiloro-plateau-farms-life-v2.webp"
+},
     description: {
       de: "Das ausgedehnte Fuiloro-Plateau wird intensiv für den Anbau von Mais und anderem Getreide genutzt.",
       hu: "A kiterjedt Fuiloro-fennsíkot intenzíven használják kukorica és egyéb gabonafélék termesztésére.",

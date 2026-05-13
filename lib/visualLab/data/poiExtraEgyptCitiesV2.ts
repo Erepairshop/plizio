@@ -7,7 +7,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EG-C",
     coords: [31.2357, 30.0444],
-    name: { de: "Kairo", hu: "Kairó", ro: "Cairo", en: "Cairo" },
+    name: { de: "Kairo", hu: "Kairó", ro: "Cairo", en: "Cairo",
+image: "/poi-images/cairo-cities-v2.webp"
+},
     description: { de: "Die pulsierende Hauptstadt Ägyptens und die größte Stadt der arabischen Welt.", hu: "Egyiptom lüktető fővárosa és az arab világ legnagyobb városa.", ro: "Capitala vibrantă a Egiptului și cel mai mare oraș din lumea arabă.", en: "The vibrant capital of Egypt and the largest city in the Arab world." },
     descriptionAdvanced: {
       de: "Kairo, mit über 20 Millionen Einwohnern in der Metropolregion, ist das Herz Ägyptens. Die 969 n. Chr. gegründete Stadt beherbergt das Ägyptische Museum, in dem tausende Artefakte wie der Schatz des Tutanchamun ausgestellt sind. Földrajz K7 — városok és metropoliszok.",
@@ -33,7 +35,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-ALX",
     coords: [29.9187, 31.2001],
-    name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria" },
+    name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria",
+image: "/poi-images/alexandria-cities-v2.webp"
+},
     description: { de: "Eine bedeutende Hafenstadt am Mittelmeer, berühmt für ihre antike Geschichte.", hu: "Jelentős kikötőváros a Földközi-tenger partján, híres ókori történelméről.", ro: "Un important oraș portuar la Marea Mediterană, faimos pentru istoria sa antică.", en: "A major port city on the Mediterranean Sea, famous for its ancient history." },
     facts: {
       de: ["Zweitgrößte Stadt Ägyptens.", "Gegründet von Alexander dem Großen."],
@@ -58,7 +62,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GZ",
     coords: [31.2089, 30.0131],
-    name: { de: "Gizeh", hu: "Gíza", ro: "Giza", en: "Giza" },
+    name: { de: "Gizeh", hu: "Gíza", ro: "Giza", en: "Giza",
+image: "/poi-images/giza-cities-v2.webp"
+},
     description: { de: "Eine Großstadt am Westufer des Nils, weltweit bekannt für das Gizeh-Plateau.", hu: "Nagyváros a Nílus nyugati partján, világszerte ismert a gízai fennsíkról.", ro: "Un oraș mare pe malul de vest al Nilului, cunoscut la nivel mondial pentru platoul Giza.", en: "A major city on the west bank of the Nile, globally known for the Giza Plateau." },
     facts: {
       de: ["Teil der Metropolregion Kairo.", "Heimat der großen Pyramiden."],
@@ -83,7 +89,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-QTB",
     coords: [31.2461, 30.1286],
-    name: { de: "Schubra al-Chaima", hu: "Subra el-Hajma", ro: "Shubra El Kheima", en: "Shubra El Kheima" },
+    name: { de: "Schubra al-Chaima", hu: "Subra el-Hajma", ro: "Shubra El Kheima", en: "Shubra El Kheima",
+image: "/poi-images/shubra-el-kheima-cities-v2.webp"
+},
     description: { de: "Eine stark industrialisierte Stadt nördlich von Kairo.", hu: "Erősen iparosodott város Kairótól északra.", ro: "Un oraș puternic industrializat la nord de Cairo.", en: "A highly industrialized city north of Cairo." },
     facts: {
       de: ["Wichtiges Textilzentrum.", "Dicht besiedeltes Gebiet."],
@@ -108,7 +116,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-PTS",
     coords: [32.2841, 31.2565],
-    name: { de: "Port Said", hu: "Port Szaíd", ro: "Port Said", en: "Port Said" },
+    name: { de: "Port Said", hu: "Port Szaíd", ro: "Port Said", en: "Port Said",
+image: "/poi-images/port-said-cities-v2.webp"
+},
     description: { de: "Eine moderne Küstenstadt, die den nördlichen Eingang des Suezkanals bewacht.", hu: "Modern tengerparti város, amely a Szuezi-csatorna északi bejáratát őrzi.", ro: "Un oraș de coastă modern care păzește intrarea nordică a Canalului Suez.", en: "A modern coastal city guarding the northern entrance of the Suez Canal." },
     facts: {
       de: ["Gegründet 1859.", "Zollfreie Zone."],
@@ -133,7 +143,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SUZ",
     coords: [32.5263, 29.9668],
-    name: { de: "Sues", hu: "Szuez", ro: "Suez", en: "Suez" },
+    name: { de: "Sues", hu: "Szuez", ro: "Suez", en: "Suez",
+image: "/poi-images/suez-cities-v2.webp"
+},
     description: { de: "Eine wichtige Hafenstadt am Roten Meer und südlicher Endpunkt des Suezkanals.", hu: "Fontos kikötőváros a Vörös-tengeren és a Szuezi-csatorna déli végpontja.", ro: "Un important oraș portuar la Marea Roșie și capătul sudic al Canalului Suez.", en: "An important port city on the Red Sea and the southern terminus of the Suez Canal." },
     facts: {
       de: ["Große Ölraffinerien.", "Historischer Handelsknotenpunkt."],
@@ -158,7 +170,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-DK",
     coords: [31.3785, 31.0364],
-    name: { de: "Al-Mansura", hu: "Manszúra", ro: "Mansoura", en: "Mansoura" },
+    name: { de: "Al-Mansura", hu: "Manszúra", ro: "Mansoura", en: "Mansoura",
+image: "/poi-images/mansoura-cities-v2.webp"
+},
     description: { de: "Eine charmante Stadt im Nildelta, bekannt für ihre Universität und Medizin.", hu: "Bájos város a Nílus deltájában, híres egyeteméről és orvostudományáról.", ro: "Un oraș fermecător în Delta Nilului, cunoscut pentru universitatea și medicina sa.", en: "A charming city in the Nile Delta, known for its university and medicine." },
     facts: {
       de: ["Zentrum für Nierentransplantationen.", "Schauplatz historischer Schlachten."],
@@ -183,7 +197,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GH",
     coords: [31.1637, 30.9706],
-    name: { de: "Al-Mahalla al-Kubra", hu: "El-Mahalla el-Kubra", ro: "El Mahalla El Kubra", en: "El Mahalla El Kubra" },
+    name: { de: "Al-Mahalla al-Kubra", hu: "El-Mahalla el-Kubra", ro: "El Mahalla El Kubra", en: "El Mahalla El Kubra",
+image: "/poi-images/el-mahalla-el-kubra-cities-v2.webp"
+},
     description: { de: "Das größte Zentrum der ägyptischen Textilindustrie, gelegen im Nildelta.", hu: "Az egyiptomi textilipar legnagyobb központja, a Nílus deltájában található.", ro: "Cel mai mare centru al industriei textile egiptene, situat în Delta Nilului.", en: "The largest center of the Egyptian textile industry, located in the Nile Delta." },
     facts: {
       de: ["Heimat von Misr Spinning and Weaving.", "Wichtiger Wirtschaftsstandort."],
@@ -208,7 +224,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GH",
     coords: [30.9957, 30.7865],
-    name: { de: "Tanta", hu: "Tanta", ro: "Tanta", en: "Tanta" },
+    name: { de: "Tanta", hu: "Tanta", ro: "Tanta", en: "Tanta",
+image: "/poi-images/tanta-cities-v2.webp"
+},
     description: { de: "Eine wichtige landwirtschaftliche und religiöse Stadt im Zentrum des Deltas.", hu: "Fontos mezőgazdasági és vallási város a delta központjában.", ro: "Un important oraș agricol și religios în centrul deltei.", en: "An important agricultural and religious city in the center of the delta." },
     facts: {
       de: ["Bekannt für geröstete Kichererbsen.", "Jährliches Sufi-Festival."],
@@ -233,7 +251,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-AST",
     coords: [31.1862, 27.181],
-    name: { de: "Assiut", hu: "Aszjút", ro: "Asyut", en: "Asyut" },
+    name: { de: "Assiut", hu: "Aszjút", ro: "Asyut", en: "Asyut",
+image: "/poi-images/asyut-cities-v2.webp"
+},
     description: { de: "Die größte Stadt in Oberägypten, historisch ein Knotenpunkt für Karawanen.", hu: "Felső-Egyiptom legnagyobb városa, történelmileg karavánok csomópontja.", ro: "Cel mai mare oraș din Egiptul de Sus, istoric un nod pentru caravane.", en: "The largest city in Upper Egypt, historically a hub for caravans." },
     facts: {
       de: ["Wichtige Universität.", "Koptisch-orthodoxes Zentrum."],
@@ -258,7 +278,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-IS",
     coords: [32.2736, 30.5965],
-    name: { de: "Ismailia", hu: "Iszmáilija", ro: "Ismailia", en: "Ismailia" },
+    name: { de: "Ismailia", hu: "Iszmáilija", ro: "Ismailia", en: "Ismailia",
+image: "/poi-images/ismailia-cities-v2.webp"
+},
     description: { de: "Bekannt als die Stadt der Schönheit und Verzauberung, am Timsahsee gelegen.", hu: "A szépség és varázslat városaként ismert, a Timsah-tó partján fekszik.", ro: "Cunoscut sub numele de orașul frumuseții și farmecului, situat pe lacul Timsah.", en: "Known as the city of beauty and enchantment, located on Lake Timsah." },
     facts: {
       de: ["Hauptsitz der Suezkanal-Behörde.", "Viel Architektur aus dem 19. Jahrhundert."],
@@ -283,7 +305,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-FYM",
     coords: [30.8418, 29.3084],
-    name: { de: "al-Fayyum", hu: "Fajjúm", ro: "Faiyum", en: "Faiyum" },
+    name: { de: "al-Fayyum", hu: "Fajjúm", ro: "Faiyum", en: "Faiyum",
+image: "/poi-images/faiyum-cities-v2.webp"
+},
     description: { de: "Eine antike Stadt in einer Senke, umgeben von fruchtbarem Ackerland.", hu: "Ősi város egy medencében, termékeny termőföldekkel körülvéve.", ro: "Un oraș antic într-o depresiune, înconjurat de terenuri agricole fertile.", en: "An ancient city in a depression, surrounded by fertile farmland." },
     facts: {
       de: ["Berühmt für die Fayum-Mumienporträts.", "Historische Wasserräder."],
@@ -308,7 +332,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHR",
     coords: [31.5021, 30.5877],
-    name: { de: "Zagazig", hu: "Zakázík", ro: "Zagazig", en: "Zagazig" },
+    name: { de: "Zagazig", hu: "Zakázík", ro: "Zagazig", en: "Zagazig",
+image: "/poi-images/zagazig-cities-v2.webp"
+},
     description: { de: "Die Hauptstadt des Gouvernements asch-Scharqiyya, nahe der antiken Stadt Bubastis.", hu: "Sarkíja kormányzóság fővárosa, az ókori Bubasztisz közelében.", ro: "Capitala guvernoratului Al Sharqia, în apropiere de orașul antic Bubastis.", en: "The capital of the Al Sharqia Governorate, near the ancient city of Bubastis." },
     facts: {
       de: ["Großes Baumwollzentrum.", "Standort der Zagazig-Universität."],
@@ -333,7 +359,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-DT",
     coords: [31.8155, 31.4165],
-    name: { de: "Damiette", hu: "Damietta", ro: "Damietta", en: "Damietta" },
+    name: { de: "Damiette", hu: "Damietta", ro: "Damietta", en: "Damietta",
+image: "/poi-images/damietta-cities-v2.webp"
+},
     description: { de: "Eine blühende Hafenstadt, berühmt für ihre Möbelindustrie und Süßigkeiten.", hu: "Virágzó kikötőváros, híres bútoriparáról és édességeiről.", ro: "Un oraș portuar înfloritor, faimos pentru industria sa de mobilă și dulciuri.", en: "A thriving port city, famous for its furniture industry and sweets." },
     facts: {
       de: ["Wichtiger Exporthafen.", "Herstellung traditioneller Möbel."],
@@ -358,7 +386,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-ASN",
     coords: [32.8998, 24.0889],
-    name: { de: "Assuan", hu: "Asszuán", ro: "Aswan", en: "Aswan" },
+    name: { de: "Assuan", hu: "Asszuán", ro: "Aswan", en: "Aswan",
+image: "/poi-images/aswan-cities-v2.webp"
+},
     description: { de: "Die sonnigste Stadt im Süden Ägyptens, reich an nubischer Kultur.", hu: "Egyiptom legnaposabb déli városa, gazdag núbiai kultúrában.", ro: "Cel mai însorit oraș din sudul Egiptului, bogat în cultură nubiană.", en: "The sunniest city in southern Egypt, rich in Nubian culture." },
     facts: {
       de: ["Bekannt für den Assuan-Staudamm.", "Wichtiger Granitsteinbruch der Antike."],
@@ -383,7 +413,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MN",
     coords: [30.7503, 28.1099],
-    name: { de: "Al-Minya", hu: "Minja", ro: "Minya", en: "Minya" },
+    name: { de: "Al-Minya", hu: "Minja", ro: "Minya", en: "Minya",
+image: "/poi-images/minya-cities-v2.webp"
+},
     description: { de: "Wird oft als die Braut von Oberägypten bezeichnet, liegt malerisch am Nil.", hu: "Gyakran Felső-Egyiptom menyasszonyának nevezik, festői környezetben a Níluson.", ro: "Adesea numită mireasa Egiptului de Sus, situată pitoresc pe Nil.", en: "Often called the Bride of Upper Egypt, picturesquely situated on the Nile." },
     facts: {
       de: ["Wichtiges landwirtschaftliches Zentrum.", "Reiche byzantinische Geschichte."],
@@ -408,7 +440,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BH",
     coords: [30.4738, 31.0363],
-    name: { de: "Damanhur", hu: "Damanhúr", ro: "Damanhur", en: "Damanhur" },
+    name: { de: "Damanhur", hu: "Damanhúr", ro: "Damanhur", en: "Damanhur",
+image: "/poi-images/damanhur-cities-v2.webp"
+},
     description: { de: "Eine landwirtschaftliche Marktstadt im westlichen Teil des Nildeltas.", hu: "Mezőgazdasági piacváros a Nílus deltájának nyugati részén.", ro: "Un oraș-târg agricol în partea de vest a Deltei Nilului.", en: "An agricultural market town in the western part of the Nile Delta." },
     facts: {
       de: ["Bekannt für Reisanbau.", "Wichtiger Verkehrsknotenpunkt."],
@@ -433,7 +467,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BNS",
     coords: [31.0963, 29.0661],
-    name: { de: "Beni Suef", hu: "Beni Szuef", ro: "Beni Suef", en: "Beni Suef" },
+    name: { de: "Beni Suef", hu: "Beni Szuef", ro: "Beni Suef", en: "Beni Suef",
+image: "/poi-images/beni-suef-cities-v2.webp"
+},
     description: { de: "Eine aufstrebende Stadt, die oft den Übergang nach Oberägypten markiert.", hu: "Feltörekvő város, amely gyakran Felső-Egyiptom átmenetét jelzi.", ro: "Un oraș în ascensiune care marchează adesea tranziția spre Egiptul de Sus.", en: "An emerging city that often marks the transition to Upper Egypt." },
     facts: {
       de: ["Wichtige Zementindustrie.", "Starke landwirtschaftliche Basis."],
@@ -458,7 +494,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BA",
     coords: [33.8116, 27.2579],
-    name: { de: "Hurghada", hu: "Gurdaka", ro: "Hurghada", en: "Hurghada" },
+    name: { de: "Hurghada", hu: "Gurdaka", ro: "Hurghada", en: "Hurghada",
+image: "/poi-images/hurghada-cities-v2.webp"
+},
     description: { de: "Ein weltberühmtes Urlaubsziel am Roten Meer, bekannt für seine Korallenriffe.", hu: "Világhírű nyaralóhely a Vörös-tengeren, híres korallzátonyairól.", ro: "O destinație de vacanță faimoasă la nivel mondial la Marea Roșie, cunoscută pentru recifele sale de corali.", en: "A world-famous holiday destination on the Red Sea, known for its coral reefs." },
     facts: {
       de: ["Ehemaliges kleines Fischerdorf.", "Hotspot für Taucher."],
@@ -483,7 +521,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-KN",
     coords: [32.7157, 26.1642],
-    name: { de: "Qina", hu: "Kena", ro: "Qena", en: "Qena" },
+    name: { de: "Qina", hu: "Kena", ro: "Qena", en: "Qena",
+image: "/poi-images/qena-cities-v2.webp"
+},
     description: { de: "Eine historische Stadt, nahe an den antiken Tempeln von Dendera gelegen.", hu: "Történelmi város a denderai ókori templomok közelében.", ro: "Un oraș istoric, situat în apropiere de templele antice din Dendera.", en: "A historic city, located close to the ancient temples of Dendera." },
     facts: {
       de: ["Berühmt für Töpferwaren.", "Wichtige Station für Pilger."],
@@ -508,7 +548,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHG",
     coords: [31.7042, 26.557],
-    name: { de: "Sohag", hu: "Szohág", ro: "Sohag", en: "Sohag" },
+    name: { de: "Sohag", hu: "Szohág", ro: "Sohag", en: "Sohag",
+image: "/poi-images/sohag-cities-v2.webp"
+},
     description: { de: "Eine wichtige koptische und islamische Kulturstadt in Oberägypten.", hu: "Fontos kopt és iszlám kulturális város Felső-Egyiptomban.", ro: "Un important oraș cultural copt și islamic din Egiptul de Sus.", en: "An important Coptic and Islamic cultural city in Upper Egypt." },
     facts: {
       de: ["Zuhause vieler alter Klöster.", "Hat eine wachsende Universität."],
@@ -533,7 +575,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MNF",
     coords: [30.0169, 30.5631],
-    name: { de: "Schibin al-Kaum", hu: "Síbín el-Kóm", ro: "Shibin El Kom", en: "Shibin El Kom" },
+    name: { de: "Schibin al-Kaum", hu: "Síbín el-Kóm", ro: "Shibin El Kom", en: "Shibin El Kom",
+image: "/poi-images/shibin-el-kom-cities-v2.webp"
+},
     description: { de: "Die Hauptstadt des Gouvernements Monufia, ein Zentrum für Bildung und Handel.", hu: "Monufia kormányzóság fővárosa, az oktatás és a kereskedelem központja.", ro: "Capitala guvernoratului Monufia, un centru pentru educație și comerț.", en: "The capital of the Monufia Governorate, a center for education and trade." },
     facts: {
       de: ["Sitz der Menoufia-Universität.", "Umgeben von fruchtbaren Feldern."],
@@ -558,7 +602,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-QTB",
     coords: [31.1798, 30.4662],
-    name: { de: "Banha", hu: "Banha", ro: "Banha", en: "Banha" },
+    name: { de: "Banha", hu: "Banha", ro: "Banha", en: "Banha",
+image: "/poi-images/banha-cities-v2.webp"
+},
     description: { de: "Eine florierende Stadt zwischen Kairo und dem Delta, bekannt für ihre Honigproduktion.", hu: "Virágzó város Kairó és a delta között, híres méztermeléséről.", ro: "Un oraș înfloritor între Cairo și Deltă, cunoscut pentru producția sa de miere.", en: "A thriving city between Cairo and the Delta, known for its honey production." },
     facts: {
       de: ["Zentrum der ägyptischen Parfümindustrie.", "Großer Agrarmarkt."],
@@ -583,7 +629,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SIN",
     coords: [33.8, 31.1249],
-    name: { de: "al-Arisch", hu: "El-Arís", ro: "Arish", en: "Arish" },
+    name: { de: "al-Arisch", hu: "El-Arís", ro: "Arish", en: "Arish",
+image: "/poi-images/arish-cities-v2.webp"
+},
     description: { de: "Die größte Stadt auf der Sinai-Halbinsel an der Mittelmeerküste.", hu: "A Sínai-félsziget legnagyobb városa a Földközi-tenger partján.", ro: "Cel mai mare oraș din peninsula Sinai, pe coasta mediteraneană.", en: "The largest city on the Sinai Peninsula on the Mediterranean coast." },
     facts: {
       de: ["Bekannt für klare Strände.", "Bedeutende Beduinenbevölkerung."],
@@ -608,7 +656,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MN",
     coords: [30.8406, 27.7314],
-    name: { de: "Mallawi", hu: "Mallávi", ro: "Mallawi", en: "Mallawi" },
+    name: { de: "Mallawi", hu: "Mallávi", ro: "Mallawi", en: "Mallawi",
+image: "/poi-images/mallawi-cities-v2.webp"
+},
     description: { de: "Eine historisch reiche Stadt, in der sich archäologische und landwirtschaftliche Schätze treffen.", hu: "Történelmileg gazdag város, ahol régészeti és mezőgazdasági kincsek találkoznak.", ro: "Un oraș bogat istoric, unde se întâlnesc comori arheologice și agricole.", en: "A historically rich city where archaeological and agricultural treasures meet." },
     facts: {
       de: ["Heimat eines berühmten Museums.", "Große Textilproduktion."],
@@ -633,7 +683,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHR",
     coords: [31.745, 30.306],
-    name: { de: "Ramadan-Stadt", hu: "Ramadán 10. Város", ro: "10th of Ramadan City", en: "10th of Ramadan City" },
+    name: { de: "Ramadan-Stadt", hu: "Ramadán 10. Város", ro: "10th of Ramadan City", en: "10th of Ramadan City",
+image: "/poi-images/tenth-of-ramadan-cities-v2.webp"
+},
     description: { de: "Eine hochmoderne Industriestadt, die errichtet wurde, um Investitionen anzuziehen.", hu: "Ultramodern iparváros, amelyet a befektetések vonzására építettek.", ro: "Un oraș industrial ultramodern, construit pentru a atrage investiții.", en: "An ultra-modern industrial city built to attract investment." },
     facts: {
       de: ["Gegründet in den 1970er Jahren.", "Zieht viele internationale Firmen an."],
@@ -658,7 +710,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHR",
     coords: [31.5627, 30.4187],
-    name: { de: "Bilbeis", hu: "Bilbeisz", ro: "Bilbais", en: "Bilbais" },
+    name: { de: "Bilbeis", hu: "Bilbeisz", ro: "Bilbais", en: "Bilbais",
+image: "/poi-images/bilbais-cities-v2.webp"
+},
     description: { de: "Eine historisch bedeutsame Festungsstadt am östlichen Rand des Deltas.", hu: "Történelmileg jelentős erődváros a delta keleti szélén.", ro: "Un oraș-cetate semnificativ istoric la marginea estică a deltei.", en: "A historically significant fortress city on the eastern edge of the delta." },
     facts: {
       de: ["Standort der ägyptischen Luftfahrtakademie.", "War einst ein wichtiges Handelszentrum."],
@@ -683,7 +737,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MT",
     coords: [27.2453, 31.3543],
-    name: { de: "Marsa Matruh", hu: "Mersza Matrúh", ro: "Marsa Matruh", en: "Marsa Matruh" },
+    name: { de: "Marsa Matruh", hu: "Mersza Matrúh", ro: "Marsa Matruh", en: "Marsa Matruh",
+image: "/poi-images/marsa-matruh-cities-v2.webp"
+},
     description: { de: "Ein beliebtes ägyptisches Sommerziel mit atemberaubenden weißen Sandstränden.", hu: "Népszerű egyiptomi nyári úti cél lélegzetelállító fehér homokos strandokkal.", ro: "O destinație populară de vară în Egipt, cu plaje uimitoare cu nisip alb.", en: "A popular Egyptian summer destination with stunning white sand beaches." },
     facts: {
       de: ["Bekannt für Kleopatras Bad.", "Wichtiger Hafen im Zweiten Weltkrieg."],
@@ -708,7 +764,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-ASN",
     coords: [32.8756, 24.978],
-    name: { de: "Edfu", hu: "Edfu", ro: "Idfu", en: "Idfu" },
+    name: { de: "Edfu", hu: "Edfu", ro: "Idfu", en: "Idfu",
+image: "/poi-images/idfu-cities-v2.webp"
+},
     description: { de: "Eine oberägyptische Stadt, berühmt für ihren außergewöhnlich gut erhaltenen Tempel.", hu: "Felső-egyiptomi város, amely kivételesen jó állapotban fennmaradt templomáról híres.", ro: "Un oraș din Egiptul de Sus, faimos pentru templul său excepțional de bine conservat.", en: "An Upper Egyptian city famous for its exceptionally well-preserved temple." },
     facts: {
       de: ["Heimat des Horus-Tempels.", "Lebhaftes landwirtschaftliches Zentrum."],
@@ -733,7 +791,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-DK",
     coords: [31.2581, 30.7139],
-    name: { de: "Mit Ghamr", hu: "Mit Ghamr", ro: "Mit Ghamr", en: "Mit Ghamr" },
+    name: { de: "Mit Ghamr", hu: "Mit Ghamr", ro: "Mit Ghamr", en: "Mit Ghamr",
+image: "/poi-images/mit-ghamr-cities-v2.webp"
+},
     description: { de: "Eine wichtige Stadt zur Herstellung von Aluminium, gelegen am Damietta-Arm des Nils.", hu: "Az alumíniumgyártás fontos városa, a Nílus Damietta-ágán fekszik.", ro: "Un oraș important pentru producția de aluminiu, situat pe brațul Damietta al Nilului.", en: "An important city for aluminum production, located on the Damietta branch of the Nile." },
     facts: {
       de: ["Zentrum der Aluminiumverarbeitung.", "Pionierstadt im islamischen Bankwesen."],
@@ -758,7 +818,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GZ",
     coords: [31.2619, 29.8978],
-    name: { de: "al-Hawamidiyya", hu: "El-Hawámdija", ro: "Al Hawamdeya", en: "Al Hawamdeya" },
+    name: { de: "al-Hawamidiyya", hu: "El-Hawámdija", ro: "Al Hawamdeya", en: "Al Hawamdeya",
+image: "/poi-images/al-hawamdeya-cities-v2.webp"
+},
     description: { de: "Eine wachsende Industriestadt südlich von Gizeh, bekannt für Zuckerproduktion.", hu: "Növekvő iparváros Gízától délre, cukorgyártásáról ismert.", ro: "Un oraș industrial în creștere la sud de Giza, cunoscut pentru producția de zahăr.", en: "A growing industrial city south of Giza, known for sugar production." },
     facts: {
       de: ["Hat große Zuckerfabriken.", "Wichtiger Arbeitgeber der Region."],
@@ -783,7 +845,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-KFS",
     coords: [30.648, 31.1308],
-    name: { de: "Desuk", hu: "Keszúk", ro: "Desouk", en: "Desouk" },
+    name: { de: "Desuk", hu: "Keszúk", ro: "Desouk", en: "Desouk",
+image: "/poi-images/desouk-cities-v2.webp"
+},
     description: { de: "Eine bedeutende Stadt im Nildelta, ein Pilgerzentrum für Sufis.", hu: "Jelentős város a Nílus deltájában, a szúfik zarándokhelye.", ro: "Un oraș important în Delta Nilului, un centru de pelerinaj pentru sufiți.", en: "A significant city in the Nile Delta, a pilgrimage center for Sufis." },
     facts: {
       de: ["Heimat der Ibrahim El-Desouki Moschee.", "Gilt als islamische Hauptstadt der Region."],
@@ -808,7 +872,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-QTB",
     coords: [31.205, 30.1825],
-    name: { de: "Qalyub", hu: "Kaljúb", ro: "Qalyub", en: "Qalyub" },
+    name: { de: "Qalyub", hu: "Kaljúb", ro: "Qalyub", en: "Qalyub",
+image: "/poi-images/qalyub-cities-v2.webp"
+},
     description: { de: "Eine ländliche und dennoch industrialisierte Stadt, die an den Großraum Kairo grenzt.", hu: "Vidéki, mégis iparosodott város, amely Nagy-Kairóval határos.", ro: "Un oraș rural, dar industrializat, la granița cu zona metropolitană Cairo.", en: "A rural yet industrialized city bordering Greater Cairo." },
     facts: {
       de: ["Wichtiger Verkehrsknoten.", "Produziert landwirtschaftliche Maschinen."],
@@ -834,7 +900,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHR",
     coords: [31.675, 30.7303],
-    name: { de: "Abu Kabir", hu: "Abu Kebír", ro: "Abu Kabir", en: "Abu Kabir" },
+    name: { de: "Abu Kabir", hu: "Abu Kebír", ro: "Abu Kabir", en: "Abu Kabir",
+image: "/poi-images/abu-kabir-cities-v2.webp"
+},
     description: { de: "Eine traditionelle ägyptische Marktstadt mit reichem agrarischem Hintergrund.", hu: "Hagyományos egyiptomi piacváros, gazdag mezőgazdasági háttérrel.", ro: "Un oraș-târg egiptean tradițional cu un bogat fundal agricol.", en: "A traditional Egyptian market town with a rich agricultural background." },
     facts: {
       de: ["Wichtiger Umschlagplatz für Feldfrüchte.", "Erhält altägyptische ländliche Traditionen."],
@@ -859,7 +927,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-KFS",
     coords: [30.9401, 31.1107],
-    name: { de: "Kafr asch-Schaich", hu: "Kafr es-Sejk", ro: "Kafr El Sheikh", en: "Kafr El Sheikh" },
+    name: { de: "Kafr asch-Schaich", hu: "Kafr es-Sejk", ro: "Kafr El Sheikh", en: "Kafr El Sheikh",
+image: "/poi-images/kafr-el-sheikh-cities-v2.webp"
+},
     description: { de: "Die Hauptstadt des gleichnamigen Gouvernements, geprägt von Reisfeldern.", hu: "A hasonnevű kormányzóság fővárosa, rizsföldek jellemzik.", ro: "Capitala guvernoratului cu același nume, caracterizată prin câmpuri de orez.", en: "The capital of the governorate of the same name, characterized by rice fields." },
     facts: {
       de: ["Führend in der Reisproduktion.", "Standort der Kafr El Sheikh Universität."],
@@ -884,7 +954,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHG",
     coords: [31.8885, 26.3383],
-    name: { de: "Girga", hu: "Girga", ro: "Girga", en: "Girga" },
+    name: { de: "Girga", hu: "Girga", ro: "Girga", en: "Girga",
+image: "/poi-images/girga-cities-v2.webp"
+},
     description: { de: "Eine der ältesten dauerhaft bewohnten Städte am Nil in Oberägypten.", hu: "Az egyik legrégebbi folyamatosan lakott város a Níluson, Felső-Egyiptomban.", ro: "Unul dintre cele mai vechi orașe locuite continuu de pe Nil în Egiptul de Sus.", en: "One of the oldest continuously inhabited cities on the Nile in Upper Egypt." },
     facts: {
       de: ["War einst die Hauptstadt von Oberägypten.", "Hat eine alte Töpfertradition."],
@@ -909,7 +981,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-SHG",
     coords: [31.7454, 26.5622],
-    name: { de: "Achmim", hu: "Ahmím", ro: "Akhmim", en: "Akhmim" },
+    name: { de: "Achmim", hu: "Ahmím", ro: "Akhmim", en: "Akhmim",
+image: "/poi-images/akhmim-cities-v2.webp"
+},
     description: { de: "Eine Stadt mit pharaonischer Geschichte, heute bekannt für Textilien.", hu: "Fáraókori történelemmel rendelkező város, ma textíliáiról ismert.", ro: "Un oraș cu o istorie faraonică, astăzi cunoscut pentru textile.", en: "A city with pharaonic history, today known for textiles." },
     facts: {
       de: ["Berühmt für handgewebte Baumwolle.", "Beherbergt altägyptische Statuen."],
@@ -934,7 +1008,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-DK",
     coords: [32.0305, 31.1837],
-    name: { de: "al-Matariyya", hu: "El-Matarija", ro: "Matareya", en: "Matareya" },
+    name: { de: "al-Matariyya", hu: "El-Matarija", ro: "Matareya", en: "Matareya",
+image: "/poi-images/matareya-cities-v2.webp"
+},
     description: { de: "Eine Küstenstadt am Manzala-See mit starker Fischereiindustrie.", hu: "Tengerparti város a Manzala-tó partján, erős halászattal.", ro: "Un oraș de coastă pe lacul Manzala cu o puternică industrie a pescuitului.", en: "A coastal city on Lake Manzala with a strong fishing industry." },
     facts: {
       de: ["Wichtiger Lieferant von Süßwasserfisch.", "Historischer Zufluchtsort während Kriegen."],
@@ -959,7 +1035,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-KN",
     coords: [32.7667, 25.9147],
-    name: { de: "Qus", hu: "Kúsz", ro: "Qus", en: "Qus" },
+    name: { de: "Qus", hu: "Kúsz", ro: "Qus", en: "Qus",
+image: "/poi-images/qus-cities-v2.webp"
+},
     description: { de: "Einst eine bedeutende Handelsstadt in der islamischen Geschichte Ägyptens.", hu: "Egykor jelentős kereskedőváros Egyiptom iszlám történelmében.", ro: "Cândva un important oraș comercial în istoria islamică a Egiptului.", en: "Once an important trading city in Egypt's Islamic history." },
     facts: {
       de: ["Kontrollierte die Handelswege zum Roten Meer.", "Hat islamische Monumente."],
@@ -984,7 +1062,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-QTB",
     coords: [31.3667, 30.2081],
-    name: { de: "al-Chanka", hu: "El-Hánka", ro: "Khanka", en: "Khanka" },
+    name: { de: "al-Chanka", hu: "El-Hánka", ro: "Khanka", en: "Khanka",
+image: "/poi-images/khanka-cities-v2.webp"
+},
     description: { de: "Ein Vorort nordöstlich von Kairo mit einer Mischung aus Landwirtschaft und Industrie.", hu: "Kairótól északkeletre fekvő külváros, a mezőgazdaság és az ipar keverékével.", ro: "O suburbie la nord-est de Cairo, cu un amestec de agricultură și industrie.", en: "A suburb northeast of Cairo with a mix of agriculture and industry." },
     facts: {
       de: ["Bekannt für ein großes Krankenhaus für psychische Gesundheit.", "Nah am Stadtzentrum Kairos."],
@@ -1009,7 +1089,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-AST",
     coords: [31.3197, 27.0423],
-    name: { de: "Abu Tig", hu: "Abu Tídzs", ro: "Abu Tij", en: "Abu Tij" },
+    name: { de: "Abu Tig", hu: "Abu Tídzs", ro: "Abu Tij", en: "Abu Tij",
+image: "/poi-images/abu-tij-cities-v2.webp"
+},
     description: { de: "Eine kleine oberägyptische Stadt, die malerisch am Ufer des Nils liegt.", hu: "Kis felső-egyiptomi város, festői környezetben a Nílus partján.", ro: "Un mic oraș din Egiptul de Sus, situat pitoresc pe malul Nilului.", en: "A small Upper Egyptian city picturesquely situated on the banks of the Nile." },
     facts: {
       de: ["Hat einen historischen Obelisken.", "Zentrum für lokale Handwerkskunst."],
@@ -1034,7 +1116,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BH",
     coords: [30.4158, 31.4011],
-    name: { de: "Rosette", hu: "Rosetta", ro: "Rosetta", en: "Rosetta" },
+    name: { de: "Rosette", hu: "Rosetta", ro: "Rosetta", en: "Rosetta",
+image: "/poi-images/rosetta-cities-v2.webp"
+},
     description: { de: "Berühmt als Fundort des Steins von Rosette, eine malerische Hafenstadt.", hu: "A rosette-i kő lelőhelyeként híres, festői kikötőváros.", ro: "Faimos ca locul descoperirii Pietrei din Rosetta, un oraș portuar pitoresc.", en: "Famous as the discovery site of the Rosetta Stone, a picturesque port city." },
     facts: {
       de: ["Reiche osmanische Architektur.", "Liegt an der Nilmündung."],
@@ -1059,7 +1143,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GH",
     coords: [31.2464, 30.7106],
-    name: { de: "Zifta", hu: "Zifta", ro: "Zifta", en: "Zifta" },
+    name: { de: "Zifta", hu: "Zifta", ro: "Zifta", en: "Zifta",
+image: "/poi-images/zifta-cities-v2.webp"
+},
     description: { de: "Eine historische Stadt am Damietta-Arm, berühmt für ihren Unabhängigkeitsaufstand 1919.", hu: "Történelmi város a Damietta-ágon, híres 1919-es függetlenségi felkeléséről.", ro: "Un oraș istoric pe brațul Damietta, faimos pentru revolta sa de independență din 1919.", en: "A historic city on the Damietta branch, famous for its 1919 independence uprising." },
     facts: {
       de: ["Erklärte sich kurzzeitig zur Republik.", "Bedeutende Flusshandelsstadt."],
@@ -1084,7 +1170,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MN",
     coords: [30.8427, 27.6394],
-    name: { de: "Dair Mawas", hu: "Dajr Mavász", ro: "Deir Mawas", en: "Deir Mawas" },
+    name: { de: "Dair Mawas", hu: "Dajr Mavász", ro: "Deir Mawas", en: "Deir Mawas",
+image: "/poi-images/deir-mawas-cities-v2.webp"
+},
     description: { de: "Eine landwirtschaftliche Stadt in Mittelägypten nahe der antiken Hauptstadt Amarna.", hu: "Mezőgazdasági város Közép-Egyiptomban, az ókori főváros, Amarna közelében.", ro: "Un oraș agricol din Egiptul de Mijloc în apropiere de fosta capitală Amarna.", en: "An agricultural town in Middle Egypt near the ancient capital of Amarna." },
     facts: {
       de: ["Bedeutend im Zuckerrohranbau.", "Nah an Echnatons Stadt."],
@@ -1109,7 +1197,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MN",
     coords: [30.7126, 28.3121],
-    name: { de: "Samalut", hu: "Szamalut", ro: "Samalut", en: "Samalut" },
+    name: { de: "Samalut", hu: "Szamalut", ro: "Samalut", en: "Samalut",
+image: "/poi-images/samalut-cities-v2.webp"
+},
     description: { de: "Ein wichtiges koptisch-orthodoxes Zentrum in Mittelägypten.", hu: "Fontos kopt ortodox központ Közép-Egyiptomban.", ro: "Un important centru ortodox copt în Egiptul de Mijloc.", en: "An important Coptic Orthodox center in Middle Egypt." },
     facts: {
       de: ["Gilt als Ort der Heiligen Familie.", "Hat eine große Kathedrale."],
@@ -1134,7 +1224,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BA",
     coords: [34.28, 26.109],
-    name: { de: "al-Qusair", hu: "Al-Kuszair", ro: "El Quseir", en: "El Quseir" },
+    name: { de: "al-Qusair", hu: "Al-Kuszair", ro: "El Quseir", en: "El Quseir",
+image: "/poi-images/el-quseir-cities-v2.webp"
+},
     description: { de: "Ein antiker Hafen am Roten Meer, durch den Pharaonen Handel mit Punt trieben.", hu: "Ókori kikötő a Vörös-tengeren, amelyen keresztül a fáraók Puntfölddel kereskedtek.", ro: "Un port antic la Marea Roșie prin care faraonii făceau comerț cu Punt.", en: "An ancient port on the Red Sea through which pharaohs traded with Punt." },
     facts: {
       de: ["Hat eine osmanische Festung.", "Beliebt bei Tauchern."],
@@ -1159,7 +1251,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BA",
     coords: [33.936, 26.7323],
-    name: { de: "Safaga", hu: "Szafága", ro: "Safaga", en: "Safaga" },
+    name: { de: "Safaga", hu: "Szafága", ro: "Safaga", en: "Safaga",
+image: "/poi-images/safaga-cities-v2.webp"
+},
     description: { de: "Ein wichtiger Hafen für Phosphatexporte und ein Ziel für Gesundheitsreisen.", hu: "Foszfátexport fontos kikötője és az egészségturizmus célpontja.", ro: "Un port important pentru exportul de fosfați și o destinație pentru turismul de sănătate.", en: "An important port for phosphate exports and a destination for health tourism." },
     facts: {
       de: ["Berühmt für schwarzen Sand.", "Wichtiger Fährhafen nach Saudi-Arabien."],
@@ -1184,7 +1278,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-BA",
     coords: [34.8967, 25.0718],
-    name: { de: "Marsa Alam", hu: "Marsza Alam", ro: "Marsa Alam", en: "Marsa Alam" },
+    name: { de: "Marsa Alam", hu: "Marsza Alam", ro: "Marsa Alam", en: "Marsa Alam",
+image: "/poi-images/marsa-alam-cities-v2.webp"
+},
     description: { de: "Ein rasant wachsender Ferienort im tiefen Süden des Roten Meeres.", hu: "Gyorsan növekvő üdülőhely a Vörös-tenger mély délén.", ro: "O stațiune cu creștere rapidă în sudul adânc al Mării Roșii.", en: "A rapidly growing resort in the deep south of the Red Sea." },
     facts: {
       de: ["Hat einen eigenen Flughafen.", "Bekannt für Seekühe und Meeresschildkröten."],
@@ -1209,7 +1305,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-MT",
     coords: [25.5197, 29.2032],
-    name: { de: "Siwa", hu: "Szíva", ro: "Siwa", en: "Siwa" },
+    name: { de: "Siwa", hu: "Szíva", ro: "Siwa", en: "Siwa",
+image: "/poi-images/siwa-cities-v2.webp"
+},
     description: { de: "Eine isolierte Oasenstadt nahe der libyschen Grenze mit einzigartiger Kultur.", hu: "Elszigetelt oázisváros a líbiai határ közelében, egyedülálló kultúrával.", ro: "Un oraș oază izolat în apropiere de granița cu Libia, cu o cultură unică.", en: "An isolated oasis town near the Libyan border with a unique culture." },
     facts: {
       de: ["Sprechen eine Berbersprache.", "Standort des Orakels von Amun."],
@@ -1234,7 +1332,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-WAD",
     coords: [30.5522, 25.439],
-    name: { de: "al-Charga", hu: "Hárga", ro: "Kharga", en: "Kharga" },
+    name: { de: "al-Charga", hu: "Hárga", ro: "Kharga", en: "Kharga",
+image: "/poi-images/kharga-cities-v2.webp"
+},
     description: { de: "Die modernste Oase in der westlichen Wüste und Hauptstadt des Gouvernements Neues Tal.", hu: "A legmodernebb oázis a Nyugati-sivatagban és az Új-völgy kormányzóság fővárosa.", ro: "Cea mai modernă oază din Deșertul de Vest și capitala Guvernoratului Valea Nouă.", en: "The most modern oasis in the Western Desert and capital of the New Valley Governorate." },
     facts: {
       de: ["Besitzt Tempel aus römischer Zeit.", "Zentrum der Dattelproduktion."],
@@ -1259,7 +1359,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-WAD",
     coords: [28.9774, 25.5173],
-    name: { de: "Dachla", hu: "Dakhla", ro: "Dakhla", en: "Dakhla" },
+    name: { de: "Dachla", hu: "Dakhla", ro: "Dakhla", en: "Dakhla",
+image: "/poi-images/dakhla-cities-v2.webp"
+},
     description: { de: "Eine Ansammlung von Siedlungen in einer fruchtbaren Senke der Wüste.", hu: "Települések sora a sivatag egyik termékeny medencéjében.", ro: "O colecție de așezări într-o depresiune fertilă a deșertului.", en: "A cluster of settlements in a fertile depression of the desert." },
     facts: {
       de: ["Alte Lehmziegelarchitektur.", "Reiche landwirtschaftliche Erträge."],
@@ -1284,7 +1386,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-WAD",
     coords: [27.9701, 27.0592],
-    name: { de: "Farafra", hu: "Farafra", ro: "Farafra", en: "Farafra" },
+    name: { de: "Farafra", hu: "Farafra", ro: "Farafra", en: "Farafra",
+image: "/poi-images/farafra-cities-v2.webp"
+},
     description: { de: "Die kleinste Hauptoase, bekannt als Tor zur Weißen Wüste.", hu: "A legkisebb főoázis, a Fehér-sivatag kapujaként ismert.", ro: "Cea mai mică oază principală, cunoscută ca poarta către Deșertul Alb.", en: "The smallest main oasis, known as the gateway to the White Desert." },
     facts: {
       de: ["Bietet heiße Quellen.", "Traditioneller Lebensstil."],
@@ -1309,7 +1413,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GZ",
     coords: [28.8659, 28.3492],
-    name: { de: "Bawiti", hu: "Bawiti", ro: "Bawiti", en: "Bawiti" },
+    name: { de: "Bawiti", hu: "Bawiti", ro: "Bawiti", en: "Bawiti",
+image: "/poi-images/bawiti-cities-v2.webp"
+},
     description: { de: "Die Hauptsiedlung der Bahariyya-Oase, berühmt für das Tal der Goldenen Mumien.", hu: "A Baharija-oázis fő települése, híres az Arany Múmiák Völgyéről.", ro: "Așezarea principală din oaza Bahariya, faimoasă pentru Valea Mumiilor de Aur.", en: "The main settlement of the Bahariya Oasis, famous for the Valley of the Golden Mummies." },
     facts: {
       de: ["Umgeben von schwarzen Hügeln.", "Ausgangspunkt für Wüstentouren."],
@@ -1334,7 +1440,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-JS",
     coords: [33.6212, 28.2393],
-    name: { de: "at-Tur", hu: "Et-Túr", ro: "El Tor", en: "El Tor" },
+    name: { de: "at-Tur", hu: "Et-Túr", ro: "El Tor", en: "El Tor",
+image: "/poi-images/el-tor-cities-v2.webp"
+},
     description: { de: "Die Verwaltungshauptstadt des Süd-Sinai, ein wichtiger Ort für koptische Christen.", hu: "A Dél-Sínai közigazgatási fővárosa, a kopt keresztények fontos helye.", ro: "Capitala administrativă a Sinaiului de Sud, un loc important pentru creștinii copți.", en: "The administrative capital of South Sinai, an important place for Coptic Christians." },
     facts: {
       de: ["Mosesquelle in der Nähe.", "Friedliche Küstenstadt."],
@@ -1359,7 +1467,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-JS",
     coords: [34.3299, 27.9158],
-    name: { de: "Scharm asch-Schaich", hu: "Sarm es-Sejk", ro: "Sharm El Sheikh", en: "Sharm El Sheikh" },
+    name: { de: "Scharm asch-Schaich", hu: "Sarm es-Sejk", ro: "Sharm El Sheikh", en: "Sharm El Sheikh",
+image: "/poi-images/sharm-el-sheikh-cities-v2.webp"
+},
     description: { de: "Ein international renommiertes Resort an der Südspitze der Sinai-Halbinsel.", hu: "Nemzetközileg elismert üdülőhely a Sínai-félsziget déli csücskén.", ro: "O stațiune de renume internațional în extremitatea sudică a peninsulei Sinai.", en: "An internationally renowned resort at the southern tip of the Sinai Peninsula." },
     facts: {
       de: ["Stadt des Friedens genannt.", "Austragungsort vieler Gipfeltreffen."],
@@ -1384,7 +1494,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-JS",
     coords: [34.5134, 28.5013],
-    name: { de: "Dahab", hu: "Dahab", ro: "Dahab", en: "Dahab" },
+    name: { de: "Dahab", hu: "Dahab", ro: "Dahab", en: "Dahab",
+image: "/poi-images/dahab-cities-v2.webp"
+},
     description: { de: "Ein entspanntes Beduinendorf, das sich in ein Backpacker-Paradies verwandelt hat.", hu: "Egy nyugodt beduin falu, amely hátizsákos paradicsommá változott.", ro: "Un sat de beduini relaxat, care s-a transformat într-un paradis pentru excursioniști.", en: "A laid-back Bedouin village turned backpacker paradise." },
     facts: {
       de: ["Berühmt für das Blue Hole.", "Weltklasse Windsurfen."],
@@ -1409,7 +1521,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-JS",
     coords: [34.6659, 28.9972],
-    name: { de: "Nuwaiba", hu: "Nuveiba", ro: "Nuweiba", en: "Nuweiba" },
+    name: { de: "Nuwaiba", hu: "Nuveiba", ro: "Nuweiba", en: "Nuweiba",
+image: "/poi-images/nuweiba-cities-v2.webp"
+},
     description: { de: "Eine ruhige Küstenstadt, die Ägypten über Fähren mit Jordanien verbindet.", hu: "Csendes tengerparti város, amely komppal köti össze Egyiptomot Jordániával.", ro: "Un oraș de coastă liniștit care leagă Egiptul de Iordania prin feriboturi.", en: "A quiet coastal town connecting Egypt to Jordan via ferries." },
     facts: {
       de: ["Blick auf die Berge Saudi-Arabiens.", "Startpunkt für den Coloured Canyon."],
@@ -1434,7 +1548,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-LX",
     coords: [32.6396, 25.6872],
-    name: { de: "Luxor", hu: "Luxor", ro: "Luxor", en: "Luxor" },
+    name: { de: "Luxor", hu: "Luxor", ro: "Luxor", en: "Luxor",
+image: "/poi-images/luxor-cities-v2.webp"
+},
     description: { de: "Oft als das größte Freilichtmuseum der Welt bezeichnet, erbaut auf dem antiken Theben.", hu: "Gyakran a világ legnagyobb szabadtéri múzeumának nevezik, az ókori Théba helyén épült.", ro: "Adesea descris ca cel mai mare muzeu în aer liber din lume, construit pe vechiul Teba.", en: "Often described as the world's greatest open-air museum, built on ancient Thebes." },
     facts: {
       de: ["Heimat des Tals der Könige.", "Beherbergt den Karnak-Tempel."],
@@ -1459,7 +1575,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-C",
     coords: [31.4682, 30.0232],
-    name: { de: "Neu-Kairo", hu: "Új-Kairó", ro: "Noul Cairo", en: "New Cairo" },
+    name: { de: "Neu-Kairo", hu: "Új-Kairó", ro: "Noul Cairo", en: "New Cairo",
+image: "/poi-images/new-cairo-cities-v2.webp"
+},
     description: { de: "Eine der größten neuen Städte Ägyptens, um den Stau in Kairo zu lindern.", hu: "Egyiptom egyik legnagyobb új városa, a kairói torlódások enyhítésére.", ro: "Unul dintre cele mai mari orașe noi din Egipt, pentru a atenua congestia din Cairo.", en: "One of Egypt's largest new cities, built to alleviate congestion in Cairo." },
     facts: {
       de: ["Sitz der American University.", "Moderne Wohn- und Geschäftszentren."],
@@ -1484,7 +1602,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     type: "city",
     parent: "EG-GZ",
     coords: [29.988, 29.9372],
-    name: { de: "Stadt des 6. Oktober", hu: "Október 6. Város", ro: "Orașul 6 Octombrie", en: "6th of October City" },
+    name: { de: "Stadt des 6. Oktober", hu: "Október 6. Város", ro: "Orașul 6 Octombrie", en: "6th of October City",
+image: "/poi-images/sixth-of-october-cities-v2.webp"
+},
     description: { de: "Eine moderne Industriestadt, benannt nach dem Datum des Krieges von 1973.", hu: "Modern iparváros, amelyet az 1973-as háború dátumáról neveztek el.", ro: "Un oraș industrial modern, numit după data războiului din 1973.", en: "A modern industrial city, named after the date of the 1973 war." },
     facts: {
       de: ["Großes Industriegebiet.", "Heimat vieler Medienunternehmen."],

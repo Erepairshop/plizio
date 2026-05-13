@@ -7,7 +7,9 @@ export const poiExtraEritreaNatureV2: POI[] = [
     type: "island",
     parent: "ER-SK",
     coords: [40.0833, 15.75],
-    name: { de: "Dahlak-Archipel", hu: "Dahlak-szigetek", ro: "Arhipelagul Dahlak", en: "Dahlak Archipelago" },
+    name: { de: "Dahlak-Archipel", hu: "Dahlak-szigetek", ro: "Arhipelagul Dahlak", en: "Dahlak Archipelago",
+image: "/poi-images/dahlak-archipelago-nature-v2.webp"
+},
     description: { de: "Eine Inselgruppe im Roten Meer vor der Küste Eritreas.", hu: "Szigetcsoport a Vörös-tengerben, Eritrea partjainál.", ro: "Un arhipelag în Marea Roșie, în largul coastei Eritreei.", en: "An archipelago in the Red Sea off the coast of Eritrea." },
     facts: {
       de: ["Besteht aus über 200 Inseln.", "Bekannt für Korallenriffe.", "Reiche Meeresfauna."],
@@ -32,7 +34,9 @@ export const poiExtraEritreaNatureV2: POI[] = [
     type: "river",
     parent: "ER-DU",
     coords: [36.4, 15.6],
-    name: { de: "Gash", hu: "Gash folyó", ro: "Râul Gash", en: "Gash River" },
+    name: { de: "Gash", hu: "Gash folyó", ro: "Râul Gash", en: "Gash River",
+image: "/poi-images/gash-river-nature-v2.webp"
+},
     description: { de: "Ein saisonaler Fluss, der im eritreischen Hochland entspringt.", hu: "Szezonális folyó, amely Eritrea felföldjén ered.", ro: "Un râu sezonier care izvorăște din munții Eritreei.", en: "A seasonal river originating in the highlands of Eritrea." },
     facts: {
       de: ["Fließt nach Sudan.", "Wichtig für die Landwirtschaft.", "Trocknet oft aus."],
@@ -57,7 +61,9 @@ export const poiExtraEritreaNatureV2: POI[] = [
     type: "mountain",
     parent: "ER-DU",
     coords: [39.4667, 14.7333],
-    name: { de: "Soira", hu: "Soira", ro: "Soira", en: "Soira" },
+    name: { de: "Soira", hu: "Soira", ro: "Soira", en: "Soira",
+image: "/poi-images/soira-mountain-nature-v2.webp"
+},
     description: { de: "Der höchste Berg Eritreas.", hu: "Eritrea legmagasabb hegye.", ro: "Cel mai înalt munte din Eritreea.", en: "The highest mountain in Eritrea." },
     facts: {
       de: ["Höhe ca. 3018 Meter.", "Teil des Hochlandes.", "Spektakuläre Aussicht."],

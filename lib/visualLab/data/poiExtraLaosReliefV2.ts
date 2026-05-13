@@ -12,7 +12,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu Bia",
       ro: "Phou Bia",
       en: "Phou Bia",
-    },
+image: "/poi-images/phou-bia-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Phou Bia ist der höchste Gipfel in Laos und ein faszinierendes geografisches Wahrzeichen in der Provinz Xiangkhoang. Mit einer beeindruckenden Höhe von fast dreitausend Metern dominiert dieser majestätische Berg das zerklüftete Annamitengebirge. Obwohl die Region von dichter, unberührter Dschungel-Vegetation geprägt ist, bleibt der Berg für Zivilisten unzugänglich. Die unberührte Natur rund um den Gipfel dient als lebenswichtiges Wassereinzugsgebiet für die umliegenden Täler. Historisch gesehen spielte das Gebiet während der Konflikte in Indochina eine strategische Rolle. Heute ist es ein Symbol für die wilde, ungezähmte Landschaft von Südostasien. Sachkunde K6 — Gebirgslandschaften.",
       hu: "A Phu Bia Laosz legmagasabb csúcsa, amely a Xiangkhoang tartomány vad és érintetlen hegyvidékén emelkedik. A közel háromezer méteres magasságával a monumentális Annamite-hegység meghatározó földrajzi tájékozódási pontja. Bár a hegyoldalakat áthatolhatatlan trópusi dzsungel borítja, a csúcs környéke a katonai jelenlét miatt civilek számára továbbra is megközelíthetetlen. A hegy érintetlen ökoszisztémája létfontosságú vízgyűjtő területként szolgál az észak-laoszi völgyek folyói számára. A múlt századi indokínai konfliktusok során ez az elzárt régió stratégiai menedéket nyújtott a helyi harcosoknak. Ma a délkelet-ázsiai táj megszelídíthetetlen erejének szimbóluma, amelynek rejtélyes erdei számtalan ritka élőlényt rejtenek. Földrajz K6 — Hegységrendszerek.",
@@ -49,7 +50,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Xiangkhoang-fennsík",
       ro: "Podișul Xiangkhoang",
       en: "Xiangkhoang Plateau",
-    },
+image: "/poi-images/xiangkhoang-plateau-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Xiangkhoang-Hochebene in Nordlaos ist ein faszinierendes geografisches und historisches Zentrum. Auf über tausend Metern Höhe gelegen, bietet sie ein kühleres Klima als die tropischen Tiefländer. Diese weite Hochebene ist weltberühmt für die mysteriöse Ebene der Tonkrüge, deren Ursprung bis heute Rätsel aufgibt. Die Region ist von sanften Hügeln und Grasland geprägt, das einen starken Kontrast zu den dichten Dschungeln anderer laotischer Provinzen bildet. Leider zeugt die zerklüftete Landschaft auch von den massiven Bombardierungen während des Vietnamkriegs, die tiefe Krater hinterließen. Heute erholt sich die Natur und zieht Archäologen und Abenteurer an. Geografie K7 — Hochplateaus.",
       hu: "A Xiangkhoang-fennsík Észak-Laosz egyik legkülönlegesebb geológiai és történelmi központja, amely éles kontrasztot alkot az ország többi részére jellemző fülledt dzsungelekkel. Az ezer méter feletti átlagmagasság hűvösebb mikroklímát biztosít az itt elterülő hatalmas, füves lankáknak. A régió világhírét az ősi Kancsók síksága adja, ahol évezredes kőedények hevernek a nyílt terepen, melyek eredete máig régészeti rejtély. A 20. század második felében a vietnámi háború pusztítása mély krátereket hagyott a tájban, de a természet lassan visszahódította a területet. Ma ez a szélfútta magasföld a laoszi történelem élő múzeuma, ahol ősi kultúrák nyomai találkoznak a modern megújulással. Történelem K7 — Ősi civilizációk.",
@@ -86,7 +88,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Bolaven-fennsík",
       ro: "Podișul Bolaven",
       en: "Bolaven Plateau",
-    },
+image: "/poi-images/bolaven-plateau-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Bolaven-Plateau im Süden von Laos ist eine außergewöhnlich fruchtbare Hochebene, die von malerischen Wasserfällen und üppigen Regenwäldern durchzogen wird. Mit Höhen zwischen tausend und über tausenddreihundert Metern bietet es ein erfrischendes Klima. Diese geografische Besonderheit ist das schlagende Herz der laotischen Kaffeeproduktion. Besucher werden von atemberaubenden Naturschauspielen wie dem Zwillingswasserfall Tad Fane oder dem majestätischen Tad Yuang angezogen. Die vulkanischen Böden der Hochebene sind nicht nur ideal für Kaffee, sondern auch für Kardamom, Tee und verschiedene Früchte. Die Region ist zudem die Heimat zahlreicher indigener ethnischer Minderheiten. Geografie K8 — Agrarwirtschaft.",
       hu: "A Bolaven-fennsík Dél-Laosz lüktető mezőgazdasági szíve, ahol a vulkáni eredetű, tápanyagban gazdag talaj és a hűvös hegyi klíma tökéletes feltételeket teremt a kávétermesztéshez. Az ezer és ezerháromszáz méter közötti magasságban elterülő platót lélegzetelállító, mélybe zuhanó vízesések szabdalják, mint a híres Tad Fane ikervízesés. A francia gyarmati időszakban betelepített kávécserjék mára a régió legfőbb exportcikkévé váltak, amit kardamom és tea ültetvények egészítenek ki. A sűrű trópusi erdőkkel övezett magasföld számos mon-khmer nyelvet beszélő őslakos törzsnek ad otthont, akik generációk óta művelik ezt a termékeny földet. Földrajz K8 — Agrárgazdaság.",
@@ -123,7 +126,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu Den Din",
       ro: "Phou Den Din",
       en: "Phou Den Din",
-    },
+image: "/poi-images/phou-den-din-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Phou Den Din ist ein abgelegener Berg im gleichnamigen Nationalpark im äußersten Norden von Laos, an der Grenze zu Vietnam. Diese Region gehört zu den unberührtesten und am wenigsten erforschten Wildnisgebieten Südostasiens. Die steilen Hänge und dichten Wälder des Berges bieten einen sicheren Hafen für eine Vielzahl seltener Tier- und Pflanzenarten, darunter wilde Elefanten und unzählige Vogelarten. Die schwer zugängliche Topografie hat diese majestätische Landschaft vor starker menschlicher Entwicklung bewahrt. Expeditionen in dieses Gebiet erfordern tagelange Bootsfahrten auf dem Fluss Nam Ou. Die ungezähmte Natur hier ist ein wahres Paradies für Biodiversität. Biologie K7 — Biodiversität.",
       hu: "A Phu Den Din hegycsúcs Laosz legészakibb, Vietnam határolta peremén emelkedik, a nevét viselő nemzeti park mélyén. Ez az izolált, úttalan dzsungel Délkelet-Ázsia egyik legutolsó, érintetlen vadonja, ahová csak többnapos, folyami csónakázással lehet eljutni a Nam Ou vizén. A meredek, sűrű trópusi erdőkkel borított hegyoldalak menedéket nyújtanak a kihalás szélén álló ázsiai elefántoknak, fekete medvéknek és ritka madárfajoknak. A terület extrém földrajzi elzártsága megóvta az emberi beavatkozástól, így a biológiai sokféleség szinte eredeti állapotában maradt fenn. Egy igazi felfedezetlen édenkert, ahol a természet törvényei az uralkodóak. Biológia K7 — Biodiverzitás.",
@@ -160,7 +164,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Nam Ou-völgy",
       ro: "Valea Nam Ou",
       en: "Nam Ou Valley",
-    },
+image: "/poi-images/nam-ou-valley-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das malerische Nam-Ou-Tal in Nordlaos wird von dramatischen, steil aufragenden Kalksteinkarstfelsen gesäumt. Der Fluss Nam Ou schlängelt sich über Hunderte von Kilometern durch tiefe Schluchten, bevor er in den Mekong mündet. Diese beeindruckende Flusstallandschaft beherbergt traditionelle Dörfer, die eng mit dem Wasser verbunden sind. Die hoch aufragenden Klippen und geheimnisvollen Höhlen entlang des Flussufers, wie die heiligen Pak-Ou-Höhlen, ziehen seit Jahrhunderten Pilger an. Kürzlich errichtete Staudämme verändern langsam die Dynamik des Tals, doch die raue Schönheit der steilen Karstberge bleibt ein atemberaubendes Naturwunder. Geografie K6 — Flusstäler.",
       hu: "A Nam Ou-völgy Észak-Laosz egyik legdrámaibb természeti formációja, ahol a smaragdzöld folyó monumentális, függőleges karsztsziklák között kanyarog. A folyó több mint négyszáz kilométeren át vágja át magát a hegyeken, mielőtt a Pak Ou szent barlangjainál a Mekongba ömlik. Évszázadokon keresztül ez a mély szurdokvölgy szolgált az egyetlen biztonságos közlekedési útvonalként a hegyvidéki falvak és a síkvidék között. A part menti meredek mészkőfalak rejtekében buddhista zarándokhelyek és ősi települések bújnak meg. Az utóbbi években épített vízerőművek megváltoztatták a folyó sodrását, de a szurdok vad, ősi szépsége töretlen maradt. Földrajz K6 — Folyóvölgyek.",
@@ -197,7 +202,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu Szamszun",
       ro: "Phou Samsoun",
       en: "Phou Samsoun",
-    },
+image: "/poi-images/phou-samsoun-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Phou Samsoun erhebt sich als markanter und isolierter Berggipfel in der gebirgigen Provinz Xiangkhoang. Mit über zweitausendsechshundert Metern Höhe gehört er zu den herausragenden Erhebungen im Norden von Laos. Die raue Topografie und die dichten, schwer durchdringlichen Nebelwälder machen ihn zu einem echten Abenteuer für Entdecker. Für die lokalen indigenen Gemeinschaften hat dieser Berg eine tiefe spirituelle Bedeutung und wird oft in Legenden erwähnt. Die extrem isolierte Lage fernab großer Straßen hat seine ursprüngliche Flora und Fauna bewahrt. Sein markantes Profil ist schon aus großer Entfernung ein Orientierungspunkt. Geografie K7 — Bergökosysteme.",
       hu: "A Phu Szamszun egy elkülönült, masszív hegycsúcs Xiangkhoang tartomány zord vidékén, amely több mint kétezer-hatszáz méteres magasságával uralja a látóhatárt. A hegy meredek lejtőit sűrű, gyakran áthatolhatatlan köderdő borítja, amely egyedülálló, endemikus növényfajok százait rejti. Az itt élő őslakos közösségek számára a csúcs mély spirituális jelentőséggel bír, a helyi legendák gyakran hivatkoznak rá mint az ősök szellemeinek lakhelyére. Mivel távol esik a kiépített főutaktól, ökoszisztémája szinte teljesen mentes maradt a modern kor behatásaitól. A hegy éles sziluettje fontos tájékozódási pont a vándorok és pásztorok számára. Földrajz K7 — Hegyi ökoszisztémák.",
@@ -235,7 +241,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Nakai-fennsík",
       ro: "Podișul Nakai",
       en: "Nakai Plateau",
-    },
+image: "/poi-images/nakai-plateau-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Nakai-Hochebene in Zentrallaos ist ein Gebiet von enormer ökologischer und wirtschaftlicher Bedeutung. Einst von ausgedehnten Wäldern und Feuchtgebieten geprägt, veränderte das gigantische Nam Theun 2 Wasserkraftprojekt die Landschaft dramatisch. Ein erheblicher Teil der Hochebene ist heute ein riesiger Stausee, der als wichtige Energiequelle dient. Trotz dieser Veränderungen bleibt die umliegende Nakai-Nam Theun National Protected Area ein globaler Hotspot für Biodiversität. Hier leben einige der seltensten Säugetiere der Erde, darunter das mysteriöse Saola, auch bekannt als asiatisches Einhorn. Das Plateau ist ein Paradebeispiel für den Spagat zwischen Naturschutz und Entwicklung. Sachkunde K8 — Wasserkraft.",
       hu: "A Közép-Laoszban elterülő Nakai-fennsík egy olyan egyedülálló terület, ahol a modern technológia és az ősi természet találkozik. Egykor kiterjedt trópusi erdőségek és mocsarak borították, ám a gigantikus Nam Theun 2 vízerőmű megépülése után a plató jelentős része egy óriási mesterséges tóvá alakult. Annak ellenére, hogy a táj drasztikusan megváltozott, az ezt körülölelő Nakai-Nam Theun Nemzeti Park továbbra is a bolygó egyik legfontosabb biodiverzitási forrópontja. Ezek a hegyvidéki dzsungelek rejtik a ritka és misztikus szaolát, az úgynevezett ázsiai unikornist. A terület a természeti erőforrások kihasználásának és védelmének összetett példája. Természettudomány K8 — Vízenergia.",
@@ -272,7 +279,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu Khun-hágó",
       ro: "Pasul Phou Khoun",
       en: "Phou Khoun Pass",
-    },
+image: "/poi-images/phou-khoun-pass-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Phou-Khoun-Pass ist eine lebenswichtige, hochgelegene Bergstraße, die sich durch die dramatische Bergwelt im Norden von Laos schlängelt. Auf rund eintausenddreihundert Metern Höhe bietet der Pass spektakuläre, wolkenverhangene Ausblicke über tief eingeschnittene Täler. Als wichtigster Verkehrsknotenpunkt verbindet diese kurvenreiche Route die einstige Königsstadt Luang Prabang mit der Hauptstadt Vientiane sowie den Ebenen im Osten. Die Fahrt über den Pass ist berüchtigt für ihre zahllosen Haarnadelkurven und die steilen Abgründe. Kleine Bergdörfer der Hmong-Minderheit säumen die Straße und profitieren vom durchreisenden Verkehr. Geografie K5 — Verkehrswege.",
       hu: "A Phu Khun-hágó egy stratégiai jelentőségű, magasan fekvő hegyi útvonal, amely Észak-Laosz vad szikláin vág keresztül. Az ezerháromszáz méteres magasságban kanyargó út gyakran sűrű felhőkbe burkolózik, pereméről pedig szédítő kilátás nyílik a mélybe zuhanó völgyekre. Ez az aszfaltozott hegyi gerinc köti össze az egykori királyi várost, Luang Prabangot a fővárossal, Vientiane-nal, ami létfontosságú gazdasági és kereskedelmi ütőérré teszi. Az éles hajtűkanyarok és a meredek lejtők próbára teszik az utazókat. A hágó mentén apró hmong falvak sorakoznak, amelyek a tranzitforgalomból és a teraszos mezőgazdaságból tartják fenn magukat. Földrajz K5 — Közlekedési hálózatok.",
@@ -309,7 +317,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Nam Ha-völgy",
       ro: "Valea Nam Ha",
       en: "Nam Ha Valley",
-    },
+image: "/poi-images/nam-ha-valley-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das malerische Nam-Ha-Tal liegt tief im Nordwesten von Laos, verborgen in der gebirgigen Provinz Luang Namtha. Das Tal ist das Herzstück des gleichnamigen Nam Ha Nationalparks, einem der am besten geschützten Naturreservate des Landes. Durchzogen vom wilden Fluss Nam Ha, ist diese Region ein Zentrum für nachhaltigen Ökotourismus, wo Besucher durch unberührte Dschungel trekken. Die steilen, bewaldeten Hänge des Tals sind das Rückzugsgebiet für Nebelparder, asiatische Schwarzbären und eine Vielzahl von Affenarten. Für die lokalen Bergvölker, die am Flussufer leben, bietet das Tal wertvolle Ressourcen und fruchtbares Land. Biologie K7 — Naturschutz.",
       hu: "A Nam Ha-völgy egy érintetlen természeti paradicsom Laosz északnyugati szegletében, Luang Namtha tartomány sűrű hegyei között. A rohanó Nam Ha folyó által kivájt völgy a híres Nam Ha Nemzeti Park központja, amely az ázsiai ökoturizmus egyik sikertörténete. A meredek, dzsungellel borított hegyoldalak alatt az utazók többnapos túrákon fedezhetik fel a vadont, amely ködfoltos párducoknak, ázsiai fekete medvéknek és makákóknak ad menedéket. A folyóparti apró településeken élő őslakosok szorosan együttműködnek a természetvédelemmel, fenntartható módon használva a völgy gazdag bambusz- és gyógynövényforrásait. Biológia K7 — Természetvédelem.",
@@ -346,7 +355,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu Ane",
       ro: "Phou Ane",
       en: "Phou Ane",
-    },
+image: "/poi-images/phou-ane-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der majestätische Berg Phou Ane erhebt sich in der südlichen laotischen Provinz Attapeu, nahe der dicht bewaldeten Grenze zu Vietnam. Dieser Gipfel ist Teil des ausgedehnten Annamitengebirges, das als natürliche Barriere zwischen den beiden Ländern dient. Die Hänge des Phou Ane sind von immergrünem tropischem Regenwald bedeckt, der eine unberührte und wilde Atmosphäre ausstrahlt. Diese abgelegene Grenzregion ist bekannt für ihre schwer zugängliche Topografie, was sie zu einem perfekten Zufluchtsort für eine noch kaum erforschte Tierwelt macht. In der Vergangenheit war diese raue Landschaft Schauplatz logistischer Routen während regionaler Konflikte. Geografie K8 — Gebirgsketten.",
       hu: "A Phu Ane hegytömb egy áthatolhatatlan természeti bástya Dél-Laoszban, Attapeu tartomány határvidékén. A monumentális Annamite-hegység déli nyúlványaként ez a hegység természetes falként tornyosul Laosz és Vietnam között. Lejtőit sűrű, ősi trópusi esőerdő takarja, amely az esős évszakban szinte állandó ködbe burkolózik. A zord és megközelíthetetlen domborzat miatt a régió mentes maradt a modern emberi beavatkozásoktól, így a terület az ázsiai vadon élővilágának egyik legtisztább szentélye. A 20. század konfliktusai idején ezek a rejtett hegyi ösvények titkos utánpótlási vonalakként szolgáltak a fák sűrű árnyékában. Földrajz K8 — Határhegységek.",
@@ -383,7 +393,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Kancsók síksága",
       ro: "Câmpia Urcioarelor",
       en: "Plain of Jars",
-    },
+image: "/poi-images/plain-of-jars-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die geheimnisvolle Ebene der Tonkrüge ist ein riesiges archäologisches Areal, das sich über die grüne Xiangkhoang-Hochebene in Nordlaos erstreckt. Tausende massiver Steinkrüge, einige davon bis zu drei Meter hoch und mehrere Tonnen schwer, sind hier über weite Felder verstreut. Forscher glauben, dass diese megalithischen Strukturen vor über zweitausend Jahren im Rahmen komplexer Bestattungsrituale errichtet wurden. Die Stätte wurde im Jahr 2019 offiziell in die Liste des UNESCO-Weltkulturerbes aufgenommen. Trotz der schweren Verwüstungen durch Bombenangriffe im 20. Jahrhundert bleibt die Ebene ein eindrucksvolles Zeugnis einer längst untergegangenen Eisenzeitkultur. Geschichte K6 — Archäologie.",
       hu: "A Kancsók síksága Laosz legtitokzatosabb és leglenyűgözőbb régészeti területe, amely a Xiangkhoang-fennsík zöldellő lankáin terül el. A hatalmas, nyílt mezőkön több ezer gigantikus, kőből faragott edény hever, amelyek közül néhány a három méteres magasságot és a tizennégy tonnás súlyt is eléri. A kutatók szerint ezeket a megalitikus struktúrákat több mint kétezer évvel ezelőtt használták összetett vaskori temetkezési rituálékhoz. Bár a terület az indokínai háború idején a történelem egyik leghevesebb bombázásán esett át, a kőkancsók csodával határos módon fennmaradtak. A helyszín 2019-ben hivatalosan is felkerült az UNESCO Világörökség listájára. Történelem K6 — Régészet.",
@@ -420,7 +431,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phongsali-felföld",
       ro: "Înălțimile Phongsali",
       en: "Phongsali Highlands",
-    },
+image: "/poi-images/phongsali-highlands-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Hochland von Phongsali im äußersten Norden von Laos ist eine raue, gebirgige Region, die auf drei Seiten von China und Vietnam umschlossen ist. Diese hochgelegene Landschaft zeichnet sich durch tiefe Schluchten, kühle Temperaturen und dichte, immergrüne Wälder aus. Die kühlen klimatischen Bedingungen auf über eintausendfünfhundert Metern machen die Region ideal für den Teeanbau, wobei einige Teebäume Jahrhunderte alt sind. Die isolierte geografische Lage hat zur Bewahrung einer unglaublichen ethnischen Vielfalt geführt, mit Dutzenden von Minderheiten, die in den steilen Bergen leben. Die traditionelle Architektur und Landwirtschaft prägen dieses abgelegene Hochplateau. Geografie K7 — Kulturlandschaften.",
       hu: "A Phongsali-felföld Laosz legészakibb csücskében fekszik, egy rendkívül elszigetelt, hegyvidéki ék, amelyet Kína és Vietnam ölel körbe. A több mint ezerötszáz méteres magasságban húzódó gerincek éles szurdokokkal és örökzöld erdőkkel tarkítottak. Az itteni hűvös, hegyvidéki klíma ideális a teatermesztéshez; a régióban található ősöreg pu-erh teafák némelyike a négyszáz éves kort is eléri. A földrajzi elzártság páratlan kulturális sokszínűséget őrzött meg, a meredek hegyoldalakon több tucat sino-tibeti kisebbség él hagyományos faházakban. Ez a misztikus vidék a laoszi természet és a hegyi törzsek harmonikus együttélésének szimbóluma. Földrajz K7 — Kultúrtájak.",
@@ -458,7 +470,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Mekong-völgy Vientiane-nál",
       ro: "Valea Mekong la Vientiane",
       en: "Mekong River Valley at Vientiane",
-    },
+image: "/poi-images/mekong-river-valley-vientiane-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Mekong-Tal bei Vientiane ist eine weite, flache Alluvialebene, die durch die jahrtausendelange Ablagerung nährstoffreicher Sedimente des großen Flusses entstanden ist. Diese fruchtbare Flussebene bildet das landwirtschaftliche Herzstück von Laos, wo Reis, Gemüse und Früchte in Hülle und Fülle angebaut werden. Der breite, ruhige Strom markiert hier die natürliche und politische Grenze zum benachbarten Thailand. Die flache Topografie des Tals hat nicht nur die Landwirtschaft gefördert, sondern auch die Entwicklung von Vientiane zur größten Stadt des Landes ermöglicht. Bei Sonnenuntergang leuchten die ruhigen Gewässer des Flusses in spektakulären Farben. Geografie K5 — Flussebenen.",
       hu: "A Vientiane körüli Mekong-völgy egy kiterjedt, lapos alluviális síkság, amelyet a hatalmas folyó évezredes hordaléklerakódása formált ilyenné. Ez a gazdag, termékeny ártér Laosz legfontosabb mezőgazdasági központja, ahol a rizsföldek, zöldségeskertek és trópusi gyümölcsösök végtelen zöld szőnyegként terülnek el. A szélesen és nyugodtan hömpölygő Mekong itt nemcsak az élet forrása, hanem a természetes államhatár is Thaifölddel. A völgy sík domborzata tette lehetővé, hogy Vientiane a nemzet legnagyobb és legfejlettebb városává nője ki magát. Naplementekor a folyó tükörsima vize aranysárga fénybe borítja a főváros partmenti sétányait. Földrajz K5 — Folyami síkságok.",
@@ -495,7 +508,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Khammouane-karszt",
       ro: "Carstul Khammouane",
       en: "Khammouane Karst",
-    },
+image: "/poi-images/khammouane-karst-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Khammouane-Karstlandschaft in Zentrallaos ist ein geologisches Wunderwerk, bestehend aus einem endlosen Labyrinth aus steilen Kalksteinpfeilern und dichten Wäldern. Diese zerklüftete Bergkette wurde über Millionen von Jahren von Wasser geformt und beherbergt einige der gigantischsten Höhlensysteme Südostasiens. Die berühmteste Formation ist die riesige Kong-Lor-Höhle, ein sieben Kilometer langer unterirdischer Tunnel, durch den ein schiffbarer Fluss fließt. Die steilen Felswände und tiefen Canyons machen die Region zu einem Zufluchtsort für extrem seltene Tiere, die nur in diesem speziellen Karst-Ökosystem überleben können. Sachkunde K8 — Geologie.",
       hu: "A Khammouane-karsztvidék Közép-Laosz egyik legelképesztőbb geológiai csodája, amely függőleges mészkőoszlopok és áthatolhatatlan dzsungelek végtelen labirintusából áll. A vizió-szerű hegyvonulatokat évmilliók esőzései formálták, olyan gigantikus földalatti barlangrendszereket hozva létre, amelyek egyedülállóak Délkelet-Ázsiában. A leghíresebb a hét kilométer hosszú Kong Lor-barlang, amelynek sötét termeiben egy teljesen hajózható földalatti folyó kanyarog. A meredek, gyakran száz méteres sziklafalak olyan endemikus majom- és denevérfajoknak nyújtanak oltalmat, amelyek sehol máshol nem találhatók meg a világon. Egy igazi elveszett világ, amely vonzza a felfedezőket. Természettudomány K8 — Geológia.",
@@ -532,7 +546,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu That",
       ro: "Phou That",
       en: "Phou That",
-    },
+image: "/poi-images/phou-that-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Phou That ist ein markanter Hügel in der Provinz Bokeo, der sich sanft über die Stadt Huay Xai und den mächtigen Mekong erhebt. Obwohl er nicht besonders hoch ist, bietet dieser Berg eine der beeindruckendsten strategischen Aussichten im sogenannten Goldenen Dreieck. Auf seinem Gipfel thront ein prächtiger goldener Stupa, der als wichtiges buddhistisches Heiligtum für die lokale Bevölkerung dient. Ein steiler, von Naga-Schlangen flankierter Treppenaufgang führt die Pilger durch den Wald zur Spitze. Von oben können Besucher die spektakulären Sonnenuntergänge beobachten, wie sie den Mekong an der Grenze zu Thailand in goldenes Licht tauchen. Geschichte K6 — Heilige Berge.",
       hu: "A Phu That egy kultikus domb Bokeo tartományban, amely elegánsan emelkedik Huay Xai városa és a határfolyóként funkcionáló Mekong fölé. Bár geológiai értelemben nem számít magas hegynek, az Aranyháromszög vidékén páratlan panorámát és stratégiai kilátást biztosít a környező thaiföldi hegyekre. A dombtetőt a Wat Chomkhaou Manilat lenyűgöző arany sztúpája koronázza meg, amely a helyi buddhista közösség legszentebb imádkozóhelye. Az ide látogató zarándokok és utazók egy meredek, Naga-kígyók által őrzött lépcsősoron juthatnak fel a magasba. Alkonyatkor a dombtetőről megfigyelhető, ahogy a lemenő nap vörösre festi a folyó vizét. Történelem K6 — Szent hegyek.",
@@ -569,7 +584,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Szajabuli-felföld",
       ro: "Înălțimile Sayaboury",
       en: "Sayaboury Highlands",
-    },
+image: "/poi-images/sayaboury-highlands-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Hochland von Sayaboury bildet eine gebirgige Enklave westlich des Mekongs und teilt eine lange, bewaldete Grenze mit Thailand. Diese hügelige Region ist von weiten Laubwäldern und wertvollen Teakholzbeständen überzogen. Das bergige Terrain bietet den idealen, natürlichen Lebensraum für die größte verbliebene Population wilder und domestizierter asiatischer Elefanten in Laos. Das Elephant Conservation Center nutzt die ausgedehnten Wälder und Wasserquellen des Hochlands, um verwaiste Elefanten zu rehabilitieren. Die Täler zwischen den steilen Hügeln werden von den Einheimischen intensiv für den Anbau von Mais und Baumwolle genutzt. Biologie K7 — Artenschutz.",
       hu: "A Szajabuli-felföld egy különleges, hegyvidéki enklávé, amely egyedüliként fekszik teljesen a Mekong folyótól nyugatra, szorosan a thaiföldi határ mentén. A lankás dombokkal és mély völgyekkel szabdalt tájat egykor végtelen tíkfaerdők borították, melyeknek értékes fája gazdaggá tette a régiót. Ma ez a hegyvidék a laoszi vadon élő és háziasított ázsiai elefántok legnagyobb populációjának menedéke. A hatalmas kiterjedésű lombok között működik az Elefántmegőrzési Központ, amely az orvvadászoktól megmentett állatok rehabilitációján fáradozik. A völgyekben élő falusiak a meredek teraszokon főként kukoricát, pamutot és rizst termesztenek. Biológia K7 — Fajvédelem.",
@@ -606,7 +622,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Nam Ngum-víztározó völgye",
       ro: "Valea Lacului de Acumulare Nam Ngum",
       en: "Nam Ngum Reservoir Valley",
-    },
+image: "/poi-images/nam-ngum-reservoir-valley-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Nam-Ngum-Tal nördlich von Vientiane verwandelte sich in den 1970er Jahren radikal, als ein massiver Staudamm die weite Flussebene überflutete. Was einst ein tiefes Tal mit Wäldern war, ist heute ein riesiger Stausee, aus dem Hunderte von kleinen, dicht bewaldeten Inseln – die Gipfel der ehemaligen Hügel – ragen. Dieses künstliche Gewässer erstreckt sich über zweihundertfünfzig Quadratkilometer und dient als gigantische Wasserreserve. Die atemberaubende, seeartige Landschaft hat sich zu einem florierenden Ökosystem entwickelt, das Fischerdörfer versorgt und Wochenendausflügler aus der Hauptstadt anzieht. Sachkunde K8 — Staudämme.",
       hu: "A Nam Ngum-völgy Vientiane-tól északra drámai átalakuláson ment keresztül az 1970-es években, amikor a Nam Ngum gát megépítésével elárasztották a medencét. Az egykori mély, őserdővel borított völgyből Laosz legnagyobb kiterjedésű, mesterséges tava született. A vízszint megemelkedése nyomán az egykori hegycsúcsok több száz apró, sűrűn benőtt szigetté alakultak, melyek zöld smaragdként pöttyözik a kék víztükröt. A kétszázötven négyzetkilométeres víztározó nemcsak a főváros és Északkelet-Thaiföld energiaellátásáért felel, hanem egy teljesen új ökoszisztémát is teremtett. A partmenti halászfalvak ma a tó gazdag halállományából és az ide látogató ökoturistákból élnek. Természettudomány K8 — Víztározók.",
@@ -643,7 +660,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Annamite-hegység (Laosz)",
       ro: "Cordiliera Annamită (Laos)",
       en: "Annamite Range (Laos)",
-    },
+image: "/poi-images/annamite-range-laos-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Annamitengebirge ist eine gewaltige, schroffe Gebirgskette, die sich über mehr als tausend Kilometer erstreckt und die natürliche Grenze zwischen Laos und Vietnam formt. Diese isolierten und steilen Berge zeichnen sich durch dichten, fast undurchdringlichen tropischen Monsunwald aus. Die Region gehört zu den globalen Hotspots der Biodiversität, in der in den letzten Jahrzehnten erstaunliche neue Säugetierarten wie der Riesenmuntjak entdeckt wurden. Die raue Topografie bot historische Zufluchtsorte und stellte eine enorme Herausforderung für den Straßenbau dar. Die dichten Regenwälder wirken als gigantischer Kohlenstoffspeicher für die Region. Biologie K8 — Gebirgswälder.",
       hu: "Az Annamite-hegység egy ezer kilométernél is hosszabb, áthatolhatatlan természeti fal, amely Laosz és Vietnam között húzódik. A felhőkbe nyúló, meredek csúcsokat egész évben nedves, trópusi monszunerdő fedi, amely bolygónk egyik legősibb, érintetlen ökoszisztémája. A terület globális jelentőségű biodiverzitási központ, ahol a tudósok még a közelmúltban is nagytestű emlősöket fedeztek fel, mint például a szaolát vagy a laoszi sziklapatkányt. A hegyvidék zord domborzata évszázadokig visszatartotta a hódítókat, a 20. században pedig ez a sűrű vadon rejtette a híres Ho Si Minh-ösvény hálózatát. Az erdők gigantikus szénraktárként működve védik a régió klímáját. Biológia K8 — Hegyi erdőségek.",
@@ -680,7 +698,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Luang Prabang-hegység",
       ro: "Munții Luang Prabang",
       en: "Luang Prabang Range",
-    },
+image: "/poi-images/luang-prabang-range-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Luang-Prabang-Gebirge ist ein beeindruckendes Faltengebirge, das die zerklüftete Landschaft von Nordwestlaos und Nordthailand bestimmt. Diese steilen Bergketten bestehen aus Sandstein und Granit und fungieren als massive Wasserscheide zwischen dem Mekong und anderen großen Flusssystemen. Die dicht bewaldeten Hänge sind von tiefen, schwer zugänglichen Tälern durchzogen, die traditionellen Bergvölkern ein isoliertes Zuhause bieten. Die Höhenlagen erreichen oft über zweitausend Meter und sind bekannt für ihre ausgedehnten tropischen Trockenwälder. Diese Berge prägen entscheidend das Klima der historischen Königsstadt Luang Prabang, indem sie Regenwolken aufhalten. Geografie K7 — Gebirgsbildung.",
       hu: "A Luang Prabang-hegység egy lenyűgöző gyűrődéses hegylánc, amely Északnyugat-Laosz és Észak-Thaiföld határvidékét dominálja. A masszív, nagyrészt gránitból és homokkőből álló gerincek természetes vízválasztóként funkcionálnak a hatalmas Mekong és a thaiföldi Nan folyó vízgyűjtői között. A kétezer méterig magasodó csúcsokat trópusi lombhullató erdők és mély, nehezen járható szurdokok tagolják, amelyekben ősi hegyi törzsek élnek a modern világtól elzárva. A hegység hatalmas tömege pajzsként működik, befolyásolva a történelmi királyi főváros, Luang Prabang mikroklímáját azáltal, hogy felfogja a monszun esőfelhőit. Földrajz K7 — Hegyképződés.",
@@ -718,7 +737,8 @@ export const poiExtraLaosReliefV2: POI[] = [
       hu: "Phu Loei-masszívum",
       ro: "Masivul Phou Loei",
       en: "Phou Loei Massif",
-    },
+image: "/poi-images/phou-loei-massif-relief-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das gigantische Phou-Loei-Massiv ist der dominierende Gebirgszug innerhalb des Nam Et-Phou Louey Nationalparks im bergigen Nordosten von Laos. Übersetzt bedeutet sein Name \"Immergrüner Berg\", was die dichten, unberührten Nebelwälder beschreibt, die die Flanken bis auf über zweitausendzweihundert Meter bedecken. Dieses abgelegene Massiv ist das wichtigste Schutzgebiet für die letzten verbliebenen Indochinesischen Tiger und wilde Leoparden in Laos. Die steilen Hänge und die dichte Vegetation machen das Gebiet für Menschen fast unpassierbar. Es fungiert als gewaltiger Wasserspeicher, aus dem zahlreiche wichtige Flüsse der Region entspringen. Biologie K8 — Raubtierschutz.",
       hu: "A Phu Loei-masszívum egy monumentális hegytömb, amely a Nam Et-Phou Louey Nemzeti Park szívét adja Északkelet-Laosz sűrű vadonjában. A név beszédes, helyi dialektusban \"Örökzöld Hegyet\" jelent, amely a kétezer méter feletti csúcsokat is elborító, szinte folyamatosan esőben fürdő köderdőkre utal. Ez a kiterjedt, áthatolhatatlan hegyvidék Laosz legkiemelkedőbb természetvédelmi területe, a vadon élő indokínai tigrisek és foltos párducok egyik utolsó bástyája. A lejtők olyan meredekek és az aljnövényzet olyan sűrű, hogy az emberi betelepülés szinte lehetetlen, meghagyva a tájat igazi menedéknek. A hegy óriási szivacsként szívja magába a nedvességet, táplálva a régió folyóit. Biológia K8 — Csúcsragadozók védelme.",

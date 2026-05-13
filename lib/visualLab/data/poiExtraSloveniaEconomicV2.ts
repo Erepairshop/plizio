@@ -4,7 +4,9 @@ export const sloveniaEconomicV2: POI[] = [
   {
     id: "slovenia-luka-koper-economic-v2",
     type: "port",
-    name: { de: "Hafen von Koper", hu: "Koperi kikötő", ro: "Portul Koper", en: "Port of Koper" },
+    name: { de: "Hafen von Koper", hu: "Koperi kikötő", ro: "Portul Koper", en: "Port of Koper",
+image: "/poi-images/slovenia-luka-koper-economic-v2.webp"
+},
     coords: [13.7381, 45.5564],
     coordinates: { lat: 45.5564, lng: 13.7381 },
     description: {
@@ -19,11 +21,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1957", "Cel mai mare terminal de automobile din Mediterană", "Trafic anual de peste 20 de milioane de tone", "Principalul punct de ieșire la mare pentru Austria și Ungaria"],
       en: ["Founded in 1957", "One of the largest car terminals in the Mediterranean", "Annual throughput exceeds 20 million tons", "Main maritime gateway for Austria and Hungary"],
     },
-    imageHint: "Aerial view of the Port of Koper container terminal", image: "/poi-images/slovenia-luka-koper-economic-v2.webp"},
-  {
+imageHint: "Aerial view of the Port of Koper container terminal",
+    descriptionAdvanced: {
+      de: "Der Hafen von Koper ist Sloweniens einziger Seehafen und dient als strategisches Tor für den Warenverkehr zwischen Zentraleuropa und dem Mittelmeerraum.",
+      hu: "Koper kikötője Szlovénia egyetlen kereskedelmi tengeri kijárata, amely kulcsfontosságú logisztikai kapu Közép-Európa és a tengerentúli piacok között.",
+      ro: "Portul Koper este singura poartă maritimă comercială a Sloveniei, fiind un nod logistic vital pentru transportul de mărfuri în Europa Centrală.",
+      en: "The Port of Koper is Slovenia's only commercial maritime port, acting as a strategic logistics gateway between Central Europe and the Mediterranean.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1957", "Verfügt über 12 spezialisierte Terminals", "Umschlag von über 22 Millionen Tonnen jährlich", "Wichtigster Hafen für den österreichischen Markt"],
+      hu: ["1957-ben alapították a vállalatot", "12 specializált terminállal rendelkezik", "Évi 22 millió tonna feletti áruforgalom", "Ausztria legfontosabb tengeri kijárata"],
+      ro: ["Fondat în anul 1957", "Dispune de 12 terminale specializate", "Trafic anual de peste 22 milioane tone", "Principalul port pentru piața austriacă"],
+      en: ["Founded in 1957", "Operates 12 specialized terminals", "Annual throughput exceeds 22 million tons", "Main maritime gateway for the Austrian market"],
+    },
+    image: "/poi-images/slovenia-luka-koper-economic-v2.webp",
+},  {
     id: "slovenia-krka-novo-mesto-economic-v2",
     type: "factory",
-    name: { de: "Krka Pharmazeutik", hu: "Krka Gyógyszergyár", ro: "Krka Farmaceutice", en: "Krka Pharmaceuticals" },
+    name: { de: "Krka Pharmazeutik", hu: "Krka Gyógyszergyár", ro: "Krka Farmaceutice", en: "Krka Pharmaceuticals",
+image: "/poi-images/slovenia-krka-novo-mesto-economic-v2.webp"
+},
     coords: [15.1661, 45.8144],
     coordinates: { lat: 45.8144, lng: 15.1661 },
     description: {
@@ -38,11 +55,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1954", "Exportă în peste 70 de țări", "Peste 12.000 de angajați la nivel mondial", "Specializată în medicamente eliberate pe bază de rețetă"],
       en: ["Founded in 1954", "Exports to over 70 countries", "Over 12,000 employees worldwide", "Specialized in prescription pharmaceuticals"],
     },
-    imageHint: "Modern factory complex of Krka in Novo Mesto", image: "/poi-images/slovenia-krka-novo-mesto-economic-v2.webp"},
-  {
+imageHint: "Modern factory complex of Krka in Novo Mesto",
+    descriptionAdvanced: {
+      de: "Krka ist eines der weltweit führenden Generika-Pharmaunternehmen mit Hauptsitz in Novo Mesto und exportiert Produkte in über 70 Länder weltweit.",
+      hu: "A Krka a világ egyik vezető generikus gyógyszergyára, székhelye Novo Mesto, termékeit pedig a globális piac több mint 70 országába exportálja.",
+      ro: "Krka este una dintre cele mai importante companii farmaceutice generice din lume, cu sediul la Novo Mesto, exportând în peste 70 de țări.",
+      en: "Krka is one of the world's leading generic pharmaceutical companies, headquartered in Novo Mesto, exporting products to over 70 countries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1954", "Exportquote von über 90 Prozent", "Über 12.000 Mitarbeiter weltweit", "Spezialisierung auf verschreibungspflichtige Medikamente"],
+      hu: ["1954-ben alapították Novo Mestóban", "Az árbevétel több mint 90%-a exportból származik", "Több mint 12 000 alkalmazott világszerte", "Vezető szerep a generikus gyógyszergyártásban"],
+      ro: ["Fondată în 1954 la Novo Mesto", "Peste 90% din venituri provin din export", "Peste 12.000 de angajați la nivel global", "Specializată în medicamente generice cu prescripție"],
+      en: ["Founded in 1954 in Novo Mesto", "Export share exceeds 90% of revenue", "Employs over 12,000 people globally", "Specialized in prescription generic drugs"],
+    },
+    image: "/poi-images/slovenia-krka-novo-mesto-economic-v2.webp",
+},  {
     id: "slovenia-revoz-novo-mesto-economic-v2",
     type: "factory",
-    name: { de: "Revoz Automobilwerk", hu: "Revoz Autógyár", ro: "Fabrica Auto Revoz", en: "Revoz Car Factory" },
+    name: { de: "Revoz Automobilwerk", hu: "Revoz Autógyár", ro: "Fabrica Auto Revoz", en: "Revoz Car Factory",
+image: "/poi-images/slovenia-revoz-novo-mesto-economic-v2.webp"
+},
     coords: [15.1872, 45.7958],
     coordinates: { lat: 45.7958, lng: 15.1872 },
     description: {
@@ -58,11 +90,25 @@ export const sloveniaEconomicV2: POI[] = [
       en: ["Wholly owned by Renault since 2004", "Produces around 100,000 vehicles annually", "One of Slovenia's largest exporters", "Production site for the Renault Clio"],
     },
     imageHint: "Automotive assembly line at the Revoz factory",
+    descriptionAdvanced: {
+      de: "Revoz ist der einzige Automobilhersteller in Slowenien und gehört zur Renault-Gruppe, wobei das Werk in Novo Mesto für seine hohe Effizienz bekannt ist.",
+      hu: "A Revoz Szlovénia egyetlen autógyára, a Renault-csoport tagja. A novo mestói üzem Európa egyik leghatékonyabb autóipari létesítménye.",
+      ro: "Revoz este singurul constructor de automobile din Slovenia, aparținând grupului Renault, uzina din Novo Mesto fiind renumită pentru eficiență.",
+      en: "Revoz is Slovenia's sole car manufacturer and a member of the Renault Group, with its Novo Mesto plant recognized for high production efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Beginn der Zusammenarbeit mit Renault 1955", "Produktion von Twingo und Clio Modellen", "Größter Exporteur Sloweniens", "Kapazität von über 200.000 Fahrzeugen pro Jahr"],
+      hu: ["1955-ben indult az együttműködés a Renault-val", "A Twingo és Clio modellek fő gyártóbázisa", "Szlovénia egyik legnagyobb exportőre", "Évi 200 000 feletti gyártási kapacitás"],
+      ro: ["Parteneriat cu Renault început în 1955", "Producție axată pe modelele Twingo și Clio", "Cel mai mare exportator al Sloveniei", "Capacitate de peste 200.000 de vehicule pe an"],
+      en: ["Partnership with Renault started in 1955", "Primary producer of Twingo and Clio models", "One of Slovenia's largest exporters", "Capacity of over 200,000 vehicles per year"],
+    },
   },
   {
     id: "slovenia-gorenje-velenje-economic-v2",
     type: "factory",
-    name: { de: "Gorenje Haushaltsgeräte", hu: "Gorenje Háztartási Gépek", ro: "Gorenje Electrocasnice", en: "Gorenje Home Appliances" },
+    name: { de: "Gorenje Haushaltsgeräte", hu: "Gorenje Háztartási Gépek", ro: "Gorenje Electrocasnice", en: "Gorenje Home Appliances",
+image: "/poi-images/slovenia-gorenje-velenje-economic-v2.webp"
+},
     coords: [15.1116, 46.3644],
     coordinates: { lat: 46.3644, lng: 15.1116 },
     description: {
@@ -77,11 +123,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1950", "Peste 6.000 de angajați în Velenje", "Parte a grupului Hisense din 2018", "Rată de export de peste 90%"],
       en: ["Founded in 1950", "Over 6,000 employees in Velenje", "Part of Hisense Group since 2018", "Export rate exceeds 90 percent"],
     },
-    imageHint: "Gorenje industrial complex in Velenje", image: "/poi-images/slovenia-gorenje-velenje-economic-v2.webp"},
-  {
+imageHint: "Gorenje industrial complex in Velenje",
+    descriptionAdvanced: {
+      de: "Gorenje ist ein traditionsreicher Hersteller von Haushaltsgeräten aus Velenje, der heute als Teil der Hisense-Gruppe den globalen Markt beliefert.",
+      hu: "A Gorenje egy nagy múltú háztartásigép-gyártó Velenjéből, amely ma a Hisense-csoport tagjaként a világpiac egyik meghatározó szereplője.",
+      ro: "Gorenje este un producător tradițional de aparate electrocasnice din Velenje, care astăzi face parte din grupul Hisense, activ la nivel global.",
+      en: "Gorenje is a long-standing manufacturer of household appliances from Velenje, now operating as part of the Hisense Group on the global market.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Dorf Gorenje im Jahr 1950", "Hauptsitz in Velenje seit 1958", "Übernahme durch Hisense im Jahr 2018", "Exportiert in mehr als 90 Länder weltweit"],
+      hu: ["1950-ben alapították Gorenje faluban", "Székhelye 1958 óta Velenje", "2018-ban a Hisense csoport része lett", "Termékeit a világ több mint 90 országába exportálják"],
+      ro: ["Fondată în satul Gorenje în 1950", "Sediul mutat la Velenje în 1958", "Achiziționată de grupul Hisense în 2018", "Exportă în peste 90 de țări din întreaga lume"],
+      en: ["Founded in Gorenje village in 1950", "Headquartered in Velenje since 1958", "Acquired by Hisense Group in 2018", "Exports to more than 90 countries worldwide"],
+    },
+    image: "/poi-images/slovenia-gorenje-velenje-economic-v2.webp",
+},  {
     id: "slovenia-nek-krsko-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Krško", hu: "Krskói Atomerőmű", ro: "Centrala Nucleară Krško", en: "Krško Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Krško", hu: "Krskói Atomerőmű", ro: "Centrala Nucleară Krško", en: "Krško Nuclear Power Plant",
+image: "/poi-images/slovenia-nek-krsko-economic-v2.webp"
+},
     coords: [15.5161, 45.9388],
     coordinates: { lat: 45.9388, lng: 15.5161 },
     description: {
@@ -96,11 +157,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["În funcțiune din 1983", "Reactor cu apă sub presiune Westinghouse", "Furnizează energie pentru Slovenia și Croația", "Putere netă de aproximativ 700 megawați"],
       en: ["Operational since 1983", "Westinghouse pressurized water reactor", "Supplies power to both Slovenia and Croatia", "Net capacity of around 700 megawatts"],
     },
-    imageHint: "Exterior of the Krško Nuclear Power Plant with cooling towers", image: "/poi-images/slovenia-nek-krsko-economic-v2.webp"},
-  {
+imageHint: "Exterior of the Krško Nuclear Power Plant with cooling towers",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Krško ist die einzige nukleare Anlage Sloweniens und deckt einen erheblichen Teil des Strombedarfs von Slowenien und Kroatien ab.",
+      hu: "A krszkói atomerőmű Szlovénia egyetlen nukleáris létesítménye, amely jelentős részben fedezi Szlovénia és Horvátország villamosenergia-igényét.",
+      ro: "Centrala nucleară de la Krško este singura facilitate de acest tip din Slovenia, furnizând energie electrică pentru Slovenia și Croația.",
+      en: "The Krško Nuclear Power Plant is Slovenia's only nuclear facility, providing a significant portion of electricity for both Slovenia and Croatia.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 1983", "Druckwasserreaktor von Westinghouse", "Nennleistung von etwa 700 Megawatt", "Liefert ca. 20% des slowenischen Stroms"],
+      hu: ["1983-ban kezdte meg az üzemszerű működést", "Westinghouse típusú nyomottvizes reaktor", "Névleges teljesítménye 700 megawatt", "Szlovénia áramigényének kb. 20%-át fedezi"],
+      ro: ["Pusă în funcțiune în anul 1983", "Reactor cu apă presurizată Westinghouse", "Putere nominală de aproximativ 700 MW", "Asigură circa 20% din electricitatea Sloveniei"],
+      en: ["Operational since 1983", "Westinghouse pressurized water reactor", "Nominal power output of roughly 700 MW", "Provides about 20% of Slovenia's electricity"],
+    },
+    image: "/poi-images/slovenia-nek-krsko-economic-v2.webp",
+},  {
     id: "slovenia-talum-kidricevo-economic-v2",
     type: "factory",
-    name: { de: "Talum Aluminiumwerk", hu: "Talum Alumíniumgyár", ro: "Fabrica de Aluminiu Talum", en: "Talum Aluminum Factory" },
+    name: { de: "Talum Aluminiumwerk", hu: "Talum Alumíniumgyár", ro: "Fabrica de Aluminiu Talum", en: "Talum Aluminum Factory",
+image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp"
+},
     coords: [15.7944, 46.4025],
     coordinates: { lat: 46.4025, lng: 15.7944 },
     description: {
@@ -115,11 +191,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1954", "Specializată în aliaje de aluminiu", "Exportator major către Uniunea Europeană", "Lider în reciclarea aluminiului"],
       en: ["Founded in 1954", "Specialized in aluminum alloys", "Major exporter to the European Union", "Leader in aluminum recycling"],
     },
-    imageHint: "Talum industrial site in Kidričevo", image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp"},
-  {
+imageHint: "Talum industrial site in Kidričevo",
+    descriptionAdvanced: {
+      de: "Talum in Kidričevo gehört zu den modernsten Aluminiumherstellern in Europa und ist ein wichtiger Akteur in der metallverarbeitenden Industrie der Region.",
+      hu: "A kidričevói Talum Európa egyik legmodernebb alumíniumgyártó vállalata, amely a régió fémiparának egyik meghatározó gazdasági szereplője.",
+      ro: "Talum din Kidričevo se numără printre cei mai moderni producători de aluminiu din Europa, fiind un jucător cheie în industria metalurgică regională.",
+      en: "Talum in Kidričevo is among Europe's most modern aluminum producers, serving as a key player in the regional metal processing industry.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1954", "Produziert über 100.000 Tonnen Aluminium jährlich", "Spezialisierung auf hochwertige Legierungen", "Einer der größten Energieverbraucher des Landes"],
+      hu: ["1954-ben kezdték meg a termelést", "Évente több mint 100 000 tonna alumíniumot gyárt", "Speciális ötvözetek előállítására szakosodott", "Az ország egyik legnagyobb energiafelhasználója"],
+      ro: ["Fondată în anul 1954", "Produce peste 100.000 tone de aluminiu anual", "Specializată în aliaje de înaltă calitate", "Unul dintre cei mai mari consumatori de energie"],
+      en: ["Founded in 1954", "Produces over 100,000 tons of aluminum annually", "Specialized in high-quality alloys", "One of the country's largest energy consumers"],
+    },
+    image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp",
+},  {
     id: "slovenia-steklarna-rogaska-economic-v2",
     type: "factory",
-    name: { de: "Steklarna Rogaška Kristall", hu: "Steklarna Rogaška Kristálygyár", ro: "Fabrica de Cristal Rogaška", en: "Steklarna Rogaška Crystal" },
+    name: { de: "Steklarna Rogaška Kristall", hu: "Steklarna Rogaška Kristálygyár", ro: "Fabrica de Cristal Rogaška", en: "Steklarna Rogaška Crystal",
+image: "/poi-images/slovenia-steklarna-rogaska-economic-v2.webp"
+},
     coords: [15.6364, 46.2361],
     coordinates: { lat: 46.2361, lng: 15.6364 },
     description: {
@@ -134,11 +225,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1927", "Producție artizanală de cristal", "Produce trofee pentru evenimente sportive mondiale", "Exportă în peste 50 de țări"],
       en: ["Founded in 1927", "Handcrafted crystal production", "Produces trophies for major global sports events", "Exports to over 50 countries"],
     },
-    imageHint: "Skilled glassblower working at Steklarna Rogaška", image: "/poi-images/slovenia-steklarna-rogaska-economic-v2.webp"},
-  {
+imageHint: "Skilled glassblower working at Steklarna Rogaška",
+    descriptionAdvanced: {
+      de: "Steklarna Rogaška ist weltweit bekannt für exzellente Kristallglasherstellung und verbindet jahrhundertealte Tradition mit modernem Design.",
+      hu: "A Steklarna Rogaška világszerte híres kiváló minőségű kristályüvegeiről, a vállalat az évszázados hagyományokat ötvözi a modern formatervezéssel.",
+      ro: "Steklarna Rogaška este renumită la nivel mondial pentru producția de cristal de lux, îmbinând tradiția seculară cu designul contemporan.",
+      en: "Steklarna Rogaška is globally renowned for its exquisite crystal glassware, combining centuries-old traditions with modern artistic design.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1927", "Spezialisiert auf handgefertigtes Bleikristall", "Produzent von Trophäen für große Sportevents", "Exportiert in über 50 Länder weltweit"],
+      hu: ["1927-ben alapították a gyárat", "Kézzel készített ólomkristályra szakosodott", "Számos világverseny trófeájának készítője", "A termékek több mint 50 országba jutnak el"],
+      ro: ["Fondată în anul 1927", "Specializată în cristal cu plumb lucrat manual", "Producător de trofee pentru mari evenimente sportive", "Exportă în peste 50 de țări din întreaga lume"],
+      en: ["Founded in 1927", "Specialized in handmade lead crystal", "Manufacturer of trophies for major sports events", "Exports to more than 50 countries worldwide"],
+    },
+    image: "/poi-images/slovenia-steklarna-rogaska-economic-v2.webp",
+},  {
     id: "slovenia-lek-ljubljana-economic-v2",
     type: "factory",
-    name: { de: "Lek Pharmazeutik", hu: "Lek Gyógyszergyár", ro: "Lek Farmaceutice", en: "Lek Pharmaceuticals" },
+    name: { de: "Lek Pharmazeutik", hu: "Lek Gyógyszergyár", ro: "Lek Farmaceutice", en: "Lek Pharmaceuticals",
+image: "/poi-images/slovenia-lek-ljubljana-economic-v2.webp"
+},
     coords: [14.5122, 46.0711],
     coordinates: { lat: 46.0711, lng: 14.5122 },
     description: {
@@ -153,11 +259,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1946", "Parte a grupului Sandoz/Novartis", "Lider în dezvoltarea de biosimilare", "Deține mai multe puncte de lucru în Slovenia"],
       en: ["Founded in 1946", "Part of the Sandoz/Novartis Group", "Leader in biosimilar development", "Operates multiple sites across Slovenia"],
     },
-    imageHint: "Modern pharmaceutical laboratory at Lek Ljubljana", image: "/poi-images/slovenia-lek-ljubljana-economic-v2.webp"},
-  {
+imageHint: "Modern pharmaceutical laboratory at Lek Ljubljana",
+    descriptionAdvanced: {
+      de: "Lek mit Sitz in Ljubljana ist ein Pionier der pharmazeutischen Industrie in Slowenien und heute ein wichtiges globales Zentrum innerhalb von Sandoz.",
+      hu: "A ljubljanai székhelyű Lek a szlovén gyógyszeripar úttörője, amely ma a Sandoz vállalatcsoport egyik fontos globális fejlesztési központja.",
+      ro: "Lek, cu sediul în Ljubljana, este un pionier al industriei farmaceutice slovene, fiind astăzi un centru global important în cadrul Sandoz.",
+      en: "Lek, based in Ljubljana, is a pioneer of the Slovenian pharmaceutical industry and currently serves as a vital global hub within Sandoz.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1946", "Teil der Sandoz-Gruppe", "Wichtigster Standort für Biosimilars", "Zweitgrößtes Pharmaunternehmen Sloweniens"],
+      hu: ["1946-ban alapították Ljubljanában", "A Sandoz vállalatcsoport tagja", "A biohasonló gyógyszerek fejlesztésének központja", "Szlovénia második legnagyobb gyógyszergyára"],
+      ro: ["Fondată în anul 1946", "Parte a grupului Sandoz", "Centru major pentru dezvoltarea de biosimilare", "A doua mare companie farmaceutică din Slovenia"],
+      en: ["Founded in 1946", "Member of the Sandoz group", "Key global center for biosimilar development", "Slovenia's second-largest pharmaceutical company"],
+    },
+    image: "/poi-images/slovenia-lek-ljubljana-economic-v2.webp",
+},  {
     id: "slovenia-akrapovic-ivancna-gorica-economic-v2",
     type: "factory",
-    name: { de: "Akrapovič Abgassysteme", hu: "Akrapovič Kipufogórendszerek", ro: "Sisteme de Evacuare Akrapovič", en: "Akrapovič Exhaust Systems" },
+    name: { de: "Akrapovič Abgassysteme", hu: "Akrapovič Kipufogórendszerek", ro: "Sisteme de Evacuare Akrapovič", en: "Akrapovič Exhaust Systems",
+image: "/poi-images/slovenia-akrapovic-ivancna-gorica-economic-v2.webp"
+},
     coords: [14.8055, 45.9392],
     coordinates: { lat: 45.9392, lng: 14.8055 },
     description: {
@@ -172,11 +293,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în 1990 de Igor Akrapovič", "Furnizor pentru MotoGP și Formula 1", "Specialist în tehnologia titanului", "Câștigător a numeroase premii de design"],
       en: ["Founded in 1990 by Igor Akrapovič", "Supplier for MotoGP and Formula 1", "Specialist in titanium technology", "Multiple winner of international design awards"],
     },
-    imageHint: "Akrapovič titanium exhaust system for a sports car", image: "/poi-images/slovenia-akrapovic-ivancna-gorica-economic-v2.webp"},
-  {
+imageHint: "Akrapovič titanium exhaust system for a sports car",
+    descriptionAdvanced: {
+      de: "Akrapovič ist ein weltweit führender Hersteller von Premium-Abgassystemen für Motorräder und Sportwagen, bekannt für Innovation und Leichtbau.",
+      hu: "Az Akrapovič a világ egyik vezető gyártója a prémium motorkerékpár- és autó-kipufogórendszerek piacán, híres az innovációról és a titántechnológiáról.",
+      ro: "Akrapovič este un lider mondial în producția de sisteme de evacuare premium pentru motociclete și mașini sport, renumit pentru inovație.",
+      en: "Akrapovič is a world-leading manufacturer of premium exhaust systems for motorcycles and performance cars, famous for innovation and lightweight design.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1991 von Igor Akrapovič", "Spezialisierung auf Titan und Carbon", "Ausrüster zahlreicher Motorsport-Teams", "Exportanteil liegt bei über 99 Prozent"],
+      hu: ["1991-ben alapította Igor Akrapovič", "Titán és szénszálas anyagokra specializálódott", "Számos technikai sportcsapat beszállítója", "Az árbevétel több mint 99%-a exportból származik"],
+      ro: ["Fondată în 1991 de Igor Akrapovič", "Specializată în titan și fibră de carbon", "Furnizor pentru numeroase echipe de motorsport", "Peste 99% din producție este destinată exportului"],
+      en: ["Founded in 1991 by Igor Akrapovič", "Specialized in titanium and carbon fiber", "Supplier for numerous motorsport teams", "Export share is over 99% of total revenue"],
+    },
+    image: "/poi-images/slovenia-akrapovic-ivancna-gorica-economic-v2.webp",
+},  {
     id: "slovenia-pipistrel-ajdovscina-economic-v2",
     type: "factory",
-    name: { de: "Pipistrel Flugzeugbau", hu: "Pipistrel Repülőgépgyár", ro: "Producătorul de Avioane Pipistrel", en: "Pipistrel Aircraft" },
+    name: { de: "Pipistrel Flugzeugbau", hu: "Pipistrel Repülőgépgyár", ro: "Producătorul de Avioane Pipistrel", en: "Pipistrel Aircraft",
+image: "/poi-images/slovenia-pipistrel-ajdovscina-economic-v2.webp"
+},
     coords: [13.8925, 45.8903],
     coordinates: { lat: 45.8903, lng: 13.8925 },
     description: {
@@ -191,11 +327,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1989", "Primul avion electric certificat din lume", "Câștigător al multor competiții NASA", "Achiziționată de Textron în 2022"],
       en: ["Founded in 1989", "World's first certified electric aircraft", "Winner of multiple NASA challenges", "Part of Textron since 2022"],
     },
-    imageHint: "Pipistrel Velis Electro plane on an airfield", image: "/poi-images/slovenia-pipistrel-ajdovscina-economic-v2.webp"},
-  {
+imageHint: "Pipistrel Velis Electro plane on an airfield",
+    descriptionAdvanced: {
+      de: "Pipistrel ist ein weltweit anerkannter Pionier im Bereich der Elektrofliegerei und Leichtflugzeuge mit Hauptsitz in Ajdovščina.",
+      hu: "A Pipistrel az elektromos repülés és a könnyű repülőgépek gyártásának világszerte elismert úttörője, székhelye Ajdovščina városában található.",
+      ro: "Pipistrel este un pionier recunoscut la nivel mondial în aviația electrică și avioanele ușoare, având sediul central în Ajdovščina.",
+      en: "Pipistrel is a globally recognized pioneer in electric aviation and light aircraft manufacturing, headquartered in the town of Ajdovščina.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1989", "Erster Hersteller eines zertifizierten Elektroflugzeugs", "Gewinner mehrerer NASA-Herausforderungen", "Teil des Textron-Konzerns seit 2022"],
+      hu: ["1989-ben alapították Ajdovščinában", "Az első tanúsított elektromos repülőgép gyártója", "Több NASA-pályázat és díj nyertese", "2022 óta a Textron konszern része"],
+      ro: ["Fondată în anul 1989", "Primul producător de avioane electrice certificate", "Câștigător al mai multor competiții NASA", "Parte a grupului Textron din anul 2022"],
+      en: ["Founded in 1989", "Manufacturer of the first certified electric aircraft", "Winner of multiple NASA challenges", "Acquired by Textron in 2022"],
+    },
+    image: "/poi-images/slovenia-pipistrel-ajdovscina-economic-v2.webp",
+},  {
     id: "slovenia-idrija-mercury-mine-economic-v2",
     type: "mine",
-    name: { de: "Quecksilberbergwerk Idrija", hu: "Idrijai higanybánya", ro: "Mina de Mercur din Idrija", en: "Idrija Mercury Mine" },
+    name: { de: "Quecksilberbergwerk Idrija", hu: "Idrijai higanybánya", ro: "Mina de Mercur din Idrija", en: "Idrija Mercury Mine",
+image: "/poi-images/slovenia-idrija-mercury-mine-economic-v2.webp"
+},
     coords: [14.0211, 46.0022],
     coordinates: { lat: 46.0022, lng: 14.0211 },
     description: {
@@ -210,11 +361,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Descoperirea mercurului în 1490", "Patrimoniu UNESCO din 2012", "Odată a doua mină ca mărime din lume", "Astăzi deschisă ca mină-muzeu"],
       en: ["Mercury discovered in 1490", "UNESCO World Heritage site since 2012", "Formerly second largest mine worldwide", "Now open as a museum mine"],
     },
-    imageHint: "Entrance to the Anthony Main Road of the Idrija mine", image: "/poi-images/slovenia-idrija-mercury-mine-economic-v2.webp"},
-  {
+imageHint: "Entrance to the Anthony Main Road of the Idrija mine",
+    descriptionAdvanced: {
+      de: "Das Quecksilberbergwerk Idrija war über 500 Jahre lang eine der bedeutendsten Minen der Welt und gehört heute zum UNESCO-Welterbe.",
+      hu: "Az idrijai higanybánya több mint 500 éven át a világ egyik legjelentősebb bányája volt, ma az UNESCO Világörökség része és ipari múzeum.",
+      ro: "Mina de mercur din Idrija a fost una dintre cele mai importante din lume timp de 500 de ani, fiind astăzi inclusă în patrimoniul UNESCO.",
+      en: "The Idrija Mercury Mine was one of the world's most significant mines for over 500 years and is now protected as a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung des Quecksilbers im Jahr 1490", "Zweitgrößte Quecksilbermine der Welt", "Einstellung des Bergbaubetriebs 1995", "UNESCO-Welterbe seit dem Jahr 2012"],
+      hu: ["1490-ben fedezték fel a higanyt a területen", "A világ második legnagyobb higanybányája volt", "A bányászat 1995-ben fejeződött be", "2012-ben lett az UNESCO Világörökség része"],
+      ro: ["Descoperirea mercurului în anul 1490", "A doua cea mai mare mină de mercur din lume", "Activitatea minieră a încetat în 1995", "Inclusă în patrimoniul UNESCO din 2012"],
+      en: ["Mercury discovered at the site in 1490", "Was the second-largest mercury mine globally", "Mining operations ceased in 1995", "UNESCO World Heritage site since 2012"],
+    },
+    image: "/poi-images/slovenia-idrija-mercury-mine-economic-v2.webp",
+},  {
     id: "slovenia-mezica-mine-economic-v2",
     type: "mine",
-    name: { de: "Blei- und Zinkbergwerk Mežica", hu: "Mežicai ólom- és cinkbánya", ro: "Mina de Plumb și Zinc Mežica", en: "Mežica Lead and Zinc Mine" },
+    name: { de: "Blei- und Zinkbergwerk Mežica", hu: "Mežicai ólom- és cinkbánya", ro: "Mina de Plumb și Zinc Mežica", en: "Mežica Lead and Zinc Mine",
+image: "/poi-images/slovenia-mezica-mine-economic-v2.webp"
+},
     coords: [14.8533, 46.5208],
     coordinates: { lat: 46.5208, lng: 14.8533 },
     description: {
@@ -229,11 +395,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Minerit din perioada romană", "Peste 1.000 de kilometri de galerii", "Închiderea minei în anul 1994", "Tururi unice cu caiacul sub pământ"],
       en: ["Mining since Roman times", "Over 1,000 kilometers of tunnels", "Mine closure in 1994", "Unique underground kayaking tours"],
     },
-    imageHint: "Tourists cycling through an underground mine tunnel", image: "/poi-images/slovenia-mezica-mine-economic-v2.webp"},
-  {
+imageHint: "Tourists cycling through an underground mine tunnel",
+    descriptionAdvanced: {
+      de: "Das Blei- und Zinkbergwerk Mežica unter dem Berg Peca war jahrhundertelang ein Zentrum des Bergbaus in Kärnten und ist heute ein Erlebnisbergwerk.",
+      hu: "A Peca-hegy alatti mezicai ólom- és cinkbánya évszázadokon át Karintia bányászati központja volt, ma turisztikai élménybányaként üzemel.",
+      ro: "Mina de plumb și zinc din Mežica, sub muntele Peca, a fost timp de secole un centru minier în Carintia, fiind astăzi o destinație turistică.",
+      en: "The Mežica Lead and Zinc Mine beneath Mount Peca was a mining hub in Carinthia for centuries, now serving as a popular underground tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Über 350 Jahre Bergbautradition", "Gesamtlänge der Stollen beträgt ca. 800 km", "Schließung der Mine im Jahr 1994", "Heute für Kayak- und Radtouren unter Tage genutzt"],
+      hu: ["Több mint 350 éves bányászati múlt", "A tárnák hossza eléri a 800 kilométert", "A kitermelés 1994-ben szűnt meg", "Ma föld alatti kajakozásra és bringázásra használják"],
+      ro: ["Peste 350 de ani de tradiție minieră", "Lungimea galeriilor este de aproximativ 800 km", "Închiderea minei a avut loc în 1994", "Astăzi oferă tururi cu caiacul și bicicleta în subteran"],
+      en: ["Over 350 years of mining tradition", "Total length of tunnels is approx. 800 km", "Mining operations closed in 1994", "Now used for underground kayaking and cycling tours"],
+    },
+    image: "/poi-images/slovenia-mezica-mine-economic-v2.webp",
+},  {
     id: "slovenia-sostanj-power-plant-economic-v2",
     type: "industry",
-    name: { de: "Thermisches Kraftwerk Šoštanj", hu: "Šoštanji hőerőmű", ro: "Termocentrala Šoštanj", en: "Šoštanj Thermal Power Plant" },
+    name: { de: "Thermisches Kraftwerk Šoštanj", hu: "Šoštanji hőerőmű", ro: "Termocentrala Šoštanj", en: "Šoštanj Thermal Power Plant",
+image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp"
+},
     coords: [15.0444, 46.3719],
     coordinates: { lat: 46.3719, lng: 15.0444 },
     description: {
@@ -248,11 +429,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai mare termocentrală din țară", "Folosește lignit de la Velenje", "Blocul 6 a devenit operațional în 2015", "Furnizor important de încălzire centralizată"],
       en: ["Largest thermal power plant in the country", "Fueled by Velenje lignite", "Unit 6 operational since 2015", "Major district heating supplier"],
     },
-    imageHint: "Large cooling tower of the Šoštanj power plant", image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp"},
-  {
+imageHint: "Large cooling tower of the Šoštanj power plant",
+    descriptionAdvanced: {
+      de: "Das Wärmekraftwerk Šoštanj (TEŠ) ist der größte thermische Energieerzeuger in Slowenien und nutzt Braunkohle aus dem benachbarten Bergwerk Velenje.",
+      hu: "A šoštanji hőerőmű (TEŠ) Szlovénia legnagyobb hőenergia-termelője, amely a szomszédos velenjei bányából származó lignitet hasznosítja.",
+      ro: "Termocentrala de la Šoštanj (TEŠ) este cel mai mare producător de energie termică din Slovenia, utilizând lignit din mina vecină Velenje.",
+      en: "The Šoštanj Thermal Power Plant (TEŠ) is Slovenia's largest thermal energy producer, utilizing lignite coal from the adjacent Velenje mine.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme des ersten Blocks 1956", "Block 6 ist die modernste Einheit", "Deckelt ca. ein Drittel des Strombedarfs", "Nutzung lokaler Lignitvorkommen"],
+      hu: ["Az első blokk 1956-ban kezdett üzemelni", "A 6-os blokk a legmodernebb egysége", "Az ország áramszükségletének kb. harmadát adja", "Helyi lignitre alapozott energiatermelés"],
+      ro: ["Punerea în funcțiune a primului bloc în 1956", "Blocul 6 este cea mai modernă unitate", "Asigură circa o treime din curentul țării", "Utilizează lignit extras local"],
+      en: ["First unit became operational in 1956", "Unit 6 is the most modern part of the plant", "Provides roughly one-third of Slovenia's power", "Fueled by locally extracted lignite coal"],
+    },
+    image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp",
+},  {
     id: "slovenia-velenje-coal-mine-economic-v2",
     type: "mine",
-    name: { de: "Braunkohlebergwerk Velenje", hu: "Velenjei lignitbánya", ro: "Mina de Cărbune Velenje", en: "Velenje Coal Mine" },
+    name: { de: "Braunkohlebergwerk Velenje", hu: "Velenjei lignitbánya", ro: "Mina de Cărbune Velenje", en: "Velenje Coal Mine",
+image: "/poi-images/slovenia-velenje-coal-mine-economic-v2.webp"
+},
     coords: [15.0933, 46.3683],
     coordinates: { lat: 46.3683, lng: 15.0933 },
     description: {
@@ -267,11 +463,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Singura mină de cărbune activă din Slovenia", "Extracție de lignit la adâncimi mari", "Găzduiește Muzeul Mineritului din Slovenia", "Centrul regiunii industriale Velenje"],
       en: ["Slovenia's only active coal mine", "Lignite extraction at significant depths", "Home to the Slovenian Coal Mining Museum", "Hub of the Velenje industrial region"],
     },
-    imageHint: "Mining equipment at the Velenje coal mine surface", image: "/poi-images/slovenia-velenje-coal-mine-economic-v2.webp"},
-  {
+imageHint: "Mining equipment at the Velenje coal mine surface",
+    descriptionAdvanced: {
+      de: "Das Kohlebergwerk Velenje ist das einzige noch aktive Braunkohlebergwerk in Slowenien und eng mit der Energieversorgung des Landes verbunden.",
+      hu: "A velenjei szénbánya Szlovénia egyetlen máig aktív lignitbányája, amely szorosan kapcsolódik az ország villamosenergia-ellátásához.",
+      ro: "Mina de cărbune din Velenje este singura mină de lignit activă din Slovenia, fiind esențială pentru aprovizionarea cu energie a țării.",
+      en: "The Velenje Coal Mine is Slovenia's only remaining active lignite mine, playing a crucial role in the country's national energy supply.",
+    },
+    factsAdvanced: {
+      de: ["Abbau von Lignit seit dem Jahr 1875", "Eines der modernsten Untertage-Bergwerke", "Tiefe der Schächte bis zu 500 Meter", "Hauptlieferant für das Kraftwerk Šoštanj"],
+      hu: ["1875 óta zajlik a lignit kitermelése", "Az egyik legmodernebb mélyművelésű bánya", "A tárnák mélysége eléri az 500 métert", "A šoštanji hőerőmű kizárólagos beszállítója"],
+      ro: ["Exploatarea lignitului a început în 1875", "Una dintre cele mai moderne mine subterane", "Adâncimea puțurilor ajunge la 500 de metri", "Principalul furnizor pentru centrala Šoštanj"],
+      en: ["Lignite extraction started in 1875", "One of the most modern underground mines", "Shaft depths reach up to 500 meters", "Primary supplier for the Šoštanj Power Plant"],
+    },
+    image: "/poi-images/slovenia-velenje-coal-mine-economic-v2.webp",
+},  {
     id: "slovenia-cinkarna-celje-economic-v2",
     type: "industry",
-    name: { de: "Cinkarna Celje Chemie", hu: "Cinkarna Celje Vegyiüzem", ro: "Cinkarna Celje Chimie", en: "Cinkarna Celje Chemicals" },
+    name: { de: "Cinkarna Celje Chemie", hu: "Cinkarna Celje Vegyiüzem", ro: "Cinkarna Celje Chimie", en: "Cinkarna Celje Chemicals",
+image: "/poi-images/slovenia-cinkarna-celje-economic-v2.webp"
+},
     coords: [15.2811, 46.2306],
     coordinates: { lat: 46.2306, lng: 15.2811 },
     description: {
@@ -286,11 +497,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1873", "Specializată în dioxid de titan", "Angajator major în orașul Celje", "Exportă pe piețele globale"],
       en: ["Founded in 1873", "Specialized in titanium dioxide", "Major employer in Celje", "Exports to global markets"],
     },
-    imageHint: "Industrial skyline of Cinkarna Celje factory", image: "/poi-images/slovenia-cinkarna-celje-economic-v2.webp"},
-  {
+imageHint: "Industrial skyline of Cinkarna Celje factory",
+    descriptionAdvanced: {
+      de: "Cinkarna Celje ist ein führendes Chemieunternehmen in Slowenien, das sich auf die Produktion von Titandioxid und Zinkprodukten spezialisiert hat.",
+      hu: "A Cinkarna Celje Szlovénia egyik vezető vegyipari vállalata, amely titán-dioxid és cinktermékek előállítására szakosodott.",
+      ro: "Cinkarna Celje este o companie chimică de top din Slovenia, specializată în producția de dioxid de titan și produse pe bază de zinc.",
+      en: "Cinkarna Celje is a leading Slovenian chemical company, specialized in the production of titanium dioxide and various zinc products.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1873 als Zinkhütte", "Produziert Pigmente für Farben und Lacke", "Größtes Chemieunternehmen der Region", "Exportquote liegt bei über 80 Prozent"],
+      hu: ["1873-ban alapították cinkkohóként", "Festékekhez használt pigmenteket gyárt", "A régió legnagyobb vegyipari üzeme", "Az árbevétel több mint 80%-a exportból származik"],
+      ro: ["Fondată în 1873 ca topitorie de zinc", "Produce pigmenți pentru vopsele și lacuri", "Cea mai mare companie chimică din regiune", "Peste 80% din producție merge la export"],
+      en: ["Founded in 1873 as a zinc smelter", "Produces pigments for paints and coatings", "Largest chemical company in the region", "Exports account for more than 80% of sales"],
+    },
+    image: "/poi-images/slovenia-cinkarna-celje-economic-v2.webp",
+},  {
     id: "slovenia-perutnina-ptuj-economic-v2",
     type: "factory",
-    name: { de: "Perutnina Ptuj Lebensmittel", hu: "Perutnina Ptuj Élelmiszergyár", ro: "Perutnina Ptuj Alimente", en: "Perutnina Ptuj Food" },
+    name: { de: "Perutnina Ptuj Lebensmittel", hu: "Perutnina Ptuj Élelmiszergyár", ro: "Perutnina Ptuj Alimente", en: "Perutnina Ptuj Food",
+image: "/poi-images/slovenia-perutnina-ptuj-economic-v2.webp"
+},
     coords: [15.8647, 46.4164],
     coordinates: { lat: 46.4164, lng: 15.8647 },
     description: {
@@ -305,11 +531,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1905", "Lider de piață în regiune", "Producție proprie de furaje", "Exportă în peste 20 de țări"],
       en: ["Founded in 1905", "Regional market leader", "In-house feed production", "Exports to over 20 countries"],
     },
-    imageHint: "Modern food processing facility of Perutnina Ptuj", image: "/poi-images/slovenia-perutnina-ptuj-economic-v2.webp"},
-  {
+imageHint: "Modern food processing facility of Perutnina Ptuj",
+    descriptionAdvanced: {
+      de: "Perutnina Ptuj ist der führende Geflügelproduzent in Südosteuropa und blickt auf eine über hundertjährige Tradition in der Lebensmittelverarbeitung zurück.",
+      hu: "A Perutnina Ptuj Délkelet-Európa vezető baromfihús-feldolgozója, amely több mint százéves hagyománnyal rendelkezik az élelmiszeriparban.",
+      ro: "Perutnina Ptuj este cel mai important producător de carne de pasăre din Europa de Sud-Est, având o tradiție de peste un secol în domeniu.",
+      en: "Perutnina Ptuj is the leading poultry producer in Southeastern Europe, with a heritage in food processing spanning over a hundred years.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1905", "Bekannt für die Marke Poli", "Präsenz in über 20 Ländern weltweit", "Strenge Qualitätskontrolle vom Feld zum Tisch"],
+      hu: ["1905-ben alapították Ptuj városában", "A híres Poli szalámi márka tulajdonosa", "Termékei több mint 20 országban kaphatók", "Teljes körű minőségellenőrzés a gazdaságtól az asztalig"],
+      ro: ["Fondată în anul 1905 la Ptuj", "Cunoscută pentru marca de salam Poli", "Prezentă în peste 20 de țări", "Control strict al calității de la fermă la masă"],
+      en: ["Founded in 1905 in Ptuj", "Famous for the Poli salami brand", "Presence in more than 20 countries worldwide", "Strict 'farm to fork' quality control system"],
+    },
+    image: "/poi-images/slovenia-perutnina-ptuj-economic-v2.webp",
+},  {
     id: "slovenia-radenska-boraceva-economic-v2",
     type: "factory",
-    name: { de: "Radenska Mineralwasser", hu: "Radenska Ásványvíz", ro: "Apa Minerală Radenska", en: "Radenska Mineral Water" },
+    name: { de: "Radenska Mineralwasser", hu: "Radenska Ásványvíz", ro: "Apa Minerală Radenska", en: "Radenska Mineral Water",
+image: "/poi-images/slovenia-radenska-boraceva-economic-v2.webp"
+},
     coords: [16.0392, 46.6508],
     coordinates: { lat: 46.6508, lng: 16.0392 },
     description: {
@@ -325,11 +566,25 @@ export const sloveniaEconomicV2: POI[] = [
       en: ["First bottled in 1869", "Famous for the three-hearts logo", "Natural carbonated mineral water", "Member of the Kofola Group"],
     },
     imageHint: "Radenska mineral water bottles on a production line",
+    descriptionAdvanced: {
+      de: "Radenska ist eine der bekanntesten Mineralwassermarken Mitteleuropas und wird für ihre natürliche Kohlensäure und Reinheit geschätzt.",
+      hu: "A Radenska Közép-Európa egyik legismertebb ásványvízmárkája, amely természetes szénsavtartalmáról és tisztaságáról híres.",
+      ro: "Radenska este una dintre cele mai cunoscute mărci de apă minerală din Europa Centrală, apreciată pentru puritate și acidularea naturală.",
+      en: "Radenska is one of Central Europe's most famous mineral water brands, highly valued for its natural carbonation and purity.",
+    },
+    factsAdvanced: {
+      de: ["Erste Abfüllung im Jahr 1869", "Berühmtes Logo mit drei Herzen", "Hoflieferant für den Papst und den Kaiser", "Heute Teil der tschechischen Kofola-Gruppe"],
+      hu: ["Az első palackozás 1869-ben történt", "Híres háromszíves logója világszerte ismert", "A pápa és a császári udvar hivatalos szállítója volt", "Ma a cseh Kofola csoport tagja"],
+      ro: ["Prima îmbuteliere a avut loc în 1869", "Logou celebru cu trei inimi", "Furnizor oficial pentru Papă și curtea imperială", "Astăzi face parte din grupul ceh Kofola"],
+      en: ["First bottled for sale in 1869", "Famous logo featuring three hearts", "Official supplier to the Pope and the Emperor", "Now part of the Czech Kofola Group"],
+    },
   },
   {
     id: "slovenia-elan-begunje-economic-v2",
     type: "factory",
-    name: { de: "Elan Sportartikel", hu: "Elan Sporteszközök", ro: "Echipamente Sportive Elan", en: "Elan Sporting Goods" },
+    name: { de: "Elan Sportartikel", hu: "Elan Sporteszközök", ro: "Echipamente Sportive Elan", en: "Elan Sporting Goods",
+image: "/poi-images/slovenia-elan-begunje-economic-v2.webp"
+},
     coords: [14.2325, 46.3778],
     coordinates: { lat: 46.3778, lng: 14.2325 },
     description: {
@@ -345,11 +600,25 @@ export const sloveniaEconomicV2: POI[] = [
       en: ["Founded in 1945", "Inventor of carving skis", "Produces high-quality sailing yachts", "Handcrafted skis made in the Alps"],
     },
     imageHint: "Production of high-tech Elan skis in the factory",
+    descriptionAdvanced: {
+      de: "Elan in Begunje ist ein weltweit führender Innovator in der Ski- und Segelbootindustrie, bekannt für die Erfindung des Carving-Skis.",
+      hu: "A begunjei Elan a síléc- és vitorláshajó-gyártás egyik globális innovátora, nevükhöz fűződik többek között a carving síléc feltalálása.",
+      ro: "Elan din Begunje este un inovator mondial în industria schiurilor și a iahturilor, fiind renumit pentru inventarea schiurilor carving.",
+      en: "Elan in Begunje is a global innovator in the skiing and sailing industries, widely recognized for inventing the carving ski.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1945", "Erfinder des Parabolic-Skis (Carving)", "Produziert Skier, Yachten und Sportgeräte", "Mehrfacher Gewinner von Design-Preisen"],
+      hu: ["1945-ben alapították Begunjében", "A carving sílécek technológiájának úttörője", "Síléceket, vitorlásokat és sporteszközöket gyárt", "Számos nemzetközi formatervezési díj nyertese"],
+      ro: ["Fondată în anul 1945 la Begunje", "Inventatorul tehnologiei carving pentru schiuri", "Produce schiuri, iahturi și echipamente sportive", "Câștigător a numeroase premii internaționale de design"],
+      en: ["Founded in 1945 in Begunje", "Inventor of the parabolic (carving) ski", "Produces skis, luxury yachts, and sports equipment", "Multiple winner of international design awards"],
+    },
   },
   {
     id: "slovenia-btc-city-ljubljana-economic-v2",
     type: "landmark",
-    name: { de: "BTC City Ljubljana", hu: "BTC City Ljubljana", ro: "BTC City Ljubljana", en: "BTC City Ljubljana" },
+    name: { de: "BTC City Ljubljana", hu: "BTC City Ljubljana", ro: "BTC City Ljubljana", en: "BTC City Ljubljana",
+image: "/poi-images/slovenia-btc-city-ljubljana-economic-v2.webp"
+},
     coords: [14.5422, 46.0675],
     coordinates: { lat: 46.0675, lng: 14.5422 },
     description: {
@@ -364,11 +633,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Peste 500 de magazine retail", "Peste 21 de milioane de vizitatori anual", "Fost cel mai mare depozit vamal din Iugoslavia", "Centru pentru inovație și start-up-uri"],
       en: ["Over 500 retail stores", "Over 21 million annual visitors", "Formerly Yugoslavia's largest customs warehouse", "Hub for innovation and start-ups"],
     },
-    imageHint: "Aerial view of the massive BTC City complex in Ljubljana", image: "/poi-images/slovenia-btc-city-ljubljana-economic-v2.webp"},
-  {
+imageHint: "Aerial view of the massive BTC City complex in Ljubljana",
+    descriptionAdvanced: {
+      de: "BTC City Ljubljana ist eines der größten Geschäfts-, Einkaufs- und Freizeitzentren Europas und ein wichtiger wirtschaftlicher Hub in Slowenien.",
+      hu: "A ljubljanai BTC City Európa egyik legnagyobb üzleti, bevásárló- és szabadidőközpontja, amely Szlovénia egyik fontos gazdasági csomópontja.",
+      ro: "BTC City Ljubljana este unul dintre cele mai mari centre de afaceri, cumpărături și agrement din Europa, un hub economic major în Slovenia.",
+      en: "BTC City Ljubljana is one of Europe's largest business, shopping, and leisure complexes, serving as a major economic hub in Slovenia.",
+    },
+    factsAdvanced: {
+      de: ["Ehemals ein Lagerhauskomplex", "Über 450 Geschäfte auf dem Gelände", "Zieht jährlich ca. 21 Millionen Besucher an", "Beinhaltet den höchsten Wolkenkratzer Sloweniens"],
+      hu: ["Eredetileg raktárkomplexumként épült", "Több mint 450 üzlet található a területén", "Évente kb. 21 millió látogatót vonz", "Itt található Szlovénia legmagasabb épülete"],
+      ro: ["Fost complex de depozite logistice", "Peste 450 de magazine în incintă", "Atrage circa 21 milioane de vizitatori anual", "Găzduiește cel mai înalt zgârie-nori din Slovenia"],
+      en: ["Originally built as a warehouse complex", "Features over 450 retail stores", "Attracts approximately 21 million visitors per year", "Home to Slovenia's tallest skyscraper"],
+    },
+    image: "/poi-images/slovenia-btc-city-ljubljana-economic-v2.webp",
+},  {
     id: "slovenia-secovlje-salt-pans-economic-v2",
     type: "industry",
-    name: { de: "Salinen von Sečovlje", hu: "Sečovljei sólepárló", ro: "Salinele din Sečovlje", en: "Sečovlje Salt Pans" },
+    name: { de: "Salinen von Sečovlje", hu: "Sečovljei sólepárló", ro: "Salinele din Sečovlje", en: "Sečovlje Salt Pans",
+image: "/poi-images/slovenia-secovlje-salt-pans-economic-v2.webp"
+},
     coords: [13.6111, 45.4883],
     coordinates: { lat: 45.4883, lng: 13.6111 },
     description: {
@@ -383,11 +667,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Peste 700 de ani de tradiție", "Extracția florii de sare (Fleur de Sel)", "Combinație între parc natural și industrie", "Folosește puterea soarelui și a vântului"],
       en: ["Over 700 years of salt-making tradition", "Harvesting of premium Fleur de Sel", "Combination of nature park and industry", "Uses solar and wind evaporation"],
     },
-    imageHint: "Traditional salt harvesting at Sečovlje pans", image: "/poi-images/slovenia-secovlje-salt-pans-economic-v2.webp"},
-  {
+imageHint: "Traditional salt harvesting at Sečovlje pans",
+    descriptionAdvanced: {
+      de: "In den Salinen von Sečovlje wird seit Jahrhunderten Salz nach traditionellen Methoden gewonnen, was sie zu einem einzigartigen Industriedenkmal macht.",
+      hu: "A sečovljei sólepárlókban évszázadok óta hagyományos módszerekkel nyerik ki a sót, amely így egyedülálló ipari és természeti emlékhely.",
+      ro: "În salinele din Sečovlje, sarea este extrasă prin metode tradiționale de secole, fiind un monument industrial și natural unic.",
+      en: "At the Sečovlje Salt Pans, salt has been harvested using traditional methods for centuries, making it a unique industrial and natural heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Über 700 Jahre Tradition der Salzgewinnung", "Nutzung natürlicher Verdunstung", "Produktion der berühmten Salzblüte (Fleur de Sel)", "Heute ein geschützter Landschaftspark"],
+      hu: ["Több mint 700 éves hagyomány a sólepárlásban", "Természetes párologtatással nyerik ki a sót", "A híres sóvirág (Fleur de Sel) származási helye", "Ma védett tájvédelmi körzetként is üzemel"],
+      ro: ["Peste 700 de ani de tradiție în extracția sării", "Utilizarea evaporării naturale prin soare", "Locul de origine al celebrei flori de sare", "Funcționează astăzi ca parc natural protejat"],
+      en: ["Over 700 years of salt harvesting tradition", "Uses natural solar evaporation methods", "Producer of the premium 'flower of salt'", "Now operates as a protected landscape park"],
+    },
+    image: "/poi-images/slovenia-secovlje-salt-pans-economic-v2.webp",
+},  {
     id: "slovenia-impol-slovenska-bistrica-economic-v2",
     type: "factory",
-    name: { de: "Impol Aluminiumverarbeitung", hu: "Impol Alumíniumfeldolgozó", ro: "Impol Prelucrarea Aluminiului", en: "Impol Aluminum Industry" },
+    name: { de: "Impol Aluminiumverarbeitung", hu: "Impol Alumíniumfeldolgozó", ro: "Impol Prelucrarea Aluminiului", en: "Impol Aluminum Industry",
+image: "/poi-images/slovenia-impol-slovenska-bistrica-economic-v2.webp"
+},
     coords: [15.5847, 46.3911],
     coordinates: { lat: 46.3911, lng: 15.5847 },
     description: {
@@ -402,11 +701,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1825", "Specialist în aliaje de aluminiu", "Exportă aproape întreaga producție", "Furnizor cheie pentru industria UE"],
       en: ["Tradition dating back to 1825", "Specialist in aluminum alloys", "Exports nearly its entire production", "Key supplier for EU industry"],
     },
-    imageHint: "Aluminum rolling process in the Impol factory", image: "/poi-images/slovenia-impol-slovenska-bistrica-economic-v2.webp"},
-  {
+imageHint: "Aluminum rolling process in the Impol factory",
+    descriptionAdvanced: {
+      de: "Impol in Slovenska Bistrica ist ein bedeutender europäischer Verarbeiter von Aluminiumprodukten und beliefert Branchen wie Automobilbau und Luftfahrt.",
+      hu: "A slovenska bistricai Impol jelentős európai alumíniumfeldolgozó, amely többek között az autó- és repülőgépipart látja el termékeivel.",
+      ro: "Impol din Slovenska Bistrica este un procesator european major de produse din aluminiu, furnizând materiale pentru auto și aviație.",
+      en: "Impol in Slovenska Bistrica is a major European processor of aluminum products, supplying sectors like the automotive and aerospace industries.",
+    },
+    factsAdvanced: {
+      de: ["Wurzeln reichen bis ins Jahr 1825 zurück", "Sechstgrößter Exporteur Sloweniens", "Produziert Walz- und Pressprodukte", "Zertifizierter Lieferant für die Luftfahrt"],
+      hu: ["A vállalat gyökerei 1825-ig nyúlnak vissza", "Szlovénia hatodik legnagyobb exportőre", "Hengerelt és sajtolt termékeket gyárt", "A repülőgépipar minősített beszállítója"],
+      ro: ["Rădăcinile companiei datează din 1825", "Al șaselea cel mai mare exportator sloven", "Produce laminate și extrudate din aluminiu", "Furnizor certificat pentru industria aeronautică"],
+      en: ["Roots of the company date back to 1825", "Slovenia's sixth-largest exporter", "Produces rolled and extruded aluminum products", "Certified supplier for the aerospace industry"],
+    },
+    image: "/poi-images/slovenia-impol-slovenska-bistrica-economic-v2.webp",
+},  {
     id: "slovenia-sava-tires-kranj-economic-v2",
     type: "factory",
-    name: { de: "Sava Tires (Goodyear)", hu: "Sava Gumiabroncsgyár", ro: "Anvelope Sava (Goodyear)", en: "Sava Tires (Goodyear)" },
+    name: { de: "Sava Tires (Goodyear)", hu: "Sava Gumiabroncsgyár", ro: "Anvelope Sava (Goodyear)", en: "Sava Tires (Goodyear)",
+image: "/poi-images/slovenia-sava-tires-kranj-economic-v2.webp"
+},
     coords: [14.3611, 46.2522],
     coordinates: { lat: 46.2522, lng: 14.3611 },
     description: {
@@ -421,11 +735,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Parte a grupului Goodyear", "Peste 1.500 de angajați în Kranj", "Producție pentru piețele mondiale", "Lider de piață în Slovenia"],
       en: ["Part of the Goodyear Group", "Over 1,500 employees in Kranj", "Production for global markets", "Market leader in Slovenia"],
     },
-    imageHint: "New tires stacked in a storage facility in Kranj", image: "/poi-images/slovenia-sava-tires-kranj-economic-v2.webp"},
-  {
+imageHint: "New tires stacked in a storage facility in Kranj",
+    descriptionAdvanced: {
+      de: "Sava Tires in Kranj ist einer der größten Reifenhersteller in Südosteuropa und gehört heute zum globalen Goodyear-Konzern.",
+      hu: "A kranji Sava Tires Délkelet-Európa egyik legnagyobb gumiabroncsgyártója, amely ma a globális Goodyear-csoport tagja.",
+      ro: "Sava Tires din Kranj este unul dintre cei mai mari producători de anvelope din Europa de Sud-Est, făcând parte din grupul Goodyear.",
+      en: "Sava Tires in Kranj is one of the largest tire manufacturers in Southeastern Europe and currently operates as part of the global Goodyear Group.",
+    },
+    factsAdvanced: {
+      de: ["Beginn der Reifenproduktion 1920", "Vollständige Übernahme durch Goodyear 2004", "Produziert jährlich Millionen von Reifen", "Wichtiger Arbeitgeber in der Region Gorenjska"],
+      hu: ["1920-ban indult a gumiabroncsgyártás", "2004-ben került teljes egészében a Goodyearhez", "Évente több millió gumiabroncsot gyártanak itt", "Gorenjska régió egyik legfontosabb munkaadója"],
+      ro: ["Producția de anvelope a început în 1920", "Achiziționată integral de Goodyear în 2004", "Produce milioane de anvelope în fiecare an", "Angajator major în regiunea Gorenjska"],
+      en: ["Tire production began in 1920", "Fully acquired by Goodyear in 2004", "Produces millions of tires annually", "Key employer in the Gorenjska region"],
+    },
+    image: "/poi-images/slovenia-sava-tires-kranj-economic-v2.webp",
+},  {
     id: "slovenia-helios-domzale-economic-v2",
     type: "factory",
-    name: { de: "Helios Lacke und Farben", hu: "Helios Festékgyár", ro: "Vopsele și Lacuri Helios", en: "Helios Coatings" },
+    name: { de: "Helios Lacke und Farben", hu: "Helios Festékgyár", ro: "Vopsele și Lacuri Helios", en: "Helios Coatings",
+image: "/poi-images/slovenia-helios-domzale-economic-v2.webp"
+},
     coords: [14.6111, 46.1083],
     coordinates: { lat: 46.1083, lng: 14.6111 },
     description: {
@@ -440,11 +769,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1924", "Parte a grupului Kansai Paint", "Lider în Europa Centrală și de Est", "Specialist în acoperiri industriale"],
       en: ["Founded in 1924", "Part of the Kansai Paint Group", "Leader in Central and Eastern Europe", "Specialist in industrial coatings"],
     },
-    imageHint: "Industrial paint mixing equipment at the Helios factory", image: "/poi-images/slovenia-helios-domzale-economic-v2.webp"},
-  {
+imageHint: "Industrial paint mixing equipment at the Helios factory",
+    descriptionAdvanced: {
+      de: "Helios in Domžale ist ein führender europäischer Hersteller von Lacken und Beschichtungen und gehört heute zur japanischen Kansai Paint Gruppe.",
+      hu: "A domžalei Helios Európa egyik vezető lakk- és festékgyártója, amely ma a japán Kansai Paint vállalatcsoport része.",
+      ro: "Helios din Domžale este un producător european de top de lacuri și vopsele, aparținând astăzi grupului japonez Kansai Paint.",
+      en: "Helios in Domžale is a leading European manufacturer of coatings and paints, now operating as part of the Japanese Kansai Paint Group.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1924", "Spezialisiert auf Industrielacke", "Teil von Kansai Paint seit 2017", "Einer der Top-Beschichtungsproduzenten weltweit"],
+      hu: ["1924-ben alapították Domžale városában", "Ipari bevonatokra és festékekre szakosodott", "2017 óta a japán Kansai Paint csoport tagja", "A világ egyik legnagyobb festékgyártója"],
+      ro: ["Fondată în anul 1924 la Domžale", "Specializată în vopsele industriale", "Parte a Kansai Paint din anul 2017", "Unul dintre marii producători de profil la nivel mondial"],
+      en: ["Founded in 1924 in Domžale", "Specialized in industrial coatings", "Member of Kansai Paint since 2017", "Ranked among the top coating producers globally"],
+    },
+    image: "/poi-images/slovenia-helios-domzale-economic-v2.webp",
+},  {
     id: "slovenia-paloma-sladki-vrh-economic-v2",
     type: "factory",
-    name: { de: "Paloma Papierfabrik", hu: "Paloma Papírgyár", ro: "Fabrica de Hârtie Paloma", en: "Paloma Paper Factory" },
+    name: { de: "Paloma Papierfabrik", hu: "Paloma Papírgyár", ro: "Fabrica de Hârtie Paloma", en: "Paloma Paper Factory",
+image: "/poi-images/slovenia-paloma-sladki-vrh-economic-v2.webp"
+},
     coords: [15.6547, 46.7058],
     coordinates: { lat: 46.7058, lng: 15.6547 },
     description: {
@@ -459,11 +803,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1873", "Lider de piață în regiunea Adriatică", "Peste 140 de ani de producție", "Parte a grupului SHP"],
       en: ["Tradition since 1873", "Market leader in the Adriatic region", "Over 140 years of papermaking", "Part of the SHP Group"],
     },
-    imageHint: "Paper manufacturing machine at the Paloma factory", image: "/poi-images/slovenia-paloma-sladki-vrh-economic-v2.webp"},
-  {
+imageHint: "Paper manufacturing machine at the Paloma factory",
+    descriptionAdvanced: {
+      de: "Paloma in Sladki Vrh ist ein renommierter Hersteller von Hygienepapierprodukten mit einer langen Tradition in der Papierindustrie an der Drau.",
+      hu: "A sladki vrh-i Paloma a higiéniai papírtermékek neves gyártója, amely évszázados papíripari hagyományokkal rendelkezik a Dráva partján.",
+      ro: "Paloma din Sladki Vrh este un producător renumit de produse din hârtie igienică, cu o lungă tradiție în industria hârtiei de pe malul Dravei.",
+      en: "Paloma in Sladki Vrh is a prominent manufacturer of hygiene paper products, boasting a long tradition in the paper industry along the Drava River.",
+    },
+    factsAdvanced: {
+      de: ["Papierherstellung am Standort seit 1873", "Marktführer in vielen Ländern Ex-Jugoslawiens", "Produziert jährlich ca. 70.000 Tonnen Papier", "Heute Teil der tschechischen SHP-Gruppe"],
+      hu: ["1873 óta zajlik papírgyártás a helyszínen", "Piacvezető számos ex-jugoszláv országban", "Évi kb. 70 000 tonna papírterméket gyárt", "Ma a cseh SHP csoport tulajdonában van"],
+      ro: ["Producția de hârtie pe acest sit datează din 1873", "Lider de piață în multe țări din fosta Iugoslavie", "Capacitate de circa 70.000 tone de hârtie pe an", "Parte a grupului ceh SHP din ultimii ani"],
+      en: ["Paper production at the site since 1873", "Market leader in several ex-Yugoslav countries", "Produces roughly 70,000 tons of paper annually", "Currently part of the Czech SHP Group"],
+    },
+    image: "/poi-images/slovenia-paloma-sladki-vrh-economic-v2.webp",
+},  {
     id: "slovenia-zito-ljubljana-economic-v2",
     type: "factory",
-    name: { de: "Žito Lebensmittelindustrie", hu: "Žito Élelmiszeripar", ro: "Industria Alimentară Žito", en: "Žito Food Industry" },
+    name: { de: "Žito Lebensmittelindustrie", hu: "Žito Élelmiszeripar", ro: "Industria Alimentară Žito", en: "Žito Food Industry",
+image: "/poi-images/slovenia-zito-ljubljana-economic-v2.webp"
+},
     coords: [14.5511, 46.0719],
     coordinates: { lat: 46.0719, lng: 14.5511 },
     description: {
@@ -478,11 +837,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1947", "Cea mai mare brutărie din țară", "Parte a grupului Podravka", "Gamă largă de produse alimentare de bază"],
       en: ["Founded in 1947", "Largest bakery in the country", "Member of the Podravka Group", "Wide range of staple food products"],
     },
-    imageHint: "Freshly baked bread at a Žito industrial bakery", image: "/poi-images/slovenia-zito-ljubljana-economic-v2.webp"},
-  {
+imageHint: "Freshly baked bread at a Žito industrial bakery",
+    descriptionAdvanced: {
+      de: "Žito ist das größte Lebensmittelunternehmen Sloweniens im Bereich Backwaren und Müllerei, bekannt für Qualitätsprodukte wie Brot und Pasta.",
+      hu: "A Žito Szlovénia legnagyobb sütőipari és malomipari vállalata, amely kiváló minőségű kenyereiről, tésztaféléiről és pékáruiról ismert.",
+      ro: "Žito este cea mai mare companie alimentară din Slovenia în domeniul panificației, renumită pentru calitatea pâinii și a pastelor făinoase.",
+      en: "Žito is Slovenia's largest food company in the bakery and milling sector, well-known for high-quality products like bread and pasta.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1947", "Besitzer bekannter Marken wie Gorenjka", "Heute Teil des kroatischen Podravka-Konzerns", "Größter Brotbäcker in Slowenien"],
+      hu: ["1947-ben alapították Ljubljanában", "Olyan márkák tulajdonosa, mint a Gorenjka", "Ma a horvát Podravka konszern tagja", "Szlovénia legnagyobb sütőipari vállalata"],
+      ro: ["Fondată în anul 1947 la Ljubljana", "Deține mărci populare precum Gorenjka", "Parte a grupului croat Podravka", "Cel mai mare producător de pâine din Slovenia"],
+      en: ["Founded in 1947", "Owner of famous brands like Gorenjka chocolate", "Currently part of the Croatian Podravka Group", "Slovenia's largest commercial bakery"],
+    },
+    image: "/poi-images/slovenia-zito-ljubljana-economic-v2.webp",
+},  {
     id: "slovenia-unior-zrece-economic-v2",
     type: "factory",
-    name: { de: "Unior Werkzeuge", hu: "Unior Szerszámgyár", ro: "Unior Scule și Unelte", en: "Unior Tools" },
+    name: { de: "Unior Werkzeuge", hu: "Unior Szerszámgyár", ro: "Unior Scule și Unelte", en: "Unior Tools",
+image: "/poi-images/slovenia-unior-zrece-economic-v2.webp"
+},
     coords: [15.3911, 46.3828],
     coordinates: { lat: 46.3828, lng: 15.3911 },
     description: {
@@ -497,11 +871,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1919", "Una dintre cele mai mari forje din Europa", "Specialist în unelte pentru biciclete", "Angajator major în regiunea Rogla"],
       en: ["Tradition since 1919", "One of the largest forging plants in Europe", "Specialist in bicycle-specific tools", "Key employer in the Rogla region"],
     },
-    imageHint: "Precision hand tools manufactured at the Unior plant", image: "/poi-images/slovenia-unior-zrece-economic-v2.webp"},
-  {
+imageHint: "Precision hand tools manufactured at the Unior plant",
+    descriptionAdvanced: {
+      de: "Unior in Zreče ist ein bedeutender Hersteller von Schmiedeteilen und Handwerkzeugen, der weltweit für seine Qualität im Profibereich geschätzt wird.",
+      hu: "A zrečei Unior a kovácsolt alkatrészek és kéziszerszámok jelentős gyártója, amely világszerte elismert a professzionális szerszámok piacán.",
+      ro: "Unior din Zreče este un producător important de piese forjate și scule de mână, apreciat la nivel global pentru calitatea sa profesională.",
+      en: "Unior in Zreče is a significant manufacturer of forged parts and hand tools, globally respected for its quality in the professional tool market.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1919", "Einer der weltweit größten Lieferanten für Schmiedeteile", "Bekannt für Werkzeuge in der Fahrradindustrie", "Wichtiger Partner der Automobilindustrie"],
+      hu: ["1919-ben alapították a vállalatot", "A világ egyik legnagyobb kovácsműhelye", "Kiemelkedő a kerékpáriparnak gyártott szerszámairól", "Az autóipar fontos stratégiai partnere"],
+      ro: ["Fondată în anul 1919 la Zreče", "Unul dintre cei mai mari furnizori mondiali de piese forjate", "Renumită pentru sculele destinate bicicletelor", "Partener major pentru industria auto globală"],
+      en: ["Founded in 1919", "One of the world's largest forged part suppliers", "Famous for high-end bicycle tools", "Key partner to the global automotive industry"],
+    },
+    image: "/poi-images/slovenia-unior-zrece-economic-v2.webp",
+},  {
     id: "slovenia-zlatolicje-hydro-power-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Zlatoličje", hu: "Zlatoličjei vízerőmű", ro: "Hidrocentrala Zlatoličje", en: "Zlatoličje Hydroelectric Power Plant" },
+    name: { de: "Wasserkraftwerk Zlatoličje", hu: "Zlatoličjei vízerőmű", ro: "Hidrocentrala Zlatoličje", en: "Zlatoličje Hydroelectric Power Plant",
+image: "/poi-images/slovenia-zlatolicje-hydro-power-economic-v2.webp"
+},
     coords: [15.7833, 46.4608],
     coordinates: { lat: 46.4608, lng: 15.7833 },
     description: {
@@ -516,11 +905,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai puternică hidrocentrală din Slovenia", "Situată pe râul Drava", "În funcțiune din 1968", "Parte a lanțului de centrale de pe Drava"],
       en: ["Most powerful hydroelectric plant in Slovenia", "Located on the Drava River", "Operational since 1968", "Part of the Drava power plant chain"],
     },
-    imageHint: "Aerial view of the Zlatoličje dam and power station", image: "/poi-images/slovenia-zlatolicje-hydro-power-economic-v2.webp"},
-  {
+imageHint: "Aerial view of the Zlatoličje dam and power station",
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Zlatoličje an der Drau ist die leistungsstärkste Anlage dieser Art in Slowenien und ein Pfeiler der nachhaltigen Energieversorgung.",
+      hu: "A Dráva folyón található zlatoličjei vízerőmű Szlovénia legnagyobb teljesítményű vízerőműve, amely a megújuló energiatermelés egyik tartóoszlopa.",
+      ro: "Hidrocentrala Zlatoličje de pe râul Drava este cea mai puternică unitate de acest tip din Slovenia, fiind un pilon al energiei sustenabile.",
+      en: "The Zlatoličje Hydroelectric Power Plant on the Drava River is the most powerful facility of its kind in Slovenia, supporting sustainable energy.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 1969", "Kanalkraftwerk mit zwei Turbinen", "Größtes Wasserkraftwerk des Landes", "Jährliche Produktion von ca. 570 GWh"],
+      hu: ["1969-ben helyezték üzembe", "Csatorna típusú erőmű két turbinával", "Az ország legnagyobb teljesítményű vízerőműve", "Éves átlagtermelése kb. 570 GWh"],
+      ro: ["Pusă în funcțiune în anul 1969", "Hidrocentrală pe canal cu două turbine", "Cea mai mare hidrocentrală din țară", "Producție anuală de circa 570 GWh"],
+      en: ["Operational since 1969", "Channel-type plant with two turbines", "Slovenia's largest hydroelectric power plant", "Annual energy production of approx. 570 GWh"],
+    },
+    image: "/poi-images/slovenia-zlatolicje-hydro-power-economic-v2.webp",
+},  {
     id: "slovenia-trbovlje-chimney-economic-v2",
     type: "industry",
-    name: { de: "Schornstein von Trbovlje", hu: "Trbovljei kémény", ro: "Coșul de fum din Trbovlje", en: "Trbovlje Chimney" },
+    name: { de: "Schornstein von Trbovlje", hu: "Trbovljei kémény", ro: "Coșul de fum din Trbovlje", en: "Trbovlje Chimney",
+image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp"
+},
     coords: [15.0611, 46.1264],
     coordinates: { lat: 46.1264, lng: 15.0611 },
     description: {
@@ -535,11 +939,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai înaltă structură din Slovenia (360 m)", "Cel mai înalt coș industrial din Europa", "Construit în doar 210 zile", "Simbol al moștenirii industriale"],
       en: ["Tallest structure in Slovenia (360 m)", "Tallest industrial chimney in Europe", "Construction took only 210 days", "Symbol of industrial heritage"],
     },
-    imageHint: "The towering Trbovlje chimney rising above the valley", image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp"},
-  {
+imageHint: "The towering Trbovlje chimney rising above the valley",
+    descriptionAdvanced: {
+      de: "Der Schornstein von Trbovlje ist das höchste Bauwerk Sloweniens und war ursprünglich Teil des mittlerweile stillgelegten Kohlekraftwerks Trbovlje.",
+      hu: "A trbovljei kémény Szlovénia legmagasabb építménye, amely eredetileg a ma már üzemen kívüli trbovljei hőerőmű része volt.",
+      ro: "Coșul de fum din Trbovlje este cea mai înaltă structură din Slovenia, fiind inițial parte a centralei electrice pe cărbune acum dezafectate.",
+      en: "The Trbovlje Chimney is the tallest structure in Slovenia, originally built as part of the now-decommissioned Trbovlje coal-fired power plant.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von exakt 360 Metern", "Baujahr 1976", "Höchster Industrieschornstein in Europa", "Heute ein Ziel für Extremkletterer"],
+      hu: ["Pontosan 360 méter magas", "1976-ban épült fel", "Európa legmagasabb ipari kéménye", "Ma extrém mászók népszerű célpontja"],
+      ro: ["Înălțime de exact 360 de metri", "Construit în anul 1976", "Cel mai înalt coș industrial din Europa", "Astăzi este o destinație pentru cățărători extremi"],
+      en: ["Height of exactly 360 meters", "Constructed in 1976", "Tallest industrial chimney in Europe", "Now a popular spot for extreme free-climbing"],
+    },
+    image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp",
+},  {
     id: "slovenia-ljubljanske-mlekarne-economic-v2",
     type: "factory",
-    name: { de: "Ljubljanaer Molkerei", hu: "Ljubljanai Tejgyár", ro: "Lactatele Ljubljana", en: "Ljubljana Dairy" },
+    name: { de: "Ljubljanaer Molkerei", hu: "Ljubljanai Tejgyár", ro: "Lactatele Ljubljana", en: "Ljubljana Dairy",
+image: "/poi-images/slovenia-ljubljanske-mlekarne-economic-v2.webp"
+},
     coords: [14.5211, 46.0825],
     coordinates: { lat: 46.0825, lng: 14.5211 },
     description: {
@@ -554,11 +973,26 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai mare unitate de lactate din Slovenia", "Procesează exclusiv lapte sloven", "Parte a grupului Lactalis", "Producător al popularei înghețate Planica"],
       en: ["Largest dairy company in Slovenia", "Processes exclusively Slovenian milk", "Part of the Lactalis Group", "Manufacturer of the popular Planica ice cream"],
     },
-    imageHint: "Dairy production line at Ljubljanske mlekarne", image: "/poi-images/slovenia-ljubljanske-mlekarne-economic-v2.webp"},
-  {
+imageHint: "Dairy production line at Ljubljanske mlekarne",
+    descriptionAdvanced: {
+      de: "Ljubljanske mlekarne ist die größte Molkerei Sloweniens und verarbeitet den Großteil der im Land produzierten Milch zu hochwertigen Milchprodukten.",
+      hu: "A Ljubljanske mlekarne Szlovénia legnagyobb tejüzeme, amely az országban termelt tej jelentős részét dolgozza fel kiváló minőségű termékekké.",
+      ro: "Ljubljanske mlekarne este cea mai mare lăptărie din Slovenia, procesând cea mai mare parte a laptelui produs în țară în lactate de calitate.",
+      en: "Ljubljanske mlekarne is Slovenia's largest dairy, processing the majority of the country's milk production into high-quality dairy products.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1956", "Hersteller der bekannten Marke Alpina", "Übernahme durch den Lactalis-Konzern 2013", "Verarbeitet über 200 Mio. Liter Milch jährlich"],
+      hu: ["1956-ban alapították Ljubljanában", "Az Alpina márka gyártója", "2013 óta a Lactalis csoport tagja", "Évi több mint 200 millió liter tejet dolgoz fel"],
+      ro: ["Fondată în anul 1956", "Producător al mărcii populare Alpina", "Achiziționată de grupul Lactalis în 2013", "Procesează peste 200 milioane litri de lapte anual"],
+      en: ["Founded in 1956", "Producer of the famous Alpina brand", "Acquired by the Lactalis Group in 2013", "Processes over 200 million liters of milk annually"],
+    },
+    image: "/poi-images/slovenia-ljubljanske-mlekarne-economic-v2.webp",
+},  {
     id: "slovenia-intereuropa-koper-economic-v2",
     type: "industry",
-    name: { de: "Intereuropa Logistik", hu: "Intereuropa Logisztika", ro: "Logistica Intereuropa", en: "Intereuropa Logistics" },
+    name: { de: "Intereuropa Logistik", hu: "Intereuropa Logisztika", ro: "Logistica Intereuropa", en: "Intereuropa Logistics",
+image: "/poi-images/slovenia-intereuropa-koper-economic-v2.webp"
+},
     coords: [13.7311, 45.5472],
     coordinates: { lat: 45.5472, lng: 13.7311 },
     description: {
@@ -574,5 +1008,17 @@ export const sloveniaEconomicV2: POI[] = [
       en: ["Slovenia's largest logistics company", "Headquartered in Koper", "Over 12 subsidiaries across Europe", "Part of the Pošta Slovenije Group"],
     },
     imageHint: "Intereuropa logistics trucks and warehouse facilities",
+    descriptionAdvanced: {
+      de: "Intereuropa mit Hauptsitz in Koper ist der führende Logistikanbieter in Slowenien und verbindet Schienentransport, Schifffahrt und Straßentransport.",
+      hu: "A koperi székhelyű Intereuropa Szlovénia vezető logisztikai szolgáltatója, amely összeköti a vasúti, tengeri és közúti teherszállítást.",
+      ro: "Intereuropa, cu sediul în Koper, este principalul furnizor de servicii logistice din Slovenia, conectând transportul feroviar, maritim și rutier.",
+      en: "Intereuropa, headquartered in Koper, is Slovenia's leading logistics provider, integrating rail, maritime, and road transport services.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1947", "Spezialisierung auf den Balkan-Markt", "Enge Kooperation mit dem Hafen von Koper", "Seit 2019 Teil der slowenischen Post"],
+      hu: ["1947-ben alapították Koperben", "A balkáni piac logisztikai specialistája", "Szoros együttműködés a koperi kikötővel", "2019 óta a szlovén posta (Pošta Slovenije) része"],
+      ro: ["Fondată în anul 1947 la Koper", "Specializată pe piața din Balcani", "Cooperare strânsă cu Portul Koper", "Parte a Poștei Slovene din anul 2019"],
+      en: ["Founded in 1947", "Specialized in the Balkan logistics market", "Close cooperation with the Port of Koper", "Acquired by Pošta Slovenije in 2019"],
+    },
   }
 ];

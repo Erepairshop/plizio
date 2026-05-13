@@ -4,7 +4,9 @@ export const moldovaEconomicV2: POI[] = [
   {
     id: "moldova-giurgiulesti-port-economic-v2",
     type: "port",
-    name: { de: "Internationaler Freihafen Giurgiulești", hu: "Giurgiulești Nemzetközi Szabadkikötő", ro: "Portul Internațional Liber Giurgiulești", en: "Giurgiulești International Free Port" },
+    name: { de: "Internationaler Freihafen Giurgiulești", hu: "Giurgiulești Nemzetközi Szabadkikötő", ro: "Portul Internațional Liber Giurgiulești", en: "Giurgiulești International Free Port",
+image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"
+},
     coords: [28.2036, 45.4744],
     coordinates: { lat: 45.4744, lng: 28.2036 },
     description: {
@@ -19,11 +21,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondat în anul 2005", "Statut de zonă economică liberă", "Situat la confluența râului Prut cu Dunărea", "Dispune de terminale petroliere, cerealiere și de containere"],
       en: ["Founded in 2005", "Status of a Free Economic Zone", "Located at the confluence of Prut and Danube", "Features oil, grain, and container terminals"],
     },
-    imageHint: "Giurgiulesti port cranes and grain terminal on the Danube", image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"},
+    imageHint: "Giurgiulesti port cranes and grain terminal on the Danube",
+    image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen Giurgiulești ist Moldaus einziger Zugang zum Schwarzen Meer über die Donau. Er dient als strategischer Logistikhub für Erdölprodukte und internationale Getreideexporte.",
+      hu: "A giurgiulești kikötő Moldova egyetlen kijárata a tengerre a Dunán keresztül. Stratégiai fontosságú logisztikai központ az üzemanyag-behozatal és a gabonaexport számára.",
+      ro: "Portul Internațional Liber Giurgiulești reprezintă singura poartă navală a Republicii Moldova la Dunăre. Este un nod logistic esențial pentru exportul de cereale și importul de petrol.",
+      en: "Giurgiulești Port is Moldova's only water gateway to the Black Sea via the Danube. It functions as a strategic logistics hub for fuel imports and international grain trade.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Donauhafen Moldaus", "Status einer Freien Wirtschaftszone", "Terminal für flüssige Massengüter", "Anbindung an das europäische Schienennetz"],
+      hu: ["Moldova egyetlen dunai kikötője", "Szabadkereskedelmi zóna státusz", "Folyékony áruk terminálja", "Európai vasúti nyomtávú kapcsolat"],
+      ro: ["Singurul port la Dunăre al țării", "Statut de Zonă Economică Liberă", "Terminal pentru mărfuri lichide", "Conexiune feroviară cu ecartament european"],
+      en: ["Only Danube port in Moldova", "Free Economic Zone status", "Liquid bulk cargo terminal", "European gauge railway connection"],
+    },
+  },
   {
     id: "moldova-fez-balti-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Bălți", hu: "Bălți Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Bălți", en: "Free Economic Zone Bălți" },
+    name: { de: "Freie Wirtschaftszone Bălți", hu: "Bălți Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Bălți", en: "Free Economic Zone Bălți",
+image: "/poi-images/moldova-fez-balti-economic-v2.webp"
+},
     coords: [27.9225, 47.7812],
     coordinates: { lat: 47.7812, lng: 27.9225 },
     description: {
@@ -38,11 +56,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Deschisă în anul 2010", "Peste 2000 de hectare suprafață totală", "Atrage investiții din Germania și Japonia", "Focus pe componente auto și electrice"],
       en: ["Opened in 2010", "Over 2000 hectares of total area", "Attracts investments from Germany and Japan", "Focus on automotive and electrical components"],
     },
-    imageHint: "Modern industrial factory buildings in Balti economic zone", image: "/poi-images/moldova-fez-balti-economic-v2.webp"},
+    imageHint: "Modern industrial factory buildings in Balti economic zone",
+    image: "/poi-images/moldova-fez-balti-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Freie Wirtschaftszone Bălți ist das größte Industriezentrum im Norden Moldaus. Sie beherbergt namhafte Automobilzulieferer und fördert technologische Innovationen der Region.",
+      hu: "A balti Szabad Gazdasági Övezet Észak-Moldova legnagyobb ipari központja. Jelentős autóipari beszállítóknak ad otthont, elősegítve a régió technológiai fejlődését.",
+      ro: "Zona Economică Liberă Bălți este cel mai mare centru industrial din nordul Moldovei. Găzduiește producători majori de componente auto și atrage investiții tehnologice masive.",
+      en: "The Free Economic Zone Bălți is the largest industrial hub in northern Moldova. It hosts major automotive component manufacturers and drives regional technological innovation.",
+    },
+    factsAdvanced: {
+      de: ["Über 2500 Hektar Gesamtfläche", "Fokus auf Automobilkomponenten", "Draexlmaier als größter Investor", "Exportorientierte Industrieproduktion"],
+      hu: ["Több mint 2500 hektár összterület", "Autóipari alkatrészek gyártása", "A Draexlmaier a legnagyobb befektető", "Exportorientált ipari termelés"],
+      ro: ["Peste 2500 hectare suprafață totală", "Focus pe componente auto", "Draexlmaier este principalul investitor", "Producție industrială orientată spre export"],
+      en: ["Over 2500 hectares total area", "Focus on automotive components", "Draexlmaier is the anchor investor", "Export-oriented industrial production"],
+    },
+  },
   {
     id: "moldova-cricova-winery-economic-v2",
     type: "industry",
-    name: { de: "Weingut Cricova", hu: "Cricova Borászat", ro: "Combinatul de Vinuri Cricova", en: "Cricova Winery" },
+    name: { de: "Weingut Cricova", hu: "Cricova Borászat", ro: "Combinatul de Vinuri Cricova", en: "Cricova Winery",
+image: "/poi-images/moldova-cricova-winery-economic-v2.webp"
+},
     coords: [28.8583, 47.1388],
     coordinates: { lat: 47.1388, lng: 28.8583 },
     description: {
@@ -57,11 +91,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1952", "Labirint subteran de 120 km lungime", "Găzduiește o uriașă colecție de vinuri de stat", "Produce prin metoda clasică franceză"],
       en: ["Founded in 1952", "120 km of underground tunnels", "Houses a massive state wine collection", "Produces using the classical French method"],
     },
-    imageHint: "Underground wine cellar tunnels with oak barrels in Cricova", image: "/poi-images/moldova-cricova-winery-economic-v2.webp"},
+    imageHint: "Underground wine cellar tunnels with oak barrels in Cricova",
+    image: "/poi-images/moldova-cricova-winery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Cricova ist eine unterirdische Weinstadt mit einem Labyrinth aus über 120 Kilometern Stollen. Die Kellerei ist weltweit für ihre klassische Schaumweinproduktion bekannt.",
+      hu: "Cricova egy föld alatti borváros, amelynek járatai több mint 120 kilométer hosszan kanyarognak. A pincészet világhírű a hagyományos módszerrel készülő pezsgőiről.",
+      ro: "Cricova este un oraș vinicol subteran cu un labirint de peste 120 de kilometri de galerii. Combinatul este renumit mondial pentru producția de spumante prin metoda clasică.",
+      en: "Cricova is an underground wine city featuring a labyrinth of over 120 kilometers of tunnels. The winery is world-renowned for its traditional-method sparkling wine production.",
+    },
+    factsAdvanced: {
+      de: ["120 km langes Stollensystem", "Lagerung bei konstanten 12 Grad", "Nationale Weinsammlung Moldaus", "Gegründet im Jahr 1952"],
+      hu: ["120 km hosszú járatrendszer", "Állandó 12 fokos hőmérséklet", "Moldovai Nemzeti Borgyűjtemény", "Alapítva 1952-ben"],
+      ro: ["120 km lungimea galeriilor", "Temperatură constantă de 12 grade", "Colecția Națională de Vinuri", "Fondat în anul 1952"],
+      en: ["120 km total tunnel length", "Constant 12-degree temperature", "National Wine Collection of Moldova", "Founded in 1952"],
+    },
+  },
   {
     id: "moldova-cuciurgan-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Cuciurgan", hu: "Cuciurgan Erőmű", ro: "Centrala Electrică de la Cuciurgan", en: "Cuciurgan Power Station" },
+    name: { de: "Kraftwerk Cuciurgan", hu: "Cuciurgan Erőmű", ro: "Centrala Electrică de la Cuciurgan", en: "Cuciurgan Power Station",
+image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"
+},
     coords: [29.9372, 46.6261],
     coordinates: { lat: 46.6261, lng: 29.9372 },
     description: {
@@ -76,11 +126,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Construită în anul 1964", "Putere instalată de 2520 MW", "Funcționează pe gaz, cărbune și păcură", "Cel mai important furnizor de energie al țării"],
       en: ["Built in 1964", "Installed capacity of 2520 MW", "Operates on natural gas, coal, and oil", "Main energy supplier for the country"],
     },
-    imageHint: "Large industrial power plant with chimneys near a lake", image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"},
+    imageHint: "Large industrial power plant with chimneys near a lake",
+    image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Cuciurgan ist die größte Energieanlage Moldaus und versorgt weite Teile der Region. Es nutzt Gas, Kohle und Öl zur Stromerzeugung für den In- und Export.",
+      hu: "A cuciurgani erőmű Moldova legnagyobb energiatermelő létesítménye, amely a régió nagy részét ellátja. Gázt, szenet és olajat használ áramtermelésre export célokra is.",
+      ro: "Centrala de la Cuciurgan este cea mai mare unitate energetică din Moldova, alimentând zone extinse. Utilizează gaz, cărbune și păcură pentru generarea energiei electrice.",
+      en: "The Cuciurgan Power Station is the largest energy facility in Moldova, supplying vast parts of the region. It utilizes gas, coal, and oil for domestic and export electricity.",
+    },
+    factsAdvanced: {
+      de: ["Nennleistung von 2520 MW", "12 Kraftwerksblöcke in Betrieb", "Größtes Kraftwerk der Region", "Brennstoffmix aus Gas und Kohle"],
+      hu: ["2520 MW beépített teljesítmény", "12 blokkból álló rendszer", "A régió legnagyobb erőműve", "Gáz- és szén tüzelésű üzemmód"],
+      ro: ["Putere instalată de 2520 MW", "Sistem compus din 12 blocuri", "Cea mai mare centrală din regiune", "Mix de combustibil: gaz și cărbune"],
+      en: ["2520 MW installed capacity", "System of 12 power units", "Largest power plant in the region", "Fuel mix of gas and coal"],
+    },
+  },
   {
     id: "moldova-bucuria-factory-economic-v2",
     type: "factory",
-    name: { de: "Süßwarenfabrik Bucuria", hu: "Bucuria Édességgyár", ro: "Fabrica de bomboane Bucuria", en: "Bucuria Confectionery Factory" },
+    name: { de: "Süßwarenfabrik Bucuria", hu: "Bucuria Édességgyár", ro: "Fabrica de bomboane Bucuria", en: "Bucuria Confectionery Factory",
+image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"
+},
     coords: [28.8314, 47.0347],
     coordinates: { lat: 47.0347, lng: 28.8314 },
     description: {
@@ -95,11 +161,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1946", "Produce peste 450 de tipuri de dulciuri", "Are aproximativ 1500 de angajați", "Lider de piață pentru ciocolată și caramel"],
       en: ["Founded in 1946", "Produces over 450 types of sweets", "Employs around 1500 people", "Market leader for chocolate and caramel"],
     },
-    imageHint: "Bucuria factory logo and candy production line", image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"},
+    imageHint: "Bucuria factory logo and candy production line",
+    image: "/poi-images/moldova-bucuria-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Bucuria ist der führende Süßwarenhersteller Moldaus mit einer Tradition seit 1946. Die Fabrik exportiert Pralinen und Schokolade in zahlreiche europäische und asiatische Märkte.",
+      hu: "A Bucuria Moldova vezető édességgyártója, amely 1946 óta őrzi hagyományait. A gyár pralinékat és csokoládét exportál számos európai és ázsiai piacra.",
+      ro: "Bucuria este principalul producător de dulciuri din Moldova, având o tradiție din 1946. Fabrica exportă bomboane și ciocolată pe numeroase piețe europene și asiatice.",
+      en: "Bucuria is Moldova's leading confectionery manufacturer, maintaining its tradition since 1946. The factory exports pralines and chocolate to numerous European and Asian markets.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im September 1946", "Über 450 verschiedene Produkte", "Marktführer in der Republik Moldau", "Export in über 10 Länder"],
+      hu: ["Alapítva 1946 szeptemberében", "Több mint 450 termékfajta", "Piacvezető a Moldovai Köztársaságban", "Export több mint 10 országba"],
+      ro: ["Fondată în septembrie 1946", "Peste 450 de tipuri de produse", "Lider de piață în Republica Moldova", "Export în peste 10 țări"],
+      en: ["Founded in September 1946", "Over 450 types of products", "Market leader in the Republic of Moldova", "Exports to over 10 countries"],
+    },
+  },
   {
     id: "moldova-milestii-mici-economic-v2",
     type: "industry",
-    name: { de: "Weinkeller von Mileștii Mici", hu: "Mileștii Mici Borpince", ro: "Combinatul de Vinuri Mileștii Mici", en: "Mileștii Mici Winery" },
+    name: { de: "Weinkeller von Mileștii Mici", hu: "Mileștii Mici Borpince", ro: "Combinatul de Vinuri Mileștii Mici", en: "Mileștii Mici Winery",
+image: "/poi-images/moldova-milestii-mici-economic-v2.webp"
+},
     coords: [28.8028, 46.9111],
     coordinates: { lat: 46.9111, lng: 28.8028 },
     description: {
@@ -114,11 +196,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Record Guinness pentru cea mai mare colecție", "Peste 2 milioane de sticle de vin", "Lungimea totală a galeriilor este de 200 km", "Galeriile sunt parcurse cu mașina"],
       en: ["Guinness World Record for largest collection", "Over 2 million bottles of wine", "Total length of tunnels is 200 km", "The tunnels are navigated by cars"],
     },
-    imageHint: "Underground wine streets with thousands of bottles in racks", image: "/poi-images/moldova-milestii-mici-economic-v2.webp"},
+    imageHint: "Underground wine streets with thousands of bottles in racks",
+    image: "/poi-images/moldova-milestii-mici-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Mileștii Mici beherbergt die größte Weinsammlung der Welt, was offiziell im Guinness-Buch der Rekorde vermerkt ist. Die Kalksteinstollen bieten ideale Lagerbedingungen.",
+      hu: "A Mileștii Mici ad otthont a világ legnagyobb borgyűjteményének, amelyet hivatalosan a Guinness Rekordok Könyve is jegyez. A mészkőjáratok ideális tárolási feltételeket biztosítanak.",
+      ro: "Mileștii Mici găzduiește cea mai mare colecție de vinuri din lume, record omologat oficial de Guinness World Records. Galeriile de calcar oferă condiții ideale de păstrare.",
+      en: "Mileștii Mici houses the largest wine collection in the world, officially recognized by the Guinness World Records. Its limestone tunnels provide ideal storage conditions.",
+    },
+    factsAdvanced: {
+      de: ["Über 2 Millionen Flaschen Wein", "200 km langes unterirdisches Netz", "Guinness-Weltrekordhalter", "Tiefe zwischen 30 und 85 Metern"],
+      hu: ["Több mint 2 millió palack bor", "200 km hosszú föld alatti hálózat", "Guinness világrekorder helyszín", "30 és 85 méter közötti mélység"],
+      ro: ["Peste 2 milioane de butelii de vin", "Retea subterană de 200 km", "Deținător de record Guinness", "Adâncime între 30 și 85 metri"],
+      en: ["Over 2 million wine bottles", "200 km underground network", "Guinness World Record holder", "Depth between 30 and 85 meters"],
+    },
+  },
   {
     id: "moldova-glass-factory-chisinau-economic-v2",
     type: "factory",
-    name: { de: "Glasfabrik Chișinău", hu: "Kisinyovi Üveggyár", ro: "Fabrica de Sticlă din Chișinău", en: "Glass Factory Chișinău" },
+    name: { de: "Glasfabrik Chișinău", hu: "Kisinyovi Üveggyár", ro: "Fabrica de Sticlă din Chișinău", en: "Glass Factory Chișinău",
+image: "/poi-images/moldova-glass-factory-chisinau-economic-v2.webp"
+},
     coords: [28.9022, 47.0211],
     coordinates: { lat: 47.0211, lng: 28.9022 },
     description: {
@@ -134,11 +232,25 @@ export const moldovaEconomicV2: POI[] = [
       en: ["Founded in 1970", "Produces bottles and jars", "Exports throughout the Balkan region", "Uses modern furnace technology"],
     },
     imageHint: "Industrial glass bottle production line with molten glass",
+    descriptionAdvanced: {
+      de: "Die Glasfabrik Chișinău ist ein bedeutender Produzent von Glasverpackungen für die Getränkeindustrie. Sie beliefert sowohl lokale Winzer als auch internationale Kunden.",
+      hu: "A kisinyovi üveggyár az italipar számára készülő üvegcsomagolások jelentős gyártója. Kiszolgálja a helyi borászatokat és számos nemzetközi ügyfelet is.",
+      ro: "Fabrica de sticlă din Chișinău este un producător major de ambalaje din sticlă pentru industria băuturilor. Deservește atât vinăriile locale, cât și clienți externi.",
+      en: "The Glass Factory Chișinău is a significant producer of glass packaging for the beverage industry. It supplies local wineries as well as international clients.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1970", "Export in über 20 Länder", "Moderne Schmelzöfentechnologie", "Spezialisiert auf Weinflaschen"],
+      hu: ["Alapítva 1970-ben", "Export több mint 20 országba", "Modern olvasztókemence-technológia", "Borosüvegekre szakosodott gyártás"],
+      ro: ["Fondată în anul 1970", "Export în peste 20 de țări", "Tehnologie modernă de topire", "Specializată în butelii de vin"],
+      en: ["Founded in 1970", "Exports to over 20 countries", "Modern furnace technology", "Specialized in wine bottles"],
+    },
   },
   {
     id: "moldova-purcari-estate-economic-v2",
     type: "industry",
-    name: { de: "Weingut Purcari", hu: "Purcari Birtok", ro: "Vinăria Purcari", en: "Purcari Estate" },
+    name: { de: "Weingut Purcari", hu: "Purcari Birtok", ro: "Vinăria Purcari", en: "Purcari Estate",
+image: "/poi-images/moldova-purcari-estate-economic-v2.webp"
+},
     coords: [29.8711, 46.5325],
     coordinates: { lat: 46.5325, lng: 29.8711 },
     description: {
@@ -153,11 +265,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1827", "Furnizor pentru curțile regale din Europa", "Specializată în 'Negru de Purcari'", "Centru modern de turism și export"],
       en: ["Founded in 1827", "Supplier to European royal courts", "Specialized in 'Negru de Purcari'", "Modern tourism and export center"],
     },
-    imageHint: "Purcari winery chateau building and vineyards", image: "/poi-images/moldova-purcari-estate-economic-v2.webp"},
+    imageHint: "Purcari winery chateau building and vineyards",
+    image: "/poi-images/moldova-purcari-estate-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Weingut Purcari wurde 1827 gegründet und ist eine der ältesten und renommiertesten Kellereien Moldaus. Es ist berühmt für seine Weine, die einst an europäische Königshöfe geliefert wurden.",
+      hu: "Az 1827-ben alapított Purcari birtok Moldova egyik legrégebbi és legnevesebb borászata. Híres borairól, amelyeket egykor európai királyi udvarokba is szállítottak.",
+      ro: "Vinăria Purcari, fondată în 1827, este una dintre cele mai vechi și prestigioase crame din Moldova. Este celebră pentru vinurile livrate istoric curților regale europene.",
+      en: "Purcari Estate, founded in 1827, is one of Moldova's oldest and most prestigious wineries. It is famous for wines that were historically supplied to European royal courts.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1827", "Lieferant des britischen Königshauses", "250 Hektar eigene Weinberge", "Gewinner von über 300 Medaillen"],
+      hu: ["Alapítva 1827-ben", "A brit királyi udvar beszállítója", "250 hektár saját szőlőültetvény", "Több mint 300 nyert érem"],
+      ro: ["Fondată în anul 1827", "Furnizor al Casei Regale Britanice", "250 hectare de viță-de-vie", "Peste 300 de medalii câștigate"],
+      en: ["Founded in 1827", "Supplier to the British Royal House", "250 hectares of estate vineyards", "Winner of over 300 medals"],
+    },
+  },
   {
     id: "moldova-costesti-stanca-dam-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Costești-Stânca", hu: "Costești-Stânca Vízerőmű", ro: "Nodul Hidrotehnic Costești-Stânca", en: "Costești-Stânca Hydroelectric Plant" },
+    name: { de: "Wasserkraftwerk Costești-Stânca", hu: "Costești-Stânca Vízerőmű", ro: "Nodul Hidrotehnic Costești-Stânca", en: "Costești-Stânca Hydroelectric Plant",
+image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"
+},
     coords: [27.2288, 47.8388],
     coordinates: { lat: 47.8388, lng: 27.2288 },
     description: {
@@ -172,11 +300,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Dat în exploatare în anul 1978", "A doua cea mai mare centrală din țară", "Rezervor cu volum de 735 milioane m³", "Infrastructură transfrontalieră"],
       en: ["Commissioned in 1978", "Second largest power plant in the country", "Reservoir with 735 million m³ volume", "Cross-border infrastructure"],
     },
-    imageHint: "Large concrete dam on the Prut river with water gates", image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"},
+    imageHint: "Large concrete dam on the Prut river with water gates",
+    image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Costești-Stânca am Fluss Prut ist ein Gemeinschaftsprojekt von Moldau und Rumänien. Es dient der Stromerzeugung und der Regulierung von Hochwasserereignissen.",
+      hu: "A Prut folyón található Costești-Stânca vízerőmű Moldova és Románia közös projektje. Áramtermelésre és az árvizek szabályozására egyaránt szolgál a határ mentén.",
+      ro: "Nodul hidrotehnic Costești-Stânca de pe râul Prut este un proiect comun moldo-român. Servește la producerea energiei electrice și la reglarea debitului împotriva inundațiilor.",
+      en: "The Costești-Stânca hydroelectric plant on the Prut River is a joint project between Moldova and Romania. It serves for power generation and flood regulation.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 1978", "Staudammhöhe von 47 Metern", "Installierte Leistung von 32 MW", "Größter Stausee am Fluss Prut"],
+      hu: ["Üzembe helyezés 1978-ban", "47 méter magas gátrendszer", "32 MW beépített teljesítmény", "A Prut folyó legnagyobb tározója"],
+      ro: ["Dată în exploatare în 1978", "Înălțimea barajului de 47 metri", "Putere instalată de 32 MW", "Cel mai mare lac de pe râul Prut"],
+      en: ["Commissioned in 1978", "Dam height of 47 meters", "Installed capacity of 32 MW", "Largest reservoir on the Prut River"],
+    },
+  },
   {
     id: "moldova-fez-ungheni-business-economic-v2",
     type: "industry",
-    name: { de: "FEZ Ungheni-Business", hu: "Ungheni-Business Szabad Gazdasági Övezet", ro: "ZEL Ungheni-Business", en: "FEZ Ungheni-Business" },
+    name: { de: "FEZ Ungheni-Business", hu: "Ungheni-Business Szabad Gazdasági Övezet", ro: "ZEL Ungheni-Business", en: "FEZ Ungheni-Business",
+image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"
+},
     coords: [27.8011, 47.2022],
     coordinates: { lat: 47.2022, lng: 27.8011 },
     description: {
@@ -191,11 +335,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 2002", "Conexiune directă la rețeaua feroviară UE", "Exportă în principal în România", "Găzduiește peste 40 de companii active"],
       en: ["Founded in 2002", "Direct connection to the EU rail network", "Exports mainly to Romania", "Houses over 40 active companies"],
     },
-    imageHint: "Modern industrial park warehouses near Ungheni border", image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"},
+    imageHint: "Modern industrial park warehouses near Ungheni border",
+    image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die FEZ Ungheni-Business ist eine Freie Wirtschaftszone an der Westgrenze Moldaus. Sie profitiert von ihrer strategischen Lage direkt an der europäischen Eisenbahnverbindung.",
+      hu: "Az Ungheni-Business Szabad Gazdasági Övezet Moldova nyugati határán fekszik. Stratégiai előnye az európai vasúti összeköttetés közvetlen szomszédsága.",
+      ro: "ZEL Ungheni-Business este o zonă economică liberă situată la frontiera de vest a Moldovei. Profită de locația strategică lângă conexiunea feroviară europeană.",
+      en: "FEZ Ungheni-Business is a free economic zone located on Moldova's western border. It benefits from its strategic position directly on the European railway connection.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2002", "Über 40 ansässige Unternehmen", "Fokus auf Textil und Holzbau", "Direkte Anbindung nach Rumänien"],
+      hu: ["Alapítva 2002-ben", "Több mint 40 bejegyzett cég", "Textil- és faipari fókusz", "Közvetlen kapcsolat Romániával"],
+      ro: ["Fondată în anul 2002", "Peste 40 de companii rezidente", "Focus pe textile și prelucrarea lemnului", "Conexiune directă cu România"],
+      en: ["Founded in 2002", "Over 40 resident companies", "Focus on textiles and woodwork", "Direct connection to Romania"],
+    },
+  },
   {
     id: "moldova-orhei-vit-factory-economic-v2",
     type: "factory",
-    name: { de: "Orhei-Vit Konservenfabrik", hu: "Orhei-Vit Konzervgyár", ro: "Fabrica Orhei-Vit", en: "Orhei-Vit Cannery" },
+    name: { de: "Orhei-Vit Konservenfabrik", hu: "Orhei-Vit Konzervgyár", ro: "Fabrica Orhei-Vit", en: "Orhei-Vit Cannery",
+image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"
+},
     coords: [28.8211, 47.3755],
     coordinates: { lat: 47.3755, lng: 28.8211 },
     description: {
@@ -210,11 +370,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Exportă în peste 25 de țări", "Procesează anual 50.000 tone de fructe", "Deține propriile livezi", "Utilizează linii moderne de îmbuteliere Tetra Pak"],
       en: ["Exports to over 25 countries", "Processes 50,000 tons of fruit annually", "Owns its own fruit orchards", "Uses modern Tetra Pak bottling lines"],
     },
-    imageHint: "Fruit juice production line in a modern factory", image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"},
+    imageHint: "Fruit juice production line in a modern factory",
+    image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Orhei-Vit ist der führende Saftproduzent Moldaus und verarbeitet jährlich riesige Mengen an lokalem Obst. Die Produkte werden unter verschiedenen Marken weltweit exportiert.",
+      hu: "Az Orhei-Vit Moldova vezető gyümölcslégyártója, amely évente hatalmas mennyiségű helyi gyümölcsöt dolgoz fel. Termékeit különböző márkák alatt exportálják világszerte.",
+      ro: "Orhei-Vit este cel mai mare producător de sucuri din Moldova, procesând anual cantități enorme de fructe locale. Produsele sunt exportate global sub diverse mărci.",
+      en: "Orhei-Vit is Moldova's leading juice producer, processing vast quantities of local fruit annually. Its products are exported worldwide under various brands.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1945", "Kapazität von 75 Mio. Litern", "Export in über 25 Länder", "Größter Obstverarbeiter des Landes"],
+      hu: ["Alapítva 1945-ben", "75 millió literes éves kapacitás", "Export több mint 25 országba", "Az ország legnagyobb gyümölcsfeldolgozója"],
+      ro: ["Fondată în anul 1945", "Capacitate de 75 milioane litri", "Export în peste 25 de țări", "Cel mai mare procesator de fructe"],
+      en: ["Founded in 1945", "75 million liters capacity", "Exports to over 25 countries", "Largest fruit processor in Moldova"],
+    },
+  },
   {
     id: "moldova-dubasari-dam-economic-v2",
     type: "industry",
-    name: { de: "Staudamm von Dubăsari", hu: "Dubăsari-gát", ro: "Barajul de la Dubăsari", en: "Dubăsari Dam" },
+    name: { de: "Staudamm von Dubăsari", hu: "Dubăsari-gát", ro: "Barajul de la Dubăsari", en: "Dubăsari Dam",
+image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"
+},
     coords: [29.1255, 47.2722],
     coordinates: { lat: 47.2722, lng: 29.1255 },
     description: {
@@ -229,11 +405,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Construit în anul 1954", "Prima centrală mare din Moldova", "Putere instalată de 48 MW", "Formează rezervorul Dubăsari"],
       en: ["Built in 1954", "First major power plant in Moldova", "Installed capacity of 48 MW", "Forms the Dubăsari reservoir"],
     },
-    imageHint: "Hydroelectric dam with water flowing through spillways", image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"},
+    imageHint: "Hydroelectric dam with water flowing through spillways",
+    image: "/poi-images/moldova-dubasari-dam-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dubăsari-Staudamm am Dnjestr ist ein wichtiges Wasserkraftwerk aus der Sowjetära. Er bildet einen großen Stausee, der auch der Bewässerung der umliegenden Felder dient.",
+      hu: "A Dnyeszteren található dubăsari gát egy fontos szovjet érából származó vízerőmű. A létrejött nagy tározó a környező mezőgazdasági területek öntözését is szolgálja.",
+      ro: "Barajul de la Dubăsari, situat pe râul Nistru, este o hidrocentrală importantă din epoca sovietică. Formează un lac de acumulare vital pentru irigațiile agricole din zonă.",
+      en: "The Dubăsari Dam on the Dniester River is a significant Soviet-era hydroelectric plant. It forms a large reservoir that also serves the irrigation of surrounding agricultural fields.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 1954", "Installierte Leistung von 48 MW", "Stauseelänge von etwa 128 km", "Kontrolliert durch Transnistrien"],
+      hu: ["Üzembe helyezés 1954-ben", "48 MW beépített teljesítmény", "Kb. 128 km hosszú tározó", "Transznisztria ellenőrzése alatt"],
+      ro: ["Dat în exploatare în 1954", "Putere instalată de 48 MW", "Lungimea lacului de cca 128 km", "Controlat de regiunea transnistreană"],
+      en: ["Commissioned in 1954", "Installed capacity of 48 MW", "Reservoir length approx. 128 km", "Controlled by Transnistrian region"],
+    },
+  },
   {
     id: "moldova-floare-carpet-economic-v2",
     type: "factory",
-    name: { de: "Teppichfabrik Floare-Carpet", hu: "Floare-Carpet Szőnyeggyár", ro: "Fabrica Floare-Carpet", en: "Floare-Carpet Factory" },
+    name: { de: "Teppichfabrik Floare-Carpet", hu: "Floare-Carpet Szőnyeggyár", ro: "Fabrica Floare-Carpet", en: "Floare-Carpet Factory",
+image: "/poi-images/moldova-floare-carpet-economic-v2.webp"
+},
     coords: [28.8755, 47.0011],
     coordinates: { lat: 47.0011, lng: 28.8755 },
     description: {
@@ -248,11 +440,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1978", "Folosește lână 100% naturală", "Furnizor pentru aeroporturi internaționale", "Deține certificarea de calitate Woolmark"],
       en: ["Founded in 1978", "Uses 100% natural wool", "Supplier to international airports", "Holds the Woolmark quality certification"],
     },
-    imageHint: "Large industrial carpet weaving looms in a factory", image: "/poi-images/moldova-floare-carpet-economic-v2.webp"},
+    imageHint: "Large industrial carpet weaving looms in a factory",
+    image: "/poi-images/moldova-floare-carpet-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Floare-Carpet ist ein renommierter Hersteller von hochwertigen Wollteppichen in Chișinău. Die Fabrik kombiniert traditionelle Muster mit moderner industrieller Fertigung.",
+      hu: "A Floare-Carpet kiváló minőségű gyapjúszőnyegek neves gyártója Kisinyovban. A gyár a hagyományos mintákat ötvözi a modern ipari technológiával.",
+      ro: "Floare-Carpet este un producător renumit de covoare din lână de înaltă calitate din Chișinău. Fabrica îmbină modelele tradiționale cu tehnologia industrială modernă.",
+      en: "Floare-Carpet is a renowned manufacturer of high-quality wool carpets in Chișinău. The factory combines traditional patterns with modern industrial production techniques.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1978", "Echte Schurwolle als Rohstoff", "Zertifizierter Woolmark-Partner", "Export in die EU und USA"],
+      hu: ["Alapítva 1978-ben", "Tiszta gyapjú alapanyag", "Woolmark minősítésű partner", "Export az EU-ba és az USA-ba"],
+      ro: ["Fondată în anul 1978", "Materie primă din lână pură", "Partener certificat Woolmark", "Export în UE și SUA"],
+      en: ["Founded in 1978", "Pure wool as raw material", "Woolmark certified partner", "Exports to the EU and USA"],
+    },
+  },
   {
     id: "moldova-zorile-shoe-factory-economic-v2",
     type: "factory",
-    name: { de: "Schuhfabrik Zorile", hu: "Zorile Cipőgyár", ro: "Fabrica de încălțăminte Zorile", en: "Zorile Shoe Factory" },
+    name: { de: "Schuhfabrik Zorile", hu: "Zorile Cipőgyár", ro: "Fabrica de încălțăminte Zorile", en: "Zorile Shoe Factory",
+image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"
+},
     coords: [28.8188, 47.0311],
     coordinates: { lat: 47.0311, lng: 28.8188 },
     description: {
@@ -267,11 +475,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1945", "Colaborări cu branduri din UE", "Cel mai mare producător de pantofi din țară", "Gestionează propriul centru comercial"],
       en: ["Founded in 1945", "Collaborations with EU brands", "Largest shoe producer in the country", "Operates its own shopping center"],
     },
-    imageHint: "Leather shoes production and assembly line", image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"},
+    imageHint: "Leather shoes production and assembly line",
+    image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Zorile ist die bekannteste Schuhfabrik Moldaus und blickt auf eine lange Geschichte in der Lederverarbeitung zurück. Heute produziert sie moderne Kollektionen für den Weltmarkt.",
+      hu: "A Zorile Moldova legismertebb cipőgyára, amely hosszú múltra tekint vissza a bőrfeldolgozás terén. Ma modern kollekciókat gyárt a nemzetközi piac számára.",
+      ro: "Zorile este cea mai cunoscută fabrică de încălțăminte din Moldova, cu o istorie bogată în prelucrarea pielii. Astăzi produce colecții moderne pentru piața internațională.",
+      en: "Zorile is Moldova's most famous shoe factory, with a long-standing history in leather processing. Today, it produces modern collections for the global market.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1945", "Kapazität: 1 Mio. Paar jährlich", "Größte Schuhfabrik Moldaus", "Modernisiertes Designzentrum"],
+      hu: ["Alapítva 1945-ben", "Évi 1 millió pár kapacitás", "Moldova legnagyobb cipőgyára", "Modernizált tervezőközpont"],
+      ro: ["Fondată în anul 1945", "Capacitate: 1 mil. perechi anual", "Cea mai mare fabrică de profil", "Centru de design modernizat"],
+      en: ["Founded in 1945", "1 million pairs annual capacity", "Largest shoe factory in Moldova", "Modernized design center"],
+    },
+  },
   {
     id: "moldova-fez-tvardita-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Tvardița", hu: "Tvardița Szabad Gazdasági Övezet", ro: "ZEL Tvardița", en: "Free Economic Zone Tvardița" },
+    name: { de: "Freie Wirtschaftszone Tvardița", hu: "Tvardița Szabad Gazdasági Övezet", ro: "ZEL Tvardița", en: "Free Economic Zone Tvardița",
+image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"
+},
     coords: [28.9611, 46.1522],
     coordinates: { lat: 46.1522, lng: 28.9611 },
     description: {
@@ -286,11 +510,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1996", "Centru pentru producția de divin", "Angajator important pentru regiune", "Focus pe piețele de export din est"],
       en: ["Founded in 1996", "Center for brandy production", "Important employer for the region", "Focus on eastern export markets"],
     },
-    imageHint: "Industrial distillery units in a rural setting", image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"},
+    imageHint: "Industrial distillery units in a rural setting",
+    image: "/poi-images/moldova-fez-tvardita-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die FEZ Tvardița im Süden Moldaus ist auf die Lebensmittelindustrie und Getränkeproduktion spezialisiert. Sie beherbergt namhafte Brennereien und Weinproduzenten.",
+      hu: "A dél-moldovai Tvardița Szabad Gazdasági Övezet az élelmiszeriparra és az italgyártásra szakosodott. Neves lepárlóknak és bortermelőknek ad otthont.",
+      ro: "ZEL Tvardița din sudul Moldovei este specializată în industria alimentară și producția de băuturi. Găzduiește distilerii și producători de vin de renume.",
+      en: "FEZ Tvardița in southern Moldova specializes in the food industry and beverage production. It hosts well-known distilleries and wine producers.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1996", "Fokus auf Wein und Cognac", "Strategische Lage im Süden", "Zahlreiche Exportunternehmen"],
+      hu: ["Alapítva 1996-ban", "Bor- és konyakgyártási fókusz", "Stratégiai déli elhelyezkedés", "Számos exportőr vállalat"],
+      ro: ["Fondată în anul 1996", "Focus pe vin și divin", "Locație strategică în sud", "Numeroase firme exportatoare"],
+      en: ["Founded in 1996", "Focus on wine and brandy", "Strategic southern location", "Numerous exporting companies"],
+    },
+  },
   {
     id: "moldova-fez-valcanes-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Valkaneș", hu: "Valkaneș Szabad Gazdasági Övezet", ro: "ZEL Valkaneș", en: "Free Economic Zone Valkaneș" },
+    name: { de: "Freie Wirtschaftszone Valkaneș", hu: "Valkaneș Szabad Gazdasági Övezet", ro: "ZEL Valkaneș", en: "Free Economic Zone Valkaneș",
+image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"
+},
     coords: [28.4122, 45.6911],
     coordinates: { lat: 45.6911, lng: 28.4122 },
     description: {
@@ -305,11 +545,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1998", "Situată în orașul Vulcănești", "Produce plase și articole textile", "Facilități fiscale pentru investitorii străini"],
       en: ["Founded in 1998", "Located in the town of Vulcănești", "Produces nets and textile goods", "Tax incentives for foreign investors"],
     },
-    imageHint: "Textile factory buildings in a southern economic zone", image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"},
+    imageHint: "Textile factory buildings in a southern economic zone",
+    image: "/poi-images/moldova-fez-valcanes-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die FEZ Valkaneș liegt im südlichsten Zipfel Moldaus und dient als wichtiges Handelszentrum nahe der ukrainischen Grenze. Sie fokussiert sich auf Logistik und Produktion.",
+      hu: "A Valkaneș Szabad Gazdasági Övezet Moldova legdélebbi részén fekszik, és fontos kereskedelmi központként szolgál az ukrán határ közelében. Logisztikára és gyártásra összpontosít.",
+      ro: "ZEL Vulcănești este situată în extremitatea sudică a Moldovei, fiind un centru comercial important lângă granița cu Ucraina. Se concentrează pe logistică și producție.",
+      en: "FEZ Valkaneș is located in the southernmost tip of Moldova, serving as a key trade hub near the Ukrainian border. It focuses on logistics and manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1998", "Industrie- und Logistikpark", "Nähe zum Hafen Giurgiulești", "Zollfreie Produktionsvorteile"],
+      hu: ["Alapítva 1998-ban", "Ipari és logisztikai park", "Közel a giurgiulești kikötőhöz", "Vámmentes gyártási előnyök"],
+      ro: ["Fondată în anul 1998", "Parc industrial și logistic", "Aproape de Portul Giurgiulești", "Avantaje fiscale la producție"],
+      en: ["Founded in 1998", "Industrial and logistics park", "Proximity to Giurgiulești Port", "Duty-free production benefits"],
+    },
+  },
   {
     id: "moldova-cosauti-stone-quarry-economic-v2",
     type: "mine",
-    name: { de: "Steinbruch von Cosăuți", hu: "Cosăuți kőbánya", ro: "Cariera de piatră din Cosăuți", en: "Cosăuți Stone Quarry" },
+    name: { de: "Steinbruch von Cosăuți", hu: "Cosăuți kőbánya", ro: "Cariera de piatră din Cosăuți", en: "Cosăuți Stone Quarry",
+image: "/poi-images/moldova-cosauti-stone-quarry-economic-v2.webp"
+},
     coords: [28.3011, 48.2255],
     coordinates: { lat: 48.2255, lng: 28.3011 },
     description: {
@@ -325,11 +581,25 @@ export const moldovaEconomicV2: POI[] = [
       en: ["Famous for Cosăuți sandstone", "Traditional center for stonemasons", "Supplies material for church facades", "Located on the banks of the Dniester"],
     },
     imageHint: "Open pit sandstone quarry with large blocks of stone",
+    descriptionAdvanced: {
+      de: "Der Steinbruch Cosăuți ist bekannt für seinen hochwertigen Sandstein, der für Denkmäler und Architektur in ganz Moldau verwendet wird. Er ist ein Herzstück der lokalen Bauwirtschaft.",
+      hu: "A koszauti kőbánya kiváló minőségű homokkövéről ismert, amelyet emlékművekhez és építészeti célokra használnak egész Moldovában. A helyi építőipar meghatározó helyszíne.",
+      ro: "Cariera de piatră de la Cosăuți este celebră pentru gresia sa de înaltă calitate, utilizată la monumente și arhitectură în toată țara. Este un punct vital al industriei locale.",
+      en: "The Cosăuți stone quarry is famous for its high-quality sandstone, used for monuments and architecture across Moldova. It is a cornerstone of the local construction industry.",
+    },
+    factsAdvanced: {
+      de: ["Sandsteinbruch am Dnjestr", "Beliebtes Baumaterial für Klöster", "Traditionelle Steinmetzkunst", "Export von Natursteinprodukten"],
+      hu: ["Homokkőbánya a Dnyeszter partján", "Kedvelt anyag kolostorokhoz", "Hagyományos kőfaragó művészet", "Terméskő termékek exportja"],
+      ro: ["Carieră de gresie lângă Nistru", "Material preferat pentru mănăstiri", "Artă tradițională a cioplitului", "Export de produse din piatră"],
+      en: ["Sandstone quarry by the Dniester", "Preferred material for monasteries", "Traditional stone carving art", "Export of natural stone products"],
+    },
   },
   {
     id: "moldova-micauti-limestone-quarry-economic-v2",
     type: "mine",
-    name: { de: "Kalksteinbruch Micăuți", hu: "Micăuți mészkőbánya", ro: "Cariera de calcar Micăuți", en: "Micăuți Limestone Quarry" },
+    name: { de: "Kalksteinbruch Micăuți", hu: "Micăuți mészkőbánya", ro: "Cariera de calcar Micăuți", en: "Micăuți Limestone Quarry",
+image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"
+},
     coords: [28.7511, 47.1755],
     coordinates: { lat: 47.1755, lng: 28.7511 },
     description: {
@@ -344,11 +614,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Exploatare industrială la suprafață", "Importantă pentru infrastructura locală", "Produce pietriș și blocuri de calcar", "Utilaje moderne de extracție în funcțiune"],
       en: ["Industrial open-cast mining", "Important for local infrastructure", "Supplies crushed stone and limestone blocks", "Modern extraction machinery in use"],
     },
-    imageHint: "Large limestone quarry with terraced excavation walls", image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"},
+    imageHint: "Large limestone quarry with terraced excavation walls",
+    image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kalksteinbruch Micăuți ist eine der wichtigsten Quellen für Rohstoffe in der moldauischen Bauindustrie. Hier wird Gestein für Zement und Baumaterialien im großen Stil abgebaut.",
+      hu: "A mikauti mészkőbánya a moldovai építőipar egyik legfontosabb nyersanyagforrása. Itt nagyüzemi méretekben bányásznak követ cement és egyéb építőanyagok gyártásához.",
+      ro: "Cariera de calcar de la Micăuți este una dintre cele mai importante surse de materii prime pentru construcții din Moldova. Se extrage piatră pentru ciment și betoane.",
+      en: "The Micăuți limestone quarry is one of the most important raw material sources for the Moldovan construction industry. It extracts stone for cement and building materials at scale.",
+    },
+    factsAdvanced: {
+      de: ["Großflächiger Tagebau", "Lieferant für die Bauindustrie", "Produktion von Schotter und Kalk", "Zentralmoldauische Lage"],
+      hu: ["Nagy kiterjedésű külszíni fejtés", "Az építőipar fő beszállítója", "Zúzottkő és mésztermelés", "Közép-moldovai elhelyezkedés"],
+      ro: ["Exploatare de suprafață masivă", "Furnizor pentru industria de profil", "Producție de moloz și var", "Localizare în centrul Moldovei"],
+      en: ["Massive open-pit mining site", "Major construction supplier", "Production of crushed stone and lime", "Central Moldova location"],
+    },
+  },
   {
     id: "moldova-chateau-vartely-economic-v2",
     type: "industry",
-    name: { de: "Chateau Vartely", hu: "Chateau Vartely", ro: "Chateau Vartely", en: "Chateau Vartely" },
+    name: { de: "Chateau Vartely", hu: "Chateau Vartely", ro: "Chateau Vartely", en: "Chateau Vartely",
+image: "/poi-images/moldova-chateau-vartely-economic-v2.webp"
+},
     coords: [28.8255, 47.3788],
     coordinates: { lat: 47.3788, lng: 28.8255 },
     description: {
@@ -364,11 +650,25 @@ export const moldovaEconomicV2: POI[] = [
       en: ["Founded in 2004", "Produces wines from local varieties", "Major destination for wine tourism", "Exports to over 20 countries"],
     },
     imageHint: "Modern winery chateau with tasting rooms and vines",
+    descriptionAdvanced: {
+      de: "Chateau Vartely ist ein modernes Weingut in Orhei, das für seine Verbindung von Tradition und neuester Technologie bekannt ist. Es spielt eine Schlüsselrolle im Weinexport des Landes.",
+      hu: "A Chateau Vartely egy modern borászat Orhei városában, amely a hagyomány és a legújabb technológia ötvözéséről ismert. Kulcsszerepet játszik az ország borexportjában.",
+      ro: "Chateau Vartely este o vinărie modernă din Orhei, renumită pentru îmbinarea tradiției cu tehnologiile de ultimă oră. Are un rol cheie în exportul de vinuri de calitate.",
+      en: "Chateau Vartely is a modern winery in Orhei, known for blending tradition with the latest technology. It plays a key role in the country's high-quality wine exports.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2004", "Eigene Rebflächen in zwei Regionen", "Großer Weintourismus-Komplex", "Fokus auf edle Rebsorten"],
+      hu: ["Alapítva 2004-ben", "Saját szőlők két borvidéken", "Jelentős borturisztikai komplexum", "Nemes szőlőfajtákra fókuszál"],
+      ro: ["Fondată în anul 2004", "Podgorii proprii în două regiuni", "Complex turistic vinicol major", "Focus pe soiuri nobile de struguri"],
+      en: ["Founded in 2004", "Vineyards in two micro-regions", "Major wine tourism complex", "Focus on noble grape varieties"],
+    },
   },
   {
     id: "moldova-castel-mimi-economic-v2",
     type: "industry",
-    name: { de: "Castel Mimi", hu: "Mimi Kastély", ro: "Castel Mimi", en: "Castel Mimi" },
+    name: { de: "Castel Mimi", hu: "Mimi Kastély", ro: "Castel Mimi", en: "Castel Mimi",
+image: "/poi-images/moldova-castel-mimi-economic-v2.webp"
+},
     coords: [29.1711, 46.8922],
     coordinates: { lat: 46.8922, lng: 29.1711 },
     description: {
@@ -383,11 +683,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Primul castel adevărat din Moldova", "Fondat la sfârșitul secolului al XIX-lea", "Gazdă pentru summit-uri internaționale", "Capacități mari de export de vin"],
       en: ["The first true castle in Moldova", "Founded in the late 19th century", "Host for international summits", "Large wine export capacities"],
     },
-    imageHint: "Renovated historic wine castle with gardens and fountains", image: "/poi-images/moldova-castel-mimi-economic-v2.webp"},
+    imageHint: "Renovated historic wine castle with gardens and fountains",
+    image: "/poi-images/moldova-castel-mimi-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Castel Mimi ist ein historisches Juwel der moldauischen Weinarchitektur. Das aufwendig restaurierte Schloss fungiert heute als erstklassiges Weingut und wichtiger Wirtschaftsfaktor.",
+      hu: "A Castel Mimi a moldovai borászati építészet történelmi ékköve. A gondosan felújított kastély ma prémium borászatként és jelentős gazdasági tényezőként működik.",
+      ro: "Castel Mimi este o bijuterie istorică a arhitecturii vinicole moldovenești. Castelul restaurat funcționează azi ca vinărie premium și pilon economic important.",
+      en: "Castel Mimi is a historical gem of Moldovan wine architecture. The elaborately restored castle now operates as a premium winery and a significant economic driver.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1893", "Erstes echtes Schloss in Moldau", "Modernste Abfüllanlagen", "Top-Ziel für Wirtschaftsevents"],
+      hu: ["Épült 1893-ban", "Az első igazi kastély Moldovában", "Legmodernebb palackozó gépsorok", "Gazdasági események fő helyszíne"],
+      ro: ["Construit în anul 1893", "Primul castel adevărat din Moldova", "Linii de îmbuteliere ultra-moderne", "Destinație de top pentru evenimente"],
+      en: ["Built in 1893", "First real castle in Moldova", "State-of-the-art bottling lines", "Top destination for business events"],
+    },
+  },
   {
     id: "moldova-fez-expo-business-chisinau-v2",
     type: "industry",
-    name: { de: "FEZ Expo-Business-Chișinău", hu: "Expo-Business-Chișinău Szabad Gazdasági Övezet", ro: "ZEL Expo-Business-Chișinău", en: "FEZ Expo-Business-Chișinău" },
+    name: { de: "FEZ Expo-Business-Chișinău", hu: "Expo-Business-Chișinău Szabad Gazdasági Övezet", ro: "ZEL Expo-Business-Chișinău", en: "FEZ Expo-Business-Chișinău",
+image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"
+},
     coords: [28.8811, 46.9855],
     coordinates: { lat: 46.9855, lng: 28.8811 },
     description: {
@@ -402,11 +718,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Deschisă în anul 1995", "Centru pentru IT și logistică", "Găzduiește fabrici de textile și tipografii", "Locație atractivă lângă aeroport"],
       en: ["Opened in 1995", "Center for IT and logistics", "Houses textile and printing companies", "Attractive location near the airport"],
     },
-    imageHint: "Industrial office buildings and warehouses in Chisinau", image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"},
+    imageHint: "Industrial office buildings and warehouses in Chisinau",
+    image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp",
+    descriptionAdvanced: {
+      de: "Die FEZ Expo-Business-Chișinău war die erste Freie Wirtschaftszone des Landes. Sie liegt strategisch günstig nahe dem Flughafen und beherbergt diverse Industriezweige.",
+      hu: "Az Expo-Business-Chișinău volt az ország első Szabad Gazdasági Övezete. Stratégiai helyen, a repülőtér közelében fekszik, és különféle iparágaknak ad otthont.",
+      ro: "ZEL Expo-Business-Chișinău a fost prima zonă economică liberă din țară. Situată strategic lângă aeroport, găzduiește diverse ramuri industriale productive.",
+      en: "FEZ Expo-Business-Chișinău was the country's first free economic zone. Strategically located near the airport, it hosts a variety of industrial sectors.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1995", "Erste moldauische FEZ", "Nähe zum Hauptstadtflughafen", "Breiter Branchenmix"],
+      hu: ["Alapítva 1995-ben", "Az első moldovai Szabad Övezet", "A fővárosi reptér szomszédsága", "Változatos iparági összetétel"],
+      ro: ["Fondată în anul 1995", "Prima ZEL din Moldova", "Aproape de Aeroportul Chișinău", "Mix industrial diversificat"],
+      en: ["Founded in 1995", "Moldova's first FEZ", "Proximity to the capital's airport", "Diverse industry mix"],
+    },
+  },
   {
     id: "moldova-soroca-fruit-cluster-economic-v2",
     type: "industry",
-    name: { de: "Soroca Obstverarbeitungskluster", hu: "Soroca Gyümölcsfeldolgozó Klaszter", ro: "Clusterul de procesare a fructelor Soroca", en: "Soroca Fruit Processing Cluster" },
+    name: { de: "Soroca Obstverarbeitungskluster", hu: "Soroca Gyümölcsfeldolgozó Klaszter", ro: "Clusterul de procesare a fructelor Soroca", en: "Soroca Fruit Processing Cluster",
+image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"
+},
     coords: [28.2955, 48.1588],
     coordinates: { lat: 48.1588, lng: 28.2955 },
     description: {
@@ -421,11 +753,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Centrul producției de mere din Moldova", "Dispune de centre logistice moderne", "Exportă fructe uscate în întreaga lume", "Baza cooperativelor agricole regionale"],
       en: ["Center of Moldovan apple production", "Features modern logistics centers", "Exports dried fruits worldwide", "Base for regional farming cooperatives"],
     },
-    imageHint: "Industrial fruit sorting and packaging facility", image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"},
+    imageHint: "Industrial fruit sorting and packaging facility",
+    image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Obst-Cluster in Soroca ist das Zentrum der moldauischen Apfelproduktion. Es vereint Anbau, Lagerung in modernen Kühlhäusern und die industrielle Verarbeitung für den Export.",
+      hu: "A szorokai gyümölcsklaszter a moldovai almatermelés központja. Egyesíti a termesztést, a modern hűtőházi tárolást és az exportra szánt ipari feldolgozást.",
+      ro: "Clusterul de fructe din Soroca este centrul producției de mere din Moldova. Reunește cultivarea, depozitarea în frigidere moderne și procesarea industrială pentru export.",
+      en: "The Soroca fruit cluster is the heart of Moldova's apple production. It combines cultivation, modern cold storage, and industrial processing for global export.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Apfelproduktion", "Moderne Kühlhauskapazitäten", "Fokus auf Export nach Osteuropa", "Hunderte spezialisierte Betriebe"],
+      hu: ["Az almatermesztés központja", "Modern hűtőházi kapacitások", "Kelet-európai exportfókusz", "Több száz szakosodott gazdaság"],
+      ro: ["Polul producției de mere", "Capacități moderne de răcire", "Focus pe exportul în est", "Sute de ferme specializate"],
+      en: ["Center of apple production", "Modern cold storage facilities", "Focus on Eastern European exports", "Hundreds of specialized farms"],
+    },
+  },
   {
     id: "moldova-mesterul-furniture-economic-v2",
     type: "factory",
-    name: { de: "Möbelfabrik Meșterul", hu: "Meșterul Bútorgyár", ro: "Fabrica de mobila Meșterul", en: "Meșterul Furniture Factory" },
+    name: { de: "Möbelfabrik Meșterul", hu: "Meșterul Bútorgyár", ro: "Fabrica de mobila Meșterul", en: "Meșterul Furniture Factory",
+image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"
+},
     coords: [28.8455, 47.0122],
     coordinates: { lat: 47.0122, lng: 28.8455 },
     description: {
@@ -440,11 +788,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Specializată în prelucrarea lemnului", "Centru de design mare integrat", "Lucrează cu materii prime sustenabile", "Furnizor de mobilier de birou și casă"],
       en: ["Specialized in woodworking", "Large integrated design center", "Works with sustainable raw materials", "Supplier of office and home furniture"],
     },
-    imageHint: "Modern furniture production workshop with wood panels", image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"},
+    imageHint: "Modern furniture production workshop with wood panels",
+    image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Möbelfabrik Meșterul ist ein wichtiger Akteur in der Holzverarbeitung Moldaus. Sie produziert Einrichtungsgegenstände für den lokalen Markt und expandiert zunehmend in den Export.",
+      hu: "A Meșterul bútorgyár a moldovai fafeldolgozás egyik meghatározó szereplője. Berendezési tárgyakat gyárt a helyi piacra, és egyre bővíti exporttevékenységét.",
+      ro: "Fabrica de mobilă Meșterul este un jucător important în industria lemnului din Moldova. Produce piese de mobilier pentru piața internă și își extinde constant exporturile.",
+      en: "The Meșterul furniture factory is a key player in Moldova's woodworking industry. It produces furnishings for the domestic market and is increasingly expanding its exports.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisierung auf Holzmöbel", "Produktion für den Heimmarkt", "Modernisierte Fertigungsanlagen", "Großer regionaler Arbeitgeber"],
+      hu: ["Fabútorokra szakosodott gyártás", "Hazai piaci igények kiszolgálása", "Modernizált gyártósorok", "Jelentős regionális foglalkoztató"],
+      ro: ["Specializare în mobilă din lemn", "Producție pentru piața internă", "Linii de fabricație modernizate", "Angajator regional important"],
+      en: ["Specialized in wood furniture", "Focus on the domestic market", "Modernized production facilities", "Major regional employer"],
+    },
+  },
   {
     id: "moldova-steaua-reds-textile-v2",
     type: "factory",
-    name: { de: "Textilfabrik Steaua-RedS", hu: "Steaua-RedS Textilgyár", ro: "Fabrica Steaua-RedS", en: "Steaua-RedS Textile Factory" },
+    name: { de: "Textilfabrik Steaua-RedS", hu: "Steaua-RedS Textilgyár", ro: "Fabrica Steaua-RedS", en: "Steaua-RedS Textile Factory",
+image: "/poi-images/moldova-steaua-reds-textile-v2.webp"
+},
     coords: [28.8522, 47.0188],
     coordinates: { lat: 47.0188, lng: 28.8522 },
     description: {
@@ -459,11 +823,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în perioada sovietică", "Modernizată cu tehnologie italiană", "Specializată în tricotaje din lână", "Focus pe exportul către piața UE"],
       en: ["Founded in the Soviet era", "Modernized with Italian technology", "Specialized in wool knitwear", "Export focus on the EU market"],
     },
-    imageHint: "Industrial knitting machines in a textile factory", image: "/poi-images/moldova-steaua-reds-textile-v2.webp"},
+    imageHint: "Industrial knitting machines in a textile factory",
+    image: "/poi-images/moldova-steaua-reds-textile-v2.webp",
+    descriptionAdvanced: {
+      de: "Steaua-RedS ist ein traditionsreiches Textilunternehmen in Chișinău, das auf Strickwaren spezialisiert ist. Es fertigt hochwertige Bekleidung für bekannte europäische Modemarken.",
+      hu: "A Steaua-RedS egy nagy múltú kisinyovi textilipari vállalat, amely kötöttárukra szakosodott. Kiváló minőségű ruházati cikkeket gyárt neves európai divatmárkák számára.",
+      ro: "Steaua-RedS este o întreprindere textilă cu tradiție din Chișinău, specializată în tricotaje. Produce articole de înaltă calitate pentru mărci de modă celebre din Europa.",
+      en: "Steaua-RedS is a traditional textile company in Chișinău, specialized in knitwear. It manufactures high-quality clothing for well-known European fashion brands.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1961", "Spezialist für Strickwaren", "Lohnfertigung für Top-Marken", "Modernisierte Strickmaschinen"],
+      hu: ["Alapítva 1961-ben", "Kötöttáru-specialista vállalat", "Bérmunka neves márkáknak", "Modernizált kötőgéppark"],
+      ro: ["Fondată în anul 1961", "Specializată în tricotaje", "Lohn pentru mărci de top", "Mașini de tricotat modernizate"],
+      en: ["Founded in 1961", "Knitwear specialist company", "Outsourced production for top brands", "Modernized knitting machinery"],
+    },
+  },
   {
     id: "moldova-fez-otaci-business-v2",
     type: "industry",
-    name: { de: "Wirtschaftszone Otaci-Business", hu: "Otaci-Business Gazdasági Övezet", ro: "ZEL Otaci-Business", en: "Otaci-Business SEZ" },
+    name: { de: "Wirtschaftszone Otaci-Business", hu: "Otaci-Business Gazdasági Övezet", ro: "ZEL Otaci-Business", en: "Otaci-Business SEZ",
+image: "/poi-images/moldova-fez-otaci-business-v2.webp"
+},
     coords: [27.8011, 48.4322],
     coordinates: { lat: 48.4322, lng: 27.8011 },
     description: {
@@ -478,11 +858,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1998", "Focus pe logistică și ambalare", "Locație strategică pe râul Nistru", "Atrage investiții comerciale regionale"],
       en: ["Founded in 1998", "Focus on logistics and packaging", "Strategic location on the Dniester river", "Attracts regional trade investments"],
     },
-    imageHint: "Trucks and warehouses at a northern border economic zone", image: "/poi-images/moldova-fez-otaci-business-v2.webp"},
+    imageHint: "Trucks and warehouses at a northern border economic zone",
+    image: "/poi-images/moldova-fez-otaci-business-v2.webp",
+    descriptionAdvanced: {
+      de: "Die FEZ Otaci-Business liegt an der nördlichen Grenze Moldaus zur Ukraine. Sie nutzt ihre Lage als wichtiges Tor für den grenzüberschreitenden Handel und die industrielle Produktion.",
+      hu: "Az Otaci-Business Szabad Gazdasági Övezet Moldova északi határán, Ukrajna mellett fekszik. Fontos kapuként szolgál a határon átnyúló kereskedelem és ipari termelés számára.",
+      ro: "ZEL Otaci-Business este situată la frontiera de nord a Moldovei cu Ucraina. Servește drept poartă importantă pentru comerțul transfrontalier și producția industrială.",
+      en: "FEZ Otaci-Business is situated on Moldova's northern border with Ukraine. It serves as a vital gateway for cross-border trade and industrial production.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1998", "Grenznähe zur Ukraine", "Fokus auf Handel und Logistik", "Zollvorteile für Exporteure"],
+      hu: ["Alapítva 1998-ban", "Közvetlen ukrán határ mentén", "Kereskedelmi és logisztikai fókusz", "Vámkedvezmények exportőröknek"],
+      ro: ["Fondată în anul 1998", "Localizare la granița cu Ucraina", "Focus pe comerț și logistică", "Facilități vamale pentru export"],
+      en: ["Founded in 1998", "Proximity to Ukrainian border", "Focus on trade and logistics", "Customs benefits for exporters"],
+    },
+  },
   {
     id: "moldova-fez-taraclia-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Taraclia", hu: "Taraclia Szabad Gazdasági Övezet", ro: "ZEL Taraclia", en: "Free Economic Zone Taraclia" },
+    name: { de: "Freie Wirtschaftszone Taraclia", hu: "Taraclia Szabad Gazdasági Övezet", ro: "ZEL Taraclia", en: "Free Economic Zone Taraclia",
+image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"
+},
     coords: [28.6711, 45.9022],
     coordinates: { lat: 45.9022, lng: 28.6711 },
     description: {
@@ -497,11 +893,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Specializare în plăci ceramice", "Fondată în anul 1998", "Importantă pentru minoritatea bulgară", "Exportă materiale de construcții în regiune"],
       en: ["Specialization in ceramic floor tiles", "Founded in 1998", "Important for the Bulgarian minority", "Exports construction materials to the region"],
     },
-    imageHint: "Ceramic tile production factory in southern Moldova", image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"},
+    imageHint: "Ceramic tile production factory in southern Moldova",
+    image: "/poi-images/moldova-fez-taraclia-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die FEZ Taraclia ist ein bedeutendes Wirtschaftszentrum im Süden des Landes. Sie konzentriert sich vor allem auf die Verarbeitung landwirtschaftlicher Erzeugnisse und die Lebensmittelindustrie.",
+      hu: "A Taraclia Szabad Gazdasági Övezet az ország déli részének jelentős gazdasági központja. Elsősorban a mezőgazdasági termények feldolgozására és az élelmiszeriparra összpontosít.",
+      ro: "ZEL Taraclia este un centru economic semnificativ din sudul țării. Se concentrează în special pe procesarea produselor agricole și pe industria alimentară regională.",
+      en: "FEZ Taraclia is a significant economic center in the south of the country. It primarily focuses on the processing of agricultural products and the food industry.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1998", "Fokus auf Agrarverarbeitung", "Wirtschaftsmotor der Region", "Investitionsanreize für Industrie"],
+      hu: ["Alapítva 1998-ban", "Agrárfeldolgozási fókusz", "A régió gazdasági motorja", "Befektetési ösztönzők az iparnak"],
+      ro: ["Fondată în anul 1998", "Focus pe procesarea agricolă", "Motorul economic al regiunii", "Incentive pentru investiții"],
+      en: ["Founded in 1998", "Focus on agro-processing", "Regional economic driver", "Investment incentives for industry"],
+    },
+  },
   {
     id: "moldova-chisinau-airport-hub-v2",
     type: "landmark",
-    name: { de: "Wirtschaftshub Flughafen Chișinău", hu: "Kisinyovi Repülőtér Gazdasági Hub", ro: "Hub-ul economic Aeroportul Chișinău", en: "Chișinău Airport Business Hub" },
+    name: { de: "Wirtschaftshub Flughafen Chișinău", hu: "Kisinyovi Repülőtér Gazdasági Hub", ro: "Hub-ul economic Aeroportul Chișinău", en: "Chișinău Airport Business Hub",
+image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"
+},
     coords: [28.9322, 46.9311],
     coordinates: { lat: 46.9311, lng: 28.9322 },
     description: {
@@ -516,11 +928,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Poarta către piața internațională", "Terminale de marfă extinse", "Sector de pasageri și business modernizat", "Angajator major în sectorul serviciilor"],
       en: ["Gateway to the international market", "Extensive freight terminals", "Modernized passenger and business sector", "Important employer in the service sector"],
     },
-    imageHint: "Modern airport terminal and cargo facility at sunset", image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"},
+    imageHint: "Modern airport terminal and cargo facility at sunset",
+    image: "/poi-images/moldova-chisinau-airport-hub-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Business Hub am Flughafen Chișinău ist das Tor für internationale Geschäftsreisen und Luftfracht. Er bietet moderne logistische Infrastruktur und Dienstleistungen für Unternehmen.",
+      hu: "A kisinyovi repülőtér üzleti központja a nemzetközi üzleti utak és légi teherszállítás kapuja. Modern logisztikai infrastruktúrát és szolgáltatásokat kínál a vállalatoknak.",
+      ro: "Hub-ul de afaceri al Aeroportului Chișinău este poarta pentru călătoriile de business și transportul aerian de marfă. Oferă infrastructură logistică modernă și servicii conexe.",
+      en: "The Chișinău Airport business hub is the gateway for international business travel and air freight. It provides modern logistical infrastructure and services for companies.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Luftverkehrsknoten", "Moderne Logistikterminals", "Wirtschaftszentrum am Flughafen", "Internationaler Frachtverkehr"],
+      hu: ["A legfontosabb légiközlekedési csomópont", "Modern logisztikai terminálok", "Repülőtéri üzleti központ", "Nemzetközi teherforgalom"],
+      ro: ["Principalul nod aerian al țării", "Terminale logistice moderne", "Centru de afaceri aeroportuar", "Transport internațional de marfă"],
+      en: ["Main air transport hub", "Modern logistics terminals", "Airport-based business center", "International freight traffic"],
+    },
+  },
   {
     id: "moldova-ionel-clothing-factory-v2",
     type: "factory",
-    name: { de: "Bekleidungsfabrik Ionel", hu: "Ionel Ruhagyár", ro: "Fabrica de confecții Ionel", en: "Ionel Clothing Factory" },
+    name: { de: "Bekleidungsfabrik Ionel", hu: "Ionel Ruhagyár", ro: "Fabrica de confecții Ionel", en: "Ionel Clothing Factory",
+image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"
+},
     coords: [28.8411, 47.0255],
     coordinates: { lat: 47.0255, lng: 28.8411 },
     description: {
@@ -535,11 +963,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1945", "Produce pentru branduri precum Armani", "Certificată conform standardelor ISO", "Cea mai mare croitorie din țară"],
       en: ["Founded in 1945", "Produces for brands like Armani", "Certified according to ISO standards", "Largest tailoring facility in the country"],
     },
-    imageHint: "Textile sewing machines and suits on racks in a factory", image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"},
+    imageHint: "Textile sewing machines and suits on racks in a factory",
+    image: "/poi-images/moldova-ionel-clothing-factory-v2.webp",
+    descriptionAdvanced: {
+      de: "Ionel ist eine der größten Bekleidungsfabriken Moldaus mit Sitz in Chișinău. Das Unternehmen ist spezialisiert auf hochwertige Herren- und Damenkonfektion für den europäischen Markt.",
+      hu: "Az Ionel Moldova egyik legnagyobb ruhagyára, amelynek székhelye Kisinyovban található. A vállalat kiváló minőségű férfi és női konfekcióra szakosodott az európai piac számára.",
+      ro: "Ionel este una dintre cele mai mari fabrici de confecții din Moldova, situată în Chișinău. Compania este specializată în costume și haine de înaltă calitate pentru piața europeană.",
+      en: "Ionel is one of Moldova's largest clothing factories, located in Chișinău. The company specializes in high-quality men's and women's apparel for the European market.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1945", "Kooperation mit Top-Designern", "Zertifizierte Qualitätsstandards", "Produktion von klassischen Anzügen"],
+      hu: ["Alapítva 1945-ben", "Együttműködés top tervezőkkel", "Minősített minőségi szabványok", "Klasszikus öltönyök gyártása"],
+      ro: ["Fondată în anul 1945", "Cooperare cu designeri de top", "Standarde de calitate certificate", "Producție de costume clasice"],
+      en: ["Founded in 1945", "Collaboration with top designers", "Certified quality standards", "Production of classic suits"],
+    },
+  },
   {
     id: "moldova-tirotex-textile-complex-v2",
     type: "factory",
-    name: { de: "Textilkomplex Tirotex", hu: "Tirotex Textilipari Komplexum", ro: "Complexul textil Tirotex", en: "Tirotex Textile Complex" },
+    name: { de: "Textilkomplex Tirotex", hu: "Tirotex Textilipari Komplexum", ro: "Complexul textil Tirotex", en: "Tirotex Textile Complex",
+image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"
+},
     coords: [29.6611, 46.8322],
     coordinates: { lat: 46.8322, lng: 29.6611 },
     description: {
@@ -554,11 +998,27 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Peste 3000 de angajați", "Specializat în lenjerie de pat și fețe de masă", "Utilizează războaie de țesut europene moderne", "Mare exportator pe piața UE"],
       en: ["Over 3000 employees", "Specialized in bed linen and tablecloths", "Uses modern European weaving looms", "Major exporter to the EU market"],
     },
-    imageHint: "Massive industrial textile factory hall with machinery", image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"},
+    imageHint: "Massive industrial textile factory hall with machinery",
+    image: "/poi-images/moldova-tirotex-textile-complex-v2.webp",
+    descriptionAdvanced: {
+      de: "Tirotex in Tiraspol ist einer der größten Textilkomplexe Europas. Das Unternehmen deckt den gesamten Produktionszyklus von der Baumwollverarbeitung bis zur Fertigware ab.",
+      hu: "A tiraszpoli Tirotex Európa egyik legnagyobb textilipari komplexuma. A vállalat a teljes gyártási folyamatot lefedi a gyapotfeldolgozástól a késztermékekig.",
+      ro: "Tirotex din Tiraspol este unul dintre cele mai mari complexe textile din Europa. Compania acoperă întregul ciclu de producție, de la prelucrarea bumbacului la produsul finit.",
+      en: "Tirotex in Tiraspol is one of the largest textile complexes in Europe. The company covers the entire production cycle, from cotton processing to finished goods.",
+    },
+    factsAdvanced: {
+      de: ["Über 12.000 Mitarbeiter historisch", "Export in über 30 Länder", "Integrierter Produktionszyklus", "Größtes Unternehmen Transnistriens"],
+      hu: ["Történelmileg 12 000 alkalmazott", "Export több mint 30 országba", "Integrált gyártási ciklus", "Transznisztria legnagyobb vállalata"],
+      ro: ["Peste 12.000 angajați istoric", "Export în peste 30 de țări", "Ciclu de producție integrat", "Cea mai mare firmă din regiune"],
+      en: ["Over 12,000 employees historically", "Exports to over 30 countries", "Integrated production cycle", "Largest company in Transnistria"],
+    },
+  },
   {
     id: "moldova-cahul-cannery-economic-v2",
     type: "factory",
-    name: { de: "Konservenfabrik Cahul", hu: "Cahuli Konzervgyár", ro: "Fabrica de conserve din Cahul", en: "Cahul Cannery" },
+    name: { de: "Konservenfabrik Cahul", hu: "Cahuli Konzervgyár", ro: "Fabrica de conserve din Cahul", en: "Cahul Cannery",
+image: "/poi-images/moldova-cahul-cannery-economic-v2.webp"
+},
     coords: [28.1855, 45.9088],
     coordinates: { lat: 45.9088, lng: 28.1855 },
     description: {
@@ -574,5 +1034,17 @@ export const moldovaEconomicV2: POI[] = [
       en: ["Specialized in tomato paste", "Processes harvests from local farmers", "Important employer in the south", "Modernized bottling lines"],
     },
     imageHint: "Conveyor belt with tomatoes in a food factory",
+    descriptionAdvanced: {
+      de: "Die Konservenfabrik in Cahul ist ein Eckpfeiler der Agrarindustrie im Süden Moldaus. Sie verarbeitet regionales Gemüse und Obst zu hochwertigen Konzentraten und Konserven für den Export.",
+      hu: "A cahuli konzervgyár Dél-Moldova agráriparának tartóoszlopa. A helyi zöldségeket és gyümölcsöket kiváló minőségű sűrítményekké és konzervekké dolgozza fel exportra.",
+      ro: "Fabrica de conserve din Cahul este un pilon al industriei agroalimentare din sudul Moldovei. Procesează legume și fructe locale în concentrate și conserve pentru export.",
+      en: "The Cahul cannery is a cornerstone of the agro-industry in southern Moldova. It processes regional vegetables and fruits into high-quality concentrates and preserves for export.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum für Obstkonzentrate", "Exportfokus auf den EU-Markt", "Verarbeitung von Tomaten und Äpfeln", "Südlichster Industriestandort"],
+      hu: ["Gyümölcssűrítmények központja", "EU-piacra irányuló exportfókusz", "Paradicsom- és almafeldolgozás", "A legdélebbi ipari helyszín"],
+      ro: ["Centru de concentrate de fructe", "Focus pe exportul în piața UE", "Procesare de tomate și mere", "Locație industrială în sud"],
+      en: ["Center for fruit concentrates", "Export focus on the EU market", "Processing of tomatoes and apples", "Southernmost industrial site"],
+    },
   }
 ];

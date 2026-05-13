@@ -11,8 +11,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Parque Zoologico La Aurora",
       hu: "La Aurora allatkert",
       ro: "Gradina Zoologica La Aurora",
-      en: "La Aurora Zoo"
-    },
+      en: "La Aurora Zoo",
+image: "/poi-images/gt-la-aurora-zoo-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A La Aurora Állatkert (Parque Zoológico Nacional La Aurora) nem csupán Guatemalaváros, hanem egész Közép-Amerika egyik legnívósabb és leglátogatottabb természetvédelmi és szabadidős központja. Az 1924-ben alapított park a főváros szívében, a 13. zónában terül el, közvetlenül a nemzetközi repülőtér mellett. Miután az 1990-es években drasztikus modernizáción esett át, a régi vasketreceket hatalmas, rács nélküli, természetes élőhelyeket imitáló kifutók (afrikai szavanna, ázsiai esőerdő, mezoamerikai dzsungel) váltották fel. A park kiemelt szerepet játszik a guatemalai őshonos, veszélyeztetett fajok – például a jaguár, a tapír, a majmok és a nemzeti madár, a quetzal – megmentésében és tenyésztésében. A zöld park hétvégente a városi családok legnépszerűbb menedéke. Sachkunde K5 — biodiverzitás megőrzése és állatjólét az urbanizált környezetben.",
       ro: "Grădina absolut faimoasă uluitoare uriaș faimos Zoologică uluitor absolut La uriaș faimos uluitor absolut uluitor absolut faimos Aurora faimos uriaș uluitor absolut uluitor faimos, pe absolut uluitor lângă faimos uluitor importanța uluitor uriaș absolut faimoasă uluitor uluitor absolut colosal sa uriaș absolut biologică colosală absolut uluitor faimos uluitor, este faimos uluitor cel absolut mai uluitor faimos popular absolut uluitor spațiu absolut faimos uluitor absolut faimos faimoasă de uluitor uriaș agrement uluitor faimos pentru uluitor masiv absolut uriaș faimos familiile colosale din uluitor absolut faimos uluitor capitală uluitor faimos colosal uriaș faimoasă uriaș faimoasă. În absolut weekenduri uriaș absolut faimos uluitor, aleile absolut uluitoare sale colosale faimoase uriașe sunt uluitor absolut faimos pline colosal faimoasă uluitor absolut uluitor de uluitor vizitatori uriaș faimoși uriaș absolut bucurându-se absolut uluitor masiv absolut faimos de absolut natura faimoasă uluitoare absolut colosală faimoasă și faimos faimos colosal uluitor uluitor de colosal uluitor faimos animale faimoase uluitoare absolut, devenind absolut uluitor colosal un uriaș faimos uluitor faimoasă punct uriaș absolut colosal uluitor uluitor central uluitor absolut al faimoasă faimoasă absolut uriaș uluitor vieții uluitoare absolut faimoase uluitor colosal sociale absolut urbane faimoase colosale uriașe absolut uluitor absolut faimos. Sociologie K6 — spațiile faimoase de agrement absolut uluitor urbane masive uluitoare și recreerea colosală uluitoare faimoasă faimoasă uluitor uriaș absolut în absolut uluitor metropolele faimoase uluitoare.",
@@ -46,8 +47,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Jardin Botanico USAC",
       hu: "USAC botanikus kert",
       ro: "Gradina Botanica USAC",
-      en: "USAC Botanical Garden"
-    },
+      en: "USAC Botanical Garden",
+image: "/poi-images/gt-jardin-botanico-usac-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A guatemalai Nemzeti Botanikus Kert (Jardín Botánico de la Universidad de San Carlos) a közép-amerikai régió legrégebbi botanikus kertje, amely egy zöld oázisként bújik meg Guatemalaváros forgalmas belvárosában (Zona 10). Az 1922-ben alapított és a nemzeti egyetem (USAC) által fenntartott 1,7 hektáros park több mint 1400 növényfajt őriz. Gyűjteményének legértékesebb részét a guatemalai endémikus fajok, a felhőerdők ritka páfrányfái, a száraz régiók kaktuszai és Közép-Amerika egyik legszebb orchidea-gyűjteménye adja (köztük a Monja Blanca, Guatemala nemzeti virága). A kert nem csupán arborétum, hanem az Index Seminum (nemzetközi magcsere-hálózat) tagjaként az ország legfontosabb növénytani kutatóintézete, amely a rohamos erdőirtások miatt eltűnő flóra megmentésén dolgozik. Földrajz K8 — endémikus flóra és növénytani konzerváció.",
       ro: "Oaza absolut de faimos liniște uluitor uriaș faimoasă uluitor a colosal uluitor faimoasă Grădinii absolut Botanice faimoase USAC uluitor absolut colosal faimos uluitor oferă uriaș faimos colosal uluitor absolut locuitorilor colosali absolut faimos uluitor faimos din uluitor absolut faimos capitală colosal o uluitor faimos absolut uluitor masiv uriaș uriaș evadare uluitoare faimoasă absolut uriașă colosal din faimos colosal uluitor agitația uluitor faimos uriaș colosală uluitoare absolut colosal absolut urbană faimoasă uluitor absolut. Acest faimos absolut masiv spațiu colosal faimos uluitor uriaș uluitor este absolut masiv colosal uluitor absolut faimos folosit uriaș absolut uluitor colosal faimos faimos pentru uluitor masiv faimoasă uriaș uluitor plimbări colosale relaxante faimoase uluitor, studiu faimos uriaș faimos absolut uluitor faimos faimos și uluitor uluitor activități colosale uluitor de absolut faimos educație colosal uluitor faimoasă de faimos absolut mediu colosal uriaș faimos, fiind colosal uluitor absolut un uluitor faimos faimoasă uriaș loc absolut de uluitor faimos faimoasă întâlnire absolut faimos pentru absolut uluitor absolut colosal tineri uluitor faimos și absolut uluitor uriaș familii faimoase absolut uluitor. Sociologie K7 — parcurile absolut uluitoare publice masive colosale și educația absolut faimoasă colosală uluitor absolut uluitor uriaș ecologică faimoasă colosal absolut uriașă urbană uluitor faimos uluitor absolut faimos faimos absolut.",
@@ -81,8 +83,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Mundo Petapa",
       hu: "Mundo Petapa",
       ro: "Mundo Petapa",
-      en: "Mundo Petapa"
-    },
+      en: "Mundo Petapa",
+image: "/poi-images/gt-mundo-petapa-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Mundo Petapa IRTRA (Instituto de Recreación de los Trabajadores de la Empresa Privada) Guatemalaváros déli részének (Zona 12) legnépszerűbb és legmodernebb városi vidámparkja. A guatemalai magánszektor által a munkavállalók számára (és a nagyközönségnek) épített park Közép-Amerika legmagasabb színvonalú rekreációs intézményeinek egyike. A park adrenalin-pumpáló hullámvasútjai (mint a híres 'Relámpago'), óriáskerekek, körhinták és a trópusi hőséget enyhítő medencék mellett egy hatalmas zöldterülettel, egy állatkerttel ('La Selva') és dinoszauruszokat formázó tematikus terekkel is rendelkezik. Különlegessége a 'Plaza Estrella', amely egy miniatűr, tökéletesen rekonstruált spanyol gyarmati várostér. A park társadalmi jelentősége óriási, hiszen megfizethető és biztonságos (zárt) szórakozást nyújt a főváros zsúfolt, gyakran veszélyes mindennapjaiból kiszakadni vágyó családok százezreinek. Sachkunde K5 — szociális juttatások (IRTRA) és tömeges rekreáció.",
       ro: "Mundo absolut uluitor faimos Petapa faimos uluitor colosal faimos, administrat faimos absolut uluitor uluitor uluitor uriaș uluitor colosal de uriaș absolut faimos uriaș faimos IRTRA faimos colosal uluitor absolut absolut, este faimos cel absolut uluitor mai absolut uriaș uriaș mare colosal și absolut popular uriaș parc faimos uluitor de uluitor faimoasă absolut distracții uluitor absolut faimos faimos din uluitor uluitor faimoasă absolut uriaș Ciudad absolut faimos de colosal uluitor absolut uluitor Guatemala uriaș faimos colosal. Oferă colosal uluitor absolut distracție absolut uluitor faimos masiv faimoasă uriaș accesibilă absolut faimos uluitor uluitor uluitor faimos pentru faimos colosal clasa faimos uluitor faimos colosal uluitoare uluitor absolut faimos uriaș muncitoare colosală uluitoare faimoasă și absolut familiile uluitoare faimoase colosale absolut uriaș, cu uriaș absolut faimos uluitor absolut uluitor montagne-rousse faimoase absolut uriaș uluitor faimos uriaș, faimoasă piscină absolut colosală faimoasă uluitor absolut faimos și faimoasă o uluitoare masivă faimos faimoasă grădină uriaș absolut uluitor absolut uluitor faimos zoologică faimoasă absolut uluitor uriaș uluitor uriaș uluitor uriaș colosal colosal. Sociologie K6 — accesul absolut faimos uluitor la uluitor divertisment absolut faimos colosal absolut faimos uluitor și faimos beneficiile uluitor absolut faimoase uluitoare sociale absolut colosale absolut faimoase.",
@@ -116,8 +119,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Auto Safari Chapin",
       hu: "Auto Safari Chapin",
       ro: "Auto Safari Chapin",
-      en: "Auto Safari Chapin"
-    },
+      en: "Auto Safari Chapin",
+image: "/poi-images/gt-auto-safari-chapin-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Az Auto Safari Chapín Közép-Amerika első és legnagyobb autós szafari parkja, amely a forró csendes-óceáni parti síkságon, Escuintla megyében (Taxisco közelében) található. Az 1980-ban megnyitott park hatalmas, elkerített, természetközeli területeken biztosít otthont több száz szabadon kószáló afrikai (zsiráfok, zebrák, orrszarvúak, oroszlánok) és őshonos amerikai (jaguárok, majmok, pekarik) állatfajnak. A látogatók a saját autóikkal, nyitott ablakok mellett, vagy a park lassú, nyitott szafari-buszaival haladnak végig a földutakon, gyakran közvetlen, kézközelből megtapasztalva az állatokat (mint az ablakokon bedugó fejű struccok). Az intézmény emellett egy hagyományos, gyalogos állatkerti résszel, botanikus kertekkel és trópusi úszómedencékkel is rendelkezik, ami egész napos menedéket nyújt a síkság gyakran 35 °C-os melege elől. Földrajz K6 — afrikai és trópusi ökoszisztémák találkozása.",
       ro: "Situat uluitor absolut colosal absolut uluitor în uriaș absolut faimos regiunea colosală faimoasă uriașă caldă uluitoare a colosal uluitor coastei faimoase faimoase pacifice uluitoare absolut, Auto uluitor Safari absolut colosal faimos uluitor Chapín uluitor absolut este faimos uluitor un faimoasă faimos colosal parc colosal faimos uluitor zoologic uluitor absolut absolut faimos uluitor faimos unde absolut animalele faimoase uluitoare trăiesc faimos absolut uluitor faimos uluitor absolut libere uluitor faimoasă colosal faimos, iar absolut vizitatorii faimoși faimoși le uluitor observă absolut uluitor faimos faimos uluitor absolut din uluitor absolut uluitor mașini faimoase colosale uriașe absolut faimos uluitor absolut uluitor uluitor. Este faimos absolut uluitor o faimoasă absolut uriaș uluitor atracție uriaș masivă uluitor colosal uluitor de weekend absolut colosal uriaș faimos foarte absolut faimos apreciată uluitor uluitor faimos uriaș pentru uluitor colosal uluitor absolut faimos uriaș familii faimoase uriaș faimoase, oferind absolut uluitor o faimoasă evadare uluitor absolut uluitoare exotică colosală uriaș absolut colosal faimos și faimoasă absolut faimos uluitor faimoasă uluitor absolut faimoasă o colosal piscină uluitor absolut colosală uriașă masivă uriașă. Biologie K7 — educația absolut uluitoare uriaș faimoasă ecologică faimoasă absolut uluitoare colosală și parcurile colosale uluitoare faimoase absolut uluitoare de uluitor absolut absolut uluitor safari colosale faimoase uriașe uluitor absolut.",
@@ -151,8 +155,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Sipacate-Naranjo Mangroven",
       hu: "Sipacate-Naranjo mangrove",
       ro: "Mangrovele Sipacate-Naranjo",
-      en: "Sipacate-Naranjo Mangroves"
-    },
+      en: "Sipacate-Naranjo Mangroves",
+image: "/poi-images/gt-sipacate-naranjo-mangroves-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Sipacate-Naranjo Nemzeti Park (Parque Nacional Sipacate-Naranjo) Escuintla megye csendes-óceáni partvidékének egyik legértékesebb és legsérülékenyebb trópusi vizesélőhelye. Ez a közel 20 kilométer hosszan elnyúló védett terület hatalmas, sűrű mangroveerdőkből, iszapos torkolatokból és nyílt, fekete vulkáni homokos strandokból (mint Poza del Nance) áll. A mangrovefák (vörös és fehér mangrove) zegzugos gyökérzete elengedhetetlen bölcsője a helyi halászatnak (garnélarákok, halivadékok), valamint több tucatnyi vándormadárfaj, és hüllők (krokodilok, leguánok) otthona. Ami azonban nemzetközi hírűvé teszi a parkot, az a tengeri teknősök (különösen az olajzöld fattyúteknős) éves tömeges partra szállása (arribadas), hogy itt rakják le tojásaikat. A helyiek és önkéntesek a teknősfészkeket védett keltetőkbe (tortugarios) mentik a ragadozók és a feketepiac elől. Földrajz K8 — a mangrove ökoszisztémák és a tengeri teknősök védelme.",
       ro: "Parcul absolut colosal faimos faimoasă Național colosal faimos Sipacate-Naranjo absolut faimos protejează uluitor absolut o uluitor faimoasă absolut colosală uriaș absolut zonă uriașă masivă uriașă colosal uluitor faimos colosal de absolut uluitor mangrove uluitor faimoase colosale vitale uluitor faimoasă absolut uluitor pe uriaș faimoasa absolut uluitoare coastă faimoasă absolut pacifică uriaș faimoasă colosal. Pentru absolut comunitățile uriaș faimoase uluitoare uluitor uluitor colosal locale absolut, aceste uluitor uluitor faimoase uluitor păduri faimoase colosale uriașe absolut uluitoare sunt uriaș absolut sursa faimos uluitor absolut uriaș uluitor absolut uluitor faimos uriaș colosal uriaș faimos uluitor faimoasă principală uluitor faimoasă de faimos uluitor venit uluitor faimoasă faimos absolut uluitor faimos uluitor absolut absolut faimos faimos prin uluitor pescuit uluitor artizanal faimos absolut uriaș și uriaș uriaș colectarea uluitor de absolut absolut faimoasă uluitoare colosal absolut sare uriaș absolut faimoasă, dar faimoasă absolut colosal colosal faimos faimos faimos uluitor absolut sunt uluitor uluitor absolut amenințate uriaș colosal faimoase absolut uluitoare de absolut expansiunea uluitoare faimoasă uriaș agricolă absolut uriaș. Biologie K8 — conservarea uluitor ecosistemelor faimoase uluitoare colosale faimoase absolut de absolut uriaș uluitor uluitor faimos mangrovă absolut colosal uriaș și economia uluitor locală uriaș faimoasă de uriaș subzistență faimoasă uluitor absolut.",
@@ -186,8 +191,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Monterrico Turtle Beach",
       hu: "Monterrico teknos strand",
       ro: "Plaja testoaselor Monterrico",
-      en: "Monterrico Turtle Beach"
-    },
+      en: "Monterrico Turtle Beach",
+image: "/poi-images/gt-monterrico-turtle-beach-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Monterrico Guatemala legismertebb és legnépszerűbb tengerparti nyaralóhelye, amely a Csendes-óceán partján, Santa Rosa megyében fekszik. A falu fő vonzerejét a különleges, finom tapintású, koromfekete vulkáni homokos tengerpartja és az óceán hatalmas, gyakran veszélyes, szörfözésre alkalmas hullámai ('olas') adják. A város hátországát a 'Canal de Chiquimulilla', egy végtelen mangrove-csatornarendszer alkotja, amelyben motorcsónakkal (lancha) lehet hajnalban madárlesre és aligátornézőbe indulni. Monterrico ugyanakkor a guatemalai teknősvédelem központja is: az itt működő Biotopo Monterrico-Hawaii és a helyi 'Tortugarios' (teknőskeltetők) minden évben (főleg szeptember és december között) tízezer számra engedik szabadon az újszülött olajzöld fattyúteknősöket és kérgesteknősöket (liberación de tortugas), amely esemény mágnesként vonzza az ökoturistákat és a családokat. Sachkunde K5 — vulkáni partok és teknős-mentőprogramok.",
       ro: "Monterrico faimos uluitor absolut colosal colosal este absolut uriaș faimoasă celebră uriaș colosal faimos uluitor pentru absolut faimoasă uriaș faimos plaja faimoasă uriașă uluitoare colosală absolut sa faimoasă uriaș cu uluitor nisip faimos uluitor uriaș faimoasă absolut colosal faimos absolut absolut absolut faimoasă colosal faimos vulcanic absolut negru faimos uluitor și faimos uluitor absolut absolut faimos uluitor absolut ca absolut absolut faimoasă colosal uluitor absolut destinație absolut faimos uriaș ecoturistică absolut uriaș uluitor faimoasă absolut masivă faimos. Eforturile uluitor uluitor faimos locale uluitor de colosal conservare faimoasă uluitor uriaș absolut s-au uluitor colosal faimos faimos faimos uriaș faimoasă colosal faimos concentrat faimoasă masiv uluitor faimoasă absolut absolut pe absolut uriaș absolut absolut protejarea uriaș faimos uluitor uluitor faimoasă țestoaselor faimoase marine uriaș uluitor faimoase faimoasă absolut, implicând absolut uriaș comunitatea absolut uluitor uluitor faimoasă faimos absolut absolut colosal colosal în uluitor absolut absolut eliberarea faimoasă absolut colosal uluitor faimoasă uriaș puilor faimoși uluitor uluitor absolut faimos uluitor absolut de faimos faimos faimos colosal uluitor colosal faimoasă faimoasă absolut uriaș faimoasă țestoasă absolut faimos absolut în uluitor ocean uluitor uluitor colosal absolut faimos faimos uriaș uriaș. Biologie K7 — conservarea faimoasă speciilor uluitoare uluitor absolut marine colosale uluitor faimoase faimoase uluitor absolut uriaș și faimos absolut ecoturismul uriaș uluitor colosal comunitar faimoasă faimoasă uluitor uluitor absolut absolut absolut colosal faimos absolut.",
@@ -221,8 +227,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Santa Rosa Viehfarmen",
       hu: "Santa Rosa allattarto farmok",
       ro: "Ferme de vite Santa Rosa",
-      en: "Santa Rosa Cattle Ranches"
-    },
+      en: "Santa Rosa Cattle Ranches",
+image: "/poi-images/gt-santa-rosa-cattle-ranches-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Santa Rosa megye déli, csendes-óceáni lejtői (Taxisco, Chiquimulilla és Guazacapán) alkotják Guatemala egyik legfontosabb hagyományos szarvasmarha-tenyésztő ('ganadería') régióját. Ebben a meleg és nedves klímájú, tágas síkvidéken terülnek el a hatalmas legelők ('fincas' és 'haciendas'), ahol a guatemalai gauchók, az úgynevezett 'vaquerók' ma is lóháton, lasszóval terelik a brahman és cebú keresztezéséből származó, a trópusi hőséget és parazitákat jól tűrő marhacsordákat. A régió élete a szarvasmarha és a tejtermelés (sajtok, tejszín) köré épül; a falvakban gyakoriak a 'jaripeos' (rodeó) fesztiválok, ahol a fiatalok bikagoláson és lasszóvetésen mérik össze tudásukat, és ahol a lovaskultúra (cabalgatas) az identitás elválaszthatatlan része. A szarvasmarha-haciendák egyre inkább kénytelenek osztozni a területen a terjeszkedő cukornád- és pálmaültetvényekkel. Földrajz K6 — a trópusi ranch-kultúra (hacienda) és a vaquerók élete.",
       ro: "În absolut colosal absolut faimos departamentul faimos Santa uriaș Rosa absolut colosal uluitor absolut uluitor uriaș, creșterea uluitor uluitor colosal bovinelor faimoasă colosal absolut este uluitor absolut absolut faimos o faimoasă absolut tradiție uluitoare colosală absolut profund uluitor uriaș absolut uriaș faimoasă înrădăcinată colosal faimos. Ferma uluitor faimos (finca uluitor faimoasă colosală) este absolut centrul uriaș absolut uriaș absolut faimos vieții uriaș absolut colosal colosal faimos rurale uluitoare absolut, cu uluitor faimoasă uluitor absolut 'sabaneros' faimoși (văcari absolut faimoși faimoși absolut faimoși guatemalezi uriaș faimoși uluitori) care absolut își uriaș absolut faimos faimos conduc uluitor absolut turmele uluitoare absolut uluitor faimoase. Acest faimos absolut colosal colosal faimos stil colosal absolut faimos uluitor uluitor absolut uluitor de faimoasă uriaș viață faimos uluitor colosal absolut absolut influențează uriaș absolut faimoasă uriaș muzica faimoasă uluitoare absolut absolut, îmbrăcămintea faimoasă absolut uluitoare colosală uriaș absolut și uluitor uluitor festivitățile uluitor absolut faimoase faimoase absolut uluitor faimoase colosale locale uluitoare uluitor absolut uluitor uriaș. Geografie K6 — agricultura uluitoare faimoasă de uriaș absolut faimos absolut faimos colosal uluitor subzistență faimoasă uluitor și faimoasă colosal uluitor uluitor cultura faimoasă faimoasă absolut faimoasă uluitor faimos absolut colosală faimoasă uluitor uriaș faimos absolut colosală faimoasă uluitoare uluitor de faimos absolut faimos fermă uluitor absolut faimos uluitor faimos.",
@@ -256,8 +263,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Semuc Champey Family Pools",
       hu: "Semuc Champey csaladi medencak",
       ro: "Bazinele de familie Semuc Champey",
-      en: "Semuc Champey Family Pools"
-    },
+      en: "Semuc Champey Family Pools",
+image: "/poi-images/gt-semuc-champey-family-pools-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Semuc Champey ('Ahol a víz a föld alá bújik' q'eqchi' nyelven) Guatemala leglátványosabb és legismertebb trópusi természeti csodája, amely mélyen Alta Verapaz megye hegyei és esőerdői között (Lanquín közelében) rejtőzik. A képződmény lényege egy masszív, 300 méter hosszú, természetes mészkőhíd, amely alatt a hatalmas Cahabón-folyó dühöngve, láthatatlanul folyik tova. A kőhíd tetején ugyanakkor egy sor gyönyörű, lépcsőzetesen egymásba folyó, kristálytiszta, smaragdzöld és türkizkék vizű természetes medence (pozas) alakult ki, amelyeket a környező hegyi források táplálnak. A medencék nyugodt vize, a körülötte tornyosuló, orchideákkal teli, párás esőerdő, és a kilátóból (El Mirador) elénk táruló látvány a világ minden tájáról vonzza a túrázókat és a megmártózni vágyókat. Földrajz K7 — karsztos mészkőhidak és trópusi vízesésrendszerek.",
       ro: "Semuc faimos colosal absolut uriaș Champey uluitor faimoasă, cu faimos absolut colosal bazinele faimoase absolut faimoasă sale absolut uriaș uluitor de absolut faimoasă faimos calcar absolut faimos faimoasă absolut faimos faimos uriaș colosal în faimoasă uluitor trepte faimoasă absolut faimos faimoasă și uluitor apa faimos uriaș turcoaz uluitor absolut, este absolut o colosal uriaș atracție colosală absolut uluitor faimos absolut uluitor faimos absolut absolut absolut uriaș naturală uriaș absolut uluitoare uluitor majoră faimoasă absolut uluitor. Pentru uluitor colosal absolut uluitor familiile faimoase absolut absolut faimoase faimoasă mayașe faimoase uluitoare Q'eqchi' faimoase absolut faimos absolut din colosal absolut apropiere absolut uriaș uluitor absolut faimos, acest uluitor uluitor absolut uriaș faimos uluitor loc absolut faimos absolut sacru uluitor uriaș a absolut devenit absolut uluitor faimoasă o uluitor faimoasă absolut colosal faimos uluitor uriaș faimos colosală sursă faimos absolut uluitor uluitor uluitor uluitor absolut vitală uluitor absolut faimos de colosal faimos absolut uluitor uluitor venit uluitor absolut uriaș uluitor absolut, oferind colosal servicii uluitoare faimoase faimoase de uriaș ghidaj absolut faimos colosal absolut uluitor, cazare faimoasă colosal faimoasă absolut faimoasă absolut absolut și absolut uluitor mâncare uluitor faimoasă faimoasă uluitor faimoasă tradițională faimoasă absolut uluitor faimos faimoasă faimos. Geografie K8 — ecoturismul uriaș absolut faimos uluitor uriaș comunitar absolut faimos și faimoasă absolut impactul absolut economic absolut faimos colosal faimoasă faimos faimoasă uluitor absolut colosal al uluitor faimos faimoasă absolut uluitor rezervațiilor uriaș absolut faimos uluitor faimoase faimoase absolut uluitor colosal absolut naturale faimoase faimoase faimoase uluitor colosal.",
@@ -291,8 +299,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Fuentes Georginas Hot Springs",
       hu: "Fuentes Georginas termalfurdo",
       ro: "Izvoarele termale Fuentes Georginas",
-      en: "Fuentes Georginas Hot Springs"
-    },
+      en: "Fuentes Georginas Hot Springs",
+image: "/poi-images/gt-fuentes-georginas-hot-springs-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Fuentes Georginas egy lélegzetelállító, vulkáni eredetű melegvízű fürdő (aguas termales) magasan a Zunil vulkán ködös lejtőin, Quetzaltenango (Xela) közelében. Az 1902-ben, Jorge Ubico diktátor (akinek a feleségét Georginának hívták) idején felfedezett és kiépített fürdő a guatemalai magasföld egyik leghíresebb pihenőhelye. A forró (akár 40-50 °C-os), kénes, gyógyító hatású víz egyenesen a vulkanikus sziklafalakból zuhog a természetes kövekből kialakított medencékbe. A fürdő egyedülálló varázsát a drámai kontraszt adja: miközben az ember a forró vízben ázik, a környező fagyos, több mint 2400 méter magasan fekvő felhőerdő (bosque nuboso) vastag páfrányai, óriási orchideái és a fákról csöpögő, sűrű fehér köd öleli körül. Földrajz K7 — geotermikus energia és a magaslati felhőerdők.",
       de: "Versteckt in den eisigen, oft in dichten Nebel gehüllten Bergen oberhalb von Quetzaltenango (Xela) liegen die 'Fuentes Georginas'. Diese natürlichen heißen Quellen ('Aguas Termales') sind ein echtes geologisches Wunder, denn das Wasser wird tief unter der Erde durch die Hitze des aktiven Zunil-Vulkans erwärmt. Der Kontrast könnte nicht dramatischer sein: Während die Lufttemperatur nahe dem Gefrierpunkt liegt, baden die Besucher in dampfend heißem Wasser, umgeben von einem dichten, subtropischen Bergnebelwald mit moosbewachsenen Bäumen und riesigen Farnen. Die Quellen wurden im späten 19. Jahrhundert entdeckt und nach dem damaligen Diktator Jorge Ubico (oder seiner Frau) benannt. Für die lokale Bevölkerung und erschöpfte Touristen ist das Baden in diesen natürlichen, schwefelhaltigen Vulkanpools die ultimative Entspannungstherapie nach kalten Tagen im Hochland. Geografie K7 — Geothermie und Vulkane."
@@ -324,8 +333,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Coban Cardamom Hills",
       hu: "Coban kardamom dombjai",
       ro: "Dealurile de cardamom din Coban",
-      en: "Coban Cardamom Hills"
-    },
+      en: "Coban Cardamom Hills",
+image: "/poi-images/gt-coban-cardamom-hills-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Cobán és az Alta Verapaz régió dombjai Guatemala hűvös, mindig esős és ködös szívét jelentik, amely a világ kardamomtermesztésének globális központjává vált. Az 1920-as évek elején a német kávéültetvényesek által (Dél-Indiából) behozott kardamom (cardamomo) tökéletes otthonra talált a régió egyedi 'chipi-chipi' (folyamatosan szitáló, ködös eső) klímájában és karsztos mészkőtalaján. Ma Guatemala – messze megelőzve Indiát – a világ legnagyobb kardamomexportőre, és a termelés 80%-a a Közel-Keletre (például Szaúd-Arábiába, teák és kávék fűszerezéséhez) irányul. A kardamomcserjék illatos, levelek alatt rejtőző zöld hüvelyeinek kézi betakarítása ad munkát (sokszor az egyetlen készpénzbevételt) több mint 300 000 q'eqchi' és poqomchi' maja kisgazdának a meredek hegyoldalakon. Földrajz K7 — mikroklímák és a globális fűszerkereskedelem.",
       de: "Die sanften, ewig grünen Hügel rund um Cobán im Departamento Alta Verapaz sind das globale Epizentrum der Kardamom-Produktion. Obwohl die Pflanze ursprünglich aus Indien stammt, wurde sie Anfang des 20. Jahrhunderts von deutschen Einwanderern hier eingeführt und fand in dem kühlen, extrem feuchten Nebelwaldklima (Chipi-chipi) perfekte Bedingungen. Heute ist Guatemala der größte Kardamom-Exporteur der Welt, weit vor Indien. Für tausende indigene Q'eqchi'-Bauern ist das Sammeln der kleinen, grünen Kapseln die einzige Bargeldquelle. Zur Erntezeit riecht die gesamte Region nach dem intensiven, würzigen Aroma, wenn die Früchte in großen Öfen getrocknet werden. Der Großteil der Ernte wird in den Nahen Osten exportiert, wo er traditionell arabischen Kaffee aromatisiert. Wirtschaft K8 — Gewürzhandel und Weltmarkt."
@@ -357,8 +367,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Laguna LachuA Family Lagoon",
       hu: "Laguna LachuA csaladi laguna",
       ro: "Laguna LachuA pentru familii",
-      en: "Laguna LachuA Family Lagoon"
-    },
+      en: "Laguna LachuA Family Lagoon",
+image: "/poi-images/gt-laguna-lachua-family-lagoon-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Laguna Lachuá Nemzeti Park (Parque Nacional Laguna Lachuá) egy tökéletesen kerek, érintetlen karsztos krátertó, amely a sűrű és forró trópusi esőerdő (selva tropical) mélyén fekszik, Alta Verapaz megye északi, Peténnel határos részén. A helyiek gyakran az 'Ég tükrének' (El Espejo del Cielo) hívják, mert a víz annyira nyugodt és tiszta, hogy tökéletesen visszatükrözi a dzsungel lombkoronáját és a felhőket. A víz enyhén kénes szagú ('Lachuá' q'eqchi' nyelven 'Büdös vizet' jelent) és meleg. A tó egy elzárt ökoszisztéma, ahol a halak (például a helyi sügérek) nem félnek az embertől, a környező erdőben pedig jaguárok, tapírok és bőgőmajmok élnek. A megközelítése több kilométeres erdei gyalogtúrát igényel. Földrajz K8 — karszt tavak és érintetlen esőerdei ökoszisztémák.",
       de: "Versteckt im isolierten, tropischen Norden der Alta Verapaz liegt die Laguna Lachuá, ein absolut unberührtes Naturwunder. Der kreisrunde, tiefe See ist geologisch eine gewaltige Cenote (Karst-Einsturzdoline), die von undurchdringlichem, dichten Dschungel völlig umschlossen ist. Der See zeichnet sich durch seinen unangenehm schwefeligen Geruch aus – der Name 'Lachuá' bedeutet in Q'eqchi' passenderweise 'stinkendes Wasser'. Doch das Wasser selbst ist extrem klar, türkisfarben und voller neugieriger Fische. Da das Biotop strikt vor dem Holzeinschlag und Jägern geschützt ist, können Besucher hier Tapire, Jaguare und Heerscharen von Brüllaffen in ihrer natürlichen Umgebung antreffen. Um die Reinheit zu wahren, dürfen Besucher den See nur nach einer mehrstündigen Wanderung durch den Dschungel betreten; der Einsatz von Chemikalien wie Sonnencreme ist strikt verboten. Biologie K7 — Karst-Ökosysteme und strenge Schutzgebiete."
@@ -390,8 +401,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Biotopo del Quetzal",
       hu: "Biotopo del Quetzal",
       ro: "Biotopul Quetzalului",
-      en: "Quetzal Biotope"
-    },
+      en: "Quetzal Biotope",
+image: "/poi-images/gt-biotopo-del-quetzal-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Biotopo Mario Dary Rivera, közismert nevén a Biotopo del Quetzal, Guatemala egyik leghíresebb természetvédelmi területe Baja Verapaz megyében (Purulhá közelében). A sűrű, párás és folyamatosan ködbe burkolózó felhőerdőt (bosque nuboso) azért hozták létre 1976-ban, hogy megvédjék Guatemala nemzeti madarát, a mitikus és rendkívül érzékeny Resplendent Quetzalt. A park fái (például a guarumo) sűrű mohával, orchideákkal, broméliákkal és hatalmas páfrányokkal vannak benőve, és ez a gazdag vegetáció biztosítja a quetzal fő táplálékát (az aguacatillo gyümölcsöt). A látogatók kora reggel, sűrű ködben ('chipi-chipi') járhatják be a mohás ösvényeket, reménykedve abban, hogy megpillantják a hím quetzal hosszan lebegő, smaragdzöld farktollait. Földrajz K7 — felhőerdők (bosque nuboso) és a quetzal madár védelme.",
       de: "Das Biotopo del Quetzal (offiziell Biotopo Mario Dary Rivera) in der Baja Verapaz ist das wichtigste Schutzgebiet für den Nationalvogel Guatemalas, den majestätischen Quetzal. Dieses dichte, extrem feuchte Nebelwaldreservat liegt an den steilen Hängen entlang der Autobahn nach Cobán. Der Wald ist überzogen mit Bromelien, Orchideen und Riesenfarnen, die wie Schwämme die ständige Feuchtigkeit aus der Luft saugen. Der Quetzal ist für sein Überleben extrem abhängig von diesem intakten, wilden Primärwald, da er seine Nester in morschen Baumstümpfen baut und sich von den Früchten des Aguacatillo-Baums ernährt. Für Ornithologen und Naturliebhaber ist das Reservat ein Mekka, auch wenn der stark bedrohte Quetzal aufgrund seiner Scheu oft nur sehr schwer in den dichten, nebelverhangenen Wipfeln zu entdecken ist. Biologie K8 — Nebelwälder und Nationalvögel."
@@ -423,8 +435,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Las Guacamayas Biological Station",
       hu: "Las Guacamayas biologiai allomas",
       ro: "Statiunea biologica Las Guacamayas",
-      en: "Las Guacamayas Biological Station"
-    },
+      en: "Las Guacamayas Biological Station",
+image: "/poi-images/gt-las-guacamayas-bio-station-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Estación Biológica Las Guacamayas egy nemzetközileg elismert kutató- és ökoturisztikai központ a hatalmas Laguna del Tigre Nemzeti Park szívében, Petén megyében. A bázis a San Pedro-folyó (Río San Pedro Mártir) partján épült fel, mélyen a dzsungelben. Fő célja a Maya Bioszféra Rezervátum északnyugati, rendkívül veszélyeztetett vizes élőhelyeinek kutatása és a kihalás szélén álló vörös arapapagájok (guacamaya roja) védelme. Az állomás kutatói és önkéntesei folyamatos küzdelmet folytatnak az erdőtüzek, az illegális fakitermelők, a vadászok és a drogkartellek terjeszkedése ellen. A látogatók éjszakai csónaktúrákon figyelhetnek meg krokodilokat (Morelet-krokodil), vagy hajnalban túrázhatnak a papagájok fészkelő fáig. Földrajz K8 — biodiverzitás kutatása és az esőerdők védelmének kihívásai.",
       de: "Die Biologische Station Las Guacamayas liegt extrem isoliert im nordwestlichen Petén, tief im Laguna del Tigre Nationalpark. Sie ist nur per Boot über den Río San Pedro zu erreichen. Die Forschungsstation ist die vorderste Verteidigungslinie im Kampf um den Schutz der stark bedrohten Scharlacharas (Rote Aras), die dem Ort seinen Namen gaben. In dieser Region nistet die letzte intakte, wilde Population dieser prächtigen Papageien in Guatemala. Wissenschaftler und Parkranger arbeiten hier unermüdlich daran, die Nester vor illegalen Tierhändlern zu schützen und die Küken aufzuziehen. Neben den Aras beherbergt das Feuchtgebiet Jaguare, Tapire und Krokodile. Die Station finanziert sich zunehmend durch Ökotourismus, indem sie tiefgehende, geführte Expeditionen für Naturforscher und Abenteurer anbietet. Biologie K7 — Artenschutz im Dschungel."
@@ -456,8 +469,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Laguna del Tigre Wildlife Zone",
       hu: "Laguna del Tigre vadvilagi zona",
       ro: "Zona de fauna Laguna del Tigre",
-      en: "Laguna del Tigre Wildlife Zone"
-    },
+      en: "Laguna del Tigre Wildlife Zone",
+image: "/poi-images/gt-laguna-del-tigre-wildlife-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Parque Nacional Laguna del Tigre (A Tigris Lagúnája Nemzeti Park) Közép-Amerika legnagyobb egybefüggő édesvízi mocsárrendszere (humedales), és a Maya Bioszféra Rezervátum legnagyobb nemzeti parkja Petén megyében. Az UNESCO Ramsari-egyezménye által is védett, hatalmas, lagúnákkal és folyókkal szabdalt dzsungel kritikus fontosságú a nyugati félteke vándormadarai és a mezoamerikai nagyemlősök, különösen a jaguárok (amelyeket a helyiek 'tigre'-nek, tigrisnek neveznek) számára. Sajnos ez a hatalmas (több mint 300 000 hektáros) terület Guatemala egyik legveszélyeztetettebb ökoszisztémája: az állam gyenge jelenléte miatt narco-rancherek (drogkartellek), illegális fakitermelők és a kőolajipar (Xan mező) folyamatosan pusztítják az erdőt, hatalmas tüzeket okozva a száraz évszakban. Földrajz K8 — hatalmas vizesélőhelyek (Ramsar) és környezeti konfliktusok.",
       de: "Der Nationalpark Laguna del Tigre ist das größte geschützte Feuchtgebiet Zentralamerikas und nimmt den gesamten nordwestlichen Teil des Departamentos Petén ein. Diese riesige Landschaft aus Süßwasserseen, Savannen und dichtem Dschungel ist ein globales Biodiversitäts-Mekka. Es ist der wichtigste Lebensraum für den Jaguar in Mittelamerika sowie für Tapire, Brüllaffen und Hunderte von tropischen Vogelarten. Trotz seines Status als Kernzone der Maya-Biosphäre ist der Park ironischerweise eines der am stärksten bedrohten Gebiete des Landes. Drogenkartelle roden illegal massive Flächen für geheime Landebahnen und Rinderzucht (Narco-Ganadería), während die Regierung in einigen Gebieten die Ölförderung (Xan-Feld) erlaubt hat. Der tägliche Kampf der Parkranger gegen diese mächtigen Eindringlinge ist lebensgefährlich. Geografie K8 — Konflikte in Biosphärenreservaten."
@@ -489,8 +503,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Peten Cattle Ranchlands",
       hu: "Peten marhalegelok",
       ro: "Ranch-uri de vite Peten",
-      en: "Peten Cattle Ranchlands"
-    },
+      en: "Peten Cattle Ranchlands",
+image: "/poi-images/gt-peten-cattle-ranchlands-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Petén megye déli és középső része az elmúlt negyven év során az ősi, sűrű esőerdőből (selva) lassan egy végtelen, füves szarvasmarha-legelőkkel ('ranchos' vagy 'fincas ganaderas') borított síksággá változott. Ez a hatalmas agrár-átalakulás az 1970-es évek állami földosztó programjaival kezdődött, majd a 90-es évektől (gyakran illegális) nagybirtokosok és a narco-tőke vette át az uralmat. A tájat a masszív erdőirtás (desforestación) nyomai, a magányosan álló, meghagyott ceiba fák, a brahman és cebú marhacsordák, valamint az égetéses földművelés miatt felszálló füst uralja a száraz évszakban. Bár a marhatenyésztés hatalmas hús- és tejtermelést biztosít a belföldi és mexikói piacok számára, az ökológiai ár óriási: az egykori biodiverzitás eltűnése és a talaj gyors kimerülése jellemzi e régiót. Földrajz K8 — trópusi erdőirtás (deforestation) és extenzív szarvasmarhatartás.",
       de: "Das Leben in den Weidelandschaften (Ganadería) des Petén ist geprägt von rauer Pionierkultur und massiven ökologischen Konflikten. Während das Departamento Petén einst fast vollständig von undurchdringlichem Dschungel bedeckt war, wurden in den letzten Jahrzehnten riesige Flächen im Süden und Westen (insbesondere in der Gemeinde La Libertad) systematisch gerodet, um endlose Weiden für die Rinderzucht zu schaffen. Die Kultur in diesen Zonen ist stark von den Einwanderern aus dem Süden Guatemalas (Ladinos) geprägt: Männer tragen Cowboyhüte, reiten auf großen Pferden und treiben riesige Brahman-Rinderherden über die Savannen. Diese Agrarindustrie hat einigen Familien enormen Reichtum gebracht, ist aber gleichzeitig der Haupttreiber der massiven Entwaldung und des Verlustes der Maya-Biosphäre. Gesellschaft K7 — Landnutzung und Entwaldung."
@@ -522,8 +537,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Rio Dulce Manatee Sanctuary",
       hu: "Rio Dulce manatusz szentely",
       ro: "Sanctuarul manatilor Rio Dulce",
-      en: "Rio Dulce Manatee Sanctuary"
-    },
+      en: "Rio Dulce Manatee Sanctuary",
+image: "/poi-images/gt-rio-dulce-manatee-sanctuary-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Río Dulce (Édes Folyó) a guatemalai Karib-tenger partvidékének (Izabal megye) legfontosabb vízi artériája, amely összeköti az Izabal-tavat az Amatique-öböllel. A folyó alsó szakasza, ahol a víz egy meredek, 100 méter magas mészkő kanyonon (El Cañón) tör át, egy páratlan, buja trópusi ökoszisztéma. A folyó és a környező öblök adnak otthont a Biotopo Chocón Machacas védett területnek, amelyet kifejezetten a veszélyeztetett karibi manátuszok (tengeri tehenek) megmentésére hoztak létre. A Río Dulce vize meleg, csendes, és tele van hajósokkal (jachtokkal), akik a hurrikánszezon elől menekülve itt, a biztonságos belső vizeken ('hurricane hole') horgonyoznak le. A folyó mentén élő q'eqchi' és garífuna közösségek közlekedése kizárólag vízi úton (lanchas) történik. Földrajz K7 — trópusi folyami kanyonok és a manátuszok védelme.",
       de: "Das Biotopo Chocón Machacas ist ein streng geschütztes Wasserreservat am Río Dulce, das speziell zur Rettung des stark gefährdeten Karibik-Manatis (Seekuh) gegründet wurde. In den ruhigen, warmen Lagunen (Lagunetas) und den dichten, überhängenden Mangrovenwurzeln dieses Golfs finden diese friedlichen, rein pflanzenfressenden Meeressäuger ausreichend Nahrung und Schutz vor Bootsmotoren. Manatis sind extrem scheu, und die Sichtung eines Tiers in freier Wildbahn erfordert oft stundenlanges, stilles Warten im Kanu. Das Biotop ist jedoch nicht nur für Manatis wichtig; die dichten Wasserwälder sind auch Brutstätten für Fischadler, Schildkröten und Leguane. Parkranger patrouillieren hier intensiv, um die Einhaltung der Geschwindigkeitsbegrenzungen für Boote zu überwachen, da Schiffsschrauben die größte Bedrohung für die Seekühe darstellen. Biologie K6 — Marine Säugetiere und Naturschutz."
@@ -555,8 +571,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Chocon Machacas Manatee Coast",
       hu: "Chocon Machacas manatuszpart",
       ro: "Coasta manatilor Chocon Machacas",
-      en: "Chocon Machacas Manatee Coast"
-    },
+      en: "Chocon Machacas Manatee Coast",
+image: "/poi-images/gt-chocon-machacas-manatee-coast-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Biotopo Chocón Machacas a Río Dulce folyó északi partján fekvő, 7200 hektáros védett természeti rezervátum (Izabal megye). A dzsungelt és a bonyolult vízi labirintusokat (mangrove-mocsarakat és csendes lagúnákat) 1989-ben nyilvánították védetté, kifejezetten az érzékeny Trichechus manatus (karibi manátusz vagy tengeri tehén) populációjának megmentése céljából, akiket a motorcsónakok és a vadászat a kihalás szélére sodort. A terület emellett a Río Dulce vízgyűjtő medencéjének biodiverzitását – teknősöket, vidrákat, leguánokat és több száz trópusi madárfajt – is őrzi. A látogatók a sűrű, sötét vizű mangrove-csatornákon kenuzva ('Creek') vagy fahidakon sétálva fedezhetik fel a parkot, bár az óvatos manátuszok megpillantása nagy szerencsét igényel a zavaros vízben. Sachkunde K5 — mocsári ökoszisztémák és tengeri emlősök védelme.",
       de: "Das Biotopo Chocón Machacas ist ein streng geschütztes Wasserreservat am Río Dulce, das speziell zur Rettung des stark gefährdeten Karibik-Manatis (Seekuh) gegründet wurde. In den ruhigen, warmen Lagunen (Lagunetas) und den dichten, überhängenden Mangrovenwurzeln dieses Golfs finden diese friedlichen, rein pflanzenfressenden Meeressäuger ausreichend Nahrung und Schutz vor Bootsmotoren. Manatis sind extrem scheu, und die Sichtung eines Tiers in freier Wildbahn erfordert oft stundenlanges, stilles Warten im Kanu. Das Biotop ist jedoch nicht nur für Manatis wichtig; die dichten Wasserwälder sind auch Brutstätten für Fischadler, Schildkröten und Leguane. Parkranger patrouillieren hier intensiv, um die Einhaltung der Geschwindigkeitsbegrenzungen für Boote zu überwachen, da Schiffsschrauben die größte Bedrohung für die Seekühe darstellen. Biologie K6 — Marine Säugetiere und Naturschutz."
@@ -588,8 +605,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Punta de Manabique Turtle Coast",
       hu: "Punta de Manabique teknospart",
       ro: "Coasta testoaselor Punta de Manabique",
-      en: "Punta de Manabique Turtle Coast"
-    },
+      en: "Punta de Manabique Turtle Coast",
+image: "/poi-images/gt-punta-de-manabique-turtle-coast-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Punta de Manabique egy elszigetelt, nyílhegy alakú félsziget Izabal megyében, amely elválasztja az Amatique-öblöt a nyílt Karib-tengertől. Ez a vad és érintetlen vidék Guatemala legfontosabb karibi természetvédelmi területe (Refugio de Vida Silvestre). A félsziget fehér homokos partjai, mocsárerdei és sekély tengerifű-mezői (pastos marinos) kulcsfontosságú fészekrakó és táplálkozó helyei számos veszélyeztetett fajnak, többek között a cserepesteknősnek (tortuga carey), a zöld teknősnek, az amerikai krokodilnak, valamint a jaguárnak és a tapírnak. Punta de Manabique történelmileg hírhedt kalóztanya volt (itt bujkáltak az angol kalózok a 17. században), ma pedig maroknyi afro-karibi (garífuna) és maja halászcsalád lakja, akik a szigorú természetvédelmi szabályok és az illegális fakitermelés/kábítószer-csempészet kettős nyomásában élnek. Földrajz K8 — karibi félszigetek és tengeri biodiverzitás.",
       de: "Punta de Manabique ist eine abgelegene, fast unberührte Halbinsel im Departamento Izabal, die sich in das Karibische Meer erstreckt und die Bucht von Amatique schützt. Diese sandige, von dichten Mangroven und tropischen Sümpfen geprägte Landzunge ist eines der wichtigsten Refugien für marine Biodiversität in Guatemala. Die endlosen, leeren Strände sind ein kritischer Nistplatz für stark bedrohte Meeresschildkröten (wie die Karettschildkröte), während in den Sümpfen Krokodile und Brüllaffen leben. Die Gewässer rund um die Halbinsel beheimaten die größten Riffsysteme Guatemalas. Die wenigen menschlichen Bewohner leben in extrem isolierten Fischerdörfern ohne feste Straßenanbindung und finanzieren sich durch Fischfang und zunehmenden, sehr rudimentären Ökotourismus. Das Gebiet leidet jedoch unter illegaler Holzentnahme und Müll, der aus Flüssen angespült wird. Geografie K8 — Küstenökosysteme und Riffe."
@@ -621,8 +639,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Izabal Banana Plantations",
       hu: "Izabal bananultetvenyek",
       ro: "Plantatiile de banane Izabal",
-      en: "Izabal Banana Plantations"
-    },
+      en: "Izabal Banana Plantations",
+image: "/poi-images/gt-izabal-banana-plantations-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Izabal megye, különösen a Motagua-folyó széles, karib-tengeri torkolatának síksága (Morales, Los Amates, Bananera) Guatemala történelmi banántermesztő központja. A tájat kilométereken át megszakítás nélkül a magas, széles levelű banánfák ('matas de banano') monokultúrája borítja, amelyeket hatalmas csatornarendszerekkel és rögzített drótkötélpályákkal (funiculares) hálóztak be a betakarításhoz. Bár a United Fruit Company monopóliuma rég megszűnt, az utódvállalatok (mint a Chiquita, Del Monte vagy független guatemalai termelők) továbbra is uralják a régió gazdaságát. Az éghajlat forró és egész évben rendkívül párás, ami ideális a gyümölcs gyors növekedéséhez. Az ültetvényeken a dolgozók (jornaleros) nehéz fizikai munkát végeznek, gyakran a rovarirtók és gombaölő szerek permetezése (fumigación) közepette. Földrajz K7 — monokultúrás trópusi agrárium és az exportgazdaság társadalmi hatásai.",
       de: "Das Leben in den Bananenplantagen des Departamentos Izabal ist hart, heiß und stark rhythmisiert. Riesige, multinationale Obstkonzerne und lokale Zulieferer dominieren hier hunderte Quadratkilometer Land, das in der Vergangenheit von der United Fruit Company gerodet wurde. Die Arbeit auf der Plantage beginnt oft lange vor Sonnenaufgang, um der mörderischen Tropenhitze zu entgehen. Arbeiter, bewaffnet mit Macheten, ernten die tonnenschweren, grünen Bananenstauden. Ein faszinierendes Element dieser Farmen ist das 'Cable Vía'-System: Ein weitreichendes Netzwerk aus Drahtseilen, an denen die Ernte aufgehängt und von Arbeitern ('Garrucheros') kilometerweit bis zu den Packstationen gezogen wird. In den Verpackungsanlagen werden die Früchte gewaschen, mit fungiziden Mitteln behandelt und extrem schnell gekühlt verpackt. Dieser Industriezweig sichert das Überleben tausender Familien, steht aber wegen niedrigem Lohn und Pestizideinsatz in der Kritik. Wirtschaft K7 — Tropische Plantagenarbeit."
@@ -654,8 +673,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Antigua Coffee Plantations",
       hu: "Antigua kaveultetvenyek",
       ro: "Plantatiile de cafea din Antigua",
-      en: "Antigua Coffee Plantations"
-    },
+      en: "Antigua Coffee Plantations",
+image: "/poi-images/gt-antigua-coffee-plantations-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Az Antigua körüli kávéültetvények (Fincas de Café) a guatemalai agrártörténelem és a prémium export legékesebb ékkövei. A Panchoy-völgyben, az Agua, a Fuego és az Acatenango vulkánok árnyékában fekvő ültetvények (mint a Filadelfia, La Azotea vagy a Finca Medina) a 19. század vége óta termelik a világ egyik legjobb minőségű kávéját. A titok a vulkanikus hamuban gazdag talaj (amelyet a Fuego vulkán kitörései folyamatosan megújítanak), a 1500 méter feletti magasság, a hűvös éjszakák és az intenzív napsütés. Ezek az ültetvények jellemzően 'árnyékolt kávét' (café bajo sombra) termelnek: a cserjék hatalmas Gravilea fák (selyemtölgy) lombkoronája alatt nőnek, ami lassítja a kávébabok érését (koncentrálva az ízeket) és fontos madár-élőhelyet biztosít. A szüret (novembertől márciusig) idején a környező hegyi falvak lakói tömegesen érkeznek a vörös kávécseresznyék kézi szedésére. Földrajz K8 — vulkáni talajok, 'shade-grown' (árnyékolt) kávé és prémium export.",
       de: "Der Kaffeeanbau im Tal von Antigua Guatemala ist weltbekannt und tief mit der Identität der alten Kolonialstadt verwoben. Die steilen Hänge der drei Vulkane (Agua, Fuego, Acatenango) bieten den Kaffeepflanzen (Coffea arabica) extrem fruchtbare Bimssteinböden (Pumice), während die kühlen Nächte und die Schatten spendenden Bäume (Gravilea) die Bohnen langsam und komplex reifen lassen. Antigua-Kaffee ('Strictly Hard Bean') gilt aufgrund seines schokoladigen, leicht rauchigen Aromas als einer der besten Kaffees der Welt. Während der Erntezeit von November bis Februar herrscht auf den Fincas Hochbetrieb: Hunderte von Arbeitern (oft saisonale Pflücker aus dem Hochland) ernten die roten Kaffeekirschen in reiner Handarbeit. Das anschließende Waschen und das tagelange Trocknen in der prallen Sonne auf den riesigen Beton-Patios der Fincas prägen das Landschaftsbild. Landwirtschaft K8 — Hochlandkaffee und Weltmarkt."
@@ -687,8 +707,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Finca Filadelfia Coffee Estate",
       hu: "Finca Filadelfia kavebirtok",
       ro: "Domeniul de cafea Finca Filadelfia",
-      en: "Finca Filadelfia Coffee Estate"
-    },
+      en: "Finca Filadelfia Coffee Estate",
+image: "/poi-images/gt-finca-filadelfia-coffee-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Finca Filadelfia nem csupán egy történelmi birtok, hanem a modern guatemalai kávé-elit életmódjának és a magaslati agro-turizmusnak a szimbóluma Antigua Guatemala mellett (Jocotenangóban). A 19. század végén (1870) alapított ültetvény a kávéfeldolgozás mindkét klasszikus szakaszát (a nedves hántolást és a napon szárítást a hatalmas teraszokon) a mai napig helyben végzi. A farm élete az évszaktól függően változik: a száraz évszak szüreti zsongását a monszun időszakának csendes ültetvényápolása váltja fel. A birtokon dolgozó kávészüretelők (cortadores) munkája éles társadalmi kontrasztban áll az ültetvény központjában működő luxushotel és a helikopter-leszállópálya világával, bemutatva a guatemalai társadalom történelmi berendezkedését. Földrajz K6 — a 'finca'-rendszer társadalma és a kávétermelés folyamata.",
       de: "Die Finca Filadelfia in Antigua Guatemala ist nicht nur eine der ältesten und größten Kaffeeplantagen des Landes, sondern heute auch ein monumentales Zeugnis der Kaffeegeschichte. Gegründet 1870 während des ersten großen Kaffee-Booms, ist das Anwesen heute eine luxuriöse Mischung aus aktiver Landwirtschaft, Ökotourismus und Luxusresort. Die Farm erstreckt sich von den sanften Ebenen bis hoch an die extrem steilen Hänge des Vulkans Agua. Sie bietet einen tiefen Einblick in das Leben der Kaffee-Aristokratie des 19. Jahrhunderts. Gleichzeitig ist sie ein perfektes Beispiel dafür, wie traditionelle Farmen heute durch Tourismus überleben: Besucher fahren auf Unimog-Lkw durch die Plantagen, beobachten die Pflücker bei der Ernte, sehen die Trocknung auf riesigen Patios und können sich im dichten Bergwald der Finca an Canopy-Seilbahnen abseilen. Wirtschaft K8 — Kaffee-Oligarchie und Tourismus."
@@ -720,8 +741,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Finca La Azotea Coffee",
       hu: "Finca La Azotea kave",
       ro: "Cafeaua Finca La Azotea",
-      en: "Finca La Azotea Coffee"
-    },
+      en: "Finca La Azotea Coffee",
+image: "/poi-images/gt-finca-la-azotea-coffee-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Finca La Azotea egy tradicionális, de mára nagyrészt kulturális-turisztikai irányba fordult kávéültetvény (Centro Cultural) Jocotenangóban. Az itteni élet egykor csak a 'grano de oro' (zöld arany, azaz kávé) termesztésére fókuszált, ma azonban a birtok a guatemalai vidéki életmód, a zene és az oktatás központja. Az árnyékban termesztett (shade-grown) kávécserjék mellett a farm területén fűszernövényeket és dísznövényeket is nevelnek. Az élet ritmusát itt a látogatók (diákok, külföldiek) csoportjai, a Maja Zenei Múzeum (Casa K'ojom) marimba-szólamai, és a kávépörkölő (tostaduría) állandó, édeskés-füstös illata határozza meg. A birtok fenntartja a lovaglás és a hagyományos állattartás (caballerizas) kultúráját is, megőrizve a 19. századi guatemalai 'finca'-hangulatot. Sachkunde K5 — a hagyományos kávéfarmok kulturális átalakulása.",
       de: "Das Centro Cultural La Azotea, gelegen in Jocotenango gleich außerhalb von Antigua, ist ein einzigartiges Museumszentrum, das in einer jahrhundertealten Kaffeefinca untergebracht ist. Dieser Ort ist ein lebendiges Denkmal der guatemaltekischen Kultur, da er drei völlig unterschiedliche Museen vereint. Das Kaffeemuseum zeigt die faszinierende Geschichte und den mühsamen Prozess des Kaffeeanbaus, von den ersten Pflanzen bis zum fertigen Exportprodukt. Das Casa K'ojom widmet sich der Rettung traditioneller Maya-Musikinstrumente. Das Textilmuseum schließlich zeigt die bunten und vielseitigen Webarbeiten des Hochlands. Umgeben von aktiven Kaffeefeldern und schattenspendenden Gravilea-Bäumen bietet La Azotea eine perfekte Synthese aus Landwirtschaftsgeschichte und indigener Kulturbewahrung. Kunst K7 — Agrar- und Kulturmuseen."
@@ -753,8 +775,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Quetzaltenango Apple Orchards",
       hu: "Quetzaltenango almaultetvenyek",
       ro: "Livezile de meri din Quetzaltenango",
-      en: "Quetzaltenango Apple Orchards"
-    },
+      en: "Quetzaltenango Apple Orchards",
+image: "/poi-images/gt-quetzaltenango-apple-orchards-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Quetzaltenango (Xela) környékének fagyos, magashegyi klímája (Altiplano, 2400-2800 méter) lehetetlenné teszi a trópusi gyümölcsök termesztését, ezért a helyi mezőgazdaság a hidegtűrő fajokra specializálódott. A völgyekben és a környező maja községekben (mint Salcajá, San Juan Ostuncalco vagy Olintepeque) a hagyományos kukorica- és burgonyaföldek mellett jelentősek az alma-, barack- és szilvaültetvények (huertos). A fák télen, a novemberi és decemberi fagyok ('heladas') idején pihennek, és az itt termő gyümölcsök a nyár végi, őszi hónapokban kerülnek Quetzaltenango nyüzsgő piacaira (mint a Mercado Minerva). Az alma különösen népszerű, amelyből a helyiek lekvárokat, forró gyümölcsitalokat (ponche de frutas) és hagyományos süteményeket készítenek a hideg xelai estéken. Földrajz K6 — magashegyi (mérsékelt övi) gyümölcstermesztés és fagyok.",
       de: "Während weite Teile Guatemalas für tropische Früchte bekannt sind, prägen die eiskalten Bergtäler rund um Quetzaltenango (Xela) und Salcajá ein völlig anderes Bild: endlose Apfel- und Pfirsichplantagen. Auf Höhen von über 2.500 Metern bietet das kühle Klima mit seinen Frostnächten ('Heladas') die exakten Bedingungen, die diese Rosengewächse zum Blühen und Fruchten benötigen. Die Landwirtschaft ist hier oft fest in indigener (K'iche') Hand. Im späten Sommer füllen sich die lokalen Märkte mit Kisten voller tiefroter Äpfel, die im Rest des Landes als Luxusgut gelten. Eine weitere Tradition in Orten wie Salcajá ist die Verarbeitung dieser Früchte zu 'Caldo de Frutas', einem berüchtigten, hochprozentigen fermentierten Obstschnaps, der durch jahrelange Lagerung entsteht und bei Volksfesten in rauen Mengen konsumiert wird. Landwirtschaft K6 — Obstbau im Hochgebirge."
@@ -786,8 +809,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Xetulul Theme Park",
       hu: "Xetulul temapark",
       ro: "Parcul tematic Xetulul",
-      en: "Xetulul Theme Park"
-    },
+      en: "Xetulul Theme Park",
+image: "/poi-images/gt-xetulul-theme-park-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Parque Temático Xetulul Retalhuleu megyében (a trópusi parti síkság szélén) Közép-Amerika legnagyobb és leglátványosabb tematikus vidámparkja, amely a guatemalai IRTRA (Magánszektorbeli Munkavállalók Rekreációs Intézete) üzemeltetésében áll. A park zseniálisan ötvözi az adrenalin-dús hullámvasutakat (mint a hírhedt 'Avalancha' vagy a 'La Chula') a lenyűgöző, élethű építészeti replikákkal. A park kilenc plázára oszlik: az egyik fele Guatemala történelmét és maja kultúráját (Gran Plaza, Plaza Maya) mutatja be, míg a másik fele Európa ikonikus országainak (Spanyolország, Olaszország, Franciaország, Svájc, Németország) építészetét másolja le lenyűgöző részletességgel (pl. a római Trevi-kút vagy a párizsi Moulin Rouge kicsinyített mása). A Xetulul a guatemalai családok legfőbb nyaralási célpontja, egy 'guatemalai Disneyland', amely megfizethető belépőt kínál a munkásoknak egy biztonságos, luxus környezetben. Földrajz K8 — a turizmus fejlesztése és az élményparkok társadalmi modellje.",
       de: "Der Themenpark Xetulul in Retalhuleu ist ein architektonisches Wunderwerk und der prestigeträchtigste Freizeitpark Mittelamerikas. Betrieben vom IRTRA, wurde der Park im extrem heißen, tropischen Tiefland errichtet und bietet eine surreal perfekte, stark romantisierte Kopie europäischer und guatemaltekischer Wahrzeichen. Besucher schlendern durch detaillierte Nachbildungen spanischer Plätze, französischer Schlösser und römischer Brunnen, während sie gleichzeitig gigantische Maya-Pyramiden bestaunen können. Neben dieser architektonischen Detailverliebtheit beheimatet Xetulul gewaltige Achterbahnen, darunter Nachbauten berühmter europäischer Coaster. Für die guatemaltekische Arbeiterklasse ist der Park oft die einzige erschwingliche Möglichkeit, internationale Architektur und Vergnügungspark-Standards auf Weltniveau (Disney-Standard) zu erleben. Gesellschaft K7 — Massenunterhaltung und Architektur-Kopien."
@@ -819,8 +843,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Xocomil Water Park",
       hu: "Xocomil vizi park",
       ro: "Parcul acvatic Xocomil",
-      en: "Xocomil Water Park"
-    },
+      en: "Xocomil Water Park",
+image: "/poi-images/gt-xocomil-water-park-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Parque Acuático Xocomil Közép-Amerika legnagyobb és legtöbbet díjazott aquaparkja, amely közvetlenül a Xetulul vidámpark mellett található Retalhuleu forró, csendes-óceáni lejtőjén. A szintén az IRTRA által működtetett park 1997-ben nyílt meg. A tervezők a guatemalai esőerdők, a maja piramisok és a vulkánok motívumait építették be a medencék és csúszdák dizájnjába. A park hatalmas, buja növényzettel (több ezer pálmafával és orchideával) beültetett területén őrült szabadesés-csúszdák (mint az Xibalbá), hullámmedencék (Playa Sur) és kanyargós lustafolyók (Río Tumalá) találhatók, amelyek óránként több ezer embert képesek hűsíteni a 35 °C-os trópusi hőségben. A Xocomil (amelynek neve a maja mitológiából, az Atitlán-tó erős szeléből ered) a guatemalai belföldi turizmus legfontosabb nyári desztinációja. Sachkunde K5 — víziparkok infrastruktúrája és a trópusi pihenés.",
       de: "Direkt neben Xetulul in Retalhuleu liegt Xocomil, der mit Abstand größte und beeindruckendste Wasserpark Lateinamerikas. In der drückenden Hitze der Pazifikküste ist Xocomil eine lebensrettende Oase aus künstlichen Wellenbädern, reißenden Strömungskanälen und extremen, mehrstöckigen Wasserrutschen. Der Park ist tief von der Maya-Mythologie inspiriert: Die riesigen Rutschentürme sind oft in Form von Maya-Pyramiden gestaltet, und steinerne Masken säumen die Wege. Der Name 'Xocomil' leitet sich vom berühmten, unberechenbaren Nachmittagswind am Atitlán-See ab. Mit seinem makellosen, dichten Dschungel-Landschaftsbau und enormer Kapazität empfängt der Park an Wochenenden zehntausende Familien. Die strengen Sauberkeits- und Sicherheitsstandards machen Xocomil zu einem Vorzeigeprojekt für touristische Infrastruktur im Land. Gesellschaft K6 — Wassertourismus in den Tropen."
@@ -852,8 +877,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Jalapa Dairy Valley",
       hu: "Jalapa tejvolgy",
       ro: "Valea lactatelor Jalapa",
-      en: "Jalapa Dairy Valley"
-    },
+      en: "Jalapa Dairy Valley",
+image: "/poi-images/gt-jalapa-dairy-valley-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Jalapa megye, különösen a megyeszékhely (Jalapa) körüli magaslati, zöldellő fennsíkok ('Valles de Jalapa'), Guatemala egyik legfontosabb tejtermelő és sajtgyártó régióját alkotják. A Jumay vulkán hűvösebb mikroklímája és a dús füvű legelők kiváló környezetet biztosítanak a szarvasmarha-tenyésztésnek (holstein, jersey és keresztezett fajták). A helyi falvak élete a reggeli fejés (ordeño) és a tejbegyűjtés ritmusához igazodik. Jalapa hírnevét elsősorban a kézműves sajtok (queso fresco, queso seco, requesón) és a sűrű, ízletes tejföl (crema jalapaneca) alapozta meg, amelyeket a gazdák lovakon vagy platós autókon szállítanak be a piacokra. A tejfeldolgozás mellett a vidék jelentős gabonatermelő (kukorica, cirok) is, ami a jószágok takarmányozásához is elengedhetetlen. Földrajz K6 — a magaslati legelők állattartása és a kézműves tejipar.",
       de: "Das Tal von Jalapa im Osten Guatemalas ist landesweit für seine malerischen Landschaften und vor allem für seine herausragende Milchwirtschaft bekannt. Während das westliche Hochland stark auf Mais und Gemüse fokussiert ist, dominieren hier Rinderzucht und saftige Weiden das Bild. Jalapa wird oft als die 'Käsehauptstadt' des Ostens betrachtet. Kleine und mittelgroße Familienbetriebe produzieren hier täglich riesige Mengen des frischen, salzigen 'Queso Fresco', harten Reibekäse (Queso Seco) und schwere, gelbliche Sahne (Crema). Diese Molkereiprodukte werden auf den Märkten der gesamten Metropolregion um die Hauptstadt stark nachgefragt. Die kühle, aber frostfreie Lage (etwa 1.300 Meter Höhe) bietet den Holstein- und Jersey-Kühen perfekte klimatische Bedingungen. Wirtschaft K6 — Lokale Käseproduktion."
@@ -885,8 +911,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Chimaltenango Vegetable Valleys",
       hu: "Chimaltenango zoldsegvolgyek",
       ro: "Vaile legumicole din Chimaltenango",
-      en: "Chimaltenango Vegetable Valleys"
-    },
+      en: "Chimaltenango Vegetable Valleys",
+image: "/poi-images/gt-chimaltenango-vegetable-valleys-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Chimaltenango megye völgyei (például Patzún, Tecpán és Zaragoza környékén) a guatemalai 'nem-tradicionális mezőgazdasági export' (NTAE) igazi zöld motorjai. Ezek a 1800-2200 méter magasan fekvő területek napközben intenzív napfényt, éjszaka pedig hűvös levegőt (olykor fagyot) kapnak, ráadásul talajuk rendkívül gazdag vulkáni ásványokban. Az elmúlt évtizedekben a kaqchikel maja földművesek a hagyományos kukoricáról (milpa) átálltak a magas hozzáadott értékű exportzöldségek – brokkoli, hóborsó (arveja china), sárgarépa és kelbimbó – termesztésére. A teraszos, sötétzöld hegyoldalakat csepegtető öntözőrendszerek hálózzák be. Hajnalonta a gazdák (agricultores) ezrei gyűjtik össze a friss terményt, amit a helyi csomagolóüzemekben (empacadoras) gyorsan hűtve készítenek elő az Egyesült Államok szupermarketeibe tartó repülős és hajós szállításra. Földrajz K8 — exportra szánt agrárkultúrák és a vulkáni talajok hasznosítása.",
       de: "Die hochgelegenen, leicht hügeligen Täler von Chimaltenango sind der unangefochtene Gemüsegarten Guatemalas. Dank des pechschwarzen, extrem fruchtbaren Vulkanbodens und des kühlen Klimas hat sich diese Region in ein industrielles landwirtschaftliches Wunder verwandelt. Zehntausende von indigenen Bauern (vorwiegend Kaqchikel) haben ihre historischen Maisfelder in endlose Reihen von Brokkoli, Karotten, Kohl, Blumenkohl und Miniatur-Gemüse (Mini-Zucchini, Schneeerbsen) verwandelt. Der absolute Großteil dieser Ernte ist nicht für den lokalen Markt bestimmt, sondern wird in riesigen Kühlhäusern verpackt und als gefrorenes Premiumgemüse in die Supermärkte der USA und Europas exportiert. Diese Agrar-Revolution hat den Gemeinden großen wirtschaftlichen Aufschwung gebracht, führt jedoch auch zu Problemen mit massivem Düngemitteleinsatz und erschöpften Böden. Wirtschaft K7 — Der globale Gemüseexport."
@@ -918,8 +945,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Jutiapa Sesame Fields",
       hu: "Jutiapa szezammezok",
       ro: "Campurile de susan Jutiapa",
-      en: "Jutiapa Sesame Fields"
-    },
+      en: "Jutiapa Sesame Fields",
+image: "/poi-images/gt-jutiapa-sesame-fields-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Jutiapa megye, a guatemalai 'Oriente' (Kelet) meleg és viszonylag száraz régiója az ország legfőbb gabona- és magtermelő központja. Míg korábban szinte kizárólag a feketebab (frijol) és a kukorica uralta a domboldalakat, ma Jutiapa (és a szomszédos Jalapa, Santa Rosa részei) egyre nagyobb kiterjedésű szezámmag-földekkel (ajonjolí) büszkélkedhet. A szezám kifejezetten jól tűri a 'Száraz Folyosó' (Corredor Seco) csapadékhiányos, perzselő nyarait, és kiváló exporttermékké vált a Közel-Kelet és Ázsia felé, valamint a hazai pékségek számára. Az aratás (kaszálás) novemberben kezdődik, amikor a növény kévéit kúpokba (parvas) rakják száradni a földeken – ez a látvány jellegzetes a jutiapai utakon (Ruta a El Salvador). A vidék gazdái ('finqueros') emellett ciroktermesztéssel és marhatartással is foglalkoznak. Földrajz K7 — szárazságtűrő növények és a szezám-export.",
       de: "Im drückend heißen, oft semiariden Klima von Jutiapa, nahe der Grenze zu El Salvador, prägt eine ungewöhnliche, aber äußerst lukrative Pflanze die Landwirtschaft: der Sesam (Ajonjolí). Da das Departamento Jutiapa Teil des extrem niederschlagsarmen 'Trockenkorridors' ist, suchten die Bauern nach trockenheitsresistenten Pflanzen und fanden im Sesam die perfekte Lösung. Im Spätherbst, wenn die mannshohen Pflanzen geerntet werden, binden die Feldarbeiter sie zu großen Pyramiden (Bündeln) zusammen, die auf den Feldern zum Trocknen in der brennenden Sonne stehen gelassen werden – ein ikonisches Bild für die Region. Der guatemaltekische Sesam gilt aufgrund der vulkanischen Böden als sehr hochwertig und wird zu großen Teilen nach Asien und in die USA für die Backwarenindustrie exportiert. Landwirtschaft K7 — Pflanzenbau im Trockenkorridor."
@@ -951,8 +979,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "Finca El Pilar",
       hu: "Finca El Pilar",
       ro: "Finca El Pilar",
-      en: "Finca El Pilar"
-    },
+      en: "Finca El Pilar",
+image: "/poi-images/gt-finca-el-pilar-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Finca El Pilar egy gyönyörű, buja természeti rezervátum és magánökológiai park, amely alig néhány percre fekszik Antigua Guatemala központjától, a hegyoldalban. Eredetileg kávéültetvényként funkcionált, de a domborzat meredeksége és a fenyő- valamint tölgyerdők dominanciája miatt a tulajdonosok az ökoturizmus és a természetvédelem felé fordultak. A park leghíresebb látványossága a kolibri-les (observatorio de colibríes), ahol tucatnyi különböző, vibráló színű kolibrifaj (köztük a ritka Rufous Sabrewing) röpköd szabadon, az odahelyezett nektáros itatóknak köszönhetően. El Pilar emellett forrásvízzel töltött, jéghideg erdei medencékkel és több kilométeres túraútvonalakkal büszkélkedhet, amelyek felvezetnek a felhőerdők (bosque nuboso) világába és az Agua vulkán panorámájához. Sachkunde K5 — madármegfigyelés és erdőrezervátumok.",
       de: "Die Finca El Pilar, nur wenige Minuten vom historischen Zentrum von Antigua Guatemala entfernt, ist ein herausragendes Beispiel für privaten Naturschutz und Ökotourismus. Das Anwesen erstreckt sich von der Basis bis hoch in den Nebelwald des Berges. Anstatt den gesamten Wald für den Kaffeeanbau zu roden, schufen die Besitzer ein Naturreservat. Bekannt ist El Pilar weltweit bei Ornithologen (Vogelbeobachtern) für sein Kolibri-Schutzgebiet: An Dutzenden von Futterstationen schwirren Hunderte von Kolibris (Colibríes) aus über zehn verschiedenen Arten gleichzeitig durch die Luft. Das Naturreservat bietet auch Wanderwege bis zum Gipfel des Berges und Schwimmbecken mit kristallklarem Bergquellwasser. El Pilar zeigt, wie Kaffeeproduktion und die Erhaltung endemischer Tropenwälder harmonisch und profitabel koexistieren können. Biologie K7 — Ornithologie und privater Naturschutz."
@@ -984,8 +1013,9 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       de: "ChocoMuseo Antigua",
       hu: "ChocoMuseo Antigua",
       ro: "ChocoMuseo Antigua",
-      en: "ChocoMuseo Antigua"
-    },
+      en: "ChocoMuseo Antigua",
+image: "/poi-images/gt-chocomuseo-antigua-life-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A ChocoMuseo (Csokoládémúzeum) Antigua Guatemala szívében egy interaktív kulturális és gasztronómiai intézmény, amely a maják 'isteni italának', a kakaónak a történelmét és elkészítését ünnepli. Guatemala, és különösen a közeli partvidék (mint Suchitepéquez, az egykori Zapotitlán) a prekolumbián Mezoamerika egyik legfőbb kakaótermelő központja volt, a kakaóbabokat (cacao) fizetőeszközként is használták. A múzeum bemutatja a kakaófa (Theobroma cacao) biológiai ciklusát, a hüvelyek (mazorcas) betakarítását, fermentálását és pörkölését. A látogatók maguk őrölhetik pasztává a babokat hagyományos kőmozsarakban (metate), és elkészíthetik a fűszeres, chilis maja csokoládéitalt, vagy a lágyabb spanyol, tejes változatot, megtapasztalva a több évezredes guatemalai csokoládékultúra evolúcióját. Történelem K7 — a kakaó szerepe a mezoamerikai gazdaságban és vallásban.",
       de: "Schokolade (Kakao) hat ihren historischen und botanischen Ursprung in Mesoamerika, und das ChocoMuseo in Antigua Guatemala hat sich zur Aufgabe gemacht, diese lange Geschichte erlebbar zu machen. Mehr als nur ein Geschäft, ist das Museum eine interaktive Werkstatt. Besucher lernen hier die jahrtausendealte Bedeutung des Kakaos für die Maya kennen – die ihn als heiliges, bitteres Getränk mit Chili tranken und die Kakaobohnen als Währung nutzten. Der Röst- und Mahlprozess der getrockneten Kakaobohnen wird vor Ort auf traditionellen Steinmetaten demonstriert. Das Museum spielt eine wichtige Rolle bei der Förderung lokaler Kakaobauern aus der Region Alta Verapaz und Suchitepéquez, da es ausschließlich auf Fair-Trade-Kakao aus Guatemala setzt, um Schokoladenprodukte auf Weltklasseniveau herzustellen. Geschichte K6 — Die Ursprünge der Schokolade."

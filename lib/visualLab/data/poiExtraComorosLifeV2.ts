@@ -11,8 +11,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Ylang-Ylang-Plantagen von Bambao",
       hu: "Bambao ylang-ylang ültetvényei",
       ro: "Plantațiile de Ylang-Ylang din Bambao",
-      en: "Ylang-Ylang Plantations of Bambao"
-    },
+      en: "Ylang-Ylang Plantations of Bambao",
+image: "/poi-images/ylang-ylang-plantagen-bambao-life-v2.webp"
+},
     description: {
       de: "Die Region Bambao auf Grande Comore ist bekannt für ihre ausgedehnten Ylang-Ylang-Felder, deren Blüten für die Parfümherstellung geerntet werden.",
       hu: "Grande Comore Bambao régiója kiterjedt ylang-ylang mezőiről ismert, melyek virágait parfümgyártáshoz szüretelik.",
@@ -35,8 +36,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Vanillefelder von Anjouan",
       hu: "Anjouan vaníliaföldjei",
       ro: "Câmpurile de vanilie din Anjouan",
-      en: "Vanilla Fields of Anjouan"
-    },
+      en: "Vanilla Fields of Anjouan",
+image: "/poi-images/vanillefelder-anjouan-life-v2.webp"
+},
     description: {
       de: "Anjouan ist einer der weltweit bedeutendsten Produzenten von hochwertiger Bourbon-Vanille, die in den fruchtbaren Tälern gedeiht.",
       hu: "Anjouan a világ egyik legjelentősebb kiváló minőségű Bourbon-vanília termelője, amely a termékeny völgyekben virágzik.",
@@ -58,8 +60,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Nelkenhaine von Mohéli",
       hu: "Mohéli szegfűszegligetei",
       ro: "Livezile de cuișoare din Mohéli",
-      en: "Clove Groves of Mohéli"
-    },
+      en: "Clove Groves of Mohéli",
+image: "/poi-images/nelkenhaine-moheli-life-v2.webp"
+},
     description: {
       de: "Auf der Insel Mohéli prägen Nelkenbäume die Landschaft, deren getrocknete Blütenknospen als kostbares Gewürz weltweit exportiert werden.",
       hu: "Mohéli szigetén szegfűszegfák határozzák meg a tájat, melyek szárított virágbimbóit értékes fűszerként exportálják világszerte.",
@@ -81,8 +84,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Gewürzgarten von Moroni",
       hu: "Moroni fűszerkertje",
       ro: "Grădina de mirodenii din Moroni",
-      en: "Spice Garden of Moroni"
-    },
+      en: "Spice Garden of Moroni",
+image: "/poi-images/gewuerzgarten-moroni-life-v2.webp"
+},
     description: {
       de: "In der Nähe der Hauptstadt können Besucher die Vielfalt der komorischen Gewürze wie Pfeffer, Zimt und Muskatnuss in ihrer natürlichen Umgebung sehen.",
       hu: "A moroni fűszerkert a városi kertészkedés és az illatos növények világát mutatja be. A hely jól kapcsolja össze a hétköznapi életet és a helyi növénykultúrát.",
@@ -104,8 +108,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Habitat der Livingstone-Flughunde",
       hu: "Livingstone-repülőkutya élőhely",
       ro: "Habitatul vulpilor zburătoare Livingstone",
-      en: "Livingstone's Fruit Bat Habitat"
-    },
+      en: "Livingstone's Fruit Bat Habitat",
+image: "/poi-images/livingstone-flughunde-habitat-life-v2.webp"
+},
     description: {
       de: "Die Livingstone-Flughunde sind eine der größten und seltensten Fledermausarten der Welt und leben nur in den Bergwäldern von Anjouan und Mohéli.",
       hu: "A Livingstone-repülőkutya a világ egyik legnagyobb és legritkább denevérfaja, amely csak Anjouan és Mohéli hegyi erdőiben él.",
@@ -127,8 +132,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Schildkrötenstrände von Itsamia",
       hu: "Itsamia teknősös partjai",
       ro: "Plajele cu țestoase din Itsamia",
-      en: "Turtle Beaches of Itsamia"
-    },
+      en: "Turtle Beaches of Itsamia",
+image: "/poi-images/meeresschildkroeten-itsamia-life-v2.webp"
+},
     description: {
       de: "Itsamia auf Mohéli ist einer der wichtigsten Nistplätze für Grüne Meeresschildkröten im Indischen Ozean, wo sie fast jede Nacht anlanden.",
       hu: "A Mohéli-szigeti Itsamia az Indiai-óceán egyik legfontosabb zöld tengeri teknős fészkelőhelye, ahol szinte minden éjjel partra szállnak.",
@@ -150,8 +156,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Dugong-Schutzgebiet von Mohéli",
       hu: "Mohéli dugong-védelmi körzete",
       ro: "Sanctuarul de dugongi din Mohéli",
-      en: "Dugong Sanctuary of Mohéli"
-    },
+      en: "Dugong Sanctuary of Mohéli",
+image: "/poi-images/dugong-schutzgebiet-moheli-life-v2.webp"
+},
     description: {
       de: "In den Seegraswiesen des Mohéli-Meeresparks lebt eine kleine, streng geschützte Population der seltenen Dugongs (Seekühe).",
       hu: "A Mohéli Tengeri Park tengerifű-mezőiben él a ritka dugongok (tengeri tehenek) egy kicsiny, szigorúan védett populációja.",
@@ -173,8 +180,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Buckelwal-Beobachtungszone",
       hu: "Hosszúszárnyú bálna megfigyelőhely",
       ro: "Zona de observare a balenelor cu cocoașă",
-      en: "Humpback Whale Observation Zone"
-    },
+      en: "Humpback Whale Observation Zone",
+image: "/poi-images/buckelwal-beobachtung-life-v2.webp"
+},
     description: {
       de: "Zwischen Juli und Oktober ziehen Buckelwale durch die warmen Gewässer der Komoren, um ihre Kälber zur Welt zu bringen.",
       hu: "Július és október között hosszúszárnyú bálnák vonulnak át a Comore-szigetek meleg vizein, hogy világra hozzák borjaikat.",
@@ -196,8 +204,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Kokosnuss-Haine von Mitsamiouli",
       hu: "Mitsamiouli kókuszligetei",
       ro: "Livezile de cocotieri din Mitsamiouli",
-      en: "Coconut Groves of Mitsamiouli"
-    },
+      en: "Coconut Groves of Mitsamiouli",
+image: "/poi-images/kokosnuss-haine-mitsamiouli-life-v2.webp"
+},
     description: {
       de: "Im Norden von Grande Comore erstrecken sich weite Kokospalmenhaine, die für die lokale Wirtschaft und Ernährung von zentraler Bedeutung sind.",
       hu: "Mitsamiouli kókuszligetei a part menti táj egyik jellegzetes elemei. A fák árnyéka és a kis parcellák a hagyományos szigetgazdálkodást idézik.",
@@ -219,8 +228,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Zuckerrohrfelder von Pomoni",
       hu: "Pomoni cukornádmezői",
       ro: "Câmpurile de trestie de zahăr din Pomoni",
-      en: "Sugar Cane Fields of Pomoni"
-    },
+      en: "Sugar Cane Fields of Pomoni",
+image: "/poi-images/zuckerrohrfelder-pomoni-life-v2.webp"
+},
     description: {
       de: "In der Region Pomoni auf Anjouan wird traditionell Zuckerrohr angebaut, das oft noch in kleinen lokalen Mühlen verarbeitet wird.",
       hu: "Az Anjouan-i Pomoni régióban hagyományosan cukornádat termesztenek, melyet gyakran még kis helyi malmokban dolgoznak fel.",
@@ -242,8 +252,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Bananenplantagen von Nioumachoua",
       hu: "Nioumachoua banánültetvényei",
       ro: "Plantațiile de banane din Nioumachoua",
-      en: "Banana Plantations of Nioumachoua"
-    },
+      en: "Banana Plantations of Nioumachoua",
+image: "/poi-images/bananenplantagen-nioumachoua-life-v2.webp"
+},
     description: {
       de: "Rund um Nioumachoua auf Mohéli gedeihen zahlreiche Bananenarten, die ein Grundnahrungsmittel der Inselbevölkerung darstellen.",
       hu: "A Mohéli-szigeti Nioumachoua körül számos banánfaj terem, melyek a sziget lakosságának alapvető élelmiszerét jelentik.",
@@ -265,8 +276,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Lemuren-Wald von Mohéli",
       hu: "Mohéli maki-erdeje",
       ro: "Pădurea lemurienilor din Mohéli",
-      en: "Lemur Forest of Mohéli"
-    },
+      en: "Lemur Forest of Mohéli",
+image: "/poi-images/lemuren-wald-moheli-life-v2.webp"
+},
     description: {
       de: "Die dichten Wälder von Mohéli sind die Heimat des Mongozmaki, einer Lemurenart, die ursprünglich aus Madagaskar stammt.",
       hu: "Mohéli sűrű erdői otthont adnak a mongúzmakinak, egy eredetileg Madagaszkárról származó makifajnak.",
@@ -288,8 +300,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Vogelparadies Chissioua Mchaco",
       hu: "Chissioua Mchaco madárparadicsom",
       ro: "Paradisul păsărilor din Chissioua Mchaco",
-      en: "Bird Paradise of Chissioua Mchaco"
-    },
+      en: "Bird Paradise of Chissioua Mchaco",
+image: "/poi-images/vogelparadies-mchaco-life-v2.webp"
+},
     description: {
       de: "Die kleine Insel Chissioua Mchaco ist ein bedeutendes Refugium für Tausende von Seevögeln, die hier ungestört brüten können.",
       hu: "Chissioua Mchaco apró szigete jelentős menedékhely több ezer tengeri madár számára, melyek itt zavartalanul fészkelhetnek.",
@@ -311,8 +324,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Ylang-Ylang-Destillerie von Ouani",
       hu: "Ouani ylang-ylang lepárlója",
       ro: "Distileria de Ylang-Ylang din Ouani",
-      en: "Ylang-Ylang Distillery of Ouani"
-    },
+      en: "Ylang-Ylang Distillery of Ouani",
+image: "/poi-images/ylang-ylang-destillerie-ouani-life-v2.webp"
+},
     description: {
       de: "In Ouani können Besucher den Prozess der Destillation miterleben, bei dem aus den gelben Blüten das wertvolle ätherische Öl gewonnen wird.",
       hu: "Ouaniban a látogatók tanúi lehetnek a lepárlási folyamatnak, mely során a sárga virágokból kinyerik az értékes illóolajat.",
@@ -334,8 +348,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Kaffeeplantagen von Tsembehou",
       hu: "Tsembehou kávéültetvényei",
       ro: "Plantațiile de cafea din Tsembehou",
-      en: "Coffee Plantations of Tsembehou"
-    },
+      en: "Coffee Plantations of Tsembehou",
+image: "/poi-images/kaffeeplantagen-tsembehou-life-v2.webp"
+},
     description: {
       de: "Das kühle Hochland von Tsembehou auf Anjouan bietet ideale Bedingungen für den Anbau von hochwertigem Kaffee.",
       hu: "Anjouan hűvös felföldje Tsembehou-nál ideális körülményeket kínál a kiváló minőségű kávé termesztéséhez.",
@@ -357,8 +372,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Reisfelder von Mohéli",
       hu: "Mohéli rizsföldjei",
       ro: "Câmpurile de orez din Mohéli",
-      en: "Rice Fields of Mohéli"
-    },
+      en: "Rice Fields of Mohéli",
+image: "/poi-images/reisfelder-moheli-life-v2.webp"
+},
     description: {
       de: "In den wasserreichen Tälern von Mohéli wird Reis angebaut, was ein wichtiger Teil der lokalen Selbstversorgung ist.",
       hu: "Mohéli vízben gazdag völgyeiben rizst termesztenek, ami fontos része a helyi önellátásnak.",
@@ -381,8 +397,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Fischmarkt von Moroni",
       hu: "Moroni halpiaca",
       ro: "Piața de pește din Moroni",
-      en: "Fish Market of Moroni"
-    },
+      en: "Fish Market of Moroni",
+image: "/poi-images/fischmarkt-moroni-life-v2.webp"
+},
     description: {
       de: "Am Hafen von Moroni bietet der tägliche Fischmarkt einen Einblick in die reiche Meeresernte der Komoren, von Thunfisch bis zum Papageifisch.",
       hu: "Moroni kikötőjében a napi halpiac betekintést nyújt a Comore-szigetek gazdag tengeri zsákmányába, a tonhaltól a papagájhalig.",
@@ -405,8 +422,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Strandspielplatz von Maloudja",
       hu: "Maloudja tengerparti játszótere",
       ro: "Locul de joacă de pe plaja Maloudja",
-      en: "Beach Playground of Maloudja"
-    },
+      en: "Beach Playground of Maloudja",
+image: "/poi-images/strandspielplatz-maloudja-life-v2.webp"
+},
     description: {
       de: "Der Strand von Maloudja bietet einen sicheren und flachen Uferbereich, der ideal für Kinder zum Spielen und Schwimmen geeignet ist.",
       hu: "A Maloudja-strand biztonságos és sekély part menti területe ideális a gyermekek számára a játékhoz és az úszáshoz.",
@@ -428,8 +446,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Naturlehrpfad im Karthala-Wald",
       hu: "Karthala-erdei tanösvény",
       ro: "Traseul educativ din pădurea Karthala",
-      en: "Nature Trail in Karthala Forest"
-    },
+      en: "Nature Trail in Karthala Forest",
+image: "/poi-images/naturlehrpfad-karthala-life-v2.webp"
+},
     description: {
       de: "Ein kinderfreundlicher Wanderweg führt durch die unteren Hänge des Vulkans Karthala und erklärt die heimische Pflanzenwelt.",
       hu: "A Karthala tanösvénye a vulkáni lejtők növényvilágát mutatja be. A sétaút a helyi természetet és a sziget geológiáját egyszerre közelíti meg.",
@@ -451,8 +470,9 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Botanischer Garten von Mvouni",
       hu: "Mvouni botanikus kertje",
       ro: "Grădina Botanică din Mvouni",
-      en: "Botanical Garden of Mvouni"
-    },
+      en: "Botanical Garden of Mvouni",
+image: "/poi-images/botanischer-garten-mvouni-life-v2.webp"
+},
     description: {
       de: "Der botanische Garten in Mvouni zeigt eine Sammlung einheimischer und exotischer Pflanzen und ist ein beliebtes Ziel für Schulausflüge.",
       hu: "A mvouni-i botanikus kert őshonos és egzotikus növények gyűjteményét mutatja be, és népszerű célpontja az iskolai kirándulásoknak.",

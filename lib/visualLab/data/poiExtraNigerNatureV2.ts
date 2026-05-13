@@ -7,7 +7,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-01",
     coords: [2.073, 14.500],
-    name: { de: "Niger", hu: "Niger", ro: "Fluviul Niger", en: "Niger River" },
+    name: { de: "Niger", hu: "Niger", ro: "Fluviul Niger", en: "Niger River",
+image: "/poi-images/niger-fluss-nature-v2.webp"
+},
     description: { de: "Der längste Fluss Westafrikas, der eine lebenswichtige Lebensader für Niger darstellt.", hu: "Nyugat-Afrika leghosszabb folyója, amely létfontosságú életút Niger számára.", ro: "Cel mai lung fluviu din Africa de Vest, care reprezintă o arteră vitală pentru Niger.", en: "The longest river in West Africa, serving as a vital lifeline for Niger." },
     facts: {
       de: ["Entspringt im Hochland von Guinea.", "Durchfließt den Südwesten von Niger.", "Bildet das berühmte Niger-Binnendelta.", "Sorgt für fruchtbare Böden am Ufer."],
@@ -33,7 +35,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "lake",
     parent: "NE-05",
     coords: [14.000, 13.500],
-    name: { de: "Tschadsee", hu: "Csád-tó", ro: "Lacul Ciad", en: "Lake Chad" },
+    name: { de: "Tschadsee", hu: "Csád-tó", ro: "Lacul Ciad", en: "Lake Chad",
+image: "/poi-images/tschadsee-nature-v2.webp"
+},
     description: { de: "Ein bedeutender endorheischer See, der an der Grenze zwischen Niger, Tschad, Kamerun und Nigeria liegt.", hu: "Jelentős lefolyástalan tó, amely Niger, Csád, Kamerun és Nigéria határán fekszik.", ro: "Un lac endoreic semnificativ, situat la granița dintre Niger, Ciad, Camerun și Nigeria.", en: "A significant endorheic lake located at the border between Niger, Chad, Cameroon, and Nigeria." },
     facts: {
       de: ["Größe unterliegt starken Schwankungen.", "Wichtige Wasserquelle für Millionen Menschen.", "Einst einer der größten Seen Afrikas.", "Flaches Gewässer mit vielen Inseln."],
@@ -59,7 +63,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [8.500, 18.000],
-    name: { de: "Aïr-Gebirge", hu: "Aïr-hegység", ro: "Munții Aïr", en: "Aïr Mountains" },
+    name: { de: "Aïr-Gebirge", hu: "Aïr-hegység", ro: "Munții Aïr", en: "Aïr Mountains",
+image: "/poi-images/air-gebirge-nature-v2.webp"
+},
     description: { de: "Ein isoliertes Gebirgsmassiv im Norden Nigers, das aus vulkanischen Gesteinen besteht.", hu: "Elszigetelt hegység Niger északi részén, amely vulkáni kőzetekből áll.", ro: "Un masiv muntos izolat în nordul Nigerului, format din roci vulcanice.", en: "An isolated mountain range in northern Niger, consisting of volcanic rocks." },
     facts: {
       de: ["Höchster Punkt ist der Mont Idoukal-n-Taghès.", "Beherbergt seltene Wüsten-Ökosysteme.", "UNESCO-Welterbe-Gebiet.", "Ein Gebirge inmitten der Sahara."],
@@ -85,7 +91,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "forest",
     parent: "NE-07",
     coords: [11.000, 18.000],
-    name: { de: "Ténéré", hu: "Ténéré", ro: "Ténéré", en: "Ténéré" },
+    name: { de: "Ténéré", hu: "Ténéré", ro: "Ténéré", en: "Ténéré",
+image: "/poi-images/tenere-wueste-nature-v2.webp"
+},
     description: { de: "Ein riesiges Sandmeer in der Sahara, das fast vollständig in Niger liegt.", hu: "Hatalmas homoktenger a Szaharában, amely szinte teljes egészében Niger területén fekszik.", ro: "O vastă mare de nisip în Sahara, situată aproape în întregime în Niger.", en: "A vast sand sea in the Sahara, lying almost entirely within Niger." },
     facts: {
       de: ["Bekannt als die 'Wüste der Wüsten'.", "Früher ein fruchtbares Gebiet mit Bäumen.", "Sehr trockene Region mit wenig Vegetation.", "Wichtige prähistorische Fundstätte."],
@@ -111,7 +119,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-01",
     coords: [2.500, 13.000],
-    name: { de: "Dallol Bosso", hu: "Dallol Bosso", ro: "Dallol Bosso", en: "Dallol Bosso" },
+    name: { de: "Dallol Bosso", hu: "Dallol Bosso", ro: "Dallol Bosso", en: "Dallol Bosso",
+image: "/poi-images/dallol-bosso-nature-v2.webp"
+},
     description: { de: "Ein altes, fossiles Flusstal im Südwesten Nigers, das periodisch Wasser führt.", hu: "Egy ősi, fosszilis folyóvölgy Niger délnyugati részén, amely időszakosan vizet vezet.", ro: "O veche vale fosilă a unui râu în sud-vestul Nigerului, care poartă apă periodic.", en: "An ancient, fossil river valley in southwestern Niger that carries water periodically." },
     facts: {
       de: ["Wichtig für die Landwirtschaft in der Region.", "Fossile Wasserader der Sahara.", "Beherbergt saisonale Feuchtgebiete.", "Liegt nahe am Niger-Fluss."],
@@ -137,7 +147,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "forest",
     parent: "NE-01",
     coords: [0.500, 15.500],
-    name: { de: "Gourma", hu: "Gourma", ro: "Gourma", en: "Gourma" },
+    name: { de: "Gourma", hu: "Gourma", ro: "Gourma", en: "Gourma",
+image: "/poi-images/gourma-nature-v2.webp"
+},
     description: { de: "Eine Region mit Baumsavannen und Waldland, die sich über Niger und Mali erstreckt.", hu: "Fás szavannák és erdőségek régiója, amely Niger és Mali területére nyúlik.", ro: "O regiune cu savane împădurite și zone forestiere, care se întinde peste Niger și Mali.", en: "A region of tree savannas and woodland that extends across Niger and Mali." },
     facts: {
       de: ["Lebensraum für Wüstenelefanten.", "Beherbergt typische Sahel-Vegetation.", "Stark von Dürreperioden betroffen.", "Wichtige Weidefläche."],
@@ -163,7 +175,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [12.000, 21.000],
-    name: { de: "Djado-Plateau", hu: "Djado-fennsík", ro: "Platoul Djado", en: "Djado Plateau" },
+    name: { de: "Djado-Plateau", hu: "Djado-fennsík", ro: "Platoul Djado", en: "Djado Plateau",
+image: "/poi-images/plateau-djado-nature-v2.webp"
+},
     description: { de: "Ein Hochplateau im Nordosten Nigers, berühmt für seine antiken Felszeichnungen.", hu: "Magasfennsík Niger északkeleti részén, híres ősi sziklarajzairól.", ro: "Un platou înalt în nord-estul Nigerului, faimos pentru picturile sale rupestre antice.", en: "A high plateau in northeastern Niger, famous for its ancient rock carvings." },
     facts: {
       de: ["Sehr entlegene und trockene Region.", "Enthält zahlreiche prähistorische Funde.", "Umgeben von Sanddünen.", "Wenig erforschte Berglandschaft."],
@@ -189,7 +203,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "lake",
     parent: "NE-07",
     coords: [8.700, 18.200],
-    name: { de: "Gueltas im Aïr-Gebirge", hu: "Guelták az Aïr-hegységben", ro: "Guelt-uri în Munții Aïr", en: "Gueltas in the Aïr Mountains" },
+    name: { de: "Gueltas im Aïr-Gebirge", hu: "Guelták az Aïr-hegységben", ro: "Guelt-uri în Munții Aïr", en: "Gueltas in the Aïr Mountains",
+image: "/poi-images/gueltas-air-nature-v2.webp"
+},
     description: { de: "Natürliche Wasserbecken in Felsspalten, die in der trockenen Wüstenlandschaft überdauern.", hu: "Természetes vízmedencék sziklahasadékokban, amelyek fennmaradnak a száraz sivatagi tájban.", ro: "Bazine naturale de apă în crăpăturile stâncilor, care supraviețuiesc în peisajul deșertic uscat.", en: "Natural water basins in rock crevices that persist in the dry desert landscape." },
     facts: {
       de: ["Lebenswichtige Oasen für Tiere.", "Speisen sich aus seltener Niederschlagsmenge.", "Einzigartiges Mikro-Ökosystem.", "Schwer zugänglich."],
@@ -215,7 +231,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "forest",
     parent: "NE-07",
     coords: [13.000, 19.000],
-    name: { de: "Kaouar-Oasen", hu: "Kaouar-oázisok", ro: "Oazele Kaouar", en: "Kaouar Oases" },
+    name: { de: "Kaouar-Oasen", hu: "Kaouar-oázisok", ro: "Oazele Kaouar", en: "Kaouar Oases",
+image: "/poi-images/kaouar-oasen-nature-v2.webp"
+},
     description: { de: "Eine Kette von Oasen entlang der Kaouar-Klippen in der Sahara.", hu: "Oázisok láncolata a Kaouar-sziklák mentén a Szaharában.", ro: "Un lanț de oaze de-a lungul stâncilor Kaouar din Sahara.", en: "A chain of oases along the Kaouar cliffs in the Sahara." },
     facts: {
       de: ["Historisch wichtig für den Karawanenhandel.", "Bekannt für den Dattelanbau.", "Bietet Schutz vor der Sahara-Hitze.", "Einzigartige Vegetation in der Wüste."],
@@ -241,7 +259,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [11.500, 17.500],
-    name: { de: "Erg Ténéré", hu: "Erg Ténéré", ro: "Erg Ténéré", en: "Erg Ténéré" },
+    name: { de: "Erg Ténéré", hu: "Erg Ténéré", ro: "Erg Ténéré", en: "Erg Ténéré",
+image: "/poi-images/erg-ténéré-nature-v2.webp"
+},
     description: { de: "Ein Teilbereich der Ténéré-Wüste, geprägt durch riesige, wandernde Sanddünen.", hu: "A Ténéré-sivatag egy része, amelyet hatalmas, vándorló homokdűnék jellemeznek.", ro: "O parte a deșertului Ténéré, caracterizată prin dune de nisip uriașe, migratoare.", en: "A sub-region of the Ténéré desert, characterized by huge, shifting sand dunes." },
     facts: {
       de: ["Die Dünen können über 100m hoch sein.", "Sehr dynamische Wüstenlandschaft.", "Extreme klimatische Bedingungen.", "Kaum Vegetation vorhanden."],
@@ -267,7 +287,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-05",
     coords: [7.000, 13.000],
-    name: { de: "Goulbi de Maradi", hu: "Goulbi de Maradi", ro: "Goulbi de Maradi", en: "Goulbi de Maradi" },
+    name: { de: "Goulbi de Maradi", hu: "Goulbi de Maradi", ro: "Goulbi de Maradi", en: "Goulbi de Maradi",
+image: "/poi-images/goulbi-maradi-nature-v2.webp"
+},
     description: { de: "Ein saisonaler Fluss im Süden Nigers, der durch die Region Maradi fließt.", hu: "Időszakos folyó Niger déli részén, amely átfolyik a Maradi régión.", ro: "Un râu sezonier în sudul Nigerului, care curge prin regiunea Maradi.", en: "A seasonal river in southern Niger that flows through the Maradi region." },
     facts: {
       de: ["Wichtig für die lokale Bewässerung.", "Führt nur während der Regenzeit Wasser.", "Durchfließt landwirtschaftlich geprägte Gebiete.", "Bedeutend für das Grundwasser."],
@@ -293,7 +315,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-05",
     coords: [12.000, 13.500],
-    name: { de: "Komadougou Yobé", hu: "Komadougou Yobé", ro: "Komadougou Yobé", en: "Komadougou Yobé" },
+    name: { de: "Komadougou Yobé", hu: "Komadougou Yobé", ro: "Komadougou Yobé", en: "Komadougou Yobé",
+image: "/poi-images/komadougou-yobe-nature-v2.webp"
+},
     description: { de: "Ein Grenzfluss, der in den Tschadsee mündet.", hu: "Határfolyó, amely a Csád-tóba ömlik.", ro: "Râu de frontieră care se varsă în Lacul Ciad.", en: "A border river that flows into Lake Chad." },
     facts: {
       de: ["Saisonales Gewässer.", "Wichtige Grenze zu Nigeria.", "Fruchtbare Auenlandschaft.", "Bedroht durch den Rückgang des Tschadsees."],
@@ -319,7 +343,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [12.500, 19.500],
-    name: { de: "Termit-Massiv", hu: "Termit-hegység", ro: "Masivul Termit", en: "Termit Massif" },
+    name: { de: "Termit-Massiv", hu: "Termit-hegység", ro: "Masivul Termit", en: "Termit Massif",
+image: "/poi-images/massif-termite-nature-v2.webp"
+},
     description: { de: "Ein Gebirgszug im Osten Nigers, der durch spektakuläre Felsformationen besticht.", hu: "Hegylánc Niger keleti részén, amely látványos sziklaformációival tűnik ki.", ro: "Un lanț muntos în estul Nigerului, remarcabil prin formațiunile stâncoase spectaculoase.", en: "A mountain range in eastern Niger, striking for its spectacular rock formations." },
     facts: {
       de: ["Lebensraum für Addax-Antilopen.", "Sehr isolierte Wüstenlage.", "Geologisch vielfältig.", "Wichtiger Schutzraum für gefährdete Arten."],
@@ -345,7 +371,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "forest",
     parent: "NE-07",
     coords: [11.500, 18.500],
-    name: { de: "Fachi-Oase", hu: "Fachi-oázis", ro: "Oaza Fachi", en: "Fachi Oasis" },
+    name: { de: "Fachi-Oase", hu: "Fachi-oázis", ro: "Oaza Fachi", en: "Fachi Oasis",
+image: "/poi-images/fachi-oase-nature-v2.webp"
+},
     description: { de: "Eine abgelegene Oase in der Wüste Ténéré.", hu: "Elszigetelt oázis a Ténéré-sivatagban.", ro: "O oază izolată în deșertul Ténéré.", en: "A remote oasis in the Ténéré desert." },
     facts: {
       de: ["Berühmt für die Salzgewinnung.", "Wichtiger Halt für Nomaden.", "Umgeben von riesigen Sanddünen.", "Eine Insel in der Sandwüste."],
@@ -371,7 +399,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "forest",
     parent: "NE-07",
     coords: [13.000, 18.500],
-    name: { de: "Bilma-Oase", hu: "Bilma-oázis", ro: "Oaza Bilma", en: "Bilma Oasis" },
+    name: { de: "Bilma-Oase", hu: "Bilma-oázis", ro: "Oaza Bilma", en: "Bilma Oasis",
+image: "/poi-images/bilma-oase-nature-v2.webp"
+},
     description: { de: "Eine bedeutende Oase, die seit Jahrhunderten für ihren Salz- und Dattelhandel bekannt ist.", hu: "Jelentős oázis, amely évszázadok óta ismert só- és datolyakereskedelméről.", ro: "O oază semnificativă, cunoscută de secole pentru comerțul cu sare și curmale.", en: "A significant oasis, known for centuries for its salt and date trade." },
     facts: {
       de: ["Historischer Knotenpunkt für Handelsrouten.", "Salzseen prägen die Landschaft.", "Wichtige Dattelproduktion.", "Abgelegen im Herzen der Sahara."],
@@ -397,7 +427,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-05",
     coords: [9.000, 14.500],
-    name: { de: "Damagaram-Plateau", hu: "Damagaram-fennsík", ro: "Platoul Damagaram", en: "Damagaram Plateau" },
+    name: { de: "Damagaram-Plateau", hu: "Damagaram-fennsík", ro: "Platoul Damagaram", en: "Damagaram Plateau",
+image: "/poi-images/plateau-damagaram-nature-v2.webp"
+},
     description: { de: "Ein Plateau im südlichen Niger, geprägt durch trockene Savannenlandschaften.", hu: "Fennsík Niger déli részén, amelyet száraz szavannás tájak jellemeznek.", ro: "Un platou în sudul Nigerului, caracterizat prin peisaje de savană uscată.", en: "A plateau in southern Niger, characterized by dry savanna landscapes." },
     facts: {
       de: ["Übergangszone zur Sahara.", "Saisonale Wasserläufe.", "Bedeutend für die Viehzucht.", "Geologisch recht flach."],
@@ -423,7 +455,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-01",
     coords: [3.500, 12.500],
-    name: { de: "Dallol Maouri", hu: "Dallol Maouri", ro: "Dallol Maouri", en: "Dallol Maouri" },
+    name: { de: "Dallol Maouri", hu: "Dallol Maouri", ro: "Dallol Maouri", en: "Dallol Maouri",
+image: "/poi-images/vallée-dallol-maouri-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes fossiles Flusstal im Südwesten, das heute ein wichtiges Feuchtgebiet ist.", hu: "Jelentős fosszilis folyóvölgy délnyugaton, amely ma fontos vizes élőhely.", ro: "O vale fosilă importantă a unui râu în sud-vest, care este astăzi o zonă umedă importantă.", en: "An important fossil river valley in the southwest, which is now a major wetland." },
     facts: {
       de: ["Wichtiges Rückzugsgebiet für Zugvögel.", "Lieferant für Grundwasser.", "Saisonale Überflutungsgebiete.", "Region mit hoher Biodiversität für die Sahel-Zone."],
@@ -449,7 +483,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-05",
     coords: [8.000, 13.500],
-    name: { de: "Goulbi N'Kaba", hu: "Goulbi N'Kaba", ro: "Goulbi N'Kaba", en: "Goulbi N'Kaba" },
+    name: { de: "Goulbi N'Kaba", hu: "Goulbi N'Kaba", ro: "Goulbi N'Kaba", en: "Goulbi N'Kaba",
+image: "/poi-images/goulbi-n-kaba-nature-v2.webp"
+},
     description: { de: "Ein weiterer saisonaler Wasserlauf, der zur Bewässerung in den südlichen Gebieten beiträgt.", hu: "Egy másik időszakos vízfolyás, amely hozzájárul az öntözéshez a déli területeken.", ro: "Un alt curs de apă sezonier care contribuie la irigarea din zonele sudice.", en: "Another seasonal watercourse that contributes to irrigation in the southern areas." },
     facts: {
       de: ["Trocknet außerhalb der Regenzeit fast aus.", "Wichtig für lokale kleine Agrarprojekte.", "Teil des hydrologischen Netzwerks im Süden.", "Bietet saisonale Weiden."],
@@ -475,7 +511,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [9.000, 20.000],
-    name: { de: "Adrar Bous", hu: "Adrar Bous", ro: "Adrar Bous", en: "Adrar Bous" },
+    name: { de: "Adrar Bous", hu: "Adrar Bous", ro: "Adrar Bous", en: "Adrar Bous",
+image: "/poi-images/massif-adrar-bous-nature-v2.webp"
+},
     description: { de: "Ein isoliertes Bergmassiv im Norden der Ténéré-Wüste.", hu: "Elszigetelt hegység a Ténéré-sivatag északi részén.", ro: "Un masiv muntos izolat în nordul deșertului Ténéré.", en: "An isolated mountain range in the north of the Ténéré desert." },
     facts: {
       de: ["Bekannt für archäologische Funde.", "Umgeben von Wüstenebenen.", "Geologisch vulkanischen Ursprungs.", "Sehr unwirtliche Umgebung."],
@@ -501,7 +539,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [13.500, 21.500],
-    name: { de: "Tchigaï-Plateau", hu: "Tchigaï-fennsík", ro: "Platoul Tchigaï", en: "Tchigaï Plateau" },
+    name: { de: "Tchigaï-Plateau", hu: "Tchigaï-fennsík", ro: "Platoul Tchigaï", en: "Tchigaï Plateau",
+image: "/poi-images/plateau-tchigai-nature-v2.webp"
+},
     description: { de: "Ein abgelegenes Hochplateau an der Grenze zum Tschad.", hu: "Elszigetelt magasfennsík a Csáddal határos területen.", ro: "Un platou înalt izolat la granița cu Ciadul.", en: "A remote high plateau on the border with Chad." },
     facts: {
       de: ["Sehr schwer zugängliches Gebiet.", "Landschaft aus Fels und Sand.", "Kaum Vegetation.", "Wenig erforscht."],
@@ -527,7 +567,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-05",
     coords: [7.500, 13.200],
-    name: { de: "Goulbi Kaba", hu: "Goulbi Kaba", ro: "Goulbi Kaba", en: "Goulbi Kaba" },
+    name: { de: "Goulbi Kaba", hu: "Goulbi Kaba", ro: "Goulbi Kaba", en: "Goulbi Kaba",
+image: "/poi-images/goulbi-kaba-nature-v2.webp"
+},
     description: { de: "Ein kleinerer, saisonaler Wasserlauf im Süden Nigers.", hu: "Egy kisebb, időszakos vízfolyás Niger déli részén.", ro: "Un curs de apă sezonier mai mic în sudul Nigerului.", en: "A smaller, seasonal watercourse in southern Niger." },
     facts: {
       de: ["Wichtig für das lokale Ökosystem im Süden.", "Ergänzt das hydrologische System der Maradi-Region.", "Saisonal begrenzt.", "Bietet wichtige Wasserstellen für Vieh."],
@@ -553,7 +595,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [11.000, 20.000],
-    name: { de: "Rand des Erg Mourzouk", hu: "Az Erg Mourzouk pereme", ro: "Marginea Erg Mourzouk", en: "Edge of Erg Mourzouk" },
+    name: { de: "Rand des Erg Mourzouk", hu: "Az Erg Mourzouk pereme", ro: "Marginea Erg Mourzouk", en: "Edge of Erg Mourzouk",
+image: "/poi-images/erg-mourzouk-rand-nature-v2.webp"
+},
     description: { de: "Die Randgebiete des großen Sandmeeres Mourzouk, die in Niger hineinreichen.", hu: "A hatalmas Mourzouk-homoktenger peremvidékei, amelyek átnyúlnak Nigerbe.", ro: "Zonele marginale ale marii de nisip Mourzouk, care se extind în Niger.", en: "The marginal areas of the great Mourzouk sand sea, reaching into Niger." },
     facts: {
       de: ["Spektakuläre Sanddünenlandschaft.", "Extreme Trockenheit.", "Kaum menschliche Besiedlung.", "Geologisch ein aktives Dünenfeld."],
@@ -579,7 +623,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-01",
     coords: [4.000, 13.500],
-    name: { de: "Dallol Fogha", hu: "Dallol Fogha", ro: "Dallol Fogha", en: "Dallol Fogha" },
+    name: { de: "Dallol Fogha", hu: "Dallol Fogha", ro: "Dallol Fogha", en: "Dallol Fogha",
+image: "/poi-images/dallol-fogha-nature-v2.webp"
+},
     description: { de: "Ein weiteres wichtiges fossiles Flusstal im Südwesten, das hydrologisch relevant ist.", hu: "Egy másik fontos fosszilis folyóvölgy délnyugaton, amely hidrológiailag releváns.", ro: "O altă vale fosilă importantă a unui râu în sud-vest, care este relevantă din punct de vedere hidrologic.", en: "Another important fossil river valley in the southwest, which is hydrologically relevant." },
     facts: {
       de: ["Teil des regionalen Grundwassersystems.", "Saisonal feuchter Boden.", "Wichtige Weidezone.", "Liegt im trockenen Sahel."],
@@ -605,7 +651,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-05",
     coords: [10.000, 14.000],
-    name: { de: "Koutous-Massiv", hu: "Koutous-hegység", ro: "Masivul Koutous", en: "Koutous Massif" },
+    name: { de: "Koutous-Massiv", hu: "Koutous-hegység", ro: "Masivul Koutous", en: "Koutous Massif",
+image: "/poi-images/plateau-koutous-nature-v2.webp"
+},
     description: { de: "Eine Gebirgs- und Hochebenen-Region im Südosten Nigers.", hu: "Hegységi és felföldi régió Niger délkeleti részén.", ro: "Regiune muntoasă și de platou în sud-estul Nigerului.", en: "A mountainous and plateau region in southeastern Niger." },
     facts: {
       de: ["Geprägt durch felsige Hügel.", "Wichtiges Einzugsgebiet.", "Sehr karge Vegetation.", "Bietet Schutz für lokale Tierarten."],
@@ -631,7 +679,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-05",
     coords: [8.500, 13.000],
-    name: { de: "Goulbi Goulbi", hu: "Goulbi Goulbi", ro: "Goulbi Goulbi", en: "Goulbi Goulbi" },
+    name: { de: "Goulbi Goulbi", hu: "Goulbi Goulbi", ro: "Goulbi Goulbi", en: "Goulbi Goulbi",
+image: "/poi-images/goulbi-goulbi-nature-v2.webp"
+},
     description: { de: "Ein kleines, episodisches Flusssystem, das Teil des lokalen Netzwerks ist.", hu: "Kicsi, epizodikus folyórendszer, amely a helyi hálózat része.", ro: "Un sistem fluvial mic, episodic, care face parte din rețeaua locală.", en: "A small, episodic river system that is part of the local network." },
     facts: {
       de: ["Wichtige Wasserquelle während der kurzzeitigen Regenzeit.", "Dient der Bewässerung der kleinen Felder.", "Sehr saisonal.", "Teilweise versickert der Lauf schnell."],
@@ -657,7 +707,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-07",
     coords: [9.500, 19.000],
-    name: { de: "Iférouane-Massiv", hu: "Iférouane-hegység", ro: "Masivul Iférouane", en: "Iférouane Massif" },
+    name: { de: "Iférouane-Massiv", hu: "Iférouane-hegység", ro: "Masivul Iférouane", en: "Iférouane Massif",
+image: "/poi-images/massif-iférouane-nature-v2.webp"
+},
     description: { de: "Eine Bergregion im Herzen des Aïr-Gebirges.", hu: "Hegyvidéki régió az Aïr-hegység szívében.", ro: "Regiune muntoasă în inima Munților Aïr.", en: "A mountainous region in the heart of the Aïr Mountains." },
     facts: {
       de: ["Spektakuläre Bergwelt.", "Wichtige Quelle für die Oasenbewohner.", "Geologisch vielfältig.", "Schwieriges Gelände."],
@@ -683,7 +735,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "river",
     parent: "NE-05",
     coords: [9.000, 13.000],
-    name: { de: "Goulbi Kane", hu: "Goulbi Kane", ro: "Goulbi Kane", en: "Goulbi Kane" },
+    name: { de: "Goulbi Kane", hu: "Goulbi Kane", ro: "Goulbi Kane", en: "Goulbi Kane",
+image: "/poi-images/goulbi-kane-nature-v2.webp"
+},
     description: { de: "Ein episodisches Flusssystem, das typisch für den sudanischen Sahel-Gürtel ist.", hu: "Epizodikus folyórendszer, amely tipikus a szudáni Sahel-övre.", ro: "Sistem fluvial episodic, tipic pentru centura Sahelului sudanez.", en: "An episodic river system typical for the Sudanese Sahel belt." },
     facts: {
       de: ["Saisonaler Abfluss.", "Wichtig für die Landwirtschaft in trockenen Jahren.", "Begrenzte Wasserverfügbarkeit.", "Bietet saisonale Weiden für Vieh."],
@@ -709,7 +763,9 @@ export const poiExtraNigerNatureV2: POI[] = [
     type: "mountain",
     parent: "NE-05",
     coords: [10.500, 14.500],
-    name: { de: "Östliches Damagaram-Plateau", hu: "Keleti Damagaram-fennsík", ro: "Platoul Damagaram de Est", en: "Eastern Damagaram Plateau" },
+    name: { de: "Östliches Damagaram-Plateau", hu: "Keleti Damagaram-fennsík", ro: "Platoul Damagaram de Est", en: "Eastern Damagaram Plateau",
+image: "/poi-images/plateau-damagaram-est-nature-v2.webp"
+},
     description: { de: "Der östliche Teil des Damagaram-Plateaus, geprägt durch trockene Böden.", hu: "A Damagaram-fennsík keleti része, amelyet száraz talajok jellemeznek.", ro: "Partea estică a platoulului Damagaram, caracterizată prin soluri uscate.", en: "The eastern part of the Damagaram plateau, characterized by dry soils." },
     facts: {
       de: ["Sehr trockenes Gelände.", "Nur spärliche Vegetation.", "Wichtige Weidegebiete für Nomaden.", "Geologisch ein altes Sedimentbecken."],

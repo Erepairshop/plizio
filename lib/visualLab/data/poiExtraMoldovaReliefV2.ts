@@ -4,7 +4,9 @@ export const moldovaReliefV2: POI[] = [
   {
     id: "moldova-codru-highlands-relief-v2",
     type: "landmark",
-    name: { de: "Codru-Hochland", hu: "Codru-hátság", ro: "Podișul Codrilor", en: "Codru Highlands" },
+    name: { de: "Codru-Hochland", hu: "Codru-hátság", ro: "Podișul Codrilor", en: "Codru Highlands",
+image: "/poi-images/moldova-codru-highlands-relief-v2.webp"
+},
     coords: [28.3, 47.15],
     coordinates: { lat: 47.15, lng: 28.3 },
     description: {
@@ -19,11 +21,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai înaltă regiune a țării", "Relief puternic fragmentat prin eroziune", "Centrul silviculturii moldovenești", "Altitudine medie de peste 300 metri"],
       en: ["Highest region of the country", "Relief heavily fragmented by erosion", "Center of Moldovan forestry", "Average altitude over 300 meters"],
     },
-    imageHint: "Codru forest hills Moldova", image: "/poi-images/moldova-codru-highlands-relief-v2.webp"},
+    imageHint: "Codru forest hills Moldova",
+    image: "/poi-images/moldova-codru-highlands-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Codru-Hochland ist das höchstgelegene und waldreichste Gebiet Moldaus. Dieses zentrale Plateau ist tief von Tälern zerfurcht und erreicht Höhen von bis zu 430 Metern.",
+      hu: "A Codru-hátság Moldova legmagasabb és legerdősebb területe. A központi fennsíkot mély völgyek tagolják, magassága helyenként eléri a 430 métert a tengerszint felett.",
+      ro: "Podișul Codrilor reprezintă cea mai înaltă și împădurită regiune a Moldovei. Acest platou central este adânc fragmentat de văi, atingând cote de până la 430 de metri.",
+      en: "The Codru Highlands represent the highest and most forested part of Moldova. This central plateau is deeply fragmented by valleys, with elevations reaching up to 430 meters.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt ist der Bălănești-Hügel mit 429,5 Metern.", "Das Gebiet umfasst etwa 40 % des zentralen Territoriums Moldaus.", "Die Region ist bekannt für ihre dichten Buchen- und Eichenwälder.", "Das Relief ist durch zahlreiche Schluchten stark zerklüftet."],
+      hu: ["Legmagasabb pontja a Bălănești-domb, amely 429,5 méter magas.", "Moldova központi területének mintegy 40%-át fedi le a régió.", "A terület híres a sűrű bükk- és tölgyerdőiről.", "A domborzatot számos szakadék és mély völgy tagolja."],
+      ro: ["Cel mai înalt punct este dealul Bălănești, având 429,5 metri.", "Regiunea acoperă aproximativ 40% din teritoriul central al țării.", "Zona este cunoscută pentru pădurile dense de fag și stejar.", "Relieful este puternic fragmentat de numeroase râpe și văi."],
+      en: ["The highest point is Bălănești Hill at 429.5 meters.", "Covers approximately 40% of Moldova's central territory.", "The region is known for its diverse beech and oak forests.", "It features a highly fragmented relief with numerous ravines."],
+    },
+  },
   {
     id: "moldova-dniester-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Dnestr-Plateau", hu: "Dnyeszter-menti-hátság", ro: "Podișul Nistrului", en: "Dniester Plateau" },
+    name: { de: "Dnestr-Plateau", hu: "Dnyeszter-menti-hátság", ro: "Podișul Nistrului", en: "Dniester Plateau",
+image: "/poi-images/moldova-dniester-plateau-relief-v2.webp"
+},
     coords: [28.5, 47.8],
     coordinates: { lat: 47.8, lng: 28.5 },
     description: {
@@ -38,11 +56,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Formațiuni calcaroase dominante", "Maluri abrupte de-a lungul Nistrului", "Prezența a numeroase peșteri carstice", "Punctele maxime ating 350 metri"],
       en: ["Dominant limestone formations", "Steep banks along the Dniester", "Presence of numerous karst caves", "Maximum points reach 350 meters"],
     },
-    imageHint: "Dniester river cliffs Moldova", image: "/poi-images/moldova-dniester-plateau-relief-v2.webp"},
+    imageHint: "Dniester river cliffs Moldova",
+    image: "/poi-images/moldova-dniester-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dnjestr-Plateau im Nordosten ist durch markante Kalksteinfelsen und tiefe Flusstäler geprägt. Es bietet beeindruckende Ausblicke auf den gewundenen Lauf des Dnjestr.",
+      hu: "Az északkeleti Dnyeszter-menti fennsíkot markáns mészkősziklák és mély folyóvölgyek jellemzik. Lenyűgöző kilátást nyújt a Dnyeszter folyó kanyargós szakaszaira.",
+      ro: "Podișul Nistrului, situat în nord-est, este marcat de aflorimente calcaroase și văi adânci. Acesta oferă panorame spectaculoase asupra cursului șerpuitor al Nistrului.",
+      en: "The Dniester Plateau in the northeast is marked by prominent limestone outcrops and deep river valleys. It offers stunning views over the winding course of the Dniester.",
+    },
+    factsAdvanced: {
+      de: ["Die durchschnittliche Höhe liegt zwischen 250 und 300 Metern.", "Enthält Gesteinsschichten aus dem Silur und Devon.", "Der Dnjestr hat hier einen bis zu 150 Meter tiefen Canyon gegraben.", "Zahlreiche Höhlenklöster wurden in die weichen Kalksteinfelsen gehauen."],
+      hu: ["Az átlagos tengerszint feletti magasság 250 és 300 méter között van.", "Szilur és devon időszaki kőzetrétegeket tartalmaz a terület.", "A Dnyeszter itt egy akár 150 méter mély kanyont vájt ki.", "Számos barlangkolostort vájtak a puha mészkősziklákba."],
+      ro: ["Altitudinea medie variază între 250 și 300 de metri.", "Conține depozite geologice din perioadele Silurian și Devonian.", "Nistrul a săpat aici un canion cu adâncimea de până la 150 metri.", "Numeroase mănăstiri rupestre sunt săpate în stâncile de calcar."],
+      en: ["Average elevation ranges between 250 and 300 meters.", "Contains geological deposits from the Silurian and Devonian periods.", "The Dniester carved a canyon up to 150 meters deep in this area.", "Numerous rock monasteries are carved into the limestone cliffs."],
+    },
+  },
   {
     id: "moldova-balti-steppe-relief-v2",
     type: "landmark",
-    name: { de: "Bălți-Steppe", hu: "Bălți-sztyeppe", ro: "Stepa Bălțului", en: "Bălți Steppe" },
+    name: { de: "Bălți-Steppe", hu: "Bălți-sztyeppe", ro: "Stepa Bălțului", en: "Bălți Steppe",
+image: "/poi-images/moldova-balti-steppe-relief-v2.webp"
+},
     coords: [27.9, 47.75],
     coordinates: { lat: 47.75, lng: 27.9 },
     description: {
@@ -57,11 +91,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai importantă regiune agricolă din nord", "Soluri cu grosime de până la 1,5 metri", "Altitudine medie de 150-200 metri", "Vegetație tipică de silvostepă"],
       en: ["Most important agricultural region in the north", "Soils up to 1.5 meters deep", "Average altitude of 150-200 meters", "Typical forest-steppe vegetation"],
     },
-    imageHint: "Balti steppe fields Moldova", image: "/poi-images/moldova-balti-steppe-relief-v2.webp"},
+    imageHint: "Balti steppe fields Moldova",
+    image: "/poi-images/moldova-balti-steppe-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bălți-Steppe ist eine sanft gewellte Ebene im Norden Moldaus. Sie ist weltberühmt für ihre fruchtbaren Schwarzerdeböden und die weiten landwirtschaftlichen Flächen.",
+      hu: "A Bălți-sztyeppe egy enyhén hullámos síkság Moldova északi részén. Világhírű a termékeny csernozjom talajairól és a hatalmas mezőgazdasági területeiről.",
+      ro: "Stepa Bălțului este o câmpie ușor ondulată din nordul Moldovei. Este renumită la nivel mondial pentru cernoziomurile fertile și suprafețele agricole întinse.",
+      en: "The Bălți Steppe is a gently undulating plain in northern Moldova. It is world-famous for its fertile chernozem soils and vast agricultural landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhenlagen bewegen sich meist zwischen 150 und 200 Metern.", "Die Region besitzt einige der tiefsten Schwarzerdeböden der Welt.", "Der Fluss Răut entwässert einen Großteil dieser Steppenregion.", "Wurde im 19. Jahrhundert als Referenz für fruchtbare Böden untersucht."],
+      hu: ["A magasság általában 150 és 200 méter között mozog.", "A régió a világ egyik legmélyebb csernozjom talajrétegével rendelkezik.", "A Răut folyó vezeti el a vizet a sztyeppei régió nagy részéről.", "A 19. században a termékeny talajok referenciájaként vizsgálták."],
+      ro: ["Altitudinile se situează preponderent între 150 și 200 de metri.", "Regiunea deține unele dintre cele mai profunde cernoziomuri din lume.", "Râul Răut drenează cea mai mare parte a acestei zone de stepă.", "A fost studiată în secolul XIX ca reper pentru solurile fertile."],
+      en: ["Elevations typically range between 150 and 200 meters.", "The region possesses some of the deepest chernozem soils globally.", "The Răut River drains a major portion of this steppe region.", "It was studied in the 19th century as a benchmark for fertile soils."],
+    },
+  },
   {
     id: "moldova-south-moldavian-plain-relief-v2",
     type: "landmark",
-    name: { de: "Südmoldauische Ebene", hu: "Dél-Moldovai-alföld", ro: "Câmpia Moldovei de Sud", en: "South Moldavian Plain" },
+    name: { de: "Südmoldauische Ebene", hu: "Dél-Moldovai-alföld", ro: "Câmpia Moldovei de Sud", en: "South Moldavian Plain",
+image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp"
+},
     coords: [28.5, 46.2],
     coordinates: { lat: 46.2, lng: 28.5 },
     description: {
@@ -76,11 +126,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai joasă regiune a Moldovei", "Intens utilizată în agricultură", "Cantități reduse de precipitații", "Compusă din văi fluviale largi"],
       en: ["Lowest region of Moldova", "Intensively used for agriculture", "Low annual precipitation", "Composed of wide river valleys"],
     },
-    imageHint: "South Moldavian plain landscape", image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp"},
+    imageHint: "South Moldavian plain landscape",
+    image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Südmoldauische Ebene ist eine weite, flache Region im Süden des Landes. Sie ist durch ein trockenes Klima geprägt und wird intensiv für den Weinbau genutzt.",
+      hu: "A Dél-moldovai-síkság az ország déli részén elterülő tágas, lapos régió. Száraz éghajlat jellemzi, és intenzíven használják szőlőtermesztésre.",
+      ro: "Câmpia Moldovei de Sud este o regiune vastă și joasă din partea meriodională a țării. Este marcată de un climat arid și utilizată intens pentru viticultură.",
+      en: "The South Moldavian Plain is a vast, low-lying region in the southern part of the country. It is characterized by an arid climate and intensive viticulture.",
+    },
+    factsAdvanced: {
+      de: ["Die durchschnittliche Höhe liegt deutlich unter 200 Metern.", "Die Ebene ist anfällig für Bodenerosion und periodische Dürren.", "Wichtige Flüsse wie der Cahul durchqueren diese flache Landschaft.", "Die Region beherbergt bedeutende Naturschutzgebiete in den Auen."],
+      hu: ["Az átlagos magasság jelentősen 200 méter alatt van.", "A síkság hajlamos a talajerózióra és az időszakos aszályokra.", "Fontos folyók, mint például a Cahul, szelik át a tájat.", "A régió jelentős természetvédelmi területeknek ad otthont az ártereken."],
+      ro: ["Altitudinea medie este situată sub pragul de 200 de metri.", "Câmpia este vulnerabilă la eroziunea solului și secete periodice.", "Râuri importante precum Cahul traversează acest peisaj plan.", "Regiunea găzduiește rezervații naturale importante în zonele de luncă."],
+      en: ["Average elevations are consistently below 200 meters.", "The plain is susceptible to soil erosion and periodic droughts.", "Key rivers like the Cahul cross this flat landscape.", "The region hosts important nature reserves within its floodplains."],
+    },
+  },
   {
     id: "moldova-magura-hill-relief-v2",
     type: "peak",
-    name: { de: "Măgura-Hügel", hu: "Măgura-domb", ro: "Dealul Măgura", en: "Măgura Hill" },
+    name: { de: "Măgura-Hügel", hu: "Măgura-domb", ro: "Dealul Măgura", en: "Măgura Hill",
+image: "/poi-images/moldova-magura-hill-relief-v2.webp"
+},
     coords: [27.95, 47.5],
     coordinates: { lat: 47.5, lng: 27.95 },
     description: {
@@ -95,11 +161,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudine de 389 metri", "Aspect de insulă peste câmpie", "Situri arheologice identificate aici", "Destinație populară pentru drumeții"],
       en: ["Altitude of 389 meters", "Island-like appearance over the plain", "Archaeological sites found here", "Popular destination for hiking"],
     },
-    imageHint: "Magura hill Moldova sunset", image: "/poi-images/moldova-magura-hill-relief-v2.webp"},
+    imageHint: "Magura hill Moldova sunset",
+    image: "/poi-images/moldova-magura-hill-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Măgura-Hügel im Distrikt Fălești ist eine markante Erhebung im Nordwesten. Mit seiner kuppelartigen Form bietet er eine weite Sicht über das Prut-Tal.",
+      hu: "A Fălești járásban található Măgura-hegy egy markáns északnyugati kiemelkedés. Kupolaszerű alakjával széles kilátást nyújt a Prut folyó völgyére.",
+      ro: "Dealul Măgura din raionul Fălești este o proeminență marcantă din nord-vest. Cu forma sa de cupolă, oferă o vedere panoramică asupra văii râului Prut.",
+      en: "Măgura Hill in the Fălești district is a prominent elevation in the northwest. With its dome-like shape, it offers wide views over the Prut River valley.",
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel erreicht eine Höhe von 389 Metern.", "Er gilt als einer der isoliertesten und markantesten Hügel Moldaus.", "Die Hänge sind teilweise von seltener Steppenvegetation bedeckt.", "Der Hügel ist ein wichtiger Orientierungspunkt in der Region."],
+      hu: ["A csúcs magassága eléri a 389 métert a tengerszint felett.", "Moldova egyik legelszigeteltebb és legjellegzetesebb dombjaként ismert.", "A lejtőket részben ritka sztyeppei növényzet borítja.", "A domb fontos tájékozódási pont a környező régióban."],
+      ro: ["Vârful atinge o altitudine de 389 de metri.", "Este considerat unul dintre cele mai izolate și marcante dealuri.", "Versanții sunt acoperiți parțial de vegetație rară de stepă.", "Dealul reprezintă un punct important de reper în regiune."],
+      en: ["The summit reaches an altitude of 389 meters.", "It is considered one of Moldova's most isolated and striking hills.", "The slopes are partially covered by rare steppe vegetation.", "The hill serves as a significant landmark in the local region."],
+    },
+  },
   {
     id: "moldova-hundred-hills-relief-v2",
     type: "landmark",
-    name: { de: "Die Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "The Hundred Hills" },
+    name: { de: "Die Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "The Hundred Hills",
+image: "/poi-images/moldova-hundred-hills-relief-v2.webp"
+},
     coords: [27.2333, 47.8167],
     coordinates: { lat: 47.8167, lng: 27.2333 },
     description: {
@@ -114,11 +196,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Origine disputată științific", "Peste 3.500 de movile inventariate", "Cea mai înaltă movilă are 30 metri", "Parte a rezervației 'Pădurea Domnească'"],
       en: ["Origin scientifically disputed", "Over 3,500 mounds inventoried", "Highest mound is 30 meters tall", "Part of 'Pădurea Domnească' reserve"],
     },
-    imageHint: "Suta de Movile hills Moldova", image: "/poi-images/moldova-hundred-hills-relief-v2.webp"},
+    imageHint: "Suta de Movile hills Moldova",
+    image: "/poi-images/moldova-hundred-hills-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hundert Hügel sind ein mysteriöses geologisches Phänomen am Prut. Tausende von Erdhügeln bilden hier eine einzigartige, wellenartige Landschaft.",
+      hu: "A Száz halom egy titokzatos földtani jelenség a Prut folyó mentén. Több ezer földhalom alkot itt egyedülálló, hullámzó tájat.",
+      ro: "Suta de Movile reprezintă un fenomen geologic misterios situat lângă Prut. Mii de movile de pământ formează aici un peisaj ondulat unic.",
+      en: "The Hundred Hills is a mysterious geological phenomenon near the Prut River. Thousands of earthen mounds form a unique, wave-like landscape here.",
+    },
+    factsAdvanced: {
+      de: ["Trotz des Namens gibt es über 3.500 einzelne Hügel.", "Die höchste Erhebung ist der 'Zigeunerhügel' mit etwa 30 Metern.", "Die Hügel erstrecken sich über eine Fläche von ca. 1.072 Hektar.", "Ihre Entstehung wird auf Erdrutsche vor Tausenden von Jahren datiert."],
+      hu: ["A név ellenére több mint 3500 különálló halom található itt.", "A legmagasabb kiemelkedés a 'Cigány-halom', amely kb. 30 méteres.", "A halmok körülbelül 1072 hektáros területen szóródnak szét.", "Kialakulásukat több ezer évvel ezelőtti földcsuszamlásoknak tulajdonítják."],
+      ro: ["În ciuda numelui, există peste 3.500 de movile individuale.", "Cea mai înaltă movilă este 'Movila Țiganului', de circa 30 de metri.", "Movilele se întind pe o suprafață de aproximativ 1.072 hectare.", "Originea lor este atribuită unor alunecări de teren străvechi."],
+      en: ["Despite the name, there are actually over 3,500 individual mounds.", "The highest mound is 'Movila Tiganului', reaching about 30 meters.", "The mounds are spread across an area of approximately 1,072 hectares.", "Their origin is attributed to massive landslides thousands of years ago."],
+    },
+  },
   {
     id: "moldova-prut-toltry-relief-v2",
     type: "landmark",
-    name: { de: "Prut-Toltry", hu: "Pruti-toltrék", ro: "Toltrele Prutului", en: "Prut Toltry" },
+    name: { de: "Prut-Toltry", hu: "Pruti-toltrék", ro: "Toltrele Prutului", en: "Prut Toltry",
+image: "/poi-images/moldova-prut-toltry-relief-v2.webp"
+},
     coords: [27.2, 48.1],
     coordinates: { lat: 48.1, lng: 27.2 },
     description: {
@@ -134,11 +232,25 @@ export const moldovaReliefV2: POI[] = [
       en: ["Ancient reefs of the Sarmatian Sea", "Composed of fossilized limestone", "Unique karst landscape", "Height up to 100 m above valleys"],
     },
     imageHint: "limestone reefs Toltry Moldova",
+    descriptionAdvanced: {
+      de: "Die Prut-Toltry sind fossile Kalksteinriffe, die aus den Resten antiker Korallenmeere entstanden sind. Diese Felsenketten prägen den Norden Moldaus spektakulär.",
+      hu: "A Pruti-mészkőszirtek ősi koralltengerek maradványaiból kialakult fosszilis zátonyok. Ezek a sziklás láncolatok látványosan határozzák meg Észak-Moldovát.",
+      ro: "Toltrele Prutului sunt recife calcaroase fosile formate din resturile mărilor coraliere antice. Aceste lanțuri stâncoase marchează spectaculos nordul Moldovei.",
+      en: "The Prut Toltry are fossilized limestone reefs formed from the remains of ancient coral seas. These rocky chains spectacularly define northern Moldova.",
+    },
+    factsAdvanced: {
+      de: ["Die Riffe sind etwa 15 bis 20 Millionen Jahre alt.", "Sie bestehen aus Überresten von Korallen, Mollusken und Algen.", "Die Region wird oft als die 'Schweiz Moldaus' bezeichnet.", "Das Band der Toltry erstreckt sich über fast 200 Kilometer."],
+      hu: ["A zátonyok körülbelül 15-20 millió évesek.", "Korallok, puhatestűek és algák maradványaiból épülnek fel.", "A régiót gyakran 'Moldova Svájcaként' is emlegetik.", "A mészkőszirtek sávja közel 200 kilométer hosszan húzódik."],
+      ro: ["Recifele au o vechime de aproximativ 15-20 de milioane de ani.", "Sunt compuse din resturi de corali, moluște și alge marine.", "Regiunea este adesea supranumită 'Elveția Moldovei'.", "Lanțul toltrelor se întinde pe o distanță de aproape 200 kilometri."],
+      en: ["The reefs are approximately 15 to 20 million years old.", "They are composed of remains from corals, mollusks, and algae.", "The region is often referred to as the 'Switzerland of Moldova'.", "The belt of toltry stretches for nearly 200 kilometers."],
+    },
   },
   {
     id: "moldova-duruitoarea-ravine-relief-v2",
     type: "valley",
-    name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Ravine" },
+    name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Ravine",
+image: "/poi-images/moldova-duruitoarea-ravine-relief-v2.webp"
+},
     coords: [27.2667, 47.8833],
     coordinates: { lat: 47.8833, lng: 27.2667 },
     description: {
@@ -154,11 +266,25 @@ export const moldovaReliefV2: POI[] = [
       en: ["Paleolithic era caves", "Steep limestone walls", "Habitat for rare petrophilous flora", "Protected natural monument"],
     },
     imageHint: "Duruitoarea ravine cliffs Moldova",
+    descriptionAdvanced: {
+      de: "Die Duruitoarea-Schlucht ist ein wilder Canyon mit einer berühmten prähistorischen Grotte. Sie wurde vom gleichnamigen Bach in den harten Kalkstein gegraben.",
+      hu: "A Duruitoarea-szurdok egy vad kanyon egy híres őskori barlanggal. A névadó patak vájta ki a kemény mészkőbe ezt a mély völgyet.",
+      ro: "Defileul Duruitoarea este un canion sălbatic ce adăpostește o faimoasă grotă preistorică. A fost săpat de pârâul omonim în calcarul dur al regiunii.",
+      en: "The Duruitoarea Ravine is a wild canyon featuring a famous prehistoric grotto. It was carved by the eponymous stream into the region's hard limestone.",
+    },
+    factsAdvanced: {
+      de: ["Die Grotte 'Duruitoarea Veche' ist etwa 49 Meter lang.", "Hier wurden Siedlungsspuren aus der Altsteinzeit gefunden.", "Die Felswände der Schlucht erreichen beachtliche Höhen.", "Sie ist Teil eines geschützten Landschaftsreservats."],
+      hu: ["A 'Duruitoarea Veche' barlang hossza körülbelül 49 méter.", "Itt a paleolitikumból származó településnyomokat találtak.", "A szurdok sziklafalai jelentős magasságokat érnek el.", "A terület egy védett tájvédelmi körzet részét képezi."],
+      ro: ["Grota 'Duruitoarea Veche' are o lungime de circa 49 de metri.", "Aici au fost găsite urme de așezări din epoca paleolitică.", "Pereții de stâncă ai defileului ating înălțimi considerabile.", "Face parte dintr-o rezervație peisagistică protejată de stat."],
+      en: ["The 'Duruitoarea Veche' grotto is approximately 49 meters long.", "Settlement traces from the Paleolithic era were discovered here.", "The ravine's rock walls reach impressive vertical heights.", "It is part of a state-protected landscape reserve."],
+    },
   },
   {
     id: "moldova-fetesti-switzerland-relief-v2",
     type: "landmark",
-    name: { de: "Moldauische Schweiz (Fetești)", hu: "Moldáv Svájc (Fetești)", ro: "Elveția Moldovenească (Fetești)", en: "Moldavian Switzerland (Fetești)" },
+    name: { de: "Moldauische Schweiz (Fetești)", hu: "Moldáv Svájc (Fetești)", ro: "Elveția Moldovenească (Fetești)", en: "Moldavian Switzerland (Fetești)",
+image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp"
+},
     coords: [27.1, 48.1667],
     coordinates: { lat: 48.1667, lng: 27.1 },
     description: {
@@ -173,11 +299,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cunoscută pentru pereții stâncoși", "Face parte din Toltrele Prutului", "Microclimat specific zonei", "Rezervație peisagistică importantă"],
       en: ["Known for its rocky walls", "Part of the Prut Toltry", "Specific local microclimate", "Important landscape reserve"],
     },
-    imageHint: "Fetesti cliffs Moldova landscape", image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp"},
+    imageHint: "Fetesti cliffs Moldova landscape",
+    image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Fetești, bekannt als 'Kleine Schweiz', bietet eine dramatische Schlucht mit steilen Kalksteinklippen. Es ist eine der malerischsten Landschaften Nordmoldaus.",
+      hu: "Fetești, amelyet 'Kis Svájcként' ismernek, drámai szurdokot kínál meredek mészkősziklákkal. Észak-Moldova egyik legfestőibb tája.",
+      ro: "Fetești, cunoscut drept 'Mica Elveție', oferă un defileu dramatic cu versanți calcaroși abrupți. Este unul dintre cele mai pitorești peisaje din nordul Moldovei.",
+      en: "Fetești, known as 'Little Switzerland', offers a dramatic ravine with steep limestone cliffs. It is one of the most picturesque landscapes in northern Moldova.",
+    },
+    factsAdvanced: {
+      de: ["Die Klippen entlang des Draghiște-Flusses sind bis zu 100 Meter hoch.", "Das Reservat erstreckt sich über eine Fläche von 555 Hektar.", "Die Kalksteinfelsen stammen aus dem Badenium und Sarmatium.", "Die Region beherbergt eine seltene Kalksteinflora."],
+      hu: ["A Draghiște folyó menti sziklák akár 100 méter magasak is lehetesnek.", "A rezervátum 555 hektáros területen helyezkedik el.", "A mészkősziklák a bádeni és szarmata korszakból származnak.", "A régió ritka mészkőkedvelő flórának ad otthont."],
+      ro: ["Stâncile de-a lungul râului Draghiște au până la 100 metri înălțime.", "Rezervația se întinde pe o suprafață de 555 de hectare.", "Stâncile calcaroase datează din Badenian și Sarmațian.", "Regiunea adăpostește o floră rară specifică solurilor calcaroase."],
+      en: ["The cliffs along the Draghiște River reach up to 100 meters in height.", "The reserve covers a total area of 555 hectares.", "The limestone rocks date back to the Badenian and Sarmatian ages.", "The region is home to rare limestone-specific flora."],
+    },
+  },
   {
     id: "moldova-vaden-hill-relief-v2",
     type: "peak",
-    name: { de: "Vădeni-Hügel", hu: "Vădeni-domb", ro: "Dealul Vădeni", en: "Vădeni Hill" },
+    name: { de: "Vădeni-Hügel", hu: "Vădeni-domb", ro: "Dealul Vădeni", en: "Vădeni Hill",
+image: "/poi-images/moldova-vaden-hill-relief-v2.webp"
+},
     coords: [28.2333, 48.0],
     coordinates: { lat: 48.0, lng: 28.2333 },
     description: {
@@ -193,11 +335,25 @@ export const moldovaReliefV2: POI[] = [
       en: ["Altitude of 347 meters", "Part of the Dniester Plateau", "Easily accessible summit", "Strategic observation point"],
     },
     imageHint: "Vadeni hill landscape Soroca",
+    descriptionAdvanced: {
+      de: "Der Vădeni-Hügel im Distrikt Soroca ist ein prominenter Gipfel des nordmoldauischen Plateaus. Er bietet einen weiten Blick über die sanften Hügelketten.",
+      hu: "A Soroca járásban található Vădeni-domb az észak-moldovai fennsík egyik kiemelkedő csúcsa. Széles kilátást nyújt a környező dombvidékre.",
+      ro: "Dealul Vădeni din raionul Soroca este un vârf proeminent al Podișului Moldovei de Nord. Acesta oferă o panoramă vastă asupra colinelor din jur.",
+      en: "Vădeni Hill in the Soroca district is a prominent peak of the North Moldavian Plateau. It offers an expansive view over the surrounding rolling hills.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhe des Hügels beträgt ca. 347 Meter.", "Er befindet sich in der Nähe des Dorfes Vădeni im Nordosten.", "Die Erhebung ist Teil der strategischen Höhenzüge der Region.", "Die Umgebung ist durch tief eingeschnittene Erosionstale geprägt."],
+      hu: ["A domb magassága körülbelül 347 méter.", "Északkeleten, Vădeni falu közelében található.", "A kiemelkedés a régió stratégiai dombsorainak része.", "A környező területet mélyen bevágódott eróziós völgyek jellemzik."],
+      ro: ["Altitudinea dealului este de aproximativ 347 de metri.", "Se află în apropierea satului Vădeni, în partea de nord-est.", "Cota reprezintă unul dintre punctele înalte ale platoului de nord.", "Împrejurimile sunt marcate de văi de eroziune adânci."],
+      en: ["The hill's elevation is approximately 347 meters.", "It is located near the village of Vădeni in the northeast.", "The elevation is part of the strategic ridge lines of the region.", "The surroundings are characterized by deep erosion valleys."],
+    },
   },
   {
     id: "moldova-bechir-ravine-relief-v2",
     type: "valley",
-    name: { de: "Bechir-Schlucht", hu: "Bechir-szurdok", ro: "Râpa lui Bechir", en: "Bechir Ravine" },
+    name: { de: "Bechir-Schlucht", hu: "Bechir-szurdok", ro: "Râpa lui Bechir", en: "Bechir Ravine",
+image: "/poi-images/moldova-bechir-ravine-relief-v2.webp"
+},
     coords: [28.3, 48.1333],
     coordinates: { lat: 48.1333, lng: 28.3 },
     description: {
@@ -212,11 +368,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Așezare rupestră istorică", "Faleze calcaroase abrupte", "Lângă orașul Soroca", "Rezervație geologică protejată"],
       en: ["Historic rock settlement", "Steep limestone cliffs", "Near Soroca city", "Protected geological site"],
     },
-    imageHint: "Bechir ravine Soroca rock", image: "/poi-images/moldova-bechir-ravine-relief-v2.webp"},
+    imageHint: "Bechir ravine Soroca rock",
+    image: "/poi-images/moldova-bechir-ravine-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bechir-Schlucht bei Soroca ist ein tiefes, in Kalkstein gegrabenes Tal. Sie ist bekannt für ihre steilen Wände und ein altes Höhlenkloster im Fels.",
+      hu: "A Soroca melletti Bechir-szakadék egy mély, mészkőbe vájt völgy. Meredek falairól és egy sziklába vájt régi barlangkolostorról ismert.",
+      ro: "Râpa lui Bechir de lângă Soroca este o vale adâncă săpată în calcar. Este cunoscută pentru pereții abrupți și o veche chilie rupestră în stâncă.",
+      en: "The Bechir Ravine near Soroca is a deep valley carved into limestone. It is known for its steep walls and an ancient rock-hewn monastic cell.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlucht liegt direkt am südlichen Eingang der Stadt Soroca.", "Die Kalksteinfelsen enthalten zahlreiche Fossilien aus dem Miozän.", "Die Bechir-Höhle stammt vermutlich aus dem 6. bis 9. Jahrhundert.", "Sie ist ein geschütztes geologisches und paläontologisches Denkmal."],
+      hu: ["A szakadék közvetlenül Soroca város déli bejáratánál található.", "A mészkősziklák számos miocén kori fosszíliát tartalmaznak.", "A Bechir-barlang valószínűleg a 6-9. századból származik.", "Védett földtani és őslénytani műemléknek minősül."],
+      ro: ["Râpa se află chiar la intrarea de sud în orașul Soroca.", "Stâncile de calcar conțin numeroase fosile din epoca Miocenă.", "Chilia lui Bechir datează probabil din secolele VI-IX.", "Este un monument geologic și paleontologic protejat de stat."],
+      en: ["The ravine is located right at the southern entrance to Soroca.", "The limestone cliffs contain numerous fossils from the Miocene era.", "The Bechir cave cell likely dates back to the 6th-9th centuries.", "It is a protected geological and paleontological monument."],
+    },
+  },
   {
     id: "moldova-raut-river-canyon-relief-v2",
     type: "valley",
-    name: { de: "Răut-Flusscanyon", hu: "Răut-folyó kanyonja", ro: "Defileul râului Răut", en: "Răut River Canyon" },
+    name: { de: "Răut-Flusscanyon", hu: "Răut-folyó kanyonja", ro: "Defileul râului Răut", en: "Răut River Canyon",
+image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp"
+},
     coords: [28.9667, 47.3],
     coordinates: { lat: 47.3, lng: 28.9667 },
     description: {
@@ -231,11 +403,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Defileu adânc de peste 100 metri", "Arcade calcaroase fascinante", "Locația multor mănăstiri rupestre", "Parte a Parcului Național Orhei"],
       en: ["Over 100 meters deep canyon", "Fascinating limestone arches", "Site of many cave monasteries", "Part of Orhei National Park"],
     },
-    imageHint: "Orheiul Vechi Raut river canyon", image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp"},
+    imageHint: "Orheiul Vechi Raut river canyon",
+    image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Răut-Canyon bei Orheiul Vechi ist ein spektakulärer Durchbruchstal durch sarmatische Kalksteine. Die extremen Windungen des Flusses sind einzigartig.",
+      hu: "Az Orheiul Vechi melletti Răut-kanyon egy látványos áttöréses völgy a szarmata mészkőben. A folyó extrém kanyarulatai egyedülállóak.",
+      ro: "Canionul râului Răut de la Orheiul Vechi este un defileu spectaculos prin calcare sarmatice. Meandrele extrem de strânse ale râului sunt unice.",
+      en: "The Răut River Canyon at Orheiul Vechi is a spectacular gorge through Sarmatian limestones. The river's extreme meanders are unique in the region.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss hat sich tief in die sarmatischen Kalksteinschichten gegraben.", "Die Felswände erreichen eine Höhe von über 100 Metern.", "Die Region ist das wichtigste archäologische Zentrum Moldaus.", "In den Wänden befinden sich über 100 künstliche Felshöhlen."],
+      hu: ["A folyó mélyen bevágódott a szarmata mészkőrétegekbe.", "A sziklafalak magassága meghaladja a 100 métert.", "A régió Moldova legfontosabb régészeti központja.", "A falakban több mint 100 mesterséges sziklabarlang található."],
+      ro: ["Râul s-a adâncit puternic în straturile de calcar sarmatic.", "Pereții de stâncă ating înălțimi de peste 100 de metri.", "Regiunea reprezintă cel mai important centru arheologic al țării.", "În pereți se află peste 100 de cavități rupestre artificiale."],
+      en: ["The river has cut deeply into Sarmatian limestone layers.", "The rock walls reach heights exceeding 100 meters.", "The region is the most significant archaeological center in Moldova.", "There are over 100 man-made rock caves within the canyon walls."],
+    },
+  },
   {
     id: "moldova-saharna-ravines-relief-v2",
     type: "valley",
-    name: { de: "Saharna-Schluchten", hu: "Saharna-szurdokok", ro: "Defileele Saharna", en: "Saharna Ravines" },
+    name: { de: "Saharna-Schluchten", hu: "Saharna-szurdokok", ro: "Defileele Saharna", en: "Saharna Ravines",
+image: "/poi-images/moldova-saharna-ravines-relief-v2.webp"
+},
     coords: [28.9667, 47.7],
     coordinates: { lat: 47.7, lng: 28.9667 },
     description: {
@@ -250,11 +438,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Include 22 de cascade", "Stânci abrupte de până la 160 m", "Mănăstire rupestră în versanți", "Centru important de pelerinaj"],
       en: ["Contains 22 waterfalls", "Steep rocks up to 160 meters", "Rock monastery in the slopes", "Significant pilgrimage center"],
     },
-    imageHint: "Saharna ravine waterfall Moldova", image: "/poi-images/moldova-saharna-ravines-relief-v2.webp"},
+    imageHint: "Saharna ravine waterfall Moldova",
+    image: "/poi-images/moldova-saharna-ravines-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Saharna-Schluchten sind berühmt für ihre Kaskaden und wilden Felsformationen. Der Fluss Saharna hat hier tiefe Canyons in das Plateau gegraben.",
+      hu: "A Saharna-szurdokok híresek vízeséseikről és vad sziklaformációikról. A Saharna-patak mély kanyonokat vájt ide a fennsíkba.",
+      ro: "Defileurile Saharnei sunt renumite pentru cascadele și formațiunile stâncoase sălbatice. Râul Saharna a săpat aici canioane adânci în platou.",
+      en: "The Saharna Ravines are famous for their cascades and wild rock formations. The Saharna stream has carved deep canyons into the plateau here.",
+    },
+    factsAdvanced: {
+      de: ["Es gibt insgesamt 22 Wasserfälle im Verlauf der Schluchten.", "Der größte Wasserfall, 'Gropița', ist etwa 10 Meter hoch.", "Die Felsen bestehen aus Riffkalksteinen des oberen Sarmatiums.", "Das Reservat umfasst eine Fläche von etwa 670 Hektar."],
+      hu: ["A szurdokok mentén összesen 22 vízesés található.", "A legnagyobb vízesés, a 'Gropița', körülbelül 10 méter magas.", "A sziklák a felső szarmata korszak zátonymészköveiből állnak.", "A rezervátum területe körülbelül 670 hektár."],
+      ro: ["Există un număr total de 22 de cascade de-a lungul defileului.", "Cea mai mare cascadă, 'Gropița', are o înălțime de circa 10 metri.", "Stâncile sunt formate din calcare recifale de vârstă Sarmațiană.", "Rezervația cuprinde o suprafață de aproximativ 670 de hectare."],
+      en: ["There are a total of 22 waterfalls along the course of the ravines.", "The largest waterfall, 'Gropita', is approximately 10 meters high.", "The rocks consist of reef limestones from the Upper Sarmatian.", "The reserve covers an area of approximately 670 hectares."],
+    },
+  },
   {
     id: "moldova-tipova-cliffs-relief-v2",
     type: "landmark",
-    name: { de: "Țipova-Klippen", hu: "Țipova-sziklák", ro: "Falezele Țipova", en: "Țipova Cliffs" },
+    name: { de: "Țipova-Klippen", hu: "Țipova-sziklák", ro: "Falezele Țipova", en: "Țipova Cliffs",
+image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp"
+},
     coords: [28.9833, 47.6],
     coordinates: { lat: 47.6, lng: 28.9833 },
     description: {
@@ -269,11 +473,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Pereți verticali deasupra Nistrului", "Prezența a numeroase izvoare carstice", "Locația unor fortificații antice", "Rezervație peisagistică protejată"],
       en: ["Vertical walls above the Dniester", "Presence of numerous karst springs", "Site of ancient fortifications", "Protected landscape reserve"],
     },
-    imageHint: "Tipova cliffs Dniester river", image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp"},
+    imageHint: "Tipova cliffs Dniester river",
+    image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tipova-Klippen sind majestätische Kalksteinformationen am Dnister mit steilen felsigen Hängen und alten Höhlenklöstern, die in 100 Metern Höhe in den Abgrund gehauen wurden.",
+      hu: "A Tipova-sziklák fenséges mészkőformációk a Dnyeszter mentén, meredek sziklás lejtőkkel és ősi barlangkolostorokkal, amelyeket a szakadékba vájtak 100 méteres magasságban.",
+      ro: "Falezele de la Țipova reprezintă o formațiune calcaroasă maiestoasă de-a lungul Nistrului, având versanți stâncoși și mănăstiri rupestre vechi săpate în abrupt la o înălțime de 100 metri.",
+      en: "The Tipova Cliffs represent a majestic limestone formation along the Dniester River, featuring steep rocky slopes and ancient cave monasteries carved into the precipice at 100 meters height.",
+    },
+    factsAdvanced: {
+      de: ["Die Klippen erheben sich etwa 100 Meter über den Wasserspiegel des Flusses Dnister.", "Das gesamte Naturschutzgebiet umfasst eine geschützte Fläche von 306 Hektar.", "Die Kalksteinformationen stammen aus der geologischen Epoche des Mittleren Miozäns.", "In den Felsen sind über 20 verschiedene Höhlenzellen und Sakralbauten erhalten geblieben."],
+      hu: ["A sziklák körülbelül 100 méterrel magasodnak a Dnyeszter folyó vízszintje fölé.", "A teljes tájvédelmi körzet 306 hektárnyi védett területet foglal magában.", "A mészkőképződmények a középső miocén földtani korszakból származnak.", "A sziklákban több mint 20 különböző barlangcellát és szakrális építményt őriztek meg."],
+      ro: ["Falezele se ridică la aproximativ 100 de metri deasupra nivelului apei fluviului Nistru.", "Rezervația peisajnică cuprinde o suprafață totală protejată de 306 hectare.", "Formațiunile calcaroase datează din epoca geologică a miocenului mediu.", "În stâncă sunt conservate peste 20 de chilii și lăcașuri de cult rupestre diferite."],
+      en: ["The cliffs rise approximately 100 meters above the water level of the Dniester River.", "The entire landscape reserve covers a protected area of 306 hectares.", "The limestone formations date back to the Middle Miocene geological epoch.", "Over 20 different cave cells and religious structures are preserved in the rock."],
+    },
+  },
   {
     id: "moldova-lapusna-hills-relief-v2",
     type: "landmark",
-    name: { de: "Lăpușna-Hügel", hu: "Lăpușna-dombság", ro: "Dealurile Lăpușnei", en: "Lăpușna Hills" },
+    name: { de: "Lăpușna-Hügel", hu: "Lăpușna-dombság", ro: "Dealurile Lăpușnei", en: "Lăpușna Hills",
+image: "/poi-images/moldova-lapusna-hills-relief-v2.webp"
+},
     coords: [28.3, 46.9],
     coordinates: { lat: 46.9, lng: 28.3 },
     description: {
@@ -288,11 +508,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Dealuri cu înălțimi de până la 250 m", "Versanți terasați intens", "Parte a regiunii istorice Moldova", "Centru major al cultivării prunelor"],
       en: ["Hills up to 250 meters high", "Intensively terraced slopes", "Part of historical Moldova", "Center of plum cultivation"],
     },
-    imageHint: "Lapusna hills Moldova orchard", image: "/poi-images/moldova-lapusna-hills-relief-v2.webp"},
+    imageHint: "Lapusna hills Moldova orchard",
+    image: "/poi-images/moldova-lapusna-hills-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lapusna-Hügel sind Teil des Zentralmoldauischen Plateaus und zeichnen sich durch ein hügeliges Relief mit Höhen bis zu 300 Metern und tiefen, durch Erosion geformten Tälern aus.",
+      hu: "A Lapusna-dombság a Közép-Moldvai-fennsík része, dombos domborzat jellemzi, amelynek magassága eléri a 300 métert, mély völgyeit pedig intenzív eróziós folyamatok alakították ki.",
+      ro: "Dealurile Lăpușnei fac parte din Podișul Moldovei Centrale, fiind caracterizate de un relief colinar cu înălțimi de până la 300 metri și văi adânci formate prin procese de eroziune.",
+      en: "The Lapusna Hills are part of the Central Moldavian Plateau, characterized by a hilly relief with elevations reaching 300 meters and deep valleys formed by intense erosion processes.",
+    },
+    factsAdvanced: {
+      de: ["Die durchschnittliche Höhe der Hügelkette liegt zwischen 250 und 300 Metern.", "Das Gebiet ist Teil des Codri-Waldes, des größten Waldmassivs in Zentralmoldau.", "Das Relief weist eine starke Fragmentierung mit Hangneigungen von bis zu 15 Grad auf.", "Die geologische Basis besteht aus neogenen Sedimenten wie Ton, Sand und Kalkstein."],
+      hu: ["A dombsor átlagos magassága 250 és 300 méter között mozog.", "A terület a Codri-erdő része, amely Közép-Moldova legnagyobb erdőtömbje.", "A domborzat erősen szabdalt, a lejtők dőlésszöge helyenként eléri a 15 fokot.", "A földtani alapzatot neogén üledékek, például agyag, homok és mészkő alkotják."],
+      ro: ["Altitudinea medie a lanțului de dealuri variază între 250 și 300 de metri.", "Zona face parte din masivul forestier Codri, cel mai mare din centrul Moldovei.", "Relieful prezintă o fragmentare accentuată cu pante ce ating înclinații de 15 grade.", "Baza geologică este formată din sedimente neogene precum argile, nisipuri și calcar."],
+      en: ["The average altitude of the hill range varies between 250 and 300 meters.", "The area is part of the Codri forest massif, the largest in central Moldova.", "The relief shows significant fragmentation with slopes reaching inclinations of 15 degrees.", "The geological base consists of Neogene sediments such as clays, sands, and limestone."],
+    },
+  },
   {
     id: "moldova-cogalnic-plain-relief-v2",
     type: "landmark",
-    name: { de: "Cogâlnic-Ebene", hu: "Cogâlnic-síkság", ro: "Câmpia Cogâlnicului", en: "Cogâlnic Plain" },
+    name: { de: "Cogâlnic-Ebene", hu: "Cogâlnic-síkság", ro: "Câmpia Cogâlnicului", en: "Cogâlnic Plain",
+image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp"
+},
     coords: [28.7, 46.5],
     coordinates: { lat: 46.5, lng: 28.7 },
     description: {
@@ -307,11 +543,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Stepă tipică din sudul Moldovei", "Soluri foarte fertile", "Acoperire forestieră redusă", "Relief mai plat decât în nord"],
       en: ["Typical southern Moldovan steppe", "Very fertile soils", "Low forest coverage", "Flatter relief than in the north"],
     },
-    imageHint: "Cogalnic plain steppe Moldova", image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp"},
+    imageHint: "Cogalnic plain steppe Moldova",
+    image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Cogalnic-Ebene im Süden Moldaus ist eine flache Steppenlandschaft, die vom 243 km langen Fluss Cogalnic durchquert wird und für ihre fruchtbaren Schwarzerdeböden bekannt ist.",
+      hu: "A dél-moldovai Cogalnic-alföld egy sík sztyeppei táj, amelyet a 243 km hosszú Cogalnic folyó szel át, és termékeny csernozjom talajáról ismert.",
+      ro: "Câmpia Cogâlnicului din sudul Moldovei este o zonă de stepă plană, traversată de râul Cogâlnic lung de 243 km, fiind cunoscută pentru solurile sale fertile de tip cernoziom.",
+      en: "The Cogalnic Plain in southern Moldova is a flat steppe landscape traversed by the 243 km long Cogalnic River, known for its fertile chernozem soils and agricultural value.",
+    },
+    factsAdvanced: {
+      de: ["Das gesamte Einzugsgebiet des Flusses Cogalnic umfasst eine Fläche von 3.910 km².", "Etwa 1.030 km² des Beckens befinden sich auf dem Territorium der Republik Moldau.", "Die Ebene liegt auf einer durchschnittlichen Höhe von etwa 100 Metern über dem Meer.", "Der Fluss Cogalnic hat eine Gesamtlänge von 243 Kilometern bis zum Schwarzen Meer."],
+      hu: ["A Cogalnic folyó teljes vízgyűjtő területe 3910 négyzetkilométert tesz ki.", "A medence körülbelül 1030 négyzetkilométere található Moldova Köztársaság területén.", "Az alföld átlagosan 100 méteres tengerszint feletti magasságban helyezkedik el.", "A Cogalnic folyó teljes hossza 243 kilométer a Fekete-tengerig tartó szakaszán."],
+      ro: ["Bazinul hidrografic total al râului Cogâlnic acoperă o suprafață de 3.910 km².", "Aproximativ 1.030 km² din bazin se află pe teritoriul Republicii Moldova.", "Câmpia este situată la o altitudine medie de aproximativ 100 de metri peste nivelul mării.", "Râul Cogâlnic are o lungime totală de 243 de kilometri până la Marea Neagră."],
+      en: ["The total hydrographic basin of the Cogalnic River covers an area of 3,910 km².", "Approximately 1,030 km² of the basin is located within the territory of Moldova.", "The plain is situated at an average altitude of about 100 meters above sea level.", "The Cogalnic River has a total length of 243 kilometers reaching the Black Sea."],
+    },
+  },
   {
     id: "moldova-middle-prut-plain-relief-v2",
     type: "landmark",
-    name: { de: "Mittlere Prut-Ebene", hu: "Középső-Prut-síkság", ro: "Câmpia Prutului de Mijloc", en: "Middle Prut Plain" },
+    name: { de: "Mittlere Prut-Ebene", hu: "Középső-Prut-síkság", ro: "Câmpia Prutului de Mijloc", en: "Middle Prut Plain",
+image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp"
+},
     coords: [27.3, 47.6],
     coordinates: { lat: 47.6, lng: 27.3 },
     description: {
@@ -326,11 +578,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Zonă umedă importantă", "Prezența multor lacuri și brațe vechi", "Dealuri modelate de eroziune", "Altitudini între 50 și 150 m"],
       en: ["Significant wetland area", "Presence of many lakes and oxbows", "Hills shaped by erosion", "Altitudes between 50 and 150 m"],
     },
-    imageHint: "Prut river valley plain Moldova", image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp"},
+    imageHint: "Prut river valley plain Moldova",
+    image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mittlere Prut-Ebene umfasst ein System von Flussterrassen mit sanftem Relief und Höhen von 50 bis 150 Metern, geprägt durch fruchtbare Alluvialböden entlang des Prut.",
+      hu: "A Középső-Prut-alföld lankás domborzatú folyóteraszok rendszeréből áll, 50-150 méteres magassággal, a Prut menti termékeny hordalékos talajok jellemzik.",
+      ro: "Câmpia Prutului de Mijloc cuprinde un sistem de terase fluviale cu relief domol și înălțimi de 50-150 metri, fiind marcată de soluri aluvionare fertile de-a lungul râului.",
+      en: "The Middle Prut Plain comprises a system of river terraces with gentle relief and heights of 50-150 meters, characterized by fertile alluvial soils along the Prut River.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhen der Flussterrassen variieren in diesem Bereich zwischen 50 und 150 Metern.", "Die Ebene ist durch breite Auen mit einer Breite von bis zu 5 Kilometern gekennzeichnet.", "Die jährliche durchschnittliche Niederschlagsmenge in der Ebene beträgt etwa 550 mm.", "Das Gebiet beherbergt zahlreiche Seen und Altwasserarme des Flusses Prut."],
+      hu: ["A folyóteraszok magassága ezen a szakaszon 50 és 150 méter között változik.", "Az alföldet széles, akár 5 kilométer szélességet is elérő árterek jellemzik.", "Az alföld területén az évi átlagos csapadékmennyiség körülbelül 550 mm.", "A területen számos tó és a Prut folyó holtágai találhatóak meg."],
+      ro: ["Altitudinile teraselor fluviale variază în această zonă între 50 și 150 de metri.", "Câmpia este caracterizată de lunci largi cu o lățime de până la 5 kilometri.", "Cantitatea medie anuală de precipitații în zona câmpiei este de aproximativ 550 mm.", "Zona găzduiește numeroase lacuri și brațe moarte ale cursului râului Prut."],
+      en: ["The altitudes of the river terraces vary in this zone between 50 and 150 meters.", "The plain is characterized by wide floodplains with a width of up to 5 kilometers.", "The average annual precipitation in the plain area is approximately 550 mm.", "The area hosts numerous lakes and oxbow lakes of the Prut River course."],
+    },
+  },
   {
     id: "moldova-ialpug-valley-relief-v2",
     type: "valley",
-    name: { de: "Ialpug-Tal", hu: "Ialpug-völgy", ro: "Valea Ialpugului", en: "Ialpug Valley" },
+    name: { de: "Ialpug-Tal", hu: "Ialpug-völgy", ro: "Valea Ialpugului", en: "Ialpug Valley",
+image: "/poi-images/moldova-ialpug-valley-relief-v2.webp"
+},
     coords: [28.6, 46.1],
     coordinates: { lat: 46.1, lng: 28.6 },
     description: {
@@ -345,11 +613,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cel mai important sistem de drenaj din sud", "Centrul regiunii Găgăuzia", "Râul are debit redus pe timp de vară", "Lățimea văii atinge 5 kilometri"],
       en: ["Most important drainage system in the south", "Center of the Gagauzia region", "River has low flow in summer", "Valley width reaches 5 kilometers"],
     },
-    imageHint: "Ialpug valley landscape Gagausia", image: "/poi-images/moldova-ialpug-valley-relief-v2.webp"},
+    imageHint: "Ialpug valley landscape Gagausia",
+    image: "/poi-images/moldova-ialpug-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ialpug-Tal im Süden Moldaus ist eine tief in die Steppe eingeschnittene Senke, die durch den 142 km langen Fluss Ialpug geformt wurde und zum größten See der Region führt.",
+      hu: "A dél-moldovai Ialpug-völgy a sztyeppébe mélyen bevágódott süllyedék, amelyet a 142 km hosszú Ialpug folyó alakított ki, és a régió legnagyobb tavához vezet.",
+      ro: "Valea Ialpugului din sudul Moldovei este o depresiune adânc incizată în stepă, formată de râul Ialpug lung de 142 km, care debușează în cel mai mare lac din regiune.",
+      en: "The Ialpug Valley in southern Moldova is a depression deeply incised into the steppe, formed by the 142 km long Ialpug River, leading towards the largest lake in the region.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss Ialpug hat eine Gesamtlänge von 142 Kilometern auf moldauischem Gebiet.", "Das Tal mündet in den Ialpug-See, der eine Wasserfläche von 149 km² besitzt.", "Die Breite des Tals variiert zwischen 2 und 7 Kilometern in seinem Unterlauf.", "Das Relief ist durch Erosionsrinnen und aktive Erdrutsche an den Hängen geprägt."],
+      hu: ["Az Ialpug folyó teljes hossza moldovai területen 142 kilométer.", "A völgy az Ialpug-tóba torkollik, amelynek vízfelülete 149 négyzetkilométer.", "A völgy szélessége az alsó szakaszon 2 és 7 kilométer között változik.", "A domborzatot eróziós árkok és a lejtőkön aktív földcsuszamlások jellemzik."],
+      ro: ["Râul Ialpug are o lungime totală de 142 de kilometri pe teritoriul moldovenesc.", "Valea se varsă în lacul Ialpug, care are o suprafață a luciului de apă de 149 km².", "Lățimea văii variază între 2 și 7 kilometri în cursul său inferior.", "Relieful este marcat de râpi de eroziune și alunecări de teren active pe versanți."],
+      en: ["The Ialpug River has a total length of 142 kilometers on Moldovan territory.", "The valley discharges into Lake Ialpug, which has a water surface area of 149 km².", "The width of the valley varies between 2 and 7 kilometers in its lower course.", "The relief is marked by erosion gullies and active landslides on the slopes."],
+    },
+  },
   {
     id: "moldova-bic-river-valley-relief-v2",
     type: "valley",
-    name: { de: "Bîc-Tal", hu: "Bîc-völgy", ro: "Valea Bîcului", en: "Bîc Valley" },
+    name: { de: "Bîc-Tal", hu: "Bîc-völgy", ro: "Valea Bîcului", en: "Bîc Valley",
+image: "/poi-images/moldova-bic-river-valley-relief-v2.webp"
+},
     coords: [28.8, 47.0],
     coordinates: { lat: 47.0, lng: 28.8 },
     description: {
@@ -364,11 +648,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai importantă axă de transport", "Centrul industriei moldovenești", "Versanți asimetrici caracteristici", "Debit redus al râului Bîc"],
       en: ["Most important transport axis", "Center of Moldovan industry", "Characteristic asymmetrical slopes", "Low water flow of the Bîc river"],
     },
-    imageHint: "Bic river valley Chisinau", image: "/poi-images/moldova-bic-river-valley-relief-v2.webp"},
+    imageHint: "Bic river valley Chisinau",
+    image: "/poi-images/moldova-bic-river-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bîc-Tal ist eine zentrale geomorphologische Achse Moldaus, die das Codri-Hochland durchschneidet und den 155 km langen Fluss beherbergt, der durch die Hauptstadt fließt.",
+      hu: "A Bîc-völgy Moldova központi geomorfológiai tengelye, amely átszeli a Codri-hátságot, és a fővároson is áthaladó 155 km hosszú folyónak ad otthont.",
+      ro: "Valea Bîcului este o axă geomorfologică centrală a Moldovei, care secționează podișul Codrilor și adăpostește râul de 155 km ce traversează capitala țării.",
+      en: "The Bic Valley is a central geomorphological axis of Moldova, cutting through the Codri highland and hosting the 155 km long river that flows through the nation's capital.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss Bîc hat eine Gesamtlänge von 155 Kilometern von der Quelle bis zum Dnister.", "Das Einzugsgebiet des Flusses umfasst eine Gesamtfläche von etwa 2.150 km².", "Das Tal trennt die zentralen Codri in einen nördlichen und einen südlichen Teil.", "Im Bereich von Chisinau liegt die Talsohle auf einer Höhe von etwa 40-60 Metern."],
+      hu: ["A Bîc folyó teljes hossza a forrástól a Dnyeszterig 155 kilométer.", "A folyó vízgyűjtő területe körülbelül 2150 négyzetkilométernyi területet fed le.", "A völgy északi és déli részre osztja a központi Codri-erdőket.", "Kisinyov térségében a völgytalp körülbelül 40-60 méteres magasságban fekszik."],
+      ro: ["Râul Bîc are o lungime totală de 155 de kilometri de la izvor până la Nistru.", "Bazinul hidrografic al râului acoperă o suprafață totală de circa 2.150 km².", "Valea separă Codrii centrali în două sectoare: cel de nord și cel de sud.", "În zona orașului Chișinău, vatra văii se află la o altitudine de circa 40-60 metri."],
+      en: ["The Bic River has a total length of 155 kilometers from its source to the Dniester.", "The river's hydrographic basin covers a total area of approximately 2,150 km².", "The valley separates the central Codri into a northern and a southern sector.", "In the Chisinau area, the valley floor lies at an altitude of about 40-60 meters."],
+    },
+  },
   {
     id: "moldova-ciuluc-hills-relief-v2",
     type: "landmark",
-    name: { de: "Ciuluc-Hügel", hu: "Ciuluc-dombság", ro: "Podișul Ciuluc-Soloneț", en: "Ciuluc-Soloneț Hills" },
+    name: { de: "Ciuluc-Hügel", hu: "Ciuluc-dombság", ro: "Podișul Ciuluc-Soloneț", en: "Ciuluc-Soloneț Hills",
+image: "/poi-images/moldova-ciuluc-hills-relief-v2.webp"
+},
     coords: [28.4, 47.6],
     coordinates: { lat: 47.6, lng: 28.4 },
     description: {
@@ -384,11 +684,25 @@ export const moldovaReliefV2: POI[] = [
       en: ["Altitudes of 200-300 meters", "Intensive agricultural use", "Presence of clay layers", "Sunny southern slopes for viticulture"],
     },
     imageHint: "Ciuluc hills landscape Moldova",
+    descriptionAdvanced: {
+      de: "Die Ciuluc-Hügel im Norden Moldaus erreichen Höhen von bis zu 388 Metern und weisen ein stark zerklüftetes Relief mit zahlreichen Plateaus und tiefen Erosionstälern auf.",
+      hu: "Az észak-moldovai Ciuluc-dombság magassága eléri a 388 métert, erősen tagolt domborzat jellemzi, számos fennsíkkal és mély eróziós völgyekkel.",
+      ro: "Dealurile Ciulucului din nordul Moldovei ating înălțimi de până la 388 metri și prezintă un relief puternic fragmentat, cu numeroase platouri și văi de eroziune adânci.",
+      en: "The Ciuluc Hills in northern Moldova reach heights of up to 388 meters and feature a strongly fragmented relief with numerous plateaus and deep erosion valleys.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Punkt der Ciuluc-Hügel liegt bei einer Höhe von 388 Metern.", "Die durchschnittliche Höhe des gesamten Hügelgebiets beträgt etwa 250 Meter.", "Die Hügel bestehen hauptsächlich aus miozänen Tonen und sandigen Sedimenten.", "Das Relief ist durch eine Fragmentierungsdichte von bis zu 2,5 km/km² gekennzeichnet."],
+      hu: ["A Ciuluc-dombság legmagasabb pontja 388 méteres tengerszint feletti magasságban van.", "A teljes dombsági terület átlagos magassága körülbelül 250 méter.", "A dombokat főként miocén korú agyag és homokos üledékek építik fel.", "A domborzatot akár 2,5 km/km²-es fragmentációs sűrűség jellemzi."],
+      ro: ["Cel mai înalt punct al Dealurilor Ciulucului se află la o altitudine de 388 de metri.", "Altitudinea medie a întregii zone colinare este de aproximativ 250 de metri.", "Dealurile sunt formate preponderent din argile miocene și sedimente nisipoase.", "Relieful este caracterizat printr-o densitate a fragmentării de până la 2,5 km/km²."],
+      en: ["The highest point of the Ciuluc Hills is at an altitude of 388 meters.", "The average altitude of the entire hilly area is approximately 250 meters.", "The hills are mainly formed from Miocene clays and sandy sediments.", "The relief is characterized by a fragmentation density of up to 2.5 km/km²."],
+    },
   },
   {
     id: "moldova-edinet-toltry-relief-v2",
     type: "landmark",
-    name: { de: "Edineț-Toltry", hu: "Edineți-toltrék", ro: "Toltrele Edinețului", en: "Edineț Toltry" },
+    name: { de: "Edineț-Toltry", hu: "Edineți-toltrék", ro: "Toltrele Edinețului", en: "Edineț Toltry",
+image: "/poi-images/moldova-edinet-toltry-relief-v2.webp"
+},
     coords: [27.25, 48.1167],
     coordinates: { lat: 48.1167, lng: 27.25 },
     description: {
@@ -404,11 +718,25 @@ export const moldovaReliefV2: POI[] = [
       en: ["Fossil reefs of the Tethys Ocean", "Widespread karst phenomena", "Protected area for rare plants", "High landscape aesthetic value"],
     },
     imageHint: "Edinet Toltry limestone rocks",
+    descriptionAdvanced: {
+      de: "Die Edineț-Toltry sind fossile Korallenriffe des urzeitlichen Sarmat-Meeres, die heute beeindruckende Kalksteinrücken mit steilen Wänden in der Nähe der Stadt Edineț bilden.",
+      hu: "Az Edineț-toltry az ősi Sarmata-tenger fosszilis korallzátonyai, amelyek ma lenyűgöző mészkőgerinceket alkotnak meredek falakkal Edineț városa közelében.",
+      ro: "Toltrele Edinețului sunt recife coraliere fosile ale vechii Mări Sarmatice, care formează astăzi creste calcaroase impresionante cu pereți abrupți lângă orașul Edineț.",
+      en: "The Edinet Toltry are fossil coral reefs from the ancient Sarmatian Sea, forming impressive limestone ridges with steep walls near the town of Edinet today.",
+    },
+    factsAdvanced: {
+      de: ["Diese geologischen Formationen sind zwischen 15 und 20 Millionen Jahre alt.", "Die Toltry ragen bis zu 100 Meter über das umliegende Gelände hinaus.", "Sie bestehen aus den Überresten von Korallen, Algen und Muscheln des Neogens.", "Die Riffe erstrecken sich als Kette über eine Gesamtlänge von fast 200 Kilometern."],
+      hu: ["Ezek a földtani képződmények 15 és 20 millió év közötti korúak.", "A toltry sziklák akár 100 méterrel is kiemelkednek a környező terepből.", "A neogén korból származó korallok, algák és kagylók maradványaiból állnak.", "A zátonyok láncolata összesen csaknem 200 kilométer hosszan húzódik."],
+      ro: ["Aceste formațiuni geologice au o vechime cuprinsă între 15 și 20 de milioane de ani.", "Toltrele se ridică cu până la 100 de metri deasupra reliefului înconjurător.", "Sunt compuse din resturi de corali, alge și scoici din perioada neogenului.", "Recifele se întind sub formă de lanț pe o lungime totală de aproape 200 de kilometri."],
+      en: ["These geological formations are between 15 and 20 million years old.", "The toltry rise up to 100 meters above the surrounding terrain.", "They are composed of the remains of corals, algae, and shells from the Neogene.", "The reefs stretch as a chain over a total length of nearly 200 kilometers."],
+    },
   },
   {
     id: "moldova-butesti-gorge-relief-v2",
     type: "valley",
-    name: { de: "Schlucht von Butești", hu: "Butești-szurdok", ro: "Defileul Butești", en: "Butești Gorge" },
+    name: { de: "Schlucht von Butești", hu: "Butești-szurdok", ro: "Defileul Butești", en: "Butești Gorge",
+image: "/poi-images/moldova-butesti-gorge-relief-v2.webp"
+},
     coords: [27.3333, 47.7833],
     coordinates: { lat: 47.7833, lng: 27.3333 },
     description: {
@@ -423,11 +751,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Peșteri cu vestigii din epoca de piatră", "Formațiune lungă de peste 2 km", "Face parte din toltrele Moldovei", "Popular printre alpiniști"],
       en: ["Caves with Stone Age findings", "Formation over 2 km long", "Part of the Moldovan Toltry", "Popular among rock climbers"],
     },
-    imageHint: "Butesti gorge Camenca river", image: "/poi-images/moldova-butesti-gorge-relief-v2.webp"},
+    imageHint: "Butesti gorge Camenca river",
+    image: "/poi-images/moldova-butesti-gorge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Butești-Schlucht ist ein Naturmonument aus Riffkalkstein, das sich über 2 km erstreckt und durch den Fluss Camenca geformt wurde, mit Wänden von bis zu 50 Metern Höhe.",
+      hu: "A Butești-szoros egy zátonymészkőből álló természeti műemlék, amely 2 km hosszan húzódik, a Camenca folyó alakította ki, falai pedig elérik az 50 méteres magasságot.",
+      ro: "Cheile Butești sunt un monument al naturii format din calcar recifal, întinzându-se pe 2 km și fiind sculptat de râul Camenca, cu pereți de până la 50 de metri înălțime.",
+      en: "The Butesti Gorge is a natural monument made of reef limestone, stretching over 2 km and carved by the Camenca River, with walls reaching heights of up to 50 meters.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlucht hat eine Gesamtlänge von über 2 Kilometern entlang des Flusses Camenca.", "Die Breite des Tals variiert an dieser Stelle zwischen 50 und 125 Metern.", "Die Kalksteinwände der Schlucht erreichen eine maximale Höhe von etwa 50 Metern.", "Das geschützte Gebiet des Naturdenkmals umfasst eine Fläche von 110 Hektar."],
+      hu: ["A szoros teljes hossza meghaladja a 2 kilométert a Camenca folyó mentén.", "A völgy szélessége ezen a ponton 50 és 125 méter között változik.", "A szoros mészkőfalai elérik a körülbelül 50 méteres maximális magasságot.", "A természeti emlék védett területe 110 hektárnyi kiterjedést foglal magában."],
+      ro: ["Defileul are o lungime totală de peste 2 kilometri de-a lungul râului Camenca.", "Lățimea văii în acest punct variază între 50 și 125 de metri.", "Pereții de calcar ai cheilor ating o înălțime maximă de aproximativ 50 de metri.", "Suprafața protejată a monumentului naturii cuprinde un areal de 110 hectare."],
+      en: ["The gorge has a total length of over 2 kilometers along the Camenca River.", "The width of the valley at this point varies between 50 and 125 meters.", "The limestone walls of the gorge reach a maximum height of about 50 meters.", "The protected area of the natural monument covers an extent of 110 hectares."],
+    },
+  },
   {
     id: "moldova-botna-valley-relief-v2",
     type: "valley",
-    name: { de: "Botna-Tal", hu: "Botna-völgy", ro: "Valea Botnei", en: "Botna Valley" },
+    name: { de: "Botna-Tal", hu: "Botna-völgy", ro: "Valea Botnei", en: "Botna Valley",
+image: "/poi-images/moldova-botna-valley-relief-v2.webp"
+},
     coords: [28.7, 46.8],
     coordinates: { lat: 46.8, lng: 28.7 },
     description: {
@@ -442,11 +786,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Zona centrală a vinului moldovenesc", "Peisaj colinar domol", "Se varsă în râul Nistru", "Multe iazuri în cursul superior"],
       en: ["Heartland of Moldovan wine", "Gentle hilly landscape", "Flows into the Dniester", "Many reservoirs in the upper course"],
     },
-    imageHint: "Botna valley vineyards Moldova", image: "/poi-images/moldova-botna-valley-relief-v2.webp"},
+    imageHint: "Botna valley vineyards Moldova",
+    image: "/poi-images/moldova-botna-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Botna-Tal durchquert den südlichen Teil des Codri-Hochlands und wird vom 152 km langen Fluss Botna geformt, wobei es durch terrassierte Hänge und Auen geprägt ist.",
+      hu: "A Botna-völgy a Codri-hátság déli részét szeli át, a 152 km hosszú Botna folyó alakítja, teraszos lejtők és ártéri területek jellemzik a tájat.",
+      ro: "Valea Botnei traversează sectorul sudic al podișului Codrilor și este formată de râul Botna lung de 152 km, fiind marcată de versanți terasați și lunci extinse.",
+      en: "The Botna Valley traverses the southern sector of the Codri highland and is shaped by the 152 km long Botna River, marked by terraced slopes and extensive floodplains.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss Botna hat eine Gesamtlänge von 152 Kilometern bis zu seiner Mündung.", "Das Tal verläuft durch die südlichen Ausläufer des zentralmoldauischen Hochlands.", "Das Gefälle des Flusses beträgt im Durchschnitt etwa 1,3 Meter pro Kilometer.", "Die Aue des Tals erreicht in einigen Abschnitten eine Breite von 1 bis 2 Kilometern."],
+      hu: ["A Botna folyó teljes hossza a torkolatáig 152 kilométert tesz ki.", "A völgy a közép-moldvai fennsík déli nyúlványain halad keresztül.", "A folyó esése ezen a szakaszon átlagosan körülbelül 1,3 méter kilométerenként.", "A völgy ártéri része egyes szakaszokon eléri az 1-2 kilométeres szélességet."],
+      ro: ["Râul Botna are o lungime totală de 152 de kilometri până la vărsare.", "Valea traversează ramificațiile sudice ale Podișului Moldovei Centrale.", "Panta medie de scurgere a râului este de aproximativ 1,3 metri pe kilometru.", "Lunca văii atinge în unele sectoare o lățime cuprinsă între 1 și 2 kilometri."],
+      en: ["The Botna River has a total length of 152 kilometers to its mouth.", "The valley runs through the southern branches of the Central Moldavian Plateau.", "The river's average gradient is approximately 1.3 meters per kilometer.", "The valley's floodplain reaches a width of 1 to 2 kilometers in some sectors."],
+    },
+  },
   {
     id: "moldova-lower-prut-plain-relief-v2",
     type: "landmark",
-    name: { de: "Untere Prut-Ebene", hu: "Alsó-Prut-síkság", ro: "Câmpia Prutului de Jos", en: "Lower Prut Plain" },
+    name: { de: "Untere Prut-Ebene", hu: "Alsó-Prut-síkság", ro: "Câmpia Prutului de Jos", en: "Lower Prut Plain",
+image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp"
+},
     coords: [28.2, 45.7],
     coordinates: { lat: 45.7, lng: 28.2 },
     description: {
@@ -461,11 +821,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cel mai jos punct al țării (2 m)", "Include cel mai mare lac (Beleū)", "Rezervație a Biosferei UNESCO", "Microclimat foarte umed"],
       en: ["Lowest point of the country (2 m)", "Includes the largest lake (Beleū)", "UNESCO Biosphere Reserve", "Very humid microclimate"],
     },
-    imageHint: "Lower Prut wetlands landscape", image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp"},
+    imageHint: "Lower Prut wetlands landscape",
+    image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Untere Prut-Ebene ist eine tiefliegende Feuchtgebietszone mit Höhen ab 3 Metern, geprägt durch Seen wie den Manta-See und das Biosphärenreservat an der Donaumündung.",
+      hu: "Az Alsó-Prut-alföld egy alacsonyan fekvő vizes élőhely, 3 méteres magasságtól kezdve, olyan tavak és bioszféra-rezervátum jellemzi, mint a Manta-tó.",
+      ro: "Câmpia Prutului de Jos este o zonă de luncă joasă cu altitudini de la 3 metri, marcată de lacuri precum Manta și rezervația biosferei de la confluența cu Dunărea.",
+      en: "The Lower Prut Plain is a low-lying wetland area with altitudes starting from 3 meters, marked by lakes like Lake Manta and the biosphere reserve near the Danube.",
+    },
+    factsAdvanced: {
+      de: ["Die niedrigste Höhe der Ebene liegt bei nur 3 Metern über dem Meeresspiegel.", "Der Manta-See ist mit einer Fläche von 21 km² der größte natürliche See Moldaus.", "Das Gebiet ist seit 2018 als UNESCO-Biosphärenreservat international geschützt.", "Die Ebene erstreckt sich entlang des Prut-Unterlaufs über fast 100 Kilometer."],
+      hu: ["Az alföld legalacsonyabb pontja mindössze 3 méterrel van a tengerszint felett.", "A Manta-tó 21 négyzetkilométeres területével Moldova legnagyobb természetes tava.", "A terület 2018 óta UNESCO bioszféra-rezervátumként nemzetközi védelem alatt áll.", "Az alföld a Prut alsó szakasza mentén csaknem 100 kilométer hosszan nyúlik el."],
+      ro: ["Altitudinea minimă a câmpiei este de doar 3 metri peste nivelul mării.", "Lacul Manta este cel mai mare lac natural din Moldova, având o suprafață de 21 km².", "Zona este protejată internațional ca Rezervație a Biosferei UNESCO din anul 2018.", "Câmpia se întinde de-a lungul cursului inferior al Prutului pe aproape 100 de km."],
+      en: ["The lowest altitude of the plain is only 3 meters above sea level.", "Lake Manta is the largest natural lake in Moldova, with an area of 21 km².", "The area has been internationally protected as a UNESCO Biosphere Reserve since 2018.", "The plain stretches along the lower Prut course for nearly 100 kilometers."],
+    },
+  },
   {
     id: "moldova-northern-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Nordmoldauisches Plateau", hu: "Észak-Moldovai-fennsík", ro: "Podișul Moldovei de Nord", en: "Northern Moldavian Plateau" },
+    name: { de: "Nordmoldauisches Plateau", hu: "Észak-Moldovai-fennsík", ro: "Podișul Moldovei de Nord", en: "Northern Moldavian Plateau",
+image: "/poi-images/moldova-northern-plateau-relief-v2.webp"
+},
     coords: [27.5, 48.3],
     coordinates: { lat: 48.3, lng: 27.5 },
     description: {
@@ -480,11 +856,27 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Soluri de cernoziom profunde", "Predominant teren arabil", "Traversat de afluenții Prutului", "Climat mai răcoros decât în sud"],
       en: ["Deep chernozem soils", "Predominantly arable land", "Traversed by Prut tributaries", "Cooler climate than in the south"],
     },
-    imageHint: "Northern Moldova plateau fields", image: "/poi-images/moldova-northern-plateau-relief-v2.webp"},
+    imageHint: "Northern Moldova plateau fields",
+    image: "/poi-images/moldova-northern-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nordmoldauische Plateau ist ein sanft gewelltes Hochland mit Durchschnittshöhen von 240 Metern, das durch fruchtbare Plateaus und ein dichtes Netz von Flusstälern geprägt ist.",
+      hu: "Az Észak-moldvai-fennsík egy enyhén hullámos felföld, 240 méteres átlagmagassággal, termékeny fennsíkok és sűrű folyóvölgy-hálózat jellemzi.",
+      ro: "Podișul Moldovei de Nord este o zonă înaltă ușor vălurită, cu altitudini medii de 240 metri, caracterizată prin platouri fertile și o rețea densă de văi fluviale.",
+      en: "The Northern Moldavian Plateau is a gently undulating highland with average altitudes of 240 meters, characterized by fertile plateaus and a dense network of river valleys.",
+    },
+    factsAdvanced: {
+      de: ["Die maximale Höhe des Nordplateaus erreicht etwa 320 Meter über dem Meeresspiegel.", "Die durchschnittliche Höhe der Region liegt bei ungefähr 240 Metern.", "Das Plateau ist geologisch aus neogenen Sedimenten und Kreideformationen aufgebaut.", "Die Schwarzerdeböden in diesem Gebiet erreichen eine Dicke von bis zu 1,5 Metern."],
+      hu: ["Az északi fennsík maximális magassága eléri a 320 métert a tengerszint felett.", "A régió átlagos magassága körülbelül 240 méter körül mozog.", "A fennsík földtanilag neogén üledékekből és kréta kori képződményekből épül fel.", "Ezen a területen a csernozjom talaj vastagsága elérheti az 1,5 métert is."],
+      ro: ["Altitudinea maximă a podișului de nord atinge circa 320 de metri peste nivelul mării.", "Altitudinea medie a regiunii este situată în jurul valorii de 240 de metri.", "Podișul este format geologic din sedimente neogene și formațiuni cretacice.", "Solurile de cernoziom din această zonă ating o grosime de până la 1,5 metri."],
+      en: ["The maximum altitude of the northern plateau reaches about 320 meters above sea level.", "The average altitude of the region is situated around 240 meters.", "The plateau is geologically formed from Neogene sediments and Cretaceous formations.", "The chernozem soils in this area reach a thickness of up to 1.5 meters."],
+    },
+  },
   {
     id: "moldova-nisporeni-hills-relief-v2",
     type: "peak",
-    name: { de: "Nisporeni-Hügel", hu: "Nisporeni-dombság", ro: "Dealurile Nisporeniului", en: "Nisporeni Hills" },
+    name: { de: "Nisporeni-Hügel", hu: "Nisporeni-dombság", ro: "Dealurile Nisporeniului", en: "Nisporeni Hills",
+image: "/poi-images/moldova-nisporeni-hills-relief-v2.webp"
+},
     coords: [28.1, 47.1],
     coordinates: { lat: 47.1, lng: 28.1 },
     description: {
@@ -500,5 +892,17 @@ export const moldovaReliefV2: POI[] = [
       en: ["Includes the Bălănești summit", "Heavily fragmented relief", "Source area for many streams", "Highest forest density in the country"],
     },
     imageHint: "Nisporeni forest hills autumn",
+    descriptionAdvanced: {
+      de: "Die Nisporeni-Hügel beherbergen den höchsten Punkt Moldaus, den Bălănești-Hügel (430 m), und bieten ein spektakuläres, tief zerklüftetes Relief inmitten des Codri-Waldmassivs.",
+      hu: "A Nisporeni-dombság ad otthont Moldova legmagasabb pontjának, a Bălănești-dombnak (430 m), és látványos, mélyen tagolt domborzatot kínál a Codri-erdő közepén.",
+      ro: "Dealurile Nisporeniului găzduiesc cel mai înalt punct din Moldova, dealul Bălănești (430 m), oferind un relief spectaculos și fragmentat în mijlocul masivului Codrilor.",
+      en: "The Nisporeni Hills home the highest point in Moldova, Balanesti Hill (430 m), offering a spectacular and deeply fragmented relief in the middle of the Codri forest massif.",
+    },
+    factsAdvanced: {
+      de: ["Der Bălănești-Hügel ist mit 430 Metern die höchste Erhebung der Republik Moldau.", "Die vertikale Fragmentierung des Reliefs erreicht hier Werte von bis zu 250 Metern.", "Die Region erhält die höchsten Niederschlagswerte des Landes mit über 650 mm jährlich.", "Die Hänge weisen Neigungen von oft mehr als 20 Grad auf, was zu Erosion führt."],
+      hu: ["A Bălănești-domb 430 méteres magasságával Moldova legmagasabb pontja.", "A domborzat függőleges tagoltsága itt eléri az akár 250 méteres értéket is.", "A régióban mérik az ország legmagasabb csapadékértékeit, évente több mint 650 mm-t.", "A lejtők dőlésszöge gyakran meghaladja a 20 fokot, ami intenzív erózióhoz vezet."],
+      ro: ["Dealul Bălănești este cea mai înaltă cotă din Republica Moldova, având 430 de metri.", "Fragmentarea verticală a reliefului atinge aici valori de până la 250 de metri.", "Regiunea primește cele mai mari cantități de precipitații din țară, peste 650 mm anual.", "Pantele versanților depășesc adesea 20 de grade, favorizând procesele de eroziune."],
+      en: ["Balanesti Hill is the highest elevation in Moldova, standing at 430 meters.", "The vertical fragmentation of the relief reaches values of up to 250 meters here.", "The region receives the highest precipitation levels in the country, over 650 mm annually.", "The slopes often exceed inclinations of 20 degrees, promoting erosion processes."],
+    },
   }
 ];

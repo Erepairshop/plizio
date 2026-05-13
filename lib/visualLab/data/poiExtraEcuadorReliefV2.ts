@@ -14,8 +14,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       en: "Reventador Volcano"
     ,
     descriptionAdvanced: {
-      en: "El Reventador is an active stratovolcano situated in the eastern Andes, known for its frequent and spectacular eruptions. Standing at approximately 3,562 meters, its activity significantly influences the surrounding ecosystem in the remote cloud forest. Geologically, it is part of the volcanic arc formed by the subduction of the Nazca Plate beneath the South American Plate. This region is a vital area for volcanological research due to its constant activity. Geography K7 — volcanic landforms and plate tectonics."
-    },
+      en: "El Reventador is an active stratovolcano situated in the eastern Andes, known for its frequent and spectacular eruptions. Standing at approximately 3,562 meters, its activity significantly influences the surrounding ecosystem in the remote cloud forest. Geologically, it is part of the volcanic arc formed by the subduction of the Nazca Plate beneath the South American Plate. This region is a vital area for volcanological research due to its constant activity. Geography K7 — volcanic landforms and plate tectonics.",
+image: "/poi-images/ecuador-reventador-relief-v2.webp"
+},
     factsAdvanced: {
       en: ["Elevation: 3,562 meters", "Type: Stratovolcano", "Region: Eastern Andean volcanic arc", "First recorded eruption: 1541", "Primary hazard: Pyroclastic flows", "Geological context: Subduction zone"]
     }
@@ -44,8 +45,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       en: "Carihuairazo"
     ,
     descriptionAdvanced: {
-      en: "Carihuairazo is an eroded, extinct volcano located near the iconic Chimborazo. Although it is smaller than its famous neighbor, its three peaks—Central, Northern, and Southern—offer a challenging terrain for high-altitude trekking. The mountain features a significant glacier remnant, which is rapidly receding due to climate change. It serves as a stark reminder of the glacial history of the Ecuadorian Andes. Geography K7 — glacial erosion and volcanic formations."
-    },
+      en: "Carihuairazo is an eroded, extinct volcano located near the iconic Chimborazo. Although it is smaller than its famous neighbor, its three peaks—Central, Northern, and Southern—offer a challenging terrain for high-altitude trekking. The mountain features a significant glacier remnant, which is rapidly receding due to climate change. It serves as a stark reminder of the glacial history of the Ecuadorian Andes. Geography K7 — glacial erosion and volcanic formations.",
+image: "/poi-images/ecuador-carihuairazo-relief-v2.webp"
+},
     factsAdvanced: {
       en: ["Elevation: 5,018 meters", "Peaks: Three main summits", "Proximity: Located near Chimborazo", "Geological status: Extinct volcano", "Glacial status: Receding glaciers", "Climbing difficulty: High altitude"]
     }
@@ -74,8 +76,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       en: "Sincholagua"
     ,
     descriptionAdvanced: {
-      en: "Sincholagua is a rugged, extinct stratovolcano positioned south of Quito within the Cotopaxi National Park area. It is one of the oldest volcanoes in the region and is characterized by its dramatic, sharp, and jagged peaks which contrast with the smooth slopes of the nearby Cotopaxi. The surrounding highlands are primarily alpine paramo, providing essential water resources and unique flora for the region. Geography K7 — volcanic peaks and paramo ecosystems."
-    },
+      en: "Sincholagua is a rugged, extinct stratovolcano positioned south of Quito within the Cotopaxi National Park area. It is one of the oldest volcanoes in the region and is characterized by its dramatic, sharp, and jagged peaks which contrast with the smooth slopes of the nearby Cotopaxi. The surrounding highlands are primarily alpine paramo, providing essential water resources and unique flora for the region. Geography K7 — volcanic peaks and paramo ecosystems.",
+image: "/poi-images/ecuador-sincholagua-relief-v2.webp"
+},
     factsAdvanced: {
       en: ["Elevation: 4,893 meters", "Type: Extinct stratovolcano", "Age: Over 2 million years old", "Location: Cotopaxi National Park", "Ecosystem: High-altitude paramo", "Summit structure: Jagged volcanic rock"]
     }
@@ -104,8 +107,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       en: "Corazón Volcano"
     ,
     descriptionAdvanced: {
-      en: "Corazon is an extinct, eroded volcano named for the heart-shaped appearance of its volcanic caldera when viewed from certain angles. It is located in the Western Cordillera of the Andes and offers panoramic views of the surrounding volcanic avenue. The peak is a popular destination for hikers seeking acclimatization before attempting higher summits in the region. It is a prime example of a caldera collapse structure. Geography K7 — caldera formation and volcanic landscapes."
-    },
+      en: "Corazon is an extinct, eroded volcano named for the heart-shaped appearance of its volcanic caldera when viewed from certain angles. It is located in the Western Cordillera of the Andes and offers panoramic views of the surrounding volcanic avenue. The peak is a popular destination for hikers seeking acclimatization before attempting higher summits in the region. It is a prime example of a caldera collapse structure. Geography K7 — caldera formation and volcanic landscapes.",
+image: "/poi-images/ecuador-corazon-relief-v2.webp"
+},
     factsAdvanced: {
       en: ["Elevation: 4,790 meters", "Type: Extinct eroded volcano", "Caldera: Heart-shaped structure", "Location: Western Cordillera", "Access: Popular hiking route", "Terrain: High-altitude volcanic ridge"]
     }
@@ -134,8 +138,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       en: "Rumiñahui Volcano"
     ,
     descriptionAdvanced: {
-      en: "Ruminahui is a prominent, ancient volcano consisting of three distinct peaks, located near the Cotopaxi massif. Named after an Inca general, the mountain offers technical trekking opportunities and spectacular views of Cotopaxi and the nearby Sincholagua. Its rocky slopes are covered in paramo grasslands, which are critical for water retention in the central Ecuadorian highlands. It is geologically complex due to multiple past eruptive stages. Geography K7 — volcanic massif and paramo hydrology."
-    },
+      en: "Ruminahui is a prominent, ancient volcano consisting of three distinct peaks, located near the Cotopaxi massif. Named after an Inca general, the mountain offers technical trekking opportunities and spectacular views of Cotopaxi and the nearby Sincholagua. Its rocky slopes are covered in paramo grasslands, which are critical for water retention in the central Ecuadorian highlands. It is geologically complex due to multiple past eruptive stages. Geography K7 — volcanic massif and paramo hydrology.",
+image: "/poi-images/ecuador-ruminahui-relief-v2.webp"
+},
     factsAdvanced: {
       en: ["Elevation: 4,722 meters", "Summits: Central, Northern, Southern", "Name origin: Inca general Ruminahui", "Location: Near Cotopaxi National Park", "Ecology: High-altitude grasslands", "History: Ancient eruptive activity"]
     }
@@ -161,8 +166,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Vulkan Imbabura",
       hu: "Imbabura vulkán",
       ro: "Vulcanul Imbabura",
-      en: "Imbabura Volcano"
-    },
+      en: "Imbabura Volcano",
+image: "/poi-images/ecuador-imbabura-relief-v2.webp"
+},
     description: {
       de: "Ein ruhender Stratovulkan, der majestätisch über dem San-Pablo-See in den nördlichen Anden thront.",
       hu: "Egy alvó rétegvulkán, amely fenségesen tornyosul a San Pablo-tó fölé az északi Andokban.",
@@ -184,8 +190,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Pasochoa",
       hu: "Pasochoa",
       ro: "Pasochoa",
-      en: "Pasochoa"
-    },
+      en: "Pasochoa",
+image: "/poi-images/ecuador-pasochoa-relief-v2.webp"
+},
     description: {
       de: "Ein erloschener Vulkan mit einer eingestürzten Caldera, die einen gut erhaltenen Anden-Nebelwald birgt.",
       hu: "Egy kihalt vulkán, melynek beszakadt kalderája egy remekül megőrzött andoki köderdőt rejt.",
@@ -207,8 +214,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Vulkan Chiles",
       hu: "Chiles vulkán",
       ro: "Vulcanul Chiles",
-      en: "Chiles Volcano"
-    },
+      en: "Chiles Volcano",
+image: "/poi-images/ecuador-chiles-relief-v2.webp"
+},
     description: {
       de: "Ein beeindruckender Grenzvulkan zwischen Ecuador und Kolumbien, der für die heißen Quellen an seiner Basis bekannt ist.",
       hu: "Egy lenyűgöző határvulkán Ecuador és Kolumbia között, amely a lábánál fekvő hőforrásokról ismert.",
@@ -230,8 +238,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Mojanda-Komplex",
       hu: "Mojanda vulkánkomplexum",
       ro: "Complexul Mojanda",
-      en: "Mojanda Complex"
-    },
+      en: "Mojanda Complex",
+image: "/poi-images/ecuador-mojanda-relief-v2.webp"
+},
     description: {
       de: "Ein inaktives Stratovulkansystem in den nördlichen Anden, das durch drei wunderschöne hochgelegene Kraterseen besticht.",
       hu: "Inaktív rétegvulkánrendszer az északi Andokban, amelyet három gyönyörű, magasan fekvő krátertó tesz lenyűgözővé.",
@@ -253,8 +262,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Vulkan Atacazo",
       hu: "Atacazo vulkán",
       ro: "Vulcanul Atacazo",
-      en: "Atacazo Volcano"
-    },
+      en: "Atacazo Volcano",
+image: "/poi-images/ecuador-atacazo-relief-v2.webp"
+},
     description: {
       de: "Ein Stratovulkan mit einer massiven Caldera, der sich südwestlich der Hauptstadt Quito erhebt.",
       hu: "Rétegvulkán egy masszív kalderával, amely a fővárostól, Quitótól délnyugatra magasodik.",
@@ -276,8 +286,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Vulkan Wolf",
       hu: "Wolf-vulkán",
       ro: "Vulcanul Wolf",
-      en: "Wolf Volcano"
-    },
+      en: "Wolf Volcano",
+image: "/poi-images/ecuador-wolf-relief-v2.webp"
+},
     description: {
       de: "Der höchste Gipfel der Galapagos-Inseln, der sich direkt auf der Äquatorlinie auf der Insel Isabela befindet.",
       hu: "A Galápagos-szigetek legmagasabb csúcsa, amely közvetlenül az egyenlítő vonalán fekszik Isabela szigetén.",
@@ -299,8 +310,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Sierra Negra",
       hu: "Sierra Negra",
       ro: "Sierra Negra",
-      en: "Sierra Negra"
-    },
+      en: "Sierra Negra",
+image: "/poi-images/ecuador-sierra-negra-relief-v2.webp"
+},
     description: {
       de: "Ein riesiger Schildvulkan auf der Insel Isabela mit einer der größten Vulkancalderen der Welt.",
       hu: "Hatalmas pajzsvulkán Isabela szigetén, a világ egyik legnagyobb vulkáni kalderájával.",
@@ -322,8 +334,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Vulkan Alcedo",
       hu: "Alcedo-vulkán",
       ro: "Vulcanul Alcedo",
-      en: "Alcedo Volcano"
-    },
+      en: "Alcedo Volcano",
+image: "/poi-images/ecuador-alcedo-relief-v2.webp"
+},
     description: {
       de: "Ein abgelegener Schildvulkan im Zentrum der Insel Isabela, der für seine große Population an Riesenschildkröten bekannt ist.",
       hu: "Isabela szigetének közepén fekvő elszigetelt pajzsvulkán, amely az óriásteknősök nagy populációjáról ismert.",
@@ -345,8 +358,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Cerro Azul",
       hu: "Cerro Azul",
       ro: "Cerro Azul",
-      en: "Cerro Azul Volcano"
-    },
+      en: "Cerro Azul Volcano",
+image: "/poi-images/ecuador-cerro-azul-relief-v2.webp"
+},
     description: {
       de: "Ein sehr aktiver Schildvulkan, der die südwestliche Spitze der Insel Isabela im Galapagos-Archipel bildet.",
       hu: "Rendkívül aktív pajzsvulkán, amely a Galápagos-szigetcsoporthoz tartozó Isabela sziget délnyugati csücskét alkotja.",
@@ -368,8 +382,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Vulkan Darwin",
       hu: "Darwin-vulkán",
       ro: "Vulcanul Darwin",
-      en: "Darwin Volcano"
-    },
+      en: "Darwin Volcano",
+image: "/poi-images/ecuador-darwin-relief-v2.webp"
+},
     description: {
       de: "Ein nahezu perfekt symmetrischer Schildvulkan auf Galapagos, der nach dem berühmten Naturforscher benannt wurde.",
       hu: "Szinte tökéletesen szimmetrikus pajzsvulkán a Galápagos-szigeteken, amelyet a híres természettudósról neveztek el.",
@@ -391,8 +406,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Pululahua-Krater",
       hu: "Pululahua-kráter",
       ro: "Craterul Pululahua",
-      en: "Pululahua Crater"
-    },
+      en: "Pululahua Crater",
+image: "/poi-images/ecuador-pululahua-relief-v2.webp"
+},
     description: {
       de: "Eine der wenigen Vulkancalderen weltweit, deren fruchtbarer Boden von Landwirten bewirtschaftet und bewohnt wird.",
       hu: "Azon kevés vulkáni kalderák egyike a világon, amelynek termékeny talaját gazdák művelik és lakják.",
@@ -414,8 +430,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Cordillera del Cóndor",
       hu: "Cordillera del Cóndor",
       ro: "Cordillera del Cóndor",
-      en: "Cordillera del Cóndor"
-    },
+      en: "Cordillera del Cóndor",
+image: "/poi-images/ecuador-condor-relief-v2.webp"
+},
     description: {
       de: "Eine abgelegene Gebirgskette an der peruanischen Grenze, die für ihre extrem hohe Biodiversität bekannt ist.",
       hu: "Egy elszigetelt hegylánc a perui határon, amely rendkívül magas biodiverzitásáról ismert.",
@@ -437,8 +454,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Cordillera de Kutukú",
       hu: "Cordillera de Kutukú",
       ro: "Cordillera de Kutukú",
-      en: "Cordillera de Kutukú"
-    },
+      en: "Cordillera de Kutukú",
+image: "/poi-images/ecuador-kutuku-relief-v2.webp"
+},
     description: {
       de: "Eine isolierte Gebirgskette im Amazonasbecken, die geografisch von der Hauptkette der Anden getrennt ist.",
       hu: "Elszigetelt hegylánc az Amazonas-medencében, amely földrajzilag elkülönül a fő Andok láncolatától.",
@@ -460,8 +478,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Chongón-Colonche-Gebirge",
       hu: "Chongón-Colonche-hegység",
       ro: "Munții Chongón-Colonche",
-      en: "Chongón-Colonche Mountain Range"
-    },
+      en: "Chongón-Colonche Mountain Range",
+image: "/poi-images/ecuador-chongon-colonche-relief-v2.webp"
+},
     description: {
       de: "Eine langgestreckte Küstenbergkette, welche die trockene Westküste von den feuchteren Inlandsregionen trennt.",
       hu: "Hosszúkás parti hegylánc, amely elválasztja a száraz nyugati partot a nedvesebb szárazföldi régióktól.",
@@ -483,8 +502,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Versteinerter Wald von Puyango",
       hu: "Puyango megkövesedett erdeje",
       ro: "Pădurea Pietrificată Puyango",
-      en: "Puyango Petrified Forest"
-    },
+      en: "Puyango Petrified Forest",
+image: "/poi-images/ecuador-puyango-relief-v2.webp"
+},
     description: {
       de: "Eine weltbekannte paläontologische Stätte mit massiven versteinerten Baumstämmen und alten Fossilien.",
       hu: "Világhírű őslénytani lelőhely hatalmas megkövesedett fatörzsekkel és ősi fosszíliákkal.",
@@ -506,8 +526,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Awá-Regenwald",
       hu: "Awá esőerdő",
       ro: "Pădurea Tropicală Awá",
-      en: "Awá Rainforest"
-    },
+      en: "Awá Rainforest",
+image: "/poi-images/ecuador-awa-relief-v2.webp"
+},
     description: {
       de: "Ein dichter tropischer Wald im Nordwesten Ecuadors, der als wichtiges Schutzgebiet für das indigene Awá-Volk dient.",
       hu: "Sűrű trópusi erdő Északnyugat-Ecuadorban, amely a bennszülött Awá nép fontos menedékhelyéül szolgál.",
@@ -529,8 +550,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Jatun Sacha Reservat",
       hu: "Jatun Sacha Rezervátum",
       ro: "Rezervația Jatun Sacha",
-      en: "Jatun Sacha Reserve"
-    },
+      en: "Jatun Sacha Reserve",
+image: "/poi-images/ecuador-jatun-sacha-relief-v2.webp"
+},
     description: {
       de: "Eine hochgradig biologische Forschungsstation und ein Tropenwaldreservat im oberen Amazonasbecken.",
       hu: "Jelentős biológiai kutatóállomás és trópusi erdei rezervátum a felső Amazonas-medencében.",
@@ -552,8 +574,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Pacoche-Wald",
       hu: "Pacoche-erdő",
       ro: "Pădurea Pacoche",
-      en: "Pacoche Forest"
-    },
+      en: "Pacoche Forest",
+image: "/poi-images/ecuador-pacoche-relief-v2.webp"
+},
     description: {
       de: "Ein Wildtierschutzgebiet an der Küste mit einem einzigartigen Mikroklima, das einen üppigen Wald in einer trockenen Region erhält.",
       hu: "Tengerparti vadvédelmi terület egyedülálló mikroklímával, amely egy buja erdőt tart fenn egy egyébként száraz régióban.",
@@ -575,8 +598,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Chocó-Regenwald",
       hu: "Chocó-esőerdő",
       ro: "Pădurea Tropicală Chocó",
-      en: "Chocó Rainforest"
-    },
+      en: "Chocó Rainforest",
+image: "/poi-images/ecuador-choco-relief-v2.webp"
+},
     description: {
       de: "Einer der feuchtesten und biologisch vielfältigsten Tiefland-Regenwälder auf dem gesamten Planeten.",
       hu: "Az egész bolygó egyik legnedvesebb és biológiailag legváltozatosabb síkvidéki esőerdeje.",
@@ -598,8 +622,9 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       de: "Cerro Plateado",
       hu: "Cerro Plateado",
       ro: "Cerro Plateado",
-      en: "Cerro Plateado"
-    },
+      en: "Cerro Plateado",
+image: "/poi-images/ecuador-plateado-relief-v2.webp"
+},
     description: {
       de: "Ein abgelegenes biologisches Reservat in den südlichen Anden, bekannt für seine unberührten Ökosysteme und den hohen Grad an Endemismus.",
       hu: "Távoli biológiai rezervátum a déli Andokban, amely érintetlen ökoszisztémáiról és a magas szintű endemizmusról ismert.",

@@ -7,7 +7,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-DA",
     coords: [51.4422, 25.2605],
-    name: { de: "Aspire Park", hu: "Aspire Park", ro: "Parcul Aspire", en: "Aspire Park" },
+    name: { de: "Aspire Park", hu: "Aspire Park", ro: "Parcul Aspire", en: "Aspire Park",
+image: "/poi-images/qatar-aspire-park-life-v2.webp"
+},
     description: { de: "Der Aspire Park ist die größte Grünanlage in Doha und bietet malerische Landschaften sowie einen künstlichen See, der Familien und Freizeitsportler anzieht.", hu: "Az Aspire Park Doha legnagyobb zöldterülete, amely festői tájjal és egy mesterséges tóval várja a családokat és a sportolni vágyókat.", ro: "Parcul Aspire este cel mai mare spațiu verde din Doha, oferind peisaje pitorești și un lac artificial care atrage familii și iubitori de sport.", en: "Aspire Park is the largest green space in Doha, offering picturesque landscapes and an artificial lake that attracts families and sports enthusiasts." },
     facts: {
       de: ["Größter Park in Doha.", "Verfügt über einen künstlichen See.", "Liegt neben dem Aspire Tower.", "Bietet Lauf- und Radwege.", "Beliebt für Familienpicknicks."],
@@ -33,7 +35,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-DA",
     coords: [51.5126, 25.2974],
-    name: { de: "Al-Bidda-Park", hu: "Al Bidda Park", ro: "Parcul Al Bidda", en: "Al Bidda Park" },
+    name: { de: "Al-Bidda-Park", hu: "Al Bidda Park", ro: "Parcul Al Bidda", en: "Al Bidda Park",
+image: "/poi-images/qatar-al-bidda-park-life-v2.webp"
+},
     description: { de: "Der Al-Bidda-Park ist eine weitläufige Parkanlage im Herzen von Doha, die einen herrlichen Blick auf das Meer und vielfältige Freizeitmöglichkeiten bietet.", hu: "Az Al Bidda Park egy kiterjedt zöldterület Doha szívében, amely lenyűgöző kilátást nyújt a tengerre és számos szabadidős lehetőséget kínál.", ro: "Parcul Al Bidda este o zonă verde extinsă în inima orașului Doha, oferind vederi uimitoare la mare și diverse oportunități de recreere.", en: "Al Bidda Park is a sprawling green space in the heart of Doha, offering stunning sea views and various recreational opportunities." },
     facts: {
       de: ["Erster haustierfreundlicher Park in Katar.", "Liegt direkt an der Corniche.", "Bietet Grillplätze und Spielplätze.", "Ausgezeichnet für Outdoor-Sportarten.", "Regelmäßiger Veranstaltungsort."],
@@ -59,7 +63,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-DA",
     coords: [51.5429, 25.2965],
-    name: { de: "MIA-Park", hu: "MIA Park", ro: "Parcul MIA", en: "MIA Park" },
+    name: { de: "MIA-Park", hu: "MIA Park", ro: "Parcul MIA", en: "MIA Park",
+image: "/poi-images/qatar-mia-park-life-v2.webp"
+},
     description: { de: "Der MIA-Park umschließt das Museum für Islamische Kunst und bietet eine atemberaubende Aussicht auf die Skyline von Doha sowie eine entspannte Atmosphäre.", hu: "A MIA Park az Iszlám Művészeti Múzeumot veszi körül, lélegzetelállító kilátást nyújtva Doha látképére és nyugodt légkört biztosítva.", ro: "Parcul MIA înconjoară Muzeul de Artă Islamică, oferind o vedere uluitoare a orizontului din Doha și o atmosferă relaxantă.", en: "MIA Park surrounds the Museum of Islamic Art, offering breathtaking views of the Doha skyline and a relaxing atmosphere." },
     facts: {
       de: ["Umrundet das Museum für Islamische Kunst.", "Bietet den besten Blick auf die Skyline.", "Verfügt über ein Open-Air-Kino.", "Beliebt für abendliche Spaziergänge.", "Beheimatet die Skulptur 7 von Richard Serra."],
@@ -85,7 +91,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-KH",
     coords: [51.4646, 25.6888],
-    name: { de: "Al-Khor-Familienpark", hu: "Al Khor Családi Park", ro: "Parcul Familial Al Khor", en: "Al Khor Family Park" },
+    name: { de: "Al-Khor-Familienpark", hu: "Al Khor Családi Park", ro: "Parcul Familial Al Khor", en: "Al Khor Family Park",
+image: "/poi-images/qatar-al-khor-family-park-life-v2.webp"
+},
     description: { de: "Der Al-Khor-Familienpark ist einer der ältesten und beliebtesten Parks des Landes, der einen Mini-Zoo und weitläufige Spielflächen beherbergt.", hu: "Az Al Khor Családi Park az ország egyik legrégebbi és legnépszerűbb parkja, amely egy mini állatkertet és hatalmas játszótereket rejt.", ro: "Parcul Familial Al Khor este unul dintre cele mai vechi și populare parcuri din țară, găzduind o mini-grădină zoologică și zone de joacă extinse.", en: "Al Khor Family Park is one of the oldest and most popular parks in the country, housing a mini zoo and extensive play areas." },
     facts: {
       de: ["Einer der größten Parks in Katar.", "Beherbergt viele Tierarten.", "Verfügt über ein Museum im Park.", "Ideal für Familienausflüge.", "Bietet eine kleine Eisenbahnfahrt."],
@@ -111,7 +119,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "agriculture",
     parent: "QA-KH",
     coords: [51.3411, 25.7538],
-    name: { de: "Baladna-Park", hu: "Baladna Park", ro: "Parcul Baladna", en: "Baladna Park" },
+    name: { de: "Baladna-Park", hu: "Baladna Park", ro: "Parcul Baladna", en: "Baladna Park",
+image: "/poi-images/qatar-baladna-park-life-v2.webp"
+},
     description: { de: "Der Baladna-Park ist ein landwirtschaftliches Erlebniszentrum, das Besuchern einen Einblick in die lokale Milch- und Lebensmittelproduktion bietet.", hu: "A Baladna Park egy mezőgazdasági élményközpont, amely bepillantást enged a helyi tej- és élelmiszertermelésbe a látogatók számára.", ro: "Parcul Baladna este un centru de experiență agricolă care oferă vizitatorilor o privire asupra producției locale de lactate și alimente.", en: "Baladna Park is an agricultural experience center that offers visitors a glimpse into local dairy and food production." },
     facts: {
       de: ["Zentrum der heimischen Milchproduktion.", "Bietet einen Streichelzoo.", "Besucher können das Melken beobachten.", "Verfügt über Gewächshäuser.", "Beliebt für Schulklassen."],
@@ -137,7 +147,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "agriculture",
     parent: "QA-SH",
     coords: [51.1891, 25.4057],
-    name: { de: "Heenat-Salma-Farm", hu: "Heenat Salma Farm", ro: "Ferma Heenat Salma", en: "Heenat Salma Farm" },
+    name: { de: "Heenat-Salma-Farm", hu: "Heenat Salma Farm", ro: "Ferma Heenat Salma", en: "Heenat Salma Farm",
+image: "/poi-images/qatar-heenat-salma-farm-life-v2.webp"
+},
     description: { de: "Die Heenat-Salma-Farm ist eine Vorzeigeinitiative für ökologischen Landbau in Katar und fördert nachhaltige Lebensweisen und traditionelles Handwerk.", hu: "A Heenat Salma Farm a katari ökológiai gazdálkodás kiemelt kezdeményezése, amely a fenntartható életmódot és a hagyományos kézművességet népszerűsíti.", ro: "Ferma Heenat Salma este o inițiativă emblematică pentru agricultura ecologică din Qatar, promovând moduri de viață durabile și meșteșugurile tradiționale.", en: "Heenat Salma Farm is a flagship initiative for organic farming in Qatar, promoting sustainable lifestyles and traditional crafts." },
     facts: {
       de: ["Fokus auf nachhaltige Landwirtschaft.", "Bietet Workshops zu Permakultur an.", "Baut Bio-Gemüse an.", "Verfügt über Eco-Zelte für Gäste.", "Unterstützt lokale Handwerker."],
@@ -163,7 +175,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "agriculture",
     parent: "QA-KH",
     coords: [51.3415, 25.6800],
-    name: { de: "Torba-Farm", hu: "Torba Farm", ro: "Ferma Torba", en: "Torba Farm" },
+    name: { de: "Torba-Farm", hu: "Torba Farm", ro: "Ferma Torba", en: "Torba Farm",
+image: "/poi-images/qatar-torba-farm-life-v2.webp"
+},
     description: { de: "Die Torba-Farm ist ein biodynamischer Bauernhof, der sich der Produktion von hochwertigen, natürlichen Lebensmitteln und der Förderung von Umweltbewusstsein widmet.", hu: "A Torba Farm egy biodinamikus gazdaság, amely magas minőségű, természetes élelmiszerek előállításának és a környezettudatosság előmozdításának szenteli magát.", ro: "Ferma Torba este o fermă biodinamică dedicată producerii de alimente naturale de înaltă calitate și promovării conștientizării mediului.", en: "Torba Farm is a biodynamic farm dedicated to producing high-quality, natural foods and promoting environmental awareness." },
     facts: {
       de: ["Setzt auf biodynamischen Anbau.", "Verkauft Produkte auf lokalen Märkten.", "Organisiert Farmführungen.", "Fördert das Konzept Farm to Table.", "Baut saisonales Gemüse an."],
@@ -189,7 +203,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "QA-SH",
     coords: [51.2789, 25.3789],
-    name: { de: "Al-Dosari-Zoo und Wildreservat", hu: "Al Dosari Állatkert és Vadrezervátum", ro: "Grădina Zoologică și Rezervația Al Dosari", en: "Al Dosari Zoo and Game Reserve" },
+    name: { de: "Al-Dosari-Zoo und Wildreservat", hu: "Al Dosari Állatkert és Vadrezervátum", ro: "Grădina Zoologică și Rezervația Al Dosari", en: "Al Dosari Zoo and Game Reserve",
+image: "/poi-images/qatar-al-dosari-zoo-life-v2.webp"
+},
     description: { de: "Der Al-Dosari-Zoo und das Wildreservat sind ein privates Tierparadies, das eine beeindruckende Vielfalt an exotischen Vögeln und afrikanischen Tieren bietet.", hu: "Az Al Dosari Állatkert és Vadrezervátum egy magánkézben lévő állatparadicsom, amely egzotikus madarak és afrikai állatok lenyűgöző sokszínűségét kínálja.", ro: "Grădina Zoologică și Rezervația Al Dosari sunt un paradis animalier privat care oferă o varietate impresionantă de păsări exotice și animale africane.", en: "Al Dosari Zoo and Game Reserve is a private animal paradise offering an impressive variety of exotic birds and African animals." },
     facts: {
       de: ["In Privatbesitz einer katarischen Familie.", "Beherbergt afrikanische Strauße.", "Verfügt über weitläufige Gehege.", "Bietet Safaris für Besucher.", "Mehr als 300 Tierarten."],
@@ -215,7 +231,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-DA",
     coords: [51.4336, 25.3188],
-    name: { de: "Oxygen-Park", hu: "Oxigén Park", ro: "Parcul Oxygen", en: "Oxygen Park" },
+    name: { de: "Oxygen-Park", hu: "Oxigén Park", ro: "Parcul Oxygen", en: "Oxygen Park",
+image: "/poi-images/qatar-oxygen-park-life-v2.webp"
+},
     description: { de: "Der Oxygen-Park in Education City ist als grüne Lunge konzipiert und bietet kühlende Fußgängerzonen und Laufstrecken für Studierende und die Öffentlichkeit.", hu: "Az Education City területén található Oxigén Park zöld tüdőként funkcionál, hűsítő sétálóutcákat és futópályákat kínálva a diákoknak és a nagyközönségnek.", ro: "Parcul Oxygen din Education City este conceput ca un plămân verde, oferind zone pietonale răcoroase și piste de alergare pentru studenți și public.", en: "Oxygen Park in Education City is designed as a green lung, offering cooling pedestrian zones and running tracks for students and the public." },
     facts: {
       de: ["Befindet sich in der Education City.", "Innovatives Kühlsystem im Park.", "Ideal für abendliches Joggen.", "Über 130.000 Quadratmeter groß.", "Fördert Gesundheit und Fitness."],
@@ -241,7 +259,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-DA",
     coords: [51.5273, 25.3582],
-    name: { de: "Katara Green Hills", hu: "Katara Zöld Dombok", ro: "Katara Green Hills", en: "Katara Green Hills" },
+    name: { de: "Katara Green Hills", hu: "Katara Zöld Dombok", ro: "Katara Green Hills", en: "Katara Green Hills",
+image: "/poi-images/qatar-katara-green-hills-life-v2.webp"
+},
     description: { de: "Die Katara Green Hills sind ein malerischer Landschaftsgarten oberhalb des Katara Cultural Village, der eine ruhige Flucht mit Panoramablick bietet.", hu: "A Katara Zöld Dombok festői tájkert a Katara Kulturális Falu felett, amely nyugodt menedéket és panorámás kilátást nyújt.", ro: "Katara Green Hills este o grădină pitorească situată deasupra Satului Cultural Katara, oferind o evadare liniștită cu vedere panoramică.", en: "Katara Green Hills is a picturesque landscaped garden above the Katara Cultural Village, offering a quiet escape with panoramic views." },
     facts: {
       de: ["Liegt über dem kulturellen Dorf Katara.", "Bietet einen 360-Grad-Blick.", "Üppig bepflanzt mit Bäumen.", "Perfekt für Fotografie.", "Bietet ruhige Spazierwege."],
@@ -267,7 +287,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "QA-WA",
     coords: [50.8122, 24.6366],
-    name: { de: "Desert Falls Wasser- und Abenteuerpark", hu: "Desert Falls Vízividámpark és Kalandpark", ro: "Parcul Acvatic și de Aventură Desert Falls", en: "Desert Falls Water and Adventure Park" },
+    name: { de: "Desert Falls Wasser- und Abenteuerpark", hu: "Desert Falls Vízividámpark és Kalandpark", ro: "Parcul Acvatic și de Aventură Desert Falls", en: "Desert Falls Water and Adventure Park",
+image: "/poi-images/qatar-desert-falls-waterpark-life-v2.webp"
+},
     description: { de: "Der Desert Falls Wasser- und Abenteuerpark ist einer der größten Freizeitparks im Nahen Osten, mit zahlreichen Rutschen und Attraktionen für die ganze Familie.", hu: "A Desert Falls Vízividámpark és Kalandpark a Közel-Kelet egyik legnagyobb vidámparkja, amely számtalan csúszdával és látványossággal várja a családokat.", ro: "Parcul Acvatic și de Aventură Desert Falls este unul dintre cele mai mari parcuri tematice din Orientul Mijlociu, cu numeroase tobogane și atracții.", en: "Desert Falls Water and Adventure Park is one of the largest theme parks in the Middle East, with numerous slides and attractions for the whole family." },
     facts: {
       de: ["Mehr als 50 Fahrgeschäfte und Rutschen.", "Integrierte Kartbahn.", "Bietet Canyoning-Erlebnisse.", "Teil eines großen Strandresorts.", "Ganzjährig geöffnet."],
@@ -293,7 +315,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.4344, 25.3905],
-    name: { de: "Angry Birds World", hu: "Angry Birds World", ro: "Angry Birds World", en: "Angry Birds World" },
+    name: { de: "Angry Birds World", hu: "Angry Birds World", ro: "Angry Birds World", en: "Angry Birds World",
+image: "/poi-images/qatar-angry-birds-world-life-v2.webp"
+},
     description: { de: "Angry Birds World ist ein Indoor- und Outdoor-Freizeitpark, der die beliebten Videospielcharaktere zum Leben erweckt und stundenlangen Spaß bietet.", hu: "Az Angry Birds World egy beltéri és kültéri vidámpark, amely életre kelti a népszerű videojáték-karaktereket, és órákig tartó szórakozást kínál.", ro: "Angry Birds World este un parc de distracții interior și exterior care dă viață personajelor populare din jocuri video și oferă ore întregi de distracție.", en: "Angry Birds World is an indoor and outdoor theme park that brings popular video game characters to life, offering hours of fun." },
     facts: {
       de: ["Erster Angry Birds Park der Welt.", "Verfügt über Indoor- und Outdoor-Bereiche.", "Bietet eine riesige Trampolinanlage.", "Beherbergt einen Kletterbaum.", "In der Doha Festival City gelegen."],
@@ -319,7 +343,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.4340, 25.3910],
-    name: { de: "Snow Dunes", hu: "Hódűnék Vidámpark", ro: "Snow Dunes", en: "Snow Dunes" },
+    name: { de: "Snow Dunes", hu: "Hódűnék Vidámpark", ro: "Snow Dunes", en: "Snow Dunes",
+image: "/poi-images/qatar-snow-dunes-life-v2.webp"
+},
     description: { de: "Snow Dunes ist ein Indoor-Schneepark in Katar, der bei eisigen Temperaturen winterliche Aktivitäten wie Rutschen und Schneeballschlachten ermöglicht.", hu: "A Hódűnék Vidámpark egy katari beltéri hópark, amely fagypont alatti hőmérsékleten kínál téli programokat, például csúszdázást és hógolyózást.", ro: "Snow Dunes este un parc de zăpadă interior din Qatar care permite activități de iarnă, cum ar fi alunecarea și bătăile cu bulgări la temperaturi sub zero.", en: "Snow Dunes is an indoor snow park in Qatar that allows winter activities like sliding and snowball fights in freezing temperatures." },
     facts: {
       de: ["Erzeugt echten Schnee bei -4 Grad.", "Inspiriert von lokalen Winterlegenden.", "Bietet schnelle Schneerutschen.", "Verfügt über ein Eislauf-Café.", "Ebenfalls in der Doha Festival City."],
@@ -346,7 +372,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.4300, 25.3850],
-    name: { de: "KidzMondo Doha", hu: "KidzMondo Doha", ro: "KidzMondo Doha", en: "KidzMondo Doha" },
+    name: { de: "KidzMondo Doha", hu: "KidzMondo Doha", ro: "KidzMondo Doha", en: "KidzMondo Doha",
+image: "/poi-images/qatar-kidzmondo-doha-life-v2.webp"
+},
     description: { de: "KidzMondo Doha ist eine interaktive Miniaturstadt, in der Kinder spielerisch verschiedene Berufe und das Erwachsenenleben ausprobieren können.", hu: "A KidzMondo Doha egy interaktív miniatűr város, ahol a gyerekek játékosan próbálhatnak ki különböző szakmákat és a felnőttek életét.", ro: "KidzMondo Doha este un oraș în miniatură interactiv unde copiii pot încerca în mod jucăuș diverse profesii și viața de adult.", en: "KidzMondo Doha is an interactive miniature city where children can playfully try out various professions and adult life." },
     facts: {
       de: ["Über 80 verschiedene Berufe für Kinder.", "Hat eine eigene Währung (Kidlar).", "Sicherer und überwachter Bereich.", "Fördert Kreativität und Lernen.", "In der Mall of Qatar gelegen."],
@@ -372,7 +400,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.5471, 25.3725],
-    name: { de: "Megapolis Unterhaltungszentrum", hu: "Megapolis Szórakoztató Központ", ro: "Centrul de Divertisment Megapolis", en: "Megapolis Entertainment Center" },
+    name: { de: "Megapolis Unterhaltungszentrum", hu: "Megapolis Szórakoztató Központ", ro: "Centrul de Divertisment Megapolis", en: "Megapolis Entertainment Center",
+image: "/poi-images/qatar-megapolis-entertainment-life-v2.webp"
+},
     description: { de: "Das Megapolis Entertainment Center bietet hochmoderne Arcade-Spiele, Bowling und Escape-Rooms für Jugendliche und Erwachsene in The Pearl.", hu: "A Megapolis Szórakoztató Központ a legmodernebb játéktermi játékokat, bowlingot és szabadulószobákat kínál fiataloknak és felnőtteknek a The Pearl területén.", ro: "Centrul de Divertisment Megapolis oferă jocuri arcade de ultimă generație, bowling și camere de evadare pentru tineri și adulți din The Pearl.", en: "The Megapolis Entertainment Center offers state-of-the-art arcade games, bowling, and escape rooms for youth and adults in The Pearl." },
     facts: {
       de: ["Indoor-Entertainment-Komplex.", "Verfügt über moderne VR-Spiele.", "Bietet Karaoke-Räume.", "Ideal für Teenager.", "Befindet sich auf The Pearl-Qatar."],
@@ -398,7 +428,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-DA",
     coords: [51.5284, 25.3182],
-    name: { de: "Hotel-Park Doha", hu: "Hotel Park Doha", ro: "Parcul Hotelului Doha", en: "Hotel Park Doha" },
+    name: { de: "Hotel-Park Doha", hu: "Hotel Park Doha", ro: "Parcul Hotelului Doha", en: "Hotel Park Doha",
+image: "/poi-images/qatar-hotel-park-doha-life-v2.webp"
+},
     description: { de: "Der Hotel-Park im Stadtzentrum bietet gepflegte Rasenflächen, Wasserspiele und eine hervorragende Umgebung für Picknicks vor beeindruckender Kulisse.", hu: "A városközpontban található Hotel Park gondozott pázsitokat, szökőkutakat és kiváló környezetet kínál a piknikezéshez, lenyűgöző háttérrel.", ro: "Parcul Hotelului din centrul orașului oferă peluze îngrijite, caracteristici de apă și un mediu excelent pentru picnicuri cu un fundal impresionant.", en: "The Hotel Park in the city center offers manicured lawns, water features, and an excellent environment for picnics against an impressive backdrop." },
     facts: {
       de: ["Liegt hinter dem Sheraton Hotel.", "Verfügt über große Springbrunnen.", "Hat ein 24-Stunden-Sicherheitssystem.", "Sehr beliebter Ort für Familien.", "Bietet Spielplätze und Fitnessgeräte."],
@@ -424,7 +456,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-US",
     coords: [51.4286, 25.4389],
-    name: { de: "Olympischer Park Barzan", hu: "Barzan Olimpiai Park", ro: "Parcul Olimpic Barzan", en: "Barzan Olympic Park" },
+    name: { de: "Olympischer Park Barzan", hu: "Barzan Olimpiai Park", ro: "Parcul Olimpic Barzan", en: "Barzan Olympic Park",
+image: "/poi-images/qatar-barzan-olympic-park-life-v2.webp"
+},
     description: { de: "Der Olympische Park Barzan bietet erstklassige Sportanlagen und große Grünflächen für die Bewohner von Umm Salal und der umliegenden Gebiete.", hu: "A Barzan Olimpiai Park első osztályú sportlétesítményeket és nagy zöldterületeket kínál Umm Salal és a környező területek lakói számára.", ro: "Parcul Olimpic Barzan oferă facilități sportive de primă clasă și spații verzi mari pentru rezidenții din Umm Salal și zonele înconjurătoare.", en: "Barzan Olympic Park offers world-class sports facilities and large green spaces for the residents of Umm Salal and surrounding areas." },
     facts: {
       de: ["Verschiedene Sportplätze vorhanden.", "Besitzt Miniaturmodelle katarischer Gebäude.", "Spezielle Radwege integriert.", "Verfügt über Tischtennistische.", "Guter Ort für Gemeindesport."],
@@ -450,7 +484,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "park",
     parent: "QA-WA",
     coords: [51.6033, 25.1764],
-    name: { de: "Öffentlicher Garten von Al Wakrah", hu: "Al Wakrah Nyilvános Kert", ro: "Grădina Publică Al Wakrah", en: "Al Wakrah Public Garden" },
+    name: { de: "Öffentlicher Garten von Al Wakrah", hu: "Al Wakrah Nyilvános Kert", ro: "Grădina Publică Al Wakrah", en: "Al Wakrah Public Garden",
+image: "/poi-images/qatar-al-wakrah-public-garden-life-v2.webp"
+},
     description: { de: "Der öffentliche Garten von Al Wakrah ist eine friedliche Oase in der Küstenstadt, die mit schönen Blumenbeeten und schattigen Sitzbereichen lockt.", hu: "Az Al Wakrah Nyilvános Kert egy békés oázis a tengerparti városban, amely gyönyörű virágágyásokkal és árnyékos ülőhelyekkel csábít.", ro: "Grădina Publică Al Wakrah este o oază liniștită în orașul de coastă care atrage cu paturi frumoase de flori și zone de relaxare umbrite.", en: "Al Wakrah Public Garden is a peaceful oasis in the coastal town that attracts with beautiful flower beds and shaded seating areas." },
     facts: {
       de: ["Viele heimische Baumarten.", "Bietet einen großen Kinderspielplatz.", "Bekannt für seine Blumendekorationen.", "Nahe dem Strand von Al Wakrah.", "Ein ruhiger Rückzugsort."],
@@ -476,7 +512,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "agriculture",
     parent: "QA-MS",
     coords: [51.2185, 25.9620],
-    name: { de: "North Sedra Farm", hu: "North Sedra Farm", ro: "Ferma North Sedra", en: "North Sedra Farm" },
+    name: { de: "North Sedra Farm", hu: "North Sedra Farm", ro: "Ferma North Sedra", en: "North Sedra Farm",
+image: "/poi-images/qatar-north-sedra-farm-life-v2.webp"
+},
     description: { de: "Die North Sedra Farm bietet agrotouristische Erlebnisse und vermittelt Besuchern die traditionelle Lebensweise der Landwirte im Norden Katars.", hu: "A North Sedra Farm agroturisztikai élményeket kínál, és bemutatja a látogatóknak az észak-katari gazdák hagyományos életmódját.", ro: "Ferma North Sedra oferă experiențe agroturistice și învață vizitatorii despre modul tradițional de viață al fermierilor din nordul Qatarului.", en: "North Sedra Farm offers agrotourism experiences and teaches visitors about the traditional way of life of farmers in northern Qatar." },
     facts: {
       de: ["Beliebtes Ziel für Schulklassen.", "Bietet traditionelle Mahlzeiten an.", "Besucher können Tiere füttern.", "Fördert das katarische Erbe.", "Verfügt über historische Artefakte."],
@@ -502,7 +540,9 @@ export const poiExtraQatarLifeV2: POI[] = [
     type: "agriculture",
     parent: "QA-DA",
     coords: [51.4055, 25.3622],
-    name: { de: "Al-Sulaiteen-Farm", hu: "Al Sulaiteen Farm", ro: "Ferma Al Sulaiteen", en: "Al Sulaiteen Farm" },
+    name: { de: "Al-Sulaiteen-Farm", hu: "Al Sulaiteen Farm", ro: "Ferma Al Sulaiteen", en: "Al Sulaiteen Farm",
+image: "/poi-images/qatar-al-sulaiteen-farm-life-v2.webp"
+},
     description: { de: "Die Al-Sulaiteen-Farm ist einer der größten landwirtschaftlichen Komplexe in Katar, spezialisiert auf den Anbau von Gemüse und Zierpflanzen.", hu: "Az Al Sulaiteen Farm Katar egyik legnagyobb mezőgazdasági komplexuma, amely zöldségek és dísznövények termesztésére specializálódott.", ro: "Ferma Al Sulaiteen este unul dintre cele mai mari complexe agricole din Qatar, specializat în cultivarea legumelor și plantelor ornamentale.", en: "Al Sulaiteen Farm is one of the largest agricultural complexes in Qatar, specializing in the cultivation of vegetables and ornamental plants." },
     facts: {
       de: ["Nutzt moderne Gewächshaustechnik.", "Bietet saisonale Blumenmärkte.", "Fokussiert auf Lebensmittelsicherheit.", "Eines der ältesten Agrarunternehmen Katars.", "Verkauft Pflanzen für den Gartenbau."],

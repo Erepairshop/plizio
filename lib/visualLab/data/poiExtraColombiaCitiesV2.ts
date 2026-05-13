@@ -7,7 +7,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-AMA",
     coords: [-69.9406, -4.2153],
-    name: { de: "Leticia", hu: "Leticia", ro: "Leticia", en: "Leticia" },
+    name: { de: "Leticia", hu: "Leticia", ro: "Leticia", en: "Leticia",
+image: "/poi-images/leticia-cities-v2.webp"
+},
     description: {
       de: "Grenzstadt am Amazonas im äußersten Süden.",
       hu: "Határváros az Amazonas mentén az ország legdélibb pontján.",
@@ -45,7 +47,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-ANT",
     coords: [-75.5658, 6.2442],
-    name: { de: "Medellín", hu: "Medellín", ro: "Medellín", en: "Medellín" },
+    name: { de: "Medellín", hu: "Medellín", ro: "Medellín", en: "Medellín",
+image: "/poi-images/medellin-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt des Landes, Stadt des ewigen Frühlings.",
       hu: "Az ország második legnagyobb városa, az örök tavasz városa.",
@@ -85,7 +89,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-ARA",
     coords: [-70.7617, 7.0847],
-    name: { de: "Arauca", hu: "Arauca", ro: "Arauca", en: "Arauca" },
+    name: { de: "Arauca", hu: "Arauca", ro: "Arauca", en: "Arauca",
+image: "/poi-images/arauca-cities-v2.webp"
+},
     description: {
       de: "Wichtige Erdölstadt an der Grenze zu Venezuela.",
       hu: "Fontos kőolajipari város a venezuelai határon.",
@@ -125,7 +131,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-ATL",
     coords: [-74.7964, 10.9639],
-    name: { de: "Barranquilla", hu: "Barranquilla", ro: "Barranquilla", en: "Barranquilla" },
+    name: { de: "Barranquilla", hu: "Barranquilla", ro: "Barranquilla", en: "Barranquilla",
+image: "/poi-images/barranquilla-cities-v2.webp"
+},
     description: {
       de: "Bedeutende Hafenstadt an der Karibikküste.",
       hu: "Jelentős kikötőváros a Karib-tenger partján.",
@@ -165,7 +173,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-BOL",
     coords: [-75.528, 10.3997],
-    name: { de: "Cartagena", hu: "Cartagena", ro: "Cartagena", en: "Cartagena" },
+    name: { de: "Cartagena", hu: "Cartagena", ro: "Cartagena", en: "Cartagena",
+image: "/poi-images/cartagena-cities-v2.webp"
+},
     description: {
       de: "Historische Kolonialstadt und Touristenziel.",
       hu: "Történelmi gyarmati város és turisztikai célpont.",
@@ -205,7 +215,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-BOY",
     coords: [-73.3614, 5.5353],
-    name: { de: "Tunja", hu: "Tunja", ro: "Tunja", en: "Tunja" },
+    name: { de: "Tunja", hu: "Tunja", ro: "Tunja", en: "Tunja",
+image: "/poi-images/tunja-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten und höchstgelegenen Städte.",
       hu: "Az ország egyik legrégebbi és legmagasabban fekvő városa.",
@@ -245,7 +257,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-CAL",
     coords: [-75.5183, 5.0689],
-    name: { de: "Manizales", hu: "Manizales", ro: "Manizales", en: "Manizales" },
+    name: { de: "Manizales", hu: "Manizales", ro: "Manizales", en: "Manizales",
+image: "/poi-images/manizales-cities-v2.webp"
+},
     description: {
       de: "Zentrum des kolumbianischen Kaffeeanbaugebiets.",
       hu: "A kolumbiai kávétermelő vidék központja.",
@@ -285,7 +299,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-CAQ",
     coords: [-75.6139, 1.6144],
-    name: { de: "Florencia", hu: "Florencia", ro: "Florencia", en: "Florencia" },
+    name: { de: "Florencia", hu: "Florencia", ro: "Florencia", en: "Florencia",
+image: "/poi-images/florencia-cities-v2.webp"
+},
     description: {
       de: "Handelsplatz im Übergangsgebiet zum Amazonas.",
       hu: "Kereskedelmi központ az Amazonas átmeneti övezetében.",
@@ -325,7 +341,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-CAS",
     coords: [-72.3959, 5.3378],
-    name: { de: "Yopal", hu: "Yopal", ro: "Yopal", en: "Yopal" },
+    name: { de: "Yopal", hu: "Yopal", ro: "Yopal", en: "Yopal",
+image: "/poi-images/yopal-cities-v2.webp"
+},
     description: {
       de: "Schnell wachsende Stadt in den Llanos.",
       hu: "Gyorsan növekvő város a keleti síkságon.",
@@ -365,7 +383,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-CAU",
     coords: [-76.6063, 2.4382],
-    name: { de: "Popayán", hu: "Popayán", ro: "Popayán", en: "Popayán" },
+    name: { de: "Popayán", hu: "Popayán", ro: "Popayán", en: "Popayán",
+image: "/poi-images/popayan-cities-v2.webp"
+},
     description: {
       de: "Berühmt für weiß gestrichene Kolonialbauten.",
       hu: "Híres fehérre festett gyarmati épületeiről.",
@@ -405,7 +425,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-CES",
     coords: [-73.2532, 10.4631],
-    name: { de: "Valledupar", hu: "Valledupar", ro: "Valledupar", en: "Valledupar" },
+    name: { de: "Valledupar", hu: "Valledupar", ro: "Valledupar", en: "Valledupar",
+image: "/poi-images/valledupar-cities-v2.webp"
+},
     description: {
       de: "Das musikalische Herz der Vallenato-Musik.",
       hu: "A hagyományos vallenato zene szíve.",
@@ -443,7 +465,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-CHO",
     coords: [-76.6583, 5.6947],
-    name: { de: "Quibdó", hu: "Quibdó", ro: "Quibdó", en: "Quibdó" },
+    name: { de: "Quibdó", hu: "Quibdó", ro: "Quibdó", en: "Quibdó",
+image: "/poi-images/quibdo-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt mit starkem afro-kolumbianischem Einfluss.",
       hu: "Erős afrokolumbiai hatású főváros az Atrato folyónál.",
@@ -483,7 +507,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-COR",
     coords: [-75.8814, 8.748],
-    name: { de: "Montería", hu: "Montería", ro: "Montería", en: "Montería" },
+    name: { de: "Montería", hu: "Montería", ro: "Montería", en: "Montería",
+image: "/poi-images/monteria-cities-v2.webp"
+},
     description: {
       de: "Die landwirtschaftliche Hauptstadt am Río Sinú.",
       hu: "A Sinú folyó partján fekvő mezőgazdasági főváros.",
@@ -523,7 +549,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-DC",
     coords: [-74.0721, 4.711],
-    name: { de: "Bogotá", hu: "Bogotá", ro: "Bogotá", en: "Bogotá" },
+    name: { de: "Bogotá", hu: "Bogotá", ro: "Bogotá", en: "Bogotá",
+image: "/poi-images/bogota-cities-v2.webp"
+},
     description: {
       de: "Die hoch gelegene Hauptstadt und kulturelles Zentrum.",
       hu: "Az ország magasan fekvő fővárosa és kulturális központja.",
@@ -563,7 +591,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-GUA",
     coords: [-67.9239, 3.8653],
-    name: { de: "Inírida", hu: "Inírida", ro: "Inírida", en: "Inírida" },
+    name: { de: "Inírida", hu: "Inírida", ro: "Inírida", en: "Inírida",
+image: "/poi-images/inirida-cities-v2.webp"
+},
     description: {
       de: "Abgelegene Stadt im Amazonasgebiet.",
       hu: "Félreeső város az Amazonas-vidéken.",
@@ -601,7 +631,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-GUV",
     coords: [-72.6393, 2.5729],
-    name: { de: "San José del Guaviare", hu: "San José del Guaviare", ro: "San José del Guaviare", en: "San José del Guaviare" },
+    name: { de: "San José del Guaviare", hu: "San José del Guaviare", ro: "San José del Guaviare", en: "San José del Guaviare",
+image: "/poi-images/san-jose-del-guaviare-cities-v2.webp"
+},
     description: {
       de: "Wichtiges Tor zum tiefen Dschungelgebiet.",
       hu: "Fontos kapu a mély dzsungelvidék felé.",
@@ -639,7 +671,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-HUI",
     coords: [-75.2951, 2.9273],
-    name: { de: "Neiva", hu: "Neiva", ro: "Neiva", en: "Neiva" },
+    name: { de: "Neiva", hu: "Neiva", ro: "Neiva", en: "Neiva",
+image: "/poi-images/neiva-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Provinz Huila am Magdalena-Fluss.",
       hu: "Huila tartomány fővárosa a Magdalena folyó mentén.",
@@ -677,7 +711,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-LAG",
     coords: [-72.9072, 11.5444],
-    name: { de: "Riohacha", hu: "Riohacha", ro: "Riohacha", en: "Riohacha" },
+    name: { de: "Riohacha", hu: "Riohacha", ro: "Riohacha", en: "Riohacha",
+image: "/poi-images/riohacha-cities-v2.webp"
+},
     description: {
       de: "Die wichtigste Stadt der Wüstenhalbinsel La Guajira.",
       hu: "A La Guajira sivatagi félsziget legfontosabb városa.",
@@ -715,7 +751,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-MAG",
     coords: [-74.199, 11.2408],
-    name: { de: "Santa Marta", hu: "Santa Marta", ro: "Santa Marta", en: "Santa Marta" },
+    name: { de: "Santa Marta", hu: "Santa Marta", ro: "Santa Marta", en: "Santa Marta",
+image: "/poi-images/santa-marta-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten bestehenden Städte Südamerikas.",
       hu: "Dél-Amerika egyik legrégebben fennálló városa.",
@@ -753,7 +791,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-MET",
     coords: [-73.6266, 4.142],
-    name: { de: "Villavicencio", hu: "Villavicencio", ro: "Villavicencio", en: "Villavicencio" },
+    name: { de: "Villavicencio", hu: "Villavicencio", ro: "Villavicencio", en: "Villavicencio",
+image: "/poi-images/villavicencio-cities-v2.webp"
+},
     description: {
       de: "Das Tor zu den weiten Ebenen im Osten des Landes.",
       hu: "Kapu az ország keleti részén elterülő síkságokhoz.",
@@ -791,7 +831,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-NAR",
     coords: [-77.2811, 1.2136],
-    name: { de: "Pasto", hu: "Pasto", ro: "Pasto", en: "Pasto" },
+    name: { de: "Pasto", hu: "Pasto", ro: "Pasto", en: "Pasto",
+image: "/poi-images/pasto-cities-v2.webp"
+},
     description: {
       de: "Hoch gelegene Stadt im Süden, berühmt für ihren Karneval.",
       hu: "Magasan fekvő város délen, mely karneváljáról híres.",
@@ -829,7 +871,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-NSA",
     coords: [-72.5053, 7.8939],
-    name: { de: "Cúcuta", hu: "Cúcuta", ro: "Cúcuta", en: "Cúcuta" },
+    name: { de: "Cúcuta", hu: "Cúcuta", ro: "Cúcuta", en: "Cúcuta",
+image: "/poi-images/cucuta-cities-v2.webp"
+},
     description: {
       de: "Bedeutende Grenzstadt im Nordosten des Landes.",
       hu: "Jelentős határváros az ország északkeleti részén.",
@@ -867,7 +911,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-PUT",
     coords: [-76.6479, 1.1479],
-    name: { de: "Mocoa", hu: "Mocoa", ro: "Mocoa", en: "Mocoa" },
+    name: { de: "Mocoa", hu: "Mocoa", ro: "Mocoa", en: "Mocoa",
+image: "/poi-images/mocoa-cities-v2.webp"
+},
     description: {
       de: "Kleine Hauptstadt im Amazonas-Vorland.",
       hu: "Kis főváros az Amazonas előterében.",
@@ -905,7 +951,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-QUI",
     coords: [-75.6811, 4.5339],
-    name: { de: "Armenia", hu: "Armenia", ro: "Armenia", en: "Armenia" },
+    name: { de: "Armenia", hu: "Armenia", ro: "Armenia", en: "Armenia",
+image: "/poi-images/armenia-cities-v2.webp"
+},
     description: {
       de: "Zentrale Stadt im berühmten Kaffee-Dreieck.",
       hu: "Központi város a híres Kávé-háromszögben.",
@@ -943,7 +991,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-RIS",
     coords: [-75.6961, 4.8133],
-    name: { de: "Pereira", hu: "Pereira", ro: "Pereira", en: "Pereira" },
+    name: { de: "Pereira", hu: "Pereira", ro: "Pereira", en: "Pereira",
+image: "/poi-images/pereira-cities-v2.webp"
+},
     description: {
       de: "Wichtigstes wirtschaftliches Zentrum der Kaffeeachse.",
       hu: "A kávétengely legfontosabb gazdasági központja.",
@@ -981,7 +1031,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-SAP",
     coords: [-81.7006, 12.5847],
-    name: { de: "San Andrés", hu: "San Andrés", ro: "San Andrés", en: "San Andrés" },
+    name: { de: "San Andrés", hu: "San Andrés", ro: "San Andrés", en: "San Andrés",
+image: "/poi-images/san-andres-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der karibischen Inselgruppe Kolumbiens.",
       hu: "Kolumbia karibi szigetcsoportjának fővárosa.",
@@ -1017,7 +1069,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-SAN",
     coords: [-73.1198, 7.1254],
-    name: { de: "Bucaramanga", hu: "Bucaramanga", ro: "Bucaramanga", en: "Bucaramanga" },
+    name: { de: "Bucaramanga", hu: "Bucaramanga", ro: "Bucaramanga", en: "Bucaramanga",
+image: "/poi-images/bucaramanga-cities-v2.webp"
+},
     description: {
       de: "Auch bekannt als die Stadt der Parks.",
       hu: "A parkok városaként is ismert település.",
@@ -1053,7 +1107,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-SUC",
     coords: [-75.3952, 9.3047],
-    name: { de: "Sincelejo", hu: "Sincelejo", ro: "Sincelejo", en: "Sincelejo" },
+    name: { de: "Sincelejo", hu: "Sincelejo", ro: "Sincelejo", en: "Sincelejo",
+image: "/poi-images/sincelejo-cities-v2.webp"
+},
     description: {
       de: "Bekannt für traditionelle Feste in der Karibikregion.",
       hu: "A karibi régióban hagyományos fesztiváljairól ismert.",
@@ -1089,7 +1145,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-TOL",
     coords: [-75.2322, 4.4389],
-    name: { de: "Ibagué", hu: "Ibagué", ro: "Ibagué", en: "Ibagué" },
+    name: { de: "Ibagué", hu: "Ibagué", ro: "Ibagué", en: "Ibagué",
+image: "/poi-images/ibague-cities-v2.webp"
+},
     description: {
       de: "Wird oft als Musikhauptstadt Kolumbiens bezeichnet.",
       hu: "Gyakran Kolumbia zenei fővárosának nevezik.",
@@ -1125,7 +1183,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-VAC",
     coords: [-76.532, 3.4516],
-    name: { de: "Cali", hu: "Cali", ro: "Cali", en: "Cali" },
+    name: { de: "Cali", hu: "Cali", ro: "Cali", en: "Cali",
+image: "/poi-images/cali-cities-v2.webp"
+},
     description: {
       de: "Die drittgrößte Stadt und weltweite Hauptstadt des Salsa.",
       hu: "A harmadik legnagyobb város és a salsa világfővárosa.",
@@ -1163,7 +1223,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-VAU",
     coords: [-70.1733, 1.2533],
-    name: { de: "Mitú", hu: "Mitú", ro: "Mitú", en: "Mitú" },
+    name: { de: "Mitú", hu: "Mitú", ro: "Mitú", en: "Mitú",
+image: "/poi-images/mitu-cities-v2.webp"
+},
     description: {
       de: "Eine isolierte Stadt im Herzen des Amazonas-Regenwalds.",
       hu: "Elszigetelt város az Amazonas esőerdő szívében.",
@@ -1199,7 +1261,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CO-VIC",
     coords: [-67.4764, 6.189],
-    name: { de: "Puerto Carreño", hu: "Puerto Carreño", ro: "Puerto Carreño", en: "Puerto Carreño" },
+    name: { de: "Puerto Carreño", hu: "Puerto Carreño", ro: "Puerto Carreño", en: "Puerto Carreño",
+image: "/poi-images/puerto-carreno-cities-v2.webp"
+},
     description: {
       de: "Grenzstadt am Río Orinoco an der Grenze zu Venezuela.",
       hu: "Határváros az Orinoco folyónál, a venezuelai határon.",
@@ -1235,7 +1299,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ATL",
     coords: [-74.7814, 10.9184],
-    name: { de: "Soledad", hu: "Soledad", ro: "Soledad", en: "Soledad" },
+    name: { de: "Soledad", hu: "Soledad", ro: "Soledad", en: "Soledad",
+image: "/poi-images/soledad-cities-v2.webp"
+},
     description: {
       de: "Bevölkerungsreiche Gemeinde, die eng mit Barranquilla verbunden ist.",
       hu: "Népes község, amely szorosan kapcsolódik Barranquillához.",
@@ -1271,7 +1337,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-CUN",
     coords: [-74.2173, 4.5778],
-    name: { de: "Soacha", hu: "Soacha", ro: "Soacha", en: "Soacha" },
+    name: { de: "Soacha", hu: "Soacha", ro: "Soacha", en: "Soacha",
+image: "/poi-images/soacha-cities-v2.webp"
+},
     description: {
       de: "Große Vorstadt von Bogotá mit reicher indigener Geschichte.",
       hu: "Bogotá nagy külvárosa gazdag őslakos történelemmel.",
@@ -1307,7 +1375,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-75.558, 6.3373],
-    name: { de: "Bello", hu: "Bello", ro: "Bello", en: "Bello" },
+    name: { de: "Bello", hu: "Bello", ro: "Bello", en: "Bello",
+image: "/poi-images/bello-cities-v2.webp"
+},
     description: {
       de: "Bedeutendes Industriezentrum nördlich von Medellín.",
       hu: "Jelentős ipari központ Medellíntől északra.",
@@ -1343,7 +1413,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-76.3036, 3.5394],
-    name: { de: "Palmira", hu: "Palmira", ro: "Palmira", en: "Palmira" },
+    name: { de: "Palmira", hu: "Palmira", ro: "Palmira", en: "Palmira",
+image: "/poi-images/palmira-cities-v2.webp"
+},
     description: {
       de: "Wird wegen ihrer Landwirtschaft die Agrarhauptstadt Kolumbiens genannt.",
       hu: "Mezőgazdasága miatt Kolumbia agrárfővárosának nevezik.",
@@ -1379,7 +1451,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-77.0312, 3.8801],
-    name: { de: "Buenaventura", hu: "Buenaventura", ro: "Buenaventura", en: "Buenaventura" },
+    name: { de: "Buenaventura", hu: "Buenaventura", ro: "Buenaventura", en: "Buenaventura",
+image: "/poi-images/buenaventura-cities-v2.webp"
+},
     description: {
       de: "Der wichtigste Seehafen Kolumbiens am Pazifischen Ozean.",
       hu: "Kolumbia legfontosabb tengeri kikötője a Csendes-óceánon.",
@@ -1415,7 +1489,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-76.1983, 4.0846],
-    name: { de: "Tuluá", hu: "Tuluá", ro: "Tuluá", en: "Tuluá" },
+    name: { de: "Tuluá", hu: "Tuluá", ro: "Tuluá", en: "Tuluá",
+image: "/poi-images/tulua-cities-v2.webp"
+},
     description: {
       de: "Zentral gelegene Stadt im Valle del Cauca, bekannt als das Herz des Tals.",
       hu: "Központi fekvésű város a Valle del Cauca-ban, a völgy szíveként ismert.",
@@ -1451,7 +1527,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-SAN",
     coords: [-73.0864, 7.0622],
-    name: { de: "Floridablanca", hu: "Floridablanca", ro: "Floridablanca", en: "Floridablanca" },
+    name: { de: "Floridablanca", hu: "Floridablanca", ro: "Floridablanca", en: "Floridablanca",
+image: "/poi-images/floridablanca-cities-v2.webp"
+},
     description: {
       de: "Südlicher Vorort von Bucaramanga, berühmt für seine Süßigkeiten.",
       hu: "Bucaramanga déli külvárosa, amely édességeiről híres.",
@@ -1487,7 +1565,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-SAN",
     coords: [-73.8543, 7.0653],
-    name: { de: "Barrancabermeja", hu: "Barrancabermeja", ro: "Barrancabermeja", en: "Barrancabermeja" },
+    name: { de: "Barrancabermeja", hu: "Barrancabermeja", ro: "Barrancabermeja", en: "Barrancabermeja",
+image: "/poi-images/barrancabermeja-cities-v2.webp"
+},
     description: {
       de: "Die wichtigste Raffineriestadt Kolumbiens am Río Magdalena.",
       hu: "Kolumbia legfontosabb finomítóvárosa a Magdalena folyó mentén.",
@@ -1523,7 +1603,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-75.588, 6.1759],
-    name: { de: "Envigado", hu: "Envigado", ro: "Envigado", en: "Envigado" },
+    name: { de: "Envigado", hu: "Envigado", ro: "Envigado", en: "Envigado",
+image: "/poi-images/envigado-cities-v2.webp"
+},
     description: {
       de: "Südlich an Medellín grenzende Gemeinde mit hoher Lebensqualität.",
       hu: "Medellínnel délről határos, magas életminőségű község.",
@@ -1559,7 +1641,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-75.6136, 6.173],
-    name: { de: "Itagüí", hu: "Itagüí", ro: "Itagüí", en: "Itagüí" },
+    name: { de: "Itagüí", hu: "Itagüí", ro: "Itagüí", en: "Itagüí",
+image: "/poi-images/itagui-cities-v2.webp"
+},
     description: {
       de: "Eine der am stärksten industrialisierten Städte in Antioquia.",
       hu: "Antioquia egyik legiparosodottabb városa.",
@@ -1595,7 +1679,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-RIS",
     coords: [-75.6703, 4.8329],
-    name: { de: "Dosquebradas", hu: "Dosquebradas", ro: "Dosquebradas", en: "Dosquebradas" },
+    name: { de: "Dosquebradas", hu: "Dosquebradas", ro: "Dosquebradas", en: "Dosquebradas",
+image: "/poi-images/dosquebradas-cities-v2.webp"
+},
     description: {
       de: "Industrielle Schwesterstadt von Pereira in der Kaffeeachse.",
       hu: "Pereira ipari testvérvárosa a kávétengelyen.",
@@ -1631,7 +1717,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-75.3736, 6.1551],
-    name: { de: "Rionegro", hu: "Rionegro", ro: "Rionegro", en: "Rionegro" },
+    name: { de: "Rionegro", hu: "Rionegro", ro: "Rionegro", en: "Rionegro",
+image: "/poi-images/rionegro-cities-v2.webp"
+},
     description: {
       de: "Wichtige Stadt im Osten Antioquias mit dem internationalen Flughafen.",
       hu: "Fontos város Kelet-Antioquiában, itt található a nemzetközi repülőtér.",
@@ -1667,7 +1755,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-75.9145, 4.7464],
-    name: { de: "Cartago", hu: "Cartago", ro: "Cartago", en: "Cartago" },
+    name: { de: "Cartago", hu: "Cartago", ro: "Cartago", en: "Cartago",
+image: "/poi-images/cartago-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die Sonnenstadt mit kolonialer Architektur.",
       hu: "Napvárosként ismert település gyarmati építészettel.",
@@ -1703,7 +1793,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-SAN",
     coords: [-73.1691, 7.0673],
-    name: { de: "Girón", hu: "Girón", ro: "Girón", en: "Girón" },
+    name: { de: "Girón", hu: "Girón", ro: "Girón", en: "Girón",
+image: "/poi-images/giron-cities-v2.webp"
+},
     description: {
       de: "Nationale Denkmalstadt mit weiß getünchten kolonialen Häusern.",
       hu: "Fehérre meszelt gyarmati házakkal teli nemzeti műemlékváros.",
@@ -1737,7 +1829,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-CUN",
     coords: [-74.3545, 4.8144],
-    name: { de: "Facatativá", hu: "Facatativá", ro: "Facatativá", en: "Facatativá" },
+    name: { de: "Facatativá", hu: "Facatativá", ro: "Facatativá", en: "Facatativá",
+image: "/poi-images/facatativa-cities-v2.webp"
+},
     description: {
       de: "Agrar- und Industriestadt in der Nähe von Bogotá.",
       hu: "Agrár- és iparváros Bogotá közelében.",
@@ -1771,7 +1865,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-BOY",
     coords: [-73.0294, 5.8234],
-    name: { de: "Duitama", hu: "Duitama", ro: "Duitama", en: "Duitama" },
+    name: { de: "Duitama", hu: "Duitama", ro: "Duitama", en: "Duitama",
+image: "/poi-images/duitama-cities-v2.webp"
+},
     description: {
       de: "Wichtiges Transport- und Handelszentrum in der Region Boyacá.",
       hu: "Fontos közlekedési és kereskedelmi központ Boyacá régióban.",
@@ -1805,7 +1901,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-BOL",
     coords: [-74.7523, 9.2435],
-    name: { de: "Magangué", hu: "Magangué", ro: "Magangué", en: "Magangué" },
+    name: { de: "Magangué", hu: "Magangué", ro: "Magangué", en: "Magangué",
+image: "/poi-images/magangue-cities-v2.webp"
+},
     description: {
       de: "Zweitgrößte Stadt im Departamento Bolívar am Río Magdalena.",
       hu: "A második legnagyobb város Bolívar megyében a Magdalena folyónál.",
@@ -1839,7 +1937,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-CUN",
     coords: [-74.0016, 5.0264],
-    name: { de: "Zipaquirá", hu: "Zipaquirá", ro: "Zipaquirá", en: "Zipaquirá" },
+    name: { de: "Zipaquirá", hu: "Zipaquirá", ro: "Zipaquirá", en: "Zipaquirá",
+image: "/poi-images/zipaquira-cities-v2.webp"
+},
     description: {
       de: "Historische Stadt, die für ihre unterirdische Salzkathedrale weltberühmt ist.",
       hu: "Történelmi város, amely a föld alatti sókatedrálisáról világhírű.",
@@ -1873,7 +1973,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-SAN",
     coords: [-73.0487, 6.9877],
-    name: { de: "Piedecuesta", hu: "Piedecuesta", ro: "Piedecuesta", en: "Piedecuesta" },
+    name: { de: "Piedecuesta", hu: "Piedecuesta", ro: "Piedecuesta", en: "Piedecuesta",
+image: "/poi-images/piedecuesta-cities-v2.webp"
+},
     description: {
       de: "Bekannt für den Anbau von Brombeeren und Tabak.",
       hu: "A szeder és a dohány termesztéséről ismert.",
@@ -1907,7 +2009,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ATL",
     coords: [-74.7675, 10.8606],
-    name: { de: "Malambo", hu: "Malambo", ro: "Malambo", en: "Malambo" },
+    name: { de: "Malambo", hu: "Malambo", ro: "Malambo", en: "Malambo",
+image: "/poi-images/malambo-cities-v2.webp"
+},
     description: {
       de: "Gemeinde nahe Barranquilla mit indigenen historischen Wurzeln.",
       hu: "Barranquilla közeli község, őslakos történelmi gyökerekkel.",
@@ -1941,7 +2045,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-BOY",
     coords: [-72.9288, 5.7143],
-    name: { de: "Sogamoso", hu: "Sogamoso", ro: "Sogamoso", en: "Sogamoso" },
+    name: { de: "Sogamoso", hu: "Sogamoso", ro: "Sogamoso", en: "Sogamoso",
+image: "/poi-images/sogamoso-cities-v2.webp"
+},
     description: {
       de: "Die Stadt der Sonne, ein historisches Zentrum der Muisca.",
       hu: "A nap városa, a muisca indiánok történelmi központja.",
@@ -1975,7 +2081,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-NSA",
     coords: [-73.3551, 8.2377],
-    name: { de: "Ocaña", hu: "Ocaña", ro: "Ocaña", en: "Ocaña" },
+    name: { de: "Ocaña", hu: "Ocaña", ro: "Ocaña", en: "Ocaña",
+image: "/poi-images/ocana-cities-v2.webp"
+},
     description: {
       de: "Stadt von historischer Bedeutung nahe der venezolanischen Grenze.",
       hu: "Történelmi jelentőségű város a venezuelai határ közelében.",
@@ -2009,7 +2117,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-HUI",
     coords: [-76.0505, 1.854],
-    name: { de: "Pitalito", hu: "Pitalito", ro: "Pitalito", en: "Pitalito" },
+    name: { de: "Pitalito", hu: "Pitalito", ro: "Pitalito", en: "Pitalito",
+image: "/poi-images/pitalito-cities-v2.webp"
+},
     description: {
       de: "Südliche Stadt in Huila, zweitgrößter Kaffeeproduzent des Landes.",
       hu: "Huila déli városa, az ország második legnagyobb kávétermelője.",
@@ -2043,7 +2153,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-76.2974, 3.9009],
-    name: { de: "Buga", hu: "Buga", ro: "Buga", en: "Buga" },
+    name: { de: "Buga", hu: "Buga", ro: "Buga", en: "Buga",
+image: "/poi-images/buga-cities-v2.webp"
+},
     description: {
       de: "Eines der wichtigsten religiösen Pilgerziele in Kolumbien.",
       hu: "Kolumbia egyik legfontosabb vallási zarándokhelye.",
@@ -2077,7 +2189,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-76.5393, 3.2622],
-    name: { de: "Jamundí", hu: "Jamundí", ro: "Jamundí", en: "Jamundí" },
+    name: { de: "Jamundí", hu: "Jamundí", ro: "Jamundí", en: "Jamundí",
+image: "/poi-images/jamundi-cities-v2.webp"
+},
     description: {
       de: "Südlich von Cali gelegene Stadt mit starkem Wachstum.",
       hu: "Cali-tól délre fekvő, erősen növekvő város.",
@@ -2111,7 +2225,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-VAC",
     coords: [-76.4952, 3.5828],
-    name: { de: "Yumbo", hu: "Yumbo", ro: "Yumbo", en: "Yumbo" },
+    name: { de: "Yumbo", hu: "Yumbo", ro: "Yumbo", en: "Yumbo",
+image: "/poi-images/yumbo-cities-v2.webp"
+},
     description: {
       de: "Das industrielle Herz des Departamento Valle del Cauca.",
       hu: "Valle del Cauca megye ipari szíve.",
@@ -2145,7 +2261,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-NSA",
     coords: [-72.4735, 7.8335],
-    name: { de: "Villa Del Rosario", hu: "Villa Del Rosario", ro: "Villa Del Rosario", en: "Villa Del Rosario" },
+    name: { de: "Villa Del Rosario", hu: "Villa Del Rosario", ro: "Villa Del Rosario", en: "Villa Del Rosario",
+image: "/poi-images/villa-del-rosario-cities-v2.webp"
+},
     description: {
       de: "Historische Grenzstadt, in der die Verfassung von 1821 unterzeichnet wurde.",
       hu: "Történelmi határváros, ahol az 1821-es alkotmányt aláírták.",
@@ -2179,7 +2297,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-COR",
     coords: [-75.4496, 8.9463],
-    name: { de: "Sahagún", hu: "Sahagún", ro: "Sahagún", en: "Sahagún" },
+    name: { de: "Sahagún", hu: "Sahagún", ro: "Sahagún", en: "Sahagún",
+image: "/poi-images/sahagun-cities-v2.webp"
+},
     description: {
       de: "Kulturelle Hauptstadt von Córdoba, berühmt für Bildung.",
       hu: "Córdoba kulturális fővárosa, amely az oktatásról híres.",
@@ -2213,7 +2333,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-COR",
     coords: [-75.7951, 8.8858],
-    name: { de: "Cereté", hu: "Cereté", ro: "Cereté", en: "Cereté" },
+    name: { de: "Cereté", hu: "Cereté", ro: "Cereté", en: "Cereté",
+image: "/poi-images/cerete-cities-v2.webp"
+},
     description: {
       de: "Zentrum der Baumwollproduktion in der Region Córdoba.",
       hu: "A gyapottermelés központja Córdoba régióban.",
@@ -2247,7 +2369,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-CUN",
     coords: [-74.0583, 4.8614],
-    name: { de: "Chía", hu: "Chía", ro: "Chía", en: "Chía" },
+    name: { de: "Chía", hu: "Chía", ro: "Chía", en: "Chía",
+image: "/poi-images/chia-cities-v2.webp"
+},
     description: {
       de: "Nördlicher Vorort von Bogotá, bekannt als Stadt des Mondes.",
       hu: "Bogotá északi külvárosa, a Hold városaként ismert.",
@@ -2281,7 +2405,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-CES",
     coords: [-73.619, 8.306],
-    name: { de: "Aguachica", hu: "Aguachica", ro: "Aguachica", en: "Aguachica" },
+    name: { de: "Aguachica", hu: "Aguachica", ro: "Aguachica", en: "Aguachica",
+image: "/poi-images/aguachica-cities-v2.webp"
+},
     description: {
       de: "Zweitgrößte Stadt in Cesar, ein wichtiger logistischer Knotenpunkt.",
       hu: "A második legnagyobb város Cesarban, fontos logisztikai csomópont.",
@@ -2315,7 +2441,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ATL",
     coords: [-74.9208, 10.63],
-    name: { de: "Sabanalarga", hu: "Sabanalarga", ro: "Sabanalarga", en: "Sabanalarga" },
+    name: { de: "Sabanalarga", hu: "Sabanalarga", ro: "Sabanalarga", en: "Sabanalarga",
+image: "/poi-images/sabanalarga-cities-v2.webp"
+},
     description: {
       de: "Eine der größten und ältesten Gemeinden im Departamento Atlántico.",
       hu: "Az egyik legnagyobb és legrégebbi község Atlántico megyében.",
@@ -2349,7 +2477,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-75.1979, 7.9865],
-    name: { de: "Caucasia", hu: "Caucasia", ro: "Caucasia", en: "Caucasia" },
+    name: { de: "Caucasia", hu: "Caucasia", ro: "Caucasia", en: "Caucasia",
+image: "/poi-images/caucasia-cities-v2.webp"
+},
     description: {
       de: "Wichtiges Wirtschaftszentrum am Río Cauca im Norden Antioquias.",
       hu: "Fontos gazdasági központ a Cauca folyó mentén, Észak-Antioquiában.",
@@ -2383,7 +2513,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-COR",
     coords: [-75.8155, 9.2393],
-    name: { de: "Santa Cruz De Lorica", hu: "Santa Cruz De Lorica", ro: "Santa Cruz De Lorica", en: "Santa Cruz De Lorica" },
+    name: { de: "Santa Cruz De Lorica", hu: "Santa Cruz De Lorica", ro: "Santa Cruz De Lorica", en: "Santa Cruz De Lorica",
+image: "/poi-images/santa-cruz-de-lorica-cities-v2.webp"
+},
     description: {
       de: "Historische Stadt mit architektonischem Einfluss syro-libanesischer Einwanderer.",
       hu: "Történelmi város a szír-libanoni bevándorlók építészeti hatásával.",
@@ -2417,7 +2549,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-COR",
     coords: [-76.0594, 8.1724],
-    name: { de: "Tierralta", hu: "Tierralta", ro: "Tierralta", en: "Tierralta" },
+    name: { de: "Tierralta", hu: "Tierralta", ro: "Tierralta", en: "Tierralta",
+image: "/poi-images/tierralta-cities-v2.webp"
+},
     description: {
       de: "Größte Flächengemeinde in Córdoba, Standort des Urrá-Staudamms.",
       hu: "Córdoba legnagyobb területű községe, az Urrá-gát helyszíne.",
@@ -2447,7 +2581,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-76.6268, 7.8824],
-    name: { de: "Apartadó", hu: "Apartadó", ro: "Apartadó", en: "Apartadó" },
+    name: { de: "Apartadó", hu: "Apartadó", ro: "Apartadó", en: "Apartadó",
+image: "/poi-images/apartado-cities-v2.webp"
+},
     description: {
       de: "Das kommerzielle Herz der Bananenanbauregion Urabá.",
       hu: "Az Urabá banántermelő régió kereskedelmi szíve.",
@@ -2481,7 +2617,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-ANT",
     coords: [-76.7282, 8.0933],
-    name: { de: "Turbo", hu: "Turbo", ro: "Turbo", en: "Turbo" },
+    name: { de: "Turbo", hu: "Turbo", ro: "Turbo", en: "Turbo",
+image: "/poi-images/turbo-cities-v2.webp"
+},
     description: {
       de: "Hafenstadt am Golf von Urabá mit Zugang zur Karibik.",
       hu: "Kikötőváros az Urabá-öbölben, kijárattal a Karib-tengerre.",
@@ -2515,7 +2653,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     type: "city",
     parent: "CO-NAR",
     coords: [-77.6385, 0.8252],
-    name: { de: "Ipiales", hu: "Ipiales", ro: "Ipiales", en: "Ipiales" },
+    name: { de: "Ipiales", hu: "Ipiales", ro: "Ipiales", en: "Ipiales",
+image: "/poi-images/ipiales-cities-v2.webp"
+},
     description: {
       de: "Grenzstadt zu Ecuador, berühmt für die Wallfahrtskirche Las Lajas.",
       hu: "Ecuadori határváros, híres a Las Lajas zarándoktemplomról.",

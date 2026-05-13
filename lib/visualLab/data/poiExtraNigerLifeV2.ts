@@ -7,7 +7,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-TI",
     coords: [2.35, 12.51],
-    name: { de: "Tapoa Fluss-Reservat", hu: "Tapoa folyórezervátum", ro: "Rezervația fluvială Tapoa", en: "Tapoa River Reserve" },
+    name: { de: "Tapoa Fluss-Reservat", hu: "Tapoa folyórezervátum", ro: "Rezervația fluvială Tapoa", en: "Tapoa River Reserve",
+image: "/poi-images/tapoa-animal-habitat-life-v2.webp"
+},
     description: { de: "Ein bedeutendes Schutzgebiet für Flusspferde am Niger-Nebenfluss.", hu: "Jelentős víziló-élőhely a Niger egyik mellékfolyójánál.", ro: "O zonă protejată importantă pentru hipopotami pe afluentul fluviului Niger.", en: "A significant hippo habitat along a tributary of the Niger River." },
     facts: {
       de: ["Heimat von Flusspferden", "Wichtige Wasserquelle"],
@@ -33,7 +35,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-NI",
     coords: [2.08, 13.52],
-    name: { de: "Goudel Spielpark", hu: "Goudel Játszópark", ro: "Parcul de joacă Goudel", en: "Goudel Play Park" },
+    name: { de: "Goudel Spielpark", hu: "Goudel Játszópark", ro: "Parcul de joacă Goudel", en: "Goudel Play Park",
+image: "/poi-images/goudel-kid-landmark-life-v2.webp"
+},
     description: { de: "Ein beliebter Park für Familien in Niamey mit vielen Spielmöglichkeiten.", hu: "Népszerű családi park Niameyben sok játékkal.", ro: "Un parc popular pentru familii în Niamey, cu multe facilități de joacă.", en: "A popular family park in Niamey with many play facilities." },
     facts: {
       de: ["Ideal für Familien", "Zentral gelegen"],
@@ -59,7 +63,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-MA",
     coords: [7.10, 13.48],
-    name: { de: "Maradi Getreide-Hub", hu: "Maradi gabonaközpont", ro: "Centrul de cereale Maradi", en: "Maradi grain hub" },
+    name: { de: "Maradi Getreide-Hub", hu: "Maradi gabonaközpont", ro: "Centrul de cereale Maradi", en: "Maradi grain hub",
+image: "/poi-images/mara-agriculture-life-v2.webp"
+},
     description: { de: "Ein zentraler Ort für die landwirtschaftliche Produktion in der Region.", hu: "Központi mezőgazdasági termelőhely a régióban.", ro: "Un loc central pentru producția agricolă din regiune.", en: "A central location for agricultural production in the region." },
     facts: {
       de: ["Regionale Lebensmittelproduktion", "Wichtiger Markt"],
@@ -85,7 +91,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-TI",
     coords: [1.02, 14.00],
-    name: { de: "Téra Vogelschutzgebiet", hu: "Téra madárvédelmi terület", ro: "Rezervația de păsări Téra", en: "Téra bird sanctuary" },
+    name: { de: "Téra Vogelschutzgebiet", hu: "Téra madárvédelmi terület", ro: "Rezervația de păsări Téra", en: "Téra bird sanctuary",
+image: "/poi-images/ter-animal-habitat-life-v2.webp"
+},
     description: { de: "Ein wichtiges Habitat für Zugvögel nahe der Grenze zu Burkina Faso.", hu: "Fontos élőhely vándormadarak számára Burkina Faso határánál.", ro: "Un habitat important pentru păsările migratoare lângă granița cu Burkina Faso.", en: "An important habitat for migratory birds near the border with Burkina Faso." },
     facts: {
       de: ["Vielfältige Vogelarten", "Naturbelassen"],
@@ -111,7 +119,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-DO",
     coords: [3.45, 11.89],
-    name: { de: "Gaya Zuckerrohr-Plantage", hu: "Gaya cukornádültetvény", ro: "Plantația de trestie de zahăr Gaya", en: "Gaya sugarcane plantation" },
+    name: { de: "Gaya Zuckerrohr-Plantage", hu: "Gaya cukornádültetvény", ro: "Plantația de trestie de zahăr Gaya", en: "Gaya sugarcane plantation",
+image: "/poi-images/gaya-agriculture-life-v2.webp"
+},
     description: { de: "Eine große landwirtschaftliche Anbaufläche für Zuckerrohr im Süden.", hu: "Nagy cukornádültetvény az ország déli részén.", ro: "O mare zonă de cultivare a trestiei de zahăr în sud.", en: "A large agricultural area for sugarcane cultivation in the south." },
     facts: {
       de: ["Lokale Zuckerproduktion", "Beschäftigt viele Arbeiter"],
@@ -137,7 +147,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-DO",
     coords: [3.20, 13.04],
-    name: { de: "Dosso Kindermuseum", hu: "Dosso Gyermekmúzeum", ro: "Muzeul copiilor Dosso", en: "Dosso children's museum" },
+    name: { de: "Dosso Kindermuseum", hu: "Dosso Gyermekmúzeum", ro: "Muzeul copiilor Dosso", en: "Dosso children's museum",
+image: "/poi-images/doso-kid-landmark-life-v2.webp"
+},
     description: { de: "Ein interaktives Museum für Kinder, um die Kultur des Landes zu entdecken.", hu: "Interaktív múzeum gyerekeknek az ország kultúrájának felfedezésére.", ro: "Un muzeu interactiv pentru copii pentru a descoperi cultura țării.", en: "An interactive museum for children to discover the country's culture." },
     facts: {
       de: ["Interaktives Lernen", "Bildungsangebot"],
@@ -163,7 +175,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-AG",
     coords: [7.99, 16.97],
-    name: { de: "Agadez Kamel-Oase", hu: "Agadez teve-oázis", ro: "Oaza de cămile Agadez", en: "Agadez camel oasis" },
+    name: { de: "Agadez Kamel-Oase", hu: "Agadez teve-oázis", ro: "Oaza de cămile Agadez", en: "Agadez camel oasis",
+image: "/poi-images/agadez-kamel-habitat-life-v2.webp"
+},
     description: { de: "Ein traditionelles Gebiet zur Haltung und Pflege von Wüstentieren.", hu: "Hagyományos terület sivatagi állatok tartására és gondozására.", ro: "O zonă tradițională pentru creșterea și îngrijirea animalelor de deșert.", en: "A traditional area for keeping and caring for desert animals." },
     facts: {
       de: ["Kamelhaltung", "Wüstenkultur"],
@@ -189,7 +203,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-ZI",
     coords: [8.99, 13.80],
-    name: { de: "Zinder Kinder-Garten", hu: "Zinder Gyermekkert", ro: "Grădina copiilor Zinder", en: "Zinder children's garden" },
+    name: { de: "Zinder Kinder-Garten", hu: "Zinder Gyermekkert", ro: "Grădina copiilor Zinder", en: "Zinder children's garden",
+image: "/poi-images/zinder-land-kid-life-v2.webp"
+},
     description: { de: "Ein geschützter Bereich für Kinder zum Spielen und Gärtnern.", hu: "Védett terület gyerekeknek játékra és kertészkedésre.", ro: "O zonă protejată pentru copii pentru a se juca și a grădinări.", en: "A protected area for children to play and garden." },
     facts: {
       de: ["Gartenbau für Kinder", "Sicherer Spielplatz"],
@@ -215,7 +231,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-DI",
     coords: [12.61, 13.31],
-    name: { de: "Diffa Gemüsebau", hu: "Diffa zöldségtermesztés", ro: "Legumicultura Diffa", en: "Diffa vegetable farming" },
+    name: { de: "Diffa Gemüsebau", hu: "Diffa zöldségtermesztés", ro: "Legumicultura Diffa", en: "Diffa vegetable farming",
+image: "/poi-images/diffa-agri-life-v2.webp"
+},
     description: { de: "Wichtige Anbauflächen für die lokale Versorgung im Osten des Landes.", hu: "Fontos termőföldek a helyi ellátáshoz az ország keleti részén.", ro: "Zone importante de cultivare pentru aprovizionarea locală în estul țării.", en: "Important farming areas for local supply in the east of the country." },
     facts: {
       de: ["Lokale Lebensmittel", "Wüstenbewässerung"],
@@ -241,7 +259,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-TA",
     coords: [5.27, 14.89],
-    name: { de: "Tahoua Mini-Zoo", hu: "Tahoua Mini-állatkert", ro: "Mini-Grădina Zoologică Tahoua", en: "Tahoua mini-zoo" },
+    name: { de: "Tahoua Mini-Zoo", hu: "Tahoua Mini-állatkert", ro: "Mini-Grădina Zoologică Tahoua", en: "Tahoua mini-zoo",
+image: "/poi-images/tahoua-zoo-life-v2.webp"
+},
     description: { de: "Ein kleiner Tierpark mit einheimischen Arten, ideal für Kinder.", hu: "Kis vadaspark őshonos fajokkal, ideális gyerekeknek.", ro: "Un mic parc zoologic cu specii locale, ideal pentru copii.", en: "A small animal park with native species, ideal for children." },
     facts: {
       de: ["Heimische Tiere", "Bildung für Kinder"],
@@ -267,7 +287,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-TI",
     coords: [3.31, 14.35],
-    name: { de: "Filingué Getreide-Feld", hu: "Filingué gabonaföld", ro: "Câmpul de cereale Filingué", en: "Filingué grain field" },
+    name: { de: "Filingué Getreide-Feld", hu: "Filingué gabonaföld", ro: "Câmpul de cereale Filingué", en: "Filingué grain field",
+image: "/poi-images/filingue-agri-life-v2.webp"
+},
     description: { de: "Traditioneller Anbau von Hirse und Sorghum.", hu: "Hagyományos köles- és ciroktermesztés.", ro: "Cultivarea tradițională a meiului și sorgului.", en: "Traditional cultivation of millet and sorghum." },
     facts: {
       de: ["Grundnahrungsmittel", "Hirse-Anbau"],
@@ -293,7 +315,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-MA",
     coords: [7.10, 13.48],
-    name: { de: "Maradi Abenteuerplatz", hu: "Maradi kalandpark", ro: "Parcul de aventură Maradi", en: "Maradi adventure park" },
+    name: { de: "Maradi Abenteuerplatz", hu: "Maradi kalandpark", ro: "Parcul de aventură Maradi", en: "Maradi adventure park",
+image: "/poi-images/maradi-kids-life-v2.webp"
+},
     description: { de: "Ein Freizeitort für Kinder mit Klettermöglichkeiten.", hu: "Szabadidőhely gyerekeknek mászási lehetőséggel.", ro: "Un loc de recreere pentru copii cu posibilități de cățărare.", en: "A recreational place for kids with climbing opportunities." },
     facts: {
       de: ["Aktivität", "Klettern"],
@@ -319,7 +343,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-DO",
     coords: [3.45, 11.89],
-    name: { de: "Gaya Feuchtgebiet", hu: "Gaya vizes élőhely", ro: "Zona umedă Gaya", en: "Gaya wetland" },
+    name: { de: "Gaya Feuchtgebiet", hu: "Gaya vizes élőhely", ro: "Zona umedă Gaya", en: "Gaya wetland",
+image: "/poi-images/gaya-bird-life-v2.webp"
+},
     description: { de: "Ein reiches Habitat für Wasservögel am Fluss.", hu: "Gazdag élőhely vízimadarak számára a folyó mentén.", ro: "Un habitat bogat pentru păsările de apă de-a lungul râului.", en: "A rich habitat for water birds along the river." },
     facts: {
       de: ["Wasservögel", "Naturschutz"],
@@ -345,7 +371,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-DO",
     coords: [3.20, 13.04],
-    name: { de: "Dosso Obstplantage", hu: "Dosso gyümölcsültetvény", ro: "Plantația de fructe Dosso", en: "Dosso fruit plantation" },
+    name: { de: "Dosso Obstplantage", hu: "Dosso gyümölcsültetvény", ro: "Plantația de fructe Dosso", en: "Dosso fruit plantation",
+image: "/poi-images/dosso-agri-life-v2.webp"
+},
     description: { de: "Anbau von Mangos und Zitrusfrüchten in kleinen Familienbetrieben.", hu: "Mangó- és citrusfélék termesztése kis családi gazdaságokban.", ro: "Cultivarea mangoului și citricelor în mici ferme de familie.", en: "Cultivation of mango and citrus fruits in small family farms." },
     facts: {
       de: ["Frische Früchte", "Familienbetriebe"],
@@ -371,7 +399,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-MA",
     coords: [7.99, 13.75],
-    name: { de: "Tessaoua Gartenbau", hu: "Tessaoua kertészet", ro: "Grădinărit Tessaoua", en: "Tessaoua horticulture" },
+    name: { de: "Tessaoua Gartenbau", hu: "Tessaoua kertészet", ro: "Grădinărit Tessaoua", en: "Tessaoua horticulture",
+image: "/poi-images/tessaoua-agri-life-v2.webp"
+},
     description: { de: "Lokaler Gartenbau mit Fokus auf saisonales Gemüse.", hu: "Helyi kertészet, fókuszban a szezonális zöldségek.", ro: "Grădinărit local cu accent pe legume de sezon.", en: "Local horticulture focusing on seasonal vegetables." },
     facts: {
       de: ["Saisonales Gemüse", "Lokale Märkte"],
@@ -397,7 +427,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-TA",
     coords: [5.25, 13.80],
-    name: { de: "Konni Kinder-Freizeitpark", hu: "Konni gyermekpark", ro: "Parcul pentru copii Konni", en: "Konni children's park" },
+    name: { de: "Konni Kinder-Freizeitpark", hu: "Konni gyermekpark", ro: "Parcul pentru copii Konni", en: "Konni children's park",
+image: "/poi-images/konni-kids-life-v2.webp"
+},
     description: { de: "Ein sicher eingezäunter Park für Kleinkinder.", hu: "Biztonságosan elkerített park kisgyermekeknek.", ro: "Un parc îngrădit în siguranță pentru copiii mici.", en: "A safely fenced park for small children." },
     facts: {
       de: ["Sicher für Kinder", "Spielgeräte"],
@@ -423,7 +455,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-TA",
     coords: [5.95, 14.07],
-    name: { de: "Madaoua Ackerbau", hu: "Madaoua földművelés", ro: "Agricultura Madaoua", en: "Madaoua farming" },
+    name: { de: "Madaoua Ackerbau", hu: "Madaoua földművelés", ro: "Agricultura Madaoua", en: "Madaoua farming",
+image: "/poi-images/madaoua-agri-life-v2.webp"
+},
     description: { de: "Anbau von Zwiebeln und verschiedenen Getreidearten.", hu: "Hagyma és különböző gabonafélék termesztése.", ro: "Cultivarea cepei și a diferitelor cereale.", en: "Cultivation of onions and various grains." },
     facts: {
       de: ["Zwiebelanbau", "Landwirtschaft"],
@@ -449,7 +483,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-ZI",
     coords: [10.27, 13.98],
-    name: { de: "Gouré Ziegenweide", hu: "Gouré kecskelegelő", ro: "Pășunea pentru capre Gouré", en: "Gouré goat pasture" },
+    name: { de: "Gouré Ziegenweide", hu: "Gouré kecskelegelő", ro: "Pășunea pentru capre Gouré", en: "Gouré goat pasture",
+image: "/poi-images/gouré-goat-life-v2.webp"
+},
     description: { de: "Ein weitläufiges Weidegebiet für Ziegenherden.", hu: "Kiterjedt legelőterület kecskenyájak számára.", ro: "O zonă extinsă de pășunat pentru turmele de capre.", en: "An extensive grazing area for goat herds." },
     facts: {
       de: ["Tierhaltung", "Weidekultur"],
@@ -475,7 +511,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-TI",
     coords: [1.02, 14.00],
-    name: { de: "Téra Vogelbeobachtung", hu: "Téra madármegfigyelés", ro: "Observarea păsărilor Téra", en: "Téra birdwatching" },
+    name: { de: "Téra Vogelbeobachtung", hu: "Téra madármegfigyelés", ro: "Observarea păsărilor Téra", en: "Téra birdwatching",
+image: "/poi-images/tera-bird-life-v2.webp"
+},
     description: { de: "Ein ruhiger Beobachtungspunkt für die lokale Vogelwelt.", hu: "Csendes megfigyelőpont a helyi madárvilág számára.", ro: "Un punct de observație liniștit pentru avifauna locală.", en: "A quiet observation point for local birdlife." },
     facts: {
       de: ["Naturbeobachtung", "Ruhe"],
@@ -501,7 +539,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-NI",
     coords: [2.33, 13.30],
-    name: { de: "Kollo Mangohain", hu: "Kollo mangóliget", ro: "Livada de mango Kollo", en: "Kollo mango grove" },
+    name: { de: "Kollo Mangohain", hu: "Kollo mangóliget", ro: "Livada de mango Kollo", en: "Kollo mango grove",
+image: "/poi-images/kollo-mango-life-v2.webp"
+},
     description: { de: "Ein Hain mit hundertjährigen Mangobäumen für den lokalen Markt.", hu: "Százéves mangófák ligete a helyi piac számára.", ro: "O livadă cu mango centenari pentru piața locală.", en: "A grove with centenary mango trees for the local market." },
     facts: {
       de: ["Mangos", "Traditioneller Anbau"],
@@ -527,7 +567,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-TI",
     coords: [2.36, 13.10],
-    name: { de: "Say Flussufer", hu: "Say folyópart", ro: "Malul râului Say", en: "Say riverbank" },
+    name: { de: "Say Flussufer", hu: "Say folyópart", ro: "Malul râului Say", en: "Say riverbank",
+image: "/poi-images/say-river-life-v2.webp"
+},
     description: { de: "Ein Habitat am Flussufer, wichtig für Amphibien und Wasservögel.", hu: "Élőhely a folyóparton, fontos kétéltűek és vízimadarak számára.", ro: "Un habitat pe malul râului, important pentru amfibieni și păsări de apă.", en: "A riverside habitat important for amphibians and water birds." },
     facts: {
       de: ["Amphibien", "Flusslebensraum"],
@@ -553,7 +595,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-DI",
     coords: [13.10, 14.22],
-    name: { de: "N'Guigmi Fischereizone", hu: "N'Guigmi halászati övezet", ro: "Zona de pescuit N'Guigmi", en: "N'Guigmi fishing zone" },
+    name: { de: "N'Guigmi Fischereizone", hu: "N'Guigmi halászati övezet", ro: "Zona de pescuit N'Guigmi", en: "N'Guigmi fishing zone",
+image: "/poi-images/nga-fishing-life-v2.webp"
+},
     description: { de: "Ein bedeutender Ort für den Fischfang nahe dem Tschadsee.", hu: "Jelentős halászati hely a Csád-tó közelében.", ro: "Un loc semnificativ pentru pescuit în apropierea lacului Ciad.", en: "A significant location for fishing near Lake Chad." },
     facts: {
       de: ["Fischerei", "Lokale Nahrung"],
@@ -579,7 +623,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-TA",
     coords: [5.25, 13.80],
-    name: { de: "Birni Kinderspielplatz", hu: "Birni játszótér", ro: "Loc de joacă Birni", en: "Birni children's playground" },
+    name: { de: "Birni Kinderspielplatz", hu: "Birni játszótér", ro: "Loc de joacă Birni", en: "Birni children's playground",
+image: "/poi-images/birni-kids-life-v2.webp"
+},
     description: { de: "Ein zentraler, kleiner Spielplatz für Familien.", hu: "Központi, kis játszótér családoknak.", ro: "Un mic loc de joacă central pentru familii.", en: "A central, small playground for families." },
     facts: {
       de: ["Spielgeräte", "Treffpunkt"],
@@ -605,7 +651,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-ZI",
     coords: [8.99, 13.20],
-    name: { de: "Magaria Getreideanbau", hu: "Magaria gabonatermesztés", ro: "Cultivarea cerealelor Magaria", en: "Magaria grain farming" },
+    name: { de: "Magaria Getreideanbau", hu: "Magaria gabonatermesztés", ro: "Cultivarea cerealelor Magaria", en: "Magaria grain farming",
+image: "/poi-images/magaria-agri-life-v2.webp"
+},
     description: { de: "Weite Felder für den Anbau von Getreide und Hülsenfrüchten.", hu: "Kiterjedt mezők gabonák és hüvelyesek termesztésére.", ro: "Câmpuri întinse pentru cultivarea cerealelor și leguminoaselor.", en: "Extensive fields for the cultivation of grains and legumes." },
     facts: {
       de: ["Hülsenfrüchte", "Landwirtschaft"],
@@ -631,7 +679,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-ZI",
     coords: [8.89, 14.97],
-    name: { de: "Tanout Kamelweide", hu: "Tanout tevelegelő", ro: "Pășunea de cămile Tanout", en: "Tanout camel pasture" },
+    name: { de: "Tanout Kamelweide", hu: "Tanout tevelegelő", ro: "Pășunea de cămile Tanout", en: "Tanout camel pasture",
+image: "/poi-images/tanout-kamel-life-v2.webp"
+},
     description: { de: "Ein ruhiges Weidegebiet am Rande der Wüste.", hu: "Nyugodt legelőterület a sivatag peremén.", ro: "O zonă liniștită de pășunat la marginea deșertului.", en: "A quiet grazing area on the edge of the desert." },
     facts: {
       de: ["Kamelschutz", "Naturnah"],
@@ -657,7 +707,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-MA",
     coords: [7.67, 13.95],
-    name: { de: "Mayahi Anbaugebiet", hu: "Mayahi termőterület", ro: "Zona de cultivare Mayahi", en: "Mayahi cultivation area" },
+    name: { de: "Mayahi Anbaugebiet", hu: "Mayahi termőterület", ro: "Zona de cultivare Mayahi", en: "Mayahi cultivation area",
+image: "/poi-images/mayahi-agri-life-v2.webp"
+},
     description: { de: "Eine Region mit starkem Fokus auf die Landwirtschaft.", hu: "Erős mezőgazdasági fókuszú régió.", ro: "O regiune cu un accent puternic pe agricultură.", en: "A region with a strong focus on agriculture." },
     facts: {
       de: ["Ernte", "Regionale Landwirtschaft"],
@@ -683,7 +735,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-DO",
     coords: [3.45, 11.89],
-    name: { de: "Gaya Bewässerungsland", hu: "Gaya öntözött föld", ro: "Teren irigat Gaya", en: "Gaya irrigated land" },
+    name: { de: "Gaya Bewässerungsland", hu: "Gaya öntözött föld", ro: "Teren irigat Gaya", en: "Gaya irrigated land",
+image: "/poi-images/gaya-agri-life-v2.webp"
+},
     description: { de: "Modernes Landwirtschaftsprojekt mit künstlicher Bewässerung.", hu: "Modern mezőgazdasági projekt mesterséges öntözéssel.", ro: "Proiect agricol modern cu irigație artificială.", en: "Modern agricultural project with artificial irrigation." },
     facts: {
       de: ["Bewässerung", "Landwirtschaft"],
@@ -709,7 +763,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "NE-ZI",
     coords: [8.99, 13.80],
-    name: { de: "Zinder Tiergarten", hu: "Zinder állatkert", ro: "Grădina Zoologică Zinder", en: "Zinder zoo" },
+    name: { de: "Zinder Tiergarten", hu: "Zinder állatkert", ro: "Grădina Zoologică Zinder", en: "Zinder zoo",
+image: "/poi-images/zinder-zoo-life-v2.webp"
+},
     description: { de: "Ein kleiner Tiergarten mit Fokus auf lokale Fauna.", hu: "Kis vadaspark a helyi fauna bemutatására.", ro: "Un mic parc zoologic cu accent pe fauna locală.", en: "A small animal park focusing on local fauna." },
     facts: {
       de: ["Tierschutz", "Lernort"],
@@ -735,7 +791,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "NE-MA",
     coords: [7.10, 13.48],
-    name: { de: "Maradi Kinderoase", hu: "Maradi gyerek-oázis", ro: "Oaza copiilor Maradi", en: "Maradi children's oasis" },
+    name: { de: "Maradi Kinderoase", hu: "Maradi gyerek-oázis", ro: "Oaza copiilor Maradi", en: "Maradi children's oasis",
+image: "/poi-images/maradi-kids-park-life-v2.webp"
+},
     description: { de: "Ein grüner Spielbereich in der städtischen Umgebung.", hu: "Zöld játszóhely a városi környezetben.", ro: "Un loc de joacă verde în mediul urban.", en: "A green play area in the urban environment." },
     facts: {
       de: ["Spielplatz", "Stadtnatur"],
@@ -761,7 +819,9 @@ export const poiExtraNigerLifeV2: POI[] = [
     type: "agriculture",
     parent: "NE-DI",
     coords: [12.61, 13.31],
-    name: { de: "Diffa Obstgarten", hu: "Diffa gyümölcsöskert", ro: "Livada Diffa", en: "Diffa fruit garden" },
+    name: { de: "Diffa Obstgarten", hu: "Diffa gyümölcsöskert", ro: "Livada Diffa", en: "Diffa fruit garden",
+image: "/poi-images/diffa-frucht-life-v2.webp"
+},
     description: { de: "Anbau von einheimischen Obstsorten in kleinen Gruppen.", hu: "Őshonos gyümölcsfajták termesztése kis csoportokban.", ro: "Cultivarea soiurilor de fructe native în grupuri mici.", en: "Cultivation of native fruit varieties in small groups." },
     facts: {
       de: ["Obst", "Lokale Sorten"],

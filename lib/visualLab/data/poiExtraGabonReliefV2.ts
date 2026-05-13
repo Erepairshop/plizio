@@ -14,8 +14,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Batéké Plateau"
     ,
     descriptionAdvanced: {
-      hu: "A Bateke-fennsík egy hatalmas homokkőplató Gabon délkeleti részén, amely több mint 2000 négyzetkilométeren terül el. A területet jellemző szavannás tájat mély, erodált völgyek szabdalják, amelyek látványos kontrasztot alkotnak a környező trópusi esőerdőkkel. Ez a geológiai képződmény különleges élőhely számos ritka faj számára, és fontos szerepet játszik az ország vízháztartásában. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Bateke-fennsík egy hatalmas homokkőplató Gabon délkeleti részén, amely több mint 2000 négyzetkilométeren terül el. A területet jellemző szavannás tájat mély, erodált völgyek szabdalják, amelyek látványos kontrasztot alkotnak a környező trópusi esőerdőkkel. Ez a geológiai képződmény különleges élőhely számos ritka faj számára, és fontos szerepet játszik az ország vízháztartásában. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/bateke-plateau-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A fennsík átlagos magassága 500-800 méter.", "Területének nagy részét száraz szavanna borítja.", "A talaj főként vörös homokkőből áll.", "Fontos vízválasztó az Ogooué-folyó medencéjében.", "A területen számos endemikus növényfaj él.", "A fennsík az ősi kereskedelmi útvonalak kereszteződése volt."]
     }
@@ -44,8 +45,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Cirque de Léconi"
     ,
     descriptionAdvanced: {
-      hu: "A Léconi-kanyon, más néven a Vörös-kanyon, Gabon egyik leglátványosabb természeti csodája a Bateke-fennsík peremén. A víz és a szél eróziós munkája révén kialakult mély, vöröses színű szurdokvölgyek különleges látványt nyújtanak a sivatagos jellegű környezetben. A helyszín ideális geológiai kutatásokhoz, mivel a rétegek évmilliók földtani folyamatait tárják fel. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Léconi-kanyon, más néven a Vörös-kanyon, Gabon egyik leglátványosabb természeti csodája a Bateke-fennsík peremén. A víz és a szél eróziós munkája révén kialakult mély, vöröses színű szurdokvölgyek különleges látványt nyújtanak a sivatagos jellegű környezetben. A helyszín ideális geológiai kutatásokhoz, mivel a rétegek évmilliók földtani folyamatait tárják fel. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/leconi-canyon-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A kanyon mélysége helyenként eléri a 50 métert.", "A terület szinte teljesen növényzetmentes, csupasz sziklákból áll.", "Léconi városa közelében található.", "A vörös színt a magas vastartalmú talaj okozza.", "A kanyon egy kisebb, zárt ökoszisztémát alkot.", "A régióban gyakoriak a villámárvizek a száraz időszak végén."]
     }
@@ -74,8 +76,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Mount Bengoué"
     ,
     descriptionAdvanced: {
-      hu: "A Mont Bengoué Gabon egyik legmagasabb pontja, az Ogooué-Ivindo tartományban emelkedik. Ez a hegyvidéki terület sűrű, érintetlen trópusi esőerdőkkel borított, amely nehezen megközelíthető, így menedéket nyújt számos nagytestű emlősnek, például az elefántoknak. A csúcs környéke fontos szerepet játszik a regionális éghajlat szabályozásában és az élővilág sokféleségének megőrzésében. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Mont Bengoué Gabon egyik legmagasabb pontja, az Ogooué-Ivindo tartományban emelkedik. Ez a hegyvidéki terület sűrű, érintetlen trópusi esőerdőkkel borított, amely nehezen megközelíthető, így menedéket nyújt számos nagytestű emlősnek, például az elefántoknak. A csúcs környéke fontos szerepet játszik a regionális éghajlat szabályozásában és az élővilág sokféleségének megőrzésében. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/mont-bengoue-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A hegy magassága megközelíti a 1070 métert.", "Gabon egyik legmagasabb hegysége.", "A terület a kongói medence esőerdejének része.", "Nehezen megközelíthető terep miatt kevésbé kutatott.", "Gazdag biodiverzitás jellemzi.", "A terület védett nemzeti parki státusszal rendelkezik."]
     }
@@ -106,8 +109,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Mayombe Mountains"
     ,
     descriptionAdvanced: {
-      hu: "A Mayombe-hegység egy erdős hegyvonulat Gabon délnyugati részén, amely jelentős természeti akadályt képez az Atlanti-óceán partvidéke és a szárazföld belseje között. A terület sűrű esőerdőiről és változatos domborzatáról ismert, amely számos egyedi ökoszisztémának ad otthont. A hegyvonulat geológiailag ősi képződmény, amely kulcsfontosságú az esőerdők vízmegtartó képességének szempontjából. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Mayombe-hegység egy erdős hegyvonulat Gabon délnyugati részén, amely jelentős természeti akadályt képez az Atlanti-óceán partvidéke és a szárazföld belseje között. A terület sűrű esőerdőiről és változatos domborzatáról ismert, amely számos egyedi ökoszisztémának ad otthont. A hegyvonulat geológiailag ősi képződmény, amely kulcsfontosságú az esőerdők vízmegtartó képességének szempontjából. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/mayombe-range-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A Mayombe-hegység a parttal párhuzamosan húzódik.", "A régiót sűrű, párás trópusi esőerdő borítja.", "Fontos közlekedési folyosó az óceán és a belvidék között.", "A területen számos veszélyeztetett főemlősfaj él.", "Az éves csapadékmennyiség itt az egyik legmagasabb Gabonban.", "A hegyvonulat geológiai szerkezete kristályos kőzetekből áll."]
     }
@@ -136,8 +140,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Doudou Mountains"
     ,
     descriptionAdvanced: {
-      hu: "A Doudou-hegység Gabon délnyugati részén, a Moukalaba-Doudou Nemzeti Park területén emelkedik. Ez a viszonylag alacsony, de meredek hegyvonulat az ország egyik legkevésbé feltárt és legérintetlenebb területe. A hegyeket sűrű növényzet borítja, amely kiváló élőhelyet biztosít a gorillák és más nagytestű emlősök számára, miközben a helyi hidrológiai rendszerek létfontosságú eleme. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Doudou-hegység Gabon délnyugati részén, a Moukalaba-Doudou Nemzeti Park területén emelkedik. Ez a viszonylag alacsony, de meredek hegyvonulat az ország egyik legkevésbé feltárt és legérintetlenebb területe. A hegyeket sűrű növényzet borítja, amely kiváló élőhelyet biztosít a gorillák és más nagytestű emlősök számára, miközben a helyi hidrológiai rendszerek létfontosságú eleme. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/doudou-mountains-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A hegység a Moukalaba-Doudou Nemzeti Park szerves része.", "Kiemelt jelentőségű a gorillák védelme szempontjából.", "A terület nehezen járható a sűrű erdőborítás miatt.", "Számos kisebb vízfolyás ered a hegyekből.", "A régió gazdag trópusi faunában és flórában.", "A természetvédelmi kutatások egyik fókuszpontja."]
     }
@@ -167,8 +172,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Koumouna-Bouali Massif"
     ,
     descriptionAdvanced: {
-      hu: "A Koumouna-Bouali-fennsík egy kevésbé ismert geológiai képződmény Gabonban, amely változatos domborzatával és gazdag növényvilágával tűnik ki. A terület környezete az esőerdők és a szavannás területek átmeneti zónájában helyezkedik el, így különleges biodiverzitást mutat. A fennsík környéke fontos szerepet játszik a helyi ökoszisztémák egyensúlyának fenntartásában és az elszigetelt élőhelyek megőrzésében. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Koumouna-Bouali-fennsík egy kevésbé ismert geológiai képződmény Gabonban, amely változatos domborzatával és gazdag növényvilágával tűnik ki. A terület környezete az esőerdők és a szavannás területek átmeneti zónájában helyezkedik el, így különleges biodiverzitást mutat. A fennsík környéke fontos szerepet játszik a helyi ökoszisztémák egyensúlyának fenntartásában és az elszigetelt élőhelyek megőrzésében. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/koumouna-bouali-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Az átmeneti klíma miatt változatos élővilággal rendelkezik.", "A terület geológiailag változatos, homokkő és üledékes kőzetek.", "Fontos élőhely számos vándorló madárfaj számára.", "A régiót ritka emberi jelenlét jellemzi.", "A környező erdőségek kiváló minőségű faanyagot rejtenek.", "A fennsík magassága mérsékelt, változatos domborzattal."]
     }
@@ -197,8 +203,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Mount Mimongo"
     ,
     descriptionAdvanced: {
-      hu: "A Mont Mimongo a Chaillu-hegység része, Gabon déli részén. Ez a hegyvidéki terület sűrű esőerdőkkel borított, és fontos ökológiai folyosóként szolgál a régió vadvilága számára. A hegycsúcs és környéke geológiailag ősi, gazdag üledékes rétegekben, amelyek betekintést nyújtanak a terület földtani múltjába. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Mont Mimongo a Chaillu-hegység része, Gabon déli részén. Ez a hegyvidéki terület sűrű esőerdőkkel borított, és fontos ökológiai folyosóként szolgál a régió vadvilága számára. A hegycsúcs és környéke geológiailag ősi, gazdag üledékes rétegekben, amelyek betekintést nyújtanak a terület földtani múltjába. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/mont-mimongo-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A Chaillu-hegység egyik meghatározó magaslata.", "A régiót sűrű trópusi esőerdő borítja.", "Kiemelt szerepet játszik a regionális élővilág védelmében.", "Geológiailag stabil, ősi formáció.", "A környék nehezen megközelíthető, érintetlen terület.", "Számos vízforrás ered a közelében."]
     }
@@ -227,8 +234,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Ikoundou Massif"
     ,
     descriptionAdvanced: {
-      hu: "Az Ikoundou-hegytömb Gabon egy félreeső, hegyvidéki területe, amelyet sűrű esőerdő és meredek lejtők jellemeznek. A terület geológiai szerkezete változatos, gyakoriak a sziklás kibukkanások, amelyek különleges mikroklímát biztosítanak az itt élő növény- és állatfajoknak. A térség elszigeteltsége miatt rendkívül fontos szerepet tölt be a gaboni biodiverzitás megőrzésében. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Az Ikoundou-hegytömb Gabon egy félreeső, hegyvidéki területe, amelyet sűrű esőerdő és meredek lejtők jellemeznek. A terület geológiai szerkezete változatos, gyakoriak a sziklás kibukkanások, amelyek különleges mikroklímát biztosítanak az itt élő növény- és állatfajoknak. A térség elszigeteltsége miatt rendkívül fontos szerepet tölt be a gaboni biodiverzitás megőrzésében. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/ikoundou-massif-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Meredek, sziklás lejtők jellemzik.", "A térség elszigeteltsége segíti az endemikus fajok fennmaradását.", "Sűrű, párás esőerdővel borított terület.", "Geológiailag gazdag ásványi összetételű.", "Fontos szerepet játszik a környék vízháztartásában.", "A terület nehezen megközelíthető, vadregényes táj."]
     }
@@ -257,8 +265,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Offoué River Valley"
     ,
     descriptionAdvanced: {
-      hu: "Az Offoué-völgy Gabon egy fontos földrajzi képződménye, amely az Ogooué-folyó vízgyűjtő területéhez tartozik. A völgyet gazdag esőerdők szegélyezik, a folyó kanyargós medre pedig alapvető szerepet játszik a terület ökológiai összekapcsolásában. A völgy geológiája a régióban jellemző üledékes és kristályos kőzetek keveredése, ami változatos domborzati viszonyokat eredményez. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Az Offoué-völgy Gabon egy fontos földrajzi képződménye, amely az Ogooué-folyó vízgyűjtő területéhez tartozik. A völgyet gazdag esőerdők szegélyezik, a folyó kanyargós medre pedig alapvető szerepet játszik a terület ökológiai összekapcsolásában. A völgy geológiája a régióban jellemző üledékes és kristályos kőzetek keveredése, ami változatos domborzati viszonyokat eredményez. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/offoue-valley-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Az Ogooué-folyó vízgyűjtő medencéjének része.", "A völgy gazdag trópusi növényvilággal rendelkezik.", "Fontos ökológiai folyosó a helyi vadvilág számára.", "A domborzatot a folyó eróziós munkája alakította ki.", "A régióban gyakoriak az ártéri erdők.", "A völgy vidéke fontos szerepet tölt be a helyi vízháztartásban."]
     }
@@ -288,8 +297,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Rembo Nkomi Forest"
     ,
     descriptionAdvanced: {
-      hu: "A Rembo-Nkomi folyó környéki erdőségek Gabon nyugati részén, a lagúnák és folyók szövevényes rendszerében találhatók. Ez a terület különleges vízjárta domborzattal rendelkezik, ahol az esőerdők szinte közvetlenül az ártéri területekbe olvadnak. A vidék geológiailag folyamatosan formálódik a folyami lerakódások révén, ami sajátos mikroklímát és gazdag élővilágot eredményez. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Rembo-Nkomi folyó környéki erdőségek Gabon nyugati részén, a lagúnák és folyók szövevényes rendszerében találhatók. Ez a terület különleges vízjárta domborzattal rendelkezik, ahol az esőerdők szinte közvetlenül az ártéri területekbe olvadnak. A vidék geológiailag folyamatosan formálódik a folyami lerakódások révén, ami sajátos mikroklímát és gazdag élővilágot eredményez. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/rembo-nkomi-forest-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A Rembo-Nkomi-folyó vízrendszerének része.", "Jellegzetes lagúnás, ártéri domborzat.", "Gazdag trópusi növény- és állatvilág jellemzi.", "A talaj főként folyami üledékekből épül fel.", "Fontos szerepet játszik a helyi vízháztartásban.", "A környék nehezen megközelíthető, mocsaras terület."]
     }
@@ -318,8 +328,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Setté Cama Forest"
     ,
     descriptionAdvanced: {
-      hu: "Sette Cama erdőségei Gabon déli partvidékén, a lagúnák övezetében helyezkednek el. A terület domborzatát a tengerparti homokdűnék és az ezek mögött húzódó, sűrű esőerdők jellemezik. A geológiai alakulásban a tenger és a folyók hatása egyaránt meghatározó, ami egyedi, változatos ökoszisztémát hozott létre, ahol a szárazföldi és vízi élőhelyek szorosan összefonódnak. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Sette Cama erdőségei Gabon déli partvidékén, a lagúnák övezetében helyezkednek el. A terület domborzatát a tengerparti homokdűnék és az ezek mögött húzódó, sűrű esőerdők jellemezik. A geológiai alakulásban a tenger és a folyók hatása egyaránt meghatározó, ami egyedi, változatos ökoszisztémát hozott létre, ahol a szárazföldi és vízi élőhelyek szorosan összefonódnak. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/sette-cama-forest-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Jellegzetes partvidéki, homokdűnés terület.", "A lagúnák és az esőerdők szoros közelsége jellemzi.", "Fontos állomás a vándorló madárfajok számára.", "A régiót geológiailag a tenger és folyók formálják.", "Gazdag vízi élővilág jellemzi a lagúnákat.", "A terület a Loango Nemzeti Park részét képezi."]
     }
@@ -349,8 +360,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Okano Rainforest"
     ,
     descriptionAdvanced: {
-      hu: "Az Okanó-esőerdő Gabon középső részén helyezkedik el, ahol a domborzatot az Ogooué-folyó mellékágai és a környező dombvidékek alakítják. Ez a hatalmas, folyamatos erdőtakaró az ország ökológiai tüdejének része, változatos, enyhén dombos felszínével kiváló élőhelyet biztosít a trópusi fauna számára. A talaj gazdag, tápanyagokban bő, ami támogatja a buja növényzet folyamatos megújulását. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Az Okanó-esőerdő Gabon középső részén helyezkedik el, ahol a domborzatot az Ogooué-folyó mellékágai és a környező dombvidékek alakítják. Ez a hatalmas, folyamatos erdőtakaró az ország ökológiai tüdejének része, változatos, enyhén dombos felszínével kiváló élőhelyet biztosít a trópusi fauna számára. A talaj gazdag, tápanyagokban bő, ami támogatja a buja növényzet folyamatos megújulását. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/okano-rainforest-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Az Ogooué-folyó vízgyűjtő medencéjének része.", "Hatalmas, összefüggő, érintetlen esőerdő.", "Enyhén dombos, változatos felszín.", "A terület kritikus a biológiai sokféleség fenntartásában.", "Gazdag trópusi ökoszisztéma jellemzi.", "A régió fontos szerepet tölt be a globális klímaszabályozásban."]
     }
@@ -379,8 +391,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Abanga Rainforest"
     ,
     descriptionAdvanced: {
-      hu: "Az Abanga-folyó vidéke Gabon északnyugati részén található, ahol a terület domborzatát az esőerdőkkel borított alacsony dombvidékek és a folyóvölgyek uralják. Ez a változatos terep kiváló feltételeket teremt a trópusi növényzet számára, és kulcsfontosságú vízgyűjtő terület. Geológiailag a térség a kristályos és üledékes kőzetek átmeneti övezetében fekszik, ami sokszínű talajviszonyokat eredményez. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Az Abanga-folyó vidéke Gabon északnyugati részén található, ahol a terület domborzatát az esőerdőkkel borított alacsony dombvidékek és a folyóvölgyek uralják. Ez a változatos terep kiváló feltételeket teremt a trópusi növényzet számára, és kulcsfontosságú vízgyűjtő terület. Geológiailag a térség a kristályos és üledékes kőzetek átmeneti övezetében fekszik, ami sokszínű talajviszonyokat eredményez. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/abanga-forest-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A völgy gazdag trópusi erdővilággal rendelkezik.", "Fontos vízgyűjtő terület Gabon északnyugati részén.", "Geológiailag változatos kőzetösszetétel jellemzi.", "A terület a helyi ökoszisztémák szerves része.", "Az esőerdő sűrű, nehezen átjárható, vadregényes táj.", "Számos vízfolyás táplálja az Abanga-folyót."]
     }
@@ -409,8 +422,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Moukalaba Forest"
     ,
     descriptionAdvanced: {
-      hu: "A Moukalaba-vidék erdőségei Gabon déli részén, a Moukalaba-Doudou Nemzeti Park övezetében találhatók. A terület domborzata a dombvidékek és a folyó menti síkságok váltakozása, amely változatos élőhelyeket kínál az afrikai trópusi fauna számára. A geológiai formációk között jelentős szerepet játszanak az üledékes rétegek, amelyek évmilliók alatt alakultak ki, támogatva a táj gazdag biodiverzitását. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Moukalaba-vidék erdőségei Gabon déli részén, a Moukalaba-Doudou Nemzeti Park övezetében találhatók. A terület domborzata a dombvidékek és a folyó menti síkságok váltakozása, amely változatos élőhelyeket kínál az afrikai trópusi fauna számára. A geológiai formációk között jelentős szerepet játszanak az üledékes rétegek, amelyek évmilliók alatt alakultak ki, támogatva a táj gazdag biodiverzitását. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/moukalaba-forest-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A terület a Moukalaba-Doudou Nemzeti Park része.", "Változatos domborzat: dombok és folyómenti síkságok.", "Kiemelt jelentőségű a főemlősök élőhelyeinek védelme.", "Gazdag üledékes kőzetekben bővelkedő geológia.", "Fontos szerepet játszik a helyi mikroklíma fenntartásában.", "A régiót sűrű, buja trópusi esőerdő borítja."]
     }
@@ -439,8 +453,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Batéké Highlands"
     ,
     descriptionAdvanced: {
-      hu: "A Bateke-fennsík magasabb területei Gabon délkeleti részén találhatók, ahol a domborzatot az erodált völgyek és a száraz szavannás fennsíkok uralják. Ezek a magaslatok geológiailag a homokkőrétegek folyamatos formálódásának eredményei, ami drámai tájképet hozott létre. A vidék fontos szerepet tölt be a régió vízháztartásában és az elszigetelt, speciális élőhelyek fennmaradásában. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Bateke-fennsík magasabb területei Gabon délkeleti részén találhatók, ahol a domborzatot az erodált völgyek és a száraz szavannás fennsíkok uralják. Ezek a magaslatok geológiailag a homokkőrétegek folyamatos formálódásának eredményei, ami drámai tájképet hozott létre. A vidék fontos szerepet tölt be a régió vízháztartásában és az elszigetelt, speciális élőhelyek fennmaradásában. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/bateke-highlands-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A fennsík magasabb régiója, 600-800 méteres szint.", "Drasztikus eróziós folyamatok alakították a domborzatot.", "Száraz szavannás vegetáció a fennsíkokon.", "Kiemelt vízválasztó szerepet tölt be.", "Egyedi geológiai formációk jellemzik.", "Fontos ökológiai menedék a régióban."]
     }
@@ -469,8 +484,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Baniaka Mountains"
     ,
     descriptionAdvanced: {
-      hu: "A Baniaka-hegység Gabon délkeleti részén, a Bateke-fennsík szomszédságában húzódik. Ez a változatos domborzatú terület ötvözi a meredek lejtőket és a völgyeket, sűrű trópusi erdőkkel és szavannás foltokkal. Geológiailag a vidék ősi, kristályos alapzaton nyugszik, amit az évmilliók eróziós folyamatai tovább tagoltak. A hegység fontos szerepet játszik a helyi ökoszisztémák stabilitásában és a vadvilág megőrzésében. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Baniaka-hegység Gabon délkeleti részén, a Bateke-fennsík szomszédságában húzódik. Ez a változatos domborzatú terület ötvözi a meredek lejtőket és a völgyeket, sűrű trópusi erdőkkel és szavannás foltokkal. Geológiailag a vidék ősi, kristályos alapzaton nyugszik, amit az évmilliók eróziós folyamatai tovább tagoltak. A hegység fontos szerepet játszik a helyi ökoszisztémák stabilitásában és a vadvilág megőrzésében. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/baniaka-mountains-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Változatos domborzat: lejtők és völgyek váltakozása.", "Határvidék a szavanna és az esőerdő között.", "Geológiailag ősi, stabil kristályos alapkőzet.", "Fontos ökológiai menedék a régióban.", "A hegység fontos szerepet tölt be a vízgazdálkodásban.", "Nehezen megközelíthető, vadregényes táj."]
     }
@@ -500,8 +516,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "M'Passa Canyons"
     ,
     descriptionAdvanced: {
-      hu: "Az Mpassa-szurdokvölgyek Gabon délkeleti részének különleges geológiai képződményei, amelyeket a folyók mély eróziós munkája hozott létre. A szűk, meredek falú völgyek drámai kontrasztot képeznek a körülöttük elterülő Bateke-fennsík sík területeivel. A szurdokok különleges mikroklímát biztosítanak, ami lehetővé teszi számos ritka, esőerdei növényfaj túlélését a szárazabb régióban is. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Az Mpassa-szurdokvölgyek Gabon délkeleti részének különleges geológiai képződményei, amelyeket a folyók mély eróziós munkája hozott létre. A szűk, meredek falú völgyek drámai kontrasztot képeznek a körülöttük elterülő Bateke-fennsík sík területeivel. A szurdokok különleges mikroklímát biztosítanak, ami lehetővé teszi számos ritka, esőerdei növényfaj túlélését a szárazabb régióban is. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/mpassa-canyons-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Mély eróziós szurdokok a Bateke-fennsíkon.", "Drámai, meredek falú sziklás völgyek.", "Különleges mikroklíma a szűk völgyek alján.", "Fontos menedék ritka növényfajok számára.", "Geológiailag látványos rétegződések.", "A terület a folyó eróziós folyamatainak ékes példája."]
     }
@@ -530,8 +547,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Ikoy Forest"
     ,
     descriptionAdvanced: {
-      hu: "Az Ikoy-erdőség Gabon belsejében található, ahol a domborzatot az enyhén hullámos síkságok és a kanyargós folyóvölgyek jellemzik. Ez a terület az ország középső régiójának természetes erdőtakaróját képezi, gazdag talajszerkezettel, amely támogatja a trópusi fafajok gyors növekedését. Az Ikoy-vidék létfontosságú az esőerdei élőhelyek fenntartásában, biztosítva a biológiai sokféleség megőrzését a térségben. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "Az Ikoy-erdőség Gabon belsejében található, ahol a domborzatot az enyhén hullámos síkságok és a kanyargós folyóvölgyek jellemzik. Ez a terület az ország középső régiójának természetes erdőtakaróját képezi, gazdag talajszerkezettel, amely támogatja a trópusi fafajok gyors növekedését. Az Ikoy-vidék létfontosságú az esőerdei élőhelyek fenntartásában, biztosítva a biológiai sokféleség megőrzését a térségben. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/ikoy-forest-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Változatos, hullámos felszín jellemzi.", "A régió egyik fontos természetes erdőtakarója.", "Gazdag talajréteg támogatja a trópusi flórát.", "Kulcsfontosságú szerep a biodiverzitás megőrzésében.", "Kanyargós folyóvölgyek szabdalják a tájat.", "Fontos szerepet tölt be a helyi vízháztartásban."]
     }
@@ -560,8 +578,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Minkébé Inselbergs"
     ,
     descriptionAdvanced: {
-      hu: "A Minkebé-Inselbergek Gabon északkeleti részén találhatók, ahol ezek az elszigetelt, sziklás magaslatok kiemelkednek az ősi, sűrű esőerdőből. Az inselbergek geológiailag rendkívül stabilak, és különleges élőhelyeket biztosítanak a speciális növényfajok számára. A vidék elszigeteltsége miatt a Minkebé régió az egyik legfontosabb vadon Gabonban, amely kritikus szerepet játszik a nagytestű emlősök és az érintetlen természet megőrzésében. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Minkebé-Inselbergek Gabon északkeleti részén találhatók, ahol ezek az elszigetelt, sziklás magaslatok kiemelkednek az ősi, sűrű esőerdőből. Az inselbergek geológiailag rendkívül stabilak, és különleges élőhelyeket biztosítanak a speciális növényfajok számára. A vidék elszigeteltsége miatt a Minkebé régió az egyik legfontosabb vadon Gabonban, amely kritikus szerepet játszik a nagytestű emlősök és az érintetlen természet megőrzésében. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/minkebe-inselbergs-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["Elszigetelt, sziklás inselbergek az esőerdőben.", "Geológiailag stabil, ősi kőzetformációk.", "Különleges élőhely speciális növényfajoknak.", "A Minkebé régió Gabon egyik legfontosabb vadonja.", "Kritikus fontosságú a nagytestű emlősök védelmében.", "Nehezen megközelíthető, érintetlen természeti terület."]
     }
@@ -590,8 +609,9 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Mount Tandou"
     ,
     descriptionAdvanced: {
-      hu: "A Mont Tandou Gabon déli részén emelkedik, a Chaillu-hegyvidék egyik jellegzetes csúcsaként. A hegyet buja trópusi erdő öleli körül, és a környező tájat a vízfolyások eróziós hatása formálja, változatos domborzatot alakítva ki. A hegycsúcs és környéke geológiailag az ország déli részének összetett, üledékes és kristályos kőzeteihez tartozik, amelyek fontos szerepet töltenek be a helyi ökológiai egyensúly fenntartásában. Földrajz K7 — hegységek és folyók."
-    },
+      hu: "A Mont Tandou Gabon déli részén emelkedik, a Chaillu-hegyvidék egyik jellegzetes csúcsaként. A hegyet buja trópusi erdő öleli körül, és a környező tájat a vízfolyások eróziós hatása formálja, változatos domborzatot alakítva ki. A hegycsúcs és környéke geológiailag az ország déli részének összetett, üledékes és kristályos kőzeteihez tartozik, amelyek fontos szerepet töltenek be a helyi ökológiai egyensúly fenntartásában. Földrajz K7 — hegységek és folyók.",
+image: "/poi-images/mont-tandou-relief-v2.webp"
+},
     factsAdvanced: {
       hu: ["A Chaillu-hegyvidék egyik jellegzetes magaslata.", "Buja, trópusi esőerdővel borított környék.", "A vízfolyások eróziója alakította a tájat.", "Geológiailag az ország déli részének formációja.", "Fontos szerepet tölt be az ökológiai egyensúlyban.", "A terület vadregényes, kevésbé feltárt vidék."]
     }

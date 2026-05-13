@@ -4,7 +4,9 @@ export const sloveniaLifeV2: POI[] = [
   {
     id: "slovenia-ljubljana-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Ljubljana Zoo", hu: "Ljubljanai Állatkert", ro: "Grădina Zoologică Ljubljana", en: "Ljubljana Zoo" },
+    name: { de: "Ljubljana Zoo", hu: "Ljubljanai Állatkert", ro: "Grădina Zoologică Ljubljana", en: "Ljubljana Zoo",
+image: "/poi-images/slovenia-ljubljana-zoo-life-v2.webp"
+},
     coordinates: { lat: 46.052, lng: 14.472 },
     description: {
       de: "Der Zoo liegt am Südhang des Rožnik-Hügels in einem natürlichen Waldgebiet. Er beherbergt über 500 Tiere aus verschiedenen Kontinenten mit Schwerpunkt auf alpinen Arten.",
@@ -18,11 +20,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Fondată în anul 1949", "Suprafață de aproximativ 20 hectare", "Găzduiește peste 110 specii", "Situată în parcul peisagistic Rožnik"],
       en: ["Founded in 1949", "Area of approximately 20 hectares", "Houses over 110 animal species", "Located in Rožnik Landscape Park"],
     },
-    imageHint: "Ljubljana Zoo entrance with animals", image: "/poi-images/slovenia-ljubljana-zoo-life-v2.webp"},
-  {
+imageHint: "Ljubljana Zoo entrance with animals",
+    descriptionAdvanced: {
+      de: "Der Tierpark am Rožnik-Hügel beherbergt über 100 Tierarten in einer natürlichen Waldlandschaft. Er ist ein wichtiges Zentrum für Bildung und Naturschutz in Zentralslowenien.",
+      hu: "A Rožnik-domb oldalában elterülő állatkert természetes erdei környezetben mutatja be a világ és Szlovénia faunáját. Kiemelt szerepet játszik az őshonos fajok mentésében.",
+      ro: "Grădina Zoologică din Ljubljana, situată pe dealul Rožnik, oferă adăpost pentru numeroase specii într-un cadru forestier natural, fiind un centru educațional important.",
+      en: "Situated on the slopes of Rožnik Hill, this zoo hosts over 100 animal species in a natural forest setting. It serves as a key center for wildlife conservation and education.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1949", "Gesamtfläche von 19,6 Hektar", "Beherbergt etwa 500 Tiere", "6,5 Kilometer Wanderwege"],
+      hu: ["1949-ben alapították", "19,6 hektáros terület", "Mintegy 500 állat él itt", "6,5 km sétaútvonal"],
+      ro: ["Fondată în anul 1949", "Suprafață de 19,6 hectare", "Găzduiește circa 500 animale", "6,5 km de poteci amenajate"],
+      en: ["Founded in 1949", "Total area of 19.6 hectares", "Home to 500 animals", "6.5 kilometers of walking paths"],
+    },
+    image: "/poi-images/slovenia-ljubljana-zoo-life-v2.webp",
+},  {
     id: "slovenia-skocjan-inlet-life-v2",
     type: "wildlife",
-    name: { de: "Naturreservat Škocjan-Bucht", hu: "Škocjan-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Škocjanski zatok", en: "Škocjan Inlet Nature Reserve" },
+    name: { de: "Naturreservat Škocjan-Bucht", hu: "Škocjan-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Škocjanski zatok", en: "Škocjan Inlet Nature Reserve",
+image: "/poi-images/slovenia-skocjan-inlet-life-v2.webp"
+},
     coordinates: { lat: 45.549, lng: 13.75 },
     description: {
       de: "Dieses Brackwasser-Feuchtgebiet bei Koper ist das größte seiner Art in Slowenien. Es dient als wichtiger Rastplatz für zahlreiche Zugvögel an der Adria-Küste.",
@@ -36,11 +53,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cea mai mare zonă umedă salmastră din țară", "Peste 250 de specii de păsări observate", "Restaurare finalizată în 2007", "Situată la periferia orașului Koper"],
       en: ["Largest brackish wetland in the country", "Over 250 bird species observed", "Restoration completed in 2007", "Located on the outskirts of Koper"],
     },
-    imageHint: "Skocjan Inlet birdwatching tower and marshes", image: "/poi-images/slovenia-skocjan-inlet-life-v2.webp"},
-  {
+imageHint: "Skocjan Inlet birdwatching tower and marshes",
+    descriptionAdvanced: {
+      de: "Dieses Brackwasser-Feuchtgebiet bei Koper ist das größte seiner Art in Slowenien. Es dient als kritischer Rastplatz für Zugvögel und bietet einzigartige Beobachtungspunkte.",
+      hu: "Koper melletti brakkvizes mocsárvidék, amely Szlovénia legnagyobb ilyen jellegű vizes élőhelye. Fontos megállóhely a vándormadarak számára az Adriai-tenger partján.",
+      ro: "Această rezervație de lângă Koper este cea mai mare zonă umedă salmastră din Slovenia. Este un punct vital de popas pentru păsările migratoare pe ruta adriatică.",
+      en: "Located near Koper, this brackish wetland is the largest of its kind in Slovenia. It acts as a crucial stopover for migratory birds and offers unique birdwatching sites.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 122 Hektar", "Über 250 Vogelarten gesichtet", "700 Meter langer Lehrpfad", "Renaturierung im Jahr 2007"],
+      hu: ["122 hektár kiterjedésű", "250 megfigyelt madárfaj", "700 méteres tanösvény", "2007-es teljes rehabilitáció"],
+      ro: ["Suprafață de 122 hectare", "250 specii de păsări observate", "Traseu didactic de 700 metri", "Restaurare ecologică în 2007"],
+      en: ["Covers 122 hectares", "250 bird species recorded", "700-meter educational trail", "Major restoration in 2007"],
+    },
+    image: "/poi-images/slovenia-skocjan-inlet-life-v2.webp",
+},  {
     id: "slovenia-kozjanski-park-life-v2",
     type: "park",
-    name: { de: "Regionalpark Kozjansko", hu: "Kozjansko Regionális Park", ro: "Parcul Regional Kozjansko", en: "Kozjansko Regional Park" },
+    name: { de: "Regionalpark Kozjansko", hu: "Kozjansko Regionális Park", ro: "Parcul Regional Kozjansko", en: "Kozjansko Regional Park",
+image: "/poi-images/slovenia-kozjanski-park-life-v2.webp"
+},
     coordinates: { lat: 46.101, lng: 15.607 },
     description: {
       de: "Der Park im Osten Sloweniens schützt eine Kulturlandschaft mit Hochstamm-Obstgärten und bewaldeten Hügeln. Er ist bekannt für seine hohe Biodiversität und traditionelle Landwirtschaft.",
@@ -55,11 +87,25 @@ export const sloveniaLifeV2: POI[] = [
       en: ["Regional park status since 1981", "Important protection area for the hoopoe", "Famous for old apple varieties", "Headquarters in Podsreda"],
     },
     imageHint: "Kozjanski Park orchards and rolling hills",
+    descriptionAdvanced: {
+      de: "Ein UNESCO-Biosphärenreservat, das für seine traditionellen Streuobstwiesen und reiche Biodiversität bekannt ist. Es bewahrt die Harmonie zwischen Natur und Landwirtschaft.",
+      hu: "UNESCO bioszféra-rezervátum, amely hagyományos gyümölcsöseiről és gazdag élővilágáról híres. A park központja a festői Podsreda vára, a vidék kulturális ékköve.",
+      ro: "Rezervație a Biosferei UNESCO, parcul este faimos pentru livezile tradiționale și biodiversitatea bogată, păstrând armonia dintre natură și activitățile umane.",
+      en: "A UNESCO Biosphere Reserve known for its traditional meadow orchards and high biodiversity. It preserves the delicate harmony between nature and rural architecture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 206 km²", "2.000 Hektar Hochstammobstbau", "Sitz in der Burg Podsreda", "Gegründet im Jahr 1981"],
+      hu: ["206 km²-es terület", "2000 hektár magas törzsű gyümölcsös", "Központja Podsreda vára", "1981-ben alapították"],
+      ro: ["Suprafață de 206 km²", "2.000 ha de livezi înalte", "Sediu la Castelul Podsreda", "Înființat în anul 1981"],
+      en: ["Covers 206 sq km", "2,000 hectares of orchards", "Headquarters at Podsreda Castle", "Established in 1981"],
+    },
   },
   {
     id: "slovenia-ljubljana-marshes-life-v2",
     type: "park",
-    name: { de: "Laibacher Moor", hu: "Ljubljanai-mocsár", ro: "Mlaștinile Ljubljana", en: "Ljubljana Marshes" },
+    name: { de: "Laibacher Moor", hu: "Ljubljanai-mocsár", ro: "Mlaștinile Ljubljana", en: "Ljubljana Marshes",
+image: "/poi-images/slovenia-ljubljana-marshes-life-v2.webp"
+},
     coordinates: { lat: 45.986, lng: 14.475 },
     description: {
       de: "Das südlich von Ljubljana gelegene Moor ist das südlichste Hochmoor Europas. Es beherbergt seltene Tier- und Pflanzenarten sowie prähistorische Pfahlbauten-Stätten.",
@@ -73,11 +119,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Situl UNESCO al locuințelor lacustre", "Habitat pentru cristeiul de câmp", "Suprafață de aproximativ 160 km pătrați", "Parc peisagistic din 2008"],
       en: ["UNESCO World Heritage pile-dwelling site", "Habitat for the corn crake", "Area of about 160 square kilometers", "Landscape park since 2008"],
     },
-    imageHint: "Ljubljana Marshes landscape with birds", image: "/poi-images/slovenia-ljubljana-marshes-life-v2.webp"},
-  {
+imageHint: "Ljubljana Marshes landscape with birds",
+    descriptionAdvanced: {
+      de: "Das Moor südlich von Ljubljana ist berühmt für seine prähistorischen Pfahlbauten, die zum UNESCO-Welterbe gehören, und seine seltene Sumpf- und Wiesenflora.",
+      hu: "A Ljubljana melletti lápvidék UNESCO világörökségi helyszín az őskori cölöpházak miatt. Ritka mocsári növényzetnek és fészkelő madaraknak ad otthont a területen.",
+      ro: "Mlaștinile de lângă Ljubljana sunt renumite pentru locuințele preistorice pe piloni (UNESCO) și pentru flora rară de mlaștină ce domină peisajul plat.",
+      en: "This marshland south of Ljubljana is famous for its prehistoric pile dwellings, a UNESCO site, and its rare swamp flora and diverse nesting bird populations.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 160 km²", "89 Schmetterlingsarten", "45 nistende Vogelarten", "UNESCO-Pfahlbauten seit 2011"],
+      hu: ["160 km²-es kiterjedés", "89 pillangófaj él itt", "45 fészkelő madárfaj", "UNESCO védelem 2011 óta"],
+      ro: ["Suprafață de 160 km²", "89 specii de fluturi", "45 specii de păsări cuibăritoare", "Sit UNESCO din 2011"],
+      en: ["Covers 160 sq km", "89 butterfly species", "45 species of nesting birds", "UNESCO site since 2011"],
+    },
+    image: "/poi-images/slovenia-ljubljana-marshes-life-v2.webp",
+},  {
     id: "slovenia-volcji-potok-arboretum-life-v2",
     type: "park",
-    name: { de: "Arboretum Volčji Potok", hu: "Volčji Potok Arborétum", ro: "Arboretumul Volčji Potok", en: "Volčji Potok Arboretum" },
+    name: { de: "Arboretum Volčji Potok", hu: "Volčji Potok Arborétum", ro: "Arboretumul Volčji Potok", en: "Volčji Potok Arboretum",
+image: "/poi-images/slovenia-volcji-potok-arboretum-life-v2.webp"
+},
     coordinates: { lat: 46.185, lng: 14.61 },
     description: {
       de: "Dieser bedeutende botanische Garten bei Kamnik umfasst über 80 Hektar Fläche. Er ist besonders berühmt für seine Tulpenblüte im Frühling und seine umfangreiche Gehölzsammlung.",
@@ -91,11 +152,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cea mai vizitată grădină botanică din Slovenia", "Conține peste 3.500 de specii de plante", "Peste 2 milioane de lalele anual", "Parc public din 1952"],
       en: ["Most visited botanical garden in Slovenia", "Contains over 3,500 plant species", "Over 2 million tulips bloom annually", "Public park since 1952"],
     },
-    imageHint: "Volcji Potok Arboretum with blooming tulips", image: "/poi-images/slovenia-volcji-potok-arboretum-life-v2.webp"},
-  {
+imageHint: "Volcji Potok Arboretum with blooming tulips",
+    descriptionAdvanced: {
+      de: "Der meistbesuchte botanische Garten Sloweniens beeindruckt mit Millionen von Tulpen im Frühling und einer riesigen Sammlung von Gehölzen aus der ganzen Welt.",
+      hu: "Szlovénia leglátogatottabb arborétuma, amely tavasszal több millió tulipánnal és a világ minden tájáról származó fás szárú növénygyűjteménnyel várja a látogatókat.",
+      ro: "Cea mai vizitată grădină botanică din Slovenia impresionează prin milioanele de lalele primăvara și o colecție vastă de arbori din întreaga lume.",
+      en: "Slovenia's most visited botanical garden features millions of spring tulips and a vast collection of woody plants from across the globe in a scenic park.",
+    },
+    factsAdvanced: {
+      de: ["85 Hektar Parkfläche", "3.500 Pflanzentaxa", "2 Millionen Tulpen jährlich", "Parkursprung im Jahr 1885"],
+      hu: ["85 hektáros parkterület", "3500 növénytaxonomiai egység", "Évente 2 millió tulipán", "A park 1885-ös eredetű"],
+      ro: ["85 hectare de parc", "3.500 de specii de plante", "2 milioane de lalele anual", "Originea parcului în 1885"],
+      en: ["85 hectares of parkland", "3,500 plant taxa", "2 million tulips annually", "Park dates back to 1885"],
+    },
+    image: "/poi-images/slovenia-volcji-potok-arboretum-life-v2.webp",
+},  {
     id: "slovenia-ljubljana-botanic-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Ljubljana", hu: "Ljubljanai Botanikus Kert", ro: "Grădina Botanică din Ljubljana", en: "University Botanic Gardens Ljubljana" },
+    name: { de: "Botanischer Garten Ljubljana", hu: "Ljubljanai Botanikus Kert", ro: "Grădina Botanică din Ljubljana", en: "University Botanic Gardens Ljubljana",
+image: "/poi-images/slovenia-ljubljana-botanic-garden-life-v2.webp"
+},
     coordinates: { lat: 46.04, lng: 14.512 },
     description: {
       de: "Der älteste botanische Garten in Südosteuropa wurde 1810 gegründet. Er beherbergt über 4.500 Pflanzenarten und dient der Universität Ljubljana für Forschung und Lehre.",
@@ -109,11 +185,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Fondată în timpul Provinciilor Ilire", "Cea mai veche instituție științifică din țară", "Deține o seră tropicală modernă", "Membră a rețelei BGCI"],
       en: ["Founded during the Illyrian Provinces", "Oldest scientific institution in the country", "Features a modern tropical greenhouse", "Member of the BGCI network"],
     },
-    imageHint: "Ljubljana Botanic Garden greenhouse and plants", image: "/poi-images/slovenia-ljubljana-botanic-garden-life-v2.webp"},
-  {
+imageHint: "Ljubljana Botanic Garden greenhouse and plants",
+    descriptionAdvanced: {
+      de: "Gegründet im Jahr 1810, ist dies die älteste wissenschaftliche Institution der Stadt. Der Garten bewahrt seltene endemische Arten wie die Fleischmann-Pastinake.",
+      hu: "Az 1810-ben alapított botanikus kert a város legrégebbi tudományos intézménye. Olyan ritka endemikus fajokat őriz, mint a Fleischmann-pasztinák.",
+      ro: "Fondată în 1810, aceasta este cea mai veche instituție științifică din oraș, păstrând specii endemice rare, precum păstârnacul lui Fleischmann.",
+      en: "Founded in 1810, this is Ljubljana's oldest cultural and scientific institution. It preserves rare endemic species, including the unique Fleischmann's parsnip.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1810", "Über 4.500 Pflanzenarten", "2 Hektar Kernfläche", "Teil der Universität Ljubljana"],
+      hu: ["1810-ben alapították", "Több mint 4500 növényfaj", "2 hektáros központi terület", "A Ljubljanai Egyetem része"],
+      ro: ["Înființată în anul 1810", "Peste 4.500 specii de plante", "Suprafață de 2 hectare", "Aparține Universității Ljubljana"],
+      en: ["Founded in 1810", "Over 4,500 plant species", "2 hectares core area", "Part of Ljubljana University"],
+    },
+    image: "/poi-images/slovenia-ljubljana-botanic-garden-life-v2.webp",
+},  {
     id: "slovenia-strunjan-nature-park-life-v2",
     type: "park",
-    name: { de: "Landschaftspark Strunjan", hu: "Strunjan Tájvédelmi Park", ro: "Parcul Peisagistic Strunjan", en: "Strunjan Nature Park" },
+    name: { de: "Landschaftspark Strunjan", hu: "Strunjan Tájvédelmi Park", ro: "Parcul Peisagistic Strunjan", en: "Strunjan Nature Park",
+image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp"
+},
     coordinates: { lat: 45.534, lng: 13.601 },
     description: {
       de: "Der Park umfasst den längsten Abschnitt unberührter Küste in der Bucht von Triest. Er ist bekannt für seine bis zu 80 Meter hohen Flysch-Klippen und traditionelle Salinen.",
@@ -127,11 +218,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cel mai înalt perete de fliș de la Adriatica", "Include laguna Stjuža", "Cele mai nordice saline din Mediterană", "Adăpostește organisme marine rare"],
       en: ["Highest flysch wall on the Adriatic", "Includes the Stjuža lagoon", "Northernmost salt pans in the Mediterranean", "Home to rare marine organisms"],
     },
-    imageHint: "Strunjan cliffs and Adriatic sea", image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp"},
-  {
+imageHint: "Strunjan cliffs and Adriatic sea",
+    descriptionAdvanced: {
+      de: "Der Park umfasst die höchsten Flysch-Kliffs der Adria und jahrhundertealte Salzpfannen. Er ist ein Refugium für mediterrane Flora und marine Ökosysteme.",
+      hu: "A park az Adria legmagasabb flis-szikláit és évszázados sólepárlóit foglalja magában. Fontos menedékhely a mediterrán flóra és a tengeri ökoszisztémák számára.",
+      ro: "Parcul include cele mai înalte faleze de fliș de la Adriatica și saline vechi de secole, fiind un refugiu pentru flora mediteraneană și ecosistemele marine.",
+      en: "Featuring the Adriatic's highest flysch cliffs and 700-year-old salt pans, this park protects unique Mediterranean flora and sensitive marine ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["80 Meter hohe Flysch-Kliffs", "4 km unberührte Küste", "160 Hektar Parkfläche", "700 Jahre alte Salzpfannen"],
+      hu: ["80 méter magas sziklák", "4 km érintetlen tengerpart", "160 hektáros parkterület", "700 éves sólepárló medencék"],
+      ro: ["Faleze înalte de 80 metri", "4 km de coastă naturală", "Suprafață de 160 hectare", "Saline vechi de 700 de ani"],
+      en: ["80-meter high flysch cliffs", "4 km of natural coastline", "160 hectares of parkland", "700-year-old salt pans"],
+    },
+    image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp",
+},  {
     id: "slovenia-debeli-rtic-life-v2",
     type: "park",
-    name: { de: "Landschaftspark Debeli Rtič", hu: "Debeli Rtič Tájvédelmi Park", ro: "Parcul Peisagistic Debeli Rtič", en: "Debeli Rtič Landscape Park" },
+    name: { de: "Landschaftspark Debeli Rtič", hu: "Debeli Rtič Tájvédelmi Park", ro: "Parcul Peisagistic Debeli Rtič", en: "Debeli Rtič Landscape Park",
+image: "/poi-images/slovenia-debeli-rtic-life-v2.webp"
+},
     coordinates: { lat: 45.59, lng: 13.705 },
     description: {
       de: "Das Reservat am Ende der Halbinsel Ankaran schützt ein maritimes Ökosystem und submediterrane Vegetation. Es weist markante Flysch-Formationen an der Küste auf.",
@@ -145,11 +251,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Singurul monument natural marin din Slovenia", "Include o bandă marină de 200 m lățime", "Protejează specii rare de corali", "Statut de parc din 2018"],
       en: ["Slovenia's only marine natural monument", "Includes a 200m wide strip of sea", "Protects rare coral species", "Park status since 2018"],
     },
-    imageHint: "Debeli Rtic flysch cliffs and turquoise water", image: "/poi-images/slovenia-debeli-rtic-life-v2.webp"},
-  {
+imageHint: "Debeli Rtic flysch cliffs and turquoise water",
+    descriptionAdvanced: {
+      de: "Dieses Landschaftsschutzgebiet bei Ankaran schützt einen submediterranen Eichenwald und eine natürliche Küstenlinie mit reicher mariner Biodiversität.",
+      hu: "Az Ankaran melletti tájpark egy szubmediterrán tölgyerdőt és egy természetes tengerparti szakaszt védelmez, amely gazdag tengeri biodiverzitással bír.",
+      ro: "Această rezervație peisagistică de lângă Ankaran protejează o pădure submediteraneană de stejar și un țărm natural cu o biodiversitate marină bogată.",
+      en: "Located near Ankaran, this landscape park protects a sub-Mediterranean oak forest and a stretch of natural coastline with rich marine biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["43 Hektar Gesamtfläche", "800 Meter Naturküste", "Schutzstatus seit 1991", "200 gesichtete Vogelarten"],
+      hu: ["43 hektár összterület", "800 méter természetes part", "1991 óta védett terület", "200 megfigyelt madárfaj"],
+      ro: ["Suprafață de 43 hectare", "800 metri de coastă naturală", "Protejat din anul 1991", "200 specii de păsări văzute"],
+      en: ["Total area of 43 hectares", "800 meters of natural shore", "Protected since 1991", "200 bird species recorded"],
+    },
+    image: "/poi-images/slovenia-debeli-rtic-life-v2.webp",
+},  {
     id: "slovenia-lahinja-landscape-park-life-v2",
     type: "park",
-    name: { de: "Landschaftspark Lahinja", hu: "Lahinja Tájvédelmi Park", ro: "Parcul Peisagistic Lahinja", en: "Lahinja Landscape Park" },
+    name: { de: "Landschaftspark Lahinja", hu: "Lahinja Tájvédelmi Park", ro: "Parcul Peisagistic Lahinja", en: "Lahinja Landscape Park",
+image: "/poi-images/slovenia-lahinja-landscape-park-life-v2.webp"
+},
     coordinates: { lat: 45.485, lng: 15.195 },
     description: {
       de: "Der Park im Oberlauf des Flusses Lahinja in der Region Bela Krajina schützt Moore und Feuchtwiesen. Er ist ein wichtiges Rückzugsgebiet für die seltene Europäische Sumpfschildkröte.",
@@ -163,11 +284,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cea mai mare zonă mlăștinoasă din Bela Krajina", "Prezența orhideei papucul doamnei", "Conține situri arheologice", "Protejează izvoarele râului Lahinja"],
       en: ["Largest swampy area in Bela Krajina", "Occurrence of the yellow lady's slipper orchid", "Contains archaeological sites", "Protects the source of the Lahinja River"],
     },
-    imageHint: "Lahinja River marshes and green meadows", image: "/poi-images/slovenia-lahinja-landscape-park-life-v2.webp"},
-  {
+imageHint: "Lahinja River marshes and green meadows",
+    descriptionAdvanced: {
+      de: "Im Herzen der Bela Krajina schützt der Park den Oberlauf des Flusses Lahinja mit seinen Feuchtwiesen, Karstquellen und bedeutenden archäologischen Stätten.",
+      hu: "A Fehér-Krajina szívében fekvő park a Lahinja-folyó felső szakaszát, annak láprétjeit, karsztforrásait és fontos régészeti lelőhelyeit oltalmazza.",
+      ro: "În inima regiunii Bela Krajina, parcul protejează cursul superior al râului Lahinja, cu mlaștini, izvoare carstice și situri arheologice importante.",
+      en: "Located in the heart of Bela Krajina, this park protects the upper Lahinja river with its wet meadows, karst springs, and significant archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 2,6 km²", "7 Hauptquellen der Lahinja", "175 dokumentierte Vogelarten", "Mühle aus dem 18. Jahrhundert"],
+      hu: ["2,6 km²-es terület", "A Lahinja 7 fő forrása", "175 dokumentált madárfaj", "18. századi vízimalom"],
+      ro: ["Suprafață de 2,6 km²", "7 izvoare principale", "175 specii de păsări", "Moară din secolul al XVIII-lea"],
+      en: ["Covers 2.6 sq km", "7 main river springs", "175 bird species recorded", "18th-century water mill"],
+    },
+    image: "/poi-images/slovenia-lahinja-landscape-park-life-v2.webp",
+},  {
     id: "slovenia-rakov-skocjan-life-v2",
     type: "valley",
-    name: { de: "Rakov Škocjan", hu: "Rakov Škocjan", ro: "Rakov Škocjan", en: "Rakov Škocjan" },
+    name: { de: "Rakov Škocjan", hu: "Rakov Škocjan", ro: "Rakov Škocjan", en: "Rakov Škocjan",
+image: "/poi-images/slovenia-rakov-skocjan-life-v2.webp"
+},
     coordinates: { lat: 45.789, lng: 14.298 },
     description: {
       de: "Dieses Karsttal entstand durch den Einsturz von Höhlendecken über dem Fluss Rak. Es ist berühmt für seine natürlichen Felsbrücken und die reiche Höhlenfauna.",
@@ -181,11 +317,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cel mai vechi parc peisagistic din Slovenia (1949)", "Două poduri naturale mari de piatră", "Habitat pentru olm în cursurile de apă", "Lungimea văii este de aproximativ 2,5 km"],
       en: ["Slovenia's oldest landscape park (1949)", "Two large natural stone bridges", "Home to the olm in the watercourses", "Length of the valley is about 2.5 kilometers"],
     },
-    imageHint: "Rakov Skocjan natural stone bridge and river", image: "/poi-images/slovenia-rakov-skocjan-life-v2.webp"},
-  {
+imageHint: "Rakov Skocjan natural stone bridge and river",
+    descriptionAdvanced: {
+      de: "Dieses Karsttal ist berühmt für seine natürlichen Felsbrücken und die versinkenden Gewässer. Es bietet einen faszinierenden Einblick in geologische Prozesse.",
+      hu: "Ez a karsztvölgy természetes kőhídjairól és a föld alá bukó vizeiről híres. Lenyűgöző betekintést nyújt a szlovén karsztvidék geológiai folyamataiba.",
+      ro: "Această vale carstică este celebră pentru podurile sale naturale din piatră și apele care dispar în subteran, oferind o lecție de geologie vie.",
+      en: "A stunning karst valley famous for its natural stone bridges and sinking streams. It offers a fascinating glimpse into Slovenia's underground geological forces.",
+    },
+    factsAdvanced: {
+      de: ["2,5 km langer Lehrpfad", "Große Naturbrücke (42m hoch)", "Schutzstatus seit 1949", "Ältestes Landschaftsschutzgebiet"],
+      hu: ["2,5 km-es tanösvény", "Nagy-természetes híd (42m)", "1949 óta védett terület", "Legrégebbi tájvédelmi körzet"],
+      ro: ["Traseu didactic de 2,5 km", "Podul Mare Natural (42 m)", "Protejat din anul 1949", "Cea mai veche rezervație"],
+      en: ["2.5 km educational trail", "Big Natural Bridge (42m high)", "Protected since 1949", "Oldest landscape park in SLO"],
+    },
+    image: "/poi-images/slovenia-rakov-skocjan-life-v2.webp",
+},  {
     id: "slovenia-kocevski-rog-life-v2",
     type: "forest",
-    name: { de: "Hornwald (Kočevski Rog)", hu: "Kočevski Rog", ro: "Kočevski Rog", en: "Kočevski Rog" },
+    name: { de: "Hornwald (Kočevski Rog)", hu: "Kočevski Rog", ro: "Kočevski Rog", en: "Kočevski Rog",
+image: "/poi-images/slovenia-kocevski-rog-life-v2.webp"
+},
     coordinates: { lat: 45.698, lng: 14.998 },
     description: {
       de: "Eines der größten zusammenhängenden Waldgebiete Zentraleuropas beherbergt Urwaldreste wie Rajhenavski Rog. Es ist ein wichtiges Habitat für Braunbären, Wölfe und Luchse.",
@@ -199,11 +350,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Adăpostește pădurea virgină Rajhenavski Rog", "Cea mai mare populație de urși din Slovenia", "Podiș carstic cu numeroase doline", "Cel mai înalt punct este Veliki Rog (1.099 m)"],
       en: ["Houses the Rajhenavski Rog virgin forest", "Highest bear population in Slovenia", "Karst plateau with many sinkholes", "Highest point is Veliki Rog (1,099 m)"],
     },
-    imageHint: "Kocevski Rog dense forest with tall trees", image: "/poi-images/slovenia-kocevski-rog-life-v2.webp"},
-  {
+imageHint: "Kocevski Rog dense forest with tall trees",
+    descriptionAdvanced: {
+      de: "Ein riesiges Waldplateau, das für seine unberührten Urwälder und als Rückzugsort für große Beutegreifer wie Braunbären, Wölfe und Luchse bekannt ist.",
+      hu: "Hatalmas erdős fennsík, amely érintetlen őserdőiről, valamint a barna medvék, farkasok és hiúzok egyik legfontosabb közép-európai élőhelyéről nevezetes.",
+      ro: "Un platou forestier vast, cunoscut pentru pădurile sale virgine și ca refugiu pentru carnivore mari, precum urșii bruni, lupii și râșii.",
+      en: "A vast forested plateau famous for its primeval forests and as a sanctuary for large carnivores, including brown bears, wolves, and lynxes.",
+    },
+    factsAdvanced: {
+      de: ["500 km² Plateaufläche", "Urwald Rajhenavski Rog (51 ha)", "Höchster Gipfel 1.099 m", "Wichtiges Bärenhabitat"],
+      hu: ["500 km²-es fennsík", "51 ha Rajhenavski Rog őserdő", "1099 méteres csúcs (Veliki Rog)", "Kiemelt medve-élőhely"],
+      ro: ["Platou de 500 km²", "Pădure virgină de 51 ha", "Vârful maxim la 1.099 m", "Habitat major pentru urși"],
+      en: ["500 sq km plateau area", "51 ha virgin forest core", "1,099 m peak (Veliki Rog)", "Key brown bear habitat"],
+    },
+    image: "/poi-images/slovenia-kocevski-rog-life-v2.webp",
+},  {
     id: "slovenia-lovrenc-lakes-life-v2",
     type: "lake",
-    name: { de: "Lovrenc-Seen", hu: "Lovrenci-tavak", ro: "Lacurile Lovrenc", en: "Lovrenc Lakes" },
+    name: { de: "Lovrenc-Seen", hu: "Lovrenci-tavak", ro: "Lacurile Lovrenc", en: "Lovrenc Lakes",
+image: "/poi-images/slovenia-lovrenc-lakes-life-v2.webp"
+},
     coordinates: { lat: 46.476, lng: 15.318 },
     description: {
       de: "Die Seen auf dem Pohorje-Plateau bilden das größte Hochmoor Sloweniens. Es handelt sich um 20 kleine Seen, die nur durch Regenwasser gespeist werden.",
@@ -217,11 +383,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Situate la 1.500 m altitudine", "Adâncimea lacurilor este de cca. 1,2 m", "Prezența plantelor carnivore", "Centrul zonei Natura 2000 Pohorje"],
       en: ["Located at 1,500 m above sea level", "Lake depth is only about 1.2 m", "Growth of carnivorous plants", "Center of the Pohorje Natura 2000 area"],
     },
-    imageHint: "Lovrenc Lakes high moor with wooden footbridges", image: "/poi-images/slovenia-lovrenc-lakes-life-v2.webp"},
-  {
+imageHint: "Lovrenc Lakes high moor with wooden footbridges",
+    descriptionAdvanced: {
+      de: "Diese Moorseen auf dem Pohorje-Plateau bilden das größte Hochmoor Sloweniens. Ein Holzsteg führt Besucher sicher durch das empfindliche Ökosystem.",
+      hu: "A Pohorje-fennsíkon található láptavak Szlovénia legnagyobb magaslápját alkotják. Fapallós ösvény vezeti át a látogatókat az érzékeny ökoszisztémán.",
+      ro: "Aceste lacuri glaciare pe platoul Pohorje formează cea mai mare mlaștină de turbă din Slovenia, accesibilă prin punți de lemn suspendate.",
+      en: "Located on the Pohorje plateau, these peat bog lakes form Slovenia's largest high marsh. Wooden footbridges allow safe exploration of the fragile ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1.520 m", "20 kleine Moorseen", "22 Hektar Moorfläche", "Maximale Tiefe 1,5 m"],
+      hu: ["1520 m tengerszint felett", "20 apró láptó", "22 hektár mocsári terület", "Maximalis mélység 1,5 m"],
+      ro: ["Altitudine de 1.520 m", "20 de lacuri mici de turbă", "Suprafață de 22 hectare", "Adâncime maximă 1,5 m"],
+      en: ["1,520 m above sea level", "20 small peat lakes", "22 hectares of bog area", "Maximum depth of 1.5 m"],
+    },
+    image: "/poi-images/slovenia-lovrenc-lakes-life-v2.webp",
+},  {
     id: "slovenia-ormoz-basins-life-v2",
     type: "wildlife",
-    name: { de: "Lagunen von Ormož", hu: "Ormozi-lagúnák", ro: "Lagunele Ormož", en: "Ormož Basins Nature Reserve" },
+    name: { de: "Lagunen von Ormož", hu: "Ormozi-lagúnák", ro: "Lagunele Ormož", en: "Ormož Basins Nature Reserve",
+image: "/poi-images/slovenia-ormoz-basins-life-v2.webp"
+},
     coordinates: { lat: 46.402, lng: 16.177 },
     description: {
       de: "Dieses ehemalige Absetzbecken einer Zuckerfabrik hat sich zu einem der wichtigsten Feuchtgebiete für Vögel in Slowenien entwickelt. Es bietet Lebensraum für zahlreiche seltene Arten.",
@@ -235,11 +416,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cel mai important loc de cuibărit pentru limicole", "Peste 260 de specii de păsări identificate", "Întreținut prin pășunatul bivolilor de apă", "Rezervație din anul 2017"],
       en: ["Most important breeding site for waders", "Over 260 bird species recorded", "Maintained by water buffalo grazing", "Reserve status since 2017"],
     },
-    imageHint: "Ormoz Basins bird reserve with water buffalo", image: "/poi-images/slovenia-ormoz-basins-life-v2.webp"},
-  {
+imageHint: "Ormoz Basins bird reserve with water buffalo",
+    descriptionAdvanced: {
+      de: "Ehemalige Klärteiche einer Zuckerfabrik wurden zu einem der wichtigsten Vogelschutzgebiete des Landes, ideal für die Beobachtung von Stelzenläufern.",
+      hu: "Egy egykori cukorgyár ülepítő tavai az ország egyik legfontosabb madárvédelmi területévé váltak, ahol ritka gázlómadarak fészkelnek nagy számban.",
+      ro: "Fostele bazine ale unei fabrici de zahăr au devenit una dintre cele mai importante zone avifaunistice din țară, ideale pentru observarea păsărilor.",
+      en: "Former sugar factory settling ponds transformed into one of Slovenia's top bird sanctuaries, providing vital habitat for rare waders and water birds.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 190 Hektar", "260 dokumentierte Vogelarten", "Brutplatz des Stelzenläufers", "Ehemalige Industriebecken"],
+      hu: ["190 hektáros terület", "260 dokumentált madárfaj", "Gólyatöcs fészkelőhelye", "Korábbi ipari tavak"],
+      ro: ["Suprafață de 190 hectare", "260 specii de păsări", "Cuibărit pentru piciorong", "Foste bazine industriale"],
+      en: ["Covers 190 hectares", "260 bird species recorded", "Black-winged stilt nesting", "Former industrial lagoons"],
+    },
+    image: "/poi-images/slovenia-ormoz-basins-life-v2.webp",
+},  {
     id: "slovenia-krakovo-forest-life-v2",
     type: "forest",
-    name: { de: "Krakovo-Wald", hu: "Krakovói-erdő", ro: "Pădurea Krakovo", en: "Krakovo Forest" },
+    name: { de: "Krakovo-Wald", hu: "Krakovói-erdő", ro: "Pădurea Krakovo", en: "Krakovo Forest",
+image: "/poi-images/slovenia-krakovo-forest-life-v2.webp"
+},
     coordinates: { lat: 45.882, lng: 15.422 },
     description: {
       de: "Der Krakovo-Wald ist der größte slowenische Eichen-Hartholz-Auwald. Er liegt im Tal des Flusses Krka und beherbergt ein streng geschütztes Urwaldreservat.",
@@ -253,11 +449,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 2.400 hectare", "Dominată de stejarul pedunculat", "Rezervația virgină are 40 de hectare", "Zonă importantă de reproducere pentru amfibieni"],
       en: ["Area of approximately 2,400 hectares", "Dominance of pedunculate oak", "Virgin forest reserve covers 40 hectares", "Important spawning ground for amphibians"],
     },
-    imageHint: "Krakovo Forest ancient oak trees and water", image: "/poi-images/slovenia-krakovo-forest-life-v2.webp"},
-  {
+imageHint: "Krakovo Forest ancient oak trees and water",
+    descriptionAdvanced: {
+      de: "Der größte Eichen-Urwald Sloweniens beherbergt Jahrhunderte alte Stieleichen und ist ein Überrest der ursprünglichen pannonischen Sumpfwälder.",
+      hu: "Szlovénia legnagyobb ártéri tölgyerdője több száz éves kocsányos tölgyeknek ad otthont, és a pannon mocsárerdők egyik utolsó hű hirmondója.",
+      ro: "Cea mai mare pădure de stejar din Slovenia adăpostește exemplare seculare de stejar pedunculat, fiind un rest al vechilor păduri panonice de câmpie.",
+      en: "Slovenia's largest lowland oak forest contains centuries-old pedunculate oaks and represents a rare remnant of the original Pannonian swamp forests.",
+    },
+    factsAdvanced: {
+      de: ["2.400 Hektar Gesamtfläche", "40 ha Urwaldkern", "UNESCO-Anwärterliste", "Dominanz der Stieleiche"],
+      hu: ["2400 hektár összterület", "40 ha érintetlen erdőmag", "UNESCO várományosi lista", "Kocsányos tölgyek dominanciája"],
+      ro: ["2.400 hectare în total", "40 ha de pădure virgină", "Lista indicativă UNESCO", "Dominanța stejarului"],
+      en: ["2,400 ha total area", "40 ha virgin forest core", "UNESCO tentative list", "Pedunculate oak dominance"],
+    },
+    image: "/poi-images/slovenia-krakovo-forest-life-v2.webp",
+},  {
     id: "slovenia-polhov-gradec-dolomites-life-v2",
     type: "park",
-    name: { de: "Polhov-Gradec-Dolomiten", hu: "Polhov Gradec-i Dolomitok", ro: "Dolomitii Polhov Gradec", en: "Polhov Gradec Dolomites Landscape Park" },
+    name: { de: "Polhov-Gradec-Dolomiten", hu: "Polhov Gradec-i Dolomitok", ro: "Dolomitii Polhov Gradec", en: "Polhov Gradec Dolomites Landscape Park",
+image: "/poi-images/slovenia-polhov-gradec-dolomites-life-v2.webp"
+},
     coordinates: { lat: 46.065, lng: 14.316 },
     description: {
       de: "Dieses Mittelgebirge westlich von Ljubljana ist ein Paradies für Botaniker. Es ist bekannt für den Daphne blagayana, eine seltene Pflanze, die hier 1837 entdeckt wurde.",
@@ -271,11 +482,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Locul descoperirii plantei Daphne blagayana", "Parc peisagistic din 1974", "Cel mai înalt vârf este Grmada (898 m)", "Bogat în plante alpine endemice"],
       en: ["Discovery site of the Daphne blagayana", "Landscape park since 1974", "Highest peak is Grmada (898 m)", "Rich in endemic Alpine plants"],
     },
-    imageHint: "Polhov Gradec Dolomites hills and rare flowers", image: "/poi-images/slovenia-polhov-gradec-dolomites-life-v2.webp"},
-  {
+imageHint: "Polhov Gradec Dolomites hills and rare flowers",
+    descriptionAdvanced: {
+      de: "Diese Hügellandschaft bei Ljubljana ist bekannt für ihre reiche Flora, insbesondere für das seltene Blagay-Seidelbast, das hier 1837 entdeckt wurde.",
+      hu: "Ljubljana közeli dombvidék, amely gazdag flórájáról híres, különösen a ritka Blagay-boroszlánról, amelyet itt fedeztek fel először 1837-ben.",
+      ro: "Această zonă deluroasă de lângă Ljubljana este celebră pentru flora bogată, în special pentru Daphne blagayana, descoperită aici în anul 1837.",
+      en: "A hilly region near Ljubljana famous for its rich flora, particularly the rare Blagay's daphne, which was first discovered here in 1837.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel Grmada (1.021 m)", "180 km² Parkfläche", "30 endemische Pflanzenarten", "1837 Erstfund Seidelbast"],
+      hu: ["Grmada csúcs (1021 m)", "180 km²-es parkterület", "30 endemikus növényfaj", "1837: boroszlán felfedezése"],
+      ro: ["Vârful Grmada (1.021 m)", "Suprafață de 180 km²", "30 specii de plante endemice", "Descoperire daphne în 1837"],
+      en: ["Grmada peak (1,021 m)", "180 sq km park area", "30 endemic plant species", "1837 daphne discovery"],
+    },
+    image: "/poi-images/slovenia-polhov-gradec-dolomites-life-v2.webp",
+},  {
     id: "slovenia-golte-landscape-park-life-v2",
     type: "park",
-    name: { de: "Landschaftspark Golte", hu: "Golte Tájvédelmi Park", ro: "Parcul Peisagistic Golte", en: "Golte Landscape Park" },
+    name: { de: "Landschaftspark Golte", hu: "Golte Tájvédelmi Park", ro: "Parcul Peisagistic Golte", en: "Golte Landscape Park",
+image: "/poi-images/slovenia-golte-landscape-park-life-v2.webp"
+},
     coordinates: { lat: 46.363, lng: 14.912 },
     description: {
       de: "Golte ist ein Hochkarstplateau mit einer reichen Alpenflora. Es beherbergt einen der höchstgelegenen Alpengärten Europas, in dem über 100 einheimische Arten wachsen.",
@@ -289,11 +515,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Grădină alpină la 1.400 m altitudine", "Statut de parc din 1987", "Cunoscut pentru specii rare de gențiană", "Include numeroase peșteri carstice"],
       en: ["Alpine garden at 1,400 m altitude", "Park status since 1987", "Known for rare gentian species", "Includes numerous karst caves"],
     },
-    imageHint: "Golte alpine garden and mountain peaks", image: "/poi-images/slovenia-golte-landscape-park-life-v2.webp"},
-  {
+imageHint: "Golte alpine garden and mountain peaks",
+    descriptionAdvanced: {
+      de: "Ein Hochplateau oberhalb von Mozirje, das für seine markanten Karstphänomene und die reiche alpine Flora in einer subalpinen Umgebung bekannt ist.",
+      hu: "Mozirje feletti karsztfennsík, amely jellegzetes karsztjelenségeiről és gazdag alpesi flórájáról ismert a szubalpesi környezetben.",
+      ro: "Un platou înalt deasupra orașului Mozirje, cunoscut pentru fenomenele carstice marcante și flora alpină bogată într-un cadru subalpin superb.",
+      en: "A high plateau above Mozirje known for its distinct karst phenomena and rich alpine flora set within a beautiful subalpine environment.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1.410 m", "Fläche von 12 km²", "Höchster Punkt 1.588 m", "Schutzstatus seit 1987"],
+      hu: ["1410 m átlagmagasság", "12 km²-es kiterjedés", "1588 m legmagasabb pont", "1987 óta védett terület"],
+      ro: ["Altitudine de 1.410 m", "Suprafață de 12 km²", "Punct maxim la 1.588 m", "Protejat din anul 1987"],
+      en: ["1,410 m average altitude", "12 sq km area", "1,588 m highest point", "Protected since 1987"],
+    },
+    image: "/poi-images/slovenia-golte-landscape-park-life-v2.webp",
+},  {
     id: "slovenia-robanov-kot-life-v2",
     type: "valley",
-    name: { de: "Robanov Kot", hu: "Robanov Kot", ro: "Robanov Kot", en: "Robanov Kot Landscape Park" },
+    name: { de: "Robanov Kot", hu: "Robanov Kot", ro: "Robanov Kot", en: "Robanov Kot Landscape Park",
+image: "/poi-images/slovenia-robanov-kot-life-v2.webp"
+},
     coordinates: { lat: 46.377, lng: 14.717 },
     description: {
       de: "Dieses abgelegene Alpental in den Steiner Alpen ist als Landschaftspark geschützt. Es bewahrt eine traditionelle Almwirtschaft und ursprüngliche Bergwälder.",
@@ -307,11 +548,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Parc peisagistic din 1950", "Interzicerea traficului motorizat", "Vale glaciară în formă de U", "Habitat pentru acvila de munte rară"],
       en: ["Landscape park since 1950", "Ban on motorized traffic", "Glacial U-shaped valley", "Home to rare golden eagles"],
     },
-    imageHint: "Robanov Kot glacial valley and farmhouse", image: "/poi-images/slovenia-robanov-kot-life-v2.webp"},
-  {
+imageHint: "Robanov Kot glacial valley and farmhouse",
+    descriptionAdvanced: {
+      de: "Eines der schönsten Gletschertäler der Steiner Alpen, in dem die traditionelle Almwirtschaft seit Jahrhunderten nahezu unverändert fortbesteht.",
+      hu: "A Steiner-Alpok egyik legszebb gleccservölgye, ahol a hagyományos alpesi gazdálkodás évszázadok óta szinte változatlan formában maradt fenn.",
+      ro: "Una dintre cele mai frumoase văi glaciare din Alpii Kamnici, unde păstoritul tradițional continuă aproape neschimbat de secole.",
+      en: "One of the most beautiful glacial valleys in the Kamnik-Savinja Alps, where traditional alpine farming has remained almost unchanged for centuries.",
+    },
+    factsAdvanced: {
+      de: ["4 km langes Tal", "Schutzstatus seit 1950", "Traditionelle Roban-Farm", "Gletschertal-Ursprung"],
+      hu: ["4 km hosszú völgy", "1950 óta védett terület", "Hagyományos Roban-tanya", "Gleccservölgyi eredet"],
+      ro: ["Vale lungă de 4 km", "Protejată din anul 1950", "Ferma tradițională Roban", "Origine glaciară"],
+      en: ["4 km long valley", "Protected since 1950", "Traditional Roban farm", "Glacial valley origin"],
+    },
+    image: "/poi-images/slovenia-robanov-kot-life-v2.webp",
+},  {
     id: "slovenia-topla-valley-life-v2",
     type: "valley",
-    name: { de: "Topla-Tal", hu: "Topla-völgy", ro: "Valea Topla", en: "Topla Landscape Park" },
+    name: { de: "Topla-Tal", hu: "Topla-völgy", ro: "Valea Topla", en: "Topla Landscape Park",
+image: "/poi-images/slovenia-topla-valley-life-v2.webp"
+},
     coordinates: { lat: 46.471, lng: 14.779 },
     description: {
       de: "Das Topla-Tal unterhalb der Petzen ist ein geschützter Park mit typischer Kärntner Hochgebirgsarchitektur. Er bietet Schutz für Auerwild und alpine Murmeltiere.",
@@ -325,11 +581,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Parc peisagistic din 1966", "Păduri importante de arin negru", "Habitat important pentru cocoșul de mesteacăn", "Situată la poalele muntelui Peca"],
       en: ["Landscape park since 1966", "Significant black alder forests", "Important habitat for black grouse", "Located at the foot of Mount Peca"],
     },
-    imageHint: "Topla valley alpine meadows and traditional farms", image: "/poi-images/slovenia-topla-valley-life-v2.webp"},
-  {
+imageHint: "Topla valley alpine meadows and traditional farms",
+    descriptionAdvanced: {
+      de: "Dieses versteckte Tal unterhalb der Petzen bewahrt eine einzigartige Architektur alter Bergbauernhöfe und eine außergewöhnliche alpine Pflanzwelt.",
+      hu: "A Peca-hegy alatti rejtett völgy őrzi a régi hegyi tanyák egyedi építészetét és a különleges alpesi növényvilág számos ritka példányát.",
+      ro: "Această vale ascunsă de sub muntele Peca păstrează o arhitectură unică a fermelor montane vechi și o floră alpină excepțională.",
+      en: "This hidden valley beneath Mount Peca preserves unique architecture of old mountain farms and an exceptional variety of alpine flora.",
+    },
+    factsAdvanced: {
+      de: ["Schutzstatus seit 1966", "5 historische Großbauernhöfe", "Lage unter dem Berg Peca", "Alpine Biodiversität"],
+      hu: ["1966 óta védett terület", "5 történelmi nagytanya", "A Peca-hegy lábánál fekszik", "Alpesi biodiverzitás"],
+      ro: ["Protejată din anul 1966", "5 ferme istorice mari", "Situată sub muntele Peca", "Biodiversitate alpină"],
+      en: ["Protected since 1966", "5 historic large farms", "Located under Mount Peca", "Alpine biodiversity"],
+    },
+    image: "/poi-images/slovenia-topla-valley-life-v2.webp",
+},  {
     id: "slovenia-maribor-city-park-life-v2",
     type: "park",
-    name: { de: "Stadtpark Maribor", hu: "Maribori Városliget", ro: "Parcul Orașului Maribor", en: "Maribor City Park" },
+    name: { de: "Stadtpark Maribor", hu: "Maribori Városliget", ro: "Parcul Orașului Maribor", en: "Maribor City Park",
+image: "/poi-images/slovenia-maribor-city-park-life-v2.webp"
+},
     coordinates: { lat: 46.565, lng: 15.649 },
     description: {
       de: "Der Stadtpark von Maribor ist ein bedeutendes grünes Denkmal mit drei Teichen. Er beherbergt über 100 einheimische und exotische Baumarten in einer gestalteten Anlage.",
@@ -343,11 +614,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Amenajarea a început în 1872", "Conectat cu iazurile din Maribor", "Conține un acvariu-terariu", "Platani de peste 100 de ani"],
       en: ["Landscaping began in 1872", "Connection to the Maribor ponds", "Features an aquarium-terrarium", "Over 100-year-old plane trees"],
     },
-    imageHint: "Maribor City Park with ponds and old trees", image: "/poi-images/slovenia-maribor-city-park-life-v2.webp"},
-  {
+imageHint: "Maribor City Park with ponds and old trees",
+    descriptionAdvanced: {
+      de: "Die grüne Lunge Maribors ist bekannt für ihre drei Teiche, alte Baumalleen und das Aquarium-Terrarium, ein beliebtes Ziel für Naturfreunde mitten in der Stadt.",
+      hu: "Maribor zöld szíve, amely három taváról, idős fa-alléiről és akvárium-terráriumáról híres, kedvelt pihenőhely a város központjában.",
+      ro: "Plămânul verde al orașului Maribor este faimos pentru cele trei iazuri, aleile cu arbori seculari și acvariul-terariu situat în inima parcului.",
+      en: "Maribor's green lung is famous for its three ponds, ancient tree avenues, and an aquarium-terrarium, offering a peaceful retreat in the city center.",
+    },
+    factsAdvanced: {
+      de: ["54 Hektar Parkfläche", "Errichtet im Jahr 1872", "100 heimische Baumarten", "Drei Ponds (Trije ribniki)"],
+      hu: ["54 hektáros terület", "1872-ben alakították ki", "100 őshonos fafaj", "Három tó (Trije ribniki)"],
+      ro: ["Suprafață de 54 hectare", "Creat în anul 1872", "100 specii de arbori nativi", "Trei iazuri (Trije ribniki)"],
+      en: ["54 hectares of parkland", "Established in 1872", "100 native tree species", "Three Ponds (Trije ribniki)"],
+    },
+    image: "/poi-images/slovenia-maribor-city-park-life-v2.webp",
+},  {
     id: "slovenia-pivka-intermittent-lakes-life-v2",
     type: "lake",
-    name: { de: "Pivka-Seen", hu: "Pivkai időszakos tavak", ro: "Lacurile Intermitente Pivka", en: "Pivka Intermittent Lakes Landscape Park" },
+    name: { de: "Pivka-Seen", hu: "Pivkai időszakos tavak", ro: "Lacurile Intermitente Pivka", en: "Pivka Intermittent Lakes Landscape Park",
+image: "/poi-images/slovenia-pivka-intermittent-lakes-life-v2.webp"
+},
     coordinates: { lat: 45.688, lng: 14.249 },
     description: {
       de: "Dieser Park schützt 17 periodische Karstseen, die nur bei hohem Grundwasserspiegel erscheinen. Das Gebiet weist eine außergewöhnliche Biodiversität an Schmetterlingen auf.",
@@ -362,11 +648,25 @@ export const sloveniaLifeV2: POI[] = [
       en: ["Contains 17 different lakes", "Largest lake is Palčje Lake", "Over 120 butterfly species", "Natura 2000 protected area"],
     },
     imageHint: "Pivka intermittent lake landscape with wildflowers",
+    descriptionAdvanced: {
+      de: "Ein faszinierendes Karstphänomen mit 17 saisonalen Seen, die nur bei starkem Regen erscheinen und eine spezialisierte Flora und Fauna beherbergen.",
+      hu: "Látványos karsztjelenség 17 időszakos tóval, amelyek csak nagy esőzések után tűnnek fel, különleges növény- és állatvilágnak adva otthont.",
+      ro: "Un fenomen carstic fascinant cu 17 lacuri sezoniere care apar doar după ploi abundente, găzduind o floră și faună specializată.",
+      en: "A fascinating karst phenomenon featuring 17 seasonal lakes that appear only after heavy rains, hosting highly specialized flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["17 saisonale Seen", "Fläche von 10,7 km²", "Palčje-See (größter See)", "125 dokumentierte Vogelarten"],
+      hu: ["17 időszakos tó", "10,7 km²-es terület", "Palčje-tó (a legnagyobb)", "125 dokumentált madárfaj"],
+      ro: ["17 lacuri sezoniere", "Suprafață de 10,7 km²", "Lacul Palčje (cel mai mare)", "125 specii de păsări"],
+      en: ["17 intermittent lakes", "10.7 sq km area", "Lake Palčje (largest)", "125 bird species recorded"],
+    },
   },
   {
     id: "slovenia-sezana-botanic-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Sežana", hu: "Sežanai Botanikus Kert", ro: "Grădina Botanică Sežana", en: "Sežana Botanical Garden" },
+    name: { de: "Botanischer Garten Sežana", hu: "Sežanai Botanikus Kert", ro: "Grădina Botanică Sežana", en: "Sežana Botanical Garden",
+image: "/poi-images/slovenia-sezana-botanic-garden-life-v2.webp"
+},
     coordinates: { lat: 45.704, lng: 13.869 },
     description: {
       de: "Der Garten wurde 1848 von der Familie Scaramangà angelegt. Er beherbergt mediterrane Pflanzen und eine bedeutende Sammlung exotischer Bäume aus aller Welt.",
@@ -380,11 +680,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Fondată în anul 1848", "Deține o seră istorică pentru palmieri", "Peste 170 de specii lemnoase", "Centrul domeniului Scaramangà"],
       en: ["Founded in 1848", "Features a large historic palm house", "Over 170 different woody species", "Center of the Scaramangà estate"],
     },
-    imageHint: "Sezana Botanical Garden palm house and exotic trees", image: "/poi-images/slovenia-sezana-botanic-garden-life-v2.webp"},
-  {
+imageHint: "Sezana Botanical Garden palm house and exotic trees",
+    descriptionAdvanced: {
+      de: "Dieser Garten am Rande des Karsts wurde von der Familie Scaramangà angelegt und beherbergt eine wertvolle Sammlung exotischer Pflanzen und ein historisches Palmenhaus.",
+      hu: "A karszt szélén fekvő kertet a Scaramangà család alapította. Egzotikus növénygyűjteményéről és történelmi pálmaházáról nevezetes botanikai ritkaság.",
+      ro: "Grădina de la marginea carstului a fost creată de familia Scaramangà și găzduiește o colecție valoroasă de plante exotice și o seră istorică de palmieri.",
+      en: "Created by the Scaramangà family on the karst edge, this garden hosts a valuable collection of exotic plants and a 19th-century palm house.",
+    },
+    factsAdvanced: {
+      de: ["Anlage im Jahr 1848", "2 Hektar Parkfläche", "170 Pflanzenarten", "Historisches Palmenhaus"],
+      hu: ["1848-ban alapították", "2 hektáros terület", "170 növényfaj", "Történelmi pálmaház"],
+      ro: ["Înființată în anul 1848", "Suprafață de 2 hectare", "170 specii de plante", "Seră istorică de palmieri"],
+      en: ["Garden started in 1848", "2 hectares of parkland", "170 plant species", "19th-century palm house"],
+    },
+    image: "/poi-images/slovenia-sezana-botanic-garden-life-v2.webp",
+},  {
     id: "slovenia-mozirski-gaj-life-v2",
     type: "park",
-    name: { de: "Mozirski gaj", hu: "Mozirski gaj", ro: "Mozirski gaj", en: "Mozirski gaj Flower Park" },
+    name: { de: "Mozirski gaj", hu: "Mozirski gaj", ro: "Mozirski gaj", en: "Mozirski gaj Flower Park",
+image: "/poi-images/slovenia-mozirski-gaj-life-v2.webp"
+},
     coordinates: { lat: 46.337, lng: 14.964 },
     description: {
       de: "Dieser Blumen- und ethnographische Park am Ufer der Savinja zeigt Gartenbaukunst und historische Gebäude. Er ist ein wichtiges Zentrum für floristische Ausstellungen.",
@@ -398,11 +713,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 7 hectare", "Deschis în anul 1978", "Include un muzeu în aer liber", "Cunoscut pentru expoziția de lalele"],
       en: ["Area of approximately 7 hectares", "Opened in 1978", "Includes an open-air museum", "Famous for the tulip exhibition"],
     },
-    imageHint: "Mozirski gaj flower displays and traditional granary", image: "/poi-images/slovenia-mozirski-gaj-life-v2.webp"},
-  {
+imageHint: "Mozirski gaj flower displays and traditional granary",
+    descriptionAdvanced: {
+      de: "Ein farbenfroher Blumenpark am Ufer der Savinja, der neben prächtigen Beeten auch historische slowenische Bauernhäuser und ein Imkereimuseum zeigt.",
+      hu: "Színpompás virágpark a Savinja-folyó partján, ahol a virágágyások mellett hagyományos szlovén parasztházak és méhészeti múzeum is látható.",
+      ro: "Un parc floral plin de culoare pe malul râului Savinja, care prezintă, pe lângă ronduri superbe, case tradiționale slovene și un muzeu al apiculturii.",
+      en: "A vibrant flower park on the banks of the Savinja River, featuring themed gardens alongside traditional Slovenian farm buildings and a bee museum.",
+    },
+    factsAdvanced: {
+      de: ["7 Hektar Parkfläche", "Eröffnung im Jahr 1978", "Ethnographische Gebäude", "Kräutergarten aus dem 18. Jh."],
+      hu: ["7 hektáros terület", "1978-ban nyitották meg", "Néprajzi épületek", "18. századi fűszerkert"],
+      ro: ["Suprafață de 7 hectare", "Deschis în anul 1978", "Clădiri etnografice", "Grădină de ierburi sec. XVIII"],
+      en: ["7 hectares of parkland", "Opened in 1978", "Ethnographic buildings", "18th-century herb garden"],
+    },
+    image: "/poi-images/slovenia-mozirski-gaj-life-v2.webp",
+},  {
     id: "slovenia-juliana-garden-life-v2",
     type: "park",
-    name: { de: "Alpengarten Juliana", hu: "Juliana Alpesi Botanikus Kert", ro: "Grădina Alpină Juliana", en: "Juliana Alpine Botanical Garden" },
+    name: { de: "Alpengarten Juliana", hu: "Juliana Alpesi Botanikus Kert", ro: "Grădina Alpină Juliana", en: "Juliana Alpine Botanical Garden",
+image: "/poi-images/slovenia-juliana-garden-life-v2.webp"
+},
     coordinates: { lat: 46.405, lng: 13.748 },
     description: {
       de: "Der 1926 gegründete Garten im Trenta-Tal ist der älteste botanische Garten im Hochgebirge Sloweniens. Er präsentiert die Flora der Julischen Alpen in natürlicher Umgebung.",
@@ -416,11 +746,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Fondată de Albert Bois de Chesne", "Găzduiește cca. 600 specii de plante", "Altitudine de aproximativ 800 m", "Monument al naturii din 1951"],
       en: ["Founded by Albert Bois de Chesne", "Houses approx. 600 plant species", "Elevation of about 800 m", "Natural monument status since 1951"],
     },
-    imageHint: "Juliana Alpine Garden with mountain flowers and peaks", image: "/poi-images/slovenia-juliana-garden-life-v2.webp"},
-  {
+imageHint: "Juliana Alpine Garden with mountain flowers and peaks",
+    descriptionAdvanced: {
+      de: "Der älteste alpine botanische Garten Sloweniens im Trenta-Tal beherbergt hunderte Pflanzenarten aus den Julischen Alpen in ihrer natürlichen Umgebung.",
+      hu: "A Trenta-völgyben található legidősebb alpesi botanikus kert több száz Júlia-Alpokbeli növényfajt mutat be természetes hegyi környezetükben.",
+      ro: "Cea mai veche grădină botanică alpină din Slovenia, situată în Valea Trenta, adăpostește sute de specii de plante din Alpii Iulieni.",
+      en: "Slovenia's oldest alpine botanical garden, located in the Trenta Valley, protects hundreds of plant species from the Julian Alps in a natural setting.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1926", "Höhe von 800 m", "600 Pflanzenarten", "Fläche von 2.572 m²"],
+      hu: ["1926-ban alapították", "800 m tengerszint felett", "600 növényfaj", "2572 m²-es terület"],
+      ro: ["Fondată în anul 1926", "Altitudine de 800 m", "600 specii de plante", "Suprafață de 2.572 m²"],
+      en: ["Founded in 1926", "Altitude of 800 m", "600 plant species", "Area of 2,572 sq m"],
+    },
+    image: "/poi-images/slovenia-juliana-garden-life-v2.webp",
+},  {
     id: "slovenia-mura-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Biosphärenreservat Mur", hu: "Mura Bioszféra-rezervátum", ro: "Rezervația Biosferei Mura", en: "Mura River Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Mur", hu: "Mura Bioszféra-rezervátum", ro: "Rezervația Biosferei Mura", en: "Mura River Biosphere Reserve",
+image: "/poi-images/slovenia-mura-reserve-life-v2.webp"
+},
     coordinates: { lat: 46.598, lng: 16.205 },
     description: {
       de: "Das Reservat entlang der Mur schützt die dynamische Flusslandschaft mit Auwäldern und Totarmen. Es ist Teil des grenzüberschreitenden UNESCO-Reservats Mura-Drava-Donau.",
@@ -434,11 +779,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Statut UNESCO din 2018", "Habitat important pentru vulturul codalb", "Cea mai mare zonă inundabilă din Slovenia", "Include habitate rare pentru barza neagră"],
       en: ["UNESCO status since 2018", "Important habitat for the white-tailed eagle", "Largest floodplain landscape in Slovenia", "Includes rare black stork habitats"],
     },
-    imageHint: "Mura River oxbow lake and floodplain forest", image: "/poi-images/slovenia-mura-reserve-life-v2.webp"},
-  {
+imageHint: "Mura River oxbow lake and floodplain forest",
+    descriptionAdvanced: {
+      de: "Ein UNESCO-Biosphärenreservat, das die unberührten Auenlandschaften der Mura schützt. Es ist ein Paradies für Störche, Seeadler und seltene Fischarten.",
+      hu: "UNESCO bioszféra-rezervátum, amely a Mura érintetlen ártéri erdőit védi. A vidék a gólyák, rétisasok és ritka halfajok igazi paradicsoma.",
+      ro: "Rezervație a Biosferei UNESCO ce protejează luncile virgine ale râului Mura, fiind un paradis pentru berze, codalbi și specii rare de pești.",
+      en: "A UNESCO Biosphere Reserve protecting the pristine floodplain forests of the Mura River. It is a sanctuary for storks, eagles, and rare fish species.",
+    },
+    factsAdvanced: {
+      de: ["28.000 Hektar in SLO", "Teil des 5-Länder-Parks", "50 verschiedene Fischarten", "Seeadler-Brutgebiet"],
+      hu: ["28 000 hektár Szlovéniában", "5-országos park része", "50 különböző halfaj", "Rétisas fészkelőhely"],
+      ro: ["28.000 ha în Slovenia", "Parte din parcul 5 țări", "50 de specii de pești", "Cuibărit pentru codalb"],
+      en: ["28,000 ha area in SLO", "Part of 5-country reserve", "50 fish species", "White-tailed eagle nesting"],
+    },
+    image: "/poi-images/slovenia-mura-reserve-life-v2.webp",
+},  {
     id: "slovenia-tivoli-park-life-v2",
     type: "park",
-    name: { de: "Tivoli-Park", hu: "Tivoli park", ro: "Parcul Tivoli", en: "Tivoli Park Ljubljana" },
+    name: { de: "Tivoli-Park", hu: "Tivoli park", ro: "Parcul Tivoli", en: "Tivoli Park Ljubljana",
+image: "/poi-images/slovenia-tivoli-park-life-v2.webp"
+},
     coordinates: { lat: 46.055, lng: 14.498 },
     description: {
       de: "Der größte Park in Ljubljana wurde 1813 entworfen und reicht bis in die Innenstadt. Er beherbergt zahlreiche seltene Baumarten, Rosarien und dient als grüne Lunge der Hauptstadt.",
@@ -452,11 +812,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Proiectat de Jean Blanchard", "Suprafață de aproximativ 5 km pătrați", "Conține Centrul Internațional de Grafică", "Conectat cu dealul Rožnik"],
       en: ["Designed by Jean Blanchard", "Area of about 5 square kilometers", "Contains the International Centre of Graphic Arts", "Connected to Rožnik Hill"],
     },
-    imageHint: "Tivoli Park promenade and green lawns", image: "/poi-images/slovenia-tivoli-park-life-v2.webp"},
-  {
+imageHint: "Tivoli Park promenade and green lawns",
+    descriptionAdvanced: {
+      de: "Ljubljanas beliebtester Park verbindet das Stadtzentrum mit den Hügeln. Er bietet prächtige Alleen, Museen und die berühmte Jakopič-Promenade.",
+      hu: "Ljubljana legnépszerűbb parkja összeköti a városközpontot a dombvidékkel. Híres sétányai, múzeumai és a Jakopič-promenád teszik egyedivé.",
+      ro: "Cel mai popular parc din Ljubljana face legătura între centrul orașului și dealuri, oferind alei superbe, muzee și celebra promenadă Jakopič.",
+      en: "Ljubljana's largest and most popular park connects the city center to the hills, featuring grand tree avenues, museums, and the Jakopič Promenade.",
+    },
+    factsAdvanced: {
+      de: ["5 km² Gesamtfläche", "Gestaltet im Jahr 1813", "Jakopič-Promenade", "Drei Hauptalleen"],
+      hu: ["5 km²-es összterület", "1813-ban tervezték", "Jakopič-promenád", "Három fő sétány"],
+      ro: ["Suprafață de 5 km²", "Creat în anul 1813", "Promenada Jakopič", "Trei alei principale"],
+      en: ["Total area of 5 sq km", "Created in 1813", "Jakopič Promenade", "Three main avenues"],
+    },
+    image: "/poi-images/slovenia-tivoli-park-life-v2.webp",
+},  {
     id: "slovenia-lipica-stud-farm-life-v2",
     type: "wildlife",
-    name: { de: "Gestüt Lipica", hu: "Lipicai Ménes", ro: "Herghelia Lipica", en: "Lipica Stud Farm" },
+    name: { de: "Gestüt Lipica", hu: "Lipicai Ménes", ro: "Herghelia Lipica", en: "Lipica Stud Farm",
+image: "/poi-images/slovenia-lipica-stud-farm-life-v2.webp"
+},
     coordinates: { lat: 45.668, lng: 13.883 },
     description: {
       de: "Der Ursprungsort der weltberühmten Lipizzaner-Pferde wurde 1580 gegründet. Es ist das älteste europäische Gestüt, das kontinuierlich dieselbe Rasse züchtet.",
@@ -470,11 +845,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Fondată în anul 1580", "Patrimoniu UNESCO pentru creșterea lipițanilor", "Peste 300 de lipițani trăiesc aici", "Situată în carstul sloven"],
       en: ["Founded in 1580", "UNESCO World Heritage for Lipizzaner breeding", "Over 300 Lipizzaners live here", "Located in the Slovenian Karst"],
     },
-    imageHint: "Lipica stud farm with white horses on pasture", image: "/poi-images/slovenia-lipica-stud-farm-life-v2.webp"},
-  {
+imageHint: "Lipica stud farm with white horses on pasture",
+    descriptionAdvanced: {
+      de: "Die Wiege der weltberühmten Lipizzanerpferde blickt auf eine über 440-jährige Geschichte zurück und ist eines der ältesten Gestüte der Welt.",
+      hu: "A világhírű lipicai lovak bölcsője több mint 440 éves múltra tekint vissza. A világ egyik legrégebbi ménese, ahol ma is folyik a nemes tenyésztés.",
+      ro: "Leagănul celebrelor cai lipițani are o istorie de peste 440 de ani, fiind una dintre cele mai vechi herghelii din lume, funcționând neîncetat.",
+      en: "The cradle of the world-famous Lipizzaner horses, this stud farm dates back to 1580, making it one of the oldest continuously operating stud farms.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1580", "300 Hektar Fläche", "Etwa 350 Pferde", "Reithalle aus dem 19. Jh."],
+      hu: ["1580-ban alapították", "300 hektáros terület", "Mintegy 350 ló", "19. századi lovarda"],
+      ro: ["Fondată în anul 1580", "Suprafață de 300 hectare", "Circa 350 de cai", "Manaj din secolul XIX"],
+      en: ["Founded in 1580", "300 hectares of land", "Home to 350 horses", "19th-century riding hall"],
+    },
+    image: "/poi-images/slovenia-lipica-stud-farm-life-v2.webp",
+},  {
     id: "slovenia-iski-vintgar-life-v2",
     type: "valley",
-    name: { de: "Iški Vintgar", hu: "Iški Vintgar", ro: "Iški Vintgar", en: "Iški Vintgar Gorge" },
+    name: { de: "Iški Vintgar", hu: "Iški Vintgar", ro: "Iški Vintgar", en: "Iški Vintgar Gorge",
+image: "/poi-images/slovenia-iski-vintgar-life-v2.webp"
+},
     coordinates: { lat: 45.918, lng: 14.502 },
     description: {
       de: "Die tiefe Schlucht des Flusses Iška bildet eine natürliche Grenze zwischen den Regionen Dolenjska und Notranjska. Sie beherbergt seltene Farne und kühles Bergwasser.",
@@ -488,11 +878,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Formată de-a lungul unei falii tectonice", "Adâncimea cheilor de până la 400 m", "Habitat pentru feriga limba cerbului", "Loc de cuibărit pentru mierla de apă"],
       en: ["Formed along a tectonic fault line", "Gorge depth up to 400 m", "Home to the rare hart's-tongue fern", "Popular nesting site for dippers"],
     },
-    imageHint: "Iski Vintgar gorge with clear river and rocks", image: "/poi-images/slovenia-iski-vintgar-life-v2.webp"},
-  {
+imageHint: "Iski Vintgar gorge with clear river and rocks",
+    descriptionAdvanced: {
+      de: "Eine tiefe Schlucht des Flusses Iška, die für ihr kühles Mikroklima und seltene alpine Pflanzen bekannt ist, die hier in ungewöhnlich niedrigen Lagen gedeihen.",
+      hu: "Az Iška-folyó mély szurdoka, amely hűvös mikroklímájáról és ritka alpesi növényeiről ismert, melyek itt szokatlanul alacsony tengerszint feletti magasságban élnek.",
+      ro: "Un defileu adânc al râului Iška, cunoscut pentru microclimatul său răcoros și plantele alpine rare care cresc aici la altitudini neobișnuit de joase.",
+      en: "A deep gorge of the Iška River near Ljubljana, famous for its cool microclimate and rare alpine plants growing at unusually low altitudes.",
+    },
+    factsAdvanced: {
+      de: ["300 Meter tiefe Schlucht", "Schutzstatus seit 1948", "6 km langer Wanderweg", "Seltene alpine Flora"],
+      hu: ["300 méter mély szurdok", "1948 óta védett terület", "6 km hosszú túraút", "Ritka alpesi flóra"],
+      ro: ["Defileu de 300 m adâncime", "Protejat din anul 1948", "Traseu lung de 6 km", "Floră alpină rară"],
+      en: ["300 m deep gorge", "Protected since 1948", "6 km long hiking trail", "Rare alpine flora"],
+    },
+    image: "/poi-images/slovenia-iski-vintgar-life-v2.webp",
+},  {
     id: "slovenia-zbilje-lake-life-v2",
     type: "lake",
-    name: { de: "Zbilje-See", hu: "Zbiljei-tó", ro: "Lacul Zbilje", en: "Zbilje Lake" },
+    name: { de: "Zbilje-See", hu: "Zbiljei-tó", ro: "Lacul Zbilje", en: "Zbilje Lake",
+image: "/poi-images/slovenia-zbilje-lake-life-v2.webp"
+},
     coordinates: { lat: 46.155, lng: 14.417 },
     description: {
       de: "Dieser Stausee an der Save bei Medvode ist ein wichtiges Habitat für Wasservögel, insbesondere für Schwäne. Er entstand 1953 durch die Errichtung eines Wasserkraftwerks.",
@@ -506,11 +911,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Cea mai mare populație de lebede de vară", "Loc de iernare pentru păsări migratoare", "Suprafață de aproximativ 70 hectare", "Creat de hidrocentrala Medvode"],
       en: ["Largest population of mute swans", "Wintering site for migratory birds", "Area of about 70 hectares", "Created by the Medvode power plant"],
     },
-    imageHint: "Zbilje Lake with many white swans", image: "/poi-images/slovenia-zbilje-lake-life-v2.webp"},
-  {
+imageHint: "Zbilje Lake with many white swans",
+    descriptionAdvanced: {
+      de: "Ein Stausee an der Save, der sich zu einem wichtigen Lebensraum für Wasservögel entwickelt hat und besonders für seine große Höckerschwan-Population bekannt ist.",
+      hu: "A Száva-folyón kialakított mesterséges tó, amely fontos vízimadár-élőhellyé vált, és különösen a nagy bütykös hattyú populációjáról nevezetes.",
+      ro: "Un lac de acumulare pe râul Sava care a devenit un habitat important pentru păsările de apă, fiind faimos pentru populația mare de lebede.",
+      en: "A reservoir on the Sava River that has evolved into a vital water bird habitat, especially renowned for its large population of mute swans.",
+    },
+    factsAdvanced: {
+      de: ["Entstanden im Jahr 1953", "Fläche von 0,7 km²", "4,5 Millionen m³ Wasser", "Heimat von 100 Schwänen"],
+      hu: ["1953-ban hozták létre", "0,7 km²-es felszín", "4,5 millió m³ víz", "100 hattyú otthona"],
+      ro: ["Creat în anul 1953", "Suprafață de 0,7 km²", "4,5 milioane m³ de apă", "Găzduiește 100 de lebede"],
+      en: ["Created in 1953", "0.7 sq km surface area", "4.5 million m3 of water", "Habitat for 100 swans"],
+    },
+    image: "/poi-images/slovenia-zbilje-lake-life-v2.webp",
+},  {
     id: "slovenia-dovzan-gorge-life-v2",
     type: "valley",
-    name: { de: "Dovžan-Schlucht", hu: "Dovžan-szurdok", ro: "Cheile Dovžan", en: "Dovžan Gorge" },
+    name: { de: "Dovžan-Schlucht", hu: "Dovžan-szurdok", ro: "Cheile Dovžan", en: "Dovžan Gorge",
+image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp"
+},
     coordinates: { lat: 46.375, lng: 14.316 },
     description: {
       de: "Die Schlucht bei Tržič ist ein bedeutendes geologisches Denkmal mit Fossilien aus dem Perm. Sie bietet zudem Lebensraum für alpine Pflanzen auf kalkhaltigem Gestein.",
@@ -524,11 +944,26 @@ export const sloveniaLifeV2: POI[] = [
       ro: ["Situl faimos pentru brachiopode", "Rocile au peste 260 de milioane de ani", "Prezența primulei de Carniola", "Monument al naturii din 1988"],
       en: ["World-famous site for brachiopods", "Rocks are over 260 million years old", "Occurrence of the Carniolan primrose", "Natural monument since 1988"],
     },
-    imageHint: "Dovzan Gorge rocks and river with fossils", image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp"},
-  {
+imageHint: "Dovzan Gorge rocks and river with fossils",
+    descriptionAdvanced: {
+      de: "Eine geologische Schatzkammer bei Tržič, die für ihre 300 Millionen Jahre alten paläozoischen Fossilien und beeindruckenden Felsformationen weltberühmt ist.",
+      hu: "Geológiai kincsesbánya Tržič mellett, amely 300 millió éves paleozoikumi kövületeiről és lenyűgöző sziklaalakzatairól világszerte ismert.",
+      ro: "O vistierie geologică lângă Tržič, celebră în lume pentru fosilele sale paleozoice vechi de 300 de milioane de ani și formațiunile stâncoase uimitoare.",
+      en: "A geological treasure near Tržič, world-famous for its 300-million-year-old Paleozoic fossils and impressive rock formations within the gorge.",
+    },
+    factsAdvanced: {
+      de: ["300 Mio. Jahre alte Steine", "260 Fossilienarten", "Beli Potok Wasserfall", "Schutzstatus seit 1988"],
+      hu: ["300 millió éves kőzetek", "260 felfedezett fosszília", "Beli Potok vízesés", "1988 óta védett terület"],
+      ro: ["Roci de 300 mil. ani", "260 de specii de fosile", "Cascada Beli Potok", "Protejată din anul 1988"],
+      en: ["300 million year old rocks", "260 fossil species found", "Beli Potok waterfall", "Protected since 1988"],
+    },
+    image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp",
+},  {
     id: "slovenia-race-ponds-life-v2",
     type: "wildlife",
-    name: { de: "Rače-Teiche", hu: "Račei-tavak", ro: "Iazurile Rače", en: "Rače Ponds" },
+    name: { de: "Rače-Teiche", hu: "Račei-tavak", ro: "Iazurile Rače", en: "Rače Ponds",
+image: "/poi-images/slovenia-race-ponds-life-v2.webp"
+},
     coordinates: { lat: 46.452, lng: 15.683 },
     description: {
       de: "Dieser Komplex aus Teichen und Auwald bei Maribor ist ein wichtiges Schutzgebiet für Amphibien und Sumpfschildkröten. Er ist Teil des Natura-2000-Netzwerks.",
@@ -543,5 +978,17 @@ export const sloveniaLifeV2: POI[] = [
       en: ["Significant spawning ground for amphibians", "Occurrence of the bladderwort plant", "Houses rare dragonfly species", "Part of the Rački ribniki Landscape Park"],
     },
     imageHint: "Race Ponds landscape with aquatic plants",
+    descriptionAdvanced: {
+      de: "Dieses Landschaftsschutzgebiet umfasst ein Netz von Teichen, das eine außergewöhnliche Vielfalt an Amphibien, Libellen und seltenen Wasserpflanzen beherbergt.",
+      hu: "Ez a tájvédelmi körzet egy tórendszert foglal magában, amely kétéltűek, szitakötők és ritka vízinövények, például a négylevelű mételyfű otthona.",
+      ro: "Această rezervație peisagistică cuprinde o rețea de iazuri ce adăpostește o diversitate excepțională de amfibieni, libelule și plante acvatice rare.",
+      en: "A landscape park featuring a network of ponds that host an exceptional variety of amphibians, dragonflies, and rare aquatic plants on the Drava plain.",
+    },
+    factsAdvanced: {
+      de: ["485 Hektar Parkfläche", "3 Hauptteiche (Rački ribniki)", "210 Vogelarten", "Seltener Kleefarn-Fundort"],
+      hu: ["485 hektáros tájpark", "3 fő tó (Rački ribniki)", "210 madárfaj", "Ritka mételyfű lelőhely"],
+      ro: ["Parc de 485 hectare", "3 iazuri principale", "210 specii de păsări", "Plante acvatice rare"],
+      en: ["485 ha landscape park", "3 main ponds (Rače ponds)", "210 bird species recorded", "Rare water fern habitat"],
+    },
   }
 ];

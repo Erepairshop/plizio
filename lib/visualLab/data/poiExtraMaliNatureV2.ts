@@ -7,7 +7,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-BM",
     coords: [-3.5, 16.5],
-    name: { de: "Niger", hu: "Niger", ro: "Niger", en: "Niger" },
+    name: { de: "Niger", hu: "Niger", ro: "Niger", en: "Niger",
+image: "/poi-images/niger-river-nature-v2.webp"
+},
     description: { de: "Der drittlängste Fluss Afrikas, der durch Mali fließt und eine Lebensader für das Land darstellt.", hu: "Afrika harmadik leghosszabb folyója, amely átfolyik Malin, és az ország éltető ere.", ro: "Al treilea cel mai lung fluviu din Africa, care curge prin Mali și reprezintă o linie de viață pentru țară.", en: "The third longest river in Africa, flowing through Mali and serving as a lifeline for the country." },
     facts: {
       de: ["Lebensader Malis", "UNESCO-Welterbe am Ufer"],
@@ -21,7 +23,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-DD",
     coords: [-1.68, 15.26],
-    name: { de: "Hombori Tondo", hu: "Hombori Tondo", ro: "Hombori Tondo", en: "Hombori Tondo" },
+    name: { de: "Hombori Tondo", hu: "Hombori Tondo", ro: "Hombori Tondo", en: "Hombori Tondo",
+image: "/poi-images/hombori-tondo-nature-v2.webp"
+},
     description: { de: "Der höchste Berg Malis, ein markanter Tafelberg in der Region Mopti.", hu: "Mali legmagasabb hegye, egy jellegzetes táblahegy Mopti régióban.", ro: "Cel mai înalt munte din Mali, un munte plat distinctiv în regiunea Mopti.", en: "The highest mountain in Mali, a prominent table mountain in the Mopti region." },
     facts: {
       de: ["Höchster Punkt Malis", "Geologische Formation"],
@@ -34,7 +38,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-TB",
     coords: [-3.8, 16.7],
-    name: { de: "Lac Faguibine", hu: "Faguibine-tó", ro: "Lacul Faguibine", en: "Lake Faguibine" },
+    name: { de: "Lac Faguibine", hu: "Faguibine-tó", ro: "Lacul Faguibine", en: "Lake Faguibine",
+image: "/poi-images/lake-faguibine-nature-v2.webp"
+},
     description: { de: "Ein bedeutender, aber saisonal stark schwankender See im Norden Malis.", hu: "Egy jelentős, de szezonálisan erősen ingadozó tó Mali északi részén.", ro: "Un lac important, dar care fluctuează puternic sezonier în nordul Maliului.", en: "A significant but seasonally fluctuating lake in northern Mali." },
     facts: {
       de: ["Saisonaler See", "Wichtig für die Landwirtschaft"],
@@ -47,7 +53,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-KK",
     coords: [-7.8, 12.8],
-    name: { de: "Baoulé", hu: "Baoulé", ro: "Baoulé", en: "Baoulé" },
+    name: { de: "Baoulé", hu: "Baoulé", ro: "Baoulé", en: "Baoulé",
+image: "/poi-images/baoule-river-nature-v2.webp"
+},
     description: { de: "Ein Nebenfluss des Bakoy im Westen Malis, der durch das Baoulé-Reservat fließt.", hu: "A Bakoy mellékfolyója Mali nyugati részén, amely átfolyik a Baoulé rezervátumon.", ro: "Un afluent al râului Bakoy în vestul Maliului, care curge prin rezervația Baoulé.", en: "A tributary of the Bakoy river in western Mali, flowing through the Baoulé reserve." },
     facts: {
       de: ["Zufluss des Bakoy", "Naturschutzgebiet"],
@@ -60,7 +68,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-KY",
     coords: [-11.8, 14.7],
-    name: { de: "Falémé", hu: "Falémé", ro: "Falémé", en: "Falémé" },
+    name: { de: "Falémé", hu: "Falémé", ro: "Falémé", en: "Falémé",
+image: "/poi-images/faleme-river-nature-v2.webp"
+},
     description: { de: "Ein Grenzfluss zwischen Mali und dem Senegal.", hu: "Határfolyó Mali és Szenegál között.", ro: "Un râu de frontieră între Mali și Senegal.", en: "A border river between Mali and Senegal." },
     facts: {
       de: ["Grenzfluss", "Goldvorkommen"],
@@ -73,7 +83,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-MP",
     coords: [-4.2, 14.9],
-    name: { de: "Lac Débo", hu: "Débo-tó", ro: "Lacul Débo", en: "Lake Débo" },
+    name: { de: "Lac Débo", hu: "Débo-tó", ro: "Lacul Débo", en: "Lake Débo",
+image: "/poi-images/lake-debore-nature-v2.webp"
+},
     description: { de: "Ein großer See im Niger-Binnendelta in Mali.", hu: "Egy nagy tó a Niger belső deltájában, Maliban.", ro: "Un lac mare în delta interioară a Nigerului din Mali.", en: "A large lake in the Inner Niger Delta in Mali." },
     facts: {
       de: ["Niger-Binnendelta", "Wichtiges Feuchtgebiet"],
@@ -86,7 +98,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-KK",
     coords: [-8.2, 13.1],
-    name: { de: "Mont Dimamou", hu: "Dimamou-hegy", ro: "Muntele Dimamou", en: "Mount Dimamou" },
+    name: { de: "Mont Dimamou", hu: "Dimamou-hegy", ro: "Muntele Dimamou", en: "Mount Dimamou",
+image: "/poi-images/mount-dimamou-nature-v2.webp"
+},
     description: { de: "Ein Berg im westlichen Hochland von Mali.", hu: "Egy hegy Mali nyugati felföldjén.", ro: "Un munte în podișul vestic al Maliului.", en: "A mountain in the western highlands of Mali." },
     facts: {
       de: ["Westliches Hochland", "Bergregion"],
@@ -99,7 +113,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-KK",
     coords: [-10.8, 12.3],
-    name: { de: "Bafing", hu: "Bafing", ro: "Bafing", en: "Bafing" },
+    name: { de: "Bafing", hu: "Bafing", ro: "Bafing", en: "Bafing",
+image: "/poi-images/bafing-river-nature-v2.webp"
+},
     description: { de: "Ein wichtiger Nebenfluss, der in Mali entspringt und den Senegal-Fluss bildet.", hu: "Egy fontos mellékfolyó, amely Maliban ered, és alkotja a Szenegál folyót.", ro: "Un afluent important care izvorăște în Mali și formează râul Senegal.", en: "An important tributary that originates in Mali and forms the Senegal River." },
     facts: {
       de: ["Quellfluss des Senegal", "Wasserkraftpotenzial"],
@@ -125,7 +141,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-SK",
     coords: [-6.5, 11.2],
-    name: { de: "Mont Kourou", hu: "Kourou-hegy", ro: "Muntele Kourou", en: "Mount Kourou" },
+    name: { de: "Mont Kourou", hu: "Kourou-hegy", ro: "Muntele Kourou", en: "Mount Kourou",
+image: "/poi-images/mount-kourou-nature-v2.webp"
+},
     description: { de: "Ein Berg im südlichen Mali, nahe der Grenze zur Elfenbeinküste.", hu: "Egy hegy Dél-Maliban, közel az Elefántcsontpart határához.", ro: "Un munte în sudul Maliului, aproape de granița cu Coasta de Fildeș.", en: "A mountain in southern Mali, near the border with Ivory Coast." },
     facts: {
       de: ["Südliches Mali", "Grenznah"],
@@ -138,7 +156,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-KY",
     coords: [-12.1, 14.2],
-    name: { de: "Lac Tanda", hu: "Tanda-tó", ro: "Lacul Tanda", en: "Lake Tanda" },
+    name: { de: "Lac Tanda", hu: "Tanda-tó", ro: "Lacul Tanda", en: "Lake Tanda",
+image: "/poi-images/lake-tanda-nature-v2.webp"
+},
     description: { de: "Ein kleiner See im Grenzgebiet zu Senegal.", hu: "Egy kis tó a Szenegállal határos területen.", ro: "Un mic lac în zona de frontieră cu Senegalul.", en: "A small lake in the border area with Senegal." },
     facts: {
       de: ["Kleiner See", "Grenzregion"],
@@ -151,7 +171,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-KK",
     coords: [-9.5, 12.5],
-    name: { de: "Mont Sarro", hu: "Sarro-hegy", ro: "Muntele Sarro", en: "Mount Sarro" },
+    name: { de: "Mont Sarro", hu: "Sarro-hegy", ro: "Muntele Sarro", en: "Mount Sarro",
+image: "/poi-images/mount-sarro-nature-v2.webp"
+},
     description: { de: "Ein markanter Gipfel im Westen Malis.", hu: "Egy jellegzetes csúcs Mali nyugati részén.", ro: "Un vârf distinctiv în vestul Maliului.", en: "A prominent peak in western Mali." },
     facts: {
       de: ["West-Mali", "Berg"],
@@ -164,7 +186,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-KK",
     coords: [-8.8, 13.5],
-    name: { de: "Bakoy", hu: "Bakoy", ro: "Bakoy", en: "Bakoy" },
+    name: { de: "Bakoy", hu: "Bakoy", ro: "Bakoy", en: "Bakoy",
+image: "/poi-images/bakoy-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Nebenfluss, der in Mali den Senegal-Fluss speist.", hu: "Egy jelentős mellékfolyó, amely Maliban táplálja a Szenegál folyót.", ro: "Un afluent important care alimentează râul Senegal în Mali.", en: "An important tributary that feeds the Senegal River in Mali." },
     facts: {
       de: ["Zulauf des Senegal", "Wüstenrandfluss"],
@@ -177,7 +201,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-TB",
     coords: [-3.5, 16.2],
-    name: { de: "Lac Niangay", hu: "Niangay-tó", ro: "Lacul Niangay", en: "Lake Niangay" },
+    name: { de: "Lac Niangay", hu: "Niangay-tó", ro: "Lacul Niangay", en: "Lake Niangay",
+image: "/poi-images/lake-niangay-nature-v2.webp"
+},
     description: { de: "Ein Feuchtgebiet im Norden, das für seine reiche Vogelwelt bekannt ist.", hu: "Egy északi vizes élőhely, amely gazdag madárvilágáról ismert.", ro: "O zonă umedă în nord, cunoscută pentru bogata sa viață aviară.", en: "A wetland in the north, known for its rich birdlife." },
     facts: {
       de: ["Feuchtgebiet", "Vogelparadies"],
@@ -190,7 +216,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-TB",
     coords: [-3.0, 16.7],
-    name: { de: "Mont Tombouctou", hu: "Timbuktu-hegy", ro: "Muntele Tombouctou", en: "Mount Timbuktu" },
+    name: { de: "Mont Tombouctou", hu: "Timbuktu-hegy", ro: "Muntele Tombouctou", en: "Mount Timbuktu",
+image: "/poi-images/mount-tombouctou-nature-v2.webp"
+},
     description: { de: "Ein geologisches Relief in der Nähe der legendären Wüstenstadt.", hu: "Egy geológiai domborzati forma a legendás sivatagi város közelében.", ro: "Un relief geologic în apropierea legendarului oraș deșertic.", en: "A geological feature near the legendary desert city." },
     facts: {
       de: ["Wüstenrelief", "Wahrzeichen"],
@@ -203,7 +231,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-KK",
     coords: [-7.5, 13.0],
-    name: { de: "Baoulé-Ba", hu: "Baoulé-Ba", ro: "Baoulé-Ba", en: "Baoulé-Ba" },
+    name: { de: "Baoulé-Ba", hu: "Baoulé-Ba", ro: "Baoulé-Ba", en: "Baoulé-Ba",
+image: "/poi-images/baoule-ba-river-nature-v2.webp"
+},
     description: { de: "Ein weiterer wichtiger Arm des Baoulé-Flusssystems in Mali.", hu: "A Baoulé folyórendszer egy másik fontos ága Maliban.", ro: "O altă ramură importantă a sistemului hidrografic Baoulé din Mali.", en: "Another important branch of the Baoulé river system in Mali." },
     facts: {
       de: ["Flussarm", "Wassernetz"],
@@ -216,7 +246,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-SK",
     coords: [-6.8, 11.5],
-    name: { de: "Mont Koulou", hu: "Koulou-hegy", ro: "Muntele Koulou", en: "Mount Koulou" },
+    name: { de: "Mont Koulou", hu: "Koulou-hegy", ro: "Muntele Koulou", en: "Mount Koulou",
+image: "/poi-images/mount-koulou-nature-v2.webp"
+},
     description: { de: "Ein markanter Gipfel in der Region Sikasso.", hu: "Egy jellegzetes csúcs Sikasso régióban.", ro: "Un vârf distinctiv în regiunea Sikasso.", en: "A prominent peak in the Sikasso region." },
     facts: {
       de: ["Region Sikasso", "Gipfel"],
@@ -229,7 +261,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-MP",
     coords: [-4.5, 14.5],
-    name: { de: "Lac Télé", hu: "Télé-tó", ro: "Lacul Télé", en: "Lake Télé" },
+    name: { de: "Lac Télé", hu: "Télé-tó", ro: "Lacul Télé", en: "Lake Télé",
+image: "/poi-images/lake-tele-nature-v2.webp"
+},
     description: { de: "Ein malerischer See in der Nähe der Stadt Mopti.", hu: "Egy festői tó Mopti városának közelében.", ro: "Un lac pitoresc în apropierea orașului Mopti.", en: "A picturesque lake near the city of Mopti." },
     facts: {
       de: ["In der Nähe von Mopti", "Landschaft"],
@@ -242,7 +276,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-SK",
     coords: [-5.5, 12.0],
-    name: { de: "Bago", hu: "Bago", ro: "Bago", en: "Bago" },
+    name: { de: "Bago", hu: "Bago", ro: "Bago", en: "Bago",
+image: "/poi-images/bago-river-nature-v2.webp"
+},
     description: { de: "Ein kleinerer Flusslauf im fruchtbaren Süden Malis.", hu: "Egy kisebb folyóvíz Mali termékeny déli részén.", ro: "Un curs de apă mai mic în sudul fertil al Maliului.", en: "A smaller watercourse in the fertile south of Mali." },
     facts: {
       de: ["Fruchtbarer Süden", "Fluss"],
@@ -255,7 +291,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-GA",
     coords: [0.5, 16.0],
-    name: { de: "Mont Gourma", hu: "Gourma-hegy", ro: "Muntele Gourma", en: "Mount Gourma" },
+    name: { de: "Mont Gourma", hu: "Gourma-hegy", ro: "Muntele Gourma", en: "Mount Gourma",
+image: "/poi-images/mount-gourma-nature-v2.webp"
+},
     description: { de: "Ein Bergmassiv in der Gourma-Region.", hu: "Egy hegyvonulat a Gourma régióban.", ro: "Un masiv muntos în regiunea Gourma.", en: "A mountain massif in the Gourma region." },
     facts: {
       de: ["Region Gourma", "Bergmassiv"],
@@ -268,7 +306,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-MP",
     coords: [-3.8, 15.1],
-    name: { de: "Lac Korientzé", hu: "Korientzé-tó", ro: "Lacul Korientzé", en: "Lake Korientzé" },
+    name: { de: "Lac Korientzé", hu: "Korientzé-tó", ro: "Lacul Korientzé", en: "Lake Korientzé",
+image: "/poi-images/lake-korientze-nature-v2.webp"
+},
     description: { de: "Ein jahreszeitlich bedingter See in der Zentralregion von Mali.", hu: "Egy évszakfüggő tó Mali középső régiójában.", ro: "Un lac sezonier în regiunea centrală a Maliului.", en: "A seasonal lake in the central region of Mali." },
     facts: {
       de: ["Zentral-Mali", "Saisonal"],
@@ -281,7 +321,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-BM",
     coords: [-3.2, 16.0],
-    name: { de: "Mont Bam", hu: "Bam-hegy", ro: "Muntele Bam", en: "Mount Bam" },
+    name: { de: "Mont Bam", hu: "Bam-hegy", ro: "Muntele Bam", en: "Mount Bam",
+image: "/poi-images/mount-bam-nature-v2.webp"
+},
     description: { de: "Ein sanftes Hügelrelief in der Region Bam.", hu: "Egy szelíd dombvidék Bam régióban.", ro: "Un relief deluros blând în regiunea Bam.", en: "A gentle hill relief in the Bam region." },
     facts: {
       de: ["Region Bam", "Hügelland"],
@@ -294,7 +336,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-SG",
     coords: [-4.9, 13.3],
-    name: { de: "San", hu: "San", ro: "San", en: "San" },
+    name: { de: "San", hu: "San", ro: "San", en: "San",
+image: "/poi-images/san-river-nature-v2.webp"
+},
     description: { de: "Ein lokaler Flusslauf in der Region Ségou.", hu: "Egy helyi folyóvíz Ségou régióban.", ro: "Un curs de apă local în regiunea Ségou.", en: "A local watercourse in the Ségou region." },
     facts: {
       de: ["Region Ségou", "Fluss"],
@@ -308,7 +352,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-DD",
     coords: [-1.2, 14.8],
-    name: { de: "Lac Doro", hu: "Doro-tó", ro: "Lacul Doro", en: "Lake Doro" },
+    name: { de: "Lac Doro", hu: "Doro-tó", ro: "Lacul Doro", en: "Lake Doro",
+image: "/poi-images/lake-doro-nature-v2.webp"
+},
     description: { de: "Ein kleiner See nahe der Dogon-Region.", hu: "Egy kis tó a Dogon régió közelében.", ro: "Un mic lac în apropierea regiunii Dogon.", en: "A small lake near the Dogon region." },
     facts: {
       de: ["Dogon-Region", "See"],
@@ -321,7 +367,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-DD",
     coords: [-1.5, 14.5],
-    name: { de: "Mont Dogon", hu: "Dogon-hegy", ro: "Muntele Dogon", en: "Mount Dogon" },
+    name: { de: "Mont Dogon", hu: "Dogon-hegy", ro: "Muntele Dogon", en: "Mount Dogon",
+image: "/poi-images/mount-dogon-nature-v2.webp"
+},
     description: { de: "Teil des spektakulären Bandiagara-Steilhangs, der das Dogon-Land überragt.", hu: "A látványos Bandiagara-sziklafal része, amely a Dogon-föld fölé magasodik.", ro: "Parte a spectaculosului versant Bandiagara care domină Țara Dogon.", en: "Part of the spectacular Bandiagara Escarpment that overlooks Dogon Country." },
     facts: {
       de: ["Bandiagara-Steilhang", "Weltkulturerbe"],
@@ -334,7 +382,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-SK",
     coords: [-6.2, 11.0],
-    name: { de: "Kourou", hu: "Kourou", ro: "Kourou", en: "Kourou" },
+    name: { de: "Kourou", hu: "Kourou", ro: "Kourou", en: "Kourou",
+image: "/poi-images/kourou-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss im Süden von Mali, der bewässerte Gebiete durchfließt.", hu: "Egy folyó Mali déli részén, amely öntözött területeken halad át.", ro: "Un râu în sudul Maliului care traversează zone irigate.", en: "A river in the south of Mali that flows through irrigated areas." },
     facts: {
       de: ["Süd-Mali", "Bewässerung"],
@@ -347,7 +397,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-TB",
     coords: [-4.0, 16.5],
-    name: { de: "Lac Aougoundou", hu: "Aougoundou-tó", ro: "Lacul Aougoundou", en: "Lake Aougoundou" },
+    name: { de: "Lac Aougoundou", hu: "Aougoundou-tó", ro: "Lacul Aougoundou", en: "Lake Aougoundou",
+image: "/poi-images/lake-aougoundou-nature-v2.webp"
+},
     description: { de: "Ein saisonales Gewässer in der Nähe von Timbuktu.", hu: "Egy szezonális vízfelület Timbuktu közelében.", ro: "Un bazin acvatic sezonier în apropiere de Timbuktu.", en: "A seasonal body of water near Timbuktu." },
     facts: {
       de: ["Bei Timbuktu", "Saisonal"],
@@ -360,7 +412,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-SK",
     coords: [-7.5, 11.4],
-    name: { de: "Mont Bougouni", hu: "Bougouni-hegy", ro: "Muntele Bougouni", en: "Mount Bougouni" },
+    name: { de: "Mont Bougouni", hu: "Bougouni-hegy", ro: "Muntele Bougouni", en: "Mount Bougouni",
+image: "/poi-images/mount-bougouni-nature-v2.webp"
+},
     description: { de: "Ein Relief im Gebiet Bougouni, bekannt für sanfte Erhebungen.", hu: "Egy domborzati forma Bougouni területén, amely szelíd emelkedőiről ismert.", ro: "Un relief în zona Bougouni, cunoscut pentru elevațiile blânde.", en: "A relief in the Bougouni area, known for gentle elevations." },
     facts: {
       de: ["Bougouni", "Hügellandschaft"],
@@ -373,7 +427,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "lake",
     parent: "ML-TB",
     coords: [-3.3, 16.3],
-    name: { de: "Lac Nianga", hu: "Nianga-tó", ro: "Lacul Nianga", en: "Lake Nianga" },
+    name: { de: "Lac Nianga", hu: "Nianga-tó", ro: "Lacul Nianga", en: "Lake Nianga",
+image: "/poi-images/lake-nianga-nature-v2.webp"
+},
     description: { de: "Ein kleinerer See im Norden, oft von Nomaden genutzt.", hu: "Egy kisebb tó északon, amelyet gyakran használnak nomádok.", ro: "Un mic lac în nord, adesea folosit de nomazi.", en: "A smaller lake in the north, often used by nomads." },
     facts: {
       de: ["Norden Malis", "Nomaden-Ressource"],
@@ -386,7 +442,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "mountain",
     parent: "ML-SK",
     coords: [-5.7, 11.3],
-    name: { de: "Mont Sikasso", hu: "Sikasso-hegy", ro: "Muntele Sikasso", en: "Mount Sikasso" },
+    name: { de: "Mont Sikasso", hu: "Sikasso-hegy", ro: "Muntele Sikasso", en: "Mount Sikasso",
+image: "/poi-images/mount-sikasso-nature-v2.webp"
+},
     description: { de: "Ein markanter Punkt in der hügeligen Sikasso-Region.", hu: "Egy jellegzetes pont a dombos Sikasso régióban.", ro: "Un punct distinctiv în regiunea deluroasă Sikasso.", en: "A prominent point in the hilly Sikasso region." },
     facts: {
       de: ["Region Sikasso", "Hügelig"],
@@ -399,7 +457,9 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-KK",
     coords: [-10.5, 12.0],
-    name: { de: "Bafing-Makana", hu: "Bafing-Makana", ro: "Bafing-Makana", en: "Bafing-Makana" },
+    name: { de: "Bafing-Makana", hu: "Bafing-Makana", ro: "Bafing-Makana", en: "Bafing-Makana",
+image: "/poi-images/bafing-makana-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Nebenlauf des Bafing im südwestlichen Mali.", hu: "A Bafing folyó jelentős mellékága Mali délnyugati részén.", ro: "Un afluent important al râului Bafing în sud-vestul Maliului.", en: "An important tributary of the Bafing River in southwestern Mali." },
     facts: {
       de: ["Südwest-Mali", "Flusssystem"],

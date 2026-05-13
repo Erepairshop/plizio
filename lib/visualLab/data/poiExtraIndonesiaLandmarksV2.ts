@@ -11,8 +11,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Kathedrale von Jakarta",
       hu: "Jakartai katedrális",
       ro: "Catedrala din Jakarta",
-      en: "Jakarta Cathedral"
-    },
+      en: "Jakarta Cathedral",
+image: "/poi-images/jakarta-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Eine römisch-katholische Kathedrale in Jakarta, die direkt gegenüber der Istiqlal-Moschee steht und ein Symbol für religiöse Harmonie ist.",
       hu: "Római katolikus katedrális Jakartában, amely közvetlenül az Istiqlal-mecsettel szemben áll, a vallási harmónia szimbóluma.",
@@ -47,8 +48,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Suramadu-Brücke",
       hu: "Suramadu híd",
       ro: "Podul Suramadu",
-      en: "Suramadu Bridge"
-    },
+      en: "Suramadu Bridge",
+image: "/poi-images/suramadu-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine Schrägseilbrücke, die Surabaya auf Java mit der Insel Madura verbindet. Sie ist die längste Brücke in Indonesien.",
       hu: "Ferdekábeles híd, amely összeköti Surabayát Jáván Madura szigetével. Ez Indonézia leghosszabb hídja.",
@@ -83,8 +85,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Bajra Sandhi Monument",
       hu: "Bajra Sandhi emlékmű",
       ro: "Monumentul Bajra Sandhi",
-      en: "Bajra Sandhi Monument"
-    },
+      en: "Bajra Sandhi Monument",
+image: "/poi-images/bajra-sandhi-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Denpasar, Bali, das den Kämpfen des balinesischen Volkes im Laufe der Geschichte gewidmet ist.",
       hu: "Emlékmű Denpasarban, Balin, amelyet a balinéz nép történelme során vívott küzdelmeinek szenteltek.",
@@ -119,8 +122,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Maimun-Palast",
       hu: "Maimun-palota",
       ro: "Palatul Maimun",
-      en: "Maimun Palace"
-    },
+      en: "Maimun Palace",
+image: "/poi-images/maimun-palace-landmarks-v2.webp"
+},
     description: {
       de: "Der königliche Palast des Sultanats von Deli in Medan, Nord-Sumatra. Ein einzigartiges Beispiel für malaiische, islamische und europäische Architektur.",
       hu: "A Deli Szultánság királyi palotája Medanban, Észak-Szumátrán. A maláj, iszlám és európai építészet egyedülálló példája.",
@@ -155,8 +159,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Äquatordenkmal Pontianak",
       hu: "Egyenlítői emlékmű, Pontianak",
       ro: "Monumentul Ecuatorului Pontianak",
-      en: "Equator Monument Pontianak"
-    },
+      en: "Equator Monument Pontianak",
+image: "/poi-images/equator-monument-pontianak-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Pontianak, West-Kalimantan, das den genauen Ort des Äquators markiert.",
       hu: "Emlékmű Pontianakban, Nyugat-Kalimantanban, amely az Egyenlítő pontos helyét jelöli.",
@@ -191,8 +196,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Aussichtspunkt auf Padar Island",
       hu: "Padar-sziget kilátó",
       ro: "Punct de belvedere Insula Padar",
-      en: "Padar Island Viewpoint"
-    },
+      en: "Padar Island Viewpoint",
+image: "/poi-images/padar-island-viewpoint-landmarks-v2.webp"
+},
     description: {
       de: "Ein berühmter Aussichtspunkt auf der Insel Padar im Komodo-Nationalpark, der eine ikonische Aussicht auf drei verschiedenfarbige Strände bietet.",
       hu: "Híres kilátó a Padar-szigeten a Komodo Nemzeti Parkban, amely ikonikus kilátást nyújt három különböző színű strandra.",
@@ -227,8 +233,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Sam Poo Kong Tempel",
       hu: "Sam Poo Kong templom",
       ro: "Templul Sam Poo Kong",
-      en: "Sam Poo Kong Temple"
-    },
+      en: "Sam Poo Kong Temple",
+image: "/poi-images/sam-poo-kong-temple-landmarks-v2.webp"
+},
     description: {
       de: "Der älteste chinesische Tempel in Semarang, Zentraljava, der dem chinesischen Entdecker Admiral Zheng He gewidmet ist.",
       hu: "A legrégebbi kínai templom Semarangban, Közép-Jáván, amelyet Zheng He admiráis kínai felfedezőnek szenteltek.",
@@ -263,8 +270,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Willkommen-in-Jakarta-Denkmal",
       hu: "Üdvözöljük Jakartában emlékmű",
       ro: "Monumentul Bun Venit la Jakarta",
-      en: "Welcome to Jakarta Monument"
-    },
+      en: "Welcome to Jakarta Monument",
+image: "/poi-images/welcome-to-jakarta-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein ikonisches Wahrzeichen im Zentrum von Jakarta, das ein Paar darstellt, das mit Blumen in den Händen winkt.",
       hu: "Ikonikus emlékmű Jakarta központjában, amely egy párt ábrázol, amint virággal a kezükben integetnek.",
@@ -299,8 +307,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Jam Gadang",
       hu: "Jam Gadang",
       ro: "Jam Gadang",
-      en: "Jam Gadang"
-    },
+      en: "Jam Gadang",
+image: "/poi-images/jam-gadang-landmarks-v2.webp"
+},
     description: {
       de: "Ein Uhrturm und Wahrzeichen der Stadt Bukittinggi, West-Sumatra. Ein Geschenk der niederländischen Königin an die Stadt.",
       hu: "Óratorony és Bukittinggi városának jelképe, Nyugat-Szumátrán. A holland királynő ajándéka a városnak.",
@@ -335,8 +344,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Sultanspalast von Tidore",
       hu: "Tidore-i szultáni palota",
       ro: "Palatul Sultanului din Tidore",
-      en: "Sultan's Palace of Tidore"
-    },
+      en: "Sultan's Palace of Tidore",
+image: "/poi-images/sultan-palace-of-tidore-landmarks-v2.webp"
+},
     description: {
       de: "Eine Rekonstruktion des ursprünglichen Palastes des mächtigen Sultanats von Tidore, einem historischen Rivalen von Ternate im Gewürzhandel.",
       hu: "A hatalmas Tidore-i Szultánság eredeti palotájának rekonstrukciója, amely Ternate történelmi riválisa volt a fűszerkereskedelemben.",
@@ -371,8 +381,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Barelang-Brücke",
       hu: "Barelang híd",
       ro: "Podul Barelang",
-      en: "Barelang Bridge"
-    },
+      en: "Barelang Bridge",
+image: "/poi-images/singapore-strait-bridge-batam-landmarks-v2.webp"
+},
     description: {
       de: "Eine Kette von sechs Brücken, die die Inseln Batam, Rempang und Galang verbinden und ein ikonisches Wahrzeichen der Region sind.",
       hu: "Hat hídból álló lánc, amely összeköti Batam, Rempang és Galang szigeteket, és a régió ikonikus jelképe.",
@@ -407,8 +418,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Große Moschee An-Nur",
       hu: "An-Nur Nagymecset",
       ro: "Marea Moschee An-Nur",
-      en: "An-Nur Great Mosque"
-    },
+      en: "An-Nur Great Mosque",
+image: "/poi-images/an-nur-great-mosque-pekanbaru-landmarks-v2.webp"
+},
     description: {
       de: "Eine große Moschee in Pekanbaru, Riau, die für ihre Architektur bekannt ist, die dem Taj Mahal ähnelt.",
       hu: "Nagy mecset Pekanbaruban, Riau tartományban, amely a Tádzs Mahalra emlékeztető építészetéről ismert.",
@@ -443,8 +455,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Liang Bua Höhle",
       hu: "Liang Bua-barlang",
       ro: "Peștera Liang Bua",
-      en: "Liang Bua Cave"
-    },
+      en: "Liang Bua Cave",
+image: "/poi-images/liang-bua-cave-landmarks-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte auf der Insel Flores, wo die Überreste des Homo floresiensis, auch 'Hobbit' genannt, entdeckt wurden.",
       hu: "Régészeti lelőhely Flores szigetén, ahol a Homo floresiensis, más néven a 'hobbit' maradványait fedezték fel.",
@@ -479,8 +492,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Monumen Yogya Kembali",
       hu: "Monumen Yogya Kembali",
       ro: "Monumen Yogya Kembali",
-      en: "Monumen Yogya Kembali"
-    },
+      en: "Monumen Yogya Kembali",
+image: "/poi-images/sleman-monjali-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Yogyakarta, das an die Rückkehr der indonesischen Regierung nach Yogyakarta nach der niederländischen Besetzung erinnert.",
       hu: "Emlékmű Yogyakartában, amely az indonéz kormány visszatérésére emlékeztet Yogyakartába a holland megszállás után.",
@@ -515,8 +529,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Palast des Sultans von Sumenep",
       hu: "Sumenepi szultán palotája",
       ro: "Palatul Sultanului din Sumenep",
-      en: "Palace of the Sultan of Sumenep"
-    },
+      en: "Palace of the Sultan of Sumenep",
+image: "/poi-images/palace-of-the-sultan-of-sumenep-landmarks-v2.webp"
+},
     description: {
       de: "Ein gut erhaltener Palast (Kraton) auf der Insel Madura, der die reiche Geschichte des Sultanats Sumenep zeigt.",
       hu: "Jól megőrzött palota (Kraton) Madura szigetén, amely a Sumenepi Szultánság gazdag történelmét mutatja be.",
@@ -551,8 +566,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Sendang Gile und Tiu Kelep Wasserfall",
       hu: "Sendang Gile és Tiu Kelep vízesés",
       ro: "Cascadele Sendang Gile și Tiu Kelep",
-      en: "Sendang Gile and Tiu Kelep Waterfall"
-    },
+      en: "Sendang Gile and Tiu Kelep Waterfall",
+image: "/poi-images/sendang-gile-and-tiu-kelep-waterfall-landmarks-v2.webp"
+},
     description: {
       de: "Zwei spektakuläre Wasserfälle am Fuße des Mount Rinjani auf Lombok, die eine beliebte Touristenattraktion sind.",
       hu: "Két látványos vízesés a Rinjani-hegy lábánál Lombokon, amelyek népszerű turisztikai látványosságok.",
@@ -587,8 +603,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Bukit Kasih",
       hu: "Bukit Kasih",
       ro: "Bukit Kasih",
-      en: "Bukit Kasih"
-    },
+      en: "Bukit Kasih",
+image: "/poi-images/bukit-kasih-kanonang-landmarks-v2.webp"
+},
     description: {
       de: "Ein Hügel in Nord-Sulawesi, der als spirituelles Zentrum für religiöse Harmonie dient und Gebetsstätten für fünf verschiedene Religionen beherbergt.",
       hu: "Egy hegy Észak-Celebeszen, amely a vallási harmónia spirituális központjaként szolgál, és öt különböző vallás imahelyének ad otthont.",
@@ -623,8 +640,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Sukuh-Tempel",
       hu: "Sukuh-templom",
       ro: "Templul Sukuh",
-      en: "Sukuh Temple"
-    },
+      en: "Sukuh Temple",
+image: "/poi-images/sukuh-temple-landmarks-v2.webp"
+},
     description: {
       de: "Ein javanisch-hinduistischer Tempel aus dem 15. Jahrhundert, der für seine unverwechselbare Pyramidenform und seine expliziten Fruchtbarkeitsreliefs bekannt ist.",
       hu: "15. századi jávai-hindu templom, amely jellegzetes piramis formájáról és explicit termékenységi domborműveiről ismert.",
@@ -659,8 +677,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Ampera-Brücke",
       hu: "Ampera híd",
       ro: "Podul Ampera",
-      en: "Ampera Bridge"
-    },
+      en: "Ampera Bridge",
+image: "/poi-images/ampera-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine Hubbrücke in Palembang, Süd-Sumatra, die den Musi-Fluss überspannt. Es ist das ikonische Wahrzeichen der Stadt.",
       hu: "Felvonóhíd Palembangban, Dél-Szumátrán, amely a Musi folyón ível át. A város ikonikus jelképe.",
@@ -695,8 +714,9 @@ export const poiExtraIndonesiaLandmarksV2: POI[] = [
       de: "Taman Sari Wasserschloss",
       hu: "Taman Sari vízikastély",
       ro: "Castelul de Apă Taman Sari",
-      en: "Taman Sari Water Castle"
-    },
+      en: "Taman Sari Water Castle",
+image: "/poi-images/taman-sari-water-castle-landmarks-v2.webp"
+},
     description: {
       de: "Der ehemalige königliche Garten des Sultanats von Yogyakarta. Einst ein prächtiger Komplex aus Badebecken, Pavillons und künstlichen Seen.",
       hu: "A Yogyakartai Szultánság egykori királyi kertje. Egykor csodálatos komplexum volt fürdőmedencékkel, pavilonokkal és mesterséges tavakkal.",

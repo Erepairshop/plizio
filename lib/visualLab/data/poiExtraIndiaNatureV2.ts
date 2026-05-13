@@ -11,8 +11,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Sundarbans-Nationalpark",
       hu: "Szundarbansz Nemzeti Park",
       ro: "Parcul Național Sundarbans",
-      en: "Sundarbans National Park"
-    },
+      en: "Sundarbans National Park",
+image: "/poi-images/in-sundarbans-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein großer Küstenmangrovenwald, der zum UNESCO-Weltkulturerbe gehört. Er ist bekannt für seine Population des Bengalkönigs-Tigers.",
       hu: "Egy hatalmas tengerparti mangroveerdő, amely az UNESCO Világörökség része. Híres a bengáli királytigris populációjáról.",
@@ -47,8 +48,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Nanda-Devi-Nationalpark",
       hu: "Nanda Dévi Nemzeti Park",
       ro: "Parcul Național Nanda Devi",
-      en: "Nanda Devi National Park"
-    },
+      en: "Nanda Devi National Park",
+image: "/poi-images/in-nanda-devi-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Nationalpark rund um den Gipfel des Nanda Devi im Himalaya. Bekannt für seine abgelegene und unberührte Schönheit.",
       hu: "Egy nemzeti park a Nanda Dévi csúcsa körül a Himalájában. Híres a távoli és érintetlen szépségéről.",
@@ -83,8 +85,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Kanha-Nationalpark",
       hu: "Kanha Nemzeti Park",
       ro: "Parcul Național Kanha",
-      en: "Kanha National Park"
-    },
+      en: "Kanha National Park",
+image: "/poi-images/in-kanha-national-park-nature-v2.webp"
+},
     description: {
       de: "Einer der größten Nationalparks in Madhya Pradesh und eine wichtige Tigerreserve. Inspiration für Rudyard Kiplings 'Das Dschungelbuch'.",
       hu: "Madhja Prades egyik legnagyobb nemzeti parkja és egy fontos tigrisrezervátum. Rudyard Kipling 'A dzsungel könyve' című művének ihletője.",
@@ -119,8 +122,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Periyar-Nationalpark",
       hu: "Perijár Nemzeti Park",
       ro: "Parcul Național Periyar",
-      en: "Periyar National Park"
-    },
+      en: "Periyar National Park",
+image: "/poi-images/in-periyar-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet in den Westghats, bekannt für seine Elefanten- und Tigerreservate. Der Park umgibt einen malerischen See.",
       hu: "Egy védett terület a Nyugati-Ghátokban, híres elefánt- és tigrisrezervátumairól. A park egy festői tavat vesz körül.",
@@ -155,8 +159,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Kaziranga-Nationalpark",
       hu: "Kaziranga Nemzeti Park",
       ro: "Parcul Național Kaziranga",
-      en: "Kaziranga National Park"
-    },
+      en: "Kaziranga National Park",
+image: "/poi-images/in-kaziranga-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Bundesstaat Assam, bekannt für die weltweit größte Population von Panzernashörnern.",
       hu: "Egy védett terület Asszám államban, amely a világ legnagyobb indiai orrszarvú populációjáról ismert.",
@@ -191,8 +196,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Dal-See",
       hu: "Dal-tó",
       ro: "Lacul Dal",
-      en: "Dal Lake"
-    },
+      en: "Dal Lake",
+image: "/poi-images/in-dal-lake-nature-v2.webp"
+},
     description: {
       de: "Ein städtischer See in Srinagar, der 'Juwel in der Krone von Kaschmir' genannt wird. Er ist berühmt für seine Hausboote und Shikaras.",
       hu: "Egy városi tó Szrinagarban, amelyet 'Kasmír koronájának ékkövének' is neveznek. Híres a lakóhajóiról és sikaráiról.",
@@ -227,8 +233,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Pangong Tso See",
       hu: "Pangong-tó",
       ro: "Lacul Pangong Tso",
-      en: "Pangong Tso Lake"
-    },
+      en: "Pangong Tso Lake",
+image: "/poi-images/in-pangong-tso-lake-nature-v2.webp"
+},
     description: {
       de: "Ein endorheischer See im Himalaya, der sich auf einer Höhe von etwa 4.350 m befindet. Er ist bekannt für seine Fähigkeit, die Farbe zu wechseln.",
       hu: "Egy lefolyástalan tó a Himalájában, körülbelül 4350 m magasságban. Híres arról, hogy képes változtatni a színét.",
@@ -263,8 +270,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Chilika-See",
       hu: "Csilka-tó",
       ro: "Lacul Chilika",
-      en: "Chilika Lake"
-    },
+      en: "Chilika Lake",
+image: "/poi-images/in-chilika-lake-nature-v2.webp"
+},
     description: {
       de: "Eine Brackwasserlagune an der Ostküste Indiens. Es ist die größte Küstenlagune in Indien und die zweitgrößte der Welt.",
       hu: "Egy félsós vizű lagúna India keleti partján. Ez India legnagyobb és a világ második legnagyobb parti lagúnája.",
@@ -299,8 +307,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Ganges",
       hu: "Gangesz",
       ro: "Gange",
-      en: "Ganges River"
-    },
+      en: "Ganges River",
+image: "/poi-images/in-ganges-river-nature-v2.webp"
+},
     description: {
       de: "Der heiligste Fluss des Hinduismus, der in den westlichen Himalayas entspringt und in den Golf von Bengalen mündet. Er ist eine Lebensader für Millionen von Indern.",
       hu: "A hinduizmus legszentebb folyója, a nyugati Himalájában ered és a Bengáli-öbölbe ömlik. Több millió indiai számára jelenti az életet.",
@@ -335,8 +344,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Brahmaputra",
       hu: "Brahmaputra",
       ro: "Brahmaputra",
-      en: "Brahmaputra River"
-    },
+      en: "Brahmaputra River",
+image: "/poi-images/in-brahmaputra-river-nature-v2.webp"
+},
     description: {
       de: "Ein transboundary Fluss, der durch Tibet, Indien und Bangladesch fließt. Er ist bekannt für seine katastrophalen Überschwemmungen im Frühling.",
       hu: "Egy határokon átnyúló folyó, amely Tibeten, Indián és Bangladesen folyik keresztül. Híres a tavaszi katasztrofális árvizeiről.",
@@ -371,8 +381,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Yamuna",
       hu: "Jamuna",
       ro: "Yamuna",
-      en: "Yamuna River"
-    },
+      en: "Yamuna River",
+image: "/poi-images/in-yamuna-river-nature-v2.webp"
+},
     description: {
       de: "Der zweitgrößte Nebenfluss des Ganges und der längste Nebenfluss in Indien. Er fließt durch Delhi und Agra.",
       hu: "A Gangesz második legnagyobb mellékfolyója és India leghosszabb mellékfolyója. Átfolyik Delhin és Agrán.",
@@ -407,8 +418,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Kangchendzönga",
       hu: "Kancsendzönga",
       ro: "Kangchenjunga",
-      en: "Kangchenjunga"
-    },
+      en: "Kangchenjunga",
+image: "/poi-images/in-kangchendzonga-mountain-nature-v2.webp"
+},
     description: {
       de: "Der dritthöchste Berg der Welt, an der Grenze zwischen Nepal und dem indischen Bundesstaat Sikkim gelegen.",
       hu: "A világ harmadik legmagasabb hegye, Nepál és az indiai Szikkim állam határán fekszik.",
@@ -443,8 +455,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Nanda Devi",
       hu: "Nanda Dévi",
       ro: "Nanda Devi",
-      en: "Nanda Devi"
-    },
+      en: "Nanda Devi",
+image: "/poi-images/in-nanda-devi-mountain-nature-v2.webp"
+},
     description: {
       de: "Der zweithöchste Berg in Indien und der höchste, der vollständig im Land liegt. Er gilt als die Schutzgöttin des Himalaya von Uttarakhand.",
       hu: "India második legmagasabb hegye, és a legmagasabb, amely teljes egészében az országban található. Uttarakhand Himalája védőistennőjének tartják.",
@@ -479,8 +492,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Gir-Nationalpark",
       hu: "Gir Erdő Nemzeti Park",
       ro: "Parcul Național Pădurea Gir",
-      en: "Gir Forest National Park"
-    },
+      en: "Gir Forest National Park",
+image: "/poi-images/in-gir-forest-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Wildschutzgebiet in Gujarat, das als einziger Lebensraum für den Asiatischen Löwen bekannt ist.",
       hu: "Egy vadvédelmi terület Gudzsarátban, amely az ázsiai oroszlán egyetlen élőhelyeként ismert.",
@@ -515,8 +529,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Jim-Corbett-Nationalpark",
       hu: "Jim Corbett Nemzeti Park",
       ro: "Parcul Național Jim Corbett",
-      en: "Jim Corbett National Park"
-    },
+      en: "Jim Corbett National Park",
+image: "/poi-images/in-jim-corbett-national-park-nature-v2.webp"
+},
     description: {
       de: "Indiens ältester Nationalpark, der zum Schutz des gefährdeten Bengalkönigs-Tigers eingerichtet wurde. Benannt nach dem Jäger und Naturschützer Jim Corbett.",
       hu: "India legrégebbi nemzeti parkja, amelyet a veszélyeztetett bengáli királytigris védelmére hoztak létre. Nevét Jim Corbett vadászról és természetvédőről kapta.",
@@ -551,8 +566,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Tal der Blumen Nationalpark",
       hu: "Virágok völgye Nemzeti Park",
       ro: "Parcul Național Valea Florilor",
-      en: "Valley of Flowers National Park"
-    },
+      en: "Valley of Flowers National Park",
+image: "/poi-images/in-valley-of-flowers-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein Nationalpark im Hochgebirge des Himalaya, bekannt für seine Wiesen mit endemischen Alpenblumen und seine atemberaubende natürliche Schönheit.",
       hu: "Egy magashegyi nemzeti park a Himalájában, amely az endémikus alpesi virágok rétjeiről és lélegzetelállító természeti szépségéről ismert.",
@@ -587,8 +603,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Wular-See",
       hu: "Vular-tó",
       ro: "Lacul Wular",
-      en: "Wular Lake"
-    },
+      en: "Wular Lake",
+image: "/poi-images/in-wular-lake-nature-v2.webp"
+},
     description: {
       de: "Einer der größten Süßwasserseen in Asien, gespeist vom Jhelum-Fluss. Er spielt eine wichtige Rolle bei der Regulierung des Wasserflusses im Kaschmirtal.",
       hu: "Ázsia egyik legnagyobb édesvizű tava, amelyet a Dzhelum folyó táplál. Fontos szerepet játszik a vízszint szabályozásában a Kasmír-völgyben.",
@@ -623,8 +640,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Dudhsagar-Wasserfälle",
       hu: "Dudhsagar-vízesés",
       ro: "Cascadele Dudhsagar",
-      en: "Dudhsagar Falls"
-    },
+      en: "Dudhsagar Falls",
+image: "/poi-images/in-dudhsagar-falls-nature-v2.webp"
+},
     description: {
       de: "Ein vierstufiger Wasserfall am Mandovi-Fluss an der Grenze zwischen Goa und Karnataka. Sein Name bedeutet 'Meer aus Milch'.",
       hu: "Egy négylépcsős vízesés a Mandovi folyón, Goa és Karnátaka határán. Neve 'Tej-tengert' jelent.",
@@ -659,8 +677,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Loktak-See",
       hu: "Loktak-tó",
       ro: "Lacul Loktak",
-      en: "Loktak Lake"
-    },
+      en: "Loktak Lake",
+image: "/poi-images/in-loktak-lake-nature-v2.webp"
+},
     description: {
       de: "Der größte Süßwassersee in Nordostindien, berühmt für seine Phumdis (heterogene Masse aus Vegetation, Boden und organischem Material).",
       hu: "Északkelet-India legnagyobb édesvizű tava, amely a phumdikról (növényzetből, talajból és szerves anyagból álló heterogén tömeg) híres.",
@@ -695,8 +714,9 @@ export const poiExtraIndiaNatureV2: POI[] = [
       de: "Godavari",
       hu: "Gódávari",
       ro: "Godavari",
-      en: "Godavari River"
-    },
+      en: "Godavari River",
+image: "/poi-images/in-godavari-river-nature-v2.webp"
+},
     description: {
       de: "Der zweitlängste Fluss Indiens nach dem Ganges, der oft als Dakshina Ganga (Südganges) bezeichnet wird.",
       hu: "India második leghosszabb folyója a Gangesz után, gyakran Dakshina Gangának (Déli Gangesz) is nevezik.",

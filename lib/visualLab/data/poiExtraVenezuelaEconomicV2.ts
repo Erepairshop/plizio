@@ -7,7 +7,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-X",
     coords: [-66.9333, 10.6],
-    name: { de: "Hafen von La Guaira", hu: "La Guaira kikötője", ro: "Portul La Guaira", en: "Port of La Guaira" },
+    name: { de: "Hafen von La Guaira", hu: "La Guaira kikötője", ro: "Portul La Guaira", en: "Port of La Guaira",
+image: "/poi-images/la-guaira-port-economic-v2.webp"
+},
     description: {
       de: "Einer der wichtigsten Seehäfen Venezuelas, der einen großen Teil der Importe und Exporte des Landes abwickelt.",
       hu: "Venezuela egyik legfontosabb tengeri kikötője, amely az ország importjának és exportjának jelentős részét bonyolítja le.",
@@ -38,7 +40,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-G",
     coords: [-68.0125, 10.4789],
-    name: { de: "Hafen von Puerto Cabello", hu: "Puerto Cabello kikötője", ro: "Portul Puerto Cabello", en: "Port of Puerto Cabello" },
+    name: { de: "Hafen von Puerto Cabello", hu: "Puerto Cabello kikötője", ro: "Portul Puerto Cabello", en: "Port of Puerto Cabello",
+image: "/poi-images/puerto-cabello-port-economic-v2.webp"
+},
     description: {
       de: "Der größte und verkehrsreichste Seehafen in Venezuela, der für die nationale Wirtschaft und den internationalen Handel von zentraler Bedeutung ist.",
       hu: "Venezuela legnagyobb és legforgalmasabb tengeri kikötője, amely kiemelt jelentőségű a nemzetközi kereskedelem szempontjából.",
@@ -68,7 +72,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-V",
     coords: [-71.6056, 10.6317],
-    name: { de: "Hafen von Maracaibo", hu: "Maracaibo kikötője", ro: "Portul Maracaibo", en: "Port of Maracaibo" },
+    name: { de: "Hafen von Maracaibo", hu: "Maracaibo kikötője", ro: "Portul Maracaibo", en: "Port of Maracaibo",
+image: "/poi-images/maracaibo-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Hafen am Maracaibo-See, der hauptsächlich für den Export von Erdölprodukten und landwirtschaftlichen Gütern genutzt wird.",
       hu: "Egy fontos kikötő a Maracaibo-tavon, amelyet főként kőolajtermékek és mezőgazdasági cikkek exportálására használnak.",
@@ -99,7 +105,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-B",
     coords: [-64.5889, 10.2372],
-    name: { de: "Hafen von Guanta", hu: "Guanta kikötője", ro: "Portul Guanta", en: "Port of Guanta" },
+    name: { de: "Hafen von Guanta", hu: "Guanta kikötője", ro: "Portul Guanta", en: "Port of Guanta",
+image: "/poi-images/guanta-port-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Seehafen im Osten Venezuelas, der eng mit der petrochemischen Industrie und dem Kohleexport verbunden ist.",
       hu: "Jelentős tengeri kikötő Kelet-Venezuelában, amely szorosan kapcsolódik a petrolkémiai iparhoz és a szénexporthoz.",
@@ -129,7 +137,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-I",
     coords: [-70.2181, 11.6708],
-    name: { de: "Hafen von Guaranao", hu: "Guaranao kikötője", ro: "Portul Guaranao", en: "Port of Guaranao" },
+    name: { de: "Hafen von Guaranao", hu: "Guaranao kikötője", ro: "Portul Guaranao", en: "Port of Guaranao",
+image: "/poi-images/guaranao-port-economic-v2.webp"
+},
     description: {
       de: "Ein regionaler Hafen auf der Halbinsel Paraguaná, der sowohl für den kommerziellen Handel als auch für die Fischerei wichtig ist.",
       hu: "Regionális kikötő a Paraguaná-félszigeten, amely mind a kereskedelmi áruforgalom, mind a halászat szempontjából fontos.",
@@ -160,7 +170,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-O",
     coords: [-64.085, 10.8803],
-    name: { de: "Hafen von El Guamache", hu: "El Guamache kikötője", ro: "Portul El Guamache", en: "Port of El Guamache" },
+    name: { de: "Hafen von El Guamache", hu: "El Guamache kikötője", ro: "Portul El Guamache", en: "Port of El Guamache",
+image: "/poi-images/el-guamache-port-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Fracht- und Kreuzfahrthafen auf der Isla Margarita, der die Insel mit dem Festland und internationalen Zielen verbindet.",
       hu: "A Margarita-sziget legfontosabb teher- és tengerjáró kikötője, amely összeköti a szigetet a szárazfölddel.",
@@ -190,7 +202,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-F",
     coords: [-62.6689, 8.3564],
-    name: { de: "Erzhafen Palúa", hu: "Palúa érc-kikötő", ro: "Portul de minereu Palúa", en: "Palúa Iron Ore Port" },
+    name: { de: "Erzhafen Palúa", hu: "Palúa érc-kikötő", ro: "Portul de minereu Palúa", en: "Palúa Iron Ore Port",
+image: "/poi-images/palua-iron-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Binnenhafen am Orinoco, der speziell für den Umschlag und Export von Eisenerz aus den nahen Minen konzipiert wurde.",
       hu: "Fontos belvízi kikötő az Orinoco folyón, amelyet kifejezetten a közeli bányákból származó vasérc exportálására terveztek.",
@@ -220,7 +234,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-F",
     coords: [-62.8361, 8.2917],
-    name: { de: "Industriehafen Matanzas", hu: "Matanzas ipari kikötő", ro: "Portul Industrial Matanzas", en: "Matanzas Industrial Port" },
+    name: { de: "Industriehafen Matanzas", hu: "Matanzas ipari kikötő", ro: "Portul Industrial Matanzas", en: "Matanzas Industrial Port",
+image: "/poi-images/matanzas-industrial-port-economic-v2.webp"
+},
     description: {
       de: "Ein industrieller Schwerlasthafen, der die massiven Stahl- und Aluminiumwerke in Ciudad Guayana direkt bedient.",
       hu: "Ipari nehézrakodó kikötő, amely közvetlenül szolgálja ki Ciudad Guayana hatalmas acél- és alumíniumüzemeit.",
@@ -251,7 +267,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-I",
     coords: [-70.2189, 11.7511],
-    name: { de: "Ölhafen Amuay", hu: "Amuay olajkikötő", ro: "Portul Petrolier Amuay", en: "Amuay Oil Port" },
+    name: { de: "Ölhafen Amuay", hu: "Amuay olajkikötő", ro: "Portul Petrolier Amuay", en: "Amuay Oil Port",
+image: "/poi-images/amuay-oil-port-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Tiefwasserhafen, der den Amuay-Raffineriekomplex bedient und für den Export von Erdölprodukten unerlässlich ist.",
       hu: "Speciális mélyvízi kikötő, amely az Amuay finomítót szolgálja ki, és elengedhetetlen a kőolajtermékek exportjához.",
@@ -281,7 +299,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "port",
     parent: "VE-I",
     coords: [-70.2319, 11.6214],
-    name: { de: "Ölhafen Punta Cardón", hu: "Punta Cardón olajkikötő", ro: "Portul Petrolier Punta Cardón", en: "Punta Cardón Oil Port" },
+    name: { de: "Ölhafen Punta Cardón", hu: "Punta Cardón olajkikötő", ro: "Portul Petrolier Punta Cardón", en: "Punta Cardón Oil Port",
+image: "/poi-images/punta-cardon-oil-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen der Cardón-Raffinerie, der den globalen Versand von venezolanischem Öl und Derivaten aus der Region Paraguaná ermöglicht.",
       hu: "A Cardón finomító kikötője, amely lehetővé teszi a venezuelai olaj és származékainak globális szállítását.",
@@ -311,7 +331,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-I",
     coords: [-70.2025, 11.7225],
-    name: { de: "Raffineriekomplex Paraguaná", hu: "Paraguaná finomítói komplexum", ro: "Complexul de Rafinare Paraguaná", en: "Paraguaná Refinery Complex" },
+    name: { de: "Raffineriekomplex Paraguaná", hu: "Paraguaná finomítói komplexum", ro: "Complexul de Rafinare Paraguaná", en: "Paraguaná Refinery Complex",
+image: "/poi-images/paraguana-refinery-economic-v2.webp"
+},
     description: {
       de: "Einer der größten Erdölraffineriekomplexe der Welt, der die Anlagen Amuay und Cardón umfasst und das Rückgrat der venezolanischen Ölindustrie bildet.",
       hu: "A világ egyik legnagyobb kőolaj-finomító komplexuma, amely magában foglalja az Amuay és Cardón létesítményeket.",
@@ -341,7 +363,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-G",
     coords: [-68.125, 10.4811],
-    name: { de: "Raffinerie El Palito", hu: "El Palito finomító", ro: "Rafinăria El Palito", en: "El Palito Refinery" },
+    name: { de: "Raffinerie El Palito", hu: "El Palito finomító", ro: "Rafinăria El Palito", en: "El Palito Refinery",
+image: "/poi-images/el-palito-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine zentrale Erdölraffinerie an der Karibikküste, die wichtig für die Versorgung des inländischen Kraftstoffmarktes ist.",
       hu: "Központi kőolajfinomító a karibi partvidéken, amely fontos a belföldi üzemanyagpiac ellátásában.",
@@ -371,7 +395,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-B",
     coords: [-64.63, 10.2225],
-    name: { de: "Raffinerie Puerto La Cruz", hu: "Puerto La Cruz finomító", ro: "Rafinăria Puerto La Cruz", en: "Puerto La Cruz Refinery" },
+    name: { de: "Raffinerie Puerto La Cruz", hu: "Puerto La Cruz finomító", ro: "Rafinăria Puerto La Cruz", en: "Puerto La Cruz Refinery",
+image: "/poi-images/puerto-la-cruz-refinery-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger petrochemischer Standort im Osten Venezuelas, der Öl aus den Feldern der Region verarbeitet und exportiert.",
       hu: "Fontos petrolkémiai létesítmény Kelet-Venezuelában, amely a régió olajmezőiből származó olajat dolgozza fel és exportálja.",
@@ -401,7 +427,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-V",
     coords: [-71.6492, 10.5103],
-    name: { de: "Raffinerie Bajo Grande", hu: "Bajo Grande finomító", ro: "Rafinăria Bajo Grande", en: "Bajo Grande Refinery" },
+    name: { de: "Raffinerie Bajo Grande", hu: "Bajo Grande finomító", ro: "Rafinăria Bajo Grande", en: "Bajo Grande Refinery",
+image: "/poi-images/bajo-grande-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine spezialisierte Raffinerie am Ufer des Maracaibo-Sees, die Asphalt und andere schwere Ölprodukte herstellt.",
       hu: "Speciális finomító a Maracaibo-tó partján, amely aszfaltot és más nehézolaj-termékeket állít elő.",
@@ -431,7 +459,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-B",
     coords: [-64.4667, 9.4333],
-    name: { de: "Raffinerie San Roque", hu: "San Roque finomító", ro: "Rafinăria San Roque", en: "San Roque Refinery" },
+    name: { de: "Raffinerie San Roque", hu: "San Roque finomító", ro: "Rafinăria San Roque", en: "San Roque Refinery",
+image: "/poi-images/san-roque-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine einzigartige, hochspezialisierte Anlage in Anaco, die das einzige Paraffinwachs in ganz Venezuela produziert.",
       hu: "Egyedülálló, magasan specializált üzem Anacóban, amely egész Venezuela egyetlen paraffinviasz-termelője.",
@@ -461,7 +491,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-62.8222, 8.2831],
-    name: { de: "Stahlwerk Sidor", hu: "Sidor acélmű", ro: "Uzina Siderurgică Sidor", en: "Sidor Steel Plant" },
+    name: { de: "Stahlwerk Sidor", hu: "Sidor acélmű", ro: "Uzina Siderurgică Sidor", en: "Sidor Steel Plant",
+image: "/poi-images/sidor-steel-plant-economic-v2.webp"
+},
     description: {
       de: "Das gigantische Stahlwerk Siderúrgica del Orinoco ist das industrielle Herz von Ciudad Guayana und ganz Lateinamerika.",
       hu: "A gigantikus Siderúrgica del Orinoco acélmű Ciudad Guayana és egész Latin-Amerika ipari szíve.",
@@ -491,7 +523,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-62.8228, 8.3039],
-    name: { de: "Aluminiumhütte Venalum", hu: "Venalum alumíniumkohó", ro: "Uzina de Aluminiu Venalum", en: "Venalum Aluminum Plant" },
+    name: { de: "Aluminiumhütte Venalum", hu: "Venalum alumíniumkohó", ro: "Uzina de Aluminiu Venalum", en: "Venalum Aluminum Plant",
+image: "/poi-images/venalum-aluminum-plant-economic-v2.webp"
+},
     description: {
       de: "Eine massive Anlage zur Herstellung von Primäraluminium, die stark von der reichlich vorhandenen Wasserkraft des Río Caroní profitiert.",
       hu: "Hatalmas elsődleges alumíniumot előállító üzem, amely nagymértékben támaszkodik a Río Caroní bőséges vízenergiájára.",
@@ -521,7 +555,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-62.8211, 8.315],
-    name: { de: "Aluminiumwerk Alcasa", hu: "Alcasa alumíniummű", ro: "Uzina de Aluminiu Alcasa", en: "Alcasa Aluminum Plant" },
+    name: { de: "Aluminiumwerk Alcasa", hu: "Alcasa alumíniummű", ro: "Uzina de Aluminiu Alcasa", en: "Alcasa Aluminum Plant",
+image: "/poi-images/alcasa-aluminum-plant-economic-v2.webp"
+},
     description: {
       de: "Ein Pionier der venezolanischen Aluminiumindustrie in Ciudad Guayana, spezialisiert auf die Herstellung von Aluminiumblechen und -folien.",
       hu: "A venezuelai alumíniumipar úttörője Ciudad Guayanában, amely alumíniumlemezek és fóliák gyártására specializálódott.",
@@ -551,7 +587,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-62.8322, 8.2889],
-    name: { de: "Bauxit-Raffinerie Bauxilum", hu: "Bauxilum timföldgyár", ro: "Rafinăria de Bauxită Bauxilum", en: "Bauxilum Alumina Plant" },
+    name: { de: "Bauxit-Raffinerie Bauxilum", hu: "Bauxilum timföldgyár", ro: "Rafinăria de Bauxită Bauxilum", en: "Bauxilum Alumina Plant",
+image: "/poi-images/bauxilum-alumina-plant-economic-v2.webp"
+},
     description: {
       de: "Das entscheidende Bindeglied in Venezuelas Aluminium-Produktionskette, wo abgebautes Bauxit in Alumina (Tonerde) umgewandelt wird.",
       hu: "A venezuelai alumínium-termelési lánc döntő láncszeme, ahol a bányászott bauxitot timfölddé alakítják.",
@@ -581,7 +619,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-63.3833, 7.5167],
-    name: { de: "Eisenerzmine Cerro Bolívar", hu: "Cerro Bolívar vasércbánya", ro: "Mina de Fier Cerro Bolívar", en: "Cerro Bolívar Iron Mine" },
+    name: { de: "Eisenerzmine Cerro Bolívar", hu: "Cerro Bolívar vasércbánya", ro: "Mina de Fier Cerro Bolívar", en: "Cerro Bolívar Iron Mine",
+image: "/poi-images/cerro-bolivar-mine-economic-v2.webp"
+},
     description: {
       de: "Ein legendärer Berg aus fast reinem Eisenerz, dessen Entdeckung den Beginn von Venezuelas massiver Stahlindustrie markierte.",
       hu: "Egy legendás, szinte tiszta vasércből álló hegy, amelynek felfedezése a venezuelai acélipar kezdetét jelentette.",
@@ -611,7 +651,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-62.7094, 8.3517],
-    name: { de: "Eisenerzbetrieb Ferrominera", hu: "Ferrominera vasércüzem", ro: "Operațiunile Ferrominera Orinoco", en: "Ferrominera Orinoco Operations" },
+    name: { de: "Eisenerzbetrieb Ferrominera", hu: "Ferrominera vasércüzem", ro: "Operațiunile Ferrominera Orinoco", en: "Ferrominera Orinoco Operations",
+image: "/poi-images/ferrominera-orinoco-economic-v2.webp"
+},
     description: {
       de: "Das staatliche Zentrum für die Verarbeitung und den Transport von Eisenerz in Ciudad Guayana, das Minen und Häfen verbindet.",
       hu: "A vasérc feldolgozásának és szállításának állami központja Ciudad Guayanában, amely bányákat és kikötőket köt össze.",
@@ -641,7 +683,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-61.2, 6.25],
-    name: { de: "Goldmine Las Cristinas", hu: "Las Cristinas aranybánya", ro: "Mina de Aur Las Cristinas", en: "Las Cristinas Gold Mine" },
+    name: { de: "Goldmine Las Cristinas", hu: "Las Cristinas aranybánya", ro: "Mina de Aur Las Cristinas", en: "Las Cristinas Gold Mine",
+image: "/poi-images/las-cristinas-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Goldlagerstätten Lateinamerikas, gelegen tief in der ressourcenreichen Dschungelregion von Bolívar.",
       hu: "Latin-Amerika egyik legnagyobb aranylelőhelye, amely Bolívar erőforrásokban gazdag dzsungelének mélyén található.",
@@ -671,7 +715,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-61.2333, 6.2167],
-    name: { de: "Goldmine Las Brisas", hu: "Las Brisas aranybánya", ro: "Mina de Aur Las Brisas", en: "Las Brisas Gold Mine" },
+    name: { de: "Goldmine Las Brisas", hu: "Las Brisas aranybánya", ro: "Mina de Aur Las Brisas", en: "Las Brisas Gold Mine",
+image: "/poi-images/las-brisas-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Eine weitere riesige Gold- und Kupfermine im kilometer73-Distrikt, die ein immenses Mineralienpotenzial für Venezuela darstellt.",
       hu: "Egy újabb hatalmas arany- és rézbánya a 73-as kilométer körzetben, amely óriási ásványianyag-potenciált jelent Venezuela számára.",
@@ -701,7 +747,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-V",
     coords: [-71.8667, 11.0167],
-    name: { de: "Kohlemine Paso Diablo", hu: "Paso Diablo szénbánya", ro: "Mina de Cărbune Paso Diablo", en: "Paso Diablo Coal Mine" },
+    name: { de: "Kohlemine Paso Diablo", hu: "Paso Diablo szénbánya", ro: "Mina de Cărbune Paso Diablo", en: "Paso Diablo Coal Mine",
+image: "/poi-images/paso-diablo-coal-mine-economic-v2.webp"
+},
     description: {
       de: "Die größte Kohletagebaumine Venezuelas im Guasare-Becken des Bundesstaates Zulia, die qualitativ hochwertige Kraftwerkskohle fördert.",
       hu: "Venezuela legnagyobb külszíni szénbányája a Zulia állambeli Guasare-medencében, amely kiváló minőségű erőművi szenet termel.",
@@ -731,7 +779,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-V",
     coords: [-71.8333, 11.05],
-    name: { de: "Kohlemine Norte", hu: "Mina Norte szénbánya", ro: "Mina de Cărbune Norte", en: "Mina Norte Coal Mine" },
+    name: { de: "Kohlemine Norte", hu: "Mina Norte szénbánya", ro: "Mina de Cărbune Norte", en: "Mina Norte Coal Mine",
+image: "/poi-images/mina-norte-coal-mine-economic-v2.webp"
+},
     description: {
       de: "Eine weitere bedeutende Kohlemine im Bundesstaat Zulia, die zur Position Venezuelas als Kohleexporteur beiträgt.",
       hu: "Egy másik jelentős szénbánya Zulia államban, amely hozzájárul Venezuela szénexportőri pozíciójához.",
@@ -761,7 +811,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-D",
     coords: [-67.1667, 10.15],
-    name: { de: "Nickelmine Loma de Níquel", hu: "Loma de Níquel nikkelbánya", ro: "Mina de Nichel Loma de Níquel", en: "Loma de Níquel Mine" },
+    name: { de: "Nickelmine Loma de Níquel", hu: "Loma de Níquel nikkelbánya", ro: "Mina de Nichel Loma de Níquel", en: "Loma de Níquel Mine",
+image: "/poi-images/loma-de-niquel-mine-economic-v2.webp"
+},
     description: {
       de: "Ein integrierter Bergbau- und Schmelzkomplex, der Ferronickel für den globalen Edelstahlmarkt produziert.",
       hu: "Integrált bányászati és kohászati komplexum, amely ferronikkelt állít elő a globális rozsdamentes acél piac számára.",
@@ -791,7 +843,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-B",
     coords: [-64.8417, 10.1083],
-    name: { de: "Petrochemiekomplex Jose", hu: "Jose petrolkémiai komplexum", ro: "Complexul Petrochimic Jose", en: "Jose Petrochemical Complex" },
+    name: { de: "Petrochemiekomplex Jose", hu: "Jose petrolkémiai komplexum", ro: "Complexul Petrochimic Jose", en: "Jose Petrochemical Complex",
+image: "/poi-images/jose-petrochemical-complex-economic-v2.webp"
+},
     description: {
       de: "Das industrielle Herzstück für die Aufbereitung von extra schwerem Rohöl aus dem Orinoco-Gürtel, gelegen an der Ostküste.",
       hu: "Az Orinoco-övezetből származó extra nehéz nyersolaj feldolgozásának ipari központja, amely a keleti parton található.",
@@ -822,7 +876,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-G",
     coords: [-68.1833, 10.4833],
-    name: { de: "Petrochemiekomplex Morón", hu: "Morón petrolkémiai komplexum", ro: "Complexul Petrochimic Morón", en: "Morón Petrochemical Complex" },
+    name: { de: "Petrochemiekomplex Morón", hu: "Morón petrolkémiai komplexum", ro: "Complexul Petrochimic Morón", en: "Morón Petrochemical Complex",
+image: "/poi-images/moron-petrochemical-complex-economic-v2.webp"
+},
     description: {
       de: "Der älteste petrochemische Komplex in Venezuela, spezialisiert auf die Produktion von Düngemitteln und landwirtschaftlichen Chemikalien.",
       hu: "Venezuela legrégebbi petrolkémiai komplexuma, amely műtrágyák és mezőgazdasági vegyszerek gyártására specializálódott.",
@@ -853,7 +909,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-V",
     coords: [-71.5333, 10.75],
-    name: { de: "Petrochemiekomplex El Tablazo", hu: "El Tablazo petrolkémiai komplexum", ro: "Complexul Petrochimic El Tablazo", en: "El Tablazo Petrochemical Complex" },
+    name: { de: "Petrochemiekomplex El Tablazo", hu: "El Tablazo petrolkémiai komplexum", ro: "Complexul Petrochimic El Tablazo", en: "El Tablazo Petrochemical Complex",
+image: "/poi-images/el-tablazo-petrochemical-economic-v2.webp"
+},
     description: {
       de: "Ein großer Industriestandort am Ostufer des Maracaibo-Sees, der Kunststoffe, Olefine und industrielle Chemikalien herstellt.",
       hu: "Nagy ipari létesítmény a Maracaibo-tó keleti partján, amely műanyagokat, olefineket és ipari vegyszereket gyárt.",
@@ -883,7 +941,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     type: "industry",
     parent: "VE-F",
     coords: [-62.8317, 8.1256],
-    name: { de: "Wasserkraftwerk Caruachi", hu: "Caruachi vízerőmű", ro: "Hidrocentrala Caruachi", en: "Caruachi Hydroelectric Plant" },
+    name: { de: "Wasserkraftwerk Caruachi", hu: "Caruachi vízerőmű", ro: "Hidrocentrala Caruachi", en: "Caruachi Hydroelectric Plant",
+image: "/poi-images/caruachi-hydroelectric-plant-economic-v2.webp"
+},
     description: {
       de: "Ein modernes und leistungsstarkes Wasserkraftwerk am Río Caroní, das entscheidend für die Stromversorgung der venezolanischen Schwerindustrie ist.",
       hu: "Modern és nagy teljesítményű vízerőmű a Río Caroní folyón, amely elengedhetetlen a venezuelai nehézipar áramellátásához.",

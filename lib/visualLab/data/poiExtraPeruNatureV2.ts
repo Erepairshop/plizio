@@ -11,8 +11,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Huascarán",
       hu: "Huascarán",
       ro: "Huascarán",
-      en: "Huascarán"
-    },
+      en: "Huascarán",
+image: "/poi-images/pe-anc-huascaran-nature-v2.webp"
+},
     description: {
       de: "Der Huascarán ist mit 6.768 Metern der höchste Berg Perus und der gesamten Tropen.",
       hu: "A Huascarán 6768 méteres magasságával Peru és a trópusok legmagasabb hegye.",
@@ -48,8 +49,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Titicaca-See",
       hu: "Titicaca-tó",
       ro: "Lacul Titicaca",
-      en: "Lake Titicaca"
-    },
+      en: "Lake Titicaca",
+image: "/poi-images/pe-pun-lake-titicaca-nature-v2.webp"
+},
     description: {
       de: "Der Titicaca-See ist das am höchsten gelegene schiffbare Gewässer der Welt und teilt sich Peru mit Bolivien.",
       hu: "A Titicaca-tó a világ legmagasabban fekvő hajózható tava, melyen Peru és Bolívia osztozik.",
@@ -85,8 +87,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Amazonas",
       hu: "Amazonas",
       ro: "Fluviul Amazon",
-      en: "Amazon River"
-    },
+      en: "Amazon River",
+image: "/poi-images/pe-lor-amazon-river-nature-v2.webp"
+},
     description: {
       de: "Der Amazonas entspringt in den peruanischen Anden und ist der wasserreichste Fluss der Erde.",
       hu: "Az Amazonas a perui Andokban ered, és a világ legbővizűbb folyója.",
@@ -122,8 +125,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Ausangate",
       hu: "Ausangate",
       ro: "Ausangate",
-      en: "Ausangate"
-    },
+      en: "Ausangate",
+image: "/poi-images/pe-cus-ausangate-nature-v2.webp"
+},
     description: {
       de: "Der Ausangate ist der fünfthöchste Berg in Peru und gilt in der andinen Mythologie als heiliger Berg (Apu).",
       hu: "Az Ausangate Peru ötödik legmagasabb hegye, az andoki mitológiában szent hegyként (Apu) tisztelik.",
@@ -159,8 +163,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Vinicunca (Regenbogenberg)",
       hu: "Vinicunca (Szivárvány-hegy)",
       ro: "Vinicunca (Muntele Curcubeu)",
-      en: "Vinicunca (Rainbow Mountain)"
-    },
+      en: "Vinicunca (Rainbow Mountain)",
+image: "/poi-images/pe-cus-vinicunca-nature-v2.webp"
+},
     description: {
       de: "Der Vinicunca, auch Regenbogenberg genannt, ist berühmt für seine farbenprächtigen, mineralischen Streifen.",
       hu: "A Vinicunca, vagy Szivárvány-hegy, lenyűgöző színes ásványi sávjairól híres.",
@@ -196,8 +201,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Ballestas-Inseln",
       hu: "Ballestas-szigetek",
       ro: "Insulele Ballestas",
-      en: "Ballestas Islands"
-    },
+      en: "Ballestas Islands",
+image: "/poi-images/pe-ica-ballestas-nature-v2.webp"
+},
     description: {
       de: "Die Ballestas-Inseln werden oft als 'Galápagos-Inseln für Arme' bezeichnet und bieten eine reiche Tierwelt.",
       hu: "A Ballestas-szigeteket gyakran a 'szegények Galápagosának' nevezik, és gazdag állatvilágnak adnak otthont.",
@@ -233,8 +239,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Manu-Nationalpark",
       hu: "Manu Nemzeti Park",
       ro: "Parcul Național Manu",
-      en: "Manu National Park"
-    },
+      en: "Manu National Park",
+image: "/poi-images/pe-mdd-manu-nature-v2.webp"
+},
     description: {
       de: "Der Manu-Nationalpark schützt eines der artenreichsten Regenwaldgebiete der Welt und ist UNESCO-Welterbe.",
       hu: "A Manu Nemzeti Park a világ egyik legfajgazdagabb esőerdejét védi, és az UNESCO világörökség része.",
@@ -270,8 +277,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Tambopata-Schutzgebiet",
       hu: "Tambopata Rezervátum",
       ro: "Rezervația Tambopata",
-      en: "Tambopata National Reserve"
-    },
+      en: "Tambopata National Reserve",
+image: "/poi-images/pe-mdd-tambopata-nature-v2.webp"
+},
     description: {
       de: "Das Tambopata-Schutzgebiet ist berühmt für seine großen Ara-Salzlecken und dichten Dschungel.",
       hu: "A Tambopata Rezervátum hatalmas arapapagáj-sólelőhelyeiről és sűrű dzsungeléről híres.",
@@ -307,8 +315,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Marañón",
       hu: "Marañón",
       ro: "Râul Marañón",
-      en: "Marañón River"
-    },
+      en: "Marañón River",
+image: "/poi-images/pe-lor-maranon-nature-v2.webp"
+},
     description: {
       de: "Der Río Marañón ist einer der beiden Hauptquellflüsse des Amazonas und fließt durch tiefe Andenschluchten.",
       hu: "A Marañón az Amazonas egyik fő forrásfolyója, mely mély andoki kanyonokon folyik keresztül.",
@@ -344,8 +353,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Ucayali",
       hu: "Ucayali",
       ro: "Râul Ucayali",
-      en: "Ucayali River"
-    },
+      en: "Ucayali River",
+image: "/poi-images/pe-lor-ucayali-nature-v2.webp"
+},
     description: {
       de: "Der Río Ucayali ist der längste Quellfluss des Amazonas und schlängelt sich durch das peruanische Tiefland.",
       hu: "Az Ucayali az Amazonas leghosszabb forrásfolyója, mely a perui alföldön kanyarog.",
@@ -381,8 +391,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Pacaya-Samiria-Schutzgebiet",
       hu: "Pacaya-Samiria Rezervátum",
       ro: "Rezervația Pacaya-Samiria",
-      en: "Pacaya-Samiria National Reserve"
-    },
+      en: "Pacaya-Samiria National Reserve",
+image: "/poi-images/pe-lor-pacaya-nature-v2.webp"
+},
     description: {
       de: "Das Pacaya-Samiria-Schutzgebiet ist das größte Perus und bekannt als der 'Spiegel des Dschungels'.",
       hu: "A Pacaya-Samiria a legnagyobb rezervátum Peruban, amelyet a 'dzsungel tükreként' is ismernek.",
@@ -418,8 +429,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Sandoval-See",
       hu: "Sandoval-tó",
       ro: "Lacul Sandoval",
-      en: "Lake Sandoval"
-    },
+      en: "Lake Sandoval",
+image: "/poi-images/pe-mdd-sandoval-nature-v2.webp"
+},
     description: {
       de: "Der Sandoval-See ist ein wunderschöner Altarmsee im Tambopata-Schutzgebiet, der eine reiche Tierwelt beherbergt.",
       hu: "A Sandoval-tó egy gyönyörű holtág a Tambopata Rezervátumban, amely gazdag élővilágnak ad otthont.",
@@ -455,8 +467,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Alpamayo",
       hu: "Alpamayo",
       ro: "Alpamayo",
-      en: "Alpamayo"
-    },
+      en: "Alpamayo",
+image: "/poi-images/pe-anc-alpamayo-nature-v2.webp"
+},
     description: {
       de: "Der Alpamayo wird oft als der schönste Berg der Welt bezeichnet wegen seiner perfekten Pyramidenform.",
       hu: "Az Alpamayót tökéletes piramis alakja miatt gyakran a világ legszebb hegyének nevezik.",
@@ -492,8 +505,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Yerupajá",
       hu: "Yerupajá",
       ro: "Yerupajá",
-      en: "Yerupajá"
-    },
+      en: "Yerupajá",
+image: "/poi-images/pe-huc-yerupaja-nature-v2.webp"
+},
     description: {
       de: "Der Yerupajá ist der zweithöchste Berg Perus und gilt als einer der am schwersten zu besteigenden Berge der Anden.",
       hu: "A Yerupajá Peru második legmagasabb hegye, és az Andok egyik legnehezebben megmászható csúcsaként tartják számon.",
@@ -529,8 +543,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Huacachina-Oase",
       hu: "Huacachina-oázis",
       ro: "Oaza Huacachina",
-      en: "Huacachina Oasis"
-    },
+      en: "Huacachina Oasis",
+image: "/poi-images/pe-ica-huacachina-nature-v2.webp"
+},
     description: {
       de: "Die Huacachina-Oase ist ein natürlicher Wüstensee, umgeben von riesigen Sanddünen.",
       hu: "A Huacachina-oázis egy természetes sivatagi tó, amelyet hatalmas homokdűnék vesznek körül.",
@@ -566,8 +581,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Salcantay",
       hu: "Salcantay",
       ro: "Salcantay",
-      en: "Salcantay"
-    },
+      en: "Salcantay",
+image: "/poi-images/pe-cus-salcantay-nature-v2.webp"
+},
     description: {
       de: "Der Salcantay ist der höchste Gipfel der Cordillera Vilcabamba und ein berühmter alternativer Trekking-Gipfel nach Machu Picchu.",
       hu: "A Salcantay a Cordillera Vilcabamba legmagasabb csúcsa, a Machu Picchu felé vezető alternatív túraútvonalak híres hegye.",
@@ -603,8 +619,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Urubamba",
       hu: "Urubamba",
       ro: "Râul Urubamba",
-      en: "Urubamba River"
-    },
+      en: "Urubamba River",
+image: "/poi-images/pe-cus-urubamba-nature-v2.webp"
+},
     description: {
       de: "Der Río Urubamba formt das Heilige Tal der Inkas und fließt an der historischen Stätte Machu Picchu vorbei.",
       hu: "Az Urubamba folyó alakítja ki az inkák Szent Völgyét, és elhalad a történelmi Machu Picchu mellett.",
@@ -640,8 +657,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Gocta-Wasserfall",
       hu: "Gocta-vízesés",
       ro: "Cascada Gocta",
-      en: "Gocta Waterfall"
-    },
+      en: "Gocta Waterfall",
+image: "/poi-images/pe-ama-gocta-nature-v2.webp"
+},
     description: {
       de: "Der Gocta-Wasserfall ist einer der höchsten der Welt und wurde der westlichen Welt erst 2005 bekannt.",
       hu: "A Gocta a világ egyik legmagasabb vízesése, amelyet a nyugati világ csak 2005-ben fedezett fel.",
@@ -677,8 +695,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Llanganuco-Seen",
       hu: "Llanganuco-tavak",
       ro: "Lacurile Llanganuco",
-      en: "Llanganuco Lakes"
-    },
+      en: "Llanganuco Lakes",
+image: "/poi-images/pe-anc-llanganuco-nature-v2.webp"
+},
     description: {
       de: "Die Llanganuco-Seen sind zwei türkisfarbene Gletscherseen am Fuße des Huascarán in der Cordillera Blanca.",
       hu: "A Llanganuco-tavak két türkizkék gleccsertó a Huascarán lábánál, a Cordillera Blanca hegységben.",
@@ -714,8 +733,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Taquile-Insel",
       hu: "Taquile-sziget",
       ro: "Insula Taquile",
-      en: "Taquile Island"
-    },
+      en: "Taquile Island",
+image: "/poi-images/pe-pun-taquile-nature-v2.webp"
+},
     description: {
       de: "Die Insel Taquile im Titicaca-See ist berühmt für ihre strickenden Männer und unberührte Lebensweise.",
       hu: "A Titicaca-tavon található Taquile-sziget híres kötögető férfiairól és érintetlen életmódjáról.",
@@ -751,8 +771,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Amantaní-Insel",
       hu: "Amantaní-sziget",
       ro: "Insula Amantaní",
-      en: "Amantaní Island"
-    },
+      en: "Amantaní Island",
+image: "/poi-images/pe-pun-amantani-nature-v2.webp"
+},
     description: {
       de: "Die Insel Amantaní bietet authentische Homestays im Titicaca-See und hat zwei markante Berggipfel, Pachamama und Pachatata.",
       hu: "Az Amantaní-sziget autentikus vendéglátást kínál a Titicaca-tónál, két jellegzetes hegycsúcsa a Pachamama és a Pachatata.",
@@ -788,8 +809,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Suasi-Insel",
       hu: "Suasi-sziget",
       ro: "Insula Suasi",
-      en: "Suasi Island"
-    },
+      en: "Suasi Island",
+image: "/poi-images/pe-pun-suasi-nature-v2.webp"
+},
     description: {
       de: "Die Suasi-Insel ist die einzige private Insel im Titicaca-See und dient als ökologisches Schutzgebiet.",
       hu: "A Suasi-sziget az egyetlen magánsziget a Titicaca-tóban, és ökológiai rezervátumként szolgál.",
@@ -824,8 +846,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Siula Grande",
       hu: "Siula Grande",
       ro: "Siula Grande",
-      en: "Siula Grande"
-    },
+      en: "Siula Grande",
+image: "/poi-images/pe-lma-siula-nature-v2.webp"
+},
     description: {
       de: "Der Siula Grande in der Cordillera Huayhuash wurde weltberühmt durch Joe Simpsons Buch und den Film 'Sturz ins Leere'.",
       hu: "A Cordillera Huayhuashban található Siula Grande Joe Simpson 'Zuhanás a semmibe' című könyve és filmje révén vált világhírűvé.",
@@ -861,8 +884,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Chopicalqui",
       hu: "Chopicalqui",
       ro: "Chopicalqui",
-      en: "Chopicalqui"
-    },
+      en: "Chopicalqui",
+image: "/poi-images/pe-anc-chopicalqui-nature-v2.webp"
+},
     description: {
       de: "Der Chopicalqui ist ein beliebter 6000er in der Cordillera Blanca, der oft als Vorbereitung für schwierigere Gipfel bestiegen wird.",
       hu: "A Chopicalqui egy népszerű hatezres csúcs a Cordillera Blancában, amelyet gyakran nehezebb hegyek előkészítőjeként másznak meg.",
@@ -898,8 +922,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Putumayo",
       hu: "Putumayo",
       ro: "Râul Putumayo",
-      en: "Putumayo River"
-    },
+      en: "Putumayo River",
+image: "/poi-images/pe-lor-putumayo-nature-v2.webp"
+},
     description: {
       de: "Der Río Putumayo bildet einen großen Teil der Grenze zwischen Peru und Kolumbien und mündet in den Amazonas.",
       hu: "A Putumayo folyó nagy részben Peru és Kolumbia határát alkotja, és az Amazonasba torkollik.",
@@ -935,8 +960,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Napo",
       hu: "Napo",
       ro: "Râul Napo",
-      en: "Napo River"
-    },
+      en: "Napo River",
+image: "/poi-images/pe-lor-napo-nature-v2.webp"
+},
     description: {
       de: "Der Río Napo entspringt in Ecuador und fließt als breiter Amazonas-Nebenfluss durch den peruanischen Regenwald.",
       hu: "A Napo folyó Ecuadorban ered, és széles amazóniai mellékfolyóként kanyarog a perui esőerdőben.",
@@ -972,8 +998,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Bahuaja-Sonene",
       hu: "Bahuaja-Sonene",
       ro: "Bahuaja-Sonene",
-      en: "Bahuaja-Sonene"
-    },
+      en: "Bahuaja-Sonene",
+image: "/poi-images/pe-pun-bahuaja-nature-v2.webp"
+},
     description: {
       de: "Der Nationalpark Bahuaja-Sonene schützt den einzigen tropischen Feuchtsavannenbereich in Peru.",
       hu: "A Bahuaja-Sonene Nemzeti Park Peru egyetlen trópusi nedves szavannáját védi.",
@@ -1009,8 +1036,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Palomino-Inseln",
       hu: "Palomino-szigetek",
       ro: "Insulele Palomino",
-      en: "Palomino Islands"
-    },
+      en: "Palomino Islands",
+image: "/poi-images/pe-cal-palomino-nature-v2.webp"
+},
     description: {
       de: "Die Palomino-Inseln nahe Lima beherbergen eine riesige Kolonie von Seelöwen, mit denen Besucher schwimmen können.",
       hu: "A Lima közelében található Palomino-szigetek hatalmas oroszlánfóka-kolóniának adnak otthont, amelyekkel a látogatók együtt úszhatnak.",
@@ -1046,8 +1074,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Apurímac",
       hu: "Apurímac",
       ro: "Râul Apurímac",
-      en: "Apurímac River"
-    },
+      en: "Apurímac River",
+image: "/poi-images/pe-apu-apurimac-nature-v2.webp"
+},
     description: {
       de: "Der Río Apurímac ist der weitest entfernte Quellfluss des Amazonas und fließt durch extrem tiefe Schluchten.",
       hu: "Az Apurímac az Amazonas legtávolabbi forrásfolyója, mely rendkívül mély szurdokokban kanyarog.",
@@ -1083,8 +1112,9 @@ export const poiExtraPeruNatureV2: POI[] = [
       de: "Río Cotahuasi",
       hu: "Cotahuasi",
       ro: "Râul Cotahuasi",
-      en: "Cotahuasi River"
-    },
+      en: "Cotahuasi River",
+image: "/poi-images/pe-are-cotahuasi-nature-v2.webp"
+},
     description: {
       de: "Der Río Cotahuasi formt den Cotahuasi-Canyon, der als tiefster Canyon der Welt gilt, noch tiefer als der Colca-Canyon.",
       hu: "A Cotahuasi folyó alakítja ki a Cotahuasi-kanyont, amelyet a világ legmélyebb kanyonjaként tartanak számon.",

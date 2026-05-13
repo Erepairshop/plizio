@@ -12,8 +12,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hafen von Hải Phòng",
       hu: "Hải Phòng-i kikötő",
       ro: "Portul Hải Phòng",
-      en: "Hai Phong Port"
-    },
+      en: "Hai Phong Port",
+image: "/poi-images/hai-phong-port-economic-v2.webp"
+},
     description: {
       de: "Der größte Seehafen im Norden Vietnams, ein wichtiges Tor für den internationalen Handel.",
       hu: "Észak-Vietnam legnagyobb tengeri kikötője, a nemzetközi kereskedelem kulcsfontosságú kapuja.",
@@ -48,8 +49,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hafen von Saigon",
       hu: "Saigoni kikötő",
       ro: "Portul Saigon",
-      en: "Saigon Port"
-    },
+      en: "Saigon Port",
+image: "/poi-images/sai-gon-port-economic-v2.webp"
+},
     description: {
       de: "Einer der verkehrsreichsten Häfen Vietnams, in der Nähe von Ho-Chi-Minh-Stadt, der das wirtschaftliche Zentrum des Südens bedient.",
       hu: "Vietnám egyik legforgalmasabb kikötője, Ho Si Minh-város közelében, amely a déli gazdasági központot szolgálja ki.",
@@ -84,8 +86,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hafen von Vũng Tàu",
       hu: "Vũng Tàu-i kikötő",
       ro: "Portul Vũng Tàu",
-      en: "Vung Tau Port"
-    },
+      en: "Vung Tau Port",
+image: "/poi-images/vung-tau-port-economic-v2.webp"
+},
     description: {
       de: "Ein Tiefwasserhafenkomplex, der für den Öl- und Gassektor Vietnams von entscheidender Bedeutung ist.",
       hu: "Egy mélyvízi kikötőkomplexum, amely kulcsfontosságú Vietnám olaj- és gázszektora számára.",
@@ -120,8 +123,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hafen von Đà Nẵng",
       hu: "Đà Nẵng-i kikötő",
       ro: "Portul Đà Nẵng",
-      en: "Da Nang Port"
-    },
+      en: "Da Nang Port",
+image: "/poi-images/da-nang-port-economic-v2.webp"
+},
     description: {
       de: "Der größte Hafen in Zentralvietnam, der die Wirtschaftszone der Region und den Ost-West-Wirtschaftskorridor bedient.",
       hu: "Közép-Vietnám legnagyobb kikötője, amely a régió gazdasági zónáját és a Kelet-Nyugat gazdasági folyosót szolgálja ki.",
@@ -156,8 +160,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Dung Quất Raffinerie",
       hu: "Dung Quất finomító",
       ro: "Rafinăria Dung Quất",
-      en: "Dung Quat Refinery"
-    },
+      en: "Dung Quat Refinery",
+image: "/poi-images/dung-quat-refinery-economic-v2.webp"
+},
     description: {
       de: "Die erste Ölraffinerie in Vietnam, ein wichtiger Bestandteil der Energiesicherheit und der petrochemischen Industrie des Landes.",
       hu: "Vietnám első olajfinomítója, az ország energiabiztonságának és petrolkémiai iparának kulcsfontosságú eleme.",
@@ -192,8 +197,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Stahlkomplex Thái Nguyên",
       hu: "Thái Nguyên acélkomplexum",
       ro: "Complexul Siderurgic Thái Nguyên",
-      en: "Thai Nguyen Steel Complex"
-    },
+      en: "Thai Nguyen Steel Complex",
+image: "/poi-images/thai-nguyen-steel-complex-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Stahlproduktionszentren in Vietnam, das zum industriellen Erbe des Landes beiträgt.",
       hu: "Vietnám egyik legnagyobb acélgyártó központja, amely hozzájárul az ország ipari örökségéhez.",
@@ -228,8 +234,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Formosa Hà Tĩnh Steel",
       hu: "Formosa Hà Tĩnh acélgyár",
       ro: "Oțelăria Formosa Hà Tĩnh",
-      en: "Formosa Ha Tinh Steel"
-    },
+      en: "Formosa Ha Tinh Steel",
+image: "/poi-images/formosa-ha-tinh-steel-economic-v2.webp"
+},
     description: {
       de: "Eines der größten ausländisch investierten Projekte in Vietnam, ein modernes integriertes Stahlwerk mit einem Tiefwasserhafen.",
       hu: "Vietnám egyik legnagyobb külföldi befektetési projektje, egy modern, integrált acélmű mélyvízi kikötővel.",
@@ -264,8 +271,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Vĩnh Tân Energiezentrum",
       hu: "Vĩnh Tân erőmű központ",
       ro: "Centrul Energetic Vĩnh Tân",
-      en: "Vinh Tan Power Center"
-    },
+      en: "Vinh Tan Power Center",
+image: "/poi-images/vinh-tan-power-center-economic-v2.webp"
+},
     description: {
       de: "Ein großer Komplex von Kohlekraftwerken in der Provinz Bình Thuận, der erheblich zur Stromversorgung Vietnams beiträgt.",
       hu: "Széntüzelésű erőművek nagy komplexuma Bình Thuận tartományban, amely jelentősen hozzájárul Vietnám áramellátásához.",
@@ -300,8 +308,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hòa Bình Damm",
       hu: "Hòa Bình-i gát",
       ro: "Barajul Hòa Bình",
-      en: "Hoa Binh Dam"
-    },
+      en: "Hoa Binh Dam",
+image: "/poi-images/hoa-binh-dam-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Wasserkraftdamm am Schwarzen Fluss, der Strom erzeugt, die Hochwasserkontrolle unterstützt und die Wasserversorgung für die Region des Roten-Fluss-Deltas sicherstellt.",
       hu: "Jelentős vízerőmű a Fekete-folyón, amely villamos energiát termel, árvízvédelmi feladatokat lát el és biztosítja a Vörös-folyó deltájának vízellátását.",
@@ -336,8 +345,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Sơn La Damm",
       hu: "Sơn La-i gát",
       ro: "Barajul Sơn La",
-      en: "Son La Dam"
-    },
+      en: "Son La Dam",
+image: "/poi-images/son-la-dam-economic-v2.webp"
+},
     description: {
       de: "Das größte Wasserkraftwerk in Südostasien, gemessen an der installierten Leistung. Ein monumentales Ingenieurprojekt am Schwarzen Fluss.",
       hu: "Délkelet-Ázsia legnagyobb vízerőműve a beépített kapacitás alapján. Monumentális mérnöki alkotás a Fekete-folyón.",
@@ -372,8 +382,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Industriezone Bắc Ninh",
       hu: "Bắc Ninh ipari zóna",
       ro: "Zona Industrială Bắc Ninh",
-      en: "Bac Ninh Industrial Zone"
-    },
+      en: "Bac Ninh Industrial Zone",
+image: "/poi-images/bac-ninh-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten Industriezonen im Norden Vietnams, bekannt für die Anziehung von High-Tech-Investitionen, insbesondere in der Elektronikfertigung.",
       hu: "Észak-Vietnam egyik legfontosabb ipari zónája, amely a csúcstechnológiai beruházások, különösen az elektronikai gyártás vonzásáról ismert.",
@@ -407,8 +418,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Industrieparks Bình Dương",
       hu: "Bình Dương ipari parkok",
       ro: "Parcurile Industriale Bình Dương",
-      en: "Binh Duong Industrial Parks"
-    },
+      en: "Binh Duong Industrial Parks",
+image: "/poi-images/binh-duong-industrial-parks-economic-v2.webp"
+},
     description: {
       de: "Die Provinz Bình Dương ist ein führendes Zentrum für industrielle Entwicklung in Vietnam mit zahlreichen Parks, die sich auf Möbel, Textilien und Fertigung konzentrieren.",
       hu: "Bình Dương tartomány Vietnám ipari fejlődésének egyik vezető központja, számos, bútor-, textil- és feldolgozóiparra szakosodott parkkal.",
@@ -443,8 +455,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Grenzübergang Lào Cai",
       hu: "Lào Cai határátkelő",
       ro: "Punctul de Trecere a Frontierei Lào Cai",
-      en: "Lao Cai Border Gate"
-    },
+      en: "Lao Cai Border Gate",
+image: "/poi-images/lao-cai-border-gate-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Grenzübergang und Handelspunkt zwischen Vietnam und der Provinz Yunnan in China.",
       hu: "Fontos határátkelő és kereskedelmi pont Vietnám és a kínai Yunnan tartomány között.",
@@ -478,8 +491,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Grenzübergang Móng Cái",
       hu: "Móng Cái határátkelő",
       ro: "Punctul de Trecere a Frontierei Móng Cái",
-      en: "Mong Cai Border Gate"
-    },
+      en: "Mong Cai Border Gate",
+image: "/poi-images/mong-cai-border-gate-economic-v2.webp"
+},
     description: {
       de: "Ein geschäftiger Grenzübergang zur chinesischen Stadt Dongxing, der ein wichtiger Knotenpunkt für den Handel zwischen Vietnam und China ist.",
       hu: "Forgalmas határátkelő a kínai Dongxing város felé, amely a Vietnám és Kína közötti kereskedelem fontos csomópontja.",
@@ -513,8 +527,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Quảng Ninh Kohlebecken",
       hu: "Quảng Ninh szénmedence",
       ro: "Bazinul Carbonifer Quảng Ninh",
-      en: "Quang Ninh Coal Basin"
-    },
+      en: "Quang Ninh Coal Basin",
+image: "/poi-images/quang-ninh-coal-basin-economic-v2.webp"
+},
     description: {
       de: "Die größte Kohlereserve in Vietnam, die seit über einem Jahrhundert eine entscheidende Rolle für die Energie- und Industrielandschaft des Landes spielt.",
       hu: "Vietnám legnagyobb szénkészlete, amely több mint egy évszázada kulcsfontosságú szerepet játszik az ország energia- és ipari tájképében.",
@@ -548,8 +563,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Bauxitmine im Zentralen Hochland",
       hu: "Központi-felföldi bauxitbánya",
       ro: "Mina de Bauxită din Podișul Central",
-      en: "Central Highlands Bauxite Mine"
-    },
+      en: "Central Highlands Bauxite Mine",
+image: "/poi-images/central-highlands-bauxite-mine-economic-v2.webp"
+},
     description: {
       de: "Eine Region mit erheblichen Bauxitvorkommen, deren Abbau ein wichtiger, aber umstrittener Teil der vietnamesischen Industriestrategie ist.",
       hu: "Jelentős bauxitkészletekkel rendelkező régió, amelynek bányászata a vietnámi ipari stratégia fontos, de vitatott része.",
@@ -584,8 +600,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Reisschüssel des Mekong-Deltas",
       hu: "Mekong-delta rizskamrája",
       ro: "Grânarul Deltei Mekong",
-      en: "Mekong Delta Rice Bowl"
-    },
+      en: "Mekong Delta Rice Bowl",
+image: "/poi-images/mekong-delta-rice-bowl-economic-v2.webp"
+},
     description: {
       de: "Das landwirtschaftliche Herz Vietnams, das mehr als die Hälfte des Reises des Landes produziert und für die Ernährungssicherheit und den Export von entscheidender Bedeutung ist.",
       hu: "Vietnám mezőgazdasági központja, amely az ország rizstermelésének több mint felét adja, és kulcsfontosságú az élelmezésbiztonság és az export szempontjából.",
@@ -619,8 +636,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Agrarzentrum Đà Lạt",
       hu: "Đà Lạt mezőgazdasági központ",
       ro: "Centrul Agricol Đà Lạt",
-      en: "Da Lat Agri-Hub"
-    },
+      en: "Da Lat Agri-Hub",
+image: "/poi-images/dalat-agri-hub-economic-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Stadt des ewigen Frühlings', ist Đà Lạt ein Zentrum für die Produktion von hochwertigem Gemüse, Blumen und Kaffee.",
       hu: "Az 'örök tavasz városaként' ismert Đà Lạt a magas minőségű zöldségek, virágok és kávé termesztésének központja.",
@@ -654,8 +672,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hafen von Nha Trang",
       hu: "Nha Trang-i kikötő",
       ro: "Portul Nha Trang",
-      en: "Nha Trang Port"
-    },
+      en: "Nha Trang Port",
+image: "/poi-images/nha-trang-port-economic-v2.webp"
+},
     description: {
       de: "Ein Hafen, der sowohl kommerziellen Frachtverkehr als auch eine wachsende Anzahl von Kreuzfahrtschiffen abwickelt und so Handel und Tourismus verbindet.",
       hu: "Kikötő, amely a kereskedelmi áruforgalom mellett egyre több tengerjáró hajót is fogad, összekötve a kereskedelmet a turizmussal.",
@@ -689,8 +708,9 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       de: "Hafen von Quy Nhơn",
       hu: "Quy Nhơn-i kikötő",
       ro: "Portul Quy Nhơn",
-      en: "Quy Nhon Port"
-    },
+      en: "Quy Nhon Port",
+image: "/poi-images/quy-nhon-port-economic-v2.webp"
+},
     description: {
       de: "Ein strategischer Hafen in Zentralvietnam, der sich auf den Umschlag von Massengütern wie Holzspänen, Kassawa und landwirtschaftlichen Produkten spezialisiert hat.",
       hu: "Stratégiai kikötő Közép-Vietnámban, amely ömlesztett áruk, például faapríték, manióka és mezőgazdasági termékek kezelésére szakosodott.",

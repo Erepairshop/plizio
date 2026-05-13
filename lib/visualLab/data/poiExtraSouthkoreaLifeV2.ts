@@ -11,8 +11,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Seoraksan-Nationalpark",
       hu: "Seoraksan Nemzeti Park",
       ro: "Parcul Național Seoraksan",
-      en: "Seoraksan National Park"
-    },
+      en: "Seoraksan National Park",
+image: "/poi-images/seoraksan-national-park-life-v2.webp"
+},
     description: {
       de: "Ein Nationalpark in der Provinz Gangwon, berühmt für seine malerischen Berge, Wasserfälle und seltenen Tierarten.",
       hu: "Nemzeti park Gangwon tartományban, festői hegyeiről, vízeséseiről és ritka állatfajairól híres.",
@@ -34,8 +35,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Boseong Grünteefelder",
       hu: "Boseongi zöldtea-ültetvények",
       ro: "Plantațiile de ceai verde Boseong",
-      en: "Boseong Green Tea Fields"
-    },
+      en: "Boseong Green Tea Fields",
+image: "/poi-images/boseong-green-tea-fields-life-v2.webp"
+},
     description: {
       de: "Die größten und ältesten Teeplantagen in Südkorea, bekannt für ihre terrassierten Felder und hochwertigen grünen Tee.",
       hu: "Dél-Korea legnagyobb és legrégebbi teaültetvényei, híresek teraszos földjeikről és kiváló minőségű zöld teájukról.",
@@ -57,8 +59,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Nami-Insel",
       hu: "Nami-sziget",
       ro: "Insula Nami",
-      en: "Nami Island"
-    },
+      en: "Nami Island",
+image: "/poi-images/nami-island-life-v2.webp"
+},
     description: {
       de: "Eine halbmondförmige Insel in Chuncheon, bekannt für ihre schönen Baumalleen und als Drehort des Dramas 'Winter Sonata'.",
       hu: "Félhold alakú sziget Chuncheonban, amely gyönyörű fasorairól és a 'Téli szonáta' című dráma forgatási helyszínéről ismert.",
@@ -80,8 +83,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Suncheon-Bucht-Feuchtgebiete",
       hu: "Suncheon-öböl vizesélőhely",
       ro: "Zonele umede din Golful Suncheon",
-      en: "Suncheon Bay Wetlands"
-    },
+      en: "Suncheon Bay Wetlands",
+image: "/poi-images/suncheon-bay-wetlands-life-v2.webp"
+},
     description: {
       de: "Eines der größten Küstenfeuchtgebiete der Welt, Heimat riesiger Schilffelder und ein wichtiger Lebensraum für Zugvögel.",
       hu: "A világ egyik legnagyobb part menti vizesélőhelye, hatalmas nádasok otthona és fontos élőhely a vándormadarak számára.",
@@ -103,8 +107,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Jeju Loveland",
       hu: "Jeju Loveland",
       ro: "Jeju Loveland",
-      en: "Jeju Loveland"
-    },
+      en: "Jeju Loveland",
+image: "/poi-images/jeju-loveland-life-v2.webp"
+},
     description: {
       de: "Ein Skulpturenpark auf der Insel Jeju mit dem Thema Erotik und Sexualität, geschaffen von Kunststudenten.",
       hu: "Szoborpark Jeju szigetén, amelynek témája az erotika és a szexualitás, művészeti hallgatók alkotásaival.",
@@ -126,8 +131,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Seoul Children's Grand Park",
       hu: "Szöuli Nagypark Gyerekeknek",
       ro: "Marele Parc pentru Copii din Seul",
-      en: "Seoul Children's Grand Park"
-    },
+      en: "Seoul Children's Grand Park",
+image: "/poi-images/seoul-childrens-grand-park-life-v2.webp"
+},
     description: {
       de: "Ein großer Park in Seoul mit einem Zoo, einem botanischen Garten, einem Vergnügungspark und verschiedenen Aufführungsorten.",
       hu: "Egy nagy park Szöulban, állatkerttel, botanikus kerttel, vidámparkkal és különböző előadóhelyekkel.",
@@ -149,8 +155,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Ujong Reisterrassen",
       hu: "Ujong rizsteraszok",
       ro: "Terasele de orez Ujong",
-      en: "Ujong Rice Terraces"
-    },
+      en: "Ujong Rice Terraces",
+image: "/poi-images/ujong-rice-terraces-life-v2.webp"
+},
     description: {
       de: "Wunderschöne, in die Berge gehauene Reisterrassen, die traditionelle landwirtschaftliche Methoden in der Region Gangwon zeigen.",
       hu: "Gyönyörű, hegyoldalba vájt rizsteraszok, amelyek a hagyományos földművelési módszereket mutatják be Gangwon tartományban.",
@@ -173,8 +180,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Jirisan-Nationalpark",
       hu: "Jirisan Nemzeti Park",
       ro: "Parcul Național Jirisan",
-      en: "Jirisan National Park"
-    },
+      en: "Jirisan National Park",
+image: "/poi-images/jirisan-national-park-life-v2.webp"
+},
     description: {
       de: "Der erste und größte Nationalpark Südkoreas, Heimat einer vielfältigen Flora und Fauna, einschließlich des Asiatischen Schwarzbären.",
       hu: "Dél-Korea első és legnagyobb nemzeti parkja, változatos növény- és állatvilág otthona, beleértve az ázsiai fekete medvét is.",
@@ -196,8 +204,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Everland Resort",
       hu: "Everland Üdülőhely",
       ro: "Stațiunea Everland",
-      en: "Everland Resort"
-    },
+      en: "Everland Resort",
+image: "/poi-images/everland-resort-life-v2.webp"
+},
     description: {
       de: "Südkoreas größter Freizeitpark mit Fahrgeschäften, einem Zoo namens Zootopia und einem Wasserpark namens Caribbean Bay.",
       hu: "Dél-Korea legnagyobb vidámparkja, ahol játékok, a Zootopia nevű állatkert és a Caribbean Bay nevű vízipark is található.",
@@ -219,8 +228,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Olympiapark Seoul",
       hu: "Szöuli Olimpiai Park",
       ro: "Parcul Olimpic din Seul",
-      en: "Olympic Park, Seoul"
-    },
+      en: "Olympic Park, Seoul",
+image: "/poi-images/olympic-park-seoul-life-v2.webp"
+},
     description: {
       de: "Ein riesiger Park, der für die Olympischen Sommerspiele 1988 gebaut wurde und heute Sportanlagen, Wälder und Skulpturenparks beherbergt.",
       hu: "Hatalmas park, amelyet az 1988-as nyári olimpiára építettek, ma sportlétesítményeknek, erdőknek és szoborparkoknak ad otthont.",
@@ -242,8 +252,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Gartenbauzentrum Goyang",
       hu: "Goyang Kertészeti Központ",
       ro: "Centrul de Horticultură Goyang",
-      en: "Goyang Horticulture Center"
-    },
+      en: "Goyang Horticulture Center",
+image: "/poi-images/goyang-horticulture-center-life-v2.webp"
+},
     description: {
       de: "Ein Zentrum, das sich der Blumenindustrie widmet, mit Gewächshäusern, Ausstellungsräumen und dem jährlichen Internationalen Blumenfestival.",
       hu: "A virágiparnak szentelt központ, üvegházakkal, kiállítótermekkel és az évente megrendezett Nemzetközi Virágfesztivállal.",
@@ -265,8 +276,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Udem-Schutzgebiet",
       hu: "Udem Természetvédelmi Terület",
       ro: "Zona de Conservare Udem",
-      en: "Udem Preservation Area"
-    },
+      en: "Udem Preservation Area",
+image: "/poi-images/udem-preservation-area-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet, das dem Erhalt der koreanischen Kiefer und anderer einheimischer Pflanzenarten in der Nähe der DMZ gewidmet ist.",
       hu: "A koreai fenyő és más őshonos növényfajok megőrzésére szentelt védett terület a DMZ közelében.",
@@ -288,8 +300,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Lotte World Adventure",
       hu: "Lotte World Kalandpark",
       ro: "Lotte World Adventure",
-      en: "Lotte World Adventure"
-    },
+      en: "Lotte World Adventure",
+image: "/poi-images/lotte-world-adventure-life-v2.webp"
+},
     description: {
       de: "Ein großer Freizeitkomplex in Seoul mit dem größten Indoor-Themenpark der Welt und einem Outdoor-Vergnügungspark namens 'Magic Island'.",
       hu: "Egy hatalmas szöuli szórakoztató komplexum, amely magában foglalja a világ legnagyobb beltéri vidámparkját és egy 'Magic Island' nevű szabadtéri vidámparkot.",
@@ -311,8 +324,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Bukhansan-Nationalpark",
       hu: "Bukhansan Nemzeti Park",
       ro: "Parcul Național Bukhansan",
-      en: "Bukhansan National Park"
-    },
+      en: "Bukhansan National Park",
+image: "/poi-images/bukhansan-national-park-life-v2.webp"
+},
     description: {
       de: "Ein beliebter Nationalpark an der Grenze von Seoul, bekannt für seine Granitgipfel und zahlreichen Wanderwege.",
       hu: "Népszerű nemzeti park Szöul határán, gránitcsúcsairól és számos túraútvonaláról ismert.",
@@ -334,8 +348,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Icheon Keramikdorf",
       hu: "Icheon Kerámiafalu",
       ro: "Satul de ceramică Icheon",
-      en: "Icheon Ceramics Village"
-    },
+      en: "Icheon Ceramics Village",
+image: "/poi-images/icheon-ceramics-village-life-v2.webp"
+},
     description: {
       de: "Ein Dorf, das das Zentrum der traditionellen koreanischen Keramik ist und in dem Besucher Werkstätten besichtigen und Töpferkurse belegen können.",
       hu: "A hagyományos koreai kerámia központja, ahol a látogatók megnézhetik a műhelyeket és részt vehetnek fazekas tanfolyamokon.",
@@ -357,8 +372,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Taejo-Meerespark",
       hu: "Taejo Tengeri Park",
       ro: "Parcul Maritim Taejo",
-      en: "Taejo Maritime Park"
-    },
+      en: "Taejo Maritime Park",
+image: "/poi-images/taejo-maritime-park-life-v2.webp"
+},
     description: {
       de: "Ein Meeresnationalpark, der für seine unberührten Inseln, klaren Gewässer und vielfältigen Meereslebewesen bekannt ist.",
       hu: "Tengeri nemzeti park, amely érintetlen szigeteiről, tiszta vizéről és változatos tengeri élővilágáról ismert.",
@@ -381,8 +397,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Gimje-Horizont-Festival",
       hu: "Gimje Horizont Fesztivál",
       ro: "Festivalul Orizontului Gimje",
-      en: "Gimje Horizon Festival"
-    },
+      en: "Gimje Horizon Festival",
+image: "/poi-images/gimje-horizon-festival-life-v2.webp"
+},
     description: {
       de: "Ein jährliches Festival, das die reiche landwirtschaftliche Tradition Koreas feiert und in der größten Reisanbauregion des Landes stattfindet.",
       hu: "Éves fesztivál, amely Korea gazdag mezőgazdasági hagyományait ünnepli az ország legnagyobb rizstermő vidékén.",
@@ -404,8 +421,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Hantaan-Fluss-Geopark",
       hu: "Hantaan-folyó Geopark",
       ro: "Geoparcul Râului Hantaan",
-      en: "Hantaan River Geopark"
-    },
+      en: "Hantaan River Geopark",
+image: "/poi-images/hantaan-river-geopark-life-v2.webp"
+},
     description: {
       de: "Ein Geopark, der durch vulkanische Aktivitäten geformt wurde und einzigartige Basalt-Schluchten und Klippen aufweist.",
       hu: "Vulkáni tevékenység által formált geopark, amely egyedülálló bazalt-szurdokokkal és sziklákkal rendelkezik.",
@@ -427,8 +445,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "DMZ Öko-Friedenspark",
       hu: "DMZ Öko-Béke Park",
       ro: "Parcul Eco-Pace DMZ",
-      en: "DMZ Eco-Peace Park"
-    },
+      en: "DMZ Eco-Peace Park",
+image: "/poi-images/dmz-eco-peace-park-life-v2.webp"
+},
     description: {
       de: "Ein Park in der Nähe der demilitarisierten Zone, der aufgrund minimaler menschlicher Eingriffe zu einem unberührten Naturschutzgebiet geworden ist.",
       hu: "A demilitarizált övezet közelében található park, amely a minimális emberi beavatkozásnak köszönhetően érintetlen természeti rezervátummá vált.",
@@ -450,8 +469,9 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       de: "Daegwallyeong Schaffarm",
       hu: "Daegwallyeong Juhfarm",
       ro: "Ferma de oi Daegwallyeong",
-      en: "Daegwallyeong Sheep Farm"
-    },
+      en: "Daegwallyeong Sheep Farm",
+image: "/poi-images/daegwallyeong-sheep-farm-life-v2.webp"
+},
     description: {
       de: "Eine große Schaffarm in den Bergen von Pyeongchang, bekannt als die 'Alpen Koreas', wo Besucher Schafe füttern können.",
       hu: "Nagy juhfarm Pyeongchang hegyeiben, amelyet 'Korea Alpokának' is neveznek, ahol a látogatók etethetik a juhokat.",

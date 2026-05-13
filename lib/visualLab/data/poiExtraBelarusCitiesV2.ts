@@ -4,7 +4,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-minsk-cities-v2",
     type: "capital",
-    name: { de: "Minsk", hu: "Minszk", ro: "Minsk", en: "Minsk" },
+    name: { de: "Minsk", hu: "Minszk", ro: "Minsk", en: "Minsk",
+image: "/poi-images/belarus-minsk-cities-v2.webp"
+},
     coords: [27.5667, 53.9],
     coordinates: { lat: 53.9, lng: 27.5667 },
     description: {
@@ -35,7 +37,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-gomel-cities-v2",
     type: "city",
-    name: { de: "Homel", hu: "Homel", ro: "Gomel", en: "Gomel" },
+    name: { de: "Homel", hu: "Homel", ro: "Gomel", en: "Gomel",
+image: "/poi-images/belarus-gomel-cities-v2.webp"
+},
     coords: [30.9833, 52.4333],
     coordinates: { lat: 52.4333, lng: 30.9833 },
     description: {
@@ -66,7 +70,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-mogilev-cities-v2",
     type: "city",
-    name: { de: "Mahiljou", hu: "Mahiljov", ro: "Moghilău", en: "Mogilev" },
+    name: { de: "Mahiljou", hu: "Mahiljov", ro: "Moghilău", en: "Mogilev",
+image: "/poi-images/belarus-mogilev-cities-v2.webp"
+},
     coords: [30.3333, 53.9167],
     coordinates: { lat: 53.9167, lng: 30.3333 },
     description: {
@@ -97,7 +103,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-vitebsk-cities-v2",
     type: "city",
-    name: { de: "Witebsk", hu: "Vicebszk", ro: "Vitebsk", en: "Vitebsk" },
+    name: { de: "Witebsk", hu: "Vicebszk", ro: "Vitebsk", en: "Vitebsk",
+image: "/poi-images/belarus-vitebsk-cities-v2.webp"
+},
     coords: [30.2, 55.1833],
     coordinates: { lat: 55.1833, lng: 30.2 },
     description: {
@@ -128,7 +136,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-grodno-cities-v2",
     type: "city",
-    name: { de: "Hrodna", hu: "Hrodna", ro: "Grodno", en: "Grodno" },
+    name: { de: "Hrodna", hu: "Hrodna", ro: "Grodno", en: "Grodno",
+image: "/poi-images/belarus-grodno-cities-v2.webp"
+},
     coords: [23.8333, 53.6667],
     coordinates: { lat: 53.6667, lng: 23.8333 },
     description: {
@@ -159,7 +169,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-babruysk-cities-v2",
     type: "city",
-    name: { de: "Babrujsk", hu: "Babrujszk", ro: "Babruisk", en: "Babruysk" },
+    name: { de: "Babrujsk", hu: "Babrujszk", ro: "Babruisk", en: "Babruysk",
+image: "/poi-images/belarus-babruysk-cities-v2.webp"
+},
     coords: [29.2167, 53.15],
     coordinates: { lat: 53.15, lng: 29.2167 },
     description: {
@@ -190,7 +202,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-baranovichi-cities-v2",
     type: "city",
-    name: { de: "Baranawitschy", hu: "Baranovicsi", ro: "Baranovici", en: "Baranovichi" },
+    name: { de: "Baranawitschy", hu: "Baranovicsi", ro: "Baranovici", en: "Baranovichi",
+image: "/poi-images/belarus-baranovichi-cities-v2.webp"
+},
     coords: [26.0167, 53.1333],
     coordinates: { lat: 53.1333, lng: 26.0167 },
     description: {
@@ -221,7 +235,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-barysaw-cities-v2",
     type: "city",
-    name: { de: "Baryssau", hu: "Boriszov", ro: "Borisov", en: "Barysaw" },
+    name: { de: "Baryssau", hu: "Boriszov", ro: "Borisov", en: "Barysaw",
+image: "/poi-images/belarus-barysaw-cities-v2.webp"
+},
     coords: [28.5, 54.2333],
     coordinates: { lat: 54.2333, lng: 28.5 },
     description: {
@@ -252,7 +268,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-pinsk-cities-v2",
     type: "city",
-    name: { de: "Pinsk", hu: "Pinszk", ro: "Pinsk", en: "Pinsk" },
+    name: { de: "Pinsk", hu: "Pinszk", ro: "Pinsk", en: "Pinsk",
+image: "/poi-images/belarus-pinsk-cities-v2.webp"
+},
     coords: [26.1, 52.1167],
     coordinates: { lat: 52.1167, lng: 26.1 },
     description: {
@@ -283,7 +301,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-orsha-cities-v2",
     type: "city",
-    name: { de: "Orscha", hu: "Orsa", ro: "Orșa", en: "Orsha" },
+    name: { de: "Orscha", hu: "Orsa", ro: "Orșa", en: "Orsha",
+image: "/poi-images/belarus-orsha-cities-v2.webp"
+},
     coords: [30.4167, 54.5],
     coordinates: { lat: 54.5, lng: 30.4167 },
     description: {
@@ -314,7 +334,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-mozyr-cities-v2",
     type: "city",
-    name: { de: "Masyr", hu: "Mazir", ro: "Mazîr", en: "Mozyr" },
+    name: { de: "Masyr", hu: "Mazir", ro: "Mazîr", en: "Mozyr",
+image: "/poi-images/belarus-mozyr-cities-v2.webp"
+},
     coords: [29.25, 52.05],
     coordinates: { lat: 52.05, lng: 29.25 },
     description: {
@@ -345,7 +367,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-soligorsk-cities-v2",
     type: "city",
-    name: { de: "Salihorsk", hu: "Szalihorszk", ro: "Salihorsk", en: "Soligorsk" },
+    name: { de: "Salihorsk", hu: "Szalihorszk", ro: "Salihorsk", en: "Soligorsk",
+image: "/poi-images/belarus-soligorsk-cities-v2.webp"
+},
     coords: [27.5333, 52.7833],
     coordinates: { lat: 52.7833, lng: 27.5333 },
     description: {
@@ -376,7 +400,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-lida-cities-v2",
     type: "city",
-    name: { de: "Lida", hu: "Lida", ro: "Lida", en: "Lida" },
+    name: { de: "Lida", hu: "Lida", ro: "Lida", en: "Lida",
+image: "/poi-images/belarus-lida-cities-v2.webp"
+},
     coords: [25.3, 53.8833],
     coordinates: { lat: 53.8833, lng: 25.3 },
     description: {
@@ -407,7 +433,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-novopolotsk-cities-v2",
     type: "city",
-    name: { de: "Nawapolazk", hu: "Navapolack", ro: "Navapolack", en: "Novopolotsk" },
+    name: { de: "Nawapolazk", hu: "Navapolack", ro: "Navapolack", en: "Novopolotsk",
+image: "/poi-images/belarus-novopolotsk-cities-v2.webp"
+},
     coords: [28.65, 55.5333],
     coordinates: { lat: 55.5333, lng: 28.65 },
     description: {
@@ -438,7 +466,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-maladzyechna-cities-v2",
     type: "city",
-    name: { de: "Maladsetschna", hu: "Maladzecsna", ro: "Maladzecina", en: "Maladzyechna" },
+    name: { de: "Maladsetschna", hu: "Maladzecsna", ro: "Maladzecina", en: "Maladzyechna",
+image: "/poi-images/belarus-maladzyechna-cities-v2.webp"
+},
     coords: [26.85, 54.3167],
     coordinates: { lat: 54.3167, lng: 26.85 },
     description: {
@@ -469,7 +499,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-polotsk-cities-v2",
     type: "city",
-    name: { de: "Polazk", hu: "Polack", ro: "Polack", en: "Polotsk" },
+    name: { de: "Polazk", hu: "Polack", ro: "Polack", en: "Polotsk",
+image: "/poi-images/belarus-polotsk-cities-v2.webp"
+},
     coords: [28.7833, 55.4833],
     coordinates: { lat: 55.4833, lng: 28.7833 },
     description: {
@@ -500,7 +532,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-zhlobin-cities-v2",
     type: "city",
-    name: { de: "Schlobin", hu: "Zslobin", ro: "Jlobin", en: "Zhlobin" },
+    name: { de: "Schlobin", hu: "Zslobin", ro: "Jlobin", en: "Zhlobin",
+image: "/poi-images/belarus-zhlobin-cities-v2.webp"
+},
     coords: [30.0167, 52.8833],
     coordinates: { lat: 52.8833, lng: 30.0167 },
     description: {
@@ -531,7 +565,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-svetlogorsk-cities-v2",
     type: "city",
-    name: { de: "Swetlahorsk", hu: "Szvetlahorszk", ro: "Svetlahorsk", en: "Svetlogorsk" },
+    name: { de: "Swetlahorsk", hu: "Szvetlahorszk", ro: "Svetlahorsk", en: "Svetlogorsk",
+image: "/poi-images/belarus-svetlogorsk-cities-v2.webp"
+},
     coords: [29.7333, 52.6333],
     coordinates: { lat: 52.6333, lng: 29.7333 },
     description: {
@@ -562,7 +598,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-rechitsa-cities-v2",
     type: "city",
-    name: { de: "Retschyza", hu: "Recsica", ro: "Recița", en: "Rechitsa" },
+    name: { de: "Retschyza", hu: "Recsica", ro: "Recița", en: "Rechitsa",
+image: "/poi-images/belarus-rechitsa-cities-v2.webp"
+},
     coords: [30.3833, 52.3667],
     coordinates: { lat: 52.3667, lng: 30.3833 },
     description: {
@@ -593,7 +631,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-slutsk-cities-v2",
     type: "city",
-    name: { de: "Sluzk", hu: "Szluck", ro: "Sluțk", en: "Slutsk" },
+    name: { de: "Sluzk", hu: "Szluck", ro: "Sluțk", en: "Slutsk",
+image: "/poi-images/belarus-slutsk-cities-v2.webp"
+},
     coords: [27.55, 53.0167],
     coordinates: { lat: 53.0167, lng: 27.55 },
     description: {
@@ -624,7 +664,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-zhodzina-cities-v2",
     type: "city",
-    name: { de: "Schodsina", hu: "Zsodzina", ro: "Jodzina", en: "Zhodzina" },
+    name: { de: "Schodsina", hu: "Zsodzina", ro: "Jodzina", en: "Zhodzina",
+image: "/poi-images/belarus-zhodzina-cities-v2.webp"
+},
     coords: [28.3333, 54.1],
     coordinates: { lat: 54.1, lng: 28.3333 },
     description: {
@@ -655,7 +697,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-slonim-cities-v2",
     type: "city",
-    name: { de: "Slonim", hu: "Szlonyim", ro: "Slonim", en: "Slonim" },
+    name: { de: "Slonim", hu: "Szlonyim", ro: "Slonim", en: "Slonim",
+image: "/poi-images/belarus-slonim-cities-v2.webp"
+},
     coords: [25.3167, 53.0833],
     coordinates: { lat: 53.0833, lng: 25.3167 },
     description: {
@@ -686,7 +730,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-kobrin-cities-v2",
     type: "city",
-    name: { de: "Kobryn", hu: "Kobrin", ro: "Kobrin", en: "Kobrin" },
+    name: { de: "Kobryn", hu: "Kobrin", ro: "Kobrin", en: "Kobrin",
+image: "/poi-images/belarus-kobrin-cities-v2.webp"
+},
     coords: [24.35, 52.2167],
     coordinates: { lat: 52.2167, lng: 24.35 },
     description: {
@@ -717,7 +763,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-vawkavysk-cities-v2",
     type: "city",
-    name: { de: "Waukawysk", hu: "Vavkaviszk", ro: "Vavkavîsk", en: "Vawkavysk" },
+    name: { de: "Waukawysk", hu: "Vavkaviszk", ro: "Vavkavîsk", en: "Vawkavysk",
+image: "/poi-images/belarus-vawkavysk-cities-v2.webp"
+},
     coords: [24.45, 53.15],
     coordinates: { lat: 53.15, lng: 24.45 },
     description: {
@@ -748,7 +796,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-kalinkavichy-cities-v2",
     type: "city",
-    name: { de: "Kalinkawitschy", hu: "Kalinkavicsi", ro: "Kalinkavici", en: "Kalinkavichy" },
+    name: { de: "Kalinkawitschy", hu: "Kalinkavicsi", ro: "Kalinkavici", en: "Kalinkavichy",
+image: "/poi-images/belarus-kalinkavichy-cities-v2.webp"
+},
     coords: [29.3333, 52.1167],
     coordinates: { lat: 52.1167, lng: 29.3333 },
     description: {
@@ -779,7 +829,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-smarhon-cities-v2",
     type: "city",
-    name: { de: "Smarhon", hu: "Szmarhon", ro: "Smarhon", en: "Smarhon" },
+    name: { de: "Smarhon", hu: "Szmarhon", ro: "Smarhon", en: "Smarhon",
+image: "/poi-images/belarus-smarhon-cities-v2.webp"
+},
     coords: [26.4, 54.4833],
     coordinates: { lat: 54.4833, lng: 26.4 },
     description: {
@@ -810,7 +862,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-rahachow-cities-v2",
     type: "city",
-    name: { de: "Rahatschou", hu: "Rahacsov", ro: "Rahaciov", en: "Rahachow" },
+    name: { de: "Rahatschou", hu: "Rahacsov", ro: "Rahaciov", en: "Rahachow",
+image: "/poi-images/belarus-rahachow-cities-v2.webp"
+},
     coords: [30.05, 53.1],
     coordinates: { lat: 53.1, lng: 30.05 },
     description: {
@@ -841,7 +895,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-asipovichy-cities-v2",
     type: "city",
-    name: { de: "Assipowitschy", hu: "Aszipovicsi", ro: "Asipovici", en: "Asipovichy" },
+    name: { de: "Assipowitschy", hu: "Aszipovicsi", ro: "Asipovici", en: "Asipovichy",
+image: "/poi-images/belarus-asipovichy-cities-v2.webp"
+},
     coords: [28.6333, 53.3],
     coordinates: { lat: 53.3, lng: 28.6333 },
     description: {
@@ -872,7 +928,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-horki-cities-v2",
     type: "city",
-    name: { de: "Horki", hu: "Horki", ro: "Horki", en: "Horki" },
+    name: { de: "Horki", hu: "Horki", ro: "Horki", en: "Horki",
+image: "/poi-images/belarus-horki-cities-v2.webp"
+},
     coords: [30.9833, 54.2833],
     coordinates: { lat: 54.2833, lng: 30.9833 },
     description: {
@@ -903,7 +961,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-navahrudak-cities-v2",
     type: "city",
-    name: { de: "Nawahrudak", hu: "Navahrudak", ro: "Navahrudak", en: "Navahrudak" },
+    name: { de: "Nawahrudak", hu: "Navahrudak", ro: "Navahrudak", en: "Navahrudak",
+image: "/poi-images/belarus-navahrudak-cities-v2.webp"
+},
     coords: [25.8167, 53.6],
     coordinates: { lat: 53.6, lng: 25.8167 },
     description: {
@@ -934,7 +994,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-vileyka-cities-v2",
     type: "city",
-    name: { de: "Wilejka", hu: "Vilejka", ro: "Vileika", en: "Vileyka" },
+    name: { de: "Wilejka", hu: "Vilejka", ro: "Vileika", en: "Vileyka",
+image: "/poi-images/belarus-vileyka-cities-v2.webp"
+},
     coords: [26.9167, 54.4833],
     coordinates: { lat: 54.4833, lng: 26.9167 },
     description: {
@@ -965,7 +1027,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-byaroza-cities-v2",
     type: "city",
-    name: { de: "Bjarosa", hu: "Bjaroza", ro: "Biaroza", en: "Byaroza" },
+    name: { de: "Bjarosa", hu: "Bjaroza", ro: "Biaroza", en: "Byaroza",
+image: "/poi-images/belarus-byaroza-cities-v2.webp"
+},
     coords: [24.9833, 52.5333],
     coordinates: { lat: 52.5333, lng: 24.9833 },
     description: {
@@ -996,7 +1060,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-krychaw-cities-v2",
     type: "city",
-    name: { de: "Krytschau", hu: "Kricsav", ro: "Krîciau", en: "Krychaw" },
+    name: { de: "Krytschau", hu: "Kricsav", ro: "Krîciau", en: "Krychaw",
+image: "/poi-images/belarus-krychaw-cities-v2.webp"
+},
     coords: [31.7167, 53.7167],
     coordinates: { lat: 53.7167, lng: 31.7167 },
     description: {
@@ -1027,7 +1093,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-dzyarzhynsk-cities-v2",
     type: "city",
-    name: { de: "Dsjarschynsk", hu: "Dzjarzsinszk", ro: "Dziarjînsk", en: "Dzyarzhynsk" },
+    name: { de: "Dsjarschynsk", hu: "Dzjarzsinszk", ro: "Dziarjînsk", en: "Dzyarzhynsk",
+image: "/poi-images/belarus-dzyarzhynsk-cities-v2.webp"
+},
     coords: [27.1333, 53.6833],
     coordinates: { lat: 53.6833, lng: 27.1333 },
     description: {
@@ -1058,7 +1126,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-ivatsevichy-cities-v2",
     type: "city",
-    name: { de: "Iwazewitschy", hu: "Ivacevicsi", ro: "Ivațevici", en: "Ivatsevichy" },
+    name: { de: "Iwazewitschy", hu: "Ivacevicsi", ro: "Ivațevici", en: "Ivatsevichy",
+image: "/poi-images/belarus-ivatsevichy-cities-v2.webp"
+},
     coords: [25.3333, 52.7167],
     coordinates: { lat: 52.7167, lng: 25.3333 },
     description: {
@@ -1089,7 +1159,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-luninyets-cities-v2",
     type: "city",
-    name: { de: "Luninez", hu: "Luninyec", ro: "Lunineț", en: "Luninyets" },
+    name: { de: "Luninez", hu: "Luninyec", ro: "Lunineț", en: "Luninyets",
+image: "/poi-images/belarus-luninyets-cities-v2.webp"
+},
     coords: [26.8, 52.25],
     coordinates: { lat: 52.25, lng: 26.8 },
     description: {
@@ -1120,7 +1192,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-maryina-horka-cities-v2",
     type: "city",
-    name: { de: "Marjina Horka", hu: "Marjina Horka", ro: "Marjina Horka", en: "Maryina Horka" },
+    name: { de: "Marjina Horka", hu: "Marjina Horka", ro: "Marjina Horka", en: "Maryina Horka",
+image: "/poi-images/belarus-maryina-horka-cities-v2.webp"
+},
     coords: [28.15, 53.5167],
     coordinates: { lat: 53.5167, lng: 28.15 },
     description: {
@@ -1151,7 +1225,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-pastavy-cities-v2",
     type: "city",
-    name: { de: "Pastawy", hu: "Pasztavi", ro: "Pastavî", en: "Pastavy" },
+    name: { de: "Pastawy", hu: "Pasztavi", ro: "Pastavî", en: "Pastavy",
+image: "/poi-images/belarus-pastavy-cities-v2.webp"
+},
     coords: [26.8333, 55.1167],
     coordinates: { lat: 55.1167, lng: 26.8333 },
     description: {
@@ -1182,7 +1258,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-pruzhany-cities-v2",
     type: "city",
-    name: { de: "Pruschany", hu: "Pruzsani", ro: "Prujanî", en: "Pruzhany" },
+    name: { de: "Pruschany", hu: "Pruzsani", ro: "Prujanî", en: "Pruzhany",
+image: "/poi-images/belarus-pruzhany-cities-v2.webp"
+},
     coords: [24.45, 52.5667],
     coordinates: { lat: 52.5667, lng: 24.45 },
     description: {
@@ -1213,7 +1291,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-dobrush-cities-v2",
     type: "city",
-    name: { de: "Dobrusch", hu: "Dobrus", ro: "Dobruș", en: "Dobrush" },
+    name: { de: "Dobrusch", hu: "Dobrus", ro: "Dobruș", en: "Dobrush",
+image: "/poi-images/belarus-dobrush-cities-v2.webp"
+},
     coords: [31.3167, 52.4167],
     coordinates: { lat: 52.4167, lng: 31.3167 },
     description: {
@@ -1244,7 +1324,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-hlybokaye-cities-v2",
     type: "city",
-    name: { de: "Hlybokaje", hu: "Hlibokaje", ro: "Hlîbokaye", en: "Hlybokaye" },
+    name: { de: "Hlybokaje", hu: "Hlibokaje", ro: "Hlîbokaye", en: "Hlybokaye",
+image: "/poi-images/belarus-hlybokaye-cities-v2.webp"
+},
     coords: [27.6833, 55.1333],
     coordinates: { lat: 55.1333, lng: 27.6833 },
     description: {
@@ -1276,7 +1358,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-stowbtsy-cities-v2",
     type: "city",
-    name: { de: "Stowbzy", hu: "Sztoubci", ro: "Stoubțî", en: "Stowbtsy" },
+    name: { de: "Stowbzy", hu: "Sztoubci", ro: "Stoubțî", en: "Stowbtsy",
+image: "/poi-images/belarus-stowbtsy-cities-v2.webp"
+},
     coords: [26.7333, 53.4833],
     coordinates: { lat: 53.4833, lng: 26.7333 },
     description: {
@@ -1308,7 +1392,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-lepel-cities-v2",
     type: "city",
-    name: { de: "Lepel", hu: "Lepel", ro: "Lepel", en: "Lepel" },
+    name: { de: "Lepel", hu: "Lepel", ro: "Lepel", en: "Lepel",
+image: "/poi-images/belarus-lepel-cities-v2.webp"
+},
     coords: [28.7, 54.8833],
     coordinates: { lat: 54.8833, lng: 28.7 },
     description: {
@@ -1339,7 +1425,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-bykhaw-cities-v2",
     type: "city",
-    name: { de: "Bychau", hu: "Bihav", ro: "Bîhau", en: "Bykhaw" },
+    name: { de: "Bychau", hu: "Bihav", ro: "Bîhau", en: "Bykhaw",
+image: "/poi-images/belarus-bykhaw-cities-v2.webp"
+},
     coords: [30.25, 53.5167],
     coordinates: { lat: 53.5167, lng: 30.25 },
     description: {
@@ -1370,7 +1458,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-ivanava-cities-v2",
     type: "city",
-    name: { de: "Iwanawa", hu: "Ivanava", ro: "Ivanava", en: "Ivanava" },
+    name: { de: "Iwanawa", hu: "Ivanava", ro: "Ivanava", en: "Ivanava",
+image: "/poi-images/belarus-ivanava-cities-v2.webp"
+},
     coords: [25.5333, 52.15],
     coordinates: { lat: 52.15, lng: 25.5333 },
     description: {
@@ -1401,7 +1491,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-shklow-cities-v2",
     type: "city",
-    name: { de: "Schklou", hu: "Sklov", ro: "Șklou", en: "Shklow" },
+    name: { de: "Schklou", hu: "Sklov", ro: "Șklou", en: "Shklow",
+image: "/poi-images/belarus-shklow-cities-v2.webp"
+},
     coords: [30.3, 54.2167],
     coordinates: { lat: 54.2167, lng: 30.3 },
     description: {
@@ -1432,7 +1524,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-zhitkavichy-cities-v2",
     type: "city",
-    name: { de: "Schytkawitschy", hu: "Zitkavicsi", ro: "Jîtkavici", en: "Zhitkavichy" },
+    name: { de: "Schytkawitschy", hu: "Zitkavicsi", ro: "Jîtkavici", en: "Zhitkavichy",
+image: "/poi-images/belarus-zhitkavichy-cities-v2.webp"
+},
     coords: [27.85, 52.2167],
     coordinates: { lat: 52.2167, lng: 27.85 },
     description: {
@@ -1463,7 +1557,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-lyuban-cities-v2",
     type: "city",
-    name: { de: "Ljuban", hu: "Ljuban", ro: "Liuban", en: "Lyuban" },
+    name: { de: "Ljuban", hu: "Ljuban", ro: "Liuban", en: "Lyuban",
+image: "/poi-images/belarus-lyuban-cities-v2.webp"
+},
     coords: [28.0, 52.7833],
     coordinates: { lat: 52.7833, lng: 28.0 },
     description: {
@@ -1494,7 +1590,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-hantsavichy-cities-v2",
     type: "city",
-    name: { de: "Hanzawitschy", hu: "Hancavicsi", ro: "Hanțavici", en: "Hantsavichy" },
+    name: { de: "Hanzawitschy", hu: "Hancavicsi", ro: "Hanțavici", en: "Hantsavichy",
+image: "/poi-images/belarus-hantsavichy-cities-v2.webp"
+},
     coords: [26.4333, 52.75],
     coordinates: { lat: 52.75, lng: 26.4333 },
     description: {
@@ -1525,7 +1623,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-fanipol-cities-v2",
     type: "city",
-    name: { de: "Fanypal", hu: "Fanyipal", ro: "Fanipal", en: "Fanipol" },
+    name: { de: "Fanypal", hu: "Fanyipal", ro: "Fanipal", en: "Fanipol",
+image: "/poi-images/belarus-fanipol-cities-v2.webp"
+},
     coords: [27.3333, 53.75],
     coordinates: { lat: 53.75, lng: 27.3333 },
     description: {
@@ -1556,7 +1656,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-masty-cities-v2",
     type: "city",
-    name: { de: "Masty", hu: "Maszti", ro: "Mastî", en: "Masty" },
+    name: { de: "Masty", hu: "Maszti", ro: "Mastî", en: "Masty",
+image: "/poi-images/belarus-masty-cities-v2.webp"
+},
     coords: [24.5333, 53.4167],
     coordinates: { lat: 53.4167, lng: 24.5333 },
     description: {
@@ -1587,7 +1689,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-vyetka-cities-v2",
     type: "city",
-    name: { de: "Wetka", hu: "Vetka", ro: "Vetka", en: "Vyetka" },
+    name: { de: "Wetka", hu: "Vetka", ro: "Vetka", en: "Vyetka",
+image: "/poi-images/belarus-vyetka-cities-v2.webp"
+},
     coords: [31.1833, 52.5667],
     coordinates: { lat: 52.5667, lng: 31.1833 },
     description: {
@@ -1618,7 +1722,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-mikashevichy-cities-v2",
     type: "city",
-    name: { de: "Mikaschewitschy", hu: "Mikasevicsi", ro: "Mikașevici", en: "Mikashevichy" },
+    name: { de: "Mikaschewitschy", hu: "Mikasevicsi", ro: "Mikașevici", en: "Mikashevichy",
+image: "/poi-images/belarus-mikashevichy-cities-v2.webp"
+},
     coords: [27.4667, 52.2167],
     coordinates: { lat: 52.2167, lng: 27.4667 },
     description: {
@@ -1649,7 +1755,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-byerazino-cities-v2",
     type: "city",
-    name: { de: "Berasino", hu: "Bjarazino", ro: "Berazino", en: "Byerazino" },
+    name: { de: "Berasino", hu: "Bjarazino", ro: "Berazino", en: "Byerazino",
+image: "/poi-images/belarus-byerazino-cities-v2.webp"
+},
     coords: [29.0, 53.8333],
     coordinates: { lat: 53.8333, lng: 29.0 },
     description: {
@@ -1680,7 +1788,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-skidal-cities-v2",
     type: "city",
-    name: { de: "Skidal", hu: "Szkidal", ro: "Skidal", en: "Skidal" },
+    name: { de: "Skidal", hu: "Szkidal", ro: "Skidal", en: "Skidal",
+image: "/poi-images/belarus-skidal-cities-v2.webp"
+},
     coords: [24.2167, 53.5833],
     coordinates: { lat: 53.5833, lng: 24.2167 },
     description: {
@@ -1711,7 +1821,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-pyetrykaw-cities-v2",
     type: "city",
-    name: { de: "Petrykau", hu: "Petrjkav", ro: "Petrikau", en: "Pyetrykaw" },
+    name: { de: "Petrykau", hu: "Petrjkav", ro: "Petrikau", en: "Pyetrykaw",
+image: "/poi-images/belarus-pyetrykaw-cities-v2.webp"
+},
     coords: [28.5, 52.1333],
     coordinates: { lat: 52.1333, lng: 28.5 },
     description: {
@@ -1742,7 +1854,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-chavusy-cities-v2",
     type: "city",
-    name: { de: "Tschawussy", hu: "Csavuszi", ro: "Ceavusî", en: "Chavusy" },
+    name: { de: "Tschawussy", hu: "Csavuszi", ro: "Ceavusî", en: "Chavusy",
+image: "/poi-images/belarus-chavusy-cities-v2.webp"
+},
     coords: [31.0, 53.8167],
     coordinates: { lat: 53.8167, lng: 31.0 },
     description: {
@@ -1773,7 +1887,9 @@ export const belarusCitiesV2: POI[] = [
   {
     id: "belarus-kastsyukovichy-cities-v2",
     type: "city",
-    name: { de: "Kaszjukowitschy", hu: "Kaszjukovicsi", ro: "Kasțiukovici", en: "Kastsyukovichy" },
+    name: { de: "Kaszjukowitschy", hu: "Kaszjukovicsi", ro: "Kasțiukovici", en: "Kastsyukovichy",
+image: "/poi-images/belarus-kastsyukovichy-cities-v2.webp"
+},
     coords: [32.05, 53.3333],
     coordinates: { lat: 53.3333, lng: 32.05 },
     description: {

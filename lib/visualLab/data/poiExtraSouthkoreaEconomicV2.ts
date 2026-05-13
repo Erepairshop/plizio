@@ -11,8 +11,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Hyundai Heavy Industries Schiffswerft Ulsan",
       hu: "Hyundai Heavy Industries Ulsani Hajógyár",
       ro: "Șantierul Naval Hyundai Heavy Industries Ulsan",
-      en: "Hyundai Heavy Industries Ulsan Shipyard"
-    },
+      en: "Hyundai Heavy Industries Ulsan Shipyard",
+image: "/poi-images/ulsan-hyundai-heavy-industries-economic-v2.webp"
+},
     description: {
       de: "Die größte Schiffswerft der Welt, ein Eckpfeiler der südkoreanischen Exportwirtschaft.",
       hu: "A világ legnagyobb hajógyára, a dél-koreai exportgazdaság egyik sarokköve.",
@@ -34,8 +35,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Hafen von Busan",
       hu: "Busani kikötő",
       ro: "Portul Busan",
-      en: "Port of Busan"
-    },
+      en: "Port of Busan",
+image: "/poi-images/busan-port-economic-v2.webp"
+},
     description: {
       de: "Südkoreas größter Hafen und der sechstgrößte Containerhafen der Welt, ein wichtiges Tor für den globalen Handel.",
       hu: "Dél-Korea legnagyobb kikötője és a világ hatodik legnagyobb konténerkikötője, a globális kereskedelem kulcsfontosságú kapuja.",
@@ -57,8 +59,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "POSCO Stahlwerk Pohang",
       hu: "POSCO Pohangi Acélmű",
       ro: "Oțelăria POSCO Pohang",
-      en: "POSCO Pohang Steel Works"
-    },
+      en: "POSCO Pohang Steel Works",
+image: "/poi-images/posco-pohang-steel-works-economic-v2.webp"
+},
     description: {
       de: "Eines der größten und technologisch fortschrittlichsten Stahlwerke der Welt, das die industrielle Entwicklung Südkoreas vorantreibt.",
       hu: "A világ egyik legnagyobb és technológiailag legfejlettebb acélműve, amely Dél-Korea ipari fejlődésének motorja.",
@@ -80,8 +83,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Internationaler Flughafen Incheon",
       hu: "Incheon Nemzetközi Repülőtér",
       ro: "Aeroportul Internațional Incheon",
-      en: "Incheon International Airport"
-    },
+      en: "Incheon International Airport",
+image: "/poi-images/incheon-international-airport-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger globaler Luftfracht-Hub und das Tor zu Südkorea, das für seine Effizienz und modernen Einrichtungen bekannt ist.",
       hu: "Fontos globális légi teherszállítási csomópont és Dél-Korea kapuja, amely hatékonyságáról és modern létesítményeiről ismert.",
@@ -104,8 +108,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Hafen von Gwangyang",
       hu: "Gwangyangi kikötő",
       ro: "Portul Gwangyang",
-      en: "Port of Gwangyang"
-    },
+      en: "Port of Gwangyang",
+image: "/poi-images/gwangyang-port-economic-v2.webp"
+},
     description: {
       de: "Ein strategisch wichtiger Hafen, der sich auf Container- und Stahltransporte spezialisiert hat und das Stahlwerk Gwangyang von POSCO bedient.",
       hu: "Stratégiailag fontos kikötő, amely konténer- és acélszállításra szakosodott, és a POSCO Gwangyangi Acélművét szolgálja ki.",
@@ -127,8 +132,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Samsung Digital City",
       hu: "Samsung Digital City",
       ro: "Samsung Digital City",
-      en: "Samsung Digital City"
-    },
+      en: "Samsung Digital City",
+image: "/poi-images/samsung-digital-city-economic-v2.webp"
+},
     description: {
       de: "Der Hauptsitz und das Forschungs- und Entwicklungszentrum von Samsung Electronics in Suwon, das als Gehirn des globalen Technologieriesen dient.",
       hu: "A Samsung Electronics központja és kutatás-fejlesztési központja Suwonban, amely a globális technológiai óriás agyaként működik.",
@@ -150,8 +156,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Kernkraftwerk Hanul",
       hu: "Hanul Atomerőmű",
       ro: "Centrala Nucleară Hanul",
-      en: "Hanul Nuclear Power Plant"
-    },
+      en: "Hanul Nuclear Power Plant",
+image: "/poi-images/hanul-nuclear-power-plant-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Kernkraftwerke der Welt, das einen erheblichen Teil des südkoreanischen Stroms erzeugt.",
       hu: "A világ egyik legnagyobb atomerőműve, amely Dél-Korea villamosenergia-termelésének jelentős részét adja.",
@@ -173,8 +180,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "SK Hynix Werk Icheon",
       hu: "SK Hynix Icheoni Üzem",
       ro: "Fabrica SK Hynix Icheon",
-      en: "SK Hynix Icheon Plant"
-    },
+      en: "SK Hynix Icheon Plant",
+image: "/poi-images/sk-hynix-icheon-plant-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige Produktionsstätte für SK Hynix, einen der weltweit führenden Hersteller von Halbleiterspeichern.",
       hu: "Az SK Hynix, a világ egyik vezető félvezető memória gyártójának fontos termelési létesítménye.",
@@ -197,8 +205,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Wärmekraftwerk Dangjin",
       hu: "Dangjini Hőerőmű",
       ro: "Termocentrala Dangjin",
-      en: "Dangjin Thermal Power Plant"
-    },
+      en: "Dangjin Thermal Power Plant",
+image: "/poi-images/dangjin-thermal-power-plant-economic-v2.webp"
+},
     description: {
       de: "Das größte Kohlekraftwerk Südkoreas, ein wichtiger Stromerzeuger, aber auch Gegenstand von Umweltdiskussionen.",
       hu: "Dél-Korea legnagyobb széntüzelésű erőműve, amely fontos villamosenergia-termelő, de környezetvédelmi viták tárgya is.",
@@ -220,8 +229,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "LG Chem Werk Yeosu",
       hu: "LG Chem Yeosu-i Üzem",
       ro: "Fabrica LG Chem Yeosu",
-      en: "LG Chem Yeosu Plant"
-    },
+      en: "LG Chem Yeosu Plant",
+image: "/poi-images/lg-chem-yeosu-plant-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger petrochemischer Komplex, der Grundstoffe für eine Vielzahl von Industrien herstellt, von Kunststoffen bis zu Batterien.",
       hu: "Fontos petrolkémiai komplexum, amely alapanyagokat gyárt számos iparág számára, a műanyagoktól az akkumulátorokig.",
@@ -243,8 +253,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Elektronikkomplex Gumi",
       hu: "Gumi Elektronikai Komplexum",
       ro: "Complexul Electronic Gumi",
-      en: "Gumi Electronics Complex"
-    },
+      en: "Gumi Electronics Complex",
+image: "/poi-images/gumi-electronics-complex-economic-v2.webp"
+},
     description: {
       de: "Einer der größten Binnen-Industriekomplexe in Südkorea, der sich auf die Herstellung von Elektronik, insbesondere Displays und Mobilgeräten, konzentriert.",
       hu: "Dél-Korea egyik legnagyobb belföldi ipari komplexuma, amely elektronikai cikkek, különösen kijelzők és mobileszközök gyártására összpontosít.",
@@ -266,8 +277,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Hafen von Pyeongtaek",
       hu: "Pyeongtaeki kikötő",
       ro: "Portul Pyeongtaek",
-      en: "Pyeongtaek Port"
-    },
+      en: "Pyeongtaek Port",
+image: "/poi-images/pyeongtaek-port-economic-v2.webp"
+},
     description: {
       de: "Ein schnell wachsender Hafen, der sich auf den Umschlag von Automobilen und Containern spezialisiert hat und in der Nähe von großen Industriegebieten liegt.",
       hu: "Gyorsan növekvő kikötő, amely gépjárművek és konténerek kezelésére szakosodott, és nagy ipari területek közelében található.",
@@ -289,8 +301,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Petrochemischer Komplex Seosan",
       hu: "Seosani Petrolkémiai Komplexum",
       ro: "Complexul Petrochimic Seosan",
-      en: "Seosan Petrochemical Complex"
-    },
+      en: "Seosan Petrochemical Complex",
+image: "/poi-images/seosan-petrochemical-complex-economic-v2.webp"
+},
     description: {
       de: "Ein weiterer bedeutender petrochemischer Hub in Südkorea mit Unternehmen wie Hanwha Total und Lotte Chemical.",
       hu: "Egy másik jelentős petrolkémiai központ Dél-Koreában, ahol olyan vállalatok működnek, mint a Hanwha Total és a Lotte Chemical.",
@@ -312,8 +325,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Kernkraftwerk Kori",
       hu: "Kori Atomerőmű",
       ro: "Centrala Nucleară Kori",
-      en: "Kori Nuclear Power Plant"
-    },
+      en: "Kori Nuclear Power Plant",
+image: "/poi-images/kori-nuclear-power-plant-economic-v2.webp"
+},
     description: {
       de: "Südkoreas erstes Kernkraftwerk, das seit 1978 in Betrieb ist und den Grundstein für das Kernenergieprogramm des Landes legte.",
       hu: "Dél-Korea első atomerőműve, amely 1978 óta működik, és lefektette az ország atomenergia-programjának alapjait.",
@@ -335,8 +349,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Maschinenbau-Industriekomplex Changwon",
       hu: "Changwoni Gépipari Komplexum",
       ro: "Complexul Industrial de Mașini Changwon",
-      en: "Changwon Machinery Industrial Complex"
-    },
+      en: "Changwon Machinery Industrial Complex",
+image: "/poi-images/changwon-machinery-industrial-complex-economic-v2.webp"
+},
     description: {
       de: "Ein Zentrum für den südkoreanischen Maschinenbau, das eine breite Palette von Präzisionsmaschinen und Industriekomponenten herstellt.",
       hu: "A dél-koreai gépipar központja, amely precíziós gépek és ipari alkatrészek széles skáláját gyártja.",
@@ -358,8 +373,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Kohlebergwerk Taean",
       hu: "Taeani Szénbánya",
       ro: "Mina de Cărbune Taean",
-      en: "Taean Coal Mine"
-    },
+      en: "Taean Coal Mine",
+image: "/poi-images/taean-mine-economic-v2.webp"
+},
     description: {
       de: "Obwohl der Kohleabbau in Südkorea zurückgegangen ist, repräsentiert dieses Gebiet die historische Bedeutung des Bergbaus für die Energieversorgung des Landes.",
       hu: "Bár a szénbányászat Dél-Koreában visszaszorult, ez a terület a bányászat történelmi jelentőségét képviseli az ország energiaellátásában.",
@@ -381,8 +397,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Pangyo Techno Valley",
       hu: "Pangyo Techno Valley",
       ro: "Valea Tehnologică Pangyo",
-      en: "Pangyo Techno Valley"
-    },
+      en: "Pangyo Techno Valley",
+image: "/poi-images/pangyo-techno-valley-economic-v2.webp"
+},
     description: {
       de: "Ein moderner Technologie-Hub, der als Zentrum für IT, Biotechnologie und andere High-Tech-Industrien dient und oft als Koreas 'Silicon Valley' bezeichnet wird.",
       hu: "Modern technológiai központ, amely az IT, a biotechnológia és más csúcstechnológiai iparágak központjaként szolgál, és gyakran Korea 'Szilícium-völgyeként' emlegetik.",
@@ -404,8 +421,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Petrochemischer Komplex Daesan",
       hu: "Daesani Petrolkémiai Komplexum",
       ro: "Complexul Petrochimic Daesan",
-      en: "Daesan Petrochemical Complex"
-    },
+      en: "Daesan Petrochemical Complex",
+image: "/poi-images/daesan-petrochemical-complex-economic-v2.webp"
+},
     description: {
       de: "Einer der drei großen petrochemischen Komplexe an der Westküste Südkoreas, mit wichtigen Anlagen von Hyundai Oilbank, Hanwha Total und LG Chem.",
       hu: "A dél-koreai nyugati part három nagy petrolkémiai komplexumának egyike, ahol a Hyundai Oilbank, a Hanwha Total és az LG Chem fontos létesítményei találhatók.",
@@ -427,8 +445,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Gezeitenkraftwerk Sihwa-See",
       hu: "Sihwa-tavi Árapályerőmű",
       ro: "Centrala Mareomotrică Lacul Sihwa",
-      en: "Sihwa Lake Tidal Power Station"
-    },
+      en: "Sihwa Lake Tidal Power Station",
+image: "/poi-images/sihwa-lake-tidal-power-station-economic-v2.webp"
+},
     description: {
       de: "Das größte Gezeitenkraftwerk der Welt, ein Symbol für Südkoreas Engagement für erneuerbare Energien.",
       hu: "A világ legnagyobb árapályerőműve, Dél-Korea megújuló energia iránti elkötelezettségének szimbóluma.",
@@ -450,8 +469,9 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
       de: "Kia-Werk Hwaseong",
       hu: "Kia Hwaseongi Üzem",
       ro: "Fabrica Kia Hwaseong",
-      en: "Kia Hwaseong Plant"
-    },
+      en: "Kia Hwaseong Plant",
+image: "/poi-images/kia-hwaseong-plant-economic-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten Produktionsstätten von Kia Motors, in der eine breite Palette von Fahrzeugen für den Inlands- und Exportmarkt hergestellt wird.",
       hu: "A Kia Motors egyik legfontosabb gyártóüzeme, ahol a hazai és exportpiacra szánt járművek széles skáláját gyártják.",

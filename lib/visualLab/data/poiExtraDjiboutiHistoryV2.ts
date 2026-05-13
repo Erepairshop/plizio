@@ -15,8 +15,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Moscheea Hamoudi este unul dintre cele mai vechi și emblematice edificii religioase din Djibouti, situată în inima capitalei. Construcția sa reflectă amestecul de stiluri arhitecturale locale și influențe arabe, fiind un centru spiritual esențial pentru comunitatea musulmană din regiune de peste un secol. Moscheea a jucat un rol vital în viața socială a orașului, servind drept loc de întâlnire pentru comerț și învățământ religios. Istorie K8 — rolul arhitecturii religioase în dezvoltarea socială.",
-      de: "Die Hamoudi-Moschee ist eines der ältesten und symbolträchtigsten religiösen Bauwerke in Dschibuti und liegt im pulsierenden Herzen der Hauptstadt. Ihre Architektur spiegelt eine faszinierende Mischung aus lokalen Baustilen und arabischen Einflüssen wider und dient der muslimischen Gemeinschaft der Region seit über einem Jahrhundert als spirituelles Zentrum. Die Moschee wurde 1906 erbaut und hat seitdem eine zentrale Rolle im sozialen Leben der Stadt gespielt, indem sie als Ort der Begegnung für den Handel und den religiösen Unterricht fungierte. Ihre markante Silhouette prägt das Bild der Altstadt und ist ein Zeugnis der kulturellen Kontinuität am Horn von Afrika. Geschichte K8 — Die Rolle religiöser Architektur in der sozialen Entwicklung."
-    },
+      de: "Die Hamoudi-Moschee ist eines der ältesten und symbolträchtigsten religiösen Bauwerke in Dschibuti und liegt im pulsierenden Herzen der Hauptstadt. Ihre Architektur spiegelt eine faszinierende Mischung aus lokalen Baustilen und arabischen Einflüssen wider und dient der muslimischen Gemeinschaft der Region seit über einem Jahrhundert als spirituelles Zentrum. Die Moschee wurde 1906 erbaut und hat seitdem eine zentrale Rolle im sozialen Leben der Stadt gespielt, indem sie als Ort der Begegnung für den Handel und den religiösen Unterricht fungierte. Ihre markante Silhouette prägt das Bild der Altstadt und ist ein Zeugnis der kulturellen Kontinuität am Horn von Afrika. Geschichte K8 — Die Rolle religiöser Architektur in der sozialen Entwicklung.",
+image: "/poi-images/hamoudi-mosque-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Wurde im Jahr 1906 offiziell eingeweiht.", "Befindet sich im historischen Viertel von Dschibuti-Stadt.", "Gilt als architektonisches Wahrzeichen der Hauptstadt.", "Kombiniert osmanische und klassische arabische Bauelemente.", "Wurde im Laufe der Jahrzehnte mehrfach behutsam restauriert.", "Bietet Platz für über tausend Gläubige bei großen Gebeten."]
     },
@@ -47,8 +48,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Sit-ul de la Abourma găzduiește o colecție remarcabilă de petroglife care datează din preistorie, oferind indicii prețioase despre fauna și viața umană din acea perioadă. Gravurile prezintă animale precum girafa, antilopa și diverse specii de bovine, demonstrând un ecosistem mult mai umed și bogat în trecut. Este una dintre cele mai importante situri arheologice din Djibouti pentru înțelegerea evoluției umane în Cornul Africii. Istorie K6 — arta preistorică și mediul înconjurător.",
-      de: "Die archäologische Stätte von Abourma beherbergt eine bemerkenswerte Sammlung von Felsbildern (Petroglyphen), die aus der prähistorischen Zeit stammen und wertvolle Hinweise auf die Tierwelt und das menschliche Leben dieser Epoche liefern. Die Gravuren zeigen Tiere wie Giraffen, Antilopen und verschiedene Rinderarten, was beweist, dass das Ökosystem in der Vergangenheit wesentlich feuchter und reicher an Ressourcen war als die heutige Wüste. Es handelt sich um eine der bedeutendsten archäologischen Fundstätten Dschibutis, um die menschliche Evolution und Anpassung am Horn von Afrika zu verstehen. Die Komplexität der Darstellungen zeugt von einer hochentwickelten frühen Kultur. Geschichte K6 — Prähistorische Kunst und Umwelt."
-    },
+      de: "Die archäologische Stätte von Abourma beherbergt eine bemerkenswerte Sammlung von Felsbildern (Petroglyphen), die aus der prähistorischen Zeit stammen und wertvolle Hinweise auf die Tierwelt und das menschliche Leben dieser Epoche liefern. Die Gravuren zeigen Tiere wie Giraffen, Antilopen und verschiedene Rinderarten, was beweist, dass das Ökosystem in der Vergangenheit wesentlich feuchter und reicher an Ressourcen war als die heutige Wüste. Es handelt sich um eine der bedeutendsten archäologischen Fundstätten Dschibutis, um die menschliche Evolution und Anpassung am Horn von Afrika zu verstehen. Die Komplexität der Darstellungen zeugt von einer hochentwickelten frühen Kultur. Geschichte K6 — Prähistorische Kunst und Umwelt.",
+image: "/poi-images/abourma-petroglyphs-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Umfasst hunderte von antiken Gravuren auf Basaltgestein.", "Befindet sich in der abgelegenen nördlichen Region Tadjourah.", "Stellt Tiere dar, die heute in dieser Region ausgestorben sind.", "Liefert Beweise für klimatische Veränderungen über Jahrtausende.", "Belegt eine kontinuierliche menschliche Besiedlung seit der Jungsteinzeit.", "Gilt als eine der größten Felskunst-Galerien des afrikanischen Kontinents."]
     },
@@ -79,8 +81,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Farul de la Ras Bir, situat în apropiere de Obock, a fost construit în perioada colonială pentru a ghida navele prin periculoasa strâmtoare Bab-el-Mandeb. Structura sa a servit drept punct critic de control maritim pe ruta comercială între Europa și Asia prin Canalul Suez. Importanța sa strategică rămâne neegalată, fiind martorul dezvoltării comerțului maritim internațional de-a lungul întregului secol XX. Istorie K8 — navigație și comerț maritim internațional.",
-      de: "Der Leuchtturm von Ras Bir, gelegen in der Nähe von Obock, wurde ursprünglich während der Kolonialzeit errichtet, um die Schifffahrt durch die gefährliche Meerenge von Bab-el-Mandab zu leiten. Die Struktur diente als kritischer maritimer Kontrollpunkt auf der Handelsroute zwischen Europa und Asien via den Suezkanal. Seine strategische Bedeutung bleibt unübertroffen, da er Zeuge der Entwicklung des internationalen Seehandels im gesamten 20. Jahrhundert war. Der Leuchtturm markiert den Punkt, an dem das Rote Meer in den Golf von Aden übergeht, und ist ein Symbol für die Sicherheit der globalen Schifffahrt. Geschichte K8 — Navigation und internationaler Seehandel."
-    },
+      de: "Der Leuchtturm von Ras Bir, gelegen in der Nähe von Obock, wurde ursprünglich während der Kolonialzeit errichtet, um die Schifffahrt durch die gefährliche Meerenge von Bab-el-Mandab zu leiten. Die Struktur diente als kritischer maritimer Kontrollpunkt auf der Handelsroute zwischen Europa und Asien via den Suezkanal. Seine strategische Bedeutung bleibt unübertroffen, da er Zeuge der Entwicklung des internationalen Seehandels im gesamten 20. Jahrhundert war. Der Leuchtturm markiert den Punkt, an dem das Rote Meer in den Golf von Aden übergeht, und ist ein Symbol für die Sicherheit der globalen Schifffahrt. Geschichte K8 — Navigation und internationaler Seehandel.",
+image: "/poi-images/ras-bir-lighthouse-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Der erste Turm wurde 1889 von den französischen Behörden erbaut.", "Strategisch günstig am nördlichen Eingang zum Golf von Tadjoura gelegen.", "Essenziell für die Sicherheit des Schiffsverkehrs durch die Meerenge.", "Wahrzeichen der frühen französischen Präsenz in der Region Obock.", "Spielt auch heute noch eine aktive Rolle im Navigationssystem.", "Die Region ist bekannt für ihre starken und tückischen Meeresströmungen."]
     },
@@ -111,8 +114,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Fortul de la Sagallou a fost un punct de control esențial în interiorul regiunii pentru menținerea ordinii și supravegherea rutelor comerciale în timpul prezenței franceze. Structura sa de piatră a rezistat trecerii timpului, fiind un martor tăcut al conflictelor și negocierilor diplomatice care au modelat granițele actuale ale Djibouti. Astăzi, ruinele fortului oferă o perspectivă asupra arhitecturii defensive coloniale și a controlului teritorial. Istorie K7 — arhitectură defensivă și granițe coloniale.",
-      de: "Das Fort von Sagallou war während der französischen Präsenz ein wesentlicher Kontrollpunkt im Landesinneren, um die Ordnung aufrechtzuerhalten und die Karawanenwege zu überwachen. Seine Steinstruktur hat die Zeit überdauert und ist ein stiller Zeuge der Konflikte und diplomatischen Verhandlungen, die die heutigen Grenzen Dschibutis geformt haben. Besonders bekannt ist der Ort für den 'Sagallo-Vorfall' von 1889, als russische Siedler versuchten, hier eine Kolonie namens 'Neu-Moskau' zu gründen, was jedoch an französischem Widerstand scheiterte. Heute bieten die Ruinen des Forts einen tiefen Einblick in die koloniale Verteidigungsarchitektur und die territoriale Kontrolle des 19. Jahrhunderts. Geschichte K7 — Verteidigungsarchitektur und koloniale Grenzen."
-    },
+      de: "Das Fort von Sagallou war während der französischen Präsenz ein wesentlicher Kontrollpunkt im Landesinneren, um die Ordnung aufrechtzuerhalten und die Karawanenwege zu überwachen. Seine Steinstruktur hat die Zeit überdauert und ist ein stiller Zeuge der Konflikte und diplomatischen Verhandlungen, die die heutigen Grenzen Dschibutis geformt haben. Besonders bekannt ist der Ort für den 'Sagallo-Vorfall' von 1889, als russische Siedler versuchten, hier eine Kolonie namens 'Neu-Moskau' zu gründen, was jedoch an französischem Widerstand scheiterte. Heute bieten die Ruinen des Forts einen tiefen Einblick in die koloniale Verteidigungsarchitektur und die territoriale Kontrolle des 19. Jahrhunderts. Geschichte K7 — Verteidigungsarchitektur und koloniale Grenzen.",
+image: "/poi-images/sagallou-fort-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Im späten 19. Jahrhundert zur Grenzsicherung befestigt.", "Strategisch positioniert an den traditionellen Landhandelsrouten.", "Hauptsächlich aus lokalem Gestein und Korallenkalk erbaut.", "Diente als wichtiger militärischer Beobachtungsposten.", "Bekannt für das gescheiterte russische Kolonialprojekt 1889.", "Die Ruinen gelten heute als bedeutendes historisches Denkmal."]
     },
@@ -143,8 +147,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Handoga Archaeological Site"
     ,
     descriptionAdvanced: {
-      de: "Handoga ist eine bedeutende archäologische Ausgrabungsstätte in der Nähe von Dikhil, die Funde aus einer jahrtausendealten Besiedlung durch frühe nomadische Kulturen beherbergt. Die Entdeckungen in Handoga, darunter Steinwerkzeuge und Keramikfragmente, liefern entscheidende Beweise für die frühe Domestizierung von Tieren und die Entwicklung der Weidewirtschaft am Horn von Afrika. Die Stätte zeigt, wie sich menschliche Gesellschaften über Generationen hinweg an die ariden Bedingungen des Landesinneren angepasst haben. Es ist einer der ältesten bekannten Siedlungsplätze im heutigen Dschibuti und ein Schlüsselort für die Erforschung der prähistorischen Migration. Geschichte K7 — Frühe Nomadenvölker und Archäologie."
-    },
+      de: "Handoga ist eine bedeutende archäologische Ausgrabungsstätte in der Nähe von Dikhil, die Funde aus einer jahrtausendealten Besiedlung durch frühe nomadische Kulturen beherbergt. Die Entdeckungen in Handoga, darunter Steinwerkzeuge und Keramikfragmente, liefern entscheidende Beweise für die frühe Domestizierung von Tieren und die Entwicklung der Weidewirtschaft am Horn von Afrika. Die Stätte zeigt, wie sich menschliche Gesellschaften über Generationen hinweg an die ariden Bedingungen des Landesinneren angepasst haben. Es ist einer der ältesten bekannten Siedlungsplätze im heutigen Dschibuti und ein Schlüsselort für die Erforschung der prähistorischen Migration. Geschichte K7 — Frühe Nomadenvölker und Archäologie.",
+image: "/poi-images/handoga-site-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Beherbergt Überreste von kreisförmigen antiken Wohnstätten.", "Reichhaltige Funde von neolithischen Steinwerkzeugen und Keramik.", "Belegt die Existenz von Viehzucht vor über 4.000 Jahren.", "Einer der am besten erforschten Siedlungsplätze im Inland.", "Liefert Daten über die Ernährungsgewohnheiten früher Gemeinschaften.", "Wichtiger Standort für die dschibutische Urgeschichtsforschung."]
     }
@@ -173,8 +178,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Tadjourah Sultanate Palace"
     ,
     descriptionAdvanced: {
-      de: "Der historische Palast des Sultans von Tadjourah repräsentiert die jahrhundertealte Tradition des Adal-Sultanats und die tiefe kulturelle Identität der Afar-Bevölkerung. Als Sitz einer der ältesten politischen Institutionen der Region war der Palast über Generationen hinweg das Zentrum der Macht, der Diplomatie und der Rechtsprechung. Die Architektur des Gebäudes spiegelt die regionalen Bautraditionen wider und bewahrt den Geist einer Ära, in der Tadjourah ein mächtiger Stadtstaat war. Er dient bis heute als Ort für traditionelle Zeremonien und als Bewahrer der mündlichen Überlieferungen des Afar-Volkes. Geschichte K8 — Traditionelle Machtstrukturen und kulturelles Erbe."
-    },
+      de: "Der historische Palast des Sultans von Tadjourah repräsentiert die jahrhundertealte Tradition des Adal-Sultanats und die tiefe kulturelle Identität der Afar-Bevölkerung. Als Sitz einer der ältesten politischen Institutionen der Region war der Palast über Generationen hinweg das Zentrum der Macht, der Diplomatie und der Rechtsprechung. Die Architektur des Gebäudes spiegelt die regionalen Bautraditionen wider und bewahrt den Geist einer Ära, in der Tadjourah ein mächtiger Stadtstaat war. Er dient bis heute als Ort für traditionelle Zeremonien und als Bewahrer der mündlichen Überlieferungen des Afar-Volkes. Geschichte K8 — Traditionelle Machtstrukturen und kulturelles Erbe.",
+image: "/poi-images/tadjourah-palace-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Offizieller Sitz des Sultanats von Tadjourah (Adal-Sultanat).", "Zentrum für die Pflege der Afar-Kultur und -Tradition.", "Ort für bedeutende rituelle Feierlichkeiten und Rechtsprechungen.", "Spiegelt die historische Unabhängigkeit der lokalen Herrscher wider.", "Beherbergt Relikte und Insignien der sultanischen Macht.", "Architektonisches Zeugnis der Stadtgeschichte als 'Weiße Stadt'."]
     }
@@ -204,8 +210,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Obock Colonial Residency"
     ,
     descriptionAdvanced: {
-      de: "Die Kolonialresidenz von Obock war das erste Verwaltungszentrum der französischen Kolonialmacht in der Region, nachdem 1862 der erste Vertrag mit lokalen Herrschern unterzeichnet worden war. Das Gebäude diente den ersten Gouverneuren als Hauptquartier und war der Ausgangspunkt für die Expansion Frankreichs am Horn von Afrika, bevor die Hauptstadt 1896 nach Dschibuti-Stadt verlegt wurde. Die Architektur der Residenz ist ein klassisches Beispiel für den kolonialen Stil des späten 19. Jahrhunderts, angepasst an das heiße Küstenklima. Heute steht das Gebäude als Denkmal für den Beginn der modernen politischen Geschichte Dschibutis. Geschichte K8 — Koloniale Verwaltung und Stadtgründung."
-    },
+      de: "Die Kolonialresidenz von Obock war das erste Verwaltungszentrum der französischen Kolonialmacht in der Region, nachdem 1862 der erste Vertrag mit lokalen Herrschern unterzeichnet worden war. Das Gebäude diente den ersten Gouverneuren als Hauptquartier und war der Ausgangspunkt für die Expansion Frankreichs am Horn von Afrika, bevor die Hauptstadt 1896 nach Dschibuti-Stadt verlegt wurde. Die Architektur der Residenz ist ein klassisches Beispiel für den kolonialen Stil des späten 19. Jahrhunderts, angepasst an das heiße Küstenklima. Heute steht das Gebäude als Denkmal für den Beginn der modernen politischen Geschichte Dschibutis. Geschichte K8 — Koloniale Verwaltung und Stadtgründung.",
+image: "/poi-images/obock-residency-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Wurde um das Jahr 1885 als administratives Zentrum erbaut.", "Diente als Wohn- und Amtssitz der ersten französischen Gouverneure.", "Markiert den Beginn der französischen Ära am Horn von Afrika.", "Gilt als eines der ältesten erhaltenen Steingebäude des Landes.", "Architektonisch geprägt durch weite Arkaden zur Belüftung.", "Historisch bedeutsam für die maritime Strategie im Roten Meer."]
     }
@@ -235,8 +242,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Asa Koma"
     ,
     descriptionAdvanced: {
-      de: "Asa Koma ist eine bedeutende neolithische Fundstätte in der Nähe des Abbe-Sees, die faszinierende Einblicke in das Leben der frühen Bewohner vor etwa 4.000 Jahren gewährt. Archäologische Ausgrabungen haben gezeigt, dass die Menschen hier sowohl von der Fischerei als auch von der Viehzucht lebten, was auf eine komplexe Mischökonomie hindeutet. Besonders wertvoll sind die Keramikfunde, die zu den ältesten in der gesamten Region gehören und auf eine hochentwickelte Handwerkstradition hinweisen. Die Stätte belegt zudem den Reichtum an Wildtieren in der damaligen Zeit, was einen starken Kontrast zur heutigen ariden Landschaft darstellt. Geschichte K7 — Neolithische Lebensweisen und Seenkultur."
-    },
+      de: "Asa Koma ist eine bedeutende neolithische Fundstätte in der Nähe des Abbe-Sees, die faszinierende Einblicke in das Leben der frühen Bewohner vor etwa 4.000 Jahren gewährt. Archäologische Ausgrabungen haben gezeigt, dass die Menschen hier sowohl von der Fischerei als auch von der Viehzucht lebten, was auf eine komplexe Mischökonomie hindeutet. Besonders wertvoll sind die Keramikfunde, die zu den ältesten in der gesamten Region gehören und auf eine hochentwickelte Handwerkstradition hinweisen. Die Stätte belegt zudem den Reichtum an Wildtieren in der damaligen Zeit, was einen starken Kontrast zur heutigen ariden Landschaft darstellt. Geschichte K7 — Neolithische Lebensweisen und Seenkultur.",
+image: "/poi-images/asa-koma-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Datiert auf etwa 2.000 bis 2.500 Jahre vor Christus.", "Fundort seltener prähistorischer Keramik mit komplexen Mustern.", "Liefert Beweise für frühen Fischfang im damals größeren Abbe-See.", "Belegt die frühe Domestizierung von Rindern in dieser Region.", "Fundort zahlreicher Knochen von heute lokal ausgestorbenen Tieren.", "Essentiell für die Rekonstruktion des Paläoklimas Ostafrikas."]
     }
@@ -265,8 +273,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Wakrita Settlement"
     ,
     descriptionAdvanced: {
-      de: "Die antike Siedlung Wakrita ist ein bedeutender archäologischer Fundort, der entscheidende Informationen über die Entwicklung der sesshaften Landwirtschaft und des Fernhandels am Horn von Afrika geliefert hat. Datierungen zeigen, dass der Ort bereits im ersten Jahrtausend vor Christus bewohnt war, was ihn zu einer der ältesten dauerhaften Siedlungen der Region macht. Die Funde von Obsidianwerkzeugen weisen auf weitverzweigte Handelsnetzwerke hin, die bis in das äthiopische Hochland und über das Rote Meer reichten. Wakrita ist ein Schlüsselstandort, um den Übergang von nomadischen zu sesshafteren Lebensformen in Dschibuti zu verstehen. Geschichte K8 — Entwicklung des Handels und früher Ackerbau."
-    },
+      de: "Die antike Siedlung Wakrita ist ein bedeutender archäologischer Fundort, der entscheidende Informationen über die Entwicklung der sesshaften Landwirtschaft und des Fernhandels am Horn von Afrika geliefert hat. Datierungen zeigen, dass der Ort bereits im ersten Jahrtausend vor Christus bewohnt war, was ihn zu einer der ältesten dauerhaften Siedlungen der Region macht. Die Funde von Obsidianwerkzeugen weisen auf weitverzweigte Handelsnetzwerke hin, die bis in das äthiopische Hochland und über das Rote Meer reichten. Wakrita ist ein Schlüsselstandort, um den Übergang von nomadischen zu sesshafteren Lebensformen in Dschibuti zu verstehen. Geschichte K8 — Entwicklung des Handels und früher Ackerbau.",
+image: "/poi-images/wakrita-settlement-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Datiert auf das frühe 1. Jahrtausend vor der christlichen Zeitrechnung.", "Zentrum für die Erforschung früher Handelsverbindungen (Obsidian).", "Belegt den Austausch von Gütern über weite Distanzen.", "Einer der wenigen Orte mit Nachweisen frühen Ackerbaus im Inland.", "Zeigt komplexe Siedlungsstrukturen mit festen Gebäuden.", "Wichtige Informationsquelle für die Domestizierung lokaler Pflanzen."]
     }
@@ -296,8 +305,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Goda Mountains Megaliths"
     ,
     descriptionAdvanced: {
-      de: "In den zerklüfteten Höhenzügen des Goda-Gebirges finden sich zahlreiche rätselhafte Megalithgräber und Steinsetzungen, die von komplexen vorislamischen Bestattungsriten zeugen. Diese monumentalen Strukturen, die oft aus massiven Steinplatten errichtet wurden, sind über das gesamte Gebirge verstreut und geben Archäologen bis heute Rätsel über ihre genaue Herkunft und das Volk, das sie erbaute, auf. Sie stehen oft an markanten Aussichtspunkten, was auf eine spirituelle Verbindung zwischen der Landschaft und dem Totenkult hindeutet. Die Megalithen sind ein beeindruckendes Zeugnis der tiefen historischen Wurzeln der Völker des dschibutischen Hochlandes. Geschichte K7 — Megalithische Kulturen und Grabriten."
-    },
+      de: "In den zerklüfteten Höhenzügen des Goda-Gebirges finden sich zahlreiche rätselhafte Megalithgräber und Steinsetzungen, die von komplexen vorislamischen Bestattungsriten zeugen. Diese monumentalen Strukturen, die oft aus massiven Steinplatten errichtet wurden, sind über das gesamte Gebirge verstreut und geben Archäologen bis heute Rätsel über ihre genaue Herkunft und das Volk, das sie erbaute, auf. Sie stehen oft an markanten Aussichtspunkten, was auf eine spirituelle Verbindung zwischen der Landschaft und dem Totenkult hindeutet. Die Megalithen sind ein beeindruckendes Zeugnis der tiefen historischen Wurzeln der Völker des dschibutischen Hochlandes. Geschichte K7 — Megalithische Kulturen und Grabriten.",
+image: "/poi-images/goda-megaliths-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Zahlreiche Steingräber (Dolmen) in den Höhen des Goda-Massivs.", "Stammen aus der Zeit vor der Ausbreitung des Islam in der Region.", "Wurden oft an strategisch oder spirituell wichtigen Orten errichtet.", "Mahnmal einer vergessenen Zivilisation am Horn von Afrika.", "Bestehen aus tonnenschweren, kunstvoll geschichteten Felsplatten.", "Gegenstand laufender archäologischer und ethnologischer Studien."]
     }
@@ -326,8 +336,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Historic Fortress of Dikhil"
     ,
     descriptionAdvanced: {
-      de: "Die historische Festung von Dikhil wurde in den 1920er Jahren von der französischen Kolonialverwaltung erbaut und diente als strategischer Außenposten zur Kontrolle der wichtigen Karawanenwege im Südwesten des Landes. Die Lage der Festung ermöglichte die Überwachung des Warenverkehrs von und nach Äthiopien und sicherte die koloniale Präsenz in einer strategisch kritischen Grenzregion. Mit ihren massiven Steinmauern und Wachtürmen ist die Festung ein Paradebeispiel für die koloniale Militärarchitektur der Zwischenkriegszeit. Heute ist sie ein gut erhaltenes Denkmal, das die Geschichte des Handels und der militärischen Sicherung in Dschibuti illustriert. Geschichte K8 — Koloniale Militärstrategie und Grenzkontrolle."
-    },
+      de: "Die historische Festung von Dikhil wurde in den 1920er Jahren von der französischen Kolonialverwaltung erbaut und diente als strategischer Außenposten zur Kontrolle der wichtigen Karawanenwege im Südwesten des Landes. Die Lage der Festung ermöglichte die Überwachung des Warenverkehrs von und nach Äthiopien und sicherte die koloniale Präsenz in einer strategisch kritischen Grenzregion. Mit ihren massiven Steinmauern und Wachtürmen ist die Festung ein Paradebeispiel für die koloniale Militärarchitektur der Zwischenkriegszeit. Heute ist sie ein gut erhaltenes Denkmal, das die Geschichte des Handels und der militärischen Sicherung in Dschibuti illustriert. Geschichte K8 — Koloniale Militärstrategie und Grenzkontrolle.",
+image: "/poi-images/dikhil-fortress-history-v2.webp"
+},
     factsAdvanced: {
       de: ["In den 1920er Jahren zur Sicherung der Südwestgrenze errichtet.", "Strategischer Punkt zur Überwachung des Karawanenhandels.", "Beispiel für die solide französische Militärbauweise in Afrika.", "Kontrollierte den Zugang zu den Wasserstellen von Dikhil.", "Wurde aus lokalem Basaltgestein und Kalkmörtel gebaut.", "Historisches Zentrum der administrativen Erschließung der Region."]
     }
@@ -357,8 +368,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Historic Ali Sabieh Viaduct"
     ,
     descriptionAdvanced: {
-      de: "Das historische Viadukt von Ali Sabieh ist ein beeindruckendes Meisterwerk der Ingenieurskunst aus der Kolonialzeit und ein zentrales Element der ursprünglichen Eisenbahnstrecke Dschibuti-Addis Abeba. Das Viadukt wurde im frühen 20. Jahrhundert fertiggestellt, um die tiefen Schluchten und das schwierige Gelände der Region zu überwinden, was eine enorme technische Herausforderung darstellte. Es ermöglichte den wirtschaftlichen Aufschwung der Region und zementierte die Rolle Dschibutis als wichtigstes Transitland für den äthiopischen Handel. Bis heute prägt das imposante Bauwerk das Landschaftsbild und steht als Symbol für die industrielle Verbindung zweier Nationen. Geschichte K8 — Technikgeschichte und industrielle Revolution."
-    },
+      de: "Das historische Viadukt von Ali Sabieh ist ein beeindruckendes Meisterwerk der Ingenieurskunst aus der Kolonialzeit und ein zentrales Element der ursprünglichen Eisenbahnstrecke Dschibuti-Addis Abeba. Das Viadukt wurde im frühen 20. Jahrhundert fertiggestellt, um die tiefen Schluchten und das schwierige Gelände der Region zu überwinden, was eine enorme technische Herausforderung darstellte. Es ermöglichte den wirtschaftlichen Aufschwung der Region und zementierte die Rolle Dschibutis als wichtigstes Transitland für den äthiopischen Handel. Bis heute prägt das imposante Bauwerk das Landschaftsbild und steht als Symbol für die industrielle Verbindung zweier Nationen. Geschichte K8 — Technikgeschichte und industrielle Revolution.",
+image: "/poi-images/ali-sabieh-viaduct-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Bestandteil der kaiserlichen Eisenbahnlinie (C.F.E.).", "Erbaut unter extremen klimatischen und geografischen Bedingungen.", "Meilenstein der Ingenieurskunst am Horn von Afrika.", "Ermöglichte den ersten regelmäßigen Güterverkehr nach Äthiopien.", "Die Stahlkonstruktion ist ein markantes Wahrzeichen von Ali Sabieh.", "Wird oft als das 'Eiffelturm-Projekt' Dschibutis bezeichnet."]
     }
@@ -387,8 +399,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Balho Rock Art"
     ,
     descriptionAdvanced: {
-      de: "Die Umgebung von Balho ist eine der reichsten Regionen Dschibutis an prähistorischen Felsmalereien, die einen faszinierenden Einblick in die Geisteswelt der frühen Bewohner geben. Die in Rot- und Weißpigmenten ausgeführten Darstellungen zeigen vor allem Antilopen, Rinder und Szenen des menschlichen Alltags, was auf eine Zeit hindeutet, in der die Jagd und die frühe Tierhaltung die Lebensgrundlagen bildeten. Die Kunstwerke befinden sich meist an geschützten Felsüberhängen und haben über Jahrtausende überdauert. Balho ist damit ein unschätzbares Archiv der menschlichen Geschichte und zeigt die Kontinuität der kulturellen Ausdrucksformen in dieser heute kargen Grenzregion. Geschichte K6 — Frühe Kunst und nomadische Identität."
-    },
+      de: "Die Umgebung von Balho ist eine der reichsten Regionen Dschibutis an prähistorischen Felsmalereien, die einen faszinierenden Einblick in die Geisteswelt der frühen Bewohner geben. Die in Rot- und Weißpigmenten ausgeführten Darstellungen zeigen vor allem Antilopen, Rinder und Szenen des menschlichen Alltags, was auf eine Zeit hindeutet, in der die Jagd und die frühe Tierhaltung die Lebensgrundlagen bildeten. Die Kunstwerke befinden sich meist an geschützten Felsüberhängen und haben über Jahrtausende überdauert. Balho ist damit ein unschätzbares Archiv der menschlichen Geschichte und zeigt die Kontinuität der kulturellen Ausdrucksformen in dieser heute kargen Grenzregion. Geschichte K6 — Frühe Kunst und nomadische Identität.",
+image: "/poi-images/balho-rock-art-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Umfangreiche Galerie prähistorischer Malereien im Nordwesten.", "Darstellung komplexer Jagdszenen und Herdentieren.", "Verwendung natürlicher Pigmente wie Ocker und Kalk.", "Belegt die kulturelle Blütezeit der Region vor der Desertifikation.", "Wichtiger Standort für die Erforschung der Afar-Frühgeschichte.", "Die Funde sind über ein weites Gebiet um Balho verstreut."]
     }
@@ -417,8 +430,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "L'Escale Historic District"
     ,
     descriptionAdvanced: {
-      de: "Das historische Viertel L'Escale in Dschibuti-Stadt ist das Herzstück der kolonialen Stadtgründung und bewahrt die charakteristische Architektur des späten 19. und frühen 20. Jahrhunderts. Mit seinen arkadengesäumten Gebäuden, hölzernen Balkonen und großzügigen Plätzen spiegelt das Viertel den französischen Einfluss und die Rolle der Stadt als kosmopolitisches Handelszentrum wider. L'Escale war das einstige Zentrum der Verwaltung und des Handels, wo Waren aus aller Welt umgeschlagen wurden. Heute ist es ein lebendiges Zeugnis der Stadtgeschichte und lädt dazu ein, das koloniale Erbe und den Charme der alten Hafenstadt zu entdecken. Geschichte K8 — Städtebau und koloniales Erbe."
-    },
+      de: "Das historische Viertel L'Escale in Dschibuti-Stadt ist das Herzstück der kolonialen Stadtgründung und bewahrt die charakteristische Architektur des späten 19. und frühen 20. Jahrhunderts. Mit seinen arkadengesäumten Gebäuden, hölzernen Balkonen und großzügigen Plätzen spiegelt das Viertel den französischen Einfluss und die Rolle der Stadt als kosmopolitisches Handelszentrum wider. L'Escale war das einstige Zentrum der Verwaltung und des Handels, wo Waren aus aller Welt umgeschlagen wurden. Heute ist es ein lebendiges Zeugnis der Stadtgeschichte und lädt dazu ein, das koloniale Erbe und den Charme der alten Hafenstadt zu entdecken. Geschichte K8 — Städtebau und koloniales Erbe.",
+image: "/poi-images/lescale-district-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Historisches Kerngebiet der Hauptstadt am alten Hafen.", "Geprägt durch Gebäude im 'Style Coloniale' mit Arkaden.", "Einstiges Verwaltungszentrum des französischen Somalilandes.", "Spiegelt die strategische Stadtplanung des späten 19. Jahrhunderts wider.", "Beherbergt viele der ältesten Geschäfte und Cafés der Stadt.", "Einzigartiger Schmelztiegel europäischer und afrikanischer Architektur."]
     }
@@ -448,8 +462,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Historic Loyada Boundary Post"
     ,
     descriptionAdvanced: {
-      de: "Der historische Grenzposten von Loyada markiert den einzigen offiziellen Grenzübergang zwischen Dschibuti und Somalia an der Küste und ist ein Ort von großer diplomatischer und geschichtlicher Bedeutung. Loyada war Schauplatz zahlreicher Verhandlungen in der Kolonialzeit und erlangte 1976 internationale Bekanntheit durch eine dramatische Busentführung, die eine militärische Rettungsaktion der Fremdenlegion auslöste. Die Umgebung mit ihren historischen Palmenhainen war über Jahrhunderte ein Rastplatz für Karawanen, die entlang der Küste zogen. Der Ort steht heute als Symbol für die komplexen geopolitischen Beziehungen am Horn von Afrika. Geschichte K8 — Diplomatie und Zeitgeschichte."
-    },
+      de: "Der historische Grenzposten von Loyada markiert den einzigen offiziellen Grenzübergang zwischen Dschibuti und Somalia an der Küste und ist ein Ort von großer diplomatischer und geschichtlicher Bedeutung. Loyada war Schauplatz zahlreicher Verhandlungen in der Kolonialzeit und erlangte 1976 internationale Bekanntheit durch eine dramatische Busentführung, die eine militärische Rettungsaktion der Fremdenlegion auslöste. Die Umgebung mit ihren historischen Palmenhainen war über Jahrhunderte ein Rastplatz für Karawanen, die entlang der Küste zogen. Der Ort steht heute als Symbol für die komplexen geopolitischen Beziehungen am Horn von Afrika. Geschichte K8 — Diplomatie und Zeitgeschichte.",
+image: "/poi-images/loyada-boundary-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Einziger offizieller Küstengrenzübergang nach Somalia.", "Schauplatz des dramatischen 'Loyada-Vorfalls' im Jahr 1976.", "Historischer Kontrollpunkt der französischen Fremdenlegion.", "Bekannt für seine alten und weitläufigen Palmenplantagen.", "Spielt eine zentrale Rolle in der Geschichte der Grenzsicherung.", "Ort bedeutender bilateraler Treffen und Verhandlungen."]
     }
@@ -479,8 +494,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Guedi Cave"
     ,
     descriptionAdvanced: {
-      de: "Die Guedi-Höhle ist ein bedeutender prähistorischer Wohnort in der Region Arta, in dem Archäologen zahlreiche Werkzeuge und Knochenreste gefunden haben, die eine menschliche Anwesenheit über Jahrtausende belegen. Die Höhle bot den frühen Bewohnern natürlichen Schutz vor der extremen Witterung und diente vermutlich als dauerhafte Basis für Jäger und Sammler. Die Funde ermöglichen es Wissenschaftlern, die technologische Entwicklung und die Ernährungsgewohnheiten der frühen Menschen am Horn von Afrika zu rekonstruieren. Guedi ist ein wichtiges Puzzleteil in der dschibutischen Urgeschichte und zeigt die frühe Besiedlung des Hochlandes. Geschichte K7 — Urgeschichte und menschliche Habitate."
-    },
+      de: "Die Guedi-Höhle ist ein bedeutender prähistorischer Wohnort in der Region Arta, in dem Archäologen zahlreiche Werkzeuge und Knochenreste gefunden haben, die eine menschliche Anwesenheit über Jahrtausende belegen. Die Höhle bot den frühen Bewohnern natürlichen Schutz vor der extremen Witterung und diente vermutlich als dauerhafte Basis für Jäger und Sammler. Die Funde ermöglichen es Wissenschaftlern, die technologische Entwicklung und die Ernährungsgewohnheiten der frühen Menschen am Horn von Afrika zu rekonstruieren. Guedi ist ein wichtiges Puzzleteil in der dschibutischen Urgeschichte und zeigt die frühe Besiedlung des Hochlandes. Geschichte K7 — Urgeschichte und menschliche Habitate.",
+image: "/poi-images/guedi-cave-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Archäologische Fundstätte mit Belegen aus der Steinzeit.", "Diente frühen Menschen als sicherer natürlicher Schutzraum.", "Fundort von Steinwerkzeugen aus lokalem Basalt und Obsidian.", "Liefert Hinweise auf das urzeitliche Klima der Arta-Region.", "Wichtiger Standort für die Erforschung früher Wohnformen.", "Zeigt eine kontinuierliche Nutzung über verschiedene Epochen."]
     }
@@ -510,8 +526,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Ambado Archaeological Site"
     ,
     descriptionAdvanced: {
-      de: "Die Ausgrabungsstätte in der Nähe der Küste von Ambado hat bedeutende Funde antiker Keramik geliefert, die auf weitverzweigte maritime Handelsverbindungen in vergangenen Jahrhunderten hinweisen. Die gefundenen Tonscherben und Gefäße lassen darauf schließen, dass die Region ein wichtiger Anlaufpunkt für Schiffe war, die im Roten Meer und im Indischen Ozean verkehrten. Die Forschung in Ambado hilft dabei, die Rolle Dschibutis als historische Brücke zwischen den Kulturen Arabiens, Indiens und Afrikas zu untermauern. Es ist ein faszinierender Ort, der die maritime Tradition des Landes abseits der großen modernen Häfen beleuchtet. Geschichte K8 — Maritime Archäologie und antiker Handel."
-    },
+      de: "Die Ausgrabungsstätte in der Nähe der Küste von Ambado hat bedeutende Funde antiker Keramik geliefert, die auf weitverzweigte maritime Handelsverbindungen in vergangenen Jahrhunderten hinweisen. Die gefundenen Tonscherben und Gefäße lassen darauf schließen, dass die Region ein wichtiger Anlaufpunkt für Schiffe war, die im Roten Meer und im Indischen Ozean verkehrten. Die Forschung in Ambado hilft dabei, die Rolle Dschibutis als historische Brücke zwischen den Kulturen Arabiens, Indiens und Afrikas zu untermauern. Es ist ein faszinierender Ort, der die maritime Tradition des Landes abseits der großen modernen Häfen beleuchtet. Geschichte K8 — Maritime Archäologie und antiker Handel.",
+image: "/poi-images/ambado-pottery-site-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Reichhaltiger Fundort antiker und mittelalterlicher Keramik.", "Belegt den Austausch mit weit entfernten Handelspartnern.", "Strategische Lage an einer geschützten Bucht der Küste.", "Liefert Beweise für eine frühe spezialisierte Töpferkunst.", "Wichtiger Standort für die dschibutische Küstenarchäologie.", "Verbindet die Geschichte der Schifffahrt mit lokaler Besiedlung."]
     }
@@ -540,8 +557,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Khor Angar Ruins"
     ,
     descriptionAdvanced: {
-      de: "Die Ruinen von Khor Angar an der nördlichen Küste Dschibutis sind die Überreste alter Befestigungen und Siedlungen, die einst der Überwachung der strategischen Straße von Bab al-Mandab dienten. Diese Ruinen, die oft mit lokalen Sultanaten der Vergangenheit in Verbindung gebracht werden, zeugen von der militärischen und wirtschaftlichen Bedeutung des Küstenabschnitts. Die Lage inmitten von Mangrovenwäldern deutet auf eine geschickt gewählte Verteidigungsposition hin. Heute sind die verwitterten Mauern ein wichtiges Ziel für Historiker, die die vorkoloniale Geschichte und die maritimen Machtstrukturen im Norden erforschen möchten. Geschichte K8 — Vorkoloniale Geschichte und maritime Strategie."
-    },
+      de: "Die Ruinen von Khor Angar an der nördlichen Küste Dschibutis sind die Überreste alter Befestigungen und Siedlungen, die einst der Überwachung der strategischen Straße von Bab al-Mandab dienten. Diese Ruinen, die oft mit lokalen Sultanaten der Vergangenheit in Verbindung gebracht werden, zeugen von der militärischen und wirtschaftlichen Bedeutung des Küstenabschnitts. Die Lage inmitten von Mangrovenwäldern deutet auf eine geschickt gewählte Verteidigungsposition hin. Heute sind die verwitterten Mauern ein wichtiges Ziel für Historiker, die die vorkoloniale Geschichte und die maritimen Machtstrukturen im Norden erforschen möchten. Geschichte K8 — Vorkoloniale Geschichte und maritime Strategie.",
+image: "/poi-images/khor-angar-ruins-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Historische Überreste von Wehranlagen an der Nordküste.", "Diente vermutlich der Kontrolle der Einfahrt zum Roten Meer.", "Zeugnis der Macht lokaler dschibutischer Sultanate.", "Eingebettet in eine ökologisch sensible Mangrovenlandschaft.", "Wichtiger Ort für die Erforschung der Küstenverteidigung.", "Spiegelt die lange Geschichte der Seefahrt in der Region wider."]
     }
@@ -570,8 +588,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Historic Day Hermitages"
     ,
     descriptionAdvanced: {
-      de: "Versteckt in den dichten und uralten Wäldern des Day Forest befinden sich historische Einsiedeleien und spirituelle Rückzugsorte, die von der langen religiösen Geschichte der Region zeugen. Diese Orte wurden über Jahrhunderte von Geistlichen und Suchenden genutzt, um in der Stille und Abgeschiedenheit des Gebirges nach spiritueller Erkenntnis zu streben. Die harmonische Verschmelzung von Natur und Geschichte macht diese Stätten zu einem einzigartigen kulturellen Erbe Dschibutis. Die Einsiedeleien sind oft nur über schmale Pfade erreichbar und bewahren eine Atmosphäre der Andacht, die tief in den lokalen Traditionen verwurzelt ist. Geschichte K8 — Religiöses Leben und Spiritualität im Hochland."
-    },
+      de: "Versteckt in den dichten und uralten Wäldern des Day Forest befinden sich historische Einsiedeleien und spirituelle Rückzugsorte, die von der langen religiösen Geschichte der Region zeugen. Diese Orte wurden über Jahrhunderte von Geistlichen und Suchenden genutzt, um in der Stille und Abgeschiedenheit des Gebirges nach spiritueller Erkenntnis zu streben. Die harmonische Verschmelzung von Natur und Geschichte macht diese Stätten zu einem einzigartigen kulturellen Erbe Dschibutis. Die Einsiedeleien sind oft nur über schmale Pfade erreichbar und bewahren eine Atmosphäre der Andacht, die tief in den lokalen Traditionen verwurzelt ist. Geschichte K8 — Religiöses Leben und Spiritualität im Hochland.",
+image: "/poi-images/day-hermitage-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Alte spirituelle Rückzugsorte im Herzen des Day-Waldes.", "Symbol für die lange Tradition der Askese und Meditation.", "Nur über anspruchsvolle Wanderwege im Gebirge erreichbar.", "Wahrzeichen der Verschmelzung von Glaube und Natur.", "Wichtiger Bestandteil des kulturellen Gedächtnisses der Region.", "Bewahrt eine einzigartige Atmosphäre der Stille und Heiligkeit."]
     }
@@ -600,8 +619,9 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       en: "Ancient Wells of Dorra"
     ,
     descriptionAdvanced: {
-      de: "In der extrem trockenen Region um Dorra befinden sich jahrhundertealte Brunnen, die als lebenswichtige historische Infrastruktur der nomadischen Afar-Kultur gelten. Diese oft tief in das harte Gestein gehauenen Brunnen sind das Ergebnis kollektiver Arbeit und technischer Genialität früherer Generationen. Sie dienten als unverzichtbare Treffpunkte für Karawanen und waren entscheidend für das Überleben der Viehherden während der langen Dürreperioden. Die Brunnen von Dorra sind nicht nur Wasserquellen, sondern auch soziale Ankerpunkte, die die Widerstandsfähigkeit der Wüstenvölker über Jahrhunderte sicherstellten. Geschichte K7 — Traditionelle Wasserwirtschaft und nomadisches Erbe."
-    },
+      de: "In der extrem trockenen Region um Dorra befinden sich jahrhundertealte Brunnen, die als lebenswichtige historische Infrastruktur der nomadischen Afar-Kultur gelten. Diese oft tief in das harte Gestein gehauenen Brunnen sind das Ergebnis kollektiver Arbeit und technischer Genialität früherer Generationen. Sie dienten als unverzichtbare Treffpunkte für Karawanen und waren entscheidend für das Überleben der Viehherden während der langen Dürreperioden. Die Brunnen von Dorra sind nicht nur Wasserquellen, sondern auch soziale Ankerpunkte, die die Widerstandsfähigkeit der Wüstenvölker über Jahrhunderte sicherstellten. Geschichte K7 — Traditionelle Wasserwirtschaft und nomadisches Erbe.",
+image: "/poi-images/dorra-ancient-wells-history-v2.webp"
+},
     factsAdvanced: {
       de: ["Jahrhundertealte, handgegrabene Tiefbrunnen im Norden.", "Meisterwerke der traditionellen dschibutischen Ingenieurskunst.", "Essenziell für das Überleben der Nomaden in der Trockenzeit.", "Dienten als historische Rastplätze für Karawanenrouten.", "Wichtiges Beispiel für nachhaltiges Ressourcenmanagement.", "Kulturelles Symbol für die Ausdauer der Afar-Bevölkerung."]
     }

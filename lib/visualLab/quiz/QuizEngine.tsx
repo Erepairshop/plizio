@@ -338,8 +338,8 @@ export function useQuizEngine({
             if (poi.id === prev.distancePoiA.id) return prev; // ugyanaz, ignoraljuk
             const isOtherTarget = matchesId(task.targetPoiId) || matchesId(task.targetPoiId2);
             const km = haversineKm(
-              [prev.distancePoiA.coords[0], prev.distancePoiA.coords[1]],
-              [poi.coords[0], poi.coords[1]]
+              [prev.distancePoiA.coords?.[0] ?? 0, prev.distancePoiA.coords?.[1] ?? 0],
+              [poi.coords?.[0] ?? 0, poi.coords?.[1] ?? 0]
             );
             const expected = task.expectedKm ?? 0;
             // Helyes csak ha mindket POI a celpontja ÉS a tavolsag a tureshatáron belul
@@ -501,8 +501,8 @@ export function QuizPanel({
   const distanceKm = useMemo(() => {
     if (!distancePoiA || !distancePoiB) return null;
     return haversineKm(
-      [distancePoiA.coords[0], distancePoiA.coords[1]],
-      [distancePoiB.coords[0], distancePoiB.coords[1]]
+      [distancePoiA.coords?.[0] ?? 0, distancePoiA.coords?.[1] ?? 0],
+      [distancePoiB.coords?.[0] ?? 0, distancePoiB.coords?.[1] ?? 0]
     );
   }, [distancePoiA, distancePoiB]);
 

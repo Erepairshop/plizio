@@ -6,7 +6,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "desert",
     parent: "IL-D",
     coords: [34.79, 30.5],
-    name: { de: "Wüste Negev", hu: "Negev-sivatag", ro: "Deșertul Negev", en: "Negev Desert" },
+    name: { de: "Wüste Negev", hu: "Negev-sivatag", ro: "Deșertul Negev", en: "Negev Desert",
+image: "/poi-images/israel-negev-desert-relief-v2.webp"
+},
     description: {
       de: "Die Negev-Wüste bedeckt mehr als die Hälfte der Landfläche Israels und zeichnet sich durch felsige Täler und tiefe Krater aus.",
       hu: "A Negev-sivatag Izrael területének több mint felét teszi ki, sziklás völgyek és hatalmas kráterek jellemzik.",
@@ -24,7 +26,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "desert",
     parent: "IL-JM",
     coords: [35.33, 31.66],
-    name: { de: "Judäische Wüste", hu: "Júdeai-sivatag", ro: "Deșertul Iudeei", en: "Judaean Desert" },
+    name: { de: "Judäische Wüste", hu: "Júdeai-sivatag", ro: "Deșertul Iudeei", en: "Judaean Desert",
+image: "/poi-images/israel-judaean-desert-relief-v2.webp"
+},
     description: {
       de: "Eine kleine, aber faszinierende Wüste östlich von Jerusalem, die steil hinab zum Toten Meer abfällt.",
       hu: "Egy kicsi, de lenyűgöző sivatag Jeruzsálemtől keletre, amely meredeken ereszkedik le a Holt-tengerig.",
@@ -42,7 +46,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "plateau",
     parent: "IL-Z",
     coords: [35.75, 33.0],
-    name: { de: "Golanhöhen", hu: "Golan-fennsík", ro: "Înălțimile Golan", en: "Golan Heights" },
+    name: { de: "Golanhöhen", hu: "Golan-fennsík", ro: "Înălțimile Golan", en: "Golan Heights",
+image: "/poi-images/israel-golan-heights-relief-v2.webp"
+},
     description: {
       de: "Ein strategisch wichtiges Basaltplateau im Norden, das für seine fruchtbaren Böden und vulkanische Landschaft bekannt ist.",
       hu: "Egy stratégiailag fontos bazaltfennsík északon, amely termékeny talajáról és vulkanikus tájáról ismert.",
@@ -60,7 +66,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-Z",
     coords: [35.31, 32.58],
-    name: { de: "Jesreelebene", hu: "Jezréel-völgy", ro: "Valea Izreel", en: "Jezreel Valley" },
+    name: { de: "Jesreelebene", hu: "Jezréel-völgy", ro: "Valea Izreel", en: "Jezreel Valley",
+image: "/poi-images/israel-jezreel-valley-relief-v2.webp"
+},
     description: {
       de: "Eine große, überaus fruchtbare Ebene im Norden Israels, die historisch eine wichtige Ost-West-Verbindung darstellt.",
       hu: "Egy nagy és rendkívül termékeny síkság Észak-Izraelben, amely történelmileg fontos kelet-nyugati útvonal.",
@@ -78,7 +86,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-D",
     coords: [35.25, 30.5],
-    name: { de: "Arava-Senke", hu: "Arava-völgy", ro: "Valea Arava", en: "Arava Valley" },
+    name: { de: "Arava-Senke", hu: "Arava-völgy", ro: "Valea Arava", en: "Arava Valley",
+image: "/poi-images/israel-arava-valley-relief-v2.webp"
+},
     description: {
       de: "Ein Teil des Großen Afrikanischen Grabenbruchs, der sich vom Toten Meer bis zum Golf von Akaba im Süden erstreckt.",
       hu: "A Nagy-hasadékvölgy része, amely a Holt-tengertől az Akabai-öbölig húzódik délen.",
@@ -96,7 +106,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-D",
     coords: [35.39, 31.07],
-    name: { de: "Berg Sodom", hu: "Szodoma-hegy", ro: "Muntele Sodoma", en: "Mount Sodom" },
+    name: { de: "Berg Sodom", hu: "Szodoma-hegy", ro: "Muntele Sodoma", en: "Mount Sodom",
+image: "/poi-images/israel-mount-sodom-relief-v2.webp"
+},
     description: {
       de: "Ein Bergzug, der fast ausschließlich aus Steinsalz besteht und sich entlang des südwestlichen Ufers des Toten Meeres erhebt.",
       hu: "Egy hegylánc, amely szinte kizárólag kősóból áll, és a Holt-tenger délnyugati partja mentén emelkedik.",
@@ -114,7 +126,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-JM",
     coords: [35.24, 31.79],
-    name: { de: "Skopusberg", hu: "Szkópusz-hegy", ro: "Muntele Scopus", en: "Mount Scopus" },
+    name: { de: "Skopusberg", hu: "Szkópusz-hegy", ro: "Muntele Scopus", en: "Mount Scopus",
+image: "/poi-images/israel-mount-scopus-relief-v2.webp"
+},
     description: {
       de: "Ein bedeutender Berg im Nordosten von Jerusalem, der einen hervorragenden Panoramablick über die Stadt bietet.",
       hu: "Egy jelentős hegy Jeruzsálem északkeleti részén, amely kiváló panorámát nyújt a városra.",
@@ -132,7 +146,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "coast",
     parent: "IL-HA",
     coords: [34.95, 32.65],
-    name: { de: "Karmelküste", hu: "Kármel-partvidék", ro: "Coasta Carmel", en: "Carmel Coastal Plain" },
+    name: { de: "Karmelküste", hu: "Kármel-partvidék", ro: "Coasta Carmel", en: "Carmel Coastal Plain",
+image: "/poi-images/israel-carmel-coast-relief-v2.webp"
+},
     description: {
       de: "Ein schmaler Küstenstreifen am Mittelmeer, der zwischen dem Karmelgebirge und dem Meer verläuft.",
       hu: "Egy keskeny tengerparti sáv a Földközi-tenger mentén, amely a Kármel-hegy és a tenger között húzódik.",
@@ -150,7 +166,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "coast",
     parent: "IL-M",
     coords: [34.88, 32.25],
-    name: { de: "Scharonebene", hu: "Saron-síkság", ro: "Câmpia Sharon", en: "Sharon Plain" },
+    name: { de: "Scharonebene", hu: "Saron-síkság", ro: "Câmpia Sharon", en: "Sharon Plain",
+image: "/poi-images/israel-sharon-plain-relief-v2.webp"
+},
     description: {
       de: "Die zentrale Küstenebene Israels, die für ihre Zitrushaine bekannt ist und die am dichtesten besiedelte Region des Landes bildet.",
       hu: "Izrael középső tengerparti síksága, amely citrusligeteiről ismert, és az ország legsűrűbben lakott régiója.",
@@ -168,7 +186,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-JM",
     coords: [35.26, 32.23],
-    name: { de: "Berg Ebal", hu: "Ebál-hegy", ro: "Muntele Ebal", en: "Mount Ebal" },
+    name: { de: "Berg Ebal", hu: "Ebál-hegy", ro: "Muntele Ebal", en: "Mount Ebal",
+image: "/poi-images/israel-mount-ebal-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Gipfel in Samaria, der historisch als Berg der Verfluchung bekannt ist und über der Stadt Nablus thront.",
       hu: "Szamária egyik legmagasabb csúcsa, amelyet történelmileg az átkok hegyeként ismernek, és Nablusz városa fölé magasodik.",
@@ -186,7 +206,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-JM",
     coords: [35.27, 32.19],
-    name: { de: "Berg Garizim", hu: "Garizim-hegy", ro: "Muntele Garizim", en: "Mount Gerizim" },
+    name: { de: "Berg Garizim", hu: "Garizim-hegy", ro: "Muntele Garizim", en: "Mount Gerizim",
+image: "/poi-images/israel-mount-gerizim-relief-v2.webp"
+},
     description: {
       de: "Der Berg Garizim ist das religiöse Zentrum der Samaritaner und wird historisch als der Berg des Segens bezeichnet.",
       hu: "A Garizim-hegy a szamaritánusok vallási központja, és történelmileg az áldás hegyének nevezik.",
@@ -204,7 +226,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-D",
     coords: [34.78, 30.85],
-    name: { de: "Zin-Tal", hu: "Cin-völgy", ro: "Valea Zin", en: "Zin Valley" },
+    name: { de: "Zin-Tal", hu: "Cin-völgy", ro: "Valea Zin", en: "Zin Valley",
+image: "/poi-images/israel-zin-valley-relief-v2.webp"
+},
     description: {
       de: "Ein spektakuläres trockenes Flusstal in der Negev-Wüste, das nach Winterregen Sturzfluten erlebt.",
       hu: "Látványos kiszáradt folyóvölgy a Negev-sivatagban, amely a téli esők után hirtelen áradásokat él át.",
@@ -222,7 +246,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-D",
     coords: [34.63, 30.50],
-    name: { de: "Berg Ramon", hu: "Ramon-hegy", ro: "Muntele Ramon", en: "Mount Ramon" },
+    name: { de: "Berg Ramon", hu: "Ramon-hegy", ro: "Muntele Ramon", en: "Mount Ramon",
+image: "/poi-images/israel-mount-ramon-relief-v2.webp"
+},
     description: {
       de: "Der höchste Gipfel in der Negev-Wüste, der sich am Rand des spektakulären Ramon-Kraters befindet.",
       hu: "A Negev-sivatag legmagasabb csúcsa, amely a látványos Ramon-kráter szélén található.",
@@ -240,7 +266,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-JM",
     coords: [35.08, 31.75],
-    name: { de: "Judäisches Bergland", hu: "Júdeai-hegység", ro: "Munții Iudeei", en: "Judaean Mountains" },
+    name: { de: "Judäisches Bergland", hu: "Júdeai-hegység", ro: "Munții Iudeei", en: "Judaean Mountains",
+image: "/poi-images/israel-judaean-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette im zentralen Teil des Landes, in der sich unter anderem Jerusalem und Hebron befinden.",
       hu: "Hegylánc az ország középső részén, ahol többek között Jeruzsálem és Hebron is található.",
@@ -258,7 +286,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-Z",
     coords: [35.32, 32.81],
-    name: { de: "Beit-Netofa-Tal", hu: "Bét-Netofa-völgy", ro: "Valea Beit Netofa", en: "Beit Netofa Valley" },
+    name: { de: "Beit-Netofa-Tal", hu: "Bét-Netofa-völgy", ro: "Valea Beit Netofa", en: "Beit Netofa Valley",
+image: "/poi-images/israel-beit-netofa-valley-relief-v2.webp"
+},
     description: {
       de: "Ein weites, von Landwirtschaft geprägtes Tal in der Region Untergaliläa, das für seine reiche Olivenölproduktion bekannt ist.",
       hu: "Egy széles, mezőgazdasági jellegű völgy Alsó-Galileában, amely gazdag olívaolaj-termeléséről ismert.",
@@ -276,7 +306,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-Z",
     coords: [35.78, 33.13],
-    name: { de: "Berg Bental", hu: "Bental-hegy", ro: "Muntele Bental", en: "Mount Bental" },
+    name: { de: "Berg Bental", hu: "Bental-hegy", ro: "Muntele Bental", en: "Mount Bental",
+image: "/poi-images/israel-mount-bental-relief-v2.webp"
+},
     description: {
       de: "Ein erloschener Vulkan in den nördlichen Golanhöhen, der einen weiten Blick über die syrische Grenze bietet.",
       hu: "Kialudt vulkán az északi Golan-fennsíkon, ahonnan messzire ellátni a szíriai határ felé.",
@@ -294,7 +326,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-HA",
     coords: [35.08, 32.83],
-    name: { de: "Sebulon-Tal", hu: "Zebulon-völgy", ro: "Valea Zevulun", en: "Zvulun Valley" },
+    name: { de: "Sebulon-Tal", hu: "Zebulon-völgy", ro: "Valea Zevulun", en: "Zvulun Valley",
+image: "/poi-images/israel-zvulun-valley-relief-v2.webp"
+},
     description: {
       de: "Ein fruchtbares Tal entlang der Küste nahe Haifa, das industriell und landwirtschaftlich intensiv genutzt wird.",
       hu: "Termékeny völgy a tengerpart mentén, Haifa közelében, amelyet iparilag és mezőgazdaságilag is intenzíven használnak.",
@@ -312,7 +346,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-D",
     coords: [34.96, 30.33],
-    name: { de: "Paran-Tal", hu: "Párán-völgy", ro: "Valea Paran", en: "Paran Valley" },
+    name: { de: "Paran-Tal", hu: "Párán-völgy", ro: "Valea Paran", en: "Paran Valley",
+image: "/poi-images/israel-paran-valley-relief-v2.webp"
+},
     description: {
       de: "Das breiteste Wadi in Israel, das nach starken Regenfällen gigantische Wassermassen durch die Negev-Wüste transportiert.",
       hu: "Izrael legszélesebb vádija, amely heves esőzések után óriási víztömegeket szállít a Negev-sivatagon keresztül.",
@@ -330,7 +366,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "mountain",
     parent: "IL-D",
     coords: [34.74, 30.28],
-    name: { de: "Berg Karkom", hu: "Karkom-hegy", ro: "Muntele Karkom", en: "Mount Karkom" },
+    name: { de: "Berg Karkom", hu: "Karkom-hegy", ro: "Muntele Karkom", en: "Mount Karkom",
+image: "/poi-images/israel-mount-karkom-relief-v2.webp"
+},
     description: {
       de: "Ein Wüstenberg in der südlichen Negev, auf dem zahlreiche alte Felszeichnungen und archäologische Stätten entdeckt wurden.",
       hu: "Sivatagi hegy a déli Negevben, ahol számos ősi sziklarajzot és régészeti lelőhelyet fedeztek fel.",
@@ -348,7 +386,9 @@ export const poiExtraIsraelReliefV2: POI[] = [
     type: "valley",
     parent: "IL-Z",
     coords: [35.54, 32.33],
-    name: { de: "Jordantal", hu: "Jordán-völgy", ro: "Valea Iordanului", en: "Jordan Valley" },
+    name: { de: "Jordantal", hu: "Jordán-völgy", ro: "Valea Iordanului", en: "Jordan Valley",
+image: "/poi-images/israel-jordan-valley-relief-v2.webp"
+},
     description: {
       de: "Ein langer, tektonischer Graben, durch den der Jordanfluss fließt und der eine natürliche Grenze im Osten Israels bildet.",
       hu: "Hosszú tektonikus árok, amelyen a Jordán folyó folyik keresztül, és amely természetes határt képez Izrael keleti részén.",

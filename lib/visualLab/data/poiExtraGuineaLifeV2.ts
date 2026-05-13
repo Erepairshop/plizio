@@ -11,8 +11,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Badiar-Nationalpark",
       hu: "Badiar Nemzeti Park",
       ro: "Parcul Național Badiar",
-      en: "Badiar National Park"
-    },
+      en: "Badiar National Park",
+image: "/poi-images/badiar-national-park-life-v2.webp"
+},
     description: {
       de: "Der Badiar-Nationalpark im Nordwesten Guineas ist ein wichtiges Schutzgebiet für Savannentiere wie Antilopen, Affen und zahlreiche Vogelarten. Er bildet zusammen mit dem Niokolo-Koba-Park im Senegal ein grenzübergreifendes Ökosystem.",
       hu: "Az északnyugat-guineai Badiar Nemzeti Park fontos védett terület a szavannai állatok, például antilopok, majmok és számos madárfaj számára. A szenegáli Niokolo-Koba parkkal együtt egy országhatárokon átnyúló ökoszisztémát alkot.",
@@ -41,8 +42,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Nationalpark Oberer Niger",
       hu: "Felső-Niger Nemzeti Park",
       ro: "Parcul Național Nigerul Superior",
-      en: "Upper Niger National Park"
-    },
+      en: "Upper Niger National Park",
+image: "/poi-images/upper-niger-national-park-life-v2.webp"
+},
     description: {
       de: "Dieser Nationalpark schützt eines der letzten großen Trockenwaldgebiete Westafrikas. Er liegt am Oberlauf des Niger und beherbergt eine reiche Tierwelt, darunter Flusspferde, Krokodile und Seekühe.",
       hu: "Ez a nemzeti park Nyugat-Afrika egyik utolsó nagy száraz erdőterületét védi. A Niger felső folyásánál található, és gazdag állatvilágnak ad otthont, többek között vízilóknak, krokodiloknak és lamantinoknak.",
@@ -71,8 +73,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Mafou-Wald",
       hu: "Mafou-erdő",
       ro: "Pădurea Mafou",
-      en: "Mafou Forest"
-    },
+      en: "Mafou Forest",
+image: "/poi-images/mafou-forest-life-v2.webp"
+},
     description: {
       de: "Der Mafou-Wald ist ein Kernbereich des Nationalparks Oberer Niger. Er ist bekannt für seine hohe Dichte an Schimpansen und anderen Primaten, die in den dichten Wäldern und Galeriewäldern leben.",
       hu: "A Mafou-erdő a Felső-Niger Nemzeti Park magterülete. Ismert a csimpánzok és más primátusok nagy sűrűségéről, amelyek a sűrű erdőkben és a galériaerdőkben élnek.",
@@ -101,8 +104,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Ananasplantagen von Kindia",
       hu: "Kindiai ananászültetvények",
       ro: "Plantațiile de ananas din Kindia",
-      en: "Kindia Pineapple Plantations"
-    },
+      en: "Kindia Pineapple Plantations",
+image: "/poi-images/kindia-pineapple-plantations-life-v2.webp"
+},
     description: {
       de: "Die Region um Kindia ist das Zentrum des guineischen Ananasanbaus. Dank des fruchtbaren Bodens und des feuchten Klimas werden hier Früchte von hoher Qualität für den In- und Export produziert.",
       hu: "Kindia környéke a guineai ananásztermesztés központja. A termékeny talajnak és a párás éghajlatnak köszönhetően kiváló minőségű gyümölcsöket termelnek itt belföldre és exportra egyaránt.",
@@ -131,8 +135,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Reisfelder von Kankan",
       hu: "Kankani rizsföldek",
       ro: "Câmpurile de orez din Kankan",
-      en: "Kankan Rice Fields"
-    },
+      en: "Kankan Rice Fields",
+image: "/poi-images/kankan-rice-fields-life-v2.webp"
+},
     description: {
       de: "Die weiten Ebenen um Kankan, die vom Milo-Fluss bewässert werden, sind ein Hauptanbaugebiet für Reis. Reis ist das wichtigste Grundnahrungsmittel in Guinea und prägt die lokale Agrarlandschaft.",
       hu: "A Kankan környéki széles síkságok, amelyeket a Milo-folyó öntöz, a rizstermesztés fő területei. A rizs Guinea legfontosabb alapélelmiszere, amely meghatározza a helyi mezőgazdasági tájat.",
@@ -161,8 +166,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Kaffeeplantagen im Fouta Djallon",
       hu: "Fouta Djallon kávéültetvényei",
       ro: "Plantațiile de cafea din Fouta Djallon",
-      en: "Fouta Djallon Coffee Plantations"
-    },
+      en: "Fouta Djallon Coffee Plantations",
+image: "/poi-images/fouta-djallon-coffee-life-v2.webp"
+},
     description: {
       de: "In den kühleren Hochlagen des Fouta Djallon wird hochwertiger Kaffee angebaut. Das Gebirgsklima bietet ideale Bedingungen für Kaffeepflanzen, die hier oft im Schatten von Waldbäumen wachsen.",
       hu: "A Fouta Djallon hűvösebb hegyvidéki területein kiváló minőségű kávét termesztenek. A hegyi éghajlat ideális feltételeket biztosít a kávécserjéknek, amelyek itt gyakran erdei fák árnyékában nőnek.",
@@ -191,8 +197,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Viehzuchtzentrum Mamou",
       hu: "Mamoui állattenyésztési központ",
       ro: "Centrul de creștere a animalelor din Mamou",
-      en: "Mamou Livestock Center"
-    },
+      en: "Mamou Livestock Center",
+image: "/poi-images/mamou-livestock-center-life-v2.webp"
+},
     description: {
       de: "Mamou ist ein bedeutender Knotenpunkt für den Viehhandel und die Zucht in Guinea. Die umliegenden Weideflächen bieten Nahrung für große Herden von Rindern, Schafen und Ziegen.",
       hu: "Mamou az állatkereskedelem és az állattenyésztés egyik jelentős csomópontja Guineában. A környező legelők bőséges táplálékot biztosítanak a szarvasmarha-, juh- és kecskenyájaknak.",
@@ -221,8 +228,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Botanischer Garten Conakry",
       hu: "Konakry-i botanikus kert",
       ro: "Grădina Botanică din Conakry",
-      en: "Conakry Botanical Garden"
-    },
+      en: "Conakry Botanical Garden",
+image: "/poi-images/conakry-botanical-garden-life-v2.webp"
+},
     description: {
       de: "Der Botanische Garten in Conakry (Jardin Botanique de Camayenne) ist eine grüne Oase in der Hauptstadt. Er beherbergt eine Sammlung tropischer Bäume und Pflanzen und ist ein beliebter Ort für Familien und Schulkinder.",
       hu: "A konakry-i botanikus kert (Jardin Botanique de Camayenne) egy zöld oázis a fővárosban. Trópusi fák és növények gyűjteményének ad otthont, és kedvelt hely a családok és iskolások számára.",
@@ -251,8 +259,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Palmölplantagen von Nzérékoré",
       hu: "Nzérékoré pálmaolaj-ültetvényei",
       ro: "Plantațiile de ulei de palmier din Nzérékoré",
-      en: "Nzérékoré Palm Oil Plantations"
-    },
+      en: "Nzérékoré Palm Oil Plantations",
+image: "/poi-images/nzerekore-palm-oil-life-v2.webp"
+},
     description: {
       de: "In der feucht-tropischen Waldregion um Nzérékoré ist die Ölpalme weit verbreitet. Die Gewinnung von Palmöl ist ein zentraler Bestandteil der lokalen Wirtschaft und der traditionellen Küche.",
       hu: "A Nzérékoré környéki párás-trópusi erdős régióban széles körben elterjedt az olajpálma. A pálmaolaj előállítása a helyi gazdaság és a hagyományos konyha központi eleme.",
@@ -281,8 +290,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Kautschukplantagen von Macenta",
       hu: "Macentai gumiültetvények",
       ro: "Plantațiile de cauciuc din Macenta",
-      en: "Macenta Rubber Plantations"
-    },
+      en: "Macenta Rubber Plantations",
+image: "/poi-images/macenta-rubber-plantations-life-v2.webp"
+},
     description: {
       de: "Die Region Macenta ist für ihre ausgedehnten Kautschukplantagen bekannt. Die Gewinnung von Naturkautschuk (Latex) aus Hevea-Bäumen ist ein bedeutender Erwerbszweig in diesem Teil Guineas.",
       hu: "Macenta régiója kiterjedt gumiültetvényeiről ismert. A Hevea-fákból származó természetes gumi (latex) kinyerése jelentős bevételi forrás Guinea ezen részén.",
@@ -311,8 +321,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Chinarinden-Gärten von Dalaba",
       hu: "Dalabai kínafa-kertek",
       ro: "Grădinile de chinina din Dalaba",
-      en: "Dalaba Cinchona Gardens"
-    },
+      en: "Dalaba Cinchona Gardens",
+image: "/poi-images/dalaba-cinchona-gardens-life-v2.webp"
+},
     description: {
       de: "Dalaba ist historisch für den Anbau von Chinarindenbäumen (Cinchona) bekannt, aus deren Rinde Chinin gewonnen wurde. Das milde Klima der Region begünstigt den Anbau verschiedener Heil- und Nutzpflanzen.",
       hu: "Dalaba történelmileg a kínafák (Cinchona) termesztéséről ismert, amelyek kérgéből kinint vontak ki. A régió enyhe éghajlata kedvez a különféle gyógy- és haszonnövények termesztésének.",
@@ -341,8 +352,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Waldhabitate von Kissidougou",
       hu: "Kissidougou erdei élőhelyei",
       ro: "Habitatele forestiere din Kissidougou",
-      en: "Kissidougou Forest Habitats"
-    },
+      en: "Kissidougou Forest Habitats",
+image: "/poi-images/kissidougou-forest-habitat-life-v2.webp"
+},
     description: {
       de: "In der Übergangszone zwischen Savanne und Wald bei Kissidougou finden sich artenreiche Waldinseln. Diese Biotope bieten Schutz für seltene Tierarten und sind wichtig für das lokale ökologische Gleichgewicht.",
       hu: "A Kissidougou környéki szavanna és erdő közötti átmeneti zónában fajgazdag erdőfoltok találhatók. Ezek a biotópok védelmet nyújtanak ritka állatfajoknak, és fontosak a helyi ökológiai egyensúly számára.",
@@ -371,8 +383,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Mangrovenhabitate von Dubréka",
       hu: "Dubrékai mangrove élőhelyek",
       ro: "Habitatele de mangrove din Dubréka",
-      en: "Dubréka Mangrove Habitats"
-    },
+      en: "Dubréka Mangrove Habitats",
+image: "/poi-images/dubreka-mangrove-habitats-life-v2.webp"
+},
     description: {
       de: "Die ausgedehnten Mangrovensümpfe bei Dubréka sind ein faszinierender Lebensraum an der Küste. Sie dienen als Kinderstube für Fische und bieten zahlreichen Vogelarten und Krustentieren Nahrung und Schutz.",
       hu: "A Dubréka melletti kiterjedt mangrovemocsarak lenyűgöző tengerparti élőhelyek. Halak bölcsődéjeként szolgálnak, és számos madárfajnak és rákfélének nyújtanak táplálékot és védelmet.",
@@ -401,8 +414,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Flusspferd-Habitate von Kouroussa",
       hu: "Kouroussai víziló élőhelyek",
       ro: "Habitatele de hipopotami din Kouroussa",
-      en: "Kouroussa Hippo Habitats"
-    },
+      en: "Kouroussa Hippo Habitats",
+image: "/poi-images/kouroussa-hippo-habitats-life-v2.webp"
+},
     description: {
       de: "Der Niger bei Kouroussa bietet ideale Lebensbedingungen für Flusspferde. In den ruhigeren Abschnitten des Flusses kann man oft Gruppen dieser imposanten Tiere beobachten, die hier ihren Lebensraum haben.",
       hu: "A Niger-folyó Kouroussa környékén ideális életfeltételeket biztosít a vízilók számára. A folyó nyugodtabb szakaszain gyakran láthatók ezeknek az impozáns állatoknak a csoportjai.",
@@ -431,8 +445,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Gemüsegärten von Pita",
       hu: "Pitai zöldségeskertek",
       ro: "Grădinile de legume din Pita",
-      en: "Pita Vegetable Gardens"
-    },
+      en: "Pita Vegetable Gardens",
+image: "/poi-images/pita-vegetable-gardens-life-v2.webp"
+},
     description: {
       de: "Pita ist bekannt für seinen intensiven Gemüseanbau im Fouta Djallon. Kartoffeln, Tomaten und Zwiebeln aus dieser Region sind im ganzen Land für ihre Frische und Qualität geschätzt.",
       hu: "Pita a Fouta Djallonban folytatott intenzív zöldségtermesztéséről ismert. Az innen származó burgonyát, paradicsomot és hagymát az egész országban kedvelik frissességük és minőségük miatt.",
@@ -461,8 +476,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Rinderherden von Mali",
       hu: "Mali szarvasmarhacsordák",
       ro: "Cirezile de vite din Mali",
-      en: "Mali Cattle Herds"
-    },
+      en: "Mali Cattle Herds",
+image: "/poi-images/mali-cattle-herds-life-v2.webp"
+},
     description: {
       de: "In der Region um Mali (Guinea) im hohen Norden des Fouta Djallon ist die Rinderzucht die Hauptexistenzgrundlage. Die weitläufigen Gebirgsweiden sind die Heimat der robusten N'Dama-Rinder.",
       hu: "A Fouta Djallon északi részén fekvő Mali (Guinea) környékén a szarvasmarha-tenyésztés a fő megélhetési forrás. A kiterjedt hegyi legelők a robusztus N'Dama szarvasmarhák otthonai.",
@@ -491,8 +507,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Mangohaine von Forécariah",
       hu: "Forécariah-i mangóligetek",
       ro: "Livezile de mango din Forécariah",
-      en: "Forécariah Mango Orchards"
-    },
+      en: "Forécariah Mango Orchards",
+image: "/poi-images/forecariah-mango-orchards-life-v2.webp"
+},
     description: {
       de: "Forécariah ist für seine produktiven Mangohaine bekannt. Während der Erntesaison werden riesige Mengen verschiedener Mangosorten geerntet und in die Hauptstadt Conakry transportiert.",
       hu: "Forécariah híres termékeny mangóligeteiről. A betakarítási szezonban hatalmas mennyiségű különféle mangófajtát szüretelnek, és szállítanak a fővárosba, Conakryba.",
@@ -521,8 +538,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Waldreservat Yomou",
       hu: "Yomou-i erdőrezervátum",
       ro: "Rezervația forestieră Yomou",
-      en: "Yomou Forest Reserve"
-    },
+      en: "Yomou Forest Reserve",
+image: "/poi-images/yomou-forest-reserve-life-v2.webp"
+},
     description: {
       de: "Das Waldreservat bei Yomou im äußersten Süden Guineas ist Teil des guineischen Regenwaldgürtels. Es schützt seltene Baumarten und bietet Lebensraum für Vögel und kleine Säugetiere des Waldes.",
       hu: "A Guinea legdélebbi részén, Yomou közelében található erdőrezervátum a guineai esőerdő-öv része. Ritka fafajokat véd, és élőhelyet biztosít erdei madaraknak és kisemlősöknek.",
@@ -551,8 +569,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Viehweiden von Gaoual",
       hu: "Gaouali állatlegeltető síkságok",
       ro: "Câmpiile de pășunat din Gaoual",
-      en: "Gaoual Cattle Plains"
-    },
+      en: "Gaoual Cattle Plains",
+image: "/poi-images/gaoual-cattle-plains-life-v2.webp"
+},
     description: {
       de: "Die Ebenen von Gaoual sind bekannt für ihre ausgedehnten Weideflächen. Hier leben halbnomadische Hirten mit ihren großen Rinderherden, was die Region zu einem wichtigen Viehzuchtgebiet macht.",
       hu: "Gaoual síkságai kiterjedt legelőikről ismertek. Félnomád pásztorok élnek itt nagy szarvasmarhacsordáikkal, ami a régiót fontos állattenyésztési területté teszi.",
@@ -581,8 +600,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
       de: "Savannentiere von Koundara",
       hu: "Koundarai szavannai állatvilág",
       ro: "Fauna de savană din Koundara",
-      en: "Koundara Savannah Wildlife"
-    },
+      en: "Koundara Savannah Wildlife",
+image: "/poi-images/koundara-savannah-animals-life-v2.webp"
+},
     description: {
       de: "Die offene Savannenlandschaft um Koundara beherbergt eine Vielzahl von Wildtieren. Es ist ein Gebiet, in dem man typische afrikanische Savannenfauna wie verschiedene Antilopenarten in freier Wildbahn sehen kann.",
       hu: "A Koundara környéki nyílt szavannai táj sokféle vadon élő állatnak ad otthont. Ez egy olyan terület, ahol a tipikus afrikai szavannai fauna, például különféle antilopfajok láthatók szabadon.",

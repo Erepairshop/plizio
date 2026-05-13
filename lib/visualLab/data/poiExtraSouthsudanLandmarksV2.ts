@@ -11,8 +11,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "John-Garang-Mausoleum",
       hu: "John Garang-mauzóleum",
       ro: "Mausoleul John Garang",
-      en: "John Garang Mausoleum"
-    },
+      en: "John Garang Mausoleum",
+image: "/poi-images/john-garang-mausoleum-landmarks-v2.webp"
+},
     description: {
       de: "Die letzte Ruhestätte von Dr. John Garang de Mabior, dem Gründervater des Südsudans.",
       hu: "Dr. John Garang de Mabiornak, Dél-Szudán alapító atyjának végső nyughelye.",
@@ -34,8 +35,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Juba-Stadion",
       hu: "Jubai stadion",
       ro: "Stadionul Juba",
-      en: "Juba Stadium"
-    },
+      en: "Juba Stadium",
+image: "/poi-images/juba-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das Mehrzweckstadion in der Hauptstadt, in dem die Nationalmannschaft ihre Heimspiele austrägt.",
       hu: "Többfunkciós stadion a fővárosban, a válogatott hazai mérkőzéseinek helyszíne.",
@@ -57,8 +59,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Freiheitsbrücke",
       hu: "Szabadság híd",
       ro: "Podul Libertății",
-      en: "Freedom Bridge"
-    },
+      en: "Freedom Bridge",
+image: "/poi-images/freedom-bridge-juba-landmarks-v2.webp"
+},
     description: {
       de: "Eine moderne, von Japan finanzierte Brücke über den Weißen Nil, die den Handel im Südsudan revolutioniert.",
       hu: "Modern, Japán által finanszírozott híd a Fehér-Nílus felett, amely forradalmasítja a kereskedelmet.",
@@ -80,8 +83,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "St.-Theresa-Kathedrale (Kator)",
       hu: "Szent Teréz-székesegyház",
       ro: "Catedrala Sfânta Tereza",
-      en: "St. Theresa Cathedral (Kator)"
-    },
+      en: "St. Theresa Cathedral (Kator)",
+image: "/poi-images/st-theresa-cathedral-juba-landmarks-v2.webp"
+},
     description: {
       de: "Die größte katholische Kirche in Juba, gelegen im Stadtteil Kator, bekannt für ihre Architektur.",
       hu: "Juba legnagyobb katolikus temploma Kator negyedben, építészetéről ismert.",
@@ -103,8 +107,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Allerheiligen-Kathedrale",
       hu: "Mindenszentek-székesegyház",
       ro: "Catedrala Tuturor Sfinților",
-      en: "All Saints Cathedral"
-    },
+      en: "All Saints Cathedral",
+image: "/poi-images/all-saints-cathedral-juba-landmarks-v2.webp"
+},
     description: {
       de: "Die anglikanische Hauptkathedrale in Juba, ein zentraler Ort des christlichen Glaubens im Land.",
       hu: "A fő anglikán székesegyház Jubában, a keresztény hit központi helyszíne az országban.",
@@ -126,8 +131,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Universität von Juba",
       hu: "Jubai Egyetem",
       ro: "Universitatea din Juba",
-      en: "University of Juba"
-    },
+      en: "University of Juba",
+image: "/poi-images/juba-university-landmarks-v2.webp"
+},
     description: {
       de: "Die führende akademische Institution des Landes mit historischen Gebäuden im Herzen der Hauptstadt.",
       hu: "Az ország vezető akadémiai intézménye történelmi épületekkel a főváros szívében.",
@@ -149,8 +155,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Nyakuron-Kulturzentrum",
       hu: "Nyakuron Kulturális Központ",
       ro: "Centrul Cultural Nyakuron",
-      en: "Nyakuron Cultural Center"
-    },
+      en: "Nyakuron Cultural Center",
+image: "/poi-images/nyakuron-cultural-center-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger Veranstaltungsort für Kunst, Musik und kulturelle Festivals in Juba.",
       hu: "A művészetek, a zene és a kulturális fesztiválok fontos helyszíne Jubában.",
@@ -172,8 +179,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Nationale Legislativversammlung",
       hu: "Nemzeti Törvényhozó Gyűlés",
       ro: "Adunarea Legislativă Națională",
-      en: "National Legislative Assembly"
-    },
+      en: "National Legislative Assembly",
+image: "/poi-images/national-legislative-assembly-juba-landmarks-v2.webp"
+},
     description: {
       de: "Das Parlamentsgebäude des Südsudans, in dem die Gesetze des Landes verabschiedet werden.",
       hu: "Dél-Szudán parlamenti épülete, ahol az ország törvényeit hozzák.",
@@ -196,8 +204,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Jubek-Denkmal",
       hu: "Jubek-emlékmű",
       ro: "Monumentul Jubek",
-      en: "Jubek Memorial"
-    },
+      en: "Jubek Memorial",
+image: "/poi-images/jubek-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal zu Ehren von Jubek, einer legendären Figur der Bari, nach der die Hauptstadt benannt ist.",
       hu: "Emlékmű Jubek tiszteletére, aki a bari nép legendás alakja, és akiről a fővárost elnevezték.",
@@ -219,8 +228,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Dr. John Garang Memorial University",
       hu: "Dr. John Garang Emlékegyetem",
       ro: "Universitatea Memorială Dr. John Garang",
-      en: "Dr. John Garang Memorial University"
-    },
+      en: "Dr. John Garang Memorial University",
+image: "/poi-images/john-garang-memorial-university-bor-landmarks-v2.webp"
+},
     description: {
       de: "Eine bedeutende Bildungseinrichtung in Bor, benannt nach dem Befreiungsführer.",
       hu: "Jelentős oktatási intézmény Borban, a felszabadító vezetőről elnevezve.",
@@ -242,8 +252,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Wau-Stadion",
       hu: "Waui stadion",
       ro: "Stadionul Wau",
-      en: "Wau Stadium"
-    },
+      en: "Wau Stadium",
+image: "/poi-images/wau-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Sportstadion in Wau, das als Zentrum für regionale Fußballwettbewerbe dient.",
       hu: "Jelentős sportstadion Wauban, amely a regionális futballversenyek központjaként szolgál.",
@@ -265,8 +276,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "St.-Marien-Kathedrale (Wau)",
       hu: "Szent Mária-székesegyház",
       ro: "Catedrala Sfânta Maria",
-      en: "St. Mary's Cathedral (Wau)"
-    },
+      en: "St. Mary's Cathedral (Wau)",
+image: "/poi-images/st-mary-cathedral-wau-landmarks-v2.webp"
+},
     description: {
       de: "Eine eindrucksvolle Backsteinkathedrale in Wau, bekannt für ihre Architektur aus der Kolonialzeit.",
       hu: "Lenyűgöző téglaépítésű székesegyház Wauban, a gyarmati korszak építészetéről ismert.",
@@ -288,8 +300,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Wau-Eisenbahnbrücke",
       hu: "Waui vasúti híd",
       ro: "Podul feroviar Wau",
-      en: "Wau Railway Bridge"
-    },
+      en: "Wau Railway Bridge",
+image: "/poi-images/wau-railway-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Eisenbahnbrücke über den Fluss Jur, die den südlichsten Punkt des sudanesischen Schienennetzes markiert.",
       hu: "Jellegzetes vasúti híd a Jur-folyó felett, amely a szudáni vasúthálózat legdélibb pontját jelzi.",
@@ -311,8 +324,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Malakal-Stadion",
       hu: "Malakali stadion",
       ro: "Stadionul Malakal",
-      en: "Malakal Stadium"
-    },
+      en: "Malakal Stadium",
+image: "/poi-images/malakal-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das zentrale Sportstadion in Malakal, ein wichtiger Ort für Fußball und Leichtathletik im Bundesstaat Upper Nile.",
       hu: "Malakal központi sportstadionja, a futball és az atlétika fontos helyszíne Upper Nile államban.",
@@ -334,8 +348,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Berufsbildungszentrum Malakal",
       hu: "Malakali Szakképző Központ",
       ro: "Centrul Vocațional Malakal",
-      en: "Malakal Vocational Training Center"
-    },
+      en: "Malakal Vocational Training Center",
+image: "/poi-images/malakal-vocational-center-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Gebäudeensemble in Malakal, das für die Ausbildung von Fachkräften in der Region entscheidend ist.",
       hu: "Jellegzetes épületegyüttes Malakalban, amely kulcsfontosságú a régió szakemberképzése szempontjából.",
@@ -357,8 +372,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Kathedrale der Heiligen Familie",
       hu: "Szent Család-székesegyház",
       ro: "Catedrala Sfânta Familie",
-      en: "Holy Family Cathedral"
-    },
+      en: "Holy Family Cathedral",
+image: "/poi-images/holy-family-cathedral-rumbek-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkirche in Rumbek, ein Zentrum des Glaubens und der Versöhnung in der Region Lakes.",
       hu: "Rumbek főtemploma, a hit és a megbékélés központja a Lakes régióban.",
@@ -380,8 +396,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Rumbek-Stadion",
       hu: "Rumbeki stadion",
       ro: "Stadionul Rumbek",
-      en: "Rumbek Stadium"
-    },
+      en: "Rumbek Stadium",
+image: "/poi-images/rumbek-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das Herzstück des sportlichen Lebens in Rumbek, Austragungsort lokaler Fußballspiele.",
       hu: "Rumbek sportéletének szíve, a helyi futballmérkőzések helyszíne.",
@@ -404,8 +421,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Yei-Stadion",
       hu: "Yei stadion",
       ro: "Stadionul Yei",
-      en: "Yei Stadium"
-    },
+      en: "Yei Stadium",
+image: "/poi-images/yei-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein beliebtes Stadion in der Stadt Yei, bekannt für die Leidenschaft der lokalen Fußballfans.",
       hu: "Népszerű stadion Yei városában, a helyi futballszurkolók szenvedélyéről ismert.",
@@ -427,8 +445,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Christus-König-Kathedrale (Yei)",
       hu: "Krisztus Király-székesegyház",
       ro: "Catedrala Cristos Rege",
-      en: "Christ the King Cathedral (Yei)"
-    },
+      en: "Christ the King Cathedral (Yei)",
+image: "/poi-images/christ-the-king-cathedral-yei-landmarks-v2.webp"
+},
     description: {
       de: "Die bedeutendste katholische Kirche in Yei, ein Symbol der Hoffnung und des Wiederaufbaus.",
       hu: "Yei legjelentősebb katolikus temploma, a remény és az újjáépítés szimbóluma.",
@@ -450,8 +469,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Yambio-Stadion",
       hu: "Yambiói stadion",
       ro: "Stadionul Yambio",
-      en: "Yambio Stadium"
-    },
+      en: "Yambio Stadium",
+image: "/poi-images/yambio-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das Hauptstadion in Yambio, Zentrum sportlicher Aktivitäten in Western Equatoria.",
       hu: "Yambio fő stadionja, a sporttevékenységek központja Western Equatoriában.",
@@ -473,8 +493,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Torit-Stadion",
       hu: "Toriti stadion",
       ro: "Stadionul Torit",
-      en: "Torit Stadium"
-    },
+      en: "Torit Stadium",
+image: "/poi-images/torit-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Sportstadion in Torit, bekannt für Fußballspiele und Gemeinschaftsversammlungen.",
       hu: "Történelmi sportstadion Toritban, futballmérkőzéseiről és közösségi gyűléseiről ismert.",
@@ -496,8 +517,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Aweil-Stadion",
       hu: "Aweili stadion",
       ro: "Stadionul Aweil",
-      en: "Aweil Stadium"
-    },
+      en: "Aweil Stadium",
+image: "/poi-images/aweil-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Sportstadion in Northern Bahr el Ghazal, ein Stolz der Stadt Aweil.",
       hu: "Northern Bahr el Ghazal legnagyobb sportstadionja, Aweil városának büszkesége.",
@@ -519,8 +541,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Kuajok-Stadion",
       hu: "Kuajoki stadion",
       ro: "Stadionul Kuajok",
-      en: "Kuajok Stadium"
-    },
+      en: "Kuajok Stadium",
+image: "/poi-images/kuajok-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das zentrale Sportfeld im Bundesstaat Warrap, Schauplatz regionaler Wettbewerbe.",
       hu: "Warrap állam központi sportpályája, regionális versenyek helyszíne.",
@@ -542,8 +565,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Bentiu-Stadion",
       hu: "Bentiui stadion",
       ro: "Stadionul Bentiu",
-      en: "Bentiu Stadium"
-    },
+      en: "Bentiu Stadium",
+image: "/poi-images/bentiu-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges Sport- und Gemeinschaftszentrum in der ölreichen Stadt Bentiu.",
       hu: "Fontos sport- és közösségi központ az olajban gazdag Bentiu városában.",
@@ -565,8 +589,9 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       de: "Alte Juba-Brücke",
       hu: "Régi jubai híd",
       ro: "Vechiul pod Juba",
-      en: "Old Juba Bridge"
-    },
+      en: "Old Juba Bridge",
+image: "/poi-images/old-juba-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Die erste permanente Brücke über den Nil im Südsudan, eine historische Landmarke in Juba.",
       hu: "Dél-Szudán első állandó hídja a Níluson, történelmi mérföldkő Jubában.",

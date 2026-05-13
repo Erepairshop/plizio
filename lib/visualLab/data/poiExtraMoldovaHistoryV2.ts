@@ -4,7 +4,9 @@ export const moldovaHistoryV2: POI[] = [
   {
     id: "moldova-orheiul-vechi-history-v2",
     type: "ruins",
-    name: { de: "Orheiul Vechi", hu: "Orheiul Vechi", ro: "Orheiul Vechi", en: "Old Orhei" },
+    name: { de: "Orheiul Vechi", hu: "Orheiul Vechi", ro: "Orheiul Vechi", en: "Old Orhei",
+image: "/poi-images/moldova-orheiul-vechi-history-v2.webp"
+},
     coords: [28.973, 47.303],
     coordinates: { lat: 47.303, lng: 28.973 },
     description: {
@@ -19,11 +21,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Conține ruinele unui oraș tătar numit Shehr al-Jedid.", "Găzduiește o mănăstire ortodoxă rupestră săpată în stâncă.", "Situl prezintă urme ale fortificațiilor geto-dacice.", "Situat într-o curbă spectaculoasă a râului Răut."],
       en: ["Contains ruins of a Tatar city named Shehr al-Jedid.", "Houses an Orthodox cave monastery carved into the rock.", "The site shows traces of Geto-Dacian fortifications.", "Located in a spectacular bend of the Răut River."],
     },
-    imageHint: "Orheiul Vechi cave monastery and river landscape", image: "/poi-images/moldova-orheiul-vechi-history-v2.webp"},
+    imageHint: "Orheiul Vechi cave monastery and river landscape",
+    image: "/poi-images/moldova-orheiul-vechi-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser archäologische Komplex bewahrt Überreste aus der Zeit der Goldenen Horde und des moldauischen Mittelalters, darunter Höhlenklöster in den Kalkfelsen am Răut.",
+      hu: "Ez a régészeti komplexum az Aranyhorda és a moldvai középkor emlékeit őrzi, beleértve a Răut folyó feletti mészkősziklákba vájt különleges barlangkolostorokat.",
+      ro: "Complexul arheologic conservă urme din perioada Hoardei de Aur și a Moldovei medievale, incluzând mănăstiri rupestre săpate în stâncile de calcar de deasupra Răutului.",
+      en: "This archaeological complex preserves remains from the Golden Horde and medieval Moldavia, including unique cave monasteries carved into limestone cliffs above the Răut.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im 14. Jahrhundert", "Befestigte Siedlung Shehr al-Jedid", "Höhlenkloster Butuceni", "220 Hektar Gesamtfläche"],
+      hu: ["14. századi alapítás", "Shehr al-Jedid erődített település", "Butuceni barlangkolostor", "220 hektáros terület"],
+      ro: ["Fondat în secolul al XIV-lea", "Orașul tătăresc Shehr al-Jedid", "Mănăstirea rupestră Butuceni", "Suprafață de 220 hectare"],
+      en: ["Founded in the 14th century", "Shehr al-Jedid fortified city", "Butuceni cave monastery", "220 hectares total area"],
+    },
+  },
   {
     id: "moldova-soroca-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Soroca", hu: "Sorocai erőd", ro: "Cetatea Soroca", en: "Soroca Fortress" },
+    name: { de: "Festung Soroca", hu: "Sorocai erőd", ro: "Cetatea Soroca", en: "Soroca Fortress",
+image: "/poi-images/moldova-soroca-fortress-history-v2.webp"
+},
     coords: [28.305, 48.161],
     coordinates: { lat: 48.161, lng: 28.305 },
     description: {
@@ -38,11 +56,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Construită inițial din lemn de domnitorul Ștefan cel Mare.", "Are cinci turnuri dispuse la distanțe egale.", "Reconstruită din piatră de Petru Rareș între 1543 și 1546.", "Este un monument important al arhitecturii militare moldovenești."],
       en: ["Originally built of wood by Prince Stephen the Great.", "Features five towers arranged at equal distances.", "Rebuilt in stone by Petru Rareș between 1543 and 1546.", "It is a key monument of Moldovan military architecture."],
     },
-    imageHint: "Soroca Fortress circular stone walls and towers", image: "/poi-images/moldova-soroca-fortress-history-v2.webp"},
+    imageHint: "Soroca Fortress circular stone walls and towers",
+    image: "/poi-images/moldova-soroca-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese Rundfestung am Dnister wurde unter Stefan dem Großen aus Holz errichtet und Mitte des 16. Jahrhunderts von Petru Rareș massiv in Stein neu aufgebaut.",
+      hu: "A Dnyeszter partján álló körbástyás erődöt III. István alapította fából, majd a 16. század közepén Petru Rareș építtette át masszív kővárrá.",
+      ro: "Cetatea circulară de pe Nistru a fost înălțată din lemn de Ștefan cel Mare și reconstruită în piatră de Petru Rareș la mijlocul secolului al XVI-lea.",
+      en: "This circular fortress on the Dniester was originally built in wood by Stephen the Great and reconstructed in stone by Petru Rareș in the mid-16th century.",
+    },
+    factsAdvanced: {
+      de: ["5 Rundtürme mit 30m Durchmesser", "Mauerdicke von 3 Metern", "1543-1546 Steinbauphase", "Zentrale Kapelle im Turm"],
+      hu: ["5 kerek bástya, 30m átmérő", "3 méter vastag falak", "1543-1546 kőépítési szakasz", "Központi bástyakápolna"],
+      ro: ["5 turnuri rotunde, diametru 30m", "Grosimea zidurilor de 3 metri", "Piatră din 1543-1546", "Paraclis central în turn"],
+      en: ["5 round towers, 30m diameter", "3 meters wall thickness", "Stone phase 1543-1546", "Central chapel in tower"],
+    },
+  },
   {
     id: "moldova-bender-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Bender", hu: "Benderi erőd", ro: "Cetatea Bender", en: "Bender Fortress" },
+    name: { de: "Festung Bender", hu: "Benderi erőd", ro: "Cetatea Bender", en: "Bender Fortress",
+image: "/poi-images/moldova-bender-fortress-history-v2.webp"
+},
     coords: [29.489, 46.837],
     coordinates: { lat: 46.837, lng: 29.489 },
     description: {
@@ -57,11 +91,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Proiectată de arhitectul Sinan în 1538 pentru sultanul Soliman.", "Carol al XII-lea al Suediei s-a refugiat aici după bătălia de la Poltava.", "Complexul include muzee de tortură și istorie militară.", "Cetatea controla strategic trecerea peste fluviul Nistru."],
       en: ["Designed by architect Sinan in 1538 for Sultan Suleiman.", "Charles XII of Sweden took refuge here after the Battle of Poltava.", "The complex includes torture and military history museums.", "The fortress strategically controlled the Dniester River crossing."],
     },
-    imageHint: "Bender Fortress stone walls and red roofs", image: "/poi-images/moldova-bender-fortress-history-v2.webp"},
+    imageHint: "Bender Fortress stone walls and red roofs",
+    image: "/poi-images/moldova-bender-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die nach der Eroberung durch Süleyman den Prächtigen 1538 ausgebaute Festung gilt als Meisterwerk osmanischer Militärarchitektur am Ufer des Dnister.",
+      hu: "A Nagy Szulejmán általi 1538-as hódítás után kiépített erőd az oszmán hadmérnöki művészet remekműve a Dnyeszter folyó partján.",
+      ro: "Extinsă după cucerirea lui Soliman Magnificul în 1538, cetatea este o capodoperă a arhitecturii militare otomane situată pe malul Nistrului.",
+      en: "Expanded after Suleiman the Magnificent's conquest in 1538, this fortress is a masterpiece of Ottoman military architecture on the Dniester's banks.",
+    },
+    factsAdvanced: {
+      de: ["1538 osmanische Eroberung", "Bauleitung durch Architekt Sinan", "Fläche von 67 Hektar", "Karl XII. von Schweden floh hierher"],
+      hu: ["1538-as oszmán hódítás", "Sinan építész felügyelete", "67 hektáros terület", "XII. Károly svéd király menedéke"],
+      ro: ["Cucerire otomană în 1538", "Arhitectul Koca Sinan", "Suprafață de 67 hectare", "Refugiul lui Carol al XII-lea"],
+      en: ["1538 Ottoman conquest", "Architect Sinan supervision", "67 hectares area", "Refuge of Charles XII of Sweden"],
+    },
+  },
   {
     id: "moldova-manuc-bei-mansion-history-v2",
     type: "palace",
-    name: { de: "Manuc Bei Herrenhaus", hu: "Manuc Bei kúria", ro: "Conacul Manuc Bei", en: "Manuc Bei Mansion" },
+    name: { de: "Manuc Bei Herrenhaus", hu: "Manuc Bei kúria", ro: "Conacul Manuc Bei", en: "Manuc Bei Mansion",
+image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp"
+},
     coords: [28.592, 46.827],
     coordinates: { lat: 46.827, lng: 28.592 },
     description: {
@@ -76,11 +126,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Clădirea principală a fost proiectată de arhitectul Bernardazzi.", "Include un castel de vânătoare, un turn de veghe și tuneluri subterane.", "Manuc Bei a negociat Pacea de la București în 1812.", "Redeschis în 2015 după o restaurare amplă."],
       en: ["The main building was designed by architect Bernardazzi.", "Includes a hunting castle, a watchtower, and underground tunnels.", "Manuc Bei negotiated the 1812 Treaty of Bucharest.", "Reopened in 2015 after an extensive restoration project."],
     },
-    imageHint: "Manuc Bei Mansion French chateau style building", image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp"},
+    imageHint: "Manuc Bei Mansion French chateau style building",
+    image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das im 19. Jahrhundert für den Diplomaten Manuc Bei errichtete Anwesen in Hîncești beeindruckt durch seinen französischen Klassizismus und den weitläufigen Park.",
+      hu: "A 19. században Manuc Bei diplomata számára épült hîncești-i birtok francia klasszicista stílusával és kiterjedt parkjával nyűgözi le a látogatókat.",
+      ro: "Conacul ridicat în secolul XIX pentru diplomatul Manuc Bei la Hîncești impresionează prin stilul clasicist francez și parcul său vast.",
+      en: "Built in the 19th century for diplomat Manuc Bei in Hîncești, this estate impresses with its French Classicist style and extensive parkland.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1817 (Beginn)", "Architekt Alexander Bernardazzi", "Restaurierung im Jahr 2015", "Unterirdische Tunnelgänge"],
+      hu: ["1817-es építéskezdés", "Alexander Bernardazzi építész", "2015-ös teljes restaurálás", "Föld alatti alagútrendszer"],
+      ro: ["Construcție începută în 1817", "Arhitect Alexander Bernardazzi", "Restaurat complet în 2015", "Tuneluri subterane de acces"],
+      en: ["Construction started in 1817", "Architect Alexander Bernardazzi", "Fully restored in 2015", "Subterranean tunnel network"],
+    },
+  },
   {
     id: "moldova-saharna-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Saharna", hu: "Saharna kolostor", ro: "Mănăstirea Saharna", en: "Saharna Monastery" },
+    name: { de: "Kloster Saharna", hu: "Saharna kolostor", ro: "Mănăstirea Saharna", en: "Saharna Monastery",
+image: "/poi-images/moldova-saharna-monastery-history-v2.webp"
+},
     coords: [28.966, 47.7],
     coordinates: { lat: 47.7, lng: 28.966 },
     description: {
@@ -95,11 +161,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Mănăstirea rupestră 'Buna Vestire' datează din secolul al XIII-lea.", "O legendă locală spune că Fecioara Maria a lăsat o urmă de picior aici.", "Complexul include 22 de cascade ale râului Saharna.", "Pe dealul 'Grădiște' se află resturi ale unei cetăți geto-dacice."],
       en: ["The 'Annunciation' rock monastery dates back to the 13th century.", "Local legend says the Virgin Mary left a footprint here on a rock.", "The complex encompasses 22 waterfalls of the Saharna River.", "Geto-Dacian fortress remains are located on the 'Grădiște' hill."],
     },
-    imageHint: "Saharna Monastery blue church and rocky cliffs", image: "/poi-images/moldova-saharna-monastery-history-v2.webp"},
+    imageHint: "Saharna Monastery blue church and rocky cliffs",
+    image: "/poi-images/moldova-saharna-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser bedeutende Wallfahrtsort umfasst ein Felsenkloster aus dem 13. Jahrhundert und ein barockes Ensemble, umgeben von spektakulären Wasserfällen.",
+      hu: "Ez a jelentős zarándokhely egy 13. századi sziklakolostort és egy barokk együttest foglal magában, látványos vízesésekkel övezve.",
+      ro: "Acest loc de pelerinaj include o mănăstire rupestră din secolul XIII și un ansamblu baroc, fiind înconjurat de cascade spectaculoase.",
+      en: "This significant pilgrimage site includes a 13th-century rock monastery and a Baroque ensemble, surrounded by spectacular waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Höhlenkomplex 'Eremit'", "22 Wasserfälle in der Nähe", "Reliquien des Hl. Makarios", "Fußabdruck der Jungfrau Maria"],
+      hu: ["'Remete' barlangkomplexum", "22 vízesés a környéken", "Szent Makariosz ereklyéi", "Szűz Mária lábnyoma sziklán"],
+      ro: ["Complex rupestru 'Eremit'", "22 de cascade în apropiere", "Moaștele Sfântului Macarie", "Urma Maicii Domnului pe stâncă"],
+      en: ["'Hermit' rock complex", "22 nearby waterfalls", "Relics of St. Macarius", "Virgin Mary's footprint legend"],
+    },
+  },
   {
     id: "moldova-rudi-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Rudi", hu: "Rudi kolostor", ro: "Mănăstirea Rudi", en: "Rudi Monastery" },
+    name: { de: "Kloster Rudi", hu: "Rudi kolostor", ro: "Mănăstirea Rudi", en: "Rudi Monastery",
+image: "/poi-images/moldova-rudi-monastery-history-v2.webp"
+},
     coords: [27.844, 48.318],
     coordinates: { lat: 48.318, lng: 27.844 },
     description: {
@@ -114,11 +196,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1777 în stil moldovenesc.", "Situată într-o rezervație naturală lângă fluviul Nistru.", "Mănăstirea a fost închisă în 1948 și redeschisă în 1992.", "În apropiere se află 'Peștera Răposaților' și așezări antice."],
       en: ["The church was built in 1777 in the Moldovan style.", "Located within a natural reserve near the Dniester River.", "The monastery was closed in 1948 and reopened in 1992.", "Nearby attractions include the 'Cave of the Dead' and ancient settlements."],
     },
-    imageHint: "Rudi Monastery stone church in the forest", image: "/poi-images/moldova-rudi-monastery-history-v2.webp"},
+    imageHint: "Rudi Monastery stone church in the forest",
+    image: "/poi-images/moldova-rudi-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die 1777 im traditionellen moldauischen Stil erbaute Dreifaltigkeitskirche bildet das Herzstück dieses Klosters inmitten eines dichten Waldgebiets.",
+      hu: "Az 1777-ben, hagyományos moldvai stílusban épült Szentháromság-templom a szíve ennek a sűrű erdőkkel körülvett kolostornak.",
+      ro: "Biserica Sfânta Treime, ridicată în 1777 în stil tradițional moldovenesc, formează inima acestei mănăstiri situate în mijlocul unei păduri dese.",
+      en: "The Holy Trinity Church, built in 1777 in traditional Moldavian style, forms the heart of this monastery set within a dense forest.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1777 vollendet", "Drei-Konchen-Grundriss", "Archaische Steinmetzarbeiten", "Lage im Rudi-Arianești Reservat"],
+      hu: ["1777-ben fejezték be", "Háromkaréjos alaprajz", "Archaikus kőfaragványok", "Rudi-Arianești rezervátumban"],
+      ro: ["Finalizată în anul 1777", "Plan treflat (triconcs)", "Decorațiuni arhaice în piatră", "Rezervația Rudi-Arianești"],
+      en: ["Completed in 1777", "Triconch floor plan", "Archaic stonework decor", "Located in Rudi-Arianești reserve"],
+    },
+  },
   {
     id: "moldova-pommer-manor-history-v2",
     type: "palace",
-    name: { de: "Pommer Herrenhaus", hu: "Pommer-kastély", ro: "Conacul Pommer", en: "Pommer Manor" },
+    name: { de: "Pommer Herrenhaus", hu: "Pommer-kastély", ro: "Conacul Pommer", en: "Pommer Manor",
+image: "/poi-images/moldova-pommer-manor-history-v2.webp"
+},
     coords: [27.671, 48.225],
     coordinates: { lat: 48.225, lng: 27.671 },
     description: {
@@ -133,11 +231,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Construit pentru bancherul Andrei Pommer între 1901 și 1912.", "Parcul găzduiește peste 150 de specii de arbori și arbuști.", "Clădirea îmbină elemente renascentiste și eclectice.", "Este un monument semnificativ al arhitecturii peisajere."],
       en: ["Built for banker Andrei Pommer between 1901 and 1912.", "The park houses over 150 species of trees and shrubs.", "The building combines Renaissance and eclectic architectural elements.", "It is a significant monument of landscape architecture."],
     },
-    imageHint: "Pommer Manor Taul red brick building in park", image: "/poi-images/moldova-pommer-manor-history-v2.webp"},
+    imageHint: "Pommer Manor Taul red brick building in park",
+    image: "/poi-images/moldova-pommer-manor-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Herrenhaus des Bankiers Andrei Pommer in Țaul ist für sein eklektisches Design und den größten Landschaftspark des Landes bekannt.",
+      hu: "Andrei Pommer bankár țauli kúriája eklektikus stílusáról és az ország legnagyobb tájképi parkjáról nevezetes.",
+      ro: "Conacul bancherului Andrei Pommer din Țaul este renumit pentru designul său eclectic și cel mai mare parc peisagistic din țară.",
+      en: "Banker Andrei Pommer's manor in Țaul is renowned for its eclectic design and the country's largest landscape park.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1901-1912", "Parkfläche von 46 Hektar", "Über 150 Baumarten", "Ziegelbau mit weißen Details"],
+      hu: ["1901-1912 között épült", "46 hektáros parkterület", "Több mint 150 fafaj", "Téglaépület fehér részletekkel"],
+      ro: ["Construit între 1901-1912", "Parc de 46 de hectare", "Peste 150 specii de arbori", "Cărămidă cu detalii albe"],
+      en: ["Built between 1901-1912", "46-hectare park area", "Over 150 tree species", "Brick facade with white trim"],
+    },
+  },
   {
     id: "moldova-zamfir-ralli-mansion-history-v2",
     type: "palace",
-    name: { de: "Zamfir Ralli Herrenhaus", hu: "Zamfir Ralli udvarház", ro: "Conacul lui Zamfir Ralli", en: "Zamfir Ralli Mansion" },
+    name: { de: "Zamfir Ralli Herrenhaus", hu: "Zamfir Ralli udvarház", ro: "Conacul lui Zamfir Ralli", en: "Zamfir Ralli Mansion",
+image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp"
+},
     coords: [28.275, 47.126],
     coordinates: { lat: 47.126, lng: 28.275 },
     description: {
@@ -152,11 +266,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Include un muzeu dedicat șederii lui Pușkin.", "Conacul a fost construit la începutul secolului al XIX-lea în stil clasicist.", "Pușkin s-a îndrăgostit aici de tiganca Zemfira.", "Moșia este situată în mijlocul pitoreștilor Codri."],
       en: ["Includes a museum dedicated to Pushkin's stay in Moldova.", "The manor was built in the early 19th century in Classicist style.", "Pushkin famously fell in love with a Roma woman named Zemfira here.", "The estate is located in the middle of the scenic Codru forests."],
     },
-    imageHint: "Zamfir Ralli Mansion Dolna yellow building", image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp"},
+    imageHint: "Zamfir Ralli Mansion Dolna yellow building",
+    image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses Landgut in Dolna erlangte Berühmtheit durch den Aufenthalt des russischen Dichters Alexander Puschkin während seines Exils in Moldau.",
+      hu: "Ez a dolnai birtok Alexander Puskin orosz költő moldvai száműzetése alatt tett látogatásai révén vált híressé.",
+      ro: "Conacul din Dolna a devenit celebru datorită șederii poetului rus Aleksandr Pușkin în timpul exilului său în Moldova.",
+      en: "This estate in Dolna gained fame through the stays of Russian poet Alexander Pushkin during his exile in Moldavia.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit frühes 19. Jhd.", "Puschkin-Besuch im Jahr 1821", "Zigeunerlager-Inspiration", "Heutiges Puschkin-Museum"],
+      hu: ["19. század eleji építés", "Puskin 1821-es látogatása", "Cigánytábor ihletforrás", "Ma Puskin-múzeumként működik"],
+      ro: ["Construcție secolul XIX", "Vizita lui Pușkin în 1821", "Inspirație pentru poezia 'Țiganii'", "Actualul Muzeu Pușkin"],
+      en: ["Early 19th-century build", "Pushkin's 1821 visit", "Inspiration for 'The Gypsies'", "Current Pushkin Museum"],
+    },
+  },
   {
     id: "moldova-chisinau-triumphal-arch-history-v2",
     type: "monument",
-    name: { de: "Triumphbogen von Chisinau", hu: "Kisinyovi diadalív", ro: "Arcul de Triumf din Chișinău", en: "Chisinau Triumphal Arch" },
+    name: { de: "Triumphbogen von Chisinau", hu: "Kisinyovi diadalív", ro: "Arcul de Triumf din Chișinău", en: "Chisinau Triumphal Arch",
+image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp"
+},
     coords: [28.831, 47.024],
     coordinates: { lat: 47.024, lng: 28.831 },
     description: {
@@ -171,11 +301,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["A fost construit în 1840 de arhitectul Luca Zaușchevici.", "Adăpostește un clopot uriaș turnat din tunurile capturate.", "Mai este numit și 'Porțile Sfinte'.", "Se află direct vizavi de clădirea Guvernului."],
       en: ["Built in 1840 by architect Luca Zaushkevich.", "It houses a huge bell cast from captured Ottoman cannons.", "It is also known as the 'Holy Gates'.", "Stands directly opposite the Government House."],
     },
-    imageHint: "Triumphal Arch Chisinau monument with clock", image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp"},
+    imageHint: "Triumphal Arch Chisinau monument with clock",
+    image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1840 errichtete Triumphbogen in Chișinău erinnert an den russischen Sieg über das Osmanische Reich und beherbergt eine massive Glocke.",
+      hu: "Az 1840-ben emelt kisinyovi diadalív az oszmánok feletti orosz győzelemnek állít emléket, és egy hatalmas harangot rejt.",
+      ro: "Arcul de Triumf din Chișinău, ridicat în 1840, comemorează victoria rusă asupra Imperiului Otoman și adăpostește un clopot masiv.",
+      en: "The Triumphal Arch in Chișinău, built in 1840, commemorates the Russian victory over the Ottoman Empire and houses a massive bell.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 13 Metern", "Baujahr 1840-1841", "Glockenguss aus Beutekanonen", "Architekt Luca Zaușchevici"],
+      hu: ["13 méteres magasság", "1840-1841-es építés", "Ágyúkból öntött harang", "Luca Zaușchevici építész"],
+      ro: ["Înălțime de 13 metri", "Construit în 1840-1841", "Clopot din tunuri capturate", "Arhitect Luca Zaușchevici"],
+      en: ["13 meters in height", "Built in 1840-1841", "Bell cast from trophy cannons", "Architect Luca Zaușchevici"],
+    },
+  },
   {
     id: "moldova-stephen-the-great-monument-history-v2",
     type: "monument",
-    name: { de: "Denkmal für Stephan den Großen", hu: "Nagy István emlékmű", ro: "Monumentul lui Ștefan cel Mare", en: "Stephen the Great Monument" },
+    name: { de: "Denkmal für Stephan den Großen", hu: "Nagy István emlékmű", ro: "Monumentul lui Ștefan cel Mare", en: "Stephen the Great Monument",
+image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp"
+},
     coords: [28.83, 47.025],
     coordinates: { lat: 47.025, lng: 28.83 },
     description: {
@@ -190,11 +336,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Creat în 1927 de sculptorul Alexandru Plămădeală.", "Monumentul a fost mutat de mai multe ori și ascuns în timpul războaielor.", "Ștefan cel Mare a condus Moldova timp de 47 de ani.", "Statuia este din bronz și stă pe un soclu de granit."],
       en: ["Created in 1927 by sculptor Alexandru Plămădeală.", "The monument was moved several times and hidden during wars.", "Stephen the Great ruled Moldova for 47 years.", "The statue is made of bronze and stands on a granite pedestal."],
     },
-    imageHint: "Stephen the Great monument Chisinau bronze statue", image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp"},
+    imageHint: "Stephen the Great monument Chisinau bronze statue",
+    image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses Denkmal ehrt den bedeutendsten Herrscher der Moldau und ist ein zentrales Symbol für die Unabhängigkeit und Identität des Landes.",
+      hu: "Ez az emlékmű Moldva legjelentősebb uralkodója előtt tiszteleg, és az ország függetlenségének és identitásának központi szimbóluma.",
+      ro: "Acest monument îl onorează pe cel mai de seamă domnitor al Moldovei, fiind un simbol central al independenței și identității țării.",
+      en: "This monument honors Moldavia's most significant ruler and serves as a central symbol of the country's independence and identity.",
+    },
+    factsAdvanced: {
+      de: ["Bronze-Skulptur von 1927", "Bildhauer Alexandru Plămădeală", "5 Meter Steinsockel", "Mehrfache Versetzung"],
+      hu: ["1927-es bronzszobor", "Alexandru Plămădeală szobrász", "5 méteres kőtalapzat", "Többszöri áthelyezés"],
+      ro: ["Sculptură din bronz (1927)", "Sculptorul Al. Plămădeală", "Soclu de piatră de 5 metri", "Mutat de mai multe ori"],
+      en: ["Bronze sculpture from 1927", "Sculptor Alexandru Plămădeală", "5-meter stone pedestal", "Relocated several times"],
+    },
+  },
   {
     id: "moldova-eternity-memorial-complex-history-v2",
     type: "monument",
-    name: { de: "Gedenkstätte Ewigkeit", hu: "Örökkévalóság emlékmű", ro: "Complexul Memorial Eternitate", en: "Eternity Memorial Complex" },
+    name: { de: "Gedenkstätte Ewigkeit", hu: "Örökkévalóság emlékmű", ro: "Complexul Memorial Eternitate", en: "Eternity Memorial Complex",
+image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp"
+},
     coords: [28.833, 47.009],
     coordinates: { lat: 47.009, lng: 28.833 },
     description: {
@@ -209,11 +371,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Dispune de o piramidă înaltă de 25 de metri formată din cinci puști stilizate.", "În centru arde o flacără veșnică.", "Situl a fost inaugurat în 1975, la a 30-a aniversare a victoriei.", "Include numeroase plăci de marmură cu numele celor căzuți."],
       en: ["Features a 25-meter-high pyramid of five stylized rifles.", "An eternal flame burns in the center of the complex.", "The site was inaugurated in 1975 on the 30th anniversary of victory.", "Includes numerous marble plaques with the names of the fallen."],
     },
-    imageHint: "Eternity Memorial Complex Chisinau red pyramid rifles", image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp"},
+    imageHint: "Eternity Memorial Complex Chisinau red pyramid rifles",
+    image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die fünf riesigen Betongewehre bilden eine 25 Meter hohe Pyramide über der ewigen Flamme zum Gedenken an die Opfer des Zweiten Weltkriegs.",
+      hu: "Az öt hatalmas betonpuska egy 25 méter magas piramist alkot az örökmécses felett, a második világháború áldozatainak emlékére.",
+      ro: "Cele cinci puști imense din beton formează o piramidă de 25 de metri deasupra flăcării eterne, în memoria victimelor celui de-al Doilea Război Mondial.",
+      en: "The five giant concrete rifles form a 25-meter-high pyramid over the eternal flame, commemorating World War II victims.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung im Mai 1975", "Höhe von 25 Metern", "Ewige Flamme im Zentrum", "6 Marmor-Relieftafeln"],
+      hu: ["1975 májusi felavatás", "25 méteres magasság", "Központi örökmécses", "6 márvány dombormű"],
+      ro: ["Inaugurat în mai 1975", "Înălțime de 25 metri", "Flacăra veșnică în centru", "6 plăci cu basoreliefuri"],
+      en: ["Inaugurated in May 1975", "25 meters height", "Central eternal flame", "6 marble relief panels"],
+    },
+  },
   {
     id: "moldova-struve-arc-rudi-history-v2",
     type: "monument",
-    name: { de: "Struve-Bogen Punkt Rudi", hu: "Struve földmérő ív Rudi", ro: "Punctul Rudi al Arcului Struve", en: "Struve Geodetic Arc Rudi Point" },
+    name: { de: "Struve-Bogen Punkt Rudi", hu: "Struve földmérő ív Rudi", ro: "Punctul Rudi al Arcului Struve", en: "Struve Geodetic Arc Rudi Point",
+image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp"
+},
     coords: [27.877, 48.32],
     coordinates: { lat: 48.32, lng: 27.877 },
     description: {
@@ -228,11 +406,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Creat între 1816 și 1855 de Friedrich Georg Wilhelm Struve.", "Punctul de la Rudi a fost stabilit în anul 1847.", "Constă dintr-un lanț de puncte de măsurare prin 10 țări.", "Marcat în 2005 cu un monument sub formă de obelisc."],
       en: ["Created between 1816 and 1855 by Friedrich Georg Wilhelm Struve.", "The Rudi point was accurately established in 1847.", "Consists of a chain of survey triangulations stretching through 10 countries.", "Marked in 2005 with a monument in the shape of an obelisk."],
     },
-    imageHint: "Struve Geodetic Arc Rudi monument obelisk", image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp"},
+    imageHint: "Struve Geodetic Arc Rudi monument obelisk",
+    image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser Messpunkt ist Teil des UNESCO-Welterbes Struve-Bogen, einer Kette von Vermessungsstationen zur Bestimmung der Erdform im 19. Jahrhundert.",
+      hu: "Ez a mérőpont az UNESCO világörökség részét képező Struve-ív része, amely a 19. században a Föld alakjának meghatározására szolgált.",
+      ro: "Acest punct face parte din Arcul Geodezic Struve, inclus în UNESCO, fiind o rețea de măsurători din secolul XIX pentru a determina forma Pământului.",
+      en: "This point is part of the UNESCO-listed Struve Geodetic Arc, a 19th-century chain of survey stations used to determine the Earth's shape.",
+    },
+    factsAdvanced: {
+      de: ["Einziges UNESCO-Erbe Moldaus", "Errichtet im Jahr 1848", "Teil einer 2820 km Kette", "Obelisk am Standort Rudi"],
+      hu: ["Moldova egyetlen UNESCO-helyszíne", "1848-ban hozták létre", "2820 km hosszú lánc része", "Obeliszk a rudi-i ponton"],
+      ro: ["Singurul sit UNESCO din MD", "Stabilit în anul 1848", "Parte dintr-un arc de 2820 km", "Obelisc la punctul Rudi"],
+      en: ["Only UNESCO site in Moldova", "Established in 1848", "Part of a 2,820 km chain", "Obelisk at the Rudi site"],
+    },
+  },
   {
     id: "moldova-condrita-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Condrița", hu: "Condrița kolostor", ro: "Mănăstirea Condrița", en: "Condrița Monastery" },
+    name: { de: "Kloster Condrița", hu: "Condrița kolostor", ro: "Mănăstirea Condrița", en: "Condrița Monastery",
+image: "/poi-images/moldova-condrita-monastery-history-v2.webp"
+},
     coords: [28.568, 47.058],
     coordinates: { lat: 47.058, lng: 28.568 },
     description: {
@@ -248,11 +442,25 @@ export const moldovaHistoryV2: POI[] = [
       en: ["Originally founded as a hermitage in 1783.", "The main church is dedicated to Saint Nicholas.", "Houses a valuable fresco of the Virgin Mary.", "The surrounding area offers hiking trails through dense historic forests."],
     },
     imageHint: "Condrita Monastery white church forest",
+    descriptionAdvanced: {
+      de: "Das 1783 gegründete Männerkloster Condrița liegt isoliert in den Wäldern und ist bekannt für seine strenge klösterliche Disziplin.",
+      hu: "Az 1783-ban alapított condrițai férfikolostor elszigetelten, az erdők mélyén fekszik, és szigorú szerzetesi rendjéről ismert.",
+      ro: "Mănăstirea de călugări Condrița, fondată în 1783, este situată izolat în inima pădurii, fiind cunoscută pentru disciplina monahală riguroasă.",
+      en: "The Condrița men's monastery, founded in 1783, is nestled deep within the forest and is known for its strict monastic discipline.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1783", "Nikolaus-Kirche (1820)", "Ehemalige Einsiedelei von Căpriana", "Im Waldgebiet Codru gelegen"],
+      hu: ["1783-as alapítás", "Szent Miklós-templom (1820)", "Căpriana egykori szkítéje", "A Codru-erdőkben található"],
+      ro: ["Fondată în anul 1783", "Biserica Sf. Nicolae (1820)", "Fost schit al mănăstirii Căpriana", "Situată în Codrii Moldovei"],
+      en: ["Founded in 1783", "St. Nicholas Church (1820)", "Former hermitage of Căpriana", "Located in the Codru forests"],
+    },
   },
   {
     id: "moldova-hirbovat-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Hîrbovăț", hu: "Hîrbovăț kolostor", ro: "Mănăstirea Hîrbovăț", en: "Hîrbovăț Monastery" },
+    name: { de: "Kloster Hîrbovăț", hu: "Hîrbovăț kolostor", ro: "Mănăstirea Hîrbovăț", en: "Hîrbovăț Monastery",
+image: "/poi-images/moldova-hirbovat-monastery-history-v2.webp"
+},
     coords: [28.217, 47.331],
     coordinates: { lat: 47.331, lng: 28.217 },
     description: {
@@ -268,11 +476,25 @@ export const moldovaHistoryV2: POI[] = [
       en: ["Founded in 1730 by the boyar Ioan Lupu.", "The monastery was burned down several times during armed conflicts.", "The icon is carried in a procession to Chisinau every year.", "The stone 'Assumption of the Mother of God' church was built in 1816."],
     },
     imageHint: "Hirbovat Monastery church gold domes",
+    descriptionAdvanced: {
+      de: "Dieses 1730 gegründete Kloster beherbergt eine wundertätige Ikone der Muttergottes, die als eine der wertvollsten Reliquien Moldaus gilt.",
+      hu: "Ez az 1730-ban alapított kolostor őrzi a Hîrbovăț-i Szűzanya csodatévő ikonját, amely Moldova egyik legértékesebb ereklyéje.",
+      ro: "Fondată în 1730, această mănăstire adăpostește icoana făcătoare de minuni a Maicii Domnului, considerată una dintre cele mai prețioase relicve.",
+      en: "Founded in 1730, this monastery houses the miraculous icon of the Mother of God, considered one of Moldova's most precious relics.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Ion Lupu", "Wundertätige Hîrbovăț-Ikone", "Mariä-Entschlafens-Kirche (1816)", "Historisches Stein-Ensemble"],
+      hu: ["Ion Lupu alapította", "Csodatévő Hîrbovăț-i ikon", "Nagyboldogasszony-templom (1816)", "Történelmi kőépületek"],
+      ro: ["Ctitorită de Ion Lupu", "Icoana Maicii Domnului de la Hîrbovăț", "Biserica Adormirea Maicii Domnului", "Zidită în piatră din 1816"],
+      en: ["Founded by Ion Lupu", "Miraculous Hîrbovăț icon", "Dormition Church (1816)", "Historic stone ensemble"],
+    },
   },
   {
     id: "moldova-hirjauca-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Hîrjauca", hu: "Hîrjauca kolostor", ro: "Mănăstirea Hîrjauca", en: "Hîrjauca Monastery" },
+    name: { de: "Kloster Hîrjauca", hu: "Hîrjauca kolostor", ro: "Mănăstirea Hîrjauca", en: "Hîrjauca Monastery",
+image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp"
+},
     coords: [28.226, 47.323],
     coordinates: { lat: 47.323, lng: 28.226 },
     description: {
@@ -287,11 +509,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Fondată în anul 1740 pe malul pârâului Hîrjauca.", "Biserica principală a fost construită în 1836 în stil clasicist.", "Folosită ca sanatoriu în perioada sovietică.", "Include grădini frumos amenajate și izvoare."],
       en: ["Founded in 1740 on the banks of the Hîrjauca stream.", "The main church was built in 1836 in a classicist style.", "Used as a sanatorium during the Soviet era.", "Features beautifully landscaped gardens and natural springs."],
     },
-    imageHint: "Hirjauca Monastery neoclassical church", image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp"},
+    imageHint: "Hirjauca Monastery neoclassical church",
+    image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das im 18. Jahrhundert gegründete Kloster Hîrjauca ist berühmt für seine 'Sprudelnde Quelle' und die malerische Lage am Fuße der Hügel.",
+      hu: "A 18. században alapított Hîrjauca kolostor híres a „bugyogó forrásáról” és a dombok lábánál fekvő festői elhelyezkedéséről.",
+      ro: "Fondată în secolul XVIII, mănăstirea Hîrjauca este celebră pentru 'izvorul de leac' și amplasarea sa pitorească la poalele dealurilor.",
+      en: "Founded in the 18th century, Hîrjauca Monastery is famous for its 'healing spring' and its picturesque location at the foot of the hills.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1736", "Bekannt für Heilquellen", "Christi-Himmelfahrt-Kirche", "Park mit jahrhundertealten Eichen"],
+      hu: ["1736 körül alapították", "Gyógyforrásairól ismert", "Urunk Mennybemenetele templom", "Évszázados tölgyfapark"],
+      ro: ["Fondată în jurul anului 1736", "Cunoscută pentru ape tămăduitoare", "Biserica Înălțarea Domnului", "Parc cu stejari seculari"],
+      en: ["Founded around 1736", "Known for healing springs", "Ascension of the Lord Church", "Park with century-old oaks"],
+    },
+  },
   {
     id: "moldova-raciula-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Răciula", hu: "Răciula kolostor", ro: "Mănăstirea Răciula", en: "Răciula Monastery" },
+    name: { de: "Kloster Răciula", hu: "Răciula kolostor", ro: "Mănăstirea Răciula", en: "Răciula Monastery",
+image: "/poi-images/moldova-raciula-monastery-history-v2.webp"
+},
     coords: [28.257, 47.311],
     coordinates: { lat: 47.311, lng: 28.257 },
     description: {
@@ -307,11 +545,25 @@ export const moldovaHistoryV2: POI[] = [
       en: ["Founded in 1797 by brothers Andrei and Ioan Roșca.", "The church is dedicated to the Nativity of the Mother of God.", "The nuns practice traditional crafts and beekeeping.", "Part of a group of four monasteries in the Călărași region."],
     },
     imageHint: "Raciula Monastery small church flowers",
+    descriptionAdvanced: {
+      de: "Das 1797 als Männerkloster gegründete und später in ein Nonnenkloster umgewandelte Răciula ist ein Zentrum spiritueller Tradition im Codru-Wald.",
+      hu: "Az 1797-ben férfikolostorként alapított, majd később női kolostorrá alakított Răciula a spirituális hagyományok központja a Codru-erdőben.",
+      ro: "Fondată în 1797 ca mănăstire de călugări și transformată ulterior în mănăstire de maici, Răciula este un centru de spiritualitate în Codrii Moldovei.",
+      en: "Founded in 1797 as a men's monastery and later converted into a nunnery, Răciula is a center of spiritual tradition in the Codru forest.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1797", "Umwandlung in Frauenkloster 1811", "Zwei Steinkirchen", "Nähe zum Naturschutzgebiet"],
+      hu: ["1797-es alapítás", "1811-ben női kolostor lett", "Két kőtemplom", "Természetvédelmi terület mellett"],
+      ro: ["Înființată în 1797", "Devenită de maici în 1811", "Două biserici din piatră", "Lângă rezervație naturală"],
+      en: ["Founded in 1797", "Became a nunnery in 1811", "Two stone churches", "Near nature reserve"],
+    },
   },
   {
     id: "moldova-frumoasa-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Frumoasa", hu: "Frumoasa kolostor", ro: "Mănăstirea Frumoasa", en: "Frumoasa Monastery" },
+    name: { de: "Kloster Frumoasa", hu: "Frumoasa kolostor", ro: "Mănăstirea Frumoasa", en: "Frumoasa Monastery",
+image: "/poi-images/moldova-frumoasa-monastery-history-v2.webp"
+},
     coords: [28.341, 47.254],
     coordinates: { lat: 47.254, lng: 28.341 },
     description: {
@@ -327,11 +579,25 @@ export const moldovaHistoryV2: POI[] = [
       en: ["Founded in 1804 as a monastery for monks.", "Features a museum of ecclesiastical art.", "The Holy Trinity church was completed in 1851.", "The monastery served as a school for disabled children during the Soviet era."],
     },
     imageHint: "Frumoasa Monastery elegant church architecture",
+    descriptionAdvanced: {
+      de: "Dieses Kloster, dessen Name 'Die Schöne' bedeutet, besticht durch seine harmonische Architektur und die ruhige Lage in einem weiten Tal.",
+      hu: "Ez a kolostor, melynek neve „Szépet” jelent, harmonikus építészetével és egy tágas völgyben fekvő nyugodt környezetével nyűgöz le.",
+      ro: "Această mănăstire, al cărei nume sugerează frumusețea locului, impresionează prin arhitectura armonioasă și cadrul liniștit dintr-o vale largă.",
+      en: "This monastery, whose name means 'The Beautiful One', impresses with its harmonious architecture and peaceful setting in a broad valley.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung 1804", "Dormitio-Kirche aus Stein", "Zerstörung 1946 (Sowjetzeit)", "Wiedereröffnung 1994"],
+      hu: ["1804-es első említés", "Kőből épült Nagyboldogasszony-templom", "1946-os szovjet rombolás", "1994-es újranyitás"],
+      ro: ["Atestată prima dată în 1804", "Biserica Adormirea Maicii Domnului", "Închisă în 1946 (perioada sovietică)", "Redeschisă în 1994"],
+      en: ["First mentioned in 1804", "Stone Dormition Church", "Closed in 1946 (Soviet era)", "Reopened in 1994"],
+    },
   },
   {
     id: "moldova-tabara-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Tabăra", hu: "Tabăra kolostor", ro: "Mănăstirea Tabăra", en: "Tabăra Monastery" },
+    name: { de: "Kloster Tabăra", hu: "Tabăra kolostor", ro: "Mănăstirea Tabăra", en: "Tabăra Monastery",
+image: "/poi-images/moldova-tabara-monastery-history-v2.webp"
+},
     coords: [28.528, 47.369],
     coordinates: { lat: 47.369, lng: 28.528 },
     description: {
@@ -346,11 +612,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Fondată în 1784 de boierul Gheorghe Russo.", "Are două biserici: 'Adormirea Maicii Domnului' și 'Sfântul Pantelimon'.", "Închisă în 1959 și folosită ca club sătesc.", "Retrocedată credincioșilor și restaurată în 1990."],
       en: ["Founded in 1784 by the boyar Gheorghe Russo.", "Has two churches: 'Assumption of Mary' and 'St. Panteleimon'.", "Closed in 1959 and used as a village club.", "Returned to the faithful and restored in 1990."],
     },
-    imageHint: "Tabara Monastery Orhei church facade", image: "/poi-images/moldova-tabara-monastery-history-v2.webp"},
+    imageHint: "Tabara Monastery Orhei church facade",
+    image: "/poi-images/moldova-tabara-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Tabăra wurde im 18. Jahrhundert als Nonnenkloster gegründet und ist für seine Teppichweberei und traditionelle Handwerkskunst bekannt.",
+      hu: "A 18. században alapított Tabăra női kolostor szőnyegszövéséről és hagyományos kézműves mesterségeiről ismert.",
+      ro: "Fondată în secolul XVIII ca mănăstire de maici, Tabăra este cunoscută pentru atelierele de țesut covoare și meșteșugurile tradiționale.",
+      en: "Founded in the 18th century as a nunnery, Tabăra is known for its carpet weaving workshops and traditional crafts.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1784", "Zentrum für Teppichweberei", "Mariä-Entschlafens-Kirche", "Ikonensammlung aus dem 19. Jhd."],
+      hu: ["1784-ben alapították", "Szőnyegszövő központ", "Nagyboldogasszony-templom", "19. századi ikongyűjtemény"],
+      ro: ["Fondată în anul 1784", "Centru de țesut covoare", "Biserica Adormirea Maicii Domnului", "Colecție de icoane secolul XIX"],
+      en: ["Founded in 1784", "Carpet weaving center", "Dormition of the Virgin Church", "19th-century icon collection"],
+    },
+  },
   {
     id: "moldova-cuizauca-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Cuizăuca", hu: "Cuizăuca kolostor", ro: "Mănăstirea Cuizăuca", en: "Cuizăuca Monastery" },
+    name: { de: "Kloster Cuizăuca", hu: "Cuizăuca kolostor", ro: "Mănăstirea Cuizăuca", en: "Cuizăuca Monastery",
+image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp"
+},
     coords: [28.799, 47.611],
     coordinates: { lat: 47.611, lng: 28.799 },
     description: {
@@ -365,11 +647,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["A fost inițial un schit al mănăstirii Saharna.", "Biserica este dedicată Sfântului Vasile cel Mare.", "Situată într-un peisaj forestier liniștit.", "Redeschisă în anii 1990 după decenii de utilizare necorespunzătoare."],
       en: ["Originally a small hermitage (skete) belonging to Saharna.", "The church is dedicated to Saint Basil the Great.", "Located in a quiet and peaceful forest landscape.", "Reopened in the 1990s after decades of neglect and misuse."],
     },
-    imageHint: "Cuizauca Monastery forest church", image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp"},
+    imageHint: "Cuizauca Monastery forest church",
+    image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses kleine, aber historisch bedeutsame Kloster liegt verborgen in der Region Rezina und bewahrt eine authentische klösterliche Atmosphäre.",
+      hu: "Ez a kicsi, de történelmileg jelentős kolostor a Rezina régióban rejtőzik, és megőrzi az autentikus szerzetesi hangulatot.",
+      ro: "Această mănăstire mică, dar semnificativă istoric, este ascunsă în regiunea Rezina, păstrând o atmosferă monahală autentică.",
+      en: "This small but historically significant monastery is hidden in the Rezina region, preserving an authentic monastic atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Gewidmet dem Hl. Basilius", "Wiederaufbau nach 1990", "Kloster für Nonnen", "Frühere Einsiedelei"],
+      hu: ["Szent Vazul tiszteletére", "1990 utáni újjáépítés", "Női kolostor", "Egykori szkíté"],
+      ro: ["Hramul Sf. Vasile cel Mare", "Reconstruită după 1990", "Mănăstire de maici", "Fost schit monahal"],
+      en: ["Dedicated to St. Basil", "Rebuilt after 1990", "Monastery for nuns", "Former hermitage site"],
+    },
+  },
   {
     id: "moldova-stolniceni-ancient-fortress-history-v2",
     type: "ruins",
-    name: { de: "Geto-dakische Festung Stolniceni", hu: "Stolniceni dák erőd", ro: "Cetatea geto-dacică de la Stolniceni", en: "Stolniceni Geto-Dacian Fortress" },
+    name: { de: "Geto-dakische Festung Stolniceni", hu: "Stolniceni dák erőd", ro: "Cetatea geto-dacică de la Stolniceni", en: "Stolniceni Geto-Dacian Fortress",
+image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp"
+},
     coords: [27.359, 48.221],
     coordinates: { lat: 48.221, lng: 27.359 },
     description: {
@@ -384,11 +682,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Datează din secolele IV-III î.Hr.", "Include valuri de apărare și șanțuri.", "Arheologii au găsit aici amfore grecești și ceramică autohtonă.", "Este una dintre cele mai mari cetăți antice din nordul Moldovei."],
       en: ["Dates back to the 4th-3rd centuries BC.", "Features defensive earthen walls and ditches.", "Archaeologists found Greek amphorae and local pottery here.", "It is one of the largest ancient fortresses in northern Moldova."],
     },
-    imageHint: "Stolniceni archaeological site earthen mounds", image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp"},
+    imageHint: "Stolniceni archaeological site earthen mounds",
+    image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ausgrabungsstätte von Stolniceni enthüllt eine bedeutende getisch-dakische Festung, die Einblicke in die vorrömische Verteidigungskunst gibt.",
+      hu: "A stolniceni-i ásatások egy jelentős geto-dák erődöt tártak fel, amely betekintést nyújt a római kor előtti védelmi művészetbe.",
+      ro: "Situl arheologic de la Stolniceni dezvăluie o cetate geto-dacică importantă, oferind date despre arta defensivă preromană.",
+      en: "The Stolniceni archaeological site reveals a significant Geto-Dacian fortress, providing insights into pre-Roman defensive arts.",
+    },
+    factsAdvanced: {
+      de: ["4.-3. Jahrhundert v. Chr.", "Getisch-dakische Kultur", "Befestigte Wallanlagen", "Keramik- und Waffenfundstücke"],
+      hu: ["Kr. e. 4-3. század", "Geto-dák kultúra", "Erődített földsáncok", "Kerámia- és fegyverleletek"],
+      ro: ["Secolele IV-III î.Hr.", "Cultura geto-dacică", "Sistem de fortificații cu val", "Vestigii de ceramică și arme"],
+      en: ["4th-3rd century BC", "Geto-Dacian culture", "Earthwork fortifications", "Ceramic and weapon artifacts"],
+    },
+  },
   {
     id: "moldova-hansca-archaeological-site-history-v2",
     type: "ruins",
-    name: { de: "Archäologische Stätte Hansca", hu: "Hansca régészeti település", ro: "Așezarea arheologică Hansca", en: "Hansca Archaeological Site" },
+    name: { de: "Archäologische Stätte Hansca", hu: "Hansca régészeti település", ro: "Așezarea arheologică Hansca", en: "Hansca Archaeological Site",
+image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp"
+},
     coords: [28.753, 46.833],
     coordinates: { lat: 46.833, lng: 28.753 },
     description: {
@@ -403,11 +717,27 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Cunoscut pentru descoperirile culturii Cerniahov (sec. III-IV d.Hr.).", "Conține resturi de locuințe adâncite și cuptoare de olar.", "Cercetat intens în anii 1960.", "Considerat o mărturie importantă pentru epoca migrațiilor."],
       en: ["Known for finds from the Chernyakhov culture (3rd-4th centuries AD).", "Contains remains of pit-houses and pottery kilns.", "Extensively researched during the 1960s.", "Regarded as an important testimony to the Migration Period."],
     },
-    imageHint: "Hansca archaeological excavations pottery fragments", image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp"},
+    imageHint: "Hansca archaeological excavations pottery fragments",
+    image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Hansca ist eine der wichtigsten Fundstätten Moldaus, mit Siedlungsspuren, die von der Kupferzeit bis ins hohe Mittelalter reichen.",
+      hu: "Hansca Moldova egyik legfontosabb régészeti lelőhelye, rézkori és késő középkori településnyomokkal egyaránt.",
+      ro: "Hansca este unul dintre cele mai importante situri arheologice din Moldova, cu urme de locuire din epoca cuprului până în evul mediu.",
+      en: "Hansca is one of Moldova's most important archaeological sites, with settlement traces ranging from the Copper Age to the late Middle Ages.",
+    },
+    factsAdvanced: {
+      de: ["Cucuteni-Tripolje Kultur", "Mittelalterliche Stadt (14. Jhd.)", "Über 10 Hektar Ausgrabungen", "Fund von Silberschmuck"],
+      hu: ["Kukuteni-tripoljei kultúra", "14. századi középkori város", "10 hektár feletti ásatás", "Ezüstékszer leletek"],
+      ro: ["Cultura Cucuteni-Tripolie", "Oraș medieval (sec. XIV)", "Peste 10 hectare de săpături", "Tezaure de bijuterii din argint"],
+      en: ["Cucuteni-Tripolye culture", "14th-century medieval town", "Over 10 hectares excavated", "Silver jewelry finds"],
+    },
+  },
   {
     id: "moldova-butuceni-village-history-v2",
     type: "village",
-    name: { de: "Historisches Dorf Butuceni", hu: "Butuceni történelmi falu", ro: "Satul istoric Butuceni", en: "Butuceni Historical Village" },
+    name: { de: "Historisches Dorf Butuceni", hu: "Butuceni történelmi falu", ro: "Satul istoric Butuceni", en: "Butuceni Historical Village",
+image: "/poi-images/moldova-butuceni-village-history-v2.webp"
+},
     coords: [28.966, 47.302],
     coordinates: { lat: 47.302, lng: 28.966 },
     description: {
@@ -423,11 +753,25 @@ export const moldovaHistoryV2: POI[] = [
       en: ["Houses are often decorated with blue lime wash and wood carvings.", "Features several guesthouses showcasing traditional ways of life.", "Located on a narrow peninsula formed by the Răut River.", "Serves as a living ethnographic open-air museum."],
     },
     imageHint: "Butuceni village traditional blue houses",
+    descriptionAdvanced: {
+      de: "Dieses lebendige Freilichtmuseum bewahrt die traditionelle moldauische Architektur und Lebensweise innerhalb des Orheiul-Vechi-Reservats.",
+      hu: "Ez az élő szabadtéri múzeum a hagyományos moldvai építészetet és életmódot őrzi az Orheiul Vechi rezervátum területén.",
+      ro: "Acest muzeu viu în aer liber păstrează arhitectura și modul de viață tradițional moldovenesc în cadrul rezervației Orheiul Vechi.",
+      en: "This living open-air museum preserves traditional Moldavian architecture and lifestyle within the Orheiul Vechi reserve.",
+    },
+    factsAdvanced: {
+      de: ["Traditionelle Reethäuser", "Bunte Steinfassaden", "Bäuerliche Museen im Dorf", "UNESCO-Kandidat-Kulturlandschaft"],
+      hu: ["Hagyományos nádtetős házak", "Színes kőhomlokzatok", "Paraszti múzeumok a faluban", "UNESCO-jelölt kultúrtáj"],
+      ro: ["Case cu acoperiș de stuf", "Fațade din piatră colorată", "Muzee țărănești în sat", "Peisaj cultural candidat UNESCO"],
+      en: ["Traditional thatched houses", "Colorful stone facades", "Peasant museums in the village", "UNESCO candidate landscape"],
+    },
   },
   {
     id: "moldova-chisinau-water-tower-history-v2",
     type: "tower",
-    name: { de: "Wasserturm von Chisinau", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Chisinau Water Tower" },
+    name: { de: "Wasserturm von Chisinau", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Chisinau Water Tower",
+image: "/poi-images/moldova-chisinau-water-tower-history-v2.webp"
+},
     coords: [28.823, 47.019],
     coordinates: { lat: 47.019, lng: 28.823 },
     description: {
@@ -443,5 +787,17 @@ export const moldovaHistoryV2: POI[] = [
       en: ["Built in 1892 based on a design by architect Bernardazzi.", "Was part of the city's first centralized water supply system.", "It is 22 meters high and constructed of stone and brick.", "Offers a panoramic view of the capital from the top floor."],
     },
     imageHint: "Chisinau Water Tower stone and brick building",
+    descriptionAdvanced: {
+      de: "Der Ende des 19. Jahrhunderts vom Architekten Alexander Bernardazzi entworfene Wasserturm ist heute ein Museum für Stadtgeschichte.",
+      hu: "A 19. század végén Alexander Bernardazzi tervei alapján épült víztorony ma a városi történeti múzeumnak ad otthont.",
+      ro: "Turnul de apă, proiectat la sfârșitul secolului XIX de arhitectul Alexander Bernardazzi, este astăzi muzeu al istoriei orașului.",
+      en: "The water tower, designed in the late 19th century by architect Alexander Bernardazzi, now serves as a city history museum.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1892", "22 Meter Höhe", "Stil des Eklektizismus", "Panoramablick über Chișinău"],
+      hu: ["1892-ben épült", "22 méteres magasság", "Eklektikus stílusú épület", "Panorámás kilátás Kisinyovra"],
+      ro: ["Construit în anul 1892", "Înălțime de 22 metri", "Stil eclectic", "Vedere panoramică asupra orașului"],
+      en: ["Built in 1892", "22 meters height", "Eclectic architectural style", "Panoramic view over Chișinău"],
+    },
   }
 ];

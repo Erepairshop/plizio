@@ -1,4 +1,4 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeNatureV2: POI[] = [
@@ -8,8 +8,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
       hu: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
       ro: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
-      en: "The Rio Hondo forms the natural border between Belize and Mexico."
-    },
+      en: "The Rio Hondo forms the natural border between Belize and Mexico.",
+image: "/poi-images/bz-rio-hondo-river-nature-v2.webp"
+},
     facts: {
       de: ["Grenzfluss zu Mexiko", "Nördliches Belize", "Wichtiger Wasserweg"],
       hu: ["Grenzfluss zu Mexiko", "Nördliches Belize", "Wichtiger Wasserweg"],
@@ -43,8 +44,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Sittee River",
       hu: "Sittee-folyó",
       ro: "Râul Sittee",
-      en: "Sittee River"
-    },
+      en: "Sittee River",
+image: "/poi-images/bz-sittee-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Stann Creek District, bekannt für seine reiche Tierwelt.",
       hu: "Folyó a Stann Creek körzetben, gazdag élővilágáról ismert.",
@@ -84,8 +86,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Monkey River",
       hu: "Monkey River (Majom-folyó)",
       ro: "Râul Monkey",
-      en: "Monkey River"
-    },
+      en: "Monkey River",
+image: "/poi-images/bz-monkey-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Süden von Belize, benannt nach den Brüllaffen an seinen Ufern.",
       hu: "Folyó Dél-Belize-ben, a partjain élő bőgőmajmokról nevezték el.",
@@ -125,8 +128,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Victoria Peak",
       hu: "Victoria-csúcs",
       ro: "Vârful Victoria",
-      en: "Victoria Peak"
-    },
+      en: "Victoria Peak",
+image: "/poi-images/bz-victoria-peak-nature-v2.webp"
+},
     description: {
       de: "Der zweithöchste Berg in Belize, Teil der Maya Mountains.",
       hu: "Belize második legmagasabb hegye, a Maja-hegység része.",
@@ -166,8 +170,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Cockscomb Range",
       hu: "Cockscomb-hegység",
       ro: "Lanțul Cockscomb",
-      en: "Cockscomb Range"
-    },
+      en: "Cockscomb Range",
+image: "/poi-images/bz-cockscomb-range-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug innerhalb der Maya Mountains, bekannt für sein Jaguar-Schutzgebiet.",
       hu: "Hegylánc a Maja-hegységen belül, a jaguárvédelmi területéről ismert.",
@@ -207,8 +212,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "New River Lagune",
       hu: "New River-lagúna",
       ro: "Laguna New River",
-      en: "New River Lagoon"
-    },
+      en: "New River Lagoon",
+image: "/poi-images/bz-new-river-lagoon-nature-v2.webp"
+},
     description: {
       de: "Der größte Süßwasserkörper in Belize, der als Tor zu den berühmten Maya-Ruinen von Lamanai dient.",
       hu: "Belize legnagyobb édesvízi állóvize, amely Orange Walk kerületben található és dús vegetáció veszi körül.",
@@ -248,8 +254,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Southern Long Caye",
       hu: "Southern Long Caye",
       ro: "Caye Southern Long",
-      en: "Southern Long Caye"
-    },
+      en: "Southern Long Caye",
+image: "/poi-images/bz-southern-long-caye-nature-v2.webp"
+},
     description: {
       de: "Eine abgelegene Insel am Belize Barrier Reef, die ein Paradies für Schnorchler und Taucher in unberührter Natur ist.",
       hu: "Egy festői korallsziget a Belize-zátony mentén, amely a búvárok és a tengeri élővilág kedvelőinek paradicsoma.",
@@ -289,8 +296,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Chiquibul-Nationalpark",
       hu: "Chiquibul Nemzeti Park",
       ro: "Parcul Național Chiquibul",
-      en: "Chiquibul National Park"
-    },
+      en: "Chiquibul National Park",
+image: "/poi-images/bz-chiquibul-forest-nature-v2.webp"
+},
     description: {
       de: "Der größte Nationalpark von Belize, der riesige tropische Wälder schützt.",
       hu: "Belize legnagyobb nemzeti parkja, hatalmas trópusi erdőket véd.",
@@ -330,8 +338,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Sarstoon-Temash-Nationalpark",
       hu: "Sarstoon-Temash Nemzeti Park",
       ro: "Parcul Național Sarstoon-Temash",
-      en: "Sarstoon-Temash National Park"
-    },
+      en: "Sarstoon-Temash National Park",
+image: "/poi-images/bz-sarstoon-temash-forest-nature-v2.webp"
+},
     description: {
       de: "Ein abgelegener Nationalpark im Süden mit einzigartigen Mangrovenwäldern.",
       hu: "Távoli nemzeti park délen, egyedülálló mangroveerdőkkel.",
@@ -371,8 +380,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Karibisches Meer (Belize)",
       hu: "Karib-tenger (Belize)",
       ro: "Marea Caraibilor (Belize)",
-      en: "Caribbean Sea (Belize)"
-    },
+      en: "Caribbean Sea (Belize)",
+image: "/poi-images/bz-caribbean-sea-nature-v2.webp"
+},
     description: {
       de: "Das kristallklare Gewässer vor der Küste Belizes, das das zweitgrößte Barriereriff der Welt beherbergt.",
       hu: "Az Atlanti-óceánhoz tartozó beltenger, amely Belize teljes keleti partvidékét határolja és meghatározza az ország klímáját.",
@@ -412,8 +422,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Rio Bravo Schutzgebiet",
       hu: "Rio Bravo Védett Terület",
       ro: "Rezervația Rio Bravo",
-      en: "Rio Bravo Conservation Area"
-    },
+      en: "Rio Bravo Conservation Area",
+image: "/poi-images/bz-rio-bravo-forest-nature-v2.webp"
+},
     description: {
       de: "Ein riesiges privates Naturschutzgebiet, das einen Großteil des nordwestlichen Belize bedeckt.",
       hu: "Hatalmas magán természetvédelmi terület, amely Belize északnyugati részének nagy részét lefedi.",
@@ -453,8 +464,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Bladen Naturreservat",
       hu: "Bladen Természetvédelmi Terület",
       ro: "Rezervația Naturală Bladen",
-      en: "Bladen Nature Reserve"
-    },
+      en: "Bladen Nature Reserve",
+image: "/poi-images/bz-bladen-nature-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein streng geschütztes Gebiet, das als Kronjuwel der Schutzgebiete Belizes gilt.",
       hu: "Szigorúan védett terület, amelyet Belize védett területeinek koronaékszereként tartanak számon.",
@@ -494,8 +506,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "South Water Caye",
       hu: "South Water Caye",
       ro: "Insula South Water",
-      en: "South Water Caye"
-    },
+      en: "South Water Caye",
+image: "/poi-images/bz-south-water-caye-nature-v2.webp"
+},
     description: {
       de: "Eine malerische Insel direkt auf dem Barriereriff, Teil eines Meeresschutzgebiets.",
       hu: "Festői sziget közvetlenül a korallzátonyon, egy tengeri rezervátum része.",
@@ -535,8 +548,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Belize River",
       hu: "Belize-folyó",
       ro: "Râul Belize",
-      en: "Belize River"
-    },
+      en: "Belize River",
+image: "/poi-images/bz-belize-river-nature-v2.webp"
+},
     description: {
       de: "Der längste und wichtigste Fluss in Belize, der durch das Zentrum des Landes fließt.",
       hu: "Belize leghosszabb és legfontosabb folyója, amely az ország közepén folyik keresztül.",
@@ -576,8 +590,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Half Moon Caye",
       hu: "Half Moon Caye",
       ro: "Insula Half Moon",
-      en: "Half Moon Caye"
-    },
+      en: "Half Moon Caye",
+image: "/poi-images/bz-half-moon-caye-nature-v2.webp"
+},
     description: {
       de: "Ein Naturdenkmal und die erste als Schutzgebiet ausgewiesene Insel in Belize.",
       hu: "Természeti emlékmű és az első védetté nyilvánított sziget Belize-ben.",
@@ -617,8 +632,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Columbia River Forest Reserve",
       hu: "Columbia River erdőrezervátum",
       ro: "Rezervația Forestieră Columbia River",
-      en: "Columbia River Forest Reserve"
-    },
+      en: "Columbia River Forest Reserve",
+image: "/poi-images/bz-columbia-forest-nature-v2.webp"
+},
     description: {
       de: "Ein großes, weitgehend ungestörtes Waldgebiet im Süden von Belize.",
       hu: "Nagy, nagyrészt háborítatlan erdőterület Belize déli részén.",
@@ -658,8 +674,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Turneffe Atoll",
       hu: "Turneffe-atoll",
       ro: "Atolul Turneffe",
-      en: "Turneffe Atoll"
-    },
+      en: "Turneffe Atoll",
+image: "/poi-images/bz-turneffe-atoll-nature-v2.webp"
+},
     description: {
       de: "Das größte und biologisch vielfältigste Atoll in Belize.",
       hu: "Belize legnagyobb és biológiailag legsokfélébb atollja.",
@@ -699,8 +716,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Sibun River",
       hu: "Sibun-folyó",
       ro: "Râul Sibun",
-      en: "Sibun River"
-    },
+      en: "Sibun River",
+image: "/poi-images/bz-sibun-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der in den Maya Mountains entspringt und nahe Belize City ins Meer mündet.",
       hu: "Folyó, amely a Maja-hegységben ered és Belize City közelében torkollik a tengerbe.",
@@ -740,8 +758,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Manatee Forest Reserve",
       hu: "Manatee erdőrezervátum",
       ro: "Rezervația Forestieră Manatee",
-      en: "Manatee Forest Reserve"
-    },
+      en: "Manatee Forest Reserve",
+image: "/poi-images/bz-manatee-forest-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet, das für seine Manati-Populationen in den Lagunen bekannt ist.",
       hu: "Védett terület, amely a lagúnáiban élő manátusz-populációiról ismert.",
@@ -781,8 +800,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Bacalar Chico Nationalpark",
       hu: "Bacalar Chico Nemzeti Park",
       ro: "Parcul Național Bacalar Chico",
-      en: "Bacalar Chico National Park"
-    },
+      en: "Bacalar Chico National Park",
+image: "/poi-images/bz-bacalar-chico-park-nature-v2.webp"
+},
     description: {
       de: "Ein Nationalpark und Meeresschutzgebiet an der Nordspitze von Ambergris Caye, direkt an der Grenze zu Mexiko.",
       hu: "Tengeri rezervátum az Ambergris Caye északi csücskén, Mexikóval határosan.",
@@ -822,8 +842,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Sapodilla Cayes",
       hu: "Sapodilla Cayes",
       ro: "Insulele Sapodilla",
-      en: "Sapodilla Cayes"
-    },
+      en: "Sapodilla Cayes",
+image: "/poi-images/bz-sapodilla-cayes-nature-v2.webp"
+},
     description: {
       de: "Eine Gruppe von Inseln am südlichsten Ende des Belize Barrier Reefs.",
       hu: "Szigetcsoport a Belize-korallzátony legdélebbi végén.",
@@ -863,8 +884,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Vaca Forest Reserve",
       hu: "Vaca erdőrezervátum",
       ro: "Rezervația Forestieră Vaca",
-      en: "Vaca Forest Reserve"
-    },
+      en: "Vaca Forest Reserve",
+image: "/poi-images/bz-vaca-forest-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Waldreservat westlich von Mountain Pine Ridge, das den Macal River umgibt.",
       hu: "Egy kiterjedt erdőrezervátum Cayo kerület nyugati részén, amely vadregényes tájairól és gazdag élővilágáról ismert.",
@@ -904,8 +926,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Deep River Forest Reserve",
       hu: "Deep River erdőrezervátum",
       ro: "Rezervația Forestieră Deep River",
-      en: "Deep River Forest Reserve"
-    },
+      en: "Deep River Forest Reserve",
+image: "/poi-images/bz-deep-river-forest-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Süden Belizes, das den gleichnamigen Fluss schützt.",
       hu: "Védett terület Dél-Belize-ben, amely az azonos nevű folyót védi.",
@@ -945,8 +968,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Gales Point Halbinsel",
       hu: "Gales Point-félsziget",
       ro: "Peninsula Gales Point",
-      en: "Gales Point Peninsula"
-    },
+      en: "Gales Point Peninsula",
+image: "/poi-images/bz-gales-point-peninsula-nature-v2.webp"
+},
     description: {
       de: "Eine Halbinsel, die für ihr gemeinschaftsbasiertes Manati-Schutzprojekt bekannt ist.",
       hu: "Félsziget, amely a közösségi alapú manátuszvédelmi projektjéről ismert.",
@@ -986,8 +1010,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Aguacaliente Wildlife Sanctuary",
       hu: "Aguacaliente Vadvédelmi Terület",
       ro: "Sanctuarul Aguacaliente",
-      en: "Aguacaliente Wildlife Sanctuary"
-    },
+      en: "Aguacaliente Wildlife Sanctuary",
+image: "/poi-images/bz-aguacaliente-wildlife-sanctuary-nature-v2.webp"
+},
     description: {
       de: "Ein Feuchtgebiet im Toledo District, das für seine heißen Schwefelquellen und die große Anzahl an Zugvögeln bekannt ist.",
       hu: "Vizes élőhely-védelmi terület a Toledo körzetben, fontos a vízimadarak számára.",
@@ -1027,8 +1052,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Moho River",
       hu: "Moho-folyó",
       ro: "Râul Moho",
-      en: "Moho River"
-    },
+      en: "Moho River",
+image: "/poi-images/bz-moho-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Süden von Belize, der bei Punta Gorda ins Meer mündet.",
       hu: "Folyó Dél-Belize-ben, amely Punta Gorda közelében torkollik a tengerbe.",
@@ -1068,8 +1094,9 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Rio Grande (Belize)",
       hu: "Rio Grande (Belize)",
       ro: "Râul Rio Grande (Belize)",
-      en: "Rio Grande (Belize)"
-    },
+      en: "Rio Grande (Belize)",
+image: "/poi-images/bz-rio-grande-river-nature-v2.webp"
+},
     description: {
       de: "Einer der Hauptflüsse im Toledo District, wichtig für die Landwirtschaft.",
       hu: "A Toledo körzet egyik fő folyója, fontos a mezőgazdaság számára.",

@@ -11,8 +11,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Olduvai-Schlucht",
       hu: "Olduvai-szurdok",
       ro: "Cheile Olduvai",
-      en: "Olduvai Gorge"
-    },
+      en: "Olduvai Gorge",
+image: "/poi-images/tz-olduvai-gorge-history-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten paläoanthropologischen Stätten der Welt, die als 'Wiege der Menschheit' bekannt ist.",
       hu: "A világ egyik legfontosabb paleoantropológiai lelőhelye, amelyet 'az emberiség bölcsőjeként' ismernek.",
@@ -47,8 +48,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Stone Town (Sansibar)",
       hu: "Stone Town (Zanzibár)",
       ro: "Stone Town (Zanzibar)",
-      en: "Stone Town of Zanzibar"
-    },
+      en: "Stone Town of Zanzibar",
+image: "/poi-images/tz-stone-town-history-v2.webp"
+},
     description: {
       de: "Das historische Zentrum von Sansibar-Stadt, das für seine reiche Suaheli-Kultur und die einzigartige Architektur aus Korallenstein bekannt ist.",
       hu: "Zanzibár város történelmi központja, amely gazdag szuahéli kultúrájáról és egyedi korallkő építészetéről híres.",
@@ -83,8 +85,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Ruinen von Kilwa Kisiwani",
       hu: "Kilwa Kisiwani romjai",
       ro: "Ruinele din Kilwa Kisiwani",
-      en: "Ruins of Kilwa Kisiwani"
-    },
+      en: "Ruins of Kilwa Kisiwani",
+image: "/poi-images/tz-kilwa-kisiwani-history-v2.webp"
+},
     description: {
       de: "Die Überreste einer bedeutenden islamischen Handelsstadt, die einst den Gold- und Elfenbeinhandel im Indischen Ozean dominierte.",
       hu: "Egy jelentős iszlám kereskedőváros maradványai, amely egykor dominálta az Indiai-óceán arany- és elefántcsont-kereskedelmét.",
@@ -119,8 +122,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Ruinen von Songo Mnara",
       hu: "Songo Mnara romjai",
       ro: "Ruinele Songo Mnara",
-      en: "Ruins of Songo Mnara"
-    },
+      en: "Ruins of Songo Mnara",
+image: "/poi-images/tz-songo-mnara-history-v2.webp"
+},
     description: {
       de: "Die historischen Überreste einer Suaheli-Steinstadt auf der Insel Songo Mnara, die während des 14. und 15. Jahrhunderts florierte.",
       hu: "Egy szuahéli kőváros történelmi maradványai a Songo Mnara szigeten, amely a 14. és 15. században virágzott.",
@@ -155,8 +159,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Historische Stadt Bagamoyo",
       hu: "Bagamoyo történelmi városa",
       ro: "Orașul istoric Bagamoyo",
-      en: "Bagamoyo Historical Town"
-    },
+      en: "Bagamoyo Historical Town",
+image: "/poi-images/tz-bagamoyo-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte Tansanias und ein ehemaliger wichtiger Handelsposten für Sklaven und Elfenbein an der Suaheli-Küste.",
       hu: "Tanzánia egyik legrégebbi városa, és egykori fontos rabszolga- és elefántcsont-kereskedelmi állomás a szuahéli parton.",
@@ -191,8 +196,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Kaole-Ruinen",
       hu: "Kaole romjai",
       ro: "Ruinele Kaole",
-      en: "Kaole Ruins"
-    },
+      en: "Kaole Ruins",
+image: "/poi-images/tz-kaole-ruins-history-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte, die eine persische Siedlung aus dem 13. Jahrhundert beherbergt, einschließlich einer der ältesten Moscheen Ostafrikas.",
       hu: "Régészeti lelőhely, amely egy 13. századi perzsa települést foglal magában, köztük Kelet-Afrika egyik legrégebbi mecsetével.",
@@ -227,8 +233,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Felsbildkunst von Kondoa",
       hu: "Kondoa sziklarajzai",
       ro: "Arta rupestră din Kondoa",
-      en: "Kondoa Rock-Art Sites"
-    },
+      en: "Kondoa Rock-Art Sites",
+image: "/poi-images/tz-kondoa-rock-art-history-v2.webp"
+},
     description: {
       de: "Hunderte von Felsüberhängen mit alten Malereien, die das Leben der Jäger und Sammler über Jahrtausende hinweg dokumentieren.",
       hu: "Több száz sziklaeresz ősi festményekkel, amelyek évezredeken át dokumentálják a vadászó-gyűjtögetők életét.",
@@ -263,8 +270,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Steinzeitliche Stätte Isimila",
       hu: "Isimila kőkorszaki lelőhely",
       ro: "Situl preistoric Isimila",
-      en: "Isimila Stone Age Site"
-    },
+      en: "Isimila Stone Age Site",
+image: "/poi-images/tz-isimila-stone-age-history-v2.webp"
+},
     description: {
       de: "Eine beeindruckende archäologische Stätte mit zahlreichen Faustkeilen aus der Steinzeit, umgeben von dramatischen Sandsteinsäulen.",
       hu: "Lenyűgöző régészeti lelőhely számos kőkorszaki szakócával, drámai homokkőoszlopokkal körülvéve.",
@@ -299,8 +307,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Engaruka-Ruinen",
       hu: "Engaruka romjai",
       ro: "Ruinele Engaruka",
-      en: "Engaruka Ruins"
-    },
+      en: "Engaruka Ruins",
+image: "/poi-images/tz-engaruka-ruins-history-v2.webp"
+},
     description: {
       de: "Die faszinierenden Überreste eines komplexen landwirtschaftlichen Systems und einer Siedlung aus der Eisenzeit im Ostafrikanischen Grabenbruch.",
       hu: "Egy összetett mezőgazdasági rendszer és vaskori település lenyűgöző maradványai a Kelet-afrikai árokban.",
@@ -335,8 +344,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Amboni-Höhlen",
       hu: "Amboni-barlangok történelmi lelőhely",
       ro: "Peșterile istorice Amboni",
-      en: "Amboni Caves Historical Site"
-    },
+      en: "Amboni Caves Historical Site",
+image: "/poi-images/tz-amboni-caves-history-v2.webp"
+},
     description: {
       de: "Das größte Kalksteinhöhlensystem in Ostafrika, das in der Geschichte als Zufluchtsort und für traditionelle Zeremonien genutzt wurde.",
       hu: "Kelet-Afrika legnagyobb mészkőbarlang-rendszere, amelyet a történelem során menedékként és hagyományos szertartásokhoz használtak.",
@@ -371,8 +381,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Tongoni-Ruinen",
       hu: "Tongoni romjai",
       ro: "Ruinele Tongoni",
-      en: "Tongoni Ruins"
-    },
+      en: "Tongoni Ruins",
+image: "/poi-images/tz-tongoni-ruins-history-v2.webp"
+},
     description: {
       de: "Ruinen einer wohlhabenden Suaheli-Handelsstadt aus dem 15. Jahrhundert, südlich von Tanga gelegen.",
       hu: "Egy gazdag, 15. századi szuahéli kereskedőváros romjai Tanga városától délre.",
@@ -407,8 +418,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Historische Stätte Ujiji",
       hu: "Ujiji történelmi helyszín",
       ro: "Situl istoric Ujiji",
-      en: "Ujiji Historical Site"
-    },
+      en: "Ujiji Historical Site",
+image: "/poi-images/tz-ujiji-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte im Westen Tansanias, bekannt als der Ort, an dem sich Henry Morton Stanley und David Livingstone trafen.",
       hu: "Tanzánia nyugati részének egyik legrégebbi városa, amely arról ismert, hogy Henry Morton Stanley és David Livingstone itt találkozott.",
@@ -443,8 +455,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Livingstones Tembe",
       hu: "Livingstone Tembe épülete",
       ro: "Clădirea Tembe a lui Livingstone",
-      en: "Livingstone's Tembe"
-    },
+      en: "Livingstone's Tembe",
+image: "/poi-images/tz-livingstones-tembe-history-v2.webp"
+},
     description: {
       de: "Ein historisches arabisches Haus im Kwihara-Viertel von Tabora, das im 19. Jahrhundert Entdeckern wie Livingstone und Stanley als Stützpunkt diente.",
       hu: "Történelmi arab ház Tabora Kwihara negyedében, amely a 19. században olyan felfedezők támaszpontjaként szolgált, mint Livingstone és Stanley.",
@@ -479,8 +492,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Bismarck-Felsen",
       hu: "Bismarck-szikla történelmi helyszín",
       ro: "Stânca istorică Bismarck",
-      en: "Bismarck Rock Historical Site"
-    },
+      en: "Bismarck Rock Historical Site",
+image: "/poi-images/tz-bismarck-rock-history-v2.webp"
+},
     description: {
       de: "Eine ikonische Felsformation im Victoriasee bei Mwanza, benannt nach dem deutschen Kanzler Otto von Bismarck während der Kolonialzeit.",
       hu: "Ikonikus sziklaképződmény a Viktória-tóban, Mwanza közelében, amelyet Otto von Bismarck német kancellárról neveztek el a gyarmati időkben.",
@@ -515,8 +529,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Historische Stadt Mikindani",
       hu: "Mikindani történelmi városa",
       ro: "Orașul istoric Mikindani",
-      en: "Mikindani Historical Town"
-    },
+      en: "Mikindani Historical Town",
+image: "/poi-images/tz-mikindani-town-history-v2.webp"
+},
     description: {
       de: "Eine charmante Küstenstadt im Süden Tansanias mit gut erhaltener kolonialer und omanisch-arabischer Architektur.",
       hu: "Bájos tengerparti város Tanzánia déli részén, jól megőrzött gyarmati és ománi-arab építészettel.",
@@ -551,8 +566,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Ndagoni-Ruinen",
       hu: "Ndagoni romjai",
       ro: "Ruinele Ndagoni",
-      en: "Ndagoni Ruins"
-    },
+      en: "Ndagoni Ruins",
+image: "/poi-images/tz-ndagoni-ruins-history-v2.webp"
+},
     description: {
       de: "Historische Überreste auf der Insel Pemba, die auf eine Siedlung aus dem 14. Jahrhundert zurückgehen und die alte Suaheli-Zivilisation zeigen.",
       hu: "Történelmi maradványok Pemba szigetén, amelyek egy 14. századi településig nyúlnak vissza, és a régi szuahéli civilizációt mutatják be.",
@@ -587,8 +603,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Mkama Ndume-Ruinen",
       hu: "Mkama Ndume romjai",
       ro: "Ruinele Mkama Ndume",
-      en: "Mkama Ndume Ruins"
-    },
+      en: "Mkama Ndume Ruins",
+image: "/poi-images/tz-mkama-ndume-history-v2.webp"
+},
     description: {
       de: "Die Ruinen einer mächtigen Festung auf Pemba, die im 15. Jahrhundert erbaut wurde und von einer komplexen Herrschaftsgeschichte zeugt.",
       hu: "Egy erős erőd romjai Pembán, amely a 15. században épült, és az uralkodás összetett történetéről tanúskodik.",
@@ -623,8 +640,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Ras Mkumbuu-Ruinen",
       hu: "Ras Mkumbuu romjai",
       ro: "Ruinele Ras Mkumbuu",
-      en: "Ras Mkumbuu Ruins"
-    },
+      en: "Ras Mkumbuu Ruins",
+image: "/poi-images/tz-ras-mkumbuu-history-v2.webp"
+},
     description: {
       de: "Bedeutende Ruinen einer alten Shirazi-Siedlung aus dem 11. Jahrhundert auf der Ndagoni-Halbinsel von Pemba.",
       hu: "Egy 11. századi ősi siráz település jelentős romjai Pemba Ndagoni-félszigetén.",
@@ -659,8 +677,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Kisimani Mafia",
       hu: "Kisimani történelmi falu",
       ro: "Satul istoric Kisimani",
-      en: "Kisimani Mafia Historical Village"
-    },
+      en: "Kisimani Mafia Historical Village",
+image: "/poi-images/tz-kisimani-mafia-history-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte auf der Mafia-Insel, die Reste einer antiken Handelsstadt aus dem 11. Jahrhundert umfasst, die heute teilweise versunken ist.",
       hu: "Régészeti lelőhely a Mafia-szigeten, amely egy 11. századi ősi kereskedőváros maradványait foglalja magában, amely ma részben elsüllyedt.",
@@ -695,8 +714,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Kua-Ruinen",
       hu: "Kua ősi romjai",
       ro: "Ruinele antice Kua",
-      en: "Ancient Ruins of Kua"
-    },
+      en: "Ancient Ruins of Kua",
+image: "/poi-images/tz-kua-ruins-history-v2.webp"
+},
     description: {
       de: "Die Überreste einer mittelalterlichen Stadt auf der Insel Juani, die für ihre Paläste und Moscheen bekannt war.",
       hu: "Egy középkori város maradványai a Juani-szigeten, amely palotáiról és mecseteiről volt ismert.",
@@ -731,8 +751,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Chole-Ruinen",
       hu: "Chole-sziget történelmi romjai",
       ro: "Ruinele istorice ale insulei Chole",
-      en: "Historical Ruins of Chole Island"
-    },
+      en: "Historical Ruins of Chole Island",
+image: "/poi-images/tz-chole-ruins-history-v2.webp"
+},
     description: {
       de: "Historische Gebäude und von Feigenbäumen überwucherte Ruinen aus dem 19. Jahrhundert auf der kleinen Insel Chole.",
       hu: "Történelmi épületek és fügefákkal benőtt 19. századi romok a kis Chole szigeten.",
@@ -767,8 +788,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Maji-Maji-Denkmal",
       hu: "Maji-Maji emlékmű",
       ro: "Monumentul Maji Maji",
-      en: "Maji Maji Rebellion Memorial"
-    },
+      en: "Maji Maji Rebellion Memorial",
+image: "/poi-images/tz-maji-maji-memorial-history-v2.webp"
+},
     description: {
       de: "Eine Gedenkstätte und ein Museum in Songea, die den gefallenen Anführern des Maji-Maji-Aufstands gegen die deutsche Kolonialherrschaft gewidmet sind.",
       hu: "Emlékmű és múzeum Songea városában, amelyet a német gyarmati uralom elleni Maji-Maji felkelés elesett vezetőinek szenteltek.",
@@ -803,8 +825,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Askari-Monument",
       hu: "Askari emlékmű",
       ro: "Monumentul Askari",
-      en: "Askari Monument"
-    },
+      en: "Askari Monument",
+image: "/poi-images/tz-askari-monument-history-v2.webp"
+},
     description: {
       de: "Eine Bronzestatue im Zentrum von Daressalam, die den afrikanischen Soldaten gewidmet ist, die im Ersten Weltkrieg auf Seiten der Briten kämpften.",
       hu: "Bronzszobor Dar es Salaam központjában, amelyet az első világháborúban a britek oldalán harcoló afrikai katonáknak szenteltek.",
@@ -839,8 +862,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Nationalmuseum von Tansania",
       hu: "Tanzánia Nemzeti Múzeuma",
       ro: "Muzeul Național al Tanzaniei",
-      en: "National Museum of Tanzania"
-    },
+      en: "National Museum of Tanzania",
+image: "/poi-images/tz-national-museum-history-v2.webp"
+},
     description: {
       de: "Das größte Museum des Landes, das bedeutende fossile Funde der menschlichen Evolution sowie Zeugnisse der kolonialen und vorkolonialen Geschichte ausstellt.",
       hu: "Az ország legnagyobb múzeuma, amely az emberi evolúció jelentős fosszilis leleteit, valamint a gyarmati és a gyarmatosítás előtti történelem bizonyítékait állítja ki.",
@@ -875,8 +899,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Altes Fort von Sansibar",
       hu: "Zanzibári Öreg Erőd",
       ro: "Vechiul Fort din Zanzibar",
-      en: "Old Fort of Zanzibar"
-    },
+      en: "Old Fort of Zanzibar",
+image: "/poi-images/tz-old-fort-zanzibar-history-v2.webp"
+},
     description: {
       de: "Die älteste noch erhaltene Struktur in Stone Town, die von omanischen Arabern erbaut wurde, um sich gegen die Portugiesen zu verteidigen.",
       hu: "A legrégebbi fennmaradt építmény Stone Townban, amelyet az ománi arabok építettek a portugálok elleni védekezésül.",
@@ -911,8 +936,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Haus der Wunder (Beit al-Ajaib)",
       hu: "Csodák Háza (Beit al-Ajaib)",
       ro: "Casa Minunilor (Beit al-Ajaib)",
-      en: "House of Wonders (Beit al-Ajaib)"
-    },
+      en: "House of Wonders (Beit al-Ajaib)",
+image: "/poi-images/tz-house-of-wonders-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliger Palast des Sultans in Sansibar, bekannt als das höchste Gebäude in Stone Town und das erste in Ostafrika mit Strom und Aufzug.",
       hu: "Egykori szultáni palota Zanzibárban, amely Stone Town legmagasabb épületeként, valamint Kelet-Afrika első villannyal és lifttel rendelkező épületeként ismert.",
@@ -947,8 +973,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Maruhubi-Palastruinen",
       hu: "Maruhubi palota romjai",
       ro: "Ruinele palatului Maruhubi",
-      en: "Maruhubi Palace Ruins"
-    },
+      en: "Maruhubi Palace Ruins",
+image: "/poi-images/tz-maruhubi-palace-history-v2.webp"
+},
     description: {
       de: "Die Überreste eines großen Palastes auf Sansibar, der für die Konkubinen des Sultans Barghash bin Said im 19. Jahrhundert erbaut wurde.",
       hu: "Egy nagy zanzibári palota maradványai, amelyet Barghash bin Said szultán ágyasai számára építettek a 19. században.",
@@ -983,8 +1010,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Mtoni-Palastruinen",
       hu: "Mtoni palota romjai",
       ro: "Ruinele palatului Mtoni",
-      en: "Mtoni Palace Ruins"
-    },
+      en: "Mtoni Palace Ruins",
+image: "/poi-images/tz-mtoni-palace-history-v2.webp"
+},
     description: {
       de: "Die ältesten Palastruinen in Sansibar, erbaut in den 1820er Jahren für Sultan Seyyid Said und beschrieben in den Memoiren seiner Tochter, Prinzessin Salme.",
       hu: "Zanzibár legrégebbi palotaromjai, amelyek az 1820-as években épültek Seyyid Said szultán számára, és lánya, Salme hercegnő emlékirataiból ismertek.",
@@ -1019,8 +1047,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Kizimkazi-Moschee",
       hu: "Kizimkazi történelmi mecset",
       ro: "Moscheea istorică Kizimkazi",
-      en: "Kizimkazi Historical Mosque"
-    },
+      en: "Kizimkazi Historical Mosque",
+image: "/poi-images/tz-kizimkazi-mosque-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten islamischen Stätten in Ostafrika, gelegen an der Südspitze von Sansibar, die noch heute genutzt wird.",
       hu: "Kelet-Afrika egyik legrégebbi iszlám szentélye, Zanzibár déli csücskén, amelyet még ma is használnak.",
@@ -1055,8 +1084,9 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       de: "Mangapwani-Sklavenhöhlen",
       hu: "Mangapwani rabszolgabarlangok",
       ro: "Peșterile sclavilor din Mangapwani",
-      en: "Mangapwani Slave Caves"
-    },
+      en: "Mangapwani Slave Caves",
+image: "/poi-images/tz-mangapwani-caves-history-v2.webp"
+},
     description: {
       de: "Natürliche und künstlich angelegte Höhlen auf Sansibar, die im 19. Jahrhundert als geheimes Versteck für Sklaven dienten, nachdem der offene Sklavenhandel verboten wurde.",
       hu: "Természetes és mesterséges barlangok Zanzibáron, amelyek a 19. században a rabszolgák titkos rejtekhelyeként szolgáltak, miután a nyílt rabszolga-kereskedelmet betiltották.",

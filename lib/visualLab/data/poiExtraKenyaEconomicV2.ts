@@ -11,8 +11,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Hafen von Mombasa",
       hu: "Mombasa kikötője",
       ro: "Portul Mombasa",
-      en: "Port of Mombasa"
-    },
+      en: "Port of Mombasa",
+image: "/poi-images/mombasa-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Mombasa (Kilindini Harbour) ist das absolute logistische Herzstück Ostafrikas und Kenias mit Abstand wichtigstes wirtschaftliches Asset. Er ist der größte und geschäftigste Tiefseehafen an der ostafrikanischen Küste und dient nicht nur als primäres Tor für kenianische Im- und Exporte (wie Tee und Kaffee), sondern auch als unersetzlicher Transitpunkt für Binnenstaaten wie Uganda, Ruanda, Burundi und den Ostkongo. Der Hafen wird von der staatlichen Kenya Ports Authority (KPA) betrieben und wurde in den letzten Jahren durch massive Investitionen in neue Containerterminals und die Anbindung an die Standard Gauge Railway (SGR) drastisch modernisiert. Er ist der Motor der regionalen Lieferketten und ein Garant für tausende Arbeitsplätze (Wirtschaft K8).",
       hu: "A Mombasai Kikötő Kelet-Afrika legnagyobb és legforgalmasabb mélyvízi tengeri kikötője, az egész régió gazdasági ütőere. Nem csupán Kenya import- és exportforgalmát kezeli, hanem az úgynevezett Északi Folyosón (Northern Corridor) keresztül Ugandát, Ruandát, Burundit, Kelet-Kongót és Dél-Szudánt is ellátja tengeri áruval. A modernizált konténerterminálok és az új SGR (Standard Gauge Railway) vasúti összeköttetés révén a kikötő kulcsszerepet játszik Afrika globális kereskedelmében. (Földrajz K8 — globális logisztika és tengeri kereskedelem)",
@@ -44,8 +45,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Hafen von Kisumu",
       hu: "Kisumu kikötője",
       ro: "Portul Kisumu",
-      en: "Port of Kisumu"
-    },
+      en: "Port of Kisumu",
+image: "/poi-images/kisumu-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Binnenhafen von Kisumu am Viktoriasee ist von enormer strategischer Bedeutung für die East African Community (EAC). Er wurde 1901 als Endpunkt der Uganda-Eisenbahn (Port Florence) gegründet, um den Handel zwischen dem Binnenland und der Küste zu erleichtern. Nach Jahrzehnten des Verfalls wurde der Hafen kürzlich umfassend renoviert und wiedereröffnet, um den Seehandel mit Mwanza (Tansania) und Port Bell (Uganda) wiederzubeleben. Der Hafen schlägt hauptsächlich Treibstoffe, landwirtschaftliche Güter und Stückgut um. Durch den Ausbau von Fährverbindungen und den Bau einer neuen Öl-Verladeanlage soll der Kisumu Port die Transportkosten innerhalb der Region drastisch senken und die Abhängigkeit vom reinen Straßenverkehr verringern (Wirtschaft K8).",
       hu: "A Kisumu Kikötő a Viktória-tó legfontosabb belföldi kikötője Kenyai oldalon, amely stratégiai összeköttetést biztosít Uganda és Tanzánia felé. A brit gyarmati időkben épült, mint az Ugandai Vasút végállomása, hogy biztosítsa a tóvidéki áruk tengerhez juttatását. Bár a 20. század végén jelentősége visszaesett, egy nemrégiben lezajlott masszív állami felújítás újraélesztette. Jelenleg kompok és teherhajók szállítanak itt olajat, mezőgazdasági termékeket és iparcikkeket a szomszédos országokba. (Földrajz K7 — tavi közlekedés és régiós kereskedelem)",
@@ -77,8 +79,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Lamu-Hafen (LAPSSET)",
       hu: "Lamu kikötő (LAPSSET)",
       ro: "Portul Lamu (LAPSSET)",
-      en: "Lamu Port (LAPSSET)"
-    },
+      en: "Lamu Port (LAPSSET)",
+image: "/poi-images/lamu-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Lamu ist das Kernstück des gigantischen LAPSSET-Projekts (Lamu Port-South Sudan-Ethiopia Transport Corridor), des ehrgeizigsten Infrastrukturvorhabens in der Geschichte Kenias. Gelegen an der Manda-Bucht im Norden des Landes, wurde der Hafen als extrem tiefer Seehafen konzipiert, der in der Lage ist, Post-Panamax-Schiffe abzufertigen, die für den alten Hafen von Mombasa zu groß sind. Die ersten Liegeplätze wurden 2021 offiziell in Betrieb genommen. Ziel des Hafens ist es, einen völlig neuen Transportkorridor zu schaffen, der die wirtschaftliche Isolation Nordkenias beendet und als primärer Umschlagplatz für Exporte aus Äthiopien und dem Südsudan (insbesondere Erdöl) fungiert. Dieses Mega-Projekt soll die ostafrikanische Logistikkarte völlig neu zeichnen (Wirtschaft & Geografie K8).",
       hu: "A Lamu Kikötő egy hatalmas, új építésű mélyvízi kikötő Észak-Kenyában, amely a gigantikus LAPSSET (Lamu Port-South Sudan-Ethiopia-Transport) korridor projekt kulcseleme. A cél az, hogy csökkentsék a Mombasai Kikötő túlterheltségét, és megnyissák Kenya elmaradott északi régióit a nemzetközi kereskedelem, különösen az etióp és dél-szudáni olajexport előtt. A 2021-ben megnyitott első mólók hatalmas konténerhajók fogadására alkalmasak, megváltoztatva az ezeréves szuahéli városkép tágabb környezetét. (Földrajz K8 — mega-infrastruktúra és gazdaságfejlesztés)",
@@ -110,8 +113,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Exportproduktionszone Athi River",
       hu: "Athi River Exportfeldolgozó Zóna",
       ro: "Zona de Procesare a Exportului Athi River",
-      en: "Athi River Export Processing Zone"
-    },
+      en: "Athi River Export Processing Zone",
+image: "/poi-images/athi-river-epz-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Export Processing Zone (EPZ) in Athi River, Machakos County, ist Kenias größtes Zentrum für die exportorientierte Fertigungsindustrie. Die 1990 gegründete Sonderwirtschaftszone bietet internationalen und lokalen Investoren massive steuerliche Anreize, wie jahrelange Steuerbefreiungen und zollfreien Import von Rohstoffen. Tausende von Arbeitern, überwiegend Frauen, sind hier in riesigen Textil- und Bekleidungsfabriken beschäftigt. Die produzierten Kleidungsstücke (darunter Markenkleidung für den US- und europäischen Markt) werden größtenteils im Rahmen des AGOA-Abkommens (African Growth and Opportunity Act) zollfrei in die USA exportiert. Die EPZ Athi River ist das Paradebeispiel für Kenias Bemühungen, sich von einem Agrarstaat zu einem Industrieland zu entwickeln (Wirtschaft & Politik K8).",
       hu: "Az Athi River Exportfeldolgozó Övezet (EPZ) Kenya iparosításának egyik legfontosabb motorja, Nairobitól mindössze 30 kilométerre. A kormány által létrehozott különleges gazdasági zónában tucatnyi nemzetközi vállalat működik adókedvezmények és kiváló infrastruktúra mellett. A fő fókusz a textil- és ruhaiparon van; az itt gyártott ruházati cikkek jelentős részét az Egyesült Államokba exportálják az AGOA (Afrikai Növekedési és Lehetőség Törvény) keretében. Emellett élelmiszer- és gyógyszeripari cégek is helyet kaptak itt. (Földrajz K8 — globális ellátási láncok és textilipar)",
@@ -143,8 +147,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Magadi Soda-Fabrik",
       hu: "Magadi Szódaüzem",
       ro: "Fabrica de Sodă Magadi",
-      en: "Magadi Soda Ash Plant"
-    },
+      en: "Magadi Soda Ash Plant",
+image: "/poi-images/magadi-soda-ash-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Am Ufer des extrem heißen und salzigen Lake Magadi im südlichen Rift Valley befindet sich Kenias größtes Bergbauunternehmen, die Tata Chemicals Magadi (früher Magadi Soda Company). Seit 1911 wird hier im industriellen Maßstab Trona (Natriumsesquicarbonat) abgebaut, aus dem Soda-Asche (Natriumcarbonat) gewonnen wird. Diese Soda-Asche ist ein entscheidender Rohstoff für die globale Glas-, Papier- und Waschmittelindustrie. Lake Magadi ist einzigartig, da sich das Trona durch geothermische Quellen und extreme Verdunstung ständig auf natürliche Weise regeneriert. Das Unternehmen ist der größte Produzent von natürlicher Soda-Asche in Afrika und transportiert das Mineral über eine eigene, 1915 gebaute Eisenbahnstrecke zum Hafen von Mombasa für den weltweiten Export (Wirtschaft & Chemie K8).",
       hu: "A Magadi-tónál működő szódahamu (nátrium-karbonát) üzem Afrika egyik legfontosabb bányászati és vegyipari létesítménye. A Nagy-hasadékvölgy legdélibb, rendkívül forró kenyai részén fekvő lúgos tó természetes úton, folyamatosan termeli a tróna ásványt. A több mint száz éve alapított (ma Tata Chemicals tulajdonú) vállalat a tó felszínéről kotorja le az ásványt, majd ipari szódahamuvá tisztítja, ami az üveggyártás alapvető nyersanyaga világszerte. (Természetismeret K7 — lúgos tavak és vegyipar)",
@@ -176,8 +181,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Geothermiekraftwerk Olkaria",
       hu: "Olkaria Geotermikus Erőmű",
       ro: "Centrala Geotermală Olkaria",
-      en: "Olkaria Geothermal Power Station"
-    },
+      en: "Olkaria Geothermal Power Station",
+image: "/poi-images/ol-karia-geothermal-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Olkaria-Geothermiekraftwerk südlich des Naivasha-Sees ist der Stolz des kenianischen Energiesektors und macht das Land zu einem globalen Vorreiter in erneuerbaren Energien. Gelegen im vulkanisch hochaktiven Hell's-Gate-Nationalpark, nutzt die von der KenGen (Kenya Electricity Generating Company) betriebene Anlage den heißen Dampf aus der Erdkruste, um riesige Turbinen anzutreiben. Kenia ist das erste Land in Afrika, das Geothermie kommerziell nutzt, beginnend mit Olkaria I im Jahr 1981. Heute liefert der stetig wachsende Olkaria-Komplex fast die Hälfte des gesamten kenianischen Strombedarfs. Diese grundlastfähige, saubere Energie ist extrem zuverlässig und schützt Kenia vor Stromausfällen, die durch Dürren in Wasserkraftwerken verursacht werden (Technik & Physik K8).",
       hu: "Az Olkaria Geotermikus Erőmű komplexum Kenya energiastratégiájának koronaékszere, a Pokol Kapuja Nemzeti Park lenyűgöző tájába ágyazva, Naivasha közelében. Kenya volt az első afrikai ország, amely elkezdte kiaknázni a Nagy-hasadékvölgy vékony földkérgéből származó vulkáni hőt. Az itt található, gőzt okádó kutak hajtják meg azokat a turbinákat, amelyek az ország teljes villamosenergia-igényének közel felét biztosítják, ezzel Kenyát globális vezetővé téve a zöld energia terén. (Földrajz K8 — megújuló energia és vulkanizmus)",
@@ -209,8 +215,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Del Monte Ananas-Fabrik Thika",
       hu: "Del Monte Ananászüzem Thika",
       ro: "Fabrica de Ananas Del Monte Thika",
-      en: "Del Monte Pineapple Cannery Thika"
-    },
+      en: "Del Monte Pineapple Cannery Thika",
+image: "/poi-images/thika-pineapple-cannery-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die riesige Ananas-Konservenfabrik in Thika, betrieben von Del Monte Kenya, ist das unübersehbare Wahrzeichen der landwirtschaftlichen Verarbeitung in dieser Region. Die Fabrik liegt inmitten einer gigantischen Plantage von über 4.000 Hektar, die die Hügel um Thika in ein endloses Meer aus Stachelpflanzen verwandelt. Del Monte Kenya ist der größte Exporteur von kenianischen Ananasprodukten; das Unternehmen verarbeitet täglich Tausende Tonnen frischer Früchte zu Konservenringen, Säften und Konzentraten, die primär nach Europa und in den Nahen Osten exportiert werden. Die Fabrik ist ein massiver Arbeitgeber und ein perfektes Beispiel für vertikale Integration, bei der Anbau, Ernte, Verarbeitung und Verpackung hochgradig effizient an einem einzigen Standort erfolgen (Wirtschaft & Biologie K7).",
       hu: "A Thika város határában elterülő Del Monte ananászfeldolgozó és a hozzá tartozó hatalmas ültetvény Kenya élelmiszer-feldolgozó iparának egyik zászlóshajója. A több ezer hektáros, precízen megművelt földeken termesztett ananászt a helyszínen lévő gyárban azonnal feldolgozzák – szeletelik, konzerválják vagy ivólének préselik. Az itt előállított termékek túlnyomó részét Európába és a Közel-Keletre exportálják. Az ültetvény mérete lenyűgöző: a Nairobi-Thika autópályáról kilométereken át csak az ananászmezők láthatók. (Földrajz K6 — nagyüzemi mezőgazdaság és konzervipar)",
@@ -242,8 +249,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Zementfabrik Bamburi",
       hu: "Bamburi Cementgyár",
       ro: "Fabrica de Ciment Bamburi",
-      en: "Bamburi Cement Factory"
-    },
+      en: "Bamburi Cement Factory",
+image: "/poi-images/bamburi-cement-factory-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Bamburi Cement Fabrik in Mombasa, ein Tochterunternehmen des globalen Baustoffgiganten Holcim, ist das größte Zementwerk in der gesamten ostafrikanischen Region. Gegründet 1951 vom visionären Felix Mandl, nutzt die Anlage die massiven, prähistorischen Korallenkalkstein-Vorkommen an der kenianischen Küste, um hochwertigen Zement herzustellen. Die Fabrik hat das Wachstum unzähliger Infrastrukturprojekte in Kenia und den Nachbarländern buchstäblich zementiert. Ein weltweit einzigartiges Merkmal dieses Unternehmens ist der angrenzende Haller Park: Bamburi Cement renaturierte hier eine komplett zerstörte, stillgelegte Kalksteinmine und verwandelte sie in einen üppigen ökologischen Park mit Wald, Seen und Wildtieren – ein Meisterwerk der ökologischen Rehabilitation (Wirtschaft & Ökologie K8).",
       hu: "A Mombasától északra működő Bamburi Cementgyár Kelet-Afrika legnagyobb építőanyag-gyártó létesítménye. Az 1950-es években alapított vállalat a partmenti gazdag mészkő- és korallkő-lelőhelyeket aknázza ki. A gyár nem csak az ipari teljesítményéről ismert: a kimerült bányagödröket a világon egyedülálló módon ökológiai parkká (Haller Park) rehabilitálták, amely ma zsiráfok, vízilovak és ritka növények otthona, bemutatva az ipar és a természetvédelem lehetséges együttélését. (Földrajz K7 — építőipar és tájrehabilitáció)",
@@ -275,8 +283,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Pan Paper Mills Webuye",
       hu: "Pan Paper Mills Webuye",
       ro: "Fabrica de Hârtie Pan Paper Webuye",
-      en: "Pan Paper Mills Webuye"
-    },
+      en: "Pan Paper Mills Webuye",
+image: "/poi-images/webuye-panpaper-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Pan African Paper Mills (Panpaper) in Webuye, Westkenia, war einst das größte industrielle Vorzeigeprojekt des Landes. Gegründet 1974, verwandelte die Fabrik Webuye in eine florierende Stadt, indem sie Tausende Arbeiter beschäftigte und den gesamten Papierbedarf Kenias sowie vieler ostafrikanischer Nachbarn deckte. Die Anlage wurde durch eine internationale Kooperation, unter anderem mit der Weltbank und indischen Investoren, errichtet. Sie bezog ihr Rohholz aus den riesigen staatlichen Waldgebieten. Nach jahrzehntelangem Erfolg zwangen jedoch Missmanagement, massive Stromkosten und veraltete Technologie die Fabrik 2009 zur Schließung, was Webuye in eine schwere Krise stürzte. Trotz mehrfacher Wiederbelebungsversuche bleibt Panpaper ein Symbol für Aufstieg und Fall afrikanischer Großindustrie (Geschichte & Wirtschaft K8).",
       hu: "A Webuye Pan Paper Mills (hivatalos nevén Pan African Paper Mills) a kenyai ipartörténet egy meghatározó, bár hányatott sorsú szimbóluma. Az 1970-es években indult állami és nemzetközi beruházásként, hogy az országot önellátóvá tegye papírból és csomagolóanyagokból. Évtizedekig ez volt a Nyugat-Kenyai régió legnagyobb munkáltatója, és ehhez igazodva hatalmas faültetvényeket hoztak létre a környéken. Noha hosszú évekre bezárt gazdasági okok miatt, a közelmúltban egy magánbefektető Rai Paper néven újraindította a termelést. (Történelem K8 — iparosítás és privatizáció)",
@@ -308,8 +317,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Zuckerfabrik Muhoroni",
       hu: "Muhoroni Cukorgyár",
       ro: "Fabrica de Zahăr Muhoroni",
-      en: "Muhoroni Sugar Factory"
-    },
+      en: "Muhoroni Sugar Factory",
+image: "/poi-images/muhoroni-sugar-factory-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Muhoroni Sugar Company, gelegen im Kisumu County am Rande des Nyando-Tals, ist eine der ältesten Zuckerfabriken Kenias. Sie wurde 1966 als staatliches Unternehmen gegründet, um die sozioökonomische Entwicklung der Luo- und Kalenjin-Gemeinschaften in Westkenia durch Vertragslandwirtschaft (Outgrower-Modelle) zu fördern. Über Jahrzehnte hinweg war die Fabrik der Lebensnerv für Zehntausende von Kleinbauern, die ihr Zuckerrohr an die Mühle lieferten. Wie viele staatliche Zuckerfabriken in Kenia litt jedoch auch Muhoroni in den letzten Jahrzehnten unter veralteten Maschinen, finanziellen Krisen und Importen von billigem Zucker, was zu häufiger Zwangsverwaltung (Receivership) führte. Die Rettung und Privatisierung der Anlage ist ein ständiges politisches Thema in Kenia (Wirtschaft K8).",
       hu: "A Muhoroni Cukorgyár a Kisumu megyei cukoröv (sugar belt) egyik történelmi alapköve. Az 1960-as évek végén hozták létre azzal a céllal, hogy a helyi kistermelők által megtermelt cukornádat felvásárolja és finomított cukorrá dolgozza fel. Bár a gyár régi technológiája és pénzügyi nehézségei miatt sokszor küzd a modernizáció hiányával, továbbra is több tízezer környékbeli család (főleg a luo és nandi gazdák) megélhetésének központja a Nyando-folyó medencéjében. (Földrajz K6 — agráripar és állami vállalatok)",
@@ -341,8 +351,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Kenyatta International Convention Centre (Wirtschaftszentrum)",
       hu: "Kenyatta Nemzetközi Kongresszusi Központ (Üzleti központ)",
       ro: "Kenyatta International Convention Centre (Centru de afaceri)",
-      en: "Kenyatta International Convention Centre (Business Hub)"
-    },
+      en: "Kenyatta International Convention Centre (Business Hub)",
+image: "/poi-images/kenyatta-international-convention-centre-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Kenyatta International Convention Centre (KICC) ist nicht nur ein architektonisches Wahrzeichen von Nairobi, sondern das wichtigste Zentrum für Geschäftstourismus, Konferenzen und Diplomatie in Ostafrika. Der von dem norwegischen Architekten Karl Henrik Nøstvik entworfene und 1973 fertiggestellte zylindrische Turm mit seinem markanten Amphitheater war das erste afrikanische Gebäude, das mit einem Hubschrauberlandeplatz auf dem Dach ausgestattet war. Als Symbol für das moderne, unabhängige Kenia beherbergt das KICC hochrangige UN-Gipfel, internationale Handelsmessen und afrikanische Regierungstreffen. Die Konferenzwirtschaft bringt jährlich Millionen von Dollar an Devisen ein und füllt die Hotels und Dienstleistungssektoren der Hauptstadt. Das KICC repräsentiert die wirtschaftliche und diplomatische Macht Kenias in Afrika (Wirtschaft & Geschichte K7).",
       hu: "A Kenyatta Nemzetközi Konferencia Központ (KICC) több mint egy építészeti mérföldkő; Nairobi gazdasági és diplomáciai központjának szíve. Az 1973-ban átadott, egyedi hengeres toronnyal rendelkező épület volt sokáig Kelet-Afrika legmagasabb felhőkarcolója. Évtizedek óta ad otthont az ENSZ konferenciáinak, nemzetközi üzleti csúcstalálkozóknak és afrikai gazdasági fórumoknak. A KICC a MICE (Meetings, Incentives, Conferences, Exhibitions) turizmus révén dollármilliókat generál a város szállodai és szolgáltató szektorának. (Földrajz K8 — üzleti turizmus és konferenciaközpontok)",
@@ -374,8 +385,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Textilfabrik Eldoret (Rivatex)",
       hu: "Eldoret Textilgyár (Rivatex)",
       ro: "Fabrica de Textile Eldoret (Rivatex)",
-      en: "Eldoret Textile Mills (Rivatex)"
-    },
+      en: "Eldoret Textile Mills (Rivatex)",
+image: "/poi-images/eldoret-textile-mills-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Rivatex (Rift Valley Textiles) in Eldoret ist ein Symbol für das industrielle Erbe und die Revitalisierung Kenias. Gegründet 1975, wuchs die Fabrik schnell zur größten vollintegrierten Textilfabrik Ostafrikas heran, die kenianische Baumwolle in hochwertige Stoffe für den nationalen und internationalen Markt verarbeitete. In den 1990er Jahren brach die Industrie durch die Überschwemmung des Marktes mit billiger Second-Hand-Kleidung (Mitumba) zusammen, was zur Schließung von Rivatex führte. Im Jahr 2007 wurde das Werk von der Moi University übernommen. Dank massiver indischer Kreditfinanzierungen wurde die Fabrik hochmodernisiert neu eröffnet. Heute produziert Rivatex hochmoderne Textilien, stattet die kenianische Armee und Polizei aus und belebt den lokalen Baumwollanbau (Wirtschaft K8).",
       hu: "Az Eldoret Textile Mills, közismert nevén a Rivatex, a kenyai textilipar egyik legfontosabb sikertörténete az elmúlt években. Bár a gyár hosszú évekre leállt, a Moi Egyetem és a kenyai kormány megmentette, és mára Kelet-Afrika egyik legmodernebb textil- és ruházati üzemévé fejlesztette. A gyár jelentős szerepet játszik a \"Vásárolj Kenyait, Építsd Kenyát\" (Buy Kenya, Build Kenya) kampányban: itt készítik a rendőrség, a hadsereg egyenruháit, valamint rengeteg hazai pamutruházatot, fellendítve ezzel a régió gyapottermelését is. (Földrajz K7 — pamutipar és újjáélesztés)",
@@ -407,8 +419,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Erdölfelder von Turkana (Ngamia)",
       hu: "Turkana Olajmezők (Ngamia)",
       ro: "Câmpurile Petroliere Turkana (Ngamia)",
-      en: "Turkana Oil Fields (Ngamia)"
-    },
+      en: "Turkana Oil Fields (Ngamia)",
+image: "/poi-images/turkana-oil-fields-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Lokichar-Ölfelder im Turkana County haben das Potenzial, Kenias wirtschaftliche Zukunft dramatisch zu verändern. Im Jahr 2012 machte das britische Unternehmen Tullow Oil im South Lokichar Becken (Ngamia-1) den allerersten kommerziellen Erdölfund in der Geschichte Kenias. Es wird geschätzt, dass die Region über Hunderte Millionen Barrel an förderbaren Ölreserven verfügt. Der Fund löste eine massive Welle an Infrastrukturplanungen aus, darunter das LAPSSET-Projekt und eine geplante beheizte Pipeline von Turkana zum Hafen in Lamu. Obwohl der Transport des extrem wachsartigen Öls (das bei Raumtemperatur fest wird) technische Herausforderungen birgt und die globalen Ölpreise das Projekt verzögert haben, bleibt es Kenias größte Hoffnung auf den Status eines Ölexporteurs (Wirtschaft & Geografie K8).",
       hu: "A Turkana Olajmezők (különösen a Ngamia blokk) Kenya legújabb és legnagyobb hatású erőforrás-felfedezései közé tartoznak. A rendkívül száraz és izolált Észak-Kenyai hasadékvölgyben 2012-ben találták meg az első kereskedelmi mennyiségű kőolajat. Ez a felfedezés teljesen átírhatja az ország gazdaságát. Jelenleg a kitermelt nyersolajat különleges fűtött tartálykocsikban szállítják Mombasába a teszt-fázis részeként, miközben gőzerővel tervezik a LAPSSET korridor olajvezetékének megépítését az óceánig. (Földrajz K8 — nyersolaj feltárás és új iparágak)",
@@ -441,8 +454,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Kwale-Titan-Mine",
       hu: "Kwale Titánbánya",
       ro: "Mina de Titan Kwale",
-      en: "Kwale Titanium Mine"
-    },
+      en: "Kwale Titanium Mine",
+image: "/poi-images/kwale-titanium-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Base Titanium Mine im Kwale County ist Kenias größtes Bergbauprojekt und hat den nationalen Bergbausektor auf die globale Landkarte gesetzt. Betrieben von der australischen Base Resources, fördert die Anlage seit 2013 massiv mineralhaltige Sande (Mineralsande) ab. Zu den gewonnenen Produkten gehören Ilmenit, Rutil (verwendet für weiße Pigmente) und Zirkon, die zu 100 % in Märkte wie China, Europa und Nordamerika exportiert werden. Das Projekt trägt erheblich zum kenianischen Exportvolumen und den Steuereinnahmen bei. Die Anlage verfügt über eine eigene, speziell errichtete Schiffsverladeanlage in Likoni. Trotz enormer wirtschaftlicher Gewinne muss das Unternehmen strengen Umweltauflagen zur Renaturierung der abgebauten Gebiete folgen, da der Abbau die Küstenvegetation stark beeinflusst (Wirtschaft & Biologie K8).",
       hu: "A Kwale Titánbánya, amelyet a Base Titanium üzemeltet, Kenya bányászati szektorának egyik legjövedelmezőbb projektje az Indiai-óceán partvidékének közelében. A hatalmas, felszíni homokbányában olyan ritkaföldfémeket és nehézásványokat bányásznak, mint a rutil, az ilmenit és a cirkon, amelyeket globálisan pigmentek, repülőgép-alkatrészek és kerámiák gyártásához használnak. A kitermelt homokot Likoniba szállítják, ahonnan azonnal hajókra rakják. A bánya jelentős exportbevételt generál Kenyának. (Földrajz K8 — ritkaföldfémek és export-bányászat)",
@@ -474,8 +488,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Exportproduktionszone Machakos",
       hu: "Machakos Exportfeldolgozó Zóna",
       ro: "Zona de Procesare a Exportului Machakos",
-      en: "Machakos Export Processing Zone"
-    },
+      en: "Machakos Export Processing Zone",
+image: "/poi-images/machakos-epz-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Export Processing Zone (EPZ) in Machakos ist eng mit dem Boom von Athi River verknüpft, erstreckt sich aber weiter in das administrative Gebiet des Machakos Countys. Diese Industriezone ist gezielt darauf ausgelegt, Leichtindustrie, Lederverarbeitung und Agrarverarbeitung für den weltweiten Exportmarkt anzuziehen. Durch die Bereitstellung von schlüsselfertigen Werkshallen, zuverlässiger Strom- und Wasserversorgung sowie steuerfreien Anreizen hat das County ausländische Direktinvestitionen in Millionenhöhe gesichert. Die Machakos EPZ ist ein Katalysator für Beschäftigung in der halbtrockenen Region und integriert zunehmend lokale Landwirte in die globalen Lieferketten, indem sie Produkte wie Fruchtpürees und Nüsse direkt in der Zone verarbeitet, bevor sie verschifft werden (Wirtschaft K7).",
       hu: "A Machakos Exportfeldolgozó Övezet (EPZ) Nairobi vonzáskörzetének egy másik jelentős ipari zónája, amely az Athi River EPZ testvérprojektjeként jött létre. Célja, hogy adókedvezményekkel és kiépített infrastruktúrával vonzza a külföldi befektetőket a könnyűipar és a feldolgozóipar területére. Különösen a bőr- és lábbeligyártás, a kozmetikumok és a szerelésigényes elektronika gyártása van jelen. A zóna közelsége az új SGR vasúthoz jelentősen csökkenti az exportköltségeket Mombasa kikötője felé. (Földrajz K7 — különleges gazdasági övezetek)",
@@ -507,8 +522,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Teefabriken von Kericho",
       hu: "Kericho Teagyárak",
       ro: "Fabricile de Ceai din Kericho",
-      en: "Kericho Tea Factories"
-    },
+      en: "Kericho Tea Factories",
+image: "/poi-images/kericho-tea-factories-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Teefabriken von Kericho bilden den hochindustrialisierten Kern des weltberühmten kenianischen Teesektors. In und um Kericho operieren gigantische Verarbeitungsanlagen, die multinationalen Konzernen (wie James Finlay und Unilever/Ekaterra) sowie lokalen Kleinbauern-Genossenschaften (KTDA) gehören. Direkt nach dem Pflücken müssen die frischen, grünen Teeblätter innerhalb weniger Stunden in diesen Fabriken ankommen, um den Oxidationsprozess (Cut, Tear, Curl – CTC-Methode) zu durchlaufen. Die Fabriken laufen rund um die Uhr und trocknen, zerkleinern und verpacken den starken schwarzen Tee, der anschließend zur weltgrößten Teeauktion nach Mombasa transportiert wird. Diese hochoptimierten Industrieanlagen sind der Grund, warum Kenia der größte Exporteur von Schwarztee weltweit ist (Wirtschaft & Chemie K8).",
       hu: "Kericho megye teafeldolgozó gyárai – mind a multinacionális nagyvállalatok (mint a Finlays vagy a Lipton), mind a Kenyai Teafejlesztési Ügynökség (KTDA) szövetkezeti üzemei – Kenya agrárexportjának ütőerét jelentik. A környező végtelen ültetvényekről naponta több ezer tonna friss tealevelet szállítanak be a gyárakba, ahol azokat 24 órán belül megfonnyasztják, fermentálják, szárítják és osztályozzák. Az itt gyártott fekete CTC (Crush, Tear, Curl) tea a világ egyik legjobb minőségű teája, amely a mombasai teaukción cserél gazdát. (Földrajz K7 — globális élelmiszerpiac és teafeldolgozás)",
@@ -540,8 +556,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Windpark Turkana-See",
       hu: "Turkana-tavi Szélpark",
       ro: "Parcul Eolian Lacul Turkana",
-      en: "Lake Turkana Wind Power"
-    },
+      en: "Lake Turkana Wind Power",
+image: "/poi-images/lake-turkana-wind-power-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Lake Turkana Wind Power Project (LTWP) ist der mit Abstand größte Windpark in ganz Afrika und ein Meisterwerk der Ingenieurskunst. Gelegen im extrem abgelegenen Loiyangalani-Distrikt am südöstlichen Ufer des Turkana-Sees, nutzt die Anlage den \"Turkana Corridor Wind\" – einen beständigen und extrem starken Windstrom, der zwischen Mount Kulal und Mount Nyiru entsteht. Das 2019 offiziell eröffnete Megaprojekt besteht aus 365 riesigen Windkraftanlagen, die bis zu 310 Megawatt sauberen Strom erzeugen (etwa 15 % der kenianischen Netzkapazität). Das Projekt erforderte den Bau einer über 400 Kilometer langen Übertragungsleitung bis in das nationale Stromnetz und symbolisiert Kenias global führende Rolle im Bereich der erneuerbaren Energien (Physik & Geografie K8).",
       hu: "A Turkana-tó Szélerőmű (LTWP) Afrika legnagyobb szélenergia-projektje, amely kihasználja a Loiyangalani környékén fújó állandó, viharos erejű szelet – a Turkana-csatorna-hatást. A sivatagos, kietlen vidéken több mint 300 hatalmas szélturbina áll, amelyek hatalmas mennyiségű tiszta energiát termelnek. A projekt 2019-es indulása óta egy 400 kilométeres magasfeszültségű távvezeték köti össze ezt az elzárt régiót a nemzeti hálózattal, mintegy 15%-kal növelve Kenya teljes energiatermelését zöld forrásból. (Földrajz K8 — szélenergia és extrém éghajlati jelenségek)",
@@ -573,8 +590,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Blumenfarmen von Naivasha (Verarbeitungsanlagen)",
       hu: "Naivasha Virágfarmok (Feldolgozó üzemek)",
       ro: "Fermele de Flori din Naivasha (Facilități de procesare)",
-      en: "Naivasha Flower Farms (Processing Facilities)"
-    },
+      en: "Naivasha Flower Farms (Processing Facilities)",
+image: "/poi-images/naivasha-flower-farms-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Naivasha Flower Farms represent a massive, multi-billion-shilling high-tech agro-industrial zone clustering tightly around the freshwater shores of Lake Naivasha. Originating in the 1980s, the area has grown into the undisputed epicenter of Kenya's floriculture exports, specializing in premium cut roses and carnations. The landscape is dominated by hundreds of hectares of massive, climate-controlled greenhouses drawing intensive irrigation from the lake and local boreholes. The supply chain operates with frantic, highly synchronized precision; flowers are cut, chemically treated, cold-stored, and trucked daily to Jomo Kenyatta International Airport for immediate overnight airfreight to European auctions. The industry is a massive employer, drawing thousands of migrant laborers to the rapidly expanding Naivasha urban center. Economics K8 — Precision agriculture and airfreight.",
       de: "Die Blumenfarmen rund um den Naivasha-See sind das pulsierende Herz der kenianischen Gartenbauindustrie und machen das Land zu einem der größten Blumenexporteure der Welt. In einem Gürtel aus riesigen Gewächshäusern, die sich am Ufer des Süßwassersees erstrecken, werden hauptsächlich Rosen für den europäischen Markt angebaut. Die Produktion ist extrem hochtechnologisiert: Die Temperatur wird kontrolliert, die Bewässerung ist präzise und die geernteten Blumen werden sofort in gekühlte Lagerhallen gebracht. Von dort werden sie täglich per LKW zum internationalen Flughafen Jomo Kenyatta transportiert und innerhalb von 24 Stunden nach der Ernte in die Auktionshallen in den Niederlanden geflogen. Diese Industrie ist ein massiver Arbeitgeber, zieht aber auch wegen des hohen Wasserverbrauchs und der Arbeitsbedingungen Kritik auf sich.",
@@ -611,8 +629,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Nairobi Industriegebiet",
       hu: "Nairobi Ipari Terület",
       ro: "Zona Industrială Nairobi",
-      en: "Nairobi Industrial Area"
-    },
+      en: "Nairobi Industrial Area",
+image: "/poi-images/nairobi-industrial-area-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Nairobi Industrial Area is a sprawling, densely packed manufacturing and logistics zone established in the mid-20th century southeast of the city's central business district. Historically anchored by the railway line, it served as the original engine for Kenya's post-independence industrialization. Today, it remains a colossal, chaotic hub hosting hundreds of diverse factories ranging from heavy steel fabrication and automotive assembly to food processing, packaging, and massive FMCG (Fast-Moving Consumer Goods) distribution warehouses. Characterized by heavy truck traffic, intense pollution, and aging infrastructure, the zone is the gritty, beating heart of the national supply chain. Despite the emergence of newer, cleaner industrial parks on the city's outskirts, the sheer density and historical entrenchment of businesses here keep it economically dominant. Economics K7 — Urban manufacturing clusters.",
       de: "Das Industriegebiet von Nairobi ist eine weitläufige, dicht bebaute Produktions- und Logistikzone, die Mitte des 20. Jahrhunderts südöstlich des zentralen Geschäftsviertels der Stadt entstand. Historisch an der Eisenbahnlinie verankert, diente es als ursprünglicher Motor für die Industrialisierung Kenias nach der Unabhängigkeit. Heute ist es ein gigantisches, chaotisches Zentrum, das Hunderte von verschiedenen Fabriken beherbergt, von der schweren Stahlverarbeitung und Automobilmontage bis hin zur Lebensmittelverarbeitung, Verpackung und riesigen Vertriebslagern für schnelllebige Konsumgüter (FMCG). Gekennzeichnet durch starken LKW-Verkehr, intensive Umweltverschmutzung und eine alternde Infrastruktur, ist die Zone das raue, schlagende Herz der nationalen Lieferkette. Trotz der Entstehung neuerer, saubererer Industrieparks am Stadtrand bleibt das Gebiet aufgrund der schieren Dichte und der historischen Verflechtung der Unternehmen wirtschaftlich dominant.",
@@ -648,8 +667,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Tatu City Industriepark",
       hu: "Tatu City Ipari Park",
       ro: "Parcul Industrial Tatu City",
-      en: "Tatu City Industrial Park"
-    },
+      en: "Tatu City Industrial Park",
+image: "/poi-images/tatu-city-industrial-park-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Tatu City Industrial Park is a massive, highly structured Special Economic Zone (SEZ) located in Kiambu County, representing the modern, master-planned future of Kenyan manufacturing. Situated on 5,000 acres of former coffee plantations, this multi-billion-dollar private development sharply contrasts with the chaotic congestion of Nairobi's legacy Industrial Area. Featuring pristine, wide boulevards, dedicated high-capacity power sub-stations, and integrated residential zones, it has rapidly attracted massive multinational corporations, including coffee roasters, beverage bottlers, and light manufacturing firms. Because of its SEZ status, operating companies benefit from significant tax holidays and streamlined bureaucratic processes. The park explicitly aims to decentralize industrial growth away from Nairobi, providing a sanitized, highly efficient logistical environment. Economics K8 — Master-planned economic zones.",
       de: "Der Tatu City Industrial Park ist eine riesige, hoch strukturierte Sonderwirtschaftszone (SWZ) im Kiambu County, die die moderne, mastergeplante Zukunft der kenianischen Fertigungsindustrie repräsentiert. Auf einem 5.000 Hektar großen ehemaligen Kaffeeplantagen-Gelände gelegen, steht diese milliardenschwere private Entwicklung in scharfem Kontrast zur chaotischen Überlastung des alten Industriegebiets von Nairobi. Mit makellosen, breiten Boulevards, dedizierten Hochleistungs-Umspannwerken und integrierten Wohngebieten hat es schnell massive multinationale Konzerne angezogen, darunter Kaffeeröster, Getränkeabfüller und Leichtindustrieunternehmen. Aufgrund seines SWZ-Status profitieren die ansässigen Unternehmen von erheblichen Steuererleichterungen und gestrafften bürokratischen Verfahren. Der Park zielt ausdrücklich darauf ab, das industrielle Wachstum von Nairobi weg zu dezentralisieren und eine bereinigte, hocheffiziente logistische Umgebung zu schaffen.",
@@ -685,8 +705,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Ölraffinerie Mombasa (KPRL)",
       hu: "Mombasa Olajfinomító (KPRL)",
       ro: "Rafinăria de Petrol Mombasa (KPRL)",
-      en: "Mombasa Oil Refinery (KPRL)"
-    },
+      en: "Mombasa Oil Refinery (KPRL)",
+image: "/poi-images/mombasa-oil-refinery-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Mombasa Oil Refinery, officially the Kenya Petroleum Refineries Limited (KPRL), is a massive, historically critical industrial complex located in the Changamwe area. Commissioned in 1963, it was originally designed to process crude oil imported from the Middle East into diverse petroleum products for the entire East African region. For decades, its massive distillation columns and storage tanks formed the absolute core of the regional energy supply chain. However, plagued by crippling inefficiencies, outdated technology, and an inability to process crude profitably compared to direct imports of refined fuel, the refinery dramatically ceased operations in 2013. Today, the colossal, silent infrastructure has been repurposed exclusively as a strategic storage terminal for imported refined petroleum products. Economics K8 — Legacy infrastructure and energy imports.",
       de: "Die Ölraffinerie von Mombasa, offiziell Kenya Petroleum Refineries Limited (KPRL), ist ein riesiger, historisch wichtiger Industriekomplex im Stadtteil Changamwe. 1963 in Betrieb genommen, wurde sie ursprünglich konzipiert, um aus dem Nahen Osten importiertes Rohöl zu verschiedenen Erdölprodukten für die gesamte ostafrikanische Region zu verarbeiten. Jahrzehntelang bildeten ihre massiven Destillationskolonnen und Lagertanks den absoluten Kern der regionalen Energieversorgungskette. Geplagt von lähmender Ineffizienz, veralteter Technologie und der Unfähigkeit, Rohöl im Vergleich zu Direktimporten von raffiniertem Kraftstoff profitabel zu verarbeiten, stellte die Raffinerie 2013 ihren Betrieb dramatisch ein. Heute wird die kolossale, stille Infrastruktur ausschließlich als strategisches Lagerterminal für importierte raffinierte Erdölprodukte genutzt.",
@@ -723,8 +744,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Nzoia Zuckerfabrik",
       hu: "Nzoia Cukorgyár",
       ro: "Fabrica de Zahăr Nzoia",
-      en: "Nzoia Sugar Company"
-    },
+      en: "Nzoia Sugar Company",
+image: "/poi-images/nzoia-sugar-company-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Nzoia Sugar Company is a massive, state-owned agro-industrial milling facility located deep in the highly fertile sugarcane belt of Bungoma County in western Kenya. Established in 1978, the factory was a cornerstone of the government's post-independence strategy to achieve absolute self-sufficiency in domestic sugar production. Positioned near the Nzoia River, the mill processes thousands of tonnes of cane daily, supplied overwhelmingly by a vast network of local smallholder out-grower farmers. For decades, the factory's imposing smokestacks and sprawling corporate housing estate dictated the entire micro-economy of the surrounding region. However, mirroring the broader crisis in Kenya's state-owned sugar sector, Nzoia has struggled massively with crippling historical debts, obsolete milling machinery, and severe operational inefficiencies. Economics K7 — Out-grower agriculture and state enterprises.",
       de: "Die Nzoia Sugar Company ist ein massiver, staatseigener agro-industrieller Mühlenbetrieb tief im hochfruchtbaren Zuckergürtel des Bungoma County im Westen Kenias. Gegründet 1978, war die Fabrik ein Eckpfeiler der Post-Unabhängigkeitsstrategie der Regierung, eine absolute Selbstversorgung mit heimischem Zucker zu erreichen. In der Nähe des Flusses Nzoia gelegen, verarbeitet die Mühle täglich Tausende Tonnen Zuckerrohr, das überwiegend von einem riesigen Netzwerk lokaler Kleinbauern geliefert wird. Über Jahrzehnte hinweg bestimmten die imposanten Schornsteine der Fabrik und die weitläufige Werkswohnanlage die gesamte Mikroökonomie der umliegenden Region. Wie die breitere Krise im staatlichen Zuckersektor Kenias spiegelt jedoch auch Nzoia massive Probleme mit lähmenden historischen Schulden, veralteten Mühlenmaschinen und schwerwiegenden betrieblichen Ineffizienzen wider.",
@@ -760,8 +782,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Isuzu Ostafrika Montagewerk",
       hu: "Isuzu Kelet-Afrika Összeszerelő Üzem",
       ro: "Fabrica de Asamblare Isuzu Africa de Est",
-      en: "Isuzu East Africa Assembly Plant"
-    },
+      en: "Isuzu East Africa Assembly Plant",
+image: "/poi-images/isuzu-east-africa-assembly-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Isuzu East Africa Assembly Plant, located in Nairobi's sprawling Industrial Area, is the largest and most consistently successful automotive manufacturing facility in the region. Operating since 1977, the plant is a massive assembly hub specializing heavily in commercial vehicles, particularly the iconic 'matatu' minibuses, heavy-duty freight trucks, and rugged pickup trucks that dominate Kenyan roads. The facility imports completely knocked down (CKD) kits and extensively welds, paints, and assembles them utilizing a highly skilled local workforce. The plant's enduring success is heavily bolstered by strict government policies that incentivize local assembly over fully built imported commercial vehicles. The factory is a critical node in the regional supply chain, exporting assembled vehicles to neighboring East African markets. Economics K8 — Automotive assembly and import substitution.",
       de: "Das Isuzu East Africa Montagewerk, das sich im weitläufigen Industriegebiet von Nairobi befindet, ist die größte und beständig erfolgreichste Automobilproduktionsstätte in der Region. Seit 1977 in Betrieb, ist das Werk ein riesiges Montagezentrum, das sich stark auf Nutzfahrzeuge spezialisiert hat, insbesondere auf die ikonischen 'Matatu'-Minibusse, schwere Lastkraftwagen und robuste Pick-up-Trucks, die die kenianischen Straßen dominieren. Die Anlage importiert komplett zerlegte (CKD) Bausätze und schweißt, lackiert und montiert sie unter Einsatz einer hochqualifizierten lokalen Belegschaft. Der anhaltende Erfolg des Werks wird stark durch strenge Regierungspolitiken gestützt, die die lokale Montage gegenüber komplett gebauten importierten Nutzfahrzeugen fördern. Das Werk ist ein entscheidender Knotenpunkt in der regionalen Lieferkette und exportiert montierte Fahrzeuge in benachbarte ostafrikanische Märkte.",
@@ -797,8 +820,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "East African Breweries Limited (Ruaraka)",
       hu: "East African Breweries Limited (Ruaraka)",
       ro: "East African Breweries Limited (Ruaraka)",
-      en: "East African Breweries Limited (Ruaraka)"
-    },
+      en: "East African Breweries Limited (Ruaraka)",
+image: "/poi-images/east-african-breweries-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "East African Breweries Limited (EABL), headquartered in the Ruaraka district of Nairobi, operates one of the most massive and technologically advanced beverage manufacturing complexes on the African continent. Founded in 1922 by colonial settlers, the company has expanded explosively, now dominating the regional alcohol market. The Ruaraka site features colossal stainless-steel fermentation tanks, high-speed automated bottling lines, and massive logistics yards. The facility requires immense inputs of local barley, sorghum, and pristine water, deeply integrating the factory into the broader national agricultural sector. As a subsidiary of the global giant Diageo, the plant is a massive contributor to the national treasury through intense excise taxation, making it a highly scrutinized and pivotal entity in the Kenyan economy. Economics K8 — FMCG manufacturing and taxation.",
       de: "East African Breweries Limited (EABL) mit Hauptsitz im Ruaraka-Distrikt von Nairobi betreibt einen der massivsten und technologisch fortschrittlichsten Getränkeherstellungskomplexe auf dem afrikanischen Kontinent. 1922 von kolonialen Siedlern gegründet, expandierte das Unternehmen explosionsartig und dominiert heute den regionalen Alkoholmarkt. Der Standort Ruaraka verfügt über kolossale Gärtanks aus Edelstahl, Hochgeschwindigkeits-Abfüllanlagen und riesige Logistikhöfe. Die Anlage benötigt immense Mengen an lokalem Gerste, Sorghum und reinem Wasser und integriert die Fabrik tief in den breiteren nationalen Agrarsektor. Als Tochtergesellschaft des globalen Giganten Diageo leistet das Werk durch intensive Verbrauchssteuern einen massiven Beitrag zur Staatskasse und ist damit eine stark beobachtete und zentrale Einheit in der kenianischen Wirtschaft.",
@@ -834,8 +858,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Mombasa Apparel EPZ",
       hu: "Mombasa Apparel EPZ",
       ro: "Mombasa Apparel EPZ",
-      en: "Mombasa Apparel EPZ"
-    },
+      en: "Mombasa Apparel EPZ",
+image: "/poi-images/mombasa-apparel-epz-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Mombasa Apparel EPZ represents a massive, highly concentrated node of globalization, situated within the industrial outskirts of Kenya's premier port city. Operating under the heavily incentivized Export Processing Zone framework, these sprawling factory complexes are entirely dedicated to high-volume garment manufacturing. The facility imports vast quantities of raw fabric, primarily from Asia, utilizing thousands of local workers operating in massive, frantic sewing lines to assemble finished clothing. The entire output is strictly destined for export, overwhelmingly targeting the United States market under the tariff-free African Growth and Opportunity Act (AGOA). The zone is a critical, labor-intensive economic engine, providing essential wage employment while physically shaping the urban sprawl surrounding the coastal transport corridors. Economics K7 — Garment manufacturing and global supply chains.",
       de: "Die Mombasa Apparel EPZ stellt einen massiven, hochkonzentrierten Knotenpunkt der Globalisierung dar und befindet sich in den industriellen Außenbezirken von Kenias führender Hafenstadt. Diese weitläufigen Fabrikkomplexe, die im Rahmen der stark geförderten Exportverarbeitungszone (Export Processing Zone) betrieben werden, sind ausschließlich der Großserien-Bekleidungsherstellung gewidmet. Die Anlage importiert riesige Mengen an Rohgewebe, hauptsächlich aus Asien, und beschäftigt Tausende von lokalen Arbeitern, die in riesigen, hektischen Nähstraßen fertige Kleidung zusammenbauen. Die gesamte Produktion ist ausschließlich für den Export bestimmt und zielt überwiegend auf den US-Markt im Rahmen des zollfreien African Growth and Opportunity Act (AGOA) ab. Die Zone ist ein entscheidender, arbeitsintensiver Wirtschaftsmotor, der unentbehrliche Lohnarbeit bietet und gleichzeitig die städtische Ausbreitung rund um die küstennahen Verkehrskorridore physisch prägt.",
@@ -871,8 +896,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Twiga Chemiefabrik",
       hu: "Twiga Vegyipari Üzem",
       ro: "Fabrica de Produse Chimice Twiga",
-      en: "Twiga Chemicals Plant"
-    },
+      en: "Twiga Chemicals Plant",
+image: "/poi-images/twiga-chemicals-plant-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Twiga Chemicals Plant, situated in Nairobi's sprawling Industrial Area, is a highly specialized, historically significant manufacturing facility serving the critical intersection of industry and agriculture. Established in the mid-20th century originally as part of the massive Imperial Chemical Industries (ICI) conglomerate, the plant formulates, blends, and packages a vast array of agrochemicals, industrial explosives, and specialized industrial chemicals. Its massive storage silos and highly regulated blending vats produce the exact pesticides and fertilizers required by Kenya's massive tea, coffee, and floriculture sectors. The facility operates under extremely strict safety and environmental protocols due to the highly volatile and toxic nature of its raw materials, forming a quiet but absolutely essential backbone for the nation's agrarian output. Economics K8 — Agrochemical formulation.",
       de: "Die Twiga Chemicals Plant, die sich im weitläufigen Industriegebiet von Nairobi befindet, ist eine hochspezialisierte, historisch bedeutsame Produktionsanlage, die an der kritischen Schnittstelle von Industrie und Landwirtschaft tätig ist. Ursprünglich Mitte des 20. Jahrhunderts als Teil des riesigen Konzerns Imperial Chemical Industries (ICI) gegründet, formuliert, mischt und verpackt das Werk eine breite Palette von Agrochemikalien, Industrieexplosivstoffen und speziellen Industriechemikalien. Seine massiven Lagersilos und streng regulierten Mischbottiche produzieren genau die Pestizide und Düngemittel, die von Kenias riesigen Tee-, Kaffee- und Blumenzuchtsektoren benötigt werden. Die Anlage unterliegt aufgrund der hochvolatilen und toxischen Natur ihrer Rohstoffe extrem strengen Sicherheits- und Umweltprotokollen und bildet ein leises, aber absolut unverzichtbares Rückgrat für die landwirtschaftliche Produktion des Landes.",
@@ -908,8 +934,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Kenya Meat Commission (Athi River)",
       hu: "Kenyai Húsipari Bizottság (Athi River)",
       ro: "Comisia Cărnii din Kenya (Athi River)",
-      en: "Kenya Meat Commission (Athi River)"
-    },
+      en: "Kenya Meat Commission (Athi River)",
+image: "/poi-images/kenya-meat-commission-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Kenya Meat Commission (KMC) facility in Athi River is a colossal, state-owned abattoir and meat processing complex, historically designed to serve as the absolute terminus for the nation's massive pastoralist livestock economy. Established in 1953 by the colonial administration, the sprawling factory features extensive holding pens, highly automated slaughtering lines, and massive cold-storage warehouses. For decades, it was the premier exporter of Kenyan beef and canned meat (notably corned beef) to Europe and the Middle East. However, the facility suffered severe operational collapse and financial ruin in the late 1990s due to extreme mismanagement. Recently, the factory was dramatically transferred to the control of the Kenya Defence Forces (KDF), triggering a massive, disciplined revitalization of its processing capabilities. Economics K7 — Livestock processing and military management.",
       de: "Die Anlage der Kenya Meat Commission (KMC) in Athi River ist ein kolossaler, staatseigener Schlachthof und Fleischverarbeitungskomplex, der historisch als absoluter Endpunkt für die massive Viehwirtschaft der pastoralen Gemeinschaften des Landes konzipiert wurde. Die 1953 von der Kolonialverwaltung gegründete, weitläufige Fabrik verfügt über ausgedehnte Wartepferche, hochautomatisierte Schlachtbänder und massive Kühlhäuser. Jahrzehntelang war sie der führende Exporteur von kenianischem Rindfleisch und Fleischkonserven (insbesondere Corned Beef) nach Europa und in den Nahen Osten. In den späten 1990er Jahren erlitt die Anlage jedoch aufgrund extremer Misswirtschaft einen schweren betrieblichen Zusammenbruch und finanziellen Ruin. Kürzlich wurde die Fabrik auf dramatische Weise unter die Kontrolle der Kenya Defence Forces (KDF) gestellt, was eine massive, disziplinierte Wiederbelebung ihrer Verarbeitungskapazitäten auslöste.",
@@ -945,8 +972,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Brookside Molkerei Ruiru",
       hu: "Brookside Tejfeldolgozó Ruiru",
       ro: "Fabrica de Lactate Brookside Ruiru",
-      en: "Brookside Dairy Processing Ruiru"
-    },
+      en: "Brookside Dairy Processing Ruiru",
+image: "/poi-images/brooksides-dairy-processing-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Brookside Dairy Processing plant in Ruiru is a colossal, hyper-modern agro-industrial complex, functioning as the absolute nerve center of East Africa's largest dairy corporation. Situated in Kiambu County, the massive facility collects hundreds of thousands of liters of raw milk daily from a vast network of over 100,000 smallholder farmers across the country. The factory utilizes highly advanced, automated pasteurization, ultra-high temperature (UHT) processing, and packaging lines to produce a wide array of dairy products with extended shelf lives. This massive industrial capacity has fundamentally transformed the local agricultural landscape, guaranteeing a market for rural dairy farmers while supplying supermarkets across the entire East African region. The sheer scale of its cold-chain logistics is a marvel of modern regional distribution. Economics K7 — Dairy industrialization.",
       de: "Das Brookside Dairy Processing Werk in Ruiru ist ein kolossaler, hochmoderner agro-industrieller Komplex, der als absolutes Nervenzentrum des größten Molkereiunternehmens Ostafrikas fungiert. Die riesige Anlage im Kiambu County sammelt täglich Hunderttausende Liter Rohmilch von einem riesigen Netzwerk von über 100.000 Kleinbauern aus dem ganzen Land. Die Fabrik nutzt hochentwickelte, automatisierte Pasteurisierungs-, Ultrahocherhitzungs- (UHT) und Verpackungslinien, um eine breite Palette von Milchprodukten mit verlängerter Haltbarkeit herzustellen. Diese massive industrielle Kapazität hat die lokale Agrarlandschaft grundlegend verändert, indem sie den ländlichen Milchbauern einen Markt garantiert und gleichzeitig Supermärkte in der gesamten ostafrikanischen Region beliefert. Der schiere Umfang seiner Kühlkettenlogistik ist ein Wunder der modernen regionalen Distribution.",
@@ -982,8 +1010,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Base Titanium Verladeanlage Likoni",
       hu: "Base Titanium Rakodóterminál Likoni",
       ro: "Terminalul de Încărcare Base Titanium Likoni",
-      en: "Base Titanium Loading Facility Likoni"
-    },
+      en: "Base Titanium Loading Facility Likoni",
+image: "/poi-images/base-titanium-port-facility-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Base Titanium Loading Facility at Likoni is a massive, highly specialized proprietary marine terminal explicitly constructed to export the mineral wealth extracted from the nearby Kwale Titanium Mine. Completed in 2013, the facility represents a brutal, highly efficient imposition of heavy industry onto the coastal landscape. Processed heavy minerals—rutile, ilmenite, and zircon—are trucked from the inland mine and stored in colossal, climate-controlled silos situated directly on the shoreline. A massive, high-capacity conveyor belt system extends over the water, loading bulk carrier ships at staggering speeds. This dedicated infrastructure totally bypasses the congestion of the main Mombasa port, ensuring seamless, high-volume mineral exports directly to global pigment and metallurgy markets, primarily in China and the US. Economics K8 — Proprietary bulk export infrastructure.",
       de: "Die Base Titanium Ladeanlage in Likoni ist ein massives, hochspezialisiertes, firmeneigenes Seeterminal, das ausdrücklich für den Export des aus der nahe gelegenen Kwale Titanmine gewonnenen Mineralreichtums gebaut wurde. Die 2013 fertiggestellte Anlage stellt eine brutale, hocheffiziente Auferlegung der Schwerindustrie auf die Küstenlandschaft dar. Verarbeitete Schwerminerale – Rutil, Ilmenit und Zirkon – werden von der Binnenmine per LKW transportiert und in riesigen, klimatisierten Silos direkt an der Küste gelagert. Ein massives, hochleistungsfähiges Förderbandsystem erstreckt sich über das Wasser und belädt Massengutfrachter mit atemberaubender Geschwindigkeit. Diese dedizierte Infrastruktur umgeht die Überlastung des Haupt Hafens von Mombasa vollständig und gewährleistet einen nahtlosen, großvolumigen Mineralexport direkt an die globalen Pigment- und Metallmärkte, hauptsächlich in China und den USA.",
@@ -1019,8 +1048,9 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: "Pepsi-Abfüllanlage Ruaraka",
       hu: "Pepsi Palackozóüzem Ruaraka",
       ro: "Fabrica de Îmbuteliere Pepsi Ruaraka",
-      en: "Pepsi Bottling Plant Ruaraka"
-    },
+      en: "Pepsi Bottling Plant Ruaraka",
+image: "/poi-images/pepsi-cola-plant-ruaraka-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Pepsi Bottling Plant in the Ruaraka district of Nairobi is a colossal, ultra-modern beverage manufacturing facility, representing the aggressive re-entry of the global beverage giant into the highly competitive East African market. Commissioned in 2013 after a multi-decade absence, the multi-billion-shilling factory features highly advanced, fully automated blow-molding and liquid filling lines operating at staggering speeds. The facility produces a wide array of carbonated soft drinks, heavily relying on highly purified local water sources and imported concentrated syrups. The plant's establishment triggered an intense, highly visible corporate 'cola war' in the region, driving massive marketing campaigns and altering retail dynamics. The physical scale of the factory, with its massive warehousing and truck fleets, heavily dominates the local Ruaraka industrial landscape. Economics K7 — FMCG bottling and market competition.",
       de: "Das Pepsi-Abfüllwerk im Ruaraka-Distrikt von Nairobi ist eine kolossale, hochmoderne Getränkeproduktionsanlage, die den aggressiven Wiedereintritt des globalen Getränkegiganten in den hart umkämpften ostafrikanischen Markt darstellt. Die nach einer jahrzehntelangen Abwesenheit 2013 in Betrieb genommene, milliardenschwere Fabrik verfügt über hochentwickelte, vollautomatische Blasform- und Flüssigkeitsabfüllanlagen, die mit atemberaubender Geschwindigkeit arbeiten. Die Anlage produziert eine breite Palette von kohlensäurehaltigen Erfrischungsgetränken und stützt sich dabei stark auf hochreine lokale Wasserquellen und importierte konzentrierte Sirupe. Die Gründung des Werks löste einen intensiven, gut sichtbaren „Cola-Krieg“ in der Region aus, der massive Marketingkampagnen vorantrieb und die Einzelhandelsdynamik veränderte. Die physische Größe der Fabrik mit ihren riesigen Lagerhallen und LKW-Flotten dominiert die lokale Industrielandschaft von Ruaraka stark.",

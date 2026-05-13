@@ -6,7 +6,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "icon",
     parent: "IL-JM",
     coords: [35.2358, 31.7780],
-    name: { de: "Felsendom", hu: "Szikladóm", ro: "Domul Stâncii", en: "Dome of the Rock" },
+    name: { de: "Felsendom", hu: "Szikladóm", ro: "Domul Stâncii", en: "Dome of the Rock",
+image: "/poi-images/dome-of-the-rock-landmarks-v2.webp"
+},
     description: {
       de: "Der Felsendom in Jerusalem ist eines der ältesten islamischen Bauwerke der Welt und dominiert mit seiner goldenen Kuppel die Skyline der Altstadt.",
       hu: "A jeruzsálemi Szikladóm a világ egyik legrégebbi iszlám építménye, amelynek aranykupolája uralja az óváros látképét.",
@@ -24,7 +26,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-HA",
     coords: [34.9870, 32.8139],
-    name: { de: "Baha'i-Gärten in Haifa", hu: "Bahá'í kertek", ro: "Grădinile Bahá'í", en: "Bahá'í Terraces" },
+    name: { de: "Baha'i-Gärten in Haifa", hu: "Bahá'í kertek", ro: "Grădinile Bahá'í", en: "Bahá'í Terraces",
+image: "/poi-images/bahai-gardens-haifa-landmarks-v2.webp"
+},
     description: {
       de: "Die terrassenförmig angelegten Baha'i-Gärten am Hang des Karmelgebirges in Haifa gehören zu den schönsten Gärten der Welt und sind ein wichtiges Pilgerziel.",
       hu: "A haifai Kármel-hegy oldalában kialakított teraszos Bahá'í kertek a világ legszebb kertjei közé tartoznak, és fontos zarándokhelyek.",
@@ -42,7 +46,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-JM",
     coords: [35.2276, 31.7766],
-    name: { de: "Jaffa-Tor", hu: "Jaffa-kapu", ro: "Poarta Jaffa", en: "Jaffa Gate" },
+    name: { de: "Jaffa-Tor", hu: "Jaffa-kapu", ro: "Poarta Jaffa", en: "Jaffa Gate",
+image: "/poi-images/jaffa-gate-landmarks-v2.webp"
+},
     description: {
       de: "Das Jaffa-Tor ist eines der Haupttore zur Altstadt von Jerusalem und ein wichtiger historischer Durchgang, der den westlichen Teil der Stadt mit der Altstadt verbindet.",
       hu: "A Jaffa-kapu a jeruzsálemi óváros egyik fő kapuja és fontos történelmi átjáró, amely a város nyugati részét köti össze az óvárossal.",
@@ -60,7 +66,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-JM",
     coords: [35.2445, 31.7781],
-    name: { de: "Ölberg", hu: "Olajfák hegye", ro: "Muntele Măslinilor", en: "Mount of Olives" },
+    name: { de: "Ölberg", hu: "Olajfák hegye", ro: "Muntele Măslinilor", en: "Mount of Olives",
+image: "/poi-images/mount-of-olives-landmarks-v2.webp"
+},
     description: {
       de: "Der Ölberg erhebt sich östlich der Altstadt von Jerusalem und bietet nicht nur einen atemberaubenden Blick, sondern hat auch große religiöse Bedeutung für Judentum, Christentum und Islam.",
       hu: "A jeruzsálemi óvárostól keletre magasodó Olajfák hegye nemcsak lélegzetelállító kilátást nyújt, hanem hatalmas vallási jelentőséggel is bír a judaizmus, a kereszténység és az iszlám számára.",
@@ -78,7 +86,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "icon",
     parent: "IL-Z",
     coords: [35.2974, 32.7020],
-    name: { de: "Verkündigungsbasilika", hu: "Angyali üdvözlet bazilika", ro: "Bazilica Bunei Vestiri", en: "Basilica of the Annunciation" },
+    name: { de: "Verkündigungsbasilika", hu: "Angyali üdvözlet bazilika", ro: "Bazilica Bunei Vestiri", en: "Basilica of the Annunciation",
+image: "/poi-images/basilica-of-annunciation-landmarks-v2.webp"
+},
     description: {
       de: "Die Verkündigungsbasilika in Nazareth steht an der Stelle, wo der Überlieferung nach der Erzengel Gabriel Maria die Geburt Jesu ankündigte.",
       hu: "A názáreti Angyali üdvözlet bazilika azon a helyen áll, ahol a hagyomány szerint Gábriel arkangyal hírül adta Máriának Jézus születését.",
@@ -96,7 +106,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-JM",
     coords: [35.2354, 31.7761],
-    name: { de: "Al-Aqsa-Moschee", hu: "Al-Aksza-mecset", ro: "Moscheea Al-Aqsa", en: "Al-Aqsa Mosque" },
+    name: { de: "Al-Aqsa-Moschee", hu: "Al-Aksza-mecset", ro: "Moscheea Al-Aqsa", en: "Al-Aqsa Mosque",
+image: "/poi-images/al-aqsa-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die Al-Aqsa-Moschee auf dem Tempelberg in Jerusalem ist die drittheiligste Stätte des Islam und ein architektonisches Meisterwerk mit einer reichen Geschichte.",
       hu: "A jeruzsálemi Templom-hegyen található Al-Aksza-mecset az iszlám harmadik legszentebb helye és gazdag történelemmel rendelkező építészeti remekmű.",
@@ -114,7 +126,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "monument",
     parent: "IL-JM",
     coords: [35.1747, 31.7742],
-    name: { de: "Yad Vashem", hu: "Jad Vasem", ro: "Yad Vashem", en: "Yad Vashem" },
+    name: { de: "Yad Vashem", hu: "Jad Vasem", ro: "Yad Vashem", en: "Yad Vashem",
+image: "/poi-images/yad-vashem-landmarks-v2.webp"
+},
     description: {
       de: "Yad Vashem in Jerusalem ist die bedeutendste Gedenkstätte der Welt für die Opfer des Holocaust und ein wichtiges Zentrum für Forschung und Bildung.",
       hu: "A jeruzsálemi Jad Vasem a világ legjelentősebb holokauszt-emlékközpontja, amely a kutatás és az oktatás fontos helyszíne is egyben.",
@@ -132,7 +146,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-JM",
     coords: [35.2036, 31.7733],
-    name: { de: "Israel-Museum", hu: "Izrael Múzeum", ro: "Muzeul Israel", en: "Israel Museum" },
+    name: { de: "Israel-Museum", hu: "Izrael Múzeum", ro: "Muzeul Israel", en: "Israel Museum",
+image: "/poi-images/israel-museum-landmarks-v2.webp"
+},
     description: {
       de: "Das Israel-Museum ist das größte Kulturinstitut in Israel und beherbergt eine außergewöhnlich reiche Sammlung von Kunst und archäologischen Funden, darunter die Schriftrollen vom Toten Meer.",
       hu: "Az Izrael Múzeum az ország legnagyobb kulturális intézménye, amely kivételesen gazdag művészeti és régészeti gyűjteménynek ad otthont, beleértve a holt-tengeri tekercseket is.",
@@ -150,7 +166,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-D",
     coords: [34.9897, 29.7850],
-    name: { de: "Timna-Park", hu: "Timna Park", ro: "Parcul Timna", en: "Timna Park" },
+    name: { de: "Timna-Park", hu: "Timna Park", ro: "Parcul Timna", en: "Timna Park",
+image: "/poi-images/timna-park-landmarks-v2.webp"
+},
     description: {
       de: "Der Timna-Park in der Wüste Arava beeindruckt mit spektakulären Felsformationen und den Überresten der ältesten bekannten Kupferminen der Welt.",
       hu: "Az Arava-sivatagban található Timna Park látványos sziklaformációkkal és a világ legrégebbi ismert rézbányáinak maradványaival nyűgözi le a látogatókat.",
@@ -168,7 +186,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-D",
     coords: [34.9174, 29.5042],
-    name: { de: "Unterwasser-Observatorium", hu: "Víz alatti obszervatórium", ro: "Observatorul Subacvatic", en: "Underwater Observatory" },
+    name: { de: "Unterwasser-Observatorium", hu: "Víz alatti obszervatórium", ro: "Observatorul Subacvatic", en: "Underwater Observatory",
+image: "/poi-images/underwater-observatory-eilat-landmarks-v2.webp"
+},
     description: {
       de: "Das Unterwasser-Observatorium in Eilat bietet Besuchern die einmalige Gelegenheit, das farbenfrohe Leben der Korallenriffe im Roten Meer zu beobachten, ohne nass zu werden.",
       hu: "Az eilati Víz alatti obszervatórium egyedülálló lehetőséget kínál a látogatóknak, hogy anélkül figyeljék meg a Vörös-tenger korallzátonyainak színes élővilágát, hogy vizesek lennének.",
@@ -186,7 +206,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-JM",
     coords: [35.2289, 31.7712],
-    name: { de: "Berg Zion", hu: "Sion-hegy", ro: "Muntele Sion", en: "Mount Zion" },
+    name: { de: "Berg Zion", hu: "Sion-hegy", ro: "Muntele Sion", en: "Mount Zion",
+image: "/poi-images/mount-zion-landmarks-v2.webp"
+},
     description: {
       de: "Der Berg Zion liegt direkt außerhalb der Stadtmauern von Jerusalem und ist ein geschichtsträchtiger Ort, der eng mit König David und dem letzten Abendmahl Jesu verbunden ist.",
       hu: "A közvetlenül Jeruzsálem városfalain kívül található Sion-hegy egy történelmi jelentőségű hely, amely szorosan kötődik Dávid királyhoz és Jézus utolsó vacsorájához.",
@@ -204,7 +226,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-JM",
     coords: [35.2120, 31.7850],
-    name: { de: "Machane-Yehuda-Markt", hu: "Mahane Jehuda piac", ro: "Piața Mahane Yehuda", en: "Mahane Yehuda Market" },
+    name: { de: "Machane-Yehuda-Markt", hu: "Mahane Jehuda piac", ro: "Piața Mahane Yehuda", en: "Mahane Yehuda Market",
+image: "/poi-images/mahane-yehuda-market-landmarks-v2.webp"
+},
     description: {
       de: "Der Machane-Yehuda-Markt ist der pulsierende und größte Markt von Jerusalem, bekannt für seine frischen Lebensmittel, Gewürze und das lebhafte Treiben in den Abendstunden.",
       hu: "A Mahane Jehuda Jeruzsálem legnagyobb és legpezsgőbb piaca, amely friss élelmiszereiről, fűszereiről és az esti órákban jellemző nyüzsgő életéről ismert.",
@@ -222,7 +246,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "icon",
     parent: "IL-TA",
     coords: [34.7735, 32.0784],
-    name: { de: "Weiße Stadt", hu: "Fehér Város", ro: "Orașul Alb", en: "White City" },
+    name: { de: "Weiße Stadt", hu: "Fehér Város", ro: "Orașul Alb", en: "White City",
+image: "/poi-images/white-city-tel-aviv-landmarks-v2.webp"
+},
     description: {
       de: "Die Weiße Stadt von Tel Aviv beherbergt die weltweit größte Ansammlung von Gebäuden im Bauhaus-Stil und spiegelt die moderne Architektur des frühen 20. Jahrhunderts wider.",
       hu: "A tel-avivi Fehér Város ad otthont a világ legnagyobb Bauhaus-stílusú épületgyűjteményének, amely a 20. század eleji modern építészetet tükrözi.",
@@ -240,7 +266,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-Z",
     coords: [35.5469, 32.8805],
-    name: { de: "Berg der Seligpreisungen", hu: "Nyolc boldogság hegye", ro: "Muntele Fericirilor", en: "Mount of Beatitudes" },
+    name: { de: "Berg der Seligpreisungen", hu: "Nyolc boldogság hegye", ro: "Muntele Fericirilor", en: "Mount of Beatitudes",
+image: "/poi-images/mount-of-beatitudes-landmarks-v2.webp"
+},
     description: {
       de: "Der Berg der Seligpreisungen am Nordufer des Sees Genezareth ist der traditionelle Ort, an dem Jesus seine berühmte Bergpredigt gehalten haben soll.",
       hu: "A Galileai-tenger északi partján fekvő Nyolc boldogság hegye az a hagyományos helyszín, ahol Jézus elmondta híres hegyi beszédét.",
@@ -258,7 +286,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-Z",
     coords: [35.5714, 32.7107],
-    name: { de: "Yardenit-Taufstelle", hu: "Yardenit keresztelőhely", ro: "Situl de Botez Yardenit", en: "Yardenit Baptismal Site" },
+    name: { de: "Yardenit-Taufstelle", hu: "Yardenit keresztelőhely", ro: "Situl de Botez Yardenit", en: "Yardenit Baptismal Site",
+image: "/poi-images/yardenit-baptismal-site-landmarks-v2.webp"
+},
     description: {
       de: "Yardenit ist eine beliebte Taufstelle am Jordanfluss, die jedes Jahr unzählige christliche Pilger anzieht, die sich in den heiligen Gewässern taufen lassen möchten.",
       hu: "A Yardenit egy népszerű keresztelőhely a Jordán folyón, amely minden évben számtalan keresztény zarándokot vonz, akik meg akarnak keresztelkedni a szent vizekben.",
@@ -276,7 +306,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-D",
     coords: [34.8690, 30.5960],
-    name: { de: "Ramon-Krater", hu: "Ramon-kráter", ro: "Craterul Ramon", en: "Makhtesh Ramon" },
+    name: { de: "Ramon-Krater", hu: "Ramon-kráter", ro: "Craterul Ramon", en: "Makhtesh Ramon",
+image: "/poi-images/makhtesh-ramon-landmarks-v2.webp"
+},
     description: {
       de: "Der Ramon-Krater in der Negev-Wüste ist der größte Erosionskrater der Welt und besticht durch seine dramatischen Klippen und farbenprächtigen Gesteinsformationen.",
       hu: "A Negev-sivatagban található Ramon-kráter a világ legnagyobb eróziós krátere, amely drámai szikláival és színpompás geológiai formációival hívja fel magára a figyelmet.",
@@ -294,7 +326,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-Z",
     coords: [35.3897, 32.6865],
-    name: { de: "Berg Tabor", hu: "Tábor-hegy", ro: "Muntele Tabor", en: "Mount Tabor" },
+    name: { de: "Berg Tabor", hu: "Tábor-hegy", ro: "Muntele Tabor", en: "Mount Tabor",
+image: "/poi-images/mount-tabor-landmarks-v2.webp"
+},
     description: {
       de: "Der markante Berg Tabor erhebt sich isoliert aus der Jesreelebene und gilt in der christlichen Tradition als Ort der Verklärung Christi.",
       hu: "A Jezréel-völgyből elszigetelten kiemelkedő, jellegzetes Tábor-hegy a keresztény hagyomány szerint Krisztus színeváltozásának helyszíne.",
@@ -312,7 +346,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "IL-M",
     coords: [34.8966, 31.6046],
-    name: { de: "Höhlen von Bet Guvrin", hu: "Bét Guvrin barlangjai", ro: "Peșterile Beit Guvrin", en: "Beit Guvrin Caves" },
+    name: { de: "Höhlen von Bet Guvrin", hu: "Bét Guvrin barlangjai", ro: "Peșterile Beit Guvrin", en: "Beit Guvrin Caves",
+image: "/poi-images/beit-guvrin-caves-landmarks-v2.webp"
+},
     description: {
       de: "Der Nationalpark Bet Guvrin ist berühmt für seine unzähligen künstlichen Höhlen, die im Laufe der Jahrhunderte als Steinbrüche, Zisternen und Verstecke genutzt wurden.",
       hu: "A Bét Guvrin Nemzeti Park számtalan mesterséges barlangjáról híres, amelyeket az évszázadok során kőbányaként, ciszternaként és búvóhelyként használtak.",
@@ -330,7 +366,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-JM",
     coords: [35.2396, 31.7794],
-    name: { de: "Gethsemani", hu: "Gecsemáné-kert", ro: "Ghetsimani", en: "Gethsemane" },
+    name: { de: "Gethsemani", hu: "Gecsemáné-kert", ro: "Ghetsimani", en: "Gethsemane",
+image: "/poi-images/gethsemane-landmarks-v2.webp"
+},
     description: {
       de: "Der Garten Gethsemani am Fuße des Ölbergs in Jerusalem ist ein Ort tiefer christlicher Bedeutung, an dem Jesus in der Nacht vor seiner Kreuzigung gebetet haben soll.",
       hu: "A jeruzsálemi Olajfák hegyének lábánál fekvő Gecsemáné-kert mély keresztény jelentőségű hely, ahol Jézus imádkozott a keresztre feszítése előtti éjszakán.",
@@ -348,7 +386,9 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IL-TA",
     coords: [34.7915, 32.0743],
-    name: { de: "Azrieli Center", hu: "Azrieli Központ", ro: "Centrul Azrieli", en: "Azrieli Center" },
+    name: { de: "Azrieli Center", hu: "Azrieli Központ", ro: "Centrul Azrieli", en: "Azrieli Center",
+image: "/poi-images/azrieli-center-landmarks-v2.webp"
+},
     description: {
       de: "Das Azrieli Center in Tel Aviv ist ein markanter Komplex aus drei Wolkenkratzern mit unterschiedlichen geometrischen Formen, der das moderne Geschäftsviertel der Stadt dominiert.",
       hu: "A tel-avivi Azrieli Központ egy három különböző geometriai formájú felhőkarcolóból álló feltűnő komplexum, amely uralja a város modern üzleti negyedét.",

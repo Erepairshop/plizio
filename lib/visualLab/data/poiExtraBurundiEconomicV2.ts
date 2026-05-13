@@ -11,8 +11,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Brarudi-Brauerei",
       hu: "Brarudi Sörgyár",
       ro: "Berăria Brarudi",
-      en: "Brarudi Brewery"
-    },
+      en: "Brarudi Brewery",
+image: "/poi-images/brarudi-brauerei-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Brarudi-Brauerei ist das wichtigste Industrieunternehmen Burundis und ein zentraler Pfeiler der nationalen Wirtschaft. Seit ihrer Gründung spielt sie eine Schlüsselrolle bei der Schaffung von Arbeitsplätzen und der Generierung von Steuereinnahmen. Die Brauerei ist tief in der lokalen Kultur verwurzelt, da ihre Getränke, wie Primus, landesweit konsumiert werden und auf keiner sozialen Veranstaltung fehlen dürfen. Wirtschaft K8 — Industrielle Schlüsselunternehmen.",
       ro: "Brarudi este cea mai importantă unitate industrială de producție a băuturilor din Burundi, jucând un rol crucial în economia națională prin contribuția la veniturile fiscale și crearea de locuri de muncă. Situată în principal în Bujumbura, fabrica procesează materii prime locale pentru a produce o gamă largă de băuturi, devenind un simbol al industrializării țării. Activitatea companiei susține întregul lanț de aprovizionare local, de la fermieri la distribuitori. Economie K8 — importanța industrializării."
@@ -42,8 +43,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "SOSUMO-Zuckerfabrik",
       hu: "SOSUMO Cukorgyár",
       ro: "Fabrica de Zahăr SOSUMO",
-      en: "SOSUMO Sugar Factory"
-    },
+      en: "SOSUMO Sugar Factory",
+image: "/poi-images/sosumo-zuckerfabrik-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Zuckerfabrik SOSUMO im Mosso-Gebiet ist eine der größten landwirtschaftlichen Industrieanlagen Burundis. Sie nutzt die fruchtbaren Böden im Osten des Landes für den Zuckerrohranbau und produziert den Großteil des lokal konsumierten Zuckers. Die Fabrik ist ein unverzichtbarer Akteur für die Ernährungssicherheit des Landes und bietet zahlreichen Menschen in der ländlichen Region Beschäftigung. Wirtschaft K7 — Landwirtschaftliche Industrie.",
       ro: "Sosumo (Société Sucrière du Moso) este o companie de stat responsabilă cu producția de zahăr în regiunea Moso din Burundi. Aceasta joacă un rol strategic în asigurarea securității alimentare a țării și în dezvoltarea infrastructurii industriale rurale, procesând trestia de zahăr cultivată pe scară largă în zonă. Fabrica susține mii de locuri de muncă directe și indirecte, fiind pilonul economic al provinciei Ruyigi. Economie K7 — industrii de procesare a resurselor agricole."
@@ -73,8 +75,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "BUCECO-Zementwerk",
       hu: "BUCECO Cementgyár",
       ro: "Fabrica de Ciment BUCECO",
-      en: "BUCECO Cement Plant"
-    },
+      en: "BUCECO Cement Plant",
+image: "/poi-images/buceco-zementwerk-economic-v2.webp"
+},
     description: {
       de: "Das erste moderne Zementwerk Burundis, das den Bedarf für die Bauindustrie deckt.",
       hu: "Burundi első modern cementgyára, amely az építőipar igényeit szolgálja ki.",
@@ -96,8 +99,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Afritextile-Fabrik",
       hu: "Afritextile Textilgyár",
       ro: "Fabrica Afritextile",
-      en: "Afritextile Factory"
-    },
+      en: "Afritextile Factory",
+image: "/poi-images/afritextile-fabrik-economic-v2.webp"
+},
     description: {
       de: "Eine große Textilfabrik in Bujumbura, die lokal angebaute Baumwolle verarbeitet.",
       hu: "Egy nagy textilgyár Bujumburában, amely a helyben termesztett pamutot dolgozza fel.",
@@ -119,8 +123,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Savonor-Seifenfabrik",
       hu: "Savonor Szappangyár",
       ro: "Fabrica de Săpun Savonor",
-      en: "Savonor Soap Factory"
-    },
+      en: "Savonor Soap Factory",
+image: "/poi-images/savonor-seifenfabrik-economic-v2.webp"
+},
     description: {
       de: "Ein führender Hersteller von Seifen und Speiseölen in der Hauptstadt Bujumbura.",
       hu: "Szappanok és étolajok vezető gyártója a fővárosban, Bujumburában.",
@@ -142,8 +147,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Musongati-Nickelmine",
       hu: "Musongati Nikkelbánya",
       ro: "Mina de Nichel Musongati",
-      en: "Musongati Nickel Mine"
-    },
+      en: "Musongati Nickel Mine",
+image: "/poi-images/musongati-nickelmine-economic-v2.webp"
+},
     description: {
       de: "Eine der weltweit größten unerschlossenen Nickelreserven im Osten Burundis.",
       hu: "A világ egyik legnagyobb feltáratlan nikkelkészlete Burundi keleti részén.",
@@ -165,8 +171,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Gakara-Seltenerdminen",
       hu: "Gakara Ritkaföldfém-bányák",
       ro: "Minele de Pământuri Rare Gakara",
-      en: "Gakara Rare Earth Mines"
-    },
+      en: "Gakara Rare Earth Mines",
+image: "/poi-images/gakara-seltenerdminen-economic-v2.webp"
+},
     description: {
       de: "Bedeutende Minen für Seltenerdmetalle, die für moderne Technologien essenziell sind.",
       hu: "Jelentős ritkaföldfém-bányák, amelyek elengedhetetlenek a modern technológiákhoz.",
@@ -188,8 +195,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "OTB-Teefabrik Mabayi",
       hu: "OTB Mabayi Teagyár",
       ro: "Fabrica de Ceai OTB Mabayi",
-      en: "OTB Mabayi Tea Factory"
-    },
+      en: "OTB Mabayi Tea Factory",
+image: "/poi-images/otb-teefabrik-mabayi-economic-v2.webp"
+},
     description: {
       de: "Eine Verarbeitungsanlage für hochwertigen Tee im gebirgigen Nordwesten des Landes.",
       hu: "Az ország északnyugati részén működő teafeldolgozó üzem, amely a környező hegyek ültetvényeinek termését dolgozza fel.",
@@ -211,8 +219,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "OTB-Teefabrik Teza",
       hu: "OTB Teza Teagyár",
       ro: "Fabrica de Ceai OTB Teza",
-      en: "OTB Teza Tea Factory"
-    },
+      en: "OTB Teza Tea Factory",
+image: "/poi-images/otb-teefabrik-teza-economic-v2.webp"
+},
     description: {
       de: "Eine traditionsreiche Teefabrik in den kühlen Hochlagen von Muramvya.",
       hu: "Nagy múltú teagyár Muramvya hűvös magaslati tájain.",
@@ -234,8 +243,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "OTB-Teefabrik Tora",
       hu: "OTB Tora Teagyár",
       ro: "Fabrica de Ceai OTB Tora",
-      en: "OTB Tora Tea Factory"
-    },
+      en: "OTB Tora Tea Factory",
+image: "/poi-images/otb-teefabrik-tora-economic-v2.webp"
+},
     description: {
       de: "Wichtige Teeverarbeitungsstation in der südlichen Hochlandregion Bururis.",
       hu: "Fontos teafeldolgozó állomás Bururi déli felföldi régiójában.",
@@ -257,8 +267,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Musenyi-Torfmine",
       hu: "Musenyi Tőzegbánya",
       ro: "Mina de Turbă Musenyi",
-      en: "Musenyi Peat Mine"
-    },
+      en: "Musenyi Peat Mine",
+image: "/poi-images/musenyi-torfmine-economic-v2.webp"
+},
     description: {
       de: "Ein Abbaugebiet für Torf, das als alternative Energiequelle für das Land genutzt wird.",
       hu: "Tőzegbánya, amelyet alternatív energiaforrásként használnak az országban.",
@@ -280,8 +291,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Kaffee-Veredelungswerk Songa",
       hu: "Songa Kávéfeldolgozó Üzem",
       ro: "Unitatea de Procesare a Cafelei Songa",
-      en: "Songa Coffee Curing Plant"
-    },
+      en: "Songa Coffee Curing Plant",
+image: "/poi-images/kaffee-veredelungswerk-songa-economic-v2.webp"
+},
     description: {
       de: "Ein zentrales Werk zur Veredelung von Kaffeebohnen vor dem internationalen Export.",
       hu: "Központi üzem a kávébabok nemesítésére a nemzetközi export előtt.",
@@ -303,8 +315,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Minoloc-Getreidemühle",
       hu: "Minoloc Gabonamalom",
       ro: "Moara de Cereale Minoloc",
-      en: "Minoloc Flour Mill"
-    },
+      en: "Minoloc Flour Mill",
+image: "/poi-images/minoloc-getreidemuehle-economic-v2.webp"
+},
     description: {
       de: "Eine bedeutende Mühle in Bujumbura zur Herstellung von Mehl aus lokalem Getreide.",
       hu: "Bujumbura egyik jelentős malma, amely helyi gabonából készít lisztet.",
@@ -326,8 +339,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Hafen von Nyanza-Lac",
       hu: "Nyanza-Lac kikötője",
       ro: "Portul Nyanza-Lac",
-      en: "Port of Nyanza-Lac"
-    },
+      en: "Port of Nyanza-Lac",
+image: "/poi-images/hafen-von-nyanza-lac-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Nyanza-Lac liegt am südlichen Tanganjikasee und dient dem Handel mit Tansania. Er ist zugleich ein wichtiger Punkt für Fischerei und lokale Versorgung.",
       hu: "A Tanganyika-tó partján fekvő fontos kereskedelmi kikötő, amely összeköti Burundit Tanzániával.",
@@ -349,8 +363,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Hafen von Rumonge",
       hu: "Rumonge kikötője",
       ro: "Portul Rumonge",
-      en: "Port of Rumonge"
-    },
+      en: "Port of Rumonge",
+image: "/poi-images/hafen-von-rumonge-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Rumonge liegt am Seeufer und unterstützt den Handel der Stadt mit dem südlichen Umland. Besonders der Umschlag von Fisch und Palmöl spielt hier eine Rolle.",
       hu: "Burundi egyik legforgalmasabb tavi kikötője, amely a pálmaolaj- és halkereskedelem központja.",
@@ -372,8 +387,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Hafen von Gitaza",
       hu: "Gitaza kikötője",
       ro: "Portul Gitaza",
-      en: "Port of Gitaza"
-    },
+      en: "Port of Gitaza",
+image: "/poi-images/hafen-von-gitaza-economic-v2.webp"
+},
     description: {
       de: "Ein lokaler Hafen südlich von Bujumbura, der als Anlegestelle für den Warentransport dient.",
       hu: "Bujumburától délre fekvő helyi kikötő, amely az áruszállítás kikötőhelyeként szolgál.",
@@ -395,8 +411,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Kabarore-Goldmine",
       hu: "Kabarore Aranybánya",
       ro: "Mina de Aur Kabarore",
-      en: "Kabarore Gold Mine"
-    },
+      en: "Kabarore Gold Mine",
+image: "/poi-images/kabarore-goldmine-economic-v2.webp"
+},
     description: {
       de: "Eine Bergbaustätte im Norden des Landes, wo Gold in handwerklicher Tradition gewonnen wird.",
       hu: "Bányászati terület az ország északi részén, ahol hagyományos módon aranyat bányásznak.",
@@ -418,8 +435,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Rwegura-Wasserkraftwerk",
       hu: "Rwegura Vízierőmű",
       ro: "Hidrocentrala Rwegura",
-      en: "Rwegura Hydroelectric Power Plant"
-    },
+      en: "Rwegura Hydroelectric Power Plant",
+image: "/poi-images/rwegura-wasserkraftwerk-economic-v2.webp"
+},
     description: {
       de: "Das wichtigste Wasserkraftwerk Burundis, das einen Großteil des nationalen Stroms liefert.",
       hu: "Burundi legfontosabb vízierőműve, amely a nemzeti áramszükséglet nagy részét biztosítja.",
@@ -441,8 +459,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Jiji-Mulembwe-Wasserkraftwerk",
       hu: "Jiji-Mulembwe Vízierőmű",
       ro: "Hidrocentrala Jiji-Mulembwe",
-      en: "Jiji-Mulembwe Hydroelectric Power Plant"
-    },
+      en: "Jiji-Mulembwe Hydroelectric Power Plant",
+image: "/poi-images/jiji-mulembwe-wasserkraftwerk-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Energieprojekt im Süden, das zur Elektrifizierung des ländlichen Raums beiträgt.",
       hu: "Jelentős energetikai projekt délen, amely hozzájárul a vidéki területek villamosításához.",
@@ -464,8 +483,9 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Kinindo-Industriezone",
       hu: "Kinindo Ipari Zóna",
       ro: "Zona Industrială Kinindo",
-      en: "Kinindo Industrial Zone"
-    },
+      en: "Kinindo Industrial Zone",
+image: "/poi-images/kinindo-industriezone-economic-v2.webp"
+},
     description: {
       de: "Ein ausgewiesenes Industriegebiet in Bujumbura mit verschiedenen Fertigungsbetrieben.",
       hu: "Bujumbura egyik kijelölt ipari negyede, ahol számos feldolgozóipari üzem és raktár található.",

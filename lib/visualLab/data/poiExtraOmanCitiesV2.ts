@@ -6,7 +6,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-MA",
     coords: [58.4059, 23.5859],
-    name: { de: "Maskat", hu: "Maszkat", ro: "Muscat", en: "Muscat" },
+    name: { de: "Maskat", hu: "Maszkat", ro: "Muscat", en: "Muscat",
+image: "/poi-images/muscat-cities-v2.webp"
+},
     description: {
       de: "Maskat ist die Hauptstadt Omans, gelegen am Golf von Oman.",
       hu: "Maszkat Omán fővárosa, mely az Ománi-öböl partján fekszik.",
@@ -34,7 +36,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-ZU",
     coords: [54.0924, 17.0151],
-    name: { de: "Salala", hu: "Szalála", ro: "Salalah", en: "Salalah" },
+    name: { de: "Salala", hu: "Szalála", ro: "Salalah", en: "Salalah",
+image: "/poi-images/salalah-cities-v2.webp"
+},
     description: {
       de: "Salala ist für das jährliche Charif-Monsunfest bekannt.",
       hu: "Szalála az évenkénti kharif monszunról híres zöldellő város.",
@@ -62,7 +66,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-DA",
     coords: [57.5300, 22.9333],
-    name: { de: "Nizwa", hu: "Nizva", ro: "Nizwa", en: "Nizwa" },
+    name: { de: "Nizwa", hu: "Nizva", ro: "Nizwa", en: "Nizwa",
+image: "/poi-images/nizwa-cities-v2.webp"
+},
     description: {
       de: "Nizwa war einst die Hauptstadt Omans und ein Handelszentrum.",
       hu: "Nizva egykor Omán fővárosa és fontos kereskedelmi központ volt.",
@@ -90,7 +96,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-BA",
     coords: [56.7333, 24.3667],
-    name: { de: "Suhar", hu: "Szohar", ro: "Sohar", en: "Sohar" },
+    name: { de: "Suhar", hu: "Szohar", ro: "Sohar", en: "Sohar",
+image: "/poi-images/sohar-cities-v2.webp"
+},
     description: {
       de: "Suhar ist eine wichtige Hafenstadt und Industriestandort.",
       hu: "Szohar jelentős történelmi kikötőváros és ipari központ.",
@@ -118,7 +126,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-SJ",
     coords: [59.5289, 22.5667],
-    name: { de: "Sur", hu: "Szúr", ro: "Sur", en: "Sur" },
+    name: { de: "Sur", hu: "Szúr", ro: "Sur", en: "Sur",
+image: "/poi-images/sur-cities-v2.webp"
+},
     description: {
       de: "Sur ist berühmt für den traditionellen Bau von Dhau-Schiffen.",
       hu: "Szúr városa a hagyományos dhow hajók építéséről híres.",
@@ -146,7 +156,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-MU",
     coords: [56.2486, 26.1794],
-    name: { de: "Chasab", hu: "Haszab", ro: "Khasab", en: "Khasab" },
+    name: { de: "Chasab", hu: "Haszab", ro: "Khasab", en: "Khasab",
+image: "/poi-images/khasab-cities-v2.webp"
+},
     description: {
       de: "Chasab wird oft als das Norwegen Arabiens bezeichnet.",
       hu: "Haszabot gyakran Arábia Norvégiájaként emlegetik a fjordok miatt.",
@@ -174,7 +186,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-SS",
     coords: [58.5333, 22.6833],
-    name: { de: "Ibra", hu: "Ibra", ro: "Ibra", en: "Ibra" },
+    name: { de: "Ibra", hu: "Ibra", ro: "Ibra", en: "Ibra",
+image: "/poi-images/ibra-cities-v2.webp"
+},
     description: {
       de: "Ibra ist eine der ältesten Städte in der Region Asch-Scharqiyya.",
       hu: "Ibra az As-Sarkijja régió egyik legrégebbi és legfontosabb városa.",
@@ -202,7 +216,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-ZA",
     coords: [56.5058, 23.2289],
-    name: { de: "Ibri", hu: "Ibri", ro: "Ibri", en: "Ibri" },
+    name: { de: "Ibri", hu: "Ibri", ro: "Ibri", en: "Ibri",
+image: "/poi-images/ibri-cities-v2.webp"
+},
     description: {
       de: "Ibri liegt in der Ad-Dhahira-Region nahe bedeutenden Ölfeldern.",
       hu: "Ibri az Ad-Dahíra régióban fekszik, fontos olajmezők közelében.",
@@ -230,7 +246,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-BU",
     coords: [55.7936, 24.2567],
-    name: { de: "Al Buraimi", hu: "Al-Burajmi", ro: "Al Buraimi", en: "Al Buraimi" },
+    name: { de: "Al Buraimi", hu: "Al-Burajmi", ro: "Al Buraimi", en: "Al Buraimi",
+image: "/poi-images/al-buraimi-cities-v2.webp"
+},
     description: {
       de: "Al Buraimi ist eine Oasenstadt an der Grenze zu den VAE.",
       hu: "Al-Burajmi egy oázisváros az Egyesült Arab Emírségek határán.",
@@ -258,7 +276,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-BS",
     coords: [57.3972, 23.3906],
-    name: { de: "Rustaq", hu: "Ruszták", ro: "Rustaq", en: "Rustaq" },
+    name: { de: "Rustaq", hu: "Ruszták", ro: "Rustaq", en: "Rustaq",
+image: "/poi-images/rustaq-cities-v2.webp"
+},
     description: {
       de: "Rustaq war eine frühe Hauptstadt Omans mit einer großen Festung.",
       hu: "Ruszták Omán egykori fővárosa, mely hatalmas erődjéről ismert.",
@@ -286,7 +306,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "OM-WU",
     coords: [56.2731, 19.9572],
-    name: { de: "Haima", hu: "Haima", ro: "Haima", en: "Haima" },
+    name: { de: "Haima", hu: "Haima", ro: "Haima", en: "Haima",
+image: "/poi-images/haima-cities-v2.webp"
+},
     description: {
       de: "Haima liegt in der zentralen Wüstenregion Al Wusta.",
       hu: "Haima a középső Al Vuszta sivatagi régió közigazgatási központja.",
@@ -315,7 +337,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-MA",
     coords: [58.1889, 23.6703],
-    name: { de: "Sib", hu: "Szíb", ro: "Seeb", en: "Seeb" },
+    name: { de: "Sib", hu: "Szíb", ro: "Seeb", en: "Seeb",
+image: "/poi-images/seeb-cities-v2.webp"
+},
     description: {
       de: "Sib ist eine bevölkerungsreiche Küstenstadt im Gouvernement Maskat.",
       hu: "Szíb egy népes tengerparti város a Maszkat kormányzóságban.",
@@ -343,7 +367,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-MA",
     coords: [58.5667, 23.6167],
-    name: { de: "Matrah", hu: "Matrah", ro: "Muttrah", en: "Muttrah" },
+    name: { de: "Matrah", hu: "Matrah", ro: "Muttrah", en: "Muttrah",
+image: "/poi-images/muttrah-cities-v2.webp"
+},
     description: {
       de: "Matrah beherbergt einen der größten traditionellen Souks Omans.",
       hu: "Matrah ad otthont Omán egyik legnagyobb hagyományos piacának.",
@@ -371,7 +397,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-MA",
     coords: [58.4000, 23.5667],
-    name: { de: "Bawshar", hu: "Bausar", ro: "Bawshar", en: "Bawshar" },
+    name: { de: "Bawshar", hu: "Bausar", ro: "Bawshar", en: "Bawshar",
+image: "/poi-images/bawshar-cities-v2.webp"
+},
     description: {
       de: "Bawshar ist ein moderner Stadtteil von Maskat mit großen Dünen.",
       hu: "Bausar Maszkat modern városrésze, ahol hatalmas homokdűnék vannak.",
@@ -399,7 +427,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-DA",
     coords: [57.3000, 22.9667],
-    name: { de: "Bahla", hu: "Bahla", ro: "Bahla", en: "Bahla" },
+    name: { de: "Bahla", hu: "Bahla", ro: "Bahla", en: "Bahla",
+image: "/poi-images/bahla-cities-v2.webp"
+},
     description: {
       de: "Bahla ist für seine alte Festung und traditionelle Töpferei bekannt.",
       hu: "Bahla az ősi erődjéről és a hagyományos fazekasságáról híres.",
@@ -427,7 +457,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-BS",
     coords: [57.8833, 23.6833],
-    name: { de: "Barka", hu: "Barka", ro: "Barka", en: "Barka" },
+    name: { de: "Barka", hu: "Barka", ro: "Barka", en: "Barka",
+image: "/poi-images/barka-cities-v2.webp"
+},
     description: {
       de: "Barka liegt an der Küste und bietet eine alte Festung und Märkte.",
       hu: "Barka egy tengerparti város, mely régi erődjével vonzza a turistákat.",
@@ -447,7 +479,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-WU",
     coords: [57.6531, 19.6644],
-    name: { de: "Duqm", hu: "Dukm", ro: "Duqm", en: "Duqm" },
+    name: { de: "Duqm", hu: "Dukm", ro: "Duqm", en: "Duqm",
+image: "/poi-images/duqm-cities-v2.webp"
+},
     description: {
       de: "Duqm entwickelt sich schnell zu einer wichtigen Hafenstadt in Oman.",
       hu: "Dukm gyorsan fejlődő modern kikötő- és iparváros Omán középső részén.",
@@ -475,7 +509,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-BA",
     coords: [57.3333, 23.8500],
-    name: { de: "Suwaiq", hu: "Szuvajk", ro: "Suwayq", en: "Suwayq" },
+    name: { de: "Suwaiq", hu: "Szuvajk", ro: "Suwayq", en: "Suwayq",
+image: "/poi-images/suwayq-cities-v2.webp"
+},
     description: {
       de: "Suwaiq ist eine Küstenstadt mit einer landwirtschaftlichen Tradition.",
       hu: "Szuvajk egy mezőgazdasági múlttal rendelkező tengerparti település.",
@@ -504,7 +540,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-BA",
     coords: [56.8833, 24.1667],
-    name: { de: "Saham", hu: "Szaham", ro: "Saham", en: "Saham" },
+    name: { de: "Saham", hu: "Szaham", ro: "Saham", en: "Saham",
+image: "/poi-images/saham-cities-v2.webp"
+},
     description: {
       de: "Saham verbindet traditionelle Landwirtschaft mit modernem Handel.",
       hu: "Szaham a hagyományos mezőgazdaságot modern kereskedelemmel ötvözi.",
@@ -532,7 +570,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-BA",
     coords: [56.4667, 24.7500],
-    name: { de: "Shinas", hu: "Sinasz", ro: "Shinas", en: "Shinas" },
+    name: { de: "Shinas", hu: "Sinasz", ro: "Shinas", en: "Shinas",
+image: "/poi-images/shinas-cities-v2.webp"
+},
     description: {
       de: "Shinas ist die nördlichste Stadt der Al-Batinah-Region in Oman.",
       hu: "Sinasz az Al-Bátina régió legészakibb tengerparti városa.",
@@ -560,7 +600,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-SS",
     coords: [58.1000, 22.5667],
-    name: { de: "Al Mudaibi", hu: "Al-Mudaibi", ro: "Al Mudhaibi", en: "Al Mudhaibi" },
+    name: { de: "Al Mudaibi", hu: "Al-Mudaibi", ro: "Al Mudhaibi", en: "Al Mudhaibi",
+image: "/poi-images/al-mudhaibi-cities-v2.webp"
+},
     description: {
       de: "Al Mudaibi ist ein wichtiges Zentrum im Gouvernement Nord-Scharqiyya.",
       hu: "Al-Mudaibi fontos központ az Észak-Sarkijja kormányzóságban.",
@@ -588,7 +630,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-SJ",
     coords: [59.3333, 22.0167],
-    name: { de: "Jalan Bani Bu Ali", hu: "Dzsálán Bani Bú Ali", ro: "Jalan Bani Bu Ali", en: "Jalan Bani Bu Ali" },
+    name: { de: "Jalan Bani Bu Ali", hu: "Dzsálán Bani Bú Ali", ro: "Jalan Bani Bu Ali", en: "Jalan Bani Bu Ali",
+image: "/poi-images/jalan-bani-bu-ali-cities-v2.webp"
+},
     description: {
       de: "Jalan Bani Bu Ali ist bekannt für seine historischen Wachtürme.",
       hu: "Dzsálán Bani Bú Ali a történelmi őrtornyairól ismert település.",
@@ -616,7 +660,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-MA",
     coords: [58.9833, 23.2667],
-    name: { de: "Qurayyat", hu: "Kuraját", ro: "Qurayyat", en: "Qurayyat" },
+    name: { de: "Qurayyat", hu: "Kuraját", ro: "Qurayyat", en: "Qurayyat",
+image: "/poi-images/qurayyat-cities-v2.webp"
+},
     description: {
       de: "Qurayyat ist ein Fischerdorf mit einer Festung aus dem 19. Jahrhundert.",
       hu: "Kuraját egy régi halászfalu, melynek 19. századi erődje van.",
@@ -644,7 +690,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-DA",
     coords: [57.2833, 23.1167],
-    name: { de: "Al Hamra", hu: "Al-Hamra", ro: "Al Hamra", en: "Al Hamra" },
+    name: { de: "Al Hamra", hu: "Al-Hamra", ro: "Al Hamra", en: "Al Hamra",
+image: "/poi-images/al-hamra-cities-v2.webp"
+},
     description: {
       de: "Al Hamra bietet gut erhaltene traditionelle Lehmziegelhäuser.",
       hu: "Al-Hamra a jó állapotban fennmaradt vályogtéglás házairól híres.",
@@ -672,7 +720,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-ZU",
     coords: [54.4000, 17.0333],
-    name: { de: "Taqah", hu: "Taka", ro: "Taqah", en: "Taqah" },
+    name: { de: "Taqah", hu: "Taka", ro: "Taqah", en: "Taqah",
+image: "/poi-images/taqah-cities-v2.webp"
+},
     description: {
       de: "Taqah ist eine kleine Küstenstadt nahe Salalah mit weißem Strand.",
       hu: "Taka egy kis tengerparti város Szalála közelében, fehér homokos parttal.",
@@ -700,7 +750,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-ZU",
     coords: [54.6833, 16.9833],
-    name: { de: "Mirbat", hu: "Mirbat", ro: "Mirbat", en: "Mirbat" },
+    name: { de: "Mirbat", hu: "Mirbat", ro: "Mirbat", en: "Mirbat",
+image: "/poi-images/mirbat-cities-v2.webp"
+},
     description: {
       de: "Mirbat war historisch wichtig für den Export von Pferden und Weihrauch.",
       hu: "Mirbat egykor a tömjén- és lókereskedelem fontos kikötője volt.",
@@ -728,7 +780,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-ZU",
     coords: [54.0333, 17.6333],
-    name: { de: "Thumrait", hu: "Tumrajt", ro: "Thumrait", en: "Thumrait" },
+    name: { de: "Thumrait", hu: "Tumrajt", ro: "Thumrait", en: "Thumrait",
+image: "/poi-images/thumrait-cities-v2.webp"
+},
     description: {
       de: "Thumrait war einst eine wichtige Karawanenstation für Weihrauch.",
       hu: "Tumrajt egykor fontos karavánállomás volt a tömjén útján.",
@@ -757,7 +811,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-MU",
     coords: [56.2667, 25.6167],
-    name: { de: "Dibba", hu: "Dibba", ro: "Dibba", en: "Dibba" },
+    name: { de: "Dibba", hu: "Dibba", ro: "Dibba", en: "Dibba",
+image: "/poi-images/dibba-al-baya-cities-v2.webp"
+},
     description: {
       de: "Dibba ist eine geteilte Stadt auf der Halbinsel Musandam.",
       hu: "Dibba egy megosztott város a festői Muszandam-félszigeten.",
@@ -785,7 +841,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-BS",
     coords: [57.8333, 23.3833],
-    name: { de: "Nakhal", hu: "Nahal", ro: "Nakhal", en: "Nakhal" },
+    name: { de: "Nakhal", hu: "Nahal", ro: "Nakhal", en: "Nakhal",
+image: "/poi-images/nakhal-cities-v2.webp"
+},
     description: {
       de: "Nakhal ist berühmt für sein beeindruckendes Fort an den Bergen.",
       hu: "Nahal a hegyek lábánál fekvő lenyűgöző erődjéről ismert.",
@@ -813,7 +871,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
     type: "city",
     parent: "OM-DA",
     coords: [57.5333, 22.3833],
-    name: { de: "Adam", hu: "Adam", ro: "Adam", en: "Adam" },
+    name: { de: "Adam", hu: "Adam", ro: "Adam", en: "Adam",
+image: "/poi-images/adam-cities-v2.webp"
+},
     description: {
       de: "Adam ist die südlichste Stadt der Ad-Dachiliyya-Region in Oman.",
       hu: "Adam az Ad-Dahilijja régió legdélibb városa a sivatag peremén.",

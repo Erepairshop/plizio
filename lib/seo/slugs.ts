@@ -55,6 +55,25 @@ for (const p of _poiById.values()) {
   }
 }
 export const pois: POI[] = [..._passthrough, ...Array.from(_seenCoords.values())];
+
+// Lightweight POI shape for client-side bundles (maps, globes, interactive views).
+// Excludes the heavy text fields (`description`, `facts`, `descriptionAdvanced`,
+// `factsAdvanced`, `faq`, `plizioChallenge`) which only server-side code needs
+// (sitemap, metadata, POI detail page, structured data). Client code that
+// needs full content should call a server route (e.g. `/api/poi/[id]`).
+export type POILite = Pick<POI, "id" | "type" | "parent" | "coords" | "image" | "coa"> & {
+  name?: POI["name"]; // needed for hover/tooltip labels
+};
+
+export const poisLite: POILite[] = pois.map((p) => ({
+  id: p.id,
+  type: p.type,
+  parent: p.parent,
+  coords: p.coords,
+  image: p.image,
+  coa: p.coa,
+  name: p.name,
+}));
 const _regionById = new Map<string, POI>();
 for (const r of [...deRegions, ...romaniaRegions, ...hungaryRegions]) {
   if (r && r.id && !_regionById.has(r.id)) _regionById.set(r.id, r);
@@ -558,7 +577,20 @@ export function buildPoiPath(lang: Lang, poi: POI) {
   return `${buildStatePath(lang, poi.parent ?? "")}${poiSlug(poi, lang)}/`;
 }
 
+// Lite map for client-side `buildPoiPathById`. Built from `poisLite` so the
+// heavy text fields (description / facts / advanced / faq / plizioChallenge)
+// do NOT get pulled into client bundles when `InteractiveMap` (and any other
+// "use client" component) imports `buildPoiPathById`. Server callers should
+// continue to use `buildPoiPath` with a full POI object.
+const _poiLiteById = new Map<string, POILite>();
+for (const p of poisLite) {
+  if (p && p.id && p.type !== "region" && p.type !== "country") _poiLiteById.set(p.id, p);
+}
+
 export function buildPoiPathById(lang: Lang, poiId: string) {
-  const poi = poisOnly.find((entry) => entry.id === poiId);
-  return poi ? buildPoiPath(lang, poi) : null;
+  const poi = _poiLiteById.get(poiId);
+  if (!poi) return null;
+  const slugLookup = POI_SLUGS[poi.id]?.[lang];
+  const slug = slugLookup ?? slugify(poi.name?.[lang] || poi.name?.de || poi.id);
+  return `${buildStatePath(lang, poi.parent ?? "")}${slug}/`;
 }

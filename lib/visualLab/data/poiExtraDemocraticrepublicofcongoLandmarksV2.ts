@@ -11,8 +11,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Rathaus von Kinshasa",
       hu: "Kinshasa városháza",
       ro: "Primăria din Kinshasa",
-      en: "Kinshasa City Hall"
-    },
+      en: "Kinshasa City Hall",
+image: "/poi-images/cd-kinshasa-city-hall-landmarks-v2.webp"
+},
     description: {
       de: "Das Verwaltungszentrum der Hauptstadt, ein markantes Gebäude im Stadtteil Gombe.",
       hu: "A főváros közigazgatási központja, egy jelentős épület Gombe negyedben.",
@@ -35,8 +36,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Zentralbank des Kongo",
       hu: "Kongói Központi Bank",
       ro: "Banca Centrală a Congoului",
-      en: "Central Bank of Congo"
-    },
+      en: "Central Bank of Congo",
+image: "/poi-images/cd-central-bank-congo-landmarks-v2.webp"
+},
     description: {
       de: "Das monumentale Gebäude der Zentralbank, ein Symbol der Finanzkraft des Landes.",
       hu: "A Központi Bank monumentális épülete, az ország pénzügyi hatalmának szimbóluma.",
@@ -58,8 +60,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Monument des 50. Jahrestages",
       hu: "Az 50. évforduló emlékműve",
       ro: "Monumentul Centenarului",
-      en: "Fiftieth Anniversary Monument"
-    },
+      en: "Fiftieth Anniversary Monument",
+image: "/poi-images/cd-cinquantenaire-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Kinshasa, das zum 50. Jahrestag der Unabhängigkeit des Kongo errichtet wurde.",
       hu: "Emlékmű Kinshasában, amelyet Kongó függetlenségének 50. évfordulójára emeltek.",
@@ -81,8 +84,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Sainte-Marie von Kananga",
       hu: "Szent Mária-székesegyház (Kananga)",
       ro: "Catedrala Sfânta Maria din Kananga",
-      en: "St. Mary's Cathedral, Kananga"
-    },
+      en: "St. Mary's Cathedral, Kananga",
+image: "/poi-images/cd-kananga-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Eine der größten Kirchen in Zentralkongo, bekannt für ihre neugotische Architektur.",
       hu: "Közép-Kongó egyik legnagyobb temploma, amely neogótikus építészetéről ismert.",
@@ -105,8 +109,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Frédéric Kibassa Maliba Stadion",
       hu: "Frédéric Kibassa Maliba Stadion",
       ro: "Stadionul Frédéric Kibassa Maliba",
-      en: "Frédéric Kibassa Maliba Stadium"
-    },
+      en: "Frédéric Kibassa Maliba Stadium",
+image: "/poi-images/cd-kibassa-maliba-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Sportstadion in Lubumbashi, ehemals bekannt als Stade de la Kenya.",
       hu: "Jelentős sportstadion Lubumbashiban, korábban Stade de la Kenya néven ismert.",
@@ -128,8 +133,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale von Lisala",
       hu: "Lisalai székesegyház",
       ro: "Catedrala din Lisala",
-      en: "Lisala Cathedral"
-    },
+      en: "Lisala Cathedral",
+image: "/poi-images/cd-lisala-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Backsteinkirche am Ufer des Kongo-Flusses im Norden des Landes.",
       hu: "Lenyűgöző téglaépítésű templom a Kongó folyó partján, az ország északi részén.",
@@ -152,8 +158,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Saint-Eugène",
       hu: "Szent Jenő-székesegyház",
       ro: "Catedrala Sfântul Eugen",
-      en: "St. Eugene's Cathedral"
-    },
+      en: "St. Eugene's Cathedral",
+image: "/poi-images/cd-mbandaka-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkathedrale von Mbandaka, ein Wahrzeichen am Äquator.",
       hu: "Mbandaka főszékesegyháza, egy jellegzetes épület az Egyenlítőnél.",
@@ -175,8 +182,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Monument der Einheit (Goma)",
       hu: "Egység emlékmű (Goma)",
       ro: "Monumentul Unității (Goma)",
-      en: "Unity Monument (Goma)"
-    },
+      en: "Unity Monument (Goma)",
+image: "/poi-images/cd-unity-monument-goma-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Denkmal im Stadtzentrum von Goma, das Frieden und Zusammenhalt symbolisiert.",
       hu: "Goma városközpontjában álló jellegzetes emlékmű, amely a békét és az összefogást jelképezi.",
@@ -198,8 +206,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Université de Lubumbashi (Belvédère)",
       hu: "Lubumbashi Egyetem (Belvédère)",
       ro: "Universitatea din Lubumbashi (Belvédère)",
-      en: "University of Lubumbashi (Belvédère)"
-    },
+      en: "University of Lubumbashi (Belvédère)",
+image: "/poi-images/cd-unilu-belvedere-landmarks-v2.webp"
+},
     description: {
       de: "Die markanten Campusgebäude der Universität Lubumbashi, ein Zentrum für Bildung im Süden.",
       hu: "A Lubumbashi Egyetem jellegzetes kampuszépületei, a dél-kongói oktatás központja.",
@@ -222,8 +231,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Stadion der Eintracht (Bukavu)",
       hu: "Egyetértés Stadion (Bukavu)",
       ro: "Stadionul Concorde (Bukavu)",
-      en: "Concord Stadium (Bukavu)"
-    },
+      en: "Concord Stadium (Bukavu)",
+image: "/poi-images/cd-concorde-stadium-bukavu-landmarks-v2.webp"
+},
     description: {
       de: "Das Hauptstadion von Bukavu, gelegen im Stadtteil Kadutu.",
       hu: "Bukavu főstadionja, Kadutu negyedben található.",
@@ -246,8 +256,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Sainte-Thérèse von Butembo",
       hu: "Szent Teréz-székesegyház (Butembo)",
       ro: "Catedrala Sfânta Tereza din Butembo",
-      en: "St. Therese Cathedral, Butembo"
-    },
+      en: "St. Therese Cathedral, Butembo",
+image: "/poi-images/cd-butembo-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die imposante Kathedrale von Butembo, ein Symbol des christlichen Glaubens im Nordosten.",
       hu: "Butembo impozáns székesegyháza, a keresztény hit szimbóluma az északkeleti részen.",
@@ -269,8 +280,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Lualaba-Brücke (Kindu)",
       hu: "Lualaba-híd (Kindu)",
       ro: "Podul Lualaba (Kindu)",
-      en: "Lualaba Bridge (Kindu)"
-    },
+      en: "Lualaba Bridge (Kindu)",
+image: "/poi-images/cd-kindu-lualaba-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine strategisch wichtige Brücke in Kindu, die die beiden Ufer des Lualaba-Flusses verbindet.",
       hu: "Stratégiai fontosságú híd Kinduban, amely a Lualaba folyó két partját köti össze.",
@@ -292,8 +304,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Regierungsgebäude (Kinshasa)",
       hu: "Kormányzati épület (Kinshasa)",
       ro: "Clădirea Guvernului (Kinshasa)",
-      en: "Government Building (Kinshasa)"
-    },
+      en: "Government Building (Kinshasa)",
+image: "/poi-images/cd-government-building-kinshasa-landmarks-v2.webp"
+},
     description: {
       de: "Ein moderner Bürokomplex in Kinshasa, der zahlreiche Ministerien beherbergt.",
       hu: "Modern irodakomplexum Kinshasában, amely számos minisztériumnak ad otthont.",
@@ -315,8 +328,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Hotel Memling",
       hu: "Memling Hotel",
       ro: "Hotel Memling",
-      en: "Hotel Memling"
-    },
+      en: "Hotel Memling",
+image: "/poi-images/cd-hotel-memling-landmarks-v2.webp"
+},
     description: {
       de: "Eines der bekanntesten und traditionsreichsten Hotels in Kinshasa, ein Wahrzeichen der Stadt.",
       hu: "Kinshasa egyik legismertebb és legpatinásabb szállodája, a város egyik jelképe.",
@@ -338,8 +352,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Saint-Joseph von Matadi",
       hu: "Szent József-székesegyház (Matadi)",
       ro: "Catedrala Sfântul Iosif din Matadi",
-      en: "St. Joseph's Cathedral, Matadi"
-    },
+      en: "St. Joseph's Cathedral, Matadi",
+image: "/poi-images/cd-matadi-st-joseph-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkirche der Hafenstadt Matadi, markant auf einem Hügel gelegen.",
       hu: "Matadi kikötővárosának főtemploma, amely egy dombon magasodik.",
@@ -361,8 +376,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Katholische Mission von Lemfu",
       hu: "Lemfui katolikus misszió",
       ro: "Misiunea Catolică din Lemfu",
-      en: "Lemfu Catholic Mission"
-    },
+      en: "Lemfu Catholic Mission",
+image: "/poi-images/cd-lemfu-mission-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Missionsstation mit beeindruckenden Gebäuden aus der Kolonialzeit.",
       hu: "Történelmi missziós állomás lenyűgöző gyarmati kori épületekkel.",
@@ -384,8 +400,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Sainte-Thérèse d'Anuarite",
       hu: "Szent Teréz-székesegyház (Isiro)",
       ro: "Catedrala Sfânta Tereza din Isiro",
-      en: "St. Therese Cathedral, Isiro"
-    },
+      en: "St. Therese Cathedral, Isiro",
+image: "/poi-images/cd-isiro-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkirche von Isiro, benannt nach der seligen Marie-Clémentine Anuarite Nengapeta.",
       hu: "Isiro főtemploma, amelyet Boldog Marie-Clémentine Anuarite Nengapetáról neveztek el.",
@@ -407,8 +424,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Symphonie des Arts",
       hu: "Symphonie des Arts",
       ro: "Simfonia Artelor",
-      en: "Symphonie des Arts"
-    },
+      en: "Symphonie des Arts",
+image: "/poi-images/cd-symphonie-arts-kinshasa-landmarks-v2.webp"
+},
     description: {
       de: "Ein kulturelles Wahrzeichen in Kinshasa, bekannt für seine Kunstgalerien und Gärten.",
       hu: "Kinshasa kulturális nevezetessége, amely művészeti galériáiról és kertjeiről ismert.",
@@ -430,8 +448,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Lumumba-Statue am Échangeur",
       hu: "Lumumba-szobor (Limete)",
       ro: "Statuia lui Lumumba din Limete",
-      en: "Lumumba Statue at the Interchange"
-    },
+      en: "Lumumba Statue at the Interchange",
+image: "/poi-images/cd-lumumba-statue-limete-landmarks-v2.webp"
+},
     description: {
       de: "Die markante Bronzestatue des Nationalhelden Patrice Lumumba am Fuße des Limete-Turms.",
       hu: "Patrice Lumumba nemzeti hős jellegzetes bronzszobra a Limete-torony lábánál.",
@@ -453,8 +472,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Leuchtturm von Banana",
       hu: "Banani világítótorony",
       ro: "Farul din Banana",
-      en: "Banana Lighthouse"
-    },
+      en: "Banana Lighthouse",
+image: "/poi-images/cd-banana-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Leuchtturm an der Mündung des Kongos in den Atlantik bei Banana.",
       hu: "Történelmi világítótorony a Kongó torkolatánál, az Atlanti-óceán partján, Bananában.",
@@ -476,8 +496,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Saint-Gabriel",
       hu: "Szent Gábor-székesegyház",
       ro: "Catedrala Sfântul Gabriel",
-      en: "St. Gabriel's Cathedral"
-    },
+      en: "St. Gabriel's Cathedral",
+image: "/poi-images/cd-basankusu-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Kathedrale von Basankusu, ein bedeutendes religiöses Bauwerk in der Provinz Équateur.",
       hu: "Basankusu székesegyháza, jelentős vallási épület Équateur tartományban.",
@@ -499,8 +520,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Mont Ngaliema Kulturpark",
       hu: "Mont Ngaliema kulturális park",
       ro: "Parcul Cultural Mont Ngaliema",
-      en: "Mount Ngaliema Cultural Park"
-    },
+      en: "Mount Ngaliema Cultural Park",
+image: "/poi-images/cd-mount-ngaliema-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer und kultureller Ort in Kinshasa mit Denkmälern und Museen.",
       hu: "Történelmi és kulturális helyszín Kinshasában emlékművekkel és múzeumokkal.",
@@ -522,8 +544,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Saint-Kizito (Idjwi)",
       hu: "Szent Kizito-székesegyház (Idjwi)",
       ro: "Catedrala Sfântul Kizito (Idjwi)",
-      en: "St. Kizito Cathedral (Idjwi)"
-    },
+      en: "St. Kizito Cathedral (Idjwi)",
+image: "/poi-images/cd-idjwi-st-kizito-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die wichtigste Kirche auf der Insel Idjwi im Kivusee.",
       hu: "Idjwi szigetének legfontosabb temploma a Kivu-tó közepén.",
@@ -546,8 +569,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale von Kabinda",
       hu: "Kabindai székesegyház",
       ro: "Catedrala din Kabinda",
-      en: "Kabinda Cathedral"
-    },
+      en: "Kabinda Cathedral",
+image: "/poi-images/cd-kabinda-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die zentrale Kathedrale von Kabinda, ein bedeutendes Wahrzeichen in der Provinz Lomami.",
       hu: "Kabinda központi székesegyháza, jelentős nevezetesség Lomami tartományban.",
@@ -569,8 +593,9 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       de: "Kathedrale Sainte-Marie von Kikwit",
       hu: "Szent Mária-székesegyház (Kikwit)",
       ro: "Catedrala Sfânta Maria din Kikwit",
-      en: "St. Mary's Cathedral, Kikwit"
-    },
+      en: "St. Mary's Cathedral, Kikwit",
+image: "/poi-images/cd-kikwit-st-mary-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkathedrale der Stadt Kikwit, bekannt für ihre lebendige Gemeinde.",
       hu: "Kikwit városának főszékesegyháza, amely élénk közösségéről ismert.",

@@ -7,7 +7,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-SD",
     coords: [-74.0285, 18.3667],
-    name: { de: "Nationalpark Pic Macaya", hu: "Pic Macaya Nemzeti Park", ro: "Parcul Național Pic Macaya", en: "Pic Macaya National Park" },
+    name: { de: "Nationalpark Pic Macaya", hu: "Pic Macaya Nemzeti Park", ro: "Parcul Național Pic Macaya", en: "Pic Macaya National Park",
+image: "/poi-images/parc-national-macaya-life-v2.webp"
+},
     description: { de: "Ein bedeutendes Naturschutzgebiet mit reicher Biodiversität und endemischen Tierarten.", hu: "Jelentős természetvédelmi terület gazdag biodiverzitással és endemikus állatfajokkal.", ro: "O rezervație naturală importantă cu o biodiversitate bogată și specii endemice.", en: "An important nature reserve with rich biodiversity and endemic animal species." },
     facts: {
       de: ["Heimat seltener Froscharten", "Dichter Bergwald"],
@@ -33,7 +35,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-OU",
     coords: [-72.3333, 18.3333],
-    name: { de: "Nationalpark La Visite", hu: "La Visite Nemzeti Park", ro: "Parcul Național La Visite", en: "La Visite National Park" },
+    name: { de: "Nationalpark La Visite", hu: "La Visite Nemzeti Park", ro: "Parcul Național La Visite", en: "La Visite National Park",
+image: "/poi-images/parc-national-la-visite-life-v2.webp"
+},
     description: { de: "Ein wichtiges Vogelschutzgebiet in den Bergen Haitis.", hu: "Fontos madárvédelmi terület Haiti hegyvidékén.", ro: "O zonă importantă de protecție a păsărilor în munții din Haiti.", en: "An important bird sanctuary in the mountains of Haiti." },
     facts: {
       de: ["Zahlreiche endemische Vogelarten", "Kühles Bergklima"],
@@ -59,7 +63,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-SE",
     coords: [-71.95, 18.31],
-    name: { de: "Forêt des Pins Reservat", hu: "Forêt des Pins Rezervátum", ro: "Rezervația Forêt des Pins", en: "Forêt des Pins Reserve" },
+    name: { de: "Forêt des Pins Reservat", hu: "Forêt des Pins Rezervátum", ro: "Rezervația Forêt des Pins", en: "Forêt des Pins Reserve",
+image: "/poi-images/foret-des-pins-life-v2.webp"
+},
     description: { de: "Ein geschütztes Kiefernwaldgebiet, das Lebensraum für viele lokale Tiere bietet.", hu: "Védett fenyőerdő terület, amely sok helyi állatnak ad otthont.", ro: "O zonă protejată de pădure de pini care oferă habitat multor animale locale.", en: "A protected pine forest area that provides habitat for many local animals." },
     facts: {
       de: ["Seltene Reptilienarten", "Bedeutend für die Wasserwirtschaft"],
@@ -85,7 +91,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-AR",
     coords: [-72.6, 19.2],
-    name: { de: "Artibonite-Ebene Agrarregion", hu: "Artibonite-síkság mezőgazdasági régió", ro: "Regiunea agricolă Câmpia Artibonite", en: "Artibonite Plain Agricultural Region" },
+    name: { de: "Artibonite-Ebene Agrarregion", hu: "Artibonite-síkság mezőgazdasági régió", ro: "Regiunea agricolă Câmpia Artibonite", en: "Artibonite Plain Agricultural Region",
+image: "/poi-images/plaine-artibonite-agri-life-v2.webp"
+},
     description: { de: "Das wichtigste Reisanbaugebiet des Landes.", hu: "Az ország legfontosabb rizstermesztő vidéke.", ro: "Cea mai importantă zonă de cultivare a orezului din țară.", en: "The most important rice-growing area in the country." },
     facts: {
       de: ["Haupterzeuger für haitianischen Reis", "Bewässerung durch den Artibonite-Fluss"],
@@ -111,7 +119,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-SE",
     coords: [-72.7, 18.2],
-    name: { de: "Côtes-de-Fer Kaffeeanbau", hu: "Côtes-de-Fer kávétermesztés", ro: "Cultivarea cafelei Côtes-de-Fer", en: "Côtes-de-Fer Coffee Cultivation" },
+    name: { de: "Côtes-de-Fer Kaffeeanbau", hu: "Côtes-de-Fer kávétermesztés", ro: "Cultivarea cafelei Côtes-de-Fer", en: "Côtes-de-Fer Coffee Cultivation",
+image: "/poi-images/cotes-de-fer-agri-life-v2.webp"
+},
     description: { de: "Eine Region, die für ihren hochwertigen Kaffee bekannt ist.", hu: "Kiváló minőségű kávéjáról ismert régió.", ro: "O regiune cunoscută pentru cafeaua sa de înaltă calitate.", en: "A region known for its high-quality coffee." },
     facts: {
       de: ["Traditionelle Anbaumethoden", "Bergkaffee von hoher Qualität"],
@@ -137,7 +147,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-SD",
     coords: [-73.75, 18.2],
-    name: { de: "Botanischer Garten Les Cayes", hu: "Les Cayes-i Botanikus Kert", ro: "Grădina Botanică Les Cayes", en: "Les Cayes Botanical Garden" },
+    name: { de: "Botanischer Garten Les Cayes", hu: "Les Cayes-i Botanikus Kert", ro: "Grădina Botanică Les Cayes", en: "Les Cayes Botanical Garden",
+image: "/poi-images/jardin-botanique-cayes-life-v2.webp"
+},
     description: { de: "Ein pädagogischer Ort für Kinder, um die lokale Pflanzenwelt kennenzulernen.", hu: "Oktatási hely gyerekeknek a helyi növényvilág megismerésére.", ro: "Un loc educativ pentru copii pentru a învăța despre flora locală.", en: "An educational place for children to learn about local flora." },
     facts: {
       de: ["Lehrpfade für Schüler", "Sammlung tropischer Pflanzen"],
@@ -163,7 +175,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-SE",
     coords: [-72.5, 18.2],
-    name: { de: "Ökologischer Bauernhof Jacmel", hu: "Jacmel-i Ökológiai Gazdaság", ro: "Fermă ecologică Jacmel", en: "Jacmel Ecological Farm" },
+    name: { de: "Ökologischer Bauernhof Jacmel", hu: "Jacmel-i Ökológiai Gazdaság", ro: "Fermă ecologică Jacmel", en: "Jacmel Ecological Farm",
+image: "/poi-images/ferme-ecologique-jacmel-life-v2.webp"
+},
     description: { de: "Ein Bauernhof, der Kindern nachhaltige Landwirtschaft zeigt.", hu: "Gazdaság, amely bemutatja a gyerekeknek a fenntartható mezőgazdaságot.", ro: "O fermă care arată copiilor agricultura durabilă.", en: "A farm that shows children sustainable agriculture." },
     facts: {
       de: ["Demonstrationsgarten", "Umweltbildungsprogramme"],
@@ -189,7 +203,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-OU",
     coords: [-73.1, 18.8],
-    name: { de: "Gonâve Tierreservat", hu: "Gonâve Állatrezervátum", ro: "Rezervația de animale Gonâve", en: "Gonâve Animal Reserve" },
+    name: { de: "Gonâve Tierreservat", hu: "Gonâve Állatrezervátum", ro: "Rezervația de animale Gonâve", en: "Gonâve Animal Reserve",
+image: "/poi-images/reserve-animale-gonave-life-v2.webp"
+},
     description: { de: "Ein Schutzgebiet für lokale Inseltiere.", hu: "Védett terület a helyi szigeti állatok számára.", ro: "O zonă protejată pentru animalele insulare locale.", en: "A protected area for local island animals." },
     facts: {
       de: ["Beobachtung von Meeresvögeln", "Natürlicher Lebensraum"],
@@ -215,7 +231,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-SE",
     coords: [-72.55, 18.25],
-    name: { de: "Bassin-Bleu Kinderparadies", hu: "Bassin-Bleu gyermekparadicsom", ro: "Paradisul copiilor Bassin-Bleu", en: "Bassin-Bleu Children's Paradise" },
+    name: { de: "Bassin-Bleu Kinderparadies", hu: "Bassin-Bleu gyermekparadicsom", ro: "Paradisul copiilor Bassin-Bleu", en: "Bassin-Bleu Children's Paradise",
+image: "/poi-images/bassin-bleu-nature-life-v2.webp"
+},
     description: { de: "Ein natürliches Becken, das bei Familien beliebt ist.", hu: "Természetes medence, amely népszerű a családok körében.", ro: "Un bazin natural popular în rândul familiilor.", en: "A natural basin popular with families." },
     facts: {
       de: ["Sichere Badebereiche", "Umgeben von Dschungel"],
@@ -241,7 +259,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-OU",
     coords: [-72.3, 18.5],
-    name: { de: "Kinderfreizeitpark Port-au-Prince", hu: "Port-au-Prince Gyermekszabadidőpark", ro: "Parc de distracții pentru copii Port-au-Prince", en: "Port-au-Prince Children's Leisure Park" },
+    name: { de: "Kinderfreizeitpark Port-au-Prince", hu: "Port-au-Prince Gyermekszabadidőpark", ro: "Parc de distracții pentru copii Port-au-Prince", en: "Port-au-Prince Children's Leisure Park",
+image: "/poi-images/parc-miraculeux-pa-p-life-v2.webp"
+},
     description: { de: "Ein zentraler Ort für Spiel und Erholung für Kinder.", hu: "Központi játszó- és pihenőhely gyerekeknek.", ro: "Un loc central de joacă și relaxare pentru copii.", en: "A central place for play and recreation for children." },
     facts: {
       de: ["Spielplätze", "Picknickbereiche"],
@@ -267,7 +287,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-ND",
     coords: [-72.1, 19.6],
-    name: { de: "Bananenplantagen Limonade", hu: "Limonade banánültetvények", ro: "Plantații de banane Limonade", en: "Limonade Banana Plantations" },
+    name: { de: "Bananenplantagen Limonade", hu: "Limonade banánültetvények", ro: "Plantații de banane Limonade", en: "Limonade Banana Plantations",
+image: "/poi-images/bananenausbau-limonade-life-v2.webp"
+},
     description: { de: "Ein wichtiges Gebiet für den Bananenanbau.", hu: "Fontos terület a banántermesztés számára.", ro: "O zonă importantă pentru cultivarea bananelor.", en: "An important area for banana cultivation." },
     facts: {
       de: ["Hauptanbaugebiet im Norden", "Frische Früchte"],
@@ -293,7 +315,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-SD",
     coords: [-74.05, 18.35],
-    name: { de: "Biologische Forschungsstation Macaya", hu: "Macaya Biológiai Kutatóállomás", ro: "Stația biologică de cercetare Macaya", en: "Macaya Biological Research Station" },
+    name: { de: "Biologische Forschungsstation Macaya", hu: "Macaya Biológiai Kutatóállomás", ro: "Stația biologică de cercetare Macaya", en: "Macaya Biological Research Station",
+image: "/poi-images/station-biologique-macaya-life-v2.webp"
+},
     description: { de: "Ein Zentrum für Tierstudien im Nationalpark.", hu: "Állattani kutatóközpont a nemzeti parkban.", ro: "Un centru de studii animale în parcul național.", en: "A center for animal studies in the national park." },
     facts: {
       de: ["Forschung an endemischen Arten", "Umweltschutz"],
@@ -319,7 +343,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-OU",
     coords: [-72.28, 18.55],
-    name: { de: "Einfacher Tierpark Pétion-Ville", hu: "Pétion-Ville állatkert", ro: "Grădina zoologică simplă Pétion-Ville", en: "Simple Pétion-Ville Zoo" },
+    name: { de: "Einfacher Tierpark Pétion-Ville", hu: "Pétion-Ville állatkert", ro: "Grădina zoologică simplă Pétion-Ville", en: "Simple Pétion-Ville Zoo",
+image: "/poi-images/jardin-zoologique-simple-life-v2.webp"
+},
     description: { de: "Ein kleiner Park mit lokalen Tieren.", hu: "Kis park helyi állatokkal.", ro: "O mică grădină zoologică cu animale locale.", en: "A small zoo with local animals." },
     facts: {
       de: ["Lernort für Kinder", "Heimische Tierarten"],
@@ -345,7 +371,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-AR",
     coords: [-72.2, 19.3],
-    name: { de: "Agrarzentrum Saint-Michel", hu: "Saint-Michel agrárközpont", ro: "Centru agricol Saint-Michel", en: "Saint-Michel Agricultural Center" },
+    name: { de: "Agrarzentrum Saint-Michel", hu: "Saint-Michel agrárközpont", ro: "Centru agricol Saint-Michel", en: "Saint-Michel Agricultural Center",
+image: "/poi-images/agrarzentrum-saint-michel-life-v2.webp"
+},
     description: { de: "Ein Bildungszentrum für moderne Landwirtschaft.", hu: "Modern mezőgazdasági oktatóközpont.", ro: "Un centru educațional pentru agricultura modernă.", en: "An educational center for modern agriculture." },
     facts: {
       de: ["Kurse für junge Landwirte", "Nachhaltige Methoden"],
@@ -371,7 +399,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-GA",
     coords: [-74.1, 18.6],
-    name: { de: "Kinderpark Jérémie", hu: "Jérémie gyermekpark", ro: "Parc pentru copii Jérémie", en: "Jérémie Children's Park" },
+    name: { de: "Kinderpark Jérémie", hu: "Jérémie gyermekpark", ro: "Parc pentru copii Jérémie", en: "Jérémie Children's Park",
+image: "/poi-images/parc-enfants-jeremie-life-v2.webp"
+},
     description: { de: "Ein schöner Park am Meer für Kinder.", hu: "Szép tengerparti park gyerekeknek.", ro: "Un parc frumos de la malul mării pentru copii.", en: "A beautiful seaside park for children." },
     facts: {
       de: ["Spielgeräte", "Schattenplätze"],
@@ -397,7 +427,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-GA",
     coords: [-74.15, 18.5],
-    name: { de: "Grand-Anse Kakaoanbau", hu: "Grand-Anse kakaótermesztés", ro: "Cultivarea cacao Grand-Anse", en: "Grand-Anse Cocoa Cultivation" },
+    name: { de: "Grand-Anse Kakaoanbau", hu: "Grand-Anse kakaótermesztés", ro: "Cultivarea cacao Grand-Anse", en: "Grand-Anse Cocoa Cultivation",
+image: "/poi-images/plantation-cacao-grand-anse-life-v2.webp"
+},
     description: { de: "Region für hochwertige Kakaoproduktion.", hu: "Kiváló minőségű kakaótermelő vidék.", ro: "Regiune pentru producția de cacao de înaltă calitate.", en: "Region for high-quality cocoa production." },
     facts: {
       de: ["Traditionelle Trocknung", "Bio-Qualität"],
@@ -423,7 +455,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-OU",
     coords: [-72.6, 18.5],
-    name: { de: "Tierfarm Léogâne", hu: "Léogâne állatfarm", ro: "Fermă de animale Léogâne", en: "Léogâne Animal Farm" },
+    name: { de: "Tierfarm Léogâne", hu: "Léogâne állatfarm", ro: "Fermă de animale Léogâne", en: "Léogâne Animal Farm",
+image: "/poi-images/ferme-animaux-leogane-life-v2.webp"
+},
     description: { de: "Ein Ort, an dem Kinder Nutztiere hautnah erleben.", hu: "Hely, ahol a gyerekek közelről ismerhetik meg a haszonállatokat.", ro: "Un loc unde copiii pot vedea animalele de fermă de aproape.", en: "A place where children can experience farm animals up close." },
     facts: {
       de: ["Interaktive Erlebnisse", "Lernen über Tierpflege"],
@@ -449,7 +483,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-GA",
     coords: [-73.7, 18.6],
-    name: { de: "Cayemites Naturpark", hu: "Cayemites Natúrpark", ro: "Parc natural Cayemites", en: "Cayemites Nature Park" },
+    name: { de: "Cayemites Naturpark", hu: "Cayemites Natúrpark", ro: "Parc natural Cayemites", en: "Cayemites Nature Park",
+image: "/poi-images/parc-nature-cayemites-life-v2.webp"
+},
     description: { de: "Ein geschütztes Gebiet mit maritimer Tierwelt.", hu: "Védett terület tengeri állatvilággal.", ro: "O zonă protejată cu faună marină.", en: "A protected area with marine wildlife." },
     facts: {
       de: ["Schnorcheln für Jugendliche", "Korallenriffschutz"],
@@ -475,7 +511,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-OU",
     coords: [-72.1, 18.6],
-    name: { de: "Trou Caïman Feuchtgebiet", hu: "Trou Caïman vizes élőhely", ro: "Zona umedă Trou Caïman", en: "Trou Caïman Wetland" },
+    name: { de: "Trou Caïman Feuchtgebiet", hu: "Trou Caïman vizes élőhely", ro: "Zona umedă Trou Caïman", en: "Trou Caïman Wetland",
+image: "/poi-images/marais-trou-caiman-life-v2.webp"
+},
     description: { de: "Ein bedeutender Lebensraum für Krokodile und Vögel.", hu: "Fontos élőhely krokodilok és madarak számára.", ro: "Un habitat important pentru crocodili și păsări.", en: "An important habitat for crocodiles and birds." },
     facts: {
       de: ["Beobachtungsplattformen", "Seltene Wasservögel"],
@@ -501,7 +539,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-AR",
     coords: [-72.6, 19.1],
-    name: { de: "Obstgarten Saint-Marc", hu: "Saint-Marc gyümölcsöskert", ro: "Livada Saint-Marc", en: "Saint-Marc Fruit Orchard" },
+    name: { de: "Obstgarten Saint-Marc", hu: "Saint-Marc gyümölcsöskert", ro: "Livada Saint-Marc", en: "Saint-Marc Fruit Orchard",
+image: "/poi-images/jardin-fruitier-saint-marc-life-v2.webp"
+},
     description: { de: "Ein Lehrgarten für tropische Früchte.", hu: "Trópusi gyümölcsök oktatókertje.", ro: "O livadă educativă pentru fructe tropicale.", en: "An educational orchard for tropical fruits." },
     facts: {
       de: ["Vielzahl an Mangos", "Ernteerlebnisse"],
@@ -527,7 +567,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-SE",
     coords: [-72.5, 18.22],
-    name: { de: "Kinderparadies Jacmel", hu: "Jacmel gyermekparadicsom", ro: "Paradisul copiilor Jacmel", en: "Jacmel Children's Paradise" },
+    name: { de: "Kinderparadies Jacmel", hu: "Jacmel gyermekparadicsom", ro: "Paradisul copiilor Jacmel", en: "Jacmel Children's Paradise",
+image: "/poi-images/parc-enfants-jacmel-life-v2.webp"
+},
     description: { de: "Ein moderner Spielplatz in Jacmel.", hu: "Modern játszótér Jacmelben.", ro: "Un loc de joacă modern în Jacmel.", en: "A modern playground in Jacmel." },
     facts: {
       de: ["Sichere Spielgeräte", "Zentral gelegen"],
@@ -553,7 +595,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-ND",
     coords: [-72.2, 19.75],
-    name: { de: "Meeresschutzgebiet Cap-Haïtien", hu: "Cap-Haïtien tengeri rezervátum", ro: "Rezervația marină Cap-Haïtien", en: "Cap-Haïtien Marine Reserve" },
+    name: { de: "Meeresschutzgebiet Cap-Haïtien", hu: "Cap-Haïtien tengeri rezervátum", ro: "Rezervația marină Cap-Haïtien", en: "Cap-Haïtien Marine Reserve",
+image: "/poi-images/reserve-marine-cap-haitien-life-v2.webp"
+},
     description: { de: "Ein Schutzgebiet für marine Arten.", hu: "Védett terület a tengeri fajok számára.", ro: "O zonă protejată pentru speciile marine.", en: "A protected area for marine species." },
     facts: {
       de: ["Meeresbiologische Beobachtung", "Korallenschutz"],
@@ -579,7 +623,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-NI",
     coords: [-73.1, 18.4],
-    name: { de: "Agrarbildungszentrum Miragoâne", hu: "Miragoâne mezőgazdasági oktatóközpont", ro: "Centru educațional agricol Miragoâne", en: "Miragoâne Agricultural Education Center" },
+    name: { de: "Agrarbildungszentrum Miragoâne", hu: "Miragoâne mezőgazdasági oktatóközpont", ro: "Centru educațional agricol Miragoâne", en: "Miragoâne Agricultural Education Center",
+image: "/poi-images/centre-edu-agriculture-miragoane-life-v2.webp"
+},
     description: { de: "Ein Zentrum zur Förderung nachhaltiger Landwirtschaft.", hu: "A fenntartható mezőgazdaságot elősegítő központ.", ro: "Un centru de promovare a agriculturii durabile.", en: "A center for promoting sustainable agriculture." },
     facts: {
       de: ["Praktische Ausbildung", "Saatgutbank"],
@@ -605,7 +651,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-OU",
     coords: [-72.4, 18.5],
-    name: { de: "Naturpark Rivière Froide", hu: "Rivière Froide Natúrpark", ro: "Parc natural Rivière Froide", en: "Rivière Froide Nature Park" },
+    name: { de: "Naturpark Rivière Froide", hu: "Rivière Froide Natúrpark", ro: "Parc natural Rivière Froide", en: "Rivière Froide Nature Park",
+image: "/poi-images/parc-naturel-riviere-froide-life-v2.webp"
+},
     description: { de: "Ein Rückzugsort für Flussbewohner.", hu: "A folyólakók menedékhelye.", ro: "Un sanctuar pentru locuitorii râului.", en: "A sanctuary for river inhabitants." },
     facts: {
       de: ["Beobachtung von Flusskrebse", "Ruhezone"],
@@ -631,7 +679,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-OU",
     coords: [-72.3, 18.52],
-    name: { de: "Haiti Lern- und Lehrgarten", hu: "Haiti tanuló- és oktatókert", ro: "Grădina de învățare și predare Haiti", en: "Haiti Learning and Teaching Garden" },
+    name: { de: "Haiti Lern- und Lehrgarten", hu: "Haiti tanuló- és oktatókert", ro: "Grădina de învățare și predare Haiti", en: "Haiti Learning and Teaching Garden",
+image: "/poi-images/jardin-education-haiti-life-v2.webp"
+},
     description: { de: "Ein Ort für Kinder, um Biologie zu erleben.", hu: "Hely gyerekeknek a biológia megtapasztalására.", ro: "Un loc pentru copii pentru a experimenta biologia.", en: "A place for children to experience biology." },
     facts: {
       de: ["Interaktive Exponate", "Natur-Workshops"],
@@ -657,7 +707,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-OU",
     coords: [-72.28, 18.45],
-    name: { de: "Kaffeeplantage Kenskoff", hu: "Kenskoff kávéültetvény", ro: "Plantație de cafea Kenskoff", en: "Kenskoff Coffee Plantation" },
+    name: { de: "Kaffeeplantage Kenskoff", hu: "Kenskoff kávéültetvény", ro: "Plantație de cafea Kenskoff", en: "Kenskoff Coffee Plantation",
+image: "/poi-images/plantation-cafe-kenskoff-life-v2.webp"
+},
     description: { de: "Eine hochgelegene Kaffeeplantage.", hu: "Magasan fekvő kávéültetvény.", ro: "O plantație de cafea situată la înălțime.", en: "A high-altitude coffee plantation." },
     facts: {
       de: ["Berühmter Hochlandkaffee", "Schöne Aussicht"],
@@ -683,7 +735,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-ND",
     coords: [-72.8, 19.9],
-    name: { de: "Port-de-Paix Kinderpark", hu: "Port-de-Paix gyermekpark", ro: "Parc pentru copii Port-de-Paix", en: "Port-de-Paix Children's Park" },
+    name: { de: "Port-de-Paix Kinderpark", hu: "Port-de-Paix gyermekpark", ro: "Parc pentru copii Port-de-Paix", en: "Port-de-Paix Children's Park",
+image: "/poi-images/parc-enfants-port-de-paix-life-v2.webp"
+},
     description: { de: "Ein kleiner Park für Familien.", hu: "Kis park családoknak.", ro: "Un mic parc pentru familii.", en: "A small park for families." },
     facts: {
       de: ["Spielplatz", "Sitzgelegenheiten"],
@@ -709,7 +763,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "agriculture",
     parent: "HT-AR",
     coords: [-72.55, 19.15],
-    name: { de: "Versuchs-Bauernhof Artibonite", hu: "Artibonite kísérleti gazdaság", ro: "Fermă experimentală Artibonite", en: "Artibonite Experimental Farm" },
+    name: { de: "Versuchs-Bauernhof Artibonite", hu: "Artibonite kísérleti gazdaság", ro: "Fermă experimentală Artibonite", en: "Artibonite Experimental Farm",
+image: "/poi-images/ferme-experimentale-artibonite-life-v2.webp"
+},
     description: { de: "Ein Ort für agrarwissenschaftliche Forschung.", hu: "Mezőgazdasági kutatási helyszín.", ro: "Un loc pentru cercetarea științifică agricolă.", en: "A place for agricultural research." },
     facts: {
       de: ["Neue Reissorten", "Effiziente Bewässerung"],
@@ -735,7 +791,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "HT-CE",
     coords: [-72.05, 19.0],
-    name: { de: "Vogelreservat Lac Péligre", hu: "Lac Péligre madárrezervátum", ro: "Rezervația de păsări Lac Péligre", en: "Lac Péligre Bird Reserve" },
+    name: { de: "Vogelreservat Lac Péligre", hu: "Lac Péligre madárrezervátum", ro: "Rezervația de păsări Lac Péligre", en: "Lac Péligre Bird Reserve",
+image: "/poi-images/reserve-oiseaux-lac-peligre-life-v2.webp"
+},
     description: { de: "Ein Paradies für Vogelbeobachter.", hu: "Paradicsom madármegfigyelőknek.", ro: "Un paradis pentru observatorii de păsări.", en: "A paradise for bird watchers." },
     facts: {
       de: ["Zugvögel", "Naturschutzgebiet"],
@@ -761,7 +819,9 @@ export const poiExtraHaitiLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "HT-GA",
     coords: [-74.1, 18.62],
-    name: { de: "Jérémie Ziergarten", hu: "Jérémie díszkert", ro: "Grădina ornamentală Jérémie", en: "Jérémie Ornamental Garden" },
+    name: { de: "Jérémie Ziergarten", hu: "Jérémie díszkert", ro: "Grădina ornamentală Jérémie", en: "Jérémie Ornamental Garden",
+image: "/poi-images/jardin-ornemental-jeremie-life-v2.webp"
+},
     description: { de: "Ein schöner Garten für Spaziergänge.", hu: "Szép kert sétákhoz.", ro: "O grădină frumoasă pentru plimbări.", en: "A beautiful garden for walks." },
     facts: {
       de: ["Blumensammlung", "Pädagogisch wertvoll"],

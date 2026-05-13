@@ -11,8 +11,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Fort York",
       hu: "York erőd",
       ro: "Fortul York",
-      en: "Fort York"
-    },
+      en: "Fort York",
+image: "/poi-images/fort-york-toronto-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Fort York in Toronto ist eine historische Militäranlage, die während des Kriegs von 1812 eine zentrale Rolle bei der Verteidigung der Stadt gegen amerikanische Truppen spielte. Heute ist es eine National Historic Site und bietet Einblicke in das Leben der Garnison. Geschichte K7 — Kanadisch-Amerikanische Konflikte."
     },
@@ -41,8 +42,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Schlacht von Batoche",
       hu: "Batoche-i csata",
       ro: "Bătălia de la Batoche",
-      en: "Battle of Batoche"
-    },
+      en: "Battle of Batoche",
+image: "/poi-images/battle-of-batoche-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Schlacht von Batoche im Jahr 1885 war die entscheidende Auseinandersetzung der Nordwest-Rebellion zwischen den Métis unter Louis Riel und den kanadischen Regierungstruppen. Sie markierte das Ende des bewaffneten Widerstands der Métis in Saskatchewan. Geschichte K8 — Koloniale Konflikte und Minderheitenrechte."
     },
@@ -71,8 +73,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Grosse Île und das Irische Denkmal",
       hu: "Grosse Île és az Ír Emlékmű",
       ro: "Grosse Île și Memorialul Irlandez",
-      en: "Grosse Île and the Irish Memorial"
-    },
+      en: "Grosse Île and the Irish Memorial",
+image: "/poi-images/grosse-ile-irish-memorial-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Grosse Île im Sankt-Lorenz-Strom diente im 19. Jahrhundert als Quarantänestation für europäische Einwanderer, besonders während der großen irischen Hungersnot. Zehntausende Einwanderer starben hier an Typhus und anderen Infektionskrankheiten. Geschichte K8 — Einwanderung und historische Tragödien."
     },
@@ -101,8 +104,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Fort Henry (Kingston)",
       hu: "Henry erőd (Kingston)",
       ro: "Fortul Henry (Kingston)",
-      en: "Fort Henry (Kingston)"
-    },
+      en: "Fort Henry (Kingston)",
+image: "/poi-images/fort-henry-kingston-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Fort Henry in Kingston wurde im frühen 19. Jahrhundert errichtet, um den strategisch wichtigen Rideau-Kanal und den Zugang zum Ontario-See vor amerikanischen Angriffen zu schützen. Heute ist die Anlage als Living History Museum für ihre Soldaten-Vorführungen bekannt. Geschichte K7 — Britische Militärarchitektur."
     },
@@ -131,8 +135,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Klondike-Goldrausch",
       hu: "Klondike-i aranyláz",
       ro: "Goana după aur din Klondike",
-      en: "Klondike Gold Rush"
-    },
+      en: "Klondike Gold Rush",
+image: "/poi-images/klondike-gold-rush-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Klondike-Goldrausch Ende des 19. Jahrhunderts lockte Zehntausende Menschen in den Yukon, auf der Suche nach schnellem Reichtum. Die Goldfunde am Bonanza Creek lösten eine der größten Wanderbewegungen der Geschichte in den hohen Norden aus. Geschichte K8 — Rohstoffrausch und wirtschaftlicher Wandel."
     },
@@ -161,8 +166,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Writing-on-Stone Provinzpark",
       hu: "Writing-on-Stone tartományi park",
       ro: "Parcul Provincial Writing-on-Stone",
-      en: "Writing-on-Stone Provincial Park"
-    },
+      en: "Writing-on-Stone Provincial Park",
+image: "/poi-images/writing-on-stone-park-history-v2.webp"
+},
     description: {
       de: "Ein heiliger Ort für die Blackfoot-Völker mit der größten Konzentration von Felszeichnungen und Malereien in den nordamerikanischen Great Plains.",
       hu: "A feketelábú népek szent helye, ahol az észak-amerikai Nagy-síkság sziklarajzainak és festményeinek legnagyobb koncentrációja található.",
@@ -184,8 +190,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Baskische Walfangstation Red Bay",
       hu: "Red Bay-i baszk bálnavadász-állomás",
       ro: "Stația de vânătoare de balene bască Red Bay",
-      en: "Red Bay Basque Whaling Station"
-    },
+      en: "Red Bay Basque Whaling Station",
+image: "/poi-images/red-bay-basque-whaling-history-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte, die eine baskische Walfangstation aus dem 16. Jahrhundert bewahrt, die erste groß angelegte industrielle Produktion in Nordamerika.",
       hu: "Régészeti lelőhely, amely egy 16. századi baszk bálnavadász-állomást őriz, Észak-Amerika első nagyszabású ipari termelését.",
@@ -208,8 +215,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Pier 21 (Halifax)",
       hu: "Pier 21 (Halifax)",
       ro: "Pier 21 (Halifax)",
-      en: "Pier 21 (Halifax)"
-    },
+      en: "Pier 21 (Halifax)",
+image: "/poi-images/pier-21-halifax-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliger Ozean-Liner-Terminal und Einwanderungs-Schuppen, oft als Kanadas 'Ellis Island' bezeichnet.",
       hu: "Egykori óceánjáró-terminál és bevándorlási csarnok, amelyet gyakran Kanada 'Ellis Island'-jének neveznek.",
@@ -231,8 +239,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Fort Garry",
       hu: "Garry erőd",
       ro: "Fortul Garry",
-      en: "Fort Garry"
-    },
+      en: "Fort Garry",
+image: "/poi-images/fort-garry-winnipeg-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliger Handelsposten der Hudson's Bay Company, der eine zentrale Rolle in der frühen Geschichte von Winnipeg und der Red-River-Kolonie spielte.",
       hu: "A Hudson-öböl Társaság egykori kereskedelmi állomása, amely központi szerepet játszott Winnipeg és a Red River Kolónia korai történetében.",
@@ -254,8 +263,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Dundurn Castle",
       hu: "Dundurn-kastély",
       ro: "Castelul Dundurn",
-      en: "Dundurn Castle"
-    },
+      en: "Dundurn Castle",
+image: "/poi-images/dundurn-castle-hamilton-history-v2.webp"
+},
     description: {
       de: "Ein neoklassizistisches Herrenhaus aus den 1830er Jahren, das das Leben einer prominenten Familie aus der viktorianischen Ära zeigt.",
       hu: "Neoklasszikus kúria az 1830-as évekből, amely egy prominens viktoriánus kori család életét mutatja be.",
@@ -277,8 +287,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Fort Langley",
       hu: "Langley erőd",
       ro: "Fortul Langley",
-      en: "Fort Langley"
-    },
+      en: "Fort Langley",
+image: "/poi-images/fort-langley-history-v2.webp"
+},
     description: {
       de: "Fort Langley war eine frühe Handelsposten-Siedlung der Hudson's Bay Company in British Columbia.",
       hu: "A Hudson-öböl Társaság egykori szőrmekereskedelmi állomása, amelyet gyakran 'Brit Columbia szülőhelyének' neveznek.",
@@ -300,8 +311,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Alt-Montreal",
       hu: "Régi Montreal",
       ro: "Vechiul Montreal",
-      en: "Old Montreal"
-    },
+      en: "Old Montreal",
+image: "/poi-images/old-montreal-history-v2.webp"
+},
     description: {
       de: "Das älteste Viertel der Stadt Montreal mit Gebäuden, die bis ins 17. Jahrhundert zurückreichen.",
       hu: "Montreal város legrégebbi negyede, ahol az épületek a 17. századig nyúlnak vissza.",
@@ -324,8 +336,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Destillerieviertel Toronto",
       hu: "Szeszfőzde negyed, Toronto",
       ro: "Cartierul Distileriei Toronto",
-      en: "Distillery District, Toronto"
-    },
+      en: "Distillery District, Toronto",
+image: "/poi-images/distillery-district-toronto-history-v2.webp"
+},
     description: {
       de: "Eine restaurierte Sammlung viktorianischer Industriegebäude, die einst die größte Destillerie der Welt beherbergten.",
       hu: "Viktoriánus ipari épületek felújított gyűjteménye, amely egykor a világ legnagyobb szeszfőzdéjének adott otthont.",
@@ -347,8 +360,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "SGang Gwaay",
       hu: "SGang Gwaay",
       ro: "SGang Gwaay",
-      en: "SGang Gwaay"
-    },
+      en: "SGang Gwaay",
+image: "/poi-images/sgang-gwaay-history-v2.webp"
+},
     description: {
       de: "Ein Haida-Dorf auf Haida Gwaii mit der weltweit besten Sammlung von Haida-Totempfählen an ihrem ursprünglichen Standort.",
       hu: "Haida falu Haida Gwaiin, ahol a világon a legjobb állapotban maradtak fenn haida totemoszlopok eredeti helyükön.",
@@ -370,8 +384,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Schlachtfelder-Park",
       hu: "Csataterek parkja",
       ro: "Parcul Câmpurilor de Bătălie",
-      en: "The Battlefields Park"
-    },
+      en: "The Battlefields Park",
+image: "/poi-images/battlefields-park-quebec-history-v2.webp"
+},
     description: {
       de: "Ein großer Stadtpark in Quebec City, der die Abraham-Ebene umfasst, den Ort der entscheidenden Schlacht von 1759.",
       hu: "Nagy városi park Québec Cityben, amely magában foglalja az Ábrahám-síkságot, az 1759-es döntő csata helyszínét.",
@@ -393,8 +408,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Casa Loma (Geschichte)",
       hu: "Casa Loma (történelem)",
       ro: "Casa Loma (istorie)",
-      en: "Casa Loma (History)"
-    },
+      en: "Casa Loma (History)",
+image: "/poi-images/casa-loma-toronto-history-v2.webp"
+},
     description: {
       de: "Ein Herrenhaus im neugotischen Stil, das Anfang des 20. Jahrhunderts von Sir Henry Pellatt erbaut wurde und eine Ära der Eleganz in Toronto repräsentiert.",
       hu: "Neogótikus stílusú kúria, amelyet Sir Henry Pellatt építtetett a 20. század elején, a torontói elegancia egy korszakát képviselve.",
@@ -417,8 +433,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Craigdarroch Castle",
       hu: "Craigdarroch-kastély",
       ro: "Castelul Craigdarroch",
-      en: "Craigdarroch Castle"
-    },
+      en: "Craigdarroch Castle",
+image: "/poi-images/craigdarroch-castle-victoria-history-v2.webp"
+},
     description: {
       de: "Ein schottisches Baronialschloss aus der viktorianischen Ära, das vom wohlhabenden Kohlebaron Robert Dunsmuir erbaut wurde.",
       hu: "Viktoriánus kori skót bárói kastély, amelyet a gazdag szénbáró, Robert Dunsmuir építtetett.",
@@ -440,8 +457,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Royal BC Museum",
       hu: "Royal BC Múzeum",
       ro: "Muzeul Royal BC",
-      en: "Royal BC Museum"
-    },
+      en: "Royal BC Museum",
+image: "/poi-images/royal-bc-museum-history-v2.webp"
+},
     description: {
       de: "Dieses Museum in Victoria ist eine der bedeutendsten kulturellen Institutionen Kanadas und bewahrt die Natur- und Menschheitsgeschichte British Columbias.",
       hu: "Brit Columbia tartományi múzeuma, amely kiterjedt természet- és emberiségtörténeti gyűjteményekkel rendelkezik.",
@@ -463,8 +481,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Glenbow Museum",
       hu: "Glenbow Múzeum",
       ro: "Muzeul Glenbow",
-      en: "Glenbow Museum"
-    },
+      en: "Glenbow Museum",
+image: "/poi-images/glenbow-museum-calgary-history-v2.webp"
+},
     description: {
       de: "Ein Kunst- und Geschichtsmuseum in Calgary, das die Geschichte Westkanadas dokumentiert.",
       hu: "Művészeti és történelmi múzeum Calgaryban, amely Nyugat-Kanada történetét dokumentálja.",
@@ -486,8 +505,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Château Ramezay",
       hu: "Ramezay-kastély",
       ro: "Castelul Ramezay",
-      en: "Château Ramezay"
-    },
+      en: "Château Ramezay",
+image: "/poi-images/chateau-ramsay-montreal-history-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude und Museum in der Altstadt von Montreal, das 1705 als Gouverneursresidenz erbaut wurde.",
       hu: "Történelmi épület és múzeum Montreal óvárosában, 1705-ben épült kormányzói rezidenciaként.",
@@ -509,8 +529,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Fort Malden",
       hu: "Malden erőd",
       ro: "Fortul Malden",
-      en: "Fort Malden"
-    },
+      en: "Fort Malden",
+image: "/poi-images/fort-malden-amherstburg-history-v2.webp"
+},
     description: {
       de: "Eine historische Militäranlage am Detroit River, die eine entscheidende Rolle im Krieg von 1812 zwischen Briten und Amerikanern spielte.",
       hu: "Védelmi erődítmény Amherstburgban, amely fontos szerepet játszott az 1812-es háborúban.",
@@ -532,8 +553,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Martello-Türme Kingston",
       hu: "Kingstoni Martello-tornyok",
       ro: "Turnurile Martello Kingston",
-      en: "Kingston Martello Towers"
-    },
+      en: "Kingston Martello Towers",
+image: "/poi-images/martello-towers-kingston-history-v2.webp"
+},
     description: {
       de: "Eine Reihe von vier britischen Festungen aus der Mitte des 19. Jahrhunderts, die zum Schutz des Hafens von Kingston erbaut wurden.",
       hu: "Négy, 19. század közepén épült brit erődítményből álló sorozat, amelyet Kingston kikötőjének védelmére emeltek.",
@@ -555,8 +577,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Galt Historischer Eisenbahnpark",
       hu: "Galt Történelmi Vasúti Park",
       ro: "Parcul Feroviar Istoric Galt",
-      en: "Galt Historic Railway Park"
-    },
+      en: "Galt Historic Railway Park",
+image: "/poi-images/galt-historic-railway-park-history-v2.webp"
+},
     description: {
       de: "Ein restaurierter internationaler Bahnhof von 1890 an der Grenze zwischen Alberta und Montana.",
       hu: "Felújított nemzetközi vasútállomás 1890-ből, az Alberta és Montana közötti határon.",
@@ -578,8 +601,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Britannia Minenmuseum",
       hu: "Britannia Bányamúzeum",
       ro: "Muzeul Minei Britannia",
-      en: "Britannia Mine Museum"
-    },
+      en: "Britannia Mine Museum",
+image: "/poi-images/britannia-mine-museum-history-v2.webp"
+},
     description: {
       de: "Eine ehemalige Kupfermine, die einst die größte im britischen Empire war, heute ein Museum und eine nationale historische Stätte.",
       hu: "Egykori rézbánya, amely egykor a Brit Birodalom legnagyobbja volt, ma múzeum és nemzeti történelmi emlékhely.",
@@ -601,8 +625,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Bar U Ranch",
       hu: "Bar U Farm",
       ro: "Ferma Bar U",
-      en: "Bar U Ranch"
-    },
+      en: "Bar U Ranch",
+image: "/poi-images/bar-u-ranch-history-v2.webp"
+},
     description: {
       de: "Eine nationale historische Stätte, die die Geschichte der Ranching-Industrie in Westkanada von ihren Anfängen im späten 19. Jahrhundert zeigt.",
       hu: "Nemzeti történelmi emlékhely, amely a nyugat-kanadai állattenyésztés történetét mutatja be a 19. század végi kezdetektől.",
@@ -624,8 +649,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Fisgard Leuchtturm",
       hu: "Fisgard világítótorony",
       ro: "Farul Fisgard",
-      en: "Fisgard Lighthouse"
-    },
+      en: "Fisgard Lighthouse",
+image: "/poi-images/fisgard-lighthouse-history-v2.webp"
+},
     description: {
       de: "Der erste Leuchtturm an der Westküste Kanadas, erbaut 1860, um den Hafen von Esquimalt zu bewachen.",
       hu: "Az első világítótorony Kanada nyugati partján, 1860-ban épült az Esquimalt kikötő őrzésére.",
@@ -647,8 +673,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Gulf of Georgia Cannery",
       hu: "Georgia-öböl Konzervgyár",
       ro: "Conserva din Golful Georgia",
-      en: "Gulf of Georgia Cannery"
-    },
+      en: "Gulf of Georgia Cannery",
+image: "/poi-images/gulf-of-georgia-cannery-history-v2.webp"
+},
     description: {
       de: "Diese ehemalige Lachskonservenfabrik in Steveston dokumentiert die Geschichte der Fischereiindustrie an der Westküste Kanadas.",
       hu: "A Gulf of Georgia Cannery Brit Columbia történeti halfeldolgozó üzeme. A stevestoni létesítmény a csendes-óceáni lazacipar múltját mutatja be.",
@@ -670,8 +697,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Green Gables",
       hu: "Zöld Orom",
       ro: "Green Gables",
-      en: "Green Gables"
-    },
+      en: "Green Gables",
+image: "/poi-images/green-gables-pei-history-v2.webp"
+},
     description: {
       de: "Das Bauernhaus aus dem 19. Jahrhundert in Cavendish, das Lucy Maud Montgomery zu ihrem Roman 'Anne auf Green Gables' inspirierte.",
       hu: "A 19. századi cavendishi farmház, amely Lucy Maud Montgomeryt az 'Anne a Zöld Oromból' című regényére ihlette.",
@@ -693,8 +721,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Province House (Charlottetown)",
       hu: "Province House (Charlottetown)",
       ro: "Province House (Charlottetown)",
-      en: "Province House (Charlottetown)"
-    },
+      en: "Province House (Charlottetown)",
+image: "/poi-images/province-house-charlottetown-history-v2.webp"
+},
     description: {
       de: "Bekannt als der Geburtsort der Konföderation, da hier 1864 die Charlottetown-Konferenz stattfand.",
       hu: "A Konföderáció szülőhelyeként ismert, mivel itt tartották az 1864-es Charlottetowni Konferenciát.",
@@ -716,8 +745,9 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       de: "Esterhazy Getreidemühle",
       hu: "Esterhazy lisztmalom",
       ro: "Moara de făină Esterhazy",
-      en: "Esterhazy Flour Mill"
-    },
+      en: "Esterhazy Flour Mill",
+image: "/poi-images/esterhazy-flour-mill-history-v2.webp"
+},
     description: {
       de: "Die Esterhazy Flour Mill steht für die frühe Getreideverarbeitung in Saskatchewan.",
       hu: "Az esterhazy-i lisztmalom Saskatchewan mezőgazdasági múltjának egyik emléke. A gabonaőrlés és a helyi telepesgazdaság történetét idézi fel.",

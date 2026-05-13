@@ -6,7 +6,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "energy",
     parent: "IQ-BA",
     coords: [47.28, 30.15],
-    name: { de: "Ölfeld Rumaila", hu: "Rumaila olajmező", ro: "Câmpul petrolier Rumaila", en: "Rumaila Oil Field" },
+    name: { de: "Ölfeld Rumaila", hu: "Rumaila olajmező", ro: "Câmpul petrolier Rumaila", en: "Rumaila Oil Field",
+image: "/poi-images/rumaila-oil-field-economic-v2.webp"
+},
     description: { de: "Eines der größten und wichtigsten Ölfelder der Welt, das einen erheblichen Teil der irakischen Erdölproduktion liefert.", hu: "A világ egyik legnagyobb és legfontosabb olajmezője, amely az iraki kőolajtermelés jelentős részét adja.", ro: "Unul dintre cele mai mari și importante câmpuri petroliere din lume, care furnizează o parte semnificativă din producția de petrol a Irakului.", en: "One of the largest and most important oil fields in the world, providing a significant portion of Iraq's oil production." },
     facts: {
       de: ["Entdeckt im Jahr 1953.", "Es erstreckt sich über ein gewaltiges Gebiet im Südirak."],
@@ -31,7 +33,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "energy",
     parent: "IQ-BA",
     coords: [47.66, 31.06],
-    name: { de: "Ölfeld Majnun", hu: "Madzsnún olajmező", ro: "Câmpul petrolier Majnoon", en: "Majnoon Oil Field" },
+    name: { de: "Ölfeld Majnun", hu: "Madzsnún olajmező", ro: "Câmpul petrolier Majnoon", en: "Majnoon Oil Field",
+image: "/poi-images/majnoon-oil-field-economic-v2.webp"
+},
     description: { de: "Ein riesiges Ölfeld im Süden des Irak, benannt nach dem arabischen Wort für \"verrückt\" wegen seines unglaublichen Ölreichtums.", hu: "Hatalmas olajmező Dél-Irakban, amely az arab \"őrült\" szóról kapta a nevét a hihetetlen olajgazdagsága miatt.", ro: "Un câmp petrolier masiv în sudul Irakului, numit după cuvântul arab pentru \"nebun\" datorită bogăției sale incredibile de petrol.", en: "A massive oil field in southern Iraq, named after the Arabic word for \"crazy\" due to its incredible oil wealth." },
     facts: {
       de: ["Zählt zu den größten Ölfeldern weltweit.", "Wurde 1975 entdeckt."],
@@ -57,7 +61,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "port",
     parent: "IQ-BA",
     coords: [47.93, 30.04],
-    name: { de: "Hafen von Umm Qasr", hu: "Umm Kászr kikötője", ro: "Portul Umm Qasr", en: "Port of Umm Qasr" },
+    name: { de: "Hafen von Umm Qasr", hu: "Umm Kászr kikötője", ro: "Portul Umm Qasr", en: "Port of Umm Qasr",
+image: "/poi-images/umm-qasr-port-economic-v2.webp"
+},
     description: { de: "Der größte und wichtigste Tiefseehafen des Irak, der den Großteil der nationalen Importe und Exporte abwickelt.", hu: "Irak legnagyobb és legfontosabb mélyvízi kikötője, amely a nemzeti import és export nagy részét bonyolítja.", ro: "Cel mai mare și mai important port de mare adâncime din Irak, care gestionează majoritatea importurilor și exporturilor naționale.", en: "Iraq's largest and most important deep-water port, handling the majority of national imports and exports." },
     facts: {
       de: ["Liegt am Kanal Khor Al Zubair.", "Eröffnet in den 1960er Jahren."],
@@ -82,7 +88,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "port",
     parent: "IQ-BA",
     coords: [48.48, 29.98],
-    name: { de: "Großer Hafen von Al-Faw", hu: "Al-Fao Nagy Kikötő", ro: "Marele Port Al-Faw", en: "Al-Faw Grand Port" },
+    name: { de: "Großer Hafen von Al-Faw", hu: "Al-Fao Nagy Kikötő", ro: "Marele Port Al-Faw", en: "Al-Faw Grand Port",
+image: "/poi-images/al-faw-grand-port-economic-v2.webp"
+},
     description: { de: "Ein strategisches Megaprojekt auf der Halbinsel Al-Faw, das den Irak zu einem der größten maritimen Knotenpunkte im Nahen Osten machen soll.", hu: "Stratégiai megaprojekt az Al-Fao-félszigeten, amely Irakot a Közel-Kelet egyik legnagyobb tengeri csomópontjává teszi.", ro: "Un megaproiect strategic pe Peninsula Al-Faw, menit să transforme Irakul într-unul dintre cele mai mari hub-uri maritime din Orientul Mijlociu.", en: "A strategic megaproject on the Al-Faw Peninsula, aimed at making Iraq one of the largest maritime hubs in the Middle East." },
     facts: {
       de: ["Das Projekt umfasst den längsten Wellenbrecher der Welt.", "Soll Asien und Europa durch ein Schienennetz verbinden."],
@@ -107,7 +115,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "port",
     parent: "IQ-BA",
     coords: [47.85, 30.19],
-    name: { de: "Hafen Khor Al Zubair", hu: "Khor Al Zubair kikötő", ro: "Portul Khor Al Zubair", en: "Khor Al Zubair Port" },
+    name: { de: "Hafen Khor Al Zubair", hu: "Khor Al Zubair kikötő", ro: "Portul Khor Al Zubair", en: "Khor Al Zubair Port",
+image: "/poi-images/khor-al-zubair-port-economic-v2.webp"
+},
     description: { de: "Ein wichtiger irakischer Hafen in der Nähe von Basra, der sich hauptsächlich auf Industrie- und Erdölexporte spezialisiert hat.", hu: "Fontos iraki kikötő Bászra közelében, amely elsősorban ipari és kőolajexportra specializálódott.", ro: "Un port irakian important lângă Basra, specializat în principal în exporturi industriale și de petrol.", en: "An important Iraqi port near Basra, specializing mainly in industrial and oil exports." },
     facts: {
       de: ["Ergänzt den Hafen von Umm Qasr.", "Besitzt eine Freihandelszone."],
@@ -132,7 +142,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "port",
     parent: "IQ-BA",
     coords: [48.80, 29.68],
-    name: { de: "Ölterminal Basra", hu: "Bászrai olajterminál", ro: "Terminalul petrolier Basra", en: "Basra Oil Terminal" },
+    name: { de: "Ölterminal Basra", hu: "Bászrai olajterminál", ro: "Terminalul petrolier Basra", en: "Basra Oil Terminal",
+image: "/poi-images/basra-oil-terminal-economic-v2.webp"
+},
     description: { de: "Eine zentrale Offshore-Ölverladeanlage im Persischen Golf, über die der Großteil des irakischen Rohöls in internationale Märkte exportiert wird.", hu: "Központi tengeri olajrakodó létesítmény a Perzsa-öbölben, amelyen keresztül az iraki kőolaj nagy részét a nemzetközi piacokra exportálják.", ro: "O instalație centrală offshore de încărcare a petrolului în Golful Persic, prin care majoritatea țițeiului irakian este exportat pe piețele internaționale.", en: "A central offshore oil loading facility in the Persian Gulf through which most of Iraq's crude oil is exported to international markets." },
     facts: {
       de: ["Liegt etwa 50 Kilometer vor der Küste.", "Wird kontinuierlich bewacht und modernisiert."],
@@ -157,7 +169,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "industry",
     parent: "IQ-SD",
     coords: [43.51, 35.01],
-    name: { de: "Erdölraffinerie Baidschi", hu: "Baidzsi olajfinomító", ro: "Rafinăria de petrol Baiji", en: "Baiji Oil Refinery" },
+    name: { de: "Erdölraffinerie Baidschi", hu: "Baidzsi olajfinomító", ro: "Rafinăria de petrol Baiji", en: "Baiji Oil Refinery",
+image: "/poi-images/baiji-oil-refinery-economic-v2.webp"
+},
     description: { de: "Eine der historisch größten und wichtigsten Erdölraffinerien des Landes, die einen wesentlichen Teil der Inlandsversorgung mit Kraftstoffen sicherstellt.", hu: "Az ország egyik történelmileg legnagyobb és legfontosabb kőolajfinomítója, amely a belföldi üzemanyag-ellátás jelentős részét biztosítja.", ro: "Una dintre cele mai mari și mai importante rafinării de petrol din țară din punct de vedere istoric, asigurând o mare parte din furnizarea internă de combustibil.", en: "One of the historically largest and most important oil refineries in the country, ensuring a significant portion of the domestic fuel supply." },
     facts: {
       de: ["Liegt in der Provinz Salah ad-Din.", "Wurde im Laufe der Jahre mehrfach wiederaufgebaut."],
@@ -182,7 +196,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "industry",
     parent: "IQ-BG",
     coords: [44.40, 33.26],
-    name: { de: "Raffinerie Daura", hu: "Daura finomító", ro: "Rafinăria Daura", en: "Daura Refinery" },
+    name: { de: "Raffinerie Daura", hu: "Daura finomító", ro: "Rafinăria Daura", en: "Daura Refinery",
+image: "/poi-images/daura-refinery-economic-v2.webp"
+},
     description: { de: "Eine bedeutende Erdölraffinerie in Bagdad, die in den 1950er Jahren gegründet wurde und Treibstoffe für die Hauptstadtregion produziert.", hu: "Jelentős olajfinomító Bagdadban, amelyet az 1950-es években alapítottak, és üzemanyagot termel a fővárosi régió számára.", ro: "O rafinărie majoră de petrol din Bagdad, înființată în anii 1950, producând combustibili pentru regiunea capitalei.", en: "A major oil refinery in Baghdad, established in the 1950s, producing fuels for the capital region." },
     facts: {
       de: ["Eine der ältesten Raffinerien im Irak.", "Liegt direkt am Flussufer des Tigris."],
@@ -208,7 +224,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "industry",
     parent: "IQ-BA",
     coords: [47.78, 30.45],
-    name: { de: "Raffinerie Basra", hu: "Bászrai finomító", ro: "Rafinăria Basra", en: "Basra Refinery" },
+    name: { de: "Raffinerie Basra", hu: "Bászrai finomító", ro: "Rafinăria Basra", en: "Basra Refinery",
+image: "/poi-images/basra-refinery-economic-v2.webp"
+},
     description: { de: "Die zentrale Ölraffinerie im Südirak, die Rohöl aus den umliegenden gigantischen Ölfeldern für den inländischen Verbrauch verarbeitet.", hu: "Dél-Irak központi olajfinomítója, amely a környező hatalmas olajmezőkről származó kőolajat dolgozza fel hazai fogyasztásra.", ro: "Rafinăria centrală de petrol din sudul Irakului, care procesează țiței din câmpurile petroliere gigantice din jur pentru consumul intern.", en: "The central oil refinery in southern Iraq, processing crude oil from the surrounding giant oil fields for domestic consumption." },
     facts: {
       de: ["Wurde 1974 in Betrieb genommen.", "Spielt eine entscheidende Rolle in der regionalen Energieversorgung."],
@@ -233,7 +251,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "industry",
     parent: "IQ-KA",
     coords: [43.99, 32.48],
-    name: { de: "Raffinerie Kerbela", hu: "Kerbelai finomító", ro: "Rafinăria Karbala", en: "Karbala Refinery" },
+    name: { de: "Raffinerie Kerbela", hu: "Kerbelai finomító", ro: "Rafinăria Karbala", en: "Karbala Refinery",
+image: "/poi-images/karbala-refinery-economic-v2.webp"
+},
     description: { de: "Eine moderne, strategische Raffinerie in der Provinz Kerbela, die nach neuesten Umweltstandards gebaut wurde, um Importe zu reduzieren.", hu: "Modern, stratégiai finomító Kerbela tartományban, amelyet a legújabb környezetvédelmi szabványok szerint építettek az import csökkentése érdekében.", ro: "O rafinărie strategică modernă în provincia Karbala, construită conform celor mai noi standarde de mediu pentru a reduce importurile.", en: "A modern, strategic refinery in the Karbala Governorate, built to the latest environmental standards to reduce imports." },
     facts: {
       de: ["Eines der größten neueren Industrieprojekte des Irak.", "Produziert hochwertiges Benzin und Diesel."],
@@ -258,7 +278,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "mine",
     parent: "IQ-NI",
     coords: [43.32, 35.98],
-    name: { de: "Schwefelmine Mishraq", hu: "Mishraq kénbánya", ro: "Mina de sulf Mishraq", en: "Mishraq Sulphur Mine" },
+    name: { de: "Schwefelmine Mishraq", hu: "Mishraq kénbánya", ro: "Mina de sulf Mishraq", en: "Mishraq Sulphur Mine",
+image: "/poi-images/mishraq-sulphur-mine-economic-v2.webp"
+},
     description: { de: "Eine der größten Schwefellagerstätten der Welt nahe Mosul, die eine wichtige Ressource für die irakische Chemieindustrie darstellt.", hu: "A világ egyik legnagyobb kénlelőhelye Moszul közelében, amely az iraki vegyipar fontos erőforrását jelenti.", ro: "Unul dintre cele mai mari zăcăminte de sulf din lume lângă Mosul, reprezentând o resursă importantă pentru industria chimică irakiană.", en: "One of the largest sulphur deposits in the world near Mosul, representing an important resource for the Iraqi chemical industry." },
     facts: {
       de: ["Der Abbau nutzt das Frasch-Verfahren.", "Verfügt über immense Reserven im Untergrund."],
@@ -283,7 +305,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "mine",
     parent: "IQ-AN",
     coords: [39.81, 33.68],
-    name: { de: "Phosphatmine Akashat", hu: "Akashat foszfátbánya", ro: "Mina de fosfați Akashat", en: "Akashat Phosphate Mine" },
+    name: { de: "Phosphatmine Akashat", hu: "Akashat foszfátbánya", ro: "Mina de fosfați Akashat", en: "Akashat Phosphate Mine",
+image: "/poi-images/akashat-phosphate-mine-economic-v2.webp"
+},
     description: { de: "Ein bedeutendes Phosphatbergwerk in der westlichen Wüste des Irak, das Rohstoffe für die Düngemittelproduktion und Landwirtschaft liefert.", hu: "Jelentős foszfátbánya Irak nyugati sivatagában, amely nyersanyagot biztosít a műtrágyagyártáshoz és a mezőgazdasághoz.", ro: "O importantă mină de fosfați în deșertul vestic al Irakului, furnizând materii prime pentru producția de îngrășăminte și agricultură.", en: "A significant phosphate mine in the western desert of Iraq, supplying raw materials for fertilizer production and agriculture." },
     facts: {
       de: ["Liegt isoliert in der Provinz Al-Anbar.", "Wurde in den 1970er Jahren erschlossen."],
@@ -308,7 +332,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "energy",
     parent: "IQ-AN",
     coords: [42.36, 34.20],
-    name: { de: "Haditha-Talsperre", hu: "Hadísza-gát", ro: "Barajul Haditha", en: "Haditha Dam" },
+    name: { de: "Haditha-Talsperre", hu: "Hadísza-gát", ro: "Barajul Haditha", en: "Haditha Dam",
+image: "/poi-images/haditha-dam-economic-v2.webp"
+},
     description: { de: "Eine massive Talsperre am Euphrat, die das zweitgrößte Wasserkraftwerk des Irak beherbergt und für die regionale Energieversorgung von entscheidender Bedeutung ist.", hu: "Hatalmas gát az Eufráteszen, amely Irak második legnagyobb vízerőművének ad otthont, és kritikus jelentőségű a regionális energiaellátásban.", ro: "Un baraj masiv pe râul Eufrat, găzduind a doua cea mai mare centrală hidroelectrică din Irak, crucial pentru furnizarea regională de energie.", en: "A massive dam on the Euphrates River, housing Iraq's second largest hydroelectric power station and crucial for regional energy supply." },
     facts: {
       de: ["Der Damm bildet den Lake Qadisiyah.", "Erzeugt bis zu 660 Megawatt Strom."],
@@ -333,7 +359,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "energy",
     parent: "IQ-NI",
     coords: [42.82, 36.63],
-    name: { de: "Mosul-Talsperre", hu: "Moszuli gát", ro: "Barajul Mosul", en: "Mosul Dam" },
+    name: { de: "Mosul-Talsperre", hu: "Moszuli gát", ro: "Barajul Mosul", en: "Mosul Dam",
+image: "/poi-images/mosul-dam-economic-v2.webp"
+},
     description: { de: "Die größte Talsperre im Irak, gelegen am Tigris, die eine enorme Bedeutung für den Hochwasserschutz, die Bewässerung und die Stromerzeugung hat.", hu: "Irak legnagyobb gátja a Tigris folyón, amely óriási jelentőséggel bír az árvízvédelem, az öntözés és az áramtermelés szempontjából.", ro: "Cel mai mare baraj din Irak, situat pe râul Tigru, de o importanță imensă pentru controlul inundațiilor, irigații și generarea de energie electrică.", en: "The largest dam in Iraq, located on the Tigris River, of immense importance for flood control, irrigation, and power generation." },
     facts: {
       de: ["Produziert einen Großteil der Energie für Nordirak.", "Erfordert kontinuierliche Wartung des Fundaments."],
@@ -358,7 +386,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "energy",
     parent: "IQ-SU",
     coords: [44.96, 35.95],
-    name: { de: "Dukan-Talsperre", hu: "Dukán-gát", ro: "Barajul Dukan", en: "Dukan Dam" },
+    name: { de: "Dukan-Talsperre", hu: "Dukán-gát", ro: "Barajul Dukan", en: "Dukan Dam",
+image: "/poi-images/dukan-dam-economic-v2.webp"
+},
     description: { de: "Ein bedeutender Bogengewichtsstaudamm in der Region Kurdistan, der nicht nur Strom liefert, sondern auch ein beliebtes Touristenziel ist.", hu: "Jelentős ívgát a Kurdisztáni Régióban, amely nemcsak áramot szolgáltat, hanem népszerű turisztikai célpont is.", ro: "Un baraj cu arc gravitațional important în Regiunea Kurdistan, care nu numai că furnizează energie electrică, ci este și o destinație turistică populară.", en: "A significant arch-gravity dam in the Kurdistan Region that not only provides electricity but is also a popular tourist destination." },
     facts: {
       de: ["Erbaut in den 1950er Jahren.", "Staut den Kleinen Zab zu einem riesigen See auf."],
@@ -383,7 +413,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "energy",
     parent: "IQ-SU",
     coords: [45.71, 35.12],
-    name: { de: "Derbendikhan-Talsperre", hu: "Derbendikhan-gát", ro: "Barajul Derbendikhan", en: "Derbendikhan Dam" },
+    name: { de: "Derbendikhan-Talsperre", hu: "Derbendikhan-gát", ro: "Barajul Derbendikhan", en: "Derbendikhan Dam",
+image: "/poi-images/derbendikhan-dam-economic-v2.webp"
+},
     description: { de: "Eine wichtige Talsperre am Diyala-Fluss, die für die Landwirtschaft, Wasserversorgung und Energiegewinnung in der Region Sulaimaniyya essenziell ist.", hu: "Fontos gát a Dijála folyón, amely elengedhetetlen a mezőgazdaság, a vízellátás és az energiatermelés számára Szulejmánijja régióban.", ro: "Un baraj important pe râul Diyala, esențial pentru agricultură, aprovizionarea cu apă și generarea de energie în regiunea Sulaymaniyah.", en: "An important dam on the Diyala River, essential for agriculture, water supply, and energy generation in the Sulaymaniyah region." },
     facts: {
       de: ["Inbetriebnahme im Jahr 1961.", "Spielt eine Schlüsselrolle bei der Bewässerung der Tiefebenen."],
@@ -408,7 +440,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "IQ-DA",
     coords: [42.56, 37.14],
-    name: { de: "Grenzübergang Ibrahim Khalil", hu: "Ibrahim Khalil határátkelő", ro: "Punctul de trecere a frontierei Ibrahim Khalil", en: "Ibrahim Khalil Border Crossing" },
+    name: { de: "Grenzübergang Ibrahim Khalil", hu: "Ibrahim Khalil határátkelő", ro: "Punctul de trecere a frontierei Ibrahim Khalil", en: "Ibrahim Khalil Border Crossing",
+image: "/poi-images/ibrahim-khalil-border-crossing-economic-v2.webp"
+},
     description: { de: "Der wichtigste und belebteste Grenzübergang zwischen dem Irak und der Türkei, der als Lebensader für den Handel in der Region dient.", hu: "A legfontosabb és legforgalmasabb határátkelő Irak és Törökország között, amely a régió kereskedelmének érhálózataként szolgál.", ro: "Cel mai important și aglomerat punct de trecere a frontierei între Irak și Turcia, servind ca o forță vitală pentru comerțul din regiune.", en: "The most important and busiest border crossing between Iraq and Turkey, serving as a lifeline for trade in the region." },
     facts: {
       de: ["Liegt am Fluss Khabur.", "Wird täglich von Tausenden von Lastwagen passiert."],
@@ -433,7 +467,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "IQ-AN",
     coords: [38.94, 32.74],
-    name: { de: "Grenzübergang Trebil", hu: "Trebil határátkelő", ro: "Punctul de trecere a frontierei Trebil", en: "Trebil Border Crossing" },
+    name: { de: "Grenzübergang Trebil", hu: "Trebil határátkelő", ro: "Punctul de trecere a frontierei Trebil", en: "Trebil Border Crossing",
+image: "/poi-images/trebil-border-crossing-economic-v2.webp"
+},
     description: { de: "Ein kritischer Knotenpunkt für den internationalen Handel und Transportverkehr zwischen dem Irak und dem Königreich Jordanien.", hu: "Kritikus csomópont a nemzetközi kereskedelem és teherszállítás számára Irak és a Jordán Hasimita Királyság között.", ro: "Un hub critic pentru comerțul internațional și transportul de mărfuri între Irak și Regatul Iordaniei.", en: "A critical hub for international trade and freight transport between Iraq and the Kingdom of Jordan." },
     facts: {
       de: ["Verbindet Bagdad mit Amman.", "Befindet sich in einer abgelegenen Wüstenregion."],
@@ -458,7 +494,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "IQ-BA",
     coords: [47.72, 30.11],
-    name: { de: "Grenzübergang Safwan", hu: "Safwan határátkelő", ro: "Punctul de trecere a frontierei Safwan", en: "Safwan Border Crossing" },
+    name: { de: "Grenzübergang Safwan", hu: "Safwan határátkelő", ro: "Punctul de trecere a frontierei Safwan", en: "Safwan Border Crossing",
+image: "/poi-images/safwan-border-crossing-economic-v2.webp"
+},
     description: { de: "Der zentrale und wirtschaftlich hochbedeutende Grenzübergang im Süden des Landes, der den Irak mit Kuwait verbindet.", hu: "Az ország déli részének központi és gazdaságilag rendkívül fontos határátkelője, amely Irakot Kuvait állammal köti össze.", ro: "Punctul de trecere a frontierei central și cu o mare importanță economică din sudul țării, conectând Irakul cu Kuweit.", en: "The central and economically highly important border crossing in the south of the country, connecting Iraq with Kuwait." },
     facts: {
       de: ["Fördert den Handel in der Golfregion.", "Wichtiger Durchgang für zivile und kommerzielle Güter."],
@@ -483,7 +521,9 @@ export const poiExtraIraqEconomicV2: POI[] = [
     type: "industry",
     parent: "IQ-BB",
     coords: [44.35, 32.90],
-    name: { de: "Industriekomplex Iskandariya", hu: "Iszkandarija ipari komplexum", ro: "Complexul industrial Iskandariya", en: "Iskandariya Industrial Complex" },
+    name: { de: "Industriekomplex Iskandariya", hu: "Iszkandarija ipari komplexum", ro: "Complexul industrial Iskandariya", en: "Iskandariya Industrial Complex",
+image: "/poi-images/iskandariya-industrial-complex-economic-v2.webp"
+},
     description: { de: "Eine der größten und wichtigsten Industriezonen im Zentralirak, bekannt für die Herstellung von Fahrzeugen und schweren Maschinen.", hu: "Közép-Irak egyik legnagyobb és legfontosabb ipari övezete, amely járművek és nehézgépek gyártásáról ismert.", ro: "Una dintre cele mai mari și mai importante zone industriale din centrul Irakului, cunoscută pentru producția de vehicule și utilaje grele.", en: "One of the largest and most important industrial zones in central Iraq, known for manufacturing vehicles and heavy machinery." },
     facts: {
       de: ["Entstanden in den 1960er Jahren.", "Umfasst zahlreiche staatliche Produktionsstätten."],

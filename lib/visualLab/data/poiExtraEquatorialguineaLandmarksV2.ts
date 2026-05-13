@@ -15,8 +15,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A Malabói Nemzeti Stadion (Estadio Nacional de Malabo) Egyenlítői-Gínea legfontosabb sportlétesítménye, amely a főváros modern negyedében található. A 2007-ben átadott, majd a 2012-es és 2015-ös Afrikai Nemzetek Kupájára (AFCON) felújított stadion 15 250 néző befogadására alkalmas. Modern, fedett lelátói és kiváló minőségű gyepszőnyege a nemzetközi standardoknak is megfelel. A stadion nemcsak a nemzeti labdarúgó-válogatott otthona, hanem számos kulturális esemény és állami ünnepség helyszíne is. Az építmény körül profi atlétikai pálya és edzőpályák találhatók, segítve az ország sportéletének fejlődését. A stadion Malabo modernizációjának egyik büszke jelképe.", ro: "Stadionul Național din Malabo este o facilitate sportivă de elită din Guineea Ecuatorială și un simbol al eforturilor națiunii de a găzdui evenimente internaționale majore. Inaugurat în anul 2007, cu o capacitate de aproximativ 15.250 de spectatori, acesta a câștigat o importanță globală ca loc principal de desfășurare a Cupei Africii pe Națiuni în 2012. Complexul modern dispune de un gazon de fotbal de înaltă calitate, o pistă de atletism profesională și facilități avansate pentru sportivi și presă. Fiind terenul propriu al echipei naționale de fotbal, cunoscută sub numele de 'Nzalang Nacional', stadionul reprezintă un punct central pentru mândria națională și cultura sportivă. Dezvoltarea sa reflectă angajamentul guvernului față de modernizarea infrastructurii atletice a țării, fiind un motor pentru evenimentele comunitare din capitală.",
       de: "Das Nationalstadion von Malabo ist eine zentrale Sportstätte Äquatorialguineas und ein Symbol für die Bemühungen des Landes, internationale Großereignisse auszurichten. Mit einer Kapazität von etwa 15.250 Zuschauern wurde es 2007 eröffnet und erlangte durch die Austragung des Afrika-Cups 2012 weltweite Aufmerksamkeit. Die moderne Anlage bietet neben einem hochwertigen Fußballfeld auch eine Leichtathletikbahn und dient als Heimspielstätte der äquatorialguineischen Nationalmannschaft, bekannt als 'Nzalang Nacional'. Als eines der wichtigsten sportlichen Zentren des Landes spielt das Stadion eine bedeutende Rolle im gesellschaftlichen Leben Malabos und ist Ausdruck einer modernen Sportinfrastruktur. Sport K6, Architektur K8.",
-      en: "The Malabo National Stadium is a premier sports facility in Equatorial Guinea and a symbol of the nation's efforts to host major international events. Opened in 2007 with a capacity of approximately 15,250 spectators, it gained global prominence as a key venue for the 2012 Africa Cup of Nations. The modern complex features a high-quality grass football pitch, a professional athletics track, and advanced facilities for athletes and media. As the home ground for the national football team, known as 'Nzalang Nacional', the stadium is a focal point for national pride and sports culture. Its development reflects the government's commitment to modernizing the country's athletic infrastructure. Curriculum: Sports K6, Architecture K8."
-    },
+      en: "The Malabo National Stadium is a premier sports facility in Equatorial Guinea and a symbol of the nation's efforts to host major international events. Opened in 2007 with a capacity of approximately 15,250 spectators, it gained global prominence as a key venue for the 2012 Africa Cup of Nations. The modern complex features a high-quality grass football pitch, a professional athletics track, and advanced facilities for athletes and media. As the home ground for the national football team, known as 'Nzalang Nacional', the stadium is a focal point for national pride and sports culture. Its development reflects the government's commitment to modernizing the country's athletic infrastructure. Curriculum: Sports K6, Architecture K8.",
+image: "/poi-images/malabo-national-stadium-landmarks-v2.webp"
+},
     factsAdvanced: { hu: ["15 250 férőhelyes, többfunkciós sportlétesítmény Malabóban.", "Két Afrikai Nemzetek Kupája (2012, 2015) helyszíne volt.", "Modern atlétikai pályával és VIP páholyokkal felszerelt.", "Az Egyenlítői-gíneai labdarúgó-válogatott elsődleges otthona.", "A stadion éjszakai kivilágítása meghatározó a városképben.", "A sportkomplexumhoz teniszpályák és uszoda is tartozik."], ro: ["Inaugurat oficial în 2007 pentru evenimente naționale.", "A servit ca loc principal de desfășurare a Cupei Africii 2012.", "Terenul oficial al echipei naționale de fotbal Nzalang Nacional.", "Dotat cu o pistă de atletism la standarde profesionale.", "Punct central pentru sport și evenimente comunitare în Malabo.", "Proiectat să respecte standardele internaționale FIFA și CAF.", "Reprezintă modernizarea infrastructurii sportive din Insula Bioko."],
       de: ["Kapazität von rund 15.250 Plätzen.", "Eröffnet im Jahr 2007 für nationale und internationale Events.", "Hauptspielort für internationale Fußballbegegnungen.", "Besitzt eine voll ausgestattete Leichtathletikanlage.", "Heimstätte der Nationalmannschaft 'Nzalang Nacional'."],
       en: ["Features a seating capacity of approximately 15,250.", "Opened in 2007 for both national and international events.", "Home ground for the national football team, 'Nzalang Nacional'.", "Equipped with a professional-grade athletics track.", "A central hub for sports and community events in the capital.", "Designed to meet international FIFA and CAF standards."]
@@ -47,8 +48,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A Batái Stadion (Estadio de Bata) az ország legnagyobb stadionja, amely a szárazföldi régió központjában található. A létesítmény eredetileg kisebbnek épült, de a 2012-es Afrikai Nemzetek Kupájára 35 700 férőhelyesre bővítették, modern tetőszerkezettel ellátva. Itt rendezték meg a 2012-es AFCON nyitómérkőzését és a 2015-ös torna döntőjét is, ami sporttörténeti jelentőséget ad a helyszínnek. A stadion impozáns méreteivel és modern technikai felszereltségével a régió egyik legjobb arénája. Bata városának ez a legfontosabb közösségi tere, ahol a sport mellett nagykoncerteket és nemzeti fesztiválokat is rendeznek, összefogva a szárazföldi lakosságot.", ro: "Stadionul din Bata este cea mai mare arenă sportivă din Guineea Ecuatorială și un punct de reper al dezvoltării regiunii continentale. În urma unei modernizări extinse pentru rolul său de gazdă principală a Cupei Africii pe Națiuni din 2015, stadionul are acum o capacitate de peste 35.000 de spectatori. Acesta servește ca un loc iconic nu doar pentru meciuri de fotbal de nivel înalt, ci și pentru sărbători naționale semnificative și evenimente de stat în orașul Bata. Arhitectura și scara sa impresionantă demonstrează ambiția națiunii de a se stabili ca un jucător major în sportul african. Stadionul este un element cheie al peisajului urban și un centru pentru activitatea socială și atletică în provincia Litoral, fiind echipat cu infrastructură modernă de iluminat și media.",
       de: "Das Stadion von Bata ist die größte Sportarena Äquatorialguineas und ein Wahrzeichen der sportlichen Ambitionen der Festlandregion. Nach umfangreichen Modernisierungen, die unter anderem für die Rolle als einer der Hauptaustragungsorte des Afrika-Cups 2015 erfolgten, bietet das Stadion Platz für über 35.000 Zuschauer. Es ist nicht nur ein Ort für sportliche Höchstleistungen, sondern dient auch als symbolträchtige Arena für große nationale Feierlichkeiten und staatliche Events in Bata. Die Arena zeigt deutlich das Bestreben des Landes, sich als Akteur im afrikanischen Sport zu etablieren und die Infrastruktur auf dem Festland massiv auszubauen. Sport K7, Geografie K8.",
-      en: "The Bata Stadium is the largest sports arena in Equatorial Guinea and a landmark of the continental region's development. Following extensive modernization for its role as a primary host for the 2015 Africa Cup of Nations, the stadium now accommodates over 35,000 spectators. It serves as an iconic venue not only for high-level football matches but also for significant national celebrations and state events in the city of Bata. The stadium's impressive architecture and scale demonstrate the nation's ambition to establish itself as a major player in African sports. It is a key element of the urban landscape and a center for social and athletic activity in the Litoral Province. Curriculum: Sports K7, Geography K8."
-    },
+      en: "The Bata Stadium is the largest sports arena in Equatorial Guinea and a landmark of the continental region's development. Following extensive modernization for its role as a primary host for the 2015 Africa Cup of Nations, the stadium now accommodates over 35,000 spectators. It serves as an iconic venue not only for high-level football matches but also for significant national celebrations and state events in the city of Bata. The stadium's impressive architecture and scale demonstrate the nation's ambition to establish itself as a major player in African sports. It is a key element of the urban landscape and a center for social and athletic activity in the Litoral Province. Curriculum: Sports K7, Geography K8.",
+image: "/poi-images/bata-stadium-landmarks-v2.webp"
+},
     factsAdvanced: { hu: ["Az ország legnagyobb stadionja, 35 700 néző befogadására alkalmas.", "Teljesen fedett nézőtérrel és modern média-központtal rendelkezik.", "A stadion Bata városának egyik leglátványosabb építészeti alkotása.", "A gyepszőnyeg alatt modern öntöző- és vízelvezető rendszer működik.", "Számos nemzetközi barátságos mérkőzés házigazdája volt."], ro: ["Cel mai mare stadion din țară, cu peste 35.000 de locuri.", "Gazdă principală pentru Cupa Africii pe Națiuni în 2015.", "Dispune de facilități moderne conform standardelor internaționale.", "Punct de reper semnificativ pentru dezvoltarea urbană a orașului Bata.", "Utilizat pentru parade naționale, concerte și evenimente de stat.", "Simbolizează creșterea culturii sportive pe continent.", "Echipat cu sisteme avansate de iluminat și infrastructură media.", "Locația centrală pentru sport în provincia Litoral."],
       de: ["Größte Sportarena des Landes mit über 35.000 Plätzen.", "Hauptaustragungsort des Afrika-Cups 2015 in Äquatorialguinea.", "Wichtiges Wahrzeichen für die Entwicklung von Bata.", "Modernste Ausstattung für internationale Turniere.", "Symbol für den wachsenden Stellenwert des Sports in der Region.", "Zentrum großer nationaler Veranstaltungen."],
       en: ["The largest stadium in the country with over 35,000 seats.", "Features modern facilities for international tournament standards.", "Significant landmark for the rapid urban development of Bata.", "Used for national parades, concerts, and major state events.", "Symbolizes the growth of sports culture on the mainland.", "Equipped with advanced lighting and media infrastructure."]
@@ -75,8 +77,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Volkspalast von Malabo",
       hu: "Malabói néppalota",
       ro: "Palatul Poporului din Malabo",
-      en: "People's Palace of Malabo"
-    },
+      en: "People's Palace of Malabo",
+image: "/poi-images/palacio-del-pueblo-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Ein prächtiges Regierungsgebäude im Zentrum von Malabo, das für offizielle staatliche Anlässe genutzt wird.",
       hu: "Pompás kormányzati épület Malabo központjában, amelyet hivatalos állami eseményekre használnak.",
@@ -99,7 +102,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["The primary administrative and ceremonial seat of the state.", "Known for its grand and imposing architectural design.", "Located in close proximity to the Plaza de la Independencia.", "Venue for official state receptions and international summits.", "A central symbol of Equatorial Guinea's national sovereignty.", "Surrounded by meticulously maintained formal gardens.", "Reflects the political history and modern governance of the nation."],
       de: ["Offizieller Amtssitz des Staatspräsidenten.", "Zentral gelegen an der Küste von Malabo.", "Architektur im neoklassizistischen Monumentalstil.", "Ort für nationale Feiertage und Staatsbesuche.", "Umgeben von weitläufigen, gepflegten Gartenanlagen.", "Symbol der nationalen Souveränität des Landes.", "Teil des administrativen Herzens der Hauptstadt."],
       hu: ["Egyenlítői-Guinea elnöki palotája Malabo szívében.", "Az állami hatalom és függetlenség legfőbb építészeti szimbóluma.", "Elegáns neoklasszicista stílusú, monumentális épület.", "Fontos nemzetközi diplomáciai találkozók helyszíne.", "Gondozott kertek és díszes terek övezik a komplexumot.", "Kiemelt biztonsági zónában helyezkedik el a fővárosban.", "Gyakran szolgál állami ceremóniák és fogadások háttereként."]
-    }},
+    }
+  },
   {
     id: "mbini-bridge-landmarks-v2",
     type: "landmark",
@@ -109,8 +113,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Mbini-Brücke",
       hu: "Mbini-híd",
       ro: "Podul Mbini",
-      en: "Mbini Bridge"
-    },
+      en: "Mbini Bridge",
+image: "/poi-images/mbini-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine der längsten Brücken Afrikas, die den Benito-Fluss überspannt und Bata mit dem Süden verbindet.",
       hu: "Afrika egyik leghosszabb hídja, amely a Benito-folyón ível át, összekötve Batát a déli területekkel.",
@@ -133,7 +138,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["One of Africa's longest bridges at over 1,000 meters.", "Spans the strategic mouth of the Benito River (Mbini).", "Crucial transport link between Bata and the southern mainland.", "A major achievement in national infrastructure development.", "Offers breathtaking views of the river estuary and Atlantic.", "Significantly reduces travel time for regional logistics.", "Constructed to support heavy commercial and industrial traffic."],
       de: ["Überspannt die Mündung des Benito-Flusses.", "Eingeweiht im Jahr 2012.", "Eine der längsten Brücken auf dem afrikanischen Kontinent.", "Verbindet die Provinzhauptstadt Bata mit dem Süden.", "Ersetzte den langsamen und unzuverlässigen Fährbetrieb.", "Entscheidend für den nationalen Warenverkehr an der Küste.", "Ingenieurtechnisches Symbol für den Fortschritt des Landes."],
       hu: ["A Benito-folyó felett átívelő, monumentális közúti híd.", "Összeköti Batát a déli tartományokkal és a gaboni határral.", "Az ország egyik leghosszabb és legmodernebb hídja.", "Kiváltotta a lassú és elavult kompközlekedést a folyón.", "Kritikus jelentőségű a regionális kereskedelem és logisztika számára.", "Látványos panorámát nyújt a Benito-torkolatra és az óceánra.", "A nemzeti infrastruktúra-fejlesztési program egyik büszkesége."]
-    }},
+    }
+  },
   {
     id: "sipopo-congress-center-landmarks-v2",
     type: "landmark",
@@ -147,8 +153,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A Sipopo Konferencia Központ Malabo keleti részén, egy exkluzív tengerparti övezetben található, és az ország diplomáciai életének központja. A futurisztikus megjelenésű épületet kifejezetten nagyszabású nemzetközi események, például az Afrikai Unió csúcstalálkozóinak fogadására tervezték. A központ lenyűgöző üvegfelületei és modern belső terei a legmagasabb szintű luxust és technológiát képviselik. Az épület egy 52 villából álló luxusnegyed és egy prémium szálloda mellett fekszik, biztosítva a delegációk teljes körű ellátását. Sipopo nemcsak egy épület, hanem Egyenlítői-Gínea törekvéseinek szimbóluma, hogy a régió vezető diplomáciai és üzleti csomópontjává váljon.", ro: "Centrul de Conferințe Sipopo, situat lângă Malabo, este o locație sofisticată din punct de vedere arhitectural, proiectată special pentru a găzdui summituri internaționale de nivel înalt, cum ar fi cele ale Uniunii Africane. Amplasat într-un complex turistic de lux de pe coastă, centrul dispune de tehnologie de conferințe de ultimă oră și spații funcționale impresionante pentru diplomația globală. Sipopo a plasat Guineea Ecuatorială pe harta diplomatică a lumii, servind drept scenă principală pentru negocieri internaționale și dialoguri politice. Facilitatea este un exemplu elocvent al strategiei țării de a câștiga influență globală prin dezvoltarea unei infrastructuri de conferințe de clasă mondială. Designul său modern din sticlă și oțel reflectă aspirațiile de viitor ale națiunii, oferind un mediu sigur și prestigios pentru oaspeții de stat.",
       de: "Das Sipopo-Konferenzzentrum bei Malabo ist ein architektonisch anspruchsvolles Bauwerk, das speziell für hochrangige internationale Gipfeltreffen, wie etwa die Treffen der Afrikanischen Union, entworfen wurde. Es liegt eingebettet in einen luxuriösen Resort-Komplex an der Küste und besticht durch modernste Tagungstechnik sowie eine funktionale und gleichzeitig beeindruckende Architektur. Sipopo hat Äquatorialguinea auf der diplomatischen Weltkarte sichtbar gemacht und dient als zentrale Bühne für globale Verhandlungen und politische Dialoge. Das Bauwerk ist ein Paradebeispiel für die Strategie des Landes, durch moderne Konferenzinfrastruktur international an Bedeutung zu gewinnen. Politik K8, Geografie K7.",
-      en: "The Sipopo Congress Center near Malabo is an architecturally sophisticated venue designed specifically to host high-level international summits, such as those of the African Union. Nestled within a luxurious coastal resort complex, the center features state-of-the-art conference technology and impressive, functional spaces for global diplomacy. Sipopo has placed Equatorial Guinea on the world's diplomatic map, serving as a primary stage for international negotiations and political dialogues. The facility is a prime example of the country's strategy to gain global influence through the development of world-class conference infrastructure. Its modern glass and steel design reflects the nation's forward-looking aspirations. Curriculum: Politics K8, Geography K7."
-    },
+      en: "The Sipopo Congress Center near Malabo is an architecturally sophisticated venue designed specifically to host high-level international summits, such as those of the African Union. Nestled within a luxurious coastal resort complex, the center features state-of-the-art conference technology and impressive, functional spaces for global diplomacy. Sipopo has placed Equatorial Guinea on the world's diplomatic map, serving as a primary stage for international negotiations and political dialogues. The facility is a prime example of the country's strategy to gain global influence through the development of world-class conference infrastructure. Its modern glass and steel design reflects the nation's forward-looking aspirations. Curriculum: Politics K8, Geography K7.",
+image: "/poi-images/sipopo-congress-center-landmarks-v2.webp"
+},
     factsAdvanced: { hu: ["Nemzetközi konferenciák és diplomáciai csúcstalálkozók helyszíne.", "Az épület futurisztikus, környezetbe illeszkedő építészeti stílusáról ismert.", "Több mint 1500 fő befogadására alkalmas főteremmel rendelkezik.", "Saját, biztonságos tengerparti övezetben, Sipopo szívében található.", "Számos Afrikai Unió és CEEAC találkozónak adott már otthont.", "Az ország egyik legdrágább és legmodernebb építészeti beruházása."], ro: ["Proiectat special pentru Uniunea Africană și summituri internaționale.", "Dotat cu tehnologie de traducere și comunicații de clasă mondială.", "Parte a unui complex exclusivist de vile și stațiuni de lux pe coastă.", "Un punct de reper arhitectural pe coasta de nord a insulei Bioko.", "Nod major pentru evenimente diplomatice regionale și internaționale.", "Oferă un mediu sigur și prestigios pentru oaspeții de stat.", "Simbol al rolului tot mai important al țării în afacerile globale.", "Construcția sa a impulsionat turismul de afaceri în Malabo."],
       de: ["Speziell für Gipfeltreffen der Afrikanischen Union konzipiert.", "Ausgestattet mit modernster Konferenz- und Kommunikationstechnik.", "Teil eines exklusiven touristischen Komplexes am Meer.", "Wichtiger Standort für die Diplomatie des Landes.", "Bietet eine repräsentative Kulisse für internationale Staatsgäste."],
       en: ["Specifically designed for African Union and international summits.", "Equipped with world-class translation and communication tech.", "Part of an exclusive luxury coastal resort and villa complex.", "An architectural highlight on Bioko's northern coastline.", "Major hub for regional and international diplomatic events.", "Provides a secure and prestigious environment for state guests.", "A symbol of the country's growing role in global affairs."]
@@ -179,8 +186,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A Grand Hotel Djibloho az ország belső területén, az új főváros, Ciudad de la Paz szomszédságában található luxusszálloda, amely a modern építészet és a trópusi vadon találkozását jelképezi. A Wele-folyó partján fekvő hatalmas komplexum minden kényelemmel felszerelt, beleértve egy nemzetközi színvonalú golfpályát, gyógyfürdőt és több éttermet. A szálloda az ország turisztikai és diplomáciai fejlesztési tervének része, célja, hogy a szárazföldi régióba vonzza a nemzetközi látogatókat. Az épület hatalmas üvegablakaiból lélegzetelállító kilátás nyílik az érintetlen esőerdőre. A Grand Hotel Djibloho a luxus és az izoláció különleges keverékét kínálja a dzsungel szívében.", ro: "Grand Hotel Djibloho este o capodoperă a ospitalității moderne situată în inima pădurii tropicale din Guineea Ecuatorială. Acest hotel de lux face parte din ambițiosul proiect de dezvoltare a noii capitale administrative, Ciudad de la Paz, și reprezintă un standard de referință pentru turismul de înaltă clasă din regiunea Río Muni. Hotelul oferă facilități spectaculoase, inclusiv săli de conferințe de mari dimensiuni, un teren de golf profesionist și spa-uri de relaxare, toate fiind înconjurate de o biodiversitate luxuriantă. Arhitectura sa elegantă și dotările tehnologice avansate atrag atât diplomați internaționali, cât și turiști care caută o experiență unică în inima Africii. DJibloho Hotel este mai mult decât un loc de cazare; este un motor economic care susține transformarea infrastructurii naționale.",
       de: "Das Grand Hotel Djibloho ist ein monumentales Bauwerk inmitten des dichten Regenwaldes der neuen Provinz Djibloho und dient als architektonisches Prunkstück für die geplante Hauptstadt Ciudad de la Paz. Das Luxushotel, das mit einem beeindruckenden Golfressort und exklusiven Annehmlichkeiten aufwartet, ist ein klares Symbol für die großangelegten staatlichen Investitionen in die Modernisierung des Landesinneren. Als eines der luxuriösesten Häuser in Zentralafrika unterstreicht es den Anspruch der Regierung, ein neues administratives und wirtschaftliches Zentrum zu schaffen. Die Integration von luxuriösem Komfort in die raue Kulisse des Dschungels ist ein weltweit beachtetes Projekt des Städtebaus. Architektur K8, Geografie K7.",
-      en: "The Grand Hotel Djibloho is a monumental luxury establishment located in the heart of the tropical rainforest in the new Djibloho Province. It serves as an architectural centerpiece for the planned future capital, Ciudad de la Paz. This world-class hotel features an 18-hole championship golf course, high-end amenities, and expansive conference facilities, symbolizing the government's massive investment in modernizing the interior of the country. As one of the most luxurious hotels in Central Africa, it aims to attract international tourism and business to the Rio Muni heartland. The integration of such high-level luxury within the wild jungle setting is a globally recognized urban development project. Curriculum: Architecture K8, Economics K7."
-    },
+      en: "The Grand Hotel Djibloho is a monumental luxury establishment located in the heart of the tropical rainforest in the new Djibloho Province. It serves as an architectural centerpiece for the planned future capital, Ciudad de la Paz. This world-class hotel features an 18-hole championship golf course, high-end amenities, and expansive conference facilities, symbolizing the government's massive investment in modernizing the interior of the country. As one of the most luxurious hotels in Central Africa, it aims to attract international tourism and business to the Rio Muni heartland. The integration of such high-level luxury within the wild jungle setting is a globally recognized urban development project. Curriculum: Architecture K8, Economics K7.",
+image: "/poi-images/grand-hotel-djibloho-landmarks-v2.webp"
+},
     factsAdvanced: { hu: ["Egyenlítői-Gínea legfényűzőbb szállodája a szárazföld belsejében.", "Közvetlenül a Wele-folyó partján, az őserdő közepén épült.", "Saját 18 lyukú profi golfpályával és sportkomplexummal rendelkezik.", "Több mint 450 szobával és számos luxusvillával várja a vendégeket.", "Gyakran ad otthont kormányzati elvonulásoknak és üzleti fórumoknak.", "A szálloda belső kialakítása a klasszikus eleganciát ötvözi a helyi elemekkel."], ro: ["Hotel de lux situat în noua capitală Ciudad de la Paz.", "Găzduiește summituri internaționale și evenimente diplomatice majore.", "Dispune de un teren de golf de standard internațional.", "Arhitectură modernă integrată armonios în mediul tropical.", "Oferă facilități de wellness și spa de clasă mondială.", "Punct central pentru dezvoltarea turismului în provincia Djibloho.", "Echipat cu infrastructură digitală și de securitate de ultimă oră.", "Simbolizează modernizarea regiunii continentale Río Muni."],
       de: ["Luxuriöses Hotel mitten im tropischen Urwald.", "Enthält einen der exklusivsten Golfplätze der Region.", "Zentrales Symbol für die Entwicklung der neuen Hauptstadt.", "Eines der größten und modernsten Häuser Zentralafrikas.", "Bietet eine völlig neue Infrastruktur in einer abgelegenen Region.", "Architektonisches Meisterstück als Zeichen für staatlichen Aufbruch."],
       en: ["A luxury resort complex situated deep within the primary jungle.", "Home to one of Central Africa's premier 18-hole golf courses.", "A central symbol of the development of Ciudad de la Paz.", "Features expansive facilities for international conferences.", "Represents the strategy for decentralized national development.", "Offers a unique blend of high-end luxury and natural wilderness.", "A major logistical hub for the new administrative province."]
@@ -207,8 +215,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Kathedrale von Bata",
       hu: "Bata székesegyház",
       ro: "Catedrala din Bata",
-      en: "Cathedral of Bata"
-    },
+      en: "Cathedral of Bata",
+image: "/poi-images/cathedral-of-bata-landmarks-v2.webp"
+},
     description: {
       de: "Die zentrale katholische Kathedrale von Bata, bekannt für ihre charakteristische rote Fassade.",
       hu: "Bata központi katolikus székesegyháza, amely jellegzetes vörös homlokzatáról ismert.",
@@ -231,7 +240,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["The primary Catholic cathedral for the city of Bata.", "Known for its iconic and recognizable red-brick facade.", "Seat of the Archdiocese of Bata in the Litoral Province.", "Dedicated to St. James and Our Lady of the Pillar.", "A premier example of colonial-era Spanish architectural style.", "Central to the religious and social celebrations of the city.", "A prominent landmark in the historic urban center of Bata."],
       de: ["Neugotische Kathedrale im Zentrum von Bata.", "Offizieller Name: Catedral de Santiago y Nuestra Señora del Pilar.", "Wichtigstes katholisches Gotteshaus auf dem Festland.", "Bekannt für ihre hoch aufragenden Doppeltürme.", "Erbaut während der spanischen Kolonialherrschaft.", "Sitz des römisch-katholischen Bistums Bata.", "Zentraler Ort für große religiöse Prozessionen."],
       hu: ["Bata városának legfontosabb katolikus székesegyháza.", "A spanyol gyarmati és a modern építészet stílusjegyeit hordozza.", "Két jellegzetes harangtornya a város egyik fő tájékozódási pontja.", "A Batai Egyházmegye püspöki székhelye.", "Belső terét értékes vallási művészeti alkotások díszítik.", "A városi közösségi élet és a nagy ünnepek központi helyszíne.", "Központi fekvése miatt könnyen megközelíthető a látogatók számára."]
-    }},
+    }
+  },
   {
     id: "martyrs-7m-monument-landmarks-v2",
     type: "landmark",
@@ -245,8 +255,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A 7M Mártírok Emlékműve Batában a 2021. március 7-én történt tragikus robbanássorozat áldozatainak állít emléket. A Nkoa-Ntoma katonai bázison bekövetkezett baleset az ország történetének egyik legsúlyosabb tragédiája volt, amelyben több mint százan vesztették életüket és ezrek sérültek meg. Az emlékmű a nemzeti gyász, a szolidaritás és az újjáépítés szimbólumává vált. A modern kialakítású emlékhely nevekkel és szimbolikus motívumokkal tiszteleg az elhunytak előtt, emlékeztetve a látogatókat a közösségi összefogás erejére a bajban. Az emlékmű körüli park csendes helyet biztosít a megemlékezésre és az áldozatok előtti tiszteletadásra Bata városában.", ro: "Monumentul Martirilor de la 7 Martie din Bata a fost ridicat în memoria victimelor tragicei explozii de la cazarma Nkoantoma din 2021. Acest monument solemn servește drept loc de reculegere națională și omagiu adus celor care și-au pierdut viața în cel mai grav accident industrial din istoria țării. Designul său arhitectural transmite un mesaj de reziliență, unitate și speranță pentru viitor, fiind un punct central pentru ceremoniile anuale de comemorare. Situat într-o zonă accesibilă a orașului Bata, monumentul a devenit rapid un simbol al solidarității poporului din Guineea Ecuatorială în fața adversității. Este un loc care invită la reflecție asupra importanței securității naționale și a sprijinului reciproc în momente de criză.",
       de: "Das Denkmal der Märtyrer vom 7. März in Bata ist ein Mahnmal, das tief in das kollektive Gedächtnis des Landes eingegangen ist. Es erinnert an die Opfer der verheerenden Explosionen vom 7. März 2021 im Militärlager Nkoantoma, einer Tragödie, die die Stadt Bata tief erschütterte. Das Monument ist nicht nur ein Ort des Gedenkens und der nationalen Reflexion, sondern auch ein architektonisches Zeichen der Solidarität und der Stärke der Bewohner von Bata. Sein modernes Design und die hohe symbolische Bedeutung machen es zu einem zentralen Punkt für Gedenkfeiern und zum Nachdenken über die Fragilität und den Zusammenhalt in Krisenzeiten. Geschichte K8, Soziologie K7.",
-      en: "The 7M Martyrs Monument in Bata is a somber and powerful memorial dedicated to the victims of the devastating explosions that occurred at the Nkoantoma military base on March 7, 2021. This tragic event deeply impacted the city and the entire nation, and the monument serves as a place of collective remembrance and national reflection. Its modern, minimalist design is intended to evoke a sense of solemnity and solidarity with the families of the victims. The monument has become a central point for annual memorial services, reminding citizens of the fragility of life and the strength of the community in times of crisis. It stands as a symbol of national healing and resilience. Curriculum: History K8, Sociology K7."
-    },
+      en: "The 7M Martyrs Monument in Bata is a somber and powerful memorial dedicated to the victims of the devastating explosions that occurred at the Nkoantoma military base on March 7, 2021. This tragic event deeply impacted the city and the entire nation, and the monument serves as a place of collective remembrance and national reflection. Its modern, minimalist design is intended to evoke a sense of solemnity and solidarity with the families of the victims. The monument has become a central point for annual memorial services, reminding citizens of the fragility of life and the strength of the community in times of crisis. It stands as a symbol of national healing and resilience. Curriculum: History K8, Sociology K7.",
+image: "/poi-images/martyrs-7m-monument-landmarks-v2.webp"
+},
     factsAdvanced: { hu: ["A 2021. március 7-i batái robbanások áldozatainak emlékhelye.", "Bata városában, a tragédia közelében épült fel.", "A nemzeti egység és az újjáépítési akarat szimbóluma.", "Az emlékművön szerepelnek az azonosított áldozatok nevei.", "Évente tartanak itt állami megemlékezéseket a tragédia napján.", "Környezete meditációra és csendes pihenésre alkalmas parkosított terület."], ro: ["Comemorează victimele exploziilor de la Bata din 7 martie 2021.", "Situat în orașul Bata, principalul centru economic al continentului.", "Loc oficial pentru depunerea de coroane și ceremonii de stat.", "Arhitectura sa simbolizează unitatea națională și renașterea.", "Finanțat prin contribuții guvernamentale și donații de solidaritate.", "Punct de reper esențial pentru istoria recentă a țării.", "Zonă amenajată pentru vizitatori și momente de liniște.", "Reflectă recunoștința națiunii față de echipele de intervenție."],
       de: ["Gedenkstätte für die Opfer der Explosionen vom 7. März 2021.", "Wichtiger Ort für das nationale Gedenken und die Trauerarbeit.", "Modernes, minimalistisches Design mit großer Wirkung.", "Ein Symbol für den Zusammenhalt der Menschen in Bata.", "Wird regelmäßig für offizielle Gedenkveranstaltungen genutzt.", "Steht für die Bewältigung nationaler Traumata."],
       en: ["Memorializes the victims of the March 7, 2021 base explosions.", "A vital site for national mourning and collective memory.", "Features a modern design with high symbolic and emotional value.", "A symbol of the resilience and unity of the people of Bata.", "Host to official annual memorial ceremonies and vigils.", "Reflects the nation's efforts to honor and support survivors.", "Located near the site of the historical tragedy in Rio Muni."]
@@ -273,8 +284,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "UNGE-Campus Malabo",
       hu: "UNGE Campus Malabo",
       ro: "Campusul UNGE Malabo",
-      en: "UNGE Campus Malabo"
-    },
+      en: "UNGE Campus Malabo",
+image: "/poi-images/unge-campus-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Der Hauptcampus der Nationaluniversität von Äquatorialguinea in der Hauptstadt Malabo.",
       hu: "Az Egyenlítői-Guineai Nemzeti Egyetem fő kampusza a fővárosban, Malabóban.",
@@ -296,7 +308,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["The main campus of the country's premier national university.", "A central hub for higher education and academic research.", "Features modern classrooms, libraries, and student facilities.", "Key institution for training the nation's future professionals.", "Host to various national and international academic forums.", "Reflects the priority given to education in national development.", "Located in a prominent area of the capital city, Malabo."],
       de: ["Hauptcampus der Nationaluniversität in Malabo.", "Wichtigste akademische Institution Äquatorialguineas.", "Beherbergt Fakultäten für Technik, Medizin und Recht.", "Zentrum für nationale Forschung und Wissenschaft.", "Symbol für das Recht auf höhere Bildung im Land.", "Fördert den internationalen akademischen Austausch.", "Bietet Platz für tausende Studierende aus allen Provinzen."],
       hu: ["Egyenlítői-Guinea Nemzeti Egyetemének központi campusa.", "Az ország legmagasabb szintű oktatási és kutatási intézménye.", "Modern épületek és jól felszerelt akadémiai létesítmények.", "Több ezer hallgató számára biztosít továbbtanulási lehetőséget.", "A nemzeti tudományos és kulturális élet egyik központja.", "Zöld parkok és tágas közösségi terek jellemzik a területet.", "Fontos szerepet játszik a diplomások nemzetközi versenyképességében."]
-    }},
+    }
+  },
   {
     id: "gepetrol-headquarters-landmarks-v2",
     type: "landmark",
@@ -310,8 +323,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A GEPetrol székháza Malabóban az ország gazdasági motorját jelentő olajipar adminisztratív központja. A modern, monumentális üvegépület Malabo egyik leglátványosabb irodaháza, amely a nemzeti olajvállalat erejét és professzionalizmusát hirdeti. Az épület a II. Malabo negyedben található, ahol a modernizáció leginkább szembetűnő. Belső tereiben a legmodernebb irodatechnológia és konferenciatermek kaptak helyet, kiszolgálva a nemzetközi olajvállalatokkal való együttműködést. A székház építészete tükrözi az ország modern kori felemelkedését és a szénhidrogén-szektor központi szerepét a nemzeti fejlődésben. Éjszakai kivilágítása meghatározó eleme a város üzleti negyedének.", ro: "Sediul central GEPetrol din Malabo este o clădire administrativă impunătoare care reprezintă inima industriei energetice a Guineei Ecuatoriale. Fiind sediul companiei naționale de petrol, această structură modernă reflectă bogăția și importanța strategică a resurselor de hidrocarburi pentru economia țării. Arhitectura sa contemporană, dominată de sticlă și oțel, este un simbol al modernizării rapide a capitalei și al aspirațiilor de dezvoltare industrială. Clădirea găzduiește birourile executive, departamentele de explorare și centrele de date vitale pentru gestionarea resurselor naturale ale națiunii. Localizat în zona administrativă și comercială a orașului, sediul GEPetrol este un punct de reper vizual major care subliniază rolul țării ca jucător cheie pe piața energetică africană.",
       de: "Der Hauptsitz von GEPetrol im modernen Geschäftsviertel von Malabo II ist eines der repräsentativsten Bürogebäude des Landes und Ausdruck der wirtschaftlichen Bedeutung des Öl- und Energiesektors für den äquatorialguineischen Staat. Das gläserne Hochhaus zeichnet sich durch seine hochmoderne Architektur aus und stellt ein Symbol für den nationalen Wohlstand sowie die Modernisierung der urbanen Infrastruktur dar. Das Gebäude beherbergt nicht nur die Führungsebene der nationalen Ölgesellschaft, sondern dient auch als architektonischer Fixpunkt in der neuen Business-Zone. Die transparente Gestaltung und die Lage am Boulevard unterstreichen den Anspruch des Landes, sich als moderner, international orientierter Wirtschaftsakteur in Zentralafrika zu präsentieren. Wirtschaft K8, Architektur K7.",
-      en: "The GEPetrol Headquarters in the modern Malabo II district is one of the most iconic office buildings in Equatorial Guinea, reflecting the immense importance of the energy sector to the nation's economy. The glass-fronted skyscraper features cutting-edge contemporary architecture and stands as a symbol of national prosperity and urban modernization. It houses the executive offices of the national oil company, GEPetrol, which manages the country's vast offshore hydrocarbon resources. The building's transparent design and prominent location along a major boulevard underline the country's aspirations to be a sophisticated and international player in the global energy market. Curriculum: Economics K8, Architecture K7."
-    },
+      en: "The GEPetrol Headquarters in the modern Malabo II district is one of the most iconic office buildings in Equatorial Guinea, reflecting the immense importance of the energy sector to the nation's economy. The glass-fronted skyscraper features cutting-edge contemporary architecture and stands as a symbol of national prosperity and urban modernization. It houses the executive offices of the national oil company, GEPetrol, which manages the country's vast offshore hydrocarbon resources. The building's transparent design and prominent location along a major boulevard underline the country's aspirations to be a sophisticated and international player in the global energy market. Curriculum: Economics K8, Architecture K7.",
+image: "/poi-images/gepetrol-headquarters-landmarks-v2.webp"
+},
     factsAdvanced: { hu: ["Az állami olajvállalat, a GEPetrol központi székháza Malabóban.", "Modern építészeti stílusa Malabo II negyedének egyik dísze.", "Az ország gazdasági és energetikai irányításának egyik központja.", "Az épület magas szintű biztonsági és technológiai rendszerekkel felszerelt.", "Közelében találhatók más fontos állami intézmények és nagykövetségek.", "A székház az ország olajbevételeinek köszönhető jólétet szimbolizálja."], ro: ["Sediul oficial al companiei naționale de petrol GEPetrol.", "Situat în centrul administrativ modern al orașului Malabo.", "Clădire de birouri de ultimă generație cu design contemporan.", "Reprezintă motorul economic principal al Guineei Ecuatoriale.", "Nod vital pentru negocierile internaționale în sectorul energiei.", "Dotat cu sisteme avansate de securitate și management al clădirii.", "Simbol al prosperității derivate din resursele de hidrocarburi.", "Punct de reper arhitectural esențial în peisajul urban al capitalei."],
       de: ["Sitz des staatlichen Erdölkonzerns von Äquatorialguinea.", "Ein Beispiel für moderne, gläserne Architektur in Malabo II.", "Teil des neuen dynamischen Geschäftsviertels der Hauptstadt.", "Symbol für den Ressourcenreichtum und den Aufstieg des Landes.", "Enthält hochmoderne Büro- und Konferenzräume.", "Wichtiges wirtschaftliches Wahrzeichen des modernen Malabo."],
       en: ["Headquarters of the national oil company, GEPetrol.", "A standout example of modern glass-and-steel architecture.", "Symbolizes the country's energy wealth and economic growth.", "Features state-of-the-art office and conference infrastructure.", "A major landmark in the capital's modernizing skyline.", "Central to the management of the nation's oil and gas assets."]
@@ -338,8 +352,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Ngolo-Konferenzzentrum",
       hu: "Ngolo konferenciaközpont",
       ro: "Centrul de Conferințe Ngolo",
-      en: "Ngolo Conference Center"
-    },
+      en: "Ngolo Conference Center",
+image: "/poi-images/ngolo-conference-center-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Veranstaltungszentrum in Bata, das für regionale Konferenzen und kulturelle Events genutzt wird.",
       hu: "Jelentős rendezvényközpont Batában, amelyet regionális konferenciákra és kulturális eseményekre használnak.",
@@ -361,7 +376,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["A major conference and cultural center in the city of Bata.", "Host to significant national and regional political dialogues.", "Features modern, high-capacity auditoriums and halls.", "Important venue for cultural festivals and artistic events.", "A hub for intellectual and professional exchange in Rio Muni.", "Reflects the modernization of the mainland's urban facilities.", "Strategically located for easy access within the northern city."],
       de: ["Modernes Kongresszentrum in der Stadt Bata.", "Wichtiger Ort für internationale politische Foren.", "Ausgestattet mit neuester Konferenz- und Medientechnik.", "Bietet Kapazitäten für mehrere tausend Teilnehmer.", "Symbol für die diplomatische Bedeutung von Bata.", "Host für regionale Gipfeltreffen und Wirtschaftsmessen.", "Architektonisches Highlight der kontinentalen Region."],
       hu: ["Nemzetközi színvonalú kongresszusi központ Bata városában.", "Modern és futurisztikus építészeti megoldások jellemzik.", "Kiemelt helyszín nagyszabású diplomáciai és gazdasági fórumokhoz.", "A legújabb audiovizuális és tolmácstechnológiával felszerelt.", "Hatalmas befogadóképességű auditóriumok és tárgyalók.", "A szárazföldi régió diplomáciai presztízsét növelő beruházás.", "Gyakran ad otthont regionális és nemzetközi csúcstalálkozóknak."]
-    }},
+    }
+  },
   {
     id: "pico-basile-tower-landmarks-v2",
     type: "landmark",
@@ -371,8 +387,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Fernsehturm Pico Basile",
       hu: "Pico Basile tévétorony",
       ro: "Turnul TV Pico Basile",
-      en: "Pico Basile Tower"
-    },
+      en: "Pico Basile Tower",
+image: "/poi-images/pico-basile-tower-landmarks-v2.webp"
+},
     description: {
       de: "Die markante Sendeanlage auf dem Gipfel des Pico Basile, der höchste Punkt der Insel Bioko.",
       hu: "Jellegzetes adótorony a Pico Basile csúcsán, Bioko szigetének legmagasabb pontján.",
@@ -394,7 +411,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["The highest telecommunications facility in the country.", "Located at an elevation of 3,011 meters on Pico Basile.", "A critical hub for national television and radio broadcasting.", "An engineering masterpiece built in a challenging alpine environment.", "Provides essential mobile and data signals for the region.", "A landmark visible from almost anywhere in northern Bioko.", "Ensures national connectivity and communication security."],
       de: ["Fernmeldeturm auf dem Gipfel des Pico Basilé (3.011 m).", "Wichtigster Knotenpunkt für nationale Kommunikation.", "Sichert den Rundfunkempfang auf der gesamten Insel Bioko.", "Höchstgelegenes technisches Bauwerk des Landes.", "Strategisch wichtig für Meteorologie und Luftfahrt.", "Oft über der Wolkendecke thronendes Wahrzeichen.", "Bietet einzigartige Panorama-Blicke über den Golf von Guinea."],
       hu: ["A nemzeti távközlés és műsorszórás legfontosabb adótornya.", "A Pico Basilé csúcsán, 3011 méteres magasságban található.", "Az ország legmagasabban fekvő technikai létesítménye.", "Tiszta időben Kamerunig is elnyúló panorámát kínál.", "Kritikus infrastruktúra a rádió- és televíziós hálózatok számára.", "Kihívást jelentő mérnöki munka eredménye a vulkán tetején.", "Meghatározó látványelem a Bioko sziget északi látképében."]
-    }},
+    }
+  },
   {
     id: "ccem-malabo-landmarks-v2",
     type: "landmark",
@@ -404,8 +422,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Spanisches Kulturzentrum Malabo",
       hu: "Malabói spanyol kulturális központ",
       ro: "Centrul Cultural al Spaniei din Malabo",
-      en: "Spanish Cultural Center in Malabo"
-    },
+      en: "Spanish Cultural Center in Malabo",
+image: "/poi-images/ccem-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Ein lebendiger Ort der Kultur und Bildung im historischen Viertel von Malabo.",
       hu: "A kultúra és az oktatás élénk központja Malabo történelmi negyedében.",
@@ -427,7 +446,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["A premier center for cultural exchange and artistic creativity.", "Located in the historic heart of the capital city, Malabo.", "Houses a significant public library and educational facilities.", "Host to regular art exhibitions, theater, and concerts.", "Promotes the study of the Spanish language and Equatoguinean culture.", "A vital platform for supporting local contemporary artists.", "Symbolizes the long-standing cultural connection with Spain."],
       de: ["Wichtigstes spanisches Kulturzentrum in Malabo.", "Zentrum für Kunst, Literatur und musikalische Darbietungen.", "Fördert den kulturellen Austausch zwischen Spanien und Afrika.", "Beherbergt eine umfangreiche öffentliche Bibliothek.", "Wichtiger Ort für Sprachkurse und berufliche Bildung.", "Symbol für das spanischsprachige Erbe des Landes.", "Zentraler Treffpunkt der kulturellen Szene der Hauptstadt."],
       hu: ["A spanyol és a helyi kultúra legfontosabb találkozóhelye Malabóban.", "Rendszeres helyszíne nemzetközi szintű kiállításoknak és koncerteknek.", "Kiválóan felszerelt nyilvános könyvtárral és médiatárral rendelkezik.", "Támogatja a helyi tehetségek fejlődését és bemutatkozását.", "Ingyenes kulturális és oktatási programokat kínál a lakosságnak.", "Modern, esztétikus építészeti megoldások jellemzik a központot.", "Fontos szerepe van a spanyol nyelvű kulturális örökség megőrzésében."]
-    }},
+    }
+  },
   {
     id: "ceeac-building-malabo-landmarks-v2",
     type: "landmark",
@@ -437,8 +457,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "CEEAC-Gebäude Malabo",
       hu: "CEEAC épület Malabo",
       ro: "Clădirea CEEAC Malabo",
-      en: "CEEAC Building Malabo"
-    },
+      en: "CEEAC Building Malabo",
+image: "/poi-images/ceeac-building-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Das repräsentative Gebäude der Zentralafrikanischen Wirtschaftsgemeinschaft in Malabo II.",
       hu: "A Közép-afrikai Államok Gazdasági Közösségének reprezentatív épülete Malabo II-ben.",
@@ -461,7 +482,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["Representative building for the Economic Community of Central African States.", "A modern landmark in the international district of Malabo II.", "A hub for regional diplomatic coordination and cooperation.", "Symbolizes Equatorial Guinea's role in Central African integration.", "Located near various international embassies and government ministries.", "Reflects the modern architectural standards of the new capital zone.", "Facilitates international meetings and regional economic dialogue."],
       de: ["Sitz regionaler diplomatischer Organisationen (CEEAC).", "Zentrum für wirtschaftliche Integration in Zentralafrika.", "Modernes Verwaltungsgebäude im Diplomatenviertel.", "Symbol für Äquatorialguineas Rolle in der Region.", "Ort für internationale Verhandlungen und Treffen.", "Stärkt die diplomatische Infrastruktur von Malabo.", "Fördert die Zusammenarbeit zwischen den Nachbarstaaten."],
       hu: ["A Közép-afrikai Államok Gazdasági Közösségének fontos hivatala.", "Modern, nemzetközi stílusú építészet a főváros diplomáciai negyedében.", "A regionális gazdasági integráció és együttműködés központja.", "Számos magas szintű szakmai és politikai találkozó helyszíne.", "Egyenlítői-Guinea aktív regionális szerepvállalásának jelképe.", "Korszerű irodai infrastruktúra és konferenciatermek jellemzik.", "Hangsúlyos szerepet kap a térség biztonsági és gazdasági koordinációjában."]
-    }},
+    }
+  },
   {
     id: "marimba-monument-bata-landmarks-v2",
     type: "landmark",
@@ -471,8 +493,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Marimba-Denkmal von Bata",
       hu: "Bata marimba-emlékmű",
       ro: "Monumentul Marimba din Bata",
-      en: "Marimba Monument of Bata"
-    },
+      en: "Marimba Monument of Bata",
+image: "/poi-images/marimba-monument-bata-landmarks-v2.webp"
+},
     description: {
       de: "Ein künstlerisches Monument in Bata, das dem traditionellen Musikinstrument Marimba gewidmet ist.",
       hu: "Művészi emlékmű Batában, amelyet a hagyományos marimba hangszernek szenteltek.",
@@ -494,7 +517,8 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       en: ["An artistic monument dedicated to the traditional marimba instrument.", "Located prominently on the scenic Bata waterfront promenade.", "Celebrates the musical heritage of the Fang and other ethnic groups.", "A popular landmark and photo spot for visitors and locals.", "Symbolizes the preservation of traditional arts in a modern city.", "Reflects the importance of music in Equatoguinean culture.", "Part of the cultural revitalization of the Litoral Province."],
       de: ["Denkmal zur Feier des traditionellen Marimba-Instruments.", "Zentrales kulturelles Wahrzeichen in der Stadt Bata.", "Symbol für die reiche musikalische Folklore des Landes.", "Beliebtes Fotomotiv und öffentlicher Treffpunkt.", "Verkörpert den Stolz auf das afrikanische Kulturerbe.", "Künstlerisch anspruchsvolle Darstellung traditioneller Kunst.", "Erinnert an die verbindende Kraft der Musik."],
       hu: ["A hagyományos afrikai marimba hangszernek szentelt emlékmű.", "Bata városának egyik kedvelt kulturális és turisztikai jelképe.", "A helyi zenei tradíciók és a nemzeti identitás tiszteletét fejezi ki.", "Művészi kivitelezésű szobor egy forgalmas városi csomópontban.", "Fontos szerepet játszik a kulturális turizmus ösztönzésében.", "Népszerű helyszín közösségi találkozókhoz és fotózáshoz.", "A hagyomány és a modern városi környezet találkozását jelképezi."]
-    }},
+    }
+  },
   {
     id: "luba-port-expansion-landmarks-v2",
     type: "landmark",
@@ -504,8 +528,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Hafen von Luba (Erweiterung)",
       hu: "Lubai kikötő (bővítés)",
       ro: "Portul Luba (extindere)",
-      en: "Luba Port (Expansion)"
-    },
+      en: "Luba Port (Expansion)",
+image: "/poi-images/luba-port-expansion-landmarks-v2.webp"
+},
     description: {
       de: "Die modernen Hafenanlagen von Luba, ein strategisches Logistikzentrum für die Öl- und Gasindustrie.",
       hu: "Luba modern kikötői létesítményei, az olaj- és gázipar stratégiai logisztikai központja.",
@@ -540,8 +565,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Flughafen Annobón (Terminal)",
       hu: "Annobón repülőtér (terminál)",
       ro: "Aeroportul Annobón (terminal)",
-      en: "Annobón Airport (Terminal)"
-    },
+      en: "Annobón Airport (Terminal)",
+image: "/poi-images/annobon-airport-terminal-landmarks-v2.webp"
+},
     description: {
       de: "Das moderne Terminalgebäude des Flughafens auf der abgelegenen Insel Annobón.",
       hu: "A távoli Annobón szigetén található repülőtér modern terminálépülete.",
@@ -576,8 +602,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Ministerium für Bergbau",
       hu: "Bányászati Minisztérium",
       ro: "Ministerul Minelor",
-      en: "Ministry of Mines"
-    },
+      en: "Ministry of Mines",
+image: "/poi-images/ministry-of-mines-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Ein beeindruckendes Regierungsgebäude in Malabo II, das den Bergbau- und Energiesektor verwaltet.",
       hu: "Lenyűgöző kormányzati épület Malabo II-ben, amely a bányászati és energiaágazatot irányítja.",
@@ -612,8 +639,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Frauenplatz von Bata",
       hu: "Bata női tér",
       ro: "Piața Femeii din Bata",
-      en: "Plaza de la Mujer (Bata)"
-    },
+      en: "Plaza de la Mujer (Bata)",
+image: "/poi-images/plaza-de-la-mujer-bata-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutender öffentlicher Platz in Bata, der der Rolle der Frauen in der Gesellschaft gewidmet ist.",
       hu: "Jelentős közösségi tér Batában, amelyet a nők társadalomban betöltött szerepének szenteltek.",
@@ -648,8 +676,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Neues Rathaus von Bata",
       hu: "Bata új városháza",
       ro: "Noua Primărie din Bata",
-      en: "New Bata City Hall"
-    },
+      en: "New Bata City Hall",
+image: "/poi-images/bata-city-hall-new-landmarks-v2.webp"
+},
     description: {
       de: "Das moderne Verwaltungsgebäude der Stadt Bata, ein Symbol für urbane Erneuerung.",
       hu: "Bata városának modern közigazgatási épülete, a városi megújulás szimbóluma.",
@@ -684,8 +713,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Freundschaftsbrücke (Djibloho)",
       hu: "Barátság híd (Djibloho)",
       ro: "Podul Prieteniei (Djibloho)",
-      en: "Friendship Bridge (Djibloho)"
-    },
+      en: "Friendship Bridge (Djibloho)",
+image: "/poi-images/friendship-bridge-djibloho-landmarks-v2.webp"
+},
     description: {
       de: "Eine elegante neue Brücke in Ciudad de la Paz, die über den Wele-Fluss führt.",
       hu: "Elegáns új híd Ciudad de la Paz-ban, amely a Wele-folyón ível át.",
@@ -720,8 +750,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Allgemeines Krankenhaus Malabo",
       hu: "Malabói Általános Kórház",
       ro: "Spitalul General Malabo",
-      en: "Malabo General Hospital"
-    },
+      en: "Malabo General Hospital",
+image: "/poi-images/malabo-general-hospital-landmarks-v2.webp"
+},
     description: {
       de: "Das größte und modernste medizinische Versorgungszentrum der Insel Bioko.",
       hu: "Bioko szigetének legnagyobb és legmodernebb orvosi ellátó központja.",
@@ -756,8 +787,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "BEAC-Gebäude Malabo",
       hu: "BEAC épület Malabo",
       ro: "Clădirea BEAC Malabo",
-      en: "BEAC Building Malabo"
-    },
+      en: "BEAC Building Malabo",
+image: "/poi-images/beac-building-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Der repräsentative Sitz der Zentralafrikanischen Zentralbank in der Hauptstadt Malabo.",
       hu: "A Közép-afrikai Államok Bankjának reprezentatív székhelye a fővárosban, Malabóban.",
@@ -792,8 +824,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "Einkaufszentrum Malabo",
       hu: "Malabo Mall",
       ro: "Malabo Mall",
-      en: "Malabo Mall"
-    },
+      en: "Malabo Mall",
+image: "/poi-images/malabo-mall-landmarks-v2.webp"
+},
     description: {
       de: "Das größte moderne Einkaufs- und Freizeitzentrum in Äquatorialguinea.",
       hu: "Egyenlítői-Guinea legnagyobb modern bevásárló- és szórakoztató központja.",
@@ -828,8 +861,9 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       de: "San-Fernando-Kirche Malabo",
       hu: "Szent Ferdinánd-templom Malabo",
       ro: "Biserica San Fernando Malabo",
-      en: "San Fernando Church Malabo"
-    },
+      en: "San Fernando Church Malabo",
+image: "/poi-images/iglesia-san-fernando-malabo-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Kirche in Malabo, bekannt für ihre Gemeinschaft und religiöse Bedeutung.",
       hu: "Történelmi templom Malabóban, amely közösségéről és vallási jelentőségéről ismert.",

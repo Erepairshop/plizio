@@ -4,7 +4,9 @@ export const swedenHistoryV2: POI[] = [
   {
     id: "sweden-kalmar-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Kalmar", hu: "Kalmari vár", ro: "Castelul Kalmar", en: "Kalmar Castle" },
+    name: { de: "Schloss Kalmar", hu: "Kalmari vár", ro: "Castelul Kalmar", en: "Kalmar Castle",
+image: "/poi-images/sweden-kalmar-castle-history-v2.webp"
+},
     coords: [16.3551, 56.6583],
     coordinates: { lat: 56.6583, lng: 16.3551 },
     description: {
@@ -19,11 +21,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit inițial în secolul al XII-lea", "Cheie strategică pentru Öresund", "Reconstrucție renascentistă în secolul XVI", "Sediul tratatului Uniunii de la Kalmar"],
       en: ["Originally built in the 12th century", "Strategic key to the Öresund", "Renaissance reconstruction in the 16th century", "Site of the Kalmar Union treaty"],
     },
-    imageHint: "Kalmar Castle aerial view by the sea", image: "/poi-images/sweden-kalmar-castle-history-v2.webp"},
-  {
+imageHint: "Kalmar Castle aerial view by the sea",
+    descriptionAdvanced: {
+      de: "Das Schloss Kalmar ist ein bedeutendes Renaissancebauwerk. Hier wurde 1397 die Kalmarer Union besiegelt, die Dänemark, Norwegen und Schweden unter einer Krone vereinte.",
+      hu: "A kalmari vár Észak-Európa egyik legjelentősebb reneszánsz építménye. Itt kötötték meg 1397-ben a kalmari uniót, amely egyesítette a három északi királyságot.",
+      ro: "Castelul Kalmar este unul dintre cele mai importante edificii renascentiste din Europa de Nord. Aici a fost semnată în 1397 Uniunea de la Kalmar, unind cele trei regate.",
+      en: "Kalmar Castle is one of Scandinavia's most significant Renaissance buildings. In 1397, it was the site where the Kalmar Union was signed, uniting the three Nordic kingdoms.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr der ersten Festung um 1180", "Sitz der Kalmarer Union ab 1397", "Umbau zum Renaissanceschloss im 16. Jh.", "Besitzt vier markante runde Ecktürme"],
+      hu: ["Az első erődítmény 1180 körül épült", "1397-ben itt jött létre a Kalmari Unió", "A 16. században építették át reneszánsz stílusban", "Négy jellegzetes kerek saroktornya van"],
+      ro: ["Prima fortificație a fost ridicată în 1180", "Sediul Uniunii de la Kalmar din 1397", "Reconstruit în stil renascentist în sec. XVI", "Are patru turnuri circulare distinctive"],
+      en: ["First fortress built around 1180", "Site of the Kalmar Union in 1397", "Rebuilt in Renaissance style in the 16th century", "Features four iconic round corner towers"],
+    },
+    image: "/poi-images/sweden-kalmar-castle-history-v2.webp",
+},  {
     id: "sweden-lacko-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Läckö", hu: "Läckö kastély", ro: "Castelul Läckö", en: "Läckö Castle" },
+    name: { de: "Schloss Läckö", hu: "Läckö kastély", ro: "Castelul Läckö", en: "Läckö Castle",
+image: "/poi-images/sweden-lacko-castle-history-v2.webp"
+},
     coords: [13.2201, 58.6751],
     coordinates: { lat: 58.6751, lng: 13.2201 },
     description: {
@@ -38,11 +55,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Fondat în anul 1298", "Peste 240 de camere în interior", "Capelă splendidă din 1670", "Grădina 'Lilla Slottsträdgården' este faimoasă"],
       en: ["Founded in the year 1298", "Over 240 rooms inside", "Magnificent castle chapel from 1670", "Famous for the 'Lilla Slottsträdgården' garden"],
     },
-    imageHint: "Läckö Castle on Lake Vänern", image: "/poi-images/sweden-lacko-castle-history-v2.webp"},
-  {
+imageHint: "Läckö Castle on Lake Vänern",
+    descriptionAdvanced: {
+      de: "Das am Vänernsee gelegene Schloss Läckö ist ein Prachtbeispiel des schwedischen Barock. Es diente ursprünglich als Bischofsburg, bevor es im 17. Jahrhundert prunkvoll ausgebaut wurde.",
+      hu: "A Vänern-tó partján álló Läckö-kastély a svéd barokk építészet ékköve. Eredetileg püspöki vár volt, majd a 17. században Magnus Gabriel De la Gardie építtette át.",
+      ro: "Situat pe malul lacului Vänern, Castelul Läckö este o capodoperă a barocului suedez. Inițial o cetate episcopală, a fost transformat în reședință nobiliară în secolul XVII.",
+      en: "Located on Lake Vänern, Läckö Castle is a masterpiece of Swedish Baroque architecture. Originally a bishop's fort, it was lavishly rebuilt in the 17th century.",
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung als Bischofsburg 1298", "Umbau durch Magnus De la Gardie ab 1654", "Verfügt über ca. 250 prunkvolle Räume", "Wurde 2001 zum schönsten Schloss Schwedens gewählt"],
+      hu: ["1298-ban alapították püspöki várként", "De la Gardie gróf építtette át 1654-től", "Körülbelül 250 díszes helyiséggel rendelkezik", "2001-ben Svédország legszebb kastélyának választották"],
+      ro: ["Fondat ca fortăreață episcopală în 1298", "Modernizat de De la Gardie începând cu 1654", "Cuprinde aproximativ 250 de camere decorate", "Votat cel mai frumos castel din Suedia în 2001"],
+      en: ["Founded as a bishop's castle in 1298", "Rebuilt by Magnus De la Gardie from 1654", "Contains approximately 250 ornate rooms", "Voted Sweden's most beautiful castle in 2001"],
+    },
+    image: "/poi-images/sweden-lacko-castle-history-v2.webp",
+},  {
     id: "sweden-gripsholm-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Gripsholm", hu: "Gripsholm kastély", ro: "Castelul Gripsholm", en: "Gripsholm Castle" },
+    name: { de: "Schloss Gripsholm", hu: "Gripsholm kastély", ro: "Castelul Gripsholm", en: "Gripsholm Castle",
+image: "/poi-images/sweden-gripsholm-castle-history-v2.webp"
+},
     coords: [17.2192, 59.2562],
     coordinates: { lat: 59.2562, lng: 17.2192 },
     description: {
@@ -57,11 +89,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit din 1537", "Deține un teatru conservat din 1781", "A servit parțial ca închisoare de stat", "Colecție faimoasă de portrete în interior"],
       en: ["Built starting in 1537", "Features a preserved theater from 1781", "Served periodically as a state prison", "Houses a famous portrait collection"],
     },
-    imageHint: "Gripsholm Castle red brick walls", image: "/poi-images/sweden-gripsholm-castle-history-v2.webp"},
-  {
+imageHint: "Gripsholm Castle red brick walls",
+    descriptionAdvanced: {
+      de: "Schloss Gripsholm, am Mälarensee gelegen, wurde von Gustav Wasa im 16. Jahrhundert errichtet. Es beherbergt heute die staatliche Porträtsammlung mit über 4.000 Werken.",
+      hu: "A Mälaren-tó partján álló Gripsholm-kastélyt I. Gusztáv építtette a 16. században. Ma itt található az állami portrégyűjtemény több mint 4000 festménnyel.",
+      ro: "Castelul Gripsholm, pe malul lacului Mälaren, a fost ctitorit de Gustav Vasa în sec. XVI. Găzduiește colecția națională de portrete cu peste 4.000 de lucrări.",
+      en: "Gripsholm Castle, situated on Lake Mälaren, was built by Gustav Vasa in the 16th century. It now houses the National Portrait Gallery with over 4,000 artworks.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit unter Gustav Wasa ab 1537", "Beherbergt die Staatliche Porträtsammlung", "Besitzt ein gut erhaltenes Theater aus dem 18. Jh.", "Berühmt durch Kurt Tucholskys gleichnamigen Roman"],
+      hu: ["1537-ben kezdték építeni Gusztáv királynak", "Itt őrzik az Állami Portrégyűjteményt", "Kiváló állapotú 18. századi színháza van", "Kurt Tucholsky híres regényének helyszíne"],
+      ro: ["Construcția a început în 1537 sub Gustav Vasa", "Găzduiește Galeria Națională de Portrete", "Deține un teatru bine conservat din sec. XVIII", "Celebru datorită romanului lui Kurt Tucholsky"],
+      en: ["Construction started in 1537 under Gustav Vasa", "Houses the Swedish National Portrait Gallery", "Features a well-preserved 18th-century theater", "Famous setting of Kurt Tucholsky's namesake novel"],
+    },
+    image: "/poi-images/sweden-gripsholm-castle-history-v2.webp",
+},  {
     id: "sweden-skokloster-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Skokloster", hu: "Skokloster kastély", ro: "Castelul Skokloster", en: "Skokloster Castle" },
+    name: { de: "Schloss Skokloster", hu: "Skokloster kastély", ro: "Castelul Skokloster", en: "Skokloster Castle",
+image: "/poi-images/sweden-skokloster-castle-history-v2.webp"
+},
     coords: [17.5856, 59.7042],
     coordinates: { lat: 59.7042, lng: 17.5856 },
     description: {
@@ -76,11 +123,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit de contele Carl Gustaf Wrangel", "Sala de bal neterminată arată tehnica", "Conține pictura 'Vertumnus'", "Peste 50.000 de piese în colecție"],
       en: ["Built by Count Carl Gustaf Wrangel", "Unfinished banquet hall shows construction", "Contains the painting 'Vertumnus'", "Over 50,000 items in the collection"],
     },
-    imageHint: "Skokloster Castle Baroque architecture", image: "/poi-images/sweden-skokloster-castle-history-v2.webp"},
-  {
+imageHint: "Skokloster Castle Baroque architecture",
+    descriptionAdvanced: {
+      de: "Das Schloss Skokloster ist eines der besterhaltenen Barockschlösser Europas. Es wurde im 17. Jahrhundert für Graf Carl Gustaf Wrangel erbaut und blieb teilweise unvollendet.",
+      hu: "A Skokloster-kastély Európa egyik legjobb állapotban fennmaradt barokk emléke. A 17. században épült Carl Gustaf Wrangel gróf számára, de belső terei részben befejezetlenek.",
+      ro: "Castelul Skokloster este unul dintre cele mai bine conservate monumente baroce din Europa. Construit în sec. XVII pentru contele Wrangel, a rămas parțial neterminat.",
+      en: "Skokloster Castle is one of Europe's best-preserved Baroque monuments. Built in the 17th century for Count Carl Gustaf Wrangel, some interiors remain unfinished.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1654 und 1676", "Der Festsaal hat bis heute keine Decke", "Enthält eine weltberühmte Waffenkammer", "Architekt war der Deutsche Caspar Vogel"],
+      hu: ["1654 és 1676 között épült", "A díszterem mennyezete a mai napig hiányzik", "Világhírű fegyvertárral rendelkezik", "Építésze a német Caspar Vogel volt"],
+      ro: ["Construit între anii 1654 și 1676", "Sala banchetelor nu are tavan nici astăzi", "Deține o armurărie de renume mondial", "Arhitectul a fost germanul Caspar Vogel"],
+      en: ["Built between 1654 and 1676", "The banquet hall ceiling remains unfinished", "Houses a world-famous armory collection", "Designed by German architect Caspar Vogel"],
+    },
+    image: "/poi-images/sweden-skokloster-castle-history-v2.webp",
+},  {
     id: "sweden-uppsala-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Dom zu Uppsala", hu: "Uppsalai dóm", ro: "Catedrala din Uppsala", en: "Uppsala Cathedral" },
+    name: { de: "Dom zu Uppsala", hu: "Uppsalai dóm", ro: "Catedrala din Uppsala", en: "Uppsala Cathedral",
+image: "/poi-images/sweden-uppsala-cathedral-history-v2.webp"
+},
     coords: [17.6336, 59.8581],
     coordinates: { lat: 59.8581, lng: 17.6336 },
     description: {
@@ -95,11 +157,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Înălțimea turnurilor: 118,7 metri", "Timp de construcție: 1272-1435", "Locul de mormânt al lui Gustav Vasa", "Sediul arhiepiscopului de Uppsala"],
       en: ["Height of the towers: 118.7 meters", "Construction period: 1272 to 1435", "Burial place of Gustav Vasa", "Seat of the Archbishop of Uppsala"],
     },
-    imageHint: "Uppsala Cathedral twin towers", image: "/poi-images/sweden-uppsala-cathedral-history-v2.webp"},
-  {
+imageHint: "Uppsala Cathedral twin towers",
+    descriptionAdvanced: {
+      de: "Der Dom zu Uppsala ist die größte Kathedrale Skandinaviens. Die gotische Backsteinkirche dient seit Jahrhunderten als Krönungsstätte und Grablege schwedischer Monarchen.",
+      hu: "Az Uppsalai dóm Skandinávia legnagyobb székesegyháza. A gótikus téglaépület évszázadokon át a svéd királyok koronázási és temetkezési helyeként szolgált.",
+      ro: "Catedrala din Uppsala este cea mai mare din Scandinavia. Edificiul gotic din cărămidă servește de secole ca loc de încoronare și înhumare a monarhilor suedezi.",
+      en: "Uppsala Cathedral is the largest church in Scandinavia. This Gothic brick edifice has served as the coronation and burial site for Swedish monarchs for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Türme beträgt exakt 118,7 Meter", "Bauzeit dauerte von 1272 bis 1435", "Grabstätte von Gustav Wasa und Carl von Linné", "Größtes Kirchengebäude in Nordeuropa"],
+      hu: ["Tornyainak magassága pontosan 118,7 méter", "Az építkezés 1272-től 1435-ig tartott", "Itt nyugszik I. Gusztáv és Carl von Linné", "Észak-Európa legnagyobb egyházi épülete"],
+      ro: ["Turnurile au o înălțime de 118,7 metri", "Construcția a durat din 1272 până în 1435", "Locul de veci al lui Gustav Vasa și Carl Linnaeus", "Cea mai mare clădire religioasă din Europa de Nord"],
+      en: ["Tower height is exactly 118.7 meters", "Construction lasted from 1272 to 1435", "Burial site of Gustav Vasa and Carl Linnaeus", "Largest church building in Northern Europe"],
+    },
+    image: "/poi-images/sweden-uppsala-cathedral-history-v2.webp",
+},  {
     id: "sweden-lund-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Dom zu Lund", hu: "Lundi dóm", ro: "Catedrala din Lund", en: "Lund Cathedral" },
+    name: { de: "Dom zu Lund", hu: "Lundi dóm", ro: "Catedrala din Lund", en: "Lund Cathedral",
+image: "/poi-images/sweden-lund-cathedral-history-v2.webp"
+},
     coords: [13.1934, 55.7039],
     coordinates: { lat: 55.7039, lng: 13.1934 },
     description: {
@@ -114,11 +191,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Cea mai veche catedrală din Scandinavia", "Ceas astronomic 'Horologium mirabile'", "Criptă cu figuri de piatră (Uriașul Finn)", "Fost sediu metropolitan al Nordului"],
       en: ["Oldest cathedral in Scandinavia", "Horologium mirabile astronomical clock", "Crypt featuring stone figures (Giant Finn)", "Former metropolitan seat of the North"],
     },
-    imageHint: "Lund Cathedral Romanesque facade", image: "/poi-images/sweden-lund-cathedral-history-v2.webp"},
-  {
+imageHint: "Lund Cathedral Romanesque facade",
+    descriptionAdvanced: {
+      de: "Der Dom zu Lund ist eine der bedeutendsten romanischen Kirchen Schwedens. Er ist berühmt für seine astronomische Uhr aus dem 14. Jahrhundert und die beeindruckende Krypta.",
+      hu: "A lundi dóm Svédország egyik legjelentősebb román stílusú temploma. Híres a 14. századi csillagászati órájáról és lenyűgöző, oszlopos altemplomáról.",
+      ro: "Catedrala din Lund este una dintre cele mai importante biserici romanice din Suedia. Este celebră pentru ceasul astronomic din sec. XIV și cripta sa impunătoare.",
+      en: "Lund Cathedral is one of Sweden's most important Romanesque churches. It is famous for its 14th-century astronomical clock and its impressive crypt.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung des Hochaltars im Jahr 1145", "Besitzt eine astronomische Uhr von 1380", "Die Krypta blieb seit 1123 fast unverändert", "Zentrum des ältesten Bistums Skandinaviens"],
+      hu: ["A főoltárt 1145-ben szentelték fel", "1380-ból származó csillagászati órája van", "Altemploma 1123 óta szinte változatlan", "Skandinávia legrégebbi püspökségének központja"],
+      ro: ["Altarul principal a fost sfințit în 1145", "Deține un ceas astronomic din anul 1380", "Cripta a rămas neschimbată din anul 1123", "Centrul celei mai vechi dieceze din Scandinavia"],
+      en: ["Main altar consecrated in 1145", "Features an astronomical clock from 1380", "The crypt is largely unchanged since 1123", "Center of Scandinavia's oldest bishopric"],
+    },
+    image: "/poi-images/sweden-lund-cathedral-history-v2.webp",
+},  {
     id: "sweden-birka-ruins-history-v2",
     type: "ruins",
-    name: { de: "Birka", hu: "Birka", ro: "Birka", en: "Birka" },
+    name: { de: "Birka", hu: "Birka", ro: "Birka", en: "Birka",
+image: "/poi-images/sweden-birka-ruins-history-v2.webp"
+},
     coords: [17.5444, 59.3333],
     coordinates: { lat: 59.3333, lng: 17.5444 },
     description: {
@@ -133,11 +225,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1993", "Fondat în jurul anului 750 d.Hr.", "Primul loc de misiune creștină (Ansgar)", "Peste 3.000 de tumuli pe insulă"],
       en: ["UNESCO World Heritage site since 1993", "Founded around 750 AD", "First site of Christian mission (Ansgar)", "Over 3,000 burial mounds on the island"],
     },
-    imageHint: "Birka Viking settlement archaeological site", image: "/poi-images/sweden-birka-ruins-history-v2.webp"},
-  {
+imageHint: "Birka Viking settlement archaeological site",
+    descriptionAdvanced: {
+      de: "Birka auf der Insel Björkö war im 8. und 9. Jahrhundert das wichtigste Handelszentrum der Wikinger in Schweden. Die archäologische Stätte zählt zum UNESCO-Welterbe.",
+      hu: "Birka, a Björkö-szigeten fekvő település, a vikingek legfontosabb svédországi kereskedelmi központja volt a 8-9. században. Ma az UNESCO Világörökség része.",
+      ro: "Birka, situată pe insula Björkö, a fost cel mai important centru comercial viking din Suedia în sec. VIII-IX. Situl este inclus în patrimoniul UNESCO.",
+      en: "Birka, located on Björkö island, was the most important Viking Age trading center in Sweden during the 8th and 9th centuries. It is a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um das Jahr 750 n. Chr.", "Erster christlicher Missionsort in Schweden (829)", "Umfasst über 3.000 registrierte Grabhügel", "UNESCO-Weltkulturerbe seit 1993"],
+      hu: ["Isz. 750 körül alapították", "Az első svédországi keresztény misszió helyszíne (829)", "Több mint 3000 regisztrált sírhalom található itt", "1993 óta az UNESCO Világörökség része"],
+      ro: ["Fondat în jurul anului 750 d.Hr.", "Locul primei misiuni creștine în Suedia (829)", "Cuprinde peste 3.000 de morminte tumulare", "Sit UNESCO din anul 1993"],
+      en: ["Founded around 750 AD", "Site of the first Christian mission in Sweden (829)", "Contains over 3,000 recorded burial mounds", "UNESCO World Heritage site since 1993"],
+    },
+    image: "/poi-images/sweden-birka-ruins-history-v2.webp",
+},  {
     id: "sweden-gammelstad-church-town-history-v2",
     type: "village",
-    name: { de: "Kirchendorf Gammelstad", hu: "Gammelstadi templomváros", ro: "Satul bisericesc Gammelstad", en: "Gammelstad Church Town" },
+    name: { de: "Kirchendorf Gammelstad", hu: "Gammelstadi templomváros", ro: "Satul bisericesc Gammelstad", en: "Gammelstad Church Town",
+image: "/poi-images/sweden-gammelstad-church-town-history-v2.webp"
+},
     coords: [22.0272, 65.6461],
     coordinates: { lat: 65.6461, lng: 22.0272 },
     description: {
@@ -153,11 +260,25 @@ export const swedenHistoryV2: POI[] = [
       en: ["Best preserved church town in Sweden", "UNESCO World Heritage site since 1996", "Cottages painted in typical Falu red", "Nederluleå Kyrka is the center point"],
     },
     imageHint: "Gammelstad red wooden houses and church",
+    descriptionAdvanced: {
+      de: "Das Kirchendorf Gammelstad ist das besterhaltene Beispiel einer nordschwedischen Kirchenstadt. Es besteht aus einer Steinkirche, umgeben von über 400 Holzhütten.",
+      hu: "Gammelstad templomvárosa a legjobb állapotban megmaradt észak-svédországi „templomfalu”. Egy kőtemplomból és az azt körülvevő több mint 400 faházból áll.",
+      ro: "Satul bisericesc Gammelstad este cel mai bine conservat exemplu de acest tip din nordul Suediei. Cuprinde o biserică de piatră și peste 400 de case din lemn.",
+      en: "Gammelstad Church Town is the best-preserved example of a North Swedish church village. It consists of a stone church surrounded by over 400 wooden cottages.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 424 roten Holzhäusern", "Zentrum ist die Nederluleå-Kirche (1492)", "UNESCO-Weltkulturerbe seit 1996", "Diente als Übernachtungsort für Kirchgänger"],
+      hu: ["424 piros faházból áll", "Központja az 1492-ben épült kőtemplom", "1996 óta az UNESCO Világörökség része", "A távoli hívek szálláshelyéül szolgált"],
+      ro: ["Cuprinde 424 de case din lemn roșii", "Biserica Nederluleå datează din 1492", "Patrimoniu mondial UNESCO din 1996", "Folosit ca loc de cazare pentru enoriași"],
+      en: ["Consists of 424 red wooden houses", "Centered around Nederluleå Church (1492)", "UNESCO World Heritage site since 1996", "Served as overnight lodging for churchgoers"],
+    },
   },
   {
     id: "sweden-falun-mine-history-v2",
     type: "mine",
-    name: { de: "Kupferbergwerk Falun", hu: "Faluni rézbánya", ro: "Mina de cupru din Falun", en: "Falun Mine" },
+    name: { de: "Kupferbergwerk Falun", hu: "Faluni rézbánya", ro: "Mina de cupru din Falun", en: "Falun Mine",
+image: "/poi-images/sweden-falun-mine-history-v2.webp"
+},
     coords: [15.6139, 60.5994],
     coordinates: { lat: 60.5994, lng: 15.6139 },
     description: {
@@ -173,11 +294,25 @@ export const swedenHistoryV2: POI[] = [
       en: ["Operated from approx. 800 to 1992", "Source of the 'Falu red' paint pigment", "Large collapse 'Stora Stöten' in 1687", "UNESCO World Heritage site since 2001"],
     },
     imageHint: "Falun copper mine Great Pit",
+    descriptionAdvanced: {
+      de: "Das Kupferbergwerk von Falun war jahrhundertelang der wichtigste Wirtschaftsmotor Schwedens. Aus den Abfallprodukten entstand das berühmte „Falunrot“, die Nationalfarbe.",
+      hu: "A faluni rézbánya évszázadokon át Svédország gazdasági motorja volt. A bányászat melléktermékéből született meg a híres „falu-vörös” festék, a nemzeti szín.",
+      ro: "Mina de cupru din Falun a fost motorul economic al Suediei timp de secole. Din reziduurile sale a apărut celebra vopsea „roșu de Falun”, culoarea națională.",
+      en: "The Falun Copper Mine was Sweden's economic engine for centuries. The mining by-products created the famous \"Falun Red\" paint, Sweden's national color.",
+    },
+    factsAdvanced: {
+      de: ["Deckte im 17. Jh. 2/3 des weltweiten Kupferbedarfs", "Die Grube „Großer Stoß“ entstand durch Einsturz 1687", "UNESCO-Welterbe seit 2001", "Letzte Betriebsstunde war im Jahr 1992"],
+      hu: ["A 17. században a világ rézszükségletének 2/3-át adta", "A „Nagy Lyuk” egy 1687-es beomláskor keletkezett", "2001 óta az UNESCO Világörökség része", "A kitermelés 1992-ben fejeződött be végleg"],
+      ro: ["Furniza 2/3 din cuprul mondial în sec. XVII", "Groapa „Marele Șoc” s-a format prin prăbușire în 1687", "Sit UNESCO din anul 2001", "Activitatea minieră a încetat în 1992"],
+      en: ["Supplied 2/3 of world copper in the 17th century", "The \"Great Pit\" formed during a collapse in 1687", "UNESCO World Heritage site since 2001", "Mining operations ceased in 1992"],
+    },
   },
   {
     id: "sweden-tanum-rock-carvings-history-v2",
     type: "ruins",
-    name: { de: "Felsritzungen von Tanum", hu: "Tanumi sziklarajzok", ro: "Picturile rupestre din Tanum", en: "Tanum Rock Carvings" },
+    name: { de: "Felsritzungen von Tanum", hu: "Tanumi sziklarajzok", ro: "Picturile rupestre din Tanum", en: "Tanum Rock Carvings",
+image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp"
+},
     coords: [11.3353, 58.7011],
     coordinates: { lat: 58.7011, lng: 11.3353 },
     description: {
@@ -192,11 +327,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1994", "Create între 1700-500 î.Hr.", "Peste 600 de panouri de rocă în regiune", "Motiv faimos: 'Perechea de miri'"],
       en: ["UNESCO World Heritage site since 1994", "Created between 1700-500 BC", "Over 600 rock panels in the region", "Famous motif: 'The Lovers'"],
     },
-    imageHint: "Tanum rock carvings red petroglyphs", image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp"},
-  {
+imageHint: "Tanum rock carvings red petroglyphs",
+    descriptionAdvanced: {
+      de: "Die Felsritzungen von Tanum sind die bedeutendsten Zeugnisse der nordischen Bronzezeit. Über 600 Felsplatten zeigen faszinierende Bilder von Jagd, Schiffen und Ritualen.",
+      hu: "A tanumi sziklarajzok az északi bronzkor legjelentősebb emlékei. Több mint 600 sziklatáblán láthatók vadászatot, hajókat és rituálékat ábrázoló vésetek.",
+      ro: "Gravurile rupestre de la Tanum sunt cele mai importante dovezi ale epocii bronzului în nord. Peste 600 de panouri ilustrează vânătoare, nave și ritualuri.",
+      en: "The Tanum Rock Carvings are the most significant evidence of the Nordic Bronze Age. Over 600 panels depict fascinating images of hunting, ships, and rituals.",
+    },
+    factsAdvanced: {
+      de: ["Alter wird auf ca. 3.000 Jahre geschätzt", "Größtes Bild ist der 2,25 m hohe „Göttervater“", "UNESCO-Weltkulturerbe seit 1994", "Gravuren wurden zur Sichtbarkeit rot eingefärbt"],
+      hu: ["Korukat körülbelül 3000 évre becsülik", "Legnagyobb ábrája a 2,25 méteres „Istenatya”", "1994 óta az UNESCO Világörökség része", "A véseteket pirosra festették a jobb láthatóságért"],
+      ro: ["Vârsta este estimată la circa 3.000 de ani", "Cea mai mare figură are 2,25 m înălțime", "Patrimoniu mondial UNESCO din 1994", "Gravurile sunt colorate cu roșu pentru vizibilitate"],
+      en: ["Estimated to be around 3,000 years old", "Largest figure is the 2.25m tall \"God Father\"", "UNESCO World Heritage site since 1994", "Carvings are tinted red for better visibility"],
+    },
+    image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp",
+},  {
     id: "sweden-ales-stenar-history-v2",
     type: "monument",
-    name: { de: "Ales Stenar", hu: "Ales stenar", ro: "Ales Stenar", en: "Ales Stenar" },
+    name: { de: "Ales Stenar", hu: "Ales stenar", ro: "Ales Stenar", en: "Ales Stenar",
+image: "/poi-images/sweden-ales-stenar-history-v2.webp"
+},
     coords: [14.0543, 55.3826],
     coordinates: { lat: 55.3826, lng: 14.0543 },
     description: {
@@ -211,11 +361,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Lungimea formațiunii: 67 metri", "Datată în jurul anului 600 d.Hr.", "Formată din 59 de pietre de gresie mari", "Cea mai mare navă de piatră din Suedia"],
       en: ["Length of the formation: 67 meters", "Dated to approximately 600 AD", "Consists of 59 large sandstone blocks", "Largest ship setting in Sweden"],
     },
-    imageHint: "Ales Stenar stones in ship formation", image: "/poi-images/sweden-ales-stenar-history-v2.webp"},
-  {
+imageHint: "Ales Stenar stones in ship formation",
+    descriptionAdvanced: {
+      de: "Ales Stenar ist eine beeindruckende megalithische Schiffssetzung in Schonen. 59 massive Steine bilden eine 67 Meter lange Schiffsform auf einem Hügel direkt über der Ostsee.",
+      hu: "Az Ales stenar egy lenyűgöző megalitikus hajóforma Skåne tartományban. Az 59 hatalmas kőtömb egy 67 méter hosszú alakzatot formáz a Balti-tenger feletti dombon.",
+      ro: "Ales Stenar este o impresionantă așezare megalitică în formă de navă. Cele 59 de blocuri de piatră formează o structură de 67 m lungime pe un deal deasupra mării.",
+      en: "Ales Stenar is an impressive megalithic ship setting in Scania. 59 massive stones form a 67-meter-long ship shape on a hill overlooking the Baltic Sea.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge der Anlage beträgt 67 Meter", "Besteht aus insgesamt 59 Granitblöcken", "Entstanden in der späten Eisenzeit (ca. 600 n. Chr.)", "Wird oft als „Stonehenge Schwedens“ bezeichnet"],
+      hu: ["Az alakzat teljes hossza 67 méter", "Összesen 59 gránittömbből áll", "A késő vaskorban készült (isz. 600 körül)", "Gyakran „Svédország Stonehenge-eként” emlegetik"],
+      ro: ["Lungimea totală a ansamblului este de 67 metri", "Cuprinde un număr de 59 de blocuri de granit", "Datat în epoca târzie a fierului (cca. 600 d.Hr.)", "Supranumit adesea „Stonehenge-ul Suediei”"],
+      en: ["Total length of the setting is 67 meters", "Composed of 59 granite boulders", "Dated to the late Iron Age (approx. 600 AD)", "Often referred to as \"Sweden's Stonehenge\""],
+    },
+    image: "/poi-images/sweden-ales-stenar-history-v2.webp",
+},  {
     id: "sweden-vadstena-abbey-history-v2",
     type: "church",
-    name: { de: "Kloster Vadstena", hu: "Vadstena apátság", ro: "Abația Vadstena", en: "Vadstena Abbey" },
+    name: { de: "Kloster Vadstena", hu: "Vadstena apátság", ro: "Abația Vadstena", en: "Vadstena Abbey",
+image: "/poi-images/sweden-vadstena-abbey-history-v2.webp"
+},
     coords: [14.8911, 58.4503],
     coordinates: { lat: 58.4503, lng: 14.8911 },
     description: {
@@ -230,11 +395,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Punerea pietrei de temelie în 1384", "Centrul ordinului birgitin", "Locul de mormânt al reginei Philippa", "Racla cu moaștele Sfintei Birgitta"],
       en: ["Foundation stone laid in 1384", "Center of the Bridgettine Order", "Burial place of Queen Philippa", "Houses the reliquary of St. Bridget"],
     },
-    imageHint: "Vadstena Abbey church and Vättern lake", image: "/poi-images/sweden-vadstena-abbey-history-v2.webp"},
-  {
+imageHint: "Vadstena Abbey church and Vättern lake",
+    descriptionAdvanced: {
+      de: "Die Klosterkirche Vadstena, auch Blaue Kirche genannt, wurde nach Anweisungen der Heiligen Birgitta im 14. Jahrhundert erbaut. Sie ist ein bedeutendes Ziel für Pilger.",
+      hu: "A vadstenai apátság temploma, a „Kék templom”, Szent Birgitta útmutatásai alapján épült a 14. században. Észak-Európa egyik legfontosabb zarándokhelye.",
+      ro: "Mănăstirea Vadstena, cunoscută și sub numele de Biserica Albastră, a fost construită după viziunile Sf. Birgitta în sec. XIV. Este un important loc de pelerinaj.",
+      en: "Vadstena Abbey Church, known as the Blue Church, was built in the 14th century following the visions of Saint Bridget. it remains a significant pilgrimage site.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung der Kirche im Jahr 1430", "Beherbergt die Reliquien der Heiligen Birgitta", "Erbaut aus markantem blaugrauen Kalkstein", "War das Mutterkloster des Erlöserordens"],
+      hu: ["A templomot 1430-ban szentelték fel", "Itt őrzik Szent Birgitta ereklyéit", "Jellegzetes kékesszürke mészkőből épült", "A brigittin rend anyakolostora volt"],
+      ro: ["Biserica a fost sfințită în anul 1430", "Adăpostește moaștele Sfintei Birgitta", "Construită din calcar albastru-gri distinctiv", "A fost mănăstirea-mamă a ordinului birgitin"],
+      en: ["Church consecrated in the year 1430", "Houses the relics of Saint Bridget", "Built from distinctive blue-grey limestone", "Mother house of the Bridgettine Order"],
+    },
+    image: "/poi-images/sweden-vadstena-abbey-history-v2.webp",
+},  {
     id: "sweden-anundshog-monument-history-v2",
     type: "monument",
-    name: { de: "Anundshög", hu: "Anundshög", ro: "Anundshög", en: "Anundshög" },
+    name: { de: "Anundshög", hu: "Anundshög", ro: "Anundshög", en: "Anundshög",
+image: "/poi-images/sweden-anundshog-monument-history-v2.webp"
+},
     coords: [16.6447, 59.6297],
     coordinates: { lat: 59.6297, lng: 16.6447 },
     description: {
@@ -249,11 +429,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Diametrul tumulului: 64 metri", "Piatră runică din secolul al XI-lea", "Loc istoric de adunare (Thing)", "Datat în perioada migrațiilor"],
       en: ["Mound diameter: 64 meters", "Runestone dates to the 11th century", "Historical assembly site (Thing)", "Dated to the Migration Period"],
     },
-    imageHint: "Anundshög burial mound and ship settings", image: "/poi-images/sweden-anundshog-monument-history-v2.webp"},
-  {
+imageHint: "Anundshög burial mound and ship settings",
+    descriptionAdvanced: {
+      de: "Anundshög bei Västerås ist der größte Grabhügel Schwedens. Das Areal umfasst zudem monumentale Schiffssetzungen und Runensteine aus der Wikingerzeit.",
+      hu: "Az Anundshög Västerås mellett Svédország legnagyobb sírhalma. A területen monumentális hajóforma kőalakzatok és viking kori rúnakövek is találhatók.",
+      ro: "Anundshög, lângă Västerås, este cel mai mare tumul din Suedia. Situl cuprinde și așezări de piatră monumentale și pietre runice din epoca vikingă.",
+      en: "Anundshög near Västerås is Sweden's largest burial mound. The site also features monumental stone ship settings and Viking Age runestones.",
+    },
+    factsAdvanced: {
+      de: ["Der Grabhügel ist 9 Meter hoch", "Durchmesser beträgt stolze 64 Meter", "Beinhaltet zwei Schiffssetzungen (bis zu 54 m)", "Datierung auf die Zeit zwischen 500 und 1050 n. Chr."],
+      hu: ["A sírhalom magassága 9 méter", "Átmérője eléri a 64 métert", "Két hajóforma alakzat található itt (max. 54 m)", "Az isz. 500 és 1050 közötti időszakból származik"],
+      ro: ["Tumulul are o înălțime de 9 metri", "Diametrul movilei este de 64 metri", "Include două nave de piatră (până la 54 m)", "Datat între anii 500 și 1050 d.Hr."],
+      en: ["The burial mound stands 9 meters high", "Boasts a diameter of 64 meters", "Features two stone ships (up to 54m long)", "Dated between 500 and 1050 AD"],
+    },
+    image: "/poi-images/sweden-anundshog-monument-history-v2.webp",
+},  {
     id: "sweden-gamla-uppsala-ruins-history-v2",
     type: "ruins",
-    name: { de: "Gamla Uppsala", hu: "Gamla Uppsala", ro: "Gamla Uppsala", en: "Gamla Uppsala" },
+    name: { de: "Gamla Uppsala", hu: "Gamla Uppsala", ro: "Gamla Uppsala", en: "Gamla Uppsala",
+image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp"
+},
     coords: [17.6311, 59.8972],
     coordinates: { lat: 59.8972, lng: 17.6311 },
     description: {
@@ -268,11 +463,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Centrul regalității suedeze", "Trei tumuli mari (secolul VI)", "Sediul arhiepiscopului suedez până în 1273", "Biserică istorică pe terenul templului"],
       en: ["Center of the early Swedish kingdom", "Three large mounds (6th century)", "Seat of the Swedish Archbishop until 1273", "Historic church built on temple site"],
     },
-    imageHint: "Gamla Uppsala burial mounds and church", image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp"},
-  {
+imageHint: "Gamla Uppsala burial mounds and church",
+    descriptionAdvanced: {
+      de: "Gamla Uppsala war das religiöse und politische Zentrum des vorchristlichen Schwedens. Die drei großen Königshügel sind Symbole der Macht der frühen Svear-Könige.",
+      hu: "Gamla Uppsala a kereszténység előtti Svédország vallási és politikai központja volt. A három hatalmas királyhalom a korai svea királyok hatalmát jelképezi.",
+      ro: "Gamla Uppsala a fost centrul religios și politic al Suediei precreștine. Cele trei mari movile regale sunt simboluri ale puterii primilor regi Svear.",
+      en: "Gamla Uppsala was the religious and political center of pre-Christian Sweden. Its three massive Royal Mounds symbolize the power of the early Svear kings.",
+    },
+    factsAdvanced: {
+      de: ["Die Königshügel stammen aus dem 6. Jh.", "Ort des heidnischen Tempels von Uppsala", "War Sitz der schwedischen Erzbischöfe bis 1273", "Die Kirche steht auf Ruinen eines hölzernen Tempels"],
+      hu: ["A királyhalmok a 6. századból származnak", "Itt állt az uppsalai pogány templom", "1273-ig a svéd érsekek székhelye volt", "A templom egy korábbi fatemplom romjaira épült"],
+      ro: ["Movilele regale datează din sec. VI", "Locul templului păgân din Uppsala", "Sediul arhiepiscopilor suedezi până în 1273", "Biserica este ridicată pe ruinele unui templu"],
+      en: ["Royal mounds date back to the 6th century", "Former site of the pagan Temple of Uppsala", "Seat of Swedish archbishops until 1273", "The church stands on former temple remains"],
+    },
+    image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp",
+},  {
     id: "sweden-bohus-fortress-history-v2",
     type: "ruins",
-    name: { de: "Festung Bohus", hu: "Bohus erőd", ro: "Fortăreața Bohus", en: "Bohus Fortress" },
+    name: { de: "Festung Bohus", hu: "Bohus erőd", ro: "Fortăreața Bohus", en: "Bohus Fortress",
+image: "/poi-images/sweden-bohus-fortress-history-v2.webp"
+},
     coords: [11.9997, 57.8617],
     coordinates: { lat: 57.8617, lng: 11.9997 },
     description: {
@@ -287,11 +497,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construită în anul 1308", "Niciodată cucerită în luptă", "Turnul închisorii 'Fars hatt' păstrat", "Cetate de frontieră între trei regate"],
       en: ["Built in the year 1308", "Never conquered in battle", "Includes the 'Fars hatt' prison tower", "Border fortress between three kingdoms"],
     },
-    imageHint: "Bohus Fortress ruins and tower", image: "/poi-images/sweden-bohus-fortress-history-v2.webp"},
-  {
+imageHint: "Bohus Fortress ruins and tower",
+    descriptionAdvanced: {
+      de: "Die Festung Bohus war eine der mächtigsten Verteidigungsanlagen des Nordens. Über Jahrhunderte von Schweden, Dänen und Norwegern umkämpft, wurde sie nie eingenommen.",
+      hu: "A Bohus-erőd Észak egyik leghatalmasabb védelmi rendszere volt. Évszázadokon át küzdöttek érte a svédek, dánok és norvégok, de soha nem tudták elfoglalni.",
+      ro: "Fortăreața Bohus a fost una dintre cele mai puternice apărări din nord. Disputată de suedezi, danezi și norvegieni, nu a fost niciodată cucerită.",
+      en: "Bohus Fortress was one of the North's mightiest defensive structures. Contested by Sweden, Denmark, and Norway for centuries, it was never successfully besieged.",
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung durch König Hakon V. 1308", "Wurde insgesamt 14 Mal belagert", "Der Hauptturm wird „Fars hatt“ genannt", "Diente im 18. Jahrhundert als Gefängnis"],
+      hu: ["V. Haakon király alapította 1308-ban", "Összesen 14 alkalommal ostromolták meg", "Főtornyát „Apa kalapjának” (Fars hatt) hívják", "A 18. században börtönként működött"],
+      ro: ["Fondată de regele Hakon V în 1308", "A supraviețuit unui număr de 14 asedii", "Turnul principal se numește „Pălăria tatălui”", "A servit drept închisoare în sec. XVIII"],
+      en: ["Founded by King Hakon V in 1308", "Survived a total of 14 military sieges", "Main tower is nicknamed \"Father's Hat\"", "Used as a prison during the 18th century"],
+    },
+    image: "/poi-images/sweden-bohus-fortress-history-v2.webp",
+},  {
     id: "sweden-karlskrona-naval-port-history-v2",
     type: "port",
-    name: { de: "Marinestützpunkt Karlskrona", hu: "Karlskrona haditengerészeti kikötő", ro: "Portul naval Karlskrona", en: "Karlskrona Naval Port" },
+    name: { de: "Marinestützpunkt Karlskrona", hu: "Karlskrona haditengerészeti kikötő", ro: "Portul naval Karlskrona", en: "Karlskrona Naval Port",
+image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp"
+},
     coords: [15.5869, 56.1612],
     coordinates: { lat: 56.1612, lng: 15.5869 },
     description: {
@@ -306,11 +531,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1998", "Fondat de Carol al XI-lea în 1680", "Găzduiește Muzeul Naval", "Cea mai veche fabrică de frânghii"],
       en: ["UNESCO World Heritage site since 1998", "Founded by Karl XI in 1680", "Houses the National Naval Museum", "Home to Sweden's oldest ropewalk"],
     },
-    imageHint: "Karlskrona naval base and lighthouse", image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp"},
-  {
+imageHint: "Karlskrona naval base and lighthouse",
+    descriptionAdvanced: {
+      de: "Karlskrona wurde 1680 als schwedischer Marinestützpunkt gegründet. Die Stadtplanung und die Werftanlagen sind ein herausragendes Beispiel barocker Militärarchitektur.",
+      hu: "Karlskronát 1680-ban alapították a svéd haditengerészet bázisaként. Várostervezése és hajógyári létesítményei a barokk katonai építészet kiemelkedő példái.",
+      ro: "Karlskrona a fost fondat în 1680 ca bază navală suedeză. Planificarea urbană și șantierele navale sunt un exemplu de arhitectură militară barocă.",
+      en: "Karlskrona was founded in 1680 as a Swedish naval base. Its urban planning and shipyard facilities are an outstanding example of Baroque military architecture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet durch König Karl XI. im Jahr 1680", "UNESCO-Weltkulturerbe seit 1998", "Beherbergt das größte Marinemuseum Schwedens", "Verfügt über das größte Holzgebäude des Landes"],
+      hu: ["XI. Károly király alapította 1680-ban", "1998 óta az UNESCO Világörökség része", "Itt található Svédország legnagyobb tengerészeti múzeuma", "Itt áll az ország legnagyobb faépülete"],
+      ro: ["Fondat de regele Carol XI în anul 1680", "Patrimoniu mondial UNESCO din 1998", "Găzduiește cel mai mare muzeu naval din Suedia", "Deține cea mai mare clădire de lemn din țară"],
+      en: ["Founded by King Karl XI in 1680", "UNESCO World Heritage site since 1998", "Home to Sweden's largest naval museum", "Features the country's largest wooden building"],
+    },
+    image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp",
+},  {
     id: "sweden-engelsberg-ironworks-history-v2",
     type: "industry",
-    name: { de: "Eisenhütte Engelsberg", hu: "Engelsbergi vasmű", ro: "Topitoria Engelsberg", en: "Engelsberg Ironworks" },
+    name: { de: "Eisenhütte Engelsberg", hu: "Engelsbergi vasmű", ro: "Topitoria Engelsberg", en: "Engelsberg Ironworks",
+image: "/poi-images/sweden-engelsberg-ironworks-history-v2.webp"
+},
     coords: [16.0072, 59.9517],
     coordinates: { lat: 59.9517, lng: 16.0072 },
     description: {
@@ -325,11 +565,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1993", "Construit în anul 1681", "Important pentru industria oțelului", "Complex complet conservat"],
       en: ["UNESCO World Heritage site since 1993", "Built in the year 1681", "Key to Sweden's early steel dominance", "Complete industrial complex preserved"],
     },
-    imageHint: "Engelsberg Ironworks historic industrial buildings", image: "/poi-images/sweden-engelsberg-ironworks-history-v2.webp"},
-  {
+imageHint: "Engelsberg Ironworks historic industrial buildings",
+    descriptionAdvanced: {
+      de: "Das Eisenwerk Engelsberg ist das am besten erhaltene Beispiel eines schwedischen „Bruk“. Hier wurde über Jahrhunderte hochwertiges Eisen für den Export produziert.",
+      hu: "Az Engelsberg vasmű a legjobb állapotban megmaradt példája a hagyományos svéd vasgyártó telepeknek. Évszázadokon át termeltek itt kiváló minőségű vasat exportra.",
+      ro: "Topitoria Engelsberg este cel mai bine conservat exemplu de așezare industrială suedeză. Aici s-a produs fier de înaltă calitate pentru export timp de secole.",
+      en: "Engelsberg Ironworks is the best-preserved example of a traditional Swedish industrial village. It produced high-quality iron for export for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1681", "UNESCO-Weltkulturerbe seit 1993", "Besitzt eine funktionsfähige Gebläseanlage", "Enthält den ältesten erhaltenen Hochofen des Typs"],
+      hu: ["1681-ben alapították", "1993 óta az UNESCO Világörökség része", "Működőképes fúvóberendezéssel rendelkezik", "Itt található a típus legidősebb fennmaradt kohója"],
+      ro: ["Construit în anul 1681", "Inclus în patrimoniul UNESCO în 1993", "Deține instalații de suflat funcționale", "Include cel mai vechi furnal de acest tip"],
+      en: ["Established in the year 1681", "UNESCO World Heritage site since 1993", "Features a functional blower plant", "Contains the oldest preserved blast furnace of its type"],
+    },
+    image: "/poi-images/sweden-engelsberg-ironworks-history-v2.webp",
+},  {
     id: "sweden-hallwyl-museum-history-v2",
     type: "museum",
-    name: { de: "Hallwyl-Museum", hu: "Hallwyl Múzeum", ro: "Muzeul Hallwyl", en: "Hallwyl Museum" },
+    name: { de: "Hallwyl-Museum", hu: "Hallwyl Múzeum", ro: "Muzeul Hallwyl", en: "Hallwyl Museum",
+image: "/poi-images/sweden-hallwyl-museum-history-v2.webp"
+},
     coords: [18.0747, 59.3331],
     coordinates: { lat: 59.3331, lng: 18.0747 },
     description: {
@@ -344,11 +599,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit între 1893 și 1898", "Donat statului în 1920", "Peste 50.000 de obiecte catalogate", "Exemplu timpuriu de tehnică modernă"],
       en: ["Built between 1893 and 1898", "Donated to the state in 1920", "Over 50,000 catalogued objects", "Early example of modern amenities"],
     },
-    imageHint: "Hallwyl Museum courtyard Stockholm", image: "/poi-images/sweden-hallwyl-museum-history-v2.webp"},
-  {
+imageHint: "Hallwyl Museum courtyard Stockholm",
+    descriptionAdvanced: {
+      de: "Das Hallwyl-Museum in Stockholm ist ein ehemaliges Stadtpalais, das die private Sammlung der Gräfin von Hallwyl zeigt. Es bietet Einblicke in den Lebensstil um 1900.",
+      hu: "A stockholmi Hallwyl-múzeum egy egykori városi palota, amely a Hallwyl grófnő magángyűjteményét mutatja be. Betekintést nyújt az 1900-as évek nemesi életmódjába.",
+      ro: "Muzeul Hallwyl din Stockholm este un fost palat privat care expune colecția contesei de Hallwyl. Oferă o privire în stilul de viață de la 1900.",
+      en: "The Hallwyl Museum in Stockholm is a former private townhouse showcasing Countess von Hallwyl's collection. It offers a glimpse into high-society life around 1900.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit des Hauses von 1893 bis 1898", "Enthält über 50.000 katalogisierte Objekte", "War eines der ersten Häuser mit Elektrizität", "Die Sammlung umfasst Kunst, Waffen und Silber"],
+      hu: ["1893 és 1898 között épült a palota", "Több mint 50 000 katalogizált tárgyat őriz", "Az egyik első elektromos árammal ellátott ház volt", "Művészeti tárgyak, fegyverek és ezüstök gyűjteménye"],
+      ro: ["Palatul a fost construit între 1893 și 1898", "Conține peste 50.000 de obiecte catalogate", "Una dintre primele case dotate cu electricitate", "Colecția include artă, arme și piese de argint"],
+      en: ["Built between 1893 and 1898", "Contains over 50,000 catalogued objects", "One of Stockholm's first houses with electricity", "Collection includes art, weapons, and silver"],
+    },
+    image: "/poi-images/sweden-hallwyl-museum-history-v2.webp",
+},  {
     id: "sweden-riddarholmen-church-history-v2",
     type: "church",
-    name: { de: "Riddarholmskirche", hu: "Riddarholmen-templom", ro: "Biserica Riddarholmen", en: "Riddarholmen Church" },
+    name: { de: "Riddarholmskirche", hu: "Riddarholmen-templom", ro: "Biserica Riddarholmen", en: "Riddarholmen Church",
+image: "/poi-images/sweden-riddarholmen-church-history-v2.webp"
+},
     coords: [18.0641, 59.3251],
     coordinates: { lat: 59.3251, lng: 18.0641 },
     description: {
@@ -363,11 +633,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Singura abație medievală din Stockholm", "Aproape toți regii suedezi sunt îngropați aici", "Turlă distinctivă din fontă", "Slujbe doar la ocazii speciale"],
       en: ["Stockholm's only medieval abbey", "Final resting place of most monarchs", "Distinctive cast-iron spire", "Services held only for special occasions"],
     },
-    imageHint: "Riddarholmen Church cast iron spire", image: "/poi-images/sweden-riddarholmen-church-history-v2.webp"},
-  {
+imageHint: "Riddarholmen Church cast iron spire",
+    descriptionAdvanced: {
+      de: "Die Riddarholmen-Kirche ist die einzige erhaltene mittelalterliche Klosterkirche Stockholms. Sie dient fast allen schwedischen Monarchen als letzte Ruhestätte.",
+      hu: "A Riddarholmen-templom Stockholm egyetlen fennmaradt középkori kolostortemploma. Szinte az összes svéd uralkodó végső nyughelyeként szolgál.",
+      ro: "Biserica Riddarholmen este singura biserică monastică medievală păstrată în Stockholm. Servește ca necropolă pentru aproape toți monarhii suedezi.",
+      en: "Riddarholmen Church is Stockholm's only preserved medieval abbey church. It serves as the final resting place for nearly all Swedish monarchs.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Franziskanerkloster um 1270", "Markante Turmspitze aus Gusseisen (1835)", "Beherbergt die Gräber von Gustav II. Adolf", "Keine regelmäßigen Gottesdienste seit 1807"],
+      hu: ["Ferences kolostorként alapították 1270 körül", "Jellegzetes öntöttvas toronysisakja 1835-ös", "Itt található II. Gusztáv Adolf sírja", "1807 óta nem tartanak benne rendszeres istentiszteletet"],
+      ro: ["Fondată ca mănăstire franciscană cca. 1270", "Turnul distinctiv din fontă datează din 1835", "Adăpostește mormântul lui Gustav II Adolf", "Nu s-au mai ținut slujbe regulate din 1807"],
+      en: ["Founded as a Franciscan friary around 1270", "Features a distinctive cast-iron spire (1835)", "Burial site of King Gustavus Adolphus", "Regular services ceased in the year 1807"],
+    },
+    image: "/poi-images/sweden-riddarholmen-church-history-v2.webp",
+},  {
     id: "sweden-varberg-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Varberg", hu: "Varberg erőd", ro: "Cetatea Varberg", en: "Varberg Fortress" },
+    name: { de: "Festung Varberg", hu: "Varberg erőd", ro: "Cetatea Varberg", en: "Varberg Fortress",
+image: "/poi-images/sweden-varberg-fortress-history-v2.webp"
+},
     coords: [12.2411, 57.1058],
     coordinates: { lat: 57.1058, lng: 12.2411 },
     description: {
@@ -382,11 +667,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Găzduiește 'Omul din Bocksten'", "Strategic important în zona de frontieră", "Construcție pe parcursul mai multor secole", "Faimoasă pentru zidurile monumentale"],
       en: ["Houses the 'Bocksten Man' bog body", "Strategically vital border site", "Built over several centuries", "Famous for monumental ramparts"],
     },
-    imageHint: "Varberg Fortress walls and museum", image: "/poi-images/sweden-varberg-fortress-history-v2.webp"},
-  {
+imageHint: "Varberg Fortress walls and museum",
+    descriptionAdvanced: {
+      de: "Die Festung Varberg thront auf einer Klippe über dem Kattegat. Ursprünglich als Schloss erbaut, wurde sie im 17. Jahrhundert zu einer massiven Verteidigungsanlage erweitert.",
+      hu: "Varberg erődítménye egy sziklán magasodik a Kattegat felett. Eredetileg várnak épült, majd a 17. században masszív védelmi rendszerré bővítették.",
+      ro: "Cetatea Varberg domină malul mării Kattegat de pe o stâncă. Construită inițial ca castel, a fost extinsă în sec. XVII într-o fortificație masivă.",
+      en: "Varberg Fortress stands on a cliff overlooking the Kattegat. Originally built as a castle, it was expanded into a massive defensive structure in the 17th century.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn der ersten Burg um 1280", "Heimat des berühmten „Bockstenmannes“", "Wurde ab 1588 zu einer Bastionärfestung", "Diente lange Zeit als staatliches Gefängnis"],
+      hu: ["Az első vár építése 1280 körül kezdődött", "Itt látható a híres „Bocksten-férfi” múmiája", "1588-tól alakították át bástyás erőddé", "Hosszú ideig állami börtönként használták"],
+      ro: ["Construcția a început în jurul anului 1280", "Găzduiește celebra mumie „Omul din Bocksten”", "Transformată în fortăreață cu bastioane din 1588", "A fost utilizată mult timp ca închisoare de stat"],
+      en: ["Construction started around 1280", "Home to the famous \"Bocksten Man\" mummy", "Upgraded to a bastion fortress from 1588", "Served for a long period as a state prison"],
+    },
+    image: "/poi-images/sweden-varberg-fortress-history-v2.webp",
+},  {
     id: "sweden-linkoping-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Dom zu Linköping", hu: "Linköpingi dóm", ro: "Catedrala din Linköping", en: "Linköping Cathedral" },
+    name: { de: "Dom zu Linköping", hu: "Linköpingi dóm", ro: "Catedrala din Linköping", en: "Linköping Cathedral",
+image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp"
+},
     coords: [15.6172, 58.4111],
     coordinates: { lat: 58.4111, lng: 15.6172 },
     description: {
@@ -401,11 +701,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Începutul construcției în secolul XII", "Turn în stil neogotic (1886)", "Vitralii de Lisa Bauer", "A doua biserică ca mărime din Suedia"],
       en: ["Construction began in the 12th century", "Neogothic tower added in 1886", "Features glass windows by Lisa Bauer", "Sweden's second largest church"],
     },
-    imageHint: "Linköping Cathedral exterior", image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp"},
-  {
+imageHint: "Linköping Cathedral exterior",
+    descriptionAdvanced: {
+      de: "Der Dom zu Linköping ist eine der besterhaltenen mittelalterlichen Kathedralen Schwedens. Sein markanter Turm prägt die Skyline der Stadt in Östergötland.",
+      hu: "A linköpingi dóm Svédország egyik legjobb állapotban fennmaradt középkori székesegyháza. Jellegzetes tornya meghatározza Östergötland központjának látképét.",
+      ro: "Catedrala din Linköping este una dintre cele mai bine conservate catedrale medievale din Suedia. Turnul său domină silueta orașului din Östergötland.",
+      en: "Linköping Cathedral is one of Sweden's best-preserved medieval cathedrals. Its prominent spire defines the skyline of the city in Östergötland.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit dauerte über 300 Jahre", "Der neugotische Turm ist 107 Meter hoch", "Berühmt für das moderne „Golffar-Fenster“", "Zweitgrößte Kirche des Landes nach Uppsala"],
+      hu: ["Az építkezés több mint 300 évig tartott", "Neogótikus tornya 107 méter magas", "Híres modern „Golgotai-ablakáról”", "Svédország második legnagyobb temploma"],
+      ro: ["Construcția a durat peste 300 de ani", "Turnul neogotic are 107 metri înălțime", "Cunoscută pentru vitraliul modern „Golgota”", "A doua cea mai mare biserică din țară"],
+      en: ["Construction lasted over 300 years", "The Neo-Gothic spire is 107 meters tall", "Famous for its modern stained-glass windows", "Sweden's second largest church after Uppsala"],
+    },
+    image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp",
+},  {
     id: "sweden-sigtuna-ruins-history-v2",
     type: "ruins",
-    name: { de: "Sigtuna", hu: "Sigtuna", ro: "Sigtuna", en: "Sigtuna" },
+    name: { de: "Sigtuna", hu: "Sigtuna", ro: "Sigtuna", en: "Sigtuna",
+image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp"
+},
     coords: [17.7236, 59.6173],
     coordinates: { lat: 59.6173, lng: 17.7236 },
     description: {
@@ -420,11 +735,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Fondat de regele Erik Segersäll", "Peste 150 de pietre runice în apropiere", "Ruina bisericii Sf. Olof", "Prima monetărie din Suedia"],
       en: ["Founded by King Erik the Victorious", "Over 150 runestones in the vicinity", "St. Olof's church ruins", "Site of the first Swedish mint"],
     },
-    imageHint: "Sigtuna church ruins and runestone", image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp"},
-  {
+imageHint: "Sigtuna church ruins and runestone",
+    descriptionAdvanced: {
+      de: "Sigtuna gilt als die älteste noch bestehende Stadt Schwedens, gegründet um 980. Die Ruinen mittelalterlicher Steinkirchen zeugen von ihrer einstigen Bedeutung.",
+      hu: "Sigtunát Svédország legrégebbi városának tartják, amelyet 980 körül alapítottak. A középkori kőtemplomok romjai egykori vallási jelentőségét hirdetik.",
+      ro: "Sigtuna este considerat cel mai vechi oraș existent din Suedia, fondat cca. 980. Ruinele bisericilor medievale atestă importanța sa istorică.",
+      en: "Sigtuna is considered the oldest still-existing town in Sweden, founded around 980. Medieval church ruins testify to its former religious importance.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet durch Erik den Siegreichen (980)", "Besitzt über 150 registrierte Runensteine", "Hier wurden die ersten schwedischen Münzen geprägt", "Beherbergt drei bedeutende Kirchenruinen"],
+      hu: ["Győzedelmes Erik alapította 980-ban", "Több mint 150 regisztrált rúnakő van itt", "Itt verték az első svéd pénzérméket", "Három jelentős templomrom található a városban"],
+      ro: ["Fondat de Erik cel Victorios în anul 980", "Deține peste 150 de pietre runice înregistrate", "Locul unde s-au bătut primele monede suedeze", "Adăpostește trei ruine de biserici importante"],
+      en: ["Founded by Erik the Victorious (980)", "Home to over 150 recorded runestones", "Site of the first Swedish minting operations", "Contains three significant medieval church ruins"],
+    },
+    image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp",
+},  {
     id: "sweden-tjoloholm-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Tjolöholm", hu: "Tjolöholm kastély", ro: "Castelul Tjolöholm", en: "Tjolöholm Castle" },
+    name: { de: "Schloss Tjolöholm", hu: "Tjolöholm kastély", ro: "Castelul Tjolöholm", en: "Tjolöholm Castle",
+image: "/poi-images/sweden-tjoloholm-castle-history-v2.webp"
+},
     coords: [12.11, 57.4033],
     coordinates: { lat: 57.4033, lng: 12.11 },
     description: {
@@ -439,11 +769,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit între 1898 și 1904", "Deține un sistem timpuriu de aspirare", "Locație pe o peninsulă la Kungsbackafjord", "Design de Lars Israel Wahlman"],
       en: ["Built between 1898 and 1904", "Features an early vacuum system", "Located on a peninsula in Kungsbacka Fjord", "Designed by Lars Israel Wahlman"],
     },
-    imageHint: "Tjolöholm Castle Tudor architecture", image: "/poi-images/sweden-tjoloholm-castle-history-v2.webp"},
-  {
+imageHint: "Tjolöholm Castle Tudor architecture",
+    descriptionAdvanced: {
+      de: "Schloss Tjolöholm ist ein einzigartiges Beispiel des Arts-and-Crafts-Stils in Schweden. Das zu Beginn des 20. Jahrhunderts erbaute Schloss wirkt wie ein englisches Herrenhaus.",
+      hu: "A Tjolöholm-kastély az Arts and Crafts mozgalom egyedülálló svédországi példája. A 20. század elején épült, és egy angol vidéki udvarházat idéz.",
+      ro: "Castelul Tjolöholm este un exemplu unic al stilului Arts and Crafts în Suedia. Construit la începutul sec. XX, seamănă cu un conac englezesc.",
+      en: "Tjolöholm Castle is a unique example of the Arts and Crafts style in Sweden. Built in the early 20th century, it resembles an English country manor.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1898 und 1904", "Verfügt über eine für die Zeit moderne Staubsaugeranlage", "Architekt war der Schwede Lars Israel Wahlman", "Besitzt einen Garten nach britischem Vorbild"],
+      hu: ["1898 és 1904 között épült", "Korát megelőző központi porszívórendszere volt", "Lars Israel Wahlman svéd építész tervezte", "Brit mintára kialakított kertje van"],
+      ro: ["Construit între anii 1898 și 1904", "Dotat cu un sistem modern de aspirare centralizată", "Arhitectul a fost Lars Israel Wahlman", "Are o grădină amenajată după model britanic"],
+      en: ["Built between 1898 and 1904", "Featured a high-tech central vacuum system", "Designed by architect Lars Israel Wahlman", "Includes a garden modeled on British style"],
+    },
+    image: "/poi-images/sweden-tjoloholm-castle-history-v2.webp",
+},  {
     id: "sweden-orebro-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Örebro", hu: "Örebro vára", ro: "Castelul din Örebro", en: "Örebro Castle" },
+    name: { de: "Schloss Örebro", hu: "Örebro vára", ro: "Castelul din Örebro", en: "Örebro Castle",
+image: "/poi-images/sweden-orebro-castle-history-v2.webp"
+},
     coords: [15.2153, 59.2739],
     coordinates: { lat: 59.2739, lng: 15.2153 },
     description: {
@@ -458,11 +803,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Inițial o cetate medievală", "Astăzi sediul guvernatorului", "Destinație populară pentru tururi cu fantome", "Turnuri circulare masive la colțuri"],
       en: ["Originally a medieval stronghold", "Now the seat of the County Governor", "Popular site for ghost tours", "Massive round towers at the corners"],
     },
-    imageHint: "Örebro Castle reflection in river", image: "/poi-images/sweden-orebro-castle-history-v2.webp"},
-  {
+imageHint: "Örebro Castle reflection in river",
+    descriptionAdvanced: {
+      de: "Das Schloss Örebro liegt auf einer Insel im Fluss Svartån. Über Jahrhunderte von einer Wehranlage zum königlichen Residenzschloss umgebaut, ist es heute das Wahrzeichen der Stadt.",
+      hu: "Az örebrói vár a Svartån folyó egyik szigetén fekszik. Évszázadok alatt védműből királyi rezidenciává alakult, ma a város legfőbb jelképe.",
+      ro: "Castelul Örebro este situat pe o insulă în râul Svartån. Transformat dintr-o fortăreață în reședință regală, este astăzi simbolul orașului.",
+      en: "Örebro Castle is situated on an island in the Svartån river. Over centuries, it evolved from a fortress into a royal residence and is now a city landmark.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung als Wehrturm im 13. Jahrhundert", "Tagungsort des Reichstags im Jahr 1810", "Wurde unter den Wasakönigen prunkvoll ausgebaut", "Besitzt vier massive Rundtürme"],
+      hu: ["A 13. században épült eredetileg védőtoronyként", "Az 1810-es országgyűlés helyszíne volt", "A Vasa-királyok idején építették át díszes kastéllyá", "Négy hatalmas kerek toronnyal rendelkezik"],
+      ro: ["Originea sa este un turn de apărare din sec. XIII", "Locul de întâlnire al Parlamentului în 1810", "Modernizat sub domnia regilor din dinastia Vasa", "Caracterizat prin patru turnuri circulare masive"],
+      en: ["Originated as a defensive tower in the 13th century", "Host of the Swedish Parliament in 1810", "Lavishly rebuilt under the Vasa dynasty kings", "Features four massive circular towers"],
+    },
+    image: "/poi-images/sweden-orebro-castle-history-v2.webp",
+},  {
     id: "sweden-royal-palace-stockholm-history-v2",
     type: "palace",
-    name: { de: "Königliches Schloss Stockholm", hu: "Stockholmi királyi palota", ro: "Palatul Regal din Stockholm", en: "Royal Palace (Stockholm)" },
+    name: { de: "Königliches Schloss Stockholm", hu: "Stockholmi királyi palota", ro: "Palatul Regal din Stockholm", en: "Royal Palace (Stockholm)",
+image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp"
+},
     coords: [18.0704, 59.3268],
     coordinates: { lat: 59.3268, lng: 18.0704 },
     description: {
@@ -477,11 +837,26 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Peste 600 de camere în interior", "Ceremonia zilnică de schimbare a gărzii", "Găzduiește Trezoreria Regală", "Construit pe ruinele Tre Kronor"],
       en: ["Contains over 600 rooms", "Daily changing of the guard ceremony", "Houses the Royal Treasury", "Built on the ruins of Tre Kronor castle"],
     },
-    imageHint: "Stockholm Royal Palace facade", image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp"},
-  {
+imageHint: "Stockholm Royal Palace facade",
+    descriptionAdvanced: {
+      de: "Das Stockholmer Schloss ist die offizielle Residenz des schwedischen Königs. Der Barockbau von Nicodemus Tessin d. J. beherbergt über 600 Räume und mehrere Museen.",
+      hu: "A stockholmi királyi palota a svéd uralkodó hivatalos rezidenciája. Az ifjabb Nicodemus Tessin által tervezett barokk épület több mint 600 szobával rendelkezik.",
+      ro: "Palatul Regal din Stockholm este reședința oficială a regelui Suediei. Edificiul baroc proiectat de Tessin cel Tânăr are peste 600 de camere.",
+      en: "The Royal Palace in Stockholm is the official residence of the Swedish monarch. This Baroque palace by Tessin the Younger contains over 600 rooms.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut nach dem Brand von 1697", "Beherbergt die Schatzkammer und das Antikenmuseum", "Ist einer der größten Paläste Europas", "Wachablösung findet täglich im Außenhof statt"],
+      hu: ["Az 1697-es tűzvész után építették fel", "Itt található a Kincstár és az Antikvitások Múzeuma", "Európa egyik legnagyobb királyi palotája", "Naponta látványos őrségváltást tartanak az udvarán"],
+      ro: ["Construit după marele incendiu din 1697", "Găzduiește Tezaurul și Muzeul de Antichități", "Este unul dintre cele mai mari palate din Europa", "Schimbarea gărzii are loc zilnic în curte"],
+      en: ["Built after the great fire of 1697", "Houses the Royal Treasury and Antiquities Museum", "One of the largest royal palaces in Europe", "Daily changing of the guard ceremony in the courtyard"],
+    },
+    image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp",
+},  {
     id: "sweden-glimmingehus-history-v2",
     type: "castle",
-    name: { de: "Glimmingehus", hu: "Glimmingehus", ro: "Glimmingehus", en: "Glimmingehus" },
+    name: { de: "Glimmingehus", hu: "Glimmingehus", ro: "Glimmingehus", en: "Glimmingehus",
+image: "/poi-images/sweden-glimmingehus-history-v2.webp"
+},
     coords: [14.2319, 55.5008],
     coordinates: { lat: 55.5008, lng: 14.2319 },
     description: {
@@ -497,5 +872,17 @@ export const swedenHistoryV2: POI[] = [
       en: ["Construction began in 1499", "Featured a hot-air heating system", "Walls are up to 2.4 meters thick", "Formerly a Danish noble residence"],
     },
     imageHint: "Glimmingehus medieval castle exterior",
+    descriptionAdvanced: {
+      de: "Glimmingehus ist die besterhaltene mittelalterliche Burg Skandinaviens. Die massive Steinfestung in Schonen wurde Ende des 15. Jahrhunderts als repräsentativer Herrensitz erbaut.",
+      hu: "A Glimmingehus Skandinávia legjobb állapotban fennmaradt középkori vára. A Skåne tartományban álló masszív kőerőd a 15. század végén épült főúri lakként.",
+      ro: "Glimmingehus este cea mai bine conservată cetate medievală din Scandinavia. Fortăreața din piatră a fost ridicată la finele sec. XV ca reședință nobiliară.",
+      en: "Glimmingehus is the best-preserved medieval manor in Scandinavia. This massive stone fortress in Scania was built in the late 15th century as a noble residence.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1499 bis 1506", "Besitzt bis zu 2,4 Meter dicke Mauern", "Verfügt über ein ausgeklügeltes mittelalterliches Heizsystem", "Architekt war der Deutsche Adam van Düren"],
+      hu: ["1499 és 1506 között épült", "Fala helyenként a 2,4 méteres vastagságot is eléri", "Kifinomult középkori meleglevegős fűtésrendszere van", "Építésze a német Adam van Düren volt"],
+      ro: ["Construită între anii 1499 și 1506", "Zidurile au o grosime de până la 2,4 metri", "Dotată cu un sistem medieval ingenios de încălzire", "Arhitectul a fost germanul Adam van Düren"],
+      en: ["Built between 1499 and 1506", "Features walls up to 2.4 meters thick", "Contains a sophisticated medieval heating system", "Designed by German architect Adam van Düren"],
+    },
   }
 ];

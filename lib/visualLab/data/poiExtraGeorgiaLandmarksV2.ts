@@ -6,7 +6,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-TB",
     coords: [44.8083, 41.6931],
-    name: { de: "Friedensbrücke", hu: "Béke hídja", ro: "Podul Păcii", en: "Bridge of Peace" },
+    name: { de: "Friedensbrücke", hu: "Béke hídja", ro: "Podul Păcii", en: "Bridge of Peace",
+image: "/poi-images/bridge-of-peace-landmarks-v2.webp"
+},
     description: {
       de: "Die Friedensbrücke in Tiflis ist eine markante, bogenförmige Fußgängerbrücke aus Glas und Stahl über den Fluss Kura, die die Altstadt mit dem Rike-Park verbindet.",
       hu: "A Tbilisziben található Béke hídja egy jellegzetes, üvegből és acélból készült, ív alakú gyalogoshíd a Kura folyó felett, amely az óvárost köti össze a Rike parkkal.",
@@ -24,7 +26,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-TB",
     coords: [44.8111, 41.6881],
-    name: { de: "Abanotubani-Schwefelbäder", hu: "Abanotubani kénes fürdők", ro: "Băile sulfuroase Abanotubani", en: "Abanotubani Sulphur Baths" },
+    name: { de: "Abanotubani-Schwefelbäder", hu: "Abanotubani kénes fürdők", ro: "Băile sulfuroase Abanotubani", en: "Abanotubani Sulphur Baths",
+image: "/poi-images/abanotubani-landmarks-v2.webp"
+},
     description: {
       de: "Das historische Bäderviertel Abanotubani in Tiflis ist berühmt für seine traditionellen, kuppelförmigen Badehäuser, die von natürlichen heißen Schwefelquellen gespeist werden.",
       hu: "Tbiliszi történelmi fürdőnegyede, az Abanotubani, híres hagyományos, kupolás fürdőházairól, amelyeket természetes, forró kénes források táplálnak.",
@@ -42,7 +46,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "monument",
     parent: "GE-TB",
     coords: [44.7816, 41.7706],
-    name: { de: "Chronik von Georgien", hu: "Grúzia krónikája", ro: "Cronica Georgiei", en: "Chronicle of Georgia" },
+    name: { de: "Chronik von Georgien", hu: "Grúzia krónikája", ro: "Cronica Georgiei", en: "Chronicle of Georgia",
+image: "/poi-images/chronicle-of-georgia-landmarks-v2.webp"
+},
     description: {
       de: "Das gewaltige Monument Chronik von Georgien thront auf einem Hügel nahe dem Tiflisser Meer und zeigt auf riesigen Säulen Szenen aus der georgischen Geschichte und Religion.",
       hu: "A Grúzia krónikája hatalmas emlékműve a Tbiliszi-tenger közelében, egy dombon magasodik, és óriási oszlopokon ábrázol jeleneteket a grúz történelemből és vallásból.",
@@ -60,7 +66,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-TB",
     coords: [44.8067, 41.6958],
-    name: { de: "Gabriadze-Theater", hu: "Gabriadze Bábszínház", ro: "Teatrul Gabriadze", en: "Gabriadze Theater" },
+    name: { de: "Gabriadze-Theater", hu: "Gabriadze Bábszínház", ro: "Teatrul Gabriadze", en: "Gabriadze Theater",
+image: "/poi-images/gabriadze-theater-landmarks-v2.webp"
+},
     description: {
       de: "Das malerische Marionettentheater von Rezo Gabriadze in der Altstadt von Tiflis ist berühmt für seinen schiefen Uhrturm, aus dem zu jeder vollen Stunde ein Engel erscheint.",
       hu: "Rezo Gabriadze festői bábszínháza Tbiliszi óvárosában híres ferde óratornyáról, amelyből minden egész órában egy angyal jelenik meg.",
@@ -78,7 +86,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-TB",
     coords: [44.7850, 41.6958],
-    name: { de: "Fernsehturm Tiflis", hu: "Tbiliszi TV-torony", ro: "Turnul de televiziune din Tbilisi", en: "Tbilisi TV Broadcasting Tower" },
+    name: { de: "Fernsehturm Tiflis", hu: "Tbiliszi TV-torony", ro: "Turnul de televiziune din Tbilisi", en: "Tbilisi TV Broadcasting Tower",
+image: "/poi-images/tbilisi-tv-tower-landmarks-v2.webp"
+},
     description: {
       de: "Der Tiflisser Fernsehturm auf dem Berg Mtazminda ist ein Wahrzeichen der Stadt und nachts durch seine farbenfrohe Beleuchtung von fast überall in der Hauptstadt sichtbar.",
       hu: "A Tbiliszi TV-torony a Mtacminda hegyen a város egyik jelképe, amely éjszaka színes kivilágításának köszönhetően a főváros szinte minden pontjáról látható.",
@@ -96,7 +106,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "monument",
     parent: "GE-AJ",
     coords: [41.6433, 41.6558],
-    name: { de: "Ali-und-Nino-Statue", hu: "Ali és Nino szobor", ro: "Statuia Ali și Nino", en: "Ali and Nino Statue" },
+    name: { de: "Ali-und-Nino-Statue", hu: "Ali és Nino szobor", ro: "Statuia Ali și Nino", en: "Ali and Nino Statue",
+image: "/poi-images/ali-and-nino-statue-landmarks-v2.webp"
+},
     description: {
       de: "Die kinetische Skulptur von Ali und Nino in Batumi symbolisiert eine tragische Liebesgeschichte. Die beiden Metallfiguren bewegen sich aufeinander zu, verschmelzen und trennen sich wieder.",
       hu: "Az Ali és Nino kinetikus szobor Batumiban egy tragikus szerelmi történetet szimbolizál. A két fémfigura egymás felé mozog, egybeolvad, majd újra szétválik.",
@@ -114,7 +126,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-AJ",
     coords: [41.6417, 41.6550],
-    name: { de: "Alphabet-Turm", hu: "Ábécé-torony", ro: "Turnul Alfabetului", en: "Alphabet Tower" },
+    name: { de: "Alphabet-Turm", hu: "Ábécé-torony", ro: "Turnul Alfabetului", en: "Alphabet Tower",
+image: "/poi-images/alphabet-tower-landmarks-v2.webp"
+},
     description: {
       de: "Der 130 Meter hohe Alphabet-Turm in Batumi feiert die Einzigartigkeit der georgischen Schrift. Er ist von einem DNA-ähnlichen Band umgeben, das die 33 Buchstaben des Alphabets trägt.",
       hu: "A 130 méter magas Ábécé-torony Batumiban a grúz írás egyediségét ünnepli. Egy DNS-hez hasonló szalag veszi körül, amely az ábécé 33 betűjét hordozza.",
@@ -132,7 +146,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-AJ",
     coords: [41.7208, 41.6939],
-    name: { de: "Botanischer Garten Batumi", hu: "Batumi Botanikus Kert", ro: "Grădina Botanică din Batumi", en: "Batumi Botanical Garden" },
+    name: { de: "Botanischer Garten Batumi", hu: "Batumi Botanikus Kert", ro: "Grădina Botanică din Batumi", en: "Batumi Botanical Garden",
+image: "/poi-images/batumi-botanical-garden-landmarks-v2.webp"
+},
     description: {
       de: "Der am Grünen Kap gelegene Botanische Garten von Batumi ist einer der größten und artenreichsten der Welt. Er bietet einen herrlichen Blick auf die Schwarzmeerküste.",
       hu: "A Zöld-foknál található Batumi Botanikus Kert a világ egyik legnagyobb és fajokban leggazdagabb kertje. Csodálatos kilátást nyújt a Fekete-tenger partjára.",
@@ -150,7 +166,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-AJ",
     coords: [41.6264, 41.6444],
-    name: { de: "Batumi Boulevard", hu: "Batumi körút", ro: "Bulevardul Batumi", en: "Batumi Boulevard" },
+    name: { de: "Batumi Boulevard", hu: "Batumi körút", ro: "Bulevardul Batumi", en: "Batumi Boulevard",
+image: "/poi-images/batumi-boulevard-landmarks-v2.webp"
+},
     description: {
       de: "Der historische Batumi Boulevard erstreckt sich über mehrere Kilometer entlang der Küste und lockt mit Palmen, tanzenden Springbrunnen und zahlreichen Cafés.",
       hu: "A történelmi Batumi körút több kilométer hosszan nyúlik el a part mentén, és pálmafákkal, táncoló szökőkutakkal, valamint számos kávézóval vonzza a látogatókat.",
@@ -168,7 +186,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-IM",
     coords: [43.2155, 42.2875],
-    name: { de: "Katschi-Säule", hu: "Kacshi-oszlop", ro: "Stâlpul Katskhi", en: "Katskhi Pillar" },
+    name: { de: "Katschi-Säule", hu: "Kacshi-oszlop", ro: "Stâlpul Katskhi", en: "Katskhi Pillar",
+image: "/poi-images/katskhi-pillar-landmarks-v2.webp"
+},
     description: {
       de: "Die Katschi-Säule ist ein 40 Meter hoher natürlicher Kalksteinmonolith in Imeretien. Auf seinem Gipfel ruht eine winzige Einsiedelei, die von einem einzelnen Mönch bewohnt wird.",
       hu: "A Kacshi-oszlop egy 40 méter magas természetes mészkő monolit Imeretiben. A tetején egy apró remetelak található, amelyet egyetlen szerzetes lakik.",
@@ -186,7 +206,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-IM",
     coords: [42.6006, 42.3769],
-    name: { de: "Prometheus-Höhle", hu: "Prométheusz-barlang", ro: "Peștera Prometeu", en: "Prometheus Cave" },
+    name: { de: "Prometheus-Höhle", hu: "Prométheusz-barlang", ro: "Peștera Prometeu", en: "Prometheus Cave",
+image: "/poi-images/prometheus-cave-landmarks-v2.webp"
+},
     description: {
       de: "Die Prometheus-Höhle nahe Kutaissi ist eines der faszinierendsten Naturwunder Georgiens. Sie bietet spektakuläre Tropfsteinformationen, unterirdische Flüsse und atmosphärische Beleuchtung.",
       hu: "A Kutaiszi közelében található Prométheusz-barlang Grúzia egyik leglenyűgözőbb természeti csodája. Látványos cseppkőalakzatokat, föld alatti folyókat és hangulatos megvilágítást kínál.",
@@ -204,7 +226,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-SZ",
     coords: [42.3769, 42.4578],
-    name: { de: "Martwili-Schlucht", hu: "Martvili-kanyon", ro: "Canionul Martvili", en: "Martvili Canyon" },
+    name: { de: "Martwili-Schlucht", hu: "Martvili-kanyon", ro: "Canionul Martvili", en: "Martvili Canyon",
+image: "/poi-images/martvili-canyon-landmarks-v2.webp"
+},
     description: {
       de: "Die Martwili-Schlucht besticht durch ihr smaragdgrünes Wasser und beeindruckende Wasserfälle. Besucher können die von üppiger Vegetation umgebene Schlucht auf kleinen Booten erkunden.",
       hu: "A Martvili-kanyon smaragdzöld vizével és lenyűgöző vízeséseivel bűvöli el a látogatókat. A buja növényzettel körülvett szurdokot kis csónakokon is fel lehet fedezni.",
@@ -223,7 +247,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-IM",
     coords: [42.5414, 42.4556],
-    name: { de: "Okatse-Schlucht", hu: "Okace-kanyon", ro: "Canionul Okatse", en: "Okatse Canyon" },
+    name: { de: "Okatse-Schlucht", hu: "Okace-kanyon", ro: "Canionul Okatse", en: "Okatse Canyon",
+image: "/poi-images/okatse-canyon-landmarks-v2.webp"
+},
     description: {
       de: "Die Okatse-Schlucht bietet ein unvergessliches Erlebnis dank eines spektakulären Hängepfads, der hoch über dem Boden an der Klippenwand befestigt ist und unglaubliche Ausblicke bietet.",
       hu: "Az Okace-kanyon felejthetetlen élményt nyújt a magasban, a sziklafalhoz rögzített látványos függőösvényének köszönhetően, amely hihetetlen kilátást kínál.",
@@ -241,7 +267,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-IM",
     coords: [42.6739, 42.3119],
-    name: { de: "Sataplia-Naturschutzgebiet", hu: "Sataplia Természetvédelmi Terület", ro: "Rezervația Naturală Sataplia", en: "Sataplia Nature Reserve" },
+    name: { de: "Sataplia-Naturschutzgebiet", hu: "Sataplia Természetvédelmi Terület", ro: "Rezervația Naturală Sataplia", en: "Sataplia Nature Reserve",
+image: "/poi-images/sataplia-cave-landmarks-v2.webp"
+},
     description: {
       de: "Das Sataplia-Naturschutzgebiet ist berühmt für seine gut erhaltenen Dinosaurierspuren und eine wunderschöne Karsthöhle. Der Glasboden-Aussichtspunkt bietet einen weiten Blick über die Region.",
       hu: "A Sataplia Természetvédelmi Terület jó állapotban fennmaradt dinoszaurusz lábnyomairól és egy gyönyörű karsztbarlangjáról híres. Az üvegpadlós kilátó széles panorámát nyújt a régióra.",
@@ -259,7 +287,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-SZ",
     coords: [42.7278, 43.0458],
-    name: { de: "Swanetische Türme in Mestia", hu: "Szvanéti tornyok Mestiában", ro: "Turnurile Svaneti din Mestia", en: "Svaneti Towers in Mestia" },
+    name: { de: "Swanetische Türme in Mestia", hu: "Szvanéti tornyok Mestiában", ro: "Turnurile Svaneti din Mestia", en: "Svaneti Towers in Mestia",
+image: "/poi-images/svaneti-towers-mestia-landmarks-v2.webp"
+},
     description: {
       de: "Die mittelalterlichen Wehrtürme in der Gebirgsregion Swanetien prägen das unverwechselbare Landschaftsbild von Mestia. Sie dienten den Familien als Schutz vor Lawinen und Blutfehden.",
       hu: "A hegyvidéki Szvanéti régió középkori védőtornyai meghatározzák Mestia összetéveszthetetlen látképét. A családok számára nyújtottak védelmet a lavinák és a vérbosszúk ellen.",
@@ -277,7 +307,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "icon",
     parent: "GE-SZ",
     coords: [42.0322, 42.7600],
-    name: { de: "Enguri-Staumauer", hu: "Enguri-gát", ro: "Barajul Enguri", en: "Enguri Dam" },
+    name: { de: "Enguri-Staumauer", hu: "Enguri-gát", ro: "Barajul Enguri", en: "Enguri Dam",
+image: "/poi-images/enguri-dam-landmarks-v2.webp"
+},
     description: {
       de: "Die Enguri-Staumauer ist mit 271,5 Metern eine der höchsten Bogenstaumauern der Welt. Sie staut das Wasser des Flusses Enguri zu einem gewaltigen türkisfarbenen Stausee im Kaukasus auf.",
       hu: "Az Enguri-gát 271,5 méterével a világ egyik legmagasabb ívgátja. Az Enguri folyó vizét egy hatalmas, türkizkék víztározóvá duzzasztja a Kaukázusban.",
@@ -295,7 +327,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-KK",
     coords: [44.0950, 41.5978],
-    name: { de: "Daschbaschi-Schlucht", hu: "Dasbasi-kanyon", ro: "Canionul Dashbashi", en: "Dashbashi Canyon" },
+    name: { de: "Daschbaschi-Schlucht", hu: "Dasbasi-kanyon", ro: "Canionul Dashbashi", en: "Dashbashi Canyon",
+image: "/poi-images/dashbashi-canyon-landmarks-v2.webp"
+},
     description: {
       de: "Die malerische Daschbaschi-Schlucht zieht Besucher mit ihren zahlreichen kaskadenartigen Wasserfällen an. Die spektakuläre Diamantbrücke überspannt die Schlucht in schwindelerregender Höhe.",
       hu: "A festői Dasbasi-kanyon számos lépcsőzetes vízesésével vonzza a látogatókat. A látványos Gyémánt-híd szédítő magasságban ível át a szurdok felett.",
@@ -314,7 +348,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "GE-KA",
     coords: [45.9225, 41.6214],
-    name: { de: "Stadtmauer von Sighnaghi", hu: "Szignagi városfala", ro: "Zidul orașului Sighnaghi", en: "Sighnaghi City Wall" },
+    name: { de: "Stadtmauer von Sighnaghi", hu: "Szignagi városfala", ro: "Zidul orașului Sighnaghi", en: "Sighnaghi City Wall",
+image: "/poi-images/sighnaghi-city-wall-landmarks-v2.webp"
+},
     description: {
       de: "Die beeindruckende Stadtmauer von Sighnaghi erstreckt sich über vier Kilometer um die malerische Stadt. Mit ihren 28 Wachtürmen bietet sie einen atemberaubenden Blick auf das Alasani-Tal.",
       hu: "Szignagi lenyűgöző városfala több mint négy kilométer hosszan öleli körül a festői várost. 28 őrtornyával lélegzetelállító kilátást nyújt az Alazani-völgyre.",
@@ -332,7 +368,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-AJ",
     coords: [41.8617, 41.5714],
-    name: { de: "Machunzeti-Wasserfall", hu: "Mahunceti-vízesés", ro: "Cascada Makhuntseti", en: "Makhuntseti Waterfall" },
+    name: { de: "Machunzeti-Wasserfall", hu: "Mahunceti-vízesés", ro: "Cascada Makhuntseti", en: "Makhuntseti Waterfall",
+image: "/poi-images/makhuntseti-waterfall-landmarks-v2.webp"
+},
     description: {
       de: "Der Machunzeti-Wasserfall in der Region Adscharien ist ein beliebtes Ausflugsziel. Das Wasser stürzt aus über 30 Metern Höhe über eine Felswand in ein natürliches Becken.",
       hu: "Az Adzsaria régióban található Mahunceti-vízesés népszerű kirándulóhely. A víz több mint 30 méter magasból zúdul le egy sziklafalon egy természetes medencébe.",
@@ -351,7 +389,9 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "GE-MM",
     coords: [44.6225, 42.7058],
-    name: { de: "Gweleti-Wasserfall", hu: "Gveleti-vízesés", ro: "Cascada Gveleti", en: "Gveleti Waterfall" },
+    name: { de: "Gweleti-Wasserfall", hu: "Gveleti-vízesés", ro: "Cascada Gveleti", en: "Gveleti Waterfall",
+image: "/poi-images/gveleti-waterfall-landmarks-v2.webp"
+},
     description: {
       de: "Versteckt in der rauen Berglandschaft von Stepantsminda liegt der Gweleti-Wasserfall. Ein malerischer Pfad führt durch die Darial-Schlucht zu diesem beeindruckenden Naturwunder.",
       hu: "Sztyepancminda zord hegyvidéki táján bújik meg a Gveleti-vízesés. Egy festői ösvény vezet a Darial-szurdokon keresztül ehhez a lenyűgöző természeti csodához.",

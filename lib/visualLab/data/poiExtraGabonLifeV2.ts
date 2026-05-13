@@ -14,8 +14,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Langoué Baï"
     ,
     descriptionAdvanced: {
-      de: "Langoué Bai ist eine berühmte Waldlichtung tief im Ivindo-Nationalpark, die als Treffpunkt für eine Vielzahl von Tieren dient, insbesondere für Waldelefanten und Gorillas. Die Tiere kommen hierher, um Salze aus dem Boden aufzunehmen und in der offenen Fläche zu interagieren. Langoué Bai ist ein weltberühmter Ort für die Tierfotografie und ökologische Forschung, da hier Tiere in ungewohnter Offenheit beobachtet werden können. Dieser Ort ist ein Symbol für die Wildheit und Unberührtheit des gabunischen Regenwaldes. Biologie K8 — Verhalten und Habitat."
-    },
+      de: "Langoué Bai ist eine berühmte Waldlichtung tief im Ivindo-Nationalpark, die als Treffpunkt für eine Vielzahl von Tieren dient, insbesondere für Waldelefanten und Gorillas. Die Tiere kommen hierher, um Salze aus dem Boden aufzunehmen und in der offenen Fläche zu interagieren. Langoué Bai ist ein weltberühmter Ort für die Tierfotografie und ökologische Forschung, da hier Tiere in ungewohnter Offenheit beobachtet werden können. Dieser Ort ist ein Symbol für die Wildheit und Unberührtheit des gabunischen Regenwaldes. Biologie K8 — Verhalten und Habitat.",
+image: "/poi-images/langoue-bai-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Langoué Bai ist eine einzigartige Waldlichtung.", "Es ist ein zentraler Treffpunkt für Elefanten und Gorillas.", "Tiere kommen hierher, um Bodensalze aufzunehmen.", "Die Lichtung erlaubt eine seltene Beobachtungsmöglichkeit.", "Langoué Bai ist ein Zentrum für ökologische Forschung.", "Der Ort repräsentiert die Unberührtheit des Regenwaldes."]
     }
@@ -43,8 +44,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Moukalaba-Doudou Gorillahabitat",
       hu: "Moukalaba-Doudou gorilla élőhely",
       ro: "Habitatul gorilelor Moukalaba-Doudou",
-      en: "Moukalaba-Doudou Gorilla Habitat"
-    },
+      en: "Moukalaba-Doudou Gorilla Habitat",
+image: "/poi-images/moukalaba-doudou-gorilla-life-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Schutzgebiet für Primaten, insbesondere für Westliche Flachlandgorillas und Schimpansen im Süden Gabuns.",
       hu: "Jelentős főemlős-védelmi terület, különösen a nyugati síkvidéki gorillák és csimpánzok számára Dél-Gabonban.",
@@ -81,8 +83,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Iguela Game Reserve"
     ,
     descriptionAdvanced: {
-      de: "Das Iguela-Reservat ist ein Paradies für Tierbeobachtungen und ein wichtiger Ort für den Erhalt der vielfältigen Fauna des Südwestens Gabuns. Mit seiner Mischung aus Wald, Savanne und Küstenbereichen bietet es verschiedensten Arten eine Heimat. Von Antilopen in der Savanne bis hin zu Affen im Wald können hier zahlreiche Tiere beobachtet werden. Das Reservat ist ein lebendiges Labor für Ökologen und ein Ziel für Naturfreunde, die die unberührte Natur Gabuns in ihrer ganzen Pracht erleben wollen. Biologie K7 — Lebensraumvielfalt."
-    },
+      de: "Das Iguela-Reservat ist ein Paradies für Tierbeobachtungen und ein wichtiger Ort für den Erhalt der vielfältigen Fauna des Südwestens Gabuns. Mit seiner Mischung aus Wald, Savanne und Küstenbereichen bietet es verschiedensten Arten eine Heimat. Von Antilopen in der Savanne bis hin zu Affen im Wald können hier zahlreiche Tiere beobachtet werden. Das Reservat ist ein lebendiges Labor für Ökologen und ein Ziel für Naturfreunde, die die unberührte Natur Gabuns in ihrer ganzen Pracht erleben wollen. Biologie K7 — Lebensraumvielfalt.",
+image: "/poi-images/iguela-reserve-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Iguela bietet eine große Vielfalt an Habitaten.", "Das Reservat beheimatet Tiere aus Savanne und Wald.", "Es ist ein wichtiges Ziel für die ökologische Forschung.", "Besucher können hier eine Vielzahl von Tierarten beobachten.", "Der Schutz dieser Fläche ist für den Südwesten Gabuns essenziell.", "Die unberührte Natur ist ein Hauptmerkmal der Reserve."]
     }
@@ -111,8 +114,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Akanda Bird Sanctuary"
     ,
     descriptionAdvanced: {
-      de: "Der Akanda-Nationalpark ist ein international bedeutendes Vogelparadies, das vor allem für seine großen Zugvogelpopulationen bekannt ist. Die weitläufigen Mangrovengebiete bieten ideale Brut- und Rastplätze für zahlreiche Arten. Vogelbeobachter aus der ganzen Welt schätzen dieses Gebiet wegen der Möglichkeit, seltene Arten in ihrem natürlichen Lebensraum zu sehen. Die ökologische Vielfalt des Parks macht ihn zu einem Schlüsselgebiet für den Vogelschutz in Zentralafrika. Sachkunde K5 — Lebensräume und Zugvögel."
-    },
+      de: "Der Akanda-Nationalpark ist ein international bedeutendes Vogelparadies, das vor allem für seine großen Zugvogelpopulationen bekannt ist. Die weitläufigen Mangrovengebiete bieten ideale Brut- und Rastplätze für zahlreiche Arten. Vogelbeobachter aus der ganzen Welt schätzen dieses Gebiet wegen der Möglichkeit, seltene Arten in ihrem natürlichen Lebensraum zu sehen. Die ökologische Vielfalt des Parks macht ihn zu einem Schlüsselgebiet für den Vogelschutz in Zentralafrika. Sachkunde K5 — Lebensräume und Zugvögel.",
+image: "/poi-images/akanda-birds-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Akanda ist ein bedeutendes Schutzgebiet für Zugvögel.", "Die Mangroven bieten wichtige Brut- und Raststätten.", "Viele internationale seltene Vogelarten finden hier Schutz.", "Der Park ist ein Hotspot für Ornithologen.", "Die ökologische Vielfalt ist essentiell für den Vogelschutz.", "Akanda liegt in der Provinz Estuaire."]
     }
@@ -138,8 +142,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Pongara Schildkrötenstrand",
       hu: "Pongara teknőspart",
       ro: "Plaja țestoaselor Pongara",
-      en: "Pongara Turtle Beach"
-    },
+      en: "Pongara Turtle Beach",
+image: "/poi-images/pongara-turtles-life-v2.webp"
+},
     description: {
       de: "Ein entscheidender Nistplatz für Lederschildkröten, die jedes Jahr an die Sandstrände des Pongara-Nationalparks kommen.",
       hu: "A kérgesteknősök döntő fontosságú fészkelőhelye, amelyek minden évben a Pongara Nemzeti Park homokos partjaira érkeznek.",
@@ -161,8 +166,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Mwagna Wildpark",
       hu: "Mwagna vadaspark",
       ro: "Parcul de animale Mwagna",
-      en: "Mwagna Wilderness"
-    },
+      en: "Mwagna Wilderness",
+image: "/poi-images/mwagna-park-life-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Wildnisgebiet im Osten Gabuns, das unberührte Lebensräume für Flachlandgorillas und Waldelefanten bietet.",
       hu: "Elszigetelt vadon Kelet-Gabonban, amely érintetlen élőhelyet biztosít a síkvidéki gorilláknak és erdei elefántoknak.",
@@ -187,8 +193,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Belinga Elephant Region"
     ,
     descriptionAdvanced: {
-      de: "Die Region Belinga ist ein bedeutendes Rückzugsgebiet für den Afrikanischen Waldelefanten, eine Art, die in den tieferen Regenwäldern Gabuns Schutz findet. Diese Elefanten spielen eine entscheidende ökologische Rolle als 'Gärtner des Waldes', da sie Samen verbreiten und Waldlichtungen schaffen. Trotz der industriellen Bedrohungen durch den Bergbau ist Belinga ein Ort, an dem ein besonderes Augenmerk auf den Schutz dieser gefährdeten Tiere gelegt wird. Ein Schutz dieser Gebiete ist für das langfristige Überleben der Waldelefanten essentiell. Biologie K8 — Arten- und Habitatschutz."
-    },
+      de: "Die Region Belinga ist ein bedeutendes Rückzugsgebiet für den Afrikanischen Waldelefanten, eine Art, die in den tieferen Regenwäldern Gabuns Schutz findet. Diese Elefanten spielen eine entscheidende ökologische Rolle als 'Gärtner des Waldes', da sie Samen verbreiten und Waldlichtungen schaffen. Trotz der industriellen Bedrohungen durch den Bergbau ist Belinga ein Ort, an dem ein besonderes Augenmerk auf den Schutz dieser gefährdeten Tiere gelegt wird. Ein Schutz dieser Gebiete ist für das langfristige Überleben der Waldelefanten essentiell. Biologie K8 — Arten- und Habitatschutz.",
+image: "/poi-images/belinga-elephants-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Belinga ist ein Habitat des gefährdeten Afrikanischen Waldelefanten.", "Waldelefanten spielen eine wichtige ökologische Rolle.", "Sie fördern die Samenverbreitung und Waldgesundheit.", "Der Schutz dieser Tiere ist eine große ökologische Herausforderung.", "Industrielle Projekte stellen eine Bedrohung für das Habitat dar.", "Die Region Belinga ist essenziell für die Artenerhaltung."]
     }
@@ -218,8 +225,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Ivindo Hippo Pools"
     ,
     descriptionAdvanced: {
-      de: "Im Ivindo-Flusssystem sind Flusspferde ein beeindruckendes Merkmal der Tierwelt, die in den naturbelassenen Wasserwegen lebt. Die Ivindo-Region bietet diesen Tieren die nötigen Sandbänke und tiefen Gewässer, um ihre Population zu erhalten. Flusspferde sind ökologisch bedeutend für das Gewässer, da sie durch ihr Weideverhalten Lichtungen schaffen und den Nährstoffkreislauf beeinflussen. Die Ivindo-Region ist einer der wenigen Orte in Zentralafrika, an dem man diese Tiere in einem noch völlig wilden Zustand beobachten kann. Biologie K7 — Aquatische Ökosysteme."
-    },
+      de: "Im Ivindo-Flusssystem sind Flusspferde ein beeindruckendes Merkmal der Tierwelt, die in den naturbelassenen Wasserwegen lebt. Die Ivindo-Region bietet diesen Tieren die nötigen Sandbänke und tiefen Gewässer, um ihre Population zu erhalten. Flusspferde sind ökologisch bedeutend für das Gewässer, da sie durch ihr Weideverhalten Lichtungen schaffen und den Nährstoffkreislauf beeinflussen. Die Ivindo-Region ist einer der wenigen Orte in Zentralafrika, an dem man diese Tiere in einem noch völlig wilden Zustand beobachten kann. Biologie K7 — Aquatische Ökosysteme.",
+image: "/poi-images/ivindo-hippos-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Flusspferde sind ein markantes Tier der Ivindo-Region.", "Die Wasserwege bieten ein ideales Habitat für diese Art.", "Flusspferde beeinflussen den Nährstoffkreislauf der Flüsse.", "Das Ivindo-System ist ein weitgehend unberührter Lebensraum.", "Die Beobachtung ist ein ökologisches Highlight im Land.", "Die Population ist wichtig für die lokale aquatische Ökologie."]
     }
@@ -245,8 +253,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Loango Strandtiere",
       hu: "Loango tengerparti állatvilág",
       ro: "Fauna de pe plaja Loango",
-      en: "Loango Beach Fauna"
-    },
+      en: "Loango Beach Fauna",
+image: "/poi-images/loango-beach-fauna-life-v2.webp"
+},
     description: {
       de: "Weltweit einzigartig wandern hier Waldelefanten, Büffel und sogar Gorillas direkt an den Atlantikstrand.",
       hu: "A világon egyedülálló módon erdei elefántok, bivalyok és néha gorillák is közvetlenül az atlanti-óceáni partra merészkednek.",
@@ -272,8 +281,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Bakoumba Primate Center"
     ,
     descriptionAdvanced: {
-      de: "Die Umgebung von Bakoumba ist bekannt für ihre reiche Primatenpopulation, die in den dichten Wäldern der Provinz Haut-Ogooué lebt. Diese Region ist ein wichtiger Standort für die Erforschung des Verhaltens von Schimpansen und Gorillas. Der Schutz dieser Lebensräume ist für den Erhalt der biologischen Vielfalt in Gabun von höchster Priorität. Besucher können hier in ökologisch geführten Touren mehr über die faszinierende soziale Struktur der Primaten lernen. Biologie K6 — Primatenschutz in Zentralafrika."
-    },
+      de: "Die Umgebung von Bakoumba ist bekannt für ihre reiche Primatenpopulation, die in den dichten Wäldern der Provinz Haut-Ogooué lebt. Diese Region ist ein wichtiger Standort für die Erforschung des Verhaltens von Schimpansen und Gorillas. Der Schutz dieser Lebensräume ist für den Erhalt der biologischen Vielfalt in Gabun von höchster Priorität. Besucher können hier in ökologisch geführten Touren mehr über die faszinierende soziale Struktur der Primaten lernen. Biologie K6 — Primatenschutz in Zentralafrika.",
+image: "/poi-images/bakoumba-primates-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Bakoumba bietet ein Habitat für verschiedene Primatenarten.", "Die Region ist wichtig für die Forschung an Gorillas und Schimpansen.", "Ökotourismus unterstützt hier den Schutz der Lebensräume.", "Dichte Regenwälder bilden die Basis für dieses Habitat.", "Der Schutz der Primaten ist eine nationale Priorität.", "Geführte Touren bieten Einblicke in das Verhalten der Tiere."]
     }
@@ -302,8 +312,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Bitam Rubber Plantations"
     ,
     descriptionAdvanced: {
-      de: "Bitam ist nicht nur für Kakao, sondern auch für die Kautschukproduktion bekannt, die eine lange Tradition in der Provinz Woleu-Ntem hat. Die Kautschukplantagen prägen die Agrarlandschaft und sind ein wichtiger Arbeitgeber für die lokale Bevölkerung. Die Bewirtschaftung erfordert spezifisches Wissen und sorgt für eine kontinuierliche landwirtschaftliche Aktivität in der gesamten Region. Die Kautschukgewinnung ist ein Beispiel für eine traditionelle, aber auch wirtschaftlich relevante Form der Forstwirtschaft. Wirtschaft K6 — Agrarwirtschaft und Handwerk."
-    },
+      de: "Bitam ist nicht nur für Kakao, sondern auch für die Kautschukproduktion bekannt, die eine lange Tradition in der Provinz Woleu-Ntem hat. Die Kautschukplantagen prägen die Agrarlandschaft und sind ein wichtiger Arbeitgeber für die lokale Bevölkerung. Die Bewirtschaftung erfordert spezifisches Wissen und sorgt für eine kontinuierliche landwirtschaftliche Aktivität in der gesamten Region. Die Kautschukgewinnung ist ein Beispiel für eine traditionelle, aber auch wirtschaftlich relevante Form der Forstwirtschaft. Wirtschaft K6 — Agrarwirtschaft und Handwerk.",
+image: "/poi-images/bitam-rubber-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Die Region Bitam ist bekannt für Kautschukplantagen.", "Kautschuk ist eine wichtige Säule der lokalen Wirtschaft.", "Die Bewirtschaftung erfordert spezielles landwirtschaftliches Wissen.", "Plantagen prägen die Agrarlandschaft der Provinz Woleu-Ntem.", "Die Gewinnung bietet wichtige Arbeitsplätze vor Ort.", "Es ist ein Beispiel für die industrielle Nutzung der Forstwirtschaft."]
     }
@@ -329,8 +340,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Ntoum Gemüsegärten",
       hu: "Ntoum zöldségkertek",
       ro: "Grădinile de legume din Ntoum",
-      en: "Ntoum Market Gardens"
-    },
+      en: "Ntoum Market Gardens",
+image: "/poi-images/ntoum-vegetables-life-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Gebiete um Ntoum dienen als 'Gemüsegarten' für die nahegelegene Hauptstadt Libreville.",
       hu: "A Ntoum környéki termékeny területek a közeli főváros, Libreville 'konyhakertjeként' szolgálnak.",
@@ -352,8 +364,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Woleu-Ntem Kakaogärten",
       hu: "Woleu-Ntem kakaókertek",
       ro: "Grădinile de cacao din Woleu-Ntem",
-      en: "Woleu-Ntem Cocoa Gardens"
-    },
+      en: "Woleu-Ntem Cocoa Gardens",
+image: "/poi-images/woleu-ntem-cocoa-life-v2.webp"
+},
     description: {
       de: "Traditionelle kleinbäuerliche Kakaoplantagen in der nördlichsten Provinz, bekannt für hochwertige Bohnen.",
       hu: "Hagyományos kisüzemi kakaóültetvények a legészakibb tartományban, amelyek kiváló minőségű babjaikról ismertek.",
@@ -375,8 +388,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Ogooué-Lolo Kaffeegärten",
       hu: "Ogooué-Lolo kávékertek",
       ro: "Grădinile de cafea din Ogooué-Lolo",
-      en: "Ogooué-Lolo Coffee Gardens"
-    },
+      en: "Ogooué-Lolo Coffee Gardens",
+image: "/poi-images/ogooue-lolo-coffee-life-v2.webp"
+},
     description: {
       de: "Hügelige Kaffeeplantagen in der zentralen Region Ogooué-Lolo, die ein kühleres Klima für den Anbau nutzen.",
       hu: "Dombvidéki kávéültetvények Ogooué-Lolo központi régiójában, amelyek a hűvösebb klímát használják ki a termesztéshez.",
@@ -398,8 +412,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Nyanga Viehzucht-Weiden",
       hu: "Nyanga állattenyésztő legelők",
       ro: "Pășunile pentru vite din Nyanga",
-      en: "Nyanga Cattle Pastures"
-    },
+      en: "Nyanga Cattle Pastures",
+image: "/poi-images/nyanga-cattle-life-v2.webp"
+},
     description: {
       de: "Die weiten Savannen der Nyanga-Region sind das Zentrum der Rinderzucht in Gabun.",
       hu: "Nyanga régió tágas szavannái Gabon állattenyésztési központjai.",
@@ -424,8 +439,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Lambaréné Fishery Hub"
     ,
     descriptionAdvanced: {
-      de: "Die Fischerei in Lambaréné entlang des Ogooué-Flusses ist seit Generationen ein zentraler Bestandteil der lokalen Lebenskultur. Für die Bewohner stellt der Fluss eine kontinuierliche Nahrungs- und Einkommensquelle dar, wobei traditionelle Methoden noch heute weit verbreitet sind. Die Fischvielfalt im Ogooué ist groß, was Lambaréné zu einem wichtigen Umschlagplatz für den lokalen Fischhandel macht. Die Art und Weise, wie die Menschen hier mit dem Fluss und seinen Ressourcen leben, ist ein lebendiges Zeugnis für eine nachhaltige, flussnahe Lebensweise. Sachkunde K4 — Fluss und Lebensraum."
-    },
+      de: "Die Fischerei in Lambaréné entlang des Ogooué-Flusses ist seit Generationen ein zentraler Bestandteil der lokalen Lebenskultur. Für die Bewohner stellt der Fluss eine kontinuierliche Nahrungs- und Einkommensquelle dar, wobei traditionelle Methoden noch heute weit verbreitet sind. Die Fischvielfalt im Ogooué ist groß, was Lambaréné zu einem wichtigen Umschlagplatz für den lokalen Fischhandel macht. Die Art und Weise, wie die Menschen hier mit dem Fluss und seinen Ressourcen leben, ist ein lebendiges Zeugnis für eine nachhaltige, flussnahe Lebensweise. Sachkunde K4 — Fluss und Lebensraum.",
+image: "/poi-images/lambarene-fishery-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Die Fischerei am Ogooué ist ein Kern der Kultur von Lambaréné.", "Der Fluss ist die wichtigste Nahrungsgrundlage.", "Traditionelle Fischmethoden werden bis heute angewandt.", "Lambaréné ist ein wichtiger Handelsort für Süßwasserfische.", "Die Fischvielfalt im Ogooué ist ein ökologischer Schatz.", "Das Zusammenleben von Mensch und Fluss ist sehr nachhaltig."]
     }
@@ -454,8 +470,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Lebamba Rice Fields"
     ,
     descriptionAdvanced: {
-      de: "Die Umgebung von Lebamba ist für ihren Reisanbau bekannt, der in den feuchten Niederungen der Provinz Ngounié betrieben wird. Die Reisfelder prägen die Landschaft und sind ein wichtiges Element der lokalen Ernährungssicherung. Die Zusammenarbeit zwischen den Bauern in der Region Lebamba hat dazu beigetragen, den Reis zu einem der wichtigsten Agrarprodukte der Provinz zu machen. Diese Form der Landwirtschaft trägt wesentlich zum Erhalt der ländlichen Strukturen in Gabun bei. Geografie K5 — Nahrungsmittelproduktion."
-    },
+      de: "Die Umgebung von Lebamba ist für ihren Reisanbau bekannt, der in den feuchten Niederungen der Provinz Ngounié betrieben wird. Die Reisfelder prägen die Landschaft und sind ein wichtiges Element der lokalen Ernährungssicherung. Die Zusammenarbeit zwischen den Bauern in der Region Lebamba hat dazu beigetragen, den Reis zu einem der wichtigsten Agrarprodukte der Provinz zu machen. Diese Form der Landwirtschaft trägt wesentlich zum Erhalt der ländlichen Strukturen in Gabun bei. Geografie K5 — Nahrungsmittelproduktion.",
+image: "/poi-images/lebamba-rice-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Lebamba ist ein Zentrum für den Reisanbau.", "Die feuchten Niederungen sind ideal für den Reis.", "Reis ist ein Schlüsselelement für die lokale Ernährung.", "Die Landwirtschaft prägt die Landschaft um Lebamba.", "Der Anbau fördert die wirtschaftliche Unabhängigkeit.", "Lebamba trägt so zum Erhalt der ländlichen Struktur bei."]
     }
@@ -481,8 +498,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Mpassa Wildreservat",
       hu: "Mpassa vadvédelmi terület",
       ro: "Rezervația de vânătoare Mpassa",
-      en: "Mpassa Game Reserve"
-    },
+      en: "Mpassa Game Reserve",
+image: "/poi-images/mpassa-reserve-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet in der Provinz Haut-Ogooué, das für die Wiederansiedlung von im Inland ausgestorbenen Arten genutzt wird.",
       hu: "Haut-Ogooué tartomány egyik védett területe, amelyet a belföldön kihalt fajok visszatelepítésére használnak.",
@@ -504,8 +522,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       de: "Sette Cama Lagunentiere",
       hu: "Sette Cama lagúna állatvilága",
       ro: "Fauna lagunei Sette Cama",
-      en: "Sette Cama Lagoon Fauna"
-    },
+      en: "Sette Cama Lagoon Fauna",
+image: "/poi-images/sette-cama-lagoon-fauna-life-v2.webp"
+},
     description: {
       de: "Die Lagunen von Sette Cama bieten einen Lebensraum für seltene Seekühe und zahlreiche Krokodilarten.",
       hu: "Sette Cama lagúnái életteret biztosítanak a ritka tengeriteheneknek és számos krokodilfajnak.",
@@ -530,8 +549,9 @@ export const poiExtraGabonLifeV2: POI[] = [
       en: "Akanda Mangrove Ecosystem"
     ,
     descriptionAdvanced: {
-      de: "Die Mangrovenwälder im Akanda-Nationalpark sind ein faszinierendes und lebenswichtiges Ökosystem, das die Küste Gabuns schützt. Diese Wälder fungieren als Kinderstube für unzählige Fischarten und Meerestiere und sind gleichzeitig ein wichtiger Kohlenstoffspeicher. Die komplexen Wurzelstrukturen der Mangroven bieten Schutz vor Erosion durch Stürme und Gezeiten. Der Erhalt dieses Lebensraums ist entscheidend für das maritime Gleichgewicht der Region. Biologie K7 — Küstenökosysteme."
-    },
+      de: "Die Mangrovenwälder im Akanda-Nationalpark sind ein faszinierendes und lebenswichtiges Ökosystem, das die Küste Gabuns schützt. Diese Wälder fungieren als Kinderstube für unzählige Fischarten und Meerestiere und sind gleichzeitig ein wichtiger Kohlenstoffspeicher. Die komplexen Wurzelstrukturen der Mangroven bieten Schutz vor Erosion durch Stürme und Gezeiten. Der Erhalt dieses Lebensraums ist entscheidend für das maritime Gleichgewicht der Region. Biologie K7 — Küstenökosysteme.",
+image: "/poi-images/akanda-mangrove-life-v2.webp"
+},
     factsAdvanced: {
       de: ["Akanda besitzt ausgedehnte Mangrovenwälder.", "Die Wälder sind wichtige Kinderstuben für Meerestiere.", "Mangroven dienen als natürlicher Küstenschutz gegen Erosion.", "Sie spielen eine wichtige Rolle als Kohlenstoffspeicher.", "Die Wurzelstrukturen bilden ein komplexes Habitat.", "Das maritime Gleichgewicht ist direkt vom Bestand abhängig."]
     }

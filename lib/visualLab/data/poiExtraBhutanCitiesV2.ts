@@ -6,7 +6,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "BT-15",
     coords: [89.6390, 27.4728],
-    name: { de: "Thimphu", hu: "Thimphu", ro: "Thimphu", en: "Thimphu" },
+    name: { de: "Thimphu", hu: "Thimphu", ro: "Thimphu", en: "Thimphu",
+image: "/poi-images/thimphu-cities-v2.webp"
+},
     description: {
       de: "Thimphu ist die Hauptstadt und größte Stadt von Bhutan, bekannt für ihre Mischung aus traditioneller Kultur und Moderne ohne Verkehrsampeln.",
       hu: "Thimphu Bhután fővárosa és legnagyobb városa, amely a hagyományos kultúra és a modernitás egyedi ötvözetéről, valamint a közlekedési lámpák hiányáról ismert.",
@@ -39,7 +41,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-12",
     coords: [89.3833, 26.8500],
-    name: { de: "Phuntsholing", hu: "Phuntsholing", ro: "Phuntsholing", en: "Phuntsholing" },
+    name: { de: "Phuntsholing", hu: "Phuntsholing", ro: "Phuntsholing", en: "Phuntsholing",
+image: "/poi-images/phuntsholing-cities-v2.webp"
+},
     description: {
       de: "Phuntsholing ist eine Grenzstadt im Süden von Bhutan, die als das wichtigste kommerzielle Zentrum und Tor nach Indien fungiert.",
       hu: "Phuntsholing egy határváros Dél-Bhutánban, amely a legfontosabb kereskedelmi központként és Indiába vezető kapuként szolgál.",
@@ -72,7 +76,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-11",
     coords: [89.4167, 27.4333],
-    name: { de: "Paro", hu: "Paro", ro: "Paro", en: "Paro" },
+    name: { de: "Paro", hu: "Paro", ro: "Paro", en: "Paro",
+image: "/poi-images/paro-cities-v2.webp"
+},
     description: {
       de: "Paro ist eine historische Stadt im Paro-Tal, Heimat des einzigen internationalen Flughafens von Bhutan und zahlreicher heiliger Stätten.",
       hu: "Paro egy történelmi város a Paro-völgyben, Bhután egyetlen nemzetközi repülőterének és számos szent helyének otthona.",
@@ -105,7 +111,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-34",
     coords: [90.5000, 26.8667],
-    name: { de: "Gelephu", hu: "Gelephu", ro: "Gelephu", en: "Gelephu" },
+    name: { de: "Gelephu", hu: "Gelephu", ro: "Gelephu", en: "Gelephu",
+image: "/poi-images/gelephu-cities-v2.webp"
+},
     description: {
       de: "Gelephu ist eine schnell wachsende Stadt im Süden Bhutans an der indischen Grenze, die für ihre warmen Quellen und tropische Landwirtschaft bekannt ist.",
       hu: "Gelephu egy gyorsan növekvő város Dél-Bhutánban, az indiai határnál, amely híres meleg vizű forrásairól és trópusi mezőgazdaságáról.",
@@ -138,7 +146,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-45",
     coords: [91.5000, 26.8000],
-    name: { de: "Samdrup Jongkhar", hu: "Samdrup Jongkhar", ro: "Samdrup Jongkhar", en: "Samdrup Jongkhar" },
+    name: { de: "Samdrup Jongkhar", hu: "Samdrup Jongkhar", ro: "Samdrup Jongkhar", en: "Samdrup Jongkhar",
+image: "/poi-images/samdrup-jongkhar-cities-v2.webp"
+},
     description: {
       de: "Samdrup Jongkhar ist die wichtigste Stadt im Südosten Bhutans und dient als wichtiger Handelspunkt mit dem indischen Bundesstaat Assam.",
       hu: "Samdrup Jongkhar Délkelet-Bhután legfontosabb városa, amely kulcsfontosságú kereskedelmi pontként szolgál az indiai Asszám állammal.",
@@ -171,7 +181,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-24",
     coords: [89.9000, 27.4833],
-    name: { de: "Wangdue Phodrang", hu: "Wangdue Phodrang", ro: "Wangdue Phodrang", en: "Wangdue Phodrang" },
+    name: { de: "Wangdue Phodrang", hu: "Wangdue Phodrang", ro: "Wangdue Phodrang", en: "Wangdue Phodrang",
+image: "/poi-images/wangdue-phodrang-cities-v2.webp"
+},
     description: {
       de: "Wangdue Phodrang ist eine malerische Stadt, die um ihren großen historischen Dzong gebaut wurde, welcher eine wichtige Handelsroute kontrolliert.",
       hu: "Wangdue Phodrang egy festői város, amely a nagy történelmi dzongja köré épült, és fontos kereskedelmi útvonalat ellenőriz.",
@@ -204,7 +216,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-23",
     coords: [89.8667, 27.5833],
-    name: { de: "Punakha", hu: "Punakha", ro: "Punakha", en: "Punakha" },
+    name: { de: "Punakha", hu: "Punakha", ro: "Punakha", en: "Punakha",
+image: "/poi-images/punakha-cities-v2.webp"
+},
     description: {
       de: "Punakha war bis 1955 die Hauptstadt von Bhutan und ist berühmt für ihren majestätischen Dzong am Zusammenfluss zweier großer Flüsse.",
       hu: "Punakha 1955-ig Bhután fővárosa volt, és híres fenséges dzongjáról, amely két nagy folyó találkozásánál fekszik.",
@@ -237,7 +251,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-31",
     coords: [90.7500, 27.5500],
-    name: { de: "Jakar", hu: "Jakar", ro: "Jakar", en: "Jakar" },
+    name: { de: "Jakar", hu: "Jakar", ro: "Jakar", en: "Jakar",
+image: "/poi-images/jakar-cities-v2.webp"
+},
     description: {
       de: "Jakar, bekannt als das Zentrum der Region Bumthang, gilt als spirituelles Herzland Bhutans mit vielen alten Klöstern.",
       hu: "Jakar, a Bumthang régió központjaként ismert város, Bhután spirituális központjának számít, számos ősi kolostorral.",
@@ -270,7 +286,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-42",
     coords: [91.2500, 27.2833],
-    name: { de: "Mongar", hu: "Mongar", ro: "Mongar", en: "Mongar" },
+    name: { de: "Mongar", hu: "Mongar", ro: "Mongar", en: "Mongar",
+image: "/poi-images/mongar-cities-v2.webp"
+},
     description: {
       de: "Mongar ist eine wichtige Stadt im Osten Bhutans, die spektakulär auf der Seite eines Hügels statt in einem Tal liegt.",
       hu: "Mongar Kelet-Bhután egyik jelentős városa, amely látványosan egy domboldalra épült, a szokásos völgyi elhelyezkedés helyett.",
@@ -303,7 +321,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-41",
     coords: [91.5500, 27.3333],
-    name: { de: "Trashigang", hu: "Trashigang", ro: "Trashigang", en: "Trashigang" },
+    name: { de: "Trashigang", hu: "Trashigang", ro: "Trashigang", en: "Trashigang",
+image: "/poi-images/trashigang-cities-v2.webp"
+},
     description: {
       de: "Trashigang ist eine geschäftige Stadt im Osten, die traditionell das Zentrum des Handels mit Tibet war und über dem Drangme Chhu-Fluss thront.",
       hu: "Trashigang egy nyüzsgő város keleten, amely hagyományosan a Tibettel folytatott kereskedelem központja volt, és a Drangme Chhu folyó fölé magasodik.",
@@ -336,7 +356,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-32",
     coords: [90.5000, 27.5000],
-    name: { de: "Trongsa", hu: "Trongsa", ro: "Trongsa", en: "Trongsa" },
+    name: { de: "Trongsa", hu: "Trongsa", ro: "Trongsa", en: "Trongsa",
+image: "/poi-images/trongsa-cities-v2.webp"
+},
     description: {
       de: "Trongsa liegt geografisch im Zentrum Bhutans und war historisch von entscheidender Bedeutung für die Kontrolle des Königreichs.",
       hu: "Trongsa földrajzilag Bhután központjában fekszik, és történelmileg kulcsfontosságú volt a királyság feletti ellenőrzésben.",
@@ -369,7 +391,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-14",
     coords: [89.1000, 26.9000],
-    name: { de: "Samtse", hu: "Samtse", ro: "Samtse", en: "Samtse" },
+    name: { de: "Samtse", hu: "Samtse", ro: "Samtse", en: "Samtse",
+image: "/poi-images/samtse-cities-v2.webp"
+},
     description: {
       de: "Samtse ist eine grenznahe Industriestadt im Südwesten Bhutans mit einer vielfältigen Bevölkerung und reichen Mineralvorkommen.",
       hu: "Samtse egy határmenti iparváros Délnyugat-Bhutánban, amely sokszínű lakossággal és gazdag ásványkincs-lelőhelyekkel rendelkezik.",
@@ -402,7 +426,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-21",
     coords: [90.1167, 27.0167],
-    name: { de: "Damphu", hu: "Damphu", ro: "Damphu", en: "Damphu" },
+    name: { de: "Damphu", hu: "Damphu", ro: "Damphu", en: "Damphu",
+image: "/poi-images/damphu-cities-v2.webp"
+},
     description: {
       de: "Damphu ist das Verwaltungszentrum des Tsirang-Distrikts und berühmt für sein sanftes Klima und reiche landwirtschaftliche Erträge.",
       hu: "Damphu a Tsirang körzet közigazgatási központja, amely enyhe éghajlatáról és gazdag mezőgazdasági hozamairól híres.",
@@ -435,7 +461,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-13",
     coords: [89.2833, 27.3833],
-    name: { de: "Haa", hu: "Haa", ro: "Haa", en: "Haa" },
+    name: { de: "Haa", hu: "Haa", ro: "Haa", en: "Haa",
+image: "/poi-images/haa-cities-v2.webp"
+},
     description: {
       de: "Haa ist eine kleine, abgeschiedene Stadt im Westen Bhutans, eingebettet in ein tiefes Tal nahe der Grenze zu Tibet.",
       hu: "Haa egy kicsi, elzárt város Nyugat-Bhutánban, amely egy mély völgyben fekszik a tibeti határ közelében.",
@@ -468,7 +496,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-44",
     coords: [91.1667, 27.6667],
-    name: { de: "Lhuntse", hu: "Lhuntse", ro: "Lhuntse", en: "Lhuntse" },
+    name: { de: "Lhuntse", hu: "Lhuntse", ro: "Lhuntse", en: "Lhuntse",
+image: "/poi-images/lhuntse-cities-v2.webp"
+},
     description: {
       de: "Lhuntse ist eine abgelegene Siedlung im Nordosten Bhutans, die weithin für ihre exquisiten und komplexen Webkünste anerkannt ist.",
       hu: "Lhuntse egy elszigetelt település Északkelet-Bhutánban, amelyet széles körben elismernek lenyűgöző és bonyolult szövőművészetéért.",
@@ -501,7 +531,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-43",
     coords: [91.4333, 27.0333],
-    name: { de: "Pemagatshel", hu: "Pemagatshel", ro: "Pemagatshel", en: "Pemagatshel" },
+    name: { de: "Pemagatshel", hu: "Pemagatshel", ro: "Pemagatshel", en: "Pemagatshel",
+image: "/poi-images/pemagatshel-cities-v2.webp"
+},
     description: {
       de: "Pemagatshel, bekannt für seine religiöse Bedeutung und Kunsthandwerker, ist ein kleiner Ort auf einem steilen Bergrücken im Osten Bhutans.",
       hu: "A vallási jelentőségéről és kézműveseiről ismert Pemagatshel egy kis település, amely egy meredek hegygerincen található Kelet-Bhutánban.",
@@ -535,7 +567,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-35",
     coords: [90.6500, 27.2167],
-    name: { de: "Zhemgang", hu: "Zhemgang", ro: "Zhemgang", en: "Zhemgang" },
+    name: { de: "Zhemgang", hu: "Zhemgang", ro: "Zhemgang", en: "Zhemgang",
+image: "/poi-images/zhemgang-cities-v2.webp"
+},
     description: {
       de: "Zhemgang ist eine abgelegene Stadt in Zentralbhutan, die für ihre immense biologische Vielfalt und ihre tief verwurzelten animistischen Traditionen bekannt ist.",
       hu: "Zhemgang egy távoli város Közép-Bhutánban, amely hatalmas biológiai sokféleségéről és mélyen gyökerező animista hagyományairól ismert.",
@@ -568,7 +602,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-33",
     coords: [89.7167, 27.9000],
-    name: { de: "Gasa", hu: "Gasa", ro: "Gasa", en: "Gasa" },
+    name: { de: "Gasa", hu: "Gasa", ro: "Gasa", en: "Gasa",
+image: "/poi-images/gasa-cities-v2.webp"
+},
     description: {
       de: "Gasa ist die nördlichste und höchstgelegene Distrikthauptstadt Bhutans, die für ihre heilenden heißen Quellen und das harte Hochgebirgsklima berühmt ist.",
       hu: "Gasa Bhután legészakibb és legmagasabban fekvő körzetközpontja, amely gyógyító meleg vizű forrásairól és zord magashegyi éghajlatáról híres.",
@@ -601,7 +637,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-22",
     coords: [89.8667, 27.0667],
-    name: { de: "Daga", hu: "Daga", ro: "Daga", en: "Daga" },
+    name: { de: "Daga", hu: "Daga", ro: "Daga", en: "Daga",
+image: "/poi-images/daga-cities-v2.webp"
+},
     description: {
       de: "Daga, auch bekannt als Dagana, ist eine historische Festungsstadt, die im 17. Jahrhundert zur Verteidigung gegen feindliche Truppen gegründet wurde.",
       hu: "Daga, más néven Dagana, egy történelmi erődváros, amelyet a 17. században alapítottak az ellenséges csapatok elleni védekezés céljából.",
@@ -634,7 +672,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-43",
     coords: [91.2500, 26.8333],
-    name: { de: "Nganglam", hu: "Nganglam", ro: "Nganglam", en: "Nganglam" },
+    name: { de: "Nganglam", hu: "Nganglam", ro: "Nganglam", en: "Nganglam",
+image: "/poi-images/nganglam-cities-v2.webp"
+},
     description: {
       de: "Nganglam ist eine schnell wachsende Handelsstadt an der südlichen Grenze Bhutans, die von der Zementindustrie und neuen Verkehrsverbindungen angetrieben wird.",
       hu: "Nganglam egy gyorsan növekvő kereskedelmi város Bhután déli határánál, amelyet a cementipar és az új közlekedési kapcsolatok hajtanak.",
@@ -668,7 +708,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-34",
     coords: [90.2667, 26.8667],
-    name: { de: "Sarpang", hu: "Sarpang", ro: "Sarpang", en: "Sarpang" },
+    name: { de: "Sarpang", hu: "Sarpang", ro: "Sarpang", en: "Sarpang",
+image: "/poi-images/sarpang-cities-v2.webp"
+},
     description: {
       de: "Sarpang ist das Verwaltungszentrum des Sarpang-Distrikts und liegt am Rande der indischen Ebenen, umgeben von dichtem Dschungel.",
       hu: "Sarpang a Sarpang körzet közigazgatási központja, amely az indiai síkságok szélén fekszik, sűrű dzsungellel körülvéve.",
@@ -701,7 +743,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-12",
     coords: [89.5333, 27.0833],
-    name: { de: "Tsimasham", hu: "Tsimasham", ro: "Tsimasham", en: "Tsimasham" },
+    name: { de: "Tsimasham", hu: "Tsimasham", ro: "Tsimasham", en: "Tsimasham",
+image: "/poi-images/tsimasham-cities-v2.webp"
+},
     description: {
       de: "Tsimasham ist das Hauptquartier des Chukha-Distrikts und liegt strategisch günstig an der Hauptautobahn zwischen Thimphu und der indischen Grenze.",
       hu: "Tsimasham a Chukha körzet központja, amely stratégiai fekvésű a Thimphut és az indiai határt összekötő főútvonal mentén.",
@@ -734,7 +778,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-45",
     coords: [91.4667, 26.8667],
-    name: { de: "Deothang", hu: "Deothang", ro: "Deothang", en: "Deothang" },
+    name: { de: "Deothang", hu: "Deothang", ro: "Deothang", en: "Deothang",
+image: "/poi-images/deothang-cities-v2.webp"
+},
     description: {
       de: "Deothang ist eine malerische Stadt im Südosten Bhutans, die für ihre starke militärische Präsenz und Bildungseinrichtungen bekannt ist.",
       hu: "Deothang egy festői város Délkelet-Bhutánban, amely erős katonai jelenlétéről és oktatási intézményeiről ismert.",
@@ -768,7 +814,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-41",
     coords: [91.5167, 27.2667],
-    name: { de: "Kanglung", hu: "Kanglung", ro: "Kanglung", en: "Kanglung" },
+    name: { de: "Kanglung", hu: "Kanglung", ro: "Kanglung", en: "Kanglung",
+image: "/poi-images/kanglung-cities-v2.webp"
+},
     description: {
       de: "Kanglung ist eine bedeutende Bildungsstadt im Trashigang-Distrikt und beherbergt das renommierte Sherubtse College, das erste seiner Art in Bhutan.",
       hu: "Kanglung egy jelentős oktatási város a Trashigang körzetben, amely a híres Sherubtse College-nak, Bhután első főiskolájának ad otthont.",
@@ -801,7 +849,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-42",
     coords: [91.1833, 27.2667],
-    name: { de: "Gyalpozhing", hu: "Gyalpozhing", ro: "Gyalpozhing", en: "Gyalpozhing" },
+    name: { de: "Gyalpozhing", hu: "Gyalpozhing", ro: "Gyalpozhing", en: "Gyalpozhing",
+image: "/poi-images/gyalpozhing-cities-v2.webp"
+},
     description: {
       de: "Gyalpozhing ist eine warme Stadt im Osten Bhutans, die sich aufgrund des Baus des riesigen Kurichhu-Wasserkraftwerks schnell entwickelt hat.",
       hu: "Gyalpozhing egy meleg éghajlatú város Kelet-Bhutánban, amely a hatalmas Kurichhu vízerőmű építésének köszönhetően indult gyors fejlődésnek.",
@@ -835,7 +885,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-41",
     coords: [91.5667, 27.1333],
-    name: { de: "Wamrong", hu: "Wamrong", ro: "Wamrong", en: "Wamrong" },
+    name: { de: "Wamrong", hu: "Wamrong", ro: "Wamrong", en: "Wamrong",
+image: "/poi-images/wamrong-cities-v2.webp"
+},
     description: {
       de: "Wamrong ist eine malerische Siedlung auf einem Bergrücken, die eine wichtige Raststätte auf der langen Reise durch Ostbhutan bietet.",
       hu: "Wamrong egy festői hegygerincen fekvő település, amely fontos pihenőhelyként szolgál a Kelet-Bhutánon átívelő hosszú utazás során.",
@@ -868,7 +920,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-41",
     coords: [91.6667, 27.3500],
-    name: { de: "Rangjung", hu: "Rangjung", ro: "Rangjung", en: "Rangjung" },
+    name: { de: "Rangjung", hu: "Rangjung", ro: "Rangjung", en: "Rangjung",
+image: "/poi-images/rangjung-cities-v2.webp"
+},
     description: {
       de: "Rangjung ist eine lebendige Stadt im Radhi-Tal, die für ihr spektakuläres Kloster und als Zentrum der Webarbeit bekannt ist.",
       hu: "Rangjung egy élénk város a Radhi-völgyben, amely látványos kolostoráról és a szövőmesterség központjaként ismert.",
@@ -901,7 +955,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-23",
     coords: [89.8833, 27.5333],
-    name: { de: "Khuruthang", hu: "Khuruthang", ro: "Khuruthang", en: "Khuruthang" },
+    name: { de: "Khuruthang", hu: "Khuruthang", ro: "Khuruthang", en: "Khuruthang",
+image: "/poi-images/khuruthang-cities-v2.webp"
+},
     description: {
       de: "Khuruthang ist eine planmäßig angelegte Neustadt, die als Handelszentrum für den Punakha-Distrikt dient, etwas südlich des historischen Dzongs.",
       hu: "Khuruthang egy tervezett újváros, amely a Punakha körzet kereskedelmi központjaként szolgál, kissé délre a történelmi dzongtól.",
@@ -934,7 +990,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-46",
     coords: [91.5000, 27.6000],
-    name: { de: "Trashi Yangtse", hu: "Trashi Yangtse", ro: "Trashi Yangtse", en: "Trashi Yangtse" },
+    name: { de: "Trashi Yangtse", hu: "Trashi Yangtse", ro: "Trashi Yangtse", en: "Trashi Yangtse",
+image: "/poi-images/trashi-yangtse-cities-v2.webp"
+},
     description: {
       de: "Trashi Yangtse ist eine kleine, traditionelle Stadt im Nordosten Bhutans, die für ihre Holzarbeiten und Papiermacherei berühmt ist.",
       hu: "Trashi Yangtse egy kis, hagyományos város Északkelet-Bhutánban, amely famegmunkálásáról és papírkészítéséről híres.",
@@ -967,7 +1025,9 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     type: "city",
     parent: "BT-22",
     coords: [89.8167, 26.7167],
-    name: { de: "Lhamoizingkha", hu: "Lhamoizingkha", ro: "Lhamoizingkha", en: "Lhamoizingkha" },
+    name: { de: "Lhamoizingkha", hu: "Lhamoizingkha", ro: "Lhamoizingkha", en: "Lhamoizingkha",
+image: "/poi-images/lhamoizingkha-cities-v2.webp"
+},
     description: {
       de: "Lhamoizingkha ist eine subtropische Grenzstadt in Bhutan, die am Ufer des Sunkosh-Flusses in einem Gebiet mit üppiger Vegetation liegt.",
       hu: "Lhamoizingkha egy szubtrópusi határváros Bhutánban, amely a Sunkosh folyó partján fekszik egy dús növényzetű területen.",

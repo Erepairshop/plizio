@@ -1,4 +1,4 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBoliviaHistoryV2: POI[] = [
@@ -8,8 +8,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Tiwanaku war das spirituelle und politische Zentrum einer bedeutenden präkolumbianischen Zivilisation in den Anden.",
       hu: "Az egyik legfontosabb pre-inka régészeti lelőhely, amely több mint ezer évvel ezelőtt virágzott.",
       ro: "Tiwanaku este unul dintre cele mai importante situri arheologice precolumbiene din America de Sud, servind drept capitală a unui imperiu influent.",
-      en: "Ancient Pre-Columbian archaeological site near Lake Titicaca that served as a powerful spiritual center."
-    },
+      en: "Ancient Pre-Columbian archaeological site near Lake Titicaca that served as a powerful spiritual center.",
+image: "/poi-images/bo-tiwanaku-history-v2.webp"
+},
     facts: {
       de: ["UNESCO-Welterbe seit 2000", "Blütezeit zwischen 500 und 950 n. Chr.", "Bekannt für monumentale Steinarchitektur"],
       hu: ["Pre-inka kultúra", "Régészeti komplexum", "UNESCO Világörökség"],
@@ -43,8 +44,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Puma Punku ist ein Teil des Tiwanaku-Komplexes und berühmt für seine präzise bearbeiteten, massiven Steinblöcke.",
       hu: "A Tiwanaku-komplexum része, amely lenyűgöző kőfaragási technikájáról híres.",
       ro: "Puma Punku este un sub-complex al sitului Tiwanaku, faimos pentru blocurile sale de piatră incredibil de precise.",
-      en: "Complex within Tiwanaku famous for its massive and incredibly precise megalithic stone blocks."
-    },
+      en: "Complex within Tiwanaku famous for its massive and incredibly precise megalithic stone blocks.",
+image: "/poi-images/bo-puma-punku-history-v2.webp"
+},
     facts: {
       de: ["Steine wiegen bis zu 130 Tonnen", "Präzise rechteckige Schnitte", "Rätselhafte Bautechnik der Antike"],
       hu: ["Tiwanaku-rész", "Precíz kőfaragás", "Rejtélyes eredet"],
@@ -78,8 +80,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Die Akapana-Pyramide ist eines der größten Bauwerke in Tiwanaku und diente vermutlich als ritueller Ort.",
       hu: "Egy nagy mesterséges piramis, amely vallási központként szolgált Tiwanakuban.",
       ro: "Akapana este o structură mare în formă de piramidă terasată care a servit drept piesă centrală a complexului antic Tiwanaku.",
-      en: "Large stepped pyramid in Tiwanaku that was once a major ceremonial and religious structure."
-    },
+      en: "Large stepped pyramid in Tiwanaku that was once a major ceremonial and religious structure.",
+image: "/poi-images/bo-akapana-history-v2.webp"
+},
     facts: {
       de: ["Stufenpyramide mit sieben Ebenen", "Etwa 18 Meter hohe Struktur", "Komplexes internes Entwässerungssystem"],
       hu: ["Tiwanaku-piramis", "Vallási központ", "Mesterséges domb"],
@@ -113,8 +116,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Das Sonnentor ist ein monolithisches Portal in Tiwanaku, verziert mit komplexen ikonographischen Reliefs.",
       hu: "A híres Napkapu, egy monolitikus kőkapu, amely a tiwanakui kultúra ikonikus szimbóluma.",
       ro: "Poarta Soarelui (Puerta del Sol) este un arc monolitic de piatră și unul dintre cele mai emblematice simboluri ale artei precolumbiene.",
-      en: "The Gate of the Sun is a monolithic stone archway featuring mysterious and intricate carvings."
-    },
+      en: "The Gate of the Sun is a monolithic stone archway featuring mysterious and intricate carvings.",
+image: "/poi-images/bo-puerta-del-sol-history-v2.webp"
+},
     facts: {
       de: ["Aus einem einzigen Andesitblock gehauen", "Wiegt schätzungsweise 10 Tonnen", "Zeigt den sogenannten Stabgott"],
       hu: ["Monolitikus Napkapu", "Tiwanakui kultúra", "Ikonikus jelkép"],
@@ -148,8 +152,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kalasasaya ist ein großer, rechteckiger Tempelhof in Tiwanaku, der für astronomische Beobachtungen genutzt wurde.",
       hu: "A Tiwanaku-komplexum egyik legnagyobb, szertartási célokra használt központi udvara.",
       ro: "Kalasasaya este un complex de temple întins și ridicat în cadrul sitului Tiwanaku, adesea numit 'Templul Pietrelor în Picioare'.",
-      en: "Rectangular ceremonial courtyard in Tiwanaku designed for tracking the solar calendar."
-    },
+      en: "Rectangular ceremonial courtyard in Tiwanaku designed for tracking the solar calendar.",
+image: "/poi-images/bo-kalasasaya-history-v2.webp"
+},
     facts: {
       de: ["Umgeben von massiven Steinmauern", "Beherbergt die Ponce-Stele", "Präzise Ausrichtung auf Tagundnachtgleichen"],
       hu: ["Tiwanaku-udvar", "Szertartási hely", "Kőfalak"],
@@ -186,8 +191,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Bennett-Monolith",
       hu: "Bennett monolit",
       ro: "Monolitul Bennett",
-      en: "Bennett Monolith"
-    },
+      en: "Bennett Monolith",
+image: "/poi-images/bo-monolito-bennett-history-v2.webp"
+},
     description: {
       de: "Die größte Steinskulptur, die jemals in Tiwanaku gefunden wurde. Sie stellt eine hochrangige Figur mit zeremoniellen Objekten dar.",
       hu: "A Tiwanakuban valaha talált legnagyobb kőszobor, amely egy magas rangú alakot ábrázol szertartási tárgyakkal.",
@@ -259,8 +265,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Chincana-Ruinen",
       hu: "Chincana romok",
       ro: "Ruinele Chincana",
-      en: "Chincana Ruins"
-    },
+      en: "Chincana Ruins",
+image: "/poi-images/bo-chincana-history-v2.webp"
+},
     description: {
       de: "Die Chincana-Ruinen auf der Isla del Sol sind ein Labyrinth aus Gängen, das den Inka als heiliger Ort diente.",
       hu: "Kiterjedt inka-kori labirintus komplexum a Nap-szigeten (Isla del Sol), amely spirituális és rituális központként szolgált.",
@@ -317,8 +324,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Iñak Uyu",
       hu: "Iñak Uyu",
       ro: "Iñak Uyu",
-      en: "Iñak Uyu"
-    },
+      en: "Iñak Uyu",
+image: "/poi-images/bo-inak-uyu-history-v2.webp"
+},
     description: {
       de: "Ein Inka-Tempel auf der Isla de la Luna, der oft als Palast der Sonnenjungfrauen (Acllawasi) bezeichnet wird.",
       hu: "Inka templom a Hold-szigeten (Isla de la Luna), amelyet gyakran a Napszüzek Palotájának (Acllawasi) is neveznek.",
@@ -390,8 +398,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "El Fuerte de Samaipata",
       hu: "El Fuerte de Samaipata",
       ro: "El Fuerte de Samaipata",
-      en: "El Fuerte de Samaipata"
-    },
+      en: "El Fuerte de Samaipata",
+image: "/poi-images/bo-fuerte-samaipata-history-v2.webp"
+},
     description: {
       de: "Ein massiver Sandsteinfelsen, in den präinkaische und inkaische Kulturen detaillierte religiöse und astronomische Figuren ritzten.",
       hu: "Hatalmas homokkő szikla, amelybe inka előtti és inka kultúrák részletes vallási és csillagászati figurákat véstek.",
@@ -469,8 +478,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Incallajta",
       hu: "Incallajta",
       ro: "Incallajta",
-      en: "Incallajta"
-    },
+      en: "Incallajta",
+image: "/poi-images/bo-incallajta-history-v2.webp"
+},
     description: {
       de: "Incallajta war eine strategische Festung der Inka im Osten Boliviens zum Schutz gegen Angriffe aus dem Tiefland.",
       hu: "Az Inka Birodalom egyik legfontosabb keleti erődítménye és adminisztratív központja, amelyet az amazóniai törzsek elleni védelemre emeltek.",
@@ -522,8 +532,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Inka Rakay",
       hu: "Inka Rakay",
       ro: "Inka Rakay",
-      en: "Inka Rakay"
-    },
+      en: "Inka Rakay",
+image: "/poi-images/bo-inka-rakay-history-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte nahe Sipe Sipe, die einst als Inka-Verwaltungszentrum und als Beobachtungsposten diente.",
       hu: "Sipe Sipe melletti régészeti lelőhely, amely egykor inka közigazgatási központként és megfigyelőállomásként szolgált.",
@@ -595,8 +606,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kollqas von Cotapachi",
       hu: "Cotapachi magtárak",
       ro: "Grânarele din Cotapachi",
-      en: "Kollqas of Cotapachi"
-    },
+      en: "Kollqas of Cotapachi",
+image: "/poi-images/bo-cotapachi-history-v2.webp"
+},
     description: {
       de: "Ein massiver Inka-Speicherkomplex nahe Quillacollo, der dazu diente, Mais für das gesamte Inka-Reich zu lagern.",
       hu: "Hatalmas inka magtárkomplexum Quillacollo közelében, amely arra szolgált, hogy kukoricát tároljon az egész Inka Birodalom számára.",
@@ -669,8 +681,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Casa de la Moneda",
       hu: "Casa de la Moneda",
       ro: "Casa de la Moneda",
-      en: "Casa de la Moneda"
-    },
+      en: "Casa de la Moneda",
+image: "/poi-images/bo-casa-moneda-history-v2.webp"
+},
     description: {
       de: "Die alte königliche Münzprägeanstalt in Potosí, in der während der Kolonialzeit aus dem Silber des Cerro Rico Münzen für das spanische Reich geprägt wurden.",
       hu: "A régi királyi pénzverde Potosíban, ahol a gyarmati korszakban a Cerro Rico ezüstjéből vertek pénzt a Spanyol Birodalom számára.",
@@ -742,8 +755,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kloster Santa Teresa (Potosí)",
       hu: "Santa Teresa kolostor (Potosí)",
       ro: "Mănăstirea Santa Teresa (Potosí)",
-      en: "Convent of Santa Teresa (Potosí)"
-    },
+      en: "Convent of Santa Teresa (Potosí)",
+image: "/poi-images/bo-santa-teresa-potosi-history-v2.webp"
+},
     description: {
       de: "Ein historisches Karmeliterinnenkloster in Potosí aus dem Jahr 1685, das heute als Museum das strenge Leben der Nonnen zeigt.",
       hu: "Történelmi kármelita kolostor Potosíban 1685-ből, amely ma múzeumként mutatja be az apácák szigorú életét.",
@@ -815,8 +829,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kirche San Lorenzo de Carangas",
       hu: "San Lorenzo de Carangas templom",
       ro: "Biserica San Lorenzo de Carangas",
-      en: "Church of San Lorenzo de Carangas"
-    },
+      en: "Church of San Lorenzo de Carangas",
+image: "/poi-images/bo-san-lorenzo-carangas-history-v2.webp"
+},
     description: {
       de: "Eine wunderschöne Kirche in Potosí, berühmt für ihr kunstvoll geschnitztes Steinportal im Mestizen-Barockstil.",
       hu: "Gyönyörű templom Potosíban, amely a mesztic-barokk stílusú, művészien faragott kőportáljáról híres.",
@@ -888,8 +903,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kathedrale von Potosí",
       hu: "Potosí katedrális",
       ro: "Catedrala din Potosí",
-      en: "Cathedral of Potosí"
-    },
+      en: "Cathedral of Potosí",
+image: "/poi-images/bo-catedral-potosi-history-v2.webp"
+},
     description: {
       de: "Die wichtigste Kirche im Zentrum von Potosí, die mit ihrer prachtvollen neoklassizistischen Architektur den Reichtum der Silberstadt widerspiegelt.",
       hu: "A legfontosabb templom Potosí központjában, amely pompás neoklasszikus építészetével tükrözi az ezüstváros gazdagságát.",
@@ -958,8 +974,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Casa de la Libertad",
       hu: "Casa de la Libertad",
       ro: "Casa de la Libertad",
-      en: "Casa de la Libertad"
-    },
+      en: "Casa de la Libertad",
+image: "/poi-images/bo-casa-libertad-history-v2.webp"
+},
     description: {
       de: "Das bedeutendste historische Gebäude Boliviens in Sucre, in dem am 6. August 1825 die bolivianische Unabhängigkeitserklärung unterzeichnet wurde.",
       hu: "Bolívia legjelentősebb történelmi épülete Sucréban, ahol 1825. augusztus 6-án aláírták a bolíviai függetlenségi nyilatkozatot.",
@@ -1028,8 +1045,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kloster San Felipe Neri",
       hu: "San Felipe Neri kolostor",
       ro: "Mănăstirea San Felipe Neri",
-      en: "Convent of San Felipe Neri"
-    },
+      en: "Convent of San Felipe Neri",
+image: "/poi-images/bo-felipe-neri-sucre-history-v2.webp"
+},
     description: {
       de: "Ein wunderschönes Klostergebäude in Sucre, bekannt für sein gefliestes Dach, von dem aus man eine hervorragende Aussicht auf die 'Weiße Stadt' hat.",
       hu: "Egy gyönyörű kolostorépület Sucréban, amely cseréptetejéről ismert, ahonnan kiváló kilátás nyílik a 'Fehér Városra'.",
@@ -1098,8 +1116,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Schloss von La Glorieta",
       hu: "La Glorieta kastély",
       ro: "Castelul din La Glorieta",
-      en: "Castle of La Glorieta"
-    },
+      en: "Castle of La Glorieta",
+image: "/poi-images/bo-glorieta-history-v2.webp"
+},
     description: {
       de: "Ein exzentrisches, märchenhaftes Schloss nahe Sucre, das Ende des 19. Jahrhunderts erbaut wurde und eine eklektische Mischung verschiedenster Architekturstile aufweist.",
       hu: "Egy excentrikus, meseszerű kastély Sucre közelében, amelyet a 19. század végén építettek, és a legkülönfélébb építészeti stílusok eklektikus keverékét mutatja.",
@@ -1174,8 +1193,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Palacio Quemado",
       hu: "Palacio Quemado",
       ro: "Palacio Quemado",
-      en: "Palacio Quemado"
-    },
+      en: "Palacio Quemado",
+image: "/poi-images/bo-palacio-quemado-history-v2.webp"
+},
     description: {
       de: "Der Palacio Quemado ist der offizielle Regierungssitz Boliviens in La Paz, benannt nach einem Brand im Jahr 1875.",
       hu: "A 'Leégett Palota' Bolívia kormányzati székhelye La Pazban, amely nevét az 1875-ös felkelés során elszenvedett tűzvészről kapta.",
@@ -1224,8 +1244,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Basilika San Francisco",
       hu: "San Francisco Bazilika",
       ro: "Bazilica San Francisco",
-      en: "Basilica of San Francisco"
-    },
+      en: "Basilica of San Francisco",
+image: "/poi-images/bo-san-francisco-lapaz-history-v2.webp"
+},
     description: {
       de: "Eine monumentale katholische Kirche im Herzen von La Paz, die für ihre reich verzierte Steinfassade im andinen Barockstil bekannt ist.",
       hu: "Egy monumentális katolikus templom La Paz szívében, amely az andesi barokk stílusú, gazdagon díszített kőhomlokzatáról ismert.",
@@ -1294,8 +1315,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Kathedrale von La Paz",
       hu: "La Paz katedrális",
       ro: "Catedrala din La Paz",
-      en: "Cathedral of La Paz"
-    },
+      en: "Cathedral of La Paz",
+image: "/poi-images/bo-catedral-lapaz-history-v2.webp"
+},
     description: {
       de: "Eine imposante neoklassizistische Kathedrale an der Plaza Murillo, deren Bau sich über mehr als ein Jahrhundert erstreckte.",
       hu: "Impozáns neoklasszikus katedrális a Plaza Murillo téren, amelynek építése több mint egy évszázadig tartott.",
@@ -1364,8 +1386,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Basilika von Copacabana",
       hu: "Copacabana Bazilika",
       ro: "Bazilica din Copacabana",
-      en: "Basilica of Copacabana"
-    },
+      en: "Basilica of Copacabana",
+image: "/poi-images/bo-basilica-copacabana-history-v2.webp"
+},
     description: {
       de: "Ein wichtiger religiöser Wallfahrtsort am Ufer des Titicacasees, in dem die berühmte Statue der Jungfrau von Copacabana aufbewahrt wird.",
       hu: "Fontos vallási zarándokhely a Titicaca-tó partján, ahol a híres Copacabanai Szűzanya szobrát őrzik.",
@@ -1434,8 +1457,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Jesuitenmission San Javier",
       hu: "San Javier jezsuita misszió",
       ro: "Misiunea iezuită San Javier",
-      en: "San Javier Jesuit Mission"
-    },
+      en: "San Javier Jesuit Mission",
+image: "/poi-images/bo-san-javier-history-v2.webp"
+},
     description: {
       de: "Die älteste der Jesuitenmissionen der Chiquitos, bekannt für ihre wunderschöne Holzkirche und ihre reiche musikalische Tradition.",
       hu: "A Chiquitos jezsuita missziók közül a legrégebbi, amely gyönyörű fatemplomáról és gazdag zenei hagyományáról ismert.",
@@ -1504,8 +1528,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Jesuitenmission Santa Ana de Velasco",
       hu: "Santa Ana de Velasco jezsuita misszió",
       ro: "Misiunea iezuită Santa Ana de Velasco",
-      en: "Santa Ana de Velasco Jesuit Mission"
-    },
+      en: "Santa Ana de Velasco Jesuit Mission",
+image: "/poi-images/bo-santa-ana-velasco-history-v2.webp"
+},
     description: {
       de: "Eine der charmantesten Jesuitenmissionen Boliviens, deren Bau von der indigenen Bevölkerung nach der Vertreibung der Jesuiten beendet wurde.",
       hu: "Bolívia egyik legbájosabb jezsuita missziója, amelynek építését az őslakosok fejezték be a jezsuiták kiűzése után.",
@@ -1574,8 +1599,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Jesuitenmission San Miguel de Velasco",
       hu: "San Miguel de Velasco jezsuita misszió",
       ro: "Misiunea iezuită San Miguel de Velasco",
-      en: "San Miguel de Velasco Jesuit Mission"
-    },
+      en: "San Miguel de Velasco Jesuit Mission",
+image: "/poi-images/bo-san-miguel-velasco-history-v2.webp"
+},
     description: {
       de: "San Miguel de Velasco ist eine der am besten erhaltenen Jesuitenmissionen in der Region Chiquitania.",
       hu: "Történelmi misszió lenyűgöző aranyozott oltárral, amely mély bepillantást nyújt a jezsuiták és a chiquitano emberek kézműves képességeibe.",
@@ -1640,8 +1666,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Jesuitenmission San Rafael de Velasco",
       hu: "San Rafael de Velasco jezsuita misszió",
       ro: "Misiunea iezuită San Rafael de Velasco",
-      en: "San Rafael de Velasco Jesuit Mission"
-    },
+      en: "San Rafael de Velasco Jesuit Mission",
+image: "/poi-images/bo-san-rafael-velasco-history-v2.webp"
+},
     description: {
       de: "Diese Mission zeichnet sich durch ihr riesiges Glimmerfenster aus und war die zweite Siedlung, die von den Jesuiten in der Chiquitania gegründet wurde.",
       hu: "Ez a misszió hatalmas csillámablakával tűnik ki, és ez volt a jezsuiták által alapított második település Chiquitaniában.",
@@ -1710,8 +1737,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Santuario del Socavón",
       hu: "Santuario del Socavón",
       ro: "Santuario del Socavón",
-      en: "Santuario del Socavón"
-    },
+      en: "Santuario del Socavón",
+image: "/poi-images/bo-socavon-history-v2.webp"
+},
     description: {
       de: "Eine wichtige Wallfahrtskirche in Oruro, die tief mit der lokalen Bergbaukultur verbunden ist und das Zentrum des berühmten Karnevals bildet.",
       hu: "Fontos zarándoktemplom Oruróban, amely mélyen kötődik a helyi bányászkultúrához, és a híres karnevál központját alkotja.",
@@ -1780,8 +1808,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Denkmal der Heldinnen der Coronilla",
       hu: "A Coronilla hősnőinek emlékműve",
       ro: "Monumentul Eroinelor din Coronilla",
-      en: "Monument to the Heroines of Coronilla"
-    },
+      en: "Monument to the Heroines of Coronilla",
+image: "/poi-images/bo-heroinas-coronilla-history-v2.webp"
+},
     description: {
       de: "Ein historisches Denkmal auf dem San-Sebastián-Hügel in Cochabamba, das die tapferen Frauen ehrt, die während des Unabhängigkeitskrieges gegen spanische Truppen kämpften.",
       hu: "Történelmi emlékmű Cochabambában, a San Sebastián dombon, amely azokat a bátor nőket tiszteli, akik a függetlenségi háború alatt harcoltak a spanyol csapatok ellen.",
@@ -1850,8 +1879,9 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       de: "Palacio Portales",
       hu: "Palacio Portales",
       ro: "Palacio Portales",
-      en: "Palacio Portales"
-    },
+      en: "Palacio Portales",
+image: "/poi-images/bo-palacio-portales-history-v2.webp"
+},
     description: {
       de: "Ein prächtiges europäisch inspiriertes Herrenhaus in Cochabamba, erbaut vom Zinnbaron Simón I. Patiño, das heute ein wichtiges Kulturzentrum ist.",
       hu: "Cochabamba pompás, európai ihletésű kúriája, amelyet az ónbáró, Simón I. Patiño építtetett, ma fontos kulturális központ.",

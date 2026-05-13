@@ -4,7 +4,9 @@ export const lithuaniaEconomicV2: POI[] = [
   {
     id: "lithuania-klaipeda-port-economic-v2",
     type: "port",
-    name: { de: "Hafen von Klaipėda", hu: "Klaipėdai kikötő", ro: "Portul Klaipėda", en: "Port of Klaipėda" },
+    name: { de: "Hafen von Klaipėda", hu: "Klaipėdai kikötő", ro: "Portul Klaipėda", en: "Port of Klaipėda",
+image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"
+},
     coords: [21.1322, 55.7058],
     coordinates: { lat: 55.7058, lng: 21.1322 },
     description: {
@@ -19,11 +21,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cel mai nordic port fără gheață de la Marea Baltică", "Trafic anual de peste 40 de milioane de tone", "Cel mai important angajator din regiune", "Centru pentru construcții și reparații navale"],
       en: ["Northernmost ice-free port on the Baltic Sea", "Annual turnover of over 40 million tons", "Most important employer in the region", "Center for shipbuilding and repair"],
     },
-    imageHint: "Klaipeda port cranes and container terminal", image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"},
+    imageHint: "Klaipeda port cranes and container terminal",
+    image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"},
   {
     id: "lithuania-orlen-lietuva-economic-v2",
     type: "factory",
-    name: { de: "ORLEN Lietuva Ölraffinerie", hu: "ORLEN Lietuva olajfinomító", ro: "Rafinăria ORLEN Lietuva", en: "ORLEN Lietuva Oil Refinery" },
+    name: { de: "ORLEN Lietuva Ölraffinerie", hu: "ORLEN Lietuva olajfinomító", ro: "Rafinăria ORLEN Lietuva", en: "ORLEN Lietuva Oil Refinery",
+image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"
+},
     coords: [22.1722, 56.3911],
     coordinates: { lat: 56.3911, lng: 22.1722 },
     description: {
@@ -38,11 +43,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cel mai mare contribuabil din Lituania", "Procesează milioane de tone de țiței pe an", "Fondată în anul 1980", "Exportă produse în întreaga regiune a Mării Baltice"],
       en: ["Largest taxpayer in Lithuania", "Processes millions of tons of crude oil per year", "Founded in 1980", "Exports products across the Baltic region"],
     },
-    imageHint: "Mazeikiai oil refinery industrial landscape", image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"},
+    imageHint: "Mazeikiai oil refinery industrial landscape",
+    image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"},
   {
     id: "lithuania-achema-jonava-economic-v2",
     type: "factory",
-    name: { de: "Achema Düngemittelwerk", hu: "Achema műtrágyagyár", ro: "Fabrica de îngrășăminte Achema", en: "Achema Fertilizer Plant" },
+    name: { de: "Achema Düngemittelwerk", hu: "Achema műtrágyagyár", ro: "Fabrica de îngrășăminte Achema", en: "Achema Fertilizer Plant",
+image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"
+},
     coords: [24.3167, 55.0847],
     coordinates: { lat: 55.0847, lng: 24.3167 },
     description: {
@@ -57,11 +65,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1965", "Produce amoniac și îngrășăminte", "Cea mai mare companie din orașul Jonava", "Deține propria centrală electrică"],
       en: ["Founded in 1965", "Produces ammonia and fertilizers", "Largest company in the city of Jonava", "Operates its own power plant"],
     },
-    imageHint: "Achema factory industrial chimneys", image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"},
+    imageHint: "Achema factory industrial chimneys",
+    image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"},
   {
     id: "lithuania-lifosa-kedainiai-economic-v2",
     type: "factory",
-    name: { de: "Lifosa Phosphatwerk", hu: "Lifosa foszfátgyár", ro: "Fabrica de fosfați Lifosa", en: "Lifosa Phosphate Plant" },
+    name: { de: "Lifosa Phosphatwerk", hu: "Lifosa foszfátgyár", ro: "Fabrica de fosfați Lifosa", en: "Lifosa Phosphate Plant",
+image: "/poi-images/lithuania-lifosa-kedainiai-economic-v2.webp"
+},
     coords: [23.9783, 55.2631],
     coordinates: { lat: 55.2631, lng: 23.9783 },
     description: {
@@ -77,11 +88,25 @@ export const lithuaniaEconomicV2: POI[] = [
       en: ["Specializes in diammonium phosphate (DAP)", "Known for its white phosphogypsum mountains", "Major player in the Lithuanian export sector", "Founded in 1963"],
     },
     imageHint: "Lifosa factory and phosphogypsum mountains",
+    descriptionAdvanced: {
+      de: "Das Lifosa Phosphatwerk in Kėdainiai ist ein Paradebeispiel für die litauische Schwerindustrie und hat sich als einer der führenden europäischen Produzenten von Phosphatdüngern etabliert. Seit seiner Gründung in den frühen 1960er Jahren ist das Unternehmen stetig gewachsen und produziert heute hauptsächlich Diammoniumphosphat (DAP), das auf landwirtschaftlichen Märkten weltweit stark nachgefragt wird. Der Produktionsprozess in Lifosa ist hochgradig integriert, wobei ein beträchtlicher Teil des benötigten Stroms aus der Abwärme der Schwefelsäureproduktion gewonnen wird, was die Energieeffizienz der Anlage drastisch erhöht. Ein charakteristisches, wenn auch umstrittenes Merkmal der Fabrik sind die sogenannten \"Alpen von Kėdainiai\" – gewaltige weiße Berge aus Phosphorgips, einem Nebenprodukt der Düngemittelherstellung, die die Landschaft prägen. Das Unternehmen exportiert den Großteil seiner Erzeugnisse über den Hafen von Klaipėda und trägt somit erheblich zur litauischen Handelsbilanz bei.",
+      hu: "A kėdainiai Lifosa foszfátgyár a litván nehézipar egyik kiemelkedő példája, amely a foszfátműtrágyák egyik vezető európai gyártójaként vetette meg a lábát. Az 1960-as évekbeli alapítása óta a vállalat folyamatosan növekedett, és ma már elsősorban diammónium-foszfátot (DAP) állít elő, amely iránt világszerte nagy a kereslet a mezőgazdasági piacokon. A Lifosa termelési folyamata nagymértékben integrált, a szükséges villamos energia jelentős részét a kénsavgyártás hulladékhőjéből nyerik, ami drasztikusan növeli az üzem energiahatékonyságát. A gyár jellegzetes, bár vitatott jellemzői a \"kėdainiai Alpok\" – a tájat meghatározó hatalmas fehér hegyek, amelyek a műtrágyagyártás melléktermékéből, a foszforgipszből állnak. A vállalat termékeinek nagy részét a klaipėdai kikötőn keresztül exportálja, ezzel jelentősen hozzájárulva a litván kereskedelmi mérleghez.",
+      ro: "Fabrica de fosfați Lifosa din Kėdainiai este un exemplu reprezentativ pentru industria grea lituaniană și s-a impus ca unul dintre cei mai importanți producători europeni de îngrășăminte cu fosfați. De la înființarea sa la începutul anilor 1960, compania a crescut constant și produce astăzi în principal fosfat de diamoniu (DAP), care este foarte solicitat pe piețele agricole din întreaga lume. Procesul de producție de la Lifosa este puternic integrat, o mare parte din energia electrică necesară fiind obținută din căldura reziduală a producției de acid sulfuric, ceea ce crește drastic eficiența energetică a instalației. O caracteristică distinctivă, deși controversată, a fabricii sunt așa-numiții \"Alpi de la Kėdainiai\" – munți uriași albi de fosfogips, un produs secundar al producției de îngrășăminte, care domină peisajul. Compania își exportă cea mai mare parte a produselor prin portul Klaipėda, contribuind astfel semnificativ la balanța comercială a Lituaniei.",
+      en: "The Lifosa phosphate plant in Kėdainiai is a prime example of Lithuanian heavy industry and has established itself as one of the leading European producers of phosphate fertilizers. Since its founding in the early 1960s, the company has grown steadily and now primarily produces diammonium phosphate (DAP), which is highly sought after in agricultural markets worldwide. The production process at Lifosa is highly integrated, with a significant portion of the required electricity being generated from the waste heat of sulfuric acid production, drastically increasing the facility's energy efficiency. A distinctive, albeit controversial, feature of the factory are the so-called \"Alps of Kėdainiai\" – massive white mountains of phosphogypsum, a byproduct of fertilizer manufacturing, that define the landscape. The company exports the vast majority of its products through the Port of Klaipėda, thereby making a substantial contribution to Lithuania's trade balance."
+    },
+    factsAdvanced: {
+      de: ["Gehört zu den größten DAP-Düngemittelherstellern in Europa", "Die Abwärme der Schwefelsäureanlage erzeugt 250 Millionen kWh Strom", "Über 90 Prozent der Jahresproduktion gehen in den Export", "Die charakteristischen weißen Berge sind über 60 Meter hoch", "Zertifiziert nach ISO-Standards für Umwelt und Qualität", "Wichtiger Sponsor für Sport- und Kulturveranstaltungen in Kėdainiai"],
+      hu: ["Európa legnagyobb DAP-műtrágyagyártói közé tartozik", "A kénsavüzem hulladékhője 250 millió kWh áramot termel", "Az éves termelés több mint 90 százaléka exportra kerül", "A jellegzetes fehér hegyek több mint 60 méter magasak", "Környezetvédelmi és minőségi ISO-szabványok szerint tanúsított", "Kėdainiai sport- és kulturális rendezvényeinek fontos támogatója"],
+      ro: ["Printre cei mai mari producători de îngrășăminte DAP din Europa", "Căldura reziduală a instalației de acid sulfuric produce 250 de milioane de kWh", "Peste 90% din producția anuală merge la export", "Munții albi caracteristici au peste 60 de metri înălțime", "Certificată conform standardelor ISO pentru mediu și calitate", "Sponsor important pentru evenimente sportive și culturale din Kėdainiai"],
+      en: ["One of the largest DAP fertilizer producers in Europe", "Waste heat from the sulfuric acid plant generates 250 million kWh of power", "Over 90 percent of annual production is exported", "The characteristic white mountains are over 60 meters high", "Certified according to ISO standards for environment and quality", "Important sponsor for sports and cultural events in Kėdainiai"]
+    }
   },
   {
     id: "lithuania-kruonis-pumped-storage-economic-v2",
     type: "industry",
-    name: { de: "Pumpspeicherkraftwerk Kruonis", hu: "Kruonisi szivattyús-tározós erőmű", ro: "Centrala prin pompare Kruonis", en: "Kruonis Pumped Storage Plant" },
+    name: { de: "Pumpspeicherkraftwerk Kruonis", hu: "Kruonisi szivattyús-tározós erőmű", ro: "Centrala prin pompare Kruonis", en: "Kruonis Pumped Storage Plant",
+image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"
+},
     coords: [24.25, 54.8],
     coordinates: { lat: 54.8, lng: 24.25 },
     description: {
@@ -96,11 +121,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Putere instalată de 900 MW", "Rezervorul superior se află la 100 de metri deasupra mării Kaunas", "Construcția a început în anul 1978", "Permite integrarea energiilor regenerabile"],
       en: ["Installed capacity of 900 MW", "Upper reservoir is 100 meters above the Kaunas Lagoon", "Construction began in 1978", "Enables the integration of renewable energy sources"],
     },
-    imageHint: "Kruonis pumped storage power plant aerial view", image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"},
+    imageHint: "Kruonis pumped storage power plant aerial view",
+    image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"},
   {
     id: "lithuania-ignalina-nuclear-plant-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Ignalina", hu: "Ignalinai atomerőmű", ro: "Centrala Nucleară Ignalina", en: "Ignalina Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Ignalina", hu: "Ignalinai atomerőmű", ro: "Centrala Nucleară Ignalina", en: "Ignalina Nuclear Power Plant",
+image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"
+},
     coords: [26.5911, 55.6033],
     coordinates: { lat: 55.6033, lng: 26.5911 },
     description: {
@@ -115,11 +143,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["A utilizat reactoare de tip RBMK (similare cu Cernobîl)", "Ultimul reactor a fost oprit în 2009", "Situată lângă orașul Visaginas", "Dezafectarea este planificată să se încheie până în 2038"],
       en: ["Used RBMK-type reactors (similar to Chernobyl)", "The last reactor was shut down in 2009", "Located near the city of Visaginas", "Decommissioning is expected to be completed by 2038"],
     },
-    imageHint: "Ignalina nuclear power plant building", image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"},
+    imageHint: "Ignalina nuclear power plant building",
+    image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"},
   {
     id: "lithuania-kaunas-fez-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Kaunas", hu: "Kaunasi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Kaunas", en: "Kaunas Free Economic Zone" },
+    name: { de: "Freie Wirtschaftszone Kaunas", hu: "Kaunasi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Kaunas", en: "Kaunas Free Economic Zone",
+image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"
+},
     coords: [24.0583, 54.9547],
     coordinates: { lat: 54.9547, lng: 24.0583 },
     description: {
@@ -134,11 +165,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Găzduiește companii precum Continental și Hella", "Se întinde pe o suprafață de 534 de hectare", "Fondată în anul 1996", "Locație strategică lângă aeroportul din Kaunas"],
       en: ["Home to companies like Continental and Hella", "Covers an area of 534 hectares", "Established in 1996", "Strategically located next to Kaunas Airport"],
     },
-    imageHint: "Modern industrial buildings in Kaunas FEZ", image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"},
+    imageHint: "Modern industrial buildings in Kaunas FEZ",
+    image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"},
   {
     id: "lithuania-vilnius-cbd-economic-v2",
     type: "landmark",
-    name: { de: "Geschäftsviertel Vilnius", hu: "Vilniusi üzleti negyed", ro: "Cartierul de afaceri din Vilnius", en: "Vilnius Business District" },
+    name: { de: "Geschäftsviertel Vilnius", hu: "Vilniusi üzleti negyed", ro: "Cartierul de afaceri din Vilnius", en: "Vilnius Business District",
+image: "/poi-images/lithuania-vilnius-cbd-economic-v2.webp"
+},
     coords: [25.2767, 54.6933],
     coordinates: { lat: 54.6933, lng: 25.2767 },
     description: {
@@ -154,11 +188,25 @@ export const lithuaniaEconomicV2: POI[] = [
       en: ["Highest building is the Europa Tower", "Center of the Lithuanian fintech industry", "Modern contrast to the historical Old Town", "Houses the Vilnius City Municipality"],
     },
     imageHint: "Vilnius skyscrapers and Europa Tower at sunset",
+    descriptionAdvanced: {
+      de: "Das Geschäftsviertel von Vilnius (CBD) am rechten Ufer des Flusses Neris ist das unbestrittene Epizentrum des litauischen Finanzwesens und der modernen Dienstleistungsbranche. Diese hochmoderne Skyline aus Glas und Stahl bildet einen bewussten und markanten Kontrast zur gegenüberliegenden, zum UNESCO-Weltkulturerbe zählenden Altstadt. Das Viertel hat sich in den letzten zwei Jahrzehnten rasant entwickelt und beherbergt heute die Hauptsitze der größten inländischen und skandinavischen Banken, internationale Anwaltskanzleien, Unternehmensberatungen und unzählige Technologie-Startups. Insbesondere die litauische Fintech-Branche, die zu den am schnellsten wachsenden in Europa zählt, hat hier ihr zentrales Hub gefunden. Die Architektur der Gebäude ist auf Nachhaltigkeit und Energieeffizienz ausgelegt, und das gesamte Viertel ist darauf ausgerichtet, eine produktive und gleichzeitig urbane Lebensqualität für tausende von Fachkräften zu bieten, ergänzt durch hochwertige Gastronomie und öffentliche Plätze.",
+      hu: "A vilniusi üzleti negyed (CBD) a Neris-folyó jobb partján a litván pénzügyek és a modern szolgáltató szektor vitathatatlan központja. Ez a rendkívül modern, üvegből és acélból épült városkép tudatos és feltűnő kontrasztot alkot a szemközti, az UNESCO világörökség részét képező történelmi óvárossal. A negyed az elmúlt két évtizedben rohamosan fejlődött, és ma a legnagyobb hazai és skandináv bankok, nemzetközi ügyvédi irodák, vezetési tanácsadók és számtalan technológiai startup központjának ad otthont. Különösen a litván fintech szektor, amely Európa egyik leggyorsabban növekvő ágazata, találta meg itt a központját. Az épületek architektúráját a fenntarthatóságra és az energiahatékonyságra tervezték, és az egész negyed arra fókuszál, hogy produktív, ugyanakkor urbánus életminőséget kínáljon több ezer szakember számára, magas színvonalú gasztronómiával és közösségi terekkel kiegészítve.",
+      ro: "Cartierul de afaceri din Vilnius (CBD) de pe malul drept al râului Neris este epicentrul incontestabil al finanțelor lituaniene și al industriei moderne a serviciilor. Acest orizont ultramodern din sticlă și oțel formează un contrast conștient și izbitor cu centrul vechi istoric situat pe malul opus, inclus în Patrimoniul Mondial UNESCO. Cartierul s-a dezvoltat rapid în ultimele două decenii și găzduiește astăzi sediile celor mai mari bănci interne și scandinave, firme internaționale de avocatură, consultanți în management și nenumărate startup-uri tehnologice. În special industria fintech lituaniană, care este una dintre cele mai cu creștere rapidă din Europa, și-a găsit aici hub-ul central. Arhitectura clădirilor este axată pe durabilitate și eficiență energetică, iar întregul cartier este conceput pentru a oferi o calitate a vieții productivă și în același timp urbană pentru mii de specialiști, completată de gastronomie de înaltă calitate și spații publice.",
+      en: "The Vilnius Central Business District (CBD) on the right bank of the Neris River is the undisputed epicenter of Lithuanian finance and the modern service industry. This ultramodern skyline of glass and steel forms a deliberate and striking contrast to the UNESCO World Heritage-listed historic Old Town on the opposite side. The district has developed rapidly over the past two decades and today houses the headquarters of the largest domestic and Scandinavian banks, international law firms, management consultancies, and countless technology startups. In particular, the Lithuanian fintech sector, which is among the fastest-growing in Europe, has found its central hub here. The architecture of the buildings is focused on sustainability and energy efficiency, and the entire district is designed to provide a productive yet urban quality of life for thousands of professionals, complemented by high-quality dining and public spaces."
+    },
+    factsAdvanced: {
+      de: ["Der Europa Tower ist mit 148 Metern das höchste Gebäude im Baltikum", "Der Bau des Viertels begann intensiv in den frühen 2000er Jahren", "Zentrum für über 200 Fintech-Unternehmen", "Das Swedbank-Gebäude verfügt über eine große öffentliche Dachterrasse", "Verfügt über ein eigenes intelligentes Parkleitsystem", "Konstitutions-Prospekt (Konstitucijos prospektas) ist die Hauptverkehrsader"],
+      hu: ["Az Europa Tower a maga 148 méterével a Baltikum legmagasabb épülete", "A negyed építése a 2000-es évek elején vett lendületet", "Több mint 200 fintech vállalat központja", "A Swedbank épülete nagy nyilvános tetőterasszal rendelkezik", "Saját intelligens parkolásirányító rendszerrel van felszerelve", "A Konstitúció sugárút (Konstitucijos prospektas) a negyed fő ütőere"],
+      ro: ["Turnul Europa, cu cei 148 de metri ai săi, este cea mai înaltă clădire din țările baltice", "Construcția cartierului a început intens la începutul anilor 2000", "Centru pentru peste 200 de companii fintech", "Clădirea Swedbank are o mare terasă publică pe acoperiș", "Dispune de un sistem inteligent propriu de ghidare pentru parcări", "Bulevardul Constituției (Konstitucijos prospektas) este artera principală"],
+      en: ["The Europa Tower is the tallest building in the Baltics at 148 meters", "Construction of the district accelerated in the early 2000s", "Hub for over 200 fintech companies", "The Swedbank building features a large public rooftop terrace", "Equipped with its own intelligent parking guidance system", "Constitution Avenue (Konstitucijos prospektas) is the main thoroughfare"]
+    }
   },
   {
     id: "lithuania-akropolis-vilnius-economic-v2",
     type: "landmark",
-    name: { de: "Akropolis Vilnius", hu: "Vilniusi Akropolis", ro: "Akropolis Vilnius", en: "Akropolis Vilnius" },
+    name: { de: "Akropolis Vilnius", hu: "Vilniusi Akropolis", ro: "Akropolis Vilnius", en: "Akropolis Vilnius",
+image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"
+},
     coords: [25.26, 54.7111],
     coordinates: { lat: 54.7111, lng: 25.26 },
     description: {
@@ -173,11 +221,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Deschis în anul 2002", "Include un patinoar și cinematografe", "Cel mai mare centru comercial din Baltice la momentul construcției", "Atrage anual milioane de vizitatori"],
       en: ["Opened in 2002", "Includes an ice rink and cinemas", "Largest mall in the Baltics at the time of construction", "Attracts millions of visitors annually"],
     },
-    imageHint: "Akropolis shopping center exterior Vilnius", image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"},
+    imageHint: "Akropolis shopping center exterior Vilnius",
+    image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"},
   {
     id: "lithuania-siauliai-industrial-park-economic-v2",
     type: "industry",
-    name: { de: "Industriepark Šiauliai", hu: "Šiauliai Ipari Park", ro: "Parcul Industrial Šiauliai", en: "Šiauliai Industrial Park" },
+    name: { de: "Industriepark Šiauliai", hu: "Šiauliai Ipari Park", ro: "Parcul Industrial Šiauliai", en: "Šiauliai Industrial Park",
+image: "/poi-images/lithuania-siauliai-industrial-park-economic-v2.webp"
+},
     coords: [23.31, 55.9011],
     coordinates: { lat: 55.9011, lng: 23.31 },
     description: {
@@ -193,11 +244,25 @@ export const lithuaniaEconomicV2: POI[] = [
       en: ["Conveniently located near the A12 highway", "Focuses on innovation and export", "Offers fully serviced plots for investors", "A major driver of regional employment"],
     },
     imageHint: "Modern factory buildings in Siauliai industrial zone",
+    descriptionAdvanced: {
+      de: "Der Industriepark Šiauliai spielt eine zentrale Rolle bei der wirtschaftlichen Wiederbelebung und industriellen Modernisierung Nordlitauens. Einst ein Zentrum der sowjetischen Elektronikindustrie, hat sich Šiauliai erfolgreich umstrukturiert und diesen modernen Park geschaffen, um in- und ausländische Investoren anzuziehen. Der Park profitiert enorm von seiner strategischen Lage, die eine einfache Anbindung an die Via Baltica, das europäische Schienennetz und den internationalen Flughafen Šiauliai bietet, was die Logistik für Exportunternehmen stark vereinfacht. Die Branchen im Park sind vielfältig, wobei die Herstellung von Möbeln, Metallverarbeitung, Kunststoffproduktion und Logistikdienstleistungen die stärksten Säulen bilden. Die Stadtverwaltung hat massiv in die Vorbereitung der Grundstücke investiert, um Investoren eine \"Plug-and-Play\"-Infrastruktur mit allen notwendigen Versorgungsleitungen zu bieten. Dies hat den Park zu einem der wichtigsten Motoren für die Schaffung von Arbeitsplätzen in der Region gemacht.",
+      hu: "A Šiauliai Ipari Park központi szerepet játszik Észak-Litvánia gazdasági fellendítésében és ipari modernizációjában. Egykor a szovjet elektronikai ipar központjaként ismert Šiauliai sikeresen átalakult, és létrehozta ezt a modern parkot, hogy vonzza a hazai és külföldi befektetőket. A park hatalmas előnyt kovácsol stratégiai elhelyezkedéséből, amely könnyű csatlakozást biztosít a Via Baltica útvonalhoz, az európai vasúthálózathoz és a Šiauliai Nemzetközi Repülőtérhez, ami nagymértékben leegyszerűsíti az exportorientált vállalatok logisztikáját. A parkban működő iparágak rendkívül változatosak, a bútorgyártás, a fémfeldolgozás, a műanyaggyártás és a logisztikai szolgáltatások alkotják a legerősebb pilléreket. Az önkormányzat jelentős összegeket fektetett be a telkek előkészítésébe, hogy a befektetőknek olyan \"Plug-and-Play\" infrastruktúrát kínáljon, amely minden szükséges közművel rendelkezik. Mindez a régió munkahelyteremtésének egyik legfontosabb motorjává tette a parkot.",
+      ro: "Parcul Industrial Šiauliai joacă un rol central în revitalizarea economică și modernizarea industrială a nordului Lituaniei. Cândva un centru al industriei electronice sovietice, Šiauliai s-a restructurat cu succes și a creat acest parc modern pentru a atrage investitori interni și străini. Parcul beneficiază enorm de locația sa strategică, care oferă o conexiune facilă la Via Baltica, rețeaua feroviară europeană și Aeroportul Internațional Šiauliai, simplificând mult logistica pentru companiile exportatoare. Industriile din parc sunt diverse, producția de mobilă, prelucrarea metalelor, producția de mase plastice și serviciile logistice fiind cei mai puternici piloni. Administrația orașului a investit masiv în pregătirea terenurilor pentru a oferi investitorilor o infrastructură „plug-and-play” cu toate utilitățile necesare. Acest lucru a transformat parcul într-unul dintre cele mai importante motoare pentru crearea de locuri de muncă din regiune.",
+      en: "The Šiauliai Industrial Park plays a central role in the economic revitalization and industrial modernization of northern Lithuania. Once a center of the Soviet electronics industry, Šiauliai successfully restructured and created this modern park to attract domestic and foreign investors. The park benefits enormously from its strategic location, offering easy connection to the Via Baltica highway, the European rail network, and the Šiauliai International Airport, heavily simplifying logistics for exporting companies. The industries within the park are diverse, with furniture manufacturing, metalworking, plastics production, and logistics services forming the strongest pillars. The city administration has invested heavily in preparing the plots to offer investors a \"plug-and-play\" infrastructure with all necessary utility lines. This approach has made the park one of the most vital engines for job creation in the entire region."
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche des Parks beträgt fast 220 Hektar", "Liegt nur 5 Kilometer vom Stadtzentrum Šiauliai entfernt", "Zieht Investoren aus Skandinavien und Westeuropa an", "Fokus auf umweltfreundliche und abfallarme Produktionstechniken", "Bietet spezielle finanzielle Anreize für Jobkreation", "Die Infrastruktur wurde mit EU-Strukturfonds kofinanziert"],
+      hu: ["A park teljes területe megközelíti a 220 hektárt", "Mindössze 5 kilométerre fekszik Šiauliai városközpontjától", "Skandináviából és Nyugat-Európából vonz befektetőket", "Környezetbarát és alacsony hulladéktermelésű gyártási technológiákra fókuszál", "Speciális pénzügyi ösztönzőket kínál a munkahelyteremtéshez", "Az infrastruktúrát EU-s strukturális alapokból társfinanszírozták"],
+      ro: ["Suprafața totală a parcului este de aproape 220 de hectare", "Situat la doar 5 kilometri de centrul orașului Šiauliai", "Atrage investitori din Scandinavia și Europa de Vest", "Se concentrează pe tehnici de producție ecologice și cu deșeuri reduse", "Oferă stimulente financiare speciale pentru crearea de locuri de muncă", "Infrastructura a fost cofinanțată din fonduri structurale ale UE"],
+      en: ["Total area of the park is nearly 220 hectares", "Located just 5 kilometers from the Šiauliai city center", "Attracts investors from Scandinavia and Western Europe", "Focuses on environmentally friendly and low-waste production techniques", "Offers special financial incentives for job creation", "The infrastructure was co-financed using EU structural funds"]
+    }
   },
   {
     id: "lithuania-panevezys-fez-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Panevėžys", hu: "Panevėžysi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Panevėžys", en: "Panevėžys Free Economic Zone" },
+    name: { de: "Freie Wirtschaftszone Panevėžys", hu: "Panevėžysi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Panevėžys", en: "Panevėžys Free Economic Zone",
+image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"
+},
     coords: [24.3, 55.7533],
     coordinates: { lat: 55.7533, lng: 24.3 },
     description: {
@@ -212,11 +277,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 2013", "Sediul mai multor investitori norvegieni și danezi", "Concentrat pe producția industrială durabilă", "Locație importantă pentru industria textilă"],
       en: ["Established in 2013", "Home to several Norwegian and Danish investors", "Focuses on sustainable industrial production", "Important location for the textile industry"],
     },
-    imageHint: "Panevezys FEZ industrial park area", image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"},
+    imageHint: "Panevezys FEZ industrial park area",
+    image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"},
   {
     id: "lithuania-marijampole-fez-economic-v2",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Marijampolė", hu: "Marijampolėi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Marijampolė", en: "Marijampolė Free Economic Zone" },
+    name: { de: "Freie Wirtschaftszone Marijampolė", hu: "Marijampolėi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Marijampolė", en: "Marijampolė Free Economic Zone",
+image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"
+},
     coords: [23.3767, 54.58],
     coordinates: { lat: 54.58, lng: 23.3767 },
     description: {
@@ -231,11 +299,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Concentrat pe industria mobilei și a placajului", "Centru pentru comerțul cu mașini second-hand în Baltice", "Oferă conexiuni feroviare excelente", "Angajator important pentru regiunea Suvalkija"],
       en: ["Focuses on the furniture and plywood industry", "A hub for second-hand car trade in the Baltics", "Provides excellent rail connections", "Major employer for the Suvalkija region"],
     },
-    imageHint: "Marijampole FEZ industrial warehouses", image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"},
+    imageHint: "Marijampole FEZ industrial warehouses",
+    image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"},
   {
     id: "lithuania-giraite-factory-economic-v2",
     type: "factory",
-    name: { de: "Munitionsfabrik Giraitė", hu: "Giraitėi lőszergyár", ro: "Fabrica de muniție Giraitė", en: "Giraitė Armament Factory" },
+    name: { de: "Munitionsfabrik Giraitė", hu: "Giraitėi lőszergyár", ro: "Fabrica de muniție Giraitė", en: "Giraitė Armament Factory",
+image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"
+},
     coords: [23.8647, 54.9458],
     coordinates: { lat: 54.9458, lng: 23.8647 },
     description: {
@@ -250,11 +321,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Companie de stat lituaniană", "Exportă în peste 30 de țări", "Specializată în muniție de mic calibru", "Fondată în anul 2000"],
       en: ["State-owned Lithuanian company", "Exports to over 30 countries", "Specializes in small-caliber ammunition", "Established in 2000"],
     },
-    imageHint: "Giraite armament factory building", image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"},
+    imageHint: "Giraite armament factory building",
+    image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"},
   {
     id: "lithuania-vaidotai-railway-hub-economic-v2",
     type: "industry",
-    name: { de: "Eisenbahnknoten Vaidotai", hu: "Vaidotai vasúti csomópont", ro: "Nodul feroviar Vaidotai", en: "Vaidotai Railway Hub" },
+    name: { de: "Eisenbahnknoten Vaidotai", hu: "Vaidotai vasúti csomópont", ro: "Nodul feroviar Vaidotai", en: "Vaidotai Railway Hub",
+image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"
+},
     coords: [25.1811, 54.5958],
     coordinates: { lat: 54.5958, lng: 25.1811 },
     description: {
@@ -269,11 +343,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cea mai importantă gară de marfă de lângă Vilnius", "Dispune de capacități logistice moderne", "Parte a rețelei transeuropene de transport", "Punct important de transbordare pentru mărfurile de tranzit"],
       en: ["Key freight station near Vilnius", "Equipped with modern logistics capacities", "Part of the Trans-European Transport Network", "A major transshipment point for transit goods"],
     },
-    imageHint: "Vaidotai railway marshalling yard with cargo trains", image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"},
+    imageHint: "Vaidotai railway marshalling yard with cargo trains",
+    image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"},
   {
     id: "lithuania-pieno-zvaigzdes-telsiai-economic-v2",
     type: "factory",
-    name: { de: "Pieno Žvaigždės Molkerei Telšiai", hu: "Pieno Žvaigždės tejüzem, Telšiai", ro: "Fabrica de lactate Pieno Žvaigždės Telšiai", en: "Pieno Žvaigždės Telšiai Plant" },
+    name: { de: "Pieno Žvaigždės Molkerei Telšiai", hu: "Pieno Žvaigždės tejüzem, Telšiai", ro: "Fabrica de lactate Pieno Žvaigždės Telšiai", en: "Pieno Žvaigždės Telšiai Plant",
+image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"
+},
     coords: [22.2533, 55.9811],
     coordinates: { lat: 55.9811, lng: 22.2533 },
     description: {
@@ -288,11 +365,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Produce celebra brânză 'Džiugas'", "Unul dintre cei mai mari exportatori de produse lactate", "Angajator major în regiunea Žemaitija", "Procesează lapte de la mii de fermieri lituanieni"],
       en: ["Produces the famous 'Džiugas' cheese", "One of the largest exporters of dairy products", "Major employer in the Žemaitija region", "Processes milk from thousands of Lithuanian farmers"],
     },
-    imageHint: "Modern dairy factory exterior in Telsiai", image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"},
+    imageHint: "Modern dairy factory exterior in Telsiai",
+    image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"},
   {
     id: "lithuania-rokiskis-suris-economic-v2",
     type: "factory",
-    name: { de: "Rokiškis Sūris Molkerei", hu: "Rokiškis Sūris tejgyár", ro: "Fabrica de lactate Rokiškis Sūris", en: "Rokiškis Sūris Dairy" },
+    name: { de: "Rokiškis Sūris Molkerei", hu: "Rokiškis Sūris tejgyár", ro: "Fabrica de lactate Rokiškis Sūris", en: "Rokiškis Sūris Dairy",
+image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"
+},
     coords: [25.5847, 55.9583],
     coordinates: { lat: 55.9583, lng: 25.5847 },
     description: {
@@ -307,11 +387,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1964", "Cel mai important factor economic al orașului Rokiškis", "Companie listată la bursa din Vilnius", "Exportă peste 60% din producția sa"],
       en: ["Established in 1964", "The most important economic factor for the town of Rokiškis", "Publicly traded company on the Vilnius stock exchange", "Exports over 60% of its production"],
     },
-    imageHint: "Rokiskis Suris factory dairy processing plant", image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"},
+    imageHint: "Rokiskis Suris factory dairy processing plant",
+    image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"},
   {
     id: "lithuania-utena-beer-economic-v2",
     type: "factory",
-    name: { de: "Brauerei Utenos Alus", hu: "Utenos Alus sörgyár", ro: "Berăria Utenos Alus", en: "Utenos Alus Brewery" },
+    name: { de: "Brauerei Utenos Alus", hu: "Utenos Alus sörgyár", ro: "Berăria Utenos Alus", en: "Utenos Alus Brewery",
+image: "/poi-images/lithuania-utena-beer-economic-v2.webp"
+},
     coords: [25.6033, 55.5],
     coordinates: { lat: 55.5, lng: 25.6033 },
     description: {
@@ -326,11 +409,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Producția a început în 1977", "Cunoscută pentru berea 'Utenos'", "Mare angajator în orașul Utena", "Folosește apă din propriile puțuri de mare adâncime"],
       en: ["Production started in 1977", "Famous for 'Utenos' beer", "Large employer in the city of Utena", "Uses water from its own deep wells"],
     },
-    imageHint: "Utenos beer brewery industrial plant", image: "/poi-images/lithuania-utena-beer-economic-v2.webp"},
+    imageHint: "Utenos beer brewery industrial plant",
+    image: "/poi-images/lithuania-utena-beer-economic-v2.webp"},
   {
     id: "lithuania-visaginas-solar-park-economic-v2",
     type: "industry",
-    name: { de: "Solarpark Visaginas", hu: "Visaginasi napelem park", ro: "Parcul solar Visaginas", en: "Visaginas Solar Park" },
+    name: { de: "Solarpark Visaginas", hu: "Visaginasi napelem park", ro: "Parcul solar Visaginas", en: "Visaginas Solar Park",
+image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"
+},
     coords: [26.43, 55.6011],
     coordinates: { lat: 55.6011, lng: 26.43 },
     description: {
@@ -345,11 +431,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Contribuie la reducerea emisiilor de CO2", "Parte a unui grup mai mare de energie regenerabilă", "Pas important pentru economia locală din Visaginas", "Folosește tehnologie fotovoltaică modernă"],
       en: ["Contributes to the reduction of CO2 emissions", "Part of a larger renewable energy cluster", "A significant step for Visaginas' local economy", "Uses modern photovoltaic technology"],
     },
-    imageHint: "Solar panel field near Visaginas", image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"},
+    imageHint: "Solar panel field near Visaginas",
+    image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"},
   {
     id: "lithuania-butinge-terminal-economic-v2",
     type: "port",
-    name: { de: "Ölterminal Būtingė", hu: "Būtingėi olajterminál", ro: "Terminalul petrolier Būtingė", en: "Būtingė Oil Terminal" },
+    name: { de: "Ölterminal Būtingė", hu: "Būtingėi olajterminál", ro: "Terminalul petrolier Būtingė", en: "Būtingė Oil Terminal",
+image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"
+},
     coords: [21.0847, 56.0583],
     coordinates: { lat: 56.0583, lng: 21.0847 },
     description: {
@@ -364,11 +453,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Dispune de o baliză plutitoare pentru descărcare", "Funcționează din anul 1999", "Permite achiziția de petrol independent de Rusia", "Poate deservi petroliere de mare capacitate"],
       en: ["Features a single-point mooring buoy for unloading", "In operation since 1999", "Enables oil imports independent of Russian pipelines", "Can handle high-capacity oil tankers"],
     },
-    imageHint: "Butinge oil terminal buoy in the Baltic Sea", image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"},
+    imageHint: "Butinge oil terminal buoy in the Baltic Sea",
+    image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"},
   {
     id: "lithuania-klaipeda-lng-economic-v2",
     type: "port",
-    name: { de: "LNG-Terminal Klaipėda", hu: "Klaipėdai LNG-terminál", ro: "Terminalul GNL Klaipėda", en: "Klaipėda LNG Terminal" },
+    name: { de: "LNG-Terminal Klaipėda", hu: "Klaipėdai LNG-terminál", ro: "Terminalul GNL Klaipėda", en: "Klaipėda LNG Terminal",
+image: "/poi-images/lithuania-klaipeda-lng-economic-v2.webp"
+},
     coords: [21.1383, 55.6611],
     coordinates: { lat: 55.6611, lng: 21.1383 },
     description: {
@@ -384,11 +476,25 @@ export const lithuaniaEconomicV2: POI[] = [
       en: ["Floating Storage and Regasification Unit (FSRU)", "In operation since late 2014", "First terminal of its kind in the Baltics", "Also supplies gas to Latvia, Estonia, and Finland"],
     },
     imageHint: "Independence LNG FSRU vessel in Klaipeda",
+    descriptionAdvanced: {
+      de: "Das LNG-Terminal in Klaipėda mit seinem treffend benannten Spezialschiff \"Independence\" (Unabhängigkeit) ist vielleicht das wichtigste Infrastrukturprojekt in der modernen Geschichte Litauens. Vor der Inbetriebnahme dieses Terminals war Litauen, wie die anderen baltischen Staaten auch, vollständig vom russischen Gasmonopolisten Gazprom abhängig und zahlte folglich einige der höchsten Gaspreise in Europa. Die \"Independence\", eine schwimmende Speicher- und Regasifizierungseinheit (FSRU), änderte diese Dynamik über Nacht, indem sie den Zugang zum globalen Flüssigerdgasmarkt (LNG) eröffnete. Durch die Möglichkeit, Gas aus Ländern wie Norwegen, den USA oder Katar zu importieren, sanken die Preise dramatisch, und die Energiesicherheit wurde auf ein beispielloses Niveau gehoben. Die Anlage in Klaipėda war das erste LNG-Terminal im gesamten Ostseeraum und ist ein Paradebeispiel für proaktive geopolitische Planung. Heute dient das Terminal nicht nur Litauen, sondern versorgt auch die Nachbarländer Lettland und Estland verlässlich mit Gas.",
+      hu: "A klaipėdai LNG-terminál a találóan \"Independence\" (Függetlenség) névre keresztelt speciális hajójával Litvánia modernkori történelmének talán legfontosabb infrastrukturális projektje. A terminál üzembe helyezése előtt Litvánia a többi balti államhoz hasonlóan teljes mértékben az orosz Gazprom gázmonopóliumától függött, és következésképpen Európa legmagasabb gázárait fizette. Az \"Independence\", amely egy úszó tároló és visszagázosító egység (FSRU), egyik napról a másikra megváltoztatta ezt a dinamikát azáltal, hogy megnyitotta az utat a globális cseppfolyósítottföldgáz-piac (LNG) felé. Azzal a lehetőséggel, hogy gázt importálhatnak olyan országokból, mint Norvégia, az USA vagy Katar, az árak drámaian visszaestek, és az energiabiztonság példátlan szintre emelkedett. A klaipėdai létesítmény volt a teljes balti térség első LNG-terminálja, és a proaktív geopolitikai tervezés mintapéldája. Ma a terminál nemcsak Litvániát szolgálja ki, hanem a szomszédos Lettországot és Észtországot is megbízhatóan ellátja gázzal.",
+      ro: "Terminalul GNL din Klaipėda, cu nava sa specială denumită sugestiv \"Independence\" (Independență), este poate cel mai important proiect de infrastructură din istoria modernă a Lituaniei. Înainte de punerea în funcțiune a acestui terminal, Lituania, la fel ca celelalte state baltice, era complet dependentă de monopolistul rus de gaze Gazprom și, în consecință, plătea unele dintre cele mai mari prețuri la gaze din Europa. \"Independence\", o unitate plutitoare de stocare și regazificare (FSRU), a schimbat această dinamică peste noapte, deschizând accesul la piața globală de gaze naturale lichefiate (GNL). Prin capacitatea de a importa gaze din țări precum Norvegia, SUA sau Qatar, prețurile au scăzut dramatic, iar securitatea energetică a fost ridicată la un nivel fără precedent. Instalația din Klaipėda a fost primul terminal GNL din întreaga regiune a Mării Baltice și este un exemplu perfect de planificare geopolitică proactivă. Astăzi, terminalul deservește nu doar Lituania, ci furnizează gaze în mod fiabil și țărilor vecine, Letonia și Estonia.",
+      en: "The LNG terminal in Klaipėda, featuring its aptly named specialized vessel \"Independence,\" is perhaps the most critical infrastructure project in the modern history of Lithuania. Prior to the commissioning of this terminal, Lithuania, like the other Baltic States, was completely dependent on the Russian gas monopolist Gazprom and consequently paid some of the highest gas prices in Europe. The \"Independence,\" a Floating Storage and Regasification Unit (FSRU), changed this dynamic overnight by opening access to the global liquefied natural gas (LNG) market. By enabling the import of gas from countries such as Norway, the USA, or Qatar, prices dropped dramatically, and energy security was elevated to an unprecedented level. The Klaipėda facility was the first LNG terminal in the entire Baltic Sea region and stands as a prime example of proactive geopolitical planning. Today, the terminal not only serves Lithuania but also reliably supplies gas to neighboring Latvia and Estonia."
+    },
+    factsAdvanced: {
+      de: ["Die 'Independence' wurde in Südkorea von Hyundai Heavy Industries gebaut", "Das Schiff hat eine enorme Speicherkapazität von 170.000 Kubikmetern", "Litauen leaste das Schiff zunächst und kaufte es später komplett", "Die Anlage kann den gesamten litauischen Jahresbedarf an Erdgas decken", "Ist an die Gaspipeline zwischen Litauen und Polen (GIPL) angeschlossen", "Reduzierte die Abhängigkeit der baltischen Staaten von russischem Gas auf null"],
+      hu: ["Az 'Independence'-t Dél-Koreában építette a Hyundai Heavy Industries", "A hajó hatalmas, 170 000 köbméteres tárolókapacitással rendelkezik", "Litvánia kezdetben lízingelte a hajót, majd később teljesen megvásárolta", "A létesítmény képes fedezni Litvánia teljes éves földgázszükségletét", "Kapcsolódik a Litvánia és Lengyelország közötti gázvezetékhez (GIPL)", "Nullára csökkentette a balti államok orosz gáztól való függőségét"],
+      ro: ["'Independence' a fost construită în Coreea de Sud de Hyundai Heavy Industries", "Nava are o capacitate uriașă de stocare de 170.000 de metri cubi", "Inițial, Lituania a închiriat nava, iar ulterior a achiziționat-o complet", "Instalația poate acoperi întregul necesar anual de gaze naturale al Lituaniei", "Este conectată la gazoductul dintre Lituania și Polonia (GIPL)", "A redus dependența statelor baltice de gazul rusesc la zero"],
+      en: ["The 'Independence' was built in South Korea by Hyundai Heavy Industries", "The vessel has an enormous storage capacity of 170,000 cubic meters", "Lithuania initially leased the vessel and later purchased it completely", "The facility can cover Lithuania's entire annual demand for natural gas", "It is connected to the Gas Interconnection Poland-Lithuania (GIPL)", "Reduced the Baltic States' dependence on Russian gas to zero"]
+    }
   },
   {
     id: "lithuania-alytus-refrigerator-plant-economic-v2",
     type: "factory",
-    name: { de: "Snaigė Kühlschrankwerk Alytus", hu: "Snaigė hűtőgépgyár, Alytus", ro: "Fabrica de frigidere Snaigė Alytus", en: "Snaigė Refrigerator Plant Alytus" },
+    name: { de: "Snaigė Kühlschrankwerk Alytus", hu: "Snaigė hűtőgépgyár, Alytus", ro: "Fabrica de frigidere Snaigė Alytus", en: "Snaigė Refrigerator Plant Alytus",
+image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"
+},
     coords: [24.0311, 54.3947],
     coordinates: { lat: 54.3947, lng: 24.0311 },
     description: {
@@ -403,11 +509,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1963", "Exportă în peste 30 de țări din întreaga lume", "Cunoscută pentru eficiență energetică și design", "Piesa centrală a zonei industriale din Alytus"],
       en: ["Founded in 1963", "Exports to over 30 countries worldwide", "Known for energy efficiency and design", "The heart of Alytus's industrial district"],
     },
-    imageHint: "Snaige factory exterior Alytus", image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"},
+    imageHint: "Snaige factory exterior Alytus",
+    image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"},
   {
     id: "lithuania-kaunas-intermodal-terminal-economic-v2",
     type: "industry",
-    name: { de: "Intermodales Terminal Kaunas", hu: "Kaunasi intermodális terminál", ro: "Terminalul intermodal Kaunas", en: "Kaunas Intermodal Terminal" },
+    name: { de: "Intermodales Terminal Kaunas", hu: "Kaunasi intermodális terminál", ro: "Terminalul intermodal Kaunas", en: "Kaunas Intermodal Terminal",
+image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"
+},
     coords: [24.0811, 54.9211],
     coordinates: { lat: 54.9211, lng: 24.0811 },
     description: {
@@ -422,11 +531,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Conectează Lituania cu Europa de Vest prin cale ferată", "Punct important de transbordare pentru containere", "Parte a infrastructurii logistice moderne", "Situat direct lângă autostradă și calea ferată"],
       en: ["Connects Lithuania with Western Europe by rail", "Key transshipment point for containers", "Part of modern logistics infrastructure", "Located directly adjacent to highway and rail lines"],
     },
-    imageHint: "Container terminal and trains in Kaunas Palemonas", image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"},
+    imageHint: "Container terminal and trains in Kaunas Palemonas",
+    image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"},
   {
     id: "lithuania-vilkyškiai-dairy-economic-v2",
     type: "factory",
-    name: { de: "Vilkyškiai Molkerei", hu: "Vilkyškiai tejgyár", ro: "Fabrica de lactate Vilkyškiai", en: "Vilkyškiai Dairy" },
+    name: { de: "Vilkyškiai Molkerei", hu: "Vilkyškiai tejgyár", ro: "Fabrica de lactate Vilkyškiai", en: "Vilkyškiai Dairy",
+image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"
+},
     coords: [22.1311, 55.1211],
     coordinates: { lat: 55.1211, lng: 22.1311 },
     description: {
@@ -441,11 +553,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Principala marcă este 'Vilkyškių'", "Exportă o mare parte din producția sa", "Cel mai important angajator din comuna Pagėgiai", "Fondată în anul 1993"],
       en: ["Primary brand is 'Vilkyškių'", "Exports a significant portion of its production", "Most important employer in the Pagėgiai municipality", "Founded in 1993"],
     },
-    imageHint: "Vilkyskiai dairy factory sign and buildings", image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"},
+    imageHint: "Vilkyskiai dairy factory sign and buildings",
+    image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"},
   {
     id: "lithuania-grigeo-mill-economic-v2",
     type: "factory",
-    name: { de: "Grigeo Papierfabrik Grigiškės", hu: "Grigeo papírgyár, Grigiškės", ro: "Fabrica de hârtie Grigeo Grigiškės", en: "Grigeo Paper Mill Grigiškės" },
+    name: { de: "Grigeo Papierfabrik Grigiškės", hu: "Grigeo papírgyár, Grigiškės", ro: "Fabrica de hârtie Grigeo Grigiškės", en: "Grigeo Paper Mill Grigiškės",
+image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"
+},
     coords: [25.0933, 54.6733],
     coordinates: { lat: 54.6733, lng: 25.0933 },
     description: {
@@ -460,11 +575,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1823", "Produce hârtie igienică și ambalaje", "Dă numele orașului Grigiškės", "Actor important în economia circulară"],
       en: ["Founded in 1823", "Produces hygiene paper and packaging", "The namesake of the town of Grigiškės", "A major player in the circular economy"],
     },
-    imageHint: "Grigeo paper mill factory buildings", image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"},
+    imageHint: "Grigeo paper mill factory buildings",
+    image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"},
   {
     id: "lithuania-continental-kaunas-economic-v2",
     type: "factory",
-    name: { de: "Continental Werk Kaunas", hu: "Continental gyár, Kaunas", ro: "Fabrica Continental Kaunas", en: "Continental Factory Kaunas" },
+    name: { de: "Continental Werk Kaunas", hu: "Continental gyár, Kaunas", ro: "Fabrica Continental Kaunas", en: "Continental Factory Kaunas",
+image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"
+},
     coords: [24.0611, 54.9611],
     coordinates: { lat: 54.9611, lng: 24.0611 },
     description: {
@@ -479,11 +597,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Specializată în sisteme de asistență pentru condus", "Una dintre cele mai moderne fabrici ale grupului Continental", "A creat sute de locuri de muncă înalt calificate", "Deschisă în anul 2019"],
       en: ["Specializes in advanced driver assistance systems", "One of the most modern plants in the Continental Group", "Created hundreds of high-skilled jobs", "Opened in 2019"],
     },
-    imageHint: "Modern Continental factory building in Kaunas", image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"},
+    imageHint: "Modern Continental factory building in Kaunas",
+    image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"},
   {
     id: "lithuania-thermo-fisher-vilnius-economic-v2",
     type: "factory",
-    name: { de: "Thermo Fisher Scientific Vilnius", hu: "Thermo Fisher Scientific, Vilnius", ro: "Thermo Fisher Scientific Vilnius", en: "Thermo Fisher Scientific Vilnius" },
+    name: { de: "Thermo Fisher Scientific Vilnius", hu: "Thermo Fisher Scientific, Vilnius", ro: "Thermo Fisher Scientific Vilnius", en: "Thermo Fisher Scientific Vilnius",
+image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"
+},
     coords: [25.2511, 54.7558],
     coordinates: { lat: 54.7558, lng: 25.2511 },
     description: {
@@ -498,11 +619,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cel mai important centru de științe ale vieții din Baltice", "Joacă un rol central în producția de componente pentru vaccinuri", "Angajează peste 1000 de cercetători înalt calificați", "Evoluat din Institutul lituanian de Enzimologie"],
       en: ["The most important life sciences center in the Baltics", "Plays a central role in producing components for vaccines", "Employs over 1,000 highly skilled scientists", "Originates from the Lithuanian Institute of Enzymology"],
     },
-    imageHint: "Modern laboratory and industrial building Thermo Fisher Vilnius", image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"},
+    imageHint: "Modern laboratory and industrial building Thermo Fisher Vilnius",
+    image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"},
   {
     id: "lithuania-nordbalt-cable-economic-v2",
     type: "landmark",
-    name: { de: "NordBalt Stromverbindung", hu: "NordBalt áramvezeték", ro: "Conexiunea electrică NordBalt", en: "NordBalt Power Connection" },
+    name: { de: "NordBalt Stromverbindung", hu: "NordBalt áramvezeték", ro: "Conexiunea electrică NordBalt", en: "NordBalt Power Connection",
+image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"
+},
     coords: [21.1011, 55.7011],
     coordinates: { lat: 55.7011, lng: 21.1011 },
     description: {
@@ -517,11 +641,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Lungime de aproximativ 450 de kilometri", "Capacitate de 700 de megawați", "Pusă în funcțiune în anul 2016", "A redus semnificativ prețurile la electricitate în Lituania"],
       en: ["Approximately 450 kilometers long", "Capacity of 700 megawatts", "Commissioned in 2016", "Significantly lowered electricity prices in Lithuania"],
     },
-    imageHint: "Electrical substation near Klaipeda coast", image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"},
+    imageHint: "Electrical substation near Klaipeda coast",
+    image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"},
   {
     id: "lithuania-siauliai-airport-economic-v2",
     type: "industry",
-    name: { de: "Flughafen Šiauliai", hu: "Šiauliai repülőtér", ro: "Aeroportul Šiauliai", en: "Šiauliai Airport" },
+    name: { de: "Flughafen Šiauliai", hu: "Šiauliai repülőtér", ro: "Aeroportul Šiauliai", en: "Šiauliai Airport",
+image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"
+},
     coords: [23.3933, 55.8947],
     coordinates: { lat: 55.8947, lng: 23.3933 },
     description: {
@@ -536,11 +663,14 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Baza principală a misiunii NATO de poliție aeriană", "Centru important pentru întreținerea aeronavelor", "Poate deservi cele mai mari avioane de marfă", "Factor economic important pentru nordul Lituaniei"],
       en: ["Main base for the NATO Baltic Air Policing mission", "Major center for aircraft maintenance", "Can handle the largest cargo aircraft", "Significant economic driver for northern Lithuania"],
     },
-    imageHint: "Siauliai airport runway and hangars", image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"},
+    imageHint: "Siauliai airport runway and hangars",
+    image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"},
   {
     id: "lithuania-taurage-industrial-park-economic-v2",
     type: "industry",
-    name: { de: "Industriepark Tauragė", hu: "Tauragėi Ipari Park", ro: "Parcul Industrial Tauragė", en: "Tauragė Industrial Park" },
+    name: { de: "Industriepark Tauragė", hu: "Tauragėi Ipari Park", ro: "Parcul Industrial Tauragė", en: "Tauragė Industrial Park",
+image: "/poi-images/lithuania-taurage-industrial-park-economic-v2.webp"
+},
     coords: [22.2847, 55.2511],
     coordinates: { lat: 55.2511, lng: 22.2847 },
     description: {
@@ -556,11 +686,25 @@ export const lithuaniaEconomicV2: POI[] = [
       en: ["First 'green' industrial zone in Lithuania", "Focuses on wind energy and recycling", "Hosts Danish and Norwegian companies", "A major driver for the town of Tauragė"],
     },
     imageHint: "Modern eco-friendly industrial park in Taurage",
+    descriptionAdvanced: {
+      de: "Der Industriepark Tauragė ist ein herausragendes Beispiel dafür, wie eine proaktive regionale Initiative eine ehemals wirtschaftlich schwächelnde Gegend in einen Magneten für grüne Technologien und ausländische Investitionen verwandeln kann. Dieser in Privatbesitz befindliche Industriepark hat sich strategisch positioniert, indem er Investoren aus Skandinavien, insbesondere aus Dänemark und Norwegen, anzieht, die Wert auf ökologische Nachhaltigkeit legen. Der Fokus des Parks liegt nicht auf schwerer Industrie, sondern vielmehr auf Leichtindustrie, erneuerbaren Energien und Kreislaufwirtschaft – von der Herstellung von Windturbinenkomponenten bis hin zum fortschrittlichen Kunststoffrecycling. Was den Park besonders attraktiv macht, ist der Rundum-Service, der ausländischen Unternehmen geboten wird, einschließlich der schnellen Bereitstellung von Produktionshallen und der Unterstützung bei bürokratischen Prozessen. Dieser moderne Ansatz hat Tausende von gut bezahlten Arbeitsplätzen geschaffen und Tauragė den Ruf eingebracht, eine der grünsten und fortschrittlichsten Gemeinden Litauens zu sein.",
+      hu: "A Tauragėi Ipari Park kiemelkedő példája annak, hogyan tud egy proaktív regionális kezdeményezés egy korábban gazdaságilag gyengélkedő térséget a zöld technológiák és a külföldi befektetések mágnesévé változtatni. Ez a magántulajdonban lévő ipari park stratégiailag úgy pozicionálta magát, hogy olyan skandináv – különösen dán és norvég – befektetőket vonzzon, akik nagy hangsúlyt fektetnek az ökológiai fenntarthatóságra. A park fókusza nem a nehéziparon, hanem sokkal inkább a könnyűiparon, a megújuló energiákon és a körforgásos gazdaságon van – a szélturbinák alkatrészeinek gyártásától kezdve a fejlett műanyag-újrahasznosításig. Ami a parkot különösen vonzóvá teszi, az a külföldi vállalatoknak kínált teljes körű szolgáltatás, beleértve a gyártócsarnokok gyors rendelkezésre bocsátását és a bürokratikus folyamatokban nyújtott támogatást. Ez a modern megközelítés több ezer jól fizető munkahelyet teremtett, és azt a hírnevet szerezte Tauragėnek, hogy Litvánia egyik legzöldebb és legfejlettebb önkormányzata.",
+      ro: "Parcul Industrial Tauragė este un exemplu remarcabil al modului în care o inițiativă regională proactivă poate transforma o zonă cu probleme economice într-un magnet pentru tehnologiile verzi și investițiile străine. Acest parc industrial cu capital privat s-a poziționat strategic prin atragerea investitorilor din Scandinavia, în special din Danemarca și Norvegia, care prețuiesc sustenabilitatea ecologică. Accentul parcului nu este pus pe industria grea, ci mai degrabă pe industria ușoară, energiile regenerabile și economia circulară – de la producția de componente pentru turbine eoliene până la reciclarea avansată a materialelor plastice. Ceea ce face parcul deosebit de atractiv este serviciul complet oferit companiilor străine, inclusiv furnizarea rapidă a halelor de producție și sprijin în procesele birocratice. Această abordare modernă a creat mii de locuri de muncă bine plătite și a adus orașului Tauragė reputația de a fi una dintre cele mai verzi și mai progresiste municipalități din Lituania.",
+      en: "The Tauragė Industrial Park is an outstanding example of how a proactive regional initiative can transform a formerly economically struggling area into a magnet for green technologies and foreign investment. This privately owned industrial park has positioned itself strategically by attracting investors from Scandinavia, particularly from Denmark and Norway, who value ecological sustainability. The park's focus is not on heavy industry, but rather on light manufacturing, renewable energies, and the circular economy – ranging from the production of wind turbine components to advanced plastics recycling. What makes the park particularly attractive is the all-around service offered to foreign companies, including the rapid provision of production halls and support with bureaucratic processes. This modern approach has created thousands of well-paying jobs and earned Tauragė the reputation of being one of the greenest and most progressive municipalities in Lithuania."
+    },
+    factsAdvanced: {
+      de: ["Beherbergt Netcon, einen bedeutenden Hersteller von Windkraftanlagen-Bauteilen", "Großer Fokus auf das Recycling von PET-Flaschen und anderen Kunststoffen", "Wurde als die erste echte 'grüne' Industriezone Litauens zertifiziert", "Die Stadt Tauragė plant, bis 2030 komplett klimaneutral zu werden", "Ausländische Investoren schätzen die niedrigen Fluktuationsraten der Belegschaft", "Bietet voll ausgestattete 'Build-to-suit'-Anlagen für neue Unternehmen"],
+      hu: ["Itt található a Netcon, a szélerőmű-alkatrészek egyik jelentős gyártója", "Nagy hangsúlyt fektet a PET-palackok és egyéb műanyagok újrahasznosítására", "Litvánia első igazi 'zöld' ipari zónájaként tanúsították", "Tauragė városa azt tervezi, hogy 2030-ra teljesen klímasemleges lesz", "A külföldi befektetők értékelik a munkaerő alacsony fluktuációs rátáját", "Teljesen felszerelt, egyedi igényekre szabott ('build-to-suit') létesítményeket kínál új vállalatok számára"],
+      ro: ["Găzduiește Netcon, un important producător de componente pentru turbine eoliene", "Un accent mare pe reciclarea sticlelor PET și a altor materiale plastice", "A fost certificată ca prima zonă industrială cu adevărat 'verde' din Lituania", "Orașul Tauragė intenționează să devină complet neutru din punct de vedere climatic până în 2030", "Investitorii străini apreciază ratele scăzute de fluctuație a forței de muncă", "Oferă facilități complet echipate, construite la comandă ('build-to-suit') pentru companii noi"],
+      en: ["Home to Netcon, a major manufacturer of wind turbine components", "Strong focus on the recycling of PET bottles and other plastics", "Certified as the first truly 'green' industrial zone in Lithuania", "The city of Tauragė plans to become completely climate-neutral by 2030", "Foreign investors appreciate the low turnover rates of the workforce", "Provides fully equipped 'build-to-suit' facilities for new businesses"]
+    }
   },
   {
     id: "lithuania-svyturys-brewery-economic-v2",
     type: "factory",
-    name: { de: "Brauerei Švyturys Klaipėda", hu: "Švyturys sörgyár, Klaipėda", ro: "Berăria Švyturys Klaipėda", en: "Švyturys Brewery Klaipėda" },
+    name: { de: "Brauerei Švyturys Klaipėda", hu: "Švyturys sörgyár, Klaipėda", ro: "Berăria Švyturys Klaipėda", en: "Švyturys Brewery Klaipėda",
+image: "/poi-images/lithuania-svyturys-brewery-economic-v2.webp"
+},
     coords: [21.1347, 55.7111],
     coordinates: { lat: 55.7111, lng: 21.1347 },
     description: {
@@ -576,5 +720,17 @@ export const lithuaniaEconomicV2: POI[] = [
       en: ["Founded in 1784", "A landmark of the city of Klaipėda", "Features a modern visitor center", "Exports beer to over 20 countries"],
     },
     imageHint: "Svyturys brewery building in Klaipeda",
+    descriptionAdvanced: {
+      de: "Die Švyturys Brauerei im Herzen der Hafenstadt Klaipėda ist ein stolzes Monument litauischer Braukunst, dessen Geschichte bis ins Jahr 1784 zurückreicht, als sie von dem Kaufmann Johann Wilhelm Reincke gegründet wurde. Damit ist sie die älteste noch kontinuierlich arbeitende Brauerei des Landes. Švyturys (Leuchtturm) hat sich im Laufe der Jahrhunderte von einer lokalen Handwerksbrauerei zur bekanntesten und meistausgezeichneten Biermarke Litauens entwickelt. Die historische Bedeutung der Brauerei wird dadurch unterstrichen, dass sie als erste in der Region den Adler aus dem Wappen der Stadt Klaipėda (damals Memel) als Qualitätssiegel führen durfte. Heute verbindet Švyturys erfolgreich sein reiches Erbe mit modernster dänischer Brautechnologie der Carlsberg-Gruppe. Neben der Produktion klassischer Lagerbiere und Porter hat das neue B-Hero (Švyturys Brewery) Craft-Bier-Zentrum in Klaipėda eine Renaissance kreativer Braustile ausgelöst und ist zu einem beliebten Treffpunkt für Bierenthusiasten und Touristen gleichermaßen geworden.",
+      hu: "A Klaipėda kikötőváros szívében található Švyturys sörgyár a litván sörfőzés büszke emlékműve, amelynek története egészen 1784-ig nyúlik vissza, amikor Johann Wilhelm Reincke kereskedő megalapította. Ezzel az ország legrégebbi, folyamatosan működő sörfőzdéje. A Švyturys (Világítótorony) az évszázadok során egy helyi kézműves sörfőzdéből Litvánia legismertebb és legtöbb díjat nyert sörmárkájává fejlődött. A sörfőzde történelmi jelentőségét alátámasztja, hogy a régióban elsőként kapta meg a jogot arra, hogy Klaipėda (akkori nevén Memel) város címeréből a sast minőségi védjegyként használja. Ma a Švyturys sikeresen ötvözi gazdag örökségét a Carlsberg-csoport legkorszerűbb dán sörfőzési technológiájával. A klasszikus világos sörök és porterek gyártása mellett a klaipėdai új B-Hero (Švyturys Brewery) kézműves sörközpont a kreatív sörstílusok reneszánszát indította el, és a sörrajongók, valamint a turisták kedvelt találkozóhelyévé vált.",
+      ro: "Berăria Švyturys din inima orașului-port Klaipėda este un monument mândru al artei fabricării berii din Lituania, a cărei istorie datează din 1784, când a fost fondată de negustorul Johann Wilhelm Reincke. Astfel, este cea mai veche berărie cu funcționare continuă din țară. Švyturys (Farul) a evoluat de-a lungul secolelor de la o berărie artizanală locală la cel mai cunoscut și mai premiat brand de bere din Lituania. Importanța istorică a berăriei este subliniată de faptul că a fost prima din regiune căreia i s-a permis să poarte vulturul din stema orașului Klaipėda (pe atunci Memel) ca un sigiliu al calității. Astăzi, Švyturys combină cu succes moștenirea sa bogată cu cea mai avansată tehnologie daneză de fabricare a berii de la grupul Carlsberg. Pe lângă producția de bere lager clasică și porter, noul centru de bere artizanală B-Hero (Švyturys Brewery) din Klaipėda a declanșat o renaștere a stilurilor creative de bere și a devenit un loc de întâlnire popular atât pentru pasionații de bere, cât și pentru turiști.",
+      en: "The Švyturys Brewery in the heart of the port city of Klaipėda is a proud monument to Lithuanian brewing art, with a history dating back to 1784 when it was founded by merchant Johann Wilhelm Reincke. This makes it the oldest continuously operating brewery in the country. Over the centuries, Švyturys (Lighthouse) has evolved from a local craft brewery into Lithuania's most well-known and highly awarded beer brand. The historical significance of the brewery is underscored by the fact that it was the first in the region permitted to use the eagle from the coat of arms of Klaipėda (then Memel) as a seal of quality. Today, Švyturys successfully combines its rich heritage with the cutting-edge Danish brewing technology of the Carlsberg Group. In addition to producing classic lagers and porters, the new B-Hero (Švyturys Brewery) craft beer center in Klaipėda has sparked a renaissance of creative brewing styles and has become a popular gathering place for beer enthusiasts and tourists alike."
+    },
+    factsAdvanced: {
+      de: ["Die Brauerei überstand unzählige Kriege, Brände und politische Regime", "Das 'Švyturys Ekstra' gewann Gold beim prestigeträchtigen World Beer Cup", "Gehört seit 1999 zum Portfolio der skandinavischen Carlsberg-Gruppe", "Das moderne Besucherzentrum 'Švyturys BHouse' bietet Gastronomie und Kultur", "Die Brauer experimentieren mit historischen Bierstilen und lokalen Zutaten", "Spendet regelmäßig für die Erhaltung der Architektur der Klaipėdaer Altstadt"],
+      hu: ["A sörfőzde számtalan háborút, tűzvészt és politikai rendszert túlélt", "A 'Švyturys Ekstra' aranyérmet nyert a rangos World Beer Cup-on", "1999 óta a skandináv Carlsberg-csoport portfóliójába tartozik", "A modern 'Švyturys BHouse' látogatóközpont gasztronómiát és kultúrát is kínál", "A sörfőzők történelmi sörstílusokkal és helyi alapanyagokkal kísérleteznek", "Rendszeresen adakozik a klaipėdai óváros építészetének megőrzésére"],
+      ro: ["Berăria a supraviețuit nenumăratelor războaie, incendii și regimuri politice", "'Švyturys Ekstra' a câștigat aurul la prestigiosul World Beer Cup", "Aparține din 1999 portofoliului grupului scandinav Carlsberg", "Centrul modern de vizitatori 'Švyturys BHouse' oferă gastronomie și cultură", "Berarii experimentează cu stiluri istorice de bere și ingrediente locale", "Donează regulat pentru conservarea arhitecturii orașului vechi din Klaipėda"],
+      en: ["The brewery survived countless wars, fires, and political regimes", "The 'Švyturys Ekstra' won gold at the prestigious World Beer Cup", "Has belonged to the portfolio of the Scandinavian Carlsberg Group since 1999", "The modern 'Švyturys BHouse' visitor center offers gastronomy and culture", "The brewers experiment with historical beer styles and local ingredients", "Regularly donates towards the preservation of Klaipėda's Old Town architecture"]
+    }
   }
 ];

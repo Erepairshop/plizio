@@ -6,7 +6,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "LS-A",
     coords: [27.4833, -29.3167],
-    name: { de: "Maseru", hu: "Maseru", ro: "Maseru", en: "Maseru" },
+    name: { de: "Maseru", hu: "Maseru", ro: "Maseru", en: "Maseru",
+image: "/poi-images/maseru-cities-v2.webp"
+},
     description: {
       de: "Maseru ist die Hauptstadt und größte Stadt von Lesotho, am Fluss Caledon gelegen.",
       hu: "Maseru Lesotho fővárosa és legnagyobb városa a Caledon-folyó partján.",
@@ -24,7 +26,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-D",
     coords: [27.75, -29.15],
-    name: { de: "Teyateyaneng", hu: "Teyateyaneng", ro: "Teyateyaneng", en: "Teyateyaneng" },
+    name: { de: "Teyateyaneng", hu: "Teyateyaneng", ro: "Teyateyaneng", en: "Teyateyaneng",
+image: "/poi-images/teyateyaneng-cities-v2.webp"
+},
     description: {
       de: "Teyateyaneng ist die Hauptstadt des Distrikts Berea und bekannt für sein Kunsthandwerk.",
       hu: "Teyateyaneng Berea körzet központja, amely kézművesiparáról híres.",
@@ -43,7 +47,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-E",
     coords: [27.2333, -29.8167],
-    name: { de: "Mafeteng", hu: "Mafeteng", ro: "Mafeteng", en: "Mafeteng" },
+    name: { de: "Mafeteng", hu: "Mafeteng", ro: "Mafeteng", en: "Mafeteng",
+image: "/poi-images/mafeteng-cities-v2.webp"
+},
     description: {
       de: "Mafeteng ist ein wichtiges Handelszentrum im Südwesten von Lesotho.",
       hu: "Mafeteng fontos kereskedelmi központ Lesotho délnyugati részén.",
@@ -61,7 +67,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-C",
     coords: [28.2333, -28.8667],
-    name: { de: "Hlotse", hu: "Hlotse", ro: "Hlotse", en: "Hlotse" },
+    name: { de: "Hlotse", hu: "Hlotse", ro: "Hlotse", en: "Hlotse",
+image: "/poi-images/hlotse-cities-v2.webp"
+},
     description: {
       de: "Hlotse, auch bekannt als Leribe, ist ein bedeutendes regionales Zentrum im Norden.",
       hu: "Hlotse, más néven Leribe, jelentős regionális központ északon.",
@@ -79,7 +87,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-F",
     coords: [27.4667, -30.15],
-    name: { de: "Mohale's Hoek", hu: "Mohale's Hoek", ro: "Mohale's Hoek", en: "Mohale's Hoek" },
+    name: { de: "Mohale's Hoek", hu: "Mohale's Hoek", ro: "Mohale's Hoek", en: "Mohale's Hoek",
+image: "/poi-images/mohales-hoek-cities-v2.webp"
+},
     description: {
       de: "Mohale's Hoek liegt im Süden und wurde nach dem Bruder von König Moshoeshoe I. benannt.",
       hu: "Mohale's Hoek délen található, és I. Moshoeshoe király testvéréről nevezték el.",
@@ -97,7 +107,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-C",
     coords: [27.9, -28.9],
-    name: { de: "Maputsoe", hu: "Maputsoe", ro: "Maputsoe", en: "Maputsoe" },
+    name: { de: "Maputsoe", hu: "Maputsoe", ro: "Maputsoe", en: "Maputsoe",
+image: "/poi-images/maputsoe-cities-v2.webp"
+},
     description: {
       de: "Maputsoe ist eine wichtige Industriestadt an der Grenze zu Südafrika.",
       hu: "Maputsoe jelentős iparváros a dél-afrikai határ mentén.",
@@ -115,7 +127,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-G",
     coords: [27.7, -30.4],
-    name: { de: "Quthing", hu: "Quthing", ro: "Quthing", en: "Quthing" },
+    name: { de: "Quthing", hu: "Quthing", ro: "Quthing", en: "Quthing",
+image: "/poi-images/quthing-cities-v2.webp"
+},
     description: {
       de: "Quthing, auch Moyeni genannt, ist bekannt für seine prähistorischen Dinosaurier-Fußabdrücke.",
       hu: "Quthing, más néven Moyeni, őskori dinoszaurusz lábnyomairól híres.",
@@ -133,7 +147,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-H",
     coords: [28.6833, -30.1167],
-    name: { de: "Qacha's Nek", hu: "Qacha's Nek", ro: "Qacha's Nek", en: "Qacha's Nek" },
+    name: { de: "Qacha's Nek", hu: "Qacha's Nek", ro: "Qacha's Nek", en: "Qacha's Nek",
+image: "/poi-images/qachas-nek-cities-v2.webp"
+},
     description: {
       de: "Qacha's Nek liegt in den Bergen nahe der Grenze zur Provinz Ostkap in Südafrika.",
       hu: "Qacha's Nek a hegyekben fekszik, közel a dél-afrikai Eastern Cape tartomány határához.",
@@ -151,7 +167,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-J",
     coords: [29.0667, -29.2833],
-    name: { de: "Mokhotlong", hu: "Mokhotlong", ro: "Mokhotlong", en: "Mokhotlong" },
+    name: { de: "Mokhotlong", hu: "Mokhotlong", ro: "Mokhotlong", en: "Mokhotlong",
+image: "/poi-images/mokhotlong-cities-v2.webp"
+},
     description: {
       de: "Mokhotlong ist eine der entlegensten Städte Lesothos und liegt im Hochgebirge.",
       hu: "Mokhotlong Lesotho egyik legtávolabbi városa, a magashegységben fekszik.",
@@ -169,7 +187,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-B",
     coords: [28.5, -28.7667],
-    name: { de: "Butha-Buthe", hu: "Butha-Buthe", ro: "Butha-Buthe", en: "Butha-Buthe" },
+    name: { de: "Butha-Buthe", hu: "Butha-Buthe", ro: "Butha-Buthe", en: "Butha-Buthe",
+image: "/poi-images/butha-buthe-cities-v2.webp"
+},
     description: {
       de: "Butha-Buthe ist nach dem gleichnamigen Berg benannt, der eine historische Festung war.",
       hu: "Butha-Buthe a hasonló nevű hegyről kapta a nevét, amely történelmi erődítmény volt.",
@@ -187,7 +207,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-K",
     coords: [28.6, -29.5333],
-    name: { de: "Thaba-Tseka", hu: "Thaba-Tseka", ro: "Thaba-Tseka", en: "Thaba-Tseka" },
+    name: { de: "Thaba-Tseka", hu: "Thaba-Tseka", ro: "Thaba-Tseka", en: "Thaba-Tseka",
+image: "/poi-images/thaba-tseka-cities-v2.webp"
+},
     description: {
       de: "Thaba-Tseka wurde in den 1970er Jahren als administratives Zentrum für das Hochland gegründet.",
       hu: "Thaba-Tsekát az 1970-es években alapították a felföld adminisztratív központjaként.",
@@ -205,7 +227,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.7167, -29.45],
-    name: { de: "Roma", hu: "Roma", ro: "Roma", en: "Roma" },
+    name: { de: "Roma", hu: "Roma", ro: "Roma", en: "Roma",
+image: "/poi-images/roma-cities-v2.webp"
+},
     description: {
       de: "Roma ist das Bildungszentrum von Lesotho und Sitz der Nationalen Universität.",
       hu: "Roma Lesotho oktatási központja és a Nemzeti Egyetem székhelye.",
@@ -223,7 +247,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.5, -29.6333],
-    name: { de: "Morija", hu: "Morija", ro: "Morija", en: "Morija" },
+    name: { de: "Morija", hu: "Morija", ro: "Morija", en: "Morija",
+image: "/poi-images/morija-cities-v2.webp"
+},
     description: {
       de: "Morija ist bekannt für seine historischen Missionen und das Morija Museum & Archives.",
       hu: "Morija történelmi misszióiról és a Morija Múzeumról és Archívumról híres.",
@@ -241,7 +267,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [28.05, -29.8333],
-    name: { de: "Semonkong", hu: "Semonkong", ro: "Semonkong", en: "Semonkong" },
+    name: { de: "Semonkong", hu: "Semonkong", ro: "Semonkong", en: "Semonkong",
+image: "/poi-images/semonkong-cities-v2.webp"
+},
     description: {
       de: "Semonkong bedeutet 'Ort des Rauches' und liegt in der Nähe des Maletsunyane-Wasserfalls.",
       hu: "Semonkong jelentése 'füstös hely', és a Maletsunyane-vízesés közelében található.",
@@ -259,7 +287,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.5667, -29.4333],
-    name: { de: "Mazenod", hu: "Mazenod", ro: "Mazenod", en: "Mazenod" },
+    name: { de: "Mazenod", hu: "Mazenod", ro: "Mazenod", en: "Mazenod",
+image: "/poi-images/mazenod-cities-v2.webp"
+},
     description: {
       de: "Mazenod ist eine Stadt südlich von Maseru, bekannt für den internationalen Flughafen.",
       hu: "Mazenod Maseru-tól délre fekvő város, amely nemzetközi repülőteréről ismert.",
@@ -277,7 +307,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.5667, -29.6167],
-    name: { de: "Matsieng", hu: "Matsieng", ro: "Matsieng", en: "Matsieng" },
+    name: { de: "Matsieng", hu: "Matsieng", ro: "Matsieng", en: "Matsieng",
+image: "/poi-images/matsieng-cities-v2.webp"
+},
     description: {
       de: "Matsieng ist der traditionelle Sitz des Königs von Lesotho.",
       hu: "Matsieng Lesotho királyának hagyományos székhelye.",
@@ -295,7 +327,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-D",
     coords: [27.9833, -29.1167],
-    name: { de: "Mapoteng", hu: "Mapoteng", ro: "Mapoteng", en: "Mapoteng" },
+    name: { de: "Mapoteng", hu: "Mapoteng", ro: "Mapoteng", en: "Mapoteng",
+image: "/poi-images/mapoteng-cities-v2.webp"
+},
     description: {
       de: "Mapoteng ist ein wichtiger Ort im Berea-Distrikt mit einem bedeutenden Krankenhaus.",
       hu: "Mapoteng Berea körzet fontos települése, jelentős kórházzal.",
@@ -314,7 +348,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-C",
     coords: [27.7167, -28.95],
-    name: { de: "Peka", hu: "Peka", ro: "Peka", en: "Peka" },
+    name: { de: "Peka", hu: "Peka", ro: "Peka", en: "Peka",
+image: "/poi-images/peka-cities-v2.webp"
+},
     description: {
       de: "Peka ist eine Stadt im Leribe-Distrikt, nahe der Grenze zu Südafrika.",
       hu: "Peka Leribe körzetben található város, közel a dél-afrikai határhoz.",
@@ -332,7 +368,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-E",
     coords: [27.1833, -29.75],
-    name: { de: "Tsakholo", hu: "Tsakholo", ro: "Tsakholo", en: "Tsakholo" },
+    name: { de: "Tsakholo", hu: "Tsakholo", ro: "Tsakholo", en: "Tsakholo",
+image: "/poi-images/tsakholo-cities-v2.webp"
+},
     description: {
       de: "Tsakholo ist eine Siedlung im Mafeteng-Distrikt, bekannt für seinen See.",
       hu: "Tsakholo Mafeteng körzet egyik települése, amely taváról ismert.",
@@ -350,7 +388,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-B",
     coords: [28.6, -28.6833],
-    name: { de: "Makhonoane", hu: "Makhonoane", ro: "Makhonoane", en: "Makhonoane" },
+    name: { de: "Makhonoane", hu: "Makhonoane", ro: "Makhonoane", en: "Makhonoane",
+image: "/poi-images/makhonoane-cities-v2.webp"
+},
     description: {
       de: "Makhonoane ist eine kleine Stadt im Norden des Butha-Buthe-Distrikts.",
       hu: "Makhonoane kisváros Butha-Buthe körzet északi részén.",
@@ -369,7 +409,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-B",
     coords: [28.5167, -28.8167],
-    name: { de: "Motiti", hu: "Motiti", ro: "Motiti", en: "Motiti" },
+    name: { de: "Motiti", hu: "Motiti", ro: "Motiti", en: "Motiti",
+image: "/poi-images/motiti-cities-v2.webp"
+},
     description: {
       de: "Motiti ist eine wachsende Siedlung in der Nähe von Butha-Buthe.",
       hu: "Motiti egy növekvő település Butha-Buthe közelében.",
@@ -387,7 +429,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-F",
     coords: [27.75, -30.2],
-    name: { de: "Phamong", hu: "Phamong", ro: "Phamong", en: "Phamong" },
+    name: { de: "Phamong", hu: "Phamong", ro: "Phamong", en: "Phamong",
+image: "/poi-images/phamong-cities-v2.webp"
+},
     description: {
       de: "Phamong ist ein wichtiger Ort im Mohale's Hoek Distrikt.",
       hu: "Phamong Mohale's Hoek körzetének fontos települése.",
@@ -406,7 +450,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-G",
     coords: [27.8833, -30.3333],
-    name: { de: "Mount Moorosi", hu: "Mount Moorosi", ro: "Mount Moorosi", en: "Mount Moorosi" },
+    name: { de: "Mount Moorosi", hu: "Mount Moorosi", ro: "Mount Moorosi", en: "Mount Moorosi",
+image: "/poi-images/mount-moorosi-cities-v2.webp"
+},
     description: {
       de: "Mount Moorosi ist bekannt für seine historische Festung und dramatische Landschaft.",
       hu: "Mount Moorosi történelmi erődjéről és drámai tájairól ismert.",
@@ -425,7 +471,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-G",
     coords: [28.2833, -30.35],
-    name: { de: "Mphaki", hu: "Mphaki", ro: "Mphaki", en: "Mphaki" },
+    name: { de: "Mphaki", hu: "Mphaki", ro: "Mphaki", en: "Mphaki",
+image: "/poi-images/mphaki-cities-v2.webp"
+},
     description: {
       de: "Mphaki ist ein Hochlandort im Quthing-Distrikt, ein Zentrum für Viehzucht.",
       hu: "Mphaki hegyvidéki település Quthing körzetben, az állattenyésztés központja.",
@@ -443,7 +491,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-H",
     coords: [28.4333, -30.0167],
-    name: { de: "Sekake", hu: "Sekake", ro: "Sekake", en: "Sekake" },
+    name: { de: "Sekake", hu: "Sekake", ro: "Sekake", en: "Sekake",
+image: "/poi-images/sekake-cities-v2.webp"
+},
     description: {
       de: "Sekake ist ein wichtiger Knotenpunkt im Qacha's Nek Distrikt.",
       hu: "Sekake fontos közlekedési csomópont Qacha's Nek körzetében.",
@@ -461,7 +511,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-H",
     coords: [29.1, -29.8667],
-    name: { de: "Sehlabathebe", hu: "Sehlabathebe", ro: "Sehlabathebe", en: "Sehlabathebe" },
+    name: { de: "Sehlabathebe", hu: "Sehlabathebe", ro: "Sehlabathebe", en: "Sehlabathebe",
+image: "/poi-images/sehlabathebe-cities-v2.webp"
+},
     description: {
       de: "Sehlabathebe ist ein Dorf nahe dem Sehlabathebe-Nationalpark.",
       hu: "Sehlabathebe egy falu a Sehlabathebe Nemzeti Park közelében.",
@@ -479,7 +531,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-C",
     coords: [28.5, -29.1167],
-    name: { de: "Ha Lejone", hu: "Ha Lejone", ro: "Ha Lejone", en: "Ha Lejone" },
+    name: { de: "Ha Lejone", hu: "Ha Lejone", ro: "Ha Lejone", en: "Ha Lejone",
+image: "/poi-images/ha-lejone-cities-v2.webp"
+},
     description: {
       de: "Ha Lejone ist ein Ort am Nordende des Katse-Stausees.",
       hu: "Ha Lejone a Katse-víztározó északi végén található település.",
@@ -497,7 +551,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-K",
     coords: [28.5, -29.3333],
-    name: { de: "Katse", hu: "Katse", ro: "Katse", en: "Katse" },
+    name: { de: "Katse", hu: "Katse", ro: "Katse", en: "Katse",
+image: "/poi-images/katse-cities-v2.webp"
+},
     description: {
       de: "Katse ist bekannt für die Katse-Talsperre, eine der höchsten Afrikas.",
       hu: "Katse a Katse-gátról ismert, amely Afrika egyik legmagasabb gátja.",
@@ -515,7 +571,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.6667, -29.35],
-    name: { de: "Thaba-Bosiu", hu: "Thaba-Bosiu", ro: "Thaba-Bosiu", en: "Thaba-Bosiu" },
+    name: { de: "Thaba-Bosiu", hu: "Thaba-Bosiu", ro: "Thaba-Bosiu", en: "Thaba-Bosiu",
+image: "/poi-images/thaba-bosiu-cities-v2.webp"
+},
     description: {
       de: "Thaba-Bosiu ist die Wiege der basothischen Nation und eine heilige Stätte.",
       hu: "Thaba-Bosiu a basotho nemzet bölcsője és szent hely.",
@@ -533,7 +591,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.65, -29.4167],
-    name: { de: "Saint Michaels", hu: "Saint Michaels", ro: "Saint Michaels", en: "Saint Michaels" },
+    name: { de: "Saint Michaels", hu: "Saint Michaels", ro: "Saint Michaels", en: "Saint Michaels",
+image: "/poi-images/saint-michaels-cities-v2.webp"
+},
     description: {
       de: "Saint Michaels ist eine wichtige Missionsstation und Siedlung nahe Maseru.",
       hu: "Saint Michaels fontos missziós állomás és település Maseru közelében.",
@@ -551,7 +611,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-B",
     coords: [28.3333, -28.85],
-    name: { de: "Khabo's", hu: "Khabo's", ro: "Khabo's", en: "Khabo's" },
+    name: { de: "Khabo's", hu: "Khabo's", ro: "Khabo's", en: "Khabo's",
+image: "/poi-images/khabos-cities-v2.webp"
+},
     description: {
       de: "Khabo's ist eine Siedlung im Leribe-Distrikt mit fruchtbarem Ackerland.",
       hu: "Khabo's Leribe körzet egyik települése, termékeny szántóföldekkel.",
@@ -569,7 +631,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-F",
     coords: [27.4167, -30.2167],
-    name: { de: "Maphutseng", hu: "Maphutseng", ro: "Maphutseng", en: "Maphutseng" },
+    name: { de: "Maphutseng", hu: "Maphutseng", ro: "Maphutseng", en: "Maphutseng",
+image: "/poi-images/maphutseng-cities-v2.webp"
+},
     description: {
       de: "Maphutseng liegt im Mohale's Hoek Distrikt und ist ein ländliches Zentrum.",
       hu: "Maphutseng Mohale's Hoek körzetében található, vidéki központ.",
@@ -587,7 +651,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-G",
     coords: [27.6167, -30.3833],
-    name: { de: "Alwynskop", hu: "Alwynskop", ro: "Alwynskop", en: "Alwynskop" },
+    name: { de: "Alwynskop", hu: "Alwynskop", ro: "Alwynskop", en: "Alwynskop",
+image: "/poi-images/alwynskop-cities-v2.webp"
+},
     description: {
       de: "Alwynskop ist ein kleiner Ort im Quthing-Distrikt mit weiten Ausblicken.",
       hu: "Alwynskop kis település Quthing körzetben, tágas kilátással.",
@@ -606,7 +672,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-J",
     coords: [29, -29],
-    name: { de: "Letseng-la-Terae", hu: "Letseng-la-Terae", ro: "Letseng-la-Terae", en: "Letseng-la-Terae" },
+    name: { de: "Letseng-la-Terae", hu: "Letseng-la-Terae", ro: "Letseng-la-Terae", en: "Letseng-la-Terae",
+image: "/poi-images/letseng-la-terae-cities-v2.webp"
+},
     description: {
       de: "Letseng-la-Terae ist die höchstgelegene Diamantenmine der Welt.",
       hu: "Letseng-la-Terae a világ legmagasabban fekvő gyémántbányája.",
@@ -624,7 +692,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-K",
     coords: [28.25, -29.5333],
-    name: { de: "Mantsonyane", hu: "Mantsonyane", ro: "Mantsonyane", en: "Mantsonyane" },
+    name: { de: "Mantsonyane", hu: "Mantsonyane", ro: "Mantsonyane", en: "Mantsonyane",
+image: "/poi-images/mantsonyane-cities-v2.webp"
+},
     description: {
       de: "Mantsonyane ist eine Hochlandsiedlung im Thaba-Tseka-Distrikt.",
       hu: "Mantsonyane hegyvidéki település Thaba-Tseka körzetben.",
@@ -642,7 +712,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.8, -29.4],
-    name: { de: "Ha Ntsi", hu: "Ha Ntsi", ro: "Ha Ntsi", en: "Ha Ntsi" },
+    name: { de: "Ha Ntsi", hu: "Ha Ntsi", ro: "Ha Ntsi", en: "Ha Ntsi",
+image: "/poi-images/ha-ntsi-cities-v2.webp"
+},
     description: {
       de: "Ha Ntsi ist ein malerischer Ort in den Ausläufern der Maloti-Berge.",
       hu: "Ha Ntsi festői település a Maloti-hegység lábánál.",
@@ -660,7 +732,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.8333, -29.35],
-    name: { de: "Ha Baroana", hu: "Ha Baroana", ro: "Ha Baroana", en: "Ha Baroana" },
+    name: { de: "Ha Baroana", hu: "Ha Baroana", ro: "Ha Baroana", en: "Ha Baroana",
+image: "/poi-images/ha-baroana-cities-v2.webp"
+},
     description: {
       de: "Ha Baroana ist berühmt für seine bedeutenden Felsmalereien der San.",
       hu: "Ha Baroana a sanok jelentős sziklarajzairól híres.",
@@ -678,7 +752,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.6, -29.55],
-    name: { de: "Ha Moitsupeli", hu: "Ha Moitsupeli", ro: "Ha Moitsupeli", en: "Ha Moitsupeli" },
+    name: { de: "Ha Moitsupeli", hu: "Ha Moitsupeli", ro: "Ha Moitsupeli", en: "Ha Moitsupeli",
+image: "/poi-images/ha-moitsupeli-cities-v2.webp"
+},
     description: {
       de: "Ha Moitsupeli ist ein Dorf im Maseru-Distrikt mit traditioneller Lebensweise.",
       hu: "Ha Moitsupeli falu Maseru körzetben, hagyományos életmóddal.",
@@ -696,7 +772,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.85, -29.4333],
-    name: { de: "Molimo Nthuse", hu: "Molimo Nthuse", ro: "Molimo Nthuse", en: "Molimo Nthuse" },
+    name: { de: "Molimo Nthuse", hu: "Molimo Nthuse", ro: "Molimo Nthuse", en: "Molimo Nthuse",
+image: "/poi-images/molimo-nthuse-cities-v2.webp"
+},
     description: {
       de: "Molimo Nthuse bedeutet 'Gott hilf mir' und liegt an einem Bergpass.",
       hu: "Molimo Nthuse jelentése 'Isten segíts meg', és egy hegyi hágónál található.",
@@ -715,7 +793,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-K",
     coords: [28.15, -29.55],
-    name: { de: "Marakabei", hu: "Marakabei", ro: "Marakabei", en: "Marakabei" },
+    name: { de: "Marakabei", hu: "Marakabei", ro: "Marakabei", en: "Marakabei",
+image: "/poi-images/marakabei-cities-v2.webp"
+},
     description: {
       de: "Marakabei ist eine zentrale Bergsiedlung am Senqunyane-Fluss.",
       hu: "Marakabei központi hegyi település a Senqunyane-folyó mentén.",
@@ -734,7 +814,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-D",
     coords: [27.8833, -29.2333],
-    name: { de: "Ha Kome", hu: "Ha Kome", ro: "Ha Kome", en: "Ha Kome" },
+    name: { de: "Ha Kome", hu: "Ha Kome", ro: "Ha Kome", en: "Ha Kome",
+image: "/poi-images/ha-kome-cities-v2.webp"
+},
     description: {
       de: "Ha Kome ist bekannt für seine historischen Höhlenhäuser.",
       hu: "Ha Kome történelmi barlanglakásairól ismert.",
@@ -752,7 +834,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-B",
     coords: [28.4167, -28.8333],
-    name: { de: "Ha Belo", hu: "Ha Belo", ro: "Ha Belo", en: "Ha Belo" },
+    name: { de: "Ha Belo", hu: "Ha Belo", ro: "Ha Belo", en: "Ha Belo",
+image: "/poi-images/ha-belo-cities-v2.webp"
+},
     description: {
       de: "Ha Belo ist eine Gemeinde im Butha-Buthe-Distrikt.",
       hu: "Ha Belo egy közösség Butha-Buthe körzetében.",
@@ -770,7 +854,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-A",
     coords: [27.9333, -29.4667],
-    name: { de: "Likalaneng", hu: "Likalaneng", ro: "Likalaneng", en: "Likalaneng" },
+    name: { de: "Likalaneng", hu: "Likalaneng", ro: "Likalaneng", en: "Likalaneng",
+image: "/poi-images/likalaneng-cities-v2.webp"
+},
     description: {
       de: "Likalaneng liegt im Herzen der Berge an der Hauptstraße zum Katse-Damm.",
       hu: "Likalaneng a hegyek szívében fekszik, a Katse-gáthoz vezető főút mentén.",
@@ -788,7 +874,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-F",
     coords: [27.4833, -30.25],
-    name: { de: "Maphutsaneng", hu: "Maphutsaneng", ro: "Maphutsaneng", en: "Maphutsaneng" },
+    name: { de: "Maphutsaneng", hu: "Maphutsaneng", ro: "Maphutsaneng", en: "Maphutsaneng",
+image: "/poi-images/maphutsaneng-cities-v2.webp"
+},
     description: {
       de: "Maphutsaneng ist eine kleine Bergsiedlung im Süden Lesothos.",
       hu: "Maphutsaneng kis hegyi település Lesotho déli részén.",
@@ -807,7 +895,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-G",
     coords: [27.5667, -30.4167],
-    name: { de: "Tele", hu: "Tele", ro: "Tele", en: "Tele" },
+    name: { de: "Tele", hu: "Tele", ro: "Tele", en: "Tele",
+image: "/poi-images/tele-cities-v2.webp"
+},
     description: {
       de: "Tele ist ein Grenzort im Quthing-Distrikt, benannt nach dem Tele-Fluss.",
       hu: "Tele határmenti település Quthing körzetben, a Tele-folyóról kapta a nevét.",
@@ -825,7 +915,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-H",
     coords: [28.6, -30.15],
-    name: { de: "Ha Mpiti", hu: "Ha Mpiti", ro: "Ha Mpiti", en: "Ha Mpiti" },
+    name: { de: "Ha Mpiti", hu: "Ha Mpiti", ro: "Ha Mpiti", en: "Ha Mpiti",
+image: "/poi-images/ha-mpiti-cities-v2.webp"
+},
     description: {
       de: "Ha Mpiti ist eine Siedlung im Qacha's Nek Distrikt.",
       hu: "Ha Mpiti Qacha's Nek körzet egyik települése.",
@@ -843,7 +935,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-H",
     coords: [28.45, -30.0333],
-    name: { de: "Ha Sekake", hu: "Ha Sekake", ro: "Ha Sekake", en: "Ha Sekake" },
+    name: { de: "Ha Sekake", hu: "Ha Sekake", ro: "Ha Sekake", en: "Ha Sekake",
+image: "/poi-images/ha-sekake-cities-v2.webp"
+},
     description: {
       de: "Ha Sekake ist eine Siedlung an der Straße nach Qacha's Nek.",
       hu: "Ha Sekake egy település a Qacha's Nek-be vezető út mentén.",
@@ -862,7 +956,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-K",
     coords: [28.75, -29.45],
-    name: { de: "Ha Rafanyane", hu: "Ha Rafanyane", ro: "Ha Rafanyane", en: "Ha Rafanyane" },
+    name: { de: "Ha Rafanyane", hu: "Ha Rafanyane", ro: "Ha Rafanyane", en: "Ha Rafanyane",
+image: "/poi-images/ha-rafanyane-cities-v2.webp"
+},
     description: {
       de: "Ha Rafanyane ist ein Dorf im zentralen Thaba-Tseka-Distrikt.",
       hu: "Ha Rafanyane egy falu Thaba-Tseka körzet központi részén.",
@@ -880,7 +976,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-K",
     coords: [28.85, -29.65],
-    name: { de: "Mashai", hu: "Mashai", ro: "Mashai", en: "Mashai" },
+    name: { de: "Mashai", hu: "Mashai", ro: "Mashai", en: "Mashai",
+image: "/poi-images/mashai-cities-v2.webp"
+},
     description: {
       de: "Mashai ist eine Siedlung im Thaba-Tseka-Distrikt, bekannt für das Mashai-Plateau.",
       hu: "Mashai Thaba-Tseka körzet egyik települése, a Mashai-fennsíkról ismert.",
@@ -898,7 +996,9 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     type: "city",
     parent: "LS-J",
     coords: [28.95, -29.35],
-    name: { de: "Linakaneng", hu: "Linakaneng", ro: "Linakaneng", en: "Linakaneng" },
+    name: { de: "Linakaneng", hu: "Linakaneng", ro: "Linakaneng", en: "Linakaneng",
+image: "/poi-images/linakaneng-cities-v2.webp"
+},
     description: {
       de: "Linakaneng ist eine Bergsiedlung im Mokhotlong-Distrikt.",
       hu: "Linakaneng hegyi település Mokhotlong körzetben.",

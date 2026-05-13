@@ -6,261 +6,559 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR-34",
     coords: [28.9801, 41.0082],
-    name: { de: "Hagia Sophia", hu: "Hagia Szophia", ro: "Hagia Sofia", en: "Hagia Sophia" },
+    name: { de: "Hagia Sophia", hu: "Hagia Szophia", ro: "Hagia Sofia", en: "Hagia Sophia",
+image: "/poi-images/hagia-sophia-landmarks-v2.webp"
+},
     description: { de: "Ein architektonisches Meisterwerk in Istanbul, das im Laufe seiner langen Geschichte als Kirche und Moschee diente.", hu: "Egy építészeti remekmű Isztambulban, amely hosszú történelme során templomként és mecsetként is funkcionált.", ro: "O capodoperă arhitecturală în Istanbul, care a servit ca biserică și moschee de-a lungul istoriei sale lungi.", en: "An architectural masterpiece in Istanbul that served as both a church and a mosque throughout its long history." },
     facts: {
       de: ["Ursprünglich 537 als Kathedrale erbaut.", "Berühmt für ihre gewaltige Kuppel.", "War fast tausend Jahre lang die größte Kirche der Welt."],
       hu: ["Eredetileg 537-ben épült katedrálisként.", "Hatalmas kupolájáról híres.", "Közel ezer évig a világ legnagyobb temploma volt."],
       ro: ["Construită inițial ca o catedrală în anul 537.", "Faimoasă pentru domul său masiv.", "A fost cea mai mare biserică din lume timp de aproape o mie de ani."],
       en: ["Originally built as a cathedral in 537.", "Famous for its massive dome.", "Was the world's largest church for nearly a thousand years."]
-    }, image: "/poi-images/hagia-sophia-landmarks-v2.webp"},
+    }, image: "/poi-images/hagia-sophia-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hagia Sophia wurde im Jahr 537 als größte christliche Kirche vollendet und prägt mit ihrer 55 Meter hohen Kuppel seit fast 1500 Jahren das Stadtbild Istanbuls.",
+      hu: "A bizánci építészet remekműve 537-ben készült el. Közel ezer évig a kereszténység legnagyobb temploma volt, mielőtt 1453-ban mecsetté, majd később múzeummá alakították.",
+      ro: "Finalizată în 532, această capodoperă a arhitecturii bizantine a servit drept catedrală timp de aproape un mileniu, fiind renumită pentru cupola sa monumentală de 55 metri.",
+      en: "Completed in 537 AD, this masterpiece of Byzantine architecture served as the world's largest cathedral for nearly a thousand years, featuring a massive 55-meter dome.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von nur 5 Jahren", "Kuppeldurchmesser 31 Meter", "UNESCO-Welterbe seit 1985", "Vier Minarette nach 1453"],
+      hu: ["Építése mindössze 5 évig tartott", "A kupola magassága 55 méter", "1985 óta az UNESCO Világörökség része", "30 millió arany mozaikdarab díszíti"],
+      ro: ["Construită în doar 5 ani", "Diametrul cupolei are 31 metri", "Patrimoniu UNESCO din 1985", "Patru minarete adăugate după 1453"],
+      en: ["Built in only 5 years", "Dome diameter of 31 meters", "UNESCO World Heritage since 1985", "Contains 107 massive columns"],
+    },
+  },
   {
     id: "topkapi-palace-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [28.9833, 41.0115],
-    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace" },
+    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace",
+image: "/poi-images/topkapi-palace-landmarks-v2.webp"
+},
     description: { de: "Einst die prächtige Hauptresidenz der osmanischen Sultane, beherbergt der Palast heute ein beeindruckendes Museum.", hu: "Az oszmán szultánok egykori pompás főrezidenciája, ma egy lenyűgöző múzeumnak ad otthont.", ro: "Cândva reședința principală magnifică a sultanilor otomani, palatul găzduiește astăzi un muzeu impresionant.", en: "Once the magnificent main residence of the Ottoman sultans, the palace now houses an impressive museum." },
     facts: {
       de: ["Wurde im 15. Jahrhundert nach der Eroberung Istanbuls erbaut.", "Beherbergt den Harem und heilige Reliquien.", "Seit 1985 UNESCO-Weltkulturerbe."],
       hu: ["A 15. században épült Isztambul meghódítása után.", "Itt található a hárem és számos szent ereklye.", "1985 óta az UNESCO világörökség része."],
       ro: ["Construit în secolul al XV-lea după cucerirea Istanbulului.", "Găzduiește haremul și relicve sfinte.", "Patrimoniu Mondial UNESCO din 1985."],
       en: ["Built in the 15th century after the conquest of Istanbul.", "Houses the harem and sacred relics.", "A UNESCO World Heritage Site since 1985."]
-    }, image: "/poi-images/topkapi-palace-landmarks-v2.webp"},
+    }, image: "/poi-images/topkapi-palace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Topkapi-Palast diente fast 400 Jahre lang als Residenz der osmanischen Sultane und beherbergt heute wertvolle Schätze wie den Löffelmacher-Diamanten und heilige Reliquien.",
+      hu: "Az oszmán szultánok lakhelye 1465 és 1853 között, amely egy hatalmas komplexumot alkot kertekkel, háremmel és kincstárral, Isztambul történelmi félszigetének csúcsán.",
+      ro: "Reședința sultanilor otomani timp de 400 de ani, palatul este un vast complex de curți și pavilioane ce adăpostește astăzi faimosul diamant Spoonmaker de 86 de carate.",
+      en: "The primary residence of Ottoman Sultans for 400 years, this sprawling complex overlooking the Bosphorus now houses sacred relics and the 86-carat Spoonmaker's Diamond.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 700.000 m²", "Sitz der Sultane bis 1853", "Haremsbereich mit 400 Zimmern", "Bau begann unter Mehmed II."],
+      hu: ["700 000 négyzetméteres terület", "A háremnek 400 szobája van", "II. Mehmed építtette 1459-ben", "Itt őrzik Keresztelő János karját"],
+      ro: ["Suprafață de 700.000 mp", "Harem cu peste 400 de camere", "Construcție începută în 1459", "Muzeu deschis oficial în 1924"],
+      en: ["Area of 700,000 square meters", "Harem contains 400 rooms", "Construction started in 1459", "House of sultans until 1853"],
+    },
+  },
   {
     id: "blue-mosque-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [28.9768, 41.0054],
-    name: { de: "Sultan-Ahmed-Moschee", hu: "Kék mecset", ro: "Moscheea Albastră", en: "Blue Mosque" },
+    name: { de: "Sultan-Ahmed-Moschee", hu: "Kék mecset", ro: "Moscheea Albastră", en: "Blue Mosque",
+image: "/poi-images/blue-mosque-landmarks-v2.webp"
+},
     description: { de: "Eine historische Moschee, die für ihre auffälligen blauen İznik-Fliesen bekannt ist, die das Innere schmücken.", hu: "Egy történelmi mecset, amely a belsejét díszítő feltűnő kék izniki csempékről ismert.", ro: "O moschee istorică, cunoscută pentru plăcile sale izbitoare de faianță albastră de İznik care decorează interiorul.", en: "A historic mosque known for its striking blue İznik tiles that decorate the interior." },
     facts: {
       de: ["Verfügt über sechs markante Minarette.", "Erbaut zwischen 1609 und 1616 unter Sultan Ahmed I.", "Eines der Wahrzeichen von Istanbul."],
       hu: ["Hat jellegzetes minarettel rendelkezik.", "1609 és 1616 között épült I. Ahmed szultán idején.", "Isztambul egyik legismertebb jelképe."],
       ro: ["Are șase minarete distinctive.", "Construită între 1609 și 1616 sub Sultanul Ahmed I.", "Unul dintre reperele din Istanbul."],
       en: ["Features six distinctive minarets.", "Built between 1609 and 1616 under Sultan Ahmed I.", "One of the landmarks of Istanbul."]
-    }, image: "/poi-images/blue-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/blue-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sultan-Ahmed-Moschee ist für ihre über 20.000 blauen Iznik-Kacheln berühmt und war die erste Moschee im Osmanischen Reich, die mit sechs Minaretten erbaut wurde.",
+      hu: "Az 1616-ban befejezett mecset nevét a belső terét díszítő több mint 20 000 kék izniki csempéről kapta. Hat karcsú minaretje az isztambuli sziluett meghatározó eleme.",
+      ro: "Construită între 1609 și 1616, moscheea este faimoasă pentru cele 20.000 de plăci de ceramică Iznik albastră și cele șase minarete ridicate din ordinul lui Ahmed I.",
+      en: "Built between 1609 and 1616, this imperial mosque is famous for its six minarets and 20,000 blue Iznik tiles that decorate its high ceilings and interior walls.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 1609 bis 1616", "20.000 handgefertigte Kacheln", "Sechs Minarette vorhanden", "200 Buntglasfenster im Inneren"],
+      hu: ["1616-ban szentelték fel", "20 000 darab izniki csempe", "6 minarettel rendelkezik", "200 színes üvegablak világítja meg"],
+      ro: ["Finalizată în anul 1616", "20.000 de plăci ceramice Iznik", "Singura cu 6 minarete la acea vreme", "Peste 200 de ferestre colorate"],
+      en: ["Completed in 1616", "Contains 20,000 Iznik tiles", "Features six slender minarets", "Has over 200 stained glass windows"],
+    },
+  },
   {
     id: "pamukkale-landmarks-v2",
     type: "landmark",
     parent: "TR-20",
     coords: [29.1193, 37.9253],
-    name: { de: "Pamukkale", hu: "Pamukkale", ro: "Pamukkale", en: "Pamukkale" },
+    name: { de: "Pamukkale", hu: "Pamukkale", ro: "Pamukkale", en: "Pamukkale",
+image: "/poi-images/pamukkale-landmarks-v2.webp"
+},
     description: { de: "Ein beeindruckendes Naturwunder in der Westtürkei, bekannt für seine strahlend weißen Sinterterrassen und heißen Thermalquellen.", hu: "Lenyűgöző természeti csoda Törökország nyugati részén, amely ragyogóan fehér mésztufateraszairól és hőforrásairól ismert.", ro: "O minune naturală impresionantă în vestul Turciei, cunoscută pentru terasele sale de travertin alb strălucitor și izvoarele termale.", en: "An impressive natural wonder in western Turkey, known for its bright white travertine terraces and hot thermal springs." },
     facts: {
       de: ["Der Name bedeutet wörtlich \"Baumwollschloss\".", "Direkt neben der antiken römischen Stadt Hierapolis.", "Das Thermalwasser ist reich an Kalziumkarbonat."],
       hu: ["A név szó szerinti jelentése \"gyapotvár\".", "Közvetlenül Hierapolisz ókori római város mellett fekszik.", "A termálvíz gazdag kalcium-karbonátban."],
       ro: ["Numele înseamnă literal \"Castelul de Bumbac\".", "Chiar lângă orașul antic roman Hierapolis.", "Apele termale sunt bogate în carbonat de calciu."],
       en: ["The name literally means \"Cotton Castle\".", "Right next to the ancient Roman city of Hierapolis.", "The thermal water is rich in calcium carbonate."]
-    }, image: "/poi-images/pamukkale-landmarks-v2.webp"},
+    }, image: "/poi-images/pamukkale-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Pamukkale, das 'Baumwollschloss', beeindruckt durch weiße Sinterterrassen aus Kalkstein, die über Jahrtausende durch das mineralreiche Thermalwasser geformt wurden.",
+      hu: "A látványos, fehér mészkőteraszokat a 35 fokos, kalciumban gazdag termálvíz alakította ki évezredek alatt. A helyszín felett az ókori Hierapolisz romvárosa fekszik.",
+      ro: "Denumit 'Castelul de Bumbac', acest sit natural este format din terase de travertin alb create de apele termale bogate în calciu care curg de pe muntele din apropiere.",
+      en: "Known as the 'Cotton Castle', these white travertine terraces were formed over millennia by mineral-rich thermal waters flowing down the mountainside at 35°C.",
+    },
+    factsAdvanced: {
+      de: ["17 Thermalquellen vorhanden", "Wassertemperatur ca. 35 °C", "UNESCO-Welterbe seit 1988", "Kalksinterterrassen über 2 km"],
+      hu: ["17 termálforrás található itt", "A víz hőmérséklete 35 fokos", "UNESCO Világörökség 1988 óta", "A teraszok hossza közel 2700 méter"],
+      ro: ["17 izvoare termale active", "Temperatura apei este de 35°C", "Patrimoniu UNESCO din 1988", "Lungimea teraselor este de 2700 m"],
+      en: ["Features 17 thermal springs", "Water temperature is 35°C", "UNESCO World Heritage since 1988", "Terraces span nearly 2,700 meters"],
+    },
+  },
   {
     id: "ephesus-landmarks-v2",
     type: "landmark",
     parent: "TR-35",
     coords: [27.3411, 37.9411],
-    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus" },
+    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus",
+image: "/poi-images/ephesus-landmarks-v2.webp"
+},
     description: { de: "Eine antike griechische Stadt an der Küste Ioniens, die einige der besterhaltenen römischen Ruinen im Mittelmeerraum bietet.", hu: "Egy ókori görög város Jónia partján, amely a Földközi-tenger térségének egyik legjobb állapotban fennmaradt római kori romjait kínálja.", ro: "Un oraș antic grec pe coasta Ioniei, oferind unele dintre cele mai bine conservate ruine romane din Marea Mediterană.", en: "An ancient Greek city on the coast of Ionia, offering some of the best-preserved Roman ruins in the Mediterranean." },
     facts: {
       de: ["Einst Standort des Tempels der Artemis, eines der Sieben Weltwunder.", "Berühmt für die Celsus-Bibliothek.", "Das große Theater bot Platz für 25.000 Zuschauer."],
       hu: ["Egykor Artemisz templomának helyszíne, amely a világ hét csodájának egyike volt.", "A Celsus-könyvtárról híres.", "Nagy színháza 25 000 néző befogadására volt alkalmas."],
       ro: ["Fostul loc al Templului lui Artemis, una dintre Cele Șapte Minuni ale Lumii.", "Faimos pentru Biblioteca lui Celsus.", "Marele teatru putea găzdui 25.000 de spectatori."],
       en: ["Once the site of the Temple of Artemis, one of the Seven Wonders of the World.", "Famous for the Library of Celsus.", "The grand theater could accommodate 25,000 spectators."]
-    }, image: "/poi-images/ephesus-landmarks-v2.webp"},
+    }, image: "/poi-images/ephesus-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Ephesus war eine der bedeutendsten Städte der Antike und beherbergte mit dem Artemistempel eines der Sieben Weltwunder sowie die monumentale Celsus-Bibliothek.",
+      hu: "Az ókori világ egyik legnagyobb városa volt, ahol az Artemisz-templom, a világ hét csodájának egyike állt. Ma a Celsus-könyvtár homlokzata a legismertebb romja.",
+      ro: "Ocupând un rol central în antichitate, Efes găzduia Templul Artemisei, una dintre cele șapte minuni ale lumii, și spectaculoasa Bibliotecă a lui Celsus din secolul II.",
+      en: "Once a major Roman metropolis, Ephesus was home to the Temple of Artemis, one of the Seven Wonders, and the stunning 2nd-century Library of Celsus facade.",
+    },
+    factsAdvanced: {
+      de: ["Theater für 25.000 Zuschauer", "Gegründet im 10. Jhd. v. Chr.", "Celsus-Bibliothek bot 12.000 Rollen", "UNESCO-Welterbe seit 2015"],
+      hu: ["A színház 25 000 férőhelyes", "A 10. században alapították", "12 000 papirusztekercs a könyvtárban", "UNESCO Világörökség 2015 óta"],
+      ro: ["Teatru cu 25.000 de locuri", "Fondat în secolul X î.Hr.", "Biblioteca avea 12.000 de pergamente", "Patrimoniu UNESCO din 2015"],
+      en: ["Theater held 25,000 people", "Founded in the 10th century BC", "Library held 12,000 scrolls", "UNESCO World Heritage since 2015"],
+    },
+  },
   {
     id: "mount-nemrut-landmarks-v2",
     type: "landmark",
     parent: "TR-02",
     coords: [38.7613, 38.0326],
-    name: { de: "Berg Nemrut", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut" },
+    name: { de: "Berg Nemrut", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut",
+image: "/poi-images/mount-nemrut-landmarks-v2.webp"
+},
     description: { de: "Ein bedeutender Berg im Südosten der Türkei, auf dessen Gipfel sich ein monumentales Heiligtum aus der hellenistischen Zeit befindet.", hu: "Egy jelentős hegy Törökország délkeleti részén, amelynek csúcsán egy hellenisztikus korból származó monumentális szentély található.", ro: "Un munte important în sud-estul Turciei, având un sanctuar monumental din perioada elenistică în vârf.", en: "A significant mountain in southeastern Turkey, featuring a monumental sanctuary from the Hellenistic period at its summit." },
     facts: {
       de: ["Bekannt für die riesigen Steinköpfe antiker Götter.", "Das Grabheiligtum wurde von König Antiochos I. Theos erbaut.", "Ein beliebtes Ziel, um den Sonnenaufgang zu beobachten."],
       hu: ["Az ókori istenek hatalmas kőfejeiről ismert.", "A sírszentélyt I. Antiokhosz Teosz király építtette.", "Népszerű úti cél napfelkelte-nézésre."],
       ro: ["Cunoscut pentru capetele uriașe de piatră ale zeilor antici.", "Sanctuarul funerar a fost construit de Regele Antioh I Theos.", "O destinație populară pentru a privi răsăritul."],
       en: ["Known for the giant stone heads of ancient gods.", "The tomb sanctuary was built by King Antiochus I Theos.", "A popular destination to watch the sunrise."]
-    }, image: "/poi-images/mount-nemrut-landmarks-v2.webp"},
+    }, image: "/poi-images/mount-nemrut-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Auf dem 2134 Meter hohen Gipfel ließ König Antiochos I. ein monumentales Heiligtum mit riesigen Statuen errichten, deren Köpfe heute eindrucksvoll am Boden liegen.",
+      hu: "A 2134 méter magas csúcson I. Antiokhosz király monumentális sírt és szentélyt emeltetett hatalmas istenszobrokkal, melyek fejei ma a földön heverve néznek a távolba.",
+      ro: "La o altitudine de 2134 metri, regele Antioh I a ridicat un sanctuar flancat de statui colosale de 9 metri înălțime, ale căror capete stau acum așezate pe platou.",
+      en: "At 2,134 meters elevation, King Antiochus I built a colossal sanctuary flanked by 9-meter statues of gods, whose massive heads now sit impressively on the ground.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 2134 Meter", "Erbaut im 1. Jhd. v. Chr.", "Statuen ursprünglich 9 Meter hoch", "UNESCO-Welterbe seit 1987"],
+      hu: ["A csúcs magassága 2134 méter", "Az 1. században épült", "A szobrok eredetileg 9 méteresek", "UNESCO Világörökség 1987 óta"],
+      ro: ["Altitudine de 2134 metri", "Construit în secolul I î.Hr.", "Statui înalte de 9 metri", "Patrimoniu UNESCO din 1987"],
+      en: ["Peak height of 2,134 meters", "Built in the 1st century BC", "Statues were originally 9m tall", "UNESCO World Heritage since 1987"],
+    },
+  },
   {
     id: "goreme-national-park-landmarks-v2",
     type: "landmark",
     parent: "TR-50",
     coords: [34.8288, 38.6430],
-    name: { de: "Nationalpark Göreme", hu: "Göreme Nemzeti Park", ro: "Parcul Național Göreme", en: "Göreme National Park" },
+    name: { de: "Nationalpark Göreme", hu: "Göreme Nemzeti Park", ro: "Parcul Național Göreme", en: "Göreme National Park",
+image: "/poi-images/goreme-national-park-landmarks-v2.webp"
+},
     description: { de: "Eine spektakuläre Landschaft in Kappadokien, geformt durch Erosion und berühmt für ihre einzigartigen Feenkamine.", hu: "Kappadókia látványos tája, amelyet az erózió formált, és híres az egyedülálló tündérkéményeiről.", ro: "Un peisaj spectaculos în Capadocia, format prin eroziune și faimos pentru hornurile sale unice ale zânelor.", en: "A spectacular landscape in Cappadocia, shaped by erosion and famous for its unique fairy chimneys." },
     facts: {
       de: ["Voller alter, in den weichen Stein gehauener Höhlenkirchen.", "Ein Weltzentrum für Heißluftballonfahrten.", "Die Felsformationen bestehen aus vulkanischem Tuffstein."],
       hu: ["Tele van a puha kőzetbe vájt, ősi barlangtemplomokkal.", "A hőlégballonozás egyik világközpontja.", "A sziklaalakzatok vulkáni tufából állnak."],
       ro: ["Plin de biserici antice săpate în stânca moale.", "Un centru mondial pentru zborurile cu balonul cu aer cald.", "Formațiunile de stâncă sunt alcătuite din tuf vulcanic."],
       en: ["Full of ancient cave churches carved into the soft rock.", "A world hub for hot air ballooning.", "The rock formations consist of volcanic tuff."]
-    }, image: "/poi-images/goreme-national-park-landmarks-v2.webp"},
+    }, image: "/poi-images/goreme-national-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese einzigartige Vulkanlandschaft Kappadokiens ist für ihre 'Feenkamine' und die in den weichen Tuffstein gehauenen byzantinischen Felsenkirchen und Klöster bekannt.",
+      hu: "Kappadókia vulkáni tája a híres 'tündérkéményeiről' és a puha tufába vájt bizánci barlangtemplomairól ismert, melyekben épségben maradtak a középkori freskók.",
+      ro: "Acest peisaj vulcanic spectaculos din Cappadocia este celebru pentru 'hornurile zânelor' și bisericile rupestre bizantine sculptate direct în roca de tuf moale.",
+      en: "This unique volcanic landscape in Cappadocia is famous for its 'fairy chimneys' and Byzantine rock-cut churches adorned with well-preserved medieval frescoes.",
+    },
+    factsAdvanced: {
+      de: ["Über 30 Felsenkirchen", "Fresken aus dem 10.-12. Jhd.", "UNESCO-Welterbe seit 1985", "Vulkanische Tuffsteinformationen"],
+      hu: ["Több mint 30 barlangtemplom", "Freskók a 10-12. századból", "UNESCO Világörökség 1985 óta", "Vulkáni tufa alkotja a tájat"],
+      ro: ["Peste 30 de biserici rupestre", "Fresce din secolele X-XII", "Patrimoniu UNESCO din 1985", "Format din rocă de tuf vulcanic"],
+      en: ["Over 30 rock-cut churches", "Frescoes date to 10th-12th century", "UNESCO World Heritage since 1985", "Formed from soft volcanic tuff"],
+    },
+  },
   {
     id: "sumela-monastery-landmarks-v2",
     type: "landmark",
     parent: "TR-61",
     coords: [39.6582, 40.6901],
-    name: { de: "Sümela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery" },
+    name: { de: "Sümela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery",
+image: "/poi-images/sumela-monastery-landmarks-v2.webp"
+},
     description: { de: "Ein griechisch-orthodoxes Kloster, das dramatisch in eine steile Klippe in der Schwarzmeerregion gebaut wurde.", hu: "Egy görög ortodox kolostor, amely drámai módon egy meredek sziklafalba épült a Fekete-tenger régiójában.", ro: "O mănăstire greco-ortodoxă, construită dramatic într-o stâncă abruptă din regiunea Mării Negre.", en: "A Greek Orthodox monastery dramatically built into a steep cliff in the Black Sea region." },
     facts: {
       de: ["Gegründet im Jahr 386 nach Christus.", "Befindet sich auf einer Höhe von 1.200 Metern.", "Berühmt für seine gut erhaltenen Fresken."],
       hu: ["Krisztus után 386-ban alapították.", "1200 méteres magasságban található.", "Jó állapotban fennmaradt freskóiról híres."],
       ro: ["Fondată în anul 386 d.Hr.", "Se află la o altitudine de 1.200 de metri.", "Faimoasă pentru frescele sale bine conservate."],
       en: ["Founded in the year 386 AD.", "Located at an altitude of 1,200 meters.", "Famous for its well-preserved frescoes."]
-    }, image: "/poi-images/sumela-monastery-landmarks-v2.webp"},
+    }, image: "/poi-images/sumela-monastery-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das im Jahr 386 gegründete griechisch-orthodoxe Kloster klammert sich spektakulär an eine steile Felswand im Pontischen Gebirge, 1200 Meter über dem Meeresspiegel.",
+      hu: "A 386-ban alapított görög ortodox kolostor látványosan kapaszkodik egy meredek sziklafalhoz a Pontuszi-hegységben, 1200 méteres tengerszint feletti magasságban.",
+      ro: "Fondată în anul 386, această mănăstire ortodoxă este suspendată spectaculos pe o stâncă abruptă la 1200 metri altitudine în munții Pontici, lângă Trabzon.",
+      en: "Founded in 386 AD, this Greek Orthodox monastery clings dramatically to a steep cliff face in the Pontic Mountains at an altitude of 1,200 meters above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 386", "Höhe 1200 Meter ü. NN", "Hauptkirche in einer Felsgrotte", "Felswand ist 300 Meter hoch"],
+      hu: ["386-ban alapították", "1200 méteres magasságban", "A templom egy barlangban van", "A sziklafal 300 méter magas"],
+      ro: ["Fondată în anul 386", "Altitudine de 1200 metri", "Biserică principală într-o grotă", "Pereți de stâncă de 300 metri"],
+      en: ["Founded in 386 AD", "Altitude of 1,200 meters", "Main church built inside a cave", "Cliff face is 300 meters high"],
+    },
+  },
   {
     id: "galata-tower-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [28.9731, 41.0256],
-    name: { de: "Galataturm", hu: "Galata-torony", ro: "Turnul Galata", en: "Galata Tower" },
+    name: { de: "Galataturm", hu: "Galata-torony", ro: "Turnul Galata", en: "Galata Tower",
+image: "/poi-images/galata-tower-landmarks-v2.webp"
+},
     description: { de: "Ein historischer Steinturm im Viertel Beyoğlu, der einen weiten Panoramablick über das Goldene Horn von Istanbul bietet.", hu: "Egy történelmi kőtorony a Beyoğlu negyedben, amely széles panorámát nyújt az isztambuli Aranyszarv-öbölre.", ro: "Un turn istoric de piatră în districtul Beyoğlu, oferind vederi panoramice ample asupra Cornului de Aur din Istanbul.", en: "A historic stone tower in the Beyoğlu district, offering sweeping panoramic views of Istanbul's Golden Horn." },
     facts: {
       de: ["Wurde 1348 von den Genuesen erbaut.", "Diente früher als Feuerwachturm.", "Ist heute eines der markantesten Wahrzeichen der Skyline."],
       hu: ["1348-ban építették a genovaiak.", "Korábban tűztoronyként szolgált.", "Ma a városkép egyik legmeghatározóbb jelképe."],
       ro: ["A fost construit în 1348 de către genovezi.", "A servit anterior ca turn de veghe împotriva incendiilor.", "Este astăzi unul dintre reperele distincte ale orizontului."],
       en: ["Was built by the Genoese in 1348.", "Previously served as a fire watchtower.", "Today it is one of the most distinctive landmarks of the skyline."]
-    }, image: "/poi-images/galata-tower-landmarks-v2.webp"},
+    }, image: "/poi-images/galata-tower-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1348 von den Genuesen als 'Christusturm' errichtete Galata-Turm ist ein markantes Wahrzeichen Istanbuls und bietet einen Panoramablick über das Goldene Horn.",
+      hu: "A genovaiak által 1348-ban épített torony eredetileg világítótoronyként és figyelőtoronyként szolgált. Ma az egyik legjobb körpanorámát nyújtja Isztambulra.",
+      ro: "Construit de genovezi în 1348 sub numele de 'Turnul lui Cristos', acest turn medieval oferă o panoramă de 360 de grade asupra Cornului de Aur și a Bosforului.",
+      en: "Built by the Genoese in 1348 as the 'Tower of Christ', this medieval stone tower offers a 360-degree panoramic view of the Golden Horn and the Bosphorus.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 67 Metern", "Erbaut im Jahr 1348", "Mauerdicke beträgt 3,75 Meter", "Früher als Wachturm genutzt"],
+      hu: ["Magassága 67 méter", "1348-ban épült", "A falvastagság 3,75 méter", "Eredeti neve Krisztus-torony"],
+      ro: ["Înălțime de 67 metri", "Construit în anul 1348", "Ziduri groase de 3,75 metri", "Fost turn de observație"],
+      en: ["Height of 67 meters", "Built in 1348", "Walls are 3.75 meters thick", "Formerly used as a watchtower"],
+    },
+  },
   {
     id: "troy-landmarks-v2",
     type: "landmark",
     parent: "TR-17",
     coords: [26.2389, 39.9575],
-    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy" },
+    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy",
+image: "/poi-images/troy-landmarks-v2.webp"
+},
     description: { de: "Die archäologische Stätte der legendären Stadt aus Homers Ilias, ein Ort voller Mythos und antiker Geschichte.", hu: "Homérosz Iliászának legendás városának régészeti lelőhelye, egy mítoszokkal és ókori történelemmel teli hely.", ro: "Situl arheologic al orașului legendar din Iliada lui Homer, un loc plin de mit și istorie antică.", en: "The archaeological site of the legendary city from Homer's Iliad, a place full of myth and ancient history." },
     facts: {
       de: ["Entdeckt im 19. Jahrhundert von Heinrich Schliemann.", "Ein großes hölzernes Pferd steht heute am Eingang.", "Besteht aus neun verschiedenen archäologischen Schichten."],
       hu: ["Heinrich Schliemann fedezte fel a 19. században.", "Ma egy nagy fa ló áll a bejáratánál.", "Kilenc különböző régészeti rétegből áll."],
       ro: ["Descoperit în secolul al XIX-lea de Heinrich Schliemann.", "Un cal mare de lemn se află astăzi la intrare.", "Se compune din nouă straturi arheologice diferite."],
       en: ["Discovered in the 19th century by Heinrich Schliemann.", "A large wooden horse stands at the entrance today.", "Consists of nine different archaeological layers."]
-    }, image: "/poi-images/troy-landmarks-v2.webp"},
+    }, image: "/poi-images/troy-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Troja, Schauplatz von Homers Ilias, weist neun archäologische Siedlungsschichten auf, die einen Zeitraum von über 3000 Jahren von der Bronzezeit bis zur Antike abdecken.",
+      hu: "Homérosz Iliászának legendás helyszíne kilenc egymásra épült városrétegből áll, melyek a bronzkortól a római korig tartó 3000 éves történelmet ölelik fel.",
+      ro: "Legendara cetate a lui Homer prezintă nouă straturi arheologice succesive, oferind dovezi ale locuirii umane pe o perioadă de peste 3000 de ani, din epoca bronzului.",
+      en: "The legendary setting of Homer's Iliad, Troy features nine archaeological layers spanning over 3,000 years of history from the Bronze Age to the Roman period.",
+    },
+    factsAdvanced: {
+      de: ["9 Siedlungsschichten entdeckt", "Gegründet um 3000 v. Chr.", "UNESCO-Welterbe seit 1998", "Schauplatz des Trojanischen Krieges"],
+      hu: ["9 városréteget tártak fel", "Kr. e. 3000 körül alapították", "UNESCO Világörökség 1998 óta", "A trójai faló másolata látható itt"],
+      ro: ["9 straturi de locuire", "Fondată în 3000 î.Hr.", "Patrimoniu UNESCO din 1998", "Scena Războiului Troian"],
+      en: ["9 settlement layers found", "Founded around 3000 BC", "UNESCO World Heritage since 1998", "Setting of the Trojan War"],
+    },
+  },
   {
     id: "mount-ararat-landmarks-v2",
     type: "landmark",
     parent: "TR-04",
     coords: [44.2980, 39.7020],
-    name: { de: "Berg Ararat", hu: "Ararát-hegy", ro: "Muntele Ararat", en: "Mount Ararat" },
+    name: { de: "Berg Ararat", hu: "Ararát-hegy", ro: "Muntele Ararat", en: "Mount Ararat",
+image: "/poi-images/mount-ararat-landmarks-v2.webp"
+},
     description: { de: "Ein schneebedeckter, schlafender Vulkan ganz im Osten der Türkei, der eng mit der biblischen Geschichte der Arche Noah verbunden ist.", hu: "Egy hósipkás, szunnyadó vulkán Törökország legkeletibb részén, amely szorosan kapcsolódik Noé bárkájának bibliai történetéhez.", ro: "Un vulcan adormit, acoperit de zăpadă, în extremitatea estică a Turciei, strâns legat de povestea biblică a Arcei lui Noe.", en: "A snow-capped, dormant volcano in the far east of Turkey, closely associated with the biblical story of Noah's Ark." },
     facts: {
       de: ["Der höchste Berg der Türkei mit 5.137 Metern.", "Besitzt zwei Gipfel: Großer und Kleiner Ararat.", "Ein beliebtes, aber anspruchsvolles Ziel für Bergsteiger."],
       hu: ["Törökország legmagasabb hegye, 5137 méter magas.", "Két csúcsa van: a Nagy- és a Kis-Ararát.", "Népszerű, de kihívást jelentő célpont a hegymászók számára."],
       ro: ["Cel mai înalt munte din Turcia, la 5.137 de metri.", "Are două vârfuri: Araratul Mare și cel Mic.", "O destinație populară, dar provocatoare pentru alpiniști."],
       en: ["Turkey's highest mountain at 5,137 meters.", "Has two peaks: Greater and Lesser Ararat.", "A popular but challenging destination for mountaineers."]
-    }, image: "/poi-images/mount-ararat-landmarks-v2.webp"},
+    }, image: "/poi-images/mount-ararat-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der ruhende Schichtvulkan Ararat ist mit 5137 Metern der höchste Berg der Türkei und gilt biblischer Überlieferung nach als Landeplatz der Arche Noah nach der Sintflut.",
+      hu: "Törökország legmagasabb pontja az 5137 méteres kialudt rétegvulkán. A bibliai hagyomány szerint az özönvíz után ezen a hegyen kötött ki Noé bárkája.",
+      ro: "Acest vulcan stins este cel mai înalt vârf din Turcia, atingând 5137 metri. Conform tradiției biblice, aici s-ar fi oprit Arca lui Noe după Marele Potop.",
+      en: "The dormant stratovolcano Mount Ararat is Turkey's highest peak at 5,137 meters and is biblically renowned as the resting place of Noah's Ark after the flood.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 5137 Meter", "Ruhender Schichtvulkan", "Besteht aus zwei Gipfeln", "Letzter Ausbruch im Jahr 1840"],
+      hu: ["Magassága 5137 méter", "Kialudt rétegvulkán", "Két csúcsa van: Kis- és Nagy-Ararát", "Utolsó kitörés: 1840"],
+      ro: ["Înălțime de 5137 metri", "Vulcan de tip stratovulcan", "Format din două vârfuri", "Ultima erupție în 1840"],
+      en: ["Peak height of 5,137 meters", "Dormant stratovolcano", "Consists of two major peaks", "Last eruption occurred in 1840"],
+    },
+  },
   {
     id: "grand-bazaar-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [28.9675, 41.0106],
-    name: { de: "Großer Basar", hu: "Nagy Bazár", ro: "Marele Bazar", en: "Grand Bazaar" },
+    name: { de: "Großer Basar", hu: "Nagy Bazár", ro: "Marele Bazar", en: "Grand Bazaar",
+image: "/poi-images/grand-bazaar-landmarks-v2.webp"
+},
     description: { de: "Einer der größten und ältesten überdachten Märkte der Welt, der sich im Herzen der Istanbuler Altstadt befindet.", hu: "A világ egyik legnagyobb és legrégebbi fedett piaca, amely Isztambul óvárosának szívében található.", ro: "Una dintre cele mai mari și mai vechi piețe acoperite din lume, situată în inima orașului vechi din Istanbul.", en: "One of the largest and oldest covered markets in the world, located in the heart of Istanbul's old city." },
     facts: {
       de: ["Umfasst 61 überdachte Straßen und über 4.000 Geschäfte.", "Zieht täglich bis zu 400.000 Besucher an.", "Wurde kurz nach der osmanischen Eroberung von 1453 gegründet."],
       hu: ["61 fedett utcát és több mint 4000 üzletet foglal magában.", "Naponta akár 400 000 látogatót is vonz.", "Röviddel az 1453-as oszmán hódítás után alapították."],
       ro: ["Cuprinde 61 de străzi acoperite și peste 4.000 de magazine.", "Atrage până la 400.000 de vizitatori zilnic.", "A fost fondat la scurt timp după cucerirea otomană din 1453."],
       en: ["Comprises 61 covered streets and over 4,000 shops.", "Attracts up to 400,000 visitors daily.", "Was founded shortly after the Ottoman conquest of 1453."]
-    }, image: "/poi-images/grand-bazaar-landmarks-v2.webp"},
+    }, image: "/poi-images/grand-bazaar-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Große Basar in Istanbul ist einer der größten und ältesten überdachten Märkte der Welt, mit über 4000 Geschäften in 61 Gassen, der täglich tausende Besucher anzieht.",
+      hu: "Isztambul fedett bazárja a világ egyik legrégebbi és legnagyobb piaca. 61 utcájában több mint 4000 üzlet kínál ékszereket, szőnyegeket és fűszereket.",
+      ro: "Unul dintre cele mai mari și vechi bazaruri acoperite din lume, Marele Bazar cuprinde 61 de străzi și peste 4000 de magazine, fiind inima comercială a Istanbulului.",
+      en: "One of the world's largest and oldest covered markets, the Grand Bazaar features 61 covered streets and over 4,000 shops selling jewelry, carpets, and spices.",
+    },
+    factsAdvanced: {
+      de: ["Über 4000 Geschäfte", "61 überdachte Gassen", "Bau begann im Jahr 1455", "Täglich bis zu 400.000 Besucher"],
+      hu: ["Több mint 4000 üzlet", "61 fedett utca található", "1455-ben kezdték építeni", "Napi 400 000 látogató"],
+      ro: ["Peste 4000 de magazine", "61 de străzi acoperite", "Construcție începută în 1455", "Până la 400.000 vizitatori zilnic"],
+      en: ["Over 4,000 shops", "61 covered streets", "Construction started in 1455", "Up to 400,000 daily visitors"],
+    },
+  },
   {
     id: "basilica-cistern-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [28.9783, 41.0081],
-    name: { de: "Cisterna Basilica", hu: "Elsüllyedt Palota", ro: "Cisterna Basilică", en: "Basilica Cistern" },
+    name: { de: "Cisterna Basilica", hu: "Elsüllyedt Palota", ro: "Cisterna Basilică", en: "Basilica Cistern",
+image: "/poi-images/basilica-cistern-landmarks-v2.webp"
+},
     description: { de: "Ein riesiges unterirdisches Wasserreservoir aus der byzantinischen Zeit, bekannt für seine stimmungsvolle Beleuchtung und die Medusenhäupter.", hu: "Hatalmas bizánci kori föld alatti víztározó, amely hangulatos megvilágításáról és a Medusza-főkről ismert.", ro: "Un imens rezervor subteran de apă din perioada bizantină, cunoscut pentru iluminarea sa atmosferică și capetele Medusei.", en: "A massive subterranean water reservoir from the Byzantine era, known for its atmospheric lighting and Medusa heads." },
     facts: {
       de: ["Erbaut im 6. Jahrhundert unter Kaiser Justinian I.", "Wird von 336 Marmorsäulen getragen.", "Diente einst als Wasserversorgung für den großen Palast."],
       hu: ["A 6. században épült I. Justinianus császár uralkodása alatt.", "336 márványoszlop tartja a tetőszerkezetet.", "Egykor a Nagy Palota vízellátását biztosította."],
       ro: ["Construită în secolul al VI-lea sub împăratul Iustinian I.", "Este susținută de 336 de coloane de marmură.", "Cândva servea la aprovizionarea cu apă a marelui palat."],
       en: ["Built in the 6th century under Emperor Justinian I.", "Supported by 336 marble columns.", "Once served as the water supply for the Great Palace."]
-    }, image: "/poi-images/basilica-cistern-landmarks-v2.webp"},
+    }, image: "/poi-images/basilica-cistern-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese unterirdische Zisterne aus dem 6. Jahrhundert fasst 80.000 Kubikmeter Wasser und beeindruckt durch 336 Säulen, darunter zwei mit Medusenhäuptern als Basis.",
+      hu: "A 6. században épült föld alatti víztározó 80 000 köbméter vizet tudott befogadni. 336 oszlopa közül kettőt Medusza-fő tart, ami különleges látványt nyújt.",
+      ro: "Construită în secolul VI sub împăratul Iustinian, această cisternă subterană uriașă are 336 de coloane, inclusiv celebrele capete de Meduză folosite ca baze.",
+      en: "Built in the 6th century for Emperor Justinian, this massive underground cistern features 336 marble columns, including two supported by Medusa head bases.",
+    },
+    factsAdvanced: {
+      de: ["336 Marmorsäulen", "Kapazität 80.000 m³ Wasser", "Erbaut im Jahr 532 n. Chr.", "Zwei Medusenhäupter als Basis"],
+      hu: ["336 márványoszlop látható", "80 000 köbméter a kapacitása", "532-ben épült", "Két Medusza-fej található itt"],
+      ro: ["336 de coloane de marmură", "Capacitate de 80.000 m³", "Construită în anul 532", "Două baze cu capul Meduzei"],
+      en: ["336 marble columns", "Holds 80,000 cubic meters", "Built in 532 AD", "Features two Medusa head bases"],
+    },
+  },
   {
     id: "anitkabir-landmarks-v2",
     type: "landmark",
     parent: "TR-06",
     coords: [32.8369, 39.9250],
-    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir" },
+    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir",
+image: "/poi-images/anitkabir-landmarks-v2.webp"
+},
     description: { de: "Das imposante Mausoleum von Mustafa Kemal Atatürk, dem Gründer und ersten Präsidenten der modernen Republik Türkei.", hu: "Mustafa Kemal Atatürk, a modern Török Köztársaság alapítójának és első elnökének impozáns mauzóleuma.", ro: "Impozantul mausoleu al lui Mustafa Kemal Atatürk, fondatorul și primul președinte al Republicii moderne Turcia.", en: "The imposing mausoleum of Mustafa Kemal Atatürk, the founder and first President of the modern Republic of Turkey." },
     facts: {
       de: ["Befindet sich in der Hauptstadt Ankara.", "Fertiggestellt im Jahr 1953 nach neunjähriger Bauzeit.", "Zieht jährlich Millionen von Besuchern an, die ihm Respekt zollen."],
       hu: ["A fővárosban, Ankarában található.", "1953-ban fejezték be kilencéves építkezés után.", "Évente több millió látogatót vonz, akik tiszteletüket teszik."],
       ro: ["Se află în capitala Ankara.", "Finalizat în anul 1953, după nouă ani de construcție.", "Atrage milioane de vizitatori anual care vin să-și arate respectul."],
       en: ["Located in the capital city of Ankara.", "Completed in 1953 after nine years of construction.", "Attracts millions of visitors annually paying their respects."]
-    }, image: "/poi-images/anitkabir-landmarks-v2.webp"},
+    }, image: "/poi-images/anitkabir-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Anitkabir ist das monumentale Mausoleum von Mustafa Kemal Atatürk, dem Gründer der modernen Türkei, und ein bedeutendes Beispiel für die türkische Architektur der 1940er Jahre.",
+      hu: "Mustafa Kemal Atatürk, a modern Törökország alapítójának monumentális mauzóleuma Ankarában. Az épületegyüttes a török nemzeti büszkeség és építészet jelképe.",
+      ro: "Mausoleul monumental al lui Mustafa Kemal Atatürk din Ankara este un complex vast ce simbolizează nașterea Turciei moderne și mândria națională a poporului turc.",
+      en: "The monumental mausoleum of Mustafa Kemal Atatürk in Ankara is a grand complex reflecting modern Turkish architecture and the legacy of the nation's founder.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung im Jahr 1953", "Fläche von 750.000 m²", "Sarkophag wiegt 40 Tonnen", "Liegt auf dem Hügel Anittepe"],
+      hu: ["1953-ban készült el", "750 000 négyzetméteres terület", "A szarkofág 40 tonnás", "Az Anittepe-dombon áll"],
+      ro: ["Finalizat în anul 1953", "Suprafață de 750.000 mp", "Sarcofagul cântărește 40 tone", "Situat pe dealul Anittepe"],
+      en: ["Completed in 1953", "Area of 750,000 square meters", "Sarcophagus weighs 40 tons", "Located on Anittepe Hill"],
+    },
+  },
   {
     id: "aspendos-theater-landmarks-v2",
     type: "landmark",
     parent: "TR-07",
     coords: [31.1724, 36.9388],
-    name: { de: "Theater von Aspendos", hu: "Aspendoszi Színház", ro: "Teatrul din Aspendos", en: "Aspendos Theater" },
+    name: { de: "Theater von Aspendos", hu: "Aspendoszi Színház", ro: "Teatrul din Aspendos", en: "Aspendos Theater",
+image: "/poi-images/aspendos-theater-landmarks-v2.webp"
+},
     description: { de: "Eines der besterhaltenen antiken römischen Theater der Welt, das noch heute für Aufführungen genutzt wird.", hu: "A világ egyik legjobb állapotban fennmaradt ókori római színháza, amelyet ma is használnak előadásokra.", ro: "Unul dintre cele mai bine conservate teatre romane antice din lume, fiind încă folosit pentru spectacole astăzi.", en: "One of the best-preserved ancient Roman theaters in the world, still used for performances today." },
     facts: {
       de: ["Konnte einst bis zu 12.000 Zuschauer fassen.", "Bekannt für seine hervorragende Akustik.", "Erbaut im 2. Jahrhundert nach Christus."],
       hu: ["Egykor akár 12 000 nézőt is be tudott fogadni.", "Kiváló akusztikájáról ismert.", "A Kr. u. 2. században épült."],
       ro: ["Putea găzdui odată până la 12.000 de spectatori.", "Cunoscut pentru acustica sa superbă.", "Construit în secolul al II-lea d.Hr."],
       en: ["Could once hold up to 12,000 spectators.", "Known for its superb acoustics.", "Built in the 2nd century AD."]
-    }, image: "/poi-images/aspendos-theater-landmarks-v2.webp"},
+    }, image: "/poi-images/aspendos-theater-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das antike römische Theater von Aspendos gilt als eines der besterhaltenen der Welt und wird aufgrund seiner hervorragenden Akustik auch heute noch für Aufführungen genutzt.",
+      hu: "A római kori Aspendos színháza a világ egyik legjobb állapotban fennmaradt ókori építménye. Kiváló akusztikája miatt ma is tartanak benne operaelőadásokat.",
+      ro: "Teatrul roman de la Aspendos este considerat cel mai bine conservat din lume, păstrându-și scena originală și fiind renumit pentru acustica sa excepțională.",
+      en: "One of the best-preserved Roman theaters in the world, Aspendos still retains its original stage house and is famous for its near-perfect acoustics.",
+    },
+    factsAdvanced: {
+      de: ["Platz für 12.000 Zuschauer", "Erbaut unter Kaiser Marc Aurel", "Entworfen vom Architekt Zenon", "Höhe der Bühnenwand 315 Meter"],
+      hu: ["12 000 néző befogadására alkalmas", "Marcus Aurelius idején épült", "Zenon építész tervezte", "A színpadfal magassága 31,5 méter"],
+      ro: ["Capacitate de 12.000 locuri", "Construit sub Marcus Aurelius", "Arhitect: Zenon", "Peretele scenei are 31,5 metri"],
+      en: ["Seating for 12,000 spectators", "Built under Marcus Aurelius", "Architect: Zenon", "Stage wall height is 31.5 meters"],
+    },
+  },
   {
     id: "gobekli-tepe-landmarks-v2",
     type: "landmark",
     parent: "TR-63",
     coords: [38.9223, 37.2232],
-    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe" },
+    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe",
+image: "/poi-images/gobekli-tepe-landmarks-v2.webp"
+},
     description: { de: "Eine prähistorische archäologische Stätte im Südosten der Türkei, die die ältesten bekannten Tempelanlagen der Welt beherbergt.", hu: "Prehisztorikus régészeti lelőhely Törökország délkeleti részén, amely a világ legrégebbi ismert templomait rejti.", ro: "Un sit arheologic preistoric în sud-estul Turciei, care găzduiește cele mai vechi structuri de temple cunoscute din lume.", en: "A prehistoric archaeological site in southeastern Turkey, home to the oldest known temple structures in the world." },
     facts: {
       de: ["Die Ruinen sind über 11.000 Jahre alt.", "Veränderte das Verständnis der frühen menschlichen Geschichte.", "Enthält massive Steinpfeiler mit Tierschnitzereien."],
       hu: ["A romok több mint 11 000 évesek.", "Megváltoztatta a korai emberi történelemről alkotott felfogásunkat.", "Hatalmas kőoszlopokat tartalmaz állatfaragványokkal."],
       ro: ["Ruinele au o vechime de peste 11.000 de ani.", "A schimbat înțelegerea istoriei timpurii a umanității.", "Conține stâlpi masivi de piatră cu sculpturi de animale."],
       en: ["The ruins are over 11,000 years old.", "Changed the understanding of early human history.", "Contains massive stone pillars with animal carvings."]
-    }, image: "/poi-images/gobekli-tepe-landmarks-v2.webp"},
+    }, image: "/poi-images/gobekli-tepe-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Göbekli Tepe gilt mit einem Alter von etwa 11.500 Jahren als das älteste bekannte religiöse Heiligtum der Welt und revolutionierte unser Verständnis der frühen Menschheit.",
+      hu: "A világ legősibb ismert templomkomplexuma, amely közel 11 500 éves. T-alakú kőoszlopai és állatfaragványai a történelem előtti ember hiedelemvilágát tükrözik.",
+      ro: "Considerat cel mai vechi templu din lume, situl are o vechime de 11.500 de ani și conține coloane monumentale în formă de T decorate cu reliefuri de animale.",
+      en: "As the world's oldest known temple complex, dating back 11,500 years, Göbekli Tepe features T-shaped pillars decorated with intricate animal reliefs.",
+    },
+    factsAdvanced: {
+      de: ["Alter ca. 11.500 Jahre", "T-förmige Kalksteinsäulen", "Säulen wiegen bis zu 20 Tonnen", "UNESCO-Welterbe seit 2018"],
+      hu: ["Kb. 11 500 éves lelet", "T-alakú mészkőoszlopok", "Az oszlopok súlya elérheti a 20 tonnát", "UNESCO Világörökség 2018 óta"],
+      ro: ["Vechime de 11.500 de ani", "Piloni de calcar în formă de T", "Coloane de până la 20 de tone", "Patrimoniu UNESCO din 2018"],
+      en: ["Dating back 11,500 years", "T-shaped limestone pillars", "Pillars weigh up to 20 tons", "UNESCO World Heritage since 2018"],
+    },
+  },
   {
     id: "bosphorus-bridge-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [29.0343, 41.0435],
-    name: { de: "Bosporus-Brücke", hu: "Boszporusz híd", ro: "Podul Bosfor", en: "Bosphorus Bridge" },
+    name: { de: "Bosporus-Brücke", hu: "Boszporusz híd", ro: "Podul Bosfor", en: "Bosphorus Bridge",
+image: "/poi-images/bosphorus-bridge-landmarks-v2.webp"
+},
     description: { de: "Eine ikonische Hängebrücke, die den europäischen und den asiatischen Teil Istanbuls miteinander verbindet.", hu: "Ikonikus függőhíd, amely Isztambul európai és ázsiai részét köti össze.", ro: "Un pod suspendat iconic care leagă părțile europene și asiatice ale Istanbulului.", en: "An iconic suspension bridge that connects the European and Asian parts of Istanbul." },
     facts: {
       de: ["Wurde 1973 eröffnet.", "Ist über 1.500 Meter lang.", "Offiziell in Brücke der Märtyrer des 15. Juli umbenannt."],
       hu: ["1973-ban nyitották meg.", "Több mint 1500 méter hosszú.", "Hivatalosan Július 15-i Vértanúk hídjára nevezték át."],
       ro: ["A fost deschis în 1973.", "Are o lungime de peste 1.500 de metri.", "Redenumit oficial Podul Martirilor din 15 Iulie."],
       en: ["Was opened in 1973.", "Is over 1,500 meters long.", "Officially renamed the 15 July Martyrs Bridge."]
-    }, image: "/poi-images/bosphorus-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/bosphorus-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die 1973 eröffnete Brücke war die erste feste Verbindung über den Bosporus und verbindet symbolträchtig die Kontinente Europa und Asien in der Millionenmetropole Istanbul.",
+      hu: "Az 1973-ban átadott függőhíd az első állandó összeköttetés volt a Boszporusz felett, amely közvetlen közúti kapcsolatot teremtett Európa és Ázsia között.",
+      ro: "Inaugurat în 1973, primul pod peste Bosfor face legătura simbolică între Europa și Asia, fiind o arteră vitală pentru traficul intens al Istanbulului.",
+      en: "Opened in 1973, this suspension bridge was the first to span the Bosphorus, physically linking the continents of Europe and Asia in the heart of Istanbul.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 1560 Metern", "Eröffnet am 30. Oktober 1973", "Höhe über dem Meeresspiegel 64 m", "Verbindet Europa und Asien"],
+      hu: ["Hossza 1560 méter", "1973. október 30-án nyílt meg", "64 méter magasan a víz felett", "Európát és Ázsiát köti össze"],
+      ro: ["Lungime de 1560 metri", "Inaugurat pe 30 octombrie 1973", "Înălțime peste apă de 64 m", "Conectează Europa de Asia"],
+      en: ["Length of 1,560 meters", "Opened October 30, 1973", "Height above sea level is 64m", "Connects Europe and Asia"],
+    },
+  },
   {
     id: "maidens-tower-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [29.0041, 41.0211],
-    name: { de: "Leanderturm", hu: "Szűz tornya", ro: "Turnul Fecioarei", en: "Maiden's Tower" },
+    name: { de: "Leanderturm", hu: "Szűz tornya", ro: "Turnul Fecioarei", en: "Maiden's Tower",
+image: "/poi-images/maidens-tower-landmarks-v2.webp"
+},
     description: { de: "Ein eleganter Turm auf einer kleinen Insel im Bosporus, der auf eine lange Legenden- und Mythengeschichte zurückblickt.", hu: "Elegáns torony egy kis szigeten a Boszporuszban, amely hosszú legendák és mítoszok sorát őrzi.", ro: "Un turn elegant pe o mică insulă în Bosfor, având o lungă istorie de legende și mituri.", en: "An elegant tower on a small island in the Bosphorus, boasting a long history of legends and myths." },
     facts: {
       de: ["Diente einst als Leuchtturm und Zollstation.", "Bekannt als Kız Kulesi auf Türkisch.", "Ein beliebtes Fotomotiv bei Sonnenuntergang."],
       hu: ["Egykor világítótoronyként és vámállomásként szolgált.", "Törökül Kız Kulesi néven ismert.", "Népszerű fotótéma naplementekor."],
       ro: ["Odată a servit ca far și stație vamală.", "Cunoscut sub numele de Kız Kulesi în turcă.", "Un motiv popular de fotografie la apus."],
       en: ["Once served as a lighthouse and customs station.", "Known as Kız Kulesi in Turkish.", "A popular photography subject at sunset."]
-    }, image: "/poi-images/maidens-tower-landmarks-v2.webp"},
+    }, image: "/poi-images/maidens-tower-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jungfrauenturm liegt auf einer kleinen Insel im Bosporus und diente im Laufe der Jahrhunderte als Leuchtturm, Zollstation und Quarantänestation für Schiffe.",
+      hu: "A Boszporusz apró szigetén álló toronyhoz számos legenda fűződik. Az évszázadok során szolgált világítótoronyként, vámházként és karanténállomásként is.",
+      ro: "Situat pe o insuliță la intrarea sudică a Bosforului, turnul medieval este înconjurat de legende și a servit drept far, vamă și stație de carantină.",
+      en: "Located on a small islet at the southern entrance of the Bosphorus, this iconic tower has served as a lighthouse, custom station, and quarantine hospital.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des aktuellen Turms 1721", "Liegt 200 Meter vom Ufer weg", "Ursprung im 5. Jhd. v. Chr.", "Höhe von ca. 30 Metern"],
+      hu: ["A jelenlegi torony 1721-ben épült", "200 méterre fekszik a parttól", "Kr. e. 5. századi alapok", "Kb. 30 méter magas"],
+      ro: ["Turnul actual datează din 1721", "La 200 metri de malul Üsküdar", "Origini în secolul V î.Hr.", "Înălțime de aproximativ 30 m"],
+      en: ["Current tower built in 1721", "Islet is 200m from the shore", "Origins date to 5th century BC", "Height of approximately 30 meters"],
+    },
+  },
   {
     id: "bodrum-castle-landmarks-v2",
     type: "landmark",
     parent: "TR-48",
     coords: [27.4284, 37.0319],
-    name: { de: "Kastell von St. Peter", hu: "Bodrum vára", ro: "Castelul Bodrum", en: "Bodrum Castle" },
+    name: { de: "Kastell von St. Peter", hu: "Bodrum vára", ro: "Castelul Bodrum", en: "Bodrum Castle",
+image: "/poi-images/bodrum-castle-landmarks-v2.webp"
+},
     description: { de: "Eine massive Festung, die von den Johanniterrittern im 15. Jahrhundert erbaut wurde und heute das Museum für Unterwasserarchäologie beherbergt.", hu: "Masszív erődítmény, amelyet a johannita lovagok építettek a 15. században, és ma a Vízalatti Régészeti Múzeumnak ad otthont.", ro: "O fortăreață masivă construită de Cavalerii Ospitalieri în secolul al XV-lea, care găzduiește acum Muzeul de Arheologie Subacvatică.", en: "A massive fortress built by the Knights Hospitaller in the 15th century, now housing the Museum of Underwater Archaeology." },
     facts: {
       de: ["Erbaut mit Steinen aus dem Mausoleum von Halikarnassos.", "Besitzt vier Haupttürme: den englischen, französischen, deutschen und italienischen Turm.", "Liegt prominent an der Küste der Ägäis."],
       hu: ["A halikarnasszoszi mauzóleum köveiből épült.", "Négy főtornya van: az angol, a francia, a német és az olasz torony.", "Kiemelkedő helyen fekszik az Égei-tenger partján."],
       ro: ["Construit din pietrele Mausoleului din Halicarnas.", "Are patru turnuri principale: englez, francez, german și italian.", "Situat proeminent pe coasta Mării Egee."],
       en: ["Built using stones from the Mausoleum at Halicarnassus.", "Features four main towers: the English, French, German, and Italian towers.", "Prominently located on the Aegean coast."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die im 15. Jahrhundert vom Johanniterorden errichtete Burg St. Peter beherbergt heute das bedeutende Museum für Unterwasserarchäologie mit Funden aus antiken Schiffswracks.",
+      hu: "A Szent Péter-várat a 15. században építették a Szent János-lovagok. Ma itt működik a világ egyik legfontosabb Víz alatti Régészeti Múzeuma.",
+      ro: "Construit în secolul XV de Cavalerii Ioaniți, castelul Sfântul Petru adăpostește astăzi cel mai important muzeu de arheologie submarină din lume.",
+      en: "Built by the Knights Hospitaller in the 15th century, St. Peter's Castle now houses the world-renowned Museum of Underwater Archaeology.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1402", "Baumaterial vom Mausoleum", "Besitzt 5 Haupttürme", "Museum seit dem Jahr 1964"],
+      hu: ["1402-ben kezdték építeni", "A Halikarnasszoszi mauzóleum köveiből", "5 fő tornya van", "1964 óta működik itt múzeum"],
+      ro: ["Construcție începută în 1402", "Piatră din Mausoleul Halicarnas", "Are 5 turnuri principale", "Muzeu deschis în anul 1964"],
+      en: ["Construction started in 1402", "Built using Mausoleum stones", "Features 5 main towers", "Home to a museum since 1964"],
+    },
   },
   {
     id: "dolmabahce-palace-landmarks-v2",
     type: "landmark",
     parent: "TR-34",
     coords: [28.9992, 41.0396],
-    name: { de: "Dolmabahçe-Palast", hu: "Dolmabahçe palota", ro: "Palatul Dolmabahçe", en: "Dolmabahçe Palace" },
+    name: { de: "Dolmabahçe-Palast", hu: "Dolmabahçe palota", ro: "Palatul Dolmabahçe", en: "Dolmabahçe Palace",
+image: "/poi-images/dolmabahce-palace-landmarks-v2.webp"
+},
     description: { de: "Ein prunkvoller Palast am Bosporusufer, der den Topkapı-Palast als Hauptresidenz der osmanischen Sultane ablöste.", hu: "Díszes palota a Boszporusz partján, amely a Topkapı palotát váltotta fel az oszmán szultánok főrezidenciájaként.", ro: "Un palat opulent pe malurile Bosforului, care a înlocuit Palatul Topkapı ca reședință principală a sultanilor otomani.", en: "An opulent palace on the shores of the Bosphorus, which replaced Topkapı Palace as the main residence of the Ottoman sultans." },
     facts: {
       de: ["Die Innenausstattung ist mit Tonnen von Gold und Kristall geschmückt.", "Verfügt über den größten böhmischen Kristallkronleuchter der Welt.", "Der Ort, an dem Atatürk 1938 verstarb."],
       hu: ["Belsejét tonnányi arannyal és kristállyal díszítették.", "Itt található a világ legnagyobb cseh kristálycsillárja.", "Itt hunyt el Atatürk 1938-ban."],
       ro: ["Interiorul este decorat cu tone de aur și cristal.", "Dispune de cel mai mare candelabru de cristal de Boemia din lume.", "Locul unde Atatürk a murit în 1938."],
       en: ["The interior is decorated with tons of gold and crystal.", "Features the world's largest Bohemian crystal chandelier.", "The place where Atatürk passed away in 1938."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Dolmabahçe-Palast war ab 1856 das administrative Zentrum des Osmanischen Reiches und beeindruckt durch seinen europäischen Stil sowie den massiven Kristalllüster im Thronsaal.",
+      hu: "Az 1856-ban befejezett palota az oszmán birodalom európai stílusú központja lett. Hatalmas kristálycsillárja és pazar aranydíszítései a kor gazdagságát hirdetik.",
+      ro: "Finalizat în 1856, palatul a devenit noul centru administrativ al Imperiului Otoman, fiind faimos pentru candelabrul de cristal de 4,5 tone din sala tronului.",
+      en: "Completed in 1856, this lavish palace served as the main administrative center of the Ottoman Empire, blending European styles with traditional Ottoman luxury.",
+    },
+    factsAdvanced: {
+      de: ["Besitzt 285 Zimmer", "Candelaber wiegt 4,5 Tonnen", "Bau kostete 5 Millionen Goldpfund", "Letzter Wohnort von Atatürk"],
+      hu: ["285 szobával rendelkezik", "A csillár 4,5 tonnát nyom", "5 millió oszmán aranyfontba került", "Itt hunyt el Atatürk 1938-ban"],
+      ro: ["Cuprinde 285 de camere", "Candelabru de 4,5 tone", "Cost de 5 milioane de lire de aur", "Locul unde a murit Atatürk"],
+      en: ["Contains 285 rooms", "Chandelier weighs 4.5 tons", "Cost 5 million Ottoman gold pounds", "Place where Atatürk died in 1938"],
+    },
   }
 ];

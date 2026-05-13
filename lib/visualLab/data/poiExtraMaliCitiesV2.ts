@@ -7,7 +7,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ML-BKO",
     coords: [-7.9990, 12.6392],
-    name: { de: "Bamako", hu: "Bamako", ro: "Bamako", en: "Bamako" },
+    name: { de: "Bamako", hu: "Bamako", ro: "Bamako", en: "Bamako",
+image: "/poi-images/bamako-cities-v2.webp"
+},
     description: {
       de: "Die pulsierende Hauptstadt Malis am Nigerufer ist das politische und wirtschaftliche Zentrum des Landes.",
       hu: "Mali nyüzsgő fővárosa a Niger folyó partján fekszik, és az ország politikai és gazdasági központja.",
@@ -37,7 +39,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-5.6665, 11.3175],
-    name: { de: "Sikasso", hu: "Sikasso", ro: "Sikasso", en: "Sikasso" },
+    name: { de: "Sikasso", hu: "Sikasso", ro: "Sikasso", en: "Sikasso",
+image: "/poi-images/sikasso-cities-v2.webp"
+},
     description: {
       de: "Eine der größten Städte Malis, bekannt für ihre florierende Landwirtschaft und historischen Verteidigungsmauern.",
       hu: "Mali egyik legnagyobb városa, amely virágzó mezőgazdaságáról és történelmi védőfalairól ismert.",
@@ -67,7 +71,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-4.1829, 14.4843],
-    name: { de: "Mopti", hu: "Mopti", ro: "Mopti", en: "Mopti" },
+    name: { de: "Mopti", hu: "Mopti", ro: "Mopti", en: "Mopti",
+image: "/poi-images/mopti-cities-v2.webp"
+},
     description: {
       de: "Die Stadt auf drei Inseln wird oft als das Venedig Malis bezeichnet und ist ein wichtiger Flusshafen.",
       hu: "A három szigeten fekvő várost gyakran Mali Velencéjének is nevezik, és fontos folyami kikötő.",
@@ -96,7 +102,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-5.4642, 12.3917],
-    name: { de: "Koutiala", hu: "Koutiala", ro: "Koutiala", en: "Koutiala" },
+    name: { de: "Koutiala", hu: "Koutiala", ro: "Koutiala", en: "Koutiala",
+image: "/poi-images/koutiala-cities-v2.webp"
+},
     description: {
       de: "Als Hauptstadt des weißen Goldes ist diese Stadt das Zentrum der malischen Baumwollproduktion.",
       hu: "A fehér arany fővárosaként ez a város a mali gyapottermelés központja.",
@@ -125,7 +133,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-11.4446, 14.4392],
-    name: { de: "Kayes", hu: "Kayes", ro: "Kayes", en: "Kayes" },
+    name: { de: "Kayes", hu: "Kayes", ro: "Kayes", en: "Kayes",
+image: "/poi-images/kayes-cities-v2.webp"
+},
     description: {
       de: "Die Stadt im Westen des Landes am Fluss Senegal gilt als einer der heißesten Orte Afrikas.",
       hu: "Az ország nyugati részén, a Szenegál folyó partján fekvő város Afrika egyik legforróbb pontja.",
@@ -154,7 +164,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-6.2792, 13.4411],
-    name: { de: "Ségou", hu: "Ségou", ro: "Ségou", en: "Ségou" },
+    name: { de: "Ségou", hu: "Ségou", ro: "Ségou", en: "Ségou",
+image: "/poi-images/segou-cities-v2.webp"
+},
     description: {
       de: "Die historische Hauptstadt des Bambara-Reiches besticht durch ihre koloniale Architektur und Töpferkunst.",
       hu: "A Bambara Birodalom történelmi fővárosa gyarmati építészetével és fazekasművészetével nyűgöz le.",
@@ -183,7 +195,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-9.5986, 15.2263],
-    name: { de: "Nioro du Sahel", hu: "Nioro du Sahel", ro: "Nioro du Sahel", en: "Nioro du Sahel" },
+    name: { de: "Nioro du Sahel", hu: "Nioro du Sahel", ro: "Nioro du Sahel", en: "Nioro du Sahel",
+image: "/poi-images/nioro-du-sahel-cities-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Stadt nahe der mauretanischen Grenze, die eine wichtige Rolle im Transsaharahandel spielte.",
       hu: "Történelmileg jelentős város a mauritániai határ közelében, amely fontos szerepet játszott a transzszaharai kereskedelemben.",
@@ -212,7 +226,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-5.9930, 14.2526],
-    name: { de: "Niono", hu: "Niono", ro: "Niono", en: "Niono" },
+    name: { de: "Niono", hu: "Niono", ro: "Niono", en: "Niono",
+image: "/poi-images/niono-cities-v2.webp"
+},
     description: {
       de: "Zentrum des Office du Niger, eines massiven Bewässerungsprojekts, das die Region in eine landwirtschaftliche Oase verwandelte.",
       hu: "Az Office du Niger központja, egy hatalmas öntözési projekt, amely a régiót mezőgazdasági oázissá változtatta.",
@@ -241,7 +257,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-6.0659, 13.6846],
-    name: { de: "Markala", hu: "Markala", ro: "Markala", en: "Markala" },
+    name: { de: "Markala", hu: "Markala", ro: "Markala", en: "Markala",
+image: "/poi-images/markala-cities-v2.webp"
+},
     description: {
       de: "Die Stadt ist berühmt für ihren großen Staudamm am Niger, der die weitreichenden Bewässerungskanäle speist.",
       hu: "A város híres a Nigeren található nagy gátjáról, amely a kiterjedt öntözőcsatornákat táplálja.",
@@ -270,7 +288,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-6.8926, 11.0882],
-    name: { de: "Kolondiéba", hu: "Kolondiéba", ro: "Kolondiéba", en: "Kolondiéba" },
+    name: { de: "Kolondiéba", hu: "Kolondiéba", ro: "Kolondiéba", en: "Kolondiéba",
+image: "/poi-images/kolondieba-cities-v2.webp"
+},
     description: {
       de: "Eine ruhige ländliche Stadt im Süden des Landes, geprägt von traditionellem Handwerk und Ackerbau.",
       hu: "Csendes vidéki város az ország déli részén, amelyet a hagyományos kézművesség és a földművelés jellemez.",
@@ -299,7 +319,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-8.0725, 12.7440],
-    name: { de: "Kati", hu: "Kati", ro: "Kati", en: "Kati" },
+    name: { de: "Kati", hu: "Kati", ro: "Kati", en: "Kati",
+image: "/poi-images/kati-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Militärstandort und strategische Garnisonsstadt nur wenige Kilometer nordwestlich der Hauptstadt Bamako.",
       hu: "Fontos katonai bázis és stratégiai helyőrségi város mindössze néhány kilométerre északnyugatra a fővárostól, Bamakótól.",
@@ -328,7 +350,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-7",
     coords: [-0.0447, 16.2717],
-    name: { de: "Gao", hu: "Gao", ro: "Gao", en: "Gao" },
+    name: { de: "Gao", hu: "Gao", ro: "Gao", en: "Gao",
+image: "/poi-images/gao-cities-v2.webp"
+},
     description: {
       de: "Die ehemalige Hauptstadt des mächtigen Songhai-Reiches am Ostrand von Mali ist von historischen Monumenten geprägt.",
       hu: "A hatalmas Szonghai Birodalom egykori fővárosát Mali keleti peremén történelmi emlékművek jellemzik.",
@@ -357,7 +381,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-7.4832, 11.4176],
-    name: { de: "Bougouni", hu: "Bougouni", ro: "Bougouni", en: "Bougouni" },
+    name: { de: "Bougouni", hu: "Bougouni", ro: "Bougouni", en: "Bougouni",
+image: "/poi-images/bougouni-cities-v2.webp"
+},
     description: {
       de: "Bekannt als das Tor zum grünen Süden Malis, ist diese Stadt ein wichtiger Knotenpunkt für den Agrarhandel.",
       hu: "A zöld dél kapujaként ismert város az agrárkereskedelem fontos csomópontja Maliban.",
@@ -386,7 +412,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-6",
     coords: [-3.0074, 16.7734],
-    name: { de: "Timbuktu", hu: "Timbuktu", ro: "Timbuktu", en: "Timbuktu" },
+    name: { de: "Timbuktu", hu: "Timbuktu", ro: "Timbuktu", en: "Timbuktu",
+image: "/poi-images/tombouctou-cities-v2.webp"
+},
     description: {
       de: "Die sagenumwobene Karawanenstadt am Rande der Sahara war einst ein Zentrum islamischer Gelehrsamkeit.",
       hu: "A legendás karavánváros a Szahara szélén egykor az iszlám tudományosság központja volt.",
@@ -415,7 +443,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-7.4480, 13.5477],
-    name: { de: "Banamba", hu: "Banamba", ro: "Banamba", en: "Banamba" },
+    name: { de: "Banamba", hu: "Banamba", ro: "Banamba", en: "Banamba",
+image: "/poi-images/banamba-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt in der Region Koulikoro, die für ihre landwirtschaftlichen Traditionen und großen Erdnussfelder bekannt ist.",
       hu: "Egy történelmi város a Koulikoro régióban, amely mezőgazdasági hagyományairól és nagy földimogyoró földjeiről ismert.",
@@ -444,7 +474,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-4.8956, 13.3033],
-    name: { de: "San", hu: "San", ro: "San", en: "San" },
+    name: { de: "San", hu: "San", ro: "San", en: "San",
+image: "/poi-images/san-cities-v2.webp"
+},
     description: {
       de: "Die Stadt ist ein historisches Zentrum der Bobo-Ethnie und besitzt eine wunderschöne traditionelle Lehmmoschee.",
       hu: "A város a Bobo etnikum történelmi központja, és egy gyönyörű hagyományos vályogmecsettel rendelkezik.",
@@ -473,7 +505,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-7.5598, 12.8627],
-    name: { de: "Koulikoro", hu: "Koulikoro", ro: "Koulikoro", en: "Koulikoro" },
+    name: { de: "Koulikoro", hu: "Koulikoro", ro: "Koulikoro", en: "Koulikoro",
+image: "/poi-images/koulikoro-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Flusshafen am Niger und Industriestandort, an dem die Eisenbahnlinie aus Bamako endet.",
       hu: "Fontos folyami kikötő a Nigeren és ipari központ, ahol a Bamakóból induló vasútvonal véget ér.",
@@ -502,7 +536,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-4.5539, 13.9060],
-    name: { de: "Djenné", hu: "Djenné", ro: "Djenné", en: "Djenné" },
+    name: { de: "Djenné", hu: "Djenné", ro: "Djenné", en: "Djenné",
+image: "/poi-images/djenne-cities-v2.webp"
+},
     description: {
       de: "Weltberühmt für ihre spektakuläre Große Moschee, das größte Lehmgebäude der Welt und UNESCO-Weltkulturerbe.",
       hu: "Világhírű látványos Nagy Mecsetjéről, amely a világ legnagyobb vályogépülete és az UNESCO világörökség része.",
@@ -531,7 +567,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-8",
     coords: [1.4078, 18.4411],
-    name: { de: "Kidal", hu: "Kidal", ro: "Kidal", en: "Kidal" },
+    name: { de: "Kidal", hu: "Kidal", ro: "Kidal", en: "Kidal",
+image: "/poi-images/kidal-cities-v2.webp"
+},
     description: {
       de: "Eine entlegene Wüstenstadt im extremen Nordosten, die als kulturelles Zentrum der nomadischen Tuareg dient.",
       hu: "Távoli sivatagi város az extrém északkeleti részen, amely a nomád tuaregek kulturális központjaként szolgál.",
@@ -560,7 +598,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-5.3538, 13.9641],
-    name: { de: "Macina", hu: "Macina", ro: "Macina", en: "Macina" },
+    name: { de: "Macina", hu: "Macina", ro: "Macina", en: "Macina",
+image: "/poi-images/macina-cities-v2.webp"
+},
     description: {
       de: "Die historische Hauptstadt des Massina-Reiches liegt inmitten des wasserreichen Niger-Binnendeltas.",
       hu: "A Massina Birodalom történelmi fővárosa a vízben gazdag Niger Belső-deltájának közepén fekszik.",
@@ -589,7 +629,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-6",
     coords: [-3.1751, 16.2736],
-    name: { de: "Diré", hu: "Diré", ro: "Diré", en: "Diré" },
+    name: { de: "Diré", hu: "Diré", ro: "Diré", en: "Diré",
+image: "/poi-images/dire-cities-v2.webp"
+},
     description: {
       de: "Eine bedeutende Marktstadt am linken Ufer des Niger in der trockenen Region Timbuktu.",
       hu: "Jelentős piacváros a Niger bal partján, a száraz Timbuktu régióban.",
@@ -618,7 +660,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-3.6103, 14.3500],
-    name: { de: "Bandiagara", hu: "Bandiagara", ro: "Bandiagara", en: "Bandiagara" },
+    name: { de: "Bandiagara", hu: "Bandiagara", ro: "Bandiagara", en: "Bandiagara",
+image: "/poi-images/bandiagara-cities-v2.webp"
+},
     description: {
       de: "Die Verwaltungshauptstadt der Dogon-Region bietet Zugang zu dem spektakulären Steilhang und den einzigartigen Dörfern.",
       hu: "A dogon régió közigazgatási fővárosa, ahonnan megközelíthető a látványos meredély és az egyedülálló falvak.",
@@ -647,7 +691,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-6",
     coords: [-3.6708, 16.4145],
-    name: { de: "Goundam", hu: "Goundam", ro: "Goundam", en: "Goundam" },
+    name: { de: "Goundam", hu: "Goundam", ro: "Goundam", en: "Goundam",
+image: "/poi-images/goundam-cities-v2.webp"
+},
     description: {
       de: "Eingebettet in das Seengebiet des nördlichen Malis, ist die Stadt ein Treffpunkt zwischen nomadischen und sesshaften Völkern.",
       hu: "Észak-Mali tóvidékén fekszik, a város a nomád és letelepedett népek találkozóhelye.",
@@ -676,7 +722,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-9.4895, 13.0349],
-    name: { de: "Kita", hu: "Kita", ro: "Kita", en: "Kita" },
+    name: { de: "Kita", hu: "Kita", ro: "Kita", en: "Kita",
+image: "/poi-images/kita-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Erdnussanbaus am Fuße eines großen Berges ist auch für ihre Pilgerstätte bekannt.",
       hu: "A földimogyoró-termesztés fővárosa egy nagy hegy lábánál, és egy zarándokhelyről is ismert.",
@@ -705,7 +753,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-11.2372, 12.8336],
-    name: { de: "Kéniéba", hu: "Kéniéba", ro: "Kéniéba", en: "Kéniéba" },
+    name: { de: "Kéniéba", hu: "Kéniéba", ro: "Kéniéba", en: "Kéniéba",
+image: "/poi-images/kenieba-cities-v2.webp"
+},
     description: {
       de: "Eine lebendige Bergbaustadt im extremen Westen des Landes, nahe den großen Goldminen an der Grenze zum Senegal.",
       hu: "Élénk bányászváros az ország extrém nyugati részén, a nagy aranybányák közelében a szenegáli határnál.",
@@ -734,7 +784,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-10.8321, 13.8065],
-    name: { de: "Bafoulabé", hu: "Bafoulabé", ro: "Bafoulabé", en: "Bafoulabé" },
+    name: { de: "Bafoulabé", hu: "Bafoulabé", ro: "Bafoulabé", en: "Bafoulabé",
+image: "/poi-images/bafoulabe-cities-v2.webp"
+},
     description: {
       de: "Gelegen am Zusammenfluss von Bafing und Bakoy, die sich hier zum Fluss Senegal vereinen.",
       hu: "A Bafing és a Bakoy folyók összefolyásánál fekszik, amelyek itt egyesülnek Szenegál folyóvá.",
@@ -763,7 +815,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-9.1833, 14.5000],
-    name: { de: "Diéma", hu: "Diéma", ro: "Diéma", en: "Diéma" },
+    name: { de: "Diéma", hu: "Diéma", ro: "Diéma", en: "Diéma",
+image: "/poi-images/diema-cities-v2.webp"
+},
     description: {
       de: "Eine strategische Transitstadt an der wichtigen Straßenverbindung zwischen Bamako und dem Senegal.",
       hu: "Stratégiai tranzitváros a Bamako és Szenegál közötti fontos közúti kapcsolaton.",
@@ -792,7 +846,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-8.0333, 13.5728],
-    name: { de: "Kolokani", hu: "Kolokani", ro: "Kolokani", en: "Kolokani" },
+    name: { de: "Kolokani", hu: "Kolokani", ro: "Kolokani", en: "Kolokani",
+image: "/poi-images/kolokani-cities-v2.webp"
+},
     description: {
       de: "Das Herz des traditionellen Bélédougou-Gebiets, bekannt für den Anbau von Hirse und Erdnüssen.",
       hu: "A hagyományos Bélédougou terület szíve, amely a köles és a földimogyoró termesztéséről ismert.",
@@ -821,7 +877,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-8.4166, 11.9333],
-    name: { de: "Kangaba", hu: "Kangaba", ro: "Kangaba", en: "Kangaba" },
+    name: { de: "Kangaba", hu: "Kangaba", ro: "Kangaba", en: "Kangaba",
+image: "/poi-images/kangaba-cities-v2.webp"
+},
     description: {
       de: "Diese Stadt gilt als die Wiege des historischen Mali-Reiches und bewahrt wichtige heilige Stätten.",
       hu: "Ezt a várost a történelmi Mali Birodalom bölcsőjeként tartják számon, és fontos szent helyeket őriz.",
@@ -850,7 +908,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-6.5666, 12.7666],
-    name: { de: "Fana", hu: "Fana", ro: "Fana", en: "Fana" },
+    name: { de: "Fana", hu: "Fana", ro: "Fana", en: "Fana",
+image: "/poi-images/fana-cities-v2.webp"
+},
     description: {
       de: "Eine der größten industriellen Baumwollverarbeitungsstätten Westafrikas befindet sich in dieser dynamischen Stadt.",
       hu: "Nyugat-Afrika egyik legnagyobb ipari gyapotfeldolgozó üzeme található ebben a dinamikus városban.",
@@ -879,7 +939,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-5.8000, 10.5500],
-    name: { de: "Kadiolo", hu: "Kadiolo", ro: "Kadiolo", en: "Kadiolo" },
+    name: { de: "Kadiolo", hu: "Kadiolo", ro: "Kadiolo", en: "Kadiolo",
+image: "/poi-images/kadiolo-cities-v2.webp"
+},
     description: {
       de: "Die südlichste größere Stadt Malis an der Grenze zur Elfenbeinküste, stark bewaldet und regensicher.",
       hu: "Mali legdélebbi nagyobb városa az elefántcsontparti határon, erősen erdős és csapadékban gazdag.",
@@ -908,7 +970,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-8.1500, 11.1833],
-    name: { de: "Yanfolila", hu: "Yanfolila", ro: "Yanfolila", en: "Yanfolila" },
+    name: { de: "Yanfolila", hu: "Yanfolila", ro: "Yanfolila", en: "Yanfolila",
+image: "/poi-images/yanfolila-cities-v2.webp"
+},
     description: {
       de: "Die idyllische Stadt am Sélingué-See profitiert stark vom Fischfang und dem nahegelegenen Staudamm.",
       hu: "A Sélingué-tó partján fekvő idilli város sokat profitál a halászatból és a közeli gátból.",
@@ -937,7 +1001,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-4.7833, 12.3500],
-    name: { de: "Yorosso", hu: "Yorosso", ro: "Yorosso", en: "Yorosso" },
+    name: { de: "Yorosso", hu: "Yorosso", ro: "Yorosso", en: "Yorosso",
+image: "/poi-images/yorosso-cities-v2.webp"
+},
     description: {
       de: "Eine ruhige, von Landwirtschaft geprägte Stadt nahe der Grenze zu Burkina Faso.",
       hu: "Csendes, mezőgazdaság által uralt város a Burkina Fasó-i határ közelében.",
@@ -966,7 +1032,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-5.7500, 12.9500],
-    name: { de: "Bla", hu: "Bla", ro: "Bla", en: "Bla" },
+    name: { de: "Bla", hu: "Bla", ro: "Bla", en: "Bla",
+image: "/poi-images/bla-cities-v2.webp"
+},
     description: {
       de: "Als Verkehrsknotenpunkt zwischen Ségou, Sikasso und Mopti ist die Stadt ein quirliger Umschlagplatz.",
       hu: "A Ségou, Sikasso és Mopti közötti közlekedési csomópontként a város egy nyüzsgő átrakóhely.",
@@ -995,7 +1063,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-4.5500, 13.3166],
-    name: { de: "Tominian", hu: "Tominian", ro: "Tominian", en: "Tominian" },
+    name: { de: "Tominian", hu: "Tominian", ro: "Tominian", en: "Tominian",
+image: "/poi-images/tominian-cities-v2.webp"
+},
     description: {
       de: "Ein Zentrum der Bwa-Ethnie, das für seine markanten architektonischen Traditionen und lebhaften Maskentänze bekannt ist.",
       hu: "A Bwa etnikum központja, amely jellegzetes építészeti hagyományairól és élénk maszktáncairól ismert.",
@@ -1024,7 +1094,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-3.6833, 13.8833],
-    name: { de: "Bankass", hu: "Bankass", ro: "Bankass", en: "Bankass" },
+    name: { de: "Bankass", hu: "Bankass", ro: "Bankass", en: "Bankass",
+image: "/poi-images/bankass-cities-v2.webp"
+},
     description: {
       de: "Am südlichen Fuß der Bandiagara-Felsen gelegen, ist dieser Ort eine wichtige Basis für Entdeckungstouren.",
       hu: "A Bandiagara sziklák déli lábánál fekvő hely fontos bázisa a felfedező túráknak.",
@@ -1053,7 +1125,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-3.0666, 14.0666],
-    name: { de: "Koro", hu: "Koro", ro: "Koro", en: "Koro" },
+    name: { de: "Koro", hu: "Koro", ro: "Koro", en: "Koro",
+image: "/poi-images/koro-cities-v2.webp"
+},
     description: {
       de: "Die letzte größere Siedlung auf malischem Boden vor der burkinischen Grenze im staubigen Dogon-Flachland.",
       hu: "Az utolsó nagyobb település mali területen a Burkina Fasó-i határ előtt a poros dogon síkságon.",
@@ -1082,7 +1156,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-2.9500, 14.9950],
-    name: { de: "Douentza", hu: "Douentza", ro: "Douentza", en: "Douentza" },
+    name: { de: "Douentza", hu: "Douentza", ro: "Douentza", en: "Douentza",
+image: "/poi-images/douentza-cities-v2.webp"
+},
     description: {
       de: "Eingekesselt von dramatischen Felswänden, ist diese Stadt eine Oase am Rande der Sahara und ein Nomadenmarkt.",
       hu: "A drámai sziklafalak által körülzárt város egy oázis a Szahara szélén és egy nomád piac.",
@@ -1111,7 +1187,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-4.9166, 14.4500],
-    name: { de: "Tenenkou", hu: "Tenenkou", ro: "Tenenkou", en: "Tenenkou" },
+    name: { de: "Tenenkou", hu: "Tenenkou", ro: "Tenenkou", en: "Tenenkou",
+image: "/poi-images/tenenkou-cities-v2.webp"
+},
     description: {
       de: "Tief im Inneren Nigerdelta gelegen, ist dieser schwer erreichbare Ort ein Zentrum der traditionellen Viehzucht.",
       hu: "A Niger Belső-deltájának mélyén fekvő nehezen megközelíthető hely a hagyományos állattenyésztés központja.",
@@ -1140,7 +1218,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-4.2666, 15.2666],
-    name: { de: "Youwarou", hu: "Youwarou", ro: "Youwarou", en: "Youwarou" },
+    name: { de: "Youwarou", hu: "Youwarou", ro: "Youwarou", en: "Youwarou",
+image: "/poi-images/youwarou-cities-v2.webp"
+},
     description: {
       de: "Eine entlegene See-Siedlung am Lac Debo, die fast ausschließlich von der Fischerei lebt.",
       hu: "Egy távoli tavi település a Debo-tónál, amely szinte kizárólag halászatból él.",
@@ -1169,7 +1249,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-6",
     coords: [-3.9906, 15.9322],
-    name: { de: "Niafunké", hu: "Niafunké", ro: "Niafunké", en: "Niafunké" },
+    name: { de: "Niafunké", hu: "Niafunké", ro: "Niafunké", en: "Niafunké",
+image: "/poi-images/niafunke-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die Heimatstadt des legendären Blues-Musikers Ali Farka Touré, der hier auch Bürgermeister war.",
       hu: "A legendás blueszenész, Ali Farka Touré szülővárosaként ismert, aki itt polgármester is volt.",
@@ -1198,7 +1280,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-6",
     coords: [-1.9333, 16.8833],
-    name: { de: "Gourma-Rharous", hu: "Gourma-Rharous", ro: "Gourma-Rharous", en: "Gourma-Rharous" },
+    name: { de: "Gourma-Rharous", hu: "Gourma-Rharous", ro: "Gourma-Rharous", en: "Gourma-Rharous",
+image: "/poi-images/gourma-rharous-cities-v2.webp"
+},
     description: {
       de: "Ein entlegener Wüstenaußenposten östlich von Timbuktu, wo die Sahara auf das Ufer des Niger trifft.",
       hu: "Egy távoli sivatagi előőrs Timbuktutól keletre, ahol a Szahara találkozik a Niger partjával.",
@@ -1227,7 +1311,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-7",
     coords: [-0.3166, 16.9666],
-    name: { de: "Bourem", hu: "Bourem", ro: "Bourem", en: "Bourem" },
+    name: { de: "Bourem", hu: "Bourem", ro: "Bourem", en: "Bourem",
+image: "/poi-images/bourem-cities-v2.webp"
+},
     description: {
       de: "Die Stadt markiert den nordöstlichsten Bogen des Flusses Niger, bevor dieser nach Südosten abbiegt.",
       hu: "A város jelzi a Niger folyó legészakkeletibb kanyarulatát, mielőtt az délkelet felé fordulna.",
@@ -1256,7 +1342,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-7",
     coords: [0.5000, 15.6666],
-    name: { de: "Ansongo", hu: "Ansongo", ro: "Ansongo", en: "Ansongo" },
+    name: { de: "Ansongo", hu: "Ansongo", ro: "Ansongo", en: "Ansongo",
+image: "/poi-images/ansongo-cities-v2.webp"
+},
     description: {
       de: "Südlich von Gao gelegen, ist dieser Ort das Zentrum des Naturreservats Ansongo-Ménaka.",
       hu: "Gaótól délre található, ez a hely az Ansongo-Ménaka Természetvédelmi Terület központja.",
@@ -1285,7 +1373,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-9",
     coords: [2.4000, 15.9166],
-    name: { de: "Ménaka", hu: "Ménaka", ro: "Ménaka", en: "Ménaka" },
+    name: { de: "Ménaka", hu: "Ménaka", ro: "Ménaka", en: "Ménaka",
+image: "/poi-images/menaka-cities-v2.webp"
+},
     description: {
       de: "Eine neue regionale Hauptstadt im weiten Osten Malis in der Nähe der nigerischen Grenze.",
       hu: "Egy új regionális főváros Mali távoli keleti részén, a nigeri határ közelében.",
@@ -1314,7 +1404,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-8",
     coords: [0.9833, 20.1986],
-    name: { de: "Tessalit", hu: "Tessalit", ro: "Tessalit", en: "Tessalit" },
+    name: { de: "Tessalit", hu: "Tessalit", ro: "Tessalit", en: "Tessalit",
+image: "/poi-images/tessalit-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Wüstenknotenpunkt auf der Transsahara-Route nahe der Grenze zu Algerien.",
       hu: "Fontos sivatagi csomópont a transzszaharai útvonalon az algériai határ közelében.",
@@ -1343,7 +1435,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-8",
     coords: [1.1833, 19.4666],
-    name: { de: "Aguelhok", hu: "Aguelhok", ro: "Aguelhok", en: "Aguelhok" },
+    name: { de: "Aguelhok", hu: "Aguelhok", ro: "Aguelhok", en: "Aguelhok",
+image: "/poi-images/aguelhok-cities-v2.webp"
+},
     description: {
       de: "Diese kleine, aber bedeutsame Oase liegt im trockenen Adrar des Ifoghas Gebirgsmassiv.",
       hu: "Ez a kicsi, de jelentős oázis a száraz Adrar des Ifoghas hegységben található.",
@@ -1372,7 +1466,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-6",
     coords: [-3.5265, 18.9047],
-    name: { de: "Araouane", hu: "Araouane", ro: "Araouane", en: "Araouane" },
+    name: { de: "Araouane", hu: "Araouane", ro: "Araouane", en: "Araouane",
+image: "/poi-images/araouane-cities-v2.webp"
+},
     description: {
       de: "Ein winziges Wüstendorf nördlich von Timbuktu, das vom allgegenwärtigen Sand bedroht wird.",
       hu: "Apró sivatagi falu Timbuktutól északra, amelyet a mindent beborító homok fenyeget.",
@@ -1401,7 +1497,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-10",
     coords: [-3.9833, 22.6763],
-    name: { de: "Taoudenni", hu: "Taoudénit", ro: "Taoudenni", en: "Taoudenni" },
+    name: { de: "Taoudenni", hu: "Taoudénit", ro: "Taoudenni", en: "Taoudenni",
+image: "/poi-images/taoudenni-cities-v2.webp"
+},
     description: {
       de: "Das berühmte Salzzentrum im extremen Norden Malis ist eines der abgelegensten Minencamps der Welt.",
       hu: "A híres sóközpont Mali extrém északi részén a világ egyik legelzártabb bányásztábora.",
@@ -1430,7 +1528,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-1",
     coords: [-10.5666, 15.1166],
-    name: { de: "Yélimané", hu: "Yélimané", ro: "Yélimané", en: "Yélimané" },
+    name: { de: "Yélimané", hu: "Yélimané", ro: "Yélimané", en: "Yélimané",
+image: "/poi-images/yelimane-cities-v2.webp"
+},
     description: {
       de: "Eine ruhige Soninke-Stadt nahe der mauretanischen Grenze, geprägt von starker Abwanderung nach Europa.",
       hu: "Csendes Szoninke város a mauritániai határ közelében, amelyet az Európába irányuló erős elvándorlás jellemez.",
@@ -1459,7 +1559,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-6.7333, 12.2833],
-    name: { de: "Dioïla", hu: "Dioïla", ro: "Dioïla", en: "Dioïla" },
+    name: { de: "Dioïla", hu: "Dioïla", ro: "Dioïla", en: "Dioïla",
+image: "/poi-images/dioila-cities-v2.webp"
+},
     description: {
       de: "Diese wachsende Stadt im Baoulé-Tal profitiert stark vom Baumwoll- und Hirseanbau.",
       hu: "Ez a növekvő város a Baoulé völgyében erősen profitál a gyapot- és kölestermesztésből.",
@@ -1488,7 +1590,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-6.2666, 13.0666],
-    name: { de: "Barouéli", hu: "Barouéli", ro: "Barouéli", en: "Barouéli" },
+    name: { de: "Barouéli", hu: "Barouéli", ro: "Barouéli", en: "Barouéli",
+image: "/poi-images/baroueli-cities-v2.webp"
+},
     description: {
       de: "Gelegen im Übergangsgebiet zwischen Bamako und Ségou, ein Knotenpunkt für landwirtschaftliche Erzeugnisse.",
       hu: "A Bamako és Ségou közötti átmeneti területen fekvő, mezőgazdasági termékek csomópontja.",
@@ -1517,7 +1621,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-8.0166, 11.9833],
-    name: { de: "Ouelessebougou", hu: "Ouelessebougou", ro: "Ouelessebougou", en: "Ouelessebougou" },
+    name: { de: "Ouelessebougou", hu: "Ouelessebougou", ro: "Ouelessebougou", en: "Ouelessebougou",
+image: "/poi-images/ouelessebougou-cities-v2.webp"
+},
     description: {
       de: "Die Stadt südlich von Bamako liegt eingebettet in eine landwirtschaftlich äußerst fruchtbare Region.",
       hu: "A Bamakótól délre fekvő város egy rendkívül termékeny mezőgazdasági régióban található.",
@@ -1546,7 +1652,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-5.4166, 15.2833],
-    name: { de: "Nampala", hu: "Nampala", ro: "Nampala", en: "Nampala" },
+    name: { de: "Nampala", hu: "Nampala", ro: "Nampala", en: "Nampala",
+image: "/poi-images/nampala-cities-v2.webp"
+},
     description: {
       de: "Eine einsame Garnisonsstadt im Niemandsland zwischen dem grünen Niger-Becken und der trockenen mauretanischen Grenze.",
       hu: "Egy elhagyatott helyőrségi város a zöld Niger-medence és a száraz mauritániai határ közötti senkiföldjén.",
@@ -1575,7 +1683,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-7.9833, 12.2166],
-    name: { de: "Dialakoroba", hu: "Dialakoroba", ro: "Dialakoroba", en: "Dialakoroba" },
+    name: { de: "Dialakoroba", hu: "Dialakoroba", ro: "Dialakoroba", en: "Dialakoroba",
+image: "/poi-images/dialakoroba-cities-v2.webp"
+},
     description: {
       de: "Dieses stetig wachsende Dorf profitiert direkt von der Nähe zur schnell expandierenden Metropole Bamako.",
       hu: "Ez a folyamatosan növekvő falu közvetlenül profitál a gyorsan terjeszkedő metropolisz, Bamako közelségéből.",
@@ -1604,7 +1714,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-4",
     coords: [-5.9833, 14.5166],
-    name: { de: "Diabaly", hu: "Diabaly", ro: "Diabaly", en: "Diabaly" },
+    name: { de: "Diabaly", hu: "Diabaly", ro: "Diabaly", en: "Diabaly",
+image: "/poi-images/diabaly-cities-v2.webp"
+},
     description: {
       de: "Eine Agrarstadt, die vollständig vom gewaltigen künstlichen Bewässerungssystem des Office du Niger abhängig ist.",
       hu: "Agrárváros, amely teljes mértékben az Office du Niger hatalmas mesterséges öntözőrendszerétől függ.",
@@ -1633,7 +1745,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-5",
     coords: [-4.1833, 13.9833],
-    name: { de: "Sofara", hu: "Sofara", ro: "Sofara", en: "Sofara" },
+    name: { de: "Sofara", hu: "Sofara", ro: "Sofara", en: "Sofara",
+image: "/poi-images/sofara-cities-v2.webp"
+},
     description: {
       de: "Ein malerisches Dorf am Bani-Fluss, das für seinen lebendigen Wochenmarkt und farbenfrohen Stoffhandel bekannt ist.",
       hu: "Festői falu a Bani folyónál, amely nyüzsgő heti piacáról és színes szövetkereskedelméről ismert.",
@@ -1662,7 +1776,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-2",
     coords: [-6.5333, 12.2333],
-    name: { de: "Béléko", hu: "Béléko", ro: "Béléko", en: "Béléko" },
+    name: { de: "Béléko", hu: "Béléko", ro: "Béléko", en: "Béléko",
+image: "/poi-images/beleko-cities-v2.webp"
+},
     description: {
       de: "Das Herzstück des landwirtschaftlichen Banico-Gebiets, geprägt durch fruchtbare Böden und ruhiges Landleben.",
       hu: "A mezőgazdasági Banico terület szíve, amelyet termékeny talaj és csendes vidéki élet jellemez.",
@@ -1691,7 +1807,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-5.6333, 11.7500],
-    name: { de: "Kignan", hu: "Kignan", ro: "Kignan", en: "Kignan" },
+    name: { de: "Kignan", hu: "Kignan", ro: "Kignan", en: "Kignan",
+image: "/poi-images/kignan-cities-v2.webp"
+},
     description: {
       de: "Eine mittelgroße Handelsstadt in der Region Sikasso, die von Baumwollfeldern umgeben ist.",
       hu: "Egy közepes méretű kereskedelmi város a Sikasso régióban, amelyet gyapotföldek vesznek körül.",
@@ -1719,7 +1837,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-5.6666, 10.2333],
-    name: { de: "Zégoua", hu: "Zégoua", ro: "Zégoua", en: "Zégoua" },
+    name: { de: "Zégoua", hu: "Zégoua", ro: "Zégoua", en: "Zégoua",
+image: "/poi-images/zegoua-cities-v2.webp"
+},
     description: {
       de: "Der südlichste Zollposten auf der stark befahrenen Route zur Elfenbeinküste, wodurch der Ort niemals schläft.",
       hu: "A legdélebbi vámállomás az Elefántcsontpart felé vezető forgalmas úton, ami miatt a hely sosem alszik.",
@@ -1748,7 +1868,9 @@ export const poiExtraMaliCitiesV2: POI[] = [
     type: "city",
     parent: "ML-3",
     coords: [-5.9833, 11.2333],
-    name: { de: "Niéna", hu: "Niéna", ro: "Niéna", en: "Niéna" },
+    name: { de: "Niéna", hu: "Niéna", ro: "Niéna", en: "Niéna",
+image: "/poi-images/niena-cities-v2.webp"
+},
     description: {
       de: "Ein lebendiger Haltepunkt auf der wichtigen Fernstraße zwischen Bamako und Sikasso in einer hügeligen Landschaft.",
       hu: "Élénk megállóhely a Bamako és Sikasso közötti fontos főúton, egy dombos tájon.",

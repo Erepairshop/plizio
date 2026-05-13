@@ -4,7 +4,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-antwerp-cities-v2",
     type: "city",
-    name: { de: "Antwerpen", hu: "Antwerpen", ro: "Anvers", en: "Antwerp" },
+    name: { de: "Antwerpen", hu: "Antwerpen", ro: "Anvers", en: "Antwerp",
+image: "/poi-images/belgium-antwerp-cities-v2.webp"
+},
     coords: [4.4025, 51.2194],
     coordinates: { lat: 51.2194, lng: 4.4025 },
     description: {
@@ -35,7 +37,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-ghent-cities-v2",
     type: "city",
-    name: { de: "Gent", hu: "Gent", ro: "Gent", en: "Ghent" },
+    name: { de: "Gent", hu: "Gent", ro: "Gent", en: "Ghent",
+image: "/poi-images/belgium-ghent-cities-v2.webp"
+},
     coords: [3.7174, 51.0543],
     coordinates: { lat: 51.0543, lng: 3.7174 },
     description: {
@@ -66,7 +70,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-bruges-cities-v2",
     type: "city",
-    name: { de: "Brügge", hu: "Brugge", ro: "Bruges", en: "Bruges" },
+    name: { de: "Brügge", hu: "Brugge", ro: "Bruges", en: "Bruges",
+image: "/poi-images/belgium-bruges-cities-v2.webp"
+},
     coords: [3.2247, 51.2093],
     coordinates: { lat: 51.2093, lng: 3.2247 },
     description: {
@@ -97,7 +103,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-liege-cities-v2",
     type: "city",
-    name: { de: "Lüttich", hu: "Liège", ro: "Liège", en: "Liège" },
+    name: { de: "Lüttich", hu: "Liège", ro: "Liège", en: "Liège",
+image: "/poi-images/belgium-liege-cities-v2.webp"
+},
     coords: [5.5797, 50.6326],
     coordinates: { lat: 50.6326, lng: 5.5797 },
     description: {
@@ -128,7 +136,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-namur-cities-v2",
     type: "capital",
-    name: { de: "Namur", hu: "Namur", ro: "Namur", en: "Namur" },
+    name: { de: "Namur", hu: "Namur", ro: "Namur", en: "Namur",
+image: "/poi-images/belgium-namur-cities-v2.webp"
+},
     coords: [4.8719, 50.4674],
     coordinates: { lat: 50.4674, lng: 4.8719 },
     description: {
@@ -159,7 +169,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-leuven-cities-v2",
     type: "city",
-    name: { de: "Löwen", hu: "Leuven", ro: "Louvain", en: "Leuven" },
+    name: { de: "Löwen", hu: "Leuven", ro: "Louvain", en: "Leuven",
+image: "/poi-images/belgium-leuven-cities-v2.webp"
+},
     coords: [4.7005, 50.8798],
     coordinates: { lat: 50.8798, lng: 4.7005 },
     description: {
@@ -190,7 +202,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-mons-cities-v2",
     type: "city",
-    name: { de: "Mons", hu: "Mons", ro: "Mons", en: "Mons" },
+    name: { de: "Mons", hu: "Mons", ro: "Mons", en: "Mons",
+image: "/poi-images/belgium-mons-cities-v2.webp"
+},
     coords: [3.9567, 50.4542],
     coordinates: { lat: 50.4542, lng: 3.9567 },
     description: {
@@ -221,7 +235,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-charleroi-cities-v2",
     type: "city",
-    name: { de: "Charleroi", hu: "Charleroi", ro: "Charleroi", en: "Charleroi" },
+    name: { de: "Charleroi", hu: "Charleroi", ro: "Charleroi", en: "Charleroi",
+image: "/poi-images/belgium-charleroi-cities-v2.webp"
+},
     coords: [4.4446, 50.4108],
     coordinates: { lat: 50.4108, lng: 4.4446 },
     description: {
@@ -252,7 +268,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-mechelen-cities-v2",
     type: "city",
-    name: { de: "Mechelen", hu: "Mechelen", ro: "Mechelen", en: "Mechelen" },
+    name: { de: "Mechelen", hu: "Mechelen", ro: "Mechelen", en: "Mechelen",
+image: "/poi-images/belgium-mechelen-cities-v2.webp"
+},
     coords: [4.4773, 51.0259],
     coordinates: { lat: 51.0259, lng: 4.4773 },
     description: {
@@ -283,7 +301,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-aalst-cities-v2",
     type: "city",
-    name: { de: "Aalst", hu: "Aalst", ro: "Aalst", en: "Aalst" },
+    name: { de: "Aalst", hu: "Aalst", ro: "Aalst", en: "Aalst",
+image: "/poi-images/belgium-aalst-cities-v2.webp"
+},
     coords: [4.0355, 50.9374],
     coordinates: { lat: 50.9374, lng: 4.0355 },
     description: {
@@ -314,7 +334,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-la-louviere-cities-v2",
     type: "city",
-    name: { de: "La Louvière", hu: "La Louvière", ro: "La Louvière", en: "La Louvière" },
+    name: { de: "La Louvière", hu: "La Louvière", ro: "La Louvière", en: "La Louvière",
+image: "/poi-images/belgium-la-louviere-cities-v2.webp"
+},
     coords: [4.186, 50.4795],
     coordinates: { lat: 50.4795, lng: 4.186 },
     description: {
@@ -345,7 +367,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-kortrijk-cities-v2",
     type: "city",
-    name: { de: "Kortrijk", hu: "Kortrijk", ro: "Courtrai", en: "Kortrijk" },
+    name: { de: "Kortrijk", hu: "Kortrijk", ro: "Courtrai", en: "Kortrijk",
+image: "/poi-images/belgium-kortrijk-cities-v2.webp"
+},
     coords: [3.2649, 50.828],
     coordinates: { lat: 50.828, lng: 3.2649 },
     description: {
@@ -376,7 +400,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-hasselt-cities-v2",
     type: "city",
-    name: { de: "Hasselt", hu: "Hasselt", ro: "Hasselt", en: "Hasselt" },
+    name: { de: "Hasselt", hu: "Hasselt", ro: "Hasselt", en: "Hasselt",
+image: "/poi-images/belgium-hasselt-cities-v2.webp"
+},
     coords: [5.3325, 50.9307],
     coordinates: { lat: 50.9307, lng: 5.3325 },
     description: {
@@ -407,7 +433,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-sint-niklaas-cities-v2",
     type: "city",
-    name: { de: "Sint-Niklaas", hu: "Sint-Niklaas", ro: "Sint-Niklaas", en: "Sint-Niklaas" },
+    name: { de: "Sint-Niklaas", hu: "Sint-Niklaas", ro: "Sint-Niklaas", en: "Sint-Niklaas",
+image: "/poi-images/belgium-sint-niklaas-cities-v2.webp"
+},
     coords: [4.1394, 51.1647],
     coordinates: { lat: 51.1647, lng: 4.1394 },
     description: {
@@ -438,7 +466,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-ostend-cities-v2",
     type: "city",
-    name: { de: "Ostende", hu: "Oostende", ro: "Oostende", en: "Ostend" },
+    name: { de: "Ostende", hu: "Oostende", ro: "Oostende", en: "Ostend",
+image: "/poi-images/belgium-ostend-cities-v2.webp"
+},
     coords: [2.927, 51.2154],
     coordinates: { lat: 51.2154, lng: 2.927 },
     description: {
@@ -459,7 +489,6 @@ export const belgiumCitiesV2: POI[] = [
       hu: "Oostende, amelyet gyakran a \"belga tengerparti üdülőhelyek királynőjének\" neveznek, a belga északi-tengeri partvidék legnagyobb városa és legfontosabb tengeri kikötője. II. Lipót király uralkodása alatt a 19. században a város aranykorát élte, és az európai arisztokrácia elegáns nyaralóhelyévé változott, ami ma is tükröződik az elegáns Belle-Époque villákban és a pompás Királyi Galériában. A kilométereken át húzódó homokos tengerparti sétány és a nyüzsgő jachtkikötő Oostendét egész évben mágnesként vonzó turistacélponttá teszi. Jelentős kulturális látványosság a Mercator vitorlás iskolahajó, amely úszó múzeumként horgonyoz a kikötőben. Oostende emellett szorosan kötődik a művészvilághoz, különösen a híres expresszionista festő, James Ensor szülővárosaként, akinek nyomait a Mu.ZEE Művészeti Múzeumban is megtalálhatjuk. A város a tengeri hangulatot gazdag történelmi és kulturális kínálattal ötvözi.",
       ro: "Oostende, denumit adesea „Regina stațiunilor balneare belgiene”, este cel mai mare oraș și cel mai important port maritim de pe coasta belgiană a Mării Nordului. Sub domnia regelui Leopold al II-lea în secolul al XIX-lea, orașul a cunoscut o epocă de aur și s-a transformat într-o destinație mondenă de vacanță pentru aristocrația europeană, lucru care se reflectă și astăzi în elegantele vile Belle-Époque și în magnifica Galerie Regală. Promenada lungă de kilometri de-a lungul plajei cu nisip și portul de agrement plin de viață fac din Oostende un magnet pentru turiști pe tot parcursul anului. Un punct de reper cultural important este nava-școală cu vele Mercator, ancorată în port ca muzeu plutitor. Oostende este, de asemenea, strâns legat de lumea artei, în special ca oraș natal al celebrului pictor expresionist James Ensor, ale cărui urme pot fi găsite în Muzeul de Artă Mu.ZEE.",
       en: "Ostend, often referred to as the \"Queen of the Belgian seaside resorts,\" is the largest city and the most important seaport on the Belgian North Sea coast. Under the reign of King Leopold II in the 19th century, the city experienced a golden era and transformed into a fashionable holiday destination for the European aristocracy, which is still reflected today in the elegant Belle-Époque villas and the magnificent Royal Galleries. The miles-long sandy beach promenade and the lively marina make Ostend a year-round tourist magnet. A significant cultural landmark is the Mercator sailing training ship, which is anchored in the harbor as a floating museum. Ostend is also closely linked to the art world, notably as the hometown of the famous expressionist painter James Ensor, whose legacy can be explored at the Mu.ZEE art museum. The city combines maritime flair with a rich historical and cultural offering.",
-      en: "Ostend, the largest and most vibrant city on the Belgian North Sea coast, is rightfully crowned the 'Queen of the Seaside Resorts'. The city experienced its golden age in the 19th century under the patronage of the Belgian royal family, particularly King Leopold II, an era still reflected today in its elegant promenades, royal galleries, and magnificent villas. Ostend is not only a popular destination for beach lovers but also a significant fishing and ferry port, cherished for its authentic maritime flair and delicious fresh seafood. Culturally, Ostend has much to offer as well: the Mu.ZEE showcases masterpieces of Belgian art, and the city was the home of the renowned Expressionist painter James Ensor. With its miles-long sandy beach, the imposing Casino Kursaal, and a pulsating art scene, Ostend provides a perfect blend of relaxation, history, and urban dynamics."
     },
     factsAdvanced: {
       de: ["Largest city and main administrative center on the Belgian North Sea coast", "Was a favored summer residence for the Belgian Royal Family in the 19th century", "The three-masted training ship Mercator is permanently moored here as a museum", "Fort Napoleon is a well-preserved polygonal fort built in 1811", "Birthplace and home of the famous expressionist painter James Ensor", "Home to the Kusttram (Coast Tram), the longest tram line in the world", "Thermae Palace Hotel is an iconic Art Deco landmark on the seafront"],
@@ -470,7 +499,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-tournai-cities-v2",
     type: "city",
-    name: { de: "Tournai", hu: "Tournai", ro: "Tournai", en: "Tournai" },
+    name: { de: "Tournai", hu: "Tournai", ro: "Tournai", en: "Tournai",
+image: "/poi-images/belgium-tournai-cities-v2.webp"
+},
     coords: [3.3872, 50.6057],
     coordinates: { lat: 50.6057, lng: 3.3872 },
     description: {
@@ -487,13 +518,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Tournai Cathedral five towers",
     descriptionAdvanced: {
-      de: "Tournai, eine der ältesten Städte Belgiens, atmet Geschichte aus jedem Kopfsteinpflaster. Einst die erste Hauptstadt des Frankenreiches unter König Childerich I., blickt die Stadt auf eine über 2000-jährige, faszinierende Vergangenheit zurück. Das majestätische Wahrzeichen ist die Kathedrale Notre-Dame, ein architektonisches Meisterwerk mit ihren markanten fünf Türmen, das romanische und gotische Elemente vereint und heute stolz den Titel eines UNESCO-Welterbes trägt. Ebenso beeindruckend ist der Belfried von Tournai, der älteste freistehende Glockenturm des Landes, von dem aus man eine atemberaubende Aussicht über die Dächer der Stadt genießt. Entlang der malerischen Schelde gelegen, lädt Tournai mit gemütlichen Cafés, traditionellen flämischen Giebelfassaden und interessanten Museen wie dem Musée des Beaux-Arts, das in einem von Victor Horta entworfenen Gebäude untergebracht ist, zum entspannten Erkunden ein.",
-      hu: "Tournai, Belgium egyik legrégebbi városa történelmet áraszt minden macskaköves utcájából. Egykor a Frank Birodalom első fővárosaként szolgált I. Childerich király alatt, így a város több mint 2000 éves lenyűgöző múltra tekinthet vissza. Fenséges jelképe a Notre-Dame székesegyház, amely jellegzetes öt tornyával egy igazi építészeti mestermű, a román és gótikus stílusjegyek egyedülálló ötvözete, és ma büszkén viseli az UNESCO Világörökség címet. Hasonlóan lenyűgöző a tournai-i harangtorony (Belfry), az ország legrégebbi szabadon álló harangtornya, ahonnan lélegzetelállító kilátás nyílik a város háztetőire. A festői Schelde folyó mentén fekvő Tournai hangulatos kávézóival, hagyományos flamand oromzatos homlokzataival és olyan érdekes múzeumaival, mint a Victor Horta által tervezett épületben található Musée des Beaux-Arts, nyugodt felfedezésre csábít.",
-      ro: "Tournai, unul dintre cele mai vechi orașe din Belgia, respiră istorie prin fiecare stradă pietruită. Odinioară prima capitală a Imperiului Franc sub regele Childeric I, orașul are un trecut fascinant de peste 2000 de ani. Simbolul său maiestuos este Catedrala Notre-Dame, o capodoperă arhitecturală cu cele cinci turnuri distinctive, care combină perfect elemente romanice și gotice și poartă astăzi cu mândrie titlul de Patrimoniu Mondial UNESCO. La fel de impresionant este turnul Belfry din Tournai, cel mai vechi turn cu clopotniță de sine stătător din țară, care oferă o panoramă uluitoare asupra acoperișurilor orașului. Situat de-a lungul pitorescului râu Scheldt, Tournai invită vizitatorii la explorare relaxantă, cu cafenelele sale primitoare, fațadele tradiționale flamande cu frontoane și muzee interesante precum Musée des Beaux-Arts, găzduit într-o clădire proiectată de Victor Horta.",
-      en: "Tournai, one of the oldest cities in Belgium, breathes history from every cobblestone. Once the first capital of the Frankish Empire under King Childeric I, the city boasts a fascinating history spanning over 2,000 years. Its majestic landmark is the Cathedral of Notre-Dame, an architectural masterpiece with its distinctive five towers, which seamlessly blends Romanesque and Gothic elements and proudly holds the title of a UNESCO World Heritage site. Equally impressive is the Belfry of Tournai, the oldest freestanding bell tower in the country, offering breathtaking views over the city's rooftops. Situated along the picturesque Scheldt River, Tournai invites visitors to enjoy a relaxed exploration with its cozy cafes, traditional Flemish gabled facades, and interesting museums, such as the Musée des Beaux-Arts, housed in a magnificent building designed by Victor Horta."
+      de: "Tournai (Doornik) ist eine der ältesten und historisch bedeutendsten Städte Belgiens und war im 5. Jahrhundert unter König Childerich I. die erste Hauptstadt des Frankenreiches. Im Herzen der Stadt erhebt sich die imposante Kathedrale Notre-Dame de Tournai, ein architektonisches Meisterwerk mit fünf markanten Türmen, das romanische und gotische Stilelemente vereint und zum UNESCO-Welterbe gehört. Ein weiteres UNESCO-Monument ist der Belfried von Tournai, der älteste freistehende Glockenturm des Landes aus dem 12. Jahrhundert. Historisch war die Stadt nicht nur politisch wichtig, sondern auch ein Zentrum der feinen Handwerkskunst, berühmt für Tournaier Porzellan und prächtige Wandteppiche. Heute verzaubert die Stadt an der Schelde mit ihren charmanten Plätzen, Museen und einer gut erhaltenen Sternfestung.",
+      hu: "Tournai (Doornik) Belgium egyik legrégebbi és történelmileg legjelentősebb városa, amely az 5. században I. Childerich király alatt a Frank Birodalom első fővárosa volt. A város szívében emelkedik az impozáns Tournai-i Notre-Dame székesegyház, egy öt jellegzetes toronnyal rendelkező építészeti mestermű, amely ötvözi a román és a gótikus stílusjegyeket, és az UNESCO Világörökség része. Egy másik UNESCO-műemlék a tournai-i harangtorony (Belfry), az ország legrégebbi, 12. századi szabadon álló harangtornya. Történelmileg a város nemcsak politikailag volt fontos, hanem a finom kézművesség központjaként is, híres a tournai-i porcelánról és a pompás faliszőnyegekről. Ma a Schelde folyó parti város hangulatos tereivel, múzeumaival és egy jól megőrzött csillagerőddel varázsolja el a látogatókat.",
+      ro: "Tournai este unul dintre cele mai vechi și mai importante orașe din punct de vedere istoric din Belgia și a fost prima capitală a Imperiului Franc în secolul al V-lea, sub regele Childeric I. În inima orașului se înalță impunătoarea Catedrală Notre-Dame din Tournai, o capodoperă arhitecturală cu cinci turnuri distinctive, care combină elemente romanice și gotice și este inclusă în Patrimoniul Mondial UNESCO. Un alt monument UNESCO este turnul Belfry din Tournai, cel mai vechi turn cu clopot de sine stătător din țară, datând din secolul al XII-lea. Istoric, orașul nu a fost doar important politic, ci și un centru al meșteșugurilor fine, renumit pentru porțelanul de Tournai și tapiseriile magnifice. Astăzi, orașul de pe râul Scheldt încântă vizitatorii cu piețele sale fermecătoare, muzeele și o fortăreață în formă de stea bine conservată.",
+      en: "Tournai is one of the oldest and historically most significant cities in Belgium and was the first capital of the Frankish Empire in the 5th century under King Childeric I. In the heart of the city rises the imposing Cathedral of Notre-Dame de Tournai, an architectural masterpiece with five distinctive towers that combines Romanesque and Gothic style elements and is a UNESCO World Heritage site. Another UNESCO monument is the Belfry of Tournai, the oldest freestanding bell tower in the country, dating back to the 12th century. Historically, the city was not only politically important but also a center of fine craftsmanship, famous for Tournai porcelain and magnificent tapestries. Today, the city on the Scheldt River enchants visitors with its charming squares, museums, and a well-preserved star fort."
     },
     factsAdvanced: {
-      de: ["Widely considered one of the oldest cities in Belgium.", "Served as the first capital of the Frankish Empire in the 5th century.", "The Cathedral of Notre-Dame is a UNESCO World Heritage site.", "Features the oldest Belfry in Belgium, standing 72 meters tall.", "The Musée des Beaux-Arts was designed by Art Nouveau pioneer Victor Horta.", "The 'Pont des Trous' is one of the oldest medieval military bridges in Europe.", "Located on the banks of the Scheldt River."],
+      de: ["Was the capital of the Frankish empire in the year 432", "The Cathedral of Notre-Dame was consecrated in 1171", "The belfry of Tournai stands 72 meters high", "King Childeric I's tomb was discovered here in 1653", "Remained under French rule multiple times, including under Louis XIV in 1667", "Housed a prominent tapestry weaving industry in the 15th and 16th centuries", "One of the few Belgian cities on the Scheldt to have a completely intact medieval bridge (Pont des Trous)"],
       hu: [],
       ro: [],
       en: []
@@ -501,7 +532,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-genk-cities-v2",
     type: "city",
-    name: { de: "Genk", hu: "Genk", ro: "Genk", en: "Genk" },
+    name: { de: "Genk", hu: "Genk", ro: "Genk", en: "Genk",
+image: "/poi-images/belgium-genk-cities-v2.webp"
+},
     coords: [5.5008, 50.9655],
     coordinates: { lat: 50.9655, lng: 5.5008 },
     description: {
@@ -518,13 +551,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Genk C-Mine industrial heritage",
     descriptionAdvanced: {
-      de: "Genk, im Herzen der Provinz Limburg gelegen, ist eine dynamische Stadt, die ihre industrielle Vergangenheit eindrucksvoll in eine moderne Zukunft transformiert hat. Der Aufstieg der Stadt ist eng mit dem Kohlebergbau des 20. Jahrhunderts verbunden, dessen Erbe auf dem beeindruckenden C-Mine-Gelände lebendig bleibt. Dieses ehemalige Bergwerk ist heute ein kreatives und kulturelles Zentrum, in dem Besucher die faszinierende Geschichte der Minenarbeiter erkunden können. Neben der Industriekultur besticht Genk durch außergewöhnliche Naturerlebnisse: Es gilt als das Tor zum Nationalpark Hoge Kempen, dem einzigen Nationalpark Belgiens, der weite Kiefernwälder und violett blühende Heidelandschaften bietet. Auch das renommierte Freilichtmuseum Bokrijk, das die historische ländliche Architektur Flanderns präsentiert, befindet sich in unmittelbarer Nähe und macht Genk zu einem perfekten Mix aus Geschichte, Kunst und Natur.",
-      hu: "Genk, amely Limburg tartomány szívében helyezkedik el, egy dinamikusan fejlődő város, amely ipari múltját lenyűgöző módon alakította át modern jövővé. A város felemelkedése szorosan kapcsolódik a 20. századi szénbányászathoz, amelynek öröksége a lenyűgöző C-Mine területén él tovább. Ez az egykori bányatelep ma kreatív és kulturális központ, ahol a látogatók felfedezhetik a bányászok lenyűgöző történetét. Az ipari kultúra mellett Genk kivételes természeti élményekkel is büszkélkedhet: ez a belgiumi Hoge Kempen Nemzeti Park, az ország egyetlen nemzeti parkjának kapuja, amely hatalmas fenyőerdőket és lila virágú fenyéres tájakat kínál. A híres Bokrijk szabadtéri múzeum is a közelben található, amely Flandria történelmi vidéki építészetét mutatja be, így Genk a történelem, a művészet és a természet tökéletes ötvözete.",
-      ro: "Genk, situat în inima provinciei Limburg, este un oraș dinamic care și-a transformat cu impresionantă abilitate trecutul industrial într-un viitor modern. Ascensiunea orașului este strâns legată de exploatarea cărbunelui din secolul al XX-lea, a cărui moștenire rămâne vie în impresionantul complex C-Mine. Fosta mină este astăzi un centru creativ și cultural unde vizitatorii pot explora istoria fascinantă a minerilor. Pe lângă cultura industrială, Genk captivează prin experiențe naturale excepționale: este considerat poarta de intrare către Parcul Național Hoge Kempen, singurul parc național din Belgia, care oferă păduri întinse de pini și peisaje cu iarbă neagră (erica) înflorită violet. Renumitul muzeu în aer liber Bokrijk, care prezintă arhitectura rurală istorică a Flandrei, se află de asemenea în imediata apropiere, făcând din Genk un mix perfect de istorie, artă și natură.",
-      en: "Genk, located in the heart of the Limburg province, is a dynamic city that has impressively transformed its industrial past into a modern future. The city's rise is closely tied to 20th-century coal mining, an enduring legacy kept alive at the remarkable C-Mine site. This former coal mine is now a creative and cultural hub where visitors can explore the fascinating history of the local miners. Alongside its industrial culture, Genk captivates with exceptional natural experiences: it serves as the gateway to the Hoge Kempen National Park, Belgium's only national park, offering vast pine forests and purple-blooming heathlands. The renowned Bokrijk Open-Air Museum, which showcases the historic rural architecture of Flanders, is also located nearby, making Genk a perfect blend of history, art, and nature."
+      de: "Genk ist ein lebendiges Industrie- und Handelszentrum in der belgischen Provinz Limburg, das sich aus einem ehemaligen kleinen Dorf zu einer der wichtigsten Städte der Region entwickelte. Diese rasante Transformation im 20. Jahrhundert wurde hauptsächlich durch den Steinkohlebergbau angetrieben, der Tausende von Gastarbeitern aus aller Welt anlockte und der Stadt ihren ausgeprägt multikulturellen Charakter verlieh. Nach der Schließung der Zechen hat Genk sein industrielles Erbe erfolgreich neu erfunden; das alte Bergwerksgelände C-Mine ist heute ein florierendes Kultur- und Kreativzentrum. Naturfreunde schätzen Genk als Tor zum Nationalpark Hoge Kempen, dem einzigen Nationalpark Belgiens. Zudem beherbergt die Stadt das Freilichtmuseum Bokrijk, das die ländliche Geschichte Flanderns zeigt und mit dem berühmten Radweg „Fietsen door das Water“ (Radfahren durchs Wasser) eine einzigartige Attraktion bietet.",
+      hu: "Genk egy élénk ipari és kereskedelmi központ a belga Limburg tartományban, amely egy egykori kis faluból a régió egyik legfontosabb városává fejlődött. Ezt a 20. századi gyors átalakulást főként a kőszénbányászat hajtotta, amely több ezer vendégmunkást vonzott a világ minden tájáról, és a városnak kifejezetten multikulturális jelleget kölcsönzött. A bányák bezárása után Genk sikeresen újra feltalálta ipari örökségét; a C-Mine egykori bányaterülete ma egy virágzó kulturális és kreatív központ. A természet szerelmesei Genket a Hoge Kempen Nemzeti Park, Belgium egyetlen nemzeti parkja kapujaként értékelik. Emellett a város ad otthont a Bokrijk Szabadtéri Múzeumnak, amely Flandria vidéki történelmét mutatja be, és a híres \"Fietsen door het Water\" (Kerékpározás a vízen át) kerékpárúttal egyedülálló látványosságot kínál.",
+      ro: "Genk este un centru industrial și comercial plin de viață în provincia belgiană Limburg, care a evoluat dintr-un fost sat mic într-unul dintre cele mai importante orașe din regiune. Această transformare rapidă din secolul al XX-lea a fost impulsionată în principal de extracția cărbunelui, care a atras mii de lucrători oaspeți din întreaga lume și a conferit orașului caracterul său pronunțat multicultural. După închiderea minelor, Genk și-a reinventat cu succes moștenirea industrială; fostul sit minier C-Mine este astăzi un centru cultural și creativ înfloritor. Iubitorii de natură apreciază Genk ca poartă de intrare către Parcul Național Hoge Kempen, singurul parc național din Belgia. În plus, orașul găzduiește Muzeul în aer liber Bokrijk, care prezintă istoria rurală a Flandrei și oferă o atracție unică prin celebra pistă de biciclete „Fietsen door het Water” (Ciclism prin apă).",
+      en: "Genk is a vibrant industrial and commercial center in the Belgian province of Limburg, which evolved from a former small village into one of the most important cities in the region. This rapid transformation in the 20th century was primarily driven by coal mining, which attracted thousands of guest workers from around the world and gave the city its distinctively multicultural character. Following the closure of the collieries, Genk has successfully reinvented its industrial heritage; the old C-Mine mining site is now a thriving cultural and creative center. Nature lovers appreciate Genk as the gateway to the Hoge Kempen National Park, the only national park in Belgium. In addition, the city is home to the Bokrijk Open-Air Museum, which showcases the rural history of Flanders and offers a unique attraction with the famous \"Cycling through Water\" (Fietsen door het Water) bike path."
     },
     factsAdvanced: {
-      de: ["Transformed from a quiet village into a major coal mining center in the 1900s.", "The C-Mine cultural center is built on the site of the Winterslag coal mine.", "Gateway to the Hoge Kempen National Park, Belgium's only national park.", "Home to the popular Bokrijk Open-Air Museum and its famous cycling path 'Cycling through Water'.", "A highly diverse city with residents from over 100 different nationalities.", "Thor Park, another former mining site, is now a technology and science campus.", "Features an impressive planetarium, the Europlanetarium."],
+      de: ["Operated three major coal mines (Winterslag, Waterschei, Zwartberg) in the 20th century", "The coal mines employed workers from over 85 different nationalities", "C-Mine features a restored mine shaft tower that visitors can climb", "Hoge Kempen National Park spans over 5,700 hectares", "The Bokrijk Open-Air Museum houses over 100 historical buildings", "Ford Motor Company operated a major assembly plant in Genk until 2014", "Home to the KRC Genk football club, a major team in the Belgian Pro League"],
       hu: [],
       ro: [],
       en: []
@@ -532,7 +565,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-seraing-cities-v2",
     type: "city",
-    name: { de: "Seraing", hu: "Seraing", ro: "Seraing", en: "Seraing" },
+    name: { de: "Seraing", hu: "Seraing", ro: "Seraing", en: "Seraing",
+image: "/poi-images/belgium-seraing-cities-v2.webp"
+},
     coords: [5.5088, 50.5966],
     coordinates: { lat: 50.5966, lng: 5.5088 },
     description: {
@@ -549,13 +584,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Seraing Val Saint Lambert crystal factory",
     descriptionAdvanced: {
-      de: "Seraing, eine robuste Industriestadt direkt an den Ufern der Maas nahe Lüttich gelegen, ist weltweit ein Synonym für die Geschichte der Schwerindustrie und außergewöhnliche Handwerkskunst. Ihre Blütezeit verdankt die Stadt dem visionären britischen Unternehmer John Cockerill, der hier im 19. Jahrhundert ein massives Stahl- und Maschinenbau-Imperium aufbaute, dessen monumentale Fabrikhallen noch heute das Stadtbild dominieren. Gleichzeitig ist Seraing die stolze Heimat der Kristallglasmanufaktur Val Saint Lambert, die in einer ehemaligen Zisterzienserabtei untergebracht ist. Diese Manufaktur produziert seit 1826 Kristallglas von absoluter Weltklasse und zieht Kunstliebhaber aus aller Welt an. Seraing bietet somit einen einzigartigen Kontrast: die raue Ästhetik der Stahlindustrie vereint mit der funkelnden Eleganz feinster Kristallkunst in einem historisch gewachsenen Ballungsraum.",
-      hu: "Seraing, a Meuse folyó partján, Liège közelében fekvő masszív iparváros, amely világszerte a nehézipar történetének és a kivételes kézművességnek a szinonimája. Virágkorát a látnok brit vállalkozónak, John Cockerillnek köszönheti, aki a 19. században hatalmas acél- és gépipari birodalmat épített fel itt, amelynek monumentális gyárcsarnokai ma is uralják a városképet. Seraing egyben a Val Saint Lambert kristályüveg-manufaktúra büszke otthona is, amely egy egykori ciszterci apátság épületében működik. Ez a manufaktúra 1826 óta készít abszolút világszínvonalú kristályüveget, és a világ minden tájáról vonzza a művészetkedvelőket. Seraing így egyedülálló kontrasztot kínál: az acélipar nyers esztétikája ötvöződik a legfinomabb kristályművészet szikrázó eleganciájával egy történelmileg kialakult agglomerációban.",
-      ro: "Seraing, un oraș industrial robust situat pe malurile râului Meuse, lângă Liège, este sinonim la nivel mondial cu istoria industriei grele și meșteșugul excepțional. Perioada de glorie a orașului i se datorează vizionarului antreprenor britanic John Cockerill, care în secolul al XIX-lea a construit aici un imperiu masiv al oțelului și ingineriei mecanice, ale cărui hale de fabrică monumentale domină și astăzi peisajul urban. În același timp, Seraing este mândra gazdă a manufacturii de cristal Val Saint Lambert, situată într-o fostă abație cisterciană. Această manufactură produce din 1826 cristal de clasă mondială și atrage iubitori de artă din întreaga lume. Astfel, Seraing oferă un contrast unic: estetica brută a industriei siderurgice combinată cu eleganța sclipitoare a celei mai fine arte a cristalului într-o zonă metropolitană dezvoltată istoric.",
-      en: "Seraing, a robust industrial city located directly on the banks of the Meuse River near Liège, is globally synonymous with the history of heavy industry and exceptional craftsmanship. The city owes its golden age to the visionary British entrepreneur John Cockerill, who built a massive steel and mechanical engineering empire here in the 19th century, whose monumental factory halls still dominate the cityscape today. At the same time, Seraing is the proud home of the Val Saint Lambert crystal manufactory, housed in a former Cistercian abbey. This manufactory has been producing world-class crystal glass since 1826, attracting art lovers from across the globe. Seraing thus offers a unique contrast: the raw aesthetic of the steel industry perfectly combined with the sparkling elegance of the finest crystal art within a historically rich urban area."
+      de: "Seraing, eine stark von der Schwerindustrie geprägte Stadt südwestlich von Lüttich, blickt auf eine lange und beeindruckende Industriegeschichte zurück. Direkt am Ufer der Maas gelegen, wurde die Stadt im 19. Jahrhundert durch den Unternehmer John Cockerill zu einem der wichtigsten Stahl- und Maschinenbauzentren Europas ausgebaut. Die massiven Hochöfen und Werksanlagen dominieren noch immer teilweise die Skyline und erinnern an den Wohlstand der Vergangenheit. Weltweiten Ruhm erlangte Seraing zudem durch die Glasmanufaktur Val Saint Lambert, die in einer ehemaligen Zisterzienserabtei untergebracht ist und für ihre exzellenten Kristallglaskreationen bekannt ist. Das ehemalige Schloss der Fürstbischöfe von Lüttich ist ein weiterer historischer Ankerpunkt der Stadt. Heute bemüht sich Seraing im Rahmen umfangreicher Stadtentwicklungsprojekte darum, brachliegende Industrieflächen in moderne, grüne Wohn- und Geschäftsareale umzuwandeln.",
+      hu: "Seraing, a Liège-től délnyugatra fekvő, a nehézipar által erősen meghatározott város, hosszú és lenyűgöző ipari múltra tekint vissza. A közvetlenül a Meuse folyó partján fekvő várost a 19. században John Cockerill vállalkozó Európa egyik legfontosabb acél- és gépgyártó központjává fejlesztette. A hatalmas nagyolvasztók és gyártelepek részben még mindig uralják a városképet, és a múltbeli jólétre emlékeztetnek. Seraing ezenkívül világhírnévre tett szert a Val Saint Lambert üvegmanufaktúra révén, amely egy egykori ciszterci apátságban kapott helyet, és kiváló kristályüveg alkotásairól ismert. A liège-i püspök-fejedelmek egykori kastélya a város másik történelmi rögzítőpontja. Ma Seraing átfogó városfejlesztési projektek keretében törekszik arra, hogy az elhagyatott ipari területeket modern, zöld lakó- és üzleti negyedekké alakítsa át.",
+      ro: "Seraing, un oraș puternic influențat de industria grea la sud-vest de Liège, privește înapoi la o istorie industrială lungă și impresionantă. Situat direct pe malul râului Meuse, orașul a fost dezvoltat în secolul al XIX-lea de antreprenorul John Cockerill într-unul dintre cele mai importante centre de producție de oțel și utilaje din Europa. Furnalele masive și complexele industriale încă domină parțial orizontul și amintesc de prosperitatea trecutului. De asemenea, Seraing a dobândit faimă mondială prin manufactura de sticlă Val Saint Lambert, găzduită într-o fostă abație cisterciană, cunoscută pentru excelentele sale creații din cristal. Fostul castel al prinților-episcopi de Liège este un alt punct de ancorare istoric al orașului. Astăzi, prin proiecte ample de dezvoltare urbană, Seraing depune eforturi pentru a transforma terenurile industriale abandonate în zone rezidențiale și comerciale moderne și verzi.",
+      en: "Seraing, a city heavily defined by heavy industry southwest of Liège, looks back on a long and impressive industrial history. Located directly on the banks of the Meuse River, the city was developed in the 19th century by entrepreneur John Cockerill into one of Europe's most important steel and mechanical engineering centers. The massive blast furnaces and industrial plants still partially dominate the skyline, serving as reminders of past prosperity. Seraing also achieved worldwide fame through the Val Saint Lambert glass manufactory, housed in a former Cistercian abbey and renowned for its excellent crystal glass creations. The former castle of the Prince-Bishops of Liège is another historical anchor point of the city. Today, through extensive urban development projects, Seraing is striving to transform derelict industrial sites into modern, green residential and commercial areas."
     },
     factsAdvanced: {
-      de: ["Home to the world-renowned Val Saint Lambert crystal glass manufactory.", "Transformed into a major industrial hub by John Cockerill in 1817.", "Part of the greater Liège metropolitan area.", "The Castle of the Prince-Bishops of Liège is located here.", "Features significant industrial heritage from the coal and steel eras.", "The Val Saint Lambert is housed in a restored 13th-century Cistercian abbey.", "Currently undergoing massive urban renewal and revitalization projects."],
+      de: ["John Cockerill founded his massive industrial enterprise here in 1817", "Val Saint Lambert has been producing high-quality crystal glass since 1826", "At its peak, the Cockerill steelworks employed tens of thousands of workers", "The Prince-Bishops of Liège used Seraing as their summer residence", "Part of the extensive Liège metropolitan area numbering over 600,000 residents", "The city features the Ougrée-Marihaye blast furnace, an industrial monument", "Currently revitalizing over 100 hectares of former industrial land"],
       hu: [],
       ro: [],
       en: []
@@ -563,7 +598,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-roeselare-cities-v2",
     type: "city",
-    name: { de: "Roeselare", hu: "Roeselare", ro: "Roeselare", en: "Roeselare" },
+    name: { de: "Roeselare", hu: "Roeselare", ro: "Roeselare", en: "Roeselare",
+image: "/poi-images/belgium-roeselare-cities-v2.webp"
+},
     coords: [3.1248, 50.9445],
     coordinates: { lat: 50.9445, lng: 3.1248 },
     description: {
@@ -580,13 +617,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Roeselare Rumbeke Castle",
     descriptionAdvanced: {
-      de: "Roeselare, strategisch günstig im Herzen von Westflandern gelegen, ist eine pulsierende Handels- und Einkaufsstadt, die stolz auf ihre reiche unternehmerische Geschichte zurückblickt. Die Stadt ist vor allem als dynamisches Zentrum der belgischen Lebensmittel- und Landwirtschaftsindustrie bekannt, umgeben von fruchtbaren Feldern. Ein echtes Juwel von Roeselare ist die historische Brauerei Rodenbach, deren einzigartiges, fassgereiftes flämisches Rotbraunbier Kenner auf der ganzen Welt schätzen. Zudem ist die Stadt die inoffizielle Hauptstadt des flämischen Radsports und beherbergt das faszinierende KOERS (Museum der Radsportgeschichte), das die tief verwurzelte Leidenschaft der Region für das Fahrrad feiert. Mit dem eleganten Schloss Rumbeke, einem der ältesten Renaissanceschlösser Belgiens, und einer belebten, fußgängerfreundlichen Innenstadt, vereint Roeselare harmonisch Wirtschaftskraft mit kulturellem Charme.",
-      hu: "Roeselare, amely stratégiailag Nyugat-Flandria szívében helyezkedik el, egy lüktető kereskedelmi és bevásárlóváros, amely büszke gazdag vállalkozói múltjára. A város leginkább a belga élelmiszer- és mezőgazdasági ipar dinamikus központjaként ismert, termékeny földekkel körülvéve. Roeselare egyik igazi ékköve a történelmi Rodenbach sörfőzde, amelynek egyedülálló, hordóban érlelt flamand vörös-barna sörét világszerte nagyra értékelik az ínyencek. Emellett a város a flamand kerékpársport nem hivatalos fővárosa is; itt található a lenyűgöző KOERS (Kerékpársport Történeti Múzeum), amely a régió kerékpározás iránti mélyen gyökerező szenvedélyét ünnepli. Az elegáns Rumbeke kastéllyal, Belgium egyik legrégebbi reneszánsz kastélyával, valamint a pezsgő, gyalogosbarát belvárossal Roeselare harmonikusan ötvözi a gazdasági erőt a kulturális bájjal.",
-      ro: "Roeselare, situat strategic în inima Flandrei de Vest, este un oraș comercial și de cumpărături vibrant, mândru de istoria sa antreprenorială bogată. Orașul este cunoscut în principal ca un centru dinamic al industriei alimentare și agricole belgiene, înconjurat de câmpuri fertile. O adevărată bijuterie a orașului Roeselare este istorica fabrică de bere Rodenbach, a cărei bere unică, roșu-brună flamandă maturată în butoaie de stejar, este apreciată de cunoscători din întreaga lume. De asemenea, orașul este capitala neoficială a ciclismului flamand, găzduind fascinantul muzeu KOERS (Muzeul Ciclismului), care celebrează pasiunea profund înrădăcinată a regiunii pentru biciclete. Cu elegantul Castel Rumbeke, unul dintre cele mai vechi castele renascentiste din Belgia, și un centru pietonal plin de viață, Roeselare îmbină armonios forța economică cu șarmul cultural.",
-      en: "Roeselare, strategically located in the heart of West Flanders, is a vibrant commercial and shopping city that looks back proudly on its rich entrepreneurial history. The city is primarily known as a dynamic center for the Belgian food and agricultural industry, surrounded by fertile farmlands. A true jewel of Roeselare is the historic Rodenbach Brewery, whose unique barrel-aged Flemish red-brown beer is highly prized by connoisseurs around the world. Additionally, the city is the unofficial capital of Flemish cycling, hosting the fascinating KOERS (Museum of Cycle Racing), which celebrates the region's deep-rooted passion for the bicycle. With the elegant Rumbeke Castle, one of the oldest Renaissance castles in Belgium, and a lively, pedestrian-friendly city center, Roeselare harmoniously combines economic strength with cultural charm."
+      de: "Roeselare (Roulers) ist eine dynamische Einkaufs- und Handelsstadt im Zentrum der belgischen Provinz Westflandern. Die Stadt, die im idyllischen Tal der Mandel liegt, ist international vor allem als Heimat der Brauerei Rodenbach bekannt, in der seit 1821 ein einzigartiges, fassgereiftes flämisches Rotbraunbier gebraut wird. Ein weiteres kulturelles Highlight ist das KOERS (Museum des Radrennsports), welches in einer ehemaligen Feuerwache untergebracht ist und die tiefe Verwurzelung des Radsports in der flämischen Kultur zelebriert. Die Wirtschaft von Roeselare ist stark vom Agrarsektor und der Lebensmittelindustrie geprägt, was der Stadt den Beinamen \"Gemüsegarten Europas\" eingebracht hat. Architektonisch reizvoll ist das Schloss Rumbeke im nahegelegenen Sterrebos, eines der ältesten Renaissanceschlösser des Landes.",
+      hu: "Roeselare (Roulers) egy dinamikus bevásárló- és kereskedőváros a belga Nyugat-Flandria tartomány központjában. Az idilli Mandel völgyében fekvő város nemzetközileg elsősorban a Rodenbach sörfőzde otthonaként ismert, ahol 1821 óta főzik az egyedülálló, hordóban érlelt flamand vörösbarna sört. Egy másik kulturális fénypont a KOERS (Kerékpársport Múzeum), amely egy egykori tűzoltóállomáson kapott helyet, és a kerékpársportnak a flamand kultúrában való mély gyökereit ünnepli. Roeselare gazdaságát erősen meghatározza az agrárszektor és az élelmiszeripar, ami a városnak \"Európa veteményeskertje\" becenevet hozta. Építészetileg vonzó a közeli Sterrebosban található Rumbeke kastély, amely az ország egyik legrégebbi reneszánsz kastélya.",
+      ro: "Roeselare (Roulers) este un oraș dinamic, orientat spre cumpărături și comerț, situat în centrul provinciei belgiene Flandra de Vest. Orașul, aflat în valea idilică a râului Mandel, este faimos la nivel internațional mai ales ca fiind casa berăriei Rodenbach, unde din 1821 este produsă o bere unică, de un roșu-brun flamand, maturată în butoaie. Un alt punct de atracție culturală este KOERS (Muzeul Ciclismului), găzduit într-o fostă stație de pompieri, care celebrează rădăcinile profunde ale ciclismului în cultura flamandă. Economia orașului Roeselare este puternic marcată de sectorul agricol și de industria alimentară, ceea ce i-a adus orașului porecla de „grădina de legume a Europei”. Din punct de vedere arhitectural, atrăgător este Castelul Rumbeke din pădurea Sterrebos din apropiere, unul dintre cele mai vechi castele renascentiste din țară.",
+      en: "Roeselare (Roulers) is a dynamic shopping and commercial city in the center of the Belgian province of West Flanders. The city, situated in the idyllic Mandel valley, is internationally known primarily as the home of the Rodenbach brewery, where a unique barrel-aged Flemish red-brown beer has been brewed since 1821. Another cultural highlight is KOERS (Museum of Cycle Racing), housed in a former fire station, which celebrates the deep roots of cycling in Flemish culture. The economy of Roeselare is heavily influenced by the agricultural sector and the food industry, earning the city the nickname \"the vegetable garden of Europe.\" Architecturally charming is Rumbeke Castle in the nearby Sterrebos, one of the oldest Renaissance castles in the country."
     },
     factsAdvanced: {
-      de: ["Home to the famous Rodenbach brewery, known for its Flemish red ale.", "Houses the KOERS, the national Museum of Cycle Racing.", "Rumbeke Castle is one of the oldest Renaissance castles in Belgium.", "A major hub for the food, agriculture, and retail sectors.", "Known as the 'Heart of West Flanders' due to its central location.", "Features extensive pedestrian shopping streets and retail centers.", "Was a significant center during the early 20th-century flax industry."],
+      de: ["Rodenbach Brewery was founded in 1821 by the Rodenbach family", "The National Cycling Museum (KOERS) opened in 1998", "Rumbeke Castle dates back to 1538, one of the oldest in the country", "Hosts an important weekly market that supports its 'vegetable garden' status", "The city center underwent massive modernization including the De Spil library", "A key logistics and distribution hub for West Flanders", "The St. Michael's Church was substantially rebuilt after destruction in 1488"],
       hu: [],
       ro: [],
       en: []
@@ -594,7 +631,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-mouscron-cities-v2",
     type: "city",
-    name: { de: "Mouscron", hu: "Mouscron", ro: "Mouscron", en: "Mouscron" },
+    name: { de: "Mouscron", hu: "Mouscron", ro: "Mouscron", en: "Mouscron",
+image: "/poi-images/belgium-mouscron-cities-v2.webp"
+},
     coords: [3.2139, 50.7433],
     coordinates: { lat: 50.7433, lng: 3.2139 },
     description: {
@@ -611,13 +650,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Mouscron Town Hall architecture",
     descriptionAdvanced: {
-      de: "Mouscron, eine lebendige wallonische Stadt unmittelbar an der Grenze zu Frankreich, ist ein faszinierendes Beispiel für grenzüberschreitendes Zusammenleben. Die Stadt gehört zur sogenannten Picardie Wallonne und profitiert wirtschaftlich und kulturell stark von der Nähe zur französischen Metropole Lille, mit der sie einen dicht besiedelten Ballungsraum bildet. Historisch ist Mouscron durch eine starke Textil- und Teppichindustrie geprägt, was sich in prächtigen alten Fabrikgebäuden und stolzen Herrenhäusern widerspiegelt. Eines der bekanntesten Wahrzeichen ist das Château des Comtes de Mouscron, eine alte Wasserburg, deren Überreste heute in einen idyllischen Park eingebettet sind. Obwohl Mouscron in der französischsprachigen Region liegt, hat es den Status einer sogenannten Fazilitäten-Gemeinde, was die sprachliche und kulturelle Vielfalt an dieser wichtigen europäischen Schnittstelle unterstreicht.",
-      hu: "Mouscron, egy élénk vallóniai város közvetlenül a francia határ mellett, a határon átnyúló együttélés lenyűgöző példája. A város az úgynevezett Picardie Wallonne (Vallon Pikárdia) része, és gazdaságilag, valamint kulturálisan is sokat profitál a francia Lille metropolisz közelségéből, amellyel sűrűn lakott agglomerációt alkot. Mouscron történelmét az erős textil- és szőnyegipar határozta meg, ami ma is megmutatkozik a pompás régi gyárépületekben és büszke udvarházakban. Egyik legismertebb nevezetessége a Château des Comtes de Mouscron, egy régi vizivár, amelynek maradványai ma egy idilli parkban találhatók. Bár Mouscron a francia nyelvű régióban fekszik, úgynevezett 'faciliteitengemeente' (nyelvi könnyítéseket biztosító település) státusszal rendelkezik, ami hangsúlyozza a nyelvi és kulturális sokszínűséget ezen a fontos európai találkozási ponton.",
-      ro: "Mouscron, un oraș valon plin de viață situat chiar la granița cu Franța, este un exemplu fascinant de conviețuire transfrontalieră. Orașul face parte din așa-numita Picardie Wallonne și beneficiază enorm din punct de vedere economic și cultural de apropierea sa față de metropola franceză Lille, cu care formează o zonă metropolitană dens populată. Istoric, Mouscron a fost modelat de o puternică industrie a textilelor și covoarelor, fapt reflectat în vechile clădiri de fabrică magnifice și conacele impunătoare. Una dintre cele mai faimoase atracții este Château des Comtes de Mouscron, un vechi castel cu șanț de apă, ale cărui rămășițe sunt astăzi integrate într-un parc idilic. Deși este situat în regiunea francofonă, Mouscron are statutul de comună cu facilități lingvistice, subliniind diversitatea lingvistică și culturală la această importantă intersecție europeană.",
-      en: "Mouscron, a lively Walloon city situated right on the border with France, is a fascinating example of cross-border coexistence. The city is part of the so-called Picardy Wallonia and benefits immensely, both economically and culturally, from its close proximity to the French metropolis of Lille, forming a densely populated metropolitan area. Historically, Mouscron was shaped by a strong textile and carpet industry, which is still reflected in magnificent old factory buildings and proud manor houses. One of its most famous landmarks is the Château des Comtes de Mouscron, an ancient moated castle whose remains are now set within an idyllic park. Although located in the French-speaking region, Mouscron holds the status of a 'facilities municipality', underscoring the linguistic and cultural diversity at this important European crossroads."
+      de: "Mouscron (Moeskroen) ist eine charaktervolle wallonische Grenzstadt in der Provinz Hennegau, die physisch direkt in die französische Metropolregion Lille-Roubaix-Tourcoing übergeht. Diese geografische Besonderheit als Fazilitäten-Gemeinde bedeutet, dass die Stadt für flämischsprachige Einwohner spezielle Sprachregelungen anbietet und kulturell stark von der Zweisprachigkeit geprägt ist. Im 19. und frühen 20. Jahrhundert entwickelte sich Mouscron zu einem bedeutenden Zentrum der Textilindustrie, insbesondere in der Teppichherstellung und der Baumwollverarbeitung, wovon noch heute alte Fabrikgebäude und Schornsteine zeugen. Zu den Sehenswürdigkeiten gehört das neugotische Rathaus am zentralen Marktplatz sowie das Château des Comtes (Schloss der Grafen), ein historisches Anwesen aus dem 15. Jahrhundert. Jedes Jahr im Herbst feiert die Stadt das Hurlus-Fest, das an die protestantischen Rebellen (Hurlus) des 16. Jahrhunderts erinnert.",
+      hu: "Mouscron (Moeskroen) egy karakteres vallóniai határváros Hainaut tartományban, amely fizikailag közvetlenül egybeolvad a francia Lille-Roubaix-Tourcoing metropoliszrégióval. Ez a földrajzi sajátosság mint \"faciliteiten-gemeente\" (nyelvi könnyítéseket nyújtó község) azt jelenti, hogy a város különleges nyelvi szabályozásokat kínál a flamand nyelvű lakosok számára, és kulturálisan erősen meghatározza a kétnyelvűség. A 19. és a 20. század elején Mouscron a textilipar, különösen a szőnyeggyártás és a pamutfeldolgozás jelentős központjává fejlődött, amiről ma is régi gyárépületek és kémények tanúskodnak. A látnivalók közé tartozik a központi piactéren álló neogótikus városháza, valamint a Château des Comtes (Grófok kastélya), egy 15. századi történelmi birtok. A város minden ősszel megünnepli a Hurlus-fesztivált, amely a 16. századi protestáns lázadókra (Hurlus) emlékezik.",
+      ro: "Mouscron (Moeskroen) este un oraș de graniță valon plin de caracter în provincia Hainaut, care se contopește fizic direct cu regiunea metropolitană franceză Lille-Roubaix-Tourcoing. Această particularitate geografică ca și „comună cu facilități” înseamnă că orașul oferă reglementări lingvistice speciale pentru rezidenții vorbitori de limba flamandă și este puternic influențat cultural de bilingvism. În secolul al XIX-lea și începutul secolului al XX-lea, Mouscron s-a dezvoltat într-un centru major al industriei textile, în special în producția de covoare și prelucrarea bumbacului, lucru dovedit și astăzi de vechile clădiri ale fabricilor și de coșurile de fum. Printre atracții se numără primăria neogotică din piața centrală, precum și Château des Comtes (Castelul Conților), o proprietate istorică din secolul al XV-lea. În fiecare toamnă, orașul sărbătorește Festivalul Hurlus, care comemorează rebelii protestanți (Hurlus) din secolul al XVI-lea.",
+      en: "Mouscron (Moeskroen) is a characterful Walloon border city in the province of Hainaut, which physically merges directly into the French metropolitan region of Lille-Roubaix-Tourcoing. This geographical peculiarity as a \"facilities municipality\" means that the city offers special linguistic arrangements for Flemish-speaking residents and is culturally strongly influenced by bilingualism. In the 19th and early 20th centuries, Mouscron developed into a major center of the textile industry, particularly in carpet manufacturing and cotton processing, as evidenced today by old factory buildings and chimneys. Attractions include the neo-Gothic town hall on the central market square, as well as the Château des Comtes (Castle of the Counts), a historic estate dating from the 15th century. Every autumn, the city celebrates the Hurlus Festival, which commemorates the Protestant rebels (Hurlus) of the 16th century."
     },
     factsAdvanced: {
-      de: ["Located directly on the Belgian-French border, adjacent to Lille.", "Part of the cross-border European Metropolis of Lille-Kortrijk-Tournai.", "A 'facilities municipality' offering services to Dutch speakers.", "Historically a major hub for the textile and carpet weaving industries.", "Features the historic Château des Comtes de Mouscron (Castle of the Counts).", "Annual 'Fête des Hurlus' celebrates local folklore and traditions.", "Once part of the historic County of Flanders before transferring to Wallonia in 1963."],
+      de: ["Officially designated as a municipality with language facilities in 1963", "Bordered on three sides by French territory (Lille metropolis)", "The Château des Comtes dates back to the 15th century", "Experienced a massive population boom between 1890 and 1910 due to textiles", "Hosts the annual Fête des Hurlus on the first weekend of October", "The city's neo-Gothic town hall was inaugurated in 1890", "A vibrant hub for cross-border commerce and employment"],
       hu: [],
       ro: [],
       en: []
@@ -625,7 +664,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-verviers-cities-v2",
     type: "city",
-    name: { de: "Verviers", hu: "Verviers", ro: "Verviers", en: "Verviers" },
+    name: { de: "Verviers", hu: "Verviers", ro: "Verviers", en: "Verviers",
+image: "/poi-images/belgium-verviers-cities-v2.webp"
+},
     coords: [5.8631, 50.5932],
     coordinates: { lat: 50.5932, lng: 5.8631 },
     description: {
@@ -642,13 +683,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Verviers Town Hall and fountains",
     descriptionAdvanced: {
-      de: "Verviers, malerisch im Tal der Vesdre in der Provinz Lüttich gelegen, blickt auf eine ruhmreiche Vergangenheit als 'Welthauptstadt der Wolle' zurück. Im 19. Jahrhundert florierte hier die Textilindustrie, deren enormer Reichtum sich noch heute in den prächtigen Patrizierhäusern und beeindruckenden öffentlichen Gebäuden widerspiegelt. Ein besonders charmantes Merkmal der Stadt sind ihre zahlreichen kunstvollen Brunnen, weshalb Verviers oft liebevoll die 'Wallonische Wasserhauptstadt' genannt wird. Besucher können im renommierten Woll- und Modemuseum (CTL) in die faszinierende Geschichte der Textilherstellung eintauchen und mehr über die komplexe Mechanisierung erfahren, die diese Stadt einst prägte. Mit dem majestätischen Grand Théâtre und der Nähe zum malerischen Hohen Venn ist Verviers eine Stadt, die ein reiches industrielles Erbe mit kultureller und landschaftlicher Schönheit verbindet.",
-      hu: "Verviers, amely festői környezetben, a Vesdre folyó völgyében fekszik Liège tartományban, a 'gyapjú világfővárosaként' dicsőséges múltra tekint vissza. A 19. században itt virágzott a textilipar, amelynek hatalmas gazdagsága ma is tükröződik a pompás patríciusházakban és a lenyűgöző középületekben. A város egyik különösen bájos jellegzetessége a számos művészi szökőkút, ami miatt Verviers-t gyakran szeretettel a 'vallon vízfővárosnak' is nevezik. A látogatók a híres Gyapjú- és Divatmúzeumban (CTL) elmerülhetnek a textilgyártás lenyűgöző történetében, és megismerhetik azt a komplex gépesítési folyamatot, amely egykor meghatározta ezt a várost. A fenséges Grand Théâtre-ral és a festői Magas-Venn (High Fens) közelségével Verviers olyan város, amely harmonikusan ötvözi a gazdag ipari örökséget a kulturális és természeti szépséggel.",
-      ro: "Verviers, situat pitoresc în valea râului Vesdre în provincia Liège, privește în urmă la un trecut glorios ca „capitală mondială a lânii”. În secolul al XIX-lea, industria textilă a înflorit aici, iar bogăția sa enormă se reflectă și astăzi în casele patriciene magnifice și în clădirile publice impresionante. O caracteristică deosebit de fermecătoare a orașului sunt numeroasele sale fântâni artistice, motiv pentru care Verviers este adesea numit cu afecțiune „capitala apei din Valonia”. Vizitatorii se pot cufunda în istoria fascinantă a producției textile la renumitul Muzeu al Lânii și al Modei (CTL), unde pot învăța despre mecanizarea complexă care a modelat odată acest oraș. Cu maiestuosul său Grand Théâtre și proximitatea față de pitorescul parc Hautes Fagnes (High Fens), Verviers este un oraș care îmbină o moștenire industrială bogată cu frumusețea culturală și peisagistică.",
-      en: "Verviers, picturesquely situated in the Vesdre River valley in the Liège province, looks back on a glorious past as the 'world capital of wool'. During the 19th century, the textile industry flourished here, and its immense wealth is still reflected today in the magnificent patrician houses and impressive public buildings. A particularly charming feature of the city is its numerous ornate fountains, earning Verviers the affectionate nickname of the 'Walloon Water Capital'. Visitors can dive into the fascinating history of textile manufacturing at the renowned Wool and Fashion Museum (CTL), learning about the complex mechanization that once defined this city. With its majestic Grand Théâtre and its proximity to the scenic High Fens (Hautes Fagnes), Verviers is a city that beautifully combines a rich industrial heritage with cultural and scenic beauty."
+      de: "Verviers ist eine historische Stadt in der Provinz Lüttich, malerisch im Tal der Vesdre gelegen. Im 19. Jahrhundert erlebte die Stadt ihre Blütezeit als \"Welthauptstadt der Wolle\", angetrieben durch das weiche, kalkarme Wasser der Vesdre, das ideal für das Waschen und Färben von Wolle war. Diese florierende Industrie brachte der Stadt immensen Reichtum, was sich noch heute in den prächtigen Patrizierhäusern, dem prunkvollen Grand Théâtre und dem klassizistischen Rathaus widerspiegelt. Ein einzigartiges Merkmal von Verviers ist sein Beiname als \"Stadt des Wassers\"; zahlreiche historische und künstlerisch gestaltete Brunnen schmücken das gesamte Stadtbild. Das Touristenzentrum für Wolle und Mode (CTLF) bietet tiefe Einblicke in die glanzvolle Textilvergangenheit der Stadt. Heute ist Verviers zudem ein wichtiges kulturelles Zentrum und das Tor zum nahegelegenen Hohen Venn.",
+      hu: "Verviers a Vesdre folyó völgyében fekszik, és arculatát nagymértékben meghatározza az a történelmi tény, hogy a 19. században a világ egyik vezető gyapjúfeldolgozó központja volt. A városkép a nagy, neoklasszicista gyárépületeken és a felsővárosban található fényűző kereskedővillákon keresztül tükrözi ezt az ipari múltat. A Centre Touristique de la Laine et de la Mode, amely egy egykori textilgyárban kapott helyet, a helyi ipar mechanikai és társadalmi történetét mutatja be. A gyapjúmosáshoz létfontosságú vízellátást a közeli Gileppe-gát 1878-as megépítésével biztosították. Ma Verviers a 2021-es pusztító árvizek után kiterjedt újjáépítésen megy keresztül, amelynek célja az infrastruktúra modernizálása, miközben megőrzi jellegzetes építészeti örökségét.",
+      ro: "Verviers este situat în valea râului Vesdre, fiind puternic modelat de moștenirea sa ca unul dintre cele mai importante centre de prelucrare a lânii din lume în secolul al XIX-lea. Peisajul urban reflectă acest trecut industrial prin clădiri mari de fabrici neoclasice și prin vilele opulente ale negustorilor situate în orașul de sus. Centre Touristique de la Laine et de la Mode, găzduit într-o fostă fabrică de textile, detaliază istoria mecanică și socială a industriei locale. Aprovizionarea cu apă a orașului, vitală pentru spălarea lânii, a fost asigurată prin construirea barajului Gileppe în apropiere, în 1878. Astăzi, Verviers este supus unei reconstrucții ample în urma inundațiilor devastatoare din 2021, cu scopul de a-și moderniza infrastructura, păstrându-și în același timp moștenirea arhitecturală distinctă.",
+      en: "Verviers is nestled in the valley of the Vesdre River, shaped heavily by its legacy as one of the world's leading wool processing centers during the 19th century. The urban landscape reflects this industrial past through large, neoclassical factory buildings and the opulent merchant mansions situated in the upper town. The Centre Touristique de la Laine et de la Mode, housed in a former textile factory, details the mechanical and social history of the local industry. The city's water supply, vital for washing wool, was secured by the construction of the Gileppe Dam nearby in 1878. Today, Verviers is undergoing extensive reconstruction following the devastating floods of 2021, aiming to modernize its infrastructure while preserving its distinct architectural heritage."
     },
     factsAdvanced: {
-      de: ["Formerly known worldwide as the capital of the wool industry.", "Nicknamed the 'Water Capital of Wallonia' due to its numerous fountains.", "Home to the impressive Wool and Fashion Museum (Centre Touristique de la Laine).", "The Grand Théâtre de Verviers is an architectural masterpiece from the 19th century.", "Located on the banks of the Vesdre River.", "Birthplace of the famous Belgian violinist and composer Henri Vieuxtemps.", "Historically one of the first cities on the European continent to undergo the Industrial Revolution."],
+      de: ["Capital of the Walloon water distribution network due to the Gileppe and Vesdre dams", "The Gileppe Dam was one of the first concrete dams in Europe, inaugurated in 1878", "The city center boasts more than 20 public fountains", "In the 19th century, it was one of the world's leading wool processing centers", "The Grand Théâtre de Verviers is an architectural gem built in 1892", "Birthplace of the prominent violinist and composer Henri Vieuxtemps", "Severely affected by the catastrophic floods in the summer of 2021"],
       hu: [],
       ro: [],
       en: []
@@ -656,7 +697,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-beringen-cities-v2",
     type: "city",
-    name: { de: "Beringen", hu: "Beringen", ro: "Beringen", en: "Beringen" },
+    name: { de: "Beringen", hu: "Beringen", ro: "Beringen", en: "Beringen",
+image: "/poi-images/belgium-beringen-cities-v2.webp"
+},
     coords: [5.2261, 51.0489],
     coordinates: { lat: 51.0489, lng: 5.2261 },
     description: {
@@ -673,13 +716,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Beringen be-MINE industrial site",
     descriptionAdvanced: {
-      de: "Beringen, eine aufstrebende Stadt in der Provinz Limburg, ist eines der eindrucksvollsten Beispiele für die Revitalisierung von Industriebrachen in Belgien. Das Herzstück der Stadt ist das gigantische be-MINE-Gelände, Flanderns größtes industrielles Welterbe. Wo einst tausende Bergarbeiter tief unter der Erde Kohle förderten, befindet sich heute ein pulsierendes Zentrum für Freizeit, Kultur und Geschichte. Besucher können im Flämischen Bergbaumuseum die authentischen unterirdischen Gänge und imposanten Fördertürme erkunden. Doch be-MINE bietet noch mehr: von einem spektakulären Tauchzentrum in den alten Klärbecken (TODI) bis hin zu einem Abenteuerberg auf der ehemaligen Abraumhalde. Beringen, umgeben von weitläufigen, grünen Gartenstadt-Vierteln, die einst für die Minenarbeiter angelegt wurden, ist ein herausragendes Zeugnis dafür, wie eine Gemeinde ihr industrielles Erbe ehrt und gleichzeitig eine dynamische, moderne Zukunft gestaltet.",
-      hu: "Beringen, egy feltörekvő város Limburg tartományban, a belgiumi ipari területek revitalizációjának egyik leglenyűgözőbb példája. A város központja a gigantikus be-MINE terület, Flandria legnagyobb ipari világörökségi helyszíne. Ahol egykor bányászok ezrei termelték a szenet a mélyben, ma a szabadidő, a kultúra és a történelem lüktető központja található. A látogatók a Flamand Bányászati Múzeumban felfedezhetik az autentikus földalatti járatokat és az impozáns aknatornyokat. De a be-MINE még ennél is többet kínál: a régi ülepítőmedencékben kialakított látványos búvárközponttól (TODI) kezdve az egykori meddőhányón létesített kalandhegyig. Az egykor a bányászok számára épített, kiterjedt, zöld kertvárosi negyedekkel körülvett Beringen kiemelkedő példája annak, hogyan tiszteli meg egy közösség ipari örökségét, miközben dinamikus, modern jövőt épít.",
-      ro: "Beringen, un oraș în ascensiune din provincia Limburg, este unul dintre cele mai impresionante exemple de revitalizare a siturilor industriale dezafectate din Belgia. Piesa centrală a orașului este giganticul complex be-MINE, cel mai mare sit de patrimoniu industrial din Flandra. Acolo unde odinioară mii de mineri extrăgeau cărbune din adâncuri, se află astăzi un centru vibrant pentru agrement, cultură și istorie. Vizitatorii pot explora galeriile subterane autentice și turnurile de extracție impunătoare la Muzeul Flamand al Mineritului. Dar be-MINE oferă și mai mult: de la un centru de scufundări spectaculos amenajat în vechile bazine de decantare (TODI) la un munte de aventură pe fostul deal de steril. Înconjurat de cartiere extinse și verzi de tip „oraș-grădină”, construite inițial pentru mineri, Beringen este o mărturie remarcabilă a modului în care o comunitate își onorează moștenirea industrială, construind în același timp un viitor dinamic și modern.",
-      en: "Beringen, an up-and-coming city in the Limburg province, is one of the most impressive examples of industrial brownfield revitalization in Belgium. The centerpiece of the city is the gigantic be-MINE site, Flanders' largest industrial heritage site. Where thousands of miners once extracted coal deep underground, there is now a pulsating hub for leisure, culture, and history. Visitors can explore the authentic underground galleries and imposing winding towers at the Flemish Mining Museum. But be-MINE offers even more: from a spectacular diving center in the old settling tanks (TODI) to an adventure mountain on the former slag heap. Surrounded by extensive, green garden-city districts originally built for the miners, Beringen is an outstanding testament to how a community honors its industrial heritage while simultaneously shaping a dynamic, modern future."
+      de: "Beringen ist eine geschichtsträchtige Stadt in der belgischen Provinz Limburg, deren Identität maßgeblich durch den Steinkohlebergbau geprägt wurde. Im 20. Jahrhundert entwickelte sich Beringen zu einem der wichtigsten Bergbauzentren des Landes. Nach der Schließung der Zechen im Jahr 1989 begann ein beeindruckender Transformationsprozess. Das ehemalige Zechengelände, heute unter dem Namen be-MINE bekannt, ist das größte industrielle Welterbe in Flandern und ein Musterbeispiel für erfolgreiche Umstrukturierung. Hier finden Besucher das Flämische Bergbaumuseum, ein faszinierendes Tauchzentrum in ehemaligen Klärtanks (TODI) und weitläufige Freizeitangebote auf den begrünten Abraumhalden. Beringen besticht zudem durch seine einzigartige städtebauliche Struktur mit ausgedehnten Gartenstädten (Cités), die einst für die Bergleute aus aller Welt errichtet wurden und der Stadt bis heute einen grünen und multikulturellen Charakter verleihen.",
+      hu: "Beringen Limburg nyugati részén található, és elsősorban kiterjedt szénbányászati történelméről ismert. Az egykori bányászati terület, amely ma be-MINE néven ismert, Flandria legnagyobb ipari örökségvédelmi projektje, amely megőrizte az eredeti bánya masszív téglaépítészetét. Ezt a komplexumot átalakították, így ma bányászati múzeumot, lakóövezeteket és egyedülálló szabadidős létesítményeket foglal magába, mint például az egykori víztározóban található TODI beltéri búvárközpont. A bánya melletti impozáns meddőhányókat túra- és hegyikerékpáros útvonalak kialakítására rendezték át, integrálva az ipari maradványokat a természeti környezetbe. Beringen történelmi központja kompakt, a piacteret olyan épületek veszik körül, amelyek a középkori mezővárosi időkből származnak.",
+      ro: "Beringen este situat în partea de vest a provinciei Limburg și este recunoscut în primul rând pentru istoria sa vastă a mineritului de cărbune. Fostul sit minier, cunoscut acum sub numele de be-MINE, reprezintă cel mai mare proiect de patrimoniu industrial din Flandra, păstrând arhitectura masivă din cărămidă a minei originale. Acest complex a fost transformat pentru a include un muzeu al mineritului, zone rezidențiale și facilități de recreere unice, cum ar fi centrul de scufundări indoor TODI, situat într-un fost rezervor de apă. Haldele impunătoare de zgură adiacente minei au fost reamenajate pentru a găzdui poteci de drumeții și trasee de mountain bike, integrând rămășițele industriale cu mediile naturale. Centrul istoric al orașului Beringen este compact, cu o piață centrală înconjurată de clădiri care datează de la începuturile sale ca oraș-târg medieval.",
+      en: "Beringen is situated in the western part of Limburg and is primarily recognized for its extensive coal mining history. The former mining site, now known as be-MINE, stands as the largest industrial heritage project in Flanders, preserving the massive brick architecture of the original colliery. This complex has been transformed to include a mining museum, residential areas, and unique recreational facilities, such as the TODI indoor diving center located in a former water reservoir. The imposing slag heaps adjacent to the mine have been re-landscaped to accommodate hiking paths and mountain biking routes, integrating industrial remnants with natural environments. The historic center of Beringen is compact, featuring a market square surrounded by buildings dating back to its early days as a medieval market town."
     },
     factsAdvanced: {
-      de: ["Home to be-MINE, the largest industrial heritage site in Flanders.", "The Flemish Mining Museum allows visitors to explore authentic underground tunnels.", "The TODI diving center is located in former coal washing silos.", "The artificial 'Adventure Mountain' was created from an old mining slag heap.", "Features significant garden-city style neighborhoods built for the miners.", "Beringen was one of the major centers of the Campine coal basin.", "The coal mine was operational from 1922 until its closure in 1989."],
+      de: ["The be-MINE site preserves the largest industrial heritage complex in Flanders", "Coal mining operations in Beringen started in 1922 and ended in 1989", "TODI offers Europe's first indoor snorkeling and diving center in a former settling tank", "The mining site employed over 6,000 miners at its peak in the 1950s", "The Avonturenberg (Adventure Mountain) was built on a massive slag heap", "The garden city of Beringen-Mijn features distinctive, culturally diverse neighborhoods", "Contains an impressive mining cathedral, the St. Theodardus Church"],
       hu: [],
       ro: [],
       en: []
@@ -687,7 +730,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-dendermonde-cities-v2",
     type: "city",
-    name: { de: "Dendermonde", hu: "Dendermonde", ro: "Termonde", en: "Dendermonde" },
+    name: { de: "Dendermonde", hu: "Dendermonde", ro: "Termonde", en: "Dendermonde",
+image: "/poi-images/belgium-dendermonde-cities-v2.webp"
+},
     coords: [4.1019, 51.0312],
     coordinates: { lat: 51.0312, lng: 4.1019 },
     description: {
@@ -704,13 +749,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Dendermonde Town Hall square",
     descriptionAdvanced: {
-      de: "Dendermonde, strategisch am Zusammenfluss von Dender und Schelde gelegen, ist eine historische flämische Stadt voller Legenden und architektonischer Schönheit. Weltweit bekannt ist die Stadt für die Sage des riesigen Holzpferdes 'Ros Beiaard', das nur alle zehn Jahre in einer grandiosen, von der UNESCO anerkannten Prozession durch die Straßen getragen wird. Das Zentrum von Dendermonde wird vom prachtvollen Grote Markt dominiert, an dem das ehemalige Vleeshuis (Fleischhalle) mit seinem gotischen Belfried thront – ebenfalls ein UNESCO-Welterbe. Trotz schwerer Zerstörungen im Ersten Weltkrieg hat die Stadt ihren historischen Charme bewahrt. Der St.-Alexius-Beginenhof, eine Oase der Stille aus dem 13. Jahrhundert, und die robuste Benediktinerabtei runden das reiche kulturelle Profil ab. Dendermonde ist ein Ort, an dem lebendiges Brauchtum und stolze flämische Geschichte auf Schritt und Tritt spürbar sind.",
-      hu: "Dendermonde, amely stratégiailag a Dender és a Schelde folyók találkozásánál fekszik, egy történelmi flandriai város, tele legendákkal és építészeti szépséggel. A város világszerte ismert a 'Ros Beiaard' nevű hatalmas faló legendájáról, amelyet csak tízévente egyszer hordoznak végig az utcákon egy grandiózus, az UNESCO által is elismert felvonulás keretében. Dendermonde központját a pompás Grote Markt uralja, ahol az egykori Vleeshuis (Húscsarnok) magasodik gótikus harangtornyával – amely szintén az UNESCO Világörökség része. Annak ellenére, hogy az első világháborúban súlyos károkat szenvedett, a város megőrizte történelmi báját. A 13. századból származó Szent Alexius beginaudvar, amely a csend oázisa, valamint a masszív Bencés apátság teszi teljessé a gazdag kulturális profilt. Dendermonde olyan hely, ahol az élő népszokások és a büszke flamand történelem lépten-nyomon érezhető.",
-      ro: "Dendermonde, situat strategic la confluența râurilor Dender și Scheldt, este un oraș flamand istoric, plin de legende și frumusețe arhitecturală. Orașul este recunoscut la nivel mondial pentru legenda uriașului cal de lemn „Ros Beiaard”, care este purtat pe străzi doar o dată la zece ani într-o procesiune grandioasă, recunoscută de UNESCO. Centrul orașului Dendermonde este dominat de magnificul Grote Markt, unde tronează fosta Vleeshuis (Hala de carne) cu turnul său gotic Belfry – de asemenea, un sit al Patrimoniului Mondial UNESCO. În ciuda distrugerilor masive din Primul Război Mondial, orașul și-a păstrat farmecul istoric. Beguinage-ul Sfântul Alexius, o oază de liniște din secolul al XIII-lea, și robusta abație benedictină completează profilul cultural bogat. Dendermonde este un loc în care obiceiurile vii și istoria flamandă mândră sunt palpabile la fiecare pas.",
-      en: "Dendermonde, strategically located at the confluence of the Dender and Scheldt rivers, is a historic Flemish city full of legends and architectural beauty. The city is known worldwide for the legend of the giant wooden horse 'Ros Beiaard', which is paraded through the streets only once every ten years in a grandiose, UNESCO-recognized procession. The center of Dendermonde is dominated by the magnificent Grote Markt, featuring the former Vleeshuis (Meat Hall) with its Gothic Belfry—also a UNESCO World Heritage site. Despite severe destruction during World War I, the city has preserved its historic charm. The St. Alexius Beguinage, an oasis of tranquility dating from the 13th century, and the robust Benedictine Abbey round off the rich cultural profile. Dendermonde is a place where living traditions and proud Flemish history can be felt at every turn."
+      de: "Dendermonde (Termonde) ist eine malerische Stadt in Ostflandern, die strategisch an der Mündung der Dender in die Schelde liegt. Die Stadt ist landesweit berühmt für die Legende des riesigen Pferdes Ros Beiaard. Nur alle zehn Jahre findet ein monumentaler folkloristischer Umzug statt, bei dem das gewaltige Holzpferd von vier Brüdern (den Hemskindern) durch die Straßen getragen wird – ein Ereignis, das von der UNESCO als immaterielles Kulturerbe anerkannt ist. Das historische Herz der Stadt bildet der Grote Markt mit dem wunderschönen gotischen Rathaus und dem Belfried, der ebenfalls den Status eines UNESCO-Welterbes genießt. Ein weiteres kulturelles Juwel ist der Beginenhof Sint-Alexius aus dem 13. Jahrhundert, eine Oase der Ruhe mit 61 traditionellen Häusern. Mit ihren Festungsanlagen und den Flusspromenaden bietet Dendermonde eine perfekte Mischung aus Geschichte und natürlicher Schönheit.",
+      hu: "Dendermonde stratégiai fekvésű Kelet-Flandriában, a Dender és a Schelde folyók összefolyásánál. A városközpont a Grote Markt köré épül, ahol az egykori Posztócsarnok és kiemelkedő harangtornya található, amely elismert UNESCO Világörökségi helyszín, és egy 49 harangból álló harangjátéknak ad otthont. A város építészeti szerkezetét nagyrészt az első világháború utáni újjáépítés határozza meg, mivel a középkori épületek jelentős része elpusztult az 1914-es invázió során. Dendermonde mélyen gyökerező folklórhagyományt ápol, amelynek legjelentősebb eseménye a Ros Beiaard tízévente megrendezett felvonulása, amikor egy hatalmas falovat hordoznak végig az utcákon. A környező tájat a folyóvölgyek sík, mocsaras síkságai jellemzik, amelyeket kiterjedt kerékpáros és gyalogos hálózatok hasznosítanak.",
+      ro: "Dendermonde este poziționat strategic la confluența râurilor Dender și Scheldt, în Flandra de Est. Centrul orașului este ancorat de Grote Markt, unde se află fosta Hală a Postăvarilor și turnul său proeminent, un sit recunoscut al Patrimoniului Mondial UNESCO, ce conține un carilon cu 49 de clopote. Țesutul arhitectural al orașului este definit în mare măsură de reconstrucția de după Primul Război Mondial, deoarece o proporție semnificativă din clădirile sale medievale a fost distrusă în timpul invaziei din 1914. Dendermonde menține o tradiție folclorică profund înrădăcinată, în special procesiunea decenală a lui Ros Beiaard, un cal uriaș de lemn purtat pe străzi. Peisajul înconjurător se caracterizează prin câmpiile plate și mlăștinoase ale văilor râurilor, utilizate pentru rețele extinse de ciclism și mers pe jos.",
+      en: "Dendermonde is strategically positioned at the confluence of the Dender and Scheldt rivers in East Flanders. The city center is anchored by the Grote Markt, which features the former Cloth Hall and its prominent belfry, a recognized UNESCO World Heritage site containing a 49-bell carillon. The city's architectural fabric is largely defined by post-World War I reconstruction, as a significant portion of its medieval buildings were destroyed during the 1914 invasion. Dendermonde maintains a deep-rooted folklore tradition, most notably the decennial procession of the Ros Beiaard, a giant wooden horse carried through the streets. The surrounding landscape is characterized by the flat, marshy plains of the river valleys, utilized for extensive cycling and walking networks."
     },
     factsAdvanced: {
-      de: ["Located at the exact confluence of the Dender and Scheldt rivers.", "Famous for the decennial Ros Beiaard horse parade (UNESCO recognized).", "The Gothic Belfry on the former Meat Hall is a UNESCO World Heritage site.", "The St. Alexius Beguinage dates back to the 13th century.", "Severely damaged and subsequently rebuilt after the 1914 World War I Sack of Dendermonde.", "Home to the impressive Benedictine Abbey of St. Peter and St. Paul.", "Historically an important military stronghold and garrison town."],
+      de: ["The legendary Ros Beiaard parade only occurs once every 10 years", "The city's belfry is a UNESCO World Heritage site standing on the Grote Markt", "The Sint-Alexius Beguinage contains 61 houses and dates back to 1288", "Situated precisely at the confluence of the Dender and Scheldt rivers", "Home to a preserved Benedictine abbey, the Abbey of St. Peter and St. Paul", "The medieval cloth hall was transformed into the current Gothic Town Hall", "The city's fortifications were heavily modernized by Wellington in the 19th century"],
       hu: [],
       ro: [],
       en: []
@@ -718,7 +763,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-vilvoorde-cities-v2",
     type: "city",
-    name: { de: "Vilvoorde", hu: "Vilvoorde", ro: "Vilvoorde", en: "Vilvoorde" },
+    name: { de: "Vilvoorde", hu: "Vilvoorde", ro: "Vilvoorde", en: "Vilvoorde",
+image: "/poi-images/belgium-vilvoorde-cities-v2.webp"
+},
     coords: [4.4283, 50.9281],
     coordinates: { lat: 50.9281, lng: 4.4283 },
     description: {
@@ -735,13 +782,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Vilvoorde city hall and canal",
     descriptionAdvanced: {
-      de: "Vilvoorde ist eine dynamische Stadt in Flämisch-Brabant, unmittelbar nördlich der Hauptstadt Brüssel, deren Geschichte eng mit dem wichtigen Seekanal Brüssel-Schelde verwoben ist. Einst ein blühendes Zentrum der metallverarbeitenden Schwerindustrie, befindet sich die Stadt heute in einem beeindruckenden Wandel. Die alten, rostigen Fabrikgelände weichen modernen Wohnvierteln, weitläufigen grünen Parks und innovativen Gewerbegebieten. Vilvoorde ist heute vor allem als Belgiens wichtigster Medien- und Fernsehstandort bekannt, da hier zahlreiche große Produktionsfirmen und Sender ihre modernen Studios betreiben. Historisch Interessierte zieht das Denkmal von William Tyndale an, dem englischen Gelehrten, der hier im 16. Jahrhundert wegen seiner Bibelübersetzung hingerichtet wurde. Mit seiner hervorragenden Anbindung und dem gelungenen Mix aus industriellem Erbe und moderner Medienstadt zeigt Vilvoorde eine faszinierende urbane Metamorphose.",
-      hu: "Vilvoorde egy dinamikus város Flamand-Brabantban, közvetlenül a főváros, Brüsszel felől északra, melynek története szorosan összefonódik a fontos Brüsszel-Schelde tengeri csatornával. Az egykor a fémfeldolgozó nehézipar virágzó központjaként ismert város ma lenyűgöző átalakuláson megy keresztül. A régi, rozsdás gyárterületek átadják helyüket a modern lakónegyedeknek, a kiterjedt zöld parkoknak és az innovatív üzleti negyedeknek. Vilvoorde ma elsősorban Belgium legfontosabb média- és televíziós központjaként ismert, mivel számos nagy produkciós cég és csatorna itt működteti modern stúdióit. A történelem iránt érdeklődőket William Tyndale emlékműve vonzza; az angol tudóst a 16. században itt végezték ki bibliafordítása miatt. Kiváló megközelíthetőségével, valamint az ipari örökség és a modern médiaváros sikeres ötvözetével Vilvoorde lenyűgöző városi metamorfózist mutat be.",
-      ro: "Vilvoorde este un oraș dinamic în Brabantul Flamand, situat imediat la nord de capitala Bruxelles, a cărui istorie este strâns legată de importantul canal maritim Bruxelles-Scheldt. Cândva un centru înfloritor al industriei grele metalurgice, orașul trece astăzi printr-o transformare impresionantă. Vechile platforme industriale ruginite fac loc cartierelor rezidențiale moderne, parcurilor verzi extinse și parcurilor de afaceri inovatoare. Vilvoorde este astăzi recunoscut în principal ca cel mai important hub media și de televiziune din Belgia, numeroase companii mari de producție și posturi operându-și aici studiourile moderne. Pasionații de istorie sunt atrași de monumentul lui William Tyndale, eruditul englez care a fost executat aici în secolul al XVI-lea pentru traducerea sa a Bibliei. Prin conectivitatea sa excelentă și combinația reușită de moștenire industrială și oraș media modern, Vilvoorde ilustrează o metamorfoză urbană fascinantă.",
-      en: "Vilvoorde is a dynamic city in Flemish Brabant, located just north of the capital Brussels, with a history closely intertwined with the important Brussels-Scheldt Maritime Canal. Once a flourishing center of the heavy metalworking industry, the city is currently undergoing an impressive transformation. The old, rusty industrial sites are giving way to modern residential neighborhoods, extensive green parks, and innovative business districts. Today, Vilvoorde is primarily known as Belgium's most important media and television hub, as numerous major production companies and broadcasters operate their modern studios here. History enthusiasts are drawn to the monument of William Tyndale, the English scholar who was executed here in the 16th century for his Bible translation. With its excellent connectivity and the successful blend of industrial heritage and a modern media city, Vilvoorde showcases a fascinating urban metamorphosis."
+      de: "Vilvoorde ist eine dynamische und historisch bedeutende Stadt in Flämisch-Brabant, unmittelbar nördlich von Brüssel gelegen. Geprägt durch ihre Lage am wichtigen Seekanal Brüssel-Schelde, hat Vilvoorde eine tiefgreifende industrielle Entwicklung durchlaufen. Einst ein florierendes Zentrum der metallverarbeitenden und chemischen Industrie sowie Standort eines großen Renault-Automobilwerks, hat sich die Stadt in den letzten Jahrzehnten erfolgreich neu erfunden. Heute ist Vilvoorde ein überaus wichtiger Medien- und Telekommunikationsstandort in Belgien und beherbergt zahlreiche TV-Studios und Produktionsfirmen. Historisch ist die Stadt auch als Sterbeort des englischen Bibelübersetzers William Tyndale bekannt, der hier 1536 auf dem Scheiterhaufen hingerichtet wurde; an ihn erinnert heute ein Denkmal. Die Stadt investiert massiv in die Neugestaltung ihrer Kanalufer, wodurch attraktive neue Wohn- und Freizeitgebiete wie die \"Watersite\" entstehen.",
+      hu: "Vilvoorde ipari és lakóövezeti külváros közvetlenül Brüsszeltől északra, a Brüsszel-Schelde tengeri csatorna mentén. A város tájképét jelentősen formálta a nehézipar, leginkább az egykori Renault összeszerelő üzem, amelynek 1997-es bezárása fordulópontot jelentett a helyi gazdaságban. A közelmúlt városfejlesztése ezeknek a posztindusztriális övezeteknek a modern lakó- és kereskedelmi területekké történő átalakítására összpontosított, ilyen például a csatorna mentén futó Watersite projekt. A történelmi mag megőrizte vidéki flamand karakterét, a gótikus Jó Reménység Miasszonyunk templomával. Vilvoorde-ot egy nagy spanyol közösség is jellemzi, amely a 20. század közepén alakult ki, és határozott kulturális, valamint gasztronómiai hatást gyakorol a városra.",
+      ro: "Vilvoorde servește ca suburbie industrială și rezidențială direct la nord de Bruxelles, situată de-a lungul Canalului Maritim Bruxelles-Scheldt. Peisajul orașului a fost modelat semnificativ de industria grea, în special de fosta fabrică de asamblare Renault, a cărei închidere în 1997 a marcat un punct de cotitură în economia locală. Dezvoltarea urbană recentă s-a axat pe reprofilarea acestor zone postindustriale în spații rezidențiale și comerciale moderne, cum ar fi proiectul Watersite de-a lungul canalului. Nucleul istoric își păstrează caracterul flamand provincial, găzduind Biserica gotică a Maicii Domnului a Bunei Speranțe. Vilvoorde este caracterizat și de o mare comunitate spaniolă, care a luat naștere la mijlocul secolului al XX-lea, adăugând o influență culturală și culinară distinctă orașului.",
+      en: "Vilvoorde serves as an industrial and residential suburb directly north of Brussels, located along the Brussels-Scheldt Maritime Canal. The city's landscape has been significantly shaped by heavy industry, most notably the former Renault assembly plant, whose closure in 1997 marked a turning point in the local economy. Recent urban development has focused on repurposing these post-industrial zones into modern residential and commercial areas, such as the Watersite project along the canal. The historical core retains its provincial Flemish character, featuring the Gothic Church of Our Lady of Good Hope. Vilvoorde is also characterized by a large Spanish community, which originated in the mid-20th century, adding a distinct cultural and culinary influence to the city."
     },
     factsAdvanced: {
-      de: ["Major center for the Belgian television and media production industry.", "Located directly on the Brussels-Scheldt Maritime Canal.", "The site of the execution of English Bible translator William Tyndale in 1536.", "Formerly a powerhouse of the heavy automotive and metal industries (e.g., Renault).", "Currently undergoing massive urban regeneration of its old industrial zones.", "Home to the expansive and historic Domain of Three Fountains park.", "Serves as an important northern suburb and commuter town for Brussels."],
+      de: ["Known as the major broadcasting hub of Flanders, hosting Medialaan (DPG Media)", "William Tyndale was executed here in 1536 for translating the Bible into English", "The city experienced rapid industrialization with the opening of the canal in 1832", "The Renault Vilvoorde car factory closure in 1997 led to major social protests", "Contains a significant Spanish-speaking community, originally labor migrants from Peñarroya-Pueblonuevo", "The Domain of Three Fountains (Drie Fonteinen) is a historic park of over 50 hectares", "Currently developing the 'Watersite' project to revitalize the former industrial canal banks"],
       hu: [],
       ro: [],
       en: []
@@ -749,7 +796,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-turnhout-cities-v2",
     type: "city",
-    name: { de: "Turnhout", hu: "Turnhout", ro: "Turnhout", en: "Turnhout" },
+    name: { de: "Turnhout", hu: "Turnhout", ro: "Turnhout", en: "Turnhout",
+image: "/poi-images/belgium-turnhout-cities-v2.webp"
+},
     coords: [4.9447, 51.3225],
     coordinates: { lat: 51.3225, lng: 4.9447 },
     description: {
@@ -766,13 +815,13 @@ export const belgiumCitiesV2: POI[] = [
     },
     imageHint: "Turnhout Castle of the Dukes of Brabant",
     descriptionAdvanced: {
-      de: "Turnhout, die charmante Hauptstadt der Region Kempen in der Provinz Antwerpen, trägt weltweit den stolzen Titel als 'Welthauptstadt der Spielkarten'. Seit dem 19. Jahrhundert ist die Stadt ein globales Zentrum für die Produktion von Spielkarten, ein Erbe, das im beeindruckenden Nationalen Spielkartenmuseum (Nationaal Museum van de Speelkaart) mit historischen Druckmaschinen interaktiv gefeiert wird. Das historische Zentrum wird vom imposanten Schloss der Herzöge von Brabant dominiert, einem Wassergraben-Schloss aus dem 12. Jahrhundert, das heute den Justizpalast beherbergt. Gleich nebenan bietet der wunderschöne, zum UNESCO-Welterbe zählende Beginenhof eine friedliche Flucht aus dem städtischen Trubel. Mit seiner reichen industriellen Papiergeschichte, weitläufigen Naturschutzgebieten in der Umgebung und einer lebhaften, gastfreundlichen Atmosphäre ist Turnhout das kulturelle und wirtschaftliche pulsierende Herz der Kempen.",
-      hu: "Turnhout, a Kempen régió bájos fővárosa Antwerpen tartományban, világszerte büszkén viseli a 'Játékkártyák Világfővárosa' címet. A város a 19. század óta a játékkártyagyártás globális központja, mely örökséget a lenyűgöző Nemzeti Játékkártya Múzeumban (Nationaal Museum van de Speelkaart) ünneplik interaktívan, történelmi nyomdagépek bemutatásával. A történelmi városközpontot a Brabanti Hercegek lenyűgöző kastélya uralja, egy 12. századi vizesárokkal körülvett építmény, amely ma az igazságügyi palotának ad otthont. Közvetlenül mellette a gyönyörű, az UNESCO Világörökség részét képező beginaudvar kínál békés menedéket a városi nyüzsgés elől. Gazdag papíripari történelmével, a környék kiterjedt természetvédelmi területeivel, valamint élénk és vendégszerető légkörével Turnhout a Kempen régió lüktető kulturális és gazdasági központja.",
-      ro: "Turnhout, fermecătoarea capitală a regiunii Kempen din provincia Anvers, poartă cu mândrie titlul mondial de „Capitală a cărților de joc”. Încă din secolul al XIX-lea, orașul a fost un centru global pentru producția de cărți de joc, o moștenire care este celebrată interactiv, cu mașini de tipar istorice, în impresionantul Muzeu Național al Cărților de Joc (Nationaal Museum van de Speelkaart). Centrul istoric este dominat de impunătorul Castel al Ducilor de Brabant, un castel cu șanț de apă din secolul al XII-lea, care găzduiește astăzi palatul de justiție. Chiar alături, frumosul Beguinage, inclus în Patrimoniul Mondial UNESCO, oferă un refugiu pașnic departe de agitația urbană. Cu bogata sa istorie a industriei hârtiei, vastele rezervații naturale din împrejurimi și o atmosferă vibrantă și primitoare, Turnhout este inima culturală și economică pulsândă a regiunii Kempen.",
-      en: "Turnhout, the charming capital of the Kempen region in the Antwerp province, proudly holds the global title of the 'World Capital of Playing Cards'. Since the 19th century, the city has been a global hub for the production of playing cards, a legacy that is celebrated interactively with historic printing presses at the impressive National Playing Card Museum (Nationaal Museum van de Speelkaart). The historic city center is dominated by the imposing Castle of the Dukes of Brabant, a 12th-century moated castle that now houses the law courts. Just steps away, the beautiful Beguinage, designated as a UNESCO World Heritage site, offers a peaceful escape from the urban bustle. With its rich industrial paper history, expansive surrounding nature reserves, and a lively, welcoming atmosphere, Turnhout stands as the pulsating cultural and economic heart of the Kempen."
+      de: "Turnhout, oft als die Hauptstadt der Region Kempen bezeichnet, ist eine geschäftige und kulturell reiche Stadt in der Provinz Antwerpen. Internationalen Ruhm erlangte Turnhout als die unangefochtene Welthauptstadt der Spielkarten. Seit dem frühen 19. Jahrhundert ist die Stadt das Zentrum der Spielkartenproduktion, eine Tradition, die heute von der Firma Carta Mundi fortgeführt und im faszinierenden Nationalen Spielkartenmuseum gewürdigt wird. Ein herausragendes historisches Bauwerk ist das majestätische Schloss der Herzöge von Brabant im Stadtzentrum, das von einem Wassergraben umgeben ist und auf das 12. Jahrhundert zurückgeht. Ebenso sehenswert ist der Beginenhof von Turnhout, der ebenfalls zum UNESCO-Welterbe zählt und mit seiner barocken Kirche sowie dem ruhigen Innenhof besticht. Zudem grenzt die Stadt an das Naturschutzgebiet Turnhoutse Vennengebied, das wunderbare Wandermöglichkeiten bietet.",
+      hu: "Turnhout a Kempen régió gazdasági és kulturális központjaként működik Antwerpen tartományban. Világszerte elismert történelmi és folyamatos dominanciájáról a játékkártya-gyártásban, amelyet a Nemzeti Játékkártya Múzeum részletesen dokumentál. A város építészeti elrendezése magában foglalja a központi Brabanti Hercegek Kastélyát, egy 12. századi, várárokkal körülvett épületet, amely ma bíróságként működik. Nem messze innen található a kivételesen jól megőrzött beginaudvar, amely egy UNESCO Világörökségi helyszín, és egy nyugodt kertet, valamint egy barokk templomot ölel körül. A környező vidék kontrasztot alkot a városi központtal, és a tágabb Kempen tájra jellemző homokos talajokkal és fenyőerdőkkel rendelkezik.",
+      ro: "Turnhout funcționează ca centrul economic și cultural al regiunii Campine din provincia Anvers. Este recunoscut la nivel global pentru dominația sa istorică și continuă în fabricarea cărților de joc, o industrie documentată pe larg la Muzeul Național al Cărților de Joc. Aspectul arhitectural al orașului include castelul central al Ducilor de Brabant, o structură cu șanț de apă din secolul al XII-lea, care acum funcționează ca tribunal. La mică distanță se află curtea de Beguinage, excepțional de bine conservată, un sit al Patrimoniului Mondial UNESCO, care înconjoară o grădină liniștită și o biserică barocă. Mediul înconjurător contrastează cu centrul urban, prezentând solurile nisipoase distincte și pădurile de pini caracteristice peisajului mai larg al Campine.",
+      en: "Turnhout operates as the economic and cultural center of the Campine region in the province of Antwerp. It is globally recognized for its historic and ongoing dominance in the manufacturing of playing cards, an industry documented extensively at the National Museum of the Playing Card. The city's architectural layout includes the central Castle of the Dukes of Brabant, a 12th-century moated structure that now functions as a courthouse. A short distance away lies the exceptionally well-preserved Beguinage, a UNESCO World Heritage site enclosing a tranquil garden and a Baroque church. The surrounding environment contrasts with the urban center, featuring the distinct sandy soils and pine forests characteristic of the broader Campine landscape."
     },
     factsAdvanced: {
-      de: ["Internationally recognized as the 'World Capital of Playing Cards'.", "Home to the Cartamundi company, the world's largest manufacturer of playing cards.", "The Beguinage of Turnhout is a recognized UNESCO World Heritage site.", "Features the 12th-century moated Castle of the Dukes of Brabant.", "The National Playing Card Museum showcases antique printing presses in action.", "Known as the capital and central hub of the Belgian Kempen region.", "Has a long and prosperous history in the paper and printing industries."],
+      de: ["Recognized globally as the capital of playing cards, producing billions of decks annually", "Carta Mundi, the world's largest manufacturer of playing cards, is headquartered here", "The Castle of the Dukes of Brabant dates from the 12th century and now serves as a courthouse", "The Beguinage of Turnhout is a UNESCO World Heritage site originating in the 13th century", "Designated as the principal city of the geographical Kempen (Campine) region", "The Taxandria Museum focuses on the history and folklore of the Kempen region", "The Turnhoutse Vennengebied is an important ecological area spanning 500 hectares"],
       hu: [],
       ro: [],
       en: []
@@ -780,7 +829,9 @@ export const belgiumCitiesV2: POI[] = [
   {
     id: "belgium-sint-truiden-cities-v2",
     type: "city",
-    name: { de: "Sint-Truiden", hu: "Sint-Truiden", ro: "Sint-Truiden", en: "Sint-Truiden" },
+    name: { de: "Sint-Truiden", hu: "Sint-Truiden", ro: "Sint-Truiden", en: "Sint-Truiden",
+image: "/poi-images/belgium-sint-truiden-cities-v2.webp"
+},
     coords: [5.1853, 50.8153],
     coordinates: { lat: 50.8153, lng: 5.1853 },
     description: {
@@ -795,11 +846,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Centrul pomiculturii belgiene", "Abația din Sint-Truiden", "A doua cea mai mare piață din Belgia", "Numeroase monumente romanice"],
       en: ["Center of Belgian fruit growing", "Abbey of Sint-Truiden", "Second largest market square in Belgium", "Many Romanesque monuments"],
     },
-    imageHint: "Sint-Truiden Abbey tower", image: "/poi-images/belgium-sint-truiden-cities-v2.webp"},
-  {
+imageHint: "Sint-Truiden Abbey tower",
+    descriptionAdvanced: {
+      de: "Sint-Truiden ist eine charmante historische Stadt im Herzen der flämischen Region Haspengouw, dem wichtigsten Obstbaugebiet Belgiens. Besonders im Frühling, wenn Millionen von Apfel-, Birn- und Kirschbäumen in voller Blüte stehen, ist die Stadt ein beliebtes Ausflugsziel. Gegründet wurde Sint-Truiden im 7. Jahrhundert um eine Abtei herum, die vom Heiligen Trudo errichtet wurde. Heute zeugt der imposante Abteiturm, den Besucher besteigen können, von dieser klösterlichen Vergangenheit. Der Grote Markt der Stadt ist nach Sint-Niklaas der zweitgrößte in Belgien und wird vom prachtvollen historischen Rathaus mit seinem Belfried dominiert. Die Stadt beherbergt zudem bemerkenswerte religiöse Architektur, darunter die romanische Liebfrauenkirche und einen der faszinierendsten Beginenhöfe Flanderns, der für seine eindrucksvollen mittelalterlichen Wandmalereien bekannt ist und zum UNESCO-Welterbe gehört.",
+      hu: "Sint-Truiden egy bájos történelmi város a flamand Haspengouw régió, Belgium legfontosabb gyümölcstermesztő vidékének szívében. Különösen tavasszal, amikor alma-, körte- és cseresznyefák milliói borulnak virágba, a város rendkívül népszerű kirándulóhely. Sint-Truiden-t a 7. században alapították egy Szent Trudo által épített apátság körül. Ma a lenyűgöző apátsági torony, amelyet a látogatók is megmászhatnak, erről a kolostori múltról tanúskodik. A város Grote Marktja (Főtere) Sint-Niklaas után a második legnagyobb Belgiumban, és a pompás történelmi városháza, valamint annak harangtornya uralja. A város figyelemre méltó vallási építészettel is büszkélkedhet, ideértve a román stílusú Miasszonyunk-templomot, valamint Flandria egyik leglenyűgözőbb beginaudvarát, amely lenyűgöző középkori falfestményeiről ismert és az UNESCO Világörökség része.",
+      ro: "Sint-Truiden este un oraș istoric fermecător în inima regiunii flamande Haspengouw, principala zonă de cultivare a fructelor din Belgia. În special primăvara, când milioane de meri, peri și cireși sunt în plină floare, orașul este o destinație turistică populară. Sint-Truiden a fost fondat în secolul al VII-lea în jurul unei abații construite de Sfântul Trudo. Astăzi, impozantul turn al abației, pe care vizitatorii îl pot urca, stă mărturie a acestui trecut monahal. Grote Markt (Piața Mare) a orașului este a doua ca mărime din Belgia, după Sint-Niklaas, și este dominată de magnifica primărie istorică cu turnul său Belfry. Orașul găzduiește, de asemenea, o arhitectură religioasă remarcabilă, inclusiv Biserica romanică a Maicii Domnului și una dintre cele mai fascinante curți Beguinage din Flandra, cunoscută pentru picturile sale murale medievale impresionante și inclusă în Patrimoniul Mondial UNESCO.",
+      en: "Sint-Truiden is a charming historic city in the heart of the Flemish Haspengouw region, the most important fruit-growing area in Belgium. Especially in spring, when millions of apple, pear, and cherry trees are in full bloom, the city is a popular tourist destination. Sint-Truiden was founded in the 7th century around an abbey built by Saint Trudo. Today, the imposing abbey tower, which visitors can climb, bears witness to this monastic past. The city's Grote Markt is the second largest in Belgium after Sint-Niklaas and is dominated by the magnificent historic town hall with its belfry. The city also boasts remarkable religious architecture, including the Romanesque Church of Our Lady and one of the most fascinating Beguinages in Flanders, which is known for its impressive medieval wall paintings and is a UNESCO World Heritage site."
+    },
+    factsAdvanced: {
+      de: ["Founded in the 7th century by Saint Trudo, a Frankish nobleman", "The Grote Markt features the 18th-century town hall with a UNESCO-listed belfry", "The Beguinage of Sint-Truiden was established in 1258", "Known as the capital of the Haspengouw fruit-growing region", "Features an astronomical clock constructed in 1942 inside the Festraets Studio", "The Abbey tower provides a panoramic view after climbing 196 steps", "Contains an impressive collection of Romanesque architecture"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-sint-truiden-cities-v2.webp",
+},  {
     id: "belgium-lokeren-cities-v2",
     type: "city",
-    name: { de: "Lokeren", hu: "Lokeren", ro: "Lokeren", en: "Lokeren" },
+    name: { de: "Lokeren", hu: "Lokeren", ro: "Lokeren", en: "Lokeren",
+image: "/poi-images/belgium-lokeren-cities-v2.webp"
+},
     coords: [3.9911, 51.1042],
     coordinates: { lat: 51.1042, lng: 3.9911 },
     description: {
@@ -814,11 +880,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Festivalul Lokerse Feesten", "Rezervația naturală Molsbroek", "Oraș pe râul Durme", "Biserica Sfântul Laurențiu"],
       en: ["Lokerse Feesten festival", "Molsbroek nature reserve", "City on the Durme river", "St. Lawrence's Church"],
     },
-    imageHint: "Lokeren city hall and square", image: "/poi-images/belgium-lokeren-cities-v2.webp"},
-  {
+imageHint: "Lokeren city hall and square",
+    descriptionAdvanced: {
+      de: "Lokeren ist eine einladende flämische Stadt in der Provinz Ostflandern, malerisch durchschnitten vom Fluss Durme. Historisch erlebte die Stadt im 19. und 20. Jahrhundert einen wirtschaftlichen Boom durch die Haarschneideindustrie und die Verarbeitung von Kaninchenhaaren für die Filzhutfabrikation, was ihr den Spitznamen \"Stadt der Haarschneider\" einbrachte. Das Stadtmuseum im historischen Zentrum bietet einen tiefen Einblick in diese ungewöhnliche industrielle Vergangenheit. Heute ist Lokeren vor allem für seine ausgedehnten Naturgebiete bekannt, insbesondere das Molsbroek, ein 80 Hektar großes Sumpf- und Vogelschutzgebiet, das direkt an das Stadtzentrum grenzt. Ein weiterer Magnet für Besucher aus ganz Belgien sind die \"Lokerse Feesten\", ein zehntägiges, massives Musikfestival, das jeden Sommer im August das Stadtzentrum in eine pulsierende Partyzone verwandelt.",
+      hu: "Lokeren egy hívogató flandriai város Kelet-Flandria tartományban, amelyet festőien szel át a Durme folyó. Történelmileg a város a 19. és 20. században gazdasági fellendülést élt át a hajvágó iparnak és a nyúlszőr nemezkalap-gyártáshoz történő feldolgozásának köszönhetően, ami a \"hajvágók városa\" becenevet hozta számára. A történelmi központban található Városi Múzeum mélyreható bepillantást nyújt ebbe a szokatlan ipari múltba. Ma Lokeren elsősorban kiterjedt természeti területeiről ismert, különösen a Molsbroekről, egy 80 hektáros mocsaras és madárvédelmi területről, amely közvetlenül a városközponttal határos. Egy másik mágnes, amely egész Belgiumból vonzza a látogatókat, a \"Lokerse Feesten\", egy tíznapos, hatalmas zenei fesztivál, amely minden nyáron, augusztusban nyüzsgő partizónává változtatja a városközpontot.",
+      ro: "Lokeren este un oraș flamand primitor în provincia Flandra de Est, traversat pitoresc de râul Durme. Istoric, orașul a cunoscut un boom economic în secolele al XIX-lea și al XX-lea datorită industriei de tăiere a părului și prelucrării părului de iepure pentru fabricarea pălăriilor de fetru, ceea ce i-a adus porecla de „orașul tăietorilor de păr”. Muzeul orașului din centrul istoric oferă o privire profundă asupra acestui trecut industrial neobișnuit. Astăzi, Lokeren este cunoscut în primul rând pentru rezervațiile sale naturale întinse, în special Molsbroek, o mlaștină de 80 de hectare și un sanctuar de păsări, care se învecinează direct cu centrul orașului. Un alt magnet pentru vizitatorii din întreaga Belgie sunt „Lokerse Feesten”, un festival de muzică masiv de zece zile, care transformă centrul orașului într-o zonă de petrecere vibrantă în fiecare august.",
+      en: "Lokeren is a welcoming Flemish city in the province of East Flanders, picturesquely intersected by the Durme river. Historically, the city experienced an economic boom in the 19th and 20th centuries due to the hair-cutting industry and the processing of rabbit hair for felt hat manufacturing, earning it the nickname \"City of the Hair Cutters.\" The City Museum in the historical center provides a deep insight into this unusual industrial past. Today, Lokeren is primarily known for its extensive nature reserves, particularly the Molsbroek, an 80-hectare marsh and bird sanctuary that directly borders the city center. Another magnet for visitors from all over Belgium is the \"Lokerse Feesten,\" a massive ten-day music festival that transforms the city center into a vibrant party zone every summer in August."
+    },
+    factsAdvanced: {
+      de: ["The city historically dominated the hair-cutting industry for felt hat production", "The Lokerse Feesten attract over 100,000 music fans over 10 days each August", "The Molsbroek nature reserve spans 80 hectares of protected marshland", "Situated on the Durme river, a tributary of the Scheldt", "The St. Lawrence Church houses an impressive 18th-century pulpit", "Historically known for linen bleaching and processing in the 18th century", "The town hall is a prominent neoclassical building on the market square"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-lokeren-cities-v2.webp",
+},  {
     id: "belgium-geel-cities-v2",
     type: "city",
-    name: { de: "Geel", hu: "Geel", ro: "Geel", en: "Geel" },
+    name: { de: "Geel", hu: "Geel", ro: "Geel", en: "Geel",
+image: "/poi-images/belgium-geel-cities-v2.webp"
+},
     coords: [4.9903, 51.1612],
     coordinates: { lat: 51.1612, lng: 4.9903 },
     description: {
@@ -833,11 +914,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sistem de îngrijire familială renumit", "Biserica Sfânta Dymphna", "Centru al regiunii Kempen", "Orașul Galben (numele Geel)"],
       en: ["World-famous family care system", "St. Dymphna's Church", "Center of the Kempen region", "Yellow city (meaning of Geel)"],
     },
-    imageHint: "Geel St. Dymphna Church", image: "/poi-images/belgium-geel-cities-v2.webp"},
-  {
+imageHint: "Geel St. Dymphna Church",
+    descriptionAdvanced: {
+      de: "Geel ist eine einzigartige Stadt in der flämischen Provinz Antwerpen, die weltweit für ihr revolutionäres und jahrhundertealtes Modell der Familienpflege in der Psychiatrie berühmt ist. Die Wurzeln dieser Tradition reichen bis ins 13. Jahrhundert zurück und sind eng mit der Legende der Heiligen Dymphna, der Schutzpatronin der psychisch Kranken, verbunden. Pilger, die an ihrem Schrein Heilung suchten, wurden von den Bürgern von Geel in ihre Häuser aufgenommen; dieses System der offenen familiären Unterbringung von Patienten existiert bis heute und hat der Stadt den Titel \"Barmherzige Stadt\" eingebracht. Im Zentrum der Stadt steht die majestätische St.-Dymphna-Kirche, die herrliche Renaissance-Schnitzereien birgt. Darüber hinaus ist Geel ein wichtiges Bildungs- und Agrarzentrum in der Region Kempen und verfügt über einen malerischen Marktplatz, ein Krankenhausmuseum und weitläufige Naturschutzgebiete in der Umgebung.",
+      hu: "Geel egy egyedülálló város a flamand Antwerpen tartományban, amely világszerte híres a pszichiátriai betegek forradalmi és évszázados családi gondozási modelljéről. E hagyomány gyökerei a 13. századig nyúlnak vissza, és szorosan kapcsolódnak Szent Dymphna, a mentális betegek védőszentjének legendájához. A szentélyénél gyógyulást kereső zarándokokat Geel polgárai befogadták otthonaikba; a betegek nyitott, családi elhelyezésének ez a rendszere a mai napig fennáll, és a városnak az \"Irgalmas Város\" címet hozta. A város központjában áll a fenséges Szent Dymphna-templom, amely csodálatos reneszánsz faragványokat rejt. Ezenkívül Geel fontos oktatási és mezőgazdasági központ a Kempen régióban, festői piactérrel, egy kórházmúzeummal és a környéken kiterjedt természetvédelmi területekkel rendelkezik.",
+      ro: "Geel este un oraș unic în provincia flamandă Anvers, faimos în întreaga lume pentru modelul său revoluționar și secular de îngrijire familială în psihiatrie. Rădăcinile acestei tradiții datează din secolul al XIII-lea și sunt strâns legate de legenda Sfintei Dymphna, patroana celor cu boli mintale. Pelerinii care căutau vindecare la sanctuarul ei au fost primiți de cetățenii din Geel în casele lor; acest sistem de cazare deschisă, în familie, a pacienților există și astăzi și a adus orașului titlul de „Oraș Milostiv”. În centrul orașului se află maiestuoasa Biserică Sfânta Dymphna, care găzduiește sculpturi renascentiste magnifice. În plus, Geel este un important centru educațional și agricol în regiunea Kempen și are o piață pitorească, un muzeu al spitalului și rezervații naturale extinse în zonele înconjurătoare.",
+      en: "Geel is a unique city in the Flemish province of Antwerp, famous worldwide for its revolutionary and centuries-old model of family care in psychiatry. The roots of this tradition date back to the 13th century and are closely linked to the legend of Saint Dymphna, the patron saint of the mentally ill. Pilgrims seeking healing at her shrine were taken into the homes of Geel's citizens; this system of open, family-based placement of patients exists to this day and has earned the city the title of \"Merciful City.\" In the center of the city stands the majestic St. Dymphna's Church, which houses magnificent Renaissance carvings. Furthermore, Geel is an important educational and agricultural center in the Kempen region and features a picturesque market square, a hospital museum, and extensive nature reserves in the surrounding area."
+    },
+    factsAdvanced: {
+      de: ["The unique family-foster care model for psychiatric patients dates back over 700 years", "Saint Dymphna, an Irish princess, is the patron saint of the mentally ill", "The Barmhartige Stede (Merciful City) title honors the town's caregiving tradition", "The St. Dymphna Church contains a silver reliquary housing the saint's remains", "The Gasthuismuseum is located in a preserved 17th-century hospital complex", "The town was heavily damaged but liberated by British troops in 1944", "An important agricultural education center within the Campine (Kempen) region"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-geel-cities-v2.webp",
+},  {
     id: "belgium-halle-cities-v2",
     type: "city",
-    name: { de: "Halle", hu: "Halle", ro: "Halle", en: "Halle" },
+    name: { de: "Halle", hu: "Halle", ro: "Halle", en: "Halle",
+image: "/poi-images/belgium-halle-cities-v2.webp"
+},
     coords: [4.2372, 50.736],
     coordinates: { lat: 50.736, lng: 4.2372 },
     description: {
@@ -852,11 +948,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Bazilica Sfântul Martin", "Pelerinaj la Madona Neagră", "Poartă către Pajottenland", "Aproape de pădurea Hallerbos"],
       en: ["Basilica of Saint Martin", "Pilgrimage to the Black Madonna", "Gateway to Pajottenland", "Near the Hallerbos forest"],
     },
-    imageHint: "Halle Basilica of Saint Martin", image: "/poi-images/belgium-halle-cities-v2.webp"},
-  {
+imageHint: "Halle Basilica of Saint Martin",
+    descriptionAdvanced: {
+      de: "Halle ist eine lebendige Stadt in Flämisch-Brabant, südwestlich von Brüssel an den Ufern der Senne und dem Kanal Charleroi-Brüssel gelegen. Die Stadt ist seit dem Mittelalter ein überaus wichtiger Marienwallfahrtsort. Das Herzstück der Stadt ist die prachtvolle hochgotische Basilika St. Martin, die die berühmte schwarze Madonnenstatue beherbergt und von zahlreichen Mitgliedern des europäischen Adels, einschließlich der Burgunderherzöge, reich beschenkt wurde. Halle ist jedoch auch international als \"Tor zum Hallerbos\" bekannt. Dieser märchenhafte Wald in der unmittelbaren Umgebung zieht jeden Frühling Tausende von Besuchern an, wenn Millionen blühender Hasenglöckchen (Bluebells) den Waldboden in einen leuchtend blauen Teppich verwandeln. Darüber hinaus feiert Halle einen der farbenprächtigsten und traditionsreichsten Karnevale in Flandern und grenzt an das Pajottenland, die Heimat der legendären Geuze- und Lambic-Biere.",
+      hu: "Halle egy nyüzsgő város Flamand-Brabantban, Brüsszeltől délnyugatra, a Senne folyó és a Charleroi-Brüsszel csatorna partján. A város a középkor óta kiemelkedően fontos Mária-zarándokhely. A város szíve a pompás érett gótikus Szent Márton-bazilika, amely a híres fekete Madonna-szobornak ad otthont, és amelyet az európai nemesség számos tagja, köztük a burgundi hercegek is gazdagon megajándékoztak. Halle azonban nemzetközileg leginkább a \"Hallerbos (Kékcsengő-erdő) kapujaként\" ismert. Ez a mesebeli erdő a közvetlen közelben minden tavasszal látogatók ezreit vonzza, amikor a virágzó jácintok (kékcsengők) milliói élénk kék szőnyeggé varázsolják az erdő talaját. Emellett Halle rendezi Flandria egyik legszínpompásabb és leghagyományosabb karneválját, és határos a Pajottenlanddal, a legendás Geuze és Lambic sörök hazájával.",
+      ro: "Halle este un oraș plin de viață în Brabantul Flamand, situat la sud-vest de Bruxelles, pe malurile râului Senne și ale canalului Charleroi-Bruxelles. Orașul este un loc de pelerinaj marian extrem de important încă din Evul Mediu. Piesa centrală a orașului este superba Bazilică Sfântul Martin în stil gotic târziu, care adăpostește celebra statuie a Madonei Negre și a fost bogat înzestrată de numeroși membri ai nobilimii europene, inclusiv de ducii de Burgundia. Cu toate acestea, Halle este cunoscut și pe plan internațional ca „poarta de intrare către Hallerbos”. Această pădure de basm din imediata vecinătate atrage mii de vizitatori în fiecare primăvară, când milioane de zambile sălbatice (bluebells) înflorite transformă solul pădurii într-un covor albastru strălucitor. În plus, Halle sărbătorește unul dintre cele mai colorate și tradiționale carnavaluri din Flandra și se învecinează cu Pajottenland, casa legendarelor beri Geuze și Lambic.",
+      en: "Halle is a lively city in Flemish Brabant, located southwest of Brussels on the banks of the Senne river and the Charleroi-Brussels canal. The city has been a highly important Marian pilgrimage site since the Middle Ages. The centerpiece of the city is the magnificent High Gothic Basilica of Saint Martin, which houses the famous Black Madonna statue and was richly endowed by numerous members of the European nobility, including the Dukes of Burgundy. However, Halle is also known internationally as the \"Gateway to the Hallerbos.\" This fairytale forest in the immediate vicinity attracts thousands of visitors every spring when millions of blooming bluebells transform the forest floor into a vibrant blue carpet. In addition, Halle celebrates one of the most colorful and traditional carnivals in Flanders and borders the Pajottenland, the home of the legendary Geuze and Lambic beers."
+    },
+    factsAdvanced: {
+      de: ["The Basilica of St. Martin was completed in the early 15th century in High Gothic style", "Contains a black wooden statue of the Virgin Mary, a major object of pilgrimage", "The nearby Hallerbos spans 552 hectares and turns blue with bluebells in spring", "The city successfully resisted a major siege by Philip of Cleves in 1489", "Hosts a unique, vibrant three-day carnival celebrated in the middle of Lent", "Served as an important border fortress between Hainaut and Brabant in the Middle Ages", "The Albert Park provides a large green recreational area near the city center"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-halle-cities-v2.webp",
+},  {
     id: "belgium-waregem-cities-v2",
     type: "city",
-    name: { de: "Waregem", hu: "Waregem", ro: "Waregem", en: "Waregem" },
+    name: { de: "Waregem", hu: "Waregem", ro: "Waregem", en: "Waregem",
+image: "/poi-images/belgium-waregem-cities-v2.webp"
+},
     coords: [3.4326, 50.8869],
     coordinates: { lat: 50.8869, lng: 3.4326 },
     description: {
@@ -871,11 +982,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cursa de cai Waregem Koerse", "Cimitir militar american", "Orașul cailor", "Centru al regiunii textile"],
       en: ["Waregem Koerse horse race", "American Military Cemetery", "City of horses", "Center of the textile region"],
     },
-    imageHint: "Waregem horse racing stadium", image: "/poi-images/belgium-waregem-cities-v2.webp"},
-  {
+imageHint: "Waregem horse racing stadium",
+    descriptionAdvanced: {
+      de: "Waregem ist eine wohlhabende und dynamische Stadt in der flämischen Provinz Westflandern, die im Tal der Leie liegt. Weltweit ist Waregem unweigerlich mit dem Pferdesport verbunden; die Stadt ist der Austragungsort der jährlichen \"Waregem Koerse\", einem der prestigeträchtigsten und traditionsreichsten Hindernisrennen Europas, das jeden Spätsommer Tausende von elegant gekleideten Zuschauern auf das Gaverbeek-Hippodrom zieht. Historisch profitierte die Stadt stark von der Flachs- und Textilindustrie der Leie-Region, ein Erbe, das in der modernen Wirtschaft von Waregem weiterlebt. Ein tief bewegender historischer Ort in der Stadt ist der Flanders Field American Cemetery and Memorial, der kleinste amerikanische Soldatenfriedhof aus dem Ersten Weltkrieg in Europa, auf dem die Gefallenen der Flandernschlacht ruhen. Waregem kombiniert sportliche Exzellenz, unternehmerischen Geist und historische Bedeutung auf einzigartige Weise.",
+      hu: "Waregem egy jómódú és dinamikus város a flandriai Nyugat-Flandria tartományban, a Leie völgyében. Waregem neve világszerte elválaszthatatlanul összefonódott a lovassportokkal; a város ad otthont az évente megrendezett \"Waregem Koerse\"-nek, Európa egyik legrangosabb és legnagyobb hagyományokkal rendelkező akadályversenyének, amely minden nyár végén elegánsan öltözött nézők ezreit vonzza a Gaverbeek hippodromba. Történelmileg a város nagymértékben profitált a Leie régió len- és textiliparából, amely örökség Waregem modern gazdaságában is tovább él. A város egy mélyen megrendítő történelmi emlékhelye a Flanders Field American Cemetery and Memorial (Flandriai Mezők Amerikai Temető és Emlékmű), az I. világháború legkisebb amerikai katonai temetője Európában, ahol a flandriai csatákban elesettek nyugszanak. Waregem egyedülálló módon ötvözi a sportkiválóságot, a vállalkozói szellemet és a történelmi jelentőséget.",
+      ro: "Waregem este un oraș prosper și dinamic în provincia flamandă Flandra de Vest, situat în valea râului Leie. La nivel mondial, Waregem este inevitabil legat de sporturile ecvestre; orașul găzduiește anual \"Waregem Koerse\", una dintre cele mai prestigioase și tradiționale curse de obstacole din Europa, care atrage în fiecare sfârșit de vară mii de spectatori îmbrăcați elegant pe Hipodromul Gaverbeek. Istoric, orașul a beneficiat masiv de industria inului și a textilelor din regiunea Leie, o moștenire care continuă să trăiască în economia modernă a orașului Waregem. Un loc istoric profund emoționant din oraș este Flanders Field American Cemetery and Memorial, cel mai mic cimitir militar american din Primul Război Mondial din Europa, unde se odihnesc cei căzuți în Bătălia din Flandra. Waregem combină în mod unic excelența sportivă, spiritul antreprenorial și semnificația istorică.",
+      en: "Waregem is a prosperous and dynamic city in the Flemish province of West Flanders, located in the valley of the Leie River. Worldwide, Waregem is inevitably linked with equestrian sports; the city hosts the annual \"Waregem Koerse,\" one of Europe's most prestigious and traditional steeplechase races, which draws thousands of elegantly dressed spectators to the Gaverbeek Hippodrome every late summer. Historically, the city benefited heavily from the flax and textile industry of the Leie region, a legacy that lives on in Waregem's modern economy. A deeply moving historical site in the city is the Flanders Field American Cemetery and Memorial, the smallest American World War I military cemetery in Europe, where the fallen of the Battle of Flanders rest. Waregem uniquely combines sporting excellence, entrepreneurial spirit, and historical significance."
+    },
+    factsAdvanced: {
+      de: ["The Waregem Koerse has been held annually since 1847 at the Gaverbeek Hippodrome", "The Flanders Field American Cemetery contains 368 American military graves from WWI", "The Gaverbeek Hippodrome can accommodate up to 40,000 spectators during races", "A central hub for the historic flax industry along the 'Golden River' (Leie)", "The Park Baron Casier spans 8 hectares in the center of the city", "Hosted the start of a stage of the Tour de France in 2007", "The modern library and cultural center 'De Schakel' is a hub for local arts"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-waregem-cities-v2.webp",
+},  {
     id: "belgium-chatelet-cities-v2",
     type: "city",
-    name: { de: "Châtelet", hu: "Châtelet", ro: "Châtelet", en: "Châtelet" },
+    name: { de: "Châtelet", hu: "Châtelet", ro: "Châtelet", en: "Châtelet",
+image: "/poi-images/belgium-chatelet-cities-v2.webp"
+},
     coords: [4.5284, 50.4032],
     coordinates: { lat: 50.4032, lng: 4.5284 },
     description: {
@@ -890,11 +1016,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui René Magritte", "Oraș pe malul râului Sambre", "Producție istorică de ceramică", "Parte a zonei industriale"],
       en: ["Birthplace of René Magritte", "City on the Sambre river", "Historic stoneware production", "Part of the industrial belt"],
     },
-    imageHint: "Châtelet city view and Sambre river", image: "/poi-images/belgium-chatelet-cities-v2.webp"},
-  {
+imageHint: "Châtelet city view and Sambre river",
+    descriptionAdvanced: {
+      de: "Châtelet ist eine Industriegemeinde an der Sambre, die stark von ihrer Vergangenheit im weitläufigen Kohle- und Stahlbecken der Provinz Hennegau geprägt ist. Das Stadtbild bewahrt die dichten, aus Backstein erbauten Arbeiterwohnungen und ehemaligen Industriestandorte, die charakteristisch für den Produktionsboom des 19. Jahrhunderts sind. Bemerkenswert ist, dass Châtelet als die Stadt in die Kunstgeschichte eingegangen ist, in der der weltberühmte surrealistische Maler René Magritte seine prägenden Jahre verbrachte; sein ehemaliges Elternhaus ist hier erhalten. Der städtische Kern dreht sich um den Place d'Arenberg und die Kirche Saint-Pierre-et-Paul und fungiert als Handelszentrum für die umliegenden ehemaligen Bergbaugemeinden. Die Stadt konzentriert sich derzeit auf die Wiederbelebung ihrer postindustriellen Räume und die Aufwertung des Flussufers entlang der Sambre.",
+      hu: "Châtelet egy ipari önkormányzat a Sambre folyó mentén, amelyet erősen meghatároz Hainaut tartomány kiterjedt szén- és acélmedencéjében betöltött múltja. A városkép megőrizte a sűrű, téglából épült munkáslakásokat és a 19. századi feldolgozóipari fellendülésre jellemző egykori ipari területeket. Figyelemre méltó, hogy Châtelet a művészettörténetben úgy él, mint a város, ahol a világhírű szürrealista festő, René Magritte ifjúkorát töltötte; egykori gyermekkori otthona ma is áll. A városközpont a Place d'Arenberg és a Saint-Pierre-et-Paul templom körül forog, és a környező egykori bányászközösségek kereskedelmi központjaként működik. A város jelenleg posztindusztriális tereinek revitalizálására és a Sambre folyó partjának fejlesztésére összpontosít.",
+      ro: "Châtelet este o municipalitate industrială situată de-a lungul râului Sambre, definită puternic de trecutul său în bazinul extins de cărbune și oțel al provinciei Hainaut. Peisajul urban păstrează locuințele muncitorești dense din cărămidă și fostele situri industriale caracteristice boom-ului manufacturier din secolul al XIX-lea. În mod remarcabil, Châtelet ocupă un loc în istoria artei ca fiind orașul în care pictorul suprarealist de renume mondial René Magritte și-a petrecut anii de formare; fosta sa casă din copilărie este conservată aici. Nucleul urban gravitează în jurul Place d'Arenberg și a bisericii Saint-Pierre-et-Paul, funcționând ca un centru comercial pentru fostele comunități miniere din împrejurimi. În prezent, orașul se concentrează pe revitalizarea spațiilor sale postindustriale și pe îmbunătățirea falezei de-a lungul râului Sambre.",
+      en: "Châtelet is an industrial municipality situated along the Sambre River, heavily defined by its past within the sprawling coal and steel basin of the Hainaut province. The cityscape retains the dense, brick-built worker housing and former industrial sites characteristic of the 19th-century manufacturing boom. Notably, Châtelet holds a place in art history as the town where the globally renowned surrealist painter René Magritte spent his formative years; his former childhood home is preserved here. The urban core revolves around the Place d'Arenberg and the Saint-Pierre-et-Paul church, functioning as a commercial center for the surrounding former mining communities. The city is currently focused on revitalizing its post-industrial spaces and enhancing the riverfront along the Sambre."
+    },
+    factsAdvanced: {
+      de: ["Châtelet is situated on the Sambre river in the province of Hainaut.", "René Magritte, the famous surrealist artist, spent much of his youth in Châtelet.", "The city has a long history intertwined with coal mining and heavy steel industry.", "A well-known local folklore event is the 'Cavalcade', a major annual parade.", "Châtelet covers a municipal area of 27.03 square kilometers.", "The Saint-Pierre-et-Paul church is the main religious monument in the city center."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-chatelet-cities-v2.webp",
+},  {
     id: "belgium-mol-cities-v2",
     type: "city",
-    name: { de: "Mol", hu: "Mol", ro: "Mol", en: "Mol" },
+    name: { de: "Mol", hu: "Mol", ro: "Mol", en: "Mol",
+image: "/poi-images/belgium-mol-cities-v2.webp"
+},
     coords: [5.1166, 51.1919],
     coordinates: { lat: 51.1919, lng: 5.1166 },
     description: {
@@ -909,11 +1050,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Centrul de Cercetare Nucleară", "Abația Postel", "Zona de agrement Molse Meren", "Centru de extracție a nisipului alb"],
       en: ["Belgian Nuclear Research Centre", "Postel Abbey", "Molse Meren recreation area", "Center of white sand extraction"],
     },
-    imageHint: "Mol Postel Abbey architecture", image: "/poi-images/belgium-mol-cities-v2.webp"},
-  {
+imageHint: "Mol Postel Abbey architecture",
+    descriptionAdvanced: {
+      de: "Mol ist eine weitläufige Gemeinde in der sandigen Region Kempen in der Provinz Antwerpen, die auf einzigartige Weise Hightech-Forschung mit ausgedehnter Naturerholung verbindet. Die Geografie der Region wurde durch den jahrzehntelangen Abbau von weißem Sand drastisch verändert, was zu zahlreichen großen Seen führte, die in bedeutende Erholungsgebiete wie das Zilvermeer mit unberührten weißen Stränden und Wassersportanlagen umgewandelt wurden. Mol ist auch ein wichtiges Zentrum für wissenschaftliche Innovation und beherbergt das belgische Kernforschungszentrum (SCK CEN) und andere prominente europäische Forschungsinstitute. Die Gemeinde besteht aus einer zentralen Handelsstadt, die von elf verschiedenen Weilern umgeben ist und ihren weitgehend ländlichen, bewaldeten Charakter bewahrt, der von industriellen Sandsteinbrüchen und spezialisierten Wissenschaftscampus durchsetzt ist.",
+      hu: "Mol egy kiterjedt önkormányzat Antwerpen tartomány homokos Kempen régiójában, amely egyedülálló módon ötvözi a csúcstechnológiai tudományos kutatást a kiterjedt természetes rekreációval. A térség földrajzát drámaian megváltoztatta a több évtizedes fehérhomok-kitermelés, amely számos nagy tavat hozott létre; ezeket jelentős rekreációs területekké alakították át, mint például a Zilvermeer, amely érintetlen fehér strandokkal és vízi sportolási lehetőségekkel rendelkezik. Mol a tudományos innováció kulcsfontosságú központja is, itt található a Belga Nukleáris Kutatóközpont (SCK CEN) és más kiemelkedő európai kutatóintézetek. Az önkormányzat egy központi kereskedelmi városból és tizenegy környező faluból áll, megőrizve nagyrészt vidéki, erdős jellegét, amelyet ipari homokbányák és speciális tudományos kampuszok tagolnak.",
+      ro: "Mol este o municipalitate extinsă situată în regiunea nisipoasă Campine din provincia Anvers, îmbinând în mod unic cercetarea științifică de înaltă tehnologie cu recreerea naturală extinsă. Geografia zonei a fost modificată dramatic de zeci de ani de extracție a nisipului alb, rezultând numeroase lacuri mari care au fost transformate în domenii de recreere majore, cum ar fi Zilvermeer, cu plaje albe imaculate și facilități pentru sporturi nautice. Mol este, de asemenea, un centru crucial pentru inovația științifică, găzduind Centrul Belgian de Cercetare Nucleară (SCK CEN) și alte institute de cercetare europene proeminente. Municipalitatea este formată dintr-un oraș comercial central înconjurat de unsprezece cătune distincte, păstrând un caracter preponderent rural, împădurit, punctat de cariere industriale de nisip și campusuri științifice specializate.",
+      en: "Mol is a sprawling municipality located in the sandy Campine region of Antwerp province, uniquely blending high-tech scientific research with extensive natural recreation. The area's geography has been dramatically altered by decades of white sand extraction, resulting in numerous large lakes that have been transformed into major recreational domains, such as the Zilvermeer, featuring pristine white beaches and water sports facilities. Mol is also a crucial center for scientific innovation, hosting the Belgian Nuclear Research Centre (SCK CEN) and other prominent European research institutes. The municipality consists of a central commercial town surrounded by eleven distinct hamlets, maintaining a largely rural, forested character punctuated by industrial sand quarries and specialized scientific campuses."
+    },
+    factsAdvanced: {
+      de: ["Mol is located in the Campine region and covers a vast 114.26 square kilometers.", "The city is home to the Belgian Nuclear Research Centre (SCK CEN), established in 1952.", "The numerous lakes in Mol were created by extensive white sand extraction.", "Mol is divided into the central town and 11 surrounding hamlets.", "The Zilvermeer Provincial Domain is a popular recreation area featuring a white sand beach.", "The city houses the European Institute for Reference Materials and Measurements (IRMM)."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-mol-cities-v2.webp",
+},  {
     id: "belgium-ypres-cities-v2",
     type: "city",
-    name: { de: "Ypern", hu: "Ypres (Ieper)", ro: "Ypres", en: "Ypres" },
+    name: { de: "Ypern", hu: "Ypres (Ieper)", ro: "Ypres", en: "Ypres",
+image: "/poi-images/belgium-ypres-cities-v2.webp"
+},
     coords: [2.8857, 50.851],
     coordinates: { lat: 50.851, lng: 2.8857 },
     description: {
@@ -928,11 +1084,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Poarta Menin și Last Post", "Hala Postăvarilor reconstruită", "Muzeul In Flanders Fields", "Locul unor bătălii majore în WWI"],
       en: ["Menin Gate and the Last Post", "Rebuilt Cloth Hall", "In Flanders Fields Museum", "Site of heavy WWI battles"],
     },
-    imageHint: "Ypres Cloth Hall and Menin Gate", image: "/poi-images/belgium-ypres-cities-v2.webp"},
-  {
+imageHint: "Ypres Cloth Hall and Menin Gate",
+    descriptionAdvanced: {
+      de: "Ypern, auf Niederländisch Ieper genannt, ist weltweit als zentrales Symbol für die Verwüstung und das Gedenken an den Ersten Weltkrieg bekannt. Die Stadt wurde während der Ersten Flandernschlacht 1914 und der darauffolgenden Konflikte systematisch in Schutt und Asche gelegt, aber nach dem Krieg akribisch wiederaufgebaut, um ihre einstige mittelalterliche Pracht nachzubilden. Die imposante Tuchhalle am Grote Markt, die ursprünglich im 13. Jahrhundert für den florierenden Textilhandel erbaut wurde, beherbergt heute das tiefgründige Museum „In Flanders Fields“. Nur einen kurzen Spaziergang entfernt steht das Menenpoort, ein riesiges Denkmal, an dem jeden Abend der Last Post als Tribut an die Zehntausenden von Commonwealth-Soldaten erklingt, die im umliegenden Ypernbogen verschwanden. Heute ist die Stadt ein friedliches, makellos wiederaufgebautes flämisches Zentrum, das sein tägliches Leben permanent mit seiner Rolle als internationaler Pilgerort und Ort der historischen Reflexion in Einklang bringt.",
+      hu: "Ypres, hollandul Ieper, világszerte az első világháború pusztításának és emlékezetének központi szimbólumaként ismert. A várost az 1914-es első ypres-i csata és a későbbi konfliktusok során szisztematikusan romba döntötték, de a háború után aprólékosan újjáépítették, hogy visszaadják egykori középkori pompáját. A Grote Markton álló impozáns Posztócsarnok, amelyet eredetileg a 13. században építettek a virágzó textilkereskedelem kiszolgálására, ma a mélyreható \"In Flanders Fields\" múzeumnak ad otthont. Egy rövid sétára található a Menin-kapu, egy hatalmas emlékmű, ahol minden este felhangzik a Last Post (Takardó) a környező ypres-i kiszögellésben eltűnt több tízezer nemzetközösségi katona tiszteletére. Ma a város egy békés, kifogástalanul újjáépített flamand központ, amely mindennapi életét folyamatosan egyensúlyban tartja a nemzetközi zarándokhelyként és a történelmi elmélkedés helyszíneként betöltött szerepével.",
+      ro: "Ypres, cunoscut sub numele de Ieper în olandeză, este recunoscut la nivel global ca un simbol central al devastării și amintirii Primului Război Mondial. Orașul a fost redus sistematic la ruine în timpul Primei Bătălii de la Ypres din 1914 și a conflictelor ulterioare, dar a fost reconstruit cu meticulozitate după război pentru a-și reproduce fosta măreție medievală. Impunătoarea Hală a Postăvarilor de pe Grote Markt, construită inițial în secolul al XIII-lea pentru a servi comerțului înfloritor cu textile, găzduiește acum profundul muzeu „In Flanders Fields”. La o scurtă plimbare distanță se află Poarta Menin, un memorial masiv unde Last Post (Stingerea) răsună în fiecare seară în semn de omagiu pentru zecile de mii de soldați ai Commonwealth-ului care au dispărut în Salientul Ypres din jur. Astăzi, orașul este un centru flamand pașnic, impecabil reconstruit, care își echilibrează permanent viața de zi cu zi cu rolul său de loc internațional de pelerinaj și reflecție istorică.",
+      en: "Ypres, known as Ieper in Dutch, is globally recognized as a central symbol of the devastation and remembrance of World War I. The city was systematically reduced to rubble during the First Battle of Ypres in 1914 and subsequent conflicts, but was meticulously reconstructed post-war to replicate its former medieval grandeur. The imposing Cloth Hall on the Grote Markt, originally built in the 13th century to serve the booming textile trade, now houses the profound 'In Flanders Fields' museum. A short walk away stands the Menin Gate, a massive memorial where the Last Post is sounded every single evening in tribute to the tens of thousands of Commonwealth soldiers who vanished in the surrounding Ypres Salient. Today, the city is a peaceful, impeccably rebuilt Flemish center that permanently balances its daily life with its role as an international site of pilgrimage and historical reflection."
+    },
+    factsAdvanced: {
+      de: ["Ypres was entirely destroyed during World War I and subsequently rebuilt to its original plans.", "The Menin Gate Memorial bears the names of 54,395 Commonwealth soldiers who went missing in the salient.", "The Last Post ceremony has been sounded under the Menin Gate every evening at 8 PM since 1928.", "During the Middle Ages, Ypres was one of the three wealthiest cities in Flanders due to the cloth trade.", "The reconstructed Cloth Hall houses the award-winning 'In Flanders Fields' museum.", "The city covers a vast area of 130.61 square kilometers in West Flanders."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-ypres-cities-v2.webp",
+},  {
     id: "belgium-lier-cities-v2",
     type: "city",
-    name: { de: "Lier", hu: "Lier", ro: "Lier", en: "Lier" },
+    name: { de: "Lier", hu: "Lier", ro: "Lier", en: "Lier",
+image: "/poi-images/belgium-lier-cities-v2.webp"
+},
     coords: [4.5704, 51.1311],
     coordinates: { lat: 51.1311, lng: 4.5704 },
     description: {
@@ -947,11 +1118,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Turnul Zimmer cu ceas astronomic", "Beguinage (sit UNESCO)", "Oraș la confluența râurilor Nete", "Locul de origine al lui Felix Timmermans"],
       en: ["Zimmer Tower with world clock", "UNESCO-listed Beguinage", "City at the confluence of the Netes", "Home of writer Felix Timmermans"],
     },
-    imageHint: "Lier Zimmer Tower astronomical clock", image: "/poi-images/belgium-lier-cities-v2.webp"},
-  {
+imageHint: "Lier Zimmer Tower astronomical clock",
+    descriptionAdvanced: {
+      de: "Lier ist eine malerische historische Stadt in der Provinz Antwerpen, wunderschön gelegen am Zusammenfluss von Großer und Kleiner Nete. Die Stadt wird oft als „Pallieterstad“ bezeichnet, zu Ehren des idyllischen Lebensstils, der in den Romanen des lokalen Autors Felix Timmermans dargestellt wird. Das kompakte Stadtzentrum von Lier verfügt über einen außergewöhnlich gut erhaltenen Beginenhof aus dem 13. Jahrhundert, der sich durch schmale Kopfsteinpflastergassen und traditionelle weiß gestrichene Backsteinhäuser auszeichnet und ihm den Status eines UNESCO-Weltkulturerbes einbrachte. Ein weiteres wichtiges Wahrzeichen ist der Zimmerturm, der eine komplizierte astronomische Uhr mit 13 verschiedenen Zifferblättern beherbergt. Die gotische St.-Gummarus-Kirche dominiert die Skyline und hat großes historisches Gewicht, da hier königliche Hochzeiten stattfanden. Die Stadt bewahrt eine zutiefst traditionelle, entspannte flämische Atmosphäre, umgeben von alten Verteidigungsgräben.",
+      hu: "Lier egy festői történelmi város Antwerpen tartományban, gyönyörű helyen, a Grote Nete és a Kleine Nete folyók összefolyásánál. A várost gyakran „Pallieterstad”-ként emlegetik, Felix Timmermans helyi író regényeiben ábrázolt idilli életmód tiszteletére. Lier kompakt városközpontja egy kivételesen jól megőrzött 13. századi beginaudvarral büszkélkedhet, amelyet szűk macskaköves sikátorok és hagyományos fehérre meszelt téglaépületek jellemeznek, és amely elnyerte az UNESCO Világörökség státuszt. Másik fő nevezetessége a Zimmer-torony, amely egy bonyolult csillagászati órát rejt magában, 13 különböző számlappal. A gótikus Szent Gummarus-templom uralja a városképet, és jelentős történelmi súllyal bír, mivel királyi esküvőknek is otthont adott. A város megőrizte mélyen hagyományos, nyugodt flamand hangulatát, régi védőárkokkal körülvéve.",
+      ro: "Lier este un oraș istoric pitoresc situat în provincia Anvers, frumos amplasat la confluența râurilor Grote Nete și Kleine Nete. Orașul este adesea denumit „Pallieterstad”, onorând stilul de viață idilic descris în romanele autorului local Felix Timmermans. Centrul compact al orașului Lier prezintă o curte de Beguinage din secolul al XIII-lea, excepțional de bine conservată, caracterizată prin alei înguste pietruite și case tradiționale din cărămidă vopsite în alb, obținând statutul de Patrimoniu Mondial UNESCO. Un alt punct de reper major este Turnul Zimmer, care găzduiește un ceas astronomic complex ce demonstrează 13 cadrane diferite. Biserica gotică Sfântul Gummarus domină orizontul și are o greutate istorică semnificativă, găzduind nunți regale. Orașul păstrează o atmosferă flamandă profund tradițională și relaxată, fiind înconjurat de vechi șanțuri de apărare.",
+      en: "Lier is a picturesque historical city located in the province of Antwerp, beautifully situated where the Grote Nete and Kleine Nete rivers converge. The city is often referred to as 'Pallieterstad', honoring the idyllic lifestyle depicted in the novels of local author Felix Timmermans. Lier's compact city center features an exceptionally well-preserved 13th-century Beguinage, characterized by narrow cobblestone alleys and traditional white-painted brick houses, earning it UNESCO World Heritage status. Another major landmark is the Zimmer Tower, which houses an intricate astronomical clock demonstrating 13 different dials. The Gothic Saint Gummarus Church dominates the skyline and holds significant historical weight, having hosted royal weddings. The city retains a deeply traditional, relaxed Flemish atmosphere, surrounded by old defensive moats."
+    },
+    factsAdvanced: {
+      de: ["Lier is known as the 'Pallieterstad', named after the famous character created by local author Felix Timmermans.", "The city is situated at the confluence of the Grote Nete and Kleine Nete rivers.", "Lier's Zimmer Tower features a complex astronomical clock built in 1930.", "The Beguinage in Lier dates from the 13th century and is a recognized UNESCO World Heritage site.", "The city is famous for 'Liers vlaaike', a small, traditional tart pastry.", "In 1496, Philip the Handsome and Joanna of Castile were married in Lier's Saint Gummarus Church."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-lier-cities-v2.webp",
+},  {
     id: "belgium-lommel-cities-v2",
     type: "city",
-    name: { de: "Lommel", hu: "Lommel", ro: "Lommel", en: "Lommel" },
+    name: { de: "Lommel", hu: "Lommel", ro: "Lommel", en: "Lommel",
+image: "/poi-images/belgium-lommel-cities-v2.webp"
+},
     coords: [5.3077, 51.2306],
     coordinates: { lat: 51.2306, lng: 5.3077 },
     description: {
@@ -966,11 +1152,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sahara din Lommel (dune de nisip)", "Cimitir militar german", "Centrul de artă a sticlei Glashaus", "Centru de extracție a nisipului"],
       en: ["Lommel Sahara (dune landscape)", "German military cemetery", "House of Glass (art center)", "Center of sand extraction"],
     },
-    imageHint: "Lommel Sahara dunes and lake", image: "/poi-images/belgium-lommel-cities-v2.webp"},
-  {
+imageHint: "Lommel Sahara dunes and lake",
+    descriptionAdvanced: {
+      de: "Lommel ist eine geografisch ausgedehnte Gemeinde im nördlichsten Teil der Provinz Limburg an der Grenze zu den Niederlanden. Die Landschaft ist überwiegend vom Ökosystem der Kempen geprägt und weist ausgedehnte Kiefernwälder sowie die bemerkenswerte „Sahara von Lommel“ auf – eine einzigartige Mikrowüstenlandschaft, die durch den historischen Sandabbau entstanden ist und heute als bedeutendes Naturschutz- und Erholungsgebiet dient. Die Stadt nutzt ihren reichlich vorhandenen, hochwertigen Quarzsand, um eine bedeutende Glasherstellungsindustrie zu unterhalten, die kulturell im GlazenHuis, einem modernen Zentrum für Glaskunst im Stadtzentrum, gefeiert wird. Historisch gesehen ist Lommel von feierlicher Bedeutung als Standort des riesigen deutschen Soldatenfriedhofs Lommel, dem größten seiner Art in Westeuropa. Das Stadtgebiet selbst bietet ein modernes Handelszentrum, das von großen Wohn- und Erholungsgebieten umgeben ist.",
+      hu: "Lommel egy földrajzilag kiterjedt önkormányzat Limburg tartomány legészakibb részén, a holland határon. A tájat túlnyomórészt a Kempen ökoszisztéma határozza meg, kiterjedt fenyőerdőkkel és a figyelemre méltó „Lommeli Szaharával” – egy egyedülálló sivatagi mikrotájjal, amelyet a történelmi homokkitermelés hozott létre, és ma jelentős természetvédelmi és rekreációs területként szolgál. A város bőséges, kiváló minőségű kvarchomokját jelentős üveggyártó iparág fenntartására használja, amelyet kulturálisan a városközpontban található GlazenHuis, egy modern üvegművészeti központ ünnepel. Történelmileg Lommel ünnepélyes fontossággal bír a hatalmas lommeli német katonai temető helyszíneként, amely a legnagyobb a maga nemében Nyugat-Európában. Maga a városi terület egy modern kereskedelmi központot biztosít, amelyet nagy lakó- és szabadidős területek vesznek körül.",
+      ro: "Lommel este o municipalitate extinsă geografic în partea de nord a provinciei Limburg, la granița cu Țările de Jos. Peisajul este definit predominant de ecosistemul Campine, prezentând păduri extinse de pini și remarcabila „Sahara Lommel” – un micro-deșert unic creat de extracția istorică a nisipului, care acum servește drept rezervație naturală majoră și zonă de recreere. Orașul folosește nisipul său de cuarț abundent și de înaltă calitate pentru a susține o industrie semnificativă de fabricare a sticlei, sărbătorită cultural la GlazenHuis, un centru modern pentru arta sticlei în centrul orașului. Din punct de vedere istoric, Lommel are o importanță solemnă ca loc al vastului cimitir de război german Lommel, cel mai mare de acest gen din Europa de Vest. Zona urbană în sine oferă un centru comercial modern înconjurat de domenii rezidențiale și de recreere mari.",
+      en: "Lommel is a geographically extensive municipality in the northernmost part of the Limburg province, bordering the Netherlands. The landscape is predominantly defined by the Campine ecosystem, featuring expansive pine forests and the remarkable 'Lommel Sahara'—a unique micro-desert landscape created by historic sand extraction, now serving as a major nature reserve and recreational area. The city leverages its abundant, high-quality quartz sand to sustain a significant glass manufacturing industry, celebrated culturally at the GlazenHuis, a modern center for glass art in the city center. Historically, Lommel bears solemn importance as the site of the vast Lommel German war cemetery, the largest of its kind in Western Europe. The urban area itself provides a modern commercial center surrounded by large residential and recreational domains."
+    },
+    factsAdvanced: {
+      de: ["Lommel encompasses a large area of 102.37 square kilometers in the Campine region.", "The Lommel Sahara is a prominent nature reserve known for its large sandy plains and pine forests.", "The city is home to the largest German military cemetery outside of Germany, containing nearly 40,000 graves.", "Lommel hosts a major glass manufacturing industry, utilizing local high-quality quartz sand.", "Center Parcs De Vossemeren is a major holiday resort located within the municipality.", "The GlazenHuis is a contemporary glass art center located in the heart of the city."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-lommel-cities-v2.webp",
+},  {
     id: "belgium-nivelles-cities-v2",
     type: "city",
-    name: { de: "Nivelles", hu: "Nivelles", ro: "Nivelles", en: "Nivelles" },
+    name: { de: "Nivelles", hu: "Nivelles", ro: "Nivelles", en: "Nivelles",
+image: "/poi-images/belgium-nivelles-cities-v2.webp"
+},
     coords: [4.3231, 50.5977],
     coordinates: { lat: 50.5977, lng: 4.3231 },
     description: {
@@ -985,11 +1186,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Biserica colegială Sainte-Gertrude", "Arhitectură romanică pură", "Specialitatea Tarte al d'jote", "Fortificații istorice"],
       en: ["Collegiate Church of St. Gertrude", "Romanesque architectural gem", "Tarte al d'jote specialty", "Historic city fortifications"],
     },
-    imageHint: "Nivelles Collegiate Church of St. Gertrude", image: "/poi-images/belgium-nivelles-cities-v2.webp"},
-  {
+imageHint: "Nivelles Collegiate Church of St. Gertrude",
+    descriptionAdvanced: {
+      de: "Nivelles (Nijvel) ist eine geschichtsträchtige Stadt in der Provinz Wallonisch-Brabant, deren Ursprünge auf eine Abtei aus dem 7. Jahrhundert zurückgehen, die von der Heiligen Gertrud gegründet wurde. Die majestätische Stiftskirche Sainte-Gertrude, ein architektonisches Meisterwerk im reinen romanischen Stil, dominiert noch heute das Stadtzentrum. Sie ist eine der ältesten und größten romanischen Kirchen Europas und birgt in ihrer Krypta beeindruckende historische Schätze. Nivelles war im Mittelalter ein wichtiges religiöses und kommerzielles Zentrum, wovon die Reste der alten Stadtmauer zeugen. Die Stadt ist zudem landesweit für eine kulinarische Spezialität bekannt: die \"Tarte al d'jote\", eine herzhafte Torte aus Mangold, fermentiertem Käse (Boulette) und Butter, die auf eine über 800-jährige Tradition zurückblickt. Der idyllische Parc de la Dodaine bietet eine grüne Lunge nahe dem historischen Zentrum.",
+      hu: "Nivelles (Nijvel) egy történelmi város Vallon-Brabant tartományban, amelynek eredete egy 7. századi, Szent Gertrúd által alapított apátságra nyúlik vissza. A fenséges Szent Gertrúd-társszékesegyház, amely a tiszta román stílus építészeti mesterműve, ma is uralja a városközpontot. Ez Európa egyik legrégebbi és legnagyobb román stílusú temploma, és kriptájában lenyűgöző történelmi kincseket őriz. Nivelles a középkorban fontos vallási és kereskedelmi központ volt, amiről a régi városfal maradványai is tanúskodnak. A város országszerte híres egy kulináris specialitásáról: a \"Tarte al d'jote\"-ról, amely egy sós pite mángoldból, erjesztett sajtból (boulette) és vajból, amelynek hagyománya több mint 800 évre tekint vissza. Az idilli Parc de la Dodaine zöld tüdőként szolgál a történelmi központ közelében.",
+      ro: "Nivelles (Nijvel) este un oraș istoric din provincia Brabantul Valon, ale cărui origini datează de la o abație din secolul al VII-lea fondată de Sfânta Gertruda. Majestuoasa Biserică Colegială Sainte-Gertrude, o capodoperă arhitecturală în stil romanic pur, domină și astăzi centrul orașului. Este una dintre cele mai vechi și mai mari biserici romanice din Europa și adăpostește comori istorice impresionante în cripta sa. Nivelles a fost un important centru religios și comercial în Evul Mediu, lucru dovedit de rămășițele vechiului zid al orașului. Orașul este faimos și la nivel național pentru o specialitate culinară: \"Tarte al d'jote\", o tartă sărată făcută din mangold, brânză fermentată (boulette) și unt, care are o tradiție de peste 800 de ani. Idilicul Parc de la Dodaine oferă un plămân verde în apropierea centrului istoric.",
+      en: "Nivelles (Nijvel) is a historic city in the province of Walloon Brabant, whose origins trace back to a 7th-century abbey founded by Saint Gertrude. The majestic Collegiate Church of Sainte-Gertrude, an architectural masterpiece in pure Romanesque style, still dominates the city center today. It is one of the oldest and largest Romanesque churches in Europe and houses impressive historical treasures in its crypt. Nivelles was an important religious and commercial center in the Middle Ages, as evidenced by the remains of the old city wall. The city is also nationally famous for a culinary specialty: the \"Tarte al d'jote,\" a savory tart made from Swiss chard, fermented cheese (boulette), and butter, which boasts a tradition spanning over 800 years. The idyllic Parc de la Dodaine offers a green lung close to the historic center."
+    },
+    factsAdvanced: {
+      de: ["The Collegiate Church of Saint Gertrude was consecrated in 1046", "Features an automaton known as 'Jean de Nivelles' on the church tower", "The Tarte al d'jote received an official quality label in 1980", "Served as a key center of the Carolingian empire in the 7th century", "The Parc de la Dodaine was established in the 19th century covering 17 hectares", "Heavily bombarded and significantly damaged during the German invasion in 1940", "The church crypt contains archaeological remains from Merovingian and Carolingian periods"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-nivelles-cities-v2.webp",
+},  {
     id: "belgium-binche-cities-v2",
     type: "city",
-    name: { de: "Binche", hu: "Binche", ro: "Binche", en: "Binche" },
+    name: { de: "Binche", hu: "Binche", ro: "Binche", en: "Binche",
+image: "/poi-images/belgium-binche-cities-v2.webp"
+},
     coords: [4.1664, 50.4116],
     coordinates: { lat: 50.4116, lng: 4.1664 },
     description: {
@@ -1004,11 +1220,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Carnavalul din Binche (UNESCO)", "Personajele Gilles de Binche", "Ziduri medievale de apărare", "Muzeul Internațional al Măștii"],
       en: ["Carnival of Binche (UNESCO)", "Gilles of Binche characters", "Medieval city walls", "International Mask Museum"],
     },
-    imageHint: "Binche Carnival Gilles characters", image: "/poi-images/belgium-binche-cities-v2.webp"},
-  {
+imageHint: "Binche Carnival Gilles characters",
+    descriptionAdvanced: {
+      de: "Binche ist eine bezaubernde mittelalterliche Stadt in der wallonischen Provinz Hennegau, die international für ihre lebendige Folklore und reiche Geschichte gefeiert wird. Das unumstrittene Highlight der Stadt ist der Karneval von Binche, ein tief verwurzeltes, jahrhundertealtes Fest, das von der UNESCO zum Meisterwerk des mündlichen und immateriellen Erbes der Menschheit ernannt wurde. Am Fastnachtsdienstag ziehen Hunderte von \"Gilles\" – Männer in farbenfrohen, mit Stroh ausgestopften Kostümen, Holzschuhen und großen Straußenfederhüten – durch die Straßen und werfen Orangen in die Menge. Die Stadt selbst hat ihr mittelalterliches Flair außergewöhnlich gut bewahrt; sie ist die einzige Stadt in Belgien, deren historische Stadtmauer aus dem 12. Jahrhundert mit ihren Wachtürmen nahezu vollständig erhalten ist. Das Internationale Masken- und Karnevalsmuseum im Herzen der Stadt dokumentiert diese faszinierenden Traditionen weltweit.",
+      hu: "Binche egy varázslatos középkori város a vallóniai Hainaut tartományban, amelyet nemzetközileg élénk folklórjáért és gazdag történelméért ünnepelnek. A város vitathatatlan fénypontja a binche-i karnevál, egy mélyen gyökerező, évszázados ünnep, amelyet az UNESCO az emberiség szellemi kulturális örökségének mesterművévé nyilvánított. Húshagyókedden \"Gilles\" figurák százai – színes, szalmával kitömött jelmezeket, fapapucsot és nagy strucctollas kalapot viselő férfiak – vonulnak végig az utcákon, és narancsot dobálnak a tömegbe. Maga a város rendkívül jól megőrizte középkori hangulatát; ez az egyetlen város Belgiumban, amelynek 12. századi történelmi városfala őrtornyaival szinte teljes egészében fennmaradt. A város szívében található Nemzetközi Maszk- és Karneválmúzeum világszerte dokumentálja ezeket a lenyűgöző hagyományokat.",
+      ro: "Binche este un fermecător oraș medieval din provincia valonă Hainaut, celebrat la nivel internațional pentru folclorul său plin de viață și istoria sa bogată. Atracția incontestabilă a orașului este Carnavalul din Binche, o sărbătoare profund înrădăcinată, veche de secole, care a fost recunoscută de UNESCO drept o Capodoperă a Patrimoniului Oral și Imaterial al Umanității. În lăsata secului, sute de „Gilles” – bărbați îmbrăcați în costume colorate umplute cu paie, purtând saboți de lemn și pălării mari cu pene de struț – defilează pe străzi aruncând portocale în mulțime. Orașul în sine și-a păstrat extraordinar de bine farmecul medieval; este singurul oraș din Belgia ai cărui pereți istorici din secolul al XII-lea, cu turnurile lor de veghe, s-au păstrat aproape în întregime. Muzeul Internațional al Măștii și Carnavalului din inima orașului documentează aceste tradiții fascinante din întreaga lume.",
+      en: "Binche is a charming medieval city in the Walloon province of Hainaut, celebrated internationally for its vibrant folklore and rich history. The undisputed highlight of the city is the Carnival of Binche, a deeply rooted, centuries-old festival that has been recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity. On Shrove Tuesday, hundreds of \"Gilles\"—men dressed in colorful, straw-stuffed costumes, wooden clogs, and large ostrich-feather hats—parade through the streets throwing oranges into the crowd. The city itself has exceptionally well preserved its medieval flair; it is the only city in Belgium whose historic 12th-century city walls, complete with watchtowers, are almost completely preserved. The International Museum of the Mask and Carnival in the heart of the city documents these fascinating traditions worldwide."
+    },
+    factsAdvanced: {
+      de: ["The city walls are 2.1 kilometers long, featuring 27 towers", "The Carnival of Binche was designated an Intangible Cultural Heritage by UNESCO in 2003", "Mary of Hungary built a magnificent Renaissance palace here in 1545", "The belfry of Binche is a UNESCO World Heritage site", "Only men born in Binche are allowed to participate as 'Gilles' during the carnival", "Produced high-quality lace and textiles during the 19th century", "The town hall dates back to the 14th century, blending Gothic and Renaissance styles"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-binche-cities-v2.webp",
+},  {
     id: "belgium-wavre-cities-v2",
     type: "city",
-    name: { de: "Waver", hu: "Wavre", ro: "Wavre", en: "Wavre" },
+    name: { de: "Waver", hu: "Wavre", ro: "Wavre", en: "Wavre",
+image: "/poi-images/belgium-wavre-cities-v2.webp"
+},
     coords: [4.6079, 50.7171],
     coordinates: { lat: 50.7171, lng: 4.6079 },
     description: {
@@ -1023,11 +1254,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Parcul de distracții Walibi Belgium", "Bătălia de la Wavre (1815)", "Capitala Brabantului Valon", "Biserica Sfântul Ioan Botezătorul"],
       en: ["Walibi Belgium theme park", "Battle of Wavre (1815)", "Capital of Walloon Brabant", "Church of St. John the Baptist"],
     },
-    imageHint: "Wavre city hall and church", image: "/poi-images/belgium-wavre-cities-v2.webp"},
-  {
+imageHint: "Wavre city hall and church",
+    descriptionAdvanced: {
+      de: "Wavre (Waver) ist die lebendige Hauptstadt der jungen Provinz Wallonisch-Brabant und liegt idyllisch im Tal der Dijle. Historisch erlangte die Stadt Bedeutung durch die \"Schlacht bei Wavre\", die parallel zur Schlacht von Waterloo im Juni 1815 stattfand und das Schicksal Europas mitprägte. Die historische St.-Johannes-der-Täufer-Kirche bewahrt eine Kanonenkugel aus dieser Schlacht in ihrem Mauerwerk. Heute ist Wavre eine florierende und wirtschaftlich aufstrebende Stadt, die oft als \"Stadt der Maca\" (dem Symboltier der Stadt, einem schelmischen Jungen) bezeichnet wird. International am bekanntesten ist die Stadt jedoch als Standort von Walibi Belgium, einem der größten und beliebtesten Freizeitparks des Landes, sowie dem dazugehörigen Wasserpark Aqualibi. Wavre bietet eine gelungene Mischung aus historischen Spuren, modernen Einkaufsstraßen und familienfreundlichen Attraktionen.",
+      hu: "Wavre (Waver) a fiatal Vallon-Brabant tartomány nyüzsgő fővárosa, amely idillikusan a Dijle völgyében fekszik. Történelmileg a város a \"wavre-i csata\" révén vált jelentőssé, amely a waterlooi csatával párhuzamosan zajlott 1815 júniusában, és hozzájárult Európa sorsának alakulásához. A történelmi Keresztelő Szent János-templom ma is őriz egy ágyúgolyót ebből a csatából a falaiban. Ma Wavre egy virágzó és gazdaságilag feltörekvő város, amelyet gyakran a \"Maca városának\" is neveznek (a város szimbóluma, egy csintalan fiú után). Nemzetközileg azonban a város leginkább a Walibi Belgium, az ország egyik legnagyobb és legnépszerűbb vidámparkja, valamint a hozzá tartozó Aqualibi vízipark helyszíneként ismert. Wavre a történelmi nyomok, a modern bevásárlóutcák és a családbarát látványosságok sikeres keverékét kínálja.",
+      ro: "Wavre (Waver) este capitala plină de viață a tinerei provincii Brabantul Valon, situată idilic în valea râului Dijle. Istoric, orașul a câștigat importanță prin „Bătălia de la Wavre”, care a avut loc în paralel cu Bătălia de la Waterloo în iunie 1815 și a contribuit la modelarea destinului Europei. Biserica istorică Sfântul Ioan Botezătorul păstrează o ghiulea de tun din acea bătălie înscastrată în zidăria sa. Astăzi, Wavre este un oraș prosper și în plină ascensiune economică, adesea numit „Orașul lui Maca” (simbolul orașului, un băiat neastâmpărat). Cu toate acestea, pe plan internațional, orașul este cel mai bine cunoscut ca locație a Walibi Belgium, unul dintre cele mai mari și mai populare parcuri de distracții din țară, împreună cu parcul acvatic Aqualibi asociat. Wavre oferă un amestec reușit de vestigii istorice, străzi comerciale moderne și atracții pentru familii.",
+      en: "Wavre (Waver) is the lively capital of the young province of Walloon Brabant, idyllically situated in the Dijle valley. Historically, the city gained significance through the \"Battle of Wavre,\" which took place parallel to the Battle of Waterloo in June 1815 and helped shape the destiny of Europe. The historic Church of St. John the Baptist still preserves a cannonball from this battle embedded in its masonry. Today, Wavre is a flourishing and economically ascending city, often referred to as the \"City of the Maca\" (the city's symbol, a mischievous boy). Internationally, however, the city is best known as the location of Walibi Belgium, one of the largest and most popular amusement parks in the country, along with the associated Aqualibi water park. Wavre offers a successful blend of historical traces, modern shopping streets, and family-friendly attractions."
+    },
+    factsAdvanced: {
+      de: ["The Battle of Wavre took place from June 18 to June 19, 1815", "Became the capital of the newly created Walloon Brabant province in 1995", "Walibi Belgium amusement park opened here in 1975", "The Church of St. John the Baptist was built in 1476 in the Gothic style", "A major broadcasting center emitting signal for RTBF and other networks is located here", "The 'Jeu de Jean et Alice' is a traditional play performed every five years", "The city suffered major destruction during a devastating fire in 1489"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-wavre-cities-v2.webp",
+},  {
     id: "belgium-arlon-cities-v2",
     type: "city",
-    name: { de: "Arlon", hu: "Arlon", ro: "Arlon", en: "Arlon" },
+    name: { de: "Arlon", hu: "Arlon", ro: "Arlon", en: "Arlon",
+image: "/poi-images/belgium-arlon-cities-v2.webp"
+},
     coords: [5.8167, 49.6833],
     coordinates: { lat: 49.6833, lng: 5.8167 },
     description: {
@@ -1042,11 +1288,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Belgia (roman)", "Muzeul de Arheologie", "Biserica Saint-Donat pe deal", "Capitala provinciei Luxemburg"],
       en: ["Oldest city in Belgium (Roman)", "Archaeological Museum", "St. Donat's Church on the hill", "Capital of Luxembourg province"],
     },
-    imageHint: "Arlon St. Donat's Church on hill", image: "/poi-images/belgium-arlon-cities-v2.webp"},
-  {
+imageHint: "Arlon St. Donat's Church on hill",
+    descriptionAdvanced: {
+      de: "Arlon (Arel) ist die malerische Hauptstadt der Provinz Luxemburg und teilt sich mit Tongeren den Titel als eine der ältesten Städte Belgiens. Die Stadt hat tief verwurzelte gallo-römische Ursprünge; das Archäologische Museum von Arlon beherbergt eine der reichsten Sammlungen römischer Artefakte in Europa, insbesondere eine beeindruckende Vielzahl an skulptierten Grabmonumenten und Reliefs, die das antike Alltagsleben detailliert dokumentieren. Das Stadtbild wird von der auf dem Oron-Hügel thronenden St.-Donatus-Kirche (Église Saint-Donat) geprägt, von deren Belvedere man einen herrlichen Panoramablick über das Dreiländereck (Belgien, Frankreich, Luxemburg) hat. Arlon ist zudem für seinen traditionellen \"Maitrank\" berühmt, einen süßen Aperitif aus Weißwein, der mit Waldmeister infundiert wird. Diese historische Stadt verbindet charmante Altstadtgassen mit einer tiefen historischen Bedeutung.",
+      hu: "Arlon (Arel) Luxemburg tartomány festői fővárosa, amely Tongerennel osztozik Belgium egyik legrégebbi városának címén. A város mélyen gyökerező gall-római eredettel rendelkezik; az Arloni Régészeti Múzeum Európa egyik leggazdagabb római kori leletgyűjteményének ad otthont, különösen a faragott síremlékek és domborművek lenyűgöző sokaságának, amelyek részletesen dokumentálják az ókori mindennapi életet. A városképet az Oron-dombon magasodó Szent Donát-templom (Église Saint-Donat) uralja, amelynek kilátójából csodálatos panoráma nyílik a hármashatárra (Belgium, Franciaország, Luxemburg). Arlon emellett híres a hagyományos \"Maitrank\"-járól, amely egy szagosmügével (erdei mester) ízesített, édes fehérboros aperitif. Ez a történelmi város a bájos óvárosi utcákat mély történelmi jelentőséggel ötvözi.",
+      ro: "Arlon (Arel) este capitala pitorească a provinciei Luxemburg și împarte cu Tongeren titlul de unul dintre cele mai vechi orașe din Belgia. Orașul are origini galo-romane adânc înrădăcinate; Muzeul Arheologic din Arlon adăpostește una dintre cele mai bogate colecții de artefacte romane din Europa, în special o varietate impresionantă de monumente funerare sculptate și reliefuri care documentează în detaliu viața antică de zi cu zi. Peisajul urban este dominat de Biserica Sfântul Donat (Église Saint-Donat), situată pe dealul Oron, al cărei belvedere oferă o vedere panoramică magnifică asupra graniței a trei țări (Belgia, Franța, Luxemburg). Arlon este, de asemenea, renumit pentru tradiționalul său „Maitrank”, un aperitiv dulce obținut din vin alb infuzat cu vinariță (Waldmeister). Acest oraș istoric combină străduțele fermecătoare ale orașului vechi cu o semnificație istorică profundă.",
+      en: "Arlon (Arel) is the picturesque capital of the Luxembourg province and shares with Tongeren the title of one of the oldest cities in Belgium. The city has deeply rooted Gallo-Roman origins; the Archaeological Museum of Arlon houses one of the richest collections of Roman artifacts in Europe, particularly an impressive variety of sculptured funerary monuments and reliefs that document ancient everyday life in detail. The cityscape is dominated by St. Donat's Church (Église Saint-Donat), perched on the Oron hill, from whose belvedere one has a magnificent panoramic view over the tri-border area (Belgium, France, Luxembourg). Arlon is also famous for its traditional \"Maitrank,\" a sweet aperitif made from white wine infused with sweet woodruff. This historic city combines charming old town streets with deep historical significance."
+    },
+    factsAdvanced: {
+      de: ["Considered one of Belgium's two oldest cities, established as Orolaunum around 54 BC", "The Archaeological Museum contains over 400 Roman sculptured stones", "St. Donat's Church was built in the 17th century on the site of a medieval castle", "The city became the capital of the Belgian province of Luxembourg in 1839", "The 'Maitrank' festival is celebrated annually on the fourth weekend of May", "Contains a well-preserved Roman bathhouse discovered in the 20th century", "Located only 5 kilometers from the border with the Grand Duchy of Luxembourg"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-arlon-cities-v2.webp",
+},  {
     id: "belgium-heist-op-den-berg-cities-v2",
     type: "town",
-    name: { de: "Heist-op-den-berg", hu: "Heist-op-den-berg", ro: "Heist-op-den-berg", en: "Heist-op-den-berg" },
+    name: { de: "Heist-op-den-berg", hu: "Heist-op-den-berg", ro: "Heist-op-den-berg", en: "Heist-op-den-berg",
+image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp"
+},
     coords: [4.7291, 51.0763],
     coordinates: { lat: 51.0763, lng: 4.7291 },
     description: {
@@ -1061,11 +1322,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Situat pe un deal de 48m", "Piață celebră de duminică", "Centru al regiunii Zuiderkempen", "Turn de apă istoric"],
       en: ["Located on a 48m high hill", "Famous Sunday market", "Center of the Zuiderkempen region", "Historic water tower"],
     },
-    imageHint: "Heist-op-den-Berg church on the hill", image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp"},
-  {
+imageHint: "Heist-op-den-Berg church on the hill",
+    descriptionAdvanced: {
+      de: "Heist-op-den-Berg ist eine weitläufige Gemeinde in der flämischen Provinz Antwerpen, die sich durch eine einzigartige geografische Eigenschaft auszeichnet: Das historische Zentrum der Stadt liegt auf einem 48 Meter hohen, bewaldeten Hügel (\"den Berg\"), einer seltenen Erhebung in der ansonsten flachen Landschaft der Kempen-Region. Von diesem Hügel aus bietet sich ein herrlicher Blick über die Umgebung. Auf dem Gipfel befindet sich ein alter, charakteristischer Wasserturm sowie die historische St.-Lambertus-Kirche. Am Fuße des Hügels breitet sich das moderne und geschäftige Heist aus. Die Stadt ist regional berühmt für ihren sonntäglichen Trödel- und Antiquitätenmarkt, der als einer der größten und ältesten Wochenmärkte Belgiens gilt und wöchentlich Tausende von Besuchern anlockt. Heist-op-den-Berg verbindet dörflichen Charme mit einer reichen Geschichte und lebendigen Handelstraditionen.",
+      hu: "Heist-op-den-Berg egy kiterjedt település a flamand Antwerpen tartományban, amelyet egy egyedülálló földrajzi sajátosság jellemez: a város történelmi központja egy 48 méter magas, erdős dombon (\"den Berg\") fekszik, amely ritka kiemelkedés a Kempen-régió egyébként sík vidékén. Erről a dombról csodálatos kilátás nyílik a környékre. A csúcson található egy régi, jellegzetes víztorony, valamint a történelmi Szent Lambert-templom. A domb lábánál terül el a modern és nyüzsgő Heist. A város regionálisan híres a vasárnapi bolhapiacáról és régiségpiacáról, amely Belgium egyik legnagyobb és legrégebbi heti piaca, és hetente látogatók ezreit vonzza. Heist-op-den-Berg ötvözi a falusias bájt a gazdag történelemmel és az élénk kereskedelmi hagyományokkal.",
+      ro: "Heist-op-den-Berg este o comună întinsă în provincia flamandă Anvers, care se distinge printr-o caracteristică geografică unică: centrul istoric al orașului este situat pe un deal împădurit înalt de 48 de metri (\"den Berg\"), o elevație rară în peisajul altfel plat al regiunii Kempen. De pe acest deal se oferă o priveliște magnifică asupra împrejurimilor. În vârf se află un vechi turn de apă caracteristic și istorica Biserică Sfântul Lambert. La poalele dealului se întinde modernul și aglomeratul Heist. Orașul este faimos la nivel regional pentru piața sa duminicală de vechituri și antichități, care este considerată una dintre cele mai mari și mai vechi piețe săptămânale din Belgia și atrage mii de vizitatori în fiecare săptămână. Heist-op-den-Berg combină farmecul rustic cu o istorie bogată și tradiții comerciale vibrante.",
+      en: "Heist-op-den-Berg is a sprawling municipality in the Flemish province of Antwerp, characterized by a unique geographical feature: the historic center of the town is situated on a 48-meter-high, wooded hill (\"den Berg\"), a rare elevation in the otherwise flat landscape of the Kempen region. From this hill, there is a magnificent view over the surroundings. At the summit sits an old, distinctive water tower as well as the historic St. Lambert's Church. At the foot of the hill spreads the modern and bustling Heist. The town is regionally famous for its Sunday flea and antiques market, which is considered one of the largest and oldest weekly markets in Belgium and attracts thousands of visitors every week. Heist-op-den-Berg combines village charm with a rich history and vibrant commercial traditions."
+    },
+    factsAdvanced: {
+      de: ["The town center sits exactly 48 meters above sea level on a natural hill", "The Sunday market has operated consistently since the early 20th century", "The historic water tower is a prominent local landmark standing 30 meters high", "Known as the cultural capital of the Zuiderkempen (Southern Kempen) region", "The Pelgrimsmuseum is dedicated to regional history and heritage", "The municipality includes six distinct villages, covering over 86 square kilometers", "St. Lambert's Church traces its earliest foundations to the 14th century"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp",
+},  {
     id: "belgium-tongeren-cities-v2",
     type: "city",
-    name: { de: "Tongeren", hu: "Tongeren", ro: "Tongres", en: "Tongeren" },
+    name: { de: "Tongeren", hu: "Tongeren", ro: "Tongres", en: "Tongeren",
+image: "/poi-images/belgium-tongeren-cities-v2.webp"
+},
     coords: [5.4639, 50.7806],
     coordinates: { lat: 50.7806, lng: 5.4639 },
     description: {
@@ -1080,11 +1356,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Belgia", "Statuia lui Ambiorix", "Cea mai mare piață de antichități din Benelux", "Bazilica Notre-Dame (UNESCO)"],
       en: ["Oldest city in Belgium", "Ambiorix monument", "Largest antiques market in Benelux", "UNESCO-listed Basilica of Our Lady"],
     },
-    imageHint: "Tongeren Ambiorix statue and basilica", image: "/poi-images/belgium-tongeren-cities-v2.webp"},
-  {
+imageHint: "Tongeren Ambiorix statue and basilica",
+    descriptionAdvanced: {
+      de: "Tongeren (Tongres) in der Provinz Limburg rühmt sich, die älteste Stadt Belgiens zu sein. Ihre Ursprünge gehen auf das Jahr 15 v. Chr. zurück, als die Römer die Siedlung \"Atuatuca Tungrorum\" gründeten. Diese reiche antike Vergangenheit ist in der ganzen Stadt allgegenwärtig, am eindrucksvollsten im exzellenten Gallo-Römischen Museum, das eine umfangreiche Sammlung archäologischer Funde aus der Region präsentiert. Ein markantes Wahrzeichen von Tongeren ist die Statue des Eburonen-Königs Ambiorix auf dem Marktplatz, der einst Julius Cäsar eine empfindliche Niederlage zufügte. Die gotische Liebfrauenbasilika mit ihrem beeindruckenden Schatzhaus dominiert das Stadtzentrum. Ein weiteres Highlight ist der Beginenhof aus dem 13. Jahrhundert. Weltweit bekannt ist Tongeren heute zudem für seinen sonntäglichen Antiquitätenmarkt, den größten in den Benelux-Ländern, der wöchentlich Tausende von Sammlern und Touristen anzieht.",
+      hu: "Tongeren (Tongres) Limburg tartományban azzal büszkélkedhet, hogy Belgium legrégebbi városa. Eredete a Krisztus előtti 15. évre nyúlik vissza, amikor a rómaiak megalapították az \"Atuatuca Tungrorum\" nevű települést. Ez a gazdag ókori múlt az egész városban jelen van, a leglátványosabban a kiváló Gall-Római Múzeumban, amely a régió régészeti leleteinek kiterjedt gyűjteményét mutatja be. Tongeren egyik meghatározó jelképe Ambiorix eburon király szobra a piactéren, aki egykor súlyos vereséget mért Julius Caesarra. A gótikus Miasszonyunk-bazilika lenyűgöző kincstárával uralja a városközpontot. Egy másik fénypont a 13. századi beginaudvar. Világszerte ismert ma Tongeren ezenkívül vasárnapi régiségpiacáról, amely a legnagyobb a Benelux-államokban, és hetente gyűjtők és turisták ezreit vonzza.",
+      ro: "Tongeren (Tongres) din provincia Limburg se mândrește cu faptul că este cel mai vechi oraș din Belgia. Originile sale datează din anul 15 î.Hr., când romanii au fondat așezarea \"Atuatuca Tungrorum\". Acest trecut antic bogat este omniprezent în întregul oraș, cel mai impresionant fiind expus în excelentul Muzeu Galo-Roman, care prezintă o colecție vastă de descoperiri arheologice din regiune. Un punct de reper marcant al orașului Tongeren este statuia regelui eburonilor, Ambiorix, din piața centrală, cel care i-a provocat odată o înfrângere usturătoare lui Iulius Cezar. Bazilica gotică a Maicii Domnului, cu comoara sa impresionantă, domină centrul orașului. Un alt punct de atracție este curtea Beguinage din secolul al XIII-lea. Astăzi, Tongeren este faimos în întreaga lume și pentru piața sa duminicală de antichități, cea mai mare din țările Benelux, care atrage săptămânal mii de colecționari și turiști.",
+      en: "Tongeren (Tongres) in the province of Limburg boasts of being the oldest city in Belgium. Its origins date back to 15 BC, when the Romans founded the settlement \"Atuatuca Tungrorum.\" This rich ancient past is omnipresent throughout the city, most impressively in the excellent Gallo-Roman Museum, which presents an extensive collection of archaeological finds from the region. A striking landmark of Tongeren is the statue of the Eburone king Ambiorix on the market square, who once inflicted a severe defeat on Julius Caesar. The Gothic Basilica of Our Lady, with its impressive treasury, dominates the city center. Another highlight is the 13th-century Beguinage. Today, Tongeren is also known worldwide for its Sunday antiques market, the largest in the Benelux countries, which attracts thousands of collectors and tourists every week."
+    },
+    factsAdvanced: {
+      de: ["Recognized as the oldest town in Belgium, founded in 15 BC", "The Gallo-Roman Museum was named European Museum of the Year in 2011", "The statue of Ambiorix was erected on the main square in 1866", "Features well-preserved Roman city walls dating back to the 2nd century", "The Gothic Basilica of Our Lady took over 300 years to build", "The Tongeren flea and antiques market is the largest in the Benelux", "A significant center for the Prince-Bishopric of Liège during the Middle Ages"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-tongeren-cities-v2.webp",
+},  {
     id: "belgium-dinant-cities-v2",
     type: "city",
-    name: { de: "Dinant", hu: "Dinant", ro: "Dinant", en: "Dinant" },
+    name: { de: "Dinant", hu: "Dinant", ro: "Dinant", en: "Dinant",
+image: "/poi-images/belgium-dinant-cities-v2.webp"
+},
     coords: [4.9116, 50.2581],
     coordinates: { lat: 50.2581, lng: 4.9116 },
     description: {
@@ -1099,11 +1390,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Adolphe Sax", "Citadela pe stâncă", "Biserica colegială Notre-Dame", "Celebru pentru biscuiții Couques de Dinant"],
       en: ["Birthplace of Adolphe Sax", "Citadel high on the cliff", "Collegiate Church of Notre-Dame", "Famous for 'Couques de Dinant' biscuits"],
     },
-    imageHint: "Dinant citadel and church on the Meuse", image: "/poi-images/belgium-dinant-cities-v2.webp"},
-  {
+imageHint: "Dinant citadel and church on the Meuse",
+    descriptionAdvanced: {
+      de: "Dinant ist zweifellos eine der fotogensten und malerischsten Städte Belgiens, gelegen in der Provinz Namur in der Region Wallonie. Die Stadt zwängt sich spektakulär zwischen die steilen Kalksteinklippen und das Ufer der Maas. Hoch über der Stadt thront die weithin sichtbare Zitadelle von Dinant, die man entweder über 408 in den Fels gehauene Stufen oder bequem per Seilbahn erreichen kann; sie bietet einen atemberaubenden Blick über das Flusstal. Am Fuße des Felsens beeindruckt die markante Zwiebelkuppel der gotischen Stiftskirche Notre-Dame. Dinant ist weltberühmt als Geburtsort von Adolphe Sax, dem Erfinder des Saxophons. Ihm zu Ehren ist das Stadtbild mit bunten Saxophon-Skulpturen geschmückt, und sein Geburtshaus ist heute ein kleines Museum. Kulinarisch ist die Stadt für die \"Couque de Dinant\" bekannt, einen extrem harten, aus Mehl und Honig gebackenen Keks, der oft als Kunstwerk geformt ist.",
+      hu: "Dinant kétségtelenül Belgium egyik legfotogénebb és legfestőibb városa, amely Namur tartományban, Vallónia régióban található. A város látványosan beékelődik a meredek mészkősziklák és a Meuse folyó partja közé. A város fölé magasodik a messziről is jól látható dinanti citadella, amelyet a sziklába vájt 408 lépcsőfokon vagy kényelmesen, drótkötélpályán lehet megközelíteni; innen lélegzetelállító kilátás nyílik a folyóvölgyre. A szikla lábánál a gótikus Notre-Dame társaskáptalani templom jellegzetes hagyma alakú kupolája nyűgözi le a látogatókat. Dinant világhírű mint Adolphe Sax, a szaxofon feltalálójának szülőhelye. Tiszteletére a városképet színes szaxofonszobrok díszítik, szülőháza pedig ma egy kis múzeum. Kulináris szempontból a város a \"Couque de Dinant\"-ról ismert, amely egy lisztből és mézből sütött rendkívül kemény keksz, és amelyet gyakran műalkotássá formálnak.",
+      ro: "Dinant este, fără îndoială, unul dintre cele mai fotogenice și mai pitorești orașe din Belgia, situat în provincia Namur din regiunea Valonia. Orașul se strecoară spectaculos între stâncile abrupte de calcar și malurile râului Meuse. Deasupra orașului se înalță Citadela din Dinant, vizibilă de departe, la care se poate ajunge fie urcând 408 trepte săpate în stâncă, fie confortabil cu telecabina; aceasta oferă o priveliște uluitoare asupra văii râului. La poalele stâncii, cupola în formă de bulb a Bisericii Colegiale gotice Notre-Dame impresionează privitorii. Dinant este faimos în întreaga lume ca locul de naștere al lui Adolphe Sax, inventatorul saxofonului. În onoarea sa, peisajul urban este decorat cu sculpturi colorate de saxofoane, iar casa în care s-a născut este astăzi un mic muzeu. Din punct de vedere culinar, orașul este cunoscut pentru \"Couque de Dinant\", un biscuit extrem de tare copt din făină și miere, adesea modelat ca o operă de artă.",
+      en: "Dinant is undoubtedly one of the most photogenic and picturesque cities in Belgium, located in the province of Namur in the Wallonia region. The city squeezes spectacularly between the steep limestone cliffs and the banks of the Meuse river. Towering high above the city is the highly visible Citadel of Dinant, which can be reached either via 408 steps carved into the rock or comfortably by cable car; it offers a breathtaking view over the river valley. At the foot of the rock, the striking onion dome of the Gothic Collegiate Church of Notre-Dame impresses onlookers. Dinant is world-famous as the birthplace of Adolphe Sax, the inventor of the saxophone. In his honor, the cityscape is decorated with colorful saxophone sculptures, and the house where he was born is now a small museum. Culinarily, the city is known for the \"Couque de Dinant,\" an extremely hard biscuit baked from flour and honey, often shaped as a work of art."
+    },
+    factsAdvanced: {
+      de: ["Birthplace of Adolphe Sax, the inventor of the saxophone, born in 1814", "The Citadel of Dinant stands 100 meters above the Meuse river", "The Gothic Collegiate Church of Notre-Dame is famous for its pear-shaped bell tower", "The 'Couque de Dinant' is a rock-hard biscuit made only of wheat flour and honey", "Heavily impacted during the Sack of Dinant by the German army in August 1914", "Charles de Gaulle was wounded here during the Battle of Dinant in 1914", "The Rocher Bayard is a spectacular 40-meter-high needle of rock splitting the road"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-dinant-cities-v2.webp",
+},  {
     id: "belgium-bastogne-cities-v2",
     type: "town",
-    name: { de: "Bastogne", hu: "Bastogne", ro: "Bastogne", en: "Bastogne" },
+    name: { de: "Bastogne", hu: "Bastogne", ro: "Bastogne", en: "Bastogne",
+image: "/poi-images/belgium-bastogne-cities-v2.webp"
+},
     coords: [5.7144, 50.0011],
     coordinates: { lat: 50.0011, lng: 5.7144 },
     description: {
@@ -1118,11 +1424,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Locul Bătăliei din Ardeni", "Monumentul Mardasson", "Bastogne War Museum", "Poartă către regiunea Hautes Fagnes"],
       en: ["Site of the Battle of the Bulge", "Mardasson Memorial", "Bastogne War Museum", "Gateway to the High Fens"],
     },
-    imageHint: "Bastogne Mardasson Memorial", image: "/poi-images/belgium-bastogne-cities-v2.webp"},
-  {
+imageHint: "Bastogne Mardasson Memorial",
+    descriptionAdvanced: {
+      de: "Bastogne (Bastenach) ist eine historisch überaus bedeutsame Stadt in der Provinz Luxemburg, tief im Herzen der Ardennen gelegen. Weltweite Bekanntheit erlangte Bastogne durch die Ardennenoffensive im Winter 1944/1945 während des Zweiten Weltkriegs. Die Stadt war ein entscheidender Verkehrsknotenpunkt und wurde von amerikanischen Truppen (der 101. Luftlandedivision) unter dem Kommando von General McAuliffe heldenhaft gegen die Belagerung der deutschen Wehrmacht verteidigt. An diese Schlacht erinnern heute zahlreiche Denkmäler und Museen. Das bekannteste ist das sternförmige Mardasson-Denkmal, das die Namen der gefallenen amerikanischen Soldaten ehrt, sowie das hochmoderne \"Bastogne War Museum\", das interaktive Einblicke in die Ereignisse bietet. Umgeben von ausgedehnten Wäldern und Hügeln der Ardennen, ist Bastogne heute auch ein beliebtes Zentrum für Naturtourismus und Outdoor-Aktivitäten.",
+      hu: "Bastogne (Bastenach) egy történelmileg rendkívül fontos város Luxemburg tartományban, mélyen az Ardennek szívében. Bastogne a második világháború alatti, 1944/1945 telén zajló ardenneki offenzíva révén tett szert világhírnévre. A város kulcsfontosságú közlekedési csomópont volt, és az amerikai csapatok (a 101. légideszant hadosztály) McAuliffe tábornok parancsnoksága alatt hősiesen védték a német Wehrmacht ostroma ellen. Erre a csatára ma számos emlékmű és múzeum emlékeztet. A legismertebb a csillag alakú Mardasson-emlékmű, amely az elesett amerikai katonák neveit őrzi, valamint a rendkívül modern \"Bastogne War Museum\" (Háborús Múzeum), amely interaktív bepillantást nyújt az eseményekbe. Az Ardennek kiterjedt erdeivel és dombjaival körülvett Bastogne ma a természeti turizmus és a szabadtéri tevékenységek népszerű központja is.",
+      ro: "Bastogne (Bastenach) este un oraș cu o importanță istorică deosebită în provincia Luxemburg, situat adânc în inima Ardenilor. Bastogne a câștigat faimă mondială prin Ofensiva din Ardeni (Bătălia de la Bulge) din iarna anilor 1944/1945, în timpul Celui de-al Doilea Război Mondial. Orașul a fost un nod de transport crucial și a fost apărat eroic împotriva asediului armatei germane (Wehrmacht) de către trupele americane (Divizia 101 Aeropurtată) sub comanda generalului McAuliffe. Astăzi, numeroase monumente și muzee comemorează această bătălie. Cel mai faimos este Monumentul Mardasson în formă de stea, care onorează numele soldaților americani căzuți, precum și ultramodernul „Bastogne War Museum”, care oferă o perspectivă interactivă asupra evenimentelor. Înconjurat de pădurile și dealurile întinse ale Ardenilor, Bastogne este astăzi, de asemenea, un centru popular pentru turismul în natură și activitățile în aer liber.",
+      en: "Bastogne (Bastenach) is a historically highly significant city in the Luxembourg province, located deep in the heart of the Ardennes. Bastogne gained worldwide fame through the Battle of the Bulge (Ardennes Offensive) in the winter of 1944/1945 during the Second World War. The city was a crucial transport hub and was heroically defended against the siege of the German Wehrmacht by American troops (the 101st Airborne Division) under the command of General McAuliffe. Today, numerous monuments and museums commemorate this battle. The most famous is the star-shaped Mardasson Memorial, which honors the names of the fallen American soldiers, as well as the ultra-modern \"Bastogne War Museum,\" which offers interactive insights into the events. Surrounded by the extensive forests and hills of the Ardennes, Bastogne is today also a popular center for nature tourism and outdoor activities."
+    },
+    factsAdvanced: {
+      de: ["The Siege of Bastogne lasted from December 20 to December 27, 1944", "General McAuliffe famously replied 'Nuts!' to the German surrender demand", "The Mardasson Memorial was inaugurated in 1950 to honor American soldiers", "The Bastogne War Museum opened in 2014 and covers 1,600 square meters", "The 'Nuts Weekend' is held every December to commemorate the battle", "Surrounded by the heavily forested Ardennes region", "Located on the historical route of the Liège-Bastogne-Liège cycling classic"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-bastogne-cities-v2.webp",
+},  {
     id: "belgium-eupen-cities-v2",
     type: "city",
-    name: { de: "Eupen", hu: "Eupen", ro: "Eupen", en: "Eupen" },
+    name: { de: "Eupen", hu: "Eupen", ro: "Eupen", en: "Eupen",
+image: "/poi-images/belgium-eupen-cities-v2.webp"
+},
     coords: [6.0319, 50.6306],
     coordinates: { lat: 50.6306, lng: 6.0319 },
     description: {
@@ -1137,11 +1458,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sediul Comunității germanofone", "Barajul Vesdre (cel mai mare)", "Case istorice ale postăvarilor", "Poartă către Parcul Hautes Fagnes"],
       en: ["Seat of the German-speaking Community", "Vesdre Dam (largest in Belgium)", "Historic wool merchant houses", "Gateway to High Fens Nature Park"],
     },
-    imageHint: "Eupen town hall and Vesdre dam", image: "/poi-images/belgium-eupen-cities-v2.webp"},
-  {
+imageHint: "Eupen town hall and Vesdre dam",
+    descriptionAdvanced: {
+      de: "Eupen ist die Hauptstadt und das unbestrittene kulturelle Zentrum der Deutschsprachigen Gemeinschaft Belgiens, gelegen in der Provinz Lüttich in Ostbelgien. Die charmante Stadt liegt am Zusammenfluss von Vesdre und Helle, direkt am Rande des malerischen Naturparks Hohes Venn-Eifel. Historisch gelangte Eupen im 18. und 19. Jahrhundert durch eine florierende Tuchindustrie zu großem Reichtum. Diese Epoche prägt bis heute das Stadtbild, das durch prächtige barocke Bürgerhäuser und Tuchmacherresidenzen aus dem 18. Jahrhundert gekennzeichnet ist. Zu den Hauptattraktionen gehört die St. Nikolaus Kirche mit ihren markanten Zwillingstürmen. Nur wenige Kilometer vom Zentrum entfernt liegt die Wesertalsperre, Belgiens wichtigste Trinkwassertalsperre, die ein beliebtes Ausflugsziel zum Wandern und Radfahren darstellt. Eupen kombiniert auf einzigartige Weise historisches Erbe, gelebte Zweisprachigkeit und unmittelbare Nähe zu atemberaubender Natur.",
+      hu: "Eupen a belgiumi német nyelvű közösség fővárosa és vitathatatlan kulturális központja, amely Liège tartományban, Kelet-Belgiumban fekszik. A bájos város a Vesdre és a Helle folyók találkozásánál található, közvetlenül a festői Magas-Venn-Eifel Natúrpark szélén. Történelmileg Eupen a 18. és 19. században a virágzó posztóiparnak köszönhetően tett szert nagy gazdagságra. Ez a korszak a mai napig meghatározza a városképet, amelyet a 18. századból származó pompás barokk polgárházak és posztókészítő-rezidenciák jellemeznek. A főbb látványosságok közé tartozik a Szent Miklós-templom jellegzetes ikertornyaival. A központtól mindössze néhány kilométerre található a Weser-völgyi gát (Wesertalsperre), Belgium legfontosabb ivóvíztározója, amely a túrázók és kerékpárosok kedvelt kirándulóhelye. Eupen egyedülálló módon ötvözi a történelmi örökséget, a megélt kétnyelvűséget és a lélegzetelállító természet közvetlen közelségét.",
+      ro: "Eupen este capitala și centrul cultural incontestabil al Comunității Germanofone din Belgia, situat în provincia Liège din estul Belgiei. Orașul fermecător se află la confluența râurilor Vesdre și Helle, chiar la marginea pitorescului Parc Natural Hautes Fagnes-Eifel. Din punct de vedere istoric, Eupen a dobândit o mare bogăție în secolele al XVIII-lea și al XIX-lea printr-o industrie textilă (postăvărie) înfloritoare. Această epocă marchează și astăzi peisajul urban, caracterizat prin case burgheze baroce magnifice și reședințe ale postăvarilor din secolul al XVIII-lea. Printre atracțiile principale se numără Biserica Sfântul Nicolae, cu turnurile sale gemene distinctive. La doar câțiva kilometri de centru se află barajul Vesdre, cel mai important rezervor de apă potabilă din Belgia, care este o destinație populară pentru drumeții și ciclism. Eupen combină într-un mod unic moștenirea istorică, bilingvismul viu și proximitatea imediată față de o natură uluitoare.",
+      en: "Eupen is the capital and the undisputed cultural center of the German-speaking Community of Belgium, located in the province of Liège in eastern Belgium. The charming city is situated at the confluence of the Vesdre and Helle rivers, right on the edge of the picturesque High Fens-Eifel Nature Park. Historically, Eupen achieved great wealth in the 18th and 19th centuries through a flourishing cloth industry. This era still characterizes the cityscape today, which is marked by magnificent Baroque burgher houses and cloth merchants' residences from the 18th century. Main attractions include St. Nicholas Church with its distinctive twin towers. Just a few kilometers from the center lies the Vesdre Dam (Wesertalsperre), Belgium's most important drinking water reservoir, which is a popular excursion destination for hiking and cycling. Eupen uniquely combines historical heritage, lived bilingualism, and immediate proximity to breathtaking nature."
+    },
+    factsAdvanced: {
+      de: ["Serves as the capital of the German-speaking Community of Belgium", "The Vesdre Dam (Wesertalsperre) is Belgium's largest drinking water reservoir", "The city center features numerous 18th-century Baroque patrician houses", "Eupen was part of Prussia and later Germany until the Treaty of Versailles in 1919", "Acts as the gateway to the High Fens, a 4,500-hectare nature reserve", "The historic St. Nicholas Church was built between 1720 and 1726", "A prominent center for the cloth and textile industry during the 18th century"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-eupen-cities-v2.webp",
+},  {
     id: "belgium-herstal-cities-v2",
     type: "city",
-    name: { de: "Herstal", hu: "Herstal", ro: "Herstal", en: "Herstal" },
+    name: { de: "Herstal", hu: "Herstal", ro: "Herstal", en: "Herstal",
+image: "/poi-images/belgium-herstal-cities-v2.webp"
+},
     coords: [5.6339, 50.6639],
     coordinates: { lat: 50.6639, lng: 5.6339 },
     description: {
@@ -1156,11 +1492,14 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sediul FN Herstal", "Locul de naștere al lui Carol cel Mare (presupus)", "Industrie de armament majoră", "Parte a zonei metropolitane Liège"],
       en: ["Headquarters of FN Herstal", "Probable birthplace of Charlemagne", "Major firearms industry", "Part of the Liège urban area"],
     },
-    imageHint: "Herstal industrial zone view", image: "/poi-images/belgium-herstal-cities-v2.webp"},
+    imageHint: "Herstal industrial zone view",
+    image: "/poi-images/belgium-herstal-cities-v2.webp"},
   {
     id: "belgium-oudenaarde-cities-v2",
     type: "city",
-    name: { de: "Oudenaarde", hu: "Oudenaarde", ro: "Audenarde", en: "Oudenaarde" },
+    name: { de: "Oudenaarde", hu: "Oudenaarde", ro: "Audenarde", en: "Oudenaarde",
+image: "/poi-images/belgium-oudenaarde-cities-v2.webp"
+},
     coords: [3.6065, 50.8436],
     coordinates: { lat: 50.8436, lng: 3.6065 },
     description: {
@@ -1175,11 +1514,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Primărie în stil gotic târziu (UNESCO)", "Centru istoric al tapiseriei", "Centru al Turului Flandrei", "Biserica Sfânta Walburga"],
       en: ["Late Gothic town hall (UNESCO)", "Historic center for tapestry", "Hub for the Tour of Flanders race", "St. Walburga's Church"],
     },
-    imageHint: "Oudenaarde Town Hall Gothic architecture", image: "/poi-images/belgium-oudenaarde-cities-v2.webp"},
-  {
+imageHint: "Oudenaarde Town Hall Gothic architecture",
+    descriptionAdvanced: {
+      de: "Oudenaarde (Audenarde) ist eine charmante historische Stadt in Ostflandern, malerisch an den Ufern der Schelde gelegen. Die Stadt wird oft als die \"Perle der Flämischen Ardennen\" bezeichnet und ist das Tor zu dieser malerischen, hügeligen Region. International bekannt ist Oudenaarde vor allem unter Radsportfans, da hier traditionell das Ziel der berühmten Flandern-Rundfahrt (Ronde van Vlaanderen) liegt; das faszinierende Ronde van Vlaanderen Zentrum in der Stadt feiert diese reiche Radsportgeschichte. Historisch erlangte Oudenaarde Weltruhm durch seine feine Wandteppichindustrie im 16. und 17. Jahrhundert, deren filigrane Werke als \"Verdures\" bekannt sind und im prächtigen gotischen Rathaus besichtigt werden können. Dieses Rathaus auf dem Grote Markt mit seinem eleganten Belfried gehört zum UNESCO-Welterbe und ist eines der schönsten profanen Bauwerke in ganz Belgien.",
+      hu: "Oudenaarde (Audenarde) egy bájos történelmi város Kelet-Flandriában, festői környezetben, a Schelde folyó partján. A várost gyakran a \"Flamand Ardennek gyöngyszemének\" nevezik, és kapuként szolgál ehhez a festői, dombos régióhoz. Oudenaarde nemzetközileg elsősorban a kerékpársport rajongói körében ismert, mivel hagyományosan itt van a híres Flandriai körverseny (Ronde van Vlaanderen) célállomása; a városban található lenyűgöző Flandriai Körverseny Központ (Ronde van Vlaanderen Centrum) ünnepli ezt a gazdag kerékpáros történelmet. Történelmileg Oudenaarde a 16. és 17. században vált világhírűvé finom faliszőnyegiparával, amelynek \"Verdures\" néven ismert aprólékos alkotásait a pompás gótikus városházán lehet megtekinteni. Ez a Grote Markton (Főtéren) álló városháza elegáns harangtornyával az UNESCO Világörökség része, és egész Belgium egyik legszebb világi épülete.",
+      ro: "Oudenaarde (Audenarde) este un oraș istoric fermecător din Flandra de Est, situat pitoresc pe malurile râului Scheldt. Orașul este adesea numit \"Perla Ardenilor Flamânzi\" și este poarta de acces către această regiune deluroasă pitorească. Oudenaarde este faimos pe plan internațional în special printre fanii ciclismului, deoarece aici se află în mod tradițional linia de sosire a celebrului Tur al Flandrei (Ronde van Vlaanderen); fascinantul Centru Ronde van Vlaanderen din oraș celebrează această bogată istorie a ciclismului. Istoric, Oudenaarde a dobândit faimă mondială prin industria sa de tapiserii fine din secolele al XVI-lea și al XVII-lea, ale cărei lucrări filigranate sunt cunoscute sub numele de \"Verdures\" și pot fi admirate în superba primărie gotică. Această primărie din Grote Markt (Piața Mare), cu turnul său Belfry elegant, face parte din Patrimoniul Mondial UNESCO și este una dintre cele mai frumoase clădiri seculare din Belgia.",
+      en: "Oudenaarde (Audenarde) is a charming historic city in East Flanders, picturesquely situated on the banks of the Scheldt River. The city is often referred to as the \"Pearl of the Flemish Ardennes\" and is the gateway to this scenic, hilly region. Oudenaarde is internationally known primarily among cycling fans, as it traditionally hosts the finish line of the famous Tour of Flanders (Ronde van Vlaanderen); the fascinating Ronde van Vlaanderen Centre in the city celebrates this rich cycling history. Historically, Oudenaarde achieved worldwide fame through its fine tapestry industry in the 16th and 17th centuries, whose intricate works are known as \"Verdures\" and can be viewed in the magnificent Gothic town hall. This town hall on the Grote Markt, with its elegant belfry, is a UNESCO World Heritage site and one of the most beautiful secular buildings in all of Belgium."
+    },
+    factsAdvanced: {
+      de: ["The Town Hall is a masterpiece of Brabantine Gothic architecture built between 1526 and 1537", "Hosted the finish of the Tour of Flanders cycling race since 2012", "Famous for brewing 'Oudenaarde Brown' (Oud Bruin), a traditional dark sour ale", "Lies on the banks of the Scheldt River in East Flanders", "A major center for tapestry weaving from the 15th to the 18th century", "The town features the Liedts Castle and its beautiful surrounding public park", "The Battle of Oudenarde took place here in 1708 during the War of the Spanish Succession"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-oudenaarde-cities-v2.webp",
+},  {
     id: "belgium-tienen-cities-v2",
     type: "city",
-    name: { de: "Tienen", hu: "Tienen", ro: "Tirlemont", en: "Tienen" },
+    name: { de: "Tienen", hu: "Tienen", ro: "Tirlemont", en: "Tienen",
+image: "/poi-images/belgium-tienen-cities-v2.webp"
+},
     coords: [4.9388, 50.8078],
     coordinates: { lat: 50.8078, lng: 4.9388 },
     description: {
@@ -1194,11 +1548,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Centrul industriei zahărului din Belgia", "Biserica Sfântul Germanus (UNESCO)", "Festivalul anual Suikerrock", "Piață istorică centrală"],
       en: ["Center of Belgian sugar industry", "St. Germanus Church (UNESCO)", "Annual Suikerrock festival", "Historic market square"],
     },
-    imageHint: "Tienen sugar refinery and church", image: "/poi-images/belgium-tienen-cities-v2.webp"},
-  {
+imageHint: "Tienen sugar refinery and church",
+    descriptionAdvanced: {
+      de: "Tienen (Tirlemont) ist eine lebendige Stadt in der Provinz Flämisch-Brabant, die den stolzen Beinamen \"Zuckerstadt\" (Suikerstad) trägt. Dieser Name rührt von der seit Mitte des 19. Jahrhunderts ansässigen massiven Zuckerraffinerie (Tiense Suikerraffinaderij) her, die die größte in Belgien ist und die städtische Wirtschaft und Identität stark prägt. Ein Besuch im hochmodernen Museum \"Zucker-Museum\" (Suikermuseum) vermittelt Besuchern alles über diese süße Geschichte. Der Grote Markt von Tienen ist einer der größten Marktplätze in Belgien und das pulsierende Herz der Stadt, an dem sich die elegante Onze-Lieve-Vrouw-ten-Poel Kirche befindet. Archäologische Funde aus der Römerzeit belegen, dass die Siedlung auf eine reiche gallo-römische Vergangenheit zurückblickt. Darüber hinaus ist Tienen für sein sommerliches \"Suikerrock\"-Festival bekannt, das jährlich Zehntausende von Musikfans ins Stadtzentrum lockt.",
+      hu: "Tienen (Tirlemont) egy nyüzsgő város Flamand-Brabant tartományban, amely büszkén viseli a \"Cukorváros\" (Suikerstad) becenevet. Ez a név a 19. század közepe óta itt működő hatalmas cukorfinomítótól (Tiense Suikerraffinaderij) származik, amely Belgium legnagyobbika, és erősen meghatározza a város gazdaságát és identitását. A rendkívül modern Cukormúzeumban (Suikermuseum) tett látogatás mindent elárul a látogatóknak erről az édes történelemről. Tienen Grote Marktja (Főtere) Belgium egyik legnagyobb piactere és a város lüktető szíve, ahol az elegáns Onze-Lieve-Vrouw-ten-Poel (Miasszonyunk) templom is található. A római korból származó régészeti leletek bizonyítják, hogy a település gazdag gall-római múlttal rendelkezik. Emellett Tienen ismert a nyári \"Suikerrock\" fesztiváljáról, amely évente zenerajongók tízezreit vonzza a városközpontba.",
+      ro: "Tienen (Tirlemont) este un oraș plin de viață în provincia Brabantul Flamand, care poartă cu mândrie supranumele de \"Orașul Zahărului\" (Suikerstad). Acest nume provine de la rafinăria masivă de zahăr (Tiense Suikerraffinaderij) înființată la mijlocul secolului al XIX-lea, care este cea mai mare din Belgia și modelează puternic economia și identitatea urbană. O vizită la Muzeul Zahărului (Suikermuseum), extrem de modern, îi învață pe vizitatori totul despre această istorie dulce. Grote Markt (Piața Mare) din Tienen este una dintre cele mai mari piețe din Belgia și inima vibrantă a orașului, unde se află eleganta Biserică Onze-Lieve-Vrouw-ten-Poel. Descoperirile arheologice din epoca romană dovedesc că așezarea are un bogat trecut galo-roman. În plus, Tienen este cunoscut pentru festivalul său de vară \"Suikerrock\", care atrage anual zeci de mii de fani ai muzicii în centrul orașului.",
+      en: "Tienen (Tirlemont) is a lively city in the province of Flemish Brabant, which proudly bears the nickname \"Sugar City\" (Suikerstad). This name stems from the massive sugar refinery (Tiense Suikerraffinaderij) established in the mid-19th century, which is the largest in Belgium and strongly shapes the urban economy and identity. A visit to the highly modern Sugar Museum (Suikermuseum) teaches visitors everything about this sweet history. The Grote Markt in Tienen is one of the largest market squares in Belgium and the vibrant heart of the city, where the elegant Onze-Lieve-Vrouw-ten-Poel Church is located. Archaeological finds from the Roman era prove that the settlement looks back on a rich Gallo-Roman past. In addition, Tienen is known for its summer \"Suikerrock\" festival, which annually attracts tens of thousands of music fans to the city center."
+    },
+    factsAdvanced: {
+      de: ["Tienen Sugar Refinery produces up to 600,000 tons of sugar annually", "The 'Suikerrock' festival has been held here annually since 1987", "The Grote Markt is one of the largest market squares in Belgium", "Archaeological digs revealed Roman burial mounds (tumuli) in the Grimde district", "The Church of Our Lady-over-the-Pool was built starting in the 14th century", "The city established its first industrial sugar beet processing plant in 1836", "The local football club KVK Tienen plays at the Bergéstadion"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-tienen-cities-v2.webp",
+},  {
     id: "belgium-geraardsbergen-cities-v2",
     type: "city",
-    name: { de: "Geraardsbergen", hu: "Geraardsbergen", ro: "Geraardsbergen", en: "Geraardsbergen" },
+    name: { de: "Geraardsbergen", hu: "Geraardsbergen", ro: "Geraardsbergen", en: "Geraardsbergen",
+image: "/poi-images/belgium-geraardsbergen-cities-v2.webp"
+},
     coords: [3.8767, 50.7719],
     coordinates: { lat: 50.7719, lng: 3.8767 },
     description: {
@@ -1213,11 +1582,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Zidul din Geraardsbergen (ciclism)", "Mattentaart (specialitate culinară)", "Cea mai veche statuie Manneken Pis", "Dealul Oudenberg"],
       en: ["Wall of Geraardsbergen (cycling)", "Mattentaart (protected pastry)", "Oldest Manneken Pis in Belgium", "Oudenberg hill"],
     },
-    imageHint: "Geraardsbergen Muur climb view", image: "/poi-images/belgium-geraardsbergen-cities-v2.webp"},
-  {
+imageHint: "Geraardsbergen Muur climb view",
+    descriptionAdvanced: {
+      de: "Geraardsbergen (Grammont) ist eine der ältesten und markantesten Städte Flanderns, gelegen im tiefen Süden der Provinz Ostflandern an den Ufern der Dender. Weltweite Berühmtheit genießt die Stadt durch die \"Mauer von Geraardsbergen\" (Muur van Geraardsbergen), einem extrem steilen, kopfsteingepflasterten Anstieg auf den Oudenberg, der eine legendäre und gefürchtete Etappe der Flandern-Rundfahrt ist. Auf dem Gipfel des Oudenbergs steht eine malerische Kapelle, die einen herrlichen Panoramablick bietet. Eine weitere kuriose Besonderheit ist das Manneken Pis von Geraardsbergen – die Einheimischen behaupten standhaft, ihre Statue sei älter als das berühmtere Pendant in Brüssel. Kulturell und kulinarisch ist die Stadt untrennbar mit den \"Mattentaarten\" verbunden, einem süßen, runden Blätterteiggebäck mit Käsequarkfüllung, das als erstes belgisches Lebensmittel den Status einer geschützten geografischen Angabe (g.g.A.) der EU erhielt.",
+      hu: "Geraardsbergen (Grammont) Flandria egyik legrégebbi és legjellegzetesebb városa, amely Kelet-Flandria tartomány déli részén, a Dender folyó partján fekszik. A város világhírnévnek örvend a \"Geraardsbergeni Fal\" (Muur van Geraardsbergen) révén, amely egy rendkívül meredek, macskaköves emelkedő az Oudenbergre, és a Flandriai körverseny legendás és rettegett szakasza. Az Oudenberg csúcsán áll egy festői kápolna, ahonnan csodálatos panoráma nyílik. Egy másik különleges látványosság Geraardsbergen Manneken Pis szobra – a helyiek kitartóan állítják, hogy az ő szobruk régebbi, mint a híresebb brüsszeli társa. Kulturálisan és kulinárisan a város elválaszthatatlanul összefonódott a \"Mattentaarten\" nevű süteménnyel, amely egy kerek, édes leveles tészta túrós töltelékkel, és amely első belga élelmiszerként kapta meg az EU oltalom alatt álló földrajzi jelzés (OFJ) státuszát.",
+      ro: "Geraardsbergen (Grammont) este unul dintre cele mai vechi și mai distinctive orașe din Flandra, situat în sudul profund al provinciei Flandra de Est, pe malurile râului Dender. Orașul se bucură de faimă mondială datorită „Zidului din Geraardsbergen” (Muur van Geraardsbergen), o urcare extrem de abruptă și pietruită pe dealul Oudenberg, care este o etapă legendară și de temut a Turului Flandrei. Pe vârful Oudenbergului se află o capelă pitorească ce oferă o priveliște panoramică magnifică. O altă atracție curioasă este Manneken Pis din Geraardsbergen – localnicii susțin cu tărie că statuia lor este mai veche decât omologul său mai faimos din Bruxelles. Cultural și culinar, orașul este inseparabil legat de „Mattentaarten”, o patiserie dulce, rotundă, din foietaj cu umplutură de brânză de vaci, care a fost primul produs alimentar belgian ce a primit statutul de Indicație Geografică Protejată (IGP) din partea UE.",
+      en: "Geraardsbergen (Grammont) is one of the oldest and most distinctive cities in Flanders, located in the deep south of the East Flanders province on the banks of the Dender River. The city enjoys worldwide fame due to the \"Wall of Geraardsbergen\" (Muur van Geraardsbergen), an extremely steep, cobbled climb up the Oudenberg hill, which is a legendary and feared stage of the Tour of Flanders cycling race. At the summit of the Oudenberg stands a picturesque chapel offering a magnificent panoramic view. Another curious attraction is the Manneken Pis of Geraardsbergen—locals steadfastly claim their statue is older than its more famous counterpart in Brussels. Culturally and culinarily, the city is inextricably linked with \"Mattentaarten,\" a sweet, round puff pastry with a curd cheese filling, which was the first Belgian food product to receive Protected Geographical Indication (PGI) status from the EU."
+    },
+    factsAdvanced: {
+      de: ["The 'Muur van Geraardsbergen' reaches a maximum gradient of 19.8 percent", "The Mattentaart received European Protected Geographical Indication in 2006", "The local Manneken Pis statue dates back to 1459, predating the Brussels statue", "The city was founded in 1068 by Count Baldwin VI of Flanders", "Every year at the end of February, the 'Krakelingen' bread-throwing festival is celebrated", "The chapel of Notre Dame de la Oudeberg sits at 110 meters above sea level", "Located precisely on the linguistic border between Flanders and Wallonia"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-geraardsbergen-cities-v2.webp",
+},  {
     id: "belgium-knokke-heist-cities-v2",
     type: "town",
-    name: { de: "Knokke-Heist", hu: "Knokke-Heist", ro: "Knokke-Heist", en: "Knokke-Heist" },
+    name: { de: "Knokke-Heist", hu: "Knokke-Heist", ro: "Knokke-Heist", en: "Knokke-Heist",
+image: "/poi-images/belgium-knokke-heist-cities-v2.webp"
+},
     coords: [3.2843, 51.3483],
     coordinates: { lat: 51.3483, lng: 3.2843 },
     description: {
@@ -1232,11 +1616,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cea mai exclusivistă stațiune din Belgia", "Rezervația naturală Zwin", "Cazinoul din Knokke", "Centru de artă contemporană"],
       en: ["Most exclusive Belgian resort", "Zwin Nature Park", "Casino of Knokke", "Center for contemporary art"],
     },
-    imageHint: "Knokke-Heist beach and promenade", image: "/poi-images/belgium-knokke-heist-cities-v2.webp"},
-  {
+imageHint: "Knokke-Heist beach and promenade",
+    descriptionAdvanced: {
+      de: "Knokke-Heist ist das exklusivste und mondänste Seebad an der belgischen Nordseeküste, gelegen in der Provinz Westflandern nahe der niederländischen Grenze. Die Stadt, die aus mehreren Ortsteilen wie Knokke, Heist und dem mondänen Zoute besteht, zieht ein wohlhabendes Publikum an und wird oft als das \"Saint-Tropez der Nordsee\" bezeichnet. Die kilometerlange Promenade ist gesäumt von luxuriösen Boutiquen, Kunstgalerien und gehobenen Restaurants, während in den Seitenstraßen beeindruckende Villen in traditioneller weißer Architektur mit roten Ziegeldächern stehen. Ein Highlight für Naturliebhaber ist das Zwin, ein einzigartiges, 150 Hektar großes Naturschutzgebiet, in dem Meerwasser bei Flut ins Landesinnere strömt und ein Paradies für unzählige Vogelarten schafft. Zudem ist Knokke-Heist für sein prestigeträchtiges internationales Feuerwerksfestival und das mondäne Grand Casino bekannt.",
+      hu: "Knokke-Heist a legexkluzívabb és legelegánsabb tengerparti üdülőhely a belga északi-tengeri partvidéken, Nyugat-Flandria tartományban, a holland határ közelében. A több városrészből – többek között Knokke, Heist és a divatos Zoute – álló település tehetős közönséget vonz, és gyakran az \"Északi-tenger Saint-Tropez-jaként\" emlegetik. A kilométereken át húzódó sétányt luxusbutikok, művészeti galériák és előkelő éttermek szegélyezik, míg a mellékutcákban hagyományos, fehér falú, piros cseréptetős impozáns villák sorakoznak. A természetkedvelők számára kiemelkedő látványosság a Zwin, egy egyedülálló, 150 hektáros természetvédelmi terület, ahol a tengervíz dagálykor a szárazföld belsejébe áramlik, paradicsomot teremtve számtalan madárfaj számára. Ezenkívül Knokke-Heist tekintélyes nemzetközi tűzijáték-fesztiváljáról és az elegáns Grand Casinóról is ismert.",
+      ro: "Knokke-Heist este cea mai exclusivistă și mai luxoasă stațiune balneară de pe coasta belgiană a Mării Nordului, situată în provincia Flandra de Vest, lângă granița cu Olanda. Orașul, format din mai multe districte precum Knokke, Heist și mondenul Zoute, atrage un public bogat și este adesea numit \"Saint-Tropez-ul Mării Nordului\". Promenada lungă de kilometri este mărginită de buticuri de lux, galerii de artă și restaurante fine, în timp ce pe străzile laterale se aliniază vile impresionante, în arhitectura tradițională albă cu acoperișuri din țiglă roșie. Un punct de atracție pentru iubitorii de natură este Zwin, o rezervație naturală unică de 150 de hectare, unde apa mării curge spre interior la maree, creând un paradis pentru nenumărate specii de păsări. În plus, Knokke-Heist este cunoscut pentru prestigiosul său festival internațional de artificii și pentru elegantul Grand Casino.",
+      en: "Knokke-Heist is the most exclusive and fashionable seaside resort on the Belgian North Sea coast, located in the province of West Flanders near the Dutch border. The city, which consists of several districts such as Knokke, Heist, and the trendy Zoute, attracts a wealthy public and is often referred to as the \"Saint-Tropez of the North Sea.\" The miles-long promenade is lined with luxury boutiques, art galleries, and fine dining restaurants, while impressive villas featuring traditional white architecture with red tile roofs dot the side streets. A highlight for nature lovers is the Zwin, a unique 150-hectare nature reserve where seawater flows inland at high tide, creating a paradise for countless bird species. In addition, Knokke-Heist is known for its prestigious international fireworks festival and the elegant Grand Casino."
+    },
+    factsAdvanced: {
+      de: ["The Zwin Nature Park covers 150 hectares and is a vital sanctuary for migratory birds", "Has over 10 kilometers of sandy beach along the North Sea coast", "Features a prominent Art Deco Casino built in 1930, featuring murals by Magritte", "The town is home to more than 40 independent art galleries", "Hosts the renowned Zoute Grand Prix, a major classic car rally", "The real estate in 'Het Zoute' is among the most expensive in all of Belgium", "It is the northernmost terminus of the Kusttram (Coast Tram) line"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-knokke-heist-cities-v2.webp",
+},  {
     id: "belgium-menen-cities-v2",
     type: "city",
-    name: { de: "Menen", hu: "Menen", ro: "Menin", en: "Menen" },
+    name: { de: "Menen", hu: "Menen", ro: "Menin", en: "Menen",
+image: "/poi-images/belgium-menen-cities-v2.webp"
+},
     coords: [3.1207, 50.7961],
     coordinates: { lat: 50.7961, lng: 3.1207 },
     description: {
@@ -1251,11 +1650,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Oraș la granița cu Franța", "Turn belfry (sit UNESCO)", "Fortificații istorice", "Centru al industriei de mobilier"],
       en: ["Border city with France", "UNESCO-listed belfry", "Historic fortifications", "Center of the furniture industry"],
     },
-    imageHint: "Menen belfry and town square", image: "/poi-images/belgium-menen-cities-v2.webp"},
-  {
+imageHint: "Menen belfry and town square",
+    descriptionAdvanced: {
+      de: "Menen (Menin) ist eine historisch strategische Grenzstadt in der Provinz Westflandern, die direkt an der Grenze zu Frankreich liegt und mit der französischen Stadt Halluin eine grenzüberschreitende Agglomeration bildet. Wegen ihrer strategischen Lage am Fluss Leie (Lys) war die Stadt im Laufe der Jahrhunderte ein begehrter militärischer Außenposten und wurde im 17. Jahrhundert vom berühmten Festungsbauer Vauban massiv befestigt. Teile dieser beeindruckenden Bastionen, wie die erhaltenen Kasematten, können noch heute erkundet werden und zeugen von einer turbulenten Vergangenheit. Im 19. und 20. Jahrhundert profitierte Menen stark von der aufblühenden Textil- und Flachsindustrie der Region. Das imposante klassizistische Rathaus mit seinem achteckigen, von der UNESCO anerkannten Belfried prägt den zentralen Grote Markt der Stadt.",
+      hu: "Menen (Menin) egy történelmileg stratégiai fontosságú határváros Nyugat-Flandria tartományban, amely közvetlenül a francia határon fekszik, és a francia Halluin várossal határokon átnyúló agglomerációt alkot. A Leie (Lys) folyó menti stratégiai elhelyezkedése miatt a város az évszázadok során áhított katonai előőrs volt, és a 17. században a híres erődépítő, Vauban masszívan megerősítette. Ezeknek a lenyűgöző bástyáknak a részei, például a fennmaradt kazamaták, ma is felfedezhetők, és egy viharos múltról tanúskodnak. A 19. és 20. században Menen nagymértékben profitált a régió virágzó textil- és leniparából. A központi Grote Marktot (Főteret) a város impozáns klasszicista városházája uralja, amelynek nyolcszögletű, az UNESCO által is elismert harangtornya (Belfry) van.",
+      ro: "Menen (Menin) este un oraș de graniță cu o importanță strategică istorică în provincia Flandra de Vest, situat chiar la granița cu Franța și formând o aglomerare transfrontalieră cu orașul francez Halluin. Datorită locației sale strategice pe râul Leie (Lys), orașul a fost un avanpost militar râvnit de-a lungul secolelor și a fost fortificat masiv în secolul al XVII-lea de celebrul constructor de fortărețe Vauban. Părți din aceste bastioane impresionante, cum ar fi cazemate păstrate, pot fi explorate și astăzi și stau mărturie a unui trecut turbulent. În secolele al XIX-lea și al XX-lea, Menen a beneficiat enorm de pe urma înfloritoarei industrii textile și a inului din regiune. Impozanta primărie neoclasică, cu turnul său Belfry octogonal recunoscut de UNESCO, domină piața centrală Grote Markt a orașului.",
+      en: "Menen (Menin) is a historically strategic border city in the province of West Flanders, located right on the border with France and forming a cross-border agglomeration with the French city of Halluin. Due to its strategic location on the Leie (Lys) river, the city was a coveted military outpost throughout the centuries and was massively fortified in the 17th century by the famous fortress builder Vauban. Parts of these impressive bastions, such as the preserved casemates, can still be explored today and bear witness to a turbulent past. In the 19th and 20th centuries, Menen benefited greatly from the region's flourishing textile and flax industry. The imposing neoclassical town hall, with its octagonal belfry recognized by UNESCO, dominates the city's central Grote Markt."
+    },
+    factsAdvanced: {
+      de: ["The city was heavily fortified by the French military engineer Vauban in 1679", "Forms a continuous urban area with the French town of Halluin", "The octagonal belfry on the market square was recognized by UNESCO in 1999", "The town suffered severe damage during the Battle of the Lys in 1918", "The historic casemates under the city center remain accessible to tourists", "German military cemetery 'Menenwald' contains almost 48,000 graves from WWI", "The River Leie (Lys) runs directly through the center of the city"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-menen-cities-v2.webp",
+},  {
     id: "belgium-bilzen-cities-v2",
     type: "city",
-    name: { de: "Bilzen", hu: "Bilzen", ro: "Bilzen", en: "Bilzen" },
+    name: { de: "Bilzen", hu: "Bilzen", ro: "Bilzen", en: "Bilzen",
+image: "/poi-images/belgium-bilzen-cities-v2.webp"
+},
     coords: [5.5175, 50.8711],
     coordinates: { lat: 50.8711, lng: 5.5175 },
     description: {
@@ -1270,11 +1684,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Comanderia Alden Biesen", "Centru istoric al orașului", "Parte a regiunii pomicole Haspengouw", "Centru de evenimente culturale"],
       en: ["Alden Biesen Castle", "Historic city center", "Part of the Haspengouw fruit region", "Hub for cultural events"],
     },
-    imageHint: "Bilzen Alden Biesen Castle view", image: "/poi-images/belgium-bilzen-cities-v2.webp"},
-  {
+imageHint: "Bilzen Alden Biesen Castle view",
+    descriptionAdvanced: {
+      de: "Bilzen ist eine reizvolle und historisch bedeutsame Kleinstadt in der flämischen Provinz Limburg. Das unumstrittene Highlight der Region ist die Landkomturei Alden Biesen, ein gewaltiger, wasserumwehrter Schlosskomplex aus dem 16. Jahrhundert. Diese ehemalige Hauptresidenz des Deutschen Ordens in der Ballei Biesen ist heute eines der größten Kultur- und Konferenzzentren der flämischen Regierung und besticht durch ihre herrlichen englischen und französischen Gärten. Neben diesem architektonischen Juwel bietet Bilzen ein charmantes historisches Zentrum rund um den Marktplatz, der vom imposanten neugotischen Rathaus und der St.-Mauritius-Kirche dominiert wird. Die umliegende Haspengouw-Landschaft mit ihren zahlreichen Obstgärten macht Bilzen besonders im Frühling zu einem beliebten Ausgangspunkt für ausgedehnte Wanderungen und Radtouren.",
+      hu: "Bilzen egy bájos és történelmileg jelentős kisváros a flamand Limburg tartományban. A régió vitathatatlan fénypontja az Alden Biesen-i rendház (Landkomturei), egy hatalmas, vízzel körülvett, 16. századi kastélykomplexum. A Német Lovagrend egykori Biesen-i (Ballei) központja ma a flamand kormány egyik legnagyobb kulturális és konferenciaközpontja, amely lenyűgöző angol és francia kertjeivel bűvöli el a látogatókat. Ezen az építészeti ékszerdobozon kívül Bilzen egy bájos történelmi központot kínál a piactér körül, amelyet az impozáns neogótikus városháza és a Szent Mauriciusz-templom ural. A környező Haspengouw-vidék, számtalan gyümölcsöskertjével, különösen tavasszal teszi Bilzent a hosszú túrák és kerékpározások népszerű kiindulópontjává.",
+      ro: "Bilzen este un orășel fermecător și semnificativ din punct de vedere istoric în provincia flamandă Limburg. Atracția incontestabilă a regiunii este Marea Comanderie Alden Biesen, un complex imens de castele din secolul al XVI-lea, înconjurat de șanțuri cu apă. Această fostă reședință principală a Ordinului Teutonic din Balivatul Biesen este astăzi unul dintre cele mai mari centre culturale și de conferințe ale guvernului flamand și captivează prin frumoasele sale grădini englezești și franceze. Pe lângă această bijuterie arhitecturală, Bilzen oferă un centru istoric fermecător în jurul pieței, dominat de impozanta primărie neogotică și de Biserica Sfântul Maurițiu. Peisajul înconjurător Haspengouw, cu numeroasele sale livezi, face din Bilzen, mai ales primăvara, un punct de plecare popular pentru drumeții lungi și tururi cu bicicleta.",
+      en: "Bilzen is a charming and historically significant small city in the Flemish province of Limburg. The undisputed highlight of the region is the Grand Commandery of Alden Biesen, a massive, moated castle complex dating back to the 16th century. This former main residence of the Teutonic Order in the Bailywick of Biesen is today one of the largest cultural and conference centers of the Flemish government and captivates with its beautiful English and French gardens. In addition to this architectural jewel, Bilzen offers a charming historic center around the market square, which is dominated by the imposing neo-Gothic town hall and St. Maurice's Church. The surrounding Haspengouw landscape, with its numerous orchards, makes Bilzen a popular starting point for extended hikes and cycling tours, especially in spring."
+    },
+    factsAdvanced: {
+      de: ["The Grand Commandery of Alden Biesen is a massive castle complex originally founded in 1220", "Alden Biesen was a headquarters of the Teutonic Order until the French Revolution", "The Scottish harmony event, the 'Scottish Weekend,' is held annually in Alden Biesen", "The historic Town Hall on the market square dates back to 1686", "Munsterbilzen, a section of the city, houses a Merovingian abbey founded in 670 AD", "A major tourist hub for the blooming fruit orchards of the Haspengouw region", "The Jazz Bilzen festival was a legendary rock/jazz event held here from 1965 to 1981"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-bilzen-cities-v2.webp",
+},  {
     id: "belgium-houthalen-helchteren-cities-v2",
     type: "town",
-    name: { de: "Houthalen-Helchteren", hu: "Houthalen-Helchteren", ro: "Houthalen-Helchteren", en: "Houthalen-Helchteren" },
+    name: { de: "Houthalen-Helchteren", hu: "Houthalen-Helchteren", ro: "Houthalen-Helchteren", en: "Houthalen-Helchteren",
+image: "/poi-images/belgium-houthalen-helchteren-cities-v2.webp"
+},
     coords: [5.3725, 51.0289],
     coordinates: { lat: 51.0289, lng: 5.3725 },
     description: {
@@ -1289,11 +1718,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Parcul de vacanță Molenheide", "Fost centru de exploatare a cărbunelui", "Centru al regiunii Limburgse Kempen", "Rezervația naturală De Teut"],
       en: ["Molenheide holiday park", "Former coal mining history", "Center of the Limburgse Kempen", "De Teut nature reserve"],
     },
-    imageHint: "Houthalen-Helchteren park scenery", image: "/poi-images/belgium-houthalen-helchteren-cities-v2.webp"},
-  {
+imageHint: "Houthalen-Helchteren park scenery",
+    descriptionAdvanced: {
+      de: "Houthalen-Helchteren ist eine ausgedehnte und grüne Fusionsgemeinde in der belgischen Provinz Limburg, die tief in der Steinkohlebergbau-Vergangenheit der Region verwurzelt ist. Das Herzstück des industriellen Erbes bildet der alte Zechenkomplex von Houthalen mit seinen zwei markanten, bewahrten Fördertürmen und dem Hauptgebäude, das heute als hochmodernes Cleantech-Zentrum namens \"GreenVille\" dient. Diese Umwandlung von einem Ort der fossilen Brennstoffe zu einem Zentrum für grüne Technologie ist sinnbildlich für die Entwicklung der Gemeinde. Naturliebhaber zieht es in das Naturschutzgebiet Kelchterhoef, ein ehemaliges herrschaftliches Gut mit Teichen und alten Alleen, das heute ein erstklassiges Freizeitgebiet ist. Zudem beherbergt Houthalen-Helchteren einen überregional bekannten Vergnügungspark (Hengelhoef) und ein einzigartiges Automobilmuseum, das eine der größten Sammlungen historischer Fahrzeuge in den Benelux-Ländern präsentiert.",
+      hu: "Houthalen-Helchteren egy kiterjedt és zöld összevont község a belga Limburg tartományban, amely mélyen gyökerezik a régió kőszénbányászati múltjában. Az ipari örökség központi eleme a régi houthaleni bányatelep, a maga két jellegzetes, megőrzött aknatornyával és a főépülettel, amely ma egy rendkívül modern, \"GreenVille\" nevű cleantech központként működik. Ez a fosszilis tüzelőanyagok helyszínéből zöld technológiai központtá történő átalakulás szimbolizálja a község fejlődését. A természet szerelmeseit a Kelchterhoef természetvédelmi terület vonzza, egy egykori kúria tavakkal és ősi fasorokkal, amely ma első osztályú rekreációs terület. Emellett Houthalen-Helchteren ad otthont a régión túl is ismert Hengelhoef vidámparknak és egy egyedülálló autómúzeumnak, amely a Benelux-államok egyik legnagyobb történelmi járműgyűjteményét mutatja be.",
+      ro: "Houthalen-Helchteren este o comună fuzionată întinsă și verde în provincia belgiană Limburg, profund înrădăcinată în trecutul mineritului de cărbune al regiunii. Piesa centrală a moștenirii industriale este vechiul complex minier din Houthalen, cu cele două turnuri de extracție distinctive păstrate și clădirea principală care servește astăzi ca un centru ultramodern cleantech numit „GreenVille”. Această transformare de la o locație de combustibili fosili la un hub de tehnologie verde este simbolică pentru dezvoltarea comunei. Iubitorii de natură sunt atrași de rezervația naturală Kelchterhoef, un fost conac cu iazuri și alei vechi, care astăzi este o zonă de recreere de primă clasă. În plus, Houthalen-Helchteren găzduiește un parc de distracții cunoscut la nivel național (Hengelhoef) și un muzeu auto unic, care prezintă una dintre cele mai mari colecții de vehicule istorice din țările Benelux.",
+      en: "Houthalen-Helchteren is an extensive and green merged municipality in the Belgian province of Limburg, deeply rooted in the region's coal-mining past. The centerpiece of the industrial heritage is the old Houthalen colliery complex, with its two distinctive, preserved headframes and the main building that today serves as an ultra-modern cleantech center called \"GreenVille.\" This transformation from a fossil fuel site to a green technology hub is symbolic of the municipality's development. Nature lovers are drawn to the Kelchterhoef nature reserve, a former manorial estate with ponds and ancient avenues, which is today a first-class recreational area. In addition, Houthalen-Helchteren is home to a nationally known amusement park (Hengelhoef) and a unique automobile museum, which presents one of the largest collections of historical vehicles in the Benelux countries."
+    },
+    factsAdvanced: {
+      de: ["The coal mine of Houthalen began production in 1939 and closed in 1992", "Two 71-meter-high concrete headframes from the colliery are preserved at the C-Mine/Greenville site", "The Kelchterhoef estate spans 200 hectares of woods, meadows, and historical farms", "The municipality is highly multicultural due to its historical mining workforce", "Hengelhoef is a massive recreational park originally designed for miners' vacations", "The local car museum (Mahymobiles collection) features over 1,000 vintage vehicles", "Located centrally in the Kempen region, surrounded by extensive pine forests"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-houthalen-helchteren-cities-v2.webp",
+},  {
     id: "belgium-evergem-cities-v2",
     type: "town",
-    name: { de: "Evergem", hu: "Evergem", ro: "Evergem", en: "Evergem" },
+    name: { de: "Evergem", hu: "Evergem", ro: "Evergem", en: "Evergem",
+image: "/poi-images/belgium-evergem-cities-v2.webp"
+},
     coords: [3.7058, 51.1097],
     coordinates: { lat: 51.1097, lng: 3.7058 },
     description: {
@@ -1308,11 +1752,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Conexiune cu portul din Gent", "Castelul Wippelgem", "Suburbie a orașului Gent", "Arhitectură rurală istorică"],
       en: ["Connected to the Port of Ghent", "Wippelgem Castle", "Suburb of Ghent", "Historic rural architecture"],
     },
-    imageHint: "Evergem castle Wippelgem", image: "/poi-images/belgium-evergem-cities-v2.webp"},
-  {
+imageHint: "Evergem castle Wippelgem",
+    descriptionAdvanced: {
+      de: "Evergem ist eine weitläufige und vielseitige Gemeinde in Ostflandern, die sich nördlich der Stadt Gent erstreckt. Geografisch und wirtschaftlich ist die Region stark vom Kanal Gent-Terneuzen und dem angrenzenden Genter Hafengebiet (North Sea Port) geprägt, was Evergem zu einem hochwichtigen Logistik- und Industriezentrum macht. Trotz der dichten industriellen Infrastruktur in bestimmten Gebieten hat Evergem seinen ländlichen und historischen Charakter bewahrt. Davon zeugen das prächtige Kasteel van Wippelgem aus dem 19. Jahrhundert, das in einem wunderschönen öffentlichen Park liegt, sowie das beeindruckende Wasserschloss von Gerkenberg. Darüber hinaus ist die Gemeinde für das Motte-Kasteel in Ertvelde bekannt, eine bemerkenswerte mittelalterliche Wehranlage. Die malerischen Ufer des Kanals und die weiten Polderlandschaften bieten hervorragende Möglichkeiten für Radfahrer und Wanderer, um die flämische Natur zu genießen.",
+      hu: "Evergem egy kiterjedt és sokoldalú község Kelet-Flandriában, amely Gent városától északra terül el. Földrajzilag és gazdaságilag a régiót erősen meghatározza a Gent-Terneuzen csatorna és a szomszédos genti kikötőövezet (North Sea Port), ami Evergemet kiemelkedően fontos logisztikai és ipari központtá teszi. Bizonyos területeken tapasztalható sűrű ipari infrastruktúrája ellenére Evergem megőrizte vidékies és történelmi jellegét. Erről tanúskodik a 19. századi pompás Wippelgem kastély, amely egy gyönyörű nyilvános parkban fekszik, valamint a lenyűgöző gerkenbergi vízikastély. Emellett a község az ertveldei Motte-kastélyról, egy figyelemre méltó középkori erődítményről is ismert. A csatorna festői partjai és a kiterjedt poldertájak kiváló lehetőségeket kínálnak a kerékpárosoknak és túrázóknak a flamand természet élvezetére.",
+      ro: "Evergem este o comună vastă și versatilă în Flandra de Est, care se întinde la nord de orașul Gent. Geografic și economic, regiunea este puternic influențată de canalul Gent-Terneuzen și de zona portuară adiacentă din Gent (North Sea Port), făcând din Evergem un centru logistic și industrial extrem de important. În ciuda infrastructurii industriale dense din anumite zone, Evergem și-a păstrat caracterul rural și istoric. Acest lucru este dovedit de magnificul Castel Wippelgem din secolul al XIX-lea, situat într-un frumos parc public, și de impresionantul castel cu șanț de apă din Gerkenberg. În plus, comuna este cunoscută pentru castelul Motte din Ertvelde, o remarcabilă fortificație medievală. Malurile pitorești ale canalului și peisajele vaste de polder oferă oportunități excelente pentru bicicliști și drumeți de a se bucura de natura flamandă.",
+      en: "Evergem is an extensive and versatile municipality in East Flanders, stretching north of the city of Ghent. Geographically and economically, the region is heavily influenced by the Ghent-Terneuzen Canal and the adjacent Ghent port area (North Sea Port), making Evergem a highly important logistics and industrial center. Despite the dense industrial infrastructure in certain areas, Evergem has preserved its rural and historical character. This is evidenced by the magnificent 19th-century Wippelgem Castle, situated in a beautiful public park, and the impressive moated castle of Gerkenberg. In addition, the municipality is known for the Motte castle in Ertvelde, a remarkable medieval fortification. The picturesque banks of the canal and the vast polder landscapes offer excellent opportunities for cyclists and hikers to enjoy Flemish nature."
+    },
+    factsAdvanced: {
+      de: ["Wippelgem Castle was built in 1893 in an eclectic neo-Flemish Renaissance style", "The municipality features a significant portion of the Ghent port industrial zone", "The medieval Motte-Kasteel in Ertvelde is a rare surviving motte-and-bailey castle", "Spans across 75 square kilometers, making it one of the largest municipalities in the province", "The Doornzele mill is a beautifully preserved windmill dating back to 1840", "A crucial logistics hub connected to the Ghent-Terneuzen Canal", "Gerkenberg is an imposing moated castle located within a large nature domain"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-evergem-cities-v2.webp",
+},  {
     id: "belgium-brasschaat-cities-v2",
     type: "town",
-    name: { de: "Brasschaat", hu: "Brasschaat", ro: "Brasschaat", en: "Brasschaat" },
+    name: { de: "Brasschaat", hu: "Brasschaat", ro: "Brasschaat", en: "Brasschaat",
+image: "/poi-images/belgium-brasschaat-cities-v2.webp"
+},
     coords: [4.4921, 51.2935],
     coordinates: { lat: 51.2935, lng: 4.4921 },
     description: {
@@ -1327,11 +1786,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cunoscut drept comuna parcurilor", "Cartier rezidențial de lux", "Parcul din Brasschaat", "Aerodromul militar Brasschaat"],
       en: ["Known as the park municipality", "Wealthy villa district", "Park of Brasschaat", "Brasschaat military airfield"],
     },
-    imageHint: "Brasschaat park and castle", image: "/poi-images/belgium-brasschaat-cities-v2.webp"},
-  {
+imageHint: "Brasschaat park and castle",
+    descriptionAdvanced: {
+      de: "Brasschaat ist eine äußerst wohlhabende und grüne Gemeinde in der Provinz Antwerpen, die oft als eine der exklusivsten Wohngegenden in Belgien bezeichnet wird. Bekannt als die \"Gemeinde der Parks\", ist Brasschaat berühmt für seine ausgedehnten Waldgebiete, prächtigen Alleen und luxuriösen Villenviertel, die traditionell vermögende Antwerpener Bürger als Wohnsitz anziehen. Das absolute Herzstück der Stadt ist der Peerdsbos, ein majestätischer Schlosspark rund um das herrschaftliche Kasteel van Brasschaat, das heute ein beliebtes Zentrum für Kultur und Gastronomie ist. Ein weiteres bedeutendes Natur- und Freizeitgebiet ist De Inslag, ideal für Spaziergänge und Erholung. Die Gemeinde verfügt über eine florierende, gehobene Einzelhandels- und Gastronomieszene entlang der Bredabaan und ein hoch angesehenes Freilichtmuseum (Ghemar-Museum), das dem Artillerieschießstand Brasschaat-Polygoon gewidmet ist, einer historischen militärischen Einrichtung.",
+      hu: "Brasschaat egy rendkívül jómódú és zöld község Antwerpen tartományban, amelyet gyakran Belgium egyik legexkluzívabb lakóövezeteként tartanak számon. A \"parkok községeként\" ismert Brasschaat kiterjedt erdőiről, pompás fasorairól és luxus villanegyedeiről híres, amelyek hagyományosan a tehetős antwerpeni polgárokat vonzzák lakóhelyként. A város abszolút szíve a Peerdsbos, egy fenséges kastélypark az elegáns Brasschaat kastély (Kasteel van Brasschaat) körül, amely ma a kultúra és a gasztronómia népszerű központja. Egy másik jelentős természeti és szabadidős terület a De Inslag, amely ideális sétákhoz és kikapcsolódáshoz. A község virágzó, előkelő kiskereskedelmi és gasztronómiai színtérrel rendelkezik a Bredabaan mentén, valamint egy nagyra becsült szabadtéri múzeummal (Ghemar Múzeum), amelyet a Brasschaat-Polygoon tüzérségi lőtérnek, egy történelmi katonai létesítménynek szenteltek.",
+      ro: "Brasschaat este o comună extrem de bogată și verde în provincia Anvers, adesea descrisă ca una dintre cele mai exclusiviste zone rezidențiale din Belgia. Cunoscut drept „comuna parcurilor”, Brasschaat este faimos pentru zonele sale întinse de pădure, bulevardele magnifice și cartierele de vile de lux, care atrag în mod tradițional cetățenii bogați din Anvers ca loc de reședință. Piesa centrală absolută a orașului este Peerdsbos, un parc de castel maiestuos în jurul grandiosului Castel din Brasschaat (Kasteel van Brasschaat), care este astăzi un centru popular pentru cultură și gastronomie. O altă zonă naturală și de agrement semnificativă este De Inslag, ideală pentru plimbări și relaxare. Comuna are o scenă de retail și gastronomie înfloritoare și de lux de-a lungul Bredabaan și un muzeu în aer liber foarte respectat (Muzeul Ghemar) dedicat poligonului de artilerie Brasschaat-Polygoon, o instalație militară istorică.",
+      en: "Brasschaat is an extremely wealthy and green municipality in the province of Antwerp, often described as one of the most exclusive residential areas in Belgium. Known as the \"municipality of parks,\" Brasschaat is famous for its extensive woodland areas, magnificent avenues, and luxury villa neighborhoods, which traditionally attract wealthy Antwerp citizens as a place of residence. The absolute centerpiece of the town is the Peerdsbos, a majestic castle park surrounding the grand Brasschaat Castle (Kasteel van Brasschaat), which is today a popular center for culture and gastronomy. Another significant natural and recreational area is De Inslag, ideal for walks and relaxation. The municipality has a flourishing, upscale retail and gastronomy scene along the Bredabaan and a highly respected open-air museum (Ghemar Museum) dedicated to the Brasschaat-Polygoon artillery shooting range, a historical military installation."
+    },
+    factsAdvanced: {
+      de: ["Often cited statistically as one of the richest municipalities in Belgium", "The 'Peerdsbos' is a massive historic forest domain spanning over 150 hectares", "Brasschaat Castle was built in 1872 by the wealthy Antwerp businessman Armand Reusens", "The Brasschaat-Polygoon was a significant military artillery range covering thousands of hectares", "The town features one of Belgium's oldest and most prestigious golf clubs (KGC)", "Known for an exceptionally high concentration of luxury villas and estates", "The Bredabaan is a historic regional road and the town's primary commercial artery"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-brasschaat-cities-v2.webp",
+},  {
     id: "belgium-grimbergen-cities-v2",
     type: "town",
-    name: { de: "Grimbergen", hu: "Grimbergen", ro: "Grimbergen", en: "Grimbergen" },
+    name: { de: "Grimbergen", hu: "Grimbergen", ro: "Grimbergen", en: "Grimbergen",
+image: "/poi-images/belgium-grimbergen-cities-v2.webp"
+},
     coords: [4.3756, 50.9329],
     coordinates: { lat: 50.9329, lng: 4.3756 },
     description: {
@@ -1346,11 +1820,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Celebra bere de abație Grimbergen", "Abația Premonstratensă", "Muzeul Tehnicilor Vechi (MOT)", "Aproape de Bruxelles"],
       en: ["Famous Grimbergen abbey beer", "Norbertine Abbey of Grimbergen", "Museum of Old Techniques (MOT)", "Proximity to Brussels"],
     },
-    imageHint: "Grimbergen Abbey church", image: "/poi-images/belgium-grimbergen-cities-v2.webp"},
-  {
+imageHint: "Grimbergen Abbey church",
+    descriptionAdvanced: {
+      de: "Grimbergen ist eine malerische und historisch reiche Gemeinde in Flämisch-Brabant, die nördlich direkt an die Brüsseler Hauptstadtregion grenzt. Das pulsierende Herz der Gemeinde ist die Norbertinerabtei Grimbergen, ein imposantes Kloster, das 1128 gegründet wurde. Die majestätische barocke Abteikirche mit ihrem auffälligen Zwiebelturm ist das bekannteste Wahrzeichen der Stadt. International berühmt ist der Name Grimbergen vor allem durch das gleichnamige, hoch angesehene Abteibier, dessen Brautradition eng mit der Geschichte der Mönche verwoben ist. Das Symbol der Gemeinde, der Phönix, erinnert an die wiederholte Zerstörung und den Wiederaufbau der Abtei im Laufe der Jahrhunderte. Ein weiteres Juwel von Grimbergen ist das Volkssterrenwarte Mira, eine der aktivsten öffentlichen Sternwarten Belgiens, sowie das historische Prinsenbos, ein bewaldeter Schlosspark mit den Ruinen des Prinsenkasteel aus dem 17. Jahrhundert.",
+      hu: "Grimbergen egy festői és történelmileg gazdag község Flamand-Brabantban, amely északról közvetlenül határos a Brüsszeli Fővárosi Régióval. A község lüktető szíve a grimbergeni premontrei apátság, egy impozáns kolostor, amelyet 1128-ban alapítottak. A fenséges barokk apátsági templom, feltűnő hagymakupolás tornyával a város legismertebb jelképe. Nemzetközileg a Grimbergen nevet elsősorban az azonos nevű, nagyra becsült apátsági sör tette híressé, amelynek főzési hagyománya szorosan összefonódik a szerzetesek történetével. A község szimbóluma, a főnix az apátság évszázadok során történt ismételt elpusztítására és újjáépítésére emlékeztet. Grimbergen másik ékszerdoboza a Mira Népi Csillagvizsgáló (Volkssterrenwarte Mira), Belgium egyik legaktívabb nyilvános csillagvizsgálója, valamint a történelmi Prinsenbos, egy erdős kastélypark a 17. századi Prinsenkasteel romjaival.",
+      ro: "Grimbergen este o comună pitorească și bogată istoric în Brabantul Flamand, care se învecinează direct cu Regiunea Capitalei Bruxelles la nord. Inima vibrantă a comunei este Abația premonstratensă din Grimbergen, o mănăstire impozantă fondată în 1128. Majestuoasa biserică a abației în stil baroc, cu turnul său izbitor în formă de bulb, este cel mai faimos punct de reper al orașului. Numele Grimbergen este renumit la nivel internațional în primul rând datorită berii de abație extrem de apreciate cu același nume, a cărei tradiție de fabricare a berii este strâns legată de istoria călugărilor. Simbolul comunei, fenixul, amintește de distrugerea repetată și reconstrucția abației de-a lungul secolelor. O altă bijuterie din Grimbergen este Observatorul Public Mira, unul dintre cele mai active observatoare publice din Belgia, precum și istoricul Prinsenbos, un parc de castel împădurit cu ruinele Prinsenkasteel din secolul al XVII-lea.",
+      en: "Grimbergen is a picturesque and historically rich municipality in Flemish Brabant, bordering directly on the Brussels-Capital Region to the north. The vibrant heart of the municipality is the Premonstratensian Abbey of Grimbergen, an imposing monastery founded in 1128. The majestic Baroque abbey church, with its striking onion-domed tower, is the town's most famous landmark. Internationally, the name Grimbergen is renowned primarily for the highly esteemed abbey beer of the same name, whose brewing tradition is closely intertwined with the history of the monks. The municipality's symbol, the phoenix, commemorates the repeated destruction and reconstruction of the abbey over the centuries. Another jewel of Grimbergen is the Mira Public Observatory, one of the most active public observatories in Belgium, as well as the historic Prinsenbos, a wooded castle park featuring the ruins of the 17th-century Prinsenkasteel."
+    },
+    factsAdvanced: {
+      de: ["Grimbergen Abbey was founded in 1128 by Saint Norbert of Xanten", "The iconic Baroque abbey church was begun in 1660 and remains unfinished", "The phoenix is the town's emblem, representing its rebirth after fires in 1142, 1566, and 1798", "Mira Public Observatory, founded in 1967, attracts tens of thousands of visitors annually", "The 'Prinsenkasteel' was the residence of the Lords of Grimbergen, destroyed during WWII", "The town features several historic watermills, including the Tommenmolen and Liermolen", "Grimbergen Abbey Beer is a globally recognized brand originally brewed by the monks"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-grimbergen-cities-v2.webp",
+},  {
     id: "belgium-herentals-cities-v2",
     type: "city",
-    name: { de: "Herentals", hu: "Herentals", ro: "Herentals", en: "Herentals" },
+    name: { de: "Herentals", hu: "Herentals", ro: "Herentals", en: "Herentals",
+image: "/poi-images/belgium-herentals-cities-v2.webp"
+},
     coords: [4.8361, 51.1764],
     coordinates: { lat: 51.1764, lng: 4.8361 },
     description: {
@@ -1365,11 +1854,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Primăria istorică din piață", "Porți medievale ale orașului", "Centrul regiunii Kempen", "Conexiune la Canalul Albert"],
       en: ["Historic Town Hall on the market", "Medieval city gates", "Center of the Kempen region", "Albert Canal connection"],
     },
-    imageHint: "Herentals historic town hall", image: "/poi-images/belgium-herentals-cities-v2.webp"},
-  {
+imageHint: "Herentals historic town hall",
+    descriptionAdvanced: {
+      de: "Herentals ist eine charmante historische Stadt in der Provinz Antwerpen und gilt als die historische Hauptstadt der Region Kempen. Die Stadt hat ihre mittelalterliche Struktur gut bewahrt und besticht durch den zentralen Grote Markt mit seinem prachtvollen Lakenhal (Tuchhalle) aus dem 15. Jahrhundert, das von einem schlanken Belfried gekrönt wird, der zum UNESCO-Welterbe gehört. Herentals blickt auf eine lange Tradition im Tuchhandel und in der Schuhherstellung zurück. Neben seiner historischen Bedeutung ist die Stadt heute vor allem als grüne und sportliche Oase bekannt; die ausgedehnten Kiefernwälder, insbesondere das Naturgebiet Peertsbos, laden zum Radfahren und Wandern ein. Herentals ist auch ein wichtiger Verkehrsknotenpunkt für Binnenschiffe, strategisch günstig an der Kreuzung des Albertkanals und des Bocholt-Herentals-Kanals gelegen.",
+      hu: "Herentals egy bájos történelmi város Antwerpen tartományban, és a Kempen régió történelmi fővárosaként tartják számon. A város jól megőrizte középkori szerkezetét, és lenyűgözi a látogatókat a központi Grote Markttal (Főtérrel), ahol a 15. századi pompás posztócsarnok (Lakenhal) áll, amelyet egy karcsú, az UNESCO világörökség részét képező harangtorony (Belfry) koronáz meg. Herentals hosszú múltra tekint vissza a posztókereskedelemben és a cipőgyártásban. Történelmi jelentősége mellett a város ma leginkább zöld és sportos oázisként ismert; a kiterjedt fenyőerdők, különösen a Peertsbos természetvédelmi terület, kerékpározásra és túrázásra csábítanak. Herentals egyben a belvízi hajózás fontos közlekedési csomópontja is, stratégiailag az Albert-csatorna és a Bocholt-Herentals csatorna kereszteződésénél fekszik.",
+      ro: "Herentals este un oraș istoric fermecător din provincia Anvers și este considerat capitala istorică a regiunii Kempen. Orașul și-a păstrat bine structura medievală și impresionează cu Grote Markt (Piața Mare) centrală, unde se află magnifica Hală a Postăvarilor (Lakenhal) din secolul al XV-lea, încoronată de un turn Belfry subțire, care face parte din Patrimoniul Mondial UNESCO. Herentals are o lungă tradiție în comerțul cu pânză și producția de încălțăminte. Pe lângă semnificația sa istorică, orașul este astăzi cunoscut în primul rând ca o oază verde și sportivă; pădurile extinse de pini, în special rezervația naturală Peertsbos, invită la ciclism și drumeții. Herentals este, de asemenea, un nod de transport important pentru barjele fluviale, situat strategic la intersecția Canalului Albert cu Canalul Bocholt-Herentals.",
+      en: "Herentals is a charming historic city in the province of Antwerp and is considered the historic capital of the Kempen region. The city has well preserved its medieval structure and impresses with its central Grote Markt, featuring the magnificent 15th-century Cloth Hall (Lakenhal) crowned by a slender belfry that is a UNESCO World Heritage site. Herentals looks back on a long tradition in the cloth trade and shoe manufacturing. In addition to its historical significance, the city is today primarily known as a green and sporty oasis; the extensive pine forests, especially the Peertsbos nature reserve, invite visitors to cycle and hike. Herentals is also an important transport hub for inland waterway vessels, strategically located at the intersection of the Albert Canal and the Bocholt-Herentals Canal."
+    },
+    factsAdvanced: {
+      de: ["Often described as the historical capital of the Kempen region", "The Lakenhal (Cloth Hall) dates from the 15th century and has a UNESCO-listed belfry", "Home to the Hidrodoe, an interactive water exploration center for children", "Herentals is the birthplace of the famous cycling champion Rik Van Looy", "Features the Beguinage of Herentals, founded in 1266", "The city has a major inland port along the Albert Canal", "The St. Waldetrudis Church contains impressive altarpieces from the 16th century"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-herentals-cities-v2.webp",
+},  {
     id: "belgium-ronse-cities-v2",
     type: "city",
-    name: { de: "Ronse", hu: "Ronse", ro: "Renaix", en: "Ronse" },
+    name: { de: "Ronse", hu: "Ronse", ro: "Renaix", en: "Ronse",
+image: "/poi-images/belgium-ronse-cities-v2.webp"
+},
     coords: [3.6014, 50.7483],
     coordinates: { lat: 50.7483, lng: 3.6014 },
     description: {
@@ -1384,11 +1888,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cripta Sfântul Hermes", "Muzeul textil MUST", "Localizat în Ardenii Flamazi", "Procesiunea Foleterie"],
       en: ["Saint Hermes Crypt", "MUST Textile Museum", "Flemish Ardennes location", "Foleterie parade"],
     },
-    imageHint: "Ronse St. Hermes Crypt architecture", image: "/poi-images/belgium-ronse-cities-v2.webp"},
-  {
+imageHint: "Ronse St. Hermes Crypt architecture",
+    descriptionAdvanced: {
+      de: "Ronse (Renaix) ist eine charaktervolle und hügelige Stadt in der Provinz Ostflandern, die sich im Herzen der Flämischen Ardennen an der Sprachgrenze zu Wallonien befindet. Die Stadt erlebte im 19. und frühen 20. Jahrhundert als blühendes Zentrum der Textilindustrie einen enormen Aufschwung. Zahlreiche im Art-déco-Stil erbaute Industriellenvillen und erhaltene Fabrikgebäude zeugen noch heute von dieser wohlhabenden Epoche; das Must – Museum für Textil widmet sich detailliert dieser Geschichte. Ronse ist tief in alten Traditionen verwurzelt, allen voran der Fiertel-Prozession, einem historischen Umzug rund um die Stadtgrenzen zu Ehren des Heiligen Hermes, der bis ins Mittelalter zurückreicht. Die umliegende Landschaft, geprägt von den steilen Hügeln der Flämischen Ardennen wie dem Muziekberg, macht Ronse zu einem Paradies für Radsportler und Naturfreunde.",
+      hu: "Ronse (Renaix) egy karakteres, dombos város Kelet-Flandria tartományban, amely a Flamand Ardennek szívében, a Vallóniával közös nyelvi határon fekszik. A város a 19. és a 20. század elején a textilipar virágzó központjaként hatalmas fellendülést élt át. Számos art deco stílusban épült gyárosvilla és fennmaradt gyárépület tanúskodik ma is erről a jómódú korszakról; a Must – Textilmúzeum részletesen bemutatja ezt a történelmet. Ronse mélyen gyökerezik a régi hagyományokban, mindenekelőtt a Fiertel-körmenetben, amely egy Szent Hermész tiszteletére rendezett, a középkorig visszanyúló történelmi vonulás a városhatárok körül. A környező táj, amelyet a Flamand Ardennek meredek dombjai, például a Muziekberg jellemeznek, a kerékpárosok és a természetbarátok paradicsomává teszi Ronse-t.",
+      ro: "Ronse (Renaix) este un oraș deluros și plin de caracter din provincia Flandra de Est, situat în inima Ardenilor Flamânzi, la granița lingvistică cu Valonia. Orașul a cunoscut un avânt enorm în secolul al XIX-lea și începutul secolului al XX-lea, ca un centru înfloritor al industriei textile. Numeroase vile ale industriașilor construite în stil Art Deco și clădiri de fabrici conservate stau mărturie și astăzi a acestei epoci prospere; Must – Muzeul Textilelor este dedicat în detaliu acestei istorii. Ronse este profund înrădăcinat în vechi tradiții, în special Procesiunea Fiertel, o paradă istorică în jurul granițelor orașului în onoarea Sfântului Hermes, care datează din Evul Mediu. Peisajul înconjurător, caracterizat de dealurile abrupte ale Ardenilor Flamânzi, precum Muziekberg, face din Ronse un paradis pentru bicicliști și iubitorii de natură.",
+      en: "Ronse (Renaix) is a characterful and hilly city in the province of East Flanders, located in the heart of the Flemish Ardennes on the linguistic border with Wallonia. The city experienced an enormous boom in the 19th and early 20th centuries as a flourishing center of the textile industry. Numerous industrialist villas built in the Art Deco style and preserved factory buildings still bear witness to this prosperous era today; the Must – Museum of Textiles is dedicated in detail to this history. Ronse is deeply rooted in old traditions, foremost the Fiertel Procession, a historical parade around the city borders in honor of Saint Hermes that dates back to the Middle Ages. The surrounding landscape, characterized by the steep hills of the Flemish Ardennes such as the Muziekberg, makes Ronse a paradise for cyclists and nature lovers."
+    },
+    factsAdvanced: {
+      de: ["The Must Museum is housed in a former textile factory, preserving industrial heritage", "Saint Hermes Church contains an exceptionally large 11th-century Romanesque crypt", "The Fiertel Procession involves carrying the reliquary of St. Hermes around the city boundaries", "Ronse has a significant number of preserved Art Deco houses built between the world wars", "Located in a valley surrounded by the hills of the Flemish Ardennes", "A facility municipality, providing linguistic rights for French-speaking residents", "Historically a major center for wool and linen weaving since the Middle Ages"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-ronse-cities-v2.webp",
+},  {
     id: "belgium-ninove-cities-v2",
     type: "city",
-    name: { de: "Ninove", hu: "Ninove", ro: "Ninove", en: "Ninove" },
+    name: { de: "Ninove", hu: "Ninove", ro: "Ninove", en: "Ninove",
+image: "/poi-images/belgium-ninove-cities-v2.webp"
+},
     coords: [4.0225, 50.8355],
     coordinates: { lat: 50.8355, lng: 4.0225 },
     description: {
@@ -1403,11 +1922,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Fosta abație din Ninove", "Carnavalul din Ninove", "Oraș pe râul Dender", "Poarta orașului Koepoort"],
       en: ["Former Abbey of Ninove", "Ninove Carnival", "City on the Dender river", "Koepoort city gate"],
     },
-    imageHint: "Ninove abbey church facade", image: "/poi-images/belgium-ninove-cities-v2.webp"},
-  {
+imageHint: "Ninove abbey church facade",
+    descriptionAdvanced: {
+      de: "Ninove ist eine historische Stadt in der Provinz Ostflandern, die idyllisch an den Ufern der Dender liegt und zur malerischen Region Denderland gehört. Die Ursprünge der Stadt sind eng mit der Gründung der Prämonstratenserabtei von Ninove im 12. Jahrhundert verbunden, die jahrhundertelang das religiöse und wirtschaftliche Leben der Region dominierte. Die majestätische Liebfrauen-Himmelfahrt-Kirche, die barocke ehemalige Abteikirche, zeugt mit ihrem prächtigen Interieur noch heute vom enormen Reichtum dieser klösterlichen Vergangenheit. Im 19. Jahrhundert wandelte sich Ninove durch die blühende Zündholz- und Textilindustrie zu einem wichtigen industriellen Zentrum. Heute ist die Stadt für ihren ausgelassenen Karneval bekannt, einer der größten Flanderns, der am ersten Sonntag der Fastenzeit stattfindet, sowie für das markante \"Oud Stadhuis\" (Altes Rathaus) am zentralen Marktplatz.",
+      hu: "Ninove egy történelmi város Kelet-Flandria tartományban, amely idillikusan a Dender folyó partján fekszik, és a festői Denderland régióhoz tartozik. A város gyökerei szorosan kötődnek a ninovei premontrei apátság 12. századi alapításához, amely évszázadokon át uralta a régió vallási és gazdasági életét. A fenséges Nagyboldogasszony-templom, az egykori barokk apátsági templom pompás belső terével ma is tanúskodik e kolostori múlt hatalmas gazdagságáról. A 19. században Ninove a virágzó gyufa- és textiliparnak köszönhetően fontos ipari központtá alakult. Ma a város féktelen karneváljáról ismert, amely Flandria egyik legnagyobbika, és a nagyböjt első vasárnapján kerül megrendezésre, valamint a központi piactéren álló jellegzetes \"Oud Stadhuis\" (Régi Városháza) épületéről.",
+      ro: "Ninove este un oraș istoric din provincia Flandra de Est, situat idilic pe malurile râului Dender și aparținând regiunii pitorești Denderland. Originile orașului sunt strâns legate de fondarea Abației premonstratense din Ninove în secolul al XII-lea, care a dominat viața religioasă și economică a regiunii timp de secole. Majestuoasa Biserică a Adormirii Maicii Domnului, fosta biserică a abației în stil baroc, stă mărturie și astăzi, cu interiorul său magnific, a enormei bogății a acestui trecut monahal. În secolul al XIX-lea, Ninove s-a transformat într-un important centru industrial datorită industriei înfloritoare a chibriturilor și a textilelor. Astăzi, orașul este cunoscut pentru carnavalul său exuberant, unul dintre cele mai mari din Flandra, care are loc în prima duminică din Postul Mare, precum și pentru clădirea distinctivă „Oud Stadhuis” (Vechea Primărie) din piața centrală.",
+      en: "Ninove is a historic city in the province of East Flanders, idyllically situated on the banks of the Dender River and belonging to the picturesque Denderland region. The origins of the city are closely linked to the founding of the Premonstratensian Abbey of Ninove in the 12th century, which dominated the religious and economic life of the region for centuries. The majestic Church of the Assumption of Our Lady, the former Baroque abbey church, still bears witness today, with its magnificent interior, to the enormous wealth of this monastic past. In the 19th century, Ninove transformed into an important industrial center due to the flourishing match and textile industries. Today, the city is known for its exuberant carnival, one of the largest in Flanders, which takes place on the first Sunday of Lent, as well as for the distinctive \"Oud Stadhuis\" (Old Town Hall) on the central market square."
+    },
+    factsAdvanced: {
+      de: ["The Ninove Abbey was a prominent Premonstratensian monastery founded in 1137", "The Baroque Abbey Church of Our Lady of the Assumption features exquisite woodcarvings", "The local carnival is the oldest, largest, and most vibrant in the Dender region", "Ninove's city center features the preserved 'Koepoort' (Cow Gate), part of the old city walls", "The Old Town Hall (Oud Stadhuis) is a prominent neoclassical building from 1836", "The city experienced massive industrialization in the 19th century with matchstick factories", "The Dender river runs straight through the city, providing scenic green banks"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-ninove-cities-v2.webp",
+},  {
     id: "belgium-izegem-cities-v2",
     type: "city",
-    name: { de: "Izegem", hu: "Izegem", ro: "Izegem", en: "Izegem" },
+    name: { de: "Izegem", hu: "Izegem", ro: "Izegem", en: "Izegem",
+image: "/poi-images/belgium-izegem-cities-v2.webp"
+},
     coords: [3.2136, 50.9194],
     coordinates: { lat: 50.9194, lng: 3.2136 },
     description: {
@@ -1422,11 +1956,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Muzeul Eperon d'Or", "Tradiția fabricării pantofilor", "Castelul Blauwhuis", "Industrie de-a lungul canalului"],
       en: ["Eperon d'Or Museum", "Tradition of shoe making", "Blauwhuis Castle", "Industry along the canal"],
     },
-    imageHint: "Izegem Eperon d'Or museum building", image: "/poi-images/belgium-izegem-cities-v2.webp"},
-  {
+imageHint: "Izegem Eperon d'Or museum building",
+    descriptionAdvanced: {
+      de: "Izegem ist eine fleißige und traditionsreiche Stadt im Herzen der Provinz Westflandern, gelegen am Ufer der Mandel und am Kanal Roeselare-Leie. Die Stadt trägt stolz den Beinamen \"Pekkersstad\", abgeleitet von dem Pech (Pek), das früher bei der Herstellung von Schuhen verwendet wurde. In der Tat erlangte Izegem im 19. und 20. Jahrhundert Weltruhm durch seine feine Schuhmacherei sowie seine florierende Bürstenindustrie; Produkte aus Izegem galten international als Inbegriff höchster handwerklicher Qualität. Das moderne Eperon d'Or Museum, das in einer atemberaubend restaurierten Art-déco-Schuhfabrik untergebracht ist, dokumentiert dieses reiche industrielle Erbe auf faszinierende Weise. Darüber hinaus verfügt das malerische Stadtzentrum über mehrere architektonische Highlights, wie das Schloss Wallemote und die beeindruckende St.-Hilonius-Kirche, die das historische Panorama der Stadt bereichern.",
+      hu: "Izegem egy szorgalmas és nagy hagyományokkal rendelkező város Nyugat-Flandria tartomány szívében, a Mandel folyó és a Roeselare-Leie csatorna partján. A város büszkén viseli a \"Pekkersstad\" becenevet, amely a cipőkészítés során egykor használt szurokból (pek) származik. Valóban, Izegem a 19. és 20. században világhírnévre tett szert finom cipőgyártásával és virágzó kefeiparával; az izegemi termékek nemzetközileg is a legmagasabb kézműves minőség megtestesítői voltak. A modern Eperon d'Or Múzeum, amely egy lélegzetelállítóan felújított art deco cipőgyárban kapott helyet, lenyűgöző módon dokumentálja ezt a gazdag ipari örökséget. Ezenkívül a festői városközpont számos építészeti fényponttal rendelkezik, mint például a Wallemote kastély és a lenyűgöző Szent Hilonius-templom, amelyek gazdagítják a város történelmi panorámáját.",
+      ro: "Izegem este un oraș harnic și plin de tradiții din inima provinciei Flandra de Vest, situat pe malurile râului Mandel și pe Canalul Roeselare-Leie. Orașul poartă cu mândrie porecla \"Pekkersstad\", derivată de la smoala (pek) care era folosită în trecut la fabricarea pantofilor. Într-adevăr, Izegem a dobândit faimă mondială în secolele al XIX-lea și al XX-lea prin producția sa fină de încălțăminte și prin industria sa înfloritoare a periilor; produsele din Izegem au fost considerate la nivel internațional drept întruchiparea celei mai înalte calități meșteșugărești. Modernul Muzeu Eperon d'Or, găzduit într-o fabrică de pantofi în stil Art Deco, restaurată uluitor, documentează într-un mod fascinant această bogată moștenire industrială. În plus, centrul pitoresc al orașului are mai multe puncte de atracție arhitecturală, cum ar fi Castelul Wallemote și impresionanta Biserică Sfântul Hilonius, care îmbogățesc panorama istorică a orașului.",
+      en: "Izegem is an industrious and tradition-rich city in the heart of the West Flanders province, located on the banks of the Mandel River and the Roeselare-Leie Canal. The city proudly bears the nickname \"Pekkersstad,\" derived from the pitch (pek) that was formerly used in the manufacture of shoes. Indeed, Izegem achieved world fame in the 19th and 20th centuries through its fine shoemaking and its flourishing brush industry; products from Izegem were considered internationally as the epitome of the highest craftsmanship quality. The modern Eperon d'Or Museum, housed in a breathtakingly restored Art Deco shoe factory, documents this rich industrial heritage in a fascinating way. In addition, the picturesque city center features several architectural highlights, such as Wallemote Castle and the impressive St. Hilonius Church, which enrich the city's historical panorama."
+    },
+    factsAdvanced: {
+      de: ["The Eperon d'Or museum showcases the city's legacy in shoemaking and brush manufacturing", "Izegem was historically Belgium's leading producer of luxury footwear", "The Wallemote Castle is surrounded by an extensive 24-hectare park", "Pekkersstad (Pitch City) nickname refers to the pitch used in traditional cobbling", "The Church of Saint Hilonius features a striking 60-meter high tower", "A major junction on the Roeselare-Leie canal, aiding its industrial growth", "The city center features numerous examples of historic Art Deco architecture"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-izegem-cities-v2.webp",
+},  {
     id: "belgium-knokke-v2-cities-v2",
     type: "town",
-    name: { de: "Knokke", hu: "Knokke", ro: "Knokke", en: "Knokke" },
+    name: { de: "Knokke", hu: "Knokke", ro: "Knokke", en: "Knokke",
+image: "/poi-images/belgium-knokke-v2-cities-v2.webp"
+},
     coords: [3.2843, 51.3483],
     coordinates: { lat: 51.3483, lng: 3.2843 },
     description: {
@@ -1441,11 +1990,26 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Stațiune de lux", "Lângă Parcul Natural Zwin", "Cazinou faimos", "Numeroase galerii de artă"],
       en: ["Luxury seaside resort", "Near Zwin Nature Park", "Famous casino", "Numerous art galleries"],
     },
-    imageHint: "Knokke luxury storefronts and beach", image: "/poi-images/belgium-knokke-v2-cities-v2.webp"},
-  {
+imageHint: "Knokke luxury storefronts and beach",
+    descriptionAdvanced: {
+      de: "Knokke (als Hauptort von Knokke-Heist) ist die unbestrittene Perle der belgischen Küste und der bevorzugte Zufluchtsort für Liebhaber von Kunst, Mode und gehobener Gastronomie. Einst ein unbedeutendes Fischerdorf in den Poldern, verwandelte sich Knokke ab dem späten 19. Jahrhundert in ein schillerndes Seebad. Besonders der Ortsteil \"Het Zoute\" (Das Salzige) steht für ultimativen Luxus, gesäumt von makellos gepflegten Gärten, teuren Boutiquen und einer außergewöhnlich hohen Dichte an zeitgenössischen Kunstgalerien. Die Stadt pflegt eine tiefe Verbindung zur Kunst, was sich nicht zuletzt im Casino Knokke zeigt, dessen Wände von Meisterwerken René Magrittes und Keith Harings geziert werden. Der feine Sandstrand, mondäne Strandbars und die weitläufigen Dünenlandschaften bieten eine perfekte Kombination aus Entspannung und exklusivem Lifestyle.",
+      hu: "Knokke (Knokke-Heist központjaként) a belga tengerpart vitathatatlan gyöngyszeme, és a művészet, a divat és az előkelő gasztronómia kedvelőinek kedvenc menedékhelye. Az egykor jelentéktelen polderi halászfalu a 19. század végétől csillogó tengerparti üdülőhellyé változott. Különösen a \"Het Zoute\" (A sós) nevű városrész képviseli a végső luxust, kifogástalanul gondozott kertekkel, drága butikokkal és a kortárs művészeti galériák rendkívül magas koncentrációjával. A város mély kapcsolatot ápol a művészetekkel, ami nem utolsósorban a Knokke Kaszinóban is megmutatkozik, amelynek falait René Magritte és Keith Haring remekművei díszítik. A finom homokos strand, az elegáns tengerparti bárok és a kiterjedt dűnés tájak a pihenés és az exkluzív életmód tökéletes kombinációját nyújtják.",
+      ro: "Knokke (ca centru al orașului Knokke-Heist) este perla incontestabilă a coastei belgiene și refugiul preferat al iubitorilor de artă, modă și gastronomie de lux. Cândva un sat de pescari neînsemnat din poldere, Knokke s-a transformat dintr-o stațiune balneară strălucitoare la sfârșitul secolului al XIX-lea. În special cartierul \"Het Zoute\" (Cel Sărat) reprezintă luxul suprem, fiind mărginit de grădini îngrijite impecabil, buticuri scumpe și o densitate excepțional de mare de galerii de artă contemporană. Orașul cultivă o legătură profundă cu arta, lucru evident nu în ultimul rând în Cazinoul Knokke, ai cărui pereți sunt decorați cu capodopere ale lui René Magritte și Keith Haring. Plaja cu nisip fin, barurile de pe plajă la modă și peisajele vaste de dune oferă o combinație perfectă de relaxare și un stil de viață exclusivist.",
+      en: "Knokke (as the main center of Knokke-Heist) is the undisputed pearl of the Belgian coast and the preferred refuge for lovers of art, fashion, and fine dining. Once an insignificant fishing village in the polders, Knokke transformed into a dazzling seaside resort from the late 19th century onwards. The district \"Het Zoute\" (The Salty) in particular represents ultimate luxury, lined with impeccably manicured gardens, expensive boutiques, and an exceptionally high density of contemporary art galleries. The city cultivates a deep connection to art, which is evident not least in the Knokke Casino, whose walls are adorned with masterpieces by René Magritte and Keith Haring. The fine sandy beach, fashionable beach bars, and extensive dune landscapes offer a perfect combination of relaxation and an exclusive lifestyle."
+    },
+    factsAdvanced: {
+      de: ["The Knokke Casino features a massive 360-degree mural by René Magritte titled 'The Enchanted Domain'", "Contains the Zwin Nature Park, an internationally vital tidal salt marsh", "Features the most exclusive real estate market on the Belgian coast", "The town is a prominent center for contemporary art, hosting dozens of galleries", "Organizes the prestigious Knokke Hippique international show jumping event", "The coastal tram (Kusttram) connects Knokke all the way to De Panne", "Known for its distinctive white villas with red-tiled roofs and expansive gardens"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-knokke-v2-cities-v2.webp",
+},  {
     id: "belgium-blankenberge-cities-v2",
     type: "town",
-    name: { de: "Blankenberge", hu: "Blankenberge", ro: "Blankenberge", en: "Blankenberge" },
+    name: { de: "Blankenberge", hu: "Blankenberge", ro: "Blankenberge", en: "Blankenberge",
+image: "/poi-images/belgium-blankenberge-cities-v2.webp"
+},
     coords: [3.1283, 51.3128],
     coordinates: { lat: 51.3128, lng: 3.1283 },
     description: {
@@ -1461,5 +2025,17 @@ export const belgiumCitiesV2: POI[] = [
       en: ["Famous Blankenberge Pier", "Sea Life Centre", "Popular family beach", "Annual sand sculpture festival"],
     },
     imageHint: "Blankenberge pier and beach",
+    descriptionAdvanced: {
+      de: "Blankenberge ist ein überaus populäres und quirliges Seebad an der belgischen Küste, das für seine familienfreundliche und lebhafte Atmosphäre berühmt ist. Das absolute Wahrzeichen der Stadt ist der ikonische Belgium Pier, ein 350 Meter langer Steg, der majestätisch in die Nordsee hinausragt und ein markantes rundes Gebäude am Ende trägt. Die breite und immer belebte Strandpromenade wird von zahlreichen Restaurants, Cafés und Vergnügungsmöglichkeiten gesäumt, während der feinsandige Strand endlose Möglichkeiten für Sommeraktivitäten bietet. Blankenberge beheimatet auch das Sea Life Centre, ein großes Meeresaquarium, das die Unterwasserwelt eindrucksvoll präsentiert. Jedes Jahr lockt das Blankenberge Sandskulpturenfestival, bei dem Künstler aus aller Welt gigantische Meisterwerke aus Sand erschaffen, Tausende von Touristen in diese dynamische Küstenstadt.",
+      hu: "Blankenberge egy rendkívül népszerű és nyüzsgő tengerparti üdülőhely a belga tengerparton, amely családbarát és élénk hangulatáról híres. A város abszolút jelképe az ikonikus Belgium Pier, egy 350 méter hosszú móló, amely fenségesen nyúlik be az Északi-tengerbe, a végén pedig egy jellegzetes kerek épület áll. A széles és mindig forgalmas tengerparti sétányt számos étterem, kávézó és szórakozási lehetőség szegélyezi, míg a finom homokos strand végtelen lehetőségeket kínál a nyári tevékenységekhez. Blankenberge ad otthont a Sea Life Centre-nek is, egy nagy tengeri akváriumnak, amely lenyűgözően mutatja be a víz alatti világot. Minden évben a Blankenberge-i Homokszobor Fesztivál, ahol a világ minden tájáról érkező művészek gigantikus homokmesterműveket alkotnak, turisták ezreit vonzza ebbe a dinamikus tengerparti városba.",
+      ro: "Blankenberge este o stațiune balneară extrem de populară și plină de viață pe coasta belgiană, faimoasă pentru atmosfera sa familială și vibrantă. Simbolul absolut al orașului este iconicul Pier din Belgia, un debarcader de 350 de metri lungime care se extinde maiestuos în Marea Nordului și are o clădire circulară distinctivă la capăt. Promenada largă și mereu aglomerată de la plajă este mărginită de numeroase restaurante, cafenele și facilități de divertisment, în timp ce plaja cu nisip fin oferă posibilități nesfârșite pentru activități de vară. Blankenberge găzduiește, de asemenea, Sea Life Centre, un acvariu marin de mari dimensiuni care prezintă în mod impresionant lumea subacvatică. În fiecare an, Festivalul Sculpturilor de Nisip din Blankenberge, unde artiști din întreaga lume creează capodopere gigantice din nisip, atrage mii de turiști în acest oraș de coastă dinamic.",
+      en: "Blankenberge is an extremely popular and bustling seaside resort on the Belgian coast, famous for its family-friendly and lively atmosphere. The absolute landmark of the city is the iconic Belgium Pier, a 350-meter-long pier that juts majestically into the North Sea and features a distinctive round building at its end. The wide and always busy beach promenade is lined with numerous restaurants, cafes, and entertainment facilities, while the fine sandy beach offers endless possibilities for summer activities. Blankenberge is also home to the Sea Life Centre, a large marine aquarium that impressively showcases the underwater world. Every year, the Blankenberge Sand Sculpture Festival, where artists from all over the world create gigantic masterpieces out of sand, attracts thousands of tourists to this dynamic coastal city."
+    },
+    factsAdvanced: {
+      de: ["The Belgium Pier was originally built in 1894 and entirely reconstructed in 1933", "The Sea Life Centre is the largest public aquarium in Belgium", "Blankenberge hosts the annual Bloemencorso (Flower Parade) every August", "The Belle Epoque Centre showcases life and architecture in the town from 1870 to 1914", "Paravang, a historic windbreak structure, was built in 1908 to protect beachgoers", "Contains a large, modern marina that can harbor hundreds of pleasure yachts", "A heavily visited summer destination known for its massive beach and nightlife"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

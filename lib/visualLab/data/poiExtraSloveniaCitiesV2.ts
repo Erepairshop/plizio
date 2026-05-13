@@ -4,7 +4,9 @@ export const sloveniaCitiesV2: POI[] = [
   {
     id: "slovenia-velenje-cities-v2",
     type: "city",
-    name: { de: "Velenje", hu: "Velenje", ro: "Velenje", en: "Velenje" },
+    name: { de: "Velenje", hu: "Velenje", ro: "Velenje", en: "Velenje",
+image: "/poi-images/slovenia-velenje-cities-v2.webp"
+},
     coords: [15.111, 46.361],
     coordinates: { lat: 46.361, lng: 15.111 },
     description: {
@@ -19,11 +21,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al industriei electrice", "Sediul central al companiei Gorenje", "Tradiție minieră din 1875", "Lacul Velenje creat prin minerit"],
       en: ["Center of electrical industry", "Headquarters of Gorenje company", "Mining tradition since 1875", "Velenje Lake formed by mining"],
     },
-    imageHint: "Velenje Castle and modern city skyline", image: "/poi-images/slovenia-velenje-cities-v2.webp"},
-  {
+imageHint: "Velenje Castle and modern city skyline",
+    descriptionAdvanced: {
+      de: "Velenje ist eine moderne Planstadt, die nach 1950 durch den Bergbau boomte. Die Architektur ist durch funktionalistische Gebäude und großzügige Parks geprägt.",
+      hu: "Velenje egy modern, az 1950-es években tervezett bányaváros. A szocialista modernizmus jegyében épült, tágas tereivel és mesterséges tavaival tűnik ki.",
+      ro: "Velenje este un oraș planificat modern, dezvoltat după 1950 datorită exploatării cărbunelui. Arhitectura sa este definită de urbanismul funcționalist.",
+      en: "Velenje is a planned modern city developed after 1950 around its lignite mine. It features functionalist architecture, wide green spaces, and artificial lakes.",
+    },
+    factsAdvanced: {
+      de: ["360 m tiefes Braunkohlebergwerk", "Gegründet im Jahr 1959", "Fläche: etwa 40 qm km", "Höhe: 396 m über dem Meer"],
+      hu: ["360 méter mély lignitbánya", "1959-ben kapott városi rangot", "Területe kb. 40 négyzetkilométer", "Tengerszint feletti magasság: 396 m"],
+      ro: ["Mină de lignit la 360 m adâncime", "Fondat oficial în anul 1959", "Suprafață: circa 40 km pătrați", "Altitudine medie: 396 metri"],
+      en: ["Lignite mine reaching 360m depth", "Established as a city in 1959", "Area: approx. 40 square km", "Elevation: 396 m above sea level"],
+    },
+    image: "/poi-images/slovenia-velenje-cities-v2.webp",
+},  {
     id: "slovenia-novo-mesto-cities-v2",
     type: "city",
-    name: { de: "Novo Mesto", hu: "Novo Mesto", ro: "Novo Mesto", en: "Novo Mesto" },
+    name: { de: "Novo Mesto", hu: "Novo Mesto", ro: "Novo Mesto", en: "Novo Mesto",
+image: "/poi-images/slovenia-novo-mesto-cities-v2.webp"
+},
     coords: [15.171, 45.801],
     coordinates: { lat: 45.801, lng: 15.171 },
     description: {
@@ -38,11 +55,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1365", "Centru al industriei farmaceutice", "Cunoscut pentru vinul Cviček", "Situat în valea râului Krka"],
       en: ["Founded in the year 1365", "Center of pharmaceutical industry", "Known for Cviček wine", "Located in the Krka River valley"],
     },
-    imageHint: "Novo Mesto historic center on Krka river loop", image: "/poi-images/slovenia-novo-mesto-cities-v2.webp"},
-  {
+imageHint: "Novo Mesto historic center on Krka river loop",
+    descriptionAdvanced: {
+      de: "Novo mesto liegt an einer markanten Krka-Schleife und ist das wirtschaftliche Zentrum Unterkrains. Es beherbergt große Pharma- und Automobilunternehmen.",
+      hu: "Novo Mesto a Krka folyó kanyarulatában fekszik, Alsó-Krajna központja. A város jelentős gyógyszer- és autóipari központ, 1365-ben alapította IV. Rudolf.",
+      ro: "Novo Mesto este situat pe o buclă a râului Krka și reprezintă centrul economic al Carniolei de Jos. Găzduiește sedii importante din industria farma.",
+      en: "Novo Mesto lies on a distinct bend of the Krka River and is Lower Carniola's economic hub. It is home to major pharmaceutical and automotive industries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 7. April 1365", "Hauptsitz der Firma Krka", "Einwohner: ca. 23.000", "Fläche der Gemeinde: 236 qkm"],
+      hu: ["Alapítva 1365. április 7-én", "A Krka gyógyszergyár székhelye", "Lakossága kb. 23 000 fő", "Község területe: 236 nkm"],
+      ro: ["Fondat la 7 aprilie 1365", "Sediul central al companiei Krka", "Populație: aprox. 23.000 locuitori", "Suprafața comunei: 236 km pătrați"],
+      en: ["Founded on April 7, 1365", "Headquarters of Krka d.d.", "Population: approx. 23,000", "Municipality area: 236 sq km"],
+    },
+    image: "/poi-images/slovenia-novo-mesto-cities-v2.webp",
+},  {
     id: "slovenia-ptuj-cities-v2",
     type: "city",
-    name: { de: "Ptuj", hu: "Ptuj", ro: "Ptuj", en: "Ptuj" },
+    name: { de: "Ptuj", hu: "Ptuj", ro: "Ptuj", en: "Ptuj",
+image: "/poi-images/slovenia-ptuj-cities-v2.webp"
+},
     coords: [15.869, 46.419],
     coordinates: { lat: 46.419, lng: 15.869 },
     description: {
@@ -57,11 +89,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Nume roman: Poetovio", "Cel mai vechi oraș din țară", "Gazda carnavalului Kurentovanje", "Deține un castel din secolul XII"],
       en: ["Known as Poetovio in Roman times", "Oldest city in the country", "Home of the Kurentovanje carnival", "Features a 12th-century castle"],
     },
-    imageHint: "Ptuj old town with castle and Drava river", image: "/poi-images/slovenia-ptuj-cities-v2.webp"},
-  {
+imageHint: "Ptuj old town with castle and Drava river",
+    descriptionAdvanced: {
+      de: "Ptuj ist die älteste Stadt Sloweniens mit römischen Wurzeln als Poetovio. Die mittelalterliche Burg überragt das Stadtzentrum an der Drau.",
+      hu: "Ptuj Szlovénia legrégebbi városa, római kori gyökerekkel (Poetovio). A Dráva partján fekvő települést a középkori vár uralja és a Kurent-hagyomány élteti.",
+      ro: "Ptuj este cel mai vechi oraș din Slovenia, având origini romane sub numele de Poetovio. Castelul medieval domină centrul istoric de pe malul Dravei.",
+      en: "Ptuj is Slovenia's oldest city, originating from the Roman settlement of Poetovio. Its medieval castle overlooks the historic center on the Drava River.",
+    },
+    factsAdvanced: {
+      de: ["Römische Siedlung seit 69 n. Chr.", "Älteste Stadtrechte seit 1376", "Heimat des Kurent-Karnevals", "Höhe: 232 m über dem Meer"],
+      hu: ["Római település i.sz. 69 óta", "Városi jogok 1376 óta", "A Kurent-felvonulás otthona", "Tengerszint felett 232 méteren"],
+      ro: ["Așezare romană din anul 69 d.Hr.", "Drepturi de oraș din 1376", "Gazda festivalului Kurentovanje", "Altitudine: 232 metri"],
+      en: ["Roman settlement since 69 AD", "City rights granted in 1376", "Home of the Kurent carnival", "Elevation: 232 m above sea level"],
+    },
+    image: "/poi-images/slovenia-ptuj-cities-v2.webp",
+},  {
     id: "slovenia-kamnik-cities-v2",
     type: "town",
-    name: { de: "Kamnik", hu: "Kamnik", ro: "Kamnik", en: "Kamnik" },
+    name: { de: "Kamnik", hu: "Kamnik", ro: "Kamnik", en: "Kamnik",
+image: "/poi-images/slovenia-kamnik-cities-v2.webp"
+},
     coords: [14.612, 46.225],
     coordinates: { lat: 46.225, lng: 14.612 },
     description: {
@@ -76,11 +123,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Are două ruine de castele", "Fostă capitală a Crainei", "Poartă către Alpii Kamnik", "Strada medievală Sutna"],
       en: ["Features two castle ruins", "Former capital of Carniola", "Gateway to the Kamnik Alps", "Medieval Sutna street architecture"],
     },
-    imageHint: "Kamnik town center with Alps in background", image: "/poi-images/slovenia-kamnik-cities-v2.webp"},
-  {
+imageHint: "Kamnik town center with Alps in background",
+    descriptionAdvanced: {
+      de: "Kamnik liegt am Fuße der Steiner Alpen und war einst ein wichtiges Handelszentrum. Die Stadt bewahrt ein reiches Erbe mit zwei Burgen und Klöstern.",
+      hu: "Kamnik a Kamniki-Alpok lábánál fekvő egykori kereskedelmi központ. A városban két várrom és számos kolostor őrzi a középkori örökséget.",
+      ro: "Kamnik se află la poalele Alpilor Kamnik-Savinja și a fost un important centru comercial. Orașul păstrează ruinele a două castele medievale.",
+      en: "Kamnik is situated at the foot of the Kamnik-Savinja Alps and was once a major trade hub. It features a rich heritage with two castles and monasteries.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1229", "Höhe: 380 m über dem Meer", "Nähe zum Velika Planina Plateau", "Zentrum der Textilindustrie"],
+      hu: ["Első említése 1229-ben", "Tengerszint felett 380 méteren", "A Velika Planina kapuja", "Textilipari központ volt"],
+      ro: ["Prima atestare în anul 1229", "Altitudine: 380 metri", "Aproape de platoul Velika Planina", "Fost centru al industriei textile"],
+      en: ["First mentioned in 1229", "Elevation: 380 m above sea level", "Gateway to Velika Planina plateau", "Former textile industry center"],
+    },
+    image: "/poi-images/slovenia-kamnik-cities-v2.webp",
+},  {
     id: "slovenia-trbovlje-cities-v2",
     type: "city",
-    name: { de: "Trbovlje", hu: "Trbovlje", ro: "Trbovlje", en: "Trbovlje" },
+    name: { de: "Trbovlje", hu: "Trbovlje", ro: "Trbovlje", en: "Trbovlje",
+image: "/poi-images/slovenia-trbovlje-cities-v2.webp"
+},
     coords: [15.053, 46.155],
     coordinates: { lat: 46.155, lng: 15.053 },
     description: {
@@ -95,11 +157,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Cel mai înalt coș din Europa (360m)", "Fost centru al minelor de cărbune", "Locul de origine al trupei Laibach", "Situat în regiunea muntoasă Posavje"],
       en: ["Tallest chimney in Europe (360m)", "Former coal mining center", "Birthplace of the band Laibach", "Located in the Posavje Hills"],
     },
-    imageHint: "Trbovlje chimney tallest in Europe", image: "/poi-images/slovenia-trbovlje-cities-v2.webp"},
-  {
+imageHint: "Trbovlje chimney tallest in Europe",
+    descriptionAdvanced: {
+      de: "Trbovlje ist ein bedeutendes Industriezentrum im Save-Tal. Es ist bekannt für seine lange Bergbaugeschichte und den höchsten Schornstein Europas.",
+      hu: "Trbovlje a Száva-völgy meghatározó ipari központja. Hosszú bányászati múltjáról és Európa legmagasabb ipari kéményéről vált világszerte ismertté.",
+      ro: "Trbovlje este un centru industrial major în valea râului Sava. Este faimos pentru istoria minieră și cel mai înalt coș de fum din Europa.",
+      en: "Trbovlje is a significant industrial center in the Sava Valley. It is renowned for its mining history and hosting Europe's tallest industrial chimney.",
+    },
+    factsAdvanced: {
+      de: ["360 m hoher Kraftwerksschornstein", "Kohlebergbau seit dem Jahr 1804", "Höhe: 307 m über dem Meer", "Heimat der Gruppe Laibach"],
+      hu: ["360 méter magas kémény", "Szénbányászat 1804 óta", "Tengerszint felett 307 méteren", "A Laibach zenekar szülőhelye"],
+      ro: ["Coș de fum înalt de 360 m", "Minerit de cărbune din 1804", "Altitudine: 307 metri", "Locul de origine al trupei Laibach"],
+      en: ["Chimney height: 360 meters", "Coal mining started in 1804", "Elevation: 307 m above sea level", "Birthplace of the band Laibach"],
+    },
+    image: "/poi-images/slovenia-trbovlje-cities-v2.webp",
+},  {
     id: "slovenia-jesenice-cities-v2",
     type: "city",
-    name: { de: "Jesenice", hu: "Jesenice", ro: "Jesenice", en: "Jesenice" },
+    name: { de: "Jesenice", hu: "Jesenice", ro: "Jesenice", en: "Jesenice",
+image: "/poi-images/slovenia-jesenice-cities-v2.webp"
+},
     coords: [14.055, 46.436],
     coordinates: { lat: 46.436, lng: 14.055 },
     description: {
@@ -114,11 +191,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru tradițional siderurgic", "Situat lângă granița cu Austria", "Faimos pentru clubul HK Jesenice", "Tunelul Karawanks începe aici"],
       en: ["Traditional ironworks center", "Located near the Austrian border", "Famous for HK Jesenice hockey club", "Karawanks Tunnel starts nearby"],
     },
-    imageHint: "Jesenice city view with steel works and mountains", image: "/poi-images/slovenia-jesenice-cities-v2.webp"},
-  {
+imageHint: "Jesenice city view with steel works and mountains",
+    descriptionAdvanced: {
+      de: "Jesenice ist als 'Stadt des Stahls' bekannt und liegt am Tor zum Triglav-Nationalpark. Die Stadt hat eine jahrhundertealte Tradition in der Eisenverarbeitung.",
+      hu: "Jesenice az acél városaként ismert, a Triglav Nemzeti Park kapujában. A település évszázados vasműves hagyományokkal és híres hokicsapattal rendelkezik.",
+      ro: "Jesenice este cunoscut drept „orașul oțelului”, situat la poarta Parcului Național Triglav. Are o tradiție seculară în prelucrarea fierului.",
+      en: "Jesenice is known as the 'City of Steel' and sits at the gateway to Triglav National Park. It has a centuries-old tradition in ironworking.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Stahlwerke Acroni", "Eishockey-Hauptstadt Sloweniens", "Höhe: 576 m über dem Meer", "Nähe zum Karawankentunnel"],
+      hu: ["Az Acroni acélművek székhelye", "Szlovénia jégkorong-központja", "Tengerszint felett 576 méteren", "A Karavankák-alagút mellett"],
+      ro: ["Sediul combinatului Acroni", "Capitala hocheiului sloven", "Altitudine: 576 metri", "Lângă tunelul Karawanken"],
+      en: ["Home to Acroni steelworks", "Ice hockey capital of Slovenia", "Elevation: 576 m above sea level", "Near the Karawanks Tunnel"],
+    },
+    image: "/poi-images/slovenia-jesenice-cities-v2.webp",
+},  {
     id: "slovenia-murska-sobota-cities-v2",
     type: "city",
-    name: { de: "Murska Sobota", hu: "Murska Sobota", ro: "Murska Sobota", en: "Murska Sobota" },
+    name: { de: "Murska Sobota", hu: "Murska Sobota", ro: "Murska Sobota", en: "Murska Sobota",
+image: "/poi-images/slovenia-murska-sobota-cities-v2.webp"
+},
     coords: [16.166, 46.662],
     coordinates: { lat: 46.662, lng: 16.166 },
     description: {
@@ -133,11 +225,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Prekmurje", "Are un castel renascentist", "Aproape de granița cu Ungaria", "Bucătărie tradițională locală"],
       en: ["Center of the Prekmurje region", "Features a Renaissance castle", "Near the Hungarian border", "Known for Prekmurje cuisine"],
     },
-    imageHint: "Murska Sobota Castle in the city park", image: "/poi-images/slovenia-murska-sobota-cities-v2.webp"},
-  {
+imageHint: "Murska Sobota Castle in the city park",
+    descriptionAdvanced: {
+      de: "Murska Sobota ist das kulturelle Zentrum der Region Prekmurje. Die Stadt ist durch das Sobota-Schloss und die Nähe zur pannonischen Tiefebene geprägt.",
+      hu: "Murska Sobota a Muravidék kulturális és gazdasági központja. A várost a reneszánsz Szapáry-kastély és a pannon táj közelsége határozza meg.",
+      ro: "Murska Sobota este centrul cultural al regiunii Prekmurje. Orașul este definit de castelul local și de proximitatea față de Câmpia Panonică.",
+      en: "Murska Sobota is the cultural hub of the Prekmurje region. The city is characterized by its castle and its location in the Pannonian Plain.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichste Stadt Sloweniens", "Schloss Sobota aus dem 16. Jh.", "Höhe: 190 m über dem Meer", "Region Prekmurje (Übermurgebiet)"],
+      hu: ["Szlovénia legészakibb városa", "16. századi Szapáry-kastély", "Tengerszint felett 190 méteren", "A Muravidék központja"],
+      ro: ["Cel mai nordic oraș sloven", "Castelul Sobota din sec. XVI", "Altitudine: 190 metri", "Capitala regiunii Prekmurje"],
+      en: ["Northernmost city in Slovenia", "16th-century Sobota Castle", "Elevation: 190 m above sea level", "Center of the Prekmurje region"],
+    },
+    image: "/poi-images/slovenia-murska-sobota-cities-v2.webp",
+},  {
     id: "slovenia-nova-gorica-cities-v2",
     type: "city",
-    name: { de: "Nova Gorica", hu: "Nova Gorica", ro: "Nova Gorica", en: "Nova Gorica" },
+    name: { de: "Nova Gorica", hu: "Nova Gorica", ro: "Nova Gorica", en: "Nova Gorica",
+image: "/poi-images/slovenia-nova-gorica-cities-v2.webp"
+},
     coords: [13.649, 45.955],
     coordinates: { lat: 45.955, lng: 13.649 },
     description: {
@@ -152,11 +259,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1948", "Cunoscut pentru cazinouri", "Se învecinează direct cu Italia", "Climat mediteranean blând"],
       en: ["Founded in 1948", "Known for its casinos", "Directly borders Italy", "Mild Mediterranean climate"],
     },
-    imageHint: "Nova Gorica Transalpina Square at Italian border", image: "/poi-images/slovenia-nova-gorica-cities-v2.webp"},
-  {
+imageHint: "Nova Gorica Transalpina Square at Italian border",
+    descriptionAdvanced: {
+      de: "Nova Gorica wurde nach 1947 als moderne Grenzstadt neben dem italienischen Gorizia erbaut. Sie ist bekannt als Stadt der Rosen und für ihre Kasinos.",
+      hu: "Nova Goricát 1947 után alapították modern határvárosként az olasz Gorizia mellett. A 'rózsák városa' kaszinóiról és enyhe klímájáról híres.",
+      ro: "Nova Gorica a fost construit după 1947 ca un oraș de frontieră modern lângă Gorizia italiană. Este cunoscut drept orașul trandafirilor.",
+      en: "Nova Gorica was built after 1947 as a modern border city adjacent to Italy's Gorizia. It is known as the 'City of Roses' and a casino hub.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1948", "Europäische Kulturhauptstadt 2025", "Höhe: 92 m über dem Meer", "Teilt sich einen Platz mit Italien"],
+      hu: ["1948-ban alapították", "Európa Kulturális Fővárosa 2025", "Tengerszint felett 92 méteren", "Közös tere van az olasz várossal"],
+      ro: ["Fondat în anul 1948", "Capitală Culturală Europeană 2025", "Altitudine: 92 metri", "Piață comună cu Italia (Transalpina)"],
+      en: ["Founded in 1948", "European Capital of Culture 2025", "Elevation: 92 m above sea level", "Shares a square with Italy"],
+    },
+    image: "/poi-images/slovenia-nova-gorica-cities-v2.webp",
+},  {
     id: "slovenia-domzale-cities-v2",
     type: "town",
-    name: { de: "Domžale", hu: "Domžale", ro: "Domžale", en: "Domžale" },
+    name: { de: "Domžale", hu: "Domžale", ro: "Domžale", en: "Domžale",
+image: "/poi-images/slovenia-domzale-cities-v2.webp"
+},
     coords: [14.594, 46.138],
     coordinates: { lat: 46.138, lng: 14.594 },
     description: {
@@ -171,11 +293,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al fabricării pălăriilor de paie", "Are un muzeu al pălăriilor de paie", "Centru sportiv important", "Aproape de capitala Ljubljana"],
       en: ["Center of straw hat manufacturing", "Features a straw hat museum", "Significant sports hub", "Near the capital Ljubljana"],
     },
-    imageHint: "Domzale town center and sports park", image: "/poi-images/slovenia-domzale-cities-v2.webp"},
-  {
+imageHint: "Domzale town center and sports park",
+    descriptionAdvanced: {
+      de: "Domžale liegt nahe Ljubljana und war historisch für seine Strohhutflechterei bekannt. Heute ist es eine schnell wachsende Wohn- und Industriestadt.",
+      hu: "Domžale Ljubljana közelében fekszik, történelmileg a szalmakalap-készítéséről volt híres. Ma Szlovénia egyik leggyorsabban fejlődő városa.",
+      ro: "Domžale se află lângă Ljubljana și a fost istoric renumit pentru împletirea pălăriilor de paie. Astăzi este un oraș rezidențial și industrial.",
+      en: "Domžale is located near Ljubljana and was historically famous for its straw-hat making. Today it is a fast-growing residential and industrial city.",
+    },
+    factsAdvanced: {
+      de: ["Ehem. Zentrum der Strohhutindustrie", "Einwohner: ca. 13.000", "Höhe: 300 m über dem Meer", "Heimat des Fußballclubs Domžale"],
+      hu: ["A szalmakalap-ipar központja volt", "Lakossága kb. 13 000 fő", "Tengerszint felett 300 méteren", "Híres labdarúgócsapata van"],
+      ro: ["Fost centru al pălăriilor de paie", "Populație: aprox. 13.000 locuitori", "Altitudine: 300 metri", "Gazda clubului de fotbal NK Domžale"],
+      en: ["Former straw-hat industry center", "Population: approx. 13,000", "Elevation: 300 m above sea level", "Home to NK Domžale football club"],
+    },
+    image: "/poi-images/slovenia-domzale-cities-v2.webp",
+},  {
     id: "slovenia-izola-cities-v2",
     type: "town",
-    name: { de: "Izola", hu: "Izola", ro: "Izola", en: "Izola" },
+    name: { de: "Izola", hu: "Izola", ro: "Izola", en: "Izola",
+image: "/poi-images/slovenia-izola-cities-v2.webp"
+},
     coords: [13.66, 45.539],
     coordinates: { lat: 45.539, lng: 13.66 },
     description: {
@@ -190,11 +327,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Numele înseamnă 'Insulă'", "A făcut parte din Veneția", "Deține un port de agrement mare", "Centru al procesării peștelui"],
       en: ["Name means 'Island'", "Once part of Venice", "Features a large marina", "Center of fish processing"],
     },
-    imageHint: "Izola coastal town view with marina", image: "/poi-images/slovenia-izola-cities-v2.webp"},
-  {
+imageHint: "Izola coastal town view with marina",
+    descriptionAdvanced: {
+      de: "Izola ist eine charmante Küstenstadt mit venezianischem Erbe. Ursprünglich auf einer Insel gelegen, ist sie heute für Fischerei und Tourismus bekannt.",
+      hu: "Izola egy hangulatos tengerparti város velencei örökséggel. Eredetileg szigeten feküdt, mára jelentős halászati és turisztikai központtá vált.",
+      ro: "Izola este un oraș de coastă fermecător cu moștenire venețiană. Situat inițial pe o insulă, astăzi este renumit pentru pescuit și turism.",
+      en: "Izola is a charming coastal town with Venetian heritage. Originally an island, it is now a popular destination known for fishing and tourism.",
+    },
+    factsAdvanced: {
+      de: ["Frühere Insel (verbunden 1825)", "Bespinola-Palast aus dem 15. Jh.", "Einwohner: ca. 11.500", "Großer Yachthafen mit 700 Liegeplätzen"],
+      hu: ["1825-ben kötötték össze a parttal", "15. századi Bespinola-palota", "Lakossága kb. 11 500 fő", "Marina kikötő 700 hellyel"],
+      ro: ["Fostă insulă (unită în 1825)", "Palatul Bespinola din sec. XV", "Populație: aprox. 11.500 locuitori", "Port de iahturi cu 700 de locuri"],
+      en: ["Former island (connected in 1825)", "15th-century Bespinola Palace", "Population: approx. 11,500", "Marina with 700 berths"],
+    },
+    image: "/poi-images/slovenia-izola-cities-v2.webp",
+},  {
     id: "slovenia-kocevje-cities-v2",
     type: "town",
-    name: { de: "Kočevje", hu: "Kočevje", ro: "Kočevje", en: "Kočevje" },
+    name: { de: "Kočevje", hu: "Kočevje", ro: "Kočevje", en: "Kočevje",
+image: "/poi-images/slovenia-kocevje-cities-v2.webp"
+},
     coords: [14.863, 45.643],
     coordinates: { lat: 45.643, lng: 14.863 },
     description: {
@@ -209,11 +361,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al silviculturii", "Habitat pentru urșii bruni", "Are un lac artificial", "Sediul culturii Gottscheer"],
       en: ["Center of Slovenian forestry", "Habitat for brown bears", "Features an artificial lake", "Home to Gottschee German history"],
     },
-    imageHint: "Kocevje city and the nearby lake", image: "/poi-images/slovenia-kocevje-cities-v2.webp"},
-  {
+imageHint: "Kocevje city and the nearby lake",
+    descriptionAdvanced: {
+      de: "Kočevje liegt inmitten der dichtesten Wälder Sloweniens. Die Region war über Jahrhunderte eine Sprachinsel der deutschsprachigen Gottscheer.",
+      hu: "Kočevje Szlovénia legsűrűbb erdőinek közepén fekszik. A régió évszázadokon át a német ajkú gottscheeri közösség nyelvi szigete volt.",
+      ro: "Kočevje este situat în mijlocul celor mai dense păduri din Slovenia. Regiunea a fost timp de secole o enclavă a populației de limbă germană.",
+      en: "Kočevje is situated amidst Slovenia's densest forests. For centuries, the region was an enclave for the German-speaking Gottschee community.",
+    },
+    factsAdvanced: {
+      de: ["Kočevje-See (künstlich)", "Größte Gemeinde des Landes", "Gottscheer-Siedlungsgebiet seit 1330", "Höhe: 465 m über dem Meer"],
+      hu: ["Mesterséges Kočevje-tó", "Szlovénia legnagyobb területű községe", "Gottscheer település 1330 óta", "Tengerszint felett 465 méteren"],
+      ro: ["Lacul Kočevje (artificial)", "Cea mai mare comună ca suprafață", "Colonizată de germani din 1330", "Altitudine: 465 metri"],
+      en: ["Artificial Lake Kočevje", "Largest municipality by area", "Gottschee settlement since 1330", "Elevation: 465 m above sea level"],
+    },
+    image: "/poi-images/slovenia-kocevje-cities-v2.webp",
+},  {
     id: "slovenia-postojna-cities-v2",
     type: "town",
-    name: { de: "Postojna", hu: "Postojna", ro: "Postojna", en: "Postojna" },
+    name: { de: "Postojna", hu: "Postojna", ro: "Postojna", en: "Postojna",
+image: "/poi-images/slovenia-postojna-cities-v2.webp"
+},
     coords: [14.214, 45.775],
     coordinates: { lat: 45.775, lng: 14.214 },
     description: {
@@ -228,11 +395,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Faimos pentru peștera Postojna", "Are cea mai veche cale ferată în peșteră", "Aproape de castelul Predjama", "Centru al cercetării carstice"],
       en: ["Famous for the Postojna Cave", "Oldest cave railway in the world", "Near the Predjama Cave Castle", "Center of karst studies"],
     },
-    imageHint: "Postojna cave entrance and park", image: "/poi-images/slovenia-postojna-cities-v2.webp"},
-  {
+imageHint: "Postojna cave entrance and park",
+    descriptionAdvanced: {
+      de: "Postojna ist weltweit berühmt für sein riesiges Höhlensystem. Die Stadt liegt strategisch günstig am Übergang zwischen dem Binnenland und der Küste.",
+      hu: "Postojna világszerte híres hatalmas barlangrendszeréről. A város stratégiai helyen fekszik a karsztvidéken, az ország belseje és a partvidék között.",
+      ro: "Postojna este celebră în întreaga lume pentru sistemul său vast de peșteri. Orașul ocupă o poziție strategică în regiunea carstică.",
+      en: "Postojna is world-famous for its massive cave system. The town is strategically located at the transition between Slovenia's interior and the coast.",
+    },
+    factsAdvanced: {
+      de: ["Postojna-Höhle: 24 km lang", "Entdeckung der Höhle: 1818", "Höhe: 554 m über dem Meer", "Nähe zur Höhlenburg Predjama"],
+      hu: ["A Postojnai-barlang 24 km hosszú", "A barlang felfedezése: 1818", "Tengerszint felett 554 méteren", "Predjama sziklavár közelében"],
+      ro: ["Peștera Postojna: 24 km lungime", "Descoperirea peșterii: 1818", "Altitudine: 554 metri", "Lângă castelul Predjama"],
+      en: ["Postojna Cave length: 24 km", "Cave discovered in 1818", "Elevation: 554 m above sea level", "Near Predjama Castle"],
+    },
+    image: "/poi-images/slovenia-postojna-cities-v2.webp",
+},  {
     id: "slovenia-logatec-cities-v2",
     type: "town",
-    name: { de: "Logatec", hu: "Logatec", ro: "Logatec", en: "Logatec" },
+    name: { de: "Logatec", hu: "Logatec", ro: "Logatec", en: "Logatec",
+image: "/poi-images/slovenia-logatec-cities-v2.webp"
+},
     coords: [14.228, 45.913],
     coordinates: { lat: 45.913, lng: 14.228 },
     description: {
@@ -247,11 +429,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Nod de transport important", "Situat pe un platou carstic", "Cunoscut pentru industria lemnului", "Fostă stație romană istorică"],
       en: ["Important transportation hub", "Located on a karst plateau", "Known for its wood industry", "Site of an ancient Roman station"],
     },
-    imageHint: "Logatec town view and surrounding hills", image: "/poi-images/slovenia-logatec-cities-v2.webp"},
-  {
+imageHint: "Logatec town view and surrounding hills",
+    descriptionAdvanced: {
+      de: "Logatec ist ein wichtiger Verkehrsknotenpunkt zwischen Ljubljana und Triest. In der Antike lag hier die römische Poststation Ad Latus.",
+      hu: "Logatec fontos közlekedési csomópont Ljubljana és Trieszt között. Az ókorban itt állt az Ad Latus nevű római postaállomás.",
+      ro: "Logatec este un nod de transport crucial între Ljubljana și Trieste. În antichitate, aici se afla stația poștală romană Ad Latus.",
+      en: "Logatec is a key transport hub between Ljubljana and Trieste. In antiquity, it was the site of the Roman postal station Ad Latus.",
+    },
+    factsAdvanced: {
+      de: ["Römische Siedlung Ad Latus", "Höhe: 476 m über dem Meer", "Bekannt für Windmühlen", "Wirtschaftszentrum für Logistik"],
+      hu: ["Ad Latus római település", "Tengerszint felett 476 méteren", "Szélmalmairól volt híres", "Logisztikai és ipari központ"],
+      ro: ["Așezarea romană Ad Latus", "Altitudine: 476 metri", "Cunoscut istoric pentru mori", "Centru economic de logistică"],
+      en: ["Roman settlement Ad Latus", "Elevation: 476 m above sea level", "Historically known for windmills", "Major logistics and economic center"],
+    },
+    image: "/poi-images/slovenia-logatec-cities-v2.webp",
+},  {
     id: "slovenia-slovenj-gradec-cities-v2",
     type: "city",
-    name: { de: "Slovenj Gradec", hu: "Slovenj Gradec", ro: "Slovenj Gradec", en: "Slovenj Gradec" },
+    name: { de: "Slovenj Gradec", hu: "Slovenj Gradec", ro: "Slovenj Gradec", en: "Slovenj Gradec",
+image: "/poi-images/slovenia-slovenj-gradec-cities-v2.webp"
+},
     coords: [15.078, 46.508],
     coordinates: { lat: 46.508, lng: 15.078 },
     description: {
@@ -266,11 +463,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Oraș al păcii ONU din 1989", "Centrul regiunii Koroška", "Locul de naștere al lui Hugo Wolf", "Găzduiește o galerie de artă"],
       en: ["UN Peace Messenger City since 1989", "Center of the Koroška region", "Birthplace of composer Hugo Wolf", "Features a modern art gallery"],
     },
-    imageHint: "Slovenj Gradec historic center and main square", image: "/poi-images/slovenia-slovenj-gradec-cities-v2.webp"},
-  {
+imageHint: "Slovenj Gradec historic center and main square",
+    descriptionAdvanced: {
+      de: "Slovenj Gradec ist das kulturelle Herz des Kärntner Mislinja-Tals. Die Stadt wurde von der UN als Friedensbotschafter-Stadt ausgezeichnet.",
+      hu: "Slovenj Gradec a karintiai Mislinja-völgy kulturális szíve. Az ENSZ a városnak a Béke Követe címet adományozta művészeti öröksége miatt.",
+      ro: "Slovenj Gradec este inima culturală a văii Mislinja din Carintia. Orașul a primit titlul ONU de „Mesager al Păcii” pentru activitatea sa.",
+      en: "Slovenj Gradec is the cultural heart of Carinthia's Mislinja Valley. It was awarded the title of 'Peace Messenger City' by the UN.",
+    },
+    factsAdvanced: {
+      de: ["Stadtrechte seit 1267", "Geburtsort von Hugo Wolf", "Höhe: 413 m über dem Meer", "Friedensstadt der Vereinten Nationen"],
+      hu: ["Városi jogok 1267 óta", "Hugo Wolf zeneszerző szülőhelye", "Tengerszint felett 413 méteren", "Az ENSZ 'Béke városa' kitüntetettje"],
+      ro: ["Drepturi de oraș din 1267", "Locul de naștere al lui Hugo Wolf", "Altitudine: 413 metri", "Oraș Mesager al Păcii (ONU)"],
+      en: ["City rights since 1267", "Birthplace of composer Hugo Wolf", "Elevation: 413 m above sea level", "UN Peace Messenger City"],
+    },
+    image: "/poi-images/slovenia-slovenj-gradec-cities-v2.webp",
+},  {
     id: "slovenia-vrhnika-cities-v2",
     type: "town",
-    name: { de: "Vrhnika", hu: "Vrhnika", ro: "Vrhnika", en: "Vrhnika" },
+    name: { de: "Vrhnika", hu: "Vrhnika", ro: "Vrhnika", en: "Vrhnika",
+image: "/poi-images/slovenia-vrhnika-cities-v2.webp"
+},
     coords: [14.296, 45.962],
     coordinates: { lat: 45.962, lng: 14.296 },
     description: {
@@ -285,11 +497,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Ivan Cankar", "Zona izvoarelor râului Ljubljanica", "Așezarea romană antică Nauportus", "Situat la marginea mlaștinii"],
       en: ["Birthplace of writer Ivan Cankar", "Source area of the Ljubljanica River", "Site of Roman Nauportus", "Located by the Ljubljana Marshes"],
     },
-    imageHint: "Vrhnika town center and Cankar memorial house", image: "/poi-images/slovenia-vrhnika-cities-v2.webp"},
-  {
+imageHint: "Vrhnika town center and Cankar memorial house",
+    descriptionAdvanced: {
+      de: "Vrhnika liegt am Rande des Laibacher Moores, wo die Ljubljanica entspringt. In römischer Zeit war die Stadt als Nauportus ein bedeutender Flusshafen.",
+      hu: "Vrhnika a Ljubljani-mocsár szélén fekszik, itt ered a Ljubljanica folyó. A római korban Nauportus néven jelentős folyami kikötő volt.",
+      ro: "Vrhnika se află la marginea mlaștinii Ljubljana, unde izvorăște râul Ljubljanica. În epoca romană a fost portul fluvial Nauportus.",
+      en: "Vrhnika is located at the edge of the Ljubljana Marshes, where the Ljubljanica springs. In Roman times, it was the river port of Nauportus.",
+    },
+    factsAdvanced: {
+      de: ["Römischer Name: Nauportus", "Geburtsort von Ivan Cankar", "Höhe: 293 m über dem Meer", "Karstquelle der Ljubljanica"],
+      hu: ["Római neve: Nauportus", "Ivan Cankar író szülőhelye", "Tengerszint felett 293 méteren", "A Ljubljanica karsztforrása"],
+      ro: ["Nume roman: Nauportus", "Locul de naștere al lui Ivan Cankar", "Altitudine: 293 metri", "Izvorul carstic al Ljubljanicăi"],
+      en: ["Roman name: Nauportus", "Birthplace of writer Ivan Cankar", "Elevation: 293 m above sea level", "Karst spring of the Ljubljanica"],
+    },
+    image: "/poi-images/slovenia-vrhnika-cities-v2.webp",
+},  {
     id: "slovenia-krsko-cities-v2",
     type: "city",
-    name: { de: "Krško", hu: "Krško", ro: "Krško", en: "Krško" },
+    name: { de: "Krško", hu: "Krško", ro: "Krško", en: "Krško",
+image: "/poi-images/slovenia-krsko-cities-v2.webp"
+},
     coords: [15.491, 45.959],
     coordinates: { lat: 45.959, lng: 15.491 },
     description: {
@@ -304,11 +531,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Găzduiește singura centrală nucleară", "Centru important al industriei hârtiei", "Situat pe cursul inferior al râului Sava", "Deține un castel din secolul XII"],
       en: ["Site of the only nuclear power plant", "Major center of the paper industry", "Located on the lower Sava River", "Features a 12th-century castle"],
     },
-    imageHint: "Krško city view with Sava river and power plant", image: "/poi-images/slovenia-krsko-cities-v2.webp"},
-  {
+imageHint: "Krško city view with Sava river and power plant",
+    descriptionAdvanced: {
+      de: "Krško ist das Zentrum der slowenischen Energiewirtschaft. Die Stadt liegt an der Save und beherbergt das einzige Kernkraftwerk des Landes.",
+      hu: "Krško a szlovén energetikai ipar központja a Száva partján. Itt működik az ország egyetlen, Horvátországgal közösen üzemeltetett atomerőműve.",
+      ro: "Krško este centrul industriei energetice slovene, situat pe râul Sava. Găzduiește singura centrală nucleară din țară.",
+      en: "Krško is the hub of Slovenia's energy industry, located on the Sava River. it is home to the country's only nuclear power plant.",
+    },
+    factsAdvanced: {
+      de: ["Standort des AKW Krško", "Gegründet um das Jahr 895", "Höhe: 163 m über dem Meer", "Bedeutende Papierindustrie (Vipap)"],
+      hu: ["A Krško-i atomerőmű helyszíne", "Alapítva 895 körül", "Tengerszint felett 163 méteren", "Jelentős papíripar (Vipap)"],
+      ro: ["Sediul centralei nucleare NEK", "Atestat în jurul anului 895", "Altitudine: 163 metri", "Industrie de hârtie importantă"],
+      en: ["Site of Krško Nuclear Plant", "Dating back to around 895", "Elevation: 163 m above sea level", "Major paper industry (Vipap)"],
+    },
+    image: "/poi-images/slovenia-krsko-cities-v2.webp",
+},  {
     id: "slovenia-brezice-cities-v2",
     type: "town",
-    name: { de: "Brežice", hu: "Brežice", ro: "Brežice", en: "Brežice" },
+    name: { de: "Brežice", hu: "Brežice", ro: "Brežice", en: "Brežice",
+image: "/poi-images/slovenia-brezice-cities-v2.webp"
+},
     coords: [15.594, 45.903],
     coordinates: { lat: 45.903, lng: 15.594 },
     description: {
@@ -323,11 +565,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Deține un castel renascentist superb", "Simbol: turnul de apă din 1914", "Lângă stațiunea termală Čatež", "La confluența râurilor Sava și Krka"],
       en: ["Home to a grand Renaissance castle", "Iconic water tower built in 1914", "Near the Čatež thermal spa", "At the confluence of Sava and Krka"],
     },
-    imageHint: "Brezice Castle and historic town center", image: "/poi-images/slovenia-brezice-cities-v2.webp"},
-  {
+imageHint: "Brezice Castle and historic town center",
+    descriptionAdvanced: {
+      de: "Brežice liegt am Zusammenfluss von Save und Krka. Die Stadt ist für ihre mächtige Burg bekannt, die heute das Posavje-Museum beherbergt.",
+      hu: "Brežice a Száva és a Krka összefolyásánál fekszik. A város legfőbb nevezetessége a hatalmas várkastély, amely a Posavje Múzeumnak ad otthont.",
+      ro: "Brežice este situat la confluența râurilor Sava și Krka. Orașul este renumit pentru castelul său impunător, sediul Muzeului Posavje.",
+      en: "Brežice is located at the confluence of the Sava and Krka rivers. The town is known for its massive castle, which houses the Posavje Museum.",
+    },
+    factsAdvanced: {
+      de: ["Schloss Brežice (16. Jahrhundert)", "Wasserturm: 46 Meter hoch", "Höhe: 162 m über dem Meer", "Nähe zur Therme Čatež"],
+      hu: ["16. századi Brežicei-vár", "46 méter magas víztorony", "Tengerszint felett 162 méteren", "Čatež gyógyfürdő szomszédságában"],
+      ro: ["Castelul Brežice (sec. XVI)", "Turn de apă înalt de 46 m", "Altitudine: 162 metri", "Lângă stațiunea Terme Čatež"],
+      en: ["16th-century Brežice Castle", "Water tower height: 46 meters", "Elevation: 162 m above sea level", "Near Terme Čatež spa"],
+    },
+    image: "/poi-images/slovenia-brezice-cities-v2.webp",
+},  {
     id: "slovenia-skofja-loka-cities-v2",
     type: "town",
-    name: { de: "Škofja Loka", hu: "Škofja Loka", ro: "Škofja Loka", en: "Škofja Loka" },
+    name: { de: "Škofja Loka", hu: "Škofja Loka", ro: "Škofja Loka", en: "Škofja Loka",
+image: "/poi-images/slovenia-skofja-loka-cities-v2.webp"
+},
     coords: [14.306, 46.165],
     coordinates: { lat: 46.165, lng: 14.306 },
     description: {
@@ -342,11 +599,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Cea mai veche așezare din Gorenjska", "Faimos pentru piesa pasiunii", "Deține podul Capucinilor", "Castelul Loka găzduiește un muzeu"],
       en: ["Oldest settlement in Gorenjska region", "Famous for the Škofja Loka Passion Play", "Features the stone Capuchin Bridge", "Loka Castle houses a local museum"],
     },
-    imageHint: "Skofja Loka old town and Loka castle", image: "/poi-images/slovenia-skofja-loka-cities-v2.webp"},
-  {
+imageHint: "Skofja Loka old town and Loka castle",
+    descriptionAdvanced: {
+      de: "Škofja Loka gilt als die am besten erhaltene mittelalterliche Stadt Sloweniens. Das historische Zentrum am Fuße der Burg gehört zum Kulturerbe.",
+      hu: "Škofja Loka Szlovénia legjobb állapotban fennmaradt középkori városa. A vár lábánál fekvő történelmi központ az UNESCO világörökség része.",
+      ro: "Škofja Loka este considerat cel mai bine conservat oraș medieval din Slovenia. Centrul istoric de sub castel este un monument cultural unic.",
+      en: "Škofja Loka is considered the best-preserved medieval town in Slovenia. Its historic center at the foot of the castle is a cultural treasure.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 973", "Heimat des Loka-Passionsspiels", "Höhe: 354 m über dem Meer", "Bischöfliches Zentrum seit 1000 Jahren"],
+      hu: ["Első említése 973-ban", "A Škofja Loka-i passió otthona", "Tengerszint felett 354 méteren", "Püspöki központ 1000 éven át"],
+      ro: ["Prima atestare în anul 973", "Gazda Procesiunii Patimilor", "Altitudine: 354 metri", "Centru episcopal de 1000 ani"],
+      en: ["First mentioned in 973", "Home of the Loka Passion Play", "Elevation: 354 m above sea level", "Bishops' center for 1000 years"],
+    },
+    image: "/poi-images/slovenia-skofja-loka-cities-v2.webp",
+},  {
     id: "slovenia-ajdovscina-cities-v2",
     type: "town",
-    name: { de: "Ajdovščina", hu: "Ajdovščina", ro: "Ajdovščina", en: "Ajdovščina" },
+    name: { de: "Ajdovščina", hu: "Ajdovščina", ro: "Ajdovščina", en: "Ajdovščina",
+image: "/poi-images/slovenia-ajdovscina-cities-v2.webp"
+},
     coords: [13.905, 45.885],
     coordinates: { lat: 45.885, lng: 13.905 },
     description: {
@@ -361,11 +633,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Fost castru roman numit Castra", "Cunoscut pentru vântul Burja", "Centru viticol în valea Vipava", "Are ziduri de apărare bine păstrate"],
       en: ["Site of the Roman fort Castra", "Known for the strong Burja wind", "Center of winemaking in Vipava Valley", "Features well-preserved Roman walls"],
     },
-    imageHint: "Ajdovscina Roman walls and city center", image: "/poi-images/slovenia-ajdovscina-cities-v2.webp"},
-  {
+imageHint: "Ajdovscina Roman walls and city center",
+    descriptionAdvanced: {
+      de: "Ajdovščina liegt im Herzen des Vipava-Tals und ist für den starken Bora-Wind bekannt. Die Stadt wurde auf den Resten des römischen Castra erbaut.",
+      hu: "Ajdovščina a Vipava-völgy szívében fekszik, és az erős bóra szélről nevezetes. A várost a római kori Castra erődítmény romjaira építették.",
+      ro: "Ajdovščina se află în valea Vipava și este cunoscută pentru vântul puternic Bora. Orașul a fost construit pe ruinele castrului roman.",
+      en: "Ajdovščina lies in the heart of the Vipava Valley and is famous for its strong Bora wind. The town was built upon the ruins of the Roman Castra.",
+    },
+    factsAdvanced: {
+      de: ["Römisches Lager Castra (3. Jh.)", "Bora-Winde bis zu 200 km/h", "Höhe: 106 m über dem Meer", "Zentrum der Textil- und Lebensmittelind."],
+      hu: ["3. századi Castra római erőd", "Akár 200 km/h-s bóra szél", "Tengerszint felett 106 méteren", "Élelmiszer- és textilipari központ"],
+      ro: ["Castrul roman Castra (sec. III)", "Vânt Bora de până la 200 km/h", "Altitudine: 106 metri", "Centru textil și alimentar"],
+      en: ["Roman fort Castra (3rd century)", "Bora winds reach 200 km/h", "Elevation: 106 m above sea level", "Textile and food industry hub"],
+    },
+    image: "/poi-images/slovenia-ajdovscina-cities-v2.webp",
+},  {
     id: "slovenia-sezana-cities-v2",
     type: "town",
-    name: { de: "Sežana", hu: "Sežana", ro: "Sežana", en: "Sežana" },
+    name: { de: "Sežana", hu: "Sežana", ro: "Sežana", en: "Sežana",
+image: "/poi-images/slovenia-sezana-cities-v2.webp"
+},
     coords: [13.873, 45.703],
     coordinates: { lat: 45.703, lng: 13.873 },
     description: {
@@ -380,11 +667,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Cel mai important oraș din Carst", "Aproape de herghelia Lipica", "Are o grădină botanică frumoasă", "Punct de trecere important spre Italia"],
       en: ["Main town of the Slovenian Karst", "Near the Lipica Stud Farm", "Features a botanical garden", "Major transport link to Italy"],
     },
-    imageHint: "Sezana town center and surrounding karst landscape", image: "/poi-images/slovenia-sezana-cities-v2.webp"},
-  {
+imageHint: "Sezana town center and surrounding karst landscape",
+    descriptionAdvanced: {
+      de: "Sežana ist das wirtschaftliche Zentrum des slowenischen Karsts nahe der italienischen Grenze. Die Stadt ist für ihren botanischen Garten bekannt.",
+      hu: "Sežana a szlovén Karszt-vidék gazdasági központja az olasz határ közelében. A város híres botanikus kertjéről és a közeli Lipica méneséről.",
+      ro: "Sežana este centrul economic al regiunii carstice, lângă granița cu Italia. Orașul este cunoscut pentru grădina sa botanică remarcabilă.",
+      en: "Sežana is the economic center of the Slovenian Karst, located near the Italian border. The town is famous for its botanical garden.",
+    },
+    factsAdvanced: {
+      de: ["Botanischer Garten seit 1848", "Wichtiger Eisenbahnknotenpunkt", "Höhe: 361 m über dem Meer", "Karst-Marmor-Verarbeitung"],
+      hu: ["Botanikus kert 1848 óta", "Fontos vasúti csomópont", "Tengerszint felett 361 méteren", "Karszti márványfeldolgozás"],
+      ro: ["Grădină botanică din 1848", "Nod feroviar important", "Altitudine: 361 metri", "Prelucrarea marmurei carstice"],
+      en: ["Botanical garden founded in 1848", "Major railway junction", "Elevation: 361 m above sea level", "Karst marble processing"],
+    },
+    image: "/poi-images/slovenia-sezana-cities-v2.webp",
+},  {
     id: "slovenia-radovljica-cities-v2",
     type: "town",
-    name: { de: "Radovljica", hu: "Radovljica", ro: "Radovljica", en: "Radovljica" },
+    name: { de: "Radovljica", hu: "Radovljica", ro: "Radovljica", en: "Radovljica",
+image: "/poi-images/slovenia-radovljica-cities-v2.webp"
+},
     coords: [14.174, 46.344],
     coordinates: { lat: 46.344, lng: 14.174 },
     description: {
@@ -399,11 +701,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al apiculturii slovene", "Are un muzeu al apiculturii", "Faimos pentru turtă dulce (Lectar)", "Centru vechi cu șanț medieval"],
       en: ["Center of Slovenian beekeeping", "Houses a beekeeping museum", "Famous for gingerbread (Lectar)", "Old town with a medieval moat"],
     },
-    imageHint: "Radovljica medieval square with frescoes", image: "/poi-images/slovenia-radovljica-cities-v2.webp"},
-  {
+imageHint: "Radovljica medieval square with frescoes",
+    descriptionAdvanced: {
+      de: "Radovljica ist bekannt für sein charmantes mittelalterliches Zentrum und die Tradition der Bienenzucht. Hier findet jährlich das Schokoladenfestival statt.",
+      hu: "Radovljica a méhészet szlovéniai központja és bűbájos középkori óvárosáról ismert. Minden évben itt rendezik meg az ország legnagyobb csokoládéfesztiválját.",
+      ro: "Radovljica este faimos pentru centrul său medieval fermecător și tradiția apiculturii. Gazduiește anual cel mai mare festival de ciocolată.",
+      en: "Radovljica is known for its charming medieval center and long beekeeping tradition. It annually hosts the country's largest chocolate festival.",
+    },
+    factsAdvanced: {
+      de: ["Museum für Bienenzucht", "Stadtrecht seit 1473", "Höhe: 491 m über dem Meer", "Nähe zum Bleder See (7 km)"],
+      hu: ["Nemzeti Méhészeti Múzeum", "Városi jogok 1473 óta", "Tengerszint felett 491 méteren", "7 km-re a Bledi-tótól"],
+      ro: ["Muzeul Național de Apicultură", "Drepturi de oraș din 1473", "Altitudine: 491 metri", "Situat la 7 km de Lacul Bled"],
+      en: ["Museum of Apiculture", "City rights since 1473", "Elevation: 491 m above sea level", "7 km away from Lake Bled"],
+    },
+    image: "/poi-images/slovenia-radovljica-cities-v2.webp",
+},  {
     id: "slovenia-idrija-cities-v2",
     type: "town",
-    name: { de: "Idrija", hu: "Idrija", ro: "Idrija", en: "Idrija" },
+    name: { de: "Idrija", hu: "Idrija", ro: "Idrija", en: "Idrija",
+image: "/poi-images/slovenia-idrija-cities-v2.webp"
+},
     coords: [14.03, 46.002],
     coordinates: { lat: 46.002, lng: 14.03 },
     description: {
@@ -418,11 +735,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Mină de mercur în patrimoniul UNESCO", "Faimos pentru dantela de Idrija", "Specialitate culinară: žlikrofi", "Prima școală reală din Slovenia"],
       en: ["UNESCO-listed mercury mine site", "Famous for Idrija bobbin lace", "Local dish: Idrijski žlikrofi dumplings", "Oldest technical school in the country"],
     },
-    imageHint: "Idrija town and Gewerkenegg Castle", image: "/poi-images/slovenia-idrija-cities-v2.webp"},
-  {
+imageHint: "Idrija town and Gewerkenegg Castle",
+    descriptionAdvanced: {
+      de: "Idrija ist weltberühmt für sein ehemaliges Quecksilberbergwerk, das zum UNESCO-Welterbe gehört. Die Stadt ist zudem ein Zentrum der Spitzenklöppelei.",
+      hu: "Idrija világhírű az egykori higanybányájáról, amely az UNESCO világörökség része. A város a csipkeverés és a žlikrofi tészta hazája is.",
+      ro: "Idrija este celebră pentru fosta sa mină de mercur, înscrisă în patrimoniul UNESCO. Orașul este și un centru renumit pentru dantelărie.",
+      en: "Idrija is world-famous for its mercury mine, which is an UNESCO World Heritage site. It is also a renowned center for bobbin lace making.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte Quecksilbermine (1490)", "UNESCO Welterbe seit 2012", "Höhe: 334 m über dem Meer", "Heimat der Idrija-Klöppelspitze"],
+      hu: ["2. legnagyobb higanybánya (1490)", "UNESCO világörökség 2012 óta", "Tengerszint felett 334 méteren", "Híres idrijai csipke hazája"],
+      ro: ["A doua mină de mercur din lume", "Patrimoniu UNESCO din 2012", "Altitudine: 334 metri", "Cunoscut pentru dantela de Idrija"],
+      en: ["Second largest mercury mine (1490)", "UNESCO World Heritage since 2012", "Elevation: 334 m above sea level", "Home of Idrija bobbin lace"],
+    },
+    image: "/poi-images/slovenia-idrija-cities-v2.webp",
+},  {
     id: "slovenia-crnomelj-cities-v2",
     type: "town",
-    name: { de: "Črnomelj", hu: "Črnomelj", ro: "Črnomelj", en: "Črnomelj" },
+    name: { de: "Črnomelj", hu: "Črnomelj", ro: "Črnomelj", en: "Črnomelj",
+image: "/poi-images/slovenia-crnomelj-cities-v2.webp"
+},
     coords: [15.191, 45.571],
     coordinates: { lat: 45.571, lng: 15.191 },
     description: {
@@ -437,11 +769,26 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Bela Krajina", "Situat între două râuri", "Localitate viticolă importantă", "Aproape de parcul regional Lahinja"],
       en: ["Center of the Bela Krajina region", "Located on a river peninsula", "Important wine-growing town", "Gateway to the Kolpa River area"],
     },
-    imageHint: "Crnomelj town center at river confluence", image: "/poi-images/slovenia-crnomelj-cities-v2.webp"},
-  {
+imageHint: "Crnomelj town center at river confluence",
+    descriptionAdvanced: {
+      de: "Črnomelj ist das historische Zentrum der Region Bela Krajina. Die Stadt liegt auf einer Halbinsel am Zusammenfluss von Lahinja und Dobličica.",
+      hu: "Črnomelj Fehér-Krajna történelmi központja. A város egy kis félszigeten fekszik a Lahinja és Dobličica folyók találkozásánál.",
+      ro: "Črnomelj este centrul istoric al regiunii Carniola Albă. Orașul este situat pe o peninsulă la confluența râurilor Lahinja și Dobličica.",
+      en: "Črnomelj is the historical center of the White Carniola region. The town is situated on a peninsula at the confluence of the Lahinja and Dobličica rivers.",
+    },
+    factsAdvanced: {
+      de: ["Stadtrechte seit 1407", "Region Bela Krajina (Weißkrain)", "Höhe: 174 m über dem Meer", "Lahinja Landschaftspark"],
+      hu: ["Városi jogok 1407 óta", "Fehér-Krajna (Bela Krajina) központja", "Tengerszint felett 174 méteren", "Lahinja tájvédelmi körzet"],
+      ro: ["Drepturi de oraș din 1407", "Capitala regiunii Bela Krajina", "Altitudine: 174 metri", "Parcul natural Lahinja"],
+      en: ["City rights since 1407", "Center of the White Carniola region", "Elevation: 174 m above sea level", "Lahinja Landscape Park"],
+    },
+    image: "/poi-images/slovenia-crnomelj-cities-v2.webp",
+},  {
     id: "slovenia-ravne-na-koroskem-cities-v2",
     type: "city",
-    name: { de: "Ravne na Koroškem", hu: "Ravne na Koroškem", ro: "Ravne na Koroškem", en: "Ravne na Koroškem" },
+    name: { de: "Ravne na Koroškem", hu: "Ravne na Koroškem", ro: "Ravne na Koroškem", en: "Ravne na Koroškem",
+image: "/poi-images/slovenia-ravne-na-koroskem-cities-v2.webp"
+},
     coords: [14.964, 46.543],
     coordinates: { lat: 46.543, lng: 14.964 },
     description: {
@@ -457,5 +804,17 @@ export const sloveniaCitiesV2: POI[] = [
       en: ["Largest town in the Koroška region", "Famous for its steel production", "Features Forma Viva steel sculptures", "Home to Ravne Castle and library"],
     },
     imageHint: "Ravne na Koroskem city view and steel sculptures",
+    descriptionAdvanced: {
+      de: "Ravne na Koroškem ist das industrielle Zentrum der slowenischen Steiermark. Die Stadt ist für ihre Eisenhütte und die Forma Viva Skulpturen bekannt.",
+      hu: "Ravne na Koroškem a szlovén Karintia ipari központja. A várost a vasművek története és a köztereken látható Forma Viva vasszobrok határozzák meg.",
+      ro: "Ravne na Koroškem este centrul industrial al Carintiei slovene. Orașul este renumit pentru oțelăria sa și sculpturile metalice Forma Viva.",
+      en: "Ravne na Koroškem is the industrial heart of Slovenian Carinthia. It is defined by its ironworks history and the Forma Viva metal sculptures.",
+    },
+    factsAdvanced: {
+      de: ["Eisengießerei seit 1620", "Zentrum der slowen. Karintia", "Höhe: 394 m über dem Meer", "Forma Viva Freiluftgalerie"],
+      hu: ["Vasöntöde 1620 óta", "A szlovén Karintia központja", "Tengerszint felett 394 méteren", "Forma Viva szabadtéri szobrok"],
+      ro: ["Topitorie de fier din 1620", "Centru regional al Carintiei", "Altitudine: 394 metri", "Galeria în aer liber Forma Viva"],
+      en: ["Iron foundry since 1620", "Slovenian Carinthia's hub", "Elevation: 394 m above sea level", "Forma Viva open-air gallery"],
+    },
   }
 ];

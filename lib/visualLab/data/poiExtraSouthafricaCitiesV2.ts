@@ -7,7 +7,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-WC",
     coords: [18.4232, -33.9249],
-    name: { de: "Kapstadt", hu: "Fokváros", ro: "Cape Town", en: "Cape Town" },
+    name: { de: "Kapstadt", hu: "Fokváros", ro: "Cape Town", en: "Cape Town",
+image: "/poi-images/southafrica-cape-town-cities-v2.webp"
+},
     description: {
       de: "Die gesetzgebende Hauptstadt Südafrikas liegt am Fuße des Tafelbergs und ist bekannt für ihren Hafen und die Victoria & Alfred Waterfront.",
       hu: "Dél-Afrika törvényhozó fővárosa a Tábla-hegy lábánál fekszik, híres kikötőjéről és történelmi jelentőségéről.",
@@ -37,7 +39,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-GT",
     coords: [28.1881, -25.7461],
-    name: { de: "Pretoria", hu: "Pretoria", ro: "Pretoria", en: "Pretoria" },
+    name: { de: "Pretoria", hu: "Pretoria", ro: "Pretoria", en: "Pretoria",
+image: "/poi-images/southafrica-pretoria-cities-v2.webp"
+},
     description: {
       de: "Die Exekutivhauptstadt des Landes ist berühmt für die Tausenden von Jacaranda-Bäumen, die im Frühling lila blühen.",
       hu: "Az ország végrehajtó fővárosa híres a tavasszal lilába boruló zsakaranda fáiról és egyetemeiről.",
@@ -67,7 +71,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-FS",
     coords: [26.216, -29.1141],
-    name: { de: "Bloemfontein", hu: "Bloemfontein", ro: "Bloemfontein", en: "Bloemfontein" },
+    name: { de: "Bloemfontein", hu: "Bloemfontein", ro: "Bloemfontein", en: "Bloemfontein",
+image: "/poi-images/southafrica-bloemfontein-cities-v2.webp"
+},
     description: {
       de: "Die Judikativhauptstadt Südafrikas wird oft als 'Stadt der Rosen' bezeichnet, aufgrund der vielen Blumen in der Region.",
       hu: "Dél-Afrika igazságszolgáltatási fővárosát gyakran a 'Rózsák városának' nevezik a bőséges virágok miatt.",
@@ -85,7 +91,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-GT",
     coords: [28.0473, -26.2041],
-    name: { de: "Johannesburg", hu: "Johannesburg", ro: "Johannesburg", en: "Johannesburg" },
+    name: { de: "Johannesburg", hu: "Johannesburg", ro: "Johannesburg", en: "Johannesburg",
+image: "/poi-images/southafrica-johannesburg-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt des Landes entstand während eines Goldrausches und ist heute das wirtschaftliche Zentrum Afrikas.",
       hu: "Az ország legnagyobb városa egy aranyláz során jött létre, ma pedig Afrika gazdasági központja.",
@@ -103,7 +111,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [31.0218, -29.8587],
-    name: { de: "Durban", hu: "Durban", ro: "Durban", en: "Durban" },
+    name: { de: "Durban", hu: "Durban", ro: "Durban", en: "Durban",
+image: "/poi-images/southafrica-durban-cities-v2.webp"
+},
     description: {
       de: "Die drittgrößte Stadt liegt am Indischen Ozean und besitzt den verkehrsreichsten Frachthafen Südafrikas.",
       hu: "A harmadik legnagyobb város az Indiai-óceán partján fekszik, és az ország legforgalmasabb teherkikötőjével rendelkezik.",
@@ -121,7 +131,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [25.6022, -33.9608],
-    name: { de: "Gqeberha", hu: "Gqeberha", ro: "Gqeberha", en: "Gqeberha" },
+    name: { de: "Gqeberha", hu: "Gqeberha", ro: "Gqeberha", en: "Gqeberha",
+image: "/poi-images/southafrica-gqeberha-cities-v2.webp"
+},
     description: {
       de: "Ehemals als Port Elizabeth bekannt, ist diese Küstenstadt ein wichtiges Zentrum der südafrikanischen Automobilindustrie.",
       hu: "A korábban Port Elizabeth néven ismert parti város a dél-afrikai autóipar egyik legfontosabb központja.",
@@ -139,7 +151,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [27.9116, -33.0153],
-    name: { de: "East London", hu: "East London", ro: "East London", en: "East London" },
+    name: { de: "East London", hu: "East London", ro: "East London", en: "East London",
+image: "/poi-images/southafrica-east-london-cities-v2.webp"
+},
     description: {
       de: "Die einzige Flusshafenstadt Südafrikas liegt an der Mündung des Buffalo River in den Indischen Ozean.",
       hu: "Dél-Afrika egyetlen folyami kikötővárosa a Buffalo-folyó torkolatánál található az Indiai-óceán partján.",
@@ -157,7 +171,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-LP",
     coords: [29.4688, -23.9045],
-    name: { de: "Polokwane", hu: "Polokwane", ro: "Polokwane", en: "Polokwane" },
+    name: { de: "Polokwane", hu: "Polokwane", ro: "Polokwane", en: "Polokwane",
+image: "/poi-images/southafrica-polokwane-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Provinz Limpopo ist das größte städtische Zentrum im Norden Südafrikas.",
       hu: "Limpopo tartomány fővárosa a legnagyobb városi központ Dél-Afrika északi részén.",
@@ -175,7 +191,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-MP",
     coords: [30.9753, -25.4753],
-    name: { de: "Mbombela", hu: "Mbombela", ro: "Mbombela", en: "Mbombela" },
+    name: { de: "Mbombela", hu: "Mbombela", ro: "Mbombela", en: "Mbombela",
+image: "/poi-images/southafrica-mbombela-cities-v2.webp"
+},
     description: {
       de: "Zuvor als Nelspruit bekannt, dient diese Stadt als Tor zum Kruger-Nationalpark und ist von Zitrusplantagen umgeben.",
       hu: "A korábban Nelspruit néven ismert város a Kruger Nemzeti Park kapujaként szolgál, citrusültetvények veszik körül.",
@@ -193,7 +211,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-NC",
     coords: [24.7623, -28.7282],
-    name: { de: "Kimberley", hu: "Kimberley", ro: "Kimberley", en: "Kimberley" },
+    name: { de: "Kimberley", hu: "Kimberley", ro: "Kimberley", en: "Kimberley",
+image: "/poi-images/southafrica-kimberley-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die Diamantenstadt, entstand sie im späten 19. Jahrhundert rund um massive Diamantenminen.",
       hu: "A gyémántvárosként ismert település a 19. század végén alakult ki hatalmas gyémántbányák körül.",
@@ -211,7 +231,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-NL",
     coords: [30.3794, -29.6006],
-    name: { de: "Pietermaritzburg", hu: "Pietermaritzburg", ro: "Pietermaritzburg", en: "Pietermaritzburg" },
+    name: { de: "Pietermaritzburg", hu: "Pietermaritzburg", ro: "Pietermaritzburg", en: "Pietermaritzburg",
+image: "/poi-images/southafrica-pietermaritzburg-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von KwaZulu-Natal zeichnet sich durch ihre viktorianische Architektur und historische Bedeutung aus.",
       hu: "KwaZulu-Natal fővárosa viktoriánus építészetével és történelmi jelentőségével tűnik ki.",
@@ -229,7 +251,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NW",
     coords: [27.2421, -25.6676],
-    name: { de: "Rustenburg", hu: "Rustenburg", ro: "Rustenburg", en: "Rustenburg" },
+    name: { de: "Rustenburg", hu: "Rustenburg", ro: "Rustenburg", en: "Rustenburg",
+image: "/poi-images/southafrica-rustenburg-cities-v2.webp"
+},
     description: {
       de: "Eine der am schnellsten wachsenden Städte im Nordwesten, bekannt für ausgedehnte Platin-Bergwerke.",
       hu: "Északnyugat egyik leggyorsabban növekvő városa, amely kiterjedt platinabányáiról ismert.",
@@ -247,7 +271,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-NW",
     coords: [25.6442, -25.8652],
-    name: { de: "Mahikeng", hu: "Mahikeng", ro: "Mahikeng", en: "Mahikeng" },
+    name: { de: "Mahikeng", hu: "Mahikeng", ro: "Mahikeng", en: "Mahikeng",
+image: "/poi-images/southafrica-mahikeng-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der Nordwest-Provinz liegt nahe der Grenze zu Botswana und war Schauplatz einer historischen Belagerung.",
       hu: "Az Északnyugati tartomány fővárosa a botswanai határ közelében fekszik, és egy történelmi ostrom helyszíne volt.",
@@ -265,7 +291,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZA-EC",
     coords: [27.437, -32.846],
-    name: { de: "Bhisho", hu: "Bhisho", ro: "Bhisho", en: "Bhisho" },
+    name: { de: "Bhisho", hu: "Bhisho", ro: "Bhisho", en: "Bhisho",
+image: "/poi-images/southafrica-bhisho-cities-v2.webp"
+},
     description: {
       de: "Die kleine Stadt dient als administrative Hauptstadt der Provinz Ostkap und beherbergt Regierungsgebäude.",
       hu: "A kisváros Kelet-Fokföld adminisztratív fővárosaként szolgál, és kormányzati épületeknek ad otthont.",
@@ -283,7 +311,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NC",
     coords: [21.2389, -28.4556],
-    name: { de: "Upington", hu: "Upington", ro: "Upington", en: "Upington" },
+    name: { de: "Upington", hu: "Upington", ro: "Upington", en: "Upington",
+image: "/poi-images/southafrica-upington-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Stadt am Oranje-Fluss, umgeben von Wüste, aber bekannt für ihre fruchtbaren Wein- und Obstplantagen.",
       hu: "Az Oranje-folyó partján fekvő fontos város sivataggal övezve, de termékeny szőlő- és gyümölcsültetvényeiről ismert.",
@@ -301,7 +331,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [22.4611, -33.9631],
-    name: { de: "George", hu: "George", ro: "George", en: "George" },
+    name: { de: "George", hu: "George", ro: "George", en: "George",
+image: "/poi-images/southafrica-george-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt an der malerischen Garden Route wird von den Outeniqua-Bergen überragt.",
       hu: "A festői Garden Route legnagyobb városa, mely fölött az Outeniqua-hegység magasodik.",
@@ -319,7 +351,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [18.8602, -33.9321],
-    name: { de: "Stellenbosch", hu: "Stellenbosch", ro: "Stellenbosch", en: "Stellenbosch" },
+    name: { de: "Stellenbosch", hu: "Stellenbosch", ro: "Stellenbosch", en: "Stellenbosch",
+image: "/poi-images/southafrica-stellenbosch-cities-v2.webp"
+},
     description: {
       de: "Die zweitälteste europäische Siedlung des Landes ist weltberühmt für ihre Universität und die umliegenden Weinberge.",
       hu: "Az ország második legrégebbi európai települése világhírű egyeteméről és a környező szőlőültetvényekről.",
@@ -337,7 +371,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [18.9666, -33.7233],
-    name: { de: "Paarl", hu: "Paarl", ro: "Paarl", en: "Paarl" },
+    name: { de: "Paarl", hu: "Paarl", ro: "Paarl", en: "Paarl",
+image: "/poi-images/southafrica-paarl-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt im Cape Winelands District, bekannt für den riesigen Granitfelsen Paarl Rock.",
       hu: "Történelmi város a Fokföldi borvidéken, amely a hatalmas Paarl Rock gránitszikláról ismert.",
@@ -355,7 +391,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [19.4452, -33.6455],
-    name: { de: "Worcester", hu: "Worcester", ro: "Worcester", en: "Worcester" },
+    name: { de: "Worcester", hu: "Worcester", ro: "Worcester", en: "Worcester",
+image: "/poi-images/southafrica-worcester-cities-v2.webp"
+},
     description: {
       de: "Das wirtschaftliche Zentrum des Breede River Valleys ist von Bergen umgeben und produziert einen großen Teil der Weine des Landes.",
       hu: "A Breede-folyó völgyének gazdasági központját hegyek ölelik körül, és az ország borainak nagy részét itt állítják elő.",
@@ -373,7 +411,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [22.2031, -33.5901],
-    name: { de: "Oudtshoorn", hu: "Oudtshoorn", ro: "Oudtshoorn", en: "Oudtshoorn" },
+    name: { de: "Oudtshoorn", hu: "Oudtshoorn", ro: "Oudtshoorn", en: "Oudtshoorn",
+image: "/poi-images/southafrica-oudtshoorn-cities-v2.webp"
+},
     description: {
       de: "Die 'Straußenhauptstadt der Welt' liegt in der Kleinen Karoo und ist berühmt für die nahegelegenen Tropfsteinhöhlen.",
       hu: "A 'világ struccfővárosa' a Kis-Karoo régióban fekszik, és a közeli cseppkőbarlangokról híres.",
@@ -391,7 +431,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [22.5833, -32.35],
-    name: { de: "Beaufort West", hu: "Beaufort West", ro: "Beaufort West", en: "Beaufort West" },
+    name: { de: "Beaufort West", hu: "Beaufort West", ro: "Beaufort West", en: "Beaufort West",
+image: "/poi-images/southafrica-beaufort-west-cities-v2.webp"
+},
     description: {
       de: "Die älteste Stadt in der Zentralkaroo ist ein wichtiger Zwischenstopp auf der Strecke zwischen Kapstadt und Johannesburg.",
       hu: "A Középső-Karoo legrégebbi városa fontos megállóhely a Fokváros és Johannesburg közötti úton.",
@@ -409,7 +451,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [23.0471, -34.0351],
-    name: { de: "Knysna", hu: "Knysna", ro: "Knysna", en: "Knysna" },
+    name: { de: "Knysna", hu: "Knysna", ro: "Knysna", en: "Knysna",
+image: "/poi-images/southafrica-knysna-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Küstenstadt an der Garden Route, gelegen an einer großen Lagune und umgeben von dichten Wäldern.",
       hu: "Festői tengerparti város a Garden Route-on, egy nagy lagúna partján fekszik, sűrű erdőkkel körülvéve.",
@@ -427,7 +471,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [22.145, -34.1831],
-    name: { de: "Mossel Bay", hu: "Mossel Bay", ro: "Mossel Bay", en: "Mossel Bay" },
+    name: { de: "Mossel Bay", hu: "Mossel Bay", ro: "Mossel Bay", en: "Mossel Bay",
+image: "/poi-images/southafrica-mossel-bay-cities-v2.webp"
+},
     description: {
       de: "Dieser Hafenort markiert das offizielle südliche Ende der Garden Route und hat eine reiche maritime Geschichte.",
       hu: "Ez a kikötőváros jelöli a Garden Route hivatalos déli végét, és gazdag tengerészeti múlttal rendelkezik.",
@@ -445,7 +491,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-WC",
     coords: [17.9357, -33.0044],
-    name: { de: "Saldanha", hu: "Saldanha", ro: "Saldanha", en: "Saldanha" },
+    name: { de: "Saldanha", hu: "Saldanha", ro: "Saldanha", en: "Saldanha",
+image: "/poi-images/southafrica-saldanha-cities-v2.webp"
+},
     description: {
       de: "Der Ort an der Westküste ist bekannt für seinen tiefen natürlichen Hafen und die Verarbeitung von Eisenerz.",
       hu: "A nyugati part ezen városa a mély természetes kikötőjéről és vasércfeldolgozásáról ismert.",
@@ -463,7 +511,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NC",
     coords: [17.8814, -29.6643],
-    name: { de: "Springbok", hu: "Springbok", ro: "Springbok", en: "Springbok" },
+    name: { de: "Springbok", hu: "Springbok", ro: "Springbok", en: "Springbok",
+image: "/poi-images/southafrica-springbok-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt in der Namakwa-Region ist das kommerzielle Zentrum der Region, besonders während der Wildblumenzeit.",
       hu: "A Namakwa régió legnagyobb városa a vidék kereskedelmi központja, különösen a vadvirágok nyílása idején.",
@@ -481,7 +531,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NC",
     coords: [24.0118, -30.6481],
-    name: { de: "De Aar", hu: "De Aar", ro: "De Aar", en: "De Aar" },
+    name: { de: "De Aar", hu: "De Aar", ro: "De Aar", en: "De Aar",
+image: "/poi-images/southafrica-de-aar-cities-v2.webp"
+},
     description: {
       de: "Einer der wichtigsten Eisenbahnknotenpunkte in Südafrika, zentral in der trockenen Karoo-Region gelegen.",
       hu: "Dél-Afrika egyik legfontosabb vasúti csomópontja, a száraz Karoo régió központjában.",
@@ -499,7 +551,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NC",
     coords: [23.4325, -27.4524],
-    name: { de: "Kuruman", hu: "Kuruman", ro: "Kuruman", en: "Kuruman" },
+    name: { de: "Kuruman", hu: "Kuruman", ro: "Kuruman", en: "Kuruman",
+image: "/poi-images/southafrica-kuruman-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Oase des Kalahari' aufgrund einer permanenten Wasserquelle namens Das Auge von Kuruman.",
       hu: "A 'Kalahári oázisaként' is ismert a Kuruman Szeme nevű állandó vizű forrás miatt.",
@@ -517,7 +571,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NC",
     coords: [23.041, -27.6953],
-    name: { de: "Kathu", hu: "Kathu", ro: "Kathu", en: "Kathu" },
+    name: { de: "Kathu", hu: "Kathu", ro: "Kathu", en: "Kathu",
+image: "/poi-images/southafrica-kathu-cities-v2.webp"
+},
     description: {
       de: "Die Bergbaustadt ist stark abhängig von der Sishen-Eisenerzmine, einer der größten Tagebauminen der Welt.",
       hu: "A bányászváros nagymértékben függ a Sishen vasércbányától, amely a világ egyik legnagyobb külszíni bányája.",
@@ -535,7 +591,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NC",
     coords: [25.0969, -30.72],
-    name: { de: "Colesberg", hu: "Colesberg", ro: "Colesberg", en: "Colesberg" },
+    name: { de: "Colesberg", hu: "Colesberg", ro: "Colesberg", en: "Colesberg",
+image: "/poi-images/southafrica-colesberg-cities-v2.webp"
+},
     description: {
       de: "Eine von Schafzucht geprägte Stadt, die ein sehr beliebter Übernachtungsort für Reisende zwischen Johannesburg und Kapstadt ist.",
       hu: "A juhtenyésztésről ismert város nagyon népszerű éjszakai pihenőhely a Johannesburg és Fokváros között utazók számára.",
@@ -553,7 +611,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NW",
     coords: [24.7285, -26.9566],
-    name: { de: "Vryburg", hu: "Vryburg", ro: "Vryburg", en: "Vryburg" },
+    name: { de: "Vryburg", hu: "Vryburg", ro: "Vryburg", en: "Vryburg",
+image: "/poi-images/southafrica-vryburg-cities-v2.webp"
+},
     description: {
       de: "Das landwirtschaftliche und industrielle Zentrum der Bophirima-Region wird oft als das 'Texas von Südafrika' bezeichnet.",
       hu: "A Bophirima régió mezőgazdasági és ipari központját gyakran 'Dél-Afrika Texasának' is nevezik.",
@@ -571,7 +631,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NW",
     coords: [26.6667, -26.8667],
-    name: { de: "Klerksdorp", hu: "Klerksdorp", ro: "Klerksdorp", en: "Klerksdorp" },
+    name: { de: "Klerksdorp", hu: "Klerksdorp", ro: "Klerksdorp", en: "Klerksdorp",
+image: "/poi-images/southafrica-klerksdorp-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt in der Nordwest-Provinz ist ein bedeutendes Zentrum für Goldabbau und Landwirtschaft.",
       hu: "Az Északnyugati tartomány legnagyobb városa a jelentős aranybányászat és mezőgazdaság központja.",
@@ -589,7 +651,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NW",
     coords: [27.0988, -26.7145],
-    name: { de: "Potchefstroom", hu: "Potchefstroom", ro: "Potchefstroom", en: "Potchefstroom" },
+    name: { de: "Potchefstroom", hu: "Potchefstroom", ro: "Potchefstroom", en: "Potchefstroom",
+image: "/poi-images/southafrica-potchefstroom-cities-v2.webp"
+},
     description: {
       de: "Eine Universitätsstadt am Ufer des Mooi River, die für ihre vielen historischen Gebäude bekannt ist.",
       hu: "Egyetemváros a Mooi-folyó partján, amely számos történelmi épületéről ismert.",
@@ -607,7 +671,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NW",
     coords: [27.7752, -25.6347],
-    name: { de: "Brits", hu: "Brits", ro: "Brits", en: "Brits" },
+    name: { de: "Brits", hu: "Brits", ro: "Brits", en: "Brits",
+image: "/poi-images/southafrica-brits-cities-v2.webp"
+},
     description: {
       de: "Die moderne Stadt liegt im fruchtbaren Bushveld und ist stark in der Automobilteilproduktion und im Bergbau.",
       hu: "A termékeny Bushveld területen fekvő modern város erős autóalkatrész-gyártással és bányászattal rendelkezik.",
@@ -625,7 +691,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-FS",
     coords: [26.7369, -27.9806],
-    name: { de: "Welkom", hu: "Welkom", ro: "Welkom", en: "Welkom" },
+    name: { de: "Welkom", hu: "Welkom", ro: "Welkom", en: "Welkom",
+image: "/poi-images/southafrica-welkom-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt im Freistaat entstand nach der Entdeckung reicher Goldvorkommen und ist für ihr städtebauliches Design bekannt.",
       hu: "Szabadállam második legnagyobb városa gazdag aranyleletek felfedezése után épült, és várostervezéséről ismert.",
@@ -643,7 +711,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-FS",
     coords: [27.2349, -27.65],
-    name: { de: "Kroonstad", hu: "Kroonstad", ro: "Kroonstad", en: "Kroonstad" },
+    name: { de: "Kroonstad", hu: "Kroonstad", ro: "Kroonstad", en: "Kroonstad",
+image: "/poi-images/southafrica-kroonstad-cities-v2.webp"
+},
     description: {
       de: "Die Stadt liegt am Vals River und ist ein wichtiges landwirtschaftliches Servicezentrum im nördlichen Freistaat.",
       hu: "A Vals-folyó mentén fekvő város egy fontos mezőgazdasági központ Szabadállam északi részén.",
@@ -661,7 +731,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-FS",
     coords: [28.31, -28.2308],
-    name: { de: "Bethlehem", hu: "Bethlehem", ro: "Bethlehem", en: "Bethlehem" },
+    name: { de: "Bethlehem", hu: "Bethlehem", ro: "Bethlehem", en: "Bethlehem",
+image: "/poi-images/southafrica-bethlehem-cities-v2.webp"
+},
     description: {
       de: "Im fruchtbaren Tal der Maluti-Berge gelegen, ist dieser Ort das Zentrum der Weizenproduktion im Land.",
       hu: "A Maluti-hegység termékeny völgyében fekvő település a búzatermelés központja az országban.",
@@ -679,7 +751,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-FS",
     coords: [27.8282, -26.8114],
-    name: { de: "Sasolburg", hu: "Sasolburg", ro: "Sasolburg", en: "Sasolburg" },
+    name: { de: "Sasolburg", hu: "Sasolburg", ro: "Sasolburg", en: "Sasolburg",
+image: "/poi-images/southafrica-sasolburg-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt, die gezielt zur Unterbringung von Arbeitern der ersten Kohle-Verflüssigungs-Anlage gebaut wurde.",
       hu: "Célzottan épült iparváros, amely az első széncseppfolyósító üzem munkásainak elszállásolását szolgálta.",
@@ -697,7 +771,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-FS",
     coords: [29.1333, -28.2736],
-    name: { de: "Harrismith", hu: "Harrismith", ro: "Harrismith", en: "Harrismith" },
+    name: { de: "Harrismith", hu: "Harrismith", ro: "Harrismith", en: "Harrismith",
+image: "/poi-images/southafrica-harrismith-cities-v2.webp"
+},
     description: {
       de: "Dieser wichtige Zwischenstopp auf der Autobahn N3 liegt am Fuße des markanten Platbergs.",
       hu: "A N3 autópálya e fontos megállóhelye a jellegzetes Platberg-hegy lábánál található.",
@@ -715,7 +791,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-FS",
     coords: [28.8155, -28.5284],
-    name: { de: "Phuthaditjhaba", hu: "Phuthaditjhaba", ro: "Phuthaditjhaba", en: "Phuthaditjhaba" },
+    name: { de: "Phuthaditjhaba", hu: "Phuthaditjhaba", ro: "Phuthaditjhaba", en: "Phuthaditjhaba",
+image: "/poi-images/southafrica-phuthaditjhaba-cities-v2.webp"
+},
     description: {
       de: "Oft einfach QwaQwa genannt, liegt diese Stadt malerisch in den Ausläufern der Drakensberge.",
       hu: "Gyakran csak QwaQwa néven emlegetik, a Drakensberg-hegység lábánál fekvő festői város.",
@@ -733,7 +811,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [29.9328, -27.7578],
-    name: { de: "Newcastle", hu: "Newcastle", ro: "Newcastle", en: "Newcastle" },
+    name: { de: "Newcastle", hu: "Newcastle", ro: "Newcastle", en: "Newcastle",
+image: "/poi-images/southafrica-newcastle-cities-v2.webp"
+},
     description: {
       de: "Die drittgrößte Stadt in KwaZulu-Natal ist ein wichtiges Industriezentrum, das historisch für Kohleabbau bekannt ist.",
       hu: "KwaZulu-Natal harmadik legnagyobb városa fontos ipari központ, történelmileg a szénbányászatról ismert.",
@@ -751,7 +831,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [32.0383, -28.7807],
-    name: { de: "Richards Bay", hu: "Richards Bay", ro: "Richards Bay", en: "Richards Bay" },
+    name: { de: "Richards Bay", hu: "Richards Bay", ro: "Richards Bay", en: "Richards Bay",
+image: "/poi-images/southafrica-richards-bay-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt an der Nordküste, die den größten Kohle-Exportterminal des Landes betreibt.",
       hu: "Kikötőváros az északi parton, amely az ország legnagyobb szénexport-terminálját üzemelteti.",
@@ -769,7 +851,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [29.7825, -28.558],
-    name: { de: "Ladysmith", hu: "Ladysmith", ro: "Ladysmith", en: "Ladysmith" },
+    name: { de: "Ladysmith", hu: "Ladysmith", ro: "Ladysmith", en: "Ladysmith",
+image: "/poi-images/southafrica-ladysmith-cities-v2.webp"
+},
     description: {
       de: "Die Stadt liegt am Ufer des Klip River und ist vor allem durch die lange Belagerung während des Burenkrieges bekannt.",
       hu: "A Klip-folyó partján fekvő város leginkább a búr háború alatti hosszú ostromáról ismert.",
@@ -787,7 +871,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [31.8933, -28.7516],
-    name: { de: "Empangeni", hu: "Empangeni", ro: "Empangeni", en: "Empangeni" },
+    name: { de: "Empangeni", hu: "Empangeni", ro: "Empangeni", en: "Empangeni",
+image: "/poi-images/southafrica-empangeni-cities-v2.webp"
+},
     description: {
       de: "Eine hügelige Stadt unweit von Richards Bay, die traditionell ein Zentrum für Zuckerrohr- und Holzgewinnung ist.",
       hu: "Richards Bay közelében fekvő dombvidéki város, amely hagyományosan a cukornád- és fafeldolgozás központja.",
@@ -805,7 +891,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [30.45, -30.7414],
-    name: { de: "Port Shepstone", hu: "Port Shepstone", ro: "Port Shepstone", en: "Port Shepstone" },
+    name: { de: "Port Shepstone", hu: "Port Shepstone", ro: "Port Shepstone", en: "Port Shepstone",
+image: "/poi-images/southafrica-port-shepstone-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt an der südlichen Küste von KwaZulu-Natal fungiert als Tor zur touristischen 'Hibiscus Coast'.",
       hu: "KwaZulu-Natal déli partjának legnagyobb városa, amely a turisztikai 'Hibiscus Coast' kapujaként szolgál.",
@@ -823,7 +911,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-NL",
     coords: [31.4162, -28.3352],
-    name: { de: "Ulundi", hu: "Ulundi", ro: "Ulundi", en: "Ulundi" },
+    name: { de: "Ulundi", hu: "Ulundi", ro: "Ulundi", en: "Ulundi",
+image: "/poi-images/southafrica-ulundi-cities-v2.webp"
+},
     description: {
       de: "Einst die Hauptstadt des Zulu-Königreichs und später des Bantustans KwaZulu, reich an kulturellem Erbe.",
       hu: "Egykor a Zulu Királyság, később a KwaZulu bantusztán fővárosa volt, gazdag kulturális örökséggel.",
@@ -841,7 +931,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [28.7897, -31.5889],
-    name: { de: "Mthatha", hu: "Mthatha", ro: "Mthatha", en: "Mthatha" },
+    name: { de: "Mthatha", hu: "Mthatha", ro: "Mthatha", en: "Mthatha",
+image: "/poi-images/southafrica-mthatha-cities-v2.webp"
+},
     description: {
       de: "Früher als Umtata bekannt, war es die Hauptstadt der Transkei und ist tief verbunden mit der Geschichte Nelson Mandelas.",
       hu: "A korábban Umtata néven ismert város a Transkei fővárosa volt, és mélyen kötődik Nelson Mandela történetéhez.",
@@ -859,7 +951,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [26.5206, -33.3106],
-    name: { de: "Makhanda", hu: "Makhanda", ro: "Makhanda", en: "Makhanda" },
+    name: { de: "Makhanda", hu: "Makhanda", ro: "Makhanda", en: "Makhanda",
+image: "/poi-images/southafrica-makhanda-cities-v2.webp"
+},
     description: {
       de: "Die zuvor als Grahamstown bekannte Stadt ist berühmt für ihre Bildungseinrichtungen und das jährliche Kunstfestival.",
       hu: "A korábban Grahamstown néven ismert város híres oktatási intézményeiről és az évente megrendezett művészeti fesztiválról.",
@@ -877,7 +971,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [25.3948, -33.759],
-    name: { de: "Kariega", hu: "Kariega", ro: "Kariega", en: "Kariega" },
+    name: { de: "Kariega", hu: "Kariega", ro: "Kariega", en: "Kariega",
+image: "/poi-images/southafrica-kariega-cities-v2.webp"
+},
     description: {
       de: "Früher Uitenhage genannt, ist diese Industriestadt stark in der Produktion von Autos und Reifen involviert.",
       hu: "A korábban Uitenhage néven ismert iparváros jelentős autó- és gumiabroncs-gyártással rendelkezik.",
@@ -895,7 +991,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [24.5308, -32.2522],
-    name: { de: "Graaff-Reinet", hu: "Graaff-Reinet", ro: "Graaff-Reinet", en: "Graaff-Reinet" },
+    name: { de: "Graaff-Reinet", hu: "Graaff-Reinet", ro: "Graaff-Reinet", en: "Graaff-Reinet",
+image: "/poi-images/southafrica-graaff-reinet-cities-v2.webp"
+},
     description: {
       de: "Die viertälteste Stadt des Landes, umschlossen von einer Schleife des Sundays Rivers, voller kapholländischer Architektur.",
       hu: "Az ország negyedik legrégebbi városa a Sundays-folyó kanyarulatában fekszik, és tele van fokföldi holland építészettel.",
@@ -913,7 +1011,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [26.8828, -31.8976],
-    name: { de: "Komani", hu: "Komani", ro: "Komani", en: "Komani" },
+    name: { de: "Komani", hu: "Komani", ro: "Komani", en: "Komani",
+image: "/poi-images/southafrica-queenstown-cities-v2.webp"
+},
     description: {
       de: "Eine von Bergen umgebene Stadt, die historisch als strategischer Außenposten konzipiert wurde.",
       hu: "Hegyekkel körülvett város, amelyet történelmileg stratégiai előretolt helyőrségként terveztek.",
@@ -931,7 +1031,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-EC",
     coords: [26.7114, -30.6937],
-    name: { de: "Aliwal North", hu: "Aliwal North", ro: "Aliwal North", en: "Aliwal North" },
+    name: { de: "Aliwal North", hu: "Aliwal North", ro: "Aliwal North", en: "Aliwal North",
+image: "/poi-images/southafrica-aliwal-north-cities-v2.webp"
+},
     description: {
       de: "Die Stadt am Oranje-Fluss ist vor allem für ihre heißen Mineralquellen bekannt, die viele Besucher anziehen.",
       hu: "Az Oranje-folyó partján fekvő város leginkább meleg ásványvizes forrásairól ismert, amelyek sok látogatót vonzanak.",
@@ -949,7 +1051,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-MP",
     coords: [29.4617, -25.7751],
-    name: { de: "Middelburg", hu: "Middelburg", ro: "Middelburg", en: "Middelburg" },
+    name: { de: "Middelburg", hu: "Middelburg", ro: "Middelburg", en: "Middelburg",
+image: "/poi-images/southafrica-middelburg-cities-v2.webp"
+},
     description: {
       de: "Ein starkes industrielles und landwirtschaftliches Zentrum, berühmt für die Produktion von rostfreiem Stahl und Kohle.",
       hu: "Erős ipari és mezőgazdasági központ, amely a rozsdamentes acél és a szén termeléséről híres.",
@@ -967,7 +1071,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-MP",
     coords: [29.2333, -25.8728],
-    name: { de: "eMalahleni", hu: "eMalahleni", ro: "eMalahleni", en: "eMalahleni" },
+    name: { de: "eMalahleni", hu: "eMalahleni", ro: "eMalahleni", en: "eMalahleni",
+image: "/poi-images/southafrica-witbank-cities-v2.webp"
+},
     description: {
       de: "Früher Witbank genannt, ist dies das Herzstück der Kohleförderregion und versorgt zahlreiche Kraftwerke.",
       hu: "A korábban Witbank néven ismert város a szénbányászati régió szíve, amely számos erőművet lát el.",
@@ -985,7 +1091,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-MP",
     coords: [29.1786, -26.5161],
-    name: { de: "Secunda", hu: "Secunda", ro: "Secunda", en: "Secunda" },
+    name: { de: "Secunda", hu: "Secunda", ro: "Secunda", en: "Secunda",
+image: "/poi-images/southafrica-secunda-cities-v2.webp"
+},
     description: {
       de: "Die zweite speziell errichtete Industriestadt von Sasol, die Benzin und andere Kraftstoffe aus Kohle produziert.",
       hu: "A Sasol második, kifejezetten ipari célra épített városa, amely szenet dolgoz fel benzinné és egyéb üzemanyagokká.",
@@ -1003,7 +1111,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-MP",
     coords: [29.3167, -26.9333],
-    name: { de: "Standerton", hu: "Standerton", ro: "Standerton", en: "Standerton" },
+    name: { de: "Standerton", hu: "Standerton", ro: "Standerton", en: "Standerton",
+image: "/poi-images/southafrica-standerton-cities-v2.webp"
+},
     description: {
       de: "Eine große landwirtschaftliche Stadt am Vaal-Fluss, spezialisiert auf Milchwirtschaft, Mais- und Geflügelzucht.",
       hu: "Nagy mezőgazdasági város a Vaal-folyó partján, amely tej-, kukorica- és baromfitenyésztésre specializálódott.",
@@ -1021,7 +1131,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-MP",
     coords: [29.9833, -26.5167],
-    name: { de: "Ermelo", hu: "Ermelo", ro: "Ermelo", en: "Ermelo" },
+    name: { de: "Ermelo", hu: "Ermelo", ro: "Ermelo", en: "Ermelo",
+image: "/poi-images/southafrica-ermelo-cities-v2.webp"
+},
     description: {
       de: "Das Tor zum Grasland von Mpumalanga ist ein Zentrum für den Abbau von Anthrazitkohle und die Wollproduktion.",
       hu: "A Mpumalanga füves pusztáinak kapuja az antracitszén bányászatának és a gyapjútermelésnek a központja.",
@@ -1039,7 +1151,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-LP",
     coords: [30.1636, -23.8333],
-    name: { de: "Tzaneen", hu: "Tzaneen", ro: "Tzaneen", en: "Tzaneen" },
+    name: { de: "Tzaneen", hu: "Tzaneen", ro: "Tzaneen", en: "Tzaneen",
+image: "/poi-images/southafrica-tzaneen-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt in Limpopo liegt in einer üppig grünen, fruchtbaren Region, die tropische Früchte produziert.",
       hu: "Limpopo második legnagyobb városa egy buja zöld, termékeny vidéken fekszik, amely trópusi gyümölcsöket termeszt.",
@@ -1057,7 +1171,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-LP",
     coords: [29.0069, -24.1844],
-    name: { de: "Mokopane", hu: "Mokopane", ro: "Mokopane", en: "Mokopane" },
+    name: { de: "Mokopane", hu: "Mokopane", ro: "Mokopane", en: "Mokopane",
+image: "/poi-images/southafrica-mokopane-cities-v2.webp"
+},
     description: {
       de: "Früher Potgietersrus genannt, ist die Stadt umgeben von einem der reichsten landwirtschaftlichen Gebiete des Landes.",
       hu: "A korábban Potgietersrus néven ismert város az ország egyik leggazdagabb mezőgazdasági területe által körülvett.",
@@ -1075,7 +1191,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-LP",
     coords: [30.4851, -22.9456],
-    name: { de: "Thohoyandou", hu: "Thohoyandou", ro: "Thohoyandou", en: "Thohoyandou" },
+    name: { de: "Thohoyandou", hu: "Thohoyandou", ro: "Thohoyandou", en: "Thohoyandou",
+image: "/poi-images/southafrica-thohoyandou-cities-v2.webp"
+},
     description: {
       de: "Die ehemalige Hauptstadt des Venda-Homelands ist heute das kulturelle und kommerzielle Zentrum der Region Vhembe.",
       hu: "A Venda bantusztán korábbi fővárosa ma a Vhembe régió kulturális és kereskedelmi központja.",
@@ -1093,7 +1211,9 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     type: "city",
     parent: "ZA-LP",
     coords: [31.1394, -23.9427],
-    name: { de: "Phalaborwa", hu: "Phalaborwa", ro: "Phalaborwa", en: "Phalaborwa" },
+    name: { de: "Phalaborwa", hu: "Phalaborwa", ro: "Phalaborwa", en: "Phalaborwa",
+image: "/poi-images/southafrica-phalaborwa-cities-v2.webp"
+},
     description: {
       de: "Bekannt als 'Die Stadt der zwei Sommer', liegt sie direkt am zentralen Eingangstor des Krüger-Nationalparks.",
       hu: "A 'Két nyár városaként' ismert település közvetlenül a Kruger Nemzeti Park középső bejáratánál fekszik.",

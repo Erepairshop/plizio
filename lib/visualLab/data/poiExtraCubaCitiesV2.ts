@@ -7,7 +7,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-01",
     coords: [-83.695, 22.4175],
-    name: { de: "Pinar del Río", hu: "Pinar del Río", ro: "Pinar del Río", en: "Pinar del Río" },
+    name: { de: "Pinar del Río", hu: "Pinar del Río", ro: "Pinar del Río", en: "Pinar del Río",
+image: "/poi-images/pinar-del-rio-cities-v2.webp"
+},
     description: {
       de: "Die Provinzhauptstadt im Westen Kubas ist ein Zentrum des Tabakanbaus und ein Ausgangspunkt zum Viñales-Tal. Die Stadt liegt in einer landwirtschaftlich geprägten Region mit Trockenhäusern und Feldern.",
       hu: "Az azonos nevű tartomány fővárosa, a kubai dohányipar központjaként ismert.",
@@ -41,7 +43,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-01",
     coords: [-83.5136, 22.5036],
-    name: { de: "Consolación del Sur", hu: "Consolación del Sur", ro: "Consolación del Sur", en: "Consolación del Sur" },
+    name: { de: "Consolación del Sur", hu: "Consolación del Sur", ro: "Consolación del Sur", en: "Consolación del Sur",
+image: "/poi-images/consolacion-del-sur-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde und Stadt in der Provinz Pinar del Río, ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Község és város Pinar del Río tartományban, fontos mezőgazdasági központ.",
@@ -75,7 +79,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-15",
     coords: [-82.763, 22.813],
-    name: { de: "Artemisa", hu: "Artemisa", ro: "Artemisa", en: "Artemisa" },
+    name: { de: "Artemisa", hu: "Artemisa", ro: "Artemisa", en: "Artemisa",
+image: "/poi-images/artemisa-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der 2011 gegründeten Provinz Artemisa, umgeben von fruchtbarem Ackerland.",
       hu: "A 2011-ben létrehozott Artemisa tartomány fővárosa, termékeny szántóföldekkel körülvéve.",
@@ -106,7 +112,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-15",
     coords: [-82.498, 22.888],
-    name: { de: "San Antonio de los Baños", hu: "San Antonio de los Baños", ro: "San Antonio de los Baños", en: "San Antonio de los Baños" },
+    name: { de: "San Antonio de los Baños", hu: "San Antonio de los Baños", ro: "San Antonio de los Baños", en: "San Antonio de los Baños",
+image: "/poi-images/san-antonio-de-los-banos-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt, die für ihr Internationales Filmfestival und die Humor-Biennale bekannt ist.",
       hu: "A Nemzetközi Filmfesztiváljáról és a Humor Biennáléjáról ismert város.",
@@ -140,7 +148,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-15",
     coords: [-82.505, 22.802],
-    name: { de: "Güira de Melena", hu: "Güira de Melena", ro: "Güira de Melena", en: "Güira de Melena" },
+    name: { de: "Güira de Melena", hu: "Güira de Melena", ro: "Güira de Melena", en: "Güira de Melena",
+image: "/poi-images/guira-de-melena-cities-v2.webp"
+},
     description: {
       de: "Wichtige landwirtschaftliche Gemeinde an der Südküste der Provinz Artemisa.",
       hu: "Fontos mezőgazdasági község Artemisa tartomány déli partján.",
@@ -174,7 +184,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-16",
     coords: [-82.15, 22.968],
-    name: { de: "San José de las Lajas", hu: "San José de las Lajas", ro: "San José de las Lajas", en: "San José de las Lajas" },
+    name: { de: "San José de las Lajas", hu: "San José de las Lajas", ro: "San José de las Lajas", en: "San José de las Lajas",
+image: "/poi-images/san-jose-de-las-lajas-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Provinz Mayabeque und Sitz wichtiger wissenschaftlicher Einrichtungen.",
       hu: "Mayabeque tartomány fővárosa és fontos tudományos intézmények székhelye.",
@@ -204,7 +216,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-16",
     coords: [-82.029, 22.848],
-    name: { de: "Güines", hu: "Güines", ro: "Güines", en: "Güines" },
+    name: { de: "Güines", hu: "Güines", ro: "Güines", en: "Güines",
+image: "/poi-images/guines-cities-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Stadt in der Provinz Mayabeque, ehemals ein wichtiger Eisenbahnknotenpunkt.",
       hu: "Történelmileg jelentős város Mayabeque tartományban, egykor fontos vasúti csomópont.",
@@ -237,7 +251,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-04",
     coords: [-81.191, 22.809],
-    name: { de: "Jovellanos", hu: "Jovellanos", ro: "Jovellanos", en: "Jovellanos" },
+    name: { de: "Jovellanos", hu: "Jovellanos", ro: "Jovellanos", en: "Jovellanos",
+image: "/poi-images/jovellanos-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt und Gemeinde in der Provinz Matanzas, ein Zentrum der Zuckerindustrie.",
       hu: "Város és község Matanzas tartományban, a cukoripar központja.",
@@ -267,7 +283,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-04",
     coords: [-80.905, 22.721],
-    name: { de: "Colón", hu: "Colón", ro: "Colón", en: "Colón" },
+    name: { de: "Colón", hu: "Colón", ro: "Colón", en: "Colón",
+image: "/poi-images/colon-cities-v2.webp"
+},
     description: {
       de: "Colón ist eine Stadt in der Provinz Matanzas mit starker landwirtschaftlicher Prägung. Sie liegt im Westen der Insel und ist mit Handel und regionaler Versorgung verbunden.",
       hu: "Város Matanzas tartomány központjában, cukornádültetvényekkel körülvéve.",
@@ -300,7 +318,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-05",
     coords: [-79.965, 22.405],
-    name: { de: "Santa Clara", hu: "Santa Clara", ro: "Santa Clara", en: "Santa Clara" },
+    name: { de: "Santa Clara", hu: "Santa Clara", ro: "Santa Clara", en: "Santa Clara",
+image: "/poi-images/santa-clara-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Provinz Villa Clara, bekannt für ihre Verbindung zu Che Guevara.",
       hu: "Villa Clara tartomány fővárosa, Che Guevarához fűződő kapcsolatáról ismert.",
@@ -333,7 +353,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-80.075, 22.809],
-    name: { de: "Sagua La Grande", hu: "Sagua La Grande", ro: "Sagua La Grande", en: "Sagua La Grande" },
+    name: { de: "Sagua La Grande", hu: "Sagua La Grande", ro: "Sagua La Grande", en: "Sagua La Grande",
+image: "/poi-images/sagua-la-grande-cities-v2.webp"
+},
     description: {
       de: "Eine historisch reiche Stadt an der Nordküste mit beeindruckender neoklassizistischer Architektur.",
       hu: "Történelmileg gazdag város az északi parton, lenyűgöző neoklasszikus építészettel.",
@@ -367,7 +389,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-79.471, 22.516],
-    name: { de: "Caibarién", hu: "Caibarién", ro: "Caibarién", en: "Caibarién" },
+    name: { de: "Caibarién", hu: "Caibarién", ro: "Caibarién", en: "Caibarién",
+image: "/poi-images/caibarien-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt, bekannt als 'La Villa Blanca', die das Tor zu den nördlichen Cayos ist.",
       hu: "Egy tengerparti város, 'La Villa Blanca'-ként ismert, amely a kapu az északi szigetekhez.",
@@ -401,7 +425,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-79.544, 22.493],
-    name: { de: "Remedios", hu: "Remedios", ro: "Remedios", en: "Remedios" },
+    name: { de: "Remedios", hu: "Remedios", ro: "Remedios", en: "Remedios",
+image: "/poi-images/remedios-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte Kubas mit gut erhaltener Kolonialarchitektur.",
       hu: "Kuba egyik legrégebbi városa, jól megőrzött gyarmati építészettel.",
@@ -435,7 +461,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-07",
     coords: [-79.443, 21.932],
-    name: { de: "Sancti Spíritus", hu: "Sancti Spíritus", ro: "Sancti Spíritus", en: "Sancti Spíritus" },
+    name: { de: "Sancti Spíritus", hu: "Sancti Spíritus", ro: "Sancti Spíritus", en: "Sancti Spíritus",
+image: "/poi-images/sancti-spiritus-cities-v2.webp"
+},
     description: {
       de: "Sancti Spíritus gehört zu den älteren Städten Kubas und bewahrt ein kompaktes koloniales Zentrum. Die Stadt liegt am Fluss Yayabo und ist ein regionales Verwaltungszentrum.",
       hu: "Az azonos nevű tartomány fővárosa, egyike a spanyolok által alapított eredeti hét városnak.",
@@ -466,7 +494,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-07",
     coords: [-79.17, 21.942],
-    name: { de: "Jatibonico", hu: "Jatibonico", ro: "Jatibonico", en: "Jatibonico" },
+    name: { de: "Jatibonico", hu: "Jatibonico", ro: "Jatibonico", en: "Jatibonico",
+image: "/poi-images/jatibonico-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Sancti Spíritus, deren Wirtschaft von der Zuckerproduktion geprägt ist.",
       hu: "Sancti Spíritus tartomány egyik városa és községe, Kuba középső részén.",
@@ -500,7 +530,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-08",
     coords: [-78.76, 21.848],
-    name: { de: "Ciego de Ávila", hu: "Ciego de Ávila", ro: "Ciego de Ávila", en: "Ciego de Ávila" },
+    name: { de: "Ciego de Ávila", hu: "Ciego de Ávila", ro: "Ciego de Ávila", en: "Ciego de Ávila",
+image: "/poi-images/ciego-de-avila-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der gleichnamigen Provinz, bekannt als 'Stadt der Portale' aufgrund ihrer Architektur.",
       hu: "Az azonos nevű tartomány fővárosa, építészete miatt a 'Portálok Városaként' ismert.",
@@ -531,7 +563,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-08",
     coords: [-78.627, 22.109],
-    name: { de: "Morón", hu: "Morón", ro: "Morón", en: "Morón" },
+    name: { de: "Morón", hu: "Morón", ro: "Morón", en: "Morón",
+image: "/poi-images/moron-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Nähe der Nordküste, das Tor zu den Ferienorten Cayo Coco und Cayo Guillermo.",
       hu: "Város az északi part közelében, a Cayo Coco és Cayo Guillermo üdülőhelyek kapuja.",
@@ -564,7 +598,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-10",
     coords: [-76.951, 20.96],
-    name: { de: "Victoria de Las Tunas", hu: "Victoria de Las Tunas", ro: "Victoria de Las Tunas", en: "Victoria de Las Tunas" },
+    name: { de: "Victoria de Las Tunas", hu: "Victoria de Las Tunas", ro: "Victoria de Las Tunas", en: "Victoria de Las Tunas",
+image: "/poi-images/victoria-de-las-tunas-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Provinz Las Tunas, bekannt als 'Balkon des Ostens' und 'Hauptstadt der kubanischen Skulptur'.",
       hu: "Las Tunas tartomány fővárosa, a 'Kelet erkélye' és a 'Kubai szobrászat fővárosa' néven ismert.",
@@ -594,7 +630,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-10",
     coords: [-76.602, 21.195],
-    name: { de: "Puerto Padre", hu: "Puerto Padre", ro: "Puerto Padre", en: "Puerto Padre" },
+    name: { de: "Puerto Padre", hu: "Puerto Padre", ro: "Puerto Padre", en: "Puerto Padre",
+image: "/poi-images/puerto-padre-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt an der Nordküste der Provinz Las Tunas mit einer großen Zuckermühle.",
       hu: "Kikötőváros Las Tunas tartomány északi partján, egy nagy cukorgyárral.",
@@ -627,7 +665,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-12",
     coords: [-76.642, 20.38],
-    name: { de: "Bayamo", hu: "Bayamo", ro: "Bayamo", en: "Bayamo" },
+    name: { de: "Bayamo", hu: "Bayamo", ro: "Bayamo", en: "Bayamo",
+image: "/poi-images/bayamo-cities-v2.webp"
+},
     description: {
       de: "Bayamo gilt als eine der historischen Wiegen der kubanischen Unabhängigkeitsbewegung. Die Stadt im Osten Kubas verbindet Revolutionsgeschichte mit traditionellem Provinzleben.",
       hu: "Granma tartomány fővárosa, az egyik első, spanyolok által alapított város és a kubai nemzeti himnusz bölcsője.",
@@ -657,7 +697,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-77.108, 20.343],
-    name: { de: "Manzanillo", hu: "Manzanillo", ro: "Manzanillo", en: "Manzanillo" },
+    name: { de: "Manzanillo", hu: "Manzanillo", ro: "Manzanillo", en: "Manzanillo",
+image: "/poi-images/manzanillo-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt am Golf von Guacanayabo, bekannt für ihre maurische Architektur und ihre Seepromenade.",
       hu: "Kikötőváros a Guacanayabo-öbölben, mór építészetéről és tengerparti sétányáról ismert.",
@@ -689,7 +731,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-99",
     coords: [-82.8, 21.887],
-    name: { de: "Nueva Gerona", hu: "Nueva Gerona", ro: "Nueva Gerona", en: "Nueva Gerona" },
+    name: { de: "Nueva Gerona", hu: "Nueva Gerona", ro: "Nueva Gerona", en: "Nueva Gerona",
+image: "/poi-images/nueva-gerona-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Sondergemeinde Isla de la Juventud, gelegen am Ufer des Flusses Las Casas.",
       hu: "Az Isla de la Juventud különleges község fővárosa, a Las Casas folyó partján fekszik.",
@@ -718,7 +762,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-03",
     coords: [-82.35, 22.95],
-    name: { de: "Santiago de las Vegas", hu: "Santiago de las Vegas", ro: "Santiago de las Vegas", en: "Santiago de las Vegas" },
+    name: { de: "Santiago de las Vegas", hu: "Santiago de las Vegas", ro: "Santiago de las Vegas", en: "Santiago de las Vegas",
+image: "/poi-images/santiago-de-las-vegas-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Havanna, Sitz des kubanischen Meteorologischen Instituts.",
       hu: "Város Havanna tartományban, a kubai Meteorológiai Intézet székhelye.",
@@ -747,7 +793,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-13",
     coords: [-75.992, 20.212],
-    name: { de: "Palma Soriano", hu: "Palma Soriano", ro: "Palma Soriano", en: "Palma Soriano" },
+    name: { de: "Palma Soriano", hu: "Palma Soriano", ro: "Palma Soriano", en: "Palma Soriano",
+image: "/poi-images/palma-soriano-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt der Provinz Santiago de Cuba, ein wichtiges Handelszentrum am Fluss Cauto.",
       hu: "Santiago de Cuba tartomány második legnagyobb városa, fontos kereskedelmi központ a Cauto folyó mentén.",
@@ -779,7 +827,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-13",
     coords: [-76.248, 20.3],
-    name: { de: "Contramaestre", hu: "Contramaestre", ro: "Contramaestre", en: "Contramaestre" },
+    name: { de: "Contramaestre", hu: "Contramaestre", ro: "Contramaestre", en: "Contramaestre",
+image: "/poi-images/contramaestre-cities-v2.webp"
+},
     description: {
       de: "Contramaestre liegt in der Provinz Santiago de Cuba und ist vor allem als landwirtschaftliche Gemeinde bekannt. Die Stadt steht für das ländliche Hinterland im Osten der Insel.",
       hu: "Város Santiago de Cuba tartományban, citrusfélék termeléséről ismert.",
@@ -811,7 +861,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "CU-14",
     coords: [-75.209, 20.144],
-    name: { de: "Guantánamo (Stadt)", hu: "Guantánamo (város)", ro: "Guantánamo (oraș)", en: "Guantánamo (city)" },
+    name: { de: "Guantánamo (Stadt)", hu: "Guantánamo (város)", ro: "Guantánamo (oraș)", en: "Guantánamo (city)",
+image: "/poi-images/guantanamo-city-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der Provinz Guantánamo, nahe der umstrittenen US-Marinebasis.",
       hu: "Guantánamo tartomány fővárosa, a vitatott amerikai haditengerészeti támaszpont közelében.",
@@ -843,7 +895,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-74.496, 20.35],
-    name: { de: "Baracoa", hu: "Baracoa", ro: "Baracoa", en: "Baracoa" },
+    name: { de: "Baracoa", hu: "Baracoa", ro: "Baracoa", en: "Baracoa",
+image: "/poi-images/baracoa-city-cities-v2.webp"
+},
     description: {
       de: "Die älteste Stadt Kubas, gegründet von Diego Velázquez im Jahr 1511. Bekannt für ihre isolierte Schönheit und Kakaoproduktion.",
       hu: "Kuba legrégebbi városa, melyet Diego Velázquez alapított 1511-ben. Elszigetelt szépségéről és kakaótermeléséről ismert.",
@@ -875,7 +929,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-09",
     coords: [-78.223, 21.528],
-    name: { de: "Florida", hu: "Florida", ro: "Florida", en: "Florida" },
+    name: { de: "Florida", hu: "Florida", ro: "Florida", en: "Florida",
+image: "/poi-images/florida-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde und Stadt in der Provinz Camagüey, ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Község és város Camagüey tartományban, fontos mezőgazdasági központ.",
@@ -907,7 +963,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-09",
     coords: [-77.265, 21.543],
-    name: { de: "Nuevitas", hu: "Nuevitas", ro: "Nuevitas", en: "Nuevitas" },
+    name: { de: "Nuevitas", hu: "Nuevitas", ro: "Nuevitas", en: "Nuevitas",
+image: "/poi-images/nuevitas-city-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt an einer großen Bucht an der Nordküste der Provinz Camagüey.",
       hu: "Kikötőváros egy nagy öbölben Camagüey tartomány északi partján.",
@@ -939,7 +997,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-76.113, 21.109],
-    name: { de: "Gibara", hu: "Gibara", ro: "Gibara", en: "Gibara" },
+    name: { de: "Gibara", hu: "Gibara", ro: "Gibara", en: "Gibara",
+image: "/poi-images/jibara-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Fischerstadt in der Provinz Holguín, bekannt für das Internationale Festival des armen Kinos.",
       hu: "Festői halászváros Holguín tartományban, a Nemzetközi Szegény Filmek Fesztiváljáról ismert.",
@@ -971,7 +1031,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-75.72, 20.97],
-    name: { de: "Banes", hu: "Banes", ro: "Banes", en: "Banes" },
+    name: { de: "Banes", hu: "Banes", ro: "Banes", en: "Banes",
+image: "/poi-images/banes-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die archäologische Hauptstadt Kubas, da hier viele präkolumbianische Artefakte gefunden wurden.",
       hu: "Kuba régészeti fővárosaként ismert, mivel itt számos prekolumbiánus leletet találtak.",
@@ -1003,7 +1065,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-74.95, 20.65],
-    name: { de: "Moa", hu: "Moa", ro: "Moa", en: "Moa" },
+    name: { de: "Moa", hu: "Moa", ro: "Moa", en: "Moa",
+image: "/poi-images/moa-cities-v2.webp"
+},
     description: {
       de: "Moa ist ein Industrie- und Bergbaustandort an der Nordostküste Kubas. Die Stadt ist vor allem mit dem Abbau von Nickel und Kobalt verbunden.",
       hu: "A nikkel- és kobaltbányászat fontos központja Kelet-Kubában.",
@@ -1035,7 +1099,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-75.68, 20.65],
-    name: { de: "Mayarí", hu: "Mayarí", ro: "Mayarí", en: "Mayarí" },
+    name: { de: "Mayarí", hu: "Mayarí", ro: "Mayarí", en: "Mayarí",
+image: "/poi-images/mayari-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt und Gemeinde in der Provinz Holguín, nahe dem Nationalpark Sierra Cristal.",
       hu: "Város és község Holguín tartományban, a Sierra Cristal Nemzeti Park közelében.",
@@ -1067,7 +1133,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-13",
     coords: [-75.85, 20.18],
-    name: { de: "San Luis", hu: "San Luis", ro: "San Luis", en: "San Luis" },
+    name: { de: "San Luis", hu: "San Luis", ro: "San Luis", en: "San Luis",
+image: "/poi-images/san-luis-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Santiago de Cuba, ein wichtiger Eisenbahnknotenpunkt und landwirtschaftliches Zentrum.",
       hu: "Város Santiago de Cuba tartományban, fontos vasúti csomópont és mezőgazdasági központ.",
@@ -1099,7 +1167,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-04",
     coords: [-81.20, 23.03],
-    name: { de: "Cárdenas", hu: "Cárdenas", ro: "Cárdenas", en: "Cárdenas" },
+    name: { de: "Cárdenas", hu: "Cárdenas", ro: "Cárdenas", en: "Cárdenas",
+image: "/poi-images/cardenas-city-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt in der Provinz Matanzas, bekannt als 'Stadt der Krebse' und 'Flaggenstadt', da hier 1850 erstmals die kubanische Flagge gehisst wurde.",
       hu: "Kikötőváros Matanzas tartományban, 'Rákok városa' és 'Zászlós város' néven ismert, mivel itt vonták fel először a kubai zászlót 1850-ben.",
@@ -1131,7 +1201,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-79.65, 22.31],
-    name: { de: "Placetas", hu: "Placetas", ro: "Placetas", en: "Placetas" },
+    name: { de: "Placetas", hu: "Placetas", ro: "Placetas", en: "Placetas",
+image: "/poi-images/placetas-cities-v2.webp"
+},
     description: {
       de: "Placetas liegt in der Provinz Villa Clara und dient als Handels- und Verkehrsknoten im Zentrum Kubas. Die Stadt ist stark mit Landwirtschaft und regionalen Verbindungen verknüpft.",
       hu: "Villa Clara tartomány központi kubai városa, régi vasúti és kereskedelmi kapcsolatokkal.",
@@ -1163,7 +1235,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-80.24, 22.58],
-    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo" },
+    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo",
+image: "/poi-images/santo-domingo-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Villa Clara, deren Wirtschaft hauptsächlich von der Landwirtschaft, insbesondere dem Zuckerrohranbau, abhängt.",
       hu: "Villa Clara tartomány egyik községe és városa, a sziget középső térségében.",
@@ -1195,7 +1269,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-79.97, 22.15],
-    name: { de: "Manicaragua", hu: "Manicaragua", ro: "Manicaragua", en: "Manicaragua" },
+    name: { de: "Manicaragua", hu: "Manicaragua", ro: "Manicaragua", en: "Manicaragua",
+image: "/poi-images/manicaragua-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in den Escambray-Bergen, bekannt für den Anbau von hochwertigem Kaffee.",
       hu: "Villa Clara tartomány hegyvidéki községe és városa, a középső kubai térségben.",
@@ -1227,7 +1303,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-07",
     coords: [-79.49, 22.08],
-    name: { de: "Cabaiguán", hu: "Cabaiguán", ro: "Cabaiguán", en: "Cabaiguán" },
+    name: { de: "Cabaiguán", hu: "Cabaiguán", ro: "Cabaiguán", en: "Cabaiguán",
+image: "/poi-images/cabaiguan-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Sancti Spíritus, bekannt für ihre Tabakproduktion und eine große kanarische Gemeinschaft.",
       hu: "Város Sancti Spíritus tartományban, dohánytermeléséről és nagy kanári-szigeteki közösségéről ismert.",
@@ -1259,7 +1337,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-07",
     coords: [-79.23, 22.32],
-    name: { de: "Yaguajay", hu: "Yaguajay", ro: "Yaguajay", en: "Yaguajay" },
+    name: { de: "Yaguajay", hu: "Yaguajay", ro: "Yaguajay", en: "Yaguajay",
+image: "/poi-images/yaguajay-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt, die für eine entscheidende Schlacht der kubanischen Revolution unter der Führung von Camilo Cienfuegos bekannt ist.",
       hu: "A kubai forradalom egyik döntő csatájáról ismert város, melyet Camilo Cienfuegos vezetett.",
@@ -1291,7 +1371,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-10",
     coords: [-77.58, 20.82],
-    name: { de: "Amancio", hu: "Amancio", ro: "Amancio", en: "Amancio" },
+    name: { de: "Amancio", hu: "Amancio", ro: "Amancio", en: "Amancio",
+image: "/poi-images/amancio-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde im Süden der Provinz Las Tunas, deren Hauptwirtschaftszweig die Zuckerproduktion ist.",
       hu: "Las Tunas tartomány egyik városa és községe, Kuba déli-középső részén.",
@@ -1323,7 +1405,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-10",
     coords: [-77.42, 20.98],
-    name: { de: "Colombia", hu: "Colombia", ro: "Colombia", en: "Colombia" },
+    name: { de: "Colombia", hu: "Colombia", ro: "Colombia", en: "Colombia",
+image: "/poi-images/colombia-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt und Gemeinde in der Provinz Las Tunas.",
       hu: "Város és község Las Tunas tartományban.",
@@ -1355,7 +1439,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-76.42, 20.37],
-    name: { de: "Jiguaní", hu: "Jiguaní", ro: "Jiguaní", en: "Jiguaní" },
+    name: { de: "Jiguaní", hu: "Jiguaní", ro: "Jiguaní", en: "Jiguaní",
+image: "/poi-images/jiguani-cities-v2.webp"
+},
     description: {
       de: "Jiguaní ist eine historische Stadt in der Provinz Granma und mit den Unabhängigkeitskriegen verbunden. Der Ort liegt in einer ländlichen Landschaft nahe der Sierra Maestra.",
       hu: "Granma tartomány egyik legrégebbi települése, gazdag történelemmel, amely a függetlenségi háborúkhoz kapcsolódik.",
@@ -1387,7 +1473,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-77.58, 20.04],
-    name: { de: "Niquero", hu: "Niquero", ro: "Niquero", en: "Niquero" },
+    name: { de: "Niquero", hu: "Niquero", ro: "Niquero", en: "Niquero",
+image: "/poi-images/niquero-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in Granma, bekannt als der Ort, an dem Fidel Castro und seine Revolutionäre 1956 mit der Yacht Granma landeten.",
       hu: "Granma tartomány déli városa és községe, a sziget legdélebbi települései közé tartozik.",
@@ -1419,7 +1507,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-77.28, 20.23],
-    name: { de: "Campechuela", hu: "Campechuela", ro: "Campechuela", en: "Campechuela" },
+    name: { de: "Campechuela", hu: "Campechuela", ro: "Campechuela", en: "Campechuela",
+image: "/poi-images/campechuela-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde und Stadt an der Küste der Provinz Granma.",
       hu: "Község és város Granma tartomány partján.",
@@ -1451,7 +1541,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-77.43, 20.14],
-    name: { de: "Media Luna", hu: "Media Luna", ro: "Media Luna", en: "Media Luna" },
+    name: { de: "Media Luna", hu: "Media Luna", ro: "Media Luna", en: "Media Luna",
+image: "/poi-images/media-luna-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in Granma, Geburtsort von Celia Sánchez, einer Heldin der kubanischen Revolution.",
       hu: "Granma tartomány déli, tengerparti községe és városa.",
@@ -1483,7 +1575,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-75.24, 20.58],
-    name: { de: "Sagua de Tánamo", hu: "Sagua de Tánamo", ro: "Sagua de Tánamo", en: "Sagua de Tánamo" },
+    name: { de: "Sagua de Tánamo", hu: "Sagua de Tánamo", ro: "Sagua de Tánamo", en: "Sagua de Tánamo",
+image: "/poi-images/sagua-de-tanamo-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der bergigen Region der Provinz Holguín, umgeben von üppiger Natur.",
       hu: "Város Holguín tartomány hegyvidéki régiójában, buja természettel körülvéve.",
@@ -1515,7 +1609,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-76.13, 20.6],
-    name: { de: "Urbano Noris", hu: "Urbano Noris", ro: "Urbano Noris", en: "Urbano Noris" },
+    name: { de: "Urbano Noris", hu: "Urbano Noris", ro: "Urbano Noris", en: "Urbano Noris",
+image: "/poi-images/urbano-noris-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Holguín, deren Wirtschaft stark von der Zuckerindustrie geprägt ist.",
       hu: "Község Holguínban, amelynek gazdaságát erősen a cukoripar határozza meg.",
@@ -1547,7 +1643,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-75.15, 20.0],
-    name: { de: "Caimanera", hu: "Caimanera", ro: "Caimanera", en: "Caimanera" },
+    name: { de: "Caimanera", hu: "Caimanera", ro: "Caimanera", en: "Caimanera",
+image: "/poi-images/caimanera-cities-v2.webp"
+},
     description: {
       de: "Caimanera ist ein Küstenort an der Bucht von Guantánamo, direkt in der Nähe der US-Marinebasis. Die Lage prägt den Ort stärker als seine geringe Größe.",
       hu: "Guantánamo tartomány kisvárosa és községe, a Guantánamói-öböl közelében.",
@@ -1579,7 +1677,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-75.05, 20.18],
-    name: { de: "Manuel Tames", hu: "Manuel Tames", ro: "Manuel Tames", en: "Manuel Tames" },
+    name: { de: "Manuel Tames", hu: "Manuel Tames", ro: "Manuel Tames", en: "Manuel Tames",
+image: "/poi-images/manuel-tames-cities-v2.webp"
+},
     description: {
       de: "Manuel Tames ist eine ländliche Gemeinde in der Provinz Guantánamo mit gebirgigem Umland. Landwirtschaft und kleine lokale Betriebe bestimmen das Bild des Ortes.",
       hu: "Község Guantánamo tartományban, gazdasága a mezőgazdaságra és a kávétermesztésre épül.",
@@ -1611,7 +1711,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-75.22, 20.21],
-    name: { de: "El Salvador", hu: "El Salvador", ro: "El Salvador", en: "El Salvador" },
+    name: { de: "El Salvador", hu: "El Salvador", ro: "El Salvador", en: "El Salvador",
+image: "/poi-images/el-salvador-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Guantánamo, die sich der Kaffee- und Kakaoproduktion widmet.",
       hu: "Község Guantánamóban, amely a kávé- és kakaótermelésnek szenteli magát.",
@@ -1643,7 +1745,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-09",
     coords: [-77.98, 20.71],
-    name: { de: "Santa Cruz del Sur", hu: "Santa Cruz del Sur", ro: "Santa Cruz del Sur", en: "Santa Cruz del Sur" },
+    name: { de: "Santa Cruz del Sur", hu: "Santa Cruz del Sur", ro: "Santa Cruz del Sur", en: "Santa Cruz del Sur",
+image: "/poi-images/santa-cruz-del-sur-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in der Provinz Camagüey, die 1932 von einem verheerenden Hurrikan schwer getroffen wurde.",
       hu: "Tengerparti város Camagüey tartományban, amelyet 1932-ben egy pusztító hurrikán súlyosan érintett.",
@@ -1675,7 +1779,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-09",
     coords: [-77.35, 21.05],
-    name: { de: "Guáimaro", hu: "Guáimaro", ro: "Guáimaro", en: "Guáimaro" },
+    name: { de: "Guáimaro", hu: "Guáimaro", ro: "Guáimaro", en: "Guáimaro",
+image: "/poi-images/guaimaro-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt von großer historischer Bedeutung, da hier 1869 die erste Verfassung der Republik in Waffen verabschiedet wurde.",
       hu: "Nagy történelmi jelentőségű város, mivel itt fogadták el 1869-ben a fegyverben álló köztársaság első alkotmányát.",
@@ -1707,7 +1813,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-01",
     coords: [-83.24, 22.58],
-    name: { de: "Los Palacios", hu: "Los Palacios", ro: "Los Palacios", en: "Los Palacios" },
+    name: { de: "Los Palacios", hu: "Los Palacios", ro: "Los Palacios", en: "Los Palacios",
+image: "/poi-images/los-palacios-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Pinar del Río, deren Wirtschaft auf dem Reisanbau basiert.",
       hu: "Község Pinar del Ríóban, gazdasága a rizstermesztésre épül.",
@@ -1739,7 +1847,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-15",
     coords: [-83.05, 22.71],
-    name: { de: "San Cristóbal", hu: "San Cristóbal", ro: "San Cristóbal", en: "San Cristóbal" },
+    name: { de: "San Cristóbal", hu: "San Cristóbal", ro: "San Cristóbal", en: "San Cristóbal",
+image: "/poi-images/san-cristobal-cities-v2.webp"
+},
     description: {
       de: "San Cristóbal liegt in der Provinz Artemisa am Fuß der Sierra del Rosario. Die Stadt ist landwirtschaftlich geprägt und liegt an einer wichtigen West-Ost-Verbindung.",
       hu: "Artemisa tartomány városa és községe, Nyugat-Kuba egyik régi települése.",
@@ -1771,7 +1881,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-15",
     coords: [-82.54, 22.98],
-    name: { de: "Bauta", hu: "Bauta", ro: "Bauta", en: "Bauta" },
+    name: { de: "Bauta", hu: "Bauta", ro: "Bauta", en: "Bauta",
+image: "/poi-images/bauta-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Nähe von Havanna, die als Schlafstadt für Pendler in die Hauptstadt dient.",
       hu: "Havanna közelében fekvő város, amely a fővárosba ingázók alvóvárosaként szolgál.",
@@ -1803,7 +1915,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-04",
     coords: [-81.13, 22.52],
-    name: { de: "Jagüey Grande", hu: "Jagüey Grande", ro: "Jagüey Grande", en: "Jagüey Grande" },
+    name: { de: "Jagüey Grande", hu: "Jagüey Grande", ro: "Jagüey Grande", en: "Jagüey Grande",
+image: "/poi-images/jaguey-grande-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Matanzas, Tor zur Zapata-Halbinsel und bekannt für den Zitrusanbau.",
       hu: "Város Matanzasban, a Zapata-félsziget kapuja és a citrustermesztésről ismert.",
@@ -1835,7 +1949,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-06",
     coords: [-80.84, 22.38],
-    name: { de: "Aguada de Pasajeros", hu: "Aguada de Pasajeros", ro: "Aguada de Pasajeros", en: "Aguada de Pasajeros" },
+    name: { de: "Aguada de Pasajeros", hu: "Aguada de Pasajeros", ro: "Aguada de Pasajeros", en: "Aguada de Pasajeros",
+image: "/poi-images/aguada-de-pasajeros-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in der Provinz Cienfuegos, deren Wirtschaft von Landwirtschaft und Viehzucht geprägt ist.",
       hu: "Cienfuegos tartomány községe és városa, a tartomány legnyugatibb részén.",
@@ -1867,7 +1983,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-06",
     coords: [-80.27, 22.34],
-    name: { de: "Cruces", hu: "Cruces", ro: "Cruces", en: "Cruces" },
+    name: { de: "Cruces", hu: "Cruces", ro: "Cruces", en: "Cruces",
+image: "/poi-images/cruces-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Cienfuegos, bekannt für ihre Verbindung zur Zuckerindustrie und ihre jährlichen Feste.",
       hu: "Város Cienfuegos tartományban, a cukoriparhoz fűződő kapcsolatáról és éves ünnepségeiről ismert.",
@@ -1899,7 +2017,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-06",
     coords: [-80.2, 22.15],
-    name: { de: "Cumanayagua", hu: "Cumanayagua", ro: "Cumanayagua", en: "Cumanayagua" },
+    name: { de: "Cumanayagua", hu: "Cumanayagua", ro: "Cumanayagua", en: "Cumanayagua",
+image: "/poi-images/cumanayagua-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in der Provinz Cienfuegos, die sich von der Küste bis in die Escambray-Berge erstreckt.",
       hu: "Község Cienfuegos tartományban, amely a parttól az Escambray-hegységig terjed.",
@@ -1931,7 +2051,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-07",
     coords: [-79.36, 22.0],
-    name: { de: "Taguasco", hu: "Taguasco", ro: "Taguasco", en: "Taguasco" },
+    name: { de: "Taguasco", hu: "Taguasco", ro: "Taguasco", en: "Taguasco",
+image: "/poi-images/taguasco-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt und Gemeinde in Sancti Spíritus, die von der Landwirtschaft, insbesondere Reis und Zuckerrohr, lebt.",
       hu: "Város és község Sancti Spíritusban, amely a mezőgazdaságból, különösen a rizs- és cukornádtermesztésből él.",
@@ -1962,7 +2084,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-08",
     coords: [-78.91, 22.19],
-    name: { de: "Chambas", hu: "Chambas", ro: "Chambas", en: "Chambas" },
+    name: { de: "Chambas", hu: "Chambas", ro: "Chambas", en: "Chambas",
+image: "/poi-images/chambas-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in der Provinz Ciego de Ávila mit einer Wirtschaft, die sich auf Zuckerrohr und Viehzucht stützt.",
       hu: "Község Ciego de Ávila tartományban, gazdasága a cukornádra és az állattenyésztésre támaszkodik.",
@@ -1993,7 +2117,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-08",
     coords: [-78.62, 21.68],
-    name: { de: "Baraguá", hu: "Baraguá", ro: "Baraguá", en: "Baraguá" },
+    name: { de: "Baraguá", hu: "Baraguá", ro: "Baraguá", en: "Baraguá",
+image: "/poi-images/baragua-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Ciego de Ávila, bekannt für die 'Bio-Fabrik', eine wichtige biotechnologische Einrichtung.",
       hu: "Község Ciego de Ávilában, a 'Bio-gyárról' ismert, egy fontos biotechnológiai létesítményről.",
@@ -2024,7 +2150,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-08",
     coords: [-78.42, 21.94],
-    name: { de: "Primero de Enero", hu: "Primero de Enero", ro: "Primero de Enero", en: "Primero de Enero" },
+    name: { de: "Primero de Enero", hu: "Primero de Enero", ro: "Primero de Enero", en: "Primero de Enero",
+image: "/poi-images/primero-de-enero-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Ciego de Ávila, die nach dem Datum des Sieges der kubanischen Revolution benannt ist.",
       hu: "Község Ciego de Ávilában, amelyet a kubai forradalom győzelmének dátumáról neveztek el.",
@@ -2055,7 +2183,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-10",
     coords: [-77.28, 20.9],
-    name: { de: "Jobabo", hu: "Jobabo", ro: "Jobabo", en: "Jobabo" },
+    name: { de: "Jobabo", hu: "Jobabo", ro: "Jobabo", en: "Jobabo",
+image: "/poi-images/jobabo-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt und Gemeinde in der Provinz Las Tunas, die ein wichtiges Zentrum für die Zuckerproduktion ist.",
       hu: "Város és község Las Tunas tartományban, amely a cukortermelés fontos központja.",
@@ -2086,7 +2216,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-76.95, 20.27],
-    name: { de: "Yara", hu: "Yara", ro: "Yara", en: "Yara" },
+    name: { de: "Yara", hu: "Yara", ro: "Yara", en: "Yara",
+image: "/poi-images/yara-cities-v2.webp"
+},
     description: {
       de: "Yara ist ein historischer Ort in der Provinz Granma, der mit dem Grito de Yara und dem Beginn des Zehnjährigen Krieges verbunden ist. Die Gemeinde liegt in einer fruchtbaren Region am Rand der Sierra Maestra.",
       hu: "Nagy történelmi jelentőségű város, mivel itt kiáltotta ki Carlos Manuel de Céspedes a 'Grito de Yara'-t, amellyel megkezdődött a tízéves háború.",
@@ -2117,7 +2249,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-12",
     coords: [-77.02, 20.56],
-    name: { de: "Río Cauto (Stadt)", hu: "Río Cauto (város)", ro: "Río Cauto (oraș)", en: "Río Cauto (city)" },
+    name: { de: "Río Cauto (Stadt)", hu: "Río Cauto (város)", ro: "Río Cauto (oraș)", en: "Río Cauto (city)",
+image: "/poi-images/rio-cauto-city-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde, die nach dem längsten Fluss Kubas benannt ist, der durch ihr Gebiet fließt.",
       hu: "Egy község, amelyet Kuba leghosszabb folyójáról neveztek el, amely áthalad a területén.",
@@ -2148,7 +2282,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-76.24, 20.73],
-    name: { de: "Cacocum", hu: "Cacocum", ro: "Cacocum", en: "Cacocum" },
+    name: { de: "Cacocum", hu: "Cacocum", ro: "Cacocum", en: "Cacocum",
+image: "/poi-images/cacocum-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in der Provinz Holguín, die ein wichtiger Verkehrsknotenpunkt und landwirtschaftliches Zentrum ist.",
       hu: "Község Holguín tartományban, fontos közlekedési csomópont és mezőgazdasági központ.",
@@ -2179,7 +2315,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-74.65, 20.07],
-    name: { de: "Imías", hu: "Imías", ro: "Imías", en: "Imías" },
+    name: { de: "Imías", hu: "Imías", ro: "Imías", en: "Imías",
+image: "/poi-images/imias-cities-v2.webp"
+},
     description: {
       de: "Eine Küstengemeinde im äußersten Osten Kubas, bekannt für ihre terrassierten Küstenformationen.",
       hu: "Part menti község Kuba legkeletibb részén, teraszos partformációiról ismert.",
@@ -2210,7 +2348,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-74.8, 20.05],
-    name: { de: "San Antonio del Sur", hu: "San Antonio del Sur", ro: "San Antonio del Sur", en: "San Antonio del Sur" },
+    name: { de: "San Antonio del Sur", hu: "San Antonio del Sur", ro: "San Antonio del Sur", en: "San Antonio del Sur",
+image: "/poi-images/san-antonio-del-sur-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Guantánamo, die in einer der trockensten Regionen Kubas liegt.",
       hu: "Község Guantánamóban, Kuba egyik legszárazabb régiójában található.",
@@ -2241,7 +2381,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-15",
     coords: [-82.68, 22.92],
-    name: { de: "Guanajay", hu: "Guanajay", ro: "Guanajay", en: "Guanajay" },
+    name: { de: "Guanajay", hu: "Guanajay", ro: "Guanajay", en: "Guanajay",
+image: "/poi-images/guanajay-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt in der Provinz Artemisa, die einst ein beliebtes Ziel für wohlhabende Havanner war.",
       hu: "Történelmi város Artemisa tartományban, amely egykor a gazdag havannaiak kedvelt célpontja volt.",
@@ -2272,7 +2414,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-15",
     coords: [-82.75, 22.99],
-    name: { de: "Mariel", hu: "Mariel", ro: "Mariel", en: "Mariel" },
+    name: { de: "Mariel", hu: "Mariel", ro: "Mariel", en: "Mariel",
+image: "/poi-images/mariel-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt westlich von Havanna, bekannt für die Mariel-Bootskrise von 1980 und die neue Sonderwirtschaftszone.",
       hu: "Havannától nyugatra fekvő kikötőváros, amely az 1980-as Mariel-hajóválságról és az új különleges gazdasági övezetről ismert.",
@@ -2303,7 +2447,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-16",
     coords: [-82.28, 22.71],
-    name: { de: "Batabanó", hu: "Batabanó", ro: "Batabanó", en: "Batabanó" },
+    name: { de: "Batabanó", hu: "Batabanó", ro: "Batabanó", en: "Batabanó",
+image: "/poi-images/batabano-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Hafen an der Südküste Kubas und der Hauptabfahrtspunkt für Fähren zur Isla de la Juventud.",
       hu: "Fontos kikötő Kuba déli partján és a fő indulási pont az Isla de la Juventud felé tartó kompok számára.",
@@ -2334,7 +2480,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-16",
     coords: [-82.14, 22.78],
-    name: { de: "Melena del Sur", hu: "Melena del Sur", ro: "Melena del Sur", en: "Melena del Sur" },
+    name: { de: "Melena del Sur", hu: "Melena del Sur", ro: "Melena del Sur", en: "Melena del Sur",
+image: "/poi-images/melena-del-sur-cities-v2.webp"
+},
     description: {
       de: "Melena del Sur ist eine landwirtschaftliche Gemeinde in Mayabeque südlich von Havanna. Ackerbau und Fischerei prägen den Ort und sein Umland.",
       hu: "Község Mayabeque tartományban a déli parton, gazdaságát a mezőgazdaság jellemzi.",
@@ -2365,7 +2513,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-04",
     coords: [-81.01, 22.76],
-    name: { de: "Perico", hu: "Perico", ro: "Perico", en: "Perico" },
+    name: { de: "Perico", hu: "Perico", ro: "Perico", en: "Perico",
+image: "/poi-images/perico-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Matanzas, die historisch mit der Zuckerindustrie verbunden ist.",
       hu: "Község Matanzasban, amely történelmileg a cukoriparhoz kapcsolódik.",
@@ -2396,7 +2546,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-80.58, 22.98],
-    name: { de: "Corralillo", hu: "Corralillo", ro: "Corralillo", en: "Corralillo" },
+    name: { de: "Corralillo", hu: "Corralillo", ro: "Corralillo", en: "Corralillo",
+image: "/poi-images/corralillo-cities-v2.webp"
+},
     description: {
       de: "Die nördlichste Gemeinde der Provinz Villa Clara an der Küste.",
       hu: "Villa Clara tartomány legészakibb tengerparti községe.",
@@ -2427,7 +2579,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-05",
     coords: [-80.25, 22.78],
-    name: { de: "Quemado de Güines", hu: "Quemado de Güines", ro: "Quemado de Güines", en: "Quemado de Güines" },
+    name: { de: "Quemado de Güines", hu: "Quemado de Güines", ro: "Quemado de Güines", en: "Quemado de Güines",
+image: "/poi-images/quemado-de-guines-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt und Gemeinde in Villa Clara, die von der Landwirtschaft lebt.",
       hu: "Város és község Villa Clarában, amely a mezőgazdaságból él.",
@@ -2458,7 +2612,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-07",
     coords: [-79.24, 21.75],
-    name: { de: "La Sierpe", hu: "La Sierpe", ro: "La Sierpe", en: "La Sierpe" },
+    name: { de: "La Sierpe", hu: "La Sierpe", ro: "La Sierpe", en: "La Sierpe",
+image: "/poi-images/la-sierpe-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Sancti Spíritus, die ein wichtiges Zentrum für den Reisanbau in Kuba ist.",
       hu: "Község Sancti Spíritusban, amely Kuba rizstermesztésének fontos központja.",
@@ -2489,7 +2645,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-08",
     coords: [-78.99, 21.91],
-    name: { de: "Majagua", hu: "Majagua", ro: "Majagua", en: "Majagua" },
+    name: { de: "Majagua", hu: "Majagua", ro: "Majagua", en: "Majagua",
+image: "/poi-images/majagua-cities-v2.webp"
+},
     description: {
       de: "Majagua ist eine Gemeinde in Ciego de Ávila, die für Landwirtschaft und traditionelle Feste bekannt ist. Sie liegt im flachen Zentrum Kubas zwischen Zuckerrohr- und Ananasfeldern.",
       hu: "Község Ciego de Ávilában, hagyományos ünnepeiről és mezőgazdasági termeléséről ismert.",
@@ -2520,7 +2678,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-08",
     coords: [-78.79, 21.74],
-    name: { de: "Venezuela", hu: "Venezuela", ro: "Venezuela", en: "Venezuela" },
+    name: { de: "Venezuela", hu: "Venezuela", ro: "Venezuela", en: "Venezuela",
+image: "/poi-images/venezuela-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in Ciego de Ávila, deren Wirtschaft von der Zuckerindustrie dominiert wird.",
       hu: "Község Ciego de Ávilában, gazdaságát a cukoripar uralja.",
@@ -2551,7 +2711,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-11",
     coords: [-76.7, 20.85],
-    name: { de: "Calixto García", hu: "Calixto García", ro: "Calixto García", en: "Calixto García" },
+    name: { de: "Calixto García", hu: "Calixto García", ro: "Calixto García", en: "Calixto García",
+image: "/poi-images/calixto-garcia-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde in der Provinz Holguín, benannt nach dem General des Unabhängigkeitskrieges Calixto García.",
       hu: "Község Holguín tartományban, a függetlenségi háború tábornokáról, Calixto Garcíáról elnevezve.",
@@ -2582,7 +2744,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-74.15, 20.24],
-    name: { de: "Maisí", hu: "Maisí", ro: "Maisí", en: "Maisí" },
+    name: { de: "Maisí", hu: "Maisí", ro: "Maisí", en: "Maisí",
+image: "/poi-images/maisi-cities-v2.webp"
+},
     description: {
       de: "Die östlichste Gemeinde Kubas, bekannt für ihren Leuchtturm und die einzigartige Terrassenlandschaft.",
       hu: "Kuba legkeletibb községe, világítótornyáról és egyedülálló teraszos tájáról ismert.",
@@ -2613,7 +2777,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     type: "city",
     parent: "CU-14",
     coords: [-74.92, 20.35],
-    name: { de: "Yateras", hu: "Yateras", ro: "Yateras", en: "Yateras" },
+    name: { de: "Yateras", hu: "Yateras", ro: "Yateras", en: "Yateras",
+image: "/poi-images/yateras-cities-v2.webp"
+},
     description: {
       de: "Eine bergige Gemeinde in Guantánamo, bekannt für ihre reiche Biodiversität und Kaffeeproduktion.",
       hu: "Hegyvidéki község Guantánamóban, gazdag biodiverzitásáról és kávétermeléséről ismert.",

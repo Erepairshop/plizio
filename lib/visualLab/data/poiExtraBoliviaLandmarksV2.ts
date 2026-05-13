@@ -1,4 +1,4 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBoliviaLandmarksV2: POI[] = [
@@ -8,8 +8,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Der Cristo de la Concordia in Cochabamba ist eine der höchsten Christusstatue der Welt und bietet einen Panoramablick über das Tal.",
       hu: "Hatalmas Jézus-szobor Cochabambában, amely a városra tekint a San Pedro-dombról.",
       ro: "Cristo de la Concordia este o statuie monumentală a lui Isus Hristos care domină orașul Cochabamba de pe vârful dealului San Pedro.",
-      en: "Colossal statue of Jesus Christ overlooking Cochabamba from the top of San Pedro Hill."
-    },
+      en: "Colossal statue of Jesus Christ overlooking Cochabamba from the top of San Pedro Hill.",
+image: "/poi-images/cristo-concordia-landmarks-v2.webp"
+},
     facts: {
       de: ["Höhe von 34,20 Metern", "Steht auf dem Hügel San Pedro", "Ein Symbol des Friedens"],
       hu: ["Cochabamba", "Hatalmas Jézus-szobor", "San Pedro-domb"],
@@ -43,8 +44,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Die Basilika San Francisco in La Paz ist ein Meisterwerk des mestizischen Barocks und eines der bedeutendsten religiösen Gebäude des Landes.",
       hu: "La Paz történelmi központjában található gyönyörű gyarmati kori bazilika.",
       ro: "Bazilica San Francisco din La Paz este o capodoperă a arhitecturii religioase coloniale, îmbinând barocul spaniol cu detalii indigene.",
-      en: "Exquisite Catholic basilica in La Paz showcasing a unique blend of Baroque and indigenous art."
-    },
+      en: "Exquisite Catholic basilica in La Paz showcasing a unique blend of Baroque and indigenous art.",
+image: "/poi-images/basilica-san-francisco-landmarks-v2.webp"
+},
     facts: {
       de: ["Erbaut im 16. Jahrhundert", "Fassade mit indigenen Motiven", "Befindet sich im Stadtzentrum"],
       hu: ["La Paz", "Gyarmati kori építészet", "Bazilika"],
@@ -78,8 +80,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Die Kathedrale von Sucre kombiniert Renaissance- und Barockelemente und ist ein Symbol der kolonialen Geschichte der Hauptstadt.",
       hu: "Sucre városának fő katedrálisa, az ország egyik legfontosabb szakrális helye.",
       ro: "Catedrala Metropolitană din Sucre este una dintre cele mai frumoase clădiri religioase din Bolivia, sediu al Arhiepiscopului.",
-      en: "The principal cathedral of Sucre, known for its clock tower and impressive religious museum."
-    },
+      en: "The principal cathedral of Sucre, known for its clock tower and impressive religious museum.",
+image: "/poi-images/catedral-metropolitana-sucre-landmarks-v2.webp"
+},
     facts: {
       de: ["UNESCO-Welterbe der Altstadt", "Beherbergt wertvolle religiöse Kunst", "Baubeginn im Jahr 1551"],
       hu: ["Sucre", "Katedrális", "Szakrális műemlék"],
@@ -113,8 +116,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Die Plaza Murillo ist das politische Herz Boliviens, umgeben vom Regierungspalast, dem Kongress und der Kathedrale von La Paz.",
       hu: "La Paz központi tere, a bolíviai politika és kormányzat szívverése.",
       ro: "Plaza Murillo este inima istorică și politică a orașului La Paz, numită după martirul bolivian Pedro Domingo Murillo.",
-      en: "The central square of La Paz and the historical heart of Bolivian politics and government."
-    },
+      en: "The central square of La Paz and the historical heart of Bolivian politics and government.",
+image: "/poi-images/plaza-murillo-landmarks-v2.webp"
+},
     facts: {
       de: ["Zentrum der Altstadt von La Paz", "Ort historischer Ereignisse", "Benannt nach Pedro Domingo Murillo"],
       hu: ["La Paz", "Központi tér", "Politikai központ"],
@@ -148,8 +152,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Das Kloster Santa Teresa in Cochabamba ist ein beeindruckendes Beispiel kolonialer Architektur und spirituellen Lebens.",
       hu: "Kolostor és múzeum Cochabambában, amely bepillantást enged az egyházi művészetbe.",
       ro: "Convento de Santa Teresa din Cochabamba este o mănăstire din epoca colonială frumos conservată.",
-      en: "Historic colonial convent in Cochabamba featuring a unique circular church and peaceful cloisters."
-    },
+      en: "Historic colonial convent in Cochabamba featuring a unique circular church and peaceful cloisters.",
+image: "/poi-images/convento-santa-teresa-landmarks-v2.webp"
+},
     facts: {
       de: ["Gegründet im Jahr 1760", "Besitzt eine einzigartige Rundkirche", "Dient heute teilweise als Museum"],
       hu: ["Cochabamba", "Kolostor és múzeum", "Egyházi művészet"],
@@ -192,8 +197,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Catedral de Nuestra Señora de la Paz",
       hu: "Catedral de Nuestra Señora de la Paz",
       ro: "Catedral de Nuestra Señora de la Paz",
-      en: "Catedral de Nuestra Señora de la Paz"
-    },
+      en: "Catedral de Nuestra Señora de la Paz",
+image: "/poi-images/catedral-nuestra-senora-la-paz-landmarks-v2.webp"
+},
     description: {
       de: "Die neoklassizistische Kathedrale am Plaza Murillo beeindruckt mit ihrer steilen Treppe und prächtigen Kuppel.",
       hu: "La Paz főszékesegyháza a Plaza Murillo téren, egy neoklasszikus épület hatalmas kupolával és lenyűgöző belső terekkel.",
@@ -239,8 +245,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Estadio Hernando Siles",
       hu: "Estadio Hernando Siles",
       ro: "Estadio Hernando Siles",
-      en: "Estadio Hernando Siles"
-    },
+      en: "Estadio Hernando Siles",
+image: "/poi-images/estadio-hernando-siles-landmarks-v2.webp"
+},
     description: {
       de: "Eines der höchstgelegenen professionellen Fußballstadien der Welt, in dem die bolivianische Nationalmannschaft ihre Heimspiele austrägt.",
       hu: "A világ egyik legmagasabban fekvő profi labdarúgó-stadionja, ahol a bolíviai válogatott játssza hazai mérkőzéseit.",
@@ -291,8 +298,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Estación Central Mi Teleférico",
       hu: "Estación Central Mi Teleférico",
       ro: "Estación Central Mi Teleférico",
-      en: "Estación Central Mi Teleférico"
-    },
+      en: "Estación Central Mi Teleférico",
+image: "/poi-images/estacion-central-mi-teleferico-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptstation des spektakulären Seilbahnnetzwerks von La Paz, die früher der alte Hauptbahnhof der Stadt war.",
       hu: "La Paz látványos drótkötélpálya-hálózatának főállomása, amely korábban a város régi főpályaudvara volt.",
@@ -344,8 +352,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Puente de las Américas",
       hu: "Puente de las Américas",
       ro: "Puente de las Américas",
-      en: "Puente de las Américas"
-    },
+      en: "Puente de las Américas",
+image: "/poi-images/puente-de-las-americas-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Brücke in La Paz, die tiefe Schluchten überspannt und die Stadtteile Miraflores und Sopocachi verbindet.",
       hu: "Egy feltűnő híd La Pazban, amely mély szakadékokat hidal át, és összeköti a Miraflores és Sopocachi városrészeket.",
@@ -396,8 +405,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Iglesia de Curahuara de Carangas",
       hu: "Iglesia de Curahuara de Carangas",
       ro: "Iglesia de Curahuara de Carangas",
-      en: "Iglesia de Curahuara de Carangas"
-    },
+      en: "Iglesia de Curahuara de Carangas",
+image: "/poi-images/iglesia-curahuara-carangas-landmarks-v2.webp"
+},
     description: {
       de: "Eine koloniale Kirche auf dem Altiplano, die wegen ihrer gut erhaltenen Fresken als die Sixtinische Kapelle der Anden bezeichnet wird.",
       hu: "Gyarmati stílusú templom az Altiplanón, amelyet jól megőrzött freskói miatt az Andok Sixtus-kápolnájának neveznek.",
@@ -448,8 +458,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Santuario de la Virgen del Socavón",
       hu: "Santuario de la Virgen del Socavón",
       ro: "Santuario de la Virgen del Socavón",
-      en: "Santuario de la Virgen del Socavón"
-    },
+      en: "Santuario de la Virgen del Socavón",
+image: "/poi-images/santuario-virgen-socavon-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger religiöser Schrein in Oruro, der der Schutzpatronin der Bergleute gewidmet ist und Zielpunkt des berühmten Karnevals von Oruro ist.",
       hu: "Fontos vallási szentély Oruróban, amelyet a bányászok védőszentjének szenteltek, és a híres orurói karnevál célpontja.",
@@ -501,8 +512,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Catedral de San Lorenzo",
       hu: "Catedral de San Lorenzo",
       ro: "Catedral de San Lorenzo",
-      en: "Catedral de San Lorenzo"
-    },
+      en: "Catedral de San Lorenzo",
+image: "/poi-images/catedral-san-lorenzo-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkirche von Santa Cruz de la Sierra besticht durch ihre beeindruckende Ziegelfassade und hölzernen Innenräume.",
       hu: "Santa Cruz de la Sierra főtemploma lenyűgöző tégla homlokzatával és fa belső tereivel ragad meg.",
@@ -553,8 +565,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Monumento a la Virgen del Socavón",
       hu: "Monumento a la Virgen del Socavón",
       ro: "Monumento a la Virgen del Socavón",
-      en: "Monumento a la Virgen del Socavón"
-    },
+      en: "Monumento a la Virgen del Socavón",
+image: "/poi-images/monumento-virgen-socavon-landmarks-v2.webp"
+},
     description: {
       de: "Eine gigantische Statue, die die Schutzpatronin von Oruro darstellt und majestätisch auf dem Hügel Santa Bárbara über der Stadt thront.",
       hu: "Gigantikus szobor, amely Oruro védőszentjét ábrázolja, és fenségesen trónol a város felett a Santa Bárbara dombon.",
@@ -606,8 +619,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Iglesia de la Recoleta",
       hu: "Iglesia de la Recoleta",
       ro: "Iglesia de la Recoleta",
-      en: "Iglesia de la Recoleta"
-    },
+      en: "Iglesia de la Recoleta",
+image: "/poi-images/iglesia-recoleta-landmarks-v2.webp"
+},
     description: {
       de: "Ein malerisches Franziskanerkloster auf einem Hügel, das den besten Panoramablick auf die weiße Stadt Sucre bietet.",
       hu: "Festői ferences kolostor egy dombon, amely a legjobb panorámát kínálja Sucre fehér városára.",
@@ -658,8 +672,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Torre de la Compañía de Jesús",
       hu: "Torre de la Compañía de Jesús",
       ro: "Torre de la Compañía de Jesús",
-      en: "Torre de la Compañía de Jesús"
-    },
+      en: "Torre de la Compañía de Jesús",
+image: "/poi-images/torre-compania-jesus-landmarks-v2.webp"
+},
     description: {
       de: "Dieser verzierte steinerne Glockenturm ist das einzige Überbleibsel einer Jesuitenkirche und eines der wichtigsten Symbole der Silberstadt Potosí.",
       hu: "Ez a díszes kőharangtorony az egyetlen maradványa egy jezsuita templomnak, és Potosí ezüstvárosának egyik legfontosabb szimbóluma.",
@@ -710,8 +725,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Misión Jesuítica de San Javier",
       hu: "Misión Jesuítica de San Javier",
       ro: "Misión Jesuítica de San Javier",
-      en: "Misión Jesuítica de San Javier"
-    },
+      en: "Misión Jesuítica de San Javier",
+image: "/poi-images/mision-san-javier-landmarks-v2.webp"
+},
     description: {
       de: "Die erste der berühmten Jesuitenmissionen in der Chiquitania, bekannt für ihre wunderschöne Holzschnitzerei und musikalische Tradition.",
       hu: "A híres jezsuita missziók közül az első a Chiquitaniában, amely gyönyörű fafaragásairól és zenei hagyományáról ismert.",
@@ -762,8 +778,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Misión Jesuítica de Concepción",
       hu: "Misión Jesuítica de Concepción",
       ro: "Misión Jesuítica de Concepción",
-      en: "Misión Jesuítica de Concepción"
-    },
+      en: "Misión Jesuítica de Concepción",
+image: "/poi-images/mision-concepcion-landmarks-v2.webp"
+},
     description: {
       de: "Eine der am besten restaurierten Jesuitenmissionen in Bolivien, die die meisterhafte Handwerkskunst der einheimischen Chiquitano zeigt.",
       hu: "Bolívia egyik legjobban helyreállított jezsuita missziója, amely a helyi chiquitanók mesteri kézműves tudását mutatja be.",
@@ -814,8 +831,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Obelisco de La Paz",
       hu: "Obelisco de La Paz",
       ro: "Obelisco de La Paz",
-      en: "Obelisco de La Paz"
-    },
+      en: "Obelisco de La Paz",
+image: "/poi-images/obelisco-la-paz-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Denkmal mitten im Verkehrszentrum von La Paz, das als wichtiger Orientierungspunkt in der Stadt dient.",
       hu: "Történelmi emlékmű La Paz közlekedési központjának közepén, amely fontos tájékozódási pontként szolgál a városban.",
@@ -866,8 +884,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Mercado de las Brujas",
       hu: "Mercado de las Brujas",
       ro: "Mercado de las Brujas",
-      en: "Mercado de las Brujas"
-    },
+      en: "Mercado de las Brujas",
+image: "/poi-images/mercado-brujas-landmarks-v2.webp"
+},
     description: {
       de: "Der faszinierende Hexenmarkt von La Paz ist voll von traditionellen Heilmitteln, Amuletten und spirituellen Opfergaben für Pachamama.",
       hu: "La Paz lenyűgöző boszorkánypiaca tele van hagyományos gyógymódokkal, amulettekkel és Pachamamának szánt spirituális áldozatokkal.",
@@ -918,8 +937,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Convento de San Felipe Neri",
       hu: "Convento de San Felipe Neri",
       ro: "Convento de San Felipe Neri",
-      en: "Convento de San Felipe Neri"
-    },
+      en: "Convento de San Felipe Neri",
+image: "/poi-images/convento-san-felipe-neri-landmarks-v2.webp"
+},
     description: {
       de: "Ein ehemaliges Kloster in Sucre mit prächtigen neoklassizistischen Innenhöfen und einem weitläufigen Terrakotta-Dach, das man betreten kann.",
       hu: "Egykori kolostor Sucréban pompás neoklasszicista udvarokkal és hatalmas terrakotta tetővel, amelyre fel lehet menni.",
@@ -976,8 +996,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Iglesia de San Lorenzo de Carangas",
       hu: "Iglesia de San Lorenzo de Carangas",
       ro: "Iglesia de San Lorenzo de Carangas",
-      en: "Iglesia de San Lorenzo de Carangas"
-    },
+      en: "Iglesia de San Lorenzo de Carangas",
+image: "/poi-images/iglesia-san-lorenzo-landmarks-v2.webp"
+},
     description: {
       de: "Eine der meisterhaftesten Kirchen von Potosí mit einer unglaublich detailliert geschnitzten Steinportalfassade im Mestizen-Barockstil.",
       hu: "Potosí egyik leglátványosabb temploma, amelynek rendkívül gazdagon faragott kőhomlokzata a barokk művészet csúcspontja.",
@@ -1028,8 +1049,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Cementerio de Trenes",
       hu: "Cementerio de Trenes",
       ro: "Cementerio de Trenes",
-      en: "Cementerio de Trenes"
-    },
+      en: "Cementerio de Trenes",
+image: "/poi-images/cementerio-de-trenes-landmarks-v2.webp"
+},
     description: {
       de: "Ein surreales Freilichtmuseum in der Nähe von Uyuni, wo dutzende verrostete britische Dampflokomotiven aus dem 19. Jahrhundert verrotten.",
       hu: "Szürreális szabadtéri múzeum Uyuni közelében, ahol tucatnyi rozsdás, 19. századi brit gőzmozdony rothad.",
@@ -1080,8 +1102,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Catedral de Potosí",
       hu: "Catedral de Potosí",
       ro: "Catedral de Potosí",
-      en: "Catedral de Potosí"
-    },
+      en: "Catedral de Potosí",
+image: "/poi-images/catedral-potosi-landmarks-v2.webp"
+},
     description: {
       de: "Eine imposante neoklassizistische Kathedrale im historischen Zentrum der alten Bergbaustadt Potosí, deren Türme das Stadtbild prägen.",
       hu: "Impozáns neoklasszicista katedrális a régi bányászváros, Potosí történelmi központjában, melynek tornyai meghatározzák a városképet.",
@@ -1132,8 +1155,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Plaza 24 de Septiembre",
       hu: "Plaza 24 de Septiembre",
       ro: "Plaza 24 de Septiembre",
-      en: "Plaza 24 de Septiembre"
-    },
+      en: "Plaza 24 de Septiembre",
+image: "/poi-images/plaza-24-septiembre-landmarks-v2.webp"
+},
     description: {
       de: "Der lebhafte Hauptplatz von Santa Cruz de la Sierra, ein tropisches Zentrum voller Palmen, entspannter Einheimischer und historischer Gebäude.",
       hu: "Santa Cruz de la Sierra nyüzsgő főtere, egy trópusi központ pálmafákkal, pihenő helyiekkel és történelmi épületekkel.",
@@ -1184,8 +1208,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Puente Trillizos",
       hu: "Puente Trillizos",
       ro: "Puente Trillizos",
-      en: "Puente Trillizos"
-    },
+      en: "Puente Trillizos",
+image: "/poi-images/puente-trillizos-landmarks-v2.webp"
+},
     description: {
       de: "Ein System aus drei modernen Schrägseilbrücken, das zur Lösung der komplexen Verkehrsprobleme in der zerklüfteten Topographie von La Paz erbaut wurde.",
       hu: "Három modern ferdekábeles hídból álló rendszer, amelyet La Paz tagolt domborzatából eredő bonyolult közlekedési problémák megoldására építettek.",
@@ -1236,8 +1261,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Mirador Killi Killi",
       hu: "Mirador Killi Killi",
       ro: "Mirador Killi Killi",
-      en: "Mirador Killi Killi"
-    },
+      en: "Mirador Killi Killi",
+image: "/poi-images/mirador-killi-killi-landmarks-v2.webp"
+},
     description: {
       de: "Ein strategisch gelegener Aussichtspunkt auf einem Hügel, der einen atemberaubenden 360-Grad-Blick auf La Paz und den Berg Illimani bietet.",
       hu: "Egy stratégiailag elhelyezkedő kilátó egy dombon, amely lélegzetelállító 360 fokos kilátást nyújt La Pazra és az Illimani hegyre.",
@@ -1288,8 +1314,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Mercado La Cancha",
       hu: "Mercado La Cancha",
       ro: "Mercado La Cancha",
-      en: "Mercado La Cancha"
-    },
+      en: "Mercado La Cancha",
+image: "/poi-images/mercado-la-cancha-landmarks-v2.webp"
+},
     description: {
       de: "Einer der größten und chaotischsten Open-Air-Märkte Südamerikas in Cochabamba, wo man von Kleidung bis zu frischen Produkten alles findet.",
       hu: "Dél-Amerika egyik legnagyobb és legkaotikusabb szabadtéri piaca Cochabambában, ahol a ruháktól a friss termékekig minden megtalálható.",
@@ -1340,8 +1367,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Monumento a Eduardo Abaroa",
       hu: "Monumento a Eduardo Abaroa",
       ro: "Monumento a Eduardo Abaroa",
-      en: "Monumento a Eduardo Abaroa"
-    },
+      en: "Monumento a Eduardo Abaroa",
+image: "/poi-images/monumento-eduardo-abaroa-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal auf der gleichnamigen Plaza in La Paz, gewidmet dem bolivianischen Nationalhelden Eduardo Abaroa aus dem Salpeterkrieg.",
       hu: "Egy emlékmű a La Paz-i azonos nevű téren, amelyet a bolíviai nemzeti hősnek, Eduardo Abaroának szenteltek a salétromháborúból.",
@@ -1392,8 +1420,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Mirador Laikakota",
       hu: "Mirador Laikakota",
       ro: "Mirador Laikakota",
-      en: "Mirador Laikakota"
-    },
+      en: "Mirador Laikakota",
+image: "/poi-images/mirador-laikakota-landmarks-v2.webp"
+},
     description: {
       de: "Ein beliebter Park und Aussichtspunkt im Parque Urbano Central, der hervorragende Ausblicke auf den tief liegenden Teil von La Paz bietet.",
       hu: "Népszerű park és kilátó a Parque Urbano Centralban, amely kiváló kilátást nyújt La Paz alacsonyan fekvő részére.",
@@ -1444,8 +1473,9 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Basílica de Nuestra Señora de Copacabana",
       hu: "Basílica de Nuestra Señora de Copacabana",
       ro: "Basílica de Nuestra Señora de Copacabana",
-      en: "Basílica de Nuestra Señora de Copacabana"
-    },
+      en: "Basílica de Nuestra Señora de Copacabana",
+image: "/poi-images/basilica-copacabana-landmarks-v2.webp"
+},
     description: {
       de: "Eine weiße, maurisch anmutende Pilgerkirche am Titicacasee, die die berühmte hölzerne Statue der Jungfrau von Copacabana beherbergt.",
       hu: "Fehér, mór stílusú zarándoktemplom a Titicaca-tónál, amely a copacabanai Szűzanya híres faszobrát őrzi.",

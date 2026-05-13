@@ -4,7 +4,9 @@ export const belgiumEconomicV2: POI[] = [
   {
     id: "belgium-port-antwerp-economic-v2",
     type: "port",
-    name: { de: "Hafen von Antwerpen-Brügge", hu: "Antwerpen-Brügge kikötő", ro: "Portul Anvers-Bruges", en: "Port of Antwerp-Bruges" },
+    name: { de: "Hafen von Antwerpen-Brügge", hu: "Antwerpen-Brügge kikötő", ro: "Portul Anvers-Bruges", en: "Port of Antwerp-Bruges",
+image: "/poi-images/belgium-port-antwerp-economic-v2.webp"
+},
     coords: [4.354, 51.272],
     coordinates: { lat: 51.272, lng: 4.354 },
     description: {
@@ -19,11 +21,26 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Al doilea port ca mărime din Europa", "Cel mai mare cluster chimic din lume", "Fuziunea dintre Anvers și Bruges în 2022", "Trafic de peste 280 milioane tone anual"],
       en: ["Europe's second largest port", "Largest chemical cluster in the world", "Merged Antwerp and Zeebrugge in 2022", "Handles over 280 million tonnes annually"],
     },
-    imageHint: "Aerial view of large container terminal in Port of Antwerp", image: "/poi-images/belgium-port-antwerp-economic-v2.webp"},
-  {
+imageHint: "Aerial view of large container terminal in Port of Antwerp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Antwerpen-Brügge ist nicht nur der zweitgrößte Seehafen Europas, sondern auch ein absoluter Gigant im internationalen Handel. Nach der historischen Fusion der Häfen von Antwerpen und Seebrügge im Jahr 2022 entstand ein maritimes Kraftzentrum, das jährlich über 280 Millionen Tonnen Fracht umschlägt. Er ist das wichtigste Tor für den Import von Autos und der globale Marktführer im Bereich Breakbulk. Darüber hinaus beherbergt das weitläufige Hafenareal den größten integrierten Chemie-Cluster Europas, in dem namhafte multinationale Konzerne hochmoderne Produktionsanlagen betreiben. Durch massive Investitionen in grüne Energie und Wasserstofftechnologien positioniert sich der Hafen zudem als Vorreiter für eine nachhaltige maritime Zukunft in Europa.",
+      hu: "Az Antwerpen-Brügge kikötő nem csupán Európa második legnagyobb tengeri kikötője, hanem a nemzetközi kereskedelem egyik legfontosabb mozgatórugója is. Antwerpen és Zeebrugge kikötőinek 2022-es történelmi jelentőségű egyesülésével egy olyan tengerészeti óriás jött létre, amely évente több mint 280 millió tonna árut mozgat meg. Ez a kontinens legjelentősebb autóimport-kapuja és globális piacvezető a darabárus szállításban. Emellett a hatalmas kikötői területen található Európa legnagyobb integrált vegyipari klasztere, ahol neves multinacionális vállalatok működtetik csúcstechnológiás üzemeiket. A zöld energiába és a hidrogéntechnológiákba történő hatalmas beruházások révén a kikötő a fenntartható európai tengerészeti jövő úttörőjeként is pozicionálja magát.",
+      ro: "Portul Anvers-Bruges nu este doar al doilea cel mai mare port maritim din Europa, ci și un gigant absolut în comerțul internațional. După fuziunea istorică a porturilor Anvers și Zeebrugge în anul 2022, a fost creat un centru maritim de putere care manipulează anual peste 280 de milioane de tone de mărfuri. Este cea mai importantă poartă de import pentru automobile și lider mondial pe piața de breakbulk. În plus, zona vastă a portului găzduiește cel mai mare cluster chimic integrat din Europa, unde corporații multinaționale de renume operează facilități de producție ultramoderne. Prin investiții masive în energia verde și tehnologiile pe bază de hidrogen, portul se poziționează ca un pionier pentru un viitor maritim durabil pe continent.",
+      en: "The Port of Antwerp-Bruges is not only Europe's second-largest seaport but also an absolute titan in international trade. Following the historic merger of the ports of Antwerp and Zeebrugge in 2022, a maritime powerhouse was created that handles over 280 million tonnes of freight annually. It serves as the primary gateway for automobile imports and is the global market leader in breakbulk cargo. Furthermore, the expansive port area is home to Europe's largest integrated chemical cluster, where renowned multinational corporations operate state-of-the-art production facilities. Through massive investments in green energy and hydrogen technologies, the port is also positioning itself as a pioneer for a sustainable maritime future in Europe."
+    },
+    factsAdvanced: {
+      de: ["Entstand 2022 durch Fusion von Antwerpen und Zeebrugge | 2022-ben jött létre Antwerpen és Zeebrugge egyesülésével | Creat în 2022 prin fuziunea dintre Anvers și Zeebrugge | Created in 2022 by merging Antwerp and Zeebrugge", "Zweitgrößter Seehafen Europas nach Rotterdam | Európa második legnagyobb tengeri kikötője Rotterdam után | Al doilea port maritim din Europa după Rotterdam | Europe's second-largest seaport after Rotterdam", "Umschlagvolumen von über 280 Millionen Tonnen pro Jahr | Éves forgalma meghaladja a 280 millió tonnát | Volum de transbordare de peste 280 milioane de tone anual | Cargo volume exceeding 280 million tonnes per year", "Beherbergt den größten europäischen Chemie-Cluster | Európa legnagyobb vegyipari klaszterének ad otthont | Găzduiește cel mai mare cluster chimic din Europa | Houses the largest European chemical cluster", "Wichtigster europäischer Hafen für den Automobilimport | A legfontosabb európai kikötő az autóimport számára | Cel mai important port european pentru importul de mașini | Most important European port for car imports", "Beschäftigt direkt und indirekt rund 164.000 Menschen | Közvetve és közvetlenül mintegy 164 000 embert foglalkoztat | Angajează direct și indirect aproximativ 164.000 de persoane | Employs approximately 164,000 people directly and indirectly"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-port-antwerp-economic-v2.webp",
+},  {
     id: "belgium-antwerp-diamond-district-economic-v2",
     type: "landmark",
-    name: { de: "Diamantenviertel Antwerpen", hu: "Antwerpeni gyémántnegyed", ro: "Cartierul diamantelor din Anvers", en: "Antwerp Diamond District" },
+    name: { de: "Diamantenviertel Antwerpen", hu: "Antwerpeni gyémántnegyed", ro: "Cartierul diamantelor din Anvers", en: "Antwerp Diamond District",
+image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp"
+},
     coords: [4.417, 51.214],
     coordinates: { lat: 51.214, lng: 4.417 },
     description: {
@@ -38,11 +55,26 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Capitala mondială a diamantelor", "Cifră de afaceri de aprox. 40 mld. USD anual", "Găzduiește patru burse de diamante", "Suprafață de aproximativ un kilometru pătrat"],
       en: ["World capital of diamonds", "Annual turnover of approx. $40 billion", "Home to four diamond bourses", "Covers about one square kilometer"],
     },
-    imageHint: "Antwerp Diamond District street view with jewelry shops", image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp"},
-  {
+imageHint: "Antwerp Diamond District street view with jewelry shops",
+    descriptionAdvanced: {
+      de: "Das Diamantenviertel von Antwerpen, das sich in unmittelbarer Nähe des Hauptbahnhofs befindet, ist das unbestrittene Epizentrum des globalen Diamantenhandels. Auf einer Fläche von kaum einem Quadratkilometer werden jährlich Rohedelsteine und geschliffene Diamanten im Wert von fast 40 Milliarden US-Dollar gehandelt. Das Viertel beherbergt vier hochgradig gesicherte Diamantenbörsen, hunderte von Schleifereien und tausende spezialisierte Händler aus aller Welt. Etwa 84 Prozent aller ungeschliffenen und die Hälfte aller geschliffenen Diamanten weltweit passieren im Laufe ihres Verarbeitungsprozesses die streng bewachten Straßen dieses Distrikts. Trotz zunehmender internationaler Konkurrenz bleibt Antwerpen durch seine jahrhundertelange Expertise und modernste Zertifizierungsverfahren das Herz der Diamantenindustrie.",
+      hu: "Az antwerpeni gyémántnegyed, amely közvetlenül a központi pályaudvar mellett található, a globális gyémántkereskedelem vitathatatlan epicentruma. Alig egy négyzetkilométernyi területen évente mintegy 40 milliárd dollár értékben cserélnek gazdát a nyers és csiszolt drágakövek. A negyed négy szigorúan őrzött gyémánttőzsdének, több száz csiszolóműhelynek és több ezer, a világ minden tájáról érkezett szakkereskedőnek ad otthont. A világ nyersgyémántjainak körülbelül 84 százaléka és a csiszolt gyémántok fele áthalad e kerület szigorúan ellenőrzött utcáin a feldolgozás során. Az egyre növekvő nemzetközi verseny ellenére Antwerpen az évszázados szakértelmének és a legmodernebb tanúsítási eljárásoknak köszönhetően továbbra is a gyémántipar szíve maradt.",
+      ro: "Cartierul diamantelor din Anvers, situat în imediata vecinătate a gării centrale, este epicentrul incontestabil al comerțului global cu diamante. Pe o suprafață de abia un kilometru pătrat, se tranzacționează anual pietre prețioase brute și diamante șlefuite în valoare de aproape 40 de miliarde de dolari americani. Cartierul găzduiește patru burse de diamante extrem de securizate, sute de ateliere de tăiere și mii de comercianți specializați din întreaga lume. Aproximativ 84% din toate diamantele brute și jumătate din cele șlefuite trec prin străzile strict păzite ale acestui district în timpul procesului de prelucrare. În ciuda concurenței internaționale în creștere, Anvers rămâne inima industriei diamantelor datorită expertizei sale seculare și proceselor moderne de certificare.",
+      en: "The Antwerp Diamond District, located right next to the central railway station, is the undisputed epicenter of the global diamond trade. Within an area of barely one square kilometer, rough gems and polished diamonds worth nearly $40 billion are traded annually. The district is home to four highly secured diamond bourses, hundreds of cutting workshops, and thousands of specialized dealers from all over the world. Approximately 84 percent of all rough diamonds and half of all polished diamonds globally pass through the heavily guarded streets of this district during their processing. Despite increasing international competition, Antwerp remains the heart of the diamond industry due to its centuries of expertise and state-of-the-art certification processes."
+    },
+    factsAdvanced: {
+      de: ["Umsatz von rund 40 Milliarden USD pro Jahr | Éves forgalma mintegy 40 milliárd amerikai dollár | Cifră de afaceri de aproximativ 40 de miliarde USD pe an | Turnover of around 40 billion USD per year", "Beherbergt vier der weltweit 30 Diamantenbörsen | A világ 30 gyémánttőzsdéjéből négy itt található | Găzduiește patru din cele 30 de burse de diamante din lume | Houses four of the world's 30 diamond bourses", "Handelszentrum auf ca. einem Quadratkilometer Fläche | Alig egy négyzetkilométernyi kereskedelmi központ | Centru de tranzacționare pe aproximativ un kilometru pătrat | Trading hub covering roughly one square kilometer", "Über 80% aller Rohdiamanten passieren Antwerpen | A nyersgyémántok több mint 80%-a áthalad Antwerpenen | Peste 80% din diamantele brute trec prin Anvers | Over 80% of all rough diamonds pass through Antwerp", "Beschäftigt ca. 30.000 Menschen im Diamantensektor | Körülbelül 30 000 embert foglalkoztat a gyémántágazatban | Angajează aproximativ 30.000 de persoane în sectorul diamantelor | Employs about 30,000 people in the diamond sector", "Streng bewachte Infrastruktur neben dem Hauptbahnhof | Szigorúan őrzött infrastruktúra a főpályaudvar mellett | Infrastructură strict păzită lângă gara centrală | Heavily guarded infrastructure next to the central station"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp",
+},  {
     id: "belgium-doel-nuclear-plant-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Doel", hu: "Doeli atomerőmű", ro: "Centrala Nucleară de la Doel", en: "Doel Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Doel", hu: "Doeli atomerőmű", ro: "Centrala Nucleară de la Doel", en: "Doel Nuclear Power Plant",
+image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp"
+},
     coords: [4.258, 51.332],
     coordinates: { lat: 51.332, lng: 4.258 },
     description: {
@@ -57,11 +89,26 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Primul reactor pus în funcțiune în 1974", "Capacitate totală de aprox. 2.900 MW", "Turnuri de răcire distinctive pe malul Scheldt", "Parte a planului de eliminare nucleară"],
       en: ["First reactor commissioned in 1974", "Total capacity of approx. 2,900 MW", "Distinctive cooling towers on the Scheldt", "Part of the Belgian nuclear phase-out plan"],
     },
-    imageHint: "Cooling towers of Doel nuclear power plant by the river", image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp"},
-  {
+imageHint: "Cooling towers of Doel nuclear power plant by the river",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Doel ist eine der tragenden Säulen der belgischen Energieversorgung und prägt mit seinen markanten Kühltürmen die Landschaft entlang der Schelde nahe Antwerpen. Die Anlage nahm 1974 ihren Betrieb auf und umfasst vier Druckwasserreaktoren, die zusammen eine elektrische Nettoleistung von knapp 2.900 Megawatt erzeugen. In Zeiten des Spitzenbedarfs deckt Doel etwa 30 Prozent des gesamten belgischen Stromverbrauchs ab und sichert so die Energieversorgung der stark industrialisierten Region Flandern. Angesichts der politischen Debatten über den Atomausstieg in Belgien steht das Kraftwerk im Zentrum wirtschaftlicher und ökologischer Diskussionen. Die Lebensdauer der jüngsten Reaktoren wurde jedoch verlängert, um die Energiesicherheit des Landes während des Übergangs zu erneuerbaren Energien zu gewährleisten.",
+      hu: "A doeli atomerőmű a belga energiaellátás egyik tartópillére, amely jellegzetes hűtőtornyaival uralja az Antwerpenhez közeli Schelde folyó menti tájat. Az 1974-ben üzembe helyezett létesítmény négy nyomottvizes reaktorból áll, amelyek együttesen közel 2900 megawatt nettó elektromos teljesítményt állítanak elő. Csúcsidőszakokban Doel a teljes belga áramfogyasztás mintegy 30 százalékát biztosítja, ezáltal garantálva a magasan iparosodott Flandria régió energiaellátását. A belgiumi atomenergia-kivezetésről szóló politikai viták fényében az erőmű a gazdasági és ökológiai egyeztetések középpontjában áll. A legfiatalabb reaktorok élettartamát azonban meghosszabbították, hogy biztosítsák az ország energiabiztonságát a megújuló energiákra való átállás során.",
+      ro: "Centrala nucleară de la Doel este unul dintre pilonii principali ai aprovizionării cu energie a Belgiei, dominând peisajul de-a lungul râului Scheldt, lângă Anvers, cu turnurile sale de răcire distinctive. Unitatea a intrat în funcțiune în anul 1974 și este alcătuită din patru reactoare cu apă sub presiune, care generează împreună o putere electrică netă de aproape 2.900 de megawați. În perioadele de vârf de consum, Doel acoperă aproximativ 30% din necesarul total de energie electrică al Belgiei, asigurând astfel aprovizionarea regiunii puternic industrializate Flandra. În contextul dezbaterilor politice privind eliminarea energiei nucleare în Belgia, centrala se află în centrul discuțiilor economice și ecologice. Cu toate acestea, durata de viață a celor mai noi reactoare a fost prelungită pentru a garanta securitatea energetică a țării în timpul tranziției către energiile regenerabile.",
+      en: "The Doel Nuclear Power Plant is one of the foundational pillars of Belgium's energy supply, defining the landscape along the Scheldt river near Antwerp with its distinctive cooling towers. The facility commenced operations in 1974 and features four pressurized water reactors that collectively generate a net electrical output of nearly 2,900 megawatts. During times of peak demand, Doel covers approximately 30 percent of total Belgian electricity consumption, thereby securing the energy needs of the highly industrialized Flanders region. Amid political debates concerning the nuclear phase-out in Belgium, the plant remains at the center of economic and ecological discussions. However, the lifespan of the newest reactors has been extended to guarantee the country's energy security during the transition to renewable energy sources."
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme des ersten Reaktors im Jahr 1974 | Az első reaktor 1974-es üzembe helyezése | Punerea în funcțiune a primului reactor în anul 1974 | Commissioning of the first reactor in 1974", "Verfügt über 4 Druckwasserreaktoren | 4 nyomottvizes reaktorral rendelkezik | Dispune de 4 reactoare cu apă sub presiune | Features 4 pressurized water reactors", "Elektrische Nettoleistung von knapp 2.900 MW | Közel 2900 MW nettó elektromos teljesítmény | Capacitate electrică netă de aproape 2.900 MW | Net electrical capacity of nearly 2,900 MW", "Deckt bis zu 30% des belgischen Strombedarfs | A belga áramszükséglet akár 30%-át is fedezi | Acoperă până la 30% din necesarul de energie electrică | Covers up to 30% of Belgian electricity needs", "Markante 170 Meter hohe Kühltürme | Jellegzetes, 170 méter magas hűtőtornyok | Turnuri de răcire distinctive de 170 de metri | Distinctive 170-meter-tall cooling towers", "Lebensdauer von Doel 4 bis 2035 verlängert | A Doel 4 élettartamát 2035-ig meghosszabbították | Durata de viață a Doel 4 a fost prelungită până în 2035 | Lifespan of Doel 4 extended to 2035"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp",
+},  {
     id: "belgium-brussels-north-quarter-economic-v2",
     type: "landmark",
-    name: { de: "Brüsseler Nordviertel", hu: "Brüsszeli északi negyed", ro: "Cartierul de Nord din Bruxelles", en: "Brussels North Quarter" },
+    name: { de: "Brüsseler Nordviertel", hu: "Brüsszeli északi negyed", ro: "Cartierul de Nord din Bruxelles", en: "Brussels North Quarter",
+image: "/poi-images/belgium-brussels-north-quarter-economic-v2.webp"
+},
     coords: [4.358, 50.858],
     coordinates: { lat: 50.858, lng: 4.358 },
     description: {
@@ -77,11 +124,25 @@ export const belgiumEconomicV2: POI[] = [
       en: ["Largest business district in Belgium", "Location of the Proximus Towers", "Developed under the 'Manhattan Plan'", "Located directly next to North Station"],
     },
     imageHint: "Skyscrapers and modern office buildings in Brussels North Quarter",
+    descriptionAdvanced: {
+      de: "Das Brüsseler Nordviertel, auch bekannt als Espace Nord, ist das zentrale und größte Geschäftsviertel Belgiens. Entstanden durch das ehrgeizige und historisch umstrittene Manhattan-Projekt in den 1960er Jahren, prägen heute markante Hochhäuser und Glasfassaden das Stadtbild. In diesem dynamischen Wirtschaftsknotenpunkt bündeln sich Regierungsbehörden, Finanzinstitute und multinationale Unternehmenszentralen, darunter die Hauptsitze von Proximus und Euroclear. Das Viertel profitiert von seiner strategischen Lage am Nordbahnhof, einem der wichtigsten Verkehrsknotenpunkte des Landes, der täglich tausende Pendler abfertigt. Derzeit durchläuft das Nordviertel eine umfassende urbane Transformation, die darauf abzielt, die reinen Büroflächen durch Wohngebäude, Grünanlagen und nachhaltige Architektur aufzuwerten und das Quartier lebendiger zu gestalten.",
+      hu: "A Brüsszeli Északi negyed, más néven Espace Nord, Belgium központi és egyben legnagyobb üzleti negyede. Az 1960-as évek ambiciózus és történelmileg vitatott Manhattan-projektjének eredményeként jött létre, ma pedig lenyűgöző felhőkarcolók és üvegfalú irodaházak határozzák meg a városképet. Ebben a dinamikus gazdasági csomópontban kormányzati szervek, pénzintézetek és multinacionális vállalati központok koncentrálódnak, köztük a Proximus és az Euroclear székhelyei is. A negyed jelentősen profitál az Északi pályaudvar melletti stratégiai elhelyezkedéséből, amely az ország egyik legfontosabb közlekedési csomópontja, és naponta több ezer ingázót szolgál ki. Az Északi negyed jelenleg jelentős városi átalakuláson megy keresztül, melynek célja a tisztán irodai funkciók lakóépületekkel, zöldfelületekkel és fenntartható építészettel történő kiegészítése, élhetőbbé téve a környéket.",
+      ro: "Cartierul de Nord din Bruxelles, cunoscut și sub numele de Espace Nord, este cel mai central și mai mare district de afaceri din Belgia. Creat ca urmare a proiectului ambițios și istoric controversat Manhattan din anii 1960, astăzi peisajul urban este dominat de zgârie-nori impresionanți și fațade de sticlă. În acest hub economic dinamic se concentrează agenții guvernamentale, instituții financiare și sedii corporative multinaționale, inclusiv birourile principale ale Proximus și Euroclear. Cartierul beneficiază enorm de locația sa strategică de lângă Gara de Nord, unul dintre cele mai importante noduri de transport ale țării, care deservește zilnic mii de navetiști. În prezent, Cartierul de Nord trece printr-o transformare urbană majoră, care are ca scop modernizarea spațiilor de birouri cu clădiri rezidențiale, zone verzi și arhitectură durabilă, pentru a revitaliza întreaga zonă.",
+      en: "The Brussels North Quarter, also known as Espace Nord, is the central and largest business district in Belgium. Emerging from the ambitious and historically controversial Manhattan Project in the 1960s, its urban landscape is now defined by striking skyscrapers and modern glass facades. This dynamic economic hub concentrates government agencies, financial institutions, and multinational corporate headquarters, including the main offices of Proximus and Euroclear. The quarter benefits immensely from its strategic location next to the North Station, one of the country's most vital transport hubs, handling thousands of commuters daily. Currently, the North Quarter is undergoing a comprehensive urban transformation aimed at diversifying the purely office-based environment by introducing residential buildings, green spaces, and sustainable architecture to create a more vibrant neighborhood."
+    },
+    factsAdvanced: {
+      de: ["Größtes Geschäftsviertel Belgiens | Belgium legnagyobb üzleti negyede | Cel mai mare district de afaceri din Belgia | Largest business district in Belgium", "Entstanden durch das 'Manhattan-Projekt' (1960er) | Az 1960-as évek 'Manhattan-projektje' hozta létre | Creat prin 'Proiectul Manhattan' (anii 1960) | Created through the 'Manhattan Project' (1960s)", "Sitz der Proximus-Türme (über 100m hoch) | A több mint 100 m magas Proximus-tornyok helyszíne | Locația Turnurilor Proximus (peste 100m înălțime) | Site of the Proximus Towers (over 100m tall)", "Direkte Anbindung an den Bahnhof Bruxelles-Nord | Közvetlen kapcsolat a Bruxelles-Nord pályaudvarral | Conexiune directă la Gara Bruxelles-Nord | Direct connection to Bruxelles-Nord railway station", "Über 1 Million Quadratmeter Bürofläche | Több mint 1 millió négyzetméternyi irodaterület | Peste 1 milion de metri pătrați de spații de birouri | Over 1 million square meters of office space", "Zentrum für Ministerien und den Finanzsektor | Minisztériumok és a pénzügyi szektor központja | Centru pentru ministere și sectorul financiar | Hub for ministries and the financial sector"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "belgium-port-liege-economic-v2",
     type: "port",
-    name: { de: "Autonomer Hafen von Lüttich", hu: "Lüttichi autonóm kikötő", ro: "Portul Autonom din Liège", en: "Autonomous Port of Liège" },
+    name: { de: "Autonomer Hafen von Lüttich", hu: "Lüttichi autonóm kikötő", ro: "Portul Autonom din Liège", en: "Autonomous Port of Liège",
+image: "/poi-images/belgium-port-liege-economic-v2.webp"
+},
     coords: [5.615, 50.662],
     coordinates: { lat: 50.662, lng: 5.615 },
     description: {
@@ -96,11 +157,26 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Al treilea cel mai mare port interior din Europa", "Nod logistic central pentru Valonia", "Manipularea cerealelor și metalelor", "Legătură directă cu Canalul Albert"],
       en: ["Third largest inland port in Europe", "Central logistics hub for Wallonia", "Handles grain and metal shipments", "Direct connection to the Albert Canal"],
     },
-    imageHint: "Barges and cranes at the inland Port of Liège", image: "/poi-images/belgium-port-liege-economic-v2.webp"},
-  {
+imageHint: "Barges and cranes at the inland Port of Liège",
+    descriptionAdvanced: {
+      de: "Der autonome Hafen von Lüttich ist das Herzstück der wallonischen Binnenschifffahrt und positioniert sich stolz als der größte Binnenhafen Belgiens sowie als der drittgrößte in ganz Europa. Er erstreckt sich über mehrere Dutzend Kilometer entlang der Maas und des Albert-Kanals und fungiert als essenzielles Bindeglied zwischen den hochindustrialisierten Gebieten Walloniens und dem Seehafen Antwerpen. Mit hochmodernen multimodalen Logistikplattformen ermöglicht er den reibungslosen Umschlag von Millionen Tonnen Fracht, darunter primär Schüttgüter, landwirtschaftliche Erzeugnisse und Industriemetalle. Die kontinuierliche Modernisierung der Infrastruktur, einschließlich der Entwicklung des riesigen Trilogiport-Areals, stärkt Lüttichs Position als unverzichtbares europäisches Verteilerzentrum für nachhaltigen Gütertransport.",
+      hu: "A lüttichi autonóm kikötő a vallon belvízi hajózás központja, amely büszkén viseli a Belgium legnagyobb és Európa harmadik legnagyobb folyami kikötője címet. A Meuse folyó és az Albert-csatorna mentén több tucat kilométeren elterülve alapvető összekötő kapocsként szolgál Vallónia magasan iparosodott területei és az antwerpeni tengeri kikötő között. A legmodernebb multimodális logisztikai platformokkal lehetővé teszi több millió tonna áru, köztük elsősorban ömlesztett áruk, mezőgazdasági termékek és ipari fémek zökkenőmentes átrakodását. Az infrastruktúra folyamatos korszerűsítése, beleértve a hatalmas Trilogiport terület fejlesztését is, tovább erősíti Lüttich pozícióját, mint a fenntartható áruszállítás nélkülözhetetlen európai elosztóközpontját.",
+      ro: "Portul autonom din Liège este inima navigației interioare valone și se mândrește cu poziția sa de cel mai mare port interior din Belgia și al treilea ca mărime din întreaga Europă. Întinzându-se pe zeci de kilometri de-a lungul fluviului Meuse și al Canalului Albert, funcționează ca o legătură esențială între zonele puternic industrializate ale Valoniei și portul maritim Anvers. Cu platforme logistice multimodale ultramoderne, permite transbordarea fără probleme a milioane de tone de marfă, incluzând în principal mărfuri în vrac, produse agricole și metale industriale. Modernizarea continuă a infrastructurii, inclusiv dezvoltarea vastului spațiu Trilogiport, consolidează poziția orașului Liège ca un centru european de distribuție indispensabil pentru transportul durabil de mărfuri.",
+      en: "The autonomous Port of Liège is the centerpiece of Walloon inland navigation, proudly standing as the largest inland port in Belgium and the third-largest in all of Europe. Stretching for dozens of kilometers along the Meuse River and the Albert Canal, it acts as a vital link between the highly industrialized areas of Wallonia and the seaport of Antwerp. Featuring state-of-the-art multimodal logistics platforms, it facilitates the seamless handling of millions of tonnes of freight, primarily including bulk cargo, agricultural products, and industrial metals. The ongoing modernization of its infrastructure, notably the development of the massive Trilogiport area, further cements Liège's position as an indispensable European distribution hub for sustainable freight transport."
+    },
+    factsAdvanced: {
+      de: ["Drittgrößter Binnenhafen in Europa | Európa harmadik legnagyobb folyami kikötője | Al treilea cel mai mare port interior din Europa | Third-largest inland port in Europe", "Erstreckt sich über 26 Hafenanlagen | 26 kikötői létesítményen terül el | Se întinde pe 26 de zone portuare | Spans across 26 port facilities", "Direkte Anbindung an Antwerpen via Albert-Kanal | Közvetlen összeköttetés Antwerpenhez az Albert-csatornán | Conexiune directă la Anvers via Canalul Albert | Direct connection to Antwerp via the Albert Canal", "Umschlag von rund 20 Millionen Tonnen Wasserfracht | Körülbelül 20 millió tonna vízi áruforgalom | Manipulează aproximativ 20 de milioane de tone de marfă | Handles around 20 million tonnes of waterborne freight", "Entwicklung des multimodalen Lüttich Trilogiport | A multimodális Liège Trilogiport fejlesztése | Dezvoltarea platformei multimodale Liège Trilogiport | Development of the multimodal Liège Trilogiport", "Fokus auf nachhaltige Binnenschifffahrt | Fókuszban a fenntartható belvízi hajózás | Focus pe navigația interioară durabilă | Focus on sustainable inland navigation"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-port-liege-economic-v2.webp",
+},  {
     id: "belgium-puurs-pharma-cluster-economic-v2",
     type: "factory",
-    name: { de: "Pharma-Cluster Puurs", hu: "Puursi gyógyszeripari központ", ro: "Clusterul farmaceutic Puurs", en: "Puurs Pharmaceutical Cluster" },
+    name: { de: "Pharma-Cluster Puurs", hu: "Puursi gyógyszeripari központ", ro: "Clusterul farmaceutic Puurs", en: "Puurs Pharmaceutical Cluster",
+image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"
+},
     coords: [4.278, 51.074],
     coordinates: { lat: 51.074, lng: 4.278 },
     description: {
@@ -115,11 +191,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Locul de producție al vaccinului Pfizer-BioNTech", "Una dintre cele mai mari fabrici Pfizer din lume", "Angajează mii de specialiști calificați", "Centrul sectorului biotech belgian"],
       en: ["Production site of the Pfizer-BioNTech vaccine", "One of the largest Pfizer plants globally", "Employs thousands of highly skilled workers", "Hub of the Belgian biotech sector"],
     },
-    imageHint: "Modern pharmaceutical production facility building in Puurs", image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"},
+    imageHint: "Modern pharmaceutical production facility building in Puurs",
+    image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"},
   {
     id: "belgium-seraing-steel-works-economic-v2",
     type: "industry",
-    name: { de: "Stahlwerke von Seraing", hu: "Seraingi acélművek", ro: "Oțelăriile din Seraing", en: "Seraing Steel Works" },
+    name: { de: "Stahlwerke von Seraing", hu: "Seraingi acélművek", ro: "Oțelăriile din Seraing", en: "Seraing Steel Works",
+image: "/poi-images/belgium-seraing-steel-works-economic-v2.webp"
+},
     coords: [5.512, 50.595],
     coordinates: { lat: 50.595, lng: 5.512 },
     description: {
@@ -135,11 +214,25 @@ export const belgiumEconomicV2: POI[] = [
       en: ["Founding site of the Cockerill Group", "Cradle of the industrial revolution in Belgium", "Now part of international groups like ArcelorMittal", "Specializes in high-tech steel solutions"],
     },
     imageHint: "Industrial skyline of steel mills and blast furnaces in Seraing",
+    descriptionAdvanced: {
+      de: "Die Stahlwerke von Seraing bilden das historische Rückgrat der wallonischen Schwerindustrie und waren einst die Wiege der industriellen Revolution auf dem europäischen Festland. Gegründet im 19. Jahrhundert durch den Pionier John Cockerill, wuchs das Industrierevier schnell zu einem gigantischen Komplex von Hochöfen und Walzwerken heran, der die Wirtschaftsentwicklung Belgiens entscheidend prägte. Heute gehören große Teile der Anlagen zu globalen Akteuren wie der ArcelorMittal-Gruppe und fokussieren sich zunehmend auf hochspezialisierte Stahllösungen, die in der Automobil- und Bauindustrie Anwendung finden. Der Strukturwandel der letzten Jahrzehnte hat Seraing vor Herausforderungen gestellt, doch durch technologische Innovationen und Initiativen zur wirtschaftlichen Diversifizierung behauptet der Standort weiterhin seine Relevanz. Gleichzeitig werden stillgelegte Industriebrachen zunehmend zu modernen Technologieparks und Kulturzentren umgewandelt.",
+      hu: "A seraingi acélművek a vallon nehézipar történelmi gerincét alkotják, és egykor az európai kontinens ipari forradalmának bölcsői voltak. A John Cockerill úttörő által a 19. században alapított iparvidék gyorsan hatalmas kohó- és hengermű-komplexummá nőtte ki magát, amely döntően meghatározta Belgium gazdasági fejlődését. Ma a létesítmények jelentős része olyan globális szereplők tulajdonában van, mint az ArcelorMittal-csoport, és egyre inkább az autó- és az építőiparban alkalmazott, rendkívül speciális acélmegoldásokra összpontosít. Az elmúlt évtizedek szerkezeti átalakulása komoly kihívások elé állította Seraingot, ám a technológiai innovációknak és a gazdasági diverzifikációt célzó kezdeményezéseknek köszönhetően a helyszín továbbra is megőrizte relevanciáját. Ezzel párhuzamosan a felhagyott iparterületeket egyre gyakrabban modern technológiai parkokká és kulturális központokká alakítják át.",
+      ro: "Oțelăriile din Seraing formează coloana vertebrală istorică a industriei grele valone și au fost odată leagănul revoluției industriale pe continentul european. Fondată în secolul al XIX-lea de către pionierul John Cockerill, zona industrială a crescut rapid într-un complex gigantic de furnale și laminoare, care a modelat decisiv dezvoltarea economică a Belgiei. Astăzi, mari părți ale facilităților aparțin unor actori globali precum grupul ArcelorMittal și se concentrează tot mai mult pe soluții de oțel extrem de specializate, utilizate în industriile auto și de construcții. Schimbările structurale din ultimele decenii au adus provocări pentru Seraing, însă prin inovații tehnologice și inițiative de diversificare economică, locația continuă să își mențină relevanța. În același timp, fostele zone industriale abandonate sunt din ce în ce mai mult transformate în parcuri tehnologice moderne și centre culturale.",
+      en: "The steelworks of Seraing form the historical backbone of Walloon heavy industry and were once the cradle of the industrial revolution on the European mainland. Founded in the 19th century by pioneer John Cockerill, the industrial district rapidly expanded into a massive complex of blast furnaces and rolling mills that decisively shaped Belgium's economic development. Today, significant portions of the facilities belong to global players like the ArcelorMittal group, focusing increasingly on highly specialized steel solutions utilized in the automotive and construction industries. The structural changes of recent decades have presented challenges for Seraing, yet through technological innovation and initiatives for economic diversification, the site continues to maintain its relevance. Concurrently, abandoned industrial wastelands are increasingly being transformed into modern technology parks and cultural centers."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im frühen 19. Jahrhundert von John Cockerill | A 19. század elején alapította John Cockerill | Fondată la începutul secolului al XIX-lea de John Cockerill | Founded in the early 19th century by John Cockerill", "Historisches Zentrum der belgischen Kohle- und Stahlproduktion | A belga szén- és acéltermelés történelmi központja | Centru istoric al producției belgiene de cărbune și oțel | Historical center of Belgian coal and steel production", "Teil des multinationalen ArcelorMittal-Konzerns | A multinacionális ArcelorMittal-konszern része | Parte a grupului multinațional ArcelorMittal | Part of the multinational ArcelorMittal corporation", "Spezialisierung auf High-Tech-Flachstahl für Autos | High-tech laposacélra specializálódott az autóipar számára | Specializare în oțel plat de înaltă tehnologie pentru mașini | Specialized in high-tech flat steel for automobiles", "Ehemalige Hochöfen dominieren weiterhin die Skyline | A korábbi kohók továbbra is uralják a városképet | Fostele furnale domină în continuare orizontul | Former blast furnaces continue to dominate the skyline", "Masterplan 'Seraing 2050' zur städtischen Revitalisierung | Seraing 2050 mesterterv a város revitalizációjára | Planul director 'Seraing 2050' pentru revitalizarea urbană | Masterplan 'Seraing 2050' for urban revitalization"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "belgium-zeebrugge-lng-terminal-economic-v2",
     type: "industry",
-    name: { de: "LNG-Terminal Zeebrugge", hu: "Zeebruggei LNG-terminál", ro: "Terminalul GNL Zeebrugge", en: "Zeebrugge LNG Terminal" },
+    name: { de: "LNG-Terminal Zeebrugge", hu: "Zeebruggei LNG-terminál", ro: "Terminalul GNL Zeebrugge", en: "Zeebrugge LNG Terminal",
+image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"
+},
     coords: [3.212, 51.348],
     coordinates: { lat: 51.348, lng: 3.212 },
     description: {
@@ -154,11 +247,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Una dintre cele mai importante porți GNL ale Europei", "Conexiune directă la rețeaua europeană de gaze", "Deține rezervoare de stocare izolate uriașe", "Punct de tranzit pentru gazul arctic și qatariot"],
       en: ["One of Europe's main LNG gateways", "Direct connection to the European gas grid", "Features massive insulated storage tanks", "Transshipment point for Arctic and Qatari gas"],
     },
-    imageHint: "Large LNG storage tanks and carrier ship at Zeebrugge port", image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"},
+    imageHint: "Large LNG storage tanks and carrier ship at Zeebrugge port",
+    image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"},
   {
     id: "belgium-ghent-arcelormittal-steel-economic-v2",
     type: "factory",
-    name: { de: "ArcelorMittal Gent", hu: "ArcelorMittal Gent", ro: "ArcelorMittal Gent", en: "ArcelorMittal Ghent" },
+    name: { de: "ArcelorMittal Gent", hu: "ArcelorMittal Gent", ro: "ArcelorMittal Gent", en: "ArcelorMittal Ghent",
+image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"
+},
     coords: [3.785, 51.155],
     coordinates: { lat: 51.155, lng: 3.785 },
     description: {
@@ -173,11 +269,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cel mai mare producător de oțel din Belgia", "Angajează aprox. 5.000 de persoane", "Focus pe producția de oțel cu emisii reduse de CO2", "Instalații portuare proprii pentru importul de minereu"],
       en: ["Largest steel producer in Belgium", "Employs approx. 5,000 people", "Focus on low-carbon steel production", "Own port facilities for ore imports"],
     },
-    imageHint: "Vast industrial complex of ArcelorMittal steel plant in Ghent", image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"},
+    imageHint: "Vast industrial complex of ArcelorMittal steel plant in Ghent",
+    image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"},
   {
     id: "belgium-leuven-ab-inbev-brewery-economic-v2",
     type: "factory",
-    name: { de: "AB InBev Brauerei Löwen", hu: "AB InBev sörfőzde, Leuven", ro: "Berăria AB InBev Leuven", en: "AB InBev Brewery Leuven" },
+    name: { de: "AB InBev Brauerei Löwen", hu: "AB InBev sörfőzde, Leuven", ro: "Berăria AB InBev Leuven", en: "AB InBev Brewery Leuven",
+image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"
+},
     coords: [4.708, 50.885],
     coordinates: { lat: 50.885, lng: 4.708 },
     description: {
@@ -192,11 +291,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Sediul liderului mondial al pieței de bere", "Unitate de producție pentru Stella Artois", "Angajează mii de oameni în regiune", "Centru pentru tehnologia berii și cercetare"],
       en: ["Headquarters of the world's leading brewer", "Production site of Stella Artois", "Employs thousands in the region", "Center for brewing technology and research"],
     },
-    imageHint: "Industrial brewing facility of Stella Artois in Leuven", image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"},
+    imageHint: "Industrial brewing facility of Stella Artois in Leuven",
+    image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"},
   {
     id: "belgium-tihange-nuclear-plant-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Tihange", hu: "Tihange-i atomerőmű", ro: "Centrala Nucleară de la Tihange", en: "Tihange Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Tihange", hu: "Tihange-i atomerőmű", ro: "Centrala Nucleară de la Tihange", en: "Tihange Nuclear Power Plant",
+image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"
+},
     coords: [5.272, 50.534],
     coordinates: { lat: 50.534, lng: 5.272 },
     description: {
@@ -211,11 +313,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Trei reactoare în funcțiune (istoric)", "Capacitate totală de aproximativ 3.000 MW", "Situată pe malul fluviului Meuse", "Centrală pentru infrastructura energetică valonă"],
       en: ["Three reactors in operation (historically)", "Total capacity of about 3,000 MW", "Located on the banks of the Meuse river", "Central to Walloon energy infrastructure"],
     },
-    imageHint: "Nuclear power plant Tihange with cooling towers near the river", image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"},
+    imageHint: "Nuclear power plant Tihange with cooling towers near the river",
+    image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"},
   {
     id: "belgium-liege-airport-logistics-economic-v2",
     type: "port",
-    name: { de: "Flughafen Lüttich Cargo-Hub", hu: "Lüttichi repülőtér logisztikai központ", ro: "Hub-ul logistic al Aeroportului Liège", en: "Liège Airport Logistics Hub" },
+    name: { de: "Flughafen Lüttich Cargo-Hub", hu: "Lüttichi repülőtér logisztikai központ", ro: "Hub-ul logistic al Aeroportului Liège", en: "Liège Airport Logistics Hub",
+image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"
+},
     coords: [5.443, 50.637],
     coordinates: { lat: 50.637, lng: 5.443 },
     description: {
@@ -230,11 +335,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cel mai mare aeroport de marfă din Belgia", "Hub principal pentru FedEx în Europa", "Baza logistică a Alibaba (Cainiao)", "Funcționare 24/24 fără interdicții de zbor nocturn"],
       en: ["Largest cargo airport in Belgium", "Main hub for FedEx in Europe", "Logistics base for Alibaba (Cainiao)", "24-hour operation with no night flight ban"],
     },
-    imageHint: "Cargo planes and warehouses at Liège Airport at night", image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"},
+    imageHint: "Cargo planes and warehouses at Liège Airport at night",
+    image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"},
   {
     id: "belgium-brussels-airport-cargo-economic-v2",
     type: "port",
-    name: { de: "Brussels Airport Cargo (Brucargo)", hu: "Brüsszeli repülőtér Cargo (Brucargo)", ro: "Brussels Airport Cargo (Brucargo)", en: "Brussels Airport Cargo (Brucargo)" },
+    name: { de: "Brussels Airport Cargo (Brucargo)", hu: "Brüsszeli repülőtér Cargo (Brucargo)", ro: "Brussels Airport Cargo (Brucargo)", en: "Brussels Airport Cargo (Brucargo)",
+image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"
+},
     coords: [4.485, 50.902],
     coordinates: { lat: 50.902, lng: 4.485 },
     description: {
@@ -249,11 +357,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Lider mondial în transportul aerian farmaceutic", "Stație vamală proprie și campus logistic", "Peste 100 de hectare pentru manipularea mărfurilor", "Conexiune cu peste 200 de destinații"],
       en: ["Global leader in pharmaceutical air transport", "Features own customs station and logistics campus", "Over 100 hectares for cargo handling", "Connected to over 200 destinations"],
     },
-    imageHint: "Modern cargo logistics center Brucargo at Brussels Airport", image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"},
+    imageHint: "Modern cargo logistics center Brucargo at Brussels Airport",
+    image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"},
   {
     id: "belgium-feluy-petrochemical-economic-v2",
     type: "industry",
-    name: { de: "Petrochemie-Komplex Feluy", hu: "Feluy-i petrolkémiai komplexum", ro: "Complexul petrochimic Feluy", en: "Feluy Petrochemical Complex" },
+    name: { de: "Petrochemie-Komplex Feluy", hu: "Feluy-i petrolkémiai komplexum", ro: "Complexul petrochimic Feluy", en: "Feluy Petrochemical Complex",
+image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"
+},
     coords: [4.238, 50.585],
     coordinates: { lat: 50.585, lng: 4.238 },
     description: {
@@ -268,11 +379,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Locație majoră a TotalEnergies", "Specializat în producția de polimeri", "Centru de cercetare important pentru mase plastice", "Locație strategică pe canalul Charleroi-Bruxelles"],
       en: ["Major site for TotalEnergies", "Specializes in polymer production", "Important research center for plastics", "Strategic location on the Charleroi-Brussels Canal"],
     },
-    imageHint: "Petrochemical plant with pipelines and storage tanks in Feluy", image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"},
+    imageHint: "Petrochemical plant with pipelines and storage tanks in Feluy",
+    image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"},
   {
     id: "belgium-charleroi-aerospace-economic-v2",
     type: "industry",
-    name: { de: "Luft- und Raumfahrtzentrum Charleroi", hu: "Charleroi repülőgép- és űripari központ", ro: "Centrul aerospațial din Charleroi", en: "Charleroi Aerospace Center" },
+    name: { de: "Luft- und Raumfahrtzentrum Charleroi", hu: "Charleroi repülőgép- és űripari központ", ro: "Centrul aerospațial din Charleroi", en: "Charleroi Aerospace Center",
+image: "/poi-images/belgium-charleroi-aerospace-economic-v2.webp"
+},
     coords: [4.452, 50.465],
     coordinates: { lat: 50.465, lng: 4.452 },
     description: {
@@ -288,11 +402,25 @@ export const belgiumEconomicV2: POI[] = [
       en: ["Headquarters of SONACA and SABCA", "Center for maintenance and production", "Main high-tech employer in the region", "Closely linked to Charleroi Airport"],
     },
     imageHint: "Modern aerospace manufacturing facility and office building in Charleroi",
+    descriptionAdvanced: {
+      de: "Die Region Charleroi, insbesondere der Industriepool rund um Gosselies, hat sich zu einem pulsierenden Zentrum der europäischen Luft- und Raumfahrttechnik entwickelt. Historisch geprägt von Kohle und Stahl, ist Charleroi heute ein herausragendes Beispiel für gelungene industrielle Diversifizierung. Hier sind renommierte Unternehmen wie SONACA und SABCA angesiedelt, die komplexe Strukturbauteile, Tragflächenkomponenten und Hochtechnologie-Systeme für Branchenriesen wie Airbus, Boeing sowie für die Europäische Weltraumorganisation (ESA) fertigen. Neben der reinen Produktion floriert auch der Sektor für Flugzeugwartung und -reparatur, stark begünstigt durch die unmittelbare Nähe zum stetig wachsenden Flughafen Charleroi (BSCA). Unterstützt durch spezialisierte Ausbildungszentren und das Innovationsnetzwerk Skywin treibt der Luftfahrtsektor das wirtschaftliche Wiederaufleben der gesamten Region Wallonien maßgeblich voran.",
+      hu: "A Charleroi régió, különösen a Gosselies körüli ipari központ, az európai repülőgép- és űripar egyik lüktető központjává fejlődött. A történelmileg szén és acél által meghatározott Charleroi ma a sikeres ipari diverzifikáció kiemelkedő példája. Itt olyan neves vállalatok találhatók, mint a SONACA és a SABCA, amelyek komplex szerkezeti elemeket, szárnyalkatrészeket és csúcstechnológiás rendszereket gyártanak olyan iparági óriások számára, mint az Airbus és a Boeing, valamint az Európai Űrügynökség (ESA). A puszta gyártás mellett a repülőgép-karbantartási és -javítási ágazat is virágzik, amit nagyban elősegít a folyamatosan növekvő charleroi-i repülőtér (BSCA) közvetlen közelsége. A speciális képzési központok és a Skywin innovációs hálózat által támogatott légiközlekedési ágazat jelentősen ösztönzi az egész vallon régió gazdasági fellendülését.",
+      ro: "Regiunea Charleroi, în special polul industrial din jurul orașului Gosselies, s-a dezvoltat într-un centru vibrant al ingineriei aerospațiale europene. Definit istoric de cărbune și oțel, Charleroi este astăzi un exemplu remarcabil de diversificare industrială reușită. Aici se află companii renumite precum SONACA și SABCA, care produc componente structurale complexe, piese de aripi și sisteme de înaltă tehnologie pentru giganți ai industriei precum Airbus, Boeing, precum și pentru Agenția Spațială Europeană (ESA). Dincolo de simpla producție, sectorul de întreținere și reparații a aeronavelor este de asemenea înfloritor, favorizat puternic de proximitatea imediată față de aeroportul Charleroi (BSCA), aflat în continuă creștere. Susținut de centre de formare specializate și de rețeaua de inovare Skywin, sectorul aviației stimulează semnificativ renașterea economică a întregii regiuni valone.",
+      en: "The Charleroi region, particularly the industrial hub around Gosselies, has evolved into a vibrant center for European aerospace engineering. Historically defined by coal and steel, Charleroi is today an outstanding example of successful industrial diversification. It is home to renowned companies such as SONACA and SABCA, which manufacture complex structural components, wing parts, and high-tech systems for industry giants like Airbus and Boeing, as well as for the European Space Agency (ESA). Beyond mere manufacturing, the aircraft maintenance and repair sector is also thriving, greatly aided by the immediate proximity to the steadily growing Charleroi Airport (BSCA). Supported by specialized training centers and the Skywin innovation network, the aviation sector is significantly driving the economic resurgence of the entire Walloon region."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der wallonischen Luft- und Raumfahrtindustrie | A vallon repülőgép- és űripar központja | Centrul industriei aerospațiale valone | Hub of the Walloon aerospace industry", "Hauptsitz der Luftfahrtunternehmen SONACA und SABCA | A SONACA és SABCA légiközlekedési vállalatok székhelye | Sediul companiilor de aviație SONACA și SABCA | Headquarters of aviation companies SONACA and SABCA", "Wichtiger Zulieferer für Airbus, Boeing und ESA | Az Airbus, a Boeing és az ESA fontos beszállítója | Furnizor major pentru Airbus, Boeing și ESA | Major supplier for Airbus, Boeing, and ESA", "Eng verbunden mit dem Flughafen Charleroi (BSCA) | Szorosan kapcsolódik a charleroi-i repülőtérhez (BSCA) | Strâns legat de aeroportul Charleroi (BSCA) | Closely connected to Charleroi Airport (BSCA)", "Teil des regionalen Innovationsclusters 'Skywin' | A 'Skywin' regionális innovációs klaszter része | Parte a clusterului regional de inovare 'Skywin' | Part of the 'Skywin' regional innovation cluster", "Schwerpunkt auf Flugzeugwartung und Komponentenbau | Fókuszban a repülőgép-karbantartás és alkatrészgyártás | Concentrare pe întreținerea aeronavelor și fabricarea de componente | Focus on aircraft maintenance and component manufacturing"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "belgium-beerse-pharma-center-economic-v2",
     type: "factory",
-    name: { de: "Pharma-Campus Beerse", hu: "Beerse-i gyógyszeripari kampusz", ro: "Campusul farmaceutic Beerse", en: "Beerse Pharmaceutical Center" },
+    name: { de: "Pharma-Campus Beerse", hu: "Beerse-i gyógyszeripari kampusz", ro: "Campusul farmaceutic Beerse", en: "Beerse Pharmaceutical Center",
+image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp"
+},
     coords: [4.855, 51.318],
     coordinates: { lat: 51.318, lng: 4.855 },
     description: {
@@ -307,11 +435,26 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Fondat de Dr. Paul Janssen", "Parte a grupului Johnson & Johnson", "Focus pe cercetarea neurologică și oncologică", "Angajează peste 4.000 de cercetători și tehnicieni"],
       en: ["Founded by Dr. Paul Janssen", "Part of the Johnson & Johnson group", "Focus on neurological and oncology research", "Employs over 4,000 researchers and technicians"],
     },
-    imageHint: "Modern pharmaceutical research campus in Beerse", image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp"},
-  {
+imageHint: "Modern pharmaceutical research campus in Beerse",
+    descriptionAdvanced: {
+      de: "Beerse, eine Gemeinde in der Provinz Antwerpen, hat sich als unbestrittener Hotspot für biopharmazeutische Forschung und medizinische Innovation in Belgien etabliert. Ihre globale Bedeutung verdankt die Stadt primär Janssen Pharmaceutica, dem legendären Unternehmen, das hier von Dr. Paul Janssen gegründet wurde und heute als hoch innovativer Zweig des Johnson & Johnson Konzerns fungiert. Auf dem weitläufigen Campus in Beerse arbeiten tausende brillante Forscher und Wissenschaftler an der Entwicklung bahnbrechender Therapien in den Bereichen Onkologie, Neurologie und Infektionskrankheiten. Der Standort vereint modernste Laboreinrichtungen nahtlos mit hochskalierbaren Produktionsstätten und ist damit ein Paradebeispiel für den belgischen Life-Sciences-Sektor, der entscheidend zur wissensbasierten Exportwirtschaft des Landes beiträgt und zahlreiche Spin-offs hervorbringt.",
+      hu: "Beerse, egy település Antwerpen tartományban, a biofarmáciai kutatás és orvosi innováció vitathatatlan központjává vált Belgiumban. A város globális jelentőségét elsősorban a Janssen Pharmaceutica vállalatnak köszönheti, amelyet Dr. Paul Janssen alapított itt, és amely ma a Johnson & Johnson konszern rendkívül innovatív ágaként működik. A kiterjedt beerse-i kampuszon több ezer zseniális kutató és tudós dolgozik úttörő terápiák fejlesztésén az onkológia, a neurológia és a fertőző betegségek területén. A telephely zökkenőmentesen ötvözi a legkorszerűbb laboratóriumi létesítményeket a nagyszabású gyártóüzemekkel, ezáltal a belga élettudományi szektor mintapéldája, amely döntően hozzájárul az ország tudásalapú exportgazdaságához, és számos spin-off vállalatot is életre hív.",
+      ro: "Beerse, un oraș din provincia Anvers, s-a impus ca un hotspot incontestabil pentru cercetarea biofarmaceutică și inovația medicală în Belgia. Orașul își datorează importanța globală în primul rând Janssen Pharmaceutica, legendara companie fondată aici de Dr. Paul Janssen, care operează astăzi ca o ramură extrem de inovatoare a grupului Johnson & Johnson. Pe campusul extins din Beerse, mii de cercetători și oameni de știință străluciți lucrează la dezvoltarea de terapii revoluționare în domeniile oncologiei, neurologiei și bolilor infecțioase. Locația îmbină perfect facilitățile de laborator ultramoderne cu unități de producție la scară largă, devenind un prim exemplu al sectorului științelor vieții din Belgia, care contribuie decisiv la economia de export bazată pe cunoaștere a țării și generează numeroase companii spin-off.",
+      en: "Beerse, a municipality in the province of Antwerp, has established itself as an undisputed hotspot for biopharmaceutical research and medical innovation in Belgium. The town owes its global significance primarily to Janssen Pharmaceutica, the legendary company founded here by Dr. Paul Janssen, which today operates as a highly innovative branch of the Johnson & Johnson group. On the expansive campus in Beerse, thousands of brilliant researchers and scientists work on developing groundbreaking therapies in the fields of oncology, neurology, and infectious diseases. The site seamlessly integrates state-of-the-art laboratory facilities with large-scale production plants, making it a prime example of the Belgian life sciences sector, which contributes decisively to the country's knowledge-based export economy and spawns numerous spin-off companies."
+    },
+    factsAdvanced: {
+      de: ["Hauptsitz der weltberühmten Janssen Pharmaceutica | A világhírű Janssen Pharmaceutica székhelye | Sediul central al faimoasei Janssen Pharmaceutica | Headquarters of the world-famous Janssen Pharmaceutica", "Gegründet in den 1950er Jahren von Dr. Paul Janssen | Dr. Paul Janssen alapította az 1950-es években | Fondată în anii 1950 de Dr. Paul Janssen | Founded in the 1950s by Dr. Paul Janssen", "Gehört heute zum internationalen Johnson & Johnson Konzern | Ma a nemzetközi Johnson & Johnson konszern része | Astăzi aparține grupului internațional Johnson & Johnson | Today belongs to the international Johnson & Johnson group", "Fokus auf Forschung in Onkologie und Neurologie | Kutatási fókusz az onkológia és a neurológia területén | Cercetare axată pe oncologie și neurologie | Research focus on oncology and neurology", "Beschäftigt über 4.000 hochqualifizierte Mitarbeiter | Több mint 4000 magasan képzett munkatársat foglalkoztat | Angajează peste 4.000 de angajați înalt calificați | Employs over 4,000 highly qualified staff", "Kombiniert fortschrittliche R&D mit Großserienproduktion | Ötvözi a fejlett K+F-et a nagyüzemi gyártással | Combină R&D avansată cu producția pe scară largă | Combines advanced R&D with large-scale production"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp",
+},  {
     id: "belgium-wavre-biotech-hub-economic-v2",
     type: "factory",
-    name: { de: "Biotech-Zentrum Wavre", hu: "Wavre-i biotechnológiai központ", ro: "Centrul de biotehnologie din Wavre", en: "Wavre Biotech Hub" },
+    name: { de: "Biotech-Zentrum Wavre", hu: "Wavre-i biotechnológiai központ", ro: "Centrul de biotehnologie din Wavre", en: "Wavre Biotech Hub",
+image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"
+},
     coords: [4.588, 50.728],
     coordinates: { lat: 50.728, lng: 4.588 },
     description: {
@@ -326,11 +469,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cea mai mare locație de producție de vaccinuri din lume", "Aparține GlaxoSmithKline (GSK)", "Producție zilnică de milioane de doze de vaccin", "Principalul motor economic al Brabantului Valon"],
       en: ["World's largest vaccine manufacturing site", "Owned by GlaxoSmithKline (GSK)", "Produces millions of vaccine doses daily", "Key economic engine of Walloon Brabant"],
     },
-    imageHint: "Large-scale biotechnology industrial park in Wavre", image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"},
+    imageHint: "Large-scale biotechnology industrial park in Wavre",
+    image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"},
   {
     id: "belgium-haspengouw-fruit-region-economic-v2",
     type: "landmark",
-    name: { de: "Obstregion Haspengouw", hu: "Haspengouw gyümölcstermesztő vidék", ro: "Regiunea pomicolă Haspengouw", en: "Haspengouw Fruit Region" },
+    name: { de: "Obstregion Haspengouw", hu: "Haspengouw gyümölcstermesztő vidék", ro: "Regiunea pomicolă Haspengouw", en: "Haspengouw Fruit Region",
+image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"
+},
     coords: [5.185, 50.812],
     coordinates: { lat: 50.812, lng: 5.185 },
     description: {
@@ -345,11 +491,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["A doua cea mai mare regiune pomicolă din Europa", "Centrul producției de pere din Belgia", "Loc de desfășurare pentru licitații de fructe", "Zeci de mii de hectare de culturi"],
       en: ["Europe's second largest fruit region", "Center of Belgian pear production", "Home to major fruit auctions", "Tens of thousands of hectares of orchards"],
     },
-    imageHint: "Vast apple and pear orchards in bloom in Haspengouw", image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"},
+    imageHint: "Vast apple and pear orchards in bloom in Haspengouw",
+    image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"},
   {
     id: "belgium-roeselare-food-valley-economic-v2",
     type: "industry",
-    name: { de: "Food Valley Roeselare", hu: "Roeselarei Food Valley", ro: "Food Valley Roeselare", en: "Roeselare Food Valley" },
+    name: { de: "Food Valley Roeselare", hu: "Roeselarei Food Valley", ro: "Food Valley Roeselare", en: "Roeselare Food Valley",
+image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"
+},
     coords: [3.125, 50.945],
     coordinates: { lat: 50.945, lng: 3.125 },
     description: {
@@ -364,11 +513,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Centrul alimentelor congelate din Europa", "Sediul unor companii mari precum Ardo și REO", "Lanț logistic eficient pentru produse agricole", "Principalul factor economic din Flandra de Vest"],
       en: ["Center of the European frozen food industry", "Headquarters of companies like Ardo and REO", "Highly efficient agricultural logistics chain", "Major economic factor in West Flanders"],
     },
-    imageHint: "Large food processing plants and agricultural warehouses in Roeselare", image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"},
+    imageHint: "Large food processing plants and agricultural warehouses in Roeselare",
+    image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"},
   {
     id: "belgium-la-louviere-steel-economic-v2",
     type: "industry",
-    name: { de: "Stahlindustrie La Louvière", hu: "La Louvière-i acélipar", ro: "Industria siderurgică din La Louvière", en: "La Louvière Steel Industry" },
+    name: { de: "Stahlindustrie La Louvière", hu: "La Louvière-i acélipar", ro: "Industria siderurgică din La Louvière", en: "La Louvière Steel Industry",
+image: "/poi-images/belgium-la-louviere-steel-economic-v2.webp"
+},
     coords: [4.188, 50.485],
     coordinates: { lat: 50.485, lng: 4.188 },
     description: {
@@ -384,11 +536,25 @@ export const belgiumEconomicV2: POI[] = [
       en: ["Site of major steelworks (NLMK)", "Important hub on the Canal du Centre", "Long tradition in mining and metallurgy", "Key role in Walloon industry"],
     },
     imageHint: "Industrial district with steel mills in La Louvière",
+    descriptionAdvanced: {
+      de: "Die Region La Louvière bildet das industrielle Herz der historischen wallonischen Kohle- und Stahlachse, dem sogenannten Sillon Industriel. Obwohl die Ära der lokalen Steinkohleförderung längst vorbei ist, hat die metallverarbeitende Industrie hier erfolgreich überlebt und sich massiv transformiert. Im Zentrum dieser Entwicklung stehen die weitläufigen NLMK-Stahlwerke, die sich von traditioneller Massenproduktion hin zur Fertigung spezialisierter, hochfester Flachstähle und spezieller Coils für den globalen Markt gewandelt haben. Die exzellente infrastrukturelle Anbindung über den Canal du Centre und das dichte Autobahnnetz ermöglicht eine nahtlose logistische Anbindung an die Seehäfen Antwerpen und Gent. Heute steht die Stahlindustrie in La Louvière vor der nächsten großen Herausforderung: der Dekarbonisierung. Millioneninvestitionen fließen in effizientere Lichtbogenöfen und moderne Walztechnologien, um den Standort als grünen Pfeiler der europäischen Schwerindustrie zukunftssicher zu machen.",
+      hu: "La Louvière régiója a történelmi vallon szén- és acéltengely, az úgynevezett Sillon Industriel ipari szíve. Bár a helyi kőszénbányászat korszaka már régen véget ért, a fémfeldolgozó ipar itt sikeresen fennmaradt és masszív átalakuláson ment keresztül. Ennek a fejlődésnek a középpontjában a kiterjedt NLMK-acélművek állnak, amelyek a hagyományos tömegtermelésből a globális piacra szánt, speciális, nagy szilárdságú laposacélok és tekercsek (coils) gyártására tértek át. A Canal du Centre-en és a sűrű autópálya-hálózaton keresztül megvalósuló kiváló infrastrukturális összeköttetés zökkenőmentes logisztikai kapcsolatot tesz lehetővé Antwerpen és Gent tengeri kikötőivel. Ma a La Louvière-i acélipar a következő nagy kihívás, a dekarbonizáció előtt áll. Több millió eurós beruházások irányulnak hatékonyabb ívkemencékbe és modern hengerlési technológiákba, hogy a telephelyet az európai nehézipar zöld, jövőbiztos pillérévé tegyék.",
+      ro: "Regiunea La Louvière formează inima industrială a axei istorice valone de cărbune și oțel, așa-numitul Sillon Industriel. Deși era exploatării locale a cărbunelui s-a încheiat de mult, industria de prelucrare a metalelor a supraviețuit cu succes aici și s-a transformat masiv. În centrul acestei dezvoltări se află oțelăriile extinse NLMK, care au trecut de la producția de masă tradițională la fabricarea de oțeluri plate specializate, de înaltă rezistență, și rulouri speciale (coils) pentru piața globală. Conexiunea infrastructurală excelentă prin Canal du Centre și rețeaua densă de autostrăzi permit o legătură logistică perfectă cu porturile maritime Anvers și Gent. Astăzi, industria siderurgică din La Louvière se confruntă cu următoarea mare provocare: decarbonizarea. Se investesc milioane în cuptoare cu arc electric mai eficiente și tehnologii moderne de laminare pentru a asigura viitorul locației ca pilon verde al industriei grele europene.",
+      en: "The La Louvière region forms the industrial heart of the historic Walloon coal and steel axis, known as the Sillon Industriel. Although the era of local coal mining is long gone, the metal processing industry has successfully survived here and undergone massive transformation. At the center of this development are the expansive NLMK steelworks, which have shifted from traditional mass production towards manufacturing specialized, high-strength flat steels and specialized coils for the global market. The excellent infrastructural connectivity via the Canal du Centre and the dense highway network enables seamless logistical links to the seaports of Antwerp and Ghent. Today, the steel industry in La Louvière faces its next major challenge: decarbonization. Millions are being invested in more efficient electric arc furnaces and modern rolling technologies to future-proof the site as a green pillar of European heavy industry."
+    },
+    factsAdvanced: {
+      de: ["Kernstandort der historischen wallonischen Industrieachse | A történelmi vallon ipari tengely központi helyszíne | Locația centrală a axei industriale istorice valone | Core location of the historic Walloon industrial axis", "Heimat hochmoderner NLMK-Stahlwalzwerke | A legkorszerűbb NLMK-acélhengerművek otthona | Sediul laminoarelor de oțel ultramoderne NLMK | Home to state-of-the-art NLMK steel rolling mills", "Fokus auf die Produktion hochfester Spezialstähle | Fókuszban a nagy szilárdságú speciális acélok gyártása | Focus pe producția de oțeluri speciale de înaltă rezistență | Focus on the production of high-strength specialty steels", "Hervorragende Anbindung an den Canal du Centre | Kiváló összeköttetés a Canal du Centre csatornával | Conexiune excelentă la Canal du Centre | Excellent connection to the Canal du Centre", "Übergang zur dekarbonisierten Stahlerzeugung im Gange | Folyamatban van az átállás a dekarbonizált acélgyártásra | Tranziția către producția de oțel decarbonizată în curs | Transition to decarbonized steel production underway", "Wichtiger Anker für die Beschäftigung in der Region Centre | Fontos foglalkoztatási horgony a Centre régióban | Ancoră importantă pentru ocuparea forței de muncă în regiunea Centre | Crucial anchor for employment in the Centre region"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "belgium-beringen-coal-mine-site-economic-v2",
     type: "mine",
-    name: { de: "Kohleminen-Gelände Beringen", hu: "Beringeni kőszénbánya-terület", ro: "Situl minei de cărbune Beringen", en: "Beringein Coal Mine Site" },
+    name: { de: "Kohleminen-Gelände Beringen", hu: "Beringeni kőszénbánya-terület", ro: "Situl minei de cărbune Beringen", en: "Beringein Coal Mine Site",
+image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"
+},
     coords: [5.228, 51.068],
     coordinates: { lat: 51.068, lng: 5.228 },
     description: {
@@ -403,11 +569,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cel mai mare sit de patrimoniu industrial din Flandra", "Centrul extracției de cărbune din Limburg", "Astăzi cunoscut sub numele de 'be-MINE'", "Modelul economiei regionale actuale"],
       en: ["Largest industrial heritage site in Flanders", "Center of Limburg coal extraction", "Now known as 'be-MINE'", "Still shapes the regional economy today"],
     },
-    imageHint: "Old coal mine headgear and redeveloped industrial site in Beringen", image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"},
+    imageHint: "Old coal mine headgear and redeveloped industrial site in Beringen",
+    image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"},
   {
     id: "belgium-maasmechelen-retail-zone-economic-v2",
     type: "landmark",
-    name: { de: "Einkaufszone Maasmechelen", hu: "Maasmecheleni bevásárlóövezet", ro: "Zona comercială Maasmechelen", en: "Maasmechelen Retail Zone" },
+    name: { de: "Einkaufszone Maasmechelen", hu: "Maasmecheleni bevásárlóövezet", ro: "Zona comercială Maasmechelen", en: "Maasmechelen Retail Zone",
+image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"
+},
     coords: [5.618, 51.002],
     coordinates: { lat: 51.002, lng: 5.618 },
     description: {
@@ -422,11 +591,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Unul dintre cele mai de succes outlet-uri din Europa", "Angajator important în estul Flandrei", "Situat la poarta Parcului Național Hoge Kempen", "Focus pe mărci de lux și designer"],
       en: ["One of Europe's most successful outlets", "Important employer in eastern Flanders", "Located at the gateway to Hoge Kempen National Park", "Focuses on luxury and designer brands"],
     },
-    imageHint: "Luxury outlet shopping village with pedestrian streets in Maasmechelen", image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"},
+    imageHint: "Luxury outlet shopping village with pedestrian streets in Maasmechelen",
+    image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"},
   {
     id: "belgium-port-ostend-offshore-economic-v2",
     type: "port",
-    name: { de: "Hafen von Ostende (Offshore-Hub)", hu: "Ostendei kikötő (Offshore központ)", ro: "Portul Ostende (Hub offshore)", en: "Port of Ostend (Offshore Hub)" },
+    name: { de: "Hafen von Ostende (Offshore-Hub)", hu: "Ostendei kikötő (Offshore központ)", ro: "Portul Ostende (Hub offshore)", en: "Port of Ostend (Offshore Hub)",
+image: "/poi-images/belgium-port-ostend-offshore-economic-v2.webp"
+},
     coords: [2.942, 51.232],
     coordinates: { lat: 51.232, lng: 2.942 },
     description: {
@@ -442,11 +614,25 @@ export const belgiumEconomicV2: POI[] = [
       en: ["Hub of the Belgian Blue Economy", "Maintenance base for North Sea wind farms", "Specializes in renewable energy", "Important regional seaport"],
     },
     imageHint: "Offshore wind turbine components at the Port of Ostend",
+    descriptionAdvanced: {
+      de: "Der Hafen von Ostende hat in den letzten zwanzig Jahren eine bemerkenswerte wirtschaftliche Metamorphose vollzogen und sich vom traditionellen Fähr- und Fischereihafen zum unangefochtenen europäischen Hub für Offshore-Windenergie entwickelt. Diese strategische Neuausrichtung hat den Hafen ins Zentrum der belgischen \"Blue Economy\" katapultiert. Ostende dient heute als unverzichtbare Basis für die Konstruktion, Installation und laufende Wartung zahlreicher gigantischer Windparks in der Nordsee. Hochspezialisierte Schiffe, riesige Installationskräne und hochqualifizierte Ingenieursteams prägen das Hafenbild. Durch die Ansiedlung führender Unternehmen aus dem Bereich der erneuerbaren Energien und die Schaffung spezieller Offshore-Trainingszentren hat der Hafen nicht nur hunderte zukunftssichere Arbeitsplätze geschaffen, sondern positioniert Belgien auch als Vorreiter bei der ehrgeizigen europäischen Energiewende.",
+      hu: "Az ostendei kikötő az elmúlt húsz évben figyelemre méltó gazdasági metamorfózison ment keresztül, és hagyományos komp- és halászkikötőből az offshore szélenergia vitathatatlan európai központjává fejlődött. Ez a stratégiai újrapozicionálás a belga \"kék gazdaság\" (Blue Economy) középpontjába katapultálta a kikötőt. Ostende ma számos gigantikus északi-tengeri szélerőműpark építésének, telepítésének és folyamatos karbantartásának nélkülözhetetlen bázisaként szolgál. A kikötő képét magasan specializált hajók, hatalmas szerelődaruk és magasan képzett mérnökcsapatok határozzák meg. A megújuló energiaágazat vezető vállalatainak betelepülésével és speciális offshore képzési központok létrehozásával a kikötő nemcsak több száz jövőbiztos munkahelyet teremtett, hanem Belgiumot az ambiciózus európai energiaátmenet úttörőjévé is tette.",
+      ro: "Portul Ostende a suferit o metamorfoză economică remarcabilă în ultimii douăzeci de ani, evoluând dintr-un port tradițional de feriboturi și pescuit în hub-ul european de necontestat pentru energia eoliană offshore. Această reorientare strategică a catapultat portul în centrul „economiei albastre” belgiene. Astăzi, Ostende servește ca o bază indispensabilă pentru construcția, instalarea și întreținerea continuă a numeroase parcuri eoliene gigantice din Marea Nordului. Nave extrem de specializate, macarale de instalare uriașe și echipe de ingineri înalt calificate domină peisajul portuar. Prin atragerea companiilor de top din sectorul energiei regenerabile și crearea de centre de formare offshore specializate, portul nu a creat doar sute de locuri de muncă sigure pentru viitor, ci a poziționat și Belgia ca un pionier în ambițioasa tranziție energetică europeană.",
+      en: "Over the past twenty years, the Port of Ostend has undergone a remarkable economic metamorphosis, evolving from a traditional ferry and fishing port into the undisputed European hub for offshore wind energy. This strategic realignment has catapulted the port into the center of the Belgian \"Blue Economy.\" Today, Ostend serves as an indispensable base for the construction, installation, and ongoing maintenance of numerous gigantic wind farms in the North Sea. Highly specialized vessels, massive installation cranes, and highly skilled engineering teams dominate the port's landscape. By attracting leading companies from the renewable energy sector and establishing specialized offshore training centers, the port has not only created hundreds of future-proof jobs but also positioned Belgium as a pioneer in the ambitious European energy transition."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der belgischen Offshore-Windenergieindustrie | A belga offshore szélenergia-ipar központja | Centrul industriei eoliene offshore din Belgia | Hub of the Belgian offshore wind energy industry", "Basis für die Wartung von Nordsee-Windparks | Az északi-tengeri szélerőműparkok karbantartásának bázisa | Baza pentru întreținerea parcurilor eoliene din Marea Nordului | Base for the maintenance of North Sea wind farms", "Bedeutende Investitionen in die 'Blue Economy' | Jelentős beruházások a 'kék gazdaságba' | Investiții semnificative în 'economia albastră' | Significant investments in the 'Blue Economy'", "Spezialisierte Infrastruktur für Schwerlast- und Projektladung | Speciális infrastruktúra nehéz- és projektrakományok számára | Infrastructură specializată pentru mărfuri grele și de proiect | Specialized infrastructure for heavy lift and project cargo", "Schaffung hunderter hochqualifizierter 'grüner' Arbeitsplätze | Több száz magasan képzett 'zöld' munkahely teremtése | Crearea a sute de locuri de muncă 'verzi' înalt calificate | Creation of hundreds of highly skilled 'green' jobs", "Standort spezieller maritim-technischer Ausbildungszentren | Speciális tengerészeti-műszaki képzési központok helyszíne | Locația centrelor speciale de formare tehnico-maritimă | Site of specialized maritime-technical training centers"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "belgium-leopold-quarter-economic-v2",
     type: "landmark",
-    name: { de: "Leopoldviertel (EU-Viertel)", hu: "Lipót-negyed (EU-negyed)", ro: "Cartierul Leopold (Cartierul UE)", en: "Leopold Quarter (EU Quarter)" },
+    name: { de: "Leopoldviertel (EU-Viertel)", hu: "Lipót-negyed (EU-negyed)", ro: "Cartierul Leopold (Cartierul UE)", en: "Leopold Quarter (EU Quarter)",
+image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"
+},
     coords: [4.375, 50.842],
     coordinates: { lat: 50.842, lng: 4.375 },
     description: {
@@ -461,11 +647,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Sediul celor mai importante instituții UE", "Factor economic enorm pentru Bruxelles", "Locația clădirii Berlaymont", "Centrul diplomației internaționale"],
       en: ["Seat of major EU institutions", "Huge economic driver for Brussels", "Location of the Berlaymont building", "Center of international diplomacy"],
     },
-    imageHint: "European Parliament and Commission buildings in the Leopold Quarter", image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"},
+    imageHint: "European Parliament and Commission buildings in the Leopold Quarter",
+    image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"},
   {
     id: "belgium-genk-logistics-hub-economic-v2",
     type: "industry",
-    name: { de: "Logistikzentrum Genk", hu: "Genki logisztikai központ", ro: "Centrul logistic Genk", en: "Genk Logistics Hub" },
+    name: { de: "Logistikzentrum Genk", hu: "Genki logisztikai központ", ro: "Centrul logistic Genk", en: "Genk Logistics Hub",
+image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"
+},
     coords: [5.502, 50.962],
     coordinates: { lat: 50.962, lng: 5.502 },
     description: {
@@ -480,11 +669,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Reutilizarea fostei zone Ford", "Conexiune directă la Canalul Albert", "Nod important pentru logistica auto", "Centru pentru inovație și economie circulară"],
       en: ["Repurposing of the former Ford site", "Direct connection to the Albert Canal", "Major hub for automotive logistics", "Center for innovation and circular economy"],
     },
-    imageHint: "Large modern logistics warehouses and shipping canal in Genk", image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"},
+    imageHint: "Large modern logistics warehouses and shipping canal in Genk",
+    image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"},
   {
     id: "belgium-vilvoorde-media-cluster-economic-v2",
     type: "industry",
-    name: { de: "Mediencluster Vilvoorde", hu: "Vilvoordei médiaklaszter", ro: "Clusterul media din Vilvoorde", en: "Vilvoorde Media Cluster" },
+    name: { de: "Mediencluster Vilvoorde", hu: "Vilvoordei médiaklaszter", ro: "Clusterul media din Vilvoorde", en: "Vilvoorde Media Cluster",
+image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"
+},
     coords: [4.425, 50.928],
     coordinates: { lat: 50.928, lng: 4.425 },
     description: {
@@ -499,11 +691,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Sediul unor posturi precum VTM", "Numeroase studiouri de înregistrare locale", "Cea mai importantă locație media din periferia Bruxelles-ului", "Zonă de transformare din industrie în servicii"],
       en: ["Headquarters of broadcasters like VTM", "Numerous recording studios on site", "Key media location in the Brussels periphery", "Transformed from industrial to service sector"],
     },
-    imageHint: "Modern office buildings and studios of television broadcasters in Vilvoorde", image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"},
+    imageHint: "Modern office buildings and studios of television broadcasters in Vilvoorde",
+    image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"},
   {
     id: "belgium-nivelles-business-park-economic-v2",
     type: "landmark",
-    name: { de: "Gewerbepark Nivelles", hu: "Nivelles-i üzleti park", ro: "Parcul de afaceri Nivelles", en: "Nivelles Business Park" },
+    name: { de: "Gewerbepark Nivelles", hu: "Nivelles-i üzleti park", ro: "Parcul de afaceri Nivelles", en: "Nivelles Business Park",
+image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp"
+},
     coords: [4.325, 50.598],
     coordinates: { lat: 50.598, lng: 4.325 },
     description: {
@@ -518,11 +713,26 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Centru pentru distribuția farmaceutică", "Peste 200 de companii rezidente", "Situat strategic pe autostrada E19", "Cel mai important nod economic la sud de Bruxelles"],
       en: ["Center for pharmaceutical distribution", "Home to more than 200 companies", "Strategically located on the E19 highway", "Major economic hub south of Brussels"],
     },
-    imageHint: "Modern office park and logistics warehouses in Nivelles", image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp"},
-  {
+imageHint: "Modern office park and logistics warehouses in Nivelles",
+    descriptionAdvanced: {
+      de: "Der Business Park Nivelles (Parc de l'Europe) südlich von Brüssel hat sich zu einem der dynamischsten und begehrtesten Gewerbegebiete in Wallonien entwickelt. Begünstigt durch die unmittelbare Anbindung an die strategisch wichtige Autobahn E19 (Brüssel-Paris), hat der Park eine beeindruckende Bandbreite an Unternehmen angezogen. Von hochspezialisierter Pharmalogistik über fortschrittliche Leichtindustrie und IT-Dienstleister bis hin zu innovativen Start-ups bietet das Areal eine exzellente Infrastruktur. Mehr als 200 Unternehmen mit über 6.000 Mitarbeitern haben sich hier angesiedelt, was Nivelles zum unangefochtenen Wirtschaftsmotor der Region Wallonisch-Brabant macht. Die fortlaufende Expansion des Parks setzt auf nachhaltige Architektur und die Förderung umweltfreundlicher Technologien, wodurch Nivelles als Vorbild für moderne, zukunftsorientierte Wirtschaftszonen in ganz Belgien gilt.",
+      hu: "A Brüsszeltől délre fekvő Nivelles Business Park (Parc de l'Europe) Vallónia egyik legdinamikusabb és legkeresettebb ipari parkjává fejlődött. A stratégiai fontosságú E19-es (Brüsszel-Párizs) autópálya közvetlen közelségének köszönhetően a park a vállalatok lenyűgöző széles skáláját vonzotta be. A magasan specializált gyógyszerlogisztikától a fejlett könnyűiparon és IT-szolgáltatókon át az innovatív start-upokig a terület kiváló infrastruktúrát kínál. Több mint 200 vállalat, több mint 6000 alkalmazottal telepedett le itt, ami Nivelles-t Vallon-Brabant régió vitathatatlan gazdasági motorjává teszi. A park folyamatos bővítése a fenntartható építészetre és a környezetbarát technológiák előmozdítására támaszkodik, ami révén Nivelles a modern, jövőorientált gazdasági övezetek példaképének számít egész Belgiumban.",
+      ro: "Parcul de Afaceri Nivelles (Parc de l'Europe) la sud de Bruxelles s-a dezvoltat într-una dintre cele mai dinamice și căutate zone comerciale din Valonia. Beneficiind de conexiunea imediată la autostrada strategică E19 (Bruxelles-Paris), parcul a atras o gamă impresionantă de companii. De la logistică farmaceutică extrem de specializată la industria ușoară avansată, furnizori de servicii IT și start-up-uri inovatoare, zona oferă o infrastructură excelentă. Peste 200 de companii cu peste 6.000 de angajați s-au stabilit aici, făcând din Nivelles motorul economic incontestabil al regiunii Brabantul Valon. Expansiunea continuă a parcului se bazează pe arhitectura durabilă și promovarea tehnologiilor ecologice, făcând din Nivelles un model pentru zonele economice moderne, orientate spre viitor din întreaga Belgie.",
+      en: "The Nivelles Business Park (Parc de l'Europe) south of Brussels has developed into one of the most dynamic and sought-after commercial zones in Wallonia. Benefiting from immediate access to the strategically vital E19 highway (Brussels-Paris), the park has attracted an impressive array of companies. From highly specialized pharmaceutical logistics and advanced light industry to IT service providers and innovative start-ups, the area offers excellent infrastructure. Over 200 companies employing more than 6,000 people have established themselves here, making Nivelles the undisputed economic engine of the Walloon Brabant region. The continuous expansion of the park focuses on sustainable architecture and the promotion of eco-friendly technologies, establishing Nivelles as a model for modern, future-oriented economic zones throughout Belgium."
+    },
+    factsAdvanced: {
+      de: ["Strategische Lage an der E19-Achse Brüssel-Paris | Stratégiai elhelyezkedés a Brüsszel-Párizs E19-es tengelyen | Locație strategică pe axa E19 Bruxelles-Paris | Strategic location on the E19 Brussels-Paris axis", "Beherbergt mehr als 200 florierende Unternehmen | Több mint 200 virágzó vállalatnak ad otthont | Găzduiește peste 200 de companii înfloritoare | Houses more than 200 thriving companies", "Schafft Arbeitsplätze für über 6.000 Menschen | Több mint 6000 ember számára teremt munkahelyet | Creează locuri de muncă pentru peste 6.000 de persoane | Creates jobs for over 6,000 people", "Wichtiger Hub für Pharmalogistik und IT-Dienstleister | A gyógyszerlogisztika és az IT-szolgáltatók fontos csomópontja | Hub important pentru logistica farmaceutică și furnizorii IT | Key hub for pharma logistics and IT service providers", "Zentraler Wirtschaftsmotor der Provinz Wallonisch-Brabant | Vallon-Brabant tartomány központi gazdasági motorja | Motorul economic central al provinciei Brabantul Valon | Central economic engine of the Walloon Brabant province", "Aktive Förderung umweltfreundlicher und nachhaltiger Gewerbe | A környezetbarát és fenntartható iparágak aktív támogatása | Promovarea activă a industriilor ecologice și durabile | Active promotion of eco-friendly and sustainable industries"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp",
+},  {
     id: "belgium-north-sea-port-ghent-economic-v2",
     type: "port",
-    name: { de: "North Sea Port Gent", hu: "North Sea Port Gent", ro: "North Sea Port Gent", en: "North Sea Port Ghent" },
+    name: { de: "North Sea Port Gent", hu: "North Sea Port Gent", ro: "North Sea Port Gent", en: "North Sea Port Ghent",
+image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"
+},
     coords: [3.752, 51.152],
     coordinates: { lat: 51.152, lng: 3.752 },
     description: {
@@ -537,11 +747,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Locația asamblării Volvo Cars", "Port verde cu focus pe biomasă", "Port de mare adâncime prin canalul Gent-Terneuzen", "Punct major de transbordare a cerealelor"],
       en: ["Site of Volvo Cars assembly", "Green port focusing on biomass", "Deep-sea port via the Ghent-Terneuzen Canal", "Major hub for grain shipments"],
     },
-    imageHint: "Automobile assembly plant and grain silos at the Port of Ghent", image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"},
+    imageHint: "Automobile assembly plant and grain silos at the Port of Ghent",
+    image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"},
   {
     id: "belgium-tour-taxis-brussels-economic-v2",
     type: "landmark",
-    name: { de: "Tour & Taxis Brüssel", hu: "Tour & Taxis, Brüsszel", ro: "Tour & Taxis Bruxelles", en: "Tour & Taxis Brussels" },
+    name: { de: "Tour & Taxis Brüssel", hu: "Tour & Taxis, Brüsszel", ro: "Tour & Taxis Bruxelles", en: "Tour & Taxis Brussels",
+image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"
+},
     coords: [4.348, 50.865],
     coordinates: { lat: 50.865, lng: 4.348 },
     description: {
@@ -556,11 +769,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Depozit istoric vamal și logistic", "Astăzi sediul unor autorități și start-up-uri", "Cea mai mare clădire de birouri pasivă din lume (Gare Maritime)", "Centru pentru târguri și inovație"],
       en: ["Historic customs and logistics warehouse", "Now home to government agencies and startups", "World's largest passive office building (Gare Maritime)", "Center for trade fairs and innovation"],
     },
-    imageHint: "Renovated historic brick warehouse building Gare Maritime in Brussels", image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"},
+    imageHint: "Renovated historic brick warehouse building Gare Maritime in Brussels",
+    image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"},
   {
     id: "belgium-puurs-pfizer-factory-economic-v2",
     type: "factory",
-    name: { de: "Pfizer-Werk Puurs", hu: "Pfizer-gyár Puurs", ro: "Fabrica Pfizer Puurs", en: "Pfizer Plant Puurs" },
+    name: { de: "Pfizer-Werk Puurs", hu: "Pfizer-gyár Puurs", ro: "Fabrica Pfizer Puurs", en: "Pfizer Plant Puurs",
+image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"
+},
     coords: [4.282, 51.072],
     coordinates: { lat: 51.072, lng: 4.282 },
     description: {
@@ -575,11 +791,14 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Hub global pentru vaccinuri", "Linii de producție sterile avansate", "Unul dintre cei mai mari angajatori din regiune", "Centrul economiei de export a Belgiei"],
       en: ["Global hub for vaccines", "Advanced sterile production lines", "One of the region's largest employers", "Center of the Belgian export economy"],
     },
-    imageHint: "Pfizer pharmaceutical manufacturing facility with glass facade in Puurs", image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"},
+    imageHint: "Pfizer pharmaceutical manufacturing facility with glass facade in Puurs",
+    image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"},
   {
     id: "belgium-la-louviere-canal-lift-economic-v2",
     type: "landmark",
-    name: { de: "Schiffshebewerk Strépy-Thieu", hu: "Strépy-Thieu hajólift", ro: "Ascensorul pentru nave Strépy-Thieu", en: "Strépy-Thieu Boat Lift" },
+    name: { de: "Schiffshebewerk Strépy-Thieu", hu: "Strépy-Thieu hajólift", ro: "Ascensorul pentru nave Strépy-Thieu", en: "Strépy-Thieu Boat Lift",
+image: "/poi-images/belgium-la-louviere-canal-lift-economic-v2.webp"
+},
     coords: [4.108, 50.478],
     coordinates: { lat: 50.478, lng: 4.108 },
     description: {
@@ -595,5 +814,17 @@ export const belgiumEconomicV2: POI[] = [
       en: ["Overcomes a height difference of 73 meters", "Key infrastructure hub for freight traffic", "Replaced several old locks", "Masterpiece of engineering"],
     },
     imageHint: "Massive concrete structure of the Strépy-Thieu boat lift",
+    descriptionAdvanced: {
+      de: "Das Schiffshebewerk Strépy-Thieu, eine wahre Kathedrale der modernen Ingenieurskunst, dominiert die Landschaft nahe La Louvière. Dieses gigantische infrastrukturelle Meisterwerk wurde 2002 eingeweiht und ist ein essenzielles Glied im belgischen Wasserstraßennetz, da es den Canal du Centre schiffbar macht und eine direkte Verbindung zwischen den Flusssystemen von Maas und Schelde schafft. Mit einer beeindruckenden Förderhöhe von über 73 Metern überwand es eine zuvor massive natürliche Barriere und ersetzte mehrere veraltete Schleusen sowie vier historische hydraulische Hebewerke, die heute zum UNESCO-Welterbe zählen. Durch die Inbetriebnahme von Strépy-Thieu wurde die Durchfahrt für moderne Binnenschiffe bis zu 1.350 Tonnen ermöglicht, was die Frachtkapazität drastisch erhöhte und die Transportzeiten massiv verkürzte. Das Hebewerk ist somit ein entscheidender Treiber für die umweltfreundliche Binnenschifffahrt und ein Monument der wirtschaftlichen Modernisierung Walloniens.",
+      hu: "A Strépy-Thieu hajólift, a modern mérnöki tudomány igazi katedrálisa, uralja a La Louvière környéki tájat. Ezt a gigantikus infrastrukturális mesterművet 2002-ben adták át, és a belga víziúthálózat alapvető láncszeme, mivel hajózhatóvá teszi a Canal du Centre-t, és közvetlen kapcsolatot teremt a Meuse és a Schelde folyórendszerei között. Lenyűgöző, több mint 73 méteres emelési magasságával egy korábban áthatolhatatlan természeti akadályt küzdött le, és több elavult zsilipet, valamint négy történelmi hidraulikus emelőt váltott fel, amelyek ma az UNESCO Világörökség részét képezik. A Strépy-Thieu üzembe helyezésével lehetővé vált az akár 1350 tonnás modern belvízi hajók áthaladása, ami drasztikusan megnövelte a rakománykapacitást és jelentősen lerövidítette a szállítási időt. A hajólift így a környezetbarát belvízi hajózás döntő hajtóereje és Vallónia gazdasági modernizációjának emlékműve.",
+      ro: "Ascensorul pentru nave Strépy-Thieu, o adevărată catedrală a ingineriei moderne, domină peisajul din apropierea orașului La Louvière. Această capodoperă infrastructurală gigantică a fost inaugurată în 2002 și este o verigă esențială în rețeaua belgiană de căi navigabile, deoarece face navigabil Canal du Centre și creează o conexiune directă între sistemele fluviale Meuse și Scheldt. Cu o înălțime de ridicare impresionantă de peste 73 de metri, a depășit o barieră naturală masivă anterioară și a înlocuit mai multe ecluze învechite, precum și patru ascensoare hidraulice istorice, care fac astăzi parte din Patrimoniul Mondial UNESCO. Prin punerea în funcțiune a Strépy-Thieu, a fost permisă trecerea navelor de navigație interioară moderne de până la 1.350 de tone, ceea ce a crescut drastic capacitatea de marfă și a redus masiv timpii de transport. Ascensorul este astfel un motor decisiv pentru navigația interioară ecologică și un monument al modernizării economice a Valoniei.",
+      en: "The Strépy-Thieu boat lift, a true cathedral of modern engineering, dominates the landscape near La Louvière. This gigantic infrastructural masterpiece was inaugurated in 2002 and is an essential link in the Belgian waterway network, making the Canal du Centre navigable and establishing a direct connection between the Meuse and Scheldt river systems. With an impressive lifting height of over 73 meters, it overcame a previously massive natural barrier and replaced several outdated locks, as well as four historic hydraulic lifts that are now part of the UNESCO World Heritage. The commissioning of Strépy-Thieu allowed the passage of modern inland vessels up to 1,350 tonnes, drastically increasing freight capacity and massively reducing transport times. The boat lift is thus a crucial driver for environmentally friendly inland navigation and a monument to the economic modernization of Wallonia."
+    },
+    factsAdvanced: {
+      de: ["Überwindet einen beeindruckenden Höhenunterschied von 73,15 Metern | Lenyűgöző, 73,15 méteres szintkülönbséget hidal át | Depășește o diferență de nivel impresionantă de 73,15 metri | Overcomes an impressive height difference of 73.15 meters", "War bis 2016 das höchste Schiffshebewerk der Welt | 2016-ig a világ legmagasabb hajóliftje volt | A fost cel mai înalt ascensor pentru nave din lume până în 2016 | Was the highest boat lift in the world until 2016", "Verbindet das Flusssystem der Maas mit dem der Schelde | Összeköti a Meuse folyórendszerét a Scheldével | Conectează sistemul fluvial Meuse cu cel al Scheldt | Connects the Meuse river system with that of the Scheldt", "Erlaubt die Durchfahrt von Frachtschiffen bis 1.350 Tonnen | Lehetővé teszi az akár 1350 tonnás teherhajók áthaladását | Permite trecerea navelor de marfă de până la 1.350 de tone | Allows the passage of cargo ships up to 1,350 tonnes", "Ersatz für vier historische hydraulische Hebewerke | Négy történelmi hidraulikus emelőmű cseréje | Înlocuire pentru patru ascensoare hidraulice istorice | Replacement for four historic hydraulic lifts", "Meisterwerk zur Förderung des nachhaltigen Gütertransports auf dem Wasser | Mestermű a fenntartható vízi áruszállítás előmozdítására | Capodoperă pentru promovarea transportului durabil de mărfuri pe apă | Masterpiece promoting sustainable freight transport on water"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

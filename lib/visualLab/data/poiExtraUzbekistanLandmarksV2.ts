@@ -6,7 +6,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-TK",
     coords: [69.2844, 41.3456],
-    name: { de: "Fernsehturm Taschkent", hu: "Taskenti tévétorony", ro: "Turnul de televiziune din Tașkent", en: "Tashkent TV Tower" },
+    name: { de: "Fernsehturm Taschkent", hu: "Taskenti tévétorony", ro: "Turnul de televiziune din Tașkent", en: "Tashkent TV Tower",
+image: "/poi-images/tashkent-tv-tower-landmarks-v2.webp"
+},
     description: { de: "Mit 375 Metern Höhe ist er das höchste Bauwerk in Usbekistan und bietet eine spektakuläre Aussicht.", hu: "A 375 méter magas tévétorony Üzbegisztán legmagasabb építménye, ahonnan fantasztikus kilátás nyílik.", ro: "Cu o înălțime de 375 de metri, este cea mai înaltă structură din Uzbekistan, oferind o priveliște uimitoare.", en: "At 375 meters high, it is the tallest structure in Uzbekistan and offers a spectacular view." },
     facts: {
       de: ["Eröffnet im Jahr 1985.", "Hat ein Drehrestaurant.", "Ist der höchste Fernsehturm Zentralasiens."],
@@ -19,7 +21,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "UZ-TK",
     coords: [69.2372, 41.3268],
-    name: { de: "Tschorsu-Basar", hu: "Csorszu bazár", ro: "Bazarul Chorsu", en: "Chorsu Bazaar" },
+    name: { de: "Tschorsu-Basar", hu: "Csorszu bazár", ro: "Bazarul Chorsu", en: "Chorsu Bazaar",
+image: "/poi-images/chorsu-bazaar-landmarks-v2.webp"
+},
     description: { de: "Dieser traditionelle Basar in der Altstadt von Taschkent wird von einer markanten blauen Kuppel überdacht.", hu: "Taskent óvárosának hagyományos piaca, amelyet egy jellegzetes hatalmas kék kupola fed.", ro: "Acest bazar tradițional din orașul vechi Tașkent este acoperit de un dom albastru impresionant.", en: "This traditional bazaar in the old town of Tashkent is covered by a striking blue dome." },
     facts: {
       de: ["Befindet sich im historischen Zentrum.", "Bekannt für frische Gewürze und lokales Handwerk.", "Das Gebäude stammt aus der Sowjetzeit."],
@@ -32,7 +36,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-TK",
     coords: [69.2806, 41.3111],
-    name: { de: "Amir-Timur-Museum", hu: "Amir Timur Múzeum", ro: "Muzeul Amir Timur", en: "Amir Timur Museum" },
+    name: { de: "Amir-Timur-Museum", hu: "Amir Timur Múzeum", ro: "Muzeul Amir Timur", en: "Amir Timur Museum",
+image: "/poi-images/amir-timur-museum-landmarks-v2.webp"
+},
     description: { de: "Das Museum widmet sich dem Leben und Erbe des mongolischen Eroberers Timur und zeichnet sich durch seine blaue Kuppel aus.", hu: "A múzeum Timur mongol hódító életét és örökségét mutatja be, az épület egy lenyűgöző kék kupolával rendelkezik.", ro: "Muzeul este dedicat vieții și moștenirii cuceritorului Timur, remarcându-se prin cupola sa albastră.", en: "The museum is dedicated to the life and legacy of the conqueror Timur, standing out with its blue dome." },
     facts: {
       de: ["Wurde 1996 eröffnet.", "Beherbergt über 5.000 Exponate.", "Erinnert an das 660. Jubiläum von Timurs Geburt."],
@@ -45,7 +51,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-TK",
     coords: [69.2662, 41.3323],
-    name: { de: "Minor-Moschee", hu: "Minor mecset", ro: "Moscheea Minor", en: "Minor Mosque" },
+    name: { de: "Minor-Moschee", hu: "Minor mecset", ro: "Moscheea Minor", en: "Minor Mosque",
+image: "/poi-images/minor-mosque-landmarks-v2.webp"
+},
     description: { de: "Eine relativ neue, komplett aus weißem Marmor erbaute Moschee, die an den Ufern des Kanals in Taschkent liegt.", hu: "Viszonylag új, teljesen fehér márványból épült mecset, amely Taskent egyik csatornájának partján fekszik.", ro: "O moschee relativ nouă, construită complet din marmură albă, situată pe malul canalului din Tașkent.", en: "A relatively new mosque built entirely of white marble, located on the banks of a canal in Tashkent." },
     facts: {
       de: ["Eröffnung im Jahr 2014.", "Bietet Platz für mehr als 2.400 Gläubige.", "Oft als \"Weiße Moschee\" bezeichnet."],
@@ -58,7 +66,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-TK",
     coords: [69.2717, 41.3094],
-    name: { de: "Navoi-Theater", hu: "Navoi Színház", ro: "Teatrul Navoi", en: "Navoi Theater" },
+    name: { de: "Navoi-Theater", hu: "Navoi Színház", ro: "Teatrul Navoi", en: "Navoi Theater",
+image: "/poi-images/navoi-theater-landmarks-v2.webp"
+},
     description: { de: "Das nationale Opern- und Ballett-Theater ist nach dem Dichter Alischer Navoi benannt und beeindruckt mit klassischer Architektur.", hu: "A nemzeti opera és balettszínház Alisir Navoi költőről kapta a nevét, és lenyűgöző klasszikus építészettel büszkélkedhet.", ro: "Teatrul național de operă și balet poartă numele poetului Alisher Navoi și impresionează prin arhitectura clasică.", en: "The national opera and ballet theater is named after the poet Alisher Navoi and boasts impressive classical architecture." },
     facts: {
       de: ["Entworfen von Alexey Shchusev.", "Japanische Kriegsgefangene halfen beim Bau.", "Der Platz davor hat einen springenden Brunnen."],
@@ -71,7 +81,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "monument",
     parent: "UZ-TK",
     coords: [69.2704, 41.3217],
-    name: { de: "Mut-Denkmal", hu: "A Bátorság emlékműve", ro: "Monumentul Curajului", en: "Monument of Courage" },
+    name: { de: "Mut-Denkmal", hu: "A Bátorság emlékműve", ro: "Monumentul Curajului", en: "Monument of Courage",
+image: "/poi-images/monument-of-courage-landmarks-v2.webp"
+},
     description: { de: "Dieses Denkmal erinnert an das verheerende Erdbeben von 1966 und den Wiederaufbau der Stadt durch ihre mutigen Bewohner.", hu: "Ez az emlékmű az 1966-os pusztító földrengésnek és a várost újjáépítő bátor lakosoknak állít emléket.", ro: "Acest monument comemorează cutremurul devastator din 1966 și reconstrucția orașului de către locuitorii săi curajoși.", en: "This monument commemorates the devastating earthquake of 1966 and the rebuilding of the city by its brave residents." },
     facts: {
       de: ["Die Uhr auf dem Denkmal zeigt 5:23 Uhr.", "Ein Riss im Boden symbolisiert das Beben.", "Gewidmet den Helfern aus der gesamten Sowjetunion."],
@@ -84,7 +96,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-TK",
     coords: [69.2374, 41.3235],
-    name: { de: "Kukeldasch-Madrasa", hu: "Kukeldas-medresze", ro: "Madrasa Kukeldash", en: "Kukeldash Madrasah" },
+    name: { de: "Kukeldasch-Madrasa", hu: "Kukeldas-medresze", ro: "Madrasa Kukeldash", en: "Kukeldash Madrasah",
+image: "/poi-images/kukeldash-madrasah-landmarks-v2.webp"
+},
     description: { de: "Eine islamische Hochschule aus dem 16. Jahrhundert, die sich in der Nähe des Tschorsu-Basars befindet.", hu: "Egy 16. századi iszlám vallási iskola, amely a Csorszu bazár közelében található Taskentben.", ro: "O școală islamică din secolul al XVI-lea, situată în apropierea Bazarului Chorsu din Tașkent.", en: "A 16th-century Islamic school located near the Chorsu Bazaar in Tashkent." },
     facts: {
       de: ["Wurde um 1570 erbaut.", "Diente einst als Karawanserei.", "Ist noch heute als Religionsschule in Betrieb."],
@@ -97,7 +111,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-BU",
     coords: [64.4445, 39.8130],
-    name: { de: "Sitorai-Mochi-Chosa", hu: "Szitorai Mohi Hosa", ro: "Sitorai Mokhi-Khosa", en: "Sitorai Mokhi-Khosa" },
+    name: { de: "Sitorai-Mochi-Chosa", hu: "Szitorai Mohi Hosa", ro: "Sitorai Mokhi-Khosa", en: "Sitorai Mokhi-Khosa",
+image: "/poi-images/sitorai-mokhi-khosa-landmarks-v2.webp"
+},
     description: { de: "Der Sommerpalast des letzten Emirs von Buchara vereint orientalische und russische Architekturstile auf faszinierende Weise.", hu: "Buhara utolsó emírjének nyári palotája, amely lenyűgöző módon ötvözi a keleti és az orosz építészeti stílusokat.", ro: "Palatul de vară al ultimului emir din Buhara combină într-un mod fascinant stilurile arhitecturale orientale și rusești.", en: "The summer palace of the last Emir of Bukhara fascinatingly combines Oriental and Russian architectural styles." },
     facts: {
       de: ["Erbaut zwischen 1912 und 1918.", "Der Name bedeutet \"Stern gleich dem Mond\".", "Beherbergt heute ein Museum für angewandte Kunst."],
@@ -110,7 +126,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "UZ-BU",
     coords: [64.4206, 39.7733],
-    name: { de: "Ljab-i Chaus", hu: "Ljabi-Hauz", ro: "Lyab-i-Hauz", en: "Lyab-i-Hauz" },
+    name: { de: "Ljab-i Chaus", hu: "Ljabi-Hauz", ro: "Lyab-i-Hauz", en: "Lyab-i-Hauz",
+image: "/poi-images/lyab-i-hauz-landmarks-v2.webp"
+},
     description: { de: "Ein malerischer Platz in Buchara, der um ein historisches Wasserbecken (Hauz) herum angelegt wurde, umgeben von alten Madrasas.", hu: "Buhara egyik legfestőibb tere, amelyet egy történelmi medence köré építettek, ősi medreszék ölelésében.", ro: "O piață pitorească din Buhara, construită în jurul unui bazin istoric de apă, înconjurată de vechi madrase.", en: "A picturesque square in Bukhara built around a historic pool (Hauz), surrounded by ancient madrasahs." },
     facts: {
       de: ["Erbaut im 17. Jahrhundert.", "Das Wasserbecken spendete der Stadt früher Trinkwasser.", "Ein beliebter Treffpunkt mit alten Maulbeerbäumen."],
@@ -123,7 +141,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-BU",
     coords: [64.4098, 39.7779],
-    name: { de: "Bolo-Hauz-Moschee", hu: "Bolo Hauz mecset", ro: "Moscheea Bolo Hauz", en: "Bolo Hauz Mosque" },
+    name: { de: "Bolo-Hauz-Moschee", hu: "Bolo Hauz mecset", ro: "Moscheea Bolo Hauz", en: "Bolo Hauz Mosque",
+image: "/poi-images/bolo-hauz-mosque-landmarks-v2.webp"
+},
     description: { de: "Eine beeindruckende Moschee gegenüber der Zitadelle Ark, bekannt für ihren Vorbau mit feinen, geschnitzten Holzsäulen.", hu: "Látványos mecset a Buharai bárka várával szemben, amely gyönyörűen faragott faoszlopos tornácáról híres.", ro: "O moschee impresionantă vizavi de Citadela Ark, cunoscută pentru pridvorul său cu coloane fine din lemn sculptat.", en: "An impressive mosque opposite the Ark Citadel, known for its porch with fine carved wooden pillars." },
     facts: {
       de: ["Wurde 1712 fertiggestellt.", "Besitzt 20 geschnitzte Holzsäulen.", "Diente als Freitagsmoschee für den Emir."],
@@ -136,7 +156,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-BU",
     coords: [64.4172, 39.7731],
-    name: { de: "Magok-i-Attari", hu: "Magoki-Attari mecset", ro: "Moscheea Magok-i-Attari", en: "Magok-i-Attari" },
+    name: { de: "Magok-i-Attari", hu: "Magoki-Attari mecset", ro: "Moscheea Magok-i-Attari", en: "Magok-i-Attari",
+image: "/poi-images/magok-i-attari-landmarks-v2.webp"
+},
     description: { de: "Eine der ältesten erhaltenen Moscheen in Buchara, die unter dem Bodenniveau liegt und vorislamische Einflüsse zeigt.", hu: "Buhara egyik legrégebbi fennmaradt mecsete, amely a talajszint alatt helyezkedik el, és iszlám előtti hatásokat mutat.", ro: "Una dintre cele mai vechi moschei păstrate din Buhara, aflată sub nivelul solului și care prezintă influențe pre-islamice.", en: "One of the oldest surviving mosques in Bukhara, situated below ground level and showing pre-Islamic influences." },
     facts: {
       de: ["Der älteste Teil stammt aus dem 9. Jahrhundert.", "Wurde auf den Ruinen eines zoroastrischen Tempels erbaut.", "Beherbergt heute ein Teppichmuseum."],
@@ -149,7 +171,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "UZ-SA",
     coords: [66.9818, 39.6642],
-    name: { de: "Sijob-Basar", hu: "Szijob bazár", ro: "Bazarul Siyob", en: "Siyob Bazaar" },
+    name: { de: "Sijob-Basar", hu: "Szijob bazár", ro: "Bazarul Siyob", en: "Siyob Bazaar",
+image: "/poi-images/siyob-bazaar-landmarks-v2.webp"
+},
     description: { de: "Der größte und älteste Markt in Samarkand, der Besuchern einen authentischen Einblick in den Alltag der Seidenstraße bietet.", hu: "Szamarkand legnagyobb és legrégebbi piaca, amely hiteles bepillantást nyújt a Selyemút egykori mindennapjaiba.", ro: "Cea mai mare și mai veche piață din Samarkand, oferind vizitatorilor o privire autentică asupra vieții de pe Drumul Mătăsii.", en: "The largest and oldest market in Samarkand, offering visitors an authentic glimpse into life on the Silk Road." },
     facts: {
       de: ["Befindet sich neben der Bibi-Chanum-Moschee.", "Berühmt für das runde Brot \"Samarkand Non\".", "Bietet frische Trockenfrüchte und Nüsse."],
@@ -162,7 +186,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "monument",
     parent: "UZ-SA",
     coords: [66.9922, 39.6744],
-    name: { de: "Mausoleum des Propheten Daniel", hu: "Dániel próféta mauzóleuma", ro: "Mausoleul profetului Daniel", en: "Mausoleum of Prophet Daniel" },
+    name: { de: "Mausoleum des Propheten Daniel", hu: "Dániel próféta mauzóleuma", ro: "Mausoleul profetului Daniel", en: "Mausoleum of Prophet Daniel",
+image: "/poi-images/prophet-daniel-mausoleum-landmarks-v2.webp"
+},
     description: { de: "Eine bedeutende Pilgerstätte in Samarkand, die von Muslimen, Christen und Juden gleichermaßen verehrt wird.", hu: "Jelentős zarándokhely Szamarkandban, amelyet a muszlimok, keresztények és zsidók egyaránt szentként tisztelnek.", ro: "Un important loc de pelerinaj din Samarkand, venerat în egală măsură de musulmani, creștini și evrei.", en: "A significant pilgrimage site in Samarkand, revered equally by Muslims, Christians, and Jews." },
     facts: {
       de: ["Das Grab ist über 18 Meter lang.", "Der Legende nach wächst der Körper des Propheten stetig.", "Befindet sich am Ufer des Siab-Flusses."],
@@ -175,7 +201,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-SA",
     coords: [66.9822, 39.6669],
-    name: { de: "Hazrat-Hizr-Moschee", hu: "Hazrat Hizr mecset", ro: "Moscheea Hazrat Khizr", en: "Hazrat Khizr Mosque" },
+    name: { de: "Hazrat-Hizr-Moschee", hu: "Hazrat Hizr mecset", ro: "Moscheea Hazrat Khizr", en: "Hazrat Khizr Mosque",
+image: "/poi-images/hazrat-khizr-mosque-landmarks-v2.webp"
+},
     description: { de: "Eine malerische Moschee auf einem Hügel in Samarkand, bekannt für ihre wunderschöne Holzveranda und die Aussicht auf die Stadt.", hu: "Egy festői mecset Szamarkand egyik dombján, amely gyönyörű fatornácáról és a városra nyíló kilátásáról ismert.", ro: "O moschee pitorească pe un deal din Samarkand, cunoscută pentru frumoasa sa verandă din lemn și priveliștea asupra orașului.", en: "A picturesque mosque on a hill in Samarkand, known for its beautiful wooden porch and views of the city." },
     facts: {
       de: ["Ursprünglich im 8. Jahrhundert erbaut.", "Nach dem legendären Heiligen Khizr benannt.", "Ist die letzte Ruhestätte des ersten Präsidenten Islam Karimow."],
@@ -188,7 +216,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-SA",
     coords: [66.9856, 39.6697],
-    name: { de: "Afrosiyob-Museum", hu: "Afrosiyob Múzeum", ro: "Muzeul Afrosiyob", en: "Afrosiyob Museum" },
+    name: { de: "Afrosiyob-Museum", hu: "Afrosiyob Múzeum", ro: "Muzeul Afrosiyob", en: "Afrosiyob Museum",
+image: "/poi-images/afrosiyob-museum-landmarks-v2.webp"
+},
     description: { de: "Das Museum zeigt Artefakte der antiken Stadt Marakanda, darunter faszinierende Fresken aus dem Palast der Sogdier.", hu: "A múzeum Marakanda ősi városának tárgyait mutatja be, köztük a szogd uralkodók palotájának lenyűgöző freskóit.", ro: "Muzeul expune artefacte din orașul antic Marakanda, inclusiv fresce fascinante din palatul sogdienilor.", en: "The museum displays artifacts from the ancient city of Marakanda, including fascinating frescoes from the Sogdian palace." },
     facts: {
       de: ["Geöffnet 1970.", "Zeigt die berühmten \"Botschafter-Fresken\".", "Befindet sich nahe der Ausgrabungsstätte Afrasiab."],
@@ -201,7 +231,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-XO",
     coords: [60.3592, 41.3768],
-    name: { de: "Pahlavan-Mahmud-Mausoleum", hu: "Pahlavan Mahmud mauzóleuma", ro: "Mausoleul Pahlavan Mahmud", en: "Pahlavan Mahmud Mausoleum" },
+    name: { de: "Pahlavan-Mahmud-Mausoleum", hu: "Pahlavan Mahmud mauzóleuma", ro: "Mausoleul Pahlavan Mahmud", en: "Pahlavan Mahmud Mausoleum",
+image: "/poi-images/pahlavan-mahmud-mausoleum-landmarks-v2.webp"
+},
     description: { de: "Die Grabstätte des Schutzheiligen von Chiwa ist für ihre spektakuläre grüne Kuppel und den reich verzierten Innenraum berühmt.", hu: "Híva védőszentjének sírhelye lenyűgöző zöld kupolájáról és gazdagon díszített belső teréről híres.", ro: "Mormântul sfântului protector al orașului Khiva este faimos pentru cupola sa verde spectaculoasă și interiorul bogat decorat.", en: "The tomb of the patron saint of Khiva is famous for its spectacular green dome and richly decorated interior." },
     facts: {
       de: ["Pahlavan Mahmud war ein Dichter und Ringer.", "Die Kuppel ist die größte in Chiwa.", "Die Fliesenarbeiten im Inneren sind ein Meisterwerk."],
@@ -214,7 +246,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-XO",
     coords: [60.3603, 41.3762],
-    name: { de: "Islam-Chodscha-Minarett", hu: "Iszlam Hodzsa-minaret", ro: "Minaretul Islam Khoja", en: "Islam Khoja Minaret" },
+    name: { de: "Islam-Chodscha-Minarett", hu: "Iszlam Hodzsa-minaret", ro: "Minaretul Islam Khoja", en: "Islam Khoja Minaret",
+image: "/poi-images/islam-khoja-minaret-landmarks-v2.webp"
+},
     description: { de: "Das höchste Minarett in Chiwa, das mit seiner eleganten, sich verjüngenden Form die Skyline der historischen Altstadt dominiert.", hu: "Híva legmagasabb minaretje, amelynek karcsú, felfelé keskenyedő formája uralja az óváros látképét.", ro: "Cel mai înalt minaret din Khiva, a cărui formă elegantă și îngustă domină orizontul orașului istoric.", en: "The tallest minaret in Khiva, dominating the skyline of the historic old town with its elegant, tapering form." },
     facts: {
       de: ["Mit 56,6 Metern das höchste Gebäude in Chiwa.", "Erbaut im Jahr 1910.", "Die Basis hat einen Durchmesser von 9,5 Metern."],
@@ -228,7 +262,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-XO",
     coords: [60.3585, 41.3780],
-    name: { de: "Kalta Minor", hu: "Kalta Minor", ro: "Kalta Minor", en: "Kalta Minor" },
+    name: { de: "Kalta Minor", hu: "Kalta Minor", ro: "Kalta Minor", en: "Kalta Minor",
+image: "/poi-images/kalta-minor-landmarks-v2.webp"
+},
     description: { de: "Ein unvollendetes Minarett in Chiwa, das vollständig mit atemberaubenden türkisfarbenen Kacheln bedeckt ist.", hu: "Egy befejezetlen minaret Hívában, amelyet teljes egészében lélegzetelállító türkizkék csempék borítanak.", ro: "Un minaret neterminat din Khiva, acoperit în întregime cu plăci turcoaz uimitoare.", en: "An unfinished minaret in Khiva, completely covered in stunning turquoise tiles." },
     facts: {
       de: ["Der Name bedeutet \"Kurzes Minarett\".", "Sollte das höchste Minarett der islamischen Welt werden.", "Der Bau wurde 1855 nach dem Tod des Herrschers gestoppt."],
@@ -241,7 +277,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-XO",
     coords: [60.3621, 41.3781],
-    name: { de: "Tasch-Hauli-Palast", hu: "Tas-Hauli palota", ro: "Palatul Tash-Khauli", en: "Tash-Khauli Palace" },
+    name: { de: "Tasch-Hauli-Palast", hu: "Tas-Hauli palota", ro: "Palatul Tash-Khauli", en: "Tash-Khauli Palace",
+image: "/poi-images/tash-khauli-palace-landmarks-v2.webp"
+},
     description: { de: "Der \"Steinhof-Palast\" in Chiwa ist bekannt für seine kunstvollen Holzdekorationen und prächtigen Kachelornamente.", hu: "A hívai \"Kőudvar-palota\" művészi faragott faoszlopairól és gyönyörű csempedíszítéséről híres.", ro: "Acest palat din Khiva este renumit pentru decorațiunile sale elaborate din lemn și ornamentele magnifice din ceramică.", en: "The \"Stone Courtyard\" palace in Khiva is known for its intricate wooden decorations and magnificent tile ornaments." },
     facts: {
       de: ["Erbaut im frühen 19. Jahrhundert.", "Beherbergt einen Harem, Empfangsräume und ein Gericht.", "Verfügt über mehr als 150 Räume."],
@@ -254,7 +292,9 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "UZ-QR",
     coords: [59.6105, 42.4633],
-    name: { de: "Sawizki-Museum", hu: "Szavickij Múzeum", ro: "Muzeul de Artă Savitsky", en: "Savitsky Art Museum" },
+    name: { de: "Sawizki-Museum", hu: "Szavickij Múzeum", ro: "Muzeul de Artă Savitsky", en: "Savitsky Art Museum",
+image: "/poi-images/savitsky-art-museum-landmarks-v2.webp"
+},
     description: { de: "Dieses Museum in Nukus beherbergt die weltweit zweitgrößte Sammlung der russischen Avantgarde, gerettet vor der sowjetischen Zensur.", hu: "A nukusi múzeum ad otthont a világ második legnagyobb orosz avantgárd művészeti gyűjteményének, amelyet a szovjet cenzúra elől mentettek meg.", ro: "Acest muzeu din Nukus găzduiește a doua cea mai mare colecție de artă de avangardă rusă din lume, salvată de cenzura sovietică.", en: "This museum in Nukus houses the world's second-largest collection of Russian avant-garde art, rescued from Soviet censorship." },
     facts: {
       de: ["Oft als \"Louvre der Wüste\" bezeichnet.", "Gegründet von Igor Sawizki.", "Besitzt über 80.000 Ausstellungsstücke."],

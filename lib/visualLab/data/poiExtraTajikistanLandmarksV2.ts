@@ -10,8 +10,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Nationalmuseum von Tadschikistan",
       hu: "Tádzsikisztáni Nemzeti Múzeum",
       ro: "Muzeul Național al Tadjikistanului",
-      en: "National Museum of Tajikistan"
-    },
+      en: "National Museum of Tajikistan",
+image: "/poi-images/tj-national-museum-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Museum, das die reiche Geschichte und Kultur des Landes präsentiert.",
       hu: "Jelentős múzeum, amely az ország gazdag történelmét és kultúráját mutatja be.",
@@ -53,8 +54,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Ismoil-Somoni-Denkmal",
       hu: "Iszmoil Szomóni-emlékmű",
       ro: "Monumentul lui Ismoil Somoni",
-      en: "Ismoil Somoni Monument"
-    },
+      en: "Ismoil Somoni Monument",
+image: "/poi-images/tj-ismoil-somoni-monument-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Statue zu Ehren des Gründers der tadschikischen Nation.",
       hu: "Lenyűgöző szobor a tádzsik nemzet alapítójának tiszteletére.",
@@ -96,8 +98,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Festung Hissar",
       hu: "Hiszór-erőd",
       ro: "Cetatea Hisor",
-      en: "Hisor Fortress"
-    },
+      en: "Hisor Fortress",
+image: "/poi-images/tj-hisor-fortress-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Festung, die einst Sitz der Emire von Buchara war.",
       hu: "Történelmi erőd, amely egykor a buharai emírek székhelye volt.",
@@ -139,8 +142,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Nurek-Staudamm",
       hu: "Nurek-gát",
       ro: "Barajul Nurek",
-      en: "Nurek Dam"
-    },
+      en: "Nurek Dam",
+image: "/poi-images/tj-nurek-dam-landmarks-v2.webp"
+},
     description: {
       de: "Einer der höchsten Erdschüttdämme der Welt am Fluss Wachsch.",
       hu: "A világ egyik legmagasabb földgátja a Vahs folyón.",
@@ -182,8 +186,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Duschanbe-Fahnenmast",
       hu: "Dusanbe-zászlórrúd",
       ro: "Catargul din Dușanbe",
-      en: "Dushanbe Flagpole"
-    },
+      en: "Dushanbe Flagpole",
+image: "/poi-images/tj-dushanbe-flagpole-landmarks-v2.webp"
+},
     description: {
       de: "Einer der höchsten freistehenden Fahnenmasten der Welt im Zentrum der Hauptstadt.",
       hu: "A világ egyik legmagasabb szabadon álló zászlórúdja a főváros központjában.",
@@ -225,8 +230,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Palast der Nationen",
       hu: "Nemzetek Palotája",
       ro: "Palatul Națiunilor",
-      en: "Palace of Nations"
-    },
+      en: "Palace of Nations",
+image: "/poi-images/tj-palace-of-nations-landmarks-v2.webp"
+},
     description: {
       de: "Die offizielle Residenz des Präsidenten von Tadschikistan mit prächtiger Architektur.",
       hu: "Tádzsikisztán elnökének hivatalos rezidenciája pompás építészettel.",
@@ -268,8 +274,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Karakul-See",
       hu: "Karakul-tó",
       ro: "Lacul Karakul",
-      en: "Karakul Lake"
-    },
+      en: "Karakul Lake",
+image: "/poi-images/tj-karakul-lake-landmarks-v2.webp"
+},
     description: {
       de: "Ein atemberaubender See in einem Meteoritenkrater im Hochland des Pamir.",
       hu: "Lélegzetelállító tó egy meteoritkráterben a Pamír-fennsíkon.",
@@ -311,8 +318,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Festung Jamtschun",
       hu: "Jamcsun-erőd",
       ro: "Cetatea Yamchun",
-      en: "Yamchun Fortress"
-    },
+      en: "Yamchun Fortress",
+image: "/poi-images/tj-yamchun-fortress-landmarks-v2.webp"
+},
     description: {
       de: "Die Ruinen einer alten Festung mit Blick auf den Wachan-Korridor.",
       hu: "Egy ősi erőd romjai, amelyek a Vahan-folyosóra néznek.",
@@ -354,8 +362,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Pandschschanbe-Basar",
       hu: "Pandzssanbe Bazár",
       ro: "Bazarul Panjshanbe",
-      en: "Panjshanbe Bazaar"
-    },
+      en: "Panjshanbe Bazaar",
+image: "/poi-images/tj-panjshanbe-bazaar-landmarks-v2.webp"
+},
     description: {
       de: "Einer der größten und ältesten überdachten Märkte Zentralasiens.",
       hu: "Közép-Ázsia egyik legnagyobb és legrégebbi fedett piaca.",
@@ -397,8 +406,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Festung Chudschand",
       hu: "Hudzsand-erőd",
       ro: "Cetatea Khujand",
-      en: "Khujand Fortress"
-    },
+      en: "Khujand Fortress",
+image: "/poi-images/tj-khujand-fortress-landmarks-v2.webp"
+},
     description: {
       de: "Überreste einer historischen Festung am Ufer des Syrdarja.",
       hu: "Egy történelmi erőd maradványai a Szir-Darja partján.",
@@ -440,8 +450,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Kulturpalast Arbob",
       hu: "Arbob Kulturális Palota",
       ro: "Palatul Cultural Arbob",
-      en: "Arbob Cultural Palace"
-    },
+      en: "Arbob Cultural Palace",
+image: "/poi-images/tj-arbob-cultural-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein prächtiges Gebäude nach dem Vorbild des Peterhofs, bedeutend in der Landesgeschichte.",
       hu: "A pétervári Peterhof mintájára épült pompás épület, jelentős a nemzet történelmében.",
@@ -483,8 +494,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Mausoleum von Mir Sayyid Ali Hamadani",
       hu: "Mir Szajjid Ali Hamadani Mauzóleuma",
       ro: "Mausoleul lui Mir Sayyid Ali Hamadani",
-      en: "Mausoleum of Mir Sayyid Ali Hamadani"
-    },
+      en: "Mausoleum of Mir Sayyid Ali Hamadani",
+image: "/poi-images/tj-mausoleum-ali-hamadani-landmarks-v2.webp"
+},
     description: {
       de: "Ein heiliger Schrein für den persischen Sufi-Gelehrten und Dichter.",
       hu: "Szentély a perzsa szufi tudós és költő számára.",
@@ -526,8 +538,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Hadschi-Jakub-Moschee",
       hu: "Hádzsi Jakub-mecset",
       ro: "Moscheea Haji Yaqub",
-      en: "Haji Yaqub Mosque"
-    },
+      en: "Haji Yaqub Mosque",
+image: "/poi-images/tj-haji-yaqub-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine der größten und wichtigsten Moscheen in der Hauptstadt Tadschikistans.",
       hu: "Tádzsikisztán fővárosának egyik legnagyobb és legfontosabb mecsete.",
@@ -569,8 +582,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Garm Chashma Heiße Quellen",
       hu: "Garm Csasma Hőforrások",
       ro: "Izvoarele Termale Garm Chashma",
-      en: "Garm Chashma Hot Springs"
-    },
+      en: "Garm Chashma Hot Springs",
+image: "/poi-images/tj-garm-chashma-landmarks-v2.webp"
+},
     description: {
       de: "Berühmte heiße Mineralquellen mit Kalkterrassen im Pamir-Gebirge.",
       hu: "Híres meleg ásványvízforrások mészkőteraszokkal a Pamír-hegységben.",
@@ -612,8 +626,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Rudaki-Park",
       hu: "Rudaki Park",
       ro: "Parcul Rudaki",
-      en: "Rudaki Park"
-    },
+      en: "Rudaki Park",
+image: "/poi-images/tj-rudaki-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein wunderschöner Stadtpark mit Denkmälern und Springbrunnen im Herzen von Duschanbe.",
       hu: "Gyönyörű városi park műemlékekkel és szökőkutakkal Dusanbe szívében.",
@@ -655,8 +670,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Tachti Sangin",
       hu: "Tahti Szangin",
       ro: "Takhti Sangin",
-      en: "Takhti Sangin"
-    },
+      en: "Takhti Sangin",
+image: "/poi-images/tj-takhti-sangin-landmarks-v2.webp"
+},
     description: {
       de: "Eine antike archäologische Stätte nahe der Grenze zu Afghanistan.",
       hu: "Egy ősi régészeti lelőhely az afgán határ közelében.",
@@ -698,8 +714,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Nouruz-Palast",
       hu: "Navruz Palota",
       ro: "Palatul Navruz",
-      en: "Navruz Palace"
-    },
+      en: "Navruz Palace",
+image: "/poi-images/tj-navruz-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein riesiger Kultur- und Unterhaltungskomplex, der traditionelle Handwerkskunst demonstriert.",
       hu: "Hatalmas kulturális és szórakoztató komplexum, amely a hagyományos kézművességet mutatja be.",
@@ -742,8 +759,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Aini-Opern- und Ballett-Theater",
       hu: "Ajni Opera- és Balettszínház",
       ro: "Teatrul de Operă și Balet Ayni",
-      en: "Ayni Opera and Ballet Theatre"
-    },
+      en: "Ayni Opera and Ballet Theatre",
+image: "/poi-images/tj-ayni-opera-landmarks-v2.webp"
+},
     description: {
       de: "Ein architektonisches Meisterwerk im neoklassizistischen Stil im Zentrum von Duschanbe.",
       hu: "Neoklasszikus stílusú építészeti remekmű Dusanbe központjában.",
@@ -785,8 +803,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Sieben Seen",
       hu: "Hét Tó",
       ro: "Cele Șapte Lacuri",
-      en: "Seven Lakes (Haft Kul)"
-    },
+      en: "Seven Lakes (Haft Kul)",
+image: "/poi-images/tj-seven-lakes-landmarks-v2.webp"
+},
     description: {
       de: "Eine Kette von sieben farbenfrohen Bergseen im Fann-Gebirge.",
       hu: "Hét színes hegyi tó láncolata a Fan-hegységben.",
@@ -828,8 +847,9 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       de: "Iskanderkul",
       hu: "Iszkanderkul",
       ro: "Iskanderkul",
-      en: "Iskanderkul"
-    },
+      en: "Iskanderkul",
+image: "/poi-images/tj-iskanderkul-landmarks-v2.webp"
+},
     description: {
       de: "Ein malerischer Gebirgssee glazialen Ursprungs, benannt nach Alexander dem Großen.",
       hu: "Egy festői, gleccsereredetű hegyi tó, amelyet Nagy Sándorról neveztek el.",

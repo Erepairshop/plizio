@@ -16,8 +16,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
     descriptionAdvanced: { hu: "Ureca strandja Bioko szigetének déli partján a világ egyik legfontosabb tengeri teknős-fészkelőhelye. Minden évben, november és február között, négy különböző teknősfaj, köztük a hatalmas kérgesteknősök érkeznek a partra, hogy lerakják tojásaikat. A terület szigorú védelem alatt áll, és a helyi közösség aktívan részt vesz a teknősvédelmi programban (BBPP), felhagyva a korábbi vadászattal. Ureca nemcsak biológiai kincs, hanem az ország egyik legszebb, érintetlen tengerpartja, ahol a vulkanikus fekete homok és a vízesések találkoznak az óceánnal. A teknősök megfigyelése szigorúan szabályozott keretek között zajlik, biztosítva az állatok nyugalmát és a fajok fennmaradását.",
       de: "Der Strand von Ureca an der entlegenen Südküste von Bioko ist eines der bedeutendsten Nistgebiete für Meeresschildkröten in Zentralafrika. Besonders die vom Aussterben bedrohten Lederschildkröten nutzen diesen unberührten, vulkanischen Sandstrand jährlich, um ihre Eier abzulegen. Die Abgeschiedenheit von Ureca schützt den Ort vor dem Massentourismus und schafft eine ruhige Umgebung, die für den Fortbestand der gefährdeten Arten essenziell ist. Besucher können unter Anleitung erfahrener Guides die nächtliche Eiablage beobachten, was ein tiefes Verständnis für die marine Ökologie und die Notwendigkeit der Erhaltung dieser majestätischen Tiere fördert. Ökologie K6, Meeresbiologie K8.",
       en: "Ureca Turtle Beach, located on the remote southern coast of Bioko Island, is one of the most critical nesting grounds for sea turtles in Central Africa. Every year, several species, including the endangered leatherback and green turtles, haul themselves onto these pristine volcanic sands to lay their eggs. The extreme isolation of Ureca, guarded by massive cliffs and dense jungle, has protected the site from human encroachment and intensive tourism. Conservation programs involve local communities in monitoring the nesting sites and protecting the hatchlings as they make their way to the Atlantic. Observing this ancient ritual under the moonlight is a profound ecological experience that highlights the importance of marine preservation. Curriculum: Marine Biology K8, Ecology K7.",
-      ro: "Plaja țestoaselor de la Ureca, situată pe coasta de sud a insulei Bioko, este unul dintre cele mai importante locuri de cuibărit pentru țestoasele marine din întreaga Africă de Vest. În fiecare an, între lunile noiembrie și februarie, specii gigantice precum țestoasa pieloasă (Dermochelys coriacea), țestoasa verde și țestoasa hawksbill vin pe aceste plaje izolate cu nisip negru vulcanic pentru a-și depune ouăle. Zona este caracterizată de un regim pluviometric extrem, fiind unul dintre cele mai umede locuri de pe planetă, ceea ce favorizează o vegetație de coastă luxuriantă care ajunge până la buza oceanului. Comunitatea locală din Ureca joacă un rol vital în protejarea acestor creaturi străvechi, participând activ la programele de conservare și monitorizare. Vizitarea acestui sanctuar oferă o experiență ecologică rară, unde forța brută a Atlanticului se întâlnește cu fragilitatea vieții marine sub protecția pădurii tropicale virgine."
-    },
+      ro: "Plaja țestoaselor de la Ureca, situată pe coasta de sud a insulei Bioko, este unul dintre cele mai importante locuri de cuibărit pentru țestoasele marine din întreaga Africă de Vest. În fiecare an, între lunile noiembrie și februarie, specii gigantice precum țestoasa pieloasă (Dermochelys coriacea), țestoasa verde și țestoasa hawksbill vin pe aceste plaje izolate cu nisip negru vulcanic pentru a-și depune ouăle. Zona este caracterizată de un regim pluviometric extrem, fiind unul dintre cele mai umede locuri de pe planetă, ceea ce favorizează o vegetație de coastă luxuriantă care ajunge până la buza oceanului. Comunitatea locală din Ureca joacă un rol vital în protejarea acestor creaturi străvechi, participând activ la programele de conservare și monitorizare. Vizitarea acestui sanctuar oferă o experiență ecologică rară, unde forța brută a Atlanticului se întâlnește cu fragilitatea vieții marine sub protecția pădurii tropicale virgine.",
+image: "/poi-images/schildkroetenstrand-ureca-life-v2.webp"
+},
     factsAdvanced: { hu: ["Négy tengeri teknősfaj, köztük a kérgesteknősök kiemelt fészkelőhelye.", "A Bioko Biodiversity Protection Program (BBPP) egyik központi helyszíne.", "A fészkelési szezon novembertől februárig tart.", "A helyi Ureca közösség ma már a teknősök védelmezőjeként tevékenykedik.", "A strand Bioko egyik legcsapadékosabb és legvadregényesebb vidékén van.", "Fontos ökoturisztikai célpont a természetvédelmi kutatók számára."],
       de: ["Einer der wichtigsten Nistplätze für Lederschildkröten weltweit.", "Die Region ist durch steile Klippen vom Massenverkehr isoliert.", "Beobachtungen sind streng reglementiert zum Schutz der Tiere.", "Die Eiablage erfolgt in einer sehr sensiblen saisonalen Phase.", "Ureca gilt als einer der regenreichsten Orte auf der Insel Bioko.", "Ein herausragendes Beispiel für naturnahen Schutz lokaler Arten."],
       en: ["Major nesting site for endangered leatherback and green sea turtles.", "Located on the remote and rugged southern coast of Bioko Island.", "One of the wettest locations in Africa with high tropical rainfall.", "Nesting season typically runs from November to February.", "Protected by local community-led conservation initiatives.", "Accessible only via difficult jungle treks or by sea.", "A critical hub for regional marine biodiversity research."],
@@ -50,8 +51,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
     descriptionAdvanced: { hu: "Annobón szigete környékén a bálnamegfigyelés Egyenlítői-Gínea egyik legkülönlegesebb természeti élménye. A sziget elszigetelt fekvése és a mély, tiszta vizek ideális pihenőhelyet és vándorlási útvonalat biztosítanak a hosszúszárnyú bálnák számára a déli félteke telén (júliustól szeptemberig). Ebben az időszakban a bálnák gyakran láthatóak a partról is, amint a felszínre bukkannak vagy hatalmas ugrásokkal jelzik jelenlétüket. Az annobóni lakosok mély tisztelettel viseltetnek ezen óriások iránt, akik jelenléte szerves része a sziget identitásának. A bálnamegfigyelés itt még teljesen természetes és mentes a tömegturizmustól, igazi bensőséges találkozást kínálva az óceán óriásaival.",
       de: "Die Gewässer rund um die abgelegene Insel Annobón im Südatlantik sind ein kritischer Korridor für die Migration von Buckelwalen, die jedes Jahr weite Strecken durch den Ozean zurücklegen. Annobón, als südlichste Provinz Äquatorialguineas, bietet eine ideale geografische Position, um diese faszinierenden Meeressäuger in ihrer natürlichen Umgebung zu erleben. Die Reise der Wale durch diese Gewässer ist Teil eines globalen ökologischen Zyklus, der die marine Biodiversität des Südatlantiks prägt. Das Beobachten der Wale vor der Küste Annobóns bietet nicht nur ein unvergessliches Erlebnis, sondern unterstreicht auch die Bedeutung des Schutzes der ozeanischen Lebensräume für die maritime Zukunft der Region. Meeresbiologie K7, Geografie K5.",
       en: "The waters surrounding the isolated island of Annobón are a vital migration corridor for humpback whales as they travel through the South Atlantic. This remote province of Equatorial Guinea offers a unique vantage point to witness these majestic marine mammals during their annual journey from the cold Antarctic waters to warmer breeding grounds. Between July and October, whales are frequently seen breaching and nurturing their calves in the nutrient-rich currents near the island's volcanic shores. Local eco-tourism initiatives focus on providing sustainable whale-watching experiences that respect the animals' natural behavior. Annobón's extreme geographic isolation has helped maintain a pristine marine environment that is essential for the survival of these migratory species. Curriculum: Marine Science K7, Geography K6.",
-      ro: "Observarea balenelor în largul insulei Annobón reprezintă una dintre cele mai spectaculoase experiențe naturale din Guineea Ecuatorială. Această insulă vulcanică izolată, situată în Atlanticul de Sud, se află direct pe ruta de migrație a balenelor cu cocoașă (Megaptera novaeangliae), care sosesc aici între lunile iulie și octombrie pentru a se împerechea și a-și crește puii în apele calde și protejate. Adâncimile mari ale oceanului care înconjoară imediat insula permit acestor mamifere gigantice să se apropie foarte mult de țărm, fiind adesea vizibile chiar și de pe stâncile de coastă. Izolarea extremă a insulei Annobón a păstrat ecosistemul marin într-o stare aproape virgină, oferind un habitat sigur și bogat în resurse pentru cetacee. Pentru vizitatori, spectacolul salturilor impresionante ale balenelor pe fundalul reliefului vulcanic accidentat al insulei este o dovadă a bogăției incredibile a biodiversității atlantice."
-    },
+      ro: "Observarea balenelor în largul insulei Annobón reprezintă una dintre cele mai spectaculoase experiențe naturale din Guineea Ecuatorială. Această insulă vulcanică izolată, situată în Atlanticul de Sud, se află direct pe ruta de migrație a balenelor cu cocoașă (Megaptera novaeangliae), care sosesc aici între lunile iulie și octombrie pentru a se împerechea și a-și crește puii în apele calde și protejate. Adâncimile mari ale oceanului care înconjoară imediat insula permit acestor mamifere gigantice să se apropie foarte mult de țărm, fiind adesea vizibile chiar și de pe stâncile de coastă. Izolarea extremă a insulei Annobón a păstrat ecosistemul marin într-o stare aproape virgină, oferind un habitat sigur și bogat în resurse pentru cetacee. Pentru vizitatori, spectacolul salturilor impresionante ale balenelor pe fundalul reliefului vulcanic accidentat al insulei este o dovadă a bogăției incredibile a biodiversității atlantice.",
+image: "/poi-images/walbeobachtung-annobon-life-v2.webp"
+},
     factsAdvanced: { hu: ["A hosszúszárnyú bálnák fontos vándorlási állomása az Atlanti-óceánban.", "A megfigyelési főszezon júliustól szeptember végéig tart.", "A bálnák gyakran egészen közel merészkednek Annobón partjaihoz.", "A sziget mélyvízi környezete ideális a bálnák és borjaik számára.", "A helyi halászok ősi tudása segít a bálnák mozgásának követésében.", "A térség tengeri élővilága szinte teljesen érintetlen és háborítatlan."],
       de: ["Wichtiger Wanderkorridor für Buckelwale im Südatlantik.", "Optimale Sichtungen zwischen Juli und September.", "Die Insel Annobón ist ein geschützter Ausgangspunkt für Expeditionen.", "Die marine Biodiversität rund um die Insel ist außergewöhnlich hoch.", "Die Wale nutzen die Gewässer für Paarung und Aufzucht der Kälber.", "Ökotourismus-Initiativen fördern das Bewusstsein für maritime Erhaltung."],
       en: ["Strategic location in the South Atlantic for whale migration.", "Peak sightings occur during the months of July through October.", "Humpback whales use these waters for breeding and calving.", "Annobón's waters are known for high clarity and low pollution.", "Part of a regional network for marine mammal conservation.", "Offers some of the most authentic whale-watching in West Africa.", "The island's isolation preserves its unique maritime ecosystem."],
@@ -84,8 +86,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
     descriptionAdvanced: { hu: "A Pico Basile Nemzeti Park magashegyi erdői Egyenlítői-Gínea legfontosabb főemlős-élőhelyei közé tartoznak. Itt él többek között a ritka Preuss-cerkóf és a feketefülű cerkóf, amelyek Bioko szigetének endemikus alfajai. Az 1500 méter feletti köderdők különleges mikroklímája és a sűrű növényzet védelmet nyújt ezen veszélyeztetett állatok számára. A védelmi zóna célja a vadhús-kereskedelem megállítása és az élőhelyek megőrzése a főváros, Malabo közvetlen közelében. A primatológusok számára Pico Basile élő laboratórium, ahol a majmok viselkedése és ökológiája tanulmányozható. A park látogatása során a szerencsések pillantást vethetnek ezekre a rejtőzködő és intelligens élőlényekre.",
       de: "An den üppigen, bewaldeten Hängen des Pico Basile auf Bioko erstreckt sich eine geschützte Primaten-Schutzzone, die für das Überleben seltener, endemischer Unterarten wie der Preuss-Meerkatze und anderer bedrohter Affenarten von entscheidender Bedeutung ist. Die verschiedenen Höhenstufen des Vulkans schaffen einzigartige ökologische Nischen, die ein komplexes Netz an Tier- und Pflanzenleben beherbergen. Diese Schutzzone dient als lebendiges Labor für Primatenforscher und als Beweis für den Wert des Schutzes ökologisch intakter Waldgebiete. Der Schutz dieser Zone ist integraler Bestandteil der nationalen Strategie zur Bewahrung des einzigartigen ökologischen Erbes der Insel Bioko, das durch den anthropogenen Druck gefährdet ist. Biologie K7, Ökologie K8.",
       en: "The Pico Basile Primate Protection Zone covers the lush, forested slopes of Bioko's highest peak, serving as a sanctuary for several rare and endemic primate species. This protected area is crucial for the survival of the Preuss's monkey and other threatened guenons that are found nowhere else on Earth. The zone encompasses multiple altitudinal belts of vegetation, from lowland rainforest to high-altitude cloud forest, each providing unique niches for different species. Ongoing scientific research in the zone monitors population health and studies the complex social structures of these primates. The protection of this area is a key element of the national strategy to safeguard the island's extraordinary biological heritage against habitat loss. Curriculum: Biology K7, Ecology K8.",
-      ro: "Zona de protecție a primatelor de pe Pico Basile este un sanctuar ecologic crucial situat pe versanții celui mai înalt munte din Guineea Ecuatorială. Acoperind o gamă variată de habitate, de la pădurea tropicală de joasă altitudine până la pădurile de ceață montane, această zonă adăpostește populații vitale de primate rare, multe dintre ele fiind endemice insulei Bioko. Printre cele mai emblematice specii se numără drill-ul (Mandrillus leucophaeus), colobusul negru și guenonul lui Preuss, creaturi care depind de integritatea acestui ecosistem forestier pentru supraviețuire. Relieful accidentat al muntelui a servit istoric ca o barieră naturală împotriva activităților umane, permițând acestor specii să prospere într-un mediu protejat. Proiectele internaționale de cercetare și conservare active aici subliniază importanța Pico Basile ca un laborator viu pentru studiul evoluției primatelor africane și necesitatea protejării habitatelor lor de mare altitudine."
-    },
+      ro: "Zona de protecție a primatelor de pe Pico Basile este un sanctuar ecologic crucial situat pe versanții celui mai înalt munte din Guineea Ecuatorială. Acoperind o gamă variată de habitate, de la pădurea tropicală de joasă altitudine până la pădurile de ceață montane, această zonă adăpostește populații vitale de primate rare, multe dintre ele fiind endemice insulei Bioko. Printre cele mai emblematice specii se numără drill-ul (Mandrillus leucophaeus), colobusul negru și guenonul lui Preuss, creaturi care depind de integritatea acestui ecosistem forestier pentru supraviețuire. Relieful accidentat al muntelui a servit istoric ca o barieră naturală împotriva activităților umane, permițând acestor specii să prospere într-un mediu protejat. Proiectele internaționale de cercetare și conservare active aici subliniază importanța Pico Basile ca un laborator viu pentru studiul evoluției primatelor africane și necesitatea protejării habitatelor lor de mare altitudine.",
+image: "/poi-images/primaten-schutzzone-picobasile-life-v2.webp"
+},
     factsAdvanced: { hu: ["Bioko-sziget endemikus cerkófmajom-fajainak kiemelt védelmi zónája.", "A Pico Basile köderdői 1500 méter felett biztosítanak élőhelyet.", "Itt él a kritikusan veszélyeztetett Preuss-cerkóf (Allochrocebus preussi).", "A terület szigorú védelem alatt áll a vadhús-vadászat megfékezésére.", "Fontos kutatási helyszín a Bioko Biodiversity Protection Program számára.", "A vertikális zónák miatt a biodiverzitás itt az egyik legnagyobb a szigeten."],
       de: ["Bietet Zuflucht für stark gefährdete endemische Primatenarten.", "Die Zone umfasst unterschiedliche Vegetationshöhenstufen.", "Wichtiger Standort für langfristige populationsbiologische Studien.", "Die Wälder des Pico Basile sind ein zentraler Biodiversitäts-Hotspot.", "Schutzmaßnahmen verhindern den Verlust an Lebensraum durch Abholzung.", "Die Region beherbergt eine einzigartige, nur hier existierende Tierwelt."],
       en: ["A dedicated sanctuary for endangered and endemic primate species.", "Encompasses the diverse forest belts of the 3,011 m high Pico Basile.", "Home to the rare Preuss's monkey and various guenon species.", "A critical site for long-term primate behavioral research.", "Includes some of the last primary montane forests on Bioko.", "Protection efforts focus on preventing illegal hunting and logging.", "Part of the Pico Basile National Park conservation network."],
@@ -118,8 +121,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
     descriptionAdvanced: { hu: "Az Nsork Nemzeti Parkban található elefántkorridor kulcsfontosságú útvonal az erdei elefántok számára Egyenlítői-Gínea szárazföldi részén. Ez a természetes folyosó biztosítja a kapcsolatot a belső erdőségek és a szomszédos gaboni parkok között, lehetővé téve az elefántok szezonális vándorlását és genetikai sokféleségének megőrzését. Az erdei elefántok félénkebb és kisebb termetű rokonai a szavannai elefántoknak, és elengedhetetlen szerepet játszanak az esőerdő regenerációjában a magok elszórásával. A korridor védelme kiemelt feladat a vadorzás elleni küzdelemben. Nsork vidéke a sűrű növényzettel és mocsaras területekkel az utolsó menedékek egyike ezen fenséges állatok számára a régióban.",
       de: "In den dichten, weitgehend unberührten Regenwäldern um Nsork im äußersten Südosten Äquatorialguineas verlaufen historische Pfade der afrikanischen Waldelefanten, die als wichtige Migrationskorridore für diese sanften Riesen dienen. Waldelefanten, die kleiner und scheuer sind als ihre Verwandten in der Savanne, spielen eine unersetzliche Rolle bei der Erhaltung des Ökosystems, indem sie als 'Gärtner des Waldes' zur Verbreitung von Baumarten beitragen. Der Schutz dieser Korridore ist ein grenzüberschreitendes Anliegen, das Äquatorialguinea mit den benachbarten Staaten verbindet und einen der letzten großen Lebensräume für Waldelefanten in Zentralafrika sichert. Die Sicherung dieser Wege ist ein zentraler Pfeiler für das langfristige Überleben dieser Art. Biologie K7, Geografie K8.",
       en: "The Nsork Elephant Trails are ancient migration paths located in the dense, undisturbed rainforests of southeastern Rio Muni. These corridors are used by African forest elephants, a species that is smaller and more reclusive than its savannah relatives. These 'gardeners of the forest' play an irreplaceable role in the ecosystem by dispersing seeds and creating clearings that allow new growth to flourish. The Nsork region acts as a vital link in a trans-border habitat that connects Equatorial Guinea with protected areas in Gabon and Cameroon. Securing these trails from poaching and habitat fragmentation is essential for the long-term survival of the forest elephant population in Central Africa. Curriculum: Biology K7, Geography K8.",
-      ro: "Coridorul elefanților din regiunea Nsork reprezintă o verigă vitală în rețeaua ecologică a Guineei Ecuatoriale continentale, facilitând migrația liberă a elefanților de pădure (Loxodonta cyclotis) între Parcul Național Altos de Nsork și zonele protejate vecine din Gabon. Această zonă de pădure tropicală primară, caracterizată prin văi adânci și dealuri acoperite de o vegetație densă, oferă rute sigure și surse bogate de hrană pentru aceste mamifere impunătoare. Elefanții de pădure sunt ingineri ai ecosistemului, creând poteci și poieni care susțin biodiversitatea întregii regiuni. Izolarea regiunii Nsork, situată în extremitatea sud-estică a țării, a permis menținerea unor populații sănătoase de elefanți, departe de presiunile urbanizării. Protejarea acestui coridor transfrontalier este esențială nu doar pentru supraviețuirea elefanților, ci și pentru menținerea echilibrului ecologic al întregului bazin al fluviului Congo."
-    },
+      ro: "Coridorul elefanților din regiunea Nsork reprezintă o verigă vitală în rețeaua ecologică a Guineei Ecuatoriale continentale, facilitând migrația liberă a elefanților de pădure (Loxodonta cyclotis) între Parcul Național Altos de Nsork și zonele protejate vecine din Gabon. Această zonă de pădure tropicală primară, caracterizată prin văi adânci și dealuri acoperite de o vegetație densă, oferă rute sigure și surse bogate de hrană pentru aceste mamifere impunătoare. Elefanții de pădure sunt ingineri ai ecosistemului, creând poteci și poieni care susțin biodiversitatea întregii regiuni. Izolarea regiunii Nsork, situată în extremitatea sud-estică a țării, a permis menținerea unor populații sănătoase de elefanți, departe de presiunile urbanizării. Protejarea acestui coridor transfrontalier este esențială nu doar pentru supraviețuirea elefanților, ci și pentru menținerea echilibrului ecologic al întregului bazin al fluviului Congo.",
+image: "/poi-images/elefantenkorridor-nsork-life-v2.webp"
+},
     factsAdvanced: { hu: ["Strategiai vándorlási útvonal az afrikai erdei elefántok számára.", "Összeköti Egyenlítői-Gínea belső erdőit a gaboni természetvédelmi területekkel.", "Az erdei elefántok kulcsszerepet játszanak az esőerdő ökológiájában.", "Nsork tartomány egyik legfontosabb természetvédelmi projektje.", "A korridor mentén tilos a mezőgazdasági tevékenység és a vadászat.", "Rendszeres vadőri járőrök vigyázzák az elefántcsordák biztonságát."],
       de: ["Wichtige Rolle bei der Verbreitung von Samen im Regenwald.", "Nsork ist ein Bindeglied in einem grenzüberschreitenden Habitat.", "Die Pfade werden seit Generationen von den Elefanten genutzt.", "Hoher Schutzbedarf aufgrund der Bedrohung durch Wilderei.", "Die Region umfasst eine enorme Dichte an intakter Primärvegetation."],
       en: ["Ancient migration routes for the reclusive African forest elephant.", "Located in the remote southeastern wilderness of Rio Muni.", "Forest elephants are vital for seed dispersal in the rainforest.", "Part of a critical trans-boundary conservation landscape.", "The region features exceptionally intact primary forest cover.", "Protected within the Altos de Nsork National Park area.", "A priority zone for international anti-poaching efforts."],
@@ -152,8 +156,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
     descriptionAdvanced: { ro: "Habitatul cimpanzeilor din Parcul Național Monte Alén reprezintă unul dintre cele mai importante sanctuare pentru primatele din Africa Centrală. Situat în inima regiunii continentale Río Muni, acest ecosistem de pădure tropicală primară oferă condiții ideale pentru supraviețuirea cimpanzeilor centrali și a gorilelor de câmpie vestice. Relieful accidentat, cu pante abrupte și numeroase cursuri de apă, a protejat zona de exploatarea forestieră intensivă, păstrând un refugiu vital pentru biodiversitate. Cercetătorii studiază aici structurile sociale complexe și strategiile de hrănire ale primatelor, contribuind la eforturile globale de conservare a speciilor pe cale de dispariție. Vizitatorii pot experimenta frumusețea sălbatică a junglei prin trasee ghidate, învățând despre importanța protejării acestor rude apropiate ale omului și a habitatului lor fragil.",
       de: "Im dichten Regenwald des Monte Alén Nationalparks lebt eine der bedeutendsten Populationen von Schimpansen und westlichen Flachlandgorillas in Äquatorialguinea. Diese Primaten sind essenzielle Bewohner dieses komplexen Ökosystems und ihre Beobachtung bietet wertvolle Einblicke in ihre soziale Struktur und Verhaltensweise. Da diese Tiere hochgradig bedroht sind, ist das Habitat im Monte Alén ein streng geschütztes Gebiet, das für Forscher und Naturschützer von unschätzbarem Wert ist. Die Erhaltung dieser Populationen erfordert ein tiefgreifendes Verständnis ihrer Bedürfnisse und einen Schutz ihrer riesigen Streifgebiete, die sich weit über die Grenzen des Parks hinaus erstrecken können. Biologie K8, Ökologie K7.",
       en: "The Monte Alén Chimpanzee Habitat is one of the most important centers for primate conservation in Central Africa, located in the heart of Equatorial Guinea's mainland. This vast area of primary tropical rainforest provides a safe haven for significant populations of central chimpanzees and western lowland gorillas. The rugged terrain and steep slopes have historically protected this region from large-scale logging, preserving a complex ecosystem where primates can thrive. Researchers here study the animals' social interactions, tool use, and foraging habits, contributing to global knowledge about these endangered relatives of humans. Sustainable eco-tourism allows visitors to experience the beauty of the jungle while supporting local conservation and community development. Curriculum: Biology K8, Ecology K7.",
-      hu: "A Monte Alén Nemzeti Park mélyén található csimpánz-élőhely Közép-Afrika egyik legfontosabb természetvédelmi területe, ahol a vadon élő csimpánzok stabil populációja él. Ez az érintetlen esőerdő tökéletes feltételeket biztosít a főemlősök számára, bőséges gyümölcsforrásokkal és biztonságos fészkelőhelyekkel a hatalmas fák lombkoronájában. A park biológusai és vadőrei folyamatosan figyelik a közösségeket, segítve megérteni társas viselkedésüket és ökológiai szerepüket. A látogatók számára a terület csak szigorú szabályok mellett és szakképzett vezetőkkel látogatható, minimálisra csökkentve az állatok zavarását. A csimpánz-élőhely megőrzése kulcsfontosságú az ország globális biodiverzitási elkötelezettsége szempontjából. Itt a természet valódi vadsága és az evolúciós rokonainkkal való találkozás élménye várja azokat, akik bemerészkednek Río Muni szívébe."
-    },
+      hu: "A Monte Alén Nemzeti Park mélyén található csimpánz-élőhely Közép-Afrika egyik legfontosabb természetvédelmi területe, ahol a vadon élő csimpánzok stabil populációja él. Ez az érintetlen esőerdő tökéletes feltételeket biztosít a főemlősök számára, bőséges gyümölcsforrásokkal és biztonságos fészkelőhelyekkel a hatalmas fák lombkoronájában. A park biológusai és vadőrei folyamatosan figyelik a közösségeket, segítve megérteni társas viselkedésüket és ökológiai szerepüket. A látogatók számára a terület csak szigorú szabályok mellett és szakképzett vezetőkkel látogatható, minimálisra csökkentve az állatok zavarását. A csimpánz-élőhely megőrzése kulcsfontosságú az ország globális biodiverzitási elkötelezettsége szempontjából. Itt a természet valódi vadsága és az evolúciós rokonainkkal való találkozás élménye várja azokat, akik bemerészkednek Río Muni szívébe.",
+image: "/poi-images/schimpansen-habitat-montealen-life-v2.webp"
+},
     factsAdvanced: { ro: ["Adăpostește o populație semnificativă de cimpanzei centrali (Pan troglodytes troglodytes).", "Face parte din Parcul Național Monte Alén, înființat în 1997.", "Zona acoperă peste 2.000 de kilometri pătrați de pădure virgină.", "Este un sit cheie pentru monitorizarea gorilelor de câmpie vestice.", "Altitudinea variază între 300 și 1.200 de metri peste nivelul mării.", "Eforturile de conservare sunt susținute de programe internaționale precum ECOFAC.", "Observarea primatelor se face exclusiv cu ghizi specializați și permis.", "Regiunea este cunoscută pentru nivelul ridicat de endemism al florei."],
       de: ["Monte Alén ist eine Hochburg für Schimpansen und Flachlandgorillas.", "Primaten fungieren als wichtige Indikatoren für Waldgesundheit.", "Die Beobachtung ist streng limitiert und nur mit Expertenführern möglich.", "Die Populationen unterliegen einem laufenden internationalen Monitoring.", "Die enorme Waldfläche bietet Raum für komplexe soziale Gruppenstrukturen.", "Bildet ein Zentrum für Forschung und Schutzmaßnahmen auf dem Festland."],
       en: ["A major stronghold for central chimpanzees and lowland gorillas.", "Part of the 2,000 km² Monte Alén National Park.", "Features a high density of primary rainforest and endemic flora.", "Key site for international research on primate social structures.", "Primates are monitored by trained local rangers and scientists.", "Located in the Centro Sur Province with varied elevations.", "One of the few places in Africa to see both gorillas and chimps."],
@@ -186,8 +191,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
     descriptionAdvanced: { ro: "Plantația de cacao Sampaka, situată pe insula Bioko, este un simbol viu al istoriei economice și coloniale a Guineei Ecuatoriale. Fondată în perioada spaniolă, plantația a devenit celebră pentru producția de cacao de înaltă calitate, beneficiind de solul vulcanic extrem de fertil și de climatul tropical umed al insulei. Arhitectura colonială a clădirilor administrative și a depozitelor a fost păstrată cu grijă, oferind vizitatorilor o călătorie în timp în epoca de aur a exporturilor de cacao. Astăzi, Sampaka continuă să producă boabe de cacao premium, utilizate de ciocolatieri renumiți din întreaga lume. Un tur al plantației dezvăluie întregul proces, de la recoltarea manuală a păstăilor până la fermentarea și uscarea boabelor la soare, evidențiind măiestria tradițională care conferă ciocolatei locale aroma sa distinctă și rafinată.",
       de: "Die Kakaoplantage Sampaka auf der Insel Bioko ist ein lebendiges Zeugnis der kolonialen Geschichte und ein moderner Akteur in der Produktion von weltweit geschätztem, hochwertigem Kakao. Auf dem fruchtbaren vulkanischen Boden der Insel gewachsen, zeichnet sich der dort produzierte Kakao durch eine besondere aromatische Qualität aus. Besucher der Plantage können nicht nur den traditionellen Anbauprozess kennenlernen, sondern auch die historische koloniale Architektur bewundern, die das Gelände prägt. Die Plantage verbindet handwerkliche Tradition mit der Nachfrage nach Qualität und Nachhaltigkeit und ist somit ein wichtiger wirtschaftlicher und kultureller Bestandteil der Region, der die Geschichte des Kakaos auf Bioko lebendig hält. Landwirtschaft K7, Geschichte K8.",
       en: "Sampaka Cocoa Plantation on Bioko Island is a living monument to Equatorial Guinea's economic history and its reputation for producing world-class cocoa. Founded during the Spanish colonial era, the plantation benefits from the island's fertile volcanic soil and high humidity, which produce cocoa beans known for their intense aroma and fine flavor. The site preserves beautiful examples of colonial architecture, including administrative buildings and traditional drying sheds. Today, Sampaka continues to produce premium cocoa using artisanal methods, supplying renowned chocolate makers globally. A visit offers insight into the entire production process, from harvesting the pods to the delicate fermentation and sun-drying of the beans. Curriculum: Agriculture K7, History K8.",
-      hu: "A Sampaka kakaóültetvény Bioko szigetének egyik leghíresebb és legrégebbi mezőgazdasági birtoka, amely a sziget 'aranykorának' nevezett kakaótermesztés élő múzeuma. Az ültetvény Bioko szigetének északi részén található, és ma is aktívan termeli a világhírű guineai kakaót, amelyet aromájáért és kiváló minőségéért a nemzetközi piacon is keresnek. A látogatók megismerhetik a teljes folyamatot a kakaóbabok szüretelésétől a fermentáláson át a szárításig a hagyományos szárítóasztalokon. A Sampaka udvarház a gyarmati építészet gyöngyszeme, ahol egykor a birtok igazgatása zajlott. Az ültetvény nemcsak gazdasági egység, hanem kulturális örökség is, amely bemutatja azt a fáradságos munkát és szakértelmet, amely évszázadokon át meghatározta Egyenlítői-Guinea arculatát. A helyszínen megkóstolható a helyben készült kézműves csokoládé is."
-    },
+      hu: "A Sampaka kakaóültetvény Bioko szigetének egyik leghíresebb és legrégebbi mezőgazdasági birtoka, amely a sziget 'aranykorának' nevezett kakaótermesztés élő múzeuma. Az ültetvény Bioko szigetének északi részén található, és ma is aktívan termeli a világhírű guineai kakaót, amelyet aromájáért és kiváló minőségéért a nemzetközi piacon is keresnek. A látogatók megismerhetik a teljes folyamatot a kakaóbabok szüretelésétől a fermentáláson át a szárításig a hagyományos szárítóasztalokon. A Sampaka udvarház a gyarmati építészet gyöngyszeme, ahol egykor a birtok igazgatása zajlott. Az ültetvény nemcsak gazdasági egység, hanem kulturális örökség is, amely bemutatja azt a fáradságos munkát és szakértelmet, amely évszázadokon át meghatározta Egyenlítői-Guinea arculatát. A helyszínen megkóstolható a helyben készült kézműves csokoládé is.",
+image: "/poi-images/kakaoplantage-sampaka-life-v2.webp"
+},
     factsAdvanced: { ro: ["Este una dintre cele mai vechi și faimoase plantații de cacao de pe insula Bioko.", "Beneficiază de solul vulcanic bogat în nutrienți de la poalele Pico Basile.", "Cacaoa produsă aici este clasificată ca fiind de tip \"fino de aroma\".", "Include clădiri istorice din perioada colonială spaniolă bine conservate.", "Procesul de producție respectă metodele tradiționale de uscare naturală.", "Sampaka a contribuit istoric la poziția țării ca lider mondial în exportul de cacao.", "Vizitatorii pot degusta produse din ciocolată artizanală fabricate pe loc.", "Plantația servește ca model pentru agricultura sustenabilă în regiune."],
       de: ["Die Plantage blickt auf eine lange Tradition der Kakaoproduktion zurück.", "Bietet Besuchern detaillierte Führungen zur Verarbeitung der Kakaobohnen.", "Die Böden auf Bioko sind ideal für anspruchsvolle Kakaosorten.", "Architektonisch beeindruckende Gebäude aus der Kolonialzeit sind erhalten.", "Ein wichtiger Beitrag zur lokalen Identität durch Qualitätsprodukte.", "Die Plantagenführung bietet Einblick in die Geschichte und den Anbau."],
       en: ["One of the oldest and most prestigious cocoa estates on Bioko.", "Produces 'fino de aroma' beans prized by global chocolatiers.", "Located on the fertile volcanic slopes near the capital, Malabo.", "Features well-preserved Spanish colonial-style buildings.", "Maintains traditional sun-drying and fermentation techniques.", "A symbol of the island's historic role in the global cocoa trade.", "Offers educational tours and artisanal chocolate tastings."],
@@ -215,8 +221,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Kaffeegärten von Moca",
       hu: "Mocai kávékertek",
       ro: "Grădinile de cafea din Moca",
-      en: "Moca Coffee Gardens"
-    },
+      en: "Moca Coffee Gardens",
+image: "/poi-images/kaffeegaerten-moca-life-v2.webp"
+},
     description: {
       de: "Das kühle Hochland von Moca bietet ideale Bedingungen für den Anbau von Kaffee auf vulkanischen Böden.",
       hu: "Moca hűvös felföldje ideális feltételeket biztosít a kávétermesztéshez a vulkáni talajon.",
@@ -238,7 +245,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Specializes in high-altitude Arabica coffee production.", "Located at 1,300 meters elevation on the Moca Plateau.", "Grown by the local Bubi community using traditional methods.", "Benefits from frequent mist and cool volcanic soils.", "Cultivated in shade systems that protect the native forest.", "A key source of income for the remote southern villages.", "Renowned for the beans' unique and refined flavor profile."],
       de: ["Traditionelles Kaffeanbaugebiet auf dem Moka-Plateau.", "Optimale Bedingungen durch fruchtbare Vulkanböden.", "Historische Basis für den Wohlstand der Insel Bioko.", "Anbau hochwertiger Arabica- und Robusta-Sorten.", "Wichtige Erwerbsquelle für die lokale Bubi-Bevölkerung.", "Kühles Hochlandklima ideal für langsames Reifen.", "Beispiel für nachhaltige und naturnahe Landnutzung."],
       hu: ["Hűvös magaslati klímán fekvő tradicionális kávéültetvények.", "A vulkáni talaj egyedi és gazdag aromát ad az itt termő kávénak.", "Kistermelői összefogással és kézi szüreteléssel működő gazdaságok.", "Moka régiójának legfőbb mezőgazdasági és gazdasági bázisa.", "Természetközeli, fenntartható termesztési módokat alkalmaznak.", "A kávévirágzás idején az ültetvények hófehér virágba borulnak.", "Kiváló célpont az agroturizmus és a gasztronómia kedvelői számára."]
-    }},
+    }
+  },
   {
     id: "palmoel-farmen-mbini-life-v2",
     type: "agriculture",
@@ -248,8 +256,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Palmöl-Farmen von Mbini",
       hu: "Mbini pálmaolaj-farmok",
       ro: "Fermele de ulei de palmier din Mbini",
-      en: "Mbini Palm Oil Farms"
-    },
+      en: "Mbini Palm Oil Farms",
+image: "/poi-images/palmoel-farmen-mbini-life-v2.webp"
+},
     description: {
       de: "Weite Gebiete um Mbini werden für die Gewinnung von Palmöl genutzt, einem wichtigen lokalen Agrarprodukt.",
       hu: "Mbini körüli hatalmas területeket pálmaolaj előállítására használnak, amely fontos helyi mezőgazdasági termék.",
@@ -271,7 +280,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Mbini is a major center for palm oil production in Rio Muni.", "The oil palm is an indigenous species to West and Central Africa.", "Provides a critical source of vitamin-rich cooking oil for the nation.", "Farms are vital for the livelihoods of the coastal rural population.", "Traditional red palm oil is extracted using time-honored methods.", "Supports local small-scale industries and markets in Mbini.", "Focus of national programs for sustainable agricultural growth."],
       de: ["Wichtige Palmöl-Produktionsregion bei Mbini.", "Palmöl als essentielles Grundnahrungsmittel der Region.", "Geprägt durch traditionelle Ernte- und Presstechniken.", "Sichert das Einkommen zahlreicher Bauernfamilien.", "Basis für lokale Seifen- und Lebensmittelproduktion.", "Bestimmendes Element der tropischen Küstenlandschaft.", "Zeugnis handwerklicher Agrarkultur in Río Muni."],
       hu: ["Río Muni legnagyobb összefüggő olajpálma-termesztő vidéke.", "Létfontosságú forrása a hazai étolaj- és szappangyártásnak.", "A Benito-torkolat környékének meghatározó mezőgazdasági ágazata.", "Modern feldolgozó kapacitásokkal rendelkező agráripari zóna.", "Támogatja a vidéki foglalkoztatást és a technológiai fejlődést.", "Az olajpálma minden része (levél, törzs, gyümölcs) hasznosításra kerül.", "Stratégiai szerepet kap az ország élelmezési önrendelkezésében."]
-    }},
+    }
+  },
   {
     id: "maniokanbau-evinayong-life-v2",
     type: "agriculture",
@@ -281,8 +291,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Maniok-Felder von Evinayong",
       hu: "Evinayongi maniokmezők",
       ro: "Câmpurile de manioc din Evinayong",
-      en: "Evinayong Cassava Fields"
-    },
+      en: "Evinayong Cassava Fields",
+image: "/poi-images/maniokanbau-evinayong-life-v2.webp"
+},
     description: {
       de: "Die Region um Evinayong ist das Zentrum für den Maniokanbau, das Grundnahrungsmittel der lokalen Bevölkerung.",
       hu: "Evinayong régiója a manioktermesztés központja, amely a helyi lakosság alapvető élelmiszere.",
@@ -304,7 +315,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["The primary staple crop for the interior highland regions.", "Evinayong is a major hub for cassava trade and processing.", "Tuberous roots are harvested year-round to ensure food security.", "Processed into traditional foods like gari and fermented bread.", "Cultivation involves intense manual labor and communal effort.", "A resilient crop that thrives in the humid tropical climate.", "Both the roots and the protein-rich leaves are consumed locally."],
       de: ["Zentrales Anbaugebiet für Maniok in Centro Sur.", "Maniok als wichtigste Kalorienquelle des Landes.", "Traditionelle Bewirtschaftung oft in Frauenkooperativen.", "Basis für die Produktion von Maniokmehl und Brot.", "Widerstandsfähige Kulturpflanze für tropische Klimate.", "Prägt die landwirtschaftliche Struktur um Evinayong.", "Unverzichtbar für die regionale Ernährungssouveränität."],
       hu: ["A kontinentális belső rész legfontosabb alapélelmiszer-termelő vidéke.", "A maniok (cassave) a helyi lakosság napi étrendjének fő forrása.", "Hagyományos, családi alapú mezőgazdaság jellemzi a régiót.", "Evinayong a maniokfeldolgozás és kereskedelem regionális központja.", "Itt készülnek a legjobb minőségű hagyományos chikwangue rudak.", "A termesztés és feldolgozás során megőrizték az ősi technikákat.", "A vidék gazdasági stabilitásának és önellátásának alapja."]
-    }},
+    }
+  },
   {
     id: "bananenhaine-baney-life-v2",
     type: "agriculture",
@@ -314,8 +326,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Bananenhaine von Baney",
       hu: "Baneyi banánligetek",
       ro: "Livezile de banani din Baney",
-      en: "Baney Banana Groves"
-    },
+      en: "Baney Banana Groves",
+image: "/poi-images/bananenhaine-baney-life-v2.webp"
+},
     description: {
       de: "In den fruchtbaren Gebieten von Baney wachsen verschiedene Bananen- und Kochbananensorten für den lokalen Markt.",
       hu: "Baney termékeny területein különféle banán- és főzőbanánfajták nőnek a helyi piac számára.",
@@ -337,7 +350,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["The largest supplier of bananas and plantains for Malabo.", "Grown in exceptionally fertile volcanic soil in northeastern Bioko.", "Features multiple local varieties adapted to the island's climate.", "Plantains (platano) are a core ingredient in national dishes.", "Most groves are family-owned and manually cultivated.", "Provides a vital ecological buffer against soil erosion.", "Central to the weekly agricultural markets in the Baney district."],
       de: ["Ausgedehnte Bananen- und Plátano-Pflanzungen in Baney.", "Hauptversorgungsquelle für die Märkte von Malabo.", "Nutzt die fruchtbaren vulkanischen Böden Biokos.", "Wichtiger Bestandteil der täglichen lokalen Ernährung.", "Sichert die Existenzgrundlage vieler Familien in Baney.", "Traditioneller Anbau in Mischkulturen mit Kakao.", "Einzigartiges grünes Landschaftsbild der Nordinsel."],
       hu: ["Bioko szigetének legjelentősebb banán- és plantain-termelő körzete.", "A vulkáni talaj rendkívüli termékenységet biztosít az ültetvényeknek.", "Elsődleges forrása a malabói piacok gyümölcsellátásának.", "Változatos banánfajták, köztük a fontos alapélelmiszernek számító főzőbanán.", "Hagyományos ligeti gazdálkodás, amely megőrzi a táj természetes jellegét.", "Baney község gazdasági identitásának és jólétének alapköve.", "A ligetek fontos mikroélőhelyet biztosítanak a helyi madárvilágnak."]
-    }},
+    }
+  },
   {
     id: "nationalpark-malabo-kids-life-v2",
     type: "kid-landmark",
@@ -347,8 +361,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Nationalpark von Malabo (Freizeitpark)",
       hu: "Malabói Nemzeti Park (szabadidőpark)",
       ro: "Parcul Național din Malabo (parc de agrement)",
-      en: "National Park of Malabo (Leisure Park)"
-    },
+      en: "National Park of Malabo (Leisure Park)",
+image: "/poi-images/nationalpark-malabo-kids-life-v2.webp"
+},
     description: {
       de: "Ein großer, modern gestalteter Stadtpark in Malabo mit Grünflächen, Seen und Spielplätzen für Familien.",
       hu: "Egy nagy, modern kialakítású városi park Malabóban, zöldfelületekkel, tavakkal és játszóterekkel a családok számára.",
@@ -370,7 +385,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["The largest and most modern urban park in Equatorial Guinea.", "Features artificial lakes with boat rentals for family fun.", "Equipped with multiple secure and modern children's playgrounds.", "Includes sports facilities, walking trails, and restaurants.", "A central venue for cultural festivals and national events.", "Meticulously maintained green spaces in the heart of Malabo.", "Provides a safe and healthy environment for urban recreation."],
       de: ["Große städtische Parkanlage in der Hauptstadt Malabo.", "Bietet modernste und sichere Spielplätze für Kinder.", "Wichtiger Ort für Familienerholung und Freizeit.", "Zentrum für Umweltbildung und Naturerfahrung.", "Verfügt über Sportanlagen und befestigte Wanderwege.", "Symbol für moderne und familienfreundliche Stadtplanung.", "Grüne Lunge der Stadt mit hoher Artenvielfalt."],
       hu: ["A főváros legmodernebb és legnagyobb családi rekreációs központja.", "Biztonságos játszóterekkel és interaktív elemekkel felszerelt park.", "Népszerű helyszín csónakázáshoz, sportoláshoz és hétvégi piknikekhez.", "Fontos szerepet tölt be a városi gyermekek környezeti nevelésében.", "Számos kulturális és szórakoztató esemény befogadóhelye.", "Gondozott kertek és egzotikus növényfajok díszítik a területet.", "A modern Malabo életminőségének és fejlődésének egyik legfőbb jelzője."]
-    }},
+    }
+  },
   {
     id: "promenaden-spielplatz-bata-life-v2",
     type: "kid-landmark",
@@ -380,8 +396,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Kinderpark an der Bata-Promenade",
       hu: "Bata sétány gyerekpark",
       ro: "Parcul copiilor de pe faleza din Bata",
-      en: "Bata Promenade Kids Park"
-    },
+      en: "Bata Promenade Kids Park",
+image: "/poi-images/promenaden-spielplatz-bata-life-v2.webp"
+},
     description: {
       de: "Ein bunter Spielplatz an der Uferpromenade von Bata, der Kindern einen sicheren Ort zum Spielen am Meer bietet.",
       hu: "Színes játszótér Bata tengerparti sétányán, amely biztonságos helyet kínál a gyerekeknek a játékhoz a tengernél.",
@@ -403,7 +420,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Located on the scenic waterfront promenade of the city of Bata.", "Offers a safe, pedestrian-only environment for children's play.", "Features modern, salt-resistant playground equipment.", "Provides panoramic views over the Atlantic Ocean.", "A popular meeting point for families in the Litoral Province.", "Part of a large-scale project for urban renewal and modernization.", "Free and open to the public, fostering community social life."],
       de: ["Moderner Freizeitbereich an der Küstenpromenade von Bata.", "Beliebtester Spielplatz der Stadt mit Meerblick.", "Sicherer Ort für Kinder inmitten der Metropole.", "Teil des preisgekrönten Promenadenprojekts von Bata.", "Abendlicher Treffpunkt für Familien und Jugendliche.", "Sorgt für hohe Lebensqualität in der Hafenstadt.", "Fördert Bewegung und soziales Miteinander im Freien."],
       hu: ["Bata híres tengerparti sétányának egyik legnépszerűbb pontja.", "Modern és biztonságos kültéri játékok széles választéka gyerekeknek.", "Páratlan panoráma nyílik az óceánra és a városi horizontra.", "Központi találkozóhely a batai családok és a látogatók számára.", "Az esti órákban is biztonságosan használható, kivilágított terület.", "Közvetlen közelében számos vendéglátóhely és pihenőzóna található.", "A városi szabadidős infrastruktúra fejlődésének kiváló példája."]
-    }},
+    }
+  },
   {
     id: "freizeitpark-sipopo-life-v2",
     type: "kid-landmark",
@@ -413,8 +431,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Abenteuerspielplatz Sipopo",
       hu: "Sipopo kalandjátszótér",
       ro: "Locul de joacă de aventură Sipopo",
-      en: "Sipopo Adventure Playground"
-    },
+      en: "Sipopo Adventure Playground",
+image: "/poi-images/freizeitpark-sipopo-life-v2.webp"
+},
     description: {
       de: "In der luxuriösen Zone von Sipopo gibt es gepflegte Freizeitanlagen für Kinder in Strandnähe.",
       hu: "Sipopo luxusövezetében jól karbantartott szabadidős létesítmények találhatók a gyerekek számára a tengerpart közelében.",
@@ -436,7 +455,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Part of the prestigious Sipopo Resort and diplomatic zone.", "Located in a scenic coastal area with access to private beaches.", "Features adventure-themed play structures for various age groups.", "Built to high international safety and quality standards.", "Surrounded by exotic tropical gardens and native trees.", "A primary destination for international guests and delegations.", "Provides professional supervision and secure family facilities."],
       de: ["Exklusiver Freizeitkomplex im Touristenzentrum Sipopo.", "Bietet hochwertige Attraktionen und Sportmöglichkeiten.", "Eingebettet in eine luxuriöse und sichere Umgebung.", "Wichtiger Ort für Firmenevents und Familienfeiern.", "Symbol für modernen Qualitätstourismus im Land.", "Direkt am Meer gelegen mit erstklassiger Infrastruktur.", "Teil des zukunftsweisenden Stadtentwicklungsprojekts."],
       hu: ["Malabo melletti prémium szabadidős és konferencia komplexum.", "Trópusi parkok, luxusszállodák és magánstrandok gyűjtőhelye.", "Kiemelt biztonsági zóna, amely ideális a nyugodt pihenéshez.", "Számos nemzetközi diplomáciai találkozó és csúcs helyszíne.", "Világszínvonalú sportlétesítményekkel és wellness részleggel rendelkezik.", "Gasztronómiai szempontból az ország egyik vezető központja.", "A modern és elegáns egyenlítői-guineai életstílus szimbóluma."]
-    }},
+    }
+  },
   {
     id: "vogelreservat-riocampo-life-v2",
     type: "animal-habitat",
@@ -446,8 +466,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Vogelreservat Rio Campo",
       hu: "Rio Campo madárrezervátum",
       ro: "Rezervația de păsări Rio Campo",
-      en: "Rio Campo Bird Sanctuary"
-    },
+      en: "Rio Campo Bird Sanctuary",
+image: "/poi-images/vogelreservat-riocampo-life-v2.webp"
+},
     description: {
       de: "Das Mündungsgebiet des Rio Campo im Norden bietet zahlreichen Zugvögeln und einheimischen Arten Schutz.",
       hu: "A Rio Campo északi torkolatvidéke számos vándormadárnak és őshonos fajnak nyújt menedéket.",
@@ -469,7 +490,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Critical habitat for over 150 identified bird species.", "Located in the ecologically rich Ntem River estuary.", "A key node on the major West African bird migration route.", "Features some of the best-preserved mangroves in the country.", "Nesting site for the iconic African fish eagle.", "Offers a unique environment for scientific and ecological study.", "Important site for cross-border environmental cooperation."],
       de: ["Wichtiges Schutzgebiet für Zug- und Wasservögel.", "Gelegen an der Mündung des Campo-Flusses im Norden.", "Beherbergt seltene Arten wie den Graupapagei.", "Bietet Bildungsprogramme für Schulen und Kinder an.", "Einzigartige Mischung aus Mangroven und Urwald.", "International bedeutendes Gebiet für den Vogelschutz.", "Strategischer Grenzpunkt mit hohem Naturwert."],
       hu: ["Kiemelt fontosságú madárvédelmi terület az északi határvidéken.", "Számos ritka és veszélyeztetett vándormadár faj pihenőhelye.", "Változatos élőhelyek: folyótorkolat, mangrove és homokpadok.", "Fontos bázisa a nemzetközi ornitológiai kutatásoknak.", "Egyedülálló lehetőséget nyújt a természetfotózásra és madármegfigyelésre.", "A Guineai-öböl egyik leggazdagabb partmenti ökoszisztémája.", "Szigorú természetvédelmi szabályok óvják a terület zavartalanságát."]
-    }},
+    }
+  },
   {
     id: "seekuh-habitat-cogo-life-v2",
     type: "animal-habitat",
@@ -479,8 +501,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Seekuh-Lagunen von Cogo",
       hu: "Cogói manátusz-lagúnák",
       ro: "Lagunele lamantinilor din Cogo",
-      en: "Cogo Manatee Lagoons"
-    },
+      en: "Cogo Manatee Lagoons",
+image: "/poi-images/seekuh-habitat-cogo-life-v2.webp"
+},
     description: {
       de: "In den ruhigen Gewässern des Muni-Ästuars bei Cogo leben afrikanische Seekühe in den Mangroven.",
       hu: "A Cogó melletti Muni-torkolat nyugodt vizeiben afrikai manátuszok élnek a mangrovék között.",
@@ -502,7 +525,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["One of the primary habitats for the endangered West African manatee.", "Located within the vast and diverse Muni River estuary system.", "Manatees are protected under national and international law.", "The region provides abundant aquatic plants for their diet.", "A key focus for local coastal conservation and awareness.", "The ecosystem also supports diverse fish and crustacean life.", "Pollution and habitat loss are the primary threats to the species."],
       de: ["Wichtiger Rückzugsort für die Afrikanische Seekuh.", "Gelegen im brackigen Ästuar des Muni-Flusses bei Cogo.", "Reiches Vorkommen an Seegras als Hauptnahrungsquelle.", "Teil eines grenzübergreifenden Naturschutzkorridors.", "Spezialisierte Mangroven-Ökosysteme bieten Schutz.", "Fokus nationaler Programme zum Schutz von Meeressäugern.", "Wichtiges Ziel für wissenschaftliche Feldstudien."],
       hu: ["A ritka afrikai manátuszok (tengeri tehenek) egyik utolsó bástyája.", "Védett mangrove-csatornák és sekély torkolati vizek jellemzik.", "Kiemelt jelentőségű tengerbiológiai kutatási terület.", "A manátuszok fontos szerepet játszanak a vízi ökoszisztéma egyensúlyában.", "A helyi halászati szabályozás szigorúan védi az állatok nyugalmát.", "Az ország egyik legkülönlegesebb és legérzékenyebb vadon élőhelye.", "Fontos célpontja a fenntartható és felelős ökoturizmusnak."]
-    }},
+    }
+  },
   {
     id: "gemuesezentrum-mongomo-life-v2",
     type: "agriculture",
@@ -512,8 +536,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Gemüsegärten von Mongomo",
       hu: "Mongomói zöldségeskertek",
       ro: "Grădinile de legume din Mongomo",
-      en: "Mongomo Vegetable Gardens"
-    },
+      en: "Mongomo Vegetable Gardens",
+image: "/poi-images/gemuesezentrum-mongomo-life-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Böden um Mongomo werden intensiv für den Anbau von Tomaten, Paprika und anderem Gemüse genutzt.",
       hu: "Mongomo körüli termékeny talajt intenzíven használják paradicsom, paprika és egyéb zöldségek termesztésére.",
@@ -535,7 +560,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["The largest supplier of fresh vegetables for the eastern mainland.", "Utilizes modern irrigation and greenhouse farming techniques.", "Grows a wide variety of essential crops including tomatoes and peppers.", "A key project for achieving national food independence.", "Empowers local farmers through training and technical support.", "Supplies the markets of Mongomo, Ebebiyín, and beyond.", "Demonstrates the potential of modern agro-industry in the interior."],
       de: ["Modernes Agrarzentrum für Gemüseanbau in Mongomo.", "Nutzt Gewächshäuser und effiziente Bewässerungssysteme.", "Zentrum für die Ausbildung von Agrartechnikern.", "Sichert die Versorgung mit frischen Vitaminen in der Region.", "Fördert den Einsatz nachhaltiger Düngemethoden.", "Wichtiger Pfeiler der nationalen Ernährungssicherheit.", "Bietet Bildungsführungen für Schulklassen an."],
       hu: ["A kontinentális régió legjelentősebb kertészeti és oktatási központja.", "Sokszínű zöldségkínálat: paradicsom, paprika és helyi különlegességek.", "Modern öntözési és tápanyag-utánpótlási technikákat alkalmaznak.", "Alapvető fontosságú a belső területek élelmiszer-biztonsága szempontjából.", "Támogatja a helyi kistermelők piaci integrációját és képzését.", "A zöldségtermesztés révén csökken a külföldi importfüggőség.", "Példaértékű agrárprojekt, amely a vidéki jólétet szolgálja."]
-    }},
+    }
+  },
   {
     id: "zuckerrohr-anisoc-life-v2",
     type: "agriculture",
@@ -545,8 +571,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Zuckerrohr-Felder von Añisoc",
       hu: "Añisoci cukornádmezők",
       ro: "Câmpurile de trestie de zahăr din Añisoc",
-      en: "Añisoc Sugarcane Fields"
-    },
+      en: "Añisoc Sugarcane Fields",
+image: "/poi-images/zuckerrohr-anisoc-life-v2.webp"
+},
     description: {
       de: "Rund um Añisoc gibt es bedeutende Flächen für den Zuckerrohranbau, der oft zur Herstellung lokaler Getränke dient.",
       hu: "Añisoc körül jelentős területek vannak a cukornádtermesztésre, amelyet gyakran helyi italok készítésére használnak.",
@@ -568,7 +595,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Añisoc is a primary center for sugarcane cultivation in the interior.", "Used for producing fresh juice and traditional local drinks.", "Grown on fertile lands along the central river systems.", "Harvesting and processing are mostly done using artisanal methods.", "An important component of the local rural economy and trade.", "Sugarcane by-products are often used as organic fertilizer.", "Reflects the agricultural diversity of the Rio Muni plateau."],
       de: ["Traditionelles Zuckerrohranbaugebiet um die Stadt Anisoc.", "Hauptrohstoff für die lokale Rum- und Saftproduktion.", "Prägt die ländliche Wirtschaft der Provinz Wele-Nzas.", "Ernte erfolgt oft noch in traditioneller Handarbeit.", "Wichtiger kultureller und kulinarischer Fixpunkt.", "Nutzt die hohen Niederschlagsmengen der Region aus.", "Sichert die Existenzgrundlage zahlreicher Kleinbauern."],
       hu: ["Río Muni központi részének legjelentősebb cukornád-termő vidéke.", "Alapanyaga a népszerű hagyományos malamba ital készítésének.", "Kedvező trópusi klíma biztosítja a folyamatos és bőséges termést.", "Anisoc környékének egyik meghatározó mezőgazdasági identitása.", "A helyi kistermelői gazdaságok egyik legjövedelmezőbb növénye.", "Potenciális bázisa a jövőbeli nemzeti cukoriparnak.", "A betakarítás idején a vidék különleges ünnepi hangulatot áraszt."]
-    }},
+    }
+  },
   {
     id: "jugendzentrum-malabo-life-v2",
     type: "kid-landmark",
@@ -578,8 +606,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Jugendzentrum Malabo",
       hu: "Malabói ifjúsági központ",
       ro: "Centrul pentru tineret din Malabo",
-      en: "Malabo Youth Center"
-    },
+      en: "Malabo Youth Center",
+image: "/poi-images/jugendzentrum-malabo-life-v2.webp"
+},
     description: {
       de: "Ein Ort für Bildung und Freizeit, der speziell auf die Bedürfnisse von Kindern und Jugendlichen in der Hauptstadt zugeschnitten ist.",
       hu: "Oktatási és szabadidős helyszín, amely kifejezetten a fővárosi gyermekek és fiatalok igényeihez igazodik.",
@@ -601,7 +630,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["The main hub for youth education and creativity in the capital.", "Offers free or low-cost courses in IT and vocational skills.", "Gauzthes annual music, dance, and theater festivals.", "Features modern computer labs and a large reference library.", "Promotes social inclusion and civic responsibility among youth.", "A safe haven for recreation and peer-to-peer learning.", "Supported by the Ministry of Culture and Youth Affairs."],
       de: ["Zentraler Anlaufpunkt für Jugendliche in Malabo.", "Bietet Kurse in Informatik, Sprachen und Kunst an.", "Verfügt über moderne Sport- und Freizeiteinrichtungen.", "Fördert die Kreativität durch Musik- und Tanzstudios.", "Wichtiger Ort für den sozialen und kulturellen Austausch.", "Unterstützt die berufliche Orientierung junger Erwachsener.", "Symbol für die Förderung der nächsten Generation."],
       hu: ["A főváros legjelentősebb multifunkcionális ifjúsági létesítménye.", "Informatikai képzések és művészeti workshopok központi helyszíne.", "Modern próbatermeket biztosít helyi zenekarok és tánccsoportok számára.", "Támogatja a fiatalok vállalkozóvá válását és szakmai fejlődését.", "A városi ifjúsági közösségek első számú találkozóhelye.", "Számos nemzeti és nemzetközi ifjúsági program bázisa.", "Innovatív és inspiráló környezet a jövő generációi számára."]
-    }},
+    }
+  },
   {
     id: "strandspielplatz-corisco-life-v2",
     type: "kid-landmark",
@@ -611,8 +641,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Strandspielplatz von Corisco",
       hu: "Corisco tengerparti játszótér",
       ro: "Locul de joacă de pe plaja din Corisco",
-      en: "Corisco Beach Playground"
-    },
+      en: "Corisco Beach Playground",
+image: "/poi-images/strandspielplatz-corisco-life-v2.webp"
+},
     description: {
       de: "Auf der Insel Corisco gibt es speziell für Kinder eingerichtete Zonen an den weißen Sandstränden.",
       hu: "Corisco-szigeten kifejezetten gyerekeknek kialakított zónák találhatók a fehér homokos strandokon.",
@@ -635,7 +666,8 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["Located on the pristine, white-sand beaches of Corisco Island.", "Features play structures made from sustainable natural materials.", "Surrounded by the calm, turquoise waters of the Gulf of Guinea.", "A popular spot for island school excursions and family picnics.", "Provides a safe and beautiful environment for children's leisure.", "Reflects the peaceful and authentic lifestyle of the islanders.", "Accessible via the island's scenic coastal walking paths."],
       de: ["Einzigartiger Spielplatz direkt am weißen Sandstrand.", "Gelegen auf der malerischen Insel Corisco.", "Zentrum des sozialen Lebens für Familien der Benga.", "Eingebettet in eine geschützte tropische Umgebung.", "Beliebtes Ziel für Picknicks und Wochenendausflüge.", "Fördert die Naturverbundenheit der Inselkinder.", "Symbol für die friedliche und naturnahe Lebensweise."],
       hu: ["Fehér homokos tengerparton fekvő természetközeli játszótér.", "Környezetbarát és fenntartható alapanyagokból készült játékok.", "Páratlan kilátás a Guineai-öböl kristálytiszta vizeire.", "Természetes árnyékot adó pálmafák és egzotikus növények övezik.", "Biztonságos és nyugodt környezet a kisgyermekes családok számára.", "Népszerű helyszín a szigeti ökoturizmus és a pihenés kedvelőinek.", "Segíti a gyermekek közvetlen kapcsolódását a tengeri élővilághoz."]
-    }},
+    }
+  },
   {
     id: "kinderfreizeitzentrum-ebebiyin-life-v2",
     type: "kid-landmark",
@@ -645,8 +677,9 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       de: "Kinderfreizeitzentrum Ebebiyín",
       hu: "Ebebiyíni gyermek szabadidőközpont",
       ro: "Centrul de agrement pentru copii din Ebebiyín",
-      en: "Ebebiyín Kids Leisure Center"
-    },
+      en: "Ebebiyín Kids Leisure Center",
+image: "/poi-images/kinderfreizeitzentrum-ebebiyin-life-v2.webp"
+},
     description: {
       de: "Eine städtische Einrichtung im Norden, die Freizeitaktivitäten und Spielmöglichkeiten für Kinder bietet.",
       hu: "Északi városi létesítmény, amely szabadidős tevékenységeket és játéklehetőségeket kínál gyermekeknek.",
@@ -669,6 +702,7 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       en: ["The premier indoor entertainment center in Kie-Ntem Province.", "Host to regular art and drawing competitions for local youth.", "Includes a children's cafe serving healthy snacks and drinks.", "Features modern, internationally certified safety equipment.", "A vital social hub for families in the northeastern interior.", "Offers weekly educational workshops and animated film screenings.", "Boosts local tourism from neighboring villages and towns."],
       de: ["Modernes Freizeit- und Bildungszentrum in Ebebiyín.", "Zentraler Treffpunkt für Kinder der Provinz Kie-Ntem.", "Fördert den interkulturellen Austausch im Dreiländereck.", "Bietet Sportplätze, Bibliotheken und Kreativworkshops.", "Wichtiger Ort für die soziale Integration und Bildung.", "Sicherer Raum für Spiel und persönliche Entwicklung.", "Stärkt den Gemeinschaftssinn in der Grenzregion."],
       hu: ["Modern ifjúsági és szabadidős központ Ebebiyin városában.", "Kreatív fejlesztő foglalkozások és sportolási lehetőségek helyszíne.", "Fontos szerepet tölt be a határmenti régió szociális integrációjában.", "Biztonságos, fedett és szabadtéri játszóterekkel rendelkezik.", "Saját gyermekkonyvtár és média részleg áll a fiatalok rendelkezésére.", "Rendszeres kulturális programok és versenyek befogadója.", "Az északi országrész legmodernebb gyermekjóléti beruházása."]
-    }}
+    }
+  }
 ];
 

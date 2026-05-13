@@ -6,7 +6,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [37.9472, 26.8041],
-    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra" },
+    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra",
+image: "/poi-images/hegra-landmarks-v2.webp"
+},
     description: {
       de: "Die antike nabatäische Stadt im Nordwesten Saudi-Arabiens ist das erste UNESCO-Welterbe des Landes.",
       hu: "Szaúd-Arábia északnyugati részén fekvő ókori nabateus város, az ország első UNESCO világörökségi helyszíne.",
@@ -24,7 +26,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-01",
     coords: [46.6667, 24.7114],
-    name: { de: "Kingdom Centre", hu: "Kingdom Centre", ro: "Kingdom Centre", en: "Kingdom Centre" },
+    name: { de: "Kingdom Centre", hu: "Kingdom Centre", ro: "Kingdom Centre", en: "Kingdom Centre",
+image: "/poi-images/kingdom-centre-landmarks-v2.webp"
+},
     description: {
       de: "Dieser ikonische Wolkenkratzer in Riad zeichnet sich durch seine umgekehrte Parabelform und die Himmelsbrücke aus.",
       hu: "Ez az ikonikus rijádi felhőkarcoló fordított parabola alakjáról és az égi hídjáról ismert.",
@@ -42,7 +46,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-01",
     coords: [46.7126, 24.6315],
-    name: { de: "Masmak-Festung", hu: "Masmak-erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress" },
+    name: { de: "Masmak-Festung", hu: "Masmak-erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress",
+image: "/poi-images/masmak-fortress-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Festung aus Lehmziegeln im Zentrum von Riad, die eine wichtige Rolle bei der Gründung Saudi-Arabiens spielte.",
       hu: "Egy történelmi vályogtégla erőd Rijád központjában, amely fontos szerepet játszott Szaúd-Arábia alapításában.",
@@ -60,7 +66,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-02",
     coords: [39.8262, 21.4225],
-    name: { de: "Kaaba", hu: "Kába", ro: "Kaaba", en: "Kaaba" },
+    name: { de: "Kaaba", hu: "Kába", ro: "Kaaba", en: "Kaaba",
+image: "/poi-images/kaaba-landmarks-v2.webp"
+},
     description: {
       de: "Das würfelförmige Gebäude im Zentrum der al-Haram-Moschee in Mekka ist das heiligste Heiligtum des Islams.",
       hu: "A mekkai al-Haram mecset közepén álló kocka alakú épület, az iszlám legszentebb helye.",
@@ -78,7 +86,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-02",
     coords: [39.8256, 21.4187],
-    name: { de: "Abraj Al Bait", hu: "Abrádzs al-Bajt", ro: "Abraj Al Bait", en: "Abraj Al Bait" },
+    name: { de: "Abraj Al Bait", hu: "Abrádzs al-Bajt", ro: "Abraj Al Bait", en: "Abraj Al Bait",
+image: "/poi-images/abraj-al-bait-landmarks-v2.webp"
+},
     description: {
       de: "Ein gigantischer Hotelkomplex in Mekka, der den größten Uhrenturm der Welt besitzt und direkt neben der Großen Moschee steht.",
       hu: "Gigantikus szállodakomplexum Mekkában, amely a világ legnagyobb óratornyával büszkélkedhet, közvetlenül a Nagymecset mellett.",
@@ -96,7 +106,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [39.6111, 24.4672],
-    name: { de: "Prophetenmoschee", hu: "Próféta mecsetje", ro: "Moscheea Profetului", en: "Prophet's Mosque" },
+    name: { de: "Prophetenmoschee", hu: "Próféta mecsetje", ro: "Moscheea Profetului", en: "Prophet's Mosque",
+image: "/poi-images/prophets-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die zweitheiligste Stätte des Islams in Medina, erbaut vom Propheten Mohammed, besticht durch ihre grünen Kuppeln.",
       hu: "Az iszlám második legszentebb helye Medinában, amelyet Mohamed próféta épített, és zöld kupoláiról ismert.",
@@ -114,7 +126,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-02",
     coords: [39.1481, 21.5161],
-    name: { de: "König-Fahd-Brunnen", hu: "Fahd király szökőkút", ro: "Fântâna Regelui Fahd", en: "King Fahd's Fountain" },
+    name: { de: "König-Fahd-Brunnen", hu: "Fahd király szökőkút", ro: "Fântâna Regelui Fahd", en: "King Fahd's Fountain",
+image: "/poi-images/king-fahds-fountain-landmarks-v2.webp"
+},
     description: {
       de: "Dieser beeindruckende Springbrunnen in Dschidda schießt Meerwasser auf eine rekordverdächtige Höhe in den Himmel.",
       hu: "Ez a lenyűgöző dzsiddai szökőkút tengervizet lő a magasba rekordot jelentő magasságig.",
@@ -132,7 +146,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-01",
     coords: [45.9922, 24.9458],
-    name: { de: "Edge of the World", hu: "A világ pereme", ro: "Marginea Lumii", en: "Edge of the World" },
+    name: { de: "Edge of the World", hu: "A világ pereme", ro: "Marginea Lumii", en: "Edge of the World",
+image: "/poi-images/edge-of-the-world-landmarks-v2.webp"
+},
     description: {
       de: "Eine atemberaubende geologische Formation nordwestlich von Riad, die dramatische Klippen mit unendlicher Wüstensicht bietet.",
       hu: "Lélegzetelállító geológiai képződmény Rijádtól északnyugatra, drámai sziklákkal és végtelen sivatagi kilátással.",
@@ -150,7 +166,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [37.9255, 26.6200],
-    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town" },
+    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town",
+image: "/poi-images/al-ula-old-town-landmarks-v2.webp"
+},
     description: {
       de: "Ein Labyrinth aus dicht gedrängten Lehmhäusern, das über Jahrhunderte ein wichtiger Knotenpunkt auf der Weihrauchstraße war.",
       hu: "Sűrűn egymás mellé épült vályogházak labirintusa, amely évszázadokon át fontos csomópont volt a Tömjénúton.",
@@ -168,7 +186,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [37.9942, 26.6967],
-    name: { de: "Elefantenfelsen", hu: "Elefánt-szikla", ro: "Stânca Elefantului", en: "Elephant Rock" },
+    name: { de: "Elefantenfelsen", hu: "Elefánt-szikla", ro: "Stânca Elefantului", en: "Elephant Rock",
+image: "/poi-images/elephant-rock-landmarks-v2.webp"
+},
     description: {
       de: "Ein massiver roter Sandsteinmonolith nahe Al-Ula, der durch natürliche Erosion die verblüffende Form eines Elefanten angenommen hat.",
       hu: "Egy hatalmas vörös homokkő monolit Al-Ula közelében, amely a természetes erózió révén egy elefánt megdöbbentő formáját vette fel.",
@@ -186,7 +206,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-01",
     coords: [46.5744, 24.7350],
-    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Dirijja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah" },
+    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Dirijja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah",
+image: "/poi-images/at-turaif-landmarks-v2.webp"
+},
     description: {
       de: "Die historische Altstadt von Diriyya, die einst die Hauptstadt der ersten saudi-arabischen Dynastie war.",
       hu: "Dirijja történelmi óvárosa, amely egykor az első szaúd-arábiai dinasztia fővárosa volt.",
@@ -204,7 +226,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [39.6172, 24.4392],
-    name: { de: "Quba-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque" },
+    name: { de: "Quba-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque",
+image: "/poi-images/quba-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Diese strahlend weiße Moschee in Medina gilt als die erste in der Geschichte des Islams erbaute Moschee.",
       hu: "Ez a vakítóan fehér medinai mecset az iszlám történelmének elsőként épült mecsetjének számít.",
@@ -222,7 +246,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-01",
     coords: [46.6841, 24.6908],
-    name: { de: "Al Faisaliyah Center", hu: "Al Faisaliyah Központ", ro: "Centrul Al Faisaliyah", en: "Al Faisaliyah Centre" },
+    name: { de: "Al Faisaliyah Center", hu: "Al Faisaliyah Központ", ro: "Centrul Al Faisaliyah", en: "Al Faisaliyah Centre",
+image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Wolkenkratzer in Riad, bekannt für seine pyramidenartige Form und die goldene Glaskugel an der Spitze.",
       hu: "Feltűnő felhőkarcoló Rijádban, amely piramisszerű formájáról és a tetején lévő arany üveggömbről ismert.",
@@ -240,7 +266,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-02",
     coords: [39.8601, 21.4578],
-    name: { de: "Dschabal an-Nur", hu: "A Fény hegye", ro: "Jabal al-Nour", en: "Jabal al-Nour" },
+    name: { de: "Dschabal an-Nur", hu: "A Fény hegye", ro: "Jabal al-Nour", en: "Jabal al-Nour",
+image: "/poi-images/jabal-al-nour-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Berg nahe Mekka, der die berühmte Hira-Höhle beherbergt, ein Ort von immenser spiritueller Bedeutung.",
       hu: "Egy jellegzetes hegy Mekka közelében, ahol a híres Híra barlang található, egy hatalmas spirituális jelentőségű hely.",
@@ -258,7 +286,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [37.9142, 26.6669],
-    name: { de: "Maraya-Konzerthalle", hu: "Maraya Koncertterem", ro: "Sala de concerte Maraya", en: "Maraya Concert Hall" },
+    name: { de: "Maraya-Konzerthalle", hu: "Maraya Koncertterem", ro: "Sala de concerte Maraya", en: "Maraya Concert Hall",
+image: "/poi-images/maraya-concert-hall-landmarks-v2.webp"
+},
     description: {
       de: "Dieses unglaubliche Gebäude im Ashar-Tal ist vollständig mit Spiegeln verkleidet, die die Wüstenlandschaft reflektieren.",
       hu: "Ez a hihetetlen épület az Ashar-völgyben teljesen tükrökkel van borítva, amelyek visszatükrözik a sivatagi tájat.",
@@ -276,7 +306,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-02",
     coords: [41.1384, 22.9031],
-    name: { de: "Al-Wahbah-Krater", hu: "Al-Wahbah-kráter", ro: "Craterul Al Wahbah", en: "Al Wahbah Crater" },
+    name: { de: "Al-Wahbah-Krater", hu: "Al-Wahbah-kráter", ro: "Craterul Al Wahbah", en: "Al Wahbah Crater",
+image: "/poi-images/al-wahbah-crater-landmarks-v2.webp"
+},
     description: {
       de: "Ein gigantischer vulkanischer Krater am westlichen Rand des Harrat Kishb Basaltplateaus, der oft für einen Meteoritenkrater gehalten wird.",
       hu: "Egy gigantikus vulkáni kráter a Harrat Kishb bazaltfennsík nyugati szélén, amelyet gyakran meteoritkráternek hisznek.",
@@ -294,7 +326,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-01",
     coords: [46.7419, 24.8422],
-    name: { de: "KAPSARC", hu: "KAPSARC", ro: "KAPSARC", en: "KAPSARC" },
+    name: { de: "KAPSARC", hu: "KAPSARC", ro: "KAPSARC", en: "KAPSARC",
+image: "/poi-images/kapsarc-landmarks-v2.webp"
+},
     description: {
       de: "Ein hochmodernes Forschungszentrum in Riad, das für seine futuristische, zellenartige Architektur von Zaha Hadid berühmt ist.",
       hu: "Egy korszerű kutatóközpont Rijádban, amely Zaha Hadid futurisztikus, sejtszerű építészetéről híres.",
@@ -312,7 +346,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-14",
     coords: [42.2719, 18.2167],
-    name: { de: "Dorf Rijal Almaa", hu: "Rijal Almaa falu", ro: "Satul Rijal Almaa", en: "Rijal Almaa Village" },
+    name: { de: "Dorf Rijal Almaa", hu: "Rijal Almaa falu", ro: "Satul Rijal Almaa", en: "Rijal Almaa Village",
+image: "/poi-images/rijal-almaa-landmarks-v2.webp"
+},
     description: {
       de: "Ein malerisches Bergdorf in der Asir-Region, das für seine einzigartigen, mehrstöckigen Steinhäuser und bunten Fresken bekannt ist.",
       hu: "Egy festői hegyi falu az Aszír régióban, amely egyedülálló, többszintes kőházairól és színes freskóiról ismert.",
@@ -330,7 +366,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-04",
     coords: [50.1172, 26.3314],
-    name: { de: "Ithra-Zentrum", hu: "Ithra Központ", ro: "Centrul Ithra", en: "Ithra Center" },
+    name: { de: "Ithra-Zentrum", hu: "Ithra Központ", ro: "Centrul Ithra", en: "Ithra Center",
+image: "/poi-images/ithra-center-landmarks-v2.webp"
+},
     description: {
       de: "Ein architektonisches Wunderwerk in Dhahran, das als führendes Kultur- und Bildungszentrum in Saudi-Arabien dient.",
       hu: "Építészeti csoda Dahránban, amely Szaúd-Arábia vezető kulturális és oktatási központjaként szolgál.",
@@ -348,7 +386,9 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [39.6106, 24.5028],
-    name: { de: "Berg Uhud", hu: "Uhud hegy", ro: "Muntele Uhud", en: "Mount Uhud" },
+    name: { de: "Berg Uhud", hu: "Uhud hegy", ro: "Muntele Uhud", en: "Mount Uhud",
+image: "/poi-images/mount-uhud-landmarks-v2.webp"
+},
     description: {
       de: "Ein geschichtsträchtiger Berg nördlich von Medina, an dem eine der wichtigsten Schlachten der islamischen Frühgeschichte stattfand.",
       hu: "Történelmi jelentőségű hegy Medinától északra, ahol a korai iszlám történelem egyik legfontosabb csatája zajlott.",

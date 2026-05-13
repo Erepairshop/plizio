@@ -4,7 +4,9 @@ export const croatiaHistoryV2: POI[] = [
   {
     id: "croatia-diocletians-palace-history-v2",
     type: "palace",
-    name: { de: "Diokletianpalast", hu: "Diocletianus palotája", ro: "Palatul lui Dioclețian", en: "Diocletian's Palace" },
+    name: { de: "Diokletianpalast", hu: "Diocletianus palotája", ro: "Palatul lui Dioclețian", en: "Diocletian's Palace",
+image: "/poi-images/croatia-diocletians-palace-history-v2.webp"
+},
     coords: [16.4403, 43.5081],
     coordinates: { lat: 43.5081, lng: 16.4403 },
     description: {
@@ -19,11 +21,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1979", "Construit din piatră calcaroasă albă din Brač", "Acoperă aproximativ 30.000 de metri pătrați", "Găzduiește Catedrala Sfântul Domnius"],
       en: ["UNESCO World Heritage site since 1979", "Built from white limestone from Brač island", "Covers approximately 30,000 square meters", "Houses the Cathedral of Saint Domnius"],
     },
-    imageHint: "Diocletian's Palace Peristyle in Split", image: "/poi-images/croatia-diocletians-palace-history-v2.webp"},
-  {
+imageHint: "Diocletian's Palace Peristyle in Split",
+    descriptionAdvanced: {
+      de: "Dieser monumentale Komplex wurde um 300 n. Chr. als Ruhesitz für den römischen Kaiser Diokletian erbaut und kombiniert luxuriöse Villenarchitektur mit einem befestigten Militärlager.",
+      hu: "Diocletianus római császár 300 körül épült palotája az antik építészet egyik legépszerűbb emléke, amely egy luxusvilla és egy római katonai tábor elemeit ötvözi Split szívében.",
+      ro: "Construit în jurul anului 300 d.Hr. ca reședință de retragere pentru împăratul roman Dioclețian, complexul îmbină arhitectura unei vile de lux cu structura unui castru militar fortificat.",
+      en: "Built around 300 AD as a retirement residence for Roman Emperor Diocletian, this complex uniquely combines luxurious villa architecture with the layout of a fortified military camp.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 295 bis 305 n. Chr.", "Grundfläche beträgt etwa 30.000 m²", "Südliche Fassade war direkt am Meer", "Wände sind bis zu 26 Meter hoch"],
+      hu: ["Az építkezés 295-től 305-ig tartott", "Alapterülete megközelítőleg 30 000 m²", "A déli fal közvetlenül a tengerre nézett", "A falak magassága eléri a 26 métert"],
+      ro: ["Construit între anii 295 și 305 d.Hr.", "Suprafața totală este de circa 30.000 m²", "Fațada sudică era situată direct pe mare", "Zidurile au o înălțime de până la 26 m"],
+      en: ["Built between 295 and 305 AD", "Total area covers about 30,000 m²", "South facade was originally on the sea", "Walls reach heights of up to 26 meters"],
+    },
+    image: "/poi-images/croatia-diocletians-palace-history-v2.webp",
+},  {
     id: "croatia-pula-arena-history-v2",
     type: "ruins",
-    name: { de: "Arena von Pula", hu: "Pulai amfiteátrum", ro: "Amfiteatrul din Pula", en: "Pula Arena" },
+    name: { de: "Arena von Pula", hu: "Pulai amfiteátrum", ro: "Amfiteatrul din Pula", en: "Pula Arena",
+image: "/poi-images/croatia-pula-arena-history-v2.webp"
+},
     coords: [13.8502, 44.8732],
     coordinates: { lat: 44.8732, lng: 13.8502 },
     description: {
@@ -38,11 +55,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Al șaselea cel mai mare amfiteatru roman", "Capacitate de până la 23.000 de spectatori", "Toate cele patru etaje sunt conservate", "Folosit în Evul Mediu pentru turniruri cavalerești"],
       en: ["Sixth largest Roman amphitheater", "Capacity for up to 23,000 spectators", "All four outer wall levels are intact", "Used in the Middle Ages for knight tournaments"],
     },
-    imageHint: "Ancient Roman Arena in Pula at sunset", image: "/poi-images/croatia-pula-arena-history-v2.webp"},
-  {
+imageHint: "Ancient Roman Arena in Pula at sunset",
+    descriptionAdvanced: {
+      de: "Das im 1. Jahrhundert n. Chr. errichtete Amphitheater von Pula ist eines der besterhaltenen römischen Bauwerke seiner Art und bot einst Platz für über 20.000 Zuschauer bei Gladiatorenkämpfen.",
+      hu: "Az 1. században épült pulai amfiteátrum a római építészet egyik legjobb állapotban fennmaradt emléke, amely egykor több mint 20 000 néző befogadására volt alkalmas gladiátori játékokon.",
+      ro: "Construit în secolul I d.Hr., amfiteatrul din Pula este unul dintre cele mai bine conservate monumente romane, având o capacitate istorică de peste 20.000 de spectatori la lupte.",
+      en: "Constructed in the 1st century AD, the Pula Arena is among the best-preserved Roman amphitheaters, once hosting over 20,000 spectators for gladiator fights and naval battles.",
+    },
+    factsAdvanced: {
+      de: ["Bau unter Kaiser Vespasian begonnen", "Elliptische Form: 132 mal 105 Meter", "Äußere Mauer ist 32,5 Meter hoch", "Untergrund besaß komplexe Zisternen"],
+      hu: ["Vespasianus császár idején kezdték", "Elliptikus alak: 132 x 105 méter", "A külső fal magassága 32,5 méter", "Földalatti folyosók és ciszternák"],
+      ro: ["Început sub împăratul Vespasian", "Formă eliptică: 132 pe 105 metri", "Zidul exterior are 32,5 metri înălțime", "Include pasaje subterane și cisterne"],
+      en: ["Started under Emperor Vespasian", "Elliptic shape: 132 by 105 meters", "Outer wall stands 32.5 meters high", "Featured complex underground cisterns"],
+    },
+    image: "/poi-images/croatia-pula-arena-history-v2.webp",
+},  {
     id: "croatia-dubrovnik-walls-history-v2",
     type: "landmark",
-    name: { de: "Stadtmauern von Dubrovnik", hu: "Dubrovniki városfalak", ro: "Zidurile cetății Dubrovnik", en: "Dubrovnik City Walls" },
+    name: { de: "Stadtmauern von Dubrovnik", hu: "Dubrovniki városfalak", ro: "Zidurile cetății Dubrovnik", en: "Dubrovnik City Walls",
+image: "/poi-images/croatia-dubrovnik-walls-history-v2.webp"
+},
     coords: [18.1073, 42.6412],
     coordinates: { lat: 42.6412, lng: 18.1073 },
     description: {
@@ -57,11 +89,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Lungime totală de aproximativ 1.940 metri", "Ziduri groase de până la 6 metri", "Niciodată cucerite de o armată inamică", "Include fortăreața Minčeta"],
       en: ["Total length of about 1,940 meters", "Walls up to 6 meters thick", "Never breached by a hostile army", "Includes the Minčeta Fortress"],
     },
-    imageHint: "Aerial view of Dubrovnik Old Town walls", image: "/poi-images/croatia-dubrovnik-walls-history-v2.webp"},
-  {
+imageHint: "Aerial view of Dubrovnik Old Town walls",
+    descriptionAdvanced: {
+      de: "Diese massiven Wehranlagen wurden zwischen dem 12. und 17. Jahrhundert kontinuierlich ausgebaut, um die Unabhängigkeit der Republik Ragusa gegen venezianische und osmanische Angriffe zu schützen.",
+      hu: "A 12. és 17. század között folyamatosan bővített masszív védművek a Raguzai Köztársaság függetlenségét védték a velencei és oszmán hódítók támadásaitól az Adriai-tenger partján.",
+      ro: "Aceste fortificații masive au fost extinse continuu între secolele XII și XVII pentru a proteja independența Republicii Ragusa împotriva atacurilor venețiene și otomane constante.",
+      en: "Built and expanded between the 12th and 17th centuries, these massive defensive walls protected the Republic of Ragusa's independence from Venetian and Ottoman threats.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge beträgt exakt 1.940 Meter", "Mauern sind bis zu 6 Meter dick", "Umfasst 5 Festungen und 16 Türme", "Nie von einer Armee erstürmt worden"],
+      hu: ["Teljes hossza pontosan 1940 méter", "A falak vastagsága eléri a 6 métert", "5 erődöt és 16 bástyát foglal magában", "Ellenséges sereg sosem vette be"],
+      ro: ["Lungimea totală este de 1.940 metri", "Grosimea zidurilor atinge 6 metri", "Include 5 fortărețe și 16 turnuri", "Niciodată cucerite prin asalt militar"],
+      en: ["Total length is exactly 1,940 meters", "Walls are up to 6 meters thick", "Includes 5 fortresses and 16 towers", "Never breached by a hostile army"],
+    },
+    image: "/poi-images/croatia-dubrovnik-walls-history-v2.webp",
+},  {
     id: "croatia-euphrasian-basilica-history-v2",
     type: "cathedral",
-    name: { de: "Euphrasius-Basilika", hu: "Euphrasius-bazilika", ro: "Bazilica Eufrasiană", en: "Euphrasian Basilica" },
+    name: { de: "Euphrasius-Basilika", hu: "Euphrasius-bazilika", ro: "Bazilica Eufrasiană", en: "Euphrasian Basilica",
+image: "/poi-images/croatia-euphrasian-basilica-history-v2.webp"
+},
     coords: [13.5942, 45.2288],
     coordinates: { lat: 45.2288, lng: 13.5942 },
     description: {
@@ -76,11 +123,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Celebră pentru mozaicurile aurii din sec. VI", "Patrimoniu Mondial UNESCO din 1997", "Include un atrium și un baptisteriu", "S-au păstrat mozaicuri de podea din sec. IV"],
       en: ["Famous for 6th-century golden mosaics", "UNESCO World Heritage site since 1997", "Includes an atrium and a baptistery", "Floor mosaics from the 4th century remain"],
     },
-    imageHint: "Golden mosaics in the Euphrasian Basilica Poreč", image: "/poi-images/croatia-euphrasian-basilica-history-v2.webp"},
-  {
+imageHint: "Golden mosaics in the Euphrasian Basilica Poreč",
+    descriptionAdvanced: {
+      de: "Die im 6. Jahrhundert unter Bischof Euphrasius errichtete Basilika in Poreč ist ein Meisterwerk byzantinischer Kunst, berühmt für ihre goldenen Mosaike und die originale Architektur.",
+      hu: "A 6. században, Euphrasius püspök idején épült poreči bazilika a bizánci művészet remekműve, amely világhírű arany mozaikjairól és szinte érintetlen kora keresztény szerkezetéről.",
+      ro: "Ridicată în secolul VI sub episcopul Euphrasius, bazilica din Poreč este o capodoperă a artei bizantine, celebră pentru mozaicurile aurii și arhitectura paleocreștină originală.",
+      en: "Constructed in the 6th century under Bishop Euphrasius, this basilica in Poreč is a Byzantine masterpiece famous for its golden mosaics and intact early Christian architecture.",
+    },
+    factsAdvanced: {
+      de: ["Bau begann im Jahr 543 n. Chr.", "Weltkulturerbe seit dem Jahr 1997", "Bodenmosaike stammen aus dem 5. Jh.", "Einzigartiges Altarziborium von 1277"],
+      hu: ["Az építkezés 543-ban kezdődött", "Világörökségi helyszín 1997 óta", "Padlómozaikok az 5. századból", "Egyedülálló oltár baldachin 1277-ből"],
+      ro: ["Construcția a început în anul 543", "Sit UNESCO din anul 1997", "Mozaicuri de podea din secolul V", "Ciborium de altar datând din 1277"],
+      en: ["Construction began in 543 AD", "UNESCO World Heritage site since 1997", "Floor mosaics date to the 5th century", "Unique altar ciborium from 1277"],
+    },
+    image: "/poi-images/croatia-euphrasian-basilica-history-v2.webp",
+},  {
     id: "croatia-trogir-old-town-history-v2",
     type: "landmark",
-    name: { de: "Historische Stadt Trogir", hu: "Trogir történelmi belvárosa", ro: "Centrul istoric al orașului Trogir", en: "Trogir Historic Center" },
+    name: { de: "Historische Stadt Trogir", hu: "Trogir történelmi belvárosa", ro: "Centrul istoric al orașului Trogir", en: "Trogir Historic Center",
+image: "/poi-images/croatia-trogir-old-town-history-v2.webp"
+},
     coords: [16.2514, 43.5172],
     coordinates: { lat: 43.5172, lng: 16.2514 },
     description: {
@@ -95,11 +157,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Fondat de coloniști greci în sec. III î.Hr.", "Catedrala Sfântul Laurențiu este piesa centrală", "Protejat de UNESCO din 1997", "Portalul maestrului Radovan este celebru mondial"],
       en: ["Founded by Greek colonists in the 3rd century BC", "Cathedral of St. Lawrence is the centerpiece", "UNESCO protection since 1997", "Master Radovan's portal is world-famous"],
     },
-    imageHint: "Historic old town of Trogir from above", image: "/poi-images/croatia-trogir-old-town-history-v2.webp"},
-  {
+imageHint: "Historic old town of Trogir from above",
+    descriptionAdvanced: {
+      de: "Trogir ist eine außergewöhnlich gut erhaltene mittelalterliche Inselstadt, deren städtebauliche Struktur die Kontinuität von der hellenistischen Periode bis zum Barock widerspiegelt.",
+      hu: "Trogir egy kivételesen jó állapotban fennmaradt középkori szigetváros, amelynek városszerkezete a hellenisztikus kortól a barokkig terjedő folytonosságot tükrözi az Adrián.",
+      ro: "Trogir este un oraș insular medieval excepțional de bine conservat, a cărui structură urbană reflectă continuitatea de la perioada elenistică până la stilul baroc venețian.",
+      en: "Trogir is an exceptionally well-preserved medieval island town whose urban layout reflects continuity from the Hellenistic period through to the Venetian Baroque era.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet von Griechen im 3. Jh. v. Chr.", "St.-Laurentius-Kathedrale aus dem 13. Jh.", "Portal von Meister Radovan (1240)", "UNESCO-Weltkulturerbe seit 1997"],
+      hu: ["Görögök alapították i.e. 3. században", "Szent Lőrinc-székesegyház 13. századi", "Radovan mester kapuja 1240-ből", "UNESCO Világörökség 1997 óta"],
+      ro: ["Fondat de greci în sec. III î.Hr.", "Catedrala Sf. Laurențiu din sec. XIII", "Portal realizat de Maestrul Radovan", "Sit UNESCO protejat din anul 1997"],
+      en: ["Founded by Greeks in 3rd century BC", "St. Lawrence Cathedral from 13th c.", "Master Radovan portal dated 1240", "UNESCO World Heritage since 1997"],
+    },
+    image: "/poi-images/croatia-trogir-old-town-history-v2.webp",
+},  {
     id: "croatia-sibenik-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Kathedrale des Heiligen Jakob", hu: "Szent Jakab-székesegyház", ro: "Catedrala Sfântul Iacob", en: "St. James Cathedral" },
+    name: { de: "Kathedrale des Heiligen Jakob", hu: "Szent Jakab-székesegyház", ro: "Catedrala Sfântul Iacob", en: "St. James Cathedral",
+image: "/poi-images/croatia-sibenik-cathedral-history-v2.webp"
+},
     coords: [15.8891, 43.7357],
     coordinates: { lat: 43.7357, lng: 15.8891 },
     description: {
@@ -114,11 +191,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["71 de capete sculptate pe peretele exterior", "Opera lui Juraj Dalmatinac", "Prima structură construită prin asamblarea pietrei", "Patrimoniu Mondial UNESCO din 2000"],
       en: ["71 portrait heads on the outer wall", "Masterpiece by Juraj Dalmatinac", "First structure with this stone fitting technique", "UNESCO World Heritage site since 2000"],
     },
-    imageHint: "Cathedral of St James in Sibenik facade", image: "/poi-images/croatia-sibenik-cathedral-history-v2.webp"},
-  {
+imageHint: "Cathedral of St James in Sibenik facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale des Heiligen Jakob in Šibenik ist ein einzigartiges Monument der Renaissance, das vollständig aus Stein ohne Verwendung von Mörtel oder Holzbindern errichtet wurde.",
+      hu: "A šibeniki Szent Jakab-székesegyház a reneszánsz építészet egyedülálló emléke, amely kizárólag kőből készült, kötőanyag vagy fa tartószerkezetek alkalmazása nélkül.",
+      ro: "Catedrala Sfântul Iacob din Šibenik este un monument unic al Renașterii, construit integral din piatră, fără utilizarea mortarului sau a grinzilor de lemn pentru susținere.",
+      en: "St. James Cathedral in Šibenik is a unique Renaissance monument constructed entirely of stone, using a pioneering system without mortar or wooden supports.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1431 bis 1536", "71 Köpfe am äußeren Fries gemeißelt", "Werk von Juraj Dalmatinac", "Kuppel ist 32 Meter hoch"],
+      hu: ["Az építkezés 1431-től 1536-ig tartott", "71 faragott fej díszíti a külső falat", "Juraj Dalmatinac fő műve", "A kupola magassága 32 méter"],
+      ro: ["Construită între 1431 și 1536", "71 de capete sculptate pe friza exterioară", "Opera maestrului Juraj Dalmatinac", "Cupola are o înălțime de 32 de metri"],
+      en: ["Built between 1431 and 1536", "71 sculpted heads on the outer frieze", "Masterpiece of Juraj Dalmatinac", "The dome reaches 32 meters high"],
+    },
+    image: "/poi-images/croatia-sibenik-cathedral-history-v2.webp",
+},  {
     id: "croatia-vukovar-water-tower-history-v2",
     type: "monument",
-    name: { de: "Wasserturm von Vukovar", hu: "Vukovári víztorony", ro: "Turnul de apă din Vukovar", en: "Vukovar Water Tower" },
+    name: { de: "Wasserturm von Vukovar", hu: "Vukovári víztorony", ro: "Turnul de apă din Vukovar", en: "Vukovar Water Tower",
+image: "/poi-images/croatia-vukovar-water-tower-history-v2.webp"
+},
     coords: [19.0118, 45.3444],
     coordinates: { lat: 45.3444, lng: 19.0118 },
     description: {
@@ -133,11 +225,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Construit în anul 1968", "A fost unul dintre cele mai mari turnuri de apă din Europa", "Astăzi este un memorial", "A fost lovit de peste 600 de proiectile în timpul asediului"],
       en: ["Built in 1968", "Was one of the largest water towers in Europe", "Today it serves as a memorial", "Received over 600 hits during the siege"],
     },
-    imageHint: "Vukovar Water Tower memorial site", image: "/poi-images/croatia-vukovar-water-tower-history-v2.webp"},
-  {
+imageHint: "Vukovar Water Tower memorial site",
+    descriptionAdvanced: {
+      de: "Als Symbol des Widerstands während des kroatischen Unabhängigkeitskrieges überstand der Wasserturm von Vukovar 1991 über 600 Treffer und wurde als Gedenkstätte für den Frieden bewahrt.",
+      hu: "A horvát függetlenségi háború ellenállásának szimbóluma; a vukovári víztorony 1991-ben több mint 600 találatot élt túl, és ma mementóként szolgál a béke és a szabadság jegyében.",
+      ro: "Simbol al rezistenței în timpul Războiului de Independență, turnul de apă din Vukovar a supraviețuit la peste 600 de lovituri în 1991, fiind păstrat ca memorial al păcii.",
+      en: "A symbol of resistance during the Croatian War of Independence, the Vukovar Water Tower survived over 600 direct hits in 1991 and stands today as a memorial to peace.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1968", "Höhe beträgt 50 Meter", "Fassungsvermögen von 2.200 m³ Wasser", "Restaurierung im Jahr 2020 abgeschlossen"],
+      hu: ["1968-ban épült fel", "Magassága pontosan 50 méter", "Vízkapacitása 2200 m³ volt", "Felújítása 2020-ban fejeződött be"],
+      ro: ["Construit în anul 1968", "Înălțimea structurii este de 50 m", "Capacitate originală de 2.200 m³ apă", "Restaurat și redeschis în anul 2020"],
+      en: ["Originally constructed in 1968", "Structure height is exactly 50 meters", "Water capacity was 2,200 m³", "Restoration completed in 2020"],
+    },
+    image: "/poi-images/croatia-vukovar-water-tower-history-v2.webp",
+},  {
     id: "croatia-klis-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Klis", hu: "Klissza vára", ro: "Cetatea Klis", en: "Klis Fortress" },
+    name: { de: "Festung Klis", hu: "Klissza vára", ro: "Cetatea Klis", en: "Klis Fortress",
+image: "/poi-images/croatia-klis-fortress-history-v2.webp"
+},
     coords: [16.5234, 43.5603],
     coordinates: { lat: 43.5603, lng: 16.5234 },
     description: {
@@ -153,11 +260,25 @@ export const croatiaHistoryV2: POI[] = [
       en: ["Seat of the early Croatian kings", "Site of fierce battles against the Ottomans", "Built at an altitude of 360 meters", "Filming location for 'Game of Thrones' series"],
     },
     imageHint: "Fortress Klis on top of a mountain",
+    descriptionAdvanced: {
+      de: "Auf einem steilen Felsen gelegen, war die Festung Klis über Jahrhunderte der Schlüssel zur Verteidigung Dalmatiens gegen osmanische Eroberer und Sitz der kroatischen Fürsten.",
+      hu: "A meredek sziklára épült Klissza vára évszázadokon át Dalmácia védelmének kulcsa volt az oszmán hódítókkal szemben, és egykor a horvát fejedelmek székhelyeként is szolgált.",
+      ro: "Situată pe o stâncă abruptă, cetatea Klis a fost timp de secole cheia apărării Dalmației împotriva otomanilor și reședința principală a ducilor croați medievali.",
+      en: "Perched on a steep ridge, Klis Fortress was for centuries the key to Dalmatia's defense against Ottoman expansion and a seat of medieval Croatian dukes.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Uskoken-Guerillakämpfer", "Kontrollierte den Pass nach Split", "Erste Erwähnung im 5. Jahrhundert", "Länge der Anlage beträgt 204 Meter"],
+      hu: ["Az uszkók gerillák híres székhelye", "A Splitbe vezető hágót ellenőrizte", "Első említése az 5. századból", "Az erőd hossza 204 méter"],
+      ro: ["Sediul luptătorilor de gherilă Uskoci", "Controla pasul strategic către Split", "Prima mențiune în secolul V", "Lungimea fortificației este de 204 m"],
+      en: ["Base of the Uskok guerrilla fighters", "Controlled the pass leading to Split", "First mentioned in the 5th century", "Fortress length is 204 meters"],
+    },
   },
   {
     id: "croatia-trakoscan-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Trakošćan", hu: "Trakostyán vára", ro: "Castelul Trakošćan", en: "Trakošćan Castle" },
+    name: { de: "Schloss Trakošćan", hu: "Trakostyán vára", ro: "Castelul Trakošćan", en: "Trakošćan Castle",
+image: "/poi-images/croatia-trakoscan-castle-history-v2.webp"
+},
     coords: [15.9507, 46.2587],
     coordinates: { lat: 46.2587, lng: 15.9507 },
     description: {
@@ -172,11 +293,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["A aparținut mult timp familiei Drašković", "Găzduiește un muzeu important", "Înconjurat de un lac artificial", "Inițial a fost un mic turn de observație"],
       en: ["Owned for a long time by the Drašković family", "Houses a significant museum", "Surrounded by an artificial lake", "Originally was a small observation tower"],
     },
-    imageHint: "Trakošćan Castle reflected in lake", image: "/poi-images/croatia-trakoscan-castle-history-v2.webp"},
-  {
+imageHint: "Trakošćan Castle reflected in lake",
+    descriptionAdvanced: {
+      de: "Schloss Trakošćan, ursprünglich eine mittelalterliche Burg, wurde im 19. Jahrhundert im neugotischen Stil umgebaut und ist heute eines der romantischsten Ensembles Zentraleuropas.",
+      hu: "A középkori eredetű Trakošćan várát a 19. században neogótikus stílusban építették újjá, ma Közép-Európa egyik legromantikusabb kastélyegyüttese és múzeuma.",
+      ro: "Castelul Trakošćan, inițial o cetate medievală, a fost reconstruit în stil neogotic în secolul XIX, fiind astăzi unul dintre cele mai romantice ansambluri din Europa Centrală.",
+      en: "Originally a medieval fortress, Trakošćan Castle was reconstructed in the Neo-Gothic style during the 19th century and is now one of Central Europe's most romantic sites.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 13. Jahrhundert", "Besitz der Familie Drašković", "Künstlicher See um 1850 angelegt", "Museum enthält Waffen aus dem 15. Jh."],
+      hu: ["A 13. században alapították", "A Drašković család tulajdona volt", "A mesterséges tavat 1850 körül ásták", "Múzeuma 15. századi fegyvereket őriz"],
+      ro: ["Fondat în secolul al XIII-lea", "Proprietate a familiei Drašković", "Lac artificial creat în jurul anului 1850", "Muzeul deține arme din secolul XV"],
+      en: ["Founded in the 13th century", "Owned by the Drašković family", "Artificial lake created around 1850", "Museum houses 15th-century weaponry"],
+    },
+    image: "/poi-images/croatia-trakoscan-castle-history-v2.webp",
+},  {
     id: "croatia-veliki-tabor-history-v2",
     type: "castle",
-    name: { de: "Burg Veliki Tabor", hu: "Nagytábor vára", ro: "Cetatea Veliki Tabor", en: "Veliki Tabor Castle" },
+    name: { de: "Burg Veliki Tabor", hu: "Nagytábor vára", ro: "Cetatea Veliki Tabor", en: "Veliki Tabor Castle",
+image: "/poi-images/croatia-veliki-tabor-history-v2.webp"
+},
     coords: [15.6517, 46.1542],
     coordinates: { lat: 46.1542, lng: 15.6517 },
     description: {
@@ -191,11 +327,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Construită în secolele XV și XVI", "Legată de legenda lui Veronika Desinić", "A servit drept apărare împotriva otomanilor", "Găzduiește expoziții despre istoria regională"],
       en: ["Built in the 15th and 16th centuries", "Connected to the legend of Veronika Desinić", "Served as defense against the Ottomans", "Houses exhibitions on regional history"],
     },
-    imageHint: "Veliki Tabor castle in Desinic", image: "/poi-images/croatia-veliki-tabor-history-v2.webp"},
-  {
+imageHint: "Veliki Tabor castle in Desinic",
+    descriptionAdvanced: {
+      de: "Veliki Tabor ist eine der besterhaltenen spätmittelalterlichen Wasserburgen Kroatiens, bekannt für seine mächtigen Rundtürme und die Legende der unglücklichen Veronika von Desinić.",
+      hu: "Veliki Tabor Horvátország egyik legjobb állapotú késő középkori vára, amely hatalmas kerek bástyáiról és a szerencsétlen sorsú Desinić Veronika legendájáról híres.",
+      ro: "Veliki Tabor este una dintre cele mai bine conservate cetăți medievale târzii din Croația, renumită pentru turnurile sale circulare și legenda Veronikăi de Desinić.",
+      en: "Veliki Tabor is one of Croatia's best-preserved late medieval fortresses, famous for its massive rounded bastions and the tragic legend of Veronika of Desinić.",
+    },
+    factsAdvanced: {
+      de: ["Bau im 15. Jahrhundert begonnen", "Besitz der Grafen von Cilli", "Innenhof mit Renaissance-Arkaden", "Befindet sich auf 333 Metern Höhe"],
+      hu: ["Az építkezés a 15. században kezdődött", "A Cillei grófok tulajdona volt", "Reneszánsz árkádos belső udvar", "333 méteres magasságban található"],
+      ro: ["Construcția a început în secolul XV", "Proprietate a conților de Celje", "Curte interioară cu arcade renascentiste", "Situată la o altitudine de 333 metri"],
+      en: ["Construction started in the 15th c.", "Owned by the Counts of Celje", "Renaissance arcaded inner courtyard", "Located at an elevation of 333 meters"],
+    },
+    image: "/poi-images/croatia-veliki-tabor-history-v2.webp",
+},  {
     id: "croatia-knin-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung von Knin", hu: "Knini vár", ro: "Cetatea Knin", en: "Knin Fortress" },
+    name: { de: "Festung von Knin", hu: "Knini vár", ro: "Cetatea Knin", en: "Knin Fortress",
+image: "/poi-images/croatia-knin-fortress-history-v2.webp"
+},
     coords: [16.1927, 44.0335],
     coordinates: { lat: 44.0335, lng: 16.1927 },
     description: {
@@ -210,11 +361,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Formată din cinci părți interconectate", "470 metri lungime și până la 110 metri lățime", "Reședința regelui Dmitar Zvonimir", "Modernizată puternic în secolul al XVIII-lea"],
       en: ["Consists of five interconnected parts", "470 meters long and up to 110 meters wide", "Seat of King Dmitar Zvonimir", "Heavily modernized in the 18th century"],
     },
-    imageHint: "Huge Knin fortress from the air", image: "/poi-images/croatia-knin-fortress-history-v2.webp"},
-  {
+imageHint: "Huge Knin fortress from the air",
+    descriptionAdvanced: {
+      de: "Als ehemalige Residenz kroatischer Könige ist die Festung Knin eine der größten militärischen Befestigungsanlagen Europas und thront strategisch über der Stadt am Fluss Krka.",
+      hu: "A horvát királyok egykori székhelyeként a knini vár Európa egyik legnagyobb katonai erődítménye, amely stratégiai ponton, a Krka folyó mentén magasodik a város fölé.",
+      ro: "Fostă reședință a regilor croați, cetatea Knin este una dintre cele mai mari fortificații militare din Europa, dominând strategic orașul de pe malul râului Krka.",
+      en: "A former residence of Croatian kings, Knin Fortress is one of Europe's largest military fortifications, strategically overlooking the city near the Krka river source.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 9. Jahrhundert", "Länge beträgt etwa 470 Meter", "Besteht aus fünf verbundenen Teilen", "Sitz von König Dmitar Zvonimir"],
+      hu: ["A 9. században épült", "Hossza megközelítőleg 470 méter", "Öt összekapcsolt részből áll", "Dmitar Zvonimir király székhelye"],
+      ro: ["Construită în secolul al IX-lea", "Lungimea este de circa 470 metri", "Formată din cinci părți interconectate", "Sediul regelui Dmitar Zvonimir"],
+      en: ["Constructed in the 9th century", "Total length is about 470 meters", "Consists of five interconnected parts", "Seat of King Dmitar Zvonimir"],
+    },
+    image: "/poi-images/croatia-knin-fortress-history-v2.webp",
+},  {
     id: "croatia-salona-ruins-history-v2",
     type: "ruins",
-    name: { de: "Antikes Salona", hu: "Salona romjai", ro: "Ruinele antice din Salona", en: "Salona Archaeological Park" },
+    name: { de: "Antikes Salona", hu: "Salona romjai", ro: "Ruinele antice din Salona", en: "Salona Archaeological Park",
+image: "/poi-images/croatia-salona-ruins-history-v2.webp"
+},
     coords: [16.4828, 43.5393],
     coordinates: { lat: 43.5393, lng: 16.4828 },
     description: {
@@ -229,11 +395,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Locul de naștere al împăratului Dioclețian", "Avea 60.000 de locuitori în perioada de apogeu", "Distrus în sec. VII de avari și slavi", "Cel mai important centru al creștinismului din Dalmația"],
       en: ["Birthplace of Emperor Diocletian", "Had 60,000 inhabitants at its peak", "Destroyed in the 7th century by Avars and Slavs", "Key center of early Christianity in Dalmatia"],
     },
-    imageHint: "Ruins of Roman Salona amphitheater", image: "/poi-images/croatia-salona-ruins-history-v2.webp"},
-  {
+imageHint: "Ruins of Roman Salona amphitheater",
+    descriptionAdvanced: {
+      de: "Salona war die antike Hauptstadt der römischen Provinz Dalmatien und ein bedeutendes Zentrum des frühen Christentums, wovon heute umfangreiche Ruinen und Basiliken zeugen.",
+      hu: "Salona a római Dalmácia tartomány ókori fővárosa és a korai kereszténység jelentős központja volt, amiről ma kiterjedt rommezők, bazilikák és egy amfiteátrum tanúskodik.",
+      ro: "Salona a fost capitala antică a provinciei romane Dalmația și un centru major al creștinismului timpuriu, păstrând astăzi ruine vaste de bazilici și un amfiteatru.",
+      en: "Salona was the ancient capital of the Roman province of Dalmatia and a major center of early Christianity, now preserved as a vast archaeological park with basilicas.",
+    },
+    factsAdvanced: {
+      de: ["Zerstörung durch Awaren im Jahr 614", "Amphitheater fasste 18.000 Menschen", "Geburtsort von Kaiser Diokletian", "Größte archäologische Stätte Kroatiens"],
+      hu: ["Az avarok rombolták le 614-ben", "Amfiteátruma 18 000 fős volt", "Diocletianus császár szülőhelye", "Horvátország legnagyobb ásatási területe"],
+      ro: ["Distrus de avari în anul 614 d.Hr.", "Amfiteatrul avea 18.000 de locuri", "Locul de naștere al lui Dioclețian", "Cel mai mare sit arheologic din țară"],
+      en: ["Destroyed by Avars in 614 AD", "Amphitheater held 18,000 people", "Birthplace of Emperor Diocletian", "Largest archaeological site in Croatia"],
+    },
+    image: "/poi-images/croatia-salona-ruins-history-v2.webp",
+},  {
     id: "croatia-vucedol-culture-history-v2",
     type: "ruins",
-    name: { de: "Vučedol-Kulturstätte", hu: "Vučedoli kultúra helyszíne", ro: "Situl culturii Vučedol", en: "Vučedol Archaeological Site" },
+    name: { de: "Vučedol-Kulturstätte", hu: "Vučedoli kultúra helyszíne", ro: "Situl culturii Vučedol", en: "Vučedol Archaeological Site",
+image: "/poi-images/croatia-vucedol-culture-history-v2.webp"
+},
     coords: [19.0575, 45.3344],
     coordinates: { lat: 45.3344, lng: 19.0575 },
     description: {
@@ -248,11 +429,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Locul unde a fost găsit 'Porumbelul de la Vučedol'", "Cel mai vechi calendar indo-european descoperit aici", "Centrul unei civilizații din epoca cuprului", "Găzduiește un muzeu interactiv modern"],
       en: ["Site of the 'Vučedol Dove' find", "Oldest Indo-European calendar discovered here", "Center of a Copper Age civilization", "Houses a modern interactive museum"],
     },
-    imageHint: "Vučedol Dove ceramic ritual vessel", image: "/poi-images/croatia-vucedol-culture-history-v2.webp"},
-  {
+imageHint: "Vučedol Dove ceramic ritual vessel",
+    descriptionAdvanced: {
+      de: "Diese prähistorische Fundstätte an der Donau ist das Zentrum der Vučedol-Kultur, die für ihre fortschrittliche Metallurgie und die ältesten Kalenderdarstellungen bekannt ist.",
+      hu: "Ez a Duna-menti őskori lelőhely a Vučedol-kultúra központja, amely fejlett kohászatáról, különleges kerámiáiról és a világ egyik legrégebbi naptáráról nevezetes.",
+      ro: "Acest sit preistoric de pe malul Dunării este centrul culturii Vučedol, cunoscută pentru metalurgia avansată și cele mai vechi reprezentări ale unui calendar.",
+      en: "This prehistoric site on the Danube is the center of the Vučedol culture, renowned for its advanced metallurgy and some of the world's oldest calendar depictions.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit zwischen 3000 und 2500 v. Chr.", "Fundort der berühmten Vučedol-Taube", "Erste Serienproduktion von Metall", "Moderner Museumsbau vor Ort"],
+      hu: ["Virágkora i.e. 3000 és 2500 között", "A híres vučedoli galamb lelőhelye", "Az első sorozatgyártott fémek helye", "Modern múzeum található a helyszínen"],
+      ro: ["Perioada de vârf: 3000-2500 î.Hr.", "Locul de origine al Porumbelului Vučedol", "Prima producție de metal în serie", "Muzeu modern inaugurat recent la sit"],
+      en: ["Flourished between 3000-2500 BC", "Home of the famous Vučedol Dove", "First mass production of metal objects", "Modern museum located on the site"],
+    },
+    image: "/poi-images/croatia-vucedol-culture-history-v2.webp",
+},  {
     id: "croatia-st-donatus-zadar-history-v2",
     type: "church",
-    name: { de: "Donatuskirche in Zadar", hu: "Szent Donát-templom", ro: "Biserica Sfântul Donat", en: "Church of St. Donatus" },
+    name: { de: "Donatuskirche in Zadar", hu: "Szent Donát-templom", ro: "Biserica Sfântul Donat", en: "Church of St. Donatus",
+image: "/poi-images/croatia-st-donatus-zadar-history-v2.webp"
+},
     coords: [15.2244, 44.1158],
     coordinates: { lat: 44.1158, lng: 15.2244 },
     description: {
@@ -267,11 +463,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Construcție circulară cu trei abside", "A utilizat materiale din forumul roman", "Cunoscută pentru acustica excelentă", "Cea mai importantă structură carolingiană din Croația"],
       en: ["Circular structure with three apses", "Used stones from the Roman Forum for construction", "Known for its excellent acoustics", "Most important building of the Carolingian period in Croatia"],
     },
-    imageHint: "Saint Donatus church in Zadar circular shape", image: "/poi-images/croatia-st-donatus-zadar-history-v2.webp"},
-  {
+imageHint: "Saint Donatus church in Zadar circular shape",
+    descriptionAdvanced: {
+      de: "Die Rundkirche St. Donatus in Zadar ist ein bedeutendes Beispiel vorromanischer Architektur in Dalmatien, errichtet unter Verwendung von Spolien des benachbarten römischen Forums.",
+      hu: "A zadari Szent Donát-templom a preromán építészet kiemelkedő emléke Dalmáciában, amelynek építéséhez a szomszédos római fórumról származó köveket is felhasználtak.",
+      ro: "Biserica circulară Sfântul Donat din Zadar este un exemplu major de arhitectură preromanică în Dalmația, construită parțial cu materiale din forul roman adiacent.",
+      en: "The round Church of St. Donatus in Zadar is a pre-Romanesque architectural landmark built in the 9th century using spolia from the neighboring Roman Forum.",
+    },
+    factsAdvanced: {
+      de: ["Bau im 9. Jahrhundert vollendet", "Höhe der Rotunde beträgt 27 Meter", "Verwendet antike römische Säulen", "Hervorragende Akustik für Konzerte"],
+      hu: ["A 9. században fejezték be", "A rotunda magassága 27 méter", "Antik római oszlopokat használtak", "Kiváló akusztika koncertekhez"],
+      ro: ["Finalizată în secolul al IX-lea", "Înălțimea rotunde este de 27 metri", "Încorporează coloane romane antice", "Acustică excelentă pentru concerte"],
+      en: ["Completed in the 9th century", "Rotunda height is 27 meters", "Incorporates ancient Roman columns", "Renowned acoustics for concerts"],
+    },
+    image: "/poi-images/croatia-st-donatus-zadar-history-v2.webp",
+},  {
     id: "croatia-varazdin-old-town-history-v2",
     type: "landmark",
-    name: { de: "Altstadt von Varaždin", hu: "Varasd óvárosa", ro: "Orașul vechi din Varaždin", en: "Varaždin Old Town" },
+    name: { de: "Altstadt von Varaždin", hu: "Varasd óvárosa", ro: "Orașul vechi din Varaždin", en: "Varaždin Old Town",
+image: "/poi-images/croatia-varazdin-old-town-history-v2.webp"
+},
     coords: [16.3312, 46.3094],
     coordinates: { lat: 46.3094, lng: 16.3312 },
     description: {
@@ -287,11 +498,25 @@ export const croatiaHistoryV2: POI[] = [
       en: ["Served as capital from 1767 to 1776", "Has a completely preserved City Hall", "Known as the 'City of Angels'", "Holds valuable collections in the City Museum"],
     },
     imageHint: "Varazdin old town white castle",
+    descriptionAdvanced: {
+      de: "Varaždin, die einstige Hauptstadt Kroatiens, besticht durch sein harmonisches Barockensemble und die strahlend weiße Festung, die ein wichtiges Glied im Verteidigungssystem war.",
+      hu: "Varaždin, Horvátország egykori fővárosa, egységes barokk városképével és ragyogó fehér várkastélyával nyűgöz le, amely fontos láncszeme volt a határmenti védelmi rendszernek.",
+      ro: "Varaždin, fosta capitală a Croației, impresionează prin ansamblul baroc armonios și cetatea albă strălucitoare, care a fost un punct cheie în sistemul defensiv.",
+      en: "Varaždin, Croatia's former capital, is celebrated for its harmonious Baroque urban core and its iconic white fortress, once a key link in the regional defense system.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt Kroatiens (1767–1776)", "Festung im 16. Jh. modernisiert", "Stadt der Engel und Blumen genannt", "Halle der Wache im Erdgeschoss"],
+      hu: ["Horvátország fővárosa 1767–1776 közt", "A várat a 16. században modernizálták", "Az angyalok és virágok városának hívják", "Őrségi csarnok a földszinten"],
+      ro: ["Capitala Croației între 1767 și 1776", "Cetatea modernizată în secolul XVI", "Supranumit orașul îngerilor și florilor", "Sala gărzii situată la parterul cetății"],
+      en: ["Croatia's capital from 1767 to 1776", "Fortress modernized in the 16th c.", "Known as the city of angels and flowers", "Guard hall located on the ground floor"],
+    },
   },
   {
     id: "croatia-nehaj-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Nehaj", hu: "Nehaj-vár", ro: "Cetatea Nehaj", en: "Nehaj Fortress" },
+    name: { de: "Festung Nehaj", hu: "Nehaj-vár", ro: "Cetatea Nehaj", en: "Nehaj Fortress",
+image: "/poi-images/croatia-nehaj-fortress-history-v2.webp"
+},
     coords: [14.9044, 44.9886],
     coordinates: { lat: 44.9886, lng: 14.9044 },
     description: {
@@ -306,11 +531,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Sediul faimoșilor uscoci (luptători de gherilă)", "Zidurile au 18 metri înălțime", "Construită din pietrele bisericilor distruse", "Are 100 de guri de tragere pentru tunuri"],
       en: ["Seat of the famous Uskoks (irregulars)", "The walls are 18 meters high", "Built from the stones of destroyed churches", "Has 100 embrasures for cannons"],
     },
-    imageHint: "Fortress Nehaj in Senj square tower", image: "/poi-images/croatia-nehaj-fortress-history-v2.webp"},
-  {
+imageHint: "Fortress Nehaj in Senj square tower",
+    descriptionAdvanced: {
+      de: "Die 1558 fertiggestellte Festung Nehaj in Senj diente den Uskoken als uneinnehmbarer Stützpunkt zur Abwehr von Seeangriffen der Osmanen und der Republik Venedig.",
+      hu: "Az 1558-ban elkészült Zengg (Senj) feletti Nehaj-vár az uszkókok bevehetetlen bázisa volt, amely az oszmánok és a Velencei Köztársaság tengeri támadásai ellen védett.",
+      ro: "Finalizată în 1558, cetatea Nehaj din Senj a servit luptătorilor Uskoci ca bază inexpugnabilă pentru respingerea atacurilor maritime otomane și venețiene.",
+      en: "Completed in 1558, Nehaj Fortress in Senj served as an impregnable base for the Uskoks to defend against both Ottoman and Venetian naval assaults.",
+    },
+    factsAdvanced: {
+      de: ["Quadratischer Grundriss: 18 Meter hoch", "Mauern sind 2 bis 3,3 Meter dick", "Besitzt 100 Schießscharten für Gewehre", "Baumaterial von Klöstern verwendet"],
+      hu: ["Négyzetes alaprajz: 18 méter magas", "A falak 2–3,3 méter vastagok", "100 lőréssel rendelkezik puskákhoz", "Kolostorok köveiből épült fel"],
+      ro: ["Plan pătrat, înălțime de 18 metri", "Ziduri groase de 2 până la 3,3 m", "Dotată cu 100 de guri de tragere", "Materiale recuperate de la mănăstiri"],
+      en: ["Square layout, 18 meters high", "Walls are 2 to 3.3 meters thick", "Features 100 loopholes for firearms", "Built using stone from nearby abbeys"],
+    },
+    image: "/poi-images/croatia-nehaj-fortress-history-v2.webp",
+},  {
     id: "croatia-ston-walls-history-v2",
     type: "landmark",
-    name: { de: "Mauern von Ston", hu: "Stoni várfal", ro: "Zidurile din Ston", en: "Ston City Walls" },
+    name: { de: "Mauern von Ston", hu: "Stoni várfal", ro: "Zidurile din Ston", en: "Ston City Walls",
+image: "/poi-images/croatia-ston-walls-history-v2.webp"
+},
     coords: [17.6966, 42.8378],
     coordinates: { lat: 42.8378, lng: 17.6966 },
     description: {
@@ -325,11 +565,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Al doilea cel mai lung zid din lume după cel chinezesc", "Construit în secolele XIV și XV", "Întărit cu 40 de turnuri și 5 fortărețe", "Inițial avea peste 7 km lungime"],
       en: ["Second longest defensive wall in the world after China", "Built in the 14th and 15th centuries", "Reinforced with 40 towers and 5 fortresses", "Originally over 7 km long"],
     },
-    imageHint: "Long stone walls of Ston on hillside", image: "/poi-images/croatia-ston-walls-history-v2.webp"},
-  {
+imageHint: "Long stone walls of Ston on hillside",
+    descriptionAdvanced: {
+      de: "Die Mauern von Ston wurden ab dem 14. Jahrhundert zum Schutz der wertvollen Salinen der Republik Ragusa errichtet und gelten als die längste Wehrmauer Europas.",
+      hu: "A stoni falakat a 14. századtól építették a Raguzai Köztársaság értékes sólepárlóinak védelmére; ma Európa leghosszabb erődrendszereként tartják számon.",
+      ro: "Zidurile din Ston au fost ridicate începând cu secolul XIV pentru a proteja salinele valoroase ale Republicii Ragusa, fiind cel mai lung sistem defensiv din Europa.",
+      en: "The Walls of Ston were built starting in the 14th century to protect the Republic of Ragusa's vital salt pans and are considered the longest fortification in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Ursprüngliche Länge von 7 Kilometern", "Verbindet Ston mit Mali Ston", "Umfasst 3 Festungen und 41 Türme", "Bauzeit dauerte fast 200 Jahre"],
+      hu: ["Eredeti hossza 7 kilométer volt", "Stont és Mali Stont köti össze", "3 erődöt és 41 bástyát tartalmaz", "Az építkezés közel 200 évig tartott"],
+      ro: ["Lungimea originală a fost de 7 km", "Conectează localitățile Ston și Mali Ston", "Include 3 fortărețe și 41 de turnuri", "Construcția a durat aproape 200 de ani"],
+      en: ["Original length was 7 kilometers", "Connects Ston with Mali Ston", "Includes 3 fortresses and 41 towers", "Construction spanned nearly 200 years"],
+    },
+    image: "/poi-images/croatia-ston-walls-history-v2.webp",
+},  {
     id: "croatia-zadar-forum-history-v2",
     type: "ruins",
-    name: { de: "Römisches Forum Zadar", hu: "Zadar római fóruma", ro: "Forumul roman din Zadar", en: "Zadar Roman Forum" },
+    name: { de: "Römisches Forum Zadar", hu: "Zadar római fóruma", ro: "Forumul roman din Zadar", en: "Zadar Roman Forum",
+image: "/poi-images/croatia-zadar-forum-history-v2.webp"
+},
     coords: [15.2241, 44.1155],
     coordinates: { lat: 44.1155, lng: 15.2241 },
     description: {
@@ -344,11 +599,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Dimensiuni de 90 pe 45 de metri", "Construcția a durat până în secolul al III-lea", "Include o 'coloană a rușinii' din Evul Mediu", "Pavajul original este parțial vizibil"],
       en: ["Measures 90 by 45 meters", "Construction lasted until the 3rd century", "Remains of a medieval 'shame pillar' present", "Original Roman pavement is partly visible"],
     },
-    imageHint: "Ruins of Roman Forum in Zadar city center", image: "/poi-images/croatia-zadar-forum-history-v2.webp"},
-  {
+imageHint: "Ruins of Roman Forum in Zadar city center",
+    descriptionAdvanced: {
+      de: "Das römische Forum in Zadar war der größte öffentliche Platz an der östlichen Adriaküste und bildete im 1. Jahrhundert das soziale und politische Herz der antiken Stadt Iader.",
+      hu: "A zadari római fórum az Adria keleti partjának legnagyobb nyilvános tere volt, amely az 1. században az antik Iader városának társadalmi és politikai szívét alkotta.",
+      ro: "Forul roman din Zadar a fost cea mai mare piață publică de pe coasta estică a Adriaticii, reprezentând inima socială a orașului antic Iader în secolul I.",
+      en: "The Roman Forum in Zadar was the largest public square on the eastern Adriatic coast, serving as the social and political heart of ancient Iader in the 1st century.",
+    },
+    factsAdvanced: {
+      de: ["Unter Kaiser Augustus gegründet", "Maße betragen 90 mal 45 Meter", "Zwei Säulen stehen noch im Original", "Fundamente der Basilika sichtbar"],
+      hu: ["Augustus császár alapította", "Mérete 90 x 45 méter", "Két oszlop ma is az eredeti helyén áll", "A bazilika alapjai jól láthatóak"],
+      ro: ["Fondat sub împăratul Augustus", "Dimensiuni de 90 pe 45 metri", "Două coloane sunt încă în picioare", "Fundațiile bazilicii sunt vizibile"],
+      en: ["Founded under Emperor Augustus", "Dimensions are 90 by 45 meters", "Two columns remain in situ", "Foundations of the basilica are visible"],
+    },
+    image: "/poi-images/croatia-zadar-forum-history-v2.webp",
+},  {
     id: "croatia-nesactium-ruins-history-v2",
     type: "ruins",
-    name: { de: "Nesactium", hu: "Nesactium", ro: "Nesactium", en: "Nesactium" },
+    name: { de: "Nesactium", hu: "Nesactium", ro: "Nesactium", en: "Nesactium",
+image: "/poi-images/croatia-nesactium-ruins-history-v2.webp"
+},
     coords: [13.9683, 44.9181],
     coordinates: { lat: 44.9181, lng: 13.9683 },
     description: {
@@ -363,11 +633,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Cel mai important sit arheologic din Istria", "Regele Epulon s-a sinucis aici", "Prezintă straturi din epoca bronzului și cea romană", "Include rămășițele unor bazilici creștine timpurii"],
       en: ["Istria's most important archaeological site", "King Epulon committed suicide here", "Shows layers from Bronze Age and Roman era", "Contains remains of early Christian basilicas"],
     },
-    imageHint: "Archaeological site of Nesactium Istria", image: "/poi-images/croatia-nesactium-ruins-history-v2.webp"},
-  {
+imageHint: "Archaeological site of Nesactium Istria",
+    descriptionAdvanced: {
+      de: "Nesactium war die Hauptstadt des illyrischen Stammes der Histrier und Schauplatz ihrer letzten Schlacht gegen die Römer im Jahr 177 v. Chr., was das Ende ihrer Unabhängigkeit markierte.",
+      hu: "Nesactium az illír hiszter törzs fővárosa volt, és az i.e. 177-ben vívott, rómaiak elleni utolsó csatájuk helyszíne, amely függetlenségük végét jelentette Isztrián.",
+      ro: "Nesactium a fost capitala tribului ilir al histrilor și locul ultimei bătălii împotriva romanilor în 177 î.Hr., marcând sfârșitul independenței lor.",
+      en: "Nesactium was the capital of the Illyrian Histri tribe and the site of their final stand against the Romans in 177 BC, marking the end of their independence.",
+    },
+    factsAdvanced: {
+      de: ["König Epulon beging hier Selbstmord", "In der Nähe des heutigen Pula", "Befestigte Mauern sind noch sichtbar", "Archäologische Funde seit dem 19. Jh."],
+      hu: ["Epulon király itt követte el öngyilkosságát", "A mai Pula városának közelében", "A védőfalak ma is láthatóak", "A 19. század óta kutatott lelőhely"],
+      ro: ["Regele Epulon s-a sinucis aici", "Situat lângă orașul actual Pula", "Zidurile fortificate sunt vizibile", "Cercetat arheologic din secolul XIX"],
+      en: ["King Epulon committed suicide here", "Located near present-day Pula", "Fortified walls are still visible", "Archaeological finds date to 19th c."],
+    },
+    image: "/poi-images/croatia-nesactium-ruins-history-v2.webp",
+},  {
     id: "croatia-burnum-roman-camp-history-v2",
     type: "ruins",
-    name: { de: "Römisches Lager Burnum", hu: "Burnum római tábora", ro: "Tabăra romană Burnum", en: "Burnum Roman Camp" },
+    name: { de: "Römisches Lager Burnum", hu: "Burnum római tábora", ro: "Tabăra romană Burnum", en: "Burnum Roman Camp",
+image: "/poi-images/croatia-burnum-roman-camp-history-v2.webp"
+},
     coords: [16.0203, 44.0506],
     coordinates: { lat: 44.0506, lng: 16.0203 },
     description: {
@@ -382,11 +667,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Două arcuri ale comandamentului s-au păstrat", "Singurul amfiteatru militar roman din Croația", "Sediul legiunii XI Claudia Pia Fidelis", "Distrus de goți în secolul al VI-lea"],
       en: ["Two arches of the command building remain", "Only Roman military amphitheater in Croatia", "Seat of the XI Legion Claudia Pia Fidelis", "Destroyed by the Goths in the 6th century"],
     },
-    imageHint: "Roman arches of Burnum Krka", image: "/poi-images/croatia-burnum-roman-camp-history-v2.webp"},
-  {
+imageHint: "Roman arches of Burnum Krka",
+    descriptionAdvanced: {
+      de: "Burnum war ein bedeutendes römisches Militärlager am Fluss Krka, das strategisch zur Kontrolle der lokalen Bevölkerung und der Verkehrswege im Hinterland Dalmatiens errichtet wurde.",
+      hu: "Burnum a Krka folyó mentén fekvő jelentős római katonai tábor volt, amelyet a helyi lakosság ellenőrzésére és a dalmát hátország fontos útvonalainak védelmére építettek.",
+      ro: "Burnum a fost un castru militar roman major pe malul râului Krka, construit strategic pentru controlul populației locale și al rutelor din interiorul Dalmației.",
+      en: "Burnum was a significant Roman military camp on the Krka river, strategically built to control the local population and key routes in the Dalmatian hinterland.",
+    },
+    factsAdvanced: {
+      de: ["Einziges römisches Amphitheater im Feld", "Zwei monumentale Bögen erhalten", "Sitz der XI. Legion Claudia Pia Fidelis", "Erbaut im 1. Jahrhundert n. Chr."],
+      hu: ["Az egyetlen római tábori amfiteátrum", "Két monumentális ív maradt fenn", "A XI. Claudia Pia Fidelis légió bázisa", "Az i.sz. 1. században épült fel"],
+      ro: ["Singurul amfiteatru militar roman", "Două arcuri monumentale păstrate", "Sediul Legiunii XI Claudia Pia Fidelis", "Construit în secolul I d.Hr."],
+      en: ["Only Roman military amphitheater found", "Two monumental arches still stand", "Seat of the XI Legion Claudia Pia Fidelis", "Built in the 1st century AD"],
+    },
+    image: "/poi-images/croatia-burnum-roman-camp-history-v2.webp",
+},  {
     id: "croatia-brijuni-byzantine-castrum-history-v2",
     type: "ruins",
-    name: { de: "Byzantinisches Kastell Brijuni", hu: "Bizánci kasztrum Brijuni", ro: "Castrul bizantin din Brijuni", en: "Brijuni Byzantine Castrum" },
+    name: { de: "Byzantinisches Kastell Brijuni", hu: "Bizánci kasztrum Brijuni", ro: "Castrul bizantin din Brijuni", en: "Brijuni Byzantine Castrum",
+image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp"
+},
     coords: [13.7322, 44.9125],
     coordinates: { lat: 44.9125, lng: 13.7322 },
     description: {
@@ -401,11 +701,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Acoperă o suprafață de 1 hectar", "Prezintă resturile unei bazilici din sec. V", "Extins pentru protecție împotriva piraților", "Cel mai important sit din arhipelagul Brijuni"],
       en: ["Covers an area of 1 hectare", "Shows remains of a 5th-century basilica", "Expanded for protection against pirates", "Most important archaeological site in Brijuni"],
     },
-    imageHint: "Ruins of Byzantine castrum in Brijuni", image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp"},
-  {
+imageHint: "Ruins of Byzantine castrum in Brijuni",
+    descriptionAdvanced: {
+      de: "Das byzantinische Castrum auf der Insel Veliki Brijun ist ein komplexes archäologisches Ensemble, das die Siedlungskontinuität von der Römerzeit bis zum frühen Mittelalter zeigt.",
+      hu: "A Veliki Brijun szigetén található bizánci castrum egy összetett régészeti együttes, amely a római kortól a kora középkorig tartó folyamatos lakottságot tükrözi.",
+      ro: "Castrul bizantin de pe insula Veliki Brijun este un ansamblu arheologic complex, care demonstrează continuitatea locuirii din epoca romană până în Evul Mediu timpuriu.",
+      en: "The Byzantine Castrum on Veliki Brijun island is a complex archaeological site demonstrating continuous habitation from Roman times through the Early Middle Ages.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Fläche von 1 Hektar", "Wohngebäude und Kirchenruinen", "Hafenanlagen aus der Römerzeit", "Befestigt im 6. Jahrhundert n. Chr."],
+      hu: ["Alapterülete megközelítőleg 1 hektár", "Lakóépületek és templomromok", "Római kori kikötői maradványok", "Az i.sz. 6. században erődítették"],
+      ro: ["Acoperă o suprafață de 1 hectar", "Include locuințe și ruine de biserici", "Structuri portuare din epoca romană", "Fortificat în secolul al VI-lea d.Hr."],
+      en: ["Covers an area of about 1 hectare", "Includes residential and church ruins", "Roman-era harbor structures present", "Fortified in the 6th century AD"],
+    },
+    image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp",
+},  {
     id: "croatia-gvozdansko-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Gvozdansko", hu: "Gvozdanszkó vára", ro: "Castelul Gvozdansko", en: "Gvozdansko Castle" },
+    name: { de: "Burg Gvozdansko", hu: "Gvozdanszkó vára", ro: "Castelul Gvozdansko", en: "Gvozdansko Castle",
+image: "/poi-images/croatia-gvozdansko-castle-history-v2.webp"
+},
     coords: [16.2164, 45.1322],
     coordinates: { lat: 45.1322, lng: 16.2164 },
     description: {
@@ -420,11 +735,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Centru minier pentru argint și plumb", "Considerat o cetate de necucerit", "Situat în județul Sisak-Moslavina", "Loc de comemorare a vitejiei croate"],
       en: ["Center of silver and lead mining", "Considered an impregnable fortress", "Located in Sisak-Moslavina County", "Memorial site for Croatian bravery"],
     },
-    imageHint: "Ruins of Gvozdansko fortress", image: "/poi-images/croatia-gvozdansko-castle-history-v2.webp"},
-  {
+imageHint: "Ruins of Gvozdansko fortress",
+    descriptionAdvanced: {
+      de: "Die Burg Gvozdansko ist ein Symbol heroischen kroatischen Widerstands; 1578 kämpfte die Besatzung bis zum letzten Mann gegen die Osmanen und erfror lieber, als zu kapitulieren.",
+      hu: "Gvozdansko vára a horvát ellenállás hősi szimbóluma; 1578-ban a várvédők az utolsó szálig küzdöttek az oszmánok ellen, és inkább megfagytak, semhogy megadják magukat.",
+      ro: "Castelul Gvozdansko este un simbol al rezistenței croate eroice; în 1578, garnizoana a luptat până la ultimul om, preferând să înghețe decât să se predea otomanilor.",
+      en: "Gvozdansko Castle is a symbol of heroic Croatian resistance; in 1578, its defenders fought to the last man, freezing to death rather than surrendering to the Ottomans.",
+    },
+    factsAdvanced: {
+      de: ["Besitz der Adelsfamilie Zrinski", "Berühmt für Silberminen in der Nähe", "Belagerung dauerte drei Monate", "Wurde nach der Eroberung gesprengt"],
+      hu: ["A Zrínyi nemesi család tulajdona", "A közelben híres ezüstbányák voltak", "Az ostrom három hónapig tartott", "A hódítás után felrobbantották"],
+      ro: ["Proprietate a familiei nobiliare Zrinski", "Faimos pentru minele de argint din jur", "Asediul a durat trei luni de zile", "Fortificația a fost distrusă după cădere"],
+      en: ["Owned by the noble Zrinski family", "Famous for nearby silver mines", "Siege lasted for three months", "Partially destroyed after the fall"],
+    },
+    image: "/poi-images/croatia-gvozdansko-castle-history-v2.webp",
+},  {
     id: "croatia-medvedgrad-history-v2",
     type: "castle",
-    name: { de: "Medvedgrad", hu: "Medvevár", ro: "Medvedgrad", en: "Medvedgrad" },
+    name: { de: "Medvedgrad", hu: "Medvevár", ro: "Medvedgrad", en: "Medvedgrad",
+image: "/poi-images/croatia-medvedgrad-history-v2.webp"
+},
     coords: [15.94, 45.8711],
     coordinates: { lat: 45.8711, lng: 15.94 },
     description: {
@@ -439,11 +769,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Găzduiește monumentul 'Altarul Patriei'", "Distrusă de un cutremur în 1590", "Restaurarea a început în anii 1970", "Oferă o vedere panoramică asupra Zagrebului"],
       en: ["Houses the 'Altar of the Homeland' memorial", "Destroyed by an earthquake in 1590", "Restoration began in the 1970s", "Offers panoramic views of Zagreb"],
     },
-    imageHint: "Medvedgrad fortress above Zagreb at night", image: "/poi-images/croatia-medvedgrad-history-v2.webp"},
-  {
+imageHint: "Medvedgrad fortress above Zagreb at night",
+    descriptionAdvanced: {
+      de: "Hoch über Zagreb gelegen, wurde Medvedgrad im 13. Jahrhundert als Schutz gegen die Tataren erbaut und beherbergt heute den Altar des Vaterlandes als nationale Gedenkstätte.",
+      hu: "Zágráb felett magasan emelkedő Medvedgrad vára a 13. században épült a tatárjárás elleni védekezésül; ma a Haza Oltárának és egy nemzeti emlékhelynek ad otthont.",
+      ro: "Situată deasupra Zagrebului, cetatea Medvedgrad a fost construită în secolul XIII împotriva tătarilor, găzduind astăzi Altarul Patriei ca memorial național.",
+      en: "Perched high above Zagreb, Medvedgrad was built in the 13th century as a defense against Tatar raids and now houses the Altar of the Homeland national memorial.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1250", "Besitzt eine Doppelkapelle", "Höhe von 593 Metern über dem Meer", "Umfangreiche Restaurierung in den 90ern"],
+      hu: ["Az építkezés 1250-ben kezdődött", "Különleges kettős kápolnával bír", "593 méterrel a tengerszint felett", "A 90-es években teljesen felújították"],
+      ro: ["Construcția a început în anul 1250", "Deține o capelă dublă unică", "Situată la 593 m deasupra mării", "Restaurată masiv în anii '90"],
+      en: ["Construction began in 1250", "Features a unique double chapel", "Elevation is 593 meters above sea", "Massively restored in the 1990s"],
+    },
+    image: "/poi-images/croatia-medvedgrad-history-v2.webp",
+},  {
     id: "croatia-osor-walls-history-v2",
     type: "landmark",
-    name: { de: "Stadtmauern von Osor", hu: "Osor városfalai", ro: "Zidurile orașului Osor", en: "Osor Walls" },
+    name: { de: "Stadtmauern von Osor", hu: "Osor városfalai", ro: "Zidurile orașului Osor", en: "Osor Walls",
+image: "/poi-images/croatia-osor-walls-history-v2.webp"
+},
     coords: [14.3931, 44.6936],
     coordinates: { lat: 44.6936, lng: 14.3931 },
     description: {
@@ -458,11 +803,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Fondat de către liburni", "Are un canal artificial din epoca romană", "A fost sediu episcopal în Evul Mediu", "Cunoscut pentru sculpturile în aer liber"],
       en: ["Founded by the Liburnians", "Has an artificial canal from Roman times", "Was a bishop's seat in the Middle Ages", "Famous for open-air sculptures"],
     },
-    imageHint: "Ancient walls of Osor town", image: "/poi-images/croatia-osor-walls-history-v2.webp"},
-  {
+imageHint: "Ancient walls of Osor town",
+    descriptionAdvanced: {
+      de: "Osor war einst eine strategische Handelsmetropole an der Nahtstelle zwischen den Inseln Cres und Lošinj, geschützt durch mächtige Mauern und einen antiken Kanalbau.",
+      hu: "Osor egykor stratégiai kereskedelmi metropolisz volt Cres és Lošinj szigeteinek találkozásánál, amelyet hatalmas falak és egy ókori csatorna védett az Adriai-tengeren.",
+      ro: "Osor a fost cândva o metropolă comercială strategică la joncțiunea dintre insulele Cres și Lošinj, protejată de ziduri masive și un canal navigabil antic.",
+      en: "Osor was once a strategic commercial hub at the junction of Cres and Lošinj islands, protected by massive walls and an ancient canal used for maritime trade.",
+    },
+    factsAdvanced: {
+      de: ["Kanal von Römern gegraben", "Sitz eines Bistums bis 1828", "Stadtmauer teilweise noch aus Antike", "Berühmt für die Statue der Kuna"],
+      hu: ["A csatornát még a rómaiak ásták", "1828-ig püspöki székhely volt", "A városfal egy része még ókori", "Híres a Kuna-szoborról"],
+      ro: ["Canal săpat inițial de romani", "Sediu episcopal până în anul 1828", "Fragmente de zid din epoca antică", "Faimos pentru statuia 'Kuna'"],
+      en: ["Canal originally dug by Romans", "Episcopal seat until the year 1828", "Wall fragments date to ancient times", "Famous for the Kuna statue"],
+    },
+    image: "/poi-images/croatia-osor-walls-history-v2.webp",
+},  {
     id: "croatia-korcula-old-town-history-v2",
     type: "landmark",
-    name: { de: "Altstadt von Korčula", hu: "Korčula óvárosa", ro: "Orașul vechi Korčula", en: "Korčula Old Town" },
+    name: { de: "Altstadt von Korčula", hu: "Korčula óvárosa", ro: "Orașul vechi Korčula", en: "Korčula Old Town",
+image: "/poi-images/croatia-korcula-old-town-history-v2.webp"
+},
     coords: [17.1356, 42.9616],
     coordinates: { lat: 42.9616, lng: 17.1356 },
     description: {
@@ -477,11 +837,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Locul de naștere tradițional al lui Marco Polo", "Înconjurat de turnuri defensive masive", "Catedrala Sfântul Marcu este piesa centrală", "Statutul din Korčula datează din 1214"],
       en: ["Traditional birthplace of Marco Polo", "Surrounded by massive defensive towers", "Cathedral of St. Mark is the centerpiece", "The Statute of Korčula dates from 1214"],
     },
-    imageHint: "Medieval town of Korcula aerial", image: "/poi-images/croatia-korcula-old-town-history-v2.webp"},
-  {
+imageHint: "Medieval town of Korcula aerial",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Korčula ist ein Musterbeispiel venezianischer Stadtplanung, angelegt in einer Fischgrätenstruktur, um den Schutz vor starken Winden und Feinden zu gewährleisten.",
+      hu: "Korčula óvárosa a velencei várostervezés mintapéldája; a hal szálkáihoz hasonló utcahálózata védelmet nyújtott az erős szél és a hódító ellenségek ellen.",
+      ro: "Orașul vechi Korčula este un exemplu model de urbanism venețian, cu străzi dispuse în formă de os de pește pentru protecție împotriva vântului și a inamicilor.",
+      en: "The old town of Korčula is a prime example of Venetian urban planning, featuring a fishbone street layout designed for protection against strong winds and invaders.",
+    },
+    factsAdvanced: {
+      de: ["Geburtsort von Marco Polo (traditionell)", "Gegründet von Griechen aus Knidos", "Besitzt 9 erhaltene Verteidigungstürme", "Kathedrale des hl. Markus (15. Jh.)"],
+      hu: ["Marco Polo hagyományos szülőhelye", "Knidoszi görögök alapították", "9 épségben maradt védőtornya van", "Szent Márk-székesegyház (15. sz.)"],
+      ro: ["Locul nașterii lui Marco Polo (tradiție)", "Fondat de greci veniți din Knidos", "Are 9 turnuri defensive păstrate", "Catedrala Sfântul Marcu din sec. XV"],
+      en: ["Traditional birthplace of Marco Polo", "Founded by Greeks from Knidos", "Features 9 preserved defense towers", "St. Mark's Cathedral (15th c.)"],
+    },
+    image: "/poi-images/croatia-korcula-old-town-history-v2.webp",
+},  {
     id: "croatia-hvar-fortica-history-v2",
     type: "castle",
-    name: { de: "Festung Fortica (Hvar)", hu: "Fortica-erőd (Hvar)", ro: "Fortăreața Fortica (Hvar)", en: "Hvar Fortress (Fortica)" },
+    name: { de: "Festung Fortica (Hvar)", hu: "Fortica-erőd (Hvar)", ro: "Fortăreața Fortica (Hvar)", en: "Hvar Fortress (Fortica)",
+image: "/poi-images/croatia-hvar-fortica-history-v2.webp"
+},
     coords: [16.4419, 43.1751],
     coordinates: { lat: 43.1751, lng: 16.4419 },
     description: {
@@ -496,11 +871,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["A salvat populația de turci în 1571", "Găzduiește o colecție de amfore antice", "Construită sub stăpânire venețiană", "Oferă vedere spre insulele Pakleni"],
       en: ["Saved the population from the Turks in 1571", "Houses a collection of ancient amphorae", "Built under Venetian rule", "Offers views of the Pakleni Islands"],
     },
-    imageHint: "Fortress Fortica above Hvar town", image: "/poi-images/croatia-hvar-fortica-history-v2.webp"},
-  {
+imageHint: "Fortress Fortica above Hvar town",
+    descriptionAdvanced: {
+      de: "Die Festung Fortica thront über der Stadt Hvar und bot der Bevölkerung im Jahr 1571 während eines verheerenden Angriffs der osmanischen Flotte lebensrettenden Schutz.",
+      hu: "A Hvar városa felett trónoló Fortica erőd 1571-ben nyújtott életmentő menedéket a lakosságnak az oszmán flotta pusztító támadása idején.",
+      ro: "Cetatea Fortica domină orașul Hvar, oferind adăpost salvator populației în anul 1571, în timpul unui atac devastator al flotei otomane asupra insulei.",
+      en: "Perched above Hvar town, Fortica Fortress provided life-saving refuge for the population in 1571 during a devastating attack by the Ottoman naval fleet.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn unter Venedig im 13. Jh.", "Großes Pulvermagazin im Inneren", "Blick auf die Pakleni-Inseln", "Zisternen fassen 550 m³ Wasser"],
+      hu: ["A velenceiek kezdték a 13. században", "Hatalmas lőporraktár van benne", "Kilátás nyílik a Pakleni-szigetekre", "Ciszternái 550 m³ vizet tároltak"],
+      ro: ["Construită de venețieni în sec. XIII", "Depozit masiv de pulbere în interior", "Vedere panoramică spre insulele Pakleni", "Cisterne cu o capacitate de 550 m³"],
+      en: ["Venetian construction began in 13th c.", "Massive gunpowder magazine inside", "Views of the Pakleni Islands", "Cisterns hold 550 m³ of water"],
+    },
+    image: "/poi-images/croatia-hvar-fortica-history-v2.webp",
+},  {
     id: "croatia-stari-grad-plain-history-v2",
     type: "landmark",
-    name: { de: "Ebene von Stari Grad", hu: "Stari Grad-síkság", ro: "Câmpia Stari Grad", en: "Stari Grad Plain" },
+    name: { de: "Ebene von Stari Grad", hu: "Stari Grad-síkság", ro: "Câmpia Stari Grad", en: "Stari Grad Plain",
+image: "/poi-images/croatia-stari-grad-plain-history-v2.webp"
+},
     coords: [16.6322, 43.1819],
     coordinates: { lat: 43.1819, lng: 16.6322 },
     description: {
@@ -515,11 +905,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Formată din câmpuri geometrice de piatră (Chora)", "Patrimoniu Mondial UNESCO din 2008", "Utilizată și astăzi pentru viță de vie și măslini", "Include numeroase structuri mici de piatră"],
       en: ["Consists of geometric stone fields (Chora)", "UNESCO World Heritage site since 2008", "Still used today for grapes and olives", "Contains numerous small stone structures"],
     },
-    imageHint: "Stari Grad Plain stone walls pattern", image: "/poi-images/croatia-stari-grad-plain-history-v2.webp"},
-  {
+imageHint: "Stari Grad Plain stone walls pattern",
+    descriptionAdvanced: {
+      de: "Die Ebene von Stari Grad ist eine Kulturlandschaft von Weltrang, die seit der griechischen Kolonisierung im 4. Jahrhundert v. Chr. fast unverändert landwirtschaftlich genutzt wird.",
+      hu: "A Stari Grad-síkság világraszóló kultúrtáj, amelyet az i.e. 4. századi görög gyarmatosítás óta szinte változatlan formában használnak mezőgazdasági termelésre Hvar szigetén.",
+      ro: "Câmpia Stari Grad este un peisaj cultural de importanță mondială, utilizat agricol aproape neschimbat de la colonizarea greacă din secolul IV î.Hr.",
+      en: "The Stari Grad Plain is a world-class cultural landscape that has remained virtually intact and in agricultural use since Greek colonization in the 4th century BC.",
+    },
+    factsAdvanced: {
+      de: ["Antike Parzellierung (Chora) erhalten", "Trockenmauern sind 2400 Jahre alt", "UNESCO-Weltkulturerbe seit 2008", "Fläche von etwa 1376 Hektar"],
+      hu: ["Az antik parcellázás (khóra) megmaradt", "A kőfalak 2400 évesek", "UNESCO Világörökség 2008 óta", "Területe mintegy 1376 hektár"],
+      ro: ["Sistem antic de parcelare conservat", "Zidurile de piatră au 2400 de ani", "Sit UNESCO protejat din anul 2008", "Suprafață de aproximativ 1376 hectare"],
+      en: ["Ancient parceling system preserved", "Stone walls are 2,400 years old", "UNESCO World Heritage since 2008", "Area covers about 1,376 hectares"],
+    },
+    image: "/poi-images/croatia-stari-grad-plain-history-v2.webp",
+},  {
     id: "croatia-pula-roman-theater-history-v2",
     type: "theater",
-    name: { de: "Kleines Römisches Theater", hu: "Kicsi római színház", ro: "Micul teatru roman din Pula", en: "Small Roman Theater" },
+    name: { de: "Kleines Römisches Theater", hu: "Kicsi római színház", ro: "Micul teatru roman din Pula", en: "Small Roman Theater",
+image: "/poi-images/croatia-pula-roman-theater-history-v2.webp"
+},
     coords: [13.8475, 44.8697],
     coordinates: { lat: 44.8697, lng: 13.8475 },
     description: {
@@ -534,11 +939,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Avea o capacitate de 5.000 de spectatori", "Scena și părți din gradene sunt vizibile", "Restaurat recent pentru spectacole", "Situat chiar în spatele Muzeului Arheologic"],
       en: ["Once seated up to 5,000 spectators", "Stage and parts of the seating are visible", "Recently restored for performances", "Located right behind the Archaeological Museum"],
     },
-    imageHint: "Ruins of Small Roman Theater in Pula", image: "/poi-images/croatia-pula-roman-theater-history-v2.webp"},
-  {
+imageHint: "Ruins of Small Roman Theater in Pula",
+    descriptionAdvanced: {
+      de: "Das kleine römische Theater in Pula wurde am Hang des zentralen Hügels errichtet und diente der Unterhaltung der Bürger der antiken Kolonie Pietas Iulia.",
+      hu: "A pulai kis római színházat a központi domb lejtőjén alakították ki, és az antik Pietas Iulia kolónia polgárainak szórakoztatását szolgálta Isztrián.",
+      ro: "Micul teatru roman din Pula a fost construit pe panta dealului central, servind divertismentului cetățenilor din colonia antică Pietas Iulia.",
+      en: "The Small Roman Theater in Pula was built into the slope of the central hill, serving as a venue for the entertainment of the ancient colony's citizens.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 1. Jahrhundert n. Chr.", "Bot Platz für ca. 5.000 Zuschauer", "Fundamente der Bühne noch sichtbar", "In der Nähe des Archäologischen Museums"],
+      hu: ["Az i.sz. 1. században épült", "Kb. 5000 néző befogadására alkalmas", "A színpad alapjai ma is láthatóak", "A Régészeti Múzeum közelében fekszik"],
+      ro: ["Construit în secolul I d.Hr.", "Capacitate de circa 5.000 de locuri", "Fundațiile scenei sunt vizibile", "Situat lângă Muzeul Arheologic"],
+      en: ["Built in the 1st century AD", "Capacity for about 5,000 spectators", "Stage foundations are clearly visible", "Located near the Archaeological Museum"],
+    },
+    image: "/poi-images/croatia-pula-roman-theater-history-v2.webp",
+},  {
     id: "croatia-solin-amphitheater-history-v2",
     type: "ruins",
-    name: { de: "Amphitheater von Salona", hu: "Salona amfiteátruma", ro: "Amfiteatrul din Salona", en: "Solin Amphitheater" },
+    name: { de: "Amphitheater von Salona", hu: "Salona amfiteátruma", ro: "Amfiteatrul din Salona", en: "Solin Amphitheater",
+image: "/poi-images/croatia-solin-amphitheater-history-v2.webp"
+},
     coords: [16.4744, 43.5414],
     coordinates: { lat: 43.5414, lng: 16.4744 },
     description: {
@@ -553,11 +973,26 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Capacitate de cca. 18.000 de spectatori", "Distrus de venețieni în secolul al XVII-lea", "Are un sistem de canale subterane", "Locul unde au murit martiri creștini"],
       en: ["Capacity for about 18,000 spectators", "Destroyed by Venetians in the 17th century", "Has an underground canal system", "Site where Christian martyrs were executed"],
     },
-    imageHint: "Ruins of Salona amphitheater Solin", image: "/poi-images/croatia-solin-amphitheater-history-v2.webp"},
-  {
+imageHint: "Ruins of Salona amphitheater Solin",
+    descriptionAdvanced: {
+      de: "Das Amphitheater der antiken Metropole Salona war ein monumentaler Bau, der den Wohlstand und die Bedeutung der Stadt als Verwaltungssitz der Provinz Dalmatien unterstrich.",
+      hu: "Az ókori Salona metropolosz amfiteátruma monumentális építmény volt, amely a város gazdagságát és Dalmácia tartományi központjaként betöltött szerepét hirdette.",
+      ro: "Amfiteatrul metropolei antice Salona a fost o construcție monumentală ce sublinia prosperitatea și importanța orașului ca sediu administrativ al provinciei Dalmația.",
+      en: "The amphitheater of ancient Salona was a monumental structure reflecting the city's wealth and status as the administrative capital of the Roman province of Dalmatia.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 2. Jahrhundert n. Chr.", "Platz für bis zu 18.000 Personen", "Besitzt ein ausgeklügeltes Entwässerungssystem", "Wurde im 17. Jh. von Venedig zerstört"],
+      hu: ["Az i.sz. 2. században épült", "Akár 18 000 embert is befogadott", "Fejlett vízelvezető rendszerrel bírt", "A velenceiek rombolták le a 17. sz.-ban"],
+      ro: ["Construit în secolul al II-lea d.Hr.", "Capacitate de până la 18.000 persoane", "Dispune de un sistem de drenaj ingenios", "Distrus de venețieni în secolul XVII"],
+      en: ["Built in the 2nd century AD", "Held up to 18,000 spectators", "Features a sophisticated drainage system", "Partially destroyed by Venetians in 17th c."],
+    },
+    image: "/poi-images/croatia-solin-amphitheater-history-v2.webp",
+},  {
     id: "croatia-trsat-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Trsat", hu: "Trszat vára", ro: "Castelul Trsat", en: "Trsat Castle" },
+    name: { de: "Burg Trsat", hu: "Trszat vára", ro: "Castelul Trsat", en: "Trsat Castle",
+image: "/poi-images/croatia-trsat-castle-history-v2.webp"
+},
     coords: [14.4578, 45.3323],
     coordinates: { lat: 45.3323, lng: 14.4578 },
     description: {
@@ -573,5 +1008,17 @@ export const croatiaHistoryV2: POI[] = [
       en: ["Former seat of the Frankopan noble family", "Restored by Count Nugent in the 19th century", "Houses a mausoleum", "Important pilgrimage center located nearby"],
     },
     imageHint: "Trsat Castle in Rijeka at dusk",
+    descriptionAdvanced: {
+      de: "Die Burg Trsat über Rijeka steht an der Stelle einer antiken liburnischen Festung und wurde im 19. Jahrhundert vom Grafen Laval Nugent als Mausoleum und Herrensitz prachtvoll restauriert.",
+      hu: "A Fiume (Rijeka) feletti Trsat vára egy ókori liburn erőd helyén áll; a 19. században Laval Nugent gróf újíttatta fel fényűző módon, mauzóleumként és lakóhelyként.",
+      ro: "Castelul Trsat deasupra orașului Rijeka se află pe locul unei foste cetăți liburne, fiind restaurat în secolul XIX de contele Laval Nugent ca reședință și mausoleu.",
+      en: "Trsat Castle overlooks Rijeka from the site of an ancient Liburnian fort, famously restored in the 19th century by Count Laval Nugent as a grand residence and mausoleum.",
+    },
+    factsAdvanced: {
+      de: ["Strategischer Blick auf die Kvarner-Bucht", "Besitz der Frankopan-Fürsten", "Nugents Grab wird von Basilisken bewacht", "138 Meter über dem Meeresspiegel"],
+      hu: ["Stratégiai kilátás a Kvarner-öbölre", "A Frangepán család birtoka volt", "Nugent sírját baziliszkuszok őrzik", "138 méterrel a tengerszint felett"],
+      ro: ["Vedere strategică spre Golful Kvarner", "Proprietate a familiei Frankopan", "Mormântul lui Nugent este păzit de basiliscuri", "Situat la 138 m deasupra mării"],
+      en: ["Strategic views of the Kvarner Gulf", "Once owned by the Frankopan princes", "Nugent's tomb guarded by bronze basilisks", "Elevation is 138 meters above sea level"],
+    },
   }
 ];

@@ -11,8 +11,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Tripolis Tower",
       hu: "Tripoli Torony",
       ro: "Turnul Tripoli",
-      en: "Tripoli Tower"
-    },
+      en: "Tripoli Tower",
+image: "/poi-images/tripoli-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "Tripoli Tower is the tallest and most recognizable skyscraper in Libya, soaring over the capital's central business district. Completed in the early 2000s, this modern glass-and-steel structure houses the headquarters for major national corporations, international embassies, and luxury commercial spaces. The tower was designed to project an image of a modern, economically booming Libya to the international community. Its top floors offer unparalleled, panoramic views of the entire city and the Mediterranean coastline. Geography K7 — modern urban skylines.",
       de: "Tripolis Tower ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eines der höchsten Gebäude in Tripolis, das ursprünglich Al-Fateh Tower hieß. Fertiggestellt 2003. Höhe: 144 Meter. Beherbergt Geschäfts- und Büroflächen. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -49,8 +50,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Corinthia Hotel Tripolis",
       hu: "Corinthia Hotel Tripoli",
       ro: "Hotelul Corinthia Tripoli",
-      en: "Corinthia Hotel Tripoli"
-    },
+      en: "Corinthia Hotel Tripoli",
+image: "/poi-images/corinthia-hotel-tripoli-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Corinthia Hotel Tripoli is the premier luxury hotel in Libya, located right at the edge of the Mediterranean Sea near the historic central business district. Opened in 2003, its twin curved towers are a major landmark, designed specifically to host international diplomats, journalists, and high-level business executives. The hotel features extensive high-security measures and operates almost as a self-contained diplomatic compound during times of unrest. It represents the focal point of international interaction within the country. Economics K7 — international diplomacy and luxury infrastructure.",
       de: "Corinthia Hotel Tripolis ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein 28-stöckiges Fünf-Sterne-Luxushotel im Stadtzentrum, das zu den Wahrzeichen der modernen Architektur gehört. Eröffnet 2003. Bietet Blick auf das Mittelmeer. Bekannt für seine markante Silhouette. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -87,8 +89,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Dat El Imad Türme",
       hu: "Dat El Imad Tornyok",
       ro: "Turnurile Dat El Imad",
-      en: "Dat El Imad Towers"
-    },
+      en: "Dat El Imad Towers",
+image: "/poi-images/dat-el-imad-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Dat El Imad Towers constitute a massive, highly distinctive commercial complex in Tripoli, consisting of five identical, towering cylindrical skyscrapers. Built during the economic boom of the 1980s, the complex was designed to serve as the premier administrative hub for the nation's oil and banking sectors. The brutalist, concrete-heavy design makes them incredibly resilient and highly visible from almost anywhere in the city. The complex remains one of the most vital corporate centers in North Africa. Geography K8 — brutalist architecture and corporate hubs.",
       de: "Dat El Imad Türme ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein Komplex aus fünf Hochhäusern, die im zentralen Geschäftsviertel von Tripolis stehen. Erbaut in den 1980er Jahren. Wichtiges Geschäftszentrum. Liegt nahe der Küste. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -125,8 +128,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Gamal-Abdel-Nasser-Moschee",
       hu: "Gamal Abdan-Nasszer Mecset",
       ro: "Moscheea Gamal Abdel Nasser",
-      en: "Gamal Abdel Nasser Mosque"
-    },
+      en: "Gamal Abdel Nasser Mosque",
+image: "/poi-images/jamal-abdul-nasser-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Gamal Abdel Nasser Mosque is a massive, visually stunning religious structure located in the heart of Tripoli, dominating the area near Martyrs' Square. Interestingly, the building was originally designed and constructed as a massive Catholic cathedral during the Italian colonial era. After the 1969 revolution, it was heavily modified, its crosses replaced by crescents, and repurposed into one of the city's largest mosques. The towering architecture beautifully illustrates the complex, layered history of modern Libya. Sociology K8 — architectural repurposing and national identity.",
       de: "Gamal-Abdel-Nasser-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine große Moschee in Tripolis, die ursprünglich als katholische Kathedrale in der Kolonialzeit erbaut wurde. Erbaut 1928. Umgebaut 1970. Befindet sich am Maidan Al Jazair. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -163,8 +167,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Märtyrerplatz",
       hu: "Mártírok Tere",
       ro: "Piața Martirilor",
-      en: "Martyrs' Square"
-    },
+      en: "Martyrs' Square",
+image: "/poi-images/martyrs-square-tripoli-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "Martyrs' Square is the absolute epicenter of Tripoli, a massive public plaza that connects the historic walled Medina to the modern commercial districts. Historically known as Green Square during the Gaddafi era and Piazza Italia during colonial times, the square has always been the stage for the nation's most important political rallies, military parades, and public celebrations. It is bordered by the imposing Red Castle and elegant Italianate arcades, making it the vibrant, bustling heart of the nation. Sociology K8 — public squares and political history.",
       de: "Märtyrerplatz ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der zentrale Platz und ein historisches Wahrzeichen in Tripolis, Schauplatz zahlreicher politischer Ereignisse. Ehemals Grüner Platz. Grenzt an die Rote Burg. Wichtiger Treffpunkt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -201,8 +206,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Tripolis-Stadion",
       hu: "Tripoli Stadion",
       ro: "Stadionul Tripoli",
-      en: "Tripoli Stadium"
-    },
+      en: "Tripoli Stadium",
+image: "/poi-images/tripoli-stadium-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "Tripoli Stadium is the largest and most important sporting venue in Libya, serving as the home ground for the national football team. With a massive seating capacity, the stadium is a cauldron of intense national pride and local athletic rivalry. Built as a multi-purpose venue, it has hosted numerous major African athletic tournaments and international matches. When a major derby or national game is played, the atmosphere and noise inside the stadium are genuinely deafening. Sociology K7 — national sports and stadium culture.",
       de: "Tripolis-Stadion ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein großes Mehrzweckstadion, das für Fußballspiele und Leichtathletikwettbewerbe genutzt wird. Eröffnet 1982. Kapazität: ca. 65.000. Früher als Stadion des 11. Juni bekannt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -239,8 +245,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Benina Flughafen Terminal",
       hu: "Benina Repülőtér Terminál",
       ro: "Terminalul Aeroportului Benina",
-      en: "Benina Airport Terminal"
-    },
+      en: "Benina Airport Terminal",
+image: "/poi-images/benina-airport-terminal-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Benina International Airport Terminal serves as the absolute critical aviation gateway for Benghazi and the entire eastern Cyrenaica region. Despite suffering massive structural damage during the 2014 civil conflict, rapid reconstruction efforts have restored its operational capacity, making it a symbol of regional resilience. The terminal handles both domestic flights connecting to Tripoli and vital international routes to Egypt and Tunisia. The constant hum of aircraft here is a daily indicator of the east's economic pulse. Geography K8 — regional aviation infrastructure.",
       de: "Benina Flughafen Terminal ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Hauptterminal des internationalen Flughafens Benina, der die Region um Bengasi bedient. Wichtigster Flughafen Ostlibyens. Moderne Erweiterungen. Verbindet Bengasi international. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -277,8 +284,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Tibesti Hotel",
       hu: "Tibesti Hotel",
       ro: "Hotel Tibesti",
-      en: "Tibesti Hotel"
-    },
+      en: "Tibesti Hotel",
+image: "/poi-images/tibesti-hotel-benghazi-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Tibesti Hotel is the undisputed architectural icon of modern Benghazi, an imposing skyscraper dominating the city's skyline. Overlooking the central lake and the Mediterranean Sea, it has historically been the primary accommodation for visiting dignitaries, international journalists, and business executives. During periods of national crisis, the hotel frequently transforms into a highly secure, ad-hoc media and political center. Its massive, unmissable profile makes it a key navigational landmark within the city. Sociology K7 — urban landmarks and political hubs.",
       de: "Tibesti Hotel ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eines der bekanntesten und größten Hotels in Bengasi, benannt nach dem Tibesti-Gebirge. Eröffnet 1989. Bietet Panoramablick auf den See. Wichtiges Konferenzzentrum. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -315,8 +323,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Leuchtturm von Bengasi",
       hu: "Bengázi Világítótorony",
       ro: "Farul din Benghazi",
-      en: "Benghazi Lighthouse"
-    },
+      en: "Benghazi Lighthouse",
+image: "/poi-images/benghazi-lighthouse-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Benghazi Lighthouse is a striking, elegant colonial-era structure that has guided Mediterranean shipping into the city's harbor for nearly a century. Built by Italian authorities in the 1920s, its crisp white exterior and classic cylindrical design stand out sharply against the deep blue sea. Miraculously surviving decades of severe urban warfare that destroyed many surrounding buildings, it remains a beloved symbol of continuity for the city's residents. It continues to function as a vital navigational aid for maritime traffic. History K6 — colonial maritime infrastructure.",
       de: "Leuchtturm von Bengasi ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein historischer Leuchtturm in Bengasi, erbaut während der italienischen Kolonialzeit. Erbaut in den 1920er Jahren. Etwa 22 Meter hoch. Wahrzeichen der Stadt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -353,8 +362,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Al-Sahaba-Moschee",
       hu: "Al-Szahába Mecset",
       ro: "Moscheea Al-Sahaba",
-      en: "Al-Sahaba Mosque"
-    },
+      en: "Al-Sahaba Mosque",
+image: "/poi-images/al-sahaba-mosque-derna-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Al-Sahaba Mosque is the spiritual and architectural heart of Derna, renowned for its massive, imposing domes and towering twin minarets. It is deeply revered because it houses the tombs of over seventy companions (Sahaba) of the Prophet Muhammad, who purportedly died during the early Islamic conquest of North Africa. The mosque suffered catastrophic, heartbreaking damage during the devastating 2023 floods that swept through the city. Despite the tragedy, it remains the most profound symbol of Derna's enduring religious heritage. Sociology K8 — religious landmarks and natural disasters.",
       de: "Al-Sahaba-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine prominente Moschee in Derna, die Gräber mehrerer Gefährten des Propheten Muhammad beherbergt. Bedeutendes religiöses Zentrum. Architektonisch markant. Enthält historische Gräber. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -391,8 +401,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Zentralmoschee von Misrata",
       hu: "Miszratai Központi Mecset",
       ro: "Moscheea Centrală din Misrata",
-      en: "Misrata Central Mosque"
-    },
+      en: "Misrata Central Mosque",
+image: "/poi-images/misrata-central-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Misrata Central Mosque serves as the massive, unifying spiritual center for Libya's booming commercial capital. Located in the bustling downtown area, the mosque's expansive prayer halls can accommodate thousands of worshippers, particularly during Friday prayers and Eid celebrations. Its architecture blends traditional North African Islamic motifs with distinctly modern, robust construction, reflecting the city's industrial wealth. The surrounding plaza is a major focal point for community gatherings and civic life. Sociology K7 — urban religious centers.",
       de: "Zentralmoschee von Misrata ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die Hauptmoschee von Misrata, bekannt für ihre modernen Minarette und die große Gebetshalle. Zentraler Gebetsort. Moderne islamische Architektur. Platz für Tausende Gläubige. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -429,8 +440,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Ouagadougou-Konferenzzentrum",
       hu: "Ouagadougou Konferenciaközpont",
       ro: "Centrul de Conferințe Ouagadougou",
-      en: "Ouagadougou Conference Center"
-    },
+      en: "Ouagadougou Conference Center",
+image: "/poi-images/ouagadougou-conference-center-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Ouagadougou Conference Center in Sirte is a colossal, sprawling complex originally built to host massive Pan-African and international summits. Designed to project Libyan diplomatic power, the complex features massive auditoriums, luxury accommodations, and highly fortified security perimeters. Following the 2011 revolution, it became infamous as a heavily fortified militant stronghold, suffering devastating damage during intense urban combat. Today, its pockmarked, massive concrete walls stand as a stark monument to Libya's turbulent modern political history. History K8 — modern political architecture and warfare.",
       de: "Ouagadougou-Konferenzzentrum ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein massiver architektonischer Komplex in Sirte, der für internationale afrikanische Gipfeltreffen gebaut wurde. Erbaut für die AU-Gipfel. Sehr große Hallenstruktur. Benannt nach der Hauptstadt von Burkina Faso. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -467,8 +479,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Große Moschee von Zawiya",
       hu: "Zavija Nagymecset",
       ro: "Marea Moscheea din Zawiya",
-      en: "Zawiya Grand Mosque"
-    },
+      en: "Zawiya Grand Mosque",
+image: "/poi-images/zawiya-grand-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Zawiya Grand Mosque dominates the central square of this vital western coastal city, serving as both a religious sanctuary and a prominent civic landmark. With its towering minaret visible from miles away, it acts as a primary navigational point for travelers moving along the coastal highway. The mosque gained profound historical significance during the 2011 revolution, as its surrounding square became a focal point for intense local resistance. Its modern, expansive design accommodates the city's rapidly growing population. Sociology K7 — civic landmarks and modern history.",
       de: "Große Moschee von Zawiya ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein bedeutendes islamisches Bauwerk und religiöses Zentrum in der Küstenstadt Zawiya. Lokales spirituelles Zentrum. Stolze Minarette. In der Nähe des Hauptplatzes. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -505,8 +518,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Leuchtturm von Al-Chums",
       hu: "Al-Khums Világítótorony",
       ro: "Farul Al Khums",
-      en: "Al Khums Lighthouse"
-    },
+      en: "Al Khums Lighthouse",
+image: "/poi-images/al-khums-lighthouse-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Al Khums Lighthouse is a vital, functional piece of maritime infrastructure located on the rugged coastline near the ancient ruins of Leptis Magna. Built to guide heavy shipping traffic into the specialized Al Khums port, the lighthouse features a stark, high-contrast paint scheme to remain visible against the often hazy Mediterranean horizon. It stands as a modern counterpoint to the ancient Roman columns located just down the beach. The structure is essential for the safety of the massive RoRo vehicle carriers frequenting the area. Geography K7 — modern maritime safety infrastructure.",
       de: "Leuchtturm von Al-Chums ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein markanter Leuchtturm am Hafen von Al-Chums, der die Schifffahrt an der historischen Küste leitet. Wichtiges maritimes Wahrzeichen. Leitet Schiffe zum Hafen. Befindet sich an der Küstenlinie. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -543,8 +557,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Erdölterminal Brega",
       hu: "Brega Olajterminál",
       ro: "Terminalul Petrolier Brega",
-      en: "Brega Oil Terminal"
-    },
+      en: "Brega Oil Terminal",
+image: "/poi-images/brega-oil-terminal-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Brega Oil Terminal is not just an economic asset; its massive, sprawling infrastructure makes it one of the most defining visual landmarks of the Gulf of Sidra. The complex is characterized by a dizzying array of colossal storage tanks, intricate pipe networks, and towering flare stacks that burn off excess gas, illuminating the night sky. For travelers moving along the coastal highway, the sheer scale of the Brega complex serves as a profound physical manifestation of Libya's immense hydrocarbon wealth. Geography K8 — industrial landscapes and hydrocarbons.",
       de: "Erdölterminal Brega ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine große und wirtschaftlich entscheidende Industrieanlage und Hafen für den Ölexport Libyens. Zentrum der petrochemischen Industrie. Großer Exporthafen. Industrielles Wahrzeichen. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -581,8 +596,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Raffinerie Ras Lanuf",
       hu: "Rasz Lanuf Finomító",
       ro: "Rafinăria Ras Lanuf",
-      en: "Ras Lanuf Refinery"
-    },
+      en: "Ras Lanuf Refinery",
+image: "/poi-images/ras-lanuf-refinery-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Ras Lanuf Refinery is a monumental feat of industrial engineering that dominates the central Libyan coastline. As the largest petrochemical complex in the country, its skyline is defined by massive distillation columns, cooling towers, and a vast labyrinth of pipelines. The facility is so large that it functions practically as its own enclosed city, complete with internal transport networks and dedicated power generation. It stands as a stark, metallic contrast to the barren, flat desert plains surrounding it. Economics K8 — mega-scale petrochemical engineering.",
       de: "Raffinerie Ras Lanuf ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine der größten Ölraffinerien Libyens, deren Fackeltürme schon von weitem sichtbar sind. Eröffnet 1984. Hohe Verarbeitungskapazität. Visuelles Wahrzeichen am Golf von Sidra. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -619,8 +635,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Fortezza Margherita",
       hu: "Fortezza Margherita",
       ro: "Fortezza Margherita",
-      en: "Fortezza Margherita"
-    },
+      en: "Fortezza Margherita",
+image: "/poi-images/fortezza-margherita-sabha-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "Fortezza Margherita, known locally as Fort Elena, is a massive, commanding fortification perched on a high ridge overlooking the desert city of Sabha. Built by Italian colonial forces in the 1920s to exert control over the rebellious Fezzan region, its thick stone walls and imposing watchtowers are visible from miles away. The fort was later famously featured on the reverse side of the ten-dinar banknote. Today, it stands as a stark, highly visible reminder of the region's turbulent colonial past and military history. History K8 — colonial desert fortifications.",
       de: "Fortezza Margherita ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine Festung aus der italienischen Kolonialzeit auf einem Hügel über Sabha, die heute als militärische Anlage genutzt wird. Erbaut während der italienischen Herrschaft. Bietet weiten Blick über Sabha. Auch als Elena Castle bekannt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -657,8 +674,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Sabha Flughafen Terminal",
       hu: "Szabha Repülőtér Terminál",
       ro: "Terminalul Aeroportului Sabha",
-      en: "Sabha Airport Terminal"
-    },
+      en: "Sabha Airport Terminal",
+image: "/poi-images/sabha-airport-terminal-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Sabha Airport Terminal is a vital logistical lifeline for the deeply isolated southern Fezzan region, connecting it to the coastal capital of Tripoli. The terminal architecture is functional and robust, designed to withstand the brutal, sand-blasting winds of the deep Sahara. It is a critical hub not just for civilian travel, but for the complex logistics required to supply the massive, remote oil fields further south. The constant activity here highlights the profound difficulty of traversing the Libyan desert by road. Geography K7 — remote aviation logistics.",
       de: "Sabha Flughafen Terminal ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Hauptgebäude des Sabha International Airport, der als wichtiges Luftfahrtdrehkreuz für Südlibyen dient. Tor zur Sahara. Militärische und zivile Nutzung. Verbindet Fezzan mit der Küste. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -695,8 +713,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Al-Asmariya-Moschee",
       hu: "Al-Aszmaríja Mecset",
       ro: "Moscheea Al-Asmariya",
-      en: "Al-Asmariya Mosque"
-    },
+      en: "Al-Asmariya Mosque",
+image: "/poi-images/al-asmarya-mosque-zliten-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Al-Asmariya Mosque in Zliten is one of the most deeply venerated spiritual landmarks in all of Libya, drawing thousands of pilgrims annually. It houses the magnificent tomb of Sidi Abd as-Salam al-Asmar, a highly revered 16th-century Sufi saint and scholar. The mosque complex is expansive, featuring stunning traditional tile work, a massive library, and a bustling adjacent university dedicated to Islamic jurisprudence. It remains a powerful bastion of traditional Libyan Sufi culture despite various historical challenges. Sociology K8 — Sufi heritage and religious pilgrimage.",
       de: "Al-Asmariya-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein wichtiges spirituelles Zentrum in Zliten, das der islamischen Gelehrsamkeit gewidmet ist. Bekannt für ihre Universität. Wichtiger Pilgerort. Kulturelles Zentrum von Zliten. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -733,8 +752,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Große Moschee von Shahat",
       hu: "Shahat Nagymecset",
       ro: "Marea Moschee din Shahat",
-      en: "Shahat Grand Mosque"
-    },
+      en: "Shahat Grand Mosque",
+image: "/poi-images/shahat-grand-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Shahat Grand Mosque is a beautiful, relatively modern religious structure situated in the lush, elevated environment of the Jabal al Akhdar. Located right on the edge of the ancient Greek ruins of Cyrene, the mosque provides a fascinating visual contrast between contemporary Islamic architecture and ancient Hellenic columns. Its pristine white domes and elegant minaret stand out sharply against the deep green pine and juniper forests that surround the town. It serves as the primary spiritual center for the local agricultural community. Sociology K7 — modern religious architecture in historic settings.",
       de: "Große Moschee von Shahat ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die moderne Hauptmoschee in der Nähe der antiken Ruinen von Kyrene. Zentrum für die örtliche Gemeinde. Architektonischer Kontrast zu antiken Ruinen. Auffälliges Minarett. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -771,8 +791,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Große Moschee von Al-Baida",
       hu: "Al-Baida Nagymecset",
       ro: "Marea Moschee din Al-Baida",
-      en: "Al-Baida Grand Mosque"
-    },
+      en: "Al-Baida Grand Mosque",
+image: "/poi-images/al-baida-grand-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Al-Baida Grand Mosque is a massive, architecturally imposing structure located in the heart of Al Bayda, historically known as the city of the Senussi movement. The mosque is characterized by its sheer scale, featuring multiple vast domes and soaring minarets that dominate the city's relatively low skyline. It reflects the city's historical importance, as Al Bayda was originally slated to be Libya's capital in the 1950s. The mosque remains a major center for religious scholarship in the eastern region. Sociology K8 — regional religious centers.",
       de: "Große Moschee von Al-Baida ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein prominentes religiöses Bauwerk in der hochgelegenen Stadt Al-Baida. Modernes islamisches Design. Wichtiger Treffpunkt. Befindet sich im Jebel Akhdar. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -809,8 +830,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Omar-Muchtár-Mausoleum",
       hu: "Omar Mukhtar Mauzóleum",
       ro: "Mausoleul lui Omar Mukhtar",
-      en: "Omar Mukhtar Mausoleum"
-    },
+      en: "Omar Mukhtar Mausoleum",
+image: "/poi-images/omar-mukhtar-mausoleum-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Omar Mukhtar Mausoleum, originally located in Benghazi and later moved to Suluq, is a profound monument dedicated to Libya's greatest national hero. Mukhtar, known as the 'Lion of the Desert', led the fierce, decades-long resistance against Italian colonization before his execution in 1931. The monument is stark and deeply reverent, serving as a site of intense national pride and historical pilgrimage for Libyans. It stands as a permanent, powerful symbol of the nation's struggle for independence. History K8 — national heroes and anti-colonial resistance.",
       de: "Omar-Muchtár-Mausoleum ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein Gedenkort in Bengasi für den berühmten libyschen Widerstandskämpfer gegen die italienische Kolonisation. Ehrung des Löwen der Wüste. Wichtiger Nationalstolz. Ursprünglich in Bengasi beigesetzt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -847,8 +869,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Zentrales Postamt Tripolis",
       hu: "Tripoli Központi Posta",
       ro: "Oficiul Poștal Central din Tripoli",
-      en: "Tripoli Central Post Office"
-    },
+      en: "Tripoli Central Post Office",
+image: "/poi-images/tripoli-central-post-office-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Tripoli Central Post Office is a magnificent example of Italian colonial architecture situated right on Algeria Square in the heart of the capital. Built in the 1930s, its grand, sweeping facade and elegant arched entryways reflect the grandiose, imperial style of the era. Beyond its architectural beauty, it remains a highly functional hub for the city's communications and administrative services. The building is a classic, highly recognizable landmark that anchors the historic downtown district. History K7 — colonial civic architecture.",
       de: "Zentrales Postamt Tripolis ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein historisches und architektonisch bedeutendes Gebäude im Stadtzentrum von Tripolis. Italienische Kolonialarchitektur. Nahe dem Märtyrerplatz. Zentraler Knotenpunkt für Telekommunikation. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -885,8 +908,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Große Moschee von Ghadames",
       hu: "Ghadamesz Nagymecset",
       ro: "Marea Moschee din Ghadames",
-      en: "Ghadames Grand Mosque"
-    },
+      en: "Ghadames Grand Mosque",
+image: "/poi-images/ghadames-grand-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Ghadames Grand Mosque is seamlessly integrated into the labyrinthine, mud-brick architecture of the ancient 'Pearl of the Desert'. Unlike traditional freestanding mosques, its structure blends perfectly with the surrounding covered walkways and terraced roofs of the UNESCO World Heritage site. The mosque features a highly distinct, subtly tapered mud-brick minaret that rises above the dense cluster of historic homes. It has served as the spiritual and communal anchor for trans-Saharan traders for centuries. Sociology K8 — integrated desert architecture.",
       de: "Große Moschee von Ghadames ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein spirituelles Zentrum in der Oasenstadt Ghadames, das südlich der historischen Altstadt liegt. Treffpunkt für Karawanen in der Vergangenheit. Lehmarchitektur. Wichtiges religiöses Bauwerk. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -923,8 +947,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Campus der Universität Bengasi",
       hu: "Bengázi Egyetem Campus",
       ro: "Campusul Universității din Benghazi",
-      en: "Benghazi University Campus"
-    },
+      en: "Benghazi University Campus",
+image: "/poi-images/benghazi-university-campus-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Benghazi University Campus is a massive, sprawling educational complex that serves as the premier institution of higher learning in eastern Libya. Originally founded in 1955, the modern campus features distinctive, brutalist-inspired concrete architecture spread across a massive footprint in the Garyounis district. The university has a profound political history, often acting as the intellectual epicenter for student activism and political movements. Despite suffering severe damage during recent urban conflicts, it remains a vital pillar of the city's future. Sociology K8 — higher education and student activism.",
       de: "Campus der Universität Bengasi ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein riesiger Bildungs- und Forschungskomplex, der ursprünglich Garyounis-Universität hieß. Gegründet 1955. Eine der größten Universitäten Libyens. Moderne Architektur. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -961,8 +986,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Al-Majidya-Moschee",
       hu: "Al-Madzsidija Mecset",
       ro: "Moscheea Al-Majidiya",
-      en: "Al-Majidiya Mosque"
-    },
+      en: "Al-Majidiya Mosque",
+image: "/poi-images/al-majidiya-mosque-tripoli-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Al-Majidiya Mosque is a beautiful, historically rich religious structure located within the ancient walls of Tripoli's Medina. Built during the Ottoman period, it is renowned for its highly detailed, ornate stucco work and deeply traditional courtyard design. The mosque provides a serene, quiet sanctuary, entirely insulated from the chaotic, bustling souks just outside its doors. It is frequently visited by architectural historians studying the unique blend of local Libyan and imperial Ottoman design elements. History K7 — Ottoman religious architecture.",
       de: "Al-Majidya-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine elegante historische Moschee nahe der Altstadt von Tripolis, bekannt für ihre detaillierte Verzierung. Osmanische Architektur. Nahe dem Souk. Wichtiges lokales Wahrzeichen. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -999,8 +1025,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Große Moschee von Tobruk",
       hu: "Tobruk Nagymecset",
       ro: "Marea Moschee din Tobruk",
-      en: "Tobruk Grand Mosque"
-    },
+      en: "Tobruk Grand Mosque",
+image: "/poi-images/tobruk-grand-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Tobruk Grand Mosque is the spiritual center of the far eastern Cyrenaica region, standing as a prominent landmark in the city's historic center. Known for its elegant, slender minarets and brilliant white facade, it provides a striking contrast to the dusty, arid environment typical of the Tobruk area. The mosque is not just a place of worship but a critical community center where local tribal and civic leaders frequently gather. Its sweeping courtyard can accommodate thousands during major Islamic holidays. Sociology K7 — urban religious architecture.",
       de: "Große Moschee von Tobruk ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das wichtigste islamische Zentrum in der östlichen Küstenstadt Tobruk. Zentraler Treffpunkt. Moderne Bauweise. Wichtig für das religiöse Leben der Stadt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1037,8 +1064,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Misrata Flughafen Terminal",
       hu: "Miszrata Repülőtér Terminál",
       ro: "Terminalul Aeroportului Misrata",
-      en: "Misrata Airport Terminal"
-    },
+      en: "Misrata Airport Terminal",
+image: "/poi-images/misrata-airport-terminal-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Misrata Airport Terminal is a vital civilian and logistical hub that underscores the city's status as Libya's commercial capital. Originally a military airbase, the civilian terminal was rapidly expanded to handle international business flights, primarily connecting to Turkey, Tunisia, and Egypt. The architecture is highly functional, designed to process large volumes of commercial travelers efficiently. During times when Tripoli's airport has been compromised, Misrata often takes over as the primary international gateway for western Libya. Geography K8 — commercial aviation infrastructure.",
       de: "Misrata Flughafen Terminal ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das zivile Passagierterminal am Misrata Airport, einem wichtigen Luftfahrtzentrum für den Handel. Verbindet Misrata international. Wichtiger Güterverkehr. Moderne Infrastruktur. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1075,8 +1103,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Al-Kish-Platz-Moschee",
       hu: "Al-Kis Tér Mecset",
       ro: "Moscheea din Piața Al-Kish",
-      en: "Al-Kish Square Mosque"
-    },
+      en: "Al-Kish Square Mosque",
+image: "/poi-images/al-kish-square-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Al-Kish Square Mosque is a highly recognizable religious structure located in one of Benghazi's most politically significant public spaces. The mosque's modern, expansive design accommodates the massive crowds that often gather in the adjacent square for protests, celebrations, and civic events. It gained profound national prominence during the 2011 revolution, serving as a rallying point for initial uprisings. The mosque remains deeply intertwined with the modern political identity of Benghazi's residents. Sociology K8 — religious spaces and political activism.",
       de: "Al-Kish-Platz-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine gut sichtbare Moschee am beliebten Al-Kish-Platz in Bengasi. Zentrum öffentlicher Versammlungen. Ort des Freitagsgebets. Wichtige städtische Landmarke. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1113,8 +1142,9 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       de: "Große Moschee von Bengasi",
       hu: "Bengázi Nagymecset",
       ro: "Marea Moschee din Benghazi",
-      en: "Benghazi Great Mosque"
-    },
+      en: "Benghazi Great Mosque",
+image: "/poi-images/benghazi-great-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Benghazi Great Mosque, historically known as the Atik Mosque, is the oldest existing Islamic structure in the city. Located in the historic Medina, its deeply traditional architecture reflects centuries of North African Islamic design, featuring a modest, unadorned exterior and a serene internal courtyard. Unlike the massive, modern mosques built during the oil boom, this structure offers a quiet, profound link to Benghazi's pre-colonial past. It remains a beloved, active place of worship for the city's oldest families. History K7 — historic urban mosques.",
       de: "Große Moschee von Bengasi ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die zentrale und älteste Moschee der Stadt Bengasi, ein Ort großer spiritueller Bedeutung. Erbaut in der osmanischen Zeit. Bedeutendes kulturelles Erbe. Zentrum der Medina. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",

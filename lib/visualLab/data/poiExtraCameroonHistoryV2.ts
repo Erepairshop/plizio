@@ -11,8 +11,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Königspalast von Foumban",
       hu: "Foumban Királyi Palota",
       ro: "Palatul Regal din Foumban",
-      en: "Foumban Royal Palace"
-    },
+      en: "Foumban Royal Palace",
+image: "/poi-images/foumban-royal-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Königspalast von Foumban ist das historische Machtzentrum der Bamoun-Dynastie. Erbaut Anfang des 20. Jahrhunderts unter Sultan Njoya, spiegelt er eine faszinierende Mischung aus traditionellen bamounschen Architekturformen und europäischen Einflüssen wider. Geschichte K8 — Kolonialzeit."
     },
@@ -41,8 +42,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Sklavenhafen von Bimbia",
       hu: "Bimbia rabszolgakikötő",
       ro: "Portul de sclavi Bimbia",
-      en: "Bimbia Slave Port"
-    },
+      en: "Bimbia Slave Port",
+image: "/poi-images/bimbia-slave-port-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bimbia war im 18. und 19. Jahrhundert einer der wichtigsten Sklavenhäfen Westafrikas. Heute dienen die Ruinen als Mahnmal für die dunkle Epoche des Sklavenhandels und bieten Einblicke in die Handelsbeziehungen zwischen lokalen Herrschern und europäischen Akteuren. Geschichte K8 — Sklavenhandel."
     },
@@ -71,8 +73,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Leuchtturm von Kribi",
       hu: "Kribi világítótorony",
       ro: "Farul din Kribi",
-      en: "Kribi Lighthouse"
-    },
+      en: "Kribi Lighthouse",
+image: "/poi-images/kribi-lighthouse-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Leuchtturm von Kribi ist ein markantes historisches Bauwerk aus der deutschen Kolonialzeit. Er steht symbolisch für die maritime Bedeutung Kribis als Handels- und Anlaufpunkt an der Atlantikküste über mehr als ein Jahrhundert. Geschichte K7 — Kolonialarchitektur."
     },
@@ -101,8 +104,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Residenz von Jesko von Puttkamer",
       hu: "Puttkamer-rezidencia",
       ro: "Reședința lui Jesko von Puttkamer",
-      en: "Prime Minister's Lodge"
-    },
+      en: "Prime Minister's Lodge",
+image: "/poi-images/prime-ministers-lodge-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die ehemalige Residenz des Premierministers in Buéa ist ein bedeutendes Zeugnis der deutschen Kolonialarchitektur in Kamerun. Das Gebäude wurde für hohe Beamte errichtet und diente später als prächtiger Sitz für koloniale und post-koloniale Verwaltungsaufgaben. Geschichte K7 — Architektur."
     },
@@ -131,8 +135,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Bismarckbrunnen",
       hu: "Bismarck-kút",
       ro: "Fântâna Bismarck",
-      en: "Bismarck Fountain"
-    },
+      en: "Bismarck Fountain",
+image: "/poi-images/bismarck-fountain-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Bismarck-Brunnen in Buéa ist ein Relikt aus der Zeit, als das Land Teil des Deutschen Reiches war. Er erinnert an Otto von Bismarck und ist ein umstrittenes, aber historisch bedeutendes Denkmal, das die wechselvolle koloniale Vergangenheit Kameruns verdeutlicht. Geschichte K7 — Erinnerungskultur."
     },
@@ -161,8 +166,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Palast von Charles Atangana",
       hu: "Charles Atangana Palotája",
       ro: "Palatul lui Charles Atangana",
-      en: "Charles Atangana Palace"
-    },
+      en: "Charles Atangana Palace",
+image: "/poi-images/charles-atangana-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast von Charles Atangana in Yaoundé ist ein wichtiges architektonisches Denkmal, das an einen der einflussreichsten kamerunischen Häuptlinge während der französischen Verwaltung erinnert. Er repräsentiert die Kooperation und Spannungen jener Epoche. Geschichte K7 — Kolonialzeit."
     },
@@ -191,8 +197,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Palast des Fon von Mankon",
       hu: "Mankon Fon Palotája",
       ro: "Palatul Fonului din Mankon",
-      en: "Mankon Fon's Palace"
-    },
+      en: "Mankon Fon's Palace",
+image: "/poi-images/mankon-fons-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast des Fons von Mankon ist ein spirituelles und politisches Zentrum im Grasland von Kamerun. Die Architektur und die darin bewahrten Kunstschätze geben tiefe Einblicke in die Traditionen und die Organisation der Bamiléké-Kultur. Kunst/Kultur K7 — Traditionen."
     },
@@ -221,8 +228,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Palast von Bafut",
       hu: "Bafut Palota",
       ro: "Palatul din Bafut",
-      en: "Bafut Palace"
-    },
+      en: "Bafut Palace",
+image: "/poi-images/bafut-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast von Bafut ist eines der beeindruckendsten Zeugnisse traditioneller Architektur im Kameruner Grasland. Als Zentrum des Bafut-Chiefdoms bewahrt er eine Jahrhunderte alte soziale und politische Ordnung der lokalen Bevölkerung. Geschichte K7 — Soziokultur."
     },
@@ -251,8 +259,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Kathedrale Notre-Dame-des-Victoires",
       hu: "Győzedelmes Miasszonyunk Katedrális",
       ro: "Catedrala Notre-Dame-des-Victoires",
-      en: "Cathedral of Our Lady of Victories"
-    },
+      en: "Cathedral of Our Lady of Victories",
+image: "/poi-images/notre-dame-des-victoires-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale Notre-Dame-des-Victoires in Yaoundé wurde im 20. Jahrhundert errichtet und ist das spirituelle Zentrum des Katholizismus im Land. Mit ihrer markanten Architektur prägt sie das Stadtbild der kamerunischen Hauptstadt maßgeblich. Geschichte K7 — Christentum."
     },
@@ -281,8 +290,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Wiedervereinigungsdenkmal",
       hu: "Újraegyesítési emlékmű",
       ro: "Monumentul Reunificării",
-      en: "Reunification Monument"
-    },
+      en: "Reunification Monument",
+image: "/poi-images/reunification-monument-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Wiedervereinigungsdenkmal in Yaoundé wurde geschaffen, um die Fusion des französisch- und englischsprachigen Teils Kameruns zu feiern. Es ist ein zentrales Symbol der nationalen Einheit und ein wichtiger Meilenstein in der Geschichte des modernen Kameruns. Geschichte K8 — Nationalstaat."
     },
@@ -311,8 +321,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Palast von Rey Bouba",
       hu: "Rey Bouba Palota",
       ro: "Palatul din Rey Bouba",
-      en: "Palace of Rey Bouba"
-    },
+      en: "Palace of Rey Bouba",
+image: "/poi-images/palace-of-rey-bouba-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast des Rey Bouba im Norden ist eine beeindruckende, traditionelle Anlage und Sitz eines bedeutenden Lamidats. Er ist ein seltenes Zeugnis für die islamisch geprägte Herrschaftsstruktur im Norden, die bis heute besteht. Geschichte K7 — Herrschaft."
     },
@@ -341,8 +352,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Häuptlingstum Bandjoun",
       hu: "Bandjoun Főnökség",
       ro: "Căpetenia Bandjoun",
-      en: "Bandjoun Chiefdom"
-    },
+      en: "Bandjoun Chiefdom",
+image: "/poi-images/bandjoun-chiefdom-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Häuptlingstum Bandjoun ist eines der mächtigsten und historisch bedeutsamsten Chiefdoms der Bamiléké-Region. Die Architektur des Palastes und die sozialen Strukturen sind tief verwurzelt und prägen bis heute das Leben in der Region. Geschichte K7 — Soziokultur."
     },
@@ -371,8 +383,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Ruinen von Diy-Gid-Biy",
       hu: "Diy-Gid-Biy romok",
       ro: "Ruinele din Diy-Gid-Biy",
-      en: "Diy-Gid-Biy Ruins"
-    },
+      en: "Diy-Gid-Biy Ruins",
+image: "/poi-images/diy-gid-biy-ruins-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Ruinen von Diy-Gid-Biy bei Mokolo sind ein archäologisches Rätsel, das von den Kulturen der Mandara-Berge erzählt. Sie bezeugen hochentwickelte Siedlungsstrukturen, die vor der Kolonialzeit bestanden und die Geschichte der Gebirgsregion belegen. Geschichte K8 — Archäologie."
     },
@@ -401,8 +414,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Alter deutscher Friedhof Douala",
       hu: "Régi német temető Douala",
       ro: "Vechiul cimitir german din Douala",
-      en: "Old German Cemetery Douala"
-    },
+      en: "Old German Cemetery Douala",
+image: "/poi-images/old-german-cemetery-douala-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der alte deutsche Friedhof in Douala ist eine stille Erinnerung an die Ära der deutschen Kolonialverwaltung. Er dokumentiert das Leben und Sterben der deutschen Siedler und Beamten sowie ihre Rolle in der Entwicklung der Handelsstadt Douala. Geschichte K7 — Kolonialzeit."
     },
@@ -431,8 +445,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Denkmal für General Leclerc",
       hu: "Leclerc Tábornok Emlékmű",
       ro: "Monumentul Generalului Leclerc",
-      en: "General Leclerc Monument"
-    },
+      en: "General Leclerc Monument",
+image: "/poi-images/general-leclerc-monument-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Leclerc-Denkmal erinnert an den französischen General, der im Zweiten Weltkrieg eine wichtige Rolle bei der Befreiung von Teilen Kameruns spielte. Es ist ein Symbol der Allianz während des Krieges und der anschließenden französischen Mandatszeit. Geschichte K8 — Weltkrieg."
     },
@@ -461,8 +476,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Lamidat von Banyo",
       hu: "Banyo Lamidat",
       ro: "Lamidatul din Banyo",
-      en: "Banyo Lamidat"
-    },
+      en: "Banyo Lamidat",
+image: "/poi-images/banyo-lamidat-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Lamidat von Banyo ist ein traditionelles Herrschaftszentrum in der Adamaoua-Region. Die Institution des Lamidats verbindet lokale Traditionen mit islamischen Strukturen und ist ein zentraler Ankerpunkt für die Identität und Geschichte des Adamaoua-Plateaus. Geschichte K7 — Tradition."
     },
@@ -491,8 +507,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Lamidat von Ngaoundéré",
       hu: "Ngaoundéré Lamidat",
       ro: "Lamidatul din Ngaoundéré",
-      en: "Ngaoundéré Lamidat"
-    },
+      en: "Ngaoundéré Lamidat",
+image: "/poi-images/ngaoundere-lamidat-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Lamidat von Ngaoundéré ist eine der wichtigsten traditionellen Institutionen auf dem Adamaoua-Plateau. Als Zentrum kultureller und politischer Geschichte über Jahrhunderte ist es eine tragende Säule für das Verständnis des nördlichen Teils Kameruns. Geschichte K7 — Herrschaft."
     },
@@ -521,8 +538,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "La Pagode (König Bell)",
       hu: "La Pagode (Bell Király Palotája)",
       ro: "La Pagode (Palatul Regelui Bell)",
-      en: "La Pagode (King Bell's Palace)"
-    },
+      en: "La Pagode (King Bell's Palace)",
+image: "/poi-images/king-bell-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast des Königs Bell in Douala ist eines der bedeutendsten historischen Gebäude aus der Zeit der deutschen Kolonialherrschaft. Er wurde für den einflussreichen Duala-König Bell erbaut und steht exemplarisch für die komplexen Machtbeziehungen zwischen Duala-Elite und deutschen Kolonialherren. Geschichte K7 — Machtverhältnisse."
     },
@@ -551,8 +569,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Deutsche Brücke von Edéa",
       hu: "Német Híd, Edéa",
       ro: "Podul German din Edéa",
-      en: "German Bridge of Edéa"
-    },
+      en: "German Bridge of Edéa",
+image: "/poi-images/german-bridge-edea-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die deutsche Brücke in Edéa überspannt den Sanaga-Fluss und ist ein technisches Meisterwerk aus dem frühen 20. Jahrhundert. Sie ist ein sichtbares Erbe des deutschen Infrastrukturbaus und ein wichtiges Bindeglied für den Transport zwischen Küste und Hinterland. Geschichte K7 — Ingenieurkunst."
     },
@@ -581,8 +600,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Häuptlingstum Batoufam",
       hu: "Batoufam Főnökség",
       ro: "Căpetenia Batoufam",
-      en: "Batoufam Chiefdom"
-    },
+      en: "Batoufam Chiefdom",
+image: "/poi-images/batoufam-chiefdom-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Chiefdom von Batoufam ist ein bedeutendes Zentrum der Bamiléké-Tradition. Die Architektur, die Hierarchien und die bewahrten mündlichen Überlieferungen im Palast bieten einen tiefen Einblick in die soziale und politische Struktur dieser Hochlandregion. Geschichte K7 — Soziokultur."
     },
@@ -611,8 +631,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Lamidat von Maroua",
       hu: "Maroua Lamidat",
       ro: "Lamidatul din Maroua",
-      en: "Maroua Lamidat"
-    },
+      en: "Maroua Lamidat",
+image: "/poi-images/maroua-lamidat-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Lamidat von Maroua ist das politische Zentrum dieser historisch bedeutenden Stadt in der Sahelzone. Es ist ein Symbol für die islamische Geschichte des Nordens und spielt auch heute eine wichtige Rolle bei der kulturellen Integration der Region. Geschichte K7 — Tradition."
     },
@@ -641,8 +662,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Palast von König Akwa",
       hu: "Akwa Király Palotája",
       ro: "Palatul Regelui Akwa",
-      en: "King Akwa's Palace"
-    },
+      en: "King Akwa's Palace",
+image: "/poi-images/king-akwas-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast des Königs Akwa in Douala ist eines der bedeutendsten historischen Wahrzeichen der Stadt. Er repräsentiert die Geschichte der Duala-Dynastie während der Kolonialzeit und den stetigen Wandel in den Machtverhältnissen zwischen lokalen Königen und den kolonialen Mächten. Geschichte K7 — Machtverhältnisse."
     },
@@ -671,8 +693,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Koloniales Zentrum von Dschang",
       hu: "Dschang Gyarmati Központ",
       ro: "Centrul Colonial din Dschang",
-      en: "Dschang Colonial Center"
-    },
+      en: "Dschang Colonial Center",
+image: "/poi-images/dschang-colonial-center-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Dschang diente in der Kolonialzeit als wichtiges administratives Zentrum. Die heute noch sichtbaren Kolonialbauten sind Zeugen der damaligen Verwaltungspraxis und der strategischen Entscheidung der deutschen Verwaltung, Dschang aufgrund seines milden Klimas für Beamte zu nutzen. Geschichte K7 — Kolonialzeit."
     },
@@ -701,8 +724,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Lamidat von Garoua",
       hu: "Garoua Lamidat",
       ro: "Lamidatul din Garoua",
-      en: "Garoua Lamidat"
-    },
+      en: "Garoua Lamidat",
+image: "/poi-images/garoua-lamidat-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Lamidat von Garoua ist eine zentrale Institution in dieser wichtigen Stadt am Benue-Fluss. Über Jahrhunderte war es ein Schmelztiegel der Handelsgeschichte und des Islam und bleibt ein entscheidender Faktor für das soziale Gefüge im Norden Kameruns. Geschichte K7 — Tradition."
     },
@@ -731,8 +755,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Sklavenmarkt von Pitoa",
       hu: "Pitoa Rabszolgapiac",
       ro: "Târgul de Sclavi din Pitoa",
-      en: "Pitoa Slave Market Site"
-    },
+      en: "Pitoa Slave Market Site",
+image: "/poi-images/pitoa-slave-market-site-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Pitoa war historisch ein bedeutender Knotenpunkt für den Sklavenhandel in Nordkamerun. Die Stätte erinnert an die leidvolle Geschichte und die Verflechtung der Region in den überregionalen Menschenhandel, was für die historische Aufarbeitung in Kamerun von großer Bedeutung ist. Geschichte K8 — Sklavenhandel."
     },
@@ -761,8 +786,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Rio dos Camarões",
       hu: "Rio dos Camarões Felfedezőhely",
       ro: "Locul de descoperire Rio dos Camarões",
-      en: "Rio dos Camarões Discovery Site"
-    },
+      en: "Rio dos Camarões Discovery Site",
+image: "/poi-images/rio-dos-camaroes-discovery-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Entdeckung des 'Flusses der Garnelen' (Rio dos Camarões) durch portugiesische Seefahrer gab Kamerun seinen heutigen Namen. Die Mündung des Wouri-Flusses ist damit der symbolische Anfangspunkt der modernen Geschichte Kameruns und der ersten europäischen Kontakte. Geschichte K6 — Entdeckung."
     },
@@ -791,8 +817,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Fort von Yaoundé",
       hu: "Yaoundé-erőd helyszíne",
       ro: "Situl Fortului Yaoundé",
-      en: "Fort of Yaoundé Site"
-    },
+      en: "Fort of Yaoundé Site",
+image: "/poi-images/fort-of-yaounde-site-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Stätte des ehemaligen Forts von Yaoundé erinnert an die Anfänge der Stadt als Kolonialposten. Es ist ein Symbol für die militärische Durchdringung des Hinterlandes durch die Kolonialmächte und markiert den Beginn der urbanen Geschichte Yaoundés. Geschichte K7 — Kolonialzeit."
     },
@@ -821,8 +848,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Kathedrale St. Peter und Paul",
       hu: "Szent Péter és Pál Katedrális",
       ro: "Catedrala Sfinții Petru și Pavel",
-      en: "Saints Peter and Paul Cathedral"
-    },
+      en: "Saints Peter and Paul Cathedral",
+image: "/poi-images/saints-peter-and-paul-cathedral-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale St. Peter und Paul ist ein bedeutendes religiöses Bauwerk und das Zentrum des Katholizismus in der Küstenregion Douala. Sie spiegelt die Ausbreitung christlicher Missionen und deren Einfluss auf die Gesellschaft und Architektur der Handelsstadt wider. Geschichte K7 — Christentum."
     },
@@ -851,8 +879,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Altes Postamt Buea",
       hu: "Régi Posta, Buea",
       ro: "Vechiul Oficiu Poștal din Buea",
-      en: "Old Post Office Buea"
-    },
+      en: "Old Post Office Buea",
+image: "/poi-images/old-post-office-buea-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das alte Postgebäude in Buéa ist ein charmantes Beispiel deutscher Kolonialarchitektur und ein Symbol für die einstige Verwaltungskraft der Stadt. Es ist ein wichtiges historisches Artefakt, das an die Zeit erinnert, als Buéa das administrative Zentrum war. Geschichte K7 — Kolonialzeit."
     },
@@ -881,8 +910,9 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Palast von Babungo",
       hu: "Babungo Palota",
       ro: "Palatul din Babungo",
-      en: "Babungo Palace"
-    },
+      en: "Babungo Palace",
+image: "/poi-images/babungo-palace-history-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast in Babungo ist für seine kunstvollen Holzschnitzereien und seine Bedeutung im Grasland von Kamerun bekannt. Er ist nicht nur der Sitz des traditionellen Herrschers, sondern auch ein Archiv für Kunst, Kultur und Geschichte der lokalen Gemeinschaft. Kunst/Kultur K7 — Traditionen."
     },

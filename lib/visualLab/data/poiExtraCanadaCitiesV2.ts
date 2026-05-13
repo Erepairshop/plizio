@@ -8,7 +8,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.6441, 43.5890],
-    name: { de: "Mississauga", hu: "Mississauga", ro: "Mississauga", en: "Mississauga" },
+    name: { de: "Mississauga", hu: "Mississauga", ro: "Mississauga", en: "Mississauga",
+image: "/poi-images/mississauga-cities-v2.webp"
+},
     description: { de: "Eine große Vorstadt von Toronto am Ontariosee.", hu: "Toronto nagy elővárosa az Ontario-tó partján.", ro: "O suburbie mare a orașului Toronto, pe malul lacului Ontario.", en: "A large suburban city in the Greater Toronto Area on Lake Ontario." },
     facts: {
       de: ["Angrenzend an Toronto", "Sitz des Pearson International Airport", "Starkes Wirtschaftswachstum", "Multikulturelle Bevölkerung"],
@@ -30,7 +32,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.7629, 43.7315],
-    name: { de: "Brampton", hu: "Brampton", ro: "Brampton", en: "Brampton" },
+    name: { de: "Brampton", hu: "Brampton", ro: "Brampton", en: "Brampton",
+image: "/poi-images/brampton-cities-v2.webp"
+},
     description: { de: "Eine vielfältige Stadt in der Greater Toronto Area, bekannt als 'Blumenstadt Kanadas'.", hu: "Sokszínű város a Greater Toronto Area-ban, 'Kanada virágvárosaként' is ismert.", ro: "Un oraș divers din zona metropolitană Toronto, cunoscut ca \\\"Orașul Florilor din Canada\\\".", en: "A diverse city in the Greater Toronto Area, known as the 'Flower City of Canada'." },
     facts: {
       de: ["Schnell wachsende Bevölkerung", "Große südasiatische Gemeinschaft", "Wichtiges Zentrum für Logistik", "Umfangreiches Parksystem"],
@@ -52,7 +56,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.8711, 43.2557],
-    name: { de: "Hamilton", hu: "Hamilton", ro: "Hamilton", en: "Hamilton" },
+    name: { de: "Hamilton", hu: "Hamilton", ro: "Hamilton", en: "Hamilton",
+image: "/poi-images/hamilton-cities-v2.webp"
+},
     description: { de: "Eine Hafenstadt am westlichen Ende des Ontariosees, bekannt für ihre industrielle Vergangenheit.", hu: "Kikötőváros az Ontario-tó nyugati végén, ipari múltjáról ismert.", ro: "Un oraș industrial major situat în Golden Horseshoe, cunoscut pentru industria sa de oțel și numeroasele cascade din apropiere.", en: "A port city on the western tip of Lake Ontario, known for its industrial heritage." },
     facts: {
       de: ["Spitzname 'Stahlstadt'", "Über 100 Wasserfälle", "Royal Botanical Gardens", "Wichtiger Binnenhafen"],
@@ -74,7 +80,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-81.2453, 42.9849],
-    name: { de: "London", hu: "London", ro: "London", en: "London" },
+    name: { de: "London", hu: "London", ro: "London", en: "London",
+image: "/poi-images/london-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Südwesten von Ontario, bekannt für ihre Universität und den Spitznamen 'Waldstadt'.", hu: "Város Ontario délnyugati részén, egyeteméről és 'Erdőváros' becenevéről ismert.", ro: "Un oraș în sud-vestul Ontario, cunoscut pentru universitatea sa și porecla \\\"Orașul Pădure\\\".", en: "A city in southwestern Ontario, known for its university and its nickname 'The Forest City'." },
     facts: {
       de: ["Heimat der Western University", "Am Thames River gelegen", "Medizinisches Forschungszentrum", "Viele Parks und Grünflächen"],
@@ -96,7 +104,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.2662, 43.8561],
-    name: { de: "Markham", hu: "Markham", ro: "Markham", en: "Markham" },
+    name: { de: "Markham", hu: "Markham", ro: "Markham", en: "Markham",
+image: "/poi-images/markham-cities-v2.webp"
+},
     description: { de: "Eine High-Tech-Stadt in der Greater Toronto Area mit einer großen asiatischen Bevölkerung.", hu: "High-tech város a Greater Toronto Area-ban, nagy ázsiai lakossággal.", ro: "Un oraș de înaltă tehnologie în zona metropolitană Toronto, cu o populație asiatică numeroasă.", en: "A high-tech city in the Greater Toronto Area with a large Asian population." },
     facts: {
       de: ["Kanadas High-Tech-Hauptstadt", "Vielfältige ethnische Gemeinschaften", "Jährliches Festival of Lights", "Historisches Dorf Markham"],
@@ -118,7 +128,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.5083, 43.8361],
-    name: { de: "Vaughan", hu: "Vaughan", ro: "Vaughan", en: "Vaughan" },
+    name: { de: "Vaughan", hu: "Vaughan", ro: "Vaughan", en: "Vaughan",
+image: "/poi-images/vaughan-cities-v2.webp"
+},
     description: { de: "Eine schnell wachsende Stadt nördlich von Toronto, Heimat von Canada's Wonderland.", hu: "Gyorsan növekvő város Torontótól északra, a Canada's Wonderland otthona.", ro: "Un oraș în creștere rapidă la nord de Toronto, unde se află Canada's Wonderland.", en: "A fast-growing city north of Toronto, home to Canada's Wonderland amusement park." },
     facts: {
       de: ["Heimat von Canada's Wonderland", "Starkes Wirtschaftswachstum", "Vaughan Mills Einkaufszentrum", "Teil der York Region"],
@@ -140,7 +152,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-80.4925, 43.4516],
-    name: { de: "Kitchener", hu: "Kitchener", ro: "Kitchener", en: "Kitchener" },
+    name: { de: "Kitchener", hu: "Kitchener", ro: "Kitchener", en: "Kitchener",
+image: "/poi-images/kitchener-cities-v2.webp"
+},
     description: { de: "Eine Stadt mit starkem deutschem Erbe, Teil der Tri-Cities-Region.", hu: "Erős német örökséggel rendelkező város, a Tri-Cities régió része.", ro: "Centru tehnologic și cultural din Ontario, renumit pentru moștenirea sa germană și cel mai mare festival Oktoberfest din afara Germaniei.", en: "A city with a strong German heritage, part of the Tri-Cities region." },
     facts: {
       de: ["Jährliches Oktoberfest", "Teil des 'Technologie-Dreiecks'", "Früher Berlin genannt", "Starkes produzierendes Gewerbe"],
@@ -162,7 +176,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-83.0364, 42.3149],
-    name: { de: "Windsor", hu: "Windsor", ro: "Windsor", en: "Windsor" },
+    name: { de: "Windsor", hu: "Windsor", ro: "Windsor", en: "Windsor",
+image: "/poi-images/windsor-cities-v2.webp"
+},
     description: { de: "Kanadas südlichste Stadt, direkt gegenüber von Detroit, USA.", hu: "Kanada legdélibb városa, közvetlenül Detroit (USA) mellett.", ro: "Cel mai sudic oraș al Canadei, situat direct vizavi de Detroit, fiind un centru vital al industriei auto canadiene.", en: "Canada's southernmost city, located directly across from Detroit, USA." },
     facts: {
       de: ["'Automobilhauptstadt Kanadas'", "Grenzübergang zu den USA", "Milder als der Rest Kanadas", "Uferpromenade am Detroit River"],
@@ -184,7 +200,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.8490, 49.1913],
-    name: { de: "Surrey", hu: "Surrey", ro: "Surrey", en: "Surrey" },
+    name: { de: "Surrey", hu: "Surrey", ro: "Surrey", en: "Surrey",
+image: "/poi-images/surrey-cities-v2.webp"
+},
     description: { de: "Eine große, schnell wachsende Stadt in der Metropolregion Vancouver.", hu: "Nagy, gyorsan növekvő város Vancouver metropolisz régiójában.", ro: "Surrey este un ora? mare din Metro Vancouver, ?n Columbia Britanic?. Combin? zone reziden?iale extinse cu terenuri agricole ?i parcuri.", en: "A large, fast-growing city in the Metro Vancouver region." },
     facts: {
       de: ["'Stadt der Parks'", "Eine der am schnellsten wachsenden Städte", "Vielfältige Gemeinschaften", "Starke Landwirtschaft in ländlichen Gebieten"],
@@ -206,7 +224,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.9495, 49.2465],
-    name: { de: "Burnaby", hu: "Burnaby", ro: "Burnaby", en: "Burnaby" },
+    name: { de: "Burnaby", hu: "Burnaby", ro: "Burnaby", en: "Burnaby",
+image: "/poi-images/burnaby-cities-v2.webp"
+},
     description: { de: "Eine Stadt östlich von Vancouver, bekannt für Parks und die Simon Fraser University.", hu: "Vancouvertől keletre fekvő város, parkjairól és a Simon Fraser Egyetemről ismert.", ro: "Un oraș la est de Vancouver, cunoscut pentru parcuri și Universitatea Simon Fraser.", en: "A city east of Vancouver known for its parks and Simon Fraser University." },
     facts: {
       de: ["Heimat der Simon Fraser University", "Metrotown, größtes Einkaufszentrum in BC", "Burnaby Mountain Park", "Hoher Anteil an Parkland"],
@@ -228,7 +248,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-123.1336, 49.1666],
-    name: { de: "Richmond", hu: "Richmond", ro: "Richmond", en: "Richmond" },
+    name: { de: "Richmond", hu: "Richmond", ro: "Richmond", en: "Richmond",
+image: "/poi-images/richmond-cities-v2.webp"
+},
     description: { de: "Eine Inselstadt südlich von Vancouver, Heimat des internationalen Flughafens Vancouver.", hu: "Szigetváros Vancouvertől délre, a vancouveri nemzetközi repülőtér otthona.", ro: "Un oraș insular la sud de Vancouver, unde se află Aeroportul Internațional Vancouver.", en: "An island city south of Vancouver, home to Vancouver International Airport." },
     facts: {
       de: ["Heimat des Flughafens YVR", "Höchster Einwandereranteil Kanadas", "Ausgezeichnete asiatische Küche", "Historisches Fischerdorf Steveston"],
@@ -250,7 +272,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.7932, 49.2838],
-    name: { de: "Coquitlam", hu: "Coquitlam", ro: "Coquitlam", en: "Coquitlam" },
+    name: { de: "Coquitlam", hu: "Coquitlam", ro: "Coquitlam", en: "Coquitlam",
+image: "/poi-images/coquitlam-cities-v2.webp"
+},
     description: { de: "Eine Vorstadt in der Metropolregion Vancouver, umgeben von Bergen.", hu: "Előváros Vancouver metropolisz régiójában, hegyekkel körülvéve.", ro: "O suburbie în regiunea metropolitană Vancouver, înconjurată de munți.", en: "A suburban city in Metro Vancouver, surrounded by mountains." },
     facts: {
       de: ["Teil der Tri-Cities (mit Port Coquitlam, Port Moody)", "Viele Wanderwege und Parks", "Starke koreanische Gemeinschaft", "Anbindung durch SkyTrain"],
@@ -272,7 +296,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-119.4960, 49.8880],
-    name: { de: "Kelowna", hu: "Kelowna", ro: "Kelowna", en: "Kelowna" },
+    name: { de: "Kelowna", hu: "Kelowna", ro: "Kelowna", en: "Kelowna",
+image: "/poi-images/kelowna-cities-v2.webp"
+},
     description: { de: "Die größte Stadt im Okanagan Valley, bekannt für Wein und Obst.", hu: "Az Okanagan-völgy legnagyobb városa, borról és gyümölcsről ismert.", ro: "Cel mai mare oraș din Valea Okanagan, cunoscut pentru vin și fructe.", en: "The largest city in the Okanagan Valley, known for wine and fruit." },
     facts: {
       de: ["Zentrum der Weinindustrie in BC", "Am Okanagan Lake gelegen", "Beliebtes Sommerurlaubsziel", "Schnelles Bevölkerungswachstum"],
@@ -294,7 +320,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-73.75, 45.6],
-    name: { de: "Laval", hu: "Laval", ro: "Laval", en: "Laval" },
+    name: { de: "Laval", hu: "Laval", ro: "Laval", en: "Laval",
+image: "/poi-images/laval-cities-v2.webp"
+},
     description: { de: "Eine große Vorstadt von Montreal, die eine eigene Insel bildet.", hu: "Montreal nagy elővárosa, amely egy külön szigetet alkot.", ro: "O suburbie mare a Montrealului, formând propria sa insulă.", en: "A large suburban city of Montreal, forming its own island." },
     facts: {
       de: ["Drittgrößte Stadt in Québec", "Eigene Insel (Île Jésus)", "Wichtiger Industriestandort", "Cosmodôme Weltraum-Wissenschaftszentrum"],
@@ -316,7 +344,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-75.75, 45.4833],
-    name: { de: "Gatineau", hu: "Gatineau", ro: "Gatineau", en: "Gatineau" },
+    name: { de: "Gatineau", hu: "Gatineau", ro: "Gatineau", en: "Gatineau",
+image: "/poi-images/gatineau-cities-v2.webp"
+},
     description: { de: "Eine Stadt gegenüber von Ottawa, Teil der National Capital Region.", hu: "Ottawával szemben fekvő város, a Nemzeti Fővárosi Régió része.", ro: "Un oraș vizavi de Ottawa, parte a Regiunii Capitalei Naționale.", en: "A city across the river from Ottawa, part of the National Capital Region." },
     facts: {
       de: ["Gegenüber von Ottawa", "Kanadisches Geschichtsmuseum", "Gatineau Park in der Nähe", "Starke Bundespräsenz"],
@@ -338,7 +368,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-73.4167, 45.5333],
-    name: { de: "Longueuil", hu: "Longueuil", ro: "Longueuil", en: "Longueuil" },
+    name: { de: "Longueuil", hu: "Longueuil", ro: "Longueuil", en: "Longueuil",
+image: "/poi-images/longueuil-cities-v2.webp"
+},
     description: { de: "Ein bedeutender Vorort am Südufer von Montreal.", hu: "Jelentős előváros Montreal déli partján.", ro: "O suburbie majoră pe malul sudic al Montrealului.", en: "A major suburb on the south shore of Montreal." },
     facts: {
       de: ["Am Sankt-Lorenz-Strom gelegen", "Wohn- und Industriegebiete", "Anbindung an Montreal per U-Bahn", "Historischer Stadtteil Vieux-Longueuil"],
@@ -360,7 +392,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-71.8991, 45.4042],
-    name: { de: "Sherbrooke", hu: "Sherbrooke", ro: "Sherbrooke", en: "Sherbrooke" },
+    name: { de: "Sherbrooke", hu: "Sherbrooke", ro: "Sherbrooke", en: "Sherbrooke",
+image: "/poi-images/sherbrooke-cities-v2.webp"
+},
     description: { de: "Die wichtigste Stadt in der Region Eastern Townships in Quebec.", hu: "Sherbrooke Québec egyik fontos délkeleti városa, az Estrie térség központja. Egyetemi város, amelyet a környező tavak, dombok és a St. Francis folyó formál.", ro: "Principalul centru economic și cultural al regiunii Estrie din Quebec, situat la confluența râurilor Magog și Saint-François.", en: "The main city in the Eastern Townships region of Quebec." },
     facts: {
       de: ["'Königin der Eastern Townships'", "Zwei Universitäten", "Zusammenfluss zweier Flüsse", "Starkes Bildungswesen"],
@@ -382,7 +416,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-71.0658, 48.4278],
-    name: { de: "Saguenay", hu: "Saguenay", ro: "Saguenay", en: "Saguenay" },
+    name: { de: "Saguenay", hu: "Saguenay", ro: "Saguenay", en: "Saguenay",
+image: "/poi-images/saguenay-cities-v2.webp"
+},
     description: { de: "Eine Stadt, die aus dem Zusammenschluss mehrerer Städte am Saguenay River entstanden ist.", hu: "Város, amely több város egyesüléséből jött létre a Saguenay folyó mentén.", ro: "Oraș din Quebec situat pe malul râului Saguenay, faimos pentru fiordul său spectaculos și activitățile în aer liber.", en: "A city formed by the merger of several cities on the Saguenay River." },
     facts: {
       de: ["Am Saguenay Fjord gelegen", "Wichtig für die Aluminiumproduktion", "Université du Québec à Chicoutimi", "Knotenpunkt für die Region"],
@@ -404,7 +440,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-71.1833, 46.7],
-    name: { de: "Lévis", hu: "Lévis", ro: "Lévis", en: "Lévis" },
+    name: { de: "Lévis", hu: "Lévis", ro: "Lévis", en: "Lévis",
+image: "/poi-images/levis-cities-v2.webp"
+},
     description: { de: "Eine Stadt am Südufer des Sankt-Lorenz-Stroms, gegenüber von Quebec City.", hu: "Város a Szent Lőrinc-folyó déli partján, Quebec Cityvel szemben.", ro: "Un oraș pe malul sudic al fluviului Sfântul Laurențiu, vizavi de Quebec City.", en: "Levis sits on the south shore of the St. Lawrence River, directly across from Quebec City. It is closely tied to the capital through bridges, ferries, and daily commuting." },
     facts: {
       de: ["Fährverbindung nach Quebec City", "Panoramablick auf die Altstadt", "Wichtiger Industriestandort", "Historische Festungen"],
@@ -426,7 +464,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-72.5458, 46.3425],
-    name: { de: "Trois-Rivières", hu: "Trois-Rivières", ro: "Trois-Rivières", en: "Trois-Rivières" },
+    name: { de: "Trois-Rivières", hu: "Trois-Rivières", ro: "Trois-Rivières", en: "Trois-Rivières",
+image: "/poi-images/trois-rivieres-cities-v2.webp"
+},
     description: { de: "Eine historische Stadt am Zusammenfluss des Sankt-Lorenz- und des Saint-Maurice-Flusses.", hu: "Történelmi város a Szent Lőrinc- és a Saint-Maurice-folyó összefolyásánál.", ro: "Un oraș istoric la confluența fluviului Sfântul Laurențiu cu râul Saint-Maurice.", en: "A historic city at the confluence of the St. Lawrence and Saint-Maurice rivers." },
     facts: {
       de: ["Zweitälteste französische Stadt in NA", "Wichtig für die Papierindustrie", "Historische Altstadt", "Jährliches Autorennen Grand Prix"],
@@ -448,7 +488,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-112.8419, 49.6942],
-    name: { de: "Lethbridge", hu: "Lethbridge", ro: "Lethbridge", en: "Lethbridge" },
+    name: { de: "Lethbridge", hu: "Lethbridge", ro: "Lethbridge", en: "Lethbridge",
+image: "/poi-images/lethbridge-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Süden Albertas am Oldman River, die als regionales Zentrum der Prärie gilt.", hu: "Dél-Alberta legnagyobb városa, magas vasúti hídjáról ismert.", ro: "Oraș din sudul Albertei, cunoscut pentru viaductul feroviar impresionant High Level Bridge și peisajele sale de prerie.", en: "Lethbridge is a southern Alberta city built around the Oldman River valley. It is a major regional centre and is known for the High Level Bridge." },
     facts: {
       de: ["Am Oldman River", "Südliches Alberta", "Regionale Versorgungsstadt"],
@@ -470,7 +512,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-113.8112, 52.2681],
-    name: { de: "Red Deer", hu: "Red Deer", ro: "Red Deer", en: "Red Deer" },
+    name: { de: "Red Deer", hu: "Red Deer", ro: "Red Deer", en: "Red Deer",
+image: "/poi-images/red-deer-cities-v2.webp"
+},
     description: { de: "Eine Stadt in Zentral-Alberta zwischen Calgary und Edmonton, an der Grenze zwischen Prärie und Borealwald.", hu: "Red Deer Alberta középső részének egyik legfontosabb városa, Calgary és Edmonton között. Erős regionális szolgáltató és kereskedelmi központ.", ro: "Un oraș la jumătatea distanței dintre Calgary și Edmonton.", en: "Red Deer is a central Alberta city between Calgary and Edmonton. It serves as a practical service and trade centre for the surrounding prairie region." },
     facts: {
       de: ["Zwischen Calgary und Edmonton", "Am Red Deer River", "Wichtiges Regionalzentrum"],
@@ -492,7 +536,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-113.6294, 53.6304],
-    name: { de: "St. Albert", hu: "St. Albert", ro: "St. Albert", en: "St. Albert" },
+    name: { de: "St. Albert", hu: "St. Albert", ro: "St. Albert", en: "St. Albert",
+image: "/poi-images/st-albert-cities-v2.webp"
+},
     description: { de: "Eine wohlhabende Vorstadt nordwestlich von Edmonton.", hu: "Jómódú előváros Edmontontól északnyugatra.", ro: "O suburbie prosperă la nord-vest de Edmonton.", en: "An affluent suburban city northwest of Edmonton." },
     facts: {
       de: ["Hohe Lebensqualität", "Größter Freiluft-Bauernmarkt im Westen", "Umfangreiches Park- und Wegenetz", "Starke französisch-kanadische Wurzeln"],
@@ -514,7 +560,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-110.6773, 50.0423],
-    name: { de: "Medicine Hat", hu: "Medicine Hat", ro: "Medicine Hat", en: "Medicine Hat" },
+    name: { de: "Medicine Hat", hu: "Medicine Hat", ro: "Medicine Hat", en: "Medicine Hat",
+image: "/poi-images/medicine-hat-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Südosten Albertas am South Saskatchewan River, bekannt für viel Sonne und Energieindustrie.", hu: "Medicine Hat délkelet-albertai város a South Saskatchewan folyó partján. Az egyik legnaposabb kanadai városként is ismert.", ro: "Oraș din sud-estul Albertei, renumit pentru resursele sale bogate de gaze naturale și atmosfera prietenoasă de preerie.", en: "Medicine Hat is a southeastern Alberta city on the South Saskatchewan River. It is often associated with energy, industry, and a sunny prairie climate." },
     facts: {
       de: ["Am South Saskatchewan River", "Eine der sonnigsten Städte Kanadas", "Stark in Erdgas und Industrie"],
@@ -536,7 +584,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-118.7947, 55.1709],
-    name: { de: "Grande Prairie", hu: "Grande Prairie", ro: "Grande Prairie", en: "Grande Prairie" },
+    name: { de: "Grande Prairie", hu: "Grande Prairie", ro: "Grande Prairie", en: "Grande Prairie",
+image: "/poi-images/grande-prairie-cities-v2.webp"
+},
     description: { de: "Die größte Stadt in der Peace River Region im Nordwesten Albertas.", hu: "Grande Prairie Alberta északi-nyugati részének egyik meghatározó városa. A környező mezőgazdasági, erdészeti és energetikai térség szolgáltató központja.", ro: "Centru economic vibrant din nord-vestul Albertei, servind regiunea Peace River ca punct logistic pentru agricultură și petrol.", en: "Grande Prairie is a growing city in northwestern Alberta and a key centre for the Peace region. Its economy is tied to agriculture, energy, and forestry." },
     facts: {
       de: ["'Schwanenstadt'", "Wirtschaftszentrum des Nordens", "Junge Bevölkerung", "Land- und Forstwirtschaft"],
@@ -558,7 +608,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NB",
     coords: [-64.7782, 46.0878],
-    name: { de: "Moncton", hu: "Moncton", ro: "Moncton", en: "Moncton" },
+    name: { de: "Moncton", hu: "Moncton", ro: "Moncton", en: "Moncton",
+image: "/poi-images/moncton-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Südosten von New Brunswick und ein wichtiger Verkehrs- und Dienstleistungsknoten.", hu: "New Brunswick legnagyobb városa és fontos közlekedési csomópont.", ro: "Moncton este un ora? din New Brunswick, cunoscut ca nod de transport pentru estul provinciei. Are leg?turi puternice cu zona acadian?.", en: "Moncton is New Brunswick's largest city and one of the main economic centres of Atlantic Canada. It is also famous for the tidal bore on the Petitcodiac River." },
     facts: {
       de: ["In New Brunswick", "Bilinguale Stadt", "Knotenpunkt für Bahn, Straße und Luftverkehr"],
@@ -580,7 +632,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NB",
     coords: [-66.0628, 45.2733],
-    name: { de: "Saint John", hu: "Saint John", ro: "Saint John", en: "Saint John" },
+    name: { de: "Saint John", hu: "Saint John", ro: "Saint John", en: "Saint John",
+image: "/poi-images/saint-john-cities-v2.webp"
+},
     description: { de: "Die einzige Stadt an der Bay of Fundy, bekannt für Industrie und Hafen.", hu: "Az egyetlen város a Fundy-öböl partján, iparáról és kikötőjéről ismert.", ro: "Singurul oraș de pe Golful Fundy, cunoscut pentru industrie și port.", en: "The only city on the Bay of Fundy, known for industry and its port." },
     facts: {
       de: ["Älteste eingetragene Stadt Kanadas", "Reversing Falls Stromschnellen", "Wichtiger Industriehafen", "Loyalisten-Geschichte"],
@@ -602,7 +656,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NS",
     coords: [-60.195, 46.1368],
-    name: { de: "Sydney (Nova Scotia)", hu: "Sydney (Új-Skócia)", ro: "Sydney (Nova Scotia)", en: "Sydney (Nova Scotia)" },
+    name: { de: "Sydney (Nova Scotia)", hu: "Sydney (Új-Skócia)", ro: "Sydney (Nova Scotia)", en: "Sydney (Nova Scotia)",
+image: "/poi-images/cape-breton-cities-v2.webp"
+},
     description: { de: "Das größte städtische Zentrum auf Cape Breton Island.", hu: "Cape Breton a Nova Scotia keleti részén fekvő nagy regionális központ. A szigethez kötődő kikötők, bányászati emlékek és tengerparti közösségek formálják.", ro: "Cel mai mare centru urban de pe insula Cape Breton.", en: "Cape Breton is the main urban area on Cape Breton Island in Nova Scotia. It combines a coastal setting with a strong mining, steel, and music heritage." },
     facts: {
       de: ["Historisches Zentrum für Stahl und Kohle", "Tor zum Cabot Trail", "Big Fiddle (größte Geige der Welt)", "Kreuzfahrthafen"],
@@ -624,7 +680,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.6903, 44.3894],
-    name: { de: "Barrie", hu: "Barrie", ro: "Barrie", en: "Barrie" },
+    name: { de: "Barrie", hu: "Barrie", ro: "Barrie", en: "Barrie",
+image: "/poi-images/barrie-cities-v2.webp"
+},
     description: { de: "Barrie ist eine wachsende Stadt am westlichen Ufer des Lake Simcoe in Ontario, bekannt für ihre Freizeitmöglichkeiten und Strände.", hu: "Barrie Ontarioban, a Simcoe-tó partján fekszik, Torontótól északra. Gyorsan növekvő ingázóváros és regionális központ.", ro: "Oraș în plină expansiune situat pe malul Golfului Kempenfelt, fiind o destinație populară pentru recreere și turism în Ontario.", en: "A city on Kempenfelt Bay of Lake Simcoe, north of Toronto." },
     facts: {
       de: ["Liegt an der Kempenfelt Bay", "Wichtiger Teil der Greater Golden Horseshoe Region", "Gegründet während des Krieges von 1812"],
@@ -646,7 +704,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-78.8617, 43.8971],
-    name: { de: "Oshawa", hu: "Oshawa", ro: "Oshawa", en: "Oshawa" },
+    name: { de: "Oshawa", hu: "Oshawa", ro: "Oshawa", en: "Oshawa",
+image: "/poi-images/oshawa-cities-v2.webp"
+},
     description: { de: "Eine Stadt östlich von Toronto, historisch bekannt für die Automobilindustrie.", hu: "Torontótól keletre fekvő város, történelmileg az autóiparáról ismert.", ro: "Un oraș la est de Toronto, cunoscut istoric pentru industria auto.", en: "A city east of Toronto, historically known for its automotive industry." },
     facts: {
       de: ["Heimat von General Motors Canada", "Wichtiges Bildungszentrum (Ontario Tech University)", "Canadian Automotive Museum", "Hafen am Ontariosee"],
@@ -668,7 +728,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-80.2482, 43.5448],
-    name: { de: "Guelph", hu: "Guelph", ro: "Guelph", en: "Guelph" },
+    name: { de: "Guelph", hu: "Guelph", ro: "Guelph", en: "Guelph",
+image: "/poi-images/guelph-cities-v2.webp"
+},
     description: { de: "Bekannt für seine hohe Lebensqualität und die University of Guelph.", hu: "Magas életminőségéről és a Guelphi Egyetemről ismert.", ro: "Cunoscut ca „Orașul Regal”, Guelph este renumit pentru arhitectura sa din piatră de calcar, universitatea de top și calitatea vieții.", en: "Known for its high quality of life and the University of Guelph." },
     facts: {
       de: ["'The Royal City'", "Niedrige Arbeitslosenquote", "University of Guelph (Agrar- und Veterinärwissenschaft)", "Basilica of Our Lady Immaculate"],
@@ -690,7 +752,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-76.4860, 44.2312],
-    name: { de: "Kingston", hu: "Kingston", ro: "Kingston", en: "Kingston" },
+    name: { de: "Kingston", hu: "Kingston", ro: "Kingston", en: "Kingston",
+image: "/poi-images/kingston-cities-v2.webp"
+},
     description: { de: "Eine historische Stadt am Ontariosee, erste Hauptstadt Kanadas.", hu: "Történelmi város az Ontario-tó partján, Kanada első fővárosa.", ro: "Oraș istoric situat unde Lacul Ontario se varsă în Fluviul Saint Lawrence, faimos pentru fortificațiile sale din secolul al XIX-lea.", en: "A historic city on Lake Ontario, the first capital of Canada." },
     facts: {
       de: ["Erste Hauptstadt Kanadas (Provinz)", "Queen's University", "Spitzname 'Kalksteinstadt'", "UNESCO-Weltkulturerbe Fort Henry"],
@@ -712,7 +776,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-120.3273, 50.6745],
-    name: { de: "Kamloops", hu: "Kamloops", ro: "Kamloops", en: "Kamloops" },
+    name: { de: "Kamloops", hu: "Kamloops", ro: "Kamloops", en: "Kamloops",
+image: "/poi-images/kamloops-cities-v2.webp"
+},
     description: { de: "Eine Stadt am Zusammenfluss zweier Arme des Thompson River in British Columbia.", hu: "Város a Thompson folyó két ágának összefolyásánál Brit Kolumbiában.", ro: "Kamloops este un ora? din interiorul Columbiei Britanice, la confluen?a r?urilor Thompson. Regiunea este cunoscut? pentru peisajul arid ?i pentru transport.", en: "A city at the confluence of two branches of the Thompson River in British Columbia." },
     facts: {
       de: ["'Turnierhauptstadt Kanadas'", "Trockenes, sonniges Klima", "Wichtiger Verkehrsknotenpunkt", "Thompson Rivers University"],
@@ -734,7 +800,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-123.9401, 49.1659],
-    name: { de: "Nanaimo", hu: "Nanaimo", ro: "Nanaimo", en: "Nanaimo" },
+    name: { de: "Nanaimo", hu: "Nanaimo", ro: "Nanaimo", en: "Nanaimo",
+image: "/poi-images/nanaimo-cities-v2.webp"
+},
     description: { de: "Eine Hafenstadt auf Vancouver Island mit Fährverbindungen und einer langen Küstenlinie.", hu: "Nanaimo Vancouver-sziget egyik fontos kikötővárosa Brit Columbia tartományban. Kompkapcsolatai és tengerparti fekvése miatt meghatározó helyi központ.", ro: "Nanaimo este un ora? de pe insula Vancouver, ?n Columbia Britanic?. Este un port important ?i un punct de leg?tur? pentru coasta de vest.", en: "A port city on Vancouver Island, famous for the Nanaimo bar dessert." },
     facts: {
       de: ["Auf Vancouver Island", "Wichtiger Fährhafen", "Bekannt für den Nanaimo-Bar-Kuchen"],
@@ -756,7 +824,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.7479, 53.9171],
-    name: { de: "Prince George", hu: "Prince George", ro: "Prince George", en: "Prince George" },
+    name: { de: "Prince George", hu: "Prince George", ro: "Prince George", en: "Prince George",
+image: "/poi-images/prince-george-cities-v2.webp"
+},
     description: { de: "Die größte Stadt im Norden von British Columbia, ein wichtiger Verkehrsknotenpunkt.", hu: "Brit Kolumbia északi részének legnagyobb városa, fontos közlekedési csomópont.", ro: "Prince George este principalul ora? din nordul Columbiei Britanice. Serve?te ca centru regional pentru transport, p?duri ?i servicii.", en: "The largest city in northern British Columbia, a major transportation hub." },
     facts: {
       de: ["'Hauptstadt des Nordens von BC'", "Am Zusammenfluss von Fraser und Nechako River", "Wichtige Forstwirtschaft", "University of Northern British Columbia"],
@@ -778,7 +848,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-121.9515, 49.1579],
-    name: { de: "Chilliwack", hu: "Chilliwack", ro: "Chilliwack", en: "Chilliwack" },
+    name: { de: "Chilliwack", hu: "Chilliwack", ro: "Chilliwack", en: "Chilliwack",
+image: "/poi-images/chilliwack-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Fraser Valley, bekannt für Landwirtschaft und Outdoor-Aktivitäten.", hu: "Város a Fraser-völgyben, mezőgazdaságáról és szabadtéri tevékenységeiről ismert.", ro: "Oraș pitoresc din British Columbia, înconjurat de munți și ferme, oferind numeroase oportunități pentru drumeții și pescuit.", en: "Chilliwack lies in the eastern Fraser Valley of British Columbia, surrounded by mountains and farmland. It is known for agriculture, outdoor recreation, and river scenery." },
     facts: {
       de: ["Landwirtschaftliches Zentrum", "Umgeben von Bergen", "Angeln und Wandern", "Schnelles Wachstum"],
@@ -800,7 +872,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.3294, 49.0504],
-    name: { de: "Abbotsford", hu: "Abbotsford", ro: "Abbotsford", en: "Abbotsford" },
+    name: { de: "Abbotsford", hu: "Abbotsford", ro: "Abbotsford", en: "Abbotsford",
+image: "/poi-images/abbotsford-cities-v2.webp"
+},
     description: { de: "Die größte Gemeinde im Fraser Valley, nahe der US-Grenze.", hu: "A Fraser-völgy legnagyobb községe, az amerikai határ közelében.", ro: "Cea mai mare municipalitate din Valea Fraser, aproape de granița cu SUA.", en: "The largest municipality in the Fraser Valley, near the US border." },
     facts: {
       de: ["Starke Landwirtschaft (Beeren, Geflügel)", "Abbotsford International Airshow", "Grenznähe zu den USA", "University of the Fraser Valley"],
@@ -822,7 +896,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-89.2477, 48.3822],
-    name: { de: "Thunder Bay", hu: "Thunder Bay", ro: "Thunder Bay", en: "Thunder Bay" },
+    name: { de: "Thunder Bay", hu: "Thunder Bay", ro: "Thunder Bay", en: "Thunder Bay",
+image: "/poi-images/thunder-bay-cities-v2.webp"
+},
     description: { de: "Die größte Stadt im Nordwesten von Ontario, am Ufer des Oberen Sees.", hu: "Ontario északnyugati részének legnagyobb városa, a Felső-tó partján.", ro: "Cel mai mare oraș din nord-vestul Ontario, pe malul lacului Superior.", en: "The largest city in Northwestern Ontario, on the shore of Lake Superior." },
     facts: {
       de: ["Wichtiger Hafen an den Großen Seen", "Tor zum kanadischen Westen", "Sleeping Giant Felsformation", "Starke finnische Gemeinschaft"],
@@ -844,7 +920,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-80.9922, 46.4900],
-    name: { de: "Greater Sudbury", hu: "Greater Sudbury", ro: "Greater Sudbury", en: "Greater Sudbury" },
+    name: { de: "Greater Sudbury", hu: "Greater Sudbury", ro: "Greater Sudbury", en: "Greater Sudbury",
+image: "/poi-images/sudbury-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Norden Ontarios, bekannt für ihre Nickelminen.", hu: "Város Ontario északi részén, nikkelbányáiról ismert.", ro: "Cunoscut oficial sub numele de Greater Sudbury, acest oraș din nordul regiunii Ontario este un centru mondial pentru mineritul de nichel.", en: "A city in Northern Ontario famous for its nickel mining industry." },
     facts: {
       de: ["'Nickel-Hauptstadt der Welt'", "Big Nickel Wahrzeichen", "Science North Wissenschaftszentrum", "Über 300 Seen in der Stadt"],
@@ -866,7 +944,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-80.2669, 43.1400],
-    name: { de: "Brantford", hu: "Brantford", ro: "Brantford", en: "Brantford" },
+    name: { de: "Brantford", hu: "Brantford", ro: "Brantford", en: "Brantford",
+image: "/poi-images/brantford-cities-v2.webp"
+},
     description: { de: "Bekannt als 'Telefonstadt', da Alexander Graham Bell hier das Telefon erfand.", hu: "'Telefonvárosként' ismert, mivel Alexander Graham Bell itt találta fel a telefont.", ro: "Cunoscut ca \\\"Orașul Telefonului\\\", deoarece Alexander Graham Bell a inventat aici telefonul.", en: "Known as 'The Telephone City' as Alexander Graham Bell invented the telephone here." },
     facts: {
       de: ["Erfindung des Telefons", "Heimat von Wayne Gretzky", "Am Grand River gelegen", "Historisches Industriezentrum"],
@@ -888,7 +968,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-78.3197, 44.3091],
-    name: { de: "Peterborough", hu: "Peterborough", ro: "Peterborough", en: "Peterborough" },
+    name: { de: "Peterborough", hu: "Peterborough", ro: "Peterborough", en: "Peterborough",
+image: "/poi-images/peterborough-cities-v2.webp"
+},
     description: { de: "Eine Stadt in der Kawarthas-Region, bekannt für ihre hydraulische Schiffshebeanlage.", hu: "Város a Kawarthas régióban, hidraulikus hajóemelőjéről ismert.", ro: "Un oraș în regiunea Kawarthas, cunoscut pentru ecluza sa hidraulică.", en: "A city in the Kawarthas region, known for its hydraulic lift lock." },
     facts: {
       de: ["Peterborough Lift Lock", "Tor zur Kawartha Lakes Region", "Trent University", "Canadian Canoe Museum"],
@@ -910,7 +992,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-82.4065, 42.9745],
-    name: { de: "Sarnia", hu: "Sarnia", ro: "Sarnia", en: "Sarnia" },
+    name: { de: "Sarnia", hu: "Sarnia", ro: "Sarnia", en: "Sarnia",
+image: "/poi-images/sarnia-cities-v2.webp"
+},
     description: { de: "Eine Stadt am Ufer des Huronsees, ein wichtiges Zentrum für Petrochemie.", hu: "Város a Huron-tó partján, a petrolkémia fontos központja.", ro: "Un oraș pe malul lacului Huron, un centru important pentru petrochimie.", en: "A city on the shores of Lake Huron, a major centre for petrochemistry." },
     facts: {
       de: ["Petrochemische Industrie", "Blue Water Bridge nach USA", "Am St. Clair River gelegen", "Uferpromenade und Parks"],
@@ -932,7 +1016,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.0849, 43.0962],
-    name: { de: "Niagara Falls (Stadt)", hu: "Niagara Falls (város)", ro: "Niagara Falls (oraș)", en: "Niagara Falls (city)" },
+    name: { de: "Niagara Falls (Stadt)", hu: "Niagara Falls (város)", ro: "Niagara Falls (oraș)", en: "Niagara Falls (city)",
+image: "/poi-images/niagara-falls-city-cities-v2.webp"
+},
     description: { de: "Die kanadische Stadt neben den berühmten Wasserfällen, ein wichtiges Touristenzentrum.", hu: "A híres vízesés melletti kanadai város, fontos turisztikai központ.", ro: "Orașul canadian de lângă faimoasele cascade, un centru turistic major.", en: "The Canadian city next to the famous waterfalls, a major tourism hub." },
     facts: {
       de: ["Tourismus als Hauptindustrie", "Clifton Hill Vergnügungsmeile", "Kasinos und Hotels", "Weinregion in der Nähe"],
@@ -954,7 +1040,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.2431, 43.1593],
-    name: { de: "St. Catharines", hu: "St. Catharines", ro: "St. Catharines", en: "St. Catharines" },
+    name: { de: "St. Catharines", hu: "St. Catharines", ro: "St. Catharines", en: "St. Catharines",
+image: "/poi-images/st-catharines-cities-v2.webp"
+},
     description: { de: "Die größte Stadt in der Niagara-Region, auch als Garden City bekannt, liegt am Eingang zum Wellandkanal.", hu: "A Niagara régió legnagyobb városa, 'Kertvárosként' ismert.", ro: "Cel mai mare oraș din regiunea Niagara, cunoscut ca \\\"Orașul Grădină\\\".", en: "St. Catharines is the largest city in Niagara Region and sits near the Welland Canal. Its parks, trails, and orchard country have shaped its local identity." },
     facts: {
       de: ["Zentrum des Weinanbaus in Ontario", "Endpunkt des jährlichen Royal Canadian Henley Regatta", "Wichtiger Industriestandort am Eriesee-Verbindungsweg"],
@@ -976,7 +1064,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-82.1852, 42.4042],
-    name: { de: "Chatham-Kent", hu: "Chatham-Kent", ro: "Chatham-Kent", en: "Chatham-Kent" },
+    name: { de: "Chatham-Kent", hu: "Chatham-Kent", ro: "Chatham-Kent", en: "Chatham-Kent",
+image: "/poi-images/chatham-kent-cities-v2.webp"
+},
     description: { de: "Eine große, hauptsächlich ländliche Gemeinde im Südwesten von Ontario.", hu: "Nagy, főként vidéki község Ontario délnyugati részén.", ro: "Chatham-Kent este o municipalitate mare din sud-vestul Ontariului, format? din mai multe comunit??i. Agricultura ?i industria u?oar? sunt importante aici.", en: "A large, mostly rural municipality in Southwestern Ontario." },
     facts: {
       de: ["Wichtige Landwirtschaftsregion", "Historische Stätte des 'Underground Railroad'", "Günstige Immobilien", "An den Seen Erie und St. Clair gelegen"],
@@ -998,7 +1088,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.9100, 49.2057],
-    name: { de: "New Westminster", hu: "New Westminster", ro: "New Westminster", en: "New Westminster" },
+    name: { de: "New Westminster", hu: "New Westminster", ro: "New Westminster", en: "New Westminster",
+image: "/poi-images/new-westminster-cities-v2.webp"
+},
     description: { de: "Einst die Hauptstadt von British Columbia, heute eine historische Stadt in Metro Vancouver.", hu: "Egykor Brit Kolumbia fővárosa, ma történelmi város a Metro Vancouver régióban.", ro: "Un oraș istoric de pe malul râului Fraser, fiind prima capitală a coloniei British Columbia și cel mai vechi oraș din vestul Canadei.", en: "Once the capital of British Columbia, now a historic city within Metro Vancouver." },
     facts: {
       de: ["'The Royal City'", "Erste Hauptstadt von BC", "Am Fraser River gelegen", "Gut erhaltene historische Architektur"],
@@ -1020,7 +1112,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.7750, 49.2625],
-    name: { de: "Port Coquitlam", hu: "Port Coquitlam", ro: "Port Coquitlam", en: "Port Coquitlam" },
+    name: { de: "Port Coquitlam", hu: "Port Coquitlam", ro: "Port Coquitlam", en: "Port Coquitlam",
+image: "/poi-images/port-coquitlam-cities-v2.webp"
+},
     description: { de: "Eine Gemeinde in der Tri-Cities-Region von Metro Vancouver.", hu: "Község a Metro Vancouver Tri-Cities régiójában.", ro: "O municipalitate în regiunea Tri-Cities din Metro Vancouver.", en: "A municipality in the Tri-Cities region of Metro Vancouver." },
     facts: {
       de: ["Heimatstadt von Terry Fox", "Am Zusammenfluss von Fraser und Pitt River", "Starkes Gemeinschaftsgefühl", "Viele Parks und Wanderwege"],
@@ -1042,7 +1136,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.6600, 49.1044],
-    name: { de: "Langley (Stadt)", hu: "Langley (város)", ro: "Langley (oraș)", en: "Langley (City)" },
+    name: { de: "Langley (Stadt)", hu: "Langley (város)", ro: "Langley (oraș)", en: "Langley (City)",
+image: "/poi-images/langley-cities-v2.webp"
+},
     description: { de: "Ein städtisches Zentrum innerhalb der größeren Township of Langley.", hu: "Városi központ a nagyobb Langley Townshipen belül.", ro: "Un centru urban în cadrul districtului mai mare Langley.", en: "An urban centre within the larger Township of Langley." },
     facts: {
       de: ["Fußgängerfreundliche Innenstadt", "Wichtiger Einzelhandelsstandort", "Starke Pferdezucht-Tradition in der Region", "Historisches Fort Langley in der Nähe"],
@@ -1064,7 +1160,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.8025, 49.0225],
-    name: { de: "White Rock", hu: "White Rock", ro: "White Rock", en: "White Rock" },
+    name: { de: "White Rock", hu: "White Rock", ro: "White Rock", en: "White Rock",
+image: "/poi-images/white-rock-cities-v2.webp"
+},
     description: { de: "Eine Küstenstadt in Metro Vancouver mit breitem Sandstrand und langer Seebrücke.", hu: "White Rock egy kis tengerparti város a Metro Vancouver térségben. Homokos partjáról és hosszú mólójáról ismert.", ro: "Un oraș stațiune pitoresc situat la malul mării, renumit pentru plajele sale, digul lung și stânca albă iconică de pe țărm.", en: "White Rock is a small seaside city in Metro Vancouver on Semiahmoo Bay. It is known for its long beach, pier, and relaxed waterfront feel." },
     facts: {
       de: ["An der Semiahmoo Bay", "Nahe der US-Grenze", "Bekannt für den Pier und den Strand"],
@@ -1086,7 +1184,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-73.6333, 45.7],
-    name: { de: "Terrebonne", hu: "Terrebonne", ro: "Terrebonne", en: "Terrebonne" },
+    name: { de: "Terrebonne", hu: "Terrebonne", ro: "Terrebonne", en: "Terrebonne",
+image: "/poi-images/terrebonne-cities-v2.webp"
+},
     description: { de: "Ein wachsender Vorort am Nordufer von Montreal.", hu: "Növekvő előváros Montreal északi partján.", ro: "O suburbie în creștere pe malul nordic al Montrealului.", en: "A growing suburb on the north shore of Montreal." },
     facts: {
       de: ["Historisches Île des Moulins", "Wohn- und Industriegebiete", "Theater und Kulturzentren", "Große Grünflächen"],
@@ -1108,7 +1208,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-73.2667, 45.3167],
-    name: { de: "Saint-Jean-sur-Richelieu", hu: "Saint-Jean-sur-Richelieu", ro: "Saint-Jean-sur-Richelieu", en: "Saint-Jean-sur-Richelieu" },
+    name: { de: "Saint-Jean-sur-Richelieu", hu: "Saint-Jean-sur-Richelieu", ro: "Saint-Jean-sur-Richelieu", en: "Saint-Jean-sur-Richelieu",
+image: "/poi-images/saint-jean-sur-richelieu-cities-v2.webp"
+},
     description: { de: "Eine Stadt am Richelieu River, bekannt für ihr Heißluftballon-Festival.", hu: "Város a Richelieu folyó partján, hőlégballon-fesztiváljáról ismert.", ro: "Oraș situat la sud-est de Montreal, cunoscut pentru istoria sa militară și festivalul anual de baloane cu aer cald.", en: "Saint-Jean-sur-Richelieu lies on the Richelieu River south of Montreal. It is a river city with military links and a well-known hot-air balloon festival." },
     facts: {
       de: ["Internationales Ballonfestival", "Militärcollege Saint-Jean", "Historischer Kanal", "Wichtige Landwirtschaftsregion"],
@@ -1127,7 +1229,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-73.8833, 45.6667],
-    name: { de: "Blainville", hu: "Blainville", ro: "Blainville", en: "Blainville" },
+    name: { de: "Blainville", hu: "Blainville", ro: "Blainville", en: "Blainville",
+image: "/poi-images/blainville-cities-v2.webp"
+},
     description: { de: "Eine wohlhabende Vorstadt nördlich von Montreal.", hu: "Blainville Québec északi partjának gyorsan növekvő külvárosi városa. Montréal vonzáskörzetéhez tartozik, és erős lakóövezeti jellege van.", ro: "O suburbie prosperă la nord de Montreal.", en: "An affluent suburban city north of Montreal." },
     facts: {
       de: ["Hohes Durchschnittseinkommen", "Familienfreundlich", "Viele Golfplätze", "Großes Reitzentrum"],
@@ -1146,7 +1250,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-72.4833, 45.8833],
-    name: { de: "Drummondville", hu: "Drummondville", ro: "Drummondville", en: "Drummondville" },
+    name: { de: "Drummondville", hu: "Drummondville", ro: "Drummondville", en: "Drummondville",
+image: "/poi-images/drummondville-cities-v2.webp"
+},
     description: { de: "Eine Stadt in Zentral-Quebec, bekannt für ihr Sommerfestival 'Mondial des Cultures'.", hu: "Város Közép-Quebecben, a 'Mondial des Cultures' nyári fesztiválról ismert.", ro: "Un oraș în centrul Quebecului, cunoscut pentru festivalul său de vară \\\"Mondial des Cultures\\\".", en: "A city in central Quebec, known for its 'Mondial des Cultures' summer festival." },
     facts: {
       de: ["Mondial des Cultures Festival", "Wichtiger Verkehrsknotenpunkt", "Starkes produzierendes Gewerbe", "Village Québécois d'Antan (historisches Dorf)"],
@@ -1165,7 +1271,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-72.95, 45.6167],
-    name: { de: "Saint-Hyacinthe", hu: "Saint-Hyacinthe", ro: "Saint-Hyacinthe", en: "Saint-Hyacinthe" },
+    name: { de: "Saint-Hyacinthe", hu: "Saint-Hyacinthe", ro: "Saint-Hyacinthe", en: "Saint-Hyacinthe",
+image: "/poi-images/saint-hyacinthe-cities-v2.webp"
+},
     description: { de: "Bekannt als das agrarische Zentrum von Quebec.", hu: "Saint-Hyacinthe a québeci Montérégie egyik fontos mezőgazdasági központja. Az élelmiszer-feldolgozás és az agrárkutatás is erős itt.", ro: "Un centru agricol major din Quebec, recunoscut la nivel internațional pentru cercetarea și inovația în domeniul agrifood.", en: "Saint-Hyacinthe sits on the Yamaska River in Quebec's Montérégie region. It is widely seen as a centre for agrifood research, education, and veterinary studies." },
     facts: {
       de: ["Agrar- und Lebensmitteltechnologie", "Veterinärmedizinische Fakultät", "Öffentlicher Markt", "Garten Daniel A. Séguin"],
@@ -1184,7 +1292,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-74.05, 45.65],
-    name: { de: "Mirabel", hu: "Mirabel", ro: "Mirabel", en: "Mirabel" },
+    name: { de: "Mirabel", hu: "Mirabel", ro: "Mirabel", en: "Mirabel",
+image: "/poi-images/mirabel-cities-v2.webp"
+},
     description: { de: "Eine Gemeinde, die für den internationalen Flughafen Montreal-Mirabel bekannt ist.", hu: "Község, amely a Montreal-Mirabel nemzetközi repülőtérről ismert.", ro: "O municipalitate cunoscută pentru Aeroportul Internațional Montréal–Mirabel.", en: "A municipality known for the Montréal–Mirabel International Airport." },
     facts: {
       de: ["Flughafen Montreal-Mirabel (Fracht)", "Große Landfläche", "Landwirtschaft und Luftfahrtindustrie", "Premium Outlets Montreal"],
@@ -1203,7 +1313,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-72.7333, 45.4],
-    name: { de: "Granby", hu: "Granby", ro: "Granby", en: "Granby" },
+    name: { de: "Granby", hu: "Granby", ro: "Granby", en: "Granby",
+image: "/poi-images/granby-cities-v2.webp"
+},
     description: { de: "Granby liegt in den Eastern Townships von Québec und ist vor allem für seinen bedeutenden Zoo und die lokale Industrie bekannt.", hu: "Granby Québec egyik ismert regionális városa, Montréal keleti oldalán. A környék a Granby Zoo és a közeli tavak miatt is látogatott.", ro: "Un oraș în Eastern Townships, renumit pentru grădina sa zoologică.", en: "Granby is a city in Quebec's Eastern Townships and a regional centre along the Yamaska River. It is especially known for its zoo and nearby lake reserve." },
     facts: {
       de: ["Am Ufer des Rivière Yamaska gelegen", "Bekannt für den Zoo de Granby", "Wichtiger Knotenpunkt der Fahrradtourismus-Route"],
@@ -1222,7 +1334,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-SK",
     coords: [-105.5519, 50.3934],
-    name: { de: "Moose Jaw", hu: "Moose Jaw", ro: "Moose Jaw", en: "Moose Jaw" },
+    name: { de: "Moose Jaw", hu: "Moose Jaw", ro: "Moose Jaw", en: "Moose Jaw",
+image: "/poi-images/moose-jaw-cities-v2.webp"
+},
     description: { de: "Eine Stadt in Saskatchewan, bekannt für ihre Tunnel und Wandmalereien.", hu: "Város Saskatchewanban, alagútjairól és falfestményeiről ismert.", ro: "Un oraș în Saskatchewan, cunoscut pentru tunelurile și picturile sale murale.", en: "A city in Saskatchewan known for its tunnels and murals." },
     facts: {
       de: ["Tunnel von Moose Jaw (Al Capone Legende)", "Historische Wandmalereien", "CFB Moose Jaw Luftwaffenbasis", "Temple Gardens Mineral Spa"],
@@ -1241,7 +1355,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-SK",
     coords: [-105.7606, 53.2001],
-    name: { de: "Prince Albert", hu: "Prince Albert", ro: "Prince Albert", en: "Prince Albert" },
+    name: { de: "Prince Albert", hu: "Prince Albert", ro: "Prince Albert", en: "Prince Albert",
+image: "/poi-images/prince-albert-cities-v2.webp"
+},
     description: { de: "Die drittgrößte Stadt in Saskatchewan, das 'Tor zum Norden'.", hu: "Prince Albert Saskatchewan északi kapujának számít a North Saskatchewan folyó mellett. A város fontos kiindulópont az északi erdős és tavakkal teli térségek felé.", ro: "Al treilea oraș ca mărime din Saskatchewan, \\\"Poarta spre Nord\\\".", en: "The third-largest city in Saskatchewan, the 'Gateway to the North'." },
     facts: {
       de: ["Tor zu den nördlichen Seen und Wäldern", "Prince Albert National Park in der Nähe", "Historisches Handelszentrum", "Wichtige Holzwirtschaft"],
@@ -1260,7 +1376,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-MB",
     coords: [-99.9500, 49.8481],
-    name: { de: "Brandon", hu: "Brandon", ro: "Brandon", en: "Brandon" },
+    name: { de: "Brandon", hu: "Brandon", ro: "Brandon", en: "Brandon",
+image: "/poi-images/brandon-cities-v2.webp"
+},
     description: { de: "Die zweitgrößte Stadt in Manitoba, ein wichtiges landwirtschaftliches Zentrum.", hu: "Manitoba második legnagyobb városa, fontos mezőgazdasági központ.", ro: "Al doilea oraș ca mărime din Manitoba, supranumit „Orașul Grâului”, servind ca punct nodal pentru agricultura regională.", en: "The second-largest city in Manitoba, a major agricultural hub." },
     facts: {
       de: ["'Die Weizenstadt'", "Brandon University", "Royal Manitoba Winter Fair", "Wichtiger Eisenbahnknotenpunkt"],
@@ -1279,7 +1397,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.4609, 46.3091],
-    name: { de: "North Bay", hu: "North Bay", ro: "North Bay", en: "North Bay" },
+    name: { de: "North Bay", hu: "North Bay", ro: "North Bay", en: "North Bay",
+image: "/poi-images/north-bay-cities-v2.webp"
+},
     description: { de: "Eine Stadt zwischen zwei Seen im Norden Ontarios.", hu: "Város két tó között Ontario északi részén.", ro: "North Bay este un ora? din nord-estul Ontariului, pe malul lacului Nipissing. Pozi?ia lui l-a f?cut un nod important de transport ?i ap?rare.", en: "A city located between two lakes in Northern Ontario." },
     facts: {
       de: ["'Tor zum Norden'", "An den Seen Nipissing und Trout gelegen", "Wichtige Luftwaffenbasis (CFB North Bay)", "Tourismus und Bildung"],
@@ -1298,7 +1418,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-77.3832, 44.1628],
-    name: { de: "Belleville", hu: "Belleville", ro: "Belleville", en: "Belleville" },
+    name: { de: "Belleville", hu: "Belleville", ro: "Belleville", en: "Belleville",
+image: "/poi-images/belleville-cities-v2.webp"
+},
     description: { de: "Eine Stadt an der Bay of Quinte im Osten Ontarios.", hu: "Belleville Ontarioban, a Bay of Quinte partján fekszik. Közlekedési és szolgáltatási központ a Toronto és Ottawa közötti sávban.", ro: "Belleville este un ora? din estul Ontariului, pe ??rmul golfului Quinte. Are o economie local? divers? ?i o pozi?ie bun? ?ntre Toronto ?i Ottawa.", en: "A city on the Bay of Quinte in Eastern Ontario." },
     facts: {
       de: ["'Die schöne Stadt'", "Wichtiger Verkehrskorridor (Highway 401)", "Loyalist College", "Historische Innenstadt"],
@@ -1317,7 +1439,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-84.3468, 46.5218],
-    name: { de: "Sault Ste. Marie", hu: "Sault Ste. Marie", ro: "Sault Ste. Marie", en: "Sault Ste. Marie" },
+    name: { de: "Sault Ste. Marie", hu: "Sault Ste. Marie", ro: "Sault Ste. Marie", en: "Sault Ste. Marie",
+image: "/poi-images/sault-ste-marie-cities-v2.webp"
+},
     description: { de: "Eine Grenzstadt am St. Marys River zwischen dem Lake Superior und dem Lake Huron.", hu: "Sault Ste. Marie a Szent Mária-folyó mellett, a Nagy-tavak térségében fekszik. A határváros szerepe és az ipari múltja is meghatározó.", ro: "Sault Ste. Marie este un ora? de frontier? din nordul Ontariului, pe r?ul St. Marys. Este cunoscut pentru ?antierele industriale ?i pentru leg?tura cu Marile Lacuri.", en: "Sault Ste. Marie is a border city on the St. Marys River between Lake Superior and Lake Huron. It is closely tied to Great Lakes shipping and cross-border trade." },
     facts: {
       de: ["An der US-Grenze", "Soo Locks in der Nähe", "Verbindet zwei Große Seen"],
@@ -1336,7 +1460,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-78.7497, 44.3547],
-    name: { de: "Kawartha Lakes", hu: "Kawartha Lakes", ro: "Kawartha Lakes", en: "Kawartha Lakes" },
+    name: { de: "Kawartha Lakes", hu: "Kawartha Lakes", ro: "Kawartha Lakes", en: "Kawartha Lakes",
+image: "/poi-images/kawartha-lakes-cities-v2.webp"
+},
     description: { de: "Eine weitläufige Stadtgemeinde in Ontario, die aus zahlreichen ländlichen Dörfern und malerischen Seen in der Kawartha-Region besteht.", hu: "Kawartha Lakes Ontario tóvidéki területe, sok tóval, csatornával és üdülőhellyel. A vidéki és rekreációs jelleg dominál.", ro: "O municipalitate vastă din Ontario, faimoasă pentru numeroasele sale lacuri, canale și comunitățile de vile de vacanță.", en: "Kawartha Lakes is a large rural municipality in central Ontario made up of many small communities and lakes. It is known for cottage country, boating, and the Trent-Severn Waterway." },
     facts: {
       de: ["Beliebtes Ziel für Bootstourismus und Angeln", "Umfasst den Trent-Severn-Wasserweg", "Name leitet sich von Bright Waters and Happy Lands ab"],
@@ -1355,7 +1481,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-114.0145, 51.2917],
-    name: { de: "Airdrie", hu: "Airdrie", ro: "Airdrie", en: "Airdrie" },
+    name: { de: "Airdrie", hu: "Airdrie", ro: "Airdrie", en: "Airdrie",
+image: "/poi-images/airdrie-cities-v2.webp"
+},
     description: { de: "Eine schnell wachsende Stadt nördlich von Calgary.", hu: "Airdrie Alberta egyik leggyorsabban növekvő városa, közvetlenül Calgary északi előterében. Elsősorban lakóövezetként és ingázóvárosként fejlődött.", ro: "Un oraș în creștere rapidă la nord de Calgary.", en: "Airdrie sits just north of Calgary and has grown into a busy commuter city. Its modern role is shaped by highway access, residential growth, and local services." },
     facts: {
       de: ["Pendlerstadt für Calgary", "Junge, familienorientierte Bevölkerung", "Jährliches Festival of Lights", "Starkes Wachstum"],
@@ -1374,7 +1502,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-AB",
     coords: [-111.3792, 56.7267],
-    name: { de: "Fort McMurray", hu: "Fort McMurray", ro: "Fort McMurray", en: "Fort McMurray" },
+    name: { de: "Fort McMurray", hu: "Fort McMurray", ro: "Fort McMurray", en: "Fort McMurray",
+image: "/poi-images/wood-buffalo-fort-mcmurray-cities-v2.webp"
+},
     description: { de: "Eine riesige Gemeinde in Nordost-Alberta mit Fort McMurray als urbanem Zentrum.", hu: "Fort McMurray a Wood Buffalo önkormányzati térség központi települése Alberta északkeleti részén. Az olajhomok-kitermelés miatt vált országosan ismertté.", ro: "Centrul urban de servicii din regiunea nisipurilor bituminoase din Alberta.", en: "The urban service area for the oil sands region in Alberta." },
     facts: {
       de: ["Nordost-Alberta", "Zentrum der Ölsandregion", "Eine der größten Gemeinden Kanadas"],
@@ -1393,7 +1523,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NL",
     coords: [-52.7126, 47.5615],
-    name: { de: "St. John's (Metro)", hu: "St. John's (agglomeráció)", ro: "St. John's (metro)", en: "St. John's (Metro)" },
+    name: { de: "St. John's (Metro)", hu: "St. John's (agglomeráció)", ro: "St. John's (metro)", en: "St. John's (Metro)",
+image: "/poi-images/st-johns-county-cities-v2.webp"
+},
     description: { de: "Die Metropolregion der Hauptstadt von Neufundland und Labrador.", hu: "Új-Fundland és Labrador fővárosának agglomerációja.", ro: "Zona metropolitană a capitalei Newfoundland și Labrador.", en: "The metropolitan area of the capital of Newfoundland and Labrador." },
     facts: {
       de: ["Östlichster Punkt Nordamerikas (Cape Spear)", "Wirtschaftszentrum von Neufundland", "Offshore-Öl- und Gasindustrie", "Memorial University"],
@@ -1412,7 +1544,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-78.6859, 43.9100],
-    name: { de: "Clarington", hu: "Clarington", ro: "Clarington", en: "Clarington" },
+    name: { de: "Clarington", hu: "Clarington", ro: "Clarington", en: "Clarington",
+image: "/poi-images/clarington-cities-v2.webp"
+},
     description: { de: "Eine Gemeinde östlich von Oshawa, die eine Mischung aus städtischen und ländlichen Gebieten ist.", hu: "Clarington a Greater Toronto Area keleti peremén található ontariói önkormányzat. Lakóövezeti és ingázó szerepe miatt fontos a térségben.", ro: "O comunitate dinamică situată la est de Toronto, care îmbină mediul urban cu cel rural și găzduiește o centrală nucleară majoră.", en: "A municipality east of Oshawa, a mix of urban and rural areas." },
     facts: {
       de: ["Kernkraftwerk Darlington", "Canadian Tire Motorsport Park", "Ländlicher Charakter", "Teil der Durham Region"],
@@ -1431,7 +1565,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.0863, 43.8361],
-    name: { de: "Pickering", hu: "Pickering", ro: "Pickering", en: "Pickering" },
+    name: { de: "Pickering", hu: "Pickering", ro: "Pickering", en: "Pickering",
+image: "/poi-images/pickering-cities-v2.webp"
+},
     description: { de: "Eine Stadt östlich von Toronto, bekannt für ihr Kernkraftwerk.", hu: "Torontótól keletre fekvő város, atomerőművéről ismert.", ro: "Un oraș la est de Toronto, cunoscut pentru centrala sa nucleară.", en: "A city east of Toronto, known for its nuclear power plant." },
     facts: {
       de: ["Kernkraftwerk Pickering", "Frenchman's Bay am Ontariosee", "Teil der Durham Region", "Wachsende Bevölkerung"],
@@ -1450,7 +1586,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.0263, 43.8501],
-    name: { de: "Ajax", hu: "Ajax", ro: "Ajax", en: "Ajax" },
+    name: { de: "Ajax", hu: "Ajax", ro: "Ajax", en: "Ajax",
+image: "/poi-images/ajax-cities-v2.webp"
+},
     description: { de: "Eine Stadt in der Durham Region, benannt nach einem britischen Kriegsschiff.", hu: "Város a Durham régióban, egy brit hadihajóról kapta a nevét.", ro: "Un oraș în regiunea Durham, numit după o navă de război britanică.", en: "A town in the Durham Region, named after a British warship." },
     facts: {
       de: ["Benannt nach der HMS Ajax", "Uferpromenade am Ontariosee", "Vielfältige Bevölkerung", "Starkes Wachstum im 20. Jahrhundert"],
@@ -1469,7 +1607,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.4385, 43.8824],
-    name: { de: "Richmond Hill", hu: "Richmond Hill", ro: "Richmond Hill", en: "Richmond Hill" },
+    name: { de: "Richmond Hill", hu: "Richmond Hill", ro: "Richmond Hill", en: "Richmond Hill",
+image: "/poi-images/richmond-hill-cities-v2.webp"
+},
     description: { de: "Eine wohlhabende Stadt nördlich von Toronto mit vielen Parks.", hu: "Jómódú város Torontótól északra, számos parkkal.", ro: "Un oraș prosper la nord de Toronto, cu multe parcuri.", en: "An affluent town north of Toronto with many parks." },
     facts: {
       de: ["David Dunlap Observatory", "Hohes Bevölkerungswachstum", "Starke chinesische Gemeinschaft", "Hohes Durchschnittseinkommen"],
@@ -1488,7 +1628,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.6879, 43.4675],
-    name: { de: "Oakville", hu: "Oakville", ro: "Oakville", en: "Oakville" },
+    name: { de: "Oakville", hu: "Oakville", ro: "Oakville", en: "Oakville",
+image: "/poi-images/oakville-cities-v2.webp"
+},
     description: { de: "Eine wohlhabende Vorstadt westlich von Toronto am Ontariosee.", hu: "Oakville Ontario délnyugati részén, az Ontario-tó partján található. Jómódú külvárosi város, amely Toronto és Hamilton között fekszik.", ro: "Oakville este un ora? de pe ??rmul lacului Ontario, ?ntre Toronto ?i Hamilton. Este cunoscut pentru cartierele reziden?iale ?i pentru portul s?u.", en: "An affluent suburban town west of Toronto on Lake Ontario." },
     facts: {
       de: ["Eines der reichsten Gebiete Kanadas", "Malerischer Hafen", "Sheridan College", "Golf-Mekka (Glen Abbey)"],
@@ -1507,7 +1649,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.7991, 43.3251],
-    name: { de: "Burlington", hu: "Burlington", ro: "Burlington", en: "Burlington" },
+    name: { de: "Burlington", hu: "Burlington", ro: "Burlington", en: "Burlington",
+image: "/poi-images/burlington-cities-v2.webp"
+},
     description: { de: "Eine Stadt zwischen Hamilton und Toronto, oft als einer der besten Wohnorte Kanadas bewertet.", hu: "Város Hamilton és Toronto között, gyakran Kanada egyik legjobb lakóhelyének tartják.", ro: "Un oraș între Hamilton și Toronto, adesea clasat ca unul dintre cele mai bune locuri de trăit din Canada.", en: "A city between Hamilton and Toronto, often ranked as one of Canada's best places to live." },
     facts: {
       de: ["Hohe Lebensqualität", "Royal Botanical Gardens", "Spencer Smith Park am Wasser", "Niagara-Schichtstufe in der Nähe"],
@@ -1526,7 +1670,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-80.3144, 43.3616],
-    name: { de: "Cambridge", hu: "Cambridge", ro: "Cambridge", en: "Cambridge" },
+    name: { de: "Cambridge", hu: "Cambridge", ro: "Cambridge", en: "Cambridge",
+image: "/poi-images/cambridge-cities-v2.webp"
+},
     description: { de: "Cambridge entstand durch den Zusammenschluss der Städte Galt, Preston und Hespeler und ist für seine Architektur am Grand River bekannt.", hu: "Cambridge Ontarioban, a Grand folyó mentén fekszik. A Galt, Preston és Hespeler települések egyesítéséből létrejött ipari város.", ro: "Oraș industrial din Ontario, format prin fuziunea localităților Galt, Preston și Hespeler, remarcabil prin arhitectura sa europeană.", en: "A city in the Tri-Cities region, formed by the amalgamation of Galt, Preston, and Hespeler." },
     facts: {
       de: ["Teil des Technologiedreiecks von Ontario", "Gut erhaltene Gebäude aus dem 19. Jahrhundert", "Am Zusammenfluss von Grand River und Speed River"],
@@ -1545,7 +1691,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-80.5204, 43.4643],
-    name: { de: "Waterloo", hu: "Waterloo", ro: "Waterloo", en: "Waterloo" },
+    name: { de: "Waterloo", hu: "Waterloo", ro: "Waterloo", en: "Waterloo",
+image: "/poi-images/waterloo-cities-v2.webp"
+},
     description: { de: "Eine Stadt, die für ihre Universitäten und ihre High-Tech-Industrie bekannt ist.", hu: "Egyetemeiről és high-tech iparáról ismert város.", ro: "Un oraș renumit pentru universitățile și industria sa de înaltă tehnologie.", en: "A city renowned for its universities and high-tech industry." },
     facts: {
       de: ["University of Waterloo", "Wilfrid Laurier University", "Heimat von BlackBerry", "Starke Versicherungsindustrie"],
@@ -1564,7 +1712,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.9324, 43.6492],
-    name: { de: "Halton Hills", hu: "Halton Hills", ro: "Halton Hills", en: "Halton Hills" },
+    name: { de: "Halton Hills", hu: "Halton Hills", ro: "Halton Hills", en: "Halton Hills",
+image: "/poi-images/halton-hills-cities-v2.webp"
+},
     description: { de: "Eine Stadt westlich von Toronto, die mehrere Dörfer und ländliche Gebiete umfasst.", hu: "Halton Hills Ontario nyugati részén, a Greater Toronto Area peremén fekszik. A települést kisebb városok, zöldterületek és falusias részek alkotják.", ro: "Halton Hills este o municipalitate din sudul Ontariului, la vest de Toronto. Include localit??i precum Georgetown ?i Acton, cu un caracter semi-rural.", en: "A town west of Toronto, comprising several villages and rural areas." },
     facts: {
       de: ["Ländlicher Charakter mit städtischen Zentren", "Niagara-Schichtstufe", "Bruce Trail Wanderweg", "Premium Outlets Toronto"],
@@ -1583,7 +1733,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.8830, 43.5168],
-    name: { de: "Milton", hu: "Milton", ro: "Milton", en: "Milton" },
+    name: { de: "Milton", hu: "Milton", ro: "Milton", en: "Milton",
+image: "/poi-images/milton-cities-v2.webp"
+},
     description: { de: "Eine der am schnellsten wachsenden Gemeinden Kanadas, am Fuße der Niagara-Schichtstufe.", hu: "Kanada egyik leggyorsabban növekvő községe, a Niagara-lépcső lábánál.", ro: "Una dintre cele mai rapide comunități în creștere din Canada, la baza Escarpamentului Niagara.", en: "One of Canada's fastest-growing communities, at the base of the Niagara Escarpment." },
     facts: {
       de: ["Sehr schnelles Bevölkerungswachstum", "Nahe an der Niagara-Schichtstufe", "Mattamy National Cycling Centre", "Junges Durchschnittsalter"],
@@ -1602,7 +1754,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.4589, 44.0583],
-    name: { de: "Newmarket", hu: "Newmarket", ro: "Newmarket", en: "Newmarket" },
+    name: { de: "Newmarket", hu: "Newmarket", ro: "Newmarket", en: "Newmarket",
+image: "/poi-images/newmarket-cities-v2.webp"
+},
     description: { de: "Eine Stadt nördlich von Toronto in der York Region, bekannt für ihre historische Main Street.", hu: "Város a York régióban, történelmi főutcájáról ismert.", ro: "Un oraș prosper situat la nord de Toronto, cunoscut pentru sistemul său de sănătate excelent și centrele comerciale de mari dimensiuni.", en: "Newmarket is a historic town in York Region north of Toronto. It combines a preserved main street with a strong role as a regional administrative centre." },
     facts: {
       de: ["In der York Region", "Nord von Toronto", "Historische Main Street"],
@@ -1621,7 +1775,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-ON",
     coords: [-79.8667, 43.8667],
-    name: { de: "Caledon", hu: "Caledon", ro: "Caledon", en: "Caledon" },
+    name: { de: "Caledon", hu: "Caledon", ro: "Caledon", en: "Caledon",
+image: "/poi-images/caledon-cities-v2.webp"
+},
     description: { de: "Eine große, hauptsächlich ländliche Stadt in der Peel Region.", hu: "Caledon Ontario nyugati részének nagy, részben vidéki önkormányzata. A Toronto körüli zöldövezet és a kisebb települések adják a jellegét.", ro: "Caledon este o municipalitate mare din sudul Ontariului, la nord-vest de zona Toronto. Are sate mici, dealuri ?i multe spa?ii verzi.", en: "A large, primarily rural town in the Peel Region." },
     facts: {
       de: ["Ländliche Landschaft", "Reitsport-Gemeinschaft", "Teil der Niagara-Schichtstufe", "Cheltenham Badlands"],
@@ -1640,7 +1796,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.6000, 49.2194],
-    name: { de: "Maple Ridge", hu: "Maple Ridge", ro: "Maple Ridge", en: "Maple Ridge" },
+    name: { de: "Maple Ridge", hu: "Maple Ridge", ro: "Maple Ridge", en: "Maple Ridge",
+image: "/poi-images/maple-ridge-cities-v2.webp"
+},
     description: { de: "Eine Gemeinde in Metro Vancouver, zwischen dem Fraser River und den Golden Ears Mountains gelegen.", hu: "Község a Metro Vancouver régióban, a Fraser folyó és a Golden Ears hegység között.", ro: "O municipalitate în Metro Vancouver, situată între râul Fraser și munții Golden Ears.", en: "A municipality in Metro Vancouver, located between the Fraser River and the Golden Ears mountains." },
     facts: {
       de: ["Golden Ears Provincial Park", "Ländlicher Charakter mit Vorstädten", "Pferdefreundliche Gemeinschaft", "Wachstum nach Osten von Vancouver"],
@@ -1659,7 +1817,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-123.0722, 49.3208],
-    name: { de: "North Vancouver (Stadt)", hu: "North Vancouver (város)", ro: "North Vancouver (oraș)", en: "North Vancouver (City)" },
+    name: { de: "North Vancouver (Stadt)", hu: "North Vancouver (város)", ro: "North Vancouver (oraș)", en: "North Vancouver (City)",
+image: "/poi-images/north-vancouver-cities-v2.webp"
+},
     description: { de: "Ein dicht besiedeltes städtisches Zentrum am Nordufer des Burrard Inlet.", hu: "Sűrűn lakott városi központ a Burrard Inlet északi partján.", ro: "Un centru urban dens populat pe malul nordic al Burrard Inlet.", en: "A dense urban centre on the north shore of Burrard Inlet." },
     facts: {
       de: ["Lonsdale Quay Market", "SeaBus nach Vancouver", "Hohe Lebensqualität", "Zugang zu Wander- und Skigebieten"],
@@ -1678,7 +1838,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-BC",
     coords: [-122.9167, 49.0833],
-    name: { de: "Delta", hu: "Delta", ro: "Delta", en: "Delta" },
+    name: { de: "Delta", hu: "Delta", ro: "Delta", en: "Delta",
+image: "/poi-images/delta-cities-v2.webp"
+},
     description: { de: "Eine Gemeinde in Metro Vancouver, die aus drei unterschiedlichen Gemeinschaften besteht.", hu: "Delta a Fraser folyó deltavidékén fekvő város Brit Columbiában. A tengerparti síkságok, a mezőgazdaság és a Metro Vancouver közelsége formálja.", ro: "O municipalitate în Metro Vancouver formată din trei comunități distincte.", en: "A municipality in Metro Vancouver, composed of three distinct communities." },
     facts: {
       de: ["Wichtige Landwirtschafts- und Fischereigebiete", "Tsawwassen Fährhafen (nach Victoria)", "Boundary Bay Regional Park", "Flache Topographie"],
@@ -1697,7 +1859,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-71.9569, 46.0567],
-    name: { de: "Victoriaville", hu: "Victoriaville", ro: "Victoriaville", en: "Victoriaville" },
+    name: { de: "Victoriaville", hu: "Victoriaville", ro: "Victoriaville", en: "Victoriaville",
+image: "/poi-images/victoriaville-cities-v2.webp"
+},
     description: { de: "Bekannt als 'Wiege der nachhaltigen Entwicklung' in Quebec.", hu: "Victoriaville Québec középső részének fontos regionális városa. A környező mezőgazdasági térségek és a helyi gyártás is meghatározó.", ro: "Cunoscut ca \\\"Leagănul dezvoltării durabile\\\" în Quebec.", en: "Known as the 'Cradle of Sustainable Development' in Quebec." },
     facts: {
       de: ["Fokus auf nachhaltige Entwicklung", "Wichtige Holz- und Möbelindustrie", "Mount Arthabaska Park", "Käseherstellung"],
@@ -1716,7 +1880,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-74.1333, 45.25],
-    name: { de: "Salaberry-de-Valleyfield", hu: "Salaberry-de-Valleyfield", ro: "Salaberry-de-Valleyfield", en: "Salaberry-de-Valleyfield" },
+    name: { de: "Salaberry-de-Valleyfield", hu: "Salaberry-de-Valleyfield", ro: "Salaberry-de-Valleyfield", en: "Salaberry-de-Valleyfield",
+image: "/poi-images/salaberry-de-valleyfield-cities-v2.webp"
+},
     description: { de: "Eine Stadt, die an den Sankt-Lorenz-Seeweg angrenzt.", hu: "Salaberry-de-Valleyfield a Szent Lőrinc folyó térségének egyik fontos québeci városa. A csatornák, a kikötő és az ipari múlt erősen jelen van benne.", ro: "Salaberry-de-Valleyfield este un ora? din sud-vestul Quebecului, la intersec?ia unor canale ?i bra?e ale fluviului St. Lawrence. Are o tradi?ie industrial? ?i portuar?.", en: "Salaberry-de-Valleyfield lies on Lac Saint-Francois southwest of Montreal. The city mixes riverfront industry, port activity, and a strong boating culture." },
     facts: {
       de: ["Wichtiger Hafen am Seeweg", "Historischer Kanal", "Regatten und Wassersport", "Industrielles Erbe"],
@@ -1735,7 +1901,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-74.0, 45.7833],
-    name: { de: "Saint-Jérôme", hu: "Saint-Jérôme", ro: "Saint-Jérôme", en: "Saint-Jérôme" },
+    name: { de: "Saint-Jérôme", hu: "Saint-Jérôme", ro: "Saint-Jérôme", en: "Saint-Jérôme",
+image: "/poi-images/saint-jerome-cities-v2.webp"
+},
     description: { de: "Bekannt als das 'Tor zu den Laurentinischen Bergen'.", hu: "'A Laurentian-hegység kapujaként' ismert.", ro: "Situat la poalele munților Laurentieni, acest oraș din Quebec este considerat poarta de intrare către regiunea montană nordică.", en: "Known as the 'Gateway to the Laurentians'." },
     facts: {
       de: ["Ausgangspunkt für den 'P'tit Train du Nord' Radweg", "Wirtschaftszentrum der Laurentides-Region", "Université du Québec en Outaouais Campus", "Historische Kathedrale"],
@@ -1754,7 +1922,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-72.75, 46.5667],
-    name: { de: "Shawinigan", hu: "Shawinigan", ro: "Shawinigan", en: "Shawinigan" },
+    name: { de: "Shawinigan", hu: "Shawinigan", ro: "Shawinigan", en: "Shawinigan",
+image: "/poi-images/shawinigan-cities-v2.webp"
+},
     description: { de: "Eine Stadt am Saint-Maurice River, bekannt für Wasserkraft und Industrie.", hu: "Shawinigan a Saint-Maurice folyó mentén fekvő québeci város. A vízenergia és az ipari fejlődés hosszú ideig meghatározta a szerepét.", ro: "Un oraș pe râul Saint-Maurice, cunoscut pentru hidroenergie și industrie.", en: "A city on the Saint-Maurice River, known for hydroelectricity and industry." },
     facts: {
       de: ["La Cité de l'Énergie (Energiemuseum)", "Wasserkraftwerke", "Geburtsort von Jean Chrétien (ehem. Premierminister)", "Parc national de la Mauricie in der Nähe"],
@@ -1773,7 +1943,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-QC",
     coords: [-68.5242, 48.4489],
-    name: { de: "Rimouski", hu: "Rimouski", ro: "Rimouski", en: "Rimouski" },
+    name: { de: "Rimouski", hu: "Rimouski", ro: "Rimouski", en: "Rimouski",
+image: "/poi-images/rimouski-cities-v2.webp"
+},
     description: { de: "Ein maritimes Zentrum am Südufer des Sankt-Lorenz-Ästuars.", hu: "Tengerészeti központ a Szent Lőrinc-torkolat déli partján.", ro: "Un centru maritim pe malul sudic al estuarului Sfântul Laurențiu.", en: "A maritime hub on the south shore of the Saint Lawrence estuary." },
     facts: {
       de: ["Zentrum für Meereswissenschaften", "Historische Stätte Pointe-au-Père", "Tor zur Gaspésie-Halbinsel", "Université du Québec à Rimouski"],
@@ -1792,7 +1964,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-SK",
     coords: [-107.791, 50.2881],
-    name: { de: "Swift Current", hu: "Swift Current", ro: "Swift Current", en: "Swift Current" },
+    name: { de: "Swift Current", hu: "Swift Current", ro: "Swift Current", en: "Swift Current",
+image: "/poi-images/swift-current-cities-v2.webp"
+},
     description: { de: "Eine Stadt im Südwesten von Saskatchewan, ein Zentrum für Landwirtschaft und Öl.", hu: "Saskatchewan tartomány délnyugati részén fekvő város, amely a Transz-Kanada autópálya mentén fontos közlekedési csomópont.", ro: "Un oraș în sud-vestul Saskatchewan, un centru pentru agricultură și petrol.", en: "Swift Current is a prairie city in southwestern Saskatchewan on the Trans-Canada Highway. It serves as a local supply centre and is known for rodeo events." },
     facts: {
       de: ["Landwirtschaft und Ölförderung", "Lyric Theatre (historisches Kino)", "Windkraftanlagen", "An der Trans-Canada-Autobahn"],
@@ -1811,7 +1985,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-SK",
     coords: [-102.463, 51.2139],
-    name: { de: "Yorkton", hu: "Yorkton", ro: "Yorkton", en: "Yorkton" },
+    name: { de: "Yorkton", hu: "Yorkton", ro: "Yorkton", en: "Yorkton",
+image: "/poi-images/yorkton-cities-v2.webp"
+},
     description: { de: "Ein Handelszentrum im Osten von Saskatchewan mit starken ukrainischen Wurzeln.", hu: "Kereskedelmi központ Saskatchewan keleti részén, erős ukrán gyökerekkel.", ro: "Un centru comercial în estul Saskatchewan, cu rădăcini ucrainene puternice.", en: "A commercial hub in eastern Saskatchewan with strong Ukrainian roots." },
     facts: {
       de: ["Starke ukrainische Kultur", "Jährliches Filmfestival", "Landwirtschaftliche Dienstleistungen", "Western Development Museum"],
@@ -1830,7 +2006,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-SK",
     coords: [-108.286, 52.7575],
-    name: { de: "North Battleford", hu: "North Battleford", ro: "North Battleford", en: "North Battleford" },
+    name: { de: "North Battleford", hu: "North Battleford", ro: "North Battleford", en: "North Battleford",
+image: "/poi-images/north-battleford-cities-v2.webp"
+},
     description: { de: "Eine Stadt am North Saskatchewan River.", hu: "Város az Észak-Saskatchewan folyó partján.", ro: "Un oraș pe râul North Saskatchewan.", en: "A city on the North Saskatchewan River." },
     facts: {
       de: ["Fort Battleford National Historic Site", "Landwirtschaft und Dienstleistungen", "Allen Sapp Gallery", "Grenzt an die Stadt Battleford"],
@@ -1849,7 +2027,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-SK",
     coords: [-110.005, 53.2783],
-    name: { de: "Lloydminster", hu: "Lloydminster", ro: "Lloydminster", en: "Lloydminster" },
+    name: { de: "Lloydminster", hu: "Lloydminster", ro: "Lloydminster", en: "Lloydminster",
+image: "/poi-images/lloydminster-cities-v2.webp"
+},
     description: { de: "Eine Grenzstadt, die Alberta und Saskatchewan überspannt und für Öl und Landwirtschaft bekannt ist.", hu: "Lloydminster különleges város, mert Alberta és Saskatchewan határán fekszik. Az olajipar és a mezőgazdaság együtt formálja a gazdaságát.", ro: "Un oraș unic care se întinde peste granița dintre Alberta și Saskatchewan.", en: "Lloydminster is a border city that sits directly on the line between Alberta and Saskatchewan. It is known for its unusual two-province identity and energy economy." },
     facts: {
       de: ["Auf der Provinzgrenze", "Zwischen Alberta und Saskatchewan", "Starke Öl- und Agrarwirtschaft"],
@@ -1868,7 +2048,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NL",
     coords: [-57.9497, 48.9500],
-    name: { de: "Corner Brook", hu: "Corner Brook", ro: "Corner Brook", en: "Corner Brook" },
+    name: { de: "Corner Brook", hu: "Corner Brook", ro: "Corner Brook", en: "Corner Brook",
+image: "/poi-images/corner-brook-cities-v2.webp"
+},
     description: { de: "Die größte Stadt im Westen von Neufundland, bekannt für ihre Papierfabrik.", hu: "Nyugat-Új-Fundland legnagyobb városa, papírgyáráról ismert.", ro: "Cel mai mare oraș din vestul Newfoundland, cunoscut pentru fabrica sa de hârtie.", en: "The largest city in western Newfoundland, known for its paper mill." },
     facts: {
       de: ["Wichtige Papier- und Zellstoffindustrie", "Marble Mountain Skigebiet", "Grenfell Campus (Memorial University)", "An der Bay of Islands gelegen"],
@@ -1887,7 +2069,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NL",
     coords: [-52.7833, 47.5167],
-    name: { de: "Mount Pearl", hu: "Mount Pearl", ro: "Mount Pearl", en: "Mount Pearl" },
+    name: { de: "Mount Pearl", hu: "Mount Pearl", ro: "Mount Pearl", en: "Mount Pearl",
+image: "/poi-images/mount-pearl-cities-v2.webp"
+},
     description: { de: "Eine der größten Städte in Neufundland, angrenzend an St. John's.", hu: "Új-Fundland egyik legnagyobb városa, St. John's-szal határos.", ro: "Unul dintre cele mai mari orașe din Newfoundland, adiacent lui St. John's.", en: "One of the largest cities in Newfoundland, adjacent to St. John's." },
     facts: {
       de: ["Wohnvorort von St. John's", "Starkes Wirtschaftswachstum", "Admiralty House Museum", "Viele Parks und Wanderwege"],
@@ -1906,7 +2090,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NL",
     coords: [-52.9667, 47.5167],
-    name: { de: "Conception Bay South", hu: "Conception Bay South", ro: "Conception Bay South", en: "Conception Bay South" },
+    name: { de: "Conception Bay South", hu: "Conception Bay South", ro: "Conception Bay South", en: "Conception Bay South",
+image: "/poi-images/conception-bay-south-cities-v2.webp"
+},
     description: { de: "Eine wachsende Stadt an der Küste nahe St. John's.", hu: "Növekvő tengerparti város St. John's közelében.", ro: "Un oraș de coastă în creștere, lângă St. John's.", en: "A growing coastal town near St. John's." },
     facts: {
       de: ["Malerische Küstenlandschaft", "Teil der Metropolregion St. John's", "Royal Newfoundland Yacht Club", "Manuels River Hibernia Interpretation Centre"],
@@ -1925,7 +2111,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NS",
     coords: [-63.2833, 45.3667],
-    name: { de: "Truro", hu: "Truro", ro: "Truro", en: "Truro" },
+    name: { de: "Truro", hu: "Truro", ro: "Truro", en: "Truro",
+image: "/poi-images/truro-cities-v2.webp"
+},
     description: { de: "Ein wichtiges Zentrum in Zentral-Nova Scotia, oft als Hub of Nova Scotia bezeichnet.", hu: "Truro Nova Scotia egyik központi fekvésű városa. Közlekedési csomópontként és regionális szolgáltató központként ismert.", ro: "Cunoscut ca \\\"Centrul Noii Scoții\\\".", en: "Truro is a transport town in central Nova Scotia where rail lines and highways meet. It is also famous for the tidal bore on the Salmon River." },
     facts: {
       de: ["In Zentral-Nova Scotia", "Nahe dem Minas Basin", "Historischer Verkehrsknotenpunkt"],
@@ -1944,7 +2132,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-NS",
     coords: [-62.65, 45.5833],
-    name: { de: "New Glasgow", hu: "New Glasgow", ro: "New Glasgow", en: "New Glasgow" },
+    name: { de: "New Glasgow", hu: "New Glasgow", ro: "New Glasgow", en: "New Glasgow",
+image: "/poi-images/new-glasgow-cities-v2.webp"
+},
     description: { de: "Ein Handelszentrum im Nordosten von Nova Scotia mit starkem schottischen Erbe.", hu: "Kereskedelmi központ Új-Skócia északkeleti részén, erős skót örökséggel.", ro: "Un centru comercial în nord-estul Noii Scoții, cu o puternică moștenire scoțiană.", en: "A commercial hub in northeastern Nova Scotia with a strong Scottish heritage." },
     facts: {
       de: ["Starkes schottisches Erbe", "Festival of the Tartans", "Industrielle Geschichte", "Melmerby Beach in der Nähe"],
@@ -1963,7 +2153,9 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     type: "city",
     parent: "CA-PE",
     coords: [-63.7833, 46.4],
-    name: { de: "Summerside", hu: "Summerside", ro: "Summerside", en: "Summerside" },
+    name: { de: "Summerside", hu: "Summerside", ro: "Summerside", en: "Summerside",
+image: "/poi-images/summerside-cities-v2.webp"
+},
     description: { de: "Die zweitgrößte Stadt von Prince Edward Island an der Westküste der Insel.", hu: "Summerside Prince Edward-sziget második legnagyobb városa. A kikötő, a szolgáltatások és a szigeti élet ritmusa határozza meg.", ro: "Al doilea oraș ca mărime de pe Insula Prince Edward.", en: "Summerside is a coastal city on Prince Edward Island and one of the island's main service centres. Its harbour and waterfront give it a strong maritime character." },
     facts: {
       de: ["Westen von Prince Edward Island", "Zweitgrößte Stadt der Insel", "Wichtige Hafenstadt"],

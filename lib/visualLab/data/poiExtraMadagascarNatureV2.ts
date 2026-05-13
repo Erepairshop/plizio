@@ -7,7 +7,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-T",
     coords: [48.8, -14.03],
-    name: { de: "Tsaratanana-Massiv", hu: "Tsaratanana-hegység", ro: "Masivul Tsaratanana", en: "Tsaratanana Massif" },
+    name: { de: "Tsaratanana-Massiv", hu: "Tsaratanana-hegység", ro: "Masivul Tsaratanana", en: "Tsaratanana Massif",
+image: "/poi-images/tsaratanana-nature-v2.webp"
+},
     description: { de: "Das Tsaratanana-Massiv ist das höchste Bergmassiv Madagaskars.", hu: "A Tsaratanana-hegység Madagaszkár legmagasabb hegyvidéke.", ro: "Masivul Tsaratanana este cel mai înalt masiv muntos din Madagascar.", en: "The Tsaratanana Massif is the highest mountain massif in Madagascar." },
     facts: {
       de: ["Höchster Punkt ist der Maromokotro", "Vulkanischen Ursprungs", "Teil des Tsaratanana-Reservats", "Wichtiger Wasserlieferant"],
@@ -31,7 +33,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "forest",
     parent: "MG-S",
     coords: [50.2, -15.2],
-    name: { de: "Masoala-Regenwald", hu: "Masoala esőerdő", ro: "Pădurea tropicală Masoala", en: "Masoala Rainforest" },
+    name: { de: "Masoala-Regenwald", hu: "Masoala esőerdő", ro: "Pădurea tropicală Masoala", en: "Masoala Rainforest",
+image: "/poi-images/masoala-nature-v2.webp"
+},
     description: { de: "Der Masoala-Nationalpark schützt den größten verbliebenen Regenwald Madagaskars.", hu: "A Masoala Nemzeti Park Madagaszkár legnagyobb megmaradt esőerdőjét védi.", ro: "Parcul Național Masoala protejează cea mai mare pădure tropicală rămasă din Madagascar.", en: "Masoala National Park protects the largest remaining rainforest in Madagascar." },
     facts: {
       de: ["Größtes Schutzgebiet Madagaskars", "UNESCO-Welterbe", "Beheimatet seltene Arten", "Umfasst auch Meeresgebiete"],
@@ -55,7 +59,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-M",
     coords: [44.7, -18.7],
-    name: { de: "Tsingy de Bemaraha", hu: "Tsingy de Bemaraha", ro: "Tsingy de Bemaraha", en: "Tsingy de Bemaraha" },
+    name: { de: "Tsingy de Bemaraha", hu: "Tsingy de Bemaraha", ro: "Tsingy de Bemaraha", en: "Tsingy de Bemaraha",
+image: "/poi-images/tsingy-bemaraha-nature-v2.webp"
+},
     description: { de: "Eine spektakuläre Kalkstein-Karstlandschaft im Westen Madagaskars.", hu: "Látványos mészkő karsztvidék Madagaszkár nyugati részén.", ro: "Un peisaj carstic spectaculos din calcar în vestul Madagascarului.", en: "A spectacular limestone karst landscape in western Madagascar." },
     facts: {
       de: ["Einzigartige 'Tsingy'-Felsformationen", "UNESCO-Welterbe", "Schwieriges Gelände für Wanderer", "Beheimatet endemische Lemuren"],
@@ -79,7 +85,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "lake",
     parent: "MG-A",
     coords: [48.5, -17.5],
-    name: { de: "Alaotra-See", hu: "Alaotra-tó", ro: "Lacul Alaotra", en: "Lake Alaotra" },
+    name: { de: "Alaotra-See", hu: "Alaotra-tó", ro: "Lacul Alaotra", en: "Lake Alaotra",
+image: "/poi-images/lake-alaotra-nature-v2.webp"
+},
     description: { de: "Der größte See Madagaskars, bekannt für seine Bedeutung in der Landwirtschaft.", hu: "Madagaszkár legnagyobb tava, amely mezőgazdasági jelentőségéről ismert.", ro: "Cel mai mare lac din Madagascar, cunoscut pentru importanța sa în agricultură.", en: "The largest lake in Madagascar, known for its agricultural importance." },
     facts: {
       de: ["Wichtiges Zentrum für Reisbau", "Bettet in ein großes Feuchtgebiet ein", "Gefährdeter Lebensraum", "Süßwassersee"],
@@ -103,7 +111,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "forest",
     parent: "MG-D",
     coords: [48.3, -13.4],
-    name: { de: "Lokobe-Wald", hu: "Lokobe erdő", ro: "Pădurea Lokobe", en: "Lokobe Forest" },
+    name: { de: "Lokobe-Wald", hu: "Lokobe erdő", ro: "Pădurea Lokobe", en: "Lokobe Forest",
+image: "/poi-images/lokobe-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Naturschutzgebiet auf der Insel Nosy Be.", hu: "Fontos természetvédelmi terület Nosy Be szigetén.", ro: "O rezervație naturală importantă pe insula Nosy Be.", en: "An important nature reserve on the island of Nosy Be." },
     facts: {
       de: ["Auf Nosy Be gelegen", "Primärwald-Überreste", "Beheimatet den Schwarzen Lemur", "Schützt seltene Flora"],
@@ -127,7 +137,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "island",
     parent: "MG-D",
     coords: [48.2, -13.3],
-    name: { de: "Nosy Be", hu: "Nosy Be", ro: "Nosy Be", en: "Nosy Be" },
+    name: { de: "Nosy Be", hu: "Nosy Be", ro: "Nosy Be", en: "Nosy Be",
+image: "/poi-images/nosy-be-nature-v2.webp"
+},
     description: { de: "Die bekannteste Urlaubsinsel Madagaskars vor der Nordwestküste.", hu: "Madagaszkár legismertebb üdülőszigete az északnyugati partoknál.", ro: "Cea mai cunoscută insulă de vacanță a Madagascarului în largul coastei de nord-vest.", en: "The most famous resort island of Madagascar off the northwest coast." },
     facts: {
       de: ["Berühmt für Ylang-Ylang-Plantagen", "Traumhafte Strände", "Vulkanischer Ursprung", "Touristen-Hotspot"],
@@ -151,7 +163,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "river",
     parent: "MG-B",
     coords: [46.7, -15.7],
-    name: { de: "Betsiboka-Fluss", hu: "Betsiboka-folyó", ro: "Râul Betsiboka", en: "Betsiboka River" },
+    name: { de: "Betsiboka-Fluss", hu: "Betsiboka-folyó", ro: "Râul Betsiboka", en: "Betsiboka River",
+image: "/poi-images/betsiboka-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss im Nordwesten, bekannt für sein rotes Sediment.", hu: "Jelentős folyó az északnyugaton, vörös üledékéről ismert.", ro: "Un râu important în nord-vest, cunoscut pentru sedimentele sale roșii.", en: "A significant river in the northwest, known for its red sediment." },
     facts: {
       de: ["Starker Erosionsabfluss", "Mündet in die Bombetoka-Bucht", "Rot gefärbtes Wasser", "Wichtig für die lokale Fischerei"],
@@ -175,7 +189,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "river",
     parent: "MG-M",
     coords: [44.5, -19.5],
-    name: { de: "Tsiribihina-Fluss", hu: "Tsiribihina-folyó", ro: "Râul Tsiribihina", en: "Tsiribihina River" },
+    name: { de: "Tsiribihina-Fluss", hu: "Tsiribihina-folyó", ro: "Râul Tsiribihina", en: "Tsiribihina River",
+image: "/poi-images/tsiribihina-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss im Westen, beliebt für Kanutouren durch die Schluchten.", hu: "Nyugati folyó, népszerű a szurdokon átvezető kenu-túrák miatt.", ro: "Un râu în vest, popular pentru tururile cu canoe prin canioane.", en: "A river in the west, popular for canoe tours through the gorges." },
     facts: {
       de: ["Beliebt bei Touristen", "Durchquert beeindruckende Schluchten", "Reich an Tierwelt", "Wichtig für den Transport"],
@@ -199,7 +215,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "river",
     parent: "MG-A",
     coords: [44.3, -21.7],
-    name: { de: "Mangoky-Fluss", hu: "Mangoky-folyó", ro: "Râul Mangoky", en: "Mangoky River" },
+    name: { de: "Mangoky-Fluss", hu: "Mangoky-folyó", ro: "Râul Mangoky", en: "Mangoky River",
+image: "/poi-images/mangoky-river-nature-v2.webp"
+},
     description: { de: "Der längste Fluss Madagaskars, der durch den Südwesten fließt.", hu: "Madagaszkár leghosszabb folyója, amely a délnyugaton folyik keresztül.", ro: "Cel mai lung râu din Madagascar, care curge prin sud-vest.", en: "The longest river in Madagascar, flowing through the southwest." },
     facts: {
       de: ["Länge ca. 560 km", "Entspringt im zentralen Hochland", "Mündet in den Indischen Ozean", "Wichtig für die Landwirtschaft"],
@@ -223,7 +241,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "lake",
     parent: "MG-I",
     coords: [46.7, -19.2],
-    name: { de: "Itasy-See", hu: "Itasy-tó", ro: "Lacul Itasy", en: "Lake Itasy" },
+    name: { de: "Itasy-See", hu: "Itasy-tó", ro: "Lacul Itasy", en: "Lake Itasy",
+image: "/poi-images/lake-itasy-nature-v2.webp"
+},
     description: { de: "Ein vulkanischer See im zentralen Hochland.", hu: "Vulkáni eredetű tó a központi felföldön.", ro: "Un lac vulcanic în munții centrali.", en: "A volcanic lake in the central highlands." },
     facts: {
       de: ["Vulkanische Region", "Bekannt für Geysire in der Nähe", "Touristenattraktion", "Süßwasser"],
@@ -247,7 +267,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "forest",
     parent: "MG-B",
     coords: [46.8, -16.3],
-    name: { de: "Ankarafantsika-Nationalpark", hu: "Ankarafantsika Nemzeti Park", ro: "Parcul Național Ankarafantsika", en: "Ankarafantsika National Park" },
+    name: { de: "Ankarafantsika-Nationalpark", hu: "Ankarafantsika Nemzeti Park", ro: "Parcul Național Ankarafantsika", en: "Ankarafantsika National Park",
+image: "/poi-images/ankarafantsika-nature-v2.webp"
+},
     description: { de: "Ein wichtiger Park im Nordwesten mit Trockenwald-Ökosystemen.", hu: "Fontos park az északnyugaton, száraz erdő ökoszisztémákkal.", ro: "Un parc important în nord-vest cu ecosisteme de pădure uscată.", en: "An important park in the northwest with dry forest ecosystems." },
     facts: {
       de: ["Bekannt für Sifakas", "Trockenwald-Schutzgebiet", "Wichtige Forschungsstation", "Vogelschutzgebiet"],
@@ -271,7 +293,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-H",
     coords: [46.9, -22.1],
-    name: { de: "Andringitra-Massiv", hu: "Andringitra-hegység", ro: "Masivul Andringitra", en: "Andringitra Massif" },
+    name: { de: "Andringitra-Massiv", hu: "Andringitra-hegység", ro: "Masivul Andringitra", en: "Andringitra Massif",
+image: "/poi-images/andringitra-nature-v2.webp"
+},
     description: { de: "Ein atemberaubendes Granit-Massiv im Südosten Madagaskars.", hu: "Lélegzetelállító gránit-hegység Madagaszkár délkeleti részén.", ro: "Un masiv de granit uluitor în sud-estul Madagascarului.", en: "A breathtaking granite massif in southeastern Madagascar." },
     facts: {
       de: ["Zweitbester Gipfel: Pic Boby", "UNESCO-Welterbe-Bestandteil", "Spektakuläre Wanderwege", "Einzigartige Flora"],
@@ -295,7 +319,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "forest",
     parent: "MG-V",
     coords: [47.4, -21.2],
-    name: { de: "Ranomafana-Nationalpark", hu: "Ranomafana Nemzeti Park", ro: "Parcul Național Ranomafana", en: "Ranomafana National Park" },
+    name: { de: "Ranomafana-Nationalpark", hu: "Ranomafana Nemzeti Park", ro: "Parcul Național Ranomafana", en: "Ranomafana National Park",
+image: "/poi-images/ranomafana-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Regenwald-Park im Südosten.", hu: "Jelentős esőerdő-park a délkeleten.", ro: "Un parc important de pădure tropicală în sud-est.", en: "An important rainforest park in the southeast." },
     facts: {
       de: ["Bekannt für die Entdeckung des Goldbambuslemurs", "Reich an Biodiversität", "Heißquellen", "Forschungszentrum"],
@@ -319,7 +345,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "island",
     parent: "MG-D",
     coords: [48.3, -13.4],
-    name: { de: "Nosy Komba", hu: "Nosy Komba", ro: "Nosy Komba", en: "Nosy Komba" },
+    name: { de: "Nosy Komba", hu: "Nosy Komba", ro: "Nosy Komba", en: "Nosy Komba",
+image: "/poi-images/nosy-komba-nature-v2.webp"
+},
     description: { de: "Eine Insel vor Nosy Be, bekannt für ihre Lemuren.", hu: "Nosy Be melletti sziget, makijairól híres.", ro: "O insulă lângă Nosy Be, cunoscută pentru lemurienii săi.", en: "An island near Nosy Be, known for its lemurs." },
     facts: {
       de: ["Vulkaninsel", "Bekannt als Lemureninsel", "Schönes Handwerk", "Touristisch erschlossen"],
@@ -343,7 +371,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-T",
     coords: [45.3, -22.6],
-    name: { de: "Isalo-Massiv", hu: "Isalo-hegység", ro: "Masivul Isalo", en: "Isalo Massif" },
+    name: { de: "Isalo-Massiv", hu: "Isalo-hegység", ro: "Masivul Isalo", en: "Isalo Massif",
+image: "/poi-images/isalo-nature-v2.webp"
+},
     description: { de: "Eine beeindruckende Sandstein-Landschaft im Süden Madagaskars.", hu: "Lenyűgöző homokkő táj Madagaszkár déli részén.", ro: "Un peisaj impresionant de gresie în sudul Madagascarului.", en: "An impressive sandstone landscape in southern Madagascar." },
     facts: {
       de: ["Spektakuläre Schluchten", "Einzigartige Sandsteinformationen", "Oasen in den Tälern", "Große Lemurpopulation"],
@@ -367,7 +397,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "island",
     parent: "MG-S",
     coords: [50.2, -15.4],
-    name: { de: "Masoala-Halbinsel", hu: "Masoala-félsziget", ro: "Peninsula Masoala", en: "Masoala Peninsula" },
+    name: { de: "Masoala-Halbinsel", hu: "Masoala-félsziget", ro: "Peninsula Masoala", en: "Masoala Peninsula",
+image: "/poi-images/masoala-peninsula-nature-v2.webp"
+},
     description: { de: "Eine abgelegene Halbinsel im Nordosten, bekannt für ihre unberührte Natur.", hu: "Elszigetelt félsziget az északkeleten, érintetlen természetéről ismert.", ro: "O peninsulă izolată în nord-est, cunoscută pentru natura sa neatinsă.", en: "A remote peninsula in the northeast, known for its pristine nature." },
     facts: {
       de: ["Heimat seltener Reptilien", "Dichter Regenwald", "Abgelegene Strände", "Teil des Nationalparks"],
@@ -391,7 +423,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-M",
     coords: [44.8, -16.4],
-    name: { de: "Tsingy von Namoroka", hu: "Namoroka-Tsingy", ro: "Tsingy din Namoroka", en: "Tsingy of Namoroka" },
+    name: { de: "Tsingy von Namoroka", hu: "Namoroka-Tsingy", ro: "Tsingy din Namoroka", en: "Tsingy of Namoroka",
+image: "/poi-images/tsingy-namoroka-nature-v2.webp"
+},
     description: { de: "Ein spektakuläres Karstgebiet mit einzigartigen Felsformationen.", hu: "Látványos karsztvidék egyedülálló sziklaképződményekkel.", ro: "O zonă carstică spectaculoasă cu formațiuni stâncoase unice.", en: "A spectacular karst area with unique rock formations." },
     facts: {
       de: ["Weniger besucht als Bemaraha", "Schützenswerte Karstlandschaft", "Endemische Arten", "Eindrucksvolle Höhlen"],
@@ -415,7 +449,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "lake",
     parent: "MG-S",
     coords: [50.2, -15.7],
-    name: { de: "Tampolo-See", hu: "Tampolo-tó", ro: "Lacul Tampolo", en: "Lake Tampolo" },
+    name: { de: "Tampolo-See", hu: "Tampolo-tó", ro: "Lacul Tampolo", en: "Lake Tampolo",
+image: "/poi-images/lake-tampolo-nature-v2.webp"
+},
     description: { de: "Ein kleiner, idyllischer See nahe der Masoala-Halbinsel.", hu: "Kicsi, idilli tó a Masoala-félsziget közelében.", ro: "Un lac mic și idilic lângă Peninsula Masoala.", en: "A small, idyllic lake near the Masoala Peninsula." },
     facts: {
       de: ["In einer geschützten Umgebung", "Umgeben von Regenwald", "Ruhiges Gewässer", "Ideal für Naturbeobachtungen"],
@@ -439,7 +475,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "sea",
     parent: "MG-B",
     coords: [46.3, -15.7],
-    name: { de: "Küste bei Mahajanga", hu: "Mahajanga tengerpartja", ro: "Coasta de lângă Mahajanga", en: "Coast near Mahajanga" },
+    name: { de: "Küste bei Mahajanga", hu: "Mahajanga tengerpartja", ro: "Coasta de lângă Mahajanga", en: "Coast near Mahajanga",
+image: "/poi-images/mahajanga-coast-nature-v2.webp"
+},
     description: { de: "Ein Bereich entlang der Nordwestküste mit schönen Stränden.", hu: "Terület az északnyugati part mentén, szép strandokkal.", ro: "O zonă de-a lungul coastei de nord-vest cu plaje frumoase.", en: "An area along the northwest coast with beautiful beaches." },
     facts: {
       de: ["Warme Gewässer", "Wichtiges Habitat", "Mangrovenwälder", "Touristisch bedeutend"],
@@ -463,7 +501,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "island",
     parent: "MG-A",
     coords: [49.8, -17.1],
-    name: { de: "Nosy Boraha", hu: "Nosy Boraha", ro: "Nosy Boraha", en: "Nosy Boraha" },
+    name: { de: "Nosy Boraha", hu: "Nosy Boraha", ro: "Nosy Boraha", en: "Nosy Boraha",
+image: "/poi-images/saint-marie-island-nature-v2.webp"
+},
     description: { de: "Eine Insel vor der Ostküste, bekannt als Île Sainte-Marie.", hu: "Keleti part előtti sziget, Île Sainte-Marie néven ismert.", ro: "O insulă în largul coastei de est, cunoscută sub numele de Île Sainte-Marie.", en: "An island off the east coast, known as Île Sainte-Marie." },
     facts: {
       de: ["Bekannt für Walbeobachtung", "Ehemaliges Piratenversteck", "Üppige tropische Vegetation", "Traumstrände"],
@@ -487,7 +527,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "river",
     parent: "MG-M",
     coords: [44.3, -19.7],
-    name: { de: "Tsiribihina-Delta", hu: "Tsiribihina-delta", ro: "Delta Tsiribihina", en: "Tsiribihina Delta" },
+    name: { de: "Tsiribihina-Delta", hu: "Tsiribihina-delta", ro: "Delta Tsiribihina", en: "Tsiribihina Delta",
+image: "/poi-images/tsiribihina-delta-nature-v2.webp"
+},
     description: { de: "Das Flussdelta, wo der Tsiribihina in den Ozean mündet.", hu: "Folyódelta, ahol a Tsiribihina az óceánba torkollik.", ro: "Delta râului unde Tsiribihina se varsă în ocean.", en: "The river delta where the Tsiribihina flows into the ocean." },
     facts: {
       de: ["Reichhaltiges Ökosystem", "Mangroven-Lebensraum", "Wichtig für Vögel", "Sandbänke"],
@@ -511,7 +553,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "lake",
     parent: "MG-T",
     coords: [43.8, -24.1],
-    name: { de: "Tsimanampetsotsa-See", hu: "Tsimanampetsotsa-tó", ro: "Lacul Tsimanampetsotsa", en: "Lake Tsimanampetsotsa" },
+    name: { de: "Tsimanampetsotsa-See", hu: "Tsimanampetsotsa-tó", ro: "Lacul Tsimanampetsotsa", en: "Lake Tsimanampetsotsa",
+image: "/poi-images/lake-tsimanampetsotsa-nature-v2.webp"
+},
     description: { de: "Ein alkalischer Salzsee im Südwesten Madagaskars.", hu: "Lúgos sós tó Madagaszkár délnyugati részén.", ro: "Un lac cu apă sărată alcalină în sud-vestul Madagascarului.", en: "An alkaline saltwater lake in southwestern Madagascar." },
     facts: {
       de: ["Nationalpark", "Wichtiges Refugium für Flamingos", "Sehr mineralreich", "Einzigartige Landschaft"],
@@ -535,7 +579,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "river",
     parent: "MG-A",
     coords: [48.7, -19.2],
-    name: { de: "Mangoro-Fluss", hu: "Mangoro-folyó", ro: "Râul Mangoro", en: "Mangoro River" },
+    name: { de: "Mangoro-Fluss", hu: "Mangoro-folyó", ro: "Râul Mangoro", en: "Mangoro River",
+image: "/poi-images/mangoro-river-nature-v2.webp"
+},
     description: { de: "Ein langer Fluss, der die Ostküste entwässert.", hu: "Hosszú folyó, amely a keleti partot csapolja le.", ro: "Un râu lung care drenează coasta de est.", en: "A long river that drains the eastern coast." },
     facts: {
       de: ["Wichtiges Flusssystem", "Führt durch den Regenwald", "Bedeutend für Wasserkraft", "Fischreich"],
@@ -559,7 +605,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "island",
     parent: "MG-D",
     coords: [48.5, -12.9],
-    name: { de: "Nosy Mitsio", hu: "Nosy Mitsio", ro: "Nosy Mitsio", en: "Nosy Mitsio" },
+    name: { de: "Nosy Mitsio", hu: "Nosy Mitsio", ro: "Nosy Mitsio", en: "Nosy Mitsio",
+image: "/poi-images/nosy-mitseo-nature-v2.webp"
+},
     description: { de: "Eine Inselgruppe nördlich von Nosy Be.", hu: "Nosy Be-től északra fekvő szigetcsoport.", ro: "Un arhipelag la nord de Nosy Be.", en: "An archipelago north of Nosy Be." },
     facts: {
       de: ["Paradies zum Tauchen", "Unberührte Strände", "Vulkanische Felsen", "Sehr ruhig"],
@@ -583,7 +631,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-D",
     coords: [49.2, -12.5],
-    name: { de: "Montagne d'Ambre", hu: "Montagne d'Ambre", ro: "Montagne d'Ambre", en: "Montagne d'Ambre" },
+    name: { de: "Montagne d'Ambre", hu: "Montagne d'Ambre", ro: "Montagne d'Ambre", en: "Montagne d'Ambre",
+image: "/poi-images/montagne-ambre-nature-v2.webp"
+},
     description: { de: "Ein Vulkanmassiv im Norden Madagaskars, bekannt als Nationalpark.", hu: "Vulkáni hegység Madagaszkár északi részén, nemzeti parkként ismert.", ro: "Un masiv vulcanic în nordul Madagascarului, cunoscut ca parc național.", en: "A volcanic massif in northern Madagascar, known as a national park." },
     facts: {
       de: ["Regenwald in der Höhe", "Zahlreiche Wasserfälle", "Beheimatet den kleinsten Chamäleon", "Kühleres Klima"],
@@ -607,7 +657,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "sea",
     parent: "MG-B",
     coords: [46.3, -15.7],
-    name: { de: "Bombetoka-Bucht", hu: "Bombetoka-öböl", ro: "Golful Bombetoka", en: "Bombetoka Bay" },
+    name: { de: "Bombetoka-Bucht", hu: "Bombetoka-öböl", ro: "Golful Bombetoka", en: "Bombetoka Bay",
+image: "/poi-images/baie-de-bombetoka-nature-v2.webp"
+},
     description: { de: "Eine beeindruckende Bucht im Nordwesten, wo die Betsiboka mündet.", hu: "Lenyűgöző öböl az északnyugaton, ahová a Betsiboka torkollik.", ro: "Un golf impresionant în nord-vest, unde se varsă Betsiboka.", en: "An impressive bay in the northwest where the Betsiboka flows into." },
     facts: {
       de: ["Mangrovenwälder", "Spektakuläre Sedimentstrukturen", "Wichtiges ökologisches Gebiet", "Gezeitenbeeinflusst"],
@@ -631,7 +683,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "lake",
     parent: "MG-D",
     coords: [49.2, -12.7],
-    name: { de: "Anivorano-See", hu: "Anivorano-tó", ro: "Lacul Anivorano", en: "Lake Anivorano" },
+    name: { de: "Anivorano-See", hu: "Anivorano-tó", ro: "Lacul Anivorano", en: "Lake Anivorano",
+image: "/poi-images/lake-anivorano-nature-v2.webp"
+},
     description: { de: "Ein heiliger Kratersee im Norden Madagaskars.", hu: "Szent krátertó Madagaszkár északi részén.", ro: "Un lac crater sacru în nordul Madagascarului.", en: "A sacred crater lake in northern Madagascar." },
     facts: {
       de: ["Legendenumwoben", "Heilige Krokodile", "Kräterrand", "Naturschutzgebiet"],
@@ -655,7 +709,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "island",
     parent: "MG-D",
     coords: [48.2, -13.5],
-    name: { de: "Nosy Tanikely", hu: "Nosy Tanikely", ro: "Nosy Tanikely", en: "Nosy Tanikely" },
+    name: { de: "Nosy Tanikely", hu: "Nosy Tanikely", ro: "Nosy Tanikely", en: "Nosy Tanikely",
+image: "/poi-images/nosy-tanikely-nature-v2.webp"
+},
     description: { de: "Ein geschütztes Meeresreservat bei Nosy Be.", hu: "Védett tengeri rezervátum Nosy Be közelében.", ro: "O rezervație marină protejată lângă Nosy Be.", en: "A protected marine reserve near Nosy Be." },
     facts: {
       de: ["Bestes Schnorchelrevier", "Reiches Korallenriff", "Kleine Insel", "Beheimatet Schildkröten"],
@@ -679,7 +735,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     type: "mountain",
     parent: "MG-M",
     coords: [45.1, -21.2],
-    name: { de: "Makay-Massiv", hu: "Makay-hegység", ro: "Masivul Makay", en: "Makay Massif" },
+    name: { de: "Makay-Massiv", hu: "Makay-hegység", ro: "Masivul Makay", en: "Makay Massif",
+image: "/poi-images/massif-des-makay-nature-v2.webp"
+},
     description: { de: "Ein abgelegenes und wildes Gebirgsmassiv im Westen.", hu: "Elszigetelt és vad hegység a nyugaton.", ro: "Un masiv muntos izolat și sălbatic în vest.", en: "A remote and wild mountain massif in the west." },
     facts: {
       de: ["Kaum erforscht", "Tiefe Schluchten", "Endemische Arten", "Abenteuerliche Destination"],

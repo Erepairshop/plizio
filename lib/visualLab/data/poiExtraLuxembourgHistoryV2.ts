@@ -4,7 +4,9 @@ export const luxembourgHistoryV2: POI[] = [
   {
     id: "luxembourg-bock-casemates-history-v2",
     type: "fortification",
-    name: { de: "Bock-Kasematten", hu: "Bock-kazamaták", ro: "Cazematele Bock", en: "Bock Casemates" },
+    name: { de: "Bock-Kasematten", hu: "Bock-kazamaták", ro: "Cazematele Bock", en: "Bock Casemates",
+image: "/poi-images/luxembourg-bock-casemates-history-v2.webp"
+},
     coords: [6.1347, 49.6119],
     coordinates: { lat: 49.6119, lng: 6.1347 },
     description: {
@@ -19,11 +21,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construcția a început în 1745", "Lungime inițială de 23 de kilometri", "Patrimoniu UNESCO din 1994", "Parte a fortificațiilor Luxemburgului"],
       en: ["Construction began in 1745", "Original length of 23 kilometers", "UNESCO World Heritage since 1994", "Part of the Fortress of Luxembourg"],
     },
-    imageHint: "Bock Casemates stone tunnels with cannon openings", image: "/poi-images/luxembourg-bock-casemates-history-v2.webp"},
-  {
+imageHint: "Bock Casemates stone tunnels with cannon openings",
+    descriptionAdvanced: {
+      de: "Dieser unterirdische Verteidigungskomplex aus dem Jahr 1644 umfasst ein 23 Kilometer langes Tunnelnetz und gehört seit 1994 zum UNESCO-Weltkulturerbe der Stadt Luxemburg.",
+      hu: "Ez az 1644-ben épült föld alatti védelmi rendszer 23 kilométernyi alagúthálózatot foglal magában, és 1994 óta az UNESCO Világörökség részét képezi Luxemburg városában.",
+      ro: "Acest complex de apărare subteran din 1644 cuprinde o rețea de tuneluri de 23 de kilometri și face parte din Patrimoniul Mondial UNESCO al orașului Luxemburg din 1994.",
+      en: "This underground defense complex from 1644 comprises a 23-kilometer network of tunnels and has been part of the UNESCO World Heritage of Luxembourg City since 1994.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1644 durch Spanier", "Länge: 23 km Tunnelnetz", "UNESCO-Status seit 1994", "Tiefe: Bis zu 40 Meter"],
+      hu: ["Építés: 1644 a spanyolok által", "Hossz: 23 km alagútrendszer", "UNESCO helyszín: 1994 óta", "Mélység: Akár 40 méter"],
+      ro: ["Construcție: 1644 de spanioli", "Lungime: 23 km de tuneluri", "Statut UNESCO din 1994", "Adâncime: Până la 40 metri"],
+      en: ["Built: 1644 by the Spanish", "Length: 23 km tunnel network", "UNESCO site since 1994", "Depth: Up to 40 meters"],
+    },
+    image: "/poi-images/luxembourg-bock-casemates-history-v2.webp",
+},  {
     id: "luxembourg-vianden-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Vianden", hu: "Viandeni vár", ro: "Castelul Vianden", en: "Vianden Castle" },
+    name: { de: "Schloss Vianden", hu: "Viandeni vár", ro: "Castelul Vianden", en: "Vianden Castle",
+image: "/poi-images/luxembourg-vianden-castle-history-v2.webp"
+},
     coords: [6.2025, 49.935],
     coordinates: { lat: 49.935, lng: 6.2025 },
     description: {
@@ -38,11 +55,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit pe fundații romane", "Sediul conților de Vianden", "Restaurat complet începând cu 1977", "Exemplu de arhitectură romanică și gotică"],
       en: ["Built on Roman foundations", "Seat of the Counts of Vianden", "Fully restored starting in 1977", "Example of Romanesque and Gothic architecture"],
     },
-    imageHint: "Vianden Castle on a hill surrounded by forest", image: "/poi-images/luxembourg-vianden-castle-history-v2.webp"},
-  {
+imageHint: "Vianden Castle on a hill surrounded by forest",
+    descriptionAdvanced: {
+      de: "Die zwischen dem 11. und 14. Jahrhundert auf römischen Fundamenten errichtete Burg gilt als eine der bedeutendsten Residenzen der Romanik und Gotik in Europa.",
+      hu: "A 11. és 14. század között római alapokra épült vár Európa egyik legjelentősebb román és gótikus stílusú rezidenciájának számít Vianden városa felett.",
+      ro: "Construit între secolele XI și XIV pe fundații romane, castelul este considerat una dintre cele mai importante reședințe romanice și gotice din Europa.",
+      en: "Built between the 11th and 14th centuries on Roman foundations, the castle is considered one of the most significant Romanesque and Gothic residences in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 11. bis 14. Jahrhundert", "Restaurierung: Begonnen 1977", "Länge des Palas: 60 Meter", "Besucher: Über 200.000 jährlich"],
+      hu: ["Építés: 11-14. század között", "Restaurálás: 1977-ben kezdődött", "Palota hossza: 60 méter", "Látogatók: Évi 200.000 felett"],
+      ro: ["Construcție: Secolele XI-XIV", "Restaurare: Începută în 1977", "Lungimea palatului: 60 metri", "Vizitatori: Peste 200.000 anual"],
+      en: ["Built: 11th to 14th century", "Restoration: Started in 1977", "Palace length: 60 meters", "Visitors: Over 200,000 annually"],
+    },
+    image: "/poi-images/luxembourg-vianden-castle-history-v2.webp",
+},  {
     id: "luxembourg-bourscheid-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Bourscheid", hu: "Bourscheid vára", ro: "Castelul Bourscheid", en: "Bourscheid Castle" },
+    name: { de: "Burg Bourscheid", hu: "Bourscheid vára", ro: "Castelul Bourscheid", en: "Bourscheid Castle",
+image: "/poi-images/luxembourg-bourscheid-castle-history-v2.webp"
+},
     coords: [6.0797, 49.905],
     coordinates: { lat: 49.905, lng: 6.0797 },
     description: {
@@ -57,11 +89,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Cel mai mare castel din Luxemburg", "Prima mențiune în anul 1095", "Situat la 370 de metri altitudine", "Dispune de opt turnuri circulare"],
       en: ["Largest castle in Luxembourg", "First mentioned in 1095", "Located at 370 meters altitude", "Features eight round towers"],
     },
-    imageHint: "Bourscheid Castle ruins at night with illumination", image: "/poi-images/luxembourg-bourscheid-castle-history-v2.webp"},
-  {
+imageHint: "Bourscheid Castle ruins at night with illumination",
+    descriptionAdvanced: {
+      de: "Die größte Burganlage Luxemburgs thront 150 Meter über der Sauer und zeigt beeindruckende Verteidigungsstrukturen aus dem 14. bis 16. Jahrhundert.",
+      hu: "Luxemburg legnagyobb vármaradványa 150 méterrel magasodik a Sauer-folyó fölé, bemutatva a 14. és 16. század közötti lenyűgöző védelmi rendszereket.",
+      ro: "Cea mai mare ruină de castel din Luxemburg domină râul Sauer de la 150 de metri înălțime, prezentând structuri defensive din secolele XIV-XVI.",
+      en: "Luxembourg largest castle ruins tower 150 meters above the Sûre river, showcasing impressive defensive structures from the 14th to 16th centuries.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 150 m über dem Flusstal", "Umfang: 12 Ringmauertürme", "Erste Erwähnung: Jahr 1095", "Fläche: Ca. 12.000 m²"],
+      hu: ["Magasság: 150 m a völgy felett", "Tornyok száma: 12 védőtorony", "Első említés: 1095-ben", "Terület: Kb. 12.000 m²"],
+      ro: ["Înălțime: 150 m deasupra văii", "Turnuri: 12 turnuri de incintă", "Prima atestare: Anul 1095", "Suprafață: Aprox. 12.000 m²"],
+      en: ["Height: 150 m above the valley", "Towers: 12 curtain wall towers", "First mentioned: Year 1095", "Area: Approx. 12,000 m²"],
+    },
+    image: "/poi-images/luxembourg-bourscheid-castle-history-v2.webp",
+},  {
     id: "luxembourg-clervaux-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Clerf", hu: "Clervaux-i vár", ro: "Castelul Clervaux", en: "Clervaux Castle" },
+    name: { de: "Schloss Clerf", hu: "Clervaux-i vár", ro: "Castelul Clervaux", en: "Clervaux Castle",
+image: "/poi-images/luxembourg-clervaux-castle-history-v2.webp"
+},
     coords: [6.0294, 50.0544],
     coordinates: { lat: 50.0544, lng: 6.0294 },
     description: {
@@ -76,11 +123,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Datează din secolul al XII-lea", "Distrus în iarna 1944/45", "Găzduiește expoziția 'The Family of Man'", "Are un tanc Sherman în curte"],
       en: ["Dates back to the 12th century", "Destroyed in winter 1944/45", "Home to 'The Family of Man' exhibit", "Features a Sherman tank in the courtyard"],
     },
-    imageHint: "White Clervaux Castle with a tank in front", image: "/poi-images/luxembourg-clervaux-castle-history-v2.webp"},
-  {
+imageHint: "White Clervaux Castle with a tank in front",
+    descriptionAdvanced: {
+      de: "Das im 12. Jahrhundert gegründete Schloss beherbergt heute die berühmte Fotoausstellung Family of Man und wurde nach der Ardennenoffensive originalgetreu rekonstruiert.",
+      hu: "A 12. századi alapítású kastély ma a híres Family of Man fotókiállításnak ad otthont, az ardenneki offenzíva utáni pusztulást követően építették újjá.",
+      ro: "Fondat în secolul al XII-lea, castelul găzduiește astăzi celebra expoziție Family of Man, fiind reconstruit fidel după distrugerile din cel de-al Doilea Război Mondial.",
+      en: "Founded in the 12th century, the castle now houses the famous Family of Man photo exhibition, having been faithfully reconstructed after the Battle of the Bulge.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 12. Jahrhundert", "Zerstörung: Dezember 1944", "UNESCO-Erbe: Family of Man", "Lage: Ösling-Region"],
+      hu: ["Alapítás: 12. század", "Pusztulás: 1944 decembere", "UNESCO örökség: Family of Man", "Régió: Ösling"],
+      ro: ["Fondare: Secolul al XII-lea", "Distrugere: Decembrie 1944", "Patrimoniu UNESCO: Family of Man", "Locație: Regiunea Ösling"],
+      en: ["Founded: 12th century", "Destruction: December 1944", "UNESCO Heritage: Family of Man", "Region: Ösling"],
+    },
+    image: "/poi-images/luxembourg-clervaux-castle-history-v2.webp",
+},  {
     id: "luxembourg-esch-sur-sure-castle-history-v2",
     type: "ruins",
-    name: { de: "Burg Esch-Sauer", hu: "Esch-sur-Sûre vára", ro: "Castelul Esch-sur-Sûre", en: "Esch-sur-Sûre Castle" },
+    name: { de: "Burg Esch-Sauer", hu: "Esch-sur-Sûre vára", ro: "Castelul Esch-sur-Sûre", en: "Esch-sur-Sûre Castle",
+image: "/poi-images/luxembourg-esch-sur-sure-castle-history-v2.webp"
+},
     coords: [5.9356, 49.9111],
     coordinates: { lat: 49.9111, lng: 5.9356 },
     description: {
@@ -95,11 +157,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fondat în anul 927", "Construit într-o buclă a râului", "Capela gotică s-a păstrat", "Ruină iluminată pe timp de noapte"],
       en: ["Founded in the year 927", "Built in a river meander", "Gothic chapel still preserved", "Illuminated ruin at night"],
     },
-    imageHint: "Ruins of Esch-sur-Sûre Castle on a ridge", image: "/poi-images/luxembourg-esch-sur-sure-castle-history-v2.webp"},
-  {
+imageHint: "Ruins of Esch-sur-Sûre Castle on a ridge",
+    descriptionAdvanced: {
+      de: "Die Ruinen dieser Spornburg aus dem Jahr 927 überragen das malerische Dorf Esch-sur-Sûre und bieten einen Einblick in die frühmittelalterliche Befestigungskunst.",
+      hu: "Ez a 927-ből származó várrom az Ösling-hegység egyik sziklás kiszögellésén fekszik, bepillantást nyújtva a kora középkori erődítési művészetbe.",
+      ro: "Ruinele acestui castel din anul 927 domină satul pitoresc Esch-sur-Sûre, oferind o privire asupra artei fortificațiilor medievale timpurii.",
+      en: "The ruins of this spur castle dating from 927 overlook the picturesque village of Esch-sur-Sûre, offering insight into early medieval fortification art.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 927 n. Chr.", "Erweiterung: 15. Jahrhundert", "Art: Höhenburg auf Schieferfels", "Zustand: Konservierte Ruine"],
+      hu: ["Építés: i.sz. 927", "Bővítés: 15. században", "Típus: Sziklavár palakövön", "Állapot: Megőrzött rom"],
+      ro: ["Construcție: Anul 927 d.Hr.", "Extindere: Secolul al XV-lea", "Tip: Castel de culme pe șist", "Stare: Ruină conservată"],
+      en: ["Built: 927 AD", "Expansion: 15th century", "Type: Hilltop castle on slate", "Status: Conserved ruins"],
+    },
+    image: "/poi-images/luxembourg-esch-sur-sure-castle-history-v2.webp",
+},  {
     id: "luxembourg-larochette-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Larochette", hu: "Larochette vára", ro: "Castelul Larochette", en: "Larochette Castle" },
+    name: { de: "Burg Larochette", hu: "Larochette vára", ro: "Castelul Larochette", en: "Larochette Castle",
+image: "/poi-images/luxembourg-larochette-castle-history-v2.webp"
+},
     coords: [6.2181, 49.7844],
     coordinates: { lat: 49.7844, lng: 6.2181 },
     description: {
@@ -114,11 +191,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în secolul al XI-lea", "Distrus de incendiu în 1565", "Include 'Casa Homburg'", "Situat pe un platou de gresie"],
       en: ["Built in the 11th century", "Destroyed by fire in 1565", "Features the 'Homburg House'", "Located on a sandstone plateau"],
     },
-    imageHint: "Larochette Castle ruins on a cliff", image: "/poi-images/luxembourg-larochette-castle-history-v2.webp"},
-  {
+imageHint: "Larochette Castle ruins on a cliff",
+    descriptionAdvanced: {
+      de: "Hoch auf einem Sandsteinfelsen gelegen, umfasst die Anlage die imposanten Reste des Heringer- und Crehange-Hauses aus dem 11. bis 14. Jahrhundert.",
+      hu: "A homokkősziklán magasodó várkomplexum a 11-14. századi Heringer- és Crehange-házak lenyűgöző maradványait foglalja magában Larochette városa felett.",
+      ro: "Situat pe o stâncă de gresie, complexul cuprinde resturile impunătoare ale caselor Heringer și Crehange din secolele XI-XIV.",
+      en: "Situated high on a sandstone cliff, the complex includes the imposing remains of the Heringer and Crehange houses from the 11th to 14th centuries.",
+    },
+    factsAdvanced: {
+      de: ["Lage: 150 m über dem Ort", "Gründung: 11. Jahrhundert", "Haustypen: Heringer & Crehange", "Brandschaden: Jahr 1565"],
+      hu: ["Elhelyezkedés: 150 m a város felett", "Alapítás: 11. század", "Épületrészek: Heringer és Crehange", "Tűzvész: 1565-ben"],
+      ro: ["Locație: 150 m deasupra localității", "Fondare: Secolul al XI-lea", "Case nobiliare: Heringer și Crehange", "Incendiu: Anul 1565"],
+      en: ["Location: 150 m above the town", "Founded: 11th century", "Houses: Heringer & Crehange", "Fire damage: Year 1565"],
+    },
+    image: "/poi-images/luxembourg-larochette-castle-history-v2.webp",
+},  {
     id: "luxembourg-hollenfels-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Hollenfels", hu: "Hollenfels vára", ro: "Castelul Hollenfels", en: "Hollenfels Castle" },
+    name: { de: "Burg Hollenfels", hu: "Hollenfels vára", ro: "Castelul Hollenfels", en: "Hollenfels Castle",
+image: "/poi-images/luxembourg-hollenfels-castle-history-v2.webp"
+},
     coords: [6.0494, 49.7122],
     coordinates: { lat: 49.7122, lng: 6.0494 },
     description: {
@@ -133,11 +225,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Turnul are 23 de metri înălțime", "Parte din Valea celor Șapte Castele", "Fondat în secolul al XI-lea", "Astăzi este un hostel pentru tineret"],
       en: ["Keep is 23 meters high", "Part of the Valley of Seven Castles", "Founded in the 11th century", "Now used as a youth hostel"],
     },
-    imageHint: "Tall square tower of Hollenfels Castle", image: "/poi-images/luxembourg-hollenfels-castle-history-v2.webp"},
-  {
+imageHint: "Tall square tower of Hollenfels Castle",
+    descriptionAdvanced: {
+      de: "Die im 14. Jahrhundert errichtete Burg im Tal der sieben Schlösser beeindruckt durch ihren massiven, 21 Meter hohen Wohnturm auf einem steilen Felsvorsprung.",
+      hu: "A Hét Vár Völgyében található, 14. századi építésű vár leglátványosabb eleme a 21 méter magas lakótorony, amely egy meredek sziklakiszögellésen áll.",
+      ro: "Castelul din secolul al XIV-lea, situat în Valea celor Șapte Castele, impresionează prin donjonul său masiv de 21 de metri înălțime pe o stâncă abruptă.",
+      en: "Built in the 14th century in the Valley of the Seven Castles, the castle impresses with its massive 21-meter-high keep on a steep rocky outcrop.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 21 Meter", "Gründung: Ca. 1380", "Nutzung: Jugendzentrum", "Region: Mersch / Eischtal"],
+      hu: ["Torony magassága: 21 méter", "Alapítás: Kb. 1380", "Hasznosítás: Ifjúsági központ", "Régió: Mersch / Eisch-völgy"],
+      ro: ["Înălțime turn: 21 metri", "Fondare: Aprox. 1380", "Utilizare: Centru de tineret", "Regiune: Mersch / Valea Eisch"],
+      en: ["Keep height: 21 meters", "Founded: Approx. 1380", "Usage: Youth center", "Region: Mersch / Eisch Valley"],
+    },
+    image: "/poi-images/luxembourg-hollenfels-castle-history-v2.webp",
+},  {
     id: "luxembourg-new-ansembourg-castle-history-v2",
     type: "palace",
-    name: { de: "Großes Schloss Ansemburg", hu: "Új-Ansembourg kastélya", ro: "Castelul Nou din Ansembourg", en: "New Ansembourg Castle" },
+    name: { de: "Großes Schloss Ansemburg", hu: "Új-Ansembourg kastélya", ro: "Castelul Nou din Ansembourg", en: "New Ansembourg Castle",
+image: "/poi-images/luxembourg-new-ansembourg-castle-history-v2.webp"
+},
     coords: [6.0414, 49.6953],
     coordinates: { lat: 49.6953, lng: 6.0414 },
     description: {
@@ -152,11 +259,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit între 1639 și 1647", "Grădini baroce terasate faimoase", "Alee cu statui mitologice", "Proprietatea privată a conților de Ansembourg"],
       en: ["Built between 1639 and 1647", "Famous Baroque terraced gardens", "Alley of mythological statues", "Private property of Counts of Ansembourg"],
     },
-    imageHint: "Gardens of New Ansembourg Castle with statues", image: "/poi-images/luxembourg-new-ansembourg-castle-history-v2.webp"},
-  {
+imageHint: "Gardens of New Ansembourg Castle with statues",
+    descriptionAdvanced: {
+      de: "Das 1639 erbaute Barockschloss ist berühmt für seine prachtvollen Gärten und Skulpturen, die den Wohlstand der luxemburgischen Eisenindustrie widerspiegeln.",
+      hu: "Az 1639-ben épült barokk kastély híres pompás kertjeiről és szobrairól, amelyek a luxemburgi vasipar egykori jólétét tükrözik.",
+      ro: "Castelul baroc construit în 1639 este faimos pentru grădinile și sculpturile sale magnifice, reflectând prosperitatea industriei siderurgice luxemburgheze.",
+      en: "Built in 1639, the Baroque castle is famous for its magnificent gardens and sculptures, reflecting the wealth of the Luxembourg iron industry.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1639", "Stil: Barock", "Besitzer: Familie Marchant", "Garten: 18. Jahrhundert"],
+      hu: ["Építés éve: 1639", "Stílus: Barokk", "Tulajdonos: Marchant család", "Kert: 18. századi"],
+      ro: ["Anul construcției: 1639", "Stil: Baroc", "Proprietar: Familia Marchant", "Grădină: Secolul al XVIII-lea"],
+      en: ["Built: 1639", "Style: Baroque", "Owner: Marchant family", "Garden: 18th century"],
+    },
+    image: "/poi-images/luxembourg-new-ansembourg-castle-history-v2.webp",
+},  {
     id: "luxembourg-wiltz-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Wiltz", hu: "Wiltzi kastély", ro: "Castelul Wiltz", en: "Wiltz Castle" },
+    name: { de: "Schloss Wiltz", hu: "Wiltzi kastély", ro: "Castelul Wiltz", en: "Wiltz Castle",
+image: "/poi-images/luxembourg-wiltz-castle-history-v2.webp"
+},
     coords: [5.9361, 49.9656],
     coordinates: { lat: 49.9656, lng: 5.9361 },
     description: {
@@ -171,11 +293,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Clădire renascentistă din 1631", "Găzduiește muzeul berăritului", "Teatru în aer liber în curte", "Centrul Festivalului Wiltz"],
       en: ["Renaissance building from 1631", "Home to the brewery museum", "Open-air theater in the courtyard", "Center of the Wiltz Festival"],
     },
-    imageHint: "Renaissance facade of Wiltz Castle", image: "/poi-images/luxembourg-wiltz-castle-history-v2.webp"},
-  {
+imageHint: "Renaissance facade of Wiltz Castle",
+    descriptionAdvanced: {
+      de: "Dieses Renaissance-Schloss beherbergt heute das Museum zur Ardennenoffensive und dient im Sommer als Kulisse für das renommierte Wiltz-Festival.",
+      hu: "Ez a reneszánsz kastély ma az ardenneki offenzíva múzeumának ad otthont, nyaranta pedig a neves Wiltzi Fesztivál szabadtéri helyszíneként szolgál.",
+      ro: "Acest castel renascentist găzduiește astăzi Muzeul Ofensivei din Ardeni și servește drept decor pentru renumitul Festival de la Wiltz în timpul verii.",
+      en: "This Renaissance castle now houses the Battle of the Bulge museum and serves as the backdrop for the renowned Wiltz Festival during summer.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung: 1727", "Stil: Renaissance", "Amphitheater: Seit 1953", "Museum: Ardennenoffensive"],
+      hu: ["Befejezés: 1727", "Stílus: Reneszánsz", "Amfiteátrum: 1953 óta", "Múzeum: Ardenneki offenzíva"],
+      ro: ["Finalizare: 1727", "Stil: Renaștere", "Amfiteatru: Din 1953", "Muzeu: Ofensiva din Ardeni"],
+      en: ["Completion: 1727", "Style: Renaissance", "Amphitheater: Since 1953", "Museum: Battle of the Bulge"],
+    },
+    image: "/poi-images/luxembourg-wiltz-castle-history-v2.webp",
+},  {
     id: "luxembourg-patton-memorial-museum-history-v2",
     type: "museum",
-    name: { de: "General Patton Memorial Museum", hu: "Patton Tábornok Emlékmúzeum", ro: "Muzeul Memorial General Patton", en: "General Patton Memorial Museum" },
+    name: { de: "General Patton Memorial Museum", hu: "Patton Tábornok Emlékmúzeum", ro: "Muzeul Memorial General Patton", en: "General Patton Memorial Museum",
+image: "/poi-images/luxembourg-patton-memorial-museum-history-v2.webp"
+},
     coords: [6.1044, 49.8475],
     coordinates: { lat: 49.8475, lng: 6.1044 },
     description: {
@@ -190,11 +327,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Locul eliberării orașului Ettelbruck", "Peste 1.000 de obiecte expuse", "Focus pe generalul George S. Patton", "Colecție vastă de armament"],
       en: ["Site of Ettelbruck's liberation", "Over 1,000 exhibits on display", "Focused on George S. Patton", "Extensive collection of weapons"],
     },
-    imageHint: "Statue of General Patton in Ettelbruck", image: "/poi-images/luxembourg-patton-memorial-museum-history-v2.webp"},
-  {
+imageHint: "Statue of General Patton in Ettelbruck",
+    descriptionAdvanced: {
+      de: "Das Museum in Ettelbrück widmet sich General George S. Patton Jr., dessen 3. US-Armee die Stadt im Dezember 1944 befreite.",
+      hu: "Az ettelbrücki múzeum George S. Patton tábornoknak állít emléket, akinek 3. amerikai hadserege 1944 decemberében felszabadította a várost.",
+      ro: "Muzeul din Ettelbruck este dedicat generalului George S. Patton Jr., a cărui Armată a 3-a americană a eliberat orașul în decembrie 1944.",
+      en: "The museum in Ettelbruck is dedicated to General George S. Patton Jr., whose 3rd US Army liberated the city in December 1944.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1995", "Exponate: Über 1.000 Stücke", "Thema: General Patton", "Ort: Ettelbrück"],
+      hu: ["Megnyitás: 1995", "Kiállított tárgyak: 1000 felett", "Téma: Patton tábornok", "Helyszín: Ettelbrück"],
+      ro: ["Deschidere: 1995", "Exponate: Peste 1.000 piese", "Subiect: Generalul Patton", "Locație: Ettelbruck"],
+      en: ["Opened: 1995", "Exhibits: Over 1,000 items", "Subject: General Patton", "Location: Ettelbruck"],
+    },
+    image: "/poi-images/luxembourg-patton-memorial-museum-history-v2.webp",
+},  {
     id: "luxembourg-military-history-museum-diekirch-history-v2",
     type: "museum",
-    name: { de: "Militärgeschichtliches Museum Diekirch", hu: "Diekirchi Hadtörténeti Múzeum", ro: "Muzeul Național de Istorie Militară", en: "National Museum of Military History" },
+    name: { de: "Militärgeschichtliches Museum Diekirch", hu: "Diekirchi Hadtörténeti Múzeum", ro: "Muzeul Național de Istorie Militară", en: "National Museum of Military History",
+image: "/poi-images/luxembourg-military-history-museum-diekirch-history-v2.webp"
+},
     coords: [6.1558, 49.8694],
     coordinates: { lat: 49.8694, lng: 6.1558 },
     description: {
@@ -209,11 +361,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Focus pe Ofensiva din Ardeni", "Diorame realiste la scară naturală", "Colecție mare de vehicule și tancuri", "Fondat în anul 1984"],
       en: ["Focus on the Battle of the Bulge", "Realistic life-sized dioramas", "Large collection of vehicles and tanks", "Founded in 1984"],
     },
-    imageHint: "World War II dioramas in Diekirch museum", image: "/poi-images/luxembourg-military-history-museum-diekirch-history-v2.webp"},
-  {
+imageHint: "World War II dioramas in Diekirch museum",
+    descriptionAdvanced: {
+      de: "Dieses international anerkannte Museum dokumentiert detailliert die Ardennenoffensive von 1944-1945 anhand von Großdioramen und Originalfahrzeugen.",
+      hu: "Ez a nemzetközileg elismert múzeum részletesen dokumentálja az 1944-1945-ös ardenneki offenzívát óriási diorámák és eredeti járművek segítségével.",
+      ro: "Acest muzeu recunoscut la nivel internațional documentează în detaliu Ofensiva din Ardeni din 1944-1945 prin diorame mari și vehicule originale.",
+      en: "This internationally recognized museum details the 1944-1945 Battle of the Bulge using large-scale dioramas and original military vehicles.",
+    },
+    factsAdvanced: {
+      de: ["Ausstellungsfläche: 3.000 m²", "Gründung: 1984", "Hauptthema: Ardennenoffensive", "Ort: Diekirch"],
+      hu: ["Kiállítótér: 3.000 m²", "Alapítás: 1984", "Fő téma: Ardenneki offenzíva", "Helyszín: Diekirch"],
+      ro: ["Suprafață expoziție: 3.000 m²", "Fondare: 1984", "Subiect principal: Ofensiva din Ardeni", "Locație: Diekirch"],
+      en: ["Exhibition area: 3,000 m²", "Founded: 1984", "Main theme: Battle of the Bulge", "Location: Diekirch"],
+    },
+    image: "/poi-images/luxembourg-military-history-museum-diekirch-history-v2.webp",
+},  {
     id: "luxembourg-american-cemetery-hamm-history-v2",
     type: "monument",
-    name: { de: "Amerikanischer Friedhof Hamm", hu: "Hammi Amerikai Katonai Temető", ro: "Cimitirul American din Hamm", en: "Luxembourg American Cemetery" },
+    name: { de: "Amerikanischer Friedhof Hamm", hu: "Hammi Amerikai Katonai Temető", ro: "Cimitirul American din Hamm", en: "Luxembourg American Cemetery",
+image: "/poi-images/luxembourg-american-cemetery-hamm-history-v2.webp"
+},
     coords: [6.1858, 49.6125],
     coordinates: { lat: 49.6125, lng: 6.1858 },
     description: {
@@ -229,11 +396,25 @@ export const luxembourgHistoryV2: POI[] = [
       en: ["Final resting place of General Patton", "5,076 white marble crosses", "Memorial wall for the missing", "Opened in 1944"],
     },
     imageHint: "White crosses at Luxembourg American Cemetery",
+    descriptionAdvanced: {
+      de: "Auf diesem 50 Hektar großen Areal ruhen 5.076 US-Soldaten, darunter General Patton, die während der Ardennenoffensive ihr Leben ließen.",
+      hu: "Ezen az 50 hektáros területen 5076 amerikai katona nyugszik, köztük Patton tábornok, akik az ardenneki offenzíva idején vesztették életüket.",
+      ro: "Pe acest teren de 50 de hectare se odihnesc 5.076 de soldați americani, inclusiv generalul Patton, care și-au pierdut viața în timpul Ofensivei din Ardeni.",
+      en: "On this 50-hectare site rest 5,076 US soldiers, including General Patton, who gave their lives during the Battle of the Bulge.",
+    },
+    factsAdvanced: {
+      de: ["Gräber: 5.076", "Fläche: 50 Hektar (20 ha Friedhof)", "Weihe: 1960 offiziell", "Besonderheit: Pattons Grab"],
+      hu: ["Sírok száma: 5.076", "Terület: 50 hektár", "Felszentelés: 1960", "Híres sír: Patton tábornok"],
+      ro: ["Morminte: 5.076", "Suprafață: 50 hectare", "Inaugurare oficială: 1960", "Personalitate: Mormântul lui Patton"],
+      en: ["Graves: 5,076", "Area: 50 hectares", "Dedication: 1960 officially", "Special feature: Patton's grave"],
+    },
   },
   {
     id: "luxembourg-german-war-cemetery-sandweiler-history-v2",
     type: "monument",
-    name: { de: "Deutscher Soldatenfriedhof Sandweiler", hu: "Sandweileri Német Katonai Temető", ro: "Cimitirul German din Sandweiler", en: "Sandweiler German War Cemetery" },
+    name: { de: "Deutscher Soldatenfriedhof Sandweiler", hu: "Sandweileri Német Katonai Temető", ro: "Cimitirul German din Sandweiler", en: "Sandweiler German War Cemetery",
+image: "/poi-images/luxembourg-german-war-cemetery-sandweiler-history-v2.webp"
+},
     coords: [6.2106, 49.6122],
     coordinates: { lat: 49.6122, lng: 6.2106 },
     description: {
@@ -248,11 +429,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Peste 10.000 de morminte", "Cruci din granit în loc de marmură", "Primul cimitir german din străinătate", "Inaugurat în anul 1955"],
       en: ["Over 10,000 graves", "Granite crosses instead of marble", "First German cemetery abroad", "Inaugurated in 1955"],
     },
-    imageHint: "Dark granite crosses at Sandweiler Cemetery", image: "/poi-images/luxembourg-german-war-cemetery-sandweiler-history-v2.webp"},
-  {
+imageHint: "Dark granite crosses at Sandweiler Cemetery",
+    descriptionAdvanced: {
+      de: "Der Soldatenfriedhof in Sandweiler beherbergt die Gräber von 10.913 deutschen Soldaten des Zweiten Weltkriegs und ist ein Mahnmal für den Frieden.",
+      hu: "A sandweileri katonai temető 10 913 második világháborús német katona sírjának ad helyet, és a megbékélés fontosságára emlékeztet.",
+      ro: "Cimitirul militar din Sandweiler adăpostește mormintele a 10.913 soldați germani din cel de-al Doilea Război Mondial, fiind un monument pentru pace.",
+      en: "The military cemetery in Sandweiler houses the graves of 10,913 German soldiers from World War II and serves as a memorial for peace.",
+    },
+    factsAdvanced: {
+      de: ["Gräber: 10.913", "Eröffnung: 1955", "Verantwortlich: Volksbund", "Lage: Nahe Luxemburg-Stadt"],
+      hu: ["Sírok száma: 10.913", "Megnyitás: 1955", "Kezelő: Volksbund", "Helyszín: Luxemburg város mellett"],
+      ro: ["Morminte: 10.913", "Deschidere: 1955", "Administrare: Volksbund", "Locație: Lângă orașul Luxemburg"],
+      en: ["Graves: 10,913", "Opened: 1955", "Responsible: Volksbund", "Location: Near Luxembourg City"],
+    },
+    image: "/poi-images/luxembourg-german-war-cemetery-sandweiler-history-v2.webp",
+},  {
     id: "luxembourg-roman-villa-echternach-history-v2",
     type: "ruins",
-    name: { de: "Römervilla Echternach", hu: "Echternachi római villa", ro: "Vila Romană din Echternach", en: "Roman Villa Echternach" },
+    name: { de: "Römervilla Echternach", hu: "Echternachi római villa", ro: "Vila Romană din Echternach", en: "Roman Villa Echternach",
+image: "/poi-images/luxembourg-roman-villa-echternach-history-v2.webp"
+},
     coords: [6.4014, 49.8025],
     coordinates: { lat: 49.8025, lng: 6.4014 },
     description: {
@@ -267,11 +463,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construită în secolul I d.Hr.", "Peste 70 de camere descoperite", "Dispune de băi romane", "Cea mai mare vilă din zona Trier"],
       en: ["Built in the 1st century AD", "Over 70 rooms discovered", "Features Roman baths", "Largest villa in the Trier region"],
     },
-    imageHint: "Foundations of Roman Villa Echternach", image: "/poi-images/luxembourg-roman-villa-echternach-history-v2.webp"},
-  {
+imageHint: "Foundations of Roman Villa Echternach",
+    descriptionAdvanced: {
+      de: "Diese luxuriöse Villa aus dem 1. Jahrhundert n. Chr. war eine der größten römischen Gutshöfe nördlich der Alpen und zeigt heute rekonstruierte Gärten.",
+      hu: "Ez az i.sz. 1. századi luxusvilla az Alpoktól északra fekvő egyik legnagyobb római birtok volt, ma rekonstruált kertekkel várja a látogatókat.",
+      ro: "Această vilă luxoasă din secolul I d.Hr. a fost una dintre cele mai mari proprietăți rurale romane la nord de Alpi, prezentând astăzi grădini reconstruite.",
+      en: "This luxurious 1st-century AD villa was one of the largest Roman rural estates north of the Alps and now features reconstructed Roman gardens.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1. bis 3. Jahrhundert", "Maße: 118 x 66 Meter", "Ausgrabung: Jahr 1975", "Ort: Echternach am See"],
+      hu: ["Építés: 1-3. század", "Méretek: 118 x 66 méter", "Feltárás: 1975-ben", "Helyszín: Echternachi-tó partja"],
+      ro: ["Perioadă: Secolele I-III", "Dimensiuni: 118 x 66 metri", "Excavare: Anul 1975", "Locație: Echternach, lângă lac"],
+      en: ["Period: 1st to 3rd century", "Size: 118 x 66 meters", "Excavation: Year 1975", "Location: Echternach lake"],
+    },
+    image: "/poi-images/luxembourg-roman-villa-echternach-history-v2.webp",
+},  {
     id: "luxembourg-echternach-abbey-history-v2",
     type: "cathedral",
-    name: { de: "Abtei Echternach", hu: "Echternachi apátság", ro: "Abatia Echternach", en: "Echternach Abbey" },
+    name: { de: "Abtei Echternach", hu: "Echternachi apátság", ro: "Abatia Echternach", en: "Echternach Abbey",
+image: "/poi-images/luxembourg-echternach-abbey-history-v2.webp"
+},
     coords: [6.4222, 49.8131],
     coordinates: { lat: 49.8131, lng: 6.4222 },
     description: {
@@ -286,11 +497,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fondată în anul 698", "Locul de înmormântare al Sf. Willibrord", "Centrul procesiunii dansante", "Găzduiește Muzeul Abației"],
       en: ["Founded in the year 698", "Burial place of Saint Willibrord", "Center of the Dancing Procession", "Home to the Abbey Museum"],
     },
-    imageHint: "Echternach Abbey basilica exterior", image: "/poi-images/luxembourg-echternach-abbey-history-v2.webp"},
-  {
+imageHint: "Echternach Abbey basilica exterior",
+    descriptionAdvanced: {
+      de: "Die im Jahr 698 vom Heiligen Willibrord gegründete Benediktinerabtei ist das religiöse Zentrum Luxemburgs und Ursprung der Springprozession.",
+      hu: "A Szent Willibrord által 698-ban alapított bencés apátság Luxemburg vallási központja és a híres UNESCO-listás ugráló körmenet kiindulópontja.",
+      ro: "Fondată în 698 de Sfântul Willibrord, abația benedictină este centrul religios al Luxemburgului și originea celebrei procesiuni dansante.",
+      en: "Founded in 698 by Saint Willibrord, the Benedictine abbey is the religious center of Luxembourg and the origin of the UNESCO dancing procession.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: Jahr 698", "Stifter: Hl. Willibrord", "UNESCO: Springprozession", "Scriptorium: Berühmte Handschriften"],
+      hu: ["Alapítás: 698-ban", "Alapító: Szent Willibrord", "UNESCO: Ugráló körmenet", "Szkriptórium: Híres kódexek"],
+      ro: ["Fondare: Anul 698", "Fondator: Sf. Willibrord", "UNESCO: Procesiunea dansantă", "Scriptorium: Manuscrise celebre"],
+      en: ["Founded: Year 698", "Founder: St. Willibrord", "UNESCO: Dancing procession", "Scriptorium: Famous manuscripts"],
+    },
+    image: "/poi-images/luxembourg-echternach-abbey-history-v2.webp",
+},  {
     id: "luxembourg-fort-thungen-history-v2",
     type: "fortification",
-    name: { de: "Fort Thüngen", hu: "Thüngen-erőd", ro: "Fortul Thüngen", en: "Fort Thüngen" },
+    name: { de: "Fort Thüngen", hu: "Thüngen-erőd", ro: "Fortul Thüngen", en: "Fort Thüngen",
+image: "/poi-images/luxembourg-fort-thungen-history-v2.webp"
+},
     coords: [6.1392, 49.6167],
     coordinates: { lat: 49.6167, lng: 6.1392 },
     description: {
@@ -305,11 +531,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în anul 1732", "Poreclit 'Trei Ghinde'", "Parte a fortăreței Luxemburg", "Găzduiește Muzeul Cetății"],
       en: ["Built in the year 1732", "Nickname 'Three Acorns'", "Part of the Fortress of Luxembourg", "Home to the Fortress Museum"],
     },
-    imageHint: "Three Acorns towers of Fort Thüngen", image: "/poi-images/luxembourg-fort-thungen-history-v2.webp"},
-  {
+imageHint: "Three Acorns towers of Fort Thüngen",
+    descriptionAdvanced: {
+      de: "Dieses 1732 errichtete Festungswerk, bekannt als die Drei Eicheln, beherbergt heute das Museum Dräi Eechelen und illustriert die Militärgeschichte der Stadt.",
+      hu: "Ez az 1732-ben épült erődítmény, közismert nevén a Három Makk, ma a Dräi Eechelen Múzeumnak ad otthont, bemutatva a város katonai múltját.",
+      ro: "Această fortificație construită în 1732, cunoscută sub numele de Cele Trei Ghinde, găzduiește astăzi muzeul Dräi Eechelen și istoria militară locală.",
+      en: "This 1732 fortress, known as the Three Acorns, now houses the Dräi Eechelen Museum and illustrates the military history of the city.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1732", "Spitzname: Dräi Eechelen", "Architekt: Vauban-Einfluss", "Museum: Seit 2012"],
+      hu: ["Építés éve: 1732", "Becenév: Három Makk", "Építész: Vauban hatása", "Múzeum: 2012 óta"],
+      ro: ["Anul construcției: 1732", "Poreclă: Dräi Eechelen", "Arhitect: Influență Vauban", "Muzeu: Din 2012"],
+      en: ["Built: 1732", "Nickname: Three Acorns", "Architect: Vauban influence", "Museum: Since 2012"],
+    },
+    image: "/poi-images/luxembourg-fort-thungen-history-v2.webp",
+},  {
     id: "luxembourg-gelle-fra-monument-history-v2",
     type: "monument",
-    name: { de: "Gëlle Fra", hu: "Gëlle Fra emlékmű", ro: "Monumentul Gëlle Fra", en: "Gëlle Fra (Monument of Remembrance)" },
+    name: { de: "Gëlle Fra", hu: "Gëlle Fra emlékmű", ro: "Monumentul Gëlle Fra", en: "Gëlle Fra (Monument of Remembrance)",
+image: "/poi-images/luxembourg-gelle-fra-monument-history-v2.webp"
+},
     coords: [6.1294, 49.6094],
     coordinates: { lat: 49.6094, lng: 6.1294 },
     description: {
@@ -324,11 +565,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Ridicat în anul 1923", "Înseamnă 'Femeia de Aur'", "Distrus în 1940, restaurat în 1984", "Memorial pentru victimele războiului"],
       en: ["Erected in the year 1923", "Name means 'Golden Lady'", "Destroyed in 1940, restored in 1984", "Memorial for war victims"],
     },
-    imageHint: "Golden Lady statue on a tall obelisk", image: "/poi-images/luxembourg-gelle-fra-monument-history-v2.webp"},
-  {
+imageHint: "Golden Lady statue on a tall obelisk",
+    descriptionAdvanced: {
+      de: "Das Denkmal der Erinnerung auf dem Place de la Constitution wurde 1923 eingeweiht und erinnert an die im Ersten Weltkrieg gefallenen Luxemburger.",
+      hu: "Az Alkotmány téren álló Emlékezés emlékművét 1923-ban avatták fel az első világháborúban elesett luxemburgi önkéntesek tiszteletére.",
+      ro: "Monumentul de pe Place de la Constitution a fost inaugurat în 1923 și îi comemorează pe luxemburghezii căzuți în Primul Război Mondial.",
+      en: "The Monument of Remembrance on Place de la Constitution was inaugurated in 1923 and commemorates Luxembourgers fallen in World War I.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung: 1923", "Bildhauer: Claus Cito", "Höhe: 21 Meter", "Material: Vergoldete Bronze"],
+      hu: ["Felavatás: 1923", "Szobrász: Claus Cito", "Magasság: 21 méter", "Anyag: Aranyozott bronz"],
+      ro: ["Inaugurare: 1923", "Sculptor: Claus Cito", "Înălțime: 21 metri", "Material: Bronz aurit"],
+      en: ["Inauguration: 1923", "Sculptor: Claus Cito", "Height: 21 meters", "Material: Gilded bronze"],
+    },
+    image: "/poi-images/luxembourg-gelle-fra-monument-history-v2.webp",
+},  {
     id: "luxembourg-grand-ducal-palace-history-v2",
     type: "palace",
-    name: { de: "Großherzoglicher Palast", hu: "Nagyhercegi palota", ro: "Palatul Mare Ducal", en: "Grand Ducal Palace" },
+    name: { de: "Großherzoglicher Palast", hu: "Nagyhercegi palota", ro: "Palatul Mare Ducal", en: "Grand Ducal Palace",
+image: "/poi-images/luxembourg-grand-ducal-palace-history-v2.webp"
+},
     coords: [6.1311, 49.6111],
     coordinates: { lat: 49.6111, lng: 6.1311 },
     description: {
@@ -343,11 +599,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Reședința Marelui Duce", "Construit în 1572 ca primărie", "Stil renascentist flamand", "Schimbarea gărzii are loc vara"],
       en: ["Residence of the Grand Duke", "Built starting 1572 as a city hall", "Flemish Renaissance style", "Changing of the guard in summer"],
     },
-    imageHint: "Ornate facade of Grand Ducal Palace", image: "/poi-images/luxembourg-grand-ducal-palace-history-v2.webp"},
-  {
+imageHint: "Ornate facade of Grand Ducal Palace",
+    descriptionAdvanced: {
+      de: "Seit 1890 ist das ehemalige Rathaus die offizielle Residenz des Großherzogs und beeindruckt durch seine flämische Renaissance-Fassade aus dem 16. Jahrhundert.",
+      hu: "Az egykori városháza 1890 óta a nagyherceg hivatalos rezidenciája, 16. századi flamand reneszánsz homlokzata a város egyik legszebb épülete.",
+      ro: "Din 1890, fosta primărie este reședința oficială a Marelui Duce și impresionează prin fațada sa renascentistă flamandă din secolul al XVI-lea.",
+      en: "Since 1890, the former city hall has been the official residence of the Grand Duke, impressing with its 16th-century Flemish Renaissance facade.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut als Rathaus: 1572", "Hofresidenz seit: 1890", "Stil: Flämische Renaissance", "Wachablösung: Regelmäßig"],
+      hu: ["Eredetileg városháza: 1572", "Rezidenciaként: 1890 óta", "Stílus: Flamand reneszánsz", "Őrségváltás: Rendszeresen"],
+      ro: ["Construit ca primărie: 1572", "Reședință ducală din: 1890", "Stil: Renaștere flamandă", "Schimbarea gărzii: Zilnic"],
+      en: ["Built as city hall: 1572", "Royal residence since: 1890", "Style: Flemish Renaissance", "Guard change: Regularly"],
+    },
+    image: "/poi-images/luxembourg-grand-ducal-palace-history-v2.webp",
+},  {
     id: "luxembourg-notre-dame-cathedral-luxembourg-history-v2",
     type: "cathedral",
-    name: { de: "Kathedrale Unserer Lieben Frau", hu: "Luxemburgi Notre-Dame-székesegyház", ro: "Catedrala Notre-Dame", en: "Notre-Dame Cathedral" },
+    name: { de: "Kathedrale Unserer Lieben Frau", hu: "Luxemburgi Notre-Dame-székesegyház", ro: "Catedrala Notre-Dame", en: "Notre-Dame Cathedral",
+image: "/poi-images/luxembourg-notre-dame-cathedral-luxembourg-history-v2.webp"
+},
     coords: [6.1317, 49.6094],
     coordinates: { lat: 49.6094, lng: 6.1317 },
     description: {
@@ -362,11 +633,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construită între 1613-1621", "Locul de veci al Marilor Duci", "Stil gotic târziu și renaștere", "Are trei turnuri distinctive"],
       en: ["Built between 1613-1621", "Burial place of Grand Dukes", "Late Gothic and Renaissance style", "Features three distinct spires"],
     },
-    imageHint: "Towers of Notre-Dame Cathedral Luxembourg", image: "/poi-images/luxembourg-notre-dame-cathedral-luxembourg-history-v2.webp"},
-  {
+imageHint: "Towers of Notre-Dame Cathedral Luxembourg",
+    descriptionAdvanced: {
+      de: "Die im 17. Jahrhundert als Jesuitenkirche erbaute Kathedrale beherbergt die Krypta der großherzoglichen Familie und die Statue der Trösterin der Betrübten.",
+      hu: "A 17. században jezsuita templomnak épült székesegyház a nagyhercegi család kriptájának és a Vigasztaló Szűzanya szobrának ad helyet.",
+      ro: "Construită în secolul al XVII-lea ca biserică iezuită, catedrala găzduiește cripta familiei marelui duce și statuia Consolatoarei celor Aflați în Suferință.",
+      en: "Built in the 17th century as a Jesuit church, the cathedral houses the crypt of the Grand Ducal family and the statue of the Consoler of the Afflicted.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1613 bis 1621", "Erweiterung: 1935-1938", "Stil: Spätgotik & Renaissance", "Besonderheit: Königskrypta"],
+      hu: ["Építés: 1613-1621", "Bővítés: 1935-1938", "Stílus: Késő gótika és reneszánsz", "Helyszín: Nagyhercegi kripta"],
+      ro: ["Construcție: 1613-1621", "Extindere: 1935-1938", "Stil: Gotic târziu și Renaștere", "Atracție: Cripta regală"],
+      en: ["Built: 1613 to 1621", "Expansion: 1935-1938", "Style: Late Gothic & Renaissance", "Feature: Royal crypt"],
+    },
+    image: "/poi-images/luxembourg-notre-dame-cathedral-luxembourg-history-v2.webp",
+},  {
     id: "luxembourg-place-d-armes-luxembourg-history-v2",
     type: "landmark",
-    name: { de: "Place d'Armes", hu: "Place d'Armes", ro: "Place d'Armes", en: "Place d'Armes" },
+    name: { de: "Place d'Armes", hu: "Place d'Armes", ro: "Place d'Armes", en: "Place d'Armes",
+image: "/poi-images/luxembourg-place-d-armes-luxembourg-history-v2.webp"
+},
     coords: [6.1289, 49.6114],
     coordinates: { lat: 49.6114, lng: 6.1289 },
     description: {
@@ -381,11 +667,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Amenajată în anul 1671", "Fost teren de paradă", "Centrul orașului vechi", "Locul unde se află Cercle Cité"],
       en: ["Laid out in the year 1671", "Former parade ground", "Center of the old town", "Location of the Cercle Cité"],
     },
-    imageHint: "Place d'Armes square with cafes and trees", image: "/poi-images/luxembourg-place-d-armes-luxembourg-history-v2.webp"},
-  {
+imageHint: "Place d'Armes square with cafes and trees",
+    descriptionAdvanced: {
+      de: "Dieser zentrale Platz aus dem 17. Jahrhundert war ursprünglich ein Exerzierplatz und ist heute das gesellschaftliche Wohnzimmer der luxemburgischen Hauptstadt.",
+      hu: "Ez a 17. századi központi tér eredetileg gyakorlótér volt, ma pedig a luxemburgi főváros társadalmi életének legfontosabb színtere.",
+      ro: "Această piață centrală din secolul al XVII-lea a fost inițial un loc de exerciții militare și este astăzi inima socială a capitalei luxemburgheze.",
+      en: "This 17th-century central square was originally a parade ground and is now the social living room of the Luxembourg capital.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1671", "Erbauer: Sebastian van Noyen", "Musikpavillon: Seit 1875", "Nutzung: Cafés & Flohmarkt"],
+      hu: ["Kialakítás: 1671", "Építész: Sebastian van Noyen", "Zenepavilon: 1875 óta", "Események: Karácsonyi vásár"],
+      ro: ["Amenajare: 1671", "Constructor: Sebastian van Noyen", "Pavilion muzical: Din 1875", "Funcție: Terase și evenimente"],
+      en: ["Built: 1671", "Architect: Sebastian van Noyen", "Bandstand: Since 1875", "Usage: Cafés & markets"],
+    },
+    image: "/poi-images/luxembourg-place-d-armes-luxembourg-history-v2.webp",
+},  {
     id: "luxembourg-neumunster-abbey-history-v2",
     type: "landmark",
-    name: { de: "Abtei Neumünster", hu: "Neumünster-apátság", ro: "Abatia Neumünster", en: "Neumünster Abbey" },
+    name: { de: "Abtei Neumünster", hu: "Neumünster-apátság", ro: "Abatia Neumünster", en: "Neumünster Abbey",
+image: "/poi-images/luxembourg-neumunster-abbey-history-v2.webp"
+},
     coords: [6.1364, 49.6103],
     coordinates: { lat: 49.6103, lng: 6.1364 },
     description: {
@@ -400,11 +701,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Abație benedictină din 1606", "Fostă închisoare de stat", "Centru cultural din 2004", "Situată în cartierul Grund"],
       en: ["Benedictine abbey from 1606", "Former state prison", "Cultural center since 2004", "Located in the scenic Grund"],
     },
-    imageHint: "Neumünster Abbey buildings by the river", image: "/poi-images/luxembourg-neumunster-abbey-history-v2.webp"},
-  {
+imageHint: "Neumünster Abbey buildings by the river",
+    descriptionAdvanced: {
+      de: "Die im Stadtteil Grund gelegene ehemalige Benediktinerabtei diente lange Zeit als Gefängnis, bevor sie 2004 als internationales Kulturzentrum neu eröffnet wurde.",
+      hu: "A Grund városrészben található egykori bencés apátság hosszú ideig börtönként működött, mielőtt 2004-ben nemzetközi kulturális központtá alakították.",
+      ro: "Fosta abație benedictină din cartierul Grund a servit mult timp ca închisoare înainte de a fi redeschisă în 2004 ca centru cultural internațional.",
+      en: "Located in the Grund district, this former Benedictine abbey served as a prison for a long time before reopening as an international cultural center in 2004.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1606", "Lage: Stadtteil Grund", "Kulturzentrum seit: 2004", "Besonderheit: Robert-Bruch-Saal"],
+      hu: ["Alapítás: 1606", "Helyszín: Grund negyed", "Kulturális központ: 2004-től", "Érdekesség: Egykori börtön"],
+      ro: ["Fondare: 1606", "Locație: Cartierul Grund", "Centru cultural: Din 2004", "Istoric: Fostă închisoare"],
+      en: ["Founded: 1606", "Location: Grund district", "Cultural center since: 2004", "Feature: Former prison"],
+    },
+    image: "/poi-images/luxembourg-neumunster-abbey-history-v2.webp",
+},  {
     id: "luxembourg-schoenfels-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Schönefels", hu: "Schoenfels vára", ro: "Castelul Schoenfels", en: "Schoenfels Castle" },
+    name: { de: "Schloss Schönefels", hu: "Schoenfels vára", ro: "Castelul Schoenfels", en: "Schoenfels Castle",
+image: "/poi-images/luxembourg-schoenfels-castle-history-v2.webp"
+},
     coords: [6.0911, 49.6997],
     coordinates: { lat: 49.6997, lng: 6.0911 },
     description: {
@@ -419,11 +735,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Donjon din secolul al XII-lea", "Parte din Valea celor Șapte Castele", "Are turnulețe de colț distinctive", "Proprietatea statului"],
       en: ["Keep from the 12th century", "Part of the Valley of Seven Castles", "Features distinctive corner turrets", "State-owned property"],
     },
-    imageHint: "Tall square keep of Schoenfels Castle", image: "/poi-images/luxembourg-schoenfels-castle-history-v2.webp"},
-  {
+imageHint: "Tall square keep of Schoenfels Castle",
+    descriptionAdvanced: {
+      de: "Das markanteste Merkmal dieses Schlosses im Eischtal ist der mächtige quadratische Wohnturm aus dem 12. Jahrhundert, der weithin über das Tal ragt.",
+      hu: "Az Eisch-völgyben található kastély legjellegzetesebb vonása a hatalmas, 12. századi négyszögletes lakótorony, amely messziről látható a völgy felett.",
+      ro: "Cea mai distinctivă caracteristică a acestui castel din Valea Eisch este donjonul său pătrat masiv din secolul al XII-lea, care domină valea.",
+      en: "The most striking feature of this castle in the Eisch Valley is its mighty 12th-century square keep, which towers high over the valley.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 21 Meter", "Bauzeit: 12. Jahrhundert", "Dachform: Seit 1840", "Region: Tal der sieben Schlösser"],
+      hu: ["Torony magassága: 21 méter", "Építés: 12. század", "Tető: 1840 óta", "Régió: Hét Vár Völgye"],
+      ro: ["Înălțime turn: 21 metri", "Construcție: Secolul al XII-lea", "Formă acoperiș: Din 1840", "Regiune: Valea celor Șapte Castele"],
+      en: ["Keep height: 21 meters", "Built: 12th century", "Roof shape: Since 1840", "Region: Valley of Seven Castles"],
+    },
+    image: "/poi-images/luxembourg-schoenfels-castle-history-v2.webp",
+},  {
     id: "luxembourg-koerich-castle-history-v2",
     type: "ruins",
-    name: { de: "Burg Koerich", hu: "Koerichi vár", ro: "Castelul Koerich", en: "Koerich Castle" },
+    name: { de: "Burg Koerich", hu: "Koerichi vár", ro: "Castelul Koerich", en: "Koerich Castle",
+image: "/poi-images/luxembourg-koerich-castle-history-v2.webp"
+},
     coords: [5.9511, 49.6492],
     coordinates: { lat: 49.6492, lng: 5.9511 },
     description: {
@@ -438,11 +769,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XII-lea", "Poreclit 'Grevenlass'", "Stil gotic târziu", "Castel situat la câmpie"],
       en: ["Founded in the 12th century", "Nickname 'Grevenlass'", "Late Gothic influence", "Lowland castle layout"],
     },
-    imageHint: "Stone ruins of Koerich Castle in a village", image: "/poi-images/luxembourg-koerich-castle-history-v2.webp"},
-  {
+imageHint: "Stone ruins of Koerich Castle in a village",
+    descriptionAdvanced: {
+      de: "Die Ruine der Grevenschlass in Koerich besticht durch ihre spätgotischen Fenster und den quadratischen Bergfried, die eine einstige Tiefburg repräsentieren.",
+      hu: "A koerichi Grevenschlass várromja késő gótikus ablakaival és négyszögletes öregtornyával a középkori alföldi várak egyik kiváló példája.",
+      ro: "Ruina castelului Grevenschlass din Koerich atrage prin ferestrele sale gotice târzii și donjonul pătrat, reprezentând o fostă cetate de câmpie.",
+      en: "The ruins of the Grevenschlass in Koerich impress with late Gothic windows and a square keep, representing a former lowland fortress.",
+    },
+    factsAdvanced: {
+      de: ["Bauart: Wasserburg / Tiefburg", "Gründung: 12. Jahrhundert", "Besonderheit: Spätgotische Fenster", "Status: Konservierte Ruine"],
+      hu: ["Típus: Vízi vár / Alföldi vár", "Alapítás: 12. század", "Látványosság: Késő gótikus ablakok", "Állapot: Állagmegóvott rom"],
+      ro: ["Tip: Castel de câmpie", "Fondare: Secolul al XII-lea", "Elemente: Ferestre gotice târzii", "Stare: Ruină conservată"],
+      en: ["Type: Lowland castle", "Founded: 12th century", "Feature: Late Gothic windows", "Status: Conserved ruins"],
+    },
+    image: "/poi-images/luxembourg-koerich-castle-history-v2.webp",
+},  {
     id: "luxembourg-useldange-castle-history-v2",
     type: "ruins",
-    name: { de: "Burg Useldingen", hu: "Useldange vára", ro: "Castelul Useldange", en: "Useldange Castle" },
+    name: { de: "Burg Useldingen", hu: "Useldange vára", ro: "Castelul Useldange", en: "Useldange Castle",
+image: "/poi-images/luxembourg-useldange-castle-history-v2.webp"
+},
     coords: [5.9814, 49.7681],
     coordinates: { lat: 49.7681, lng: 5.9814 },
     description: {
@@ -457,11 +803,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în secolul al XII-lea", "Situat deasupra văii Attert", "Are un donjon circular", "Traseu de vizitare accesibil"],
       en: ["Built in the 12th century", "Overlooks the Attert Valley", "Features a round keep", "Handicap-accessible tour path"],
     },
-    imageHint: "Useldange Castle ruins and round tower", image: "/poi-images/luxembourg-useldange-castle-history-v2.webp"},
-  {
+imageHint: "Useldange Castle ruins and round tower",
+    descriptionAdvanced: {
+      de: "Diese mittelalterliche Burgruine bietet einen innovativen pädagogischen Rundgang für Sehbehinderte und beeindruckt mit ihrem restaurierten Rundturm.",
+      hu: "Ez a középkori várrom innovatív tapintható útvonalat kínál látássérültek számára, és lenyűgöző látványt nyújt restaurált körbástyájával.",
+      ro: "Această ruină de castel medieval oferă un traseu pedagogic inovator pentru persoanele cu deficiențe de vedere și impresionează prin turnul său rotund restaurat.",
+      en: "This medieval castle ruin offers an innovative educational trail for the visually impaired and impresses with its restored round tower.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Turms: 25 Meter", "Bauzeit: 12. Jahrhundert", "Trail: Für Sehbehinderte", "UNESCO: Teil des Kulturerbes"],
+      hu: ["Torony magassága: 25 méter", "Építés: 12. század", "Útvonal: Látássérülteknek", "Védettség: Kulturális örökség"],
+      ro: ["Înălțime turn: 25 metri", "Construcție: Secolul al XII-lea", "Traseu: Pentru nevăzători", "Statut: Monument istoric"],
+      en: ["Tower height: 25 meters", "Built: 12th century", "Trail: For visually impaired", "Heritage: Cultural monument"],
+    },
+    image: "/poi-images/luxembourg-useldange-castle-history-v2.webp",
+},  {
     id: "luxembourg-brandenbourg-castle-history-v2",
     type: "ruins",
-    name: { de: "Burg Brandenbourg", hu: "Brandenbourg vára", ro: "Castelul Brandenbourg", en: "Brandenbourg Castle" },
+    name: { de: "Burg Brandenbourg", hu: "Brandenbourg vára", ro: "Castelul Brandenbourg", en: "Brandenbourg Castle",
+image: "/poi-images/luxembourg-brandenbourg-castle-history-v2.webp"
+},
     coords: [6.1389, 49.9122],
     coordinates: { lat: 49.9122, lng: 6.1389 },
     description: {
@@ -476,11 +837,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Distrus în secolul al XVII-lea", "Situat pe o creastă îngustă", "Structură pe patru niveluri"],
       en: ["Built in the 13th century", "Destroyed in the 17th century", "Located on a narrow ridge", "Features four levels"],
     },
-    imageHint: "Brandenbourg Castle ruins on a hilltop", image: "/poi-images/luxembourg-brandenbourg-castle-history-v2.webp"},
-  {
+imageHint: "Brandenbourg Castle ruins on a hilltop",
+    descriptionAdvanced: {
+      de: "Die auf einem isolierten Hügel gelegene Ruine aus dem 10. Jahrhundert gewährt einen faszinierenden Einblick in die feudale Architektur des Öslings.",
+      hu: "Ez a 10. századi, elszigetelt dombon fekvő várrom lenyűgöző betekintést nyújt az Ösling-hegység feudális építészetébe és védelmi rendszerébe.",
+      ro: "Situată pe un deal izolat, ruina din secolul al X-lea oferă o privire fascinantă asupra arhitecturii feudale din regiunea Ösling.",
+      en: "Situated on an isolated hill, the 10th-century ruins provide a fascinating insight into the feudal architecture of the Ösling region.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 10. Jahrhundert", "Lage: Hochplateau", "Zerstörung: 17. Jahrhundert", "Besonderheit: Massive Ringmauer"],
+      hu: ["Alapítás: 10. század", "Helyszín: Magas fennsík", "Pusztulás: 17. század", "Látványosság: Masszív körfalak"],
+      ro: ["Fondare: Secolul al X-lea", "Locație: Platou înalt", "Distrugere: Secolul al XVII-lea", "Element: Zid de incintă masiv"],
+      en: ["Founded: 10th century", "Location: High plateau", "Destruction: 17th century", "Feature: Massive curtain walls"],
+    },
+    image: "/poi-images/luxembourg-brandenbourg-castle-history-v2.webp",
+},  {
     id: "luxembourg-mont-saint-jean-dudelange-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Mont Saint-Jean", hu: "Mont Saint-Jean várrom", ro: "Ruinele Mont Saint-Jean", en: "Mont Saint-Jean Dudelange" },
+    name: { de: "Burgruine Mont Saint-Jean", hu: "Mont Saint-Jean várrom", ro: "Ruinele Mont Saint-Jean", en: "Mont Saint-Jean Dudelange",
+image: "/poi-images/luxembourg-mont-saint-jean-dudelange-history-v2.webp"
+},
     coords: [6.0792, 49.4933],
     coordinates: { lat: 49.4933, lng: 6.0792 },
     description: {
@@ -495,11 +871,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fost refugiu celtic", "Ruinele unui castel medieval", "Tradiția focului de Sf. Ioan", "Situl unor săpături arheologice"],
       en: ["Former Celtic refuge", "Ruins of a medieval castle", "Annual St. John's bonfire tradition", "Site of archaeological excavations"],
     },
-    imageHint: "Archaeological ruins on Mont Saint-Jean", image: "/poi-images/luxembourg-mont-saint-jean-dudelange-history-v2.webp"},
-  {
+imageHint: "Archaeological ruins on Mont Saint-Jean",
+    descriptionAdvanced: {
+      de: "Auf dem Gipfel des Mont Saint-Jean befinden sich die Fundamente einer mittelalterlichen Burg und eine Kapelle, die seit Jahrhunderten Ziel einer Prozession ist.",
+      hu: "A Mont Saint-Jean csúcsán egy középkori vár alapjai és egy kápolna található, amely évszázadok óta hagyományos zarándoklatok célpontja.",
+      ro: "Pe vârful Mont Saint-Jean se află fundațiile unui castel medieval și o capelă care este destinația unei procesiuni de secole.",
+      en: "On the summit of Mont Saint-Jean lie the foundations of a medieval castle and a chapel that has been the destination of a procession for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 405 Meter", "Burgbau: 13. Jahrhundert", "Prozession: Jährlich (Johannes)", "Lage: Dudelange"],
+      hu: ["Magasság: 405 méter", "Várépítés: 13. század", "Körmenet: Évente (Szent János)", "Helyszín: Dudelange"],
+      ro: ["Înălțime: 405 metri", "Castel: Secolul al XIII-lea", "Procesiune: Anuală (Sf. Ioan)", "Locație: Dudelange"],
+      en: ["Height: 405 meters", "Castle: 13th century", "Procession: Annual (St. John)", "Location: Dudelange"],
+    },
+    image: "/poi-images/luxembourg-mont-saint-jean-dudelange-history-v2.webp",
+},  {
     id: "luxembourg-citadel-holy-spirit-history-v2",
     type: "fortification",
-    name: { de: "Heilig-Geist-Zitadelle", hu: "Szentlélek-citadella", ro: "Citadela Sfântul Spirit", en: "Citadel of the Holy Spirit" },
+    name: { de: "Heilig-Geist-Zitadelle", hu: "Szentlélek-citadella", ro: "Citadela Sfântul Spirit", en: "Citadel of the Holy Spirit",
+image: "/poi-images/luxembourg-citadel-holy-spirit-history-v2.webp"
+},
     coords: [6.1331, 49.6086],
     coordinates: { lat: 49.6086, lng: 6.1331 },
     description: {
@@ -514,11 +905,26 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Modernizată de Vauban", "Construită pe locul unei mănăstiri", "Parte a fortăreței Luxemburg", "Punct de observație strategic"],
       en: ["Modernized by Vauban", "Built on monastery grounds", "Part of the Fortress of Luxembourg", "Strategic vantage point"],
     },
-    imageHint: "Bastions of the Citadel of the Holy Spirit", image: "/poi-images/luxembourg-citadel-holy-spirit-history-v2.webp"},
-  {
+imageHint: "Bastions of the Citadel of the Holy Spirit",
+    descriptionAdvanced: {
+      de: "Die von Vauban im 17. Jahrhundert ausgebaute Zitadelle auf dem Plateau du Saint-Esprit bildet heute das administrative Zentrum mit dem Gerichtsviertel.",
+      hu: "A Vauban által a 17. században kibővített Szentlélek-citadella ma a város adminisztratív központja, ahol a modern bírósági negyed is található.",
+      ro: "Citadela de pe Plateau du Saint-Esprit, extinsă de Vauban în secolul al XVII-lea, formează astăzi centrul administrativ cu cartierul judiciar.",
+      en: "The citadel on the Plateau du Saint-Esprit, expanded by Vauban in the 17th century, now forms the administrative center with the judicial quarter.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 17. Jahrhundert", "Ingenieur: Vauban", "Nutzung: Gerichtsviertel", "Lage: Oberstadt"],
+      hu: ["Építés: 17. század", "Mérnök: Vauban", "Használat: Bírósági negyed", "Helyszín: Felsőváros"],
+      ro: ["Perioadă: Secolul al XVII-lea", "Inginer: Vauban", "Funcție: Cartier judiciar", "Locație: Orașul de Sus"],
+      en: ["Built: 17th century", "Engineer: Vauban", "Usage: Judicial quarter", "Location: Upper City"],
+    },
+    image: "/poi-images/luxembourg-citadel-holy-spirit-history-v2.webp",
+},  {
     id: "luxembourg-national-museum-resistance-esch-history-v2",
     type: "museum",
-    name: { de: "Nationalmuseum der Résistance", hu: "Nemzeti Ellenállási Múzeum", ro: "Muzeul Național al Rezistenței", en: "National Museum of the Resistance" },
+    name: { de: "Nationalmuseum der Résistance", hu: "Nemzeti Ellenállási Múzeum", ro: "Muzeul Național al Rezistenței", en: "National Museum of the Resistance",
+image: "/poi-images/luxembourg-national-museum-resistance-esch-history-v2.webp"
+},
     coords: [5.9819, 49.4936],
     coordinates: { lat: 49.4936, lng: 5.9819 },
     description: {
@@ -534,5 +940,17 @@ export const luxembourgHistoryV2: POI[] = [
       en: ["Founded in the year 1956", "Subject: Nazi occupation", "Extensive historical archive", "Located in Esch-sur-Alzette"],
     },
     imageHint: "National Museum of the Resistance facade",
+    descriptionAdvanced: {
+      de: "Das Museum in Esch-sur-Alzette erinnert an die Schicksale der Luxemburger unter der NS-Besatzung und die mutige Streikbewegung von 1942.",
+      hu: "Az Esch-sur-Alzette-ben található múzeum a náci megszállás alatti luxemburgi sorsoknak és az 1942-es bátor sztrájkmozgalomnak állít emléket.",
+      ro: "Muzeul din Esch-sur-Alzette comemorează destinele luxemburghezilor sub ocupația nazistă și mișcarea curajoasă de grevă din 1942.",
+      en: "The museum in Esch-sur-Alzette commemorates the fates of Luxembourgers under Nazi occupation and the courageous strike movement of 1942.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1956", "Besonderheit: Generalstreik 1942", "Thema: NS-Besatzung", "Ort: Esch-sur-Alzette"],
+      hu: ["Alapítás: 1956", "Esemény: 1942-es sztrájk", "Téma: Náci megszállás", "Helyszín: Esch-sur-Alzette"],
+      ro: ["Fondare: 1956", "Eveniment: Greva generală din 1942", "Subiect: Ocupația nazistă", "Locație: Esch-sur-Alzette"],
+      en: ["Founded: 1956", "Highlight: General strike 1942", "Subject: Nazi occupation", "Location: Esch-sur-Alzette"],
+    },
   }
 ];

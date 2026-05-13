@@ -5,7 +5,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-warsaw-royal-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw" },
+    name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw",
+image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"
+},
     coords: [21.0142, 52.2478],
     coordinates: { lat: 52.2478, lng: 21.0142 },
     description: {
@@ -36,7 +38,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-palace-culture-science-landmarks-v2",
     type: "monument",
-    name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science" },
+    name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science",
+image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"
+},
     coords: [21.0061, 52.2317],
     coordinates: { lat: 52.2317, lng: 21.0061 },
     description: {
@@ -67,7 +71,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-mariacka-basilica-krakow-landmarks-v2",
     type: "cathedral",
-    name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica" },
+    name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica",
+image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"
+},
     coords: [19.9392, 50.0617],
     coordinates: { lat: 50.0617, lng: 19.9392 },
     description: {
@@ -98,7 +104,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-gdansk-crane-landmarks-v2",
     type: "landmark",
-    name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk" },
+    name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk",
+image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"
+},
     coords: [18.6575, 54.3512],
     coordinates: { lat: 54.3512, lng: 18.6575 },
     description: {
@@ -129,7 +137,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-wroclaw-centennial-hall-landmarks-v2",
     type: "monument",
-    name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall" },
+    name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall",
+image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"
+},
     coords: [17.0772, 51.1069],
     coordinates: { lat: 51.1069, lng: 17.0772 },
     description: {
@@ -160,7 +170,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-cloth-hall-krakow-landmarks-v2",
     type: "landmark",
-    name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)" },
+    name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)",
+image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"
+},
     coords: [19.9373, 50.0617],
     coordinates: { lat: 50.0617, lng: 19.9373 },
     description: {
@@ -191,7 +203,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-neptune-fountain-gdansk-landmarks-v2",
     type: "monument",
-    name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain" },
+    name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain",
+image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"
+},
     coords: [18.6533, 54.3486],
     coordinates: { lat: 54.3486, lng: 18.6533 },
     description: {
@@ -222,7 +236,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-zamosc-town-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall" },
+    name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall",
+image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"
+},
     coords: [23.2524, 50.7169],
     coordinates: { lat: 50.7169, lng: 23.2524 },
     description: {
@@ -253,7 +269,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-niedzica-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle" },
+    name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle",
+image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"
+},
     coords: [20.3208, 49.4225],
     coordinates: { lat: 49.4225, lng: 20.3208 },
     description: {
@@ -284,7 +302,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-poznan-town-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall" },
+    name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall",
+image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"
+},
     coords: [16.9342, 52.4085],
     coordinates: { lat: 52.4085, lng: 16.9342 },
     description: {
@@ -315,7 +335,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-raclawice-panorama-landmarks-v2",
     type: "museum",
-    name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama" },
+    name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama",
+image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"
+},
     coords: [17.0442, 51.1102],
     coordinates: { lat: 51.1102, lng: 17.0442 },
     description: {
@@ -346,7 +368,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-ogrodzieniec-castle-landmarks-v2",
     type: "ruins",
-    name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle" },
+    name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle",
+image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"
+},
     coords: [19.5517, 50.4533],
     coordinates: { lat: 50.4533, lng: 19.5517 },
     description: {
@@ -377,7 +401,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-czocha-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle" },
+    name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle",
+image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"
+},
     coords: [15.3039, 51.0311],
     coordinates: { lat: 51.0311, lng: 15.3039 },
     description: {
@@ -408,7 +434,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-moszna-castle-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle" },
+    name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle",
+image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"
+},
     coords: [17.7686, 50.4447],
     coordinates: { lat: 50.4447, lng: 17.7686 },
     description: {
@@ -440,7 +468,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-kornik-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle" },
+    name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle",
+image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"
+},
     coords: [17.0911, 52.2444],
     coordinates: { lat: 52.2444, lng: 17.0911 },
     description: {
@@ -471,7 +501,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-gdansk-artus-court-landmarks-v2",
     type: "landmark",
-    name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court" },
+    name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court",
+image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"
+},
     coords: [18.6536, 54.3486],
     coordinates: { lat: 54.3486, lng: 18.6536 },
     description: {
@@ -502,7 +534,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-pieskowa-skala-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle" },
+    name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle",
+image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"
+},
     coords: [19.7806, 50.2444],
     coordinates: { lat: 50.2444, lng: 19.7806 },
     description: {
@@ -533,7 +567,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-lublin-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle" },
+    name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle",
+image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"
+},
     coords: [22.5719, 51.2503],
     coordinates: { lat: 51.2503, lng: 22.5719 },
     description: {
@@ -564,7 +600,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-klodzko-gothic-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko" },
+    name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko",
+image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"
+},
     coords: [16.6547, 50.4389],
     coordinates: { lat: 50.4389, lng: 16.6547 },
     description: {
@@ -595,7 +633,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-vistulamouth-fortress-landmarks-v2",
     type: "landmark",
-    name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress" },
+    name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress",
+image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"
+},
     coords: [18.6797, 54.3947],
     coordinates: { lat: 54.3947, lng: 18.6797 },
     description: {
@@ -626,7 +666,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-warsaw-barbican-landmarks-v2",
     type: "monument",
-    name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican" },
+    name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican",
+image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"
+},
     coords: [21.0103, 52.2503],
     coordinates: { lat: 52.2503, lng: 21.0103 },
     description: {
@@ -657,7 +699,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-szczecin-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin" },
+    name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin",
+image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp"
+},
     coords: [14.5556, 53.4247],
     coordinates: { lat: 53.4247, lng: 14.5556 },
     description: {
@@ -689,7 +733,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-branicki-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace" },
+    name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace",
+image: "/poi-images/poland-branicki-palace-landmarks-v2.webp"
+},
     coords: [23.1651, 53.1302],
     coordinates: { lat: 53.1302, lng: 23.1651 },
     description: {
@@ -709,7 +755,9 @@ export const polandLandmarksV2: POI[] = [
   {
     id: "poland-baranow-sandomierski-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle" },
+    name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle",
+image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"
+},
     coords: [21.5342, 50.4994],
     coordinates: { lat: 50.4994, lng: 21.5342 },
     description: {
@@ -724,11 +772,14 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1591 și 1606", "Proiectat de Santi Gucci", "Curte cu arcade magnifice", "Înconjurat de un parc de 2,5 hectare"],
       en: ["Built between 1591 and 1606", "Designed by Santi Gucci", "Courtyard with magnificent cloisters", "Surrounded by a 2.5-hectare park"],
     },
-    imageHint: "Baranow Sandomierski Castle courtyard cloisters", image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"},
+    imageHint: "Baranow Sandomierski Castle courtyard cloisters",
+    image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"},
   {
     id: "poland-swidnica-church-peace-landmarks-v2",
     type: "church",
-    name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica" },
+    name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica",
+image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"
+},
     coords: [16.4913, 50.8465],
     coordinates: { lat: 50.8465, lng: 16.4913 },
     description: {
@@ -743,11 +794,14 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Finalizată în anul 1657", "Construită fără cuie de metal", "Capacitate de 7500 de persoane", "Patrimoniu UNESCO din 2001"],
       en: ["Completed in the year 1657", "Built without using metal nails", "Accommodates up to 7500 people", "UNESCO World Heritage since 2001"],
     },
-    imageHint: "Church of Peace in Swidnica interior baroque", image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"},
+    imageHint: "Church of Peace in Swidnica interior baroque",
+    image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"},
   {
     id: "poland-lidzbark-warminski-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle" },
+    name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle",
+image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"
+},
     coords: [20.5825, 54.1265],
     coordinates: { lat: 54.1265, lng: 20.5825 },
     description: {
@@ -762,11 +816,14 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1350 și 1401", "Copernic a locuit aici (1503-1510)", "Plan pătrat cu curte interioară", "Fresce gotice în refectoriu"],
       en: ["Built between 1350 and 1401", "Copernicus lived here (1503-1510)", "Square floor plan with courtyard", "14th-century Gothic frescoes"],
     },
-    imageHint: "Lidzbark Warminski Castle gothic brick exterior", image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"},
+    imageHint: "Lidzbark Warminski Castle gothic brick exterior",
+    image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"},
   {
     id: "poland-krasiczyn-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle" },
+    name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle",
+image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"
+},
     coords: [22.6502, 49.7766],
     coordinates: { lat: 49.7766, lng: 22.6502 },
     description: {
@@ -781,11 +838,14 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1580 și 1631", "7000 mp de decorațiuni sgraffito", "Patru turnuri de colț distincte", "Parc vast de 14,5 hectare"],
       en: ["Built between 1580 and 1631", "7000 sqm of sgraffito decoration", "Four distinct corner towers", "14.5-hectare landscape park"],
     },
-    imageHint: "Krasiczyn Castle towers and sgraffito walls", image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"},
+    imageHint: "Krasiczyn Castle towers and sgraffito walls",
+    image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"},
   {
     id: "poland-rogalin-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace" },
+    name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace",
+image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"
+},
     coords: [16.9312, 52.2345],
     coordinates: { lat: 52.2345, lng: 16.9312 },
     description: {
@@ -800,11 +860,14 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1770 și 1776", "Reședința familiei Raczyński", "Aproape 2000 de stejari bătrâni", "Galerie de pictură notabilă"],
       en: ["Built between 1770 and 1776", "Seat of the Raczyński family", "Nearly 2000 ancient oak trees", "Notable painting gallery on site"],
     },
-    imageHint: "Rogalin Palace facade and old oaks", image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"},
+    imageHint: "Rogalin Palace facade and old oaks",
+    image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"},
   {
     id: "poland-solidarity-centre-landmarks-v2",
     type: "museum",
-    name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre" },
+    name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre",
+image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"
+},
     coords: [18.6493, 54.3606],
     coordinates: { lat: 54.3606, lng: 18.6493 },
     description: {
@@ -819,11 +882,14 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Deschis în anul 2014", "Suprafață de 25.000 mp", "Situat lângă Șantierul Naval", "Premiul Muzeul Consiliului Europei"],
       en: ["Opened in the year 2014", "25,000 square meters of space", "Located near the Gdańsk Shipyard", "2016 Council of Europe Museum Prize"],
     },
-    imageHint: "European Solidarity Centre Gdansk building exterior", image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"},
+    imageHint: "European Solidarity Centre Gdansk building exterior",
+    image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"},
   {
     id: "poland-wroclaw-town-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall" },
+    name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall",
+image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp"
+},
     coords: [17.0322, 51.1095],
     coordinates: { lat: 51.1095, lng: 17.0322 },
     description: {

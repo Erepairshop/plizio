@@ -11,8 +11,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Ubangi-Fluss",
       hu: "Ubangi folyó",
       ro: "Râul Ubangi",
-      en: "Ubangi River"
-    },
+      en: "Ubangi River",
+image: "/poi-images/ubangi-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Ubangi este cel mai mare afluent al fluviului Congo, servind ca arteră principală de transport și sursă de apă pentru milioane de oameni de-a lungul cursului său prin Republica Centrafricană. Geografie K7 – Hidrografie.",
       en: "The Ubangi River is the largest tributary of the Congo River and acts as the primary natural border for the Central African Republic in the south. Its extensive drainage basin sustains the country's southern forest ecosystems and provides a vital waterway for transport and local trade. The river is essential to both the ecological diversity and the economic connectivity of the nation. Geography K7 — River systems."
@@ -42,8 +43,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Sangha-Fluss",
       hu: "Sangha folyó",
       ro: "Râul Sangha",
-      en: "Sangha River"
-    },
+      en: "Sangha River",
+image: "/poi-images/sangha-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Sangha traversează regiunea dens împădurită din sud-vest, fiind un ecosistem vital pentru biodiversitatea forestieră și o resursă cheie pentru transportul resurselor forestiere. Geografie K7 – Ecosisteme fluviale.",
       en: "The Sangha River flows through the southwestern part of the Central African Republic, passing through dense tropical rainforests. It is a critical river system that supports unique aquatic wildlife and provides essential transport for the forestry industry in the Sangha-Mbaéré prefecture. The river is a key part of the larger Congo River basin network. Geography K7 — Rainforest rivers."
@@ -73,8 +75,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Chari-Fluss",
       hu: "Chari folyó",
       ro: "Râul Chari",
-      en: "Chari River"
-    },
+      en: "Chari River",
+image: "/poi-images/chari-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Chari curge spre nord, fiind o sursă importantă de apă în regiunile de savană și susținând viața agricolă și piscicolă în zonele traversate de acesta. Geografie K7 – Hidrografie.",
       en: "The Chari River originates in the Central African Republic and flows northward towards Lake Chad. It is the most important river in the northern part of the country, acting as the lifeblood for the savanna ecosystems and local agricultural communities. Its seasonal cycles dictate the rhythm of life for those living along its banks in the northern regions. Geography K7 — Northern water systems."
@@ -104,8 +107,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Mbomou-Fluss",
       hu: "Mbomou folyó",
       ro: "Râul Mbomou",
-      en: "Mbomou River"
-    },
+      en: "Mbomou River",
+image: "/poi-images/mbomou-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Mbomou delimitează granița naturală a țării în est, fiind un ecosistem bogat și o resursă esențială pentru comunitățile riverane care depind de pescuit și agricultură. Geografie K7 – Geografie politică și fizică.",
       en: "The Mbomou River is a key watercourse in the southeastern part of the Central African Republic, forming a significant portion of the border with the Democratic Republic of the Congo. It flows through forest and transitional woodland zones, acting as an important habitat for aquatic wildlife and a transport route for regional communities. Geography K7 — Border rivers."
@@ -135,8 +139,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Lobaye-Fluss",
       hu: "Lobaye folyó",
       ro: "Râul Lobaye",
-      en: "Lobaye River"
-    },
+      en: "Lobaye River",
+image: "/poi-images/lobaye-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Lobaye traversează pădurile tropicale din sud-vest, fiind un element vital în gestionarea resurselor naturale și susținerea stilului de viață al populațiilor forestiere. Geografie K7 – Ecosisteme.",
       en: "The Lobaye River is a major tributary in the south, known for the lush, rain-abundant forest basin it drains. This area is highly biodiverse and rich in natural resources. The river system supports local agriculture, such as coffee and tropical crop farming, and remains a central ecological feature for the southern prefectures. Geography K7 — Forest river basins."
@@ -166,8 +171,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Ouham-Fluss",
       hu: "Ouham folyó",
       ro: "Râul Ouham",
-      en: "Ouham River"
-    },
+      en: "Ouham River",
+image: "/poi-images/ouham-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Ouham este esențial pentru agricultură în centrul și nordul țării, susținând producția de bumbac și cereale prin sistemele sale de irigație naturale și sursele de apă. Geografie K7 – Irigații și agricultură.",
       en: "The Ouham River is a primary water source in the central and northern parts of the Central African Republic. It drains into the Chari river system and is crucial for supporting agricultural communities in the fertile northern plains. Its seasonal flow is a fundamental component of the environmental stability and economic production of the Ouham prefecture. Geography K7 — Fertile river systems."
@@ -197,8 +203,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Kotto-Fluss",
       hu: "Kotto folyó",
       ro: "Râul Kotto",
-      en: "Kotto River"
-    },
+      en: "Kotto River",
+image: "/poi-images/kotto-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Kotto traversează estul țării, fiind un punct vital pentru comunitățile care depind de pescuit și resursele acvatice din această regiune izolată. Geografie K7 – Resurse acvatice.",
       en: "The Kotto River flows through the eastern part of the country, draining the central plateau into the Ubangi system. It is characteristic of the eastern geography, with fluctuating water levels and diverse riparian habitats. The river basin supports both local communities and the unique wildlife populations of the remote eastern prefectures. Geography K7 — Eastern river networks."
@@ -228,8 +235,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Mambéré-Fluss",
       hu: "Mambéré folyó",
       ro: "Râul Mambéré",
-      en: "Mambéré River"
-    },
+      en: "Mambéré River",
+image: "/poi-images/mambere-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Mambéré este situat în zona minieră a sud-vestului, având un rol în spălarea minereurilor și susținerea activităților de extracție, fiind în același timp o resursă de apă importantă. Geografie K7 – Resurse miniere.",
       en: "The Mambéré River is a major watercourse in the western Central African Republic, known for its association with the diamond and gold mining regions. It flows through hilly terrain, shaping the landscape and providing a primary source of water for both mining operations and surrounding forest-based communities. Geography K7 — River systems and minerals."
@@ -259,8 +267,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Kadeï-Fluss",
       hu: "Kadeï folyó",
       ro: "Râul Kadeï",
-      en: "Kadeï River"
-    },
+      en: "Kadeï River",
+image: "/poi-images/kadei-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Kadéï, alături de Mambéré, contribuie la rețeaua hidrografică din sud-vest, având un rol semnificativ în susținerea biodiversității și a resurselor locale. Geografie K7 – Hidrografie.",
       en: "The Kadéï River is another significant waterway in the west, critical for the forestry and agricultural potential of the region. It contributes to the wider Congo basin and is characterized by a high degree of ecological integrity, supporting vast areas of tropical rainforest. The river's basin is central to the livelihood of western forest-dwellers. Geography K7 — Western forest rivers."
@@ -290,8 +299,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Ouaka-Fluss",
       hu: "Ouaka folyó",
       ro: "Râul Ouaka",
-      en: "Ouaka River"
-    },
+      en: "Ouaka River",
+image: "/poi-images/ouaka-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Ouaka este un pilon al vieții în prefectura cu același nume, susținând activitățile agricole și oferind apă potabilă comunităților din jurul orașului Bambari. Geografie K7 – Resurse locale.",
       en: "The Ouaka River runs through the heart of the central region, passing near the city of Bambari. It is a vital artery for the central plains, providing water for agricultural processing and the needs of regional populations. Its ecological importance is linked to the agricultural productivity of the Ouaka prefecture and its tributaries. Geography K7 — Central plains hydrology."
@@ -321,8 +331,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Bamingui-Fluss",
       hu: "Bamingui folyó",
       ro: "Râul Bamingui",
-      en: "Bamingui River"
-    },
+      en: "Bamingui River",
+image: "/poi-images/bamingui-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Bamingui curge prin parcul național cu același nume, fiind vital pentru fauna sălbatică și menținerea ecosistemelor de savană din regiune. Geografie K7 – Arii protejate."
     },
@@ -350,8 +361,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Bangoran-Fluss",
       hu: "Bangoran folyó",
       ro: "Râul Bangoran",
-      en: "Bangoran River"
-    },
+      en: "Bangoran River",
+image: "/poi-images/bangoran-river-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Râul Bangoran, un afluent important în nord, contribuie la rețeaua hidrografică care menține umiditatea necesară vegetației și faunei în perioadele de secetă. Geografie K7 – Hidrografie."
     },
@@ -379,8 +391,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Mont Ngaoui",
       hu: "Ngaoui-hegy",
       ro: "Muntele Ngaoui",
-      en: "Mount Ngaoui"
-    },
+      en: "Mount Ngaoui",
+image: "/poi-images/mount-ngaoui-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Muntele Ngaoui este cel mai înalt punct din Republica Centrafricană, oferind un peisaj montan spectaculos și un microclimat unic care susține specii de plante specifice. Geografie K7 – Relief și altitudine."
     },
@@ -408,8 +421,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Mont Toussoro",
       hu: "Toussoro-hegy",
       ro: "Muntele Toussoro",
-      en: "Mount Toussoro"
-    },
+      en: "Mount Toussoro",
+image: "/poi-images/mount-toussoro-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Muntele Toussoro face parte din reliefurile montane din estul țării, contribuind la diversitatea geologică și oferind habitate pentru specii endemice de faună și floră. Geografie K7 – Geologie și relief."
     },
@@ -437,8 +451,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Mont Kayang",
       hu: "Kayang-hegy",
       ro: "Muntele Kayang",
-      en: "Mount Kayang"
-    },
+      en: "Mount Kayang",
+image: "/poi-images/mount-kayang-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Muntele Kayang reprezintă un element de relief important în regiunile centrale, oferind puncte de observare și un ecosistem montan care diferă de savanele adiacente. Geografie K7 – Relieful."
     },
@@ -467,8 +482,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Mont Ngaya",
       hu: "Ngaya-hegy",
       ro: "Muntele Ngaya",
-      en: "Mount Ngaya"
-    },
+      en: "Mount Ngaya",
+image: "/poi-images/mount-ngaya-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Muntele Ngaya contribuie la diversitatea geografică a Republicii Centrafricane, fiind o zonă cu importanță pentru ecoturismul montan și explorarea peisajelor naturale locale. Geografie K7 – Ecoturism."
     },
@@ -496,8 +512,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Bongo-Massiv",
       hu: "Bongo-masszívum",
       ro: "Masivul Bongo",
-      en: "Bongo Massif"
-    },
+      en: "Bongo Massif",
+image: "/poi-images/bongo-massif-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Masivul Bongo ocupă o zonă vastă în nord-est, fiind o regiune montană cu o geologie complexă care influențează drenajul hidrografic și climatul local. Geografie K7 – Geologie și climat."
     },
@@ -525,8 +542,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Yadé-Massiv",
       hu: "Yadé-masszívum",
       ro: "Masivul Yadé",
-      en: "Yadé Massif"
-    },
+      en: "Yadé Massif",
+image: "/poi-images/yade-massif-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Masivul Yadé reprezintă un relief montan important în vestul țării, cu o influență directă asupra regimului de precipitații și a calității solurilor din zonele limitrofe. Geografie K7 – Relief și precipitații."
     },
@@ -555,8 +573,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Dzanga-Sangha-Regenwald",
       hu: "Dzanga-Sangha esőerdő",
       ro: "Pădurea tropicală Dzanga-Sangha",
-      en: "Dzanga-Sangha Rainforest"
-    },
+      en: "Dzanga-Sangha Rainforest",
+image: "/poi-images/dzanga-sangha-forest-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Pădurea Dzanga-Sangha este una dintre cele mai importante rezervații de pădure tropicală, recunoscută la nivel mondial pentru biodiversitatea sa incredibilă și speciile protejate. Geografie K7 – Arii protejate."
     },
@@ -584,8 +603,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Chinko-Wald",
       hu: "Chinko-erdő",
       ro: "Pădurea Chinko",
-      en: "Chinko Forest"
-    },
+      en: "Chinko Forest",
+image: "/poi-images/chinko-forest-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Pădurea Chinko este o zonă de conservare majoră în estul țării, care protejează ecosisteme complexe și specii rare, contribuind la echilibrul natural al regiunii. Geografie K7 – arii protejate."
     },
@@ -613,8 +633,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Zemongo-Wald",
       hu: "Zemongo-erdő",
       ro: "Pădurea Zemongo",
-      en: "Zemongo Forest"
-    },
+      en: "Zemongo Forest",
+image: "/poi-images/zemongo-forest-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Zona forestieră Zemongo este o componentă vitală a patrimoniului natural, oferind un habitat sigur pentru fauna sălbatică și susținând ciclurile biologice în regiunea estică. Geografie K7 – Arii naturale."
     },
@@ -642,8 +663,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Goumba-See",
       hu: "Goumba-tó",
       ro: "Lacul Goumba",
-      en: "Lake Goumba"
-    },
+      en: "Lake Goumba",
+image: "/poi-images/lake-goumba-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Lacul Goumba este un corp de apă important în regiunile centrale, servind ca resursă de apă pentru agricultură și ca habitat pentru diverse specii de păsări migratoare. Geografie K7 – Ecosisteme acvatice."
     },
@@ -671,8 +693,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Maméré-See",
       hu: "Maméré-tó",
       ro: "Lacul Maméré",
-      en: "Lake Mamere"
-    },
+      en: "Lake Mamere",
+image: "/poi-images/lake-mamere-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Lacul Mamere este o zonă umedă esențială pentru echilibrul ecosistemului local, oferind refugiu faunei și resurse de apă pentru comunitățile din apropiere. Geografie K7 – Zone umede."
     },
@@ -700,8 +723,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Matoumbou-Hügel",
       hu: "Matoumbou-dombok",
       ro: "Dealurile Matoumbou",
-      en: "Matoumbou Hills"
-    },
+      en: "Matoumbou Hills",
+image: "/poi-images/matoumbou-hills-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Dealurile Matoumbou sunt o formă de relief locală care contribuie la peisajul variat al regiunii, oferind habitate pentru specii de plante și animale specifice mediilor deluroase. Geografie K7 – Relief și biodiversitate."
     },
@@ -729,8 +753,9 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       de: "Fertit-Berge",
       hu: "Fertit-hegység",
       ro: "Munții Fertit",
-      en: "Fertit Mountains"
-    },
+      en: "Fertit Mountains",
+image: "/poi-images/fertit-mountains-nature-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Munții Fertit, în nord-est, sunt formațiuni geologice care influențează climatul local și adăpostesc ecosisteme montane deosebite, fiind o resursă naturală importantă. Geografie K7 – Relief montan."
     },

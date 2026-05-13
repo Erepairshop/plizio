@@ -6,7 +6,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-DU",
     coords: [55.2997, 25.2635],
-    name: { de: "Al-Fahidi-Fort", hu: "Al Fahidi Erőd", ro: "Fortul Al Fahidi", en: "Al Fahidi Fort" },
+    name: { de: "Al-Fahidi-Fort", hu: "Al Fahidi Erőd", ro: "Fortul Al Fahidi", en: "Al Fahidi Fort",
+image: "/poi-images/al-fahidi-fort-history-v2.webp"
+},
     description: { de: "Das älteste bestehende Gebäude in Dubai diente einst als Verteidigungsanlage, Palast und Gefängnis.", hu: "Dubaj legrégebbi fennmaradt épülete egykor védelmi célokat szolgált, de volt palota és börtön is.", ro: "Cea mai veche clădire existentă din Dubai a servit cândva ca structură de apărare, palat și închisoare.", en: "The oldest existing building in Dubai once served as a defense structure, palace, and prison." },
     facts: {
       de: ["Erbaut im späten 18. Jahrhundert.", "Beherbergt heute das Dubai Museum."],
@@ -19,7 +21,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "historical-site",
     parent: "AE-DU",
     coords: [55.2965, 25.2690],
-    name: { de: "Al-Ahmadiya-Schule", hu: "Al-Ahmadiya Iskola", ro: "Școala Al-Ahmadiya", en: "Al Ahmadiya School" },
+    name: { de: "Al-Ahmadiya-Schule", hu: "Al-Ahmadiya Iskola", ro: "Școala Al-Ahmadiya", en: "Al Ahmadiya School",
+image: "/poi-images/al-ahmadiya-school-history-v2.webp"
+},
     description: { de: "Die erste reguläre Bildungseinrichtung in Dubai, die einen großen Beitrag zur Entwicklung der lokalen Gesellschaft leistete.", hu: "Az első rendszeres oktatási intézmény Dubajban, amely nagyban hozzájárult a helyi társadalom fejlődéséhez.", ro: "Prima instituție de învățământ obișnuită din Dubai, care a contribuit major la dezvoltarea societății locale.", en: "The first regular educational institution in Dubai, which made a major contribution to the development of the local society." },
     facts: {
       de: ["Wurde 1912 gegründet.", "Diente bis 1958 als aktive Schule."],
@@ -32,7 +36,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "ruin",
     parent: "AE-RK",
     coords: [55.7958, 25.7088],
-    name: { de: "Geisterstadt Jazirat Al Hamra", hu: "Jazirat Al Hamra Szellemváros", ro: "Orașul Fantomă Jazirat Al Hamra", en: "Jazirat Al Hamra Ghost Town" },
+    name: { de: "Geisterstadt Jazirat Al Hamra", hu: "Jazirat Al Hamra Szellemváros", ro: "Orașul Fantomă Jazirat Al Hamra", en: "Jazirat Al Hamra Ghost Town",
+image: "/poi-images/jazirat-al-hamra-ghost-town-history-v2.webp"
+},
     description: { de: "Ein komplett verlassenes Dorf, das authentische Einblicke in das traditionelle Leben vor dem Ölboom bietet.", hu: "Egy teljesen elhagyatott falu, amely hiteles betekintést enged az olajkorszak előtti hagyományos életbe.", ro: "Un sat complet abandonat care oferă o privire autentică asupra vieții tradiționale dinainte de boom-ul petrolier.", en: "A completely abandoned village offering an authentic glimpse into traditional life before the oil boom." },
     facts: {
       de: ["Wurde in den 1960er Jahren verlassen.", "Viele Gebäude bestehen aus Korallenstein."],
@@ -45,7 +51,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7202, 24.3644],
-    name: { de: "Archäologische Stätte Bidaa Bint Saud", hu: "Bidaa Bint Saud Régészeti Lelőhely", ro: "Situl Arheologic Bidaa Bint Saud", en: "Bidaa Bint Saud Archaeological Site" },
+    name: { de: "Archäologische Stätte Bidaa Bint Saud", hu: "Bidaa Bint Saud Régészeti Lelőhely", ro: "Situl Arheologic Bidaa Bint Saud", en: "Bidaa Bint Saud Archaeological Site",
+image: "/poi-images/bidaa-bint-saud-history-v2.webp"
+},
     description: { de: "Eine bedeutende Stätte mit Grabmälern aus der Bronzezeit und Überresten von Bewässerungssystemen aus der Eisenzeit.", hu: "Jelentős lelőhely bronzkori sírokkal és vaskori öntözőrendszerek maradványaival.", ro: "Un sit important cu morminte din Epoca Bronzului și rămășițe ale sistemelor de irigații din Epoca Fierului.", en: "An important site featuring Bronze Age tombs and remains of Iron Age irrigation systems." },
     facts: {
       de: ["Liegt etwa 25 Kilometer von Al Ain entfernt.", "Dort gefundene Töpferwaren sind sehr charakteristisch."],
@@ -58,7 +66,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "ruin",
     parent: "AE-SH",
     coords: [55.7972, 25.0113],
-    name: { de: "Archäologische Stätte Jebel Buhais", hu: "Jebel Buhais Régészeti Lelőhely", ro: "Situl Arheologic Jebel Buhais", en: "Jebel Buhais Archaeological Site" },
+    name: { de: "Archäologische Stätte Jebel Buhais", hu: "Jebel Buhais Régészeti Lelőhely", ro: "Situl Arheologic Jebel Buhais", en: "Jebel Buhais Archaeological Site",
+image: "/poi-images/jebel-buhais-history-v2.webp"
+},
     description: { de: "Diese Stätte offenbart faszinierende Grabstätten und Skelettfunde, die bis in die Steinzeit zurückreichen.", hu: "Ez a lelőhely lenyűgöző sírokat és csontvázleleteket tár fel, amelyek egészen a kőkorszakig nyúlnak vissza.", ro: "Acest sit dezvăluie morminte fascinante și schelete care datează încă din Epoca de Piatră.", en: "This site reveals fascinating burial grounds and skeletal finds dating back to the Stone Age." },
     facts: {
       de: ["Befindet sich im Landesinneren von Sharjah.", "Es wurden hunderte menschliche Überreste entdeckt."],
@@ -72,7 +82,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-FU",
     coords: [56.3333, 25.1555],
-    name: { de: "Festung Sakamkam", hu: "Sakamkam Erőd", ro: "Fortul Sakamkam", en: "Sakamkam Fort" },
+    name: { de: "Festung Sakamkam", hu: "Sakamkam Erőd", ro: "Fortul Sakamkam", en: "Sakamkam Fort",
+image: "/poi-images/sakamkam-fort-history-v2.webp"
+},
     description: { de: "Ein kleiner, aber historisch wichtiger runder Wachturm, der einst die Umgebung von Fujairah überblickte.", hu: "Egy kicsi, de történelmileg fontos kerek őrtorony, amely egykor a fudzsejrai vidéket pásztázta.", ro: "Un turn de veghe rotund, mic dar important din punct de vedere istoric, care supraveghea odată împrejurimile orașului Fujairah.", en: "A small but historically important round watchtower that once overlooked the surroundings of Fujairah." },
     facts: {
       de: ["Restauriert im Jahr 2001.", "Der Turm hat eine charakteristische kreisrunde Form."],
@@ -85,7 +97,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-FU",
     coords: [56.2995, 24.8465],
-    name: { de: "Festung Awhlah", hu: "Awhlah Erőd", ro: "Fortul Awhlah", en: "Awhlah Fort" },
+    name: { de: "Festung Awhlah", hu: "Awhlah Erőd", ro: "Fortul Awhlah", en: "Awhlah Fort",
+image: "/poi-images/awhlah-fort-history-v2.webp"
+},
     description: { de: "Eine abgelegene Bergfestung mit einem massiven Rundturm, die eine strategische Bergroute nahe der omanischen Grenze schützte.", hu: "Egy távoli hegyi erőd masszív kör alakú toronnyal, amely egy stratégiai hegyi utat védett az ománi határ közelében.", ro: "Un fort montan izolat cu un turn rotund masiv, care proteja o rută montană strategică lângă granița cu Oman.", en: "A remote mountain fort with a massive round tower that protected a strategic mountain route near the Omani border." },
     facts: {
       de: ["Es hat dicke Mauern aus behauenen Steinen.", "Liegt in einer schwer zugänglichen Berglandschaft."],
@@ -98,7 +112,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "historical-site",
     parent: "AE-AZ",
     coords: [54.4988, 24.4428],
-    name: { de: "Umm an-Nar Archäologische Stätte", hu: "Umm an-Nar Régészeti Lelőhely", ro: "Situl Arheologic Umm an-Nar", en: "Umm an-Nar Archaeological Site" },
+    name: { de: "Umm an-Nar Archäologische Stätte", hu: "Umm an-Nar Régészeti Lelőhely", ro: "Situl Arheologic Umm an-Nar", en: "Umm an-Nar Archaeological Site",
+image: "/poi-images/umm-an-nar-site-history-v2.webp"
+},
     description: { de: "Eine kleine Insel in der Nähe von Abu Dhabi, auf der außergewöhnliche kreisförmige Grabbauten einer alten Kultur entdeckt wurden.", hu: "Egy kis sziget Abu-Dzabi közelében, ahol egy ősi kultúra kivételes, kör alakú sírépítményeit fedezték fel.", ro: "O mică insulă lângă Abu Dhabi unde au fost descoperite structuri funerare circulare excepționale ale unei culturi antice.", en: "A small island near Abu Dhabi where exceptional circular tomb structures of an ancient culture were discovered." },
     facts: {
       de: ["Namensgeber für die Umm-an-Nar-Kultur (2600-2000 v. Chr.).", "Berühmt für die fein gearbeiteten Steinblöcke der Gräber."],
@@ -112,7 +128,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "historical-site",
     parent: "AE-AZ",
     coords: [52.3175, 24.4844],
-    name: { de: "Altes Perlenzentrum Dalma", hu: "Dalma Ősi Gyöngyhalászati Központ", ro: "Vechiul Centru de Perle Dalma", en: "Dalma Old Pearl Diving Center" },
+    name: { de: "Altes Perlenzentrum Dalma", hu: "Dalma Ősi Gyöngyhalászati Központ", ro: "Vechiul Centru de Perle Dalma", en: "Dalma Old Pearl Diving Center",
+image: "/poi-images/dalma-pearl-center-history-v2.webp"
+},
     description: { de: "Auf der Insel Dalma zeugen alte Gebäude von der Zeit, als dieser Ort ein florierender Knotenpunkt für den Perlenhandel war.", hu: "Dalma szigetén régi épületek tanúskodnak arról az időről, amikor ez a hely a gyöngykereskedelem virágzó központja volt.", ro: "Pe insula Dalma, clădiri vechi stau mărturie a perioadei în care acest loc era un centru prosper pentru comerțul cu perle.", en: "On Dalma Island, old buildings bear witness to the time when this place was a thriving hub for the pearl trade." },
     facts: {
       de: ["Es gibt hier prähistorische Spuren von Dattelempfang.", "Beherbergte einst Tausende von Perlenfischern in der Saison."],
@@ -125,7 +143,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-DU",
     coords: [55.2922, 25.2668],
-    name: { de: "Haus von Scheich Saeed Al Maktoum", hu: "Saeed Al Maktoum Sejk Háza", ro: "Casa Șeicului Saeed Al Maktoum", en: "Sheikh Saeed Al Maktoum House" },
+    name: { de: "Haus von Scheich Saeed Al Maktoum", hu: "Saeed Al Maktoum Sejk Háza", ro: "Casa Șeicului Saeed Al Maktoum", en: "Sheikh Saeed Al Maktoum House",
+image: "/poi-images/sheikh-saeed-house-history-v2.webp"
+},
     description: { de: "Die historische Residenz des ehemaligen Herrschers von Dubai bietet heute als Museum Einblicke in die glanzvolle Vergangenheit.", hu: "Dubaj egykori uralkodójának történelmi rezidenciája ma múzeumként nyújt betekintést a dicső múltba.", ro: "Reședința istorică a fostului conducător al Dubaiului oferă astăzi, ca muzeu, perspective asupra trecutului glorios.", en: "The historical residence of the former ruler of Dubai now serves as a museum offering insights into its glorious past." },
     facts: {
       de: ["Erbaut im Jahr 1896.", "Das Haus liegt strategisch an der Mündung des Dubai Creek."],
@@ -138,7 +158,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-SH",
     coords: [56.2691, 25.6171],
-    name: { de: "Festung Dibba Al-Hisn", hu: "Dibba Al-Hisn Erőd", ro: "Fortul Dibba Al-Hisn", en: "Dibba Al-Hisn Fort" },
+    name: { de: "Festung Dibba Al-Hisn", hu: "Dibba Al-Hisn Erőd", ro: "Fortul Dibba Al-Hisn", en: "Dibba Al-Hisn Fort",
+image: "/poi-images/dibba-al-hisn-fort-history-v2.webp"
+},
     description: { de: "Eine alte Küstenfestung, die Teil eines großen Netzwerks von Verteidigungsanlagen an der Ostküste der arabischen Halbinsel war.", hu: "Egy ősi tengerparti erőd, amely az Arab-félsziget keleti partján lévő hatalmas védelmi hálózat része volt.", ro: "Un vechi fort de coastă, care făcea parte dintr-o vastă rețea de apărare pe coasta de est a Peninsulei Arabice.", en: "An ancient coastal fort that was part of a large network of defense structures on the east coast of the Arabian Peninsula." },
     facts: {
       de: ["Die Grundmauer stammt möglicherweise aus dem 16. Jahrhundert.", "Sie überblickte die wichtige Bucht von Dibba."],
@@ -151,7 +173,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-AJ",
     coords: [56.0234, 24.8197],
-    name: { de: "Festung Masfut", hu: "Masfut Erőd", ro: "Fortul Masfut", en: "Masfut Fort" },
+    name: { de: "Festung Masfut", hu: "Masfut Erőd", ro: "Fortul Masfut", en: "Masfut Fort",
+image: "/poi-images/masfut-fort-history-v2.webp"
+},
     description: { de: "Ein runder steinerner Wachturm auf einem Hügel, der zur Verteidigung der landwirtschaftlichen Exklave von Ajman errichtet wurde.", hu: "Egy kerek kő őrtorony egy dombon, amelyet Adzsmán mezőgazdasági exklávéjának védelmére emeltek.", ro: "Un turn de veghe rotund din piatră pe un deal, construit pentru a apăra exclava agricolă a Ajmanului.", en: "A round stone watchtower on a hill, built to defend the agricultural exclave of Ajman." },
     facts: {
       de: ["Gebaut im 19. Jahrhundert.", "Besteht aus lokalem Gestein und Lehm."],
@@ -164,7 +188,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-AJ",
     coords: [55.4480, 25.4116],
-    name: { de: "Festung Ajman", hu: "Adzsmán Erőd", ro: "Fortul Ajman", en: "Ajman Fort" },
+    name: { de: "Festung Ajman", hu: "Adzsmán Erőd", ro: "Fortul Ajman", en: "Ajman Fort",
+image: "/poi-images/ajman-fort-history-v2.webp"
+},
     description: { de: "Die zentrale Festung der Stadt Ajman diente einst als Palast der Herrscherfamilie und ist heute ein umfangreiches Museum.", hu: "Adzsmán város központi erődje egykor az uralkodócsalád palotájaként szolgált, ma pedig átfogó múzeum.", ro: "Fortul central al orașului Ajman a servit odată ca palat al familiei conducătoare, iar astăzi este un muzeu vast.", en: "The central fort of Ajman city once served as the palace of the ruling family and is today a comprehensive museum." },
     facts: {
       de: ["Erbaut im späten 18. Jahrhundert.", "War bis 1970 die Residenz des Herrschers."],
@@ -177,7 +203,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-UQ",
     coords: [55.5728, 25.5833],
-    name: { de: "Festung Umm Al Quwain", hu: "Umm Al Quwain Erőd", ro: "Fortul Umm Al Quwain", en: "Umm Al Quwain Fort" },
+    name: { de: "Festung Umm Al Quwain", hu: "Umm Al Quwain Erőd", ro: "Fortul Umm Al Quwain", en: "Umm Al Quwain Fort",
+image: "/poi-images/umm-al-quwain-fort-history-v2.webp"
+},
     description: { de: "Eine imposante Festungsanlage, die einst die Mauern der Altstadt schützte und heute wertvolle archäologische Funde beherbergt.", hu: "Impozáns erődítmény, amely egykor az óváros falait védte, ma pedig értékes régészeti leleteknek ad otthont.", ro: "Un fort impresionant care proteja cândva zidurile orașului vechi, iar astăzi adăpostește descoperiri arheologice valoroase.", en: "An imposing fort that once protected the walls of the old town and today houses valuable archaeological finds." },
     facts: {
       de: ["Das Gebäude hat zwei markante Rundtürme.", "Wurde 1768 gegründet."],
@@ -191,7 +219,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-SH",
     coords: [55.3831, 25.3582],
-    name: { de: "Bait Al Naboodah", hu: "Bait Al Naboodah", ro: "Bait Al Naboodah", en: "Bait Al Naboodah" },
+    name: { de: "Bait Al Naboodah", hu: "Bait Al Naboodah", ro: "Bait Al Naboodah", en: "Bait Al Naboodah",
+image: "/poi-images/bait-al-naboodah-history-v2.webp"
+},
     description: { de: "Ein prachtvoll restauriertes Kaufmannshaus im Herzen von Sharjah, das die traditionelle arabische Wohnarchitektur eindrucksvoll zeigt.", hu: "Egy gyönyörűen felújított kereskedőház Sardzsa szívében, amely lenyűgözően mutatja be a hagyományos arab lakóépítészetet.", ro: "O casă de negustori magnific restaurată în inima orașului Sharjah, care prezintă impresionant arhitectura rezidențială tradițională arabă.", en: "A magnificently restored merchant's house in the heart of Sharjah that impressively displays traditional Arab residential architecture." },
     facts: {
       de: ["Erbaut um das Jahr 1845.", "Gehörte einem der größten Perlenhändler der Region."],
@@ -204,7 +234,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "historical-site",
     parent: "AE-SH",
     coords: [55.3835, 25.3587],
-    name: { de: "Souq Al Arsa", hu: "Souq Al Arsa", ro: "Souq Al Arsa", en: "Souq Al Arsa" },
+    name: { de: "Souq Al Arsa", hu: "Souq Al Arsa", ro: "Souq Al Arsa", en: "Souq Al Arsa",
+image: "/poi-images/souq-al-arsa-history-v2.webp"
+},
     description: { de: "Einer der ältesten Marktplätze der VAE, auf dem sich einst Beduinen und Händler aus fernen Ländern trafen.", hu: "Az EAE egyik legrégebbi piaca, ahol egykor beduinok és távoli földekről érkező kereskedők találkoztak.", ro: "Una dintre cele mai vechi piețe din EAU, unde odată se întâlneau beduinii și negustorii din ținuturi îndepărtate.", en: "One of the oldest marketplaces in the UAE, where Bedouins and merchants from distant lands once met." },
     facts: {
       de: ["Befindet sich im historischen Viertel von Sharjah.", "Seine Architektur aus Korallenstein wurde sorgfältig bewahrt."],
@@ -217,7 +249,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7533, 24.2388],
-    name: { de: "Archäologische Stätte Rumailah", hu: "Rumailah Régészeti Lelőhely", ro: "Situl Arheologic Rumailah", en: "Rumailah Archaeological Site" },
+    name: { de: "Archäologische Stätte Rumailah", hu: "Rumailah Régészeti Lelőhely", ro: "Situl Arheologic Rumailah", en: "Rumailah Archaeological Site",
+image: "/poi-images/rumailah-site-history-v2.webp"
+},
     description: { de: "Eine antike Siedlung aus der Eisenzeit in Al Ain, die für ihre gut erhaltenen Lehmziegelgebäude und Artefakte bekannt ist.", hu: "Egy ókori vaskori település Al Ainban, amely jól megőrzött vályogtégla épületeiről és leleteiről ismert.", ro: "O așezare antică din Epoca Fierului în Al Ain, cunoscută pentru clădirile sale bine conservate din cărămidă de noroi și artefacte.", en: "An ancient Iron Age settlement in Al Ain, known for its well-preserved mudbrick buildings and artifacts." },
     facts: {
       de: ["Die Gebäude wurden auf Steinpfundamenten errichtet.", "Zeigt Beweise für fortgeschrittene landwirtschaftliche Praktiken."],
@@ -230,7 +264,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "ruin",
     parent: "AE-UQ",
     coords: [55.5900, 25.2922],
-    name: { de: "Archäologische Stätte Tell Abraq", hu: "Tell Abraq Régészeti Lelőhely", ro: "Situl Arheologic Tell Abraq", en: "Tell Abraq Archaeological Site" },
+    name: { de: "Archäologische Stätte Tell Abraq", hu: "Tell Abraq Régészeti Lelőhely", ro: "Situl Arheologic Tell Abraq", en: "Tell Abraq Archaeological Site",
+image: "/poi-images/tell-abraq-history-v2.webp"
+},
     description: { de: "Ein wichtiger Ausgrabungshügel, der fast 2000 Jahre kontinuierlicher Besiedlung von der Bronzezeit bis zur Eisenzeit dokumentiert.", hu: "Egy fontos ásatási domb, amely majdnem 2000 évnyi folyamatos betelepülést dokumentál a bronzkortól a vaskorig.", ro: "Un important deal de excavare care documentează aproape 2000 de ani de așezare continuă, din Epoca Bronzului până în Epoca Fierului.", en: "An important excavation mound documenting almost 2,000 years of continuous settlement from the Bronze Age to the Iron Age." },
     facts: {
       de: ["Liegt an der Grenze zwischen Sharjah und Umm Al Quwain.", "Es wurde hier ein beeindruckendes kreisförmiges Fort ausgegraben."],
@@ -243,7 +279,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-AZ",
     coords: [55.7619, 24.2144],
-    name: { de: "Qasr Al Ain", hu: "Qasr Al Ain", ro: "Qasr Al Ain", en: "Qasr Al Ain" },
+    name: { de: "Qasr Al Ain", hu: "Qasr Al Ain", ro: "Qasr Al Ain", en: "Qasr Al Ain",
+image: "/poi-images/qasr-al-ain-history-v2.webp"
+},
     description: { de: "Der Palast war der Wohnsitz des verstorbenen Scheichs Zayed bin Sultan Al Nahyan und seiner Familie in der Oasenstadt Al Ain.", hu: "A palota a néhai Zájed bin Szultán Ál Nahján sejk és családjának lakhelye volt az Al Ain oázisvárosban.", ro: "Palatul a fost reședința regretatului Șeic Zayed bin Sultan Al Nahyan și a familiei sale în orașul-oază Al Ain.", en: "The palace was the residence of the late Sheikh Zayed bin Sultan Al Nahyan and his family in the oasis city of Al Ain." },
     facts: {
       de: ["Erbaut im Jahr 1937.", "Wurde 2001 in ein Museum umgewandelt."],
@@ -257,7 +295,9 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7486, 24.2697],
-    name: { de: "Gräber von Al Qattara", hu: "Al Qattara Sírjai", ro: "Mormintele din Al Qattara", en: "Al Qattara Tombs" },
+    name: { de: "Gräber von Al Qattara", hu: "Al Qattara Sírjai", ro: "Mormintele din Al Qattara", en: "Al Qattara Tombs",
+image: "/poi-images/al-qattara-tombs-history-v2.webp"
+},
     description: { de: "Diese antiken Grabstätten offenbaren reiche archäologische Funde aus der Bronze- und Eisenzeit, darunter Goldschmuck und Waffen.", hu: "Ezek az ősi sírok gazdag bronz- és vaskori régészeti leleteket tárnak fel, köztük arany ékszereket és fegyvereket.", ro: "Aceste morminte antice dezvăluie bogate descoperiri arheologice din Epoca Bronzului și Fierului, inclusiv bijuterii din aur și arme.", en: "These ancient tombs reveal rich archaeological finds from the Bronze and Iron Ages, including gold jewelry and weapons." },
     facts: {
       de: ["Die Funde werden im Al Ain National Museum ausgestellt.", "Zeigen den frühen Handel mit Mesopotamien."],

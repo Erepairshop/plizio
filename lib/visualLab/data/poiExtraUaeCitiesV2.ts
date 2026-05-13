@@ -10,8 +10,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Abu Dhabi",
       hu: "Abu-Dzabi",
       ro: "Abu Dhabi",
-      en: "Abu Dhabi"
-    },
+      en: "Abu Dhabi",
+image: "/poi-images/uae-abu-dhabi-cities-v2.webp"
+},
     description: {
       de: "Die wohlhabende Hauptstadt der VAE vereint moderne Wolkenkratzer mit traditionellen Palästen.",
       hu: "Az EAE gazdag fővárosa modern felhőkarcolókat és hagyományos palotákat ötvöz.",
@@ -45,8 +46,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Dubai",
       hu: "Dubaj",
       ro: "Dubai",
-      en: "Dubai"
-    },
+      en: "Dubai",
+image: "/poi-images/uae-dubai-cities-v2.webp"
+},
     description: {
       de: "Eine pulsierende Metropole, die für ihre futuristische Architektur und luxuriösen Einkaufszentren berühmt ist.",
       hu: "Lüktető metropolisz, amely futurisztikus építészetéről és luxus bevásárlóközpontjairól híres.",
@@ -80,8 +82,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Sharjah",
       hu: "Sardzsa",
       ro: "Sharjah",
-      en: "Sharjah"
-    },
+      en: "Sharjah",
+image: "/poi-images/uae-sharjah-cities-v2.webp"
+},
     description: {
       de: "Das kulturelle Herz der Emirate bietet zahlreiche Museen und eine tief verwurzelte historische Identität.",
       hu: "Az emírségek kulturális szíve, amely számos múzeumot és mélyen gyökerező történelmi identitást kínál.",
@@ -115,8 +118,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Adschman",
       hu: "Adzsmán",
       ro: "Ajman",
-      en: "Ajman"
-    },
+      en: "Ajman",
+image: "/poi-images/uae-ajman-cities-v2.webp"
+},
     description: {
       de: "Das flächenmäßig kleinste Emirat lockt mit einer charmanten Küstenpromenade und einer wachsenden Wirtschaft.",
       hu: "A területre legkisebb emírség bájos tengerparti sétánnyal és növekvő gazdasággal vonzza a látogatókat.",
@@ -150,8 +154,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Umm al-Qaiwain",
       hu: "Umm al-Kuvajn",
       ro: "Umm Al Quwain",
-      en: "Umm Al Quwain"
-    },
+      en: "Umm Al Quwain",
+image: "/poi-images/uae-umm-al-quwain-cities-v2.webp"
+},
     description: {
       de: "Eine beschauliche Küstenstadt, die abseits des Massentourismus ihre unberührten Naturlandschaften bewahrt hat.",
       hu: "Békés tengerparti város, amely a tömegturizmustól távol megőrizte érintetlen természeti tájait.",
@@ -185,8 +190,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Ras al-Khaimah",
       hu: "Rász el-Haima",
       ro: "Ras Al Khaimah",
-      en: "Ras Al Khaimah"
-    },
+      en: "Ras Al Khaimah",
+image: "/poi-images/uae-ras-al-khaimah-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Stadt im Norden, eingebettet zwischen herrlichen Stränden und dem majestätischen Hadschar-Gebirge.",
       hu: "Festői város északon, amely gyönyörű strandok és a fenséges Hadzsar-hegység között fekszik.",
@@ -220,8 +226,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Fujairah",
       hu: "Fudzsejra",
       ro: "Fujairah",
-      en: "Fujairah"
-    },
+      en: "Fujairah",
+image: "/poi-images/uae-fujairah-cities-v2.webp"
+},
     description: {
       de: "Die einzige Metropole der Emirate an der Ostküste, die durch ihre Lage am Golf von Oman besticht.",
       hu: "Az emírségek egyetlen metropolisza a keleti parton, amelyet az Ománi-öböl menti elhelyezkedése tesz vonzóvá.",
@@ -255,8 +262,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Al Ain",
       hu: "El-Ajn",
       ro: "Al Ain",
-      en: "Al Ain"
-    },
+      en: "Al Ain",
+image: "/poi-images/uae-al-ain-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die Gartenstadt, fasziniert diese historische Oase mit üppigem Grün inmitten trockener Wüste.",
       hu: "A kertvárosként ismert történelmi oázis buja növényzetével lenyűgöz a száraz sivatag közepén.",
@@ -290,8 +298,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Ruwais",
       hu: "Ruvaisz",
       ro: "Ruwais",
-      en: "Ruwais"
-    },
+      en: "Ruwais",
+image: "/poi-images/uae-ruwais-cities-v2.webp"
+},
     description: {
       de: "Eine moderne Planstadt, die als treibende Kraft für die petrochemische Industrie im Westen fungiert.",
       hu: "Modern tervezett város, amely a petrolkémiai ipar hajtóerejeként működik nyugaton.",
@@ -325,8 +334,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Madinat Zayed",
       hu: "Madínat Zájed",
       ro: "Madinat Zayed",
-      en: "Madinat Zayed"
-    },
+      en: "Madinat Zayed",
+image: "/poi-images/uae-madinat-zayed-cities-v2.webp"
+},
     description: {
       de: "Das administrative Zentrum der Al Dhafra Region bildet das Rückgrat der westlichen Wüstensiedlungen.",
       hu: "Az Al Dhafra régió közigazgatási központja a nyugati sivatagi települések gerincét alkotja.",
@@ -360,8 +370,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Ghayathi",
       hu: "Ghajáthi",
       ro: "Ghayathi",
-      en: "Ghayathi"
-    },
+      en: "Ghayathi",
+image: "/poi-images/uae-ghayathi-cities-v2.webp"
+},
     description: {
       de: "Diese im Landesinneren gelegene Stadt zeichnet sich durch mutige Initiativen zur Wüstenbegrünung aus.",
       hu: "Ez a szárazföld belsejében található város merész sivatagzöldítési kezdeményezéseivel tűnik ki.",
@@ -396,8 +407,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Al Mirfa",
       hu: "Al Mirfa",
       ro: "Al Mirfa",
-      en: "Al Mirfa"
-    },
+      en: "Al Mirfa",
+image: "/poi-images/uae-al-mirfa-cities-v2.webp"
+},
     description: {
       de: "Ein verstecktes Juwel am Meer, dessen lange Sandstrände perfekte Bedingungen für Wassersportler bieten.",
       hu: "Egy rejtett drágakő a tengerparton, amelynek hosszú homokos strandjai tökéletes feltételeket kínálnak a vízisportok szerelmeseinek.",
@@ -432,8 +444,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Liwa",
       hu: "Liva",
       ro: "Liwa",
-      en: "Liwa"
-    },
+      en: "Liwa",
+image: "/poi-images/uae-liwa-oasis-cities-v2.webp"
+},
     description: {
       de: "Eine Ansammlung historischer Dörfer am Rande des gewaltigen Rub al-Chali, die von Dattelpalmen gesäumt sind.",
       hu: "Történelmi falvak halmaza a hatalmas Rub al-Khali szélén, amelyeket datolyapálmák szegélyeznek.",
@@ -467,8 +480,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Sweihan",
       hu: "Szveihan",
       ro: "Sweihan",
-      en: "Sweihan"
-    },
+      en: "Sweihan",
+image: "/poi-images/uae-sweihan-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiges, landwirtschaftliches Zentrum, in dem das Erbe der traditionellen Beduinenkultur lebendig gehalten wird.",
       hu: "Csendes mezőgazdasági központ, ahol a hagyományos beduin kultúra örökségét életben tartják.",
@@ -502,8 +516,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Sila",
       hu: "Szila",
       ro: "Sila",
-      en: "Sila"
-    },
+      en: "Sila",
+image: "/poi-images/uae-sila-cities-v2.webp"
+},
     description: {
       de: "Diese abgelegene Hafenstadt markiert das westliche Ende der Emirate und fungiert als wichtiges Handelstor.",
       hu: "Ez a távoli kikötőváros az emírségek nyugati végét jelöli, és fontos kereskedelmi kapuként működik.",
@@ -537,8 +552,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Hatta",
       hu: "Hatta",
       ro: "Hatta",
-      en: "Hatta"
-    },
+      en: "Hatta",
+image: "/poi-images/uae-hatta-cities-v2.webp"
+},
     description: {
       de: "Eine gebirgige Enklave von Dubai, die sich in den letzten Jahren zu einem Paradies für Outdoor-Aktivitäten gewandelt hat.",
       hu: "Dubaj hegyvidéki enklávéja, amely az elmúlt években a szabadtéri tevékenységek paradicsomává változott.",
@@ -572,8 +588,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Dschabal Ali",
       hu: "Dzsebel Ali",
       ro: "Jebel Ali",
-      en: "Jebel Ali"
-    },
+      en: "Jebel Ali",
+image: "/poi-images/uae-jebel-ali-cities-v2.webp"
+},
     description: {
       de: "Ein industrieller Gigant im Süden von Dubai, dessen riesiger Hafen den globalen Güterverkehr maßgeblich prägt.",
       hu: "Ipari óriás Dubaj déli részén, amelynek hatalmas kikötője jelentősen meghatározza a globális áruforgalmat.",
@@ -607,8 +624,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Khor Fakkan",
       hu: "Khór Fakkan",
       ro: "Khor Fakkan",
-      en: "Khor Fakkan"
-    },
+      en: "Khor Fakkan",
+image: "/poi-images/uae-khor-fakkan-cities-v2.webp"
+},
     description: {
       de: "Dieses Küstenstädtchen ist von markanten Bergen umgeben und bietet einen herrlichen natürlichen Tiefwasserhafen.",
       hu: "Ezt a tengerparti városkát jellegzetes hegyek veszik körül, és gyönyörű természetes mélyvízi kikötőt kínál.",
@@ -642,8 +660,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Kalba",
       hu: "Kalba",
       ro: "Kalba",
-      en: "Kalba"
-    },
+      en: "Kalba",
+image: "/poi-images/uae-kalba-cities-v2.webp"
+},
     description: {
       de: "Eine ökologisch bedeutende Siedlung an der Ostküste, deren geschützte Lagunen einen Zufluchtsort für Tiere bilden.",
       hu: "Ökológiai szempontból jelentős település a keleti parton, amelynek védett lagúnái menedéket nyújtanak az állatok számára.",
@@ -677,8 +696,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Dibba Al-Hisn",
       hu: "Dibba Al-Hisn",
       ro: "Dibba Al-Hisn",
-      en: "Dibba Al-Hisn"
-    },
+      en: "Dibba Al-Hisn",
+image: "/poi-images/uae-dibba-al-hisn-cities-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber historisch reichhaltiger Ortsteil, der den Sharjah-Abschnitt der großen Dibba-Bucht kontrolliert.",
       hu: "Kicsi, de történelmileg gazdag városrész, amely a nagy Dibba-öböl Sardzsához tartozó részét ellenőrzi.",
@@ -712,8 +732,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Al Dhaid",
       hu: "Al Dhaid",
       ro: "Al Dhaid",
-      en: "Al Dhaid"
-    },
+      en: "Al Dhaid",
+image: "/poi-images/uae-al-dhaid-cities-v2.webp"
+},
     description: {
       de: "Diese im Zentrum gelegene Stadt profitiert von unterirdischen Wasserläufen und blüht als agrarisches Herzstück auf.",
       hu: "A központban elhelyezkedő város a földalatti vízfolyásokból profitál, és mezőgazdasági központként virágzik.",
@@ -747,8 +768,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Al Madam",
       hu: "Al-Madam",
       ro: "Al Madam",
-      en: "Al Madam"
-    },
+      en: "Al Madam",
+image: "/poi-images/uae-al-madam-cities-v2.webp"
+},
     description: {
       de: "Eine ruhige Siedlung im Sandmeer, in deren Nähe eine mystische, halb versunkene Geisterstadt Entdecker anlockt.",
       hu: "Csendes település a homoktengerben, amelynek közelében egy misztikus, félig elsüllyedt szellemváros vonzza a felfedezőket.",
@@ -782,8 +804,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Manama",
       hu: "Manáma",
       ro: "Manama",
-      en: "Manama"
-    },
+      en: "Manama",
+image: "/poi-images/uae-manama-ajman-cities-v2.webp"
+},
     description: {
       de: "Ein idyllisches Agrargebiet inmitten felsiger Ausläufer, das von den hektischen Küstenstädten weit entfernt ist.",
       hu: "Idilli agrárterület a sziklás hegyaljak között, amely távol esik a nyüzsgő tengerparti városoktól.",
@@ -817,8 +840,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Masfut",
       hu: "Maszfut",
       ro: "Masfout",
-      en: "Masfout"
-    },
+      en: "Masfout",
+image: "/poi-images/uae-masfout-cities-v2.webp"
+},
     description: {
       de: "Dieses charmante Bergdorf begeistert mit kühlerer Luft und rustikaler Architektur am Rande spektakulärer Täler.",
       hu: "Ez a bájos hegyi falu hűvösebb levegővel és rusztikus építészettel varázsol el a látványos völgyek szélén.",
@@ -852,8 +876,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Falaj al-Mualla",
       hu: "Faladzs Al-Mualla",
       ro: "Falaj Al Mualla",
-      en: "Falaj Al Mualla"
-    },
+      en: "Falaj Al Mualla",
+image: "/poi-images/uae-falaj-al-mualla-cities-v2.webp"
+},
     description: {
       de: "Ein grüner Fleck inmitten sanfter Dünen, dessen landwirtschaftliche Tradition auf historischen Wasserwegen basiert.",
       hu: "Zöld folt a szelíd dűnék között, amelynek mezőgazdasági hagyománya történelmi vízi utakon alapul.",
@@ -887,8 +912,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Ar-Rams",
       hu: "Ar-Ramsz",
       ro: "Ar-Rams",
-      en: "Ar-Rams"
-    },
+      en: "Ar-Rams",
+image: "/poi-images/uae-ar-rams-cities-v2.webp"
+},
     description: {
       de: "Ein stolzes Küstendorf, das seinen authentischen Charakter bewahrt hat und eng mit dem Meer verbunden ist.",
       hu: "Büszke tengerparti falu, amely megőrizte autentikus karakterét, és szorosan kapcsolódik a tengerhez.",
@@ -922,8 +948,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Khatt",
       hu: "Khatt",
       ro: "Khatt",
-      en: "Khatt"
-    },
+      en: "Khatt",
+image: "/poi-images/uae-khatt-cities-v2.webp"
+},
     description: {
       de: "Das Dorf am Fuße imposanter Berge wird landesweit für sein heilendes Thermalwasser geschätzt.",
       hu: "Az impozáns hegyek lábánál fekvő falut országszerte gyógyító termálvizéért értékelik.",
@@ -957,8 +984,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Al Hamriyah",
       hu: "Al Hamrijja",
       ro: "Al Hamriyah",
-      en: "Al Hamriyah"
-    },
+      en: "Al Hamriyah",
+image: "/poi-images/uae-al-hamriyah-cities-v2.webp"
+},
     description: {
       de: "Ein florierendes maritimes Zentrum, das historische Küstentraditionen mit moderner industrieller Entwicklung verknüpft.",
       hu: "Virágzó tengeri központ, amely a történelmi partvidéki hagyományokat a modern ipari fejlődéssel ötvözi.",
@@ -993,8 +1021,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Dibba Al-Fujairah",
       hu: "Dibba Al-Fudzsejra",
       ro: "Dibba Al-Fujairah",
-      en: "Dibba Al-Fujairah"
-    },
+      en: "Dibba Al-Fujairah",
+image: "/poi-images/uae-dibba-al-fujairah-cities-v2.webp"
+},
     description: {
       de: "Diese belebte Küstengemeinde bietet direkten Zugang zu den atemberaubenden Felsenklippen der Musandam-Halbinsel.",
       hu: "Ez a nyüzsgő tengerparti közösség közvetlen hozzáférést biztosít a Muszandam-félsziget lélegzetelállító sziklaszirteihez.",
@@ -1028,8 +1057,9 @@ export const poiExtraUaeCitiesV2: POI[] = [
       de: "Masafi",
       hu: "Maszafi",
       ro: "Masafi",
-      en: "Masafi"
-    },
+      en: "Masafi",
+image: "/poi-images/uae-masafi-cities-v2.webp"
+},
     description: {
       de: "Das Dorf auf dem Gebirgspass ist ein erfrischender Zwischenstopp, der für seine Naturprodukte hoch geschätzt wird.",
       hu: "A hegyi hágón fekvő falu frissítő megállóhely, amelyet nagyra értékelnek természetes termékei miatt.",

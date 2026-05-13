@@ -7,7 +7,9 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "DZ-01",
     coords: [1.0, 34.0],
-    name: { de: "Atlasgebirge", hu: "Atlasz-hegység", ro: "Munții Atlas", en: "Atlas Mountains" },
+    name: { de: "Atlasgebirge", hu: "Atlasz-hegység", ro: "Munții Atlas", en: "Atlas Mountains",
+image: "/poi-images/atlas-mountains-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Gebirgssystem in Nordafrika.", hu: "Jelentős hegyrendszer Észak-Afrikában.", ro: "Un sistem muntos important din Africa de Nord.", en: "A major mountain range in North Africa." },
     facts: {
       de: ["Erstreckt sich über drei Länder.", "Höchster Punkt ist der Toubkal."],
@@ -32,7 +34,9 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     type: "lake",
     parent: "DZ-39",
     coords: [6.33, 34.25],
-    name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir" },
+    name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir",
+image: "/poi-images/chott-melrhir-nature-v2.webp"
+},
     description: { de: "Ein großer endorheischer Salzsee.", hu: "Algéria legnagyobb sós tava, amely a Szahara szélén található, fontos madárélőhely.", ro: "Chott Melrhir este cel mai mare lac sărat endoreic din Algeria, situat într-o depresiune aridă.", en: "A large endorheic salt lake." },
     facts: {
       de: ["Liegt unter dem Meeresspiegel.", "Saisonaler See."],
@@ -57,7 +61,9 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     type: "mountain",
     parent: "DZ-33",
     coords: [9.0, 25.0],
-    name: { de: "Tassili n'Ajjer", hu: "Tassili n'Ajjer", ro: "Tassili n'Ajjer", en: "Tassili n'Ajjer" },
+    name: { de: "Tassili n'Ajjer", hu: "Tassili n'Ajjer", ro: "Tassili n'Ajjer", en: "Tassili n'Ajjer",
+image: "/poi-images/tassili-n-ajjer-nature-v2.webp"
+},
     description: { de: "Ein Wüstenplateau mit beeindruckenden Felsformationen.", hu: "Sivatagi fennsík lenyűgöző sziklaformációkkal.", ro: "Un platou deșertic cu formațiuni stâncoase impresionante.", en: "A desert plateau with impressive rock formations." },
     facts: {
       de: ["UNESCO-Welterbe.", "Bekannt für prähistorische Kunst."],

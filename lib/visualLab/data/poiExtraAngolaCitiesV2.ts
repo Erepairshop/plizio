@@ -6,7 +6,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-LUA",
     coords: [13.2344, -8.839],
-    name: { de: "Luanda", hu: "Luanda", ro: "Luanda", en: "Luanda" },
+    name: { de: "Luanda", hu: "Luanda", ro: "Luanda", en: "Luanda",
+image: "/poi-images/luanda-cities-v2.webp"
+},
     description: {
       de: "Luanda ist die Hauptstadt der Provinz Luanda in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Luanda Angola Luanda tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -36,7 +38,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-BGO",
     coords: [13.6644, -8.5786],
-    name: { de: "Caxito", hu: "Caxito", ro: "Caxito", en: "Caxito" },
+    name: { de: "Caxito", hu: "Caxito", ro: "Caxito", en: "Caxito",
+image: "/poi-images/caxito-cities-v2.webp"
+},
     description: {
       de: "Caxito ist die Hauptstadt der Provinz Bengo in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Caxito Angola Bengo tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -66,7 +70,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-CNO",
     coords: [14.9116, -9.2978],
-    name: { de: "N'dalatando", hu: "N'dalatando", ro: "N'dalatando", en: "N'dalatando" },
+    name: { de: "N'dalatando", hu: "N'dalatando", ro: "N'dalatando", en: "N'dalatando",
+image: "/poi-images/ndalatando-cities-v2.webp"
+},
     description: {
       de: "N'dalatando ist die Hauptstadt der Provinz Cuanza Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "N'dalatando Angola Cuanza Norte tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -98,7 +104,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-CUS",
     coords: [13.8437, -11.2061],
-    name: { de: "Sumbe", hu: "Sumbe", ro: "Sumbe", en: "Sumbe" },
+    name: { de: "Sumbe", hu: "Sumbe", ro: "Sumbe", en: "Sumbe",
+image: "/poi-images/sumbe-cities-v2.webp"
+},
     description: {
       de: "Sumbe ist die Hauptstadt der Provinz Cuanza Sul in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Sumbe Angola Cuanza Sul tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -128,7 +136,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-MAL",
     coords: [16.341, -9.5403],
-    name: { de: "Malanje", hu: "Malanje", ro: "Malanje", en: "Malanje" },
+    name: { de: "Malanje", hu: "Malanje", ro: "Malanje", en: "Malanje",
+image: "/poi-images/malanje-cities-v2.webp"
+},
     description: {
       de: "Malanje ist die Hauptstadt der Provinz Malanje in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Malanje Angola Malanje tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -158,7 +168,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-UIG",
     coords: [15.0613, -7.6087],
-    name: { de: "Uíge", hu: "Uíge", ro: "Uíge", en: "Uíge" },
+    name: { de: "Uíge", hu: "Uíge", ro: "Uíge", en: "Uíge",
+image: "/poi-images/uige-cities-v2.webp"
+},
     description: {
       de: "Uíge ist die Hauptstadt der Provinz Uíge in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Uíge Angola Uíge tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -188,7 +200,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-ZAI",
     coords: [14.2401, -6.267],
-    name: { de: "M'banza-Kongo", hu: "M'banza-Kongo", ro: "M'banza-Kongo", en: "M'banza-Kongo" },
+    name: { de: "M'banza-Kongo", hu: "M'banza-Kongo", ro: "M'banza-Kongo", en: "M'banza-Kongo",
+image: "/poi-images/mbanzakongo-cities-v2.webp"
+},
     description: {
       de: "M'banza-Kongo ist die Hauptstadt der Provinz Zaire in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "M'banza-Kongo Angola Zaire tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -218,7 +232,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-CAB",
     coords: [12.2, -5.55],
-    name: { de: "Cabinda", hu: "Cabinda", ro: "Cabinda", en: "Cabinda" },
+    name: { de: "Cabinda", hu: "Cabinda", ro: "Cabinda", en: "Cabinda",
+image: "/poi-images/cabinda-cities-v2.webp"
+},
     description: {
       de: "Cabinda ist die Hauptstadt der Provinz Cabinda in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cabinda Angola Cabinda tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -248,7 +264,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-LNO",
     coords: [20.8333, -7.3833],
-    name: { de: "Dundo", hu: "Dundo", ro: "Dundo", en: "Dundo" },
+    name: { de: "Dundo", hu: "Dundo", ro: "Dundo", en: "Dundo",
+image: "/poi-images/dundo-cities-v2.webp"
+},
     description: {
       de: "Dundo ist die Hauptstadt der Provinz Lunda Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Dundo Angola Lunda Norte tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -278,7 +296,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-LSU",
     coords: [20.3916, -9.6608],
-    name: { de: "Saurimo", hu: "Saurimo", ro: "Saurimo", en: "Saurimo" },
+    name: { de: "Saurimo", hu: "Saurimo", ro: "Saurimo", en: "Saurimo",
+image: "/poi-images/saurimo-cities-v2.webp"
+},
     description: {
       de: "Saurimo ist die Hauptstadt der Provinz Lunda Sul in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Saurimo Angola Lunda Sul tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -308,7 +328,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-MOX",
     coords: [19.9167, -11.7833],
-    name: { de: "Luena", hu: "Luena", ro: "Luena", en: "Luena" },
+    name: { de: "Luena", hu: "Luena", ro: "Luena", en: "Luena",
+image: "/poi-images/luena-cities-v2.webp"
+},
     description: {
       de: "Luena ist die Hauptstadt der Provinz Moxico in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Luena Angola Moxico tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -338,7 +360,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-HUA",
     coords: [15.7333, -12.7667],
-    name: { de: "Huambo", hu: "Huambo", ro: "Huambo", en: "Huambo" },
+    name: { de: "Huambo", hu: "Huambo", ro: "Huambo", en: "Huambo",
+image: "/poi-images/huambo-cities-v2.webp"
+},
     description: {
       de: "Huambo ist die Hauptstadt der Provinz Huambo in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Huambo Angola Huambo tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -368,7 +392,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-BGU",
     coords: [13.4, -12.5833],
-    name: { de: "Benguela", hu: "Benguela", ro: "Benguela", en: "Benguela" },
+    name: { de: "Benguela", hu: "Benguela", ro: "Benguela", en: "Benguela",
+image: "/poi-images/benguela-cities-v2.webp"
+},
     description: {
       de: "Benguela ist die Hauptstadt der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Benguela Angola Benguela tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -398,7 +424,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-HUI",
     coords: [13.4925, -14.9172],
-    name: { de: "Lubango", hu: "Lubango", ro: "Lubango", en: "Lubango" },
+    name: { de: "Lubango", hu: "Lubango", ro: "Lubango", en: "Lubango",
+image: "/poi-images/lubango-cities-v2.webp"
+},
     description: {
       de: "Lubango ist die Hauptstadt der Provinz Huíla in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Lubango Angola Huíla tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -428,7 +456,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-NAM",
     coords: [12.15, -15.1961],
-    name: { de: "Moçâmedes", hu: "Moçâmedes", ro: "Moçâmedes", en: "Moçâmedes" },
+    name: { de: "Moçâmedes", hu: "Moçâmedes", ro: "Moçâmedes", en: "Moçâmedes",
+image: "/poi-images/namibe-cities-v2.webp"
+},
     description: {
       de: "Moçâmedes ist die Hauptstadt der Provinz Namibe in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Moçâmedes Angola Namibe tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -458,7 +488,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-CUN",
     coords: [15.7333, -17.0667],
-    name: { de: "Ondjiva", hu: "Ondjiva", ro: "Ondjiva", en: "Ondjiva" },
+    name: { de: "Ondjiva", hu: "Ondjiva", ro: "Ondjiva", en: "Ondjiva",
+image: "/poi-images/ondjiva-cities-v2.webp"
+},
     description: {
       de: "Ondjiva ist die Hauptstadt der Provinz Cunene in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Ondjiva Angola Cunene tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -488,7 +520,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AO-CCU",
     coords: [17.6833, -14.65],
-    name: { de: "Menongue", hu: "Menongue", ro: "Menongue", en: "Menongue" },
+    name: { de: "Menongue", hu: "Menongue", ro: "Menongue", en: "Menongue",
+image: "/poi-images/menongue-cities-v2.webp"
+},
     description: {
       de: "Menongue ist die Hauptstadt der Provinz Cuando Cubango in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Menongue Angola Cuando Cubango tartományának fővárosa. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -520,7 +554,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BGU",
     coords: [13.536, -12.3644],
-    name: { de: "Lobito", hu: "Lobito", ro: "Lobito", en: "Lobito" },
+    name: { de: "Lobito", hu: "Lobito", ro: "Lobito", en: "Lobito",
+image: "/poi-images/lobito-cities-v2.webp"
+},
     description: {
       de: "Lobito ist eine wichtige Stadt in der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Lobito egy fontos város Angola Benguela tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -550,7 +586,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-ZAI",
     coords: [12.3686, -6.1349],
-    name: { de: "Soyo", hu: "Soyo", ro: "Soyo", en: "Soyo" },
+    name: { de: "Soyo", hu: "Soyo", ro: "Soyo", en: "Soyo",
+image: "/poi-images/soyo-cities-v2.webp"
+},
     description: {
       de: "Soyo ist eine wichtige Stadt in der Provinz Zaire in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Soyo egy fontos város Angola Zaire tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -580,7 +618,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUA",
     coords: [15.75, -12.1833],
-    name: { de: "Bailundo", hu: "Bailundo", ro: "Bailundo", en: "Bailundo" },
+    name: { de: "Bailundo", hu: "Bailundo", ro: "Bailundo", en: "Bailundo",
+image: "/poi-images/bailundo-cities-v2.webp"
+},
     description: {
       de: "Bailundo ist eine wichtige Stadt in der Provinz Huambo in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Bailundo egy fontos város Angola Huambo tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -612,7 +652,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUA",
     coords: [15.5667, -12.95],
-    name: { de: "Caála", hu: "Caála", ro: "Caála", en: "Caála" },
+    name: { de: "Caála", hu: "Caála", ro: "Caála", en: "Caála",
+image: "/poi-images/caala-cities-v2.webp"
+},
     description: {
       de: "Caála ist eine wichtige Stadt in der Provinz Huambo in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Caála egy fontos város Angola Huambo tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -642,7 +684,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BIE",
     coords: [17.4833, -12.0167],
-    name: { de: "Camacupa", hu: "Camacupa", ro: "Camacupa", en: "Camacupa" },
+    name: { de: "Camacupa", hu: "Camacupa", ro: "Camacupa", en: "Camacupa",
+image: "/poi-images/camacupa-cities-v2.webp"
+},
     description: {
       de: "Camacupa ist eine wichtige Stadt in der Provinz Bié in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Camacupa egy fontos város Angola Bié tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -674,7 +718,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BIE",
     coords: [16.6833, -11.4833],
-    name: { de: "Andulo", hu: "Andulo", ro: "Andulo", en: "Andulo" },
+    name: { de: "Andulo", hu: "Andulo", ro: "Andulo", en: "Andulo",
+image: "/poi-images/andulo-cities-v2.webp"
+},
     description: {
       de: "Andulo ist eine wichtige Stadt in der Provinz Bié in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Andulo egy fontos város Angola Bié tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -704,7 +750,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUS",
     coords: [13.7667, -10.7333],
-    name: { de: "Porto Amboim", hu: "Porto Amboim", ro: "Porto Amboim", en: "Porto Amboim" },
+    name: { de: "Porto Amboim", hu: "Porto Amboim", ro: "Porto Amboim", en: "Porto Amboim",
+image: "/poi-images/portoamboim-cities-v2.webp"
+},
     description: {
       de: "Porto Amboim ist eine wichtige Stadt in der Provinz Cuanza Sul in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Porto Amboim egy fontos város Angola Cuanza Sul tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -734,7 +782,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUS",
     coords: [14.3667, -10.85],
-    name: { de: "Gabela", hu: "Gabela", ro: "Gabela", en: "Gabela" },
+    name: { de: "Gabela", hu: "Gabela", ro: "Gabela", en: "Gabela",
+image: "/poi-images/gabela-cities-v2.webp"
+},
     description: {
       de: "Gabela ist eine wichtige Stadt in der Provinz Cuanza Sul in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Gabela egy fontos város Angola Cuanza Sul tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -764,7 +814,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUS",
     coords: [15.1167, -11.35],
-    name: { de: "Waku-Kungo", hu: "Waku-Kungo", ro: "Waku-Kungo", en: "Waku-Kungo" },
+    name: { de: "Waku-Kungo", hu: "Waku-Kungo", ro: "Waku-Kungo", en: "Waku-Kungo",
+image: "/poi-images/wakukungo-cities-v2.webp"
+},
     description: {
       de: "Waku-Kungo ist eine wichtige Stadt in der Provinz Cuanza Sul in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Waku-Kungo egy fontos város Angola Cuanza Sul tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -794,7 +846,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUS",
     coords: [14.9833, -10.7333],
-    name: { de: "Quibala", hu: "Quibala", ro: "Quibala", en: "Quibala" },
+    name: { de: "Quibala", hu: "Quibala", ro: "Quibala", en: "Quibala",
+image: "/poi-images/quibala-cities-v2.webp"
+},
     description: {
       de: "Quibala ist eine wichtige Stadt in der Provinz Cuanza Sul in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Quibala egy fontos város Angola Cuanza Sul tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -824,7 +878,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-LNO",
     coords: [20.7333, -8.4167],
-    name: { de: "Lucapa", hu: "Lucapa", ro: "Lucapa", en: "Lucapa" },
+    name: { de: "Lucapa", hu: "Lucapa", ro: "Lucapa", en: "Lucapa",
+image: "/poi-images/lucapa-cities-v2.webp"
+},
     description: {
       de: "Lucapa ist eine wichtige Stadt in der Provinz Lunda Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Lucapa egy fontos város Angola Lunda Norte tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -854,7 +910,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-LNO",
     coords: [18.0167, -8.7667],
-    name: { de: "Cafunfo", hu: "Cafunfo", ro: "Cafunfo", en: "Cafunfo" },
+    name: { de: "Cafunfo", hu: "Cafunfo", ro: "Cafunfo", en: "Cafunfo",
+image: "/poi-images/cafunfo-cities-v2.webp"
+},
     description: {
       de: "Cafunfo ist eine wichtige Stadt in der Provinz Lunda Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cafunfo egy fontos város Angola Lunda Norte tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -884,7 +942,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-ZAI",
     coords: [12.8667, -7.2333],
-    name: { de: "Nzeto", hu: "Nzeto", ro: "Nzeto", en: "Nzeto" },
+    name: { de: "Nzeto", hu: "Nzeto", ro: "Nzeto", en: "Nzeto",
+image: "/poi-images/nzeto-cities-v2.webp"
+},
     description: {
       de: "Nzeto ist eine wichtige Stadt in der Provinz Zaire in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Nzeto egy fontos város Angola Zaire tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -916,7 +976,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-ZAI",
     coords: [13.3, -6.8],
-    name: { de: "Tomboco", hu: "Tomboco", ro: "Tomboco", en: "Tomboco" },
+    name: { de: "Tomboco", hu: "Tomboco", ro: "Tomboco", en: "Tomboco",
+image: "/poi-images/tomboco-cities-v2.webp"
+},
     description: {
       de: "Tomboco ist eine wichtige Stadt in der Provinz Zaire in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Tomboco egy fontos város Angola Zaire tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -948,7 +1010,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-UIG",
     coords: [15.2667, -7.7667],
-    name: { de: "Negage", hu: "Negage", ro: "Negage", en: "Negage" },
+    name: { de: "Negage", hu: "Negage", ro: "Negage", en: "Negage",
+image: "/poi-images/negage-cities-v2.webp"
+},
     description: {
       de: "Negage ist eine wichtige Stadt in der Provinz Uíge in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Negage egy fontos város Angola Uíge tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -980,7 +1044,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-UIG",
     coords: [15.05, -6.0333],
-    name: { de: "Maquela do Zombo", hu: "Maquela do Zombo", ro: "Maquela do Zombo", en: "Maquela do Zombo" },
+    name: { de: "Maquela do Zombo", hu: "Maquela do Zombo", ro: "Maquela do Zombo", en: "Maquela do Zombo",
+image: "/poi-images/maqueladozombo-cities-v2.webp"
+},
     description: {
       de: "Maquela do Zombo ist eine wichtige Stadt in der Provinz Uíge in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Maquela do Zombo egy fontos város Angola Uíge tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1010,7 +1076,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-UIG",
     coords: [15.1333, -6.6833],
-    name: { de: "Damba", hu: "Damba", ro: "Damba", en: "Damba" },
+    name: { de: "Damba", hu: "Damba", ro: "Damba", en: "Damba",
+image: "/poi-images/damba-cities-v2.webp"
+},
     description: {
       de: "Damba ist eine wichtige Stadt in der Provinz Uíge in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Damba egy fontos város Angola Uíge tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1040,7 +1108,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUI",
     coords: [15.0333, -14.7333],
-    name: { de: "Matala", hu: "Matala", ro: "Matala", en: "Matala" },
+    name: { de: "Matala", hu: "Matala", ro: "Matala", en: "Matala",
+image: "/poi-images/matala-cities-v2.webp"
+},
     description: {
       de: "Matala ist eine wichtige Stadt in der Provinz Huíla in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Matala egy fontos város Angola Huíla tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1070,7 +1140,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUI",
     coords: [15.0667, -13.7333],
-    name: { de: "Caconda", hu: "Caconda", ro: "Caconda", en: "Caconda" },
+    name: { de: "Caconda", hu: "Caconda", ro: "Caconda", en: "Caconda",
+image: "/poi-images/caconda-cities-v2.webp"
+},
     description: {
       de: "Caconda ist eine wichtige Stadt in der Provinz Huíla in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Caconda egy fontos város Angola Huíla tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1102,7 +1174,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUI",
     coords: [14.6833, -13.7833],
-    name: { de: "Caluquembe", hu: "Caluquembe", ro: "Caluquembe", en: "Caluquembe" },
+    name: { de: "Caluquembe", hu: "Caluquembe", ro: "Caluquembe", en: "Caluquembe",
+image: "/poi-images/caluquembe-cities-v2.webp"
+},
     description: {
       de: "Caluquembe ist eine wichtige Stadt in der Provinz Huíla in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Caluquembe egy fontos város Angola Huíla tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1132,7 +1206,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUI",
     coords: [14.0833, -14.0833],
-    name: { de: "Quilengues", hu: "Quilengues", ro: "Quilengues", en: "Quilengues" },
+    name: { de: "Quilengues", hu: "Quilengues", ro: "Quilengues", en: "Quilengues",
+image: "/poi-images/quilengues-cities-v2.webp"
+},
     description: {
       de: "Quilengues ist eine wichtige Stadt in der Provinz Huíla in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Quilengues egy fontos város Angola Huíla tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1164,7 +1240,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-HUI",
     coords: [16.0667, -14.7],
-    name: { de: "Jamba", hu: "Jamba", ro: "Jamba", en: "Jamba" },
+    name: { de: "Jamba", hu: "Jamba", ro: "Jamba", en: "Jamba",
+image: "/poi-images/jamba-cities-v2.webp"
+},
     description: {
       de: "Jamba ist eine wichtige Stadt in der Provinz Huíla in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Jamba egy fontos város Angola Huíla tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1194,7 +1272,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-NAM",
     coords: [11.8333, -15.8],
-    name: { de: "Tômbua", hu: "Tômbua", ro: "Tômbua", en: "Tômbua" },
+    name: { de: "Tômbua", hu: "Tômbua", ro: "Tômbua", en: "Tômbua",
+image: "/poi-images/tombua-cities-v2.webp"
+},
     description: {
       de: "Tômbua ist eine wichtige Stadt in der Provinz Namibe in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Tômbua egy fontos város Angola Namibe tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1224,7 +1304,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-NAM",
     coords: [13.3667, -14.7667],
-    name: { de: "Bibala", hu: "Bibala", ro: "Bibala", en: "Bibala" },
+    name: { de: "Bibala", hu: "Bibala", ro: "Bibala", en: "Bibala",
+image: "/poi-images/bibala-cities-v2.webp"
+},
     description: {
       de: "Bibala ist eine wichtige Stadt in der Provinz Namibe in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Bibala egy fontos város Angola Namibe tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1254,7 +1336,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-NAM",
     coords: [12.9333, -15.7],
-    name: { de: "Virei", hu: "Virei", ro: "Virei", en: "Virei" },
+    name: { de: "Virei", hu: "Virei", ro: "Virei", en: "Virei",
+image: "/poi-images/virei-cities-v2.webp"
+},
     description: {
       de: "Virei ist eine wichtige Stadt in der Provinz Namibe in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Virei egy fontos város Angola Namibe tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1284,7 +1368,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BGU",
     coords: [14.6333, -13.0333],
-    name: { de: "Ganda", hu: "Ganda", ro: "Ganda", en: "Ganda" },
+    name: { de: "Ganda", hu: "Ganda", ro: "Ganda", en: "Ganda",
+image: "/poi-images/ganda-cities-v2.webp"
+},
     description: {
       de: "Ganda ist eine wichtige Stadt in der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Ganda egy fontos város Angola Benguela tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1314,7 +1400,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BGU",
     coords: [14.2333, -13.0333],
-    name: { de: "Cubal", hu: "Cubal", ro: "Cubal", en: "Cubal" },
+    name: { de: "Cubal", hu: "Cubal", ro: "Cubal", en: "Cubal",
+image: "/poi-images/cubal-cities-v2.webp"
+},
     description: {
       de: "Cubal ist eine wichtige Stadt in der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cubal egy fontos város Angola Benguela tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1344,7 +1432,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BGU",
     coords: [13.2, -12.6167],
-    name: { de: "Baía Farta", hu: "Baía Farta", ro: "Baía Farta", en: "Baía Farta" },
+    name: { de: "Baía Farta", hu: "Baía Farta", ro: "Baía Farta", en: "Baía Farta",
+image: "/poi-images/baiafarta-cities-v2.webp"
+},
     description: {
       de: "Baía Farta ist eine wichtige Stadt in der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Baía Farta egy fontos város Angola Benguela tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1374,7 +1464,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BGU",
     coords: [14.0167, -12.2833],
-    name: { de: "Bocoio", hu: "Bocoio", ro: "Bocoio", en: "Bocoio" },
+    name: { de: "Bocoio", hu: "Bocoio", ro: "Bocoio", en: "Bocoio",
+image: "/poi-images/bocoio-cities-v2.webp"
+},
     description: {
       de: "Bocoio ist eine wichtige Stadt in der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Bocoio egy fontos város Angola Benguela tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1404,7 +1496,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-BGU",
     coords: [14.4667, -12.35],
-    name: { de: "Balombo", hu: "Balombo", ro: "Balombo", en: "Balombo" },
+    name: { de: "Balombo", hu: "Balombo", ro: "Balombo", en: "Balombo",
+image: "/poi-images/balombo-cities-v2.webp"
+},
     description: {
       de: "Balombo ist eine wichtige Stadt in der Provinz Benguela in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Balombo egy fontos város Angola Benguela tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1434,7 +1528,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CNO",
     coords: [14.4167, -9.6833],
-    name: { de: "Dondo", hu: "Dondo", ro: "Dondo", en: "Dondo" },
+    name: { de: "Dondo", hu: "Dondo", ro: "Dondo", en: "Dondo",
+image: "/poi-images/dondo-cities-v2.webp"
+},
     description: {
       de: "Dondo ist eine wichtige Stadt in der Provinz Cuanza Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Dondo egy fontos város Angola Cuanza Norte tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1464,7 +1560,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CNO",
     coords: [15.2667, -9.2667],
-    name: { de: "Lucala", hu: "Lucala", ro: "Lucala", en: "Lucala" },
+    name: { de: "Lucala", hu: "Lucala", ro: "Lucala", en: "Lucala",
+image: "/poi-images/lucala-cities-v2.webp"
+},
     description: {
       de: "Lucala ist eine wichtige Stadt in der Provinz Cuanza Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Lucala egy fontos város Angola Cuanza Norte tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1494,7 +1592,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CNO",
     coords: [15.3667, -8.1833],
-    name: { de: "Camabatela", hu: "Camabatela", ro: "Camabatela", en: "Camabatela" },
+    name: { de: "Camabatela", hu: "Camabatela", ro: "Camabatela", en: "Camabatela",
+image: "/poi-images/camabatela-cities-v2.webp"
+},
     description: {
       de: "Camabatela ist eine wichtige Stadt in der Provinz Cuanza Norte in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Camabatela egy fontos város Angola Cuanza Norte tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1526,7 +1626,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-MAL",
     coords: [15.7333, -9.4333],
-    name: { de: "Cacuso", hu: "Cacuso", ro: "Cacuso", en: "Cacuso" },
+    name: { de: "Cacuso", hu: "Cacuso", ro: "Cacuso", en: "Cacuso",
+image: "/poi-images/cacuso-cities-v2.webp"
+},
     description: {
       de: "Cacuso ist eine wichtige Stadt in der Provinz Malanje in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cacuso egy fontos város Angola Malanje tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1558,7 +1660,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-MAL",
     coords: [16.0, -9.0833],
-    name: { de: "Calandula", hu: "Calandula", ro: "Calandula", en: "Calandula" },
+    name: { de: "Calandula", hu: "Calandula", ro: "Calandula", en: "Calandula",
+image: "/poi-images/calandula-cities-v2.webp"
+},
     description: {
       de: "Calandula ist eine wichtige Stadt in der Provinz Malanje in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Calandula egy fontos város Angola Malanje tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1588,7 +1692,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-MAL",
     coords: [17.0333, -9.2667],
-    name: { de: "Quela", hu: "Quela", ro: "Quela", en: "Quela" },
+    name: { de: "Quela", hu: "Quela", ro: "Quela", en: "Quela",
+image: "/poi-images/quela-cities-v2.webp"
+},
     description: {
       de: "Quela ist eine wichtige Stadt in der Provinz Malanje in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Quela egy fontos város Angola Malanje tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1618,7 +1724,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CCU",
     coords: [16.8833, -14.65],
-    name: { de: "Cuchi", hu: "Cuchi", ro: "Cuchi", en: "Cuchi" },
+    name: { de: "Cuchi", hu: "Cuchi", ro: "Cuchi", en: "Cuchi",
+image: "/poi-images/cuchi-cities-v2.webp"
+},
     description: {
       de: "Cuchi ist eine wichtige Stadt in der Provinz Cuando Cubango in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cuchi egy fontos város Angola Cuando Cubango tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1648,7 +1756,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CCU",
     coords: [19.1667, -15.1667],
-    name: { de: "Cuito Cuanavale", hu: "Cuito Cuanavale", ro: "Cuito Cuanavale", en: "Cuito Cuanavale" },
+    name: { de: "Cuito Cuanavale", hu: "Cuito Cuanavale", ro: "Cuito Cuanavale", en: "Cuito Cuanavale",
+image: "/poi-images/cuito-cuanavale-cities-v2.webp"
+},
     description: {
       de: "Cuito Cuanavale ist eine wichtige Stadt in der Provinz Cuando Cubango in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cuito Cuanavale egy fontos város Angola Cuando Cubango tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1678,7 +1788,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CCU",
     coords: [20.0667, -15.8],
-    name: { de: "Mavinga", hu: "Mavinga", ro: "Mavinga", en: "Mavinga" },
+    name: { de: "Mavinga", hu: "Mavinga", ro: "Mavinga", en: "Mavinga",
+image: "/poi-images/mavinga-cities-v2.webp"
+},
     description: {
       de: "Mavinga ist eine wichtige Stadt in der Provinz Cuando Cubango in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Mavinga egy fontos város Angola Cuando Cubango tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1708,7 +1820,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUN",
     coords: [15.7333, -17.0667],
-    name: { de: "Cuanhama", hu: "Cuanhama", ro: "Cuanhama", en: "Cuanhama" },
+    name: { de: "Cuanhama", hu: "Cuanhama", ro: "Cuanhama", en: "Cuanhama",
+image: "/poi-images/cuanhama-cities-v2.webp"
+},
     description: {
       de: "Cuanhama ist eine wichtige Stadt in der Provinz Cunene in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cuanhama egy fontos város Angola Cunene tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1740,7 +1854,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUN",
     coords: [15.7833, -15.7333],
-    name: { de: "Cuvelai", hu: "Cuvelai", ro: "Cuvelai", en: "Cuvelai" },
+    name: { de: "Cuvelai", hu: "Cuvelai", ro: "Cuvelai", en: "Cuvelai",
+image: "/poi-images/cuvelai-cities-v2.webp"
+},
     description: {
       de: "Cuvelai ist eine wichtige Stadt in der Provinz Cunene in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Cuvelai egy fontos város Angola Cunene tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1770,7 +1886,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUN",
     coords: [15.8333, -17.3],
-    name: { de: "Namacunde", hu: "Namacunde", ro: "Namacunde", en: "Namacunde" },
+    name: { de: "Namacunde", hu: "Namacunde", ro: "Namacunde", en: "Namacunde",
+image: "/poi-images/namacunde-cities-v2.webp"
+},
     description: {
       de: "Namacunde ist eine wichtige Stadt in der Provinz Cunene in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Namacunde egy fontos város Angola Cunene tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",
@@ -1802,7 +1920,9 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     type: "city",
     parent: "AO-CUN",
     coords: [14.05, -16.3],
-    name: { de: "Curoca", hu: "Curoca", ro: "Curoca", en: "Curoca" },
+    name: { de: "Curoca", hu: "Curoca", ro: "Curoca", en: "Curoca",
+image: "/poi-images/curoca-cities-v2.webp"
+},
     description: {
       de: "Curoca ist eine wichtige Stadt in der Provinz Cunene in Angola. Die Region profitiert von der lokalen Infrastruktur und Vernetzung.",
       hu: "Curoca egy fontos város Angola Cunene tartományában. A régió sokat profitál a helyi infrastruktúrából és hálózatokból.",

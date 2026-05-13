@@ -11,8 +11,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Santo Antão",
       hu: "Santo Antão",
       ro: "Santo Antão",
-      en: "Santo Antão"
-    },
+      en: "Santo Antão",
+image: "/poi-images/santo-antao-nature-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Insel von Kap Verde, bekannt für ihre spektakulären Berge und grünen Täler.",
       hu: "Zöldellő völgyeiről és drámai hegycsúcsairól ismert, a Zöld-foki Köztársaság második legnagyobb szigete.",
@@ -34,8 +35,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "São Vicente",
       hu: "São Vicente",
       ro: "São Vicente",
-      en: "São Vicente"
-    },
+      en: "São Vicente",
+image: "/poi-images/sao-vicente-nature-v2.webp"
+},
     description: {
       de: "Eine vulkanische Insel, die als das kulturelle Herz der Kapverden gilt und für ihre Musik bekannt ist.",
       hu: "A Zöld-foki-szigetek kulturális központja, amely híres zenei életéről és vulkanikus tájairól.",
@@ -57,8 +59,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Santa Luzia",
       hu: "Santa Luzia",
       ro: "Santa Luzia",
-      en: "Santa Luzia"
-    },
+      en: "Santa Luzia",
+image: "/poi-images/santa-luzia-nature-v2.webp"
+},
     description: {
       de: "Die einzige unbewohnte Insel der Kapverden, die heute als Naturschutzgebiet dient.",
       hu: "A Zöld-foki-szigetek egyetlen lakatlan szigete, amely ma természetvédelmi terület.",
@@ -80,8 +83,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "São Nicolau",
       hu: "São Nicolau",
       ro: "São Nicolau",
-      en: "São Nicolau"
-    },
+      en: "São Nicolau",
+image: "/poi-images/sao-nicolau-nature-v2.webp"
+},
     description: {
       de: "Eine Insel mit einer abwechslungsreichen Landschaft aus steilen Bergen und fruchtbaren Ebenen.",
       hu: "Változatos tájakkal rendelkező sziget, meredek hegyekkel és termékeny síkságokkal.",
@@ -103,8 +107,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Sal",
       hu: "Sal",
       ro: "Sal",
-      en: "Sal"
-    },
+      en: "Sal",
+image: "/poi-images/sal-nature-v2.webp"
+},
     description: {
       de: "Die sonnigste Insel des Archipels, bekannt für ihre weiten Sandstrände und Salzminen.",
       hu: "A szigetcsoport legnaposabb tagja, amely homokos strandjairól és sóbányáiról ismert.",
@@ -126,8 +131,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Boa Vista",
       hu: "Boa Vista",
       ro: "Boa Vista",
-      en: "Boa Vista"
-    },
+      en: "Boa Vista",
+image: "/poi-images/boa-vista-nature-v2.webp"
+},
     description: {
       de: "Die drittgrößte Insel, geprägt durch wüstenähnliche Landschaften und endlose Dünen.",
       hu: "A harmadik legnagyobb sziget, amelyet sivatagi tájak és végtelen dűnék jellemeznek.",
@@ -149,8 +155,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Maio",
       hu: "Maio",
       ro: "Maio",
-      en: "Maio"
-    },
+      en: "Maio",
+image: "/poi-images/maio-nature-v2.webp"
+},
     description: {
       de: "Eine ruhige Insel mit unberührten Stränden und einer langen Tradition der Salzgewinnung.",
       hu: "Csendes sziget érintetlen tengerpartokkal és a sókitermelés hosszú hagyományával.",
@@ -172,8 +179,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Santiago",
       hu: "Santiago",
       ro: "Santiago",
-      en: "Santiago"
-    },
+      en: "Santiago",
+image: "/poi-images/santiago-nature-v2.webp"
+},
     description: {
       de: "Die größte und bevölkerungsreichste Insel, die sowohl grüne Gebirge als auch trockene Küsten bietet.",
       hu: "A legnagyobb és legnépesebb sziget, amely zöld hegyeket és száraz tengerpartokat is kínál.",
@@ -195,8 +203,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Fogo",
       hu: "Fogo",
       ro: "Fogo",
-      en: "Fogo"
-    },
+      en: "Fogo",
+image: "/poi-images/fogo-nature-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Vulkaninsel, deren Landschaft vom fast 3.000 Meter hohen Pico do Fogo dominiert wird.",
       hu: "Lenyűgöző vulkáni sziget, melynek tájképét a közel 3000 méter magas Pico do Fogo uralja.",
@@ -218,8 +227,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Brava",
       hu: "Brava",
       ro: "Brava",
-      en: "Brava"
-    },
+      en: "Brava",
+image: "/poi-images/brava-nature-v2.webp"
+},
     description: {
       de: "Die kleinste bewohnte Insel, bekannt für ihre üppige Flora und steilen Klippen.",
       hu: "A legkisebb lakott sziget, amely buja növényzetéről és meredek szikláiról ismert.",
@@ -241,8 +251,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Pico do Fogo",
       hu: "Pico do Fogo",
       ro: "Pico do Fogo",
-      en: "Pico do Fogo"
-    },
+      en: "Pico do Fogo",
+image: "/poi-images/pico-do-fogo-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg der Kapverden, ein aktiver Stratovulkan mit einer gewaltigen Caldeira.",
       hu: "A Zöld-foki-szigetek legmagasabb pontja, egy aktív rétegvulkán hatalmas kalderával.",
@@ -264,8 +275,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Topo de Coroa",
       hu: "Topo de Coroa",
       ro: "Topo de Coroa",
-      en: "Topo de Coroa"
-    },
+      en: "Topo de Coroa",
+image: "/poi-images/topo-de-coroa-nature-v2.webp"
+},
     description: {
       de: "Der höchste Punkt auf der Insel Santo Antão, vulkanischen Ursprungs und von karger Schönheit.",
       hu: "Santo Antão szigetének legmagasabb pontja, vulkáni eredetű és kopár szépségű.",
@@ -287,8 +299,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Monte Gordo",
       hu: "Monte Gordo",
       ro: "Monte Gordo",
-      en: "Monte Gordo"
-    },
+      en: "Monte Gordo",
+image: "/poi-images/monte-gordo-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg der Insel São Nicolau, Zentrum eines bedeutenden Naturparks.",
       hu: "São Nicolau szigetének legmagasabb hegye, egy fontos nemzeti park központja.",
@@ -310,8 +323,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Monte Cara",
       hu: "Monte Cara",
       ro: "Monte Cara",
-      en: "Monte Cara"
-    },
+      en: "Monte Cara",
+image: "/poi-images/monte-cara-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Berg bei Mindelo, dessen Silhouette an ein menschliches Gesicht erinnert.",
       hu: "Mindelo melletti jellegzetes hegy, melynek sziluettje emberi arcra emlékeztet.",
@@ -333,8 +347,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Serra Malagueta",
       hu: "Serra Malagueta",
       ro: "Serra Malagueta",
-      en: "Serra Malagueta"
-    },
+      en: "Serra Malagueta",
+image: "/poi-images/serra-malagueta-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug im Norden von Santiago, bekannt für seinen Nebelwald und Wanderwege.",
       hu: "Hegylánc Santiago északi részén, köderdeiről és túraútvonalairól ismert.",
@@ -356,8 +371,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Monte Fontainhas",
       hu: "Monte Fontainhas",
       ro: "Monte Fontainhas",
-      en: "Monte Fontainhas"
-    },
+      en: "Monte Fontainhas",
+image: "/poi-images/monte-fontainhas-nature-v2.webp"
+},
     description: {
       de: "Der höchste Gipfel der Insel Brava, oft in Wolken gehüllt und sehr grün.",
       hu: "Brava szigetének legmagasabb csúcsa, gyakran felhőkbe burkolózik és nagyon zöld.",
@@ -379,8 +395,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Monte Estância",
       hu: "Monte Estância",
       ro: "Monte Estância",
-      en: "Monte Estância"
-    },
+      en: "Monte Estância",
+image: "/poi-images/monte-estancia-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg der Insel Boa Vista, der aus der flachen Wüstenlandschaft herausragt.",
       hu: "Boa Vista szigetének legmagasabb hegye, amely kiemelkedik a lapos sivatagi tájból.",
@@ -402,8 +419,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Baía das Gatas",
       hu: "Baía das Gatas",
       ro: "Baía das Gatas",
-      en: "Baía das Gatas"
-    },
+      en: "Baía das Gatas",
+image: "/poi-images/baia-das-gatas-nature-v2.webp"
+},
     description: {
       de: "Eine natürliche flache Lagune auf São Vicente, ideal zum Schwimmen und für Festivals.",
       hu: "Természetes sekély lagúna São Vicentén, ideális úszásra és fesztiválok megrendezésére.",
@@ -425,8 +443,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Buracona",
       hu: "Buracona",
       ro: "Buracona",
-      en: "Buracona"
-    },
+      en: "Buracona",
+image: "/poi-images/buracona-blue-eye-nature-v2.webp"
+},
     description: {
       de: "Ein natürliches Meeresbecken auf Sal, bekannt für das 'Blaue Auge', ein Lichtphänomen.",
       hu: "Természetes tengeri medence Sal szigetén, amely a 'Kék Szem' nevű fényjelenségről híres.",
@@ -448,8 +467,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Strand von Santa Maria",
       hu: "Santa Maria tengerpart",
       ro: "Plaja Santa Maria",
-      en: "Santa Maria Beach"
-    },
+      en: "Santa Maria Beach",
+image: "/poi-images/santa-maria-beach-nature-v2.webp"
+},
     description: {
       de: "Einer der schönsten Strände des Archipels mit türkisblauem Wasser und feinem Sand.",
       hu: "A szigetvilág egyik legszebb tengerpartja, türkizkék vízzel és finom homokkal.",
@@ -471,8 +491,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Praia de Chaves",
       hu: "Praia de Chaves",
       ro: "Praia de Chaves",
-      en: "Praia de Chaves"
-    },
+      en: "Praia de Chaves",
+image: "/poi-images/chaves-beach-nature-v2.webp"
+},
     description: {
       de: "Ein weitläufiger, unberührter Strand auf Boa Vista, gesäumt von riesigen Sanddünen.",
       hu: "Hatalmas, érintetlen tengerpart Boa Vista szigetén, óriási homokdűnékkel szegélyezve.",
@@ -494,8 +515,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Bucht von Tarrafal",
       hu: "Tarrafali-öböl",
       ro: "Golful Tarrafal",
-      en: "Tarrafal Bay"
-    },
+      en: "Tarrafal Bay",
+image: "/poi-images/tarrafal-bay-nature-v2.webp"
+},
     description: {
       de: "Eine malerische Bucht im Norden von Santiago mit Palmen und weißem Sand.",
       hu: "Gleccseres öböl Santiago északi részén, pálmafákkal és fehér homokkal.",
@@ -517,8 +539,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Fajã d'Água",
       hu: "Fajã d'Água",
       ro: "Fajã d'Água",
-      en: "Fajã d'Água"
-    },
+      en: "Fajã d'Água",
+image: "/poi-images/faja-d-agua-nature-v2.webp"
+},
     description: {
       de: "Ein wunderschöner Küstenort auf Brava mit natürlichen Lavabecken zum Baden.",
       hu: "Gyönyörű tengerparti hely Brava szigetén, fürdésre alkalmas természetes lávamedencékkel.",
@@ -540,8 +563,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Salzsee von Pedra de Lume",
       hu: "Pedra de Lume sós tó",
       ro: "Lacul sărat Pedra de Lume",
-      en: "Pedra de Lume Salt Lake"
-    },
+      en: "Pedra de Lume Salt Lake",
+image: "/poi-images/pedra-de-lume-salt-lake-nature-v2.webp"
+},
     description: {
       de: "Ein Salzsee im Krater eines erloschenen Vulkans, in dem man wie im Toten Meer schweben kann.",
       hu: "Egy kialudt vulkán kráterében található sós tó, ahol lebegni lehet a vízen, mint a Holt-tengerben.",
@@ -563,8 +587,9 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
       de: "Paúl-Tal",
       hu: "Paúl-völgy",
       ro: "Valea Paúl",
-      en: "Paul Valley"
-    },
+      en: "Paul Valley",
+image: "/poi-images/paul-valley-nature-v2.webp"
+},
     description: {
       de: "Das grünste und fruchtbarste Tal der Kapverden, umgeben von steilen Felswänden.",
       hu: "A Zöld-foki-szigetek legzöldebb és legtermékenyebb völgye, meredek sziklafalakkal körülvéve.",

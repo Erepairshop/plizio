@@ -7,7 +7,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-NC",
     coords: [16.485, -28.636],
-    name: { de: "Oranje-Fluss", hu: "Oranje folyó", ro: "Râul Orange", en: "Orange River" },
+    name: { de: "Oranje-Fluss", hu: "Oranje folyó", ro: "Râul Orange", en: "Orange River",
+image: "/poi-images/orange-river-nature-v2.webp"
+},
     description: { de: "Der längste Fluss Südafrikas, der in den Drakensbergen entspringt.", hu: "Dél-Afrika leghosszabb folyója, amely a Drakensberg-hegységben ered.", ro: "Cel mai lung fluviu din Africa de Sud, care izvorăște din Munții Drakensberg.", en: "The longest river in South Africa, originating in the Drakensberg mountains." },
     facts: {
       de: ["Länge ca. 2200 km.", "Mündet in den Atlantik."],
@@ -20,7 +22,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-KZN",
     coords: [29.288, -29.355],
-    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg" },
+    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg",
+image: "/poi-images/drakensberg-nature-v2.webp"
+},
     description: { de: "Das höchste Gebirge im südlichen Afrika.", hu: "Dél-Afrika legmagasabb hegysége.", ro: "Cel mai înalt lanț muntos din sudul Africii.", en: "The highest mountain range in Southern Africa." },
     facts: {
       de: ["Höchster Gipfel Thabana Ntlenyana.", "Teil des Weltnaturerbes."],
@@ -33,7 +37,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-LIM",
     coords: [33.5, -25.1],
-    name: { de: "Limpopo", hu: "Limpopo", ro: "Limpopo", en: "Limpopo River" },
+    name: { de: "Limpopo", hu: "Limpopo", ro: "Limpopo", en: "Limpopo River",
+image: "/poi-images/limpopo-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss, der durch mehrere südafrikanische Provinzen fließt.", hu: "Jelentős folyó, amely több dél-afrikai tartományon folyik keresztül.", ro: "Un râu important care traversează mai multe provincii sud-africane.", en: "A major river flowing through several South African provinces." },
     facts: {
       de: ["Verläuft durch Zimbabwe und Botswana.", "Mündet in den Indischen Ozean."],
@@ -46,7 +52,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [18.406, -33.963],
-    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain" },
+    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain",
+image: "/poi-images/table-mountain-nature-v2.webp"
+},
     description: { de: "Das Wahrzeichen von Kapstadt mit flachem Gipfel.", hu: "Fokváros jelképe a lapos csúcsával.", ro: "Simbolul orașului Cape Town cu un vârf plat.", en: "The landmark of Cape Town with a flat top." },
     facts: {
       de: ["Berühmt für die 'Tischtuch'-Wolken.", "Nationalpark."],
@@ -59,7 +67,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "lake",
     parent: "ZA-KZN",
     coords: [32.483, -28.083],
-    name: { de: "St.-Lucia-See", hu: "St. Lucia-tó", ro: "Lacul St. Lucia", en: "Lake St. Lucia" },
+    name: { de: "St.-Lucia-See", hu: "St. Lucia-tó", ro: "Lacul St. Lucia", en: "Lake St. Lucia",
+image: "/poi-images/lake-st-lucia-nature-v2.webp"
+},
     description: { de: "Ein großes Ästuar-System im iSimangaliso-Wetland-Park.", hu: "Nagy torkolatrendszer az iSimangaliso Vizesélőhely-parkban.", ro: "Un sistem mare de estuare în Parcul iSimangaliso Wetland.", en: "A large estuarine system in the iSimangaliso Wetland Park." },
     facts: {
       de: ["Weltnaturerbe.", "Heimat von Flusspferden und Krokodilen."],
@@ -72,7 +82,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "forest",
     parent: "ZA-LIM",
     coords: [31.5, -24.0],
-    name: { de: "Kruger-Waldgebiete", hu: "Kruger erdőségek", ro: "Pădurile Kruger", en: "Kruger forest areas" },
+    name: { de: "Kruger-Waldgebiete", hu: "Kruger erdőségek", ro: "Pădurile Kruger", en: "Kruger forest areas",
+image: "/poi-images/kruger-forest-nature-v2.webp"
+},
     description: { de: "Die ausgedehnten Wald- und Savannengebiete des Kruger-Nationalparks.", hu: "A Kruger Nemzeti Park kiterjedt erdő- és szavannaterületei.", ro: "Zonele extinse de pădure și savană din Parcul Național Kruger.", en: "The extensive forest and savanna areas of Kruger National Park." },
     facts: {
       de: ["Eines der größten Wildschutzgebiete Afrikas.", "Beheimatet die 'Big Five'."],
@@ -85,7 +97,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-GP",
     coords: [24.0, -28.0],
-    name: { de: "Vaal-Fluss", hu: "Vaal folyó", ro: "Râul Vaal", en: "Vaal River" },
+    name: { de: "Vaal-Fluss", hu: "Vaal folyó", ro: "Râul Vaal", en: "Vaal River",
+image: "/poi-images/vaal-river-nature-v2.webp"
+},
     description: { de: "Der größte Nebenfluss des Oranje-Flusses.", hu: "Az Oranje folyó legnagyobb mellékfolyója.", ro: "Cel mai mare afluent al fluviului Orange.", en: "The largest tributary of the Orange River." },
     facts: {
       de: ["Wichtige Wasserquelle für Gauteng.", "Länge ca. 1120 km."],
@@ -98,7 +112,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.166, -32.416],
-    name: { de: "Cederberge", hu: "Cederberg-hegység", ro: "Munții Cederberg", en: "Cederberg" },
+    name: { de: "Cederberge", hu: "Cederberg-hegység", ro: "Munții Cederberg", en: "Cederberg",
+image: "/poi-images/cederberg-nature-v2.webp"
+},
     description: { de: "Eine spektakuläre Gebirgslandschaft nördlich von Kapstadt.", hu: "Látványos hegyvidék Fokvárostól északra.", ro: "Un peisaj montan spectaculos la nord de Cape Town.", en: "A spectacular mountain range north of Cape Town." },
     facts: {
       de: ["Berühmt für Felsformationen.", "Wandergebiet."],
@@ -111,7 +127,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "sea",
     parent: "ZA-EC",
     coords: [30.0, -32.0],
-    name: { de: "Indischer Ozean Küste", hu: "Indiai-óceán partvidék", ro: "Coasta Oceanului Indian", en: "Indian Ocean coast" },
+    name: { de: "Indischer Ozean Küste", hu: "Indiai-óceán partvidék", ro: "Coasta Oceanului Indian", en: "Indian Ocean coast",
+image: "/poi-images/indian-ocean-coast-nature-v2.webp"
+},
     description: { de: "Der Küstenabschnitt am Indischen Ozean in Südafrika.", hu: "Az Indiai-óceán partszakasza Dél-Afrikában.", ro: "Secțiunea de coastă de la Oceanul Indian în Africa de Sud.", en: "The coastline along the Indian Ocean in South Africa." },
     facts: {
       de: ["Warme Strömungen.", "Beliebte Badeorte."],
@@ -124,7 +142,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "sea",
     parent: "ZA-WC",
     coords: [17.5, -31.0],
-    name: { de: "Atlantikküste", hu: "Atlanti-óceán partvidék", ro: "Coasta Oceanului Atlantic", en: "Atlantic coast" },
+    name: { de: "Atlantikküste", hu: "Atlanti-óceán partvidék", ro: "Coasta Oceanului Atlantic", en: "Atlantic coast",
+image: "/poi-images/atlantic-ocean-coast-nature-v2.webp"
+},
     description: { de: "Die raue Küstenlinie entlang des Atlantiks.", hu: "A zord partszakasz az Atlanti-óceán mentén.", ro: "Linia de coastă aspră de-a lungul Atlanticului.", en: "The rugged coastline along the Atlantic." },
     facts: {
       de: ["Kühle Strömungen.", "Reich an mariner Tierwelt."],
@@ -137,7 +157,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-LIM",
     coords: [31.5, -24.5],
-    name: { de: "Olifants-Fluss", hu: "Olifants folyó", ro: "Râul Olifants", en: "Olifants River" },
+    name: { de: "Olifants-Fluss", hu: "Olifants folyó", ro: "Râul Olifants", en: "Olifants River",
+image: "/poi-images/olifants-river-nature-v2.webp"
+},
     description: { de: "Ein großer Fluss im Nordosten Südafrikas.", hu: "Nagy folyó Dél-Afrika északkeleti részén.", ro: "Un râu mare în nord-estul Africii de Sud.", en: "A major river in the northeast of South Africa." },
     facts: {
       de: ["Fließt durch den Kruger-Nationalpark.", "Nebenfluss des Limpopo."],
@@ -150,7 +172,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "island",
     parent: "ZA-WC",
     coords: [18.36, -33.80],
-    name: { de: "Robben Island", hu: "Robben-sziget", ro: "Insula Robben", en: "Robben Island" },
+    name: { de: "Robben Island", hu: "Robben-sziget", ro: "Insula Robben", en: "Robben Island",
+image: "/poi-images/robben-island-nature-v2.webp"
+},
     description: { de: "Eine Insel vor der Küste von Kapstadt.", hu: "Sziget Fokváros partjainál.", ro: "O insulă în largul coastei Cape Town.", en: "An island off the coast of Cape Town." },
     facts: {
       de: ["UNESCO-Welterbe.", "Historischer Gefängnisort."],
@@ -163,7 +187,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-KZN",
     coords: [28.89, -28.75],
-    name: { de: "Tugela-Fälle", hu: "Tugela-vízesés", ro: "Cascada Tugela", en: "Tugela Falls" },
+    name: { de: "Tugela-Fälle", hu: "Tugela-vízesés", ro: "Cascada Tugela", en: "Tugela Falls",
+image: "/poi-images/tugela-falls-nature-v2.webp"
+},
     description: { de: "Einer der höchsten Wasserfälle der Welt.", hu: "A világ egyik legmagasabb vízesése.", ro: "Una dintre cele mai înalte cascade din lume.", en: "One of the highest waterfalls in the world." },
     facts: {
       de: ["Liegt in den Drakensbergen.", "Spektakuläre Fallhöhe."],
@@ -176,7 +202,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-NC",
     coords: [22.0, -31.0],
-    name: { de: "Karoo", hu: "Karoo", ro: "Karoo", en: "Karoo" },
+    name: { de: "Karoo", hu: "Karoo", ro: "Karoo", en: "Karoo",
+image: "/poi-images/karoo-nature-v2.webp"
+},
     description: { de: "Eine riesige, halbwüstenartige Region.", hu: "Hatalmas, félsivatagos régió.", ro: "O regiune vastă, de tip semideșert.", en: "A vast, semi-desert region." },
     facts: {
       de: ["Prägend für Südafrikas Binnenland.", "Einzigartige Flora."],
@@ -189,7 +217,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "forest",
     parent: "ZA-KZN",
     coords: [32.5, -27.5],
-    name: { de: "iSimangaliso Wetland Park", hu: "iSimangaliso Vizesélőhely-park", ro: "Parcul iSimangaliso Wetland", en: "iSimangaliso Wetland Park" },
+    name: { de: "iSimangaliso Wetland Park", hu: "iSimangaliso Vizesélőhely-park", ro: "Parcul iSimangaliso Wetland", en: "iSimangaliso Wetland Park",
+image: "/poi-images/iSimangaliso-park-nature-v2.webp"
+},
     description: { de: "Ein riesiger Park mit Küstenwäldern und Lagunen.", hu: "Hatalmas park parti erdőkkel és lagúnákkal.", ro: "Un parc vast cu păduri de coastă și lagune.", en: "A huge park with coastal forests and lagoons." },
     facts: {
       de: ["UNESCO-Welterbe.", "Große Biodiversität."],
@@ -202,7 +232,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "forest",
     parent: "ZA-EC",
     coords: [23.9, -34.0],
-    name: { de: "Tsitsikamma-Wald", hu: "Tsitsikamma-erdő", ro: "Pădurea Tsitsikamma", en: "Tsitsikamma Forest" },
+    name: { de: "Tsitsikamma-Wald", hu: "Tsitsikamma-erdő", ro: "Pădurea Tsitsikamma", en: "Tsitsikamma Forest",
+image: "/poi-images/tsitsikamma-forest-nature-v2.webp"
+},
     description: { de: "Ein geschützter Küstenwald entlang der Garden Route.", hu: "Védett parti erdő a Garden Route mentén.", ro: "O pădure de coastă protejată de-a lungul Garden Route.", en: "A protected coastal forest along the Garden Route." },
     facts: {
       de: ["Sehr hohe Bäume.", "Nationalpark."],
@@ -215,7 +247,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.0, -33.3],
-    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg" },
+    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg",
+image: "/poi-images/swartberg-nature-v2.webp"
+},
     description: { de: "Eine markante Gebirgskette im Little Karoo.", hu: "Jellegzetes hegyvonulat a Little Karoo-ban.", ro: "Un lanț muntos distinctiv în Little Karoo.", en: "A prominent mountain range in the Little Karoo." },
     facts: {
       de: ["Spektakuläre Passstraßen.", "Weltnaturerbe-Gebiet."],
@@ -228,7 +262,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-WC",
     coords: [20.5, -34.4],
-    name: { de: "Breede-Fluss", hu: "Breede folyó", ro: "Râul Breede", en: "Breede River" },
+    name: { de: "Breede-Fluss", hu: "Breede folyó", ro: "Râul Breede", en: "Breede River",
+image: "/poi-images/breede-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss im Western Cape.", hu: "Folyó a Western Cape-ben.", ro: "Un râu în Western Cape.", en: "A river in the Western Cape." },
     facts: {
       de: ["Wichtig für die Landwirtschaft.", "Wassersportgebiet."],
@@ -241,7 +277,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-MP",
     coords: [30.8, -24.5],
-    name: { de: "Blyde-River-Canyon", hu: "Blyde-folyó kanyonja", ro: "Canionul râului Blyde", en: "Blyde River Canyon" },
+    name: { de: "Blyde-River-Canyon", hu: "Blyde-folyó kanyonja", ro: "Canionul râului Blyde", en: "Blyde River Canyon",
+image: "/poi-images/blyde-river-canyon-nature-v2.webp"
+},
     description: { de: "Einer der größten 'grünen' Canyons der Welt.", hu: "A világ egyik legnagyobb 'zöld' kanyonja.", ro: "Unul dintre cele mai mari canioane 'verzi' din lume.", en: "One of the largest 'green' canyons in the world." },
     facts: {
       de: ["Spektakuläre Aussichtspunkte.", "Touristenattraktion."],
@@ -254,7 +292,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "forest",
     parent: "ZA-WC",
     coords: [23.0, -34.0],
-    name: { de: "Knysna-Wald", hu: "Knysna-erdő", ro: "Pădurea Knysna", en: "Knysna Forest" },
+    name: { de: "Knysna-Wald", hu: "Knysna-erdő", ro: "Pădurea Knysna", en: "Knysna Forest",
+image: "/poi-images/knysna-forest-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Waldgebiet an der Garden Route.", hu: "Jelentős erdőterület a Garden Route mentén.", ro: "O zonă forestieră importantă de-a lungul Garden Route.", en: "A significant forest area along the Garden Route." },
     facts: {
       de: ["Heimat der Knysna-Elefanten.", "Historisches Holzfällergebiet."],
@@ -267,7 +307,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "lake",
     parent: "ZA-FS",
     coords: [27.0, -28.0],
-    name: { de: "Teko-See", hu: "Teko-tó", ro: "Lacul Teko", en: "Teko Lake" },
+    name: { de: "Teko-See", hu: "Teko-tó", ro: "Lacul Teko", en: "Teko Lake",
+image: "/poi-images/lake-teko-nature-v2.webp"
+},
     description: { de: "Ein kleinerer See im Free State.", hu: "Kisebb tó a Free State-ben.", ro: "Un lac mai mic în Free State.", en: "A smaller lake in the Free State." },
     facts: {
       de: ["Vogelbeobachtungsgebiet.", "Ruheoase."],
@@ -280,7 +322,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-KZN",
     coords: [28.9, -28.7],
-    name: { de: "Drakensberg-Amphitheater", hu: "Drakensberg amfiteátrum", ro: "Amfiteatrul Drakensberg", en: "Drakensberg Amphitheatre" },
+    name: { de: "Drakensberg-Amphitheater", hu: "Drakensberg amfiteátrum", ro: "Amfiteatrul Drakensberg", en: "Drakensberg Amphitheatre",
+image: "/poi-images/drakensberg-amphitheatre-nature-v2.webp"
+},
     description: { de: "Eine riesige Felswand in den Drakensbergen.", hu: "Hatalmas sziklafal a Drakensberg-hegységben.", ro: "Un perete stâncos vast în Munții Drakensberg.", en: "A huge rock wall in the Drakensberg." },
     facts: {
       de: ["Beeindruckende Geologie.", "Wanderparadies."],
@@ -293,7 +337,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-FS",
     coords: [28.6, -28.5],
-    name: { de: "Golden Gate Highlands", hu: "Golden Gate Highlands", ro: "Golden Gate Highlands", en: "Golden Gate Highlands" },
+    name: { de: "Golden Gate Highlands", hu: "Golden Gate Highlands", ro: "Golden Gate Highlands", en: "Golden Gate Highlands",
+image: "/poi-images/golden-gate-highlands-nature-v2.webp"
+},
     description: { de: "Ein Gebirgspark mit spektakulären Sandsteinfelsen.", hu: "Hegyi park látványos homokkősziklákkal.", ro: "Un parc montan cu stânci de gresie spectaculoase.", en: "A mountain park with spectacular sandstone cliffs." },
     facts: {
       de: ["Goldenes Licht bei Sonnenuntergang.", "Schutzgebiet."],
@@ -306,7 +352,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "sea",
     parent: "ZA-WC",
     coords: [20.0, -34.8],
-    name: { de: "Kap Agulhas", hu: "Agulhas-fok", ro: "Capul Agulhas", en: "Cape Agulhas" },
+    name: { de: "Kap Agulhas", hu: "Agulhas-fok", ro: "Capul Agulhas", en: "Cape Agulhas",
+image: "/poi-images/agullhas-cape-nature-v2.webp"
+},
     description: { de: "Der südlichste Punkt des afrikanischen Kontinents.", hu: "Az afrikai kontinens legdélibb pontja.", ro: "Cel mai sudic punct al continentului african.", en: "The southernmost point of the African continent." },
     facts: {
       de: ["Treffpunkt von Atlantik und Indischem Ozean.", "Historischer Leuchtturm."],
@@ -319,7 +367,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "forest",
     parent: "ZA-NC",
     coords: [22.0, -26.0],
-    name: { de: "Kalahari", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari" },
+    name: { de: "Kalahari", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari",
+image: "/poi-images/kalahari-desert-nature-v2.webp"
+},
     description: { de: "Eine weite, trockene Region, die teilweise in Südafrika liegt.", hu: "Hatalmas, száraz régió, amely részben Dél-Afrikában fekszik.", ro: "O regiune vastă și aridă care se află parțial în Africa de Sud.", en: "A vast, dry region partially located in South Africa." },
     facts: {
       de: ["Rote Sanddünen.", "Einzigartige Tierwelt."],
@@ -332,7 +382,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "lake",
     parent: "ZA-NW",
     coords: [26.0, -26.0],
-    name: { de: "Uphole-See", hu: "Uphole-tó", ro: "Lacul Uphole", en: "Uphole Lake" },
+    name: { de: "Uphole-See", hu: "Uphole-tó", ro: "Lacul Uphole", en: "Uphole Lake",
+image: "/poi-images/uphole-lake-nature-v2.webp"
+},
     description: { de: "Ein kleinerer See im Nordwesten Südafrikas.", hu: "Kisebb tó Dél-Afrika északnyugati részén.", ro: "Un lac mai mic în nord-vestul Africii de Sud.", en: "A smaller lake in the northwest of South Africa." },
     facts: {
       de: ["Ruhige Umgebung.", "Lokal bekannt."],
@@ -345,7 +397,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZA-EC",
     coords: [25.4, -32.2],
-    name: { de: "Mountain Zebra National Park", hu: "Mountain Zebra Nemzeti Park", ro: "Parcul Național Mountain Zebra", en: "Mountain Zebra National Park" },
+    name: { de: "Mountain Zebra National Park", hu: "Mountain Zebra Nemzeti Park", ro: "Parcul Național Mountain Zebra", en: "Mountain Zebra National Park",
+image: "/poi-images/mountain-zebra-park-nature-v2.webp"
+},
     description: { de: "Ein Park zum Schutz der Bergzebras.", hu: "Park a hegyi zebrák védelmére.", ro: "Un parc pentru protecția zebrelor de munte.", en: "A park for the protection of mountain zebras." },
     facts: {
       de: ["Spektakuläre Berglandschaft.", "Erfolgreiches Schutzprojekt."],
@@ -358,7 +412,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "forest",
     parent: "ZA-EC",
     coords: [25.8, -33.4],
-    name: { de: "Addo-Elefanten-Nationalpark", hu: "Addo Elefánt Nemzeti Park", ro: "Parcul Național Addo Elephant", en: "Addo Elephant National Park" },
+    name: { de: "Addo-Elefanten-Nationalpark", hu: "Addo Elefánt Nemzeti Park", ro: "Parcul Național Addo Elephant", en: "Addo Elephant National Park",
+image: "/poi-images/add-elephant-park-nature-v2.webp"
+},
     description: { de: "Ein bekannter Park für seine Elefantenherden.", hu: "Ismert park az elefántcsordáiról.", ro: "Un parc cunoscut pentru cirezile sale de elefanți.", en: "A well-known park for its elephant herds." },
     facts: {
       de: ["Umfasst auch Küstenbereiche.", "Biodiversität."],
@@ -371,7 +427,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "river",
     parent: "ZA-NC",
     coords: [16.4, -28.6],
-    name: { de: "Oranje-Fluss-Mündung", hu: "Oranje folyó torkolata", ro: "Delta râului Orange", en: "Orange River Mouth" },
+    name: { de: "Oranje-Fluss-Mündung", hu: "Oranje folyó torkolata", ro: "Delta râului Orange", en: "Orange River Mouth",
+image: "/poi-images/orange-river-mouth-nature-v2.webp"
+},
     description: { de: "Das Delta des Oranje-Flusses am Atlantik.", hu: "Az Oranje folyó deltája az Atlanti-óceánnál.", ro: "Delta râului Orange la Atlantic.", en: "The delta of the Orange River at the Atlantic." },
     facts: {
       de: ["Wichtiges Feuchtgebiet.", "Vogelparadies."],
@@ -384,7 +442,9 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     type: "sea",
     parent: "ZA-EC",
     coords: [29.0, -32.0],
-    name: { de: "Wild Coast", hu: "Wild Coast", ro: "Wild Coast", en: "Wild Coast" },
+    name: { de: "Wild Coast", hu: "Wild Coast", ro: "Wild Coast", en: "Wild Coast",
+image: "/poi-images/wild-coast-nature-v2.webp"
+},
     description: { de: "Ein unberührter, rauer Küstenabschnitt am Indischen Ozean.", hu: "Érintetlen, zord partszakasz az Indiai-óceánnál.", ro: "O secțiune de coastă neatinsă și aspră la Oceanul Indian.", en: "An untouched, rugged coastline on the Indian Ocean." },
     facts: {
       de: ["Spektakuläre Klippen.", "Abgelegene Strände."],

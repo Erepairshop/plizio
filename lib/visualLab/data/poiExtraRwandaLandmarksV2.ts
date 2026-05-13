@@ -11,8 +11,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kigali Convention Centre",
       hu: "Kigali Kongresszusi Központ",
       ro: "Centrul de Conven?ii Kigali",
-      en: "Kigali Convention Centre"
-    },
+      en: "Kigali Convention Centre",
+image: "/poi-images/rw-kigali-convention-centre-landmarks-v2.webp"
+},
     description: {
       de: "Ein ikonisches Kongresszentrum in Ruanda, bekannt für seine beeindruckende, leuchtende Kuppel, die an eine traditionelle ruandische Hütte erinnert.",
       hu: "Egy ikonikus kongresszusi központ Ruandában, amely lenyugözo, világító kupolájáról ismert, ami a hagyományos ruandai kunyhókat idézi.",
@@ -59,8 +60,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kigali Genozid-Gedenkstätte",
       hu: "Kigali Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Kigali",
-      en: "Kigali Genocide Memorial"
-    },
+      en: "Kigali Genocide Memorial",
+image: "/poi-images/rw-kigali-genocide-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Eine wichtige Gedenkstätte und Museum in Kigali, das an die Opfer des Völkermords in Ruanda 1994 erinnert und als Begräbnisstätte für über 250.000 Menschen dient.",
       hu: "Egy fontos emlékmu és múzeum Kigaliban, amely az 1994-es ruandai népirtás áldozatainak állít emléket, és több mint 250 000 ember temetkezési helye.",
@@ -107,8 +109,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "BK Arena",
       hu: "BK Aréna",
       ro: "BK Arena",
-      en: "BK Arena"
-    },
+      en: "BK Arena",
+image: "/poi-images/rw-bk-arena-landmarks-v2.webp"
+},
     description: {
       de: "Die größte Mehrzweckhalle in Ostafrika, die für Sportveranstaltungen, Konzerte und große Konferenzen in Kigali genutzt wird.",
       hu: "Kelet-Afrika legnagyobb többcélú arénája, amelyet sporteseményekre, koncertekre és nagy konferenciákra használnak Kigaliban.",
@@ -155,8 +158,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kigali City Tower",
       hu: "Kigali City Tower",
       ro: "Turnul Ora?ului Kigali",
-      en: "Kigali City Tower"
-    },
+      en: "Kigali City Tower",
+image: "/poi-images/rw-kigali-city-tower-landmarks-v2.webp"
+},
     description: {
       de: "Eines der höchsten Gebäude in Ruanda, ein moderner Wolkenkratzer im Herzen von Kigali, der Büros und ein großes Einkaufszentrum beherbergt.",
       hu: "Ruanda egyik legmagasabb épülete, egy modern felhokarcoló Kigali szívében, amely irodáknak és egy nagy bevásárlóközpontnak ad otthont.",
@@ -203,8 +207,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Ethnographisches Museum",
       hu: "Néprajzi Múzeum",
       ro: "Muzeul Etnografic",
-      en: "Ethnographic Museum"
-    },
+      en: "Ethnographic Museum",
+image: "/poi-images/rw-ethnographic-museum-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges Museum in Butare (Huye), das eine der besten ethnologischen Sammlungen Zentralafrikas zur traditionellen ruandischen Kultur beherbergt.",
       hu: "Egy fontos múzeum Butare (Huye) városában, amely Közép-Afrika egyik legjobb néprajzi gyujteményét orzi a hagyományos ruandai kultúráról.",
@@ -251,8 +256,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Königspalast-Museum in Nyanza",
       hu: "Királyi Palota Múzeum Nyanza",
       ro: "Muzeul Palatului Regal din Nyanza",
-      en: "King's Palace Museum Nyanza"
-    },
+      en: "King's Palace Museum Nyanza",
+image: "/poi-images/rw-kings-palace-museum-landmarks-v2.webp"
+},
     description: {
       de: "Eine detaillierte Rekonstruktion der traditionellen königlichen Residenz in Nyanza, die Einblicke in die vorkoloniale ruandische Monarchie bietet.",
       hu: "A hagyományos királyi rezidencia részletes rekonstrukciója Nyanzában, amely bemutatja a gyarmatosítás elotti ruandai monarchiát.",
@@ -299,8 +305,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Murambi Genozid-Gedenkstätte",
       hu: "Murambi Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Murambi",
-      en: "Murambi Genocide Memorial"
-    },
+      en: "Murambi Genocide Memorial",
+image: "/poi-images/rw-murambi-genocide-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Eine ehemalige technische Schule in Südruanda, die zu einer erschütternden Gedenkstätte für die Tausenden Tutsi wurde, die dort 1994 massakriert wurden.",
       hu: "Egykori muszaki iskola Dél-Ruandában, amely egy megrázó emlékmuvé vált az ott 1994-ben lemészárolt több ezer tuszi számára.",
@@ -347,8 +354,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Ntarama Genozid-Gedenkstätte",
       hu: "Ntarama Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Ntarama",
-      en: "Ntarama Genocide Memorial"
-    },
+      en: "Ntarama Genocide Memorial",
+image: "/poi-images/rw-ntarama-genocide-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Eine ehemalige katholische Kirche südlich von Kigali, in der 1994 fünftausend Menschen Zuflucht suchten und getötet wurden.",
       hu: "Egy volt katolikus templom Kigalitól délre, ahol 1994-ben ötezer ember keresett menedéket és vesztette életét.",
@@ -395,8 +403,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Nyamata Genozid-Gedenkstätte",
       hu: "Nyamata Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Nyamata",
-      en: "Nyamata Genocide Memorial"
-    },
+      en: "Nyamata Genocide Memorial",
+image: "/poi-images/rw-nyamata-genocide-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Eine Gedenkstätte in einer ehemaligen Kirche im Distrikt Bugesera, die die Brutalität des Völkermords von 1994 und das Versagen von Kirchen als sichere Zufluchtsorte zeigt.",
       hu: "Egy emlékmu egy egykori templomban Bugesera kerületben, amely az 1994-es népirtás brutalitását és a templomok biztonságos menedékként való kudarcát mutatja be.",
@@ -443,8 +452,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Bisesero Genozid-Gedenkstätte",
       hu: "Bisesero Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Bisesero",
-      en: "Bisesero Genocide Memorial"
-    },
+      en: "Bisesero Genocide Memorial",
+image: "/poi-images/rw-bisesero-genocide-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Bekannt als das Denkmal des Widerstands, ehrt dieser Ort die Tutsi, die sich auf den Hügeln von Bisesero tapfer gegen die Milizen verteidigten.",
       hu: "Az Ellenállás Emlékmuveként ismert helyszín azokat a tuszikat tiszteli, akik bátran védekeztek a milíciák ellen a Bisesero dombjain.",
@@ -491,8 +501,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Camp Kigali Belgisches Denkmal",
       hu: "Camp Kigali Belga Emlékmu",
       ro: "Monumentul Belgian Camp Kigali",
-      en: "Camp Kigali Belgian Monument"
-    },
+      en: "Camp Kigali Belgian Monument",
+image: "/poi-images/rw-camp-kigali-belgian-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein kleines Museum und Denkmal in Kigali am Ort, wo zehn belgische UN-Friedenssoldaten am ersten Tag des Völkermords 1994 ermordet wurden.",
       hu: "Egy kis múzeum és emlékmu Kigaliban, azon a helyen, ahol 1994-ben a népirtás elso napján tíz belga ENSZ békefenntartót gyilkoltak meg.",
@@ -539,8 +550,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kunstmuseum von Ruanda",
       hu: "Ruandai Muvészeti Múzeum",
       ro: "Muzeul de Arta din Rwanda",
-      en: "Rwanda Art Museum"
-    },
+      en: "Rwanda Art Museum",
+image: "/poi-images/rw-rwanda-art-museum-landmarks-v2.webp"
+},
     description: {
       de: "Das im ehemaligen Präsidentenpalast in Kanombe untergebrachte Museum zeigt zeitgenössische Kunstwerke aus Ruanda und anderen Teilen der Welt.",
       hu: "Az egykori kanombei elnöki palotában található múzeum kortárs muvészeti alkotásokat mutat be Ruandából és a világ más részeirol.",
@@ -587,8 +599,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kandt-Haus-Museum",
       hu: "Kandt Ház Múzeum",
       ro: "Muzeul Casei Kandt",
-      en: "Kandt House Museum"
-    },
+      en: "Kandt House Museum",
+image: "/poi-images/rw-kandt-house-museum-landmarks-v2.webp"
+},
     description: {
       de: "Das Museum befindet sich in der ehemaligen Residenz von Richard Kandt, dem ersten deutschen Residenten in Ruanda, und befasst sich mit der Naturgeschichte und Kolonialzeit.",
       hu: "A múzeum Richard Kandt, Ruanda elso német rezidensének egykori otthonában található, és a természettörténettel, valamint a gyarmati korszakkal foglalkozik.",
@@ -636,8 +649,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Inema Arts Center",
       hu: "Inema Muvészeti Központ",
       ro: "Centrul de Arte Inema",
-      en: "Inema Arts Center"
-    },
+      en: "Inema Arts Center",
+image: "/poi-images/rw-inema-arts-center-landmarks-v2.webp"
+},
     description: {
       de: "Eine der lebhaftesten Kunstgalerien in Kigali, gegründet von zwei ruandischen Brüdern, die lokale Künstler fördert und eine Plattform für kreativen Ausdruck bietet.",
       hu: "Kigali egyik legpezsgobb muvészeti galériája, amelyet két ruandai testvér alapított, a helyi muvészek támogatására és a kreatív kifejezés platformjának biztosítására.",
@@ -684,8 +698,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Niyo Arts Gallery",
       hu: "Niyo Muvészeti Galéria",
       ro: "Galeria de Arta Niyo",
-      en: "Niyo Arts Gallery"
-    },
+      en: "Niyo Arts Gallery",
+image: "/poi-images/rw-niyo-arts-gallery-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges kulturelles und künstlerisches Zentrum in Kigali, das nicht nur lokale Kunst präsentiert, sondern auch gefährdeten Kindern durch Kunstausbildung hilft.",
       hu: "Fontos kulturális és muvészeti központ Kigaliban, amely nemcsak a helyi muvészetet mutatja be, hanem veszélyeztetett gyermekeket is segít muvészeti oktatással.",
@@ -732,8 +747,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Iby'Iwacu Kulturdorf",
       hu: "Iby'Iwacu Kulturális Falu",
       ro: "Satul Cultural Iby'Iwacu",
-      en: "Iby'Iwacu Cultural Village"
-    },
+      en: "Iby'Iwacu Cultural Village",
+image: "/poi-images/rw-ibyiwacu-cultural-village-landmarks-v2.webp"
+},
     description: {
       de: "Ein lebendiges Museum nahe dem Vulkan-Nationalpark, in dem Besucher traditionelle ruandische Kultur, Tänze und das Leben ehemaliger Wilderer erleben können.",
       hu: "Egy élo múzeum a Vulkánok Nemzeti Park közelében, ahol a látogatók megtapasztalhatják a hagyományos ruandai kultúrát, táncokat és az egykori orvvadászok életét.",
@@ -781,8 +797,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Heiligtum Unserer Lieben Frau von Kibeho",
       hu: "Kibehoi Miasszonyunk Szentély",
       ro: "Sanctuarul Fecioarei Maria din Kibeho",
-      en: "Our Lady of Kibeho Sanctuary"
-    },
+      en: "Our Lady of Kibeho Sanctuary",
+image: "/poi-images/rw-our-lady-of-kibeho-sanctuary-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger katholischer Wallfahrtsort in Südrwanda, an dem in den 1980er Jahren Marienerscheinungen vom Vatikan offiziell anerkannt wurden.",
       hu: "Egy fontos katolikus zarándokhely Dél-Ruandában, ahol az 1980-as években történt Mária-jelenéseket a Vatikán hivatalosan elismerte.",
@@ -829,8 +846,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Umweltmuseum Karongi",
       hu: "Karongi Környezetvédelmi Múzeum",
       ro: "Muzeul Mediului Karongi",
-      en: "Museum of Environment Karongi"
-    },
+      en: "Museum of Environment Karongi",
+image: "/poi-images/rw-museum-of-environment-karongi-landmarks-v2.webp"
+},
     description: {
       de: "Ein einzigartiges Museum am Ufer des Kivu-Sees, das sich auf erneuerbare Energien, den Klimawandel und den Schutz der ruandischen Umwelt konzentriert.",
       hu: "Egy egyedülálló múzeum a Kivu-tó partján, amely a megújuló energiákra, a klímaváltozásra és a ruandai környezet védelmére összpontosít.",
@@ -877,8 +895,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Amahoro-Nationalstadion",
       hu: "Amahoro Nemzeti Stadion",
       ro: "Stadionul Național Amahoro",
-      en: "Amahoro National Stadium"
-    },
+      en: "Amahoro National Stadium",
+image: "/poi-images/rw-amahoro-national-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Mehrzweckstadion in Ruanda, das hauptsächlich für Fußballspiele genutzt wird und während des Völkermords 1994 als Zufluchtsort der UN diente.",
       hu: "A legnagyobb többcélú stadion Ruandában, amelyet foleg labdarúgó-mérkozésekre használnak, és amely 1994-ben az ENSZ menedékhelyeként szolgált.",
@@ -925,8 +944,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kathedrale Saint-Michel in Kigali",
       hu: "Saint-Michel Katedrális Kigali",
       ro: "Catedrala Saint-Michel Kigali",
-      en: "Cathedral of St. Michel Kigali"
-    },
+      en: "Cathedral of St. Michel Kigali",
+image: "/poi-images/rw-cathedral-of-st-michel-kigali-landmarks-v2.webp"
+},
     description: {
       de: "Die wichtigste römisch-katholische Kirche in Kigali, die sich durch ihre markante Architektur und ihre zentrale Rolle in der katholischen Gemeinschaft auszeichnet.",
       hu: "A legfontosabb római katolikus templom Kigaliban, amely jellegzetes építészetével és a katolikus közösségben betöltött központi szerepével tunik ki.",
@@ -973,8 +993,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kigali Pelé Stadion",
       hu: "Kigali Pelé Stadion",
       ro: "Stadionul Kigali Pelé",
-      en: "Kigali Pelé Stadium"
-    },
+      en: "Kigali Pelé Stadium",
+image: "/poi-images/rw-kigali-pele-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges Fußballstadion in Nyamirambo, Kigali, das 2023 zu Ehren der brasilianischen Fußballlegende Pelé umbenannt und renoviert wurde.",
       hu: "Egy fontos labdarúgó stadion Kigaliban (Nyamirambo), amelyet 2023-ban a brazil futballlegenda, Pelé tiszteletére neveztek át és újítottak fel.",
@@ -1021,8 +1042,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Ubumwe Grande Hotel",
       hu: "Ubumwe Grande Hotel",
       ro: "Ubumwe Grande Hotel",
-      en: "Ubumwe Grande Hotel"
-    },
+      en: "Ubumwe Grande Hotel",
+image: "/poi-images/rw-ubumwe-grande-hotel-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes, markantes Hochhaushotel im Geschäftszentrum von Kigali, das für seinen Panoramablick über die Hügel der Stadt bekannt ist.",
       hu: "Egy modern, jellegzetes toronyhotel Kigali üzleti központjában, amely a város dombjaira nyíló panorámájáról híres.",
@@ -1069,8 +1091,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kathedrale Unserer Lieben Frau der Weisheit",
       hu: "Bölcsesség Miasszonyunk Katedrális",
       ro: "Catedrala Maicii Domnului a În?elepciunii",
-      en: "Cathedral of Our Lady of Wisdom Butare"
-    },
+      en: "Cathedral of Our Lady of Wisdom Butare",
+image: "/poi-images/rw-cathedral-of-our-lady-of-wisdom-butare-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Backsteinkathedrale und das wichtigste religiöse Gebäude in Butare (Huye), der historischen akademischen Hauptstadt Ruandas.",
       hu: "Egy lenyugözo tégla katedrális és a legfontosabb vallási épület Butare (Huye) városában, Ruanda történelmi akadémiai fovárosában.",
@@ -1117,8 +1140,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Christkönig-Pfarrei Nyanza",
       hu: "Krisztus Király Plébánia Nyanza",
       ro: "Parohia Cristos Regele Nyanza",
-      en: "Nyanza Christ the King Parish"
-    },
+      en: "Nyanza Christ the King Parish",
+image: "/poi-images/rw-nyanza-christ-the-king-parish-landmarks-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Kirche in Nyanza, die eng mit der Geschichte der ruandischen Königsfamilie und der Christianisierung des Landes verbunden ist.",
       hu: "Történelmileg jelentos templom Nyanzában, amely szorosan kapcsolódik a ruandai királyi család történetéhez és az ország keresztényesítéséhez.",
@@ -1165,8 +1189,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Große Moschee von Gisenyi",
       hu: "Gisenyi Nagy Mecset",
       ro: "Marea Moschee din Gisenyi",
-      en: "Gisenyi Grand Mosque"
-    },
+      en: "Gisenyi Grand Mosque",
+image: "/poi-images/rw-gisenyi-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Ein auffälliges islamisches Gebetshaus in Rubavu (Gisenyi) nahe der kongolesischen Grenze, das die wachsende muslimische Gemeinschaft Ruandas repräsentiert.",
       hu: "Egy feltuno iszlám imaház Rubavuban (Gisenyi), a kongói határ közelében, amely a növekvo ruandai muszlim közösséget képviseli.",
@@ -1213,8 +1238,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kathedrale von Ruhengeri",
       hu: "Ruhengeri Katedrális",
       ro: "Catedrala din Ruhengeri",
-      en: "Ruhengeri Cathedral"
-    },
+      en: "Ruhengeri Cathedral",
+image: "/poi-images/rw-ruhengeri-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkathedrale der Diözese Ruhengeri in der Stadt Musanze, einem wichtigen Ausgangspunkt für Gorilla-Trekking-Touristen.",
       hu: "A Ruhengeri egyházmegye fo katedrálisa Musanze városában, amely a gorillatúrák turistáinak fontos kiindulópontja.",
@@ -1261,8 +1287,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Kirche Sainte Famille in Kigali",
       hu: "Sainte Famille Templom Kigali",
       ro: "Biserica Sainte Famille Kigali",
-      en: "Sainte Famille Church Kigali"
-    },
+      en: "Sainte Famille Church Kigali",
+image: "/poi-images/rw-sainte-famille-church-landmarks-v2.webp"
+},
     description: {
       de: "Eine der größten und ältesten Kirchen in Kigali, die eine komplexe Geschichte hat, da sie während des Völkermords 1994 Schauplatz sowohl von Zuflucht als auch von Verrat war.",
       hu: "Kigali egyik legnagyobb és legrégebbi temploma, amely összetett történelemmel rendelkezik, mivel 1994-ben a menedék és az árulás helyszíne is volt.",
@@ -1309,8 +1336,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "M&M Plaza",
       hu: "M&M Plaza",
       ro: "M&M Plaza",
-      en: "M&M Plaza"
-    },
+      en: "M&M Plaza",
+image: "/poi-images/rw-m-m-plaza-kigali-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Geschäftsgebäude in Kigali, das die schnelle wirtschaftliche und architektonische Entwicklung Ruandas im 21. Jahrhundert veranschaulicht.",
       hu: "Egy modern üzleti épület Kigaliban, amely a 21. századi Ruanda gyors gazdasági és építészeti fejlodését szemlélteti.",
@@ -1357,8 +1385,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Sorwathe Teefabrik",
       hu: "Sorwathe Teagyár",
       ro: "Fabrica de Ceai Sorwathe",
-      en: "Sorwathe Tea Factory"
-    },
+      en: "Sorwathe Tea Factory",
+image: "/poi-images/rw-sorwathe-tea-factory-landmarks-v2.webp"
+},
     description: {
       de: "Eine der ältesten und größten Teefabriken in Ruanda, umgeben von malerischen Teeplantagen, die einen großen Beitrag zur Agrarwirtschaft leisten.",
       hu: "Ruanda egyik legrégebbi és legnagyobb teagyára, amelyet festoi teaültetvények vesznek körül, és nagyban hozzájárul az agrártörténelemhez.",
@@ -1405,8 +1434,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       de: "Rusumo-Brücke",
       hu: "Rusumo híd",
       ro: "Podul Rusumo",
-      en: "Rusumo Bridge"
-    },
+      en: "Rusumo Bridge",
+image: "/poi-images/rw-rusumo-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine strategisch wichtige internationale Brücke über den Akagera-Fluss an der Grenze zwischen Ruanda und Tansania in der Nähe der Rusumo-Fälle.",
       hu: "Stratégiailag fontos nemzetközi híd az Akagera folyón Ruanda és Tanzánia határán, a Rusumo-vízesés közelében.",

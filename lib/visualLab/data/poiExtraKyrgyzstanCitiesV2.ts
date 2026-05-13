@@ -10,8 +10,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Bischkek",
       hu: "Biskek",
       ro: "Bishkek",
-      en: "Bishkek"
-    },
+      en: "Bishkek",
+image: "/poi-images/bishkek-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt und größte Stadt Kirgisistans, gelegen im weiten Tschüi-Tal am Fuße des Tian-Shan-Gebirges.",
       hu: "Kirgizisztán fővárosa és legnagyobb városa, amely a tágas Csüi-völgyben fekszik a Tien-san hegység lábánál.",
@@ -57,8 +58,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Osch",
       hu: "Os",
       ro: "Osh",
-      en: "Osh"
-    },
+      en: "Osh",
+image: "/poi-images/osh-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt Kirgisistans, oft als südliche Hauptstadt bezeichnet, mit einer über 3000 Jahre alten Geschichte.",
       hu: "Kirgizisztán második legnagyobb városa, amelyet gyakran a déli fővárosnak is neveznek, és több mint 3000 éves múlttal rendelkezik.",
@@ -104,8 +106,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Dschalalabat",
       hu: "Dzsalalabad",
       ro: "Jalal-Abad",
-      en: "Jalal-Abad"
-    },
+      en: "Jalal-Abad",
+image: "/poi-images/jalal-abad-cities-v2.webp"
+},
     description: {
       de: "Eine der größten Städte im Süden des Landes, bekannt für ihre Heilquellen und Mineralwässer.",
       hu: "Az ország déli részének egyik legnagyobb városa, amely gyógyforrásairól és ásványvizeiről ismert.",
@@ -151,8 +154,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Karakol",
       hu: "Karakol",
       ro: "Karakol",
-      en: "Karakol"
-    },
+      en: "Karakol",
+image: "/poi-images/karakol-cities-v2.webp"
+},
     description: {
       de: "Die Verwaltungshauptstadt des Gebiets Yssykköl, gelegen am östlichen Ende des gleichnamigen Sees.",
       hu: "Az Iszik-köl tartomány közigazgatási központja, amely a tó keleti végénél helyezkedik el.",
@@ -198,8 +202,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Tokmok",
       hu: "Tokmok",
       ro: "Tokmok",
-      en: "Tokmok"
-    },
+      en: "Tokmok",
+image: "/poi-images/tokmok-cities-v2.webp"
+},
     description: {
       de: "Eine bedeutende Industriestadt im Tschüi-Tal, die einst eine wichtige Station an der alten Seidenstraße war.",
       hu: "Jelentős iparváros a Csüi-völgyben, amely egykor az ősi Selyemút egyik fontos állomása volt.",
@@ -245,8 +250,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Karabalta",
       hu: "Kara-Balta",
       ro: "Kara-Balta",
-      en: "Kara-Balta"
-    },
+      en: "Kara-Balta",
+image: "/poi-images/kara-balta-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Industriestadt westlich von Bischkek, bekannt für ihre Uranaufbereitung und Lebensmittelindustrie.",
       hu: "Fontos iparváros Biskektől nyugatra, amely uránfeldolgozó és élelmiszeriparáról ismert.",
@@ -292,8 +298,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Naryn",
       hu: "Narin",
       ro: "Naryn",
-      en: "Naryn"
-    },
+      en: "Naryn",
+image: "/poi-images/naryn-cities-v2.webp"
+},
     description: {
       de: "Eine hochgelegene Stadt in Zentral-Kirgisistan, die am gleichnamigen Fluss liegt und von hohen Bergen umgeben ist.",
       hu: "Közép-Kirgizisztán magasan fekvő városa, amely az azonos nevű folyó mentén található, hegyekkel körülvéve.",
@@ -339,8 +346,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Ösgön",
       hu: "Özgön",
       ro: "Uzgen",
-      en: "Uzgen"
-    },
+      en: "Uzgen",
+image: "/poi-images/uzgen-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt im Ferganatal, die einst eine Hauptstadt des Karachaniden-Reiches war.",
       hu: "Történelmi város a Fergana-völgyben, amely egykor a Karahánida Birodalom egyik fővárosa volt.",
@@ -386,8 +394,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Balyktschy",
       hu: "Balikcsi",
       ro: "Balykchy",
-      en: "Balykchy"
-    },
+      en: "Balykchy",
+image: "/poi-images/balykchy-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am westlichen Ende des Yssykköl-Sees, die lange Zeit ein wichtiger Verkehrsknotenpunkt war.",
       hu: "Város az Iszik-köl tó nyugati végénél, amely hosszú ideig fontos közlekedési csomópont volt.",
@@ -433,8 +442,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Talas",
       hu: "Talasz",
       ro: "Talas",
-      en: "Talas"
-    },
+      en: "Talas",
+image: "/poi-images/talas-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Nordwesten des Landes, gelegen im Talas-Tal und abgeschirmt durch hohe Gebirgsketten.",
       hu: "Az ország északnyugati részén, a Talasz-völgyben fekvő város, amelyet magas hegyláncok védenek.",
@@ -480,8 +490,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kysyl-Kija",
       hu: "Kizil-Kija",
       ro: "Kyzyl-Kiya",
-      en: "Kyzyl-Kiya"
-    },
+      en: "Kyzyl-Kiya",
+image: "/poi-images/kyzyl-kiya-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Süden Kirgisistans, die sich als eines der ältesten Kohlebergbauzentren Zentralasiens entwickelte.",
       hu: "Város Dél-Kirgizisztánban, amely Közép-Ázsia egyik legrégebbi szénbányászati központjaként fejlődött ki.",
@@ -527,8 +538,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Batken",
       hu: "Batken",
       ro: "Batken",
-      en: "Batken"
-    },
+      en: "Batken",
+image: "/poi-images/batken-cities-v2.webp"
+},
     description: {
       de: "Die Verwaltungshauptstadt des südwestlichsten Gebiets Kirgisistans, umgeben von komplexen internationalen Grenzen.",
       hu: "Kirgizisztán legdélnyugatibb régiójának közigazgatási központja, amelyet bonyolult nemzetközi határok vesznek körül.",
@@ -576,8 +588,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Rassakow",
       hu: "Razzakov",
       ro: "Razzakov",
-      en: "Razzakov"
-    },
+      en: "Razzakov",
+image: "/poi-images/razzakov-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im äußersten Westen Kirgisistans, die früher als Isfana bekannt war.",
       hu: "Kirgizisztán legnyugatibb városa, amely korábban Iszfana néven volt ismert.",
@@ -623,8 +636,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Karasuu",
       hu: "Kara-Szuu",
       ro: "Kara-Suu",
-      en: "Kara-Suu"
-    },
+      en: "Kara-Suu",
+image: "/poi-images/kara-suu-cities-v2.webp"
+},
     description: {
       de: "Eine Grenzstadt nahe Osch, die durch einen Kanal direkt von der usbekischen Stadt Qorasuv getrennt ist.",
       hu: "Határváros Os közelében, amelyet egy csatorna választ el az üzbég Koraszuv városától.",
@@ -670,8 +684,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Tasch-Kömür",
       hu: "Tas-Kumir",
       ro: "Tash-Kumyr",
-      en: "Tash-Kumyr"
-    },
+      en: "Tash-Kumyr",
+image: "/poi-images/tash-kumyr-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt am Fluss Naryn, die für ihren Kohlebergbau und die Wasserkraftwerke bekannt ist.",
       hu: "Iparváros a Narin folyó mentén, amely szénbányászatáról és vízerőműveiről ismert.",
@@ -717,8 +732,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Mailuu-Suu",
       hu: "Majluu-Szuu",
       ro: "Mailuu-Suu",
-      en: "Mailuu-Suu"
-    },
+      en: "Mailuu-Suu",
+image: "/poi-images/mailuu-suu-cities-v2.webp"
+},
     description: {
       de: "Eine ehemalige sowjetische geschlossene Stadt, die für ihren Uranbergbau während des Kalten Krieges berühmt war.",
       hu: "Egykori szovjet zárt város, amely a hidegháború alatti uránbányászatáról volt híres.",
@@ -764,8 +780,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kotschkor-Ata",
       hu: "Kocskor-Ata",
       ro: "Kochkor-Ata",
-      en: "Kochkor-Ata"
-    },
+      en: "Kochkor-Ata",
+image: "/poi-images/kochkor-ata-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Region Dschalalabat, deren Wirtschaft traditionell von der Erdöl- und Erdgasförderung geprägt ist.",
       hu: "Város Dzsalalabad régióban, amelynek gazdaságát hagyományosan a kőolaj- és földgázkitermelés határozza meg.",
@@ -811,8 +828,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kant",
       hu: "Kant",
       ro: "Kant",
-      en: "Kant"
-    },
+      en: "Kant",
+image: "/poi-images/kant-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Tschüi-Tal in der Nähe von Bischkek, die heute einen wichtigen russischen Militärflugplatz beherbergt.",
       hu: "Város a Csüi-völgyben Biskek közelében, amely ma egy fontos orosz katonai repülőtérnek ad otthont.",
@@ -858,8 +876,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Tscholponata",
       hu: "Csolpon-Ata",
       ro: "Cholpon-Ata",
-      en: "Cholpon-Ata"
-    },
+      en: "Cholpon-Ata",
+image: "/poi-images/cholpon-ata-cities-v2.webp"
+},
     description: {
       de: "Ein beliebter Urlaubsort am Nordufer des Yssykköl-Sees, bekannt für seine Sandstrände und Sanatorien.",
       hu: "Népszerű üdülőváros az Iszik-köl tó északi partján, amely homokos strandjairól és szanatóriumairól ismert.",
@@ -905,8 +924,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kerben",
       hu: "Kerben",
       ro: "Kerben",
-      en: "Kerben"
-    },
+      en: "Kerben",
+image: "/poi-images/kerben-cities-v2.webp"
+},
     description: {
       de: "Eine Kleinstadt im Bezirk Aksy, die in einer malerischen Berglandschaft im Westen des Landes liegt.",
       hu: "Kisváros az Akszi körzetben, amely egy festői hegyvidéki környezetben, az ország nyugati részén fekszik.",
@@ -952,8 +972,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Nookat",
       hu: "Nookat",
       ro: "Nookat",
-      en: "Nookat"
-    },
+      en: "Nookat",
+image: "/poi-images/nookat-cities-v2.webp"
+},
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt südwestlich von Osch, die von den fruchtbaren Böden des Ferganatals profitiert.",
       hu: "Mezőgazdasági jellegű város Ostól délnyugatra, amely a Fergana-völgy termékeny talajából profitál.",
@@ -999,8 +1020,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kotschkor",
       hu: "Kocskor",
       ro: "Kochkor",
-      en: "Kochkor"
-    },
+      en: "Kochkor",
+image: "/poi-images/kochkor-cities-v2.webp"
+},
     description: {
       de: "Eine lebhafte Marktstadt auf dem Weg zum Song-Köl-See, bekannt für ihre kirgisische Filzkunst.",
       hu: "Nyüzsgő piacváros a Szong-köl tó felé vezető úton, amely kirgiz nemezművészetéről ismert.",
@@ -1046,8 +1068,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Sülüktü",
       hu: "Szülüktü",
       ro: "Sülüktü",
-      en: "Sülüktü"
-    },
+      en: "Sülüktü",
+image: "/poi-images/suluktu-cities-v2.webp"
+},
     description: {
       de: "Eine abgelegene Bergbaustadt am Rande des Turkestan-Gebirges in der Region Batken.",
       hu: "Elzárt bányászváros a Turkesztáni-hegység peremén, a Batken régióban.",
@@ -1093,8 +1116,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kadamdschai",
       hu: "Kadamdzsaj",
       ro: "Kadamjay",
-      en: "Kadamjay"
-    },
+      en: "Kadamjay",
+image: "/poi-images/kadamjay-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt im Süden des Landes, die sich um den Abbau und die Verarbeitung von Antimon entwickelt hat.",
       hu: "Iparváros az ország déli részén, amely az antimon bányászata és feldolgozása köré épült.",
@@ -1142,8 +1166,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Toktogul",
       hu: "Toktogul",
       ro: "Toktogul",
-      en: "Toktogul"
-    },
+      en: "Toktogul",
+image: "/poi-images/toktogul-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt nördlich des riesigen Toktogul-Stausees, umgeben von spektakulären Bergketten.",
       hu: "A hatalmas Toktogul-víztározótól északra fekvő város, amelyet látványos hegyláncok vesznek körül.",
@@ -1189,8 +1214,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kasarman",
       hu: "Kazarman",
       ro: "Kazarman",
-      en: "Kazarman"
-    },
+      en: "Kazarman",
+image: "/poi-images/kazarman-cities-v2.webp"
+},
     description: {
       de: "Eine sehr isolierte Bergbausiedlung im inneren Kirgisistans, die oft im Winter vom Rest des Landes abgeschnitten ist.",
       hu: "Egy nagyon elszigetelt bányásztelepülés Belső-Kirgizisztánban, amelyet télen gyakran elvágnak az ország többi részétől.",
@@ -1236,8 +1262,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Orlowka",
       hu: "Orlovka",
       ro: "Orlovka",
-      en: "Orlovka"
-    },
+      en: "Orlovka",
+image: "/poi-images/orlovka-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt im Osten des Tschüi-Tals, die stark von der sowjetischen Metallurgie geprägt wurde.",
       hu: "Iparváros a Csüi-völgy keleti részén, amelyre a szovjet kohászat erős hatást gyakorolt.",
@@ -1285,8 +1312,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Schopokow",
       hu: "Sopokov",
       ro: "Shopokov",
-      en: "Shopokov"
-    },
+      en: "Shopokov",
+image: "/poi-images/shopokov-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Stadt westlich von Bischkek, die von Landwirtschaft und leichter Industrie lebt.",
       hu: "Biskektől nyugatra fekvő kisváros, amely mezőgazdaságból és könnyűiparból él.",
@@ -1334,8 +1362,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kajyndy",
       hu: "Kaindi",
       ro: "Kaindy",
-      en: "Kaindy"
-    },
+      en: "Kaindy",
+image: "/poi-images/kaindy-cities-v2.webp"
+},
     description: {
       de: "Die Verwaltungshauptstadt des Panfilow-Bezirks, bekannt für ihre Zuckerfabrik.",
       hu: "A Panfilov körzet közigazgatási központja, amely cukorgyáráról ismert.",
@@ -1381,8 +1410,9 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       de: "Kemin",
       hu: "Kemin",
       ro: "Kemin",
-      en: "Kemin"
-    },
+      en: "Kemin",
+image: "/poi-images/kemin-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am östlichen Rand des Tschüi-Tals, die das Tor zur spektakulären Boom-Schlucht bildet.",
       hu: "Város a Csüi-völgy keleti szélén, amely kaput nyit a látványos Boom-szurdok felé.",

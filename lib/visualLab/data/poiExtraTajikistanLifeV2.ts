@@ -10,8 +10,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Zorkul-Naturreservat",
       hu: "Zorkul Természetvédelmi Terület",
       ro: "Rezervația Naturală Zorkul",
-      en: "Zorkul Nature Reserve"
-    },
+      en: "Zorkul Nature Reserve",
+image: "/poi-images/zorkul-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Ein geschütztes Gebiet im Pamir, das den Zorkul-See umfasst und ein wichtiger Lebensraum für Schneeleoparden und Argalis ist.",
       hu: "Védett terület a Pamírban, amely a Zorkul-tavat foglalja magába, és a hópárducok fontos élőhelye.",
@@ -34,8 +35,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Daschtidschum-Naturreservat",
       hu: "Dasztidzsum Természetvédelmi Terület",
       ro: "Rezervația Naturală Dashtijum",
-      en: "Dashtijum Nature Reserve"
-    },
+      en: "Dashtijum Nature Reserve",
+image: "/poi-images/dashtijum-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Dieses Reservat im Süden Tadschikistans schützt ausgedehnte Pistazienwälder und die seltene Markhor-Schraubenziege.",
       hu: "Ez a dél-tádzsikisztáni rezervátum kiterjedt pisztáciaerdőket és a ritka pödröttszarvú kecskét védi.",
@@ -57,8 +59,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Romit-Naturreservat",
       hu: "Romit Természetvédelmi Terület",
       ro: "Rezervația Naturală Romit",
-      en: "Romit Nature Reserve"
-    },
+      en: "Romit Nature Reserve",
+image: "/poi-images/romit-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Bergschutzgebiet unweit von Duschanbe, das in der Sowjetzeit für die Zucht von Bucharahirschen bekannt war.",
       hu: "Jelentős hegyi védett terület Dusanbe közelében, amely a szovjet időkben a buharai szarvasok tenyésztéséről volt ismert.",
@@ -81,8 +84,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Botanischer Garten Pamir",
       hu: "Pamír Botanikus Kert",
       ro: "Grădina Botanică Pamir",
-      en: "Pamir Botanical Garden"
-    },
+      en: "Pamir Botanical Garden",
+image: "/poi-images/pamir-botanical-garden-life-v2.webp"
+},
     description: {
       de: "Einer der höchstgelegenen botanischen Gärten der Welt in Chorugh, der Tausende Pflanzenarten aus verschiedenen Klimazonen beherbergt.",
       hu: "A világ egyik legmagasabban fekvő botanikus kertje Horugban, amely több ezer növényfajnak ad otthont különböző éghajlati övezetekből.",
@@ -104,8 +108,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Botanischer Garten Duschanbe",
       hu: "Dusanbei Botanikus Kert",
       ro: "Grădina Botanică din Dușanbe",
-      en: "Dushanbe Botanical Garden"
-    },
+      en: "Dushanbe Botanical Garden",
+image: "/poi-images/dushanbe-botanical-garden-life-v2.webp"
+},
     description: {
       de: "Eine friedliche grüne Oase in der Hauptstadt Tadschikistans, auch bekannt als Iram-Garten, mit alten Bäumen und einem großen Pfauengehege.",
       hu: "Békés zöld oázis Tádzsikisztán fővárosában, Iram-kert néven is ismert, öreg fákkal és egy nagy pávakifutóval.",
@@ -127,8 +132,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Baumwollfelder im Wachsch-Tal",
       hu: "Gyapotföldek a Vahs-völgyben",
       ro: "Câmpurile de bumbac din Valea Vakhsh",
-      en: "Vakhsh Valley Cotton Fields"
-    },
+      en: "Vakhsh Valley Cotton Fields",
+image: "/poi-images/vakhsh-valley-cotton-fields-life-v2.webp"
+},
     description: {
       de: "Ausgedehnte landwirtschaftliche Flächen im Süden des Landes, wo das intensive Bewässerungssystem den Anbau des „weißen Goldes“ ermöglicht.",
       hu: "Kiterjedt mezőgazdasági területek az ország déli részén, ahol az intenzív öntözőrendszer lehetővé teszi a „fehér arany” termesztését.",
@@ -150,8 +156,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Weinberge im Hissar-Tal",
       hu: "Szőlőültetvények a Hiszor-völgyben",
       ro: "Podgoriile din Valea Hissar",
-      en: "Hissar Valley Vineyards"
-    },
+      en: "Hissar Valley Vineyards",
+image: "/poi-images/hissar-valley-vineyards-life-v2.webp"
+},
     description: {
       de: "Fruchtbare Böden und viel Sonnenschein im Hissar-Tal bieten ideale Bedingungen für den Anbau süßer Trauben, die frisch verzehrt oder zu Rosinen getrocknet werden.",
       hu: "A termékeny talaj és a sok napsütés a Hiszor-völgyben ideális feltételeket biztosít az édes szőlő termesztéséhez, amelyet frissen fogyasztanak vagy mazsolaként szárítanak.",
@@ -173,8 +180,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Aprikosenhaine im Ferghanatal",
       hu: "Sárgabarackligetek a Fergana-völgyben",
       ro: "Livezile de caiși din Valea Fergana",
-      en: "Fergana Valley Apricot Orchards"
-    },
+      en: "Fergana Valley Apricot Orchards",
+image: "/poi-images/fergana-valley-apricot-orchards-life-v2.webp"
+},
     description: {
       de: "Der nördliche Teil Tadschikistans ist berühmt für seine riesigen Obstgärten, insbesondere für Aprikosen, die in den trockenen Sommern in der Sonne dörren.",
       hu: "Tádzsikisztán északi része híres hatalmas gyümölcsöskertjeiről, különösen a sárgabarackról, amelyet a száraz nyarakon a napon aszalnak.",
@@ -196,8 +204,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Zoo Duschanbe",
       hu: "Dusanbe Állatkert",
       ro: "Grădina Zoologică din Dușanbe",
-      en: "Dushanbe Zoo"
-    },
+      en: "Dushanbe Zoo",
+image: "/poi-images/dushanbe-zoo-life-v2.webp"
+},
     description: {
       de: "Der nationale zoologische Garten der Hauptstadt, der eine Vielzahl einheimischer und exotischer Tierarten beherbergt und ein beliebtes Ausflugsziel für Familien.",
       hu: "A főváros nemzeti állatkertje, amely számos őshonos és egzotikus állatfajnak ad otthont, és a családok kedvelt kirándulóhelye.",
@@ -219,8 +228,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Aquapark Delphin Duschanbe",
       hu: "Dolphin Akvapark Dusanbe",
       ro: "Aquapark Dolphin Dușanbe",
-      en: "Aquapark Dolphin Dushanbe"
-    },
+      en: "Aquapark Dolphin Dushanbe",
+image: "/poi-images/aquapark-dolphin-dushanbe-life-v2.webp"
+},
     description: {
       de: "Der größte Wasserpark in Tadschikistan bietet an heißen Sommertagen Abkühlung mit zahlreichen Rutschen, Pools und Freizeitmöglichkeiten für Kinder.",
       hu: "Tádzsikisztán legnagyobb víziparkja a forró nyári napokon nyújt felfrissülést számos csúszdával, medencével és szabadidős tevékenységgel a gyermekek számára.",
@@ -242,8 +252,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Jugendpark am Komsomol-See",
       hu: "Ifjúsági Park a Komszomol-tónál",
       ro: "Parcul Tineretului la Lacul Komsomol",
-      en: "Youth Park at Komsomol Lake"
-    },
+      en: "Youth Park at Komsomol Lake",
+image: "/poi-images/youth-park-komsomol-lake-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Erholungsgebiet rund um einen künstlich angelegten See in Duschanbe, das Tretbootfahren, Spazierwege und grüne Picknickplätze bietet.",
       hu: "Kiterjedt rekreációs terület egy mesterséges tó körül Dusanbéban, amely vízibiciklizést, sétányokat és zöld piknikező helyeket kínál.",
@@ -265,8 +276,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Kartoffelfarmen im Serafschan-Tal",
       hu: "Burgonyafarmok a Zarafson-völgyben",
       ro: "Fermele de cartofi din Valea Zarafshan",
-      en: "Zarafshan Valley Potato Farms"
-    },
+      en: "Zarafshan Valley Potato Farms",
+image: "/poi-images/zarafshan-valley-potato-farms-life-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Böden und das kühlere Bergklima im Tal des Flusses Serafschan sind das Zentrum des tadschikischen Kartoffelanbaus, der eine wichtige Nahrungsquelle darstellt.",
       hu: "A Zarafson-folyó völgyének termékeny talaja és hűvösebb hegyvidéki éghajlata a tádzsik burgonyatermesztés központja, amely fontos táplálékforrás.",
@@ -288,8 +300,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Sommerweiden im Jagnob-Tal",
       hu: "Nyári legelők a Jagnob-völgyben",
       ro: "Pășunile de vară din Valea Yagnob",
-      en: "Yagnob Valley Pastures"
-    },
+      en: "Yagnob Valley Pastures",
+image: "/poi-images/yagnob-valley-pastures-life-v2.webp"
+},
     description: {
       de: "In den Sommermonaten bringen Hirten ihre Schaf- und Ziegenherden auf die üppigen alpinen Weiden dieses abgelegenen Tals, wo die traditionelle Transhumanz noch lebendig ist.",
       hu: "A nyári hónapokban a pásztorok juhaikat és kecskéiket e távoli völgy buja alpesi legelőire terelik, ahol a hagyományos transzhumáló pásztorkodás még mindig él.",
@@ -311,8 +324,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Vergnügungspark Boghi Pojtacht",
       hu: "Boghi Pojtaht Vidámpark",
       ro: "Parcul de distracții Boghi Poytakht",
-      en: "Boghi Poytakht Amusement Park"
-    },
+      en: "Boghi Poytakht Amusement Park",
+image: "/poi-images/boghi-poytakht-park-dushanbe-life-v2.webp"
+},
     description: {
       de: "Ein moderner Vergnügungspark in Duschanbe mit Fahrgeschäften, Achterbahnen und einem Riesenrad, der abends hell beleuchtet ist und Familien anzieht.",
       hu: "Modern vidámpark Dusanbéban játékokkal, hullámvasutakkal és egy óriáskerékkel, amely esténként kivilágítva vonzza a családokat.",
@@ -334,8 +348,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Weizenfelder von Farchor",
       hu: "Farchor Búzaföldjei",
       ro: "Câmpurile de grâu din Farkhor",
-      en: "Farkhor Wheat Fields"
-    },
+      en: "Farkhor Wheat Fields",
+image: "/poi-images/farkhor-wheat-fields-life-v2.webp"
+},
     description: {
       de: "Die endlosen goldenen Weizenfelder im Süden nahe der afghanischen Grenze sind die Kornkammer der Region Khatlon und essenziell für die Brotproduktion des Landes.",
       hu: "A déli, afgán határ közelében elterülő végtelen arany búzaföldek Khatlon régió magtárát alkotják, és elengedhetetlenek az ország kenyérellátásához.",
@@ -358,8 +373,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Kamoli-Chudschandi-Park",
       hu: "Kamoli Hujandi Park",
       ro: "Parcul Kamoli Khujandi",
-      en: "Kamoli Khujandi Park"
-    },
+      en: "Kamoli Khujandi Park",
+image: "/poi-images/khujand-city-park-life-v2.webp"
+},
     description: {
       de: "Dieser weitläufige Park am Ufer des Syrdarja in Chudschand bietet schattige Alleen, Springbrunnen und Gedenkstätten, perfekt für entspannte Familienspaziergänge.",
       hu: "Ez a kiterjedt park a Szir-darja partján Hujandban árnyas sétányokat, szökőkutakat és emlékműveket kínál, ideális a pihentető családi sétákhoz.",
@@ -381,8 +397,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Kinderpark Duschanbe",
       hu: "Gyermekpark Dusanbe",
       ro: "Parcul Copiilor din Dușanbe",
-      en: "Children's Park Dushanbe"
-    },
+      en: "Children's Park Dushanbe",
+image: "/poi-images/childrens-park-dushanbe-life-v2.webp"
+},
     description: {
       de: "Ein farbenfroher Park im Stadtzentrum, der speziell für jüngere Kinder konzipiert wurde und Spielplätze, kleine Fahrgeschäfte und Eiscreme-Stände bietet.",
       hu: "Színes park a városközpontban, amelyet kifejezetten a kisebb gyermekek számára terveztek, játszóterekkel, kisebb körhintákkal és fagylaltos bódékkal.",
@@ -405,8 +422,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Wildtiergebiet Almosi-Schlucht",
       hu: "Almoszi-szurdok Vadvilági Terület",
       ro: "Rezervația Faunistică Cheile Almosi",
-      en: "Almosi Gorge Wildlife Area"
-    },
+      en: "Almosi Gorge Wildlife Area",
+image: "/poi-images/almosi-gorge-wildlife-area-life-v2.webp"
+},
     description: {
       de: "Eine malerische Schlucht nahe der Hauptstadt, die für ihre dichten Wälder, kristallklaren Bäche und eine reiche Vogelwelt, einschließlich seltener Greifvögel, bekannt ist.",
       hu: "Festői szurdok a főváros közelében, amely sűrű erdeiről, kristálytiszta patakjairól és gazdag madárvilágáról, köztük ritka ragadozó madarakról ismert.",
@@ -428,8 +446,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Sari-Chosor-Naturpark",
       hu: "Szari Hoszor Natúrpark",
       ro: "Parcul Natural Sari Khosor",
-      en: "Sari Khosor Nature Park"
-    },
+      en: "Sari Khosor Nature Park",
+image: "/poi-images/sari-khosor-nature-park-life-v2.webp"
+},
     description: {
       de: "Ein ökologisch wertvolles Gebiet in der Provinz Khatlon, das majestätische Wasserfälle, tiefe Schluchten und intakte Walnusswälder schützt, in denen Braunbären leben.",
       hu: "Ökológiailag értékes terület Khatlon tartományban, amely fenséges vízeséseket, mély szurdokokat és érintetlen diófaerdőket véd, ahol barnamedvék élnek.",
@@ -451,8 +470,9 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       de: "Maulbeerhaine von Wachan",
       hu: "A Vahan-folyosó Eperfás Ligetei",
       ro: "Livezile de Duzi din Wakhan",
-      en: "Wakhan Mulberry Groves"
-    },
+      en: "Wakhan Mulberry Groves",
+image: "/poi-images/wakhan-mulberry-groves-life-v2.webp"
+},
     description: {
       de: "In den hochgelegenen Dörfern des Wachan-Korridors sind alte Maulbeerbäume ein wesentlicher Bestandteil der Subsistenzwirtschaft; ihre süßen Früchte werden als energiereicher Wintervorrat getrocknet.",
       hu: "A Vahan-folyosó magasan fekvő falvaiban az öreg eperfák a létfenntartó gazdálkodás elengedhetetlen részei; édes gyümölcsüket energiagazdag téli tartalékként szárítják.",

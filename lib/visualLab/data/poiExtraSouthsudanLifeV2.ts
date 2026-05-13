@@ -11,8 +11,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Boma-Nationalpark",
       hu: "Boma Nemzeti Park",
       ro: "Parcul Național Boma",
-      en: "Boma National Park"
-    },
+      en: "Boma National Park",
+image: "/poi-images/boma-nationalpark-life-v2.webp"
+},
     description: {
       de: "Einer der größten Nationalparks Afrikas, bekannt für die massive jährliche Wanderung von Hunderttausenden von Weißohr-Moorantilopen.",
       hu: "Afrika egyik legnagyobb nemzeti parkja, amely a százezernyi fehérfülű mocsári antilop éves vándorlásáról híres.",
@@ -34,8 +35,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Bandingilo-Nationalpark",
       hu: "Bandingilo Nemzeti Park",
       ro: "Parcul Național Bandingilo",
-      en: "Bandingilo National Park"
-    },
+      en: "Bandingilo National Park",
+image: "/poi-images/bandingilo-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein wichtiger Korridor für die Tierwanderung im Südsudan, der weite Savannen und saisonale Überschwemmungsgebiete umfasst.",
       hu: "A dél-szudáni állatvándorlás fontos folyosója, amely kiterjedt szavannákat és időszakos ártéri területeket foglal magában.",
@@ -58,8 +60,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Nimule-Nationalpark",
       hu: "Nimule Nemzeti Park",
       ro: "Parcul Național Nimule",
-      en: "Nimule National Park"
-    },
+      en: "Nimule National Park",
+image: "/poi-images/nimule-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein zugänglicher Nationalpark an der Grenze zu Uganda, bekannt für seine Elefantenherden und Flusspferde im Weißen Nil.",
       hu: "Az ugandai határnál fekvő, könnyen megközelíthető nemzeti park, amely elefántcsordáiról és a Fehér-Nílusban élő vízilvairól ismert.",
@@ -81,8 +84,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Shambe-Wildreservat",
       hu: "Shambe Vadvédelmi Rezervátum",
       ro: "Rezervația de vânat Shambe",
-      en: "Shambe Nature Reserve"
-    },
+      en: "Shambe Nature Reserve",
+image: "/poi-images/shambe-wildreservat-life-v2.webp"
+},
     description: {
       de: "Ein wasserreiches Schutzgebiet in den Sudd-Sümpfen, das eine Zuflucht für bedrohte Tierarten und zahlreiche Wasservögel bietet.",
       hu: "A Sudd-mocsárvidéken található vizes élőhely, amely veszélyeztetett fajoknak és számos vízimadárnak nyújt menedéket.",
@@ -104,8 +108,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Ez-Zeraf-Wildreservat",
       hu: "Ez-Zeraf Vadvédelmi Rezervátum",
       ro: "Rezervația de vânat Ez Zeraf",
-      en: "Ez Zeraf Game Reserve"
-    },
+      en: "Ez Zeraf Game Reserve",
+image: "/poi-images/ez-zeraf-wildreservat-life-v2.webp"
+},
     description: {
       de: "Dieses Reservat auf der Insel Zeraf schützt die bedrohte Nil-Antilope und ist von weiten Sumpfgebieten umgeben.",
       hu: "A Zeraf-szigeten található rezervátum a veszélyeztetett nílusi antilopot védi, és kiterjedt mocsárvidék veszi körül.",
@@ -127,8 +132,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Kidepo-Wildreservat",
       hu: "Kidepo Vadvédelmi Rezervátum",
       ro: "Rezervația de vânat Kidepo",
-      en: "Kidepo Game Reserve"
-    },
+      en: "Kidepo Game Reserve",
+image: "/poi-images/kidepo-wildreservat-life-v2.webp"
+},
     description: {
       de: "Ein trockenes Savannenschutzgebiet an der Grenze zu Uganda, bekannt für seine Raubtiere und großen Büffelherden.",
       hu: "Az ugandai határ mentén fekvő száraz szavannai rezervátum, amely ragadozóiról és hatalmas bivalycsordáiról ismert.",
@@ -150,8 +156,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Lantoto-Nationalpark",
       hu: "Lantoto Nemzeti Park",
       ro: "Parcul Național Lantoto",
-      en: "Lantoto National Park"
-    },
+      en: "Lantoto National Park",
+image: "/poi-images/lantoto-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein dicht bewaldeter Nationalpark an der Grenze zur DR Kongo, der einen wichtigen Lebensraum für Schimpansen und Elefanten bildet.",
       hu: "A Kongói Demokratikus Köztársaság határán fekvő sűrű erdős nemzeti park, amely fontos élőhelye a csimpánzoknak és elefántoknak.",
@@ -173,8 +180,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Mongalla-Wildreservat",
       hu: "Mongalla Vadvédelmi Rezervátum",
       ro: "Rezervația de vânat Mongalla",
-      en: "Mongalla Game Reserve"
-    },
+      en: "Mongalla Game Reserve",
+image: "/poi-images/mongalla-wildreservat-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet entlang des Nils, das für seine Antilopenpopulationen und als Rastplatz für Zugvögel bekannt ist.",
       hu: "A Nílus mentén fekvő védett terület, amely antilop-populációiról és a vándormadarak pihenőhelyeként ismert.",
@@ -196,8 +204,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Ashana-Wildreservat",
       hu: "Ashana Vadvédelmi Rezervátum",
       ro: "Rezervația de vânat Ashana",
-      en: "Ashana Game Reserve"
-    },
+      en: "Ashana Game Reserve",
+image: "/poi-images/ashana-wildreservat-life-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Reservat im Nordwesten, das wichtige Graslandhabitate für verschiedene Huftiere und Raubkatzen schützt.",
       hu: "Egy távoli rezervátum az északnyugati részen, amely fontos füves élőhelyeket biztosít különféle patások és nagymacskák számára.",
@@ -219,8 +228,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Chelkou-Wildreservat",
       hu: "Chelkou Vadvédelmi Rezervátum",
       ro: "Rezervația de vânat Chelkou",
-      en: "Chelkou Game Reserve"
-    },
+      en: "Chelkou Game Reserve",
+image: "/poi-images/chelkou-wildreservat-life-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Schutzgebiet in Northern Bahr el Ghazal, das durch seine Baumsavannen und reiche Tierwelt besticht.",
       hu: "Jelentős védett terület Észak-Bahr el Ghazalban, amely fás szavannáival és gazdag állatvilágával tűnik ki.",
@@ -242,8 +252,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Aweil-Reisprojekt",
       hu: "Aweili rizstermesztő projekt",
       ro: "Proiectul de orez Aweil",
-      en: "Aweil Rice Scheme"
-    },
+      en: "Aweil Rice Scheme",
+image: "/poi-images/aweil-reisprojekt-life-v2.webp"
+},
     description: {
       de: "Eines der größten landwirtschaftlichen Projekte des Landes, das die fruchtbaren Ebenen für den intensiven Reisanbau nutzt.",
       hu: "Az ország egyik legnagyobb mezőgazdasági projektje, amely a termékeny síkságokat használja ki az intenzív rizstermesztésre.",
@@ -265,8 +276,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Nzara-Agrarkomplex",
       hu: "Nzara agrár-ipari komplexum",
       ro: "Complexul agroindustrial Nzara",
-      en: "Nzara Agro-Industrial Complex"
-    },
+      en: "Nzara Agro-Industrial Complex",
+image: "/poi-images/nzara-agrarkomplex-life-v2.webp"
+},
     description: {
       de: "Ein historisches Zentrum für die Verarbeitung von Baumwolle und landwirtschaftlichen Erzeugnissen im grünen Gürtel des Südsudans.",
       hu: "A gyapotfeldolgozás és mezőgazdasági termékek történelmi központja Dél-Szudán zöldövezetében.",
@@ -288,8 +300,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Renk-Getreidegürtel",
       hu: "Renki gabonaövezet",
       ro: "Centura de cereale Renk",
-      en: "Renk Grain Belt"
-    },
+      en: "Renk Grain Belt",
+image: "/poi-images/renk-getreideguertel-life-v2.webp"
+},
     description: {
       de: "Die wichtigste Region für den mechanisierten Ackerbau im Norden, spezialisiert auf Sorghum, Hirse und Sonnenblumen.",
       hu: "Az északi rész legfontosabb gépesített mezőgazdasági régiója, amely cirok, köles és napraforgó termesztésére specializálódott.",
@@ -311,8 +324,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Yambio-Kaffeeplantagen",
       hu: "Yambiói kávéültetvények",
       ro: "Plantațiile de cafea Yambio",
-      en: "Yambio Coffee Plantations"
-    },
+      en: "Yambio Coffee Plantations",
+image: "/poi-images/yambio-kaffeeplantagen-life-v2.webp"
+},
     description: {
       de: "In den regenreichen Gebieten um Yambio wird hochwertiger Kaffee angebaut, der zunehmend für den Export an Bedeutung gewinnt.",
       hu: "Yambio csapadékos vidékein kiváló minőségű kávét termesztenek, amely egyre fontosabb az export szempontjából.",
@@ -334,8 +348,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Maridi-Obstgärten",
       hu: "Maridi gyümölcsöskertek",
       ro: "Livezile din Maridi",
-      en: "Maridi Fruit Orchards"
-    },
+      en: "Maridi Fruit Orchards",
+image: "/poi-images/maridi-obstgaerten-life-v2.webp"
+},
     description: {
       de: "Maridi ist bekannt für seine üppigen Obstgärten, in denen Mangos, Papayas und Ananas in großen Mengen gedeihen.",
       hu: "Maridi buja gyümölcsöskertjeiről ismert, ahol mangó, papaya és ananász terem bőségesen.",
@@ -357,8 +372,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Terekeka-Viehlager",
       hu: "Terekeka állattartó táborok",
       ro: "Taberele de vite Terekeka",
-      en: "Terekeka Cattle Camps"
-    },
+      en: "Terekeka Cattle Camps",
+image: "/poi-images/terekeka-viehlager-life-v2.webp"
+},
     description: {
       de: "Die traditionellen Viehlager der Mundari-Hirten sind zentrale Orte der Kultur und Ökonomie, geprägt von riesigen Rinderherden.",
       hu: "A mundari pásztorok hagyományos állattartó táborai a kultúra és a gazdaság központjai, hatalmas szarvasmarha-csordákkal.",
@@ -381,8 +397,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Bor-Fischereizentrum",
       hu: "Bori halászati központ",
       ro: "Centrul de pescuit Bor",
-      en: "Bor Fishery Center"
-    },
+      en: "Bor Fishery Center",
+image: "/poi-images/bor-fischereizentrum-life-v2.webp"
+},
     description: {
       de: "Ein wichtiger Umschlagplatz für Fisch aus dem Sudd-Gebiet, der die Lebensgrundlage für Tausende von Menschen am Nil sichert.",
       hu: "A Sudd-mocsárvidékről származó halak fontos kereskedelmi központja, amely több ezer nílusi ember megélhetését biztosítja.",
@@ -404,8 +421,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Mangalla-Zuckerrohrfelder",
       hu: "Mangallai cukornádültetvények",
       ro: "Câmpurile de trestie de zahăr Mangalla",
-      en: "Mangalla Sugar Cane Fields"
-    },
+      en: "Mangalla Sugar Cane Fields",
+image: "/poi-images/mangalla-zuckerrohr-life-v2.webp"
+},
     description: {
       de: "Die ausgedehnten Zuckerrohrplantagen bei Mangalla nutzen die Bewässerung aus dem Nil für die industrielle Zuckerproduktion.",
       hu: "A Mangalla melletti kiterjedt cukornádültetvények a Nílus öntözését használják ki az ipari cukorgyártáshoz.",
@@ -427,8 +445,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Juba-Spielpark",
       hu: "Jubai játszópark",
       ro: "Parcul de joacă Juba",
-      en: "Juba Children's Park"
-    },
+      en: "Juba Children's Park",
+image: "/poi-images/juba-spielpark-life-v2.webp"
+},
     description: {
       de: "Ein beliebter Erholungsort für Familien in der Hauptstadt, mit Spielgeräten und Grünflächen für Kinder.",
       hu: "Népszerű szabadidős helyszín a fővárosi családok számára, játékokkal és zöldfelületekkel a gyerekeknek.",
@@ -450,8 +469,9 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       de: "Wau-Wildtierzentrum",
       hu: "Waui vadvédelmi központ",
       ro: "Centrul de faună sălbatică Wau",
-      en: "Wau Wildlife Center"
-    },
+      en: "Wau Wildlife Center",
+image: "/poi-images/wau-wildtierzentrum-life-v2.webp"
+},
     description: {
       de: "Ein kleines Bildungs- und Schutzzentrum in Wau, das Kindern die heimische Tierwelt näherbringt und verletzte Tiere pflegt.",
       hu: "Egy kis oktatási és védelmi központ Wauban, amely megismerteti a gyerekekkel a helyi élővilágot és gondozza a sérült állatokat.",

@@ -11,8 +11,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Raffinerie Esmeraldas",
       hu: "Esmeraldasi Finomító",
       ro: "Rafinăria Esmeraldas",
-      en: "Esmeraldas Refinery"
-    },
+      en: "Esmeraldas Refinery",
+image: "/poi-images/refineria-esmeraldas-economic-v2.webp"
+},
     description: {
       de: "Die größte und wichtigste Erdölraffinerie in Ecuador, betrieben von Petroecuador.",
       hu: "Ecuador legnagyobb és legfontosabb kőolaj-finomítója, a Petroecuador üzemeltetésében.",
@@ -34,8 +35,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Hafen von Manta",
       hu: "Mantai kikötő",
       ro: "Portul Manta",
-      en: "Port of Manta"
-    },
+      en: "Port of Manta",
+image: "/poi-images/puerto-de-manta-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Seehafen am Pazifik, wichtig für den Thunfischfang und als Anlaufhafen für Kreuzfahrtschiffe.",
       hu: "Fontos csendes-óceáni kikötő, amely a tonhalhalászat és a tengerjáró hajók fogadása szempontjából jelentős.",
@@ -57,8 +59,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Zementwerk Chimborazo",
       hu: "Chimborazo Cementgyár",
       ro: "Fabrica de Ciment Chimborazo",
-      en: "Chimborazo Cement Plant"
-    },
+      en: "Chimborazo Cement Plant",
+image: "/poi-images/cemento-chimborazo-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Zementfabriken des Landes, die eine entscheidende Rolle im Bausektor der Andenregion spielt.",
       hu: "Az ország egyik legnagyobb cementgyára, amely kulcsfontosságú szerepet játszik az Andok régió építőiparában.",
@@ -80,8 +83,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Hafen von Puerto Bolívar",
       hu: "Puerto Bolívar-i kikötő",
       ro: "Portul Puerto Bolívar",
-      en: "Port of Puerto Bolívar"
-    },
+      en: "Port of Puerto Bolívar",
+image: "/poi-images/puerto-bolivar-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Bananenexporthafen Ecuadors, über den ein Großteil der weltweiten Bananenproduktion verschifft wird.",
       hu: "Ecuador legfontosabb banánexport-kikötője, ahonnan a világ banántermelésének nagy részét szállítják.",
@@ -103,8 +107,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Industriepark Cuenca",
       hu: "Cuencai Ipari Park",
       ro: "Parcul Industrial Cuenca",
-      en: "Cuenca Industrial Park"
-    },
+      en: "Cuenca Industrial Park",
+image: "/poi-images/parque-industrial-cuenca-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Industriekomplex in Cuenca, der Unternehmen aus den Bereichen Keramik, Möbel und Automobilteile beherbergt.",
       hu: "Fontos ipari komplexum Cuencában, amely kerámia-, bútor- és autóalkatrész-gyártó cégeknek ad otthont.",
@@ -126,8 +131,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Ölfeld Shushufindi",
       hu: "Shushufindi olajmező",
       ro: "Câmpul petrolier Shushufindi",
-      en: "Shushufindi Oil Field"
-    },
+      en: "Shushufindi Oil Field",
+image: "/poi-images/shushufindi-oelfeld-economic-v2.webp"
+},
     description: {
       de: "Eines der größten und produktivsten Ölfelder im Amazonasgebiet Ecuadors, das eine Schlüsselrolle in der Energiewirtschaft spielt.",
       hu: "Az ecuadori Amazonas-medence egyik legnagyobb és legtermékenyebb olajmezője, amely kulcsfontosságú szerepet játszik az energiaiparban.",
@@ -150,8 +156,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Handelshafen Esmeraldas",
       hu: "Esmeraldasi kereskedelmi kikötő",
       ro: "Portul Comercial Esmeraldas",
-      en: "Esmeraldas Commercial Port"
-    },
+      en: "Esmeraldas Commercial Port",
+image: "/poi-images/puerto-de-esmeraldas-economic-v2.webp"
+},
     description: {
       de: "Der Haupthafen im Norden Ecuadors, spezialisiert auf den Export von Rohöl und den Import von Fahrzeugen und Konsumgütern.",
       hu: "Ecuador északi részének fő kikötője, amely kőolaj exportjára, valamint járművek és fogyasztási cikkek importjára szakosodott.",
@@ -174,8 +181,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Pronaca Fleischverarbeitung",
       hu: "Pronaca Húsfeldolgozó",
       ro: "Procesarea Cărnii Pronaca",
-      en: "Pronaca Meat Processing"
-    },
+      en: "Pronaca Meat Processing",
+image: "/poi-images/pronaca-fleischverarbeitung-economic-v2.webp"
+},
     description: {
       de: "Einer der größten Lebensmittelproduzenten Ecuadors mit Schwerpunkt auf der Verarbeitung von Geflügel und Schweinefleisch.",
       hu: "Ecuador egyik legnagyobb élelmiszer-termelője, amely a baromfi- és sertéshús-feldolgozásra összpontosít.",
@@ -197,8 +205,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "GM OBB Automontage",
       hu: "GM OBB Autóösszeszerelő",
       ro: "Asamblare Auto GM OBB",
-      en: "GM OBB Car Assembly"
-    },
+      en: "GM OBB Car Assembly",
+image: "/poi-images/gmac-automontage-quito-economic-v2.webp"
+},
     description: {
       de: "Das wichtigste Automobil-Montagewerk in Ecuador, das Fahrzeuge für den lokalen und andinen Markt herstellt.",
       hu: "Ecuador legfontosabb autó-összeszerelő üzeme, amely a helyi és andoki piacra gyárt járműveket.",
@@ -220,8 +229,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Palo Santo Destillation",
       hu: "Palo Santo lepárlás",
       ro: "Distilarea Palo Santo",
-      en: "Palo Santo Distillation"
-    },
+      en: "Palo Santo Distillation",
+image: "/poi-images/palo-santo-destillation-economic-v2.webp"
+},
     description: {
       de: "Anlagen zur Destillation des ätherischen Öls aus dem Holz des Palo Santo Baumes, das für sein Aroma und seine spirituellen Zwecke geschätzt wird.",
       hu: "A Palo Santo fa fájából származó illóolaj lepárlására szolgáló létesítmények, melyet aromája és spirituális céljai miatt értékelnek.",
@@ -243,8 +253,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Tagua-Verarbeitung",
       hu: "Tagua feldolgozás",
       ro: "Procesarea Tagua",
-      en: "Tagua Processing"
-    },
+      en: "Tagua Processing",
+image: "/poi-images/tagua-verarbeitung-economic-v2.webp"
+},
     description: {
       de: "Werkstätten, die die Tagua-Nuss, auch als 'pflanzliches Elfenbein' bekannt, zu Knöpfen, Schmuck und Kunsthandwerk verarbeiten.",
       hu: "Műhelyek, amelyek a tagua diót, más néven 'növényi elefántcsontot', gombokká, ékszerekké és kézműves termékekké dolgozzák fel.",
@@ -266,8 +277,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Pesquera Polar Thunfisch",
       hu: "Pesquera Polar Tonhalfeldolgozó",
       ro: "Tonul Pesquera Polar",
-      en: "Pesquera Polar Tuna"
-    },
+      en: "Pesquera Polar Tuna",
+image: "/poi-images/pesquera-polar-atun-economic-v2.webp"
+},
     description: {
       de: "Ein führendes Unternehmen in Manta, das sich auf die Verarbeitung und Konservierung von Thunfisch für den Export spezialisiert hat.",
       hu: "Vezető vállalat Mantában, amely a tonhal feldolgozására és tartósítására szakosodott exportra.",
@@ -289,8 +301,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Salzgewinnung Salinas",
       hu: "Salinasi sókitermelés",
       ro: "Extracția de Sare Salinas",
-      en: "Salinas Salt Production"
-    },
+      en: "Salinas Salt Production",
+image: "/poi-images/salinas-salzgewinnung-economic-v2.webp"
+},
     description: {
       de: "Traditionelle Salzgärten an der Küste von Salinas, wo Meersalz durch solare Verdunstung gewonnen wird.",
       hu: "Hagyományos sólepárlók Salinas partján, ahol a tengeri sót napenergiával történő párologtatással nyerik ki.",
@@ -312,8 +325,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "La Favorita Logistikzentrum",
       hu: "La Favorita Logisztikai Központ",
       ro: "Centrul Logistic La Favorita",
-      en: "La Favorita Logistics Center"
-    },
+      en: "La Favorita Logistics Center",
+image: "/poi-images/la-favorita-logistikzentrum-economic-v2.webp"
+},
     description: {
       de: "Das Hauptverteilzentrum der größten Supermarktkette Ecuadors, das die Versorgung des ganzen Landes koordiniert.",
       hu: "Ecuador legnagyobb szupermarketláncának központi elosztóközpontja, amely az egész ország ellátását koordinálja.",
@@ -335,8 +349,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Fischereihafen Puerto López",
       hu: "Puerto López-i halászkikötő",
       ro: "Portul de Pescuit Puerto López",
-      en: "Puerto López Fishing Port"
-    },
+      en: "Puerto López Fishing Port",
+image: "/poi-images/puerto-lopez-fischereihafen-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber lebhafter Fischereihafen, der auch als Ausgangspunkt für Walbeobachtungstouren dient.",
       hu: "Kicsi, de élénk halászkikötő, amely a bálnafigyelő túrák kiindulópontjaként is szolgál.",
@@ -358,8 +373,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Mirador-Goldmine",
       hu: "Mirador aranybánya",
       ro: "Mina de Aur Mirador",
-      en: "Mirador Gold Mine"
-    },
+      en: "Mirador Gold Mine",
+image: "/poi-images/mirador-goldmine-economic-v2.webp"
+},
     description: {
       de: "Die erste großangelegte Tagebau-Kupfer- und Goldmine Ecuadors, die erhebliche ausländische Investitionen angezogen hat.",
       hu: "Ecuador első nagyméretű, külszíni réz- és aranybányája, amely jelentős külföldi befektetéseket vonzott.",
@@ -381,8 +397,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Blumenfarmen Cayambe",
       hu: "Cayambe-i virágfarmok",
       ro: "Fermele de Flori Cayambe",
-      en: "Cayambe Flower Farms"
-    },
+      en: "Cayambe Flower Farms",
+image: "/poi-images/blumenfarmen-cayambe-economic-v2.webp"
+},
     description: {
       de: "Große Gewächshausanlagen in der Region Cayambe, die hochwertige Rosen für den weltweiten Export anbauen.",
       hu: "Nagy üvegház-komplexumok a Cayambe régióban, amelyek kiváló minőségű rózsákat termesztenek a világ exportjára.",
@@ -404,8 +421,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Holcim Zementwerk Guayaquil",
       hu: "Holcim Cementgyár Guayaquil",
       ro: "Fabrica de Ciment Holcim Guayaquil",
-      en: "Holcim Cement Plant Guayaquil"
-    },
+      en: "Holcim Cement Plant Guayaquil",
+image: "/poi-images/holcim-zementwerk-guayaquil-economic-v2.webp"
+},
     description: {
       de: "Eine große Zementproduktionsanlage am Rande von Guayaquil, die den Küstenmarkt und Exportrouten bedient.",
       hu: "Nagy cementgyártó létesítmény Guayaquil peremén, amely a part menti piacot és az exportútvonalakat szolgálja ki.",
@@ -427,8 +445,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "La Universal Süßwaren",
       hu: "La Universal Édességgyár",
       ro: "Dulciuri La Universal",
-      en: "La Universal Confectionery"
-    },
+      en: "La Universal Confectionery",
+image: "/poi-images/la-universal-suesswaren-economic-v2.webp"
+},
     description: {
       de: "Eine traditionsreiche ecuadorianische Marke, die Schokolade und Süßwaren herstellt und tief in der Kakaogeschichte des Landes verwurzelt ist.",
       hu: "Nagy hagyományokkal rendelkező ecuadori márka, amely csokoládét és édességeket gyárt, és mélyen gyökerezik az ország kakaótörténelmében.",
@@ -450,8 +469,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Hafen Posorja (DP World)",
       hu: "Posorja kikötő (DP World)",
       ro: "Portul Posorja (DP World)",
-      en: "Port of Posorja (DP World)"
-    },
+      en: "Port of Posorja (DP World)",
+image: "/poi-images/puerto-posorja-dp-world-economic-v2.webp"
+},
     description: {
       de: "Ein neuer Tiefwasserhafen im Golf von Guayaquil, der für die Abfertigung von Post-Panamax-Schiffen ausgelegt ist.",
       hu: "Új mélyvízi kikötő a Guayaquil-öbölben, amelyet Post-Panamax hajók fogadására terveztek.",
@@ -474,8 +494,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Pilsener Brauerei Guayaquil",
       hu: "Pilsener Sörfőzde Guayaquil",
       ro: "Fabrica de Bere Pilsener Guayaquil",
-      en: "Pilsener Brewery Guayaquil"
-    },
+      en: "Pilsener Brewery Guayaquil",
+image: "/poi-images/pilsener-brauerei-guayaquil-economic-v2.webp"
+},
     description: {
       de: "Die Hauptproduktionsstätte für Pilsener, die meistverkaufte Biermarke in Ecuador.",
       hu: "A Pilsener, Ecuador legkelendőbb sörmárkájának fő gyártóüzeme.",
@@ -497,8 +518,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Frutadeli Ananasexport",
       hu: "Frutadeli ananászexport",
       ro: "Export de Ananas Frutadeli",
-      en: "Frutadeli Pineapple Export"
-    },
+      en: "Frutadeli Pineapple Export",
+image: "/poi-images/frutadeli-ananasexport-economic-v2.webp"
+},
     description: {
       de: "Ein führendes Agrarunternehmen, das sich auf den Anbau und Export von hochwertigen Ananas spezialisiert hat.",
       hu: "Vezető mezőgazdasági vállalat, amely kiváló minőségű ananász termesztésére és exportjára szakosodott.",
@@ -520,8 +542,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "La Fabril Textil Ambato",
       hu: "La Fabril Textilgyár Ambato",
       ro: "Fabrica de Textile La Fabril Ambato",
-      en: "La Fabril Textile Ambato"
-    },
+      en: "La Fabril Textile Ambato",
+image: "/poi-images/textil-fabril-ambato-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Textilunternehmen in Ambato, dem Zentrum der ecuadorianischen Textilindustrie.",
       hu: "Jelentős textilipari vállalat Ambatóban, az ecuadori textilipar központjában.",
@@ -543,8 +566,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Hafen Jardín del Río (Durán)",
       hu: "Jardín del Río kikötő (Durán)",
       ro: "Portul Jardín del Río (Durán)",
-      en: "Jardín del Río Port (Durán)"
-    },
+      en: "Jardín del Río Port (Durán)",
+image: "/poi-images/puerto-jardin-duran-economic-v2.webp"
+},
     description: {
       de: "Ein Binnenhafen in Durán, der sich auf den Umschlag von Schüttgut wie Getreide und Düngemittel spezialisiert hat.",
       hu: "Belföldi kikötő Duránban, amely ömlesztett áruk, például gabona és műtrágya kezelésére szakosodott.",
@@ -566,8 +590,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Adelca Stahlwerk Milagro",
       hu: "Adelca Acélmű Milagro",
       ro: "Oțelăria Adelca Milagro",
-      en: "Adelca Steelworks Milagro"
-    },
+      en: "Adelca Steelworks Milagro",
+image: "/poi-images/adelca-stahlwerk-milagro-economic-v2.webp"
+},
     description: {
       de: "Eines der führenden Stahlwerke Ecuadors, das Stahl aus recyceltem Schrott für die Bauindustrie herstellt.",
       hu: "Ecuador egyik vezető acélműve, amely újrahasznosított fémhulladékból gyárt acélt az építőipar számára.",
@@ -589,8 +614,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Ecuasal Salzproduktion",
       hu: "Ecuasal Sógyártás",
       ro: "Producția de Sare Ecuasal",
-      en: "Ecuasal Salt Production"
-    },
+      en: "Ecuasal Salt Production",
+image: "/poi-images/ecuasal-salzproduktion-economic-v2.webp"
+},
     description: {
       de: "Der größte Salzproduzent in Ecuador mit modernen Produktionsanlagen an der Pazifikküste.",
       hu: "Ecuador legnagyobb sótermelője, modern gyártólétesítményekkel a Csendes-óceán partján.",
@@ -612,8 +638,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Hafen der Provinz El Oro",
       hu: "El Oro tartományi kikötő",
       ro: "Portul Provinciei El Oro",
-      en: "Port of El Oro Province"
-    },
+      en: "Port of El Oro Province",
+image: "/poi-images/puerto-de-provincia-de-el-oro-economic-v2.webp"
+},
     description: {
       de: "Der offizielle Name für Puerto Bolívar, ein Mehrzweckhafen, der für den Export von Bananen, Garnelen und Gold von entscheidender Bedeutung ist.",
       hu: "Puerto Bolívar hivatalos neve, egy többcélú kikötő, amely kulcsfontosságú a banán, a garnélarák és az arany exportjában.",
@@ -636,8 +663,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "General Tire Cuenca",
       hu: "General Tire Cuenca",
       ro: "General Tire Cuenca",
-      en: "General Tire Cuenca"
-    },
+      en: "General Tire Cuenca",
+image: "/poi-images/general-tire-cuenca-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Reifenhersteller in Cuenca, der den nationalen und andinen Automobilmarkt beliefert.",
       hu: "Fontos gumiabroncsgyártó Cuencában, amely a nemzeti és az andoki autópiacot látja el.",
@@ -659,8 +687,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Pescanova Garnelenfarm",
       hu: "Pescanova Garnélarákfarm",
       ro: "Ferma de Creveți Pescanova",
-      en: "Pescanova Shrimp Farm"
-    },
+      en: "Pescanova Shrimp Farm",
+image: "/poi-images/pescanova-garnelenfarm-economic-v2.webp"
+},
     description: {
       de: "Groß angelegte Aquakulturfarmen zur Zucht von Weißfußgarnelen, einem der wichtigsten Exportgüter Ecuadors.",
       hu: "Nagyméretű akvakultúra-farmok a fehérlábú garnélarák tenyésztésére, amely Ecuador egyik legfontosabb exportcikke.",
@@ -682,8 +711,9 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       de: "Ingenio Valdez Zuckerfabrik",
       hu: "Ingenio Valdez Cukorgyár",
       ro: "Fabrica de Zahăr Ingenio Valdez",
-      en: "Ingenio Valdez Sugar Mill"
-    },
+      en: "Ingenio Valdez Sugar Mill",
+image: "/poi-images/ingenio-valdez-zuckerfabrik-economic-v2.webp"
+},
     description: {
       de: "Eine der ältesten und größten Zuckerfabriken des Landes, die Zuckerrohr aus der Guayas-Provinz verarbeitet.",
       hu: "Az ország egyik legrégebbi és legnagyobb cukorgyára, amely a Guayas tartományból származó cukornádat dolgozza fel.",

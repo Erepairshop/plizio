@@ -10,8 +10,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Paraguay",
       hu: "Paraguay folyó",
       ro: "Râul Paraguay",
-      en: "Paraguay River"
-    },
+      en: "Paraguay River",
+image: "/poi-images/py-rio-paraguay-nature-v2.webp"
+},
     description: {
       de: "Der Río Paraguay ist der wichtigste Fluss des Landes und teilt es in zwei unterschiedliche Regionen.",
       hu: "A Paraguay folyó az ország legfontosabb vízfolyása, amely két eltérő régióra osztja azt.",
@@ -55,8 +56,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Paraná",
       hu: "Paraná folyó",
       ro: "Râul Paraná",
-      en: "Paraná River"
-    },
+      en: "Paraná River",
+image: "/poi-images/py-rio-parana-nature-v2.webp"
+},
     description: {
       de: "Der Río Paraná bildet einen großen Teil der Grenze zu Brasilien und Argentinien.",
       hu: "A Paraná folyó alkotja a Brazíliával és Argentínával közös határ nagy részét.",
@@ -100,8 +102,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro Tres Kandú",
       hu: "Tres Kandú-hegy",
       ro: "Muntele Tres Kandú",
-      en: "Cerro Tres Kandú"
-    },
+      en: "Cerro Tres Kandú",
+image: "/poi-images/py-cerro-tres-kandu-nature-v2.webp"
+},
     description: {
       de: "Der Cerro Tres Kandú ist der höchste Punkt in Paraguay und bietet eine spektakuläre Aussicht.",
       hu: "A Cerro Tres Kandú Paraguay legmagasabb pontja, amely látványos kilátást nyújt.",
@@ -145,8 +148,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Ypacaraí-See",
       hu: "Ypacaraí-tó",
       ro: "Lacul Ypacaraí",
-      en: "Lake Ypacaraí"
-    },
+      en: "Lake Ypacaraí",
+image: "/poi-images/py-lago-ypacarai-nature-v2.webp"
+},
     description: {
       de: "Der Ypacaraí-See ist ein berühmtes Ausflugsziel und wurde in einem bekannten Lied verewigt.",
       hu: "Az Ypacaraí-tó híres kirándulóhely, amelyet egy ismert dal is megörökített.",
@@ -190,8 +194,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Montagswasserfälle",
       hu: "Monday-vízesés",
       ro: "Cascadele Monday",
-      en: "Monday Falls"
-    },
+      en: "Monday Falls",
+image: "/poi-images/py-saltos-del-monday-nature-v2.webp"
+},
     description: {
       de: "Die beeindruckenden Wasserfälle des Río Monday sind ein verstecktes Naturwunder in Paraguay.",
       hu: "A Monday folyó lenyűgöző vízesései Paraguay egyik rejtett természeti csodáját jelentik.",
@@ -235,8 +240,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Mbaracayú-Naturreservat",
       hu: "Mbaracayú Természetvédelmi Terület",
       ro: "Rezervația Mbaracayú",
-      en: "Mbaracayú Forest Nature Reserve"
-    },
+      en: "Mbaracayú Forest Nature Reserve",
+image: "/poi-images/py-reserva-mbaracyu-nature-v2.webp"
+},
     description: {
       de: "Das Reservat schützt einen großen Teil des verbleibenden atlantischen Regenwaldes in Paraguay.",
       hu: "A rezervátum Paraguay megmaradt atlanti esőerdejének jelentős részét védi.",
@@ -281,8 +287,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Nationalpark Cerro Corá",
       hu: "Cerro Corá Nemzeti Park",
       ro: "Parcul Național Cerro Corá",
-      en: "Cerro Corá National Park"
-    },
+      en: "Cerro Corá National Park",
+image: "/poi-images/py-parque-cerro-cora-nature-v2.webp"
+},
     description: {
       de: "Der Park bietet eine hügelige Landschaft mit historischen Stätten aus dem Tripel-Allianz-Krieg.",
       hu: "A park dombos tájat és a hármas szövetség háborújából származó történelmi helyszíneket kínál.",
@@ -326,8 +333,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Pilcomayo",
       hu: "Pilcomayo folyó",
       ro: "Râul Pilcomayo",
-      en: "Pilcomayo River"
-    },
+      en: "Pilcomayo River",
+image: "/poi-images/py-rio-pilcomayo-nature-v2.webp"
+},
     description: {
       de: "Der Río Pilcomayo ist ein wichtiger Nebenfluss des Río Paraguay, der durch die Gran-Chaco-Region fließt.",
       hu: "A Pilcomayo a Paraguay folyó fontos mellékfolyója, amely a Gran Chaco régión folyik keresztül.",
@@ -371,8 +379,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Tebicuary",
       hu: "Tebicuary folyó",
       ro: "Râul Tebicuary",
-      en: "Tebicuary River"
-    },
+      en: "Tebicuary River",
+image: "/poi-images/py-rio-tebicuary-nature-v2.webp"
+},
     description: {
       de: "Der Fluss ist bekannt für seine weißen Sandstrände während der Trockenzeit.",
       hu: "A folyó a száraz évszakban látható fehér homokos strandjairól ismert.",
@@ -416,8 +425,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Ypoá-See",
       hu: "Ypoá-tó",
       ro: "Lacul Ypoá",
-      en: "Lake Ypoá"
-    },
+      en: "Lake Ypoá",
+image: "/poi-images/py-lago-ypoa-nature-v2.webp"
+},
     description: {
       de: "Der Ypoá-See ist das Zentrum eines wichtigen Nationalparks und Feuchtgebietes in Paraguay.",
       hu: "Az Ypoá-tó egy fontos nemzeti park és vizes élőhely központja Paraguayban.",
@@ -461,8 +471,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Nationalpark Defensores del Chaco",
       hu: "Defensores del Chaco Nemzeti Park",
       ro: "Parcul Național Defensores del Chaco",
-      en: "Defensores del Chaco National Park"
-    },
+      en: "Defensores del Chaco National Park",
+image: "/poi-images/py-parque-defensores-chaco-nature-v2.webp"
+},
     description: {
       de: "Dieser riesige Park im Chaco bietet eine raue Umgebung und beheimatet seltene Tierarten wie Jaguare.",
       hu: "Ez a hatalmas park a Chacóban zord környezetet kínál, és ritka állatfajoknak, például jaguároknak ad otthont.",
@@ -506,8 +517,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro Acahay",
       hu: "Acahay-hegy",
       ro: "Muntele Acahay",
-      en: "Cerro Acahay"
-    },
+      en: "Cerro Acahay",
+image: "/poi-images/py-cerro-acahay-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Berg in der Region Paraguarí, der ein beliebtes Ziel für Wanderer ist.",
       hu: "Kiemelkedő hegy Paraguarí régióban, amely a túrázók kedvelt célpontja.",
@@ -551,8 +563,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Yacyretá-Insel",
       hu: "Yacyretá-sziget",
       ro: "Insula Yacyretá",
-      en: "Yacyretá Island"
-    },
+      en: "Yacyretá Island",
+image: "/poi-images/py-isla-yacyreta-nature-v2.webp"
+},
     description: {
       de: "Eine große Insel im Río Paraná, bekannt für das gleichnamige Wasserkraftwerk.",
       hu: "Nagy sziget a Paraná folyón, amely az azonos nevű vízerőműről ismert.",
@@ -596,8 +609,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Apa",
       hu: "Apa folyó",
       ro: "Râul Apa",
-      en: "Apa River"
-    },
+      en: "Apa River",
+image: "/poi-images/py-rio-apa-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der einen Teil der Grenze zwischen Paraguay und Brasilien bildet.",
       hu: "Egy folyó, amely Paraguay és Brazília határának egy részét alkotja.",
@@ -641,8 +655,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "San-Rafael-Reservat",
       hu: "San Rafael Rezervátum",
       ro: "Rezervația San Rafael",
-      en: "San Rafael Reserve"
-    },
+      en: "San Rafael Reserve",
+image: "/poi-images/py-reserva-san-rafael-nature-v2.webp"
+},
     description: {
       de: "Eines der wichtigsten Waldschutzgebiete in Paraguay, das eine enorme Biodiversität beherbergt.",
       hu: "Paraguay egyik legfontosabb erdőrezervátuma, amely hatalmas biodiverzitásnak ad otthont.",
@@ -686,8 +701,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro León",
       hu: "León-hegy",
       ro: "Muntele León",
-      en: "Cerro León"
-    },
+      en: "Cerro León",
+image: "/poi-images/py-cerro-leon-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Hügel im Chaco, der für die indigene Bevölkerung von großer Bedeutung ist.",
       hu: "Egy feltűnő domb a Chacóban, amely nagy jelentőséggel bír az őslakosok számára.",
@@ -731,8 +747,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Ojos de Mar",
       hu: "Tengerszem-tó (Ojos de Mar)",
       ro: "Ojos de Mar",
-      en: "Ojos de Mar Lake"
-    },
+      en: "Ojos de Mar Lake",
+image: "/poi-images/py-ojos-de-mar-nature-v2.webp"
+},
     description: {
       de: "Ein kleiner, extrem klarer See in der Region Amambay mit einer tiefblauen Farbe.",
       hu: "Egy apró, rendkívül tiszta vizű tó Amambay régióban, mely mélykék színű.",
@@ -776,8 +793,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Aquidabán",
       hu: "Aquidabán folyó",
       ro: "Râul Aquidabán",
-      en: "Aquidabán River"
-    },
+      en: "Aquidabán River",
+image: "/poi-images/py-rio-aquidaban-nature-v2.webp"
+},
     description: {
       de: "Ein bedeutender Fluss im Norden Paraguays, an dessen Ufern historische Schlachten stattfanden.",
       hu: "Egy jelentős folyó Észak-Paraguayban, amelynek partjain történelmi csaták zajlottak.",
@@ -821,8 +839,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro Yaguarón",
       hu: "Yaguarón-hegy",
       ro: "Muntele Yaguarón",
-      en: "Cerro Yaguarón"
-    },
+      en: "Cerro Yaguarón",
+image: "/poi-images/py-cerro-yaguaron-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Hügel in der Nähe der Stadt Yaguarón, der für seine Legenden bekannt ist.",
       hu: "Jellegzetes domb Yaguarón városa közelében, amely a helyi legendákról ismert.",
@@ -867,8 +886,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Nationalpark Ybycuí",
       hu: "Ybycuí Nemzeti Park",
       ro: "Parcul Național Ybycuí",
-      en: "Ybycuí National Park"
-    },
+      en: "Ybycuí National Park",
+image: "/poi-images/py-parque-ybycui-nature-v2.webp"
+},
     description: {
       de: "Dieser Park schützt dichte Wälder, Wasserfälle und die Überreste der ersten Eisengießerei Paraguays.",
       hu: "Ez a park sűrű erdőket, vízeséseket és Paraguay első vasöntödéjének romjait védi.",
@@ -912,8 +932,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Laguna Blanca",
       hu: "Fehér-lagúna (Laguna Blanca)",
       ro: "Laguna Blanca",
-      en: "Laguna Blanca"
-    },
+      en: "Laguna Blanca",
+image: "/poi-images/py-laguna-blanca-nature-v2.webp"
+},
     description: {
       de: "Ein wunderschöner See mit kristallklarem Wasser und weißen Sandstränden, ideal zum Entspannen.",
       hu: "Gyönyörű tó kristálytiszta vízzel és fehér homokos partokkal, ideális pihenésre.",
@@ -957,8 +978,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Ypané",
       hu: "Ypané folyó",
       ro: "Râul Ypané",
-      en: "Ypané River"
-    },
+      en: "Ypané River",
+image: "/poi-images/py-rio-ypane-nature-v2.webp"
+},
     description: {
       de: "Der Río Ypané durchfließt den Norden Paraguays und ist ein wichtiger Lebensraum für Fische.",
       hu: "Az Ypané folyó Észak-Paraguay területén folyik át, és fontos élőhelye a halaknak.",
@@ -1002,8 +1024,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro Memby",
       hu: "Memby-hegy",
       ro: "Muntele Memby",
-      en: "Cerro Memby"
-    },
+      en: "Cerro Memby",
+image: "/poi-images/py-cerro-memby-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Berg in der Region Concepción, der sich deutlich von der flachen Umgebung abhebt.",
       hu: "Jellegzetes hegy Concepción régióban, amely élesen kiemelkedik a sík környezetből.",
@@ -1047,8 +1070,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Aguaray Guazú",
       hu: "Aguaray Guazú folyó",
       ro: "Râul Aguaray Guazú",
-      en: "Aguaray Guazú River"
-    },
+      en: "Aguaray Guazú River",
+image: "/poi-images/py-rio-aguaray-guazu-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger Fluss, der zur Entwässerung der San Pedro Region beiträgt.",
       hu: "Fontos folyó, amely hozzájárul San Pedro régió vízelvezetéséhez.",
@@ -1092,8 +1116,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro Peró",
       hu: "Peró-hegy",
       ro: "Muntele Peró",
-      en: "Cerro Peró"
-    },
+      en: "Cerro Peró",
+image: "/poi-images/py-cerro-pero-nature-v2.webp"
+},
     description: {
       de: "Einer der höchsten Gipfel im Ybytyruzú-Gebirge, umgeben von dichtem Wald.",
       hu: "Az Ybytyruzú-hegység egyik legmagasabb csúcsa, amelyet sűrű erdő vesz körül.",
@@ -1137,8 +1162,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Jejui Guazú",
       hu: "Jejui Guazú folyó",
       ro: "Râul Jejui Guazú",
-      en: "Jejui Guazú River"
-    },
+      en: "Jejui Guazú River",
+image: "/poi-images/py-rio-jejui-guazu-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer Fluss mit vielen Sandstränden, der sich ideal für Bootsfahrten eignet.",
       hu: "Festői folyó számos homokos parttal, amely ideális csónakázáshoz.",
@@ -1182,8 +1208,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Paraguayisches Pantanal",
       hu: "Paraguayi Pantanal",
       ro: "Pantanalul Paraguayan",
-      en: "Paraguayan Pantanal"
-    },
+      en: "Paraguayan Pantanal",
+image: "/poi-images/py-pantanal-paraguayo-nature-v2.webp"
+},
     description: {
       de: "Dieses riesige Feuchtgebiet ist ein Paradies für Wildtiere, darunter Kaimane und Capybaras.",
       hu: "Ez a hatalmas vizes élőhely a vadvilág paradicsoma, beleértve a kajmánokat és kapibarákat is.",
@@ -1227,8 +1254,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Monte Lindo",
       hu: "Monte Lindo folyó",
       ro: "Râul Monte Lindo",
-      en: "Monte Lindo River"
-    },
+      en: "Monte Lindo River",
+image: "/poi-images/py-rio-monte-lindo-nature-v2.webp"
+},
     description: {
       de: "Ein ruhiger Fluss im Gran Chaco, der eine wichtige Wasserquelle für die lokale Tierwelt darstellt.",
       hu: "Nyugodt folyó a Gran Chacóban, amely fontos vízforrást jelent a helyi vadvilág számára.",
@@ -1272,8 +1300,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Cerro Guazú",
       hu: "Guazú-hegy",
       ro: "Muntele Guazú",
-      en: "Cerro Guazú"
-    },
+      en: "Cerro Guazú",
+image: "/poi-images/py-cerro-guazu-nature-v2.webp"
+},
     description: {
       de: "Ein großer, bewaldeter Berg im Departamento Amambay mit reicher Flora und Fauna.",
       hu: "Nagy, erdős hegy az Amambay megyében, gazdag növény- és állatvilággal.",
@@ -1318,8 +1347,9 @@ export const poiExtraParaguayNatureV2: POI[] = [
       de: "Río Confuso",
       hu: "Confuso folyó",
       ro: "Râul Confuso",
-      en: "Confuso River"
-    },
+      en: "Confuso River",
+image: "/poi-images/py-rio-confuso-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss mit einem sehr gewundenen Verlauf, der durch die Savannen des südlichen Chaco fließt.",
       hu: "Nagyon kanyargós vonalvezetésű folyó, amely a déli Chaco szavannáin folyik keresztül.",

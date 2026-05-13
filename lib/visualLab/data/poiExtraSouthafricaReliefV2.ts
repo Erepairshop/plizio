@@ -7,7 +7,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-KZN",
     coords: [29.288, -29.355],
-    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg" },
+    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg",
+image: "/poi-images/drakensberg-relief-v2.webp"
+},
     description: { de: "Das höchste Gebirge Südafrikas mit markanten Gipfeln.", hu: "Dél-Afrika legmagasabb hegysége látványos csúcsokkal.", ro: "Cel mai înalt lanț muntos din Africa de Sud cu vârfuri spectaculoase.", en: "The highest mountain range in South Africa with striking peaks." },
     facts: {
       de: ["Höchster Gipfel Thabana Ntlenyana.", "Teil des UNESCO-Welterbes.", "Bekannt als 'uKhahlamba'."],
@@ -20,7 +22,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [18.406, -33.963],
-    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain" },
+    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain",
+image: "/poi-images/table-mountain-relief-v2.webp"
+},
     description: { de: "Ein markanter, flacher Berg über Kapstadt.", hu: "Jellegzetes, lapos tetejű hegy Fokváros felett.", ro: "Un munte plat caracteristic deasupra orașului Cape Town.", en: "A striking, flat-topped mountain above Cape Town." },
     facts: {
       de: ["Höhe ca. 1086 m.", "Wahrzeichen Kapstadts.", "Nationalpark-Gebiet."],
@@ -33,7 +37,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.25, -32.5],
-    name: { de: "Cederberge", hu: "Cederberg-hegység", ro: "Munții Cederberg", en: "Cederberg Mountains" },
+    name: { de: "Cederberge", hu: "Cederberg-hegység", ro: "Munții Cederberg", en: "Cederberg Mountains",
+image: "/poi-images/cederberg-relief-v2.webp"
+},
     description: { de: "Ein Gebirge bekannt für seine bizarren Felsformationen.", hu: "Bizarr sziklaformációiról ismert hegység.", ro: "Lanț muntos cunoscut pentru formațiunile sale stâncoase bizare.", en: "A mountain range known for its bizarre rock formations." },
     facts: {
       de: ["Bekannt für San-Felszeichnungen.", "Wildnisgebiet.", "Sandsteinformationen."],
@@ -46,7 +52,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.0, -33.3],
-    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg Mountains" },
+    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg Mountains",
+image: "/poi-images/swartberg-relief-v2.webp"
+},
     description: { de: "Eine beeindruckende Bergkette in der Kleinen Karoo.", hu: "Lenyűgöző hegylánc a Kis-Karoo régióban.", ro: "Un lanț muntos impresionant în regiunea Little Karoo.", en: "An impressive mountain range in the Little Karoo." },
     facts: {
       de: ["Swartberg-Pass ist eine berühmte Route.", "Teil der Kap-Faltengebirge.", "Hohe geologische Vielfalt."],
@@ -59,7 +67,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.5, -33.9],
-    name: { de: "Outeniqua-Berge", hu: "Outeniqua-hegység", ro: "Munții Outeniqua", en: "Outeniqua Mountains" },
+    name: { de: "Outeniqua-Berge", hu: "Outeniqua-hegység", ro: "Munții Outeniqua", en: "Outeniqua Mountains",
+image: "/poi-images/outeniqua-relief-v2.webp"
+},
     description: { de: "Ein Gebirgszug entlang der Gartenroute.", hu: "Hegylánc a Garden Route mentén.", ro: "Lanț muntos de-a lungul rutei Garden Route.", en: "A mountain range along the Garden Route." },
     facts: {
       de: ["Wichtige Wasserscheide.", "Feuchte, grüne Vegetation.", "Traditionelle Passstraßen."],
@@ -72,7 +82,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-KZN",
     coords: [30.0, -29.0],
-    name: { de: "Zulu-Hochland", hu: "Zulu-felföld", ro: "Podișul Zulu", en: "Zulu Highlands" },
+    name: { de: "Zulu-Hochland", hu: "Zulu-felföld", ro: "Podișul Zulu", en: "Zulu Highlands",
+image: "/poi-images/zulu-highlands-relief-v2.webp"
+},
     description: { de: "Hügeliges Hochland im Herzen von KwaZulu-Natal.", hu: "Dombos felföld KwaZulu-Natal szívében.", ro: "Podiș deluros în inima provinciei KwaZulu-Natal.", en: "Hilly highlands in the heart of KwaZulu-Natal." },
     facts: {
       de: ["Kulturelles Zentrum der Zulu.", "Strategisch wichtige Lage.", "Grüne Weideflächen."],
@@ -85,7 +97,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-NC",
     coords: [22.0, -26.0],
-    name: { de: "Kalahari-Becken", hu: "Kalahári-medence", ro: "Bazinul Kalahari", en: "Kalahari Basin" },
+    name: { de: "Kalahari-Becken", hu: "Kalahári-medence", ro: "Bazinul Kalahari", en: "Kalahari Basin",
+image: "/poi-images/kalahari-basin-relief-v2.webp"
+},
     description: { de: "Ein riesiges Becken, das den größten Teil Nordkap-Südafrikas bedeckt.", hu: "Hatalmas medence, amely Dél-Afrika Észak-Fokföldjének nagy részét borítja.", ro: "Un bazin vast care acoperă cea mai mare parte a provinciei Northern Cape din Africa de Sud.", en: "A vast basin covering much of Northern Cape, South Africa." },
     facts: {
       de: ["Halbwüste.", "Rote Sanddünen.", "Spärliche Vegetation."],
@@ -98,7 +112,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-EC",
     coords: [24.0, -32.0],
-    name: { de: "Karoo-Halbwüste", hu: "Karoo félsivatag", ro: "Semideșertul Karoo", en: "Karoo Semi-desert" },
+    name: { de: "Karoo-Halbwüste", hu: "Karoo félsivatag", ro: "Semideșertul Karoo", en: "Karoo Semi-desert",
+image: "/poi-images/karoo-relief-v2.webp"
+},
     description: { de: "Ein riesiges arides Plateau im Landesinneren.", hu: "Hatalmas száraz fennsík az ország belsejében.", ro: "Un platou arid vast în interiorul țării.", en: "A vast arid plateau in the country's interior." },
     facts: {
       de: ["Große geologische Vielfalt.", "Bekannt für Fossilien.", "Trockene Buschlandschaft."],
@@ -112,7 +128,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-LIM",
     coords: [29.5, -23.5],
-    name: { de: "Limpopo-Ebenen", hu: "Limpopo-síkság", ro: "Câmpiile Limpopo", en: "Limpopo Plains" },
+    name: { de: "Limpopo-Ebenen", hu: "Limpopo-síkság", ro: "Câmpiile Limpopo", en: "Limpopo Plains",
+image: "/poi-images/limpopo-plains-relief-v2.webp"
+},
     description: { de: "Weite, tiefer gelegene Ebenen im Norden.", hu: "Széles, alacsonyan fekvő síkságok az északi részen.", ro: "Câmpii vaste, joase în partea de nord.", en: "Broad, lower-lying plains in the north." },
     facts: {
       de: ["Heißes Klima.", "Landwirtschaftlich genutzt.", "Buschsavanne."],
@@ -125,7 +143,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-GP",
     coords: [28.5, -26.0],
-    name: { de: "Highveld-Plateau", hu: "Highveld-fennsík", ro: "Podișul Highveld", en: "Highveld Plateau" },
+    name: { de: "Highveld-Plateau", hu: "Highveld-fennsík", ro: "Podișul Highveld", en: "Highveld Plateau",
+image: "/poi-images/highveld-plateau-relief-v2.webp"
+},
     description: { de: "Ein hochgelegenes, flaches Grasland-Plateau.", hu: "Magasan fekvő, lapos füves fennsík.", ro: "Un platou înalt de pajiști plate.", en: "A high-altitude, flat grassland plateau." },
     facts: {
       de: ["Durchschnittshöhe über 1500 m.", "Industrie- und Bevölkerungszentrum.", "Moderate Temperaturen."],
@@ -139,7 +159,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-MP",
     coords: [31.5, -25.0],
-    name: { de: "Lowveld", hu: "Lowveld", ro: "Lowveld", en: "Lowveld" },
+    name: { de: "Lowveld", hu: "Lowveld", ro: "Lowveld", en: "Lowveld",
+image: "/poi-images/lowveld-relief-v2.webp"
+},
     description: { de: "Die tiefer gelegenen Regionen östlich des Highvelds.", hu: "Az alacsonyan fekvő régiók a Highveldtől keletre.", ro: "Regiunile joase la est de Highveld.", en: "The lower-lying regions east of the Highveld." },
     facts: {
       de: ["Subtropisches Klima.", "Reiche Tierwelt.", "Savannenlandschaft."],
@@ -152,7 +174,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-NC",
     coords: [17.5, -29.0],
-    name: { de: "Namib-Randgebiet", hu: "Namib-peremvidék", ro: "Zona marginală Namib", en: "Namib fringe area" },
+    name: { de: "Namib-Randgebiet", hu: "Namib-peremvidék", ro: "Zona marginală Namib", en: "Namib fringe area",
+image: "/poi-images/namib-fringe-relief-v2.webp"
+},
     description: { de: "Die trockene Randzone der Namib-Wüste in Südafrika.", hu: "A Namib-sivatag száraz peremzónája Dél-Afrikában.", ro: "Zona aridă marginală a deșertului Namib în Africa de Sud.", en: "The arid fringe zone of the Namib Desert in South Africa." },
     facts: {
       de: ["Extrem aride Bedingungen.", "Wüstenartige Felslandschaften.", "Einzigartige Flora."],
@@ -165,7 +189,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-EC",
     coords: [25.5, -33.2],
-    name: { de: "Suurberge", hu: "Suurberg-hegység", ro: "Munții Suurberg", en: "Suurberg Mountains" },
+    name: { de: "Suurberge", hu: "Suurberg-hegység", ro: "Munții Suurberg", en: "Suurberg Mountains",
+image: "/poi-images/suurberg-relief-v2.webp"
+},
     description: { de: "Eine Bergkette im Addo-Elefanten-Nationalpark-Gebiet.", hu: "Hegylánc az Addo Elefánt Nemzeti Park területén.", ro: "Un lanț muntos în zona Parcului Național Addo Elephant.", en: "A mountain range in the Addo Elephant National Park area." },
     facts: {
       de: ["Steile Hänge.", "Fynbos-Vegetation.", "Schutzgebiet."],
@@ -178,7 +204,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-EC",
     coords: [26.5, -32.5],
-    name: { de: "Winterberg", hu: "Winterberg", ro: "Winterberg", en: "Winterberg" },
+    name: { de: "Winterberg", hu: "Winterberg", ro: "Winterberg", en: "Winterberg",
+image: "/poi-images/winterberg-relief-v2.webp"
+},
     description: { de: "Eine Bergregion im Ostkap mit kühleren Temperaturen.", hu: "Hegyvidék a Kelet-Fokföldön, hűvösebb hőmérséklettel.", ro: "Regiune muntoasă în Eastern Cape cu temperaturi mai reci.", en: "A mountain region in the Eastern Cape with cooler temperatures." },
     facts: {
       de: ["Gelegentlicher Schnee.", "Grasbedeckte Gipfel.", "Hohes Plateau."],
@@ -191,7 +219,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-EC",
     coords: [27.0, -32.5],
-    name: { de: "Amathole-Berge", hu: "Amathole-hegység", ro: "Munții Amathole", en: "Amathole Mountains" },
+    name: { de: "Amathole-Berge", hu: "Amathole-hegység", ro: "Munții Amathole", en: "Amathole Mountains",
+image: "/poi-images/amathole-relief-v2.webp"
+},
     description: { de: "Eine bewaldete Bergkette im Ostkap.", hu: "Erdős hegylánc a Kelet-Fokföldön.", ro: "Un lanț muntos împădurit în Eastern Cape.", en: "A forested mountain range in the Eastern Cape." },
     facts: {
       de: ["Historisch bedeutsam.", "Nebelwälder.", "Wandergebiet."],
@@ -204,7 +234,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-LIM",
     coords: [30.5, -24.0],
-    name: { de: "Murchison-Hügel", hu: "Murchison-dombok", ro: "Dealurile Murchison", en: "Murchison Hills" },
+    name: { de: "Murchison-Hügel", hu: "Murchison-dombok", ro: "Dealurile Murchison", en: "Murchison Hills",
+image: "/poi-images/murchison-relief-v2.webp"
+},
     description: { de: "Eine Hügellandschaft im Nordosten Südafrikas.", hu: "Dombvidék Dél-Afrika északkeleti részén.", ro: "Un peisaj de dealuri în nord-estul Africii de Sud.", en: "A hilly landscape in the northeast of South Africa." },
     facts: {
       de: ["Geologisch alt.", "Mineralreiches Gebiet.", "Bushveld-Vegetation."],
@@ -217,7 +249,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-LIM",
     coords: [28.0, -24.0],
-    name: { de: "Waterberg-Plateau", hu: "Waterberg-fennsík", ro: "Podișul Waterberg", en: "Waterberg Plateau" },
+    name: { de: "Waterberg-Plateau", hu: "Waterberg-fennsík", ro: "Podișul Waterberg", en: "Waterberg Plateau",
+image: "/poi-images/waterberg-relief-v2.webp"
+},
     description: { de: "Ein Sandstein-Plateau im Limpopo-Gebiet.", hu: "Homokkő-fennsík a Limpopo régióban.", ro: "Un platou de gresie în regiunea Limpopo.", en: "A sandstone plateau in the Limpopo region." },
     facts: {
       de: ["UNESCO-Biosphärenreservat.", "Steile Klippen.", "Reiche Flora."],
@@ -230,7 +264,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-NW",
     coords: [27.5, -25.8],
-    name: { de: "Magaliesberge", hu: "Magaliesberg", ro: "Munții Magaliesberg", en: "Magaliesberg" },
+    name: { de: "Magaliesberge", hu: "Magaliesberg", ro: "Munții Magaliesberg", en: "Magaliesberg",
+image: "/poi-images/magaliesberg-relief-v2.webp"
+},
     description: { de: "Eines der ältesten Gebirge der Welt.", hu: "A világ egyik legrégebbi hegysége.", ro: "Unul dintre cele mai vechi lanțuri muntoase din lume.", en: "One of the oldest mountain ranges in the world." },
     facts: {
       de: ["Über 2 Milliarden Jahre alt.", "Beliebtes Erholungsgebiet.", "Sandstein- und Quarzitkämme."],
@@ -243,7 +279,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-NC",
     coords: [19.0, -27.5],
-    name: { de: "Kharras-Berge", hu: "Kharras-hegység", ro: "Munții Kharras", en: "Kharras Mountains" },
+    name: { de: "Kharras-Berge", hu: "Kharras-hegység", ro: "Munții Kharras", en: "Kharras Mountains",
+image: "/poi-images/kharras-relief-v2.webp"
+},
     description: { de: "Eine trockene Bergregion in der Nordkap-Provinz.", hu: "Száraz hegyvidék az Észak-Fokföld tartományban.", ro: "Regiune muntoasă aridă în provincia Northern Cape.", en: "An arid mountain region in the Northern Cape province." },
     facts: {
       de: ["Spärliche Vegetation.", "Felsiges Terrain.", "Wüstenklima."],
@@ -256,7 +294,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-NC",
     coords: [20.5, -32.0],
-    name: { de: "Komsberg", hu: "Komsberg", ro: "Komsberg", en: "Komsberg" },
+    name: { de: "Komsberg", hu: "Komsberg", ro: "Komsberg", en: "Komsberg",
+image: "/poi-images/komsberg-relief-v2.webp"
+},
     description: { de: "Teil des Großen Randstufen-Gebirges (Great Escarpment).", hu: "A Nagy-párkányhegység (Great Escarpment) része.", ro: "Parte a lanțului muntos Great Escarpment.", en: "Part of the Great Escarpment mountain range." },
     facts: {
       de: ["Große Höhenunterschiede.", "Wichtige geologische Formation.", "Trockene Hänge."],
@@ -270,7 +310,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-EC",
     coords: [24.5, -32.0],
-    name: { de: "Sneeuberge", hu: "Sneeuberge", ro: "Sneeuberge", en: "Sneeuberge" },
+    name: { de: "Sneeuberge", hu: "Sneeuberge", ro: "Sneeuberge", en: "Sneeuberge",
+image: "/poi-images/sneeuberge-relief-v2.webp"
+},
     description: { de: "Gebirgszug bei Graaff-Reinet im Ostkap.", hu: "Hegylánc Graaff-Reinet mellett a Kelet-Fokföldön.", ro: "Lanț muntos lângă Graaff-Reinet în Eastern Cape.", en: "Mountain range near Graaff-Reinet in the Eastern Cape." },
     facts: {
       de: ["Name bedeutet 'Schneeberge'.", "Trockene Graslandschaften.", "Interessante Felsformationen."],
@@ -283,7 +325,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-NC",
     coords: [21.5, -30.0],
-    name: { de: "Rooge-Hügel", hu: "Rooge-dombok", ro: "Dealurile Rooge", en: "Rooge Hills" },
+    name: { de: "Rooge-Hügel", hu: "Rooge-dombok", ro: "Dealurile Rooge", en: "Rooge Hills",
+image: "/poi-images/rooge-relief-v2.webp"
+},
     description: { de: "Hügellandschaft am Rande des Großen Randstufen-Gebirges.", hu: "Dombvidék a Nagy-párkányhegység peremén.", ro: "Podiș deluros la marginea Great Escarpment.", en: "Hilly landscape at the edge of the Great Escarpment." },
     facts: {
       de: ["Trockenheit.", "Felsige Hügel.", "Offene Landschaft."],
@@ -296,7 +340,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "relief",
     parent: "ZA-EC",
     coords: [24.0, -33.5],
-    name: { de: "Baviaanskloof-Tal", hu: "Baviaanskloof-völgy", ro: "Valea Baviaanskloof", en: "Baviaanskloof Valley" },
+    name: { de: "Baviaanskloof-Tal", hu: "Baviaanskloof-völgy", ro: "Valea Baviaanskloof", en: "Baviaanskloof Valley",
+image: "/poi-images/baviaanskloof-relief-v2.webp"
+},
     description: { de: "Ein spektakuläres, tief eingeschnittenes Tal.", hu: "Látványos, mélyen bevágódott völgy.", ro: "O vale spectaculoasă, adânc incizată.", en: "A spectacular, deeply incised valley." },
     facts: {
       de: ["UNESCO-Welterbe.", "Reiche Biodiversität.", "Wildnisgebiet."],
@@ -309,7 +355,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.0, -34.0],
-    name: { de: "Kogelberg-Berge", hu: "Kogelberg-hegység", ro: "Munții Kogelberg", en: "Kogelberg Mountains" },
+    name: { de: "Kogelberg-Berge", hu: "Kogelberg-hegység", ro: "Munții Kogelberg", en: "Kogelberg Mountains",
+image: "/poi-images/kogelberg-relief-v2.webp"
+},
     description: { de: "Das Herzstück des Kap-Fynbos-Bioms.", hu: "A fynbos-biom szíve a Fokföldön.", ro: "Inima biomului Cape Fynbos.", en: "The heart of the Cape Fynbos biome." },
     facts: {
       de: ["Höchste Pflanzenvielfalt.", "Bergregion.", "Meerblick."],
@@ -322,7 +370,9 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-LIM",
     coords: [28.8, -23.0],
-    name: { de: "Blouberg", hu: "Blouberg", ro: "Blouberg", en: "Blouberg" },
+    name: { de: "Blouberg", hu: "Blouberg", ro: "Blouberg", en: "Blouberg",
+image: "/poi-images/blouberg-relief-v2.webp"
+},
     description: { de: "Ein isolierter Bergmassiv in der Limpopo-Provinz.", hu: "Elszigetelt hegymasszívum Limpopo tartományban.", ro: "Masiv muntos izolat în provincia Limpopo.", en: "An isolated mountain massif in the Limpopo province." },
     facts: {
       de: ["Bekannt für Geier.", "Steile Wände.", "Wildnis."],

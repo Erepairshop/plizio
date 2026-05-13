@@ -11,8 +11,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Kristallberge",
       hu: "Kristály-hegység",
       ro: "Munții de Cristal",
-      en: "Crystal Mountains"
-    },
+      en: "Crystal Mountains",
+image: "/poi-images/kristallberge-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug parallel zur Atlantikküste, der den Kongo-Fluss zur Bildung von Stromschnellen zwingt.",
       hu: "Az Atlanti-óceán partjával párhuzamos hegylánc, amely a Kongó folyót zuhatagok kialakítására kényszeríti.",
@@ -34,8 +35,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Blaue Berge",
       hu: "Kék-hegység",
       ro: "Munții Albaștri",
-      en: "Blue Mountains"
-    },
+      en: "Blue Mountains",
+image: "/poi-images/blaue-berge-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgsmassiv westlich des Albertsees, bekannt für seine spektakuläre Aussicht auf den Grabenbruch.",
       hu: "Az Albert-tótól nyugatra fekvő hegység, amely a vetődésre nyíló látványáról híres.",
@@ -57,8 +59,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Itombwe-Massiv",
       hu: "Itombwe-masszívum",
       ro: "Masivul Itombwe",
-      en: "Itombwe Massif"
-    },
+      en: "Itombwe Massif",
+image: "/poi-images/itombwe-massiv-relief-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Gebirge im Osten des Landes, das sich durch seine hohe Artenvielfalt auszeichnet.",
       hu: "Jelentős hegység az ország keleti részén, amely gazdag biológiai sokféleségéről ismert.",
@@ -80,8 +83,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Mont Muhi",
       hu: "Muhi-hegy",
       ro: "Muntele Muhi",
-      en: "Mount Muhi"
-    },
+      en: "Mount Muhi",
+image: "/poi-images/mont-muhi-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Gipfel im Itombwe-Massiv, der die Umgebung markant überragt.",
       hu: "Az Itombwe-masszívum egyik legmagasabb csúcsa, amely kiemelkedik környezetéből.",
@@ -103,8 +107,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Mont Shungwe",
       hu: "Shungwe-hegy",
       ro: "Muntele Shungwe",
-      en: "Mount Shungwe"
-    },
+      en: "Mount Shungwe",
+image: "/poi-images/mont-shungwe-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berg im südlichen Teil des Itombwe-Gebirges.",
       hu: "Jelentős hegycsúcs az Itombwe-hegység déli részén.",
@@ -126,8 +131,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Mont Tshiaberimu",
       hu: "Tshiaberimu-hegy",
       ro: "Muntele Tshiaberimu",
-      en: "Mount Tshiaberimu"
-    },
+      en: "Mount Tshiaberimu",
+image: "/poi-images/mont-tshiaberimu-relief-v2.webp"
+},
     description: {
       de: "Ein isolierter Gebirgsstock am westlichen Rand des Eduardsees.",
       hu: "Szigetszerű hegység az Eduard-tó nyugati peremén.",
@@ -149,8 +155,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Kibara-Berge",
       hu: "Kibara-hegység",
       ro: "Munții Kibara",
-      en: "Kibara Mountains"
-    },
+      en: "Kibara Mountains",
+image: "/poi-images/kibara-berge-relief-v2.webp"
+},
     description: {
       de: "Eine Hügelkette in der Provinz Haut-Lomami, die reich an Mineralien ist.",
       hu: "Ásványkincsekben gazdag dombvidék Haut-Lomami tartományban.",
@@ -172,8 +179,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Lofoi-Wasserfälle",
       hu: "Lofoi-vízesés",
       ro: "Cascada Lofoi",
-      en: "Lofoi Falls"
-    },
+      en: "Lofoi Falls",
+image: "/poi-images/lofoi-wasserfaelle-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Wasserfälle Afrikas, bei dem das Wasser über 340 Meter in die Tiefe stürzt.",
       hu: "Afrika egyik legmagasabb vízesése, ahol a víz több mint 340 métert zuhan.",
@@ -195,8 +203,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Lukaya-Wasserfälle",
       hu: "Lukaya-vízesés",
       ro: "Cascadele Lukaya",
-      en: "Lukaya Falls"
-    },
+      en: "Lukaya Falls",
+image: "/poi-images/lukaya-wasserfaelle-relief-v2.webp"
+},
     description: {
       de: "Kleine, aber malerische Wasserfälle in der Nähe von Kinshasa am Fluss Lukaya.",
       hu: "Kicsi, de festői vízesések Kinshasa közelében a Lukaya-folyón.",
@@ -219,8 +228,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Kiubo-Wasserfälle",
       hu: "Kiubo-vízesés",
       ro: "Cascadele Kiubo",
-      en: "Kiubo Falls"
-    },
+      en: "Kiubo Falls",
+image: "/poi-images/kiubo-wasserfaelle-relief-v2.webp"
+},
     description: {
       de: "Beeindruckende Kaskaden des Lufira-Flusses in der Provinz Haut-Katanga.",
       hu: "A Lufira-folyó lenyűgöző zúgói Haut-Katanga tartományban.",
@@ -242,8 +252,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Kamanyola-Schlucht",
       hu: "Kamanyola-szurdok",
       ro: "Defileul Kamanyola",
-      en: "Kamanyola Gorge"
-    },
+      en: "Kamanyola Gorge",
+image: "/poi-images/kamanyola-schlucht-relief-v2.webp"
+},
     description: {
       de: "Eine tiefe Schlucht des Ruzizi-Flusses, die den Kiwusee mit dem Tanganjikasee verbindet.",
       hu: "A Ruzizi-folyó mély szurdoka, amely összeköti a Kivu-tavat a Tanganyika-tóval.",
@@ -265,8 +276,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Ngiri-Sumpfwald",
       hu: "Ngiri-mocsárerdő",
       ro: "Pădurea mlaștină Ngiri",
-      en: "Ngiri Swamp Forest"
-    },
+      en: "Ngiri Swamp Forest",
+image: "/poi-images/ngiri-sumpfwald-relief-v2.webp"
+},
     description: {
       de: "Ein ausgedehntes Gebiet mit periodisch überschwemmten Wäldern zwischen den Flüssen Ubangi und Kongo.",
       hu: "Kiterjedt időszakosan elárasztott erdőterület az Ubangi és a Kongó folyók között.",
@@ -288,8 +300,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Azande-Schwelle",
       hu: "Azande-küszöb",
       ro: "Pragul Azande",
-      en: "Azande Threshold"
-    },
+      en: "Azande Threshold",
+image: "/poi-images/azande-schwelle-relief-v2.webp"
+},
     description: {
       de: "Eine sanfte Erhebung im Norden, die die Wasserscheide zwischen den Becken des Nils und des Kongos bildet.",
       hu: "Északi domborulati kiemelkedés, amely vízválasztót alkot a Nílus és a Kongó medencéje között.",
@@ -312,8 +325,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Batéké-Plateau",
       hu: "Batéké-fennsík",
       ro: "Podișul Batéké",
-      en: "Batéké Plateau"
-    },
+      en: "Batéké Plateau",
+image: "/poi-images/bateke-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine weitläufige Hochebene aus Sandstein, die sich nordöstlich von Kinshasa erstreckt.",
       hu: "Kiterjedt homokkő fennsík, amely Kinshasától északkeletre terül el.",
@@ -335,8 +349,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Kwango-Hochebene",
       hu: "Kwango-fennsík",
       ro: "Podișul Kwango",
-      en: "Kwango Plateau"
-    },
+      en: "Kwango Plateau",
+image: "/poi-images/kwango-hochebene-relief-v2.webp"
+},
     description: {
       de: "Ein hochgelegenes Plateau im Südwesten, das durch tiefe Flusstäler zerfurcht ist.",
       hu: "Délnyugati magasföld, amelyet mély folyóvölgyek szabdalnak fel.",
@@ -358,8 +373,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Manika-Plateau",
       hu: "Manika-fennsík",
       ro: "Podișul Manika",
-      en: "Manika Plateau"
-    },
+      en: "Manika Plateau",
+image: "/poi-images/manika-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine markante Hochebene in der Provinz Lualaba, nahe der Stadt Kolwezi.",
       hu: "Jelentős fennsík Lualaba tartományban, Kolwezi városa közelében.",
@@ -381,8 +397,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Lukuga-Tal",
       hu: "Lukuga-völgy",
       ro: "Valea Lukuga",
-      en: "Lukuga Valley"
-    },
+      en: "Lukuga Valley",
+image: "/poi-images/lukuga-tal-relief-v2.webp"
+},
     description: {
       de: "Ein tektonisches Tal, durch das der Lukuga-Fluss als einziger Abfluss des Tanganjikasees fließt.",
       hu: "Tektonikus völgy, amelyen keresztül a Lukuga-folyó, a Tanganyika-tó egyetlen kifolyása halad.",
@@ -405,8 +422,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Maniema-Hochebene",
       hu: "Maniema-fennsík",
       ro: "Podișul Maniema",
-      en: "Maniema Plateau"
-    },
+      en: "Maniema Plateau",
+image: "/poi-images/maniema-hochebene-relief-v2.webp"
+},
     description: {
       de: "Eine hügelige Übergangszone zwischen dem zentralen Regenwald und den östlichen Bergen.",
       hu: "Dombos átmeneti zóna a központi esőerdő és a keleti hegyvidék között.",
@@ -428,8 +446,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Tshuapa-Regenwald",
       hu: "Tshuapa-esőerdő",
       ro: "Pădurea tropicală Tshuapa",
-      en: "Tshuapa Rainforest"
-    },
+      en: "Tshuapa Rainforest",
+image: "/poi-images/tshuapa-regenwald-relief-v2.webp"
+},
     description: {
       de: "Ein riesiges, unberührtes Waldgebiet im Herzen des Kongobeckens.",
       hu: "Hatalmas, érintetlen erdőség a Kongó-medence szívében.",
@@ -452,8 +471,9 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       de: "Inzia-Tal",
       hu: "Inzia-völgy",
       ro: "Valea Inzia",
-      en: "Inzia Valley"
-    },
+      en: "Inzia Valley",
+image: "/poi-images/inzia-tal-relief-v2.webp"
+},
     description: {
       de: "Ein weites Flusstal in der Provinz Kwilu, geprägt von Galeriewäldern.",
       hu: "Széles folyóvölgy Kwilu tartományban, galériaerdőkkel kísérve.",

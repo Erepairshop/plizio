@@ -6,7 +6,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "industry",
     parent: "MM-06",
     coords: [96.2625, 16.6661],
-    name: { de: "Sonderwirtschaftszone Thilawa", hu: "Thilawa Különleges Gazdasági Övezet", ro: "Zona Economică Specială Thilawa", en: "Thilawa Special Economic Zone" },
+    name: { de: "Sonderwirtschaftszone Thilawa", hu: "Thilawa Különleges Gazdasági Övezet", ro: "Zona Economică Specială Thilawa", en: "Thilawa Special Economic Zone",
+image: "/poi-images/thilawa-special-economic-zone-economic-v2.webp"
+},
     description: {
       de: "Die erste in Betrieb genommene Sonderwirtschaftszone in Myanmar, die eine Vielzahl von Produktions- und Industrieanlagen in der Nähe von Yangon beherbergt.",
       hu: "Mianmar elsőként működésbe lépett különleges gazdasági övezete, amely számos gyártó- és ipari létesítménynek ad otthont Jangon közelében.",
@@ -36,7 +38,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "energy",
     parent: "MM-05",
     coords: [98.1177, 14.7333],
-    name: { de: "Gasterminal Kanbauk", hu: "Kanbauk Gázterminál", ro: "Terminalul de Gaze Kanbauk", en: "Kanbauk Gas Terminal" },
+    name: { de: "Gasterminal Kanbauk", hu: "Kanbauk Gázterminál", ro: "Terminalul de Gaze Kanbauk", en: "Kanbauk Gas Terminal",
+image: "/poi-images/kanbauk-gas-terminal-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige Anlage in der Tanintharyi-Region, in der Erdgas von Offshore-Feldern verarbeitet und nach Thailand exportiert wird.",
       hu: "Fontos létesítmény a Tanintharyi régióban, ahol az offshore mezőkről származó földgázt feldolgozzák és Thaiföldre exportálják.",
@@ -66,7 +70,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "mine",
     parent: "MM-01",
     coords: [95.0667, 22.0833],
-    name: { de: "Kupferbergwerk Letpadaung", hu: "Letpadaung Rézbánya", ro: "Mina de Cupru Letpadaung", en: "Letpadaung Copper Mine" },
+    name: { de: "Kupferbergwerk Letpadaung", hu: "Letpadaung Rézbánya", ro: "Mina de Cupru Letpadaung", en: "Letpadaung Copper Mine",
+image: "/poi-images/letpadaung-copper-mine-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Kupferbergwerke Südostasiens in der Nähe von Monywa, das jedoch aufgrund sozialer und ökologischer Probleme stark umstritten ist.",
       hu: "Délkelet-Ázsia egyik legnagyobb rézbányája Monywa közelében, amely azonban komoly viták tárgya társadalmi és környezeti problémák miatt.",
@@ -96,7 +102,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "mine",
     parent: "MM-11",
     coords: [96.3150, 25.6150],
-    name: { de: "Jade-Bergwerk Hpakant", hu: "Hpakant Jádebánya", ro: "Mina de Jad Hpakant", en: "Hpakant Jade Mine" },
+    name: { de: "Jade-Bergwerk Hpakant", hu: "Hpakant Jádebánya", ro: "Mina de Jad Hpakant", en: "Hpakant Jade Mine",
+image: "/poi-images/hpakant-jade-mine-economic-v2.webp"
+},
     description: {
       de: "Das weltweit größte und lukrativste Zentrum für den Abbau von Jadeit, das einen massiven wirtschaftlichen Wert generiert, aber für gefährliche Arbeitsbedingungen berüchtigt ist.",
       hu: "A világ legnagyobb és legjövedelmezőbb jadeitbányászati központja, amely hatalmas gazdasági értéket termel, de hírhedt a veszélyes munkakörülményekről.",
@@ -126,7 +134,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "MM-13",
     coords: [98.5083, 16.6883],
-    name: { de: "Grenzhub Myawaddy", hu: "Myawaddy Határmenti Kereskedelmi Központ", ro: "Centrul Comercial de Frontieră Myawaddy", en: "Myawaddy Border Trade Hub" },
+    name: { de: "Grenzhub Myawaddy", hu: "Myawaddy Határmenti Kereskedelmi Központ", ro: "Centrul Comercial de Frontieră Myawaddy", en: "Myawaddy Border Trade Hub",
+image: "/poi-images/myawaddy-border-trade-hub-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Landgrenzübergang zwischen Myanmar und Thailand, der einen massiven Fluss von Waren und landwirtschaftlichen Produkten ermöglicht.",
       hu: "A legfontosabb szárazföldi határátkelő Mianmar és Thaiföld között, amely hatalmas áru- és mezőgazdasági termékáramlást tesz lehetővé.",
@@ -156,7 +166,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "mine",
     parent: "MM-04",
     coords: [96.5055, 22.9238],
-    name: { de: "Rubinminen von Mogok", hu: "Mogok Rubinbányák", ro: "Minele de Rubin din Mogok", en: "Mogok Ruby Mines" },
+    name: { de: "Rubinminen von Mogok", hu: "Mogok Rubinbányák", ro: "Minele de Rubin din Mogok", en: "Mogok Ruby Mines",
+image: "/poi-images/mogok-ruby-mines-economic-v2.webp"
+},
     description: {
       de: "Ein weltberühmtes Bergbaugebiet im Mandalay-Gebiet, das seit Jahrhunderten die begehrtesten Taubenblut-Rubine der Welt liefert.",
       hu: "Világhírű bányászati terület a Mandalay régióban, amely évszázadok óta a világ legkeresettebb galambvér-rubinjait szolgáltatja.",
@@ -186,7 +198,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "MM-17",
     coords: [97.9482, 23.9575],
-    name: { de: "105-Meilen-Handelszone", hu: "105 Mérföldes Kereskedelmi Övezet", ro: "Zona Comercială 105 Mile", en: "105 Mile Trade Zone" },
+    name: { de: "105-Meilen-Handelszone", hu: "105 Mérföldes Kereskedelmi Övezet", ro: "Zona Comercială 105 Mile", en: "105 Mile Trade Zone",
+image: "/poi-images/105-mile-trade-zone-economic-v2.webp"
+},
     description: {
       de: "Die größte und wichtigste Grenzübergangsstelle an der Grenze zu China nahe Muse, durch die ein Großteil des bilateralen Handels fließt.",
       hu: "A legnagyobb és legfontosabb határátkelőhely a kínai határon Muse közelében, amelyen a kétoldalú kereskedelem nagy része áthalad.",
@@ -217,7 +231,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "energy",
     parent: "MM-04",
     coords: [96.3472, 21.6883],
-    name: { de: "Wasserkraftwerk Yeywa", hu: "Yeywa Vízerőmű", ro: "Hidrocentrala Yeywa", en: "Yeywa Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Yeywa", hu: "Yeywa Vízerőmű", ro: "Hidrocentrala Yeywa", en: "Yeywa Hydropower Plant",
+image: "/poi-images/yeywa-hydropower-plant-economic-v2.webp"
+},
     description: {
       de: "Eines der wichtigsten Wasserkraftwerke Myanmars, gelegen am Fluss Myitnge, das einen großen Teil des nationalen Stromnetzes speist.",
       hu: "Mianmar egyik legfontosabb vízerőműve a Myitnge folyón, amely a nemzeti villamosenergia-hálózat nagy részét táplálja.",
@@ -247,7 +263,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "port",
     parent: "MM-05",
     coords: [98.1215, 14.1501],
-    name: { de: "Tiefseehafenprojekt Dawei", hu: "Dawei Mélyvízi Kikötő Projekt", ro: "Proiectul Portului de Mare Adâncime Dawei", en: "Dawei Deep Sea Port Project" },
+    name: { de: "Tiefseehafenprojekt Dawei", hu: "Dawei Mélyvízi Kikötő Projekt", ro: "Proiectul Portului de Mare Adâncime Dawei", en: "Dawei Deep Sea Port Project",
+image: "/poi-images/dawei-deep-sea-port-project-economic-v2.webp"
+},
     description: {
       de: "Ein massives geplantes Infrastrukturprojekt zur Schaffung eines Tiefseehafens und einer Sonderwirtschaftszone, das Südostasien mit dem Indischen Ozean verbinden soll.",
       hu: "Hatalmas tervezett infrastrukturális projekt egy mélyvízi kikötő és különleges gazdasági övezet létrehozására, amely Délkelet-Ázsiát az Indiai-óceánnal kötné össze.",
@@ -277,7 +295,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "industry",
     parent: "MM-16",
     coords: [93.5855, 19.3872],
-    name: { de: "Sonderwirtschaftszone Kyaukpyu", hu: "Kyaukpyu Különleges Gazdasági Övezet", ro: "Zona Economică Specială Kyaukpyu", en: "Kyaukpyu Special Economic Zone" },
+    name: { de: "Sonderwirtschaftszone Kyaukpyu", hu: "Kyaukpyu Különleges Gazdasági Övezet", ro: "Zona Economică Specială Kyaukpyu", en: "Kyaukpyu Special Economic Zone",
+image: "/poi-images/kyaukpyu-special-economic-zone-economic-v2.webp"
+},
     description: {
       de: "Eine strategisch wichtige Freihandels- und Industriezone im Rakhine-Staat, die von zentraler Bedeutung für den chinesisch-myanmarischen Wirtschaftskorridor ist.",
       hu: "Stratégiailag fontos szabadkereskedelmi és ipari övezet a Rakhine államban, amely központi jelentőségű a kínai-mianmari gazdasági folyosó számára.",
@@ -307,7 +327,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "mine",
     parent: "MM-04",
     coords: [96.0021, 23.4988],
-    name: { de: "Nickelbergwerk Tagaung Taung", hu: "Tagaung Taung Nikkelbánya", ro: "Mina de Nichel Tagaung Taung", en: "Tagaung Taung Nickel Mine" },
+    name: { de: "Nickelbergwerk Tagaung Taung", hu: "Tagaung Taung Nikkelbánya", ro: "Mina de Nichel Tagaung Taung", en: "Tagaung Taung Nickel Mine",
+image: "/poi-images/tagaung-taung-nickel-mine-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Bergbau- und Schmelzprojekt für Ferronickel im Mandalay-Gebiet, das hauptsächlich für den Export bestimmt ist.",
       hu: "Jelentős ferronikkel bányászati és kohászati projekt a Mandalay régióban, amelyet főként exportra szánnak.",
@@ -337,7 +359,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "energy",
     parent: "MM-03",
     coords: [94.8624, 20.2458],
-    name: { de: "Ölfeld Mann", hu: "Mann Olajmező", ro: "Câmpul Petrolier Mann", en: "Mann Oil Field" },
+    name: { de: "Ölfeld Mann", hu: "Mann Olajmező", ro: "Câmpul Petrolier Mann", en: "Mann Oil Field",
+image: "/poi-images/mann-oil-field-economic-v2.webp"
+},
     description: {
       de: "Eines der produktivsten Onshore-Ölfelder Myanmars, das in der Magway-Region liegt und seit Jahrzehnten eine stabile Ölquelle für das Land darstellt.",
       hu: "Mianmar egyik legtermékenyebb szárazföldi olajmezője a Magway régióban, amely évtizedek óta stabil olajforrást jelent az ország számára.",
@@ -367,7 +391,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "energy",
     parent: "MM-03",
     coords: [94.8194, 20.8933],
-    name: { de: "Ölfeld Chauk", hu: "Chauk Olajmező", ro: "Câmpul Petrolier Chauk", en: "Chauk Oil Field" },
+    name: { de: "Ölfeld Chauk", hu: "Chauk Olajmező", ro: "Câmpul Petrolier Chauk", en: "Chauk Oil Field",
+image: "/poi-images/chauk-oil-field-economic-v2.webp"
+},
     description: {
       de: "Ein historisches, aber immer noch aktives Ölfeld in Zentralmyanmar, das seit der britischen Kolonialzeit in Betrieb ist und sich entlang des Irrawaddy-Flusses erstreckt.",
       hu: "Történelmi, de még mindig aktív olajmező Közép-Mianmarban, amely a brit gyarmati időszak óta működik az Iravádi-folyó mentén.",
@@ -397,7 +423,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "industry",
     parent: "MM-15",
     coords: [97.2344, 17.2289],
-    name: { de: "Zuckerfabrik Belin", hu: "Belin Cukorgyár", ro: "Fabrica de Zahăr Belin", en: "Belin Sugar Mill" },
+    name: { de: "Zuckerfabrik Belin", hu: "Belin Cukorgyár", ro: "Fabrica de Zahăr Belin", en: "Belin Sugar Mill",
+image: "/poi-images/belin-sugar-mill-economic-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten landwirtschaftlichen Verarbeitungsanlagen im Mon-Staat, die das in der Umgebung angebaute Zuckerrohr zu raffiniertem Zucker für den Inlandsmarkt verarbeitet.",
       hu: "A Mon állam egyik legfontosabb mezőgazdasági feldolgozó üzeme, amely a környéken termesztett cukornádat finomított cukorrá dolgozza fel a hazai piac számára.",
@@ -427,7 +455,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "energy",
     parent: "MM-17",
     coords: [97.5583, 23.6305],
-    name: { de: "Wasserkraftwerk Shweli 1", hu: "Shweli 1 Vízerőmű", ro: "Hidrocentrala Shweli 1", en: "Shweli 1 Hydropower Station" },
+    name: { de: "Wasserkraftwerk Shweli 1", hu: "Shweli 1 Vízerőmű", ro: "Hidrocentrala Shweli 1", en: "Shweli 1 Hydropower Station",
+image: "/poi-images/shweli-1-hydropower-station-economic-v2.webp"
+},
     description: {
       de: "Ein großes Wasserkraftprojekt am Shweli-Fluss im Shan-Staat, das zur Energieversorgung sowohl Myanmars als auch der angrenzenden chinesischen Provinzen beiträgt.",
       hu: "Nagy vízerőmű-projekt a Shweli folyón, a Shan államban, amely mind Mianmar, mind a szomszédos kínai tartományok energiaellátásához hozzájárul.",
@@ -457,7 +487,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "port",
     parent: "MM-06",
     coords: [96.1664, 16.7644],
-    name: { de: "Binnenhafen Yangon", hu: "Jangon Belső Kikötő", ro: "Portul Interior Yangon", en: "Yangon Inner Port" },
+    name: { de: "Binnenhafen Yangon", hu: "Jangon Belső Kikötő", ro: "Portul Interior Yangon", en: "Yangon Inner Port",
+image: "/poi-images/yangon-inner-port-economic-v2.webp"
+},
     description: {
       de: "Der historische und wichtigste Flusshafen des Landes am Yangon-Fluss, der trotz Tiefgangsbeschränkungen einen großen Teil des Seehandels Myanmars abwickelt.",
       hu: "Az ország történelmi és legfontosabb folyami kikötője a Jangon-folyón, amely merülési korlátozásai ellenére a mianmari tengeri kereskedelem nagy részét bonyolítja le.",
@@ -487,7 +519,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "port",
     parent: "MM-06",
     coords: [96.1405, 16.7661],
-    name: { de: "Industriehafen Myanmar", hu: "Mianmari Ipari Kikötő", ro: "Portul Industrial Myanmar", en: "Myanmar Industrial Port" },
+    name: { de: "Industriehafen Myanmar", hu: "Mianmari Ipari Kikötő", ro: "Portul Industrial Myanmar", en: "Myanmar Industrial Port",
+image: "/poi-images/myanmar-industrial-port-economic-v2.webp"
+},
     description: {
       de: "Ein privat betriebenes Containerterminal in Yangon, das eine entscheidende Rolle in der Logistikkette Myanmars spielt und internationale Frachtschiffe bedient.",
       hu: "Magánkézben lévő konténerterminál Jangonban, amely kulcsszerepet játszik Mianmar logisztikai láncában, és nemzetközi teherhajókat szolgál ki.",
@@ -518,7 +552,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "mine",
     parent: "MM-05",
     coords: [98.4419, 14.1294],
-    name: { de: "Zinnmine Heinda", hu: "Heinda Ónbánya", ro: "Mina de Staniu Heinda", en: "Heinda Tin Mine" },
+    name: { de: "Zinnmine Heinda", hu: "Heinda Ónbánya", ro: "Mina de Staniu Heinda", en: "Heinda Tin Mine",
+image: "/poi-images/heinda-tin-mine-economic-v2.webp"
+},
     description: {
       de: "Eines der ältesten und größten Zinnbergwerke in der Tanintharyi-Region, das die reichen Mineralvorkommen der Tenasserim-Berge abbaut.",
       hu: "A Tanintharyi régió egyik legrégebbi és legnagyobb ónbányája, amely a Tenasserim-hegység gazdag ásványkincseit termeli ki.",
@@ -549,7 +585,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "energy",
     parent: "MM-17",
     coords: [96.7022, 20.4283],
-    name: { de: "Kohlekraftwerk Tigyit", hu: "Tigyit Szénerőmű", ro: "Centrala pe Cărbune Tigyit", en: "Tigyit Coal Power Plant" },
+    name: { de: "Kohlekraftwerk Tigyit", hu: "Tigyit Szénerőmű", ro: "Centrala pe Cărbune Tigyit", en: "Tigyit Coal Power Plant",
+image: "/poi-images/tigyit-coal-power-plant-economic-v2.webp"
+},
     description: {
       de: "Myanmars größtes Kohlekraftwerk, gelegen im südlichen Shan-Staat, das Energie liefert, aber oft wegen seiner Umweltbelastung in der Kritik steht.",
       hu: "Mianmar legnagyobb szénerőműve a déli Shan államban, amely energiát szolgáltat, de gyakran éri kritika a környezetszennyezés miatt.",
@@ -579,7 +617,9 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     type: "industry",
     parent: "MM-04",
     coords: [95.4208, 21.4394],
-    name: { de: "Stahlwerk Myingyan", hu: "Myingyan Acélmű", ro: "Oțelăria Myingyan", en: "Myingyan Steel Mill" },
+    name: { de: "Stahlwerk Myingyan", hu: "Myingyan Acélmű", ro: "Oțelăria Myingyan", en: "Myingyan Steel Mill",
+image: "/poi-images/myingyan-steel-mill-economic-v2.webp"
+},
     description: {
       de: "Ein staatliches Industriezentrum zur Stahlproduktion in der Mandalay-Region, das zur Deckung der Inlandsnachfrage nach Baumaterialien errichtet wurde.",
       hu: "Állami acélgyártó ipari központ a Mandalay régióban, amelyet az építőanyagok iránti hazai kereslet kielégítésére hoztak létre.",

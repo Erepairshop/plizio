@@ -11,8 +11,9 @@ export const poiExtraSurinameCitiesV2: POI[] = [
       de: "Paramaribo",
       hu: "Paramaribo",
       ro: "Paramaribo",
-      en: "Paramaribo"
-    },
+      en: "Paramaribo",
+image: "/poi-images/paramaribo-cities-v2.webp"
+},
     description: {
       de: "Die pulsierende Hauptstadt von Suriname liegt am Ufer des gleichnamigen Flusses. Die historische Innenstadt ist für ihre typisch niederländische Holzarchitektur bekannt.",
       hu: "Suriname nyüzsgő fővárosa az azonos nevű folyó partján fekszik. Történelmi belvárosa a jellegzetes holland faépítészetéről ismert.",
@@ -46,8 +47,9 @@ export const poiExtraSurinameCitiesV2: POI[] = [
       de: "Lelydorp",
       hu: "Lelydorp",
       ro: "Lelydorp",
-      en: "Lelydorp"
-    },
+      en: "Lelydorp",
+image: "/poi-images/lelydorp-cities-v2.webp"
+},
     description: {
       de: "Diese Gemeinde südlich von Paramaribo ist die zweitgrößte Stadt des Landes. Ursprünglich hieß sie Kofi-Djompo und wurde nach einem niederländischen Ingenieur umbenannt.",
       hu: "Ez a Paramaribótól délre fekvő település az ország második legnagyobb városa. Eredetileg Kofi-Djomponak hívták, és egy holland mérnökről nevezték át.",

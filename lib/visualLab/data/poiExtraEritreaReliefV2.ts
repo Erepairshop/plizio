@@ -7,7 +7,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-DK",
     coords: [40.66, 14.23],
-    name: { de: "Danakil-Senke", hu: "Danakil-mélyföld", ro: "Depresiunea Danakil", en: "Danakil Depression" },
+    name: { de: "Danakil-Senke", hu: "Danakil-mélyföld", ro: "Depresiunea Danakil", en: "Danakil Depression",
+image: "/poi-images/danakil-depression-relief-v2.webp"
+},
     description: { de: "Eine geologisch aktive vulkanische Ebene.", hu: "Geológiailag aktív vulkanikus síkság.", ro: "O câmpie vulcanică activă geologic.", en: "A geologically active volcanic plain." },
     facts: {
       de: ["Unter dem Meeresspiegel", "Extrem heiße Temperaturen"],
@@ -30,7 +32,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "mountain",
     parent: "ER-MA",
     coords: [39.46, 14.73],
-    name: { de: "Soira", hu: "Soira", ro: "Soira", en: "Soira" },
+    name: { de: "Soira", hu: "Soira", ro: "Soira", en: "Soira",
+image: "/poi-images/soira-mountain-relief-v2.webp"
+},
     description: { de: "Der höchste Berg Eritreas.", hu: "Eritrea legmagasabb hegye.", ro: "Cel mai înalt munte din Eritreea.", en: "The highest mountain in Eritrea." },
     facts: {
       de: ["3018 Meter Höhe", "Teil des äthiopischen Hochlandes"],
@@ -53,7 +57,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-GB",
     coords: [37.5, 15.5],
-    name: { de: "Barka-Ebene", hu: "Barka-síkság", ro: "Câmpia Barka", en: "Barka Plain" },
+    name: { de: "Barka-Ebene", hu: "Barka-síkság", ro: "Câmpia Barka", en: "Barka Plain",
+image: "/poi-images/barkai-plain-relief-v2.webp"
+},
     description: { de: "Eine weite, trockene Tieflandebene.", hu: "Széles, száraz alföldi terület.", ro: "O câmpie vastă și uscată.", en: "A vast, dry lowland plain." },
     facts: {
       de: ["Geringe Niederschläge", "Landwirtschaftliche Nutzung in Flusstälern"],
@@ -74,7 +80,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-AN",
     coords: [38.2, 16.5],
-    name: { de: "Sahel-Tiefland", hu: "Sahel-alföld", ro: "Câmpia Sahel", en: "Sahel Lowlands" },
+    name: { de: "Sahel-Tiefland", hu: "Sahel-alföld", ro: "Câmpia Sahel", en: "Sahel Lowlands",
+image: "/poi-images/sahel-lowlands-relief-v2.webp"
+},
     description: { de: "Das trockene Tiefland im Norden.", hu: "Száraz alföld északon.", ro: "Câmpie aridă în nord.", en: "The arid lowlands in the north." },
     facts: {
       de: ["Halbwüstenklima", "Spärliche Vegetation"],
@@ -94,7 +102,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-DK",
     coords: [39.7, 15.1],
-    name: { de: "Zula-Bucht-Tiefland", hu: "Zula-öböl alföld", ro: "Câmpia Golfului Zula", en: "Zula Bay Lowland" },
+    name: { de: "Zula-Bucht-Tiefland", hu: "Zula-öböl alföld", ro: "Câmpia Golfului Zula", en: "Zula Bay Lowland",
+image: "/poi-images/zula-bay-lowland-relief-v2.webp"
+},
     description: { de: "Küstennahes Tiefland bei der Zula-Bucht.", hu: "Partmenti alföld a Zula-öbölnél.", ro: "Câmpie de coastă lângă Golful Zula.", en: "Coastal lowland near Zula Bay." },
     facts: {
       de: ["Hitzeregion", "Salzhaltige Böden"],
@@ -113,7 +123,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "mountain",
     parent: "ER-AN",
     coords: [38.45, 15.78],
-    name: { de: "Keren-Hochland", hu: "Keren-felföld", ro: "Platoul Keren", en: "Keren Highlands" },
+    name: { de: "Keren-Hochland", hu: "Keren-felföld", ro: "Platoul Keren", en: "Keren Highlands",
+image: "/poi-images/keren-highland-relief-v2.webp"
+},
     description: { de: "Bergiges Hochland in der Region Anseba.", hu: "Hegyvidékes terület az Anseba régióban.", ro: "Platou muntos în regiunea Anseba.", en: "Mountainous highlands in the Anseba region." },
     facts: {
       de: ["Angenehmeres Klima als das Tiefland", "Wichtige Handelsroute"],
@@ -133,7 +145,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-DK",
     coords: [40.0, 14.5],
-    name: { de: "Eritreisches Rift-Tal", hu: "Eritreai-hasadékvölgy", ro: "Valea Riftului Eritrean", en: "Eritrean Rift Valley" },
+    name: { de: "Eritreisches Rift-Tal", hu: "Eritreai-hasadékvölgy", ro: "Valea Riftului Eritrean", en: "Eritrean Rift Valley",
+image: "/poi-images/eritra-rift-valley-relief-v2.webp"
+},
     description: { de: "Teil des großen Ostafrikanischen Grabenbruchs.", hu: "A Kelet-afrikai-árok része.", ro: "Parte a Marelui Rift Est-African.", en: "Part of the Great East African Rift." },
     facts: {
       de: ["Tektonisch sehr aktiv", "Vulkanische Aktivität"],
@@ -152,7 +166,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-GB",
     coords: [37.0, 15.2],
-    name: { de: "Gash-Tal", hu: "Gash-völgy", ro: "Valea Gash", en: "Gash Valley" },
+    name: { de: "Gash-Tal", hu: "Gash-völgy", ro: "Valea Gash", en: "Gash Valley",
+image: "/poi-images/gash-valley-relief-v2.webp"
+},
     description: { de: "Ein fruchtbares Flusstal im Westen.", hu: "Termékeny folyóvölgy nyugaton.", ro: "O vale fertilă a râului în vest.", en: "A fertile river valley in the west." },
     facts: {
       de: ["Saisonaler Flusslauf", "Wichtig für die Landwirtschaft"],
@@ -171,7 +187,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-MA",
     coords: [39.1, 15.3],
-    name: { de: "Esen-Plateau", hu: "Esen-fennsík", ro: "Platoul Esen", en: "Esen Plateau" },
+    name: { de: "Esen-Plateau", hu: "Esen-fennsík", ro: "Platoul Esen", en: "Esen Plateau",
+image: "/poi-images/esen-plateau-relief-v2.webp"
+},
     description: { de: "Eine Hochfläche nahe Asmara.", hu: "Magasföld Aszmara közelében.", ro: "Un platou înalt lângă Asmara.", en: "A highland plateau near Asmara." },
     facts: {
       de: ["Moderates Klima", "Landwirtschaftliche Nutzung"],
@@ -184,7 +202,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-SN",
     coords: [39.2, 15.6],
-    name: { de: "Ailet-Ebene", hu: "Ailet-síkság", ro: "Câmpia Ailet", en: "Ailet Plain" },
+    name: { de: "Ailet-Ebene", hu: "Ailet-síkság", ro: "Câmpia Ailet", en: "Ailet Plain",
+image: "/poi-images/ailet-plain-relief-v2.webp"
+},
     description: { de: "Tieflandregion zwischen Hochland und Küste.", hu: "Alföldi régió a felföld és a part között.", ro: "Regiune de câmpie între platou și coastă.", en: "Lowland region between highlands and coast." },
     facts: {
       de: ["Wüstenartige Bedingungen", "Sehr heiß"],
@@ -197,7 +217,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "mountain",
     parent: "ER-AN",
     coords: [38.6, 16.1],
-    name: { de: "Habab-Gebirge", hu: "Habab-hegység", ro: "Munții Habab", en: "Habab Mountains" },
+    name: { de: "Habab-Gebirge", hu: "Habab-hegység", ro: "Munții Habab", en: "Habab Mountains",
+image: "/poi-images/habab-mountain-relief-v2.webp"
+},
     description: { de: "Eine bergige Region im Norden.", hu: "Hegyvidékes régió északon.", ro: "O regiune muntoasă în nord.", en: "A mountainous region in the north." },
     facts: {
       de: ["Zerklüftetes Gelände", "Nomadische Weidegebiete"],
@@ -210,7 +232,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-SN",
     coords: [39.4, 15.6],
-    name: { de: "Massaua-Küstenebene", hu: "Massaua-parti síkság", ro: "Câmpia de coastă Massawa", en: "Massawa Coastal Plain" },
+    name: { de: "Massaua-Küstenebene", hu: "Massaua-parti síkság", ro: "Câmpia de coastă Massawa", en: "Massawa Coastal Plain",
+image: "/poi-images/massawa-coastal-plain-relief-v2.webp"
+},
     description: { de: "Schmale Ebene entlang des Roten Meeres.", hu: "Keskeny síkság a Vörös-tenger mentén.", ro: "Câmpie îngustă de-a lungul Mării Roșii.", en: "Narrow plain along the Red Sea." },
     facts: {
       de: ["Tropische Luftfeuchtigkeit", "Sehr flaches Gelände"],
@@ -224,7 +248,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-GB",
     coords: [37.2, 17.5],
-    name: { de: "Baraka-Delta", hu: "Baraka-delta", ro: "Delta Baraka", en: "Baraka Delta" },
+    name: { de: "Baraka-Delta", hu: "Baraka-delta", ro: "Delta Baraka", en: "Baraka Delta",
+image: "/poi-images/baraka-delta-relief-v2.webp"
+},
     description: { de: "Ein saisonales Flussdelta im Norden.", hu: "Időszakos folyódelta északon.", ro: "O deltă sezonieră a râului în nord.", en: "A seasonal river delta in the north." },
     facts: {
       de: ["Fruchtbarer Boden bei Hochwasser", "Wichtig für Viehzucht"],
@@ -237,7 +263,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "mountain",
     parent: "ER-SN",
     coords: [39.1, 15.2],
-    name: { de: "Semien-Bahri-Gebirge", hu: "Semien-Bahri-hegység", ro: "Munții Semien-Bahri", en: "Semien-Bahri Mountains" },
+    name: { de: "Semien-Bahri-Gebirge", hu: "Semien-Bahri-hegység", ro: "Munții Semien-Bahri", en: "Semien-Bahri Mountains",
+image: "/poi-images/semien-bahri-mountains-relief-v2.webp"
+},
     description: { de: "Steile Bergregion östlich von Asmara.", hu: "Meredek hegyvidék Aszmarától keletre.", ro: "Regiune muntoasă abruptă la est de Asmara.", en: "Steep mountain region east of Asmara." },
     facts: {
       de: ["Dichter Nebelwald", "Hohe Niederschlagsmengen"],
@@ -250,7 +278,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-GB",
     coords: [37.6, 15.1],
-    name: { de: "Barentu-Plateau", hu: "Barentu-fennsík", ro: "Platoul Barentu", en: "Barentu Plateau" },
+    name: { de: "Barentu-Plateau", hu: "Barentu-fennsík", ro: "Platoul Barentu", en: "Barentu Plateau",
+image: "/poi-images/barentu-plateau-relief-v2.webp"
+},
     description: { de: "Eine Hochebene im Westen.", hu: "Fennsík nyugaton.", ro: "Un platou în vest.", en: "A plateau in the west." },
     facts: {
       de: ["Savannenähnliche Vegetation", "Sanfte Hügellandschaft"],
@@ -264,7 +294,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-DK",
     coords: [40.8, 14.1],
-    name: { de: "Denkalia-Vulkanfeld", hu: "Denkalia-vulkáni mező", ro: "Câmpia vulcanică Denkalia", en: "Denkalia Volcanic Field" },
+    name: { de: "Denkalia-Vulkanfeld", hu: "Denkalia-vulkáni mező", ro: "Câmpia vulcanică Denkalia", en: "Denkalia Volcanic Field",
+image: "/poi-images/denkalia-volcanic-field-relief-v2.webp"
+},
     description: { de: "Eine Region mit zahlreichen Vulkanfeldern.", hu: "Számos vulkáni mezővel rendelkező régió.", ro: "O regiune cu numeroase câmpuri vulcanice.", en: "A region with numerous volcanic fields." },
     facts: {
       de: ["Basaltgestein", "Geothermisch aktiv"],
@@ -278,7 +310,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-AN",
     coords: [38.5, 16.0],
-    name: { de: "Anseba-Tal", hu: "Anseba-völgy", ro: "Valea Anseba", en: "Anseba Valley" },
+    name: { de: "Anseba-Tal", hu: "Anseba-völgy", ro: "Valea Anseba", en: "Anseba Valley",
+image: "/poi-images/ansaba-valley-relief-v2.webp"
+},
     description: { de: "Ein tief eingeschnittenes Flusstal.", hu: "Mélyen bevágódott folyóvölgy.", ro: "O vale adâncă a râului.", en: "A deeply incised river valley." },
     facts: {
       de: ["Saisonale Landwirtschaft", "Schmale Talsohle"],
@@ -291,7 +325,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-DK",
     coords: [40.2, 14.8],
-    name: { de: "Afer-Ebene", hu: "Afer-síkság", ro: "Câmpia Afer", en: "Afer Plain" },
+    name: { de: "Afer-Ebene", hu: "Afer-síkság", ro: "Câmpia Afer", en: "Afer Plain",
+image: "/poi-images/afer-plain-relief-v2.webp"
+},
     description: { de: "Ein extrem trockenes Tiefland.", hu: "Extrém száraz alföld.", ro: "O câmpie extrem de uscată.", en: "An extremely dry lowland." },
     facts: {
       de: ["Salzpfannen", "Wüstenklima"],
@@ -304,7 +340,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "mountain",
     parent: "ER-MA",
     coords: [39.3, 15.0],
-    name: { de: "Gura-Hochland", hu: "Gura-felföld", ro: "Platoul Gura", en: "Gura Highland" },
+    name: { de: "Gura-Hochland", hu: "Gura-felföld", ro: "Platoul Gura", en: "Gura Highland",
+image: "/poi-images/gura-highland-relief-v2.webp"
+},
     description: { de: "Ein bergiger Bereich im zentralen Hochland.", hu: "Hegyvidékes rész a központi felföldön.", ro: "O zonă muntoasă în platoul central.", en: "A mountainous area in the central highlands." },
     facts: {
       de: ["Kühles Bergklima", "Kiefernbewuchs"],
@@ -317,7 +355,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-SN",
     coords: [39.5, 15.5],
-    name: { de: "Merea-Ebene", hu: "Merea-síkság", ro: "Câmpia Merea", en: "Merea Plain" },
+    name: { de: "Merea-Ebene", hu: "Merea-síkság", ro: "Câmpia Merea", en: "Merea Plain",
+image: "/poi-images/merea-plain-relief-v2.webp"
+},
     description: { de: "Küstenebene in der Nähe von Massaua.", hu: "Partmenti síkság Massaua közelében.", ro: "Câmpie de coastă lângă Massawa.", en: "Coastal plain near Massawa." },
     facts: {
       de: ["Sandige Böden", "Dattelpalmen"],
@@ -330,7 +370,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "mountain",
     parent: "ER-AN",
     coords: [38.3, 16.3],
-    name: { de: "Hames-Gebirge", hu: "Hames-hegység", ro: "Munții Hames", en: "Hames Mountains" },
+    name: { de: "Hames-Gebirge", hu: "Hames-hegység", ro: "Munții Hames", en: "Hames Mountains",
+image: "/poi-images/hames-mountain-relief-v2.webp"
+},
     description: { de: "Zerklüftete Berge im Norden.", hu: "Tagolt hegyek északon.", ro: "Munți accidentați în nord.", en: "Rugged mountains in the north." },
     facts: {
       de: ["Felsiges Gelände", "Sehr wenig Vegetation"],
@@ -343,7 +385,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-GB",
     coords: [36.7, 15.1],
-    name: { de: "Tessenei-Tiefland", hu: "Tessenei-alföld", ro: "Câmpia Tessenei", en: "Tessenei Lowland" },
+    name: { de: "Tessenei-Tiefland", hu: "Tessenei-alföld", ro: "Câmpia Tessenei", en: "Tessenei Lowland",
+image: "/poi-images/tessenei-lowland-relief-v2.webp"
+},
     description: { de: "Fruchtbares Tiefland an der sudanesischen Grenze.", hu: "Termékeny alföld a szudáni határnál.", ro: "Câmpie fertilă la granița cu Sudanul.", en: "Fertile lowland on the Sudanese border." },
     facts: {
       de: ["Bewässerungslandwirtschaft", "Baumwollanbau"],
@@ -356,7 +400,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-MA",
     coords: [39.2, 14.9],
-    name: { de: "Kuma-Plateau", hu: "Kuma-fennsík", ro: "Platoul Kuma", en: "Kuma Plateau" },
+    name: { de: "Kuma-Plateau", hu: "Kuma-fennsík", ro: "Platoul Kuma", en: "Kuma Plateau",
+image: "/poi-images/kuma-plateau-relief-v2.webp"
+},
     description: { de: "Hochebene im zentralen Bergland.", hu: "Fennsík a központi hegyvidéken.", ro: "Platou în zona montană centrală.", en: "Plateau in the central mountains." },
     facts: {
       de: ["Grasland", "Viehweide"],
@@ -369,7 +415,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-SN",
     coords: [40.0, 15.7],
-    name: { de: "Dahlak-Archipel-Schelf", hu: "Dahlak-szigetcsoport kontinentális talapzata", ro: "Șelful Arhipelagului Dahlak", en: "Dahlak Archipelago Shelf" },
+    name: { de: "Dahlak-Archipel-Schelf", hu: "Dahlak-szigetcsoport kontinentális talapzata", ro: "Șelful Arhipelagului Dahlak", en: "Dahlak Archipelago Shelf",
+image: "/poi-images/dahlak-archipelago-shelf-relief-v2.webp"
+},
     description: { de: "Der untermeerische Bereich der Inselgruppe.", hu: "A szigetcsoport tengeralatti része.", ro: "Partea subacvatică a arhipelagului.", en: "The underwater part of the archipelago." },
     facts: {
       de: ["Korallenriffe", "Flaches Schelfmeer"],
@@ -382,7 +430,9 @@ export const poiExtraEritreaReliefV2: POI[] = [
     type: "relief",
     parent: "ER-GB",
     coords: [37.4, 15.4],
-    name: { de: "Gash-Barka-Becken", hu: "Gash-Barka-medence", ro: "Bazinul Gash-Barka", en: "Gash-Barka Basin" },
+    name: { de: "Gash-Barka-Becken", hu: "Gash-Barka-medence", ro: "Bazinul Gash-Barka", en: "Gash-Barka Basin",
+image: "/poi-images/gash-bark-basin-relief-v2.webp"
+},
     description: { de: "Ein weites Senkungsbecken.", hu: "Széles süllyedékmedence.", ro: "Un bazin de subsidență larg.", en: "A wide subsidence basin." },
     facts: {
       de: ["Sedimentablagerungen", "Trockenes Becken"],

@@ -14,8 +14,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Pointe-Noire Deep Water Port"
     ,
     descriptionAdvanced: {
-      en: "Pointe-Noire's deep-water port is the undisputed gateway for international trade in the Republic of the Congo. It is strategically positioned to handle large-scale maritime traffic, playing a crucial role in exporting the country's oil, timber, and manganese resources. The port's infrastructure has been continuously expanded to support its status as a vital maritime hub for Central Africa. Economics K8 — international maritime trade and natural resources."
-    },
+      en: "Pointe-Noire's deep-water port is the undisputed gateway for international trade in the Republic of the Congo. It is strategically positioned to handle large-scale maritime traffic, playing a crucial role in exporting the country's oil, timber, and manganese resources. The port's infrastructure has been continuously expanded to support its status as a vital maritime hub for Central Africa. Economics K8 — international maritime trade and natural resources.",
+image: "/poi-images/pointe-noire-port-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Handles the vast majority of Congo's non-oil exports.", "Primary transit node for regional trade.", "Designed for large container vessels.", "Essential for Central African landlocked states.", "Continuous port development since 1939.", "Strategic location on the Atlantic Ocean."]
     }
@@ -56,8 +57,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Port of Brazzaville"
     ,
     descriptionAdvanced: {
-      en: "The Port of Brazzaville serves as the essential river link connecting the national capital to the vast interior of the country via the Congo River. It handles significant domestic commerce, facilitating the transport of food, building materials, and fuel toward remote northern provinces. This port is fundamentally important for maintaining supply chains in a nation with challenging terrestrial topography. Geography K6 — inland waterway logistics and transport."
-    },
+      en: "The Port of Brazzaville serves as the essential river link connecting the national capital to the vast interior of the country via the Congo River. It handles significant domestic commerce, facilitating the transport of food, building materials, and fuel toward remote northern provinces. This port is fundamentally important for maintaining supply chains in a nation with challenging terrestrial topography. Geography K6 — inland waterway logistics and transport.",
+image: "/poi-images/brazzaville-port-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Major river transshipment point.", "Links capital to interior markets.", "Vital for river transport to northern provinces.", "Handles both goods and passenger transit.", "Deeply connected to local river trade.", "Key hub for inland supply chain stability."]
     }
@@ -98,8 +100,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Djeno Oil Terminal"
     ,
     descriptionAdvanced: {
-      en: "The Djéno Oil Terminal is the cornerstone of the Congolese economy, facilitating the export of nearly all the nation's crude oil production. Located just south of Pointe-Noire, this terminal houses extensive storage facilities and loading piers that accommodate massive tankers bound for global markets. Its operation is critical to the country's fiscal health. Economics K7 — energy production and global export markets."
-    },
+      en: "The Djéno Oil Terminal is the cornerstone of the Congolese economy, facilitating the export of nearly all the nation's crude oil production. Located just south of Pointe-Noire, this terminal houses extensive storage facilities and loading piers that accommodate massive tankers bound for global markets. Its operation is critical to the country's fiscal health. Economics K7 — energy production and global export markets.",
+image: "/poi-images/djeno-oil-terminal-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Handles almost all national oil exports.", "Essential to the Republic of the Congo's GDP.", "Features massive crude storage capacity.", "Capable of loading the largest oil tankers.", "Operated as a critical national asset.", "High security industrial facility."]
     }
@@ -140,8 +143,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Nkayi Sugar Refinery"
     ,
     descriptionAdvanced: {
-      en: "The Nkayi sugar refinery, operated by SARIS-Congo, is a premier example of large-scale agro-industrial development in southern Congo. By refining locally harvested sugarcane, the facility supports both domestic food consumption and regional export requirements. It stands as a vital economic pillar for the Bouenza department, providing significant employment and economic stability. Sachkunde K6 — agricultural industrialization."
-    },
+      en: "The Nkayi sugar refinery, operated by SARIS-Congo, is a premier example of large-scale agro-industrial development in southern Congo. By refining locally harvested sugarcane, the facility supports both domestic food consumption and regional export requirements. It stands as a vital economic pillar for the Bouenza department, providing significant employment and economic stability. Sachkunde K6 — agricultural industrialization.",
+image: "/poi-images/nkayi-sugar-refinery-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Largest sugar refinery in the nation.", "Main economic driver for Nkayi town.", "Integrated agro-industrial system.", "Supplies both domestic and regional markets.", "Significant local employment provider.", "Optimizes fertile soils in Bouenza."]
     }
@@ -182,8 +186,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Loutete Cement Plant"
     ,
     descriptionAdvanced: {
-      en: "The cement plant in Loutété is a fundamental industrial installation tasked with supporting Congo's rapidly growing infrastructure needs. Utilizing abundant local limestone deposits, the factory ensures a steady supply of building materials for national construction projects, reducing reliance on imported cement. This project is central to domestic industrialization and self-sufficiency. Sachkunde K7 — industrial building materials."
-    },
+      en: "The cement plant in Loutété is a fundamental industrial installation tasked with supporting Congo's rapidly growing infrastructure needs. Utilizing abundant local limestone deposits, the factory ensures a steady supply of building materials for national construction projects, reducing reliance on imported cement. This project is central to domestic industrialization and self-sufficiency. Sachkunde K7 — industrial building materials.",
+image: "/poi-images/loutete-cement-plant-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Uses local limestone for production.", "Key asset for national infrastructure projects.", "Reduces dependency on foreign imports.", "Modernized production lines recently installed.", "Significant impact on local industrial job market.", "Central to the national development strategy."]
     }
@@ -224,8 +229,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "CORAF Oil Refinery"
     ,
     descriptionAdvanced: {
-      en: "The CORAF refinery in Pointe-Noire is the nation's primary facility for converting raw crude into refined petroleum products for the local market. By processing gasoline, diesel, and kerosene domestically, it stabilizes energy supplies and supports the transportation and manufacturing sectors across the country. It is a critical component of national energy infrastructure. Economics K8 — energy security and processing."
-    },
+      en: "The CORAF refinery in Pointe-Noire is the nation's primary facility for converting raw crude into refined petroleum products for the local market. By processing gasoline, diesel, and kerosene domestically, it stabilizes energy supplies and supports the transportation and manufacturing sectors across the country. It is a critical component of national energy infrastructure. Economics K8 — energy security and processing.",
+image: "/poi-images/coraf-oil-refinery-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["State-owned refinery operator SNPC.", "Supplies local market fuel needs.", "Essential for national transport and manufacturing.", "Reduces need for importing refined products.", "Located at the core of the oil hub.", "Critical national energy infrastructure."]
     }
@@ -266,8 +272,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Mindouli Copper Mine"
     ,
     descriptionAdvanced: {
-      en: "The Mindouli copper mine is a historic mining operation in the Pool region that has recently seen renewed investment through modern exploration techniques. Known for its high-grade copper deposits, the project seeks to revitalize a traditional industry and create significant economic opportunities in the region. Its development highlights the potential for mineral-driven diversification of the Congolese economy. Geography K8 — mining and industrial heritage."
-    },
+      en: "The Mindouli copper mine is a historic mining operation in the Pool region that has recently seen renewed investment through modern exploration techniques. Known for its high-grade copper deposits, the project seeks to revitalize a traditional industry and create significant economic opportunities in the region. Its development highlights the potential for mineral-driven diversification of the Congolese economy. Geography K8 — mining and industrial heritage.",
+image: "/poi-images/mindouli-copper-mine-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Historic mining site with renewed development.", "Known for high-grade copper deposits.", "Key potential driver for the Pool economy.", "Employs modern extraction technologies.", "Targeted for production scale-up.", "Important example of mineral diversification."]
     }
@@ -308,8 +315,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Zanaga Iron Ore Project"
     ,
     descriptionAdvanced: {
-      en: "The Zanaga Iron Ore Project represents a massive, long-term undertaking aimed at developing one of the world's most significant untapped iron deposits. Located in the Lékoumou region, the project requires the construction of extensive supporting infrastructure, including a dedicated railway to the coast. It is a transformative project for the Congolese mining sector. Economics K8 — mining infrastructure and investment scale."
-    },
+      en: "The Zanaga Iron Ore Project represents a massive, long-term undertaking aimed at developing one of the world's most significant untapped iron deposits. Located in the Lékoumou region, the project requires the construction of extensive supporting infrastructure, including a dedicated railway to the coast. It is a transformative project for the Congolese mining sector. Economics K8 — mining infrastructure and investment scale.",
+image: "/poi-images/zanaga-iron-ore-project-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["One of the world's largest iron ore deposits.", "Billions of tons of mineral resources.", "Massive supporting infrastructure required.", "Central to long-term national mining strategy.", "Located in Lékoumou region.", "Significant FDI investment project."]
     }
@@ -350,8 +358,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "Port of Ouesso"
     ,
     descriptionAdvanced: {
-      en: "The river port of Ouesso serves as the northern logistical heart of the Republic of the Congo, strategically located on the Sangha River. It is the vital collection point for timber harvested from the vast northern rainforests, coordinating the movement of this resource to international markets. As such, it is an essential hub for sustainable regional economic development. Geography K7 — forest-to-port logistics."
-    },
+      en: "The river port of Ouesso serves as the northern logistical heart of the Republic of the Congo, strategically located on the Sangha River. It is the vital collection point for timber harvested from the vast northern rainforests, coordinating the movement of this resource to international markets. As such, it is an essential hub for sustainable regional economic development. Geography K7 — forest-to-port logistics.",
+image: "/poi-images/ouesso-port-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Main hub for Sangha region timber.", "Vital link between remote forests and Brazzaville.", "Crucial river transport hub in the north.", "Supports regional forestry economy.", "Key collection point for hardwoods.", "Provides economic stability to Ouesso town."]
     }
@@ -392,8 +401,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       en: "River Port of Mossaka"
     ,
     descriptionAdvanced: {
-      en: "Mossaka's river port is situated at the confluence of the Congo and Sangha rivers, which makes it a unique and critical node for inland water trade. Its economy is intensely centered on the processing and shipping of smoked fish, serving as the main clearinghouse for this product before it is sent to urban markets. It is an indispensable part of Congo's river-based commercial network. Sachkunde K5 — river geography and rural markets."
-    },
+      en: "Mossaka's river port is situated at the confluence of the Congo and Sangha rivers, which makes it a unique and critical node for inland water trade. Its economy is intensely centered on the processing and shipping of smoked fish, serving as the main clearinghouse for this product before it is sent to urban markets. It is an indispensable part of Congo's river-based commercial network. Sachkunde K5 — river geography and rural markets.",
+image: "/poi-images/mossaka-port-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["Strategically located at major confluence.", "Dominant center for smoked fish logistics.", "Crucial node for riverine merchant shipping.", "Economic life revolves around the water.", "Vital transit link to urban markets.", "Example of specialized river-based economy."]
     }
@@ -431,8 +441,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Blei-Zink-Mine von Mfouati",
       hu: "Mfouati ólom-cink bánya",
       ro: "Mina de plumb și zinc din Mfouati",
-      en: "Mfouati Lead-Zinc Mine"
-    },
+      en: "Mfouati Lead-Zinc Mine",
+image: "/poi-images/mfouati-lead-zinc-mine-economic-v2.webp"
+},
     description: {
       de: "Eine Bergbauregion im Süden, die auf den Abbau von Blei-, Zink- und Kupfererzen spezialisiert ist.",
       hu: "Déli bányavidék, amely ólom-, cink- és rézércek kitermelésére szakosodott.",
@@ -467,8 +478,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "SOTEXCO-Textilfabrik",
       hu: "SOTEXCO textilgyár",
       ro: "Fabrica de textile SOTEXCO",
-      en: "SOTEXCO Textile Factory"
-    },
+      en: "SOTEXCO Textile Factory",
+image: "/poi-images/sotexco-textile-factory-economic-v2.webp"
+},
     description: {
       de: "Eine traditionsreiche Textilfabrik in Brazzaville, die für die Verarbeitung lokaler Baumwolle bekannt ist.",
       hu: "Hagyományos textilgyár Brazzaville-ben, amely a helyi gyapot feldolgozásáról ismert.",
@@ -502,8 +514,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Hafen von Impfondo",
       hu: "Impfondo kikötője",
       ro: "Portul Impfondo",
-      en: "Port of Impfondo"
-    },
+      en: "Port of Impfondo",
+image: "/poi-images/impfondo-port-economic-v2.webp"
+},
     description: {
       de: "Ein entlegener Flusshafen am Oubangui, der lebenswichtig für die Versorgung des Nordostens ist.",
       hu: "Távoli folyami kikötő az Oubangui folyón, amely létfontosságú az északkeleti rész ellátásához.",
@@ -538,8 +551,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Kali-Mine von Mengo",
       hu: "Mengo kálibánya",
       ro: "Mina de potasă din Mengo",
-      en: "Mengo Potash Mine"
-    },
+      en: "Mengo Potash Mine",
+image: "/poi-images/mengo-potash-mine-economic-v2.webp"
+},
     description: {
       de: "Eine große Lagerstätte für Kalisalze in der Küstenregion, die für die globale Düngemittelproduktion erschlossen wird.",
       hu: "Hatalmas kálisó-lelőhely a parti régióban, amelyet a globális műtrágyagyártás számára tárnak fel.",
@@ -573,8 +587,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Eisenerzmine von Mayoko",
       hu: "Mayoko vasércbánya",
       ro: "Mina de minereu de fier din Mayoko",
-      en: "Mayoko Iron Ore Mine"
-    },
+      en: "Mayoko Iron Ore Mine",
+image: "/poi-images/mayoko-iron-ore-mine-economic-v2.webp"
+},
     description: {
       de: "Ein Bergbauzentrum im Nordwesten der Niari-Region, das hochwertiges Eisenerz für den Weltmarkt fördert.",
       hu: "Bányászati központ a Niari régió északnyugati részén, amely kiváló minőségű vasércet termel a világpiacra.",
@@ -608,8 +623,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Flusshafen von Makotipoko",
       hu: "Makotipoko folyami kikötő",
       ro: "Portul fluvial Makotipoko",
-      en: "River Port of Makotipoko"
-    },
+      en: "River Port of Makotipoko",
+image: "/poi-images/makotipoko-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Knotenpunkt für den Warenverkehr auf dem Kongo-Fluss in der Plateaux-Region.",
       hu: "Fontos csomópont a Kongó folyó áruforgalmában a Plateaux régióban.",
@@ -643,8 +659,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Wasserkraftwerk Imboulou",
       hu: "Imboulou vízerőmű",
       ro: "Hidrocentrala Imboulou",
-      en: "Imboulou Hydroelectric Plant"
-    },
+      en: "Imboulou Hydroelectric Plant",
+image: "/poi-images/imboulou-hydroelectric-plant-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Wasserkraftwerke des Landes, das einen wesentlichen Teil der Stromversorgung von Brazzaville sichert.",
       hu: "Az ország egyik legnagyobb vízerőműve, amely Brazzaville áramellátásának jelentős részét biztosítja.",
@@ -678,8 +695,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Holzverarbeitungswerk von Sangha",
       hu: "Sangha fafeldolgozó üzem",
       ro: "Unitatea de prelucrare a lemnului din Sangha",
-      en: "Sangha Timber Processing Plant"
-    },
+      en: "Sangha Timber Processing Plant",
+image: "/poi-images/sangha-timber-processing-economic-v2.webp"
+},
     description: {
       de: "Ein großer Industriekomplex im Norden, der tropische Edelhölzer für den Export verarbeitet.",
       hu: "Nagy ipari komplexum északon, amely trópusi nemesfákat dolgoz fel exportra.",
@@ -713,8 +731,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Eisenbahnwerkstätten von Dolisie",
       hu: "Dolisie vasúti javítóműhelyek",
       ro: "Atelierele feroviare din Dolisie",
-      en: "Dolisie Railway Workshops"
-    },
+      en: "Dolisie Railway Workshops",
+image: "/poi-images/dolisie-railway-workshops-economic-v2.webp"
+},
     description: {
       de: "Zentrale Wartungs- und Reparaturanlage der Kongo-Ozean-Bahn (CFCO) in der drittgrößten Stadt des Landes.",
       hu: "A Kongó-Óceán Vasút (CFCO) központi karbantartó és javító létesítménye az ország harmadik legnagyobb városában.",
@@ -748,8 +767,9 @@ export const poiExtraCongoEconomicV2: POI[] = [
       de: "Offshore-Ölfeld Moho-Nord",
       hu: "Moho-Nord offshore olajmező",
       ro: "Zăcământul petrolier offshore Moho-Nord",
-      en: "Moho-Nord Offshore Oil Field"
-    },
+      en: "Moho-Nord Offshore Oil Field",
+image: "/poi-images/moho-nord-offshore-oil-economic-v2.webp"
+},
     description: {
       de: "Ein riesiges Tiefwasser-Ölfeld im Atlantik, das einen bedeutenden Teil der aktuellen kongolesischen Produktion ausmacht.",
       hu: "Hatalmas mélyvízi olajmező az Atlanti-óceánon, amely a jelenlegi kongói termelés jelentős részét adja.",

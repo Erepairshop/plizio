@@ -4,7 +4,9 @@ export const ukraineNatureV2: POI[] = [
   {
     id: "ukraine-hoverla-nature-v2",
     type: "peak",
-    name: { de: "Hoverla", hu: "Hóvár", ro: "Hoverla", en: "Hoverla" },
+    name: { de: "Hoverla", hu: "Hóvár", ro: "Hoverla", en: "Hoverla",
+image: "/poi-images/ukraine-hoverla-nature-v2.webp"
+},
     coords: [24.5, 48.1603],
     coordinates: { lat: 48.1603, lng: 24.5 },
     description: {
@@ -19,11 +21,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf din Ucraina", "Parte a masivului Ciornohora", "Prima ascensiune în 1880", "La granița regiunilor Ivano-Frankivsk și Transcarpatia"],
       en: ["Highest peak in Ukraine", "Part of the Chornohora range", "First recorded ascent in 1880", "Located on the border of two regions"],
     },
-    imageHint: "Hoverla mountain peak with Ukrainian flag", image: "/poi-images/ukraine-hoverla-nature-v2.webp"},
-  {
+imageHint: "Hoverla mountain peak with Ukrainian flag",
+    descriptionAdvanced: {
+      de: "Die Howerla ist mit 2061 Metern der höchste Gipfel der ukrainischen Karpaten. Sie liegt im Tschornohora-Massiv und gilt als ein bedeutendes nationales Symbol der Ukraine.",
+      hu: "A Howerla 2061 méteres magasságával az Ukrán-Kárpátok és egyben Ukrajna legmagasabb pontja. A Máramarosi-havasok részét képező Csornohora-hegységben helyezkedik el.",
+      ro: "Vârful Hoverla este cel mai înalt punct din Ucraina, având o altitudine de 2061 metri. Situat în masivul Cernohora, acesta reprezintă un simbol național și o destinație populară.",
+      en: "Hoverla is the highest mountain in Ukraine, reaching an elevation of 2,061 meters. Located in the Chornohora range, it serves as a prominent national symbol and hiking destination.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2061 Meter", "Gebirge: Tschornohora", "Erstbesteigung: 1780", "Lage: Oblast Iwano-Frankiwsk"],
+      hu: ["Magasság: 2061 méter", "Hegység: Csornohora", "Első megmászás: 1780", "Megye: Ivano-Frankivszk"],
+      ro: ["Altitudine: 2061 m", "Masiv: Cernohora", "Prima escaladare: 1780", "Regiune: Ivano-Frankivsk"],
+      en: ["Elevation: 2,061 meters", "Range: Chornohora", "First recorded ascent: 1780", "Region: Ivano-Frankivsk"],
+    },
+    image: "/poi-images/ukraine-hoverla-nature-v2.webp",
+},  {
     id: "ukraine-synevyr-nature-v2",
     type: "lake",
-    name: { de: "Synevyr-See", hu: "Szinevéri-tó", ro: "Lacul Sinevir", en: "Synevyr Lake" },
+    name: { de: "Synevyr-See", hu: "Szinevéri-tó", ro: "Lacul Sinevir", en: "Synevyr Lake",
+image: "/poi-images/ukraine-synevyr-nature-v2.webp"
+},
     coords: [23.6841, 48.6171],
     coordinates: { lat: 48.6171, lng: 23.6841 },
     description: {
@@ -38,11 +55,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cel mai mare lac din Carpații Ucraineni", "Adâncime maximă de 24 de metri", "Format acum aproximativ 10.000 de ani", "Inclus într-un parc național"],
       en: ["Largest lake in Ukrainian Carpathians", "Maximum depth of 24 meters", "Formed about 10,000 years ago", "Part of a National Nature Park"],
     },
-    imageHint: "Lake Synevyr with small island in the middle", image: "/poi-images/ukraine-synevyr-nature-v2.webp"},
-  {
+imageHint: "Lake Synevyr with small island in the middle",
+    descriptionAdvanced: {
+      de: "Der Synevyr-See ist der größte Bergsee in den ukrainischen Karpaten und liegt auf 989 Metern Höhe. Er entstand vor etwa 10.000 Jahren durch einen gewaltigen Erdrutsch.",
+      hu: "A Szinevéri-tó az Ukrán-Kárpátok legnagyobb hegyi tava, amely 989 méteres tengerszint feletti magasságban fekszik. Mintegy 10 000 éve keletkezett egy földcsuszamlás következtében.",
+      ro: "Lacul Sinevir este cel mai mare lac montan din Carpații Ucraineni, situat la o altitudine de 989 metri. S-a format acum aproximativ 10.000 de ani în urma unei alunecări de teren.",
+      en: "Synevyr Lake is the largest mountain lake in the Ukrainian Carpathians, situated at 989 meters. It was formed about 10,000 years ago due to a massive landslide blocking a stream.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 7 Hektar", "Maximale Tiefe: 22 Meter", "Höhenlage: 989 Meter", "Alter: ca. 10.000 Jahre"],
+      hu: ["Terület: kb. 7 hektár", "Max. mélység: 22 méter", "Tengerszint feletti magasság: 989 m", "Kor: kb. 10 000 év"],
+      ro: ["Suprafață: cca. 7 ha", "Adâncime maximă: 22 m", "Altitudine: 989 m", "Vârsta: cca. 10.000 ani"],
+      en: ["Area: approx. 7 hectares", "Max depth: 22 meters", "Elevation: 989 meters", "Age: approx. 10,000 years"],
+    },
+    image: "/poi-images/ukraine-synevyr-nature-v2.webp",
+},  {
     id: "ukraine-dnipro-nature-v2",
     type: "river",
-    name: { de: "Dnipro", hu: "Dnyeper", ro: "Nipru", en: "Dnipro River" },
+    name: { de: "Dnipro", hu: "Dnyeper", ro: "Nipru", en: "Dnipro River",
+image: "/poi-images/ukraine-dnipro-nature-v2.webp"
+},
     coords: [30.5234, 50.4501],
     coordinates: { lat: 50.4501, lng: 30.5234 },
     description: {
@@ -57,11 +89,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 2201 kilometri", "Al patrulea râu ca lungime din Europa", "Traversează trei țări", "Ruta principală de navigație"],
       en: ["Total length of 2,201 kilometers", "Fourth longest river in Europe", "Flows through three countries", "Major shipping and transport route"],
     },
-    imageHint: "Dnipro river aerial view in Kyiv", image: "/poi-images/ukraine-dnipro-nature-v2.webp"},
-  {
+imageHint: "Dnipro river aerial view in Kyiv",
+    descriptionAdvanced: {
+      de: "Der Dnipro ist der längste Fluss der Ukraine und der viertlängste Europas. Er durchfließt das Land von Norden nach Süden und mündet nach 2201 Kilometern in das Schwarze Meer.",
+      hu: "A Dnyeper Ukrajna leghosszabb és Európa negyedik leghosszabb folyója. Északról délre szeli át az országot, majd 2201 kilométer megtétele után a Fekete-tengerbe torkollik.",
+      ro: "Niprul este cel mai lung râu din Ucraina și al patrulea din Europa. Traversează țara de la nord la sud, vărsându-se în Marea Neagră după un curs total de 2201 kilometri.",
+      en: "The Dnipro is the longest river in Ukraine and the fourth longest in Europe. It flows through the country from north to south, emptying into the Black Sea after 2,201 kilometers.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 2201 km", "Einzugsgebiet: 504.000 km²", "Anzahl der Stauseen: 6", "Mündung: Schwarzes Meer"],
+      hu: ["Teljes hossz: 2201 km", "Vízgyűjtő terület: 504 000 km²", "Víztározók száma: 6", "Torkolat: Fekete-tenger"],
+      ro: ["Lungime totală: 2201 km", "Bazin hidrografic: 504.000 km²", "Număr de baraje: 6", "Vărsare: Marea Neagră"],
+      en: ["Total length: 2,201 km", "Basin area: 504,000 km²", "Number of reservoirs: 6", "Mouth: Black Sea"],
+    },
+    image: "/poi-images/ukraine-dnipro-nature-v2.webp",
+},  {
     id: "ukraine-dniester-canyon-nature-v2",
     type: "valley",
-    name: { de: "Dnister-Canyon", hu: "Dnyeszter-kanyon", ro: "Canionul Nistrului", en: "Dniester Canyon" },
+    name: { de: "Dnister-Canyon", hu: "Dnyeszter-kanyon", ro: "Canionul Nistrului", en: "Dniester Canyon",
+image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp"
+},
     coords: [25.1667, 48.6333],
     coordinates: { lat: 48.6333, lng: 25.1667 },
     description: {
@@ -76,11 +123,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Una dintre cele șapte minuni ale Ucrainei", "Lungime de aproximativ 250 kilometri", "Guri de canion de până la 200 metri", "Are un microclimat unic"],
       en: ["One of the Seven Wonders of Ukraine", "Length of approximately 250 km", "Cliffs up to 200 meters high", "Features a unique microclimate"],
     },
-    imageHint: "Dniester Canyon river bend aerial view", image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp"},
-  {
+imageHint: "Dniester Canyon river bend aerial view",
+    descriptionAdvanced: {
+      de: "Der Dnister-Canyon ist mit einer Länge von 250 Kilometern einer der größten Europas. Die bis zu 120 Meter hohen Steilufer bieten spektakuläre Ausblicke und seltene Flora.",
+      hu: "A Dnyeszter-kanyon 250 kilométeres hosszával Európa egyik legnagyobb szurdoka. A helyenként 120 méter magas meredek sziklafalak különleges növényvilágnak adnak otthont.",
+      ro: "Canionul Nistrului este unul dintre cele mai lungi din Europa, întinzându-se pe 250 km. Pereții abrupți de până la 120 m oferă peisaje spectaculoase și o floră rară.",
+      en: "The Dniester Canyon is one of the largest in Europe, stretching for 250 kilometers. Its steep banks, rising up to 120 meters, offer stunning views and host rare plant species.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 250 km", "Max. Tiefe des Tals: 120 m", "Status: Nationalpark", "Gestein: Kalkstein/Schiefer"],
+      hu: ["Hossz: 250 km", "Völgy max. mélysége: 120 m", "Státusz: Nemzeti park", "Kőzet: Mészkő és pala"],
+      ro: ["Lungime: 250 km", "Adâncime max. vale: 120 m", "Statut: Parc Național", "Roci: Calcar și șisturi"],
+      en: ["Length: 250 km", "Max valley depth: 120 m", "Status: National Park", "Rock types: Limestone and shale"],
+    },
+    image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp",
+},  {
     id: "ukraine-svityaz-nature-v2",
     type: "lake",
-    name: { de: "Switjas-See", hu: "Szvityáz-tó", ro: "Lacul Svitiaz", en: "Lake Svityaz" },
+    name: { de: "Switjas-See", hu: "Szvityáz-tó", ro: "Lacul Svitiaz", en: "Lake Svityaz",
+image: "/poi-images/ukraine-svityaz-nature-v2.webp"
+},
     coords: [23.8333, 51.5],
     coordinates: { lat: 51.5, lng: 23.8333 },
     description: {
@@ -95,11 +157,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cel mai adânc lac din Ucraina (58 m)", "Parte a Parcului Național Șațk", "Suprafață de 27,5 kilometri pătrați", "Are plaje nisipoase"],
       en: ["Deepest lake in Ukraine (58 meters)", "Part of Shatsky National Park", "Area of 27.5 square kilometers", "Features natural sandy beaches"],
     },
-    imageHint: "Lake Svityaz crystal clear water and beach", image: "/poi-images/ukraine-svityaz-nature-v2.webp"},
-  {
+imageHint: "Lake Svityaz crystal clear water and beach",
+    descriptionAdvanced: {
+      de: "Der Switjas-See ist der tiefste natürliche See der Ukraine und Teil der Schazker Seenplatte. Sein kristallklares Wasser erreicht Tiefen von über 58 Metern.",
+      hu: "A Szvityáz-tó Ukrajna legmélyebb természetes tava, a Sacki-tavak része. Kristálytiszta vize és homokos partjai miatt gyakran nevezik az ukrán Bajkálnak.",
+      ro: "Lacul Svitiaz este cel mai adânc lac natural din Ucraina, făcând parte din grupul lacurilor Șațk. Apa sa cristalină atinge adâncimi de peste 58 de metri.",
+      en: "Lake Svityaz is the deepest natural lake in Ukraine, part of the Shatsk Lakes group. Its crystal-clear waters reach depths exceeding 58 meters, often called the Ukrainian Baikal.",
+    },
+    factsAdvanced: {
+      de: ["Max. Tiefe: 58,4 Meter", "Fläche: 27,5 km²", "Transparenz: bis 8 Meter", "Lage: Oblast Wolyn"],
+      hu: ["Max. mélység: 58,4 méter", "Terület: 27,5 km²", "Átlátszóság: akár 8 méter", "Helyszín: Volinyi megye"],
+      ro: ["Adâncime max: 58,4 m", "Suprafață: 27,5 km²", "Transparență: până la 8 m", "Locație: Regiunea Volîn"],
+      en: ["Max depth: 58.4 meters", "Surface area: 27.5 km²", "Transparency: up to 8 meters", "Location: Volyn Oblast"],
+    },
+    image: "/poi-images/ukraine-svityaz-nature-v2.webp",
+},  {
     id: "ukraine-askania-nova-nature-v2",
     type: "park",
-    name: { de: "Askanija-Nowa", hu: "Aszkanyija-Nova", ro: "Askania-Nova", en: "Askania-Nova" },
+    name: { de: "Askanija-Nowa", hu: "Aszkanyija-Nova", ro: "Askania-Nova", en: "Askania-Nova",
+image: "/poi-images/ukraine-askania-nova-nature-v2.webp"
+},
     coords: [33.8817, 46.4528],
     coordinates: { lat: 46.4528, lng: 33.8817 },
     description: {
@@ -114,11 +191,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Fondată în anul 1894", "Rezervație a biosferei UNESCO", "Cea mai mare stepă virgină din Europa", "Include o grădină botanică"],
       en: ["Established in 1894", "UNESCO Biosphere Reserve", "Largest virgin feather-grass steppe", "Includes a botanical garden and zoo"],
     },
-    imageHint: "Askania-Nova steppe with wild horses", image: "/poi-images/ukraine-askania-nova-nature-v2.webp"},
-  {
+imageHint: "Askania-Nova steppe with wild horses",
+    descriptionAdvanced: {
+      de: "Askania-Nowa ist das älteste Steppenreservat der Welt und ein UNESCO-Biosphärenreservat. Es beherbergt freilebende Zebras, Przewalski-Pferde und seltene Antilopenarten.",
+      hu: "Aszkanyija-Nova a világ legrégebbi sztyeppei rezervátuma és UNESCO bioszféra-rezervátum. Szabadon élő zebráknak, Przewalski-lovaknak és antilopoknak ad otthont.",
+      ro: "Ascania-Nova este cea mai veche rezervație de stepă din lume și sit UNESCO. Adăpostește animale sălbatice precum zebre, cai Przewalski și diverse specii de antilope.",
+      en: "Askania-Nova is the oldest steppe reserve in the world and a UNESCO Biosphere Reserve. It hosts free-roaming zebras, Przewalski's horses, and various rare antelope species.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1898", "Fläche: 33.300 Hektar", "Status: UNESCO-Erbe", "Gründer: Friedrich von Falz-Fein"],
+      hu: ["Alapítás éve: 1898", "Terület: 33 300 hektár", "Státusz: UNESCO világörökség", "Alapító: Friedrich von Falz-Fein"],
+      ro: ["Anul fondării: 1898", "Suprafață: 33.300 ha", "Statut: Patrimoniu UNESCO", "Fondator: Friedrich von Falz-Fein"],
+      en: ["Founded: 1898", "Area: 33,300 hectares", "Status: UNESCO Biosphere", "Founder: Friedrich von Falz-Fein"],
+    },
+    image: "/poi-images/ukraine-askania-nova-nature-v2.webp",
+},  {
     id: "ukraine-oleshky-sands-nature-v2",
     type: "valley",
-    name: { de: "Oleschky-Sande", hu: "Oleski-homok", ro: "Nisipurile Oleșki", en: "Oleshky Sands" },
+    name: { de: "Oleschky-Sande", hu: "Oleski-homok", ro: "Nisipurile Oleșki", en: "Oleshky Sands",
+image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp"
+},
     coords: [33.05, 46.5833],
     coordinates: { lat: 46.5833, lng: 33.05 },
     description: {
@@ -133,11 +225,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cea mai mare zonă nisipoasă din Europa", "Suprafață de 161 kilometri pătrați", "Dune de nisip de până la 20 de metri", "Climat semi-arid"],
       en: ["Largest sandy expanse in Europe", "Area of 161 square kilometers", "Dunes reach up to 20 meters high", "Characterized by semi-arid climate"],
     },
-    imageHint: "Oleshky Sands desert dunes", image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp"},
-  {
+imageHint: "Oleshky Sands desert dunes",
+    descriptionAdvanced: {
+      de: "Die Oleschky-Sande sind das größte Wüstengebiet der Ukraine und eines der größten in Europa. Die Dünen erreichen Höhen von bis zu 20 Metern und erstrecken sich über 160.000 Hektar.",
+      hu: "Az Oleski-homokpuszta Ukrajna legnagyobb sivatagi területe és Európa egyik legnagyobb összefüggő homokmezője. Dűnéi a 20 méteres magasságot is elérhetik.",
+      ro: "Nisipurile Oleșki reprezintă cea mai mare zonă de deșert din Ucraina și una dintre cele mai mari din Europa. Dunele ating înălțimi de 20 m pe o suprafață de 160.000 ha.",
+      en: "Oleshky Sands is the largest desert area in Ukraine and one of the largest in Europe. Its sand dunes reach heights of up to 20 meters across a vast 160,000-hectare expanse.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 161.000 Hektar", "Dünenhöhe: bis 20 m", "Sommertemp.: über 45 °C", "Lage: Oblast Cherson"],
+      hu: ["Terület: 161 000 hektár", "Dűne magasság: max 20 m", "Nyári hőm.: 45 °C felett", "Helyszín: Herszoni megye"],
+      ro: ["Suprafață: 161.000 ha", "Înălțime dune: până la 20 m", "Temp. vară: peste 45 °C", "Locație: Regiunea Herson"],
+      en: ["Area: 161,000 hectares", "Dune height: up to 20m", "Summer temp: over 45°C", "Location: Kherson Oblast"],
+    },
+    image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp",
+},  {
     id: "ukraine-shypit-nature-v2",
     type: "landmark",
-    name: { de: "Schypit-Wasserfall", hu: "Sipit-vízesés", ro: "Cascada Șipot", en: "Shypit Waterfall" },
+    name: { de: "Schypit-Wasserfall", hu: "Sipit-vízesés", ro: "Cascada Șipot", en: "Shypit Waterfall",
+image: "/poi-images/ukraine-shypit-nature-v2.webp"
+},
     coords: [23.2711, 48.6539],
     coordinates: { lat: 48.6539, lng: 23.2711 },
     description: {
@@ -152,11 +259,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Înălțime de 14 metri", "Situată în masivul Polonina Borjava", "Locul unui festival hippie anual", "Îngheață parțial pe timp de iarnă"],
       en: ["Height of 14 meters", "Located in the Polonyna Borzhava massif", "Site of an annual hippie festival", "Often partially freezes in winter"],
     },
-    imageHint: "Shypit waterfall in the forest", image: "/poi-images/ukraine-shypit-nature-v2.webp"},
-  {
+imageHint: "Shypit waterfall in the forest",
+    descriptionAdvanced: {
+      de: "Der Schypit ist einer der schönsten Wasserfälle der Karpaten, gelegen im Dorf Pylypez. Das Wasser stürzt über mehrere Kaskaden aus einer Höhe von 14 Metern in die Tiefe.",
+      hu: "A Sipot-vízesés a Kárpátok egyik leglátványosabb zuhataga Fülöpfalva közelében. A víz több lépcsőben, összesen 14 méteres magasságból zúdul a mélybe.",
+      ro: "Cascada Șipot este una dintre cele mai frumoase din Carpați, situată lângă satul Pilipeț. Apa cade în mai multe trepte de la o înălțime totală de 14 metri.",
+      en: "Shypit is one of the most stunning waterfalls in the Carpathians, located near Pylypets. The water cascades down several rocky steps from a total height of 14 meters.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 14 Meter", "Lage: Dorf Pylypez", "Höhenlage: 744 Meter", "Fluss: Pylypez"],
+      hu: ["Magasság: 14 méter", "Helyszín: Fülöpfalva", "Tengerszint feletti magasság: 744 m", "Folyó: Piliprec"],
+      ro: ["Înălțime: 14 m", "Locație: Satul Pilipeț", "Altitudine: 744 m", "Râu: Pilipeț"],
+      en: ["Height: 14 meters", "Location: Pylypets village", "Elevation: 744 meters", "River: Pylypets"],
+    },
+    image: "/poi-images/ukraine-shypit-nature-v2.webp",
+},  {
     id: "ukraine-pip-ivan-chornohora-nature-v2",
     type: "peak",
-    name: { de: "Pip Iwan (Tschornohora)", hu: "Pip Iván (Csornohora)", ro: "Pip Ivan (Ciornohora)", en: "Pip Ivan (Chornohora)" },
+    name: { de: "Pip Iwan (Tschornohora)", hu: "Pip Iván (Csornohora)", ro: "Pip Ivan (Ciornohora)", en: "Pip Ivan (Chornohora)",
+image: "/poi-images/ukraine-pip-ivan-chornohora-nature-v2.webp"
+},
     coords: [24.6272, 48.0469],
     coordinates: { lat: 48.0469, lng: 24.6272 },
     description: {
@@ -171,11 +293,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 2021 de metri", "Al treilea cel mai înalt munte din Ucraina", "Observatorul 'Elefantul Alb' pe vârf", "Parte a masivului Ciornohora"],
       en: ["Elevation of 2,021 meters", "Third highest mountain in Ukraine", "White Elephant observatory on top", "Part of the Chornohora massif"],
     },
-    imageHint: "Pip Ivan mountain with White Elephant observatory", image: "/poi-images/ukraine-pip-ivan-chornohora-nature-v2.webp"},
-  {
+imageHint: "Pip Ivan mountain with White Elephant observatory",
+    descriptionAdvanced: {
+      de: "Der Pip Iwan ist bekannt für das alte Observatorium 'Weißer Elefant' auf seinem Gipfel in 2028 Metern Höhe. Er ist einer der markantesten Berge des Tschornohora-Massivs.",
+      hu: "A Pip Iván-hegy a rajta lévő 'Fehér Elefánt' obszervatóriumról híres, amely 2028 méteres magasságban található. A Csornohora-hegység egyik legmeghatározóbb csúcsa.",
+      ro: "Muntele Pip Ivan Cernohora este cunoscut pentru vechiul observator 'Elefantul Alb' situat la 2028 m. Este unul dintre cele mai emblematice vârfuri din masivul Cernohora.",
+      en: "Pip Ivan Chornohora is famous for the 'White Elephant' observatory ruins on its 2,028m peak. It is one of the most distinctive and highest mountains in the Chornohora range.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2028 Meter", "Observatorium: Baujahr 1938", "Gebirge: Tschornohora", "Spitzname: Weißer Elefant"],
+      hu: ["Magasság: 2028 méter", "Obszervatórium: 1938-ban épült", "Hegység: Csornohora", "Becenév: Fehér Elefánt"],
+      ro: ["Altitudine: 2028 m", "Observator: construit în 1938", "Masiv: Cernohora", "Poreclă: Elefantul Alb"],
+      en: ["Elevation: 2,028 meters", "Observatory: built in 1938", "Range: Chornohora", "Nickname: White Elephant"],
+    },
+    image: "/poi-images/ukraine-pip-ivan-chornohora-nature-v2.webp",
+},  {
     id: "ukraine-dzharylhach-nature-v2",
     type: "landmark",
-    name: { de: "Dsharylhatsch", hu: "Dzsarihalcs-sziget", ro: "Insula Djarîlhaci", en: "Dzharylhach Island" },
+    name: { de: "Dsharylhatsch", hu: "Dzsarihalcs-sziget", ro: "Insula Djarîlhaci", en: "Dzharylhach Island",
+image: "/poi-images/ukraine-dzharylhach-nature-v2.webp"
+},
     coords: [32.7167, 46.0167],
     coordinates: { lat: 46.0167, lng: 32.7167 },
     description: {
@@ -190,11 +327,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cea mai mare insulă a Ucrainei", "Lungime de 42 de kilometri", "Situată în Marea Neagră", "Habitat pentru cerbi și mufloni"],
       en: ["Largest island in Ukraine", "Length of 42 kilometers", "Located in the Black Sea", "Home to wild deer and mouflons"],
     },
-    imageHint: "Dzharylhach island coastline and lighthouse", image: "/poi-images/ukraine-dzharylhach-nature-v2.webp"},
-  {
+imageHint: "Dzharylhach island coastline and lighthouse",
+    descriptionAdvanced: {
+      de: "Dscharylhatsch ist die größte unbewohnte Insel im Schwarzen Meer. Sie besticht durch unberührte Sandstrände, Salzwasserlagunen und eine vielfältige Tierwelt wie Wildpferde.",
+      hu: "Dzsarihacs a Fekete-tenger legnagyobb lakatlan szigete. Érintetlen homokos partjairól, sós vizű lagúnáiról és gazdag élővilágáról, például vadlovairól ismert.",
+      ro: "Djarylhaci este cea mai mare insulă nelocuită din Marea Neagră. Impresionează prin plaje virgine, lagune sărate și o faună diversă, inclusiv cai sălbatici.",
+      en: "Dzharylhach is the largest uninhabited island in the Black Sea. It features pristine sandy beaches, salt lagoons, and diverse wildlife, including wild horses and dolphins.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 56 km²", "Länge: 42 km", "Status: Nationalpark", "Gewässer: Schwarzes Meer"],
+      hu: ["Terület: 56 km²", "Hossz: 42 km", "Státusz: Nemzeti park", "Víz: Fekete-tenger"],
+      ro: ["Suprafață: 56 km²", "Lungime: 42 km", "Statut: Parc Național", "Corp de apă: Marea Neagră"],
+      en: ["Area: 56 sq km", "Length: 42 km", "Status: National Park", "Body of water: Black Sea"],
+    },
+    image: "/poi-images/ukraine-dzharylhach-nature-v2.webp",
+},  {
     id: "ukraine-snake-island-nature-v2",
     type: "landmark",
-    name: { de: "Schlangeninsel", hu: "Kígyó-sziget", ro: "Insula Șerpilor", en: "Snake Island" },
+    name: { de: "Schlangeninsel", hu: "Kígyó-sziget", ro: "Insula Șerpilor", en: "Snake Island",
+image: "/poi-images/ukraine-snake-island-nature-v2.webp"
+},
     coords: [30.2025, 45.2531],
     coordinates: { lat: 45.2531, lng: 30.2025 },
     description: {
@@ -209,11 +361,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Suprafață de 0,17 km pătrați", "Formată din roci calcaroase", "Numele antic era 'Insula lui Ahile'", "La 35 km distanță de coastă"],
       en: ["Area of 0.17 square kilometers", "Composed of limestone cliffs", "Ancient name was 'Island of Achilles'", "Located 35 km from the mainland"],
     },
-    imageHint: "Snake Island Zmiinyi aerial view", image: "/poi-images/ukraine-snake-island-nature-v2.webp"},
-  {
+imageHint: "Snake Island Zmiinyi aerial view",
+    descriptionAdvanced: {
+      de: "Die Schlangeninsel ist eine strategisch wichtige Felsinsel im Schwarzen Meer. In der Antike stand hier ein Tempel des Achilleus, heute ist sie ein Grenzposten der Ukraine.",
+      hu: "A Kígyó-sziget stratégiailag fontos sziklás sziget a Fekete-tengeren. Az ókorban Akhilleusz temploma állt itt, ma Ukrajna fontos tengeri határállomása.",
+      ro: "Insula Șerpilor este o insulă stâncoasă de importanță strategică în Marea Neagră. În antichitate găzduia un templu al lui Ahile, fiind astăzi un punct de frontieră.",
+      en: "Snake Island is a strategically important rocky isle in the Black Sea. Ancient myths linked it to Achilles, while today it serves as a critical maritime border post.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 0,17 km²", "Entfernung zur Küste: 35 km", "Höchster Punkt: 41 m", "Name in der Antike: Leuke"],
+      hu: ["Terület: 0,17 km²", "Távolság a parttól: 35 km", "Legmagasabb pont: 41 m", "Ókori név: Leuké"],
+      ro: ["Suprafață: 0,17 km²", "Distanța de țărm: 35 km", "Punct maxim: 41 m", "Nume antic: Leuke"],
+      en: ["Area: 0.17 sq km", "Distance from shore: 35 km", "Highest point: 41 m", "Ancient name: Leuke"],
+    },
+    image: "/poi-images/ukraine-snake-island-nature-v2.webp",
+},  {
     id: "ukraine-tuzly-lagoons-nature-v2",
     type: "park",
-    name: { de: "Tusly-Lagunen", hu: "Tuzlai-lagúnák", ro: "Lagunele Tuzla", en: "Tuzly Lagoons" },
+    name: { de: "Tusly-Lagunen", hu: "Tuzlai-lagúnák", ro: "Lagunele Tuzla", en: "Tuzly Lagoons",
+image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp"
+},
     coords: [29.95, 45.85],
     coordinates: { lat: 45.85, lng: 29.95 },
     description: {
@@ -228,11 +395,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Format din 13 lagune sărate", "Rută majoră de migrație a păsărilor", "Situat în regiunea Odesa", "Suprafață de peste 270 km²"],
       en: ["Consists of 13 salt lagoons", "Major bird migration route", "Located in the Odesa region", "Area of over 270 square kilometers"],
     },
-    imageHint: "Tuzly Lagoons national park aerial view", image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp"},
-  {
+imageHint: "Tuzly Lagoons national park aerial view",
+    descriptionAdvanced: {
+      de: "Die Tusly-Lagunen sind ein System aus flachen Salzseen an der Schwarzmeerküste. Sie sind ein wichtiges Brut- und Rastgebiet für über 250 verschiedene Vogelarten.",
+      hu: "A Tuzli-lagúnák sekély sós tavak rendszere a Fekete-tenger partján. Több mint 250 madárfaj számára jelentenek kulcsfontosságú fészkelő- és pihenőhelyet.",
+      ro: "Lagunele Tuzly reprezintă un sistem de lacuri sărate puțin adânci pe coasta Mării Negre. Sunt esențiale pentru cuibăritul și migrația a peste 250 de specii de păsări.",
+      en: "Tuzly Lagoons comprise a system of shallow salt lakes on the Black Sea coast. They serve as a vital breeding and resting ground for over 250 migratory bird species.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche: 206 km²", "Vogelarten: > 250", "Status: Ramsar-Gebiet", "Lage: Oblast Odessa"],
+      hu: ["Teljes terület: 206 km²", "Madárfajok: > 250", "Státusz: Ramsari terület", "Helyszín: Odesszai megye"],
+      ro: ["Suprafață totală: 206 km²", "Specii păsări: > 250", "Statut: Sit Ramsar", "Locație: Regiunea Odesa"],
+      en: ["Total area: 206 sq km", "Bird species: > 250", "Status: Ramsar site", "Location: Odesa Oblast"],
+    },
+    image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp",
+},  {
     id: "ukraine-petros-nature-v2",
     type: "peak",
-    name: { de: "Petros", hu: "Petrovsz-csúcs", ro: "Vârful Petros", en: "Mount Petros" },
+    name: { de: "Petros", hu: "Petrovsz-csúcs", ro: "Vârful Petros", en: "Mount Petros",
+image: "/poi-images/ukraine-petros-nature-v2.webp"
+},
     coords: [24.4194, 48.1722],
     coordinates: { lat: 48.1722, lng: 24.4194 },
     description: {
@@ -247,11 +429,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 2020 de metri", "Destinație populară pentru alpiniști", "Parte a masivului Ciornohora", "Oferă o panoramă superbă asupra Carpaților"],
       en: ["Elevation of 2,020 meters", "Popular destination for mountain climbers", "Part of the Chornohora massif", "Offers a panoramic view of the Carpathians"],
     },
-    imageHint: "Mount Petros peak in winter", image: "/poi-images/ukraine-petros-nature-v2.webp"},
-  {
+imageHint: "Mount Petros peak in winter",
+    descriptionAdvanced: {
+      de: "Der Petros ist mit 2020 Metern einer der markantesten Gipfel der Karpaten. Er zeichnet sich durch seine steilen Hänge und die Nähe zur Howerla im Tschornohora-Massiv aus.",
+      hu: "A Petrosz 2020 méteres magasságával a Kárpátok egyik legjellegzetesebb csúcsa. Meredek lejtői és a Howerlához való közelsége miatt a túrázók kedvelt célpontja.",
+      ro: "Muntele Petros are 2020 m și este unul dintre cele mai proeminente vârfuri din Carpați. Se remarcă prin versanții abrupți și proximitatea față de vârful Hoverla.",
+      en: "Mount Petros stands at 2,020 meters, one of the most prominent peaks in the Carpathians. It is known for its steep slopes and proximity to Hoverla in the Chornohora range.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2020 Meter", "Gebirge: Tschornohora", "Schwierigkeit: Hoch", "Lage: Oblast Transkarpatien"],
+      hu: ["Magasság: 2020 méter", "Hegység: Csornohora", "Nehézség: Magas", "Helyszín: Kárpátalja"],
+      ro: ["Altitudine: 2020 m", "Masiv: Cernohora", "Dificultate: Ridicată", "Locație: Regiunea Transcarpatia"],
+      en: ["Elevation: 2,020 meters", "Range: Chornohora", "Difficulty: High", "Location: Transcarpathian Oblast"],
+    },
+    image: "/poi-images/ukraine-petros-nature-v2.webp",
+},  {
     id: "ukraine-southern-bug-nature-v2",
     type: "river",
-    name: { de: "Südlicher Bug", hu: "Déli-Bug", ro: "Bugul de Sud", en: "Southern Bug" },
+    name: { de: "Südlicher Bug", hu: "Déli-Bug", ro: "Bugul de Sud", en: "Southern Bug",
+image: "/poi-images/ukraine-southern-bug-nature-v2.webp"
+},
     coords: [31.9833, 47.0],
     coordinates: { lat: 47.0, lng: 31.9833 },
     description: {
@@ -266,11 +463,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 806 kilometri", "Curge exclusiv în Ucraina", "Popular pentru rafting", "Se varsă în Limanul Nipru-Bug"],
       en: ["Total length of 806 kilometers", "Flows exclusively through Ukraine", "Popular location for river rafting", "Emptying into the Dnieper-Bug Estuary"],
     },
-    imageHint: "Southern Bug river rapids and rocks", image: "/poi-images/ukraine-southern-bug-nature-v2.webp"},
-  {
+imageHint: "Southern Bug river rapids and rocks",
+    descriptionAdvanced: {
+      de: "Der Südliche Bug ist der zweitlängste Fluss der Ukraine und fließt ausschließlich auf ukrainischem Territorium. Er ist berühmt für seine Stromschnellen und Granit-Canyons.",
+      hu: "A Déli-Bug Ukrajna második leghosszabb folyója, amely végig az ország területén halad. Híres a zúgóiról, gránitkanyonjairól és a vadvízi evezés lehetőségeiről.",
+      ro: "Bugul de Sud este al doilea cel râu din Ucraina ca lungime, curgând integral pe teritoriul său. Este faimos pentru pragurile sale și canioanele spectaculoase de granit.",
+      en: "The Southern Bug is the second longest river in Ukraine, flowing entirely within its borders. It is renowned for its granite canyons and rapids, popular for rafting.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 806 km", "Einzugsgebiet: 63.700 km²", "Wassersport: Rafting", "Mündung: Dnipro-Bug-Liman"],
+      hu: ["Hossz: 806 km", "Vízgyűjtő: 63 700 km²", "Sport: Vadvízi evezés", "Torkolat: Dnyeper-Bug limán"],
+      ro: ["Lungime: 806 km", "Bazin: 63.700 km²", "Activități: Rafting", "Vărsare: Limanul Nipru-Bug"],
+      en: ["Length: 806 km", "Basin area: 63,700 sq km", "Sport: Rafting", "Mouth: Dnipro-Bug Estuary"],
+    },
+    image: "/poi-images/ukraine-southern-bug-nature-v2.webp",
+},  {
     id: "ukraine-aktove-canyon-nature-v2",
     type: "valley",
-    name: { de: "Aktowe-Canyon", hu: "Aktove-kanyon", ro: "Canionul Aktove", en: "Aktove Canyon" },
+    name: { de: "Aktowe-Canyon", hu: "Aktove-kanyon", ro: "Canionul Aktove", en: "Aktove Canyon",
+image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp"
+},
     coords: [31.4647, 47.7128],
     coordinates: { lat: 47.7128, lng: 31.4647 },
     description: {
@@ -285,11 +497,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Format din granit vechi de 4 miliarde ani", "Adâncime de până la 50 de metri", "Parte a Parcului Național Buzkiy Hard", "Ecosistem unic în zona de stepă"],
       en: ["Composed of 4-billion-year-old granite", "Depth of up to 50 meters", "Part of the Buzkiy Hard National Park", "Unique ecosystem within the steppe"],
     },
-    imageHint: "Aktove Canyon granite rocks and river", image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp"},
-  {
+imageHint: "Aktove Canyon granite rocks and river",
+    descriptionAdvanced: {
+      de: "Der Aktowe-Canyon, auch 'Tal des Teufels' genannt, besticht durch seine bis zu 50 Meter hohen Granitfelsen. Er gilt als eines der ältesten Landstücke Eurasiens.",
+      hu: "Az Aktove-kanyon, más néven az 'Ördög-völgy', 50 méter magas gránitszikláiról híres. Geológiailag Eurázsia egyik legősibb szárazföldi területének számít.",
+      ro: "Canionul Aktove, poreclit 'Valea Diavolului', impresionează prin stâncile de granit de până la 50 m. Este considerat una dintre cele mai vechi bucăți de uscat din Eurasia.",
+      en: "Aktove Canyon, known as the 'Devil's Valley,' features dramatic granite cliffs up to 50 meters high. It is geologically one of the oldest land formations in Eurasia.",
+    },
+    factsAdvanced: {
+      de: ["Felswände: bis 50 m hoch", "Fluss: Mertwowid", "Fläche: ca. 250 Hektar", "Spitzname: Teufelstal"],
+      hu: ["Sziklafalak: max 50 m", "Folyó: Mertvovid", "Terület: kb. 250 hektár", "Becenév: Ördög-völgy"],
+      ro: ["Stânci: până la 50 m", "Râu: Mertvovid", "Suprafață: cca. 250 ha", "Poreclă: Valea Diavolului"],
+      en: ["Cliff height: up to 50m", "River: Mertvovid", "Area: approx. 250 hectares", "Nickname: Devil's Valley"],
+    },
+    image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp",
+},  {
     id: "ukraine-vorozheska-nature-v2",
     type: "lake",
-    name: { de: "Woroscheska-See", hu: "Vorozseszka-tó", ro: "Lacul Vorojeska", en: "Vorozheska Lake" },
+    name: { de: "Woroscheska-See", hu: "Vorozseszka-tó", ro: "Lacul Vorojeska", en: "Vorozheska Lake",
+image: "/poi-images/ukraine-vorozheska-nature-v2.webp"
+},
     coords: [24.2028, 48.2719],
     coordinates: { lat: 48.2719, lng: 24.2028 },
     description: {
@@ -304,11 +531,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Situat la o altitudine de 1460 m", "De origine glaciară", "Compus din două lacuri mici", "Aflat în munții Svîdoveț"],
       en: ["Located at 1,460 meters altitude", "Formed by glacial activity", "Consists of two separate basins", "Situated in the Svydovets range"],
     },
-    imageHint: "Vorozheska mountain lake aerial view", image: "/poi-images/ukraine-vorozheska-nature-v2.webp"},
-  {
+imageHint: "Vorozheska mountain lake aerial view",
+    descriptionAdvanced: {
+      de: "Der Woroscheska ist ein eiszeitlicher Hochgebirgssee im Swydowez-Massiv auf 1460 Metern Höhe. Er besteht aus zwei Becken, die durch einen schmalen Landstreifen getrennt sind.",
+      hu: "A Vorozseszka egy gleccser eredetű magashegyi tó a Szvidovec-hegységben, 1460 méteren. Két különálló medencéből áll, melyeket egy keskeny földsáv választ el.",
+      ro: "Vorojeska este un lac glaciar situat în masivul Svîdoveț la o altitudine de 1460 m. Este format din două bazine separate de o fâșie îngustă de pământ.",
+      en: "Vorozheska is a glacial alpine lake in the Svydovets range, situated at 1,460 meters. It consists of two circular basins separated by a narrow strip of land.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1460 Meter", "Typ: Glazialer See", "Gebirge: Swydowez", "Tiefe: bis 4,5 Meter"],
+      hu: ["Tengerszint feletti magasság: 1460 m", "Típus: Gleccsertó", "Hegység: Szvidovec", "Mélység: max 4,5 méter"],
+      ro: ["Altitudine: 1460 m", "Tip: Lac glaciar", "Masiv: Svîdoveț", "Adâncime: până la 4,5 m"],
+      en: ["Elevation: 1,460 meters", "Type: Glacial lake", "Range: Svydovets", "Max depth: 4.5 meters"],
+    },
+    image: "/poi-images/ukraine-vorozheska-nature-v2.webp",
+},  {
     id: "ukraine-nesamovyte-nature-v2",
     type: "lake",
-    name: { de: "Nesamowyte-See", hu: "Nesamovite-tó", ro: "Lacul Nesamovite", en: "Nesamovyte Lake" },
+    name: { de: "Nesamowyte-See", hu: "Nesamovite-tó", ro: "Lacul Nesamovite", en: "Nesamovyte Lake",
+image: "/poi-images/ukraine-nesamovyte-nature-v2.webp"
+},
     coords: [24.5381, 48.1225],
     coordinates: { lat: 48.1225, lng: 24.5381 },
     description: {
@@ -323,11 +565,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 1750 de metri", "Adâncime maximă de 2,5 metri", "Îngheață complet pe timp de iarnă", "Parte a masivului Ciornohora"],
       en: ["Altitude of 1,750 meters", "Maximum depth of 2.5 meters", "Freezes completely during winter", "Located in the Chornohora range"],
     },
-    imageHint: "Nesamovyte lake in the mountains", image: "/poi-images/ukraine-nesamovyte-nature-v2.webp"},
-  {
+imageHint: "Nesamovyte lake in the mountains",
+    descriptionAdvanced: {
+      de: "Der Nesamowyte-See liegt im Tschornohora-Massiv auf 1750 Metern Höhe. Er ist von zahlreichen Legenden umgeben und einer der höchstgelegenen Seen der ukrainischen Karpaten.",
+      hu: "A Neszamovite-tó a Csornohora-hegységben található 1750 méter magasan. Számos legenda övezi, és az Ukrán-Kárpátok egyik legmagasabban fekvő tava.",
+      ro: "Lacul Nesamovîte este situat în masivul Cernohora la o altitudine de 1750 m. Este înconjurat de legende locale și este unul dintre cele mai înalte lacuri din Ucraina.",
+      en: "Lake Nesamovyte is located in the Chornohora range at 1,750 meters. Surrounded by local legends, it is one of the highest alpine lakes in the Ukrainian Carpathians.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1750 Meter", "Tiefe: 1-1,5 Meter", "Fläche: 0,3 Hektar", "Typ: Glazialer See"],
+      hu: ["Tengerszint feletti magasság: 1750 m", "Mélység: 1-1,5 méter", "Terület: 0,3 hektár", "Típus: Gleccsertó"],
+      ro: ["Altitudine: 1750 m", "Adâncime: 1-1,5 m", "Suprafață: 0,3 ha", "Tip: Lac glaciar"],
+      en: ["Elevation: 1,750 meters", "Depth: 1-1.5 meters", "Area: 0.3 hectares", "Type: Glacial lake"],
+    },
+    image: "/poi-images/ukraine-nesamovyte-nature-v2.webp",
+},  {
     id: "ukraine-brebeneskul-peak-nature-v2",
     type: "peak",
-    name: { de: "Brebeneskul", hu: "Brebeneszkul-csúcs", ro: "Vârful Brebeneskul", en: "Mount Brebeneskul" },
+    name: { de: "Brebeneskul", hu: "Brebeneszkul-csúcs", ro: "Vârful Brebeneskul", en: "Mount Brebeneskul",
+image: "/poi-images/ukraine-brebeneskul-peak-nature-v2.webp"
+},
     coords: [24.5772, 48.0967],
     coordinates: { lat: 48.0967, lng: 24.5772 },
     description: {
@@ -342,11 +599,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 2035 de metri", "Al doilea cel mai înalt vârf din țară", "Pereți stâncoși abrupți pe versantul nordic", "Parte a masivului Ciornohora"],
       en: ["Elevation of 2,035 meters", "Second highest mountain in Ukraine", "Steep rocky cliffs on its northern side", "Part of the Chornohora massif"],
     },
-    imageHint: "Mount Brebeneskul peak and lake", image: "/poi-images/ukraine-brebeneskul-peak-nature-v2.webp"},
-  {
+imageHint: "Mount Brebeneskul peak and lake",
+    descriptionAdvanced: {
+      de: "Der Brebeneskul ist mit 2035 Metern der zweithöchste Berg der Ukraine. In seiner Nähe liegt der gleichnamige See, der als der höchstgelegene See des Landes gilt.",
+      hu: "A Brebeneszkul 2035 méteres magasságával Ukrajna második legmagasabb hegycsúcsa. A közelében található azonos nevű tó az ország legmagasabban fekvő állóvize.",
+      ro: "Muntele Brebeneskul are 2035 m și este al doilea cel mai înalt vârf din Ucraina. În apropiere se află lacul cu același nume, cel mai înalt lac din țară.",
+      en: "Mount Brebeneskul stands at 2,035 meters, making it the second highest peak in Ukraine. The nearby lake of the same name is the highest alpine lake in the country.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2035 Meter", "Zweithöchster Gipfel", "Gebirge: Tschornohora", "See-Höhe: 1801 Meter"],
+      hu: ["Magasság: 2035 méter", "2. legmagasabb csúcs", "Hegység: Csornohora", "Tó magassága: 1801 m"],
+      ro: ["Altitudine: 2035 m", "Al doilea vârf ca înălțime", "Masiv: Cernohora", "Altitudine lac: 1801 m"],
+      en: ["Elevation: 2,035 meters", "2nd highest peak", "Range: Chornohora", "Lake elevation: 1,801m"],
+    },
+    image: "/poi-images/ukraine-brebeneskul-peak-nature-v2.webp",
+},  {
     id: "ukraine-desna-nature-v2",
     type: "river",
-    name: { de: "Desna", hu: "Deszna", ro: "Desna", en: "Desna River" },
+    name: { de: "Desna", hu: "Deszna", ro: "Desna", en: "Desna River",
+image: "/poi-images/ukraine-desna-nature-v2.webp"
+},
     coords: [30.5333, 50.55],
     coordinates: { lat: 50.55, lng: 30.5333 },
     description: {
@@ -361,11 +633,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 1130 kilometri", "Cel mai mare afluent de stânga al Niprului", "Nu are baraje pe teritoriul Ucrainei", "Bogată în diverse specii de pești"],
       en: ["Total length of 1,130 kilometers", "Largest left tributary of the Dnipro", "Has no dams on the Ukrainian section", "Highly diverse fish population"],
     },
-    imageHint: "Desna river floodplains aerial view", image: "/poi-images/ukraine-desna-nature-v2.webp"},
-  {
+imageHint: "Desna river floodplains aerial view",
+    descriptionAdvanced: {
+      de: "Die Desna ist ein bedeutender linker Nebenfluss des Dnipro. Sie ist bekannt für ihre unberührten Uferlandschaften, weiten Auen und ihre Bedeutung für die Binnenschifffahrt.",
+      hu: "A Deszna a Dnyeper jelentős bal oldali mellékfolyója. Érintetlen partvidékéről, széles ártereiről és a folyami hajózásban betöltött szerepéről ismert.",
+      ro: "Desna este un afluent major de stânga al Niprului. Este cunoscută pentru malurile sale virgine, luncile întinse și importanța sa pentru navigația fluvială.",
+      en: "The Desna is a major left tributary of the Dnipro. It is celebrated for its pristine banks, wide floodplains, and its importance for inland river navigation.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 1130 km", "Einzugsgebiet: 88.900 km²", "Mündung: Dnipro (bei Kiew)", "Schiffbarkeit: über 500 km"],
+      hu: ["Teljes hossz: 1130 km", "Vízgyűjtő: 88 900 km²", "Torkolat: Dnyeper (Kijevnél)", "Hajózhatóság: több mint 500 km"],
+      ro: ["Lungime totală: 1130 km", "Bazin: 88.900 km²", "Vărsare: Nipru (lângă Kiev)", "Navigabil: peste 500 km"],
+      en: ["Total length: 1,130 km", "Basin area: 88,900 sq km", "Mouth: Dnipro (near Kyiv)", "Navigable: over 500 km"],
+    },
+    image: "/poi-images/ukraine-desna-nature-v2.webp",
+},  {
     id: "ukraine-danube-delta-nature-v2",
     type: "park",
-    name: { de: "Donaudelta (Ukraine)", hu: "Duna-delta", ro: "Delta Dunării", en: "Danube Delta" },
+    name: { de: "Donaudelta (Ukraine)", hu: "Duna-delta", ro: "Delta Dunării", en: "Danube Delta",
+image: "/poi-images/ukraine-danube-delta-nature-v2.webp"
+},
     coords: [29.6667, 45.3333],
     coordinates: { lat: 45.3333, lng: 29.6667 },
     description: {
@@ -380,11 +667,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO", "Peste 300 de specii de păsări", "Include monumentul 'Kilometrul Zero'", "Rezervație importantă a biosferei"],
       en: ["UNESCO World Natural Heritage site", "Home to over 300 bird species", "Features the Zero Kilometer monument", "Significant biosphere reserve"],
     },
-    imageHint: "Danube Delta canals and pelicans", image: "/poi-images/ukraine-danube-delta-nature-v2.webp"},
-  {
+imageHint: "Danube Delta canals and pelicans",
+    descriptionAdvanced: {
+      de: "Das Donaudelta ist das zweitgrößte Delta Europas und ein UNESCO-Welterbe. Der ukrainische Teil beherbergt riesige Schilfgebiete und seltene Vogelarten wie Pelikane.",
+      hu: "A Duna-delta Európa második legnagyobb deltája és UNESCO világörökség. Ukrán része hatalmas nádasoknak és ritka madárfajoknak, például pelikánoknak ad otthont.",
+      ro: "Delta Dunării este a doua cea mai mare deltă din Europa și sit UNESCO. Partea ucraineană găzduiește stufărișuri vaste și specii rare de păsări, precum pelicanii.",
+      en: "The Danube Delta is Europe's second largest delta and a UNESCO World Heritage site. Its Ukrainian section features vast reed beds and rare birds like pelicans.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche: 4152 km²", "Status: UNESCO-Erbe", "Vogelarten: > 300", "Lage: Oblast Odessa"],
+      hu: ["Teljes terület: 4152 km²", "Státusz: UNESCO világörökség", "Madárfajok: > 300", "Helyszín: Odesszai megye"],
+      ro: ["Suprafață totală: 4152 km²", "Statut: Sit UNESCO", "Specii păsări: > 300", "Locație: Regiunea Odesa"],
+      en: ["Total area: 4,152 sq km", "Status: UNESCO site", "Bird species: > 300", "Location: Odesa Oblast"],
+    },
+    image: "/poi-images/ukraine-danube-delta-nature-v2.webp",
+},  {
     id: "ukraine-kinburn-spit-nature-v2",
     type: "park",
-    name: { de: "Kinburn-Halbinsel", hu: "Kinburn-félsziget", ro: "Grindul Kinburn", en: "Kinburn Spit" },
+    name: { de: "Kinburn-Halbinsel", hu: "Kinburn-félsziget", ro: "Grindul Kinburn", en: "Kinburn Spit",
+image: "/poi-images/ukraine-kinburn-spit-nature-v2.webp"
+},
     coords: [31.6, 46.5333],
     coordinates: { lat: 46.5333, lng: 31.6 },
     description: {
@@ -399,11 +701,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 40 km", "Cea mai mare zonă cu orhidee din Europa", "Loc important de cuibărit pentru pelicani", "Compus în principal din nisip și păduri"],
       en: ["Length of approximately 40 kilometers", "Largest field of wild orchids in Europe", "Important nesting ground for pelicans", "Composed mainly of sand dunes and forests"],
     },
-    imageHint: "Kinburn Spit sandy beach and sea", image: "/poi-images/ukraine-kinburn-spit-nature-v2.webp"},
-  {
+imageHint: "Kinburn Spit sandy beach and sea",
+    descriptionAdvanced: {
+      de: "Die Kinburn-Halbinsel ist eine sandige Landzunge zwischen der Dnipro-Mündung und dem Schwarzen Meer. Sie ist bekannt für ihre wilden Orchideen und heilenden Salzseen.",
+      hu: "A Kinburn-félsziget egy homokos földnyelv a Dnyeper-torkolat és a Fekete-tenger között. Vadon élő orchideáiról és gyógyhatású sós tavairól nevezetes.",
+      ro: "Grindul Kinburn este o fâșie de nisip între estuarul Niprului și Marea Neagră. Este faimos pentru orhideele sălbatice și lacurile sărate cu proprietăți curative.",
+      en: "Kinburn Spit is a sandy peninsula located between the Dnipro Estuary and the Black Sea. It is famous for its wild orchids, healing salt lakes, and pristine nature.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 40 km", "Status: Nationalpark", "Besonderheit: Wilde Orchideen", "Lage: Oblast Mykolajiw"],
+      hu: ["Hossz: kb. 40 km", "Státusz: Nemzeti park", "Különlegesség: Vad orchideák", "Helyszín: Mikolajivi megye"],
+      ro: ["Lungime: cca. 40 km", "Statut: Parc Național", "Atracție: Orhidee sălbatice", "Locație: Regiunea Nicolaev"],
+      en: ["Length: approx. 40 km", "Status: National Park", "Feature: Wild orchids", "Location: Mykolaiv Oblast"],
+    },
+    image: "/poi-images/ukraine-kinburn-spit-nature-v2.webp",
+},  {
     id: "ukraine-syvash-nature-v2",
     type: "lake",
-    name: { de: "Sywasch", hu: "Szivas-tó", ro: "Sîvaș", en: "Syvash Lake" },
+    name: { de: "Sywasch", hu: "Szivas-tó", ro: "Sîvaș", en: "Syvash Lake",
+image: "/poi-images/ukraine-syvash-nature-v2.webp"
+},
     coords: [34.3333, 46.1167],
     coordinates: { lat: 46.1167, lng: 34.3333 },
     description: {
@@ -418,11 +735,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Salinitate extrem de ridicată", "Suprafață de 2500 kilometri pătrați", "Adâncime medie de doar 1 metru", "Folosit pentru extracția sării"],
       en: ["Extremely high salt concentration", "Total area of 2,500 square kilometers", "Average depth of only 1 meter", "Used for commercial salt production"],
     },
-    imageHint: "Syvash pink lake aerial view", image: "/poi-images/ukraine-syvash-nature-v2.webp"},
-  {
+imageHint: "Syvash pink lake aerial view",
+    descriptionAdvanced: {
+      de: "Der Sywasch, auch 'Faules Meer' genannt, ist ein flaches System aus Salzlagunen am Asowschen Meer. Es ist für seinen extrem hohen Salzgehalt und die rosa Färbung bekannt.",
+      hu: "A Szivás, más néven a 'Rohadt-tenger', az Azovi-tenger sekély sós lagúnarendszere. Rendkívül magas sótartalmáról és vizének rózsaszínes árnyalatáról ismert.",
+      ro: "Sivaș, numit și 'Marea Putredă', este un sistem de lagune sărate puțin adânci la Marea Azov. Este cunoscut pentru salinitatea extremă și culoarea roz a apei.",
+      en: "Syvash, often called the 'Rotten Sea,' is a shallow system of salt lagoons on the Sea of Azov coast. It is famous for extreme salinity and unique pink water hues.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 2560 km²", "Tiefe: 0,5 - 1 Meter", "Salzgehalt: bis 87 ‰", "Spitzname: Faules Meer"],
+      hu: ["Terület: 2560 km²", "Mélység: 0,5 - 1 méter", "Sótartalom: akár 87 ‰", "Becenév: Rohadt-tenger"],
+      ro: ["Suprafață: 2560 km²", "Adâncime: 0,5 - 1 m", "Salinitate: până la 87 ‰", "Poreclă: Marea Putredă"],
+      en: ["Area: 2,560 sq km", "Depth: 0.5 - 1 meter", "Salinity: up to 87‰", "Nickname: Rotten Sea"],
+    },
+    image: "/poi-images/ukraine-syvash-nature-v2.webp",
+},  {
     id: "ukraine-bakota-nature-v2",
     type: "valley",
-    name: { de: "Bakota-Bucht", hu: "Bakotai-öböl", ro: "Golful Bakota", en: "Bakota Bay" },
+    name: { de: "Bakota-Bucht", hu: "Bakotai-öböl", ro: "Golful Bakota", en: "Bakota Bay",
+image: "/poi-images/ukraine-bakota-nature-v2.webp"
+},
     coords: [26.9833, 48.5833],
     coordinates: { lat: 48.5833, lng: 26.9833 },
     description: {
@@ -437,11 +769,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Fostul sat a fost inundat în 1981", "Parte a Parcului Podilski Tovtri", "Include o veche mănăstire în stâncă", "Apă foarte limpede"],
       en: ["Former village was flooded in 1981", "Part of the Podilski Tovtry Park", "Features an ancient rock monastery", "Known for its very clear water"],
     },
-    imageHint: "Bakota bay Dniester river and cliffs", image: "/poi-images/ukraine-bakota-nature-v2.webp"},
-  {
+imageHint: "Bakota bay Dniester river and cliffs",
+    descriptionAdvanced: {
+      de: "Bakota ist eine versunkene Stadt im Dnister-Stausee. Heute ist die Bucht ein landschaftliches Highlight, bekannt für ihr mildes Mikroklima und das alte Felsenkloster.",
+      hu: "Bakota egy elsüllyedt falu a Dnyeszter-víztározó helyén. Ma a terület egy festői öböl, amely enyhe mikroklímájáról és ősi sziklakolostoráról nevezetes.",
+      ro: "Bakota este un sat scufundat în lacul de acumulare Nistru. Astăzi, golful este o atracție peisagistică majoră, cunoscută pentru microclimatul blând și mănăstirea în stâncă.",
+      en: "Bakota is a submerged village now part of the Dniester reservoir. Today, the bay is a scenic landmark known for its mild microclimate and ancient cave monastery.",
+    },
+    factsAdvanced: {
+      de: ["Flutung: 1981", "Kloster: 11. Jahrhundert", "Lage: Podolische Plateaus", "Status: Teil eines Nationalparks"],
+      hu: ["Elárasztás éve: 1981", "Kolostor: 11. század", "Helyszín: Podóliai-hátság", "Státusz: Nemzeti park része"],
+      ro: ["Inundat în: 1981", "Mănăstire: secolul XI", "Locație: Podișul Podoliei", "Statut: Parte din parc național"],
+      en: ["Submerged: 1981", "Monastery: 11th century", "Location: Podolian Upland", "Status: Part of National Park"],
+    },
+    image: "/poi-images/ukraine-bakota-nature-v2.webp",
+},  {
     id: "ukraine-probiy-nature-v2",
     type: "landmark",
-    name: { de: "Probiy-Wasserfall", hu: "Probij-vízesés", ro: "Cascada Probii", en: "Probiy Waterfall" },
+    name: { de: "Probiy-Wasserfall", hu: "Probij-vízesés", ro: "Cascada Probii", en: "Probiy Waterfall",
+image: "/poi-images/ukraine-probiy-nature-v2.webp"
+},
     coords: [24.5397, 48.4394],
     coordinates: { lat: 48.4394, lng: 24.5397 },
     description: {
@@ -456,11 +803,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 8 metri", "Situată pe râul Prut", "Aflată în centrul orașului Iaremce", "Debit de apă foarte ridicat"],
       en: ["Height of approximately 8 meters", "Located on the Prut River", "Situated in the center of Yaremche", "High volume of water flow"],
     },
-    imageHint: "Probiy waterfall Yaremche bridge view", image: "/poi-images/ukraine-probiy-nature-v2.webp"},
-  {
+imageHint: "Probiy waterfall Yaremche bridge view",
+    descriptionAdvanced: {
+      de: "Der Probij-Wasserfall in Jaremtsche ist einer der wasserreichsten der Karpaten. Das Wasser des Prut stürzt hier über eine mächtige Kaskade aus acht Metern Höhe.",
+      hu: "A Probij-vízesés Jaremcsében a Kárpátok egyik legbővizűbb zuhataga. A Prut folyó vize itt egy nyolc méter magas sziklalépcsőn zúdul keresztül.",
+      ro: "Cascada Probiy din Iaremce este una dintre cele mai puternice din Carpați. Apa râului Prut cade aici peste o cascadă masivă de opt metri înălțime.",
+      en: "Probiy Waterfall in Yaremche is one of the most powerful cascades in the Carpathians. The Prut River's water thunders down an eight-meter rocky drop.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 8 Meter", "Fluss: Prut", "Lage: Stadt Jaremtsche", "Typ: Kaskadenwasserfall"],
+      hu: ["Magasság: 8 méter", "Folyó: Prut", "Helyszín: Jaremcse város", "Típus: Lépcsős vízesés"],
+      ro: ["Înălțime: 8 m", "Râu: Prut", "Locație: Orașul Iaremce", "Tip: Cascadă în trepte"],
+      en: ["Height: 8 meters", "River: Prut", "Location: Yaremche city", "Type: Cascade waterfall"],
+    },
+    image: "/poi-images/ukraine-probiy-nature-v2.webp",
+},  {
     id: "ukraine-pip-ivan-marmaros-nature-v2",
     type: "peak",
-    name: { de: "Pip Iwan (Marmarosch)", hu: "Pip Iván (Máramaros)", ro: "Pip Ivan (Maramureș)", en: "Pip Ivan Marmaros" },
+    name: { de: "Pip Iwan (Marmarosch)", hu: "Pip Iván (Máramaros)", ro: "Pip Ivan (Maramureș)", en: "Pip Ivan Marmaros",
+image: "/poi-images/ukraine-pip-ivan-marmaros-nature-v2.webp"
+},
     coords: [24.33, 47.925],
     coordinates: { lat: 47.925, lng: 24.33 },
     description: {
@@ -475,11 +837,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 1936 de metri", "Situat chiar pe granița de stat", "Parte a masivului Maramureș", "Renumit pentru pajiștile alpine"],
       en: ["Elevation of 1,936 meters", "Located exactly on the state border", "Part of the Marmaros massif", "Known for its alpine meadows"],
     },
-    imageHint: "Pip Ivan Marmaros mountain landscape", image: "/poi-images/ukraine-pip-ivan-marmaros-nature-v2.webp"},
-  {
+imageHint: "Pip Ivan Marmaros mountain landscape",
+    descriptionAdvanced: {
+      de: "Der Pip Iwan Marmarosch wird oft als 'ukrainische Alpen' bezeichnet. Er liegt direkt an der Grenze zu Rumänien und beeindruckt durch seine alpinen Felsformationen.",
+      hu: "A Máramarosi-Pip Iván csúcsot gyakran nevezik az 'ukrán Alpoknak'. Közvetlenül a román határon fekszik, és alpesi jellegű sziklaformációival nyűgözi le a látogatókat.",
+      ro: "Vârful Pip Ivan Marmaroș este numit adesea 'Alpii Ucraineni'. Situat chiar pe granița cu România, impresionează prin formele sale de relief alpine.",
+      en: "Pip Ivan Marmaros is often referred to as the 'Ukrainian Alps.' Located right on the Romanian border, it features dramatic alpine rocky landscapes and steep cliffs.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1936 Meter", "Gebirge: Marmarosch-Massiv", "Lage: Grenze Ukraine/Rumänien", "Spitzname: Ukrainische Alpen"],
+      hu: ["Magasság: 1936 méter", "Hegység: Máramarosi-havasok", "Helyszín: Ukrán-román határ", "Becenév: Ukrán Alpok"],
+      ro: ["Altitudine: 1936 m", "Masiv: Munții Maramureșului", "Locație: Granița Ucraina/România", "Poreclă: Alpii Ucraineni"],
+      en: ["Elevation: 1,936 meters", "Range: Marmaros Massif", "Location: UA/RO border", "Nickname: Ukrainian Alps"],
+    },
+    image: "/poi-images/ukraine-pip-ivan-marmaros-nature-v2.webp",
+},  {
     id: "ukraine-tysa-nature-v2",
     type: "river",
-    name: { de: "Theiß", hu: "Tisza", ro: "Tisa", en: "Tysa River" },
+    name: { de: "Theiß", hu: "Tisza", ro: "Tisa", en: "Tysa River",
+image: "/poi-images/ukraine-tysa-nature-v2.webp"
+},
     coords: [23.0, 48.0833],
     coordinates: { lat: 48.0833, lng: 23.0 },
     description: {
@@ -494,11 +871,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 966 kilometri", "Cel mai mare afluent al Dunării", "Izvorăște lângă Rahiv", "Râu de frontieră pentru cinci țări"],
       en: ["Total length of 966 kilometers", "Largest tributary of the Danube", "Source located near Rakhiv", "Border river for five nations"],
     },
-    imageHint: "Tysa river in the Carpathian mountains", image: "/poi-images/ukraine-tysa-nature-v2.webp"},
-  {
+imageHint: "Tysa river in the Carpathian mountains",
+    descriptionAdvanced: {
+      de: "Die Theiß ist der größte linke Nebenfluss der Donau. Sie entspringt in den ukrainischen Karpaten und durchfließt als Grenzfluss mehrere mitteleuropäische Staaten.",
+      hu: "A Tisza a Duna leghosszabb mellékfolyója. Az Ukrán-Kárpátokban ered, és határfolyóként több közép-európai országot is érint útja során.",
+      ro: "Tisa este cel mai mare afluent de stânga al Dunării. Izvorăște din Carpații Ucraineni și traversează mai multe state central-europene ca râu de frontieră.",
+      en: "The Tysa is the longest tributary of the Danube. Originating in the Ukrainian Carpathians, it serves as a border river for several Central European nations.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 966 km", "Einzugsgebiet: 157.000 km²", "Mündung: Donau (Serbien)", "Quelle: Schwarze/Weiße Theiß"],
+      hu: ["Hossz: 966 km", "Vízgyűjtő: 157 000 km²", "Torkolat: Duna (Szerbia)", "Forrás: Fekete- és Fehér-Tisza"],
+      ro: ["Lungime: 966 km", "Bazin: 157.000 km²", "Vărsare: Dunăre (Serbia)", "Izvor: Tisa Neagră și Albă"],
+      en: ["Length: 966 km", "Basin area: 157,000 sq km", "Mouth: Danube (Serbia)", "Source: Black/White Tysa"],
+    },
+    image: "/poi-images/ukraine-tysa-nature-v2.webp",
+},  {
     id: "ukraine-yalpuh-nature-v2",
     type: "lake",
-    name: { de: "Jalpuh-See", hu: "Jalpuh-tó", ro: "Lacul Ialpug", en: "Lake Yalpuh" },
+    name: { de: "Jalpuh-See", hu: "Jalpuh-tó", ro: "Lacul Ialpug", en: "Lake Yalpuh",
+image: "/poi-images/ukraine-yalpuh-nature-v2.webp"
+},
     coords: [28.6167, 45.4167],
     coordinates: { lat: 45.4167, lng: 28.6167 },
     description: {
@@ -513,11 +905,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Suprafață de 149 kilometri pătrați", "Cel mai mare lac natural din Ucraina", "Lungime de aproximativ 39 km", "Situat în regiunea Bugeac"],
       en: ["Surface area of 149 square kilometers", "Largest natural lake in Ukraine", "Length of approximately 39 km", "Located in the Budjak region"],
     },
-    imageHint: "Lake Yalpuh aerial view sunset", image: "/poi-images/ukraine-yalpuh-nature-v2.webp"},
-  {
+imageHint: "Lake Yalpuh aerial view sunset",
+    descriptionAdvanced: {
+      de: "Der Jalpuh-See ist der größte natürliche Süßwassersee der Ukraine. Er liegt im Donaudelta-Gebiet und ist ein wichtiges Ökosystem für zahlreiche Fischarten.",
+      hu: "A Jalpuh-tó Ukrajna legnagyobb természetes édesvizű tava. A Duna-delta vidékén található, és számos halfaj számára nyújt kiemelkedő fontosságú élőhelyet.",
+      ro: "Lacul Ialpug este cel mai mare lac natural de apă dulce din Ucraina. Situat în zona Deltei Dunării, acesta reprezintă un ecosistem vital pentru numeroase specii de pești.",
+      en: "Lake Yalpuh is the largest natural freshwater lake in Ukraine. Located near the Danube Delta, it is a crucial ecosystem supporting a wide variety of fish species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 149 km²", "Länge: 39 km", "Max. Tiefe: 5,5 Meter", "Lage: Oblast Odessa"],
+      hu: ["Terület: 149 km²", "Hossz: 39 km", "Max. mélység: 5,5 méter", "Helyszín: Odesszai megye"],
+      ro: ["Suprafață: 149 km²", "Lungime: 39 km", "Adâncime max: 5,5 m", "Locație: Regiunea Odesa"],
+      en: ["Area: 149 sq km", "Length: 39 km", "Max depth: 5.5 meters", "Location: Odesa Oblast"],
+    },
+    image: "/poi-images/ukraine-yalpuh-nature-v2.webp",
+},  {
     id: "ukraine-stone-village-nature-v2",
     type: "park",
-    name: { de: "Steinernes Dorf", hu: "Kőfalu", ro: "Satul de Piatră", en: "Stone Village" },
+    name: { de: "Steinernes Dorf", hu: "Kőfalu", ro: "Satul de Piatră", en: "Stone Village",
+image: "/poi-images/ukraine-stone-village-nature-v2.webp"
+},
     coords: [27.65, 51.1333],
     coordinates: { lat: 51.1333, lng: 27.65 },
     description: {
@@ -532,11 +939,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Rezervație geologică", "Blocuri gigantice de origine glaciară", "Suprafață de 15 hectare", "Stâncile seamănă cu structura unui sat"],
       en: ["Geological nature reserve", "Massive glacial erratic boulders", "Covers an area of 15 hectares", "Rocks resemble a village layout"],
     },
-    imageHint: "Stone Village Zhytomyr giant boulders in forest", image: "/poi-images/ukraine-stone-village-nature-v2.webp"},
-  {
+imageHint: "Stone Village Zhytomyr giant boulders in forest",
+    descriptionAdvanced: {
+      de: "Das 'Steinerne Dorf' ist ein geologisches Reservat mit riesigen Granitblöcken, die wie Häuser angeordnet sind. Es ist von dichten Wäldern und mystischen Sagen umgeben.",
+      hu: "A 'Kőfalu' egy geológiai rezervátum hatalmas gránitsziklákkal, amelyek elrendezése házakra emlékeztet. Sűrű erdők és misztikus legendák övezik a területet.",
+      ro: " 'Satul de Piatră' este o rezervație geologică cu blocuri uriașe de granit dispuse ca niște case. Este înconjurat de păduri dese și legende mistice locale.",
+      en: "The 'Stone Village' is a geological reserve featuring massive granite boulders arranged like houses. It is shrouded in dense forest and mystical local folklore.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 Hektar", "Gestein: Granit", "Lage: Oblast Schytomyr", "Entstehung: Eiszeit/Erosion"],
+      hu: ["Terület: 15 hektár", "Kőzet: Gránit", "Helyszín: Zsitomiri megye", "Eredet: Jégkorszak/erózió"],
+      ro: ["Suprafață: 15 ha", "Roci: Granit", "Locație: Regiunea Jitomir", "Origine: Glaciară/eroziune"],
+      en: ["Area: 15 hectares", "Rock type: Granite", "Location: Zhytomyr Oblast", "Origin: Glacial/erosion"],
+    },
+    image: "/poi-images/ukraine-stone-village-nature-v2.webp",
+},  {
     id: "ukraine-manyava-nature-v2",
     type: "landmark",
-    name: { de: "Manjawa-Wasserfall", hu: "Manyavai-vízesés", ro: "Cascada Maniava", en: "Manyava Waterfall" },
+    name: { de: "Manjawa-Wasserfall", hu: "Manyavai-vízesés", ro: "Cascada Maniava", en: "Manyava Waterfall",
+image: "/poi-images/ukraine-manyava-nature-v2.webp"
+},
     coords: [24.3019, 48.6014],
     coordinates: { lat: 48.6014, lng: 24.3019 },
     description: {
@@ -551,11 +973,26 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Înălțime de 20 de metri", "Situată pe râul Maniavka", "Aflată într-un canion adânc", "Lângă satul Maniava"],
       en: ["Height of 20 meters", "Located on the Manyavka River", "Situated in a deep gorge", "Near the village of Manyava"],
     },
-    imageHint: "Manyava waterfall in the mountains", image: "/poi-images/ukraine-manyava-nature-v2.webp"},
-  {
+imageHint: "Manyava waterfall in the mountains",
+    descriptionAdvanced: {
+      de: "Der Manjawa-Wasserfall ist mit rund 20 Metern einer der höchsten der ukrainischen Karpaten. Er liegt in einer engen Schlucht und ist ein Ziel für Canyoning-Fans.",
+      hu: "A Manyavszkij-vízesés mintegy 20 méteres magasságával az Ukrán-Kárpátok egyik legmagasabbja. Egy szűk szurdokban található, kedvelt helyszín a kanyoninghoz.",
+      ro: "Cascada Maniava este una dintre cele mai înalte din Carpații Ucraineni, având circa 20 m. Situată într-un canion îngust, este o destinație populară pentru canyoning.",
+      en: "Manyava Waterfall is one of the highest in the Ukrainian Carpathians, dropping about 20 meters. It is nestled in a narrow canyon popular for hiking and canyoning.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: ca. 20 Meter", "Lage: Nahe Dorf Manjawa", "Gebirge: Gorgany", "Besonderheit: Hohe Felswände"],
+      hu: ["Magasság: kb. 20 méter", "Helyszín: Manyava falu közelében", "Hegység: Gorgánok", "Különlegesség: Szűk kanyon"],
+      ro: ["Înălțime: cca. 20 m", "Locație: lângă satul Maniava", "Masiv: Gorgany", "Atracție: Canion stâncos"],
+      en: ["Height: approx. 20 meters", "Location: Near Manyava village", "Range: Gorgany", "Feature: Steep canyon walls"],
+    },
+    image: "/poi-images/ukraine-manyava-nature-v2.webp",
+},  {
     id: "ukraine-blyznytsya-nature-v2",
     type: "peak",
-    name: { de: "Blyznyzja", hu: "Bliznyicja", ro: "Vârful Bliznița", en: "Mount Blyznytsya" },
+    name: { de: "Blyznyzja", hu: "Bliznyicja", ro: "Vârful Bliznița", en: "Mount Blyznytsya",
+image: "/poi-images/ukraine-blyznytsya-nature-v2.webp"
+},
     coords: [24.2239, 48.2208],
     coordinates: { lat: 48.2208, lng: 24.2239 },
     description: {
@@ -571,5 +1008,17 @@ export const ukraineNatureV2: POI[] = [
       en: ["Elevation of 1,883 meters", "Features two twin peaks", "Part of the Svydovets range", "Known for rare alpine flora"],
     },
     imageHint: "Mount Blyznytsya twin peaks landscape",
+    descriptionAdvanced: {
+      de: "Die Blysnyzja ist der höchste Gipfel des Swydowez-Massivs. Sie ist bekannt für ihre sanften Grate, Bergseen und die seltene Alpenflora wie das Edelweiß.",
+      hu: "A Bliznyicja a Szvidovec-hegység legmagasabb csúcsa. Szelíd hegygerinceiről, tengerszemeiről és ritka alpesi növényvilágáról, például a havasi gyopárról híres.",
+      ro: "Vârful Blîznîțea este cel mai înalt punct din masivul Svîdoveț. Este cunoscut pentru crestele line, lacurile glaciare și flora alpină rară, precum floarea-de-colț.",
+      en: "Mount Blyznytsya is the highest peak in the Svydovets range. It is famous for its gentle ridges, glacial lakes, and rare alpine flora, including edelweiss.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1883 Meter", "Gebirge: Swydowez", "Flora: Edelweiß", "Lage: Oblast Transkarpatien"],
+      hu: ["Magasság: 1883 méter", "Hegység: Szvidovec", "Flóra: Havasi gyopár", "Helyszín: Kárpátalja"],
+      ro: ["Altitudine: 1883 m", "Masiv: Svîdoveț", "Floră: Floare-de-colț", "Locație: Regiunea Transcarpatia"],
+      en: ["Elevation: 1,883 meters", "Range: Svydovets", "Flora: Edelweiss", "Location: Transcarpathian Oblast"],
+    },
   }
 ];

@@ -6,7 +6,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "NP-P2",
     coords: [84.8814, 27.0024],
-    name: { de: "Trockenhafen Birgunj", hu: "Birgunj szárazföldi kikötő", ro: "Portul uscat Birgunj", en: "Birgunj Dry Port" },
+    name: { de: "Trockenhafen Birgunj", hu: "Birgunj szárazföldi kikötő", ro: "Portul uscat Birgunj", en: "Birgunj Dry Port",
+image: "/poi-images/birgunj-dry-port-economic-v2.webp"
+},
     description: { de: "Der größte Trockenhafen Nepals, der den Großteil des internationalen Handels über Indien abwickelt.", hu: "Nepál legnagyobb szárazföldi kikötője, amely a nemzetközi kereskedelem nagy részét bonyolítja le Indián keresztül.", ro: "Cel mai mare port uscat din Nepal, care gestionează majoritatea comerțului internațional prin India.", en: "Nepal's largest dry port, which handles the majority of international trade via India." },
     descriptionAdvanced: {
       de: `Der Trockenhafen Birgunj, offiziell 2004 in Betrieb genommen, ist ein entscheidender Knotenpunkt für Nepals Außenhandel. Als Binnenstaat ist Nepal für den Seehandel auf indische Häfen angewiesen, wobei der Hafen von Kalkutta der wichtigste Partner ist. Diese Anlage, die von der Nepal Intermodal Transport Development Board (NITDB) verwaltet wird, hat den Warenverkehr revolutioniert, indem sie Zollabfertigungen im Landesinneren ermöglicht. Dies reduziert die Transitzeiten und Kosten für Importeure und Exporteure erheblich. Der Hafen erstreckt sich über eine große Fläche und verfügt über mehrere Lagerhäuser, Containerterminals und eine Eisenbahnanbindung, die ihn direkt mit dem indischen Schienennetz verbindet. Seine strategische Lage in der Nähe der indischen Grenze macht ihn zum mit Abstand verkehrsreichsten und wirtschaftlich bedeutendsten Trockenhafen des Landes.`,
@@ -37,7 +39,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P3",
     coords: [85.0333, 27.4259],
-    name: { de: "Industriegebiet Hetauda", hu: "Hetauda Ipari Park", ro: "Parcul Industrial Hetauda", en: "Hetauda Industrial District" },
+    name: { de: "Industriegebiet Hetauda", hu: "Hetauda Ipari Park", ro: "Parcul Industrial Hetauda", en: "Hetauda Industrial District",
+image: "/poi-images/hetauda-industrial-district-economic-v2.webp"
+},
     description: { de: "Eines der größten und ältesten Industriegebiete in Nepal, das eine Vielzahl von Produktionsstätten beherbergt.", hu: "Nepál egyik legnagyobb és legrégebbi ipari területe, amely számos gyárnak ad otthont.", ro: "Una dintre cele mai mari și mai vechi zone industriale din Nepal, care găzduiește numeroase fabrici.", en: "One of the largest and oldest industrial areas in Nepal, housing a variety of manufacturing plants." },
     descriptionAdvanced: {
       de: `Das 1963 mit Unterstützung der US-Regierung gegründete Industriegebiet Hetauda ist ein Eckpfeiler der nepalesischen Industrialisierung. Es liegt strategisch günstig in der Provinz Bagmati und ist eines der ältesten und größten Industriegebiete des Landes. Auf einer Fläche von über 130 Hektar beherbergt es eine vielfältige Mischung von Industrien, darunter Textil-, Kunststoff-, Lebensmittelverarbeitungs- und Chemieunternehmen. Die Präsenz etablierter Unternehmen hat ein robustes Ökosystem für Zulieferer und Dienstleister geschaffen und Tausende von Arbeitsplätzen geschaffen. Die Nähe zum Tribhuvan Highway, einer wichtigen nationalen Verkehrsader, erleichtert den Transport von Rohstoffen und Fertigwaren. Trotz Herausforderungen wie veralteter Infrastruktur und Energieknappheit bleibt das Industriegebiet Hetauda ein wichtiger Motor für die lokale und nationale Wirtschaft und trägt erheblich zum nepalesischen Produktionssektor bei.`,
@@ -68,7 +72,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "energy",
     parent: "NP-P3",
     coords: [86.2234, 27.8745],
-    name: { de: "Wasserkraftwerk Upper Tamakoshi", hu: "Felső-Tamakoshi Vízerőmű", ro: "Hidrocentrala Upper Tamakoshi", en: "Upper Tamakoshi Hydroelectric Project" },
+    name: { de: "Wasserkraftwerk Upper Tamakoshi", hu: "Felső-Tamakoshi Vízerőmű", ro: "Hidrocentrala Upper Tamakoshi", en: "Upper Tamakoshi Hydroelectric Project",
+image: "/poi-images/upper-tamakoshi-hydroelectric-economic-v2.webp"
+},
     description: { de: "Das größte Wasserkraftwerk Nepals, das vollständig mit inländischen Mitteln finanziert wurde.", hu: "Nepál legnagyobb vízerőműve, amelyet teljes egészében hazai forrásokból finanszíroztak.", ro: "Cea mai mare hidrocentrală din Nepal, finanțată în întregime din fonduri interne.", en: "Nepal's largest hydroelectric power station, fully financed with domestic funds." },
     descriptionAdvanced: {
       de: `Das Wasserkraftwerk Upper Tamakoshi ist ein nationales Vorzeigeprojekt und ein Symbol für Nepals Streben nach Energieautarkie. Es wurde 2021 eingeweiht und ist mit einer installierten Leistung von 456 MW das größte in Betrieb befindliche Wasserkraftwerk des Landes. Das Projekt ist einzigartig, da es vollständig aus nationalen Mitteln finanziert wurde, unter Beteiligung von staatlichen Stellen, Fonds und der breiten Öffentlichkeit. Dies hat das Vertrauen in die Fähigkeit des Landes, Megaprojekte durchzuführen, gestärkt. Das Kraftwerk am Tamakoshi-Fluss im Distrikt Dolakha ist ein Laufwasserkraftwerk mit einem Speicherbecken, das die Stromerzeugung in den Spitzenzeiten der Trockenzeit ermöglicht. Es hat die Abhängigkeit Nepals von Stromimporten aus Indien drastisch reduziert und das Land zu einem Nettoexporteur während der Monsunzeit gemacht, was die Handelsbilanz erheblich verbessert hat.`,
@@ -99,7 +105,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "energy",
     parent: "NP-P4",
     coords: [83.5855, 27.9543],
-    name: { de: "Kraftwerk Kali Gandaki A", hu: "Kali Gandaki A Erőmű", ro: "Centrala Electrică Kali Gandaki A", en: "Kali Gandaki A Hydroelectric Power Station" },
+    name: { de: "Kraftwerk Kali Gandaki A", hu: "Kali Gandaki A Erőmű", ro: "Centrala Electrică Kali Gandaki A", en: "Kali Gandaki A Hydroelectric Power Station",
+image: "/poi-images/kali-gandaki-a-power-economic-v2.webp"
+},
     description: { de: "Ein bedeutendes Laufwasserkraftwerk am Kali Gandaki Fluss, das einen großen Teil des nationalen Strombedarfs deckt.", hu: "Jelentős folyóvizes vízerőmű a Kali Gandaki folyón, amely a nemzeti áramszükséglet nagy részét fedezi.", ro: "O importantă hidrocentrală pe firul apei pe râul Kali Gandaki, care acoperă o mare parte din necesarul național de electricitate.", en: "A major run-of-the-river hydroelectric plant on the Kali Gandaki River, covering a large part of the national electricity demand." },
     descriptionAdvanced: {
       de: `Die Kali Gandaki A Wasserkraftanlage ist eine der zuverlässigsten und wichtigsten Energiequellen in Nepal. Das 2002 in Betrieb genommene Laufwasserkraftwerk am Kali Gandaki Fluss hat eine Kapazität von 144 MW. Es wurde von der Nepal Electricity Authority (NEA) mit finanzieller Unterstützung der Asiatischen Entwicklungsbank entwickelt. Das Projekt war ein Meilenstein in der Nutzung des enormen Wasserkraftpotenzials des Landes und hat über Jahre hinweg zur Stabilisierung des nationalen Netzes beigetragen. Die Anlage besteht aus einem kleinen Umleitungsdamm, der das Wasser durch einen langen Tunnel zu einem unterirdischen Kraftwerk leitet. Kali Gandaki A ist nicht nur ein Kraftwerk; es ist auch ein Beispiel für Ingenieurskunst in einer herausfordernden Himalaya-Topografie und bleibt ein entscheidender Faktor für die Deckung des Strombedarfs Nepals, insbesondere während der trockenen Wintermonate.`,
@@ -130,7 +138,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "NP-P3",
     coords: [85.9621, 27.9654],
-    name: { de: "Zollamt Tatopani", hu: "Tatopani Vámhivatal", ro: "Biroul Vamal Tatopani", en: "Tatopani Customs Office" },
+    name: { de: "Zollamt Tatopani", hu: "Tatopani Vámhivatal", ro: "Biroul Vamal Tatopani", en: "Tatopani Customs Office",
+image: "/poi-images/tatopani-customs-economic-v2.webp"
+},
     description: { de: "Ein wichtiger Grenzübergang und Handelsposten zwischen Nepal und Tibet, der nach Erdbebenschäden wieder aufgebaut wurde.", hu: "Fontos határátkelő és kereskedelmi állomás Nepál és Tibet között, amelyet földrengéskárok után építettek újjá.", ro: "Un important punct de trecere a frontierei și post comercial între Nepal și Tibet, reconstruit după daunele provocate de cutremur.", en: "A major border crossing and trading post between Nepal and Tibet, rebuilt after earthquake damage." },
     descriptionAdvanced: {
       de: `Das Zollamt Tatopani an der Grenze zwischen Nepal und China (Tibet) war historisch gesehen eine der wichtigsten Handelsadern für Nepal. Vor dem verheerenden Erdbeben von 2015 war dies der wichtigste Überland-Handelsweg mit China und wickelte einen erheblichen Teil des bilateralen Handels ab. Der Grenzübergang, der durch die Brücke der Freundschaft verbunden ist, wurde durch das Erdbeben schwer beschädigt und blieb mehrere Jahre lang für den Handel geschlossen, was die nepalesische Wirtschaft schwer traf. Nach umfangreichen Wiederaufbau- und Verhandlungsarbeiten wurde der Übergang 2019 für den Frachtverkehr wiedereröffnet, wenn auch mit Einschränkungen. Tatopani bleibt ein Symbol für die komplexen geopolitischen und wirtschaftlichen Beziehungen in der Region und ein entscheidender Punkt für den Import chinesischer Waren wie Elektronik, Kleidung und Maschinen.`,
@@ -161,7 +171,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "NP-P3",
     coords: [85.2812, 28.2731],
-    name: { de: "Grenzübergang Rasuwagadhi", hu: "Rasuwagadhi Határátkelő", ro: "Punctul de Trecere Rasuwagadhi", en: "Rasuwagadhi Border Crossing" },
+    name: { de: "Grenzübergang Rasuwagadhi", hu: "Rasuwagadhi Határátkelő", ro: "Punctul de Trecere Rasuwagadhi", en: "Rasuwagadhi Border Crossing",
+image: "/poi-images/rasuwagadhi-border-crossing-economic-v2.webp"
+},
     description: { de: "Der mittlerweile wichtigste internationale Handelsgrenzübergang zwischen Nepal und der Volksrepublik China.", hu: "Nepál és a Kínai Népköztársaság közötti, mára legfontosabbá vált nemzetközi kereskedelmi határátkelő.", ro: "În prezent, cel mai important punct de trecere a frontierei pentru comerțul internațional între Nepal și Republica Populară Chineză.", en: "Currently the most important international trade border crossing between Nepal and the People's Republic of China." },
     descriptionAdvanced: {
       de: `Der Grenzübergang Rasuwagadhi hat sich schnell zum wichtigsten Handelstor zwischen Nepal und China entwickelt, insbesondere nach den Störungen in Tatopani. Dieser 2017 zum internationalen Übergang hochgestufte Grenzübergang im Distrikt Rasuwa liegt auf einer Höhe von über 1.800 Metern. Er hat eine entscheidende Rolle bei der Aufrechterhaltung des bilateralen Handels gespielt und dient als alternative und widerstandsfähigere Route. Die chinesische Regierung hat stark in die Infrastruktur auf ihrer Seite investiert, einschließlich eines modernen Trockenhafens, und Nepal hat ebenfalls Anstrengungen unternommen, die Zufahrtsstraßen zu verbessern. Rasuwagadhi ist nicht nur für den Handel von entscheidender Bedeutung, sondern auch ein wichtiger Einreisepunkt für Touristen, die Tibet besuchen. Seine zunehmende Bedeutung unterstreicht die sich verlagernde geostrategische Landschaft und Nepals Bemühungen, seine Handelsrouten zu diversifizieren.`,
@@ -192,7 +204,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P1",
     coords: [87.2831, 26.4521],
-    name: { de: "Jutefabrik Biratnagar", hu: "Biratnagari Jutagyár", ro: "Fabrica de Iută Biratnagar", en: "Biratnagar Jute Mills" },
+    name: { de: "Jutefabrik Biratnagar", hu: "Biratnagari Jutagyár", ro: "Fabrica de Iută Biratnagar", en: "Biratnagar Jute Mills",
+image: "/poi-images/biratnagar-jute-mills-economic-v2.webp"
+},
     description: { de: "Die erste große Industrieanlage Nepals, die maßgeblich zur wirtschaftlichen und politischen Entwicklung des Landes beitrug.", hu: "Nepál első nagy ipari létesítménye, amely jelentősen hozzájárult az ország gazdasági és politikai fejlődéséhez.", ro: "Prima mare facilitate industrială din Nepal, care a contribuit semnificativ la dezvoltarea economică și politică a țării.", en: "Nepal's first large industrial facility, which contributed significantly to the country's economic and political development." },
     descriptionAdvanced: {
       de: `Die 1936 gegründete Jutefabrik Biratnagar hat nicht nur wirtschaftliche, sondern auch immense historische und politische Bedeutung für Nepal. Sie war die erste große Industrieanlage des Landes und markierte den Beginn der Industrialisierung in Nepal. Die Fabrik, die Jutesäcke und -stoffe herstellte, wurde schnell zum größten Arbeitgeber in der Region. Noch wichtiger ist, dass sie zum Epizentrum der nepalesischen Arbeiterbewegung wurde. Der erste organisierte Arbeiterstreik in der Geschichte Nepals fand hier 1947 statt, angeführt von prominenten politischen Persönlichkeiten wie B.P. Koirala. Dieser Streik legte den Grundstein für die Anti-Rana-Bewegung und den Kampf für Demokratie. Obwohl die Fabrik im Laufe der Jahre mit wirtschaftlichen Schwierigkeiten und Managementproblemen zu kämpfen hatte, bleibt ihr Erbe als Wiege der nepalesischen Industrie und des politischen Aktivismus unbestritten.`,
@@ -223,7 +237,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P5",
     coords: [81.6215, 28.0534],
-    name: { de: "Industriegebiet Nepalgunj", hu: "Nepalgunj Ipari Park", ro: "Parcul Industrial Nepalgunj", en: "Nepalgunj Industrial Estate" },
+    name: { de: "Industriegebiet Nepalgunj", hu: "Nepalgunj Ipari Park", ro: "Parcul Industrial Nepalgunj", en: "Nepalgunj Industrial Estate",
+image: "/poi-images/nepalgunj-industrial-estate-economic-v2.webp"
+},
     description: { de: "Ein bedeutendes Produktionszentrum im Westen Nepals, das die regionale Wirtschaft ankurbelt und Arbeitsplätze schafft.", hu: "Jelentős termelési központ Nyugat-Nepálban, amely fellendíti a regionális gazdaságot és munkahelyeket teremt.", ro: "Un centru de producție important în vestul Nepalului, care stimulează economia regională și creează locuri de muncă.", en: "A major manufacturing center in western Nepal, boosting the regional economy and creating jobs." },
     descriptionAdvanced: {
       de: `Das 1973 gegründete Industriegebiet Nepalgunj ist ein wichtiger Wirtschaftsknotenpunkt in der westlichen Terai-Region Nepals. Seine strategische Lage nahe der indischen Grenze, insbesondere zur Stadt Rupaidiha, macht es zu einem idealen Standort für den Handel zwischen Indien und Nepal. Das Industriegebiet erstreckt sich über eine beträchtliche Fläche und ist auf die Verarbeitung landwirtschaftlicher Produkte spezialisiert, was die Agrarwirtschaft der Region widerspiegelt. Zu den Hauptindustrien gehören Reismühlen, Ölmühlen, Mehlmühlen und die Herstellung von Tierfutter. Es beherbergt auch eine Reihe von nicht-landwirtschaftlichen Unternehmen wie Kunststoff- und Seifenhersteller. Durch die Bereitstellung von grundlegender Infrastruktur wie Straßen, Wasser und Strom hat das Industriegebiet Nepalgunj das Wachstum kleiner und mittlerer Unternehmen gefördert und ist zu einem wichtigen Arbeitgeber in der Provinz Lumbini geworden, der die regionale Entwicklung vorantreibt.`,
@@ -254,7 +270,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "NP-P3",
     coords: [85.2911, 27.6533],
-    name: { de: "Trockenhafen Chobhar", hu: "Chobhar szárazföldi kikötő", ro: "Portul uscat Chobhar", en: "Chobhar Dry Port" },
+    name: { de: "Trockenhafen Chobhar", hu: "Chobhar szárazföldi kikötő", ro: "Portul uscat Chobhar", en: "Chobhar Dry Port",
+image: "/poi-images/chobhar-dry-port-economic-v2.webp"
+},
     description: { de: "Eine moderne Logistikanlage in Kathmandu, die darauf ausgelegt ist, den internationalen Handel in der Hauptstadtregion zu erleichtern.", hu: "Modern logisztikai létesítmény Katmanduban, amelynek célja a fővárosi régió nemzetközi kereskedelmének megkönnyítése.", ro: "O facilitate logistică modernă în Kathmandu, concepută pentru a facilita comerțul internațional în regiunea capitalei.", en: "A modern logistics facility in Kathmandu, designed to facilitate international trade in the capital region." },
     descriptionAdvanced: {
       de: `Der 2022 eröffnete Trockenhafen Chobhar ist eine moderne Ergänzung der nepalesischen Handelsinfrastruktur. Dieser mit finanzieller Unterstützung der Weltbank erbaute Hafen liegt am südlichen Stadtrand von Kathmandu und soll den Handel im Kathmandu-Tal erleichtern. Sein Hauptziel ist es, die Überlastung an den Grenzzollämtern, insbesondere in Birgunj, zu verringern, indem er es den Händlern ermöglicht, ihre Waren direkt in der Hauptstadtregion abzufertigen. Der Hafen verfügt über moderne Einrichtungen, darunter Containerlagerplätze, Lagerhäuser, Verwaltungsgebäude und eine elektronische Frachtverfolgung. Obwohl die anfängliche Auslastung geringer war als erwartet, wird erwartet, dass seine Rolle wächst, da er die Logistikkosten und -zeiten für Unternehmen im bevölkerungsreichsten Gebiet Nepals senkt. Der Hafen ist ein wichtiger Bestandteil der Nationalen Handelsintegrationsstrategie Nepals und zielt darauf ab, die Wettbewerbsfähigkeit des Landes im internationalen Handel zu verbessern.`,
@@ -285,7 +303,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P4",
     coords: [83.9855, 28.2044],
-    name: { de: "Industriegebiet Pokhara", hu: "Pokhara Ipari Park", ro: "Parcul Industrial Pokhara", en: "Pokhara Industrial Estate" },
+    name: { de: "Industriegebiet Pokhara", hu: "Pokhara Ipari Park", ro: "Parcul Industrial Pokhara", en: "Pokhara Industrial Estate",
+image: "/poi-images/pokhara-industrial-estate-economic-v2.webp"
+},
     description: { de: "Ein auf Leichtindustrie und lokales Handwerk ausgerichtetes Industriegebiet in einer der wichtigsten Touristenstädte Nepals.", hu: "Könnyűiparra és helyi kézművességre összpontosító ipari terület Nepál egyik legfontosabb turisztikai városában.", ro: "O zonă industrială axată pe industria ușoară și meșteșugurile locale, într-unul dintre cele mai importante orașe turistice din Nepal.", en: "An industrial area focused on light industry and local crafts in one of Nepal's most important tourist cities." },
     descriptionAdvanced: {
       de: `Das 1974 gegründete Industriegebiet Pokhara ist einzigartig positioniert an der Schnittstelle von Industrie und Tourismus. In einer der wichtigsten Touristenstädte Nepals gelegen, konzentriert es sich auf Leichtindustrien, die oft mit dem Tourismussektor synergieren. Dazu gehören die Herstellung von handwerklichen Produkten, Souvenirs, Textilien und verpackten Lebensmitteln, die sowohl auf lokale als auch auf touristische Märkte abzielen. Im Gegensatz zu schwerindustriellen Gebieten legt das Industriegebiet Pokhara Wert auf umweltfreundlichere Produktionsmethoden, um die natürliche Schönheit der Region zu erhalten. Es bietet eine wichtige Plattform für lokale Unternehmer, um ihre Produkte zu entwickeln und zu vermarkten. Durch die Schaffung von Arbeitsplätzen außerhalb der Landwirtschaft trägt es zur wirtschaftlichen Diversifizierung in der Provinz Gandaki bei und stellt sicher, dass die Vorteile des Tourismus breiter in der lokalen Wirtschaft verteilt werden.`,
@@ -316,7 +336,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P3",
     coords: [85.3012, 27.7345],
-    name: { de: "Industriegebiet Balaju", hu: "Balaju Ipari Park", ro: "Parcul Industrial Balaju", en: "Balaju Industrial District" },
+    name: { de: "Industriegebiet Balaju", hu: "Balaju Ipari Park", ro: "Parcul Industrial Balaju", en: "Balaju Industrial District",
+image: "/poi-images/balaju-industrial-district-economic-v2.webp"
+},
     description: { de: "Das erste offiziell etablierte Industriegebiet in Nepal, gelegen im Nordwesten von Kathmandu, wichtig für die städtische Versorgung.", hu: "Nepál első hivatalosan létrehozott ipari területe Katmandu északnyugati részén, amely fontos a városi ellátás szempontjából.", ro: "Prima zonă industrială înființată oficial în Nepal, situată în nord-vestul orașului Kathmandu, importantă pentru aprovizionarea urbană.", en: "The first officially established industrial area in Nepal, located in the northwest of Kathmandu, important for urban supply." },
     descriptionAdvanced: {
       de: `Das 1960 gegründete Industriegebiet Balaju hat die Ehre, das erste offiziell etablierte Industriegebiet in Nepal zu sein. Es liegt im nordwestlichen Teil des Kathmandu-Tals und wurde mit Unterstützung der US-Regierung als Modell für die industrielle Entwicklung des Landes errichtet. Ursprünglich konzentrierte es sich auf die Holz- und Möbelherstellung, hat sich aber im Laufe der Jahrzehnte diversifiziert. Heute beherbergt es eine Vielzahl von Industrien, darunter Lebensmittel- und Getränkehersteller, Maschinenbau, Druckereien und Kunststoffhersteller. Seine Lage in der Hauptstadt macht es zu einem wichtigen Zentrum für die Produktion von Gütern für den städtischen Verbrauch. Das Industriegebiet Balaju spielte eine entscheidende Rolle bei der Vermittlung von industriellem Know-how und der Förderung einer Kultur des Unternehmertums in Nepal und bleibt trotz des Aufkommens neuerer und größerer Gebiete ein wichtiger Wirtschaftsakteur.`,
@@ -347,7 +369,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P3",
     coords: [85.3221, 27.6654],
-    name: { de: "Industriegebiet Patan", hu: "Patan Ipari Park", ro: "Parcul Industrial Patan", en: "Patan Industrial Estate" },
+    name: { de: "Industriegebiet Patan", hu: "Patan Ipari Park", ro: "Parcul Industrial Patan", en: "Patan Industrial Estate",
+image: "/poi-images/patan-industrial-estate-economic-v2.webp"
+},
     description: { de: "Ein Zentrum für traditionelles nepalesisches Kunsthandwerk, Metallverarbeitung und Holzschnitzerei in Lalitpur.", hu: "A hagyományos nepáli kézművesség, fémmegmunkálás és fafaragás központja Lalitpurban.", ro: "Un centru pentru meșteșugurile tradiționale nepaleze, prelucrarea metalelor și sculptura în lemn din Lalitpur.", en: "A center for traditional Nepalese handicrafts, metalwork, and woodcarving in Lalitpur." },
     descriptionAdvanced: {
       de: `Das 1963 mit indischer Unterstützung gegründete Industriegebiet Patan ist das pulsierende Herz des nepalesischen Kunsthandwerks. Es liegt in Lalitpur, einer Stadt, die für ihr reiches kulturelles und künstlerisches Erbe bekannt ist, und ist darauf spezialisiert, diese Traditionen zu bewahren und zu fördern. Im Gegensatz zu anderen Industriegebieten, die sich auf die Massenproduktion konzentrieren, ist Patan ein Zentrum für qualifizierte Handwerker, die sich auf Metallarbeiten (Statuenherstellung), Holzschnitzerei, Thanka-Malerei und andere traditionelle Künste spezialisiert haben. Viele der hier ansässigen Unternehmen sind Familienbetriebe, die ihr Wissen über Generationen weitergegeben haben. Das Industriegebiet bietet ihnen eine Infrastruktur und eine Plattform für den Export ihrer exquisiten Produkte in die ganze Welt. Es ist nicht nur ein Wirtschaftszentrum, sondern auch ein lebendiges Museum, das das künstlerische Erbe Nepals schützt und ein wichtiges Ziel für Käufer und Liebhaber traditioneller Kunst ist.`,
@@ -378,7 +402,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P5",
     coords: [83.4533, 27.6945],
-    name: { de: "Industriegebiet Butwal", hu: "Butwal Ipari Park", ro: "Parcul Industrial Butwal", en: "Butwal Industrial District" },
+    name: { de: "Industriegebiet Butwal", hu: "Butwal Ipari Park", ro: "Parcul Industrial Butwal", en: "Butwal Industrial District",
+image: "/poi-images/butwal-industrial-district-economic-v2.webp"
+},
     description: { de: "Ein strategisch wichtiges Industriegebiet im Rupandehi-Distrikt, das als Wirtschaftsmotor für den mittleren Westen dient.", hu: "Stratégiailag fontos ipari terület a Rupandehi kerületben, amely a közép-nyugati régió gazdasági motorjaként szolgál.", ro: "O zonă industrială importantă din punct de vedere strategic în districtul Rupandehi, care servește drept motor economic pentru regiunea de mijloc-vest.", en: "A strategically important industrial area in the Rupandehi district, serving as an economic engine for the mid-western region." },
     descriptionAdvanced: {
       de: `Das 1975 gegründete Industriegebiet Butwal ist ein strategischer Wirtschaftskorridor im Distrikt Rupandehi in der Provinz Lumbini. Seine Lage am Siddhartha Highway, der die indische Grenze mit den hügeligen Regionen Nepals verbindet, verleiht ihm eine immense logistische Bedeutung. Das Gebiet hat sich zu einem dynamischen Zentrum für eine Vielzahl von Industrien entwickelt, darunter Zement, Eisen und Stahl, Kunststoffe und Lebensmittelverarbeitung. Es profitiert von der Nähe zu wichtigen Rohstoffquellen und einem großen Verbrauchermarkt. Die Butwal Power Company, eines der führenden Energieunternehmen Nepals, hat ebenfalls ihren Ursprung in dieser Region. Das Industriegebiet ist ein wichtiger Arbeitgeber, der Tausende von Arbeitsplätzen schafft und das Wachstum von Nebenindustrien und Dienstleistungen fördert. Es ist ein Beispiel dafür, wie strategische Infrastrukturinvestitionen eine ganze Region wirtschaftlich beleben können.`,
@@ -409,7 +435,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P3",
     coords: [85.4211, 27.6722],
-    name: { de: "Industriegebiet Bhaktapur", hu: "Bhaktapur Ipari Park", ro: "Parcul Industrial Bhaktapur", en: "Bhaktapur Industrial Estate" },
+    name: { de: "Industriegebiet Bhaktapur", hu: "Bhaktapur Ipari Park", ro: "Parcul Industrial Bhaktapur", en: "Bhaktapur Industrial Estate",
+image: "/poi-images/bhaktapur-industrial-estate-economic-v2.webp"
+},
     description: { de: "Ein kleineres, auf Handwerk und Keramik spezialisiertes Industriezentrum in der historischen Stadt Bhaktapur.", hu: "Kisebb, kézművességre és kerámiára specializálódott ipari központ Bhaktapur történelmi városában.", ro: "Un centru industrial mai mic, specializat în meșteșuguri și ceramică, în orașul istoric Bhaktapur.", en: "A smaller industrial center specialized in crafts and ceramics in the historic city of Bhaktapur." },
     descriptionAdvanced: {
       de: `Das 1979 mit deutscher Entwicklungshilfe gegründete Industriegebiet Bhaktapur ist ein kleineres, aber feines Zentrum, das sich auf Handwerk und Leichtindustrie spezialisiert hat. Es liegt in der historischen Newar-Stadt Bhaktapur, die für ihre gut erhaltene Architektur und Töpferkunst bekannt ist. Das Industriegebiet nutzt dieses Erbe und konzentriert sich auf Industrien wie Töpferwaren, handgeschöpftes Papier (Lokta-Papier), Holzschnitzereien und Textilien. Es wurde mit dem Ziel gegründet, die traditionellen Fähigkeiten der lokalen Handwerker zu bewahren und ihnen gleichzeitig moderne Einrichtungen und Zugang zu Märkten zu bieten. Dadurch werden nachhaltige Einkommensmöglichkeiten geschaffen und die Abwanderung qualifizierter Arbeitskräfte verhindert. Das Industriegebiet ist ein Beweis dafür, wie industrielle Entwicklung mit der Erhaltung des kulturellen Erbes in Einklang gebracht werden kann, und spielt eine wichtige Rolle in der lokalen Wirtschaft von Bhaktapur.`,
@@ -440,7 +468,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "energy",
     parent: "NP-P4",
     coords: [84.3821, 28.2314],
-    name: { de: "Wasserkraftwerk Middle Marsyangdi", hu: "Közép-Marsyangdi Vízerőmű", ro: "Hidrocentrala Middle Marsyangdi", en: "Middle Marsyangdi Hydropower Station" },
+    name: { de: "Wasserkraftwerk Middle Marsyangdi", hu: "Közép-Marsyangdi Vízerőmű", ro: "Hidrocentrala Middle Marsyangdi", en: "Middle Marsyangdi Hydropower Station",
+image: "/poi-images/middle-marsyangdi-hydropower-economic-v2.webp"
+},
     description: { de: "Ein wichtiges Laufwasserkraftwerk im Lamjung-Distrikt, das signifikant zur Stromversorgung des Landes beiträgt.", hu: "Fontos folyóvizes vízerőmű a Lamjung kerületben, amely jelentősen hozzájárul az ország áramellátásához.", ro: "O importantă hidrocentrală pe firul apei în districtul Lamjung, care contribuie semnificativ la aprovizionarea cu energie electrică a țării.", en: "An important run-of-the-river hydroelectric plant in the Lamjung district, contributing significantly to the country's power supply." },
     descriptionAdvanced: {
       de: `Das Wasserkraftwerk Middle Marsyangdi ist ein wichtiges Wasserkraftprojekt in Nepal, das 2008 fertiggestellt wurde. Es liegt im Distrikt Lamjung am Marsyangdi-Fluss und hat eine installierte Leistung von 70 MW. Das Projekt war eine gemeinsame Anstrengung der nepalesischen Regierung und Deutschlands, finanziert durch die KfW Entwicklungsbank. Als Laufwasserkraftwerk nutzt es den natürlichen Fluss des Flusses zur Stromerzeugung, ohne einen großen Stausee zu benötigen. Dies minimiert die Umweltauswirkungen im Vergleich zu großen Staudammprojekten. Das Kraftwerk besteht aus einem Umleitungswehr, einem langen unterirdischen Tunnel zur Druckerzeugung und einem Kraftwerk mit zwei Turbinen. Middle Marsyangdi hat in den letzten zehn Jahren eine entscheidende Rolle bei der Deckung des Strombedarfs des Landes gespielt und dazu beigetragen, die chronischen Stromausfälle (Load Shedding) zu reduzieren, die Nepal lange Zeit geplagt haben.`,
@@ -471,7 +501,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "energy",
     parent: "NP-P3",
     coords: [85.1511, 27.5833],
-    name: { de: "Kulekhani-Stausee", hu: "Kulekhani-víztározó", ro: "Lacul de Acumulare Kulekhani", en: "Kulekhani Reservoir" },
+    name: { de: "Kulekhani-Stausee", hu: "Kulekhani-víztározó", ro: "Lacul de Acumulare Kulekhani", en: "Kulekhani Reservoir",
+image: "/poi-images/kulekhani-reservoir-economic-v2.webp"
+},
     description: { de: "Der größte Stausee Nepals, der speziell für die Spitzenlaststromerzeugung während der Trockenzeit gebaut wurde.", hu: "Nepál legnagyobb víztározója, amelyet kifejezetten a száraz évszakban történő csúcsterhelésű áramtermelésre építettek.", ro: "Cel mai mare lac de acumulare din Nepal, construit special pentru generarea de energie de vârf în timpul sezonului uscat.", en: "Nepal's largest reservoir, built specifically for peak-load power generation during the dry season." },
     descriptionAdvanced: {
       de: `Der Kulekhani-Stausee, auch bekannt als Indrasarobar, ist einzigartig in Nepals Wasserkraftlandschaft. Im Gegensatz zu den meisten anderen Kraftwerken des Landes, die Laufwasserkraftwerke sind, ist Kulekhani ein Speicherkraftwerk. Der in den frühen 1980er Jahren fertiggestellte Stausee wurde speziell gebaut, um Wasser während der Monsunzeit zu speichern und es in der trockenen Jahreszeit zur Stromerzeugung freizugeben. Dies macht ihn für die Netzstabilität Nepals von unschätzbarem Wert, da er Spitzenstrom liefern kann, wenn die Produktion anderer Kraftwerke gering ist. Der Damm bildet den größten künstlichen See Nepals. Das Wasser treibt drei Kaskadenkraftwerke an (Kulekhani I, II und III) mit einer Gesamtleistung von über 100 MW. Neben der Stromerzeugung ist das Gebiet um den Indrasarobar auch zu einem beliebten Ziel für den Inlandstourismus geworden, der Möglichkeiten für Bootsfahrten und Erholung bietet.`,
@@ -502,7 +534,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "energy",
     parent: "NP-P3",
     coords: [85.3122, 28.2234],
-    name: { de: "Wasserkraftwerk Chilime", hu: "Chilime Vízerőmű", ro: "Hidrocentrala Chilime", en: "Chilime Hydropower Plant" },
+    name: { de: "Wasserkraftwerk Chilime", hu: "Chilime Vízerőmű", ro: "Hidrocentrala Chilime", en: "Chilime Hydropower Plant",
+image: "/poi-images/chilime-hydropower-economic-v2.webp"
+},
     description: { de: "Ein hoch gelegenes Laufwasserkraftwerk im Rasuwa-Distrikt, das als Erfolgsmodell für inländische Investitionen gilt.", hu: "Magasan fekvő folyóvizes vízerőmű a Rasuwa kerületben, amely a hazai befektetések sikermodelljének számít.", ro: "O hidrocentrală pe firul apei situată la mare altitudine în districtul Rasuwa, considerată un model de succes pentru investițiile interne.", en: "A high-altitude run-of-the-river hydroelectric plant in the Rasuwa district, considered a success model for domestic investment." },
     descriptionAdvanced: {
       de: `Die Chilime Hydropower Company Limited (CHCL) ist ein wegweisendes Beispiel für ein erfolgreiches, von der Öffentlichkeit getragenes Wasserkraftprojekt in Nepal. Das 22,1-MW-Laufwasserkraftwerk, das 2003 im hochgelegenen Distrikt Rasuwa in Betrieb genommen wurde, wurde hauptsächlich durch inländische Mittel finanziert, darunter erhebliche Investitionen von lokalen Bewohnern, die zu Aktionären wurden. Dieses Modell der 'Eigenverantwortung der Menschen' war so erfolgreich, dass CHCL zu einem Mutterunternehmen herangewachsen ist, das mehrere andere Wasserkraftprojekte in der Region entwickelt. Das Kraftwerk selbst war ein Beweis für die Fähigkeit nepalesischer Ingenieure, da es größtenteils von ihnen entworfen und gebaut wurde. Chilime hat nicht nur zur nationalen Stromversorgung beigetragen, sondern auch die wirtschaftliche Entwicklung in einer abgelegenen Bergregion gefördert und ein nachhaltiges und replizierbares Modell für die Entwicklung der Wasserkraft in Nepal geschaffen.`,
@@ -533,7 +567,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P1",
     coords: [87.2711, 26.8122],
-    name: { de: "Industriegebiet Dharan", hu: "Dharan Ipari Park", ro: "Parcul Industrial Dharan", en: "Dharan Industrial Estate" },
+    name: { de: "Industriegebiet Dharan", hu: "Dharan Ipari Park", ro: "Parcul Industrial Dharan", en: "Dharan Industrial Estate",
+image: "/poi-images/dharan-industrial-estate-economic-v2.webp"
+},
     description: { de: "Ein wachsendes Industriezentrum im Osten Nepals, das die agrobasierte und verarbeitende Industrie der Region unterstützt.", hu: "Növekvő ipari központ Kelet-Nepálban, amely a régió agráralapú és feldolgozóiparát támogatja.", ro: "Un centru industrial în creștere în estul Nepalului, care sprijină industria agroalimentară și prelucrătoare din regiune.", en: "A growing industrial center in eastern Nepal, supporting the region's agro-based and manufacturing industries." },
     descriptionAdvanced: {
       de: `Das 1972 gegründete Industriegebiet Dharan ist ein wichtiger Wirtschaftsmotor im Osten Nepals. Es liegt strategisch günstig im Distrikt Sunsari und wurde mit dem Ziel errichtet, die Industrialisierung in der Region zu fördern. Auf einer großen Fläche beherbergt es eine vielfältige Mischung von Unternehmen, von denen sich viele auf die Verarbeitung landwirtschaftlicher Produkte aus den fruchtbaren Ebenen des Terai konzentrieren. Dazu gehören Reismühlen, Ölmühlen und Teeverarbeitungsbetriebe. Darüber hinaus gibt es eine bedeutende Präsenz von Kunststoff-, Textil- und Seifenherstellern. Das Industriegebiet bietet eine grundlegende Infrastruktur, die es kleinen und mittleren Unternehmen ermöglicht, zu gedeihen. Es ist ein wichtiger Arbeitgeber in der Region, der die Abhängigkeit von der Landwirtschaft verringert und zur Urbanisierung und wirtschaftlichen Entwicklung der Stadt Dharan und ihrer Umgebung beiträgt.`,
@@ -564,7 +600,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "energy",
     parent: "NP-P3",
     coords: [85.1622, 27.9155],
-    name: { de: "Wasserkraftwerk Trishuli", hu: "Trishuli Vízerőmű", ro: "Hidrocentrala Trishuli", en: "Trishuli Hydropower Station" },
+    name: { de: "Wasserkraftwerk Trishuli", hu: "Trishuli Vízerőmű", ro: "Hidrocentrala Trishuli", en: "Trishuli Hydropower Station",
+image: "/poi-images/trishuli-hydropower-economic-v2.webp"
+},
     description: { de: "Eines der ältesten Wasserkraftprojekte Nepals am Trishuli-Fluss, das zur frühen Elektrifizierung des Landes beitrug.", hu: "Nepál egyik legrégebbi vízerőmű projektje a Trishuli folyón, amely hozzájárul az ország korai villamosításához.", ro: "Unul dintre cele mai vechi proiecte hidroelectrice din Nepal pe râul Trishuli, care a contribuit la electrificarea timpurie a țării.", en: "One of the oldest hydropower projects in Nepal on the Trishuli River, contributing to the country's early electrification." },
     descriptionAdvanced: {
       de: `Das Wasserkraftwerk Trishuli ist ein Pionierprojekt in der Geschichte der Wasserkraft in Nepal. Es wurde 1967 mit indischer technischer und finanzieller Unterstützung fertiggestellt und war eines der ersten großen Wasserkraftwerke des Landes. Mit einer ursprünglichen Leistung von 21 MW spielte es eine entscheidende Rolle bei der Elektrifizierung des Kathmandu-Tals und der umliegenden Gebiete in einer Zeit, in der Strom ein seltener Luxus war. Das am Trishuli-Fluss gelegene Laufwasserkraftwerk war ein Symbol für die Modernisierung und Entwicklung Nepals in der Mitte des 20. Jahrhunderts. Obwohl seine Kapazität im Vergleich zu modernen Megaprojekten gering ist, ist seine historische Bedeutung immens. Es diente als Ausbildungsstätte für Generationen von nepalesischen Wasserkraftingenieuren und -technikern. Trotz seines Alters und nach mehreren Renovierungen trägt das Kraftwerk Trishuli auch heute noch zum nationalen Netz bei.`,
@@ -595,7 +633,9 @@ export const poiExtraNepalEconomicV2: POI[] = [
     type: "industry",
     parent: "NP-P5",
     coords: [83.4544, 27.5122],
-    name: { de: "Sonderwirtschaftszone Bhairahawa", hu: "Bhairahawa Különleges Gazdasági Övezet", ro: "Zona Economică Specială Bhairahawa", en: "Bhairahawa Special Economic Zone" },
+    name: { de: "Sonderwirtschaftszone Bhairahawa", hu: "Bhairahawa Különleges Gazdasági Övezet", ro: "Zona Economică Specială Bhairahawa", en: "Bhairahawa Special Economic Zone",
+image: "/poi-images/bhairahawa-sez-economic-v2.webp"
+},
     description: { de: "Die erste Sonderwirtschaftszone Nepals, die eingerichtet wurde, um ausländische Investitionen anzuziehen und Exporte zu fördern.", hu: "Nepál első különleges gazdasági övezete, amelyet a külföldi befektetések vonzása és az export ösztönzése céljából hoztak létre.", ro: "Prima zonă economică specială din Nepal, înființată pentru a atrage investiții străine și a promova exporturile.", en: "Nepal's first Special Economic Zone, established to attract foreign investment and promote exports." },
     descriptionAdvanced: {
       de: `Die 2014 eingeweihte Sonderwirtschaftszone (SWZ) Bhairahawa ist die erste ihrer Art in Nepal. Sie wurde mit dem Hauptziel gegründet, Exporte zu fördern und ausländische Direktinvestitionen anzuziehen. In der Nähe des Grenzübergangs Sunauli zu Indien und des internationalen Flughafens Gautam Buddha gelegen, ist ihre Lage strategisch günstig. Die SWZ bietet eine Reihe von Anreizen für Unternehmen, die sich dort ansiedeln, darunter Steuererleichterungen, Zollbefreiungen für Rohstoffe und eine vereinfachte Verwaltung. Die Regierung verlangt, dass die in der SWZ ansässigen Industrien mindestens 60 % ihrer Produkte exportieren müssen. Obwohl die anfängliche Besetzung der Grundstücke durch Industrien langsamer als erwartet verlief, gilt die SWZ Bhairahawa als wichtiges Pilotprojekt. Die daraus gezogenen Lehren sind entscheidend für die Entwicklung weiterer SWZ im ganzen Land, die ein wichtiger Bestandteil von Nepals Strategie zur Verbesserung seiner Handelsbilanz und zur Industrialisierung sind.`,

@@ -10,8 +10,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Hafen von Beirut",
       hu: "Bejrúti kikötő",
       ro: "Portul din Beirut",
-      en: "Port of Beirut"
-    },
+      en: "Port of Beirut",
+image: "/poi-images/port-of-beirut-economic-v2.webp"
+},
     description: {
       de: "Der größte Seehafen im Libanon und ein entscheidender Knotenpunkt für den internationalen Handel im östlichen Mittelmeerraum.",
       hu: "Libanon legnagyobb tengeri kikötője és a keleti Földközi-tenger térségének kulcsfontosságú nemzetközi kereskedelmi központja.",
@@ -46,8 +47,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Hafen von Tripoli",
       hu: "Tripoli kikötője",
       ro: "Portul din Tripoli",
-      en: "Port of Tripoli"
-    },
+      en: "Port of Tripoli",
+image: "/poi-images/port-of-tripoli-economic-v2.webp"
+},
     description: {
       de: "Der zweitgrößte Hafen im Libanon, der zunehmend an Bedeutung für den Transit- und Frachtverkehr gewinnt.",
       hu: "Libanon második legnagyobb kikötője, amely egyre nagyobb jelentőséggel bír a tranzit- és teherforgalomban.",
@@ -82,8 +84,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Hafen von Sidon",
       hu: "Szidóni kikötő",
       ro: "Portul din Sidon",
-      en: "Port of Sidon"
-    },
+      en: "Port of Sidon",
+image: "/poi-images/port-of-sidon-economic-v2.webp"
+},
     description: {
       de: "Ein historischer und kommerzieller Hafen im Südlibanon, der hauptsächlich für die lokale Fischerei und den Küstenhandel genutzt wird.",
       hu: "Dél-Libanon történelmi és kereskedelmi kikötője, amelyet főként a helyi halászat és a part menti kereskedelem használ.",
@@ -118,8 +121,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Hafen von Tyros",
       hu: "Türoszi kikötő",
       ro: "Portul din Tir",
-      en: "Port of Tyre"
-    },
+      en: "Port of Tyre",
+image: "/poi-images/port-of-tyre-economic-v2.webp"
+},
     description: {
       de: "Einer der ältesten Häfen der Welt, der heute eine zentrale Rolle für die lokale Wirtschaft und den Fischfang spielt.",
       hu: "A világ egyik legrégebbi kikötője, amely ma a helyi gazdaságban és a halászatban játszik központi szerepet.",
@@ -154,8 +158,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Zementwerk Chekka",
       hu: "Chekka cementgyár",
       ro: "Fabrica de ciment Chekka",
-      en: "Chekka Cement Plant"
-    },
+      en: "Chekka Cement Plant",
+image: "/poi-images/chekka-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Industriekomplex in Nordlibanon, der einen Großteil des nationalen Bedarfs an Zement und Baumaterialien deckt.",
       hu: "Jelentős ipari komplexum Észak-Libanonban, amely a hazai cement- és építőanyag-szükséglet nagy részét fedezi.",
@@ -190,8 +195,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Kraftwerk Zouk",
       hu: "Zouk erőmű",
       ro: "Centrala electrică Zouk",
-      en: "Zouk Power Plant"
-    },
+      en: "Zouk Power Plant",
+image: "/poi-images/zouk-power-plant-economic-v2.webp"
+},
     description: {
       de: "Eines der wichtigsten Wärmekraftwerke im Libanon, das einen signifikanten Teil der elektrischen Energie für den Großraum Beirut liefert.",
       hu: "Libanon egyik legfontosabb hőerőműve, amely a nagy-bejrúti térség villamos energiájának jelentős részét biztosítja.",
@@ -226,8 +232,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Kraftwerk Jieh",
       hu: "Jieh erőmű",
       ro: "Centrala electrică Jieh",
-      en: "Jieh Power Plant"
-    },
+      en: "Jieh Power Plant",
+image: "/poi-images/jieh-power-plant-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Kraftwerk südlich von Beirut, das zur Stabilität der nationalen Stromversorgung im Libanon beiträgt.",
       hu: "Jelentős erőmű Bejrúttól délre, amely hozzájárul a libanoni nemzeti áramellátás stabilitásához.",
@@ -262,8 +269,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Litani-Wasserkraftwerk",
       hu: "Litáni vízerőmű",
       ro: "Hidrocentrala Litani",
-      en: "Litani Hydroelectric Plant"
-    },
+      en: "Litani Hydroelectric Plant",
+image: "/poi-images/litani-hydroelectric-plant-economic-v2.webp"
+},
     description: {
       de: "Das größte Wasserkraftwerk des Libanon am Qaraoun-Stausee, das erneuerbare Energie liefert und die Landwirtschaft unterstützt.",
       hu: "Libanon legnagyobb vízerőműve a Qaraoun-tározónál, amely megújuló energiát termel és támogatja a mezőgazdaságot.",
@@ -298,8 +306,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Industriezone Dekwaneh",
       hu: "Dekwaneh ipari övezet",
       ro: "Zona industrială Dekwaneh",
-      en: "Dekwaneh Industrial Zone"
-    },
+      en: "Dekwaneh Industrial Zone",
+image: "/poi-images/dekwaneh-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Ein geschäftiges Industrie- und Gewerbegebiet in den Vororten von Beirut, das zahlreiche Produktions- und Dienstleistungsunternehmen beherbergt.",
       hu: "Nyüzsgő ipari és kereskedelmi terület Bejrút külvárosában, amely számos termelő- és szolgáltató vállalatnak ad otthont.",
@@ -334,8 +343,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Ölraffinerie Zahrani",
       hu: "Zahrani olajfinomító",
       ro: "Rafinăria de petrol Zahrani",
-      en: "Zahrani Oil Refinery"
-    },
+      en: "Zahrani Oil Refinery",
+image: "/poi-images/zahrani-oil-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine historische Anlage zur Erdölverarbeitung im Südlibanon, die heute primär als strategisches Tanklager genutzt wird.",
       hu: "Történelmi kőolaj-feldolgozó üzem Dél-Libanonban, amelyet ma elsősorban stratégiai olajtartályként használnak.",
@@ -370,8 +380,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Flughafen Beirut Freihandelszone",
       hu: "Bejrúti repülőtéri szabadkereskedelmi zóna",
       ro: "Zona liberă a aeroportului din Beirut",
-      en: "Beirut Airport Free Trade Zone"
-    },
+      en: "Beirut Airport Free Trade Zone",
+image: "/poi-images/beirut-airport-free-trade-zone-economic-v2.webp"
+},
     description: {
       de: "Eine spezielle Wirtschaftszone am Rafik-Hariri-Flughafen, die steuerfreie Logistik und internationalen Handel fördert.",
       hu: "A Rafik Hariri repülőtér különleges gazdasági övezete, amely elősegíti az adómentes logisztikát és a nemzetközi kereskedelmet.",
@@ -406,8 +417,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Hafen von Jounieh",
       hu: "Dzsúnija kikötője",
       ro: "Portul din Jounieh",
-      en: "Port of Jounieh"
-    },
+      en: "Port of Jounieh",
+image: "/poi-images/port-of-jounieh-economic-v2.webp"
+},
     description: {
       de: "Ein touristischer und kommerzieller Yachthafen nördlich von Beirut, der eine wichtige Rolle in der lokalen Tourismuswirtschaft spielt.",
       hu: "Turisztikai és kereskedelmi jachtkikötő Bejrúttól északra, amely fontos szerepet játszik a helyi turisztikai gazdaságban.",
@@ -442,8 +454,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Bekaa-Agrarindustriezentrum",
       hu: "Bekaa agráripari központ",
       ro: "Centrul agroindustrial Bekaa",
-      en: "Beqaa Agro-Industry Center"
-    },
+      en: "Beqaa Agro-Industry Center",
+image: "/poi-images/beqaa-agro-industry-center-economic-v2.webp"
+},
     description: {
       de: "Das landwirtschaftliche Herz des Libanon, in dem zahlreiche Betriebe Lebensmittel, Wein und landwirtschaftliche Güter verarbeiten.",
       hu: "Libanon mezőgazdasági szíve, ahol számos vállalat dolgoz fel élelmiszereket, bort és mezőgazdasági termékeket.",
@@ -478,8 +491,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Sibline Zementfabrik",
       hu: "Sibline cementgyár",
       ro: "Fabrica de ciment Sibline",
-      en: "Sibline Cement Factory"
-    },
+      en: "Sibline Cement Factory",
+image: "/poi-images/sibline-cement-factory-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Zementproduktionsanlagen im Libanon, die eine Schlüsselrolle beim Ausbau der nationalen Infrastruktur spielt.",
       hu: "Libanon egyik legnagyobb cementgyártó üzeme, amely kulcsszerepet játszik a nemzeti infrastruktúra bővítésében.",
@@ -514,8 +528,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Tripoli Freihandelszone",
       hu: "Tripoli szabadkereskedelmi zóna",
       ro: "Zona economică liberă din Tripoli",
-      en: "Tripoli Free Economic Zone"
-    },
+      en: "Tripoli Free Economic Zone",
+image: "/poi-images/tripoli-free-economic-zone-economic-v2.webp"
+},
     description: {
       de: "Eine strategische Entwicklungszone in Nordlibanon, die darauf abzielt, ausländische Investitionen durch zollfreie Anreize anzulocken.",
       hu: "Stratégiai fejlesztési zóna Észak-Libanonban, amelynek célja a külföldi befektetések vonzása vámmentes ösztönzők révén.",
@@ -550,8 +565,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Kraftwerk Deir Ammar",
       hu: "Deir Ammar erőmű",
       ro: "Centrala electrică Deir Ammar",
-      en: "Deir Ammar Power Plant"
-    },
+      en: "Deir Ammar Power Plant",
+image: "/poi-images/deir-ammar-power-plant-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Kraftwerk im Nordlibanon, das zur Versorgung der nördlichen Regionen mit elektrischer Energie dient.",
       hu: "Jelentős erőmű Észak-Libanonban, amely az északi régiók villamosenergia-ellátását szolgálja.",
@@ -586,8 +602,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Industriegebiet Choueifat",
       hu: "Choueifat ipartelep",
       ro: "Zona industrială Choueifat",
-      en: "Choueifat Industrial Area"
-    },
+      en: "Choueifat Industrial Area",
+image: "/poi-images/choueifat-industrial-area-economic-v2.webp"
+},
     description: {
       de: "Eine der größten industriellen Agglomerationen nahe Beirut, die eine breite Palette von Produktionsstätten beherbergt.",
       hu: "Bejrút egyik legnagyobb ipari agglomerációja, amely számos gyártóüzemnek ad otthont.",
@@ -622,8 +639,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Hafen von Batroun",
       hu: "Batroun kikötője",
       ro: "Portul din Batroun",
-      en: "Port of Batroun"
-    },
+      en: "Port of Batroun",
+image: "/poi-images/port-of-batroun-economic-v2.webp"
+},
     description: {
       de: "Ein malerischer Küstenhafen, der heute eine Mischung aus lokaler Fischerei, Freizeitschifffahrt und Tourismus unterstützt.",
       hu: "Festői tengerparti kikötő, amely ma a helyi halászat, a sétahajózás és a turizmus keverékét támogatja.",
@@ -658,8 +676,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Salinen von Anfeh",
       hu: "Anfeh sólepárlói",
       ro: "Salinele din Anfeh",
-      en: "Anfeh Salt Pans"
-    },
+      en: "Anfeh Salt Pans",
+image: "/poi-images/anfeh-salt-pans-economic-v2.webp"
+},
     description: {
       de: "Traditionelle Salzgewinnungsanlagen an der Nordküste, die seit Generationen die lokale Wirtschaft prägen.",
       hu: "Hagyományos sólepárlók az északi parton, amelyek generációk óta meghatározzák a helyi gazdaságot.",
@@ -694,8 +713,9 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       de: "Kraftwerk Baalbek",
       hu: "Baalbek erőmű",
       ro: "Centrala electrică Baalbek",
-      en: "Baalbek Power Plant"
-    },
+      en: "Baalbek Power Plant",
+image: "/poi-images/baalbek-power-plant-economic-v2.webp"
+},
     description: {
       de: "Eine regionale Anlage zur Stromerzeugung, die darauf ausgerichtet ist, die Energieversorgung in der Bekaa-Ebene zu verbessern.",
       hu: "Regionális villamosenergia-termelő létesítmény, amelynek célja a Bekaa-völgy energiaellátásának javítása.",

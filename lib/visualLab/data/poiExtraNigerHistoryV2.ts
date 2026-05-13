@@ -11,8 +11,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Zentrum von Agadez",
       hu: "Agadez Történelmi Központja",
       ro: "Centrul Istoric Agadez",
-      en: "Historic Centre of Agadez"
-    },
+      en: "Historic Centre of Agadez",
+image: "/poi-images/ne-agadez-historic-centre-history-v2.webp"
+},
     description: {
       de: "Ein altes Karawanenzentrum der Tuareg und UNESCO-Weltkulturerbe, bekannt für seine Lehmarchitektur.",
       hu: "A tuaregek ősi karavánközpontja és UNESCO világörökségi helyszín, amely vályogépítészetéről ismert.",
@@ -47,8 +48,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Große Moschee von Agadez",
       hu: "Agadezi Nagy Mecset",
       ro: "Marea Moschee din Agadez",
-      en: "Grand Mosque of Agadez"
-    },
+      en: "Grand Mosque of Agadez",
+image: "/poi-images/ne-agadez-mosque-history-v2.webp"
+},
     description: {
       de: "Ein beeindruckendes Bauwerk aus dem 16. Jahrhundert mit einem 27 Meter hohen Minarett aus Lehm.",
       hu: "Lenyűgöző 16. századi építmény, amelynek 27 méter magas vályogminaretje van.",
@@ -83,8 +85,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Verlassene Stadt Djado",
       hu: "Djado Elhagyott Városa",
       ro: "Orașul Abandonat Djado",
-      en: "Abandoned City of Djado"
-    },
+      en: "Abandoned City of Djado",
+image: "/poi-images/ne-djado-ruins-history-v2.webp"
+},
     description: {
       de: "Die Ruinen einer alten befestigten Stadt in der Sahara, die einst ein wichtiger Rastplatz für Karawanen war.",
       hu: "Egy ősi erődített város romjai a Szaharában, amely egykor fontos pihenőhely volt a karavánok számára.",
@@ -119,8 +122,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Viertel Birni",
       hu: "Birni Történelmi Negyed",
       ro: "Cartierul Istoric Birni",
-      en: "Historical Birni Quarter"
-    },
+      en: "Historical Birni Quarter",
+image: "/poi-images/ne-zinder-birni-history-v2.webp"
+},
     description: {
       de: "Das alte Stadtzentrum von Zinder, bekannt für seine verwinkelten Gassen und traditionelle Hausa-Architektur.",
       hu: "Zinder régi városközpontja, amely kanyargós utcáiról és hagyományos hausza építészetéről ismert.",
@@ -155,8 +159,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Sultanspalast von Zinder",
       hu: "Zinderi Szultáni Palota",
       ro: "Palatul Sultanului din Zinder",
-      en: "Sultan's Palace of Zinder"
-    },
+      en: "Sultan's Palace of Zinder",
+image: "/poi-images/ne-damagaram-palace-history-v2.webp"
+},
     description: {
       de: "Die historische Residenz des Sultans von Damagaram, ein Symbol der regionalen Macht und Tradition im 19. Jahrhundert.",
       hu: "Damagaram szultánjának történelmi rezidenciája, a regionális hatalom és hagyomány szimbóluma a 19. században.",
@@ -191,8 +196,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Ruinen von Assodé",
       hu: "Assodé Romjai",
       ro: "Ruinele din Assodé",
-      en: "Ruins of Assodé"
-    },
+      en: "Ruins of Assodé",
+image: "/poi-images/ne-assode-ruins-history-v2.webp"
+},
     description: {
       de: "Die Überreste der einst wichtigsten und ältesten Stadt der Tuareg im Aïr-Gebirge.",
       hu: "A tuaregek egykori legfontosabb és legrégebbi városának maradványai az Aïr-hegységben.",
@@ -227,8 +233,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Karawanen-Fort Fachi",
       hu: "Fachi Karavánerőd",
       ro: "Fortul Caravanelor Fachi",
-      en: "Fachi Caravan Fort"
-    },
+      en: "Fachi Caravan Fort",
+image: "/poi-images/ne-fachi-fort-history-v2.webp"
+},
     description: {
       de: "Eine historische Festung in der Oase Fachi, die dem Schutz der lebenswichtigen Salzkarawanen diente.",
       hu: "Történelmi erőd Fachi oázisában, amely a létfontosságú sókaravánok védelmét szolgálta.",
@@ -263,8 +270,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historische Salzminen von Bilma",
       hu: "Bilma Történelmi Sóbányái",
       ro: "Minele Istorice de Sare din Bilma",
-      en: "Historical Salt Mines of Bilma"
-    },
+      en: "Historical Salt Mines of Bilma",
+image: "/poi-images/ne-bilma-salt-history-v2.webp"
+},
     description: {
       de: "Die uralten Salinen von Bilma waren jahrhundertelang das Rückgrat des Transsaharahandels.",
       hu: "Bilma ősi sólepárlói évszázadokon át a transz-szaharai kereskedelem gerincét jelentették.",
@@ -299,8 +307,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Vorposten Dirkou",
       hu: "Dirkou Történelmi Előőrs",
       ro: "Avanpostul Istoric Dirkou",
-      en: "Historical Outpost of Dirkou"
-    },
+      en: "Historical Outpost of Dirkou",
+image: "/poi-images/ne-dirkou-outpost-history-v2.webp"
+},
     description: {
       de: "Eine traditionelle Raststation in der Sahara, die seit der Antike Reisenden und Händlern Zuflucht bietet.",
       hu: "Hagyományos pihenőhely a Szaharában, amely az ókor óta menedéket nyújt az utazóknak és kereskedőknek.",
@@ -335,8 +344,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Arbre du Ténéré Denkmal",
       hu: "Ténéré Fája Emlékmű",
       ro: "Monumentul Arbre du Ténéré",
-      en: "Arbre du Ténéré Memorial"
-    },
+      en: "Arbre du Ténéré Memorial",
+image: "/poi-images/ne-arbre-tenere-history-v2.webp"
+},
     description: {
       de: "Ein Metallbaum erinnert an den einst isoliertesten Baum der Welt, der als wichtiger Orientierungspunkt diente.",
       hu: "Egy fémfa állít emléket a világ egykori legelszigeteltebb fájának, amely fontos tájékozódási pontként szolgált.",
@@ -371,8 +381,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Palast von Dosso",
       hu: "Dosso Történelmi Palotája",
       ro: "Palatul Istoric din Dosso",
-      en: "Historical Palace of Dosso"
-    },
+      en: "Historical Palace of Dosso",
+image: "/poi-images/ne-dosso-palace-history-v2.webp"
+},
     description: {
       de: "Das traditionelle Machtzentrum des Zarma-Königreichs, das die Geschichte der Region Dosso prägte.",
       hu: "A Zarma királyság hagyományos hatalmi központja, amely meghatározta a Dosso régió történelmét.",
@@ -407,8 +418,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Königreich Katsina-Maradi",
       hu: "Katsina-Maradi Történelmi Királyság",
       ro: "Regatul Istoric Katsina-Maradi",
-      en: "Historical Katsina-Maradi Kingdom"
-    },
+      en: "Historical Katsina-Maradi Kingdom",
+image: "/poi-images/ne-maradi-history-v2.webp"
+},
     description: {
       de: "Eine historische Hauptstadt, die von Flüchtlingen aus dem von Fulani eroberten Katsina gegründet wurde.",
       hu: "Egy történelmi főváros, amelyet a fulbék által meghódított Katsinából menekülők alapítottak.",
@@ -443,8 +455,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Alte Zarma-Hauptstadt Ouallam",
       hu: "Ouallam Régi Zarma Főváros",
       ro: "Vechea Capitală Zarma Ouallam",
-      en: "Old Zarma Capital Ouallam"
-    },
+      en: "Old Zarma Capital Ouallam",
+image: "/poi-images/ne-ouallam-capital-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende historische Siedlung der Zarma, die eine wichtige Rolle bei der Abwehr regionaler Invasionen spielte.",
       hu: "A zarmák jelentős történelmi települése, amely fontos szerepet játszott a regionális inváziók elhárításában.",
@@ -479,8 +492,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Say Islamisches Zentrum",
       hu: "Say Iszlám Központ",
       ro: "Centrul Islamic Say",
-      en: "Say Islamic Center"
-    },
+      en: "Say Islamic Center",
+image: "/poi-images/ne-say-islamic-history-v2.webp"
+},
     description: {
       de: "Say war im 19. Jahrhundert einflussreich als intellektuelles und religiöses Zentrum Westafrikas.",
       hu: "Say a 19. században befolyásos volt mint Nyugat-Afrika szellemi és vallási központja.",
@@ -515,8 +529,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Tahoua Karawanenkreuzung",
       hu: "Tahoua Karavánkereszteződés",
       ro: "Răscrucea Caravanelor Tahoua",
-      en: "Tahoua Caravan Crossroads"
-    },
+      en: "Tahoua Caravan Crossroads",
+image: "/poi-images/ne-tahoua-crossroads-history-v2.webp"
+},
     description: {
       de: "Ein historischer Treffpunkt für Tuareg-Nomaden und sesshafte Hausa-Bauern, bekannt für den Handel.",
       hu: "A tuareg nomádok és a letelepedett hausza gazdák történelmi találkozóhelye, amely a kereskedelemről ismert.",
@@ -551,8 +566,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Tillabéri Flussübergang",
       hu: "Tillabéri Folyóátkelő",
       ro: "Trecerea Râului Tillabéri",
-      en: "Tillabéri River Crossing"
-    },
+      en: "Tillabéri River Crossing",
+image: "/poi-images/ne-tillaberi-crossing-history-v2.webp"
+},
     description: {
       de: "Ein alter, strategisch wichtiger Punkt zur Überquerung des Flusses Niger für Handelskarawanen.",
       hu: "Egy ősi, stratégiailag fontos pont a Niger folyón való átkeléshez a kereskedelmi karavánok számára.",
@@ -587,8 +603,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Birni-N'Konni",
       hu: "Történelmi Birni-N'Konni",
       ro: "Birni-N'Konni Istoric",
-      en: "Historical Birni-N'Konni"
-    },
+      en: "Historical Birni-N'Konni",
+image: "/poi-images/ne-birni-nkonni-history-v2.webp"
+},
     description: {
       de: "Eine historische Grenzstadt, die für ihren heftigen Widerstand gegen die französische Kolonialherrschaft bekannt ist.",
       hu: "Történelmi határváros, amely a francia gyarmati uralom elleni heves ellenállásáról ismert.",
@@ -623,8 +640,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Gaya Historisches Tor",
       hu: "Gaya Történelmi Kapuja",
       ro: "Poarta Istorică Gaya",
-      en: "Gaya Historical Gateway"
-    },
+      en: "Gaya Historical Gateway",
+image: "/poi-images/ne-gaya-history-v2.webp"
+},
     description: {
       de: "Die südlichste Stadt Nigers hat eine lange Geschichte als wichtiges Handelsportal nach Benin und Nigeria.",
       hu: "Niger legdélibb városa hosszú múltra tekint vissza, mint fontos kereskedelmi kapu Benin és Nigéria felé.",
@@ -659,8 +677,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Großer Markt Niamey",
       hu: "Niamey Történelmi Nagy Piaca",
       ro: "Marele Piață Istorică Niamey",
-      en: "Historical Grand Market of Niamey"
-    },
+      en: "Historical Grand Market of Niamey",
+image: "/poi-images/ne-niamey-grand-market-history-v2.webp"
+},
     description: {
       de: "Ein traditioneller Handelsplatz, der im Herzen der Hauptstadt gewachsen ist und die koloniale mit der modernen Zeit verbindet.",
       hu: "Egy hagyományos kereskedelmi hely, amely a főváros szívében nőtt ki, és összeköti a gyarmati és a modern időket.",
@@ -695,8 +714,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Boubon",
       hu: "Történelmi Boubon",
       ro: "Boubon Istoric",
-      en: "Historical Boubon"
-    },
+      en: "Historical Boubon",
+image: "/poi-images/ne-boubon-pottery-history-v2.webp"
+},
     description: {
       de: "Ein kleines Dorf auf einer Insel, das seit Generationen für seine traditionelle Töpferkunst bekannt ist.",
       hu: "Egy kis falu egy szigeten, amely generációk óta híres hagyományos fazekasművészetéről.",
@@ -731,8 +751,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Gobirawa Ruinen",
       hu: "Gobirawa Romok",
       ro: "Ruinele Gobirawa",
-      en: "Gobirawa Ruins"
-    },
+      en: "Gobirawa Ruins",
+image: "/poi-images/ne-gobirawa-ruins-history-v2.webp"
+},
     description: {
       de: "Überreste von Siedlungen, die an die Macht der Hausa aus Gobir vor der Fulani-Eroberung erinnern.",
       hu: "Települések maradványai, amelyek a fulbék hódítása előtti Gobirból származó hauszák hatalmára emlékeztetnek.",
@@ -767,8 +788,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Tessaoua Handelszentrum",
       hu: "Tessaoua Kereskedelmi Központ",
       ro: "Centrul Comercial Tessaoua",
-      en: "Tessaoua Trading Center"
-    },
+      en: "Tessaoua Trading Center",
+image: "/poi-images/ne-tessaoua-history-v2.webp"
+},
     description: {
       de: "Ein historisch wichtiges Zentrum für den Handel in der Sahelzone, bekannt für seine Unabhängigkeit im 19. Jahrhundert.",
       hu: "Történelmileg fontos kereskedelmi központ a Száhel-övezetben, amely a 19. századi függetlenségéről ismert.",
@@ -803,8 +825,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Arlit Bergbau-Ursprung",
       hu: "Arlit Bányászat Eredete",
       ro: "Originea Minieră Arlit",
-      en: "Arlit Mining Origin"
-    },
+      en: "Arlit Mining Origin",
+image: "/poi-images/ne-arlit-uranium-history-v2.webp"
+},
     description: {
       de: "Der historische Ort der Uranentdeckung im Jahr 1969, die die Wirtschaft Nigers grundlegend veränderte.",
       hu: "Az urán 1969-es felfedezésének történelmi helye, amely alapvetően megváltoztatta Niger gazdaságát.",
@@ -839,8 +862,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Madaoua",
       hu: "Történelmi Madaoua",
       ro: "Madaoua Istorică",
-      en: "Historical Madaoua"
-    },
+      en: "Historical Madaoua",
+image: "/poi-images/ne-madaoua-fort-history-v2.webp"
+},
     description: {
       de: "Eine ehemals stark befestigte Siedlung in der Region Tahoua, die eine Rolle in den lokalen Konflikten spielte.",
       hu: "Egykor erősen megerősített település a Tahoua régióban, amely szerepet játszott a helyi konfliktusokban.",
@@ -875,8 +899,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Goudoumaria Historische Stätte",
       hu: "Goudoumaria Történelmi Helyszín",
       ro: "Situl Istoric Goudoumaria",
-      en: "Goudoumaria Historical Site"
-    },
+      en: "Goudoumaria Historical Site",
+image: "/poi-images/ne-goudoumaria-history-v2.webp"
+},
     description: {
       de: "Ein alter Rastplatz nahe dem Tschadsee, der von den Kanem-Bornu-Herrschern geprägt wurde.",
       hu: "Egy régi pihenőhely a Csád-tó közelében, amelyet a Kanem-Bornu uralkodók alakítottak.",
@@ -911,8 +936,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Brunnen von N'Gourti",
       hu: "N'Gourti Történelmi Kútja",
       ro: "Fântâna Istorică din N'Gourti",
-      en: "Historical Well of N'Gourti"
-    },
+      en: "Historical Well of N'Gourti",
+image: "/poi-images/ne-ngourti-well-history-v2.webp"
+},
     description: {
       de: "Ein lebenswichtiger historischer Brunnen in der östlichen Wüste, um den sich Nomadengeschichten ranken.",
       hu: "Létfontosságú történelmi kút a keleti sivatagban, amelyet nomád történetek öveznek.",
@@ -947,8 +973,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Kanem-Posten Diffa",
       hu: "Diffa Történelmi Kanem-Állomás",
       ro: "Postul Istoric Kanem Diffa",
-      en: "Historical Kanem Outpost Diffa"
-    },
+      en: "Historical Kanem Outpost Diffa",
+image: "/poi-images/ne-diffa-outpost-history-v2.webp"
+},
     description: {
       de: "Eine historische Grenzregion, die lange Zeit unter dem starken kulturellen Einfluss des Reiches von Bornu stand.",
       hu: "Történelmi határvidék, amely sokáig a Bornu Birodalom erős kulturális befolyása alatt állt.",
@@ -983,8 +1010,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Hafen N'Guigmi",
       hu: "N'Guigmi Történelmi Kikötő",
       ro: "Portul Istoric N'Guigmi",
-      en: "Historical Port of N'Guigmi"
-    },
+      en: "Historical Port of N'Guigmi",
+image: "/poi-images/ne-nguigmi-chad-history-v2.webp"
+},
     description: {
       de: "Einst eine florierende Siedlung direkt am Wasser, die die Geschichte des schrumpfenden Tschadsees bezeugt.",
       hu: "Egykor virágzó település közvetlenül a vízparton, amely a zsugorodó Csád-tó történetét tanúsítja.",
@@ -1019,8 +1047,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historischer Madarounfa-See",
       hu: "Történelmi Madarounfa-tó",
       ro: "Lacul Istoric Madarounfa",
-      en: "Historical Lake Madarounfa"
-    },
+      en: "Historical Lake Madarounfa",
+image: "/poi-images/ne-madarounfa-lake-history-v2.webp"
+},
     description: {
       de: "Eine historische Wasserquelle, um die sich Legenden ranken und die heilige Gräber an ihren Ufern beherbergt.",
       hu: "Történelmi vízforrás, amelyet legendák öveznek, és partjain szent sírok találhatók.",
@@ -1055,8 +1084,9 @@ export const poiExtraNigerHistoryV2: POI[] = [
       de: "Historisches Filingué",
       hu: "Történelmi Filingué",
       ro: "Filingué Istoric",
-      en: "Historical Filingué"
-    },
+      en: "Historical Filingué",
+image: "/poi-images/ne-filingue-valley-history-v2.webp"
+},
     description: {
       de: "Eine alte Siedlung im Dallol Bosso, die seit Jahrhunderten als Agrar- und Handelszentrum dient.",
       hu: "Egy régi település a Dallol Bossóban, amely évszázadok óta agrár- és kereskedelmi központként szolgál.",

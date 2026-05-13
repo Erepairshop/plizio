@@ -4,7 +4,9 @@ export const vaticanNatureV2: POI[] = [
   {
     id: "vatican-vatican-hill-nature-v2",
     type: "mountain",
-    name: { de: "Vatikanischer Hügel", hu: "Vatikán-domb", ro: "Dealul Vatican", en: "Vatican Hill" },
+    name: { de: "Vatikanischer Hügel", hu: "Vatikán-domb", ro: "Dealul Vatican", en: "Vatican Hill",
+image: "/poi-images/vatican-vatican-hill-nature-v2.webp"
+},
     coords: [12.4503, 41.9022],
     coordinates: { lat: 41.9022, lng: 12.4503 },
     description: {
@@ -19,11 +21,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["60 metri înălțime", "Rocă de travertin", "Necropolă antică", "La vest de Tibru"],
       en: ["60 meters elevation", "Travertine rock", "Ancient necropolis", "West of the Tiber"],
     },
-    imageHint: "Vatican Hill overview from St Peter Dome", image: "/poi-images/vatican-vatican-hill-nature-v2.webp"},
-  {
+imageHint: "Vatican Hill overview from St Peter Dome",
+    descriptionAdvanced: {
+      de: "Der Vatikanische Hügel ist eine Erhebung am rechten Tiberufer. Er gehört geologisch nicht zu den sieben Hügeln Roms und besteht vorwiegend aus pliozänem Tuffgestein.",
+      hu: "A Vatikáni-domb a Tevere jobb partján emelkedik. Földrajzi értelemben nem része Róma hét halmának, felszínét főként tufa és tengeri üledékes kőzetek alkotják.",
+      ro: "Dealul Vatican este o colină situată pe malul drept al Tibrului. Geologic, acesta nu face parte din cele șapte coline ale Romei, fiind format din tuf vulcanic.",
+      en: "The Vatican Hill is an elevation on the right bank of the Tiber. Unlike the seven hills of Rome, it was outside the ancient city limits until the medieval period.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe: 75 Meter", "Gesteinsart: Tuffstein", "Lage: Westlich des Tiber", "Fläche: ca. 44 Hektar"],
+      hu: ["Legmagasabb pont: 75 méter", "Kőzetösszetétel: Tufa", "Elhelyezkedés: Tevere jobb partja", "Terület: 44 hektár"],
+      ro: ["Altitudine maximă: 75 metri", "Compoziție: Tuf vulcanic", "Locație: Malul drept al Tibrului", "Suprafață totală: 44 hectare"],
+      en: ["Maximum elevation: 75 meters", "Geological composition: Tufa", "Total area: 44 hectares", "Position: West of the Tiber"],
+    },
+    image: "/poi-images/vatican-vatican-hill-nature-v2.webp",
+},  {
     id: "vatican-the-vatican-wood-nature-v2",
     type: "forest",
-    name: { de: "Vatikanischer Wald", hu: "Vatikáni erdő", ro: "Pădurea Vaticanului", en: "Vatican Wood" },
+    name: { de: "Vatikanischer Wald", hu: "Vatikáni erdő", ro: "Pădurea Vaticanului", en: "Vatican Wood",
+image: "/poi-images/vatican-the-vatican-wood-nature-v2.webp"
+},
     coords: [12.4485, 41.9025],
     coordinates: { lat: 41.9025, lng: 12.4485 },
     description: {
@@ -38,11 +55,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Stejari de stâncă", "Sectorul nord-vestic", "Sanctuar de păsări", "Vegetație sălbatică"],
       en: ["Holm oak trees", "Northwest sector", "Bird sanctuary", "Wild vegetation"],
     },
-    imageHint: "Dense trees in Vatican Gardens", image: "/poi-images/vatican-the-vatican-wood-nature-v2.webp"},
-  {
+imageHint: "Dense trees in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Das waldähnliche Areal der Vatikanischen Gärten umfasst dichte Baumbestände, die Schatten und Privatsphäre bieten. Es ist ein Rückzugsort für die lokale Fauna der Stadt.",
+      hu: "A vatikáni erdős terület a kertek legtermészetesebb része. Sűrű lombkoronája élőhelyet biztosít a városi madárvilágnak és árnyékot ad a pápai sétákhoz.",
+      ro: "Zona împădurită a Grădinilor Vaticane cuprinde exemplare arboricole dense, oferind răcoare și intimitate. Este un refugiu vital pentru fauna locală urbană.",
+      en: "The wooded area of the Vatican Gardens features dense stands of trees providing shade and privacy. It serves as a natural sanctuary for local avian species.",
+    },
+    factsAdvanced: {
+      de: ["Gartenanteil: ca. 50% der Fläche", "Baumarten: Eichen, Pinien, Ulmen", "Stil: Naturnaher Landschaftspark", "Bewässerung: Zisternensystem"],
+      hu: ["Kerti arány: az állam 50%-a", "Fafajok: Tölgy, fenyő, szil", "Stílus: Természetközeli park", "Öntözés: Ciszterna-rendszer"],
+      ro: ["Procent grădini: 50% din stat", "Specii: Stejar, pin, ulm", "Stil: Parc peisagistic natural", "Irigare: Sistem de cisterne"],
+      en: ["Garden ratio: 50% of total land", "Tree species: Oak, pine, elm", "Style: Naturalistic landscape", "Irrigation: Cistern system"],
+    },
+    image: "/poi-images/vatican-the-vatican-wood-nature-v2.webp",
+},  {
     id: "vatican-eagle-fountain-pond-nature-v2",
     type: "lake",
-    name: { de: "Adlerbrunnen-Teich", hu: "Sas-kút tava", ro: "Iazul Fântânii Vulturului", en: "Eagle Fountain Pond" },
+    name: { de: "Adlerbrunnen-Teich", hu: "Sas-kút tava", ro: "Iazul Fântânii Vulturului", en: "Eagle Fountain Pond",
+image: "/poi-images/vatican-eagle-fountain-pond-nature-v2.webp"
+},
     coords: [12.4491, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4491 },
     description: {
@@ -57,11 +89,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Anul 1612", "Paul al V-lea Borghese", "Design baroc", "Rezervor de apă"],
       en: ["Built in 1612", "Paul V Borghese", "Baroque design", "Water reservoir"],
     },
-    imageHint: "Eagle Fountain Vatican Gardens pond", image: "/poi-images/vatican-eagle-fountain-pond-nature-v2.webp"},
-  {
+imageHint: "Eagle Fountain Vatican Gardens pond",
+    descriptionAdvanced: {
+      de: "Der Adlerbrunnen wurde 1611 von Jan van Santen für Papst Paul V. entworfen. Das Bauwerk aus Travertin erinnert an die Wasserversorgung durch die Acqua Paola.",
+      hu: "A Sas-kutat 1611-ben Jan van Santen tervezte V. Pál pápa számára. A travertin mészkőből készült monumentális vízmű az Acqua Paola vízvezeték érkezését jelzi.",
+      ro: "Fântâna Vulturului a fost proiectată în 1611 de Jan van Santen pentru Papa Paul al V-lea. Structura din travertin marchează sosirea apei prin apeductul Paola.",
+      en: "The Eagle Fountain was designed in 1611 by Jan van Santen for Pope Paul V. Built of travertine, it celebrates the restoration of the Acqua Paola aqueduct.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1611-1612", "Architekt: Giovanni Vasanzio", "Material: Travertin-Gestein", "Papst-Wappen: Paul V. Borghese"],
+      hu: ["Építés éve: 1611-1612", "Építész: Giovanni Vasanzio", "Anyaga: Travertin mészkő", "Címer: V. Pál (Borghese)"],
+      ro: ["An construcție: 1611-1612", "Arhitect: Giovanni Vasanzio", "Material: Travertin", "Stemă: Paul al V-lea Borghese"],
+      en: ["Built: 1611-1612", "Architect: Giovanni Vasanzio", "Material: Travertine", "Heraldry: Paul V Borghese"],
+    },
+    image: "/poi-images/vatican-eagle-fountain-pond-nature-v2.webp",
+},  {
     id: "vatican-vatican-olive-grove-nature-v2",
     type: "park",
-    name: { de: "Vatikanischer Olivenhain", hu: "Vatikáni olajfaliget", ro: "Livada de măslini a Vaticanului", en: "Vatican Olive Grove" },
+    name: { de: "Vatikanischer Olivenhain", hu: "Vatikáni olajfaliget", ro: "Livada de măslini a Vaticanului", en: "Vatican Olive Grove",
+image: "/poi-images/vatican-vatican-olive-grove-nature-v2.webp"
+},
     coords: [12.4465, 41.9028],
     coordinates: { lat: 41.9028, lng: 12.4465 },
     description: {
@@ -76,11 +123,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Simbolul păcii", "Floră mediteraneană", "Arbori primiți cadou", "Fructe tradiționale"],
       en: ["Symbol of peace", "Mediterranean flora", "Gifted trees", "Traditional olive fruit"],
     },
-    imageHint: "Olive trees in Vatican Gardens", image: "/poi-images/vatican-vatican-olive-grove-nature-v2.webp"},
-  {
+imageHint: "Olive trees in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der Olivenhain beherbergt teilweise jahrhundertealte Bäume, die als Symbole des Friedens gepflanzt wurden. Aus den Früchten wird traditionell Öl für den Papst gewonnen.",
+      hu: "Az olajfaliget évszázados fáknak ad otthont, melyek a béke szimbólumaként állnak. A fák terméséből hagyományosan a pápa számára készítenek olívaolajat.",
+      ro: "Livadă de măslini adăpostește exemplare vechi de secole, plantate ca simboluri ale păcii. Din fructe se obține tradițional uleiul destinat consumului papal.",
+      en: "The olive grove contains centenarian trees planted as enduring symbols of peace. Its harvest is traditionally used to produce olive oil for the papal household.",
+    },
+    factsAdvanced: {
+      de: ["Baumalter: Bis zu 500 Jahre", "Symbolik: Frieden und Segen", "Nutzung: Olivenölproduktion", "Anzahl: Über 100 Bäume"],
+      hu: ["Fák kora: Akár 500 év", "Szimbolika: Béke és áldás", "Hasznosítás: Olívaolaj-gyártás", "Darabszám: Több mint 100 fa"],
+      ro: ["Vârsta arborilor: Până la 500 ani", "Simbolism: Pace și binecuvântare", "Utilizare: Producție de ulei", "Număr: Peste 100 de măslini"],
+      en: ["Tree age: Up to 500 years", "Symbolism: Peace and blessing", "Usage: Olive oil production", "Quantity: Over 100 trees"],
+    },
+    image: "/poi-images/vatican-vatican-olive-grove-nature-v2.webp",
+},  {
     id: "vatican-rose-garden-nature-v2",
     type: "park",
-    name: { de: "Rosengarten des Vatikans", hu: "Vatikáni rózsakert", ro: "Grădina de trandafiri a Vaticanului", en: "Vatican Rose Garden" },
+    name: { de: "Rosengarten des Vatikans", hu: "Vatikáni rózsakert", ro: "Grădina de trandafiri a Vaticanului", en: "Vatican Rose Garden",
+image: "/poi-images/vatican-rose-garden-nature-v2.webp"
+},
     coords: [12.4495, 41.9018],
     coordinates: { lat: 41.9018, lng: 12.4495 },
     description: {
@@ -95,11 +157,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Diverse soiuri", "Înflorire în mai/iunie", "Grădină ornamentală", "Îngrijire atentă"],
       en: ["Diverse rose varieties", "Blooming in May/June", "Ornamental garden", "Careful maintenance"],
     },
-    imageHint: "Vatican Rose Garden blooms", image: "/poi-images/vatican-rose-garden-nature-v2.webp"},
-  {
+imageHint: "Vatican Rose Garden blooms",
+    descriptionAdvanced: {
+      de: "Der Rosengarten in der Nähe des Gouverneurspalastes präsentiert eine Vielfalt internationaler Rosensorten, die nach Farben und Duftintensität arrangiert sind.",
+      hu: "A kormányzói palota közelében található rózsakert nemzetközi fajták sokaságát mutatja be, melyeket színük és illatintenzitásuk alapján csoportosítottak.",
+      ro: "Grădina de trandafiri de lângă Palatul Guvernatorului prezintă o varietate de soiuri internaționale, aranjate după culoare și intensitatea parfumului.",
+      en: "The Rose Garden near the Governor's Palace showcases a variety of international rose species, meticulously arranged by color and scent intensity.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit: Mai bis Juni", "Lage: Nahe Gouverneurspalast", "Anordnung: Geometrische Beete", "Sorten: Über 50 Varietäten"],
+      hu: ["Virágzás: Májustól júniusig", "Helyszín: Kormányzói palota", "Elrendezés: Geometrikus ágyások", "Fajták: Több mint 50 típus"],
+      ro: ["Perioadă înflorire: Mai - Iunie", "Locație: Lângă Palatul Guvern.", "Aranjament: Straturi geometrice", "Soiuri: Peste 50 de varietăți"],
+      en: ["Bloom period: May to June", "Location: Near Governor's Palace", "Layout: Geometric flowerbeds", "Varieties: Over 50 types"],
+    },
+    image: "/poi-images/vatican-rose-garden-nature-v2.webp",
+},  {
     id: "vatican-cactus-garden-nature-v2",
     type: "park",
-    name: { de: "Kaktusgarten", hu: "Kaktuszkert", ro: "Grădina de cactuși", en: "Cactus Garden" },
+    name: { de: "Kaktusgarten", hu: "Kaktuszkert", ro: "Grădina de cactuși", en: "Cactus Garden",
+image: "/poi-images/vatican-cactus-garden-nature-v2.webp"
+},
     coords: [12.4485, 41.9038],
     coordinates: { lat: 41.9038, lng: 12.4485 },
     description: {
@@ -114,11 +191,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Colecție de suculente", "Versant însorit", "Floră exotică", "Rezistență la secetă"],
       en: ["Succulent collection", "Sunny slope location", "Exotic flora", "Drought resistance"],
     },
-    imageHint: "Cacti in Vatican Gardens", image: "/poi-images/vatican-cactus-garden-nature-v2.webp"},
-  {
+imageHint: "Cacti in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Dieser Gartenabschnitt zeigt Sukkulenten und Kakteen aus Amerika und Afrika. Die Pflanzen nutzen das Mikroklima an den alten Leoninischen Mauern optimal aus.",
+      hu: "Ez a kertrész amerikai és afrikai pozsgásokat és kaktuszokat mutat be. A növények a Leoninus-falak mentén kialakult különleges mikroklímát élvezik.",
+      ro: "Această secțiune prezintă suculente și cactuși din America și Africa. Plantele profită de microclimatul creat de vechile ziduri leonine.",
+      en: "This garden section features succulents and cacti from the Americas and Africa, thriving in the microclimate protected by the ancient Leonine Walls.",
+    },
+    factsAdvanced: {
+      de: ["Herkunft: Mexiko, Chile, Afrika", "Schutz: Leoninische Mauern", "Klima: Mediterran-arid", "Pflege: Geringer Wasserbedarf"],
+      hu: ["Származás: Mexikó, Chile, Afrika", "Védelem: Leoninus-falak", "Klíma: Mediterrán-arid", "Igény: Alacsony vízigény"],
+      ro: ["Origine: Mexic, Chile, Africa", "Protecție: Zidurile Leonine", "Climat: Mediteranean arid", "Îngrijire: Consum redus de apă"],
+      en: ["Origin: Mexico, Chile, Africa", "Protection: Leonine Walls", "Climate: Mediterranean-arid", "Care: Low water requirement"],
+    },
+    image: "/poi-images/vatican-cactus-garden-nature-v2.webp",
+},  {
     id: "vatican-vatican-orchard-nature-v2",
     type: "park",
-    name: { de: "Vatikanischer Obstgarten", hu: "Vatikáni gyümölcsöskert", ro: "Livada Vaticanului", en: "Vatican Orchard" },
+    name: { de: "Vatikanischer Obstgarten", hu: "Vatikáni gyümölcsöskert", ro: "Livada Vaticanului", en: "Vatican Orchard",
+image: "/poi-images/vatican-vatican-orchard-nature-v2.webp"
+},
     coords: [12.4475, 41.901],
     coordinates: { lat: 41.901, lng: 12.4475 },
     description: {
@@ -133,11 +225,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Citrice", "Grădină utilitară", "Recoltă proaspătă", "Cultivare tradițională"],
       en: ["Citrus fruits", "Utility garden", "Fresh harvest", "Traditional cultivation"],
     },
-    imageHint: "Fruit trees in Vatican Gardens", image: "/poi-images/vatican-vatican-orchard-nature-v2.webp"},
-  {
+imageHint: "Fruit trees in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der vatikanische Obstgarten liefert frisches Obst direkt für die päpstliche Tafel. Hier werden traditionelle Sorten gepflegt, die oft andernorts selten geworden sind.",
+      hu: "A vatikáni gyümölcsöskert friss termést biztosít közvetlenül a pápai asztal számára. Itt olyan hagyományos fajtákat gondoznak, melyek máshol ritkaságnak számítanak.",
+      ro: "Livada Vaticanului furnizează fructe proaspete direct pentru masa papală. Aici sunt cultivate soiuri tradiționale care au devenit rare în alte locuri.",
+      en: "The Vatican orchard provides fresh produce directly for the papal table. It preserves traditional fruit varieties that are often rare in modern agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Obstsorten: Äpfel, Birnen, Zitrus", "Nutzung: Päpstlicher Haushalt", "Anbauweise: Ökologisch-traditionell", "Lage: Sonnige Hanglage"],
+      hu: ["Gyümölcsök: Alma, körte, citrus", "Hasznosítás: Pápai háztartás", "Módszer: Ökológiai-hagyományos", "Fekvés: Napos domboldal"],
+      ro: ["Tipuri: Mere, pere, citrice", "Utilizare: Casa Papală", "Metodă: Ecologic-tradițional", "Locație: Pantă însorită"],
+      en: ["Fruit types: Apple, pear, citrus", "Usage: Papal household", "Method: Ecological-traditional", "Location: Sunny slope"],
+    },
+    image: "/poi-images/vatican-vatican-orchard-nature-v2.webp",
+},  {
     id: "vatican-lebanon-cedars-nature-v2",
     type: "wildlife",
-    name: { de: "Libanon-Zedern am Hang", hu: "Libanoni cédrusok lejtője", ro: "Cedrii Libanului de pe versant", en: "Lebanon Cedars Slope" },
+    name: { de: "Libanon-Zedern am Hang", hu: "Libanoni cédrusok lejtője", ro: "Cedrii Libanului de pe versant", en: "Lebanon Cedars Slope",
+image: "/poi-images/vatican-lebanon-cedars-nature-v2.webp"
+},
     coords: [12.4512, 41.9026],
     coordinates: { lat: 41.9026, lng: 12.4512 },
     description: {
@@ -152,11 +259,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Cedrus libani", "Coroane impunătoare", "Vechime de decenii", "Sunt mereu verzi"],
       en: ["Cedrus libani", "Imposing crowns", "Decades old", "Evergreen"],
     },
-    imageHint: "Large cedar trees Vatican Gardens", image: "/poi-images/vatican-lebanon-cedars-nature-v2.webp"},
-  {
+imageHint: "Large cedar trees Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Die Libanon-Zedern am Hang sind imposante Baumriesen und Symbole für Beständigkeit. Sie wurden oft als Geschenke aus dem Nahen Osten in den Gärten gepflanzt.",
+      hu: "A domboldalon álló libanoni cédrusok impozáns óriások és a maradandóság szimbólumai. Gyakran közel-keleti ajándékként kerültek a vatikáni kertekbe.",
+      ro: "Cedrii Libanului de pe pantă sunt giganți impunători și simboluri ale trăiniciei. Aceștia au fost adesea plantați ca daruri din Orientul Mijlociu.",
+      en: "The Lebanon Cedars on the slope are majestic giants symbolizing endurance. These specimens were often introduced to the gardens as gifts from the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["Art: Cedrus libani", "Symbolik: Kraft und Weisheit", "Wuchshöhe: Bis zu 40 Meter", "Besonderheit: Immergrün"],
+      hu: ["Faj: Cedrus libani", "Szimbolika: Erő és bölcsesség", "Magasság: Akár 40 méter", "Jellemző: Örökzöld"],
+      ro: ["Specie: Cedrus libani", "Simbolism: Putere și înțelepciune", "Înălțime: Până la 40 metri", "Caracteristică: Mereu verde"],
+      en: ["Species: Cedrus libani", "Symbolism: Strength and wisdom", "Height: Up to 40 meters", "Feature: Evergreen"],
+    },
+    image: "/poi-images/vatican-lebanon-cedars-nature-v2.webp",
+},  {
     id: "vatican-magnolia-alley-nature-v2",
     type: "park",
-    name: { de: "Magnolienallee", hu: "Magnólia fasor", ro: "Aleea Magnoliilor", en: "Magnolia Alley" },
+    name: { de: "Magnolienallee", hu: "Magnólia fasor", ro: "Aleea Magnoliilor", en: "Magnolia Alley",
+image: "/poi-images/vatican-magnolia-alley-nature-v2.webp"
+},
     coords: [12.452, 41.903],
     coordinates: { lat: 41.903, lng: 12.452 },
     description: {
@@ -171,11 +293,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Înflorire de primăvară", "Magnolia grandiflora", "Cale umbrită", "Arbori ornamentali"],
       en: ["Spring bloom", "Magnolia grandiflora", "Shaded path", "Ornamental trees"],
     },
-    imageHint: "Magnolia trees Vatican Gardens", image: "/poi-images/vatican-magnolia-alley-nature-v2.webp"},
-  {
+imageHint: "Magnolia trees Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Die Magnolienallee bietet mit ihren großblättrigen, immergrünen Bäumen einen schattigen Wandelgang. Im Sommer verströmen die weißen Blüten einen intensiven Duft.",
+      hu: "A magnólia-fasor nagy levelű, örökzöld fáival árnyas sétányt alkot. Nyáron a hatalmas fehér virágok intenzív illatot árasztanak a kertben.",
+      ro: "Aleea cu magnolii oferă o cale umbrită, mărginită de arbori mereu verzi. În timpul verii, florile mari albe emană un parfum intens în toată grădina.",
+      en: "The Magnolia Alley provides a shaded promenade lined with large-leafed evergreen trees. In summer, the massive white blooms release an intense fragrance.",
+    },
+    factsAdvanced: {
+      de: ["Art: Magnolia grandiflora", "Blütenfarbe: Reinweiß", "Nutzen: Schattenallee", "Blattstruktur: Ledrig-fest"],
+      hu: ["Faj: Magnolia grandiflora", "Virágszín: Hófehér", "Funkció: Árnyas fasor", "Levélzet: Bőrszerű, fényes"],
+      ro: ["Specie: Magnolia grandiflora", "Culoare floare: Alb pur", "Funcție: Alee umbrită", "Frunziș: Textură ceroasă"],
+      en: ["Species: Magnolia grandiflora", "Bloom color: Pure white", "Function: Shaded walkway", "Leaf type: Leathery evergreen"],
+    },
+    image: "/poi-images/vatican-magnolia-alley-nature-v2.webp",
+},  {
     id: "vatican-papal-crest-flowerbed-nature-v2",
     type: "landmark",
-    name: { de: "Wappen-Blumenbeet", hu: "Címeres virágágyás", ro: "Răzorul cu blazonul papal", en: "Papal Crest Flowerbed" },
+    name: { de: "Wappen-Blumenbeet", hu: "Címeres virágágyás", ro: "Răzorul cu blazonul papal", en: "Papal Crest Flowerbed",
+image: "/poi-images/vatican-papal-crest-flowerbed-nature-v2.webp"
+},
     coords: [12.4508, 41.9021],
     coordinates: { lat: 41.9021, lng: 12.4508 },
     description: {
@@ -191,11 +328,25 @@ export const vaticanNatureV2: POI[] = [
       en: ["Living crest", "Governor's Palace", "Seasonal plants", "Horticultural precision"],
     },
     imageHint: "Papal coat of arms flowerbed Vatican",
+    descriptionAdvanced: {
+      de: "Dieses berühmte Beet zeigt das Wappen des amtierenden Papstes, kunstvoll aus Blumen und niedrigen Hecken geformt. Es wird bei jedem Pontifikatswechsel neu gestaltet.",
+      hu: "Ez a híres ágyás a mindenkori pápa címerét ábrázolja, virágokból és alacsony sövényekből megformálva. Minden pápaváltáskor újratervezik a mintázatot.",
+      ro: "Acest strat celebru redă stema Papei actual, modelată artistic din flori și gard viu pitic. Este reamenajat la fiecare schimbare de pontificat.",
+      en: "This iconic flowerbed displays the coat of arms of the reigning Pope, artistically crafted from flowers and low hedges. It is redesigned for each new pontificate.",
+    },
+    factsAdvanced: {
+      de: ["Gestaltung: Saisonale Blumen", "Anlass: Pontifikatswechsel", "Elemente: Wappen und Devise", "Pflege: Tägliche Gärtnerarbeit"],
+      hu: ["Összetétel: Szezonális virágok", "Alkalom: Pápaváltás", "Elemek: Címer és jelmondat", "Gondozás: Napi kertészeti munka"],
+      ro: ["Compoziție: Flori sezoniere", "Ocazie: Nou pontificat", "Elemente: Stemă și deviză", "Întreținere: Grădinărit zilnic"],
+      en: ["Composition: Seasonal flowers", "Occasion: Papal succession", "Elements: Crest and motto", "Maintenance: Daily gardening"],
+    },
   },
   {
     id: "vatican-st-john-tower-slopes-nature-v2",
     type: "park",
-    name: { de: "Hänge am Johannesturm", hu: "Szent János-torony lejtői", ro: "Versanții Turnului Sf. Ioan", en: "St. John's Tower Slopes" },
+    name: { de: "Hänge am Johannesturm", hu: "Szent János-torony lejtői", ro: "Versanții Turnului Sf. Ioan", en: "St. John's Tower Slopes",
+image: "/poi-images/vatican-st-john-tower-slopes-nature-v2.webp"
+},
     coords: [12.446, 41.9012],
     coordinates: { lat: 41.9012, lng: 12.446 },
     description: {
@@ -210,11 +361,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Vedere panoramică", "Pădure de pini", "Versant abrupt", "Loc istoric"],
       en: ["Panoramic views", "Pine tree stands", "Steep slopes", "Historical site"],
     },
-    imageHint: "Green slopes around St John Tower Vatican", image: "/poi-images/vatican-st-john-tower-slopes-nature-v2.webp"},
-  {
+imageHint: "Green slopes around St John Tower Vatican",
+    descriptionAdvanced: {
+      de: "Die Hänge um den Turm von St. Johann sind terrassenförmig angelegt. Der Turm wurde von Papst Johannes XXIII. als privater Rückzugsort restauriert.",
+      hu: "A Szent János-torony körüli lankák teraszos kialakításúak. A középkori tornyot XXIII. János pápa újíttatta fel magánlakosztály és csendes pihenőhely céljára.",
+      ro: "Pantele din jurul Turnului Sfântului Ioan sunt amenajate în terase. Turnul a fost restaurat de Papa Ioan al XXIII-lea ca refugiu privat.",
+      en: "The slopes surrounding the St. John Tower are elegantly terraced. The medieval tower was restored by Pope John XXIII to serve as a private residence.",
+    },
+    factsAdvanced: {
+      de: ["Turmtyp: Mittelalterliche Befestigung", "Papst: Johannes XXIII.", "Nutzung: Päpstliche Residenz", "Aussicht: Panoramablick Rom"],
+      hu: ["Torony típus: Középkori erőd", "Pápa: XXIII. János", "Használat: Magánlakosztály", "Kilátás: Római panoráma"],
+      ro: ["Tip turn: Fortificație medievală", "Papă: Ioan al XXIII-lea", "Utilizare: Reședință privată", "Vedere: Panoramă asupra Romei"],
+      en: ["Tower type: Medieval defensive", "Pope: John XXIII", "Usage: Private residence", "View: Panoramic Rome view"],
+    },
+    image: "/poi-images/vatican-st-john-tower-slopes-nature-v2.webp",
+},  {
     id: "vatican-rock-garden-nature-v2",
     type: "park",
-    name: { de: "Steingarten des Vatikans", hu: "Vatikáni sziklakert", ro: "Grădina de stânci a Vaticanului", en: "Vatican Rock Garden" },
+    name: { de: "Steingarten des Vatikans", hu: "Vatikáni sziklakert", ro: "Grădina de stânci a Vaticanului", en: "Vatican Rock Garden",
+image: "/poi-images/vatican-rock-garden-nature-v2.webp"
+},
     coords: [12.4478, 41.9034],
     coordinates: { lat: 41.9034, lng: 12.4478 },
     description: {
@@ -229,11 +395,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Plante alpine", "Terase de piatră", "Stânci artificiale", "Plante suculente"],
       en: ["Alpine plants", "Stone terraces", "Artificial rocks", "Succulents"],
     },
-    imageHint: "Vatican rock garden plants", image: "/poi-images/vatican-rock-garden-nature-v2.webp"},
-  {
+imageHint: "Vatican rock garden plants",
+    descriptionAdvanced: {
+      de: "Der Steingarten im Vatikan kombiniert alpine Pflanzen mit künstlerisch angeordneten Felsformationen. Er bietet einen botanischen Kontrast zur barocken Pracht.",
+      hu: "A vatikáni sziklakert alpesi növényeket kombinál művészien elrendezett sziklaformációkkal. Botanikai kontrasztot képez a kertek barokk pompájával.",
+      ro: "Grădina de stânci din Vatican îmbină plantele alpine cu formațiuni stâncoase aranjate artistic. Oferă un contrast botanic față de splendoarea barocă.",
+      en: "The Vatican Rock Garden combines alpine flora with artistically arranged rock formations, providing a botanical contrast to the surrounding Baroque splendor.",
+    },
+    factsAdvanced: {
+      de: ["Pflanzentyp: Alpine Flora", "Gestaltung: Stein und Moos", "Lage: Schattiger Bereich", "Besonderheit: Mikroklima"],
+      hu: ["Növénytípus: Alpesi flóra", "Elemek: Szikla és moha", "Elhelyezkedés: Árnyas terület", "Jellemző: Saját mikroklíma"],
+      ro: ["Tip plante: Floră alpină", "Elemente: Piatră și mușchi", "Locație: Zonă umbrită", "Caracteristică: Microclimat"],
+      en: ["Plant type: Alpine flora", "Design: Rock and moss", "Location: Shaded area", "Feature: Unique microclimate"],
+    },
+    image: "/poi-images/vatican-rock-garden-nature-v2.webp",
+},  {
     id: "vatican-cycad-collection-nature-v2",
     type: "wildlife",
-    name: { de: "Palmfarn-Sammlung", hu: "Cikász-gyűjtemény", ro: "Colecția de cicade", en: "Cycad Collection" },
+    name: { de: "Palmfarn-Sammlung", hu: "Cikász-gyűjtemény", ro: "Colecția de cicade", en: "Cycad Collection",
+image: "/poi-images/vatican-cycad-collection-nature-v2.webp"
+},
     coords: [12.4498, 41.9042],
     coordinates: { lat: 41.9042, lng: 12.4498 },
     description: {
@@ -248,11 +429,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Fosile vii", "Specii rare", "Creștere lentă", "Protecție botanică"],
       en: ["Living fossils", "Rare species", "Slow growth", "Botanical protection"],
     },
-    imageHint: "Cycad plants Vatican Gardens", image: "/poi-images/vatican-cycad-collection-nature-v2.webp"},
-  {
+imageHint: "Cycad plants Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Diese Sammlung beherbergt Cycas revoluta, auch als Palmfarne bekannt. Diese 'lebenden Fossilien' stammen aus einer Pflanzengruppe, die bereits vor Millionen Jahren existierte.",
+      hu: "Ez a gyűjtemény cikászokat (Cycas revoluta) mutat be, melyeket élő kövületekként ismernek. Ez a növénycsoport már évmilliókkal ezelőtt is létezett a Földön.",
+      ro: "Această colecție adăpostește Cycas revoluta, cunoscuți ca 'fosile vii'. Aceste plante provin dintr-un grup care a existat pe Pământ acum milioane de ani.",
+      en: "This collection features Cycas revoluta, commonly known as sago palms. These 'living fossils' belong to a plant group that has existed for millions of years.",
+    },
+    factsAdvanced: {
+      de: ["Art: Cycas revoluta", "Status: Lebende Fossilien", "Wachstum: Sehr langsam", "Herkunft: Südostasien"],
+      hu: ["Faj: Cycas revoluta", "Státusz: Élő kövület", "Növekedés: Nagyon lassú", "Származás: Délkelet-Ázsia"],
+      ro: ["Specie: Cycas revoluta", "Statut: Fosilă vie", "Creștere: Foarte lentă", "Origine: Asia de Sud-Est"],
+      en: ["Species: Cycas revoluta", "Status: Living fossil", "Growth: Very slow", "Origin: Southeast Asia"],
+    },
+    image: "/poi-images/vatican-cycad-collection-nature-v2.webp",
+},  {
     id: "vatican-camellia-path-nature-v2",
     type: "park",
-    name: { de: "Kamelienpfad", hu: "Kamélia ösvény", ro: "Calea Cameliilor", en: "Camellia Path" },
+    name: { de: "Kamelienpfad", hu: "Kamélia ösvény", ro: "Calea Cameliilor", en: "Camellia Path",
+image: "/poi-images/vatican-camellia-path-nature-v2.webp"
+},
     coords: [12.4492, 41.9023],
     coordinates: { lat: 41.9023, lng: 12.4492 },
     description: {
@@ -267,11 +463,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Înflorire de iarnă", "Locație umbrită", "Flori elegante", "Diversitate botanică"],
       en: ["Winter bloomer", "Shaded location", "Elegant flowers", "Botanical variety"],
     },
-    imageHint: "Camellia flowers Vatican Gardens", image: "/poi-images/vatican-camellia-path-nature-v2.webp"},
-  {
+imageHint: "Camellia flowers Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der Kamelienweg ist im späten Winter und frühen Frühjahr besonders prächtig. Die schattige Lage schützt die empfindlichen Blüten vor der direkten römischen Sonne.",
+      hu: "A kamélia-ösvény késő télen és kora tavasszal a legszebb. Az árnyékos fekvés megvédi az érzékeny virágokat a közvetlen, erős római napsütéstől.",
+      ro: "Calea cameliilor este spectaculoasă la sfârșitul iernii și începutul primăverii. Locația umbrită protejează florile delicate de soarele direct al Romei.",
+      en: "The Camellia Path is particularly stunning in late winter and early spring. Its shaded location protects the delicate blooms from the harsh Roman sun.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit: Feb bis März", "Lage: Nordhang-Bereich", "Boden: Sauer und feucht", "Varietäten: Japanische Kamelien"],
+      hu: ["Virágzás: Febr. - Március", "Fekvés: Északi domboldal", "Talaj: Savanyú és nedves", "Fajták: Japán kaméliák"],
+      ro: ["Înflorire: Febr. - Mart.", "Locație: Versantul nordic", "Sol: Acid și umed", "Varietăți: Camelii japoneze"],
+      en: ["Bloom period: Feb to March", "Position: Northern slope", "Soil: Acidic and moist", "Varieties: Japanese Camellias"],
+    },
+    image: "/poi-images/vatican-camellia-path-nature-v2.webp",
+},  {
     id: "vatican-ethnobotanical-garden-nature-v2",
     type: "park",
-    name: { de: "Ethnobotanischer Garten", hu: "Etnobotanikai kert", ro: "Grădina etnobotanică", en: "Ethnobotanical Garden" },
+    name: { de: "Ethnobotanischer Garten", hu: "Etnobotanikai kert", ro: "Grădina etnobotanică", en: "Ethnobotanical Garden",
+image: "/poi-images/vatican-ethnobotanical-garden-nature-v2.webp"
+},
     coords: [12.4515, 41.904],
     coordinates: { lat: 41.904, lng: 12.4515 },
     description: {
@@ -286,11 +497,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Plante medicinale", "Istorie culturală", "Grădină didactică", "Biodiversitate"],
       en: ["Medicinal plants", "Cultural history", "Teaching garden", "Biological diversity"],
     },
-    imageHint: "Educational plant garden Vatican", image: "/poi-images/vatican-ethnobotanical-garden-nature-v2.webp"},
-  {
+imageHint: "Educational plant garden Vatican",
+    descriptionAdvanced: {
+      de: "Der ethnobotanische Garten zeigt Pflanzen, die in der Liturgie, Volksmedizin und christlichen Symbolik eine Rolle spielen. Er verbindet Glaube mit Naturwissenschaft.",
+      hu: "Az etnobotanikai kert olyan növényeket mutat be, melyek a liturgiában, a népi orvoslásban és a keresztény szimbolikában fontos szerepet játszanak.",
+      ro: "Grădina etnobotanică prezintă plante care joacă un rol în liturghie, medicina populară și simbolismul creștin. Unește credința cu știința naturii.",
+      en: "The ethnobotanical garden showcases plants significant in liturgy, folk medicine, and Christian symbolism, bridging the gap between faith and science.",
+    },
+    factsAdvanced: {
+      de: ["Fokus: Heil- und Ritualpflanzen", "Didaktik: Bildungsaspekt", "Vielfalt: Biblische Arten", "Zweck: Konservierung Wissen"],
+      hu: ["Fókusz: Gyógy- és rituális növények", "Cél: Oktatási szempont", "Választék: Bibliai fajok", "Jelleg: Tudományos gyűjtemény"],
+      ro: ["Focus: Plante medicinale/rituale", "Scop: Educațional", "Diversitate: Specii biblice", "Funcție: Conservarea cunoștințelor"],
+      en: ["Focus: Medicinal/ritual plants", "Goal: Educational aspect", "Diversity: Biblical species", "Purpose: Knowledge preservation"],
+    },
+    image: "/poi-images/vatican-ethnobotanical-garden-nature-v2.webp",
+},  {
     id: "vatican-secret-garden-nature-v2",
     type: "park",
-    name: { de: "Geheimer Garten", hu: "Titkos kert", ro: "Grădina Secretă", en: "Secret Garden" },
+    name: { de: "Geheimer Garten", hu: "Titkos kert", ro: "Grădina Secretă", en: "Secret Garden",
+image: "/poi-images/vatican-secret-garden-nature-v2.webp"
+},
     coords: [12.454, 41.905],
     coordinates: { lat: 41.905, lng: 12.454 },
     description: {
@@ -305,11 +531,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Hortus Conclusus", "Grădină zidită", "Loc de retragere", "Amenajare tradițională"],
       en: ["Hortus Conclusus", "Walled garden", "Place of retreat", "Traditional layout"],
     },
-    imageHint: "Walled secret garden Vatican", image: "/poi-images/vatican-secret-garden-nature-v2.webp"},
-  {
+imageHint: "Walled secret garden Vatican",
+    descriptionAdvanced: {
+      de: "Der 'Giardino Segreto' ist ein abgeschlossener Bereich für private Meditation. Seine Gestaltung folgt dem Ideal des Renaissance-Gartens als Ort der Kontemplation.",
+      hu: "A 'Giardino Segreto' egy elzárt terület a privát meditáció számára. Kialakítása a reneszánsz kertek azon ideálját követi, mely szerint a kert az elmélkedés helyszíne.",
+      ro: "'Giardino Segreto' este o zonă retrasă pentru meditație privată. Designul său urmează idealul renascentist al grădinii ca loc de contemplare.",
+      en: "The 'Giardino Segreto' is a secluded area designed for private meditation. Its layout follows the Renaissance ideal of a garden as a space for quiet contemplation.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Hortus conclusus", "Stil: Italienische Renaissance", "Zugang: Stark eingeschränkt", "Merkmal: Hohe Mauern"],
+      hu: ["Típus: Hortus conclusus", "Stílus: Itáliai reneszánsz", "Hozzáférés: Korlátozott", "Jellemző: Magas falak"],
+      ro: ["Tip: Hortus conclusus", "Stil: Renaștere italiană", "Acces: Foarte restricționat", "Element: Ziduri înalte"],
+      en: ["Type: Hortus conclusus", "Style: Italian Renaissance", "Access: Highly restricted", "Feature: High perimeter walls"],
+    },
+    image: "/poi-images/vatican-secret-garden-nature-v2.webp",
+},  {
     id: "vatican-casina-pio-iv-garden-nature-v2",
     type: "park",
-    name: { de: "Gärten der Casina Pio IV", hu: "Casina Pio IV kertjei", ro: "Grădinile Casinei Pio al IV-lea", en: "Casina Pio IV Gardens" },
+    name: { de: "Gärten der Casina Pio IV", hu: "Casina Pio IV kertjei", ro: "Grădinile Casinei Pio al IV-lea", en: "Casina Pio IV Gardens",
+image: "/poi-images/vatican-casina-pio-iv-garden-nature-v2.webp"
+},
     coords: [12.4518, 41.9036],
     coordinates: { lat: 41.9036, lng: 12.4518 },
     description: {
@@ -324,11 +565,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Grădină renascentistă", "Jocuri de apă", "Academia de Științe", "Decorațiuni din stuc"],
       en: ["Renaissance garden", "Water features", "Academy of Sciences", "Stucco decoration"],
     },
-    imageHint: "Casina Pio IV gardens Vatican", image: "/poi-images/vatican-casina-pio-iv-garden-nature-v2.webp"},
-  {
+imageHint: "Casina Pio IV gardens Vatican",
+    descriptionAdvanced: {
+      de: "Die Gärten um die Casina Pio IV. bilden ein harmonisches Ensemble mit der Architektur von Pirro Ligorio. Sie sind heute Sitz der Päpstlichen Akademie der Wissenschaften.",
+      hu: "A Casina Pio IV körüli kertek harmonikus egységet alkotnak Pirro Ligorio építészetével. Ma itt található a Pápai Tudományos Akadémia székhelye.",
+      ro: "Grădinile din jurul Casinei Pio al IV-lea formează un ansamblu armonios cu arhitectura lui Pirro Ligorio. Astăzi sunt sediul Academiei Pontificale de Științe.",
+      en: "The gardens surrounding Casina Pio IV form a harmonious ensemble with Pirro Ligorio's architecture. It now serves as the seat of the Pontifical Academy of Sciences.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr Casina: 1561", "Architekt: Pirro Ligorio", "Nutzung: Akademie der Wiss.", "Stil: Manierismus"],
+      hu: ["Építés éve: 1561", "Építész: Pirro Ligorio", "Használat: Tudományos Akadémia", "Stílus: Manierizmus"],
+      ro: ["An construcție: 1561", "Arhitect: Pirro Ligorio", "Utilizare: Academia de Științe", "Stil: Manierism"],
+      en: ["Built: 1561", "Architect: Pirro Ligorio", "Usage: Academy of Sciences", "Style: Mannerism"],
+    },
+    image: "/poi-images/vatican-casina-pio-iv-garden-nature-v2.webp",
+},  {
     id: "vatican-fountain-of-the-sacrament-pond-nature-v2",
     type: "lake",
-    name: { de: "Teich des Sakramentsbrunnens", hu: "Szentség-kút tava", ro: "Iazul Fântânii Sacramentului", en: "Fountain of the Sacrament Pond" },
+    name: { de: "Teich des Sakramentsbrunnens", hu: "Szentség-kút tava", ro: "Iazul Fântânii Sacramentului", en: "Fountain of the Sacrament Pond",
+image: "/poi-images/vatican-fountain-of-the-sacrament-pond-nature-v2.webp"
+},
     coords: [12.4528, 41.9027],
     coordinates: { lat: 41.9027, lng: 12.4528 },
     description: {
@@ -343,11 +599,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Iaz artificial", "Simbolistica apei", "Element baroc", "Hidrologie de grădină"],
       en: ["Artificial pond", "Water symbolism", "Baroque element", "Garden hydrology"],
     },
-    imageHint: "Water pond in Vatican Gardens", image: "/poi-images/vatican-fountain-of-the-sacrament-pond-nature-v2.webp"},
-  {
+imageHint: "Water pond in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Dieser monumentale Brunnen wurde unter Papst Paul V. errichtet. Sein Design integriert Kaskaden und Becken, die eine beruhigende akustische Atmosphäre schaffen.",
+      hu: "Ez a monumentális kút V. Pál pápa uralkodása alatt épült. Kialakítása vízeséseket és medencéket ötvöz, melyek megnyugtató akusztikai élményt nyújtanak.",
+      ro: "Această fântână monumentală a fost ridicată sub Papa Paul al V-lea. Designul său integrează cascade și bazine care creează o atmosferă acustică relaxantă.",
+      en: "This monumental fountain was constructed under Pope Paul V. Its design incorporates cascades and basins that create a tranquil acoustic environment.",
+    },
+    factsAdvanced: {
+      de: ["Errichtung: 17. Jahrhundert", "Papst: Paul V. Borghese", "Technik: Wasserkaskaden", "Material: Travertin"],
+      hu: ["Építés: 17. század", "Pápa: V. Pál (Borghese)", "Technika: Vízlépcsők", "Anyaga: Travertin mészkő"],
+      ro: ["Construcție: Secolul XVII", "Papă: Paul al V-lea Borghese", "Tehnică: Cascade de apă", "Material: Travertin"],
+      en: ["Established: 17th Century", "Pope: Paul V Borghese", "Feature: Water cascades", "Material: Travertine"],
+    },
+    image: "/poi-images/vatican-fountain-of-the-sacrament-pond-nature-v2.webp",
+},  {
     id: "vatican-our-lady-of-guadalupe-garden-nature-v2",
     type: "park",
-    name: { de: "Garten der Jungfrau von Guadalupe", hu: "Guadalupei Szűz kertje", ro: "Grădina Fecioarei de Guadalupe", en: "Our Lady of Guadalupe Garden" },
+    name: { de: "Garten der Jungfrau von Guadalupe", hu: "Guadalupei Szűz kertje", ro: "Grădina Fecioarei de Guadalupe", en: "Our Lady of Guadalupe Garden",
+image: "/poi-images/vatican-our-lady-of-guadalupe-garden-nature-v2.webp"
+},
     coords: [12.449, 41.9045],
     coordinates: { lat: 41.9045, lng: 12.449 },
     description: {
@@ -362,11 +633,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Dedicată Mexicului", "Flori colorate", "Statuie de grădină", "Loc de pelerinaj"],
       en: ["Mexican dedication", "Colorful flowers", "Garden statue", "Pilgrimage spot"],
     },
-    imageHint: "Guadalupe monument Vatican Gardens", image: "/poi-images/vatican-our-lady-of-guadalupe-garden-nature-v2.webp"},
-  {
+imageHint: "Guadalupe monument Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Dieser Garten ist der Schutzpatronin Amerikas gewidmet. Er enthält eine Mosaik-Reproduktion der Madonna von Guadalupe, ein Geschenk der mexikanischen Gläubigen.",
+      hu: "Ez a kert Amerika védőszentjének van szentelve. A mexikói hívők ajándékaként egy mozaik Guadalupe-i Madonnát állítottak fel a zöldövezetben.",
+      ro: "Această grădină este dedicată patroanei Americii. Conține o reproducere în mozaic a Madonei de Guadalupe, un dar din partea credincioșilor mexicani.",
+      en: "This garden is dedicated to the patroness of the Americas. It features a mosaic reproduction of Our Lady of Guadalupe, a gift from the Mexican faithful.",
+    },
+    factsAdvanced: {
+      de: ["Thema: Marianische Verehrung", "Kunstwerk: Mosaikbild", "Herkunft: Geschenk aus Mexiko", "Lage: Nahe äthiop. Kolleg"],
+      hu: ["Téma: Mária-tisztelet", "Műalkotás: Mozaikkép", "Eredet: Mexikói ajándék", "Helyszín: Etióp Kollégium mellett"],
+      ro: ["Temă: Venerarea mariană", "Operă: Mozaic artistic", "Origine: Cadou din Mexic", "Locație: Lângă Colegiul Etiopian"],
+      en: ["Theme: Marian devotion", "Artwork: Mosaic image", "Origin: Gift from Mexico", "Location: Near Ethiopian College"],
+    },
+    image: "/poi-images/vatican-our-lady-of-guadalupe-garden-nature-v2.webp",
+},  {
     id: "vatican-st-martha-house-garden-nature-v2",
     type: "park",
-    name: { de: "Garten am Gästehaus Santa Marta", hu: "Szent Márta-ház kertje", ro: "Grădina Casei Sfânta Marta", en: "St. Martha's House Garden" },
+    name: { de: "Garten am Gästehaus Santa Marta", hu: "Szent Márta-ház kertje", ro: "Grădina Casei Sfânta Marta", en: "St. Martha's House Garden",
+image: "/poi-images/vatican-st-martha-house-garden-nature-v2.webp"
+},
     coords: [12.453, 41.9015],
     coordinates: { lat: 41.9015, lng: 12.453 },
     description: {
@@ -381,11 +667,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Reședință papală", "Grădină simplă", "Peluză ornamentală", "Marginea sudică"],
       en: ["Papal residence", "Simple garden", "Ornamental lawn", "Southern Vatican"],
     },
-    imageHint: "Santa Marta garden area Vatican", image: "/poi-images/vatican-st-martha-house-garden-nature-v2.webp"},
-  {
+imageHint: "Santa Marta garden area Vatican",
+    descriptionAdvanced: {
+      de: "Die Gärten um das Gästehaus Domus Sanctae Marthae sind funktional und schlicht gehalten. Seit 2013 ist dies der primäre Wohnort von Papst Franziskus.",
+      hu: "A Domus Sanctae Marthae vendégház körüli kertek funkcionálisak és szerények. 2013 óta ez Ferenc pápa elsődleges lakhelye a Vatikánon belül.",
+      ro: "Grădinile din jurul casei de oaspeți Domus Sanctae Marthae sunt funcționale și simple. Din 2013, acesta este locul principal de reședință al Papei Francisc.",
+      en: "The gardens surrounding the Domus Sanctae Marthae guest house are functional and modest. Since 2013, it has served as the primary residence of Pope Francis.",
+    },
+    factsAdvanced: {
+      de: ["Gebäude: Domus S. Marthae", "Papst: Franziskus", "Einzug: März 2013", "Stil: Modern-zweckmäßig"],
+      hu: ["Épület: Domus S. Marthae", "Pápa: Ferenc", "Beköltözés: 2013. március", "Stílus: Modern-egyszerű"],
+      ro: ["Clădire: Domus S. Marthae", "Papă: Francisc", "Mutare: Martie 2013", "Stil: Modern-funcțional"],
+      en: ["Building: Domus S. Marthae", "Pope: Francis", "Moved in: March 2013", "Style: Modern-functional"],
+    },
+    image: "/poi-images/vatican-st-martha-house-garden-nature-v2.webp",
+},  {
     id: "vatican-belvedere-slopes-nature-v2",
     type: "park",
-    name: { de: "Belvedere-Hänge", hu: "Belvedere-lejtők", ro: "Versanții Belvedere", en: "Belvedere Slopes" },
+    name: { de: "Belvedere-Hänge", hu: "Belvedere-lejtők", ro: "Versanții Belvedere", en: "Belvedere Slopes",
+image: "/poi-images/vatican-belvedere-slopes-nature-v2.webp"
+},
     coords: [12.4545, 41.9055],
     coordinates: { lat: 41.9055, lng: 12.4545 },
     description: {
@@ -400,11 +701,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Terasare", "Lângă muzeu", "Arbuști ornamentali", "Pod peisagistic"],
       en: ["Terracing", "Near museums", "Ornamental shrubs", "Landscape bridge"],
     },
-    imageHint: "Sloping gardens near Vatican Museums", image: "/poi-images/vatican-belvedere-slopes-nature-v2.webp"},
-  {
+imageHint: "Sloping gardens near Vatican Museums",
+    descriptionAdvanced: {
+      de: "Die Belvedere-Hänge verbinden die päpstlichen Paläste mit den Gärten. Die terrassierte Anlage bietet spektakuläre Durchblicke auf die Kuppel des Petersdoms.",
+      hu: "A Belvedere-lankák összekötik a pápai palotákat a kertekkel. A teraszos kialakítás látványos betekintést nyújt a Szent Péter-bazilika kupolájára.",
+      ro: "Pantele Belvedere fac legătura între palatele papale și grădini. Amenajarea în terase oferă perspective spectaculoase spre cupola Bazilicii Sfântul Petru.",
+      en: "The Belvedere Slopes connect the papal palaces with the gardens. This terraced landscape offers spectacular sightlines toward St. Peter's Basilica dome.",
+    },
+    factsAdvanced: {
+      de: ["Konzept: Terrassengarten", "Sichtachse: Petersdom", "Höhenunterschied: ca. 20m", "Elemente: Balustraden"],
+      hu: ["Koncepció: Teraszos kert", "Látvány: Szent Péter-bazilika", "Szintkülönbség: kb. 20 m", "Elemek: Balusztrádok"],
+      ro: ["Concept: Grădină terasată", "Axă vizuală: Bazilica Sf. Petru", "Diferență nivel: cca. 20m", "Elemente: Balustrade"],
+      en: ["Concept: Terraced garden", "Sightline: St. Peter's Dome", "Elevation change: approx. 20m", "Elements: Balustrades"],
+    },
+    image: "/poi-images/vatican-belvedere-slopes-nature-v2.webp",
+},  {
     id: "vatican-governor-palace-gardens-nature-v2",
     type: "park",
-    name: { de: "Gärten des Gouverneurspalastes", hu: "Kormányzói Palota kertjei", ro: "Grădinile Palatului Guvernatorului", en: "Governor's Palace Gardens" },
+    name: { de: "Gärten des Gouverneurspalastes", hu: "Kormányzói Palota kertjei", ro: "Grădinile Palatului Guvernatorului", en: "Governor's Palace Gardens",
+image: "/poi-images/vatican-governor-palace-gardens-nature-v2.webp"
+},
     coords: [12.4515, 41.9018],
     coordinates: { lat: 41.9018, lng: 12.4515 },
     description: {
@@ -419,11 +735,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Grădină oficială", "Îngrijire intensivă", "Flori ornamentale", "Centrul Vaticanului"],
       en: ["Official garden", "Intensive care", "Ornamental flowers", "Vatican center"],
     },
-    imageHint: "Gardens in front of Governor Palace Vatican", image: "/poi-images/vatican-governor-palace-gardens-nature-v2.webp"},
-  {
+imageHint: "Gardens in front of Governor Palace Vatican",
+    descriptionAdvanced: {
+      de: "Die Gärten vor dem Sitz des Gouverneurs sind im französischen Stil mit präzisen geometrischen Buchsbaumhecken und saisonalen Blumenrabatten angelegt.",
+      hu: "A kormányzói palota előtti kertek francia stílusúak, precíz geometrikus puszpángsövényekkel és szezonális virágágyásokkal díszítve.",
+      ro: "Grădinile din fața sediului Guvernatorului sunt amenajate în stil francez, cu garduri vii geometrice din cimișir și straturi de flori sezoniere.",
+      en: "The gardens in front of the Governor's Palace are designed in the French style, featuring precise geometric boxwood hedges and seasonal flowerbeds.",
+    },
+    factsAdvanced: {
+      de: ["Stil: Französisches Parterre", "Hecken: Buchsbaum (Buxus)", "Lage: Zentraler Bereich", "Baujahr Palast: 1927-1931"],
+      hu: ["Stílus: Francia parterre", "Sövények: Puszpáng (Buxus)", "Elhelyezkedés: Központi rész", "Palota építése: 1927-1931"],
+      ro: ["Stil: Parter francez", "Gard viu: Cimișir (Buxus)", "Locație: Zona centrală", "Palat construit: 1927-1931"],
+      en: ["Style: French parterre", "Hedges: Boxwood (Buxus)", "Location: Central area", "Palace built: 1927-1931"],
+    },
+    image: "/poi-images/vatican-governor-palace-gardens-nature-v2.webp",
+},  {
     id: "vatican-vatican-heliport-green-nature-v2",
     type: "park",
-    name: { de: "Grünanlage am Heliport", hu: "Heliport zöldövezete", ro: "Zona verde a heliportului", en: "Vatican Heliport Green" },
+    name: { de: "Grünanlage am Heliport", hu: "Heliport zöldövezete", ro: "Zona verde a heliportului", en: "Vatican Heliport Green",
+image: "/poi-images/vatican-vatican-heliport-green-nature-v2.webp"
+},
     coords: [12.4455, 41.902],
     coordinates: { lat: 41.902, lng: 12.4455 },
     description: {
@@ -439,11 +770,25 @@ export const vaticanNatureV2: POI[] = [
       en: ["Westernmost point", "Lawn area", "Screening trees", "Functional park"],
     },
     imageHint: "Green fields near Vatican heliport",
+    descriptionAdvanced: {
+      de: "Der vatikanische Heliport wurde 1976 von Papst Paul VI. eingeweiht. Die umliegende Grünfläche dient als Pufferzone und Landeplatz für internationale Gäste.",
+      hu: "A vatikáni helikopter-leszállót 1976-ban VI. Pál pápa avatta fel. A környező zöldterület pufferzónaként és a nemzetközi vendégek fogadóhelyeként szolgál.",
+      ro: "Heliportul Vaticanului a fost inaugurat în 1976 de Papa Paul al VI-lea. Zona verde din jur servește drept zonă tampon și loc de aterizare pentru oaspeți.",
+      en: "The Vatican Heliport was inaugurated in 1976 by Pope Paul VI. The surrounding greenery acts as a buffer zone and a landing site for visiting world leaders.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung: 1976", "Papst: Paul VI.", "Nutzung: Pastorale Reisen", "Lage: Westliche Gartenecke"],
+      hu: ["Felavatás: 1976", "Pápa: VI. Pál", "Használat: Pápai utazások", "Helyszín: Nyugati kertrész"],
+      ro: ["Inaugurare: 1976", "Papă: Paul al VI-lea", "Utilizare: Călătorii pastorale", "Locație: Colțul de vest"],
+      en: ["Inaugurated: 1976", "Pope: Paul VI", "Usage: Pastoral journeys", "Location: Western garden corner"],
+    },
   },
   {
     id: "vatican-japanese-garden-section-nature-v2",
     type: "park",
-    name: { de: "Japanischer Gartenabschnitt", hu: "Japán kertrészlet", ro: "Secțiunea grădinii japoneze", en: "Japanese Garden Section" },
+    name: { de: "Japanischer Gartenabschnitt", hu: "Japán kertrészlet", ro: "Secțiunea grădinii japoneze", en: "Japanese Garden Section",
+image: "/poi-images/vatican-japanese-garden-section-nature-v2.webp"
+},
     coords: [12.4482, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4482 },
     description: {
@@ -458,12 +803,27 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Plante de bambus", "Elemente Zen", "Intercultural", "Design precis"],
       en: ["Bamboo plants", "Zen elements", "Intercultural", "Precise design"],
     },
-    imageHint: "Bamboo and stones Vatican Gardens", image: "/poi-images/vatican-japanese-garden-section-nature-v2.webp"}
-,
+imageHint: "Bamboo and stones Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Dieser Bereich wurde als Zeichen der Freundschaft mit Japan gestaltet. Er folgt der Zen-Ästhetik mit minimalistischen Elementen aus Stein und Wasser.",
+      hu: "Ezt a kertrészt a Japánnal való barátság jegyében alakították ki. A zen esztétikát követi, minimalista kő- és vízelemekkel teremtve meg a békét.",
+      ro: "Această secțiune a fost amenajată ca semn al prieteniei cu Japonia. Urmează estetica Zen, cu elemente minimaliste din piatră și apă.",
+      en: "This section was created as a symbol of friendship with Japan. It adheres to Zen aesthetics, featuring minimalist arrangements of stone and water.",
+    },
+    factsAdvanced: {
+      de: ["Stil: Zen-Garten", "Elemente: Stein und Kies", "Konzept: Meditation", "Besonderheit: Harmonie"],
+      hu: ["Stílus: Zen kert", "Elemek: Kő és kavics", "Koncepció: Meditáció", "Jellemző: Harmónia"],
+      ro: ["Stil: Grădină Zen", "Elemente: Piatră și pietriș", "Concept: Meditație", "Caracteristică: Armonie"],
+      en: ["Style: Zen garden", "Elements: Stone and gravel", "Concept: Meditation", "Feature: Visual harmony"],
+    },
+    image: "/poi-images/vatican-japanese-garden-section-nature-v2.webp",
+},
   {
     id: "vatican-oak-grove-nature-v2",
     type: "forest",
-    name: { de: "Vatikanischer Eichenhain", hu: "Vatikáni tölgyfaliget", ro: "Crângul de stejari din Vatican", en: "Vatican Oak Grove" },
+    name: { de: "Vatikanischer Eichenhain", hu: "Vatikáni tölgyfaliget", ro: "Crângul de stejari din Vatican", en: "Vatican Oak Grove",
+image: "/poi-images/vatican-oak-grove-nature-v2.webp"
+},
     coordinates: { lat: 41.9015, lng: 12.4485 },
     description: {
       de: "Der Vatikanische Eichenhain beherbergt mehrere alte Exemplare der Steineiche, die den ursprünglichen Mittelmeerwald repräsentieren. Diese Bäume bieten Schatten und Lebensraum für lokale Vögel in den Gärten.",
@@ -478,11 +838,25 @@ export const vaticanNatureV2: POI[] = [
       en: ["Contains trees over 200 years old.", "The predominant species is the Holm Oak.", "Located on the western slope of the hill.", "Maintains a microclimate cooler than the city."],
     },
     imageHint: "Ancient Holm Oak grove in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der Eichenhain besteht aus einheimischen Steineichen und Flaumeichen. Er ist ein Überrest der ursprünglichen Bewaldung des Vatikanischen Hügels.",
+      hu: "A tölgyfaliget őshonos magyaltölgyekből és molyhos tölgyekből áll. Ez a terület a Vatikáni-domb eredeti erdőborítottságának egyik utolsó maradványa.",
+      ro: "Dumbrăvile de stejari sunt compuse din stejari de stâncă și stejari pufoși. Reprezintă o rămășiță a vegetației originale a Dealului Vatican.",
+      en: "The oak grove is comprised of native holm oaks and downy oaks. It represents a remnant of the original forest cover of the Vatican Hill.",
+    },
+    factsAdvanced: {
+      de: ["Arten: Quercus ilex / pubescens", "Status: Primärer Waldrest", "Bedeutung: Ökologisches Erbe", "Tierwelt: Eichhörnchen, Vögel"],
+      hu: ["Fajok: Quercus ilex / pubescens", "Státusz: Őshonos erdőmaradvány", "Jelentőség: Ökológiai örökség", "Vadvilág: Mókusok, madarak"],
+      ro: ["Specii: Quercus ilex / pubescens", "Statut: Rămășiță forestieră", "Semnificație: Patrimoniu eco", "Faună: Veverițe, păsări"],
+      en: ["Species: Quercus ilex / pubescens", "Status: Original forest remnant", "Significance: Ecological heritage", "Wildlife: Squirrels, birds"],
+    },
   },
   {
     id: "vatican-bamboo-collection-nature-v2",
     type: "park",
-    name: { de: "Vatikanische Bambussammlung", hu: "Vatikáni bambuszgyűjtemény", ro: "Colecția de bambus din Vatican", en: "Vatican Bamboo Collection" },
+    name: { de: "Vatikanische Bambussammlung", hu: "Vatikáni bambuszgyűjtemény", ro: "Colecția de bambus din Vatican", en: "Vatican Bamboo Collection",
+image: "/poi-images/vatican-bamboo-collection-nature-v2.webp"
+},
     coordinates: { lat: 41.903, lng: 12.4505 },
     description: {
       de: "Ein spezieller Bereich der Gärten mit verschiedenen Bambusarten aus Ostasien. Diese dichte, immergrüne Zone bildet einen einzigartigen akustischen und visuellen Schutz in der Nähe des Vatikansenders.",
@@ -496,11 +870,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Include diverse specii de Phyllostachys.", "Acționează ca o barieră naturală împotriva zgomotului.", "Necesită irigare constantă pe timpul verii.", "Atinge înălțimi de peste 10 metri."],
       en: ["Includes various species of Phyllostachys.", "Acts as a natural noise barrier.", "Requires constant irrigation in summer.", "Reaches heights of over 10 meters."],
     },
-    imageHint: "Dense green bamboo forest path Vatican", image: "/poi-images/vatican-bamboo-collection-nature-v2.webp"},
-  {
+imageHint: "Dense green bamboo forest path Vatican",
+    descriptionAdvanced: {
+      de: "Die Bambussammlung dient als natürlicher Sichtschutz und verleiht dem Garten eine exotische Note. Die Pflanzen gedeihen im feuchten Mikroklima des Hügels.",
+      hu: "A bambuszgyűjtemény természetes térelválasztóként szolgál és egzotikus hangulatot áraszt. A növények kiválóan fejlődnek a domb nedvesebb mikroklímájában.",
+      ro: "Colecția de bambus servește drept paravan natural și conferă grădinii o notă exotică. Plantele se dezvoltă în microclimatul umed al colinei.",
+      en: "The bamboo collection serves as a natural screen and adds an exotic flair to the garden. These plants thrive in the hill's humid microclimate.",
+    },
+    factsAdvanced: {
+      de: ["Wuchsrate: Sehr schnell", "Funktion: Sichtschutz", "Herkunft: Ostasien", "Pflege: Ausbreitungskontrolle"],
+      hu: ["Növekedés: Nagyon gyors", "Funkció: Térelválasztó", "Származás: Kelet-Ázsia", "Gondozás: Terjedés-kontroll"],
+      ro: ["Creștere: Foarte rapidă", "Funcție: Paravan vizual", "Origine: Asia de Est", "Îngrijire: Controlul extinderii"],
+      en: ["Growth rate: Very rapid", "Function: Visual privacy", "Origin: East Asia", "Maintenance: Spread control"],
+    },
+    image: "/poi-images/vatican-bamboo-collection-nature-v2.webp",
+},  {
     id: "vatican-exotic-greenery-nature-v2",
     type: "park",
-    name: { de: "Exotisches Grün am Gewächshaus", hu: "Üvegházi egzotikus növényzet", ro: "Vegetația exotică de lângă seră", en: "Vatican Exotic Greenery" },
+    name: { de: "Exotisches Grün am Gewächshaus", hu: "Üvegházi egzotikus növényzet", ro: "Vegetația exotică de lângă seră", en: "Vatican Exotic Greenery",
+image: "/poi-images/vatican-exotic-greenery-nature-v2.webp"
+},
     coordinates: { lat: 41.9025, lng: 12.4515 },
     description: {
       de: "Dieser Bereich um die vatikanischen Gewächshäuser beherbergt nicht heimische Arten, die an das römische Klima angepasst sind. Er dient als Akklimatisierungszone für tropische und subtropische Pflanzen.",
@@ -514,11 +903,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Situat în apropierea Zidului Leonin.", "Prezintă floră rară din America de Sud.", "Gestionat de botaniști specializați ai Vaticanului.", "Include diverși hibrizi de suculente și palmieri."],
       en: ["Located near the Leonine Wall.", "Features rare South American flora.", "Managed by the Vatican's specialized botanists.", "Includes diverse succulent and palm hybrids."],
     },
-    imageHint: "Tropical plants outside Vatican greenhouse", image: "/poi-images/vatican-exotic-greenery-nature-v2.webp"},
-  {
+imageHint: "Tropical plants outside Vatican greenhouse",
+    descriptionAdvanced: {
+      de: "Dieser Bereich versammelt Pflanzen aus aller Welt, die oft von Nuntien oder Staatsgästen mitgebracht wurden. Er symbolisiert die Universalität der Kirche.",
+      hu: "Ez a rész a világ minden tájáról származó növényeket tömöríti, melyeket nunciusok vagy vendégek hoztak. Az egyház egyetemlegességét szimbolizálja.",
+      ro: "Această zonă reunește plante din întreaga lume, aduse adesea de nunții apostolici sau oaspeți. Simbolizează universalitatea Bisericii.",
+      en: "This area aggregates plants from across the globe, often brought by Nuncios or state guests. It symbolizes the universal nature of the Church.",
+    },
+    factsAdvanced: {
+      de: ["Herkunft: Alle Kontinente", "Symbolik: Universalität", "Vielfalt: Tropisch bis Arid", "Herkunft: Diplomat. Geschenke"],
+      hu: ["Származás: Összes kontinens", "Szimbolika: Egyetemlegesség", "Választék: Trópusi és arid", "Eredet: Diplomáciai ajándékok"],
+      ro: ["Origine: Toate continentele", "Simbolism: Universalitate", "Diversitate: Tropic - Arid", "Sursă: Cadouri diplomatice"],
+      en: ["Origin: All continents", "Symbolism: Universality", "Diversity: Tropical to arid", "Source: Diplomatic gifts"],
+    },
+    image: "/poi-images/vatican-exotic-greenery-nature-v2.webp",
+},  {
     id: "vatican-aromatic-garden-nature-v2",
     type: "park",
-    name: { de: "Aromatischer Garten", hu: "Aromás kert", ro: "Grădina aromatică", en: "Vatican Aromatic Garden" },
+    name: { de: "Aromatischer Garten", hu: "Aromás kert", ro: "Grădina aromatică", en: "Vatican Aromatic Garden",
+image: "/poi-images/vatican-aromatic-garden-nature-v2.webp"
+},
     coordinates: { lat: 41.902, lng: 12.449 },
     description: {
       de: "Ein spezieller Raum für aromatische Kräuter und Heilpflanzen, die historisch im Vatikan verwendet wurden. Der Garten zeigt Lavendel, Rosmarin und Thymian in geometrischen Mustern.",
@@ -532,11 +936,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Bazat pe designul grădinilor mănăstirești medievale.", "Atrage polenizatori precum albinele și fluturii.", "Întreținut fără pesticide sintetice.", "Recoltat în scopuri liturgice și culinare."],
       en: ["Based on medieval monastic garden designs.", "Attracts pollinators like honeybees and butterflies.", "Maintained without synthetic pesticides.", "Harvested for liturgical and culinary purposes."],
     },
-    imageHint: "Symmetrical lavender and rosemary herb garden", image: "/poi-images/vatican-aromatic-garden-nature-v2.webp"},
-  {
+imageHint: "Symmetrical lavender and rosemary herb garden",
+    descriptionAdvanced: {
+      de: "Der Duftgarten beherbergt Kräuter wie Lavendel, Rosmarin und Thymian. Er regt die Sinne an und erinnert an die klösterliche Tradition der Heilkräutergärten.",
+      hu: "Az illatos kert olyan gyógynövényeknek ad otthont, mint a levendula, rozmaring és kakukkfű. Felidézi a gyógynövénykertek szerzetesi hagyományait.",
+      ro: "Grădina aromatică adăpostește ierburi precum lavanda, rozmarinul și cimbrul. Stimulează simțurile și amintește de tradiția monastică a grădinilor de leac.",
+      en: "The aromatic garden features herbs like lavender, rosemary, and thyme. It stimulates the senses and reflects the monastic tradition of medicinal gardens.",
+    },
+    factsAdvanced: {
+      de: ["Pflanzen: Lavendel, Rosmarin", "Zweck: Sensorik und Kulinarik", "Tradition: Klösterliche Gärten", "Boden: Kalkhaltig-locker"],
+      hu: ["Növények: Levendula, rozmaring", "Cél: Érzékszervi és konyhai", "Hagyomány: Szerzetesi kertek", "Talaj: Meszes-laza"],
+      ro: ["Plante: Lavandă, rozmarin", "Scop: Senzorial și culinar", "Tradiție: Grădini mănăstirești", "Sol: Calcaros și drenat"],
+      en: ["Plants: Lavender, rosemary", "Purpose: Sensory and culinary", "Tradition: Monastic gardens", "Soil: Calcareous and loose"],
+    },
+    image: "/poi-images/vatican-aromatic-garden-nature-v2.webp",
+},  {
     id: "vatican-fern-valley-nature-v2",
     type: "valley",
-    name: { de: "Farntal", hu: "Páfrány-völgy", ro: "Valea ferigilor", en: "Vatican Fern Valley" },
+    name: { de: "Farntal", hu: "Páfrány-völgy", ro: "Valea ferigilor", en: "Vatican Fern Valley",
+image: "/poi-images/vatican-fern-valley-nature-v2.webp"
+},
     coordinates: { lat: 41.9035, lng: 12.4495 },
     description: {
       de: "Ein schattiger, feuchter Mikro-Lebensraum in einer natürlichen Senke des Vatikanischen Hügels. Er beherbergt eine Vielzahl von Farnen, die in feuchten Bedingungen gedeihen.",
@@ -550,11 +969,26 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Prezintă specii de ferigi native din Italia.", "Răcit prin evaporare naturală.", "Include mai multe tipuri de mușchi.", "Protejat de lumina directă a soarelui mediteranean."],
       en: ["Features native Italian fern species.", "Cooled by natural evaporation.", "Includes several types of moss and liverworts.", "Protected from direct Mediterranean sunlight."],
     },
-    imageHint: "Green ferns and moss in shaded garden area", image: "/poi-images/vatican-fern-valley-nature-v2.webp"},
-  {
+imageHint: "Green ferns and moss in shaded garden area",
+    descriptionAdvanced: {
+      de: "Das Farntal liegt in einem feuchten, schattigen Graben des Vatikans. Die urzeitlich anmutenden Pflanzen profitieren von der konstant hohen Luftfeuchtigkeit.",
+      hu: "A páfrányvölgy egy nedves, árnyékos árokban található. Az ősi megjelenésű növények profitálnak a folyamatosan magas páratartalomból és a hűvösből.",
+      ro: "Valea ferigilor este situată într-o zonă umbrită și umedă. Plantele cu aspect preistoric beneficiază de umiditatea constantă și de răcoarea locului.",
+      en: "The fern valley is nestled in a damp, shaded hollow. These prehistoric-looking plants thrive due to the consistent humidity and protection from wind.",
+    },
+    factsAdvanced: {
+      de: ["Klima: Kühl und feucht", "Pflanzentyp: Sporenpflanzen", "Lage: Geländevertiefung", "Besonderheit: Schattenliebend"],
+      hu: ["Klíma: Hűvös és nedves", "Növénytípus: Harasztok", "Helyszín: Mélyedés a terepen", "Jellemző: Árnyékkedvelő"],
+      ro: ["Climat: Răcoros și umed", "Tip plante: Ferigi", "Locație: Depresiune naturală", "Caracteristică: Iubitoare de umbră"],
+      en: ["Climate: Cool and humid", "Plant type: Pteridophytes", "Location: Natural depression", "Feature: Shade-loving species"],
+    },
+    image: "/poi-images/vatican-fern-valley-nature-v2.webp",
+},  {
     id: "vatican-mediterranean-maquis-nature-v2",
     type: "wildlife",
-    name: { de: "Mediterrane Macchia", hu: "Mediterrán macchia", ro: "Makiul mediteranean", en: "Vatican Mediterranean Maquis" },
+    name: { de: "Mediterrane Macchia", hu: "Mediterrán macchia", ro: "Makiul mediteranean", en: "Vatican Mediterranean Maquis",
+image: "/poi-images/vatican-mediterranean-maquis-nature-v2.webp"
+},
     coordinates: { lat: 41.901, lng: 12.45 },
     description: {
       de: "Ein Bereich in den Gärten, der die typische Strauchlandschaft der Region Latium zeigt. Er besteht aus dichten Gebüschen immergrüner Sträucher, die an trockene Sommer angepasst sind.",
@@ -569,5 +1003,17 @@ export const vaticanNatureV2: POI[] = [
       en: ["Includes myrtle, laurel, and arbutus.", "Provides essential cover for Vatican wildlife.", "Requires minimal intervention and watering.", "Represented as a wild contrast to formal lawns."],
     },
     imageHint: "Mediterranean wild shrubland with myrtle",
+    descriptionAdvanced: {
+      de: "Die Macchia-Zone präsentiert die typische Strauchvegetation Mittelitaliens. Sie ist pflegeleicht und an die heißen, trockenen Sommer Roms perfekt angepasst.",
+      hu: "A maquis-zóna Közép-Itália tipikus bozótos vegetációját mutatja be. Alacsony igényű és tökéletesen alkalmazkodott Róma forró, száraz nyaraihoz.",
+      ro: "Zona de maquis prezintă vegetația tipică de tufărișuri din centrul Italiei. Este rezistentă și perfect adaptată verilor fierbinți și uscate ale Romei.",
+      en: "The Mediterranean Maquis section showcases the typical scrubland vegetation of central Italy, perfectly adapted to Rome's hot and dry summers.",
+    },
+    factsAdvanced: {
+      de: ["Pflanzen: Myrte, Mastixstrauch", "Anpassung: Dürreresistent", "Ökoregion: Mittelmeerraum", "Pflege: Minimaler Schnitt"],
+      hu: ["Növények: Mirtusz, pisztácia", "Alkalmazkodás: Szárazságtűrő", "Ökorégió: Mediterrán", "Gondozás: Minimális metszés"],
+      ro: ["Plante: Mirt, mastic", "Adaptare: Rezistent la secetă", "Ecoregiune: Mediteraneană", "Îngrijire: Tăieri minime"],
+      en: ["Plants: Myrtle, mastic shrub", "Adaptation: Drought-resistant", "Eco-region: Mediterranean", "Maintenance: Minimal pruning"],
+    },
   }
 ];

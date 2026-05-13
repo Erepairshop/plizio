@@ -6,7 +6,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MM-05",
     coords: [96.0614, 21.8922],
-    name: { de: "U-Bein-Brücke", hu: "U Bein-híd", ro: "Podul U Bein", en: "U Bein Bridge" },
+    name: { de: "U-Bein-Brücke", hu: "U Bein-híd", ro: "Podul U Bein", en: "U Bein Bridge",
+image: "/poi-images/myanmar-u-bein-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Die längste und älteste Teakholzbrücke der Welt, die den Taungthaman-See in der Nähe von Amarapura überspannt.",
       hu: "A világ leghosszabb és legrégebbi tíkfa hídja, amely a Taungthaman-tavat szeli át Amarapura közelében.",
@@ -24,7 +26,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-17",
     coords: [96.9167, 20.5500],
-    name: { de: "Schwimmende Gärten des Inle-Sees", hu: "Inle-tó úszó kertjei", ro: "Grădinile plutitoare de pe lacul Inle", en: "Inle Lake Floating Gardens" },
+    name: { de: "Schwimmende Gärten des Inle-Sees", hu: "Inle-tó úszó kertjei", ro: "Grădinile plutitoare de pe lacul Inle", en: "Inle Lake Floating Gardens",
+image: "/poi-images/myanmar-inle-floating-gardens-landmarks-v2.webp"
+},
     description: {
       de: "Einzigartige landwirtschaftliche Flächen auf dem Inle-See, wo Bauern Tomaten und anderes Gemüse auf schwimmenden Inseln anbauen.",
       hu: "Egyedülálló mezőgazdasági területek az Inle-tavon, ahol a gazdák paradicsomot és zöldségeket termesztenek az úszó szigeteken.",
@@ -42,7 +46,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MM-05",
     coords: [95.1740, 20.9168],
-    name: { de: "Popa Taungkalat", hu: "Popa Taungkalat", ro: "Popa Taungkalat", en: "Popa Taungkalat" },
+    name: { de: "Popa Taungkalat", hu: "Popa Taungkalat", ro: "Popa Taungkalat", en: "Popa Taungkalat",
+image: "/poi-images/myanmar-popa-taungkalat-landmarks-v2.webp"
+},
     description: {
       de: "Ein buddhistisches Kloster, das spektakulär auf der Spitze eines steilen vulkanischen Pfropfens thront.",
       hu: "Látványos buddhista kolostor, amely egy meredek vulkáni kúp tetején trónol.",
@@ -60,7 +66,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "monument",
     parent: "MM-17",
     coords: [96.8660, 22.3425],
-    name: { de: "Gokteik-Viadukt", hu: "Gokteik-viadukt", ro: "Viaductul Gokteik", en: "Gokteik Viaduct" },
+    name: { de: "Gokteik-Viadukt", hu: "Gokteik-viadukt", ro: "Viaductul Gokteik", en: "Gokteik Viaduct",
+image: "/poi-images/myanmar-gokteik-viaduct-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Eisenbahnbrücke aus der britischen Kolonialzeit, die eine tiefe Schlucht im Shan-Staat überquert.",
       hu: "Lenyűgöző brit gyarmati korszakbeli vasúti híd, amely egy mély szurdokot szel át a Shan államban.",
@@ -78,7 +86,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-17",
     coords: [96.6500, 20.9333],
-    name: { de: "Pindaya-Höhlen", hu: "Pindaya-barlangok", ro: "Peșterile Pindaya", en: "Pindaya Caves" },
+    name: { de: "Pindaya-Höhlen", hu: "Pindaya-barlangok", ro: "Peșterile Pindaya", en: "Pindaya Caves",
+image: "/poi-images/myanmar-pindaya-caves-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Pilgerziel, das ein ausgedehntes Kalksteinhöhlensystem umfasst, welches Tausende von Buddha-Statuen beherbergt.",
       hu: "Jelentős zarándokhely, amely egy kiterjedt mészkőbarlang-rendszert foglal magába, ahol több ezer Buddha-szobor található.",
@@ -96,7 +106,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "monument",
     parent: "MM-06",
     coords: [96.1633, 16.8115],
-    name: { de: "Chaukhtatgyi-Buddha", hu: "Chaukhtatgyi Buddha", ro: "Buddha Chaukhtatgyi", en: "Chaukhtatgyi Buddha" },
+    name: { de: "Chaukhtatgyi-Buddha", hu: "Chaukhtatgyi Buddha", ro: "Buddha Chaukhtatgyi", en: "Chaukhtatgyi Buddha",
+image: "/poi-images/myanmar-chaukhtatgyi-buddha-landmarks-v2.webp"
+},
     description: {
       de: "Ein Tempel in Yangon, der für seine riesige und detailreich verzierte liegende Buddha-Statue bekannt ist.",
       hu: "Jangoni templom, amely hatalmas és részletesen díszített fekvő Buddha-szobráról ismert.",
@@ -114,7 +126,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "monument",
     parent: "MM-01",
     coords: [95.2750, 22.0783],
-    name: { de: "Laykyun-Sekkya-Buddha", hu: "Laykyun Sekkya Buddha", ro: "Buddha Laykyun Sekkya", en: "Laykyun Sekkya Buddha" },
+    name: { de: "Laykyun-Sekkya-Buddha", hu: "Laykyun Sekkya Buddha", ro: "Buddha Laykyun Sekkya", en: "Laykyun Sekkya Buddha",
+image: "/poi-images/myanmar-laykyun-sekkya-landmarks-v2.webp"
+},
     description: {
       de: "Eine der höchsten Statuen der Welt, die einen stehenden Buddha in leuchtendem Gelb darstellt und die Landschaft von Monywa dominiert.",
       hu: "A világ egyik legmagasabb szobra, amely egy élénksárga, álló Buddhát ábrázol, és uralja Monywa tájképét.",
@@ -132,7 +146,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MM-01",
     coords: [95.1436, 22.0542],
-    name: { de: "Thanboddhay-Pagode", hu: "Thanboddhay-pagoda", ro: "Pagoda Thanboddhay", en: "Thanboddhay Pagoda" },
+    name: { de: "Thanboddhay-Pagode", hu: "Thanboddhay-pagoda", ro: "Pagoda Thanboddhay", en: "Thanboddhay Pagoda",
+image: "/poi-images/myanmar-thanboddhay-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Ein farbenfroher, unkonventioneller Tempelkomplex in Monywa, der mit über einer halben Million kleinen Buddha-Bildnissen geschmückt ist.",
       hu: "Színes, rendhagyó templomkomplexum Monywában, amelyet több mint félmillió apró Buddha-kép díszít.",
@@ -150,7 +166,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "icon",
     parent: "MM-06",
     coords: [96.1656, 16.7958],
-    name: { de: "Karaweik-Palast", hu: "Karaweik-palota", ro: "Palatul Karaweik", en: "Karaweik Palace" },
+    name: { de: "Karaweik-Palast", hu: "Karaweik-palota", ro: "Palatul Karaweik", en: "Karaweik Palace",
+image: "/poi-images/myanmar-karaweik-palace-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Betonstruktur in Form von zwei mythologischen Vögeln auf dem Kandawgyi-See, die als Veranstaltungsort dient.",
       hu: "Jellegzetes betonépítmény két mitológiai madár formájában a Kandawgyi-tavon, amely rendezvényhelyszínként szolgál.",
@@ -168,7 +186,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-16",
     coords: [94.3167, 18.3833],
-    name: { de: "Ngapali-Strand", hu: "Ngapali-part", ro: "Plaja Ngapali", en: "Ngapali Beach" },
+    name: { de: "Ngapali-Strand", hu: "Ngapali-part", ro: "Plaja Ngapali", en: "Ngapali Beach",
+image: "/poi-images/myanmar-ngapali-beach-landmarks-v2.webp"
+},
     description: {
       de: "Myanmars bekanntester Strand, berühmt für seinen unberührten weißen Sand und das kristallklare Wasser des Golfs von Bengalen.",
       hu: "Mianmar leghíresebb strandja, amely érintetlen fehér homokjáról és a Bengáli-öböl kristálytiszta vizéről híres.",
@@ -187,7 +207,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "icon",
     parent: "MM-03",
     coords: [97.6361, 16.8286],
-    name: { de: "Kyauk-Ka-Lat-Pagode", hu: "Kyauk Ka Lat-pagoda", ro: "Pagoda Kyauk Ka Lat", en: "Kyauk Ka Lat Pagoda" },
+    name: { de: "Kyauk-Ka-Lat-Pagode", hu: "Kyauk Ka Lat-pagoda", ro: "Pagoda Kyauk Ka Lat", en: "Kyauk Ka Lat Pagoda",
+image: "/poi-images/myanmar-kyauk-ka-lat-landmarks-v2.webp"
+},
     description: {
       de: "Eine winzige, goldene Pagode, die spektakulär auf der Spitze einer schmalen, steil aufragenden Kalksteinfelsnadel erbaut wurde.",
       hu: "Apró, aranyos pagoda, amely látványosan egy keskeny, meredek mészkősziklatű tetejére épült.",
@@ -205,7 +227,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-03",
     coords: [97.7167, 16.7333],
-    name: { de: "Saddan-Höhle", hu: "Saddan-barlang", ro: "Peștera Saddan", en: "Saddan Cave" },
+    name: { de: "Saddan-Höhle", hu: "Saddan-barlang", ro: "Peștera Saddan", en: "Saddan Cave",
+image: "/poi-images/myanmar-saddan-cave-landmarks-v2.webp"
+},
     description: {
       de: "Eine gewaltige Karsthöhle, die mit Buddha-Statuen gefüllt ist und deren Durchquerung zu einem versteckten See führt.",
       hu: "Hatalmas karsztbarlang, amely tele van Buddha-szobrokkal, és amelynek átszelése egy rejtett tóhoz vezet.",
@@ -223,7 +247,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MM-17",
     coords: [96.8889, 20.4653],
-    name: { de: "Phaung-Daw-Oo-Pagode", hu: "Phaung Daw Oo-pagoda", ro: "Pagoda Phaung Daw Oo", en: "Phaung Daw Oo Pagoda" },
+    name: { de: "Phaung-Daw-Oo-Pagode", hu: "Phaung Daw Oo-pagoda", ro: "Pagoda Phaung Daw Oo", en: "Phaung Daw Oo Pagoda",
+image: "/poi-images/myanmar-phaung-daw-oo-landmarks-v2.webp"
+},
     description: {
       de: "Das wichtigste Heiligtum am Inle-See, in dem sich fünf kleine Buddha-Statuen befinden, die bis zur Unkenntlichkeit mit Blattgold bedeckt sind.",
       hu: "Az Inle-tó legfontosabb szentélye, ahol öt apró Buddha-szobor található, amelyeket a felismerhetetlenségig beborítottak aranyfüsttel.",
@@ -241,7 +267,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-06",
     coords: [96.1603, 16.7733],
-    name: { de: "Maha-Bandula-Park", hu: "Maha Bandula Park", ro: "Parcul Maha Bandula", en: "Maha Bandula Park" },
+    name: { de: "Maha-Bandula-Park", hu: "Maha Bandula Park", ro: "Parcul Maha Bandula", en: "Maha Bandula Park",
+image: "/poi-images/myanmar-maha-bandula-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein öffentlicher Park im Zentrum von Yangon, der von kolonialen Gebäuden umgeben ist und nach einem berühmten burmesischen General benannt wurde.",
       hu: "Közpark Jangon központjában, amelyet gyarmati épületek vesznek körül, és egy híres burmai tábornokról nevezték el.",
@@ -259,7 +287,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "monument",
     parent: "MM-06",
     coords: [96.1606, 16.7731],
-    name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi Emlékmű", ro: "Monumentul Independenței", en: "Independence Monument" },
+    name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi Emlékmű", ro: "Monumentul Independenței", en: "Independence Monument",
+image: "/poi-images/myanmar-independence-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein hoher, weißer Obelisk in Yangon, der an die Unabhängigkeit Myanmars von der britischen Herrschaft im Jahr 1948 erinnert.",
       hu: "Magas, fehér obeliszk Jangonban, amely Mianmar brit uralom alóli 1948-as függetlenedésének állít emléket.",
@@ -277,7 +307,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-06",
     coords: [96.1644, 16.7944],
-    name: { de: "Kandawgyi-See", hu: "Kandawgyi-tó", ro: "Lacul Kandawgyi", en: "Kandawgyi Lake" },
+    name: { de: "Kandawgyi-See", hu: "Kandawgyi-tó", ro: "Lacul Kandawgyi", en: "Kandawgyi Lake",
+image: "/poi-images/myanmar-kandawgyi-lake-landmarks-v2.webp"
+},
     description: {
       de: "Ein großer künstlicher See in Yangon, der zur britischen Kolonialzeit als Wasserreservoir angelegt wurde und heute ein Naherholungsgebiet ist.",
       hu: "Nagy mesterséges tó Jangonban, amelyet a brit gyarmati időszakban víztározóként hoztak létre, és ma rekreációs terület.",
@@ -295,7 +327,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MM-14",
     coords: [97.6258, 16.4817],
-    name: { de: "Kyaik-Than-Lan-Pagode", hu: "Kyaik Than Lan-pagoda", ro: "Pagoda Kyaik Than Lan", en: "Kyaik Than Lan Pagoda" },
+    name: { de: "Kyaik-Than-Lan-Pagode", hu: "Kyaik Than Lan-pagoda", ro: "Pagoda Kyaik Than Lan", en: "Kyaik Than Lan Pagoda",
+image: "/poi-images/myanmar-kyaik-than-lan-landmarks-v2.webp"
+},
     description: {
       de: "Die höchste Pagode in Mawlamyine, die einen herrlichen Blick über die Stadt und den Fluss Thanlwin bietet.",
       hu: "A legmagasabb pagoda Mawlamyine-ben, amely csodálatos kilátást nyújt a városra és a Thanlwin folyóra.",
@@ -313,7 +347,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-05",
     coords: [96.6111, 22.0222],
-    name: { de: "Peik-Chin-Myaung-Höhle", hu: "Peik Chin Myaung-barlang", ro: "Peștera Peik Chin Myaung", en: "Peik Chin Myaung Cave" },
+    name: { de: "Peik-Chin-Myaung-Höhle", hu: "Peik Chin Myaung-barlang", ro: "Peștera Peik Chin Myaung", en: "Peik Chin Myaung Cave",
+image: "/poi-images/myanmar-peik-chin-myaung-landmarks-v2.webp"
+},
     description: {
       de: "Eine tiefe Kalksteinhöhle in der Nähe von Pyin U Lwin, die zahlreiche Buddha-Statuen und Miniaturpagoden beherbergt.",
       hu: "Mély mészkőbarlang Pyin U Lwin közelében, amely számos Buddha-szobornak és miniatűr pagodának ad otthont.",
@@ -331,7 +367,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MM-02",
     coords: [97.2081, 19.6739],
-    name: { de: "Taung-Kwe-Pagode", hu: "Taung Kwe-pagoda", ro: "Pagoda Taung Kwe", en: "Taung Kwe Pagoda" },
+    name: { de: "Taung-Kwe-Pagode", hu: "Taung Kwe-pagoda", ro: "Pagoda Taung Kwe", en: "Taung Kwe Pagoda",
+image: "/poi-images/myanmar-taung-kwe-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Das Wahrzeichen von Loikaw, bestehend aus mehreren goldenen Stupas, die auf schroffen Kalksteingipfeln verteilt sind.",
       hu: "Loikaw nevezetessége, amely több arany sztúpából áll, amelyek meredek mészkőcsúcsokon helyezkednek el.",
@@ -349,7 +387,9 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "MM-05",
     coords: [96.5333, 21.9833],
-    name: { de: "Dattawgyaik-Wasserfall", hu: "Dattawgyaik-vízesés", ro: "Cascada Dattawgyaik", en: "Dattawgyaik Waterfall" },
+    name: { de: "Dattawgyaik-Wasserfall", hu: "Dattawgyaik-vízesés", ro: "Cascada Dattawgyaik", en: "Dattawgyaik Waterfall",
+image: "/poi-images/myanmar-dattawgyaik-waterfall-landmarks-v2.webp"
+},
     description: {
       de: "Ein beeindruckender, mehrstufiger Wasserfall in der Nähe von Pyin U Lwin, der in ein kühles, klares Becken stürzt.",
       hu: "Lenyűgöző, többlépcsős vízesés Pyin U Lwin közelében, amely egy hűvös, tiszta medencébe zuhan.",

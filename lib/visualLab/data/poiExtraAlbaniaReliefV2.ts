@@ -4,7 +4,9 @@ export const albaniaReliefV2: POI[] = [
   {
     id: "albania-maja-e-jezerces-relief-v2",
     type: "peak",
-    name: { de: "Jezerca-Spitze", hu: "Jezerca-csúcs", ro: "Vârful Jezercë", en: "Maja Jezercë" },
+    name: { de: "Jezerca-Spitze", hu: "Jezerca-csúcs", ro: "Vârful Jezercë", en: "Maja Jezercë",
+image: "/poi-images/albania-maja-e-jezerces-relief-v2.webp"
+},
     coords: [19.8189, 42.4411],
     coordinates: { lat: 42.4411, lng: 19.8189 },
     description: {
@@ -19,11 +21,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf din Alpii Dinari", "Înălțime de 2694 metri deasupra mării", "Găzduiește câțiva ghețari mici", "Punctul central al masivului Prokletije"],
       en: ["Highest peak of the Dinaric Alps", "Elevation of 2694 meters above sea level", "Home to several small glaciers", "Central point of the Prokletije massif"],
     },
-    imageHint: "Maja Jezerce peak Albanian Alps", image: "/poi-images/albania-maja-e-jezerces-relief-v2.webp"},
-  {
+imageHint: "Maja Jezerce peak Albanian Alps",
+    descriptionAdvanced: {
+      de: "Der Maja Jezercë ist mit 2694 Metern der höchste Gipfel der Albanischen Alpen. Er liegt im Prokletije-Massiv und ist bekannt für seine schroffen Kalksteinfelsen und Gletscherreste.",
+      hu: "A Maja Jezercë 2694 méteres magasságával az Albán-Alpok legmagasabb pontja. A Prokletije-hegység központjában található, meredek mészkőfalak és gleccsernyomok jellemzik.",
+      ro: "Maja Jezercë este cel mai înalt vârf din Alpii Albanezi, având 2694 metri. Situat în masivul Prokletije, acesta impresionează prin pereții de calcar și resturile de ghețari.",
+      en: "Maja Jezercë is the highest peak in the Albanian Alps, reaching 2694 meters. Located in the Prokletije range, it is known for its rugged limestone cliffs and glacial remnants.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2694 Meter", "Teil des Prokletije-Massivs", "Höchster Berg der Dinariden", "Nördlichstes Albanien"],
+      hu: ["Magasság: 2694 méter", "A Prokletije-hegység része", "A Dinári-Alpok legmagasabbja", "Észak-Albániában fekszik"],
+      ro: ["Înălțime: 2694 metri", "Parte a masivului Prokletije", "Cel mai înalt vârf din Dinarici", "Situat în nordul Albaniei"],
+      en: ["Elevation: 2694 meters", "Part of the Prokletije range", "Highest peak of the Dinaric Alps", "Located in Northern Albania"],
+    },
+    image: "/poi-images/albania-maja-e-jezerces-relief-v2.webp",
+},  {
     id: "albania-maja-e-cikes-relief-v2",
     type: "peak",
-    name: { de: "Maja e Çikës", hu: "Çika-csúcs", ro: "Vârful Çika", en: "Maja e Çikës" },
+    name: { de: "Maja e Çikës", hu: "Çika-csúcs", ro: "Vârful Çika", en: "Maja e Çikës",
+image: "/poi-images/albania-maja-e-cikes-relief-v2.webp"
+},
     coords: [19.6406, 40.1983],
     coordinates: { lat: 40.1983, lng: 19.6406 },
     description: {
@@ -38,11 +55,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al munților de coastă Mali i Kanalit", "Înălțime de 2045 metri chiar lângă mare", "Oferă vedere spre insula Corfu", "Habitat pentru pinul de munte rar"],
       en: ["Highest point of the Mali i Kanalit coastal range", "Elevation of 2045 meters directly by the sea", "Offers views of Corfu island", "Habitat for the rare Bosnian pine"],
     },
-    imageHint: "Maja e Cikes mountain Ionian sea coast", image: "/poi-images/albania-maja-e-cikes-relief-v2.webp"},
-  {
+imageHint: "Maja e Cikes mountain Ionian sea coast",
+    descriptionAdvanced: {
+      de: "Die Maja e Çikës ist mit 2044 Metern der höchste Gipfel des Ceraunischen Gebirges. Er ragt direkt über dem Ionischen Meer auf und bietet einen spektakulären Blick auf die Küste.",
+      hu: "A Maja e Çikës a Ceraunian-hegység legmagasabb pontja a maga 2044 méterével. Közvetlenül a Jón-tenger felett magasodik, lenyűgöző kilátást nyújtva a riviérára.",
+      ro: "Maja e Çikës este cel mai înalt vârf din Munții Ceraunieni, atingând 2044 metri. Se ridică direct deasupra Mării Ionice, oferind o panoramă spectaculoasă a coastei.",
+      en: "Maja e Çikës is the highest peak of the Ceraunian Mountains at 2044 meters. It rises directly above the Ionian Sea, offering spectacular views of the Albanian Riviera.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2044 Meter", "Teil des Ceraunischen Gebirges", "Nahe dem Llogara-Pass", "Blick auf Korfu möglich"],
+      hu: ["Magasság: 2044 méter", "A Ceraunian-hegység része", "Llogara-hágó közelében", "Korfu szigete is látható"],
+      ro: ["Înălțime: 2044 metri", "Munții Ceraunieni", "Lângă pasul Llogara", "Vedere spre insula Corfu"],
+      en: ["Elevation: 2044 meters", "Ceraunian Range", "Near Llogara Pass", "Views of Corfu island"],
+    },
+    image: "/poi-images/albania-maja-e-cikes-relief-v2.webp",
+},  {
     id: "albania-myzeqe-plain-relief-v2",
     type: "landmark",
-    name: { de: "Myzeqe-Ebene", hu: "Myzeqe-alföld", ro: "Câmpia Myzeqe", en: "Myzeqe Plain" },
+    name: { de: "Myzeqe-Ebene", hu: "Myzeqe-alföld", ro: "Câmpia Myzeqe", en: "Myzeqe Plain",
+image: "/poi-images/albania-myzeqe-plain-relief-v2.webp"
+},
     coords: [19.6, 40.9],
     coordinates: { lat: 40.9, lng: 19.6 },
     description: {
@@ -57,11 +89,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cea mai mare zonă de câmpie din țară", "Fost teren mlăștinos", "Delimitată de râurile Shkumbin, Seman și Vjosa", "Cel mai important grânar al Albaniei"],
       en: ["Largest lowland area in the country", "Formerly marshy terrain", "Bounded by the Shkumbin, Seman, and Vjosa rivers", "Most important breadbasket of Albania"],
     },
-    imageHint: "Myzeqe Plain Albania aerial view", image: "/poi-images/albania-myzeqe-plain-relief-v2.webp"},
-  {
+imageHint: "Myzeqe Plain Albania aerial view",
+    descriptionAdvanced: {
+      de: "Die Myzeqe-Ebene ist die größte Schwemmlandebene Albaniens und erstreckt sich entlang der Adriaküste. Sie ist das wichtigste landwirtschaftliche Zentrum des Landes.",
+      hu: "A Myzeqe-alföld Albánia legnagyobb hordaléksíksága, amely az Adriai-tenger partján húzódik. Az ország legfontosabb mezőgazdasági területének számít.",
+      ro: "Câmpia Myzeqe este cea mai mare câmpie aluvionară din Albania, întinzându-se de-a lungul coastei Adriatice. Reprezintă principalul pol agricol al țării.",
+      en: "The Myzeqe Plain is the largest alluvial plain in Albania, stretching along the Adriatic coast. It serves as the country's primary agricultural heartland.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1350 km²", "Zwischen Shkumbin und Seman", "Wichtiges Anbaugebiet", "Früher Sumpfland"],
+      hu: ["Terület: kb. 1350 km²", "Shkumbin és Seman közt", "Fő mezőgazdasági régió", "Korábban mocsaras volt"],
+      ro: ["Suprafață: cca. 1350 km²", "Între râurile Shkumbin și Seman", "Zonă agricolă majoră", "Fostă zonă mlăștinoasă"],
+      en: ["Area: approx. 1350 km²", "Between Shkumbin and Seman", "Main farming region", "Formerly swampland"],
+    },
+    image: "/poi-images/albania-myzeqe-plain-relief-v2.webp",
+},  {
     id: "albania-mali-i-gramosit-relief-v2",
     type: "mountain",
-    name: { de: "Gramos-Gebirge", hu: "Gramos-hegység", ro: "Munții Gramos", en: "Mount Gramos" },
+    name: { de: "Gramos-Gebirge", hu: "Gramos-hegység", ro: "Munții Gramos", en: "Mount Gramos",
+image: "/poi-images/albania-mali-i-gramosit-relief-v2.webp"
+},
     coords: [20.8, 40.3333],
     coordinates: { lat: 40.3333, lng: 20.8 },
     description: {
@@ -76,11 +123,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Maja e Çukapeçit (2520 m)", "Formează granița naturală cu Grecia", "Zona de izvoare a râului Osum", "Format din depozite de fliș paleogen"],
       en: ["Highest peak is Maja e Çukapeçit (2520 m)", "Forms the natural border with Greece", "Source area of the Osum river", "Composed of Paleogene flysch deposits"],
     },
-    imageHint: "Mount Gramos Albania border mountains", image: "/poi-images/albania-mali-i-gramosit-relief-v2.webp"},
-  {
+imageHint: "Mount Gramos Albania border mountains",
+    descriptionAdvanced: {
+      de: "Der Gramos ist ein massives Grenzgebirge zwischen Albanien und Griechenland. Sein höchster Gipfel erreicht 2520 Meter und war historisch Schauplatz strategischer Kämpfe.",
+      hu: "A Gramos-hegység egy masszív hegyvonulat Albánia és Görögország határán. Legmagasabb csúcsa 2520 méter, történelmileg fontos stratégiai helyszín volt.",
+      ro: "Muntele Gramos este un masiv de frontieră între Albania și Grecia. Vârful său cel mai înalt atinge 2520 metri și a fost scena unor lupte strategice istorice.",
+      en: "Mount Gramos is a massive mountain range on the border between Albania and Greece. Its highest peak reaches 2520 meters and was historically a strategic site.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2520 Meter", "Grenzgebirge zu Griechenland", "Teil des Pindos-Gebirges", "Buchen- und Kiefernwälder"],
+      hu: ["Magasság: 2520 méter", "Görög határhegység", "A Pindosz-hegység része", "Bükk- és fenyőerdők"],
+      ro: ["Înălțime: 2520 metri", "Granița cu Grecia", "Parte a munților Pind", "Păduri de fag și pin"],
+      en: ["Elevation: 2520 meters", "Border with Greece", "Part of Pindus Range", "Beech and pine forests"],
+    },
+    image: "/poi-images/albania-mali-i-gramosit-relief-v2.webp",
+},  {
     id: "albania-nemercka-range-relief-v2",
     type: "mountain",
-    name: { de: "Nemërçka-Gebirge", hu: "Nemërçka-hegység", ro: "Munții Nemërçka", en: "Nemërçka Range" },
+    name: { de: "Nemërçka-Gebirge", hu: "Nemërçka-hegység", ro: "Munții Nemërçka", en: "Nemërçka Range",
+image: "/poi-images/albania-nemercka-range-relief-v2.webp"
+},
     coords: [20.4167, 40.1167],
     coordinates: { lat: 40.1167, lng: 20.4167 },
     description: {
@@ -95,11 +157,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Maja e Papingut (2485 m)", "Unul dintre cei mai abrupți pereți muntoși din Balcani", "Aparține munților din sudul Albaniei", "Zonă importantă de pășunat pentru oi vara"],
       en: ["Highest peak is Maja e Papingut (2485 m)", "One of the steepest mountain walls in the Balkans", "Part of the southern Albanian mountain range", "Important summer grazing area for sheep"],
     },
-    imageHint: "Nemercka mountain range Albania Vjosa valley", image: "/poi-images/albania-nemercka-range-relief-v2.webp"},
-  {
+imageHint: "Nemercka mountain range Albania Vjosa valley",
+    descriptionAdvanced: {
+      de: "Die Nemërçka-Kette zeichnet sich durch ihre steilen Kalksteinwände aus, die über dem Vjosa-Tal thronen. Der höchste Punkt, Maja e Papingut, erreicht 2485 Meter.",
+      hu: "A Nemërçka-hegység meredek mészkő falaival emelkedik a Vjosa-völgy fölé. Legmagasabb pontja, a Maja e Papingut, 2485 méter magas és igen látványos.",
+      ro: "Munții Nemërçka se remarcă prin pereții abrupți de calcar care domină valea râului Vjosa. Cel mai înalt punct, Maja e Papingut, atinge 2485 metri.",
+      en: "The Nemërçka Range is characterized by its steep limestone cliffs towering over the Vjosa Valley. Its highest point, Maja e Papingut, reaches 2485 meters.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2485 Meter", "Steile Ostwand", "Nahe der Stadt Përmet", "Alpines Ökosystem"],
+      hu: ["Magasság: 2485 méter", "Meredek keleti fal", "Përmet városa közelében", "Alpesi ökoszisztéma"],
+      ro: ["Înălțime: 2485 metri", "Perete estic abrupt", "Lângă orașul Përmet", "Ecosistem alpin"],
+      en: ["Elevation: 2485 meters", "Steep eastern face", "Near the town of Përmet", "Alpine ecosystem"],
+    },
+    image: "/poi-images/albania-nemercka-range-relief-v2.webp",
+},  {
     id: "albania-maja-e-gjallices-relief-v2",
     type: "peak",
-    name: { de: "Gjallica", hu: "Gjallica-csúcs", ro: "Vârful Gjallica", en: "Maja e Gjallicës" },
+    name: { de: "Gjallica", hu: "Gjallica-csúcs", ro: "Vârful Gjallica", en: "Maja e Gjallicës",
+image: "/poi-images/albania-maja-e-gjallices-relief-v2.webp"
+},
     coords: [20.413, 42.015],
     coordinates: { lat: 42.015, lng: 20.413 },
     description: {
@@ -114,11 +191,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Înălțime de 2487 metri", "Se înalță deasupra orașului Kukës", "Format din calcar mezozoic", "Face parte din lanțul Korab-Koritnik"],
       en: ["Elevation of 2487 meters", "Towers over the city of Kukës", "Composed of Mesozoic limestone", "Part of the Korab-Koritnik mountain chain"],
     },
-    imageHint: "Maja e Gjallices mountain Kukes Albania", image: "/poi-images/albania-maja-e-gjallices-relief-v2.webp"},
-  {
+imageHint: "Maja e Gjallices mountain Kukes Albania",
+    descriptionAdvanced: {
+      de: "Die Maja e Gjallicës überragt die Stadt Kukës im Nordosten Albaniens. Mit 2487 Metern ist sie der höchste Gipfel der Region und bietet eine weite Fernsicht.",
+      hu: "A Maja e Gjallicës Albánia északkeleti részén, Kukës városa fölé magasodik. 2487 méteres magasságával a régió legmagasabb csúcsa és kedvelt túracélpont.",
+      ro: "Maja e Gjallicës domină orașul Kukës din nord-estul Albaniei. Cu o înălțime de 2487 metri, este cel mai înalt vârf din regiune, oferind vederi panoramice vaste.",
+      en: "Maja e Gjallicës towers over the city of Kukës in northeastern Albania. At 2487 meters, it is the highest peak in the region and offers expansive views.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2487 Meter", "Nahe Kukës gelegen", "Teil des Korab-Massivs", "Schneebedeckt im Winter"],
+      hu: ["Magasság: 2487 méter", "Kukës közelében", "A Korab-masszívum része", "Télen hó fedi"],
+      ro: ["Înălțime: 2487 metri", "Lângă Kukës", "Parte a masivului Korab", "Acoperit de zăpadă iarna"],
+      en: ["Elevation: 2487 meters", "Located near Kukës", "Part of the Korab massif", "Snow-capped in winter"],
+    },
+    image: "/poi-images/albania-maja-e-gjallices-relief-v2.webp",
+},  {
     id: "albania-mali-i-shpiragut-relief-v2",
     type: "mountain",
-    name: { de: "Shpirag", hu: "Shpirag-hegy", ro: "Muntele Shpirag", en: "Mount Shpirag" },
+    name: { de: "Shpirag", hu: "Shpirag-hegy", ro: "Muntele Shpirag", en: "Mount Shpirag",
+image: "/poi-images/albania-mali-i-shpiragut-relief-v2.webp"
+},
     coords: [19.85, 40.716],
     coordinates: { lat: 40.716, lng: 19.85 },
     description: {
@@ -133,11 +225,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cunoscut pentru șanțurile adânci de eroziune", "Înălțime de 1198 metri", "Pandantivul masivului Tomorr în legenda locală", "Format din roci de fliș"],
       en: ["Known for deep erosion gullies", "Elevation of 1198 meters", "Counterpart to Mount Tomorr in local legends", "Composed of flysch rock"],
     },
-    imageHint: "Mount Shpirag Berat vertical ridges", image: "/poi-images/albania-mali-i-shpiragut-relief-v2.webp"},
-  {
+imageHint: "Mount Shpirag Berat vertical ridges",
+    descriptionAdvanced: {
+      de: "Der Berg Shpirag ist berühmt für seine einzigartigen vertikalen Erosionslinien, die wie Falten aussehen. Er liegt gegenüber der historischen Stadt Berat.",
+      hu: "A Shpirag-hegy egyedülálló, függőleges eróziós barázdáiról híres, amelyek ráncoknak tűnnek. Közvetlenül Berat történelmi városa mellett található.",
+      ro: "Muntele Shpirag este faimos pentru liniile sale de eroziune verticală unice, care seamănă cu niște pliuri. Este situat vizavi de orașul istoric Berat.",
+      en: "Mount Shpirag is famous for its unique vertical erosion lines that look like folds. It is located directly across from the historic city of Berat.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1198 Meter", "Einzigartige Erosionsmuster", "Nahe Berat gelegen", "Gegenüber dem Berg Tomorr"],
+      hu: ["Magasság: 1198 méter", "Egyedi eróziós minták", "Berat mellett", "A Tomorr-heggyel szemben"],
+      ro: ["Înălțime: 1198 metri", "Model de eroziune unic", "Lângă orașul Berat", "Vis-a-vis de muntele Tomorr"],
+      en: ["Elevation: 1198 meters", "Unique erosion patterns", "Located near Berat", "Opposite Mount Tomorr"],
+    },
+    image: "/poi-images/albania-mali-i-shpiragut-relief-v2.webp",
+},  {
     id: "albania-maja-e-valamares-relief-v2",
     type: "peak",
-    name: { de: "Valamara-Gipfel", hu: "Valamara-csúcs", ro: "Vârful Valamara", en: "Maja e Valamarës" },
+    name: { de: "Valamara-Gipfel", hu: "Valamara-csúcs", ro: "Vârful Valamara", en: "Maja e Valamarës",
+image: "/poi-images/albania-maja-e-valamares-relief-v2.webp"
+},
     coords: [20.465, 40.793],
     coordinates: { lat: 40.793, lng: 20.465 },
     description: {
@@ -152,11 +259,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al masivului Valamara", "Înălțime de 2373 metri", "Găzduiește mai multe lacuri glaciare mici", "Format din roci magmatice ultrabazice"],
       en: ["Highest point of the Valamara massif", "Elevation of 2373 meters", "Home to several small glacial lakes", "Composed of igneous ultrabasic rocks"],
     },
-    imageHint: "Maja e Valamares peak glacial lakes", image: "/poi-images/albania-maja-e-valamares-relief-v2.webp"},
-  {
+imageHint: "Maja e Valamares peak glacial lakes",
+    descriptionAdvanced: {
+      de: "Die Maja e Valamarës ist der höchste Punkt des Valamara-Massivs in Zentratalbanien. Sie markiert die Wasserscheide zwischen den Flüssen Shkumbin und Devoll.",
+      hu: "A Maja e Valamarës a Valamara-masszívum legmagasabb pontja Közép-Albániában. Itt található a Shkumbin és a Devoll folyók vízválasztója.",
+      ro: "Maja e Valamarës este cel mai înalt punct al masivului Valamara din centrul Albaniei. Marchează cumpăna apelor între râurile Shkumbin și Devoll.",
+      en: "Maja e Valamarës is the highest point of the Valamara massif in central Albania. It marks the drainage divide between the Shkumbin and Devoll rivers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2373 Meter", "Zentratalbanien", "Gletscherseen vorhanden", "Quelle des Shkumbin"],
+      hu: ["Magasság: 2373 méter", "Közép-Albánia", "Gleccsertavak a közelben", "A Shkumbin forrásvidéke"],
+      ro: ["Înălțime: 2373 metri", "Albania Centrală", "Lacuri glaciare prezente", "Izvorul râului Shkumbin"],
+      en: ["Elevation: 2373 meters", "Central Albania", "Glacial lakes present", "Source of Shkumbin river"],
+    },
+    image: "/poi-images/albania-maja-e-valamares-relief-v2.webp",
+},  {
     id: "albania-mali-i-munelles-relief-v2",
     type: "mountain",
-    name: { de: "Munella-Berg", hu: "Munella-hegy", ro: "Muntele Munella", en: "Munella Mountain" },
+    name: { de: "Munella-Berg", hu: "Munella-hegy", ro: "Muntele Munella", en: "Munella Mountain",
+image: "/poi-images/albania-mali-i-munelles-relief-v2.webp"
+},
     coords: [20.088, 42.025],
     coordinates: { lat: 42.025, lng: 20.088 },
     description: {
@@ -171,11 +293,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din regiunea Mirdita", "Înălțime de 1991 metri", "Ultimul refugiu pentru râsul balcanic", "Format dintr-un amestec de calcar și ofiolit"],
       en: ["Highest point in the Mirdita region", "Elevation of 1991 meters", "Last stronghold of the Balkan lynx", "Composed of a mix of limestone and ophiolite"],
     },
-    imageHint: "Munella mountain northern Albania", image: "/poi-images/albania-mali-i-munelles-relief-v2.webp"},
-  {
+imageHint: "Munella mountain northern Albania",
+    descriptionAdvanced: {
+      de: "Der Munella-Berg ist eines der wenigen Gebiete in Albanien, in denen der seltene Balkanluchs noch lebt. Er liegt in der nördlichen Region Mirditë.",
+      hu: "A Munella-hegy egyike azon kevés területeknek Albániában, ahol a ritka balkáni hiúz még él. Az északi Mirditë régióban található ez a vadregényes táj.",
+      ro: "Muntele Munella este una dintre puținele zone din Albania unde încă mai trăiește rarisimul râs balcanic. Este situat în regiunea nordică Mirditë.",
+      en: "Munella Mountain is one of the few areas in Albania where the rare Balkan lynx still lives. It is located in the northern Mirditë region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1991 Meter", "Heimat des Balkanluchses", "Region Mirditë", "Dichte Buchenwälder"],
+      hu: ["Magasság: 1991 méter", "Balkáni hiúz élőhelye", "Mirditë régió", "Sűrű bükkerdők"],
+      ro: ["Înălțime: 1991 metri", "Habitatul râsului balcanic", "Regiunea Mirditë", "Păduri dese de fag"],
+      en: ["Elevation: 1991 meters", "Balkan Lynx habitat", "Mirditë region", "Dense beech forests"],
+    },
+    image: "/poi-images/albania-mali-i-munelles-relief-v2.webp",
+},  {
     id: "albania-dumre-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Dumre-Plateau", hu: "Dumre-fennsík", ro: "Podișul Dumre", en: "Dumre Plateau" },
+    name: { de: "Dumre-Plateau", hu: "Dumre-fennsík", ro: "Podișul Dumre", en: "Dumre Plateau",
+image: "/poi-images/albania-dumre-plateau-relief-v2.webp"
+},
     coords: [19.9, 40.95],
     coordinates: { lat: 40.95, lng: 19.9 },
     description: {
@@ -190,11 +327,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Găzduiește 84 de lacuri carstice naturale", "Cel mai mare carst de gips din Balcani", "Înălțime medie de 150-200 m", "Faimos pentru orașul Belsh"],
       en: ["Home to 84 natural karst lakes", "Largest gypsum karst in the Balkans", "Average elevation of 150-200 m", "Famous for the town of Belsh"],
     },
-    imageHint: "Dumre Plateau karst lakes Albania aerial", image: "/poi-images/albania-dumre-plateau-relief-v2.webp"},
-  {
+imageHint: "Dumre Plateau karst lakes Albania aerial",
+    descriptionAdvanced: {
+      de: "Das Dumre-Plateau ist eine einzigartige Karstlandschaft in Mittelalbanien, die für ihre 84 natürlichen Seen bekannt ist. Es ist ein wichtiges Agrargebiet.",
+      hu: "A Dumre-fennsík egy egyedülálló karsztvidék Közép-Albániában, amely 84 természetes taváról ismert. Fontos mezőgazdasági és turisztikai terület.",
+      ro: "Podișul Dumre este un peisaj carstic unic în centrul Albaniei, renumit pentru cele 84 de lacuri naturale ale sale. Este o zonă agricolă importantă.",
+      en: "The Dumre Plateau is a unique karst landscape in central Albania, famous for its 84 natural lakes. It serves as an important agricultural area.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 215 km²", "84 Karstseen", "Nahe Elbasan", "Bekannt für Olivenhaine"],
+      hu: ["Terület: kb. 215 km²", "84 karszttó", "Elbasan közelében", "Olajfákról híres"],
+      ro: ["Suprafață: cca. 215 km²", "84 de lacuri carstice", "Lângă Elbasan", "Cunoscut pentru livezi de măslini"],
+      en: ["Area: approx. 215 km²", "84 karst lakes", "Near Elbasan", "Known for olive groves"],
+    },
+    image: "/poi-images/albania-dumre-plateau-relief-v2.webp",
+},  {
     id: "albania-maja-e-papingut-relief-v2",
     type: "peak",
-    name: { de: "Maja e Papingut", hu: "Papingut-csúcs", ro: "Vârful Papingut", en: "Maja e Papingut" },
+    name: { de: "Maja e Papingut", hu: "Papingut-csúcs", ro: "Vârful Papingut", en: "Maja e Papingut",
+image: "/poi-images/albania-maja-e-papingut-relief-v2.webp"
+},
     coords: [20.414, 40.125],
     coordinates: { lat: 40.125, lng: 20.414 },
     description: {
@@ -209,11 +361,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al masivului Nemërçka", "Înălțime de 2485 metri", "Structură calcaroasă dominantă", "Cădere directă spre valea Vjosa"],
       en: ["Highest point of the Nemërçka massif", "Elevation of 2485 meters", "Dominant limestone structure", "Direct drop to the Vjosa valley"],
     },
-    imageHint: "Maja e Papingut peak Nemercka Albania", image: "/poi-images/albania-maja-e-papingut-relief-v2.webp"},
-  {
+imageHint: "Maja e Papingut peak Nemercka Albania",
+    descriptionAdvanced: {
+      de: "Die Maja e Papingut ist mit 2485 Metern der höchste Gipfel der Nemërçka-Kette. Die beeindruckende Ostwand stürzt steil in das Tal der Vjosa ab.",
+      hu: "A Maja e Papingut a Nemërçka-hegység legmagasabb csúcsa a maga 2485 méterével. Lenyűgöző keleti fala meredeken szakad le a Vjosa-völgybe.",
+      ro: "Maja e Papingut este cel mai înalt vârf al munților Nemërçka, având 2485 metri. Peretele său estic spectaculos cade abrupt spre valea râului Vjosa.",
+      en: "Maja e Papingut is the highest peak of the Nemërçka range at 2485 meters. Its impressive eastern face drops steeply into the Vjosa river valley.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2485 Meter", "Höchster Punkt der Nemërçka", "Südalbanien", "Blick auf das Vjosa-Tal"],
+      hu: ["Magasság: 2485 méter", "A Nemërçka legmagasabbja", "Dél-Albánia", "Kilátás a Vjosa-völgyre"],
+      ro: ["Înălțime: 2485 metri", "Cel mai înalt din Nemërçka", "Sudul Albaniei", "Vedere spre Valea Vjosa"],
+      en: ["Elevation: 2485 meters", "Highest point of Nemërçka", "Southern Albania", "Views of Vjosa Valley"],
+    },
+    image: "/poi-images/albania-maja-e-papingut-relief-v2.webp",
+},  {
     id: "albania-mali-i-bardhe-relief-v2",
     type: "mountain",
-    name: { de: "Weiße Berge", hu: "Fehér-hegység", ro: "Muntele Alb", en: "White Mountain" },
+    name: { de: "Weiße Berge", hu: "Fehér-hegység", ro: "Muntele Alb", en: "White Mountain",
+image: "/poi-images/albania-mali-i-bardhe-relief-v2.webp"
+},
     coords: [20.2, 41.6],
     coordinates: { lat: 41.6, lng: 20.2 },
     description: {
@@ -228,11 +395,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Face parte din Parcul Natural Korab-Koritnik", "Compus din calcar alb și gips", "Situat lângă orașul Peshkopi", "Bogat în pășuni de mare altitudine"],
       en: ["Part of the Korab-Koritnik Nature Park", "Composed of white limestone and gypsum", "Located near the city of Peshkopi", "Rich in high-altitude pastures"],
     },
-    imageHint: "Mali i Bardhe mountain Albania limestone", image: "/poi-images/albania-mali-i-bardhe-relief-v2.webp"},
-  {
+imageHint: "Mali i Bardhe mountain Albania limestone",
+    descriptionAdvanced: {
+      de: "Mali i Bardhë, der 'Weiße Berg', ist ein markantes Kalksteinmassiv in Nordalbanien. Seine hellen Felsen heben sich deutlich von der Umgebung ab.",
+      hu: "Mali i Bardhë, azaz a 'Fehér-hegy', egy jellegzetes mészkőmasszívum Észak-Albániában. Világos sziklái éles kontrasztot alkotnak a környezettel.",
+      ro: "Mali i Bardhë, sau 'Muntele Alb', este un masiv de calcar proeminent din nordul Albaniei. Stâncile sale deschise la culoare ies în evidență în peisaj.",
+      en: "Mali i Bardhë, or the 'White Mountain', is a prominent limestone massif in northern Albania. Its light-colored rocks stand out against the landscape.",
+    },
+    factsAdvanced: {
+      de: ["Region: Pukë/Mirditë", "Kalksteinformationen", "Weiße Felswände", "Nordalbanien"],
+      hu: ["Régió: Pukë/Mirditë", "Mészkőformációk", "Fehér sziklafalak", "Észak-Albánia"],
+      ro: ["Regiune: Pukë/Mirditë", "Formațiuni de calcar", "Pereți de stâncă albă", "Nordul Albaniei"],
+      en: ["Region: Pukë/Mirditë", "Limestone formations", "White rock faces", "Northern Albania"],
+    },
+    image: "/poi-images/albania-mali-i-bardhe-relief-v2.webp",
+},  {
     id: "albania-mali-i-zi-relief-v2",
     type: "mountain",
-    name: { de: "Schwarze Berge", hu: "Fekete-hegység", ro: "Muntele Negru", en: "Black Mountain" },
+    name: { de: "Schwarze Berge", hu: "Fekete-hegység", ro: "Muntele Negru", en: "Black Mountain",
+image: "/poi-images/albania-mali-i-zi-relief-v2.webp"
+},
     coords: [20.3, 41.65],
     coordinates: { lat: 41.65, lng: 20.3 },
     description: {
@@ -247,11 +429,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Numele înseamnă 'Muntele Negru'", "Format în principal din ofiolit închis la culoare", "Zonă minieră importantă pentru crom", "Face parte din pânza de Mirdita"],
       en: ["Name means 'Black Mountain'", "Primarily composed of dark ophiolite", "Important mining area for chromium", "Part of the Mirdita nappe"],
     },
-    imageHint: "Mali i Zi mountain Albania dark rock", image: "/poi-images/albania-mali-i-zi-relief-v2.webp"},
-  {
+imageHint: "Mali i Zi mountain Albania dark rock",
+    descriptionAdvanced: {
+      de: "Mali i Zi, der 'Schwarze Berg', liegt im Nordosten bei Kukës. Er ist bekannt für sein dunkles Gestein und dichte Wälder, die ihm seinen Namen geben.",
+      hu: "A Mali i Zi, vagyis a 'Fekete-hegy', északkeleten, Kukës közelében található. Sötét kőzeteiről és sűrű erdőiről kapta a nevét, melyek komor képet festenek.",
+      ro: "Mali i Zi, sau 'Muntele Negru', este situat în nord-est, lângă Kukës. Este cunoscut pentru rocile sale întunecate și pădurile dese care îi dau numele.",
+      en: "Mali i Zi, or the 'Black Mountain', is located in the northeast near Kukës. It is known for its dark rocks and dense forests that give it its name.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Nordost-Albanien", "Nahe Kukës", "Dunkle Gesteinsart", "Reiche Vegetation"],
+      hu: ["Helyszín: Északkelet-Albánia", "Kukës közelében", "Sötét kőzetanyag", "Gazdag vegetáció"],
+      ro: ["Locație: NE Albaniei", "Lângă Kukës", "Roci de culoare închisă", "Vegetație bogată"],
+      en: ["Location: NE Albania", "Near Kukës", "Dark rock types", "Lush vegetation"],
+    },
+    image: "/poi-images/albania-mali-i-zi-relief-v2.webp",
+},  {
     id: "albania-zadrima-plain-relief-v2",
     type: "landmark",
-    name: { de: "Zadrima-Ebene", hu: "Zadrima-alföld", ro: "Câmpia Zadrima", en: "Zadrima Plain" },
+    name: { de: "Zadrima-Ebene", hu: "Zadrima-alföld", ro: "Câmpia Zadrima", en: "Zadrima Plain",
+image: "/poi-images/albania-zadrima-plain-relief-v2.webp"
+},
     coords: [19.65, 41.9],
     coordinates: { lat: 41.9, lng: 19.65 },
     description: {
@@ -266,11 +463,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Situată în bazinul cursului inferior al Drinului", "Zonă agricolă importantă în nord", "Cunoscută pentru vinul Kallmet", "Regiune cu importanță istorică"],
       en: ["Located in the lower Drin drainage basin", "Important northern agricultural area", "Famous for Kallmet wine", "Historically significant region of Zadrima"],
     },
-    imageHint: "Zadrima Plain Albania landscape", image: "/poi-images/albania-zadrima-plain-relief-v2.webp"},
-  {
+imageHint: "Zadrima Plain Albania landscape",
+    descriptionAdvanced: {
+      de: "Die Zadrima-Ebene ist eine fruchtbare Region zwischen Lezhë und Shkodër. Sie wird vom Drin-Fluss bewässert und ist historisch für ihre Handwerkskunst bekannt.",
+      hu: "A Zadrima-síkság egy termékeny vidék Lezhë és Shkodër között. A Drin folyó öntözi, és történelmileg híres népművészetéről és kézművességéről.",
+      ro: "Câmpia Zadrima este o regiune fertilă situată între Lezhë și Shkodër. Este traversată de râul Drin și este cunoscută istoric pentru meșteșugurile sale.",
+      en: "The Zadrima Plain is a fertile region located between Lezhë and Shkodër. Watered by the Drin river, it is historically known for its unique handicrafts.",
+    },
+    factsAdvanced: {
+      de: ["Region: Lezhë-Shkodër", "Fruchtbares Ackerland", "Drin-Flusstal", "Traditionelle Webkunst"],
+      hu: ["Régió: Lezhë-Shkodër", "Termékeny szántóföldek", "Drin-folyó völgye", "Hagyományos szövés"],
+      ro: ["Regiune: Lezhë-Shkodër", "Teren agricol fertil", "Valea râului Drin", "Țesătorie tradițională"],
+      en: ["Region: Lezhë-Shkodër", "Fertile farmland", "Drin river valley", "Traditional weaving"],
+    },
+    image: "/poi-images/albania-zadrima-plain-relief-v2.webp",
+},  {
     id: "albania-maja-e-radohimes-relief-v2",
     type: "peak",
-    name: { de: "Radohima-Gipfel", hu: "Radohima-csúcs", ro: "Vârful Radohima", en: "Maja e Radohimës" },
+    name: { de: "Radohima-Gipfel", hu: "Radohima-csúcs", ro: "Vârful Radohima", en: "Maja e Radohimës",
+image: "/poi-images/albania-maja-e-radohimes-relief-v2.webp"
+},
     coords: [19.728, 42.425],
     coordinates: { lat: 42.425, lng: 19.728 },
     description: {
@@ -285,11 +497,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Înălțime de 2570 metri", "Face parte din munții Prokletije", "Format din calcar triasic", "Destinație populară pentru alpiniști experimentați"],
       en: ["Elevation of 2570 meters", "Part of the Prokletije mountains", "Composed of Triassic limestone", "Popular destination for experienced mountaineers"],
     },
-    imageHint: "Maja e Radohimes peak Albanian Alps", image: "/poi-images/albania-maja-e-radohimes-relief-v2.webp"},
-  {
+imageHint: "Maja e Radohimes peak Albanian Alps",
+    descriptionAdvanced: {
+      de: "Die Maja e Radohimës ist ein 2570 Meter hoher Gipfel im Prokletije-Massiv. Er bietet einen der spektakulärsten Ausblicke über das Shala-Tal in Nordalbanien.",
+      hu: "A Maja e Radohimës egy 2570 méter magas csúcs a Prokletije-hegységben. Észak-Albánia egyik legszebb kilátását nyújtja a Shala-völgyre.",
+      ro: "Maja e Radohimës este un vârf de 2570 metri din masivul Prokletije. Oferă una dintre cele mai spectaculoase priveliști asupra văii Shala din nordul Albaniei.",
+      en: "Maja e Radohimës is a 2570-meter peak in the Prokletije range. It offers one of the most spectacular views over the Shala Valley in northern Albania.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2570 Meter", "Prokletije-Massiv", "Blick auf das Shala-Tal", "Karst-Gipfel"],
+      hu: ["Magasság: 2570 méter", "Prokletije-hegység", "Kilátás a Shala-völgyre", "Karsztos csúcs"],
+      ro: ["Înălțime: 2570 metri", "Masivul Prokletije", "Vedere spre Valea Shala", "Vârf carstic"],
+      en: ["Elevation: 2570 meters", "Prokletije Range", "Views of Shala Valley", "Karst peak"],
+    },
+    image: "/poi-images/albania-maja-e-radohimes-relief-v2.webp",
+},  {
     id: "albania-maja-e-hekurave-relief-v2",
     type: "peak",
-    name: { de: "Eisenberg", hu: "Hekurave-csúcs", ro: "Vârful Hekurave", en: "Maja e Hekurave" },
+    name: { de: "Eisenberg", hu: "Hekurave-csúcs", ro: "Vârful Hekurave", en: "Maja e Hekurave",
+image: "/poi-images/albania-maja-e-hekurave-relief-v2.webp"
+},
     coords: [19.9333, 42.4333],
     coordinates: { lat: 42.4333, lng: 19.9333 },
     description: {
@@ -304,11 +531,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Înălțime de 2561 metri", "Numele înseamnă 'Vârful Fierului'", "Caracterizat prin câmpuri de lapiezuri adânci", "Face parte din Parcul Național Valea Valbonei"],
       en: ["Elevation of 2561 meters", "Name means 'Peak of Irons'", "Characterized by deep limestone pavements", "Part of the Valbona Valley National Park"],
     },
-    imageHint: "Maja e Hekurave peak Albanian Alps", image: "/poi-images/albania-maja-e-hekurave-relief-v2.webp"},
-  {
+imageHint: "Maja e Hekurave peak Albanian Alps",
+    descriptionAdvanced: {
+      de: "Die Maja e Hekurave, der 'Eisengipfel', erreicht 2561 Meter in den Albanischen Alpen. Er ist bekannt für seine schroffen, dunklen Felswände oberhalb von Valbona.",
+      hu: "A Maja e Hekurave, vagyis a 'Vas-csúcs', 2561 méter magas az Albán-Alpokban. Valbona felett magasodó, sötét és meredek sziklafalairól ismert.",
+      ro: "Maja e Hekurave, 'Vârful de Fier', atinge 2561 metri în Alpii Albanezi. Este cunoscut pentru pereții săi de stâncă întunecați și abrupți de deasupra Valbonei.",
+      en: "Maja e Hekurave, the 'Iron Peak', reaches 2561 meters in the Albanian Alps. It is known for its rugged, dark rock faces towering above the Valbona Valley.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2561 Meter", "Name: Eisengipfel", "Region: Valbona", "Schroffe Topographie"],
+      hu: ["Magasság: 2561 méter", "Név: Vas-csúcs", "Valbona régió", "Meredek topográfia"],
+      ro: ["Înălțime: 2561 metri", "Nume: Vârful de Fier", "Regiunea Valbona", "Topografie abruptă"],
+      en: ["Elevation: 2561 meters", "Name: Iron Peak", "Valbona region", "Rugged topography"],
+    },
+    image: "/poi-images/albania-maja-e-hekurave-relief-v2.webp",
+},  {
     id: "albania-mali-i-krujes-relief-v2",
     type: "mountain",
-    name: { de: "Kruja-Berg", hu: "Kruja-hegy", ro: "Muntele Kruja", en: "Mount Kruja" },
+    name: { de: "Kruja-Berg", hu: "Kruja-hegy", ro: "Muntele Kruja", en: "Mount Kruja",
+image: "/poi-images/albania-mali-i-krujes-relief-v2.webp"
+},
     coords: [19.8, 41.51],
     coordinates: { lat: 41.51, lng: 19.8 },
     description: {
@@ -323,11 +565,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Înălțime de 1176 metri", "Cunoscut pentru peretele său stâncos proeminent", "Locația tekké-ului Sarisalltik", "Face parte din munții Skanderbeg"],
       en: ["Elevation of 1176 meters", "Known for its prominent cliff face", "Site of the Sarisalltik Bektashi shrine", "Part of the Skanderbeg mountain range"],
     },
-    imageHint: "Mount Kruja cliff Albania Sarisalltik", image: "/poi-images/albania-mali-i-krujes-relief-v2.webp"},
-  {
+imageHint: "Mount Kruja cliff Albania Sarisalltik",
+    descriptionAdvanced: {
+      de: "Der Berg Kruja überragt die historische Stadt und die Burg von Skanderbeg. Auf seinem Gipfel befindet sich die Bektaschi-Heilstätte Sari Salltik.",
+      hu: "A Kruja-hegy Kruja történelmi városa és Szkander bég vára fölé magasodik. Csúcsán található a Sari Salltik bektasi szentély és zarándokhely.",
+      ro: "Muntele Kruja domină orașul istoric și castelul lui Skanderbeg. Pe vârful său se află lăcașul de cult bektashi Sari Salltik, un important loc de pelerinaj.",
+      en: "Mount Kruja towers over the historic city and Skanderbeg's castle. Its summit hosts the Sari Salltik Bektashi sanctuary, a major pilgrimage site.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1176 Meter", "Heiligtum Sari Salltik", "Blick auf die Adria", "Nahe Kruja gelegen"],
+      hu: ["Magasság: 1176 méter", "Sari Salltik szentély", "Kilátás az Adriára", "Kruja mellett"],
+      ro: ["Înălțime: 1176 metri", "Sanctuarul Sari Salltik", "Vedere spre Adriatica", "Lângă orașul Kruja"],
+      en: ["Elevation: 1176 meters", "Sari Salltik sanctuary", "Views of the Adriatic", "Located near Kruja"],
+    },
+    image: "/poi-images/albania-mali-i-krujes-relief-v2.webp",
+},  {
     id: "albania-mali-i-shebenikut-relief-v2",
     type: "mountain",
-    name: { de: "Shebenik-Gebirge", hu: "Shebenik-hegység", ro: "Munții Shebenik", en: "Shebenik Mountain" },
+    name: { de: "Shebenik-Gebirge", hu: "Shebenik-hegység", ro: "Munții Shebenik", en: "Shebenik Mountain",
+image: "/poi-images/albania-mali-i-shebenikut-relief-v2.webp"
+},
     coords: [20.46, 41.21],
     coordinates: { lat: 41.21, lng: 20.46 },
     description: {
@@ -342,11 +599,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Maja e Shebenikut (2253 m)", "Conține 14 lacuri glaciare", "Parte a patrimoniului UNESCO pentru păduri de fag", "Format în principal din roci de ofiolit"],
       en: ["Highest peak is Maja e Shebenikut (2253 m)", "Contains 14 glacial lakes", "Part of the UNESCO World Heritage for beech forests", "Primarily composed of ophiolite rock"],
     },
-    imageHint: "Shebenik mountain Albania glacial lake", image: "/poi-images/albania-mali-i-shebenikut-relief-v2.webp"},
-  {
+imageHint: "Shebenik mountain Albania glacial lake",
+    descriptionAdvanced: {
+      de: "Der Shebenik-Berg ist Teil des gleichnamigen Nationalparks an der Grenze zu Nordmazedonien. Er ist bekannt für seine eiszeitlichen Seen und seltene Flora.",
+      hu: "A Shebenik-hegy az azonos nevű nemzeti park része az észak-macedón határon. Jégkorszaki tavairól és ritka növényvilágáról híres ez a védett terület.",
+      ro: "Muntele Shebenik face parte din parcul național cu același nume de la granița cu Macedonia de Nord. Este cunoscut pentru lacurile glaciare și flora rară.",
+      en: "Shebenik Mountain is part of the eponymous National Park on the border with North Macedonia. It is known for its glacial lakes and rare flora.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2261 Meter", "Nationalpark Shebenik", "14 Gletscherseen", "Grenzgebiet"],
+      hu: ["Magasság: 2261 méter", "Shebenik Nemzeti Park", "14 gleccsertó", "Határvidék"],
+      ro: ["Înălțime: 2261 metri", "Parcul Național Shebenik", "14 lacuri glaciare", "Zonă de frontieră"],
+      en: ["Elevation: 2261 meters", "Shebenik National Park", "14 glacial lakes", "Border area"],
+    },
+    image: "/poi-images/albania-mali-i-shebenikut-relief-v2.webp",
+},  {
     id: "albania-mali-i-jabllanices-relief-v2",
     type: "mountain",
-    name: { de: "Jabllanica", hu: "Jabllanica-hegység", ro: "Muntele Jabllanica", en: "Jabllanica Mountain" },
+    name: { de: "Jabllanica", hu: "Jabllanica-hegység", ro: "Muntele Jabllanica", en: "Jabllanica Mountain",
+image: "/poi-images/albania-mali-i-jabllanices-relief-v2.webp"
+},
     coords: [20.5, 41.28],
     coordinates: { lat: 41.28, lng: 20.5 },
     description: {
@@ -361,11 +633,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Piatra Neagră (2257 m)", "Parte a Centurii Verzi Europene", "Habitat important pentru ursul brun", "Se învecinează cu lacul Ohrid la sud"],
       en: ["Highest peak is Black Stone (2257 m)", "Part of the European Green Belt", "Important habitat for brown bears", "Borders Lake Ohrid to the south"],
     },
-    imageHint: "Jabllanica mountain Albania North Macedonia border", image: "/poi-images/albania-mali-i-jabllanices-relief-v2.webp"},
-  {
+imageHint: "Jabllanica mountain Albania North Macedonia border",
+    descriptionAdvanced: {
+      de: "Das Jabllanica-Gebirge bildet eine natürliche Grenze zwischen Albanien und Nordmazedonien. Es ist ein unberührtes Wandergebiet mit alpinen Wiesen.",
+      hu: "A Jabllanica-hegység természetes határt alkot Albánia és Észak-Macedónia között. Érintetlen túraútvonalai és alpesi rétjei miatt kedvelt a természetjárók körében.",
+      ro: "Munții Jabllanica formează o graniță naturală între Albania și Macedonia de Nord. Este o zonă de drumeție virgină, cu pajiști alpine vaste.",
+      en: "Jabllanica Mountain forms a natural border between Albania and North Macedonia. It is a pristine hiking area featuring vast alpine meadows.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2257 Meter", "Grenze zu Nordmazedonien", "Teil des Balkan-Grünen-Bandes", "Kalksteingebirge"],
+      hu: ["Magasság: 2257 méter", "Észak-macedón határ", "A Balkán Zöld Övezet része", "Mészkőhegység"],
+      ro: ["Înălțime: 2257 metri", "Granița cu Macedonia de Nord", "Parte a Centurii Verzi Balcanice", "Munți calcaroși"],
+      en: ["Elevation: 2257 meters", "North Macedonia border", "Part of Balkan Green Belt", "Limestone mountains"],
+    },
+    image: "/poi-images/albania-mali-i-jabllanices-relief-v2.webp",
+},  {
     id: "albania-maja-e-thate-relief-v2",
     type: "mountain",
-    name: { de: "Trockener Berg", hu: "Száraz-hegy", ro: "Muntele Uscat", en: "Maja e Thatë" },
+    name: { de: "Trockener Berg", hu: "Száraz-hegy", ro: "Muntele Uscat", en: "Maja e Thatë",
+image: "/poi-images/albania-maja-e-thate-relief-v2.webp"
+},
     coords: [20.84, 40.91],
     coordinates: { lat: 40.91, lng: 20.84 },
     description: {
@@ -380,11 +667,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Pllaja e Pusit (2287 m)", "Situat în Parcul Național Prespa", "Format din calcar carstic permeabil", "Separă bazinele Ohrid și Prespa"],
       en: ["Highest point is Pllaja e Pusit (2287 m)", "Located within the Prespa National Park", "Composed of permeable karst limestone", "Separates the Ohrid and Prespa basins"],
     },
-    imageHint: "Mali i Thate mountain Albania Prespa", image: "/poi-images/albania-maja-e-thate-relief-v2.webp"},
-  {
+imageHint: "Mali i Thate mountain Albania Prespa",
+    descriptionAdvanced: {
+      de: "Die Maja e Thatë, der 'Trockene Gipfel', liegt in den Albanischen Alpen bei Valbona. Er ist bekannt für seine steilen Wände und das Fehlen von Oberflächenwasser.",
+      hu: "A Maja e Thatë, azaz a 'Száraz-csúcs', az Albán-Alpokban található Valbona közelében. Meredek falairól és a felszíni víz hiányáról kapta a nevét.",
+      ro: "Maja e Thatë, 'Vârful Uscat', se află în Alpii Albanezi lângă Valbona. Este cunoscut pentru pereții săi abrupți și lipsa apei la suprafață din cauza carstului.",
+      en: "Maja e Thatë, or the 'Dry Peak', is located in the Albanian Alps near Valbona. It is known for its steep walls and the absence of surface water.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2406 Meter", "Region: Valbona", "Extremer Karst", "Keine Quellen am Gipfel"],
+      hu: ["Magasság: 2406 méter", "Valbona régió", "Extrém karsztvidék", "Nincsenek források a csúcson"],
+      ro: ["Înălțime: 2406 metri", "Regiunea Valbona", "Relief carstic extrem", "Fără izvoare pe vârf"],
+      en: ["Elevation: 2406 meters", "Valbona region", "Extreme karst", "No springs on the summit"],
+    },
+    image: "/poi-images/albania-maja-e-thate-relief-v2.webp",
+},  {
     id: "albania-gryka-e-kelcyres-relief-v2",
     type: "valley",
-    name: { de: "Këlcyra-Schlucht", hu: "Këlcyra-szoros", ro: "Cheile Këlcyra", en: "Këlcyra Gorge" },
+    name: { de: "Këlcyra-Schlucht", hu: "Këlcyra-szoros", ro: "Cheile Këlcyra", en: "Këlcyra Gorge",
+image: "/poi-images/albania-gryka-e-kelcyres-relief-v2.webp"
+},
     coords: [20.15, 40.31],
     coordinates: { lat: 40.31, lng: 20.15 },
     description: {
@@ -399,11 +701,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Vale de străpungere a râului Vjosa", "Lungime de aproximativ 13 km", "Separă munții Trebeshina și Dhëmbel", "Cunoscută pentru numeroasele izvoare carstice"],
       en: ["Breakthrough valley of the Vjosa river", "Length of approximately 13 km", "Separates Trebeshina and Dhëmbel mountains", "Known for numerous karst springs"],
     },
-    imageHint: "Kelcyra Gorge Vjosa river Albania", image: "/poi-images/albania-gryka-e-kelcyres-relief-v2.webp"},
-  {
+imageHint: "Kelcyra Gorge Vjosa river Albania",
+    descriptionAdvanced: {
+      de: "Die Këlcyra-Schlucht ist ein beeindruckendes Durchbruchstal, das der Fluss Vjosa in das Gebirge geschnitten hat. Sie gilt als eines der schönsten Flusstäler Albaniens.",
+      hu: "A Këlcyra-szurdok egy lenyűgöző áttöréses völgy, amelyet a Vjosa folyó vájt a hegységbe. Albánia egyik legszebb folyóvölgyeként tartják számon.",
+      ro: "Defileul Këlcyra este o vale de străpungere impresionantă, tăiată de râul Vjosa în munți. Este considerată una dintre cele mai frumoase văi fluviale din Albania.",
+      en: "The Këlcyra Gorge is an impressive breakthrough valley carved by the Vjosa River. It is considered one of the most beautiful river valleys in Albania.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 13 km", "Geformt von der Vjosa", "Nahe der Stadt Këlcyra", "Steile Felswände"],
+      hu: ["Hossz: kb. 13 km", "A Vjosa folyó formálta", "Këlcyra városa mellett", "Meredek sziklafalak"],
+      ro: ["Lungime: cca. 13 km", "Format de râul Vjosa", "Lângă orașul Këlcyra", "Pereți de stâncă abrupți"],
+      en: ["Length: approx. 13 km", "Carved by the Vjosa river", "Near Këlcyra town", "Steep rock faces"],
+    },
+    image: "/poi-images/albania-gryka-e-kelcyres-relief-v2.webp",
+},  {
     id: "albania-mali-i-moraves-relief-v2",
     type: "mountain",
-    name: { de: "Morava-Gebirge", hu: "Morava-hegység", ro: "Munții Morava", en: "Mount Morava" },
+    name: { de: "Morava-Gebirge", hu: "Morava-hegység", ro: "Munții Morava", en: "Mount Morava",
+image: "/poi-images/albania-mali-i-moraves-relief-v2.webp"
+},
     coords: [20.85, 40.58],
     coordinates: { lat: 40.58, lng: 20.85 },
     description: {
@@ -418,11 +735,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Maja e Badaroshit (2043 m)", "Muntele local al orașului Korça", "Format din calcar mezozoic", "Aici se află stațiunea de schi Bigëll"],
       en: ["Highest point is Maja e Badaroshit (2043 m)", "The landmark mountain of Korça city", "Composed of Mesozoic limestone", "Home to the Bigëll ski area"],
     },
-    imageHint: "Mount Morava Korca Albania winter", image: "/poi-images/albania-mali-i-moraves-relief-v2.webp"},
-  {
+imageHint: "Mount Morava Korca Albania winter",
+    descriptionAdvanced: {
+      de: "Der Berg Morava bildet die malerische Kulisse für die Stadt Korçë in Südostalbanien. Er ist dicht bewaldet und ein beliebtes Erholungsgebiet für Einheimische.",
+      hu: "A Morava-hegy Korçë városának festői hátterét alkotja Délkelet-Albániában. Sűrű erdők borítják, és a helyiek kedvelt kiránduló- és pihenőhelye.",
+      ro: "Muntele Morava constituie fundalul pitoresc al orașului Korçë din sud-estul Albaniei. Este dens împădurit și o zonă de recreere populară pentru localnici.",
+      en: "Mount Morava forms the scenic backdrop for the city of Korçë in southeastern Albania. It is densely forested and a popular recreational area for locals.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1806 Meter", "Hintergrund von Korçë", "Kiefern- und Buchenwälder", "Skigebiet im Winter"],
+      hu: ["Magasság: 1806 méter", "Korçë háttere", "Fenyő- és bükkerdők", "Téli síelési lehetőség"],
+      ro: ["Înălțime: 1806 metri", "Fundalul orașului Korçë", "Păduri de pin și fag", "Posibilități de schi iarna"],
+      en: ["Elevation: 1806 meters", "Backdrop of Korçë", "Pine and beech forests", "Skiing area in winter"],
+    },
+    image: "/poi-images/albania-mali-i-moraves-relief-v2.webp",
+},  {
     id: "albania-mali-i-gjere-relief-v2",
     type: "mountain",
-    name: { de: "Mali i Gjerë", hu: "Mali i Gjerë", ro: "Mali i Gjeră", en: "Mali i Gjerë" },
+    name: { de: "Mali i Gjerë", hu: "Mali i Gjerë", ro: "Mali i Gjeră", en: "Mali i Gjerë",
+image: "/poi-images/albania-mali-i-gjere-relief-v2.webp"
+},
     coords: [20.1, 40.0],
     coordinates: { lat: 40.0, lng: 20.1 },
     description: {
@@ -437,11 +769,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Maja e Buzăbredhit (1789 m)", "Alimentează izvorul Syri i Kaltër", "Carst extrem fără râuri de suprafață", "Se înalță deasupra văii Drino"],
       en: ["Highest point is Maja e Buzëbredhit (1789 m)", "Feeds the Syri i Kaltër spring", "Extreme karst with no surface rivers", "Overlooks the Drino valley"],
     },
-    imageHint: "Mali i Gjere mountain Gjirokastra Albania", image: "/poi-images/albania-mali-i-gjere-relief-v2.webp"},
-  {
+imageHint: "Mali i Gjere mountain Gjirokastra Albania",
+    descriptionAdvanced: {
+      de: "Mali i Gjerë, der 'Breite Berg', überragt die steinerne Stadt Gjirokastër. An seinem Fuß entspringt die berühmte Karstquelle Syri i Kaltër (Das Blaue Auge).",
+      hu: "A Mali i Gjerë, vagyis a 'Széles-hegy', Gjirokastër kővárosa fölé magasodik. Lábánál tör fel a híres Syri i Kaltër (Kék Szem) karsztforrás.",
+      ro: "Mali i Gjeră, 'Muntele Lat', domină orașul de piatră Gjirokastër. La poalele sale izvorăște faimosul izvor carstic Syri i Kaltër (Ochiul Albastru).",
+      en: "Mali i Gjerë, the 'Wide Mountain', towers over the stone city of Gjirokastër. At its base, the famous Blue Eye (Syri i Kaltër) karst spring emerges.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1789 Meter", "Über Gjirokastër", "Lage von Syri i Kaltër", "Kalksteinkarst"],
+      hu: ["Magasság: 1789 méter", "Gjirokastër felett", "Syri i Kaltër helyszíne", "Mészkőkarszt"],
+      ro: ["Înălțime: 1789 metri", "Deasupra Gjirokastërului", "Lângă Ochiul Albastru", "Carst calcaros"],
+      en: ["Elevation: 1789 meters", "Towers over Gjirokastër", "Home of the Blue Eye", "Limestone karst"],
+    },
+    image: "/poi-images/albania-mali-i-gjere-relief-v2.webp",
+},  {
     id: "albania-mali-i-lunxherise-relief-v2",
     type: "mountain",
-    name: { de: "Lunxhëria-Gebirge", hu: "Lunxhëria-hegység", ro: "Munții Lunxhëria", en: "Lunxhëria Mountain" },
+    name: { de: "Lunxhëria-Gebirge", hu: "Lunxhëria-hegység", ro: "Munții Lunxhëria", en: "Lunxhëria Mountain",
+image: "/poi-images/albania-mali-i-lunxherise-relief-v2.webp"
+},
     coords: [20.2, 40.1],
     coordinates: { lat: 40.1, lng: 20.2 },
     description: {
@@ -456,11 +803,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Maja e Lalucit (2155 m)", "Format dintr-o structură anticlinală de calcar", "Important pentru creșterea animalelor în sud", "Oferă vedere spre orașul antic Antigonea"],
       en: ["Highest peak is Maja e Lalucit (2155 m)", "Composed of an anticlinal limestone structure", "Important for livestock farming in southern Albania", "Overlooks the ancient city of Antigonea"],
     },
-    imageHint: "Lunxheria mountain Albania landscape", image: "/poi-images/albania-mali-i-lunxherise-relief-v2.webp"},
-  {
+imageHint: "Lunxheria mountain Albania landscape",
+    descriptionAdvanced: {
+      de: "Das Lunxhëria-Gebirge verläuft parallel zum Vjosa-Tal in Südalbanien. Es ist bekannt für seine weiten Bergweiden und die historische Region Lunxhëria.",
+      hu: "A Lunxhëria-hegység a Vjosa-völgyével párhuzamosan fut Dél-Albániában. Hatalmas hegyi legelőiről és Lunxhëria történelmi tájegységéről híres.",
+      ro: "Munții Lunxhëria se întind paralel cu Valea Vjosa în sudul Albaniei. Sunt cunoscuți pentru pajiștile montane vaste și regiunea istorică Lunxhëria.",
+      en: "The Lunxhëria Mountain runs parallel to the Vjosa Valley in southern Albania. It is famous for its vast mountain pastures and the historic Lunxhëria region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2155 Meter", "Parallel zu Nemërçka", "Sommerweiden", "Südalbanien"],
+      hu: ["Magasság: 2155 méter", "Párhuzamos a Nemërçkával", "Nyári legelők", "Dél-Albánia"],
+      ro: ["Înălțime: 2155 metri", "Paralel cu Nemërçka", "Pajiști de vară", "Sudul Albaniei"],
+      en: ["Elevation: 2155 meters", "Parallel to Nemërçka", "Summer pastures", "Southern Albania"],
+    },
+    image: "/poi-images/albania-mali-i-lunxherise-relief-v2.webp",
+},  {
     id: "albania-mali-i-cukalit-relief-v2",
     type: "mountain",
-    name: { de: "Cukali-Massiv", hu: "Cukali-masszívum", ro: "Masivul Cukali", en: "Cukali Mountain" },
+    name: { de: "Cukali-Massiv", hu: "Cukali-masszívum", ro: "Masivul Cukali", en: "Cukali Mountain",
+image: "/poi-images/albania-mali-i-cukalit-relief-v2.webp"
+},
     coords: [19.75, 42.15],
     coordinates: { lat: 42.15, lng: 19.75 },
     description: {
@@ -475,11 +837,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Maja e Cukalit (1722 m)", "Geologic face parte din zona Cukali", "Cunoscut pentru cantitățile extrem de mari de precipitații", "Format din calcar carbonatic și silice"],
       en: ["Highest point is Maja e Cukalit (1722 m)", "Geologically part of the Cukali zone", "Known for extremely high precipitation levels", "Composed of carbonate limestone and chert"],
     },
-    imageHint: "Cukali mountain Shkodra Albania", image: "/poi-images/albania-mali-i-cukalit-relief-v2.webp"},
-  {
+imageHint: "Cukali mountain Shkodra Albania",
+    descriptionAdvanced: {
+      de: "Der Cukali-Berg liegt östlich von Shkodër und markiert den Übergang zu den Albanischen Alpen. Er bietet einen weiten Blick über den Shkodrasee.",
+      hu: "A Cukali-hegy Shkodërtől keletre található, és az Albán-Alpokba való átmenetet jelöli. Csúcsáról csodálatos kilátás nyílik a Shkodrai-tóra.",
+      ro: "Muntele Cukali este situat la est de Shkodër și marchează tranziția către Alpii Albanezi. Oferă o vedere panoramică asupra lacului Shkodra.",
+      en: "Cukali Mountain is located east of Shkodër and marks the transition to the Albanian Alps. It offers a wide view over Lake Shkodra.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1722 Meter", "Östlich von Shkodër", "Karstlandschaft", "Blick auf Shkodrasee"],
+      hu: ["Magasság: 1722 méter", "Shkodërtől keletre", "Karsztvidék", "Kilátás a Shkodrai-tóra"],
+      ro: ["Înălțime: 1722 metri", "La est de Shkodër", "Peisaj carstic", "Vedere spre Lacul Shkodra"],
+      en: ["Elevation: 1722 meters", "East of Shkodër", "Karst landscape", "Views of Lake Shkodra"],
+    },
+    image: "/poi-images/albania-mali-i-cukalit-relief-v2.webp",
+},  {
     id: "albania-lugina-e-vermoshit-relief-v2",
     type: "valley",
-    name: { de: "Vermosh-Tal", hu: "Vermosh-völgy", ro: "Valea Vermosh", en: "Vermosh Valley" },
+    name: { de: "Vermosh-Tal", hu: "Vermosh-völgy", ro: "Valea Vermosh", en: "Vermosh Valley",
+image: "/poi-images/albania-lugina-e-vermoshit-relief-v2.webp"
+},
     coords: [19.7, 42.59],
     coordinates: { lat: 42.59, lng: 19.7 },
     description: {
@@ -494,11 +871,26 @@ export const albaniaReliefV2: POI[] = [
       ro: ["Cel mai nordic punct al Albaniei", "Drenează spre Marea Neagră prin Dunăre", "Caracterizată prin văi glaciare în formă de U", "Înălțime de aproximativ 1100 metri peste nivelul mării"],
       en: ["Northernmost point of Albania", "Drains into the Black Sea via the Danube", "Characterized by U-shaped glacial valleys", "Elevation of about 1100 meters above sea level"],
     },
-    imageHint: "Vermosh valley Albania alpine landscape", image: "/poi-images/albania-lugina-e-vermoshit-relief-v2.webp"},
-  {
+imageHint: "Vermosh valley Albania alpine landscape",
+    descriptionAdvanced: {
+      de: "Das Vermosh-Tal ist das nördlichste bewohnte Tal Albaniens. Es ist bekannt für seine alpine Schönheit, traditionelle Holzhäuser und das kühle Klima.",
+      hu: "A Vermosh-völgy Albánia legészakibb lakott völgye. Alpesi szépségéről, hagyományos faházairól és hűvös hegyvidéki klímájáról híres.",
+      ro: "Valea Vermosh este cea mai nordică vale locuită din Albania. Este renumită pentru frumusețea sa alpină, casele tradiționale din lemn și climatul răcoros.",
+      en: "The Vermosh Valley is the northernmost inhabited valley in Albania. It is famous for its alpine beauty, traditional wooden houses, and cool climate.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt", "Region: Kelmend", "Subalpines Klima", "Fluss Vermosh"],
+      hu: ["Legészakibb pont", "Kelmend régió", "Szubalpi klíma", "Vermosh-folyó"],
+      ro: ["Cel mai nordic punct", "Regiunea Kelmend", "Climat subalpin", "Râul Vermosh"],
+      en: ["Northernmost point", "Kelmend region", "Subalpine climate", "Vermosh river"],
+    },
+    image: "/poi-images/albania-lugina-e-vermoshit-relief-v2.webp",
+},  {
     id: "albania-ceraunian-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Ceraunisches Gebirge", hu: "Keravni-hegység", ro: "Munții Ceraunici", en: "Ceraunian Mountains" },
+    name: { de: "Ceraunisches Gebirge", hu: "Keravni-hegység", ro: "Munții Ceraunici", en: "Ceraunian Mountains",
+image: "/poi-images/albania-ceraunian-mountains-relief-v2.webp"
+},
     coords: [19.6, 40.2],
     coordinates: { lat: 40.2, lng: 19.6 },
     description: {
@@ -514,5 +906,17 @@ export const albaniaReliefV2: POI[] = [
       en: ["Separates the Adriatic from the Ionian Sea", "Highest point is Maja e Çikës (2045 m)", "Includes the Llogara Pass", "Name derives from the Greek word for 'thunderbolts'"],
     },
     imageHint: "Ceraunian Mountains Albania coastline",
+    descriptionAdvanced: {
+      de: "Das Ceraunische Gebirge erstreckt sich entlang der albanischen Riviera und trennt das Hinterland vom Meer. Es stürzt oft steil direkt in die Adria und das Ionische Meer ab.",
+      hu: "A Ceraunian-hegység az albán riviéra mentén húzódik, elválasztva a hátországot a tengertől. Sok helyen meredeken szakad le az Adriai- és a Jón-tengerbe.",
+      ro: "Munții Ceraunieni se întind de-a lungul rivierei albaneze, separând interiorul țării de mare. Adesea coboară abrupt direct în mările Adriatică și Ionică.",
+      en: "The Ceraunian Mountains stretch along the Albanian Riviera, separating the hinterland from the sea. They often drop steeply into the Adriatic and Ionian Seas.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 100 km", "Küstenparalell", "Llogara-Pass inkl.", "Antiker Name: Acroceraunia"],
+      hu: ["Hossz: kb. 100 km", "Partvonallal párhuzamos", "Llogara-hágót tartalmazza", "Ókori név: Akrokeraunia"],
+      ro: ["Lungime: cca. 100 km", "Munți de coastă", "Include pasul Llogara", "Nume antic: Acroceraunia"],
+      en: ["Length: approx. 100 km", "Coastal range", "Includes Llogara Pass", "Ancient name: Acroceraunia"],
+    },
   }
 ];

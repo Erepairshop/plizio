@@ -4,7 +4,9 @@ export const greeceLifeV2: POI[] = [
   {
     id: "greece-mount-olympus-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Olymp", hu: "Olümposz Nemzeti Park", ro: "Parcul Național Olimp", en: "Mount Olympus National Park" },
+    name: { de: "Nationalpark Olymp", hu: "Olümposz Nemzeti Park", ro: "Parcul Național Olimp", en: "Mount Olympus National Park",
+image: "/poi-images/greece-mount-olympus-national-park-life-v2.webp"
+},
     coords: [22.3303, 40.0856],
     coordinates: { lat: 40.0856, lng: 22.3303 },
     description: {
@@ -19,11 +21,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Anul înființării: 1938", "Cel mai înalt vârf: Mytikas (2918 m)", "Rezervație a Biosferei UNESCO din 1981", "Peste 1.700 de specii de plante documentate"],
       en: ["Established in 1938", "Highest peak: Mytikas (2,918 m)", "UNESCO Biosphere Reserve since 1981", "Home to over 1,700 plant species"],
     },
-    imageHint: "Mount Olympus snowy peaks and alpine forest", image: "/poi-images/greece-mount-olympus-national-park-life-v2.webp"},
-  {
+imageHint: "Mount Olympus snowy peaks and alpine forest",
+    descriptionAdvanced: {
+      de: "Der 1938 gegründete Park schützt das höchste Gebirge Griechenlands mit über 1.700 Pflanzenarten, darunter viele Endemiten, sowie Steinadler und Gämsen in den alpinen Zonen.",
+      hu: "Az 1938-ban alapított park Görögország legmagasabb hegységét védi. Több mint 1700 növényfaj él itt, köztük számos endemikus ritkaság, valamint szirti sasok és zergepopulációk.",
+      ro: "Înființat în 1938, parcul protejează cel mai înalt masiv din Grecia, adăpostind peste 1.700 de specii de plante, multe endemice, alături de acvile de munte și capre negre.",
+      en: "Established in 1938, this park protects Greece's highest mountain range, home to over 1,700 plant species, many endemic, along with golden eagles and Balkan chamois.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1938", "Höchster Gipfel Mytikas (2918 m)", "Über 1.700 Pflanzenarten", "UNESCO-Biosphärenreservat seit 1981"],
+      hu: ["Alapítás éve: 1938", "Legmagasabb csúcs: Mitikasz (2918 m)", "Több mint 1700 növényfaj", "UNESCO Bioszféra-rezervátum 1981 óta"],
+      ro: ["Înființat în anul 1938", "Vârful Mytikas are 2.918 m", "Peste 1.700 specii de plante", "Rezervație UNESCO din 1981"],
+      en: ["Established in 1938", "Highest peak Mytikas at 2,918 m", "Over 1,700 plant species", "UNESCO Biosphere Reserve since 1981"],
+    },
+    image: "/poi-images/greece-mount-olympus-national-park-life-v2.webp",
+},  {
     id: "greece-samaria-gorge-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Samaria-Schlucht", hu: "Szamaria-szurdok Nemzeti Park", ro: "Parcul Național Cheile Samariei", en: "Samaria Gorge National Park" },
+    name: { de: "Nationalpark Samaria-Schlucht", hu: "Szamaria-szurdok Nemzeti Park", ro: "Parcul Național Cheile Samariei", en: "Samaria Gorge National Park",
+image: "/poi-images/greece-samaria-gorge-national-park-life-v2.webp"
+},
     coords: [23.9614, 35.2711],
     coordinates: { lat: 35.2711, lng: 23.9614 },
     description: {
@@ -38,11 +55,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Lungimea defileului: aprox. 16 km", "Înființat în: 1962", "Habitat pentru capra rară Kri-Kri", "Rezervație a Biosferei UNESCO"],
       en: ["Gorge length: approx. 16 km", "Established in 1962", "Home to the rare Kri-Kri goat", "UNESCO Biosphere Reserve"],
     },
-    imageHint: "Samaria Gorge narrow passage Iron Gates", image: "/poi-images/greece-samaria-gorge-national-park-life-v2.webp"},
-  {
+imageHint: "Samaria Gorge narrow passage Iron Gates",
+    descriptionAdvanced: {
+      de: "Diese 16 km lange Schlucht auf Kreta ist ein Rückzugsort für die seltene Kri-Kri-Ziehe. Die Flora umfasst über 450 Arten, von denen viele nur auf dieser Insel vorkommen.",
+      hu: "A krétai 16 km hosszú szurdok a ritka krétai vadkecske, a Kri-Kri utolsó menedéke. Flórája több mint 450 fajt számlál, melyek közül sok kizárólag a szigeten őshonos.",
+      ro: "Cheile lungi de 16 km din Creta sunt refugiul caprei sălbatice Kri-Kri. Flora cuprinde peste 450 de specii, multe fiind întâlnite exclusiv pe această insulă grecească.",
+      en: "This 16 km gorge in Crete is the primary refuge for the rare Kri-Kri wild goat. Its flora includes over 450 species, many of which are endemic to the island.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Schlucht: 16 km", "Schutz der Kri-Kri-Ziege", "Eingerichtet im Jahr 1962", "Engste Stelle nur 3 Meter breit"],
+      hu: ["A szurdok hossza 16 km", "A Kri-Kri vadkecske otthona", "1962-ben alapították", "Legszűkebb pontja 3 méter széles"],
+      ro: ["Lungimea cheilor este de 16 km", "Protejează capra sălbatică Kri-Kri", "Parc național din 1962", "Lățime minimă de doar 3 metri"],
+      en: ["Gorge length of 16 km", "Protects the Kri-Kri wild goat", "Established in 1962", "Narrowest point is 3 meters wide"],
+    },
+    image: "/poi-images/greece-samaria-gorge-national-park-life-v2.webp",
+},  {
     id: "greece-alonissos-marine-park-life-v2",
     type: "park",
-    name: { de: "Meeresnationalpark Alonissos", hu: "Alonisszoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Alonissos", en: "Alonissos Marine Park" },
+    name: { de: "Meeresnationalpark Alonissos", hu: "Alonisszoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Alonissos", en: "Alonissos Marine Park",
+image: "/poi-images/greece-alonissos-marine-park-life-v2.webp"
+},
     coords: [24.0881, 39.2444],
     coordinates: { lat: 39.2444, lng: 24.0881 },
     description: {
@@ -57,11 +89,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Cea mai mare arie marină protejată din Europa", "Suprafață: aprox. 2.260 km²", "Înființat în: 1992", "Habitat vital pentru foca călugăr"],
       en: ["Largest marine park in Europe", "Area: approx. 2,260 sq km", "Established in 1992", "Main habitat for Mediterranean monk seals"],
     },
-    imageHint: "Mediterranean monk seal swimming in blue water", image: "/poi-images/greece-alonissos-marine-park-life-v2.webp"},
-  {
+imageHint: "Mediterranean monk seal swimming in blue water",
+    descriptionAdvanced: {
+      de: "Größtes Meeresschutzgebiet Europas und wichtigster Lebensraum der Mittelmeer-Mönchsrobbe. Das klare Wasser schützt zudem Korallenriffe und riesige Posidonia-Seegraswiesen.",
+      hu: "Európa legnagyobb tengeri védett területe, a mediterrán barátfóka legfontosabb élőhelye. A tiszta víz korallzátonyokat és hatalmas Posidonia tengerifű-mezőket rejt.",
+      ro: "Cea mai mare arie marină protejată din Europa și habitat vital pentru foca monah. Apele limpezi adăpostesc recife de corali și vaste pajiști de iarbă de mare Posidonia.",
+      en: "Europe's largest marine protected area and a vital habitat for the Mediterranean monk seal. Its clear waters support coral reefs and vast Posidonia seagrass meadows.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 2.260 km²", "Wichtigstes Schutzgebiet für Mönchsrobben", "Gegründet im Jahr 1992", "Beinhaltet 6 Hauptinseln"],
+      hu: ["Területe kb. 2260 km²", "A barátfókák fő menedéke", "1992-ben alapították", "6 nagyobb szigetet foglal magában"],
+      ro: ["Suprafață de cca. 2.260 km²", "Sanctuar pentru foca monah", "Înființat în anul 1992", "Include 6 insule principale"],
+      en: ["Area of approx. 2,260 km²", "Primary monk seal sanctuary", "Founded in 1992", "Includes 6 main islands"],
+    },
+    image: "/poi-images/greece-alonissos-marine-park-life-v2.webp",
+},  {
     id: "greece-zakynthos-marine-park-life-v2",
     type: "park",
-    name: { de: "Meeresnationalpark Zakynthos", hu: "Zakinthoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Zakynthos", en: "Zakynthos Marine Park" },
+    name: { de: "Meeresnationalpark Zakynthos", hu: "Zakinthoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Zakynthos", en: "Zakynthos Marine Park",
+image: "/poi-images/greece-zakynthos-marine-park-life-v2.webp"
+},
     coords: [20.915, 37.7125],
     coordinates: { lat: 37.7125, lng: 20.915 },
     description: {
@@ -76,11 +123,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 1999", "Specie protejată: țestoasa loggerhead", "Include insulele Marathonisi și Pelouzo", "Restricții nocturne pe plajele de cuibărit"],
       en: ["Established in 1999", "Focus: Loggerhead sea turtle protection", "Includes Marathonisi and Pelouzo islands", "Strict night-time beach restrictions"],
     },
-    imageHint: "Loggerhead sea turtle Caretta caretta underwater", image: "/poi-images/greece-zakynthos-marine-park-life-v2.webp"},
-  {
+imageHint: "Loggerhead sea turtle Caretta caretta underwater",
+    descriptionAdvanced: {
+      de: "Der 1999 gegründete Park schützt die wichtigsten Niststrände der Unechten Karettschildkröte im Mittelmeer, insbesondere in der Bucht von Laganas und auf der Insel Marathonisi.",
+      hu: "Az 1999-ben alapított park az álcserepesteknős legfontosabb földközi-tengeri fészkelőhelyeit védi, különösen a Laganasz-öbölben és Marathoniszi szigetén.",
+      ro: "Înființat în 1999, parcul protejează principalele plaje de cuibărit ale țestoasei Caretta caretta din Mediterana, în special în Golful Laganas și pe insula Marathonisi.",
+      en: "Established in 1999, this park protects the Mediterranean's most important nesting beaches for Loggerhead sea turtles, primarily in Laganas Bay and Marathonisi island.",
+    },
+    factsAdvanced: {
+      de: ["Schutz der Caretta caretta", "Bucht von Laganas als Kernzone", "Gegründet im Dezember 1999", "Erster mariner Nationalpark Griechenlands"],
+      hu: ["A Caretta caretta védelme", "A Laganasz-öböl a magterület", "1999 decemberében alapították", "Görögország első tengeri nemzeti parkja"],
+      ro: ["Protejează Caretta caretta", "Golful Laganas este zona centrală", "Înființat în decembrie 1999", "Primul parc marin din Grecia"],
+      en: ["Protects Caretta caretta turtles", "Laganas Bay is the core zone", "Founded in December 1999", "First marine national park in Greece"],
+    },
+    image: "/poi-images/greece-zakynthos-marine-park-life-v2.webp",
+},  {
     id: "greece-lake-kerkini-life-v2",
     type: "lake",
-    name: { de: "Kerkini-See", hu: "Kerkini-tó", ro: "Lacul Kerkini", en: "Lake Kerkini" },
+    name: { de: "Kerkini-See", hu: "Kerkini-tó", ro: "Lacul Kerkini", en: "Lake Kerkini",
+image: "/poi-images/greece-lake-kerkini-life-v2.webp"
+},
     coords: [23.1519, 41.2142],
     coordinates: { lat: 41.2142, lng: 23.1519 },
     description: {
@@ -95,11 +157,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Creat în 1932 pe râul Strymonas", "Peste 300 de specii de păsări observate", "Cea mai mare populație de bivoli din Grecia", "Loc de iernare important pentru gârlița mică"],
       en: ["Created in 1932 on the Strymonas River", "Over 300 bird species recorded", "Largest water buffalo population in Greece", "Key wintering site for Lesser White-fronted Geese"],
     },
-    imageHint: "Water buffalos in Lake Kerkini with birds", image: "/poi-images/greece-lake-kerkini-life-v2.webp"},
-  {
+imageHint: "Water buffalos in Lake Kerkini with birds",
+    descriptionAdvanced: {
+      de: "Dieser künstliche Stausee hat sich zu einem der bedeutendsten Feuchtgebiete Europas entwickelt, bekannt für Wasserbüffel und als wichtiger Rastplatz für Tausende von Pelikanen.",
+      hu: "Ez a mesterséges tározó Európa egyik legjelentősebb vizes élőhelyévé vált, híres a bivalycsordáiról és a pelikánok ezreinek fontos pihenőhelyeként.",
+      ro: "Acest lac de acumulare a devenit una dintre cele mai importante zone umede din Europa, faimos pentru bivolii de apă și ca loc de popas pentru mii de pelicani.",
+      en: "This man-made reservoir has evolved into one of Europe's premier wetlands, famous for water buffalo herds and as a vital stopover for thousands of pelicans.",
+    },
+    factsAdvanced: {
+      de: ["Bau des Damms im Jahr 1932", "Über 300 Vogelarten beobachtet", "Größte Wasserbüffelpopulation des Landes", "Ramsar-Gebiet seit 1974"],
+      hu: ["A gát 1932-ben épült", "Több mint 300 madárfaj", "Az ország legnagyobb bivalyállománya", "Ramsari terület 1974 óta"],
+      ro: ["Barajul a fost construit în 1932", "Peste 300 de specii de păsări", "Cea mai mare populație de bivoli", "Sit Ramsar din anul 1974"],
+      en: ["Dam constructed in 1932", "Over 300 bird species recorded", "Largest water buffalo population", "Ramsar site since 1974"],
+    },
+    image: "/poi-images/greece-lake-kerkini-life-v2.webp",
+},  {
     id: "greece-vikos-aoos-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Vikos-Aoos", hu: "Vikosz-Aóosz Nemzeti Park", ro: "Parcul Național Vikos-Aoos", en: "Vikos-Aoos National Park" },
+    name: { de: "Nationalpark Vikos-Aoos", hu: "Vikosz-Aóosz Nemzeti Park", ro: "Parcul Național Vikos-Aoos", en: "Vikos-Aoos National Park",
+image: "/poi-images/greece-vikos-aoos-national-park-life-v2.webp"
+},
     coords: [20.73, 39.97],
     coordinates: { lat: 39.97, lng: 20.73 },
     description: {
@@ -114,11 +191,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Cheile Vikos: cel mai adânc defileu conform Guinness", "Înființat în: 1973", "Peste 1.800 de specii de plante", "Prezența ursului brun și a lupului"],
       en: ["Vikos Gorge: Deepest gorge in the world (Guinness World Records)", "Established in 1973", "Over 1,800 plant species", "Habitat for Brown Bears and Wolves"],
     },
-    imageHint: "Vikos Gorge viewpoint panoramic landscape", image: "/poi-images/greece-vikos-aoos-national-park-life-v2.webp"},
-  {
+imageHint: "Vikos Gorge viewpoint panoramic landscape",
+    descriptionAdvanced: {
+      de: "Der Park umfasst die tiefste Schlucht der Welt im Verhältnis zur Breite. In seinen dichten Laubwäldern leben Braunbären, Wölfe und seltene Greifvogelarten wie der Schmutzgeier.",
+      hu: "A park a világ legmélyebb szurdokát foglalja magában szélességéhez viszonyítva. Sűrű lombhullató erdőiben barna medvék, farkasok és dögkeselyűk is élnek.",
+      ro: "Parcul include cel mai adânc canion din lume raportat la lățime. Pădurile sale dense adăpostesc urși bruni, lupi și specii rare de păsări, precum vulturul egiptean.",
+      en: "The park features the world's deepest gorge relative to its width. Its dense deciduous forests host brown bears, wolves, and rare raptors like the Egyptian vulture.",
+    },
+    factsAdvanced: {
+      de: ["Vikos-Schlucht Tiefe bis 900 m", "Gegründet im Jahr 1966", "Kernfläche ca. 3.400 Hektar", "Heimat des Braunbären"],
+      hu: ["Vikosz-szurdok mélysége: 900 m", "1966-ban alapították", "Magterület: kb. 3400 hektár", "A barna medve élőhelye"],
+      ro: ["Canionul are 900 m adâncime", "Înființat în anul 1966", "Zona centrală: 3.400 hectare", "Habitat pentru ursul brun"],
+      en: ["Vikos Gorge depth up to 900 m", "Established in 1966", "Core area of 3,400 hectares", "Brown bear habitat"],
+    },
+    image: "/poi-images/greece-vikos-aoos-national-park-life-v2.webp",
+},  {
     id: "greece-dadia-forest-life-v2",
     type: "forest",
-    name: { de: "Wald von Dadia", hu: "Dadia-erdő", ro: "Pădurea Dadia", en: "Dadia Forest" },
+    name: { de: "Wald von Dadia", hu: "Dadia-erdő", ro: "Pădurea Dadia", en: "Dadia Forest",
+image: "/poi-images/greece-dadia-forest-life-v2.webp"
+},
     coords: [26.225, 41.125],
     coordinates: { lat: 41.125, lng: 26.225 },
     description: {
@@ -133,11 +225,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Principalul refugiu pentru vulturul negru din SE Europei", "Înființat în: 2006 ca parc național", "36 din 38 de specii de păsări de pradă europene prezente", "Centru major de ornitologie"],
       en: ["Main refuge for the Cinereous Vulture in SE Europe", "Established as a National Park in 2006", "36 of 38 European raptor species recorded", "Major center for birdwatching"],
     },
-    imageHint: "Cinereous Vulture perched in Dadia Forest", image: "/poi-images/greece-dadia-forest-life-v2.webp"},
-  {
+imageHint: "Cinereous Vulture perched in Dadia Forest",
+    descriptionAdvanced: {
+      de: "Eines der wichtigsten Vogelschutzgebiete Europas, bekannt für das Vorkommen von 36 der 38 europäischen Greifvogelarten, darunter die einzige Brutkolonie des Mönchsgeiers.",
+      hu: "Európa egyik legfontosabb madárvédelmi körzete, ahol a 38 európai ragadozómadár-fajból 36 előfordul, köztük a barátkeselyű utolsó balkáni költőkolóniája.",
+      ro: "Una dintre cele mai importante zone avifaunistice din Europa, unde trăiesc 36 din cele 38 de specii de răpitoare europene, inclusiv colonia de vulturi negri.",
+      en: "One of Europe's most vital bird sanctuaries, hosting 36 of the 38 European raptor species, including the only breeding colony of Cinereous vultures in the Balkans.",
+    },
+    factsAdvanced: {
+      de: ["36 Greifvogelarten nachgewiesen", "Einzige Kolonie des Mönchsgeiers", "Schutzzone seit 1980", "Kiefern- und Eichenmischwald"],
+      hu: ["36 ragadozómadár-faj", "A barátkeselyű fészkelőhelye", "1980 óta védett terület", "Fenyő- és tölgyerdők elegye"],
+      ro: ["36 de specii de răpitoare", "Colonie rară de vulturi negri", "Protejat din anul 1980", "Păduri mixte de pin și stejar"],
+      en: ["36 raptor species recorded", "Rare Cinereous vulture colony", "Protected since 1980", "Mixed pine and oak forest"],
+    },
+    image: "/poi-images/greece-dadia-forest-life-v2.webp",
+},  {
     id: "greece-evros-delta-life-v2",
     type: "wildlife",
-    name: { de: "Evros-Delta", hu: "Evrosz-delta", ro: "Delta Evrosului", en: "Evros Delta" },
+    name: { de: "Evros-Delta", hu: "Evrosz-delta", ro: "Delta Evrosului", en: "Evros Delta",
+image: "/poi-images/greece-evros-delta-life-v2.webp"
+},
     coords: [26.0372, 40.7786],
     coordinates: { lat: 40.7786, lng: 26.0372 },
     description: {
@@ -152,11 +259,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Suprafață: aprox. 188 km²", "Sit Ramsar din 1975", "Peste 300 de specii de păsări documentate", "Zonă de iernare importantă pentru flamingo"],
       en: ["Total area: approx. 188 sq km", "Ramsar site since 1975", "Over 300 bird species documented", "Important wintering site for flamingos"],
     },
-    imageHint: "Flamingos in the shallow waters of Evros Delta", image: "/poi-images/greece-evros-delta-life-v2.webp"},
-  {
+imageHint: "Flamingos in the shallow waters of Evros Delta",
+    descriptionAdvanced: {
+      de: "Ein riesiges Labyrinth aus Lagunen und Sümpfen an der türkischen Grenze, das im Winter über 100.000 Vögel beherbergt, darunter Flamingos und den seltenen Dünnschnabel-Brachvogel.",
+      hu: "Lagúnák és mocsarak óriási labirintusa a török határon, amely télen több mint 100 000 madárnak ad otthont, köztük flamingóknak és a ritka vékonycsőrű pólingnak.",
+      ro: "Un labirint vast de lagune și mlaștini la granița cu Turcia, care adăpostește iarna peste 100.000 de păsări, inclusiv flamingo și culicul cu cioc subțire.",
+      en: "A vast labyrinth of lagoons and marshes on the Turkish border, hosting over 100,000 birds in winter, including flamingos and the rare Slender-billed curlew.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 188 km²", "Winterquartier für 100.000 Vögel", "Über 320 Vogelarten", "Ramsar-Konvention seit 1974"],
+      hu: ["Területe kb. 188 km²", "Téli szállás 100 000 madárnak", "Több mint 320 madárfaj", "Ramsari egyezmény 1974-től"],
+      ro: ["Suprafață de cca. 188 km²", "Iernează 100.000 de păsări", "Peste 320 specii de păsări", "Sit Ramsar din 1974"],
+      en: ["Area of approx. 188 km²", "Overwinters 100,000 birds", "More than 320 bird species", "Ramsar site since 1974"],
+    },
+    image: "/poi-images/greece-evros-delta-life-v2.webp",
+},  {
     id: "greece-parnitha-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Parnitha", hu: "Parnisza Nemzeti Park", ro: "Parcul Național Parnitha", en: "Parnitha National Park" },
+    name: { de: "Nationalpark Parnitha", hu: "Parnisza Nemzeti Park", ro: "Parcul Național Parnitha", en: "Parnitha National Park",
+image: "/poi-images/greece-parnitha-national-park-life-v2.webp"
+},
     coords: [23.7164, 38.1636],
     coordinates: { lat: 38.1636, lng: 23.7164 },
     description: {
@@ -171,11 +293,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 1961", "Cel mai înalt punct: Karavola (1413 m)", "Peste 1.000 de specii de plante", "Principalul refugiu pentru cerbul comun în regiune"],
       en: ["Established in 1961", "Highest point: Karavola (1,413 m)", "Over 1,000 plant species", "Key refuge for Red Deer in the region"],
     },
-    imageHint: "Red deer in the fir forest of Parnitha", image: "/poi-images/greece-parnitha-national-park-life-v2.webp"},
-  {
+imageHint: "Red deer in the fir forest of Parnitha",
+    descriptionAdvanced: {
+      de: "Die „Lunge Athens“ ist Heimat der letzten Rotwildpopulation des griechischen Festlands. Der Park bietet Schutz für Tannenwälder und über 1.000 Pflanzenarten nahe der Hauptstadt.",
+      hu: "Athén tüdeje, a görög szárazföld utolsó gímszarvas-populációjának otthona. A park jegenyefenyveseket és több mint 1000 növényfajt véd a főváros szomszédságában.",
+      ro: "„Plămânul Atenei” adăpostește ultima populație de cerbi de pe continentul grec. Parcul protejează păduri de brad și peste 1.000 de plante lângă capitală.",
+      en: "The 'lung of Athens' hosts the Greek mainland's last red deer population. The park protects fir forests and over 1,000 plant species near the capital city.",
+    },
+    factsAdvanced: {
+      de: ["Letzte Rotwildpopulation", "Höchster Berg Attikas (1413 m)", "Gegründet im Jahr 1961", "Über 1.100 Pflanzenarten"],
+      hu: ["Utolsó gímszarvas-állomány", "Attika legmagasabb pontja (1413 m)", "1961-ben alapították", "Több mint 1100 növényfaj"],
+      ro: ["Ultima populație de cerbi", "Vârful are 1.413 m înălțime", "Înființat în anul 1961", "Peste 1.100 specii de plante"],
+      en: ["Last red deer population", "Attica's highest point (1,413 m)", "Established in 1961", "Over 1,100 plant species"],
+    },
+    image: "/poi-images/greece-parnitha-national-park-life-v2.webp",
+},  {
     id: "greece-rhodes-butterfly-valley-life-v2",
     type: "valley",
-    name: { de: "Schmetterlingstal von Rhodos", hu: "Pillangók völgye - Rodosz", ro: "Valea Fluturilor din Rodos", en: "Butterfly Valley of Rhodes" },
+    name: { de: "Schmetterlingstal von Rhodos", hu: "Pillangók völgye - Rodosz", ro: "Valea Fluturilor din Rodos", en: "Butterfly Valley of Rhodes",
+image: "/poi-images/greece-rhodes-butterfly-valley-life-v2.webp"
+},
     coords: [28.0642, 36.3333],
     coordinates: { lat: 36.3333, lng: 28.0642 },
     description: {
@@ -191,11 +328,25 @@ export const greeceLifeV2: POI[] = [
       en: ["Local name: Petaloudes", "Species: Jersey Tiger moth", "Peak season: June to August", "Trees: Oriental Sweetgum (Liquidambar orientalis)"],
     },
     imageHint: "Thousands of moths on tree trunks in Butterfly Valley",
+    descriptionAdvanced: {
+      de: "Ein einzigartiges Biotop, in dem sich Tausende von Russischen Bären (Schmetterlinge) während der Sommermonate sammeln, angezogen vom Harzduft der Orientalischen Amberbäume.",
+      hu: "Egyedülálló biotóp, ahol a csíkos medvelepkék ezrei gyűlnek össze a nyári hónapokban, vonzódva a keleti ámbrafák gyantájának illatához.",
+      ro: "Un biotop unic unde mii de fluturi din specia Panaxia quadripunctaria se adună în lunile de vară, atrași de rășina arborilor de ambră orientală.",
+      en: "A unique biotope where thousands of Jersey Tiger moths congregate during summer months, attracted by the aromatic resin of Oriental Sweetgum trees.",
+    },
+    factsAdvanced: {
+      de: ["Art: Panaxia quadripunctaria", "Hauptsaison Juni bis August", "Orientalische Amberbäume vorhanden", "Gelegen nahe dem Dorf Theologos"],
+      hu: ["Faj: Panaxia quadripunctaria", "Szezon júniustól augusztusig", "Keleti ámbrafák élőhelye", "Theologos falu közelében fekszik"],
+      ro: ["Specia Panaxia quadripunctaria", "Sezon: iunie - august", "Arbori de ambră orientală", "Lângă satul Theologos"],
+      en: ["Species: Jersey Tiger moth", "Peak season June to August", "Oriental Sweetgum tree habitat", "Located near Theologos village"],
+    },
   },
   {
     id: "greece-arcturos-bear-sanctuary-life-v2",
     type: "wildlife",
-    name: { de: "Arcturos Bärenschutzzentrum", hu: "Arcturos Medveotthon", ro: "Sanctuarul de urși Arcturos", en: "Arcturos Brown Bear Sanctuary" },
+    name: { de: "Arcturos Bärenschutzzentrum", hu: "Arcturos Medveotthon", ro: "Sanctuarul de urși Arcturos", en: "Arcturos Brown Bear Sanctuary",
+image: "/poi-images/greece-arcturos-bear-sanctuary-life-v2.webp"
+},
     coords: [21.5075, 40.6475],
     coordinates: { lat: 40.6475, lng: 21.5075 },
     description: {
@@ -210,11 +361,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 1992", "Locație: Nymfaio (Macedonia de Vest)", "Suprafață: aprox. 50 hectare", "Include și un centru pentru lupi"],
       en: ["Founded in 1992", "Location: Nymfaio, West Macedonia", "Sanctuary area: approx. 50 hectares", "Also operates a wolf sanctuary nearby"],
     },
-    imageHint: "Brown bear in a forested sanctuary enclosure", image: "/poi-images/greece-arcturos-bear-sanctuary-life-v2.webp"},
-  {
+imageHint: "Brown bear in a forested sanctuary enclosure",
+    descriptionAdvanced: {
+      de: "Dieses Schutzzentrum in Nymfaio widmet sich der Rettung ehemaliger Tanzbären und verwaister Braunbären, die hier in einem natürlichen Waldgelände sicher leben können.",
+      hu: "Ez a Nymfaio melletti központ korábbi táncoló medvék és árva barna medvék mentésével foglalkozik, akik itt biztonságos, erdei környezetben élhetnek tovább.",
+      ro: "Acest sanctuar din Nymfaio este dedicat salvării foștilor urși dansatori și a puilor orfani, oferindu-le un habitat forestier sigur și natural.",
+      en: "This sanctuary in Nymfaio is dedicated to rescuing former dancing bears and orphaned brown bears, providing them with a safe, natural forest habitat.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1992", "Sitz im Dorf Nymfaio", "Schutz für Braunbären und Wölfe", "Ehemalige Tanzbären gerettet"],
+      hu: ["1992-ben alapították", "Nymfaio faluban található", "Barna medvék és farkasok védelme", "Korábbi táncoló medvék otthona"],
+      ro: ["Înființat în anul 1992", "Situat în satul Nymfaio", "Protejează urși și lupi", "Salvează urși captivi"],
+      en: ["Established in 1992", "Located in Nymfaio village", "Protects brown bears and wolves", "Rescues former dancing bears"],
+    },
+    image: "/poi-images/greece-arcturos-bear-sanctuary-life-v2.webp",
+},  {
     id: "greece-attica-zoological-park-life-v2",
     type: "wildlife",
-    name: { de: "Attischer Zoologischer Park", hu: "Attikai Állatkert", ro: "Parcul Zoologic Attica", en: "Attica Zoological Park" },
+    name: { de: "Attischer Zoologischer Park", hu: "Attikai Állatkert", ro: "Parcul Zoologic Attica", en: "Attica Zoological Park",
+image: "/poi-images/greece-attica-zoological-park-life-v2.webp"
+},
     coords: [23.91, 37.9542],
     coordinates: { lat: 37.9542, lng: 23.91 },
     description: {
@@ -229,11 +395,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 2000", "Suprafață: aprox. 20 hectare", "Include un delfinariu și voliere mari", "Singurul membru EAZA din Grecia"],
       en: ["Established in 2000", "Total area: approx. 20 hectares", "Features a dolphinarium and raptor aviaries", "Only EAZA member in Greece"],
     },
-    imageHint: "Giraffes and zebras in Attica Zoological Park", image: "/poi-images/greece-attica-zoological-park-life-v2.webp"},
-  {
+imageHint: "Giraffes and zebras in Attica Zoological Park",
+    descriptionAdvanced: {
+      de: "Dieser private Zoo bei Spata beherbergt über 2.000 Tiere aus 290 Arten. Er ist bekannt für seine umfangreiche Vogelsammlung und Erhaltungszuchtprogramme für bedrohte Arten.",
+      hu: "A Szpáta melletti magánállatkert több mint 2000 állatnak ad otthont 290 fajból. Híres kiterjedt madárgyűjteményéről és veszélyeztetett fajok tenyészprogramjáról.",
+      ro: "Această grădină zoologică privată de lângă Spata găzduiește peste 2.000 de animale din 290 de specii, fiind celebră pentru colecția sa vastă de păsări.",
+      en: "This private zoo near Spata houses over 2,000 animals from 290 species. It is renowned for its extensive bird collection and endangered species breeding programs.",
+    },
+    factsAdvanced: {
+      de: ["Über 2.000 Tiere", "Viertgrößte Vogelsammlung weltweit", "Gegründet im Jahr 2000", "Fläche ca. 20 Hektar"],
+      hu: ["Több mint 2000 állat", "A világ 4. legnagyobb madárháza", "2000-ben nyitotta meg kapuit", "Területe kb. 20 hektár"],
+      ro: ["Peste 2.000 de animale", "A 4-a colecție de păsări din lume", "Deschis în anul 2000", "Suprafață de cca. 20 hectare"],
+      en: ["Over 2,000 animals", "4th largest bird collection globally", "Opened in 2000", "Area of approx. 20 hectares"],
+    },
+    image: "/poi-images/greece-attica-zoological-park-life-v2.webp",
+},  {
     id: "greece-nestos-delta-life-v2",
     type: "wildlife",
-    name: { de: "Nestos-Delta", hu: "Nesztosz-delta", ro: "Delta Nestosului", en: "Nestos Delta" },
+    name: { de: "Nestos-Delta", hu: "Nesztosz-delta", ro: "Delta Nestosului", en: "Nestos Delta",
+image: "/poi-images/greece-nestos-delta-life-v2.webp"
+},
     coords: [24.7833, 40.8667],
     coordinates: { lat: 40.8667, lng: 24.7833 },
     description: {
@@ -248,11 +429,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Sit protejat Ramsar", "Cea mai importantă pădure riverană din Grecia (Kotza-Orman)", "Peste 250 de specii de păsări", "Prezența șacalului auriu"],
       en: ["Ramsar wetland of international importance", "Home to Kotza Orman, Greece's largest riparian forest", "Over 250 bird species recorded", "Habitat for the Golden Jackal"],
     },
-    imageHint: "Nestos river winding through green delta landscape", image: "/poi-images/greece-nestos-delta-life-v2.webp"},
-  {
+imageHint: "Nestos river winding through green delta landscape",
+    descriptionAdvanced: {
+      de: "Das Delta des Nestos-Flusses ist ein Mosaik aus Lagunen und Galeriewäldern, das als eines der letzten Refugien für den Goldschakal und den europäischen Seeadler dient.",
+      hu: "A Nesztosz-folyó deltája lagúnák és galériaerdők mozaikja, amely az aranysakál és a rétisas egyik utolsó görögországi menedékeként szolgál.",
+      ro: "Delta râului Nestos este un mozaic de lagune și păduri riverane, servind drept unul dintre ultimele refugii pentru șacalul auriu și vulturul codalb.",
+      en: "The Nestos River delta is a mosaic of lagoons and gallery forests, serving as one of the last Greek refuges for the golden jackal and the white-tailed eagle.",
+    },
+    factsAdvanced: {
+      de: ["Vorkommen des Goldschakals", "Über 250 Vogelarten", "Teil des Nestos-Nationalparks", "Galeriewald von Kotza-Orman"],
+      hu: ["Aranysakál populáció", "Több mint 250 madárfaj", "A Nesztosz Nemzeti Park része", "Kotza-Orman galériaerdő"],
+      ro: ["Populație de șacali aurii", "Peste 250 de specii de păsări", "Parte a Parcului Național Nestos", "Pădurea riverană Kotza-Orman"],
+      en: ["Golden jackal population", "Over 250 bird species", "Part of Nestos National Park", "Kotza-Orman gallery forest"],
+    },
+    image: "/poi-images/greece-nestos-delta-life-v2.webp",
+},  {
     id: "greece-cretaquarium-life-v2",
     type: "museum",
-    name: { de: "Cretaquarium", hu: "Krétai Akvárium", ro: "Acvariul din Creta", en: "Crete Aquarium" },
+    name: { de: "Cretaquarium", hu: "Krétai Akvárium", ro: "Acvariul din Creta", en: "Crete Aquarium",
+image: "/poi-images/greece-cretaquarium-life-v2.webp"
+},
     coords: [25.2828, 35.3328],
     coordinates: { lat: 35.3328, lng: 25.2828 },
     description: {
@@ -267,11 +463,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Nume oficial: Thalassocosmos", "Peste 2.000 de organisme marine", "60 de bazine diferite", "Parte a Centrului Elen pentru Cercetări Marine"],
       en: ["Official name: Thalassocosmos", "Home to over 2,000 marine organisms", "Features 60 viewing tanks", "Part of the Hellenic Centre for Marine Research"],
     },
-    imageHint: "Large shark swimming in Cretaquarium tank", image: "/poi-images/greece-cretaquarium-life-v2.webp"},
-  {
+imageHint: "Large shark swimming in Cretaquarium tank",
+    descriptionAdvanced: {
+      de: "Eines der größten Aquarien im Mittelmeerraum präsentiert die marine Artenvielfalt der Ägäis in 60 Tanks, von winzigen Seepferdchen bis hin zu großen Sandtigerhaien.",
+      hu: "A Földközi-tenger térségének egyik legnagyobb akváriuma az Égei-tenger élővilágát mutatja be 60 tartályban, az apró csikóhalaktól a homoki tigriscápákig.",
+      ro: "Unul dintre cele mai mari acvarii din Mediterana prezintă biodiversitatea Mării Egee în 60 de bazine, de la căluți de mare la rechini tigru de nisip.",
+      en: "One of the largest aquariums in the Mediterranean, showcasing Aegean marine biodiversity across 60 tanks, from tiny seahorses to large sand tiger sharks.",
+    },
+    factsAdvanced: {
+      de: ["60 Schautanks", "Über 2.000 Meereslebewesen", "Standort in Gournes, Kreta", "Gegründet im Jahr 2005"],
+      hu: ["60 bemutató tartály", "Több mint 2000 tengeri lény", "Gournesz városában, Krétán", "2005-ben alapították"],
+      ro: ["60 de bazine expoziționale", "Peste 2.000 de organisme marine", "Situat în Gournes, Creta", "Înființat în anul 2005"],
+      en: ["60 display tanks", "Over 2,000 marine organisms", "Located in Gournes, Crete", "Established in 2005"],
+    },
+    image: "/poi-images/greece-cretaquarium-life-v2.webp",
+},  {
     id: "greece-ainos-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Ainos", hu: "Enosz Nemzeti Park", ro: "Parcul Național Ainos", en: "Ainos National Park" },
+    name: { de: "Nationalpark Ainos", hu: "Enosz Nemzeti Park", ro: "Parcul Național Ainos", en: "Ainos National Park",
+image: "/poi-images/greece-ainos-national-park-life-v2.webp"
+},
     coords: [20.67, 38.14],
     coordinates: { lat: 38.14, lng: 20.67 },
     description: {
@@ -286,11 +497,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Protejează bradul de Kefalonia", "Înființat în: 1962", "Cel mai înalt munte din Ioniene (1628 m)", "Prezența cailor sălbăticiți"],
       en: ["Focus: Endemic Greek Fir protection", "Established in 1962", "Highest peak in the Ionian Islands (1,628 m)", "Home to a population of semi-wild horses"],
     },
-    imageHint: "Ancient Greek fir forest on Mount Ainos", image: "/poi-images/greece-ainos-national-park-life-v2.webp"},
-  {
+imageHint: "Ancient Greek fir forest on Mount Ainos",
+    descriptionAdvanced: {
+      de: "Dieser Park auf Kefalonia schützt die endemische griechische Tanne (Abies cephalonica). Er ist zudem für seine kleinen halbwilden Pferde bekannt, die am Südhang leben.",
+      hu: "A kefalóniai park az endemikus görög jegenyefenyőt védi. Híres továbbá a déli lejtőkön élő kistermetű, félvad lovaival is.",
+      ro: "Acest parc din Kefalonia protejează bradul grecesc endemic (Abies cephalonica). Este renumit și pentru caii sălbatici de talie mică ce trăiesc pe versanții sudici.",
+      en: "This park on Cephalonia protects the endemic Greek fir (Abies cephalonica). It is also famous for a population of small semi-wild horses living on its southern slopes.",
+    },
+    factsAdvanced: {
+      de: ["Endemische Abies cephalonica", "Höchster Berg Enos (1628 m)", "Halbwilde Pferde am Megas Soros", "Gegründet im Jahr 1962"],
+      hu: ["Endemikus Abies cephalonica", "Legmagasabb pont: Enosz (1628 m)", "Félvad lovak a Megasz Szorosz-on", "1962-ben alapították"],
+      ro: ["Bradul endemic Abies cephalonica", "Vârful Enos are 1.628 m", "Cai sălbatici pe versantul sudic", "Înființat în anul 1962"],
+      en: ["Endemic Abies cephalonica fir", "Highest peak Enos at 1,628 m", "Semi-wild horses on southern slope", "Established in 1962"],
+    },
+    image: "/poi-images/greece-ainos-national-park-life-v2.webp",
+},  {
     id: "greece-amvrakikos-gulf-life-v2",
     type: "wildlife",
-    name: { de: "Amvrakischer Golf", hu: "Amvrakikosz-öböl", ro: "Golful Amvrakikos", en: "Amvrakikos Gulf" },
+    name: { de: "Amvrakischer Golf", hu: "Amvrakikosz-öböl", ro: "Golful Amvrakikos", en: "Amvrakikos Gulf",
+image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp"
+},
     coords: [21.05, 39.05],
     coordinates: { lat: 39.05, lng: 21.05 },
     description: {
@@ -305,11 +531,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Peste 250 de specii de păsări", "Populație importantă de delfini cu bot gros", "A doua cea mai mare colonie de pelicani creți din Grecia", "Sit protejat Ramsar"],
       en: ["Over 250 bird species", "Significant population of Bottlenose Dolphins", "Second largest Dalmatian Pelican colony in Greece", "Ramsar protected site"],
     },
-    imageHint: "Dolphins jumping in the calm waters of Amvrakikos Gulf", image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp"},
-  {
+imageHint: "Dolphins jumping in the calm waters of Amvrakikos Gulf",
+    descriptionAdvanced: {
+      de: "Eines der größten geschlossenen Golfgebiete Griechenlands, Heimat einer bedeutenden Delfinpopulation und wichtiger Nistplatz für den Krauskopfpelikan in den Lagunen.",
+      hu: "Görögország egyik legnagyobb zárt öble, ahol jelentős delfinpopuláció él. A lagúnák a borzas pelikánok egyik legfontosabb fészkelőhelyei Európában.",
+      ro: "Unul dintre cele mai mari golfuri închise din Grecia, adăpostind o populație importantă de delfini și fiind loc de cuibărit pentru pelicanul creț.",
+      en: "One of Greece's largest enclosed gulfs, home to a significant dolphin population and a major nesting site for the Dalmatian pelican in its lagoons.",
+    },
+    factsAdvanced: {
+      de: ["Delfinpopulation (Großer Tümmler)", "Nistplatz für Krauskopfpelikane", "Ramsar-Gebiet seit 1974", "Größtes Schilfgebiet des Balkans"],
+      hu: ["Delfinpopuláció (palackorrú)", "Borzas pelikán fészkelőhely", "Ramsari terület 1974 óta", "A Balkán legnagyobb nádasa"],
+      ro: ["Populație de delfini", "Cuibărește pelicanul creț", "Sit Ramsar din 1974", "Cea mai mare zonă cu stuf"],
+      en: ["Resident dolphin population", "Dalmatian pelican nesting site", "Ramsar site since 1974", "Largest reedbed in the Balkans"],
+    },
+    image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp",
+},  {
     id: "greece-strofylia-forest-life-v2",
     type: "forest",
-    name: { de: "Strofylia-Wald", hu: "Sztofilia-erdő", ro: "Pădurea Strofylia", en: "Strofylia Forest" },
+    name: { de: "Strofylia-Wald", hu: "Sztofilia-erdő", ro: "Pădurea Strofylia", en: "Strofylia Forest",
+image: "/poi-images/greece-strofylia-forest-life-v2.webp"
+},
     coords: [21.37, 38.15],
     coordinates: { lat: 38.15, lng: 21.37 },
     description: {
@@ -324,11 +565,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Cea mai mare pădure de pini de piatră din Grecia", "Situată între laguna Kalogria și Marea Ionică", "Habitat important pentru țestoasa de uscat", "Parc național din 2002"],
       en: ["Largest Stone Pine forest in Greece", "Located between Kalogria lagoon and the Ionian Sea", "Key habitat for the Spur-thighed Tortoise", "National Park status since 2002"],
     },
-    imageHint: "Coastal stone pine forest and lagoon", image: "/poi-images/greece-strofylia-forest-life-v2.webp"},
-  {
+imageHint: "Coastal stone pine forest and lagoon",
+    descriptionAdvanced: {
+      de: "Dieser Küstenwald auf dem Peloponnes besteht aus Pinien und Steineichen direkt am Meer. Er bildet einen einzigartigen Übergang zwischen Wald- und Dünenökosystemen.",
+      hu: "Ez a Peloponnészoszon található tengerparti erdő mandulafenyőkből és tölgyekből áll. Egyedülálló átmenetet képez az erdei és a homokdűnés ökoszisztémák között.",
+      ro: "Această pădure de coastă din Peloponez este formată din pini și stejari, situată chiar lângă mare. Reprezintă o tranziție unică între pădure și dune de nisip.",
+      en: "This coastal forest in the Peloponnese consists of Stone pines and oaks right by the sea. It forms a unique transition between forest and dune ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 2.200 Hektar", "Pinien- und Steineichenwald", "Angrenzende Kotychi-Lagune", "Über 200 Vogelarten"],
+      hu: ["Területe kb. 2200 hektár", "Mandulafenyő- és tölgyerdő", "Szomszédos a Kotiki-lagúnával", "Több mint 200 madárfaj"],
+      ro: ["Suprafață de cca. 2.200 hectare", "Pădure de pini și stejari", "Adiacentă lagunei Kotychi", "Peste 200 de specii de păsări"],
+      en: ["Area of approx. 2,200 hectares", "Stone pine and oak forest", "Adjacent to Kotychi Lagoon", "Over 200 bird species recorded"],
+    },
+    image: "/poi-images/greece-strofylia-forest-life-v2.webp",
+},  {
     id: "greece-lake-pamvotis-life-v2",
     type: "lake",
-    name: { de: "Pamvotis-See", hu: "Pamvotisz-tó", ro: "Lacul Pamvotis", en: "Lake Pamvotis" },
+    name: { de: "Pamvotis-See", hu: "Pamvotisz-tó", ro: "Lacul Pamvotis", en: "Lake Pamvotis",
+image: "/poi-images/greece-lake-pamvotis-life-v2.webp"
+},
     coords: [20.89, 39.67],
     coordinates: { lat: 39.67, lng: 20.89 },
     description: {
@@ -343,11 +599,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Vârstă: estimată la peste 1,8 milioane de ani", "Găzduiește singura insulă locuită dintr-un lac din Grecia", "Habitat pentru somnul de Pamvotis endemic", "Sit Natura 2000"],
       en: ["Age: estimated over 1.8 million years", "Features the only inhabited lake island in Greece", "Home to the endemic Pamvotis catfish", "Natura 2000 protected site"],
     },
-    imageHint: "Ioannina island in Lake Pamvotis with birds flying", image: "/poi-images/greece-lake-pamvotis-life-v2.webp"},
-  {
+imageHint: "Ioannina island in Lake Pamvotis with birds flying",
+    descriptionAdvanced: {
+      de: "Der See von Ioannina beherbergt eine reiche Flora und Fauna sowie eine bewohnte Insel. Er ist bekannt für seine endemischen Fischarten und Amphibien in den Feuchtwiesen.",
+      hu: "A Joánina melletti tó gazdag növény- és állatvilágnak ad otthont, közepén egy lakott szigettel. Híres endemikus halfajairól és a nedves rétek kétéltűiről.",
+      ro: "Lacul din Ioannina adăpostește o floră și faună bogată și o insulă locuită. Este cunoscut pentru speciile endemice de pești și amfibienii din zonele umede.",
+      en: "The lake of Ioannina hosts rich flora and fauna and an inhabited island. It is known for its endemic fish species and amphibians found in its wet meadows.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 19 km²", "Maximale Tiefe ca. 11 m", "Endemische Fischart Pelasgus epiroticus", "Bewohnte Insel (Nisi Ioanninon)"],
+      hu: ["Területe kb. 19 km²", "Maximális mélysége 11 m", "Endemikus Pelasgus epiroticus hal", "Lakott sziget (Niszi Joanninon)"],
+      ro: ["Suprafață de cca. 19 km²", "Adâncime maximă de 11 m", "Specie endemică: Pelasgus epiroticus", "Insulă locuită în interior"],
+      en: ["Area of approx. 19 km²", "Maximum depth of 11 m", "Endemic fish Pelasgus epiroticus", "Inhabited island within the lake"],
+    },
+    image: "/poi-images/greece-lake-pamvotis-life-v2.webp",
+},  {
     id: "greece-athens-national-garden-life-v2",
     type: "park",
-    name: { de: "Nationalgarten von Athen", hu: "Athéni Nemzeti Kert", ro: "Grădina Națională din Atena", en: "National Garden of Athens" },
+    name: { de: "Nationalgarten von Athen", hu: "Athéni Nemzeti Kert", ro: "Grădina Națională din Atena", en: "National Garden of Athens",
+image: "/poi-images/greece-athens-national-garden-life-v2.webp"
+},
     coords: [23.7364, 37.9739],
     coordinates: { lat: 37.9739, lng: 23.7364 },
     description: {
@@ -362,11 +633,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Creată între: 1838–1840", "Suprafață: 15,5 hectare", "Include o mică grădină zoologică și muzeu botanic", "Cunoscută anterior sub numele de Grădina Regală"],
       en: ["Created between 1838 and 1840", "Total area: 15.5 hectares", "Features a small zoo and a botanical museum", "Formerly known as the Royal Garden"],
     },
-    imageHint: "Lush green paths in the National Garden of Athens", image: "/poi-images/greece-athens-national-garden-life-v2.webp"},
-  {
+imageHint: "Lush green paths in the National Garden of Athens",
+    descriptionAdvanced: {
+      de: "Eine grüne Oase im Zentrum Athens mit über 500 Pflanzenarten aus aller Welt. Der 1838 angelegte Garten bietet Schatten und Lebensraum für zahlreiche Stadtvögel und Schildkröten.",
+      hu: "Zöld oázis Athén központjában, több mint 500 növényfajjal a világ minden tájáról. Az 1838-ban alapított kert számos városi madárnak és teknősnek ad otthont.",
+      ro: "O oază verde în centrul Atenei cu peste 500 de specii de plante din toată lumea. Creat în 1838, grădina oferă adăpost multor păsări urbane și țestoase.",
+      en: "A green oasis in central Athens featuring over 500 plant species from around the world. Created in 1838, it provides a habitat for urban birds and turtles.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1838", "Fläche ca. 15,5 Hektar", "Über 500 Pflanzenarten", "Ehemaliger königlicher Garten"],
+      hu: ["1838-ban alapították", "Területe kb. 15,5 hektár", "Több mint 500 növényfaj", "Eredetileg királyi kert volt"],
+      ro: ["Înființat în anul 1838", "Suprafață de cca. 15,5 hectare", "Peste 500 de specii de plante", "Fostă grădină regală"],
+      en: ["Established in 1838", "Area of approx. 15.5 hectares", "Over 500 plant species", "Formerly the Royal Garden"],
+    },
+    image: "/poi-images/greece-athens-national-garden-life-v2.webp",
+},  {
     id: "greece-parnassus-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Parnass", hu: "Parnasszosz Nemzeti Park", ro: "Parcul Național Parnassus", en: "Parnassus National Park" },
+    name: { de: "Nationalpark Parnass", hu: "Parnasszosz Nemzeti Park", ro: "Parcul Național Parnassus", en: "Parnassus National Park",
+image: "/poi-images/greece-parnassus-national-park-life-v2.webp"
+},
     coords: [22.57, 38.53],
     coordinates: { lat: 38.53, lng: 22.57 },
     description: {
@@ -382,11 +668,25 @@ export const greeceLifeV2: POI[] = [
       en: ["Established in 1938", "Highest peak: Liakoura (2,457 m)", "Rich in endemic mountain plant species", "Greece's second oldest national park"],
     },
     imageHint: "Parnassus mountain landscape with fir trees",
+    descriptionAdvanced: {
+      de: "Der Park schützt die alpine Flora des mythischen Berges, darunter die Parnass-Glockenblume. In den Kalksteinfelsen brüten Steinadler und Wanderfalken.",
+      hu: "A park a mitikus hegy alpesi flóráját védi, köztük a parnasszoszi harangvirágot. A mészkősziklák között szirti sasok és vándorsolymok fészkelnek.",
+      ro: "Parcul protejează flora alpină a muntelui mitic, inclusiv clopoțelul de Parnas. În stâncile de calcar cuibăresc acvile de munte și șoimi călători.",
+      en: "The park protects the alpine flora of the mythical mountain, including the Parnassian bellflower. Golden eagles and peregrine falcons nest in its limestone cliffs.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt Liakoura (2457 m)", "Gegründet im Jahr 1938", "Heimat des Parnass-Apollo (Falter)", "Über 1.000 Pflanzenarten"],
+      hu: ["Legmagasabb pont: Liakoura (2457 m)", "1938-ban alapították", "A Parnasszoszi Apolló-lepke otthona", "Több mint 1000 növényfaj"],
+      ro: ["Vârful Liakoura are 2.457 m", "Înființat în anul 1938", "Habitat pentru fluturele Apollo", "Peste 1.000 specii de plante"],
+      en: ["Highest peak Liakoura at 2,457 m", "Established in 1938", "Home to the Parnassius Apollo moth", "Over 1,000 plant species"],
+    },
   },
   {
     id: "greece-vravrona-wetland-life-v2",
     type: "wildlife",
-    name: { de: "Feuchtgebiet von Vravrona", hu: "Vravronai vizes élőhely", ro: "Zona umedă Vravrona", en: "Vravrona Wetland" },
+    name: { de: "Feuchtgebiet von Vravrona", hu: "Vravronai vizes élőhely", ro: "Zona umedă Vravrona", en: "Vravrona Wetland",
+image: "/poi-images/greece-vravrona-wetland-life-v2.webp"
+},
     coords: [23.9944, 37.925],
     coordinates: { lat: 37.925, lng: 23.9944 },
     description: {
@@ -401,11 +701,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Peste 220 de specii de păsări documentate", "Parte a rețelei Natura 2000", "Habitat pentru țestoasa de baltă", "Mix de ape salmastre și stufăriș"],
       en: ["Over 220 bird species recorded", "Part of the Natura 2000 network", "Habitat for the endangered Balkan terrapin", "Consists of brackish water and reed beds"],
     },
-    imageHint: "Marshy wetland area near the sea coast", image: "/poi-images/greece-vravrona-wetland-life-v2.webp"},
-  {
+imageHint: "Marshy wetland area near the sea coast",
+    descriptionAdvanced: {
+      de: "Ein wichtiges Küstenökosystem in Attika, das durch den Erasinos-Fluss gespeist wird. Es dient als wichtiger Trittstein für Zugvögel auf ihrem Weg über die Ägäis.",
+      hu: "Fontos tengerparti ökoszisztéma Attikában, amelyet az Eraszinosz-folyó táplál. Kulcsfontosságú pihenőhely az Égei-tenger felett vonuló költöző madarak számára.",
+      ro: "Un ecosistem de coastă important în Attica, alimentat de râul Erasinos. Servește drept punct de popas vital pentru păsările migratoare peste Marea Egee.",
+      en: "An important coastal ecosystem in Attica fed by the Erasinos River. It serves as a vital stepping stone for migratory birds traveling across the Aegean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Über 220 Vogelarten", "Mündung des Flusses Erasinos", "Natura 2000 Schutzgebiet", "Nahe dem Artemis-Heiligtum"],
+      hu: ["Több mint 220 madárfaj", "Az Eraszinosz-folyó torkolata", "Natura 2000 védett terület", "Az Artemisz-szentély mellett"],
+      ro: ["Peste 220 specii de păsări", "Gura de vărsare a râului Erasinos", "Sit Natura 2000", "Lângă sanctuarul zeiței Artemis"],
+      en: ["Over 220 bird species", "Mouth of the Erasinos River", "Natura 2000 protected site", "Located near Artemis sanctuary"],
+    },
+    image: "/poi-images/greece-vravrona-wetland-life-v2.webp",
+},  {
     id: "greece-archelon-rescue-centre-life-v2",
     type: "wildlife",
-    name: { de: "Archelon Schildkröten-Rettungszentrum", hu: "Archelon Teknősmentő Központ", ro: "Centrul de salvare Archelon", en: "Archelon Sea Turtle Rescue Centre" },
+    name: { de: "Archelon Schildkröten-Rettungszentrum", hu: "Archelon Teknősmentő Központ", ro: "Centrul de salvare Archelon", en: "Archelon Sea Turtle Rescue Centre",
+image: "/poi-images/greece-archelon-rescue-centre-life-v2.webp"
+},
     coords: [23.7508, 37.8631],
     coordinates: { lat: 37.8631, lng: 23.7508 },
     description: {
@@ -420,11 +735,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 1983", "Locație: Glyfada, în vagoane de tren dezafectate", "Tratează aproximativ 50 de țestoase anual", "Principalul ONG pentru protecția țestoaselor din Grecia"],
       en: ["Founded in 1983", "Location: Glyfada coast, near Athens", "Treats approximately 50 injured turtles annually", "Greece's leading sea turtle conservation NGO"],
     },
-    imageHint: "Sea turtle being treated in a rescue tank", image: "/poi-images/greece-archelon-rescue-centre-life-v2.webp"},
-  {
+imageHint: "Sea turtle being treated in a rescue tank",
+    descriptionAdvanced: {
+      de: "In Glyfada gelegen, widmet sich dieses Zentrum der Rehabilitation verletzter Meeresschildkröten. Es ist eine der führenden Einrichtungen für den Schildkrötenschutz im Mittelmeer.",
+      hu: "Glifádában található központ, amely sérült tengeri teknősök rehabilitációjával foglalkozik. A Földközi-tenger egyik vezető teknősvédelmi intézménye.",
+      ro: "Situat în Glyfada, acest centru este dedicat reabilitării țestoaselor marine rănite. Este una dintre principalele instituții de conservare din Mediterana.",
+      en: "Located in Glyfada, this centre is dedicated to the rehabilitation of injured sea turtles. It is one of the leading turtle conservation facilities in the Mediterranean.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1983", "Standort in Glyfada (Athen)", "Fokus auf Caretta caretta", "Freiwilligenprogramme vorhanden"],
+      hu: ["1983-ban alapították", "Glifáda városában (Athén) található", "Főleg Caretta carettával foglalkoznak", "Önkéntes programokat szerveznek"],
+      ro: ["Înființat în anul 1983", "Situat în Glyfada, Atena", "Focus pe Caretta caretta", "Programe pentru voluntari"],
+      en: ["Established in 1983", "Located in Glyfada, Athens", "Focus on Caretta caretta turtles", "Volunteer programs available"],
+    },
+    image: "/poi-images/greece-archelon-rescue-centre-life-v2.webp",
+},  {
     id: "greece-rodopi-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Rhodopen", hu: "Rodopé Nemzeti Park", ro: "Parcul Național Rodopi", en: "Rodopi Mountain Range National Park" },
+    name: { de: "Nationalpark Rhodopen", hu: "Rodopé Nemzeti Park", ro: "Parcul Național Rodopi", en: "Rodopi Mountain Range National Park",
+image: "/poi-images/greece-rodopi-national-park-life-v2.webp"
+},
     coords: [24.5, 41.45],
     coordinates: { lat: 41.45, lng: 24.5 },
     description: {
@@ -439,11 +769,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 2009", "Include singura pădure virgină din Grecia (Fraktos)", "Habitat pentru cerbi și urși bruni", "Cea mai mare biodiversitate de arbori din Europa"],
       en: ["Established in 2009", "Contains Fraktos, Greece's only virgin forest", "Home to Red Deer and Brown Bears", "Highest tree species diversity in Europe"],
     },
-    imageHint: "Dense virgin forest in the Rodopi mountains", image: "/poi-images/greece-rodopi-national-park-life-v2.webp"},
-  {
+imageHint: "Dense virgin forest in the Rodopi mountains",
+    descriptionAdvanced: {
+      de: "Dieser Park an der bulgarischen Grenze schützt riesige Urwälder und die größte Vielfalt an Säugetieren in Griechenland, darunter Bären, Wölfe und den seltenen Birkwild-Bestand.",
+      hu: "A bolgár határon fekvő park hatalmas őserdőket és Görögország leggazdagabb emlősvilágát védi, köztük medvéket, farkasokat és ritka nyírfajd-állományokat.",
+      ro: "Parcul de la granița cu Bulgaria protejează păduri virgine și cea mai mare diversitate de mamifere din Grecia, inclusiv urși, lupi și cocoși de mesteacăn.",
+      en: "This park on the Bulgarian border protects vast virgin forests and Greece's greatest mammal diversity, including bears, wolves, and rare Black grouse populations.",
+    },
+    factsAdvanced: {
+      de: ["Größte Säugetierdiversität", "Gegründet im Jahr 2002", "Fläche ca. 1.700 km²", "Vorkommen des Birkwilds"],
+      hu: ["Legnagyobb emlős-diverzitás", "2002-ben alapították", "Területe kb. 1700 km²", "A nyírfajd fészkelőhelye"],
+      ro: ["Cea mai mare diversitate de mamifere", "Înființat în anul 2002", "Suprafață de cca. 1.700 km²", "Prezența cocoșului de mesteacăn"],
+      en: ["Highest mammal diversity in Greece", "Established in 2002", "Area of approx. 1,700 km²", "Black grouse habitat"],
+    },
+    image: "/poi-images/greece-rodopi-national-park-life-v2.webp",
+},  {
     id: "greece-rhodes-aquarium-life-v2",
     type: "museum",
-    name: { de: "Aquarium von Rhodos", hu: "Rodoszi Akvárium", ro: "Acvariul din Rodos", en: "Rhodes Aquarium" },
+    name: { de: "Aquarium von Rhodos", hu: "Rodoszi Akvárium", ro: "Acvariul din Rodos", en: "Rhodes Aquarium",
+image: "/poi-images/greece-rhodes-aquarium-life-v2.webp"
+},
     coords: [28.2206, 36.4564],
     coordinates: { lat: 36.4564, lng: 28.2206 },
     description: {
@@ -458,11 +803,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Construit între 1934–1936 în timpul ocupației italiene", "Nume oficial: Stația Hidrobiologică din Rodos", "Interior amenajat ca o grotă submarină", "Expune specii din estul Mediteranei"],
       en: ["Built between 1934 and 1936 during Italian rule", "Official name: Hydrobiological Station of Rhodes", "The basement is designed as an underwater cave", "Displays species from the eastern Mediterranean"],
     },
-    imageHint: "Art deco building of the Rhodes aquarium by the sea", image: "/poi-images/greece-rhodes-aquarium-life-v2.webp"},
-  {
+imageHint: "Art deco building of the Rhodes aquarium by the sea",
+    descriptionAdvanced: {
+      de: "Das Aquarium in einem Art-Déco-Gebäude zeigt die Meeresfauna des östlichen Mittelmeers. Es dient gleichzeitig als hydrobiologische Station für die Erforschung der Ägäis.",
+      hu: "Egy art déco stílusú épületben található akvárium, amely a Kelet-Földközi-tenger tengeri élővilágát mutatja be. Kutatóállomásként is funkcionál az Égei-tengeren.",
+      ro: "Situat într-o clădire Art Deco, acvariul prezintă fauna marină a Mediteranei de Est. Servește și ca stațiune hidrobiologică pentru cercetarea Mării Egee.",
+      en: "Housed in an Art Deco building, this aquarium showcases eastern Mediterranean marine life. It also serves as a hydrobiological station for Aegean Sea research.",
+    },
+    factsAdvanced: {
+      de: ["Art-Déco-Bau aus den 1930ern", "Hydrobiologische Station", "Standort an der Nordspitze von Rhodos", "Gegründet im Jahr 1934"],
+      hu: ["1930-as évekbeli art déco épület", "Hidrobiológiai kutatóállomás", "Rodosz legészakibb csücskén", "1934-ben alapították"],
+      ro: ["Clădire Art Deco din 1930", "Stațiune hidrobiologică", "În vârful nordic al insulei Rodos", "Înființat în anul 1934"],
+      en: ["Art Deco building from the 1930s", "Hydrobiological research station", "Northernmost point of Rhodes", "Established in 1934"],
+    },
+    image: "/poi-images/greece-rhodes-aquarium-life-v2.webp",
+},  {
     id: "greece-oeta-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Oeta", hu: "Oiti Nemzeti Park", ro: "Parcul Național Oeta", en: "Oeta National Park" },
+    name: { de: "Nationalpark Oeta", hu: "Oiti Nemzeti Park", ro: "Parcul Național Oeta", en: "Oeta National Park",
+image: "/poi-images/greece-oeta-national-park-life-v2.webp"
+},
     coords: [22.2833, 38.8167],
     coordinates: { lat: 38.8167, lng: 22.2833 },
     description: {
@@ -477,11 +837,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 1966", "Cel mai înalt vârf: Pyrgos (2152 m)", "Cunoscut pentru cele peste 1.100 de specii de plante", "Habitat pentru capra neagră balcanică"],
       en: ["Established in 1966", "Highest peak: Pyrgos (2,152 m)", "Home to over 1,100 plant species", "Habitat for the Balkan Chamois"],
     },
-    imageHint: "Balkan chamois on a rocky mountain slope", image: "/poi-images/greece-oeta-national-park-life-v2.webp"},
-  {
+imageHint: "Balkan chamois on a rocky mountain slope",
+    descriptionAdvanced: {
+      de: "Dieser Park in Zentralgriechenland ist bekannt für seine Hochgebirgsflora und als eines der südlichsten Vorkommen der Gämse in Europa. Der Park schützt dichte Tannenwälder.",
+      hu: "Ez a közép-görögországi park magashegyi flórájáról és a zerge egyik legdélebbi európai élőhelyéről híres. Sűrű jegenyefenyveseket oltalmaz.",
+      ro: "Acest parc din centrul Greciei este cunoscut pentru flora alpină și ca unul dintre cele mai sudice habitate ale caprei negre din Europa. Protejează păduri de brad.",
+      en: "This park in central Greece is known for its high-altitude flora and as one of the southernmost habitats for Balkan chamois in Europe. It protects dense fir forests.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1966", "Höchster Gipfel Pyrgos (2152 m)", "Südliche Population der Gämse", "Über 1.200 Pflanzenarten"],
+      hu: ["1966-ban alapították", "Legmagasabb csúcs: Pürgosz (2152 m)", "A zerge déli állománya", "Több mint 1200 növényfaj"],
+      ro: ["Înființat în anul 1966", "Vârful Pyrgos are 2.152 m", "Populație sudică de capră neagră", "Peste 1.200 specii de plante"],
+      en: ["Established in 1966", "Highest peak Pyrgos at 2,152 m", "Southernmost chamois population", "Over 1,200 plant species"],
+    },
+    image: "/poi-images/greece-oeta-national-park-life-v2.webp",
+},  {
     id: "greece-sounion-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Sounion", hu: "Szunion Nemzeti Park", ro: "Parcul Național Sounion", en: "Sounion National Park" },
+    name: { de: "Nationalpark Sounion", hu: "Szunion Nemzeti Park", ro: "Parcul Național Sounion", en: "Sounion National Park",
+image: "/poi-images/greece-sounion-national-park-life-v2.webp"
+},
     coords: [24.0167, 37.6667],
     coordinates: { lat: 37.6667, lng: 24.0167 },
     description: {
@@ -496,11 +871,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Înființat în: 1974", "Suprafață: aprox. 35 km²", "Cunoscut pentru minele antice și abisul 'Chaos'", "Zonă importantă pentru păsări migratoare"],
       en: ["Established in 1974", "Smallest national park in Greece (~35 sq km)", "Features ancient silver mines and the 'Chaos' abyss", "Key site for migratory birds"],
     },
-    imageHint: "Coastal Mediterranean macchia and pine trees in Sounion", image: "/poi-images/greece-sounion-national-park-life-v2.webp"},
-  {
+imageHint: "Coastal Mediterranean macchia and pine trees in Sounion",
+    descriptionAdvanced: {
+      de: "Der kleinste Nationalpark Griechenlands schützt die charakteristische Küstenflora und Geologie Attikas. Er ist zudem für seine mineralreichen Erze und alten Minen bekannt.",
+      hu: "Görögország legkisebb nemzeti parkja Attika jellegzetes tengerparti flóráját és geológiáját védi. Híres ásványkincseiről és ókori bányáiról is.",
+      ro: "Cel mai mic parc național din Grecia protejează flora de coastă și geologia specifică Atticăi. Este cunoscut și pentru zăcămintele minerale și minele antice.",
+      en: "Greece's smallest national park protects Attica's characteristic coastal flora and geology. It is also known for its mineral wealth and ancient mining sites.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1974", "Kleinster Nationalpark des Landes", "Vorkommen von Aleppo-Kiefern", "Historische Silberminen"],
+      hu: ["1974-ben alapították", "Az ország legkisebb nemzeti parkja", "Aleppo-fenyők élőhelye", "Történelmi ezüstbányák"],
+      ro: ["Înființat în anul 1974", "Cel mai mic parc național", "Păduri de pin de Alep", "Mine istorice de argint"],
+      en: ["Established in 1974", "Smallest national park in Greece", "Aleppo pine forests", "Site of ancient silver mines"],
+    },
+    image: "/poi-images/greece-sounion-national-park-life-v2.webp",
+},  {
     id: "greece-messolonghi-lagoon-life-v2",
     type: "wildlife",
-    name: { de: "Lagune von Messolonghi", hu: "Meszolongi-lagúna", ro: "Laguna Messolonghi", en: "Messolonghi Lagoon" },
+    name: { de: "Lagune von Messolonghi", hu: "Meszolongi-lagúna", ro: "Laguna Messolonghi", en: "Messolonghi Lagoon",
+image: "/poi-images/greece-messolonghi-lagoon-life-v2.webp"
+},
     coords: [21.39, 38.33],
     coordinates: { lat: 38.33, lng: 21.39 },
     description: {
@@ -515,11 +905,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Sit Ramsar de importanță internațională", "Locul de producție al faimosului Bottarga (icre de pește)", "Populație semnificativă de flamingo", "Parc național din 2006"],
       en: ["Ramsar wetland of international importance", "Famous for 'Avgotaracho' (bottarga) production", "Significant population of greater flamingos", "National Park status since 2006"],
     },
-    imageHint: "Wooden fisherman's huts on stilts in the lagoon", image: "/poi-images/greece-messolonghi-lagoon-life-v2.webp"},
-  {
+imageHint: "Wooden fisherman's huts on stilts in the lagoon",
+    descriptionAdvanced: {
+      de: "Dieses riesige Lagunensystem ist berühmt für die Produktion von Bottarga und als eines der reichsten Fischfanggebiete Griechenlands, das Tausende Wasservögel ernährt.",
+      hu: "Ez az óriási lagúnarendszer híres a bottarga (sózott halikra) termeléséről és Görögország egyik leggazdagabb halászati területéről, amely vízimadarak ezreit táplálja.",
+      ro: "Acest sistem vast de lagune este faimos pentru producția de bottarga și ca una dintre cele mai bogate zone de pescuit, hrănind mii de păsări acvatice.",
+      en: "This vast lagoon system is famous for bottarga production and as one of Greece's richest fishing grounds, supporting thousands of waterbirds.",
+    },
+    factsAdvanced: {
+      de: ["Größte Lagune Griechenlands", "Produktion von Avgotaracho (Rogen)", "Über 280 Vogelarten", "Teil der Ramsar-Konvention"],
+      hu: ["Görögország legnagyobb lagúnája", "Avgotaracho (halikra) készítése", "Több mint 280 madárfaj", "Ramsari egyezmény része"],
+      ro: ["Cea mai mare lagună din Grecia", "Producție de Avgotaracho (icre)", "Peste 280 de specii de păsări", "Protejat prin Convenția Ramsar"],
+      en: ["Largest lagoon in Greece", "Production of Avgotaracho (roe)", "Over 280 bird species", "Protected by Ramsar Convention"],
+    },
+    image: "/poi-images/greece-messolonghi-lagoon-life-v2.webp",
+},  {
     id: "greece-diomedes-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Diomedes", hu: "Diomédész Botanikus Kert", ro: "Grădina Botanică Diomedes", en: "Diomedes Botanical Garden" },
+    name: { de: "Botanischer Garten Diomedes", hu: "Diomédész Botanikus Kert", ro: "Grădina Botanică Diomedes", en: "Diomedes Botanical Garden",
+image: "/poi-images/greece-diomedes-botanical-garden-life-v2.webp"
+},
     coords: [23.6408, 38.0117],
     coordinates: { lat: 38.0117, lng: 23.6408 },
     description: {
@@ -535,11 +940,25 @@ export const greeceLifeV2: POI[] = [
       en: ["Total area: approx. 186 hectares", "Founded in 1952", "Location: Haidari, western Athens", "Features plants mentioned in Greek mythology"],
     },
     imageHint: "Wide variety of plants in a large botanical garden",
+    descriptionAdvanced: {
+      de: "Der größte botanische Garten des östlichen Mittelmeerraums beherbergt über 2.500 Pflanzenarten. Ein besonderer Bereich widmet sich Pflanzen, die in der antiken Literatur erwähnt werden.",
+      hu: "A Kelet-Földközi-tenger legnagyobb botanikus kertje több mint 2500 növényfajnak ad otthont. Külön szekció foglalkozik az ókori irodalomban említett növényekkel.",
+      ro: "Cea mai mare grădină botanică din Mediterana de Est găzduiește peste 2.500 de specii de plante. O secțiune specială prezintă plante menționate în literatura antică.",
+      en: "The largest botanical garden in the Eastern Mediterranean houses over 2,500 plant species. A special section is dedicated to plants mentioned in ancient literature.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 186 Hektar", "Über 2.500 Pflanzenarten", "Gegründet im Jahr 1975", "Abteilung für Arzneipflanzen"],
+      hu: ["Területe kb. 186 hektár", "Több mint 2500 növényfaj", "1975-ben alapították", "Gyógynövény részleg"],
+      ro: ["Suprafață de cca. 186 hectare", "Peste 2.500 de specii de plante", "Deschisă în anul 1975", "Secțiune de plante medicinale"],
+      en: ["Area of approx. 186 hectares", "Over 2,500 plant species", "Established in 1975", "Medicinal plants section"],
+    },
   },
   {
     id: "greece-monachus-conservation-center-life-v2",
     type: "wildlife",
-    name: { de: "MOM Mönchsrobben-Zentrum", hu: "MOM Barátfóka-védelmi Központ", ro: "Centrul de conservare MOM", en: "Monachus monachus Conservation Center" },
+    name: { de: "MOM Mönchsrobben-Zentrum", hu: "MOM Barátfóka-védelmi Központ", ro: "Centrul de conservare MOM", en: "Monachus monachus Conservation Center",
+image: "/poi-images/greece-monachus-conservation-center-life-v2.webp"
+},
     coords: [23.8647, 39.1481],
     coordinates: { lat: 39.1481, lng: 23.8647 },
     description: {
@@ -554,11 +973,26 @@ export const greeceLifeV2: POI[] = [
       ro: ["Operat de ONG-ul MOm", "Sediul: Patitiri, Alonissos", "Foca călugăr este unul dintre cele mai rare mamifere din Europa", "Focus pe educație și salvarea exemplarelor"],
       en: ["Operated by the NGO MOm", "Headquarters: Patitiri, Alonissos", "Monk seals are among Europe's rarest mammals", "Focuses on habitat management and public awareness"],
     },
-    imageHint: "Information center and seal rescue equipment", image: "/poi-images/greece-monachus-conservation-center-life-v2.webp"},
-  {
+imageHint: "Information center and seal rescue equipment",
+    descriptionAdvanced: {
+      de: "Dieses Zentrum auf Alonissos widmet sich der Pflege verwaister oder verletzter Mittelmeer-Mönchsrobben. Es spielt eine zentrale Rolle für das Überleben dieser am stärksten bedrohten Robbenart.",
+      hu: "Az alonisszoszi központ árva vagy sérült mediterrán barátfókák gondozásával foglalkozik. Kulcsszerepet játszik e veszélyeztetett fókafaj túlélésében.",
+      ro: "Acest centru din Alonissos este dedicat îngrijirii focilor monah orfane sau rănite. Joacă un rol vital în supraviețuirea acestei specii critice.",
+      en: "This centre on Alonissos is dedicated to caring for orphaned or injured Mediterranean monk seals. It plays a key role in the survival of this critically endangered species.",
+    },
+    factsAdvanced: {
+      de: ["Schutz der Monachus monachus", "Sitz auf der Insel Alonissos", "Rehabilitationszentrum", "Betrieben von der NGO MOm"],
+      hu: ["A Monachus monachus védelme", "Alonisszosz szigetén található", "Rehabilitációs központ", "A MOm civil szervezet üzemelteti"],
+      ro: ["Protejează Monachus monachus", "Situat pe insula Alonissos", "Centru de reabilitare", "Operat de ONG-ul MOm"],
+      en: ["Protects Monachus monachus seals", "Located on Alonissos island", "Seal rehabilitation facility", "Operated by the NGO MOm"],
+    },
+    image: "/poi-images/greece-monachus-conservation-center-life-v2.webp",
+},  {
     id: "greece-kotychi-lagoon-life-v2",
     type: "wildlife",
-    name: { de: "Kotychi-Lagune", hu: "Kotiki-lagúna", ro: "Laguna Kotychi", en: "Kotychi Lagoon" },
+    name: { de: "Kotychi-Lagune", hu: "Kotiki-lagúna", ro: "Laguna Kotychi", en: "Kotychi Lagoon",
+image: "/poi-images/greece-kotychi-lagoon-life-v2.webp"
+},
     coords: [21.3, 38.01],
     coordinates: { lat: 38.01, lng: 21.3 },
     description: {
@@ -574,5 +1008,17 @@ export const greeceLifeV2: POI[] = [
       en: ["Ramsar designated wetland", "Part of the Kotychi-Strofylia National Park", "Key stopover on the western migratory route", "Rich in fish species such as mullets"],
     },
     imageHint: "Large lagoon with marshy banks and birds",
+    descriptionAdvanced: {
+      de: "Eine wichtige Lagune auf dem Peloponnes, die durch Sanddünen vom Meer getrennt ist. Sie bietet Lebensraum für gefährdete Vogelarten und dient als Fischlaichplatz.",
+      hu: "Fontos lagúna a Peloponnészoszon, amelyet homokdűnék választanak el a tengertől. Veszélyeztetett madárfajok élőhelye és fontos halívóhely.",
+      ro: "O lagună importantă în Peloponez, separată de mare prin dune de nisip. Oferă habitat pentru specii de păsări periclitate și loc de depunere a icrelor.",
+      en: "An important lagoon in the Peloponnese separated from the sea by sand dunes. It provides a habitat for endangered bird species and serves as a fish spawning ground.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Natura 2000 Netzwerks", "Angrenzend an den Strofylia-Wald", "Ramsar-Schutzgebiet", "Wichtiger Ort für den Vogelzug"],
+      hu: ["Natura 2000 hálózat része", "A Sztrofilia-erdővel szomszédos", "Ramsari védett terület", "Fontos madárvonulási állomás"],
+      ro: ["Parte a rețelei Natura 2000", "Adiacentă pădurii Strofylia", "Sit protejat Ramsar", "Loc important de migrație"],
+      en: ["Part of Natura 2000 network", "Adjacent to Strofylia forest", "Ramsar protected wetland", "Key site for bird migration"],
+    },
   }
 ];

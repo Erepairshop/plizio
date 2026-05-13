@@ -7,7 +7,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "mountain",
     parent: "CA-BC",
     coords: [-115.6506, 50.9225],
-    name: { de: "Mount Assiniboine", hu: "Mount Assiniboine", ro: "Muntele Assiniboine", en: "Mount Assiniboine" },
+    name: { de: "Mount Assiniboine", hu: "Mount Assiniboine", ro: "Muntele Assiniboine", en: "Mount Assiniboine",
+image: "/poi-images/mount-assiniboine-nature-v2.webp"
+},
     description: {
       de: "Das Matterhorn der Rocky Mountains besticht durch seine markante Pyramidenform an der Grenze zwischen British Columbia und Alberta.",
       hu: "A Sziklás-hegység egyik leglátványosabb csúcsa Brit Columbia és Alberta határán, amelyet alakja miatt \"Kanada Matterhornjának\" is nevezik.",
@@ -31,7 +33,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-NT",
     coords: [-125.5858, 61.5644],
-    name: { de: "South Nahanni River", hu: "South Nahanni-folyó", ro: "Râul South Nahanni", en: "South Nahanni River" },
+    name: { de: "South Nahanni River", hu: "South Nahanni-folyó", ro: "Râul South Nahanni", en: "South Nahanni River",
+image: "/poi-images/south-nahanni-river-nature-v2.webp"
+},
     description: {
       de: "Der South Nahanni River fließt durch spektakuläre Schluchten und über die gewaltigen Virginia Falls in den Northwest Territories.",
       hu: "Az Északnyugati területeken kanyargó vadregényes folyó, amely mély kanyonjairól és hatalmas vízeséseiről ismert.",
@@ -55,7 +59,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "lake",
     parent: "CA-NT",
     coords: [-114.0, 62.0],
-    name: { de: "Großer Sklavensee", hu: "Nagy-Rabszolga-tó", ro: "Marele Lac al Sclavilor", en: "Great Slave Lake" },
+    name: { de: "Großer Sklavensee", hu: "Nagy-Rabszolga-tó", ro: "Marele Lac al Sclavilor", en: "Great Slave Lake",
+image: "/poi-images/great-slave-lake-nature-v2.webp"
+},
     description: {
       de: "Der Große Sklavensee ist der tiefste See Nordamerikas und ein zentrales Gewässer in der Wildnis der Northwest Territories.",
       hu: "Észak-Amerika legmélyebb tava, amely az Északnyugati területeken található, és partján fekszik Yellowknife városa.",
@@ -79,7 +85,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "island",
     parent: "CA-BC",
     coords: [-132.0, 53.0],
-    name: { de: "Haida Gwaii", hu: "Haida Gwaii", ro: "Haida Gwaii", en: "Haida Gwaii" },
+    name: { de: "Haida Gwaii", hu: "Haida Gwaii", ro: "Haida Gwaii", en: "Haida Gwaii",
+image: "/poi-images/haida-gwaii-islands-nature-v2.webp"
+},
     description: {
       de: "Dieser entlegene Archipel vor der Küste von British Columbia ist für seine einzigartige Tierwelt und die reiche Kultur der Haida bekannt.",
       hu: "Brit Columbia partjainál fekvő szigetcsoport, amely gazdag őslakos kultúrájáról és egyedülálló élővilágáról híres.",
@@ -103,7 +111,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "forest",
     parent: "CA-BC",
     coords: [-125.7667, 49.0333],
-    name: { de: "Pacific-Rim-Nationalpark Wald", hu: "Pacific Rim Nemzeti Park erdő", ro: "Pădurea Parcului Național Pacific Rim", en: "Pacific Rim National Park Forest" },
+    name: { de: "Pacific-Rim-Nationalpark Wald", hu: "Pacific Rim Nemzeti Park erdő", ro: "Pădurea Parcului Național Pacific Rim", en: "Pacific Rim National Park Forest",
+image: "/poi-images/pacific-rim-national-park-forest-nature-v2.webp"
+},
     description: {
       de: "Umfasst gemäßigte Regenwälder mit riesigen, alten Bäumen an der Westküste von Vancouver Island.",
       hu: "Mérsékelt övi esőerdőket foglal magában óriási, ősi fákkal a Vancouver-sziget nyugati partján.",
@@ -121,7 +131,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "sea",
     parent: "CA-NT",
     coords: [-137.0, 72.0],
-    name: { de: "Beaufortsee", hu: "Beaufort-tenger", ro: "Marea Beaufort", en: "Beaufort Sea" },
+    name: { de: "Beaufortsee", hu: "Beaufort-tenger", ro: "Marea Beaufort", en: "Beaufort Sea",
+image: "/poi-images/beaufort-sea-nature-v2.webp"
+},
     description: {
       de: "Ein Randmeer des Arktischen Ozeans, das für einen Großteil des Jahres von Eis bedeckt ist.",
       hu: "A Jeges-tenger peremtengere, melyet az év nagy részében jég borít.",
@@ -139,7 +151,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "mountain",
     parent: "CA-AB",
     coords: [-116.215, 51.3486],
-    name: { de: "Mount Temple", hu: "Mount Temple", ro: "Muntele Temple", en: "Mount Temple" },
+    name: { de: "Mount Temple", hu: "Mount Temple", ro: "Muntele Temple", en: "Mount Temple",
+image: "/poi-images/mount-temple-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Berg im Banff-Nationalpark, der über dem Tal der Zehn Gipfel thront.",
       hu: "Jellegzetes hegy a Banff Nemzeti Parkban, amely a Tíz Csúcs völgye fölé magasodik.",
@@ -157,7 +171,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-AB",
     coords: [-111.15, 58.6833],
-    name: { de: "Athabasca River", hu: "Athabasca-folyó", ro: "Râul Athabasca", en: "Athabasca River" },
+    name: { de: "Athabasca River", hu: "Athabasca-folyó", ro: "Râul Athabasca", en: "Athabasca River",
+image: "/poi-images/athabasca-river-nature-v2.webp"
+},
     description: {
       de: "Entspringt dem Columbia-Eisfeld und fließt durch die Ölsandregion Albertas.",
       hu: "A Columbia-jégmezőből ered és Alberta olajhomok-régióján folyik keresztül.",
@@ -175,7 +191,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "lake",
     parent: "CA-ON",
     coords: [-87.5, 48.0],
-    name: { de: "Oberer See", hu: "Felső-tó", ro: "Lacul Superior", en: "Lake Superior" },
+    name: { de: "Oberer See", hu: "Felső-tó", ro: "Lacul Superior", en: "Lake Superior",
+image: "/poi-images/lake-superior-nature-v2.webp"
+},
     description: {
       de: "Der größte der Großen Seen und der flächenmäßig größte Süßwassersee der Welt.",
       hu: "A Nagy-tavak legnagyobbika és a világ legnagyobb területű édesvizű tava.",
@@ -193,7 +211,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "island",
     parent: "CA-QC",
     coords: [-61.85, 47.3833],
-    name: { de: "Magdalenen-Inseln", hu: "Magdalen-szigetek", ro: "Insulele Magdalena", en: "Magdalen Islands" },
+    name: { de: "Magdalenen-Inseln", hu: "Magdalen-szigetek", ro: "Insulele Magdalena", en: "Magdalen Islands",
+image: "/poi-images/magdalen-islands-nature-v2.webp"
+},
     description: {
       de: "Ein Archipel im Sankt-Lorenz-Golf, bekannt für seine Sanddünen und roten Klippen.",
       hu: "Szigetcsoport a Szent Lőrinc-öbölben, homokdűnéiről és vörös szikláiról ismert.",
@@ -211,7 +231,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "forest",
     parent: "CA-ON",
     coords: [-85.0, 52.0],
-    name: { de: "Borealer Nadelwald Kanadas", hu: "Kanadai boreális erdő", ro: "Pădurea boreală canadiană", en: "Canadian Boreal Forest" },
+    name: { de: "Borealer Nadelwald Kanadas", hu: "Kanadai boreális erdő", ro: "Pădurea boreală canadiană", en: "Canadian Boreal Forest",
+image: "/poi-images/boreal-forest-nature-v2.webp"
+},
     description: {
       de: "Ein riesiges Waldgebiet, das sich über einen Großteil Kanadas erstreckt und eine entscheidende Rolle für das globale Klima spielt.",
       hu: "Hatalmas erdőség, amely Kanada nagy részén átível, és döntő szerepet játszik a globális éghajlatban.",
@@ -229,7 +251,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "sea",
     parent: "CA-MB",
     coords: [-85.0, 60.0],
-    name: { de: "Hudson Bay", hu: "Hudson-öböl", ro: "Golful Hudson", en: "Hudson Bay" },
+    name: { de: "Hudson Bay", hu: "Hudson-öböl", ro: "Golful Hudson", en: "Hudson Bay",
+image: "/poi-images/hudson-bay-nature-v2.webp"
+},
     description: {
       de: "Ein großes Binnenmeer in Ostkanada, das im Winter zufriert und für Eisbärenwanderungen bekannt ist.",
       hu: "Nagy beltenger Kelet-Kanadában, amely télen befagy, és a jegesmedve-vándorlásról ismert.",
@@ -247,7 +271,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "mountain",
     parent: "CA-BC",
     coords: [-125.263, 51.371],
-    name: { de: "Mount Waddington", hu: "Mount Waddington", ro: "Muntele Waddington", en: "Mount Waddington" },
+    name: { de: "Mount Waddington", hu: "Mount Waddington", ro: "Muntele Waddington", en: "Mount Waddington",
+image: "/poi-images/mount-waddington-nature-v2.webp"
+},
     description: {
       de: "Der höchste Gipfel der Coast Mountains in British Columbia, bekannt für sein extremes Wetter.",
       hu: "A Parti-hegység legmagasabb csúcsa Brit Kolumbiában, szélsőséges időjárásáról ismert.",
@@ -265,7 +291,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-SK",
     coords: [-94.1667, 58.7833],
-    name: { de: "Churchill River (Saskatchewan)", hu: "Churchill-folyó (Saskatchewan)", ro: "Râul Churchill (Saskatchewan)", en: "Churchill River (Saskatchewan)" },
+    name: { de: "Churchill River (Saskatchewan)", hu: "Churchill-folyó (Saskatchewan)", ro: "Râul Churchill (Saskatchewan)", en: "Churchill River (Saskatchewan)",
+image: "/poi-images/churchill-river-saskatchewan-nature-v2.webp"
+},
     description: {
       de: "Ein historischer Fluss mit unzähligen Seen und Stromschnellen, eine wichtige Route für Kanuten.",
       hu: "Történelmi folyó számtalan tóval és zúgóval, fontos útvonal a kenusok számára.",
@@ -283,7 +311,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "lake",
     parent: "CA-MB",
     coords: [-97.5, 52.5],
-    name: { de: "Winnipegsee", hu: "Winnipeg-tó", ro: "Lacul Winnipeg", en: "Lake Winnipeg" },
+    name: { de: "Winnipegsee", hu: "Winnipeg-tó", ro: "Lacul Winnipeg", en: "Lake Winnipeg",
+image: "/poi-images/lake-winnipeg-nature-v2.webp"
+},
     description: {
       de: "Ein sehr großer, aber relativ flacher See in Manitoba, Überbleibsel des prähistorischen Agassizsees.",
       hu: "Nagyon nagy, de viszonylag sekély tó Manitobában, a történelem előtti Agassiz-tó maradványa.",
@@ -301,7 +331,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "island",
     parent: "CA-PE",
     coords: [-63.0, 46.5],
-    name: { de: "Prince Edward Island", hu: "Prince Edward-sziget", ro: "Insula Prince Edward", en: "Prince Edward Island" },
+    name: { de: "Prince Edward Island", hu: "Prince Edward-sziget", ro: "Insula Prince Edward", en: "Prince Edward Island",
+image: "/poi-images/prince-edward-island-nature-v2.webp"
+},
     description: {
       de: "Kanadas kleinste Provinz, bekannt für ihre sanften Hügel, roten Sandstrände und die Geschichten von Anne auf Green Gables.",
       hu: "Kanada legkisebb tartománya, lankás dombjairól, vörös homokos strandjairól és az Anne a Zöld Oromból történeteiről ismert.",
@@ -319,7 +351,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "forest",
     parent: "CA-BC",
     coords: [-124.6, 48.7],
-    name: { de: "Carmanah Walbran Provincial Park Wald", hu: "Carmanah Walbran Tartományi Park erdő", ro: "Pădurea Parcului Provincial Carmanah Walbran", en: "Carmanah Walbran Provincial Park Forest" },
+    name: { de: "Carmanah Walbran Provincial Park Wald", hu: "Carmanah Walbran Tartományi Park erdő", ro: "Pădurea Parcului Provincial Carmanah Walbran", en: "Carmanah Walbran Provincial Park Forest",
+image: "/poi-images/carmanah-walbran-provincial-park-forest-nature-v2.webp"
+},
     description: {
       de: "Schützt einen Teil des größten alten gemäßigten Regenwaldes auf Vancouver Island.",
       hu: "A Carmanah-Walbran Provincial Park Brit Columbia egyik híres öreg erdős területe. A mérsékelt övi esőerdő hatalmas fáiról ismert.",
@@ -337,7 +371,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "forest",
     parent: "CA-BC",
     coords: [-115.6, 50.9],
-    name: { de: "Mount Assiniboine Park Wald", hu: "Mount Assiniboine Park erdő", ro: "Pădurea Parcului Mount Assiniboine", en: "Mount Assiniboine Park Forest" },
+    name: { de: "Mount Assiniboine Park Wald", hu: "Mount Assiniboine Park erdő", ro: "Pădurea Parcului Mount Assiniboine", en: "Mount Assiniboine Park Forest",
+image: "/poi-images/mount-assiniboine-park-forest-nature-v2.webp"
+},
     description: {
       de: "Alpine und subalpine Wälder, die den berühmten Gipfel umgeben.",
       hu: "Alpesi és szubalpesi erdők, melyek a híres hegycsúcsot veszik körül.",
@@ -355,7 +391,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "forest",
     parent: "CA-BC",
     coords: [-131.5, 52.4],
-    name: { de: "Gwaii Haanas Nationalpark Wald", hu: "Gwaii Haanas Nemzeti Park erdő", ro: "Pădurea Parcului Național Gwaii Haanas", en: "Gwaii Haanas National Park Forest" },
+    name: { de: "Gwaii Haanas Nationalpark Wald", hu: "Gwaii Haanas Nemzeti Park erdő", ro: "Pădurea Parcului Național Gwaii Haanas", en: "Gwaii Haanas National Park Forest",
+image: "/poi-images/gwaii-haanas-national-park-reserve-forest-nature-v2.webp"
+},
     description: {
       de: "Ein reicher Regenwald, der mit der Haida-Kultur verflochten ist und uralte Totempfähle beherbergt.",
       hu: "Gazdag esőerdő, amely összefonódik a haida kultúrával és ősi totemoszlopoknak ad otthont.",
@@ -374,7 +412,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "mountain",
     parent: "CA-AB",
     coords: [-117.884, 52.148],
-    name: { de: "Mount Columbia", hu: "Mount Columbia", ro: "Muntele Columbia", en: "Mount Columbia" },
+    name: { de: "Mount Columbia", hu: "Mount Columbia", ro: "Muntele Columbia", en: "Mount Columbia",
+image: "/poi-images/mount-columbia-nature-v2.webp"
+},
     description: {
       de: "Der höchste Punkt in Alberta, gelegen auf dem Columbia-Eisfeld.",
       hu: "Alberta legmagasabb pontja, a Columbia-jégmezőn található.",
@@ -392,7 +432,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-BC",
     coords: [-111.433, 59.0],
-    name: { de: "Peace River", hu: "Peace-folyó", ro: "Râul Peace", en: "Peace River" },
+    name: { de: "Peace River", hu: "Peace-folyó", ro: "Râul Peace", en: "Peace River",
+image: "/poi-images/peace-river-nature-v2.webp"
+},
     description: {
       de: "Ein großer Fluss, der durch British Columbia und Alberta fließt und für die Landwirtschaft in der Region von großer Bedeutung ist.",
       hu: "Nagy folyó, amely Brit Columbián és Albertán folyik keresztül, és nagy jelentőséggel bír a régió mezőgazdasága szempontjából.",
@@ -410,7 +452,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "lake",
     parent: "CA-SK",
     coords: [-109.0, 59.0],
-    name: { de: "Athabascasee", hu: "Athabasca-tó", ro: "Lacul Athabasca", en: "Lake Athabasca" },
+    name: { de: "Athabascasee", hu: "Athabasca-tó", ro: "Lacul Athabasca", en: "Lake Athabasca",
+image: "/poi-images/lake-athabasca-nature-v2.webp"
+},
     description: {
       de: "Ein großer See in Saskatchewan und Alberta, bekannt für seine Sanddünen und den Uranabbau.",
       hu: "Nagy tó Saskatchewanban és Albertában, homokdűnéiről és uránbányászatáról ismert.",
@@ -428,7 +472,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "island",
     parent: "CA-NS",
     coords: [-60.75, 46.25],
-    name: { de: "Kap-Breton-Insel", hu: "Cape Breton-sziget", ro: "Insula Cape Breton", en: "Cape Breton Island" },
+    name: { de: "Kap-Breton-Insel", hu: "Cape Breton-sziget", ro: "Insula Cape Breton", en: "Cape Breton Island",
+image: "/poi-images/cape-breton-island-nature-v2.webp"
+},
     description: {
       de: "Eine Insel in Nova Scotia, berühmt für den Cabot Trail, eine der landschaftlich reizvollsten Strecken der Welt.",
       hu: "Sziget Új-Skóciában, híres a Cabot Trail-ről, a világ egyik legfestőibb útvonaláról.",
@@ -446,7 +492,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "island",
     parent: "CA-ON",
     coords: [-82.5, 45.75],
-    name: { de: "Manitoulin Island", hu: "Manitoulin-sziget", ro: "Insula Manitoulin", en: "Manitoulin Island" },
+    name: { de: "Manitoulin Island", hu: "Manitoulin-sziget", ro: "Insula Manitoulin", en: "Manitoulin Island",
+image: "/poi-images/manitoulin-island-nature-v2.webp"
+},
     description: {
       de: "Die größte in einem See gelegene Insel der Welt, im Huronsee.",
       hu: "A világ legnagyobb, tóban fekvő szigete a Huron-tóban.",
@@ -464,7 +512,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-YT",
     coords: [-135.0, 60.7],
-    name: { de: "Yukon River", hu: "Yukon-folyó", ro: "Fluviul Yukon", en: "Yukon River" },
+    name: { de: "Yukon River", hu: "Yukon-folyó", ro: "Fluviul Yukon", en: "Yukon River",
+image: "/poi-images/yukon-river-nature-v2.webp"
+},
     description: {
       de: "Ein legendärer Fluss, der für seine Rolle im Klondike-Goldrausch berühmt ist.",
       hu: "Legendás folyó, amely a Klondike-i aranylázban játszott szerepéről híres.",
@@ -482,7 +532,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "mountain",
     parent: "CA-YT",
     coords: [-140.40, 60.56],
-    name: { de: "Mount St. Elias", hu: "Mount St. Elias", ro: "Muntele Saint Elias", en: "Mount St. Elias" },
+    name: { de: "Mount St. Elias", hu: "Mount St. Elias", ro: "Muntele Saint Elias", en: "Mount St. Elias",
+image: "/poi-images/mount-foraker-nature-v2.webp"
+},
     description: {
       de: "Der zweithöchste Berg in Kanada und den Vereinigten Staaten, an der Grenze zwischen Yukon und Alaska.",
       hu: "Kanada és az Egyesült Államok második legmagasabb hegye, a Yukon és Alaszka határán.",
@@ -500,7 +552,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-NB",
     coords: [-66.06, 45.27],
-    name: { de: "Saint John River", hu: "Saint John-folyó", ro: "Râul Saint John", en: "Saint John River" },
+    name: { de: "Saint John River", hu: "Saint John-folyó", ro: "Râul Saint John", en: "Saint John River",
+image: "/poi-images/saint-john-river-nature-v2.webp"
+},
     description: {
       de: "Ein großer Fluss, der durch New Brunswick fließt und für seine 'Reversing Falls' in Saint John bekannt ist.",
       hu: "Nagy folyó, amely New Brunswick-en folyik keresztül, és a Saint John-i 'Fordított vízesésről' ismert.",
@@ -518,7 +572,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "lake",
     parent: "CA-AB",
     coords: [-116.95, 52.66],
-    name: { de: "Maligne Lake", hu: "Maligne-tó", ro: "Lacul Maligne", en: "Maligne Lake" },
+    name: { de: "Maligne Lake", hu: "Maligne-tó", ro: "Lacul Maligne", en: "Maligne Lake",
+image: "/poi-images/malgne-lake-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer See im Jasper-Nationalpark, berühmt für die winzige Spirit Island.",
       hu: "Festői tó a Jasper Nemzeti Parkban, híres az apró Spirit-szigetről.",
@@ -536,7 +592,9 @@ export const poiExtraCanadaNatureV2: POI[] = [
     type: "river",
     parent: "CA-AB",
     coords: [-114.07, 51.05],
-    name: { de: "Bow River", hu: "Bow-folyó", ro: "Râul Bow", en: "Bow River" },
+    name: { de: "Bow River", hu: "Bow-folyó", ro: "Râul Bow", en: "Bow River",
+image: "/poi-images/bow-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss in Alberta, der aus den Rocky Mountains kommt und durch Calgary fließt.",
       hu: "Folyó Albertában, amely a Sziklás-hegységből ered és Calgaryn folyik keresztül.",

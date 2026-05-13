@@ -17,8 +17,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Der Fernsehturm Kairo (Burj al-Qahira) ist ein 187 Meter hoher, freistehender Betonturm im Stadtteil Zamalek auf der Insel Gezira. Der 1961 fertiggestellte Turm wurde von dem ägyptischen Architekten Naoum Shebib entworfen. Seine Gitterstruktur ist einer Lotuspflanze nachempfunden, was ihn zu einem bedeutenden Beispiel moderner ägyptischer Architektur macht. Von der Aussichtsplattform an der Spitze bietet sich ein atemberaubender Blick auf den Nil und die Pyramiden von Gizeh bei klarem Wetter. Er war für viele Jahre das höchste Bauwerk des Landes. Geografie K7 — Moderne Bauwerke.",
       ro: "Turnul din Cairo, situat în cartierul Gezira, măsoară 187 de metri înălțime și este una dintre cele mai emblematice structuri din Egipt. Finalizat în 1961, acesta a fost proiectat de arhitectul Naoum Chebib, având o formă care amintește de o plantă de lotus. Turnul oferă o vedere panoramică asupra fluviului Nil și a întregii capitale egiptene, fiind un punct central de atracție pentru vizitatori. Geografia K7 - structuri urbane și puncte de reper.",
       hu: "A(z) Kairó-torony az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy 187 méter magas, szabadon álló beton tévétorony Kairóban, amely panorámás kilátást nyújt a városra. 1956 és 1961 között épült. Kialakítása egy lótusznövényre emlékeztet. Egyiptom legmagasabb építménye. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Cairo Tower is a remarkable feature of the geography and culture of Egypt. A free-standing concrete television tower in Cairo, standing at 187 meters and offering panoramic views of the city. Built between 1956 and 1961. Designed to resemble a lotus plant. Tallest structure in Egypt. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Cairo Tower is a remarkable feature of the geography and culture of Egypt. A free-standing concrete television tower in Cairo, standing at 187 meters and offering panoramic views of the city. Built between 1956 and 1961. Designed to resemble a lotus plant. Tallest structure in Egypt. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-cairo-tower.webp"
+},
     factsAdvanced: {
       ro: ["Înălțime: 187 metri", "Anul finalizării: 1961", "Material principal: beton armat", "Proiectant: Naoum Chebib", "Formă: inspirată de floarea de lotus", "Locație: Insula Gezira, Cairo"],
       de: ["Ein 187 Meter hoher, freistehender Fernsehturm aus Beton, der einen Panoramablick auf Kairo bietet.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -54,8 +55,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Die Bibliotheca Alexandrina in Alexandria ist eine moderne Gedenkstätte an die antike Bibliothek von Alexandria. Das 2002 eingeweihte Gebäude beeindruckt durch sein riesiges kreisförmiges Design, das wie eine aufsteigende Sonne aus dem Mittelmeer wirkt. Die äußere Mauer ist mit Inschriften aus über 100 verschiedenen Schriften der Welt verziert. Die Bibliothek beherbergt nicht nur Millionen von Büchern, sondern auch Museen, Planetarien und Konferenzzentren, die sie zu einem globalen Wissenszentrum machen. Geschichte K8 — Wissen und Kultur.",
       ro: "Bibliotheca Alexandrina, situată pe malul Mării Mediterane, este un omagiu modern adus anticei Biblioteci din Alexandria. Inaugurată în 2002, aceasta găzduiește milioane de volume și dispune de un design circular spectaculos, acoperișul său fiind înclinat spre mare. Este un centru cultural major, combinând funcții de bibliotecă, muzeu și sală de conferințe pentru cercetători din întreaga lume. Istorie K8 - renașterea cunoașterii în epoca modernă.",
       hu: "A(z) Alexandriai Könyvtár az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy hatalmas könyvtár és kulturális központ az alexandriai Földközi-tenger partján. 2002-ben nyitották meg. Az ókori Alexandriai Könyvtárnak állít emléket. Az olvasóterem nyolcmillió könyv befogadására alkalmas. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Bibliotheca Alexandrina is a remarkable feature of the geography and culture of Egypt. A major library and cultural center located on the shore of the Mediterranean Sea in Alexandria. Inaugurated in 2002. Commemorates the ancient Library of Alexandria. Reading room can hold eight million books. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Bibliotheca Alexandrina is a remarkable feature of the geography and culture of Egypt. A major library and cultural center located on the shore of the Mediterranean Sea in Alexandria. Inaugurated in 2002. Commemorates the ancient Library of Alexandria. Reading room can hold eight million books. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-bibliotheca-alexandrina.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 2002", "Capacitate: 8 milioane de volume", "Formă: disc solar imens", "Locație: Alexandria, coasta Mediteranei", "Funcții: bibliotecă, muzeu, planetariu", "Arhitectură: design norvegian premiat"],
       de: ["Eine große Bibliothek und ein Kulturzentrum am Ufer des Mittelmeers in Alexandria.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -91,8 +93,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Moscheea Al-Azhar, fondată în anul 970, reprezintă inima învățământului islamic tradițional în Egipt și în lumea arabă. Situată în Cairo Islamic, complexul include una dintre cele mai vechi universități din lume, transformându-se de-a lungul secolelor dintr-un lăcaș de cult într-un centru academic prestigios. Arhitectura sa reflectă stiluri diverse, adăugate de-a lungul diverselor dinastii care au guvernat Cairo. Istorie K8 - centre de învățământ medievale.",
       de: "Al-Azhar-Moschee ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eine historische islamische Moschee im islamischen Kairo, gegründet 972 und bekannt als Zentrum für islamische Gelehrsamkeit. Erste Moschee in Kairo. Verbunden mit der Al-Azhar-Universität. Weist mehrere architektonische Stile auf. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Al-Azhar mecset az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy történelmi iszlám mecset az iszlám Kairóban, melyet 972-ben alapítottak, és az iszlám oktatás központjaként ismert. Az első mecset, amelyet Kairóban alapítottak. Az Al-Azhar Egyetemhez kapcsolódik. Többféle építészeti stílust képvisel. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Al-Azhar Mosque is a remarkable feature of the geography and culture of Egypt. A historic Islamic mosque in Islamic Cairo, established in 972 and renowned as a center for Islamic learning. First mosque established in Cairo. Associated with Al-Azhar University. Features multiple architectural styles. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Al-Azhar Mosque is a remarkable feature of the geography and culture of Egypt. A historic Islamic mosque in Islamic Cairo, established in 972 and renowned as a center for Islamic learning. First mosque established in Cairo. Associated with Al-Azhar University. Features multiple architectural styles. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-al-azhar-mosque.webp"
+},
     factsAdvanced: {
       ro: ["Fondată: anul 970", "Rol: centrul învățământului sunnit", "Locație: Cairo Islamic", "Stil: arhitectură mixtă fatimidă și mamelucă", "Fondator: Jawhar al-Siqilli", "Aria complexului: expansiune continuă de 1000 de ani"],
       de: ["Eine historische islamische Moschee im islamischen Kairo, gegründet 972 und bekannt als Zentrum für islamische Gelehrsamkeit.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -127,8 +130,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Moscheea Muhammad Ali domină orizontul orașului Cairo din interiorul Cetății Saladin. Construită între 1830 și 1848, această moschee monumentală de alabastru a été ridicată în memoria fiului cel mare al lui Muhammad Ali. Domurile sale impunătoare și minaretele extrem de înalte sunt vizibile de la mare distanță, oferind un punct de reper istoric și religios esențial. Istorie K8 - epoca modernă a Egiptului.",
       de: "Muhammad-Ali-Moschee ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eine prächtige osmanische Moschee in der Zitadelle von Kairo, die von der ganzen Stadt aus sichtbar ist. Erbaut zwischen 1830 und 1848. Auch als Alabastermoschee bekannt. Im Auftrag von Muhammad Ali Pascha errichtet. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Muhammad Ali mecset az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy lenyűgöző oszmán mecset a kairói fellegvárban, amely a város minden pontjáról látható. 1830 és 1848 között épült. Alabástrom mecsetként is ismert. Muhammad Ali Pasa megbízásából épült. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Mosque of Muhammad Ali is a remarkable feature of the geography and culture of Egypt. A grand Ottoman mosque situated in the Citadel of Cairo, visible from across the city. Built between 1830 and 1848. Also known as the Alabaster Mosque. Commissioned by Muhammad Ali Pasha. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Mosque of Muhammad Ali is a remarkable feature of the geography and culture of Egypt. A grand Ottoman mosque situated in the Citadel of Cairo, visible from across the city. Built between 1830 and 1848. Also known as the Alabaster Mosque. Commissioned by Muhammad Ali Pasha. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-muhammad-ali-mosque.webp"
+},
     factsAdvanced: {
       ro: ["Perioada construcției: 1830–1848", "Stil: arhitectură otomană", "Material exterior: plăci de alabastru", "Locație: Cetatea Saladin, Cairo", "Înălțime minarete: peste 80 de metri", "Scop: mausoleu pentru Muhammad Ali Pașa"],
       de: ["Eine prächtige osmanische Moschee in der Zitadelle von Kairo, die von der ganzen Stadt aus sichtbar ist.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -163,8 +167,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Moscheea-Madrasa a Sultanului Hassan este considerată una dintre cele mai grandioase și impresionante structuri arhitecturale ale Egiptului mameluc. Construită între 1356 și 1363, aceasta impresionează prin dimensiunile sale colosale și prin precizia detaliilor sculptate în piatră. Clădirea a fost concepută nu doar ca lăcaș de cult, ci și ca centru de învățământ religios pentru cele patru școli juridice sunnite. Istorie K7 - arhitectura mamelucă.",
       de: "Sultan-Hassan-Moschee ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eine monumentale Moschee und Madrasa im historischen Viertel von Kairo, bekannt für ihre enormen Ausmaße. Erbaut zwischen 1356 und 1363. Gilt als Meisterwerk mamlukischer Architektur. Bietet Räume für alle vier sunnitischen Rechtsschulen. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Szuultán Haszán mecset az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy monumentális mecset és medresze Kairó történelmi negyedében, amely hatalmas méreteiről ismert. 1356 és 1363 között épült. A mameluk építészet remekművének tartják. Mind a négy szunnita jogi iskola számára biztosít helyet. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Sultan Hassan Mosque is a remarkable feature of the geography and culture of Egypt. A monumental mosque and madrasa located in the historic district of Cairo, known for its massive scale. Constructed between 1356 and 1363. Considered a masterpiece of Mamluk architecture. Includes facilities for all four Sunni schools of thought. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Sultan Hassan Mosque is a remarkable feature of the geography and culture of Egypt. A monumental mosque and madrasa located in the historic district of Cairo, known for its massive scale. Constructed between 1356 and 1363. Considered a masterpiece of Mamluk architecture. Includes facilities for all four Sunni schools of thought. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-sultan-hassan-mosque.webp"
+},
     factsAdvanced: {
       ro: ["Construcție: 1356–1363", "Perioada: Era mamelucă", "Locație: lângă Piața Salah ad-Din, Cairo", "Scop: lăcaș de cult și madrasă", "Înălțime portal: 38 de metri", "Stil: arhitectură mamelucă pură"],
       de: ["Eine monumentale Moschee und Madrasa im historischen Viertel von Kairo, bekannt für ihre enormen Ausmaße.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -199,8 +204,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Podul Qasr El Nil este un monument istoric și o arteră vitală care traversează fluviul Nil în centrul orașului Cairo. Inaugurat inițial în 1872 și reconstruit în 1933, podul este celebru pentru cele patru statui de lei din bronz de la intrările sale, create de sculptorul francez Henri Alfred Jacquemart. Această locație este un punct de întâlnire popular pentru localnici, oferind perspective spectaculoase asupra apusului peste Nil. Geografia K7 - infrastructură urbană și design istoric.",
       de: "Qasr-el-Nil-Brücke ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein historisches Bauwerk aus dem Jahr 1931, das den Tahrir-Platz über den Nil mit der Gezira-Insel verbindet. Berühmt für seine vier Bronzelöwenstatuen. Ein beliebter Ort für Abendspaziergänge. Überspannt den Nil auf 382 Metern. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Kaszr el-Nil híd az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy 1931-ből származó történelmi híd, amely a Tahrir teret köti össze a Gezira-szigettel a Nílus felett. Négy bronz oroszlánszobráról híres. Népszerű hely esti sétákhoz. 382 méter hosszan ível át a Níluson. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Qasr el-Nil Bridge is a remarkable feature of the geography and culture of Egypt. A historic structure dating back to 1931, linking Tahrir Square to Gezira Island over the Nile River. Famous for its four bronze lion statues. A popular spot for evening walks. Spans 382 meters across the Nile. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Qasr el-Nil Bridge is a remarkable feature of the geography and culture of Egypt. A historic structure dating back to 1931, linking Tahrir Square to Gezira Island over the Nile River. Famous for its four bronze lion statues. A popular spot for evening walks. Spans 382 meters across the Nile. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-qasr-el-nil-bridge.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 1933 (reconstrucție)", "Statuie: 4 lei din bronz", "Designer statui: Henri Alfred Jacquemart", "Locație: Tahrir Square, Cairo", "Importanță: conectează centrul Cairo cu Insula Gezira", "Material: oțel"],
       de: ["Ein historisches Bauwerk aus dem Jahr 1931, das den Tahrir-Platz über den Nil mit der Gezira-Insel verbindet.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -235,8 +241,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Muzeul Egiptean din Cairo, situat în Piața Tahrir, este renumit pentru cea mai vastă colecție de antichități faraonice din lume. Clădirea istorică, inaugurată în 1902, găzduiește peste 120.000 de artefacte, inclusiv comoara regăsită a lui Tutankhamon. Arhitectura muzeului, cu fațada sa în stil neoclasic, a devenit un simbol al conservării patrimoniului egiptean pe parcursul secolului al XX-lea. Istorie K7 - civilizația Egiptului Antic.",
       de: "Ägyptisches Museum Kairo ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eines der bedeutendsten Museen für alte Geschichte am Tahrir-Platz, das eine umfangreiche Antikensammlung beherbergt. Eröffnet im Jahr 1902. Beherbergt über 120.000 Exponate. Berühmt für die Goldmaske des Tutanchamun. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Egyiptomi Múzeum az egyiptomi földrajz és kultúra figyelemre méltó eleme. Az ókori történelem egyik legfontosabb múzeuma a Tahrir téren, amely hatalmas régiséggyűjteménnyel rendelkezik. 1902-ben nyílt meg. Több mint 120 000 tárgynak ad otthont. Tutanhamon fáraó arany maszkjáról híres. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Egyptian Museum is a remarkable feature of the geography and culture of Egypt. One of the most important museums of ancient history, situated in Tahrir Square, holding an extensive collection of antiquities. Opened in 1902. Houses over 120,000 items. Famous for King Tutankhamun's gold mask. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Egyptian Museum is a remarkable feature of the geography and culture of Egypt. One of the most important museums of ancient history, situated in Tahrir Square, holding an extensive collection of antiquities. Opened in 1902. Houses over 120,000 items. Famous for King Tutankhamun's gold mask. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-egyptian-museum-cairo.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 1902", "Colecție: 120.000+ artefacte", "Piesa principală: masca lui Tutankhamon", "Stil arhitectural: neoclasic", "Locație: Piața Tahrir, Cairo", "Fondator colecție: Auguste Mariette"],
       de: ["Eines der bedeutendsten Museen für alte Geschichte am Tahrir-Platz, das eine umfangreiche Antikensammlung beherbergt.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -271,8 +278,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Marele Muzeu Egiptean (GEM), situat lângă platoul Giza, reprezintă una dintre cele mai mari investiții în conservarea patrimoniului cultural la nivel mondial. Proiectat pentru a expune în premieră întreaga colecție a lui Tutankhamon, muzeul utilizează tehnologii avansate de conservare și o arhitectură modernă care integrează piramidele în contextul vizual. Această instituție redefineste modul în care istoria Egiptului antic este prezentată publicului global. Istorie K8 - tehnologia muzeală modernă.",
       de: "Großes Ägyptisches Museum ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein riesiger, moderner archäologischer Museumskomplex in der Nähe der Pyramiden von Gizeh, der als größter der Welt für eine einzige Zivilisation konzipiert wurde. Umfasst fast 50 Hektar. Besitzt eine Kolossalstatue von Ramses II. im Atrium. Liegt nur zwei Kilometer von den Pyramiden entfernt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Nagy Egyiptomi Múzeum az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy hatalmas, modern régészeti múzeumkomplexum a gízai piramisok közelében, amelyet a világ legnagyobb egyetlen civilizációnak szentelt múzeumának terveztek. Közel 50 hektáron terül el. Átriumában II. Ramszesz hatalmas szobra áll. Mindössze két kilométerre található a piramisoktól. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Grand Egyptian Museum is a remarkable feature of the geography and culture of Egypt. A vast, modern archaeological museum complex near the Giza Pyramids, designed to be the largest in the world dedicated to a single civilization. Covers nearly 50 hectares. Features a colossal statue of Ramses II in the atrium. Located just two kilometers from the Pyramids. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Grand Egyptian Museum is a remarkable feature of the geography and culture of Egypt. A vast, modern archaeological museum complex near the Giza Pyramids, designed to be the largest in the world dedicated to a single civilization. Covers nearly 50 hectares. Features a colossal statue of Ramses II in the atrium. Located just two kilometers from the Pyramids. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-grand-egyptian-museum.webp"
+},
     factsAdvanced: {
       ro: ["Suprafață: peste 500.000 mp", "Focus: colecția completă Tutankhamon", "Locație: Giza, lângă piramide", "Arhitectură: design modern, minimalist", "Scop: cel mai mare muzeu dedicat unei singure civilizații", "Tehnologie: sisteme de control climatic avansate"],
       de: ["Ein riesiger, moderner archäologischer Museumskomplex in der Nähe der Pyramiden von Gizeh, der als größter der Welt für eine einzige Zivilisation konzipiert wurde.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -307,8 +315,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Muzeul Național al Civilizației Egiptene (NMEC) din Fustat este singurul muzeu din Egipt care prezintă cronologic dezvoltarea civilizației, de la epoca preistorică până în prezent. Instituția este celebră pentru Sala Mumiilor Regale, unde sunt expuse rămășițele a 22 de regi și regine ale Egiptului antic. Locația sa în Fustat, prima capitală islamică a Egiptului, subliniază continuitatea istorică și multiculturală a națiunii. Istorie K8 - continuitatea istoriei egiptene.",
       de: "Nationalmuseum der ägyptischen Zivilisation ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein modernes Museum in Fustat, das die ägyptische Geschichte in all ihren Epochen von der Prähistorie bis zur Moderne zeigt. Im April 2021 vollständig eröffnet. Beherbergt die Halle der Königsmumien. Das erste Museum seiner Art in der arabischen Welt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Egyiptomi Civilizáció Nemzeti Múzeuma az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy modern múzeum Fustatban, amely az egyiptomi történelmet mutatja be minden korszakában, a történelem előttitől a modern időkig. 2021 áprilisában nyílt meg teljesen. Itt található a Királyi Múmiák Terme. Az első ilyen jellegű múzeum az arab világban. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "National Museum of Egyptian Civilization is a remarkable feature of the geography and culture of Egypt. A modern museum in Fustat that showcases Egyptian history across all its eras, from prehistoric times to the modern day. Fully opened in April 2021. Houses the Royal Mummies Hall. The first museum of its kind in the Arab world. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "National Museum of Egyptian Civilization is a remarkable feature of the geography and culture of Egypt. A modern museum in Fustat that showcases Egyptian history across all its eras, from prehistoric times to the modern day. Fully opened in April 2021. Houses the Royal Mummies Hall. The first museum of its kind in the Arab world. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-nmec.webp"
+},
     factsAdvanced: {
       ro: ["Locație: Fustat, Cairo", "Atracție: Sala Mumiilor Regale", "Număr mumii: 22 de regi și regine", "Concept: cronologie istorică totală", "Inaugurare: deschidere etapizată până în 2021", "Rol: conservarea identității naționale"],
       de: ["Ein modernes Museum in Fustat, das die ägyptische Geschichte in all ihren Epochen von der Prähistorie bis zur Moderne zeigt.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -343,8 +352,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Opera din Cairo, situată în complexul Centrului Cultural Național de pe Insula Gezira, este principalul centru pentru artele spectacolului în Egipt. Inaugurată în 1988 printr-un proiect finanțat de Japonia, clădirea încorporează elemente arhitecturale islamice moderne și oferă spații pentru concerte, balet și operă la standarde internaționale. Aceasta continuă tradiția culturală rafinată a capitalei, găzduind ansambluri renumite din întreaga lume. Arta K8 - importanța instituțiilor culturale moderne.",
       de: "Opernhaus Kairo ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Der wichtigste Ort für darstellende Künste in der ägyptischen Hauptstadt, im südlichen Teil der Gezira-Insel gelegen. Eröffnet im Jahr 1988. Ersetzte das abgebrannte Khedivial-Opernhaus. Verfügt über mehrere Theater und Kunstgalerien. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Kairói Operaház az egyiptomi földrajz és kultúra figyelemre méltó eleme. Az egyiptomi főváros előadó-művészetének elsődleges helyszíne, amely a Gezira-sziget déli részén található. 1988-ban avatták fel. A leégett Khedivial Operaházat helyettesíti. Több színházzal és művészeti galériával rendelkezik. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Cairo Opera House is a remarkable feature of the geography and culture of Egypt. The primary venue for performing arts in the Egyptian capital, located on the southern portion of Gezira Island. Inaugurated in 1988. Replaced the Khedivial Opera House that burned down. Features multiple theaters and art galleries. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Cairo Opera House is a remarkable feature of the geography and culture of Egypt. The primary venue for performing arts in the Egyptian capital, located on the southern portion of Gezira Island. Inaugurated in 1988. Replaced the Khedivial Opera House that burned down. Features multiple theaters and art galleries. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-cairo-opera-house.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 1988", "Finanțare: sprijin japonez (JICA)", "Locație: Insula Gezira", "Capacitate sală principală: 1.200 de locuri", "Stil arhitectural: islamic modern", "Funcție: centru pentru operă, balet și muzică simfonică"],
       de: ["Der wichtigste Ort für darstellende Künste in der ägyptischen Hauptstadt, im südlichen Teil der Gezira-Insel gelegen.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -379,8 +389,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Palatul Abdeen, situat în inima orașului Cairo, a fost reședința oficială a monarhiei egiptene din 1874 până în 1952. Construit sub domnia Khedivului Ismail, palatul impresionează prin opulența interioarelor, fiind astăzi unul dintre cele mai importante muzee care expun istoria regală a Egiptului modern. Clădirea găzduiește colecții rare de argintărie, tablouri și decorațiuni regale, reflectând gustul estetic al epocii de aur egiptene. Istorie K8 - viața la palat în epoca modernă.",
       de: "Abdeen-Palast ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein historischer Palast in Kairo, der als einer der offiziellen Wohnsitze und Hauptarbeitsplätze des ägyptischen Präsidenten dient. Baubeginn im Jahr 1863. Beherbergt mehrere Museen. Einer der opulentesten Paläste der Welt. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Abdeen-palota az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy történelmi kairói palota, amely az egyiptomi elnök egyik hivatalos rezidenciájaként és fő munkahelyeként szolgál. Az építkezés 1863-ban kezdődött. Számos múzeum található benne. A világ egyik legpazarabb palotája. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Abdeen Palace is a remarkable feature of the geography and culture of Egypt. A historic Cairo palace serving as one of the official residences and principal workplaces of the President of Egypt. Construction began in 1863. Features numerous museums inside. One of the most opulent palaces in the world. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Abdeen Palace is a remarkable feature of the geography and culture of Egypt. A historic Cairo palace serving as one of the official residences and principal workplaces of the President of Egypt. Construction began in 1863. Features numerous museums inside. One of the most opulent palaces in the world. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-abdeen-palace.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 1874", "Reședință regală: 1874–1952", "Locație: Cairo, centrul orașului", "Scop actual: muzeu al palatului", "Stil arhitectural: influențe europene și islamice", "Colecție: decorațiuni regale, arme, argintărie"],
       de: ["Ein historischer Palast in Kairo, der als einer der offiziellen Wohnsitze und Hauptarbeitsplätze des ägyptischen Präsidenten dient.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -415,8 +426,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Palatul Baronului Empain, situat în Heliopolis, este o capodoperă a arhitecturii în stil hindus, ridicată la începutul secolului al XX-lea de industriașul belgian Édouard Empain. Palatul impresionează prin sculpturile sale detaliate și structura sa exotică, fiind complet restaurat și deschis publicului recent. Această clădire reprezintă viziunea unică a baronului de a crea un oraș modern în deșert, combinând elemente estetice orientale cu tehnologia europeană a acelei epoci. Istorie K8 - arhitectură eclectică în Egipt.",
       de: "Baron-Empain-Palast ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein einzigartiger historischer Palast in Heliopolis, der von einem Hindutempel inspiriert und von einem belgischen Industriellen erbaut wurde. Fertiggestellt im Jahr 1911. Entworfen vom französischen Architekten Alexandre Marcel. Besitzt eine auffällige Stahlbetonarchitektur. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Baron Empain palota az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy egyedülálló, hindu templom ihlette történelmi palota Heliopoliszban, amelyet egy belga iparos építtetett. 1911-ben készült el. Alexandre Marcel francia építész tervezte. Feltűnő vasbeton építészettel rendelkezik. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Baron Empain Palace is a remarkable feature of the geography and culture of Egypt. A unique, Hindu temple-inspired historic palace located in Heliopolis, built by a Belgian industrialist. Completed in 1911. Designed by French architect Alexandre Marcel. Features striking reinforced concrete architecture. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Baron Empain Palace is a remarkable feature of the geography and culture of Egypt. A unique, Hindu temple-inspired historic palace located in Heliopolis, built by a Belgian industrialist. Completed in 1911. Designed by French architect Alexandre Marcel. Features striking reinforced concrete architecture. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-baron-empain-palace.webp"
+},
     factsAdvanced: {
       ro: ["Perioada construcției: 1907–1911", "Stil arhitectural: hindus (cu influențe khmere)", "Fondator: Édouard Empain", "Locație: Heliopolis, Cairo", "Caracteristică: detalii sculpturale complexe", "Statut actual: monument restaurat și muzeu"],
       de: ["Ein einzigartiger historischer Palast in Heliopolis, der von einem Hindutempel inspiriert und von einem belgischen Industriellen erbaut wurde.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -451,8 +463,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Podul Stanley este un simbol modern al orașului Alexandria, extinzându-se peste golful Stanley pentru a oferi o vedere panoramică asupra Mării Mediterane. Inaugurat în 2001, podul este conceput cu un design care amintește de stilul palatelor regale ale orașului, devenind unul dintre cele mai populare locuri pentru plimbări nocturne. Structura sa curbată și iluminarea ambientală contribuie semnificativ la peisajul urban contemporan al „miresei Mediteranei”. Geografia K7 - arhitectură maritimă urbană.",
       de: "Stanley-Brücke ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eine 400 Meter lange Brücke in Alexandria über das Mittelmeer, bekannt für ihr elegantes Design und ihre Nachtbeleuchtung. Die erste über dem Meer errichtete Brücke in Ägypten. Verfügt über vier Türme im islamischen Stil. Ein beliebtes Wahrzeichen im modernen Alexandria. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Stanley-híd az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy 400 méter hosszú híd Alexandriában a Földközi-tenger felett, amely elegáns kialakításáról és éjszakai kivilágításáról ismert. Az első híd, amelyet Egyiptomban a tenger fölé építettek. Négy iszlám stílusú toronnyal rendelkezik. A modern Alexandria népszerű nevezetessége. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Stanley Bridge is a remarkable feature of the geography and culture of Egypt. A 400-meter-long bridge in Alexandria spanning the Mediterranean Sea, known for its elegant design and night lighting. First bridge built over the sea in Egypt. Features four Islamic-style towers. A popular landmark in modern Alexandria. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Stanley Bridge is a remarkable feature of the geography and culture of Egypt. A 400-meter-long bridge in Alexandria spanning the Mediterranean Sea, known for its elegant design and night lighting. First bridge built over the sea in Egypt. Features four Islamic-style towers. A popular landmark in modern Alexandria. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-stanley-bridge.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 2001", "Locație: Golful Stanley, Alexandria", "Design: amintește de stilul palatelor regale", "Funcție: pietonală și rutieră", "Importanță: simbol al Alexandriei moderne", "Peisaj: vedere panoramică la Mediterană"],
       de: ["Eine 400 Meter lange Brücke in Alexandria über das Mittelmeer, bekannt für ihr elegantes Design und ihre Nachtbeleuchtung.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -487,8 +500,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Cimitirul Militar de la El Alamein este locul de odihnă pentru mii de soldați care și-au pierdut viața în timpul bătăliilor decisive din Al Doilea Război Mondial. Acest memorial internațional, situat în deșertul vestic, servește drept mărturie solemnă a conflictului care a schimbat cursul istoriei în Africa de Nord. Arhitectura sobru-monumentală a cimitirului oferă un spațiu de reculegere și reflectare asupra prețului păcii în epoca modernă. Istorie K8 - bătăliile din Al Doilea Război Mondial.",
       de: "Kriegsfriedhof El Alamein ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eine bedeutende Gedenkstätte und Ruhestätte für Soldaten der britischen und Commonwealth-Streitkräfte, die im Zweiten Weltkrieg fielen. Enthält über 7.000 Gräber. Gepflegt von der Commonwealth War Graves Commission. Erinnert an die entscheidenden Schlachten von El Alamein. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) El Alamein Háborús Temető az egyiptomi földrajz és kultúra figyelemre méltó eleme. Jelentős emlékhely és nyughely a brit és a nemzetközösségi erők azon katonái számára, akik a második világháborúban estek el. Több mint 7000 sírt tartalmaz. A Commonwealth War Graves Commission tartja fenn. Az el-alameini sorsdöntő csatáknak állít emléket. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "El Alamein War Cemetery is a remarkable feature of the geography and culture of Egypt. A significant memorial site resting place for soldiers of the British and Commonwealth forces who died during World War II. Contains over 7,000 burials. Maintained by the Commonwealth War Graves Commission. Commemorates the decisive Battles of El Alamein. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "El Alamein War Cemetery is a remarkable feature of the geography and culture of Egypt. A significant memorial site resting place for soldiers of the British and Commonwealth forces who died during World War II. Contains over 7,000 burials. Maintained by the Commonwealth War Graves Commission. Commemorates the decisive Battles of El Alamein. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-el-alamein-cemetery.webp"
+},
     factsAdvanced: {
       ro: ["Context: Al Doilea Război Mondial", "Locație: El Alamein, deșertul vestic", "Semnificație: memorial internațional pentru soldați", "Statut: loc de reculegere istorică", "Monumente: structuri de piatră în stil sobru", "Rol: conservarea memoriei istoriei militare"],
       de: ["Eine bedeutende Gedenkstätte und Ruhestätte für Soldaten der britischen und Commonwealth-Streitkräfte, die im Zweiten Weltkrieg fielen.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -523,8 +537,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       ro: "Stadionul Internațional din Cairo, inaugurat în 1960, este cel mai mare complex sportiv al Egiptului și un reper pentru evenimentele atletice de amploare. Situat în cartierul Nasr City, acesta a fost proiectat de arhitectul german Werner March și a găzduit numeroase competiții internaționale, inclusiv finale ale Cupei Africii pe Națiuni. Stadionul este simbolul pasiunii egiptene pentru fotbal și sport, fiind un spațiu central în viața publică a capitalei. Arta K7 - sportul și arhitectura publică.",
       de: "Cairo International Stadium ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein Mehrzweckstadion in Nasr City, bekannt als der Fahnenträger des ägyptischen Fußballs und nationaler Ereignisse. Eröffnet im Jahr 1960. Hat eine Kapazität von über 75.000 Zuschauern. Mehrmaliger Austragungsort des Afrika-Cups. Dieses Wahrzeichen ist Teil des kulturellen Erbes Ägyptens, das durch Pyramiden, Tempel und Nilstädte geprägt ist. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
       hu: "A(z) Kairói Nemzetközi Stadion az egyiptomi földrajz és kultúra figyelemre méltó eleme. Egy többcélú stadion Nasr Cityben, amely az egyiptomi labdarúgás és a nemzeti események központjaként ismert. 1960-ban nyitották meg. Több mint 75 000 néző befogadására alkalmas. Többször is otthont adott az Afrikai Nemzetek Kupájának. Ez a nevezetesség Egyiptom kulturális örökségének része, amelyet piramisok, templomok és nílusi városok jellemeznek. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
-      en: "Cairo International Stadium is a remarkable feature of the geography and culture of Egypt. A multi-purpose stadium in Nasr City, known as the standard-bearer of Egyptian football and national events. Opened in 1960. Has a capacity of over 75,000 spectators. Hosted the Africa Cup of Nations multiple times. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea."
-    },
+      en: "Cairo International Stadium is a remarkable feature of the geography and culture of Egypt. A multi-purpose stadium in Nasr City, known as the standard-bearer of Egyptian football and national events. Opened in 1960. Has a capacity of over 75,000 spectators. Hosted the Africa Cup of Nations multiple times. This landmark is part of Egypt's cultural heritage, shaped by pyramids, temples and Nile cities. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+image: "/poi-images/eg-cairo-stadium.webp"
+},
     factsAdvanced: {
       ro: ["Inaugurare: 1960", "Capacitate: peste 75.000 de locuri", "Arhitect: Werner March", "Locație: Nasr City, Cairo", "Evenimente: Cupa Africii pe Națiuni", "Semnificație: centrul sportului egiptean"],
       de: ["Ein Mehrzweckstadion in Nasr City, bekannt als der Fahnenträger des ägyptischen Fußballs und nationaler Ereignisse.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt."],
@@ -553,8 +568,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Borg-el-Arab-Stadion",
       hu: "Borg el-Arab Stadion",
       ro: "Stadionul Borg El Arab",
-      en: "Borg El Arab Stadium"
-    },
+      en: "Borg El Arab Stadium",
+image: "/poi-images/eg-borg-el-arab-stadium.webp"
+},
     description: {
       de: "Das größte Stadion Ägyptens und eines der größten in Afrika, in der Nähe des Mittelmeerortes Alexandria gelegen.",
       hu: "Egyiptom legnagyobb és Afrika egyik legnagyobb stadionja, amely a Földközi-tenger parti üdülőváros, Alexandria közelében található.",
@@ -588,8 +604,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Sueskanal-Brücke",
       hu: "Szuezi-csatorna híd",
       ro: "Podul Canalului Suez",
-      en: "Suez Canal Bridge"
-    },
+      en: "Suez Canal Bridge",
+image: "/poi-images/eg-suez-canal-bridge.webp"
+},
     description: {
       de: "Eine Straßenbrücke, die den Sueskanal bei El Qantara überquert und die Kontinente Afrika und Asien verbindet.",
       hu: "Közúti híd, amely El Kantaránál keresztezi a Szuezi-csatornát, és összeköti Afrika és Ázsia kontinensét.",
@@ -623,8 +640,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Assuan-Staudamm",
       hu: "Asszuáni-gát",
       ro: "Barajul Aswan",
-      en: "Aswan High Dam"
-    },
+      en: "Aswan High Dam",
+image: "/poi-images/eg-aswan-high-dam.webp"
+},
     description: {
       de: "Ein monumentaler Steinschüttdamm, der quer über den Nil in Assuan gebaut wurde, den Nassersee bildete und die jährlichen Überschwemmungen kontrolliert.",
       hu: "Egy monumentális kőgát a Níluson Asszuánnál, amely létrehozta a Nasszer-tavat, és szabályozza a folyó éves áradásait.",
@@ -658,8 +676,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Montaza-Palast",
       hu: "Montaza-palota",
       ro: "Palatul Montaza",
-      en: "Montaza Palace"
-    },
+      en: "Montaza Palace",
+image: "/poi-images/eg-montaza-palace.webp"
+},
     description: {
       de: "Ein großer Palast und weitläufige Gärten im Stadtteil Montaza von Alexandria mit Blick auf einen Strand am Mittelmeer.",
       hu: "Egy pompás palota és hatalmas kertek Alexandria Montaza negyedében, kilátással a Földközi-tenger partjára.",
@@ -693,8 +712,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Manial-Palast",
       hu: "Manial-palota",
       ro: "Palatul Manial",
-      en: "Manial Palace"
-    },
+      en: "Manial Palace",
+image: "/poi-images/eg-manial-palace.webp"
+},
     description: {
       de: "Ein historisches Kunst- und Geschichtsmuseum im Stadtteil El Manial im Süden Kairos, das von Prinz Mohammed Ali Tewfik erbaut wurde.",
       hu: "Egy történelmi művészeti és történelmi múzeum Kairó déli részén, az El Manial negyedben, amelyet Mohammed Ali Tewfik herceg építtetett.",
@@ -728,8 +748,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Hängende Kirche",
       hu: "Függő templom",
       ro: "Biserica Suspendată",
-      en: "Hanging Church"
-    },
+      en: "Hanging Church",
+image: "/poi-images/eg-hanging-church.webp"
+},
     description: {
       de: "Eine der ältesten Kirchen Ägyptens im koptischen Kairo, die auf einzigartige Weise über dem Torhaus einer römischen Festung schwebt.",
       hu: "Egyiptom egyik legrégebbi temploma a kopt Kairóban, amely egyedülálló módon egy római erőd kapuháza felett lebegve épült.",
@@ -763,8 +784,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Ibn-Tulun-Moschee",
       hu: "Ibn Túlún mecset",
       ro: "Moscheea lui Ibn Tulun",
-      en: "Mosque of Ibn Tulun"
-    },
+      en: "Mosque of Ibn Tulun",
+image: "/poi-images/eg-ibn-tulun-mosque.webp"
+},
     description: {
       de: "Die älteste noch in ihrer ursprünglichen Form erhaltene Moschee in Kairo, berühmt für ihre enorme Größe und ihr einzigartiges Spiralminarett.",
       hu: "Kairó legrégebbi, eredeti formájában fennmaradt mecsete, amely hatalmas méretéről és egyedi spirális minaretjéről híres.",
@@ -798,8 +820,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Katharinenkloster",
       hu: "Szent Katalin-kolostor",
       ro: "Mănăstirea Sfânta Ecaterina",
-      en: "Saint Catherine's Monastery"
-    },
+      en: "Saint Catherine's Monastery",
+image: "/poi-images/eg-saint-catherine-monastery.webp"
+},
     description: {
       de: "Ein griechisch-orthodoxes Kloster auf der Sinai-Halbinsel an der Mündung einer Schlucht am Fuße des Berges Sinai.",
       hu: "Egy görögkatolikus kolostor a Sínai-félszigeten, a Sínai-hegy lábánál fekvő szurdok torkolatánál.",
@@ -833,8 +856,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Denkmal des Unbekannten Soldaten",
       hu: "Ismeretlen katona emlékműve",
       ro: "Monumentul Soldatului Necunoscut",
-      en: "Unknown Soldier Memorial"
-    },
+      en: "Unknown Soldier Memorial",
+image: "/poi-images/eg-unknown-soldier-memorial.webp"
+},
     description: {
       de: "Ein markantes pyramidenförmiges Denkmal in Kairo, das die im Oktoberkrieg 1973 verlorenen ägyptischen und arabischen Leben ehrt.",
       hu: "Egy kiemelkedő piramis alakú emlékmű Kairóban, amely az 1973-as októberi háborúban elvesztett egyiptomi és arab életeket tiszteli meg.",
@@ -868,8 +892,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Al-Rifa'i-Moschee",
       hu: "Al-Rifa'i mecset",
       ro: "Moscheea Al-Rifa'i",
-      en: "Al-Rifa'i Mosque"
-    },
+      en: "Al-Rifa'i Mosque",
+image: "/poi-images/eg-al-rifai-mosque.webp"
+},
     description: {
       de: "Eine riesige Moschee in Kairo neben der Sultan-Hassan-Moschee, die als königliches Mausoleum für die ägyptische Königsfamilie dient.",
       hu: "Egy hatalmas mecset Kairóban, a Szultán Haszán mecset mellett, amely az egyiptomi királyi család mauzóleumaként szolgál.",
@@ -903,8 +928,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Ras-el-Tin-Palast",
       hu: "Rász-et-Tín palota",
       ro: "Palatul Ras El Tin",
-      en: "Ras El Tin Palace"
-    },
+      en: "Ras El Tin Palace",
+image: "/poi-images/eg-ras-el-tin-palace.webp"
+},
     description: {
       de: "Ein historischer königlicher Palast an der Küste des Mittelmeers in Alexandria, einer der offiziellen Wohnsitze des Präsidenten.",
       hu: "Egy történelmi királyi palota a Földközi-tenger partján, Alexandriában, az elnök egyik hivatalos rezidenciája.",
@@ -938,8 +964,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Qalawun-Komplex",
       hu: "Kalaún komplexum",
       ro: "Complexul Qalawun",
-      en: "Qalawun Complex"
-    },
+      en: "Qalawun Complex",
+image: "/poi-images/eg-qalawun-complex.webp"
+},
     description: {
       de: "Ein massiver Architekturkomplex im islamischen Kairo, der ein Krankenhaus, eine Madrasa und ein von Sultan Qalawun erbautes Mausoleum umfasst.",
       hu: "Egy hatalmas építészeti komplexum az iszlám Kairóban, amely magában foglal egy kórházat, egy medreszét és Kalaún szultán által épített mauzóleumot.",
@@ -973,8 +1000,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Nubisches Museum",
       hu: "Núbiai Múzeum",
       ro: "Muzeul Nubian",
-      en: "Nubian Museum"
-    },
+      en: "Nubian Museum",
+image: "/poi-images/eg-nubian-museum.webp"
+},
     description: {
       de: "Ein archäologisches Museum in Assuan, das der Geschichte und Kultur des nubischen Volkes gewidmet ist.",
       hu: "Egy Asszuánban található régészeti múzeum, amelyet a núbiai nép történelmének és kultúrájának szenteltek.",
@@ -1008,8 +1036,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Griechisch-Römisches Museum",
       hu: "Görög-Római Múzeum",
       ro: "Muzeul Greco-Roman",
-      en: "Graeco-Roman Museum"
-    },
+      en: "Graeco-Roman Museum",
+image: "/poi-images/eg-graeco-roman-museum.webp"
+},
     description: {
       de: "Ein bedeutendes Museum in Alexandria, das Artefakte aus der ptolemäischen und römischen Zeit der ägyptischen Geschichte zeigt.",
       hu: "Egy kiemelkedő múzeum Alexandriában, amely az egyiptomi történelem ptolemaioszi és római korszakának leleteit mutatja be.",
@@ -1043,8 +1072,9 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       de: "Koubbeh-Palast",
       hu: "Koubbeh-palota",
       ro: "Palatul Koubbeh",
-      en: "El Quba Palace"
-    },
+      en: "El Quba Palace",
+image: "/poi-images/eg-el-quba-palace.webp"
+},
     description: {
       de: "Einer der prächtigsten Präsidentenpaläste in Ägypten, eingebettet in weitläufige üppige Gärten in Kairo.",
       hu: "Egyiptom egyik legpompásabb elnöki palotája, Kairó kiterjedt, buja kertjeiben.",

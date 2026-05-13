@@ -4,7 +4,9 @@ export const moldovaLifeV2: POI[] = [
   {
     id: "moldova-codru-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Naturreservat Codru", hu: "Codru Természetvédelmi Terület", ro: "Rezervația Științifică Codru", en: "Codru Scientific Reserve" },
+    name: { de: "Naturreservat Codru", hu: "Codru Természetvédelmi Terület", ro: "Rezervația Științifică Codru", en: "Codru Scientific Reserve",
+image: "/poi-images/moldova-codru-reserve-life-v2.webp"
+},
     coords: [28.3842, 47.1025],
     coordinates: { lat: 47.1025, lng: 28.3842 },
     description: {
@@ -19,11 +21,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cea mai veche rezervație din Moldova", "Suprafață de 5.177 hectare", "Peste 1000 de specii de plante", "Adăpostește pisici sălbatice și cerbi"],
       en: ["Oldest reserve in Moldova", "Area of 5,177 hectares", "Over 1,000 plant species", "Inhabited by wild cats and deer"],
     },
-    imageHint: "Codru forest reserve landscape Moldova", image: "/poi-images/moldova-codru-reserve-life-v2.webp"},
+    imageHint: "Codru forest reserve landscape Moldova",
+    image: "/poi-images/moldova-codru-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das 1971 gegründete Codru-Reservat ist das älteste Naturschutzgebiet Moldawiens. Es schützt die charakteristischen Eichen- und Buchenwälder des zentralen Plateaus auf 5177 Hektar.",
+      hu: "Az 1971-ben alapított Codru tudományos rezervátum Moldova legrégebbi természetvédelmi területe. Az 5177 hektáros központi fennsíkon őshonos tölgy- és bükkerdők találhatók.",
+      ro: "Rezervația Științifică Codru, fondată în 1971, este cea mai veche arie protejată din Moldova. Cuprinde 5177 ha de păduri de foioase caracteristice platoului central moldovenesc.",
+      en: "Established in 1971, Codru is Moldova's oldest scientific reserve. Spanning 5177 hectares, it protects the diverse deciduous forests and unique flora of the central plateau.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 27. September 1971", "Fläche umfasst etwa 5177 Hektar", "Beherbergt über 1000 Pflanzenarten", "Höchster Punkt liegt bei 380 Metern"],
+      hu: ["1971. szeptember 27-én alapították", "Területe megközelítőleg 5177 hektár", "Több mint 1000 növényfaj él itt", "Legmagasabb pontja 380 méter magas"],
+      ro: ["Fondată pe 27 septembrie 1971", "Suprafața totală de circa 5177 ha", "Adăpostește peste 1000 specii de plante", "Altitudinea maximă este de 380 metri"],
+      en: ["Founded on September 27, 1971", "Covers an area of 5177 hectares", "Home to over 1000 plant species", "Maximum elevation reaches 380 meters"],
+    },
+  },
   {
     id: "moldova-padurea-domneasca-life-v2",
     type: "wildlife",
-    name: { de: "Fürstlicher Wald", hu: "Királyi Erdő", ro: "Pădurea Domnească", en: "Royal Forest" },
+    name: { de: "Fürstlicher Wald", hu: "Királyi Erdő", ro: "Pădurea Domnească", en: "Royal Forest",
+image: "/poi-images/moldova-padurea-domneasca-life-v2.webp"
+},
     coords: [27.2081, 47.6044],
     coordinates: { lat: 47.6044, lng: 27.2081 },
     description: {
@@ -39,11 +57,25 @@ export const moldovaLifeV2: POI[] = [
       en: ["Largest nature reserve in the country", "Home to European bison", "Includes the 'Hundred Mounds' phenomenon", "Located in the Prut River valley"],
     },
     imageHint: "European bison in Padurea Domneasca Moldova",
+    descriptionAdvanced: {
+      de: "Pădurea Domnească an der Prut-Aue ist berühmt für ihre Wisente und uralten Eichen. Es ist das flächenmäßig größte wissenschaftliche Reservat Moldawiens mit über 6000 Hektar.",
+      hu: "A Prut-menti Pădurea Domnească bölényeiről és évszázados tölgyfáiról ismert. Ez Moldova legnagyobb tudományos rezervátuma, területe meghaladja a 6000 hektárt.",
+      ro: "Rezervația Pădurea Domnească este celebră pentru zimbrii săi și stejarii seculari. Este cea mai mare rezervație științifică din Moldova, având o suprafață de peste 6000 ha.",
+      en: "Pădurea Domnească, located along the Prut river, is famous for its European bisons and ancient oaks. It is Moldova's largest scientific reserve, exceeding 6000 hectares.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr der Reserve ist 1993", "Gesamtfläche beträgt 6032 Hektar", "Bietet Schutz für europäische Wisente", "Enthält Eichen, die über 450 Jahre alt sind"],
+      hu: ["A rezervátumot 1993-ban alapították", "Teljes területe 6032 hektárt tesz ki", "Európai bölényeknek ad otthont", "450 évesnél idősebb tölgyek is találhatók"],
+      ro: ["Înființată în anul 1993 prin decret", "Suprafața totală este de 6032 hectare", "Găzduiește o populație de zimbri", "Include stejari de peste 450 de ani"],
+      en: ["Established in 1993 by state decree", "Total area covers 6032 hectares", "Protects a population of European bison", "Contains oaks older than 450 years"],
+    },
   },
   {
     id: "moldova-plaiul-fagului-life-v2",
     type: "forest",
-    name: { de: "Buchenland Reservat", hu: "Bükkös-vidék Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Plaiul Fagului Reserve" },
+    name: { de: "Buchenland Reservat", hu: "Bükkös-vidék Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Plaiul Fagului Reserve",
+image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"
+},
     coords: [28.0255, 47.2842],
     coordinates: { lat: 47.2842, lng: 28.0255 },
     description: {
@@ -58,11 +90,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Înființată în anul 1991", "Dominată de păduri de fag", "Relief deluros până la 400m", "Peste 900 specii de plante"],
       en: ["Established in 1991", "Dominated by common beech trees", "Hilly terrain up to 400m", "Over 900 species of plants"],
     },
-    imageHint: "Beech forest Plaiul Fagului Moldova", image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"},
+    imageHint: "Beech forest Plaiul Fagului Moldova",
+    image: "/poi-images/moldova-plaiul-fagului-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Reservat Plaiul Fagului schützt seltene Buchenwälder am östlichen Rand ihres Verbreitungsgebiets. Es liegt im nordwestlichen Teil der Codru-Region auf über 5600 Hektar.",
+      hu: "A Plaiul Fagului rezervátum ritka bükkerdőket véd az elterjedési területük keleti határán. A Codru-régió északnyugati részén található, több mint 5600 hektáron.",
+      ro: "Rezervația Plaiul Fagului protejează păduri rare de fag la limita estică a arealului lor. Este situată în nord-vestul Codrilor, pe o suprafață de peste 5600 hectare.",
+      en: "Plaiul Fagului Reserve protects rare beech forests at the eastern edge of their natural range. Located in the northwestern Codru region, it spans over 5600 hectares.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 12. Mai 1992", "Fläche von etwa 5642 Hektar", "Buchen machen 5% des Waldes aus", "Über 900 verschiedene Pflanzenarten"],
+      hu: ["1992. május 12-én jött létre", "Területe hozzávetőleg 5642 hektár", "A bükkfák az erdő 5%-át teszik ki", "Több mint 900 növényfaj található"],
+      ro: ["Creată pe data de 12 mai 1992", "Suprafața este de 5642 hectare", "Fagul ocupă circa 5% din pădure", "Include peste 900 de specii floristice"],
+      en: ["Established on May 12, 1992", "Covers roughly 5642 hectares", "Beech trees cover 5% of the forest", "Home to over 900 plant species"],
+    },
+  },
   {
     id: "moldova-prutul-de-jos-life-v2",
     type: "wildlife",
-    name: { de: "Unterer Pruth Reservat", hu: "Alsó-Prut Rezervátum", ro: "Rezervația Prutul de Jos", en: "Lower Prut Reserve" },
+    name: { de: "Unterer Pruth Reservat", hu: "Alsó-Prut Rezervátum", ro: "Rezervația Prutul de Jos", en: "Lower Prut Reserve",
+image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"
+},
     coords: [28.1511, 45.6028],
     coordinates: { lat: 45.6028, lng: 28.1511 },
     description: {
@@ -77,11 +125,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Rezervație a Biosferei UNESCO din 2018", "Include lacul relict Beleu", "Peste 190 de specii de păsări", "Zonă umedă de importanță Ramsar"],
       en: ["UNESCO Biosphere Reserve since 2018", "Includes the relict Lake Beleu", "Over 190 bird species", "Ramsar wetland site"],
     },
-    imageHint: "Lake Beleu migratory birds Moldova", image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"},
+    imageHint: "Lake Beleu migratory birds Moldova",
+    image: "/poi-images/moldova-prutul-de-jos-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Prutul de Jos ist ein UNESCO-Biosphärenreservat im Süden Moldawiens. Es umfasst den Beleu-See und wichtige Feuchtgebiete für Zugvögel wie Pelikane und Kormorane.",
+      hu: "A dél-moldovai Prutul de Jos UNESCO bioszféra-rezervátum. Magában foglalja a Beleu-tavat és a költöző madarak, például pelikánok fontos vizes élőhelyeit.",
+      ro: "Rezervația Prutul de Jos este o Rezervație a Biosferei UNESCO din sudul Moldovei. Include lacul Beleu și zone umede vitale pentru păsări migratoare precum pelicanii.",
+      en: "Prutul de Jos is a UNESCO Biosphere Reserve in southern Moldova. It encompasses Lake Beleu and vital wetlands for migratory birds like pelicans and cormorants.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1991", "Seit 2018 UNESCO-Biosphärenreservat", "Fläche beträgt circa 1755 Hektar", "Beherbergt über 190 Vogelarten"],
+      hu: ["1991-ben alapították a területet", "2018-tól UNESCO bioszféra-rezervátum", "Területe körülbelül 1755 hektár", "Több mint 190 madárfaj fészkel itt"],
+      ro: ["Fondată în anul 1991 prin lege", "Rezervație a Biosferei UNESCO din 2018", "Suprafața este de 1755 hectare", "Adăpostește peste 190 specii de păsări"],
+      en: ["Established in 1991 by law", "UNESCO Biosphere Reserve since 2018", "Covers an area of 1755 hectares", "Home to more than 190 bird species"],
+    },
+  },
   {
     id: "moldova-iagorlic-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Wissenschaftliches Reservat Iagorlic", hu: "Iagorlîc Tudományos Rezervátum", ro: "Rezervația Științifică Iagorlîc", en: "Iagorlic Scientific Reserve" },
+    name: { de: "Wissenschaftliches Reservat Iagorlic", hu: "Iagorlîc Tudományos Rezervátum", ro: "Rezervația Științifică Iagorlîc", en: "Iagorlic Scientific Reserve",
+image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"
+},
     coords: [29.1558, 47.3853],
     coordinates: { lat: 47.3853, lng: 29.1558 },
     description: {
@@ -96,11 +160,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Înființată în 1988", "Focus pe ecosisteme acvatice", "Ihtiofaună bogată", "Situată în regiunea transnistreană"],
       en: ["Established in 1988", "Focus on aquatic ecosystems", "Rich fish fauna", "Located in the Transnistrian region"],
     },
-    imageHint: "Iagorlic river reserve Dniester Moldova", image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"},
+    imageHint: "Iagorlic river reserve Dniester Moldova",
+    image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Iagorlic ist ein bedeutendes aquatisches Reservat am linken Dnjestr-Ufer. Es wurde zum Schutz der Flora und Fauna des Iagorlic-Flusses und seiner Sumpfgebiete geschaffen.",
+      hu: "Iagorlic egy jelentős vízi rezervátum a Dnyeszter bal partján. Az Iagorlic-folyó és mocsaras területeinek növény- és állatvilágának védelmére jött létre.",
+      ro: "Rezervația Iagorlîc este o arie protejată acvatică situată pe malul stâng al Nistrului. Protejează ecosistemele râului Iagorlîc și ale zonelor sale mlăștinoase.",
+      en: "Iagorlic is a significant aquatic reserve on the left bank of the Dniester. It was created to protect the flora and fauna of the Iagorlic River and its marshy areas.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 15. Februar 1988", "Gesamtfläche von 1044 Hektar", "Umfasst 272 Hektar Wasserfläche", "Über 700 Gefäßpflanzenarten erfasst"],
+      hu: ["1988. február 15-én alapították", "Teljes területe 1044 hektár", "272 hektárnyi vízfelületet foglal el", "700-nál több edényes növényfaj él itt"],
+      ro: ["Fondată pe 15 februarie 1988", "Suprafața totală de 1044 hectare", "Include 272 hectare de luciu de apă", "Peste 700 de specii de plante vasculare"],
+      en: ["Founded on February 15, 1988", "Total area covers 1044 hectares", "Includes 272 hectares of water surface", "Over 700 vascular plant species recorded"],
+    },
+  },
   {
     id: "moldova-chisinau-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Chișinău", hu: "Kisinyovi Botanikus Kert", ro: "Grădina Botanică din Chișinău", en: "Chișinău Botanical Garden" },
+    name: { de: "Botanischer Garten Chișinău", hu: "Kisinyovi Botanikus Kert", ro: "Grădina Botanică din Chișinău", en: "Chișinău Botanical Garden",
+image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"
+},
     coords: [28.8856, 46.9744],
     coordinates: { lat: 46.9744, lng: 28.8856 },
     description: {
@@ -115,11 +195,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Fondată în anul 1950", "Peste 10.000 specii de plante", "Rozariu mare și sector de liane", "Sistem de lacuri artificiale"],
       en: ["Established in 1950", "Over 10,000 plant species", "Large rosarium and liana section", "Artificial lake system"],
     },
-    imageHint: "Botanical Garden Chisinau blooming flowers", image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"},
+    imageHint: "Botanical Garden Chisinau blooming flowers",
+    image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Chișinău erstreckt sich über 100 Hektar und präsentiert über 10.000 Pflanzenarten. Er ist ein Zentrum für wissenschaftliche Forschung und Erholung.",
+      hu: "A kisinyovi botanikus kert több mint 100 hektáron terül el, és 10 000-nél is több növényfajt mutat be. A tudományos kutatás és a kikapcsolódás központja.",
+      ro: "Grădina Botanică din Chișinău se întinde pe 104 hectare și prezintă peste 10.000 de specii de plante. Este un centru major de cercetare științifică și recreere.",
+      en: "Chișinău Botanical Garden spans 104 hectares and showcases over 10,000 plant species. It serves as a major hub for scientific research and public recreation.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im September 1950", "Heutiger Standort seit 1973", "Fläche beträgt circa 104 Hektar", "Beherbergt über 10.000 Pflanzenarten"],
+      hu: ["1950 szeptemberében alapították", "Jelenlegi helyén 1973 óta működik", "Területe hozzávetőleg 104 hektár", "Több mint 10 000 növényfaj látható"],
+      ro: ["Fondată în septembrie 1950", "Locație actuală stabilită în 1973", "Suprafața este de 104 hectare", "Găzduiește peste 10.000 specii floristice"],
+      en: ["Founded in September 1950", "Current site established in 1973", "Spans an area of 104 hectares", "Features over 10,000 plant species"],
+    },
+  },
   {
     id: "moldova-chisinau-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Chișinău", hu: "Kisinyovi Állatkert", ro: "Grădina Zoologică din Chișinău", en: "Chișinău Zoo" },
+    name: { de: "Zoo Chișinău", hu: "Kisinyovi Állatkert", ro: "Grădina Zoologică din Chișinău", en: "Chișinău Zoo",
+image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"
+},
     coords: [28.8744, 46.9731],
     coordinates: { lat: 46.9731, lng: 28.8744 },
     description: {
@@ -134,11 +230,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Deschisă la 9 mai 1978", "Peste 1000 de animale", "Include leoparzi ai zăpezilor", "Destinație populară pentru familii"],
       en: ["Opened on May 9, 1978", "Over 1,000 animals", "Includes rare snow leopards", "Popular family destination"],
     },
-    imageHint: "Chisinau Zoo entrance and enclosures", image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"},
+    imageHint: "Chisinau Zoo entrance and enclosures",
+    image: "/poi-images/moldova-chisinau-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoo von Chișinău beherbergt über 1000 Tiere aus aller Welt auf 25 Hektar. Er ist ein beliebtes Familienziel mit einer großen Sammlung seltener Vogelarten und Raubtiere.",
+      hu: "A kisinyovi állatkert 25 hektáron több mint 1000 állatnak ad otthont a világ minden tájáról. Népszerű családi úticél ritka madárfajokkal és ragadozókkal.",
+      ro: "Grădina Zoologică din Chișinău găzduiește peste 1000 de animale din toată lumea pe 25 hectare. Este o destinație populară cu specii rare de păsări și prădători.",
+      en: "Chișinău Zoo houses over 1000 animals from around the globe across 25 hectares. It is a popular family destination featuring rare bird species and large predators.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung am 9. Mai 1978", "Fläche von etwa 25 Hektar", "Beherbergt über 130 Tierarten", "Über 1000 Einzeltiere leben hier"],
+      hu: ["1978. május 9-én nyitotta meg kapuit", "Területe megközelítőleg 25 hektár", "Több mint 130 állatfaj látható", "Több mint 1000 állategyed él itt"],
+      ro: ["Deschisă oficial la 9 mai 1978", "Suprafața este de circa 25 hectare", "Include peste 130 de specii de animale", "Adăpostește peste 1000 de exemplare"],
+      en: ["Opened on May 9, 1978", "Covers an area of 25 hectares", "Home to over 130 animal species", "Houses more than 1000 individual animals"],
+    },
+  },
   {
     id: "moldova-taul-park-life-v2",
     type: "park",
-    name: { de: "Park von Țaul", hu: "Țaul-park", ro: "Parcul Țaul", en: "Taul Park" },
+    name: { de: "Park von Țaul", hu: "Țaul-park", ro: "Parcul Țaul", en: "Taul Park",
+image: "/poi-images/moldova-taul-park-life-v2.webp"
+},
     coords: [27.6711, 48.2047],
     coordinates: { lat: 48.2047, lng: 27.6711 },
     description: {
@@ -153,11 +265,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Suprafață de 46 hectare", "Cel mai mare parc peisajistic", "Specii exotice din Siberia", "Înconjoară conacul Pommer"],
       en: ["Area of 46 hectares", "Largest landscape park in Moldova", "Exotic tree species from Siberia", "Surrounds the Pommer manor"],
     },
-    imageHint: "Taul Park dendrological collection Moldova", image: "/poi-images/moldova-taul-park-life-v2.webp"},
+    imageHint: "Taul Park dendrological collection Moldova",
+    image: "/poi-images/moldova-taul-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Taul-Park ist der größte Landschaftspark Moldawiens und umgibt das historische Schloss Pommer. Er vereint über 150 Baum- und Straucharten in einer englischen Gartenanlage.",
+      hu: "A Taul-park Moldova legnagyobb tájparkja, amely a történelmi Pommer-kastélyt veszi körül. Több mint 150 fa- és cserjefajt ötvöz egy angolkert stílusú területen.",
+      ro: "Parcul Țaul este cel mai mare parc peisajistic din Moldova, înconjurând conacul Pommer. Reunește peste 150 de specii de arbori într-un stil de grădină englezească.",
+      en: "Taul Park is Moldova's largest landscape park, surrounding the historic Pommer Mansion. It features over 150 species of trees and shrubs in an English garden layout.",
+    },
+    factsAdvanced: {
+      de: ["Angelegt zwischen 1901 und 1904", "Gesamtfläche von 46 Hektar", "Enthält über 150 Gehölzarten", "Einst Eigentum von Ivan Pommer"],
+      hu: ["1901 és 1904 között alakították ki", "Teljes területe 46 hektár", "Több mint 150 fás szárú faj él itt", "Egykor Ivan Pommer tulajdona volt"],
+      ro: ["Creat între anii 1901 și 1904", "Suprafața totală de 46 hectare", "Include peste 150 specii de plante", "Proprietate istorică a lui Ivan Pommer"],
+      en: ["Created between 1901 and 1904", "Total area of 46 hectares", "Home to over 150 woody species", "Formerly owned by Ivan Pommer"],
+    },
+  },
   {
     id: "moldova-saharna-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Saharna", hu: "Saharna Tájvédelmi Körzet", ro: "Rezervația peisajistică Saharna", en: "Saharna Landscape Reserve" },
+    name: { de: "Landschaftsreservat Saharna", hu: "Saharna Tájvédelmi Körzet", ro: "Rezervația peisajistică Saharna", en: "Saharna Landscape Reserve",
+image: "/poi-images/moldova-saharna-reserve-life-v2.webp"
+},
     coords: [28.9667, 47.7011],
     coordinates: { lat: 47.7011, lng: 28.9667 },
     description: {
@@ -172,11 +300,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cunoscută pentru cele 22 cascade", "Cea mai înaltă cascadă are 10m", "Plante relicte glaciare", "Zonă populară de drumeții"],
       en: ["Known for 22 waterfalls", "Highest waterfall is 10m high", "Glacial relict plants", "Popular hiking destination"],
     },
-    imageHint: "Saharna waterfalls and cliffs Moldova", image: "/poi-images/moldova-saharna-reserve-life-v2.webp"},
+    imageHint: "Saharna waterfalls and cliffs Moldova",
+    image: "/poi-images/moldova-saharna-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Saharna-Reservat ist berühmt für seine tiefen Schluchten, 22 Wasserfälle und das Felsenkloster. Die Kalksteinfelsen bieten spektakuläre Ausblicke auf das Ufer des Dnjestr.",
+      hu: "A Saharna rezervátum mély szurdokairól, 22 vízeséséről és sziklakolostoráról híres. A mészkősziklák látványos kilátást nyújtanak a Dnyeszter partjára.",
+      ro: "Rezervația Saharna este faimoasă pentru defileele adânci, 22 de cascade și mănăstirea rupestră. Stâncile de calcar oferă vederi spectaculoase spre malul Nistrului.",
+      en: "Saharna Landscape Reserve is famous for its deep gorges, 22 waterfalls, and rock monastery. The limestone cliffs offer spectacular views overlooking the Dniester River.",
+    },
+    factsAdvanced: {
+      de: ["Fläche umfasst etwa 670 Hektar", "Beherbergt insgesamt 22 Wasserfälle", "Größter Wasserfall ist 10 Meter hoch", "Umfasst eisenzeitliche Festungsreste"],
+      hu: ["Területe megközelítőleg 670 hektár", "Összesen 22 vízesés található itt", "A legnagyobb vízesés 10 méter magas", "Vaskori erődítmény maradványait őrzi"],
+      ro: ["Suprafața este de circa 670 hectare", "Include un număr de 22 de cascade", "Cea mai înaltă cascadă are 10 metri", "Conține vestigii ale unor cetăți getice"],
+      en: ["Covers an area of 670 hectares", "Home to a total of 22 waterfalls", "The tallest waterfall is 10 meters high", "Contains Iron Age fortress remains"],
+    },
+  },
   {
     id: "moldova-tipova-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Țîpova", hu: "Țîpova Tájvédelmi Körzet", ro: "Rezervația peisajistică Țîpova", en: "Tipova Landscape Reserve" },
+    name: { de: "Landschaftsreservat Țîpova", hu: "Țîpova Tájvédelmi Körzet", ro: "Rezervația peisajistică Țîpova", en: "Tipova Landscape Reserve",
+image: "/poi-images/moldova-tipova-reserve-life-v2.webp"
+},
     coords: [28.9833, 47.6042],
     coordinates: { lat: 47.6042, lng: 28.9833 },
     description: {
@@ -191,11 +335,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Defileuri spectaculoase pe Nistru", "Habitat pentru șoimul călător", "Ferigi rare în crăpături", "Include cascade în trepte"],
       en: ["Spectacular Dniester gorges", "Habitat for peregrine falcons", "Rare ferns in rock crevices", "Features tiered waterfalls"],
     },
-    imageHint: "Tipova cliffs overlooking Dniester river", image: "/poi-images/moldova-tipova-reserve-life-v2.webp"},
+    imageHint: "Tipova cliffs overlooking Dniester river",
+    image: "/poi-images/moldova-tipova-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Tipova ist eines der größten Felsenkloster-Ensembles Osteuropas, eingebettet in ein Landschaftsreservat. Es beeindruckt durch steile Klippen und terrassenförmige Wasserfälle.",
+      hu: "Tipova Kelet-Európa egyik legnagyobb sziklakolostor-együttese, egy tájvédelmi körzetbe ágyazva. Meredek szikláival és teraszos vízeséseivel nyűgözi le a látogatókat.",
+      ro: "Țipova este unul dintre cele mai mari ansambluri rupestre din Europa de Est. Rezervația peisajistică impresionează prin faleze abrupte și cascade în terase.",
+      en: "Tipova features one of Eastern Europe's largest rock monastery complexes, set within a landscape reserve. It is noted for its steep cliffs and terraced waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 306 Hektar geschützt", "Enthält über 18 Felsenkammern", "Höchster Wasserfall erreicht 16 Meter", "Kloster stammt teils aus dem 11. Jh."],
+      hu: ["306 hektáros védett terület", "Több mint 18 sziklakamrát tartalmaz", "A legmagasabb vízesés 16 méteres", "A kolostor egy része 11. századi"],
+      ro: ["Suprafață protejată de 306 hectare", "Include peste 18 chilii rupestre", "Cea mai mare cascadă are 16 metri", "Mănăstirea datează parțial din sec. XI"],
+      en: ["Protected area of 306 hectares", "Contains over 18 rock chambers", "Highest waterfall reaches 16 meters", "Monastery dates back to the 11th century"],
+    },
+  },
   {
     id: "moldova-naslavcea-clisura-life-v2",
     type: "wildlife",
-    name: { de: "Naslavcea-Bogen", hu: "Naslavcea-szoros", ro: "Clisura Naslavcea", en: "Naslavcea Gorges" },
+    name: { de: "Naslavcea-Bogen", hu: "Naslavcea-szoros", ro: "Clisura Naslavcea", en: "Naslavcea Gorges",
+image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"
+},
     coords: [27.5847, 48.4556],
     coordinates: { lat: 48.4556, lng: 27.5847 },
     description: {
@@ -210,11 +370,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cel mai nordic punct al țării", "Prezența tufului vulcanic", "Fosile de pești și plante", "Vedere spre lacul de acumulare"],
       en: ["Northernmost point of Moldova", "Presence of volcanic tuff", "Fossilized fish and plants", "View of the Dniester reservoir"],
     },
-    imageHint: "Naslavcea Dniester river bend northern Moldova", image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"},
+    imageHint: "Naslavcea Dniester river bend northern Moldova",
+    image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Naslavcea liegt am nördlichsten Punkt Moldawiens und bietet dramatische Schluchten am Dnjestr. Die geologischen Formationen offenbaren Millionen Jahre alte Fossilien und Gesteine.",
+      hu: "Naslavcea Moldova legészakibb pontján található, és drámai szurdokokat kínál a Dnyeszter mentén. A földtani képződmények több millió éves kövületeket rejtenek.",
+      ro: "Naslavcea se află în cel mai nordic punct al Moldovei, oferind defilee dramatice pe Nistru. Formațiunile geologice dezvăluie fosile vechi de milioane de ani.",
+      en: "Naslavcea is located at Moldova's northernmost point, featuring dramatic gorges along the Dniester. Geological formations here reveal fossils millions of years old.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt der Republik", "Fossilien aus dem Sarmatium gefunden", "Höhe der Klippen bis zu 100 Meter", "Umfasst tektonische Bruchzonen"],
+      hu: ["A köztársaság legészakibb pontja", "Szarmata kori kövületeket találtak", "A sziklák magassága eléri a 100 métert", "Tektonikus törésvonalakat foglal magában"],
+      ro: ["Cel mai nordic punct al țării", "S-au găsit fosile din epoca sarmațiană", "Înălțimea falezelor atinge 100 metri", "Include zone de fractură tectonică"],
+      en: ["The northernmost point of Moldova", "Sarmatian fossils have been found", "Cliffs reach heights of 100 meters", "Encompasses tectonic fault zones"],
+    },
+  },
   {
     id: "moldova-hundred-mounds-life-v2",
     type: "wildlife",
-    name: { de: "Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "Hundred Mounds" },
+    name: { de: "Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "Hundred Mounds",
+image: "/poi-images/moldova-hundred-mounds-life-v2.webp"
+},
     coords: [27.2333, 47.8167],
     coordinates: { lat: 47.8167, lng: 27.2333 },
     description: {
@@ -229,11 +405,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Peste 3.500 de movile", "Parte din Pădurea Domnească", "Origine geologică incertă", "Plante de stepă rare"],
       en: ["Over 3,500 mounds", "Part of the Royal Forest", "Mysterious geological origin", "Rare steppe vegetation"],
     },
-    imageHint: "Suta de Movile mounds landscape Moldova", image: "/poi-images/moldova-hundred-mounds-life-v2.webp"},
+    imageHint: "Suta de Movile mounds landscape Moldova",
+    image: "/poi-images/moldova-hundred-mounds-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die 'Hundert Hügel' sind ein mysteriöses geomorphologisches Phänomen im Prut-Tal. Tausende von Hügeln erstrecken sich über 8 km und geben Wissenschaftlern bis heute Rätsel auf.",
+      hu: "A 'Száz halom' egy rejtélyes geomorfológiai jelenség a Prut völgyében. Halmok ezrei húzódnak 8 km hosszan, amelyek eredete ma is foglalkoztatja a tudósokat.",
+      ro: "'Suta de Movile' este un fenomen geomorfologic misterios din valea Prutului. Mii de movile se întind pe 8 km, originea lor fiind încă subiect de dezbatere.",
+      en: "The 'Hundred Mounds' is a mysterious geomorphological phenomenon in the Prut Valley. Thousands of mounds stretch across 8 km, still puzzling scientists today.",
+    },
+    factsAdvanced: {
+      de: ["Bestand von über 3500 Hügeln", "Erarstreckt sich über 1072 Hektar", "Hügelhöhe variiert von 1 bis 30 Meter", "Entstanden vor etwa 10-12 Mio. Jahren"],
+      hu: ["Több mint 3500 halom található", "1072 hektáros területen fekszik", "A halmok magassága 1 és 30 méter közt van", "Kb. 10-12 millió éve keletkeztek"],
+      ro: ["Numără peste 3500 de movile", "Se întinde pe circa 1072 hectare", "Înălțimea movilelor între 1 și 30 m", "Formate acum circa 10-12 milioane ani"],
+      en: ["Count exceeds 3500 individual mounds", "Spans an area of 1072 hectares", "Mound heights range from 1 to 30 meters", "Formed roughly 10-12 million years ago"],
+    },
+  },
   {
     id: "moldova-beleu-lake-life-v2",
     type: "lake",
-    name: { de: "Beleu-See", hu: "Beleu-tó", ro: "Lacul Beleu", en: "Beleu Lake" },
+    name: { de: "Beleu-See", hu: "Beleu-tó", ro: "Lacul Beleu", en: "Beleu Lake",
+image: "/poi-images/moldova-beleu-lake-life-v2.webp"
+},
     coords: [28.1567, 45.6111],
     coordinates: { lat: 45.6111, lng: 28.1567 },
     description: {
@@ -248,11 +440,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Vechime de cca. 5000 ani", "Adâncime medie de 1-2m", "Loc de popas pentru pelicani", "Parte a biosferei UNESCO"],
       en: ["Around 5,000 years old", "Average depth of 1-2m", "Stopover for pelicans", "Part of UNESCO Biosphere"],
     },
-    imageHint: "Beleu lake surface with birds Moldova", image: "/poi-images/moldova-beleu-lake-life-v2.webp"},
+    imageHint: "Beleu lake surface with birds Moldova",
+    image: "/poi-images/moldova-beleu-lake-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Beleu-See ist der größte natürliche See Moldawiens und Herzstück des Prutul de Jos Reservats. Er ist ein Paradies für Wasservögel und Teil des UNESCO-Biosphärennetzes.",
+      hu: "A Beleu-tó Moldova legnagyobb természetes tava és a Prutul de Jos rezervátum szíve. A vízimadarak paradicsoma és az UNESCO bioszféra-hálózat része.",
+      ro: "Lacul Beleu este cel mai mare lac natural din Moldova și inima rezervației Prutul de Jos. Este un paradis al păsărilor acvatice, parte a rețelei UNESCO.",
+      en: "Beleu Lake is Moldova's largest natural lake and the centerpiece of the Prutul de Jos Reserve. It is a haven for waterfowl and part of the UNESCO Biosphere network.",
+    },
+    factsAdvanced: {
+      de: ["Fläche beträgt etwa 6,28 km²", "Durchschnittliche Tiefe von 0,5 bis 2 m", "Entstand vor etwa 5-6 Tausend Jahren", "Heimat für Pelikane und Kormorane"],
+      hu: ["Felszíne körülbelül 6,28 km²", "Átlagos mélysége 0,5 és 2 m közötti", "Kb. 5-6 ezer évvel ezelőtt keletkezett", "Pelikánok és kormoránok otthona"],
+      ro: ["Suprafața este de circa 6,28 km²", "Adâncimea medie între 0,5 și 2 metri", "Format acum circa 5-6 mii de ani", "Găzduiește pelicani și cormorani"],
+      en: ["Surface area is about 6.28 km²", "Average depth ranges from 0.5 to 2 m", "Formed roughly 5-6 thousand years ago", "Habitat for pelicans and cormorants"],
+    },
+  },
   {
     id: "moldova-manta-lake-life-v2",
     type: "lake",
-    name: { de: "Manta-See", hu: "Manta-tó", ro: "Lacul Manta", en: "Manta Lake" },
+    name: { de: "Manta-See", hu: "Manta-tó", ro: "Lacul Manta", en: "Manta Lake",
+image: "/poi-images/moldova-manta-lake-life-v2.webp"
+},
     coords: [28.1756, 45.8233],
     coordinates: { lat: 45.8233, lng: 28.1756 },
     description: {
@@ -267,11 +475,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cel mai mare lac natural", "Vegetație de stufăriș bogată", "Prezența nuferilor albi", "Zonă importantă pentru pescuit"],
       en: ["Largest natural lake in Moldova", "Extensive reed beds", "Presence of white water lilies", "Important fishing area"],
     },
-    imageHint: "Manta lake water lilies Moldova", image: "/poi-images/moldova-manta-lake-life-v2.webp"},
+    imageHint: "Manta lake water lilies Moldova",
+    image: "/poi-images/moldova-manta-lake-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Manta ist ein weitläufiges Feuchtgebiet im Süden Moldawiens, das aus mehreren verbundenen Seen besteht. Es ist ein kritischer Lebensraum für bedrohte Fisch- und Vogelarten.",
+      hu: "A Manta egy kiterjedt vizes élőhely Dél-Moldovában, amely több összekapcsolt tóból áll. Kritikus élőhely a veszélyeztetett hal- és madárfajok számára.",
+      ro: "Manta este o zonă umedă vastă din sudul Moldovei, formată din mai multe lacuri conectate. Este un habitat critic pentru specii periclitate de pești și păsări.",
+      en: "Manta is an extensive wetland complex in southern Moldova consisting of several connected lakes. It provides critical habitat for endangered fish and bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des Komplexes ca. 2100 Hektar", "Größter Reliktsee im Prut-Tal", "Beherbergt seltene Fischarten wie Karauschen", "Wichtiger Rastplatz für Zugvögel"],
+      hu: ["A komplexum területe kb. 2100 hektár", "A Prut-völgy legnagyobb reliktum tava", "Ritka halfajoknak, pl. kárásznak ad otthont", "Fontos pihenőhely a költöző madaraknak"],
+      ro: ["Suprafața complexului e de 2100 ha", "Cel mai mare lac relict din valea Prutului", "Adăpostește pești rari precum carasul", "Loc de popas vital pentru păsări călătoare"],
+      en: ["Complex area is around 2100 hectares", "Largest relict lake in the Prut Valley", "Home to rare fish like crucian carp", "Crucial stopover for migratory birds"],
+    },
+  },
   {
     id: "moldova-fetesti-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Reservat Fetești", hu: "Fetești Tájvédelmi Körzet", ro: "Rezervația peisajistică Fetești", en: "Fetesti Landscape Reserve" },
+    name: { de: "Reservat Fetești", hu: "Fetești Tájvédelmi Körzet", ro: "Rezervația peisajistică Fetești", en: "Fetesti Landscape Reserve",
+image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"
+},
     coords: [27.1147, 48.1681],
     coordinates: { lat: 48.1681, lng: 27.1147 },
     description: {
@@ -286,11 +510,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Supranumită 'Mica Elveție'", "Recifuri calcaroase sarmațiene", "Peste 160 specii de plante", "Defileuri adânci în piatră"],
       en: ["Nicknamed 'Little Switzerland'", "Sarmatian limestone reefs", "Over 160 plant species", "Deep rocky gorges"],
     },
-    imageHint: "Fetesti landscape Little Switzerland Moldova", image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"},
+    imageHint: "Fetesti landscape Little Switzerland Moldova",
+    image: "/poi-images/moldova-fetesti-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fetesti-Reserve, oft 'Kleine Schweiz' genannt, besticht durch steile Kalksteinfelsen und den Fluss Draghiște. Es ist ein Juwel der moldauischen Karstlandschaft.",
+      hu: "A Fetesti rezervátum, amelyet gyakran 'Kis Svájcnak' hívnak, meredek mészkőszikláival és a Draghiște-folyóval hódít. A moldovai karsztvidék egyik gyöngyszeme.",
+      ro: "Rezervația Fetești, numită adesea 'Mica Elveție', impresionează prin stâncile de calcar și râul Draghiște. Este o bijuterie a peisajului carstic moldovenesc.",
+      en: "Fetesti Reserve, often called 'Little Switzerland', features steep limestone cliffs and the Draghiște River. It is a gem of the Moldovan karst landscape.",
+    },
+    factsAdvanced: {
+      de: ["Fläche umfasst etwa 555 Hektar", "Kalksteinfelsen sind über 20 Mio. Jahre alt", "Beherbergt über 160 Pflanzenarten", "Wird vom Fluss Draghiște durchquert"],
+      hu: ["Területe megközelítőleg 555 hektár", "A mészkősziklák 20 millió évnél idősebbek", "Több mint 160 növényfaj él itt", "A Draghiște-folyó szeli át a területet"],
+      ro: ["Suprafața este de circa 555 hectare", "Stâncile au o vechime de peste 20 mil. ani", "Include peste 160 de specii floristice", "Traversată de apele râului Draghiște"],
+      en: ["Covers an area of 555 hectares", "Limestone reefs are over 20 million years old", "Home to more than 160 plant species", "Traversed by the Draghiște River"],
+    },
+  },
   {
     id: "moldova-la-castel-life-v2",
     type: "wildlife",
-    name: { de: "Landschaftsreservat La Castel", hu: "La Castel Tájvédelmi Körzet", ro: "Rezervația peisajistică La Castel", en: "La Castel Landscape Reserve" },
+    name: { de: "Landschaftsreservat La Castel", hu: "La Castel Tájvédelmi Körzet", ro: "Rezervația peisajistică La Castel", en: "La Castel Landscape Reserve",
+image: "/poi-images/moldova-la-castel-life-v2.webp"
+},
     coords: [27.1517, 48.1514],
     coordinates: { lat: 48.1514, lng: 27.1517 },
     description: {
@@ -306,11 +546,25 @@ export const moldovaLifeV2: POI[] = [
       en: ["Ancient coral reefs", "Caves in the limestone walls", "Traversed by the Racovăț River", "Protected natural monuments"],
     },
     imageHint: "La Castel cliffs Racovat river Moldova",
+    descriptionAdvanced: {
+      de: "Das Reservat La Castel liegt im Racovăț-Tal und ist bekannt für seine bizarren Felsformationen und Höhlen. Es bewahrt Spuren prähistorischer menschlicher Siedlungen.",
+      hu: "A La Castel rezervátum a Racovăț-völgyben található, bizarr sziklaalakzatairól és barlangjairól ismert. Őskori emberi települések nyomait őrzi.",
+      ro: "Rezervația La Castel se află în valea Racovățului și este cunoscută pentru formele bizare ale stâncilor. Păstrează urme ale unor așezări umane preistorice.",
+      en: "La Castel Reserve is situated in the Racovăț Valley, known for its bizarre rock formations and caves. It preserves traces of prehistoric human settlements.",
+    },
+    factsAdvanced: {
+      de: ["Fläche beträgt etwa 746 Hektar", "Tiefe der Schlucht erreicht 50 Meter", "Enthält Überreste von Mammutknochen", "Bizarre Formen durch Erosion entstanden"],
+      hu: ["Területe körülbelül 746 hektár", "A szurdok mélysége eléri az 50 métert", "Mamutcsontok maradványait is találták", "Az erózió hozott létre bizarr formákat"],
+      ro: ["Suprafața este de circa 746 hectare", "Adâncimea defileului atinge 50 metri", "S-au descoperit resturi de oase de mamut", "Forme bizare create prin eroziune"],
+      en: ["Covers an area of 746 hectares", "Gorge depth reaches 50 meters", "Remains of mammoth bones were found", "Bizarre shapes created by natural erosion"],
+    },
   },
   {
     id: "moldova-rudi-arionesti-life-v2",
     type: "wildlife",
-    name: { de: "Rudi-Arionești Reservat", hu: "Rudi-Arionești Tájvédelmi Körzet", ro: "Rezervația Rudi-Arionești", en: "Rudi-Arionesti Reserve" },
+    name: { de: "Rudi-Arionești Reservat", hu: "Rudi-Arionești Tájvédelmi Körzet", ro: "Rezervația Rudi-Arionești", en: "Rudi-Arionesti Reserve",
+image: "/poi-images/moldova-rudi-arionesti-life-v2.webp"
+},
     coords: [27.8833, 48.3364],
     coordinates: { lat: 48.3364, lng: 27.8833 },
     description: {
@@ -326,11 +580,25 @@ export const moldovaLifeV2: POI[] = [
       en: ["Includes the 'Cave of the Dead'", "Deep forested gorges", "Rich in natural springs", "UNESCO World Heritage site point"],
     },
     imageHint: "Rudi forest and cliffs Moldova",
+    descriptionAdvanced: {
+      de: "Rudi-Arionesti ist ein Landschaftsreservat am Dnjestr, das für seine antiken Festungen und Höhlen bekannt ist. Hier befindet sich auch ein Punkt des Struve-Bogens.",
+      hu: "A Rudi-Arionesti tájvédelmi körzet a Dnyeszter mentén, ókori erődítményeiről és barlangjairól ismert. Itt található a Struve-ív egyik mérőpontja is.",
+      ro: "Rezervația Rudi-Arionesti de pe Nistru este cunoscută pentru cetățile antice și peșteri. Aici se află și un punct al Arcului Geodezic Struve, monument UNESCO.",
+      en: "Rudi-Arionesti is a landscape reserve along the Dniester, known for its ancient fortresses and caves. It also hosts a site of the Struve Geodetic Arc.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche von 916 Hektar", "Beinhaltet die 'Höhle der Toten'", "Struve-Bogen Punkt in der Nähe", "Umfasst Befestigungen aus dem 2.-4. Jh."],
+      hu: ["Teljes területe 916 hektár", "Magában foglalja a 'Holtak barlangját'", "Struve-ív mérőpont található a közelben", "2-4. századi erődítményeket tartalmaz"],
+      ro: ["Suprafața totală este de 916 hectare", "Include 'Peștera Răposaților'", "Punct al Arcului Struve situat în zonă", "Conține fortificații din sec. II-IV"],
+      en: ["Total area covers 916 hectares", "Includes the 'Cave of the Deceased'", "Struve Arc point located nearby", "Features fortifications from the 2nd-4th C."],
+    },
   },
   {
     id: "moldova-cosauti-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Reservat Cosăuți", hu: "Cosăuți Tájvédelmi Körzet", ro: "Rezervația peisajistică Cosăuți", en: "Cosauti Landscape Reserve" },
+    name: { de: "Reservat Cosăuți", hu: "Cosăuți Tájvédelmi Körzet", ro: "Rezervația peisajistică Cosăuți", en: "Cosauti Landscape Reserve",
+image: "/poi-images/moldova-cosauti-reserve-life-v2.webp"
+},
     coords: [28.2833, 48.2333],
     coordinates: { lat: 48.2333, lng: 28.2833 },
     description: {
@@ -346,11 +614,25 @@ export const moldovaLifeV2: POI[] = [
       en: ["Only granite location in Moldova", "Dniester river thresholds", "Rich in fossil flora", "Important ecological corridor"],
     },
     imageHint: "Cosauti Dniester granite outcrops Moldova",
+    descriptionAdvanced: {
+      de: "Das Cosauti-Reservat zeichnet sich durch seine Granitausbisse am Dnjestr-Ufer aus. Die Region ist bekannt für ihre Steinmetztradition und das nahegelegene Kloster.",
+      hu: "A Cosauti rezervátumot a Dnyeszter-parti gránitkibúvások jellemzik. A régió kőfaragó hagyományairól és a közeli kolostorról ismert.",
+      ro: "Rezervația Cosăuți se remarcă prin aflorimentele de granit de pe malul Nistrului. Regiunea este celebră pentru tradiția pietrarilor și mănăstirea din apropiere.",
+      en: "Cosauti Reserve is characterized by its granite outcrops along the Dniester bank. The region is famous for its stonemasonry tradition and nearby monastery.",
+    },
+    factsAdvanced: {
+      de: ["Fläche umfasst etwa 585 Hektar", "Einziger Ort mit Granit in Moldawien", "Umfasst paläolithische Siedlungsspuren", "Bekannt für traditionelle Steinkreuze"],
+      hu: ["Területe megközelítőleg 585 hektár", "Moldova egyetlen gránit-lelőhelye", "Paleolit kori településnyomokat tartalmaz", "Híres a hagyományos kőkeresztjeiről"],
+      ro: ["Suprafața este de circa 585 hectare", "Singurul loc cu granit din Moldova", "Include urme de așezări paleolitice", "Faimoasă pentru crucile de piatră"],
+      en: ["Covers an area of 585 hectares", "Only location with granite in Moldova", "Features Paleolithic settlement remains", "Famous for traditional stone crosses"],
+    },
   },
   {
     id: "moldova-trebujeni-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Trebujeni", hu: "Trebujeni Tájvédelmi Körzet", ro: "Rezervația peisajistică Trebujeni", en: "Trebujeni Landscape Reserve" },
+    name: { de: "Landschaftsreservat Trebujeni", hu: "Trebujeni Tájvédelmi Körzet", ro: "Rezervația peisajistică Trebujeni", en: "Trebujeni Landscape Reserve",
+image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"
+},
     coords: [28.9733, 47.3117],
     coordinates: { lat: 47.3117, lng: 28.9733 },
     description: {
@@ -365,11 +647,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Meandre spectaculoase ale Răutului", "Habitat pentru numeroși lilieci", "Stânci calcaroase sarmațiene", "Parte din Parcul Național Orhei"],
       en: ["Spectacular Răut river meanders", "Habitat for many bat species", "Sarmatian limestone cliffs", "Part of the Orhei National Park"],
     },
-    imageHint: "Trebujeni Raut river canyon Moldova", image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"},
+    imageHint: "Trebujeni Raut river canyon Moldova",
+    image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Trebujeni ist Teil des historischen Orheiul Vechi Komplexes. Die Răut-Schlucht bietet dramatische Kalksteinfelsen, in denen sich zahlreiche Höhlen und Einsiedeleien befinden.",
+      hu: "Trebujeni a történelmi Orheiul Vechi komplexum része. A Răut-szurdok drámai mészkősziklákat kínál, amelyekben számos barlang és remetelak található.",
+      ro: "Rezervația Trebujeni face parte din complexul Orheiul Vechi. Defileul Răutului oferă stânci de calcar în care sunt săpate numeroase peșteri și schituri.",
+      en: "Trebujeni is part of the historic Orheiul Vechi complex. The Răut River gorge offers dramatic limestone cliffs housing numerous caves and hermitages.",
+    },
+    factsAdvanced: {
+      de: ["Fläche beträgt etwa 500 Hektar", "Răut-Fluss bildet hier eine 180° Kurve", "Kalksteinklippen bis zu 100 m hoch", "Teil des Nationalparks Orhei"],
+      hu: ["Területe körülbelül 500 hektár", "A Răut-folyó itt 180 fokos kanyart tesz", "A mészkősziklák 100 m magasak", "Az Orhei Nemzeti Park része"],
+      ro: ["Suprafața este de circa 500 hectare", "Râul Răut face un cot de 180 grade", "Faleze de calcar de până la 100 m", "Inclusă în Parcul Național Orhei"],
+      en: ["Covers an area of 500 hectares", "Răut River makes a 180-degree turn here", "Limestone cliffs up to 100 m high", "Part of the Orhei National Park"],
+    },
+  },
   {
     id: "moldova-capriana-scoreni-life-v2",
     type: "forest",
-    name: { de: "Landschaftsreservat Căpriana-Scoreni", hu: "Căpriana-Scoreni Tájvédelmi Körzet", ro: "Rezervația peisajistică Căpriana-Scoreni", en: "Capriana-Scoreni Landscape Reserve" },
+    name: { de: "Landschaftsreservat Căpriana-Scoreni", hu: "Căpriana-Scoreni Tájvédelmi Körzet", ro: "Rezervația peisajistică Căpriana-Scoreni", en: "Capriana-Scoreni Landscape Reserve",
+image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"
+},
     coords: [28.5211, 47.1256],
     coordinates: { lat: 47.1256, lng: 28.5211 },
     description: {
@@ -384,11 +682,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Inima Codrilor centrali", "Stejari de peste 500 de ani", "Casă pentru cerbi și căprioare", "Zonă de cercetare științifică"],
       en: ["Heart of the central Codri", "Oaks over 500 years old", "Home to deer and roe deer", "Scientific research area"],
     },
-    imageHint: "Old oak forest Capriana Moldova", image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"},
+    imageHint: "Old oak forest Capriana Moldova",
+    image: "/poi-images/moldova-capriana-scoreni-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Capriana-Scoreni Reservat liegt im Herzen der Codru-Region. Es ist bekannt für seine alten Eichenwälder und das nahegelegene Kloster Capriana, eines der ältesten des Landes.",
+      hu: "A Capriana-Scoreni rezervátum a Codru-régió szívében található. Régi tölgyerdőiről és a közeli Capriana-kolostorról ismert, amely az ország egyik legrégebbi kolostora.",
+      ro: "Rezervația Căpriana-Scoreni se află în inima Codrilor. Este cunoscută pentru pădurile de stejar și mănăstirea Căpriana, una dintre cele mai vechi din țară.",
+      en: "Capriana-Scoreni Reserve is located in the heart of the Codru region. It is known for its old oak forests and the nearby Capriana Monastery, one of Moldova's oldest.",
+    },
+    factsAdvanced: {
+      de: ["Fläche umfasst 1762 Hektar", "Umfasst den 'Eichenwald von Stefan'", "Beherbergt Rehe und Wildschweine", "Kloster erstmals 1429 erwähnt"],
+      hu: ["Területe 1762 hektár", "Magában foglalja 'István tölgyesét'", "Őzeknek és vaddisznóknak ad otthont", "A kolostort 1429-ben említik először"],
+      ro: ["Suprafața este de 1762 hectare", "Include 'Stejarul lui Ștefan cel Mare'", "Adăpostește căprioare și mistreți", "Mănăstirea atestată prima dată în 1429"],
+      en: ["Covers an area of 1762 hectares", "Includes 'Stephen the Great's Oak'", "Home to roe deer and wild boars", "Monastery first mentioned in 1429"],
+    },
+  },
   {
     id: "moldova-tipova-waterfalls-life-v2",
     type: "wildlife",
-    name: { de: "Țîpova-Wasserfälle", hu: "Țîpova-vízesések", ro: "Cascadele Țîpova", en: "Tipova Waterfalls" },
+    name: { de: "Țîpova-Wasserfälle", hu: "Țîpova-vízesések", ro: "Cascadele Țîpova", en: "Tipova Waterfalls",
+image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"
+},
     coords: [28.9917, 47.6083],
     coordinates: { lat: 47.6083, lng: 28.9917 },
     description: {
@@ -403,11 +717,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Curs în cascade succesive", "Specii rare de mușchi", "Oază în peisajul arid", "Destinație de drumeție la Țîpova"],
       en: ["Cascading tiered flow", "Rare moss species", "Oasis in an arid landscape", "Hiking spot near Tipova"],
     },
-    imageHint: "Tipova waterfalls landscape Moldova", image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"},
+    imageHint: "Tipova waterfalls landscape Moldova",
+    image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tipova-Wasserfälle sind eine Kaskade in einer tiefen Schlucht am Dnjestr. Der Hauptwasserfall stürzt über 16 Meter in die Tiefe und schafft eine einzigartige Mikroklimazone.",
+      hu: "A Tipova-vízesések a Dnyeszter menti mély szurdok vízlépcsői. A fő vízesés több mint 16 méter magasból zúdul le, egyedülálló mikroklímát teremtve.",
+      ro: "Cascadele Țipova formează o succesiune în defileul adânc de pe Nistru. Cascada principală cade de la peste 16 metri, creând un microclimat unic.",
+      en: "Tipova Waterfalls are a series of cascades in a deep gorge along the Dniester. The main waterfall drops over 16 meters, creating a unique microclimate zone.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Fall ist 16 Meter hoch", "Insgesamt 4 große Wasserfälle", "Ganzjährig wasserführend", "Umgeben von sarmatischem Kalkstein"],
+      hu: ["A legmagasabb esés 16 méteres", "Összesen 4 nagy vízesés található", "Egész évben bőséges a vízhozama", "Szarmata mészkőfalak veszik körül"],
+      ro: ["Cea mai înaltă cădere are 16 metri", "Există 4 cascade principale", "Debit constant pe tot parcursul anului", "Înconjurate de calcare sarmațiene"],
+      en: ["Tallest waterfall is 16 meters high", "Consists of 4 major waterfalls", "Flows steadily throughout the year", "Surrounded by Sarmatian limestone"],
+    },
+  },
   {
     id: "moldova-saharna-waterfalls-life-v2",
     type: "wildlife",
-    name: { de: "Saharna-Wasserfälle", hu: "Saharna-vízesések", ro: "Cascadele Saharna", en: "Saharna Waterfalls" },
+    name: { de: "Saharna-Wasserfälle", hu: "Saharna-vízesések", ro: "Cascadele Saharna", en: "Saharna Waterfalls",
+image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"
+},
     coords: [28.9611, 47.6953],
     coordinates: { lat: 47.6953, lng: 28.9611 },
     description: {
@@ -422,11 +752,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Total de 22 de cascade", "Cascada principală are 10m", "Bogată în plante endemice", "Amfiteatru natural"],
       en: ["22 cascades in total", "Main fall is 10m high", "Rich in endemic plants", "Natural amphitheater formation"],
     },
-    imageHint: "Saharna waterfall Gropul Tiganului Moldova", image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"},
+    imageHint: "Saharna waterfall Gropul Tiganului Moldova",
+    image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Saharna-Tal beherbergt 22 Wasserfälle, von denen der 'Gipsy Hole' der bekannteste ist. Sie sind in eine malerische Schlucht eingebettet und ein beliebtes Wanderziel.",
+      hu: "A Saharna-völgy 22 vízesésnek ad otthont, amelyek közül a 'Cigány-lyuk' a legismertebb. Festői szurdokba ágyazódnak, és népszerű túracélpontok.",
+      ro: "Valea Saharna găzduiește 22 de cascade, 'Groapa Țiganului' fiind cea mai cunoscută. Sunt situate într-un defileu pitoresc, fiind o destinație de drumeție.",
+      en: "The Saharna Valley features 22 waterfalls, with 'Gipsy Hole' being the most famous. They are set in a picturesque gorge and are a favorite hiking destination.",
+    },
+    factsAdvanced: {
+      de: ["Insgesamt 22 Wasserfälle im Tal", "Höchste Stufe erreicht 10 Meter", "'Gipsy Hole' ist etwa 4 Meter hoch", "Gehören zum Saharna-Reservat"],
+      hu: ["Összesen 22 vízesés a völgyben", "A legmagasabb szint 10 méteres", "A 'Cigány-lyuk' kb. 4 méter magas", "A Saharna-rezervátum részei"],
+      ro: ["Un număr total de 22 de cascade", "Treapta maximă atinge 10 metri", "'Groapa Țiganului' are circa 4 metri", "Fac parte din rezervația Saharna"],
+      en: ["Total of 22 waterfalls in the valley", "Tallest drop reaches 10 meters", "'Gipsy Hole' is about 4 meters high", "Part of the Saharna Landscape Reserve"],
+    },
+  },
   {
     id: "moldova-duruitoarea-gorges-life-v2",
     type: "wildlife",
-    name: { de: "Schluchten von Duruitoarea Veche", hu: "Duruitoarea Veche-szurdok", ro: "Defileul Duruitoarea Veche", en: "Duruitoarea Veche Gorges" },
+    name: { de: "Schluchten von Duruitoarea Veche", hu: "Duruitoarea Veche-szurdok", ro: "Defileul Duruitoarea Veche", en: "Duruitoarea Veche Gorges",
+image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp"
+},
     coords: [27.2611, 47.8864],
     coordinates: { lat: 47.8864, lng: 27.2611 },
     description: {
@@ -442,11 +788,25 @@ export const moldovaLifeV2: POI[] = [
       en: ["Ancient cave dwellings", "Sarmatian coral reefs", "Habitat for birds of prey", "Near Costești-Stânca reservoir"],
     },
     imageHint: "Duruitoarea Veche limestone cliffs Moldova",
+    descriptionAdvanced: {
+      de: "Die Duruitoarea-Schlucht ist berühmt für ihre Höhle, in der Spuren von Steinzeitmenschen gefunden wurden. Die Kalksteinwände bieten einen faszinierenden Einblick in die Erdgeschichte.",
+      hu: "A Duruitoarea-szurdok barlangjáról híres, ahol kőkorszaki emberek nyomait találták meg. A mészkőfalak lenyűgöző betekintést nyújtanak a földtörténetbe.",
+      ro: "Defileul Duruitoarea este faimos pentru peștera în care s-au găsit urme ale oamenilor din epoca pietrei. Pereții de calcar oferă o privire în istoria geologică.",
+      en: "Duruitoarea Gorges are famous for a cave where traces of Stone Age humans were discovered. The limestone walls offer a fascinating look into geological history.",
+    },
+    factsAdvanced: {
+      de: ["Höhle ist über 70 Meter tief", "Siedlungsspuren aus dem Paläolithikum", "Felswände erreichen 100 Meter Höhe", "Nahe dem Dorf Duruitoarea Veche"],
+      hu: ["A barlang több mint 70 méter mély", "Paleolit kori településnyomok", "A sziklafalak 100 méter magasak", "Duruitoarea Veche falu közelében"],
+      ro: ["Peștera are o lungime de peste 70 m", "Urme de locuire din paleolitic", "Pereții stâncoși ating 100 m înălțime", "Lângă satul Duruitoarea Veche"],
+      en: ["Cave is over 70 meters long", "Traces of Paleolithic settlements", "Rock walls reach 100 meters in height", "Located near Duruitoarea Veche village"],
+    },
   },
   {
     id: "moldova-butesti-reef-life-v2",
     type: "wildlife",
-    name: { de: "Riff von Butești", hu: "Butești-zátony", ro: "Reciful Butești", en: "Butesti Reef" },
+    name: { de: "Riff von Butești", hu: "Butești-zátony", ro: "Reciful Butești", en: "Butesti Reef",
+image: "/poi-images/moldova-butesti-reef-life-v2.webp"
+},
     coords: [27.3233, 47.7942],
     coordinates: { lat: 47.7942, lng: 27.3233 },
     description: {
@@ -461,11 +821,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Recif lung de peste 2 km", "Fund de mare antic", "Include peșteri adânci", "Floră de stepă relictă"],
       en: ["Over 2 km long reef", "Ancient seabed remnant", "Includes deep caves", "Relict steppe flora"],
     },
-    imageHint: "Butesti reef limestone formation Moldova", image: "/poi-images/moldova-butesti-reef-life-v2.webp"},
+    imageHint: "Butesti reef limestone formation Moldova",
+    image: "/poi-images/moldova-butesti-reef-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Butesti-Riff ist ein fossiles Korallenriff, das vor Millionen von Jahren in einem warmen Meer entstand. Es erstreckt sich als markanter Felsrücken durch die moldauische Steppe.",
+      hu: "A Butesti-zátony egy fosszilis korallzátony, amely évmilliókkal ezelőtt keletkezett egy meleg tengerben. Jellegzetes sziklagerincként húzódik át a moldovai sztyeppén.",
+      ro: "Reciful Butești este un recif coraligen fosil, format acum milioane de ani într-o mare caldă. Se întinde ca o creastă stâncoasă prin stepa moldovenească.",
+      en: "Butesti Reef is a fossilized coral reef formed millions of years ago in a warm sea. It stretches as a prominent rocky ridge through the Moldovan steppe.",
+    },
+    factsAdvanced: {
+      de: ["Länge des Riffs beträgt 200 Meter", "Höhe erreicht etwa 40 Meter", "Besteht aus sarmatischem Kalkstein", "Entstanden vor ca. 12-15 Mio. Jahren"],
+      hu: ["A zátony hossza 200 méter", "Magassága eléri a 40 métert", "Szarmata mészkőből épül fel", "Kb. 12-15 millió éve keletkezett"],
+      ro: ["Lungimea recifului este de 200 m", "Înălțimea atinge circa 40 metri", "Format din calcare sarmațiene", "Creat acum cca. 12-15 milioane ani"],
+      en: ["Reef length is about 200 meters", "Reaches a height of 40 meters", "Composed of Sarmatian limestone", "Formed roughly 12-15 million years ago"],
+    },
+  },
   {
     id: "moldova-cobani-molla-life-v2",
     type: "wildlife",
-    name: { de: "Stînca Mare bei Cobani", hu: "Cobani Nagy-szikla", ro: "Stînca Mare (Cobani)", en: "Great Rock of Cobani" },
+    name: { de: "Stînca Mare bei Cobani", hu: "Cobani Nagy-szikla", ro: "Stînca Mare (Cobani)", en: "Great Rock of Cobani",
+image: "/poi-images/moldova-cobani-molla-life-v2.webp"
+},
     coords: [27.3167, 47.7711],
     coordinates: { lat: 47.7711, lng: 27.3167 },
     description: {
@@ -480,11 +856,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cel mai masiv recif din lunca Prutului", "Centru pentru insecte rare", "Raritate geologică", "Vedere spre lunca Prutului"],
       en: ["Most massive reef in the Prut valley", "Hub for rare insects", "Geological rarity", "Overlooks the Prut floodplains"],
     },
-    imageHint: "Stinca Mare Cobani limestone reef Moldova", image: "/poi-images/moldova-cobani-molla-life-v2.webp"},
+    imageHint: "Stinca Mare Cobani limestone reef Moldova",
+    image: "/poi-images/moldova-cobani-molla-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die 'Molla' von Cobani ist ein massiver Kalksteinfelsen, der einsam aus der Landschaft ragt. Er ist ein bedeutendes geologisches Denkmal und Zeugnis der einstigen Meeresbedeckung.",
+      hu: "A Cobani 'Molla' egy masszív mészkőszikla, amely magányosan emelkedik ki a tájból. Jelentős földtani emlék és az egykori tengerborítottság tanúja.",
+      ro: "'Stânca Molla' de la Cobani este un masiv calcaros ce domină peisajul local. Este un monument geologic important, mărturie a mării ce acoperea regiunea.",
+      en: "The 'Molla' of Cobani is a massive limestone block rising solitary from the landscape. It is a significant geological monument, reflecting the region's ancient seas.",
+    },
+    factsAdvanced: {
+      de: ["Höhe über dem Prut-Tal: 40 Meter", "Gehört zur Kette der Prut-Toltri", "Besteht aus urzeitlichen Korallen", "Nahe der Ortschaft Cobani gelegen"],
+      hu: ["Magassága a Prut-völgy felett: 40 m", "A Prut-menti toltrik láncához tartozik", "Ősi korallokból épül fel", "Cobani település közelében fekszik"],
+      ro: ["Înălțimea peste valea Prutului: 40 m", "Parte a lanțului de toltre ale Prutului", "Formată din depuneri de corali", "Situată în apropierea satului Cobani"],
+      en: ["Height above Prut Valley: 40 meters", "Part of the Prut Toltry chain", "Composed of ancient coral deposits", "Located near the village of Cobani"],
+    },
+  },
   {
     id: "moldova-dendrarium-chisinau-life-v2",
     type: "park",
-    name: { de: "Dendrarium-Park Chișinău", hu: "Kisinyovi Dendrárium", ro: "Parcul Dendrariu din Chișinău", en: "Dendrarium Park Chișinău" },
+    name: { de: "Dendrarium-Park Chișinău", hu: "Kisinyovi Dendrárium", ro: "Parcul Dendrariu din Chișinău", en: "Dendrarium Park Chișinău",
+image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"
+},
     coords: [28.8111, 47.0311],
     coordinates: { lat: 47.0311, lng: 28.8111 },
     description: {
@@ -499,11 +891,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Fondat în anul 1973", "Peste 1000 specii lemnoase", "Renumit pentru rozariul său", "Ecosistem urban vital"],
       en: ["Established in 1973", "Over 1,000 woody species", "Renowned for its rosarium", "Vital urban ecosystem"],
     },
-    imageHint: "Dendrarium Park Chisinau autumn trees", image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"},
+    imageHint: "Dendrarium Park Chisinau autumn trees",
+    image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dendrarium von Chișinău ist ein botanischer Park mit einer reichen Sammlung an Zierpflanzen und Bäumen. Es ist ein beliebter Ort für Spaziergänge und Naturbeobachtung.",
+      hu: "A kisinyovi Dendrarium egy botanikai park, amely dísznövények és fák gazdag gyűjteményével rendelkezik. Népszerű hely sétákhoz és természetmegfigyeléshez.",
+      ro: "Dendrariul din Chișinău este un parc botanic cu o colecție bogată de plante ornamentale și arbori. Este un loc preferat pentru plimbări și relaxare în natură.",
+      en: "The Dendrarium Park in Chișinău is a botanical park with a rich collection of ornamental plants and trees. It is a popular spot for leisure and nature observation.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1973", "Fläche umfasst 77,8 Hektar", "Beherbergt über 1000 Gehölzarten", "Einst Teil des botanischen Gartens"],
+      hu: ["1973-ban alapították a parkot", "Területe 77,8 hektárt tesz ki", "Több mint 1000 fás szárú faj él itt", "Egykor a botanikus kert része volt"],
+      ro: ["Fondat în anul 1973", "Suprafața este de 77,8 hectare", "Include peste 1000 specii de plante", "Fostă locație a Grădinii Botanice"],
+      en: ["Established in the year 1973", "Spans an area of 77.8 hectares", "Home to over 1000 woody species", "Formerly part of the Botanical Garden"],
+    },
+  },
   {
     id: "moldova-ivancea-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Ivancea", hu: "Ivancea Tájvédelmi Körzet", ro: "Rezervația peisajistică Ivancea", en: "Ivancea Landscape Reserve" },
+    name: { de: "Landschaftsreservat Ivancea", hu: "Ivancea Tájvédelmi Körzet", ro: "Rezervația peisajistică Ivancea", en: "Ivancea Landscape Reserve",
+image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"
+},
     coords: [28.8556, 47.2917],
     coordinates: { lat: 47.2917, lng: 28.8556 },
     description: {
@@ -518,11 +926,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Mix de pădure și lacuri", "Important pentru păsări migratoare", "Lângă conacul din Ivancea", "Bogată în plante medicinale"],
       en: ["Combination of forest and lakes", "Important for migratory birds", "Near the Ivancea manor", "Rich in medicinal herbs"],
     },
-    imageHint: "Ivancea lake and forest Moldova", image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"},
+    imageHint: "Ivancea lake and forest Moldova",
+    image: "/poi-images/moldova-ivancea-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ivancea-Reservat ist Teil der zentralen Codru-Wälder und bekannt für seine vielfältige Flora. Inmitten des Reservats befindet sich ein interessantes Forstmuseum.",
+      hu: "Az Ivancea rezervátum a központi Codru-erdők része, és változatos flórájáról ismert. A rezervátum közepén egy érdekes erdészeti múzeum található.",
+      ro: "Rezervația Ivancea face parte din Codrii centrali și este cunoscută pentru flora sa diversă. În incinta sa se află un muzeu cinegetic și forestier.",
+      en: "Ivancea Reserve is part of the central Codru forests, known for its diverse flora. It also hosts an interesting forestry museum within its boundaries.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Nationalparks Orhei", "Beinhaltet ein Forstmuseum", "Dominanz von Eichen und Buchen", "Wichtiger Teil der Codru-Region"],
+      hu: ["Az Orhei Nemzeti Park része", "Erdészeti múzeum található benne", "Tölgyek és bükkök dominálnak", "A Codru-régió fontos része"],
+      ro: ["Inclusă în Parcul Național Orhei", "Găzduiește un muzeu al pădurii", "Dominată de stejar și fag", "Segment important al zonei Codrilor"],
+      en: ["Part of the Orhei National Park", "Features a unique forestry museum", "Dominated by oak and beech trees", "Crucial segment of the Codru region"],
+    },
+  },
   {
     id: "moldova-lower-dniester-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Park" },
+    name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Park",
+image: "/poi-images/moldova-lower-dniester-life-v2.webp"
+},
     coords: [29.8056, 46.5028],
     coordinates: { lat: 46.5028, lng: 29.8056 },
     description: {
@@ -537,11 +961,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Zonă umedă Ramsar", "Fondat ca Parcul Național în 2022", "Zonă importantă de cuibărit", "Peste 200 specii de păsări"],
       en: ["Ramsar wetland site", "Established as National Park in 2022", "Key nesting area for herons", "Over 200 bird species"],
     },
-    imageHint: "Lower Dniester wetlands birdlife Moldova", image: "/poi-images/moldova-lower-dniester-life-v2.webp"},
+    imageHint: "Lower Dniester wetlands birdlife Moldova",
+    image: "/poi-images/moldova-lower-dniester-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nationalpark Unterer Dnjestr schützt ein riesiges Feuchtgebiet von internationaler Bedeutung. Er ist ein Paradies für Wasservögel und umfasst wertvolle Auenwälder.",
+      hu: "Az Alsó-Dnyeszter Nemzeti Park nemzetközi jelentőségű hatalmas vizes élőhelyet véd. A vízimadarak paradicsoma, amely értékes ártéri erdőket foglal magában.",
+      ro: "Parcul Național Nistrul de Jos protejează o zonă umedă vastă de importanță internațională. Este un paradis al păsărilor și include păduri de luncă valoroase.",
+      en: "Lower Dniester National Park protects a vast wetland area of international importance. It is a haven for waterfowl and includes valuable riparian forests.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2022", "Fläche von etwa 61.884 Hektar", "Anerkannt als Ramsar-Gebiet", "Beherbergt über 200 Vogelarten"],
+      hu: ["2022-ben alapították a parkot", "Területe kb. 61 884 hektár", "Ramsari területként elismert", "Több mint 200 madárfaj otthona"],
+      ro: ["Înființat în anul 2022 prin lege", "Suprafața de circa 61.884 hectare", "Recunoscut ca zonă Ramsar", "Adăpostește peste 200 specii de păsări"],
+      en: ["Established in the year 2022", "Spans roughly 61,884 hectares", "Recognized as a Ramsar site", "Home to over 200 bird species"],
+    },
+  },
   {
     id: "moldova-emil-racovita-cave-life-v2",
     type: "wildlife",
-    name: { de: "Emil-Racoviță-Höhle", hu: "Emil Racoviță-barlang", ro: "Peștera Emil Racoviță", en: "Emil Racovita Cave" },
+    name: { de: "Emil-Racoviță-Höhle", hu: "Emil Racoviță-barlang", ro: "Peștera Emil Racoviță", en: "Emil Racovita Cave",
+image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"
+},
     coords: [26.8011, 48.2753],
     coordinates: { lat: 48.2753, lng: 26.8011 },
     description: {
@@ -556,11 +996,27 @@ export const moldovaLifeV2: POI[] = [
       ro: ["A treia mare peșteră de ghips", "Peste 90 km de galerii", "Lacuri subterane unice", "Prezența mineralului 'crivana'"],
       en: ["3rd largest gypsum cave globally", "Over 90 km of galleries", "Unique underground lakes", "Home to 'crivana' minerals"],
     },
-    imageHint: "Emil Racovita gypsum cave interior Moldova", image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"},
+    imageHint: "Emil Racovita gypsum cave interior Moldova",
+    image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Emil-Racovita-Höhle ist eine der größten Gipshöhlen der Welt. Ihr unterirdisches Labyrinth erstreckt sich über 90 Kilometer und beherbergt zahlreiche Seen und Kristallformationen.",
+      hu: "Az Emil Racovita-barlang a világ egyik legnagyobb gipszbarlangja. Földalatti labirintusa több mint 90 km hosszan nyúlik el, tavakat és kristályokat rejtve.",
+      ro: "Peștera Emil Racoviță este una dintre cele mai mari peșteri de ghips din lume. Labirintul său subteran are peste 90 km, cu numeroase lacuri și cristale.",
+      en: "Emil Racovita Cave is one of the world's largest gypsum caves. Its underground labyrinth spans over 90 km, featuring numerous lakes and crystal formations.",
+    },
+    factsAdvanced: {
+      de: ["Länge von über 90 Kilometern", "Drittgrößte Gipshöhle weltweit", "Enthält etwa 20 unterirdische Seen", "Entdeckt im Jahr 1959"],
+      hu: ["Hossza meghaladja a 90 kilométert", "A világ 3. legnagyobb gipszbarlangja", "Kb. 20 földalatti tavat tartalmaz", "1959-ben fedezték fel"],
+      ro: ["Lungimea depășește 90 kilometri", "A 3-a cea mai mare peșteră de ghips", "Conține circa 20 de lacuri subterane", "Descoperită în anul 1959"],
+      en: ["Total length exceeds 90 kilometers", "3rd largest gypsum cave in the world", "Contains about 20 underground lakes", "Discovered in the year 1959"],
+    },
+  },
   {
     id: "moldova-garbovat-forest-life-v2",
     type: "forest",
-    name: { de: "Waldreservat Gîrbovăț", hu: "Gîrbovăț-erdő", ro: "Rezervația peisajistică Gîrbovăț", en: "Garbovat Forest Reserve" },
+    name: { de: "Waldreservat Gîrbovăț", hu: "Gîrbovăț-erdő", ro: "Rezervația peisajistică Gîrbovăț", en: "Garbovat Forest Reserve",
+image: "/poi-images/moldova-garbovat-forest-life-v2.webp"
+},
     coords: [29.3511, 46.8517],
     coordinates: { lat: 46.8517, lng: 29.3511 },
     description: {
@@ -576,5 +1032,17 @@ export const moldovaLifeV2: POI[] = [
       en: ["Thermophilic oak forests", "Rich in forest bird species", "Important forestry reserve", "Located near Bender city"],
     },
     imageHint: "Garbovat forest oaks Moldova",
+    descriptionAdvanced: {
+      de: "Das Garbovat-Waldreservat ist ein bedeutendes Jagd- und Naturschutzgebiet. Es bewahrt die Steppeneichenwälder und dient als wichtiger Rückzugsort für Wildtiere in Südmoldawien.",
+      hu: "A Garbovat erdőrezervátum jelentős vadászati és természetvédelmi terület. Megőrzi a sztyeppei tölgyerdőket, és fontos menedékhely a vadon élő állatoknak.",
+      ro: "Rezervația forestieră Gârbovăț este o arie protejată importantă. Conservă pădurile de stejar de stepă și servește ca refugiu pentru fauna sălbatică.",
+      en: "Garbovat Forest Reserve is a significant hunting and nature conservation area. It preserves steppe oak forests and serves as a vital wildlife refuge.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche von 2266 Hektar", "Umfasst wertvolle Eichenbestände", "Beherbergt Rehe und Fasane", "Nahe Anenii Noi gelegen"],
+      hu: ["Teljes területe 2266 hektár", "Értékes tölgyállományt tartalmaz", "Őzeknek és fácánoknak ad otthont", "Anenii Noi közelében található"],
+      ro: ["Suprafața totală de 2266 hectare", "Include arborete valoroase de stejar", "Adăpostește căprioare și fazani", "Situată în apropiere de Anenii Noi"],
+      en: ["Total area of 2266 hectares", "Features valuable oak stands", "Home to roe deer and pheasants", "Located near Anenii Noi"],
+    },
   }
 ];

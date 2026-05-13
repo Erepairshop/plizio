@@ -7,7 +7,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-WO",
     coords: [44.15, 9.6],
-    name: { de: "Laas Geel Felsmalereien", hu: "Laas Geel sziklarajzok", ro: "Picturile rupestre Laas Geel", en: "Laas Geel Rock Art" },
+    name: { de: "Laas Geel Felsmalereien", hu: "Laas Geel sziklarajzok", ro: "Picturile rupestre Laas Geel", en: "Laas Geel Rock Art",
+image: "/poi-images/laas-geel-history-v2.webp"
+},
     description: { de: "Antike Felsmalereien, die Rinder, Menschen und Hunde in lebhaften Farben zeigen.", hu: "Ősi sziklarajzok, amelyek szarvasmarhákat, embereket és kutyákat ábrázolnak élénk színekkel.", ro: "Picturi rupestre antice care înfățișează vite, oameni și câini în culori vii.", en: "Ancient rock paintings depicting cattle, humans, and dogs in vivid colors." },
     facts: {
       de: ["Über 5000 Jahre alt.", "Eine der am besten erhaltenen Höhlenmalereien Afrikas."],
@@ -20,7 +22,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SO",
     coords: [48.4167, 9.15],
-    name: { de: "Festung Taleh", hu: "Taleh-erőd", ro: "Fortăreața Taleh", en: "Taleh Fort" },
+    name: { de: "Festung Taleh", hu: "Taleh-erőd", ro: "Fortăreața Taleh", en: "Taleh Fort",
+image: "/poi-images/taleh-fort-history-v2.webp"
+},
     description: { de: "Ehemalige Hauptstadt des Derwisch-Staates unter Mohammed Abdullah Hassan im frühen 20. Jahrhundert.", hu: "A dervis állam egykori fővárosa Mohammed Abdullah Hassan alatt a 20. század elején.", ro: "Fosta capitală a statului derviș sub Mohammed Abdullah Hassan la începutul secolului al XX-lea.", en: "Former capital of the Dervish state under Mohammed Abdullah Hassan in the early 20th century." },
     facts: {
       de: ["Besteht aus mehreren Befestigungsanlagen.", "Wurde 1920 von britischen Luftstreitkräften bombardiert."],
@@ -33,7 +37,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-AW",
     coords: [43.4731, 11.3533],
-    name: { de: "Antiker Hafen Zeila", hu: "Zeila ókori kikötője", ro: "Vechiul port Zeila", en: "Zeila Ancient Port" },
+    name: { de: "Antiker Hafen Zeila", hu: "Zeila ókori kikötője", ro: "Vechiul port Zeila", en: "Zeila Ancient Port",
+image: "/poi-images/zeila-ancient-port-history-v2.webp"
+},
     description: { de: "Historische Hafenstadt und früheres Handelszentrum des Adal-Sultanats.", hu: "Történelmi kikötőváros és az Adal Szultanátus egykori kereskedelmi központja.", ro: "Oraș-port istoric și fost centru comercial al Sultanatului Adal.", en: "Historical port city and former trade center of the Adal Sultanate." },
     facts: {
       de: ["Eines der ältesten Zentren des Islam in Afrika.", "Erwähnt im Periplus Maris Erythraei."],
@@ -46,7 +52,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BN",
     coords: [45.34, 2.0367],
-    name: { de: "Fakr ad-Din Moschee", hu: "Fakr ad-Din mecset", ro: "Moscheea Fakr ad-Din", en: "Fakr ad-Din Mosque" },
+    name: { de: "Fakr ad-Din Moschee", hu: "Fakr ad-Din mecset", ro: "Moscheea Fakr ad-Din", en: "Fakr ad-Din Mosque",
+image: "/poi-images/fakr-ad-din-mosque-history-v2.webp"
+},
     description: { de: "Eine der ältesten Moscheen in Mogadischu, erbaut mit einzigartigem Marmor und Korallenstein.", hu: "Mogadishu egyik legrégebbi mecsete, amely egyedi márványból és korallkőből épült.", ro: "Una dintre cele mai vechi moschei din Mogadishu, construită cu marmură unică și piatră de coral.", en: "One of the oldest mosques in Mogadishu, built with unique marble and coral stone." },
     facts: {
       de: ["Erbaut im Jahr 1269.", "Zentrales Heiligtum des Mogadischu-Sultanats."],
@@ -59,7 +67,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BN",
     coords: [45.3381, 2.0353],
-    name: { de: "Arba'a Rukun Moschee", hu: "Arba'a Rukun mecset", ro: "Moscheea Arba'a Rukun", en: "Arba'a Rukun Mosque" },
+    name: { de: "Arba'a Rukun Moschee", hu: "Arba'a Rukun mecset", ro: "Moscheea Arba'a Rukun", en: "Arba'a Rukun Mosque",
+image: "/poi-images/arbaa-rukun-mosque-history-v2.webp"
+},
     description: { de: "Eine historische Moschee in Mogadischu, die zu den ältesten Bauwerken der Stadt zählt.", hu: "Mogadishu egyik történelmi mecsete, amely a város legrégebbi építményei közé tartozik.", ro: "O moschee istorică din Mogadishu, care se numără printre cele mai vechi clădiri din oraș.", en: "A historic mosque in Mogadishu, ranking among the oldest structures in the city." },
     facts: {
       de: ["Gründung um das Jahr 1268.", "Wichtiges islamisches Zentrum im mittelalterlichen Somalia."],
@@ -72,7 +82,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BN",
     coords: [45.3408, 2.0361],
-    name: { de: "Garesa Palast", hu: "Garesa Palota", ro: "Palatul Garesa", en: "Garesa Palace" },
+    name: { de: "Garesa Palast", hu: "Garesa Palota", ro: "Palatul Garesa", en: "Garesa Palace",
+image: "/poi-images/garesa-palace-history-v2.webp"
+},
     description: { de: "Ein historisches Palastgebäude in Mogadischu, das im 19. Jahrhundert errichtet wurde.", hu: "Egy történelmi palotaépület Mogadishuban, amelyet a 19. században emeltek.", ro: "Un palat istoric din Mogadishu, construit în secolul al XIX-lea.", en: "A historic palace building in Mogadishu, constructed in the 19th century." },
     facts: {
       de: ["Erbaut vom Sultan von Sansibar.", "Diente später als koloniales Museum."],
@@ -85,7 +97,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BN",
     coords: [45.3425, 2.035],
-    name: { de: "Al-Mnara Turm", hu: "Al-Mnara torony", ro: "Turnul Al-Mnara", en: "Al-Mnara Tower" },
+    name: { de: "Al-Mnara Turm", hu: "Al-Mnara torony", ro: "Turnul Al-Mnara", en: "Al-Mnara Tower",
+image: "/poi-images/al-mnara-tower-history-v2.webp"
+},
     description: { de: "Ein antiker Leuchtturm und Wachturm in der Altstadt von Mogadischu.", hu: "Egy ókori világítótorony és őrtorony Mogadishu óvárosában.", ro: "Un far și turn de veghe antic în orașul vechi din Mogadishu.", en: "An ancient lighthouse and watchtower in the old city of Mogadishu." },
     facts: {
       de: ["Jahrhundertealtes Navigationszeichen für Handelsschiffe.", "Teil der mittelalterlichen Seidenstraße des Meeres."],
@@ -98,7 +112,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BR",
     coords: [51.27, 10.42],
-    name: { de: "Hafun (Antikes Opone)", hu: "Hafun (ókori Opone)", ro: "Hafun (Opone antic)", en: "Hafun (Ancient Opone)" },
+    name: { de: "Hafun (Antikes Opone)", hu: "Hafun (ókori Opone)", ro: "Hafun (Opone antic)", en: "Hafun (Ancient Opone)",
+image: "/poi-images/hafun-opone-history-v2.webp"
+},
     description: { de: "Archäologische Stätte eines antiken Handelszentrums an der Spitze der Halbinsel Ras Hafun.", hu: "Egy ókori kereskedelmi központ régészeti lelőhelye a Ras Hafun-félsziget csúcsán.", ro: "Sit arheologic al unui antic centru comercial pe vârful Peninsulei Ras Hafun.", en: "Archaeological site of an ancient trade center at the tip of the Ras Hafun Peninsula." },
     facts: {
       de: ["Wichtigster antiker Hafen für den Handel mit Indien und Rom.", "Funde von römischer und ptolemäischer Keramik."],
@@ -111,7 +127,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-AW",
     coords: [43.25, 9.95],
-    name: { de: "Ruinen von Amud", hu: "Amud romjai", ro: "Ruinele din Amud", en: "Amud Ruins" },
+    name: { de: "Ruinen von Amud", hu: "Amud romjai", ro: "Ruinele din Amud", en: "Amud Ruins",
+image: "/poi-images/amud-ruins-history-v2.webp"
+},
     description: { de: "Die Überreste einer antiken Stadt aus dem 15. und 16. Jahrhundert, die als Bildungszentrum galt.", hu: "Egy 15-16. századi ókori város romjai, amely oktatási központként szolgált.", ro: "Rămășițele unui oraș antic din secolele XV și XVI, care a servit ca centru educațional.", en: "The remains of an ancient city from the 15th and 16th centuries, considered an educational center." },
     facts: {
       de: ["Verbundener Handel mit dem Adal-Sultanat.", "Bekannt für alte Steinhäuser und Moscheen."],
@@ -124,7 +142,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-AW",
     coords: [43.15, 10.05],
-    name: { de: "Ruinen von Abasa", hu: "Abasa romjai", ro: "Ruinele din Abasa", en: "Abasa Ruins" },
+    name: { de: "Ruinen von Abasa", hu: "Abasa romjai", ro: "Ruinele din Abasa", en: "Abasa Ruins",
+image: "/poi-images/abasa-ruins-history-v2.webp"
+},
     description: { de: "Eine historische Ruinenstadt im Nordwesten Somalias mit Überresten antiker Architektur.", hu: "Történelmi romváros Északnyugat-Szomáliában, ókori építészet maradványaival.", ro: "Un oraș istoric în ruină din nord-vestul Somaliei, cu rămășițe de arhitectură antică.", en: "A historic ruined city in northwestern Somalia with remains of ancient architecture." },
     facts: {
       de: ["Zeitgenosse von Amud.", "Große Ruinen mittelalterlicher Moscheen."],
@@ -137,7 +157,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-AW",
     coords: [42.85, 10.15],
-    name: { de: "Gogoshis Qabuur", hu: "Gogoshis Qabuur", ro: "Gogoshis Qabuur", en: "Gogoshis Qabuur" },
+    name: { de: "Gogoshis Qabuur", hu: "Gogoshis Qabuur", ro: "Gogoshis Qabuur", en: "Gogoshis Qabuur",
+image: "/poi-images/gogoshis-qabuur-history-v2.webp"
+},
     description: { de: "Eine historische archäologische Stätte mit antiken Megalithen und Gräbern.", hu: "Történelmi régészeti lelőhely ősi megalitokkal és sírokkal.", ro: "Un sit arheologic istoric cu megaliți antici și morminte.", en: "A historic archaeological site with ancient megaliths and tombs." },
     facts: {
       de: ["Zeigt komplexe Bestattungspraktiken der Vorzeit.", "Kaum erforschte Monumente."],
@@ -150,7 +172,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-TO",
     coords: [46.3333, 10.3333],
-    name: { de: "Dhambalin Felskunst", hu: "Dhambalin sziklaművészet", ro: "Arta rupestră Dhambalin", en: "Dhambalin Rock Art" },
+    name: { de: "Dhambalin Felskunst", hu: "Dhambalin sziklaművészet", ro: "Arta rupestră Dhambalin", en: "Dhambalin Rock Art",
+image: "/poi-images/dhambalin-rock-art-history-v2.webp"
+},
     description: { de: "Antike Felsmalereien, die Reiter und verschiedene Wildtiere detailliert darstellen.", hu: "Ősi sziklarajzok, amelyek lovasokat és különböző vadon élő állatokat ábrázolnak részletesen.", ro: "Picturi rupestre antice care înfățișează călăreți și diverse animale sălbatice în detaliu.", en: "Ancient rock paintings depicting horseback riders and various wild animals in detail." },
     facts: {
       de: ["Entdeckt im Jahr 2007.", "Zeigt die frühesten bekannten Bilder von Schafen am Horn von Afrika."],
@@ -163,7 +187,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SA",
     coords: [48.15, 10.6],
-    name: { de: "Karinhegane Felsbilder", hu: "Karinhegane sziklarajzok", ro: "Picturile rupestre Karinhegane", en: "Karinhegane Cave Paintings" },
+    name: { de: "Karinhegane Felsbilder", hu: "Karinhegane sziklarajzok", ro: "Picturile rupestre Karinhegane", en: "Karinhegane Cave Paintings",
+image: "/poi-images/karinhegane-paintings-history-v2.webp"
+},
     description: { de: "Eine beeindruckende Sammlung prähistorischer Felsmalereien in der Region Sanaag.", hu: "A történelem előtti sziklarajzok lenyűgöző gyűjteménye a Sanaag régióban.", ro: "O colecție impresionantă de picturi rupestre preistorice în regiunea Sanaag.", en: "An impressive collection of prehistoric rock paintings in the Sanaag region." },
     facts: {
       de: ["Schätzungsweise 2500 Jahre alt.", "Zeigt echte und mythische Tierfiguren."],
@@ -176,7 +202,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-WO",
     coords: [44.5, 9.8],
-    name: { de: "Dhaymoole Felskunst", hu: "Dhaymoole sziklaművészet", ro: "Arta rupestră Dhaymoole", en: "Dhaymoole Rock Art" },
+    name: { de: "Dhaymoole Felskunst", hu: "Dhaymoole sziklaművészet", ro: "Arta rupestră Dhaymoole", en: "Dhaymoole Rock Art",
+image: "/poi-images/dhaymoole-rock-art-history-v2.webp"
+},
     description: { de: "Höhlenmalereien, die prähistorische Szenen des alltäglichen Lebens und unbekannte Symbole darstellen.", hu: "Barlangrajzok, amelyek a mindennapi élet őskori jeleneteit és ismeretlen szimbólumokat ábrázolnak.", ro: "Picturi rupestre reprezentând scene preistorice din viața de zi cu zi și simboluri necunoscute.", en: "Cave paintings depicting prehistoric scenes of everyday life and unknown symbols." },
     facts: {
       de: ["Viele Darstellungen von Giraffen und Nashörnern.", "Zeugnis einer feuchteren Klimaperiode."],
@@ -189,7 +217,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-WO",
     coords: [44.2, 9.58],
-    name: { de: "Awbarkhadle-Schrein", hu: "Awbarkhadle-szentély", ro: "Altarul Awbarkhadle", en: "Awbarkhadle Shrine" },
+    name: { de: "Awbarkhadle-Schrein", hu: "Awbarkhadle-szentély", ro: "Altarul Awbarkhadle", en: "Awbarkhadle Shrine",
+image: "/poi-images/awbarkhadle-shrine-history-v2.webp"
+},
     description: { de: "Das Grab eines prominenten islamischen Gelehrten aus dem 13. Jahrhundert.", hu: "Egy kiemelkedő 13. századi iszlám tudós sírja.", ro: "Mormântul unui savant islamic proeminent din secolul al XIII-lea.", en: "The tomb of a prominent Islamic scholar from the 13th century." },
     facts: {
       de: ["Yusuf bin Ahmad al-Kawneyn ist hier begraben.", "Bedeutender Pilgerort."],
@@ -202,7 +232,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-MU",
     coords: [48.52, 5.35],
-    name: { de: "Festung des Hobyo-Sultanats", hu: "Hobyo Szultanátus erődje", ro: "Fortăreața Sultanatului Hobyo", en: "Hobyo Sultanate Fort" },
+    name: { de: "Festung des Hobyo-Sultanats", hu: "Hobyo Szultanátus erődje", ro: "Fortăreața Sultanatului Hobyo", en: "Hobyo Sultanate Fort",
+image: "/poi-images/hobyo-sultanate-fort-history-v2.webp"
+},
     description: { de: "Historische Festungsruinen des Hobyo-Sultanats aus dem 19. Jahrhundert an der Küste.", hu: "A 19. századi Hobyo Szultanátus történelmi erődromjai a tengerparton.", ro: "Ruinele cetății istorice ale Sultanatului Hobyo din secolul al XIX-lea pe coastă.", en: "Historical fort ruins of the 19th-century Hobyo Sultanate on the coast." },
     facts: {
       de: ["Gegründet von Yusuf Ali Kenadid.", "Zentral für die Kontrolle des Seehandels."],
@@ -215,7 +247,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BR",
     coords: [49.0833, 9.5],
-    name: { de: "Qardho Sultanats-Gräber", hu: "Qardho Szultanátus sírjai", ro: "Mormintele Sultanatului Qardho", en: "Qardho Sultanate Tombs" },
+    name: { de: "Qardho Sultanats-Gräber", hu: "Qardho Szultanátus sírjai", ro: "Mormintele Sultanatului Qardho", en: "Qardho Sultanate Tombs",
+image: "/poi-images/qardho-tombs-history-v2.webp"
+},
     description: { de: "Antike Grabstätten der Herrscherfamilien des Majeerteen-Sultanats.", hu: "A Majeerteen Szultanátus uralkodó családjainak ősi sírjai.", ro: "Morminte antice ale familiilor conducătoare ale Sultanatului Majeerteen.", en: "Ancient tombs of the ruling families of the Majeerteen Sultanate." },
     facts: {
       de: ["Zeigt einzigartige islamische Architektur.", "Qardho war eine frühe Hauptstadt des Sultanats."],
@@ -228,7 +262,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BR",
     coords: [50.75, 11.9667],
-    name: { de: "Alula Majeerteen Burg", hu: "Alula Majeerteen vár", ro: "Castelul Alula Majeerteen", en: "Alula Majeerteen Castle" },
+    name: { de: "Alula Majeerteen Burg", hu: "Alula Majeerteen vár", ro: "Castelul Alula Majeerteen", en: "Alula Majeerteen Castle",
+image: "/poi-images/alula-castle-history-v2.webp"
+},
     description: { de: "Überreste eines alten Küstenkastells in Alula, der zeitweiligen Hauptstadt des Majeerteen-Sultanats.", hu: "Egy régi parti vár maradványai Alulában, a Majeerteen Szultanátus egykori fővárosában.", ro: "Rămășițele unui vechi castel de coastă în Alula, capitala temporară a Sultanatului Majeerteen.", en: "Remains of an old coastal castle in Alula, the temporary capital of the Majeerteen Sultanate." },
     facts: {
       de: ["Erbaut zum Schutz vor Seeangriffen.", "Architektur mit osmanischen Einflüssen."],
@@ -241,7 +277,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BR",
     coords: [51.3167, 11.2833],
-    name: { de: "Bargaal Majeerteen Festung", hu: "Bargaal Majeerteen erőd", ro: "Fortăreața Bargaal Majeerteen", en: "Bargaal Majeerteen Fort" },
+    name: { de: "Bargaal Majeerteen Festung", hu: "Bargaal Majeerteen erőd", ro: "Fortăreața Bargaal Majeerteen", en: "Bargaal Majeerteen Fort",
+image: "/poi-images/bargaal-fort-history-v2.webp"
+},
     description: { de: "Ruinen einer Festung des Majeerteen-Sultanats in der historischen Küstenstadt Bargaal.", hu: "A Majeerteen Szultanátus erődjének romjai a történelmi Bargaal tengerparti városában.", ro: "Ruinele unei fortărețe a Sultanatului Majeerteen din orașul de coastă istoric Bargaal.", en: "Ruins of a Majeerteen Sultanate fortress in the historic coastal town of Bargaal." },
     facts: {
       de: ["Zentrum des Widerstands gegen die Kolonialmächte.", "Wurde im frühen 20. Jahrhundert bombardiert."],
@@ -254,7 +292,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SH",
     coords: [44.77, 1.71],
-    name: { de: "Antiker Hafen Merca", hu: "Merca ókori kikötője", ro: "Vechiul port Merca", en: "Merca Ancient Port" },
+    name: { de: "Antiker Hafen Merca", hu: "Merca ókori kikötője", ro: "Vechiul port Merca", en: "Merca Ancient Port",
+image: "/poi-images/merca-ancient-port-history-v2.webp"
+},
     description: { de: "Historische islamische Küstenstadt mit einer reichen Architektur im arabischen Stil.", hu: "Történelmi iszlám parti város, gazdag arab stílusú építészettel.", ro: "Oraș de coastă islamic istoric cu arhitectură bogată în stil arab.", en: "Historic Islamic coastal town with rich Arab-style architecture." },
     facts: {
       de: ["Im 7. Jahrhundert gegründet.", "Wichtiges Zentrum der Bimaal-Clans."],
@@ -267,7 +307,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SH",
     coords: [44.03, 1.11],
-    name: { de: "Antike Stadt Barawa", hu: "Barawa ókori városa", ro: "Orașul antic Barawa", en: "Barawa Ancient City" },
+    name: { de: "Antike Stadt Barawa", hu: "Barawa ókori városa", ro: "Orașul antic Barawa", en: "Barawa Ancient City",
+image: "/poi-images/barawa-ancient-city-history-v2.webp"
+},
     description: { de: "Historische Hafenstadt und Zentrum der Bravanesischen Kultur in Somalia.", hu: "Történelmi kikötőváros és a bravai kultúra központja Szomáliában.", ro: "Oraș port istoric și centrul culturii bravaneze din Somalia.", en: "Historic port city and center of Bravanese culture in Somalia." },
     facts: {
       de: ["Bekannt für die Herstellung von Barawa-Schuhen.", "Im 16. Jahrhundert von Portugiesen attackiert."],
@@ -280,7 +322,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SA",
     coords: [48.1967, 11.1567],
-    name: { de: "Las Khorey Sultanats-Burg", hu: "Las Khorey Szultanátus vár", ro: "Castelul Sultanatului Las Khorey", en: "Las Khorey Sultanate Fort" },
+    name: { de: "Las Khorey Sultanats-Burg", hu: "Las Khorey Szultanátus vár", ro: "Castelul Sultanatului Las Khorey", en: "Las Khorey Sultanate Fort",
+image: "/poi-images/las-khorey-fort-history-v2.webp"
+},
     description: { de: "Die alte Hauptstadt des Warsangali-Sultanats mit Überresten historischer zweistöckiger Gebäude.", hu: "A Warsangali Szultanátus régi fővárosa, kétemeletes történelmi épületek maradványaival.", ro: "Vechea capitală a Sultanatului Warsangali, cu rămășițele unor clădiri istorice cu două etaje.", en: "The old capital of the Warsangali Sultanate with remains of historical two-story buildings." },
     facts: {
       de: ["Einst eine reiche Hafenstadt.", "Festungsanlagen aus dem 13. Jahrhundert."],
@@ -293,7 +337,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SH",
     coords: [45.1233, 2.1383],
-    name: { de: "Afgooye Geledi Ruinen", hu: "Afgooye Geledi romok", ro: "Ruinele Afgooye Geledi", en: "Afgooye Geledi Ruins" },
+    name: { de: "Afgooye Geledi Ruinen", hu: "Afgooye Geledi romok", ro: "Ruinele Afgooye Geledi", en: "Afgooye Geledi Ruins",
+image: "/poi-images/afgooye-geledi-ruins-history-v2.webp"
+},
     description: { de: "Historische Überreste des Geledi-Sultanats, das im 19. Jahrhundert die Region um den Shabelle-Fluss dominierte.", hu: "A Geledi Szultanátus történelmi maradványai, amely a 19. században uralta a Shabelle folyó körüli régiót.", ro: "Rămășițele istorice ale Sultanatului Geledi, care a dominat regiunea din jurul râului Shabelle în secolul al XIX-lea.", en: "Historical remains of the Geledi Sultanate, which dominated the region around the Shabelle River in the 19th century." },
     facts: {
       de: ["Zentrum der somalischen Poesie und Literatur.", "Mächtige Militärbasis in der Vor-Kolonialzeit."],
@@ -306,7 +352,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-GE",
     coords: [42.54, 2.79],
-    name: { de: "Luuq Antiker Handelsposten", hu: "Luuq ókori kereskedelmi állomás", ro: "Vechiul post comercial Luuq", en: "Luuq Ancient Trading Post" },
+    name: { de: "Luuq Antiker Handelsposten", hu: "Luuq ókori kereskedelmi állomás", ro: "Vechiul post comercial Luuq", en: "Luuq Ancient Trading Post",
+image: "/poi-images/luuq-ancient-trading-post-history-v2.webp"
+},
     description: { de: "Historische Stadt, die von den Mäandern des Flusses Jubba umschlossen wird und früher ein wichtiger Karawanenhalt war.", hu: "Történelmi város, amelyet a Jubba folyó kanyarulatai ölelnek körül, és egykor fontos karavánállomás volt.", ro: "Oraș istoric înconjurat de meandrele râului Jubba, fostă o escală importantă pentru caravane.", en: "Historic town enclosed by the meanders of the Jubba River, formerly an important caravan stop." },
     facts: {
       de: ["Handel mit Elfenbein und Weihrauch.", "Zentral gelegen zwischen Küste und Binnenland."],
@@ -320,7 +368,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-MD",
     coords: [45.8167, 2.3],
-    name: { de: "Warsheikh Antiker Hafen", hu: "Warsheikh ókori kikötő", ro: "Vechiul port Warsheikh", en: "Warsheikh Ancient Port" },
+    name: { de: "Warsheikh Antiker Hafen", hu: "Warsheikh ókori kikötő", ro: "Vechiul port Warsheikh", en: "Warsheikh Ancient Port",
+image: "/poi-images/warsheikh-ancient-port-history-v2.webp"
+},
     description: { de: "Eine der frühesten islamischen Küstensiedlungen in Somalia.", hu: "Az egyik legkorábbi iszlám parti település Szomáliában.", ro: "Una dintre primele așezări de coastă islamice din Somalia.", en: "One of the earliest Islamic coastal settlements in Somalia." },
     facts: {
       de: ["Historisch Teil des Mogadischu-Sultanats.", "Alte Moscheen und Gräber sind noch vorhanden."],
@@ -334,7 +384,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BR",
     coords: [51.3, 10.45],
-    name: { de: "Leuchtturm Ras Hafun", hu: "Ras Hafun világítótorony", ro: "Farul Ras Hafun", en: "Ras Hafun Lighthouse" },
+    name: { de: "Leuchtturm Ras Hafun", hu: "Ras Hafun világítótorony", ro: "Farul Ras Hafun", en: "Ras Hafun Lighthouse",
+image: "/poi-images/ras-hafun-lighthouse-history-v2.webp"
+},
     description: { de: "Ruinen eines historischen Leuchtturms am östlichsten Punkt des afrikanischen Kontinents.", hu: "Egy történelmi világítótorony romjai az afrikai kontinens legkeletibb pontján.", ro: "Ruinele unui far istoric aflat în cel mai estic punct al continentului african.", en: "Ruins of a historic lighthouse at the easternmost point of the African continent." },
     facts: {
       de: ["Erbaut während der italienischen Kolonialzeit.", "Wurde von verschiedenen Tsunamis beschädigt."],
@@ -347,7 +399,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SA",
     coords: [47.5, 10.8],
-    name: { de: "Qoorgaab Ruinen", hu: "Qoorgaab romok", ro: "Ruinele Qoorgaab", en: "Qoorgaab Ruins" },
+    name: { de: "Qoorgaab Ruinen", hu: "Qoorgaab romok", ro: "Ruinele Qoorgaab", en: "Qoorgaab Ruins",
+image: "/poi-images/qoorgaab-ruins-history-v2.webp"
+},
     description: { de: "Eine wenig erforschte archäologische Stätte in der Region Sanaag mit alten Steinbauten.", hu: "Keveset kutatott régészeti lelőhely a Sanaag régióban, ősi kőépületekkel.", ro: "Un sit arheologic puțin studiat în regiunea Sanaag, cu clădiri vechi din piatră.", en: "A little-researched archaeological site in the Sanaag region with old stone buildings." },
     facts: {
       de: ["Zeugt von einer frühen städtischen Besiedlung.", "Besteht aus massiven trockengemauerten Steinmauern."],
@@ -360,7 +414,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-SA",
     coords: [47.9, 10.95],
-    name: { de: "Macajilayn Ruinen", hu: "Macajilayn romok", ro: "Ruinele Macajilayn", en: "Macajilayn Ruins" },
+    name: { de: "Macajilayn Ruinen", hu: "Macajilayn romok", ro: "Ruinele Macajilayn", en: "Macajilayn Ruins",
+image: "/poi-images/macajilayn-ruins-history-v2.webp"
+},
     description: { de: "Überreste einer historischen Siedlung, die enge Beziehungen zum Jemenitischen Handel hatte.", hu: "Egy történelmi település maradványai, amely szoros kapcsolatban állt a jemeni kereskedelemmel.", ro: "Rămășițele unei așezări istorice care a avut legături strânse cu comerțul din Yemen.", en: "Remains of a historic settlement that had close ties to Yemeni trade." },
     facts: {
       de: ["Umfasst Fundamente alter Moscheen.", "Versteckt im rauen Bergland von Sanaag."],
@@ -373,7 +429,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-BR",
     coords: [49.1833, 11.2833],
-    name: { de: "Bender Qassim (Bosaso Altstadt)", hu: "Bender Qassim (Bosaso Óváros)", ro: "Bender Qassim (Orașul vechi Bosaso)", en: "Bender Qassim (Bosaso Old Town)" },
+    name: { de: "Bender Qassim (Bosaso Altstadt)", hu: "Bender Qassim (Bosaso Óváros)", ro: "Bender Qassim (Orașul vechi Bosaso)", en: "Bender Qassim (Bosaso Old Town)",
+image: "/poi-images/bender-qassim-old-town-history-v2.webp"
+},
     description: { de: "Die historischen Kernstrukturen von Bosaso, ehemals bekannt als Bender Qassim.", hu: "Bosaso történelmi magja, amely korábban Bender Qassim néven volt ismert.", ro: "Structurile centrale istorice ale Bosaso, cunoscut anterior ca Bender Qassim.", en: "The historical core structures of Bosaso, formerly known as Bender Qassim." },
     facts: {
       de: ["Gegründet im 14. Jahrhundert.", "Wichtiger Knotenpunkt für den Weihrauch-Export."],
@@ -386,7 +444,9 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-NU",
     coords: [49.8167, 7.9833],
-    name: { de: "Eyl Derwisch Festung", hu: "Eyl dervis erőd", ro: "Fortăreața Derviș Eyl", en: "Eyl Dervish Fort" },
+    name: { de: "Eyl Derwisch Festung", hu: "Eyl dervis erőd", ro: "Fortăreața Derviș Eyl", en: "Eyl Dervish Fort",
+image: "/poi-images/eyl-dervish-fort-history-v2.webp"
+},
     description: { de: "Eines der Hauptforts der Derwisch-Bewegung unter der Führung von Sayyid Mohammed.", hu: "A dervis mozgalom egyik fő erődje Sayyid Mohammed vezetésével.", ro: "Unul dintre principalele forturi ale mișcării dervișe sub conducerea lui Sayyid Mohammed.", en: "One of the main forts of the Dervish movement under the leadership of Sayyid Mohammed." },
     facts: {
       de: ["Erbaut um 1904.", "Zeigt die militärische Architektur der Derwische."],

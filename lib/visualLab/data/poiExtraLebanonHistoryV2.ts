@@ -7,7 +7,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-BH",
     coords: [36.2045, 34.0071],
-    name: { de: "Ruinen von Baalbek", hu: "Baalbek romjai", ro: "Ruinele din Baalbek", en: "Baalbek Ruins" },
+    name: { de: "Ruinen von Baalbek", hu: "Baalbek romjai", ro: "Ruinele din Baalbek", en: "Baalbek Ruins",
+image: "/poi-images/baalbek-ruins-history-v2.webp"
+},
     description: {
       de: "Diese beeindruckenden römischen Ruinen im Bekaa-Tal umfassen gigantische Tempel, die einst den Göttern Jupiter, Bacchus und Venus gewidmet waren.",
       hu: "A Bekaa-völgyben található lenyűgöző római romok egykor Jupiter, Bacchus és Vénusz isteneinek szentelt gigantikus templomokat foglalnak magukba.",
@@ -37,7 +39,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-JL",
     coords: [35.6455, 34.1195],
-    name: { de: "Burg von Byblos", hu: "Bübloszi vár", ro: "Castelul Byblos", en: "Byblos Castle" },
+    name: { de: "Burg von Byblos", hu: "Bübloszi vár", ro: "Castelul Byblos", en: "Byblos Castle",
+image: "/poi-images/byblos-castle-history-v2.webp"
+},
     description: {
       de: "Eine mächtige Kreuzfahrerburg aus dem 12. Jahrhundert, die aus Kalkstein und den Überresten römischer Gebäude errichtet wurde.",
       hu: "Egy hatalmas, 12. századi keresztes vár, amelyet mészkőből és római épületek maradványaiból emeltek.",
@@ -67,7 +71,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-JA",
     coords: [35.2096, 33.2678],
-    name: { de: "Hippodrom von Tyros", hu: "Türoszi hippodrom", ro: "Hipodromul din Tir", en: "Tyre Hippodrome" },
+    name: { de: "Hippodrom von Tyros", hu: "Türoszi hippodrom", ro: "Hipodromul din Tir", en: "Tyre Hippodrome",
+image: "/poi-images/tyre-hippodrome-history-v2.webp"
+},
     description: {
       de: "Das besterhaltene und größte römische Hippodrom der Welt, in dem in der Antike spektakuläre Wagenrennen stattfanden.",
       hu: "A világ legnagyobb és legjobb állapotban fennmaradt római hippodromja, ahol az ókorban látványos szekérversenyeket tartottak.",
@@ -97,7 +103,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-JL",
     coords: [35.5800, 33.6953],
-    name: { de: "Palast von Beiteddine", hu: "Beiteddine-palota", ro: "Palatul Beiteddine", en: "Beiteddine Palace" },
+    name: { de: "Palast von Beiteddine", hu: "Beiteddine-palota", ro: "Palatul Beiteddine", en: "Beiteddine Palace",
+image: "/poi-images/beiteddine-palace-history-v2.webp"
+},
     description: {
       de: "Ein Meisterwerk der libanesischen Architektur des 19. Jahrhunderts, das als Regierungssitz des Emirs Bashir Shihab II diente.",
       hu: "A 19. századi libanoni építészet remekműve, amely Bashir Shihab II emír kormányzati székhelyeként szolgált.",
@@ -127,7 +135,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-BI",
     coords: [35.9333, 33.7333],
-    name: { de: "Umayyaden-Stadt Anjar", hu: "Andzsar omajjád városa", ro: "Orașul omeyad Anjar", en: "Anjar Umayyad City" },
+    name: { de: "Umayyaden-Stadt Anjar", hu: "Andzsar omajjád városa", ro: "Orașul omeyad Anjar", en: "Anjar Umayyad City",
+image: "/poi-images/anjar-umayyad-city-history-v2.webp"
+},
     description: {
       de: "Die einzige erhaltene Umayyaden-Stadt im Libanon, deren Straßennetz nach strengem römischen Muster angelegt wurde.",
       hu: "Az egyetlen fennmaradt omajjád város Libanonban, amelynek úthálózatát szigorú római minta alapján alakították ki.",
@@ -157,7 +167,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-JA",
     coords: [35.3686, 33.5647],
-    name: { de: "Seefestung von Sidon", hu: "Szidóni tengeri vár", ro: "Castelul Mării din Sidon", en: "Sidon Sea Castle" },
+    name: { de: "Seefestung von Sidon", hu: "Szidóni tengeri vár", ro: "Castelul Mării din Sidon", en: "Sidon Sea Castle",
+image: "/poi-images/sidon-sea-castle-history-v2.webp"
+},
     description: {
       de: "Eine von Kreuzrittern im 13. Jahrhundert auf einer kleinen Insel vor der Küste erbaute Festung, die über eine Steinbrücke erreichbar ist.",
       hu: "A keresztesek által a 13. században egy part menti kis szigetre épített erőd, amely egy kőhídon keresztül közelíthető meg.",
@@ -187,7 +199,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-BH",
     coords: [36.2023, 34.0064],
-    name: { de: "Bacchustempel", hu: "Bacchus-templom", ro: "Templul lui Bacchus", en: "Temple of Bacchus" },
+    name: { de: "Bacchustempel", hu: "Bacchus-templom", ro: "Templul lui Bacchus", en: "Temple of Bacchus",
+image: "/poi-images/temple-of-bacchus-history-v2.webp"
+},
     description: {
       de: "Einer der am besten erhaltenen und größten römischen Tempel weltweit, der durch seine feinen und aufwendigen Reliefs besticht.",
       hu: "A világ egyik legjobb állapotban fennmaradt és legnagyobb római temploma, amely finom és kidolgozott domborműveivel nyűgözi le a látogatókat.",
@@ -218,7 +232,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-BH",
     coords: [36.2044, 34.0074],
-    name: { de: "Jupitertempel", hu: "Jupiter-templom", ro: "Templul lui Jupiter", en: "Temple of Jupiter" },
+    name: { de: "Jupitertempel", hu: "Jupiter-templom", ro: "Templul lui Jupiter", en: "Temple of Jupiter",
+image: "/poi-images/temple-of-jupiter-history-v2.webp"
+},
     description: {
       de: "Einst der größte Tempel des Römischen Reiches, von dem heute nur noch sechs gewaltige korinthische Säulen in den Himmel ragen.",
       hu: "Egykor a Római Birodalom legnagyobb temploma volt, amelyből ma már csak hat hatalmas korinthoszi oszlop emelkedik az ég felé.",
@@ -248,7 +264,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-AS",
     coords: [35.8453, 34.4336],
-    name: { de: "Zitadelle von Tripolis", hu: "Tripoli fellegvára", ro: "Citadela din Tripoli", en: "Tripoli Citadel" },
+    name: { de: "Zitadelle von Tripolis", hu: "Tripoli fellegvára", ro: "Citadela din Tripoli", en: "Tripoli Citadel",
+image: "/poi-images/tripoli-citadel-history-v2.webp"
+},
     description: {
       de: "Eine riesige Festungsanlage auf einem Hügel über der Stadt, die ursprünglich von dem Kreuzritter Raymond de Saint-Gilles gegründet wurde.",
       hu: "Egy hatalmas erődítmény a város feletti dombon, amelyet eredetileg a keresztes Raymond de Saint-Gilles alapított.",
@@ -278,7 +296,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-NA",
     coords: [35.5317, 33.3228],
-    name: { de: "Burg Beaufort", hu: "Beaufort-vár", ro: "Castelul Beaufort", en: "Beaufort Castle" },
+    name: { de: "Burg Beaufort", hu: "Beaufort-vár", ro: "Castelul Beaufort", en: "Beaufort Castle",
+image: "/poi-images/beaufort-castle-history-v2.webp"
+},
     description: {
       de: "Eine strategisch wichtige Kreuzfahrerburg hoch über dem Litani-Fluss, die im Laufe der Geschichte Schauplatz zahlreicher Konflikte war.",
       hu: "Egy stratégiailag fontos keresztes vár magasan a Litani-folyó felett, amely a történelem során számos konfliktus színhelye volt.",
@@ -308,7 +328,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-BA",
     coords: [35.5025, 33.8967],
-    name: { de: "Römische Bäder in Beirut", hu: "Bejrúti római fürdők", ro: "Băile Romane din Beirut", en: "Roman Baths in Beirut" },
+    name: { de: "Römische Bäder in Beirut", hu: "Bejrúti római fürdők", ro: "Băile Romane din Beirut", en: "Roman Baths in Beirut",
+image: "/poi-images/roman-baths-beirut-history-v2.webp"
+},
     description: {
       de: "Mitten im modernen Beirut gelegene antike Thermenanlagen, die das komplexe Heizsystem der römischen Ingenieurskunst veranschaulichen.",
       hu: "A modern Bejrút központjában található ókori fürdők, amelyek a római mérnöki tudomány összetett fűtési rendszerét szemléltetik.",
@@ -338,7 +360,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "monument",
     parent: "LB-JL",
     coords: [35.6517, 33.9806],
-    name: { de: "Unsere Liebe Frau vom Libanon", hu: "Libanoni Miasszonyunk", ro: "Maica Domnului din Liban", en: "Our Lady of Lebanon" },
+    name: { de: "Unsere Liebe Frau vom Libanon", hu: "Libanoni Miasszonyunk", ro: "Maica Domnului din Liban", en: "Our Lady of Lebanon",
+image: "/poi-images/our-lady-of-lebanon-history-v2.webp"
+},
     description: {
       de: "Eine markante weiße Bronzestatue der Jungfrau Maria in Harissa, die als eines der wichtigsten Pilgerziele des Libanon gilt.",
       hu: "Szűz Mária lenyűgöző fehér bronzszobra Harissában, amely Libanon egyik legfontosabb zarándokhelye.",
@@ -368,7 +392,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-JA",
     coords: [35.3853, 33.5828],
-    name: { de: "Eschmun-Heiligtum", hu: "Esmun-szentély", ro: "Sanctuarul lui Eshmun", en: "Eshmun Sanctuary" },
+    name: { de: "Eschmun-Heiligtum", hu: "Esmun-szentély", ro: "Sanctuarul lui Eshmun", en: "Eshmun Sanctuary",
+image: "/poi-images/eshmun-sanctuary-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende phönizische Ausgrabungsstätte nahe Sidon, die dem Heilgott Eschmun gewidmet war und babylonische sowie persische Einflüsse zeigt.",
       hu: "Egy jelentős föníciai régészeti lelőhely Szidón közelében, amelyet Esmun gyógyító istennek szenteltek, és babiloni, valamint perzsa hatásokat mutat.",
@@ -398,7 +424,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-AS",
     coords: [35.6883, 34.2750],
-    name: { de: "Festung Mseilha", hu: "Mseilha erőd", ro: "Fortul Mseilha", en: "Mseilha Fort" },
+    name: { de: "Festung Mseilha", hu: "Mseilha erőd", ro: "Fortul Mseilha", en: "Mseilha Fort",
+image: "/poi-images/mseilha-fort-history-v2.webp"
+},
     description: {
       de: "Eine malerische Festung aus dem 17. Jahrhundert, die auf einem schmalen Kalksteinfelsen im Flusstal des Nahr el-Jawz thront.",
       hu: "Egy festői 17. századi erőd, amely a Nahr el-Jawz folyó völgyében egy keskeny mészkősziklán magasodik.",
@@ -428,7 +456,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-JL",
     coords: [35.5639, 33.6983],
-    name: { de: "Historischer Platz von Deir el Qamar", hu: "Deir el Qamar történelmi tere", ro: "Piața Istorică din Deir el Qamar", en: "Deir el Qamar Historic Square" },
+    name: { de: "Historischer Platz von Deir el Qamar", hu: "Deir el Qamar történelmi tere", ro: "Piața Istorică din Deir el Qamar", en: "Deir el Qamar Historic Square",
+image: "/poi-images/deir-el-qamar-historic-square-history-v2.webp"
+},
     description: {
       de: "Das Herz der ehemaligen Hauptstadt des Libanongebirges, umgeben von traditioneller Architektur, alten Moscheen und Palästen.",
       hu: "A Libanon-hegység egykori fővárosának szíve, amelyet hagyományos építészet, régi mecsetek és paloták vesznek körül.",
@@ -458,7 +488,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-JL",
     coords: [35.6444, 34.1200],
-    name: { de: "Tempel der Obelisken", hu: "Obeliszkek temploma", ro: "Templul Obeliscurilor", en: "Temple of Obelisks" },
+    name: { de: "Tempel der Obelisken", hu: "Obeliszkek temploma", ro: "Templul Obeliscurilor", en: "Temple of Obelisks",
+image: "/poi-images/temple-of-obelisks-history-v2.webp"
+},
     description: {
       de: "Ein außergewöhnlicher antiker Tempel in Byblos aus der Bronzezeit, der für seine Vielzahl an aufgestellten steingeschnitzten Obelisken bekannt ist.",
       hu: "Egy kivételes bronzkori ókori templom Bübloszban, amely a felállított kőbe faragott obeliszkek sokaságáról ismert.",
@@ -488,7 +520,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "ruin",
     parent: "LB-JL",
     coords: [35.8058, 33.9961],
-    name: { de: "Ruinen von Faqra", hu: "Faqra romjai", ro: "Ruinele de la Faqra", en: "Faqra Ruins" },
+    name: { de: "Ruinen von Faqra", hu: "Faqra romjai", ro: "Ruinele de la Faqra", en: "Faqra Ruins",
+image: "/poi-images/faqra-ruins-history-v2.webp"
+},
     description: {
       de: "Diese ausgedehnten römischen und byzantinischen Ruinen auf über 1500 Metern Höhe gehören zu den höchstgelegenen Tempelanlagen im Nahen Osten.",
       hu: "Ezek a több mint 1500 méter magasan fekvő kiterjedt római és bizánci romok a Közel-Kelet legmagasabban fekvő templomegyüttesei közé tartoznak.",
@@ -518,7 +552,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "monument",
     parent: "LB-BA",
     coords: [35.5064, 33.8961],
-    name: { de: "Märtyrer-Denkmal in Beirut", hu: "Mártírok emlékműve Bejrútban", ro: "Monumentul Martirilor din Beirut", en: "Martyrs' Monument in Beirut" },
+    name: { de: "Märtyrer-Denkmal in Beirut", hu: "Mártírok emlékműve Bejrútban", ro: "Monumentul Martirilor din Beirut", en: "Martyrs' Monument in Beirut",
+image: "/poi-images/martyrs-monument-beirut-history-v2.webp"
+},
     description: {
       de: "Eine ikonische Bronzestatue im Herzen Beiruts, die an die libanesischen Nationalisten erinnert, die während der osmanischen Herrschaft hingerichtet wurden.",
       hu: "Egy ikonikus bronzszobor Bejrút szívében, amely az oszmán uralom alatt kivégzett libanoni nacionalistáknak állít emléket.",
@@ -548,7 +584,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-AS",
     coords: [36.0072, 34.2500],
-    name: { de: "Kloster Mar Sarkis", hu: "Mar Sarkis kolostor", ro: "Mănăstirea Mar Sarkis", en: "Monastery of Mar Sarkis" },
+    name: { de: "Kloster Mar Sarkis", hu: "Mar Sarkis kolostor", ro: "Mănăstirea Mar Sarkis", en: "Monastery of Mar Sarkis",
+image: "/poi-images/monastery-mar-sarkis-history-v2.webp"
+},
     description: {
       de: "Ein historisches in den Fels gehauenes Kloster im Qadisha-Tal, das heute als Museum für den berühmten libanesischen Dichter Khalil Gibran dient.",
       hu: "Egy történelmi, sziklába vájt kolostor a Qadisha-völgyben, amely ma a híres libanoni költő, Khalil Gibran múzeumaként szolgál.",
@@ -578,7 +616,9 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     type: "historical-site",
     parent: "LB-BI",
     coords: [35.8417, 33.4986],
-    name: { de: "Zitadelle von Rachaya", hu: "Rachaya fellegvára", ro: "Citadela Rachaya", en: "Rachaya Citadel" },
+    name: { de: "Zitadelle von Rachaya", hu: "Rachaya fellegvára", ro: "Citadela Rachaya", en: "Rachaya Citadel",
+image: "/poi-images/rachaya-citadel-history-v2.webp"
+},
     description: {
       de: "Eine geschichtsträchtige Zitadelle, die als 'Festung der Unabhängigkeit' bekannt ist, da hier 1943 libanesische Führer gefangen gehalten wurden.",
       hu: "Egy történelmi jelentőségű fellegvár, amely 'A függetlenség erődjeként' ismert, mivel 1943-ban itt tartották fogva a libanoni vezetőket.",

@@ -7,7 +7,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-405",
     coords: [29.87, 0.38],
-    name: { de: "Rwenzori-Gebirge", hu: "Rwenzori-hegység", ro: "Munții Rwenzori", en: "Rwenzori Mountains" },
+    name: { de: "Rwenzori-Gebirge", hu: "Rwenzori-hegység", ro: "Munții Rwenzori", en: "Rwenzori Mountains",
+image: "/poi-images/rwenzori-mountains-relief-v2.webp"
+},
     description: {
       de: "Ein mächtiges äquatoriales Gebirge, berühmt für seine schneebedeckten Gipfel.",
       hu: "Hatalmas egyenlítői hegység, híres hófödte csúcsairól.",
@@ -25,7 +27,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-102",
     coords: [34.55, 1.1],
-    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon" },
+    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon",
+image: "/poi-images/mount-elgon-relief-v2.webp"
+},
     description: {
       de: "Ein gigantischer erloschener Schildvulkan an der Grenze zwischen Uganda und Kenia.",
       hu: "Gigantikus kialudt pajzsvulkán Uganda és Kenya határán.",
@@ -43,7 +47,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-307",
     coords: [29.6, -1.35],
-    name: { de: "Virunga-Vulkane", hu: "Virunga-vulkánok", ro: "Vulcanii Virunga", en: "Virunga Mountains" },
+    name: { de: "Virunga-Vulkane", hu: "Virunga-vulkánok", ro: "Vulcanii Virunga", en: "Virunga Mountains",
+image: "/poi-images/virunga-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine Kette von acht markanten Vulkanen in der Grenzregion zu Ruanda und dem Kongo.",
       hu: "Nyolc jellegzetes vulkánból álló lánc Ruanda és Kongó határvidékén.",
@@ -61,7 +67,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-400",
     coords: [30.0, 0.5],
-    name: { de: "Albert-Graben", hu: "Albert-árok", ro: "Riftul Albertin", en: "Albertine Rift" },
+    name: { de: "Albert-Graben", hu: "Albert-árok", ro: "Riftul Albertin", en: "Albertine Rift",
+image: "/poi-images/albertine-rift-relief-v2.webp"
+},
     description: {
       de: "Der westliche Ast des ostafrikanischen Grabensystems, geprägt durch tiefe Täler.",
       hu: "A kelet-afrikai árokrendszer nyugati ága, melyet mély völgyek jellemeznek.",
@@ -79,7 +87,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-501",
     coords: [34.7, 1.8],
-    name: { de: "Mount Kadam", hu: "Kadam-hegy", ro: "Muntele Kadam", en: "Mount Kadam" },
+    name: { de: "Mount Kadam", hu: "Kadam-hegy", ro: "Muntele Kadam", en: "Mount Kadam",
+image: "/poi-images/mount-kadam-relief-v2.webp"
+},
     description: {
       de: "Ein markantes vulkanisches Massiv in der Karamoja-Region.",
       hu: "Jellegzetes vulkáni masszívum a Karamoja régióban.",
@@ -97,7 +107,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-501",
     coords: [34.75, 2.55],
-    name: { de: "Mount Moroto", hu: "Moroto-hegy", ro: "Muntele Moroto", en: "Mount Moroto" },
+    name: { de: "Mount Moroto", hu: "Moroto-hegy", ro: "Muntele Moroto", en: "Mount Moroto",
+image: "/poi-images/mount-moroto-relief-v2.webp"
+},
     description: {
       de: "Ein zerklüfteter Vulkanberg, der das Klima der Region beeinflusst.",
       hu: "Barázdált vulkáni hegy, amely befolyásolja a régió éghajlatát.",
@@ -115,7 +127,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-307",
     coords: [29.8, -1.2],
-    name: { de: "Kigezi-Hochland", hu: "Kigezi-felföld", ro: "Podișul Kigezi", en: "Kigezi Highlands" },
+    name: { de: "Kigezi-Hochland", hu: "Kigezi-felföld", ro: "Podișul Kigezi", en: "Kigezi Highlands",
+image: "/poi-images/kigezi-highlands-relief-v2.webp"
+},
     description: {
       de: "Eine hügelige Bergregion im Südwesten, bekannt für Terrassenfeldbau.",
       hu: "Délnyugati dombos hegyvidék, ismert teraszos földműveléséről.",
@@ -133,7 +147,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-501",
     coords: [34.3, 2.2],
-    name: { de: "Mount Napak", hu: "Napak-hegy", ro: "Muntele Napak", en: "Mount Napak" },
+    name: { de: "Mount Napak", hu: "Napak-hegy", ro: "Muntele Napak", en: "Mount Napak",
+image: "/poi-images/mount-napak-relief-v2.webp"
+},
     description: {
       de: "Ein alter erloschener Vulkan in der Karamoja-Region.",
       hu: "Öreg kialudt vulkán a Karamoja régióban.",
@@ -151,7 +167,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-103",
     coords: [34.1, 0.7],
-    name: { de: "Tororo Rock", hu: "Tororo-szikla", ro: "Tororo Rock", en: "Tororo Rock" },
+    name: { de: "Tororo Rock", hu: "Tororo-szikla", ro: "Tororo Rock", en: "Tororo Rock",
+image: "/poi-images/mount-toror-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Vulkanschlot, der die Stadt Tororo überragt.",
       hu: "Jellegzetes vulkáni kürtő, amely Tororo város fölé magasodik.",
@@ -169,7 +187,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-201",
     coords: [31.3, 1.8],
-    name: { de: "Bunyoro-Steilhang", hu: "Bunyoro-lejtő", ro: "Versantul Bunyoro", en: "Bunyoro Escarpment" },
+    name: { de: "Bunyoro-Steilhang", hu: "Bunyoro-lejtő", ro: "Versantul Bunyoro", en: "Bunyoro Escarpment",
+image: "/poi-images/bunyoro-escarpment-relief-v2.webp"
+},
     description: {
       de: "Ein steiler Abhang, der zum Albert-Graben hinunterführt.",
       hu: "Meredek lejtő, amely levezet az Albert-árokba.",
@@ -187,7 +207,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-405",
     coords: [30.1, 0.4],
-    name: { de: "Mount Kisinga", hu: "Kisinga-hegy", ro: "Muntele Kisinga", en: "Mount Kisinga" },
+    name: { de: "Mount Kisinga", hu: "Kisinga-hegy", ro: "Muntele Kisinga", en: "Mount Kisinga",
+image: "/poi-images/mount-kisinga-relief-v2.webp"
+},
     description: {
       de: "Ein Berg im Bereich des Ruwenzori-Ausläufers.",
       hu: "Hegy a Ruwenzori-nyúlvány területén.",
@@ -205,7 +227,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-102",
     coords: [34.5, 1.1],
-    name: { de: "Mount Elgon Caldera", hu: "Elgon-kaldera", ro: "Caldera Muntele Elgon", en: "Mount Elgon Caldera" },
+    name: { de: "Mount Elgon Caldera", hu: "Elgon-kaldera", ro: "Caldera Muntele Elgon", en: "Mount Elgon Caldera",
+image: "/poi-images/mount-elgon-caldera-relief-v2.webp"
+},
     description: {
       de: "Das enorme vulkanische Zentrum des Mount Elgon.",
       hu: "A Mount Elgon hatalmas vulkáni központja.",
@@ -223,7 +247,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-307",
     coords: [29.9, -1.1],
-    name: { de: "Kigezi-Terrassen", hu: "Kigezi-teraszok", ro: "Terasele Kigezi", en: "Kigezi Terraces" },
+    name: { de: "Kigezi-Terrassen", hu: "Kigezi-teraszok", ro: "Terasele Kigezi", en: "Kigezi Terraces",
+image: "/poi-images/kigezi-terraces-relief-v2.webp"
+},
     description: {
       de: "Künstlich angelegte Hänge in der hügeligen Landschaft des Südwestens.",
       hu: "Mesterségesen kialakított lejtők a délnyugati dombvidéken.",
@@ -241,7 +267,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-501",
     coords: [34.4, 2.3],
-    name: { de: "Mount Akiyo", hu: "Akiyo-hegy", ro: "Muntele Akiyo", en: "Mount Akiyo" },
+    name: { de: "Mount Akiyo", hu: "Akiyo-hegy", ro: "Muntele Akiyo", en: "Mount Akiyo",
+image: "/poi-images/mount-akiyo-relief-v2.webp"
+},
     description: {
       de: "Ein Gipfel im vulkanischen Gürtel von Karamoja.",
       hu: "Csúcs a Karamoja vulkáni övezetében.",
@@ -260,7 +288,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-501",
     coords: [34.6, 1.8],
-    name: { de: "Mount Kadam-Ausläufer", hu: "Kadam-hegy lábai", ro: "Poalele Muntelui Kadam", en: "Mount Kadam Foothills" },
+    name: { de: "Mount Kadam-Ausläufer", hu: "Kadam-hegy lábai", ro: "Poalele Muntelui Kadam", en: "Mount Kadam Foothills",
+image: "/poi-images/mount-kadam-foothills-relief-v2.webp"
+},
     description: {
       de: "Die hügelige Umgebung des Kadam-Massivs.",
       hu: "A Kadam-masszívum dombos környezete.",
@@ -278,7 +308,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-102",
     coords: [34.5, 1.1],
-    name: { de: "Mount Elgon-Gipfel", hu: "Elgon-hegy csúcsai", ro: "Vârfurile Muntelui Elgon", en: "Mount Elgon Peaks" },
+    name: { de: "Mount Elgon-Gipfel", hu: "Elgon-hegy csúcsai", ro: "Vârfurile Muntelui Elgon", en: "Mount Elgon Peaks",
+image: "/poi-images/mount-elgon-peaks-relief-v2.webp"
+},
     description: {
       de: "Die markante Gipfelreihe rund um die Mount Elgon Caldera.",
       hu: "A Mount Elgon kaldera körüli jellegzetes csúcsok.",
@@ -296,7 +328,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-307",
     coords: [29.7, -1.1],
-    name: { de: "Kigezi-Täler", hu: "Kigezi-völgyek", ro: "Văile Kigezi", en: "Kigezi Valleys" },
+    name: { de: "Kigezi-Täler", hu: "Kigezi-völgyek", ro: "Văile Kigezi", en: "Kigezi Valleys",
+image: "/poi-images/kigezi-valleys-relief-v2.webp"
+},
     description: {
       de: "Tiefe, grüne Täler zwischen den Bergen der Kigezi-Region.",
       hu: "Mély, zöld völgyek a Kigezi-régió hegyei között.",
@@ -314,7 +348,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-405",
     coords: [29.9, 0.4],
-    name: { de: "Rwenzori-Ausläufer", hu: "Rwenzori-hegy lábai", ro: "Poalele Munților Rwenzori", en: "Rwenzori Foothills" },
+    name: { de: "Rwenzori-Ausläufer", hu: "Rwenzori-hegy lábai", ro: "Poalele Munților Rwenzori", en: "Rwenzori Foothills",
+image: "/poi-images/rwenzori-foothills-relief-v2.webp"
+},
     description: {
       de: "Die tiefer gelegenen Regionen, die in den Hauptkamm des Rwenzori übergehen.",
       hu: "Az alacsonyabb fekvésű régiók, amelyek átmennek a Rwenzori fő gerincébe.",
@@ -332,7 +368,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "mountain",
     parent: "UG-307",
     coords: [29.6, -1.4],
-    name: { de: "Mount Sabyinyo-Gipfel", hu: "Sabyinyo-hegy csúcsa", ro: "Vârful Muntelui Sabyinyo", en: "Mount Sabyinyo Peak" },
+    name: { de: "Mount Sabyinyo-Gipfel", hu: "Sabyinyo-hegy csúcsa", ro: "Vârful Muntelui Sabyinyo", en: "Mount Sabyinyo Peak",
+image: "/poi-images/mount-sabinyo-peak-relief-v2.webp"
+},
     description: {
       de: "Der zerklüftete Gipfel des Sabyinyo-Vulkans.",
       hu: "A Sabyinyo-vulkán barázdált csúcsa.",
@@ -350,7 +388,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-501",
     coords: [34.7, 1.9],
-    name: { de: "Kadam-Hochebene", hu: "Kadam-fennsík", ro: "Podișul Kadam", en: "Kadam Plateau" },
+    name: { de: "Kadam-Hochebene", hu: "Kadam-fennsík", ro: "Podișul Kadam", en: "Kadam Plateau",
+image: "/poi-images/kadam-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine erhöhte Ebene nahe des Kadam-Massivs.",
       hu: "Megemelt síkság a Kadam-masszívum közelében.",
@@ -368,7 +408,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-501",
     coords: [34.4, 2.3],
-    name: { de: "Mount Akiyo-Hänge", hu: "Akiyo-hegy lejtői", ro: "Pantele Muntelui Akiyo", en: "Mount Akiyo Slopes" },
+    name: { de: "Mount Akiyo-Hänge", hu: "Akiyo-hegy lejtői", ro: "Pantele Muntelui Akiyo", en: "Mount Akiyo Slopes",
+image: "/poi-images/mount-akiyo-slopes-relief-v2.webp"
+},
     description: {
       de: "Die abfallenden Seiten des Akiyo-Berges.",
       hu: "Az Akiyo-hegy lankás oldalai.",
@@ -387,7 +429,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-501",
     coords: [34.35, 2.25],
-    name: { de: "Napak-Ausläufer", hu: "Napak-hegy lábai", ro: "Poalele Muntelui Napak", en: "Napak Foothills" },
+    name: { de: "Napak-Ausläufer", hu: "Napak-hegy lábai", ro: "Poalele Muntelui Napak", en: "Napak Foothills",
+image: "/poi-images/napak-foothills-relief-v2.webp"
+},
     description: {
       de: "Die sanft ansteigende Umgebung des Napak-Vulkans.",
       hu: "A Napak-vulkán enyhén emelkedő környezete.",
@@ -405,7 +449,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-405",
     coords: [29.9, 0.4],
-    name: { de: "Rwenzori-Schluchten", hu: "Rwenzori-szurdokok", ro: "Cheile Rwenzori", en: "Rwenzori Gorges" },
+    name: { de: "Rwenzori-Schluchten", hu: "Rwenzori-szurdokok", ro: "Cheile Rwenzori", en: "Rwenzori Gorges",
+image: "/poi-images/rwenzori-gorges-relief-v2.webp"
+},
     description: {
       de: "Tiefe, wasserreiche Schluchten im Rwenzori-Massiv.",
       hu: "Mély, vízben gazdag szurdokok a Rwenzori-masszívumban.",
@@ -423,7 +469,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-501",
     coords: [34.7, 1.8],
-    name: { de: "Kadam-Schluchten", hu: "Kadam-szurdokok", ro: "Cheile Kadam", en: "Kadam Gorges" },
+    name: { de: "Kadam-Schluchten", hu: "Kadam-szurdokok", ro: "Cheile Kadam", en: "Kadam Gorges",
+image: "/poi-images/kadam-gorges-relief-v2.webp"
+},
     description: {
       de: "Zerklüftete Einschnitte im Kadam-Vulkankörper.",
       hu: "Barázdált bevágások a Kadam-vulkántestben.",
@@ -441,7 +489,9 @@ export const poiExtraUgandaReliefV2: POI[] = [
     type: "relief",
     parent: "UG-103",
     coords: [34.15, 0.75],
-    name: { de: "Tororo-Hänge", hu: "Tororo-lejtők", ro: "Pantele Tororo", en: "Tororo Slopes" },
+    name: { de: "Tororo-Hänge", hu: "Tororo-lejtők", ro: "Pantele Tororo", en: "Tororo Slopes",
+image: "/poi-images/tororo-slopes-relief-v2.webp"
+},
     description: {
       de: "Die felsigen Hänge rund um den Tororo-Vulkanschlot.",
       hu: "A Tororo-vulkáni kürtő körüli sziklás lejtők.",

@@ -11,8 +11,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Mogadischu Kathedrale Ruinen",
       hu: "Mogadishu Katedrális Romjai",
       ro: "Ruinele Catedralei din Mogadishu",
-      en: "Mogadishu Cathedral Ruins"
-    },
+      en: "Mogadishu Cathedral Ruins",
+image: "/poi-images/so-mogadishu-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Eine ehemalige katholische Kathedrale im normannisch-gotischen Stil, die 1928 erbaut und während des Bürgerkriegs zerstört wurde.",
       hu: "Egykori normann gótikus stílusú katolikus katedrális, amely 1928-ban épült és a polgárháború során elpusztult.",
@@ -54,8 +55,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Moschee der Islamischen Solidarität",
       hu: "Iszlám Szolidaritás Mecset",
       ro: "Moscheea Solidarității Islamice",
-      en: "Mosque of Islamic Solidarity"
-    },
+      en: "Mosque of Islamic Solidarity",
+image: "/poi-images/so-islamic-solidarity-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die größte Moschee am Horn von Afrika, fertiggestellt 1987 mit finanzieller Unterstützung von Saudi-Arabien.",
       hu: "Afrika szarvának legnagyobb mecsetje, amelyet 1987-ben fejeztek be szaúd-arábiai pénzügyi támogatással.",
@@ -97,8 +99,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Leuchtturm von Mogadischu",
       hu: "Mogadishui Világítótorony",
       ro: "Farul din Mogadishu",
-      en: "Mogadishu Lighthouse"
-    },
+      en: "Mogadishu Lighthouse",
+image: "/poi-images/so-mogadishu-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Leuchtturm aus der italienischen Kolonialzeit, der am Rande des alten Hafens von Mogadischu steht.",
       hu: "Történelmi világítótorony az olasz gyarmati időszakból, amely Mogadishu régi kikötőjének szélén áll.",
@@ -140,8 +143,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Daljirka Dahsoon Denkmal",
       hu: "Daljirka Dahsoon Emlékmű",
       ro: "Monumentul Daljirka Dahsoon",
-      en: "Tomb of the Unknown Soldier"
-    },
+      en: "Tomb of the Unknown Soldier",
+image: "/poi-images/so-daljirka-dahsoon-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Denkmal in Mogadischu zu Ehren der somalischen Männer und Frauen, die bei der Verteidigung des Landes starben.",
       hu: "Jelentős emlékmű Mogadishuban a szomáliai férfiak és nők tiszteletére, akik a haza védelmében haltak meg.",
@@ -183,8 +187,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Nationaltheater von Somalia",
       hu: "Szomáliai Nemzeti Színház",
       ro: "Teatrul Național din Somalia",
-      en: "National Theatre of Somalia"
-    },
+      en: "National Theatre of Somalia",
+image: "/poi-images/so-national-theatre-landmarks-v2.webp"
+},
     description: {
       de: "Eröffnet 1967 als Geschenk von Mao Zedong, repräsentiert es das kulturelle Herz von Mogadischu.",
       hu: "1967-ben nyílt meg Mao Ce-tung ajándékaként, Mogadishu kulturális szívét képviseli.",
@@ -226,8 +231,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Mogadischu Stadion",
       hu: "Mogadishu Stadion",
       ro: "Stadionul Mogadishu",
-      en: "Mogadishu Stadium"
-    },
+      en: "Mogadishu Stadium",
+image: "/poi-images/so-mogadishu-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das Nationalstadion von Somalia, das einst große afrikanische Sportereignisse ausrichtete und kürzlich wiedereröffnet wurde.",
       hu: "Szomália nemzeti stadionja, amely egykor jelentős afrikai sporteseményeknek adott otthont, és nemrégiben újra megnyílt.",
@@ -269,8 +275,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Villa Somalia",
       hu: "Villa Somalia",
       ro: "Villa Somalia",
-      en: "Villa Somalia"
-    },
+      en: "Villa Somalia",
+image: "/poi-images/so-villa-somalia-landmarks-v2.webp"
+},
     description: {
       de: "Der offizielle Präsidentenpalast und Hauptarbeitsplatz des somalischen Präsidenten auf einer Anhöhe in Mogadischu.",
       hu: "Szomália elnökének hivatalos rezidenciája és fő munkahelye, amely egy magaslaton található Mogadishuban.",
@@ -312,8 +319,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Hawo Tako Denkmal",
       hu: "Hawo Tako Emlékmű",
       ro: "Monumentul Hawo Tako",
-      en: "Hawo Tako Monument"
-    },
+      en: "Hawo Tako Monument",
+image: "/poi-images/so-hawo-tako-monument-landmarks-v2.webp"
+},
     description: {
       de: "Eine Statue, die Hawo Tako gewidmet ist, einer prominenten somalischen Nationalistin, die gegen die italienische Kolonialherrschaft kämpfte.",
       hu: "Egy szobor Hawo Tako, egy kiemelkedő szomáliai nacionalista nő tiszteletére, aki az olasz gyarmati uralom ellen harcolott.",
@@ -355,8 +363,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Dhagaxtuur Denkmal",
       hu: "Dhagaxtuur Emlékmű",
       ro: "Monumentul Dhagaxtuur",
-      en: "Dhagaxtuur Monument"
-    },
+      en: "Dhagaxtuur Monument",
+image: "/poi-images/so-dhagaxtuur-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal zur Erinnerung an den Steinwurf-Aufstand von 1949 gegen die britischen und italienischen Kolonialmächte.",
       hu: "Az 1949-es kődobáló felkelésnek emléket állító mű, amely a brit és olasz gyarmatosítók ellen irányult.",
@@ -398,8 +407,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Jubba Hotel Ruinen",
       hu: "Jubba Hotel Romjai",
       ro: "Ruinele Hotelului Jubba",
-      en: "Jubba Hotel Ruins"
-    },
+      en: "Jubba Hotel Ruins",
+image: "/poi-images/so-jubba-hotel-ruins-landmarks-v2.webp"
+},
     description: {
       de: "Einst das höchste Gebäude und ein Luxushotel in Mogadischu, das heute als vom Krieg gezeichnetes Wahrzeichen steht.",
       hu: "Mogadishu egykori legmagasabb épülete és luxusszállodája, amely ma a háború nyomait viselő tájékozódási pont.",
@@ -441,8 +451,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Al-Uruba Hotel",
       hu: "Al-Uruba Hotel",
       ro: "Hotelul Al-Uruba",
-      en: "Al-Uruba Hotel"
-    },
+      en: "Al-Uruba Hotel",
+image: "/poi-images/so-al-uruba-hotel-landmarks-v2.webp"
+},
     description: {
       de: "Ein ehemals ikonisches Strandhotel in Mogadischu, das sich durch seine islamischen Architekturbögen auszeichnet.",
       hu: "Egy egykor ikonikus tengerparti szálloda Mogadishuban, amelyet az iszlám építészeti ívek jellemeznek.",
@@ -484,8 +495,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Friedenspark Mogadischu",
       hu: "Mogadishu Békepark",
       ro: "Parcul Păcii Mogadishu",
-      en: "Mogadishu Peace Park"
-    },
+      en: "Mogadishu Peace Park",
+image: "/poi-images/so-mogadishu-peace-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger Erholungsraum in der Hauptstadt mit Grünflächen und Treffpunkten für die Gemeinde.",
       hu: "Fontos pihenőövezet a fővárosban, zöldfelületekkel és közösségi találkozóhelyekkel.",
@@ -527,8 +539,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Zentralbank von Somalia Gebäude",
       hu: "Szomáliai Központi Bank",
       ro: "Clădirea Băncii Centrale a Somaliei",
-      en: "Central Bank of Somalia Building"
-    },
+      en: "Central Bank of Somalia Building",
+image: "/poi-images/so-central-bank-building-landmarks-v2.webp"
+},
     description: {
       de: "Das historische Hauptquartier der nationalen Währungsbehörde in der Nähe des alten Hafens.",
       hu: "A nemzeti monetáris hatóság történelmi központja a régi kikötő közelében.",
@@ -571,8 +584,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Aden Adde Flughafenterminal",
       hu: "Aden Adde Repülőtéri Terminál",
       ro: "Terminalul Aden Adde",
-      en: "Aden Adde Airport Terminal"
-    },
+      en: "Aden Adde Airport Terminal",
+image: "/poi-images/so-aden-adde-terminal-landmarks-v2.webp"
+},
     description: {
       de: "Das moderne, von der Türkei gebaute Terminalgebäude, das als Haupttor nach Somalia dient.",
       hu: "A modern, törökök által épített terminálépület, amely Szomália fő kapujaként szolgál.",
@@ -614,8 +628,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Hargeisa Kriegsdenkmal",
       hu: "Hargeisai Háborús Emlékmű",
       ro: "Monumentul Eroilor din Hargeisa",
-      en: "Hargeisa War Memorial"
-    },
+      en: "Hargeisa War Memorial",
+image: "/poi-images/so-hargeisa-war-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal mit einem abgeschossenen MiG-17-Kampfflugzeug, das an die Opfer des Somaliland-Unabhängigkeitskrieges erinnert.",
       hu: "Egy lelőtt MiG-17 vadászrepülőt ábrázoló emlékmű, amely a szomáliföldi függetlenségi háború áldozataira emlékeztet.",
@@ -657,8 +672,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Große Moschee von Hargeisa",
       hu: "Hargeisai Nagymecset",
       ro: "Marea Moschee din Hargeisa",
-      en: "Hargeisa Grand Mosque"
-    },
+      en: "Hargeisa Grand Mosque",
+image: "/poi-images/so-hargeisa-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Das zentrale Gotteshaus in Hargeisa, das sich durch seine markanten zwei weißen Minarette auszeichnet.",
       hu: "Hargeisa központi istentiszteleti helye, amelyet jellegzetes két fehér minaretje különböztet meg.",
@@ -700,8 +716,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Präsidentenpalast Hargeisa",
       hu: "Hargeisai Elnöki Palota",
       ro: "Palatul Prezidențial Hargeisa",
-      en: "Hargeisa Presidential Palace"
-    },
+      en: "Hargeisa Presidential Palace",
+image: "/poi-images/so-hargeisa-presidential-palace-landmarks-v2.webp"
+},
     description: {
       de: "Das stark befestigte Verwaltungshauptquartier und der Amtssitz der Regierung von Somaliland.",
       hu: "Szomáliföld kormányának erősen erődített közigazgatási központja és hivatalos rezidenciája.",
@@ -744,8 +761,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Leuchtturm von Berbera",
       hu: "Berberai Világítótorony",
       ro: "Farul din Berbera",
-      en: "Berbera Lighthouse"
-    },
+      en: "Berbera Lighthouse",
+image: "/poi-images/so-berbera-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Navigationshilfe, die seit Generationen Schiffe in den Tiefseehafen von Berbera führt.",
       hu: "Történelmi navigációs eszköz, amely generációk óta segíti a hajókat Berbera mélyvízi kikötőjébe.",
@@ -787,8 +805,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Osmanische Moschee Berbera",
       hu: "Oszmán Mecset Berbera",
       ro: "Moscheea Otomană din Berbera",
-      en: "Berbera Ottoman Mosque"
-    },
+      en: "Berbera Ottoman Mosque",
+image: "/poi-images/so-berbera-ottoman-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine gut erhaltene Moschee, die während der Herrschaft des Osmanischen Reiches über die Küstenstadt Berbera erbaut wurde.",
       hu: "Jól megőrzött mecset, amely az Oszmán Birodalom uralkodása alatt épült Berbera tengerparti városában.",
@@ -831,8 +850,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Große Moschee von Bosaso",
       hu: "Bosasói Nagymecset",
       ro: "Marea Moschee din Bosaso",
-      en: "Bosaso Grand Mosque"
-    },
+      en: "Bosaso Grand Mosque",
+image: "/poi-images/so-bosaso-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eines der größten modernen islamischen Wahrzeichen in der Region Puntland im Nordosten Somalias.",
       hu: "Északkelet-Szomália Puntland régiójának egyik legnagyobb modern iszlám nevezetessége.",
@@ -875,8 +895,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Uhrturm von Bosaso",
       hu: "Bosasói Óratorony",
       ro: "Turnul cu Ceas din Bosaso",
-      en: "Bosaso Clock Tower"
-    },
+      en: "Bosaso Clock Tower",
+image: "/poi-images/so-bosaso-clock-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein zentrales Wahrzeichen im Handelszentrum von Puntland, das den belebten Stadtkern markiert.",
       hu: "Puntland kereskedelmi központjának központi tájékozódási pontja, amely a nyüzsgő városközpontot jelöli.",
@@ -918,8 +939,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Große Moschee von Borama",
       hu: "Boramai Nagymecset",
       ro: "Marea Moschee din Borama",
-      en: "Borama Grand Mosque"
-    },
+      en: "Borama Grand Mosque",
+image: "/poi-images/so-borama-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Das spirituelle Zentrum von Borama, bekannt für seine friedliche und akademische Atmosphäre.",
       hu: "Borama spirituális központja, amely békés és akadémiai atmoszférájáról ismert.",
@@ -961,8 +983,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Amoud Universität Haupttor",
       hu: "Amoud Egyetem Főkapuja",
       ro: "Poarta Universității Amoud",
-      en: "Amoud University Main Gate"
-    },
+      en: "Amoud University Main Gate",
+image: "/poi-images/so-amoud-university-gate-landmarks-v2.webp"
+},
     description: {
       de: "Der Eingang zum ältesten funktionierenden Hochschulinstitut in der Nachkriegsregion von Somalia.",
       hu: "Szomália háború utáni régiójának legrégebbi működő felsőoktatási intézményének bejárata.",
@@ -1005,8 +1028,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Uhrturm von Merca",
       hu: "Mercai Óratorony",
       ro: "Turnul cu Ceas din Merca",
-      en: "Merca Clock Tower"
-    },
+      en: "Merca Clock Tower",
+image: "/poi-images/so-merca-clock-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein von Italienern erbauter Küstenturm, der als Wahrzeichen der alten Hafenstadt Merca dient.",
       hu: "Olaszok által épített tengerparti torony, amely Merca ősi kikötővárosának jelképe.",
@@ -1048,8 +1072,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Große Moschee von Merca",
       hu: "Mercai Nagymecset",
       ro: "Marea Moschee din Merca",
-      en: "Merca Grand Mosque"
-    },
+      en: "Merca Grand Mosque",
+image: "/poi-images/so-merca-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Moschee am Meer, die das tiefe islamische Erbe der Benadir-Küste widerspiegelt.",
       hu: "Egy történelmi tengerparti mecset, amely a Benadir partvidék mély iszlám örökségét tükrözi.",
@@ -1092,8 +1117,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Qiblateyn Moschee Ruinen",
       hu: "Qiblateyn Mecset Romjai",
       ro: "Ruinele Moscheii Qiblateyn",
-      en: "Qiblateyn Mosque Ruins"
-    },
+      en: "Qiblateyn Mosque Ruins",
+image: "/poi-images/so-zeila-qiblateyn-mosque-ruins-landmarks-v2.webp"
+},
     description: {
       de: "Überreste einer der ältesten Moscheen Afrikas, die zwei Qiblas besitzt, die nach Mekka und Jerusalem weisen.",
       hu: "Afrika egyik legrégebbi mecsetjének maradványai, amely két kiblával rendelkezik, amelyek Mekka és Jeruzsálem felé mutatnak.",
@@ -1135,8 +1161,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Alte Seemauer von Zeila",
       hu: "Zeilai Régi Tengerfal",
       ro: "Vechiul Zid Maritim din Zeila",
-      en: "Zeila Old Sea Wall"
-    },
+      en: "Zeila Old Sea Wall",
+image: "/poi-images/so-zeila-old-sea-wall-landmarks-v2.webp"
+},
     description: {
       de: "Die alten Verteidigungsanlagen, die einst den wohlhabenden Hafen des Sultanats Adal vor Angriffen schützten.",
       hu: "Az ősi védművek, amelyek egykor az Adal Szultanátus virágzó kikötőjét védték a támadásoktól.",
@@ -1178,8 +1205,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Große Moschee von Kismayo",
       hu: "Kismayói Nagymecset",
       ro: "Marea Moschee din Kismayo",
-      en: "Kismayo Grand Mosque"
-    },
+      en: "Kismayo Grand Mosque",
+image: "/poi-images/so-kismayo-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Das wichtigste religiöse Wahrzeichen in der südlichen Hafenstadt Kismayo in der Region Jubaland.",
       hu: "A legfontosabb vallási nevezetesség a déli Kismayo kikötővárosában, Jubaland régióban.",
@@ -1222,8 +1250,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Präsidentenpalast Garowe",
       hu: "Garowei Elnöki Palota",
       ro: "Palatul Prezidențial Garowe",
-      en: "Garowe Presidential Palace"
-    },
+      en: "Garowe Presidential Palace",
+image: "/poi-images/so-garowe-presidential-palace-landmarks-v2.webp"
+},
     description: {
       de: "Das Verwaltungszentrum des autonomen Puntland-Staates von Somalia, gekennzeichnet durch moderne Sicherheit und Regierungsgebäude.",
       hu: "Szomália autonóm Puntland államának közigazgatási központja, amelyet modern biztonsági és kormányzati épületek jellemeznek.",
@@ -1266,8 +1295,9 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
       de: "Galkayo Friedensdenkmal",
       hu: "Galkayói Béke Emlékmű",
       ro: "Monumentul Păcii din Galkayo",
-      en: "Galkayo Peace Monument"
-    },
+      en: "Galkayo Peace Monument",
+image: "/poi-images/so-galkayo-peace-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Wahrzeichen, das die Friedensbemühungen zwischen der nördlichen und südlichen Hälfte der geteilten Stadt symbolisiert.",
       hu: "Egy nevezetesség, amely a megosztott város északi és déli fele közötti béketörekvéseket szimbolizálja.",

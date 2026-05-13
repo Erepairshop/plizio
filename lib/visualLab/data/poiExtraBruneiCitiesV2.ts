@@ -6,7 +6,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "state-capital",
     parent: "BN-BM",
     coords: [114.9398, 4.9031],
-    name: { de: "Bandar Seri Begawan", hu: "Bandar Seri Begawan", ro: "Bandar Seri Begawan", en: "Bandar Seri Begawan" },
+    name: { de: "Bandar Seri Begawan", hu: "Bandar Seri Begawan", ro: "Bandar Seri Begawan", en: "Bandar Seri Begawan",
+image: "/poi-images/bandar-seri-begawan-cities-v2.webp"
+},
     description: {
       de: "Bandar Seri Begawan ist die Hauptstadt und größte Stadt von Brunei, bekannt für die prächtige Sultan Omar Ali Saifuddien Moschee.",
       hu: "Bandar Seri Begawan Brunei fővárosa és legnagyobb városa, amely a lenyűgöző Sultan Omar Ali Saifuddien mecsetről ismert.",
@@ -34,7 +36,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BE",
     coords: [114.1833, 4.5833],
-    name: { de: "Kuala Belait", hu: "Kuala Belait", ro: "Kuala Belait", en: "Kuala Belait" },
+    name: { de: "Kuala Belait", hu: "Kuala Belait", ro: "Kuala Belait", en: "Kuala Belait",
+image: "/poi-images/kuala-belait-cities-v2.webp"
+},
     description: {
       de: "Das Verwaltungszentrum des Distrikts Belait, das nahe der Grenze zu Malaysia liegt.",
       hu: "A Belait körzet közigazgatási központja, amely a maláj határ közelében található.",
@@ -62,7 +66,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BE",
     coords: [114.3167, 4.6000],
-    name: { de: "Seria", hu: "Seria", ro: "Seria", en: "Seria" },
+    name: { de: "Seria", hu: "Seria", ro: "Seria", en: "Seria",
+image: "/poi-images/seria-cities-v2.webp"
+},
     description: {
       de: "Das Herz der Ölindustrie von Brunei, wo 1929 erstmals kommerzielles Öl entdeckt wurde.",
       hu: "Brunei olajiparának központja, ahol 1929-ben először fedeztek fel kereskedelmi célú kőolajat.",
@@ -90,7 +96,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-TU",
     coords: [114.6500, 4.8000],
-    name: { de: "Tutong", hu: "Tutong", ro: "Tutong", en: "Tutong" },
+    name: { de: "Tutong", hu: "Tutong", ro: "Tutong", en: "Tutong",
+image: "/poi-images/tutong-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Tutong-Distrikts, bekannt für ihre unberührten Strände und entspannte Atmosphäre.",
       hu: "A Tutong körzet fővárosa, amely érintetlen strandjairól és nyugodt légköréről ismert.",
@@ -112,13 +120,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Hauptstadt des Distrikts Tutong, des zweitgrößten Distrikts in Brunei.", "Die Bevölkerung des Distrikts beträgt etwa 51.500 (Stand 2019).", "Der Name 'Tutong' leitet sich von der indigenen ethnischen Gruppe der Tutong ab.", "Pantai Seri Kenangan ist ein beliebter Ort für Picknicks und Erholung.", "Der Tutong-Fluss ist eine wichtige Wasserquelle und Transportroute.", "Die Stadt veranstaltet einen lebhaften 'Tamu' (Freiluftmarkt) jeden Donnerstag.", "Die Region ist bekannt für ihre Sagoproduktion.", "Das Sungai Basong Erholungspark bietet Wanderwege und einen kleinen See."]
-    }},
+    }
+  },
   {
     id: "bangar-cities-v2",
     type: "city",
     parent: "BN-TE",
     coords: [115.0667, 4.7000],
-    name: { de: "Bangar", hu: "Bangar", ro: "Bangar", en: "Bangar" },
+    name: { de: "Bangar", hu: "Bangar", ro: "Bangar", en: "Bangar",
+image: "/poi-images/bangar-cities-v2.webp"
+},
     description: {
       de: "Das isolierte Verwaltungszentrum des Temburong-Distrikts, erreichbar hauptsächlich per Boot oder die neue Brücke.",
       hu: "A Temburong körzet elszigetelt közigazgatási központja, amely főleg hajóval vagy az új hídon közelíthető meg.",
@@ -146,7 +157,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [115.0500, 5.0333],
-    name: { de: "Muara", hu: "Muara", ro: "Muara", en: "Muara" },
+    name: { de: "Muara", hu: "Muara", ro: "Muara", en: "Muara",
+image: "/poi-images/muara-cities-v2.webp"
+},
     description: {
       de: "Eine bedeutende Hafenstadt an der nordöstlichen Spitze von Brunei, die den wichtigsten Tiefwasserhafen des Landes beherbergt.",
       hu: "Egy jelentős kikötőváros Brunei északkeleti csücskén, ahol az ország fő mélyvízi kikötője található.",
@@ -174,7 +187,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.8333, 4.9500],
-    name: { de: "Jerudong", hu: "Jerudong", ro: "Jerudong", en: "Jerudong" },
+    name: { de: "Jerudong", hu: "Jerudong", ro: "Jerudong", en: "Jerudong",
+image: "/poi-images/jerudong-cities-v2.webp"
+},
     description: {
       de: "Eine Siedlung, die für ihren Vergnügungspark Jerudong Park und den luxuriösen Poloclub bekannt ist.",
       hu: "Egy település, amely a Jerudong Park vidámparkról és a fényűző pólóklubról ismert.",
@@ -202,7 +217,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.8333, 4.8667],
-    name: { de: "Sengkurong", hu: "Sengkurong", ro: "Sengkurong", en: "Sengkurong" },
+    name: { de: "Sengkurong", hu: "Sengkurong", ro: "Sengkurong", en: "Sengkurong",
+image: "/poi-images/sengkurong-cities-v2.webp"
+},
     description: {
       de: "Ein schnell wachsendes Wohn- und Geschäftsgebiet westlich der Hauptstadt.",
       hu: "Egy gyorsan növekvő lakó- és kereskedelmi övezet a fővárostól nyugatra.",
@@ -230,7 +247,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BE",
     coords: [114.4333, 4.6333],
-    name: { de: "Lumut", hu: "Lumut", ro: "Lumut", en: "Lumut" },
+    name: { de: "Lumut", hu: "Lumut", ro: "Lumut", en: "Lumut",
+image: "/poi-images/lumut-cities-v2.webp"
+},
     description: {
       de: "Eine Küstensiedlung im Distrikt Belait, in der sich die LNG-Anlage von Brunei befindet.",
       hu: "Egy tengerparti település a Belait körzetben, ahol a Brunei LNG üzem található.",
@@ -258,7 +277,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.9167, 4.9167],
-    name: { de: "Gadong", hu: "Gadong", ro: "Gadong", en: "Gadong" },
+    name: { de: "Gadong", hu: "Gadong", ro: "Gadong", en: "Gadong",
+image: "/poi-images/gadong-cities-v2.webp"
+},
     description: {
       de: "Das wichtigste Geschäfts- und Einkaufsviertel in der Hauptstadtregion von Brunei.",
       hu: "Brunei fővárosi régiójának első számú kereskedelmi és bevásárlónegyede.",
@@ -286,7 +307,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.9333, 4.9000],
-    name: { de: "Kiulap", hu: "Kiulap", ro: "Kiulap", en: "Kiulap" },
+    name: { de: "Kiulap", hu: "Kiulap", ro: "Kiulap", en: "Kiulap",
+image: "/poi-images/kiulap-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiges Geschäfts- und Wohngebiet in der Nähe des Zentrums von Bandar Seri Begawan.",
       hu: "Egy fontos kereskedelmi és lakóövezet Bandar Seri Begawan központjának közelében.",
@@ -314,7 +337,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.9333, 4.9500],
-    name: { de: "Berakas", hu: "Berakas", ro: "Berakas", en: "Berakas" },
+    name: { de: "Berakas", hu: "Berakas", ro: "Berakas", en: "Berakas",
+image: "/poi-images/berakas-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiges Gebiet, in dem sich der internationale Flughafen Brunei und verschiedene Ministerien befinden.",
       hu: "Egy fontos terület, ahol a Brunei Nemzetközi Repülőtér és különböző minisztériumok találhatók.",
@@ -342,7 +367,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [115.0167, 4.9667],
-    name: { de: "Mentiri", hu: "Mentiri", ro: "Mentiri", en: "Mentiri" },
+    name: { de: "Mentiri", hu: "Mentiri", ro: "Mentiri", en: "Mentiri",
+image: "/poi-images/mentiri-cities-v2.webp"
+},
     description: {
       de: "Ein Wohnvorort im östlichen Teil des Distrikts Brunei-Muara.",
       hu: "Egy lakóövezet a Brunei-Muara körzet keleti részén.",
@@ -370,7 +397,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.9667, 4.8833],
-    name: { de: "Kota Batu", hu: "Kota Batu", ro: "Kota Batu", en: "Kota Batu" },
+    name: { de: "Kota Batu", hu: "Kota Batu", ro: "Kota Batu", en: "Kota Batu",
+image: "/poi-images/kota-batu-cities-v2.webp"
+},
     description: {
       de: "Ein geschichtsträchtiges Gebiet mit mehreren wichtigen archäologischen Stätten und Museen.",
       hu: "Történelemben gazdag terület, amely számos fontos régészeti lelőhelyet és múzeumot rejt.",
@@ -398,7 +427,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.9333, 4.8333],
-    name: { de: "Lumapas", hu: "Lumapas", ro: "Lumapas", en: "Lumapas" },
+    name: { de: "Lumapas", hu: "Lumapas", ro: "Lumapas", en: "Lumapas",
+image: "/poi-images/lumapas-cities-v2.webp"
+},
     description: {
       de: "Ein Dorf südlich der Hauptstadt, das über den Landweg erreichbar und von wunderschönen Hügeln umgeben ist.",
       hu: "A fővárostól délre fekvő falu, amely szárazföldön is megközelíthető, és gyönyörű dombok veszik körül.",
@@ -426,7 +457,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.8667, 4.8500],
-    name: { de: "Kilanas", hu: "Kilanas", ro: "Kilanas", en: "Kilanas" },
+    name: { de: "Kilanas", hu: "Kilanas", ro: "Kilanas", en: "Kilanas",
+image: "/poi-images/kilanas-cities-v2.webp"
+},
     description: {
       de: "Ein traditionelles Dorf, das sich zu einem modernen Wohnvorort entwickelt hat.",
       hu: "Egy hagyományos falu, amely modern lakóövezetté fejlődött.",
@@ -454,7 +487,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     type: "city",
     parent: "BN-BM",
     coords: [114.9667, 4.9333],
-    name: { de: "Sungai Akar", hu: "Sungai Akar", ro: "Sungai Akar", en: "Sungai Akar" },
+    name: { de: "Sungai Akar", hu: "Sungai Akar", ro: "Sungai Akar", en: "Sungai Akar",
+image: "/poi-images/sungai-akar-cities-v2.webp"
+},
     description: {
       de: "Ein markantes Wohngebiet, in dem mehrere ausländische Botschaften und wichtige Institutionen untergebracht sind.",
       hu: "Egy kiemelkedő lakóövezet, amely számos külföldi nagykövetségnek és fontos intézménynek ad otthont.",
@@ -466,15 +501,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["A Gurkha Tartalékos Egység táborának otthona.", "Dombos terepéről ismert."],
       ro: ["Găzduiește tabăra Unității de Rezervă Gurkha.", "Cunoscut pentru terenul său deluros."],
       en: ["Home to the Gurkha Reserve Unit camp.", "Known for its hilly terrain."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Beherbergt die Botschaft der Vereinigten Staaten in Brunei.", "Das Lager der Gurkha Reserve Unit ist eine wichtige Einrichtung in diesem Gebiet.", "Der Name 'Sungai Akar' bedeutet 'Wurzelfluss'.", "Die Topographie ist durch steile Hügel und Täler gekennzeichnet.", "Es ist ein beliebtes Gebiet für wohlhabende Einheimische und Expatriates.", "Die Internationale Schule Brunei (ISB) befand sich früher in dieser Gegend.", "Es liegt in der Nähe des Ministeriums für Nationale Verteidigung.", "Die Entwicklung in diesem Gebiet begann hauptsächlich in den 1980er und 1990er Jahren."] }, image: "/poi-images/sungai-akar-cities-v2.webp"},
   {
     id: "lambak-cities-v2",
     type: "city",
     parent: "BN-BM",
     coords: [114.9500, 4.9667],
-    name: { de: "Lambak", hu: "Lambak", ro: "Lambak", en: "Lambak" },
+    name: { de: "Lambak", hu: "Lambak", ro: "Lambak", en: "Lambak",
+image: "/poi-images/lambak-cities-v2.webp"
+},
     description: {
       de: "Eines der größten Wohngebiete in Brunei mit ausgedehnten öffentlichen Wohnsiedlungen.",
       hu: "Brunei egyik legnagyobb lakóövezete, amely kiterjedt állami lakótelepekkel rendelkezik.",
@@ -486,15 +522,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Több alfalura van osztva.", "Sűrűn lakott külvárosi terület."],
       ro: ["Împărțit în mai multe sub-sate.", "Zonă suburbană foarte populată."],
       en: ["Divided into several sub-villages.", "Highly populated suburban area."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Das Lambak Kanan National Housing Scheme (RPN) ist eines der größten des Landes.", "Die Entwicklung begann in den 1980er Jahren.", "Die Bevölkerung des Gebiets wird auf über 40.000 geschätzt.", "Die Gegend ist in 5 Teile unterteilt: Perpindahan, Jalan 1, Jalan 2, Jalan 3 und Jalan 4.", "Der Name 'Lambak' bedeutet auf Malaiisch 'Haufen' oder 'Stapel'.", "Es beherbergt mehrere Grund- und weiterführende Schulen.", "Das Gebiet liegt etwa 10 Kilometer von Bandar Seri Begawan entfernt.", "Es ist ein Paradebeispiel für die Vorstadtentwicklung in Brunei."] }, image: "/poi-images/lambak-cities-v2.webp"},
   {
     id: "subok-cities-v2",
     type: "city",
     parent: "BN-BM",
     coords: [114.9667, 4.9167],
-    name: { de: "Subok", hu: "Subok", ro: "Subok", en: "Subok" },
+    name: { de: "Subok", hu: "Subok", ro: "Subok", en: "Subok",
+image: "/poi-images/subok-cities-v2.webp"
+},
     description: {
       de: "Ein Dorf an üppigen grünen Hügeln, das eine ruhige Umgebung in der Nähe der Hauptstadt bietet.",
       hu: "Egy dús zöld dombokon fekvő falu, amely csendes környezetet kínál a főváros közelében.",
@@ -506,15 +543,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Népszerű túrázóhely.", "Itt található a Bukit Subok szabadidőpark."],
       ro: ["Zonă populară pentru drumeții.", "Dispune de parcul de agrement Bukit Subok."],
       en: ["Popular area for hiking.", "Features the Bukit Subok recreational park."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Bukit Subok bedeutet 'Subok-Hügel'.", "Der Erholungspark wurde in den 1990er Jahren entwickelt.", "Die höchste Erhebung in der Gegend bietet eine 360-Grad-Aussicht.", "Die Gegend überblickt den Istana Nurul Iman Palast.", "Subok ist Teil des größeren Mukim Kota Batu.", "Die Bevölkerung ist relativ gering im Vergleich zu nahegelegenen Vororten.", "Es ist nur etwa 5 Kilometer vom Stadtzentrum entfernt.", "Die Hänge sind anfällig für Erdrutsche während starker Regenfälle."] }, image: "/poi-images/subok-cities-v2.webp"},
   {
     id: "sungai-liang-cities-v2",
     type: "city",
     parent: "BN-BE",
     coords: [114.4833, 4.6667],
-    name: { de: "Sungai Liang", hu: "Sungai Liang", ro: "Sungai Liang", en: "Sungai Liang" },
+    name: { de: "Sungai Liang", hu: "Sungai Liang", ro: "Sungai Liang", en: "Sungai Liang",
+image: "/poi-images/sungai-liang-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiges Industrie- und Forstzentrum im Distrikt Belait.",
       hu: "Egy fontos ipari és erdészeti központ a Belait körzetben.",
@@ -526,15 +564,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Egy nagy erdészeti park helyszíne.", "Egy nagy ipari parknak ad otthont."],
       ro: ["Locația unui parc forestier mare.", "Găzduiește un parc industrial major."],
       en: ["Location of a large forestry park.", "Hosts a major industrial park."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["SPARK erstreckt sich über eine Fläche von 271 Hektar.", "Die Brunei Methanol Company (BMC) ist ein Joint Venture zwischen japanischen Unternehmen und Brunei.", "Die Methanolanlage hat eine Produktionskapazität von 850.000 Tonnen pro Jahr.", "Der Sungai Liang Forest Recreational Park wurde 1989 gegründet.", "Der Park umfasst einen der am besten zugänglichen Primärregenwälder in Südostasien.", "Der Name 'Sungai Liang' bedeutet 'Höhlenfluss'.", "Die Gegend liegt in der Nähe der Küste, zwischen Tutong und Seria.", "Die Entwicklung von SPARK ist Teil von Bruneis Vision Wawasan 2035."] }, image: "/poi-images/sungai-liang-cities-v2.webp"},
   {
     id: "badas-cities-v2",
     type: "city",
     parent: "BN-BE",
     coords: [114.4000, 4.5667],
-    name: { de: "Badas", hu: "Badas", ro: "Badas", en: "Badas" },
+    name: { de: "Badas", hu: "Badas", ro: "Badas", en: "Badas",
+image: "/poi-images/badas-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Siedlung, die für ihre Wasserpumpstation bekannt ist, die die Ölstadt Seria versorgt.",
       hu: "Egy kis település, amely arról a vízszivattyú-állomásáról ismert, amely Seria olajvárost látja el.",
@@ -546,15 +585,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Egy történelmi kisvasút köti össze.", "Tőzegmocsár-erdők veszik körül."],
       ro: ["Conectat printr-o cale ferată istorică cu ecartament îngust.", "Înconjurat de păduri de mlaștină de turbă."],
       en: ["Connected by a historic narrow-gauge railway.", "Surrounded by peat swamp forests."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Die Pumpstation wurde um 1932 gebaut.", "Die ursprüngliche Pipeline nach Seria war 19 km lang.", "Die Schmalspurbahn wurde in den 1930er Jahren von der British Malayan Petroleum Company gebaut.", "Die Badas-Pumpstation versorgt immer noch die Gebiete Seria und Kuala Belait mit Wasser.", "Das Gebiet ist ein wichtiger Lebensraum für Wildtiere, einschließlich des Nasenaffen.", "Die Torfsumpfwälder in der Umgebung sind mehrere Meter tief.", "Es liegt etwa 20 Kilometer südöstlich von Seria.", "Die historische Eisenbahn ist nicht mehr in Betrieb, aber ihre Route ist teilweise erhalten."] }, image: "/poi-images/badas-cities-v2.webp"},
   {
     id: "labi-cities-v2",
     type: "city",
     parent: "BN-BE",
     coords: [114.4667, 4.4333],
-    name: { de: "Labi", hu: "Labi", ro: "Labi", en: "Labi" },
+    name: { de: "Labi", hu: "Labi", ro: "Labi", en: "Labi",
+image: "/poi-images/labi-cities-v2.webp"
+},
     description: {
       de: "Ein Gebiet im Landesinneren, das für seine üppigen tropischen Regenwälder, Langhäuser und landwirtschaftlichen Produkte berühmt ist.",
       hu: "Egy belföldi terület, amely buja trópusi esőerdőiről, hosszúházairól és mezőgazdasági termékeiről híres.",
@@ -566,15 +606,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Helyi gyümölcsösekről ismert.", "Számos Iban hosszúház található itt."],
       ro: ["Cunoscut pentru livezile de fructe locale.", "Găzduiește mai multe case lungi Iban."],
       en: ["Known for local fruit orchards.", "Home to several Iban longhouses."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Die Bevölkerung von Labi besteht hauptsächlich aus den ethnischen Gruppen der Iban und Dusun.", "Ein Iban-Langhaus kann bis zu 20 Familien beherbergen.", "Der Wasai Teraja (Teraja-Wasserfall) ist eine beliebte Wanderdestination.", "Die Gegend ist bekannt für den Anbau von Adan-Reis, einer lokalen Spezialität.", "Das Labi Road ist die Hauptzufahrtsstraße, die sich etwa 40 km ins Landesinnere erstreckt.", "Die Labi Hills erreichen eine Höhe von etwa 400 Metern.", "Agrotourismus wird in dieser Gegend aktiv gefördert.", "Viele Bewohner praktizieren noch traditionelle Landwirtschaftsmethoden."] }, image: "/poi-images/labi-cities-v2.webp"},
   {
     id: "telisai-cities-v2",
     type: "city",
     parent: "BN-TU",
     coords: [114.5667, 4.7333],
-    name: { de: "Telisai", hu: "Telisai", ro: "Telisai", en: "Telisai" },
+    name: { de: "Telisai", hu: "Telisai", ro: "Telisai", en: "Telisai",
+image: "/poi-images/telisai-cities-v2.webp"
+},
     description: {
       de: "Ein Küstendorf im Distrikt Tutong, das für seine Telekommunikations-Erdfunkstelle bekannt ist.",
       hu: "Egy tengerparti falu a Tutong körzetben, amely távközlési földi állomásáról nevezetes.",
@@ -586,15 +627,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Egy kiemelkedő strandszakasszal rendelkezik.", "Fontos a műholdas kommunikáció szempontjából."],
       ro: ["Are o zonă de plajă proeminentă.", "Important pentru comunicațiile prin satelit."],
       en: ["Features a prominent beach area.", "Important for satellite communications."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Die Telisai-Satellitenstation wurde 1983 in Betrieb genommen.", "Sie verbindet Brunei mit dem Intelsat-Satellitensystem über dem Indischen Ozean.", "Die Telisai-Lumut-Autobahn ist 18,6 km lang.", "Die Autobahn war eines der größten Infrastrukturprojekte des Landes.", "Die Bevölkerung des Mukim Telisai beträgt etwa 10.000.", "Fischen ist eine übliche Aktivität entlang der Küste von Telisai.", "Der Name 'Telisai' könnte von einem lokalen Baum oder einer Pflanze stammen.", "Die Gegend liegt etwa auf halbem Weg zwischen Bandar Seri Begawan und Kuala Belait."] }, image: "/poi-images/telisai-cities-v2.webp"},
   {
     id: "kiudang-cities-v2",
     type: "city",
     parent: "BN-TU",
     coords: [114.7167, 4.7667],
-    name: { de: "Kiudang", hu: "Kiudang", ro: "Kiudang", en: "Kiudang" },
+    name: { de: "Kiudang", hu: "Kiudang", ro: "Kiudang", en: "Kiudang",
+image: "/poi-images/kiudang-cities-v2.webp"
+},
     description: {
       de: "Ein Dorf im Landesinneren von Tutong, das für seinen Kulturtourismus und traditionelle Produkte anerkannt ist.",
       hu: "Egy falu Tutong belsejében, amely kulturális turizmusáról és hagyományos termékeiről ismert.",
@@ -606,15 +648,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Díjnyertes falu a vidéki turizmus terén.", "Helyi gyógyteáiról ismert."],
       ro: ["Sat premiat pentru turismul rural.", "Cunoscut pentru ceaiurile din plante locale."],
       en: ["Award-winning village for rural tourism.", "Known for local herbal teas."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Gewinner des ASEAN Community-Based Tourism Award 2016-2017.", "Die Bevölkerung des Mukim Kiudang beträgt etwa 6.000.", "Die '3MP' Produkte beziehen sich auf die Hauptdörfer: Kampong Kiudang, Kampong Pad Nunok und Kampong Batang Mitus.", "Besucher können lernen, wie man 'Ambuyat', ein lokales Nationalgericht, herstellt.", "Das Dorf liegt am Fluss Kiudang.", "Es ist ein Beispiel für ein 'One Village One Product' (OVOP) Projekt in Brunei.", "Die Gemeinde ist überwiegend von den ethnischen Gruppen der Tutong und Dusun bewohnt.", "Der Wasai Bedanu Recreational Park ist eine nahegelegene Attraktion."] }, image: "/poi-images/kiudang-cities-v2.webp"},
   {
     id: "lamunin-cities-v2",
     type: "city",
     parent: "BN-TU",
     coords: [114.7167, 4.6833],
-    name: { de: "Lamunin", hu: "Lamunin", ro: "Lamunin", en: "Lamunin" },
+    name: { de: "Lamunin", hu: "Lamunin", ro: "Lamunin", en: "Lamunin",
+image: "/poi-images/lamunin-cities-v2.webp"
+},
     description: {
       de: "Eine friedliche ländliche Siedlung, die als lokaler Knotenpunkt für die umliegenden Dörfer im Landesinneren dient.",
       hu: "Egy békés vidéki település, amely helyi központként szolgál a környező belföldi falvak számára.",
@@ -626,15 +669,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Sűrű erdők veszik körül.", "Fontos helyi mezőgazdasági központ."],
       ro: ["Înconjurat de păduri dense.", "Important centru agricol local."],
       en: ["Surrounded by dense forests.", "Important local agricultural center."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Der Name Lamunin leitet sich möglicherweise vom Wort 'lamun', einer Art Seegras, ab.", "Die Bevölkerung des Mukim Lamunin beträgt etwa 4.000.", "Die Gegend ist bekannt für ihre Kautschukplantagen, die in der Kolonialzeit angelegt wurden.", "Es liegt an der Jalan Lamunin, die es mit der Hauptautobahn verbindet.", "Das Gebiet ist anfällig für Überschwemmungen während der Monsunzeit.", "Das alte Tutong-Distriktkrankenhaus wurde in den 1930er Jahren gebaut.", "Die meisten Bewohner sind in der Landwirtschaft oder im öffentlichen Sektor beschäftigt.", "Es gibt mehrere Grundschulen, die die lokale Gemeinschaft versorgen."] }, image: "/poi-images/lamunin-cities-v2.webp"},
   {
     id: "tanjong-maya-cities-v2",
     type: "city",
     parent: "BN-TU",
     coords: [114.6500, 4.7500],
-    name: { de: "Tanjong Maya", hu: "Tanjong Maya", ro: "Tanjong Maya", en: "Tanjong Maya" },
+    name: { de: "Tanjong Maya", hu: "Tanjong Maya", ro: "Tanjong Maya", en: "Tanjong Maya",
+image: "/poi-images/tanjong-maya-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Gemeinde in der Nähe des Flusses Tutong, die vom traditionellen bruneiischen Leben geprägt ist.",
       hu: "Egy kis közösség a Tutong folyó közelében, amelyet a hagyományos brunei életmód jellemez.",
@@ -646,15 +690,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["A körzeti főváros közelében található.", "Békés folyami kilátásáról ismert."],
       ro: ["Aproape de capitala districtului.", "Cunoscut pentru priveliștile sale senine asupra râului."],
       en: ["Close to the district capital.", "Known for its serene river views."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Die Bevölkerung des Mukim Tanjong Maya beträgt etwa 4.000.", "Der Name 'Tanjong Maya' bedeutet 'Illusionskap' oder 'Geisterkap'.", "Die Gegend ist bekannt für ihre traditionellen Stelzenhäuser entlang des Flusses.", "Die Landwirtschaft bleibt ein wichtiger Wirtschaftszweig für viele Familien.", "Die Tanjong Maya Secondary School wurde 1979 gegründet.", "Der Tutong-Fluss bietet eine Quelle für Nahrung und Transport.", "Das Gebiet besteht aus mehreren kleineren Dörfern (Kampongs).", "Es liegt nur wenige Kilometer von Pekan Tutong entfernt."] }, image: "/poi-images/tanjong-maya-cities-v2.webp"},
   {
     id: "ukong-cities-v2",
     type: "city",
     parent: "BN-TU",
     coords: [114.6333, 4.6000],
-    name: { de: "Ukong", hu: "Ukong", ro: "Ukong", en: "Ukong" },
+    name: { de: "Ukong", hu: "Ukong", ro: "Ukong", en: "Ukong",
+image: "/poi-images/ukong-cities-v2.webp"
+},
     description: {
       de: "Ein Dorf im Landesinneren in Tutong mit einer starken indigenen kulturellen Präsenz, hauptsächlich Dusun.",
       hu: "Egy belföldi falu Tutongban, ahol erős az őslakos, főleg Dusun kulturális jelenlét.",
@@ -666,15 +711,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["A kanyargós Tutong folyó mentén fekszik.", "Gazdag helyi folklórban."],
       ro: ["Situat de-a lungul râului Tutong care șerpuiește.", "Bogat în folclor local."],
       en: ["Located along the meandering Tutong River.", "Rich in local folklore."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Die Bevölkerung des Mukim Ukong ist eine der kleinsten in Brunei, mit etwa 2.000 Menschen.", "Die Dusun-Sprache wird hier noch weit verbreitet gesprochen.", "Das Dorf veranstaltet jährlich das 'Adau Gayoh', ein Erntefest der Dusun.", "Der Tutong-Fluss ist entscheidend für den Transport und den Lebensunterhalt.", "Traditionelles Handwerk wie Korbflechten wird noch praktiziert.", "Das Gebiet ist reich an Flora und Fauna, einschließlich verschiedener Vogelarten.", "Der Zugang war früher hauptsächlich per Boot möglich.", "Die Gegend ist bekannt für ihre mündlich überlieferten Geschichten und Legenden."] }, image: "/poi-images/ukong-cities-v2.webp"},
   {
     id: "labu-cities-v2",
     type: "city",
     parent: "BN-TE",
     coords: [115.1500, 4.7833],
-    name: { de: "Labu", hu: "Labu", ro: "Labu", en: "Labu" },
+    name: { de: "Labu", hu: "Labu", ro: "Labu", en: "Labu",
+image: "/poi-images/labu-cities-v2.webp"
+},
     description: {
       de: "Ein Dorf in der Nähe der dichten Mangrovenwälder des Distrikts Temburong.",
       hu: "Egy falu a Temburong körzet sűrű mangroveerdeje közelében.",
@@ -686,15 +732,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["A Labu Erdőrezervátumról ismert.", "Fontos a biológiai sokféleség megőrzése szempontjából."],
       ro: ["Cunoscut pentru Rezervația Forestieră Labu.", "Important pentru conservarea biodiversității."],
       en: ["Known for the Labu Forest Reserve.", "Important for biodiversity conservation."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Der Labu-Grenzübergang verbindet Temburong mit dem Limbang-Distrikt in Sarawak.", "Das Labu Forest Reserve erstreckt sich über etwa 3.486 Hektar.", "Die Mangrovenwälder sind ein wichtiger Lebensraum für Krebse, Fische und Vögel.", "Der Labu-Fluss mündet in die Brunei-Bucht.", "Die Bevölkerung des Mukim Labu ist relativ klein.", "Traditionelle Fischereimethoden werden in den Flüssen und Küstengewässern angewendet.", "Das Gebiet war historisch gesehen ein Zentrum für den Handel zwischen Brunei und den benachbarten Regionen.", "Es ist Teil des 'Heart of Borneo' Naturschutzkorridors."] }, image: "/poi-images/labu-cities-v2.webp"},
   {
     id: "batu-apoi-cities-v2",
     type: "city",
     parent: "BN-TE",
     coords: [115.1833, 4.6167],
-    name: { de: "Batu Apoi", hu: "Batu Apoi", ro: "Batu Apoi", en: "Batu Apoi" },
+    name: { de: "Batu Apoi", hu: "Batu Apoi", ro: "Batu Apoi", en: "Batu Apoi",
+image: "/poi-images/batu-apoi-cities-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Gebiet in Temburong, das als Tor zu den unberührten Regenwäldern.",
       hu: "Egy jelentős terület Temburongban, amely az érintetlen esőerdők kapujaként szolgál.",
@@ -706,15 +753,16 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["A Temburong folyó partján fekszik.", "Hozzáférést biztosít a nemzeti parkhoz."],
       ro: ["Situat pe malurile râului Temburong.", "Oferă acces la parcul național."],
       en: ["Located on the banks of the Temburong River.", "Provides access to the national park."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Batu Apoi bedeutet 'Feuerstein'.", "Es ist der Ausgangspunkt für Ausflüge in den Ulu Temburong Nationalpark.", "Der Nationalpark wurde 1991 gegründet und umfasst etwa 50.000 Hektar.", "Das Kuala Belalong Field Studies Centre wurde 1991 in Partnerschaft mit der Royal Geographical Society gegründet.", "Der Temburong-Fluss ist die Hauptverkehrsader durch das Gebiet.", "Die Bevölkerung des Mukim Batu Apoi ist sehr gering und besteht hauptsächlich aus Iban und Malaien.", "Der Canopy Walkway im Nationalpark erreicht eine Höhe von über 40 Metern.", "Die Region ist Teil des trilateralen 'Heart of Borneo'-Abkommens."] }, image: "/poi-images/batu-apoi-cities-v2.webp"},
   {
     id: "amo-cities-v2",
     type: "city",
     parent: "BN-TE",
     coords: [115.1167, 4.5833],
-    name: { de: "Amo", hu: "Amo", ro: "Amo", en: "Amo" },
+    name: { de: "Amo", hu: "Amo", ro: "Amo", en: "Amo",
+image: "/poi-images/amo-cities-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Dorf, das einen authentischen Einblick in die traditionelle Lebensweise der Ureinwohner bietet.",
       hu: "Egy távoli falu, amely hiteles bepillantást nyújt az őslakosok hagyományos életmódjába.",
@@ -726,7 +774,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       hu: ["Az Iban és a Murut közösségek otthona.", "Érintetlen dzsungel veszi körül."],
       ro: ["Găzduiește comunitățile Iban și Murut.", "Înconjurat de junglă neatinsă."],
       en: ["Home to the Iban and Murut communities.", "Surrounded by untouched jungle."]
-    }
-  ,
+    },
     factsAdvanced: { multi4: ["Amo ist das größte Mukim nach Fläche im Distrikt Temburong.", "Die Bevölkerungsdichte beträgt weniger als 1 Person pro Quadratkilometer.", "Es gibt mehrere Iban- und Murut-Langhäuser in der Gegend.", "Die Flüsse sind die Haupttransportwege.", "Das Gebiet hat keine asphaltierten Straßen, die es mit Bangar verbinden.", "Die Wirtschaft basiert auf Jagen, Fischen und Wanderfeldbau.", "Es ist ein Hotspot der Biodiversität mit vielen seltenen und endemischen Arten.", "Die Regierung hat das Gebiet als wichtig für den Naturschutz ausgewiesen."] }}
 ];

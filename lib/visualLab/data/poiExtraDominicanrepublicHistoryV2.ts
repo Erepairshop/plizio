@@ -7,7 +7,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-18",
     coords: [-71.0805, 19.8911],
-    name: { de: "Ruinen von La Isabela", hu: "La Isabela romjai", ro: "Ruinele La Isabela", en: "Ruins of La Isabela" },
+    name: { de: "Ruinen von La Isabela", hu: "La Isabela romjai", ro: "Ruinele La Isabela", en: "Ruins of La Isabela",
+image: "/poi-images/la-isabela-ruins-history-v2.webp"
+},
     description: {
       de: "Die erste formelle europäische Siedlung in der Neuen Welt, gegründet von Christoph Kolumbus.",
       hu: "Az első hivatalos európai település az Újvilágban, amelyet Kolumbusz Kristóf alapított.",
@@ -25,7 +27,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8858, 18.4736],
-    name: { de: "Ruinen des Klosters San Francisco", hu: "Szent Ferenc kolostor romjai", ro: "Ruinele Mănăstirii San Francisco", en: "Ruins of the San Francisco Monastery" },
+    name: { de: "Ruinen des Klosters San Francisco", hu: "Szent Ferenc kolostor romjai", ro: "Ruinele Mănăstirii San Francisco", en: "Ruins of the San Francisco Monastery",
+image: "/poi-images/monasterio-de-san-francisco-ruins-history-v2.webp"
+},
     description: {
       de: "Die Ruinen des ersten Klosters, das in Amerika gebaut wurde, in der Kolonialzone von Santo Domingo.",
       hu: "Az első Amerikában épült kolostor romjai Santo Domingo koloniális zónájában.",
@@ -43,7 +47,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8850, 18.4731],
-    name: { de: "Ruinen des Hospitals San Nicolás de Bari", hu: "Szent Miklós Kórház romjai", ro: "Ruinele Spitalului San Nicolás de Bari", en: "Ruins of the Hospital San Nicolás de Bari" },
+    name: { de: "Ruinen des Hospitals San Nicolás de Bari", hu: "Szent Miklós Kórház romjai", ro: "Ruinele Spitalului San Nicolás de Bari", en: "Ruins of the Hospital San Nicolás de Bari",
+image: "/poi-images/hospital-san-nicolas-de-bari-ruins-history-v2.webp"
+},
     description: {
       de: "Die Ruinen des ersten Krankenhauses, das in Amerika gebaut wurde.",
       hu: "Az első Amerikában épült kórház romjai.",
@@ -61,7 +67,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8841, 18.4725],
-    name: { de: "Kathedrale von Santo Domingo", hu: "Santo Domingo-i katedrális", ro: "Catedrala din Santo Domingo", en: "Cathedral of Santo Domingo" },
+    name: { de: "Kathedrale von Santo Domingo", hu: "Santo Domingo-i katedrális", ro: "Catedrala din Santo Domingo", en: "Cathedral of Santo Domingo",
+image: "/poi-images/catedral-primada-de-america-history-v2.webp"
+},
     description: {
       de: "Die erste Kathedrale, die in Amerika gebaut wurde, ein Meisterwerk der gotischen Architektur.",
       hu: "Az első Amerikában épült katedrális, a gótikus építészet remekműve.",
@@ -79,7 +87,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-32",
     coords: [-69.8669, 18.4794],
-    name: { de: "Leuchtturm des Kolumbus", hu: "Kolumbusz-világítótorony", ro: "Farul lui Columb", en: "Columbus Lighthouse" },
+    name: { de: "Leuchtturm des Kolumbus", hu: "Kolumbusz-világítótorony", ro: "Farul lui Columb", en: "Columbus Lighthouse",
+image: "/poi-images/faro-a-colon-history-v2.webp"
+},
     description: {
       de: "Ein massives, kreuzförmiges Denkmal und Mausoleum zu Ehren von Christoph Kolumbus.",
       hu: "Hatalmas, kereszt alakú emlékmű és mauzóleum Kolumbusz Kristóf tiszteletére.",
@@ -97,7 +107,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8926, 18.4716],
-    name: { de: "Puerta del Conde", hu: "Puerta del Conde", ro: "Poarta Contelui", en: "Puerta del Conde" },
+    name: { de: "Puerta del Conde", hu: "Puerta del Conde", ro: "Poarta Contelui", en: "Puerta del Conde",
+image: "/poi-images/puerta-del-conde-history-v2.webp"
+},
     description: {
       de: "Ein historisches Tor und Ort, an dem die dominikanische Unabhängigkeit ausgerufen wurde.",
       hu: "Történelmi kapu és a hely, ahol kikiáltották a dominikai függetlenséget.",
@@ -115,7 +127,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-13",
     coords: [-70.575, 19.293],
-    name: { de: "Ruinen von La Vega Vieja", hu: "La Vega Vieja romjai", ro: "Ruinele La Vega Vieja", en: "Ruins of La Vega Vieja" },
+    name: { de: "Ruinen von La Vega Vieja", hu: "La Vega Vieja romjai", ro: "Ruinele La Vega Vieja", en: "Ruins of La Vega Vieja",
+image: "/poi-images/la-vega-vieja-ruins-history-v2.webp"
+},
     description: {
       de: "Die archäologischen Überreste einer der ersten von Kolumbus gegründeten Städte, zerstört durch ein Erdbeben.",
       hu: "Az egyik első Kolumbusz által alapított város régészeti maradványai, amelyet egy földrengés pusztított el.",
@@ -134,7 +148,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-21",
     coords: [-70.081, 18.389],
-    name: { de: "Zuckermühle Boca de Nigua", hu: "Boca de Nigua cukormalom", ro: "Moara de zahăr Boca de Nigua", en: "Boca de Nigua Sugar Mill" },
+    name: { de: "Zuckermühle Boca de Nigua", hu: "Boca de Nigua cukormalom", ro: "Moara de zahăr Boca de Nigua", en: "Boca de Nigua Sugar Mill",
+image: "/poi-images/ingenio-boca-de-nigua-history-v2.webp"
+},
     description: {
       de: "Die Ruinen einer der wichtigsten kolonialen Zuckermühlen und Ort eines bedeutenden Sklavenaufstands.",
       hu: "Az egyik legfontosabb gyarmati cukormalom romjai és egy jelentős rabszolgafelkelés helyszíne.",
@@ -152,7 +168,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-13",
     coords: [-70.551, 19.262],
-    name: { de: "Heiligtum von Santo Cerro", hu: "Santo Cerro szentélye", ro: "Sanctuarul din Santo Cerro", en: "Sanctuary of Santo Cerro" },
+    name: { de: "Heiligtum von Santo Cerro", hu: "Santo Cerro szentélye", ro: "Sanctuarul din Santo Cerro", en: "Sanctuary of Santo Cerro",
+image: "/poi-images/battle-of-santo-cerro-history-v2.webp"
+},
     description: {
       de: "Ein religiöser Ort, der an eine legendäre Schlacht zwischen Spaniern und Taíno-Indianern erinnert.",
       hu: "Vallási hely, amely egy legendás csatára emlékezik a spanyolok és a taino indiánok között.",
@@ -170,7 +188,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8813, 18.4781],
-    name: { de: "Kirche Santa Bárbara", hu: "Szent Borbála-templom", ro: "Biserica Santa Bárbara", en: "Church of Santa Bárbara" },
+    name: { de: "Kirche Santa Bárbara", hu: "Szent Borbála-templom", ro: "Biserica Santa Bárbara", en: "Church of Santa Bárbara",
+image: "/poi-images/iglesia-de-santa-barbara-history-v2.webp"
+},
     description: {
       de: "Eine historische Kirche in der Kolonialzone, in der Juan Pablo Duarte getauft wurde.",
       hu: "Történelmi templom a koloniális zónában, ahol Juan Pablo Duartét keresztelték.",
@@ -188,7 +208,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8824, 18.4751],
-    name: { de: "Casa del Cordón", hu: "Casa del Cordón", ro: "Casa del Cordón", en: "Casa del Cordón" },
+    name: { de: "Casa del Cordón", hu: "Casa del Cordón", ro: "Casa del Cordón", en: "Casa del Cordón",
+image: "/poi-images/casa-del-cordon-history-v2.webp"
+},
     description: {
       de: "Gilt als das älteste erhaltene Steinhaus europäischer Bauart in Amerika.",
       hu: "Amerika legrégebbi fennmaradt európai stílusú kőházának tartják.",
@@ -206,7 +228,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8833, 18.4746],
-    name: { de: "Nationales Pantheon", hu: "Nemzeti Panteon", ro: "Panteonul Național", en: "National Pantheon" },
+    name: { de: "Nationales Pantheon", hu: "Nemzeti Panteon", ro: "Panteonul Național", en: "National Pantheon",
+image: "/poi-images/panteon-nacional-history-v2.webp"
+},
     description: {
       de: "Eine ehemalige Jesuitenkirche, die zum Mausoleum für die Nationalhelden des Landes umgewandelt wurde.",
       hu: "Egykori jezsuita templom, amelyet az ország nemzeti hőseinek mauzóleumává alakítottak át.",
@@ -224,7 +248,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8829, 18.4742],
-    name: { de: "Museum der Königlichen Häuser", hu: "Királyi Házak Múzeuma", ro: "Muzeul Caselor Regale", en: "Museum of the Royal Houses" },
+    name: { de: "Museum der Königlichen Häuser", hu: "Királyi Házak Múzeuma", ro: "Muzeul Caselor Regale", en: "Museum of the Royal Houses",
+image: "/poi-images/museo-de-las-casas-reales-history-v2.webp"
+},
     description: {
       de: "Ein Palast aus dem 16. Jahrhundert, der die Geschichte der Kolonialzeit dokumentiert.",
       hu: "Egy 16. századi palota, amely a gyarmati korszak történetét dokumentálja.",
@@ -242,7 +268,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.8863, 18.4713],
-    name: { de: "Dominikanerkloster", hu: "Dominikánus kolostor", ro: "Mănăstirea Dominicanilor", en: "Dominican Convent" },
+    name: { de: "Dominikanerkloster", hu: "Dominikánus kolostor", ro: "Mănăstirea Dominicanilor", en: "Dominican Convent",
+image: "/poi-images/convento-de-los-dominicos-history-v2.webp"
+},
     description: {
       de: "Eines der ältesten Gebäude in Santo Domingo und Standort der ersten Universität Amerikas.",
       hu: "Santo Domingo egyik legrégebbi épülete és Amerika első egyetemének helyszíne.",
@@ -260,7 +288,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-08",
     coords: [-69.136, 18.789],
-    name: { de: "Denkmal der Schlacht von Palo Hincado", hu: "Palo Hincado-i csata emlékműve", ro: "Monumentul Bătăliei de la Palo Hincado", en: "Monument of the Battle of Palo Hincado" },
+    name: { de: "Denkmal der Schlacht von Palo Hincado", hu: "Palo Hincado-i csata emlékműve", ro: "Monumentul Bătăliei de la Palo Hincado", en: "Monument of the Battle of Palo Hincado",
+image: "/poi-images/battle-of-palo-hincado-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal, das an eine entscheidende Schlacht im Kampf um die Rückeroberung von Santo Domingo von den Franzosen erinnert.",
       hu: "Egy emlékmű, amely egy döntő csatára emlékezik a franciáktól való Santo Domingo visszahódításáért folytatott harcban.",
@@ -278,7 +308,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-20",
     coords: [-69.328, 19.208],
-    name: { de: "Englischer Friedhof von Samaná", hu: "Samanái angol temető", ro: "Cimitirul Englez din Samaná", en: "Samaná's English Cemetery" },
+    name: { de: "Englischer Friedhof von Samaná", hu: "Samanái angol temető", ro: "Cimitirul Englez din Samaná", en: "Samaná's English Cemetery",
+image: "/poi-images/samanas-english-cemetery-history-v2.webp"
+},
     description: {
       de: "Ein historischer Friedhof auf einem Hügel mit Blick auf die Bucht, gegründet von befreiten amerikanischen Sklaven.",
       hu: "Történelmi temető egy dombon, kilátással az öbölre, amelyet felszabadított amerikai rabszolgák alapítottak.",
@@ -296,7 +328,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.885, 18.471],
-    name: { de: "Casa de Tostado", hu: "Tostado-ház", ro: "Casa de Tostado", en: "Tostado House" },
+    name: { de: "Casa de Tostado", hu: "Tostado-ház", ro: "Casa de Tostado", en: "Tostado House",
+image: "/poi-images/casa-de-tostado-history-v2.webp"
+},
     description: {
       de: "Ein Haus aus dem 16. Jahrhundert mit dem einzigen gotischen Zwillingsfenster in Amerika, heute ein Museum.",
       hu: "Egy 16. századi ház Amerikában egyetlen gótikus ikerablakkal, ma múzeum.",
@@ -314,7 +348,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.890, 18.469],
-    name: { de: "Tor der Barmherzigkeit", hu: "Az Irgalmasság Kapuja", ro: "Poarta Milostivirii", en: "Gate of Mercy" },
+    name: { de: "Tor der Barmherzigkeit", hu: "Az Irgalmasság Kapuja", ro: "Poarta Milostivirii", en: "Gate of Mercy",
+image: "/poi-images/puerta-de-la-misericordia-history-v2.webp"
+},
     description: {
       de: "Das erste Tor der Stadtmauer von Santo Domingo, wo der erste Schuss für die Unabhängigkeit abgefeuert wurde.",
       hu: "Santo Domingo városfalának első kapuja, ahol az első lövést leadták a függetlenségért.",
@@ -332,7 +368,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.882, 18.475],
-    name: { de: "Kapelle der Heilmittel", hu: "A Gyógyítások Kápolnája", ro: "Capela Leacurilor", en: "Chapel of the Remedies" },
+    name: { de: "Kapelle der Heilmittel", hu: "A Gyógyítások Kápolnája", ro: "Capela Leacurilor", en: "Chapel of the Remedies",
+image: "/poi-images/capilla-de-los-remedios-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten Kapellen der Kolonialzone, die ursprünglich als private Familienkapelle diente.",
       hu: "A gyarmati zóna egyik legrégebbi kápolnája, amely eredetileg magán családi kápolnaként szolgált.",
@@ -350,7 +388,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.884, 18.473],
-    name: { de: "Haus der Münze", hu: "Pénzverde", ro: "Casa Monedei", en: "House of the Mint" },
+    name: { de: "Haus der Münze", hu: "Pénzverde", ro: "Casa Monedei", en: "House of the Mint",
+image: "/poi-images/casa-de-la-moneda-history-v2.webp"
+},
     description: {
       de: "Das Gebäude, in dem die ersten Münzen Amerikas geprägt wurden.",
       hu: "Az épület, ahol Amerika első érméit verték.",
@@ -368,7 +408,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.883, 18.474],
-    name: { de: "Koloniale Sonnenuhr", hu: "Gyarmati napóra", ro: "Ceasul solar colonial", en: "Colonial Sundial" },
+    name: { de: "Koloniale Sonnenuhr", hu: "Gyarmati napóra", ro: "Ceasul solar colonial", en: "Colonial Sundial",
+image: "/poi-images/reloj-de-sol-colonial-history-v2.webp"
+},
     description: {
       de: "Eine Sonnenuhr aus dem 18. Jahrhundert vor dem Museum der Königlichen Häuser.",
       hu: "Egy 18. századi napóra a Királyi Házak Múzeuma előtt.",
@@ -386,7 +428,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-27",
     coords: [-70.700, 19.450],
-    name: { de: "Denkmal der Schlacht vom 30. März", hu: "Március 30-i csata emlékműve", ro: "Monumentul Bătăliei de la 30 Martie", en: "Monument to the Battle of March 30" },
+    name: { de: "Denkmal der Schlacht vom 30. März", hu: "Március 30-i csata emlékműve", ro: "Monumentul Bătăliei de la 30 Martie", en: "Monument to the Battle of March 30",
+image: "/poi-images/battle-of-30-de-marzo-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Santiago, das an einen wichtigen Sieg im dominikanischen Unabhängigkeitskrieg erinnert.",
       hu: "Egy emlékmű Santiagóban, amely a dominikai függetlenségi háború egy fontos győzelmére emlékezik.",
@@ -404,7 +448,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-18",
     coords: [-70.690, 19.799],
-    name: { de: "Viktorianische Häuser von Puerto Plata", hu: "Puerto Plata viktoriánus házai", ro: "Casele victoriene din Puerto Plata", en: "Victorian Houses of Puerto Plata" },
+    name: { de: "Viktorianische Häuser von Puerto Plata", hu: "Puerto Plata viktoriánus házai", ro: "Casele victoriene din Puerto Plata", en: "Victorian Houses of Puerto Plata",
+image: "/poi-images/puerto-plata-victorian-houses-history-v2.webp"
+},
     description: {
       de: "Das historische Zentrum von Puerto Plata ist bekannt für seine farbenfrohe viktorianische Architektur.",
       hu: "Puerto Plata történelmi központja híres a színes viktoriánus építészetéről.",
@@ -422,7 +468,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-27",
     coords: [-70.698, 19.455],
-    name: { de: "Kulturhaus von Santiago", hu: "Santiagói Kultúrház", ro: "Casa de Cultură din Santiago", en: "House of Culture of Santiago" },
+    name: { de: "Kulturhaus von Santiago", hu: "Santiagói Kultúrház", ro: "Casa de Cultură din Santiago", en: "House of Culture of Santiago",
+image: "/poi-images/casa-de-la-cultura-santiago-history-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude im Herzen von Santiago, das als wichtiges Kulturzentrum dient.",
       hu: "Történelmi épület Santiago szívében, amely fontos kulturális központként szolgál.",
@@ -440,7 +488,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-11",
     coords: [-68.709, 18.614],
-    name: { de: "Kirche San Dionisio in Higüey", hu: "Szent Dénes-templom Higüeyben", ro: "Biserica San Dionisio din Higüey", en: "Church of San Dionisio in Higüey" },
+    name: { de: "Kirche San Dionisio in Higüey", hu: "Szent Dénes-templom Higüeyben", ro: "Biserica San Dionisio din Higüey", en: "Church of San Dionisio in Higüey",
+image: "/poi-images/iglesia-san-dionisio-higuey-history-v2.webp"
+},
     description: {
       de: "Eine alte Kirche aus dem 16. Jahrhundert, die das ursprüngliche Heiligtum der Jungfrau von Altagracia war.",
       hu: "Egy régi, 16. századi templom, amely az Altagraciai Szűz eredeti szentélye volt.",
@@ -458,7 +508,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-20",
     coords: [-69.580, 19.045],
-    name: { de: "Taíno-Höhlen in Los Haitises", hu: "Taino-barlangok Los Haitisesben", ro: "Peșterile Taíno din Los Haitises", en: "Taíno Caves in Los Haitises" },
+    name: { de: "Taíno-Höhlen in Los Haitises", hu: "Taino-barlangok Los Haitisesben", ro: "Peșterile Taíno din Los Haitises", en: "Taíno Caves in Los Haitises",
+image: "/poi-images/taino-caves-los-haitises-history-v2.webp"
+},
     description: {
       de: "Ein Netzwerk von Höhlen mit präkolumbianischen Piktogrammen und Petroglyphen.",
       hu: "Barlanghálózat prekolumbián piktogramokkal és petroglifákkal.",
@@ -476,7 +528,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-12",
     coords: [-71.650, 18.525],
-    name: { de: "Die Gesichter der Indianer", hu: "Az indiánok arcai", ro: "Fețele indienilor", en: "The Faces of the Indians" },
+    name: { de: "Die Gesichter der Indianer", hu: "Az indiánok arcai", ro: "Fețele indienilor", en: "The Faces of the Indians",
+image: "/poi-images/las-caritas-de-los-indios-history-v2.webp"
+},
     description: {
       de: "Eine Felswand am Enriquillo-See mit in den Stein gehauenen Taíno-Gesichtern.",
       hu: "Sziklafal az Enriquillo-tónál, kőbe vésett taino arcokkal.",
@@ -494,7 +548,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-06",
     coords: [-70.200, 19.333],
-    name: { de: "Der Kakaoweg", hu: "A Kakaó Útja", ro: "Traseul Cacao", en: "The Cacao Trail" },
+    name: { de: "Der Kakaoweg", hu: "A Kakaó Útja", ro: "Traseul Cacao", en: "The Cacao Trail",
+image: "/poi-images/el-sendero-del-cacao-history-v2.webp"
+},
     description: {
       de: "Eine historische Kakaoplantage, die die Geschichte und den Prozess der Schokoladenherstellung zeigt.",
       hu: "Történelmi kakaóültetvény, amely bemutatja a csokoládégyártás történetét és folyamatát.",
@@ -512,7 +568,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.918, 18.479],
-    name: { de: "Nationalfriedhof Máximo Gómez", hu: "Máximo Gómez Nemzeti Temető", ro: "Cimitirul Național Máximo Gómez", en: "Máximo Gómez National Cemetery" },
+    name: { de: "Nationalfriedhof Máximo Gómez", hu: "Máximo Gómez Nemzeti Temető", ro: "Cimitirul Național Máximo Gómez", en: "Máximo Gómez National Cemetery",
+image: "/poi-images/cementerio-nacional-maximo-gomez-history-v2.webp"
+},
     description: {
       de: "Einer der wichtigsten Friedhöfe in Santo Domingo mit Gräbern vieler historischer Persönlichkeiten.",
       hu: "Santo Domingo egyik legfontosabb temetője, ahol számos történelmi személyiség sírja található.",
@@ -530,7 +588,9 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     type: "historical",
     parent: "DO-05",
     coords: [-69.910, 18.468],
-    name: { de: "Kulturplatz Juan Pablo Duarte", hu: "Juan Pablo Duarte Kultúrtér", ro: "Piața Culturii Juan Pablo Duarte", en: "Plaza de la Cultura Juan Pablo Duarte" },
+    name: { de: "Kulturplatz Juan Pablo Duarte", hu: "Juan Pablo Duarte Kultúrtér", ro: "Piața Culturii Juan Pablo Duarte", en: "Plaza de la Cultura Juan Pablo Duarte",
+image: "/poi-images/plaza-de-la-cultura-juan-pablo-duarte-history-v2.webp"
+},
     description: {
       de: "Ein Komplex in Santo Domingo, der mehrere wichtige nationale Museen und das Nationaltheater beherbergt.",
       hu: "Egy komplexum Santo Domingóban, amely több fontos nemzeti múzeumnak és a Nemzeti Színháznak ad otthont.",

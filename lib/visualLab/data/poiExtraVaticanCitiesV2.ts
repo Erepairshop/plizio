@@ -4,7 +4,9 @@ export const vaticanCitiesV2: POI[] = [
   {
     id: "vatican-st-peters-basilica-cities-v2",
     type: "cathedral",
-    name: { de: "Petersdom", hu: "Szent Péter-bazilika", ro: "Bazilica Sfântul Petru", en: "St. Peter's Basilica" },
+    name: { de: "Petersdom", hu: "Szent Péter-bazilika", ro: "Bazilica Sfântul Petru", en: "St. Peter's Basilica",
+image: "/poi-images/vatican-st-peters-basilica-cities-v2.webp"
+},
     coords: [12.4539, 41.9022],
     coordinates: { lat: 41.9022, lng: 12.4539 },
     description: {
@@ -19,11 +21,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Cea mai mare biserică", "Construită între 1506-1626", "Cupolă de Michelangelo", "Capacitate de 60.000 oameni"],
       en: ["World's largest church", "Built between 1506-1626", "Michelangelo designed dome", "Capacity of 60,000 people"],
     },
-    imageHint: "St. Peter's Basilica facade and dome", image: "/poi-images/vatican-st-peters-basilica-cities-v2.webp"},
-  {
+imageHint: "St. Peter's Basilica facade and dome",
+    descriptionAdvanced: {
+      de: "Die Peterskirche ist das Zentrum der Vatikanstadt und ein Meisterwerk der Renaissance. Sie wurde über dem Grab des Apostels Petrus errichtet und beherbergt Michelangelos Pietà.",
+      hu: "A Szent Péter-bazilika a világ egyik legnagyobb keresztény temploma és a reneszánsz építészet remekműve, amely az apostol sírja fölé épült Michelangelo és Bramante tervei alapján.",
+      ro: "Bazilica Sfântul Petru este cel mai important edificiu al Vaticanului, o capodoperă a Renașterii construită peste mormântul apostolului, adăpostind celebra sculptură Pietà a lui Michelangelo.",
+      en: "St. Peter's Basilica is a major Renaissance church and the center of Vatican City. Built over the tomb of the Apostle Peter, it features iconic works like Michelangelo's Pietà.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1506 bis 1626", "Maximale Innenlänge von 186 Metern", "Platz für etwa 20.000 Gläubige", "Über 100 Gräber in den Grotten"],
+      hu: ["1506 és 1626 között épült", "Belső hossza eléri a 186 métert", "Körülbelül 20 000 hívőt fogad be", "Több mint 100 sír az altemplomban"],
+      ro: ["Construită între anii 1506 și 1626", "Lungime interioară de 186 metri", "Capacitate de circa 20.000 persoane", "Peste 100 de morminte în necropolă"],
+      en: ["Built between 1506 and 1626", "Interior length of 186 meters", "Capacity for 20,000 worshippers", "Over 100 tombs in the grottoes"],
+    },
+    image: "/poi-images/vatican-st-peters-basilica-cities-v2.webp",
+},  {
     id: "vatican-st-peters-square-cities-v2",
     type: "landmark",
-    name: { de: "Petersplatz", hu: "Szent Péter tér", ro: "Piața Sfântul Petru", en: "St. Peter's Square" },
+    name: { de: "Petersplatz", hu: "Szent Péter tér", ro: "Piața Sfântul Petru", en: "St. Peter's Square",
+image: "/poi-images/vatican-st-peters-square-cities-v2.webp"
+},
     coords: [12.4573, 41.9021],
     coordinates: { lat: 41.9021, lng: 12.4573 },
     description: {
@@ -38,11 +55,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Proiectată de Bernini", "Obelisc egiptean central", "Capacitate 300.000 persoane", "284 coloane în colonadă"],
       en: ["Designed by Bernini", "Central Egyptian obelisk", "Capacity of 300,000 people", "284 columns in colonnades"],
     },
-    imageHint: "St. Peter's Square aerial view", image: "/poi-images/vatican-st-peters-square-cities-v2.webp"},
-  {
+imageHint: "St. Peter's Square aerial view",
+    descriptionAdvanced: {
+      de: "Der von Gian Lorenzo Bernini entworfene Petersplatz beeindruckt durch seine elliptische Form und die massiven Kolonnaden, die die Gläubigen symbolisch mit offenen Armen empfangen.",
+      hu: "A Bernini által tervezett Szent Péter tér elliptikus formájával és hatalmas oszlopsoraival nyűgözi le a látogatókat, szimbolikusan átölelve az egyházba érkező hívők tömegét.",
+      ro: "Piața Sfântul Petru, proiectată de Bernini, impresionează prin forma sa eliptică și coloanele masive care simbolizează brațele deschise ale bisericii primind credincioșii.",
+      en: "Designed by Bernini, St. Peter's Square features an elliptical layout with massive colonnades that symbolically welcome visitors into the embrace of the Catholic Church.",
+    },
+    factsAdvanced: {
+      de: ["Entworfen im Jahr 1656", "284 dorische Säulen in vier Reihen", "Zentraler Obelisk ist 25 Meter hoch", "140 Heiligenstatuen auf der Balustrade"],
+      hu: ["Bernini tervezte 1656-ban", "284 dór oszlop négy sorban", "A középső obeliszk 25 méter magas", "140 szent szobra áll a párkányon"],
+      ro: ["Proiectată în anul 1656", "284 de coloane dorice pe patru rânduri", "Obeliscul central are 25 metri înălțime", "140 de statui de sfinți pe balustradă"],
+      en: ["Designed in 1656 by Bernini", "284 Doric columns in four rows", "Central obelisk stands 25 meters tall", "140 statues of saints on the balustrade"],
+    },
+    image: "/poi-images/vatican-st-peters-square-cities-v2.webp",
+},  {
     id: "vatican-st-peters-dome-cities-v2",
     type: "tower",
-    name: { de: "Kuppel des Petersdoms", hu: "Szent Péter-bazilika kupolája", ro: "Cupola Bazilicii Sfântul Petru", en: "St. Peter's Dome" },
+    name: { de: "Kuppel des Petersdoms", hu: "Szent Péter-bazilika kupolája", ro: "Cupola Bazilicii Sfântul Petru", en: "St. Peter's Dome",
+image: "/poi-images/vatican-st-peters-dome-cities-v2.webp"
+},
     coords: [12.454, 41.9023],
     coordinates: { lat: 41.9023, lng: 12.454 },
     description: {
@@ -58,11 +90,25 @@ export const vaticanCitiesV2: POI[] = [
       en: ["Tallest dome in the world", "136.5 meters high", "551 steps to the top", "Inner diameter of 42.3 meters"],
     },
     imageHint: "View from the top of St. Peter's Dome",
+    descriptionAdvanced: {
+      de: "Die von Michelangelo entworfene Kuppel ist das Wahrzeichen Roms. Mit ihrer gewaltigen Höhe dominiert sie die Skyline und bietet einen spektakulären Blick auf den gesamten Vatikan.",
+      hu: "A Michelangelo által tervezett kupola Róma látképének meghatározó eleme. Hatalmas magasságával és szerkezetével az építészet történetének egyik legfontosabb alkotása.",
+      ro: "Cupola proiectată de Michelangelo este simbolul Romei. Cu o înălțime impunătoare, aceasta domină orizontul și oferă o vedere panoramică asupra întregului stat Vatican.",
+      en: "Michelangelo's dome is a masterpiece of engineering and the defining feature of the Roman skyline, offering breathtaking views over the Vatican and the city beyond.",
+    },
+    factsAdvanced: {
+      de: ["Gesamthöhe von 136,5 Metern", "Innendurchmesser von 42,3 Metern", "551 Stufen führen zur Laterne", "Fertigstellung durch Giacomo della Porta"],
+      hu: ["Teljes magassága 136,5 méter", "Belső átmérője 42,3 méter", "551 lépcsőfok vezet a tetejére", "Giacomo della Porta fejezte be"],
+      ro: ["Înălțime totală de 136,5 metri", "Diametru interior de 42,3 metri", "551 de trepte până la lanternă", "Finalizată de Giacomo della Porta"],
+      en: ["Total height of 136.5 meters", "Internal diameter of 42.3 meters", "551 steps lead to the lantern", "Completed by Giacomo della Porta"],
+    },
   },
   {
     id: "vatican-governatorato-palace-cities-v2",
     type: "palace",
-    name: { de: "Palazzo del Governatorato", hu: "Kormányzósági Palota", ro: "Palatul Guvernatoratului", en: "Governatorato Palace" },
+    name: { de: "Palazzo del Governatorato", hu: "Kormányzósági Palota", ro: "Palatul Guvernatoratului", en: "Governatorato Palace",
+image: "/poi-images/vatican-governatorato-palace-cities-v2.webp"
+},
     coords: [12.4515, 41.9025],
     coordinates: { lat: 41.9025, lng: 12.4515 },
     description: {
@@ -77,11 +123,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Sediul guvernului Vaticanului", "Construit între 1927-1931", "Arhitect Giuseppe Momo", "Vedere spre bazilică"],
       en: ["Government seat of Vatican", "Built 1927-1931", "Architect Giuseppe Momo", "Overlooks St. Peter's"],
     },
-    imageHint: "Governatorato Palace Vatican City", image: "/poi-images/vatican-governatorato-palace-cities-v2.webp"},
-  {
+imageHint: "Governatorato Palace Vatican City",
+    descriptionAdvanced: {
+      de: "Der Regierungspalast ist der Verwaltungssitz des Staates der Vatikanstadt. Das Gebäude liegt hinter dem Petersdom und beherbergt die zentralen Ämter der Exekutivgewalt.",
+      hu: "A Kormányzósági Palota a Vatikáni Városállam közigazgatási központja. A Szent Péter-bazilika mögött található épületben székelnek a végrehajtó hatalom hivatalai.",
+      ro: "Palatul Guvernatoratului este sediul administrativ al Statului Cetății Vaticanului. Situat în spatele bazilicii, clădirea adăpostește birourile puterii executive.",
+      en: "The Governatorato Palace serves as the administrative headquarters of Vatican City. Located behind St. Peter's, it houses the central offices of the executive power.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1927 und 1931", "Architekt war Giuseppe Momo", "Sitz der Päpstlichen Kommission", "Blick auf die vatikanischen Gärten"],
+      hu: ["1927 és 1931 között épült", "Giuseppe Momo volt az építésze", "A Pápai Bizottság székhelye", "Kilátás nyílik a Vatikáni Kertekre"],
+      ro: ["Construit între 1927 și 1931", "Arhitectul a fost Giuseppe Momo", "Sediul Comisiei Pontificale", "Vedere spre Grădinile Vaticanului"],
+      en: ["Built between 1927 and 1931", "Designed by architect Giuseppe Momo", "Seat of the Pontifical Commission", "Overlooks the Vatican Gardens"],
+    },
+    image: "/poi-images/vatican-governatorato-palace-cities-v2.webp",
+},  {
     id: "vatican-st-stephen-abyssinians-cities-v2",
     type: "church",
-    name: { de: "Santo Stefano degli Abissini", hu: "Szent István-templom (Abesszin)", ro: "Biserica Sfântul Ștefan al Abisinienilor", en: "Church of Santo Stefano degli Abissini" },
+    name: { de: "Santo Stefano degli Abissini", hu: "Szent István-templom (Abesszin)", ro: "Biserica Sfântul Ștefan al Abisinienilor", en: "Church of Santo Stefano degli Abissini",
+image: "/poi-images/vatican-st-stephen-abyssinians-cities-v2.webp"
+},
     coords: [12.4525, 41.902],
     coordinates: { lat: 41.902, lng: 12.4525 },
     description: {
@@ -96,11 +157,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Cea mai veche biserică", "Construită în secolul V", "Biserica națională etiopiană", "Restaurată în 1159 și 1706"],
       en: ["Oldest church in Vatican", "Dates to 5th century", "Ethiopian national church", "Restored in 1159 and 1706"],
     },
-    imageHint: "Santo Stefano degli Abissini facade", image: "/poi-images/vatican-st-stephen-abyssinians-cities-v2.webp"},
-  {
+imageHint: "Santo Stefano degli Abissini facade",
+    descriptionAdvanced: {
+      de: "Diese kleine Kirche ist eines der ältesten Gebäude im Vatikan. Sie wurde den äthiopischen Pilgern gewidmet und bewahrt trotz vieler Umbauten ihren mittelalterlichen Charme.",
+      hu: "Ez a kis templom a Vatikán egyik legrégebbi épülete. Az etióp zarándokoknak szentelték, és számos átépítés ellenére megőrizte középkori jellegét és intimitását.",
+      ro: "Această mică biserică este una dintre cele mai vechi clădiri din Vatican. Dedicată pelerinilor etiopieni, păstrează farmecul medieval în ciuda numeroaselor renovări.",
+      en: "This small church is one of the oldest structures in the Vatican. Dedicated to Ethiopian pilgrims, it retains its medieval character despite several reconstructions.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im 5. Jahrhundert", "Letzter Umbau im 18. Jahrhundert", "Sitz der äthiopischen Gemeinschaft", "Nahe der Rückseite des Petersdoms"],
+      hu: ["Az 5. században alapították", "Utolsó átalakítás a 18. században", "Az etióp közösség központja", "A Szent Péter-bazilika közelében"],
+      ro: ["Fondată în secolul al V-lea", "Ultima renovare în secolul XVIII", "Centru pentru comunitatea etiopiană", "Lângă partea din spate a bazilicii"],
+      en: ["Founded in the 5th century", "Last major renovation in the 1700s", "Hub for the Ethiopian community", "Located near the back of St. Peter's"],
+    },
+    image: "/poi-images/vatican-st-stephen-abyssinians-cities-v2.webp",
+},  {
     id: "vatican-ethiopian-college-cities-v2",
     type: "university",
-    name: { de: "Pontificio Collegio Etiopico", hu: "Pápai Etióp Kollégium", ro: "Colegiul Pontifical Etiopian", en: "Ethiopian College" },
+    name: { de: "Pontificio Collegio Etiopico", hu: "Pápai Etióp Kollégium", ro: "Colegiul Pontifical Etiopian", en: "Ethiopian College",
+image: "/poi-images/vatican-ethiopian-college-cities-v2.webp"
+},
     coords: [12.4495, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.4495 },
     description: {
@@ -115,11 +191,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Singura școală din Vatican", "Fondată în 1919", "Situată în grădini", "Seminariști etiopieni"],
       en: ["Only school inside Vatican", "Founded in 1919", "Located within the gardens", "For Ethiopian seminarians"],
     },
-    imageHint: "Pontifical Ethiopian College building", image: "/poi-images/vatican-ethiopian-college-cities-v2.webp"},
-  {
+imageHint: "Pontifical Ethiopian College building",
+    descriptionAdvanced: {
+      de: "Das Äthiopische Kolleg ist die einzige päpstliche Hochschule innerhalb der vatikanischen Mauern. Es dient der Ausbildung von Klerikern aus Äthiopien und Eritrea.",
+      hu: "Az Etióp Kollégium az egyetlen pápai oktatási intézmény a vatikáni falakon belül. Feladata az Etiópiából és Eritreából érkező papnövendékek képzése és lakhatása.",
+      ro: "Colegiul Etiopian este singura instituție de învățământ pontificală aflată în interiorul zidurilor Vaticanului, dedicată formării clerului din Etiopia și Eritreea.",
+      en: "The Ethiopian College is the only pontifical college located within the Vatican walls. It provides education and housing for clergy from Ethiopia and Eritrea.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1481", "Heutiges Gebäude von 1930", "Gelegen in den Vatikanischen Gärten", "Unterstützt den alexandrinischen Ritus"],
+      hu: ["1481-ben alapították", "A jelenlegi épület 1930-ból való", "A Vatikáni Kertekben található", "Az alexandriai rítust követi"],
+      ro: ["Fondat în anul 1481", "Clădirea actuală datează din 1930", "Situat în Grădinile Vaticanului", "Susține ritul alexandrin"],
+      en: ["Founded in 1481", "Current building dates to 1930", "Located within the Vatican Gardens", "Supports the Alexandrian Rite"],
+    },
+    image: "/poi-images/vatican-ethiopian-college-cities-v2.webp",
+},  {
     id: "vatican-tower-san-giovanni-cities-v2",
     type: "tower",
-    name: { de: "Torre San Giovanni", hu: "Szent János-torony", ro: "Turnul Sfântul Ioan", en: "Tower of San Giovanni" },
+    name: { de: "Torre San Giovanni", hu: "Szent János-torony", ro: "Turnul Sfântul Ioan", en: "Tower of San Giovanni",
+image: "/poi-images/vatican-tower-san-giovanni-cities-v2.webp"
+},
     coords: [12.4485, 41.9015],
     coordinates: { lat: 41.9015, lng: 12.4485 },
     description: {
@@ -134,11 +225,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Parte a zidului leonin", "Construit în secolul IX", "Reședință de vară papală", "Casă de oaspeți oficială"],
       en: ["Part of Leonine Wall", "Built in 9th century", "Papal summer residence", "Official guesthouse"],
     },
-    imageHint: "Tower of San Giovanni Vatican Gardens", image: "/poi-images/vatican-tower-san-giovanni-cities-v2.webp"},
-  {
+imageHint: "Tower of San Giovanni Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der Turm von San Giovanni ist Teil der leoninischen Stadtmauern. Er wurde im Mittelalter errichtet und dient heute oft als Privatresidenz für hochrangige Gäste des Papstes.",
+      hu: "A Szent János-torony a leoninusi falak része. A középkorban épült védelmi célokból, ma pedig gyakran a pápa kiemelt vendégeinek lakhelyéül szolgál a kertekben.",
+      ro: "Turnul San Giovanni face parte din zidurile leonine. Construit în perioada medievală, servește astăzi adesea ca reședință privată pentru oaspeții de rang înalt ai Papei.",
+      en: "The Tower of San Giovanni is part of the Leonine Walls. Built in the Middle Ages, it now often serves as a private residence for high-ranking guests of the Pope.",
+    },
+    factsAdvanced: {
+      de: ["Wiederaufbau durch Johannes XXIII.", "Teil der alten Verteidigungsanlage", "Ort diplomatischer Treffen", "Höchster Punkt der vatikanischen Mauern"],
+      hu: ["XXIII. János pápa állíttatta helyre", "A régi védelmi rendszer része", "Diplomáciai találkozók helyszíne", "A vatikáni falak legmagasabb pontja"],
+      ro: ["Restaurat de Papa Ioan al XXIII-lea", "Parte a vechii fortificații", "Loc pentru întâlniri diplomatice", "Punct înalt al zidurilor Vaticanului"],
+      en: ["Restored by Pope John XXIII", "Part of the ancient fortifications", "Venue for diplomatic meetings", "High point on the Vatican walls"],
+    },
+    image: "/poi-images/vatican-tower-san-giovanni-cities-v2.webp",
+},  {
     id: "vatican-railway-station-cities-v2",
     type: "landmark",
-    name: { de: "Vatikanischer Bahnhof", hu: "Vatikáni vasútállomás", ro: "Gara Vatican", en: "Vatican City Railway Station" },
+    name: { de: "Vatikanischer Bahnhof", hu: "Vatikáni vasútállomás", ro: "Gara Vatican", en: "Vatican City Railway Station",
+image: "/poi-images/vatican-railway-station-cities-v2.webp"
+},
     coords: [12.451, 41.901],
     coordinates: { lat: 41.901, lng: 12.451 },
     description: {
@@ -153,11 +259,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Cea mai mică rețea feroviară", "Deschisă în 1934", "Doar 300 metri de șine", "Clădire de recepție somptuoasă"],
       en: ["Smallest rail network", "Opened in 1934", "Only 300 meters of track", "Ornate station building"],
     },
-    imageHint: "Vatican City railway station building", image: "/poi-images/vatican-railway-station-cities-v2.webp"},
-  {
+imageHint: "Vatican City railway station building",
+    descriptionAdvanced: {
+      de: "Der Bahnhof der Vatikanstadt ist die kleinste nationale Bahnstation der Welt. Er wurde nach den Lateranverträgen gebaut, um den Zwergstaat an das italienische Schienennetz anzuschließen.",
+      hu: "A vatikáni vasútállomás a világ legkisebb nemzeti állomása. A lateráni egyezmény után épült, hogy összekösse a törpeállamot az olasz vasúti hálózattal.",
+      ro: "Gara Vaticanului este cea mai mică stație feroviară națională din lume. A fost construită după Pactul Lateran pentru a conecta statul la rețeaua feroviară italiană.",
+      en: "Vatican City Railway Station is the world's smallest national station. Built following the Lateran Treaty, it connects the microstate to the Italian rail network.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1934", "Gleislänge von etwa 300 Metern", "Erbaut aus weißem Marmor", "Wird heute meist für Güter genutzt"],
+      hu: ["1934-ben nyitották meg", "Körülbelül 300 méter vágányhossz", "Fehér márványból épült", "Ma főleg áruszállításra használják"],
+      ro: ["Deschisă în anul 1934", "Lungimea liniei este de 300 metri", "Construită din marmură albă", "Folosită azi mai mult pentru marfă"],
+      en: ["Opened in 1934", "Track length is about 300 meters", "Constructed from white marble", "Mostly used for freight today"],
+    },
+    image: "/poi-images/vatican-railway-station-cities-v2.webp",
+},  {
     id: "vatican-heliport-cities-v2",
     type: "landmark",
-    name: { de: "Vatikanischer Hubschrauberlandeplatz", hu: "Vatikáni heliport", ro: "Heliportul Vatican", en: "Vatican City Heliport" },
+    name: { de: "Vatikanischer Hubschrauberlandeplatz", hu: "Vatikáni heliport", ro: "Heliportul Vatican", en: "Vatican City Heliport",
+image: "/poi-images/vatican-heliport-cities-v2.webp"
+},
     coords: [12.4465, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.4465 },
     description: {
@@ -173,11 +294,25 @@ export const vaticanCitiesV2: POI[] = [
       en: ["Westernmost point", "Opened in 1976", "Used for papal travel", "Official state heliport"],
     },
     imageHint: "Vatican City heliport aerial",
+    descriptionAdvanced: {
+      de: "Der vatikanische Hubschrauberlandeplatz befindet sich im westlichsten Teil der Gärten. Er ermöglicht dem Papst schnelle Reisen zu Flughäfen oder zu seiner Sommerresidenz Castel Gandolfo.",
+      hu: "A vatikáni helikopter-leszálló a kertek legnyugatibb részén található. Lehetővé teszi a pápa gyors utazását repülőterekre vagy a Castel Gandolfo-i nyári rezidenciára.",
+      ro: "Heliportul Vaticanului este situat în extremitatea vestică a grădinilor. Acesta permite Papei deplasări rapide către aeroporturi sau reședința de vară Castel Gandolfo.",
+      en: "The Vatican City Heliport is located in the westernmost part of the gardens. it allows the Pope to travel quickly to airports or to the Castel Gandolfo summer residence.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut unter Paul VI. im Jahr 1976", "Bronze-Statue der Madonna vor Ort", "Wird von der Luftwaffe überwacht", "Einziger Flugplatz des Staates"],
+      hu: ["VI. Pál építtette 1976-ban", "Egy Madonna-szobor áll mellette", "A légierő felügyeli a forgalmat", "Az állam egyetlen repülőtere"],
+      ro: ["Construit de Paul VI în 1976", "Statuie de bronz a Madonei lângă", "Monitorizat de forțele aeriene", "Singurul aerodrom al statului"],
+      en: ["Built under Paul VI in 1976", "Features a bronze Madonna statue", "Monitored by air force personnel", "Only airfield in the city-state"],
+    },
   },
   {
     id: "vatican-pinacoteca-vaticana-cities-v2",
     type: "museum",
-    name: { de: "Vatikanische Pinakothek", hu: "Vatikáni Képtár", ro: "Pinacoteca Vaticană", en: "Vatican Pinacoteca" },
+    name: { de: "Vatikanische Pinakothek", hu: "Vatikáni Képtár", ro: "Pinacoteca Vaticană", en: "Vatican Pinacoteca",
+image: "/poi-images/vatican-pinacoteca-vaticana-cities-v2.webp"
+},
     coords: [12.4545, 41.9055],
     coordinates: { lat: 41.9055, lng: 12.4545 },
     description: {
@@ -192,11 +327,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["18 săli de pictură", "Lucrări de Rafael", "Fondată în 1932", "Colecția picturală papală"],
       en: ["18 rooms of paintings", "Works by Raphael", "Founded in 1932", "Papal painting collection"],
     },
-    imageHint: "Pinacoteca Vaticana gallery hall", image: "/poi-images/vatican-pinacoteca-vaticana-cities-v2.webp"},
-  {
+imageHint: "Pinacoteca Vaticana gallery hall",
+    descriptionAdvanced: {
+      de: "Die Vatikanische Pinakothek beherbergt eine der bedeutendsten Gemäldesammlungen der Welt, mit Meisterwerken von Raffael, Leonardo da Vinci und Caravaggio in chronologischer Ordnung.",
+      hu: "A Vatikáni Képtár a világ egyik legjelentősebb festészeti gyűjteményének ad otthont, Raffaello, Leonardo da Vinci és Caravaggio remekműveivel, időrendi sorrendben.",
+      ro: "Pinacoteca Vaticană găzduiește una dintre cele mai importante colecții de pictură din lume, cu capodopere de Rafael, Leonardo și Caravaggio expuse cronologic.",
+      en: "The Vatican Pinacoteca houses one of the world's most significant painting collections, featuring masterpieces by Raphael, Leonardo da Vinci, and Caravaggio.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht im Jahr 1932", "Enthält 18 Säle mit Kunst", "Raffaels Verklärung ist hier", "Erbaut vom Architekten Luca Beltrami"],
+      hu: ["1932-ben avatták fel", "18 teremnyi műalkotást tartalmaz", "Itt látható Raffaello Krisztus színeváltozása", "Luca Beltrami tervezte az épületet"],
+      ro: ["Inaugurată în anul 1932", "Conține 18 săli de expoziție", "Adăpostește Schimbarea la Față a lui Rafael", "Proiectată de arhitectul Luca Beltrami"],
+      en: ["Inaugurated in 1932", "Contains 18 rooms of art", "Features Raphael's Transfiguration", "Designed by architect Luca Beltrami"],
+    },
+    image: "/poi-images/vatican-pinacoteca-vaticana-cities-v2.webp",
+},  {
     id: "vatican-gregorian-etruscan-museum-cities-v2",
     type: "museum",
-    name: { de: "Gregorianisch-Etruskisches Museum", hu: "Gregorián Etruszk Múzeum", ro: "Muzeul Gregorian Etrusc", en: "Gregorian Etruscan Museum" },
+    name: { de: "Gregorianisch-Etruskisches Museum", hu: "Gregorián Etruszk Múzeum", ro: "Muzeul Gregorian Etrusc", en: "Gregorian Etruscan Museum",
+image: "/poi-images/vatican-gregorian-etruscan-museum-cities-v2.webp"
+},
     coords: [12.4535, 41.906],
     coordinates: { lat: 41.906, lng: 12.4535 },
     description: {
@@ -211,11 +361,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Fondat în 1837", "Colecție de vase etrusce", "Artefacte din morminte", "Bijuterii antice"],
       en: ["Founded in 1837", "Etruscan vases", "Grave goods from Regolini", "Ancient gold jewelry"],
     },
-    imageHint: "Etruscan pottery Vatican Museum", image: "/poi-images/vatican-gregorian-etruscan-museum-cities-v2.webp"},
-  {
+imageHint: "Etruscan pottery Vatican Museum",
+    descriptionAdvanced: {
+      de: "Dieses Museum widmet sich den antiken Funden aus dem etruskischen Italien. Die Sammlung umfasst wertvolle Keramiken, Bronzen und Goldschmuck aus Ausgrabungen im ehemaligen Kirchenstaat.",
+      hu: "Ez a múzeum az etruszk Itália ókori leleteinek szentelt. A gyűjtemény értékes kerámiákat, bronzokat és aranyékszereket tartalmaz az egykori Pápai Állam területéről.",
+      ro: "Acest muzeu este dedicat descoperirilor antice din Italia etruscă. Colecția cuprinde ceramică valoroasă, bronzuri și bijuterii din aur provenite din fostul Stat Papal.",
+      en: "This museum is dedicated to ancient artifacts from Etruscan Italy. The collection includes precious ceramics, bronzes, and gold jewelry found in former Papal territories.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1837 von Gregor XVI.", "Bekannt für die Mars-Statue von Todi", "Umfasst Funde aus dem 9. Jh. v. Chr.", "Teil der Vatikanischen Museen"],
+      hu: ["XVI. Gergely alapította 1837-ben", "Híres a todi Mars-szoborról", "Kr. e. 9. századi leleteket is őriz", "A Vatikáni Múzeumok része"],
+      ro: ["Fondat în 1837 de Grigore al XVI-lea", "Celebru pentru statuia Marte din Todi", "Include vestigii din sec. IX î.Hr.", "Parte a Muzeelor Vaticane"],
+      en: ["Founded in 1837 by Gregory XVI", "Famous for the Mars of Todi statue", "Items date back to the 9th century BC", "A section of the Vatican Museums"],
+    },
+    image: "/poi-images/vatican-gregorian-etruscan-museum-cities-v2.webp",
+},  {
     id: "vatican-missionary-museum-cities-v2",
     type: "museum",
-    name: { de: "Missions- und Ethnologisches Museum", hu: "Missziós és Néprajzi Múzeum", ro: "Muzeul Misionar-Etnologic", en: "Missionary-Ethnological Museum" },
+    name: { de: "Missions- und Ethnologisches Museum", hu: "Missziós és Néprajzi Múzeum", ro: "Muzeul Misionar-Etnologic", en: "Missionary-Ethnological Museum",
+image: "/poi-images/vatican-missionary-museum-cities-v2.webp"
+},
     coords: [12.454, 41.907],
     coordinates: { lat: 41.907, lng: 12.454 },
     description: {
@@ -230,11 +395,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Acum numit 'Anima Mundi'", "Obiecte de artă globală", "Fondat în 1926", "Piese etnologice"],
       en: ["Now 'Anima Mundi'", "Global artworks", "Founded in 1926", "Ethnological exhibits"],
     },
-    imageHint: "Ethnological artifacts Vatican Museum", image: "/poi-images/vatican-missionary-museum-cities-v2.webp"},
-  {
+imageHint: "Ethnological artifacts Vatican Museum",
+    descriptionAdvanced: {
+      de: "Das Missionarisch-Ethnologische Museum zeigt die kulturelle Vielfalt der Welt durch Objekte, die Missionare aus Amerika, Asien und Afrika nach Rom geschickt haben.",
+      hu: "A Missziós-Etnológiai Múzeum a világ kulturális sokszínűségét mutatja be azokon a tárgyakon keresztül, amelyeket a misszionáriusok küldtek Amerikából, Ázsiából és Afrikából.",
+      ro: "Muzeul Misionar-Etnologic prezintă diversitatea culturală a lumii prin obiecte trimise de misionari din America, Asia și Africa la Roma de-a lungul secolelor.",
+      en: "The Missionary-Ethnological Museum showcases global cultural diversity through objects sent to Rome by missionaries from the Americas, Asia, and Africa.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1926", "Über 80.000 Exponate im Bestand", "Umzug in den Vatikan im Jahr 1970", "Fokus auf indigene Kunstformen"],
+      hu: ["1926-ban alapították", "Több mint 80 000 kiállítási tárgy", "1970-ben költözött a Vatikánba", "Az őshonos művészetre összpontosít"],
+      ro: ["Fondat în anul 1926", "Peste 80.000 de piese în colecție", "Mutat în Vatican în anul 1970", "Focus pe formele de artă indigene"],
+      en: ["Founded in 1926", "Over 80,000 items in the collection", "Moved to the Vatican in 1970", "Focuses on indigenous art forms"],
+    },
+    image: "/poi-images/vatican-missionary-museum-cities-v2.webp",
+},  {
     id: "vatican-pio-clementine-museum-cities-v2",
     type: "museum",
-    name: { de: "Museum Pio-Clementino", hu: "Pio-Clementino Múzeum", ro: "Muzeul Pio-Clementino", en: "Pio-Clementine Museum" },
+    name: { de: "Museum Pio-Clementino", hu: "Pio-Clementino Múzeum", ro: "Muzeul Pio-Clementino", en: "Pio-Clementine Museum",
+image: "/poi-images/vatican-pio-clementine-museum-cities-v2.webp"
+},
     coords: [12.4533, 41.9068],
     coordinates: { lat: 41.9068, lng: 12.4533 },
     description: {
@@ -249,11 +429,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Grupul statuar Laocoon", "Sculpturi antice", "Fondat în 1771", "Curte octogonală"],
       en: ["Laocoön sculpture", "Ancient sculptures", "Founded in 1771", "Octagonal courtyard"],
     },
-    imageHint: "Laocoön sculpture Vatican Museum", image: "/poi-images/vatican-pio-clementine-museum-cities-v2.webp"},
-  {
+imageHint: "Laocoön sculpture Vatican Museum",
+    descriptionAdvanced: {
+      de: "Das Museo Pio-Clementino ist berühmt für seine Sammlung antiker griechischer und römischer Skulpturen, darunter weltbekannte Werke wie die Laokoon-Gruppe und der Apoll von Belvedere.",
+      hu: "A Pio-Clementine Múzeum híres az ókori görög és római szobrok gyűjteményéről, olyan világhírű alkotásokkal, mint a Laokoón-csoport és a Belvedere-i Apollón.",
+      ro: "Muzeul Pio-Clementine este renumit pentru colecția sa de sculpturi antice grecești și romane, inclusiv grupuri celebre precum Laocoon și Apollo Belvedere.",
+      en: "The Pio-Clementine Museum is world-renowned for its collection of ancient Greek and Roman sculptures, including the Laocoön and the Apollo Belvedere.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet Ende des 18. Jahrhunderts", "Besteht aus 16 Ausstellungsräumen", "Beherbergt den Belvedere-Torso", "Zentraler Hof ist das Oktogon"],
+      hu: ["A 18. század végén alapították", "16 kiállítóteremből áll", "Itt található a Belvedere-torzó", "Központi része a Nyolcszögletű udvar"],
+      ro: ["Fondat la sfârșitul sec. XVIII", "Cuprinde 16 săli de expoziție", "Adăpostește Torosul Belvedere", "Curtea centrală este Octogonul"],
+      en: ["Founded in the late 18th century", "Comprises 16 exhibition rooms", "Houses the famous Belvedere Torso", "The Octagonal Court is its centerpiece"],
+    },
+    image: "/poi-images/vatican-pio-clementine-museum-cities-v2.webp",
+},  {
     id: "vatican-chiaramonti-museum-cities-v2",
     type: "museum",
-    name: { de: "Museum Chiaramonti", hu: "Chiaramonti Múzeum", ro: "Muzeul Chiaramonti", en: "Chiaramonti Museum" },
+    name: { de: "Museum Chiaramonti", hu: "Chiaramonti Múzeum", ro: "Muzeul Chiaramonti", en: "Chiaramonti Museum",
+image: "/poi-images/vatican-chiaramonti-museum-cities-v2.webp"
+},
     coords: [12.4538, 41.9062],
     coordinates: { lat: 41.9062, lng: 12.4538 },
     description: {
@@ -268,11 +463,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Sute de busturi romane", "Proiectat de Canova", "Galerie lungă", "Portrete clasice"],
       en: ["Hundreds of Roman busts", "Designed by Canova", "Long gallery", "Classical portrait art"],
     },
-    imageHint: "Chiaramonti Museum gallery busts", image: "/poi-images/vatican-chiaramonti-museum-cities-v2.webp"},
-  {
+imageHint: "Chiaramonti Museum gallery busts",
+    descriptionAdvanced: {
+      de: "Das Museum Chiaramonti verbindet den Belvedere-Palast mit den Vatikanischen Museen und zeigt tausende römische Büsten und Porträts in einer beeindruckenden Galerie.",
+      hu: "A Chiaramonti Múzeum a Belvedere-palotát köti össze a Vatikáni Múzeumokkal, és több ezer római mellszobrot és portrét mutat be egy lenyűgöző galériában.",
+      ro: "Muzeul Chiaramonti leagă Palatul Belvedere de Muzeele Vaticane, expunând mii de busturi și portrete romane într-o galerie impresionantă de sculptură.",
+      en: "The Chiaramonti Museum connects the Belvedere Palace to the Vatican Museums, displaying thousands of Roman busts and portraits in a grand sculptural gallery.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet durch Papst Pius VII.", "Gestaltet vom Bildhauer Canova", "Über 1.000 antike Skulpturen", "Umfasst die 'Braccio Nuovo' Galerie"],
+      hu: ["VII. Pius pápa alapította", "Canova szobrász alakította ki", "Több mint 1000 antik szobor", "Magában foglalja az Új Szárnyat"],
+      ro: ["Fondat de Papa Pius al VII-lea", "Amenajat de sculptorul Canova", "Peste 1.000 de sculpturi antice", "Include galeria 'Braccio Nuovo'"],
+      en: ["Founded by Pope Pius VII", "Arranged by sculptor Antonio Canova", "Over 1,000 ancient sculptures", "Includes the New Wing (Braccio Nuovo)"],
+    },
+    image: "/poi-images/vatican-chiaramonti-museum-cities-v2.webp",
+},  {
     id: "vatican-gallery-of-maps-cities-v2",
     type: "museum",
-    name: { de: "Galerie der Landkarten", hu: "Térképek galériája", ro: "Galeria Hărților", en: "Gallery of Maps" },
+    name: { de: "Galerie der Landkarten", hu: "Térképek galériája", ro: "Galeria Hărților", en: "Gallery of Maps",
+image: "/poi-images/vatican-gallery-of-maps-cities-v2.webp"
+},
     coords: [12.4538, 41.905],
     coordinates: { lat: 41.905, lng: 12.4538 },
     description: {
@@ -287,11 +497,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Coridor de 120 metri", "Hărți ale Italiei", "Construit în 1580-1583", "Tavan aurit"],
       en: ["120-meter long corridor", "Maps of Italy", "Built 1580-1583", "Golden ceiling"],
     },
-    imageHint: "Gallery of Maps Vatican Museum interior", image: "/poi-images/vatican-gallery-of-maps-cities-v2.webp"},
-  {
+imageHint: "Gallery of Maps Vatican Museum interior",
+    descriptionAdvanced: {
+      de: "Diese prächtige Galerie zeigt riesige Fresken mit topografischen Karten von Italien, wie es im 16. Jahrhundert gesehen wurde, ergänzt durch eine kunstvoll verzierte Golddecke.",
+      hu: "Ez a pompás galéria hatalmas freskókon mutatja be Itália topográfiai térképeit a 16. századi szemlélet szerint, egy gazdagon díszített arany mennyezettel kiegészítve.",
+      ro: "Această galerie magnifică prezintă fresce uriașe cu hărți topografice ale Italiei din secolul al XVI-lea, completate de un plafon aurit spectaculos.",
+      en: "This magnificent gallery features large frescoes of topographical maps of Italy as perceived in the 16th century, topped by an intricately decorated gold ceiling.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Galerie: 120 Meter", "Insgesamt 40 bemalte Karten", "Erschaffen zwischen 1580 und 1583", "Idee von Papst Gregor XIII."],
+      hu: ["A galéria hossza 120 méter", "Összesen 40 festett térkép látható", "1580 és 1583 között készült", "XIII. Gergely pápa rendelte meg"],
+      ro: ["Lungimea galeriei: 120 metri", "Un total de 40 de hărți pictate", "Creată între 1580 și 1583", "Inițiativa Papei Grigore XIII"],
+      en: ["Gallery length: 120 meters", "Total of 40 painted map panels", "Created between 1580 and 1583", "Commissioned by Pope Gregory XIII"],
+    },
+    image: "/poi-images/vatican-gallery-of-maps-cities-v2.webp",
+},  {
     id: "vatican-pinecone-courtyard-cities-v2",
     type: "landmark",
-    name: { de: "Cortile della Pigna", hu: "Fenyőtoboz-udvar", ro: "Curtea Pinului", en: "Pinecone Courtyard" },
+    name: { de: "Cortile della Pigna", hu: "Fenyőtoboz-udvar", ro: "Curtea Pinului", en: "Pinecone Courtyard",
+image: "/poi-images/vatican-pinecone-courtyard-cities-v2.webp"
+},
     coords: [12.4542, 41.9065],
     coordinates: { lat: 41.9065, lng: 12.4542 },
     description: {
@@ -306,11 +531,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Con de pin antic", "Sculptură de Pomodoro", "Parte a muzeelor", "Pigna de 4 metri"],
       en: ["Ancient bronze pinecone", "Pomodoro sculpture", "Part of the Museums", "4-meter high pinecone"],
     },
-    imageHint: "Sphere within Sphere sculpture Vatican", image: "/poi-images/vatican-pinecone-courtyard-cities-v2.webp"},
-  {
+imageHint: "Sphere within Sphere sculpture Vatican",
+    descriptionAdvanced: {
+      de: "Der Pinienhof ist ein großer offener Bereich der Vatikanischen Museen, benannt nach einer antiken römischen Bronze-Pinie, die einst als Brunnen in der Nähe des Pantheons diente.",
+      hu: "A Toboz-udvar a Vatikáni Múzeumok nagy nyitott tere, amely egy ókori római bronz fenyőtobozról kapta a nevét; ez egykor szökőkútként szolgált a Pantheon közelében.",
+      ro: "Curtea Conului de Pin este un spațiu deschis vast al Muzeelor Vaticane, numit după un con de pin antic din bronz care servea drept fântână lângă Pantheon.",
+      en: "The Pinecone Courtyard is a large open space in the Vatican Museums, named after an ancient Roman bronze pinecone that once served as a fountain near the Pantheon.",
+    },
+    factsAdvanced: {
+      de: ["Bronze-Pinie ist 4 Meter hoch", "Zentrale Kugel-Skulptur von Arnaldo Pomodoro", "Gehört zum Belvedere-Komplex", "Flankiert von zwei Pfauen-Statuen"],
+      hu: ["A bronz toboz 4 méter magas", "Arnaldo Pomodoro modern gömbszobra", "A Belvedere-komplexum része", "Két bronz páva szobra szegélyezi"],
+      ro: ["Conul de bronz are 4 metri", "Sculptură sferică de Arnaldo Pomodoro", "Parte a complexului Belvedere", "Flancat de două statui cu păuni"],
+      en: ["Bronze pinecone is 4 meters tall", "Features Arnaldo Pomodoro's Sphere", "Part of the Belvedere complex", "Flanked by two bronze peacocks"],
+    },
+    image: "/poi-images/vatican-pinecone-courtyard-cities-v2.webp",
+},  {
     id: "vatican-leonine-walls-cities-v2",
     type: "monument",
-    name: { de: "Leoninische Mauer", hu: "Leoninus-fal", ro: "Zidurile Leonine", en: "Leonine Walls" },
+    name: { de: "Leoninische Mauer", hu: "Leoninus-fal", ro: "Zidurile Leonine", en: "Leonine Walls",
+image: "/poi-images/vatican-leonine-walls-cities-v2.webp"
+},
     coords: [12.4475, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.4475 },
     description: {
@@ -325,11 +565,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Construite în secolul IX", "Protecție contra sarazinilor", "Granița Vaticanului", "Papa Leon al IV-lea"],
       en: ["Built in 9th century", "Protection against Saracens", "Border of the Vatican", "Pope Leo IV"],
     },
-    imageHint: "Leonine Walls Vatican City", image: "/poi-images/vatican-leonine-walls-cities-v2.webp"},
-  {
+imageHint: "Leonine Walls Vatican City",
+    descriptionAdvanced: {
+      de: "Die Leoninischen Mauern wurden im 9. Jahrhundert zum Schutz des Vatikans vor Angriffen errichtet. Sie bilden die historische Grenze der 'Leoninischen Stadt' rund um St. Peter.",
+      hu: "A leoninusi falakat a 9. században építették, hogy megvédjék a Vatikánt a támadásoktól. Ezek alkotják a Szent Péter körüli 'Leoninus-város' történelmi határát.",
+      ro: "Zidurile Leonine au fost construite în secolul IX pentru a proteja Vaticanul de atacuri. Ele formează granița istorică a orașului leonin din jurul bazilicii.",
+      en: "The Leonine Walls were built in the 9th century to protect the Vatican from raids. They define the historic boundary of the Leonine City surrounding St. Peter's.",
+    },
+    factsAdvanced: {
+      de: ["Bau unter Papst Leo IV.", "Länge von über 3 Kilometern", "Schutz gegen sarazenische Piraten", "Teile sind noch heute sichtbar"],
+      hu: ["IV. Leó pápa építtette", "Hossza meghaladta a 3 kilométert", "A szaracén kalózok ellen emelték", "Részei ma is láthatóak a kertekben"],
+      ro: ["Construite sub Papa Leon al IV-lea", "Lungime de peste 3 kilometri", "Protecție contra atacurilor sarazinilor", "Porțiuni sunt încă vizibile azi"],
+      en: ["Built under Pope Leo IV", "Originally over 3 kilometers long", "Defended against Saracen raids", "Portions remain visible today"],
+    },
+    image: "/poi-images/vatican-leonine-walls-cities-v2.webp",
+},  {
     id: "vatican-domus-sanctae-marthae-cities-v2",
     type: "palace",
-    name: { de: "Domus Sanctae Marthae", hu: "Szent Márta-ház", ro: "Domus Sanctae Marthae", en: "Domus Sanctae Marthae" },
+    name: { de: "Domus Sanctae Marthae", hu: "Szent Márta-ház", ro: "Domus Sanctae Marthae", en: "Domus Sanctae Marthae",
+image: "/poi-images/vatican-domus-sanctae-marthae-cities-v2.webp"
+},
     coords: [12.455, 41.9015],
     coordinates: { lat: 41.9015, lng: 12.455 },
     description: {
@@ -344,12 +599,27 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Reședința Papei Francisc", "Locuință pentru cardinali", "Construită în 1996", "Casă de oaspeți papală"],
       en: ["Residence of Pope Francis", "Cardinal accommodation", "Built in 1996", "Vatican guesthouse"],
     },
-    imageHint: "Domus Sanctae Marthae building Vatican", image: "/poi-images/vatican-domus-sanctae-marthae-cities-v2.webp"}
-,
+imageHint: "Domus Sanctae Marthae building Vatican",
+    descriptionAdvanced: {
+      de: "Das Gästehaus Santa Marta dient als Unterkunft für Kleriker und ist seit 2013 die gewählte Residenz von Papst Franziskus, der das bescheidene Gebäude dem Apostolischen Palast vorzog.",
+      hu: "A Szent Márta-ház egy vendégház, amely papoknak ad szállást, 2013 óta pedig Ferenc pápa állandó lakhelye, aki az Apostoli Palota helyett választotta ezt a szerényebb épületet.",
+      ro: "Casa Sfânta Marta servește ca oaspete pentru clerici și este reședința aleasă de Papa Francisc din 2013, acesta preferând-o în detrimentul Palatului Apostolic.",
+      en: "Domus Sanctae Marthae is a guesthouse for clergy and has been the chosen residence of Pope Francis since 2013, who preferred it over the Apostolic Palace.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung im Jahr 1996", "Verfügt über 106 Suiten", "Ort des Konklave-Aufenthalts", "Benannt nach der Heiligen Martha"],
+      hu: ["1996-ban készült el", "106 lakosztállyal rendelkezik", "A konklávé idején itt laknak a bíborosok", "Szent Mártáról nevezték el"],
+      ro: ["Finalizată în anul 1996", "Dispune de 106 apartamente", "Loc de cazare pentru conclav", "Numită după Sfânta Marta"],
+      en: ["Completed in 1996", "Contains 106 guest suites", "Housing for Cardinals during conclaves", "Named after Saint Martha"],
+    },
+    image: "/poi-images/vatican-domus-sanctae-marthae-cities-v2.webp",
+},
   {
     id: "vatican-san-damaso-courtyard-cities-v2",
     type: "palace",
-    name: { de: "San-Damaso-Hof", hu: "San Damaso udvar", ro: "Curtea San Damaso", en: "San Damaso Courtyard" },
+    name: { de: "San-Damaso-Hof", hu: "San Damaso udvar", ro: "Curtea San Damaso", en: "San Damaso Courtyard",
+image: "/poi-images/vatican-san-damaso-courtyard-cities-v2.webp"
+},
     coordinates: { lat: 41.9034, lng: 12.4552 },
     description: {
       de: "Der wichtigste Innenhof des Apostolischen Palastes, in dem das Protokoll des Heiligen Stuhls Staatsoberhäupter und Diplomaten empfängt.",
@@ -364,11 +634,25 @@ export const vaticanCitiesV2: POI[] = [
       en: ["Completed in 1519", "Designed by Bramante", "Three stories of loggias", "Main diplomatic entrance"],
     },
     imageHint: "San Damaso Courtyard Vatican Apostolic Palace",
+    descriptionAdvanced: {
+      de: "Der San-Damaso-Hof ist der Haupthof des Apostolischen Palastes. Er dient als Ort für den Empfang von Staatsoberhäuptern und die feierliche Vereidigung der Schweizergarde.",
+      hu: "A San Damaso-udvar az Apostoli Palota főudvara. Itt fogadják a hivatalos állami látogatókat, és itt zajlik a Svájci Gárda újoncainak ünnepélyes felesketése is.",
+      ro: "Curtea San Damaso este curtea principală a Palatului Apostolic. Servește ca loc de primire a șefilor de stat și pentru depunerea jurământului Gărzii Elvețiene.",
+      en: "The San Damaso Courtyard is the primary courtyard of the Apostolic Palace, used for receiving heads of state and the swearing-in ceremony of the Swiss Guard.",
+    },
+    factsAdvanced: {
+      de: ["Architekt war Donato Bramante", "Drei Stockwerke mit Loggien", "Nahe dem päpstlichen Appartement", "Ort diplomatischer Protokolle"],
+      hu: ["Donato Bramante tervezte", "Háromszintes loggiák övezik", "A pápai lakosztály közelében van", "Diplomáciai protokollok helyszíne"],
+      ro: ["Arhitectul a fost Donato Bramante", "Trei etaje cu loggii", "Lângă apartamentul papal", "Loc pentru protocoale diplomatice"],
+      en: ["Designed by Donato Bramante", "Features three levels of loggias", "Near the papal private apartments", "Used for diplomatic protocols"],
+    },
   },
   {
     id: "vatican-st-annes-gate-cities-v2",
     type: "landmark",
-    name: { de: "St.-Anna-Tor", hu: "Szent Anna-kapu", ro: "Poarta Sfânta Ana", en: "Saint Anne's Gate" },
+    name: { de: "St.-Anna-Tor", hu: "Szent Anna-kapu", ro: "Poarta Sfânta Ana", en: "Saint Anne's Gate",
+image: "/poi-images/vatican-st-annes-gate-cities-v2.webp"
+},
     coordinates: { lat: 41.9042, lng: 12.4578 },
     description: {
       de: "Einer der Haupteingänge zur Vatikanstadt, der vor allem von Angestellten und Bewohnern für den täglichen Zugang genutzt wird.",
@@ -383,11 +667,25 @@ export const vaticanCitiesV2: POI[] = [
       en: ["Built after 1929", "Guarded by Swiss Guards", "Residential entrance", "Located near St. Anne Church"],
     },
     imageHint: "Porta Sant'Anna Vatican gate",
+    descriptionAdvanced: {
+      de: "Das St.-Anna-Tor ist einer der wichtigsten Eingänge zur Vatikanstadt. Es dient als Hauptzugang für Mitarbeiter und Besucher, die in die internen Bereiche des Staates gelangen müssen.",
+      hu: "A Szent Anna-kapu a Vatikán egyik legfontosabb bejárata. Ez szolgál főútként az alkalmazottak és azon látogatók számára, akik az állam belső területeire érkeznek.",
+      ro: "Poarta Sfânta Ana este una dintre principalele intrări în Vatican. Servește ca acces major pentru angajați și vizitatorii care au afaceri în interiorul statului.",
+      en: "St. Anne's Gate is one of the primary entrances to Vatican City, serving as the main access point for employees and visitors to the state's internal areas.",
+    },
+    factsAdvanced: {
+      de: ["Bewacht von der Schweizergarde", "Benannt nach der nahen Kirche", "Haupteinfahrt für Fahrzeuge", "Grenze zwischen Vatikan und Rom"],
+      hu: ["A Svájci Gárda őrzi", "A közeli templomról kapta nevét", "A gépjárművek fő belépési pontja", "Határ a Vatikán és Róma között"],
+      ro: ["Păzită de Garda Elvețiană", "Numită după biserica din apropiere", "Intrarea principală pentru vehicule", "Granița între Vatican și Roma"],
+      en: ["Guarded by the Swiss Guard", "Named after the nearby church", "Main entrance for vehicle traffic", "Boundary between Vatican and Rome"],
+    },
   },
   {
     id: "vatican-fire-station-cities-v2",
     type: "landmark",
-    name: { de: "Vatikanische Feuerwehrwache", hu: "Vatikáni Tűzoltóság", ro: "Stația de Pompieri a Vaticanului", en: "Vatican Fire Station" },
+    name: { de: "Vatikanische Feuerwehrwache", hu: "Vatikáni Tűzoltóság", ro: "Stația de Pompieri a Vaticanului", en: "Vatican Fire Station",
+image: "/poi-images/vatican-fire-station-cities-v2.webp"
+},
     coordinates: { lat: 41.9038, lng: 12.457 },
     description: {
       de: "Das Hauptquartier der vatikanischen Feuerwehr, das für den Brandschutz und die Sicherheit in der gesamten Enklave zuständig ist.",
@@ -401,11 +699,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Fondată în 1941", "30 de pompieri activi", "Serviciu de 24 de ore", "Vehicule de intervenție proprii"],
       en: ["Founded in 1941", "30 active firefighters", "24-hour service", "Equipped with custom vehicles"],
     },
-    imageHint: "Vatican Fire Brigade station", image: "/poi-images/vatican-fire-station-cities-v2.webp"},
-  {
+imageHint: "Vatican Fire Brigade station",
+    descriptionAdvanced: {
+      de: "Die vatikanische Feuerwehr sorgt für den Brandschutz und die Sicherheit innerhalb der Mauern. Die kleine, aber hochspezialisierte Einheit operiert vom Belvedere-Hof aus.",
+      hu: "A vatikáni tűzoltóság felel a tűzvédelemért és a biztonságért a falakon belül. A kicsi, de magasan képzett egység a Belvedere-udvar környékéről látja el feladatait.",
+      ro: "Stația de pompieri din Vatican asigură protecția contra incendiilor și siguranța în interiorul zidurilor. Unitatea mică, dar specializată, operează din Curtea Belvedere.",
+      en: "The Vatican Fire Station provides fire protection and emergency services within the walls. This small but specialized unit operates from the Belvedere Courtyard area.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1941", "Besteht aus etwa 30 Feuerwehrmännern", "Besitzt moderne Löschfahrzeuge", "Auch für Katastrophenschutz zuständig"],
+      hu: ["1941-ben alapították", "Körülbelül 30 tűzoltóból áll", "Modern tűzoltóautókkal rendelkezik", "A polgári védelemért is felel"],
+      ro: ["Fondată în anul 1941", "Cuprinde circa 30 de pompieri", "Dotată cu vehicule moderne", "Responsabilă și de protecția civilă"],
+      en: ["Founded in 1941", "Consists of about 30 firefighters", "Equipped with modern fire engines", "Responsible for civil protection"],
+    },
+    image: "/poi-images/vatican-fire-station-cities-v2.webp",
+},  {
     id: "vatican-san-carlo-palace-cities-v2",
     type: "palace",
-    name: { de: "Palazzo San Carlo", hu: "San Carlo-palota", ro: "Palatul San Carlo", en: "San Carlo Palace" },
+    name: { de: "Palazzo San Carlo", hu: "San Carlo-palota", ro: "Palatul San Carlo", en: "San Carlo Palace",
+image: "/poi-images/vatican-san-carlo-palace-cities-v2.webp"
+},
     coordinates: { lat: 41.9015, lng: 12.4525 },
     description: {
       de: "Ein bedeutendes Wohngebäude im Vatikan, das als Residenz für Kleriker und Beamte der römischen Kurie dient.",
@@ -419,11 +732,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Construit în 1932", "Zonă rezidențială clericală", "Lângă Santa Marta", "Edificiu administrativ modern"],
       en: ["Built in 1932", "Clerical residence area", "Near Santa Marta", "Modern administrative style"],
     },
-    imageHint: "Palazzo San Carlo Vatican City", image: "/poi-images/vatican-san-carlo-palace-cities-v2.webp"},
-  {
+imageHint: "Palazzo San Carlo Vatican City",
+    descriptionAdvanced: {
+      de: "Der Palast von San Carlo beherbergt verschiedene vatikanische Ämter und Wohnungen für Kleriker. Er liegt in der Nähe des Hospizes von Santa Marta im südlichen Teil des Vatikans.",
+      hu: "A San Carlo-palota különböző vatikáni hivataloknak és egyházi személyek lakásainak ad otthont. A Szent Márta-ház közelében, a Vatikán déli részén található.",
+      ro: "Palatul San Carlo găzduiește diverse birouri ale Vaticanului și apartamente pentru clerici. Este situat lângă casa Sfânta Marta, în partea de sud a statului.",
+      en: "The San Carlo Palace houses various Vatican administrative offices and apartments for clergy. It is located near the Domus Sanctae Marthae in the southern sector.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach Karl Borromäus", "Beherbergt das vatikanische Arbeitsamt", "Nahe der vatikanischen Eisenbahn", "Teil der Verwaltungsgebäude"],
+      hu: ["Borromeo Szent Károlyról nevezték el", "Itt működik a vatikáni munkaügyi hivatal", "A vatikáni vasút közelében fekszik", "Az adminisztratív épületek része"],
+      ro: ["Numit după Sfântul Carol Borromeo", "Sediul biroului muncii din Vatican", "Aproape de calea ferată vaticană", "Parte a clădirilor administrative"],
+      en: ["Named after Saint Charles Borromeo", "Houses the Vatican Labour Office", "Located near the Vatican railway", "Part of the administrative buildings"],
+    },
+    image: "/poi-images/vatican-san-carlo-palace-cities-v2.webp",
+},  {
     id: "vatican-oven-square-cities-v2",
     type: "landmark",
-    name: { de: "Platz des Ofens", hu: "Forno tér", ro: "Piața Cuptorului", en: "Oven Square" },
+    name: { de: "Platz des Ofens", hu: "Forno tér", ro: "Piața Cuptorului", en: "Oven Square",
+image: "/poi-images/vatican-oven-square-cities-v2.webp"
+},
     coordinates: { lat: 41.9041, lng: 12.4573 },
     description: {
       de: "Ein kleiner Platz im Herzen des vatikanischen Dienstviertels, benannt nach der historischen Bäckerei, die den Vatikan versorgte.",
@@ -437,11 +765,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Locul brutăriei istorice", "Lângă farmacie", "Centru logistic", "Parte a zonei de aprovizionare"],
       en: ["Site of historical bakery", "Near the pharmacy", "Logistics hub", "Part of the supply zone"],
     },
-    imageHint: "Piazza del Forno Vatican City", image: "/poi-images/vatican-oven-square-cities-v2.webp"},
-  {
+imageHint: "Piazza del Forno Vatican City",
+    descriptionAdvanced: {
+      de: "Der Platz des Ofens liegt im nördlichen Bereich und verdankt seinen Namen der historischen vatikanischen Bäckerei, die früher die päpstliche Familie und Angestellte versorgte.",
+      hu: "A Kemence tér az északi részen található, nevét pedig a történelmi vatikáni pékségről kapta, amely egykor a pápai családot és az alkalmazottakat látta el friss kenyérrel.",
+      ro: "Piața Cuptorului este situată în zona de nord și își datorează numele brutăriei istorice din Vatican, care deservea familia papală și angajații statului.",
+      en: "Oven Square is located in the northern sector, named after the historic Vatican bakery that once supplied the papal household and staff with bread.",
+    },
+    factsAdvanced: {
+      de: ["Nahe der vatikanischen Druckerei", "Früher Standort der Bäckerei", "Verbindungsweg für Mitarbeiter", "Eher funktionaler Platzcharakter"],
+      hu: ["A vatikáni nyomda közelében van", "A pékség egykori helyszíne", "Alkalmazottak fontos útvonala", "Inkább funkcionális jellegű tér"],
+      ro: ["Lângă tipografia vaticană", "Fostul sediu al brutăriei", "Cale de acces pentru angajați", "Are un caracter funcțional"],
+      en: ["Near the Vatican printing office", "Site of the former state bakery", "Common route for Vatican staff", "Primarily functional urban space"],
+    },
+    image: "/poi-images/vatican-oven-square-cities-v2.webp",
+},  {
     id: "vatican-typography-street-cities-v2",
     type: "landmark",
-    name: { de: "Via della Tipografia", hu: "Tipográfia utca", ro: "Strada Tipografiei", en: "Typography Street" },
+    name: { de: "Via della Tipografia", hu: "Tipográfia utca", ro: "Strada Tipografiei", en: "Typography Street",
+image: "/poi-images/vatican-typography-street-cities-v2.webp"
+},
     coordinates: { lat: 41.9043, lng: 12.4565 },
     description: {
       de: "Die zentrale Straße des vatikanischen Verlagsviertels, in der sich die Druckereien und Redaktionen der offiziellen Medien befinden.",
@@ -455,11 +798,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Centru editorial", "Sediul L'Osservatore Romano", "Locația tipografiei", "Arteră internă importantă"],
       en: ["Publishing center", "L'Osservatore Romano HQ", "Printing press site", "Key internal thoroughfare"],
     },
-    imageHint: "Via della Tipografia Vatican City", image: "/poi-images/vatican-typography-street-cities-v2.webp"},
-  {
+imageHint: "Via della Tipografia Vatican City",
+    descriptionAdvanced: {
+      de: "Die Via della Tipografia ist das Zentrum der vatikanischen Veröffentlichungen. Hier befindet sich die Druckerei, die offizielle Dokumente und die Zeitung L'Osservatore Romano produziert.",
+      hu: "A Nyomda utca a vatikáni kiadványok központja. Itt található a nyomdaépület, ahol a hivatalos dokumentumokat és a L'Osservatore Romano újságot készítik.",
+      ro: "Strada Tipografiei este centrul publicațiilor vaticane. Aici se află tipografia care produce documentele oficiale și ziarul L'Osservatore Romano.",
+      en: "Typography Street is the hub for Vatican publishing. It houses the printing facilities that produce official documents and the L'Osservatore Romano newspaper.",
+    },
+    factsAdvanced: {
+      de: ["Druck des 'L'Osservatore Romano'", "Geleitet von den Salesianern", "Produziert päpstliche Enzykliken", "Wichtig für die Staatskommunikation"],
+      hu: ["Itt nyomják a L'Osservatore Romanót", "A szalézi rend irányítása alatt áll", "Itt készülnek a pápai enciklikák", "Fontos az állami kommunikációban"],
+      ro: ["Tipărește 'L'Osservatore Romano'", "Administrată de ordinul Salezian", "Produce enciclicele papale", "Esențială pentru comunicarea statului"],
+      en: ["Prints 'L'Osservatore Romano'", "Managed by the Salesian Order", "Produces papal encyclicals", "Crucial for state communications"],
+    },
+    image: "/poi-images/vatican-typography-street-cities-v2.webp",
+},  {
     id: "vatican-bronze-door-cities-v2",
     type: "monument",
-    name: { de: "Bronzetor", hu: "Bronzkapu", ro: "Poarta de Bronz", en: "Bronze Door" },
+    name: { de: "Bronzetor", hu: "Bronzkapu", ro: "Poarta de Bronz", en: "Bronze Door",
+image: "/poi-images/vatican-bronze-door-cities-v2.webp"
+},
     coordinates: { lat: 41.9026, lng: 12.4562 },
     description: {
       de: "Der zeremonielle Haupteingang zum Apostolischen Palast, der ständig von der Päpstlichen Schweizergarde bewacht wird.",
@@ -473,11 +831,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Proiectată de Bernini", "Acces la palatul papal", "Postul Gărzii Elvețiene", "Capodoperă barocă"],
       en: ["Designed by Bernini", "Apostolic Palace access", "Swiss Guard post", "Baroque masterpiece"],
     },
-    imageHint: "Portone di Bronzo Vatican Swiss Guard", image: "/poi-images/vatican-bronze-door-cities-v2.webp"},
-  {
+imageHint: "Portone di Bronzo Vatican Swiss Guard",
+    descriptionAdvanced: {
+      de: "Das Bronzetor ist einer der zeremoniellen Haupteingänge zum Apostolischen Palast. Es wird stets von der Schweizergarde in ihrer traditionellen Galauniform bewacht.",
+      hu: "A Bronzkapu az Apostoli Palota egyik ünnepélyes főbejárata. Mindig a Svájci Gárda tagjai őrzik hagyományos díszegyenruhában, felügyelve a belépést.",
+      ro: "Poarta de Bronz este una dintre intrările ceremoniale principale în Palatul Apostolic. Este păzită permanent de Garda Elvețiană în uniforma lor tradițională.",
+      en: "The Bronze Door is one of the ceremonial main entrances to the Apostolic Palace. It is guarded at all times by the Swiss Guard in their traditional gala uniforms.",
+    },
+    factsAdvanced: {
+      de: ["Haupteingang für Diplomaten", "Endpunkt der Bernini-Kolonnaden", "Führt zur Scala Regia", "Streng kontrollierter Zugang"],
+      hu: ["Diplomaták fő belépési pontja", "A Bernini-kolonnádok végpontja", "A Scala Regia lépcsőhöz vezet", "Szigorúan ellenőrzött átjáró"],
+      ro: ["Intrare principală pentru diplomați", "Punct terminus al colonadelor", "Conduce spre Scala Regia", "Acces strict controlat"],
+      en: ["Main entrance for diplomats", "End point of the Bernini colonnades", "Leads to the Scala Regia staircase", "Highly secure and controlled access"],
+    },
+    image: "/poi-images/vatican-bronze-door-cities-v2.webp",
+},  {
     id: "vatican-gendarmerie-barracks-cities-v2",
     type: "landmark",
-    name: { de: "Gendarmerie-Kaserne", hu: "Csendőrség laktanyája", ro: "Cazarma Jandarmeriei", en: "Gendarmerie Barracks" },
+    name: { de: "Gendarmerie-Kaserne", hu: "Csendőrség laktanyája", ro: "Cazarma Jandarmeriei", en: "Gendarmerie Barracks",
+image: "/poi-images/vatican-gendarmerie-barracks-cities-v2.webp"
+},
     coordinates: { lat: 41.9036, lng: 12.458 },
     description: {
       de: "Die Unterkunft und das operative Zentrum des Gendarmeriekorps der Vatikanstadt, verantwortlich für die öffentliche Ordnung.",
@@ -491,11 +864,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Fondată în 1816", "Sediul securității", "Lângă Poarta Sfânta Ana", "130 de ofițeri activi"],
       en: ["Founded in 1816", "Security headquarters", "Near St. Anne's Gate", "130 active officers"],
     },
-    imageHint: "Gendarmeria Vaticana barracks", image: "/poi-images/vatican-gendarmerie-barracks-cities-v2.webp"},
-  {
+imageHint: "Gendarmeria Vaticana barracks",
+    descriptionAdvanced: {
+      de: "Die Kaserne der Gendarmerie beherbergt die vatikanische Polizei, die für die öffentliche Ordnung, Grenzkontrollen und den Schutz des Papstes außerhalb von St. Peter zuständig ist.",
+      hu: "A Csendőrségi Laktanya a vatikáni rendőrség bázisa. Ez az egység felel a közrendért, a határellenőrzésért és a pápa védelméért a Szent Péter-bazilikán kívül.",
+      ro: "Cazarma Jandarmeriei găzduiește forțele de poliție ale Vaticanului, responsabile pentru ordinea publică, controlul frontierelor și protecția Papei în afara bazilicii.",
+      en: "The Gendarmerie Barracks house the Vatican's police force, responsible for public order, border control, and the Pope's safety outside of St. Peter's Basilica.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1816", "Etwa 130 Mitglieder im Korps", "Verfügt über eine eigene Band", "Sitz der Kriminalpolizei"],
+      hu: ["1816-ban alapították", "Körülbelül 130 tagból áll a testület", "Saját zenekarral rendelkezik", "A bűnügyi rendőrség székhelye"],
+      ro: ["Fondată în anul 1816", "Circa 130 de membri în corp", "Dispune de o fanfară proprie", "Sediul poliției judiciare"],
+      en: ["Founded in 1816", "Corps of about 130 members", "Features its own musical band", "Headquarters for criminal police"],
+    },
+    image: "/poi-images/vatican-gendarmerie-barracks-cities-v2.webp",
+},  {
     id: "vatican-santa-maria-pieta-cities-v2",
     type: "church",
-    name: { de: "Kirche Santa Maria della Pietà", hu: "Santa Maria della Pietà templom", ro: "Biserica Santa Maria della Pietà", en: "Church of Santa Maria della Pietà" },
+    name: { de: "Kirche Santa Maria della Pietà", hu: "Santa Maria della Pietà templom", ro: "Biserica Santa Maria della Pietà", en: "Church of Santa Maria della Pietà",
+image: "/poi-images/vatican-santa-maria-pieta-cities-v2.webp"
+},
     coordinates: { lat: 41.901, lng: 12.4533 },
     description: {
       de: "Die Nationalkirche der deutschsprachigen Bevölkerung im Vatikan, gelegen direkt neben dem Campo Santo Teutonico.",
@@ -509,11 +897,26 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Construită în jurul anului 1500", "Biserică națională germană", "Interior artistic", "Lângă Bazilica Sf. Petru"],
       en: ["Built around 1500", "German national church", "Artistic interior", "Near St. Peter's Basilica"],
     },
-    imageHint: "Santa Maria della Pietà in Campo Santo Teutonico", image: "/poi-images/vatican-santa-maria-pieta-cities-v2.webp"},
-  {
+imageHint: "Santa Maria della Pietà in Campo Santo Teutonico",
+    descriptionAdvanced: {
+      de: "Die Kirche Santa Maria della Pietà liegt neben dem Campo Santo Teutonico. Sie dient als spiritueller Ort für die deutschsprachigen Gläubigen und Kleriker im Vatikan.",
+      hu: "A Santa Maria della Pietà templom a Campo Santo Teutonico mellett található. A Vatikánban élő német nyelvű hívők és egyházi személyek lelki központja.",
+      ro: "Biserica Santa Maria della Pietà se află lângă Campo Santo Teutonico. Servește ca loc spiritual pentru credincioșii și clerul vorbitor de limbă germană.",
+      en: "The Church of Santa Maria della Pietà is located next to the Campo Santo Teutonico, serving as a spiritual center for German-speaking clergy and faithful.",
+    },
+    factsAdvanced: {
+      de: ["Nahe dem deutschen Friedhof", "Erbaut im 15. Jahrhundert", "Ort für deutschsprachige Messen", "Enthält wertvolle Grabmonumente"],
+      hu: ["A német temető mellett fekszik", "A 15. században épült", "Német nyelvű misék helyszíne", "Értékes síremlékeket tartalmaz"],
+      ro: ["Lângă cimitirul german", "Construită în secolul al XV-lea", "Loc pentru slujbe în limba germană", "Conține monumente funerare valoroase"],
+      en: ["Beside the German cemetery", "Built in the 15th century", "Host to German-language masses", "Contains notable funerary monuments"],
+    },
+    image: "/poi-images/vatican-santa-maria-pieta-cities-v2.webp",
+},  {
     id: "vatican-postal-square-cities-v2",
     type: "landmark",
-    name: { de: "Platz des Postamtes", hu: "Posta tér", ro: "Piața Poștei", en: "Postal Service Square" },
+    name: { de: "Platz des Postamtes", hu: "Posta tér", ro: "Piața Poștei", en: "Postal Service Square",
+image: "/poi-images/vatican-postal-square-cities-v2.webp"
+},
     coordinates: { lat: 41.904, lng: 12.4573 },
     description: {
       de: "Ein geschäftiger Platz in der Nähe des vatikanischen Postamtes, der als wichtiger Knotenpunkt für den Post- und Paketverkehr dient.",
@@ -528,5 +931,17 @@ export const vaticanCitiesV2: POI[] = [
       en: ["Central postal hub", "Logistics meeting point", "Near Via del Belvedere", "Efficient mail system"],
     },
     imageHint: "Vatican Post Office square area",
+    descriptionAdvanced: {
+      de: "Der Postplatz ist der logistische Knotenpunkt für die Vatikanische Post, die für ihre Zuverlässigkeit und die bei Sammlern begehrten Briefmarken weltweit bekannt ist.",
+      hu: "A Posta tér a Vatikáni Posta logisztikai központja, amely világszerte ismert megbízhatóságáról és a gyűjtők körében rendkívül népszerű bélyegeiről.",
+      ro: "Piața Poștei este centrul logistic al serviciului poștal vatican, renumit mondial pentru fiabilitatea sa și pentru timbrele foarte căutate de colecționari.",
+      en: "Postal Service Square is the logistics hub for the Vatican Post, which is globally renowned for its reliability and its highly collectible postage stamps.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1929", "Verkauft exklusive Briefmarken", "Eigenes Postleitzahlsystem (00120)", "Teil des Weltpostvereins"],
+      hu: ["1929-ben alapították", "Exkluzív bélyegeket árusít", "Saját irányítószáma van (00120)", "Az Egyetemes Postaegyesület tagja"],
+      ro: ["Fondată în anul 1929", "Vinde timbre poștale exclusive", "Cod poștal propriu (00120)", "Membră a Uniunii Poștale Universale"],
+      en: ["Founded in 1929", "Sells exclusive postage stamps", "Unique postal code (00120)", "Member of the Universal Postal Union"],
+    },
   }
 ];

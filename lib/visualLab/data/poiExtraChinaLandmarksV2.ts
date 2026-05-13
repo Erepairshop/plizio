@@ -11,8 +11,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Chinesische Mauer",
       hu: "Kínai nagy fal",
       ro: "Marele Zid Chinezesc",
-      en: "Great Wall of China"
-    },
+      en: "Great Wall of China",
+image: "/poi-images/great-wall-of-china-landmarks-v2.webp"
+},
     description: {
       de: "Eine Reihe von Befestigungsanlagen, die quer durch die historischen Nordgrenzen Chinas gebaut wurden, um chinesische Staaten und Reiche zu schützen.",
       hu: "Védelmi erődítmények sorozata, amelyek Kína történelmi északi határain húzódnak, hogy megvédjék a kínai államokat és birodalmakat.",
@@ -47,8 +48,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Verbotene Stadt",
       hu: "Tiltott Város",
       ro: "Orașul Interzis",
-      en: "Forbidden City"
-    },
+      en: "Forbidden City",
+image: "/poi-images/forbidden-city-landmarks-v2.webp"
+},
     description: {
       de: "Ein Palastkomplex im Zentrum von Peking, China. Er diente als kaiserlicher Palast für chinesische Kaiser und als politisches Zentrum der chinesischen Regierung.",
       hu: "Peking központjában található palotakomplexum. A kínai császárok császári palotájaként és a kínai kormány politikai központjaként szolgált.",
@@ -83,8 +85,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Terrakotta-Armee",
       hu: "Agyaghadsereg",
       ro: "Armata de Teracotă",
-      en: "Terracotta Army"
-    },
+      en: "Terracotta Army",
+image: "/poi-images/terracotta-army-landmarks-v2.webp"
+},
     description: {
       de: "Eine Sammlung von Terrakotta-Skulpturen, die die Armeen von Qin Shi Huang, dem ersten Kaiser von China, darstellen.",
       hu: "Csin Si Huang-ti, Kína első császárának seregeit ábrázoló terrakotta szobrok gyűjteménye.",
@@ -119,8 +122,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Sommerpalast",
       hu: "Nyári Palota",
       ro: "Palatul de Vară",
-      en: "Summer Palace"
-    },
+      en: "Summer Palace",
+image: "/poi-images/summer-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein weitläufiger Komplex aus Palästen, Seen und Gärten in Peking, der als Meisterwerk des chinesischen Landschaftsgartendesigns gilt.",
       hu: "Peking császári kertjeinek hatalmas együttese, a kínai tájkertészet remekműve.",
@@ -155,8 +159,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Potala-Palast",
       hu: "Potala palota",
       ro: "Palatul Potala",
-      en: "Potala Palace"
-    },
+      en: "Potala Palace",
+image: "/poi-images/potala-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein Dzong-Festung in Lhasa, Tibet. Es war die Winterresidenz der Dalai Lamas von 1649 bis 1959.",
       hu: "Dzong erőd Lhászában, Tibetben. 1649-től 1959-ig a dalai lámák téli rezidenciája volt.",
@@ -191,8 +196,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Großer Buddha von Leshan",
       hu: "Lesani óriás Buddha",
       ro: "Marele Buddha din Leshan",
-      en: "Leshan Giant Buddha"
-    },
+      en: "Leshan Giant Buddha",
+image: "/poi-images/leshan-giant-buddha-landmarks-v2.webp"
+},
     description: {
       de: "Eine 71 Meter hohe Steinstatue, die während der Tang-Dynastie aus einer Klippe gemeißelt wurde.",
       hu: "Egy 71 méter magas kőszobor, amelyet a Tang-dinasztia idején faragtak ki egy sziklafalból.",
@@ -227,8 +233,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "The Bund",
       hu: "A Bund",
       ro: "Bund",
-      en: "The Bund"
-    },
+      en: "The Bund",
+image: "/poi-images/the-bund-landmarks-v2.webp"
+},
     description: {
       de: "Ein Uferbereich im Zentrum von Shanghai, bekannt für seine historischen Gebäude entlang des Huangpu-Flusses.",
       hu: "Sanghaj központjában található vízparti sétány, amely a Huangpu-folyó mentén álló történelmi épületeiről ismert.",
@@ -263,8 +270,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Li-Fluss",
       hu: "Li-folyó",
       ro: "Râul Li",
-      en: "Li River"
-    },
+      en: "Li River",
+image: "/poi-images/li-river-landmarks-v2.webp"
+},
     description: {
       de: "Ein Fluss in der Autonomen Region Guangxi Zhuang, berühmt für seine Karsthügel-Landschaft.",
       hu: "A Kuanghszi-Csuang Autonóm Területen található folyó, amely a karszthegyekről híres.",
@@ -299,8 +307,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Jadedrachen-Schneegebirge",
       hu: "Jáde Sárkány-hegység",
       ro: "Muntele de Zăpadă al Dragonului de Jad",
-      en: "Jade Dragon Snow Mountain"
-    },
+      en: "Jade Dragon Snow Mountain",
+image: "/poi-images/jade-dragon-snow-mountain-landmarks-v2.webp"
+},
     description: {
       de: "Ein Gebirgsmassiv in der Nähe von Lijiang, dessen höchster Gipfel 5.596 Meter hoch ist.",
       hu: "Lijiang közelében található hegylánc, melynek legmagasabb csúcsa 5596 méter.",
@@ -335,8 +344,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Nationaler Waldpark Zhangjiajie",
       hu: "Csangcsiacsie Nemzeti Erdőpark",
       ro: "Parcul Național Forestier Zhangjiajie",
-      en: "Zhangjiajie National Forest Park"
-    },
+      en: "Zhangjiajie National Forest Park",
+image: "/poi-images/zhangjiajie-national-forest-park-landmarks-v2.webp"
+},
     description: {
       de: "Bekannt für seine hohen, säulenartigen Felsformationen, die aus Quarz-Sandstein bestehen. Inspiration für die 'Hallelujah-Berge' im Film Avatar.",
       hu: "Magas, oszlopszerű, kvarc-homokkőből álló sziklaalakzatairól ismert. Az Avatar című film 'Hallelujah-hegyeinek' ihletője.",
@@ -371,8 +381,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Himmelstempel",
       hu: "Mennyei Béke Temploma",
       ro: "Templul Cerului",
-      en: "Temple of Heaven"
-    },
+      en: "Temple of Heaven",
+image: "/poi-images/temple-of-heaven-landmarks-v2.webp"
+},
     description: {
       de: "Ein Komplex religiöser Gebäude in Peking. Er wurde von den Kaisern der Ming- und Qing-Dynastien für jährliche Gebetszeremonien zum Himmel für eine gute Ernte besucht.",
       hu: "Vallási épületek komplexuma Pekingben. A Ming- és Csing-dinasztia császárai látogatták évente, hogy a jó termésért imádkozzanak az Éghez.",
@@ -407,8 +418,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Mogao-Grotten",
       hu: "Mokao-barlangok",
       ro: "Peșterile Mogao",
-      en: "Mogao Caves"
-    },
+      en: "Mogao Caves",
+image: "/poi-images/mogao-caves-landmarks-v2.webp"
+},
     description: {
       de: "Ein System von 492 Tempeln 25 km südöstlich des Zentrums von Dunhuang, einer Oasenstadt an der Seidenstraße.",
       hu: "492 templomból álló barlangrendszer Tunhuang központjától 25 km-re délkeletre, a Selyemút egyik oázisvárosában.",
@@ -443,8 +455,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Longmen-Grotten",
       hu: "Lungmen-barlangok",
       ro: "Grotele Longmen",
-      en: "Longmen Grottoes"
-    },
+      en: "Longmen Grottoes",
+image: "/poi-images/longmen-grottoes-landmarks-v2.webp"
+},
     description: {
       de: "Zehntausende von Statuen buddhistischer Figuren und ihrer Schüler, die in den Kalksteinfelsen der Xiangshan- und Longmenshan-Berge gehauen sind.",
       hu: "Több tízezer, buddhista alakokat és tanítványaikat ábrázoló szobor a Hsziangsan és Lungmensan hegyek mészkőszikláiba faragva.",
@@ -479,8 +492,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Drei Pagoden",
       hu: "Három pagoda",
       ro: "Cele Trei Pagode",
-      en: "Three Pagodas"
-    },
+      en: "Three Pagodas",
+image: "/poi-images/three-pagodas-landmarks-v2.webp"
+},
     description: {
       de: "Drei unabhängige Pagoden, die in einem Dreieck angeordnet sind, in der Nähe der Stadt Dali.",
       hu: "Három különálló pagoda, amelyek háromszög alakban helyezkednek el Dali város közelében.",
@@ -515,8 +529,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Huangshan (Gelbes Gebirge)",
       hu: "Huang-san (Sárga-hegy)",
       ro: "Munții Galbeni (Huangshan)",
-      en: "Huangshan (Yellow Mountains)"
-    },
+      en: "Huangshan (Yellow Mountains)",
+image: "/poi-images/huangshan-landmarks-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug in Süd-Anhui, bekannt für seine malerische Landschaft mit seltsam geformten Granitgipfeln, Huangshan-Kiefern und Wolkenmeeren.",
       hu: "Hegylánc Dél-Anhuiban, amely a különös alakú gránitcsúcsokról, a Huangshan-fenyőkről és a felhőtengerekről ismert festői tájáról híres.",
@@ -551,8 +566,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Westsee",
       hu: "Nyugati-tó",
       ro: "Lacul de Vest",
-      en: "West Lake"
-    },
+      en: "West Lake",
+image: "/poi-images/west-lake-landmarks-v2.webp"
+},
     description: {
       de: "Ein Süßwassersee in Hangzhou, bekannt für seine natürliche Schönheit und historischen Relikte.",
       hu: "Édesvízi tó Hangcsouban, amely természeti szépségéről és történelmi emlékeiről ismert.",
@@ -587,8 +603,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Taishan",
       hu: "Taj-san",
       ro: "Muntele Tai",
-      en: "Mount Tai"
-    },
+      en: "Mount Tai",
+image: "/poi-images/mount-tai-landmarks-v2.webp"
+},
     description: {
       de: "Ein Berg von historischer und kultureller Bedeutung nördlich der Stadt Tai'an. Einer der 'Fünf Heiligen Berge Chinas'.",
       hu: "Történelmi és kulturális jelentőségű hegy Tai'an városától északra. Kína 'Öt Szent Hegyének' egyike.",
@@ -623,8 +640,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Hängendes Kloster",
       hu: "Függő kolostor",
       ro: "Mănăstirea Suspendată",
-      en: "Hanging Monastery"
-    },
+      en: "Hanging Monastery",
+image: "/poi-images/hanging-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Ein in eine Klippe gebautes Kloster in der Nähe des Berges Heng in der Provinz Shanxi. Es ist das einzige existierende Kloster, in dem drei chinesische Religionen zusammen praktiziert werden: Buddhismus, Taoismus und Konfuzianismus.",
       hu: "Sziklafalba épített kolostor a Heng-hegy közelében, Sanhszi tartományban. Ez az egyetlen fennmaradt kolostor, ahol három kínai vallást is gyakorolnak: a buddhizmust, a taoizmust és a konfucianizmust.",
@@ -659,8 +677,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Oriental Pearl Tower",
       hu: "Kelet Gyöngye tévétorony",
       ro: "Turnul Perla Orientului",
-      en: "Oriental Pearl Tower"
-    },
+      en: "Oriental Pearl Tower",
+image: "/poi-images/oriental-pearl-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein Fernsehturm in Shanghai. Sein markantes Design aus 11 Kugeln, die von Säulen getragen werden, macht ihn zu einem Wahrzeichen der Stadt.",
       hu: "Tévétorony Sanghajban. Jellegzetes, 11 gömbből álló, oszlopokon nyugvó kialakítása a város egyik szimbólumává teszi.",
@@ -695,8 +714,9 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       de: "Große Wildganspagode",
       hu: "Nagy Vadlúd pagoda",
       ro: "Pagoda Gâștei Sălbatice Mari",
-      en: "Giant Wild Goose Pagoda"
-    },
+      en: "Giant Wild Goose Pagoda",
+image: "/poi-images/giant-wild-goose-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Eine buddhistische Pagode in Xi'an. Sie wurde 652 während der Tang-Dynastie erbaut und hatte ursprünglich fünf Stockwerke.",
       hu: "Buddhista pagoda Hszianban. A Tang-dinasztia idején, 652-ben épült, eredetileg öt emeletes volt.",

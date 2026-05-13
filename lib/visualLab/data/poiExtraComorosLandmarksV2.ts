@@ -11,8 +11,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Große Freitagsmoschee von Moroni",
       hu: "Moroni nagy pénteki mecsetje",
       ro: "Marea Moschee de Vineri din Moroni",
-      en: "Grand Friday Mosque of Moroni"
-    },
+      en: "Grand Friday Mosque of Moroni",
+image: "/poi-images/grande-mosquee-moroni-landmarks-v2.webp"
+},
     description: {
       de: "Diese ikonische weiße Moschee am Hafen von Moroni ist eines der meistfotografierten Wahrzeichen der Komoren.",
       hu: "Ez az ikonikus fehér mecset Moroni kikötőjénél a Comore-szigetek egyik legtöbbet fényképezett jelképe.",
@@ -35,8 +36,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Palais du Peuple",
       hu: "Népi Palota",
       ro: "Palais du Peuple",
-      en: "Palace of the People"
-    },
+      en: "Palace of the People",
+image: "/poi-images/palais-du-peuple-landmarks-v2.webp"
+},
     description: {
       de: "Der Palais du Peuple in Moroni ist der Sitz der Nationalversammlung der Komoren und ein wichtiges politisches Zentrum.",
       hu: "A moroni Népi Palota a Comore-szigetek Nemzetgyűlésének székhelye és fontos politikai központ.",
@@ -58,8 +60,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Stade de Malouzini",
       hu: "Malouzini Stadion",
       ro: "Stadionul Malouzini",
-      en: "Malouzini Stadium"
-    },
+      en: "Malouzini Stadium",
+image: "/poi-images/stade-malouzini-landmarks-v2.webp"
+},
     description: {
       de: "Das Stade de Malouzini ist das größte und modernste Fußballstadion der Komoren, südlich von Moroni gelegen.",
       hu: "A Malouzini Stadion a Comore-szigetek legnagyobb és legmodernebb futballstadionja, Moronitól délre.",
@@ -81,8 +84,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Nationalmuseum der Komoren (CNDRS)",
       hu: "Comore-szigeteki Nemzeti Múzeum",
       ro: "Muzeul Național al Comorelor",
-      en: "National Museum of the Comoros"
-    },
+      en: "National Museum of the Comoros",
+image: "/poi-images/musee-national-cndrs-landmarks-v2.webp"
+},
     description: {
       de: "Das Nationalmuseum in Moroni bewahrt das kulturelle und natürliche Erbe des Archipels, einschließlich seltener Exponate wie des Quastenflosser.",
       hu: "A moroni nemzeti múzeum megőrzi a szigetcsoport kulturális és természeti örökségét, beleértve az olyan ritkaságokat, mint a bojtosúszós hal.",
@@ -104,8 +108,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Hafen von Moroni",
       hu: "Moroni kikötője",
       ro: "Portul din Moroni",
-      en: "Moroni Harbor"
-    },
+      en: "Moroni Harbor",
+image: "/poi-images/port-de-moroni-landmarks-v2.webp"
+},
     description: {
       de: "Der Hafen von Moroni ist das wirtschaftliche Tor der Insel Grande Comore und ein lebendiger Ort des Handels.",
       hu: "Moroni kikötője Grande Comore gazdasági kapuja és a kereskedelem élettel teli központja.",
@@ -127,8 +132,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Hafen von Mutsamudu",
       hu: "Mutsamudu kikötője",
       ro: "Portul din Mutsamudu",
-      en: "Mutsamudu Port"
-    },
+      en: "Mutsamudu Port",
+image: "/poi-images/port-de-mutsamudu-landmarks-v2.webp"
+},
     description: {
       de: "Mutsamudu besitzt den einzigen Tiefwasserhafen der Komoren, der für den internationalen Frachtverkehr entscheidend ist.",
       hu: "Mutsamudu rendelkezik a Comore-szigetek egyetlen mélyvízi kikötőjével, amely kulcsfontosságú a nemzetközi teherforgalom számára.",
@@ -150,8 +156,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Uhrturm von Moroni",
       hu: "Moroni óratornya",
       ro: "Turnul cu Ceas din Moroni",
-      en: "Moroni Clock Tower"
-    },
+      en: "Moroni Clock Tower",
+image: "/poi-images/tour-de-l-horloge-moroni-landmarks-v2.webp"
+},
     description: {
       de: "Der Uhrturm im Zentrum von Moroni ist ein markanter Orientierungspunkt und Treffpunkt in der Hauptstadt.",
       hu: "A Moroni központjában álló óratorony jellegzetes tájékozódási pont és találkozóhely a fővárosban.",
@@ -173,8 +180,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Zentralbank der Komoren",
       hu: "Comore-szigeteki Központi Bank",
       ro: "Banca Centrală a Comorelor",
-      en: "Central Bank of the Comoros"
-    },
+      en: "Central Bank of the Comoros",
+image: "/poi-images/banque-centrale-comores-landmarks-v2.webp"
+},
     description: {
       de: "Das Gebäude der Zentralbank in Moroni ist ein Symbol für die finanzielle Unabhängigkeit und wirtschaftliche Stabilität des Landes.",
       hu: "A Központi Bank épülete Moroniban az ország pénzügyi függetlenségének és gazdasági stabilitásának jelképe.",
@@ -196,8 +204,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Internationaler Flughafen Prinz Said Ibrahim",
       hu: "Said Ibrahim herceg nemzetközi repülőtér",
       ro: "Aeroportul Internațional Prince Said Ibrahim",
-      en: "Prince Said Ibrahim International Airport"
-    },
+      en: "Prince Said Ibrahim International Airport",
+image: "/poi-images/aeroport-said-ibrahim-landmarks-v2.webp"
+},
     description: {
       de: "Dies ist der wichtigste internationale Flughafen der Komoren, der die Insel Grande Comore mit der Welt verbindet.",
       hu: "Ez a Comore-szigetek legfontosabb nemzetközi repülőtere, amely Grande Comore szigetét köti össze a világgal.",
@@ -219,8 +228,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Kathedrale Sainte-Thérèse",
       hu: "Szent Teréz-székesegyház",
       ro: "Catedrala Sfânta Tereza",
-      en: "Cathedral of Saint Thérèse"
-    },
+      en: "Cathedral of Saint Thérèse",
+image: "/poi-images/cathedrale-sainte-therese-landmarks-v2.webp"
+},
     description: {
       de: "Die Kathedrale Sainte-Thérèse in Moroni ist die wichtigste katholische Kirche des Landes und ein Zentrum der christlichen Gemeinde.",
       hu: "A moroni Szent Teréz-székesegyház az ország legfontosabb katolikus temploma és a keresztény közösség központja.",
@@ -242,8 +252,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Palais de Justice (Moroni)",
       hu: "Igazságügyi Palota (Moroni)",
       ro: "Palatul de Justiție din Moroni",
-      en: "Palais de Justice (Moroni)"
-    },
+      en: "Palais de Justice (Moroni)",
+image: "/poi-images/palais-de-justice-moroni-landmarks-v2.webp"
+},
     description: {
       de: "Der Justizpalast in Moroni ist das höchste Gericht der Komoren und ein bedeutendes staatliches Gebäude.",
       hu: "A moroni Igazságügyi Palota a Comore-szigetek legfelsőbb bírósága és jelentős állami épület.",
@@ -265,8 +276,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Palais du Gouvernement",
       hu: "Kormányzati Palota",
       ro: "Palatul Guvernului",
-      en: "Government Palace"
-    },
+      en: "Government Palace",
+image: "/poi-images/palais-du-gouvernement-landmarks-v2.webp"
+},
     description: {
       de: "Dieses Verwaltungsgebäude in Moroni beherbergt wichtige Ministerien und Regierungsbüros der Komoren.",
       hu: "Ez a moroni adminisztratív épület ad otthont a Comore-szigetek fontos minisztériumainak és kormányzati hivatalainak.",
@@ -288,8 +300,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Itsandra Beach Hotel",
       hu: "Itsandra Beach Hotel",
       ro: "Hotelul Itsandra Beach",
-      en: "Itsandra Beach Hotel"
-    },
+      en: "Itsandra Beach Hotel",
+image: "/poi-images/itsandra-beach-hotel-landmarks-v2.webp"
+},
     description: {
       de: "Das Itsandra Beach Hotel ist eines der bekanntesten Hotels der Insel und ein Wahrzeichen für den Tourismus auf Grande Comore.",
       hu: "Az Itsandra Beach Hotel a sziget egyik legismertebb szállodája és a Grande Comore-i turizmus jelképe.",
@@ -311,8 +324,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Alliance Française de Moroni",
       hu: "Moroni Francia Intézet",
       ro: "Alianța Franceză din Moroni",
-      en: "Alliance Française de Moroni"
-    },
+      en: "Alliance Française de Moroni",
+image: "/poi-images/alliance-francaise-moroni-landmarks-v2.webp"
+},
     description: {
       de: "Die Alliance Française in Moroni ist ein bedeutendes kulturelles Zentrum, das den Austausch zwischen der komorischen und französischen Kultur fördert.",
       hu: "A moroni Francia Intézet jelentős kulturális központ, amely elősegíti a comore-i és a francia kultúra közötti cserét.",
@@ -334,8 +348,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Flughafenterminal von Ouani",
       hu: "Ouani repülőtéri terminál",
       ro: "Terminalul Aeroportului Ouani",
-      en: "Ouani Airport Terminal"
-    },
+      en: "Ouani Airport Terminal",
+image: "/poi-images/ouani-airport-terminal-landmarks-v2.webp"
+},
     description: {
       de: "Das Flughafenterminal in Ouani ist das Tor zur Insel Anjouan und ein wichtiges Bauwerk für den regionalen Verkehr.",
       hu: "Az ouani repülőtéri terminál Anjouan szigetének kapuja és a regionális közlekedés fontos építménye.",
@@ -357,8 +372,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Flughafenterminal Bander es Salam",
       hu: "Bander es Salam repülőtéri terminál",
       ro: "Terminalul Aeroportului Bander es Salam",
-      en: "Bander es Salam Airport Terminal"
-    },
+      en: "Bander es Salam Airport Terminal",
+image: "/poi-images/bander-es-salam-terminal-landmarks-v2.webp"
+},
     description: {
       de: "Das Terminal Bander es Salam auf der Insel Mohéli ist ein zentrales Landmarke für Reisende und den Warenverkehr der Insel.",
       hu: "A Mohéli szigetén található Bander es Salam terminál központi jelkép az utazók és a sziget áruforgalma számára.",
@@ -380,8 +396,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Große Moschee von Mutsamudu",
       hu: "Mutsamudu nagy mecsetje",
       ro: "Marea Moschee din Mutsamudu",
-      en: "Grand Mosque of Mutsamudu"
-    },
+      en: "Grand Mosque of Mutsamudu",
+image: "/poi-images/mosquee-mutsamudu-landmarks-v2.webp"
+},
     description: {
       de: "Die Große Moschee von Mutsamudu ist ein architektonisches Wahrzeichen in der zweitgrößten Stadt der Komoren.",
       hu: "A mutsamudui nagy mecset építészeti jelkép a Comore-szigetek második legnagyobb városában.",
@@ -404,8 +421,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Uferpromenade von Domoni",
       hu: "Domoni tengerparti sétány",
       ro: "Promenada din Domoni",
-      en: "Domoni Waterfront"
-    },
+      en: "Domoni Waterfront",
+image: "/poi-images/waterfront-domoni-landmarks-v2.webp"
+},
     description: {
       de: "Die Uferpromenade von Domoni ist ein gestalteter Bereich an der Küste, der den Blick auf den Indischen Ozean bietet.",
       hu: "Domoni partszakasza a város tengerhez kötődő oldalát mutatja meg. A sétány és a kikötőközeli rész a mindennapi forgalom része.",
@@ -427,8 +445,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Festungsruinen von Iconi",
       hu: "Iconi erődromjai",
       ro: "Ruinele Fortului din Iconi",
-      en: "Iconi Fort Ruins"
-    },
+      en: "Iconi Fort Ruins",
+image: "/poi-images/fort-de-iconi-ruins-landmarks-v2.webp"
+},
     description: {
       de: "Die Ruinen der Festung von Iconi auf den Klippen zeugen von der wehrhaften Vergangenheit der Stadt gegen Invasoren.",
       hu: "Az iconi erőd sziklákon álló romjai a város inváziók elleni védelmi múltjáról tanúskodnak.",
@@ -450,8 +469,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Große Moschee von Mbéni",
       hu: "Mbéni nagy mecsetje",
       ro: "Marea Moschee din Mbéni",
-      en: "Grand Mosque of Mbéni"
-    },
+      en: "Grand Mosque of Mbéni",
+image: "/poi-images/grande-mosquee-mbeni-landmarks-v2.webp"
+},
     description: {
       de: "Die Große Moschee von Mbéni ist das religiöse und architektonische Zentrum dieser wichtigen Stadt im Norden.",
       hu: "A mbéni nagy mecset az északi rész ezen fontos városának vallási és építészeti központja.",
@@ -474,8 +494,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Rathaus von Fomboni",
       hu: "Fomboni városháza",
       ro: "Primăria din Fomboni",
-      en: "Fomboni Town Hall"
-    },
+      en: "Fomboni Town Hall",
+image: "/poi-images/mairie-de-fomboni-landmarks-v2.webp"
+},
     description: {
       de: "Das Rathaus von Fomboni ist das Verwaltungszentrum von Moh?li und der wichtigste Ort der Stadtverwaltung. Hier laufen die lokalen Amtsgesch?fte der Inselhauptstadt zusammen.",
       hu: "A fomboni városháza Mohéli szigetének adminisztratív szíve és ismert középület.",
@@ -497,8 +518,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Lycée Saïd Mohamed Cheikh",
       hu: "Saïd Mohamed Cheikh Gimnázium",
       ro: "Liceul Saïd Mohamed Cheikh",
-      en: "Lycée Saïd Mohamed Cheikh"
-    },
+      en: "Lycée Saïd Mohamed Cheikh",
+image: "/poi-images/lycee-said-mohamed-cheikh-landmarks-v2.webp"
+},
     description: {
       de: "Dieses Gymnasium in Moroni ist die angesehenste Bildungseinrichtung des Landes und hat viele Führungspersönlichkeiten hervorgebracht.",
       hu: "Ez a moroni gimnázium az ország legtekintélyesebb oktatási intézménye, amely számos vezetőt nevelt ki.",
@@ -520,8 +542,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Zentralmarkt Volovolo",
       hu: "Volovolo központi piac",
       ro: "Piața Centrală Volovolo",
-      en: "Volovolo Central Market"
-    },
+      en: "Volovolo Central Market",
+image: "/poi-images/marche-volovolo-landmarks-v2.webp"
+},
     description: {
       de: "Der Volovolo-Markt in Moroni ist der größte und lebendigste Markt der Komoren, wo alle Waren des Archipels gehandelt werden.",
       hu: "A Volovolo piac Moroni egyik legélénkebb helye. Itt a zöldség, a hal, a fűszerek és a mindennapi bevásárlás találkozik.",
@@ -544,8 +567,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Alte Stadttore von Mutsamudu",
       hu: "Mutsamudu régi városkapui",
       ro: "Vechile Porți ale Orașului Mutsamudu",
-      en: "Old Mutsamudu City Gates"
-    },
+      en: "Old Mutsamudu City Gates",
+image: "/poi-images/mutsamudu-city-gates-landmarks-v2.webp"
+},
     description: {
       de: "Die historischen Stadttore von Mutsamudu markieren die Eingänge zur alten Medina und sind Relikte der einstigen Befestigung.",
       hu: "Mutsamudu történelmi városkapui jelzik az óváros bejáratait, és az egykori erődítmény maradványai.",
@@ -567,8 +591,9 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Gebäude von Radio Comores",
       hu: "Radio Comores épülete",
       ro: "Clădirea Radio Comores",
-      en: "Radio Comores Building"
-    },
+      en: "Radio Comores Building",
+image: "/poi-images/radio-comores-building-landmarks-v2.webp"
+},
     description: {
       de: "Das Gebäude der nationalen Rundfunkanstalt in Moroni ist ein Wahrzeichen der Kommunikation und Information auf den Inseln.",
       hu: "A nemzeti műsorszolgáltató épülete Moroniban a szigeteki kommunikáció és tájékoztatás jelképe.",

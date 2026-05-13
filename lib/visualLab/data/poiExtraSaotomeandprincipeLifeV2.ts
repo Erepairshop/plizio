@@ -10,8 +10,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Schildkrötenschutzgebiet Praia Grande",
       hu: "Praia Grande teknősvédelmi terület",
       ro: "Rezervația de țestoase Praia Grande",
-      en: "Praia Grande Turtle Sanctuary"
-    },
+      en: "Praia Grande Turtle Sanctuary",
+image: "/poi-images/schildkroeten-praia-grande-life-v2.webp"
+},
     description: {
       de: "Praia Grande ist einer der wichtigsten Nistplätze für Meeresschildkröten an der Nordküste von São Tomé. Während der Saison kommen hier hunderte von Suppenschildkröten und Lederschildkröten an Land, um ihre Eier im warmen Sand abzulegen. Lokale Ranger überwachen den Strand, um die Gelege vor Raubtieren zu schützen und sicherzustellen, dass die kleinen Schildkröten nach dem Schlüpfen sicher ihren Weg in den Atlantik finden.",
       hu: "Praia Grande a tengeri teknősök egyik legfontosabb fészkelőhelye São Tomé északi partján. A szezonban zöld teknősök és kérgesteknősök százai jönnek a partra, hogy tojásaikat a meleg homokba rakják. Helyi vadőrök felügyelik a strandot, hogy megvédjék a fészkeket a ragadozóktól, és biztosítsák, hogy a kis teknősök kelés után biztonságban eljussanak az Atlanti-óceánhoz.",
@@ -62,8 +63,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Landwirtschaftliches Versuchszentrum Potó",
       hu: "Potó mezőgazdasági kísérleti központ",
       ro: "Centrul de cercetare agricolă Potó",
-      en: "Potó Agricultural Research Center"
-    },
+      en: "Potó Agricultural Research Center",
+image: "/poi-images/versuchszentrum-poto-life-v2.webp"
+},
     description: {
       de: "Das Versuchszentrum Potó ist das wissenschaftliche Rückgrat der santomeischen Landwirtschaft, wo an der Verbesserung lokaler Nutzpflanzen geforscht wird. Inmitten von sorgfältig angelegten Versuchsfeldern werden neue Sorten von Kakao, Kaffee und exotischen Früchten auf ihre Widerstandsfähigkeit und Erträge getestet. Das Zentrum spielt eine entscheidende Rolle bei der Einführung nachhaltiger Anbaumethoden, die den Kleinbauern des Landes helfen, sich an klimatische Veränderungen anzupassen.",
       hu: "A Potó kísérleti központ a São Tomé-i mezőgazdaság tudományos gerince, ahol a helyi haszonnövények javításán dolgoznak. Gondosan kialakított kísérleti parcellákon tesztelik az új kakaó-, kávé- és egzotikus gyümölcsfajták ellenállóképességét és hozamát. A központ döntő szerepet játszik a fenntartható termesztési módszerek bevezetésében, amelyek segítik az ország kisgazdáit az éghajlatváltozáshoz való alkalmazkodásban.",
@@ -114,8 +116,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Kinderpark von São Tomé",
       hu: "São Tomé-i gyermekpark",
       ro: "Parcul copiilor din São Tomé",
-      en: "São Tomé Children's Park"
-    },
+      en: "São Tomé Children's Park",
+image: "/poi-images/kinderpark-sao-tome-life-v2.webp"
+},
     description: {
       de: "Der Kinderpark im Zentrum der Hauptstadt ist eine bunte Oase der Freude, in der die jüngsten Bewohner der Insel nach Herzenslust spielen können. Mit seinen sicher gestalteten Klettergerüsten, Schaukeln und den schattigen Sitzbereichen für Eltern ist er ein beliebter Treffpunkt für Familien am Wochenende. Die fröhliche Atmosphäre und die leuchtenden Farben der Spielgeräte bilden einen schönen Kontrast zum historischen Stadtbild und machen den Park zu einem Ort der unbeschwerten Kindheit.",
       hu: "A főváros központjában található gyermekpark az öröm színes oázisa, ahol a sziget legfiatalabb lakói kedvükre játszhatnak. Biztonságos mászókáival, hintáival és a szülők számára kialakított árnyékos pihenőhelyeivel a családok kedvelt hétvégi találkozóhelye. A vidám hangulat és a játékok élénk színei szép kontrasztot alkotnak a történelmi városképpel, a felhőtlen gyermekkor helyszínévé téve a parkot.",
@@ -166,8 +169,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Botanischer Garten Bom Successo",
       hu: "Bom Successo botanikus kert",
       ro: "Grădina Botanică Bom Successo",
-      en: "Bom Successo Botanical Garden"
-    },
+      en: "Bom Successo Botanical Garden",
+image: "/poi-images/garten-bom-successo-life-v2.webp"
+},
     description: {
       de: "Am Eingang zum Obô-Nationalpark gelegen, ist der Botanische Garten Bom Successo ein Schaufenster der unglaublichen Flora von São Tomé. In den gepflegten Beeten und Gewächshäusern werden hunderte von Orchideenarten und endemischen Pflanzen kultiviert, die nirgendwo sonst auf der Erde vorkommen. Der Garten dient nicht nur der Ästhetik, sondern ist ein wichtiges Zentrum für den Erhalt seltener Arten und bietet Lebensraum für zahlreiche bunte Schmetterlinge und tropische Vögel.",
       hu: "Az Obô Nemzeti Park bejáratánál található Bom Successo botanikus kert São Tomé hihetetlen flórájának bemutatóhelye. Gondozott ágyásokban és üvegházakban több száz orchideafajt és olyan endemikus növényt nevelnek, amelyek a Földön sehol máshol nem fordulnak elő. A kert nemcsak esztétikai célokat szolgál, hanem a ritka fajok megőrzésének fontos központja, és számos színes lepkének és trópusi madárnak nyújt élőhelyet.",
@@ -218,8 +222,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Vanille-Farm von Henrique",
       hu: "Henrique vaníliafarmja",
       ro: "Ferma de vanilie din Henrique",
-      en: "Henrique Vanilla Farm"
-    },
+      en: "Henrique Vanilla Farm",
+image: "/poi-images/vanille-farm-henrique-life-v2.webp"
+},
     description: {
       de: "In den kühleren Höhenlagen von Henrique erstreckt sich eine spezialisierte Farm, die sich dem Anbau der kostbaren Bourbon-Vanille widmet. Die Kletterpflanzen ranken sich an schattigen Trägerbäumen empor, während jede Blüte von Hand bestäubt werden muss – ein Beweis für die handwerkliche Präzision der lokalen Bauern. Hier können Besucher den langwierigen Prozess von der Ernte der grünen Schoten bis hin zur Fermentierung und Trocknung miterleben, die der Vanille ihr unvergleichliches Aroma verleiht.",
       hu: "Henrique hűvösebb felföldjein egy speciális farm terül el, amelyet a nemes Bourbon-vanília termesztésének szenteltek. A kúszónövények árnyékot adó tartófákra kapaszkodnak fel, miközben minden egyes virágot kézzel kell beporozni – ez a helyi gazdák kézműves precizitásának bizonyítéka. Itt a látogatók végigkísérhetik a hosszú folyamatot a zöld hüvelyek betakarításától a fermentáláson át a szárításig, ami a vanília páratlan aromáját adja.",
@@ -270,8 +275,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Papageienreservat von Príncipe",
       hu: "Príncipe-i papagájrezervátum",
       ro: "Rezervația de papagali din Príncipe",
-      en: "Príncipe Parrot Sanctuary"
-    },
+      en: "Príncipe Parrot Sanctuary",
+image: "/poi-images/papageien-principe-life-v2.webp"
+},
     description: {
       de: "Tief im geschützten Biosphärenreservat von Príncipe befindet sich ein spezielles Schutzgebiet für den endemischen Príncipe-Papagei. In den dichten Baumkronen des Primärwaldes finden diese intelligenten Vögel ideale Bedingungen zum Brüten und zur Nahrungssuche. Das Reservat widmet sich dem Schutz vor Wilderei und der Erhaltung der riesigen Urwaldbäume, die als Nistplätze dienen. Wer dem leisen Krächzen in den Baumwipfeln folgt, kann mit etwas Glück die leuchtend grünen Federn dieser seltenen Vögel zwischen dem dichten Laub entdecken.",
       hu: "Príncipe védett bioszféra-rezervátumának mélyén található egy speciális védelmi terület az endemikus Príncipe-i papagáj számára. Az őserdő sűrű lombkoronájában ezek az intelligens madarak ideális körülményeket találnak a költéshez és a táplálékszerzéshez. A rezervátum az orvvadászat elleni védelemnek és a fészkelőhelyül szolgáló óriási ősfák megőrzésének szenteli magát. Aki követi a halk károgást a lombkoronában, némi szerencsével felfedezheti e ritka madarak élénkzöld tollait a sűrű levelek között.",
@@ -322,8 +328,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Kaffee-Plantage Nova Moca",
       hu: "Nova Moca kávéültetvény",
       ro: "Plantația de cafea Nova Moca",
-      en: "Nova Moca Coffee Plantation"
-    },
+      en: "Nova Moca Coffee Plantation",
+image: "/poi-images/kaffee-nova-moca-life-v2.webp"
+},
     description: {
       de: "Hoch über den Wolkenwäldern von Mé-Zóchi liegt die historische Plantage Nova Moca, die für die Produktion von hochwertigem Arabica-Kaffee weltberühmt ist. Die Kaffeesträucher gedeihen hier auf fruchtbarem vulkanischem Boden in einem kühlen Klima, das den Bohnen ein besonders feines Aroma verleiht. Nova Moca ist ein Vorzeigebeispiel für fairen Handel und ökologischen Landbau, bei dem die Kaffeekirschen noch traditionell im Schatten großer Bäume heranreifen und von Hand verlesen werden.",
       hu: "Mé-Zóchi felhőerdői felett magasan fekszik a történelmi Nova Moca ültetvény, amely kiváló minőségű Arabica kávétermeléséről világhírű. A kávécserjék itt termékeny vulkáni talajon, hűvös éghajlaton fejlődnek, ami a baboknak különösen finom aromát kölcsönöz. Nova Moca a méltányos kereskedelem és az ökológiai gazdálkodás példaképe, ahol a kávécseresznyék még hagyományosan, nagy fák árnyékában érnek be, és kézzel válogatják őket.",
@@ -374,8 +381,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Schildkrötencamp Morro Peixe",
       hu: "Morro Peixe teknőstábor",
       ro: "Tabăra de țestoase Morro Peixe",
-      en: "Morro Peixe Turtle Camp"
-    },
+      en: "Morro Peixe Turtle Camp",
+image: "/poi-images/schildkroeten-morro-peixe-life-v2.webp"
+},
     description: {
       de: "Das Schildkrötencamp Morro Peixe ist ein engagiertes Naturschutzzentrum an der nordwestlichen Küste, das von der lokalen Gemeinschaft geführt wird. Hier können Besucher mehr über die Biologie der Meeresschildkröten erfahren und die Schutzmaßnahmen aus nächster Nähe beobachten. Das Camp spielt eine zentrale Rolle bei der Überwachung der Strände und der Rettung verirrter Jungtiere, wobei besonderer Wert auf die Einbeziehung der ehemaligen Schildkrötenjäger in die Naturschutzarbeit gelegt wird.",
       hu: "A Morro Peixe teknőstábor egy elkötelezett természetvédelmi központ az északnyugati parton, amelyet a helyi közösség vezet. Itt a látogatók többet megtudhatnak a tengeri teknősök biológiájáról, és közelről megfigyelhetik a védelmi intézkedéseket. A tábor központi szerepet játszik a strandok felügyeletében és az eltévedt fiatal állatok mentésében, különös hangsúlyt fektetve a korábbi teknősvadászok bevonására a természetvédelmi munkába.",
@@ -426,8 +434,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Kinderfreizeitzentrum Príncipe",
       hu: "Príncipe-i gyermek szabadidőközpont",
       ro: "Centrul de recreere pentru copii din Príncipe",
-      en: "Príncipe Children's Leisure Center"
-    },
+      en: "Príncipe Children's Leisure Center",
+image: "/poi-images/kinderzentrum-principe-life-v2.webp"
+},
     description: {
       de: "Das Kinderfreizeitzentrum in Santo António ist der Mittelpunkt für Spiel und Bildung für die Kinder auf der Insel Príncipe. Mit seinen interaktiven Spielbereichen, einer kleinen Bibliothek und Platz für sportliche Aktivitäten bietet es einen sicheren Raum für die Entwicklung und den Austausch. Das Zentrum wird oft für kulturelle Workshops genutzt, bei denen Kinder die traditionellen Tänze und Lieder ihrer Insel lernen und so das kulturelle Erbe lebendig halten.",
       hu: "A Santo António-i gyermek szabadidőközpont a játék és az oktatás központja a Príncipe-szigeti gyerekek számára. Interaktív játszóterekkel, egy kis könyvtárral és sportolási lehetőségekkel biztonságos teret kínál a fejlődéshez és a kapcsolatteremtéshez. A központot gyakran használják kulturális műhelyfoglalkozásokra, ahol a gyerekek megtanulják szigetük hagyományos táncait és dalait, így tartva életben a kulturális örökséget.",
@@ -478,8 +487,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Gewürzfarm von Uba Budo",
       hu: "Uba Budo fűszerfarm",
       ro: "Ferma de mirodenii din Uba Budo",
-      en: "Uba Budo Spice Farm"
-    },
+      en: "Uba Budo Spice Farm",
+image: "/poi-images/gewuerzfarm-uba-budo-life-v2.webp"
+},
     description: {
       de: "Tief im grünen Herzen von Cantagalo liegt die Gewürzfarm von Uba Budo, ein Ort, an dem die Luft von den intensiven Düften des Orients und der Tropen erfüllt ist. Hier werden schwarzer Pfeffer, Nelken, Zimt und Ingwer unter den schattigen Kronen riesiger Urwaldbäume angebaut. Die Farm bietet einen faszinierenden Einblick in die Ernte und Verarbeitung dieser kostbaren Güter, die seit Jahrhunderten ein wichtiger Teil des santomeischen Exports sind und heute besonders für ihre hohe Qualität geschätzt werden.",
       hu: "Cantagalo zöld szívének mélyén fekszik az Uba Budo fűszerfarm, ahol a levegőt a Kelet és a trópusok intenzív illatai töltik meg. Itt feketeborsot, szegfűszeget, fahéjat és gyömbért termesztenek óriási őserdei fák árnyékában. A farm lenyűgöző betekintést nyújt ezen értékes javak betakarításába és feldolgozásába, amelyek évszázadok óta fontos részét képezik a São Tomé-i exportnak, és ma különösen nagyra értékelik kiváló minőségüket.",
@@ -530,8 +540,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Buckelwal-Beobachtungsstation",
       hu: "Hosszúszárnyú bálna megfigyelő állomás",
       ro: "Stația de observare a balenelor cu cocoașă",
-      en: "Humpback Whale Observation Station"
-    },
+      en: "Humpback Whale Observation Station",
+image: "/poi-images/wal-beobachtung-leba-life-v2.webp"
+},
     description: {
       de: "Vor der Westküste von São Tomé, in der Nähe von Neves, befindet sich ein wichtiges Gebiet für die Beobachtung von Buckelwalen während ihrer jährlichen Wanderung. Die Meeresströmungen und die Wassertemperatur ziehen diese majestätischen Riesen zwischen Juli und Oktober in die Nähe der Küste. Die Beobachtungsstation koordiniert Ausflüge und sammelt wichtige Daten über das Verhalten und die Bestandsentwicklung der Wale, um ihren Schutz in den Gewässern des Archipels zu gewährleisten.",
       hu: "São Tomé nyugati partjainál, Neves közelében található a hosszúszárnyú bálnák éves vándorlásának egyik fontos megfigyelőhelye. A tengeráramlatok és a víz hőmérséklete július és október között a part közelébe vonzza ezeket a fenséges óriásokat. A megfigyelő állomás koordinálja a kirándulásokat, és fontos adatokat gyűjt a bálnák viselkedéséről és állományuk alakulásáról, hogy biztosítsák védelmüket a szigetcsoport vizeiben.",
@@ -582,8 +593,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Bananenplantage von Generosa",
       hu: "Generosai banánültetvény",
       ro: "Plantația de banane din Generosa",
-      en: "Generosa Banana Plantation"
-    },
+      en: "Generosa Banana Plantation",
+image: "/poi-images/bananen-generosa-life-v2.webp"
+},
     description: {
       de: "Die Bananenplantage von Generosa im Westen der Insel ist ein Musterbeispiel für den nachhaltigen Anbau verschiedener Bananensorten. Inmitten der üppigen Vegetation wachsen neben den klassischen Export-Bananen auch lokale Spezialitäten wie Kochbananen und süße Mini-Bananen. Die Plantage nutzt natürliche Düngemittel und verzichtet auf Pestizide, wodurch ein gesundes Ökosystem erhalten bleibt, in dem auch zahlreiche Insekten und Vögel eine Heimat finden.",
       hu: "A sziget nyugati részén található generosai banánültetvény mintapéldája a különböző banánfajták fenntartható termesztésének. A dús vegetáció közepette a klasszikus exportbanánok mellett olyan helyi különlegességek is teremnek, mint a főzőbanán és az édes minibanán. Az ültetvény természetes trágyát használ és kerüli a növényvédő szereket, így tartva fenn egy egészséges ökoszisztémát, amelyben számos rovar és madár is otthonra talál.",
@@ -634,8 +646,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Korallenschutzzone Micolo",
       hu: "Micolo korallvédelmi zóna",
       ro: "Zona de protecție a coraliilor Micolo",
-      en: "Micolo Coral Protection Zone"
-    },
+      en: "Micolo Coral Protection Zone",
+image: "/poi-images/korallen-micolo-life-v2.webp"
+},
     description: {
       de: "Vor der malerischen Küste von Micolo erstreckt sich eine wichtige Schutzzone für die empfindlichen Korallenriffe des Nordens. Das flache, warme Wasser bietet ideale Bedingungen für eine Vielzahl von Hart- und Weichkorallen, die als Kinderstube für zahlreiche Fischarten dienen. Die Schutzzone zielt darauf ab, die zerstörerische Dynamitfischerei zu unterbinden und das Bewusstsein für die Bedeutung der marinen Biodiversität bei den lokalen Fischern und Besuchern zu schärfen.",
       hu: "Micolo festői partjai előtt egy fontos védelmi zóna húzódik az északi rész érzékeny korallzátonyai számára. A sekély, meleg víz ideális feltételeket biztosít számos kemény- és lágykorall számára, amelyek számos halfaj bölcsőjeként szolgálnak. A védelmi zóna célja a romboló dinamitos halászat megakadályozása, valamint a tengeri biodiverzitás jelentőségének tudatosítása a helyi halászok és a látogatók körében.",
@@ -686,8 +699,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Kakaohof Diogo Vaz",
       hu: "Diogo Vaz kakaóudvar",
       ro: "Ferma de cacao Diogo Vaz",
-      en: "Diogo Vaz Cocoa Farm"
-    },
+      en: "Diogo Vaz Cocoa Farm",
+image: "/poi-images/kakaohof-diogo-vaz-life-v2.webp"
+},
     description: {
       de: "Der Kakaohof von Diogo Vaz ist ein bedeutendes Zentrum für die Kultivierung von hochwertigem Edelkakao an der Westküste. Hier werden die traditionellen Methoden des Anbaus unter dem schützenden Dach von Schattenbäumen bewahrt, während modernste Techniken bei der Fermentierung zum Einsatz kommen. Die Bohnen von Diogo Vaz zeichnen sich durch ihr komplexes Aroma aus und werden direkt vor Ort zu preisgekrönten Pralinen und Tafelschokoladen verarbeitet, was den Hof zu einem Symbol für den Aufstieg des santomeischen Kakaos macht.",
       hu: "A Diogo Vaz-i kakaóudvar a kiváló minőségű nemes kakaó termesztésének jelentős központja a nyugati parton. Itt megőrizik az árnyékot adó fák védelme alatti hagyományos termesztési módszereket, miközben a legmodernebb technikákat alkalmazzák a fermentálás során. A Diogo Vaz-i babokat komplex aroma jellemzi, és közvetlenül a helyszínen dolgozzák fel őket díjnyertes pralinékká és táblás csokoládékká, ami az udvart a São Tomé-i kakaó felemelkedésének szimbólumává teszi.",
@@ -738,8 +752,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Orchideengarten von Cantagalo",
       hu: "Cantagalói orchideakert",
       ro: "Grădina de orhidee din Cantagalo",
-      en: "Cantagalo Orchid Garden"
-    },
+      en: "Cantagalo Orchid Garden",
+image: "/poi-images/orchideengarten-cantagalo-life-v2.webp"
+},
     description: {
       de: "Im Herzen des Cantagalo-Bezirks liegt dieser spezialisierte Garten, der sich der Erhaltung und Zucht der faszinierenden Orchideen von São Tomé widmet. Unter schattigen Pergolen und an alten Bäumen hängen hunderte von verschiedenen Arten, von winzigen Blüten bis hin zu prachtvollen Exemplaren in leuchtenden Farben. Der Garten ist ein wichtiges Refugium für seltene endemische Arten und bietet einen ruhigen Ort der Kontemplation, an dem die zerbrechliche Schönheit der tropischen Flora bewundert werden kann.",
       hu: "Cantagalo körzet szívében fekszik ez a speciális kert, amelyet São Tomé lenyűgöző orchideáinak megőrzésének és szaporításának szenteltek. Árnyas pergolák alatt és öreg fákon több száz különböző faj függ, az apró virágoktól a ragyogó színű, pompás példányokig. A kert a ritka endemikus fajok fontos menedékhelye, és a nyugodt elmélyülés helyszíne, ahol megcsodálható a trópusi flóra törékeny szépsége.",
@@ -790,8 +805,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Spielplatz am Unabhängigkeitsplatz",
       hu: "Függetlenség téri játszótér",
       ro: "Locul de joacă din Piața Independenței",
-      en: "Independence Square Playground"
-    },
+      en: "Independence Square Playground",
+image: "/poi-images/spielplatz-independencia-life-v2.webp"
+},
     description: {
       de: "Der Spielplatz am Unabhängigkeitsplatz in São Tomé ist ein beliebter Ort für städtische Familien, an dem Kinder in einer sicheren Umgebung spielen können. Der Platz ist von historischen Gebäuden umgeben und bietet moderne Spielgeräte, die Bewegung und Kreativität fördern. Durch die zentrale Lage ist der Spielplatz ein lebendiger Treffpunkt, an dem Kinder aus verschiedenen Stadtteilen zusammenkommen und die soziale Integration auf spielerische Weise gefördert wird.",
       hu: "A São Tomé-i Függetlenség téren található játszótér a városi családok kedvelt helye, ahol a gyerekek biztonságos környezetben játszhatnak. A teret történelmi épületek veszik körül, a modern játékok pedig a mozgást és a kreativitást ösztönzik. Központi elhelyezkedése miatt a játszótér élénk találkozóhely, ahol a különböző városrészekből érkező gyerekek összejönnek, játékos formában segítve a társadalmi integrációt.",
@@ -842,8 +858,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Palmöl-Zentrum Ribeira Peixe",
       hu: "Ribeira Peixe pálmaolaj-központ",
       ro: "Centrul de ulei de palmier Ribeira Peixe",
-      en: "Ribeira Peixe Oil Palm Center"
-    },
+      en: "Ribeira Peixe Oil Palm Center",
+image: "/poi-images/palmoel-ribeira-peixe-life-v2.webp"
+},
     description: {
       de: "Ribeira Peixe im tiefen Süden der Insel ist das Herz der santomeischen Palmölproduktion. Die weiten Plantagen erstrecken sich über sanfte Hügel bis zum Ozean und werden nach modernen ökologischen Standards bewirtschaftet. Das Zentrum umfasst nicht nur die Anbauflächen, sondern auch moderne Verarbeitungsanlagen, in denen das Öl direkt aus den frischen Palmfrüchten gepresst wird. Dieses Projekt sichert hunderte von Arbeitsplätzen in der Region und ist ein wichtiger Faktor für die wirtschaftliche Entwicklung des Südens.",
       hu: "A sziget mély déli részén fekvő Ribeira Peixe a São Tomé-i pálmaolaj-termelés szíve. A hatalmas ültetvények lágy dombokon át húzódnak az óceánig, és modern ökológiai szabványok szerint művelik őket. A központ nemcsak a termőterületeket foglalja magában, hanem modern feldolgozóüzemeket is, ahol az olajat közvetlenül a friss pálmagyümölcsökből préselik. Ez a projekt több száz munkahelyet biztosít a régióban, és fontos tényező a dél gazdasági fejlődésében.",
@@ -894,8 +911,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Vogelbeobachtungsplatz Iô Grande",
       hu: "Iô Grande madármegfigyelő hely",
       ro: "Punctul de observare a păsărilor Iô Grande",
-      en: "Iô Grande Bird Watching Site"
-    },
+      en: "Iô Grande Bird Watching Site",
+image: "/poi-images/vogelplatz-io-grande-life-v2.webp"
+},
     description: {
       de: "An den Ufern des Rio Iô Grande im Distrikt Caué befindet sich einer der besten Plätze der Insel für die Beobachtung seltener Vogelarten. Die Kombination aus Flusslandschaft und angrenzendem Regenwald bietet einen idealen Lebensraum für den santomeischen Eisvogel und verschiedene endemische Nektarvögel. In den frühen Morgenstunden ist die Aktivität am höchsten, wenn der dichte Nebel sich lichtet und die Vögel in den blühenden Bäumen am Ufer nach Nahrung suchen, ein wahres Paradies für Ornithologen und Naturliebhaber.",
       hu: "A Caué körzetben, a Rio Iô Grande partján található a sziget egyik legjobb helye a ritka madárfajok megfigyelésére. A folyómenti táj és a szomszédos esőerdő kombinációja ideális élőhelyet biztosít a São Tomé-i jégmadár és különböző endemikus nektármadarak számára. Kora reggel a legnagyobb az aktivitás, amikor felszáll a sűrű köd, és a madarak táplálékot keresnek a parti virágzó fák között; valódi paradicsom ez az ornitológusok és a természetkedvelők számára.",
@@ -946,8 +964,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Abenteuerspielplatz Neves",
       hu: "Nevesi kalandjátszótér",
       ro: "Locul de joacă de aventură din Neves",
-      en: "Neves Adventure Playground"
-    },
+      en: "Neves Adventure Playground",
+image: "/poi-images/abenteuerspielplatz-neves-life-v2.webp"
+},
     description: {
       de: "Der Abenteuerspielplatz in der Industriestadt Neves bietet den Kindern der Region einen aufregenden Ort für körperliche Betätigung und gemeinsames Spiel. Mit seinen robusten Kletterkonstruktionen, die teilweise aus recycelten Materialien lokaler Betriebe gefertigt wurden, fördert er den Erfindungsgeist und die Abenteuerlust. Der Spielplatz liegt in der Nähe der Küste und bietet neben den klassischen Spielgeräten auch Platz für Ballspiele, was ihn zum pulsierenden Zentrum der Jugendkultur im Westen der Insel macht.",
       hu: "A Neves iparvárosában található kalandjátszótér izgalmas helyet kínál a régió gyermekeinek a testmozgáshoz és a közös játékhoz. Robusztus mászószerkezeteivel, amelyek részben helyi üzemek újrahasznosított anyagaiból készültek, ösztönzi a találékonyságot és a kalandvágyat. A játszótér a part közelében fekszik, és a klasszikus játékok mellett labdajátékoknak is helyet ad, így a sziget nyugati részén az ifjúsági kultúra lüktető központjává válik.",
@@ -998,8 +1017,9 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
       de: "Lernbauernhof Agostinho Neto",
       hu: "Agostinho Neto tanfarm",
       ro: "Ferma educațională Agostinho Neto",
-      en: "Agostinho Neto Educational Farm"
-    },
+      en: "Agostinho Neto Educational Farm",
+image: "/poi-images/lernbauernhof-agostinho-neto-life-v2.webp"
+},
     description: {
       de: "Der Lernbauernhof in der historischen Roça Agostinho Neto ist ein innovatives Bildungsprojekt, das Schülern und Besuchern die Bedeutung der Landwirtschaft näherbringt. Hier werden traditionelle Anbautechniken mit modernem Wissen über biologische Vielfalt verknüpft. Kinder können aktiv beim Pflanzen von Gemüse helfen, die Haltung von Nutztieren kennenlernen und mehr über den Weg des Kakaos von der Blüte bis zur Ernte erfahren. Der Hof dient als lebendiges Klassenzimmer und stärkt das Bewusstsein für eine nachhaltige Zukunft des Archipels.",
       hu: "A történelmi Roça Agostinho Netoban található tanfarm egy innovatív oktatási projekt, amely közelebb hozza a mezőgazdaság jelentőségét a diákokhoz és a látogatókhoz. Itt a hagyományos termesztési technikákat ötvözik a biodiverzitással kapcsolatos modern ismeretekkel. A gyerekek aktívan segíthetnek a zöldségültetésben, megismerkedhetnek a haszonállatok tartásával, és többet tudhatnak meg a kakaó útjáról a virágzástól a betakarításig. A farm élő tanteremként szolgál, és erősíti a szigetcsoport fenntartható jövője iránti tudatosságot.",

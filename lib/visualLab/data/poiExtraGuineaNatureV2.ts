@@ -11,8 +11,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Mount Nimba",
       hu: "Nimba-hegy",
       ro: "Muntele Nimba",
-      en: "Mount Nimba"
-    },
+      en: "Mount Nimba",
+image: "/poi-images/mount-nimba-nature-v2.webp"
+},
     description: {
       de: "Der Mount Nimba ist der höchste Berg Guineas und Teil des Nimba-Massivs, das als UNESCO-Welterbe gelistet ist. Er beherbergt eine außergewöhnliche Artenvielfalt in seinen Bergwäldern.",
       hu: "A Nimba-hegy Guinea legmagasabb pontja és a Nimba-masszívum része, amely az UNESCO Világörökség listáján szerepel. Hegyi erdőiben rendkívüli biológiai sokféleség található.",
@@ -46,8 +47,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Niger",
       hu: "Niger",
       ro: "Niger",
-      en: "Niger"
-    },
+      en: "Niger",
+image: "/poi-images/niger-river-nature-v2.webp"
+},
     description: {
       de: "Der Niger entspringt im Bergland von Guinea und ist der drittlängste Fluss Afrikas. Er ist die lebenswichtige Wasserquelle für das gesamte westliche Afrika.",
       hu: "A Niger-folyó Guinea hegyvidékén ered, és Afrika harmadik leghosszabb folyója. Létfontosságú vízforrás az egész nyugat-afrikai régió számára.",
@@ -82,8 +84,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Fouta Djallon",
       hu: "Fouta Djallon",
       ro: "Fouta Djallon",
-      en: "Fouta Djallon"
-    },
+      en: "Fouta Djallon",
+image: "/poi-images/fouta-djallon-nature-v2.webp"
+},
     description: {
       de: "Das Fouta Djallon ist ein ausgedehntes Hochland im Westen Guineas, bekannt als das 'Wasserschloss Westafrikas'. Hier entspringen zahlreiche große Flüsse der Region.",
       hu: "A Fouta Djallon Guinea nyugati részén található kiterjedt hegyvidék, amelyet 'Nyugat-Afrika víztornyának' is neveznek. Itt ered a régió számos nagy folyója.",
@@ -117,8 +120,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Mount Loura",
       hu: "Loura-hegy",
       ro: "Muntele Loura",
-      en: "Mount Loura"
-    },
+      en: "Mount Loura",
+image: "/poi-images/mount-loura-nature-v2.webp"
+},
     description: {
       de: "Der Mount Loura ist der nördlichste Punkt des Fouta Djallon Massivs. Bekannt ist er für die 'Dame de Mali', eine natürliche Felsformation, die einer Frau ähnelt.",
       hu: "A Loura-hegy a Fouta Djallon-masszívum legészakibb pontja. Híres a 'Mali hölgye' nevű természetes sziklaképződményéről, amely egy női alakot formáz.",
@@ -153,8 +157,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Bafing",
       hu: "Bafing",
       ro: "Bafing",
-      en: "Bafing"
-    },
+      en: "Bafing",
+image: "/poi-images/bafing-river-nature-v2.webp"
+},
     description: {
       de: "Der Bafing ist der wichtigste Quellfluss des Senegal-Flusses. Er fließt durch den Norden Guineas und ist für das hydroelektrische Potenzial der Region von großer Bedeutung.",
       hu: "A Bafing a Szenegál-folyó legfontosabb forráságának tekinthető. Guinea északi részén folyik keresztül, és fontos szerepe van a régió vízienergia-termelésében.",
@@ -188,8 +193,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Gambia-Quelle",
       hu: "Gambia-folyó forrása",
       ro: "Izvorul râului Gambia",
-      en: "Gambia River Source"
-    },
+      en: "Gambia River Source",
+image: "/poi-images/gambia-river-source-nature-v2.webp"
+},
     description: {
       de: "Die Quelle des Gambia-Flusses liegt im zentralen Fouta Djallon. Von hier aus beginnt der Fluss seinen langen Weg bis zur Atlantikküste im Norden.",
       hu: "A Gambia-folyó forrása a központi Fouta Djallonban található. Innen indul a folyó hosszú útja észak felé, egészen az Atlanti-óceánig.",
@@ -224,8 +230,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Insel Kassa",
       hu: "Kassa-sziget",
       ro: "Insula Kassa",
-      en: "Kassa Island"
-    },
+      en: "Kassa Island",
+image: "/poi-images/kassa-island-nature-v2.webp"
+},
     description: {
       de: "Kassa ist die bevölkerungsreichste Insel der Îles de Los vor Conakry. Sie bietet schöne Strände und war historisch ein Zentrum des Bauxitabbaus.",
       hu: "Kassa a Conakry előtt fekvő Îles de Los legnépesebb szigete. Gyönyörű strandokat kínál, és történelmileg a bauxitbányászat egyik központja volt.",
@@ -259,8 +266,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Insel Roume",
       hu: "Roume-sziget",
       ro: "Insula Roume",
-      en: "Roume Island"
-    },
+      en: "Roume Island",
+image: "/poi-images/roume-island-nature-v2.webp"
+},
     description: {
       de: "Die Insel Roume gehört zum Archipel der Îles de Los. Sie soll die Inspiration für den Roman 'Die Schatzinsel' gewesen sein und ist heute ein beliebtes Ausflugsziel.",
       hu: "Roume szigete az Îles de Los szigetcsoporthoz tartozik. Állítólag ez a sziget ihlette 'A kincses sziget' című regényt, ma pedig népszerű kirándulóhely.",
@@ -294,8 +302,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Milo",
       hu: "Milo",
       ro: "Milo",
-      en: "Milo"
-    },
+      en: "Milo",
+image: "/poi-images/milo-river-nature-v2.webp"
+},
     description: {
       de: "Der Milo ist ein wichtiger Nebenfluss des Niger im Osten Guineas. Er fließt durch Kankan und ist eine bedeutende Wasserstraße für die Region.",
       hu: "A Milo a Niger fontos mellékfolyója Guinea keleti részén. Kankan városán folyik keresztül, és a régió jelentős vízi útja.",
@@ -329,8 +338,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Konkouré",
       hu: "Konkouré",
       ro: "Konkouré",
-      en: "Konkouré"
-    },
+      en: "Konkouré",
+image: "/poi-images/konkoure-river-nature-v2.webp"
+},
     description: {
       de: "Der Konkouré ist einer der wichtigsten Küstenflüsse Guineas. Er ist bekannt für seine großen Wasserkraftwerke, die die Aluminiumindustrie des Landes versorgen.",
       hu: "A Konkouré Guinea egyik legfontosabb parti folyója. Híres nagy vízi erőműveiről, amelyek az ország alumíniumiparát látják el energiával.",
@@ -364,8 +374,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Ziama-Wald",
       hu: "Ziama-erdő",
       ro: "Pădurea Ziama",
-      en: "Ziama Forest"
-    },
+      en: "Ziama Forest",
+image: "/poi-images/ziama-forest-nature-v2.webp"
+},
     description: {
       de: "Das Ziama-Massiv beherbergt einen der letzten großen Primärregenwälder Guineas. Es ist ein Biosphärenreservat und Heimat einer bedeutenden Elefantenpopulation.",
       hu: "A Ziama-masszívum Guinea egyik utolsó nagy elsődleges esőerdőjének ad otthont. Bioszféra-rezervátum és jelentős elefántpopuláció élőhelye.",
@@ -399,8 +410,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Tinkisso",
       hu: "Tinkisso",
       ro: "Tinkisso",
-      en: "Tinkisso"
-    },
+      en: "Tinkisso",
+image: "/poi-images/tinkisso-river-nature-v2.webp"
+},
     description: {
       de: "Der Tinkisso ist ein großer Nebenfluss des Niger im Norden Guineas. Er fließt durch eine malerische Savannenlandschaft und ist wichtig für die lokale Landwirtschaft.",
       hu: "A Tinkisso a Niger nagy mellékfolyója Guinea északi részén. Festői szavannai tájon folyik keresztül, és fontos a helyi mezőgazdaság számára.",
@@ -434,8 +446,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Atlantischer Ozean",
       hu: "Atlanti-óceán",
       ro: "Oceanul Atlantic",
-      en: "Atlantic Ocean"
-    },
+      en: "Atlantic Ocean",
+image: "/poi-images/atlantic-ocean-guinea-nature-v2.webp"
+},
     description: {
       de: "Die guineische Atlantikküste erstreckt sich über hunderte Kilometer und ist geprägt von Mangrovenwäldern, Flussmündungen und weiten Sandstränden.",
       hu: "A guineai atlanti partvidék több száz kilométeren át húzódik, mangroveerdők, folyótorkolatok és széles homokos strandok jellemzik.",
@@ -469,8 +482,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Mount Gangan",
       hu: "Gangan-hegy",
       ro: "Muntele Gangan",
-      en: "Mount Gangan"
-    },
+      en: "Mount Gangan",
+image: "/poi-images/mount-gangan-nature-v2.webp"
+},
     description: {
       de: "Der Mount Gangan überragt die Stadt Kindia und bietet einen spektakulären Blick auf das Umland. Er ist ein Wahrzeichen der Region und beliebt bei Wanderern.",
       hu: "A Gangan-hegy Kindia városa fölé magasodik, és látványos kilátást nyújt a környékre. A régió jelképe és a túrázók kedvelt célpontja.",
@@ -504,8 +518,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Fatala",
       hu: "Fatala",
       ro: "Fatala",
-      en: "Fatala"
-    },
+      en: "Fatala",
+image: "/poi-images/fatala-river-nature-v2.webp"
+},
     description: {
       de: "Der Fatala-Fluss fließt durch die Region Boké in den Atlantik. Er ist bekannt für seine Mangrovenlandschaften und die historische Bedeutung für den Handel an der Küste.",
       hu: "A Fatala-folyó a Boké régión keresztül folyik az Atlanti-óceánba. Híres mangrove-tájairól és a tengerparti kereskedelemben betöltött történelmi jelentőségéről.",
@@ -539,8 +554,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Diecké-Wald",
       hu: "Diecké-erdő",
       ro: "Pădurea Diecké",
-      en: "Diecké Forest"
-    },
+      en: "Diecké Forest",
+image: "/poi-images/diecke-forest-nature-v2.webp"
+},
     description: {
       de: "Das Diecké-Waldreservat im Süden Guineas ist ein bedeutender Regenwald, der für den Erhalt seltener Tierarten wie Schimpansen und Zwergflusspferde wichtig ist.",
       hu: "A dél-guineai Diecké-erdőrezervátum jelentős esőerdő, amely fontos szerepet játszik az olyan ritka állatfajok megőrzésében, mint a csimpánzok és a törpevízilók.",
@@ -574,8 +590,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Sonfonia-See",
       hu: "Sonfonia-tó",
       ro: "Lacul Sonfonia",
-      en: "Lake Sonfonia"
-    },
+      en: "Lake Sonfonia",
+image: "/poi-images/lake-sonfonia-nature-v2.webp"
+},
     description: {
       de: "Der Sonfonia-See liegt am Rande der Hauptstadt Conakry. Er dient als wichtiges Wasserreservoir und ist ein Ort für lokale Freizeitaktivitäten.",
       hu: "A Sonfonia-tó a főváros, Conakry szélén található. Fontos víztározóként szolgál, és a helyi szabadidős tevékenységek helyszíne.",
@@ -609,8 +626,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Tristao-Inseln",
       hu: "Tristao-szigetek",
       ro: "Insulele Tristao",
-      en: "Tristao Islands"
-    },
+      en: "Tristao Islands",
+image: "/poi-images/tristao-islands-nature-v2.webp"
+},
     description: {
       de: "Die Tristao-Inseln liegen im äußersten Nordwesten der guineischen Küste. Sie sind ein wichtiges Brutgebiet für Seevögel und Meeresschildkröten.",
       hu: "A Tristao-szigetek a guineai partvidék távoli északnyugati részén találhatók. Fontos fészkelőhelyei a tengeri madaraknak és a tengeri teknősöknek.",
@@ -644,8 +662,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Sankarani",
       hu: "Sankarani",
       ro: "Sankarani",
-      en: "Sankarani"
-    },
+      en: "Sankarani",
+image: "/poi-images/sankarani-river-nature-v2.webp"
+},
     description: {
       de: "Der Sankarani ist ein Nebenfluss des Niger, der durch den Osten Guineas fließt. Er bildete historisch eine wichtige Grenze des alten Mali-Reiches.",
       hu: "A Sankarani a Niger mellékfolyója, amely Guinea keleti részén folyik keresztül. Történelmileg az egykori Mali Birodalom fontos határát alkotta.",
@@ -679,8 +698,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Mount Soumba",
       hu: "Soumba-hegy",
       ro: "Muntele Soumba",
-      en: "Mount Soumba"
-    },
+      en: "Mount Soumba",
+image: "/poi-images/mount-soumba-nature-v2.webp"
+},
     description: {
       de: "Der Mount Soumba liegt nördlich von Conakry bei Dubréka. Der Berg ist für seine markante Form und die Wanderwege bekannt, die auf den Gipfel führen.",
       hu: "A Soumba-hegy Conakrytól északra, Dubréka közelében található. A hegy jellegzetes alakjáról és a csúcsra vezető túraútvonalairól ismert.",
@@ -715,8 +735,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Diani",
       hu: "Diani",
       ro: "Diani",
-      en: "Diani"
-    },
+      en: "Diani",
+image: "/poi-images/diani-river-nature-v2.webp"
+},
     description: {
       de: "Der Diani-Fluss (auch St. Paul River genannt) fließt durch die Waldregion Südguineas. Er durchquert dichte Regenwälder und bildet die Grenze zu Liberia.",
       hu: "A Diani-folyó (más néven St. Paul folyó) Dél-Guinea erdős régióján folyik keresztül. Sűrű esőerdőkön halad át, és alkotja a libériai határt.",
@@ -750,8 +771,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Mount Kakoulima",
       hu: "Kakoulima-hegy",
       ro: "Muntele Kakoulima",
-      en: "Mount Kakoulima"
-    },
+      en: "Mount Kakoulima",
+image: "/poi-images/mount-kakoulima-nature-v2.webp"
+},
     description: {
       de: "Der Mount Kakoulima ist ein weithin sichtbarer Berg nahe der Küste bei Conakry. Er ist oft in Wolken gehüllt und gilt als markanter Orientierungspunkt.",
       hu: "A Kakoulima-hegy a tengerpart közelében, Conakry mellett fekvő, messziről látható hegy. Gyakran burkolózik felhőkbe, és jellegzetes tájékozódási pontnak számít.",
@@ -785,8 +807,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Rio Nuñez",
       hu: "Rio Nuñez",
       ro: "Rio Nuñez",
-      en: "Rio Nuñez"
-    },
+      en: "Rio Nuñez",
+image: "/poi-images/rio-nunez-nature-v2.webp"
+},
     description: {
       de: "Der Rio Nuñez ist ein Gezeitenfluss im Westen Guineas. Er ist historisch bedeutsam für den Handel und führt durch weite Mangrovensümpfe zum Atlantik.",
       hu: "A Rio Nuñez egy árapály-folyó Nyugat-Guineában. Történelmileg jelentős a kereskedelem szempontjából, és kiterjedt mangrovemocsarakon keresztül vezet az Atlanti-óceánhoz.",
@@ -820,8 +843,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Insel Fotoba",
       hu: "Fotoba-sziget",
       ro: "Insula Fotoba",
-      en: "Fotoba Island"
-    },
+      en: "Fotoba Island",
+image: "/poi-images/fotoba-island-nature-v2.webp"
+},
     description: {
       de: "Die Insel Fotoba ist die westlichste der Îles de Los. Sie ist bekannt für ihre Ruhe, die dichte Vegetation und die historischen Überreste aus der Kolonialzeit.",
       hu: "Fotoba szigete az Îles de Los legnyugatibb tagja. Nyugalmáról, sűrű növényzetéről és a gyarmati időkből származó történelmi maradványairól ismert.",
@@ -855,8 +879,9 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Koba-See",
       hu: "Koba-tó",
       ro: "Lacul Koba",
-      en: "Lake Koba"
-    },
+      en: "Lake Koba",
+image: "/poi-images/lake-koba-nature-v2.webp"
+},
     description: {
       de: "Der Koba-See liegt in der Küstenregion bei Boffa. Er ist von Palmenhainen umgeben und ein wichtiges lokales Ökosystem für Wasservögel.",
       hu: "A Koba-tó a Boffa közeli partvidéken található. Pálmaligetek veszik körül, és fontos helyi ökoszisztéma a vízimadarak számára.",

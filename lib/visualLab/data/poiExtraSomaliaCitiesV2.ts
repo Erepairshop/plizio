@@ -7,7 +7,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SO-BN",
     coords: [45.3182, 2.0469],
-    name: { de: "Mogadischu", hu: "Mogadishu", ro: "Mogadishu", en: "Mogadishu" },
+    name: { de: "Mogadischu", hu: "Mogadishu", ro: "Mogadishu", en: "Mogadishu",
+image: "/poi-images/mogadishu-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt am Indischen Ozean ist das politische und wirtschaftliche Zentrum des Landes mit einem bedeutenden Seehafen.",
       hu: "Az Indiai-óceán partján fekvő főváros az ország politikai és gazdasági központja, egy fontos tengeri kikötővel.",
@@ -36,7 +38,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-WO",
     coords: [44.0626, 9.5598],
-    name: { de: "Hargeisa", hu: "Hargeysa", ro: "Hargeisa", en: "Hargeisa" },
+    name: { de: "Hargeisa", hu: "Hargeysa", ro: "Hargeisa", en: "Hargeisa",
+image: "/poi-images/hargeisa-cities-v2.webp"
+},
     description: {
       de: "Eine geschäftige Metropole im Norden, die als Verwaltungssitz der Region Woqooyi Galbeed dient und für ihre lebhaften Märkte bekannt ist.",
       hu: "Egy nyüzsgő északi metropolisz, amely a Woqooyi Galbeed régió közigazgatási székhelyeként szolgál, és nyüzsgő piacairól ismert.",
@@ -53,7 +57,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-TO",
     coords: [45.5663, 9.5221],
-    name: { de: "Burao", hu: "Burao", ro: "Burao", en: "Burao" },
+    name: { de: "Burao", hu: "Burao", ro: "Burao", en: "Burao",
+image: "/poi-images/burao-cities-v2.webp"
+},
     description: {
       de: "Diese wichtige Handelsstadt liegt in der Region Togdheer und verbindet verschiedene nomadische Gemeinschaften der Umgebung.",
       hu: "Ez a fontos kereskedőváros a Togdheer régióban található, és összeköti a környező nomád közösségeket.",
@@ -70,7 +76,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BR",
     coords: [49.1816, 11.2842],
-    name: { de: "Bossaso", hu: "Boosaaso", ro: "Boosaaso", en: "Boosaaso" },
+    name: { de: "Bossaso", hu: "Boosaaso", ro: "Boosaaso", en: "Boosaaso",
+image: "/poi-images/bossaso-cities-v2.webp"
+},
     description: {
       de: "Eine schnell wachsende Hafenstadt am Golf von Aden, die als kommerzielles Zentrum für den nordöstlichen Teil des Landes fungiert.",
       hu: "Gyorsan növekvő kikötőváros az Ádeni-öbölben, amely az ország északkeleti részének kereskedelmi központjaként működik.",
@@ -87,7 +95,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-HI",
     coords: [45.2036, 4.7358],
-    name: { de: "Beledweyne", hu: "Beledweyne", ro: "Beledweyne", en: "Beledweyne" },
+    name: { de: "Beledweyne", hu: "Beledweyne", ro: "Beledweyne", en: "Beledweyne",
+image: "/poi-images/beledweyne-cities-v2.webp"
+},
     description: {
       de: "Die Stadt wird durch den Fluss Shabelle in zwei Teile geteilt und bildet ein strategisches Zentrum im zentralen Somalia.",
       hu: "A várost a Shabelle folyó osztja két részre, és stratégiai központot alkot Közép-Szomáliában.",
@@ -104,7 +114,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BY",
     coords: [43.6498, 3.1138],
-    name: { de: "Baidoa", hu: "Baidoa", ro: "Baidoa", en: "Baidoa" },
+    name: { de: "Baidoa", hu: "Baidoa", ro: "Baidoa", en: "Baidoa",
+image: "/poi-images/baidoa-cities-v2.webp"
+},
     description: {
       de: "Baidoa ist für seine Agrarproduktion bekannt und dient als wichtiges wirtschaftliches Herzstück der Region Bay.",
       hu: "Baidoa mezőgazdasági termeléséről ismert, és a Bay régió fontos gazdasági központja.",
@@ -121,7 +133,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-MU",
     coords: [47.3260, 6.7697],
-    name: { de: "Galkayo", hu: "Galkayo", ro: "Galkayo", en: "Galkayo" },
+    name: { de: "Galkayo", hu: "Galkayo", ro: "Galkayo", en: "Galkayo",
+image: "/poi-images/galkayo-cities-v2.webp"
+},
     description: {
       de: "Eine zentral gelegene Wüstenstadt, die historisch eine Grenze zwischen verschiedenen administrativen Zonen bildet.",
       hu: "Egy központi fekvésű sivatagi város, amely történelmileg határt képez a különböző közigazgatási övezetek között.",
@@ -138,7 +152,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-JH",
     coords: [42.5461, -0.3582],
-    name: { de: "Kismayo", hu: "Kismaayo", ro: "Kismayo", en: "Kismayo" },
+    name: { de: "Kismayo", hu: "Kismaayo", ro: "Kismayo", en: "Kismayo",
+image: "/poi-images/kismayo-cities-v2.webp"
+},
     description: {
       de: "Die südliche Hafenstadt nahe der Mündung des Flusses Jubba ist reich an landwirtschaftlichen und maritimen Ressourcen.",
       hu: "A déli kikötőváros, amely a Jubba folyó torkolatának közelében található, gazdag mezőgazdasági és tengeri erőforrásokban.",
@@ -155,7 +171,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SD",
     coords: [45.5005, 2.7798],
-    name: { de: "Jowhar", hu: "Jowhar", ro: "Jowhar", en: "Jowhar" },
+    name: { de: "Jowhar", hu: "Jowhar", ro: "Jowhar", en: "Jowhar",
+image: "/poi-images/jowhar-cities-v2.webp"
+},
     description: {
       de: "Eingebettet in ein fruchtbares landwirtschaftliches Gebiet, ist die Stadt historisch für ihre große Zuckerfabrik bekannt.",
       hu: "A termékeny mezőgazdasági területen fekvő város történelmileg a nagy cukorgyáráról ismert.",
@@ -172,7 +190,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-NU",
     coords: [48.4845, 8.4054],
-    name: { de: "Garowe", hu: "Garoowe", ro: "Garowe", en: "Garowe" },
+    name: { de: "Garowe", hu: "Garoowe", ro: "Garowe", en: "Garowe",
+image: "/poi-images/garowe-cities-v2.webp"
+},
     description: {
       de: "Als zentrales Verwaltungszentrum im Osten Somalias erlebt diese Stadt seit Jahren ein rasantes städtebauliches Wachstum.",
       hu: "Kelet-Szomália központi közigazgatási központjaként ez a város évek óta gyors városfejlődésen megy keresztül.",
@@ -189,7 +209,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-AW",
     coords: [43.1843, 9.9326],
-    name: { de: "Borama", hu: "Borama", ro: "Borama", en: "Borama" },
+    name: { de: "Borama", hu: "Borama", ro: "Borama", en: "Borama",
+image: "/poi-images/borama-cities-v2.webp"
+},
     description: {
       de: "Die gebirgige Stadt in Grenznähe ist berühmt für ihre akademischen Einrichtungen und ein kühleres Klima.",
       hu: "A határ menti hegyvidéki város híres egyetemeiről és hűvösebb éghajlatáról.",
@@ -206,7 +228,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SA",
     coords: [47.3697, 10.6158],
-    name: { de: "Ceerigaabo", hu: "Erigavo", ro: "Erigavo", en: "Erigavo" },
+    name: { de: "Ceerigaabo", hu: "Erigavo", ro: "Erigavo", en: "Erigavo",
+image: "/poi-images/erigavo-cities-v2.webp"
+},
     description: {
       de: "Eine hochgelegene Stadt im Sanaag-Gebiet, die von dichten Wäldern und markanten Bergen umgeben ist.",
       hu: "A Sanaag régió magasan fekvő városa, amelyet sűrű erdők és jellegzetes hegyek vesznek körül.",
@@ -223,7 +247,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SO",
     coords: [47.3587, 8.4751],
-    name: { de: "Las Anod", hu: "Las Anod", ro: "Las Anod", en: "Las Anod" },
+    name: { de: "Las Anod", hu: "Las Anod", ro: "Las Anod", en: "Las Anod",
+image: "/poi-images/las-anod-cities-v2.webp"
+},
     description: {
       de: "Die historisch bedeutsame Stadt in der Sool-Region dient als Verkehrsknotenpunkt für nomadische Hirten.",
       hu: "A történelmileg jelentős város a Sool régióban a nomád pásztorok közlekedési csomópontjaként szolgál.",
@@ -240,7 +266,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BR",
     coords: [49.0886, 9.5054],
-    name: { de: "Qardho", hu: "Qardho", ro: "Qardho", en: "Qardho" },
+    name: { de: "Qardho", hu: "Qardho", ro: "Qardho", en: "Qardho",
+image: "/poi-images/qardho-cities-v2.webp"
+},
     description: {
       de: "Qardho ist eine traditionsreiche Siedlung im Nordosten und war einst Sitz bedeutender traditioneller Herrscher.",
       hu: "Qardho egy hagyományokban gazdag északkeleti település, amely egykor jelentős hagyományos uralkodók székhelye volt.",
@@ -257,7 +285,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [44.7717, 1.7144],
-    name: { de: "Marka", hu: "Merca", ro: "Marka", en: "Marka" },
+    name: { de: "Marka", hu: "Merca", ro: "Marka", en: "Marka",
+image: "/poi-images/marka-cities-v2.webp"
+},
     description: {
       de: "Die Küstenstadt Marka zeichnet sich durch weiße Sandstrände und historische Korallensteingebäude aus.",
       hu: "A tengerparti Marka város fehér homokos strandokkal és történelmi korallkő épületekkel büszkélkedhet.",
@@ -274,7 +304,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [45.1235, 2.1352],
-    name: { de: "Afgooye", hu: "Afgooye", ro: "Afgooye", en: "Afgooye" },
+    name: { de: "Afgooye", hu: "Afgooye", ro: "Afgooye", en: "Afgooye",
+image: "/poi-images/afgooye-cities-v2.webp"
+},
     description: {
       de: "Nur eine kurze Fahrt von der Hauptstadt entfernt, ist dieser Ort für seine dichten Obstplantagen und den Fluss Shabelle bekannt.",
       hu: "Csak egy rövid autóútra a fővárostól, ez a hely sűrű gyümölcsösökről és a Shabelle folyóról ismert.",
@@ -291,7 +323,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BK",
     coords: [43.8894, 4.1213],
-    name: { de: "Xuddur", hu: "Xuddur", ro: "Xuddur", en: "Hudur" },
+    name: { de: "Xuddur", hu: "Xuddur", ro: "Xuddur", en: "Hudur",
+image: "/poi-images/xuddur-cities-v2.webp"
+},
     description: {
       de: "Die Verwaltungshauptstadt der Region Bakool ist ein entscheidender Markt für den lokalen Viehhandel im Binnenland.",
       hu: "A Bakool régió közigazgatási fővárosa a helyi szárazföldi állatkereskedelem meghatározó piaca.",
@@ -308,7 +342,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GE",
     coords: [42.2227, 3.3275],
-    name: { de: "Garbahaarey", hu: "Garbahaarey", ro: "Garbahaarey", en: "Garbahaarey" },
+    name: { de: "Garbahaarey", hu: "Garbahaarey", ro: "Garbahaarey", en: "Garbahaarey",
+image: "/poi-images/garbahaarey-cities-v2.webp"
+},
     description: {
       de: "Umgeben von schroffen Hügeln dient diese Siedlung als administratives und kommerzielles Herz der Region Gedo.",
       hu: "Zord dombokkal körülvéve ez a település Gedo régió közigazgatási és kereskedelmi központjaként szolgál.",
@@ -325,7 +361,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-JD",
     coords: [42.5802, 1.0827],
-    name: { de: "Buale", hu: "Bu'aale", ro: "Bu'aale", en: "Bu'aale" },
+    name: { de: "Buale", hu: "Bu'aale", ro: "Bu'aale", en: "Bu'aale",
+image: "/poi-images/buaale-cities-v2.webp"
+},
     description: {
       de: "Buale liegt am Fluss Jubba und profitiert stark von den fruchtbaren Böden, die eine ertragreiche Landwirtschaft ermöglichen.",
       hu: "Buale a Jubba folyó partján fekszik, és nagymértékben profitál a termékeny talajból, amely bőséges mezőgazdaságot tesz lehetővé.",
@@ -342,7 +380,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GA",
     coords: [46.3867, 5.5350],
-    name: { de: "Dhusamareb", hu: "Dhuusamareeb", ro: "Dhusamareb", en: "Dhusamareb" },
+    name: { de: "Dhusamareb", hu: "Dhuusamareeb", ro: "Dhusamareb", en: "Dhusamareb",
+image: "/poi-images/dhusamareb-cities-v2.webp"
+},
     description: {
       de: "Als zentrale Stadt in Galmudug ist dieser Ort ein Knotenpunkt für politische Treffen und den interregionalen Handel.",
       hu: "Galmudug központi városaként ez a hely politikai találkozók és a régiók közötti kereskedelem csomópontja.",
@@ -359,7 +399,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [44.0298, 1.1118],
-    name: { de: "Barawa", hu: "Baraawe", ro: "Barawe", en: "Barawe" },
+    name: { de: "Barawa", hu: "Baraawe", ro: "Barawe", en: "Barawe",
+image: "/poi-images/barawe-cities-v2.webp"
+},
     description: {
       de: "Die alte Küstenstadt hat eine reiche Geschichte und eine einzigartige Architektur, die arabische und afrikanische Elemente verbindet.",
       hu: "A régi tengerparti város gazdag történelemmel és egyedi építészettel rendelkezik, amely ötvözi az arab és az afrikai elemeket.",
@@ -376,7 +418,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GE",
     coords: [42.5446, 2.8020],
-    name: { de: "Luuq", hu: "Luuq", ro: "Luuq", en: "Luuq" },
+    name: { de: "Luuq", hu: "Luuq", ro: "Luuq", en: "Luuq",
+image: "/poi-images/luuq-cities-v2.webp"
+},
     description: {
       de: "Die Stadt ist geografisch einzigartig, da sie fast vollständig vom mäandrierenden Fluss Jubba umschlossen wird.",
       hu: "A város földrajzilag egyedülálló, mivel szinte teljesen körülveszi a kanyargós Jubba folyó.",
@@ -393,7 +437,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-WO",
     coords: [45.0143, 10.4396],
-    name: { de: "Berbera", hu: "Berbera", ro: "Berbera", en: "Berbera" },
+    name: { de: "Berbera", hu: "Berbera", ro: "Berbera", en: "Berbera",
+image: "/poi-images/berbera-cities-v2.webp"
+},
     description: {
       de: "Ein historischer und moderner Tiefseehafen, der als wichtiges Tor für den internationalen Handel am Golf von Aden dient.",
       hu: "Egy történelmi és modern mélytengeri kikötő, amely az Ádeni-öböl nemzetközi kereskedelmének fontos kapujaként szolgál.",
@@ -410,7 +456,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-JD",
     coords: [42.7753, 0.4883],
-    name: { de: "Jilib", hu: "Jilib", ro: "Jilib", en: "Jilib" },
+    name: { de: "Jilib", hu: "Jilib", ro: "Jilib", en: "Jilib",
+image: "/poi-images/jilib-cities-v2.webp"
+},
     description: {
       de: "In der Mitte des fruchtbaren Jubba-Tals gelegen, ist Jilib ein landwirtschaftliches Kraftzentrum mit reicher Ernte.",
       hu: "A termékeny Jubba-völgy közepén fekvő Jilib egy mezőgazdasági erőmű, gazdag terméssel.",
@@ -427,7 +475,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-HI",
     coords: [45.5678, 3.8569],
-    name: { de: "Buuloburde", hu: "Bulo Burti", ro: "Bulo Burti", en: "Bulo Burti" },
+    name: { de: "Buuloburde", hu: "Bulo Burti", ro: "Bulo Burti", en: "Bulo Burti",
+image: "/poi-images/bulo-burti-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt der Hiiraan-Region ist eine wichtige Garnisons- und Handelsstadt am Ufer des Shabelle.",
       hu: "A Hiiraan régió második legnagyobb városa fontos helyőrségi és kereskedőváros a Shabelle partján.",
@@ -444,7 +494,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BK",
     coords: [43.2483, 3.8093],
-    name: { de: "Waajid", hu: "Wajid", ro: "Wajid", en: "Wajid" },
+    name: { de: "Waajid", hu: "Wajid", ro: "Wajid", en: "Wajid",
+image: "/poi-images/wajid-cities-v2.webp"
+},
     description: {
       de: "Waajid dient als bedeutender Knotenpunkt für den Warentransport zwischen der Küste und dem äthiopischen Hochland.",
       hu: "Waajid fontos csomópontként szolgál a part és az etióp-felföld közötti áruszállításban.",
@@ -462,7 +514,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [44.5292, 1.7878],
-    name: { de: "Qoryooley", hu: "Qoryooley", ro: "Qoryooley", en: "Qoryoley" },
+    name: { de: "Qoryooley", hu: "Qoryooley", ro: "Qoryooley", en: "Qoryoley",
+image: "/poi-images/qoryoley-cities-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Böden rund um diese Stadt ermöglichen den Anbau einer Vielzahl von Nutzpflanzen und Bananen.",
       hu: "A város körüli termékeny talajok sokféle növény és banán termesztését teszik lehetővé.",
@@ -479,7 +533,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SD",
     coords: [45.3941, 2.3616],
-    name: { de: "Balcad", hu: "Balcad", ro: "Balcad", en: "Balcad" },
+    name: { de: "Balcad", hu: "Balcad", ro: "Balcad", en: "Balcad",
+image: "/poi-images/balcad-cities-v2.webp"
+},
     description: {
       de: "Diese wachsende Stadt nahe Mogadischu ist für ihr landwirtschaftliches Potenzial und eine historische Textilfabrik bekannt.",
       hu: "Ez a Mogadishuhoz közeli növekvő város mezőgazdasági lehetőségeiről és egy történelmi textilgyáráról ismert.",
@@ -497,7 +553,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-NU",
     coords: [49.8152, 7.9803],
-    name: { de: "Eyl", hu: "Eyl", ro: "Eyl", en: "Eyl" },
+    name: { de: "Eyl", hu: "Eyl", ro: "Eyl", en: "Eyl",
+image: "/poi-images/eyl-cities-v2.webp"
+},
     description: {
       de: "Eine historische Küstenstadt am Indischen Ozean, die für alte steinerne Festungsanlagen des Derwisch-Staates berühmt ist.",
       hu: "Egy történelmi tengerparti város az Indiai-óceánon, amely a Dervis állam ősi kőerődjeiről híres.",
@@ -514,7 +572,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SA",
     coords: [46.2238, 9.9272],
-    name: { de: "Ceel Afweyn", hu: "Ceel Afweyn", ro: "Ceel Afweyn", en: "El Afweyn" },
+    name: { de: "Ceel Afweyn", hu: "Ceel Afweyn", ro: "Ceel Afweyn", en: "El Afweyn",
+image: "/poi-images/el-afweyn-cities-v2.webp"
+},
     description: {
       de: "Diese landeinwärts gelegene Siedlung in Sanaag ist ein Zentrum für den Handel mit Weihrauch und Myrrhe.",
       hu: "Ez a Sanaag belsejében fekvő település a tömjén és a mirha kereskedelmének központja.",
@@ -531,7 +591,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SO",
     coords: [48.4206, 9.1517],
-    name: { de: "Taleex", hu: "Taleex", ro: "Taleex", en: "Taleh" },
+    name: { de: "Taleex", hu: "Taleex", ro: "Taleex", en: "Taleh",
+image: "/poi-images/taleh-cities-v2.webp"
+},
     description: {
       de: "Die alte Hauptstadt des Derwisch-Reiches besticht durch ihre massiven Ruinen, die eine reiche anti-koloniale Geschichte erzählen.",
       hu: "A Dervis Birodalom egykori fővárosa masszív romjaival nyűgöz le, amelyek gazdag gyarmatosítás-ellenes történelemről mesélnek.",
@@ -548,7 +610,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-TO",
     coords: [45.0601, 9.4069],
-    name: { de: "Odweyne", hu: "Odweyne", ro: "Odweyne", en: "Oodweyne" },
+    name: { de: "Odweyne", hu: "Odweyne", ro: "Odweyne", en: "Oodweyne",
+image: "/poi-images/oodweyne-cities-v2.webp"
+},
     description: {
       de: "Eine friedliche Stadt zwischen Burao und Hargeisa, die als wichtiger Stopp für Reisende in der Region dient.",
       hu: "Békés város Burao és Hargeisa között, amely fontos megállóhely a régióba utazók számára.",
@@ -565,7 +629,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-AW",
     coords: [43.9538, 10.6865],
-    name: { de: "Lughaya", hu: "Lughaya", ro: "Lughaya", en: "Lughaya" },
+    name: { de: "Lughaya", hu: "Lughaya", ro: "Lughaya", en: "Lughaya",
+image: "/poi-images/lughaya-cities-v2.webp"
+},
     description: {
       de: "Dieses ruhige Küstendorf am Golf von Aden lebt hauptsächlich von handwerklicher Fischerei und kleinem Handel.",
       hu: "Ez a csendes tengerparti falu az Ádeni-öbölben főként kézműves halászatból és kiskereskedelemből él.",
@@ -583,7 +649,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-AW",
     coords: [43.4736, 11.3533],
-    name: { de: "Zeila", hu: "Zeila", ro: "Zeila", en: "Zeila" },
+    name: { de: "Zeila", hu: "Zeila", ro: "Zeila", en: "Zeila",
+image: "/poi-images/zeila-cities-v2.webp"
+},
     description: {
       de: "Einst eines der wichtigsten Zentren am Horn von Afrika, ist diese antike Hafenstadt heute reich an verstreuten Ruinen.",
       hu: "Egykor Afrika szarvának egyik legfontosabb központja, ez az ókori kikötőváros ma gazdag szétszórt romokban.",
@@ -600,7 +668,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-WO",
     coords: [43.6267, 9.6994],
-    name: { de: "Gabiley", hu: "Gabiley", ro: "Gabiley", en: "Gabiley" },
+    name: { de: "Gabiley", hu: "Gabiley", ro: "Gabiley", en: "Gabiley",
+image: "/poi-images/gabiley-cities-v2.webp"
+},
     description: {
       de: "Gabiley wird oft als die Kornkammer der nördlichen Gebiete bezeichnet und zeichnet sich durch üppige grüne Felder aus.",
       hu: "Gabiley-t gyakran az északi területek magtárának nevezik, és buja zöld mezők jellemzik.",
@@ -617,7 +687,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-AW",
     coords: [43.3764, 9.8821],
-    name: { de: "Baki", hu: "Baki", ro: "Baki", en: "Baki" },
+    name: { de: "Baki", hu: "Baki", ro: "Baki", en: "Baki",
+image: "/poi-images/baki-cities-v2.webp"
+},
     description: {
       de: "Inmitten von malerischen Tälern gelegen, ist Baki ein ruhiges landwirtschaftliches Gebiet mit kleinen Farmgemeinschaften.",
       hu: "A festői völgyek között fekvő Baki egy csendes mezőgazdasági terület kis tanyasi közösségekkel.",
@@ -634,7 +706,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SA",
     coords: [48.3377, 10.7161],
-    name: { de: "Badhan", hu: "Badhan", ro: "Badhan", en: "Badhan" },
+    name: { de: "Badhan", hu: "Badhan", ro: "Badhan", en: "Badhan",
+image: "/poi-images/badhan-cities-v2.webp"
+},
     description: {
       de: "Die stark expandierende Stadt Badhan spielt eine immer wichtigere Rolle in der Politik und Bildung der Sanaag-Region.",
       hu: "Badhan gyorsan terjeszkedő városa egyre fontosabb szerepet játszik a Sanaag régió politikájában és oktatásában.",
@@ -651,7 +725,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SA",
     coords: [48.1966, 11.1557],
-    name: { de: "Las Khorey", hu: "Las Khorey", ro: "Las Khorey", en: "Las Khorey" },
+    name: { de: "Las Khorey", hu: "Las Khorey", ro: "Las Khorey", en: "Las Khorey",
+image: "/poi-images/las-khorey-cities-v2.webp"
+},
     description: {
       de: "Bekannt für seine antiken Seehandelstraditionen und eine etablierte Thunfischfabrik direkt an der sonnigen Küste.",
       hu: "Ókori tengeri kereskedelmi hagyományairól és egy jól bevált tonhalgyárról ismert, közvetlenül a napfényes tengerparton.",
@@ -668,7 +744,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SA",
     coords: [48.8166, 10.3541],
-    name: { de: "Dhahar", hu: "Dhahar", ro: "Dhahar", en: "Dhahar" },
+    name: { de: "Dhahar", hu: "Dhahar", ro: "Dhahar", en: "Dhahar",
+image: "/poi-images/dhahar-cities-v2.webp"
+},
     description: {
       de: "Als Bindeglied zwischen den hohen Bergen und den weiten Steppen ist Dhahar ein bedeutender Rastplatz für Viehhirten.",
       hu: "A magas hegyek és a hatalmas sztyeppék összekötő kapocsként Dhahar fontos pihenőhelye a pásztoroknak.",
@@ -685,7 +763,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BR",
     coords: [50.2285, 10.2858],
-    name: { de: "Iskushuban", hu: "Iskushuban", ro: "Iskushuban", en: "Iskushuban" },
+    name: { de: "Iskushuban", hu: "Iskushuban", ro: "Iskushuban", en: "Iskushuban",
+image: "/poi-images/iskushuban-cities-v2.webp"
+},
     description: {
       de: "Diese Wüstenstadt bietet eine erstaunliche Oase mit ganzjährigen Wasserfällen, die viele Reisende anzieht.",
       hu: "Ez a sivatagi város lenyűgöző oázist kínál egész évben működő vízesésekkel, amely sok utazót vonz.",
@@ -702,7 +782,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BR",
     coords: [49.8732, 11.4719],
-    name: { de: "Qandala", hu: "Qandala", ro: "Qandala", en: "Qandala" },
+    name: { de: "Qandala", hu: "Qandala", ro: "Qandala", en: "Qandala",
+image: "/poi-images/qandala-cities-v2.webp"
+},
     description: {
       de: "Inmitten rauer Klippen gelegen, blickt Qandala auf eine lange Geschichte im antiken Seehandel und Perlenfischen zurück.",
       hu: "A zord sziklák között fekvő Qandala hosszú történelemre tekint vissza az ókori tengeri kereskedelemben és a gyöngyhalászatban.",
@@ -719,7 +801,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BR",
     coords: [50.7583, 11.9666],
-    name: { de: "Caluula", hu: "Caluula", ro: "Caluula", en: "Alula" },
+    name: { de: "Caluula", hu: "Caluula", ro: "Caluula", en: "Alula",
+image: "/poi-images/alula-cities-v2.webp"
+},
     description: {
       de: "Alula, gelegen am Kap Guardafui, markiert den nordöstlichsten Punkt Afrikas und bietet einen spektakulären Meerblick.",
       hu: "A Guardafui-foknál található Alula Afrika legészakkeletibb pontját jelöli, és látványos kilátást nyújt a tengerre.",
@@ -736,7 +820,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BR",
     coords: [50.8123, 9.4939],
-    name: { de: "Banderbeyla", hu: "Banderbeyla", ro: "Banderbeyla", en: "Bandar Beyla" },
+    name: { de: "Banderbeyla", hu: "Banderbeyla", ro: "Banderbeyla", en: "Bandar Beyla",
+image: "/poi-images/bandar-beyla-cities-v2.webp"
+},
     description: {
       de: "Diese malerische Fischerstadt wurde stark vom Tsunami 2004 getroffen, hat sich aber inzwischen beeindruckend erholt.",
       hu: "Ezt a festői halászvárost súlyosan érintette a 2004-es szökőár, de azóta lenyűgözően felépült.",
@@ -753,7 +839,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-MU",
     coords: [48.6186, 7.2144],
-    name: { de: "Jariiban", hu: "Jariiban", ro: "Jariiban", en: "Jariban" },
+    name: { de: "Jariiban", hu: "Jariiban", ro: "Jariiban", en: "Jariban",
+image: "/poi-images/jariban-cities-v2.webp"
+},
     description: {
       de: "Jariiban ist eine abgelegene Gemeinde, deren Wirtschaft überwiegend von Schafen, Ziegen und Kamelzucht abhängt.",
       hu: "Jariiban egy távoli közösség, amelynek gazdasága túlnyomórészt a juhok, kecskék és tevék tenyésztésétől függ.",
@@ -771,7 +859,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-MU",
     coords: [48.5255, 5.3505],
-    name: { de: "Hobyo", hu: "Hobyo", ro: "Hobyo", en: "Hobyo" },
+    name: { de: "Hobyo", hu: "Hobyo", ro: "Hobyo", en: "Hobyo",
+image: "/poi-images/hobyo-cities-v2.webp"
+},
     description: {
       de: "Einst die Hauptstadt des Sultanats Hobyo, zeugen alte Lehmhäuser am weißen Strand von der glorreichen Vergangenheit.",
       hu: "Egykor a Hobyo Szultanátus fővárosa volt, a fehér strandon álló régi vályogházak a dicsőséges múltról tanúskodnak.",
@@ -788,7 +878,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-MU",
     coords: [47.8596, 4.5936],
-    name: { de: "Xarardheere", hu: "Harardhere", ro: "Harardhere", en: "Harardhere" },
+    name: { de: "Xarardheere", hu: "Harardhere", ro: "Harardhere", en: "Harardhere",
+image: "/poi-images/harardhere-cities-v2.webp"
+},
     description: {
       de: "Dieses ruhige Fischerdorf gewann im 21. Jahrhundert internationale Aufmerksamkeit, als es zu einem Zentrum der Piraterie wurde.",
       hu: "Ez a csendes halászfalu a 21. században nemzetközi figyelmet kapott, amikor a kalózkodás központjává vált.",
@@ -806,7 +898,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GA",
     coords: [46.3015, 6.2407],
-    name: { de: "Abudwak", hu: "Caabudwaaq", ro: "Abudwak", en: "Abudwak" },
+    name: { de: "Abudwak", hu: "Caabudwaaq", ro: "Abudwak", en: "Abudwak",
+image: "/poi-images/abudwak-cities-v2.webp"
+},
     description: {
       de: "Ein zentraler Verkehrsknotenpunkt an der Grenze zu Äthiopien, der für florierende Schwarzmärkte und grenzüberschreitenden Handel bekannt ist.",
       hu: "Központi közlekedési csomópont az etióp határon, amely virágzó feketepiacairól és határokon átnyúló kereskedelméről ismert.",
@@ -823,7 +917,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GA",
     coords: [46.6196, 4.6713],
-    name: { de: "Ceelbuur", hu: "El Buur", ro: "El Buur", en: "El Bur" },
+    name: { de: "Ceelbuur", hu: "El Buur", ro: "El Buur", en: "El Bur",
+image: "/poi-images/el-bur-cities-v2.webp"
+},
     description: {
       de: "Die historischen Kalksteingruben um die Stadt machten sie zu einem wichtigen Zentrum für den Abbau und Handel von Baumaterial.",
       hu: "A város körüli történelmi mészkőbányák fontos központtá tették az építőanyagok bányászatában és kereskedelmében.",
@@ -840,7 +936,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GA",
     coords: [47.5309, 3.7915],
-    name: { de: "Ceeldheer", hu: "El Dher", ro: "El Dher", en: "El Dher" },
+    name: { de: "Ceeldheer", hu: "El Dher", ro: "El Dher", en: "El Dher",
+image: "/poi-images/el-dher-cities-v2.webp"
+},
     description: {
       de: "Diese friedliche Siedlung hat sich durch intensive Aufforstungsprojekte einen Namen als grünes Wunder inmitten der Savanne gemacht.",
       hu: "Ez a békés település az intenzív erdőtelepítési projektek révén zöld csodaként szerzett nevet magának a szavanna közepén.",
@@ -857,7 +955,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SD",
     coords: [45.5251, 2.9723],
-    name: { de: "Mahaday", hu: "Mahadaay", ro: "Mahaday", en: "Mahaday" },
+    name: { de: "Mahaday", hu: "Mahadaay", ro: "Mahaday", en: "Mahaday",
+image: "/poi-images/mahaday-cities-v2.webp"
+},
     description: {
       de: "Geprägt durch den nahegelegenen Shabelle-Fluss ist diese Gemeinde für ihren intensiven Obst- und Gemüseanbau berühmt.",
       hu: "A közeli Shabelle folyó által fémjelzett község intenzív gyümölcs- és zöldségtermesztéséről híres.",
@@ -875,7 +975,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SD",
     coords: [46.3218, 2.7538],
-    name: { de: "Adale", hu: "Cadale", ro: "Adale", en: "Adale" },
+    name: { de: "Adale", hu: "Cadale", ro: "Adale", en: "Adale",
+image: "/poi-images/adale-cities-v2.webp"
+},
     description: {
       de: "Das historische Fischerdorf hat unberührte, goldene Strände, die als einige der schönsten an der zentralen Küste gelten.",
       hu: "A történelmi halászfaluban érintetlen aranyhomokos strandok találhatók, amelyeket a központi partvidék legszebbjeinek tartanak.",
@@ -892,7 +994,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [44.8931, 2.6179],
-    name: { de: "Wanlaweyn", hu: "Wanlaweyn", ro: "Wanlaweyn", en: "Wanlaweyn" },
+    name: { de: "Wanlaweyn", hu: "Wanlaweyn", ro: "Wanlaweyn", en: "Wanlaweyn",
+image: "/poi-images/wanlaweyn-cities-v2.webp"
+},
     description: {
       de: "Der Verkehrsknotenpunkt Wanlaweyn verbindet die südlichen landwirtschaftlichen Provinzen mit den großen Märkten in Mogadischu.",
       hu: "A Wanlaweyn közlekedési csomópont összeköti a déli mezőgazdasági tartományokat a nagy mogadishui piacokkal.",
@@ -909,7 +1013,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [44.3016, 1.4883],
-    name: { de: "Kurtunwarey", hu: "Kurtunwarey", ro: "Kurtunwarey", en: "Kurtunwarey" },
+    name: { de: "Kurtunwarey", hu: "Kurtunwarey", ro: "Kurtunwarey", en: "Kurtunwarey",
+image: "/poi-images/kurtunwarey-cities-v2.webp"
+},
     description: {
       de: "Dank gezielter Bewässerungsprojekte hat sich diese Siedlung zu einem kleinen, aber robusten Zentrum der Nahrungsmittelproduktion entwickelt.",
       hu: "A célzott öntözési projekteknek köszönhetően ez a település az élelmiszertermelés kicsi, de robusztus központjává fejlődött.",
@@ -926,7 +1032,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-SH",
     coords: [44.0253, 1.0101],
-    name: { de: "Sablaale", hu: "Sablaale", ro: "Sablaale", en: "Sablale" },
+    name: { de: "Sablaale", hu: "Sablaale", ro: "Sablaale", en: "Sablale",
+image: "/poi-images/sablale-cities-v2.webp"
+},
     description: {
       de: "Ursprünglich als Umsiedlungslager für Nomaden gegründet, bietet die Stadt heute eine stabile agrarische Existenzgrundlage für viele Einwohner.",
       hu: "Eredetileg a nomádok áttelepítési táboraként alapították, ma a város sok lakos számára stabil mezőgazdasági megélhetést biztosít.",
@@ -943,7 +1051,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BY",
     coords: [42.9772, 2.4085],
-    name: { de: "Diinsoor", hu: "Dinsor", ro: "Dinsor", en: "Dinsoor" },
+    name: { de: "Diinsoor", hu: "Dinsor", ro: "Dinsor", en: "Dinsoor",
+image: "/poi-images/dinsoor-cities-v2.webp"
+},
     description: {
       de: "Umgeben von weiten Sorghum-Feldern spielt Dinsoor eine Schlüsselrolle bei der Nahrungsmittelsicherung im Süden des Landes.",
       hu: "A hatalmas cirokmezőkkel körülvett Dinsoor kulcsszerepet játszik az ország déli részének élelmezésbiztonságában.",
@@ -960,7 +1070,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BY",
     coords: [43.1678, 2.8711],
-    name: { de: "Qansaxdheere", hu: "Qansahdhere", ro: "Qansahdhere", en: "Qansahdhere" },
+    name: { de: "Qansaxdheere", hu: "Qansahdhere", ro: "Qansahdhere", en: "Qansahdhere",
+image: "/poi-images/qansahdhere-cities-v2.webp"
+},
     description: {
       de: "Dieses Handelszentrum verbindet mehrere Nomadenpfade und bietet den lokalen Bauernmärkten eine wichtige Plattform.",
       hu: "Ez a kereskedelmi központ több nomád utat is összeköt, és fontos platformot biztosít a helyi termelői piacok számára.",
@@ -977,7 +1089,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BY",
     coords: [44.0792, 2.7967],
-    name: { de: "Buurhakaba", hu: "Burhakaba", ro: "Burhakaba", en: "Burhakaba" },
+    name: { de: "Buurhakaba", hu: "Burhakaba", ro: "Burhakaba", en: "Burhakaba",
+image: "/poi-images/burhakaba-cities-v2.webp"
+},
     description: {
       de: "Ein isolierter Granitberg überragt die Stadt und dient seit Jahrhunderten als natürliches Wahrzeichen und Orientierungspunkt.",
       hu: "Egy elszigetelt gránithegy tornyosul a város fölé, és évszázadok óta természetes tájékozódási pontként szolgál.",
@@ -994,7 +1108,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BK",
     coords: [44.4988, 4.0326],
-    name: { de: "Tiyeglow", hu: "Tiyeglow", ro: "Tiyeglow", en: "Tiyeglow" },
+    name: { de: "Tiyeglow", hu: "Tiyeglow", ro: "Tiyeglow", en: "Tiyeglow",
+image: "/poi-images/tiyeglow-cities-v2.webp"
+},
     description: {
       de: "Nahe der äthiopischen Grenze gelegen, hat sich diese Siedlung zu einem unersetzlichen Zwischenstopp für Fernreisende entwickelt.",
       hu: "Az etióp határ közelében található település a távolsági utazók pótolhatatlan megállóhelyévé vált.",
@@ -1012,7 +1128,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-BK",
     coords: [43.2384, 4.6854],
-    name: { de: "Ceelbarde", hu: "El Barde", ro: "El Barde", en: "El Barde" },
+    name: { de: "Ceelbarde", hu: "El Barde", ro: "El Barde", en: "El Barde",
+image: "/poi-images/el-barde-cities-v2.webp"
+},
     description: {
       de: "Trotz der semi-ariden Bedingungen ist El Barde stolz auf seine tiefen Brunnen, die Mensch und Tier mit wertvollem Wasser versorgen.",
       hu: "A félszáraz körülmények ellenére El Barde büszke mély kútjaira, amelyek értékes vízzel látják el az embereket és az állatokat.",
@@ -1029,7 +1147,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "city",
     parent: "SO-GE",
     coords: [42.0683, 4.1681],
-    name: { de: "Dolow", hu: "Dolow", ro: "Dolow", en: "Dolow" },
+    name: { de: "Dolow", hu: "Dolow", ro: "Dolow", en: "Dolow",
+image: "/poi-images/dolow-cities-v2.webp"
+},
     description: {
       de: "Dolow markiert genau den Punkt, an dem die Flüsse Dawa und Ganale Dorya zusammenfließen, um den Jubba-Fluss zu bilden.",
       hu: "Dolow pontosan azt a pontot jelöli, ahol a Dawa és Ganale Dorya folyók összefolynak és létrehozzák a Jubba folyót.",

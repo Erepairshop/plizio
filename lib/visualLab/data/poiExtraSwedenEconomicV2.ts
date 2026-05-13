@@ -4,7 +4,9 @@ export const swedenEconomicV2: POI[] = [
   {
     id: "sweden-kiruna-mine-economic-v2",
     type: "mine",
-    name: { de: "Eisenerzgrube Kiruna", hu: "Kirunai vasércbánya", ro: "Mina de fier Kiruna", en: "Kiruna Iron Ore Mine" },
+    name: { de: "Eisenerzgrube Kiruna", hu: "Kirunai vasércbánya", ro: "Mina de fier Kiruna", en: "Kiruna Iron Ore Mine",
+image: "/poi-images/sweden-kiruna-mine-economic-v2.webp"
+},
     coords: [20.203, 67.848],
     coordinates: { lat: 67.848, lng: 20.203 },
     description: {
@@ -19,11 +21,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Cel mai adânc nivel de exploatare este la 1365 de metri", "Producția zilnică echivalează cu oțelul pentru șase turnuri Eiffel", "Centrul orașului Kiruna este mutat din cauza activității miniere", "Minereul este transportat pe cale ferată spre Narvik și Luleå"],
       en: ["Deepest mining level is at 1365 meters underground", "Daily production covers the steel needs of six Eiffel Towers", "The city center of Kiruna is being moved due to mining expansion", "Ore is transported via the Iron Ore Line to Narvik and Luleå"],
     },
-    imageHint: "Kiruna underground iron ore mine machinery", image: "/poi-images/sweden-kiruna-mine-economic-v2.webp"},
-  {
+imageHint: "Kiruna underground iron ore mine machinery",
+    descriptionAdvanced: {
+      de: "Das von LKAB betriebene Bergwerk ist die weltweit größte und modernste untertägige Eisenerzmine. Aufgrund des Abbaus muss das gesamte Stadtzentrum von Kiruna sukzessive verlegt werden.",
+      hu: "Az LKAB által üzemeltetett bánya a világ legnagyobb és legmodernebb földalatti vasércbányája. A kitermelés miatt Kiruna teljes városközpontját fokozatosan új helyre kell költöztetni.",
+      ro: "Operată de LKAB, aceasta este cea mai mare și modernă mină de minereu de fier din lume. Din cauza activităților miniere, întregul centru al orașului Kiruna este mutat treptat.",
+      en: "Operated by LKAB, this is the world's largest and most modern underground iron ore mine. Due to mining expansion, the entire city center of Kiruna is being progressively relocated.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe von über 1365 Metern", "Förderung von 26 Mio. t Erz jährlich", "Gründung des Unternehmens 1890", "80% des EU-Eisenerzes kommen von hier"],
+      hu: ["1365 méter feletti mélység", "Évi 26 millió tonna érc", "Az LKAB céget 1890-ben alapították", "Az EU vasércének 80%-át innen nyerik"],
+      ro: ["Adâncime de peste 1365 de metri", "Producție de 26 mil. tone anual", "Compania LKAB fondată în 1890", "80% din minereul de fier al UE provine de aici"],
+      en: ["Depth exceeding 1365 meters", "26 million tons of ore annually", "LKAB founded in 1890", "Produces 80% of EU iron ore supply"],
+    },
+    image: "/poi-images/sweden-kiruna-mine-economic-v2.webp",
+},  {
     id: "sweden-gothenburg-port-economic-v2",
     type: "port",
-    name: { de: "Hafen Göteborg", hu: "Göteborgi kikötő", ro: "Portul Göteborg", en: "Port of Gothenburg" },
+    name: { de: "Hafen Göteborg", hu: "Göteborgi kikötő", ro: "Portul Göteborg", en: "Port of Gothenburg",
+image: "/poi-images/sweden-gothenburg-port-economic-v2.webp"
+},
     coords: [11.854, 57.692],
     coordinates: { lat: 57.692, lng: 11.854 },
     description: {
@@ -39,11 +56,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Handles over 800,000 containers per year", "Key export port for the Swedish automotive industry", "Features specialized terminals for oil, RoRo, and vehicles", "Direct rail links to over 70 inland terminals"],
     },
     imageHint: "Container terminal at the Port of Gothenburg",
+    descriptionAdvanced: {
+      de: "Der Hafen von Göteborg ist der größte Exporthafen Skandinaviens. Er dient als zentrales Drehkreuz für den Außenhandel Schwedens und verfügt über spezialisierte Terminals für Autos und Container.",
+      hu: "Göteborg kikötője Skandinávia legnagyobb exportkikötője. Svédország külkereskedelmének központi csomópontjaként szolgál, speciális autó- és konténerterminálokkal rendelkezik.",
+      ro: "Portul Göteborg este cel mai mare port de export din Scandinavia. Servește ca hub central pentru comerțul exterior al Suediei, având terminale specializate pentru mașini și containere.",
+      en: "The Port of Gothenburg is Scandinavia's largest export port. It serves as the primary hub for Swedish foreign trade, featuring specialized terminals for vehicles and containers.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Gustav II. Adolf", "Umschlag von 800.000 Containern", "30% des schwedischen Außenhandels", "Direktverbindung nach Shanghai"],
+      hu: ["II. Gusztáv Adolf alapította", "Évi 800 000 konténer forgalom", "A svéd külkereskedelem 30%-a", "Közvetlen hajójárat Sanghajba"],
+      ro: ["Fondat de Gustav al II-lea Adolf", "Trafic de 800.000 de containere", "30% din comerțul exterior suedez", "Conexiune directă cu Shanghai"],
+      en: ["Founded by Gustavus Adolphus", "800,000 containers handled yearly", "Handles 30% of Swedish foreign trade", "Direct shipping line to Shanghai"],
+    },
   },
   {
     id: "sweden-northvolt-ett-economic-v2",
     type: "factory",
-    name: { de: "Northvolt Ett Batteriefabrik", hu: "Northvolt Ett akkumulátorgyár", ro: "Fabrica de baterii Northvolt Ett", en: "Northvolt Ett Battery Factory" },
+    name: { de: "Northvolt Ett Batteriefabrik", hu: "Northvolt Ett akkumulátorgyár", ro: "Fabrica de baterii Northvolt Ett", en: "Northvolt Ett Battery Factory",
+image: "/poi-images/sweden-northvolt-ett-economic-v2.webp"
+},
     coords: [21.055, 64.735],
     coordinates: { lat: 64.735, lng: 21.055 },
     description: {
@@ -58,11 +89,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Capacitate de producție de până la 60 GWh pe an", "Utilizează exclusiv energie hidroelectrică pentru producție", "Include o instalație integrată de reciclare a bateriilor", "Parteneriate cu mari producători auto precum Volkswagen"],
       en: ["Production capacity goal of up to 60 GWh per year", "Uses exclusively hydroelectric power for manufacturing", "Features an integrated battery recycling plant on site", "Collaborations with major automakers like Volkswagen and BMW"],
     },
-    imageHint: "Large modern industrial battery factory Northvolt", image: "/poi-images/sweden-northvolt-ett-economic-v2.webp"},
-  {
+imageHint: "Large modern industrial battery factory Northvolt",
+    descriptionAdvanced: {
+      de: "Northvolt Ett in Skellefteå ist eine der größten Batteriezellfabriken Europas. Die Produktion nutzt ausschließlich erneuerbare Energien zur Herstellung nachhaltiger Lithium-Ionen-Akkus.",
+      hu: "A skellefteåi Northvolt Ett Európa egyik legnagyobb akkumulátorcella-gyára. A termelés kizárólag megújuló energiát használ a fenntartható lítium-ion akkumulátorok gyártásához.",
+      ro: "Northvolt Ett din Skellefteå este una dintre cele mai mari fabrici de baterii din Europa. Producția utilizează exclusiv energie regenerabilă pentru baterii sustenabile cu litiu-ion.",
+      en: "Northvolt Ett in Skellefteå is one of Europe's largest battery cell factories. Production utilizes 100% renewable energy to manufacture sustainable lithium-ion batteries.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsstart im Jahr 2021", "Zielkapazität von 60 GWh", "Über 3000 Arbeitsplätze vor Ort", "Recyclinganlage Revolt Ett integriert"],
+      hu: ["A gyártás 2021-ben indult", "60 GWh tervezett kapacitás", "Több mint 3000 munkahely", "Revolt Ett újrahasznosító üzem"],
+      ro: ["Producția începută în 2021", "Capacitate țintă de 60 GWh", "Peste 3000 de locuri de muncă", "Unitate de reciclare Revolt Ett inclusă"],
+      en: ["Production started in 2021", "Target capacity of 60 GWh", "Over 3,000 employees on site", "Includes Revolt Ett recycling plant"],
+    },
+    image: "/poi-images/sweden-northvolt-ett-economic-v2.webp",
+},  {
     id: "sweden-ssab-lulea-economic-v2",
     type: "factory",
-    name: { de: "SSAB Stahlwerk Luleå", hu: "SSAB luleåi acélmű", ro: "Combinatul siderurgic SSAB Luleå", en: "SSAB Luleå Steelworks" },
+    name: { de: "SSAB Stahlwerk Luleå", hu: "SSAB luleåi acélmű", ro: "Combinatul siderurgic SSAB Luleå", en: "SSAB Luleå Steelworks",
+image: "/poi-images/sweden-ssab-lulea-economic-v2.webp"
+},
     coords: [22.215, 65.558],
     coordinates: { lat: 65.558, lng: 22.215 },
     description: {
@@ -78,11 +124,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Largest private employer in the Norrbotten region", "Center of Swedish efforts for fossil-free steel production", "Processes iron ore from Northern Sweden's mines", "The pilot plant uses hydrogen instead of coal for reduction"],
     },
     imageHint: "Industrial steel plant Luleå SSAB with blast furnace",
+    descriptionAdvanced: {
+      de: "Das Stahlwerk in Luleå ist ein Pionierstandort für die Produktion von fossilfreiem Stahl. Durch das HYBRIT-Projekt wird Kohle durch grünen Wasserstoff ersetzt, um Emissionen zu eliminieren.",
+      hu: "A luleåi acélmű a fosszilis tüzelőanyag-mentes acélgyártás úttörő helyszíne. A HYBRIT projekt keretében a szenet zöld hidrogénnel váltják ki a károsanyag-kibocsátás megszüntetésére.",
+      ro: "Oțelăria din Luleå este o locație pionieră pentru producția de oțel fără combustibili fosili. Prin proiectul HYBRIT, cărbunele este înlocuit cu hidrogen verde pentru a elimina emisiile.",
+      en: "The steelworks in Luleå is a pioneer site for fossil-free steel production. Through the HYBRIT project, coal is replaced by green hydrogen to eliminate carbon emissions.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Werks 1940", "Sitz des HYBRIT-Pilotprojekts", "Spezialisierung auf hochwertigen Stahl", "Hafenanschluss am Bottnischen Meerbusen"],
+      hu: ["Az üzem 1940-es alapítása", "A HYBRIT kísérleti projekt helyszíne", "Kiváló minőségű acélra szakosodott", "Közvetlen kikötő a Botteni-öbölben"],
+      ro: ["Fondarea uzinei în 1940", "Sediul proiectului pilot HYBRIT", "Specializare în oțel de înaltă calitate", "Acces portuar la Golful Botnic"],
+      en: ["Plant founded in 1940", "Host of the HYBRIT pilot project", "Specializes in high-strength steel", "Port access on the Gulf of Bothnia"],
+    },
   },
   {
     id: "sweden-scania-sodertalje-economic-v2",
     type: "factory",
-    name: { de: "Scania Hauptquartier Södertälje", hu: "Scania központ Södertälje", ro: "Sediul Scania Södertälje", en: "Scania Södertälje Headquarters" },
+    name: { de: "Scania Hauptquartier Södertälje", hu: "Scania központ Södertälje", ro: "Sediul Scania Södertälje", en: "Scania Södertälje Headquarters",
+image: "/poi-images/sweden-scania-sodertalje-economic-v2.webp"
+},
     coords: [17.632, 59.188],
     coordinates: { lat: 59.188, lng: 17.632 },
     description: {
@@ -97,11 +157,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Are peste 15.000 de angajați în această locație", "Include cercetare, dezvoltare și fabricarea motoarelor", "Găzduiește una dintre cele mai moderne turnătorii din lume", "Centru pentru dezvoltarea sistemelor de camioane autonome"],
       en: ["Employs over 15,000 workers at this location", "Includes research, development, and engine manufacturing", "Home to one of the world's most modern foundries", "Hub for the development of autonomous truck systems"],
     },
-    imageHint: "Scania truck factory and headquarters building", image: "/poi-images/sweden-scania-sodertalje-economic-v2.webp"},
-  {
+imageHint: "Scania truck factory and headquarters building",
+    descriptionAdvanced: {
+      de: "Södertälje ist das globale Zentrum von Scania für Forschung, Entwicklung und Produktion von schweren Lastkraftwagen. Hier werden innovative Antriebssysteme und Motoren für den Weltmarkt gefertigt.",
+      hu: "Södertälje a Scania kutatási, fejlesztési és nehézgépjármű-gyártási globális központja. Itt készülnek a világpiac számára az innovatív hajtásrendszerek és motorok.",
+      ro: "Södertälje este centrul global al Scania pentru cercetare, dezvoltare și producția de camioane grele. Aici sunt fabricate sisteme de propulsie și motoare inovatoare pentru piața mondială.",
+      en: "Södertälje is Scania's global headquarters for R&D and heavy vehicle production. It is the manufacturing hub for innovative powertrain systems and engines exported worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1891 als Vabis", "Über 15.000 Mitarbeiter am Standort", "Fokus auf Elektromobilität", "Eigene Teststrecke für LKW"],
+      hu: ["1891-ben alapították Vabis néven", "Több mint 15 000 alkalmazott", "Fókuszban az elektromos mobilitás", "Saját kamion tesztpálya"],
+      ro: ["Fondat în 1891 ca Vabis", "Peste 15.000 de angajați local", "Accent pe electromobilitate", "Pistă proprie de testare pentru camioane"],
+      en: ["Founded in 1891 as Vabis", "Over 15,000 employees locally", "Heavy focus on electromobility", "Features a private truck test track"],
+    },
+    image: "/poi-images/sweden-scania-sodertalje-economic-v2.webp",
+},  {
     id: "sweden-abb-vasteras-economic-v2",
     type: "industry",
-    name: { de: "ABB-Campus Västerås", hu: "ABB Västerås kampusz", ro: "Campusul ABB Västerås", en: "ABB Västerås Campus" },
+    name: { de: "ABB-Campus Västerås", hu: "ABB Västerås kampusz", ro: "Campusul ABB Västerås", en: "ABB Västerås Campus",
+image: "/poi-images/sweden-abb-vasteras-economic-v2.webp"
+},
     coords: [16.554, 59.615],
     coordinates: { lat: 59.615, lng: 16.554 },
     description: {
@@ -116,11 +191,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Compania predecesoare ASEA a fost fondată în 1883", "Locul unde s-a dezvoltat transmisia în curent continuu (HVDC)", "Unul dintre cele mai mari centre de cercetare în robotică", "ABB este cel mai mare angajator privat din Västerås"],
       en: ["Predecessor company ASEA was founded here in 1883", "Birthplace of High Voltage Direct Current (HVDC) technology", "One of the world's largest research centers for robotics", "ABB is the largest private employer in Västerås"],
     },
-    imageHint: "ABB industrial research and manufacturing facility", image: "/poi-images/sweden-abb-vasteras-economic-v2.webp"},
-  {
+imageHint: "ABB industrial research and manufacturing facility",
+    descriptionAdvanced: {
+      de: "Västerås ist der historische Kern von ABB und ein weltweit führendes Kompetenzzentrum für Robotik und Energietechnik. Die Stadt gilt als schwedisches Zentrum für industrielle Automatisierung.",
+      hu: "Västerås az ABB történelmi magja, a robotika és az energetikai technológia világszinten vezető kiválósági központja. A várost a svéd ipari automatizálás központjaként ismerik.",
+      ro: "Västerås este nucleul istoric al ABB și un centru de competență lider mondial în robotică și energetică. Orașul este considerat centrul suedez al automatizării industriale.",
+      en: "Västerås is the historic heart of ABB and a world-leading center of excellence for robotics and power technology. The city is known as the Swedish hub for industrial automation.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung der ASEA (1883)", "Größter privater Arbeitgeber der Stadt", "Entwicklung von Hochspannungs-Gleichstrom", "Modernes Robotik-Zentrum"],
+      hu: ["Az ASEA eredete (1883)", "A város legnagyobb magánmunkaadója", "Nagyfeszültségű egyenáram fejlesztése", "Modern robotikai központ"],
+      ro: ["Originea ASEA (1883)", "Cel mai mare angajator privat local", "Dezvoltarea curentului continuu HVDC", "Centru modern de robotică"],
+      en: ["Origins of ASEA (1883)", "Largest private employer in the city", "Pioneer in HVDC power technology", "Home to a modern robotics center"],
+    },
+    image: "/poi-images/sweden-abb-vasteras-economic-v2.webp",
+},  {
     id: "sweden-saab-linkoping-economic-v2",
     type: "factory",
-    name: { de: "Saab Luftfahrtzentrum Linköping", hu: "Saab repülési központ Linköping", ro: "Centrul aviatic Saab Linköping", en: "Saab Aeronautics Linköping" },
+    name: { de: "Saab Luftfahrtzentrum Linköping", hu: "Saab repülési központ Linköping", ro: "Centrul aviatic Saab Linköping", en: "Saab Aeronautics Linköping",
+image: "/poi-images/sweden-saab-linkoping-economic-v2.webp"
+},
     coords: [15.655, 58.408],
     coordinates: { lat: 58.408, lng: 15.655 },
     description: {
@@ -135,11 +225,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Locul de producție al avionului de luptă multirol JAS 39 Gripen", "Are aproximativ 5.000 de angajați în divizia de aeronautică", "Dispune de un aerodrom propriu pentru teste de zbor", "Colaborare cu Boeing pentru dezvoltarea avioanelor de antrenament"],
       en: ["Manufacturing site of the JAS 39 Gripen multirole fighter", "Employs around 5,000 people in the aeronautics division", "Features its own factory airfield for flight testing", "Collaboration with Boeing on training aircraft development"],
     },
-    imageHint: "Saab aerospace hangar with military aircraft", image: "/poi-images/sweden-saab-linkoping-economic-v2.webp"},
-  {
+imageHint: "Saab aerospace hangar with military aircraft",
+    descriptionAdvanced: {
+      de: "Linköping ist das Zentrum der schwedischen Luftfahrtindustrie, in dem Saab Kampfflugzeuge wie die Gripen entwickelt. Der Standort beherbergt hochmoderne Anlagen für Aerodynamik und Avionik.",
+      hu: "Linköping a svéd repülőgépipar központja, ahol a Saab a Gripenhez hasonló vadászgépeket fejleszt. A telephely ultramodern aerodinamikai és avionikai létesítményeknek ad otthont.",
+      ro: "Linköping este centrul industriei aeronautice suedeze, unde Saab dezvoltă avioane de luptă precum Gripen. Locația găzduiește facilități ultramoderne de aerodinamică și avionică.",
+      en: "Linköping is the heart of the Swedish aerospace industry, where Saab develops advanced fighter jets like the Gripen. The site hosts state-of-the-art aerodynamics and avionics facilities.",
+    },
+    factsAdvanced: {
+      de: ["Entwicklungsort des JAS 39 Gripen", "Gründung von Saab 1937", "Über 5000 Ingenieure vor Ort", "Eigener Flughafen (Malmen)"],
+      hu: ["A JAS 39 Gripen fejlesztési helye", "A Saab alapítása 1937-ben", "Több mint 5000 mérnök", "Saját repülőtér (Malmen)"],
+      ro: ["Locul de dezvoltare al JAS 39 Gripen", "Fondarea Saab în 1937", "Peste 5000 de ingineri pe site", "Aeroport propriu (Malmen)"],
+      en: ["Development site of JAS 39 Gripen", "Saab founded in 1937", "Over 5,000 engineers on site", "Includes Malmen airbase access"],
+    },
+    image: "/poi-images/sweden-saab-linkoping-economic-v2.webp",
+},  {
     id: "sweden-sandvik-sandviken-economic-v2",
     type: "factory",
-    name: { de: "Sandvik Hauptwerk Sandviken", hu: "Sandvik központ Sandviken", ro: "Unitatea principală Sandvik Sandviken", en: "Sandvik Sandviken Works" },
+    name: { de: "Sandvik Hauptwerk Sandviken", hu: "Sandvik központ Sandviken", ro: "Unitatea principală Sandvik Sandviken", en: "Sandvik Sandviken Works",
+image: "/poi-images/sweden-sandvik-sandviken-economic-v2.webp"
+},
     coords: [16.778, 60.621],
     coordinates: { lat: 60.621, lng: 16.778 },
     description: {
@@ -154,11 +259,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Fondată în 1862 de către Göran Fredrik Göransson", "Prima companie care a utilizat comercial metoda Bessemer", "Specializată în scule de așchiere și țevi din oțel inoxidabil", "Găzduiește un centru amplu de cercetare și dezvoltare"],
       en: ["Founded in 1862 by Göran Fredrik Göransson", "First company to commercially utilize the Bessemer process", "Specialized in metal cutting tools and stainless steel tubes", "Features a large research and development center on site"],
     },
-    imageHint: "Sandvik industrial complex and steel manufacturing", image: "/poi-images/sweden-sandvik-sandviken-economic-v2.webp"},
-  {
+imageHint: "Sandvik industrial complex and steel manufacturing",
+    descriptionAdvanced: {
+      de: "Sandviken ist der Gründungsort und Hauptproduktionsstandort von Sandvik, spezialisiert auf Hochleistungsstahl und Zerspanungswerkzeuge. Die Fabrik ist ein globales Modell für industrielle Innovation.",
+      hu: "Sandviken a Sandvik alapító városa és fő gyártóbázisa, amely nagyteljesítményű acélokra és forgácsolószerszámokra szakosodott. A gyár az ipari innováció globális mintája.",
+      ro: "Sandviken este locul fondării și principala unitate de producție a Sandvik, specializată în oțel performant și unelte de așchiere. Fabrica este un model global de inovație industrială.",
+      en: "Sandviken is the birthplace and primary production site of Sandvik, specializing in high-performance steel and cutting tools. The facility is a global model for industrial innovation.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1862 von Göransson", "Weltmarktführer bei Metallwerkzeugen", "Umfangreiche F&E-Labore", "Eigene Stahllegierungstechnologien"],
+      hu: ["Göransson alapította 1862-ben", "Világelső a fémipari szerszámokban", "Kiterjedt K+F laboratóriumok", "Saját acélötvözet technológiák"],
+      ro: ["Fondat în 1862 de Göransson", "Lider mondial în scule metalice", "Laboratoare extinse de cercetare", "Tehnologii proprii de aliere a oțelului"],
+      en: ["Founded in 1862 by Göransson", "World leader in metal cutting tools", "Extensive R&D laboratories", "Proprietary steel alloy technologies"],
+    },
+    image: "/poi-images/sweden-sandvik-sandviken-economic-v2.webp",
+},  {
     id: "sweden-aitik-mine-economic-v2",
     type: "mine",
-    name: { de: "Aitik Kupfermine", hu: "Aitik rézbánya", ro: "Mina de cupru Aitik", en: "Aitik Copper Mine" },
+    name: { de: "Aitik Kupfermine", hu: "Aitik rézbánya", ro: "Mina de cupru Aitik", en: "Aitik Copper Mine",
+image: "/poi-images/sweden-aitik-mine-economic-v2.webp"
+},
     coords: [20.958, 67.072],
     coordinates: { lat: 67.072, lng: 20.958 },
     description: {
@@ -173,11 +293,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Cea mai mare mină de cupru din Uniunea Europeană", "Utilizează unele dintre cele mai mari autobasculante din lume", "Peste 40 de milioane de tone de minereu sunt extrase anual", "Sisteme de transport fără șofer sunt în curs de testare"],
       en: ["Largest copper mine in the European Union", "Uses some of the world's largest haul trucks", "Over 40 million tons of ore are extracted annually", "Autonomous hauling systems are being tested on-site"],
     },
-    imageHint: "Large open pit copper mine with massive trucks", image: "/poi-images/sweden-aitik-mine-economic-v2.webp"},
-  {
+imageHint: "Large open pit copper mine with massive trucks",
+    descriptionAdvanced: {
+      de: "Aitik bei Gällivare ist die größte Kupfermine Europas im Tagebau. Der Betrieb zeichnet sich durch einen extrem hohen Automatisierungsgrad und die Verarbeitung riesiger Gesteinsmengen aus.",
+      hu: "A Gällivare melletti Aitik Európa legnagyobb külszíni rézbányája. Az üzemet rendkívül magas automatizáltság és hatalmas mennyiségű kőzet feldolgozása jellemzi.",
+      ro: "Aitik, lângă Gällivare, este cea mai mare mină de cupru în carieră deschisă din Europa. Operațiunea se remarcă prin automatizarea extremă și procesarea unor volume uriașe de rocă.",
+      en: "Aitik near Gällivare is Europe's largest open-pit copper mine. The operation is characterized by an extremely high degree of automation and the processing of massive rock volumes.",
+    },
+    factsAdvanced: {
+      de: ["Betrieben von Boliden AB", "Tiefe des Tagebaus ca. 450m", "Förderung von Kupfer, Gold, Silber", "Größte Muldenkipper der Welt im Einsatz"],
+      hu: ["A Boliden AB üzemelteti", "A külszíni fejtés mélysége kb. 450 m", "Réz, arany és ezüst kitermelése", "A világ legnagyobb dömperjei"],
+      ro: ["Operată de Boliden AB", "Adâncimea carierei de cca. 450m", "Extracție de cupru, aur, argint", "Cele mai mari basculante din lume"],
+      en: ["Operated by Boliden AB", "Open pit depth approx. 450m", "Extracts copper, gold, and silver", "World's largest haul trucks in use"],
+    },
+    image: "/poi-images/sweden-aitik-mine-economic-v2.webp",
+},  {
     id: "sweden-kista-science-city-economic-v2",
     type: "industry",
-    name: { de: "Kista Science City", hu: "Kista Science City", ro: "Kista Science City", en: "Kista Science City" },
+    name: { de: "Kista Science City", hu: "Kista Science City", ro: "Kista Science City", en: "Kista Science City",
+image: "/poi-images/sweden-kista-science-city-economic-v2.webp"
+},
     coords: [17.944, 59.405],
     coordinates: { lat: 59.405, lng: 17.944 },
     description: {
@@ -192,11 +327,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Sediul central global al companiei Ericsson", "Peste 1.000 de companii își au sediul în acest cluster", "Îmbină industria, cercetarea și mediul universitar", "Centru pentru dezvoltarea 5G și tehnologiei mobile"],
       en: ["Home to Ericsson's global headquarters", "Over 1,000 companies are based in the cluster", "Unique mix of industry, research, and universities", "Major hub for 5G development and mobile technology"],
     },
-    imageHint: "Modern office buildings in Kista Science City Stockholm", image: "/poi-images/sweden-kista-science-city-economic-v2.webp"},
-  {
+imageHint: "Modern office buildings in Kista Science City Stockholm",
+    descriptionAdvanced: {
+      de: "Kista ist Nordeuropas führender IKT-Cluster und Sitz globaler Unternehmen wie Ericsson. Der Wissenschaftspark verbindet Forschung der KTH mit innovativen Start-ups und IT-Giganten.",
+      hu: "Kista Észak-Európa vezető IKT-fürtje, olyan globális cégek székhelye, mint az Ericsson. A tudományos park ötvözi a KTH kutatásait az innovatív startupokkal és IT-óriásokkal.",
+      ro: "Kista este principalul cluster TIC din Europa de Nord și sediul unor companii globale precum Ericsson. Parcul științific îmbină cercetarea KTH cu startup-uri și giganți IT.",
+      en: "Kista is Northern Europe's leading ICT cluster and home to global giants like Ericsson. The science city bridges KTH research with innovative startups and tech leaders.",
+    },
+    factsAdvanced: {
+      de: ["Über 1000 IT-Unternehmen", "Sitz von Ericsson HQ", "Wichtiger Campus der KTH und SU", "Bekannt als Silicon Valley Schwedens"],
+      hu: ["Több mint 1000 IT cég", "Az Ericsson központja itt található", "KTH és SU fontos kampusza", "Svédország Szilícium-völgyeként ismert"],
+      ro: ["Peste 1000 de companii IT", "Sediul central al Ericsson", "Campus major pentru KTH și SU", "Cunoscut drept Silicon Valley al Suediei"],
+      en: ["Home to over 1,000 IT companies", "Global headquarters of Ericsson", "Major campus for KTH and SU", "Known as Sweden's Silicon Valley"],
+    },
+    image: "/poi-images/sweden-kista-science-city-economic-v2.webp",
+},  {
     id: "sweden-stenungsund-petrochemical-economic-v2",
     type: "factory",
-    name: { de: "Chemiepark Stenungsund", hu: "Stenungsundi petrolkémiai központ", ro: "Centrul petrochimic Stenungsund", en: "Stenungsund Petrochemical Center" },
+    name: { de: "Chemiepark Stenungsund", hu: "Stenungsundi petrolkémiai központ", ro: "Centrul petrochimic Stenungsund", en: "Stenungsund Petrochemical Center",
+image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp"
+},
     coords: [11.835, 58.075],
     coordinates: { lat: 58.075, lng: 11.835 },
     description: {
@@ -211,11 +361,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Include companii precum Borealis, Perstorp și AkzoNobel", "Dispune de un port specializat pentru petrol și produse chimice", "Produce materii prime pentru construcții și industria auto", "Concentrat pe tranziția către materii prime bio"],
       en: ["Home to companies like Borealis, Perstorp, and AkzoNobel", "Features a specialized oil and chemical harbor", "Produces raw materials for construction and automotive industries", "Focusing on transitioning to bio-based raw materials"],
     },
-    imageHint: "Petrochemical refinery towers in Stenungsund", image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp"},
-  {
+imageHint: "Petrochemical refinery towers in Stenungsund",
+    descriptionAdvanced: {
+      de: "Stenungsund beherbergt Schwedens wichtigsten petrochemischen Cluster. Hier sind spezialisierte Fabriken wie Borealis und Perstorp angesiedelt, die Rohstoffe für die Kunststoffindustrie liefern.",
+      hu: "Stenungsund ad otthont Svédország legfontosabb petrokémiai klaszterének. Itt olyan speciális gyárak találhatók, mint a Borealis és a Perstorp, amelyek a műanyagipar alapanyagait gyártják.",
+      ro: "Stenungsund găzduiește cel mai important cluster petrochimic din Suedia. Aici se află fabrici specializate precum Borealis și Perstorp, care produc materii prime pentru mase plastice.",
+      en: "Stenungsund is home to Sweden's primary petrochemical cluster. It hosts specialized plants like Borealis and Perstorp, supplying essential raw materials for the plastics industry.",
+    },
+    factsAdvanced: {
+      de: ["Größter Chemiecluster des Landes", "Eigener Hafen für Rohöltanker", "Produktion von Ethylen und Polyethylen", "Über 2000 direkte Arbeitsplätze"],
+      hu: ["Az ország legnagyobb vegyipari fürtje", "Saját kikötő kőolajszállítóknak", "Etilén és polietilén gyártás", "Több mint 2000 közvetlen munkahely"],
+      ro: ["Cel mai mare cluster chimic din țară", "Port propriu pentru tancuri petroliere", "Producție de etilenă și polietilenă", "Peste 2000 de locuri de muncă directe"],
+      en: ["Largest chemical cluster in Sweden", "Private port for oil tankers", "Produces ethylene and polyethylene", "Over 2,000 direct employees"],
+    },
+    image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp",
+},  {
     id: "sweden-ssab-oxelosund-economic-v2",
     type: "factory",
-    name: { de: "SSAB Oxelösund", hu: "SSAB Oxelösund", ro: "SSAB Oxelösund", en: "SSAB Oxelösund" },
+    name: { de: "SSAB Oxelösund", hu: "SSAB Oxelösund", ro: "SSAB Oxelösund", en: "SSAB Oxelösund",
+image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp"
+},
     coords: [17.112, 58.672],
     coordinates: { lat: 58.672, lng: 17.112 },
     description: {
@@ -230,11 +395,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Lider mondial în oțel rezistent la uzură (Hardox)", "Prima unitate SSAB care trece la cuptoare cu arc electric", "Portul propriu este unul dintre cele mai adânci de la Marea Baltică", "Furnizor important pentru industria minieră și a macaralelor"],
       en: ["World leader in wear-resistant steel (Hardox)", "First SSAB plant to convert to electric arc furnaces", "The private harbor is one of the deepest on the Baltic Sea", "Major supplier for the mining and crane industries"],
     },
-    imageHint: "Steel factory by the sea with shipping docks", image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp"},
-  {
+imageHint: "Steel factory by the sea with shipping docks",
+    descriptionAdvanced: {
+      de: "Das Werk in Oxelösund ist weltweit führend in der Produktion von vergütetem verschleißfestem Stahl. Es verfügt über eine integrierte Wertschöpfungskette vom Hochofen bis zum fertigen Blech.",
+      hu: "Az oxelösundi üzem világelső a nemesített, kopásálló acél gyártásában. Integrált értéklánccal rendelkezik a nagyolvasztótól kezdve egészen a kész acéllemezekig.",
+      ro: "Uzina din Oxelösund este lider mondial în producția de oțel călit și rezistent la uzură. Dispune de un lanț valoric integrat, de la furnal până la tabla finisată.",
+      en: "The Oxelösund plant is a global leader in the production of quenched and tempered wear-resistant steel. It features a fully integrated value chain from blast furnace to plate.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisierung auf Hardox-Stahl", "Eigener Tiefseehafen", "Umstellung auf Elektrolichtbogenöfen", "Export in über 100 Länder"],
+      hu: ["Hardox acélra szakosodott", "Saját mélyvízi kikötő", "Átállás elektromos ívkemencékre", "Export több mint 100 országba"],
+      ro: ["Specializare în oțel Hardox", "Port propriu de adâncime", "Tranziție la cuptoare cu arc electric", "Export în peste 100 de țări"],
+      en: ["Specializes in Hardox steel", "Deep-water port facilities", "Transitioning to electric arc furnaces", "Exports to over 100 countries"],
+    },
+    image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp",
+},  {
     id: "sweden-forsmark-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Forsmark", hu: "Forsmarki atomerőmű", ro: "Centrala nucleară Forsmark", en: "Forsmark Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Forsmark", hu: "Forsmarki atomerőmű", ro: "Centrala nucleară Forsmark", en: "Forsmark Nuclear Power Plant",
+image: "/poi-images/sweden-forsmark-npp-economic-v2.webp"
+},
     coords: [18.167, 60.403],
     coordinates: { lat: 60.403, lng: 18.167 },
     description: {
@@ -249,11 +429,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Operează trei reactoare cu apă în fierbere", "Locul depozitului național pentru deșeuri radioactive (SFR)", "A fost pusă în funcțiune în anul 1980", "Răcirea se face cu apă din Marea Baltică"],
       en: ["Operates three boiling water reactors", "Site of the Swedish final repository for radioactive waste (SFR)", "First unit was commissioned in 1980", "Uses Baltic Sea water for cooling"],
     },
-    imageHint: "Forsmark nuclear power plant buildings by the coast", image: "/poi-images/sweden-forsmark-npp-economic-v2.webp"},
-  {
+imageHint: "Forsmark nuclear power plant buildings by the coast",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Forsmark ist einer der wichtigsten Stromerzeuger Schwedens. Neben der Energieproduktion beherbergt der Standort auch ein Endlager für schwach- und mittelradioaktive Abfälle.",
+      hu: "A forsmarki atomerőmű Svédország egyik legfontosabb villamosenergia-termelője. Az energiatermelés mellett a telephelyen található az alacsony és közepes aktivitású hulladékok tárolója is.",
+      ro: "Centrala nucleară Forsmark este unul dintre cei mai importanți producători de energie din Suedia. Pe lângă energie, locația găzduiește un depozit pentru deșeuri radioactive.",
+      en: "Forsmark Nuclear Power Plant is one of Sweden's primary electricity producers. In addition to power generation, the site hosts a final repository for low- and medium-level radioactive waste.",
+    },
+    factsAdvanced: {
+      de: ["Drei Siedewasserreaktoren", "Deckung von 15% des Strombedarfs", "Bekannt durch Tschernobyl-Warnung", "Inbetriebnahme ab 1980"],
+      hu: ["Három forralóvizes reaktor", "A svéd áramigény 15%-át fedezi", "A csernobili detektálásról ismert", "Üzembe helyezés 1980-tól"],
+      ro: ["Trei reactoare cu apă în fierbere", "Acoperă 15% din cererea de curent", "Cunoscută pentru alerta Cernobîl", "Punere în funcțiune din 1980"],
+      en: ["Features three boiling water reactors", "Provides 15% of Sweden's power", "First to detect Chernobyl fallout", "Operational since 1980"],
+    },
+    image: "/poi-images/sweden-forsmark-npp-economic-v2.webp",
+},  {
     id: "sweden-oskarshamn-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Oskarshamn", hu: "Oskarshamni atomerőmű", ro: "Centrala nucleară Oskarshamn", en: "Oskarshamn Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Oskarshamn", hu: "Oskarshamni atomerőmű", ro: "Centrala nucleară Oskarshamn", en: "Oskarshamn Nuclear Power Plant",
+image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp"
+},
     coords: [16.669, 57.416],
     coordinates: { lat: 57.416, lng: 16.669 },
     description: {
@@ -268,11 +463,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Reactorul 3 are o putere netă de 1.400 MW", "Găzduiește depozitul central interimar pentru combustibil uzat (Clab)", "Primul reactor a fost conectat la rețea în 1972", "Este deținută majoritar de grupul Uniper"],
       en: ["Unit 3 has a net capacity of 1,400 MW", "Hosts the central interim storage for spent nuclear fuel (Clab)", "The first reactor went online in 1972", "Majority-owned by the Uniper group"],
     },
-    imageHint: "Oskarshamn nuclear facility Simpevarp", image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp"},
-  {
+imageHint: "Oskarshamn nuclear facility Simpevarp",
+    descriptionAdvanced: {
+      de: "Oskarshamn beherbergt einen der größten Reaktoren der Welt, O3. Der Standort ist zudem ein bedeutendes Forschungszentrum für die Entsorgung und Lagerung von Kernbrennstoffen.",
+      hu: "Oskarshamn ad otthont a világ egyik legnagyobb reaktorának, az O3-nak. A telephely egyben a használt fűtőelemek ártalmatlanításának és tárolásának jelentős kutatóközpontja.",
+      ro: "Oskarshamn găzduiește unul dintre cele mai mari reactoare din lume, O3. Locația este și un centru major de cercetare pentru gestionarea și depozitarea combustibilului nuclear.",
+      en: "Oskarshamn is home to one of the world's largest nuclear reactors, O3. The site also serves as a critical research hub for nuclear fuel disposal and long-term storage solutions.",
+    },
+    factsAdvanced: {
+      de: ["Reaktor O3 hat 1450 MW Leistung", "Sitz des CLAB-Zwischenlagers", "Inbetriebnahme des ersten Blocks 1972", "Betrieben durch OKG"],
+      hu: ["Az O3 reaktor 1450 MW-os", "A CLAB átmeneti tároló helyszíne", "Első blokk indulása: 1972", "Az OKG üzemelteti"],
+      ro: ["Reactorul O3 are 1450 MW", "Găzduiește depozitul CLAB", "Punerea în funcțiune a primului bloc 1972", "Operată de OKG"],
+      en: ["Reactor O3 generates 1450 MW", "Site of CLAB interim storage", "First unit commissioned in 1972", "Operated by OKG"],
+    },
+    image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp",
+},  {
     id: "sweden-ringhals-npp-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Ringhals", hu: "Ringhalsi atomerőmű", ro: "Centrala nucleară Ringhals", en: "Ringhals Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Ringhals", hu: "Ringhalsi atomerőmű", ro: "Centrala nucleară Ringhals", en: "Ringhals Nuclear Power Plant",
+image: "/poi-images/sweden-ringhals-npp-economic-v2.webp"
+},
     coords: [12.11, 57.26],
     coordinates: { lat: 57.26, lng: 12.11 },
     description: {
@@ -287,11 +497,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Operează în prezent două reactoare active (3 și 4)", "Produce aproximativ 12% din electricitatea Suediei", "Singura locație din Suedia cu reactoare cu apă sub presiune", "Are o capacitate instalată de aproximativ 2.200 MW"],
       en: ["Currently operates two active reactors (3 and 4)", "Produces about 12% of Sweden's total electricity", "Only site in Sweden using pressurized water reactors", "Has an installed capacity of approximately 2,200 MW"],
     },
-    imageHint: "Ringhals nuclear plant at the Swedish west coast", image: "/poi-images/sweden-ringhals-npp-economic-v2.webp"},
-  {
+imageHint: "Ringhals nuclear plant at the Swedish west coast",
+    descriptionAdvanced: {
+      de: "Ringhals ist das größte Kraftwerk Nordeuropas und produziert jährlich enorme Mengen CO2-freien Strom. Es nutzt sowohl Druckwasser- als auch Siedewasserreaktoren für die Energieversorgung.",
+      hu: "Ringhals Észak-Európa legnagyobb erőműve, amely évente hatalmas mennyiségű CO2-mentes áramot termel. Nyomottvizes és forralóvizes reaktorokat is használ az energiaellátáshoz.",
+      ro: "Ringhals este cea mai mare centrală electrică din Europa de Nord, producând anual cantități enorme de energie fără CO2. Utilizează atât reactoare cu apă sub presiune, cât și cu apă în fierbere.",
+      en: "Ringhals is the largest power station in Northern Europe, generating massive amounts of CO2-free electricity annually. It utilizes both pressurized and boiling water reactor technologies.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Westküste bei Värö", "Eigentümer ist Vattenfall (70%)", "Produktion für 3 Mio. Haushalte", "Gegründet in den 1970er Jahren"],
+      hu: ["A nyugati parton, Värö mellett", "Vattenfall a többségi tulajdonos", "3 millió háztartást lát el", "Az 1970-es években alapították"],
+      ro: ["Situată pe coasta de vest la Värö", "Proprietar majoritar Vattenfall", "Produce energie pentru 3 mil. familii", "Fondată în anii 1970"],
+      en: ["Located on the west coast at Värö", "Majority owned by Vattenfall (70%)", "Powers approx. 3 million homes", "Established in the 1970s"],
+    },
+    image: "/poi-images/sweden-ringhals-npp-economic-v2.webp",
+},  {
     id: "sweden-harspranget-power-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Harsprånget", hu: "Harsprånget vízerőmű", ro: "Hidrocentrala Harsprånget", en: "Harsprånget Power Station" },
+    name: { de: "Wasserkraftwerk Harsprånget", hu: "Harsprånget vízerőmű", ro: "Hidrocentrala Harsprånget", en: "Harsprånget Power Station",
+image: "/poi-images/sweden-harspranget-power-economic-v2.webp"
+},
     coords: [19.822, 66.885],
     coordinates: { lat: 66.885, lng: 19.822 },
     description: {
@@ -306,11 +531,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Capacitate instalată de 977 MW", "Producție anuală de aproximativ 2,1 TWh", "Sala turbinelor este construită în subteran, în stâncă", "Aici a început prima linie comercială de 400 kV"],
       en: ["Installed capacity of 977 MW", "Annual production of approximately 2.1 terawatt-hours", "The underground powerhouse is carved into the rock", "The world's first commercial 400 kV line started here"],
     },
-    imageHint: "Large dam and hydroelectric power plant Harsprånget", image: "/poi-images/sweden-harspranget-power-economic-v2.webp"},
-  {
+imageHint: "Large dam and hydroelectric power plant Harsprånget",
+    descriptionAdvanced: {
+      de: "Harsprånget ist das leistungsstärkste Wasserkraftwerk Schwedens und liegt am Fluss Lule älv. Es war ein technologisches Pionierprojekt für die Fernübertragung von Hochspannungsstrom.",
+      hu: "Harsprånget Svédország legnagyobb teljesítményű vízerőműve, amely a Lule-folyón található. Technológiai úttörő projekt volt a nagyfeszültségű távolsági áramátvitel területén.",
+      ro: "Harsprånget este cea mai puternică hidrocentrală din Suedia, situată pe râul Lule. A fost un proiect tehnologic de pionierat pentru transportul energiei la mare distanță.",
+      en: "Harsprånget is Sweden's most powerful hydroelectric plant, located on the Lule River. It was a pioneering engineering project for high-voltage long-distance power transmission.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Leistung von 977 MW", "Fallhöhe von 107 Metern", "Bauzeit zwischen 1945 und 1951", "Unterirdisches Maschinenhaus"],
+      hu: ["977 MW maximális teljesítmény", "107 méteres esési magasság", "Épült 1945 és 1951 között", "Földalatti gépház"],
+      ro: ["Putere maximă de 977 MW", "Înălțime de cădere de 107 metri", "Construită între 1945 și 1951", "Sală a mașinilor subterană"],
+      en: ["Maximum capacity of 977 MW", "Head height of 107 meters", "Built between 1945 and 1951", "Features an underground powerhouse"],
+    },
+    image: "/poi-images/sweden-harspranget-power-economic-v2.webp",
+},  {
     id: "sweden-ikea-almhult-economic-v2",
     type: "industry",
-    name: { de: "IKEA-Zentrum Älmhult", hu: "IKEA központ Älmhult", ro: "Centrul IKEA Älmhult", en: "IKEA Älmhult Center" },
+    name: { de: "IKEA-Zentrum Älmhult", hu: "IKEA központ Älmhult", ro: "Centrul IKEA Älmhult", en: "IKEA Älmhult Center",
+image: "/poi-images/sweden-ikea-almhult-economic-v2.webp"
+},
     coords: [14.135, 56.551],
     coordinates: { lat: 56.551, lng: 14.135 },
     description: {
@@ -326,11 +566,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Founded by Ingvar Kamprad in 1943", "Home to the IKEA Museum", "Over 5,000 employees from 50 nations work here", "Site of the 'IKEA of Sweden' development center"],
     },
     imageHint: "IKEA headquarters and museum in Älmhult",
+    descriptionAdvanced: {
+      de: "Älmhult ist das Herz von IKEA, wo Ingvar Kamprad das Unternehmen gründete. Heute ist es das globale Zentrum für Design, Produktentwicklung und die Bewahrung der Markenidentität.",
+      hu: "Älmhult az IKEA szíve, ahol Ingvar Kamprad alapította a céget. Ma a design, a termékfejlesztés és a márkaidentitás megőrzésének globális központja.",
+      ro: "Älmhult este inima IKEA, locul unde Ingvar Kamprad a fondat compania. Astăzi este centrul global pentru design, dezvoltarea produselor și conservarea identității mărcii.",
+      en: "Älmhult is the spiritual heart of IKEA, where Ingvar Kamprad founded the company. Today, it serves as the global hub for design, product development, and brand heritage.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des IKEA Museums", "Entwicklungszentrum IKEA of Sweden", "Erster IKEA-Laden eröffnete 1958", "Über 5000 Mitarbeiter im Ort"],
+      hu: ["IKEA Múzeum székhelye", "IKEA of Sweden fejlesztőközpont", "Első IKEA áruház nyílt 1958-ban", "Több mint 5000 alkalmazott"],
+      ro: ["Sediul Muzeului IKEA", "Centrul IKEA of Sweden", "Primul magazin deschis în 1958", "Peste 5000 de angajați local"],
+      en: ["Home to the IKEA Museum", "Center of 'IKEA of Sweden' R&D", "First IKEA store opened in 1958", "Over 5,000 employees in the town"],
+    },
   },
   {
     id: "sweden-boras-textile-economic-v2",
     type: "industry",
-    name: { de: "Textilzentrum Borås", hu: "Boråsi textilipari központ", ro: "Centrul textil Borås", en: "Borås Textile Hub" },
+    name: { de: "Textilzentrum Borås", hu: "Boråsi textilipari központ", ro: "Centrul textil Borås", en: "Borås Textile Hub",
+image: "/poi-images/sweden-boras-textile-economic-v2.webp"
+},
     coords: [12.94, 57.721],
     coordinates: { lat: 57.721, lng: 12.94 },
     description: {
@@ -345,11 +599,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Găzduiește Școala Suedeză de Textile (Textilhögskolan)", "Centru pentru numeroase companii de comerț la distanță", "Locația complexului 'Textile Fashion Center'", "Cunoscut istoric ca orașul comercianților ambulanți ('knalle')"],
       en: ["Home to the Swedish School of Textiles", "Center for many Swedish mail-order and e-commerce firms", "Hosts the 'Textile Fashion Center'", "Historically known as the city of wandering merchants ('knalle')"],
     },
-    imageHint: "Modern textile and fashion center building Borås", image: "/poi-images/sweden-boras-textile-economic-v2.webp"},
-  {
+imageHint: "Modern textile and fashion center building Borås",
+    descriptionAdvanced: {
+      de: "Borås ist das historische und moderne Zentrum der schwedischen Textilindustrie. Die Stadt verbindet traditionelle Fertigung mit moderner Forschung zu nachhaltiger Mode und E-Commerce.",
+      hu: "Borås a svéd textilipar történelmi és modern központja. A város ötvözi a hagyományos gyártást a fenntartható divattal és az e-kereskedelemmel kapcsolatos modern kutatásokkal.",
+      ro: "Borås este centrul istoric și modern al industriei textile suedeze. Orașul îmbină producția tradițională cu cercetarea modernă în modă sustenabilă și e-commerce.",
+      en: "Borås is the historic and modern hub of the Swedish textile industry. The city integrates traditional manufacturing with cutting-edge research in sustainable fashion and e-commerce.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Textilhochschule", "Zentrum des schwedischen Versandhandels", "Textilmuseum in einer alten Fabrik", "Fokus auf zirkuläre Textilwirtschaft"],
+      hu: ["A Textilfőiskola székhelye", "A svéd csomagküldő kereskedelem központja", "Textilmúzeum egy régi gyárban", "Fókuszban a körforgásos textilipar"],
+      ro: ["Sediul Școlii de Textile", "Centrul comerțului prin corespondență", "Muzeul Textilelor într-o veche fabrică", "Accent pe economia textilă circulară"],
+      en: ["Home to the School of Textiles", "Center of Swedish mail-order trade", "Textile Museum in an old factory", "Focus on circular textile economy"],
+    },
+    image: "/poi-images/sweden-boras-textile-economic-v2.webp",
+},  {
     id: "sweden-karlskoga-bofors-economic-v2",
     type: "factory",
-    name: { de: "Bofors Industriegebiet Karlskoga", hu: "Karlskoga Bofors ipari negyed", ro: "Zona industrială Bofors Karlskoga", en: "Karlskoga Bofors Industrial Area" },
+    name: { de: "Bofors Industriegebiet Karlskoga", hu: "Karlskoga Bofors ipari negyed", ro: "Zona industrială Bofors Karlskoga", en: "Karlskoga Bofors Industrial Area",
+image: "/poi-images/sweden-karlskoga-bofors-economic-v2.webp"
+},
     coords: [14.522, 59.335],
     coordinates: { lat: 59.335, lng: 14.522 },
     description: {
@@ -365,11 +634,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Alfred Nobel owned the Björkborn manor here", "Manufacturing site for artillery and guided weapons", "Home to companies like Saab Dynamics and BAE Systems Bofors", "Testing grounds for explosives and ammunition nearby"],
     },
     imageHint: "Industrial defense manufacturing plant Bofors",
+    descriptionAdvanced: {
+      de: "Das Bofors-Industriegebiet in Karlskoga ist das Zentrum der schwedischen Verteidigungsindustrie. Bekannt durch Alfred Nobel, werden hier bis heute hochmoderne Waffensysteme produziert.",
+      hu: "A karlskogai Bofors ipari negyed a svéd védelmi ipar központja. Az Alfred Nobel révén ismertté vált területen a mai napig ultramodern fegyverrendszereket gyártanak.",
+      ro: "Zona industrială Bofors din Karlskoga este centrul industriei de apărare suedeze. Cunoscută prin Alfred Nobel, locația produce și astăzi sisteme de armament ultramoderne.",
+      en: "The Bofors industrial area in Karlskoga is the epicenter of the Swedish defense industry. Famous for its link to Alfred Nobel, it remains a site for advanced weapons systems production.",
+    },
+    factsAdvanced: {
+      de: ["Alfred Nobel erwarb Bofors 1894", "Spezialisierung auf Artillerie", "Sitz von Saab Dynamics", "Historisches Björkborn-Labor"],
+      hu: ["Alfred Nobel 1894-ben vette meg", "Tüzérségi eszközökre szakosodott", "A Saab Dynamics székhelye", "Történelmi Björkborn laboratórium"],
+      ro: ["Alfred Nobel a preluat Bofors în 1894", "Specializare în artilerie", "Sediul Saab Dynamics", "Laboratorul istoric Björkborn"],
+      en: ["Alfred Nobel acquired Bofors in 1894", "Specializes in artillery systems", "Headquarters of Saab Dynamics", "Site of historic Björkborn Lab"],
+    },
   },
   {
     id: "sweden-molndal-life-science-economic-v2",
     type: "industry",
-    name: { de: "Life Science Cluster Mölndal", hu: "Mölndali élettudományi klaszter", ro: "Clusterul de Life Science Mölndal", en: "Mölndal Life Science Cluster" },
+    name: { de: "Life Science Cluster Mölndal", hu: "Mölndali élettudományi klaszter", ro: "Clusterul de Life Science Mölndal", en: "Mölndal Life Science Cluster",
+image: "/poi-images/sweden-molndal-life-science-economic-v2.webp"
+},
     coords: [12.025, 57.658],
     coordinates: { lat: 57.658, lng: 12.025 },
     description: {
@@ -384,11 +667,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Peste 2.000 de cercetători lucrează la AstraZeneca în această locație", "Parte a proiectului 'GoCo Health Innovation City'", "Focus pe boli cardiovasculare, metabolice și respiratorii", "Colaborare strânsă cu Academia Sahlgrenska din Göteborg"],
       en: ["Over 2,000 researchers work at AstraZeneca on-site", "Part of the 'GoCo Health Innovation City' project", "Focus on cardiovascular, metabolic, and respiratory diseases", "Close collaboration with Sahlgrenska Academy in Gothenburg"],
     },
-    imageHint: "Modern pharmaceutical research laboratory building", image: "/poi-images/sweden-molndal-life-science-economic-v2.webp"},
-  {
+imageHint: "Modern pharmaceutical research laboratory building",
+    descriptionAdvanced: {
+      de: "Mölndal ist ein führender Life-Science-Cluster in Nordeuropa, dominiert durch AstraZeneca. Der Standort ist ein Magnet für Forschungseinrichtungen und innovative Biotech-Unternehmen.",
+      hu: "Mölndal Észak-Európa egyik vezető élettudományi klasztere, ahol az AstraZeneca dominál. A telephely kutatóintézetek és innovatív biotechnológiai cégek mágnese.",
+      ro: "Mölndal este un cluster lider în științele vieții din Europa de Nord, dominat de AstraZeneca. Locația atrage numeroase institute de cercetare și companii biotech inovatoare.",
+      en: "Mölndal is a premier life science cluster in Northern Europe, anchored by AstraZeneca. The area is a magnet for research institutions and innovative biotechnology firms.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum von AstraZeneca Schweden", "GoCo Health Innovation City", "Nähe zur Universität Göteborg", "Über 7000 Forscher vor Ort"],
+      hu: ["Az AstraZeneca svédországi központja", "GoCo Health Innovation City projekt", "Közel a Göteborgi Egyetemhez", "Több mint 7000 kutató"],
+      ro: ["Centrul AstraZeneca Suedia", "Proiectul GoCo Health Innovation City", "Proximitate față de Univ. Göteborg", "Peste 7000 de cercetători local"],
+      en: ["Main hub for AstraZeneca Sweden", "GoCo Health Innovation City project", "Proximity to Gothenburg University", "Home to over 7,000 researchers"],
+    },
+    image: "/poi-images/sweden-molndal-life-science-economic-v2.webp",
+},  {
     id: "sweden-trollhattan-innovatum-economic-v2",
     type: "industry",
-    name: { de: "Innovatum Science Park Trollhättan", hu: "Innovatum Science Park Trollhättan", ro: "Innovatum Science Park Trollhättan", en: "Innovatum Science Park Trollhättan" },
+    name: { de: "Innovatum Science Park Trollhättan", hu: "Innovatum Science Park Trollhättan", ro: "Innovatum Science Park Trollhättan", en: "Innovatum Science Park Trollhättan",
+image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp"
+},
     coords: [12.335, 58.302],
     coordinates: { lat: 58.302, lng: 12.335 },
     description: {
@@ -403,11 +701,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Locul unde se află PTC (Production Technology Center)", "Legătură strânsă cu GKN Aerospace (fostul Volvo Aero)", "Centru pentru producția de film ('Trollywood')", "Focus pe fabricație aditivă și robotică"],
       en: ["Home to the PTC (Production Technology Center)", "Strong links to GKN Aerospace (formerly Volvo Aero)", "Center for film production, known as 'Trollywood'", "Focus on additive manufacturing and robotics"],
     },
-    imageHint: "Industrial heritage buildings converted to science park", image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp"},
-  {
+imageHint: "Industrial heritage buildings converted to science park",
+    descriptionAdvanced: {
+      de: "Innovatum in Trollhättan ist ein bedeutendes Technologiezentrum auf dem Gelände der ehemaligen NOHAB-Werke. Es konzentriert sich auf Luft- und Raumfahrt sowie nachhaltige Produktionstechnik.",
+      hu: "A trollhättani Innovatum egy jelentős technológiai központ a korábbi NOHAB üzemek területén. Elsősorban a repülőgépiparra és a fenntartható gyártási technológiákra összpontosít.",
+      ro: "Innovatum din Trollhättan este un centru tehnologic major pe locul fostelor uzine NOHAB. Se concentrează pe industria aerospațială și tehnologii de producție sustenabile.",
+      en: "Innovatum in Trollhättan is a major technology hub located on the grounds of the former NOHAB works. It focuses on aerospace engineering and sustainable production technologies.",
+    },
+    factsAdvanced: {
+      de: ["Sitz von GKN Aerospace", "Historisches Saab-Museum nahebei", "Zentrum für Filmproduktion (Trollywood)", "Fokus auf Weltraumtechnologie"],
+      hu: ["A GKN Aerospace székhelye", "Közelben a Saab Múzeum", "Filmgyártási központ (Trollywood)", "Fókuszban az űrtechnológia"],
+      ro: ["Sediul GKN Aerospace", "Muzeul Saab situat în apropiere", "Centru de producție cinematografică", "Accent pe tehnologia spațială"],
+      en: ["Home to GKN Aerospace", "Nearby Saab Car Museum", "Center for film production (Trollywood)", "Focus on space technology research"],
+    },
+    image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp",
+},  {
     id: "sweden-ludvika-power-grid-economic-v2",
     type: "factory",
-    name: { de: "Hitachi Energy Campus Ludvika", hu: "Hitachi Energy Ludvika kampusz", ro: "Campusul Hitachi Energy Ludvika", en: "Hitachi Energy Ludvika Campus" },
+    name: { de: "Hitachi Energy Campus Ludvika", hu: "Hitachi Energy Ludvika kampusz", ro: "Campusul Hitachi Energy Ludvika", en: "Hitachi Energy Ludvika Campus",
+image: "/poi-images/sweden-ludvika-power-grid-economic-v2.webp"
+},
     coords: [15.195, 60.152],
     coordinates: { lat: 60.152, lng: 15.195 },
     description: {
@@ -423,11 +736,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["World's largest transformer manufacturing plant", "Features the world's most powerful HVDC test laboratory", "Major supplier for global super-grids", "Electrical engineering tradition spanning over 100 years"],
     },
     imageHint: "Large electrical transformers and high voltage equipment",
+    descriptionAdvanced: {
+      de: "Ludvika ist ein weltweites Kompetenzzentrum für die Übertragung von elektrischer Energie. Hitachi Energy entwickelt hier Hochspannungs-Gleichstrom-Systeme (HGÜ) für globale Stromnetze.",
+      hu: "Ludvika a villamosenergia-átvitel globális kiválósági központja. A Hitachi Energy itt fejleszti a nagyfeszültségű egyenáramú (HVDC) rendszereket a globális hálózatok számára.",
+      ro: "Ludvika este un centru de competență mondial în transportul energiei electrice. Hitachi Energy dezvoltă aici sisteme HVDC pentru rețele electrice globale.",
+      en: "Ludvika is a global center of excellence for electric power transmission. Hitachi Energy develops high-voltage direct current (HVDC) systems here for international power grids.",
+    },
+    factsAdvanced: {
+      de: ["Weltweit größtes HGÜ-Testlabor", "Über 100 Jahre Erfahrung", "Sitz von Hitachi Energy Schweden", "Zulieferer für globale Stromtrassen"],
+      hu: ["A világ legnagyobb HVDC laborja", "Több mint 100 éves tapasztalat", "Hitachi Energy svéd központja", "Globális távvezetékek beszállítója"],
+      ro: ["Cel mai mare laborator HVDC din lume", "Peste 100 de ani de experiență", "Sediul Hitachi Energy Suedia", "Furnizor pentru rețele globale"],
+      en: ["World's largest HVDC test laboratory", "Over 100 years of expertise", "Headquarters of Hitachi Energy Sweden", "Supplier for global power interlinks"],
+    },
   },
   {
     id: "sweden-skutskar-mill-economic-v2",
     type: "factory",
-    name: { de: "Zellstoffwerk Skutskär", hu: "Skutskäri cellulózgyár", ro: "Fabrica de celuloză Skutskär", en: "Skutskär Pulp Mill" },
+    name: { de: "Zellstoffwerk Skutskär", hu: "Skutskäri cellulózgyár", ro: "Fabrica de celuloză Skutskär", en: "Skutskär Pulp Mill",
+image: "/poi-images/sweden-skutskar-mill-economic-v2.webp"
+},
     coords: [17.422, 60.638],
     coordinates: { lat: 60.638, lng: 17.422 },
     description: {
@@ -443,11 +770,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Specialized in pulp for hygiene products like diapers", "Annual capacity of approximately 540,000 tons of pulp", "Uses biomass to make the plant energy self-sufficient", "Located at the mouth of the Dalälven river into the Baltic Sea"],
     },
     imageHint: "Large pulp and paper mill complex Skutskär",
+    descriptionAdvanced: {
+      de: "Die Skutskär-Zellstofffabrik ist eine der weltweit führenden Anlagen für die Herstellung von Fluff-Zellstoff. Dieser wird primär für Hygieneprodukte wie Windeln und Inkontinenzartikel verwendet.",
+      hu: "A skutskäri cellulózgyár a világ egyik vezető üzeme a 'fluff' cellulóz gyártásában. Ezt elsősorban higiéniai termékekhez, például pelenkákhoz és inkontinencia-termékekhez használják.",
+      ro: "Fabrica de celuloză Skutskär este una dintre cele mai importante unități din lume pentru celuloză 'fluff'. Aceasta este utilizată în principal pentru produse de igienă.",
+      en: "Skutskär Pulp Mill is one of the world's leading facilities for fluff pulp production. This specialized pulp is primarily used for hygiene products like diapers and incontinence pads.",
+    },
+    factsAdvanced: {
+      de: ["Betrieben von Stora Enso", "Kapazität von 540.000 t jährlich", "Spezialisierung auf Kiefernholz", "Liegt an der Mündung des Dalälven"],
+      hu: ["A Stora Enso üzemelteti", "Évi 540 000 tonna kapacitás", "Fenyőfára szakosodott feldolgozás", "A Dalälven folyó torkolatánál"],
+      ro: ["Operată de Stora Enso", "Capacitate de 540.000 tone anual", "Specializare în lemn de pin", "Situată la gura râului Dalälven"],
+      en: ["Operated by Stora Enso", "Capacity of 540,000 tons annually", "Specializes in pine wood pulp", "Located at the Dalälven river mouth"],
+    },
   },
   {
     id: "sweden-monsteras-mill-economic-v2",
     type: "factory",
-    name: { de: "Zellstoffwerk Mönsterås", hu: "Mönsteråsi cellulózgyár", ro: "Fabrica de celuloză Mönsterås", en: "Mönsterås Pulp Mill" },
+    name: { de: "Zellstoffwerk Mönsterås", hu: "Mönsteråsi cellulózgyár", ro: "Fabrica de celuloză Mönsterås", en: "Mönsterås Pulp Mill",
+image: "/poi-images/sweden-monsteras-mill-economic-v2.webp"
+},
     coords: [16.485, 57.042],
     coordinates: { lat: 57.042, lng: 16.485 },
     description: {
@@ -462,11 +803,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Produce celuloză pentru hârtie și textile", "Furnizează energie termică comunităților din apropiere", "Include o gateră de mari dimensiuni în incintă", "Deținută de peste 50.000 de proprietari de păduri prin Södra"],
       en: ["Produces market pulp for paper and textiles", "Supplies district heating to nearby communities", "Includes a large sawmill on the same site", "Owned by over 50,000 forest owners through the Södra cooperative"],
     },
-    imageHint: "Large industrial pulp mill with wood storage", image: "/poi-images/sweden-monsteras-mill-economic-v2.webp"},
-  {
+imageHint: "Large industrial pulp mill with wood storage",
+    descriptionAdvanced: {
+      de: "Das Werk in Mönsterås ist die größte Zellstofffabrik von Södra. Es ist ein integrierter Standort mit eigenem Sägewerk und einer der weltweit modernsten Anlagen zur Biokraftstoffgewinnung.",
+      hu: "A mönsteråsi üzem a Södra legnagyobb cellulózgyára. Ez egy integrált telephely saját fűrészüzemmel és a világ egyik legmodernebb bioüzemanyag-gyártó létesítményével.",
+      ro: "Uzina din Mönsterås este cea mai mare fabrică de celuloză a Södra. Este o locație integrată cu gater propriu și una dintre cele mai moderne unități de biocombustibil din lume.",
+      en: "The Mönsterås mill is Södra's largest pulp facility. It is a highly integrated site featuring its own sawmill and one of the world's most advanced biofuel production units.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität 750.000 t Zellstoff", "Lieferant von Fernwärme", "Eigene Produktion von Liquid Methanol", "Besitz der Waldbesitzer-Genossenschaft"],
+      hu: ["750 000 tonna cellulóz kapacitás", "Távhő szolgáltató a környéken", "Saját folyékony metanol gyártás", "Erdőtulajdonosok szövetkezeti tulajdona"],
+      ro: ["Capacitate 750.000 tone celuloză", "Furnizor de termoficare locală", "Producție proprie de metanol lichid", "Proprietatea cooperativei silvice"],
+      en: ["Capacity of 750,000 tons of pulp", "Major supplier of district heating", "Produces liquid biomethanol", "Owned by a forest owners' cooperative"],
+    },
+    image: "/poi-images/sweden-monsteras-mill-economic-v2.webp",
+},  {
     id: "sweden-hallstavik-mill-economic-v2",
     type: "factory",
-    name: { de: "Papierfabrik Hallsta", hu: "Hallsta papírgyár", ro: "Fabrica de hârtie Hallsta", en: "Hallsta Paper Mill" },
+    name: { de: "Papierfabrik Hallsta", hu: "Hallsta papírgyár", ro: "Fabrica de hârtie Hallsta", en: "Hallsta Paper Mill",
+image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp"
+},
     coords: [18.602, 60.055],
     coordinates: { lat: 60.055, lng: 18.602 },
     description: {
@@ -481,11 +837,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Utilizează 100% fibre proaspete din pădurile suedeze", "Pionier în utilizarea căldurii reziduale din procesul de producție", "Port propriu pentru exportul către restul Europei", "Produce hârtie pentru reviste globale cunoscute"],
       en: ["Uses 100% fresh fibers from Swedish forests", "Pioneer in recovering heat from the production process", "Private port facilities for exports to Europe", "Produces paper for well-known global magazines"],
     },
-    imageHint: "Industrial paper mill Hallstavik with shipping port", image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp"},
-  {
+imageHint: "Industrial paper mill Hallstavik with shipping port",
+    descriptionAdvanced: {
+      de: "Die Hallsta-Papierfabrik ist spezialisiert auf die Produktion von hochwertigem Magazinpapier und Buchdruckpapier. Das Werk nutzt fortschrittliche thermomechanische Zellstoffverfahren.",
+      hu: "A hallstai papírgyár kiváló minőségű magazin- és könyvnyomópapírok gyártására szakosodott. Az üzem fejlett termomechanikai cellulózeljárásokat alkalmaz.",
+      ro: "Fabrica de hârtie Hallsta este specializată în producția de hârtie de înaltă calitate pentru reviste și cărți. Uzina utilizează procese termomecanice avansate pentru celuloză.",
+      en: "Hallsta Paper Mill specializes in high-quality magazine and book paper production. The facility employs advanced thermomechanical pulping processes to ensure superior print surfaces.",
+    },
+    factsAdvanced: {
+      de: ["Betrieben von Holmen Paper", "Gegründet im Jahr 1915", "Nutzung von 100% Frischfaser", "Fokus auf Leichtgewichtspapiere"],
+      hu: ["A Holmen Paper üzemelteti", "1915-ben alapították", "100% friss rost használata", "Fókuszban a könnyű papírok"],
+      ro: ["Operată de Holmen Paper", "Fondată în anul 1915", "Utilizare de fibră 100% virgină", "Accent pe hârtii cu greutate redusă"],
+      en: ["Operated by Holmen Paper", "Established in 1915", "Uses 100% fresh wood fibers", "Focus on lightweight paper products"],
+    },
+    image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp",
+},  {
     id: "sweden-gavle-port-economic-v2",
     type: "port",
-    name: { de: "Hafen Gävle", hu: "Gävlei kikötő", ro: "Portul Gävle", en: "Port of Gävle" },
+    name: { de: "Hafen Gävle", hu: "Gävlei kikötő", ro: "Portul Gävle", en: "Port of Gävle",
+image: "/poi-images/sweden-gavle-port-economic-v2.webp"
+},
     coords: [17.205, 60.685],
     coordinates: { lat: 60.685, lng: 17.205 },
     description: {
@@ -501,11 +872,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Hub for importing aviation fuel for Stockholm-Arlanda airport", "Features a highly automated container terminal", "Critical node for rail-to-sea logistics in Central Sweden", "Located at the mouth of the Gavleån river"],
     },
     imageHint: "Gävle container port cranes and stacks",
+    descriptionAdvanced: {
+      de: "Der Hafen von Gävle ist das Tor für den schwedischen Industriecluster im Osten. Er ist ein bedeutender Importhafen für Erdölprodukte und ein zentraler Exportknoten für die Holzindustrie.",
+      hu: "Gävle kikötője a keleti svéd ipari fürtök kapuja. Jelentős importkikötő a kőolajtermékek számára, és központi exportcsomópont a faipar termékeihez.",
+      ro: "Portul Gävle este poarta de acces pentru clusterul industrial din estul Suediei. Este un port major de import pentru petrol și un nod central de export pentru industria lemnului.",
+      en: "The Port of Gävle is the primary maritime gateway for the industrial clusters of Eastern Sweden. it is a major oil import terminal and a critical export hub for the timber industry.",
+    },
+    factsAdvanced: {
+      de: ["Größter Containerhafen an der Ostküste", "Über 1000 Schiffsanläufe jährlich", "Logistikzentrum für Biokraftstoffe", "Anbindung an große Papierfabriken"],
+      hu: ["A keleti part legnagyobb konténerkikötője", "Évi több mint 1000 hajó érkezése", "Bioüzemanyag logisztikai központ", "Nagy papírgyárak közvetlen kapcsolata"],
+      ro: ["Cel mai mare port de containere de pe est", "Peste 1000 de nave anual", "Centru logistic pentru biocombustibili", "Conexiune cu mari fabrici de hârtie"],
+      en: ["Largest container port on the East Coast", "Over 1,000 vessel calls annually", "Logistics hub for biofuels", "Direct links to major paper mills"],
+    },
   },
   {
     id: "sweden-helsingborg-port-economic-v2",
     type: "port",
-    name: { de: "Hafen Helsingborg", hu: "Helsingborgi kikötő", ro: "Portul Helsingborg", en: "Port of Helsingborg" },
+    name: { de: "Hafen Helsingborg", hu: "Helsingborgi kikötő", ro: "Portul Helsingborg", en: "Port of Helsingborg",
+image: "/poi-images/sweden-helsingborg-port-economic-v2.webp"
+},
     coords: [12.702, 56.045],
     coordinates: { lat: 56.045, lng: 12.702 },
     description: {
@@ -521,11 +906,25 @@ export const swedenEconomicV2: POI[] = [
       en: ["Sweden's most important port for food imports", "Handles around 8 million tons of cargo annually", "Ferry connection to Helsingør runs every 15 minutes", "Major hub for cold storage logistics and fruit trade"],
     },
     imageHint: "Busy ferry and cargo port in Helsingborg",
+    descriptionAdvanced: {
+      de: "Helsingborg ist einer der geschäftigsten Häfen Nordeuropas und ein wichtiges Bindeglied im Landverkehr zwischen Skandinavien und dem Kontinent durch die Fährverbindung nach Dänemark.",
+      hu: "Helsingborg Észak-Európa egyik legforgalmasabb kikötője, és a dániai kompkapcsolat révén fontos láncszem Skandinávia és a kontinens közötti szárazföldi forgalomban.",
+      ro: "Helsingborg este unul dintre cele mai aglomerate porturi din Europa de Nord și o legătură vitală pentru traficul rutier între Scandinavia și continent prin feribotul spre Danemarca.",
+      en: "Helsingborg is one of Northern Europe's busiest ports and a vital link for land transport between Scandinavia and the continent via the ferry connection to Denmark.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößter Containerhafen Schwedens", "Über 7 Mio. Passagiere jährlich", "Wichtigster Hafen für Obstimporte", "20 Min. Fährzeit nach Helsingør"],
+      hu: ["Svédország második legnagyobb konténerkikötője", "Évi több mint 7 millió utas", "Legfontosabb gyümölcsimport kikötő", "20 perces út Helsingørbe"],
+      ro: ["Al doilea port de containere din Suedia", "Peste 7 mil. de pasageri anual", "Cel mai important port pentru fructe", "20 min. traversarea spre Helsingør"],
+      en: ["Sweden's second largest container port", "Over 7 million passengers annually", "Primary hub for fruit imports", "20-minute ferry ride to Helsingør"],
+    },
   },
   {
     id: "sweden-trelleborg-port-economic-v2",
     type: "port",
-    name: { de: "Hafen Trelleborg", hu: "Trelleborgi kikötő", ro: "Portul Trelleborg", en: "Port of Trelleborg" },
+    name: { de: "Hafen Trelleborg", hu: "Trelleborgi kikötő", ro: "Portul Trelleborg", en: "Port of Trelleborg",
+image: "/poi-images/sweden-trelleborg-port-economic-v2.webp"
+},
     coords: [13.155, 55.372],
     coordinates: { lat: 55.372, lng: 13.155 },
     description: {
@@ -540,11 +939,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Cel mai mare port pentru feriboturi feroviare de la Marea Baltică", "Conexiuni către Travemünde, Rostock și Sassnitz", "Gestionează peste 1 milion de camioane anual", "Cel mai sudic port al Suediei"],
       en: ["Largest railway ferry port on the Baltic Sea", "Direct connections to Travemünde, Rostock, and Sassnitz", "Handles over 1 million trucks per year", "The southernmost port in Sweden"],
     },
-    imageHint: "Ferry terminal and trucks in Trelleborg port", image: "/poi-images/sweden-trelleborg-port-economic-v2.webp"},
-  {
+imageHint: "Ferry terminal and trucks in Trelleborg port",
+    descriptionAdvanced: {
+      de: "Trelleborg ist Schwedens größter Fährhafen und ein zentraler Logistikknoten für den Güterverkehr nach Deutschland und Polen. Er spielt eine Schlüsselrolle in den europäischen Verkehrskorridoren.",
+      hu: "Trelleborg Svédország legnagyobb kompkikötője, a Németországba és Lengyelországba irányuló teherforgalom központi logisztikai csomópontja. Kulcsszerepet játszik az európai folyosókon.",
+      ro: "Trelleborg este cel mai mare port de feribot din Suedia și un nod logistic central pentru traficul de marfă spre Germania și Polonia. Joacă un rol cheie în coridoarele europene.",
+      en: "Trelleborg is Sweden's largest ferry port and a primary logistics hub for freight traffic to Germany and Poland. It plays a key role in the Scandinavian-Mediterranean transport corridor.",
+    },
+    factsAdvanced: {
+      de: ["30 km südlich von Malmö", "Größter RoRo-Hafen Skandinaviens", "Über 1 Mio. LKW pro Jahr", "Fähren nach Rostock und Travemünde"],
+      hu: ["30 km-re délre Malmőtől", "Skandinávia legnagyobb RoRo kikötője", "Évi több mint 1 millió kamion", "Kompat járatok Rostockba és Travemündébe"],
+      ro: ["La 30 km sud de Malmö", "Cel mai mare port RoRo din Scandinavia", "Peste 1 mil. de camioane anual", "Feriboturi spre Rostock și Travemünde"],
+      en: ["Located 30 km south of Malmö", "Scandinavia's largest RoRo port", "Handles over 1 million trucks yearly", "Direct ferries to Rostock and Travemünde"],
+    },
+    image: "/poi-images/sweden-trelleborg-port-economic-v2.webp",
+},  {
     id: "sweden-malmo-harbor-economic-v2",
     type: "port",
-    name: { de: "Industriehafen Malmö", hu: "Malmői ipari kikötő", ro: "Portul industrial Malmö", en: "Malmö Industrial Harbor" },
+    name: { de: "Industriehafen Malmö", hu: "Malmői ipari kikötő", ro: "Portul industrial Malmö", en: "Malmö Industrial Harbor",
+image: "/poi-images/sweden-malmo-harbor-economic-v2.webp"
+},
     coords: [13.005, 55.625],
     coordinates: { lat: 55.625, lng: 13.005 },
     description: {
@@ -559,11 +973,26 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Nod central pentru vehicule noi în Scandinavia", "Fostul amplasament al șantierului naval Kockums", "Centru logistic major pentru produsele IKEA", "Integrare operațională strânsă cu portul Copenhaga"],
       en: ["Major hub for new car imports to Scandinavia", "Former site of the massive Kockums shipyard", "Large distribution center for IKEA products", "Operates as a single entity with the Port of Copenhagen"],
     },
-    imageHint: "Malmö harbor area with cars and cargo", image: "/poi-images/sweden-malmo-harbor-economic-v2.webp"},
-  {
+imageHint: "Malmö harbor area with cars and cargo",
+    descriptionAdvanced: {
+      de: "Der Hafen von Malmö bildet zusammen mit Kopenhagen die Copenhagen Malmö Port (CMP) Kooperation. Er ist ein führendes Verteilzentrum für PKW-Importe in der gesamten Ostseeregion.",
+      hu: "Malmő kikötője Koppenhágával együtt alkotja a Copenhagen Malmö Port (CMP) együttműködést. Az egész balti régió egyik vezető autóimport-elosztó központja.",
+      ro: "Portul Malmö formează, împreună cu Copenhaga, cooperarea Copenhagen Malmö Port (CMP). Este un centru de distribuție lider pentru importurile auto în regiunea Mării Baltice.",
+      en: "Malmö Harbor operates as part of the Copenhagen Malmö Port (CMP). It is a leading distribution hub for vehicle imports serving the entire Baltic Sea region.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum für Auto-Logistik", "Anschluss an die Öresundbrücke", "Großes Areal für Massengut", "Teil des CMP-Hafenverbunds"],
+      hu: ["Autólogisztikai központ", "Közvetlen kapcsolat az Öresund hídhoz", "Hatalmas ömlesztettáru-terület", "A CMP kikötői szövetség része"],
+      ro: ["Centru pentru logistică auto", "Conexiune la podul Öresund", "Zonă vastă pentru mărfuri vrac", "Parte a rețelei portuare CMP"],
+      en: ["Major hub for vehicle logistics", "Connected to the Öresund Bridge", "Large terminal for bulk cargo", "Part of the CMP port cooperation"],
+    },
+    image: "/poi-images/sweden-malmo-harbor-economic-v2.webp",
+},  {
     id: "sweden-svappavaara-mine-economic-v2",
     type: "mine",
-    name: { de: "Eisenerzgrube Svappavaara", hu: "Svappavaarai vasércbánya", ro: "Mina de fier Svappavaara", en: "Svappavaara Iron Ore Mine" },
+    name: { de: "Eisenerzgrube Svappavaara", hu: "Svappavaarai vasércbánya", ro: "Mina de fier Svappavaara", en: "Svappavaara Iron Ore Mine",
+image: "/poi-images/sweden-svappavaara-mine-economic-v2.webp"
+},
     coords: [21.052, 67.645],
     coordinates: { lat: 67.645, lng: 21.052 },
     description: {
@@ -579,5 +1008,17 @@ export const swedenEconomicV2: POI[] = [
       en: ["The Gruvberget open-pit mine was reactivated in 2010", "Home to one of the world's most modern pelletizing plants", "Supplies high-quality raw materials to the steel industry", "Located along the strategic Iron Ore railway line"],
     },
     imageHint: "Open pit iron ore mine in Svappavaara Lapland",
+    descriptionAdvanced: {
+      de: "Svappavaara ist ein bedeutender Bergbaustandort von LKAB, der sowohl Tagebau- als auch Veredelungsanlagen umfasst. Hier werden hochwertige Pellets für die globale Stahlindustrie hergestellt.",
+      hu: "Svappavaara az LKAB jelentős bányászati helyszíne, amely külszíni fejtést és feldolgozóüzemeket is magában foglal. Itt készülnek a globális acélipar számára a kiváló minőségű pelletek.",
+      ro: "Svappavaara este o locație minieră importantă a LKAB, cuprinzând cariere deschise și unități de prelucrare. Aici se produc pelete de înaltă calitate pentru industria siderurgică.",
+      en: "Svappavaara is a key mining site for LKAB, encompassing both open-pit operations and enrichment plants. It produces high-quality iron ore pellets for the global steel industry.",
+    },
+    factsAdvanced: {
+      de: ["Abbau im Leveäniemi-Tagebau", "Eigene Pelletieranlage vor Ort", "Wichtiger Zulieferer für Luleå", "Sitz in der Gemeinde Kiruna"],
+      hu: ["Kitermelés a Leveäniemi bányában", "Saját pelletáló üzem a helyszínen", "Luleå fontos beszállítója", "Kiruna község területén található"],
+      ro: ["Extracție în cariera Leveäniemi", "Unitate proprie de peletizare", "Furnizor major pentru Luleå", "Situată în comuna Kiruna"],
+      en: ["Active in the Leveäniemi open pit", "Features its own pelletizing plant", "Primary supplier for Luleå steelworks", "Located within Kiruna Municipality"],
+    },
   }
 ];

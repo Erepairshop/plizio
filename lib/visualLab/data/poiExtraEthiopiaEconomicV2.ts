@@ -14,8 +14,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       en: "Hawassa Industrial Park"
     ,
     descriptionAdvanced: {
-      hu: "A hawassai ipari park Etiópia egyik legfontosabb exportorientált ipari övezete, amely főként a textil- és ruházati iparra összpontosít. A park jelentős munkahelyteremtő hatással bír a régióban, és modern infrastruktúrával támogatja a külföldi befektetéseket. A projekt a kormányzat iparosítási stratégiájának egyik zászlóshajója. Földrajz K8 — iparosítás és gazdaságfejlesztés."
-    },
+      hu: "A hawassai ipari park Etiópia egyik legfontosabb exportorientált ipari övezete, amely főként a textil- és ruházati iparra összpontosít. A park jelentős munkahelyteremtő hatással bír a régióban, és modern infrastruktúrával támogatja a külföldi befektetéseket. A projekt a kormányzat iparosítási stratégiájának egyik zászlóshajója. Földrajz K8 — iparosítás és gazdaságfejlesztés.",
+image: "/poi-images/hawassa-industrial-park-economic-v2.webp"
+},
     factsAdvanced: {
       hu: ["Fő iparág: textil- és ruházati ipar", "Etiópia egyik legnagyobb ipari parkja", "Jelentős exportkapacitás", "Modern infrastruktúra", "Munkahelyteremtés a régióban", "Az iparosítási stratégia része"]
     }
@@ -46,8 +47,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       en: "Modjo Dry Port"
     ,
     descriptionAdvanced: {
-      hu: "A modjói szárazkikötő Etiópia legforgalmasabb logisztikai csomópontja, amely kulcsfontosságú szerepet játszik a tengerparttal nem rendelkező ország nemzetközi kereskedelmében. Dzsibuti kikötőjével szoros összeköttetésben biztosítja az áruk eljuttatását az ország belsejébe. A szárazkikötő jelentős mértékben gyorsítja a vámkezelést és a logisztikai folyamatokat. Földrajz K8 — nemzetközi kereskedelem és logisztika."
-    },
+      hu: "A modjói szárazkikötő Etiópia legforgalmasabb logisztikai csomópontja, amely kulcsfontosságú szerepet játszik a tengerparttal nem rendelkező ország nemzetközi kereskedelmében. Dzsibuti kikötőjével szoros összeköttetésben biztosítja az áruk eljuttatását az ország belsejébe. A szárazkikötő jelentős mértékben gyorsítja a vámkezelést és a logisztikai folyamatokat. Földrajz K8 — nemzetközi kereskedelem és logisztika.",
+image: "/poi-images/modjo-dry-port-economic-v2.webp"
+},
     factsAdvanced: {
       hu: ["Etiópia legforgalmasabb szárazkikötője", "Kulcsfontosságú a nemzetközi kereskedelemben", "Összeköttetés Dzsibuti kikötőjével", "Vámkezelési központ", "Logisztikai kapu az országba", "Jelentős tranzitforgalom"]
     }
@@ -78,8 +80,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       en: "Adama Industrial Park"
     ,
     descriptionAdvanced: {
-      hu: "Az adama-i ipari park a főváros és a keleti országrész közötti kereskedelmi útvonalon fekszik, stratégiai elhelyezkedése előnyös a logisztika és az export számára. A parkban többek között az autóipar, a textilipar és a gépgyártás képviselteti magát. A projekt hozzájárul a régió gazdasági növekedéséhez és a helyi szakképzett munkaerő foglalkoztatásához. Földrajz K8 — gazdaság és ipari övezetek."
-    },
+      hu: "Az adama-i ipari park a főváros és a keleti országrész közötti kereskedelmi útvonalon fekszik, stratégiai elhelyezkedése előnyös a logisztika és az export számára. A parkban többek között az autóipar, a textilipar és a gépgyártás képviselteti magát. A projekt hozzájárul a régió gazdasági növekedéséhez és a helyi szakképzett munkaerő foglalkoztatásához. Földrajz K8 — gazdaság és ipari övezetek.",
+image: "/poi-images/adama-industrial-park-economic-v2.webp"
+},
     factsAdvanced: {
       hu: ["Stratégiai elhelyezkedés (kereskedelmi út)", "Több ágazatot lefedő ipari park", "Fókusz: autóipar, textilipar", "Regionális gazdasági növekedés", "Munkaerő foglalkoztatása", "Exportorientált termelés"]
     }
@@ -108,8 +111,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       en: "Bole Lemi Industrial Park"
     ,
     descriptionAdvanced: {
-      hu: "A Bole Lemi ipari park volt az első ilyen jellegű beruházás Etiópiában, amely Addisz-Abeba közelében létesült. A park sikere úttörő szerepet játszott az ország iparosítási modelljének kialakításában. Elsősorban könnyűipari tevékenységeknek ad otthont, és jelentős külföldi tőkét vonzott az országba. Földrajz K8 — ipari fejlesztés."
-    },
+      hu: "A Bole Lemi ipari park volt az első ilyen jellegű beruházás Etiópiában, amely Addisz-Abeba közelében létesült. A park sikere úttörő szerepet játszott az ország iparosítási modelljének kialakításában. Elsősorban könnyűipari tevékenységeknek ad otthont, és jelentős külföldi tőkét vonzott az országba. Földrajz K8 — ipari fejlesztés.",
+image: "/poi-images/bole-lemi-industrial-park-economic-v2.webp"
+},
     factsAdvanced: {
       hu: ["Az első ipari park Etiópiában", "Addisz-Abeba közelsége", "Úttörő iparosítási modell", "Könnyűipari központ", "Külföldi tőke vonzása", "Munkahelyek teremtése"]
     }
@@ -138,8 +142,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       en: "Mekelle Industrial Park"
     ,
     descriptionAdvanced: {
-      hu: "A mekelle-i ipari park Tigray régió gazdasági központja, amely a textil- és ruházati ipar fejlesztésére helyezi a hangsúlyt. A park modern létesítményei kedvező feltételeket teremtenek a beruházóknak, miközben jelentős foglalkoztatási lehetőséget kínálnak a helyi lakosságnak. A projekt célja a régió ipari bázisának bővítése. Földrajz K8 — regionális iparfejlesztés."
-    },
+      hu: "A mekelle-i ipari park Tigray régió gazdasági központja, amely a textil- és ruházati ipar fejlesztésére helyezi a hangsúlyt. A park modern létesítményei kedvező feltételeket teremtenek a beruházóknak, miközben jelentős foglalkoztatási lehetőséget kínálnak a helyi lakosságnak. A projekt célja a régió ipari bázisának bővítése. Földrajz K8 — regionális iparfejlesztés.",
+image: "/poi-images/mekelle-industrial-park-economic-v2.webp"
+},
     factsAdvanced: {
       hu: ["Tigray régió gazdasági központja", "Textil- és ruházati ipar", "Modern ipari létesítmények", "Jelentős foglalkoztatási lehetőség", "Regionális ipari bázis bővítése", "Beruházások ösztönzése"]
     }
@@ -165,8 +170,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Industriepark Kombolcha",
       hu: "Kombolcha Ipari Park",
       ro: "Parcul Industrial Kombolcha",
-      en: "Kombolcha Industrial Park"
-    },
+      en: "Kombolcha Industrial Park",
+image: "/poi-images/kombolcha-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Gelegen in der Region Amhara, stärkt dieser Park die regionale Wirtschaft durch exportorientierte Textil- und Bekleidungsproduktion.",
       hu: "Az Amhara régióban található park exportorientált textil- és ruházati termeléssel erŰ'síti a regionális gazdaságot.",
@@ -188,8 +194,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Derba Midroc Zementfabrik",
       hu: "Derba Midroc Cement Gyár",
       ro: "Fabrica de Ciment Derba Midroc",
-      en: "Derba Midroc Cement Factory"
-    },
+      en: "Derba Midroc Cement Factory",
+image: "/poi-images/derba-midroc-cement-economic-v2.webp"
+},
     description: {
       de: "Eine der gröşten Zementfabriken in Äthiopien, die wesentlich zur boomenden Bauindustrie des Landes beiträgt.",
       hu: "Etiópia egyik legnagyobb cementgyára, amely jelentŰ'sen hozzájárul az ország fellendülŰ' építŰ'iparához.",
@@ -211,8 +218,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Mugher Zementwerk",
       hu: "Mugher Cement Művek",
       ro: "Uzina de Ciment Mugher",
-      en: "Mugher Cement Enterprise"
-    },
+      en: "Mugher Cement Enterprise",
+image: "/poi-images/mugher-cement-enterprise-economic-v2.webp"
+},
     description: {
       de: "Ein staatliches Unternehmen und einer der führenden Zementhersteller, der den inländischen Baustoffbedarf deckt.",
       hu: "Állami tulajdonú vállalat és vezetŰ' cementgyártó, amely a hazai építŰ'anyag-szükségletet elégíti ki.",
@@ -234,8 +242,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Goldmine Lega Dembi",
       hu: "Lega Dembi Aranybánya",
       ro: "Mina de Aur Lega Dembi",
-      en: "Lega Dembi Gold Mine"
-    },
+      en: "Lega Dembi Gold Mine",
+image: "/poi-images/lega-dembi-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Die gröşte produzierende Goldmine in Äthiopien, die im Guji-Gebiet betrieben wird.",
       hu: "A legnagyobb termelŰ' aranybánya Etiópiában, amely a Guji régióban működik.",
@@ -257,8 +266,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Tantalmine Kenticha",
       hu: "Kenticha Tantalum Bánya",
       ro: "Mina de Tantal Kenticha",
-      en: "Kenticha Tantalum Mine"
-    },
+      en: "Kenticha Tantalum Mine",
+image: "/poi-images/kenticha-tantalum-mine-economic-v2.webp"
+},
     description: {
       de: "Eines der wenigen groşen Abbaugebiete für Tantal in Afrika, ein wichtiges Mineral für die Elektronikindustrie.",
       hu: "Afrika kevés nagy tantál bányászati területének egyike, amely fontos ásványi anyag az elektronikai ipar számára.",
@@ -280,8 +290,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Industriepark Kilinto",
       hu: "Kilinto Ipari Park",
       ro: "Parcul Industrial Kilinto",
-      en: "Kilinto Industrial Park"
-    },
+      en: "Kilinto Industrial Park",
+image: "/poi-images/kilinto-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Ein Industriepark am Stadtrand von Addis Abeba, der speziell für die pharmazeutische Produktion entwickelt wurde.",
       hu: "Egy ipari park Addisz-Abeba szélén, amelyet kifejezetten a gyógyszergyártás számára fejlesztettek ki.",
@@ -303,8 +314,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Industriepark Dire Dawa",
       hu: "Dire Dawa Ipari Park",
       ro: "Parcul Industrial Dire Dawa",
-      en: "Dire Dawa Industrial Park"
-    },
+      en: "Dire Dawa Industrial Park",
+image: "/poi-images/dire-dawa-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Strategisch günstig nahe der dschibutischen Grenze gelegen, fördert dieser Park den Export von Textilien und Bekleidung.",
       hu: "A dzsibuti határ közelében, stratégiailag kedvezŰ' helyen található park a textilek és ruházati cikkek exportját segíti elŰ'.",
@@ -326,8 +338,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Trockenhafen Dire Dawa",
       hu: "Dire Dawa SzárazkikötŰ'",
       ro: "Portul Uscat Dire Dawa",
-      en: "Dire Dawa Dry Port"
-    },
+      en: "Dire Dawa Dry Port",
+image: "/poi-images/dire-dawa-dry-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Inlandsterminal für den Güterumschlag an der Eisenbahnstrecke Addis Abeba-Dschibuti.",
       hu: "Fontos belföldi terminál az árufuvarozás számára az Addisz-Abeba–Dzsibuti vasútvonalon.",
@@ -349,8 +362,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Industriepark Jimma",
       hu: "Jimma Ipari Park",
       ro: "Parcul Industrial Jimma",
-      en: "Jimma Industrial Park"
-    },
+      en: "Jimma Industrial Park",
+image: "/poi-images/jimma-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Fokussiert auf die Agroindustrie und die Verarbeitung landwirtschaftlicher Produkte aus dem fruchtbaren Südwesten des Landes.",
       hu: "Az agrárágazatra és az ország termékeny délnyugati részébŰ'l származó mezŰ'gazdasági termékek feldolgozására összpontosít.",
@@ -372,8 +386,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "BGI Ethiopia Brauerei",
       hu: "BGI Ethiopia Sörgyár",
       ro: "Berăria BGI Ethiopia",
-      en: "BGI Ethiopia Brewery"
-    },
+      en: "BGI Ethiopia Brewery",
+image: "/poi-images/bgi-ethiopia-addis-ababa-economic-v2.webp"
+},
     description: {
       de: "Eine der gröşten und ältesten Brauereien des Landes, bekannt für beliebte Marken wie St. George Beer.",
       hu: "Az ország egyik legnagyobb és legrégebbi sörgyára, amely a népszerű St. George sörrŰ'l ismert.",
@@ -395,8 +410,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Industriepark Debark",
       hu: "Debark Ipari Park",
       ro: "Parcul Industrial Debark",
-      en: "Debark Industrial Park"
-    },
+      en: "Debark Industrial Park",
+image: "/poi-images/debark-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Ein neu entwickelter Industriepark, der die landwirtschaftliche Wertschöpfungskette in der Region stärken soll.",
       hu: "Egy újonnan fejlesztett ipari park, amelynek célja a régió mezŰ'gazdasági értékláncának megerŰ'sítése.",
@@ -418,8 +434,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "National Cement Fabrik",
       hu: "National Cement Gyár",
       ro: "Fabrica de Ciment NaÈâۼional",
-      en: "National Cement Factory"
-    },
+      en: "National Cement Factory",
+image: "/poi-images/national-cement-share-company-economic-v2.webp"
+},
     description: {
       de: "Eines der ältesten Zementwerke Äthiopiens in Dire Dawa, das kontinuierlich modernisiert wurde.",
       hu: "Etiópia egyik legrégebbi cementgyára Dire Dawa-ban, amelyet folyamatosan korszerűsítettek.",
@@ -441,8 +458,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Wonji-Shoa Zuckerfabrik",
       hu: "Wonji-Shoa Cukorgyár",
       ro: "Fabrica de Zahăr Wonji-Shoa",
-      en: "Wonji-Shoa Sugar Factory"
-    },
+      en: "Wonji-Shoa Sugar Factory",
+image: "/poi-images/wonji-shoa-sugar-factory-economic-v2.webp"
+},
     description: {
       de: "Eine historische Zuckerfabrik, die den Grundstein für die äthiopische Zuckerindustrie legte.",
       hu: "Történelmi cukorgyár, amely letette az etióp cukoripar alapjait.",
@@ -464,8 +482,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Goldmine Tulu Kapi",
       hu: "Tulu Kapi Aranybánya",
       ro: "Mina de Aur Tulu Kapi",
-      en: "Tulu Kapi Gold Mine"
-    },
+      en: "Tulu Kapi Gold Mine",
+image: "/poi-images/tulu-kapi-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Ein groşes Goldbergbauprojekt in der Region Oromia, das signifikant zur Steigerung der Goldexporte beitragen soll.",
       hu: "Nagy aranybányászati projekt az Oromia régióban, amely jelentŰ'sen hozzájárul az aranyexport növeléséhez.",
@@ -487,8 +506,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Kality Metallprodukte-Fabrik",
       hu: "Kality Fémtermék Gyár",
       ro: "Fabrica de Produse Metalice Kality",
-      en: "Kality Metal Products Factory"
-    },
+      en: "Kality Metal Products Factory",
+image: "/poi-images/kality-metal-products-factory-economic-v2.webp"
+},
     description: {
       de: "Ein etabliertes Werk in Addis Abeba, das Baumaterialien und verschiedene Stahlprodukte für den lokalen Markt herstellt.",
       hu: "Egy jól bevált üzem Addisz-Abebában, amely építŰ'anyagokat és különféle acéltermékeket gyárt a helyi piac számára.",
@@ -511,8 +531,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Trockenhafen Kombolcha",
       hu: "Kombolcha SzárazkikötŰ'",
       ro: "Portul Uscat Kombolcha",
-      en: "Kombolcha Dry Port"
-    },
+      en: "Kombolcha Dry Port",
+image: "/poi-images/kombolcha-dry-port-economic-v2.webp"
+},
     description: {
       de: "Ein Logistikzentrum in der Amhara-Region, das Importeure und Exporteure im nördlichen Korridor bedient.",
       hu: "Logisztikai központ az Amhara régióban, amely az északi folyosón szolgálja ki az importŰ'röket és exportŰ'röket.",
@@ -534,8 +555,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Trockenhafen Semara",
       hu: "Semara SzárazkikötŰ'",
       ro: "Portul Uscat Semara",
-      en: "Semara Dry Port"
-    },
+      en: "Semara Dry Port",
+image: "/poi-images/semara-dry-port-economic-v2.webp"
+},
     description: {
       de: "Ein strategisch günstig gelegener Trockenhafen in der Afar-Region an der direkten Route zum Hafen von Dschibuti.",
       hu: "Stratégiailag kedvezŰ' elhelyezkedésű szárazkikötŰ' az Afar régióban, a Dzsibuti kikötŰ'jébe vezetŰ' közvetlen útvonalon.",
@@ -558,8 +580,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Östliche Industriezone Dukem",
       hu: "Dukem Keleti Iparzóna",
       ro: "Zona Industrială de Est Dukem",
-      en: "Dukem Eastern Industry Zone"
-    },
+      en: "Dukem Eastern Industry Zone",
+image: "/poi-images/dukem-eastern-industry-zone-economic-v2.webp"
+},
     description: {
       de: "Eines der ersten Industrieprojekte, das von chinesischen Investoren in Äthiopien entwickelt wurde, mit Fokus auf verschiedene Fertigungsbereiche.",
       hu: "Az egyik elsŰ' kínai befektetŰ'k által fejlesztett ipari projekt Etiópiában, amely a különbözŰ' gyártási ágazatokra összpontosít.",
@@ -581,8 +604,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Huajian Schuhfabrik",
       hu: "Huajian CipŰ'gyár",
       ro: "Fabrica de ÎncălÈâۼăminte Huajian",
-      en: "Huajian Shoe Factory"
-    },
+      en: "Huajian Shoe Factory",
+image: "/poi-images/huajian-shoe-factory-economic-v2.webp"
+},
     description: {
       de: "Eine groşe Fabrik eines chinesischen Herstellers, die Millionen von Schuhen für den Export nach Europa und Amerika produziert.",
       hu: "Egy kínai gyártó nagy gyára, amely több millió cipŰ't gyárt európai és amerikai exportra.",
@@ -604,8 +628,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Dangote Zementwerk Äthiopien",
       hu: "Dangote Cement Etiópia",
       ro: "Fabrica de Ciment Dangote Etiopia",
-      en: "Dangote Cement Ethiopia"
-    },
+      en: "Dangote Cement Ethiopia",
+image: "/poi-images/dangote-cement-ethiopia-economic-v2.webp"
+},
     description: {
       de: "Das gröşte Zementwerk in Äthiopien, betrieben von der Dangote-Gruppe, das die lokale Infrastruktur stark unterstützt.",
       hu: "Etiópia legnagyobb cementgyára, amelyet a Dangote-csoport üzemeltet, és amely erŰ'sen támogatja a helyi infrastruktúrát.",
@@ -627,8 +652,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Habesha Brauerei",
       hu: "Habesha Sörgyár",
       ro: "Berăria Habesha",
-      en: "Habesha Breweries"
-    },
+      en: "Habesha Breweries",
+image: "/poi-images/habesha-breweries-economic-v2.webp"
+},
     description: {
       de: "Eine hochmoderne Brauerei in Debre Birhan, die sich schnell einen groşen Marktanteil im Land gesichert hat.",
       hu: "Egy ultramodern sörgyár Debre Birhanban, amely gyorsan jelentŰ's piaci részesedést szerzett az országban.",
@@ -650,8 +676,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Metehera Zuckerfabrik",
       hu: "Metehera Cukorgyár",
       ro: "Fabrica de Zahăr Metehera",
-      en: "Metehera Sugar Factory"
-    },
+      en: "Metehera Sugar Factory",
+image: "/poi-images/metehera-sugar-factory-economic-v2.webp"
+},
     description: {
       de: "Eine riesige Zuckerrohrplantage und Fabrik im Awash-Tal, die eine zentrale Rolle in der Zuckerproduktion des Landes spielt.",
       hu: "Egy hatalmas cukornádültetvény és gyár az Awash-völgyben, amely központi szerepet játszik az ország cukortermelésében.",
@@ -673,8 +700,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Trockenhafen Mekelle",
       hu: "Mekelle SzárazkikötŰ'",
       ro: "Portul Uscat Mekelle",
-      en: "Mekelle Dry Port"
-    },
+      en: "Mekelle Dry Port",
+image: "/poi-images/mekelle-dry-port-economic-v2.webp"
+},
     description: {
       de: "Das wichtigste Logistikzentrum in der Tigray-Region, das die Industriezonen im Norden mit den internationalen Häfen verbindet.",
       hu: "A Tigré régió legfontosabb logisztikai központja, amely az északi ipari övezeteket köti össze a nemzetközi kikötŰ'kkel.",
@@ -696,8 +724,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Almeda Textilfabrik",
       hu: "Almeda Textilgyár",
       ro: "Fabrica de Textile Almeda",
-      en: "Almeda Textile Factory"
-    },
+      en: "Almeda Textile Factory",
+image: "/poi-images/almeda-textile-factory-economic-v2.webp"
+},
     description: {
       de: "Ein etablierter Textil- und Bekleidungshersteller im Norden Äthiopiens, der lokale Baumwolle verarbeitet.",
       hu: "Észak-Etiópia egyik bevált textil- és ruházati gyártója, amely helyi pamutot dolgoz fel.",
@@ -719,8 +748,9 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       de: "Adama Windpark",
       hu: "Adama SzélerŰ'mű",
       ro: "Parcul Eolian Adama",
-      en: "Adama Wind Farm"
-    },
+      en: "Adama Wind Farm",
+image: "/poi-images/adama-wind-farm-economic-v2.webp"
+},
     description: {
       de: "Ein groşer Windpark, der einen wesentlichen Beitrag zur Deckung des Energiebedarfs der wachsenden äthiopischen Industrie leistet.",
       hu: "Egy nagy szélerŰ'műpark, amely jelentŰ'sen hozzájárul a növekvŰ' etióp ipar energiaszükségletének fedezéséhez.",

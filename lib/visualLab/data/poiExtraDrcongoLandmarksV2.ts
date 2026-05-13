@@ -7,7 +7,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.313, -4.331],
-    name: {"de": "Stade des Martyrs", "hu": "Mártírok Stadionja", "ro": "Stadionul Martirilor", "en": "Stade des Martyrs"},
+    name: {"de": "Stade des Martyrs", "hu": "Mártírok Stadionja", "ro": "Stadionul Martirilor", "en": "Stade des Martyrs",
+image: "/poi-images/cd-stade-des-martyrs-landmarks-v2.webp"
+},
     description: {"de": "Das Nationalstadion der Demokratischen Republik Kongo in Kinshasa ist eines der größten Stadien Afrikas. Es dient als Heimspielstätte der Nationalmannschaft und für kulturelle Großveranstaltungen.", "hu": "Az ország legnagyobb stadionja Kinshasában, amely a nemzeti válogatott otthona és nagy rendezvények helyszíne.", "ro": "Stadionul național din Kinshasa, unul dintre cele mai mari din Africa, utilizat pentru sport și evenimente majore.", "en": "The Stade des Martyrs is the national stadium of the DR Congo in Kinshasa, used for major football matches and large-scale public events."},
     facts: {"de": ["Kapazität von ca. 80.000 Plätzen", "Eröffnet im Jahr 1994", "Früher bekannt als Kamanyola-Stadion", "Standort im Stadtteil Lingwala"], "hu": ["Befogadóképessége meghaladja a 80 000 főt", "Kínai segítséggel épült meg az 1990-es években", "Fontos helyszíne a politikai gyűléseknek és koncerteknek is"], "ro": ["Capacitate de 80.000 de locuri", "Construit cu ajutor chinez", "Casă pentru echipa națională 'Les Léopards'"], "en": ["Seating capacity of 80,000", "Home to the national football team", "Located in the Lingwala commune"]},
     descriptionAdvanced: {
@@ -28,7 +30,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.311, -4.33],
-    name: {"de": "Palais du Peuple", "hu": "Nép Palotája", "ro": "Palatul Poporului", "en": "Palais du Peuple"},
+    name: {"de": "Palais du Peuple", "hu": "Nép Palotája", "ro": "Palatul Poporului", "en": "Palais du Peuple",
+image: "/poi-images/cd-palais-du-peuple-landmarks-v2.webp"
+},
     description: {"de": "Der Volkspalast in Kinshasa ist der Sitz der Nationalversammlung und des Senats der Republik. Das monumentale Bauwerk wurde mit Unterstützung Chinas errichtet.", "hu": "A kongói parlament székhelye Kinshasában, a város egyik legimpozánsabb középülete.", "ro": "Sediul Parlamentului RDC în Kinshasa, o clădire monumentală simbolizând puterea legislativă.", "en": "The Palais du Peuple is the seat of the Parliament of the Democratic Republic of the Congo, located in Kinshasa."},
     facts: {"de": ["Bauzeit zwischen 1975 und 1979", "Sitz beider Parlamentskammern", "Ort für nationale Zeremonien", "Architektonisches Geschenk Chinas"], "hu": ["Itt ülésezik a Nemzetgyűlés és a Szenátus", "Hatalmas díszterme nemzetközi konferenciáknak ad otthont", "A kínai-kongói barátság egyik szimbolikus építménye"], "ro": ["Arhitectură monumentală chineză", "Loc de desfășurare a ceremoniilor de stat", "Situat în inima capitalei"], "en": ["Constructed between 1975 and 1979", "Gift from the People's Republic of China", "Center of national legislative power"]},
     descriptionAdvanced: {
@@ -49,7 +53,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.34, -4.381],
-    name: {"de": "Échangeur de Limete", "hu": "Limete-torony", "ro": "Turnul Limete", "en": "Limete Tower"},
+    name: {"de": "Échangeur de Limete", "hu": "Limete-torony", "ro": "Turnul Limete", "en": "Limete Tower",
+image: "/poi-images/cd-echangeur-de-limete-landmarks-v2.webp"
+},
     description: {"de": "Der Turm des Autobahnkreuzes von Limete ist ein weithin sichtbares Wahrzeichen von Kinshasa. Er wurde als Denkmal für die Unabhängigkeit und die nationale Einheit konzipiert.", "hu": "Kinshasa egyik legismertebb jelképe, egy monumentális betonépítmény és kilátótorony.", "ro": "Un turn monumental și nod rutier iconic în Kinshasa, considerat un simbol al modernismului congolez.", "en": "The Echangeur de Limete is a iconic tower and monument in Kinshasa, intended to be a symbol of the nation's modernization."},
     facts: {"de": ["Höhe von etwa 210 Metern", "Bau unter Präsident Mobutu begonnen", "Wahrzeichen im Stadtteil Limete", "Symbol der kongolesischen Moderne"], "hu": ["A torony magassága eléri a 210 métert", "Mobutu elnök idején kezdték el építeni nemzeti emlékműként", "A Limete kerületben, fontos közlekedési csomópontban található"], "ro": ["Înălțime de peste 200 de metri", "Muzeu de artă la bază", "Cunoscut și sub numele de Turnul Limete"], "en": ["210-meter tall tower", "Includes a museum of contemporary art", "Symbol of the Mobutu era"]},
     descriptionAdvanced: {
@@ -70,7 +76,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.314, -4.334],
-    name: {"de": "Nationalmuseum der DR Kongo", "hu": "KDK Nemzeti Múzeuma", "ro": "Muzeul Național al RDC", "en": "National Museum of DRC"},
+    name: {"de": "Nationalmuseum der DR Kongo", "hu": "KDK Nemzeti Múzeuma", "ro": "Muzeul Național al RDC", "en": "National Museum of DRC",
+image: "/poi-images/cd-musee-national-rdc-landmarks-v2.webp"
+},
     description: {"de": "Das Nationalmuseum der Demokratischen Republik Kongo in Kinshasa beherbergt eine umfangreiche Sammlung ethnografischer und kunsthistorischer Schätze des Landes.", "hu": "A Kongói Demokratikus Köztársaság Nemzeti Múzeuma, amely az ország gazdag kulturális örökségét mutatja be.", "ro": "Muzeul Național al Republicii Democrate Congo, care adăpostește o colecție vastă de artă și istorie culturală.", "en": "The Musée National de la République Démocratique du Congo in Kinshasa houses a vast collection of the country's cultural and historical artifacts."},
     facts: {"de": ["Neubau im Jahr 2019 eröffnet", "Finanzierung durch Südkorea", "Über 45.000 Objekte im Bestand", "Drei große Ausstellungssäle"], "hu": ["Modern épülete 2019-ben nyílt meg Kinshasában", "Több ezer néprajzi és művészeti tárgyat őriznek itt", "Kiemelt szerepet játszik a kongói identitás megőrzésében"], "ro": ["Peste 40.000 de artefacte", "Inaugurat în 2019", "Centru de conservare a patrimoniului"], "en": ["Opened in 2019", "Modern architecture with local motifs", "Preserves over 45,000 objects"]},
     descriptionAdvanced: {
@@ -91,7 +99,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.295, -4.317],
-    name: {"de": "Cathédrale Notre-Dame du Congo", "hu": "Notre-Dame du Congo Katedrális", "ro": "Catedrala Notre-Dame du Congo", "en": "Cathédrale Notre-Dame du Congo"},
+    name: {"de": "Cathédrale Notre-Dame du Congo", "hu": "Notre-Dame du Congo Katedrális", "ro": "Catedrala Notre-Dame du Congo", "en": "Cathédrale Notre-Dame du Congo",
+image: "/poi-images/cd-cathedrale-nd-congo-landmarks-v2.webp"
+},
     description: {"de": "Die Kathedrale Notre-Dame du Congo ist das wichtigste katholische Gotteshaus in Kinshasa. Sie beeindruckt durch ihre moderne Architektur und ihre Bedeutung als religiöses Zentrum.", "hu": "Kinshasa római katolikus katedrálisa, a kongói katolikus egyház szellemi központja.", "ro": "Catedrala Notre-Dame du Congo din Kinshasa, un edificiu religios impunător cu o arhitectură distinctivă.", "en": "The Cathédrale Notre-Dame du Congo is the principal Roman Catholic cathedral in Kinshasa and the seat of the local Archbishop."},
     facts: {"de": ["Baujahr 1947 während der Kolonialzeit", "Sitz des Erzbistums Kinshasa", "Zentraler Ort für Staatsbegräbnisse", "Markante Backsteinfassade"], "hu": ["A gyarmati időszakban épült jellegzetes stílusban", "Hatalmas belső tere több ezer hívő befogadására alkalmas", "Fontos egyházi és állami ünnepségek helyszíne"], "ro": ["Cea mai mare catedrală din capitală", "Centru spiritual catolic major", "Design modernist din anii '40"], "en": ["Located in the Gombe district", "Brick Gothic architectural style", "Major center for religious life"]},
     descriptionAdvanced: {
@@ -112,7 +122,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.305, -4.305],
-    name: {"de": "Mausoleum von Laurent-Désiré Kabila", "hu": "Laurent-Désiré Kabila Mauzóleuma", "ro": "Mausoleul lui Laurent-Désiré Kabila", "en": "Mausoleum of Laurent-Désiré Kabila"},
+    name: {"de": "Mausoleum von Laurent-Désiré Kabila", "hu": "Laurent-Désiré Kabila Mauzóleuma", "ro": "Mausoleul lui Laurent-Désiré Kabila", "en": "Mausoleum of Laurent-Désiré Kabila",
+image: "/poi-images/cd-mausolee-kabila-landmarks-v2.webp"
+},
     description: {"de": "Das Mausoleum von Laurent-Désiré Kabila befindet sich vor dem Palais de la Nation in Kinshasa. Es ist die Ruhestätte des ehemaligen Präsidenten, der 2001 ermordet wurde.", "hu": "Laurent-Désiré Kabila egykori elnök nyughelye és emlékműve Kinshasa szívében.", "ro": "Mausoleul dedicat fostului președinte Laurent-Désiré Kabila, situat în fața Palatului Națiunii.", "en": "The Mausolee Kabila is the final resting place of former President Laurent-Désiré Kabila, located in the heart of Kinshasa."},
     facts: {"de": ["Errichtet im Jahr 2002", "Bewacht von Ehrenposten", "Zentraler Gedenkort in der Hauptstadt", "Nähe zum Kongo-Fluss"], "hu": ["A nép palotája közelében, szigorúan őrzött helyen található", "Az elnök 2001-es halálát követően emelték", "Fontos kegyeleti hely a kongóiak számára"], "ro": ["Monument dedicat 'Eroului Național'", "Gărzile de onoare prezente permanent", "Loc de pelerinaj politic"], "en": ["Monumental tomb and statue", "Guarded by elite soldiers", "Significant site for national memory"]},
     descriptionAdvanced: {
@@ -133,7 +145,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.294, -4.318],
-    name: {"de": "Académie des Beaux-Arts", "hu": "Szépművészeti Akadémia", "ro": "Academia de Arte Frumoase", "en": "Academy of Fine Arts"},
+    name: {"de": "Académie des Beaux-Arts", "hu": "Szépművészeti Akadémia", "ro": "Academia de Arte Frumoase", "en": "Academy of Fine Arts",
+image: "/poi-images/cd-academie-beaux-arts-landmarks-v2.webp"
+},
     description: {"de": "Die Akademie der Schönen Künste in Kinshasa ist die führende Bildungseinrichtung für Kunst und Design in Zentralafrika. Sie umfasst auch einen weitläufigen Park mit Skulpturen.", "hu": "Kinshasa híres művészeti akadémiája, amely iskola és galéria is egyben.", "ro": "Academia de Arte Frumoase din Kinshasa, cea mai prestigioasă instituție de învățământ artistic din țară.", "en": "The Académie des Beaux-Arts in Kinshasa is the country's premier institution for training in the visual and plastic arts."},
     facts: {"de": ["Gegründet im Jahr 1943", "Ausbildungsstätte für Bildhauer und Maler", "Öffentlicher Skulpturengarten", "Kulturzentrum im Herzen von Gombe"], "hu": ["A kortárs kongói képzőművészet egyik legfontosabb bölcsője", "Parkosított udvarán számos szobor és installáció látható", "Rendszeresen ad otthont művészeti kiállításoknak"], "ro": ["Fondată în 1943", "Campus cu sculpturi în aer liber", "Izvor de talente artistice africane"], "en": ["Founded in 1943", "Lush campus with many sculptures", "Key institution for Congolese art"]},
     descriptionAdvanced: {
@@ -154,7 +168,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.308, -4.306],
-    name: {"de": "Gare Centrale de Kinshasa", "hu": "Kinshasa Központi Pályaudvar", "ro": "Gara Centrală din Kinshasa", "en": "Kinshasa Central Station"},
+    name: {"de": "Gare Centrale de Kinshasa", "hu": "Kinshasa Központi Pályaudvar", "ro": "Gara Centrală din Kinshasa", "en": "Kinshasa Central Station",
+image: "/poi-images/cd-gare-centrale-kinshasa-landmarks-v2.webp"
+},
     description: {"de": "Der Hauptbahnhof von Kinshasa ist ein historisches Gebäude am Ende des Boulevard du 30 Juin. Er ist der Endpunkt der lebenswichtigen Bahnstrecke Matadi–Kinshasa.", "hu": "Kinshasa központi vasútállomása, a város egyik fontos közlekedési és építészeti emléke.", "ro": "Gara Centrală din Kinshasa, un reper istoric al sistemului feroviar ce leagă capitala de portul Matadi.", "en": "The Gare Centrale is the main railway station in Kinshasa, serving as the terminus for the line connecting the capital to Matadi."},
     facts: {"de": ["Eröffnet im frühen 20. Jahrhundert", "Verbindung zum Hafen von Matadi", "Kolonialzeitlicher Baustil", "Knotenpunkt des Stadtzentrums"], "hu": ["A Matadi-Kinshasa vasútvonal végállomása", "A gyarmati stílusú épület a városközpontban található", "A kongói vasúti közlekedés történelmi szimbóluma"], "ro": ["Clădire din perioada colonială", "Punct de plecare pentru trenurile spre coastă", "Arhitectură feroviară clasică"], "en": ["Colonial-era architectural design", "Hub for regional transport", "Located in the Gombe business district"]},
     descriptionAdvanced: {
@@ -175,7 +191,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.327, -4.336],
-    name: {"de": "Unabhängigkeitsdenkmal Kinshasa", "hu": "Függetlenségi Emlékmű", "ro": "Monumentul Independenței", "en": "Independence Monument Kinshasa"},
+    name: {"de": "Unabhängigkeitsdenkmal Kinshasa", "hu": "Függetlenségi Emlékmű", "ro": "Monumentul Independenței", "en": "Independence Monument Kinshasa",
+image: "/poi-images/cd-monument-independance-landmarks-v2.webp"
+},
     description: {"de": "Das Unabhängigkeitsdenkmal in Kinshasa erinnert an die Befreiung des Landes von der belgischen Kolonialherrschaft im Jahr 1960. Es stellt eine wichtige nationale Gedenkstätte dar.", "hu": "Az ország függetlenségének tiszteletére emelt emlékmű Kinshasában.", "ro": "Monument situat în Kinshasa, comemorând eliberarea țării de sub dominația colonială belgiană în 1960.", "en": "The Monument de l'Indépendance in Kinshasa celebrates the country's freedom from Belgian colonial rule in 1960."},
     facts: {"de": ["Symbol der Souveränität", "Zentral gelegen in der Hauptstadt", "Ort offizieller Gedenkfeiern", "Erinnert an den 30. Juni 1960"], "hu": ["A gyarmati sorból való felszabadulást szimbolizálja", "Gyakori helyszíne az állami ünnepségeknek június 30-án", "Központi elhelyezkedése miatt a város egyik tájékozódási pontja"], "ro": ["Simbol al suveranității naționale", "Loc pentru festivitățile de 30 iunie", "Reprezentare artistică a libertății"], "en": ["Located near the Gare Centrale", "Symbol of national sovereignty", "Site of commemorative ceremonies"]},
     descriptionAdvanced: {
@@ -195,7 +213,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.323, -4.339],
-    name: {"de": "Stade Tata Raphaël", "hu": "Tata Raphaël Stadion", "ro": "Stadionul Tata Raphaël", "en": "Stade Tata Raphaël"},
+    name: {"de": "Stade Tata Raphaël", "hu": "Tata Raphaël Stadion", "ro": "Stadionul Tata Raphaël", "en": "Stade Tata Raphaël",
+image: "/poi-images/cd-stade-tata-raphael-landmarks-v2.webp"
+},
     description: {"de": "Das Tata-Raphaël-Stadion erlangte Weltruhm als Austragungsort des Boxkampfes 'Rumble in the Jungle' zwischen Muhammad Ali und George Foreman im Jahr 1974.", "hu": "Történelmi sportlétesítmény Kinshasában, amely a legendás bokszmérkőzésekről híres.", "ro": "Stadion istoric din Kinshasa, faimos pentru găzduirea legendarului meci de box 'Rumble in the Jungle'.", "en": "The Stade Tata Raphaël is a historic stadium in Kinshasa, famous for hosting the 'Rumble in the Jungle' boxing match."},
     facts: {"de": ["Erbaut im Jahr 1952", "Ehemals Stade du 20 Mai", "Ort historischer Sportmomente", "Heimat lokaler Fußballvereine"], "hu": ["Itt zajlott 1974-ben a híres Rumble in the Jungle mérkőzés Ali és Foreman között", "Eredetileg Stade Roi Baudouin néven nyílt meg", "Ma is fontos helyszíne labdarúgó-mérkőzéseknek"], "ro": ["Locul meciului Ali vs. Foreman", "Inaugurat în 1952", "Fostul stadion Roi Baudouin"], "en": ["Site of Ali vs. Foreman match", "Renamed after a Belgian missionary", "Host to major sports and religious events"]},
     descriptionAdvanced: {
@@ -216,7 +236,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.303, -4.314],
-    name: {"de": "Église Sainte-Anne de Kinshasa", "hu": "Sainte-Anne Templom", "ro": "Biserica Sainte-Anne", "en": "Église Sainte-Anne"},
+    name: {"de": "Église Sainte-Anne de Kinshasa", "hu": "Sainte-Anne Templom", "ro": "Biserica Sainte-Anne", "en": "Église Sainte-Anne",
+image: "/poi-images/cd-eglise-sainte-anne-kinshasa-landmarks-v2.webp"
+},
     description: {"de": "Die Kirche Sainte-Anne in Kinshasa ist eines der ältesten erhaltenen religiösen Gebäude der Stadt. Sie ist für ihre neugotischen Stilelemente und ihre ruhige Atmosphäre bekannt.", "hu": "Az egyik legrégebbi katolikus templom Kinshasa Gombe negyedében.", "ro": "Biserica Sfânta Ana, una dintre cele mai vechi parohii catolice din Kinshasa, cu o arhitectură gotică simplă.", "en": "The Eglise Sainte-Anne is a historic Catholic church in Kinshasa, known for its distinct architectural style and long service to the community."},
     facts: {"de": ["Fertiggestellt im Jahr 1914", "Älteste Steinkirche der Stadt", "Gelegen im Stadtteil Gombe", "Historisches Erbe der Kolonialzeit"], "hu": ["A gótikus elemeket tartalmazó épület 1913-ban épült", "Csendes sziget a nyüzsgő nagyváros szívében", "Műemléki védettséget élvező vallási épület"], "ro": ["Situată în comuna Gombe", "Centru religios istoric", "Arhitectură de inspirație europeană"], "en": ["One of the oldest churches in Kinshasa", "Located in the Gombe commune", "Famous for its vibrant choir"]},
     descriptionAdvanced: {
@@ -237,7 +259,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-BC",
     coords: [13.436, -5.823],
-    name: {"de": "Pont Maréchal", "hu": "Maréchal Híd", "ro": "Podul Maréchal", "en": "Pont Maréchal"},
+    name: {"de": "Pont Maréchal", "hu": "Maréchal Híd", "ro": "Podul Maréchal", "en": "Pont Maréchal",
+image: "/poi-images/cd-pont-marechal-landmarks-v2.webp"
+},
     description: {"de": "Die Maréchal-Brücke bei Matadi ist die einzige feste Überquerung des Unterlaufs des Kongo-Flusses. Die Hängebrücke verbindet Matadi mit Boma und der Küste.", "hu": "Hatalmas függőhíd a Kongó-folyó felett Matadinál, az ország egyik legfontosabb mérnöki létesítménye.", "ro": "Podul Mareșal Mobutu din Matadi, singurul pod peste cursul inferior al fluviului Congo.", "en": "The Pont Maréchal is a suspension bridge over the Congo River at Matadi, providing a vital link for road and rail transport."},
     facts: {"de": ["Länge von ca. 722 Metern", "Bauzeit von 1979 bis 1983", "Unterstützt durch japanische Technik", "Wichtige Verkehrsader zum Atlantik"], "hu": ["Japán segítséggel épült és 1983-ban adták át", "Ez az egyetlen híd, amely a folyó alsó szakaszán összeköti a két partot", "Hossza meghaladja a 700 métert"], "ro": ["Pod suspendat impresionant", "Finalizat de japonezi în 1983", "Lungime de peste 700 de metri"], "en": ["Only bridge across the lower Congo River", "Opened in 1983", "Built with Japanese cooperation"]},
     descriptionAdvanced: {
@@ -258,7 +282,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-BC",
     coords: [13.054, -5.842],
-    name: {"de": "Baobab de Stanley", "hu": "Stanley Baobabfája", "ro": "Baobabul lui Stanley", "en": "Stanley's Baobab"},
+    name: {"de": "Baobab de Stanley", "hu": "Stanley Baobabfája", "ro": "Baobabul lui Stanley", "en": "Stanley's Baobab",
+image: "/poi-images/cd-baobab-de-stanley-landmarks-v2.webp"
+},
     description: {"de": "Der Baobab von Stanley in Boma ist ein jahrhundertealter Affenbrotbaum, in dessen hohlem Stamm der Forscher Henry Morton Stanley einst übernachtet haben soll.", "hu": "Egy hatalmas, több száz éves baobab fa Boma városában, amelyhez történelmi legendák fűződnek.", "ro": "Un baobab legendar în Boma, unde exploratorul Henry Morton Stanley și-ar fi gravat numele.", "en": "The Baobab de Stanley in Boma is a historic giant tree where the explorer Henry Morton Stanley reportedly camped."},
     facts: {"de": ["Historisches Naturdenkmal", "Umfang von über 15 Metern", "Standort in der Nähe des Hafens", "Beliebtes Ziel für Reisende"], "hu": ["Nevét Henry Morton Stanley felfedezőről kapta, aki állítólag megpihent alatta", "A fa törzsébe egykor börtöncellát is vájtak", "Az ország egyik legkülönlegesebb természeti és történelmi emléke"], "ro": ["Arbore multisecular", "Monument istoric național", "Atracție turistică în Boma"], "en": ["Over 1,000 years old", "Historic hollow trunk used as a post office", "Located in the former colonial capital"]},
     descriptionAdvanced: {
@@ -278,7 +304,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-BC",
     coords: [13.051, -5.845],
-    name: {"de": "Cathédrale Notre-Dame de l'Assomption de Boma", "hu": "Boma Katedrálisa", "ro": "Catedrala din Boma", "en": "Boma Cathedral"},
+    name: {"de": "Cathédrale Notre-Dame de l'Assomption de Boma", "hu": "Boma Katedrálisa", "ro": "Catedrala din Boma", "en": "Boma Cathedral",
+image: "/poi-images/cd-cathedrale-assomption-boma-landmarks-v2.webp"
+},
     description: {"de": "Die Kathedrale Mariä Himmelfahrt in Boma ist die älteste Kathedrale des Landes. Sie zeugt von der frühen christlichen Missionierung im Mündungsgebiet des Kongo.", "hu": "A Mennybemenetel-székesegyház Boma városában, az ország egyik legrégebbi keresztény temploma.", "ro": "Catedrala Adormirea Maicii Domnului din Boma, prima catedrală construită integral din fier în țară.", "en": "The Cathédrale Notre-Dame de l'Assomption in Boma is one of the oldest and most historic Catholic churches in the country."},
     facts: {"de": ["Errichtet im späten 19. Jahrhundert", "Ehemalige Hauptstadt des Freistaats", "Backsteinbau im Kolonialstil", "Religiöses Zentrum der Diözese"], "hu": ["Acélszerkezetes épület, amelyet Európából szállítottak ide darabokban", "A 19. század végén szentelték fel", "Boma gyarmati fővárosi múltjának egyik fontos tanúja"], "ro": ["Structură metalică unică", "Importată din Belgia în 1888", "Simbol al începuturilor catolicismului"], "en": ["Built in the late 19th century", "Historic colonial brick architecture", "Spiritual center of the lower Congo"]},
     descriptionAdvanced: {
@@ -299,7 +327,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-NK",
     coords: [29.231, -1.68],
-    name: {"de": "Chukudu Monument", "hu": "Chukudu Emlékmű", "ro": "Monumentul Chukudu", "en": "Chukudu Monument"},
+    name: {"de": "Chukudu Monument", "hu": "Chukudu Emlékmű", "ro": "Monumentul Chukudu", "en": "Chukudu Monument",
+image: "/poi-images/cd-chukudu-monument-landmarks-v2.webp"
+},
     description: {"de": "Das Chukudu-Denkmal in Goma ehrt das traditionelle hölzerne Lastenfahrrad, das für den Transport von Waren in der hügeligen Region Nord-Kivu unverzichtbar ist.", "hu": "Goma városának jellegzetes emlékműve, amely a helyi fából készült rollert ábrázolja.", "ro": "Monument situat în Goma, dedicat 'chukudu', scuterul de lemn artizanal, simbol al rezilienței locale.", "en": "The Chukudu Monument in Goma honors the unique local wooden scooters used to transport goods through the city's rugged terrain."},
     facts: {"de": ["Symbol für Fleiß und Erfindungsreichtum", "Einzigartig in der Region Goma", "In der Stadtmitte errichtet", "Würdigung des lokalen Handwerks"], "hu": ["A chukudu a helyi teherhordás és leleményesség szimbóluma", "A monumentális szobor a város egyik fő kereszteződésében áll", "Az egyetlen emlékmű a világon, amely egy rollert örökít meg"], "ro": ["Simbol cultural al regiunii Kivu", "Omagiu adus muncii asidue", "Punct de reper iconic în oraș"], "en": ["Statue of a wooden scooter", "Symbol of local ingenuity and work", "Located at a major traffic junction"]},
     descriptionAdvanced: {
@@ -320,7 +350,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-NK",
     coords: [29.228, -1.685],
-    name: {"de": "Cathédrale Saint-Joseph de Goma", "hu": "Szent József Katedrális (Goma)", "ro": "Catedrala Sfântul Iosif din Goma", "en": "St. Joseph Cathedral Goma"},
+    name: {"de": "Cathédrale Saint-Joseph de Goma", "hu": "Szent József Katedrális (Goma)", "ro": "Catedrala Sfântul Iosif din Goma", "en": "St. Joseph Cathedral Goma",
+image: "/poi-images/cd-cathedrale-saint-joseph-goma-landmarks-v2.webp"
+},
     description: {"de": "Die St.-Josephs-Kathedrale in Goma ist der spirituelle Mittelpunkt der katholischen Gemeinde am Kivusee. Sie wurde nach den Zerstörungen durch Vulkanausbrüche mehrfach renoviert.", "hu": "Goma városának központi katolikus székesegyháza, amely a hívők közösségi életének pillére.", "ro": "Catedrala Sfântul Iosif din Goma, centrul spiritual al regiunii, situată în apropierea lacului Kivu.", "en": "The Cathédrale Saint-Joseph in Goma is the city's primary Catholic church, serving as a beacon of hope and faith for the community."},
     facts: {"de": ["Sitz des Bischofs von Goma", "Lage nahe dem Ufer des Kivusees", "Zentrum für humanitäre Arbeit", "Markantes modernes Kirchendach"], "hu": ["A Kivu-tó partjához közel helyezkedik el", "Modern építészeti stílus jellemzi a belső terét", "Számos szociális és segélyprogram központja a régióban"], "ro": ["Arhitectură modernă", "Supraviețuitoare a erupțiilor vulcanice", "Loc de adunare comunitară"], "en": ["Located near the northern shore of Lake Kivu", "Resilient structure despite volcanic activity", "Spiritual heart of North Kivu"]},
     descriptionAdvanced: {
@@ -341,7 +373,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-HK",
     coords: [27.478, -11.667],
-    name: {"de": "Cathédrale Saints-Pierre-et-Paul de Lubumbashi", "hu": "Szent Péter és Pál Katedrális (Lubumbashi)", "ro": "Catedrala Sfinții Petru și Pavel", "en": "Saints Peter and Paul Cathedral"},
+    name: {"de": "Cathédrale Saints-Pierre-et-Paul de Lubumbashi", "hu": "Szent Péter és Pál Katedrális (Lubumbashi)", "ro": "Catedrala Sfinții Petru și Pavel", "en": "Saints Peter and Paul Cathedral",
+image: "/poi-images/cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2.webp"
+},
     description: {"de": "Die Kathedrale St. Peter und Paul in Lubumbashi ist ein imposantes Gebäude im Herzen der Bergbaustadt. Sie ist bekannt für ihre Doppeltürme und ihre historische Bedeutung.", "hu": "Szent Péter és Pál székesegyház Lubumbashiban, a város egyik legszebb gyarmati épülete.", "ro": "Catedrala Sfinții Petru și Pavel din Lubumbashi, un edificiu impunător în inima capitalei miniere.", "en": "The Cathédrale Saints-Pierre-et-Paul in Lubumbashi is a grand Romanesque-style cathedral and a landmark of the mining capital."},
     facts: {"de": ["Baujahr um 1920", "Architektur im romanisch-byzantinischen Stil", "Zentraler Platz in Lubumbashi", "Religiöses Zentrum der Region Katanga"], "hu": ["A 20. század elején épült téglaépítmény", "Híres a belső díszítéséről és a nyugodt hangulatáról", "A bányászváros katolikus érsekségének székhelye"], "ro": ["Stil arhitectural eclectic", "Finalizată în 1928", "Cunoscută pentru vitraliile sale"], "en": ["Completed in the 1920s", "Distinctive brickwork architecture", "Seat of the Archbishop of Lubumbashi"]},
     descriptionAdvanced: {
@@ -362,7 +396,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-HK",
     coords: [27.485, -11.669],
-    name: {"de": "Musée National de Lubumbashi", "hu": "Lubumbashi Nemzeti Múzeum", "ro": "Muzeul Național din Lubumbashi", "en": "National Museum of Lubumbashi"},
+    name: {"de": "Musée National de Lubumbashi", "hu": "Lubumbashi Nemzeti Múzeum", "ro": "Muzeul Național din Lubumbashi", "en": "National Museum of Lubumbashi",
+image: "/poi-images/cd-musee-national-lubumbashi-landmarks-v2.webp"
+},
     description: {"de": "Das Nationalmuseum von Lubumbashi präsentiert eine bedeutende Sammlung zur Kultur und Archäologie der Katanga-Region, einschließlich traditioneller Masken und Bergbaugeschichte.", "hu": "Lubumbashi nemzeti múzeuma, amely a délkeleti régió néprajzi és régészeti kincseit őrzi.", "ro": "Muzeul Național din Lubumbashi, specializat în arheologia și etnografia regiunii Katanga.", "en": "The Musée National de Lubumbashi displays a rich collection of archaeological, ethnographic, and artistic works from the Katanga region."},
     facts: {"de": ["Gegründet in den 1940er Jahren", "Umfangreiche archäologische Funde", "Fokus auf das Kulturerbe des Südens", "Wichtiger Bildungsstandort"], "hu": ["Gazdag gyűjteménnyel rendelkezik a Luba és Lunda kultúrákból", "Bemutatja a régió bányászatának történetét is", "Fontos kulturális megállóhely a városba látogatók számára"], "ro": ["Colecții bogate de artă Luba", "Expoziții despre istoria minieră", "Centru de cercetare culturală"], "en": ["Specializes in Luba art", "Preserves Katanga's mining history", "Located in the heart of the city"]},
     descriptionAdvanced: {
@@ -383,7 +419,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-HK",
     coords: [27.486, -11.698],
-    name: {"de": "Stade TP Mazembe", "hu": "TP Mazembe Stadion", "ro": "Stadionul TP Mazembe", "en": "Stade TP Mazembe"},
+    name: {"de": "Stade TP Mazembe", "hu": "TP Mazembe Stadion", "ro": "Stadionul TP Mazembe", "en": "Stade TP Mazembe",
+image: "/poi-images/cd-stade-tp-mazembe-landmarks-v2.webp"
+},
     description: {"de": "Das Stade TP Mazembe ist das vereinseigene Stadion des erfolgreichsten Fußballclubs des Landes in Lubumbashi. Es gilt als eines der modernsten Stadien der Region.", "hu": "A TP Mazembe labdarúgóklub saját stadionja Lubumbashiban, az ország egyik legmodernebb sportpályája.", "ro": "Stadionul clubului de fotbal TP Mazembe, unul dintre cele mai moderne stadioane private din Africa.", "en": "The Stade TP Mazembe is the private stadium of the famous Tout Puissant Mazembe football club in Lubumbashi."},
     facts: {"de": ["Besitz von Tout Puissant Mazembe", "Kunstrasenplatz nach FIFA-Standard", "Kapazität von ca. 18.000 Zuschauern", "Eröffnet im Jahr 2011"], "hu": ["Az ország első magántulajdonban lévő professzionális stadionja", "Beceneve a „Sárkányok barlangja”", "Megfelel a legmagasabb nemzetközi előírásoknak"], "ro": ["Sediul unui club multiplu campion", "Gazon sintetic de înaltă calitate", "Atmosferă electrică la meciuri"], "en": ["First private stadium in the country", "Home to one of Africa's top clubs", "Modern facility with artificial turf"]},
     descriptionAdvanced: {
@@ -404,7 +442,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-HK",
     coords: [27.477, -11.67],
-    name: {"de": "Palais de Justice de Lubumbashi", "hu": "Igazságügyi Palota (Lubumbashi)", "ro": "Palatul de Justiție din Lubumbashi", "en": "Palais de Justice Lubumbashi"},
+    name: {"de": "Palais de Justice de Lubumbashi", "hu": "Igazságügyi Palota (Lubumbashi)", "ro": "Palatul de Justiție din Lubumbashi", "en": "Palais de Justice Lubumbashi",
+image: "/poi-images/cd-palais-de-justice-lubumbashi-landmarks-v2.webp"
+},
     description: {"de": "Der Justizpalast in Lubumbashi ist ein repräsentatives Gebäude, das die juristische Autorität in der mineralienreichen Provinz Ober-Katanga verkörpert.", "hu": "Az Igazságügyi Palota Lubumbashiban, az állami tekintélyt jelképező neoklasszicista épület.", "ro": "Palatul de Justiție din Lubumbashi, o clădire administrativă elegantă reprezentând autoritatea legală.", "en": "The Palais de Justice in Lubumbashi is a notable colonial-era building that houses the high courts of the region."},
     facts: {"de": ["Sitz des Berufungsgerichts", "Kolonialzeitliche Architektur", "Zentrale Lage im Stadtkern", "Symbol der Rechtsstaatlichkeit"], "hu": ["A város közigazgatási negyedének központjában áll", "A belga építészeti hatások egyértelmű nyomait viseli", "Itt székelnek a tartomány legfontosabb bíróságai"], "ro": ["Clădire neoclasică colonială", "Situată în centrul civic", "Reper arhitectural în oraș"], "en": ["Grand neoclassical architecture", "Located on a prominent square", "Symbol of the regional judicial system"]},
     descriptionAdvanced: {
@@ -425,7 +465,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-SK",
     coords: [28.858, -2.502],
-    name: {"de": "Cathédrale Notre-Dame-de-la-Paix de Bukavu", "hu": "Notre-Dame-de-la-Paix Katedrális", "ro": "Catedrala Notre-Dame-de-la-Paix", "en": "Our Lady of Peace Cathedral"},
+    name: {"de": "Cathédrale Notre-Dame-de-la-Paix de Bukavu", "hu": "Notre-Dame-de-la-Paix Katedrális", "ro": "Catedrala Notre-Dame-de-la-Paix", "en": "Our Lady of Peace Cathedral",
+image: "/poi-images/cd-cathedrale-paix-bukavu-landmarks-v2.webp"
+},
     description: {"de": "Die Kathedrale Unserer Lieben Frau vom Frieden in Bukavu ist eine der größten Kirchen Ostkongos. Sie thront auf einem Hügel mit Blick auf den Kivusee.", "hu": "A Béke Miasszonyunk székesegyház Bukavuban, a Kivu-tó partjának jellegzetes építménye.", "ro": "Catedrala Maica Păcii din Bukavu, situată pe o colină cu vedere spre lacul Kivu.", "en": "The Cathédrale Notre-Dame de la Paix in Bukavu is a beautiful Catholic cathedral with stunning views over Lake Kivu."},
     facts: {"de": ["Bauzeit in den 1950er Jahren", "Helle, weite Innenarchitektur", "Wahrzeichen von Bukavu", "Ort für Friedensgebete in der Region"], "hu": ["Domboldalra épült, ahonnan remek kilátás nyílik a tóra", "A modern afrikai templomépítészet egyik példája", "Fontos közösségi helyszín a nehéz időkben is"], "ro": ["Arhitectură cu linii verticale", "Centru de pelerinaj regional", "Simbol al speranței și păcii"], "en": ["Known for its unique white architecture", "Located on the hill overlooking the lake", "Center for peace and social works"]},
     descriptionAdvanced: {
@@ -446,7 +488,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-SK",
     coords: [28.86, -2.509],
-    name: {"de": "Collège Alfajiri", "hu": "Alfajiri Kollégium", "ro": "Colegiul Alfajiri", "en": "Collège Alfajiri"},
+    name: {"de": "Collège Alfajiri", "hu": "Alfajiri Kollégium", "ro": "Colegiul Alfajiri", "en": "Collège Alfajiri",
+image: "/poi-images/cd-college-alfajiri-landmarks-v2.webp"
+},
     description: {"de": "Das Collège Alfajiri in Bukavu ist eine renommierte Jesuitenschule, die seit Jahrzehnten die intellektuelle Elite der Region Kivu ausbildet.", "hu": "Bukavu egyik legrangosabb oktatási intézménye, amely híres magas színvonalú képzéséről.", "ro": "Colegiul Alfajiri din Bukavu, una dintre cele mai renumite instituții de învățământ secundar din estul țării.", "en": "Collège Alfajiri in Bukavu is one of the most prestigious secondary schools in the DR Congo, known for its academic excellence."},
     facts: {"de": ["Gegründet im Jahr 1937", "Bekannt für hohe akademische Qualität", "Architektonisch markanter Campus", "Bedeutende Bildungsstätte Ostafrikas"], "hu": ["Jezsuita szerzetesek alapították a gyarmati időkben", "Számos kongói politikus és értelmiségi tanult itt", "Impozáns téglaépületei uralják a környék látképét"], "ro": ["Înființat de iezuiți", "Fostul colegiu Notre-Dame de la Victoire", "Educație de elită în regiune"], "en": ["Founded by Jesuit missionaries", "Educated many national leaders", "Iconic building in the city"]},
     descriptionAdvanced: {
@@ -467,7 +511,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-TO",
     coords: [25.195, 0.515],
-    name: {"de": "Cathédrale Notre-Dame-du-Rosaire", "hu": "Rózsafüzér Királynője Katedrális", "ro": "Catedrala Maicii Domnului Rozariului", "en": "Our Lady of the Rosary Cathedral"},
+    name: {"de": "Cathédrale Notre-Dame-du-Rosaire", "hu": "Rózsafüzér Királynője Katedrális", "ro": "Catedrala Maicii Domnului Rozariului", "en": "Our Lady of the Rosary Cathedral",
+image: "/poi-images/cd-cathedrale-rosaire-kisangani-landmarks-v2.webp"
+},
     description: {"de": "Die Kathedrale Unserer Lieben Frau vom Rosenkranz in Kisangani ist das geistliche Zentrum der Stadt am Lualaba-Fluss. Sie wurde während lokaler Konflikte mehrfach beschädigt.", "hu": "A Rózsafüzér Miasszonyunk székesegyház Kisanganiban, a Kongó-folyó menti város egyik ékköve.", "ro": "Catedrala Sfântul Rozariu din Kisangani, o clădire istorică impunătoare pe malul fluviului Congo.", "en": "The Cathédrale Notre-Dame du Rosaire in Kisangani is the largest church in the city, featuring a distinct architectural style."},
     facts: {"de": ["Sitz des Erzbistums Kisangani", "Architektur im neugotischen Stil", "Nähe zu den Boyoma-Fällen", "Symbol der Beständigkeit der Stadt"], "hu": ["Hatalmas téglaépület, amely messziről is jól látható", "A gyarmati korszak vallási építészetének remeke", "A Tshopo tartomány katolikus életének központja"], "ro": ["Centru spiritual în Haut-Uele", "Vedere panoramică spre fluviu", "Arhitectură solidă din piatră"], "en": ["Located near the Congo River", "Brick architecture with tall towers", "Spiritual center of Tshopo Province"]},
     descriptionAdvanced: {
@@ -488,7 +534,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-TO",
     coords: [25.188, 0.514],
-    name: {"de": "Université de Kisangani", "hu": "Kisangani Egyetem", "ro": "Universitatea din Kisangani", "en": "University of Kisangani"},
+    name: {"de": "Université de Kisangani", "hu": "Kisangani Egyetem", "ro": "Universitatea din Kisangani", "en": "University of Kisangani",
+image: "/poi-images/cd-universite-kisangani-landmarks-v2.webp"
+},
     description: {"de": "Die Universität von Kisangani ist eine der wichtigsten Hochschulen des Landes. Sie spielt eine zentrale Rolle bei der Erforschung der biologischen Vielfalt des Kongobeckens.", "hu": "Kisangani egyeteme, az ország egyik vezető felsőoktatási és kutatási intézménye.", "ro": "Universitatea din Kisangani, una dintre cele mai mari instituții academice din țară, fondată în 1963.", "en": "The Université de Kisangani is one of the country's leading higher education institutions, with a strong focus on tropical medicine and forestry."},
     facts: {"de": ["Gegründet im Jahr 1963", "Ehemals Freie Universität Kongo", "Führend in Agrar- und Forstwissenschaften", "Bedeutendes Forschungszentrum"], "hu": ["Eredetileg protestáns alapítású szabadegyetem volt", "Fontos szerepet játszik az esőerdei biodiverzitás kutatásában", "A város szellemi és kulturális motorja"], "ro": ["Fosta Universitate Liberă a Congo-ului", "Centru de cercetare în biodiversitate", "Campus extins în oraș"], "en": ["Founded in 1963", "Large campus in the city center", "Renowned for its research programs"]},
     descriptionAdvanced: {
@@ -509,7 +557,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-TO",
     coords: [25.193, 0.514],
-    name: {"de": "Place de la Femme", "hu": "A Nő Tere", "ro": "Piața Femeii", "en": "Place de la Femme"},
+    name: {"de": "Place de la Femme", "hu": "A Nő Tere", "ro": "Piața Femeii", "en": "Place de la Femme",
+image: "/poi-images/cd-place-de-la-femme-kisangani-landmarks-v2.webp"
+},
     description: {"de": "Die Place de la Femme in Kisangani ist ein öffentlicher Platz, der der Anerkennung und dem Beitrag der kongolesischen Frauen zur Gesellschaft gewidmet ist.", "hu": "A Nők tere Kisanganiban, egy központi tér, amelyet a kongói nők tiszteletére emeltek.", "ro": "Piața Femeii din Kisangani, un monument public dedicat rolului central al femeilor în societatea congoleză.", "en": "The Place de la Femme in Kisangani is a monument and public square dedicated to the honor and resilience of Congolese women."},
     facts: {"de": ["Zentraler Treffpunkt der Stadt", "Ort für soziale Veranstaltungen", "Symbol für Gleichberechtigung", "Nahe dem Stadtzentrum gelegen"], "hu": ["A nők társadalmi szerepvállalását és erejét szimbolizálja", "Népszerű találkozóhely a város lakói számára", "A tér központjában egy szimbolikus szobor áll"], "ro": ["Situată în centrul orașului", "Loc de întâlnire socială", "Omagiu adus rezilienței feminine"], "en": ["Features a commemorative statue", "Located at a central traffic circle", "Site of social and cultural gatherings"]},
     descriptionAdvanced: {
@@ -530,7 +580,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-TA",
     coords: [29.195, -5.941],
-    name: {"de": "Cathédrale du Christ-Roi de Kalemie", "hu": "Krisztus Király Katedrális (Kalemie)", "ro": "Catedrala Hristos Rege", "en": "Christ the King Cathedral"},
+    name: {"de": "Cathédrale du Christ-Roi de Kalemie", "hu": "Krisztus Király Katedrális (Kalemie)", "ro": "Catedrala Hristos Rege", "en": "Christ the King Cathedral",
+image: "/poi-images/cd-cathedrale-christ-roi-kalemie-landmarks-v2.webp"
+},
     description: {"de": "Die Christkönig-Kathedrale in Kalemie ist ein markantes Bauwerk am Ufer des Tanganjikasees. Sie dient als Hauptkirche der Diözese Kalemie-Kirungu.", "hu": "Krisztus Király székesegyház Kalemie-ben, a Tanganyika-tó partján.", "ro": "Catedrala Christos Rege din Kalemie, un edificiu religios major pe malul lacului Tanganyika.", "en": "The Cathédrale Christ-Roi in Kalemie is the main Catholic church in the port city, overlooking Lake Tanganyika."},
     facts: {"de": ["Lage direkt am Tanganjikasee", "Religiöser Mittelpunkt der Provinz Tanganyika", "Blickfang für Anreisende per Schiff", "Zentrum für kirchliche Sozialarbeit"], "hu": ["A tóra néző templom különleges hangulatot áraszt", "A város vallási és közösségi eseményeinek főszereplője", "Építészete ötvözi a helyi és az európai hatásokat"], "ro": ["Vedere spre lac", "Centru spiritual al Diecezei de Kalemie-Kirungu", "Arhitectură impunătoare"], "en": ["Visible from the lake and port", "Heart of the local Catholic community", "Built in the early 20th century"]},
     descriptionAdvanced: {
@@ -551,7 +603,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-TA",
     coords: [29.192, -5.943],
-    name: {"de": "Gare de Kalemie", "hu": "Kalemie Pályaudvar", "ro": "Gara Kalemie", "en": "Kalemie Railway Station"},
+    name: {"de": "Gare de Kalemie", "hu": "Kalemie Pályaudvar", "ro": "Gara Kalemie", "en": "Kalemie Railway Station",
+image: "/poi-images/cd-gare-de-kalemie-landmarks-v2.webp"
+},
     description: {"de": "Der Bahnhof von Kalemie ist ein wichtiger Knotenpunkt für den Schienenverkehr zum Tanganjikasee. Er verbindet die Binnenschifffahrt mit dem nationalen Bahnnetz.", "hu": "Kalemie vasútállomása, amely összeköti a tavi kikötőt a belső országrészekkel.", "ro": "Gara din Kalemie, un punct strategic al rețelei feroviare ce leagă lacul Tanganyika de interiorul țării.", "en": "The Gare de Kalemie is the historic railway station that serves as the gateway for goods and people traveling between the lake and the interior."},
     facts: {"de": ["Endpunkt der SNCC-Bahnstrecke", "Verbindung zum Hafen von Kalemie", "Historische Eisenbahninfrastruktur", "Wichtig für den regionalen Handel"], "hu": ["A kelet-nyugati vasúti szállítás egyik kulcspontja", "Történelmi jelentőségű épület a Tanganyika-tó partján", "A város gazdasági múltjának egyik legfontosabb emléke"], "ro": ["Capăt de linie istoric", "Arhitectură feroviară colonială", "Nod de transport vital"], "en": ["Colonial-era transport hub", "Terminus of the SNCC line", "Vital link for the regional economy"]},
     descriptionAdvanced: {
@@ -572,7 +626,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-TA",
     coords: [27.001, -5.397],
-    name: {"de": "Pont de Kongolo", "hu": "Kongolo Híd", "ro": "Podul Kongolo", "en": "Kongolo Bridge"},
+    name: {"de": "Pont de Kongolo", "hu": "Kongolo Híd", "ro": "Podul Kongolo", "en": "Kongolo Bridge",
+image: "/poi-images/cd-pont-de-kongolo-landmarks-v2.webp"
+},
     description: {"de": "Die Kongolo-Brücke ist eine kombinierte Straßen- und Eisenbahnbrücke über den Lualaba-Fluss. Sie ist eine der wenigen Brücken, die den Oberlauf des Kongo überspannen.", "hu": "A Kongolo-híd, egy stratégiai fontosságú közúti és vasúti híd a Lualaba-folyó felett.", "ro": "Podul Kongolo, o structură mixtă (feroviară și rutieră) care traversează fluviul Lualaba în provincia Tanganyika.", "en": "The Pont de Kongolo is a massive road and rail bridge crossing the Lualaba River, serving as a critical transport link."},
     facts: {"de": ["Länge von ca. 440 Metern", "Baujahr 1968 während der Mobutu-Ära", "Strategische Verkehrsverbindung", "Einzigartige Stahlkonstruktion"], "hu": ["Hatalmas fémszerkezet, amelyen vonatok és autók is áthaladnak", "Kulcsfontosságú az ország keleti és déli részének összekötésében", "A mérnöki teljesítmény egyik kiemelkedő példája a térségben"], "ro": ["Unul dintre puținele poduri peste Lualaba", "Finalizat în 1939", "Lungime de 440 metri"], "en": ["Over 500 meters long", "Unique rail-road combination bridge", "Vital for trans-African transport"]},
     descriptionAdvanced: {
@@ -593,7 +649,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-BC",
     coords: [13.619, -5.522],
-    name: {"de": "Barrage d'Inga", "hu": "Inga-gát", "ro": "Barajul Inga", "en": "Inga Dam"},
+    name: {"de": "Barrage d'Inga", "hu": "Inga-gát", "ro": "Barajul Inga", "en": "Inga Dam",
+image: "/poi-images/cd-barrage-inga-landmarks-v2.webp"
+},
     description: {"de": "Die Inga-Staudämme am Kongo-Fluss sind eines der größten Wasserkraftprojekte der Welt. Sie nutzen die gewaltige Energie der Inga-Fälle zur Stromerzeugung.", "hu": "Az Inga-vízerőművek, a világ egyik legnagyobb potenciállal rendelkező hidroelektromos komplexuma.", "ro": "Barajele Inga I și Inga II, parte a unuia dintre cele mai mari complexe hidroenergetice din lume, pe fluviul Congo.", "en": "The Inga Dams are a series of hydroelectric power stations on the Congo River, among the largest of their kind in the world."},
     facts: {"de": ["Besteht aus Inga I und Inga II", "Enormes Potenzial für ganz Afrika", "Standort in der Provinz Kongo Central", "Größte Wasserfälle nach Volumen"], "hu": ["A Kongó-folyó zuhatagaira épült Matadi közelében", "Két nagy egységből, az Inga I-ből és Inga II-ből áll", "Elméleti kapacitása egész Afrika áramellátását biztosíthatná"], "ro": ["Potențial energetic imens", "Situat la Cascadele Inga", "Sursă principală de electricitate pentru regiune"], "en": ["Site of Inga I and Inga II", "Enormous potential for green energy", "Located near Matadi"]},
     descriptionAdvanced: {
@@ -614,7 +672,9 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CD-KN",
     coords: [15.289, -4.305],
-    name: {"de": "Palais de la Nation", "hu": "Nemzet Palotája", "ro": "Palatul Națiunii", "en": "Palais de la Nation"},
+    name: {"de": "Palais de la Nation", "hu": "Nemzet Palotája", "ro": "Palatul Națiunii", "en": "Palais de la Nation",
+image: "/poi-images/cd-palais-de-la-nation-landmarks-v2.webp"
+},
     description: {"de": "Der Palais de la Nation in Kinshasa ist der offizielle Amtssitz des Präsidenten der Demokratischen Republik Kongo. Hier wurde 1960 die Unabhängigkeit verkündet.", "hu": "A Nemzet Palotája Kinshasában, a Kongói Demokratikus Köztársaság elnökének hivatalos rezidenciája.", "ro": "Palatul Națiunii din Kinshasa, reședința oficială a Președintelui RDC și locul unde s-a declarat independența în 1960.", "en": "The Palais de la Nation in Kinshasa is the official residence and office of the President of the Democratic Republic of the Congo."},
     facts: {"de": ["Erbaut als Residenz des Generalgouverneurs", "Historischer Ort der Unabhängigkeitserklärung", "Lage am Ufer des Kongo-Flusses", "Zentrum der politischen Macht"], "hu": ["Itt kiáltották ki az ország függetlenségét 1960. június 30-án", "Eredetileg a belga főkormányzó rezidenciájának épült", "Szigorúan őrzött, történelmileg kiemelt jelentőségű állami épület"], "ro": ["Fostul palat al Guvernatorului General", "Situat pe malul fluviului Congo", "Importanță istorică simbolică maximă"], "en": ["Site where independence was declared", "Elegant colonial-era architecture", "Strictly guarded national landmark"]},
     descriptionAdvanced: {

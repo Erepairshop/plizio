@@ -4,7 +4,9 @@ export const vaticanReliefV2: POI[] = [
   {
     id: "vatican-colle-vaticano-summit-relief-v2",
     type: "peak",
-    name: { de: "Gipfel des Colle Vaticano", hu: "Colle Vaticano csúcs", ro: "Vârful Colle Vaticano", en: "Colle Vaticano Summit" },
+    name: { de: "Gipfel des Colle Vaticano", hu: "Colle Vaticano csúcs", ro: "Vârful Colle Vaticano", en: "Colle Vaticano Summit",
+image: "/poi-images/vatican-colle-vaticano-summit-relief-v2.webp"
+},
     coords: [12.4485, 41.9034],
     coordinates: { lat: 41.9034, lng: 12.4485 },
     description: {
@@ -19,11 +21,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al statului", "Situat în interiorul grădinilor", "Zonă de frontieră cu Roma", "Vedere spre Monte Mario"],
       en: ["Highest point of the state", "Located within the gardens", "Border location with Rome", "View of Monte Mario"],
     },
-    imageHint: "Highest point of Vatican Gardens near the wall", image: "/poi-images/vatican-colle-vaticano-summit-relief-v2.webp"},
-  {
+imageHint: "Highest point of Vatican Gardens near the wall",
+    descriptionAdvanced: {
+      de: "Der höchste Punkt des Vatikans liegt auf etwa 75 Metern und bietet einen weiten Blick über die Stadt Rom und die prachtvollen Gärten des Kleinstaates.",
+      hu: "A Vatikán-domb 75 méteres csúcsa a törpeállam legmagasabb pontja, amely természetes védelmet és panorámát nyújtott a pápai rezidencia számára.",
+      ro: "Vârful Colinei Vatican este cel mai înalt punct al statului, având o altitudine de 75 metri și oferind o perspectivă strategică asupra Romei.",
+      en: "The summit of the Vatican Hill reaches an elevation of 75 meters, serving as the highest natural point within the sovereign city-state's territory.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 75 Meter", "Gestein: Pliozäner Mergel", "Lage: Nordwestlicher Sektor", "Blick: 360-Grad-Panorama"],
+      hu: ["Tengerszint felett: 75 m", "Geológia: tufa és homokkő", "Tájegység: Mons Vaticanus", "Kiemelkedés: 45 méter"],
+      ro: ["Altitudine: 75 metri", "Tip relief: Colină", "Localizare: Sector nord-vest", "Vizibilitate: Toată Roma"],
+      en: ["Elevation: 75 meters", "Geology: Pliocene marl", "Position: Northwest sector", "Prominence: 45 meters"],
+    },
+    image: "/poi-images/vatican-colle-vaticano-summit-relief-v2.webp",
+},  {
     id: "vatican-west-slope-gardens-relief-v2",
     type: "park",
-    name: { de: "Westlicher Gartenhang", hu: "Nyugati kerti lejtő", ro: "Panta vestică a grădinilor", en: "Western Gardens Slope" },
+    name: { de: "Westlicher Gartenhang", hu: "Nyugati kerti lejtő", ro: "Panta vestică a grădinilor", en: "Western Gardens Slope",
+image: "/poi-images/vatican-west-slope-gardens-relief-v2.webp"
+},
     coords: [12.4478, 41.9038],
     coordinates: { lat: 41.9038, lng: 12.4478 },
     description: {
@@ -38,11 +55,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Înclinație accentuată spre vest", "Pantă dens împădurită", "Parte a peisajului grădinilor", "Funcție de barieră naturală"],
       en: ["Strong westward inclination", "Densely wooded slope", "Part of the garden landscape", "Natural barrier function"],
     },
-    imageHint: "Steep wooded slope in Vatican Gardens", image: "/poi-images/vatican-west-slope-gardens-relief-v2.webp"},
-  {
+imageHint: "Steep wooded slope in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Dieser sanft abfallende Hang beherbergt terrassierte Gartenanlagen, die seit der Renaissance nach strengen geometrischen Mustern gestaltet wurden.",
+      hu: "A kertek nyugati lejtője teraszos elrendezésű, ahol a reneszánsz kertművészet elemei keverednek a mediterrán növényvilág gazdag változatosságával.",
+      ro: "Panta vestică a grădinilor este amenajată în terase succesive, reflectând stilul peisagistic renascentist și oferind adăpost multor specii rare.",
+      en: "The western slope of the gardens features a terraced landscape designed during the Renaissance to blend geometric precision with natural flora.",
+    },
+    factsAdvanced: {
+      de: ["Gefälle: 15 Grad", "Stil: Italienische Renaissance", "Bepflanzung: Pinien und Zedern", "Fläche: ca. 4 Hektar"],
+      hu: ["Lejtésszög: 15 fok", "Stílus: reneszánsz kert", "Kialakítás éve: 1559", "Terület: 4 hektár"],
+      ro: ["Înclinație: 15 grade", "Stil: Renaștere italiană", "Vegetație: Pini și cedri", "Suprafață: 4 hectare"],
+      en: ["Gradient: 15 degrees", "Style: Italian Renaissance", "Flora: Pines and cedars", "Area: approx. 4 hectares"],
+    },
+    image: "/poi-images/vatican-west-slope-gardens-relief-v2.webp",
+},  {
     id: "vatican-radio-tower-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Radioturm-Plateau", hu: "Rádiótorony-fennsík", ro: "Platoul Turnului Radio", en: "Radio Tower Plateau" },
+    name: { de: "Radioturm-Plateau", hu: "Rádiótorony-fennsík", ro: "Platoul Turnului Radio", en: "Radio Tower Plateau",
+image: "/poi-images/vatican-radio-tower-plateau-relief-v2.webp"
+},
     coords: [12.4474, 41.9031],
     coordinates: { lat: 41.9031, lng: 12.4474 },
     description: {
@@ -57,11 +89,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Terasă situată la înălțime", "Locația antenelor radio", "Vizibilitate până la mare", "Poziție strategică înaltă"],
       en: ["High-altitude terrace", "Site of radio antennas", "Visibility to the sea", "Strategic high elevation"],
     },
-    imageHint: "Vatican Radio antenna on high ground", image: "/poi-images/vatican-radio-tower-plateau-relief-v2.webp"},
-  {
+imageHint: "Vatican Radio antenna on high ground",
+    descriptionAdvanced: {
+      de: "Das Plateau beherbergt die Sendeanlagen von Radio Vatikan, die 1931 von Guglielmo Marconi auf dem strategisch günstigen Hochpunkt errichtet wurden.",
+      hu: "A fennsík ad otthont a Vatikáni Rádió tornyainak, melyeket 1931-ben Guglielmo Marconi tervei alapján telepítettek a domb egyik magaslati pontjára.",
+      ro: "Platoul găzduiește turnurile Radio Vatican, instalate în 1931 de Guglielmo Marconi pe acest punct înalt pentru o transmisie optimă a semnalului.",
+      en: "The plateau hosts the Vatican Radio towers, established in 1931 by Guglielmo Marconi on this strategic elevation for global broadcasting.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1931", "Erfinder: Guglielmo Marconi", "Funktion: Radiosender", "Lage: Zentrales Plateau"],
+      hu: ["Alapítás: 1931", "Tervező: G. Marconi", "Funkció: rádióadás", "Magasság: 68 méter"],
+      ro: ["An construcție: 1931", "Inginer: G. Marconi", "Funcție: Emisie radio", "Cota: 68 metri"],
+      en: ["Built: 1931", "Engineer: G. Marconi", "Function: Radio station", "Elevation: 68 meters"],
+    },
+    image: "/poi-images/vatican-radio-tower-plateau-relief-v2.webp",
+},  {
     id: "vatican-heliport-terrace-relief-v2",
     type: "landmark",
-    name: { de: "Hubschrauberlandeplatz-Terrasse", hu: "Heliport terasz", ro: "Terasa Heliportului", en: "Heliport Terrace" },
+    name: { de: "Hubschrauberlandeplatz-Terrasse", hu: "Heliport terasz", ro: "Terasa Heliportului", en: "Heliport Terrace",
+image: "/poi-images/vatican-heliport-terrace-relief-v2.webp"
+},
     coords: [12.4465, 41.9033],
     coordinates: { lat: 41.9033, lng: 12.4465 },
     description: {
@@ -76,11 +123,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cel mai vestic punct al statului", "Relief nivelat", "Se învecinează cu teritoriul italian", "Altitudine de aprox. 70 metri"],
       en: ["Westernmost point of the state", "Leveled relief", "Borders Italian territory", "Altitude of approx. 70 meters"],
     },
-    imageHint: "Vatican heliport on a flat terrace", image: "/poi-images/vatican-heliport-terrace-relief-v2.webp"},
-  {
+imageHint: "Vatican heliport on a flat terrace",
+    descriptionAdvanced: {
+      de: "Die unter Papst Paul VI. im Jahr 1976 errichtete Terrasse dient als Hubschrauberlandeplatz für die schnellen Reisen des Pontifex Maximus.",
+      hu: "A VI. Pál pápa által 1976-ban építtetett terasz helikopter-leszállóként szolgál, biztosítva a pápa gyors és biztonságos közlekedését.",
+      ro: "Terasa heliportului, construită în 1976 sub Papa Paul al VI-lea, servește drept punct de decolare și aterizare pentru călătoriile papale.",
+      en: "The heliport terrace, constructed in 1976 under Pope Paul VI, provides a secure landing site for the Pope's international and local travels.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1976", "Papst: Paul VI.", "Nutzung: Helikopterlandeplatz", "Material: Asphaltbeton"],
+      hu: ["Átadás: 1976", "Pápa: VI. Pál", "Cél: helikopter-kikötő", "Burkolat: aszfalt"],
+      ro: ["Anul: 1976", "Papa: Paul al VI-lea", "Uz: Heliport", "Material: Asfalt"],
+      en: ["Year: 1976", "Pope: Paul VI", "Use: Heliport", "Surface: Asphalt"],
+    },
+    image: "/poi-images/vatican-heliport-terrace-relief-v2.webp",
+},  {
     id: "vatican-st-peters-square-basin-relief-v2",
     type: "landmark",
-    name: { de: "Becken des Petersplatzes", hu: "Szent Péter téri medence", ro: "Depresiunea Pieței Sfântului Petru", en: "St. Peter's Square Basin" },
+    name: { de: "Becken des Petersplatzes", hu: "Szent Péter téri medence", ro: "Depresiunea Pieței Sfântului Petru", en: "St. Peter's Square Basin",
+image: "/poi-images/vatican-st-peters-square-basin-relief-v2.webp"
+},
     coords: [12.4573, 41.9021],
     coordinates: { lat: 41.9021, lng: 12.4573 },
     description: {
@@ -95,11 +157,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cel mai jos punct la aprox. 19 m", "Ușoară înclinație spre est", "Fostă zonă mlăștinoasă", "Câmpie pavată artificial"],
       en: ["Lowest point approx. 19 meters", "Slight eastward slope", "Former marshy area", "Artificially paved level"],
     },
-    imageHint: "Wide view of St. Peter's Square from above", image: "/poi-images/vatican-st-peters-square-basin-relief-v2.webp"},
-  {
+imageHint: "Wide view of St. Peter's Square from above",
+    descriptionAdvanced: {
+      de: "Die Senke des Petersplatzes wurde von Bernini als elliptischer Raum konzipiert, der die Gläubigen wie mit offenen Armen empfangen soll.",
+      hu: "A Szent Péter tér medencéje Bernini mesterműve, amelynek elliptikus formája és oszlopsora karjaiba zárja a hívőket és a látogatókat.",
+      ro: "Bazinul Pieței Sfântul Petru a fost conceput de Bernini ca un spațiu eliptic vast, simbolizând brațele deschise ale Bisericii către lume.",
+      en: "The St. Peter's Square basin is a grand elliptical space designed by Bernini between 1656 and 1667 to embrace the visiting faithful.",
+    },
+    factsAdvanced: {
+      de: ["Architekt: Gian L. Bernini", "Bauzeit: 1656–1667", "Form: Ellipse", "Breite: 240 Meter"],
+      hu: ["Építész: G. L. Bernini", "Épült: 1656–1667", "Forma: ellipszis", "Szélesség: 240 m"],
+      ro: ["Arhitect: G. L. Bernini", "Perioadă: 1656–1667", "Formă: Eliptică", "Lățime: 240 metri"],
+      en: ["Architect: Gian L. Bernini", "Built: 1656–1667", "Shape: Elliptical", "Width: 240 meters"],
+    },
+    image: "/poi-images/vatican-st-peters-square-basin-relief-v2.webp",
+},  {
     id: "vatican-leonine-wall-crest-relief-v2",
     type: "landmark",
-    name: { de: "Kamm der Leoninischen Mauer", hu: "Leoninus-fal gerince", ro: "Creasta Zidului Leonin", en: "Leonine Wall Crest" },
+    name: { de: "Kamm der Leoninischen Mauer", hu: "Leoninus-fal gerince", ro: "Creasta Zidului Leonin", en: "Leonine Wall Crest",
+image: "/poi-images/vatican-leonine-wall-crest-relief-v2.webp"
+},
     coords: [12.447, 41.9036],
     coordinates: { lat: 41.9036, lng: 12.447 },
     description: {
@@ -114,11 +191,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Creastă de-a lungul graniței", "Linie istorică de fortificație", "Urmează topografia", "Cele mai înalte secțiuni de zid"],
       en: ["High ridge along the border", "Historical fortification line", "Follows the topography", "Highest wall sections"],
     },
-    imageHint: "Leonine Wall following the hill crest", image: "/poi-images/vatican-leonine-wall-crest-relief-v2.webp"},
-  {
+imageHint: "Leonine Wall following the hill crest",
+    descriptionAdvanced: {
+      de: "Der Kamm der Leoninischen Mauer markiert die historische Befestigung, die im 9. Jahrhundert zum Schutz vor sarazenischen Überfällen erbaut wurde.",
+      hu: "A Leoninus-fal gerince a 9. századi védelmi vonalat jelöli, amelyet IV. Leó pápa emeltetett a szaracén támadások elleni védekezésül.",
+      ro: "Creasta zidului leonid marchează fortificația istorică din secolul al IX-lea, construită pentru a proteja Vaticanul de atacurile sarazinilor.",
+      en: "The crest of the Leonine Wall represents the 9th-century fortification built by Pope Leo IV to protect the Vatican from Saracen raids.",
+    },
+    factsAdvanced: {
+      de: ["Bauherr: Papst Leo IV.", "Jahr: 848–852", "Höhe: bis zu 12 Meter", "Zweck: Stadtmauer"],
+      hu: ["Építtető: IV. Leó pápa", "Időpont: 848–852", "Magasság: 12 m", "Hossz: 3 km"],
+      ro: ["Ctitor: Papa Leon IV", "Perioadă: 848–852", "Înălțime: 12 metri", "Rol: Defensiv"],
+      en: ["Builder: Pope Leo IV", "Years: 848–852", "Height: 12 meters", "Purpose: Defense"],
+    },
+    image: "/poi-images/vatican-leonine-wall-crest-relief-v2.webp",
+},  {
     id: "vatican-lourdes-grotto-slope-relief-v2",
     type: "park",
-    name: { de: "Hang der Lourdes-Grotte", hu: "Lourdes-i barlang lejtője", ro: "Panta Grotei Lourdes", en: "Lourdes Grotto Slope" },
+    name: { de: "Hang der Lourdes-Grotte", hu: "Lourdes-i barlang lejtője", ro: "Panta Grotei Lourdes", en: "Lourdes Grotto Slope",
+image: "/poi-images/vatican-lourdes-grotto-slope-relief-v2.webp"
+},
     coords: [12.4495, 41.9037],
     coordinates: { lat: 41.9037, lng: 12.4495 },
     description: {
@@ -133,11 +225,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Poziționare pe panta de NV", "Loc de devoțiune religioasă", "Formațiuni stâncoase artificiale", "Microclimat mai răcoros"],
       en: ["Northwestern slope location", "Religious devotional site", "Artificial rock formations", "Cooler microclimate"],
     },
-    imageHint: "Lourdes Grotto replica on a hillside", image: "/poi-images/vatican-lourdes-grotto-slope-relief-v2.webp"},
-  {
+imageHint: "Lourdes Grotto replica on a hillside",
+    descriptionAdvanced: {
+      de: "Dieser Hang beherbergt eine detailgetreue Nachbildung der Grotte von Massabielle, die 1902 als Ort des Gebets in den Gärten geweiht wurde.",
+      hu: "A lejtőn található a massabielle-i barlang hű másolata, amelyet 1902-ben szenteltek fel a vatikáni kertek elcsendesedést szolgáló helyszínéül.",
+      ro: "Panta grotei Lourdes adăpostește o replică a grotei din Massabielle, sfințită în 1902 ca loc de rugăciune și reculegere în grădini.",
+      en: "The Lourdes Grotto slope features a replica of the Massabielle cave, consecrated in 1902 as a place of prayer within the Vatican Gardens.",
+    },
+    factsAdvanced: {
+      de: ["Geweiht: 1902", "Modell: Massabielle", "Lage: Westhang", "Besonderheit: Marienstatue"],
+      hu: ["Felszentelve: 1902", "Modell: Massabielle", "Típus: kegyhely", "Alkotó: Constantini"],
+      ro: ["Sfințire: 1902", "Model: Massabielle", "Uz: Religios", "Element: Statuia Fecioarei"],
+      en: ["Consecrated: 1902", "Model: Massabielle", "Location: West slope", "Feature: Mary statue"],
+    },
+    image: "/poi-images/vatican-lourdes-grotto-slope-relief-v2.webp",
+},  {
     id: "vatican-governor-palace-slope-relief-v2",
     type: "landmark",
-    name: { de: "Hang am Gouverneurspalast", hu: "Kormányzói palota lejtője", ro: "Panta Palatului Guvernatorului", en: "Governor's Palace Slope" },
+    name: { de: "Hang am Gouverneurspalast", hu: "Kormányzói palota lejtője", ro: "Panta Palatului Guvernatorului", en: "Governor's Palace Slope",
+image: "/poi-images/vatican-governor-palace-slope-relief-v2.webp"
+},
     coords: [12.4518, 41.9026],
     coordinates: { lat: 41.9026, lng: 12.4518 },
     description: {
@@ -152,11 +259,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Grădini terasate", "Zonă de tranziție", "Vedere spre cupolă", "Situat central în stat"],
       en: ["Terraced garden areas", "Transition zone", "View of the dome", "Centrally located in the state"],
     },
-    imageHint: "Gardens in front of the Governor's Palace", image: "/poi-images/vatican-governor-palace-slope-relief-v2.webp"},
-  {
+imageHint: "Gardens in front of the Governor's Palace",
+    descriptionAdvanced: {
+      de: "Der Hang unterhalb des Gouverneurspalastes ist durch repräsentative Gartenanlagen geprägt, die den Verwaltungssitz des Staates säumen.",
+      hu: "A Kormányzói Palota alatti lejtőt reprezentatív kertrészletek díszítik, amelyek a Vatikán közigazgatási központjának környezetét alkotják.",
+      ro: "Panta Palatului Guvernatorului este marcată de grădini ceremoniale care încadrează sediul administrativ al Statului Cetății Vaticanului.",
+      en: "The slope of the Governor's Palace features formal gardens that surround the administrative heart of the Vatican City State.",
+    },
+    factsAdvanced: {
+      de: ["Gebäude: Palazzo del Governatorato", "Baujahr: 1927–1931", "Stil: Eklektizismus", "Funktion: Verwaltung"],
+      hu: ["Épület: Kormányzói Palota", "Épült: 1927–1931", "Stílus: eklektikus", "Funkció: adminisztráció"],
+      ro: ["Edificiu: Palatul Guvernatorului", "Ani: 1927–1931", "Stil: Eclectic", "Rol: Administrativ"],
+      en: ["Building: Governor's Palace", "Years: 1927–1931", "Style: Eclectic", "Use: Administration"],
+    },
+    image: "/poi-images/vatican-governor-palace-slope-relief-v2.webp",
+},  {
     id: "vatican-railway-embankment-relief-v2",
     type: "landmark",
-    name: { de: "Bahndamm des Vatikans", hu: "Vatikáni vasúti töltés", ro: "Terasamentul căii ferate", en: "Vatican Railway Embankment" },
+    name: { de: "Bahndamm des Vatikans", hu: "Vatikáni vasúti töltés", ro: "Terasamentul căii ferate", en: "Vatican Railway Embankment",
+image: "/poi-images/vatican-railway-embankment-relief-v2.webp"
+},
     coords: [12.451, 41.901],
     coordinates: { lat: 41.901, lng: 12.451 },
     description: {
@@ -171,11 +293,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cea mai sudică zonă a dealului", "Rambleu artificial", "Cea mai scurtă cale ferată", "Viaduct spre gară"],
       en: ["Southernmost hill area", "Artificial embankment", "Shortest railway in the world", "Viaduct to the station"],
     },
-    imageHint: "Vatican railway station and viaduct", image: "/poi-images/vatican-railway-embankment-relief-v2.webp"},
-  {
+imageHint: "Vatican railway station and viaduct",
+    descriptionAdvanced: {
+      de: "Der Bahndamm trägt die kürzeste Staatsbahn der Welt, die den Vatikan seit 1934 mit dem italienischen Schienennetz verbindet.",
+      hu: "A vasúti töltés a világ legrövidebb állami vasútvonalának ad helyet, amely 1934 óta köti össze a Vatikánt az olasz vasúthálózattal.",
+      ro: "Rambleul feroviar susține cea mai scurtă cale ferată națională din lume, legând Vaticanul de rețeaua italiană din anul 1934.",
+      en: "The railway embankment carries the world's shortest national railway line, connecting the Vatican to Italy's network since 1934.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 852 Meter", "Eröffnung: 1934", "Spurweite: 1435 mm", "Zweck: Güter/Personen"],
+      hu: ["Hossz: 852 méter", "Megnyitás: 1934", "Nyomtáv: 1435 mm", "Rekord: legrövidebb"],
+      ro: ["Lungime: 852 metri", "Inaugurare: 1934", "Ecartament: Standard", "Statut: Unic"],
+      en: ["Length: 852 meters", "Opened: 1934", "Gauge: 1435 mm", "Record: Shortest"],
+    },
+    image: "/poi-images/vatican-railway-embankment-relief-v2.webp",
+},  {
     id: "vatican-teutonic-cemetery-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Plateau des Campo Santo Teutonico", hu: "Campo Santo Teutonico fennsík", ro: "Platoul Campo Santo Teutonico", en: "Teutonic Cemetery Plateau" },
+    name: { de: "Plateau des Campo Santo Teutonico", hu: "Campo Santo Teutonico fennsík", ro: "Platoul Campo Santo Teutonico", en: "Teutonic Cemetery Plateau",
+image: "/poi-images/vatican-teutonic-cemetery-plateau-relief-v2.webp"
+},
     coords: [12.4545, 41.9015],
     coordinates: { lat: 41.9015, lng: 12.4545 },
     description: {
@@ -191,11 +328,25 @@ export const vaticanReliefV2: POI[] = [
       en: ["Historical burial site", "Southern marginal location", "Elevated relative to the square", "Enclosed by walls"],
     },
     imageHint: "Teutonic Cemetery near St. Peter's",
+    descriptionAdvanced: {
+      de: "Dieses Plateau beherbergt den Campo Santo Teutonico, die älteste deutsche Begräbnisstätte in Rom, die auf die Zeit Karls des Großen zurückgeht.",
+      hu: "Ezen a fennsíkon található a Campo Santo Teutonico, a legrégebbi német temető Rómában, amelynek alapítása Nagy Károly idejére nyúlik vissza.",
+      ro: "Acest platou găzduiește Cimitirul Teuton, cel mai vechi loc de veci german din Roma, cu origini ce datează din vremea lui Carol cel Mare.",
+      en: "The Teutonic Cemetery plateau is home to the Campo Santo Teutonico, the oldest German burial ground in Rome, dating back to Charlemagne.",
+    },
+    factsAdvanced: {
+      de: ["Name: Campo Santo Teutonico", "Ursprung: 8. Jahrhundert", "Zugehörigkeit: Deutsch/Österreichisch", "Lage: Nahe Petersdom"],
+      hu: ["Név: Campo Santo Teutonico", "Eredet: 8. század", "Közösség: német nyelvű", "Helyszín: déli fal"],
+      ro: ["Nume: Campo Santo Teutonico", "Origine: Secolul VIII", "Apartenență: Germanică", "Cota: 25 metri"],
+      en: ["Name: Campo Santo Teutonico", "Origin: 8th century", "Community: German/Austrian", "Elevation: 25 meters"],
+    },
   },
   {
     id: "vatican-ethiopian-college-terrace-relief-v2",
     type: "landmark",
-    name: { de: "Terrasse des Äthiopischen Kollegs", hu: "Etióp Kollégium terasz", ro: "Terasa Colegiului Etiopian", en: "Ethiopian College Terrace" },
+    name: { de: "Terrasse des Äthiopischen Kollegs", hu: "Etióp Kollégium terasz", ro: "Terasa Colegiului Etiopian", en: "Ethiopian College Terrace",
+image: "/poi-images/vatican-ethiopian-college-terrace-relief-v2.webp"
+},
     coords: [12.449, 41.9023],
     coordinates: { lat: 41.9023, lng: 12.449 },
     description: {
@@ -210,11 +361,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Nivel de altitudine central", "Integrat în grădini", "Locație istorică a clădirii", "Sisteme de ziduri de sprijin"],
       en: ["Central elevation step", "Embedded in gardens", "Historical building site", "Retaining wall systems present"],
     },
-    imageHint: "Ethiopian College in Vatican Gardens", image: "/poi-images/vatican-ethiopian-college-terrace-relief-v2.webp"},
-  {
+imageHint: "Ethiopian College in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Die Terrasse des Äthiopischen Kollegs beherbergt das einzige Priesterseminar innerhalb der vatikanischen Mauern, gestiftet von Papst Benedikt XV.",
+      hu: "Az Etióp Kollégium teraszán található az egyetlen papnevelde a Vatikán falain belül, melyet XV. Benedek pápa alapított a 20. század elején.",
+      ro: "Terasa Colegiului Etiopian găzduiește singurul seminar teologic din interiorul zidurilor Vaticanului, fondat de Papa Benedict al XV-lea.",
+      en: "The Ethiopian College terrace hosts the only seminary located within the Vatican walls, established by Pope Benedict XV in 1919.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1919", "Papst: Benedikt XV.", "Nationalität: Äthiopisch/Eritreisch", "Status: Einzigartig"],
+      hu: ["Alapítás: 1919", "Pápa: XV. Benedek", "Nemzetiség: etióp", "Helyzet: falakon belül"],
+      ro: ["Fondat: 1919", "Papa: Benedict XV", "Naționalitate: Etiopiană", "Statut: Seminar unic"],
+      en: ["Founded: 1919", "Pope: Benedict XV", "Nationality: Ethiopian", "Status: Unique"],
+    },
+    image: "/poi-images/vatican-ethiopian-college-terrace-relief-v2.webp",
+},  {
     id: "vatican-casina-pio-iv-slope-relief-v2",
     type: "park",
-    name: { de: "Hang der Casina Pio IV", hu: "Casina Pio IV lejtő", ro: "Panta Casinei Pio IV", en: "Casina Pio IV Slope" },
+    name: { de: "Hang der Casina Pio IV", hu: "Casina Pio IV lejtő", ro: "Panta Casinei Pio IV", en: "Casina Pio IV Slope",
+image: "/poi-images/vatican-casina-pio-iv-slope-relief-v2.webp"
+},
     coords: [12.4515, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4515 },
     description: {
@@ -229,11 +395,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Parte a terenului Academiei", "Floră de pantă îngrijită", "Orientare nord-estică", "Relief istoric de grădină"],
       en: ["Part of the Academy grounds", "Well-kept slope flora", "Northeastern orientation", "Historical garden relief"],
     },
-    imageHint: "Casina Pio IV and surrounding slopes", image: "/poi-images/vatican-casina-pio-iv-slope-relief-v2.webp"},
-  {
+imageHint: "Casina Pio IV and surrounding slopes",
+    descriptionAdvanced: {
+      de: "Der Hang oberhalb der Casina Pio IV führt zu einem Meisterwerk der manieristischen Architektur, das heute Sitz der Akademie der Wissenschaften ist.",
+      hu: "A IV. Piusz-villa feletti lejtő a manierista építészet egyik remekművéhez vezet, amely ma a Pápai Tudományos Akadémia székhelye.",
+      ro: "Panta de deasupra Casinei Pio IV duce spre o capodoperă a arhitecturii manieriste, actualul sediu al Academiei Pontificale de Științe.",
+      en: "The Casina Pio IV slope leads to a masterpiece of Mannerist architecture, currently housing the Pontifical Academy of Sciences.",
+    },
+    factsAdvanced: {
+      de: ["Architekt: Pirro Ligorio", "Baujahr: 1558", "Stil: Manierismus", "Funktion: Wissenschaftsakademie"],
+      hu: ["Építész: Pirro Ligorio", "Épült: 1558", "Stílus: manierista", "Használat: tudomány"],
+      ro: ["Arhitect: Pirro Ligorio", "An: 1558", "Stil: Manierist", "Rol: Academie"],
+      en: ["Architect: Pirro Ligorio", "Built: 1558", "Style: Mannerism", "Use: Science Academy"],
+    },
+    image: "/poi-images/vatican-casina-pio-iv-slope-relief-v2.webp",
+},  {
     id: "vatican-vatican-gardens-central-ridge-relief-v2",
     type: "mountain",
-    name: { de: "Zentraler Gartenrücken", hu: "Központi kertgerinc", ro: "Creasta centrală a grădinilor", en: "Central Gardens Ridge" },
+    name: { de: "Zentraler Gartenrücken", hu: "Központi kertgerinc", ro: "Creasta centrală a grădinilor", en: "Central Gardens Ridge",
+image: "/poi-images/vatican-vatican-gardens-central-ridge-relief-v2.webp"
+},
     coords: [12.45, 41.903],
     coordinates: { lat: 41.903, lng: 12.45 },
     description: {
@@ -248,11 +429,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cea mai înaltă zonă a grădinilor", "Traseu natural al terenului", "Vedere panoramică spre Roma", "Funcție de cumpănă a apelor"],
       en: ["Highest zone of the gardens", "Natural terrain course", "Panoramic view of Rome", "Watershed function"],
     },
-    imageHint: "Ridge path in the Vatican Gardens", image: "/poi-images/vatican-vatican-gardens-central-ridge-relief-v2.webp"},
-  {
+imageHint: "Ridge path in the Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der zentrale Kamm der Vatikanischen Gärten bildet das topographische Rückgrat des Parks und beherbergt eine Vielfalt an exotischen Pflanzen.",
+      hu: "A Vatikáni Kertek központi gerince a park domborzati tengelye, amelyen számos egzotikus növényfaj és pápai emlékmű található.",
+      ro: "Creasta centrală a Grădinilor Vaticanului reprezintă axa topografică a parcului, fiind decorată cu specii botanice exotice și monumente.",
+      en: "The central ridge of the Vatican Gardens serves as the topographical spine of the park, featuring diverse exotic flora and monuments.",
+    },
+    factsAdvanced: {
+      de: ["Topographie: Hügelkamm", "Vegetation: Mediterran/Exotisch", "Pflege: Seit 1279", "Fläche: 23 Hektar"],
+      hu: ["Típus: dombhát", "Növényzet: mediterrán", "Kezdet: 1279", "Terület: 23 hektár"],
+      ro: ["Tip: Creastă", "Vegetație: Exotică", "Istoric: Din 1279", "Suprafață: 23 hectare"],
+      en: ["Type: Ridge", "Vegetation: Mediterranean", "History: Since 1279", "Area: 23 hectares"],
+    },
+    image: "/poi-images/vatican-vatican-gardens-central-ridge-relief-v2.webp",
+},  {
     id: "vatican-eagle-fountain-terrace-relief-v2",
     type: "landmark",
-    name: { de: "Terrasse des Adlerbrunnens", hu: "Sasos kút terasza", ro: "Terasa Fântânii Vulturului", en: "Eagle Fountain Terrace" },
+    name: { de: "Terrasse des Adlerbrunnens", hu: "Sasos kút terasza", ro: "Terasa Fântânii Vulturului", en: "Eagle Fountain Terrace",
+image: "/poi-images/vatican-eagle-fountain-terrace-relief-v2.webp"
+},
     coords: [12.4498, 41.9028],
     coordinates: { lat: 41.9028, lng: 12.4498 },
     description: {
@@ -267,11 +463,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Nivel mediu al dealului", "Utilizare hidraulică", "Artă barocă a grădinilor", "Vedere spre Palatul Guvernatorului"],
       en: ["Mid-level hill step", "Hydraulic utilization", "Baroque garden art", "View of the Governor's Palace"],
     },
-    imageHint: "Eagle Fountain in Vatican Gardens", image: "/poi-images/vatican-eagle-fountain-terrace-relief-v2.webp"},
-  {
+imageHint: "Eagle Fountain in Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Die Terrasse des Adlerbrunnens ist nach dem prachtvollen barocken Brunnen benannt, der unter Papst Paul V. als Teil der Wasserversorgung errichtet wurde.",
+      hu: "A Sas-kút terasza a névadó barokk szökőkútról híres, amelyet V. Pál pápa építtetett az Acqua Paola vízvezeték vatikáni leágazásaként.",
+      ro: "Terasa Fântânii Vulturului este numită după monumentul baroc construit sub Papa Paul al V-lea ca parte a sistemului de alimentare cu apă.",
+      en: "The Eagle Fountain terrace is named after the Baroque fountain commissioned by Pope Paul V to showcase the Acqua Paola water supply.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1611", "Papst: Paul V.", "Material: Travertin", "Thema: Adler (Wappen)"],
+      hu: ["Épült: 1611", "Pápa: V. Pál", "Anyag: travertin", "Jelölő: sas (címerállat)"],
+      ro: ["An: 1611", "Papa: Paul V", "Material: Travertin", "Simbol: Vultur"],
+      en: ["Built: 1611", "Pope: Paul V", "Material: Travertine", "Symbol: Eagle (Heraldry)"],
+    },
+    image: "/poi-images/vatican-eagle-fountain-terrace-relief-v2.webp",
+},  {
     id: "vatican-st-johns-tower-elevation-relief-v2",
     type: "landmark",
-    name: { de: "Erhöhung am Johannesturm", hu: "Szent János-torony magaslat", ro: "Elevarea Turnului Sfântul Ioan", en: "St. John's Tower Elevation" },
+    name: { de: "Erhöhung am Johannesturm", hu: "Szent János-torony magaslat", ro: "Elevarea Turnului Sfântul Ioan", en: "St. John's Tower Elevation",
+image: "/poi-images/vatican-st-johns-tower-elevation-relief-v2.webp"
+},
     coords: [12.4468, 41.9028],
     coordinates: { lat: 41.9028, lng: 12.4468 },
     description: {
@@ -286,11 +497,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Punct de frontieră vestic", "Poziție elevată a turnului", "Parte a Zidului Leonin", "Folosit pentru oaspeți diplomatici"],
       en: ["Western border point", "Elevated tower location", "Part of the Leonine Wall", "Used for diplomatic guests"],
     },
-    imageHint: "St. John's Tower on the Vatican hill", image: "/poi-images/vatican-st-johns-tower-elevation-relief-v2.webp"},
-  {
+imageHint: "St. John's Tower on the Vatican hill",
+    descriptionAdvanced: {
+      de: "Die Erhebung des Johannesturms markiert einen strategischen Punkt der alten Stadtmauer, der heute oft für Staatsgäste genutzt wird.",
+      hu: "A Szent János-torony magaslata a régi városfal egyik stratégiai bástyája, amely ma gyakran fontos állami vendégek lakhelyéül szolgál.",
+      ro: "Elevația Turnului Sfântul Ioan marchează un punct defensiv al zidurilor vechi, fiind restaurat pentru a găzdui oaspeți de seamă.",
+      en: "The St. John's Tower elevation is a strategic point on the old defensive walls, restored for use as a residence for high-profile guests.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: Mittelalter", "Restaurierung: Papst Johannes XXIII.", "Nutzung: Gästehaus", "Lage: Westmauer"],
+      hu: ["Kor: középkor", "Felújítás: XXIII. János", "Használat: vendégház", "Hely: nyugati fal"],
+      ro: ["Epocă: Medievală", "Restaurare: Papa Ioan XXIII", "Uz: Reședință oaspeți", "Cota: 65 metri"],
+      en: ["Era: Medieval", "Restoration: Pope John XXIII", "Use: Guest house", "Elevation: 65 meters"],
+    },
+    image: "/poi-images/vatican-st-johns-tower-elevation-relief-v2.webp",
+},  {
     id: "vatican-apostolic-palace-ridge-relief-v2",
     type: "landmark",
-    name: { de: "Grat des Apostolischen Palastes", hu: "Apostoli Palota gerinc", ro: "Creasta Palatului Apostolic", en: "Apostolic Palace Ridge" },
+    name: { de: "Grat des Apostolischen Palastes", hu: "Apostoli Palota gerinc", ro: "Creasta Palatului Apostolic", en: "Apostolic Palace Ridge",
+image: "/poi-images/vatican-apostolic-palace-ridge-relief-v2.webp"
+},
     coords: [12.455, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.455 },
     description: {
@@ -305,11 +531,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Marginea estică a dealului", "Locația apartamentelor papale", "Abrupt spre oraș", "Structură stâncoasă fundamental"],
       en: ["Eastern hill edge", "Site of papal apartments", "Steep drop to the city", "Fundamental rock structure"],
     },
-    imageHint: "Apostolic Palace overlooking Rome", image: "/poi-images/vatican-apostolic-palace-ridge-relief-v2.webp"},
-  {
+imageHint: "Apostolic Palace overlooking Rome",
+    descriptionAdvanced: {
+      de: "Der Rücken des Apostolischen Palastes umfasst die päpstlichen Gemächer und Verwaltungsgebäude, die sich terrassenförmig über dem Petersplatz erheben.",
+      hu: "Az Apostoli Palota gerince a pápai lakosztályokat és hivatali épületeket foglalja magában, melyek a Szent Péter tér fölé magasodnak.",
+      ro: "Creasta Palatului Apostolic cuprinde apartamentele papale și birourile administrative, ridicându-se deasupra Pieței Sfântul Petru.",
+      en: "The Apostolic Palace ridge encompasses the papal apartments and administrative offices, rising grandly above St. Peter's Square.",
+    },
+    factsAdvanced: {
+      de: ["Zimmeranzahl: ca. 1.000", "Bauzeit: 13.–17. Jahrhundert", "Kern: Papstpalast", "Funktion: Residenz/Museum"],
+      hu: ["Szobák száma: ~1000", "Épült: 13–17. század", "Magasság: 4 emelet", "Funkció: rezidencia"],
+      ro: ["Camere: aprox. 1.000", "Secol: XIII–XVII", "Funcție: Reședință", "Stil: Renascentist"],
+      en: ["Rooms: approx. 1,000", "Century: 13th–17th", "Function: Residence", "Style: Renaissance"],
+    },
+    image: "/poi-images/vatican-apostolic-palace-ridge-relief-v2.webp",
+},  {
     id: "vatican-mosaic-studio-slope-relief-v2",
     type: "landmark",
-    name: { de: "Hang am Mosaikstudio", hu: "Mozaikstúdió lejtője", ro: "Panta Studioului de Mozaic", en: "Mosaic Studio Slope" },
+    name: { de: "Hang am Mosaikstudio", hu: "Mozaikstúdió lejtője", ro: "Panta Studioului de Mozaic", en: "Mosaic Studio Slope",
+image: "/poi-images/vatican-mosaic-studio-slope-relief-v2.webp"
+},
     coords: [12.4505, 41.9018],
     coordinates: { lat: 41.9018, lng: 12.4505 },
     description: {
@@ -324,11 +565,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Poziționare pe panta sudică", "Ziduri de sprijin necesare", "Construcții dense pe pantă", "Parte a cartierului atelierelor"],
       en: ["South-facing slope", "Retaining walls required", "Dense building on the slope", "Part of the workshop district"],
     },
-    imageHint: "Buildings on the slope behind St. Peter's", image: "/poi-images/vatican-mosaic-studio-slope-relief-v2.webp"},
-  {
+imageHint: "Buildings on the slope behind St. Peter's",
+    descriptionAdvanced: {
+      de: "Der Hang beim Mosaikstudio führt zu der traditionsreichen Werkstatt, in der seit Jahrhunderten die Kunstwerke des Petersdoms restauriert werden.",
+      hu: "A Mozaikműhely lejtője ahhoz a nagy múltú műhelyhez vezet, ahol évszázadok óta a Szent Péter-bazilika mozaikjait készítik és restaurálják.",
+      ro: "Panta Studioului de Mozaic duce spre atelierul istoric unde, de secole, se restaurează și se creează mozaicurile Bazilicii Sfântul Petru.",
+      en: "The Mosaic Studio slope leads to the historic workshop where St. Peter's Basilica's intricate mosaics have been crafted for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 16. Jahrhundert", "Aufgabe: Restaurierung/Kopie", "Lage: Nahe Santa Marta", "Technik: Mikro-Mosaik"],
+      hu: ["Alapítás: 16. század", "Feladat: restaurálás", "Hely: Santa Marta közelében", "Technika: mikromozaik"],
+      ro: ["Fondat: Secolul XVI", "Scop: Restaurare", "Loc: Lângă Santa Marta", "Specialitate: Micromozaic"],
+      en: ["Founded: 16th century", "Purpose: Restoration", "Location: Near Santa Marta", "Skill: Micromosaic"],
+    },
+    image: "/poi-images/vatican-mosaic-studio-slope-relief-v2.webp",
+},  {
     id: "vatican-observatory-crest-relief-v2",
     type: "landmark",
-    name: { de: "Kamm des Observatoriums", hu: "Obszervatórium gerince", ro: "Creasta Observatorului", en: "Observatory Crest" },
+    name: { de: "Kamm des Observatoriums", hu: "Obszervatórium gerince", ro: "Creasta Observatorului", en: "Observatory Crest",
+image: "/poi-images/vatican-observatory-crest-relief-v2.webp"
+},
     coords: [12.453, 41.9038],
     coordinates: { lat: 41.9038, lng: 12.453 },
     description: {
@@ -343,11 +599,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Poziție înaltă nordică", "Fost observator astronomic", "Vedere spre nord", "Parte a arhitecturii grădinii"],
       en: ["Northern high elevation", "Former observatory site", "View to the north", "Part of the garden architecture"],
     },
-    imageHint: "Old Vatican Observatory building", image: "/poi-images/vatican-observatory-crest-relief-v2.webp"},
-  {
+imageHint: "Old Vatican Observatory building",
+    descriptionAdvanced: {
+      de: "Der Kamm der vatikanischen Sternwarte erinnert an den Ort astronomischer Forschung, bevor die Lichtverschmutzung den Umzug notwendig machte.",
+      hu: "A vatikáni csillagvizsgáló gerince a pápai csillagászat egykori helyszíne, mielőtt a fényszennyezés miatt a távcsöveket áttelepítették volna.",
+      ro: "Creasta Observatorului Vatican amintește de locul cercetărilor astronomice papale, înainte de mutarea sediului din cauza poluării luminoase.",
+      en: "The Observatory crest marks the historical site of papal astronomical research before light pollution necessitated a move to Castel Gandolfo.",
+    },
+    factsAdvanced: {
+      de: ["Name: Specola Vaticana", "Umzug: 1930er Jahre", "Erster Sitz: Turm der Winde", "Lage: Höchster Kamm"],
+      hu: ["Név: Specola Vaticana", "Áttelepülés: 1930-as évek", "Kezdet: Szelek tornya", "Hely: legmagasabb pont"],
+      ro: ["Nume: Specola Vaticana", "Mutat în: 1930", "Primul sediu: Turnul Vânturilor", "Cota: 70 metri"],
+      en: ["Name: Specola Vaticana", "Moved in: 1930s", "Original seat: Tower of Winds", "Elevation: 70 meters"],
+    },
+    image: "/poi-images/vatican-observatory-crest-relief-v2.webp",
+},  {
     id: "vatican-via-del-belvedere-slope-relief-v2",
     type: "landmark",
-    name: { de: "Belvedere-Hangweg", hu: "Belvedere lejtős út", ro: "Panta Via del Belvedere", en: "Via del Belvedere Slope" },
+    name: { de: "Belvedere-Hangweg", hu: "Belvedere lejtős út", ro: "Panta Via del Belvedere", en: "Via del Belvedere Slope",
+image: "/poi-images/vatican-via-del-belvedere-slope-relief-v2.webp"
+},
     coords: [12.4545, 41.905],
     coordinates: { lat: 41.905, lng: 12.4545 },
     description: {
@@ -363,11 +634,25 @@ export const vaticanReliefV2: POI[] = [
       en: ["Connecting path", "Northern hill base", "Steep ascent", "Near the Vatican Museums"],
     },
     imageHint: "Sloping road near Vatican Museums",
+    descriptionAdvanced: {
+      de: "Der Hang der Via del Belvedere ist eine wichtige interne Verkehrsader, die die Museen mit den administrativen Bereichen des Vatikans verbindet.",
+      hu: "A Via del Belvedere lejtője a Vatikán egyik fontos belső útvonala, amely a múzeumokat köti össze az állam igazgatási negyedével.",
+      ro: "Panta Via del Belvedere este o arteră internă vitală, făcând legătura între Muzeele Vaticane și zonele administrative ale statului.",
+      en: "The Via del Belvedere slope is a key internal thoroughfare connecting the Vatican Museums with the state's administrative sectors.",
+    },
+    factsAdvanced: {
+      de: ["Funktion: Verkehrsader", "Lage: Ostseite", "Zufahrt: Vatikanische Museen", "Gefälle: Moderat"],
+      hu: ["Funkció: közlekedési út", "Fekvés: keleti oldal", "Cél: múzeumi bejárat", "Jellege: aszfaltozott"],
+      ro: ["Funcție: Cale de acces", "Zona: Estică", "Acces: Muzee", "Panta: Moderată"],
+      en: ["Function: Access road", "Sector: Eastern", "Connects: Museums", "Gradient: Moderate"],
+    },
   },
   {
     id: "vatican-niche-of-shell-slope-relief-v2",
     type: "park",
-    name: { de: "Hang an der Muschelnische", hu: "Kagylófülke lejtője", ro: "Panta Nișei scoicii", en: "Niche of the Shell Slope" },
+    name: { de: "Hang an der Muschelnische", hu: "Kagylófülke lejtője", ro: "Panta Nișei scoicii", en: "Niche of the Shell Slope",
+image: "/poi-images/vatican-niche-of-shell-slope-relief-v2.webp"
+},
     coords: [12.4518, 41.9042],
     coordinates: { lat: 41.9042, lng: 12.4518 },
     description: {
@@ -382,11 +667,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Relief terasat", "Element de peisagistică", "Parte a parcului superior", "Funcție de sprijin a zidurilor"],
       en: ["Terraced relief", "Landscaping element", "Part of the upper park", "Wall support function"],
     },
-    imageHint: "Terraced garden with stone niches", image: "/poi-images/vatican-niche-of-shell-slope-relief-v2.webp"},
-  {
+imageHint: "Terraced garden with stone niches",
+    descriptionAdvanced: {
+      de: "Dieser Hang führt zur berühmten Nische in der Form einer Muschel im Belvedere-Hof, einem zentralen Element der vatikanischen Museumsarchitektur.",
+      hu: "Ez a lejtő a Belvedere-udvar híres Kagyló-fülkéjéhez vezet, amely a vatikáni múzeumok építészetének egyik leglátványosabb eleme.",
+      ro: "Această pantă duce spre celebra Nișă a Scoicii din curtea Belvedere, un element central al arhitecturii Muzeelor Vaticane.",
+      en: "This slope leads to the famous Shell Niche in the Belvedere Courtyard, a focal point of the Vatican Museums' architectural design.",
+    },
+    factsAdvanced: {
+      de: ["Ort: Belvedere-Hof", "Architekt: Pirro Ligorio", "Thema: Exedra", "Stil: Renaissance"],
+      hu: ["Hely: Belvedere-udvar", "Építész: Pirro Ligorio", "Típus: exedra", "Stílus: reneszánsz"],
+      ro: ["Loc: Curtea Belvedere", "Arhitect: Pirro Ligorio", "Formă: Exedră", "Stil: Renaștere"],
+      en: ["Location: Belvedere Court", "Architect: Pirro Ligorio", "Feature: Exedra", "Style: Renaissance"],
+    },
+    image: "/poi-images/vatican-niche-of-shell-slope-relief-v2.webp",
+},  {
     id: "vatican-grotto-nativity-slope-relief-v2",
     type: "park",
-    name: { de: "Hang der Geburtsgrotte", hu: "Születési barlang lejtője", ro: "Panta Grotei Nașterii", en: "Grotto of the Nativity Slope" },
+    name: { de: "Hang der Geburtsgrotte", hu: "Születési barlang lejtője", ro: "Panta Grotei Nașterii", en: "Grotto of the Nativity Slope",
+image: "/poi-images/vatican-grotto-nativity-slope-relief-v2.webp"
+},
     coords: [12.4505, 41.9045],
     coordinates: { lat: 41.9045, lng: 12.4505 },
     description: {
@@ -401,11 +701,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Pantă nordică accentuată", "Pantă împădurită naturală", "Nișă topografică", "Parte a grădinilor de nord"],
       en: ["Steep northern incline", "Natural wooded slope", "Topographic niche", "Part of the northern gardens"],
     },
-    imageHint: "Wooded slope in the Vatican Gardens", image: "/poi-images/vatican-grotto-nativity-slope-relief-v2.webp"},
-  {
+imageHint: "Wooded slope in the Vatican Gardens",
+    descriptionAdvanced: {
+      de: "Der Hang bei der Geburtsgrotte beherbergt eine religiöse Stätte in den Gärten, die das biblische Ereignis der Geburt Christi thematisiert.",
+      hu: "A Születés barlangja melletti lejtő a kertek egyik vallási helyszíne, amely Krisztus születésének bibliai eseményét idézi fel.",
+      ro: "Panta grotei Nașterii adăpostește un sit religios în grădini, dedicat reprezentării biblice a nașterii lui Hristos.",
+      en: "The Grotto of the Nativity slope hosts a religious site within the gardens dedicated to the biblical depiction of Christ's birth.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Religiöse Grotte", "Lage: Vatikanische Gärten", "Darstellung: Krippe", "Zweck: Andacht"],
+      hu: ["Típus: barlang/kegyhely", "Helyszín: vatikáni kertek", "Téma: betlehem", "Használat: áhítat"],
+      ro: ["Tip: Grotă religioasă", "Locație: Grădini", "Temă: Nașterea Domnului", "Rol: Devoțiune"],
+      en: ["Type: Religious grotto", "Location: Gardens", "Theme: Nativity", "Purpose: Devotion"],
+    },
+    image: "/poi-images/vatican-grotto-nativity-slope-relief-v2.webp",
+},  {
     id: "vatican-st-stephen-abyssinian-terrace-relief-v2",
     type: "landmark",
-    name: { de: "Terrasse von Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini terasz", ro: "Terasa Santo Stefano degli Abissini", en: "St. Stephen of the Abyssinians Terrace" },
+    name: { de: "Terrasse von Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini terasz", ro: "Terasa Santo Stefano degli Abissini", en: "St. Stephen of the Abyssinians Terrace",
+image: "/poi-images/vatican-st-stephen-abyssinian-terrace-relief-v2.webp"
+},
     coords: [12.4528, 41.902],
     coordinates: { lat: 41.902, lng: 12.4528 },
     description: {
@@ -420,11 +735,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Locație veche pe platou", "În spatele corului bazilicii", "Treaptă topografică", "Fundație istorică de biserică"],
       en: ["Ancient plateau location", "Behind the basilica's choir", "Topographic step", "Historical church foundation"],
     },
-    imageHint: "Ancient church behind St. Peter's Basilica", image: "/poi-images/vatican-st-stephen-abyssinian-terrace-relief-v2.webp"},
-  {
+imageHint: "Ancient church behind St. Peter's Basilica",
+    descriptionAdvanced: {
+      de: "Die Terrasse hinter der Kirche Santo Stefano degli Abissini markiert den Standort der ältesten noch erhaltenen Kirche innerhalb des Vatikans.",
+      hu: "Az Abesszin Szent István-templom terasza a Vatikán legrégebbi fennmaradt templomának környezete, amely a 5. század óta létezik.",
+      ro: "Terasa bisericii Sfântul Ștefan al Abisinienilor marchează locația celei mai vechi biserici păstrate din interiorul Vaticanului.",
+      en: "The terrace of St. Stephen of the Abyssinians surrounds the oldest surviving church in the Vatican, dating back to the 5th century.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 5. Jahrhundert", "Funktion: Äthiopische Kirche", "Lage: Hinter Petersdom", "Stil: Romanisch-Orientalisch"],
+      hu: ["Épült: 5. század", "Közösség: etióp rítus", "Hely: bazilika mögött", "Stílus: ókeresztény"],
+      ro: ["Secol: V", "Ritul: Etiopian", "Loc: În spatele bazilicii", "Stil: Paleocreștin"],
+      en: ["Century: 5th", "Rite: Ethiopian", "Location: Behind Basilica", "Style: Early Christian"],
+    },
+    image: "/poi-images/vatican-st-stephen-abyssinian-terrace-relief-v2.webp",
+},  {
     id: "vatican-library-courtyard-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Plateau der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár fennsík", ro: "Platoul Bibliotecii Vaticane", en: "Vatican Library Plateau" },
+    name: { de: "Plateau der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár fennsík", ro: "Platoul Bibliotecii Vaticane", en: "Vatican Library Plateau",
+image: "/poi-images/vatican-library-courtyard-plateau-relief-v2.webp"
+},
     coords: [12.4548, 41.9045],
     coordinates: { lat: 41.9045, lng: 12.4548 },
     description: {
@@ -439,11 +769,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Teren de construcție nivelat", "Stabilitate ridicată a solului", "Prelungire estică a dealului", "Utilizare densă a spațiului"],
       en: ["Leveled building ground", "High soil stability", "Eastern hill extension", "Dense urban-like usage"],
     },
-    imageHint: "Vatican Library buildings from above", image: "/poi-images/vatican-library-courtyard-plateau-relief-v2.webp"},
-  {
+imageHint: "Vatican Library buildings from above",
+    descriptionAdvanced: {
+      de: "Das Plateau des Bibliotheks-Innenhofs bildet den Kern eines der wertvollsten Archive der Welt, gegründet im 15. Jahrhundert durch Papst Sixtus IV.",
+      hu: "A Vatikáni Könyvtár udvarának fennsíkja a világ egyik legértékesebb archívumának központja, melyet IV. Szixtusz pápa alapított 1475-ben.",
+      ro: "Platoul curții bibliotecii formează nucleul uneia dintre cele mai valoroase arhive din lume, fondată în secolul XV de Papa Sixt al IV-lea.",
+      en: "The Vatican Library plateau serves as the heart of one of the world's most significant archives, founded by Pope Sixtus IV in 1475.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1475", "Papst: Sixtus IV.", "Bestand: 1,1 Mio. Bücher", "Lage: Belvedere-Komplex"],
+      hu: ["Alapítás: 1475", "Pápa: IV. Szixtusz", "Állomány: 1,1 millió könyv", "Hely: Belvedere"],
+      ro: ["Fondată: 1475", "Papa: Sixt IV", "Volume: 1,1 milioane", "Loc: Complex Belvedere"],
+      en: ["Founded: 1475", "Pope: Sixtus IV", "Collection: 1.1m books", "Location: Belvedere"],
+    },
+    image: "/poi-images/vatican-library-courtyard-plateau-relief-v2.webp",
+},  {
     id: "vatican-vatican-hill-south-edge-relief-v2",
     type: "landmark",
-    name: { de: "Südkante des Vatikanischen Hügels", hu: "Vatikán-domb déli pereme", ro: "Marginea sudică a Dealului Vaticanului", en: "Vatican Hill South Edge" },
+    name: { de: "Südkante des Vatikanischen Hügels", hu: "Vatikán-domb déli pereme", ro: "Marginea sudică a Dealului Vaticanului", en: "Vatican Hill South Edge",
+image: "/poi-images/vatican-vatican-hill-south-edge-relief-v2.webp"
+},
     coords: [12.4525, 41.9012],
     coordinates: { lat: 41.9012, lng: 12.4525 },
     description: {
@@ -459,11 +804,25 @@ export const vaticanReliefV2: POI[] = [
       en: ["Southern boundary", "Slope toward Tiber level", "Border location with Italy", "Visible height difference"],
     },
     imageHint: "South wall of Vatican near the railway station",
+    descriptionAdvanced: {
+      de: "Der südliche Rand des Vatikanischen Hügels bildet eine steile Kante zum Stadtteil Trastevere und diente historisch als natürliche Befestigung.",
+      hu: "A Vatikán-domb déli pereme meredek határt von Trastevere negyed felé, amely történelmileg természetes védműként is szolgált.",
+      ro: "Marginea sudică a Colinei Vatican formează o pantă abruptă spre cartierul Trastevere, servind istoric ca fortificație naturală.",
+      en: "The southern edge of the Vatican Hill forms a steep decline toward the Trastevere district, historically acting as a natural defense.",
+    },
+    factsAdvanced: {
+      de: ["Gefälle: Steil", "Grenze: Stadtteil Trastevere", "Geologie: Tufa-Gestein", "Funktion: Begrenzung"],
+      hu: ["Lejtés: meredek", "Szomszédság: Trastevere", "Kőzet: tufa", "Szerep: természetes határ"],
+      ro: ["Panta: Abruptă", "Vecinătate: Trastevere", "Geologie: Tuf", "Rol: Delimitare"],
+      en: ["Gradient: Steep", "Border: Trastevere district", "Geology: Tufa rock", "Role: Natural border"],
+    },
   },
   {
     id: "vatican-gardens-northern-slope-relief-v2",
     type: "park",
-    name: { de: "Nördlicher Gartenabhang", hu: "Északi kerti domboldal", ro: "Panta nordică a grădinilor", en: "Gardens Northern Slope" },
+    name: { de: "Nördlicher Gartenabhang", hu: "Északi kerti domboldal", ro: "Panta nordică a grădinilor", en: "Gardens Northern Slope",
+image: "/poi-images/vatican-gardens-northern-slope-relief-v2.webp"
+},
     coords: [12.451, 41.9055],
     coordinates: { lat: 41.9055, lng: 12.451 },
     description: {
@@ -478,11 +837,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Pantă pe suprafață mare", "Straturi terasate", "Expunere nordică", "Floră diversă pe pantă"],
       en: ["Large-scale incline", "Terraced flowerbeds", "Northern exposure", "Diverse flora on the slope"],
     },
-    imageHint: "Terraced gardens on the northern slope", image: "/poi-images/vatican-gardens-northern-slope-relief-v2.webp"},
-  {
+imageHint: "Terraced gardens on the northern slope",
+    descriptionAdvanced: {
+      de: "Der Nordhang der Gärten ist durch dichten Bewuchs und schattige Pfade geprägt, die zum Schutz der Privatsphäre des Papstes dienen.",
+      hu: "A kertek északi lejtőjét sűrű növényzet és árnyas utak jellemzik, amelyek a pápa pihenését és magánszféráját biztosítják.",
+      ro: "Panta nordică a grădinilor este caracterizată prin vegetație densă și poteci umbrite, oferind intimitate pentru plimbările papale.",
+      en: "The northern slope of the gardens features dense vegetation and shaded paths, designed to ensure privacy for the Pope's walks.",
+    },
+    factsAdvanced: {
+      de: ["Vegetation: Sehr dicht", "Klima: Kühler/Schattig", "Lage: Nahe der Mauern", "Zugang: Limitiert"],
+      hu: ["Növényzet: sűrű", "Klíma: hűvös/árnyékos", "Hely: északi fal mentén", "Használat: privát"],
+      ro: ["Vegetație: Densă", "Climat: Umbrit", "Locație: Zidul nordic", "Acces: Privat"],
+      en: ["Vegetation: Dense", "Climate: Shaded", "Location: North wall", "Access: Private"],
+    },
+    image: "/poi-images/vatican-gardens-northern-slope-relief-v2.webp",
+},  {
     id: "vatican-radio-station-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Plateau der Radiostation", hu: "Rádióállomás fennsík", ro: "Platoul stației radio", en: "Radio Station Plateau" },
+    name: { de: "Plateau der Radiostation", hu: "Rádióállomás fennsík", ro: "Platoul stației radio", en: "Radio Station Plateau",
+image: "/poi-images/vatican-radio-station-plateau-relief-v2.webp"
+},
     coords: [12.4478, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.4478 },
     description: {
@@ -497,11 +871,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Punct situat la înălțime", "Infrastructură tehnică", "Vedere spre suburbiile Romei", "Culmea vestică a dealului"],
       en: ["High-altitude point", "Technical infrastructure", "View of Rome's suburbs", "Western hill crest"],
     },
-    imageHint: "Vatican Radio station on the hill", image: "/poi-images/vatican-radio-station-plateau-relief-v2.webp"},
-  {
+imageHint: "Vatican Radio station on the hill",
+    descriptionAdvanced: {
+      de: "Dieses Plateau beherbergt die technischen Sendegebäude von Radio Vatikan, die für die globale Kommunikation des Heiligen Stuhls zuständig sind.",
+      hu: "Ez a fennsík a Vatikáni Rádió technikai épületeinek ad helyet, amelyek a Szentszék globális kommunikációjáért felelnek.",
+      ro: "Acest platou găzduiește clădirile tehnice ale Radio Vatican, responsabile pentru comunicarea globală a Sfântului Scaun.",
+      en: "This plateau hosts the technical broadcasting buildings of Vatican Radio, essential for the Holy See's global communications.",
+    },
+    factsAdvanced: {
+      de: ["Funktion: Funkstation", "Technik: Kurz/Mittelwelle", "Sprachen: über 40", "Sitz: Vatikanische Gärten"],
+      hu: ["Funkció: adóállomás", "Sugárzás: rövid/középhullám", "Nyelvek: >40", "Hely: kertek belseje"],
+      ro: ["Funcție: Stație emisie", "Tip undă: Scurte/Medii", "Limbi: peste 40", "Loc: Grădini"],
+      en: ["Function: Radio station", "Signal: Short/Medium wave", "Languages: 40+", "Location: Gardens"],
+    },
+    image: "/poi-images/vatican-radio-station-plateau-relief-v2.webp",
+},  {
     id: "vatican-belvedere-upper-terrace-relief-v2",
     type: "landmark",
-    name: { de: "Obere Belvedere-Terrasse", hu: "Felső Belvedere terasz", ro: "Terasa superioară Belvedere", en: "Upper Belvedere Terrace" },
+    name: { de: "Obere Belvedere-Terrasse", hu: "Felső Belvedere terasz", ro: "Terasa superioară Belvedere", en: "Upper Belvedere Terrace",
+image: "/poi-images/vatican-belvedere-upper-terrace-relief-v2.webp"
+},
     coords: [12.454, 41.9048],
     coordinates: { lat: 41.9048, lng: 12.454 },
     description: {
@@ -516,11 +905,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Terasare arhitecturală", "Zonă nordică a dealului", "Centru cultural", "Compensare de nivel"],
       en: ["Architectural terracing", "Northern hill area", "Cultural center", "Height compensation"],
     },
-    imageHint: "Courtyard of the Belvedere in Vatican", image: "/poi-images/vatican-belvedere-upper-terrace-relief-v2.webp"},
-  {
+imageHint: "Courtyard of the Belvedere in Vatican",
+    descriptionAdvanced: {
+      de: "Die obere Belvedere-Terrasse ist Teil des visionären Entwurfs von Bramante, der den Vatikanpalast mit der Villa Belvedere verband.",
+      hu: "A felső Belvedere-terasz Bramante látványos terveinek része, amely a vatikáni palotát kötötte össze a Belvedere-villával.",
+      ro: "Terasa superioară Belvedere face parte din proiectul vizionar al lui Bramante, legând palatul papal de Villa Belvedere.",
+      en: "The upper Belvedere terrace is part of Bramante's 16th-century design to link the Vatican Palace with the Villa Belvedere.",
+    },
+    factsAdvanced: {
+      de: ["Architekt: Donato Bramante", "Bauzeit: Ab 1506", "Stil: Hochrenaissance", "Lage: Ost-Achse"],
+      hu: ["Építész: D. Bramante", "Épült: 1506-tól", "Stílus: érett reneszánsz", "Tengely: keleti"],
+      ro: ["Arhitect: D. Bramante", "An: Din 1506", "Stil: Renaștere", "Cota: 35 metri"],
+      en: ["Architect: D. Bramante", "Started: 1506", "Style: High Renaissance", "Elevation: 35 meters"],
+    },
+    image: "/poi-images/vatican-belvedere-upper-terrace-relief-v2.webp",
+},  {
     id: "vatican-pigna-lower-terrace-relief-v2",
     type: "landmark",
-    name: { de: "Untere Pigna-Terrasse", hu: "Alsó Pigna terasz", ro: "Terasa inferioară Pigna", en: "Lower Pigna Terrace" },
+    name: { de: "Untere Pigna-Terrasse", hu: "Alsó Pigna terasz", ro: "Terasa inferioară Pigna", en: "Lower Pigna Terrace",
+image: "/poi-images/vatican-pigna-lower-terrace-relief-v2.webp"
+},
     coords: [12.4545, 41.906],
     coordinates: { lat: 41.906, lng: 12.4545 },
     description: {
@@ -535,11 +939,26 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cea mai nordică zonă plată", "În spatele conului de pin", "Substrat consolidat", "Fundațiile muzeului"],
       en: ["Northernmost flat area", "Behind the Pinecone", "Fortified ground", "Museum foundations"],
     },
-    imageHint: "Cortile della Pigna in Vatican Museums", image: "/poi-images/vatican-pigna-lower-terrace-relief-v2.webp"},
-  {
+imageHint: "Cortile della Pigna in Vatican Museums",
+    descriptionAdvanced: {
+      de: "Die untere Pigna-Terrasse beherbergt die antike Bronzestatue eines Pinienzapfens, die einst Teil eines römischen Brunnens war.",
+      hu: "Az alsó Pigna-terasz a monumentális bronz fenyőtobozról kapta nevét, amely egykor egy ókori római szökőkút dísze volt.",
+      ro: "Terasa inferioară Pigna adăpostește statuia antică din bronz a unui con de pin, care odinioară împodobea o fântână romană.",
+      en: "The lower Pigna terrace is named after the colossal bronze pine cone, an ancient Roman artifact once part of a fountain.",
+    },
+    factsAdvanced: {
+      de: ["Statue: Bronze-Pinienzapfen", "Alter: 1. Jahrhundert n. Chr.", "Herkunft: Marsfeld (Rom)", "Hof: Cortile della Pigna"],
+      hu: ["Szobor: bronz toboz", "Kor: i. sz. 1. század", "Eredet: Mars-mező", "Udvar neve: Pigna-udvar"],
+      ro: ["Statuie: Con de pin", "Datare: Secolul I d.Hr.", "Origine: Câmpul lui Marte", "Loc: Curtea Pigna"],
+      en: ["Statue: Bronze Pine Cone", "Date: 1st century AD", "Origin: Campus Martius", "Court: Pigna Court"],
+    },
+    image: "/poi-images/vatican-pigna-lower-terrace-relief-v2.webp",
+},  {
     id: "vatican-vatican-hill-foot-relief-v2",
     type: "landmark",
-    name: { de: "Fuß des Vatikanischen Hügels", hu: "Vatikán-domb lába", ro: "Baza Dealului Vaticanului", en: "Vatican Hill Foot" },
+    name: { de: "Fuß des Vatikanischen Hügels", hu: "Vatikán-domb lába", ro: "Baza Dealului Vaticanului", en: "Vatican Hill Foot",
+image: "/poi-images/vatican-vatican-hill-foot-relief-v2.webp"
+},
     coords: [12.4565, 41.9015],
     coordinates: { lat: 41.9015, lng: 12.4565 },
     description: {
@@ -555,5 +974,17 @@ export const vaticanReliefV2: POI[] = [
       en: ["Eastern hill edge", "Lower elevation", "Connection to Rome", "Transition to city level"],
     },
     imageHint: "Entrance to Vatican City from the square",
+    descriptionAdvanced: {
+      de: "Der Fuß des Vatikanischen Hügels markiert den Übergang von den Erhebungen zur Tiberebene, wo sich die modernen Zugangsbereiche befinden.",
+      hu: "A Vatikán-domb lába jelzi az átmenetet a dombság és a Tevere síksága között, ahol a mai bejárati zónák is elhelyezkednek.",
+      ro: "Baza Colinei Vatican marchează tranziția de la înălțimi spre câmpia Tibrului, zonă unde se află principalele căi de acces actuale.",
+      en: "The foot of the Vatican Hill marks the transition to the Tiber floodplain, where the modern entrances and access points are located.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Ostgrenze", "Höhe: ca. 20 Meter", "Zugang: Petersplatz/Museen", "Boden: Alluvial"],
+      hu: ["Hely: keleti határ", "Magasság: ~20 m", "Kapu: Szent Péter tér", "Talaj: hordalékos"],
+      ro: ["Loc: Limita estică", "Altitudine: 20 metri", "Acces: Piața Sf. Petru", "Sol: Aluvionar"],
+      en: ["Location: East border", "Elevation: ~20 meters", "Access: St. Peter's Sq", "Soil: Alluvial"],
+    },
   }
 ];

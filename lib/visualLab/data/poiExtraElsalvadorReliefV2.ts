@@ -7,7 +7,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.63, 13.83],
-    name: { de: "Cerro Verde", hu: "Cerro Verde", ro: "Cerro Verde", en: "Cerro Verde" },
+    name: { de: "Cerro Verde", hu: "Cerro Verde", ro: "Cerro Verde", en: "Cerro Verde",
+image: "/poi-images/sv-cerro-verde-relief-v2.webp"
+},
     description: { de: "Ein inaktiver Vulkan, der einen Nationalpark beherbergt.", hu: "Inaktív vulkán, amely egy nemzeti parknak ad otthont.", ro: "Un vulcan inactiv care găzduiește un parc național.", en: "An inactive volcano that houses a national park." },
     facts: {
       de: ["Höhe: 2.030 Meter.", "Teil des Ilamatepec-Vulkankomplexes.", "Üppige Vegetation im Krater.", "Panoramablick auf Izalco."],
@@ -35,7 +37,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.83, 13.59],
-    name: { de: "Vulkan San Vicente", hu: "San Vicente-vulkán", ro: "Vulcanul San Vicente", en: "San Vicente Volcano" },
+    name: { de: "Vulkan San Vicente", hu: "San Vicente-vulkán", ro: "Vulcanul San Vicente", en: "San Vicente Volcano",
+image: "/poi-images/sv-volcan-san-vicente-relief-v2.webp"
+},
     description: { de: "Ein beeindruckender Doppelgipfel-Vulkan.", hu: "Lenyűgöző kétcsúcsú vulkán.", ro: "Un vulcan impresionant cu vârf dublu.", en: "An impressive double-peaked volcano." },
     facts: {
       de: ["Höhe: 2.182 Meter.", "Auch Chichontepec genannt.", "Zwei markante Gipfel.", "Sichtbar aus weiten Teilen des Landes."],
@@ -63,7 +67,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.70, 13.91],
-    name: { de: "Cerro El Águila", hu: "Cerro El Águila", ro: "Cerro El Águila", en: "Cerro El Aguila" },
+    name: { de: "Cerro El Águila", hu: "Cerro El Águila", ro: "Cerro El Águila", en: "Cerro El Aguila",
+image: "/poi-images/sv-cerro-el-aguila-relief-v2.webp"
+},
     description: { de: "Ein bedeutender Berg in der Apaneca-Ilamatepec Bergkette.", hu: "Jelentős hegy az Apaneca-Ilamatepec hegyláncban.", ro: "Un munte important în lanțul muntos Apaneca-Ilamatepec.", en: "An important mountain in the Apaneca-Ilamatepec range." },
     facts: {
       de: ["Höhe: 2.036 Meter.", "Teil der Sierra de Apaneca.", "Umliegende Kaffeeplantagen.", "Reich an Biodiversität."],
@@ -91,7 +97,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.33, 13.43],
-    name: { de: "Chaparrastique Vulkan", hu: "Chaparrastique vulkán", ro: "Vulcanul Chaparrastique", en: "Chaparrastique Volcano" },
+    name: { de: "Chaparrastique Vulkan", hu: "Chaparrastique vulkán", ro: "Vulcanul Chaparrastique", en: "Chaparrastique Volcano",
+image: "/poi-images/sv-volcan-chaparrastique-relief-v2.webp"
+},
     description: { de: "Ein sehr aktiver und formschöner Vulkan im Osten.", hu: "Nagyon aktív és gyönyörű alakú vulkán keleten.", ro: "Un vulcan foarte activ și bine format la est.", en: "A very active and well-shaped volcano in the east." },
     facts: {
       de: ["Höhe: 2.130 Meter.", "Auch San Miguel Vulkan genannt.", "Regelmäßige Aktivität.", "Sehr steiler Kegel."],
@@ -119,7 +127,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.02, 13.63],
-    name: { de: "Cerro de Oro", hu: "Cerro de Oro", ro: "Cerro de Oro", en: "Cerro de Oro" },
+    name: { de: "Cerro de Oro", hu: "Cerro de Oro", ro: "Cerro de Oro", en: "Cerro de Oro",
+image: "/poi-images/sv-cerro-de-oro-relief-v2.webp"
+},
     description: { de: "Ein markanter Hügel nahe dem Ilopango-See.", hu: "Jellegzetes domb az Ilopango-tó közelében.", ro: "Un deal distinctiv lângă lacul Ilopango.", en: "A distinct hill near Lake Ilopango." },
     facts: {
       de: ["Vulkanischer Ursprung.", "Blick über den Ilopango-See.", "Umgeben von Wäldern.", "Lokales Wanderziel."],
@@ -147,7 +157,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.75, 13.90],
-    name: { de: "Sierra de Apaneca", hu: "Apaneca-hegység", ro: "Munții Apaneca", en: "Apaneca Range" },
+    name: { de: "Sierra de Apaneca", hu: "Apaneca-hegység", ro: "Munții Apaneca", en: "Apaneca Range",
+image: "/poi-images/sv-sierra-apaneca-relief-v2.webp"
+},
     description: { de: "Eine Bergkette, die für ihre Vulkan landscapes bekannt ist.", hu: "Hegylánc, amely vulkáni tájairól ismert.", ro: "Un lanț muntos cunoscut pentru peisajele sale vulcanice.", en: "A mountain range known for its volcanic landscapes." },
     facts: {
       de: ["Vulkanisches Hochland.", "Kühleres Klima.", "Zentrum des Kaffeeanbaus.", "Zahlreiche Kraterseen."],
@@ -175,7 +187,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.65, 13.82],
-    name: { de: "Cerro Cucurucho", hu: "Cerro Cucurucho", ro: "Cerro Cucurucho", en: "Cerro Cucurucho" },
+    name: { de: "Cerro Cucurucho", hu: "Cerro Cucurucho", ro: "Cerro Cucurucho", en: "Cerro Cucurucho",
+image: "/poi-images/sv-cerro-cucurucho-relief-v2.webp"
+},
     description: { de: "Ein Gipfel im Ilamatepec-Komplex.", hu: "San Salvador közelében emelkedő hegycsúcs, amely fontos kávétermelő terület és népszerű kirándulóhely a túrázók körében.", ro: "Un vârf în complexul Ilamatepec.", en: "A peak in the Ilamatepec complex." },
     facts: {
       de: ["Teil der Santa Ana-Vulkangruppe.", "Wandergebiet.", "Bewaldeter Gipfel.", "Region mit hoher Feuchtigkeit."],
@@ -203,7 +217,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.05, 13.69],
-    name: { de: "Cerro Las Pavas", hu: "Cerro Las Pavas", ro: "Cerro Las Pavas", en: "Cerro Las Pavas" },
+    name: { de: "Cerro Las Pavas", hu: "Cerro Las Pavas", ro: "Cerro Las Pavas", en: "Cerro Las Pavas",
+image: "/poi-images/sv-cerro-las-pavas-relief-v2.webp"
+},
     description: { de: "Ein Aussichtspunkt über das Tal.", hu: "Cojutepeque mellett található domb, amely vallási jelentőségéről és a tetején elhelyezett Fatima szűz kegyhelyéről nevezetes.", ro: "Un punct de observație deasupra văii.", en: "A viewpoint overlooking the valley." },
     facts: {
       de: ["Bekannt für die Marienstatue.", "Blick auf Cojutepeque.", "Hügeliges Gelände.", "Beliebt bei Touristen."],
@@ -231,7 +247,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.50, 13.50],
-    name: { de: "Sierra de Tecapa", hu: "Tecapa-hegység", ro: "Munții Tecapa", en: "Tecapa Range" },
+    name: { de: "Sierra de Tecapa", hu: "Tecapa-hegység", ro: "Munții Tecapa", en: "Tecapa Range",
+image: "/poi-images/sv-sierra-tecapa-relief-v2.webp"
+},
     description: { de: "Ein Vulkan-Bergland mit heißen Quellen.", hu: "Usulután megyében húzódó hegyvonulat, amelynek szívében a Tecapa-vulkán és a smaragdzöld Alegría-lagúna található.", ro: "Un munte vulcanic cu izvoare termale.", en: "A volcanic mountain area with hot springs." },
     facts: {
       de: ["Vulkan Tecapa.", "Heiße Quellen (Alegria).", "Bewaldet.", "Geothermisches Gebiet."],
@@ -259,7 +277,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.20, 13.49],
-    name: { de: "Cerro El Baúl", hu: "Cerro El Baúl", ro: "Cerro El Baúl", en: "Cerro El Baul" },
+    name: { de: "Cerro El Baúl", hu: "Cerro El Baúl", ro: "Cerro El Baúl", en: "Cerro El Baul",
+image: "/poi-images/sv-cerro-el-baul-relief-v2.webp"
+},
     description: { de: "Ein markanter Hügel in San Miguel.", hu: "Santa Ana megye egyik jellegzetes magaslata, amely a környező mezőgazdasági síkságok fölé emelkedik.", ro: "Un deal distinctiv în San Miguel.", en: "A distinct hill in San Miguel." },
     facts: {
       de: ["Überblick über San Miguel.", "Kurze Wanderung.", "Trockene Vegetation.", "Stadtnahes Erholungsgebiet."],
@@ -287,7 +307,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.35, 13.85],
-    name: { de: "Cerro Quilama", hu: "Cerro Quilama", ro: "Cerro Quilama", en: "Cerro Quilama" },
+    name: { de: "Cerro Quilama", hu: "Cerro Quilama", ro: "Cerro Quilama", en: "Cerro Quilama",
+image: "/poi-images/sv-cerro-quilama-relief-v2.webp"
+},
     description: { de: "Ein Gipfel im Osten des Landes.", hu: "La Libertad megyében fekvő hegy, amely a part menti hegylánc része, és gazdag biodiverzitásáról ismert.", ro: "Un vârf în partea de est a țării.", en: "A peak in the eastern part of the country." },
     facts: {
       de: ["Unberührte Natur.", "Wenig frequentiert.", "Trockenwald.", "Gute Aussicht."],
@@ -315,7 +337,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.75, 14.15],
-    name: { de: "Cerro Coyolito", hu: "Cerro Coyolito", ro: "Cerro Coyolito", en: "Cerro Coyolito" },
+    name: { de: "Cerro Coyolito", hu: "Cerro Coyolito", ro: "Cerro Coyolito", en: "Cerro Coyolito",
+image: "/poi-images/sv-cerro-coyolito-relief-v2.webp"
+},
     description: { de: "Ein Berg im Norden El Salvadors.", hu: "Chalatenango megyében található hegycsúcs, amelyről lenyűgöző kilátás nyílik a Cerrón Grande-víztározóra.", ro: "Un munte în nordul El Salvador.", en: "A mountain in the north of El Salvador." },
     facts: {
       de: ["Grenznähe.", "Bergige Landschaft.", "Nadelbäume.", "Ideal für Trekking."],
@@ -343,7 +367,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.45, 13.95],
-    name: { de: "Cerro La Pava", hu: "Cerro La Pava", ro: "Cerro La Pava", en: "Cerro La Pava" },
+    name: { de: "Cerro La Pava", hu: "Cerro La Pava", ro: "Cerro La Pava", en: "Cerro La Pava",
+image: "/poi-images/sv-cerro-la-pava-relief-v2.webp"
+},
     description: { de: "Ein Gipfel im Westen.", hu: "Kisebb magaslat a központi régióban, amely nevét a területen egykor gyakori erdei madarakról kapta.", ro: "Un vârf în partea de vest.", en: "A peak in the west." },
     facts: {
       de: ["Teil des Gebirgszuges.", "Wanderwege.", "Kaffeeanbau in der Nähe.", "Schöne Aussichten."],
@@ -371,7 +397,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.55, 13.45],
-    name: { de: "Cerro El Taburete", hu: "Cerro El Taburete", ro: "Cerro El Taburete", en: "Cerro El Taburete" },
+    name: { de: "Cerro El Taburete", hu: "Cerro El Taburete", ro: "Cerro El Taburete", en: "Cerro El Taburete",
+image: "/poi-images/sv-cerro-el-taburete-relief-v2.webp"
+},
     description: { de: "Ein erloschener Vulkan.", hu: "Az Usulután-vulkáncsoport tagja, egy kialudt vulkáni kúp, amely fontos ökológiai szerepet tölt be a régióban.", ro: "Un vulcan stins.", en: "An extinct volcano." },
     facts: {
       de: ["Höhe: 1.173 Meter.", "Teil des vulkanischen Bogens.", "Bewaldet.", "Wanderregion."],
@@ -399,7 +427,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.25, 13.75],
-    name: { de: "Cerro Cacahuatique", hu: "Cerro Cacahuatique", ro: "Cerro Cacahuatique", en: "Cerro Cacahuatique" },
+    name: { de: "Cerro Cacahuatique", hu: "Cerro Cacahuatique", ro: "Cerro Cacahuatique", en: "Cerro Cacahuatique",
+image: "/poi-images/sv-cerro-cacahuatique-relief-v2.webp"
+},
     description: { de: "Ein bedeutender Berg in Morazán.", hu: "Morazán megye legfontosabb hegye, amely távközlési tornyairól és az ország egyik legjobb minőségű kávétermő vidékéről híres.", ro: "Un munte important în Morazán.", en: "An important mountain in Morazan." },
     facts: {
       de: ["Höhe: 1.663 Meter.", "Funkmast am Gipfel.", "Kühles Klima.", "Panoramablick auf Osten."],
@@ -427,7 +457,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "forest",
     parent: "SV",
     coords: [-89.95, 13.80],
-    name: { de: "Tiefland-Regenwald", hu: "Alföldi esőerdő", ro: "Pădure tropicală de câmpie", en: "Lowland Rainforest" },
+    name: { de: "Tiefland-Regenwald", hu: "Alföldi esőerdő", ro: "Pădure tropicală de câmpie", en: "Lowland Rainforest",
+image: "/poi-images/sv-bosque-el-imposible-relief-v2.webp"
+},
     description: { de: "Ein dichtes Waldgebiet im Nationalpark.", hu: "Sűrű erdőterület a nemzeti parkban.", ro: "O zonă forestieră densă în parcul național.", en: "A dense forest area within the national park." },
     facts: {
       de: ["Hohe Luftfeuchtigkeit.", "Große Baumvielfalt.", "Heimat seltener Tiere.", "Naturschutzgebiet."],
@@ -455,7 +487,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "forest",
     parent: "SV",
     coords: [-89.36, 14.43],
-    name: { de: "Hochland-Nebelwald", hu: "Magasföldi felhőerdő", ro: "Pădure de ceață montană", en: "Highland Cloud Forest" },
+    name: { de: "Hochland-Nebelwald", hu: "Magasföldi felhőerdő", ro: "Pădure de ceață montană", en: "Highland Cloud Forest",
+image: "/poi-images/sv-bosque-montecristo-relief-v2.webp"
+},
     description: { de: "Ein feuchter Bergwald auf den Gipfeln.", hu: "Az El Salvador, Guatemala és Honduras határán fekvő köderdő, amely Közép-Amerika egyik legfontosabb természetvédelmi területe.", ro: "O pădure montană umedă pe culmi.", en: "A moist mountain forest on the peaks." },
     facts: {
       de: ["Konstanter Nebel.", "Moose und Farne.", "Besondere Tierwelt.", "Schutzgebiet."],
@@ -483,7 +517,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.45, 13.65],
-    name: { de: "Cerro Teotepeque", hu: "Cerro Teotepeque", ro: "Cerro Teotepeque", en: "Cerro Teotepeque" },
+    name: { de: "Cerro Teotepeque", hu: "Cerro Teotepeque", ro: "Cerro Teotepeque", en: "Cerro Teotepeque",
+image: "/poi-images/sv-cerro-teotepeque-relief-v2.webp"
+},
     description: { de: "Ein Hügel in Küstennähe.", hu: "La Libertad megye hegyvidéki területén emelkedő magaslat, amely a parti hegylánc (Cordillera del Bálsamo) része.", ro: "Un deal lângă coastă.", en: "A hill near the coast." },
     facts: {
       de: ["Blick auf den Pazifik.", "Geringe Höhe.", "Wandergebiet.", "Typisch tropisch."],
@@ -511,7 +547,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.60, 13.85],
-    name: { de: "Cerro Azul", hu: "Cerro Azul", ro: "Cerro Azul", en: "Cerro Azul" },
+    name: { de: "Cerro Azul", hu: "Cerro Azul", ro: "Cerro Azul", en: "Cerro Azul",
+image: "/poi-images/sv-volcan-cerro-azul-relief-v2.webp"
+},
     description: { de: "Ein Bergmassiv in der Santa-Ana-Region.", hu: "Santa Ana megyében található kialudt vulkán, amely a Coatepeque-tó környéki vulkáni láncolathoz tartozik.", ro: "Un masiv muntos în regiunea Santa Ana.", en: "A mountain massif in the Santa Ana region." },
     facts: {
       de: ["Teil des Gebirgskomplexes.", "Bewaldet.", "Wanderwege.", "Kühl."],
@@ -539,7 +577,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.70, 13.55],
-    name: { de: "Cerro El Mico", hu: "Cerro El Mico", ro: "Cerro El Mico", en: "Cerro El Mico" },
+    name: { de: "Cerro El Mico", hu: "Cerro El Mico", ro: "Cerro El Mico", en: "Cerro El Mico",
+image: "/poi-images/sv-cerro-el-mico-relief-v2.webp"
+},
     description: { de: "Ein Gipfel nahe der Küste.", hu: "Ahuachapán megye hegyes vidékén található domborzati forma, amely fontos szerepet játszik a helyi vízbázis megőrzésében.", ro: "Un vârf aproape de coastă.", en: "A peak near the coast." },
     facts: {
       de: ["In der Nähe von San Vicente.", "Hügelig.", "Trockenwald.", "Gute Aussicht."],
@@ -567,7 +607,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.50, 13.90],
-    name: { de: "Cerro El Pilón", hu: "Cerro El Pilón", ro: "Cerro El Pilón", en: "Cerro El Pilon" },
+    name: { de: "Cerro El Pilón", hu: "Cerro El Pilón", ro: "Cerro El Pilón", en: "Cerro El Pilon",
+image: "/poi-images/sv-cerro-el-pilon-relief-v2.webp"
+},
     description: { de: "Ein Berg im Westen.", hu: "Az Apaneca-Ilamatepec bioszféra rezervátum része Santa Ana megyében, ahol az ország legmagasabb minőségű kávéit termesztik.", ro: "Cerro El Pilón este un vârf montan proeminent ce face parte din lanțul muntos Apaneca-Ilamatepec. Oferă vederi panoramice asupra plantațiilor de cafea și a vulcanilor din jur.", en: "A mountain in the west." },
     facts: {
       de: ["Wandergebiet.", "Bewaldet.", "In der Nähe von Chalchuapa.", "Blick auf Täler."],
@@ -595,7 +637,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-89.30, 14.35],
-    name: { de: "Alotepeque", hu: "Alotepeque", ro: "Alotepeque", en: "Alotepeque" },
+    name: { de: "Alotepeque", hu: "Alotepeque", ro: "Alotepeque", en: "Alotepeque",
+image: "/poi-images/sv-volcan-alotepeque-relief-v2.webp"
+},
     description: { de: "Eine Bergregion im Norden.", hu: "Chalatenango és Santa Ana megyék határán fekvő vulkáni hegy, amely bányászati múltjáról, különösen ezüstkészleteiről ismert.", ro: "O regiune muntoasă în nord.", en: "A mountain region in the north." },
     facts: {
       de: ["Hohe Lage.", "Kühl.", "Abgelegen.", "Natur pur."],
@@ -623,7 +667,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.90, 13.70],
-    name: { de: "Cerro El Coyol", hu: "Cerro El Coyol", ro: "Cerro El Coyol", en: "Cerro El Coyol" },
+    name: { de: "Cerro El Coyol", hu: "Cerro El Coyol", ro: "Cerro El Coyol", en: "Cerro El Coyol",
+image: "/poi-images/sv-cerro-el-coyol-relief-v2.webp"
+},
     description: { de: "Ein kleiner Berg nahe der Hauptstadt.", hu: "A központi régió egyik jellegzetes dombja, amely nevét a területen őshonos coyol pálmáról kapta.", ro: "Cerro El Coyol este o formațiune muntoasă situată în regiunea centrală a statului El Salvador. Zona este caracterizată prin vegetație tropicală și relief accidentat.", en: "A small mountain near the capital." },
     facts: {
       de: ["Kurzer Aufstieg.", "Aussicht.", "Trocken.", "Wochenendziel."],
@@ -651,7 +697,9 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     type: "mountain",
     parent: "SV",
     coords: [-88.60, 13.80],
-    name: { de: "Cerro Tontol", hu: "Cerro Tontol", ro: "Cerro Tontol", en: "Cerro Tontol" },
+    name: { de: "Cerro Tontol", hu: "Cerro Tontol", ro: "Cerro Tontol", en: "Cerro Tontol",
+image: "/poi-images/sv-cerro-tontol-relief-v2.webp"
+},
     description: { de: "Ein Gipfel im Zentralgebiet.", hu: "Chalatenango megye északi, határmenti hegyvidékén található csúcs, amely vadregényes tájaival a természetjárók kedvelt célpontja.", ro: "Cerro Tontol este un vârf muntos situat în departamentul Chalatenango, în apropierea frontierei cu Honduras. Regiunea este cunoscută pentru climatul său mai răcoros și pădurile de pini.", en: "A peak in the central region." },
     facts: {
       de: ["Hügelig.", "Landwirtschaft.", "Grün.", "Gute Wanderwege."],

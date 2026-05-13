@@ -11,8 +11,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Cristo Redentor",
       hu: "A Megv\\\\u00e1lt\\\\u00f3 Krisztus szobra",
       ro: "Cristos M\\\\u00e2ntuitorul",
-      en: "Christ the Redeemer"
-    },
+      en: "Christ the Redeemer",
+image: "/poi-images/br-rj-cristo-redentor-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Christusstatue 'Cristo Redentor' thront auf dem Berg Corcovado in Rio de Janeiro und ist eines der modernen Weltwunder. Die 30 Meter hohe Statue wurde 1931 fertiggestellt und gilt als das bedeutendste Wahrzeichen Brasiliens. Sie bietet einen unvergleichlichen Blick über die Stadt und die Bucht und ist ein Symbol für die kulturelle und religiöse Identität des Landes. Geschichte K8 – Bauwerke des 20. Jahrhunderts.",
       hu: "A Megváltó Krisztus szobra Rio de Janeiro jelképe, amely a Corcovado-hegy tetején állva tekint le a városra. Az 1931-ben átadott, art déco stílusú szobor Brazília egyik legismertebb kulturális szimbóluma, és a világ hét új csodájának egyike. A szoborhoz vezető út és a kilátás a városra felejthetetlen élményt nyújt minden látogatónak. Történelem K8 – modern szimbólumok.",
@@ -42,8 +43,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Maracan\\\\u00e3-Stadion",
       hu: "Maracan\\\\u00e3 Stadion",
       ro: "Stadionul Maracan\\\\u00e3",
-      en: "Maracan\\\\u00e3 Stadium"
-    },
+      en: "Maracan\\\\u00e3 Stadium",
+image: "/poi-images/br-rj-maracana-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Maracanã-Stadion in Rio de Janeiro ist eine der legendärsten Sportstätten der Welt und ein Symbol für die brasilianische Leidenschaft für Fußball. Es wurde für die Weltmeisterschaft 1950 gebaut und hat bei zahlreichen historischen Finalspielen als Bühne gedient. Mit seiner monumentalen Architektur ist es ein fester Bestandteil der Sportgeschichte und der Identität Rios. Geschichte K8 – Sporthistorie des 20. Jahrhunderts.",
       hu: "A Maracanã Stadion Rio de Janeiro szívében Brazília focikultúrájának központja, amely számos történelmi jelentőségű mérkőzésnek és világbajnoki döntőnek adott otthont. Az 1950-es évektől a nemzeti büszkeség jelképe, ma modernizált arénaként fogadja a látogatókat és a rajongókat. Brazília sporttörténetének egyik legmeghatározóbb építménye. Sport K6 – stadionok.",
@@ -74,8 +76,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Kathedrale von Bras\\\\u00edlia",
       hu: "Braz\\\\u00edliav\\\\u00e1rosi katedr\\\\u00e1lis",
       ro: "Catedrala din Bras\\\\u00edlia",
-      en: "Cathedral of Bras\\\\u00edlia"
-    },
+      en: "Cathedral of Bras\\\\u00edlia",
+image: "/poi-images/br-df-catedral-brasilia-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Brasília-i Székesegyház, Oscar Niemeyer építész egyik legkifejezőbb munkája, egy hiperboloid szerkezetű modernista építmény. A katedrális tizenhat betonpillére az ég felé törő kezeket jelképezi, miközben a belső teret színes üvegablakok teszik fényessé és spirituálissá. Az épület Brazília fővárosának vallási és építészeti központja. Művészet K8 – modern építészet.",
       en: "The Cathedral of Brasília is an architectural masterpiece designed by Oscar Niemeyer as a place of worship for the new capital. Its striking design features 16 hyperbolic columns reaching toward the sky, crowned by a massive glass roof that floods the interior with natural light. The structure stands as a testament to the bold modernism that defines Brasília's unique urban character. Geography K7 – architectural modernism."
@@ -105,8 +108,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Pal\\\\u00e1cio do Planalto",
       hu: "Pal\\\\u00e1cio do Planalto",
       ro: "Palatul Planalto",
-      en: "Pal\\\\u00e1cio do Planalto"
-    },
+      en: "Pal\\\\u00e1cio do Planalto",
+image: "/poi-images/br-df-palacio-planalto-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Palácio do Planalto a brazil köztársasági elnök hivatalos munkahelye, amely Brasília központjában, a Három Hatalom terén helyezkedik el. A modernista stílusú, letisztult épület az ország kormányzati központja, amely Oscar Niemeyer tervei alapján készült. A nemzeti politika színtere és a brazil demokrácia szimbóluma. Történelem K8 – kormányzati épületek.",
       en: "The Palácio do Planalto is the official workplace of the President of Brazil, located on the Three Powers Plaza in Brasília. Designed by Oscar Niemeyer, the building is renowned for its sleek, modernist style and its soaring, wing-like columns that give the structure a sense of weightlessness. It is the political heart of the nation and a key icon of Brazilian modern architecture. Geography K7 – governance and administrative centers."
@@ -136,8 +140,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Nationalkongress Brasiliens",
       hu: "Brazil Nemzeti Kongresszus",
       ro: "Congresul Na\\\\u021bional al Braziliei",
-      en: "National Congress of Brazil"
-    },
+      en: "National Congress of Brazil",
+image: "/poi-images/br-df-congresso-nacional-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A brazil Nemzeti Kongresszus épülete Brasília egyik leglátványosabb modernista alkotása, két kupolával, amelyek a képviselőházat és a szenátust jelképezik. A komplexum szintén Oscar Niemeyer terveit dicséri, és a Három Hatalom terének domináns eleme. A brazil politikai élet és törvényhozás központja, a főváros látképének elmaradhatatlan része. Történelem K8 – törvényhozás.",
       en: "The National Congress building in Brasília is one of the most recognizable icons of Brazil's capital, housing both the Senate and the Chamber of Deputies. Oscar Niemeyer's design is famous for its twin towers and the contrasting geometric shapes of the domes—one concave, representing the Senate, and one convex, representing the House of Representatives. It is a defining feature of the country's modernist political landscape. Geography K7 – administrative and institutional architecture."
@@ -166,8 +171,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Oct\\\\u00e1vio-Frias-de-Oliveira-Br\\\\u00fccke",
       hu: "Oct\\\\u00e1vio Frias de Oliveira h\\\\u00edd",
       ro: "Podul Oct\\\\u00e1vio Frias de Oliveira",
-      en: "Oct\\\\u00e1vio Frias de Oliveira Bridge"
-    },
+      en: "Oct\\\\u00e1vio Frias de Oliveira Bridge",
+image: "/poi-images/br-sp-ponte-estaiada-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Ponte Estaiada (Octávio Frias de Oliveira híd) São Paulo modern közlekedési infrastruktúrájának ikonikus eleme, amely az 'X' alakú tornyával válik felismerhetővé. A híd az éjszakai kivilágításával a város egyik legnépszerűbb fotótémája és technológiai mérföldkő. Fontos összeköttetést biztosít São Paulo két nagy sugárútja között. Földrajz K7 – infrastruktúra."
     },
@@ -196,8 +202,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Kunstmuseum S\\\\u00e3o Paulo (MASP)",
       hu: "S\\\\u00e3o Paulo-i M\\\\u0171v\\\\u00e9szeti M\\\\u00fazeum",
       ro: "Muzeul de Art\\\\u0103 din S\\\\u00e3o Paulo",
-      en: "S\\\\u00e3o Paulo Museum of Art"
-    },
+      en: "S\\\\u00e3o Paulo Museum of Art",
+image: "/poi-images/br-sp-masp-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A MASP (São Paulo-i Művészeti Múzeum) az Avenida Paulistán található, a világhírű múzeumépület négy hatalmas vörös oszlopon nyugszik, ami az építészet modern csodája. A múzeum gyűjteménye a legnagyobb ilyen jellegű gyűjtemény az egész déli féltekén. A város kulturális életének és művészeti oktatásának központja. Művészet K8 – múzeumok."
     },
@@ -226,8 +233,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Elevador Lacerda",
       hu: "Lacerda felvon\\\\u00f3",
       ro: "Ascensorul Lacerda",
-      en: "Lacerda Elevator"
-    },
+      en: "Lacerda Elevator",
+image: "/poi-images/br-ba-elevador-lacerda-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "Az Elevador Lacerda Salvador történelmi központjában egy hatalmas lift, amely az Alsóvárost és a Felsővárost (Pelourinho) köti össze. Ez volt a világ első nyilvános liftje, amelyet városi közlekedési céllal építettek, és ma is Salvador egyik legfontosabb közlekedési eszköze. A liftből gyönyörű kilátás nyílik a Mindenszentek öblére. Történelem K8 – közlekedéstörténet."
     },
@@ -255,8 +263,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Steinkathedrale von Canela",
       hu: "Canelai K\\\\u0151katedr\\\\u00e1lis",
       ro: "Catedrala de Piatr\\\\u0103 din Canela",
-      en: "Cathedral of Stone in Canela"
-    },
+      en: "Cathedral of Stone in Canela",
+image: "/poi-images/br-rs-catedral-pedra-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Catedral de Pedra (Kőszékesegyház) Canela városában, Rio Grande do Sul államban, neogótikus stílusával és magas tornyával tűnik ki. Az épület a déli régió egyik legszebb vallási műemléke, különösen esténként, amikor színes fényekkel világítják meg. A turisták kedvelt célpontja a Gramado-Canela régióban. Földrajz K6 – déli régió műemlékei."
     },
@@ -284,8 +293,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Museum von Morgen",
       hu: "A Holnap M\\\\u00fazeuma",
       ro: "Muzeul M\\\\u00e2inelor",
-      en: "Museum of Tomorrow"
-    },
+      en: "Museum of Tomorrow",
+image: "/poi-images/br-rj-museu-amanha-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       hu: "A Holnap Múzeuma (Museu do Amanhã) Rio de Janeiro kikötőjében egy futurisztikus épület, amely a tudományra és a fenntartható jövőre összpontosít. Santiago Calatrava spanyol építész tervei alapján készült, a múzeum interaktív kiállításaival vizsgálja a klímaváltozást és az emberiség jövőjét. A modern Rio egyik legfontosabb kulturális fejlesztése. Tudomány K7 – jövőkutatás."
     },
@@ -313,8 +323,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Nationalheiligtum Unserer Lieben Frau von Aparecida",
       hu: "Aparecidai Miasszonyunk Nemzeti Szent\\\\u00e9lye",
       ro: "Sanctuarul Na\\\\u021bional al Maicii Domnului din Aparecida",
-      en: "National Sanctuary of Our Lady of Aparecida"
-    },
+      en: "National Sanctuary of Our Lady of Aparecida",
+image: "/poi-images/br-sp-santuario-aparecida-landmarks-v2.webp"
+},
     description: {
       de: "Die zweitgr\\\\u00f6\\\\u00dfte katholische Kirche der Welt und das wichtigste Pilgerziel in Brasilien.",
       hu: "A vil\\\\u00e1g m\\\\u00e1sodik legnagyobb katolikus temploma \\\\u00e9s a legfontosabb zar\\\\u00e1ndokhely Braz\\\\u00edli\\\\u00e1ban.",
@@ -348,8 +359,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Herc\\\\u00edlio-Luz-Br\\\\u00fccke",
       hu: "Herc\\\\u00edlio Luz h\\\\u00edd",
       ro: "Podul Herc\\\\u00edlio Luz",
-      en: "Herc\\\\u00edlio Luz Bridge"
-    },
+      en: "Herc\\\\u00edlio Luz Bridge",
+image: "/poi-images/br-sc-ponte-hercilio-luz-landmarks-v2.webp"
+},
     description: {
       de: "Die \\\\u00e4lteste H\\\\u00e4ngebr\\\\u00fccke Brasiliens, die die Insel Santa Catarina mit dem Festland verbindet.",
       hu: "Braz\\\\u00edlia legr\\\\u00e9gebbi f\\\\u00fcgg\\\\u0151h\\\\u00eddja, amely Santa Catarina sziget\\\\u00e9t k\\\\u00f6ti \\\\u00f6ssze a sz\\\\u00e1razf\\\\u00f6lddel.",
@@ -383,8 +395,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Edif\\\\u00edcio Copan",
       hu: "Copan \\\\u00e9p\\\\u00fclet",
       ro: "Cl\\\\u0103direa Copan",
-      en: "Edif\\\\u00edcio Copan"
-    },
+      en: "Edif\\\\u00edcio Copan",
+image: "/poi-images/br-sp-edificio-copan-landmarks-v2.webp"
+},
     description: {
       de: "Ein geschwungenes, riesiges Wohnhaus im Zentrum von S\\\\u00e3o Paulo, entworfen von Oscar Niemeyer.",
       hu: "Hatalmas, hull\\\\u00e1mz\\\\u00f3 vonal\\\\u00fa lak\\\\u00f3\\\\u00e9p\\\\u00fclet S\\\\u00e3o Paulo k\\\\u00f6zpontj\\\\u00e1ban, Oscar Niemeyer alkot\\\\u00e1sa.",
@@ -419,8 +432,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Pal\\\\u00e1cio da Alvorada",
       hu: "Alvorada Palota",
       ro: "Palatul Alvorada",
-      en: "Pal\\\\u00e1cio da Alvorada"
-    },
+      en: "Pal\\\\u00e1cio da Alvorada",
+image: "/poi-images/br-df-palacio-alvorada-landmarks-v2.webp"
+},
     description: {
       de: "Die offizielle Residenz des brasilianischen Pr\\\\u00e4sidenten, bekannt f\\\\u00fcr ihre eleganten, wei\\\\u00dfen S\\\\u00e4ulen.",
       hu: "A brazil eln\\\\u00f6k hivatalos rezidenci\\\\u00e1ja, amely eleg\\\\u00e1ns feh\\\\u00e9r oszlopair\\\\u00f3l ismert.",
@@ -455,8 +469,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Leuchtturm von Santa Marta",
       hu: "Santa Marta vil\\\\u00e1g\\\\u00edt\\\\u00f3torony",
       ro: "Farul din Santa Marta",
-      en: "Santa Marta Lighthouse"
-    },
+      en: "Santa Marta Lighthouse",
+image: "/poi-images/br-sc-farol-santa-marta-landmarks-v2.webp"
+},
     description: {
       de: "Ein malerischer Leuchtturm in Laguna, einer der leistungsst\\\\u00e4rksten in ganz S\\\\u00fcdamerika.",
       hu: "Fest\\\\u0151i vil\\\\u00e1g\\\\u00edt\\\\u00f3torony Lagun\\\\u00e1ban, amely az egyik leger\\\\u0151sebb eg\\\\u00e9sz D\\\\u00e9l-Amerik\\\\u00e1ban.",
@@ -490,8 +505,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Monument der Bandeirantes",
       hu: "A Bandeirantek eml\\\\u00e9km\\\\u0171ve",
       ro: "Monumentul Bandeirantes",
-      en: "Monument to the Bandeiras"
-    },
+      en: "Monument to the Bandeiras",
+image: "/poi-images/br-sp-monumento-bandeiras-landmarks-v2.webp"
+},
     description: {
       de: "Eine riesige Granitskulptur im Ibirapuera-Park, die an die Expeditionen ins Innere Brasiliens erinnert.",
       hu: "Hatalmas gr\\\\u00e1nitszobor az Ibirapuera parkban, amely a Braz\\\\u00edlia belsej\\\\u00e9be ind\\\\u00edtott exped\\\\u00edci\\\\u00f3knak \\\\u00e1ll\\\\u00edt eml\\\\u00e9ket.",
@@ -525,8 +541,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Gew\\\\u00e4chshaus des Botanischen Gartens",
       hu: "Botanikus kert \\\\u00fcvegh\\\\u00e1za",
       ro: "Sera Gr\\\\u0103dinii Botanice din Curitiba",
-      en: "Greenhouse of the Botanical Garden"
-    },
+      en: "Greenhouse of the Botanical Garden",
+image: "/poi-images/br-pr-estufa-curitiba-landmarks-v2.webp"
+},
     description: {
       de: "Ein wundersch\\\\u00f6nes Gew\\\\u00e4chshaus im Art-nouveau-Stil, das zum architektonischen Symbol von Curitiba wurde.",
       hu: "Gy\\\\u00f6ny\\\\u00f6r\\\\u0171 art nouveau st\\\\u00edlus\\\\u00fa \\\\u00fcvegh\\\\u00e1z, amely Curitiba \\\\u00e9p\\\\u00edt\\\\u00e9szeti szimb\\\\u00f3lum\\\\u00e1v\\\\u00e1 v\\\\u00e1lt.",
@@ -560,8 +577,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "St\\\\u00e4dtischer Markt von S\\\\u00e3o Paulo",
       hu: "S\\\\u00e3o Paulo-i V\\\\u00e1rosi Piac",
       ro: "Pia\\\\u021ba Municipal\\\\u0103 din S\\\\u00e3o Paulo",
-      en: "Municipal Market of S\\\\u00e3o Paulo"
-    },
+      en: "Municipal Market of S\\\\u00e3o Paulo",
+image: "/poi-images/br-sp-mercadao-landmarks-v2.webp"
+},
     description: {
       de: "Ein ber\\\\u00fchmtes historisches Marktgeb\\\\u00e4ude, bekannt f\\\\u00fcr riesige Mortadella-Sandwiches und sch\\\\u00f6ne Buntglasfenster.",
       hu: "H\\\\u00edres t\\\\u00f6rt\\\\u00e9nelmi piac\\\\u00e9p\\\\u00fclet, amely hatalmas mortadell\\\\u00e1s szendvicseir\\\\u0151l \\\\u00e9s gy\\\\u00f6ny\\\\u00f6r\\\\u0171 \\\\u00f3lom\\\\u00fcveg ablakair\\\\u00f3l ismert.",
@@ -596,8 +614,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Obelisk von Ibirapuera",
       hu: "Ibirapuera obeliszk",
       ro: "Obeliscul din Ibirapuera",
-      en: "Obelisk of S\\\\u00e3o Paulo"
-    },
+      en: "Obelisk of S\\\\u00e3o Paulo",
+image: "/poi-images/br-sp-obelisco-ibirapuera-landmarks-v2.webp"
+},
     description: {
       de: "Ein beeindruckendes Monument zur Erinnerung an die konstitutionelle Revolution von 1932 in S\\\\u00e3o Paulo.",
       hu: "L\\\\u00e1tv\\\\u00e1nyos eml\\\\u00e9km\\\\u0171, amely az 1932-es S\\\\u00e3o Paulo-i alkotm\\\\u00e1nyos forradalomnak \\\\u00e1ll\\\\u00edt eml\\\\u00e9ket.",
@@ -632,8 +651,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Stadttheater von Rio de Janeiro",
       hu: "Rio de Janeiro-i V\\\\u00e1rosi Sz\\\\u00ednh\\\\u00e1z",
       ro: "Teatrul Municipal din Rio de Janeiro",
-      en: "Municipal Theater of Rio de Janeiro"
-    },
+      en: "Municipal Theater of Rio de Janeiro",
+image: "/poi-images/br-rj-theatro-municipal-landmarks-v2.webp"
+},
     description: {
       de: "Eines der sch\\\\u00f6nsten Opernh\\\\u00e4user Brasiliens im eklektischen Stil nahe dem Zentrum von Rio.",
       hu: "Braz\\\\u00edlia egyik legszebb, eklektikus st\\\\u00edlus\\\\u00fa operah\\\\u00e1za Rio k\\\\u00f6zpontj\\\\u00e1nak k\\\\u00f6zel\\\\u00e9ben.",
@@ -667,8 +687,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Aqu\\\\u00e4dukt von Carioca (Arcos da Lapa)",
       hu: "Carioca v\\\\u00edzvezet\\\\u00e9k (Arcos da Lapa)",
       ro: "Apeductul Carioca (Arcos da Lapa)",
-      en: "Carioca Aqueduct (Arcos da Lapa)"
-    },
+      en: "Carioca Aqueduct (Arcos da Lapa)",
+image: "/poi-images/br-rj-arcos-lapa-landmarks-v2.webp"
+},
     description: {
       de: "Ein riesiges historisches Aqu\\\\u00e4dukt im Kolonialstil, das heute als Stra\\\\u00dfenbahnbr\\\\u00fccke im Viertel Lapa dient.",
       hu: "Hatalmas, gyarmati st\\\\u00edlus\\\\u00fa t\\\\u00f6rt\\\\u00e9nelmi v\\\\u00edzvezet\\\\u00e9k, amely ma villamosh\\\\u00eddk\\\\u00e9nt szolg\\\\u00e1l a Lapa negyedben.",
@@ -702,8 +723,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Mineir\\\\u00e3o-Stadion",
       hu: "Mineir\\\\u00e3o Stadion",
       ro: "Stadionul Mineir\\\\u00e3o",
-      en: "Mineir\\\\u00e3o Stadium"
-    },
+      en: "Mineir\\\\u00e3o Stadium",
+image: "/poi-images/br-mg-mineirao-landmarks-v2.webp"
+},
     description: {
       de: "Das gr\\\\u00f6\\\\u00dfte Fu\\\\u00dfballstadion im Bundesstaat Minas Gerais und einer der wichtigsten Sporttempel Brasiliens.",
       hu: "Minas Gerais \\\\u00e1llam legnagyobb labdar\\\\u00fag\\\\u00f3-stadionja \\\\u00e9s Braz\\\\u00edlia egyik legfontosabb sportk\\\\u00f6zpontja.",
@@ -737,8 +759,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Fernsehturm von Bras\\\\u00edlia",
       hu: "Braz\\\\u00edliav\\\\u00e1rosi TV-torony",
       ro: "Turnul de Televiziune din Bras\\\\u00edlia",
-      en: "Bras\\\\u00edlia TV Tower"
-    },
+      en: "Bras\\\\u00edlia TV Tower",
+image: "/poi-images/br-df-torre-tv-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Sendeturm, der einen der besten Panoramablicke \\\\u00fcber die geometrisch geplante Hauptstadt bietet.",
       hu: "Karakteres ad\\\\u00f3torony, amely az egyik legjobb panor\\\\u00e1m\\\\u00e1t ny\\\\u00fajtja a geometrikusan tervezett f\\\\u0151v\\\\u00e1rosra.",
@@ -772,8 +795,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Leuchtturm am Cabo Branco",
       hu: "Cabo Branco vil\\\\u00e1g\\\\u00edt\\\\u00f3torony",
       ro: "Farul de pe Cabo Branco",
-      en: "Cabo Branco Lighthouse"
-    },
+      en: "Cabo Branco Lighthouse",
+image: "/poi-images/br-pb-farol-cabo-branco-landmarks-v2.webp"
+},
     description: {
       de: "Ein einzigartiger dreieckiger Leuchtturm, der den \\\\u00f6stlichsten Punkt des amerikanischen Festlandes markiert.",
       hu: "Egyed\\\\u00fcl\\\\u00e1ll\\\\u00f3 h\\\\u00e1romsz\\\\u00f6g alak\\\\u00fa vil\\\\u00e1g\\\\u00edt\\\\u00f3torony, amely az amerikai kontinens sz\\\\u00e1razf\\\\u00f6ldj\\\\u00e9nek legkeletibb pontj\\\\u00e1t jel\\\\u00f6li.",
@@ -807,8 +831,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Heiligtum Dom Bosco",
       hu: "Dom Bosco Szent\\\\u00e9ly",
       ro: "Sanctuarul Dom Bosco",
-      en: "Sanctuary of Dom Bosco"
-    },
+      en: "Sanctuary of Dom Bosco",
+image: "/poi-images/br-df-santuario-dom-bosco-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Kirche in Bras\\\\u00edlia, ber\\\\u00fchmt f\\\\u00fcr ihre riesigen blauen Buntglasfenster, die eine mystische Atmosph\\\\u00e4re schaffen.",
       hu: "L\\\\u00e1tv\\\\u00e1nyos templom Braz\\\\u00edliav\\\\u00e1rosban, amely hatalmas k\\\\u00e9k \\\\u00f3lom\\\\u00fcveg ablakair\\\\u00f3l \\\\u00e9s azok misztikus hangulat\\\\u00e1r\\\\u00f3l h\\\\u00edres.",
@@ -842,8 +867,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Bahnhof Luz",
       hu: "Luz p\\\\u00e1lyaudvar",
       ro: "Gara Luz",
-      en: "Luz Station"
-    },
+      en: "Luz Station",
+image: "/poi-images/br-sp-estacao-luz-landmarks-v2.webp"
+},
     description: {
       de: "Ein prachtvoller historischer Bahnhof, der aus in Gro\\\\u00dfbritannien vorgefertigten Teilen zusammengesetzt wurde.",
       hu: "Pomp\\\\u00e1s t\\\\u00f6rt\\\\u00e9nelmi p\\\\u00e1lyaudvar, amelyet Nagy-Britanni\\\\u00e1ban el\\\\u0151re gy\\\\u00e1rtott elemekb\\\\u0151l \\\\u00e1ll\\\\u00edtottak \\\\u00f6ssze.",
@@ -877,8 +903,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Drahtoper",
       hu: "Dr\\\\u00f3t-opera",
       ro: "Opera de S\\\\u00e2rm\\\\u0103",
-      en: "Wire Opera House"
-    },
+      en: "Wire Opera House",
+image: "/poi-images/br-pr-opera-arame-landmarks-v2.webp"
+},
     description: {
       de: "Ein einzigartiges Rundtheater aus Stahlrohren und Polycarbonat, erbaut inmitten eines ehemaligen Steinbruchs.",
       hu: "Egyedi k\\\\u00f6rsz\\\\u00ednh\\\\u00e1z, amely ac\\\\u00e9lcs\\\\u00f6vekb\\\\u0151l \\\\u00e9s polikarbon\\\\u00e1tb\\\\u00f3l \\\\u00e9p\\\\u00fclt egykori k\\\\u0151b\\\\u00e1nya ter\\\\u00fclet\\\\u00e9n.",
@@ -912,8 +939,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Quitandinha-Palast",
       hu: "Quitandinha Palota",
       ro: "Palatul Quitandinha",
-      en: "Quitandinha Palace"
-    },
+      en: "Quitandinha Palace",
+image: "/poi-images/br-rj-palacio-quitandinha-landmarks-v2.webp"
+},
     description: {
       de: "Ein riesiges ehemaliges Luxushotel und Casino im normannisch-franz\\\\u00f6sischen Stil in der Bergstadt Petr\\\\u00f3polis.",
       hu: "Egykori hatalmas luxussz\\\\u00e1lloda \\\\u00e9s kaszin\\\\u00f3 normann-francia st\\\\u00edlusban a hegyvid\\\\u00e9ki Petr\\\\u00f3polis v\\\\u00e1ros\\\\u00e1ban.",
@@ -947,8 +975,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Basilika von Senhor do Bonfim",
       hu: "A J\\\\u00f3istent dics\\\\u0151\\\\u00edt\\\\u0151 bazilika",
       ro: "Bazilica Domnului Bonfim",
-      en: "Basilica of Nosso Senhor do Bonfim"
-    },
+      en: "Basilica of Nosso Senhor do Bonfim",
+image: "/poi-images/br-ba-basilica-bonfim-landmarks-v2.webp"
+},
     description: {
       de: "Die ber\\\\u00fchmteste katholische Kirche in Salvador da Bahia, bekannt f\\\\u00fcr das Fest der rituellen Treppenwaschung.",
       hu: "Salvador da Bahia legh\\\\u00edresebb katolikus temploma, amely ritu\\\\u00e1lis l\\\\u00e9pcs\\\\u0151mos\\\\u00e1si \\\\u00fcnnep\\\\u00e9r\\\\u0151l ismert.",
@@ -982,8 +1011,9 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Monument Cristo Luz",
       hu: "Cristo Luz eml\\\\u00e9km\\\\u0171",
       ro: "Monumentul Cristo Luz",
-      en: "Cristo Luz Monument"
-    },
+      en: "Cristo Luz Monument",
+image: "/poi-images/br-sc-cristo-luz-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Christusstatue in Balne\\\\u00e1rio Cambori\\\\u00fa, die nachts farbig leuchtet und einen Strahl auf die Stadt wirft.",
       hu: "L\\\\u00e1tv\\\\u00e1nyos Krisztus-szobor Balne\\\\u00e1rio Cambori\\\\u00faban, amely \\\\u00e9jszaka sz\\\\u00ednesen vil\\\\u00e1g\\\\u00edt, \\\\u00e9s f\\\\u00e9nyt vet a v\\\\u00e1rosra.",

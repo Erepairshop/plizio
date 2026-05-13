@@ -4,7 +4,9 @@ export const ukReliefV2: POI[] = [
   {
     id: "uk-slieve-donard-relief-v2",
     type: "peak",
-    name: { de: "Slieve Donard", hu: "Slieve Donard", ro: "Slieve Donard", en: "Slieve Donard" },
+    name: { de: "Slieve Donard", hu: "Slieve Donard", ro: "Slieve Donard", en: "Slieve Donard",
+image: "/poi-images/uk-slieve-donard-relief-v2.webp"
+},
     coords: [-5.9222, 54.1794],
     coordinates: { lat: 54.1794, lng: -5.9222 },
     description: {
@@ -19,11 +21,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt munte din Irlanda de Nord, la 850 m.", "Zidul Mourne trece direct peste vârful muntelui.", "Numit după Sfântul Domhanghart, un sfânt din secolul al V-lea.", "Din punct de vedere geologic, este format în principal din granit."],
       en: ["Highest mountain in Northern Ireland at 850 meters high.", "The Mourne Wall passes over the summit of the mountain.", "Named after Saint Domhanghart, a 5th-century saint.", "Geologically composed primarily of granite rock."],
     },
-    imageHint: "Slieve Donard peak overlooking the Irish Sea", image: "/poi-images/uk-slieve-donard-relief-v2.webp"},
-  {
+imageHint: "Slieve Donard peak overlooking the Irish Sea",
+    descriptionAdvanced: {
+      de: "Der Slieve Donard ist mit 850 Metern der höchste Berg Nordirlands. Er liegt in den Mourne Mountains und bietet einen weiten Blick über die Irische See bis nach Schottland.",
+      hu: "A Slieve Donard Észak-Írország legmagasabb pontja a maga 850 méterével. A Mourne-hegységben található gránitcsúcsról tiszta időben egészen Skóciáig el lehet látni.",
+      ro: "Slieve Donard este cel mai înalt vârf din Irlanda de Nord, atingând 850 de metri. Situat în munții Mourne, acesta oferă o panoramă superbă asupra Mării Irlandei.",
+      en: "Slieve Donard is the highest peak in Northern Ireland at 850 metres. Located in the Mourne Mountains, it offers views across the Irish Sea to the Isle of Man and Scotland.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 850 Meter", "Gebirge: Mourne Mountains", "Gestein: Granit", "Prominenz: 850 Meter"],
+      hu: ["Magasság: 850 méter", "Hegység: Mourne-hegység", "Kőzete: Gránit", "Relatív magasság: 850 m"],
+      ro: ["Înălțime: 850 metri", "Lanț muntos: Munții Mourne", "Rocă: Granit", "Prominență: 850 metri"],
+      en: ["Height: 850 metres", "Range: Mourne Mountains", "Rock type: Granite", "Prominence: 850 metres"],
+    },
+    image: "/poi-images/uk-slieve-donard-relief-v2.webp",
+},  {
     id: "uk-the-pennines-relief-v2",
     type: "mountain",
-    name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "The Pennines" },
+    name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "The Pennines",
+image: "/poi-images/uk-the-pennines-relief-v2.webp"
+},
     coords: [-2.2, 54.5],
     coordinates: { lat: 54.5, lng: -2.2 },
     description: {
@@ -38,11 +55,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Lanțul muntos are o lungime de aproximativ 400 km.", "Cross Fell este cel mai înalt vârf, având 893 m.", "Sunt esențiali pentru alimentarea cu apă a nordului Angliei.", "Cunoscuți pentru peisajele carstice, cum este Malham Cove."],
       en: ["The mountain range is approximately 400 kilometers long.", "Cross Fell is the highest peak at 893 meters.", "Essential for the water supply of Northern England.", "Famous for karst landscapes like Malham Cove."],
     },
-    imageHint: "Rolling hills of the Pennines landscape in England", image: "/poi-images/uk-the-pennines-relief-v2.webp"},
-  {
+imageHint: "Rolling hills of the Pennines landscape in England",
+    descriptionAdvanced: {
+      de: "Die Pennines ziehen sich als Rückgrat Englands von den Scottish Borders bis in die Midlands. Das Gebirge prägt das Klima und die Industriegeschichte Nordenglands entscheidend.",
+      hu: "A Pennine-hegység Anglia gerinceként húzódik észak-déli irányban. A mészkőből és homokkőből álló vonulat elválasztja Észak-Nyugat-Angliát Yorkshire és Északkelet vidékétől.",
+      ro: "Munții Pennini reprezintă coloana vertebrală a Angliei, întinzându-se pe 400 km. Acest lanț muntos separă regiunile din nord-vest de cele din nord-est și Yorkshire.",
+      en: "The Pennines are known as the backbone of England, stretching 400 km from the Borders to the Peak District. They consist of limestone and gritstone uplands and moors.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 400 km", "Höchster Punkt: Cross Fell", "Höhe: 893 Meter", "Gestein: Kalkstein/Sandstein"],
+      hu: ["Hossz: kb. 400 km", "Legmagasabb pont: Cross Fell", "Magasság: 893 méter", "Alkotó kőzet: Mészkő"],
+      ro: ["Lungime: cca. 400 km", "Cel mai înalt punct: Cross Fell", "Altitudine: 893 metri", "Roci: Calcar și gresie"],
+      en: ["Length: approx. 400 km", "Highest point: Cross Fell", "Elevation: 893 metres", "Rock types: Limestone/Gritstone"],
+    },
+    image: "/poi-images/uk-the-pennines-relief-v2.webp",
+},  {
     id: "uk-the-cairngorms-relief-v2",
     type: "mountain",
-    name: { de: "Cairngorms", hu: "Cairngorm-hegység", ro: "Munții Cairngorms", en: "The Cairngorms" },
+    name: { de: "Cairngorms", hu: "Cairngorm-hegység", ro: "Munții Cairngorms", en: "The Cairngorms",
+image: "/poi-images/uk-the-cairngorms-relief-v2.webp"
+},
     coords: [-3.65, 57.08],
     coordinates: { lat: 57.08, lng: -3.65 },
     description: {
@@ -57,11 +89,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Include cinci dintre cei mai înalți șase munți din Scoția.", "Cunoscut pentru flora și fauna alpină subarctică.", "Adăpostește singura turmă de reni semi-sălbatici din UK.", "Este format preponderent din rocă de granit dură."],
       en: ["Contains five of the six highest mountains in Scotland.", "Known for its sub-arctic alpine flora and fauna.", "Home to the UK's only semi-wild reindeer herd.", "Geologically composed mainly of tough granite rock."],
     },
-    imageHint: "Cairngorms mountain plateau in Scotland", image: "/poi-images/uk-the-cairngorms-relief-v2.webp"},
-  {
+imageHint: "Cairngorms mountain plateau in Scotland",
+    descriptionAdvanced: {
+      de: "Die Cairngorms sind ein Gebirgsmassiv in den schottischen Highlands und bilden das größte Hochplateau der britischen Inseln mit einer einzigartigen arktisch-alpinen Flora.",
+      hu: "A Cairngorms-hegység a Skót-felföld keleti részén fekszik, és itt található Nagy-Britannia legnagyobb kiterjedésű magashegyi fennsíkja és számos ötezres csúcsa.",
+      ro: "Masivul Cairngorms din Scoția reprezintă cel mai mare platou montan înalt din Marea Britanie. Regiunea găzduiește un ecosistem unic de tip arctic-alpin și tundră.",
+      en: "The Cairngorms form a spectacular mountain massif in the Scottish Highlands. They contain the highest and coldest plateau in the British Isles with unique arctic flora.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Ben Macdui", "Höhe: 1309 Meter", "Nationalpark seit: 2003", "Fläche: 4528 km²"],
+      hu: ["Legmagasabb csúcs: Ben Macdui", "Magasság: 1309 méter", "Nemzeti park: 2003 óta", "Terület: 4528 km²"],
+      ro: ["Vârful principal: Ben Macdui", "Altitudine: 1309 metri", "Parc Național din: 2003", "Suprafață: 4528 km²"],
+      en: ["Highest peak: Ben Macdui", "Elevation: 1309 metres", "National Park since: 2003", "Area: 4528 km²"],
+    },
+    image: "/poi-images/uk-the-cairngorms-relief-v2.webp",
+},  {
     id: "uk-the-fens-relief-v2",
     type: "landmark",
-    name: { de: "The Fens", hu: "The Fens", ro: "The Fens", en: "The Fens" },
+    name: { de: "The Fens", hu: "The Fens", ro: "The Fens", en: "The Fens",
+image: "/poi-images/uk-the-fens-relief-v2.webp"
+},
     coords: [0.1, 52.5],
     coordinates: { lat: 52.5, lng: 0.1 },
     description: {
@@ -76,11 +123,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Acoperă o suprafață de aproape 3900 de kilometri pătrați.", "Holme Fen se află la 2,75 metri sub nivelul mării.", "Drenarea pe scară largă a început în secolul al XVII-lea.", "Astăzi este una dintre cele mai fertile regiuni agricole din Anglia."],
       en: ["Covers an area of nearly 3,900 square kilometers.", "Holme Fen is the lowest point at 2.75m below sea level.", "Large-scale drainage began in the 17th century.", "Now one of the most fertile agricultural regions in England."],
     },
-    imageHint: "Flat agricultural landscape of the Fens in England", image: "/poi-images/uk-the-fens-relief-v2.webp"},
-  {
+imageHint: "Flat agricultural landscape of the Fens in England",
+    descriptionAdvanced: {
+      de: "The Fens sind ein tiefgelegenes Marschland im Osten Englands, das durch Entwässerung in eine der fruchtbarsten Agrarregionen des Vereinigten Königreichs verwandelt wurde.",
+      hu: "A Fens egy alacsonyan fekvő mocsaras vidék Kelet-Angliában, amelyet csatornázással tettek alkalmassá a mezőgazdaságra. Itt található az ország legmélyebb pontja.",
+      ro: "The Fens reprezintă o zonă joasă de mlaștini drenate din estul Angliei. Astăzi este una dintre cele mai fertile regiuni agricole, situată parțial sub nivelul mării.",
+      en: "The Fens are a naturally marshy region in eastern England. Extensively drained since the 17th century, they now form a highly productive agricultural landscape.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 3900 km²", "Tiefster Punkt: -2,7 Meter", "Region: East of England", "Hauptfluss: Great Ouse"],
+      hu: ["Terület: kb. 3900 km²", "Legalacsonyabb pont: -2,7 m", "Régió: Kelet-Anglia", "Fő folyó: Great Ouse"],
+      ro: ["Suprafață: cca. 3900 km²", "Punct minim: -2,7 metri", "Regiune: East of England", "Râu principal: Great Ouse"],
+      en: ["Area: approx. 3900 km²", "Lowest point: -2.7 metres", "Region: East of England", "Main river: Great Ouse"],
+    },
+    image: "/poi-images/uk-the-fens-relief-v2.webp",
+},  {
     id: "uk-brecon-beacons-relief-v2",
     type: "mountain",
-    name: { de: "Brecon Beacons", hu: "Brecon Beacons", ro: "Brecon Beacons", en: "Brecon Beacons" },
+    name: { de: "Brecon Beacons", hu: "Brecon Beacons", ro: "Brecon Beacons", en: "Brecon Beacons",
+image: "/poi-images/uk-brecon-beacons-relief-v2.webp"
+},
     coords: [-3.43, 51.88],
     coordinates: { lat: 51.88, lng: -3.43 },
     description: {
@@ -95,11 +157,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Vârful Pen y Fan este cel mai înalt, având 886 m.", "Geologic, este format din gresie roșie veche.", "A fost desemnat parc național în anul 1957.", "Cunoscut pentru crestele abrupte și circurile glaciare."],
       en: ["Pen y Fan is the highest peak at 886 meters.", "Geologically composed of Old Red Sandstone.", "Designated as a National Park in the year 1957.", "Known for steep ridges and glacier-formed cirques."],
     },
-    imageHint: "Brecon Beacons rolling green mountains in Wales", image: "/poi-images/uk-brecon-beacons-relief-v2.webp"},
-  {
+imageHint: "Brecon Beacons rolling green mountains in Wales",
+    descriptionAdvanced: {
+      de: "Die Brecon Beacons sind eine Gebirgskette aus altem rotem Sandstein im Süden von Wales. Die markanten, flachen Gipfel prägen das Landschaftsbild des Nationalparks.",
+      hu: "A Brecon Beacons egy vörös homokkőből álló hegység Dél-Walesben. Jellegzetes lapos tetejű csúcsai és mély völgyei a jégkorszaki erózió nyomait viselik magukon.",
+      ro: "Brecon Beacons este un lanț muntos din gresie roșie veche în sudul Țării Galilor. Peisajul este definit de platouri înalte și văi glaciare adânci, spectaculoase.",
+      en: "The Brecon Beacons are a range of Old Red Sandstone mountains in South Wales. The area is characterized by steep northern escarpments and gentle southern slopes.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Pen y Fan", "Höhe: 886 Meter", "Gestein: Roter Sandstein", "Nationalpark seit: 1957"],
+      hu: ["Legmagasabb pont: Pen y Fan", "Magasság: 886 méter", "Kőzete: Vörös homokkő", "Nemzeti park: 1957 óta"],
+      ro: ["Cel mai înalt vârf: Pen y Fan", "Altitudine: 886 metri", "Rocă: Gresie roșie", "Parc Național din: 1957"],
+      en: ["Highest peak: Pen y Fan", "Elevation: 886 metres", "Rock: Old Red Sandstone", "National Park since: 1957"],
+    },
+    image: "/poi-images/uk-brecon-beacons-relief-v2.webp",
+},  {
     id: "uk-dartmoor-relief-v2",
     type: "mountain",
-    name: { de: "Dartmoor", hu: "Dartmoor", ro: "Dartmoor", en: "Dartmoor" },
+    name: { de: "Dartmoor", hu: "Dartmoor", ro: "Dartmoor", en: "Dartmoor",
+image: "/poi-images/uk-dartmoor-relief-v2.webp"
+},
     coords: [-3.92, 50.56],
     coordinates: { lat: 50.56, lng: -3.92 },
     description: {
@@ -114,11 +191,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Acoperă o suprafață de aproximativ 954 km pătrați.", "High Willhays este cel mai înalt punct, la 621 m.", "Cunoscut pentru poneii Dartmoor care trăiesc în semi-libertate.", "Conține peste 160 de 'tors' (stânci de granit izolate)."],
       en: ["Covers an area of approximately 954 square kilometers.", "High Willhays is the highest point at 621 meters.", "Famous for the semi-wild Dartmoor ponies.", "Contains over 160 tors (exposed granite rock formations)."],
     },
-    imageHint: "Dartmoor moorland with granite tor rock formation", image: "/poi-images/uk-dartmoor-relief-v2.webp"},
-  {
+imageHint: "Dartmoor moorland with granite tor rock formation",
+    descriptionAdvanced: {
+      de: "Dartmoor ist eine wilde Moorlandschaft in Devon, die für ihre Granitfelsen, die sogenannten Tors, bekannt ist. Das Hochmoor bietet Lebensraum für die berühmten Ponys.",
+      hu: "Dartmoor egy vadregényes lápos vidék Devon megyében, amelyet gránitsziklák, úgynevezett tor-ok tarkítanak. A terület híres a szabadon kószáló pónijairól és ködös lápjairól.",
+      ro: "Dartmoor este o zonă de mlaștină înaltă din Devon, faimoasă pentru formațiunile sale de granit numite tors. Peisajul este unul dintre cele mai sălbatice din sudul Angliei.",
+      en: "Dartmoor is a rugged upland area in Devon, South West England. It is famous for its granite tors, prehistoric remains, and the hardy Dartmoor ponies roaming free.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 954 km²", "Höchster Punkt: High Willhays", "Höhe: 621 Meter", "Gestein: Granit"],
+      hu: ["Terület: 954 km²", "Legmagasabb pont: High Willhays", "Magasság: 621 méter", "Kőzete: Gránit"],
+      ro: ["Suprafață: 954 km²", "Vârful maxim: High Willhays", "Altitudine: 621 metri", "Rocă: Granit"],
+      en: ["Area: 954 km²", "Highest point: High Willhays", "Elevation: 621 metres", "Rock type: Granite"],
+    },
+    image: "/poi-images/uk-dartmoor-relief-v2.webp",
+},  {
     id: "uk-grampian-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Grampian Mountains", hu: "Grampian-hegység", ro: "Munții Grampiani", en: "Grampian Mountains" },
+    name: { de: "Grampian Mountains", hu: "Grampian-hegység", ro: "Munții Grampiani", en: "Grampian Mountains",
+image: "/poi-images/uk-grampian-mountains-relief-v2.webp"
+},
     coords: [-4.0, 56.9],
     coordinates: { lat: 56.9, lng: -4.0 },
     description: {
@@ -133,12 +225,27 @@ export const ukReliefV2: POI[] = [
       ro: ["Includ Ben Nevis, cel mai înalt munte din Regatul Unit.", "S-au format în timpul orogenezei caledoniene.", "Centru important pentru sporturile de iarnă în Scoția.", "Sunt separați de Northwest Highlands prin valea Great Glen."],
       en: ["Contains Ben Nevis, the highest mountain in the UK.", "Formed during the Caledonian Orogeny period.", "Important center for winter sports in Scotland.", "Separated from the Northwest Highlands by the Great Glen."],
     },
-    imageHint: "Grampian Mountains landscape in central Scotland", image: "/poi-images/uk-grampian-mountains-relief-v2.webp"}
-,
+imageHint: "Grampian Mountains landscape in central Scotland",
+    descriptionAdvanced: {
+      de: "Die Grampian Mountains bilden eines der drei großen Gebirgssysteme Schottlands. Sie beheimaten die höchsten Berge der britischen Inseln, darunter den Ben Nevis.",
+      hu: "A Grampian-hegység Skócia három nagy hegyláncának egyike, amely elválasztja a Felföldet az Alföldtől. Itt találhatók a Brit-szigetek legmagasabb hegycsúcsai.",
+      ro: "Munții Grampian reprezintă unul dintre cele mai trei mari sisteme montane ale Scoției. Lanțul include cele mai înalte vârfuri din Insulele Britanice, inclusiv Ben Nevis.",
+      en: "The Grampian Mountains are one of the three major mountain ranges in Scotland. They occupy a large area of the Highlands and include the UK's highest mountain.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Ben Nevis", "Höhe: 1345 Meter", "Region: Highlands", "Gestein: Granit und Gneis"],
+      hu: ["Legmagasabb csúcs: Ben Nevis", "Magasság: 1345 méter", "Régió: Felföld", "Kőzete: Gránit és gneisz"],
+      ro: ["Vârful principal: Ben Nevis", "Altitudine: 1345 metri", "Regiune: Scoția", "Roci: Granit și gnais"],
+      en: ["Highest peak: Ben Nevis", "Elevation: 1345 metres", "Region: Highlands", "Rock: Granite and Gneiss"],
+    },
+    image: "/poi-images/uk-grampian-mountains-relief-v2.webp",
+},
   {
     id: "uk-pennines-relief-v2",
     type: "mountain",
-    name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "Pennines" },
+    name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "Pennines",
+image: "/poi-images/uk-pennines-relief-v2.webp"
+},
     coords: [-2.2, 54.5],
     coordinates: { lat: 54.5, lng: -2.2 },
     description: {
@@ -154,11 +261,25 @@ export const ukReliefV2: POI[] = [
       en: ["Stretches for approximately 400 kilometers", "Highest point is Cross Fell at 893 meters", "Often called the backbone of England", "Composed of Carboniferous limestone and gritstone"],
     },
     imageHint: "Aerial view of the Pennine hills in northern England",
+    descriptionAdvanced: {
+      de: "Dieses Mittelgebirge erstreckt sich als zentrale Wasserscheide durch Nordengland. Die raue Landschaft ist geprägt von weiten Moorflächen und tiefen Flusstälern.",
+      hu: "Ez a középhegység észak-angliai vízválasztóként szolgál. A zord tájat tőzeglápok és mély völgyek jellemzik, amelyek fontos szerepet játszottak a vízerő kihasználásában.",
+      ro: "Acest lanț muntos acționează ca o cumpănă a apelor în nordul Angliei. Peisajul aspru este marcat de mlaștini întinse și văi adânci sculptate de râuri rapide.",
+      en: "Stretching as a central watershed through Northern England, this range features rugged uplands. Its landscape is defined by vast peat bogs and deep river valleys.",
+    },
+    factsAdvanced: {
+      de: ["Hauptgestein: Karbon-Kalkstein", "Typ: Mittelgebirge", "Wichtigster Pass: Snake Pass", "Höchste Erhebung: Cross Fell"],
+      hu: ["Fő kőzet: Karbon mészkő", "Típus: Középhegység", "Híres hágó: Snake Pass", "Legmagasabb pont: Cross Fell"],
+      ro: ["Rocă principală: Calcar", "Tip: Munți de înălțime medie", "Pas montan: Snake Pass", "Cota maximă: Cross Fell"],
+      en: ["Main rock: Carboniferous limestone", "Type: Uplands", "Notable pass: Snake Pass", "Highest point: Cross Fell"],
+    },
   },
   {
     id: "uk-peak-district-relief-v2",
     type: "mountain",
-    name: { de: "Peak District", hu: "Peak District", ro: "Peak District", en: "Peak District" },
+    name: { de: "Peak District", hu: "Peak District", ro: "Peak District", en: "Peak District",
+image: "/poi-images/uk-peak-district-relief-v2.webp"
+},
     coords: [-1.82, 53.35],
     coordinates: { lat: 53.35, lng: -1.82 },
     description: {
@@ -173,11 +294,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Kinder Scout la 636 metri", "Primul parc național din Regatul Unit", "Zona Dark Peak este formată din gresie", "White Peak este renumit pentru cheile de calcar"],
       en: ["Highest point is Kinder Scout at 636 meters", "First National Park in the United Kingdom", "Dark Peak consists of gritstone edges", "White Peak is known for deep limestone dales"],
     },
-    imageHint: "Rolling hills of the Peak District at sunrise", image: "/poi-images/uk-peak-district-relief-v2.webp"},
-  {
+imageHint: "Rolling hills of the Peak District at sunrise",
+    descriptionAdvanced: {
+      de: "Der Peak District am südlichen Ende der Pennines war 1951 der erste Nationalpark Großbritanniens. Er unterteilt sich in den kalkhaltigen White Peak und den sandigen Dark Peak.",
+      hu: "A Peak District a Pennine-hegység déli végén fekszik, és 1951-ben az ország első nemzeti parkja lett. A mészköves White Peak és a homokköves Dark Peak alkotja.",
+      ro: "Peak District, situat la sud de Munții Pennini, a fost primul parc național din Marea Britanie. Se împarte în White Peak (calcaros) și Dark Peak (gresie).",
+      en: "The Peak District, at the southern end of the Pennines, became the UK's first National Park in 1951. It is divided into the limestone White Peak and gritstone Dark Peak.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark seit: 1951", "Höchster Punkt: Kinder Scout", "Höhe: 636 Meter", "Besucher/Jahr: ca. 13 Mio."],
+      hu: ["Nemzeti park: 1951 óta", "Legmagasabb pont: Kinder Scout", "Magasság: 636 méter", "Látogatók: kb. 13 millió/év"],
+      ro: ["Parc Național din: 1951", "Punct maxim: Kinder Scout", "Altitudine: 636 metri", "Vizitatori: cca. 13 mil./an"],
+      en: ["National Park since: 1951", "Highest point: Kinder Scout", "Elevation: 636 metres", "Visitors: approx. 13m/year"],
+    },
+    image: "/poi-images/uk-peak-district-relief-v2.webp",
+},  {
     id: "uk-cotswolds-relief-v2",
     type: "landmark",
-    name: { de: "Cotswolds", hu: "Cotswolds", ro: "Cotswolds", en: "Cotswolds" },
+    name: { de: "Cotswolds", hu: "Cotswolds", ro: "Cotswolds", en: "Cotswolds",
+image: "/poi-images/uk-cotswolds-relief-v2.webp"
+},
     coords: [-2.0, 51.83],
     coordinates: { lat: 51.83, lng: -2.0 },
     description: {
@@ -192,11 +328,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Cleeve Hill la 330 metri", "Format din calcar jurasic", "Constituie cumpăna apelor între Tamisa și Severn", "Renumit pentru solul și rocile calcaroase de culoarea mierii"],
       en: ["Highest point is Cleeve Hill at 330 meters", "Composed of Jurassic limestone", "Forms the drainage divide between Thames and Severn", "Famous for honey-colored limestone geology"],
     },
-    imageHint: "Rolling green hills of the Cotswolds", image: "/poi-images/uk-cotswolds-relief-v2.webp"},
-  {
+imageHint: "Rolling green hills of the Cotswolds",
+    descriptionAdvanced: {
+      de: "Die Cotswolds sind eine Kette von sanften Hügeln aus goldfarbenem Kalkstein in Südwestengland. Die Region ist bekannt für ihre idyllischen Dörfer und die Schafzucht.",
+      hu: "A Cotswolds egy jellegzetes mészkőhegység Délnyugat-Angliában, amely lankás dombjairól ismert. Az aranyló kőből épült falvak és a juhpásztorkodás tették híressé.",
+      ro: "Cotswolds este un lanț de dealuri domoale din calcar oolitic în sud-vestul Angliei. Regiunea este celebră pentru satele pitorești construite din piatră galbenă.",
+      en: "The Cotswolds are a range of rolling hills in South West England, formed from oolitic limestone. The area is famous for its golden stone villages and sheep farming.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Cleeve Hill", "Höhe: 330 Meter", "Fläche: 2038 km²", "Gestein: Oolitischer Kalkstein"],
+      hu: ["Legmagasabb pont: Cleeve Hill", "Magasság: 330 méter", "Terület: 2038 km²", "Kőzete: Oolitos mészkő"],
+      ro: ["Cel mai înalt punct: Cleeve Hill", "Altitudine: 330 metri", "Suprafață: 2038 km²", "Rocă: Calcar oolitic"],
+      en: ["Highest point: Cleeve Hill", "Elevation: 330 metres", "Area: 2038 km²", "Rock: Oolitic limestone"],
+    },
+    image: "/poi-images/uk-cotswolds-relief-v2.webp",
+},  {
     id: "uk-lake-district-relief-v2",
     type: "mountain",
-    name: { de: "Lake District", hu: "Lake District", ro: "Lake District", en: "Lake District" },
+    name: { de: "Lake District", hu: "Lake District", ro: "Lake District", en: "Lake District",
+image: "/poi-images/uk-lake-district-relief-v2.webp"
+},
     coords: [-3.08, 54.46],
     coordinates: { lat: 54.46, lng: -3.08 },
     description: {
@@ -211,11 +362,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Scafell Pike la 978 metri", "Rocile datează din perioada ordoviciană", "Peisajul a fost modelat de ghețari de vale", "Masivul muntos central are o formă aproape circulară"],
       en: ["Highest peak is Scafell Pike at 978 meters", "Rocks date back to the Ordovician period", "Landscape shaped by valley glaciers", "Central massif is nearly circular in shape"],
     },
-    imageHint: "Mountainous landscape and lakes of the Lake District", image: "/poi-images/uk-lake-district-relief-v2.webp"},
-  {
+imageHint: "Mountainous landscape and lakes of the Lake District",
+    descriptionAdvanced: {
+      de: "Der Lake District in Cumbria ist berühmt für seine tiefen Seen und schroffen Berge. Die Landschaft wurde durch massive Gletschereinwirkungen während der Eiszeit geformt.",
+      hu: "A cumbriai Tóvidék mély tavairól és meredek hegyeiről híres. A tájat a jégkorszaki gleccserek formálták, radiális völgyrendszert hozva létre a központi csúcsok körül.",
+      ro: "Lake District din Cumbria este renumit pentru lacurile sale glaciare adânci și munții abrupți. Peisajul a fost modelat de ghețari, formând văi radiale spectaculoase.",
+      en: "The Lake District in Cumbria is famous for its glacial ribbon lakes and rugged mountains. It contains all land in England higher than 3000 feet above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Scafell Pike", "Höhe: 978 Meter", "Tiefster See: Wastwater", "Weltkulturerbe seit: 2017"],
+      hu: ["Legmagasabb csúcs: Scafell Pike", "Magasság: 978 méter", "Legmélyebb tó: Wastwater", "Világörökség: 2017 óta"],
+      ro: ["Vârful principal: Scafell Pike", "Altitudine: 978 metri", "Cel mai adânc lac: Wastwater", "UNESCO din: 2017"],
+      en: ["Highest peak: Scafell Pike", "Elevation: 978 metres", "Deepest lake: Wastwater", "UNESCO Site since: 2017"],
+    },
+    image: "/poi-images/uk-lake-district-relief-v2.webp",
+},  {
     id: "uk-mourne-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Mourne Mountains", hu: "Mourne-hegység", ro: "Munții Mourne", en: "Mourne Mountains" },
+    name: { de: "Mourne Mountains", hu: "Mourne-hegység", ro: "Munții Mourne", en: "Mourne Mountains",
+image: "/poi-images/uk-mourne-mountains-relief-v2.webp"
+},
     coords: [-6.08, 54.17],
     coordinates: { lat: 54.17, lng: -6.08 },
     description: {
@@ -230,11 +396,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Slieve Donard la 850 metri", "Format din granit paleogen", "Găzduiește celebrul Zid Mourne", "Format prin activitate vulcanică în era terțiară"],
       en: ["Highest point is Slieve Donard at 850 meters", "Composed of Paleogene granite", "Home to the famous Mourne Wall", "Formed during Tertiary volcanic activity"],
     },
-    imageHint: "Slieve Donard peak in the Mourne Mountains", image: "/poi-images/uk-mourne-mountains-relief-v2.webp"},
-  {
+imageHint: "Slieve Donard peak in the Mourne Mountains",
+    descriptionAdvanced: {
+      de: "Die Mourne Mountains sind ein Granitgebirge im Südosten Nordirlands. Sie sind berühmt für die Mourne Wall, eine 35 km lange Trockenmauer, die die Gipfel verbindet.",
+      hu: "A Mourne-hegység egy látványos gránitvonulat Észak-Írország délkeleti részén. Jellegzetessége a 35 km hosszú Mourne-fal, amely tizenöt hegycsúcsot köt össze.",
+      ro: "Munții Mourne reprezintă un masiv de granit în sud-estul Irlandei de Nord. Sunt faimoși pentru Zidul Mourne, o barieră de piatră lungă de 35 km peste culmi.",
+      en: "The Mourne Mountains are a granite range in County Down, Northern Ireland. They are iconic for the Mourne Wall, a 35 km dry stone wall crossing fifteen summits.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Slieve Donard", "Höhe: 850 Meter", "Länge der Mourne Wall: 35 km", "Gestein: Granit"],
+      hu: ["Legmagasabb csúcs: Slieve Donard", "Magasság: 850 méter", "Mourne-fal hossza: 35 km", "Kőzete: Gránit"],
+      ro: ["Vârful principal: Slieve Donard", "Altitudine: 850 metri", "Lungime zid: 35 km", "Rocă: Granit"],
+      en: ["Highest summit: Slieve Donard", "Elevation: 850 metres", "Mourne Wall length: 35 km", "Rock type: Granite"],
+    },
+    image: "/poi-images/uk-mourne-mountains-relief-v2.webp",
+},  {
     id: "uk-antrim-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Antrim Plateau", hu: "Antrim-fennsík", ro: "Podișul Antrim", en: "Antrim Plateau" },
+    name: { de: "Antrim Plateau", hu: "Antrim-fennsík", ro: "Podișul Antrim", en: "Antrim Plateau",
+image: "/poi-images/uk-antrim-plateau-relief-v2.webp"
+},
     coords: [-6.15, 54.85],
     coordinates: { lat: 54.85, lng: -6.15 },
     description: {
@@ -249,11 +430,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cea mai mare suprafață de bazalt din Europa", "Include Giant's Causeway pe zona de coastă", "Pantele coboară spre sud-vest către Lough Neagh", "Marginea nordică formează faleze abrupte"],
       en: ["Largest basalt area in Europe", "Includes the Giant's Causeway on its coast", "Slopes gently southwest toward Lough Neagh", "Edges form steep cliffs along the northern coast"],
     },
-    imageHint: "Basalt cliffs of the Antrim Plateau", image: "/poi-images/uk-antrim-plateau-relief-v2.webp"},
-  {
+imageHint: "Basalt cliffs of the Antrim Plateau",
+    descriptionAdvanced: {
+      de: "Das Antrim Plateau in Nordirland entstand durch gewaltige vulkanische Aktivitäten. Die Basaltschichten bilden an der Küste den weltbekannten Giant's Causeway.",
+      hu: "Az Antrim-fennsík Észak-Írországban hatalmas vulkáni tevékenység során jött létre. A bazaltrétegek a tengerparton alkotják a híres Óriások útját.",
+      ro: "Platoul Antrim din Irlanda de Nord a fost format prin activitate vulcanică intensă. Straturile de bazalt creează la țărm faimosul Giant's Causeway.",
+      en: "The Antrim Plateau in Northern Ireland was formed by massive volcanic activity. Its basalt layers create the world-famous Giant's Causeway on the coast.",
+    },
+    factsAdvanced: {
+      de: ["Gestein: Basalt", "Höchster Punkt: Trostan", "Höhe: 550 Meter", "Besonderheit: Giant's Causeway"],
+      hu: ["Kőzete: Bazalt", "Legmagasabb pont: Trostan", "Magasság: 550 méter", "Látványosság: Óriások útja"],
+      ro: ["Rocă: Bazalt", "Punct maxim: Trostan", "Altitudine: 550 metri", "Atracție: Giant's Causeway"],
+      en: ["Rock type: Basalt", "Highest point: Trostan", "Elevation: 550 metres", "Feature: Giant's Causeway"],
+    },
+    image: "/poi-images/uk-antrim-plateau-relief-v2.webp",
+},  {
     id: "uk-cairngorms-relief-v2",
     type: "mountain",
-    name: { de: "Cairngorms", hu: "Cairngorms", ro: "Munții Cairngorm", en: "Cairngorms" },
+    name: { de: "Cairngorms", hu: "Cairngorms", ro: "Munții Cairngorm", en: "Cairngorms",
+image: "/poi-images/uk-cairngorms-relief-v2.webp"
+},
     coords: [-3.65, 57.1],
     coordinates: { lat: 57.1, lng: -3.65 },
     description: {
@@ -268,12 +464,27 @@ export const ukReliefV2: POI[] = [
       ro: ["Include 5 din cele 6 cele mai înalte vârfuri scoțiene", "Format dintr-un batolit central de granit", "Cel mai înalt punct este Ben Macdui la 1309 metri", "Caracterizat prin circuri glaciare și platouri înalte"],
       en: ["Contains 5 of the 6 highest mountains in Scotland", "Central granite batholith formation", "Highest point is Ben Macdui at 1309 meters", "Characterized by large corries and high plateaus"],
     },
-    imageHint: "High arctic plateau of the Cairngorm Mountains", image: "/poi-images/uk-cairngorms-relief-v2.webp"}
-,
+imageHint: "High arctic plateau of the Cairngorm Mountains",
+    descriptionAdvanced: {
+      de: "Dieses Massiv in den Highlands umfasst einige der höchsten Gipfel Großbritanniens. Das Gebiet ist ein wichtiges Zentrum für den Wintersport und den Naturschutz.",
+      hu: "Ez a felföldi masszívum Nagy-Britannia legmagasabb csúcsai közül többet is magában foglal. A terület a téli sportok és a természetvédelem fontos központja.",
+      ro: "Acest masiv din Highlands include unele dintre cele mai înalte vârfuri din Marea Britanie. Zona este un centru vital pentru sporturi de iarnă și conservare.",
+      en: "This Highland massif contains some of the highest peaks in Great Britain. The area is a major centre for winter sports and alpine nature conservation.",
+    },
+    factsAdvanced: {
+      de: ["Berge über 1000m: 18", "Zentrum: Aviemore", "Klima: Subarktisch", "Gestein: Granit"],
+      hu: ["1000 m feletti csúcsok: 18", "Központ: Aviemore", "Éghajlat: Szubarktikus", "Kőzete: Gránit"],
+      ro: ["Vârfuri peste 1000m: 18", "Centru: Aviemore", "Climat: Subarctic", "Rocă: Granit"],
+      en: ["Peaks over 1000m: 18", "Centre: Aviemore", "Climate: Subarctic", "Rock type: Granite"],
+    },
+    image: "/poi-images/uk-cairngorms-relief-v2.webp",
+},
   {
     id: "uk-bodmin-moor-relief-v2",
     type: "mountain",
-    name: { de: "Bodmin Moor", hu: "Bodmin Moor", ro: "Bodmin Moor", en: "Bodmin Moor" },
+    name: { de: "Bodmin Moor", hu: "Bodmin Moor", ro: "Bodmin Moor", en: "Bodmin Moor",
+image: "/poi-images/uk-bodmin-moor-relief-v2.webp"
+},
     coords: [-4.6, 50.55],
     coordinates: { lat: 50.55, lng: -4.6 },
     description: {
@@ -289,11 +500,25 @@ export const ukReliefV2: POI[] = [
       en: ["Highest point: Brown Willy (420 m)", "Area of approx 208 sq km", "Over 500 prehistoric sites", "Composed of massive granite"],
     },
     imageHint: "Bodmin Moor granite tors and rugged landscape",
+    descriptionAdvanced: {
+      de: "Bodmin Moor ist eine abgelegene Granit-Hochlandschaft im Osten von Cornwall. Sie ist reich an prähistorischen Fundstätten und bizarren Felsformationen.",
+      hu: "Bodmin Moor egy távoli gránit-fennsík Kelet-Cornwallban. Gazdag őskori leletekben, kőkorörökben és különös alakú sziklákban, melyeket az erózió formált.",
+      ro: "Bodmin Moor este un platou de granit izolat în estul Cornwall-ului. Regiunea abundă în vestigii preistorice și formațiuni stâncoase bizare modelate de vânt.",
+      en: "Bodmin Moor is a remote granite upland in eastern Cornwall. It is rich in prehistoric sites, including stone circles, and dramatic natural rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Brown Willy", "Höhe: 420 Meter", "Fläche: 208 km²", "Gestein: Granit"],
+      hu: ["Legmagasabb pont: Brown Willy", "Magasság: 420 méter", "Terület: 208 km²", "Kőzete: Gránit"],
+      ro: ["Punct maxim: Brown Willy", "Altitudine: 420 metri", "Suprafață: 208 km²", "Rocă: Granit"],
+      en: ["Highest point: Brown Willy", "Elevation: 420 metres", "Area: 208 km²", "Rock type: Granite"],
+    },
   },
   {
     id: "uk-kinder-scout-relief-v2",
     type: "peak",
-    name: { de: "Kinder Scout", hu: "Kinder Scout", ro: "Kinder Scout", en: "Kinder Scout" },
+    name: { de: "Kinder Scout", hu: "Kinder Scout", ro: "Kinder Scout", en: "Kinder Scout",
+image: "/poi-images/uk-kinder-scout-relief-v2.webp"
+},
     coords: [-1.87, 53.38],
     coordinates: { lat: 53.38, lng: -1.87 },
     description: {
@@ -308,11 +533,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Înălțime: 636 de metri", "Găzduiește cascada Kinder Downfall", "Compus din gresie Millstone Grit", "Punct de plecare pentru Pennine Way"],
       en: ["Elevation: 636 meters", "Home to Kinder Downfall waterfall", "Composed of Millstone Grit sandstone", "Starting point of the Pennine Way"],
     },
-    imageHint: "Kinder Scout plateau landscape with rocky edges", image: "/poi-images/uk-kinder-scout-relief-v2.webp"},
-  {
+imageHint: "Kinder Scout plateau landscape with rocky edges",
+    descriptionAdvanced: {
+      de: "Kinder Scout ist ein markantes Hochplateau im Peak District. Es ist historisch bedeutsam durch den Mass Trespass von 1932, der den Weg für freies Wegerecht ebnete.",
+      hu: "Kinder Scout a Peak District legmagasabb pontja, egy kiterjedt fennsík. 1932-ben itt zajlott a tömeges birtoksértés, ami kivívta a természetjárók szabad mozgását.",
+      ro: "Kinder Scout este un platou înalt în Peak District. Este istoric important pentru protestul din 1932, care a dus la dreptul de acces public în natură.",
+      en: "Kinder Scout is a moorland plateau in the Peak District. It is famous for the 1932 Mass Trespass, which eventually led to the right to roam across open country.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 636 Meter", "Typ: Moor-Plateau", "Mass Trespass: 1932", "Lage: Derbyshire"],
+      hu: ["Magasság: 636 méter", "Típus: Láp-fennsík", "Tömeges birtoksértés: 1932", "Helyszín: Derbyshire"],
+      ro: ["Altitudine: 636 metri", "Tip: Platou mlăștinos", "Protest istoric: 1932", "Locație: Derbyshire"],
+      en: ["Elevation: 636 metres", "Type: Moorland plateau", "Mass Trespass: 1932", "Location: Derbyshire"],
+    },
+    image: "/poi-images/uk-kinder-scout-relief-v2.webp",
+},  {
     id: "uk-salisbury-plain-relief-v2",
     type: "landmark",
-    name: { de: "Salisbury Plain", hu: "Salisbury Plain", ro: "Câmpia Salisbury", en: "Salisbury Plain" },
+    name: { de: "Salisbury Plain", hu: "Salisbury Plain", ro: "Câmpia Salisbury", en: "Salisbury Plain",
+image: "/poi-images/uk-salisbury-plain-relief-v2.webp"
+},
     coords: [-1.8, 51.2],
     coordinates: { lat: 51.2, lng: -1.8 },
     description: {
@@ -327,11 +567,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Suprafață de aproximativ 780 km²", "Cea mai mare pajiște calcaroasă din UK", "Conține numeroase terasamente preistorice", "Cea mai mare zonă de antrenament militar din UK"],
       en: ["Area of approx 780 sq km", "Largest chalk grassland in the UK", "Contains numerous prehistoric earthworks", "UK's largest military training area"],
     },
-    imageHint: "Rolling chalk grasslands of Salisbury Plain", image: "/poi-images/uk-salisbury-plain-relief-v2.webp"},
-  {
+imageHint: "Rolling chalk grasslands of Salisbury Plain",
+    descriptionAdvanced: {
+      de: "Die Salisbury Plain ist ein weites Kreideplateau im Süden Englands. Sie beherbergt das weltberühmte Stonehenge und ist das größte militärische Übungsgelände des Landes.",
+      hu: "A Salisbury Plain egy hatalmas kréta-fennsík Dél-Angliában. Itt található a világhírű Stonehenge, emellett az ország legnagyobb katonai gyakorlótere.",
+      ro: "Salisbury Plain este un vast platou de cretă în sudul Angliei. Găzduiește legendarul Stonehenge și este cea mai mare zonă de antrenament militar din țară.",
+      en: "Salisbury Plain is a large chalk plateau in southern England. It is home to Stonehenge and serves as the UK's largest military training area.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 775 km²", "Gestein: Kreide", "Wichtigstes Monument: Stonehenge", "Nutzung: Militär/Natur"],
+      hu: ["Terület: 775 km²", "Kőzete: Kréta", "Fő műemlék: Stonehenge", "Használat: Katonai terület"],
+      ro: ["Suprafață: 775 km²", "Rocă: Cretă", "Monument principal: Stonehenge", "Utilizare: Militară"],
+      en: ["Area: 775 km²", "Rock type: Chalk", "Key monument: Stonehenge", "Usage: Military training"],
+    },
+    image: "/poi-images/uk-salisbury-plain-relief-v2.webp",
+},  {
     id: "uk-the-cuillin-relief-v2",
     type: "mountain",
-    name: { de: "The Cuillin", hu: "The Cuillin", ro: "Munții Cuillin", en: "The Cuillin" },
+    name: { de: "The Cuillin", hu: "The Cuillin", ro: "Munții Cuillin", en: "The Cuillin",
+image: "/poi-images/uk-the-cuillin-relief-v2.webp"
+},
     coords: [-6.2, 57.2],
     coordinates: { lat: 57.2, lng: -6.2 },
     description: {
@@ -346,11 +601,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Sgùrr Alasdair (992 m)", "Compus din gabro închis la culoare și granit", "Faimos pentru rute de escaladă dificile", "Format prin activitate vulcanică"],
       en: ["Highest peak: Sgùrr Alasdair (992 m)", "Composed of dark gabbro and granite", "Famous for difficult climbing routes", "Formed by volcanic activity"],
     },
-    imageHint: "Jagged peaks of the Black Cuillin on Skye", image: "/poi-images/uk-the-cuillin-relief-v2.webp"},
-  {
+imageHint: "Jagged peaks of the Black Cuillin on Skye",
+    descriptionAdvanced: {
+      de: "The Cuillin auf der Isle of Skye ist eine dramatische Gebirgskette, die in die schwarzen Black Cuillin und die runderen, granitischen Red Cuillin unterteilt wird.",
+      hu: "A Skye szigetén található Cuillin egy drámai hegylánc, amely a fekete gabbro kőzetű Black Cuillin és a vöröses gránitból álló Red Cuillin részekre oszlik.",
+      ro: "Munții Cuillin de pe Insula Skye sunt împărțiți în Black Cuillin (gabbro abrupt) și Red Cuillin (granit rotunjit), oferind un peisaj spectaculos.",
+      en: "The Cuillin on the Isle of Skye is a range of dramatic peaks divided into the jagged Black Cuillin (gabbro) and the rounded Red Cuillin (granite).",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Sgùrr Alasdair", "Höhe: 992 Meter", "Lage: Isle of Skye", "Gestein: Gabbro/Granit"],
+      hu: ["Legmagasabb pont: Sgùrr Alasdair", "Magasság: 992 méter", "Helyszín: Skye szigete", "Kőzete: Gabbro/Gránit"],
+      ro: ["Cota maximă: Sgùrr Alasdair", "Altitudine: 992 metri", "Locație: Insula Skye", "Roci: Gabbro și granit"],
+      en: ["Highest peak: Sgùrr Alasdair", "Elevation: 992 metres", "Location: Isle of Skye", "Rocks: Gabbro/Granite"],
+    },
+    image: "/poi-images/uk-the-cuillin-relief-v2.webp",
+},  {
     id: "uk-mendip-hills-relief-v2",
     type: "mountain",
-    name: { de: "Mendip Hills", hu: "Mendip Hills", ro: "Mendip Hills", en: "Mendip Hills" },
+    name: { de: "Mendip Hills", hu: "Mendip Hills", ro: "Mendip Hills", en: "Mendip Hills",
+image: "/poi-images/uk-mendip-hills-relief-v2.webp"
+},
     coords: [-2.7, 51.3],
     coordinates: { lat: 51.3, lng: -2.7 },
     description: {
@@ -365,11 +635,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Găzduiește Cheile Cheddar", "Cel mai înalt punct: Beacon Batch (325 m)", "Cunoscut pentru peșterile Wookey Hole", "Zonă minieră istorică pentru plumb"],
       en: ["Home to the famous Cheddar Gorge", "Highest point: Beacon Batch (325 m)", "Known for Wookey Hole Caves", "Historically important for lead mining"],
     },
-    imageHint: "Cheddar Gorge in the Mendip Hills", image: "/poi-images/uk-mendip-hills-relief-v2.webp"},
-  {
+imageHint: "Cheddar Gorge in the Mendip Hills",
+    descriptionAdvanced: {
+      de: "Die Mendip Hills sind eine Kalksteinkette in Somerset. Sie sind bekannt für ihre tiefen Schluchten, wie die Cheddar Gorge, und ausgedehnte Höhlensysteme.",
+      hu: "A Mendip-dombság egy mészkővonulat Somerset megyében. Híres mély szurdokairól, mint a Cheddar-szurdok, és kiterjedt, látványos barlangrendszereiről.",
+      ro: "Dealurile Mendip sunt un lanț de calcar în Somerset. Sunt renumite pentru cheile adânci, precum Cheddar Gorge, și rețelele vaste de peșteri subterane.",
+      en: "The Mendip Hills are a range of limestone hills in Somerset. They are famous for deep gorges like Cheddar Gorge and extensive underground cave systems.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Beacon Batch", "Höhe: 325 Meter", "Besonderheit: Cheddar Gorge", "Gestein: Kalkstein"],
+      hu: ["Legmagasabb pont: Beacon Batch", "Magasság: 325 méter", "Látványosság: Cheddar-szurdok", "Kőzete: Mészkő"],
+      ro: ["Vârful maxim: Beacon Batch", "Altitudine: 325 metri", "Atracție: Cheddar Gorge", "Rocă: Calcar"],
+      en: ["Highest point: Beacon Batch", "Elevation: 325 metres", "Main feature: Cheddar Gorge", "Rock type: Limestone"],
+    },
+    image: "/poi-images/uk-mendip-hills-relief-v2.webp",
+},  {
     id: "uk-sperrin-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Sperrin Mountains", hu: "Sperrin-hegység", ro: "Munții Sperrin", en: "Sperrin Mountains" },
+    name: { de: "Sperrin Mountains", hu: "Sperrin-hegység", ro: "Munții Sperrin", en: "Sperrin Mountains",
+image: "/poi-images/uk-sperrin-mountains-relief-v2.webp"
+},
     coords: [-7.0, 54.8],
     coordinates: { lat: 54.8, lng: -7.0 },
     description: {
@@ -384,11 +669,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Sawel Mountain (678 m)", "Lanț muntos lung de peste 60 km", "Bogat în zăcăminte de aur", "Compus din roci metamorfice"],
       en: ["Highest peak: Sawel Mountain (678 m)", "Range spans over 60 km in length", "Rich in gold deposits", "Composed of metamorphic rocks"],
     },
-    imageHint: "Rounded peaks of the Sperrin Mountains", image: "/poi-images/uk-sperrin-mountains-relief-v2.webp"},
-  {
+imageHint: "Rounded peaks of the Sperrin Mountains",
+    descriptionAdvanced: {
+      de: "Die Sperrin Mountains sind eine der ausgedehntesten Gebirgsketten Nordirlands. Die abgerundeten Gipfel verbergen bedeutende Goldvorkommen im Gestein.",
+      hu: "A Sperrin-hegység Észak-Írország egyik legnagyobb kiterjedésű hegylánca. A lankás vonulatok jelentős aranylelőhelyeket rejtenek a mélyükben.",
+      ro: "Munții Sperrin reprezintă unul dintre cele mai extinse lanțuri muntos din Irlanda de Nord. Culmile rotunjite ascund depozite importante de aur.",
+      en: "The Sperrin Mountains are one of the most extensive mountain ranges in Northern Ireland. These rounded hills are known to contain significant gold deposits.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Sawel Mountain", "Höhe: 678 Meter", "Besonderheit: Goldvorkommen", "Lage: Tyrone/Londonderry"],
+      hu: ["Legmagasabb pont: Sawel Mountain", "Magasság: 678 méter", "Különlegesség: Aranylelőhely", "Helyszín: Tyrone megye"],
+      ro: ["Cota maximă: Sawel Mountain", "Altitudine: 678 metri", "Resurse: Depozite de aur", "Locație: Tyrone/Londonderry"],
+      en: ["Highest peak: Sawel Mountain", "Elevation: 678 metres", "Feature: Gold deposits", "Location: Tyrone/Londonderry"],
+    },
+    image: "/poi-images/uk-sperrin-mountains-relief-v2.webp",
+},  {
     id: "uk-north-york-moors-relief-v2",
     type: "park",
-    name: { de: "North York Moors", hu: "North York Moors", ro: "North York Moors", en: "North York Moors" },
+    name: { de: "North York Moors", hu: "North York Moors", ro: "North York Moors", en: "North York Moors",
+image: "/poi-images/uk-north-york-moors-relief-v2.webp"
+},
     coords: [-0.9, 54.37],
     coordinates: { lat: 54.37, lng: -0.9 },
     description: {
@@ -403,11 +703,26 @@ export const ukReliefV2: POI[] = [
       ro: ["Parc național din 1952", "Compus din calcar și gresie", "Conține cele mai înalte stânci din Anglia", "Faimos pentru înflorirea ericilor în august"],
       en: ["National Park since 1952", "Composed of limestone and sandstone", "Contains the highest cliffs in England", "Famous for blooming heather in August"],
     },
-    imageHint: "North York Moors landscape with purple heather", image: "/poi-images/uk-north-york-moors-relief-v2.webp"},
-  {
+imageHint: "North York Moors landscape with purple heather",
+    descriptionAdvanced: {
+      de: "Die North York Moors bilden eine der größten Heidekrautflächen Großbritanniens. Das Hochland endet im Osten mit dramatischen Klippen an der Nordseeküste.",
+      hu: "A North York Moors Nagy-Britannia egyik legnagyobb egybefüggő kanaricserjés mocsara. A fennsík keleti széle meredek sziklákkal szakad az Északi-tengerbe.",
+      ro: "North York Moors reprezintă una dintre cele mai mari zone de landă cu iarbă neagră din Marea Britanie. Platoul se termină în est cu faleza Mării Nordului.",
+      en: "The North York Moors contain one of the largest expanses of heather moorland in the UK. The upland meets the North Sea with dramatic coastal cliffs.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1436 km²", "Höchster Punkt: Urra Moor", "Höhe: 454 Meter", "Nationalpark seit: 1952"],
+      hu: ["Terület: 1436 km²", "Legmagasabb pont: Urra Moor", "Magasság: 454 méter", "Nemzeti park: 1952 óta"],
+      ro: ["Suprafață: 1436 km²", "Vârful maxim: Urra Moor", "Altitudine: 454 metri", "Parc Național din: 1952"],
+      en: ["Area: 1436 km²", "Highest point: Urra Moor", "Elevation: 454 metres", "National Park since: 1952"],
+    },
+    image: "/poi-images/uk-north-york-moors-relief-v2.webp",
+},  {
     id: "uk-malvern-hills-relief-v2",
     type: "mountain",
-    name: { de: "Malvern Hills", hu: "Malvern Hills", ro: "Malvern Hills", en: "Malvern Hills" },
+    name: { de: "Malvern Hills", hu: "Malvern Hills", ro: "Malvern Hills", en: "Malvern Hills",
+image: "/poi-images/uk-malvern-hills-relief-v2.webp"
+},
     coords: [-2.33, 52.1],
     coordinates: { lat: 52.1, lng: -2.33 },
     description: {
@@ -423,5 +738,17 @@ export const ukReliefV2: POI[] = [
       en: ["Highest point: Worcestershire Beacon (425 m)", "Rocks are approx 680 million years old", "Famous for pure Malvern spring water", "Popular destination for ridge walking"],
     },
     imageHint: "Malvern Hills ridge landscape",
+    descriptionAdvanced: {
+      de: "Die Malvern Hills sind eine markante Hügelkette im Westen Englands. Das dort entspringende Malvern Water wurde bereits durch Königin Victoria berühmt.",
+      hu: "A Malvern-dombság egy látványos vonulat Nyugat-Angliában. Az itt fakadó Malvern-vizet gyógyhatása miatt Viktória királynő is előszeretettel fogyasztotta.",
+      ro: "Dealurile Malvern reprezintă o creastă proeminentă în vestul Angliei. Izvoarele locale sunt sursa faimoasei ape Malvern, apreciată de familia regală.",
+      en: "The Malvern Hills are a dramatic ridge in the West Midlands. They are famous for their natural springs, producing the renowned Malvern Water.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Worcestershire Beacon", "Höhe: 425 Meter", "Gestein: Präkambrisch", "Besonderheit: Quellwasser"],
+      hu: ["Legmagasabb pont: Worcestershire Beacon", "Magasság: 425 méter", "Kőzete: Prekambriumi", "Termék: Malvern-víz"],
+      ro: ["Cota maximă: Worcestershire Beacon", "Altitudine: 425 metri", "Rocă: Precambriană", "Produs celebru: Apa Malvern"],
+      en: ["Highest point: Worcestershire Beacon", "Elevation: 425 metres", "Rock: Precambrian", "Feature: Natural springs"],
+    },
   }
 ];

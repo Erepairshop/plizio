@@ -11,8 +11,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Robben Island",
       hu: "Robben-sziget",
       ro: "Insula Robben",
-      en: "Robben Island"
-    },
+      en: "Robben Island",
+image: "/poi-images/robben-island-history-v2.webp"
+},
     description: {
       de: "Robben Island ist eine Insel in der Tafelbucht, bekannt als Gefängnis, in dem Nelson Mandela jahrelang inhaftiert war.",
       hu: "A Robben-sziget a Tábla-öbölben található egykori börtönsziget, ahol Nelson Mandela hosszú éveket töltött fogságban.",
@@ -46,8 +47,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Wiege der Menschheit",
       hu: "Az emberiség bölcsője",
       ro: "Leagănul Omenirii",
-      en: "Cradle of Humankind"
-    },
+      en: "Cradle of Humankind",
+image: "/poi-images/cradle-of-humankind-history-v2.webp"
+},
     description: {
       de: "Die Wiege der Menschheit ist ein Weltkulturerbegebiet, das einige der ältesten hominiden Fossilien der Welt beherbergt.",
       hu: "Az emberiség bölcsője egy világörökségi helyszín, ahol a világ legrégebbi hominida fosszíliáinak egy részét találták meg.",
@@ -81,8 +83,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Burg der Guten Hoffnung",
       hu: "Jóreménység erőd",
       ro: "Castelul Bunei Speranțe",
-      en: "Castle of Good Hope"
-    },
+      en: "Castle of Good Hope",
+image: "/poi-images/castle-of-good-hope-history-v2.webp"
+},
     description: {
       de: "Die Burg der Guten Hoffnung ist eine Bastionsfestung in Kapstadt und das älteste noch existierende Kolonialgebäude in Südafrika.",
       hu: "A Jóreménység erőd egy fokvárosi bástyás erőd, és a legrégebbi máig fennmaradt gyarmati épület Dél-Afrikában.",
@@ -116,8 +119,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Mapungubwe",
       hu: "Mapungubwe",
       ro: "Mapungubwe",
-      en: "Mapungubwe"
-    },
+      en: "Mapungubwe",
+image: "/poi-images/mapungubwe-history-v2.webp"
+},
     description: {
       de: "Mapungubwe war eine präkoloniale städtische Siedlung und ein afrikanisches Königreich, das südlich des Flusses Limpopo florierte.",
       hu: "Mapungubwe egy gyarmatosítás előtti városi település és afrikai királyság volt, amely a Limpopo folyótól délre virágzott.",
@@ -151,8 +155,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Voortrekker-Monument",
       hu: "Voortrekker-emlékmű",
       ro: "Monumentul Voortrekker",
-      en: "Voortrekker Monument"
-    },
+      en: "Voortrekker Monument",
+image: "/poi-images/voortrekker-monument-history-v2.webp"
+},
     description: {
       de: "Das Voortrekker-Monument ist ein massives Granitbauwerk in Pretoria zum Gedenken an die burischen Pioniere, die die Kapkolonie verließen.",
       hu: "A Voortrekker-emlékmű egy masszív gránitépítmény Pretoriában, amely a Fokföldről elvándorló búr telepeseknek állít emléket.",
@@ -186,8 +191,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Schlachtfeld am Blood River",
       hu: "Blood River-i csatatér",
       ro: "Câmpul de Luptă Blood River",
-      en: "Blood River Heritage Site"
-    },
+      en: "Blood River Heritage Site",
+image: "/poi-images/blood-river-heritage-site-history-v2.webp"
+},
     description: {
       de: "Die Gedenkstätte am Blood River erinnert an die historische Schlacht von 1838 zwischen den Voortrekkern und dem Zulu-Königreich.",
       hu: "A Blood River emlékhely az 1838-as, a voortrekkerek és a zulu királyság közötti történelmi csatának állít emléket.",
@@ -221,8 +227,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Isandlwana-Schlachtfeld",
       hu: "Isandlwana-i csatatér",
       ro: "Câmpul de Luptă Isandlwana",
-      en: "Isandlwana Battlefield"
-    },
+      en: "Isandlwana Battlefield",
+image: "/poi-images/isandlwana-battlefield-history-v2.webp"
+},
     description: {
       de: "Das Isandlwana-Schlachtfeld war der Schauplatz der ersten großen Begegnung im Zulukrieg, wo die britische Armee 1879 eine entscheidende Niederlage erlitt.",
       hu: "Az isandlwana-i csatatér a zulu háború első jelentős összecsapásának helyszíne volt, ahol a brit hadsereg 1879-ben súlyos vereséget szenvedett.",
@@ -256,8 +263,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Rorke's Drift",
       hu: "Rorke's Drift",
       ro: "Rorke's Drift",
-      en: "Rorke's Drift"
-    },
+      en: "Rorke's Drift",
+image: "/poi-images/rorkes-drift-history-v2.webp"
+},
     description: {
       de: "Rorke's Drift war der Schauplatz einer berühmten Verteidigungsschlacht im Jahr 1879, bei der eine kleine britische Garnison einen massiven Zulu-Angriff abwehrte.",
       hu: "Rorke's Drift egy 1879-es híres védelmi csata helyszíne volt, ahol egy kis brit helyőrség visszaverte egy hatalmas zulu sereg támadását.",
@@ -291,8 +299,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Mandela Capture Site",
       hu: "Nelson Mandela elfogásának helyszíne",
       ro: "Locul Capturării lui Mandela",
-      en: "Nelson Mandela Capture Site"
-    },
+      en: "Nelson Mandela Capture Site",
+image: "/poi-images/nelson-mandela-capture-site-history-v2.webp"
+},
     description: {
       de: "Diese Gedenkstätte markiert den genauen Ort, an dem Nelson Mandela 1962 von der Apartheid-Polizei festgenommen wurde.",
       hu: "Ez az emlékhely jelöli azt a pontos helyet, ahol 1962-ben az apartheid rendőrség letartóztatta Nelson Mandelát.",
@@ -326,8 +335,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "District Six",
       hu: "District Six",
       ro: "District Six",
-      en: "District Six"
-    },
+      en: "District Six",
+image: "/poi-images/district-six-museum-history-v2.webp"
+},
     description: {
       de: "District Six war ein ehemals lebhaftes, multikulturelles Viertel in Kapstadt, das während der Apartheid zwangsgeräumt und zerstört wurde.",
       hu: "A District Six egy egykor pezsgő, multikulturális negyed volt Fokvárosban, amelyet az apartheid idején erőszakkal kiürítettek és leromboltak.",
@@ -361,8 +371,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Apartheid Museum Complex",
       hu: "Apartheid Múzeum komplexum",
       ro: "Complexul Muzeului Apartheid",
-      en: "Apartheid Museum Complex"
-    },
+      en: "Apartheid Museum Complex",
+image: "/poi-images/apartheid-museum-history-v2.webp"
+},
     description: {
       de: "Der Komplex veranschaulicht die Geschichte Südafrikas im 20. Jahrhundert und den Aufstieg und Fall des von Staatswegen geförderten rassistischen Apartheidsystems.",
       hu: "A komplexum a 20. századi dél-afrikai történelmet, valamint az államilag támogatott faji apartheid rendszer felemelkedését és bukását mutatja be.",
@@ -397,8 +408,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Groot Constantia",
       hu: "Groot Constantia",
       ro: "Groot Constantia",
-      en: "Groot Constantia"
-    },
+      en: "Groot Constantia",
+image: "/poi-images/groot-constantia-history-v2.webp"
+},
     description: {
       de: "Groot Constantia ist das älteste noch existierende Weingut in Südafrika mit einer Geschichte, die bis ins 17. Jahrhundert zurückreicht.",
       hu: "A Groot Constantia Dél-Afrika legrégebbi máig fennmaradt borászata, amelynek története a 17. századig nyúlik vissza.",
@@ -432,8 +444,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Thulamela-Ruinen",
       hu: "Thulamela romjai",
       ro: "Ruinele Thulamela",
-      en: "Thulamela Ruins"
-    },
+      en: "Thulamela Ruins",
+image: "/poi-images/thulamela-ruins-history-v2.webp"
+},
     description: {
       de: "Die Thulamela-Ruinen sind eine steinerne archäologische Stätte, die mit der späten Eisenzeit und der simbabwischen Kultur in Verbindung gebracht wird.",
       hu: "A Thulamela romok egy kőből épült régészeti lelőhely, amely a késő vaskorhoz és a zimbabwei kultúrához kapcsolódik.",
@@ -468,8 +481,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Blombos-Höhle",
       hu: "Blombos-barlang",
       ro: "Peștera Blombos",
-      en: "Blombos Cave"
-    },
+      en: "Blombos Cave",
+image: "/poi-images/blombos-cave-history-v2.webp"
+},
     description: {
       de: "Die Blombos-Höhle ist eine wichtige archäologische Stätte mit Artefakten der frühen modernen Menschen (Homo sapiens) aus der Mittelsteinzeit.",
       hu: "A Blombos-barlang egy fontos régészeti lelőhely a kora modern ember (Homo sapiens) középső kőkorszaki leleteivel.",
@@ -503,8 +517,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Big Hole",
       hu: "Nagy Lyuk",
       ro: "Big Hole",
-      en: "Big Hole"
-    },
+      en: "Big Hole",
+image: "/poi-images/kimberley-mine-history-v2.webp"
+},
     description: {
       de: "Das Big Hole in Kimberley ist ein massiver offener Tagebau und ein Überbleibsel des historischen Diamantenrauschs in Südafrika.",
       hu: "A kimberley-i Nagy Lyuk egy hatalmas, nyitott bánya, a dél-afrikai történelmi gyémántláz lenyűgöző emléke.",
@@ -538,8 +553,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Sterkfontein-Höhlen",
       hu: "Sterkfontein-barlangok",
       ro: "Peșterile Sterkfontein",
-      en: "Sterkfontein Caves"
-    },
+      en: "Sterkfontein Caves",
+image: "/poi-images/sterkfontein-caves-history-v2.webp"
+},
     description: {
       de: "Die Sterkfontein-Höhlen, Teil der Wiege der Menschheit, sind weltweit bekannt für ihre reichen Fossilienfunde, insbesondere von frühen Hominiden.",
       hu: "A Sterkfontein-barlangok, az Emberiség Bölcsőjének részeként, világhírűek a gazdag őskori leleteikről, különösen a korai hominidákról.",
@@ -573,8 +589,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Kaditshwene-Ruinen",
       hu: "Kaditshwene romjai",
       ro: "Ruinele Kaditshwene",
-      en: "Kaditshwene Ruins"
-    },
+      en: "Kaditshwene Ruins",
+image: "/poi-images/kaditshwene-ruins-history-v2.webp"
+},
     description: {
       de: "Kaditshwene war eine bedeutende eisenzeitliche Stadt und die Hauptstadt der Bahurutshe-Nation, bevor sie im frühen 19. Jahrhundert zerstört wurde.",
       hu: "Kaditshwene egy jelentős vaskori város és a bahurutshe nemzet fővárosa volt, mielőtt a 19. század elején elpusztították volna.",
@@ -608,8 +625,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Pilgrim's Rest",
       hu: "Pilgrim's Rest",
       ro: "Pilgrim's Rest",
-      en: "Pilgrim's Rest"
-    },
+      en: "Pilgrim's Rest",
+image: "/poi-images/pilgrims-rest-history-v2.webp"
+},
     description: {
       de: "Pilgrim's Rest ist ein historisches Städtchen, das nach der Entdeckung von Gold im Jahr 1873 entstand und heute fast unverändert aussieht.",
       hu: "A Pilgrim's Rest egy történelmi kisváros, amely az 1873-as arany felfedezése után jött létre, és ma is szinte változatlan formában áll.",
@@ -643,8 +661,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Pinnacle-Point-Höhlen",
       hu: "Pinnacle Point barlangok",
       ro: "Peșterile Pinnacle Point",
-      en: "Pinnacle Point Caves"
-    },
+      en: "Pinnacle Point Caves",
+image: "/poi-images/pinnacle-point-caves-history-v2.webp"
+},
     description: {
       de: "Pinnacle Point ist ein archäologisches Gebiet an der Südküste, das einige der frühesten Beweise für modernes menschliches Verhalten liefert.",
       hu: "Pinnacle Point egy régészeti terület a déli parton, amely a modern emberi viselkedés legkorábbi bizonyítékait rejti.",
@@ -678,8 +697,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Makapansgat",
       hu: "Makapansgat",
       ro: "Makapansgat",
-      en: "Makapansgat"
-    },
+      en: "Makapansgat",
+image: "/poi-images/makapansgat-history-v2.webp"
+},
     description: {
       de: "Das Makapansgat ist ein bedeutendes paläontologisches Tal, das eine extrem lange Aufzeichnung menschlicher Besiedlung über Millionen von Jahren aufweist.",
       hu: "A Makapansgat egy jelentős őslénytani völgy, amely az emberi megtelepedés rendkívül hosszú, évmilliókon átívelő történetét őrzi.",
@@ -713,8 +733,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Hector-Pieterson-Mahnmal",
       hu: "Hector Pieterson-emlékmű",
       ro: "Memorialul Hector Pieterson",
-      en: "Hector Pieterson Memorial"
-    },
+      en: "Hector Pieterson Memorial",
+image: "/poi-images/hector-pieterson-memorial-history-v2.webp"
+},
     description: {
       de: "Das Mahnmal ehrt den jungen Schüler Hector Pieterson und die Studenten, die während des Aufstands in Soweto 1976 ums Leben kamen.",
       hu: "Az emlékmű a fiatal diák, Hector Pieterson és a diákok előtt tiszteleg, akik az 1976-os sowetói felkelésben vesztették életüket.",
@@ -748,8 +769,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Taung Heritage Site",
       hu: "Taung-i emlékhely",
       ro: "Situl de Patrimoniu Taung",
-      en: "Taung Heritage Site"
-    },
+      en: "Taung Heritage Site",
+image: "/poi-images/taung-heritage-site-history-v2.webp"
+},
     description: {
       de: "Die Stätte von Taung ist der Ort, an dem 1924 der fossile Schädel des berühmten 'Taung-Kindes' gefunden wurde, ein früher Beweis für Homininen in Afrika.",
       hu: "Taung az a hely, ahol 1924-ben megtalálták a híres 'Taung-gyermek' megkövesedett koponyáját, amely az afrikai hominidák korai bizonyítéka.",
@@ -783,8 +805,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Majuba Hill",
       hu: "Majuba-hegy",
       ro: "Dealul Majuba",
-      en: "Majuba Hill"
-    },
+      en: "Majuba Hill",
+image: "/poi-images/majuba-hill-history-v2.webp"
+},
     description: {
       de: "Majuba Hill war der Schauplatz der letzten und entscheidenden Schlacht des Ersten Burenkrieges im Jahr 1881, die mit einem Sieg der Buren endete.",
       hu: "A Majuba-hegy volt az első búr háború utolsó és döntő csatájának helyszíne 1881-ben, amely a búrok győzelmével végződött.",
@@ -818,8 +841,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Schlachtfeld Spion Kop",
       hu: "Spion Kop-i csatatér",
       ro: "Câmpul de Luptă Spion Kop",
-      en: "Spion Kop Battlefield"
-    },
+      en: "Spion Kop Battlefield",
+image: "/poi-images/spion-kop-battlefield-history-v2.webp"
+},
     description: {
       de: "Spion Kop war der Ort einer blutigen Schlacht während des Zweiten Burenkrieges im Jahr 1900, bei der britische Truppen vergeblich versuchten, die belagerte Stadt Ladysmith zu befreien.",
       hu: "A Spion Kop egy véres csata helyszíne volt a második búr háborúban 1900-ban, ahol a brit csapatok hiába próbálták felszabadítani az ostromlott Ladysmith városát.",
@@ -853,8 +877,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Constitution Hill",
       hu: "Constitution Hill",
       ro: "Constitution Hill",
-      en: "Constitution Hill"
-    },
+      en: "Constitution Hill",
+image: "/poi-images/constitution-hill-history-v2.webp"
+},
     description: {
       de: "Constitution Hill in Johannesburg ist ein ehemaliger Gefängniskomplex, der heute Sitz des Verfassungsgerichts von Südafrika ist.",
       hu: "A johannesburgi Constitution Hill egy korábbi börtönkomplexum, amely ma a dél-afrikai Alkotmánybíróság székhelye.",
@@ -888,8 +913,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Klasies-River-Höhlen",
       hu: "Klasies River barlangok",
       ro: "Peșterile Klasies River",
-      en: "Klasies River Caves"
-    },
+      en: "Klasies River Caves",
+image: "/poi-images/klasies-river-caves-history-v2.webp"
+},
     description: {
       de: "Die Klasies-River-Höhlen an der Ostküste enthalten Beweise dafür, dass moderne Menschen hier vor etwa 125.000 Jahren dauerhaft lebten.",
       hu: "A keleti parton található Klasies River barlangok bizonyítják, hogy a modern ember mintegy 125 000 évvel ezelőtt már folyamatosan élt itt.",
@@ -923,8 +949,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Wonderwerk-Höhle",
       hu: "Wonderwerk-barlang",
       ro: "Peștera Wonderwerk",
-      en: "Wonderwerk Cave"
-    },
+      en: "Wonderwerk Cave",
+image: "/poi-images/wonderwerk-cave-history-v2.webp"
+},
     description: {
       de: "Die Wonderwerk-Höhle ist eine archäologische Stätte in den Kuruman Hills mit Beweisen für menschliche Besiedlung, die 2 Millionen Jahre zurückreichen.",
       hu: "A Wonderwerk-barlang egy régészeti lelőhely a Kuruman-hegységben, ahol kétmillió évre visszanyúló emberi megtelepedés nyomait találták meg.",
@@ -958,8 +985,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Matjes-River-Felsdach",
       hu: "Matjes River-i sziklaeresz",
       ro: "Adăpostul de Stâncă Matjes River",
-      en: "Matjes River Rock Shelter"
-    },
+      en: "Matjes River Rock Shelter",
+image: "/poi-images/matjes-river-rock-shelter-history-v2.webp"
+},
     description: {
       de: "Das Matjes-River-Felsdach ist ein riesiger Überhang nahe der Küste, der Tausende von Gräbern und archäologischen Schätzen der Khoisan enthält.",
       hu: "A Matjes River sziklaeresz egy hatalmas kiugró szikla a part közelében, amely a khoisanok ezernyi sírját és régészeti kincsét rejti.",
@@ -993,8 +1021,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Union Buildings",
       hu: "Unió épületei",
       ro: "Clădirile Uniunii",
-      en: "Union Buildings"
-    },
+      en: "Union Buildings",
+image: "/poi-images/union-buildings-history-v2.webp"
+},
     description: {
       de: "Die Union Buildings bilden den offiziellen Regierungssitz Südafrikas und sind ein ikonisches Wahrzeichen in Pretoria, das von Sir Herbert Baker entworfen wurde.",
       hu: "Az Unió épületei Dél-Afrika hivatalos kormányzati székhelyét alkotják, és Pretoria ikonikus nevezetességei, amelyeket Sir Herbert Baker tervezett.",
@@ -1028,8 +1057,9 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       de: "Church Square",
       hu: "Templom tér",
       ro: "Piața Bisericii",
-      en: "Church Square"
-    },
+      en: "Church Square",
+image: "/poi-images/church-square-pretoria-history-v2.webp"
+},
     description: {
       de: "Der Church Square ist das historische Zentrum der Stadt Pretoria, umgeben von bedeutenden architektonischen Gebäuden aus dem späten 19. Jahrhundert.",
       hu: "A Templom tér Pretoria városának történelmi központja, amelyet a 19. század végéről származó jelentős építészeti alkotások vesznek körül.",

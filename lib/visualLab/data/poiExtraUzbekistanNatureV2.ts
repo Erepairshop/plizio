@@ -6,7 +6,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "lake",
     parent: "UZ-QR",
     coords: [59.6133, 44.8888],
-    name: { de: "Aralsee", hu: "Aral-tó", ro: "Marea Aral", en: "Aral Sea" },
+    name: { de: "Aralsee", hu: "Aral-tó", ro: "Marea Aral", en: "Aral Sea",
+image: "/poi-images/aral-sea-nature-v2.webp"
+},
     description: { de: "Einst einer der größten Seen der Welt, der aufgrund von Bewässerungsprojekten stark ausgetrocknet ist.", hu: "Egykor a világ egyik legnagyobb tava, amely az öntözési projektek miatt súlyosan kiszáradt.", ro: "Cândva unul dintre cele mai mari lacuri din lume, care s-a micșorat drastic din cauza proiectelor de irigații.", en: "Once one of the largest lakes in the world, which has drastically shrunk due to irrigation projects." },
     facts: {
       de: ["Galt früher als der viertgrößte Binnensee der Erde.", "Sein Austrocknen ist eine der größten Umweltkatastrophen."],
@@ -19,7 +21,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "lake",
     parent: "UZ-JI",
     coords: [66.5218, 40.8354],
-    name: { de: "Aydarsee", hu: "Aydar-tó", ro: "Lacul Aydar", en: "Aydar Lake" },
+    name: { de: "Aydarsee", hu: "Aydar-tó", ro: "Lacul Aydar", en: "Aydar Lake",
+image: "/poi-images/aydar-lake-nature-v2.webp"
+},
     description: { de: "Ein künstlicher See in der Kysylkum-Wüste, der durch die Umleitung von Flutwasser entstand.", hu: "Mesterséges tó a Kizil-kum sivatagban, amely az árvizek elterelésével jött létre.", ro: "Un lac artificial în deșertul Kyzylkum, creat prin devierea apelor de inundație.", en: "An artificial lake in the Kyzylkum Desert, created by the diversion of floodwaters." },
     facts: {
       de: ["Bildet zusammen mit anderen Seen das Arnasay-Seensystem.", "Ein wichtiges Gebiet für Zugvögel und Fischfang."],
@@ -32,7 +36,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "lake",
     parent: "UZ-TO",
     coords: [70.0401, 41.6210],
-    name: { de: "Tscharwak-Stausee", hu: "Csarvak-víztározó", ro: "Lacul de acumulare Charvak", en: "Charvak Reservoir" },
+    name: { de: "Tscharwak-Stausee", hu: "Csarvak-víztározó", ro: "Lacul de acumulare Charvak", en: "Charvak Reservoir",
+image: "/poi-images/charvak-reservoir-nature-v2.webp"
+},
     description: { de: "Ein beliebtes Erholungsgebiet nahe Taschkent, das durch den Tscharwak-Staudamm am Tschatkal-Fluss gebildet wird.", hu: "Népszerű üdülőövezet Taskent közelében, amelyet a Csatkal-folyón lévő gát hozott létre.", ro: "O zonă de agrement populară lângă Tașkent, formată de barajul Charvak pe râul Chatkal.", en: "A popular recreation area near Tashkent, formed by the Charvak Dam on the Chatkal River." },
     facts: {
       de: ["Wurde 1970 nach dem Bau des Staudamms gefüllt.", "Bietet Strände und Wassersportmöglichkeiten für Touristen."],
@@ -45,7 +51,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "lake",
     parent: "UZ-QR",
     coords: [57.4815, 41.9794],
-    name: { de: "Sarykamyschsee", hu: "Szarikamis-tó", ro: "Lacul Sarykamysh", en: "Sarykamysh Lake" },
+    name: { de: "Sarykamyschsee", hu: "Szarikamis-tó", ro: "Lacul Sarykamysh", en: "Sarykamysh Lake",
+image: "/poi-images/sarykamysh-lake-nature-v2.webp"
+},
     description: { de: "Ein salziger See an der Grenze zu Turkmenistan, der hauptsächlich durch abfließendes Bewässerungswasser gespeist wird.", hu: "Sós tó Türkmenisztán határán, amelyet főként a lefolyó öntözővizek táplálnak.", ro: "Un lac sărat la granița cu Turkmenistan, alimentat în principal de apele de irigație reziduale.", en: "A salty lake on the border with Turkmenistan, fed mainly by agricultural runoff." },
     facts: {
       de: ["Sein Name bedeutet auf Turksprachen 'Gelbes Schilf'.", "Ist nach dem Schrumpfen des Aralsees stark gewachsen."],
@@ -58,7 +66,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "lake",
     parent: "UZ-NW",
     coords: [64.8322, 39.8147],
-    name: { de: "Tudakulsee", hu: "Tudakul-tó", ro: "Lacul Tudakul", en: "Lake Tudakul" },
+    name: { de: "Tudakulsee", hu: "Tudakul-tó", ro: "Lacul Tudakul", en: "Lake Tudakul",
+image: "/poi-images/tudakul-lake-nature-v2.webp"
+},
     description: { de: "Ein Oasensee in der Wüste nahe Buchara, der für seine reiche Vogelwelt und als Erholungsort bekannt ist.", hu: "Oázistó a sivatagban Buhara közelében, amely gazdag madárvilágáról és üdülőhelyként ismert.", ro: "Un lac oază în deșert lângă Buhara, cunoscut pentru viața sa bogată a păsărilor și ca stațiune.", en: "An oasis lake in the desert near Bukhara, known for its rich birdlife and as a resort." },
     facts: {
       de: ["Das Wasser des Sees ist leicht salzig.", "Dient als wichtiger Rastplatz für Zugvögel auf ihrer Route."],
@@ -71,7 +81,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "river",
     parent: "UZ-QR",
     coords: [60.1037, 42.0673],
-    name: { de: "Amudarja", hu: "Amu-darja", ro: "Amu Daria", en: "Amu Darya" },
+    name: { de: "Amudarja", hu: "Amu-darja", ro: "Amu Daria", en: "Amu Darya",
+image: "/poi-images/amu-darya-nature-v2.webp"
+},
     description: { de: "Der wasserreichste Fluss Zentralasiens, der historisch als Oxus bekannt war und einst in den Aralsee mündete.", hu: "Közép-Ázsia legbővizűbb folyója, amely történelmileg Oxus néven volt ismert, és egykor az Aral-tóba ömlött.", ro: "Cel mai voluminos râu din Asia Centrală, cunoscut istoric sub numele de Oxus, care curgea cândva în Marea Aral.", en: "The most voluminous river in Central Asia, historically known as the Oxus, which once flowed into the Aral Sea." },
     facts: {
       de: ["Bildet einen großen Teil der Grenze zu Afghanistan.", "Sein Wasser wird intensiv für den Baumwollanbau genutzt."],
@@ -84,7 +96,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "river",
     parent: "UZ-SI",
     coords: [68.6672, 40.8521],
-    name: { de: "Syrdarja", hu: "Szir-darja", ro: "Sîr Daria", en: "Syr Darya" },
+    name: { de: "Syrdarja", hu: "Szir-darja", ro: "Sîr Daria", en: "Syr Darya",
+image: "/poi-images/syr-darya-nature-v2.webp"
+},
     description: { de: "Einer der längsten Flüsse Zentralasiens, der das Ferghanatal durchquert und wichtige landwirtschaftliche Regionen bewässert.", hu: "Közép-Ázsia egyik leghosszabb folyója, amely átszeli a Fergana-völgyet és fontos mezőgazdasági régiókat öntöz.", ro: "Unul dintre cele mai lungi râuri din Asia Centrală, care traversează Valea Fergana și irigă regiuni agricole importante.", en: "One of the longest rivers in Central Asia, crossing the Fergana Valley and irrigating important agricultural regions." },
     facts: {
       de: ["War in der Antike unter dem Namen Jaxartes bekannt.", "Staut sich im Norden in mehreren großen Reservoirs."],
@@ -97,7 +111,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "river",
     parent: "UZ-SA",
     coords: [65.0441, 39.8510],
-    name: { de: "Sarafschon", hu: "Zarafson-folyó", ro: "Râul Zarafșan", en: "Zarafshan River" },
+    name: { de: "Sarafschon", hu: "Zarafson-folyó", ro: "Râul Zarafșan", en: "Zarafshan River",
+image: "/poi-images/zarafshan-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss, der durch Samarkand und Buchara fließt und das Lebenselixier dieser historischen Oasenstädte ist.", hu: "Jelentős folyó, amely Szamarkandot és Buharát szeli át, és e történelmi oázisvárosok éltető eleme.", ro: "Un râu important care curge prin Samarkand și Buhara, fiind sursa de viață a acestor orașe-oază istorice.", en: "An important river that flows through Samarkand and Bukhara, acting as the lifeblood of these historic oasis cities." },
     facts: {
       de: ["Der Name bedeutet auf Persisch 'Goldstreuer'.", "Erreicht den Amudarja nicht mehr, da er in der Wüste versickert."],
@@ -110,7 +126,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "mountain",
     parent: "UZ-SU",
     coords: [67.8288, 38.9482],
-    name: { de: "Hazret Sultan", hu: "Hazret Szultan", ro: "Khazret Sultan", en: "Khazret Sultan" },
+    name: { de: "Hazret Sultan", hu: "Hazret Szultan", ro: "Khazret Sultan", en: "Khazret Sultan",
+image: "/poi-images/khazret-sultan-nature-v2.webp"
+},
     description: { de: "Der höchste Berg Usbekistans, der sich in der Gissar-Gebirgskette an der Grenze zu Tadschikistan befindet.", hu: "Üzbegisztán legmagasabb hegye, amely a Gisszar-hegységben, a tádzsik határon található.", ro: "Cel mai înalt munte din Uzbekistan, situat în lanțul muntos Gissar la granița cu Tadjikistan.", en: "The highest mountain in Uzbekistan, located in the Gissar Range on the border with Tajikistan." },
     facts: {
       de: ["Erreicht eine Höhe von 4.643 Metern über dem Meeresspiegel.", "Ist ein anspruchsvolles Ziel für Bergsteiger in der Region."],
@@ -123,7 +141,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.0526, 41.4938],
-    name: { de: "Großer Tschimgan", hu: "Nagy-Csimgan", ro: "Marele Chimgan", en: "Greater Chimgan" },
+    name: { de: "Großer Tschimgan", hu: "Nagy-Csimgan", ro: "Marele Chimgan", en: "Greater Chimgan",
+image: "/poi-images/greater-chimgan-nature-v2.webp"
+},
     description: { de: "Ein markanter Gipfel im Tian-Shan-Gebirge, der ein beliebtes Ziel für Wanderer und Wintersportler nahe Taschkent ist.", hu: "Kiemelkedő csúcs a Tien-san hegységben, amely népszerű célpont a túrázók és a téli sportok kedvelői számára Taskent közelében.", ro: "Un vârf proeminent în munții Tian Shan, o destinație populară pentru drumeții și sporturi de iarnă lângă Tașkent.", en: "A prominent peak in the Tian Shan mountains, a popular destination for hikers and winter sports enthusiasts near Tashkent." },
     facts: {
       de: ["Die Spitze des Berges liegt auf 3.309 Metern Höhe.", "Wird aufgrund seiner malerischen Landschaft auch 'Usbekische Schweiz' genannt."],
@@ -136,7 +156,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.4328, 42.1554],
-    name: { de: "Adelung-Gipfel", hu: "Adelung-csúcs", ro: "Muntele Adelung", en: "Mount Adelung" },
+    name: { de: "Adelung-Gipfel", hu: "Adelung-csúcs", ro: "Muntele Adelung", en: "Mount Adelung",
+image: "/poi-images/mount-adelung-nature-v2.webp"
+},
     description: { de: "Einer der höchsten Gipfel des Piskem-Gebirges, bekannt für seine unberührte alpine Landschaft und schroffe Felsen.", hu: "A Pszkem-hegység egyik legmagasabb csúcsa, amely érintetlen alpesi tájáról és zord szikláiról ismert.", ro: "Unul dintre cele mai înalte vârfuri ale Munților Pskem, cunoscut pentru peisajul alpin virgin și stâncile abrupte.", en: "One of the highest peaks of the Pskem Range, known for its pristine alpine landscape and rugged rocks." },
     facts: {
       de: ["Mit 3.999 Metern verfehlt er knapp die 4000-Meter-Marke.", "Befindet sich im äußersten Nordosten der Provinz Taschkent."],
@@ -149,7 +171,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.4333, 42.1833],
-    name: { de: "Beschtor", hu: "Bestor", ro: "Muntele Beshtor", en: "Mount Beshtor" },
+    name: { de: "Beschtor", hu: "Bestor", ro: "Muntele Beshtor", en: "Mount Beshtor",
+image: "/poi-images/mount-beshtor-nature-v2.webp"
+},
     description: { de: "Ein mächtiger Bergriese in Usbekistan, der majestätisch über den nordöstlichen Tälern thront und dauerhaften Schnee trägt.", hu: "Hatalmas hegyóriás Üzbegisztánban, amely fenségesen magasodik az északkeleti völgyek fölé, és állandó hó borítja.", ro: "Un munte masiv în Uzbekistan, care se înalță maiestuos deasupra văilor nord-estice și este acoperit de zăpadă permanentă.", en: "A massive mountain giant in Uzbekistan, majestically towering over the northeastern valleys and bearing permanent snow." },
     facts: {
       de: ["Die Höhe beträgt über 4.299 Meter, was ihn extrem ablegen macht.", "Die Nordhänge sind von Gletschern bedeckt."],
@@ -162,7 +186,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "national-park",
     parent: "UZ-TO",
     coords: [70.1983, 41.5205],
-    name: { de: "Nationalpark Ugam-Tschatkal", hu: "Ugam-Csatkal Nemzeti Park", ro: "Parcul Național Ugam-Chatkal", en: "Ugam-Chatkal National Park" },
+    name: { de: "Nationalpark Ugam-Tschatkal", hu: "Ugam-Csatkal Nemzeti Park", ro: "Parcul Național Ugam-Chatkal", en: "Ugam-Chatkal National Park",
+image: "/poi-images/ugam-chatkal-national-park-nature-v2.webp"
+},
     description: { de: "Ein weitläufiger Nationalpark im westlichen Tian Shan, der für seine vielfältige Flora, Fauna und malerischen Bergschluchten geschätzt wird.", hu: "Kiterjedt nemzeti park a nyugati Tien-sanban, amelyet változatos növényzete, állatvilága és festői hegyi szurdokai miatt értékelnek.", ro: "Un parc național vast în vestul munților Tian Shan, apreciat pentru flora sa diversă, faună și defileele pitorești.", en: "An extensive national park in the western Tian Shan, valued for its diverse flora, fauna, and picturesque mountain gorges." },
     facts: {
       de: ["Gehört zum UNESCO-Weltnaturerbe Westliches Tian-Shan.", "Beheimatet seltene Arten wie den Schneeleoparden und den Braunbären."],
@@ -175,7 +201,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "national-park",
     parent: "UZ-JI",
     coords: [68.3241, 39.5847],
-    name: { de: "Nationalpark Zaamin", hu: "Zaamin Nemzeti Park", ro: "Parcul Național Zaamin", en: "Zaamin National Park" },
+    name: { de: "Nationalpark Zaamin", hu: "Zaamin Nemzeti Park", ro: "Parcul Național Zaamin", en: "Zaamin National Park",
+image: "/poi-images/zaamin-national-park-nature-v2.webp"
+},
     description: { de: "Das älteste Naturschutzgebiet des Landes, bekannt für seine ausgedehnten Nadelwälder und tiefen Schluchten an den Hängen der Turkestankette.", hu: "Az ország legrégebbi természetvédelmi területe, amely a Turkesztáni-hegylánc lejtőin található kiterjedt tűlevelű erdeiről és mély szurdokairól ismert.", ro: "Cea mai veche rezervație naturală din țară, cunoscută pentru pădurile sale extinse de conifere și defileele adânci de pe pantele lanțului Turkestan.", en: "The oldest nature reserve in the country, known for its extensive coniferous forests and deep gorges on the slopes of the Turkestan Range." },
     facts: {
       de: ["Wurde 1976 gegründet, um die einzigartige Wacholderwald-Ökologie zu schützen.", "Bietet wichtige Lebensräume für den asiatischen Schwarzbären."],
@@ -188,7 +216,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "national-park",
     parent: "UZ-JI",
     coords: [66.8647, 40.5283],
-    name: { de: "Biosphärenreservat Nuratau-Kysylkum", hu: "Nuratau-Kizilkum Bioszféra-rezervátum", ro: "Rezervația Biosferei Nuratau-Kyzylkum", en: "Nuratau-Kyzylkum Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Nuratau-Kysylkum", hu: "Nuratau-Kizilkum Bioszféra-rezervátum", ro: "Rezervația Biosferei Nuratau-Kyzylkum", en: "Nuratau-Kyzylkum Biosphere Reserve",
+image: "/poi-images/nuratau-kyzylkum-reserve-nature-v2.webp"
+},
     description: { de: "Ein Schutzgebiet, das die Übergangszone zwischen der trockenen Kysylkum-Wüste und dem grünen Nuratau-Gebirge umfasst.", hu: "Védett terület, amely a száraz Kizil-kum sivatag és a zöld Nuratau-hegység közötti átmeneti zónát foglalja magában.", ro: "O arie protejată care acoperă zona de tranziție între deșertul arid Kyzylkum și munții verzi Nuratau.", en: "A protected area encompassing the transition zone between the arid Kyzylkum Desert and the green Nuratau Mountains." },
     facts: {
       de: ["Schützt die endemische Population des Severtsov-Wildschafs.", "Verbindet Wüsten-, Steppen- und Gebirgsökosysteme."],
@@ -201,7 +231,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "national-park",
     parent: "UZ-QA",
     coords: [67.6219, 38.9142],
-    name: { de: "Naturreservat Gissar", hu: "Gisszar Természetvédelmi Terület", ro: "Rezervația Naturală Gissar", en: "Gissar State Nature Reserve" },
+    name: { de: "Naturreservat Gissar", hu: "Gisszar Természetvédelmi Terület", ro: "Rezervația Naturală Gissar", en: "Gissar State Nature Reserve",
+image: "/poi-images/gissar-reserve-nature-v2.webp"
+},
     description: { de: "Das flächenmäßig größte Naturschutzgebiet in Usbekistan, das die raue und unzugängliche Gissar-Gebirgskette mit Höhlen und Gletschern bewahrt.", hu: "Üzbegisztán legnagyobb kiterjedésű természetvédelmi területe, amely a zord és megközelíthetetlen Gisszar-hegységet védi barlangokkal és gleccserekkel.", ro: "Cea mai mare rezervație naturală din Uzbekistan, conservând lanțul muntos Gissar, aspru și inaccesibil, cu peșteri și ghețari.", en: "The largest nature reserve by area in Uzbekistan, preserving the rugged and inaccessible Gissar mountain range with caves and glaciers." },
     facts: {
       de: ["Beinhaltet die berühmte Tamerlan-Höhle und versteckte Wasserfälle.", "Wurde 1983 gegründet, um seltene Tier- und Pflanzenarten zu erhalten."],
@@ -214,7 +246,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "national-park",
     parent: "UZ-SU",
     coords: [68.2114, 37.8924],
-    name: { de: "Naturreservat Surchan", hu: "Szurháni Természetvédelmi Terület", ro: "Rezervația Naturală Surkhan", en: "Surkhan State Nature Reserve" },
+    name: { de: "Naturreservat Surchan", hu: "Szurháni Természetvédelmi Terület", ro: "Rezervația Naturală Surkhan", en: "Surkhan State Nature Reserve",
+image: "/poi-images/surkhan-reserve-nature-v2.webp"
+},
     description: { de: "Ein Schutzgebiet im Süden Usbekistans, das durch seine archäologischen Stätten und eine reiche Reptilienfauna gekennzeichnet ist.", hu: "Védett terület Üzbegisztán déli részén, amelyet régészeti lelőhelyei és gazdag hüllőfaunája jellemez.", ro: "O rezervație naturală în sudul Uzbekistanului, caracterizată prin siturile sale arheologice și fauna bogată de reptile.", en: "A protected area in southern Uzbekistan, characterized by its archaeological sites and rich reptile fauna." },
     facts: {
       de: ["Hier befinden sich fossile Dinosaurierspuren und uralte Höhlen.", "Schützt die extrem bedrohte Schraubenziege (Markhor)."],
@@ -228,7 +262,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "forest",
     parent: "UZ-QR",
     coords: [60.3347, 41.9723],
-    name: { de: "Naturreservat Badai-Tugai", hu: "Badaj-Tugaj Természetvédelmi Terület", ro: "Rezervația Naturală Badai-Tugai", en: "Badai-Tugai Nature Reserve" },
+    name: { de: "Naturreservat Badai-Tugai", hu: "Badaj-Tugaj Természetvédelmi Terület", ro: "Rezervația Naturală Badai-Tugai", en: "Badai-Tugai Nature Reserve",
+image: "/poi-images/badai-tugai-reserve-nature-v2.webp"
+},
     description: { de: "Ein einzigartiges Waldreservat in Karakalpakstan, das die letzten Reste der Auwälder (Tugai) entlang des Amudarja-Flusses bewahrt.", hu: "Egyedülálló erdőrezervátum Karakalpaksztánban, amely az ártéri erdők (tugájok) utolsó maradványait védi az Amu-darja folyó mentén.", ro: "O rezervație forestieră unică în Karakalpakstan, care păstrează ultimele rămășițe ale pădurilor de luncă (tugai) de-a lungul râului Amu Daria.", en: "A unique forest reserve in Karakalpakstan, preserving the last remnants of the riparian forests (tugai) along the Amu Darya river." },
     facts: {
       de: ["Das Reservat ist eine Oase der Biodiversität in einer ansonsten wüstenartigen Region.", "Erfolgreiches Zentrum für die Wiederansiedlung des Bucharahirsches."],
@@ -241,7 +277,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "forest",
     parent: "UZ-SA",
     coords: [67.0982, 39.5638],
-    name: { de: "Naturreservat Sarafschon", hu: "Zarafsoni Természetvédelmi Terület", ro: "Rezervația Naturală Zarafșan", en: "Zeravshan State Nature Reserve" },
+    name: { de: "Naturreservat Sarafschon", hu: "Zarafsoni Természetvédelmi Terület", ro: "Rezervația Naturală Zarafșan", en: "Zeravshan State Nature Reserve",
+image: "/poi-images/zeravshan-reserve-nature-v2.webp"
+},
     description: { de: "Ein geschützter Galeriewaldkomplex entlang des Sarafschon-Flusses, der für den Erhalt von Sanddorn und anderen lokalen Pflanzenarten wichtig ist.", hu: "Védett galériaerdő-komplexum a Zarafson-folyó mentén, amely fontos a homoktövis és más helyi növényfajok megőrzése szempontjából.", ro: "Un complex protejat de pădure-galerie de-a lungul râului Zarafșan, important pentru conservarea cătinei și a altor specii de plante locale.", en: "A protected gallery forest complex along the Zarafshan River, important for preserving sea buckthorn and other local plant species." },
     facts: {
       de: ["Wurde gegründet, um die einzigartigen Tugai-Wälder der Region zu retten.", "Es ist ein wichtiger Lebensraum für den seltenen Sarafschon-Fasan."],
@@ -254,7 +292,9 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "mountain",
     parent: "UZ-QA",
     coords: [67.1475, 39.1972],
-    name: { de: "Geologisches Reservat Kitab", hu: "Kitab Geológiai Rezervátum", ro: "Rezervația Geologică Kitab", en: "Kitab State Geological Reserve" },
+    name: { de: "Geologisches Reservat Kitab", hu: "Kitab Geológiai Rezervátum", ro: "Rezervația Geologică Kitab", en: "Kitab State Geological Reserve",
+image: "/poi-images/kitab-reserve-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes geologisches Schutzgebiet im Sarafschon-Gebirge, das unzählige marine Fossilien freilegt und einen Einblick in vergangene Erdzeitalter bietet.", hu: "Jelentős geológiai védett terület a Zarafson-hegységben, amely számtalan tengeri ősmaradványt tár fel, és bepillantást nyújt az elmúlt földtörténeti korokba.", ro: "O arie protejată geologică importantă în Munții Zarafșan, care expune nenumărate fosile marine și oferă o perspectivă asupra erelor geologice trecute.", en: "An important geological protected area in the Zarafshan Range that exposes countless marine fossils and offers a glimpse into past geological eras." },
     facts: {
       de: ["Verfügt über Gesteinsschichten, die über 400 Millionen Jahre alt sind.", "Ist eine der wenigen Stätten weltweit, die die Grenze zwischen Unter- und Mitteldevon so klar dokumentieren."],

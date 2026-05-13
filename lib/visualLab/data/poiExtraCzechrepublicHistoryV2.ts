@@ -4,7 +4,9 @@ export const czechrepublicHistoryV2: POI[] = [
   {
     id: "czechrepublic-prague-castle-history-v2",
     type: "castle",
-    name: { de: "Prager Burg", hu: "Prágai vár", ro: "Cetatea Praga", en: "Prague Castle" },
+    name: { de: "Prager Burg", hu: "Prágai vár", ro: "Cetatea Praga", en: "Prague Castle",
+image: "/poi-images/czechrepublic-prague-castle-history-v2.webp"
+},
     coords: [14.4016, 50.0911],
     coordinates: { lat: 50.0911, lng: 14.4016 },
     description: {
@@ -19,11 +21,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondată în jurul anului 870", "Suprafață de aproximativ 70.000 de metri pătrați", "Găzduiește bijuteriile coroanei boeme", "Sediu al Sfântului Imperiu Roman sub Carol al IV-lea"],
       en: ["Founded around the year 870", "Area of approximately 70,000 square meters", "Houses the Bohemian Crown Jewels", "Seat of the Holy Roman Empire under Charles IV"],
     },
-    imageHint: "Aerial view of Prague Castle and St. Vitus Cathedral", image: "/poi-images/czechrepublic-prague-castle-history-v2.webp"},
+    imageHint: "Aerial view of Prague Castle and St. Vitus Cathedral",
+    image: "/poi-images/czechrepublic-prague-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Prager Burg wurde um 870 gegründet und gilt laut Guinness-Buch der Rekorde als größtes geschlossenes Burgareal der Welt, welches heute Sitz des tschechischen Präsidenten ist.",
+      hu: "A 9. században alapított prágai vár a világ legnagyobb összefüggő várkomplexuma, amely évszázadokon át a cseh királyok, ma pedig a köztársasági elnök hivatalos székhelye.",
+      ro: "Fondat în jurul anului 870, Castelul din Praga este cel mai mare complex medieval din lume, servind drept reședință pentru regii Boemiei și, în prezent, pentru președintele țării.",
+      en: "Founded around 870, Prague Castle is recognized as the largest ancient castle complex in the world, serving as the historical seat of Czech monarchs and the current president.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 70.000 m2", "Gegründet um das Jahr 870", "Länge von etwa 570 Metern", "UNESCO-Welterbe seit 1992"],
+      hu: ["Közel 70 000 m2-es terület", "Alapítása 870 körül történt", "Hossza kb. 570 méter", "UNESCO világörökség 1992 óta"],
+      ro: ["Suprafață de circa 70.000 m2", "Fondat în anul 870", "Lungime de aproximativ 570 m", "Patrimoniu UNESCO din 1992"],
+      en: ["Area of nearly 70,000 m2", "Founded around the year 870", "Length of about 570 meters", "UNESCO site since 1992"],
+    },
+  },
   {
     id: "czechrepublic-austerlitz-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Austerlitz", hu: "Austerlitzi csatatér", ro: "Câmpul de luptă de la Austerlitz", en: "Austerlitz Battlefield" },
+    name: { de: "Schlachtfeld von Austerlitz", hu: "Austerlitzi csatatér", ro: "Câmpul de luptă de la Austerlitz", en: "Austerlitz Battlefield",
+image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp"
+},
     coords: [16.7622, 49.1272],
     coordinates: { lat: 49.1272, lng: 16.7622 },
     description: {
@@ -38,11 +56,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Data bătăliei: 2 decembrie 1805", "Monarhi participanți: Napoleon, Alexandru I, Francisc II", "Cea mai mare victorie tactică a lui Napoleon", "Monumentul Păcii construit între 1910 și 1912"],
       en: ["Date of the battle: December 2, 1805", "Monarchs involved: Napoleon, Alexander I, Francis II", "Napoleon's greatest tactical victory", "Peace Memorial built between 1910 and 1912"],
     },
-    imageHint: "Peace Memorial on Prace Hill near Austerlitz", image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp"},
+    imageHint: "Peace Memorial on Prace Hill near Austerlitz",
+    image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Austerlitz bei Brünn war am 2. Dezember 1805 Schauplatz der Dreikaiserschlacht, in der Napoleon Bonaparte einen entscheidenden Sieg über Russland und Österreich errang.",
+      hu: "Az austerlitzi csatatér az 1805. december 2-i három császár csatájának helyszíne, ahol Napóleon zseniális taktikával győzte le az egyesült orosz és osztrák seregeket.",
+      ro: "Câmpul de bătălie de la Austerlitz a găzduit în 1805 celebra Bătălie a celor Trei Împărați, unde Napoleon I a obținut o victorie decisivă împotriva forțelor ruso-austriece.",
+      en: "The Austerlitz battlefield hosted the Battle of the Three Emperors on December 2, 1805, marking one of Napoleon's greatest victories over Russian and Austrian forces.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 2. Dezember 1805", "Über 150.000 beteiligte Soldaten", "Friedensmal ist 26 Meter hoch", "Sieg der französischen Armee"],
+      hu: ["Dátum: 1805. december 2.", "Több mint 150 000 katona vívta", "A Béke-emlékmű 26 méter magas", "Francia katonai győzelem"],
+      ro: ["Data: 2 decembrie 1805", "Peste 150.000 de soldați implicați", "Monumentul Păcii are 26 m înălțime", "Victorie a armatei franceze"],
+      en: ["Date: December 2, 1805", "Over 150,000 soldiers engaged", "Peace Memorial is 26 meters high", "French tactical victory"],
+    },
+  },
   {
     id: "czechrepublic-karlstejn-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Karlstein", hu: "Karlštejn vára", ro: "Castelul Karlštejn", en: "Karlštejn Castle" },
+    name: { de: "Burg Karlstein", hu: "Karlštejn vára", ro: "Castelul Karlštejn", en: "Karlštejn Castle",
+image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp"
+},
     coords: [14.1883, 49.9392],
     coordinates: { lat: 49.9392, lng: 14.1883 },
     description: {
@@ -57,11 +91,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Piatra de temelie pusă în 1348", "Găzduiește Capela Sfintei Cruci", "Construcție finalizată în anul 1365", "Sistemul de fortificații a rezistat mai multor asedii"],
       en: ["Foundation stone laid in 1348", "Home to the Chapel of the Holy Cross", "Construction finished in 1365", "Fortification system withstood multiple sieges"],
     },
-    imageHint: "Gothic Karlštejn Castle on a hill surrounded by forest", image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp"},
+    imageHint: "Gothic Karlštejn Castle on a hill surrounded by forest",
+    image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Burg Karlstein wurde 1348 von Karl IV. als sicherer Aufbewahrungsort für die Reichskleinodien des Heiligen Römischen Reiches und die böhmischen Kronschätze errichtet.",
+      hu: "Karlštejn várát IV. Károly német-római császár építtette 1348-ban, hogy itt őrizzék a birodalmi koronázási ékszereket és a szent ereklyéket egy áthatolhatatlan erődben.",
+      ro: "Castelul Karlštejn a fost ridicat în 1348 de Carol al IV-lea pentru a adăposti în siguranță bijuteriile coroanei Sfântului Imperiu Roman și moaștele sfinte.",
+      en: "Karlštejn Castle was founded in 1348 by Charles IV to serve as a secure treasury for the Imperial Regalia of the Holy Roman Empire and Czech crown jewels.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1348 bis 1365", "Großer Turm ist 60 Meter hoch", "Mauern bis zu 4 Meter dick", "Sitz der böhmischen Kronschätze"],
+      hu: ["Épült 1348 és 1365 között", "A nagy torony 60 méter magas", "A falak vastagsága eléri a 4 métert", "Koronázási ékszerek egykori őrzőhelye"],
+      ro: ["Construit între 1348 și 1365", "Turnul Mare are 60 m înălțime", "Ziduri de până la 4 m grosime", "Tezaur pentru bijuteriile imperiale"],
+      en: ["Built between 1348 and 1365", "The Great Tower is 60 meters high", "Walls up to 4 meters thick", "Former treasury for crown jewels"],
+    },
+  },
   {
     id: "czechrepublic-terezin-memorial-history-v2",
     type: "monument",
-    name: { de: "Gedenkstätte Theresienstadt", hu: "Terezín emlékhely", ro: "Memorialul Terezín", en: "Terezín Memorial" },
+    name: { de: "Gedenkstätte Theresienstadt", hu: "Terezín emlékhely", ro: "Memorialul Terezín", en: "Terezín Memorial",
+image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp"
+},
     coords: [14.1481, 50.5114],
     coordinates: { lat: 50.5114, lng: 14.1481 },
     description: {
@@ -76,11 +126,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construcția fortăreței sub Iosif al II-lea în 1780", "Compusă din Fortăreața Mare și Fortăreața Mică", "Peste 150.000 de oameni au fost deportați aici", "Eliberat la 8 mai 1945 de trupele sovietice"],
       en: ["Fortress construction began under Joseph II in 1780", "Consists of the Large and Small Fortresses", "Over 150,000 people were deported here", "Liberated on May 8, 1945, by Soviet troops"],
     },
-    imageHint: "Small Fortress entrance gate at Terezín", image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp"},
+    imageHint: "Small Fortress entrance gate at Terezín",
+    image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gedenkstätte Theresienstadt erinnert an das ehemalige NS-Konzentrationslager und Ghetto, in dem während des Zweiten Weltkriegs zehntausende jüdische Menschen interniert wurden.",
+      hu: "A terezíni emlékhely a náci megszállás idején működtetett gyűjtőtábor és gettó áldozatainak állít emléket, ahol a zsidó lakosságot és politikai foglyokat tartották fogva.",
+      ro: "Memorialul Terezín comemorează victimele ghetoului și lagărului de concentrare nazist instalat în fosta fortăreață militară în timpul celui de-al Doilea Război Mondial.",
+      en: "The Terezín Memorial preserves the memory of the Nazi concentration camp and ghetto established in a former military fortress during World War II.",
+    },
+    factsAdvanced: {
+      de: ["Über 150.000 jüdische Häftlinge", "Gegründet als Festung 1780", "Befreiung am 8. Mai 1945", "Kleine Festung diente als Gefängnis"],
+      hu: ["Több mint 150 000 zsidó fogoly", "Erődként épült 1780-ban", "Felszabadulás: 1945. május 8.", "A kis erőd börtönként funkcionált"],
+      ro: ["Peste 150.000 de deținuți evrei", "Fondată ca fortăreață în 1780", "Eliberată la 8 mai 1945", "Fortăreața Mică a fost închisoare"],
+      en: ["Over 150,000 Jewish prisoners", "Built as a fortress in 1780", "Liberated on May 8, 1945", "Small Fortress served as prison"],
+    },
+  },
   {
     id: "czechrepublic-sedlec-ossuary-history-v2",
     type: "church",
-    name: { de: "Beinhaus von Sedlec", hu: "Sedleci osszárium", ro: "Osuarul din Sedlec", en: "Sedlec Ossuary" },
+    name: { de: "Beinhaus von Sedlec", hu: "Sedleci osszárium", ro: "Osuarul din Sedlec", en: "Sedlec Ossuary",
+image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp"
+},
     coords: [15.2881, 49.9618],
     coordinates: { lat: 49.9618, lng: 15.2881 },
     description: {
@@ -95,11 +161,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondarea mănăstirii în anul 1142", "Pământul cimitirului ar proveni din Ierusalim", "Decor interior realizat de František Rint în 1870", "Include un candelabru masiv realizat din oase"],
       en: ["Monastery founded in the year 1142", "Cemetery soil allegedly brought from Jerusalem", "Interior decoration by František Rint in 1870", "Contains a massive chandelier made of bones"],
     },
-    imageHint: "Interior of Sedlec Ossuary showing bone decorations", image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp"},
+    imageHint: "Interior of Sedlec Ossuary showing bone decorations",
+    image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Beinhaus von Sedlec ist eine weltberühmte Kapelle, deren Innenausstattung kunstvoll aus den Knochen von etwa 40.000 bis 70.000 Menschen gefertigt wurde.",
+      hu: "A sedleci osszárium egy egyedülálló kápolna Kutná Hora mellett, amelynek belső díszítését 40 000–70 000 emberi csontváz felhasználásával készítették el.",
+      ro: "Osuarul din Sedlec este o capelă unică decorată cu oasele a aproximativ 40.000 până la 70.000 de oameni, aranjate în forme artistice macabre.",
+      en: "The Sedlec Ossuary is a world-renowned chapel containing the artistically arranged bones of approximately 40,000 to 70,000 people.",
+    },
+    factsAdvanced: {
+      de: ["Knochen von bis zu 70.000 Skeletten", "Riesiger Kronleuchter aus Knochen", "Gegründet im 12. Jahrhundert", "Wappen der Familie Schwarzenberg"],
+      hu: ["Akár 70 000 csontváz maradványai", "Hatalmas csontcsillár díszíti", "A 12. században alapították", "A Schwarzenberg család címere látható"],
+      ro: ["Oase de la 70.000 de schelete", "Candelabru uriaș făcut din oase", "Fondat în secolul al XII-lea", "Blazonul familiei Schwarzenberg"],
+      en: ["Bones of up to 70,000 skeletons", "Giant chandelier made of bones", "Founded in the 12th century", "Schwarzenberg family coat of arms"],
+    },
+  },
   {
     id: "czechrepublic-vysehrad-history-v2",
     type: "monument",
-    name: { de: "Vyšehrad", hu: "Vyšehrad", ro: "Vyšehrad", en: "Vyšehrad" },
+    name: { de: "Vyšehrad", hu: "Vyšehrad", ro: "Vyšehrad", en: "Vyšehrad",
+image: "/poi-images/czechrepublic-vysehrad-history-v2.webp"
+},
     coords: [14.4197, 50.0644],
     coordinates: { lat: 50.0644, lng: 14.4197 },
     description: {
@@ -114,11 +196,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Rotunda Sf. Martin construită în secolul al XI-lea", "Reședința principală a lui Vratislav II în secolul XI", "Sistem de fortificații baroc din secolul XVII", "Cimitirul Slavín găzduiește morminte ale unor cehi celebri"],
       en: ["St. Martin Rotunda built in the 11th century", "Main seat of Vratislav II in the late 11th century", "Baroque fortification system from the 17th century", "Slavín cemetery houses graves of famous Czechs"],
     },
-    imageHint: "Twin towers of the Basilica at Vyšehrad overlooking the river", image: "/poi-images/czechrepublic-vysehrad-history-v2.webp"},
+    imageHint: "Twin towers of the Basilica at Vyšehrad overlooking the river",
+    image: "/poi-images/czechrepublic-vysehrad-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Vyšehrad ist eine historische Festung auf einem Felsen über der Moldau, die laut Sagen der erste Sitz der böhmischen Fürsten war und nationale Bedeutung besitzt.",
+      hu: "Vyšehrad egy sziklán álló történelmi erőd a Moldva felett, amely a legendák szerint a cseh fejedelmek első székhelye és a nemzeti identitás fontos jelképe.",
+      ro: "Vyšehrad este o fortăreață istorică situată pe o stâncă deasupra Vltavei, considerată conform legendelor drept prima reședință a prinților boemi.",
+      en: "Vyšehrad is a historic fort perched on a rock overlooking the Vltava River, traditionally considered the legendary first seat of Bohemian princes.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 10. Jahrhundert", "St. Martins-Rotunde aus dem 11. Jh.", "Friedhof berühmter Tschechen", "Barocke Festungsmauern erhalten"],
+      hu: ["A 10. században alapították", "Szent Márton-rotunda (11. sz.)", "Híres csehek nemzeti temetője", "Barokk erődítményfalak övezik"],
+      ro: ["Fondată în secolul al X-lea", "Rotonda Sf. Martin din sec. XI", "Cimitir pentru personalități cehe", "Ziduri de fortificație baroce"],
+      en: ["Founded in the 10th century", "St. Martin Rotunda (11th century)", "Cemetery of famous Czech figures", "Baroque fortress walls preserved"],
+    },
+  },
   {
     id: "czechrepublic-white-mountain-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld am Weißen Berg", hu: "Fehérhegyi csatatér", ro: "Câmpul de luptă de la Muntele Alb", en: "White Mountain Battlefield" },
+    name: { de: "Schlachtfeld am Weißen Berg", hu: "Fehérhegyi csatatér", ro: "Câmpul de luptă de la Muntele Alb", en: "White Mountain Battlefield",
+image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp"
+},
     coords: [14.3169, 50.0761],
     coordinates: { lat: 50.0761, lng: 14.3169 },
     description: {
@@ -133,11 +231,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Data bătăliei: 8 noiembrie 1620", "A durat doar aproximativ două ore", "Monument ridicat în 1920 marchează locul", "Castelul Steaua din apropiere este o clădire renascentistă"],
       en: ["Date of the battle: November 8, 1620", "Lasted only about two hours", "Monument from 1920 marks the site", "Nearby Star Summer Palace is a Renaissance structure"],
     },
-    imageHint: "Memorial at the White Mountain battlefield in Prague", image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp"},
+    imageHint: "Memorial at the White Mountain battlefield in Prague",
+    image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Schlacht am Weißen Berg am 8. November 1620 markierte den Beginn der Rekatholisierung Böhmens und eine lange Phase der habsburgischen Herrschaft über das Land.",
+      hu: "A Fehérhegyi csata 1620. november 8-án a cseh rendek döntő vereségét hozta, ami a cseh önállóság elvesztéséhez és a Habsburgok hosszú uralmához vezetett.",
+      ro: "Bătălia de la Muntele Alb din 8 noiembrie 1620 a fost un punct de cotitură istoric, marcând sfârșitul revoltei boeme și începutul dominației habsburgice.",
+      en: "The Battle of White Mountain on November 8, 1620, was a decisive early battle in the Thirty Years' War, ending Bohemian autonomy for three centuries.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 8. November 1620", "Dauerte nur etwa zwei Stunden", "Ort: Stadtrand von Prag", "Sieg der katholischen Liga"],
+      hu: ["Dátum: 1620. november 8.", "Csak mintegy két órát tartott", "Helyszín: Prága külvárosa", "A Katolikus Liga győzelme"],
+      ro: ["Data: 8 noiembrie 1620", "A durat doar aproximativ două ore", "Locație: periferia Pragi", "Victorie a Ligii Catolice"],
+      en: ["Date: November 8, 1620", "Lasted only about two hours", "Location: Outskirts of Prague", "Victory for the Catholic League"],
+    },
+  },
   {
     id: "czechrepublic-lidice-memorial-history-v2",
     type: "monument",
-    name: { de: "Gedenkstätte Lidice", hu: "Lidice emlékhely", ro: "Memorialul Lidice", en: "Lidice Memorial" },
+    name: { de: "Gedenkstätte Lidice", hu: "Lidice emlékhely", ro: "Memorialul Lidice", en: "Lidice Memorial",
+image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp"
+},
     coords: [14.1897, 50.1436],
     coordinates: { lat: 50.1436, lng: 14.1897 },
     description: {
@@ -152,11 +266,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Distrugerea satului la 10 iunie 1942", "Executarea a 173 de bărbați pe loc", "Include Monumentul Copiilor Victime ale Războiului", "Noul sat Lidice a fost construit din 1947 în apropiere"],
       en: ["Destruction of the village on June 10, 1942", "173 men were executed on the spot", "Contains the Memorial to the Children Victims of the War", "New Lidice village was built nearby starting in 1947"],
     },
-    imageHint: "Bronze monument of children at Lidice memorial", image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp"},
+    imageHint: "Bronze monument of children at Lidice memorial",
+    image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mahnmal in Lidice erinnert an die totale Vernichtung des Dorfes durch die Nationalsozialisten im Jahr 1942 als Vergeltungsmaßnahme für das Attentat auf Heydrich.",
+      hu: "A lidicei emlékhely az 1942-ben a nácik által teljesen elpusztított falu tragédiájára emlékeztet, amelyet a Heydrich elleni merénylet megtorlásaként töröltek el.",
+      ro: "Memorialul Lidice este ridicat pe locul satului distrus complet de naziști în 1942 ca represalii pentru asasinarea lui Reinhard Heydrich.",
+      en: "The Lidice Memorial stands on the site of a village completely razed by the Nazis in 1942 in retaliation for the assassination of Reinhard Heydrich.",
+    },
+    factsAdvanced: {
+      de: ["Zerstörung am 10. Juni 1942", "Skulptur von 82 Kindern", "Ort wurde komplett eingeebnet", "Weltweite Solidaritätsbekundungen"],
+      hu: ["Pusztítás: 1942. június 10.", "82 gyermek bronzszobra", "A falut teljesen a földdel tették egyenlővé", "Világszerte neveztek el helyeket Lidicéről"],
+      ro: ["Distrus la 10 iunie 1942", "Sculptură cu 82 de copii", "Satul a fost complet șters de pe hartă", "Multe localități i-au preluat numele"],
+      en: ["Destroyed on June 10, 1942", "Sculpture of 82 children", "The village was entirely leveled", "Global movement to rename places Lidice"],
+    },
+  },
   {
     id: "czechrepublic-trosky-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Trosky", hu: "Trosky várrom", ro: "Ruinele Castelului Trosky", en: "Trosky Castle Ruins" },
+    name: { de: "Burgruine Trosky", hu: "Trosky várrom", ro: "Ruinele Castelului Trosky", en: "Trosky Castle Ruins",
+image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp"
+},
     coords: [15.2308, 50.5164],
     coordinates: { lat: 50.5164, lng: 15.2308 },
     description: {
@@ -171,11 +301,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construit de Čeněk de Wartenberg în jurul anului 1380", "Castel abandonat după Războiul de Treizeci de Ani", "Turnurile au 47 și 57 de metri înălțime", "Simbol al regiunii Paradisul Ceh"],
       en: ["Built by Čeněk of Wartenberg around 1380", "Abandoned after the Thirty Years' War", "Towers are 47 and 57 meters high", "Symbol of the Bohemian Paradise region"],
     },
-    imageHint: "Trosky castle ruins with two towers on basalt peaks", image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp"},
+    imageHint: "Trosky castle ruins with two towers on basalt peaks",
+    image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Burgruine Trosky mit ihren markanten Türmen „Baba“ und „Panna“ auf zwei Basaltfelsen ist das Symbol des Böhmischen Paradieses und eine uneinnehmbare Festung des 14. Jh.",
+      hu: "A Trosky várrom két jellegzetes bazalttornya, a „Banya” és a „Szűz”, a Cseh Paradicsom jelképe, amely egy 14. századi, szinte bevehetetlen erőd maradványa.",
+      ro: "Ruinele Castelului Trosky, cu cele două turnuri emblematice „Baba” și „Panna” ridicate pe stânci de bazalt, reprezintă simbolul Paradisului Boem.",
+      en: "The Trosky Castle ruins, featuring the distinct 'Baba' and 'Panna' towers atop basalt plugs, are the iconic symbol of the Bohemian Paradise region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Türme: 47m und 57m", "Erbaut am Ende des 14. Jh.", "Zwei markante Basaltfelsen", "In den Hussitenkriegen nie erobert"],
+      hu: ["Tornyok magassága: 47 m és 57 m", "A 14. század végén épült", "Két vulkáni bazaltcsúcson áll", "A huszita háborúkban sosem vették be"],
+      ro: ["Înălțimea turnurilor: 47m și 57m", "Construit la finele sec. XIV", "Situat pe două vârfuri de bazalt", "Niciodată cucerit în războaiele husite"],
+      en: ["Tower heights: 47m and 57m", "Built at the end of the 14th century", "Set on two basalt volcanic plugs", "Never conquered during Hussite Wars"],
+    },
+  },
   {
     id: "czechrepublic-dolni-vestonice-history-v2",
     type: "ruins",
-    name: { de: "Dolní Věstonice", hu: "Dolní Věstonice", ro: "Dolní Věstonice", en: "Dolní Věstonice" },
+    name: { de: "Dolní Věstonice", hu: "Dolní Věstonice", ro: "Dolní Věstonice", en: "Dolní Věstonice",
+image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp"
+},
     coords: [16.6542, 48.8892],
     coordinates: { lat: 48.8892, lng: 16.6542 },
     description: {
@@ -190,11 +336,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Figurina Venus are o vechime de 25.000-29.000 de ani", "Descoperirea așezării în anul 1924", "Artefactele atestă vânătoarea de mamuți", "Muzeul arheologic din sat expune replici"],
       en: ["Venus figurine is 25,000 to 29,000 years old", "Discovery of the settlement in 1924", "Finds prove mammoth hunting and textile making", "Archaeological museum in the village shows replicas"],
     },
-    imageHint: "Archaeological site at Dolní Věstonice and Pálava hills", image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp"},
+    imageHint: "Archaeological site at Dolní Věstonice and Pálava hills",
+    image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dolní Věstonice ist eine der bedeutendsten paläolithischen Fundstätten weltweit, bekannt für den Fund der Venus von Věstonice, einer rund 29.000 Jahre alten Tonfigur.",
+      hu: "Dolní Věstonice a világ egyik legfontosabb paleolit lelőhelye, ahol megtalálták a híres vèstonicei Vénuszt, egy kb. 29 000 éves égetett agyagfigurát.",
+      ro: "Dolní Věstonice este un sit arheologic paleolitic de importanță mondială, celebru pentru descoperirea Venerei din Věstonice, o figurină de lut veche de 29.000 ani.",
+      en: "Dolní Věstonice is one of the world's most significant Paleolithic archaeological sites, famous for the discovery of the 29,000-year-old Venus of Věstonice.",
+    },
+    factsAdvanced: {
+      de: ["Venus-Figur ist 11,5 cm groß", "Alter: ca. 25.000–29.000 Jahre", "Älteste Keramik der Welt", "Siedlung von Mammutjägern"],
+      hu: ["A Vénusz szobor 11,5 cm magas", "Kora: kb. 25 000–29 000 év", "A világ legrégebbi kerámiája", "Mamutvadászok egykori települése"],
+      ro: ["Figurina are 11,5 cm înălțime", "Vechime: 25.000–29.000 ani", "Cea mai veche ceramică din lume", "Așezare de vânători de mamuți"],
+      en: ["Venus figurine is 11.5 cm tall", "Age: approx. 25,000–29,000 years", "Oldest ceramic in the world", "Settlement of mammoth hunters"],
+    },
+  },
   {
     id: "czechrepublic-rip-rotunda-history-v2",
     type: "church",
-    name: { de: "Georgsrotunde auf dem Říp", hu: "Szent György-rotunda a Říp-hegyen", ro: "Rotunda Sf. Gheorghe de pe Muntele Říp", en: "St. George Rotunda on Říp" },
+    name: { de: "Georgsrotunde auf dem Říp", hu: "Szent György-rotunda a Říp-hegyen", ro: "Rotunda Sf. Gheorghe de pe Muntele Říp", en: "St. George Rotunda on Říp",
+image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp"
+},
     coords: [14.2894, 50.3861],
     coordinates: { lat: 50.3861, lng: 14.2894 },
     description: {
@@ -209,11 +371,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară în 1126", "Comemorează victoria în bătălia de la Chlumec", "Una dintre cele mai vechi clădiri conservate din Cehia", "Înălțimea muntelui Říp: 456 metri"],
       en: ["First mentioned in the year 1126", "Commemorates the victory in the Battle of Chlumec", "One of the oldest preserved buildings in Czechia", "Height of Mount Říp: 456 meters"],
     },
-    imageHint: "Romanesque rotunda on top of Mount Říp", image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp"},
+    imageHint: "Romanesque rotunda on top of Mount Říp",
+    image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die romanische Rotunde des heiligen Georg auf dem Berg Říp ist ein nationales Kulturdenkmal und ein Symbol für die sagenumwobene Ankunft der Tschechen im Land.",
+      hu: "A Říp-hegyen álló Szent György-rotunda egy román stílusú nemzeti emlékhely, amely a monda szerint a csehek őseinek letelepedési helyszínét jelöli.",
+      ro: "Rotonda Sfântului Gheorghe de pe muntele Říp este un monument romanic emblematic, legat de legenda sosirii primilor cehi în această regiune.",
+      en: "The Romanesque Rotunda of St. George on Mount Říp is a national cultural monument symbolizing the legendary arrival of the Czech ancestors in the land.",
+    },
+    factsAdvanced: {
+      de: ["Berg Říp ist 459 Meter hoch", "Rotunde erbaut vor 1126", "Nationales Symbol der Tschechen", "Romanischer Baustil erhalten"],
+      hu: ["A Říp-hegy 459 méter magas", "A rotunda 1126 előtt épült", "A csehek nemzeti szimbóluma", "Ép állapotú román stílusú épület"],
+      ro: ["Muntele Říp are 459 m înălțime", "Rotondă construită înainte de 1126", "Simbol național al cehilor", "Stil arhitectural romanic pur"],
+      en: ["Mount Říp is 459 meters high", "Rotunda built before 1126", "National symbol of the Czechs", "Well-preserved Romanesque style"],
+    },
+  },
   {
     id: "czechrepublic-pernstejn-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Pernstein", hu: "Pernštejn vára", ro: "Castelul Pernštejn", en: "Pernštejn Castle" },
+    name: { de: "Burg Pernstein", hu: "Pernštejn vára", ro: "Castelul Pernštejn", en: "Pernštejn Castle",
+image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp"
+},
     coords: [16.3183, 49.4509],
     coordinates: { lat: 49.4509, lng: 16.3183 },
     description: {
@@ -228,11 +406,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construcția a început în secolul al XIII-lea", "Utilizarea marmurei albe locale", "Găzduiește faimosul Turn al Foamei", "Locație populară de filmare pentru filme istorice"],
       en: ["Construction started in the 13th century", "Used local white marble for construction", "Famous Hunger Tower located within the grounds", "Popular filming location for historical movies"],
     },
-    imageHint: "Medieval Pernštejn Castle in Moravia", image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp"},
+    imageHint: "Medieval Pernštejn Castle in Moravia",
+    image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Burg Pernštejn, auch als „Marmorburg“ bekannt, ist eine der am besten erhaltenen gotischen Festungen Mährens, die in ihrer Geschichte niemals eingenommen wurde.",
+      hu: "Pernštejn vára, a „Márványvár”, Morvaország egyik legjobb állapotban fennmaradt gótikus erődítménye, amelyet története során egyetlen ostromló sem tudott bevenni.",
+      ro: "Castelul Pernštejn, cunoscut sub numele de „Castelul de Marmură”, este una dintre cele mai bine conservate fortărețe gotice din Moravia, niciodată cucerită.",
+      en: "Pernštejn Castle, known as the 'Marble Castle', is one of Moravia's best-preserved Gothic fortresses, famously never conquered throughout its history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 13. Jahrhundert", "Niemals militärisch erobert", "Verwendung von lokalem Marmor", "Bekannter Drehort für Filme"],
+      hu: ["A 13. században alapították", "Katonailag sosem győzték le", "Helyi márványt használtak hozzá", "Népszerű filmes forgatási helyszín"],
+      ro: ["Fondat în secolul al XIII-lea", "Niciodată cucerit prin asediu", "Utilizează marmură locală", "Locație celebră pentru filme"],
+      en: ["Founded in the 13th century", "Never conquered by military force", "Built using local marble", "Popular filming location for movies"],
+    },
+  },
   {
     id: "czechrepublic-spilberk-fortress-history-v2",
     type: "monument",
-    name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Fortăreața Špilberk", en: "Špilberk Fortress" },
+    name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Fortăreața Špilberk", en: "Špilberk Fortress",
+image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp"
+},
     coords: [16.5994, 49.1947],
     coordinates: { lat: 49.1947, lng: 16.5994 },
     description: {
@@ -247,11 +441,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Cunoscută drept 'Închisoarea Națiunilor'", "Rezistență împotriva asediului suedez din 1645", "Cazematele sunt astăzi deschise turiștilor", "Utilizată de Gestapo ca închisoare în Al Doilea Război Mondial"],
       en: ["Known as the 'Prison of Nations'", "Resisted the Swedish siege in 1645", "Casemates are now open to tourists", "Used as a Gestapo prison during WWII"],
     },
-    imageHint: "Špilberk Fortress on a hill in Brno", image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp"},
+    imageHint: "Špilberk Fortress on a hill in Brno",
+    image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Festung Špilberk in Brünn diente einst als Residenz der mährischen Markgrafen und später als berüchtigtes Gefängnis für politische Gefangene der Monarchie.",
+      hu: "A brnói Špilberk vár egykor a morva őrgrófok székhelye volt, majd később a Habsburg Birodalom legkeményebb börtöneként, a „nemzetek börtöneként” vált hírhedtté.",
+      ro: "Cetatea Špilberk din Brno a servit inițial drept reședință regală, devenind ulterior temuta „închisoare a națiunilor” pentru prizonierii politici ai imperiului.",
+      en: "Špilberk Fortress in Brno once served as the seat of Moravian margraves before becoming the notorious 'Prison of Nations' for political prisoners.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 13. Jahrhundert", "Bekannt als „Völkergefängnis“", "Kasematten sind für Besucher offen", "Zitadelle wurde 1809 gesprengt"],
+      hu: ["A 13. században alapították", "„Nemzetek börtöneként” ismert", "A kazamaták látogathatók", "A citadellát 1809-ben felrobbantották"],
+      ro: ["Fondată în secolul al XIII-lea", "Cunoscută ca „închisoarea națiunilor”", "Cazemate deschise vizitatorilor", "Citadelă parțial distrusă în 1809"],
+      en: ["Founded in the 13th century", "Known as the 'Prison of Nations'", "Casemates are open to the public", "Citadel partially destroyed in 1809"],
+    },
+  },
   {
     id: "czechrepublic-telc-square-history-v2",
     type: "town",
-    name: { de: "Historischer Marktplatz von Telč", hu: "Telč történelmi főtere", ro: "Piața istorică din Telč", en: "Telč Historic Square" },
+    name: { de: "Historischer Marktplatz von Telč", hu: "Telč történelmi főtere", ro: "Piața istorică din Telč", en: "Telč Historic Square",
+image: "/poi-images/czechrepublic-telc-square-history-v2.webp"
+},
     coords: [15.4528, 49.1842],
     coordinates: { lat: 49.1842, lng: 15.4528 },
     description: {
@@ -266,11 +476,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Incendiul din 1530 a fost un punct de cotitură", "Zacharias de Neuhaus a modelat aspectul actual", "Castelul Telč este o bijuterie a Renașterii", "Piața este înconjurată de iazuri artificiale"],
       en: ["1530 fire was the turning point for reconstruction", "Zacharias of Neuhaus shaped the current appearance", "Telč Castle is a jewel of Renaissance architecture", "The square is surrounded by artificial ponds"],
     },
-    imageHint: "Colorful Renaissance house facades in Telč square", image: "/poi-images/czechrepublic-telc-square-history-v2.webp"},
+    imageHint: "Colorful Renaissance house facades in Telč square",
+    image: "/poi-images/czechrepublic-telc-square-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der historische Marktplatz von Telč ist berühmt für seine geschlossene Renaissance-Bebauung mit farbenfrohen Giebeln und Arkaden, die seit 1992 zum UNESCO-Welterbe gehört.",
+      hu: "Telč főtere Európa egyik legszebb reneszánsz tere, amelyet egységes stílusú, árkádos polgárházak és díszes oromzatok öveznek, 1992 óta a világörökség része.",
+      ro: "Piața istorică din Telč este renumită pentru arhitectura sa renascentistă omogenă, cu fațade colorate și arcade, inclusă în patrimoniul UNESCO din 1992.",
+      en: "The historic square of Telč is famous for its harmonious Renaissance houses with colorful gables and arcades, listed as a UNESCO World Heritage site since 1992.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1992", "Häuser nach dem Brand von 1530", "Einzigartige Renaissance-Giebel", "Ursprüngliche Arkaden erhalten"],
+      hu: ["UNESCO világörökség 1992 óta", "Az 1530-as tűzvész után épült", "Egyedi reneszánsz oromzatok", "Eredeti árkádok maradtak fenn"],
+      ro: ["Patrimoniu UNESCO din 1992", "Reconstruită după incendiul din 1530", "Frontonuri renascentiste unice", "Arcade originale conservate"],
+      en: ["UNESCO World Heritage since 1992", "Built after the 1530 fire", "Unique Renaissance gables", "Original arcades preserved"],
+    },
+  },
   {
     id: "czechrepublic-kromeriz-palace-history-v2",
     type: "palace",
-    name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Kroměříž Archbishop's Palace" },
+    name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Kroměříž Archbishop's Palace",
+image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp"
+},
     coords: [17.3931, 49.2997],
     coordinates: { lat: 49.2997, lng: 17.3931 },
     description: {
@@ -285,11 +511,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Patrimoniu mondial UNESCO din 1998", "Galeria de artă deține tabloul lui Titian 'Jupuirea lui Marsyas'", "Grădina de Flori este o capodoperă barocă", "Biblioteca castelului conține peste 40.000 de volume"],
       en: ["UNESCO World Heritage site since 1998", "Picture gallery holds Titian's 'The Flaying of Marsyas'", "Flower Garden is a Baroque landscaping masterpiece", "The palace library contains over 40,000 volumes"],
     },
-    imageHint: "Archbishop's Palace in Kroměříž with gardens", image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp"},
+    imageHint: "Archbishop's Palace in Kroměříž with gardens",
+    image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Erzbischöfliche Schloss Kroměříž mit seinem Lustgarten und dem Schlossgarten ist ein herausragendes Beispiel barocker Architektur und gehört zum UNESCO-Welterbe.",
+      hu: "A kroměříži érseki palota és annak kertjei a barokk építészet és kertművészet kiemelkedő példái, amelyek 1998 óta szerepelnek az UNESCO világörökségi listáján.",
+      ro: "Palatul Arhiepiscopal din Kroměříž, împreună cu grădinile sale spectaculoase, este o capodoperă a barocului european inclusă în patrimoniul UNESCO.",
+      en: "The Archbishop's Palace in Kroměříž and its surrounding gardens are a masterpiece of European Baroque architecture and a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1998", "Sitz des Reichstags von 1848", "Berühmter barocker Blumengarten", "Gemäldegalerie mit Tizian-Werk"],
+      hu: ["UNESCO világörökség 1998 óta", "Az 1848-as osztrák birodalmi gyűlés helye", "Híres barokk Virágoskert", "Képtár Tiziano-festménnyel"],
+      ro: ["Patrimoniu UNESCO din 1998", "Sediu al Dietei Imperiale în 1848", "Grădină de flori barocă celebră", "Galerie cu picturi de Titian"],
+      en: ["UNESCO site since 1998", "Seat of the 1848 Imperial Diet", "Famous Baroque Flower Garden", "Gallery features a Titian painting"],
+    },
+  },
   {
     id: "czechrepublic-litomysl-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Litomyšl", hu: "Litomyšli kastély", ro: "Castelul Litomyšl", en: "Litomyšl Castle" },
+    name: { de: "Schloss Litomyšl", hu: "Litomyšli kastély", ro: "Castelul Litomyšl", en: "Litomyšl Castle",
+image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp"
+},
     coords: [16.3122, 49.8736],
     coordinates: { lat: 49.8736, lng: 16.3122 },
     description: {
@@ -304,11 +546,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construit între 1568 și 1581", "Patrimoniu mondial UNESCO din 1999", "Găzduiește un teatru baroc unic", "Locul de naștere al compozitorului Bedřich Smetana"],
       en: ["Built between 1568 and 1581", "UNESCO World Heritage site since 1999", "Contains a unique preserved Baroque theatre", "Birthplace of the composer Bedřich Smetana"],
     },
-    imageHint: "Renaissance Litomyšl Castle with sgraffito walls", image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp"},
+    imageHint: "Renaissance Litomyšl Castle with sgraffito walls",
+    image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Schloss Litomyšl ist ein prachtvolles Renaissance-Schloss mit Arkadenhof, dessen Fassaden mit Sgraffito-Technik reich verziert sind und seit 1999 zum UNESCO-Erbe zählen.",
+      hu: "A litomyšli várkastély egy pompás reneszánsz épület árkádos udvarral és sgraffito díszítésű homlokzattal, amely a világhírű zeneszerző, Bedřich Smetana szülőhelye.",
+      ro: "Castelul Litomyšl este un palat renascentist magnific, cu curți interioare cu arcade și fațade sgraffito, inclus în lista patrimoniului mondial UNESCO.",
+      en: "Litomyšl Castle is a magnificent Renaissance arcade castle adorned with intricate sgraffito decorations, recognized as a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1999", "Über 8.000 Sgraffito-Briefchen", "Geburtsort von Bedřich Smetana", "Barockes Schlosstheater erhalten"],
+      hu: ["UNESCO világörökség 1999 óta", "Több mint 8000 sgraffito dísz", "Bedřich Smetana szülőhelye", "Ép barokk kastélyszínház"],
+      ro: ["Patrimoniu UNESCO din 1999", "Peste 8.000 de sgraffito unice", "Locul de naștere al lui B. Smetana", "Teatru baroc de castel conservat"],
+      en: ["UNESCO site since 1999", "Over 8,000 unique sgraffito motifs", "Birthplace of Bedřich Smetana", "Preserved Baroque castle theater"],
+    },
+  },
   {
     id: "czechrepublic-loket-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Loket", hu: "Loket vára", ro: "Castelul Loket", en: "Loket Castle" },
+    name: { de: "Burg Loket", hu: "Loket vára", ro: "Castelul Loket", en: "Loket Castle",
+image: "/poi-images/czechrepublic-loket-castle-history-v2.webp"
+},
     coords: [12.7536, 50.1864],
     coordinates: { lat: 50.1864, lng: 12.7536 },
     description: {
@@ -323,11 +581,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Numele înseamnă 'cot' (de la cursul râului)", "Carol al IV-lea a fost deținut aici în copilărie", "Găzduiește o expoziție de tortură medievală", "Goethe a vizitat castelul de mai multe ori"],
       en: ["The name means 'elbow' due to the river bend", "Charles IV was imprisoned here as a child", "Houses an exhibition of medieval torture", "Goethe visited the castle several times"],
     },
-    imageHint: "Loket Castle on a cliff overlooking the river", image: "/poi-images/czechrepublic-loket-castle-history-v2.webp"},
+    imageHint: "Loket Castle on a cliff overlooking the river",
+    image: "/poi-images/czechrepublic-loket-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die gotische Burg Loket thront auf einem Felsen über der Eger und wurde oft von Karl IV. besucht. Sie ist bekannt für ihre strategische Lage und gut erhaltene Architektur.",
+      hu: "Loket gótikus vára az Ohře folyó kanyarulatában egy sziklán áll, kedvelt helyszíne volt IV. Károlynak, és híres épségben maradt középkori építészetéről.",
+      ro: "Castelul gotic Loket domină râul Ohře de pe o stâncă înaltă, fiind o fostă fortăreață strategică vizitată frecvent de împăratul Carol al IV-lea.",
+      en: "The Gothic Loket Castle perches on a rock above a bend in the Ohře River, famously frequented by Charles IV and known for its strategic medieval design.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 12. Jahrhundert", "Besuchsort von J. W. Goethe", "Foltermuseum in den Kellern", "Meteorit von Loket (1422)"],
+      hu: ["A 12. században alapították", "J. W. Goethe többször meglátogatta", "Kínzómúzeum a pincében", "Loketi meteorit (1422)"],
+      ro: ["Fondat în secolul al XII-lea", "Vizitat de J. W. Goethe", "Muzeu al torturii în subsoluri", "Meteoritul din Loket (1422)"],
+      en: ["Founded in the 12th century", "Visited by J. W. Goethe", "Torture museum in the cellars", "Loket meteorite fell here in 1422"],
+    },
+  },
   {
     id: "czechrepublic-bezdez-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Bezděz", hu: "Bezděz vára", ro: "Castelul Bezděz", en: "Bezděz Castle" },
+    name: { de: "Burg Bezděz", hu: "Bezděz vára", ro: "Castelul Bezděz", en: "Bezděz Castle",
+image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp"
+},
     coords: [14.7192, 50.5392],
     coordinates: { lat: 50.5392, lng: 14.7192 },
     description: {
@@ -342,11 +616,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Locul de detenție al regelui Wenceslau II în 1279", "Capela castelului este o bijuterie gotică timpurie", "Situat pe vârful muntelui Velký Bezděz", "Inspirație pentru poetul Karel Hynek Mácha"],
       en: ["Prison for King Wenceslaus II in 1279", "The castle chapel is a gem of early Gothic art", "Located on the summit of Velký Bezděz mountain", "Inspiration for the poet Karel Hynek Mácha"],
     },
-    imageHint: "Early Gothic Bezděz Castle on a high hill", image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp"},
+    imageHint: "Early Gothic Bezděz Castle on a high hill",
+    image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Burg Bezděz ist eine frühgotische Festung auf einem markanten Kegelberg, die vor allem als Gefängnis für den böhmischen König Wenzel II. historisch bekannt wurde.",
+      hu: "Bezděz vára egy korai gótikus erődítmény egy látványos bazaltkúpon, amely arról vált híressé, hogy itt tartották fogva a gyermek II. Vencel cseh királyt.",
+      ro: "Castelul Bezděz este o fortăreață gotică timpurie situată pe un munte conic, faimoasă pentru că a fost locul de detenție al regelui Venceslau al II-lea.",
+      en: "Bezděz Castle is an early Gothic fortress atop a steep basalt hill, historically notable as the prison of the young Bohemian King Wenceslaus II.",
+    },
+    factsAdvanced: {
+      de: ["Berg ist 604 Meter hoch", "Erbaut zwischen 1264–1278", "Kapelle gilt als Meisterwerk", "Inspiration für K. H. Mácha"],
+      hu: ["A hegy 604 méter magas", "Épült 1264 és 1278 között", "A várkápolna gótikus remekmű", "K. H. Mácha költő múzsája"],
+      ro: ["Muntele are 604 m înălțime", "Construit între 1264–1278", "Capela este o capodoperă gotică", "Inspirat de poetul K. H. Mácha"],
+      en: ["The hill is 604 meters high", "Built between 1264–1278", "Chapel is a Gothic masterpiece", "Inspiration for poet K. H. Mácha"],
+    },
+  },
   {
     id: "czechrepublic-kuks-hospital-history-v2",
     type: "monument",
-    name: { de: "Hospital Kuks", hu: "Kuks kórház", ro: "Spitalul Kuks", en: "Kuks Hospital" },
+    name: { de: "Hospital Kuks", hu: "Kuks kórház", ro: "Spitalul Kuks", en: "Kuks Hospital",
+image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp"
+},
     coords: [15.8894, 50.3925],
     coordinates: { lat: 50.3925, lng: 15.8894 },
     description: {
@@ -361,11 +651,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Grup statuar 'Virtuți și Vicii' de Matyáš Braun", "Include una dintre cele mai vechi farmacii din Europa", "Biserica Sfânta Treime face parte din complex", "Restaurare amplă finalizată în anul 2015"],
       en: ["Sculpture series 'Virtues and Vices' by Matyáš Braun", "Contains one of the oldest pharmacies in Europe", "The Church of the Most Holy Trinity is part of it", "Major restoration was completed in 2015"],
     },
-    imageHint: "Baroque Kuks Hospital with row of sculptures", image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp"},
+    imageHint: "Baroque Kuks Hospital with row of sculptures",
+    image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hospital Kuks ist ein monumentaler Barockkomplex, der für seine beeindruckenden Statuen der Tugenden und Laster von Matthias Bernhard Braun weltbekannt ist.",
+      hu: "A kuks-i kórház egy monumentális barokk épületegyüttes, amely Matthias Bernhard Braun híres szoborcsoportjairól, az Erényekről és Bűnökről vált világhírűvé.",
+      ro: "Spitalul Kuks este un complex baroc monumental, celebru pentru seria de sculpturi reprezentând Virtuțile și Viciile realizate de Matthias B. Braun.",
+      en: "Kuks Hospital is a monumental Baroque complex world-renowned for its expressive statues of Virtues and Vices by sculptor Matthias Bernhard Braun.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1707 bis 1715", "24 Statuen von M. B. Braun", "Historische Barockapotheke", "Erbaut durch Graf von Sporck"],
+      hu: ["Épült 1707 és 1715 között", "M. B. Braun 24 mesterműve", "Történelmi barokk patika", "Sporck gróf építtette"],
+      ro: ["Construit între 1707–1715", "24 de statui de M. B. Braun", "Farmacie barocă istorică", "Fondat de contele von Sporck"],
+      en: ["Built between 1707–1715", "24 statues by M. B. Braun", "Historic Baroque pharmacy", "Founded by Count von Sporck"],
+    },
+  },
   {
     id: "czechrepublic-trebic-jewish-quarter-history-v2",
     type: "town",
-    name: { de: "Jüdisches Viertel in Třebíč", hu: "Třebíči zsidó negyed", ro: "Cartierul Evreiesc din Třebíč", en: "Třebíč Jewish Quarter" },
+    name: { de: "Jüdisches Viertel in Třebíč", hu: "Třebíči zsidó negyed", ro: "Cartierul Evreiesc din Třebíč", en: "Třebíč Jewish Quarter",
+image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp"
+},
     coords: [15.8772, 49.2172],
     coordinates: { lat: 49.2172, lng: 15.8772 },
     description: {
@@ -380,11 +686,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Statut UNESCO din anul 2003", "Clădiri dense, fără grădini sau curți interioare", "Sinagoga din spate deține picturi murale valoroase", "Mărturie a coexistenței evreilor și creștinilor"],
       en: ["UNESCO status granted in 2003", "Densely built area without gardens or courtyards", "Rear Synagogue contains valuable wall paintings", "A testimony to Jewish and Christian co-existence"],
     },
-    imageHint: "Narrow street in the historic Jewish Quarter of Třebíč", image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp"},
+    imageHint: "Narrow street in the historic Jewish Quarter of Třebíč",
+    image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das jüdische Viertel von Třebíč gehört zusammen mit der St.-Prokop-Basilika zum UNESCO-Welterbe und ist eines der am besten erhaltenen jüdischen Ghettos in Europa.",
+      hu: "Třebíč zsidó negyede és a Szent Prokop-bazilika az UNESCO világörökség része, amely Európa egyik legjobb állapotban fennmaradt egykori zsidó gettója.",
+      ro: "Cartierul Evreiesc din Třebíč, împreună cu Basilica Sf. Procopie, formează un sit UNESCO remarcabil, fiind unul dintre cele mai bine păstrate ghetouri din Europa.",
+      en: "The Třebíč Jewish Quarter and St. Procopius Basilica are a UNESCO World Heritage site, forming one of Europe's best-preserved former Jewish ghettos.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 2003", "Über 120 erhaltene Häuser", "Zwei Synagogen im Viertel", "Alter jüdischer Friedhof (16. Jh.)"],
+      hu: ["UNESCO világörökség 2003 óta", "Több mint 120 lakóház maradt meg", "Két zsinagóga található itt", "Régi zsidó temető (16. sz.)"],
+      ro: ["Patrimoniu UNESCO din 2003", "Peste 120 de case conservate", "Două sinagogi în cartier", "Cimitir evreiesc vechi (sec. XVI)"],
+      en: ["UNESCO site since 2003", "Over 120 houses preserved", "Two synagogues in the district", "Old Jewish cemetery (16th century)"],
+    },
+  },
   {
     id: "czechrepublic-rabi-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Rabí", hu: "Rabí várrom", ro: "Ruinele Castelului Rabí", en: "Rabí Castle Ruins" },
+    name: { de: "Burgruine Rabí", hu: "Rabí várrom", ro: "Ruinele Castelului Rabí", en: "Rabí Castle Ruins",
+image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp"
+},
     coords: [13.6186, 49.2797],
     coordinates: { lat: 49.2797, lng: 13.6186 },
     description: {
@@ -399,11 +721,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construcția începută în secolul al XIV-lea", "Lungimea zidurilor este de aproape 3 kilometri", "Turnul central de locuit are 26 de metri înălțime", "Folosit ca sursă de piatră în secolul al XVIII-lea"],
       en: ["Construction began in the 14th century", "The defensive walls are nearly 3 kilometers long", "The central residential tower is 26 meters high", "Used as a stone quarry in the 18th century"],
     },
-    imageHint: "Aerial view of the massive Rabí castle ruins", image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp"},
+    imageHint: "Aerial view of the massive Rabí castle ruins",
+    image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Burgruine Rabí ist die flächenmäßig größte Burgruine in Tschechien. Hier verlor der hussitische Feldherr Jan Žižka während der Belagerung im Jahr 1421 sein zweites Auge.",
+      hu: "Rabí vára Csehország legnagyobb területű várroma, amely arról is nevezetes, hogy Jan Žižka hussita vezér itt veszítette el a második szemét az 1421-es ostromkor.",
+      ro: "Ruinele Castelului Rabí reprezintă cel mai mare complex de acest tip din Cehia, fiind locul unde comandantul husit Jan Žižka și-a pierdut al doilea ochi în 1421.",
+      en: "Rabí Castle is the largest castle ruin in the Czech Republic by area, famously where Hussite general Jan Žižka lost his second eye during a 1421 siege.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Mauern: ca. 3 km", "Gegründet im 13. Jahrhundert", "Größte Burgruine Tschechiens", "Jan Žižka verlor hier sein Auge"],
+      hu: ["A falak hossza közel 3 km", "A 13. században alapították", "Csehország legnagyobb várroma", "Jan Žižka itt vakult meg teljesen"],
+      ro: ["Lungimea zidurilor: cca. 3 km", "Fondat în secolul al XIII-lea", "Cele mai mari ruine din Cehia", "Jan Žižka a orbit aici în 1421"],
+      en: ["Wall length: approx. 3 km", "Founded in the 13th century", "Largest castle ruin in Czechia", "Jan Žižka lost his eye here in 1421"],
+    },
+  },
   {
     id: "czechrepublic-stary-plzenec-history-v2",
     type: "church",
-    name: { de: "Rotunde in Starý Plzenec", hu: "Starý Plzenec-i rotunda", ro: "Rotunda din Starý Plzenec", en: "Starý Plzenec Rotunda" },
+    name: { de: "Rotunde in Starý Plzenec", hu: "Starý Plzenec-i rotunda", ro: "Rotunda din Starý Plzenec", en: "Starý Plzenec Rotunda",
+image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp"
+},
     coords: [13.4792, 49.6975],
     coordinates: { lat: 49.6975, lng: 13.4792 },
     description: {
@@ -418,11 +756,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construită în secolul al X-lea", "Singura clădire conservată din cetatea originală", "Situată pe dealul Hůrka", "Exemplu tipic de arhitectură romanică boemă"],
       en: ["Built in the 10th century", "Only preserved building of the original castle", "Located on the Hůrka hill", "Typical example of Bohemian Romanesque architecture"],
     },
-    imageHint: "Small stone Romanesque rotunda in Starý Plzenec", image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp"},
+    imageHint: "Small stone Romanesque rotunda in Starý Plzenec",
+    image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Rotunde St. Peter und Paul in Starý Plzenec ist das älteste erhaltene christliche Bauwerk in Westböhmen und stammt aus dem späten 10. Jahrhundert.",
+      hu: "A Starý Plzenec-i Szent Péter és Pál-rotunda Nyugat-Csehország legrégebbi fennmaradt keresztény építménye, amely a 10. század végén épült.",
+      ro: "Rotonda Sfinților Petru și Pavel din Starý Plzenec este cel mai vechi edificiu creștin conservat din Boemia de Vest, datând de la finele secolului al X-lea.",
+      en: "The Rotunda of St. Peter and Paul in Starý Plzenec is the oldest preserved Christian building in West Bohemia, dating back to the late 10th century.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 10. Jahrhundert", "Ältestes Bauwerk Westböhmens", "Teil der alten Burg Hůrka", "Vorrömische Architekturform"],
+      hu: ["A 10. században épült", "Nyugat-Csehország legrégebbi épülete", "A Hůrka vár egykori része", "Preromán stílusú kőépület"],
+      ro: ["Construită în secolul al X-lea", "Cea mai veche clădire din regiune", "Parte a vechii cetăți Hůrka", "Arhitectură preromanică"],
+      en: ["Built in the 10th century", "Oldest building in West Bohemia", "Part of the former Hůrka castle", "Pre-Romanesque architecture"],
+    },
+  },
   {
     id: "czechrepublic-kolin-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Kolin", hu: "Kolíni csatatér", ro: "Câmpul de luptă de la Kolin", en: "Kolin Battlefield" },
+    name: { de: "Schlachtfeld von Kolin", hu: "Kolíni csatatér", ro: "Câmpul de luptă de la Kolin", en: "Kolin Battlefield",
+image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp"
+},
     coords: [15.1225, 50.0125],
     coordinates: { lat: 50.0125, lng: 15.1225 },
     description: {
@@ -437,11 +791,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Data bătăliei: 18 iunie 1757", "Victorie sub comanda feldmareșalului Daun", "Monumentul de pe dealul Křečhoř comemorează victoria", "A împiedicat ocuparea prusacă a Pragăi"],
       en: ["Date of the battle: June 18, 1757", "Victory achieved under Field Marshal Daun", "Obelisk monument on Křečhoř hill marks the site", "Prevented the Prussian occupation of Prague"],
     },
-    imageHint: "Battle of Kolin monument obelisk on a hill", image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp"},
+    imageHint: "Battle of Kolin monument obelisk on a hill",
+    image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld bei Kolín war 1757 Ort einer bedeutenden Schlacht im Siebenjährigen Krieg, in der die Österreicher Friedrich dem Großen seine erste Niederlage beifügten.",
+      hu: "A kolíni csatatéren 1757-ben zajlott a hétéves háború egyik kulcsfontosságú ütközete, ahol az osztrák sereg elsöprő vereséget mért Nagy Frigyes porosz királyra.",
+      ro: "Câmpul de luptă de la Kolín a fost scena unei victorii austriece cruciale în 1757, reprezentând prima înfrângere a lui Frederic cel Mare în Războiul de Șapte Ani.",
+      en: "The Kolín battlefield was the site of a major 1757 battle during the Seven Years' War, where Austrian forces handed Frederick the Great his first defeat.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 18. Juni 1757", "Sieg der österreichischen Armee", "Niederlage Friedrichs des Großen", "Über 80.000 Soldaten beteiligt"],
+      hu: ["Dátum: 1757. június 18.", "Osztrák katonai győzelem", "Nagy Frigyes első veresége", "Több mint 80 000 katona küzdött"],
+      ro: ["Data: 18 iunie 1757", "Victorie a armatei austriece", "Prima înfrângere a lui Frederic II", "Peste 80.000 de soldați implicați"],
+      en: ["Date: June 18, 1757", "Victory for the Austrian army", "Frederick the Great's first defeat", "Over 80,000 soldiers involved"],
+    },
+  },
   {
     id: "czechrepublic-cheb-castle-history-v2",
     type: "castle",
-    name: { de: "Egerer Burg", hu: "Chebi vár", ro: "Castelul Cheb", en: "Cheb Castle" },
+    name: { de: "Egerer Burg", hu: "Chebi vár", ro: "Castelul Cheb", en: "Cheb Castle",
+image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp"
+},
     coords: [12.3681, 50.0814],
     coordinates: { lat: 50.0814, lng: 12.3681 },
     description: {
@@ -456,11 +826,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Singura reședință imperială Staufer pe teritoriul ceh", "Locul asasinării ofițerilor lui Wallenstein în 1634", "Turnul Negru este construit din rocă vulcanică", "Punct strategic pe drumul comercial spre Nürnberg"],
       en: ["Only Staufer imperial palace on Czech territory", "Site of the murder of Wallenstein's officers in 1634", "The Black Tower is built from volcanic lava stone", "Strategic point on the trade route to Nuremberg"],
     },
-    imageHint: "Cheb Castle ruins with the Black Tower", image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp"},
+    imageHint: "Cheb Castle ruins with the Black Tower",
+    image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kaiserpfalz Cheb ist die einzige staufische Pfalz auf tschechischem Gebiet und berühmt für ihre einzigartige doppelstöckige romanisch-gotische Kapelle.",
+      hu: "A chebi császári palota (Pfalz) az egyetlen ilyen stílusú építmény Csehországban, amely különleges kétszintes román-gótikus kápolnájáról és a „Fekete tornyáról” ismert.",
+      ro: "Castelul din Cheb este singura reședință imperială de tip „Pfalz” din Cehia, faimoasă pentru capela sa unică pe două niveluri și Turnul Negru.",
+      en: "Cheb Castle is the only Hohenstaufen imperial palace (Pfalz) in the Czech Republic, featuring a unique two-story Romanesque-Gothic chapel.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 12. Jahrhundert", "Einzige staufische Pfalz in CZ", "Doppelkapelle (12. Jh.)", "Mörderort der Offiziere Wallensteins"],
+      hu: ["A 12. században alapították", "Az egyetlen stauf császári palota", "Kétszintes kápolna (12. sz.)", "Wallenstein tisztjeinek meggyilkolási helye"],
+      ro: ["Fondat în secolul al XII-lea", "Singura reședință Pfalz din CZ", "Capelă dublă din sec. XII", "Locul asasinării ofițerilor lui Wallenstein"],
+      en: ["Founded in the 12th century", "Only Staufen Pfalz in Czechia", "Two-story chapel (12th century)", "Assassination site of Wallenstein's officers"],
+    },
+  },
   {
     id: "czechrepublic-hluboka-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Frauenberg", hu: "Hluboká kastély", ro: "Castelul Hluboká", en: "Hluboká Castle" },
+    name: { de: "Schloss Frauenberg", hu: "Hluboká kastély", ro: "Castelul Hluboká", en: "Hluboká Castle",
+image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp"
+},
     coords: [14.4414, 49.0511],
     coordinates: { lat: 49.0511, lng: 14.4414 },
     description: {
@@ -475,11 +861,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Deține 140 de camere bogat decorate", "Colecții vaste de arme și tapițerii", "Parcul castelului se întinde pe 58 de hectare", "Inspirat de castelul Windsor din Anglia"],
       en: ["Features 140 richly decorated rooms", "Extensive collections of weapons and tapestries", "The castle park spans 58 hectares", "Inspired by Windsor Castle in England"],
     },
-    imageHint: "White Neo-Gothic Hluboká Castle with towers", image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp"},
+    imageHint: "White Neo-Gothic Hluboká Castle with towers",
+    image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Schloss Hluboká gilt als eines der schönsten Schlösser Tschechiens und erhielt sein heutiges romantisches Aussehen im Stil der Windsor-Gotik im 19. Jahrhundert.",
+      hu: "Hluboká vára Csehország egyik leglátványosabb kastélya, amely mai romantikus, angol Windsor-stílusú külsejét a Schwarzenberg család 19. századi átépítése során nyerte el.",
+      ro: "Castelul Hluboká este considerat unul dintre cele mai frumoase din Cehia, fiind reconstruit în secolul al XIX-lea în stilul neogotic englezesc al Castelului Windsor.",
+      en: "Hluboká Castle is widely regarded as one of Czechia's most beautiful palaces, remodeled in the 19th century in the romantic English Windsor Gothic style.",
+    },
+    factsAdvanced: {
+      de: ["140 Zimmer und 11 Türme", "Umgebaut 1840–1871", "Vorbild: Schloss Windsor", "Besitz der Familie Schwarzenberg"],
+      hu: ["140 szoba és 11 torony", "Átépítve 1840 és 1871 között", "Mintája a windsori kastély volt", "A Schwarzenberg család birtoka volt"],
+      ro: ["140 de camere și 11 turnuri", "Reconstruit între 1840–1871", "Modelat după Castelul Windsor", "Proprietate a familiei Schwarzenberg"],
+      en: ["140 rooms and 11 towers", "Remodeled between 1840–1871", "Inspired by Windsor Castle", "Owned by the Schwarzenberg family"],
+    },
+  },
   {
     id: "czechrepublic-orlik-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Orlík", hu: "Orlík vára", ro: "Castelul Orlík", en: "Orlík Castle" },
+    name: { de: "Schloss Orlík", hu: "Orlík vára", ro: "Castelul Orlík", en: "Orlík Castle",
+image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp"
+},
     coords: [14.1697, 49.5128],
     coordinates: { lat: 49.5128, lng: 14.1697 },
     description: {
@@ -494,11 +896,27 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Numele înseamnă 'cuib de vultur'", "Nivelul apei a crescut cu 60 de metri după baraj", "Deține o bibliotecă și o colecție de arme importante", "Retrocedat familiei Schwarzenberg în 1992"],
       en: ["The name means 'eagle's nest'", "Water level rose by 60 meters after the dam construction", "Contains a significant library and arms collection", "Returned to the Schwarzenberg family in 1992"],
     },
-    imageHint: "Orlík Castle overlooking the reservoir water", image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp"},
+    imageHint: "Orlík Castle overlooking the reservoir water",
+    image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Schloss Orlík liegt malerisch am Ufer des Moldau-Stausees und war über Jahrhunderte der Hauptsitz der Familie Schwarzenberg mit bedeutenden historischen Sammlungen.",
+      hu: "Az Orlík-kastély a Moldva folyó mentén, egy gát felett áll, évszázadokon át a Schwarzenberg család székhelye volt, és jelentős történelmi gyűjteményeknek ad otthont.",
+      ro: "Castelul Orlík este situat pitoresc pe malul lacului de acumulare Orlík, fiind timp de secole reședința principală a ramurii familiei Schwarzenberg.",
+      en: "Orlík Castle is picturesquely situated on the banks of the Vltava reservoir, serving for centuries as the primary seat of the Schwarzenberg family.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Burg im 13. Jh.", "Wasserspiegel stieg um 60 Meter", "Ehemals auf hohem Felsen", "Bibliothek mit 18.000 Bänden"],
+      hu: ["A 13. században alapították", "A vízszint 60 métert emelkedett", "Eredetileg egy magas sziklán állt", "18 000 kötetes könyvtár"],
+      ro: ["Fondat ca cetate în sec. XIII", "Nivelul apei a urcat cu 60 m", "Inițial situat pe o stâncă înaltă", "Bibliotecă cu 18.000 de volume"],
+      en: ["Founded as a fort in the 13th century", "Water level rose by 60 meters", "Originally stood on a high cliff", "Library contains 18,000 volumes"],
+    },
+  },
   {
     id: "czechrepublic-slavonice-history-v2",
     type: "town",
-    name: { de: "Slavonice", hu: "Slavonice", ro: "Slavonice", en: "Slavonice" },
+    name: { de: "Slavonice", hu: "Slavonice", ro: "Slavonice", en: "Slavonice",
+image: "/poi-images/czechrepublic-slavonice-history-v2.webp"
+},
     coords: [15.3525, 48.9972],
     coordinates: { lat: 48.9972, lng: 15.3525 },
     description: {
@@ -514,5 +932,17 @@ export const czechrepublicHistoryV2: POI[] = [
       en: ["Flourished in the 16th century due to cloth trade", "Features a complex system of underground tunnels", "Houses in the square display biblical motifs", "Located on the historic Vienna-Prague postal route"],
     },
     imageHint: "Renaissance houses with sgraffito patterns in Slavonice",
+    descriptionAdvanced: {
+      de: "Slavonice ist eine historische Grenzstadt, die für ihre außergewöhnlich gut erhaltenen Bürgerhäuser mit kunstvollen Sgraffito-Fassaden aus der Renaissance bekannt ist.",
+      hu: "Slavonice egy történelmi kisváros az osztrák határnál, amely páratlan épségben megmaradt, sgraffito díszítésű reneszánsz polgárházairól és középkori pincerendszeréről híres.",
+      ro: "Slavonice este un oraș istoric de frontieră renumit pentru casele sale burgheze excepțional conservate, decorate cu sgraffito renascentist complex.",
+      en: "Slavonice is a historic border town renowned for its exceptionally well-preserved Renaissance burgher houses featuring intricate sgraffito facades.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 12. Jahrhundert", "Einzigartige Sgraffito-Häuser", "Lage an der Grenze zu Österreich", "Unterirdisches Gangsystem"],
+      hu: ["A 12. században alapították", "Egyedülálló sgraffito homlokzatok", "Az osztrák határ mentén fekszik", "Középkori föld alatti járatrendszer"],
+      ro: ["Fondat în secolul al XII-lea", "Fațade sgraffito unice", "Situat la granița cu Austria", "Sistem de tuneluri subterane"],
+      en: ["Founded in the 12th century", "Unique sgraffito decorations", "Located near the Austrian border", "Medieval underground tunnel system"],
+    },
   }
 ];

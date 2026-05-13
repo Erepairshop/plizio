@@ -6,7 +6,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-TPE",
     coords: [121.5833, 24.9983],
-    name: { de: "Zoologischer Garten Taipeh", hu: "Tajpeji Állatkert", ro: "Grădina Zoologică din Taipei", en: "Taipei Zoo" },
+    name: { de: "Zoologischer Garten Taipeh", hu: "Tajpeji Állatkert", ro: "Grădina Zoologică din Taipei", en: "Taipei Zoo",
+image: "/poi-images/taipei-zoo-life-v2.webp"
+},
     description: { de: "Der größte Zoo in Asien, bekannt für seine Großen Pandas.", hu: "Ázsia egyik legnagyobb állatkertje, amely híres az óriáspandáiról.", ro: "Una dintre cele mai mari grădini zoologice din Asia, renumită pentru urșii panda uriași.", en: "One of the largest zoos in Asia, well-known for its giant pandas." },
     facts: {
       de: ["Gegründet im Jahr 1914.", "Beherbergt über 400 Tierarten."],
@@ -20,7 +22,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "agriculture",
     parent: "TW-NAN",
     coords: [121.1561, 24.0583],
-    name: { de: "Qingjing-Farm", hu: "Csingcsing Farm", ro: "Ferma Qingjing", en: "Qingjing Farm" },
+    name: { de: "Qingjing-Farm", hu: "Csingcsing Farm", ro: "Ferma Qingjing", en: "Qingjing Farm",
+image: "/poi-images/qingjing-farm-life-v2.webp"
+},
     description: { de: "Eine malerische Farm in den Bergen, berühmt für ihre Schafherden und grünen Weiden.", hu: "Festői hegyi farm, amely híres birkanyájairól és zöldellő legelőiről.", ro: "O fermă montană pitorească, faimoasă pentru turmele de oi și pășunile verzi.", en: "A scenic mountain farm famous for its sheep herds and lush green pastures." },
     facts: {
       de: ["Liegt auf über 1.700 Metern Höhe.", "Wird oft als \"kleine Schweiz\" Taiwans bezeichnet."],
@@ -33,7 +37,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TW-TPE",
     coords: [121.4705, 25.1186],
-    name: { de: "Guandu-Naturpark", hu: "Kuantu Természetvédelmi Park", ro: "Parcul Natural Guandu", en: "Guandu Nature Park" },
+    name: { de: "Guandu-Naturpark", hu: "Kuantu Természetvédelmi Park", ro: "Parcul Natural Guandu", en: "Guandu Nature Park",
+image: "/poi-images/guandu-nature-park-life-v2.webp"
+},
     description: { de: "Ein wichtiges Feuchtgebiet in Taipeh, das als Rastplatz für viele Zugvögel dient.", hu: "Fontos vizes élőhely Tajpejben, amely számos költöző madár pihenőhelyéül szolgál.", ro: "O zonă umedă importantă din Taipei, care servește drept loc de odihnă pentru multe păsări migratoare.", en: "An important wetland in Taipei that serves as a resting place for many migratory birds." },
     facts: {
       de: ["Umfasst eine Fläche von 57 Hektar.", "Beliebter Ort zur Vogelbeobachtung im Herbst und Winter."],
@@ -46,7 +52,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "agriculture",
     parent: "TW-MIA",
     coords: [120.7397, 24.4338],
-    name: { de: "Flying-Cow-Ranch", hu: "Repülő Tehén Farm", ro: "Ferma Flying Cow", en: "Flying Cow Ranch" },
+    name: { de: "Flying-Cow-Ranch", hu: "Repülő Tehén Farm", ro: "Ferma Flying Cow", en: "Flying Cow Ranch",
+image: "/poi-images/flying-cow-ranch-life-v2.webp"
+},
     description: { de: "Ein beliebter Freizeitbauernhof in Miaoli, der interaktive Erlebnisse mit Milchkühen und anderen Tieren bietet.", hu: "Népszerű szabadidős gazdaság Miaoliban, amely interaktív élményeket kínál tehenekkel és más állatokkal.", ro: "O fermă de agrement populară din Miaoli, care oferă experiențe interactive cu vaci de lapte și alte animale.", en: "A popular recreational farm in Miaoli offering interactive experiences with dairy cows and other animals." },
     facts: {
       de: ["Bietet Aktivitäten wie Kuhmelken an.", "Umfasst ausgedehnte Wiesen und Wälder."],
@@ -59,7 +67,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "park",
     parent: "TW-NAN",
     coords: [120.7961, 23.6683],
-    name: { de: "Xitou-Naturerholungsgebiet", hu: "Hszitou Természetoktatási Terület", ro: "Aria de Educație Naturală Xitou", en: "Xitou Nature Education Area" },
+    name: { de: "Xitou-Naturerholungsgebiet", hu: "Hszitou Természetoktatási Terület", ro: "Aria de Educație Naturală Xitou", en: "Xitou Nature Education Area",
+image: "/poi-images/xitou-nature-education-area-life-v2.webp"
+},
     description: { de: "Ein dichter Bambuswald und Forschungsgebiet, das eine kühle und ruhige Atmosphäre bietet.", hu: "Sűrű bambuszerdő és kutatóterület, amely hűvös és nyugodt légkört biztosít.", ro: "O pădure densă de bambus și o zonă de cercetare care oferă o atmosferă răcoroasă și liniștită.", en: "A dense bamboo forest and research area offering a cool and tranquil atmosphere." },
     facts: {
       de: ["Wird von der National Taiwan University verwaltet.", "Bekannt für den beeindruckenden Sky Walk in den Baumkronen."],
@@ -72,7 +82,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "park",
     parent: "TW-TPE",
     coords: [121.5350, 25.0305],
-    name: { de: "Daan-Waldpark", hu: "Taan Erdei Park", ro: "Parcul Forestier Daan", en: "Daan Forest Park" },
+    name: { de: "Daan-Waldpark", hu: "Taan Erdei Park", ro: "Parcul Forestier Daan", en: "Daan Forest Park",
+image: "/poi-images/daan-forest-park-life-v2.webp"
+},
     description: { de: "Eine große grüne Oase im Herzen von Taipeh, die den Stadtbewohnern Erholung bietet.", hu: "Hatalmas zöld oázis Tajpej szívében, amely kikapcsolódást nyújt a városlakóknak.", ro: "O mare oază verde în inima orașului Taipei, oferind relaxare locuitorilor orașului.", en: "A large green oasis in the heart of Taipei providing recreation for city dwellers." },
     facts: {
       de: ["Eröffnet im Jahr 1994.", "Wird oft als die grüne Lunge von Taipeh bezeichnet."],
@@ -85,7 +97,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TW-CYQ",
     coords: [120.1386, 23.5152],
-    name: { de: "Aogu-Feuchtgebiet-Waldpark", hu: "Aoku Vizes Élőhely Erdei Park", ro: "Parcul Forestier și Zona Umedă Aogu", en: "Aogu Wetland Forest Park" },
+    name: { de: "Aogu-Feuchtgebiet-Waldpark", hu: "Aoku Vizes Élőhely Erdei Park", ro: "Parcul Forestier și Zona Umedă Aogu", en: "Aogu Wetland Forest Park",
+image: "/poi-images/aogu-wetland-life-v2.webp"
+},
     description: { de: "Ein renaturiertes Feuchtgebiet an der Küste, das eine große Vielfalt an Vögeln und maritimem Leben beherbergt.", hu: "Helyreállított partvidéki vizes élőhely, amely madarak és tengeri élőlények nagy változatosságának ad otthont.", ro: "O zonă umedă de coastă restaurată, care găzduiește o mare varietate de păsări și viață marină.", en: "A restored coastal wetland hosting a great variety of birds and marine life." },
     facts: {
       de: ["Ehemaliges Poldergebiet.", "Eines der größten Feuchtgebiete in Taiwan."],
@@ -98,7 +112,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "agriculture",
     parent: "TW-TXG",
     coords: [121.2450, 24.2405],
-    name: { de: "Fushoushan-Farm", hu: "Fusousan Farm", ro: "Ferma Fushoushan", en: "Fushoushan Farm" },
+    name: { de: "Fushoushan-Farm", hu: "Fusousan Farm", ro: "Ferma Fushoushan", en: "Fushoushan Farm",
+image: "/poi-images/fushoushan-farm-life-v2.webp"
+},
     description: { de: "Eine hochgelegene Farm, die für ihre Obstplantagen, Teefelder und atemberaubenden Bergkulissen bekannt ist.", hu: "Magasan fekvő gazdaság, amely gyümölcsöseiről, teaföldjeiről és lélegzetelállító hegyi tájairól ismert.", ro: "O fermă la mare altitudine, cunoscută pentru livezile, câmpurile de ceai și peisajele montane uluitoare.", en: "A high-altitude farm known for its orchards, tea fields, and breathtaking mountain scenery." },
     facts: {
       de: ["Liegt zwischen 2.100 und 2.614 Metern über dem Meeresspiegel.", "Berühmt für Äpfel, Pfirsiche und Oolong-Tee."],
@@ -111,7 +127,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "agriculture",
     parent: "TW-TXG",
     coords: [121.3116, 24.3647],
-    name: { de: "Wuling-Farm", hu: "Vuling Farm", ro: "Ferma Wuling", en: "Wuling Farm" },
+    name: { de: "Wuling-Farm", hu: "Vuling Farm", ro: "Ferma Wuling", en: "Wuling Farm",
+image: "/poi-images/wuling-farm-life-v2.webp"
+},
     description: { de: "Ein malerisches Tal, das das ganze Jahr über Blumenpracht bietet, besonders beliebt während der Kirschblütensaison.", hu: "Festői völgy, amely egész évben virágpompát kínál, különösen a cseresznyevirágzás idején népszerű.", ro: "O vale pitorească care oferă o abundență de flori tot timpul anului, deosebit de populară în sezonul înfloririi cireșilor.", en: "A scenic valley offering floral beauty year-round, especially popular during the cherry blossom season." },
     facts: {
       de: ["Einst gegründet, um Veteranen nach dem Krieg Landwirtschaft zu ermöglichen.", "Wichtiger Lebensraum für den endemischen Formosa-Lachs."],
@@ -124,7 +142,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-TXG",
     coords: [120.6972, 24.3236],
-    name: { de: "Lihpao-Land", hu: "Lihpao Land", ro: "Lihpao Land", en: "Lihpao Land" },
+    name: { de: "Lihpao-Land", hu: "Lihpao Land", ro: "Lihpao Land", en: "Lihpao Land",
+image: "/poi-images/lihpao-land-life-v2.webp"
+},
     description: { de: "Ein großer Vergnügungs- und Wasserpark, der Spaß und Attraktionen für die ganze Familie bietet.", hu: "Hatalmas vidámpark és aquapark, amely szórakozást és látványosságokat kínál az egész családnak.", ro: "Un mare parc de distracții și acvatic, care oferă atracții și distracție pentru întreaga familie.", en: "A large amusement and water park offering fun and attractions for the whole family." },
     facts: {
       de: ["Verfügt über die einzige Achterbahn Taiwans mit abgebrochener Strecke.", "Beinhaltet auch ein großes Einkaufszentrum und ein Riesenrad."],
@@ -137,7 +157,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-HUA",
     coords: [121.6033, 23.9019],
-    name: { de: "Farglory-Meerespark", hu: "Farglory Óceán Park", ro: "Parcul Oceanic Farglory", en: "Farglory Ocean Park" },
+    name: { de: "Farglory-Meerespark", hu: "Farglory Óceán Park", ro: "Parcul Oceanic Farglory", en: "Farglory Ocean Park",
+image: "/poi-images/farglory-ocean-park-life-v2.webp"
+},
     description: { de: "Ein Themenpark direkt am Pazifik, der sich auf Meeresleben, Shows und Fahrgeschäfte konzentriert.", hu: "Közvetlenül a Csendes-óceán partján fekvő vidámpark, amely a tengeri élővilágra, műsorokra és vidámparki játékokra összpontosít.", ro: "Un parc tematic situat direct pe coasta Oceanului Pacific, axat pe viața marină, spectacole și atracții.", en: "A theme park right on the Pacific coast, focusing on marine life, shows, and amusement rides." },
     facts: {
       de: ["Taiwans erster Freizeitpark mit Meeres-Thematik.", "Bietet Shows mit Delfinen und Seelöwen an."],
@@ -150,7 +172,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-HSQ",
     coords: [121.1816, 24.8252],
-    name: { de: "Leofoo-Village-Freizeitpark", hu: "Leofoo Village Vidámpark", ro: "Parcul Tematic Leofoo Village", en: "Leofoo Village Theme Park" },
+    name: { de: "Leofoo-Village-Freizeitpark", hu: "Leofoo Village Vidámpark", ro: "Parcul Tematic Leofoo Village", en: "Leofoo Village Theme Park",
+image: "/poi-images/leofoo-village-life-v2.webp"
+},
     description: { de: "Ein großer Freizeitpark, der einen Safaripark mit zahlreichen aufregenden Fahrgeschäften kombiniert.", hu: "Hatalmas vidámpark, amely egy szafariparkot kombinál számos izgalmas játékkal.", ro: "Un mare parc de distracții care combină un parc safari cu numeroase atracții palpitante.", en: "A large theme park combining a safari park with numerous thrilling rides." },
     facts: {
       de: ["Der Park ist in vier verschiedene Themenbereiche unterteilt.", "Besitzt eine große freilaufende Tierpopulation."],
@@ -163,7 +187,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "agriculture",
     parent: "TW-TTT",
     coords: [121.0963, 22.8647],
-    name: { de: "Chulu-Ranch", hu: "Csulu Farm", ro: "Ferma Chulu", en: "Chulu Ranch" },
+    name: { de: "Chulu-Ranch", hu: "Csulu Farm", ro: "Ferma Chulu", en: "Chulu Ranch",
+image: "/poi-images/chulu-ranch-life-v2.webp"
+},
     description: { de: "Eine weitläufige Molkereifarm in Taitung, berühmt für ihre frische Milch und grünen Hügel.", hu: "Kiterjedt tejgazdaság Taitungban, amely friss tejéről és zöldellő dombjairól híres.", ro: "O întinsă fermă de lactate din Taitung, renumită pentru laptele proaspăt și dealurile verzi.", en: "A sprawling dairy farm in Taitung, famous for its fresh milk and green hills." },
     facts: {
       de: ["Die größte Molkereifarm in Taiwan.", "Bietet Besuchern die Möglichkeit, mit Kühen und Pferden zu interagieren."],
@@ -176,7 +202,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "agriculture",
     parent: "TW-HUA",
     coords: [121.3438, 23.4730],
-    name: { de: "Ruisui-Ranch", hu: "Zsujszuj Farm", ro: "Ferma Ruisui", en: "Ruisui Ranch" },
+    name: { de: "Ruisui-Ranch", hu: "Zsujszuj Farm", ro: "Ferma Ruisui", en: "Ruisui Ranch",
+image: "/poi-images/ruisui-ranch-life-v2.webp"
+},
     description: { de: "Eine bekannte Farm im Hualien-Tal, beliebt für ihre frischen Milchprodukte und idyllische Landschaft.", hu: "Jól ismert farm a Hualien-völgyben, amely népszerű friss tejtermékeiről és idilli tájáról.", ro: "O fermă bine-cunoscută în Valea Hualien, populară pentru produsele lactate proaspete și peisajul idilic.", en: "A well-known farm in the Hualien Valley, popular for its fresh dairy products and idyllic scenery." },
     facts: {
       de: ["Berühmt für ihren Nougat aus frischer Kuhmilch.", "Ein beliebter Zwischenstopp für Reisende an der Ostküste."],
@@ -189,7 +217,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TW-TNN",
     coords: [120.1352, 23.0188],
-    name: { de: "Grüner Tunnel von Sihcao", hu: "Szihcao Zöld Alagút", ro: "Tunelul Verde Sihcao", en: "Sihcao Green Tunnel" },
+    name: { de: "Grüner Tunnel von Sihcao", hu: "Szihcao Zöld Alagút", ro: "Tunelul Verde Sihcao", en: "Sihcao Green Tunnel",
+image: "/poi-images/sihcao-green-tunnel-life-v2.webp"
+},
     description: { de: "Eine malerische Mangroven-Wasserstraße, auf der man Bootsfahrten durch ein dichtes grünes Blätterdach machen kann.", hu: "Festői mangrove-csatorna, ahol csónaktúrákat tehetünk egy sűrű zöld lombkorona alatt.", ro: "Un canal pitoresc de mangrove, unde se pot face plimbări cu barca sub un coronament verde dens.", en: "A picturesque mangrove waterway where visitors can take boat rides under a dense green canopy." },
     facts: {
       de: ["Wird oft als der \"Mini-Amazonas\" von Taiwan bezeichnet.", "Beherbergt viele Krabben und seltene Vogelarten."],
@@ -202,7 +232,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-KHH",
     coords: [120.2741, 22.6391],
-    name: { de: "Shoushan-Zoo", hu: "Sousan Állatkert", ro: "Grădina Zoologică Shoushan", en: "Shoushan Zoo" },
+    name: { de: "Shoushan-Zoo", hu: "Sousan Állatkert", ro: "Grădina Zoologică Shoushan", en: "Shoushan Zoo",
+image: "/poi-images/shoushan-zoo-life-v2.webp"
+},
     description: { de: "Ein städtischer Zoo in Kaohsiung am Hang des Shoushan-Berges, der asiatische und afrikanische Tiere beherbergt.", hu: "Városi állatkert Kaohsziungban, a Sousan-hegy oldalában, amely ázsiai és afrikai állatokat mutat be.", ro: "O grădină zoologică urbană în Kaohsiung, pe versantul muntelui Shoushan, care găzduiește animale asiatice și africane.", en: "An urban zoo in Kaohsiung on the hillside of Mount Shoushan, featuring Asian and African animals." },
     facts: {
       de: ["Gegründet im Jahr 1978.", "Bekannt für die vielen wilden Makaken in der Umgebung."],
@@ -215,7 +247,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "park",
     parent: "TW-KHH",
     coords: [120.3427, 22.6236],
-    name: { de: "Weiwuying-Metropolpark", hu: "Vejvujing Fővárosi Park", ro: "Parcul Metropolitan Weiwuying", en: "Weiwuying Metropolitan Park" },
+    name: { de: "Weiwuying-Metropolpark", hu: "Vejvujing Fővárosi Park", ro: "Parcul Metropolitan Weiwuying", en: "Weiwuying Metropolitan Park",
+image: "/poi-images/weiwuying-park-life-v2.webp"
+},
     description: { de: "Ein riesiger Park in Kaohsiung auf einem ehemaligen Militärgelände, ideal für Spaziergänge und Naturbeobachtungen.", hu: "Hatalmas park Kaohsziungban egy egykori katonai területen, amely ideális sétákhoz és természetmegfigyeléshez.", ro: "Un parc uriaș în Kaohsiung pe un fost teren militar, ideal pentru plimbări și observarea naturii.", en: "A massive park in Kaohsiung on a former military base, ideal for walks and nature observation." },
     facts: {
       de: ["Einer der größten Parks in Südtaiwan.", "Beinhaltet Feuchtgebiete und reichlich Grünflächen."],
@@ -228,7 +262,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-KHH",
     coords: [120.4108, 22.7302],
-    name: { de: "E-DA-Themenpark", hu: "E-DA Vidámpark", ro: "Parcul Tematic E-DA", en: "E-DA Theme Park" },
+    name: { de: "E-DA-Themenpark", hu: "E-DA Vidámpark", ro: "Parcul Tematic E-DA", en: "E-DA Theme Park",
+image: "/poi-images/eda-theme-park-life-v2.webp"
+},
     description: { de: "Ein griechisch inspirierter Freizeitpark in Kaohsiung mit zahlreichen Fahrgeschäften und Unterhaltungsmöglichkeiten.", hu: "Görög ihletésű vidámpark Kaohsziungban, számos játékkal és szórakozási lehetőséggel.", ro: "Un parc tematic de inspirație greacă în Kaohsiung, cu numeroase atracții și opțiuni de divertisment.", en: "A Greek-inspired theme park in Kaohsiung with numerous rides and entertainment options." },
     facts: {
       de: ["Der Park ist im Stil der Ägäis gestaltet.", "Bietet ein riesiges Riesenrad mit Blick auf die Stadt."],
@@ -241,7 +277,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "TW-HSQ",
     coords: [121.0669, 24.7005],
-    name: { de: "Ökologische Farm Green World", hu: "Zöld Világ Ökológiai Farm", ro: "Ferma Ecologică Lumea Verde", en: "Green World Ecological Farm" },
+    name: { de: "Ökologische Farm Green World", hu: "Zöld Világ Ökológiai Farm", ro: "Ferma Ecologică Lumea Verde", en: "Green World Ecological Farm",
+image: "/poi-images/green-world-farm-life-v2.webp"
+},
     description: { de: "Ein interaktiver Naturpark, der Flora und Fauna aus aller Welt in sechs Themenbereichen präsentiert.", hu: "Interaktív természeti park, amely a világ minden tájáról származó növény- és állatvilágot mutat be hat tematikus részlegen.", ro: "Un parc natural interactiv care prezintă flora și fauna din întreaga lume în șase zone tematice.", en: "An interactive nature park presenting flora and fauna from around the world across six themed areas." },
     facts: {
       de: ["Umfasst eine Fläche von 70 Hektar.", "Besonders bekannt für sein Alpaka-Gehege."],
@@ -254,7 +292,9 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "park",
     parent: "TW-TXG",
     coords: [120.5975, 24.2188],
-    name: { de: "Taichung-Metropolpark", hu: "Tajcsung Fővárosi Park", ro: "Parcul Metropolitan Taichung", en: "Taichung Metropolitan Park" },
+    name: { de: "Taichung-Metropolpark", hu: "Tajcsung Fővárosi Park", ro: "Parcul Metropolitan Taichung", en: "Taichung Metropolitan Park",
+image: "/poi-images/taichung-metropolitan-park-life-v2.webp"
+},
     description: { de: "Ein großer Naturpark auf dem Dadu-Plateau, der eine weite Aussicht auf die Stadt und die Küste bietet.", hu: "Hatalmas természeti park a Tatu-fennsíkon, amely széles kilátást nyújt a városra és a partvidékre.", ro: "Un mare parc natural pe platoul Dadu, care oferă o vedere largă asupra orașului și a coastei.", en: "A large nature park on the Dadu Plateau offering expansive views of the city and the coastline." },
     facts: {
       de: ["Wurde im Jahr 2000 für die Öffentlichkeit zugänglich gemacht.", "Beliebt bei Drachenfliegern und Radfahrern."],

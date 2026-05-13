@@ -11,8 +11,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Nationalpark Cajas",
       hu: "Cajas Nemzeti Park",
       ro: "Parcul Național Cajas",
-      en: "Cajas National Park"
-    },
+      en: "Cajas National Park",
+image: "/poi-images/cajas-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein Hochland-Nationalpark mit über 200 Seen und vielen endemischen Vogelarten.",
       hu: "Magaslati nemzeti park több mint 200 tóval és számos endemikus madárfajjal.",
@@ -34,8 +35,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Nationalpark Sangay",
       hu: "Sangay Nemzeti Park",
       ro: "Parcul Național Sangay",
-      en: "Sangay National Park"
-    },
+      en: "Sangay National Park",
+image: "/poi-images/sangay-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein UNESCO-Weltnaturerbe mit einer enormen Vielfalt an Ökosystemen, vom tropischen Regenwald bis zu Gletschern.",
       hu: "UNESCO világörökségi helyszín hatalmas ökoszisztéma-változatossággal a trópusi esőerdőtől a gleccserekig.",
@@ -57,8 +59,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Nationalpark Sumaco Napo-Galeras",
       hu: "Sumaco Napo-Galeras Nemzeti Park",
       ro: "Parcul Național Sumaco Napo-Galeras",
-      en: "Sumaco Napo-Galeras National Park"
-    },
+      en: "Sumaco Napo-Galeras National Park",
+image: "/poi-images/sumaco-napo-galeras-life-v2.webp"
+},
     description: {
       de: "Ein isoliertes Vulkangebiet im Amazonasbecken, das für seine reiche Biodiversität und seltene Tierarten bekannt ist.",
       hu: "Elszigetelt vulkáni terület az Amazonas-medencében, amely gazdag biodiverzitásáról és ritka állatfajairól ismert.",
@@ -80,8 +83,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Nationalpark Yacuri",
       hu: "Yacuri Nemzeti Park",
       ro: "Parcul Național Yacuri",
-      en: "Yacuri National Park"
-    },
+      en: "Yacuri National Park",
+image: "/poi-images/yacuri-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Ökosystem im Süden Ecuadors, das die Bergnebelwälder und die Páramo-Landschaft schützt.",
       hu: "Fontos ökoszisztéma Dél-Ecuadorban, amely a hegyi köderdőket és a páramo tájat védi.",
@@ -103,8 +107,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Ökologisches Reservat Cotacachi Cayapas",
       hu: "Cotacachi Cayapas Ökológiai Rezervátum",
       ro: "Rezervația Ecologică Cotacachi Cayapas",
-      en: "Cotacachi Cayapas Ecological Reserve"
-    },
+      en: "Cotacachi Cayapas Ecological Reserve",
+image: "/poi-images/cotacachi-cayapas-life-v2.webp"
+},
     description: {
       de: "Dieses weitläufige Reservat erstreckt sich von den Anden bis zum Pazifik und bietet eine enorme Artenvielfalt.",
       hu: "Ez a kiterjedt rezervátum az Andoktól a Csendes-óceánig nyúlik, és hatalmas fajgazdagságot kínál.",
@@ -126,8 +131,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Ökoreservat Antisana",
       hu: "Antisana Ökológiai Rezervátum",
       ro: "Rezervația Ecologică Antisana",
-      en: "Antisana Ecological Reserve"
-    },
+      en: "Antisana Ecological Reserve",
+image: "/poi-images/antisana-naturreservat-life-v2.webp"
+},
     description: {
       de: "Ein hochgelegenes Schutzgebiet rund um den Vulkan Antisana, das ein wichtiges Refugium für den Andenkondor ist.",
       hu: "Magasan fekvő védett terület az Antisana vulkán körül, amely fontos menedéke az andoki kondornak.",
@@ -149,8 +155,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Ökoreservat Ilinizas",
       hu: "Ilinizas Ökológiai Rezervátum",
       ro: "Rezervația Ecologică Ilinizas",
-      en: "Ilinizas Ecological Reserve"
-    },
+      en: "Ilinizas Ecological Reserve",
+image: "/poi-images/ilinizas-naturreservat-life-v2.webp"
+},
     description: {
       de: "Ein spektakuläres Naturschutzgebiet mit nebelverhangenen Wäldern und Zwillingsgipfeln, ideal für Wildtiere.",
       hu: "Látványos természetvédelmi terület ködbe burkolózó erdőkkel és ikercsúcsokkal, ideális vadvilág számára.",
@@ -172,8 +179,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Naturreservat Manglares Churute",
       hu: "Manglares Churute Természetvédelmi Terület",
       ro: "Rezervația Naturală Manglares Churute",
-      en: "Manglares Churute Ecological Reserve"
-    },
+      en: "Manglares Churute Ecological Reserve",
+image: "/poi-images/manglares-churute-life-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Mangrovenschutzgebiet im Guayas-Delta, das eine reiche Wasservogelwelt beherbergt.",
       hu: "Jelentős mangrove védett terület a Guayas-deltában, amely gazdag vízimadár-populációnak ad otthont.",
@@ -195,8 +203,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Ökoreservat Arenillas",
       hu: "Arenillas Ökológiai Rezervátum",
       ro: "Rezervația Ecologică Arenillas",
-      en: "Arenillas Ecological Reserve"
-    },
+      en: "Arenillas Ecological Reserve",
+image: "/poi-images/arenillas-naturreservat-life-v2.webp"
+},
     description: {
       de: "Dieses Reservat schützt den tropischen Trockenwald an der Küste Ecuadors, der viele endemische Arten beheimatet.",
       hu: "Ez a rezervátum Ecuador part menti trópusi száraz erdejét védi, amely számos endemikus fajnak ad otthont.",
@@ -218,8 +227,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Ökoreservat El Ángel",
       hu: "El Ángel Ökológiai Rezervátum",
       ro: "Rezervația Ecologică El Ángel",
-      en: "El Ángel Ecological Reserve"
-    },
+      en: "El Ángel Ecological Reserve",
+image: "/poi-images/el-angel-naturreservat-life-v2.webp"
+},
     description: {
       de: "Ein einzigartiges Páramo-Ökosystem, das von riesigen Espeletia-Pflanzen dominiert wird und seltene Tiere schützt.",
       hu: "Egyedülálló páramo ökoszisztéma, amelyet óriási Espeletia növények uralnak, és ritka állatokat véd.",
@@ -241,8 +251,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Biologisches Reservat Limoncocha",
       hu: "Limoncocha Biológiai Rezervátum",
       ro: "Rezervația Biologică Limoncocha",
-      en: "Limoncocha Biological Reserve"
-    },
+      en: "Limoncocha Biological Reserve",
+image: "/poi-images/limoncocha-naturreservat-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Amazonasgebiet, berühmt für seine Lagune und die Population der Schwarzen Kaimane.",
       hu: "Védett terület az Amazonas régióban, amely lagúnájáról és a fekete kajmán populációjáról híres.",
@@ -264,8 +275,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Schutzwald Cerro Blanco",
       hu: "Cerro Blanco Védett Erdő",
       ro: "Pădurea Protejată Cerro Blanco",
-      en: "Cerro Blanco Protected Forest"
-    },
+      en: "Cerro Blanco Protected Forest",
+image: "/poi-images/cerro-blanco-schutzwald-life-v2.webp"
+},
     description: {
       de: "Eines der besterhaltenen Trockenwaldgebiete in der Nähe von Guayaquil, in dem Affen und Wildkatzen leben.",
       hu: "Guayaquil közelében található, egyik legjobban megőrzött száraz erdőterület, ahol majmok és vadmacskák élnek.",
@@ -287,8 +299,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Isla de la Plata",
       hu: "Isla de la Plata",
       ro: "Isla de la Plata",
-      en: "Isla de la Plata"
-    },
+      en: "Isla de la Plata",
+image: "/poi-images/isla-de-la-plata-life-v2.webp"
+},
     description: {
       de: "Oft als 'Mini-Galápagos' bezeichnet, ist diese Insel bekannt für ihre Blaufußtölpel und Fregattvögel.",
       hu: "Gyakran 'Mini-Galápagos'-ként emlegetik, ez a sziget kéklábú szuláiról és fregattmadarairól ismert.",
@@ -310,8 +323,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Amaru Biopark Cuenca",
       hu: "Amaru Biopark Cuenca",
       ro: "Bioparcul Amaru Cuenca",
-      en: "Amaru Biopark Cuenca"
-    },
+      en: "Amaru Biopark Cuenca",
+image: "/poi-images/amaru-biopark-life-v2.webp"
+},
     description: {
       de: "Ein interaktiver Tierpark, der sich der Rettung und Rehabilitation ecuadorianischer Wildtiere widmet.",
       hu: "Interaktív állatkert, amely az ecuadori vadvilág megmentésének és rehabilitációjának szenteli magát.",
@@ -333,8 +347,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Zoo von Guayllabamba",
       hu: "Guayllabamba Állatkert",
       ro: "Grădina Zoologică Guayllabamba",
-      en: "Guayllabamba Zoo"
-    },
+      en: "Guayllabamba Zoo",
+image: "/poi-images/guayllabamba-zoo-life-v2.webp"
+},
     description: {
       de: "Der größte Zoo des Landes nahe Quito, der eine große Vielfalt an einheimischen und exotischen Tieren präsentiert.",
       hu: "Az ország legnagyobb állatkertje Quito közelében, amely a hazai és egzotikus állatok nagy változatosságát mutatja be.",
@@ -356,8 +371,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Zoo El Pantanal",
       hu: "El Pantanal Állatkert",
       ro: "Grădina Zoologică El Pantanal",
-      en: "El Pantanal Zoo"
-    },
+      en: "El Pantanal Zoo",
+image: "/poi-images/zoologico-el-pantanal-life-v2.webp"
+},
     description: {
       de: "Ein privat geführter Zoo in der Nähe von Guayaquil, der auf den Erhalt der tropischen Fauna spezialisiert ist.",
       hu: "Guayaquil közelében található magánkézben lévő állatkert, amely a trópusi fauna megőrzésére specializálódott.",
@@ -379,8 +395,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Parque Cóndor",
       hu: "Parque Cóndor",
       ro: "Parque Cóndor",
-      en: "Parque Cóndor"
-    },
+      en: "Parque Cóndor",
+image: "/poi-images/condor-park-life-v2.webp"
+},
     description: {
       de: "Ein Rettungszentrum für Greifvögel nahe Otavalo, das sich für den Schutz des Andenkondors einsetzt.",
       hu: "Ragadozó madarak mentőközpontja Otavalo közelében, amely az andoki kondor védelméért küzd.",
@@ -402,8 +419,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Maquipucuna Nebelwald",
       hu: "Maquipucuna Köderdő",
       ro: "Pădurea de Nori Maquipucuna",
-      en: "Maquipucuna Cloud Forest"
-    },
+      en: "Maquipucuna Cloud Forest",
+image: "/poi-images/maquipucuna-nebelwald-life-v2.webp"
+},
     description: {
       de: "Ein privates Reservat, das für seinen dichten Nebelwald und die Population des Brillenbären berühmt ist.",
       hu: "Magánrezervátum, amely sűrű köderdejéről és pápaszemes medve populációjáról híres.",
@@ -425,8 +443,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Bellavista Nebelwaldreservat",
       hu: "Bellavista Köderdő Rezervátum",
       ro: "Rezervația Pădurii de Nori Bellavista",
-      en: "Bellavista Cloud Forest Reserve"
-    },
+      en: "Bellavista Cloud Forest Reserve",
+image: "/poi-images/bellavista-nebelwald-life-v2.webp"
+},
     description: {
       de: "Ein geschütztes Gebiet, das für seine Orchideenvielfalt und unzählige Kolibriarten bekannt ist.",
       hu: "Védett terület, amely orchideaváltozatosságáról és számtalan kolibrifajáról ismert.",
@@ -448,8 +467,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Mashpi Reservat",
       hu: "Mashpi Rezervátum",
       ro: "Rezervația Mashpi",
-      en: "Mashpi Reserve"
-    },
+      en: "Mashpi Reserve",
+image: "/poi-images/mashpi-reservat-life-v2.webp"
+},
     description: {
       de: "Ein privates Regenwaldschutzgebiet, das exklusiven Ökotourismus mit tiefgreifender Forschung verbindet.",
       hu: "Privát esőerdő-védelmi terület, amely az exkluzív ökoturizmust mélyreható kutatásokkal ötvözi.",
@@ -471,8 +491,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Geschichtspark Guayaquil",
       hu: "Guayaquil Történelmi Park",
       ro: "Parcul Istoric Guayaquil",
-      en: "Guayaquil Historical Park"
-    },
+      en: "Guayaquil Historical Park",
+image: "/poi-images/guayaquil-geschichtspark-life-v2.webp"
+},
     description: {
       de: "Ein Park, der Geschichte, Kultur und Natur verbindet, mit einem großen Bereich für heimische Wildtiere und Landwirtschaft.",
       hu: "A történelmet, kultúrát és természetet ötvöző park, nagy területtel az őshonos vadon élő állatok és a mezőgazdaság számára.",
@@ -494,8 +515,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Affenpark Puyo",
       hu: "Puyo Majompark",
       ro: "Parcul de Maimuțe Puyo",
-      en: "Puyo Monkey Park"
-    },
+      en: "Puyo Monkey Park",
+image: "/poi-images/affenpark-puyo-life-v2.webp"
+},
     description: {
       de: "Ein Tierheim für verwaiste und gerettete Affen am Rande des Amazonasbeckens, das interaktive Begegnungen bietet.",
       hu: "Árván maradt és megmentett majmok menedékhelye az Amazonas-medence szélén, amely interaktív találkozásokat kínál.",
@@ -517,8 +539,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Kaffeefarm Zaruma",
       hu: "Zaruma Kávéfarm",
       ro: "Fermă de Cafea Zaruma",
-      en: "Zaruma Coffee Farm"
-    },
+      en: "Zaruma Coffee Farm",
+image: "/poi-images/kaffeefarm-zaruma-life-v2.webp"
+},
     description: {
       de: "Traditionelle Kaffeeplantagen in der Bergregion von El Oro, berühmt für einige der besten Arabica-Bohnen Südamerikas.",
       hu: "Hagyományos kávéültetvények az El Oro hegyvidékén, melyek Dél-Amerika legjobb Arabica kávébabjairól híresek.",
@@ -540,8 +563,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Kakaoplantage Arriba",
       hu: "Arriba Kakaóültetvény",
       ro: "Plantația de Cacao Arriba",
-      en: "Arriba Cocoa Plantation"
-    },
+      en: "Arriba Cocoa Plantation",
+image: "/poi-images/kakaoplantage-arriba-life-v2.webp"
+},
     description: {
       de: "Eine Plantage, die den weltberühmten 'Nacional'-Kakao anbaut, der für sein außergewöhnliches blumiges Aroma geschätzt wird.",
       hu: "Ültetvény, amely a világhírű 'Nacional' kakaót termeszti, melyet kivételes virágos aromájáért értékelnek.",
@@ -563,8 +587,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Schmetterlingsfarm Mindo",
       hu: "Mindo Lepkefarm",
       ro: "Ferma de Fluturi Mindo",
-      en: "Mindo Butterfly Farm"
-    },
+      en: "Mindo Butterfly Farm",
+image: "/poi-images/mariposario-mindo-life-v2.webp"
+},
     description: {
       de: "Ein interaktiver Garten im Nebelwald, in dem Besucher Hunderte von farbenprächtigen Schmetterlingen in allen Lebensstadien beobachten können.",
       hu: "Interaktív kert a köderdőben, ahol a látogatók több száz színpompás lepkét figyelhetnek meg minden életszakaszukban.",
@@ -586,8 +611,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Charles Darwin Forschungsstation",
       hu: "Charles Darwin Kutatóállomás",
       ro: "Stația de Cercetare Charles Darwin",
-      en: "Charles Darwin Research Station"
-    },
+      en: "Charles Darwin Research Station",
+image: "/poi-images/darwin-station-life-v2.webp"
+},
     description: {
       de: "Eine biologische Forschungsstation auf den Galápagos-Inseln, die sich dem Schutz und der Aufzucht der Riesenschildkröten widmet.",
       hu: "Biológiai kutatóállomás a Galápagos-szigeteken, amely az óriásteknősök védelmének és tenyésztésének szenteli magát.",
@@ -609,8 +635,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Schildkrötenzentrum Cerro Colorado",
       hu: "Cerro Colorado Teknősközpont",
       ro: "Centrul de Țestoase Cerro Colorado",
-      en: "Cerro Colorado Tortoise Centre"
-    },
+      en: "Cerro Colorado Tortoise Centre",
+image: "/poi-images/schildkroetenzentrum-colorado-life-v2.webp"
+},
     description: {
       de: "Ein Zucht- und Schutzgebiet auf der Insel San Cristóbal zur Erhaltung der bedrohten Galápagos-Riesenschildkröten.",
       hu: "Tenyésztő- és védett terület San Cristóbal szigetén a veszélyeztetett galápagosi óriásteknősök megőrzésére.",
@@ -632,8 +659,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Fauna-Reservat Chimborazo",
       hu: "Chimborazo Fauna Rezervátum",
       ro: "Rezervația de Faună Chimborazo",
-      en: "Chimborazo Fauna Production Reserve"
-    },
+      en: "Chimborazo Fauna Production Reserve",
+image: "/poi-images/fauna-reservat-chimborazo-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet am höchsten Berg Ecuadors, das speziell für den Schutz von Vicuñas, Alpakas und Lamas eingerichtet wurde.",
       hu: "Védett terület Ecuador legmagasabb hegyén, amelyet kifejezetten vikunyák, alpakák és lámák védelmére hoztak létre.",
@@ -655,8 +683,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Ökologisches Reservat Cayapas-Mataje",
       hu: "Cayapas-Mataje Ökológiai Rezervátum",
       ro: "Rezervația Ecologică Cayapas-Mataje",
-      en: "Cayapas-Mataje Ecological Reserve"
-    },
+      en: "Cayapas-Mataje Ecological Reserve",
+image: "/poi-images/cayapas-mataje-mangroven-life-v2.webp"
+},
     description: {
       de: "Ein riesiges Mangrovengebiet an der nördlichen Küste, in dem einige der höchsten Mangrovenbäume der Welt wachsen.",
       hu: "Hatalmas mangrove terület az északi parton, ahol a világ néhány legmagasabb mangrovefája nő.",
@@ -678,8 +707,9 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       de: "Kaffeefarm Loja",
       hu: "Loja Kávéfarm",
       ro: "Fermă de Cafea Loja",
-      en: "Loja Coffee Farm"
-    },
+      en: "Loja Coffee Farm",
+image: "/poi-images/loja-kaffeefarm-life-v2.webp"
+},
     description: {
       de: "Kaffeeplantagen in der südlichen Provinz Loja, einer Region, die für ihren qualitativ hochwertigen Spezialitätenkaffee ausgezeichnet wurde.",
       hu: "Kávéültetvények a déli Loja tartományban, egy régióban, amely magas minőségű különleges kávéjáról híres.",

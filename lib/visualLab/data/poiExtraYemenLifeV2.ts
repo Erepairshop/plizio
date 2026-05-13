@@ -10,8 +10,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Zoo von Sanaa",
       hu: "Szanaai Állatkert",
       ro: "Grădina Zoologică din Sana'a",
-      en: "Sanaa Zoo"
-    },
+      en: "Sanaa Zoo",
+image: "/poi-images/sanaa-zoo-life-v2.webp"
+},
     description: {
       de: "Einer der bekanntesten Tierparks im Jemen, der eine Vielzahl lokaler und exotischer Tierarten beherbergt und ein beliebtes Ausflugsziel für Familien in der Hauptstadt ist.",
       hu: "Jemen egyik legismertebb állatparkja, amely számos helyi és egzotikus fajnak ad otthont, és népszerű családi kirándulóhely a fővárosban.",
@@ -50,8 +51,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Zoo von Taiz",
       hu: "Taizi Állatkert",
       ro: "Grădina Zoologică din Taiz",
-      en: "Taiz Zoo"
-    },
+      en: "Taiz Zoo",
+image: "/poi-images/taiz-zoo-life-v2.webp"
+},
     description: {
       de: "Ein bedeutender Zoo im südlichen Hochland, der für seinen Bestand an arabischen Leoparden und afrikanischen Löwen bekannt ist.",
       hu: "Jelentős állatkert a déli hegyvidéken, amely az arab leopárdok és afrikai oroszlánok állományáról ismert.",
@@ -89,8 +91,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Al-Sabeen-Park",
       hu: "Al-Szabín Park",
       ro: "Parcul Al-Sabeen",
-      en: "Al Sabeen Park"
-    },
+      en: "Al Sabeen Park",
+image: "/poi-images/al-sabeen-park-life-v2.webp"
+},
     description: {
       de: "Der größte öffentliche Park in Sanaa, der weitläufige Grünflächen, Denkmäler und Erholungsbereiche für die Stadtbewohner bietet.",
       hu: "Szanaa legnagyobb nyilvános parkja, amely hatalmas zöldterületekkel, emlékművekkel és rekreációs területekkel várja a városlakókat.",
@@ -128,8 +131,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "FunCity Sanaa",
       hu: "FunCity Szanaa",
       ro: "FunCity Sana'a",
-      en: "FunCity Sanaa"
-    },
+      en: "FunCity Sanaa",
+image: "/poi-images/funcity-sanaa-life-v2.webp"
+},
     description: {
       de: "Ein beliebter Vergnügungspark im Zentrum von Sanaa, der Fahrgeschäfte, Spielhallen und Unterhaltung für Kinder jeden Alters bietet.",
       hu: "Népszerű vidámpark Szanaa központjában, amely vidámparki játékokat, játéktermeket és szórakozást kínál minden korosztályú gyermek számára.",
@@ -167,8 +171,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Kaffeeplantagen von Bani Matar",
       hu: "Bani Matar kávéültetvényei",
       ro: "Plantațiile de cafea Bani Matar",
-      en: "Bani Matar Coffee Farms"
-    },
+      en: "Bani Matar Coffee Farms",
+image: "/poi-images/bani-matar-coffee-farms-life-v2.webp"
+},
     description: {
       de: "Die historischen Kaffeeterrassen von Bani Matar, westlich von Sanaa, produzieren einige der hochwertigsten Kaffeebohnen der Welt, bekannt als Matari-Kaffee.",
       hu: "Szanaától nyugatra található Bani Matar történelmi kávéteraszai a világ legkiválóbb kávébabjait, a Matari kávét termesztik.",
@@ -206,8 +211,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Bananenplantagen der Tihama",
       hu: "Tiháma banánültetvényei",
       ro: "Plantațiile de banane Tihama",
-      en: "Tihama Banana Plantations"
-    },
+      en: "Tihama Banana Plantations",
+image: "/poi-images/tihama-banana-plantations-life-v2.webp"
+},
     description: {
       de: "In der fruchtbaren und heißen Tihama-Ebene am Roten Meer gedeihen riesige Bananenplantagen, die das ganze Land mit frischen Früchten versorgen.",
       hu: "A Vörös-tenger melletti termékeny és forró Tiháma-síkságon hatalmas banánültetvények virágoznak, amelyek az egész országot ellátják friss gyümölccsel.",
@@ -245,8 +251,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Obstgärten des Wadi Dhar",
       hu: "Vádi Dhar gyümölcsösei",
       ro: "Livezile din Wadi Dhar",
-      en: "Orchards of Wadi Dhar"
-    },
+      en: "Orchards of Wadi Dhar",
+image: "/poi-images/wadi-dhar-orchards-life-v2.webp"
+},
     description: {
       de: "Das Wadi Dhar in der Nähe von Sanaa ist nicht nur für seinen Felsenpalast bekannt, sondern auch für seine üppigen Gärten, in denen Granatäpfel, Aprikosen und Trauben angebaut werden.",
       hu: "A Szanaa melletti Vádi Dhar nemcsak a sziklapalotájáról, hanem buja kertjeiről is híres, ahol gránátalmát, sárgabarackot és szőlőt termesztenek.",
@@ -284,8 +291,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Aloe-Felder von Sokotra",
       hu: "Szokotra aloe-mezői",
       ro: "Câmpurile de aloe din Socotra",
-      en: "Socotra Aloe Fields"
-    },
+      en: "Socotra Aloe Fields",
+image: "/poi-images/socotra-aloe-fields-life-v2.webp"
+},
     description: {
       de: "Auf der Insel Sokotra wächst die endemische Aloe perryi, die seit der Antike für ihre medizinischen Eigenschaften geschätzt und geerntet wird.",
       hu: "Szokotra szigetén nő az endemikus Aloe perryi, amelyet az ókor óta értékelnek és takarítanak be gyógyhatása miatt.",
@@ -323,8 +331,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Dattelpalmenhaine des Hadramaut",
       hu: "Hadramaut datolyapálma-ligetei",
       ro: "Livezile de palmieri din Hadhramaut",
-      en: "Hadhramaut Date Groves"
-    },
+      en: "Hadhramaut Date Groves",
+image: "/poi-images/hadhramaut-date-groves-life-v2.webp"
+},
     description: {
       de: "Entlang des saisonalen Flusses im Wadi Hadramaut erstrecken sich endlose Dattelpalmenhaine, die eine jahrtausendealte landwirtschaftliche Tradition fortsetzen.",
       hu: "A Vádi Hadramaut szezonális folyója mentén végtelen datolyapálma-ligetek húzódnak, amelyek évezredes mezőgazdasági hagyományt folytatnak.",
@@ -362,8 +371,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Mangrovenwälder von Kamaran",
       hu: "Kamaran mangroveerdői",
       ro: "Pădurile de mangrove Kamaran",
-      en: "Kamaran Mangrove Forests"
-    },
+      en: "Kamaran Mangrove Forests",
+image: "/poi-images/kamaran-mangroves-life-v2.webp"
+},
     description: {
       de: "Die Küsten der Kamaran-Insel im Roten Meer sind von dichten Mangrovenwäldern gesäumt, die ein wichtiges Brutgebiet für Seevögel und Meereslebewesen darstellen.",
       hu: "A Vörös-tengerben fekvő Kamaran-sziget partjait sűrű mangroveerdők szegélyezik, amelyek fontos költőhelyet jelentenek a tengeri madarak és élőlények számára.",
@@ -401,8 +411,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Qat-Farmen von Dhamar",
       hu: "Dhamar qat-farmjai",
       ro: "Fermele de qat din Dhamar",
-      en: "Dhamar Qat Farms"
-    },
+      en: "Dhamar Qat Farms",
+image: "/poi-images/dhamar-qat-farms-life-v2.webp"
+},
     description: {
       de: "Die landwirtschaftlichen Flächen rund um Dhamar sind stark vom Anbau von Qat geprägt, einer in der jemenitischen Kultur tief verwurzelten Pflanze, die auf kunstvollen Terrassen wächst.",
       hu: "Dhamar környéki mezőgazdasági területeket erősen meghatározza a qat termesztése, egy olyan növényé, amely mélyen gyökerezik a jemeni kultúrában, és művészi teraszokon terem.",
@@ -440,8 +451,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Imkereien im Wadi Dawan",
       hu: "Vádi Dawan méhészetei",
       ro: "Stupinele din Wadi Dawan",
-      en: "Honey Farms of Wadi Dawan"
-    },
+      en: "Honey Farms of Wadi Dawan",
+image: "/poi-images/dawan-honey-farms-life-v2.webp"
+},
     description: {
       de: "Das Wadi Dawan ist weltberühmt für seinen Sidr-Honig. Die traditionellen Imker nutzen die Blüten des Christusdorn-Baumes, um einen der teuersten und reinsten Honige der Welt zu produzieren.",
       hu: "Vádi Dawan világhírű a Sidr mézéről. A hagyományos méhészek a krisztustövis fa virágait használják a világ egyik legdrágább és legtisztább mézének előállításához.",
@@ -479,8 +491,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Fun City Aden",
       hu: "Fun City Áden",
       ro: "Fun City Aden",
-      en: "Fun City Aden"
-    },
+      en: "Fun City Aden",
+image: "/poi-images/aden-fun-city-life-v2.webp"
+},
     description: {
       de: "Ein familienfreundlicher Freizeitkomplex in der Hafenstadt Aden, der sowohl Einheimischen als auch Besuchern eine willkommene Abkühlung und Unterhaltung bietet.",
       hu: "Családbarát szórakoztató komplexum Áden kikötővárosában, amely a helyiek és a látogatók számára egyaránt kellemes kikapcsolódást és szórakozást kínál.",
@@ -518,8 +531,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Schildkrötenstrand von Ras Schuhab",
       hu: "Ras Schuhab teknősstrandja",
       ro: "Plaja țestoaselor de la Ras Shouab",
-      en: "Ras Shouab Turtle Beach"
-    },
+      en: "Ras Shouab Turtle Beach",
+image: "/poi-images/ras-shouab-turtle-beach-life-v2.webp"
+},
     description: {
       de: "Der abgeschiedene Strand von Ras Schuhab auf der Insel Sokotra ist ein wichtiges Nistgebiet für Meeresschildkröten und besticht durch seinen feinen, weißen Sand und kristallklares Wasser.",
       hu: "Szokotra szigetén található elszigetelt Ras Schuhab strand fontos fészkelőhelye a tengeri teknősöknek, és finom, fehér homokjával, valamint kristálytiszta vizével nyűgöz le.",
@@ -557,8 +571,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Al-Baradouni-Park",
       hu: "Al-Baradouni Park",
       ro: "Parcul Al-Baradouni",
-      en: "Al-Baradouni Park"
-    },
+      en: "Al-Baradouni Park",
+image: "/poi-images/al-baradouni-park-life-v2.webp"
+},
     description: {
       de: "Dieser städtische Park in Dhamar ist nach dem berühmten jemenitischen Dichter Abdullah al-Baradouni benannt und bietet schattige Spazierwege und Blumenbeete.",
       hu: "Ezt a dhamari városi parkot a híres jemeni költőről, Abdullah al-Baradouniról nevezték el, és árnyékos sétányokat, valamint virágágyásokat kínál.",
@@ -596,8 +611,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Grüne Terrassen von Ibb",
       hu: "Ibb zöld teraszai",
       ro: "Terasele verzi din Ibb",
-      en: "Green Terraces of Ibb"
-    },
+      en: "Green Terraces of Ibb",
+image: "/poi-images/ibb-green-terraces-life-v2.webp"
+},
     description: {
       de: "Dank der regelmäßigen Monsunregenfälle ist das Gouvernement Ibb die landwirtschaftlich produktivste Region des Landes. Die grünen Bergterrassen sind ein Meisterwerk traditioneller Landwirtschaft.",
       hu: "A rendszeres monszunesőknek köszönhetően Ibb kormányzóság az ország mezőgazdaságilag legtermékenyebb régiója. A zöld hegyi teraszok a hagyományos mezőgazdaság remekművei.",
@@ -635,8 +651,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Kamelzucht der Mahra-Region",
       hu: "Mahra-régió tevetenyésztése",
       ro: "Creșterea cămilelor în regiunea Mahra",
-      en: "Mahra Camel Breeding"
-    },
+      en: "Mahra Camel Breeding",
+image: "/poi-images/mahra-camel-breeding-life-v2.webp"
+},
     description: {
       de: "Die Mahra-Region im äußersten Osten des Jemen ist für ihre einzigartigen Kamelrassen berühmt, die für den Transport und die Milchproduktion in den rauen Wüstenbedingungen unverzichtbar sind.",
       hu: "Jemen legkeletibb részén fekvő Mahra régió egyedülálló tevefajtáiról híres, amelyek elengedhetetlenek a szállításhoz és a tejtermeléshez a zord sivatagi körülmények között.",
@@ -675,8 +692,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Drachenblutbaum-Schulen",
       hu: "Sárkányvérfa csemetekertek",
       ro: "Pepinierile de arbori sângele dragonului",
-      en: "Dragon Blood Tree Nurseries"
-    },
+      en: "Dragon Blood Tree Nurseries",
+image: "/poi-images/socotra-dragon-blood-nurseries-life-v2.webp"
+},
     description: {
       de: "Lokale Initiativen auf dem Diksam-Plateau haben kleine Baumschulen eingerichtet, um die gefährdeten Drachenblutbäume nachzuzüchten und so das einzigartige Ökosystem Sokotras zu erhalten.",
       hu: "A Diksam-fennsíkon helyi kezdeményezések kisebb csemetekerteket hoztak létre, hogy a veszélyeztetett sárkányvérfákat újratelepítsék, megőrizve ezzel Szokotra egyedülálló ökoszisztémáját.",
@@ -714,8 +732,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Palmenhaine von Al-Khokha",
       hu: "Al-Khokha pálmaligetei",
       ro: "Livezile de palmieri din Al-Khokha",
-      en: "Al-Khokha Palm Groves"
-    },
+      en: "Al-Khokha Palm Groves",
+image: "/poi-images/al-khokha-palm-groves-life-v2.webp"
+},
     description: {
       de: "Die Küstenstadt Al-Khokha am Roten Meer ist von dichten, schattenspendenden Palmenhainen umgeben, die eine wichtige Einkommensquelle für die lokale Bevölkerung darstellen.",
       hu: "A Vörös-tenger partján fekvő Al-Khokha várost sűrű, árnyékot adó pálmaligetek veszik körül, amelyek fontos bevételi forrást jelentenek a helyi lakosság számára.",
@@ -753,8 +772,9 @@ export const poiExtraYemenLifeV2: POI[] = [
       de: "Baumwollfelder von Zabid",
       hu: "Zabid pamutmezői",
       ro: "Câmpurile de bumbac din Zabid",
-      en: "Zabid Cotton Fields"
-    },
+      en: "Zabid Cotton Fields",
+image: "/poi-images/zabid-cotton-fields-life-v2.webp"
+},
     description: {
       de: "Dank der saisonalen Überschwemmungen des Wadi Zabid können in der historischen Region Zabid weite Baumwollfelder kultiviert werden, die die jemenitische Textilproduktion unterstützen.",
       hu: "A Vádi Zabid szezonális áradásainak köszönhetően a történelmi Zabid régióban hatalmas pamutmezőket művelnek, amelyek a jemeni textilipart támogatják.",

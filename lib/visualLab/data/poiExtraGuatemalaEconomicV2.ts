@@ -7,7 +7,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "port",
     parent: "GT-ES",
     coords: [-90.7833, 13.925],
-    name: { de: "Puerto Quetzal Hafen", hu: "Puerto Quetzal kikötő", ro: "Portul Puerto Quetzal", en: "Puerto Quetzal Port" },
+    name: { de: "Puerto Quetzal Hafen", hu: "Puerto Quetzal kikötő", ro: "Portul Puerto Quetzal", en: "Puerto Quetzal Port",
+image: "/poi-images/gt-puerto-quetzal-port-economic-v2.webp"
+},
     description: { de: "Größter Pazifikhafen des Landes.", hu: "Az ország legnagyobb csendes-óceáni kikötője.", ro: "Cel mai mare port la Pacific din țară.", en: "The country's largest Pacific port." },
     facts: {
       de: ["Größter Pazifikhafen", "Wichtig für Containerschifffahrt", "Zentrum für Exporte", "Tiefseehafen"],
@@ -28,7 +30,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-ES",
     coords: [-90.8, 14.2],
-    name: { de: "Zuckerfabrik Escuintla", hu: "Escuintla cukorgyár", ro: "Fabrica de zahăr Escuintla", en: "Escuintla Sugar Mill" },
+    name: { de: "Zuckerfabrik Escuintla", hu: "Escuintla cukorgyár", ro: "Fabrica de zahăr Escuintla", en: "Escuintla Sugar Mill",
+image: "/poi-images/gt-central-sugar-mill-industry-economic-v2.webp"
+},
     description: { de: "Zentrales Industriezentrum für Zuckerverarbeitung.", hu: "Központi ipari központ a cukorfeldolgozáshoz.", ro: "Centru industrial central pentru procesarea zahărului.", en: "Central industrial hub for sugar processing." },
     facts: {
       de: ["Zuckerverarbeitung", "Exportorientiert", "Großer Arbeitgeber", "Saisonale Produktion"],
@@ -49,7 +53,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.5, 14.65],
-    name: { de: "Zementwerk Guatemala", hu: "Guatemalai cementgyár", ro: "Fabrica de ciment Guatemala", en: "Guatemala Cement Plant" },
+    name: { de: "Zementwerk Guatemala", hu: "Guatemalai cementgyár", ro: "Fabrica de ciment Guatemala", en: "Guatemala Cement Plant",
+image: "/poi-images/gt-cement-plant-industry-economic-v2.webp"
+},
     description: { de: "Wichtige Industrieanlage für Baustoffe.", hu: "Fontos ipari üzem építőanyagokhoz.", ro: "Facilitate industrială importantă pentru materiale de construcție.", en: "Important industrial facility for construction materials." },
     facts: {
       de: ["Baustoffherstellung", "Landesweite Versorgung", "Hohe Produktionskapazität", "Wichtiger Infrastruktur-Zulieferer"],
@@ -70,7 +76,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.52, 14.63],
-    name: { de: "Textilfabrik Guatemala", hu: "Guatemalai textilgyár", ro: "Fabrica de textile Guatemala", en: "Guatemala Textile Factory" },
+    name: { de: "Textilfabrik Guatemala", hu: "Guatemalai textilgyár", ro: "Fabrica de textile Guatemala", en: "Guatemala Textile Factory",
+image: "/poi-images/gt-textile-factory-industry-economic-v2.webp"
+},
     description: { de: "Großbetrieb für die Textil- und Bekleidungsindustrie.", hu: "Nagyüzem a textil- és ruházati ipar számára.", ro: "Facilitate mare pentru industria textilă și de confecții.", en: "Large-scale operation for textile and garment industry." },
     facts: {
       de: ["Textilherstellung", "Exportgüter", "Arbeitsintensive Industrie", "Modernes Equipment"],
@@ -91,7 +99,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "port",
     parent: "GT-RE",
     coords: [-91.9, 14.3],
-    name: { de: "Hafen Champerico", hu: "Champerico kikötő", ro: "Portul Champerico", en: "Champerico Port" },
+    name: { de: "Hafen Champerico", hu: "Champerico kikötő", ro: "Portul Champerico", en: "Champerico Port",
+image: "/poi-images/gt-champerico-port-economic-v2.webp"
+},
     description: { de: "Historischer kleinerer Pazifikhafen.", hu: "Történelmi kisebb csendes-óceáni kikötő.", ro: "Port istoric mai mic la Pacific.", en: "Historic smaller Pacific port." },
     facts: {
       de: ["Kleiner Hafen", "Regionale Fischerei", "Historischer Handelsort", "Pazifikküste"],
@@ -112,7 +122,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-IZ",
     coords: [-88.8, 15.6],
-    name: { de: "Bananenverpackung Izabal", hu: "Izabal banáncsomagoló", ro: "Ambalarea bananelor Izabal", en: "Izabal Banana Packing" },
+    name: { de: "Bananenverpackung Izabal", hu: "Izabal banáncsomagoló", ro: "Ambalarea bananelor Izabal", en: "Izabal Banana Packing",
+image: "/poi-images/gt-banan-export-industry-economic-v2.webp"
+},
     description: { de: "Zentrum für Bananenaufbereitung und Export.", hu: "Banánfeldolgozó és exportközpont.", ro: "Centru pentru procesarea și exportul bananelor.", en: "Center for banana processing and export." },
     facts: {
       de: ["Bananenverarbeitung", "Hauptexportgut", "Hohe Kapazität", "Logistik-Hub"],
@@ -133,7 +145,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-SA",
     coords: [-90.3, 14.7],
-    name: { de: "Kaffeeverarbeitung Sacatepéquez", hu: "Sacatepéquez kávéfeldolgozó", ro: "Procesarea cafelei Sacatepéquez", en: "Sacatepequez Coffee Processing" },
+    name: { de: "Kaffeeverarbeitung Sacatepéquez", hu: "Sacatepéquez kávéfeldolgozó", ro: "Procesarea cafelei Sacatepéquez", en: "Sacatepequez Coffee Processing",
+image: "/poi-images/gt-coffee-processing-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Aufbereitung von Hochlandkaffee.", hu: "Ipari feldolgozás a magasföldi kávéhoz.", ro: "Procesarea industrială a cafelei de altitudine.", en: "Industrial processing of high-altitude coffee." },
     facts: {
       de: ["Kaffeeaufbereitung", "Hochwertige Exporte", "Technologische Verarbeitung", "Traditionsreiches Gebiet"],
@@ -154,7 +168,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-PE",
     coords: [-90.2, 16.5],
-    name: { de: "Erdölraffinerie Petén", hu: "Petén kőolajfinomító", ro: "Rafinăria de petrol Petén", en: "Peten Oil Refinery" },
+    name: { de: "Erdölraffinerie Petén", hu: "Petén kőolajfinomító", ro: "Rafinăria de petrol Petén", en: "Peten Oil Refinery",
+image: "/poi-images/gt-oil-refinery-industry-economic-v2.webp"
+},
     description: { de: "Anlage zur Verarbeitung lokaler Erdölvorkommen.", hu: "Létesítmény a helyi kőolajkészletek feldolgozására.", ro: "Facilitate pentru procesarea rezervelor locale de petrol.", en: "Facility for processing local oil reserves." },
     facts: {
       de: ["Ölverarbeitung", "Lokale Ressourcen", "Energieversorgung", "Industrielle Anlage"],
@@ -175,7 +191,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-AV",
     coords: [-90.25, 15.5],
-    name: { de: "Wasserkraftwerk Alta Verapaz", hu: "Alta Verapaz vízerőmű", ro: "Hidrocentrala Alta Verapaz", en: "Alta Verapaz Hydroelectric Plant" },
+    name: { de: "Wasserkraftwerk Alta Verapaz", hu: "Alta Verapaz vízerőmű", ro: "Hidrocentrala Alta Verapaz", en: "Alta Verapaz Hydroelectric Plant",
+image: "/poi-images/gt-hydro-plant-industry-economic-v2.webp"
+},
     description: { de: "Großes Kraftwerk zur Energiegewinnung.", hu: "Nagy erőmű energiatermeléshez.", ro: "Centrală electrică mare pentru generarea energiei.", en: "Large power plant for energy generation." },
     facts: {
       de: ["Energiegewinnung", "Wasserkraft", "Stromnetzspeisung", "Wichtige Energiequelle"],
@@ -199,7 +217,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-IZ",
     coords: [-89.3, 15.5],
-    name: { de: "Bergbauzentrum Izabal", hu: "Izabal bányászati központ", ro: "Centru minier Izabal", en: "Izabal Mining Center" },
+    name: { de: "Bergbauzentrum Izabal", hu: "Izabal bányászati központ", ro: "Centru minier Izabal", en: "Izabal Mining Center",
+image: "/poi-images/gt-mining-site-industry-economic-v2.webp"
+},
     description: { de: "Zentrum für die Gewinnung mineralischer Rohstoffe.", hu: "Központ ásványi nyersanyagok kitermelésére.", ro: "Centru pentru extracția resurselor minerale.", en: "Center for the extraction of mineral resources." },
     facts: {
       de: ["Rohstoffgewinnung", "Mineralien", "Export", "Industrieller Sektor"],
@@ -220,7 +240,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.55, 14.7],
-    name: { de: "Papierfabrik Guatemala", hu: "Guatemalai papírgyár", ro: "Fabrica de hârtie Guatemala", en: "Guatemala Paper Mill" },
+    name: { de: "Papierfabrik Guatemala", hu: "Guatemalai papírgyár", ro: "Fabrica de hârtie Guatemala", en: "Guatemala Paper Mill",
+image: "/poi-images/gt-paper-mill-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Anlage zur Papierherstellung.", hu: "Ipari létesítmény papírgyártáshoz.", ro: "Facilitate industrială pentru producția de hârtie.", en: "Industrial facility for paper production." },
     facts: {
       de: ["Papiererzeugung", "Industrielle Verarbeitung", "Lokaler Bedarf", "Rohstoffverwertung"],
@@ -241,7 +263,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.45, 14.6],
-    name: { de: "Geflügelverarbeitung Guatemala", hu: "Guatemalai baromfifeldolgozó", ro: "Procesarea păsărilor Guatemala", en: "Guatemala Poultry Processing" },
+    name: { de: "Geflügelverarbeitung Guatemala", hu: "Guatemalai baromfifeldolgozó", ro: "Procesarea păsărilor Guatemala", en: "Guatemala Poultry Processing",
+image: "/poi-images/gt-poultry-processing-industry-economic-v2.webp"
+},
     description: { de: "Großbetrieb für die Geflügelverarbeitung.", hu: "Nagyüzem baromfifeldolgozáshoz.", ro: "Facilitate mare pentru procesarea păsărilor.", en: "Large-scale operation for poultry processing." },
     facts: {
       de: ["Lebensmittelindustrie", "Landesweite Versorgung", "Moderne Verarbeitung", "Großer Betrieb"],
@@ -262,7 +286,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.53, 14.62],
-    name: { de: "Abfüllanlage Guatemala", hu: "Guatemalai palackozóüzem", ro: "Fabrica de îmbuteliere Guatemala", en: "Guatemala Bottling Plant" },
+    name: { de: "Abfüllanlage Guatemala", hu: "Guatemalai palackozóüzem", ro: "Fabrica de îmbuteliere Guatemala", en: "Guatemala Bottling Plant",
+image: "/poi-images/gt-bottling-plant-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Abfüllung für Getränke.", hu: "Ipari palackozás italokhoz.", ro: "Îmbuteliere industrială pentru băuturi.", en: "Industrial bottling for beverages." },
     facts: {
       de: ["Getränkeherstellung", "Große Kapazität", "Landesweite Verteilung", "Moderne Technik"],
@@ -283,7 +309,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.5, 14.6],
-    name: { de: "Stahlbauwerk Guatemala", hu: "Guatemalai acélszerkezet-gyár", ro: "Fabrica de prelucrare a oțelului Guatemala", en: "Guatemala Steel Fabrication" },
+    name: { de: "Stahlbauwerk Guatemala", hu: "Guatemalai acélszerkezet-gyár", ro: "Fabrica de prelucrare a oțelului Guatemala", en: "Guatemala Steel Fabrication",
+image: "/poi-images/gt-steel-fabrication-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Anlage zur Stahlverarbeitung.", hu: "Ipari létesítmény acélfeldolgozáshoz.", ro: "Facilitate industrială pentru prelucrarea oțelului.", en: "Industrial facility for steel processing." },
     facts: {
       de: ["Stahlbau", "Industrielle Komponenten", "Baubedarf", "Technisch orientiert"],
@@ -304,7 +332,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.51, 14.61],
-    name: { de: "Großbäckerei Guatemala", hu: "Guatemalai nagyüzemi pékség", ro: "Panificație industrială Guatemala", en: "Guatemala Industrial Bakery" },
+    name: { de: "Großbäckerei Guatemala", hu: "Guatemalai nagyüzemi pékség", ro: "Panificație industrială Guatemala", en: "Guatemala Industrial Bakery",
+image: "/poi-images/gt-bakery-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Backwarenproduktion.", hu: "Ipari sütőipari termelés.", ro: "Producție industrială de panificație.", en: "Industrial bakery production." },
     facts: {
       de: ["Brot- und Backwaren", "Große Mengen", "Landesweiter Vertrieb", "Automatisierte Produktion"],
@@ -325,7 +355,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.55, 14.65],
-    name: { de: "Chemiewerk Guatemala", hu: "Guatemalai vegyi üzem", ro: "Fabrica chimică Guatemala", en: "Guatemala Chemical Plant" },
+    name: { de: "Chemiewerk Guatemala", hu: "Guatemalai vegyi üzem", ro: "Fabrica chimică Guatemala", en: "Guatemala Chemical Plant",
+image: "/poi-images/gt-chemical-plant-industry-economic-v2.webp"
+},
     description: { de: "Industrielle chemische Fertigung.", hu: "Ipari vegyipari gyártás.", ro: "Producție chimică industrială.", en: "Industrial chemical manufacturing." },
     facts: {
       de: ["Chemische Produkte", "Industrielle Vorprodukte", "Sicherheitsstandard", "Spezialisierte Fertigung"],
@@ -346,7 +378,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.52, 14.66],
-    name: { de: "Möbelfabrik Guatemala", hu: "Guatemalai bútorgyár", ro: "Fabrica de mobilă Guatemala", en: "Guatemala Furniture Factory" },
+    name: { de: "Möbelfabrik Guatemala", hu: "Guatemalai bútorgyár", ro: "Fabrica de mobilă Guatemala", en: "Guatemala Furniture Factory",
+image: "/poi-images/gt-furniture-factory-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Möbelherstellung.", hu: "Ipari bútorgyártás.", ro: "Producția industrială de mobilier.", en: "Industrial furniture manufacturing." },
     facts: {
       de: ["Holzverarbeitung", "Serienproduktion", "Inländischer Markt", "Design-orientiert"],
@@ -367,7 +401,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.53, 14.67],
-    name: { de: "Elektronik-Montagewerk Guatemala", hu: "Guatemalai elektronikai összeszerelő üzem", ro: "Fabrica de asamblare electronică Guatemala", en: "Guatemala Electronics Assembly" },
+    name: { de: "Elektronik-Montagewerk Guatemala", hu: "Guatemalai elektronikai összeszerelő üzem", ro: "Fabrica de asamblare electronică Guatemala", en: "Guatemala Electronics Assembly",
+image: "/poi-images/gt-electronics-assembly-industry-economic-v2.webp"
+},
     description: { de: "Montage elektronischer Komponenten.", hu: "Elektronikai alkatrészek összeszerelése.", ro: "Asamblarea componentelor electronice.", en: "Assembly of electronic components." },
     facts: {
       de: ["Elektronikmontage", "Präzisionstechnik", "Technologieexport", "Modernes Montageband"],
@@ -388,7 +424,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.51, 14.63],
-    name: { de: "Druckerei Guatemala", hu: "Guatemalai nyomda", ro: "Tipografie Guatemala", en: "Guatemala Printing Facility" },
+    name: { de: "Druckerei Guatemala", hu: "Guatemalai nyomda", ro: "Tipografie Guatemala", en: "Guatemala Printing Facility",
+image: "/poi-images/gt-print-facility-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Druckerei für Verpackungen.", hu: "Ipari nyomda csomagolóanyagokhoz.", ro: "Tipografie industrială pentru ambalaje.", en: "Industrial printing facility for packaging." },
     facts: {
       de: ["Druckdienste", "Verpackungsdruck", "Hohe Kapazität", "Medienherstellung"],
@@ -409,7 +447,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.52, 14.64],
-    name: { de: "Farbenfabrik Guatemala", hu: "Guatemalai festékgyár", ro: "Fabrica de vopsea Guatemala", en: "Guatemala Paint Factory" },
+    name: { de: "Farbenfabrik Guatemala", hu: "Guatemalai festékgyár", ro: "Fabrica de vopsea Guatemala", en: "Guatemala Paint Factory",
+image: "/poi-images/gt-paint-factory-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Fertigung von Farben und Lacken.", hu: "Ipari festék- és lakkgyártás.", ro: "Producție industrială de vopsele și lacuri.", en: "Industrial manufacturing of paints and coatings." },
     facts: {
       de: ["Farbenherstellung", "Bauchemie", "Landesweite Versorgung", "Großer Betrieb"],
@@ -430,7 +470,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.54, 14.66],
-    name: { de: "Kunststoffwerk Guatemala", hu: "Guatemalai műanyagfeldolgozó", ro: "Fabrica de plastic Guatemala", en: "Guatemala Plastic Factory" },
+    name: { de: "Kunststoffwerk Guatemala", hu: "Guatemalai műanyagfeldolgozó", ro: "Fabrica de plastic Guatemala", en: "Guatemala Plastic Factory",
+image: "/poi-images/gt-plastic-factory-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Kunststoffverarbeitung.", hu: "Ipari műanyagfeldolgozás.", ro: "Prelucrarea industrială a plasticului.", en: "Industrial plastic processing." },
     facts: {
       de: ["Kunststofftechnik", "Verpackungsmaterial", "Serienfertigung", "Modernes Spritzgussverfahren"],
@@ -451,7 +493,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-SA",
     coords: [-90.35, 14.75],
-    name: { de: "Molkerei Guatemala", hu: "Guatemalai tejfeldolgozó", ro: "Procesarea lactatelor Guatemala", en: "Guatemala Dairy Processing" },
+    name: { de: "Molkerei Guatemala", hu: "Guatemalai tejfeldolgozó", ro: "Procesarea lactatelor Guatemala", en: "Guatemala Dairy Processing",
+image: "/poi-images/gt-dairy-processing-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Verarbeitung von Milchprodukten.", hu: "Tejtermékek ipari feldolgozása.", ro: "Procesarea industrială a produselor lactate.", en: "Industrial processing of dairy products." },
     facts: {
       de: ["Milchverarbeitung", "Käse und Joghurt", "Landesweite Versorgung", "Kühlkette wichtig"],
@@ -472,7 +516,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.49, 14.59],
-    name: { de: "Autoteile-Fertigung Guatemala", hu: "Guatemalai autóalkatrész-gyártás", ro: "Producția de piese auto Guatemala", en: "Guatemala Auto Parts Mfg" },
+    name: { de: "Autoteile-Fertigung Guatemala", hu: "Guatemalai autóalkatrész-gyártás", ro: "Producția de piese auto Guatemala", en: "Guatemala Auto Parts Mfg",
+image: "/poi-images/gt-auto-parts-industry-economic-v2.webp"
+},
     description: { de: "Herstellung von Fahrzeugkomponenten.", hu: "Járműalkatrészek gyártása.", ro: "Producția de componente pentru vehicule.", en: "Manufacturing of vehicle components." },
     facts: {
       de: ["Autoteile", "Zulieferer", "Präzisionsfertigung", "Export"],
@@ -493,7 +539,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.56, 14.68],
-    name: { de: "Betonwerk Guatemala", hu: "Guatemalai betongyár", ro: "Stație de betoane Guatemala", en: "Guatemala Concrete Batching" },
+    name: { de: "Betonwerk Guatemala", hu: "Guatemalai betongyár", ro: "Stație de betoane Guatemala", en: "Guatemala Concrete Batching",
+image: "/poi-images/gt-concrete-batching-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Betonmischstation.", hu: "Ipari betonkeverő állomás.", ro: "Stație industrială de beton.", en: "Industrial concrete batching plant." },
     facts: {
       de: ["Transportbeton", "Infrastrukturprojekte", "Lokale Baubedarf", "Hohe Produktionsrate"],
@@ -514,7 +562,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-ES",
     coords: [-90.75, 14.25],
-    name: { de: "Reifenrunderneuerung Guatemala", hu: "Guatemalai gumiabroncs-futózó", ro: "Reșaparea anvelopelor Guatemala", en: "Guatemala Tire Retreading" },
+    name: { de: "Reifenrunderneuerung Guatemala", hu: "Guatemalai gumiabroncs-futózó", ro: "Reșaparea anvelopelor Guatemala", en: "Guatemala Tire Retreading",
+image: "/poi-images/gt-tire-retreading-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Reifenrunderneuerung.", hu: "Ipari gumiabroncs-futózás.", ro: "Reșaparea industrială a anvelopelor.", en: "Industrial tire retreading." },
     facts: {
       de: ["Reifen-Recycling", "Wirtschaftliche Lösung", "Transportwesen", "Industrielle Technik"],
@@ -535,7 +585,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "industry",
     parent: "GT-GU",
     coords: [-90.52, 14.62],
-    name: { de: "Glasfabrik Guatemala", hu: "Guatemalai üveggyár", ro: "Fabrica de sticlă Guatemala", en: "Guatemala Glass Factory" },
+    name: { de: "Glasfabrik Guatemala", hu: "Guatemalai üveggyár", ro: "Fabrica de sticlă Guatemala", en: "Guatemala Glass Factory",
+image: "/poi-images/gt-glass-factory-industry-economic-v2.webp"
+},
     description: { de: "Industrielle Glasherstellung.", hu: "Ipari üveggyártás.", ro: "Producție industrială de sticlă.", en: "Industrial glass manufacturing." },
     facts: {
       de: ["Glasverarbeitung", "Flaschenherstellung", "Industrielle Kapazität", "Wichtiger Zulieferer"],
@@ -556,7 +608,9 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     type: "port",
     parent: "GT-IZ",
     coords: [-88.62, 15.72],
-    name: { de: "Logistikzentrum Izabal", hu: "Izabal logisztikai központ", ro: "Centru logistic Izabal", en: "Izabal Logistics Hub" },
+    name: { de: "Logistikzentrum Izabal", hu: "Izabal logisztikai központ", ro: "Centru logistic Izabal", en: "Izabal Logistics Hub",
+image: "/poi-images/gt-warehouse-logistics-port-economic-v2.webp"
+},
     description: { de: "Großes Lager- und Logistikareal.", hu: "Nagy raktár- és logisztikai terület.", ro: "Zonă mare de depozitare și logistică.", en: "Large storage and logistics area." },
     facts: {
       de: ["Lagerhaltung", "Logistikmanagement", "Frachtumschlag", "Zentrale Lage"],

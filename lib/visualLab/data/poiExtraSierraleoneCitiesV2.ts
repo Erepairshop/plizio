@@ -10,8 +10,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Freetown",
       hu: "Freetown",
       ro: "Freetown",
-      en: "Freetown"
-    },
+      en: "Freetown",
+image: "/poi-images/freetown-cities-v2.webp"
+},
     description: {
       de: "Freetown ist die Hauptstadt und größte Stadt von Sierra Leone und ein wichtiges wirtschaftliches Zentrum am Atlantik.",
       hu: "Freetown Sierra Leone fővárosa és legnagyobb városa, egy fontos gazdasági központ az Atlanti-óceán partján.",
@@ -55,8 +56,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Bo",
       hu: "Bo",
       ro: "Bo",
-      en: "Bo"
-    },
+      en: "Bo",
+image: "/poi-images/bo-cities-v2.webp"
+},
     description: {
       de: "Bo ist die zweitgrößte Stadt des Landes und ein wichtiges Zentrum für Bildung und Handel im Süden.",
       hu: "Bo az ország második legnagyobb városa, a déli régió fontos oktatási és kereskedelmi központja.",
@@ -100,8 +102,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kenema",
       hu: "Kenema",
       ro: "Kenema",
-      en: "Kenema"
-    },
+      en: "Kenema",
+image: "/poi-images/kenema-cities-v2.webp"
+},
     description: {
       de: "Kenema ist die größte Stadt im Osten von Sierra Leone und das Zentrum der Diamantenindustrie.",
       hu: "Kenema Sierra Leone keleti részének legnagyobb városa, a gyémántipar központja.",
@@ -145,8 +148,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Makeni",
       hu: "Makeni",
       ro: "Makeni",
-      en: "Makeni"
-    },
+      en: "Makeni",
+image: "/poi-images/makeni-cities-v2.webp"
+},
     description: {
       de: "Makeni ist die größte Stadt in der nördlichen Provinz und ein bedeutendes Handels- und Bildungszentrum.",
       hu: "Makeni az északi tartomány legnagyobb városa, jelentős kereskedelmi és oktatási központ.",
@@ -190,8 +194,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Koidu",
       hu: "Koidu",
       ro: "Koidu",
-      en: "Koidu"
-    },
+      en: "Koidu",
+image: "/poi-images/koidu-cities-v2.webp"
+},
     description: {
       de: "Koidu ist die Hauptstadt des distrikts Kono und das Herz des Diamantenabbaus in Sierra Leone.",
       hu: "Koidu Kono kerület fővárosa és a gyémántbányászat szíve Sierra Leonében.",
@@ -235,8 +240,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Lunsar",
       hu: "Lunsar",
       ro: "Lunsar",
-      en: "Lunsar"
-    },
+      en: "Lunsar",
+image: "/poi-images/lunsar-cities-v2.webp"
+},
     description: {
       de: "Lunsar ist eine bedeutende Bergbaustadt im Nordwesten, bekannt für ihre Eisenerzvorkommen.",
       hu: "Lunsar egy jelentős bányaváros északnyugaton, vasérckészleteiről ismert.",
@@ -280,8 +286,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Port Loko",
       hu: "Port Loko",
       ro: "Port Loko",
-      en: "Port Loko"
-    },
+      en: "Port Loko",
+image: "/poi-images/port-loko-cities-v2.webp"
+},
     description: {
       de: "Port Loko ist die Hauptstadt der Nordwest-Provinz und ein wichtiges Handelszentrum.",
       hu: "Port Loko az északnyugati tartomány fővárosa és egy fontos kereskedelmi központ.",
@@ -326,8 +333,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Waterloo",
       hu: "Waterloo",
       ro: "Waterloo",
-      en: "Waterloo"
-    },
+      en: "Waterloo",
+image: "/poi-images/waterloo-cities-v2.webp"
+},
     description: {
       de: "Waterloo ist eine schnell wachsende Stadt in der Western Area, die Freetown mit dem Landesinneren verbindet.",
       hu: "Waterloo egy gyorsan növekvő város a Western Area régióban, amely összeköti Freetownt az ország belsejével.",
@@ -371,8 +379,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kabala",
       hu: "Kabala",
       ro: "Kabala",
-      en: "Kabala"
-    },
+      en: "Kabala",
+image: "/poi-images/kabala-cities-v2.webp"
+},
     description: {
       de: "Kabala ist die Hauptstadt des Distrikts Koinadugu und eine der höchstgelegenen Städte des Landes.",
       hu: "Kabala Koinadugu kerület fővárosa és az ország egyik legmagasabban fekvő városa.",
@@ -416,8 +425,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Segbwema",
       hu: "Segbwema",
       ro: "Segbwema",
-      en: "Segbwema"
-    },
+      en: "Segbwema",
+image: "/poi-images/segbwema-cities-v2.webp"
+},
     description: {
       de: "Segbwema ist eine bedeutende Stadt im Osten von Sierra Leone und ein wichtiges Handelszentrum für Agrarprodukte.",
       hu: "Segbwema egy jelentős város Sierra Leone keleti részén, a mezőgazdasági termékek fontos kereskedelmi központja.",
@@ -461,8 +471,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Magburaka",
       hu: "Magburaka",
       ro: "Magburaka",
-      en: "Magburaka"
-    },
+      en: "Magburaka",
+image: "/poi-images/magburaka-cities-v2.webp"
+},
     description: {
       de: "Magburaka ist ein wichtiges Bildungszentrum und die Hauptstadt des Distrikts Tonkolili.",
       hu: "Magburaka egy fontos oktatási központ és Tonkolili kerület fővárosa.",
@@ -506,8 +517,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Koindu",
       hu: "Koindu",
       ro: "Koindu",
-      en: "Koindu"
-    },
+      en: "Koindu",
+image: "/poi-images/koindu-cities-v2.webp"
+},
     description: {
       de: "Koindu ist eine Grenzstadt im äußersten Osten, bekannt für ihren großen internationalen Markt.",
       hu: "Koindu egy határváros a távoli keleten, híres nagy nemzetközi piacáról.",
@@ -552,8 +564,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kailahun",
       hu: "Kailahun",
       ro: "Kailahun",
-      en: "Kailahun"
-    },
+      en: "Kailahun",
+image: "/poi-images/kailahun-cities-v2.webp"
+},
     description: {
       de: "Kailahun ist die Hauptstadt des gleichnamigen Distrikts und ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Kailahun az azonos nevű kerület fővárosa és egy fontos mezőgazdasági központ.",
@@ -597,8 +610,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Bonthe",
       hu: "Bonthe",
       ro: "Bonthe",
-      en: "Bonthe"
-    },
+      en: "Bonthe",
+image: "/poi-images/bonthe-cities-v2.webp"
+},
     description: {
       de: "Bonthe ist eine historische Hafenstadt auf Sherbro Island vor der Küste Sierra Leones.",
       hu: "Bonthe egy történelmi kikötőváros a Sierra Leone partjainál fekvő Sherbro-szigeten.",
@@ -642,8 +656,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Gandorhun",
       hu: "Gandorhun",
       ro: "Gandorhun",
-      en: "Gandorhun"
-    },
+      en: "Gandorhun",
+image: "/poi-images/gandorhun-cities-v2.webp"
+},
     description: {
       de: "Gandorhun ist eine Stadt im Distrikt Kono, die für ihren Diamantenabbau bekannt ist.",
       hu: "Gandorhun egy város Kono kerületben, amely gyémántbányászatáról ismert.",
@@ -688,8 +703,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Mile 91",
       hu: "Mile 91",
       ro: "Mile 91",
-      en: "Mile 91"
-    },
+      en: "Mile 91",
+image: "/poi-images/mile-91-cities-v2.webp"
+},
     description: {
       de: "Mile 91 ist ein wichtiger Verkehrsknotenpunkt, der die Hauptstadt Freetown mit dem Landesinneren verbindet.",
       hu: "Mile 91 egy fontos közlekedési csomópont, amely összeköti Freetownt az ország belsejével.",
@@ -733,8 +749,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Pandebu-Tokpombu",
       hu: "Pandebu-Tokpombu",
       ro: "Pandebu-Tokpombu",
-      en: "Pandebu-Tokpombu"
-    },
+      en: "Pandebu-Tokpombu",
+image: "/poi-images/pandebu-tokpombu-cities-v2.webp"
+},
     description: {
       de: "Pandebu-Tokpombu ist eine Stadt im Distrikt Kenema, die eine wichtige Rolle in der lokalen Landwirtschaft spielt.",
       hu: "Pandebu-Tokpombu egy város Kenema kerületben, amely fontos szerepet játszik a helyi mezőgazdaságban.",
@@ -778,8 +795,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Blama",
       hu: "Blama",
       ro: "Blama",
-      en: "Blama"
-    },
+      en: "Blama",
+image: "/poi-images/blama-cities-v2.webp"
+},
     description: {
       de: "Blama ist eine bedeutende Stadt im Distrikt Kenema und ein Zentrum für den Handel mit Agrarerzeugnissen.",
       hu: "Blama egy jelentős város Kenema kerületben, a mezőgazdasági termékek kereskedelmi központja.",
@@ -823,8 +841,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Panguma",
       hu: "Panguma",
       ro: "Panguma",
-      en: "Panguma"
-    },
+      en: "Panguma",
+image: "/poi-images/panguma-cities-v2.webp"
+},
     description: {
       de: "Panguma ist eine Stadt im Distrikt Kenema, bekannt für ihre Gesundheitszentren und Landwirtschaft.",
       hu: "Panguma egy város Kenema kerületben, egészségügyi központjairól és mezőgazdaságáról ismert.",
@@ -868,8 +887,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Barma",
       hu: "Barma",
       ro: "Barma",
-      en: "Barma"
-    },
+      en: "Barma",
+image: "/poi-images/barma-cities-v2.webp"
+},
     description: {
       de: "Barma ist eine kleine, aber wachsende Stadt im Distrikt Kenema, die für ihre landwirtschaftliche Produktion wichtig ist.",
       hu: "Barma egy kicsi, de növekvő város Kenema kerületben, amely fontos a mezőgazdasági termelés szempontjából.",
@@ -913,8 +933,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Bunumbu",
       hu: "Bunumbu",
       ro: "Bunumbu",
-      en: "Bunumbu"
-    },
+      en: "Bunumbu",
+image: "/poi-images/bunumbu-cities-v2.webp"
+},
     description: {
       de: "Bunumbu ist vor allem als Bildungsstandort im Osten von Sierra Leone bekannt.",
       hu: "Bunumbu elsősorban oktatási központként ismert Sierra Leone keleti részén.",
@@ -959,8 +980,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Boajibu",
       hu: "Boajibu",
       ro: "Boajibu",
-      en: "Boajibu"
-    },
+      en: "Boajibu",
+image: "/poi-images/boajibu-cities-v2.webp"
+},
     description: {
       de: "Boajibu ist eine Stadt im Distrikt Kenema, die als lokales Handelszentrum fungiert.",
       hu: "Boajibu egy város Kenema kerületben, amely helyi kereskedelmi központként működik.",
@@ -1005,8 +1027,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kukuna",
       hu: "Kukuna",
       ro: "Kukuna",
-      en: "Kukuna"
-    },
+      en: "Kukuna",
+image: "/poi-images/kukuna-cities-v2.webp"
+},
     description: {
       de: "Kukuna ist eine wichtige Stadt im Distrikt Kambia, nahe der Grenze zu Guinea.",
       hu: "Kukuna egy fontos város Kambia kerületben, a guineai határ közelében.",
@@ -1050,8 +1073,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Yengema",
       hu: "Yengema",
       ro: "Yengema",
-      en: "Yengema"
-    },
+      en: "Yengema",
+image: "/poi-images/yengema-cities-v2.webp"
+},
     description: {
       de: "Yengema ist eine Bergbaustadt im Distrikt Kono, die für ihren Reichtum an Diamanten bekannt war.",
       hu: "Yengema egy bányaváros Kono kerületben, amely gyémántgazdagságáról volt ismert.",
@@ -1095,8 +1119,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Rokupr",
       hu: "Rokupr",
       ro: "Rokupr",
-      en: "Rokupr"
-    },
+      en: "Rokupr",
+image: "/poi-images/rokupr-cities-v2.webp"
+},
     description: {
       de: "Rokupr ist bekannt für sein Reisforschungsinstitut und seine Lage am Großen Scarcies Fluss.",
       hu: "Rokupr a rizskutató intézetéről és a Great Scarcies folyó menti fekvéséről ismert.",
@@ -1140,8 +1165,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kamakwie",
       hu: "Kamakwie",
       ro: "Kamakwie",
-      en: "Kamakwie"
-    },
+      en: "Kamakwie",
+image: "/poi-images/kamakwie-cities-v2.webp"
+},
     description: {
       de: "Kamakwie ist eine Stadt im Distrikt Karene und ein bedeutendes Handelszentrum im Nordwesten.",
       hu: "Kamakwie egy város Karene kerületben, északnyugat jelentős kereskedelmi központja.",
@@ -1185,8 +1211,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Masingbi",
       hu: "Masingbi",
       ro: "Masingbi",
-      en: "Masingbi"
-    },
+      en: "Masingbi",
+image: "/poi-images/masingbi-cities-v2.webp"
+},
     description: {
       de: "Masingbi ist eine strategisch günstig gelegene Stadt im Distrikt Tonkolili.",
       hu: "Masingbi egy stratégiailag kedvező fekvésű város Tonkolili kerületben.",
@@ -1231,8 +1258,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kambia",
       hu: "Kambia",
       ro: "Kambia",
-      en: "Kambia"
-    },
+      en: "Kambia",
+image: "/poi-images/kambia-cities-v2.webp"
+},
     description: {
       de: "Kambia ist die Hauptstadt des gleichnamigen Distrikts und ein wichtiges Tor nach Guinea.",
       hu: "Kambia az azonos nevű kerület fővárosa és egy fontos kapu Guinea felé.",
@@ -1277,8 +1305,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Moyamba",
       hu: "Moyamba",
       ro: "Moyamba",
-      en: "Moyamba"
-    },
+      en: "Moyamba",
+image: "/poi-images/moyamba-cities-v2.webp"
+},
     description: {
       de: "Moyamba ist die Hauptstadt des gleichnamigen Distrikts und ein wichtiges Zentrum im Süden.",
       hu: "Moyamba az azonos nevű kerület fővárosa és egy fontos központ délen.",
@@ -1323,8 +1352,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Jaiama-Sewafe",
       hu: "Jaiama-Sewafe",
       ro: "Jaiama-Sewafe",
-      en: "Jaiama-Sewafe"
-    },
+      en: "Jaiama-Sewafe",
+image: "/poi-images/jaiama-sewafe-cities-v2.webp"
+},
     description: {
       de: "Jaiama-Sewafe ist eine wichtige Bergbaustadt im Distrikt Kono.",
       hu: "Jaiama-Sewafe egy fontos bányaváros Kono kerületben.",
@@ -1369,8 +1399,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Pujehun",
       hu: "Pujehun",
       ro: "Pujehun",
-      en: "Pujehun"
-    },
+      en: "Pujehun",
+image: "/poi-images/pujehun-cities-v2.webp"
+},
     description: {
       de: "Pujehun ist die Hauptstadt des Distrikts Pujehun und ein bedeutendes landwirtschaftliches Zentrum im Süden.",
       hu: "Pujehun Pujehun kerület fővárosa és egy jelentős mezőgazdasági központ délen.",
@@ -1414,8 +1445,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Daru",
       hu: "Daru",
       ro: "Daru",
-      en: "Daru"
-    },
+      en: "Daru",
+image: "/poi-images/daru-cities-v2.webp"
+},
     description: {
       de: "Daru ist eine Stadt im Distrikt Kailahun, bekannt für ihre strategische militärische Bedeutung.",
       hu: "Daru egy város Kailahun kerületben, stratégiai katonai jelentőségéről ismert.",
@@ -1459,8 +1491,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Madina",
       hu: "Madina",
       ro: "Madina",
-      en: "Madina"
-    },
+      en: "Madina",
+image: "/poi-images/madina-cities-v2.webp"
+},
     description: {
       de: "Madina ist eine Stadt im Distrikt Kambia, bekannt für ihren lebhaften lokalen Handel.",
       hu: "Madina egy város Kambia kerületben, élénk helyi kereskedelméről ismert.",
@@ -1504,8 +1537,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Tongo",
       hu: "Tongo",
       ro: "Tongo",
-      en: "Tongo"
-    },
+      en: "Tongo",
+image: "/poi-images/tongo-cities-v2.webp"
+},
     description: {
       de: "Tongo ist ein bedeutendes Zentrum des Diamantenabbaus im Distrikt Kenema.",
       hu: "Tongo a gyémántbányászat egyik jelentős központja Kenema kerületben.",
@@ -1549,8 +1583,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Mambolo",
       hu: "Mambolo",
       ro: "Mambolo",
-      en: "Mambolo"
-    },
+      en: "Mambolo",
+image: "/poi-images/mambolo-cities-v2.webp"
+},
     description: {
       de: "Mambolo ist eine Hafenstadt im Distrikt Kambia, bekannt für ihre Fischerei und Landwirtschaft.",
       hu: "Mambolo egy kikötőváros Kambia kerületben, halászatáról és mezőgazdaságáról ismert.",
@@ -1594,8 +1629,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Yonibana",
       hu: "Yonibana",
       ro: "Yonibana",
-      en: "Yonibana"
-    },
+      en: "Yonibana",
+image: "/poi-images/yonibana-cities-v2.webp"
+},
     description: {
       de: "Yonibana ist eine historische Stadt im Distrikt Tonkolili.",
       hu: "Yonibana egy történelmi város Tonkolili kerületben.",
@@ -1639,8 +1675,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Sumbaria",
       hu: "Sumbaria",
       ro: "Sumbaria",
-      en: "Sumbaria"
-    },
+      en: "Sumbaria",
+image: "/poi-images/sumbaria-cities-v2.webp"
+},
     description: {
       de: "Sumbaria ist eine Stadt im Distrikt Koinadugu, die als lokales Marktzentrum dient.",
       hu: "Sumbaria egy város Koinadugu kerületben, amely helyi piaci központként szolgál.",
@@ -1685,8 +1722,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Fadugu",
       hu: "Fadugu",
       ro: "Fadugu",
-      en: "Fadugu"
-    },
+      en: "Fadugu",
+image: "/poi-images/fadugu-cities-v2.webp"
+},
     description: {
       de: "Fadugu ist eine Stadt im Distrikt Koinadugu, bekannt für ihre Rolle im Inlandsverkehr.",
       hu: "Fadugu egy város Koinadugu kerületben, a belföldi közlekedésben betöltött szerepéről ismert.",
@@ -1731,8 +1769,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Benduma",
       hu: "Benduma",
       ro: "Benduma",
-      en: "Benduma"
-    },
+      en: "Benduma",
+image: "/poi-images/benduma-cities-v2.webp"
+},
     description: {
       de: "Benduma ist eine Stadt im Distrikt Moyamba, die eine wichtige Rolle in der lokalen Landwirtschaft spielt.",
       hu: "Benduma egy város Moyamba kerületben, amely fontos szerepet játszik a helyi mezőgazdaságban.",
@@ -1777,8 +1816,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Sumbuya",
       hu: "Sumbuya",
       ro: "Sumbuya",
-      en: "Sumbuya"
-    },
+      en: "Sumbuya",
+image: "/poi-images/sumbuya-cities-v2.webp"
+},
     description: {
       de: "Sumbuya ist eine Stadt im Distrikt Bo, bekannt für ihre Lage am Sewa-Fluss.",
       hu: "Sumbuya egy város Bo kerületben, a Sewa-folyó menti fekvéséről ismert.",
@@ -1823,8 +1863,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Rotifunk",
       hu: "Rotifunk",
       ro: "Rotifunk",
-      en: "Rotifunk"
-    },
+      en: "Rotifunk",
+image: "/poi-images/rotifunk-cities-v2.webp"
+},
     description: {
       de: "Rotifunk ist eine historische Stadt im Distrikt Moyamba, bekannt für ihre Bildungs- und Missionsgeschichte.",
       hu: "Rotifunk egy történelmi város Moyamba kerületben, oktatási és missziós történelméről ismert.",
@@ -1869,8 +1910,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Mano",
       hu: "Mano",
       ro: "Mano",
-      en: "Mano"
-    },
+      en: "Mano",
+image: "/poi-images/mano-cities-v2.webp"
+},
     description: {
       de: "Mano ist eine Stadt im Distrikt Bo, die als lokaler Verkehrsknotenpunkt dient.",
       hu: "Mano egy város Bo kerületben, amely helyi közlekedési csomópontként szolgál.",
@@ -1914,8 +1956,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Pendembu",
       hu: "Pendembu",
       ro: "Pendembu",
-      en: "Pendembu"
-    },
+      en: "Pendembu",
+image: "/poi-images/pendembu-cities-v2.webp"
+},
     description: {
       de: "Pendembu ist eine bedeutende Stadt im Distrikt Kailahun, bekannt für ihre landwirtschaftliche Bedeutung.",
       hu: "Pendembu egy jelentős város Kailahun kerületben, mezőgazdasági jelentőségéről ismert.",
@@ -1959,8 +2002,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Taiama",
       hu: "Taiama",
       ro: "Taiama",
-      en: "Taiama"
-    },
+      en: "Taiama",
+image: "/poi-images/taiama-cities-v2.webp"
+},
     description: {
       de: "Taiama ist eine Stadt im Distrikt Moyamba, die als wichtiges Bildungszentrum im Süden bekannt ist.",
       hu: "Taiama egy város Moyamba kerületben, amely fontos oktatási központként ismert délen.",
@@ -2004,8 +2048,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Shenge",
       hu: "Shenge",
       ro: "Shenge",
-      en: "Shenge"
-    },
+      en: "Shenge",
+image: "/poi-images/shenge-cities-v2.webp"
+},
     description: {
       de: "Shenge ist eine historische Hafenstadt im Distrikt Moyamba, bekannt für ihre Fischerei.",
       hu: "Shenge egy történelmi kikötőváros Moyamba kerületben, halászatáról ismert.",
@@ -2049,8 +2094,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Tombo",
       hu: "Tombo",
       ro: "Tombo",
-      en: "Tombo"
-    },
+      en: "Tombo",
+image: "/poi-images/tombo-cities-v2.webp"
+},
     description: {
       de: "Tombo ist eine geschäftige Fischerstadt in der Western Area, südlich von Freetown.",
       hu: "Tombo egy nyüzsgő halászváros a Western Area régióban, Freetowntól délre.",
@@ -2094,8 +2140,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "York",
       hu: "York",
       ro: "York",
-      en: "York"
-    },
+      en: "York",
+image: "/poi-images/york-cities-v2.webp"
+},
     description: {
       de: "York ist eine malerische Küstenstadt in der Western Area, bekannt für ihre Ruhe und Schönheit.",
       hu: "York egy festői tengerparti város a Western Area régióban, nyugalmáról és szépségéről ismert.",
@@ -2139,8 +2186,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Kent",
       hu: "Kent",
       ro: "Kent",
-      en: "Kent"
-    },
+      en: "Kent",
+image: "/poi-images/kent-cities-v2.webp"
+},
     description: {
       de: "Kent ist eine historische Küstenstadt an der Südspitze der Freetown-Halbinsel.",
       hu: "Kent egy történelmi tengerparti város a Freetown-félsziget déli csücskén.",
@@ -2185,8 +2233,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Hastings",
       hu: "Hastings",
       ro: "Hastings",
-      en: "Hastings"
-    },
+      en: "Hastings",
+image: "/poi-images/hastings-cities-v2.webp"
+},
     description: {
       de: "Hastings ist eine Stadt in der Western Area, bekannt für ihren Inlandsflughafen und ihre Handelszentren.",
       hu: "Hastings egy város a Western Area régióban, belföldi repülőteréről és kereskedelmi központjairól ismert.",
@@ -2230,8 +2279,9 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       de: "Newton",
       hu: "Newton",
       ro: "Newton",
-      en: "Newton"
-    },
+      en: "Newton",
+image: "/poi-images/newton-cities-v2.webp"
+},
     description: {
       de: "Newton ist eine wachsende Stadt in der Western Area, die für ihre Landwirtschaft und Verkehrsanbindung bekannt ist.",
       hu: "Newton egy növekvő város a Western Area régióban, mezőgazdaságáról és közlekedési kapcsolatairól ismert.",

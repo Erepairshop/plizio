@@ -11,8 +11,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Steinkreise von Wassu",
       hu: "Wassu kőkörei",
       ro: "Cercurile de piatră de la Wassu",
-      en: "Wassu Stone Circles"
-    },
+      en: "Wassu Stone Circles",
+image: "/poi-images/wassu-stone-circles-history-v2.webp"
+},
     description: {
       de: "Die berühmteste Megalithanlage Westafrikas und Teil des UNESCO-Welterbes, bestehend aus präzise angeordneten Lateritsäulen.",
       hu: "Nyugat-Afrika leghíresebb megalitikus építménye és az UNESCO Világörökség része, amely precízen elrendezett laterit oszlopokból áll.",
@@ -49,8 +50,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Steinkreise von Kerbatch",
       hu: "Kerbatch kőkörei",
       ro: "Cercurile de piatră de la Kerbatch",
-      en: "Kerbatch Stone Circles"
-    },
+      en: "Kerbatch Stone Circles",
+image: "/poi-images/kerbatch-stone-circles-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende Gruppe von Steinkreisen, die für ihren einzigartigen 'V-Stein' oder Doppelsymbol-Stein bekannt ist.",
       hu: "Jelentős kőkör-csoport, amely az egyedülálló 'V-kő' vagy kettős szimbólumú kő miatt ismert.",
@@ -87,8 +89,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Fort Bullen",
       hu: "Fort Bullen",
       ro: "Fort Bullen",
-      en: "Fort Bullen"
-    },
+      en: "Fort Bullen",
+image: "/poi-images/fort-bullen-history-v2.webp"
+},
     description: {
       de: "Eine britische Festung bei Barra, die 1826 errichtet wurde, um den illegalen Sklavenhandel an der Flussmündung zu unterbinden.",
       hu: "Brit erőd Barra közelében, amelyet 1826-ban építettek, hogy megakadályozzák az illegális rabszolga-kereskedelmet a folyótorkolatnál.",
@@ -123,8 +126,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Arch 22",
       hu: "Arch 22",
       ro: "Arch 22",
-      en: "Arch 22"
-    },
+      en: "Arch 22",
+image: "/poi-images/arch-22-history-v2.webp"
+},
     description: {
       de: "Ein monumentaler Triumphbogen am Eingang von Banjul, der an den friedlichen Militärputsch vom 22. Juli 1994 erinnert.",
       hu: "Monumentális diadalív Banjul bejáratánál, amely az 1994. július 22-i békés katonai puccsnak állít emléket.",
@@ -159,8 +163,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Kachikally Krokodilbecken",
       hu: "Kachikally krokodilmedence",
       ro: "Bazinul cu crocodili Kachikally",
-      en: "Kachikally Crocodile Pool"
-    },
+      en: "Kachikally Crocodile Pool",
+image: "/poi-images/kachikally-crocodile-pool-history-v2.webp"
+},
     description: {
       de: "Ein jahrhundertealter heiliger Ort der Mandinka, der für seine zahmen Krokodile und Fruchtbarkeitsrituale bekannt ist.",
       hu: "A mandinkák évszázados szent helye, amely szelíd krokodiljairól és termékenységi rituáléiról ismert.",
@@ -195,8 +200,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Fort Louvel",
       hu: "Fort Louvel",
       ro: "Fort Louvel",
-      en: "Fort Louvel"
-    },
+      en: "Fort Louvel",
+image: "/poi-images/fort-louvel-history-v2.webp"
+},
     description: {
       de: "Ein kleines Verteidigungswerk in Banjul, das 1831 während der Barra-Kriege zum Schutz der britischen Siedler errichtet wurde.",
       hu: "Kicsi védmű Banjulban, amelyet 1831-ben, a Barra-háborúk idején építettek a brit telepesek védelmére.",
@@ -231,8 +237,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Nationalmuseum von Gambia",
       hu: "Gambia Nemzeti Múzeuma",
       ro: "Muzeul Național al Gambiei",
-      en: "National Museum of The Gambia"
-    },
+      en: "National Museum of The Gambia",
+image: "/poi-images/national-museum-gambia-history-v2.webp"
+},
     description: {
       de: "Das Museum präsentiert eine reiche Sammlung zur Archäologie, Ethnographie und Kolonialgeschichte des Landes.",
       hu: "A múzeum gazdag gyűjteményt mutat be az ország régészetéről, néprajzáról és gyarmati történelméről.",
@@ -267,8 +274,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "San Domingo Ruinen",
       hu: "San Domingo romjai",
       ro: "Ruinele San Domingo",
-      en: "San Domingo Ruins"
-    },
+      en: "San Domingo Ruins",
+image: "/poi-images/san-domingo-ruins-history-v2.webp"
+},
     description: {
       de: "Überreste einer portugiesischen Siedlung aus dem 15. Jahrhundert, die zu den ältesten europäischen Spuren in Westafrika gehört.",
       hu: "Egy 15. századi portugál település maradványai, amely Nyugat-Afrika egyik legrégebbi európai emléke.",
@@ -303,8 +311,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "CFAO-Gebäude Albreda",
       hu: "Albredai CFAO-épület",
       ro: "Clădirea CFAO Albreda",
-      en: "CFAO Building Albreda"
-    },
+      en: "CFAO Building Albreda",
+image: "/poi-images/cfao-building-albreda-history-v2.webp"
+},
     description: {
       de: "Ein markantes ehemaliges französisches Handelskontor, das die wirtschaftliche Bedeutung Albredas während der Kolonialzeit bezeugt.",
       hu: "Jelentős egykori francia kereskedőház, amely Albreda gyarmati időkbeli gazdasági fontosságát tanúsítja.",
@@ -339,8 +348,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Grabmal von Mussa Molloh",
       hu: "Mussa Molloh sírja",
       ro: "Mormântul lui Mussa Molloh",
-      en: "Mussa Molloh's Tomb"
-    },
+      en: "Mussa Molloh's Tomb",
+image: "/poi-images/mussa-molloh-tomb-history-v2.webp"
+},
     description: {
       de: "Die Grabstätte des letzten großen Königs von Fuladu, der eine zentrale Rolle im Widerstand gegen die Kolonialmächte spielte.",
       hu: "Fuladu utolsó nagy királyának sírhelye, aki központi szerepet játszott a gyarmati hatalmakkal szembeni ellenállásban.",
@@ -375,8 +385,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Kataba Fort",
       hu: "Kataba erőd",
       ro: "Fortul Kataba",
-      en: "Kataba Fort"
-    },
+      en: "Kataba Fort",
+image: "/poi-images/kataba-fort-history-v2.webp"
+},
     description: {
       de: "Ruinen einer vorkolonialen Erdfestung, die im 19. Jahrhundert während lokaler Konflikte und gegen koloniale Übergriffe genutzt wurde.",
       hu: "Egy gyarmatosítás előtti földerőd maradványai, amelyet a 19. századi helyi konfliktusok és a gyarmati behatolások során használtak.",
@@ -411,8 +422,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Berending Krokodilbecken",
       hu: "Berendingi krokodilmedence",
       ro: "Bazinul cu crocodili Berending",
-      en: "Berending Crocodile Pool"
-    },
+      en: "Berending Crocodile Pool",
+image: "/poi-images/berending-crocodile-pool-history-v2.webp"
+},
     description: {
       de: "Ein weiterer bedeutender heiliger Ort mit einem Krokodilbecken, der tief in den spirituellen Traditionen der Region verwurzelt ist.",
       hu: "Egy másik jelentős szent hely krokodilmedencével, amely mélyen gyökerezik a régió spirituális hagyományaiban.",
@@ -447,8 +459,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Folonko Krokodilbecken",
       hu: "Folonko krokodilmedence",
       ro: "Bazinul cu crocodili Folonko",
-      en: "Folonko Crocodile Pool"
-    },
+      en: "Folonko Crocodile Pool",
+image: "/poi-images/folonko-crocodile-pool-history-v2.webp"
+},
     description: {
       de: "Das heilige Krokodilbecken von Kartong, das seit Generationen für seine vermeintlichen Heilkräfte aufgesucht wird.",
       hu: "Kartong szent krokodilmedencéje, amelyet generációk óta látogatnak feltételezett gyógyító ereje miatt.",
@@ -483,8 +496,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Janjanbureh Sklavenhaus",
       hu: "Janjanbureh rabszolgaház",
       ro: "Casa sclavilor din Janjanbureh",
-      en: "Janjanbureh Slave House"
-    },
+      en: "Janjanbureh Slave House",
+image: "/poi-images/janjanbureh-slave-house-history-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude in Janjanbureh, das an die Geschichte der Insel als Umsiedlungsort für befreite Sklaven erinnert.",
       hu: "Történelmi épület Janjanburehben, amely a sziget múltjára emlékeztet, mint a felszabadított rabszolgák letelepedési helyére.",
@@ -519,8 +533,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Bwiam Steinkreis",
       hu: "Bwiami kőkör",
       ro: "Cercul de piatră de la Bwiam",
-      en: "Bwiam Stone Circle"
-    },
+      en: "Bwiam Stone Circle",
+image: "/poi-images/bwiam-stone-circle-history-v2.webp"
+},
     description: {
       de: "Ein bedeutendes prähistorisches Denkmal in der West Coast Region, das Teil der weitreichenden Megalithkultur ist.",
       hu: "Jelentős őskori emlékmű a Nyugati Part régióban, amely a kiterjedt megalitikus kultúra része.",
@@ -555,8 +570,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Tanje Village Museum",
       hu: "Tanjei Falumúzeum",
       ro: "Muzeul Satului Tanje",
-      en: "Tanje Village Museum"
-    },
+      en: "Tanje Village Museum",
+image: "/poi-images/tanje-village-museum-history-v2.webp"
+},
     description: {
       de: "Ein Freilichtmuseum, das die traditionelle gambische Kultur, Handwerkskunst und Naturgeschichte lebendig bewahrt.",
       hu: "Szabadtéri múzeum, amely élénken őrzi a hagyományos gambiai kultúrát, kézművességet és természetrajzot.",
@@ -591,8 +607,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "St.-Joseph-Kirche Banjul",
       hu: "Banjuli Szent József-templom",
       ro: "Biserica Sfântul Iosif din Banjul",
-      en: "St. Joseph's Church Banjul"
-    },
+      en: "St. Joseph's Church Banjul",
+image: "/poi-images/st-joseph-church-banjul-history-v2.webp"
+},
     description: {
       de: "Die erste katholische Kirche des Landes, erbaut in der Mitte des 19. Jahrhunderts, ein bedeutendes religiöses Denkmal.",
       hu: "Az ország első katolikus temploma, amely a 19. század közepén épült, jelentős vallási emlékmű.",
@@ -627,8 +644,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Vainqueur Ruinen",
       hu: "Vainqueur romjai",
       ro: "Ruinele Vainqueur",
-      en: "Vainqueur Ruins"
-    },
+      en: "Vainqueur Ruins",
+image: "/poi-images/vainqueur-ruins-history-v2.webp"
+},
     description: {
       de: "Ruinen eines französischen Militärpostens aus dem 18. Jahrhundert, der strategisch am Nordufer des Flusses lag.",
       hu: "Egy 18. századi francia katonai állomás romjai, amely stratégiai helyen, a folyó északi partján feküdt.",
@@ -663,8 +681,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Sankandi Schlachtfeld",
       hu: "Sankandi csatatér",
       ro: "Câmpul de luptă Sankandi",
-      en: "Sankandi Battlefield"
-    },
+      en: "Sankandi Battlefield",
+image: "/poi-images/sankandi-battlefield-history-v2.webp"
+},
     description: {
       de: "Ort einer geschichtlich bedeutsamen Schlacht im Jahr 1900, die ein entscheidender Moment in der Kolonisierung Gambias war.",
       hu: "Egy 1900-as, történelmileg jelentős csata helyszíne, amely döntő pillanat volt Gambia gyarmatosításában.",
@@ -699,8 +718,9 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       de: "Basse Kolonialviertel",
       hu: "Bassei gyarmati negyed",
       ro: "Cartierul colonial din Basse",
-      en: "Basse Colonial Quarter"
-    },
+      en: "Basse Colonial Quarter",
+image: "/poi-images/basse-colonial-quarter-history-v2.webp"
+},
     description: {
       de: "Das historische Viertel von Basse Santa Su mit seinen alten Lagerhäusern aus der Blütezeit des Erdnusshandels.",
       hu: "Basse Santa Su történelmi negyede régi raktáraival, amelyek a földimogyoró-kereskedelem fénykorából származnak.",

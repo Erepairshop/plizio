@@ -4,7 +4,9 @@ export const czechrepublicLandmarksV2: POI[] = [
   {
     id: "czechrepublic-charles-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Karlsbrücke", hu: "Károly híd", ro: "Podul Carol", en: "Charles Bridge" },
+    name: { de: "Karlsbrücke", hu: "Károly híd", ro: "Podul Carol", en: "Charles Bridge",
+image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp"
+},
     coords: [14.4114, 50.0865],
     coordinates: { lat: 50.0865, lng: 14.4114 },
     description: {
@@ -19,11 +21,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Piatra de temelie pusă la 9 iulie 1357, ora 5:31", "Lungime de 516 metri și lățime de 10 metri", "Numit inițial 'Podul de Piatră'", "Decorat cu 30 de statui, majoritatea baroce"],
       en: ["Foundation stone laid on 9 July 1357 at 5:31 AM", "Length of 516 meters and width of 10 meters", "Originally called the Stone Bridge", "Decorated with 30 mostly Baroque statues"],
     },
-    imageHint: "Charles Bridge Prague with statues at dawn", image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp"},
+    imageHint: "Charles Bridge Prague with statues at dawn",
+    image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese gotische Steinbrücke aus dem 14. Jahrhundert verbindet die Prager Altstadt mit der Kleinseite und wird von 30 barocken Heiligenstatuen sowie massiven Türmen gesäumt.",
+      hu: "A 14. századi gótikus kőhíd Prága óvárosát és a Kisoldalt köti össze a Moldva felett, harminc barokk szoborcsoportjával a város egyik legismertebb jelképe.",
+      ro: "Acest pod gotic de piatră din secolul al XIV-lea leagă Orașul Vechi de cartierul Malá Strana, fiind decorat cu 30 de statui baroce și trei turnuri defensive masive.",
+      en: "This iconic 14th-century Gothic stone bridge spans the Vltava River, connecting Prague's Old Town with Malá Strana, and features 30 Baroque statues and towers.",
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung: 9. Juli 1357", "Länge: genau 516 Meter", "Breite: rund 9,5 Meter", "Anzahl der Brückenbögen: 16"],
+      hu: ["Alapkőletétel: 1357. július 9.", "Teljes hossz: 516 méter", "Szélesség: 9,5 méter", "Pillérek száma: 16 ív"],
+      ro: ["Piatra de temelie: 9 iulie 1357", "Lungime: 516 metri", "Lățime: 9,5 metri", "Număr de arcade: 16 piloni"],
+      en: ["Foundation stone: July 9, 1357", "Total length: 516 meters", "Width: 9.5 meters", "Number of arches: 16"],
+    },
+  },
   {
     id: "czechrepublic-astronomical-clock-landmarks-v2",
     type: "monument",
-    name: { de: "Prager Rathausuhr", hu: "Prágai asztronómiai óra", ro: "Ceasul Astronomic din Praga", en: "Prague Astronomical Clock" },
+    name: { de: "Prager Rathausuhr", hu: "Prágai asztronómiai óra", ro: "Ceasul Astronomic din Praga", en: "Prague Astronomical Clock",
+image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp"
+},
     coords: [14.4207, 50.087],
     coordinates: { lat: 50.087, lng: 14.4207 },
     description: {
@@ -38,11 +56,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Indică poziția Soarelui, a Lunii și zodiacul", "Defilarea orară a figurilor celor doisprezece apostoli", "Cea mai veche parte datează de la meșterul Mikuláš", "Cadranul ceasului este un astrolab"],
       en: ["Shows positions of Sun and Moon and zodiac signs", "Hourly procession of the twelve Apostle figures", "Oldest parts date back to clockmaker Mikuláš", "The dial is an astronomical astrolabe"],
     },
-    imageHint: "Prague Astronomical Clock Orloj close up", image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp"},
+    imageHint: "Prague Astronomical Clock Orloj close up",
+    image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die am Prager Rathaus installierte astronomische Uhr zeigt neben der Zeit auch die Sonnen- und Mondphasen sowie den Gang der zwölf Apostel zu jeder vollen Stunde.",
+      hu: "A prágai városháza falán található asztrológiai óraszerkezet a nap és a hold állását is mutatja, óránként pedig a tizenkét apostol alakja vonul végig rajta.",
+      ro: "Instalat pe peretele primăriei din Praga, acest ceas astronomic indică fazele solare și lunare, oferind un spectacol cu cei doisprezece apostoli la fiecare oră fixă.",
+      en: "Mounted on the Old Town Hall, this medieval clock displays astronomical details and features an hourly mechanical performance of the Twelve Apostles and Death.",
+    },
+    factsAdvanced: {
+      de: ["Installation: Jahr 1410", "Hauptautor: Mikuláš z Kadaně", "Restaurierung: nach 1945", "Mechanismus: über 600 Jahre alt"],
+      hu: ["Telepítés éve: 1410", "Készítő: Kadani Miklós", "Helyszín: Óvárosi városháza", "Kora: több mint 600 éves"],
+      ro: ["Anul instalării: 1410", "Autor principal: Mikuláš z Kadaně", "Locație: Turnul Primăriei Vechi", "Vechime: peste 600 de ani"],
+      en: ["Installed: year 1410", "Maker: Mikuláš of Kadaň", "Restoration: after 1945 damage", "Mechanism age: over 600 years"],
+    },
+  },
   {
     id: "czechrepublic-st-vitus-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Veitsdom", hu: "Szent Vitus-székesegyház", ro: "Catedrala Sfântul Vitus", en: "St. Vitus Cathedral" },
+    name: { de: "Veitsdom", hu: "Szent Vitus-székesegyház", ro: "Catedrala Sfântul Vitus", en: "St. Vitus Cathedral",
+image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp"
+},
     coords: [14.4005, 50.0909],
     coordinates: { lat: 50.0909, lng: 14.4005 },
     description: {
@@ -57,11 +91,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Construită între 1344 și finalizată în 1929", "Înălțimea turnului principal este de 96,5 metri", "Găzduiește capela Sfântului Wenceslas", "Locul de încoronare al regilor boemi"],
       en: ["Construction period from 1344 to completion in 1929", "Height of the main tower is 96.5 meters", "Houses the St. Wenceslas Chapel", "Site of coronations of Bohemian kings"],
     },
-    imageHint: "St Vitus Cathedral Prague Gothic facade", image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp"},
+    imageHint: "St Vitus Cathedral Prague Gothic facade",
+    image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kathedrale im Prager Burgareal ist das bedeutendste Kirchenbauwerk Tschechiens und dient als Grablege böhmischer Könige sowie als Aufbewahrungsort der Krönungsinsignien.",
+      hu: "A prágai vár területén álló katedrális Csehország legfontosabb temploma, a cseh királyok sírhelye és a koronázási ékszerek őrzési helye a gótikus falak között.",
+      ro: "Situată în incinta Castelului Praga, această catedrală gotică este cea mai importantă biserică din Cehia, adăpostind mormintele regilor boemi și bijuteriile coroanei.",
+      en: "Dominating the Prague Castle skyline, this Gothic cathedral is the seat of the Archbishop and the burial place of many Bohemian kings and Holy Roman Emperors.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: Jahr 1344", "Fertigstellung: Jahr 1929", "Höhe des Hauptturms: 96,5 m", "Länge des Kirchenschiffs: 124 m"],
+      hu: ["Építés kezdete: 1344", "Befejezés éve: 1929", "Főtorony magassága: 96,5 m", "Hajó hossza: 124 méter"],
+      ro: ["Începerea construcției: 1344", "Finalizare oficială: 1929", "Înălțimea turnului: 96,5 m", "Lungimea naosului: 124 metri"],
+      en: ["Construction start: 1344", "Completion year: 1929", "Main tower height: 96.5 m", "Nave length: 124 meters"],
+    },
+  },
   {
     id: "czechrepublic-konopiste-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Konopiště", hu: "Konopiště kastély", ro: "Castelul Konopiště", en: "Konopiště Castle" },
+    name: { de: "Schloss Konopiště", hu: "Konopiště kastély", ro: "Castelul Konopiště", en: "Konopiště Castle",
+image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp"
+},
     coords: [14.6564, 49.7794],
     coordinates: { lat: 49.7794, lng: 14.6564 },
     description: {
@@ -76,11 +126,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Găzduiește o colecție uriașă de arme", "Deține una dintre cele mai mari colecții de trofee", "Parc englezesc extins și grădină de trandafiri", "Fondat inițial în secolul al XIII-lea"],
       en: ["Houses a massive collection of weapons", "Features one of the largest trophy collections", "Extensive English park and rose garden", "Originally founded in the 13th century"],
     },
-    imageHint: "Konopiste Castle with circular tower", image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp"},
+    imageHint: "Konopiste Castle with circular tower",
+    image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses ehemalige Jagdschloss des Thronfolgers Franz Ferdinand von Österreich-Este beherbergt heute eine der weltweit umfangreichsten Sammlungen historischer Waffen und Rüstungen.",
+      hu: "Ferenc Ferdinánd főherceg egykori vadászkastélya ma a világ egyik legjelentősebb fegyver- és páncélgyűjteményének ad otthont a festői parkkal körülvett épületben.",
+      ro: "Fosta reședință de vânătoare a arhiducelui Franz Ferdinand găzduiește astăzi una dintre cele mai mari colecții de arme și armuri istorice din întreaga lume.",
+      en: "Famous as the final residence of Archduke Franz Ferdinand, this chateau houses an extensive collection of historical weapons, armor, and hunting trophies.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: Ende 13. Jahrhundert", "Waffensammlung: ca. 4500 Stück", "Parkfläche: 340 Hektar", "Umbau: Ende des 19. Jahrhunderts"],
+      hu: ["Építés ideje: 13. század vége", "Fegyvergyűjtemény: 4500 darab", "Park területe: 340 hektár", "Modernizálás: 19. század vége"],
+      ro: ["Construit: sfârșitul sec. XIII", "Colecția de arme: 4500 piese", "Suprafață parc: 340 hectare", "Ultima renovare: sfârșitul sec. XIX"],
+      en: ["Built: late 13th century", "Weapon collection: 4,500 pieces", "Park area: 340 hectares", "Renovation: late 19th century"],
+    },
+  },
   {
     id: "czechrepublic-cesky-krumlov-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Krumau", hu: "Český Krumlov-i vár", ro: "Castelul Český Krumlov", en: "Český Krumlov Castle" },
+    name: { de: "Schloss Krumau", hu: "Český Krumlov-i vár", ro: "Castelul Český Krumlov", en: "Český Krumlov Castle",
+image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp"
+},
     coords: [14.3147, 48.8125],
     coordinates: { lat: 48.8125, lng: 14.3147 },
     description: {
@@ -95,11 +161,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Conține un teatru baroc conservat", "Podul Mantel leagă părți ale castelului", "Șanț cu urși la intrare din secolul al XVI-lea", "Ansamblu format din 40 de clădiri și palate"],
       en: ["Contains a preserved Baroque theater", "Unique Cloak Bridge connects building parts", "Bear moat at the entrance since the 16th century", "Ensemble of 40 buildings and palaces"],
     },
-    imageHint: "Cesky Krumlov Castle with round tower and river", image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp"},
+    imageHint: "Cesky Krumlov Castle with round tower and river",
+    image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das monumentale Schlossareal über der Moldau gehört zum UNESCO-Welterbe und beeindruckt durch sein barockes Schlosstheater sowie die weitläufigen Renaissance-Gärten.",
+      hu: "A Moldva kanyarulatában fekvő monumentális várkomplexum az UNESCO Világörökség része, amely barokk színházával és reneszánsz kertjeivel bűvöli el a látogatókat.",
+      ro: "Acest complex castelar monumental deasupra râului Vltava face parte din patrimoniul UNESCO, fiind renumit pentru teatrul baroc original și grădinile renascentiste.",
+      en: "Overlooking the Vltava River, this massive castle complex is a UNESCO World Heritage site known for its well-preserved Baroque theater and Renaissance architecture.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gebäude: 40", "Größe: zweitgrößtes in Tschechien", "Theaterbau: Jahr 1766", "Gründung: um 1250"],
+      hu: ["Épületek száma: 40 objektum", "Méret: 2. legnagyobb vár az országban", "Barokk színház: 1766", "Alapítás éve: kb. 1250"],
+      ro: ["Număr de clădiri: 40", "Mărime: al doilea din Cehia", "Teatru baroc: construit în 1766", "Fondare: în jurul anului 1250"],
+      en: ["Number of buildings: 40", "Size: 2nd largest in Czechia", "Baroque theater: built in 1766", "Founded: around 1250"],
+    },
+  },
   {
     id: "czechrepublic-lednice-chateau-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Lednice", hu: "Lednicei kastély", ro: "Castelul Lednice", en: "Lednice Chateau" },
+    name: { de: "Schloss Lednice", hu: "Lednicei kastély", ro: "Castelul Lednice", en: "Lednice Chateau",
+image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp"
+},
     coords: [16.8033, 48.8005],
     coordinates: { lat: 48.8005, lng: 16.8033 },
     description: {
@@ -114,11 +196,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Face parte din patrimoniul mondial UNESCO", "Deține o seră de palmieri din fontă", "Minaret în parc utilizat ca turn de observație", "Una dintre cele mai mari zone de parcuri din Europa"],
       en: ["Part of the UNESCO World Heritage list", "Features a massive cast-iron palm house", "Includes a 60-meter minaret in the park", "One of Europe's largest artificial park areas"],
     },
-    imageHint: "Lednice Chateau Neo-Gothic facade South Moravia", image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp"},
+    imageHint: "Lednice Chateau Neo-Gothic facade South Moravia",
+    image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses neugotische Meisterwerk der Liechtensteiner Architektur ist Teil der Kulturlandschaft Lednice-Valtice und bekannt für sein riesiges Palmenhaus und den englischen Park.",
+      hu: "A Liechtenstein család neogótikus remekműve a Lednice-Valtice kultúrtáj része, amely hatalmas pálmaházáról és kiterjedt angolparkjáról vált világhírűvé.",
+      ro: "Această capodoperă neogotică a familiei Liechtenstein face parte din peisajul cultural Lednice-Valtice, fiind celebră pentru sera cu palmieri și parcul englezesc.",
+      en: "Part of a vast UNESCO landscape, this Neo-Gothic chateau served as a summer residence for the Liechtenstein family and features a massive historic palm house.",
+    },
+    factsAdvanced: {
+      de: ["Heutige Form: ab 1846", "Minarett-Höhe: 60 Meter", "Palmenhaus-Länge: 92 Meter", "Parkfläche: 200 Quadratkilometer"],
+      hu: ["Jelenlegi forma: 1846-tól", "Minaret magassága: 60 méter", "Pálmaház hossza: 92 méter", "Tájegység területe: 200 km²"],
+      ro: ["Forma actuală: din 1846", "Înălțime minaret: 60 metri", "Lungime seră: 92 metri", "Suprafață peisaj: 200 km²"],
+      en: ["Current form: from 1846", "Minaret height: 60 meters", "Palm house length: 92 meters", "Area of landscape: 200 sq km"],
+    },
+  },
   {
     id: "czechrepublic-valtice-chateau-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Valtice", hu: "Valticei kastély", ro: "Castelul Valtice", en: "Valtice Chateau" },
+    name: { de: "Schloss Valtice", hu: "Valticei kastély", ro: "Castelul Valtice", en: "Valtice Chateau",
+image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp"
+},
     coords: [16.7558, 48.7397],
     coordinates: { lat: 48.7397, lng: 16.7558 },
     description: {
@@ -133,11 +231,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Sediul Salonului Național de Vinuri al Cehiei", "Cramă extinsă sub castel", "Teatru baroc în incinta castelului", "Reședința principală a Liechtensteinerilor până în 1945"],
       en: ["Seat of the National Wine Salon of Czechia", "Extensive wine cellars beneath the chateau", "Baroque theater within the castle grounds", "Main residence of the Liechtensteins until 1945"],
     },
-    imageHint: "Valtice Chateau Baroque courtyard", image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp"},
+    imageHint: "Valtice Chateau Baroque courtyard",
+    image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Als prachtvolle barocke Residenz der Liechtensteiner bildet das Schloss Valtice das administrative Zentrum der Region und beherbergt den renommierten tschechischen Weinsalon.",
+      hu: "A Liechtenstein-család pompás barokk rezidenciája a régió adminisztratív központja volt, pincéjében pedig ma a Cseh Nemzeti Borszalon válogatott tételei találhatók.",
+      ro: "O reședință barocă somptuoasă a familiei Liechtenstein, castelul Valtice este centrul administrativ al zonei și găzduiește Salonul Național de Vinuri al Cehiei.",
+      en: "This grand Baroque residence of the Liechtenstein family is the heart of a prominent wine-growing region and houses the official National Wine Salon.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 17. bis 18. Jahrhundert", "Anzahl der Räume: ca. 100", "UNESCO-Status: seit 1996", "Weinkeller: über 100 Spitzenweine"],
+      hu: ["Építési kor: 17-18. század", "Termek száma: kb. 100 szoba", "UNESCO listán: 1996 óta", "Borospince: 100 legjobb cseh bor"],
+      ro: ["Perioada construcției: sec. XVII-XVIII", "Număr de camere: aprox. 100", "Patrimoniu UNESCO: din 1996", "Crama: peste 100 de vinuri de top"],
+      en: ["Construction: 17th-18th century", "Number of rooms: approx. 100", "UNESCO status: since 1996", "Wine cellar: 100 top-rated wines"],
+    },
+  },
   {
     id: "czechrepublic-st-barbara-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Dom der heiligen Barbara", hu: "Szent Borbála-templom", ro: "Biserica Sfânta Barbara", en: "St. Barbara's Cathedral" },
+    name: { de: "Dom der heiligen Barbara", hu: "Szent Borbála-templom", ro: "Biserica Sfânta Barbara", en: "St. Barbara's Cathedral",
+image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp"
+},
     coords: [15.2636, 49.945],
     coordinates: { lat: 49.945, lng: 15.2636 },
     description: {
@@ -152,11 +266,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1388 de Johann Parler", "Are trei acoperișuri distincte în formă de cort", "Frescele înfățișează scene din viața minerilor", "Construcția a durat cu intermitențe 500 de ani"],
       en: ["Construction started in 1388 by Johann Parler", "Features three distinctive tent-like roofs", "Frescoes depict scenes from miners' lives", "Construction took 500 years with interruptions"],
     },
-    imageHint: "St Barbara Cathedral Kutna Hora exterior", image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp"},
+    imageHint: "St Barbara Cathedral Kutna Hora exterior",
+    image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die den Bergleuten gewidmete Kathedrale in Kutná Hora ist ein Juwel der Spätgotik und zeugt vom ehemaligen Reichtum der Stadt durch den Silberbergbau.",
+      hu: "A bányászok védőszentjének szentelt kutná horai székesegyház a késő gótika ékköve, amely a város egykori ezüstbányászatból származó gazdagságát hirdeti.",
+      ro: "Dedicată patronului minerilor, această catedrală din Kutná Hora este o bijuterie a goticului târziu, reflectând bogăția orașului din mineritul argintului.",
+      en: "Dedicated to the patron saint of miners, this Late Gothic masterpiece in Kutná Hora symbolizes the wealth generated by the town's medieval silver mines.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: Jahr 1388", "Architekt: Johann Parler d. J.", "Dachform: charakteristische Zeltdächer", "Fertigstellung: Jahr 1905"],
+      hu: ["Építés kezdete: 1388", "Építész: Johann Parler", "Tetőforma: különleges sátortető", "Befejezés éve: 1905"],
+      ro: ["Începutul construcției: 1388", "Arhitect: Johann Parler", "Forma acoperișului: tip cort", "Finalizare: anul 1905"],
+      en: ["Construction started: 1388", "Architect: Johann Parler", "Roof style: three tent-like peaks", "Final completion: 1905"],
+    },
+  },
   {
     id: "czechrepublic-bouzov-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Bouzov", hu: "Bouzov vára", ro: "Castelul Bouzov", en: "Bouzov Castle" },
+    name: { de: "Burg Bouzov", hu: "Bouzov vára", ro: "Castelul Bouzov", en: "Bouzov Castle",
+image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp"
+},
     coords: [16.8892, 49.7042],
     coordinates: { lat: 49.7042, lng: 16.8892 },
     description: {
@@ -171,11 +301,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Locație populară pentru filmarea basmelor", "Dispune de două poduri mobile funcționale", "Are un turn de pază înalt de 58 de metri", "Interioare istorice complet mobilate"],
       en: ["Popular filming location for fairy-tale movies", "Features two functional drawbridges", "Has a 58-meter tall watchtower", "Fully furnished historical interiors"],
     },
-    imageHint: "Bouzov Castle aerial romantic towers", image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp"},
+    imageHint: "Bouzov Castle aerial romantic towers",
+    image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese romantische mittelalterliche Festung in Mähren erhielt ihr heutiges Aussehen durch einen Umbau des Deutschen Ordens um 1900 und dient oft als Filmkulisse.",
+      hu: "Ez a romantikus morvaországi vár a Német Lovagrend 1900 körüli átépítésének köszönheti mai formáját, és gyakran szolgál mesefilmek forgatási helyszínéül.",
+      ro: "Această fortăreață romantică din Moravia și-a căpătat aspectul actual după renovarea Ordinului Teuton în jurul anului 1900, fiind o locație populară pentru filme.",
+      en: "Looking like a fairy-tale fortress, this Moravian castle was extensively rebuilt by the Teutonic Order around 1900 and is a popular film location.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: um 1300", "Turmhöhe: 58 Meter", "Zugbrücke: voll funktionsfähig", "Besitzer: Deutscher Orden (bis 1939)"],
+      hu: ["Alapítás éve: kb. 1300", "Torony magassága: 58 méter", "Felvonóhíd: ma is működik", "Tulajdonos: Német Lovagrend (1939-ig)"],
+      ro: ["Fondare: în jurul anului 1300", "Înălțime turn: 58 metri", "Pod mobil: funcțional și azi", "Proprietar: Ordinul Teuton (până în 1939)"],
+      en: ["Founded: around 1300", "Tower height: 58 meters", "Drawbridge: fully functional", "Owner: Teutonic Order (until 1939)"],
+    },
+  },
   {
     id: "czechrepublic-kromeriz-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Archbishop's Palace in Kroměříž" },
+    name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Archbishop's Palace in Kroměříž",
+image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp"
+},
     coords: [17.3922, 49.2997],
     coordinates: { lat: 49.2997, lng: 17.3922 },
     description: {
@@ -190,11 +336,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1998", "Găzduiește pictura lui Titian 'Jupuirea lui Marsyas'", "Locul primului parlament austriac în 1848", "Grădină barocă faimoasă cu design geometric"],
       en: ["UNESCO World Heritage site since 1998", "Houses Titian's 'The Flaying of Marsyas'", "Site of the first Austrian Parliament in 1848", "Famous geometrically designed Flower Garden"],
     },
-    imageHint: "Kromeriz Archbishop Palace and Flower Garden", image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp"},
+    imageHint: "Kromeriz Archbishop Palace and Flower Garden",
+    image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die ehemalige Residenz der Olmützer Bischöfe ist berühmt für ihren prunkvollen Thronsaal und den dazugehörigen Lustgarten, ein Musterbeispiel barocker Gartenkunst.",
+      hu: "Az olomouci püspökök egykori rezidenciája díszes trónterméről és a hozzá tartozó Virágoskertről híres, amely a barokk kertművészet egyik legszebb európai példája.",
+      ro: "Fosta reședință a episcopilor din Olomouc este celebră pentru sala tronului și Grădina de Flori, un exemplu remarcabil al artei peisagistice baroce.",
+      en: "This former residence of Olomouc archbishops is a UNESCO site famed for its lavish assembly hall and the geometric Flower Garden, a Baroque masterpiece.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 84 Meter", "Bibliothek: 88.000 Bände", "Gemäldegalerie: Werke von Tizian", "UNESCO-Welterbe: seit 1998"],
+      hu: ["Torony magassága: 84 méter", "Könyvtár: 88 000 kötet", "Képtár: Tiziano művek", "UNESCO státusz: 1998 óta"],
+      ro: ["Înălțime turn: 84 metri", "Bibliotecă: 88.000 volume", "Pinacotecă: opere de Tizian", "Patrimoniu UNESCO: din 1998"],
+      en: ["Tower height: 84 meters", "Library size: 88,000 volumes", "Gallery: contains Titian's work", "UNESCO site: listed in 1998"],
+    },
+  },
   {
     id: "czechrepublic-villa-tugendhat-landmarks-v2",
     type: "landmark",
-    name: { de: "Villa Tugendhat", hu: "Tugendhat-villa", ro: "Vila Tugendhat", en: "Villa Tugendhat" },
+    name: { de: "Villa Tugendhat", hu: "Tugendhat-villa", ro: "Vila Tugendhat", en: "Villa Tugendhat",
+image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp"
+},
     coords: [16.6161, 49.2072],
     coordinates: { lat: 49.2072, lng: 16.6161 },
     description: {
@@ -209,11 +371,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Prima vilă modernă cu structură de oțel", "Utilizarea materialelor exclusive precum onixul", "Ferestre imense din sticlă retractabile spre grădină", "Locul semnării separării Cehoslovaciei"],
       en: ["First modern villa with a steel frame", "Use of exclusive materials like onyx", "Large retractable glass walls facing the garden", "Site where the split of Czechoslovakia was signed"],
     },
-    imageHint: "Villa Tugendhat Brno modern architecture facade", image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp"},
+    imageHint: "Villa Tugendhat Brno modern architecture facade",
+    image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses Meisterwerk der modernen Architektur von Ludwig Mies van der Rohe in Brünn revolutionierte das Wohnkonzept durch seine Stahlkonstruktion und riesige Glasfronten.",
+      hu: "Ludwig Mies van der Rohe modern építészeti remekműve Brünnben forradalmasította a lakóház fogalmát acélszerkezetével és hatalmas üvegfelületeivel.",
+      ro: "Această capodoperă a arhitecturii moderne din Brno, creată de Mies van der Rohe, a revoluționat conceptul de locuință prin structura de oțel și fațada de sticlă.",
+      en: "Designed by Ludwig Mies van der Rohe, this Brno villa is a functionalist landmark, famous for its iron frame, open space, and use of rare materials like onyx.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1929 bis 1930", "Baumaterial: Onyx aus Marokko", "UNESCO-Status: seit 2001", "Besonderheit: versenkbare Fenster"],
+      hu: ["Építés éve: 1929-1930", "Anyagok: marokkói ónix fal", "UNESCO listán: 2001 óta", "Szerkezet: acélvázas technológia"],
+      ro: ["Anul construcției: 1929-1930", "Material special: perete de onix", "Patrimoniu UNESCO: din 2001", "Dotări: ferestre retractabile electric"],
+      en: ["Built: 1929–1930", "Materials: Moroccan onyx wall", "UNESCO listed: 2001", "Innovation: electrically sinking windows"],
+    },
+  },
   {
     id: "czechrepublic-spilberk-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Castelul Špilberk", en: "Špilberk Castle" },
+    name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Castelul Špilberk", en: "Špilberk Castle",
+image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp"
+},
     coords: [16.5992, 49.1947],
     coordinates: { lat: 49.1947, lng: 16.5992 },
     description: {
@@ -228,11 +406,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Cunoscut sub numele de 'Închisoarea Națiunilor'", "Găzduiește astăzi Muzeul Orașului Brno", "Dispune de cazemate adânci deschise vizitatorilor", "Fondat la mijlocul secolului al XIII-lea"],
       en: ["Known as the 'Prison of Nations'", "Currently houses the Brno City Museum", "Features deep casemates open for tours", "Founded in the mid-13th century"],
     },
-    imageHint: "Spilberk Castle Brno fortress aerial", image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp"},
+    imageHint: "Spilberk Castle Brno fortress aerial",
+    image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die über Brünn thronende Festung war einst eine bedeutende königliche Burg und später als berüchtigtes Gefängnis der Habsburgermonarchie als Völkerkerker bekannt.",
+      hu: "A Brünn felett magasodó erőd egykor királyi vár volt, majd a Habsburg-birodalom hírhedt börtöneként vált ismertté, ahol politikai foglyokat őriztek a kazamatákban.",
+      ro: "Dominând orașul Brno, această fortăreață a fost inițial un castel regal, devenind ulterior cea mai temută închisoare a Imperiului Habsburgic, supranumită închisoarea națiunilor.",
+      en: "Perched on a hill in Brno, this fortress served as a royal castle before becoming the Austro-Hungarian Empire's most notorious prison for political dissidents.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 13. Jahrhundert", "Umbau zur Festung: 17. Jahrhundert", "Kasematten: 1742 fertiggestellt", "Nutzung: Museum der Stadt Brünn"],
+      hu: ["Alapítás: 13. század", "Erőddé alakítás: 17. század", "Kazamaták: 1742-ben készültek el", "Ma: Brünn Városi Múzeum"],
+      ro: ["Fondare: secolul XIII", "Fortificare: secolul XVII", "Cazemate: finalizate în 1742", "Prezent: Muzeul Orașului Brno"],
+      en: ["Founded: 13th century", "Fortified: 17th century", "Casemates: completed in 1742", "Current use: Brno City Museum"],
+    },
+  },
   {
     id: "czechrepublic-jested-tower-landmarks-v2",
     type: "tower",
-    name: { de: "Fernsehturm Ještěd", hu: "Ještěd-torony", ro: "Turnul Ještěd", en: "Ještěd Tower" },
+    name: { de: "Fernsehturm Ještěd", hu: "Ještěd-torony", ro: "Turnul Ještěd", en: "Ještěd Tower",
+image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp"
+},
     coords: [14.9847, 50.7328],
     coordinates: { lat: 50.7328, lng: 14.9847 },
     description: {
@@ -247,11 +441,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Combină hotelul, restaurantul și turnul TV", "Proiectat de arhitectul Karel Hubáček", "Câștigător al prestigiosului Premiu Perret", "Înălțimea clădirii este de 94 de metri"],
       en: ["Combines a hotel, restaurant, and TV tower", "Designed by architect Karel Hubáček", "Winner of the prestigious Perret Prize", "The building's height is 94 meters"],
     },
-    imageHint: "Jested Tower Liberec sci-fi architecture", image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp"},
+    imageHint: "Jested Tower Liberec sci-fi architecture",
+    image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser futuristische Fernsehturm auf dem Gipfel des Ještěd vereint Hotel, Restaurant und Sendestation in einer markanten hyperboloiden Form, die den Berg optisch verlängert.",
+      hu: "A Ještěd-hegy csúcsán álló futurisztikus tévétorony különleges hiperboloid alakjával egyesíti a szállodát, az éttermet és az adóállomást, mintha a hegy természetes folytatása lenne.",
+      ro: "Acest turn de televiziune futurist de pe vârful Ještěd îmbină un hotel, un restaurant și o stație de transmisie într-o formă hiperboloidă ce pare să continue muntele.",
+      en: "This award-winning futuristic tower atop Ještěd mountain serves as a television transmitter, hotel, and restaurant, blending seamlessly with the mountain's peak.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1966 bis 1973", "Höhe des Turms: 94 Meter", "Architekt: Karel Hubáček", "Auszeichnung: Auguste-Perret-Preis"],
+      hu: ["Építés ideje: 1966-1973", "Torony magassága: 94 méter", "Építész: Karel Hubáček", "Díj: Auguste Perret-díj (1969)"],
+      ro: ["Perioada construcției: 1966-1973", "Înălțime: 94 metri", "Arhitect: Karel Hubáček", "Premiu: Premiul Auguste Perret"],
+      en: ["Built: 1966–1973", "Tower height: 94 meters", "Architect: Karel Hubáček", "Award: Auguste Perret Prize (1969)"],
+    },
+  },
   {
     id: "czechrepublic-holy-trinity-column-landmarks-v2",
     type: "monument",
-    name: { de: "Dreifaltigkeitssäule in Olomouc", hu: "Szentháromság-oszlop Olomoucban", ro: "Coloana Ciumei din Olomouc", en: "Holy Trinity Column in Olomouc" },
+    name: { de: "Dreifaltigkeitssäule in Olomouc", hu: "Szentháromság-oszlop Olomoucban", ro: "Coloana Ciumei din Olomouc", en: "Holy Trinity Column in Olomouc",
+image: "/poi-images/czechrepublic-holy-trinity-column-landmarks-v2.webp"
+},
     coords: [17.2503, 49.5939],
     coordinates: { lat: 49.5939, lng: 17.2503 },
     description: {
@@ -267,11 +477,25 @@ export const czechrepublicLandmarksV2: POI[] = [
       en: ["The column stands 35 meters tall", "Built between 1716 and 1754", "Contains a small chapel inside its base", "Created by local artists and craftsmen"],
     },
     imageHint: "Holy Trinity Column Olomouc main square",
+    descriptionAdvanced: {
+      de: "Die barocke Pestsäule in Olomouc ist mit 35 Metern Höhe die größte ihrer Art in Mitteleuropa und beherbergt eine kleine Kapelle im Inneren ihres Sockels.",
+      hu: "Az olomouci barokk pestisoszlop 35 méteres magasságával Közép-Európa legnagyobb ilyen jellegű emlékműve, amelynek talpazatában egy kis kápolna is helyet kapott.",
+      ro: "Această coloană barocă din Olomouc este, la 35 de metri, cea mai mare structură de acest tip din Europa Centrală, incluzând o mică capelă în interiorul bazei sale.",
+      en: "This 35-meter Baroque monument in Olomouc is the largest group of Free-standing Baroque sculptures in Central Europe, featuring an internal chapel at its base.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1716 bis 1754", "Höhe: genau 35 Meter", "Anzahl der Figuren: 18 Heilige", "UNESCO-Welterbe: seit 2000"],
+      hu: ["Építés ideje: 1716-1754", "Magasság: 35 méter", "Szobrok száma: 18 szent alakja", "UNESCO listán: 2000 óta"],
+      ro: ["Perioada construcției: 1716-1754", "Înălțime: 35 metri", "Număr de figuri: 18 sfinți", "Patrimoniu UNESCO: din 2000"],
+      en: ["Built: 1716–1754", "Height: 35 meters", "Number of statues: 18 saints", "UNESCO listed: 2000"],
+    },
   },
   {
     id: "czechrepublic-jindrichuv-hradec-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Jindřichův Hradec", hu: "Jindřichův Hradec kastélya", ro: "Castelul Jindřichův Hradec", en: "Jindřichův Hradec Castle" },
+    name: { de: "Schloss Jindřichův Hradec", hu: "Jindřichův Hradec kastélya", ro: "Castelul Jindřichův Hradec", en: "Jindřichův Hradec Castle",
+image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp"
+},
     coords: [15.0006, 49.1419],
     coordinates: { lat: 49.1419, lng: 15.0006 },
     description: {
@@ -286,11 +510,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Deține un pavilion rotund (Rondel) faimos", "Are 320 de camere bogat decorate", "Legenda 'Doamnei Albe' este legată de acest loc", "Construit pe o suprafață de 3 hectare"],
       en: ["Features a famous garden music pavilion (Rondel)", "Includes 320 richly decorated rooms", "Legend of the 'White Lady' is tied to this castle", "Built on an area of 3 hectares"],
     },
-    imageHint: "Jindrichuv Hradec Castle aerial view", image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp"},
+    imageHint: "Jindrichuv Hradec Castle aerial view",
+    image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses ausgedehnte Schlossareal am Ufer des Vajgar-Teichs beeindruckt durch die prachtvolle Renaissance-Rotunde im Garten und seine gut erhaltene mittelalterliche Küche.",
+      hu: "A Vajgar-tó partján fekvő hatalmas várkastély reneszánsz rotundájáról és kiváló állapotban fennmaradt középkori konyhájáról híres dél-csehországi műemlék.",
+      ro: "Acest complex vast situat pe malul iazului Vajgar impresionează prin rotunda sa renascentistă din grădină și bucătăria medievală extrem de bine conservată.",
+      en: "One of the largest castle complexes in Czechia, this site features a unique Renaissance rotunda in the garden and a rare, fully preserved medieval black kitchen.",
+    },
+    factsAdvanced: {
+      de: ["Größe: drittgrößtes Schloss Tschechiens", "Renaissance-Rotunde: Jahr 1591", "Gemäldesammlung: ca. 500 Porträts", "Gründung: 13. Jahrhundert"],
+      hu: ["Méret: 3. legnagyobb cseh várkastély", "Rotunda építése: 1591", "Képgyűjtemény: kb. 500 portré", "Alapítás: 13. század"],
+      ro: ["Mărime: al 3-lea complex din Cehia", "Rotunda: construită în 1591", "Colecție tablouri: 500 portrete", "Fondare: secolul XIII"],
+      en: ["Size: 3rd largest castle in Czechia", "Rotunda built: 1591", "Portrait collection: approx. 500", "Founded: 13th century"],
+    },
+  },
   {
     id: "czechrepublic-st-bartholomew-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "St.-Bartholomäus-Kathedrale", hu: "Szent Bertalan-székesegyház", ro: "Catedrala Sfântul Bartolomeu", en: "St. Bartholomew's Cathedral" },
+    name: { de: "St.-Bartholomäus-Kathedrale", hu: "Szent Bertalan-székesegyház", ro: "Catedrala Sfântul Bartolomeu", en: "St. Bartholomew's Cathedral",
+image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp"
+},
     coords: [13.3775, 49.7475],
     coordinates: { lat: 49.7475, lng: 13.3775 },
     description: {
@@ -305,11 +545,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Înălțimea turnului este de 102,26 metri", "Adăpostește valoroasa sculptură 'Madona din Plzeň'", "Turnul oferă vedere până la Munții Šumava", "Construcția bisericii a început în jurul anului 1295"],
       en: ["The church tower height is 102.26 meters", "Houses the valuable 'Pilsen Madonna' statue", "The tower offers views as far as the Bohemian Forest", "Construction of the church began around 1295"],
     },
-    imageHint: "St Bartholomew Cathedral Plzen square", image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp"},
+    imageHint: "St Bartholomew Cathedral Plzen square",
+    image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die gotische Kathedrale in Pilsen besitzt den höchsten Kirchturm Tschechiens, von dessen Aussichtsplattform man bei gutem Wetter bis zu den Alpen blicken kann.",
+      hu: "A plzeňi gótikus székesegyház büszkélkedhet Csehország legmagasabb templomtornyával, ahonnan tiszta időben akár az Alpok csúcsai is láthatóak.",
+      ro: "Această catedrală gotică din Plzeň deține cel mai înalt turn de biserică din Cehia, oferind o panoramă care, în zilele senine, ajunge până la Alpi.",
+      en: "Located in Plzeň, this Gothic cathedral features the highest church spire in the country, standing at 102.26 meters and offering views as far as the Alps.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 102,26 Meter", "Aussichtsplattform: 62 Meter Höhe", "Anzahl der Stufen: 301", "Baubeginn: um 1295"],
+      hu: ["Toronymagasság: 102,26 méter", "Kilátószint: 62 méter magasban", "Lépcsők száma: 301 fok", "Építés kezdete: kb. 1295"],
+      ro: ["Înălțime turn: 102,26 metri", "Nivel belvedere: 62 metri", "Număr trepte: 301", "Începutul construcției: cca. 1295"],
+      en: ["Tower height: 102.26 meters", "Gallery height: 62 meters", "Step count: 301 stairs", "Construction start: around 1295"],
+    },
+  },
   {
     id: "czechrepublic-telc-historic-centre-landmarks-v2",
     type: "landmark",
-    name: { de: "Historisches Zentrum von Telč", hu: "Telč történelmi központja", ro: "Centrul istoric din Telč", en: "Historic Centre of Telč" },
+    name: { de: "Historisches Zentrum von Telč", hu: "Telč történelmi központja", ro: "Centrul istoric din Telč", en: "Historic Centre of Telč",
+image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp"
+},
     coords: [15.4528, 49.1842],
     coordinates: { lat: 49.1842, lng: 15.4528 },
     description: {
@@ -324,12 +580,28 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Casele au frontoane și arcade uniforme", "Deține un castel renascentist magnific", "Ansamblu reconstruit uniform după incendiul din 1530", "Deseori decor pentru producții cinematografice istorice"],
       en: ["Houses feature uniform gables and arcades", "Includes a magnificent Renaissance chateau", "Rebuilt uniformly after a fire in 1530", "Frequently used as a set for historical films"],
     },
-    imageHint: "Telc main square Renaissance houses", image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp"}
+    imageHint: "Telc main square Renaissance houses",
+    image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Marktplatz von Telč ist berühmt für seine lückenlose Reihe bunter Renaissance-Häuser mit prachtvollen Giebeln und Arkadengängen, die wie eine Filmkulisse wirken.",
+      hu: "Telč történelmi főtere a színes reneszánsz házak és árkádos folyosók összefüggő sora miatt híres, amely szinte érintetlenül maradt fenn az évszázadok során.",
+      ro: "Centrul istoric din Telč este renumit pentru piața sa înconjurată de case renascentiste colorate cu arcade, formând un ansamblu urban armonios și pitoresc.",
+      en: "Famous for its triangular town square lined with Renaissance and Baroque houses, Telč is a perfectly preserved example of medieval town planning.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe: seit 1992", "Stadtgründung: Jahr 1099 (laut Legende)", "Großer Brand: Jahr 1530", "Stil: Renaissance und Barock"],
+      hu: ["UNESCO listán: 1992 óta", "Városalapítás: 1099 (legenda szerint)", "Nagy tűzvész: 1530-ban", "Stílus: Reneszánsz és barokk"],
+      ro: ["Patrimoniu UNESCO: din 1992", "Fondarea orașului: 1099 (legendă)", "Marele incendiu: anul 1530", "Stil arhitectural: Renascentist"],
+      en: ["UNESCO status: since 1992", "City founded: 1099 (legend)", "Great fire: 1530", "Style: Renaissance and Baroque"],
+    },
+  }
 ,
   {
     id: "czechrepublic-vranov-nad-dyji-chateau-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Vranov nad Dyjí", hu: "Vranov nad Dyjí kastély", ro: "Castelul Vranov nad Dyjí", en: "Vranov nad Dyjí Chateau" },
+    name: { de: "Schloss Vranov nad Dyjí", hu: "Vranov nad Dyjí kastély", ro: "Castelul Vranov nad Dyjí", en: "Vranov nad Dyjí Chateau",
+image: "/poi-images/czechrepublic-vranov-nad-dyji-chateau-landmarks-v2.webp"
+},
     coordinates: { lat: 48.8927, lng: 15.8111 },
     description: {
       de: "Das Schloss Vranov nad Dyjí thront auf einem Felsen über dem Fluss Thaya. Es ist ein bedeutendes Beispiel des Barockbaus und stammt ursprünglich aus dem 11. Jahrhundert.",
@@ -344,11 +616,25 @@ export const czechrepublicLandmarksV2: POI[] = [
       en: ["Rebuilt in Baroque style after 1665", "The Hall of Ancestors is 25 meters long", "Original wooden castle dates to 1100", "Houses a collection of Vranov stoneware"],
     },
     imageHint: "Vranov nad Dyji chateau on cliff",
+    descriptionAdvanced: {
+      de: "Dieses Barockschloss thront spektakulär auf einem steilen Felsen über der Thaya und beherbergt den monumentalen Ahnensaal mit Fresken der Familie Althann.",
+      hu: "A Thaya folyó feletti meredek sziklán trónoló barokk várkastély legfőbb látványossága a monumentális Ősök csarnoka az Althann-család freskóival.",
+      ro: "Cocoțat pe o stâncă abruptă deasupra râului Thaya, acest castel baroc găzduiește monumentala Sală a Strămoșilor, decorată cu fresce ale familiei Althann.",
+      en: "Perched on a rocky promontory, this Baroque chateau features the magnificent Hall of Ancestors, considered one of the finest interior spaces of Central European Baroque.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 76 Meter über dem Fluss", "Ahnensaal: 25 Meter lang", "Umbau zum Schloss: ab 1687", "Besonderheit: Porzellansammlung"],
+      hu: ["Magasság: 76 méterrel a folyó felett", "Ősök csarnoka: 25 méter hosszú", "Barokk átépítés: 1687-től", "Különlegesség: porcelángyűjtemény"],
+      ro: ["Înălțime: 76 metri deasupra râului", "Sala Strămoșilor: 25 m lungime", "Transformare barocă: din 1687", "Atracție: colecție de porțelan"],
+      en: ["Elevation: 76 meters above river", "Ancestors Hall: 25 meters long", "Baroque renovation: from 1687", "Collection: extensive stoneware"],
+    },
   },
   {
     id: "czechrepublic-kost-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Kost", hu: "Kost vára", ro: "Castelul Kost", en: "Kost Castle" },
+    name: { de: "Burg Kost", hu: "Kost vára", ro: "Castelul Kost", en: "Kost Castle",
+image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 50.4903, lng: 15.1351 },
     description: {
       de: "Die Burg Kost ist eine der am besten erhaltenen gotischen Burgen in Böhmen. Sie liegt versteckt in einem Tal und ist für ihren markanten weißen quadratischen Turm bekannt.",
@@ -362,11 +648,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Numele înseamnă os în limba cehă", "Situat la confluența a trei văi", "Turnul are o bază trapezoidală"],
       en: ["Founded in the 14th century", "The name means Bone in Czech", "Located at the junction of three valleys", "The tower has a trapezoidal floor plan"],
     },
-    imageHint: "Kost castle in Bohemian Paradise valley", image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp"},
+    imageHint: "Kost castle in Bohemian Paradise valley",
+    image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Als eine der am besten erhaltenen gotischen Burgen Tschechiens liegt Kost versteckt im Böhmischen Paradies und ist bekannt für ihren markanten Turm mit trapezförmigem Grundriss.",
+      hu: "Csehország egyik legjobb állapotban fennmaradt gótikus vára a Cseh Paradicsomban rejtőzködik, legfőbb jellegzetessége a trapéz alaprajzú 'Fehér-torony'.",
+      ro: "Una dintre cele mai bine conservate cetăți gotice din Cehia, Kost este ascunsă în Paradisul Boem și este celebră pentru Turnul Alb cu baza trapezoidală.",
+      en: "Remarkably well-preserved, this Gothic castle is tucked away in a valley of the Bohemian Paradise and features a unique trapezoidal White Tower.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: Mitte 14. Jahrhundert", "Name: bedeutet 'Knochen'", "Lage: Kreuzung dreier Täler", "Turmform: trapezförmige Basis"],
+      hu: ["Alapítás: 14. század közepe", "Név jelentése: 'Csont'", "Helyszín: három völgy találkozása", "Torony: trapéz alakú alaprajz"],
+      ro: ["Fondare: mijlocul secolului XIV", "Semnificație nume: 'Os'", "Locație: intersecția a 3 văi", "Formă turn: bază trapezoidală"],
+      en: ["Founded: mid-14th century", "Name meaning: 'Bone'", "Location: meeting of 3 valleys", "Tower: trapezoidal ground plan"],
+    },
+  },
   {
     id: "czechrepublic-national-theatre-prague-landmarks-v2",
     type: "theater",
-    name: { de: "Nationaltheater Prag", hu: "Prágai Nemzeti Színház", ro: "Teatrul Național din Praga", en: "National Theatre Prague" },
+    name: { de: "Nationaltheater Prag", hu: "Prágai Nemzeti Színház", ro: "Teatrul Național din Praga", en: "National Theatre Prague",
+image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp"
+},
     coordinates: { lat: 50.0811, lng: 14.4128 },
     description: {
       de: "Das Nationaltheater in Prag ist ein Symbol der tschechischen nationalen Identität. Es wurde durch Volksspenden finanziert und 1883 nach einem schweren Brand wiedereröffnet.",
@@ -380,11 +682,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă în 1868", "Clădire în stil neo-renascentist", "Deschis cu opera Libuše de Smetana", "Motto-ul Națiunea pentru sine este scris"],
       en: ["Foundation stone laid in 1868", "Neo-Renaissance style building", "Opened with Smetana's opera Libuše", "Motto Nation for Itself is on the portal"],
     },
-    imageHint: "National Theatre Prague exterior facade", image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp"},
+    imageHint: "National Theatre Prague exterior facade",
+    image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Prager Nationaltheater ist das kulturelle Herz Tschechiens und wurde durch Spendengelder des Volkes finanziert, was sich in der Inschrift 'Vom Volk für das Volk' widerspiegelt.",
+      hu: "A prágai Nemzeti Színház a cseh kulturális újjászületés szimbóluma, amelyet közadakozásból építettek fel, amint azt a 'Nemzetnek önmagától' felirat is hirdeti.",
+      ro: "Teatrul Național din Praga este inima culturală a țării, fiind construit prin donații publice, fapt reflectat de inscripția 'Națiunii de la sine însăși'.",
+      en: "Known as the alma mater of Czech opera, this Neo-Renaissance building was funded entirely by public donations and is a symbol of Czech national identity.",
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung: 16. Mai 1868", "Eröffnung: Jahr 1881", "Großer Brand: 12. August 1881", "Architekt: Josef Zítek"],
+      hu: ["Alapkőletétel: 1868. május 16.", "Első megnyitó: 1881", "Nagy tűzvész: 1881. augusztus 12.", "Építész: Josef Zítek"],
+      ro: ["Piatra de temelie: 16 mai 1868", "Prima inaugurare: 1881", "Incendiul devastator: 12 aug 1881", "Arhitect: Josef Zítek"],
+      en: ["Foundation stone: May 16, 1868", "Opening: 1881", "Major fire: August 12, 1881", "Architect: Josef Zítek"],
+    },
+  },
   {
     id: "czechrepublic-troja-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Troja", hu: "Troja-palota", ro: "Palatul Troja", en: "Troja Palace" },
+    name: { de: "Schloss Troja", hu: "Troja-palota", ro: "Palatul Troja", en: "Troja Palace",
+image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp"
+},
     coordinates: { lat: 50.1164, lng: 14.4072 },
     description: {
       de: "Das Schloss Troja ist eine barocke Sommerresidenz in Prag, umgeben von einem weitläufigen Garten. Es ist berühmt für seine monumentale Treppe mit Statuen kämpfender Giganten.",
@@ -398,11 +716,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Construit între 1679 și 1691", "Proiectat de Jean Baptiste Mathey", "Găzduiește artă cehă din secolul al XIX-lea", "Grădina este în stil francez"],
       en: ["Built between 1679 and 1691", "Designed by Jean Baptiste Mathey", "Houses 19th-century Czech art", "The garden is in French style"],
     },
-    imageHint: "Troja palace prague garden facade", image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp"},
+    imageHint: "Troja palace prague garden facade",
+    image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses barocke Lustschloss am Rande Prags besticht durch seine monumentale Außentreppe mit Statuen, die den Kampf der Titanen gegen die olympischen Götter zeigen.",
+      hu: "Ez a Prága szélén található barokk palota monumentális külső lépcsősorával tűnik ki, amelynek szobrai a titánok és az olimpiai istenek harcát ábrázolják.",
+      ro: "Acest palat baroc de la marginea Pragăi impresionează prin scara sa monumentală decorată cu statui ce înfățișează lupta titanilor cu zeii olimpieni.",
+      en: "This 17th-century Baroque chateau in Prague is famous for its grand staircase featuring statues of the struggle between Titans and Olympian gods.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1679 bis 1691", "Architekt: Jean Baptiste Mathey", "Hauptsaal: riesige Fresken", "Garten: barocker französischer Park"],
+      hu: ["Építés ideje: 1679-1691", "Építész: Jean Baptiste Mathey", "Főterem: hatalmas mennyezetfreskó", "Kert: barokk francia stílus"],
+      ro: ["Perioada construcției: 1679-1691", "Arhitect: Jean Baptiste Mathey", "Sala principală: fresce enorme", "Grădină: stil baroc francez"],
+      en: ["Built: 1679–1691", "Architect: Jean Baptiste Mathey", "Great Hall: floor-to-ceiling fresco", "Garden: French-style Baroque park"],
+    },
+  },
   {
     id: "czechrepublic-zelena-hora-church-landmarks-v2",
     type: "church",
-    name: { de: "Wallfahrtskirche am Grünen Berg", hu: "Zelená Hora-i zarándoktemplom", ro: "Biserica de pelerinaj de pe Zelena Hora", en: "Zelená Hora Pilgrimage Church" },
+    name: { de: "Wallfahrtskirche am Grünen Berg", hu: "Zelená Hora-i zarándoktemplom", ro: "Biserica de pelerinaj de pe Zelena Hora", en: "Zelená Hora Pilgrimage Church",
+image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp"
+},
     coordinates: { lat: 49.5833, lng: 15.9419 },
     description: {
       de: "Die Wallfahrtskirche des Heiligen Johannes von Nepomuk am Grünen Berg ist ein UNESCO-Welterbe. Sie besticht durch ihre einzigartige Architektur in Form eines fünfzackigen Sterns.",
@@ -416,11 +750,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Operă a lui Jan Blažej Santini-Aichel", "Sit UNESCO din anul 1994", "Cifra 5 domină simbolistica", "Stil arhitectural baroc-gotic"],
       en: ["Work of Jan Blažej Santini-Aichel", "UNESCO World Heritage since 1994", "The number 5 dominates the symbolism", "Baroque-Gothic architectural style"],
     },
-    imageHint: "Zelena hora church aerial star shape", image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp"},
+    imageHint: "Zelena hora church aerial star shape",
+    image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wallfahrtskirche des heiligen Johannes von Nepomuk auf dem Grünen Berg ist ein einzigartiges Werk der Barockgotik, das konsequent auf der Symbolik der Zahl Fünf basiert.",
+      hu: "A Zelená Hora-i Nepomuki Szent János-búcsújáró templom a barokk gótika egyedülálló alkotása, amely következetesen az ötös szám szimbolikájára épül.",
+      ro: "Biserica de pelerinaj Sf. Ioan Nepomuk de pe Muntele Verde este o capodoperă a goticului baroc, bazată în întregime pe simbolistica numărului cinci.",
+      en: "This unique pilgrimage church near Žďár nad Sázavou is a masterpiece of Baroque Gothic architecture, designed entirely around the symbolism of the number five.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1719 bis 1722", "Architekt: Jan Blažej Santini-Aichel", "Grundriss: fünfzackiger Stern", "UNESCO-Welterbe: seit 1994"],
+      hu: ["Építés éve: 1719-1722", "Építész: Jan Blažej Santini-Aichel", "Alaprajz: ötágú csillag forma", "UNESCO listán: 1994 óta"],
+      ro: ["Anul construcției: 1719-1722", "Arhitect: Jan Blažej Santini-Aichel", "Plan: stea cu cinci colțuri", "Patrimoniu UNESCO: din 1994"],
+      en: ["Built: 1719–1722", "Architect: J.B. Santini-Aichel", "Ground plan: five-pointed star", "UNESCO listed: 1994"],
+    },
+  },
   {
     id: "czechrepublic-sychrov-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Sychrov", hu: "Sychrov-kastély", ro: "Castelul Sychrov", en: "Sychrov Castle" },
+    name: { de: "Schloss Sychrov", hu: "Sychrov-kastély", ro: "Castelul Sychrov", en: "Sychrov Castle",
+image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 50.6264, lng: 15.0886 },
     description: {
       de: "Schloss Sychrov diente als Residenz der französischen Adelsfamilie Rohan. Es ist bekannt für seine romantische neugotische Gestaltung und die prachtvollen Holzschnitzereien im Inneren.",
@@ -434,11 +784,27 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Reconstrucție neo-gotică în sec. XIX", "Găzduiește galeria de portrete Rohan", "Parc englezesc vast de peisaj", "Antonín Dvořák a fost un oaspete frecvent"],
       en: ["Neo-Gothic reconstruction in 19th c.", "Houses largest Rohan portrait gallery", "Large English landscape park", "Antonín Dvořák was a frequent guest"],
     },
-    imageHint: "Sychrov castle neo-gothic exterior", image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp"},
+    imageHint: "Sychrov castle neo-gothic exterior",
+    image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das neugotische Schloss Sychrov diente lange Zeit als Residenz der französischen Adelsfamilie Rohan und beherbergt eine außergewöhnliche Sammlung französischer Porträtmalerei.",
+      hu: "A neogótikus Sychrov-kastély hosszú ideig a francia Rohan nemesi család rezidenciája volt, ma pedig Európa egyik legjelentősebb francia portrégyűjteményét őrzi.",
+      ro: "Castelul neogotic Sychrov a servit mult timp drept reședință a familiei nobiliare franceze Rohan, adăpostind o colecție impresionantă de portrete franceze.",
+      en: "Once the residence of the French Rohan family, this Neo-Gothic chateau is known for its exquisite wood carvings and one of the largest collections of French portraits.",
+    },
+    factsAdvanced: {
+      de: ["Umbau: 19. Jahrhundert", "Anzahl der Porträts: über 200", "Park: 26 Hektar im englischen Stil", "Besonderheit: Schnitzereien von Bušek"],
+      hu: ["Átépítés: 19. század", "Portrék száma: több mint 200 darab", "Park: 26 hektáros angolkert", "Különlegesség: Petr Bušek fafaragásai"],
+      ro: ["Renovare: secolul XIX", "Număr portrete: peste 200", "Parc: 26 hectare în stil englez", "Atracție: sculpturi în lemn de Bušek"],
+      en: ["Renovation: 19th century", "Portrait collection: over 200", "Park: 26 hectares English garden", "Famous for: Petr Bušek's woodcarvings"],
+    },
+  },
   {
     id: "czechrepublic-buchlov-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Buchlov", hu: "Buchlov vára", ro: "Castelul Buchlov", en: "Buchlov Castle" },
+    name: { de: "Burg Buchlov", hu: "Buchlov vára", ro: "Castelul Buchlov", en: "Buchlov Castle",
+image: "/poi-images/czechrepublic-buchlov-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 49.1083, lng: 17.3111 },
     description: {
       de: "Burg Buchlov ist eine majestätische königliche Burg auf einem Hügel des Marsgebirges. Sie gehört zu den ältesten Burgen Tschechiens und wurde in ihrer Geschichte nie erobert.",
@@ -453,5 +819,17 @@ export const czechrepublicLandmarksV2: POI[] = [
       en: ["Founded in the mid-13th century", "Owns valuable scientific collections", "Houses an authentic Egyptian mummy", "Strategic point on the Amber Road"],
     },
     imageHint: "Buchlov castle on wooded hill",
+    descriptionAdvanced: {
+      de: "Diese mächtige Festung in den Marsgebirgen gehört zu den ältesten Burgen Tschechiens und besticht durch ihre gut erhaltenen romanischen und gotischen Bauelemente.",
+      hu: "A Mars-hegységben található hatalmas erődítmény Csehország egyik legrégebbi vára, amely román és gótikus elemeket is megőrzött az évszázadok során.",
+      ro: "Această fortăreață masivă din munții Chřiby este unul dintre cele mai vechi castele din Cehia, păstrând elemente arhitecturale romanice și gotice rare.",
+      en: "Perched on a high hill in Moravia, this massive fortress is one of the oldest castles in the country, showcasing romanic and early gothic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: Mitte 13. Jahrhundert", "Besonderheit: Ägyptische Mumie", "Bibliothek: ca. 10.000 Bände", "Lage: Gipfel des Buchlov-Berges"],
+      hu: ["Alapítás: 13. század közepe", "Ritkaság: egyiptomi múmia", "Könyvtár: kb. 10 000 kötet", "Helyszín: Buchlov-hegy csúcsa"],
+      ro: ["Fondare: mijlocul secolului XIII", "Raritate: mumie egipteană", "Bibliotecă: 10.000 de volume", "Locație: vârful dealului Buchlov"],
+      en: ["Founded: mid-13th century", "Curiosity: Egyptian mummy", "Library: approx. 10,000 volumes", "Location: Chřiby highlands"],
+    },
   }
 ];

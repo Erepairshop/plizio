@@ -11,8 +11,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Demokratiedenkmal",
       hu: "Demokrácia Emlékmű",
       ro: "Monumentul Democrației",
-      en: "Democracy Monument"
-    },
+      en: "Democracy Monument",
+image: "/poi-images/democracy-monument-bangkok-landmarks-v2.webp"
+},
     description: {
       de: "Ein öffentliches Denkmal im Zentrum von Bangkok, das an die siamesische Revolution von 1932 erinnert, die die absolute Monarchie beendete.",
       hu: "Egy nyilvános emlékmű Bangkok központjában, amely az 1932-es sziámi forradalomra emlékeztet, mely véget vetett az abszolút monarchiának.",
@@ -46,8 +47,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Siegesdenkmal",
       hu: "Győzelmi Emlékmű",
       ro: "Monumentul Victoriei",
-      en: "Victory Monument"
-    },
+      en: "Victory Monument",
+image: "/poi-images/victory-monument-bangkok-landmarks-v2.webp"
+},
     description: {
       de: "Ein großes Militärdenkmal in Bangkok, errichtet 1941, um den thailändischen Sieg im französisch-thailändischen Krieg zu feiern.",
       hu: "Egy nagy katonai emlékmű Bangkokban, melyet 1941-ben emeltek a francia-thai háborúban aratott thai győzelem emlékére.",
@@ -81,8 +83,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Riesenschaukel (Sao Ching Cha)",
       hu: "Óriáshinta (Sao Ching Cha)",
       ro: "Leagănul Uriaș (Sao Ching Cha)",
-      en: "Giant Swing (Sao Ching Cha)"
-    },
+      en: "Giant Swing (Sao Ching Cha)",
+image: "/poi-images/giant-swing-bangkok-landmarks-v2.webp"
+},
     description: {
       de: "Eine religiöse Struktur im Herzen von Bangkok, die früher für eine jährliche brahmanische Zeremonie verwendet wurde.",
       hu: "Egy vallási építmény Bangkok szívében, amelyet korábban egy éves brahmin szertartáshoz használtak.",
@@ -116,8 +119,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Baiyoke Tower II",
       hu: "Baiyoke Tower II",
       ro: "Turnul Baiyoke II",
-      en: "Baiyoke Tower II"
-    },
+      en: "Baiyoke Tower II",
+image: "/poi-images/baiyoke-tower-ii-landmarks-v2.webp"
+},
     description: {
       de: "Ein 88-stöckiger Wolkenkratzer in Bangkok, der einst das höchste Gebäude Thailands war und einen Panoramablick über die Stadt bietet.",
       hu: "Egy 88 emeletes felhőkarcoló Bangkokban, amely egykor Thaiföld legmagasabb épülete volt, és panorámás kilátást nyújt a városra.",
@@ -151,8 +155,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Brücke am Kwai",
       hu: "Híd a Kwai folyón",
       ro: "Podul de pe râul Kwai",
-      en: "Bridge on the River Kwai"
-    },
+      en: "Bridge on the River Kwai",
+image: "/poi-images/bridge-on-the-river-kwai-landmarks-v2.webp"
+},
     description: {
       de: "Ein Teil der 'Todesbahn', die während des Zweiten Weltkriegs von alliierten Kriegsgefangenen gebaut wurde. Ein Symbol für die Grausamkeiten des Krieges.",
       hu: "A 'Halálvasút' része, amelyet a második világháború alatt szövetséges hadifoglyok építettek. A háborús kegyetlenségek szimbóluma.",
@@ -186,8 +191,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Großer Buddha von Phuket",
       hu: "Nagy Buddha (Phuket)",
       ro: "Marele Buddha din Phuket",
-      en: "Big Buddha of Phuket"
-    },
+      en: "Big Buddha of Phuket",
+image: "/poi-images/big-buddha-phuket-landmarks-v2.webp"
+},
     description: {
       de: "Eine riesige sitzende Buddha-Statue aus Marmor auf dem Nakkerd-Hügel in Phuket, die von überall im Süden Phukets aus sichtbar ist.",
       hu: "Egy hatalmas, márványból készült ülő Buddha-szobor a Nakkerd-hegyen Phuketben, amely Phuket déli részének minden pontjáról látható.",
@@ -221,8 +227,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Hellfire Pass Gedenkstätte",
       hu: "Pokoltűz-hágó Emlékhely",
       ro: "Memorialul Trecătoarea Focului Iadului",
-      en: "Hellfire Pass Memorial"
-    },
+      en: "Hellfire Pass Memorial",
+image: "/poi-images/hellfire-pass-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein Eisenbahneinschnitt an der ehemaligen 'Todesbahn' in Kanchanaburi, der von alliierten Kriegsgefangenen von Hand durch massiven Fels gehauen wurde.",
       hu: "Egy vasúti bevágás az egykori 'Halálvasúton' Kancsanaburiban, amelyet a szövetséges hadifoglyok kézzel vájtak ki a sziklából.",
@@ -256,8 +263,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Geschichtspark Phimai",
       hu: "Phimai Történelmi Park",
       ro: "Parcul Istoric Phimai",
-      en: "Phimai Historical Park"
-    },
+      en: "Phimai Historical Park",
+image: "/poi-images/phimai-historical-park-landmarks-v2.webp"
+},
     description: {
       de: "Beherbergt einen der größten Khmer-Tempel in Thailand. Die Tempelruinen sind ein beeindruckendes Beispiel für die Khmer-Architektur.",
       hu: "Thaiföld egyik legnagyobb khmer templomának ad otthont. A templomromok a khmer építészet lenyűgöző példái.",
@@ -291,8 +299,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Geschichtspark Phanom Rung",
       hu: "Phanom Rung Történelmi Park",
       ro: "Parcul Istoric Phanom Rung",
-      en: "Phanom Rung Historical Park"
-    },
+      en: "Phanom Rung Historical Park",
+image: "/poi-images/phanom-rung-historical-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein Khmer-Tempelkomplex auf dem Rand eines erloschenen Vulkans in der Provinz Buriram. Er ist Lord Shiva gewidmet.",
       hu: "Egy khmer templomkomplexum egy kialudt vulkán peremén, Buriram tartományban. Siva istennek szentelték.",
@@ -326,8 +335,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Wat Chaiwatthanaram",
       hu: "Wat Chaiwatthanaram",
       ro: "Wat Chaiwatthanaram",
-      en: "Wat Chaiwatthanaram"
-    },
+      en: "Wat Chaiwatthanaram",
+image: "/poi-images/wat-chaiwatthanaram-landmarks-v2.webp"
+},
     description: {
       de: "Ein beeindruckender buddhistischer Tempel am Ufer des Chao Phraya Flusses in Ayutthaya, erbaut im Khmer-Stil.",
       hu: "Egy lenyűgöző buddhista templom a Chao Phraya folyó partján Ayutthayában, khmer stílusban épült.",
@@ -361,8 +371,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "König Narai's Palast",
       hu: "Narai Király Palotája",
       ro: "Palatul Regelui Narai",
-      en: "King Narai's Palace"
-    },
+      en: "King Narai's Palace",
+image: "/poi-images/king-narai-palace-lopburi-landmarks-v2.webp"
+},
     description: {
       de: "Ein Palastkomplex in Lopburi, erbaut von König Narai dem Großen im 17. Jahrhundert, der eine Mischung aus thailändischer und europäischer Architektur zeigt.",
       hu: "Egy palotakomplexum Lopburiban, amelyet Nagy Narai király építtetett a 17. században, és a thai és az európai építészet keverékét mutatja be.",
@@ -396,8 +407,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Goldener Buddha (Wat Traimit)",
       hu: "Arany Buddha (Wat Traimit)",
       ro: "Buddha de Aur (Wat Traimit)",
-      en: "Golden Buddha (Wat Traimit)"
-    },
+      en: "Golden Buddha (Wat Traimit)",
+image: "/poi-images/golden-buddha-wat-traimit-landmarks-v2.webp"
+},
     description: {
       de: "Ein Tempel in Bangkok, der die größte massive Gold-Buddha-Statue der Welt beherbergt. Ihr wahrer Wert wurde erst 1955 entdeckt.",
       hu: "Egy bangkoki templom, amely a világ legnagyobb tömör arany Buddha-szobrának ad otthont. Valódi értékét csak 1955-ben fedezték fel.",
@@ -431,8 +443,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Wat Saket (Goldener Berg)",
       hu: "Wat Saket (Arany-hegy)",
       ro: "Wat Saket (Muntele de Aur)",
-      en: "Wat Saket (Golden Mount)"
-    },
+      en: "Wat Saket (Golden Mount)",
+image: "/poi-images/wat-saket-golden-mount-landmarks-v2.webp"
+},
     description: {
       de: "Ein flacher künstlicher Hügel in Bangkok mit einem goldenen Chedi an der Spitze, der einen Panoramablick auf die Stadt bietet.",
       hu: "Egy alacsony, mesterséges domb Bangkokban, tetején egy arany csédijével, ahonnan panorámás kilátás nyílik a városra.",
@@ -466,8 +479,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Buddha-Berg (Khao Chi Chan)",
       hu: "Buddha-hegy (Khao Chi Chan)",
       ro: "Muntele Buddha (Khao Chi Chan)",
-      en: "Buddha Mountain (Khao Chi Chan)"
-    },
+      en: "Buddha Mountain (Khao Chi Chan)",
+image: "/poi-images/khao-chi-chan-buddha-mountain-landmarks-v2.webp"
+},
     description: {
       de: "Eine riesige goldene Buddha-Gravur auf der Seite eines Kalksteinbergs in der Nähe von Pattaya, geschaffen zu Ehren von König Bhumibol Adulyadej.",
       hu: "Egy hatalmas arany Buddha-gravírozás egy mészkőhegy oldalán Pattaya közelében, amelyet Bhumibol Adulyadej király tiszteletére készítettek.",
@@ -501,8 +515,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Wat Tham Pha Dan",
       hu: "Wat Tham Pha Dan",
       ro: "Wat Tham Pha Dan",
-      en: "Wat Tham Pha Dan"
-    },
+      en: "Wat Tham Pha Dan",
+image: "/poi-images/wat-tham-pha-dan-landmarks-v2.webp"
+},
     description: {
       de: "Ein einzigartiger Tempel in Sakon Nakhon, der in eine Klippe gebaut wurde und für seine großen, in den Fels gehauenen Skulpturen bekannt ist.",
       hu: "Egy egyedülálló templom Sakon Nakhonban, amely egy sziklafalba épült, és a sziklába vésett nagy szobrairól ismert.",
@@ -536,8 +551,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Mae Ya Wasserfall",
       hu: "Mae Ya-vízesés",
       ro: "Cascada Mae Ya",
-      en: "Mae Ya Waterfall"
-    },
+      en: "Mae Ya Waterfall",
+image: "/poi-images/mae-ya-waterfall-landmarks-v2.webp"
+},
     description: {
       de: "Einer der schönsten Wasserfälle im Nationalpark Doi Inthanon, der über eine 260 Meter breite Felswand in Kaskaden herabfällt.",
       hu: "A Doi Inthanon Nemzeti Park egyik legszebb vízesése, amely egy 260 méter széles sziklafalon zúdul le kaszkádokban.",
@@ -571,8 +587,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Skulpturenpark Sala Kaeoku",
       hu: "Sala Kaeoku Szoborpark",
       ro: "Parcul de Sculpturi Sala Kaeoku",
-      en: "Sala Kaeoku Sculpture Park"
-    },
+      en: "Sala Kaeoku Sculpture Park",
+image: "/poi-images/sala-kaeoku-sculpture-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein Park in Nong Khai mit riesigen fantastischen Skulpturen, die von dem Mystiker Luang Pu Bunleua Sulilat geschaffen wurden und buddhistische und hinduistische Mythologie verbinden.",
       hu: "Egy park Nong Khaiban, amely hatalmas, fantasztikus szobrokat tartalmaz, melyeket Luang Pu Bunleua Sulilat misztikus alkotott, és a buddhista és hindu mitológiát ötvözik.",
@@ -606,8 +623,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Wat Plai Laem",
       hu: "Wat Plai Laem",
       ro: "Wat Plai Laem",
-      en: "Wat Plai Laem"
-    },
+      en: "Wat Plai Laem",
+image: "/poi-images/wat-plai-laem-koh-samui-landmarks-v2.webp"
+},
     description: {
       de: "Ein farbenfroher buddhistischer Tempel auf Koh Samui, bekannt für seine riesige Statue der Guanyin, der Göttin des Mitgefühls, mit 18 Armen.",
       hu: "Egy színes buddhista templom Ko Samuin, amely a 18 karú Guanyin, az együttérzés istennőjének hatalmas szobráról ismert.",
@@ -641,8 +659,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Roter Lotussee (Talay Bua Daeng)",
       hu: "Vörös Lótusz-tó (Talay Bua Daeng)",
       ro: "Marea de Lotus Roșu (Talay Bua Daeng)",
-      en: "Red Lotus Sea (Talay Bua Daeng)"
-    },
+      en: "Red Lotus Sea (Talay Bua Daeng)",
+image: "/poi-images/red-lotus-sea-udon-thani-landmarks-v2.webp"
+},
     description: {
       de: "Ein großer Süßwassersee in der Provinz Udon Thani, der von Dezember bis Februar mit Millionen von rosa Lotusblüten bedeckt ist.",
       hu: "Egy nagy édesvízi tó Udon Thani tartományban, amelyet decembertől februárig több millió rózsaszín lótuszvirág borít.",
@@ -677,8 +696,9 @@ export const poiExtraThailandLandmarksV2: POI[] = [
       de: "Gipfel des Doi Inthanon",
       hu: "Doi Inthanon csúcs",
       ro: "Vârful Doi Inthanon",
-      en: "Doi Inthanon Summit"
-    },
+      en: "Doi Inthanon Summit",
+image: "/poi-images/doi-inthanon-summit-landmarks-v2.webp"
+},
     description: {
       de: "Der höchste Punkt in Thailand, gelegen im Nationalpark Doi Inthanon. Der Gipfel ist mit einem Wald bedeckt und beherbergt ein Denkmal für den letzten König von Chiang Mai.",
       hu: "Thaiföld legmagasabb pontja, a Doi Inthanon Nemzeti Parkban található. A csúcsot erdő borítja, és Csiangmaj utolsó királyának emlékműve található itt.",

@@ -11,8 +11,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Ha-Long-Bucht",
       hu: "Ha Long-öböl",
       ro: "Golful Ha Long",
-      en: "Ha Long Bay"
-    },
+      en: "Ha Long Bay",
+image: "/poi-images/ha-long-bay-landmarks-v2.webp"
+},
     description: {
       de: "Ein UNESCO-Weltkulturerbe, bekannt für seine smaragdgrünen Wässer und Tausende von hoch aufragenden Kalksteininseln, die von Regenwäldern bedeckt sind.",
       hu: "Az UNESCO Világörökség része, amely smaragdzöld vizéről és több ezer, esőerdővel borított, tornyosuló mészkőszigetéről ismert.",
@@ -47,8 +48,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Goldene Brücke",
       hu: "Arany híd",
       ro: "Podul de Aur",
-      en: "Golden Bridge"
-    },
+      en: "Golden Bridge",
+image: "/poi-images/golden-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Fußgängerbrücke in den Bà Nà Hills, die von zwei riesigen Steinhänden gehalten zu werden scheint.",
       hu: "Lenyűgöző gyaloghíd a Bà Nà-hegységben, amelyet mintha két óriási kőkéz tartana.",
@@ -83,8 +85,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Altstadt von Hội An",
       hu: "Hội An ősi városa",
       ro: "Orașul antic Hội An",
-      en: "Hoi An Ancient Town"
-    },
+      en: "Hoi An Ancient Town",
+image: "/poi-images/hoi-an-ancient-town-landmarks-v2.webp"
+},
     description: {
       de: "Ein außergewöhnlich gut erhaltenes Beispiel eines südostasiatischen Handelshafens aus dem 15. bis 19. Jahrhundert.",
       hu: "Egy délkelet-ázsiai kereskedelmi kikötő kivételesen jól megőrzött példája a 15-19. századból.",
@@ -119,8 +122,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Nationalpark Phong Nha-Kẻ Bàng",
       hu: "Phong Nha-Kẻ Bàng Nemzeti Park",
       ro: "Parcul Național Phong Nha-Kẻ Bàng",
-      en: "Phong Nha-Ke Bang National Park"
-    },
+      en: "Phong Nha-Ke Bang National Park",
+image: "/poi-images/phong-nha-ke-bang-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein Nationalpark und UNESCO-Weltkulturerbe, bekannt für seine Hunderten von Höhlensystemen, einschließlich der größten Höhle der Welt.",
       hu: "Nemzeti park és az UNESCO Világörökség része, amely több száz barlangrendszeréről ismert, beleértve a világ legnagyobb barlangját is.",
@@ -155,8 +159,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Japanische Brücke",
       hu: "Japán híd",
       ro: "Podul acoperit japonez",
-      en: "Japanese Covered Bridge"
-    },
+      en: "Japanese Covered Bridge",
+image: "/poi-images/japanese-covered-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine ikonische Brücke in Hội An, die im frühen 17. Jahrhundert von der japanischen Gemeinschaft erbaut wurde.",
       hu: "Ikonikus híd Hội Anban, amelyet a 17. század elején épített a japán közösség.",
@@ -191,8 +196,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Thiên-Mụ-Pagode",
       hu: "Thien Mu pagoda",
       ro: "Pagoda Thien Mu",
-      en: "Thien Mu Pagoda"
-    },
+      en: "Thien Mu Pagoda",
+image: "/poi-images/thien-mu-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Pagode am Ufer des Parfüm-Flusses in Huế, deren siebenstöckiger Turm ein inoffizielles Symbol der Stadt ist.",
       hu: "Történelmi pagoda a Parfüm-folyó partján, Huế-ban. Hét emeletes tornya a város nem hivatalos szimbóluma.",
@@ -227,8 +233,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Einsäulenpagode",
       hu: "Egyoszlopos pagoda",
       ro: "Pagoda cu un singur stâlp",
-      en: "One Pillar Pagoda"
-    },
+      en: "One Pillar Pagoda",
+image: "/poi-images/one-pillar-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische buddhistische Pagode in Hanoi, die auf einer einzigen Steinsäule in der Mitte eines Lotus-Teichs ruht.",
       hu: "Történelmi buddhista pagoda Hanoiban, amely egyetlen kőoszlopon nyugszik egy lótusztó közepén.",
@@ -263,8 +270,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Fansipan",
       hu: "Fansipan",
       ro: "Muntele Fansipan",
-      en: "Fansipan Mountain"
-    },
+      en: "Fansipan Mountain",
+image: "/poi-images/fansipan-mountain-landmarks-v2.webp"
+},
     description: {
       de: "Der höchste Berg Indochinas, bekannt als 'das Dach Indochinas'.",
       hu: "Indokína legmagasabb hegye, 'Indokína tetejeként' ismert.",
@@ -299,8 +307,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Berg der Schwarzen Jungfrau",
       hu: "Fekete Szűz-hegy",
       ro: "Muntele Fecioarei Negre",
-      en: "Black Virgin Mountain"
-    },
+      en: "Black Virgin Mountain",
+image: "/poi-images/nui-ba-den-landmarks-v2.webp"
+},
     description: {
       de: "Ein erloschener Vulkan in der Provinz Tây Ninh, ein heiliger Ort mit Tempeln und Pagoden an seinen Hängen.",
       hu: "Kialudt vulkán Tây Ninh tartományban, szent hely, melynek lejtőin templomok és pagodák találhatók.",
@@ -335,8 +344,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Bản-Giốc-Detian-Wasserfälle",
       hu: "Bản Giốc-Detian-vízesés",
       ro: "Cascadele Bản Giốc–Detian",
-      en: "Ban Gioc–Detian Falls"
-    },
+      en: "Ban Gioc–Detian Falls",
+image: "/poi-images/ban-gioc-detian-falls-landmarks-v2.webp"
+},
     description: {
       de: "Ein Paar Wasserfälle am Quây-Sơn-Fluss, die die internationale Grenze zwischen China und Vietnam überspannen.",
       hu: "Vízeséspár a Quây Sơn-folyón, amely a Kína és Vietnám közötti nemzetközi határon húzódik.",
@@ -371,8 +381,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Parfüm-Pagode",
       hu: "Parfüm pagoda",
       ro: "Pagoda Parfumului",
-      en: "Perfume Pagoda"
-    },
+      en: "Perfume Pagoda",
+image: "/poi-images/perfume-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Ein weitläufiger Komplex buddhistischer Tempel und Schreine, die in die Kalksteinberge des Huong Tich gebaut wurden.",
       hu: "Buddhista templomok és szentélyek kiterjedt komplexuma, amelyeket a Huong Tich mészkőhegyeibe építettek.",
@@ -406,8 +417,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Lady Buddha Da Nang",
       hu: "Lady Buddha Da Nang",
       ro: "Doamna Buddha Da Nang",
-      en: "Lady Buddha Da Nang"
-    },
+      en: "Lady Buddha Da Nang",
+image: "/poi-images/lady-buddha-da-nang-landmarks-v2.webp"
+},
     description: {
       de: "Eine hoch aufragende weiße Statue der Göttin der Barmherzigkeit, Guanyin, die auf der Halbinsel Sơn Trà steht und über das Meer blickt.",
       hu: "Az irgalom istennőjének, Guanyinnek a tornyosuló fehér szobra, amely a Sơn Trà-félszigeten áll és a tengerre néz.",
@@ -441,8 +453,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Marmorberge",
       hu: "Márvány-hegység",
       ro: "Munții de Marmură",
-      en: "Marble Mountains"
-    },
+      en: "Marble Mountains",
+image: "/poi-images/marble-mountains-landmarks-v2.webp"
+},
     description: {
       de: "Eine Gruppe von fünf Marmor- und Kalksteinhügeln in Da Nang, benannt nach den fünf Elementen.",
       hu: "Öt márvány- és mészkőhegyből álló csoport Da Nangban, az öt elemről elnevezve.",
@@ -477,8 +490,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Tràng-An-Landschaftskomplex",
       hu: "Tràng An tájkomplexum",
       ro: "Complexul peisagistic Tràng An",
-      en: "Tràng An Landscape Complex"
-    },
+      en: "Tràng An Landscape Complex",
+image: "/poi-images/trang-an-landscape-complex-landmarks-v2.webp"
+},
     description: {
       de: "Ein spektakuläres Gebiet mit Kalkkarstgipfeln, die von Tälern durchzogen sind, von denen viele teilweise überflutet sind und von steilen, fast senkrechten Klippen umgeben sind.",
       hu: "Mészkő karsztcsúcsok látványos területe, amelyeket völgyek szabdalnak, sok közülük részben elárasztott és meredek, szinte függőleges sziklák veszik körül.",
@@ -512,8 +526,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Bái-Đính-Pagode",
       hu: "Bái Đính pagoda",
       ro: "Pagoda Bái Đính",
-      en: "Bái Đính Pagoda"
-    },
+      en: "Bái Đính Pagoda",
+image: "/poi-images/bai-dinh-pagoda-landmarks-v2.webp"
+},
     description: {
       de: "Ein riesiger Komplex buddhistischer Tempel auf dem Berg Bái Đính in der Provinz Ninh Bình, der viele vietnamesische Rekorde hält.",
       hu: "Hatalmas buddhista templomkomplexum a Bái Đính-hegyen, Ninh Bình tartományban, amely számos vietnámi rekordot tart.",
@@ -548,8 +563,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Ho-Chi-Minh-Mausoleum",
       hu: "Ho Si Minh-mauzóleum",
       ro: "Mausoleul lui Ho Chi Minh",
-      en: "Ho Chi Minh Mausoleum"
-    },
+      en: "Ho Chi Minh Mausoleum",
+image: "/poi-images/ho-chi-minh-mausoleum-landmarks-v2.webp"
+},
     description: {
       de: "Das letzte Ruhestätte von Ho Chi Minh, dem vietnamesischen Revolutionsführer, in Hanoi.",
       hu: "Ho Si Minh, a vietnámi forradalmi vezető végső nyughelye Hanoiban.",
@@ -583,8 +599,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Insel Cát Bà",
       hu: "Cát Bà-sziget",
       ro: "Insula Cát Bà",
-      en: "Cát Bà Island"
-    },
+      en: "Cát Bà Island",
+image: "/poi-images/cat-ba-island-landmarks-v2.webp"
+},
     description: {
       de: "Die größte Insel in der Ha-Long-Bucht, bekannt für ihre zerklüftete und wilde Schönheit. Etwa die Hälfte der Insel ist ein Nationalpark.",
       hu: "A Ha Long-öböl legnagyobb szigete, amely sziklás és vad szépségéről ismert. A sziget mintegy fele nemzeti park.",
@@ -618,8 +635,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Kathedrale Notre-Dame von Saigon",
       hu: "Saigoni Notre-Dame-székesegyház",
       ro: "Catedrala Notre-Dame din Saigon",
-      en: "Notre-Dame Cathedral Basilica of Saigon"
-    },
+      en: "Notre-Dame Cathedral Basilica of Saigon",
+image: "/poi-images/notre-dame-cathedral-saigon-landmarks-v2.webp"
+},
     description: {
       de: "Eine Kathedrale im Zentrum von Ho-Chi-Minh-Stadt, die zwischen 1863 und 1880 von den französischen Kolonisten erbaut wurde.",
       hu: "Székesegyház Ho Si Minh-város központjában, amelyet 1863 és 1880 között építettek a francia gyarmatosítók.",
@@ -653,8 +671,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Hauptpostamt von Saigon",
       hu: "Saigoni Központi Postahivatal",
       ro: "Oficiul Poștal Central din Saigon",
-      en: "Saigon Central Post Office"
-    },
+      en: "Saigon Central Post Office",
+image: "/poi-images/saigon-central-post-office-landmarks-v2.webp"
+},
     description: {
       de: "Ein Postamt im Zentrum von Ho-Chi-Minh-Stadt, das im späten 19. Jahrhundert erbaut wurde und für seine französische Kolonialarchitektur bekannt ist.",
       hu: "Postahivatal Ho Si Minh-város központjában, a 19. század végén épült, és francia gyarmati építészetéről ismert.",
@@ -688,8 +707,9 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       de: "Mekong-Delta",
       hu: "Mekong-delta",
       ro: "Delta Mekongului",
-      en: "Mekong Delta"
-    },
+      en: "Mekong Delta",
+image: "/poi-images/mekong-delta-landmarks-v2.webp"
+},
     description: {
       de: "Eine riesige Region im Südwesten Vietnams, wo der Mekong in das Meer mündet. Es ist eine üppige Landschaft mit Reisfeldern, Wasserwegen und schwimmenden Märkten.",
       hu: "Hatalmas régió Délnyugat-Vietnámban, ahol a Mekong a tengerbe ömlik. Buja táj rizsföldekkel, vízi utakkal és úszó piacokkal.",

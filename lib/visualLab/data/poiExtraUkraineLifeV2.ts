@@ -4,7 +4,9 @@ export const ukraineLifeV2: POI[] = [
   {
     id: "ukraine-askaniya-nova-life-v2",
     type: "wildlife",
-    name: { de: "Biosphärenreservat Askanija-Nowa", hu: "Aszkanyija-Nova Bioszféra-rezervátum", ro: "Rezervația Biosferei Askania-Nova", en: "Askaniya-Nova Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Askanija-Nowa", hu: "Aszkanyija-Nova Bioszféra-rezervátum", ro: "Rezervația Biosferei Askania-Nova", en: "Askaniya-Nova Biosphere Reserve",
+image: "/poi-images/ukraine-askaniya-nova-life-v2.webp"
+},
     coords: [33.8783, 46.4503],
     coordinates: { lat: 46.4503, lng: 33.8783 },
     description: {
@@ -19,11 +21,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Cea mai veche rezervație de stepă din lume", "Rezervație a Biosferei UNESCO din 1984", "Peste 11.000 de hectare de stepă virgină", "Adăpostește cai Przewalski și zebre"],
       en: ["Oldest steppe reserve in the world", "UNESCO Biosphere Reserve since 1984", "Over 11,000 hectares of virgin steppe", "Home to Przewalski's horses and zebras"],
     },
-    imageHint: "Askaniya-Nova steppe with zebras and antelopes", image: "/poi-images/ukraine-askaniya-nova-life-v2.webp"},
-  {
+imageHint: "Askaniya-Nova steppe with zebras and antelopes",
+    descriptionAdvanced: {
+      de: "Das Reservat bewahrt die letzte unberührte Federgrassteppe Europas. Es wurde 1894 von Friedrich von Falz-Fein gegründet und beherbergt seltene Tierarten wie das Przewalski-Pferd und die Saiga-Antilope.",
+      hu: "Európa utolsó érintetlen árvalányhajas sztyeppéje, ahol Przewalski-lovak és antilopok élnek szabadon. Friedrich von Falz-Fein alapította 1894-ben a 33 ezer hektáros különleges ökoszisztémát.",
+      ro: "Rezervația protejează singura zonă de stepă virgină din Europa, fiind faimoasă pentru reintroducerea calului Przewalski. Fondată în 1894, include o grădină zoologică și un arboretum dendrologic.",
+      en: "This reserve protects the last untouched feather-grass steppe in Europe. Founded in 1894 by Friedrich von Falz-Fein, it serves as a critical sanctuary for Przewalski's horses and migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1894", "Fläche: ca. 33.300 ha", "UNESCO-Biosphärenreservat seit 1984", "Über 500 Pflanzenarten"],
+      hu: ["Alapítás éve: 1894", "Területe: 33 300 hektár", "1984 óta UNESCO bioszféra-rezervátum", "800-nál több vadon élő állatfaj"],
+      ro: ["Anul fondării: 1894", "Suprafață: 33.300 hectare", "Rezervație UNESCO din 1984", "Peste 500 de specii de plante"],
+      en: ["Established: 1894", "Total area: 33,300 hectares", "UNESCO Biosphere Reserve since 1984", "Over 500 vascular plant species"],
+    },
+    image: "/poi-images/ukraine-askaniya-nova-life-v2.webp",
+},  {
     id: "ukraine-carpathian-biosphere-life-v2",
     type: "forest",
-    name: { de: "Biosphärenreservat Karpaten", hu: "Kárpáti Bioszféra-rezervátum", ro: "Rezervația Biosferei Carpați", en: "Carpathian Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Karpaten", hu: "Kárpáti Bioszféra-rezervátum", ro: "Rezervația Biosferei Carpați", en: "Carpathian Biosphere Reserve",
+image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp"
+},
     coords: [24.2319, 48.1481],
     coordinates: { lat: 48.1481, lng: 24.2319 },
     description: {
@@ -38,11 +55,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Găzduiește cea mai mare vale a narciselor din Europa", "Parte a Patrimoniului Mondial UNESCO", "Fondată în anul 1968", "Cuprinde masivul Ciornohora"],
       en: ["Home to the largest narcissus valley in Europe", "Part of the UNESCO World Heritage Ancient Beech Forests", "Established in 1968", "Includes the Chornohora massif"],
     },
-    imageHint: "Carpathian Mountains forest and valley of daffodils", image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp"},
-  {
+imageHint: "Carpathian Mountains forest and valley of daffodils",
+    descriptionAdvanced: {
+      de: "Dieses Schutzgebiet umfasst die besterhaltenen Buchenurwälder Europas. Es erstreckt sich über verschiedene Höhenstufen der Karpaten und beherbergt den Berg Hoverla, den höchsten Gipfel der Ukraine.",
+      hu: "Az UNESCO Világörökség részét képező bükkös őserdők otthona. A rezervátum magában foglalja Ukrajna legmagasabb pontját, a Hoverlát, és számos endemikus kárpáti növényfajnak nyújt menedéket.",
+      ro: "Cuprinde cele mai bine conservate păduri de fag din Europa, incluse în patrimoniul UNESCO. Rezervația se extinde pe masive variate, incluzând vârful Hoverla, cel mai înalt punct din Ucraina.",
+      en: "Protecting Europe's largest primeval beech forests, this UNESCO site spans multiple Carpathian massifs. It includes Mount Hoverla and provides habitat for brown bears, lynx, and black storks.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 57.880 ha", "Gipfel: Hoverla (2061 m)", "UNESCO-Weltnaturerbe seit 2007", "Über 1000 Gefäßpflanzenarten"],
+      hu: ["Területe: 57 880 hektár", "Legmagasabb pont: Hoverla (2061 m)", "UNESCO Világörökség 2007 óta", "64 emlősfaj él a területén"],
+      ro: ["Suprafață: 57.880 hectare", "Altitudine max: Vârful Hoverla (2061 m)", "Patrimoniu UNESCO din 2007", "Peste 1000 de specii de plante"],
+      en: ["Total area: 57,880 hectares", "Highest peak: Hoverla (2,061 m)", "UNESCO World Heritage since 2007", "Over 1,000 vascular plant species"],
+    },
+    image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp",
+},  {
     id: "ukraine-shatsk-national-park-life-v2",
     type: "lake",
-    name: { de: "Nationalpark Schazk", hu: "Sackiji Nemzeti Park", ro: "Parcul Național Șațk", en: "Shatsk National Nature Park" },
+    name: { de: "Nationalpark Schazk", hu: "Sackiji Nemzeti Park", ro: "Parcul Național Șațk", en: "Shatsk National Nature Park",
+image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp"
+},
     coords: [23.8344, 51.5039],
     coordinates: { lat: 51.5039, lng: 23.8344 },
     description: {
@@ -57,11 +89,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1983", "Sveatiaz este cel mai adânc lac din Ucraina", "Sit Ramsar de importanță internațională", "Suprafață de aproximativ 490 km pătrați"],
       en: ["Established in 1983", "Svitiaz is the deepest lake in Ukraine", "Ramsar wetland of international importance", "Area of approximately 490 square kilometers"],
     },
-    imageHint: "Shatsk Lakes aerial view with Svitiaz Lake", image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp"},
-  {
+imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
+    descriptionAdvanced: {
+      de: "Der Nationalpark in der Region Wolhynien umfasst eine Gruppe von 24 Seen, darunter den Switjas, den tiefsten See der Ukraine. Er ist ein bedeutendes Rastgebiet für Zugvögel in den Feuchtgebieten.",
+      hu: "A Volinyi területen fekvő nemzeti park 24 tóból áll, köztük itt található Ukrajna legmélyebb tava, a Szvityáz. A park mocsaras vidéke kulcsfontosságú állomás a költöző madarak számára.",
+      ro: "Situat în regiunea Volînia, parcul protejează un complex de 24 de lacuri, inclusiv lacul Sviteaz, cel mai adânc din Ucraina. Este un sit Ramsar vital pentru păsările migratoare de apă.",
+      en: "Located in the Volyn region, this park features a cluster of 24 lakes, including Svitiaz, Ukraine's deepest lake. It is a critical Ramsar wetland site for European migratory waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1983", "Anzahl der Seen: 24", "Tiefe des Switjas: 58,4 m", "Fläche: 48.977 ha"],
+      hu: ["Alapítás éve: 1983", "Tavak száma: 24", "Szvityáz-tó mélysége: 58,4 m", "Területe: 48 977 hektár"],
+      ro: ["Anul fondării: 1983", "Număr de lacuri: 24", "Adâncime max (Sviteaz): 58,4 m", "Suprafață: 48.977 hectare"],
+      en: ["Established: 1983", "Number of lakes: 24", "Svitiaz max depth: 58.4 m", "Total area: 48,977 hectares"],
+    },
+    image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp",
+},  {
     id: "ukraine-synevyr-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Synevyr", hu: "Szinevéri Nemzeti Park", ro: "Parcul Național Sinevir", en: "Synevyr National Nature Park" },
+    name: { de: "Nationalpark Synevyr", hu: "Szinevéri Nemzeti Park", ro: "Parcul Național Sinevir", en: "Synevyr National Nature Park",
+image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp"
+},
     coords: [23.6828, 48.5086],
     coordinates: { lat: 48.5086, lng: 23.6828 },
     description: {
@@ -76,11 +123,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1989", "Cuprinde mlaștina Hluhania", "Adăpostește peste 500 de specii de plante", "Lacul se află la 989 de metri altitudine"],
       en: ["Established in 1989", "Includes the Hluhanya bog", "Home to over 500 plant species", "The lake is located at 989 meters altitude"],
     },
-    imageHint: "Synevyr Lake in the Carpathian mountains", image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp"},
-  {
+imageHint: "Synevyr Lake in the Carpathian mountains",
+    descriptionAdvanced: {
+      de: "Das Herzstück des Parks ist der Synevyr-See, das 'Auge der Karpaten', der auf 989 Metern Höhe liegt. Der Park beherbergt zudem ein Rehabilitationszentrum für Braunbären in einem natürlichen Wald.",
+      hu: "A park központja a 989 méter magasan fekvő Szineviri-tó, a 'Kárpátok szeme'. Itt működik Ukrajna egyetlen barnamedve-rehabilitációs központja, ahol természetes erdei környezetben élnek az állatok.",
+      ro: "Centrul parcului este lacul Sinevir, supranumit 'Ochiul Carpaților', situat la 989 metri altitudine. Găzduiește un centru unic de reabilitare pentru urșii bruni salvați din captivitate.",
+      en: "Home to Lake Synevyr, the 'Eye of the Carpathians,' situated at 989 meters. The park also features a unique brown bear rehabilitation center dedicated to rescuing bears from captivity.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1989", "See-Höhe: 989 m ü. NN", "Fläche: 40.400 ha", "Bärenzentrum-Größe: 12 ha"],
+      hu: ["Alapítás éve: 1989", "Tó tengerszint feletti magassága: 989 m", "Területe: 40 400 hektár", "Barnamedve központ: 12 hektár"],
+      ro: ["Anul fondării: 1989", "Altitudine lac: 989 m", "Suprafață totală: 40.400 hectare", "Centru de urși: 12 hectare"],
+      en: ["Established: 1989", "Lake altitude: 989 m", "Total area: 40,400 hectares", "Bear center size: 12 hectares"],
+    },
+    image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp",
+},  {
     id: "ukraine-oleshky-sands-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Oleschky-Sande", hu: "Oleskivszki-homoksivatag Nemzeti Park", ro: "Parcul Național Nisipurile Oleșki", en: "Oleshky Sands National Nature Park" },
+    name: { de: "Nationalpark Oleschky-Sande", hu: "Oleskivszki-homoksivatag Nemzeti Park", ro: "Parcul Național Nisipurile Oleșki", en: "Oleshky Sands National Nature Park",
+image: "/poi-images/ukraine-oleshky-sands-life-v2.webp"
+},
     coords: [33.0536, 46.5847],
     coordinates: { lat: 46.5847, lng: 33.0536 },
     description: {
@@ -95,11 +157,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 161 km pătrați", "Declarat parc național în anul 2010", "Dunele pot atinge 20 de metri înălțime", "Fost poligon militar de antrenament"],
       en: ["Area of approximately 161 square kilometers", "Established as a national park in 2010", "Dunes can reach up to 20 meters in height", "Former military training ground"],
     },
-    imageHint: "Oleshky Sands desert dunes in Ukraine", image: "/poi-images/ukraine-oleshky-sands-life-v2.webp"},
-  {
+imageHint: "Oleshky Sands desert dunes in Ukraine",
+    descriptionAdvanced: {
+      de: "Dieses Gebiet bei Cherson gilt als eine der größten Sandflächen Europas. Die halbwüstenartige Landschaft entstand durch Überweidung im 19. Jahrhundert und ist heute von künstlichen Wäldern umgeben.",
+      hu: "Herszon közelében található Európa egyik legnagyobb homoktömbje. Ez a félsivatagi táj a 19. századi túllegeltetés következtében alakult ki, mára mesterséges erdőgyűrű védi a környezetét.",
+      ro: "Situat lângă Herson, este unul dintre cele mai mari masive de nisip din Europa. Peisajul de semideșert s-a format prin suprapășunat în secolul XIX și este înconjurat de păduri plantate.",
+      en: "Located near Kherson, this is one of Europe's largest sand expanses. The semi-desert landscape was formed by 19th-century overgrazing and is now surrounded by vast protective forest belts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 161.200 ha", "Dünenhöhe: bis zu 20 m", "Sommertemperatur Boden: +70°C", "Künstlicher Waldgürtel: 100.000 ha"],
+      hu: ["Területe: 161 200 hektár", "Dűnék magassága: akár 20 m", "Nyári talajhőmérséklet: +70°C", "Véderdők mérete: 100 000 hektár"],
+      ro: ["Suprafață: 161.200 hectare", "Înălțime dune: până la 20 m", "Temperatură sol vara: +70°C", "Centură forestieră: 100.000 ha"],
+      en: ["Total area: 161,200 hectares", "Dune height: up to 20 m", "Summer sand temp: +70°C", "Protective forest: 100,000 hectares"],
+    },
+    image: "/poi-images/ukraine-oleshky-sands-life-v2.webp",
+},  {
     id: "ukraine-dzharylhatsk-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Dzharylhatsch", hu: "Dzsarihalhacs Nemzeti Park", ro: "Parcul Național Jarîlgaci", en: "Dzharylhatsk National Nature Park" },
+    name: { de: "Nationalpark Dzharylhatsch", hu: "Dzsarihalhacs Nemzeti Park", ro: "Parcul Național Jarîlgaci", en: "Dzharylhatsk National Nature Park",
+image: "/poi-images/ukraine-dzharylhatsk-life-v2.webp"
+},
     coords: [32.8875, 46.0305],
     coordinates: { lat: 46.0305, lng: 32.8875 },
     description: {
@@ -114,11 +191,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Insula are aproximativ 42 km lungime", "Adăpostește peste 250 de specii de păsări", "Fondat în anul 2009", "Are două faruri istorice"],
       en: ["The island is approximately 42 km long", "Home to over 250 bird species", "Established in 2009", "Features two historical lighthouses"],
     },
-    imageHint: "Dzharylhatsk island with lighthouse and wild horses", image: "/poi-images/ukraine-dzharylhatsk-life-v2.webp"},
-  {
+imageHint: "Dzharylhatsk island with lighthouse and wild horses",
+    descriptionAdvanced: {
+      de: "Dzharylhat ist die größte Insel der Ukraine im Schwarzen Meer. Sie ist unbewohnt und bekannt für ihre Sandstrände, Hunderte von kleinen Salzseen und den historischen Leuchtturm von Gustave Eiffel.",
+      hu: "Ukrajna és a Fekete-tenger legnagyobb lakatlan szigete. Híres fehér homokos strandjairól, több száz sós taváról és a Gustave Eiffel által tervezett régi világítótornyáról.",
+      ro: "Cea mai mare insulă nelocuită din Ucraina, situată în Marea Neagră. Este renumită pentru plajele sălbatice, sutele de lacuri sărate și farul istoric proiectat de Gustave Eiffel.",
+      en: "The largest uninhabited island in Ukraine and the Black Sea. It is famous for its pristine sandy beaches, hundreds of salt lakes, and a historic lighthouse designed by Gustave Eiffel.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 42 km", "Gegründet: 2009", "Fläche: 10.000 ha", "Leuchtturm Baujahr: 1902"],
+      hu: ["Sziget hossza: 42 km", "Alapítás éve: 2009", "Területe: 10 000 hektár", "Világítótorony építése: 1902"],
+      ro: ["Lungime insulă: 42 km", "Anul fondării: 2009", "Suprafață: 10.000 hectare", "An construire far: 1902"],
+      en: ["Island length: 42 km", "Established: 2009", "Total area: 10,000 hectares", "Lighthouse built: 1902"],
+    },
+    image: "/poi-images/ukraine-dzharylhatsk-life-v2.webp",
+},  {
     id: "ukraine-danube-biosphere-life-v2",
     type: "wildlife",
-    name: { de: "Biosphärenreservat Donaudelta", hu: "Dunadelta Bioszféra-rezervátum", ro: "Rezervația Biosferei Delta Dunării (Ucraina)", en: "Danube Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Donaudelta", hu: "Dunadelta Bioszféra-rezervátum", ro: "Rezervația Biosferei Delta Dunării (Ucraina)", en: "Danube Biosphere Reserve",
+image: "/poi-images/ukraine-danube-biosphere-life-v2.webp"
+},
     coords: [29.6822, 45.4211],
     coordinates: { lat: 45.4211, lng: 29.6822 },
     description: {
@@ -133,11 +225,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Găzduiește cea mai mare colonie de pelicani din Europa", "Rezervație a Biosferei UNESCO din 1998", "Loc important de popas pentru păsările migratoare", "Cuprinde orașul Vîlkovo"],
       en: ["Home to the largest pelican colony in Europe", "UNESCO Biosphere Reserve since 1998", "Important stopover for migratory birds", "Includes the town of Vylkove"],
     },
-    imageHint: "Danube Delta canals with pelicans in Ukraine", image: "/poi-images/ukraine-danube-biosphere-life-v2.webp"},
-  {
+imageHint: "Danube Delta canals with pelicans in Ukraine",
+    descriptionAdvanced: {
+      de: "Im Donaudelta gelegen, umfasst dieses Reservat die jüngsten Landmassen Europas. Es ist ein Labyrinth aus Kanälen und Schilfinseln, das als Lebensraum für über 300 Vogelarten dient.",
+      hu: "A Duna-deltában található rezervátum Európa legfiatalabb szárazföldi területeit foglalja magában. Csatornák és nádasok labirintusa, amely több mint 300 madárfajnak nyújt fészkelőhelyet.",
+      ro: "Situată în Delta Dunării, rezervația cuprinde cele mai noi pământuri ale Europei. Este un labirint de canale și insule de stuf, fiind habitat pentru peste 300 de specii de păsări.",
+      en: "Located in the Danube Delta, this reserve contains the youngest landmasses in Europe. It consists of a maze of channels and reed islands, hosting over 300 bird species and rare flora.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50.252 ha", "Vogelarten: >300", "Gegründet: 1998", "Fischarten: 101"],
+      hu: ["Területe: 50 252 hektár", "Madárfajok száma: >300", "Alapítás éve: 1998", "Halfajok száma: 101"],
+      ro: ["Suprafață: 50.252 hectare", "Specii de păsări: >300", "Anul fondării: 1998", "Specii de pești: 101"],
+      en: ["Total area: 50,252 hectares", "Bird species: >300", "Established: 1998", "Fish species: 101"],
+    },
+    image: "/poi-images/ukraine-danube-biosphere-life-v2.webp",
+},  {
     id: "ukraine-tuzly-lagoons-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Tuzly-Lagunen", hu: "Tuzlovszki Limani Nemzeti Park", ro: "Parcul Național Limanele Tuzlei", en: "Tuzly Lagoons National Nature Park" },
+    name: { de: "Nationalpark Tuzly-Lagunen", hu: "Tuzlovszki Limani Nemzeti Park", ro: "Parcul Național Limanele Tuzlei", en: "Tuzly Lagoons National Nature Park",
+image: "/poi-images/ukraine-tuzly-lagoons-life-v2.webp"
+},
     coords: [30.0811, 45.8203],
     coordinates: { lat: 45.8203, lng: 30.0811 },
     description: {
@@ -152,11 +259,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Adăpostește peste 260 de specii de păsări", "Fondat în anul 2010", "Cuprinde 13 lagune diferite", "Loc important pentru flamingi"],
       en: ["Home to over 260 bird species", "Established in 2010", "Comprises 13 different lagoons", "Important site for flamingos"],
     },
-    imageHint: "Tuzly Lagoons wetlands with birds", image: "/poi-images/ukraine-tuzly-lagoons-life-v2.webp"},
-  {
+imageHint: "Tuzly Lagoons wetlands with birds",
+    descriptionAdvanced: {
+      de: "Dieses System von 13 Lagunen an der Schwarzmeerküste ist ein wichtiges ökologisches Bindeglied. Die flachen Gewässer und Sandbänke bieten ideale Brutbedingungen für seltene Pelikane und Limikolen.",
+      hu: "A Fekete-tenger partján fekvő 13 lagúnából álló rendszer fontos ökológiai folyosó. A sekély vizek és homokpadok ideális fészkelőhelyet biztosítanak pelikánok és ritka partifutók számára.",
+      ro: "Acest sistem de 13 lagune de pe coasta Mării Negre este un coridor ecologic vital. Apele puțin adânci și bancurile de nisip oferă condiții de cuibărit pentru pelicani și păsări limicole.",
+      en: "This system of 13 coastal lagoons serves as a vital ecological corridor. Its shallow waters and sandbars provide essential breeding grounds for pelicans and numerous rare shorebirds.",
+    },
+    factsAdvanced: {
+      de: ["Lagunenanzahl: 13", "Fläche: 27.865 ha", "Gegründet: 2010", "Vogelarten: 256"],
+      hu: ["Lagúnák száma: 13", "Területe: 27 865 hektár", "Alapítás éve: 2010", "Madárfajok száma: 256"],
+      ro: ["Număr lagune: 13", "Suprafață: 27.865 hectare", "Anul fondării: 2010", "Specii de păsări: 256"],
+      en: ["Number of lagoons: 13", "Total area: 27,865 hectares", "Established: 2010", "Bird species: 256"],
+    },
+    image: "/poi-images/ukraine-tuzly-lagoons-life-v2.webp",
+},  {
     id: "ukraine-black-sea-biosphere-life-v2",
     type: "wildlife",
-    name: { de: "Biosphärenreservat Schwarzes Meer", hu: "Fekete-tengeri Bioszféra-rezervátum", ro: "Rezervația Biosferei Mării Negre", en: "Black Sea Biosphere Reserve" },
+    name: { de: "Biosphärenreservat Schwarzes Meer", hu: "Fekete-tengeri Bioszféra-rezervátum", ro: "Rezervația Biosferei Mării Negre", en: "Black Sea Biosphere Reserve",
+image: "/poi-images/ukraine-black-sea-biosphere-life-v2.webp"
+},
     coords: [32.2214, 46.3012],
     coordinates: { lat: 46.3012, lng: 32.2214 },
     description: {
@@ -171,11 +293,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1927", "Adăpostește peste 300 de specii de păsări", "Protejează mlaștini sărate rare", "Parte a rețelei mondiale UNESCO din 1984"],
       en: ["Established in 1927", "Home to over 300 bird species", "Protects rare salt marshes", "Part of UNESCO world networks since 1984"],
     },
-    imageHint: "Black Sea Biosphere Reserve shoreline with birds", image: "/poi-images/ukraine-black-sea-biosphere-life-v2.webp"},
-  {
+imageHint: "Black Sea Biosphere Reserve shoreline with birds",
+    descriptionAdvanced: {
+      de: "Als eines der ältesten Reservate der Ukraine schützt es weite Küstengebiete und Inseln. Es ist international bedeutend für die Überwinterung und den Schutz von Millionen von Wasservögeln.",
+      hu: "Ukrajna egyik legrégebbi rezervátuma, amely hatalmas tengerparti területeket és szigeteket véd. Nemzetközi jelentőségű vízimadár-telelőhely, ahol évente több millió egyed vonul át.",
+      ro: "Una dintre cele mai vechi rezervații din Ucraina, protejând vaste zone de coastă și insule. Este de o importanță internațională crucială pentru iernarea a milioane de păsări de apă.",
+      en: "One of Ukraine's oldest reserves, protecting vast coastal areas and islands. It is globally significant for the wintering and migration of millions of waterfowl and shorebirds.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1927", "Fläche: 120.000 ha", "UNESCO-Mitglied seit 1984", "Über 300 Vogelarten"],
+      hu: ["Alapítás éve: 1927", "Területe: 120 000 hektár", "1984 óta UNESCO-tag", "Több mint 300 madárfaj"],
+      ro: ["Anul fondării: 1927", "Suprafață: 120.000 hectare", "Membru UNESCO din 1984", "Peste 300 specii de păsări"],
+      en: ["Established: 1927", "Total area: 120,000 hectares", "UNESCO status since 1984", "Over 300 bird species"],
+    },
+    image: "/poi-images/ukraine-black-sea-biosphere-life-v2.webp",
+},  {
     id: "ukraine-podilski-tovtry-life-v2",
     type: "park",
-    name: { de: "Nationalpark Podilski Towtry", hu: "Podilszki Tovtri Nemzeti Park", ro: "Parcul Național Podilski Tovtri", en: "Podilski Tovtry National Nature Park" },
+    name: { de: "Nationalpark Podilski Towtry", hu: "Podilszki Tovtri Nemzeti Park", ro: "Parcul Național Podilski Tovtri", en: "Podilski Tovtry National Nature Park",
+image: "/poi-images/ukraine-podilski-tovtry-life-v2.webp"
+},
     coords: [26.5814, 48.6822],
     coordinates: { lat: 48.6822, lng: 26.5814 },
     description: {
@@ -190,11 +327,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 2.613 km pătrați", "Fondat în anul 1996", "Cuprinde lanțul de dealuri Tovtri", "Adăpostește peste 60 de specii de plante din Cartea Roșie"],
       en: ["Area of approximately 2,613 square kilometers", "Established in 1996", "Includes the Tovtry hill range", "Home to over 60 Red List plant species"],
     },
-    imageHint: "Podilski Tovtry hills and Dniester river canyon", image: "/poi-images/ukraine-podilski-tovtry-life-v2.webp"},
-  {
+imageHint: "Podilski Tovtry hills and Dniester river canyon",
+    descriptionAdvanced: {
+      de: "Die 'Tovtry' sind einzigartige Hügelketten, die Überreste eines fossilen Korallenriffs aus dem Miozän darstellen. Diese Landschaft ohne Analoga in Europa beherbergt über 60 Pflanzenarten der Roten Liste.",
+      hu: "A 'Tovtri' egy egyedülálló dombsor, amely egy miocén kori fosszilis korallzátony maradványa. Európában nincs párja, több mint 60 vörös könyves növényfajnak ad otthont a területén.",
+      ro: "Munții 'Tovtri' sunt rămășițele unui recif coraligen fosil din Miocen, unici în Europa. Peisajul spectaculos adăpostește peste 60 de specii de plante incluse în Cartea Roșie.",
+      en: "The 'Tovtry' are unique hill ridges that represent the remains of a fossil coral reef from the Miocene. This landscape has no European parallel and hosts over 60 Red Book plant species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 261.316 ha", "Gegründet: 1996", "Höchste Erhebung: 401 m", "Pflanzenarten: 1700"],
+      hu: ["Területe: 261 316 hektár", "Alapítás éve: 1996", "Legmagasabb pont: 401 m", "Növényfajok száma: 1700"],
+      ro: ["Suprafață: 261.316 hectare", "Anul fondării: 1996", "Altitudine max: 401 m", "Specii de plante: 1700"],
+      en: ["Total area: 261,316 hectares", "Established: 1996", "Highest elevation: 401 m", "Vascular plant species: 1,700"],
+    },
+    image: "/poi-images/ukraine-podilski-tovtry-life-v2.webp",
+},  {
     id: "ukraine-sofiyivka-park-life-v2",
     type: "park",
-    name: { de: "Sophienpark (Sofijiwka)", hu: "Szofijivka park", ro: "Parcul Sofievka", en: "Sofiyivka Park" },
+    name: { de: "Sophienpark (Sofijiwka)", hu: "Szofijivka park", ro: "Parcul Sofievka", en: "Sofiyivka Park",
+image: "/poi-images/ukraine-sofiyivka-park-life-v2.webp"
+},
     coords: [30.2222, 48.7644],
     coordinates: { lat: 48.7644, lng: 30.2222 },
     description: {
@@ -209,11 +361,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în 1796 de Stanisław Potocki", "Suprafață de aproximativ 179 de hectare", "Numit după soția lui Potocki, Sofia", "Găzduiește peste 2.000 de specii de arbori"],
       en: ["Founded in 1796 by Stanisław Potocki", "Area of approximately 179 hectares", "Named after Potocki's wife Sofia", "Home to over 2,000 tree species"],
     },
-    imageHint: "Sofiyivka Park lake and classic architecture", image: "/poi-images/ukraine-sofiyivka-park-life-v2.webp"},
-  {
+imageHint: "Sofiyivka Park lake and classic architecture",
+    descriptionAdvanced: {
+      de: "Dieser Landschaftspark wurde 1796 von Graf Potocki als Geschenk für seine Frau Sofia angelegt. Er ist ein Meisterwerk der Gartenkunst, das Szenen aus den Epen Homers mit Grotten und Wasserfällen nachbildet.",
+      hu: "Potocki gróf alapította 1796-ban felesége, Szofia tiszteletére. A kertművészet remekműve, ahol grották, vízesések és szobrok idézik meg Homérosz eposzainak és a görög mitológiának a világát.",
+      ro: "Creat în 1796 de contele Potocki ca dar pentru soția sa Sofia. Este o capodoperă a designului peisagistic, recreând scene din epopeile lui Homer prin grote, cascade și statui clasice.",
+      en: "Founded in 1796 by Count Potocki as a gift for his wife Sofia. It is a masterpiece of landscape design, featuring grottoes and waterfalls inspired by Homer’s epics and Greek mythology.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1796", "Fläche: 179 ha", "Pflanzenarten: >2000", "Baukosten: 2 Mio. Goldzloty"],
+      hu: ["Alapítás éve: 1796", "Területe: 179 hektár", "Növényfajok száma: >2000", "Építési költség: 2 millió aranyzloty"],
+      ro: ["Anul fondării: 1796", "Suprafață: 179 hectare", "Specii de plante: >2000", "Cost: 2 mil. zloți de aur"],
+      en: ["Established: 1796", "Total area: 179 hectares", "Plant species: >2,000", "Construction cost: 2 million gold zlotys"],
+    },
+    image: "/poi-images/ukraine-sofiyivka-park-life-v2.webp",
+},  {
     id: "ukraine-kyiv-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Kiewer Zoo", hu: "Kijevi Állatkert", ro: "Grădina Zoologică din Kiev", en: "Kyiv Zoo" },
+    name: { de: "Kiewer Zoo", hu: "Kijevi Állatkert", ro: "Grădina Zoologică din Kiev", en: "Kyiv Zoo",
+image: "/poi-images/ukraine-kyiv-zoo-life-v2.webp"
+},
     coords: [30.4631, 50.4547],
     coordinates: { lat: 50.4547, lng: 30.4631 },
     description: {
@@ -228,11 +395,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1909", "Găzduiește peste 2.000 de animale", "Se întinde pe o suprafață de 34 de hectare", "Membru al rețelei EAZA"],
       en: ["Established in 1909", "Home to over 2,000 animals", "Spans an area of 34 hectares", "Member of the EAZA network"],
     },
-    imageHint: "Kyiv Zoo entrance or animals", image: "/poi-images/ukraine-kyiv-zoo-life-v2.webp"},
-  {
+imageHint: "Kyiv Zoo entrance or animals",
+    descriptionAdvanced: {
+      de: "Der Kiewer Zoo ist einer der größten und ältesten Zoos in Osteuropa. Er dient nicht nur der Unterhaltung, sondern ist ein wichtiges Zentrum für die Erhaltung bedrohter Arten der ukrainischen Fauna.",
+      hu: "Kelet-Európa egyik legnagyobb és legrégebbi állatkertje. A szórakoztatás mellett fontos tudományos központ, amely az ukrán fauna veszélyeztetett fajainak megőrzésén dolgozik.",
+      ro: "Grădina Zoologică din Kiev este una dintre cele mai mari și vechi din Europa de Est. Servește drept centru major de cercetare și conservare pentru speciile pe cale de dispariție din Ucraina.",
+      en: "One of the largest and oldest zoos in Eastern Europe. Beyond recreation, it functions as a critical scientific center for the conservation of endangered species within the Ukrainian fauna.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1909", "Fläche: 34 ha", "Tierarten: ~328", "Tiere insgesamt: >2000"],
+      hu: ["Alapítás éve: 1909", "Területe: 34 hektár", "Állatfajok száma: ~328", "Állatok száma: >2000"],
+      ro: ["Anul fondării: 1909", "Suprafață: 34 hectare", "Specii de animale: ~328", "Număr animale: >2000"],
+      en: ["Established: 1909", "Total area: 34 hectares", "Number of species: ~328", "Total animals: >2,000"],
+    },
+    image: "/poi-images/ukraine-kyiv-zoo-life-v2.webp",
+},  {
     id: "ukraine-gryshko-botanical-life-v2",
     type: "park",
-    name: { de: "Nationaler Botanischer Garten Hryschko", hu: "Grisko Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională Grișko", en: "Gryshko National Botanical Garden" },
+    name: { de: "Nationaler Botanischer Garten Hryschko", hu: "Grisko Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională Grișko", en: "Gryshko National Botanical Garden",
+image: "/poi-images/ukraine-gryshko-botanical-life-v2.webp"
+},
     coords: [30.5636, 50.4139],
     coordinates: { lat: 50.4139, lng: 30.5636 },
     description: {
@@ -247,11 +429,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1935", "Deține una dintre cele mai mari colecții de liliac", "Se întinde pe aproximativ 130 de hectare", "Adăpostește o faimoasă seră tropicală"],
       en: ["Established in 1935", "Has one of the largest lilac collections", "Spans approximately 130 hectares", "Home to a famous tropical greenhouse"],
     },
-    imageHint: "Gryshko Botanical Garden lilac blooming in Kyiv", image: "/poi-images/ukraine-gryshko-botanical-life-v2.webp"},
-  {
+imageHint: "Gryshko Botanical Garden lilac blooming in Kyiv",
+    descriptionAdvanced: {
+      de: "Der am Ufer des Dnipro gelegene Garten ist berühmt für seine Syringarium (Fliedergarten). Er beherbergt Sammlungen aus allen geografischen Zonen der Ukraine und ein beeindruckendes Glashaus-System.",
+      hu: "A Dnyeper partján fekvő kert világhírű orgonagyűjteményéről (sziridárium). Ukrajna minden földrajzi övezetének növényvilágát bemutatja, kiegészülve egy hatalmas üvegház-komplexummal.",
+      ro: "Situată pe malul Niprului, grădina este faimoasă pentru colecția sa de liliac (siringariu). Găzduiește zone tematice ce reprezintă flora din toate regiunile geografice ale Ucrainei.",
+      en: "Located on the banks of the Dnieper, this garden is world-famous for its lilac collection (Syringarium). It features themed displays of flora from all geographic zones of Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1935", "Fläche: 130 ha", "Fliedersorten: ~1500", "Tropenpflanzen im Gewächshaus: >3000"],
+      hu: ["Alapítás éve: 1935", "Területe: 130 hektár", "Orgonafajták száma: ~1500", "Üvegházi növények: >3000"],
+      ro: ["Anul fondării: 1935", "Suprafață: 130 hectare", "Specii de liliac: ~1500", "Plante tropicale (seră): >3000"],
+      en: ["Established: 1935", "Total area: 130 hectares", "Lilac varieties: ~1,500", "Tropical species in greenhouse: >3,000"],
+    },
+    image: "/poi-images/ukraine-gryshko-botanical-life-v2.webp",
+},  {
     id: "ukraine-mykolaiv-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Mykolajiw", hu: "Mikolajivi Állatkert", ro: "Grădina Zoologică din Nikolaev", en: "Mykolaiv Zoo" },
+    name: { de: "Zoo Mykolajiw", hu: "Mikolajivi Állatkert", ro: "Grădina Zoologică din Nikolaev", en: "Mykolaiv Zoo",
+image: "/poi-images/ukraine-mykolaiv-zoo-life-v2.webp"
+},
     coords: [32.0325, 46.9603],
     coordinates: { lat: 46.9603, lng: 32.0325 },
     description: {
@@ -266,11 +463,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1901", "Găzduiește peste 450 de specii de animale", "Membru al asociației mondiale WAZA", "Deține un acvariu mare"],
       en: ["Established in 1901", "Home to over 450 animal species", "Member of the WAZA world association", "Features a large aquarium"],
     },
-    imageHint: "Mykolaiv Zoo entrance and animal enclosures", image: "/poi-images/ukraine-mykolaiv-zoo-life-v2.webp"},
-  {
+imageHint: "Mykolaiv Zoo entrance and animal enclosures",
+    descriptionAdvanced: {
+      de: "Dieser Zoo gilt als einer der besten in der Ukraine und ist Mitglied der WAZA. Seine Geschichte begann 1901 mit einer privaten Aquariensammlung des Bürgermeisters Nikolai Leontowitsch.",
+      hu: "Ukrajna egyik legjobb állatkertje, a WAZA tagja. Története 1901-ben kezdődött Mikola Leontovics polgármester magán akváriumgyűjteményével, amely mára hatalmas komplexummá fejlődött.",
+      ro: "Considerată una dintre cele mai bune grădini zoologice din țară, este membră WAZA. A început în 1901 ca o colecție privată de acvarii a primarului Nikolai Leontovici.",
+      en: "Regarded as one of the top zoos in Ukraine and a member of WAZA. It originated in 1901 from the private aquarium collection of Mayor Nikolai Leontovych and has grown into a major facility.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1901", "Fläche: 18,5 ha", "Tierarten: ~450", "Besucher/Jahr: >200.000"],
+      hu: ["Alapítás éve: 1901", "Területe: 18,5 hektár", "Állatfajok száma: ~450", "Látogatók évente: >200 000"],
+      ro: ["Anul fondării: 1901", "Suprafață: 18,5 hectare", "Specii de animale: ~450", "Vizitatori anual: >200.000"],
+      en: ["Established: 1901", "Total area: 18.5 hectares", "Number of species: ~450", "Annual visitors: >200,000"],
+    },
+    image: "/poi-images/ukraine-mykolaiv-zoo-life-v2.webp",
+},  {
     id: "ukraine-kharkiv-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Charkiwer Zoo", hu: "Harkivi Állatkert", ro: "Grădina Zoologică din Harkov", en: "Kharkiv Zoo" },
+    name: { de: "Charkiwer Zoo", hu: "Harkivi Állatkert", ro: "Grădina Zoologică din Harkov", en: "Kharkiv Zoo",
+image: "/poi-images/ukraine-kharkiv-zoo-life-v2.webp"
+},
     coords: [36.2308, 50.0044],
     coordinates: { lat: 50.0044, lng: 36.2308 },
     description: {
@@ -285,11 +497,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1895", "Prima grădină zoologică din Ucraina", "Se întinde pe o suprafață de 22 de hectare", "Găzduiește peste 400 de specii de animale"],
       en: ["Established in 1895", "First zoo in Ukraine", "Spans an area of 22 hectares", "Home to over 400 animal species"],
     },
-    imageHint: "Kharkiv Zoo modern enclosures", image: "/poi-images/ukraine-kharkiv-zoo-life-v2.webp"},
-  {
+imageHint: "Kharkiv Zoo modern enclosures",
+    descriptionAdvanced: {
+      de: "Der 1895 gegründete Zoo ist der älteste des Landes. Nach einer umfassenden Modernisierung bietet er heute naturnahe Gehege, die nach geografischen Zonen wie 'Afrikanische Savanne' gegliedert sind.",
+      hu: "Az 1895-ben alapított állatkert a legrégebbi Ukrajnában. A közelmúltbeli teljes felújítás után ma modern, földrajzi övezetekre bontott kifutókkal (pl. Afrikai Szavanna) várja a látogatókat.",
+      ro: "Fondată în 1895, este cea mai veche grădină zoologică din țară. După o modernizare radicală, oferă habitate naturale structurate pe zone geografice, precum 'Savana Africană'.",
+      en: "Founded in 1895, this is the oldest zoo in Ukraine. Following a comprehensive modernization, it now features naturalistic habitats divided into geographic zones like 'African Savannah.'",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1895", "Fläche: 22 ha", "Tierarten: ~400", "Vögel: >150 Arten"],
+      hu: ["Alapítás éve: 1895", "Területe: 22 hektár", "Állatfajok száma: ~400", "Madárfajok: >150"],
+      ro: ["Anul fondării: 1895", "Suprafață: 22 hectare", "Specii de animale: ~400", "Specii de păsări: >150"],
+      en: ["Established: 1895", "Total area: 22 hectares", "Number of species: ~400", "Bird species: >150"],
+    },
+    image: "/poi-images/ukraine-kharkiv-zoo-life-v2.webp",
+},  {
     id: "ukraine-oleksandriya-dendropark-life-v2",
     type: "park",
-    name: { de: "Dendropark Oleksandrija", hu: "Olekszandrija dendropark", ro: "Dendroparkul Oleksandria", en: "Oleksandriya Dendropark" },
+    name: { de: "Dendropark Oleksandrija", hu: "Olekszandrija dendropark", ro: "Dendroparkul Oleksandria", en: "Oleksandriya Dendropark",
+image: "/poi-images/ukraine-oleksandriya-dendropark-life-v2.webp"
+},
     coords: [30.0719, 49.8131],
     coordinates: { lat: 49.8131, lng: 30.0719 },
     description: {
@@ -304,11 +531,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1788", "Suprafață de aproximativ 400 de hectare", "Deține peste 2.500 de specii de plante", "A fost fondat de Alexandra von Engelhardt"],
       en: ["Established in 1788", "Area of approximately 400 hectares", "Possesses over 2,500 plant species", "Founded by Alexandra von Engelhardt"],
     },
-    imageHint: "Oleksandriya Dendropark bridges and forest", image: "/poi-images/ukraine-oleksandriya-dendropark-life-v2.webp"},
-  {
+imageHint: "Oleksandriya Dendropark bridges and forest",
+    descriptionAdvanced: {
+      de: "Dieser Park in Bila Tserkva ist eines der größten architektonischen Ensembles der Ukraine. Er wurde im späten 18. Jahrhundert im englischen Stil angelegt und besitzt über 2500 Pflanzenarten.",
+      hu: "A Bila Cerkvában található park Ukrajna egyik legnagyobb tájépítészeti együttese. A 18. század végén angol stílusban alakították ki, és több mint 2500 növényfajjal rendelkezik.",
+      ro: "Situat în Bila Țerkva, este unul dintre cele mai mari ansambluri peisagistice din Ucraina. Creat la sfârșitul secolului XVIII în stil englezesc, deține peste 2500 de specii de plante.",
+      en: "Located in Bila Tserkva, this is one of Ukraine's largest landscape parks. Designed in the English style in the late 18th century, it features a collection of over 2,500 plant species.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1788", "Fläche: 297 ha", "Alleenlänge: >20 km", "Architekt: Muffot"],
+      hu: ["Alapítás éve: 1788", "Területe: 297 hektár", "Sétányok hossza: >20 km", "Építész: Muffot"],
+      ro: ["Anul fondării: 1788", "Suprafață: 297 hectare", "Lungime alei: >20 km", "Arhitect: Muffot"],
+      en: ["Established: 1788", "Total area: 297 hectares", "Total lane length: >20 km", "Main architect: Muffot"],
+    },
+    image: "/poi-images/ukraine-oleksandriya-dendropark-life-v2.webp",
+},  {
     id: "ukraine-nikitsky-botanical-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Nikitsky", hu: "Nyikitszkiji Botanikus Kert", ro: "Grădina Botanică Nikitsky", en: "Nikitsky Botanical Garden" },
+    name: { de: "Botanischer Garten Nikitsky", hu: "Nyikitszkiji Botanikus Kert", ro: "Grădina Botanică Nikitsky", en: "Nikitsky Botanical Garden",
+image: "/poi-images/ukraine-nikitsky-botanical-life-v2.webp"
+},
     coords: [34.2325, 44.5119],
     coordinates: { lat: 44.5119, lng: 34.2325 },
     description: {
@@ -323,11 +565,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1812", "Găzduiește peste 30.000 de specii de plante", "Deține un ierbar important", "Cunoscută pentru expoziția anuală de crizanteme"],
       en: ["Established in 1812", "Home to over 30,000 plant species", "Possesses a significant herbarium", "Famous for the annual chrysanthemum show"],
     },
-    imageHint: "Nikitsky Botanical Garden palms and flowers", image: "/poi-images/ukraine-nikitsky-botanical-life-v2.webp"},
-  {
+imageHint: "Nikitsky Botanical Garden palms and flowers",
+    descriptionAdvanced: {
+      de: "An der Südküste der Krim gelegen, ist dieser Garten für seine Sammlungen subtropischer Pflanzen weltbekannt. Er ist eine der ältesten wissenschaftlichen Einrichtungen für Botanik und Obstbau.",
+      hu: "A Krím déli partján fekvő kert világhírű szubtrópusi növénygyűjteményéről. Európa egyik legrégebbi botanikai kutatóállomása, híres gyümölcs- és rózsakiállításairól.",
+      ro: "Situată pe coasta de sud a Crimeii, această grădină este celebră pentru colecțiile sale de plante subtropicale. Este una dintre cele mai vechi instituții de cercetare botanică din regiune.",
+      en: "Situated on the southern coast of Crimea, this garden is world-renowned for its subtropical plant collections. It is one of the oldest botanical and pomological research institutions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1812", "Fläche: ~1100 ha", "Pflanzenarten: >30.000", "Rosensorten: >2000"],
+      hu: ["Alapítás éve: 1812", "Területe: ~1100 hektár", "Növényfajok/fajták: >30 000", "Rózsafajták: >2000"],
+      ro: ["Anul fondării: 1812", "Suprafață: ~1100 hectare", "Specii/soiuri de plante: >30.000", "Soiuri de trandafiri: >2000"],
+      en: ["Established: 1812", "Total area: ~1,100 hectares", "Plant species/varieties: >30,000", "Rose varieties: >2,000"],
+    },
+    image: "/poi-images/ukraine-nikitsky-botanical-life-v2.webp",
+},  {
     id: "ukraine-desniansko-starohutskyi-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Desnjansko-Starohutskyj", hu: "Desznyanszko-Sztarohutszkiji Nemzeti Park", ro: "Parcul Național Desniansko-Starohutski", en: "Desniansko-Starohutskyi National Nature Park" },
+    name: { de: "Nationalpark Desnjansko-Starohutskyj", hu: "Desznyanszko-Sztarohutszkiji Nemzeti Park", ro: "Parcul Național Desniansko-Starohutski", en: "Desniansko-Starohutskyi National Nature Park",
+image: "/poi-images/ukraine-desniansko-starohutskyi-life-v2.webp"
+},
     coords: [33.3719, 52.3325],
     coordinates: { lat: 52.3325, lng: 33.3719 },
     description: {
@@ -342,11 +599,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1999", "Parte a rezervației transfrontaliere Briansk", "Habitat important pentru elani și râși", "Cuprinde aproximativ 17.000 de hectare"],
       en: ["Established in 1999", "Part of the cross-border Bryansk reserve", "Important habitat for elk and lynx", "Spans approximately 17,000 hectares"],
     },
-    imageHint: "Desna River floodplains and forest", image: "/poi-images/ukraine-desniansko-starohutskyi-life-v2.webp"},
-  {
+imageHint: "Desna River floodplains and forest",
+    descriptionAdvanced: {
+      de: "Der Park im Nordosten schützt die einzigartigen Auenlandschaften der Desna. Er ist Teil eines grenzüberschreitenden Reservats und beherbergt Elche sowie seltene Wasservögel in seinen Feuchtgebieten.",
+      hu: "Az ország északkeleti részén fekvő park a Gyeszna folyó ártereit védi. Egy határ menti rezervátum része, ahol jávorszarvasok és ritka vízimadarak élnek a mocsaras területeken.",
+      ro: "Situat în nord-est, parcul protejează luncile unice ale râului Desna. Face parte dintr-o rezervație transfrontalieră, fiind habitat pentru elani și păsări rare de apă.",
+      en: "Located in the northeast, this park protects the unique floodplains of the Desna River. It is part of a transboundary reserve, providing habitat for moose and rare wetland birds.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1999", "Fläche: 16.215 ha", "Vogelarten: 212", "Säugetiere: 52 Arten"],
+      hu: ["Alapítás éve: 1999", "Területe: 16 215 hektár", "Madárfajok száma: 212", "Emlősfajok: 52"],
+      ro: ["Anul fondării: 1999", "Suprafață: 16.215 hectare", "Specii de păsări: 212", "Specii de mamifere: 52"],
+      en: ["Established: 1999", "Total area: 16,215 hectares", "Bird species: 212", "Mammal species: 52"],
+    },
+    image: "/poi-images/ukraine-desniansko-starohutskyi-life-v2.webp",
+},  {
     id: "ukraine-lower-dniester-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Nature Park" },
+    name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Nature Park",
+image: "/poi-images/ukraine-lower-dniester-life-v2.webp"
+},
     coords: [30.2019, 46.4714],
     coordinates: { lat: 46.4714, lng: 30.2019 },
     description: {
@@ -361,11 +633,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2008", "Sit Ramsar de importanță internațională", "Adăpostește peste 200 de specii de păsări", "Suprafață de 21.000 de hectare"],
       en: ["Established in 2008", "Ramsar wetland of international importance", "Home to over 200 bird species", "Spans an area of 21,000 hectares"],
     },
-    imageHint: "Dniester Delta wetlands and reeds", image: "/poi-images/ukraine-lower-dniester-life-v2.webp"},
-  {
+imageHint: "Dniester Delta wetlands and reeds",
+    descriptionAdvanced: {
+      de: "Dieses Schutzgebiet im Dnister-Delta ist ein Paradies für Ornithologen. Das Labyrinth aus Kanälen und Seen dient als wichtiger Rastplatz für Millionen von Vögeln auf ihrer Wanderung entlang des Schwarzen Meeres.",
+      hu: "A Dnyeszter-deltában található terület az ornitológusok paradicsoma. Csatornák és tavak labirintusa, amely madarak millióinak nyújt pihenőhelyet a fekete-tengeri vonulási útvonalon.",
+      ro: "Situată în Delta Nistrului, această zonă protejată este un paradis ornitologic. Labirintul de canale și lacuri servește ca loc de popas pentru milioane de păsări migratoare.",
+      en: "Located in the Dniester Delta, this protected area is an ornithological paradise. Its maze of channels and lakes serves as a vital stopover for millions of birds migrating along the Black Sea.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2008", "Fläche: 21.311 ha", "Fischarten: >70", "Vogelarten: 254"],
+      hu: ["Alapítás éve: 2008", "Területe: 21 311 hektár", "Halfajok száma: >70", "Madárfajok száma: 254"],
+      ro: ["Anul fondării: 2008", "Suprafață: 21.311 hectare", "Specii de pești: >70", "Specii de păsări: 254"],
+      en: ["Established: 2008", "Total area: 21,311 hectares", "Fish species: >70", "Bird species: 254"],
+    },
+    image: "/poi-images/ukraine-lower-dniester-life-v2.webp",
+},  {
     id: "ukraine-ichnianskyi-life-v2",
     type: "park",
-    name: { de: "Nationalpark Itchnja", hu: "Icsnyanszkiji Nemzeti Park", ro: "Parcul Național Icnea", en: "Ichnianskyi National Nature Park" },
+    name: { de: "Nationalpark Itchnja", hu: "Icsnyanszkiji Nemzeti Park", ro: "Parcul Național Icnea", en: "Ichnianskyi National Nature Park",
+image: "/poi-images/ukraine-ichnianskyi-life-v2.webp"
+},
     coords: [32.2814, 50.8019],
     coordinates: { lat: 50.8019, lng: 32.2814 },
     description: {
@@ -380,11 +667,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2004", "Protejează peisaje mlăștinoase rare", "Adăpostește peste 50 de specii de mamifere", "Cuprinde aproximativ 9.700 de hectare"],
       en: ["Established in 2004", "Protects rare marsh landscapes", "Home to over 50 mammal species", "Spans approximately 9,700 hectares"],
     },
-    imageHint: "Ichnianskyi Park forest and river", image: "/poi-images/ukraine-ichnianskyi-life-v2.webp"},
-  {
+imageHint: "Ichnianskyi Park forest and river",
+    descriptionAdvanced: {
+      de: "Der Park bewahrt die Waldsteppenlandschaft der Region Tschernihiw. Er ist bekannt für seine Eichen- und Kiefernwälder sowie die malerischen Täler der Flüsse Udaj und Ichenka.",
+      hu: "A Csernyihivi terület erdős sztyeppei táját őrzi. Híres tölgyes és fenyves erdőiről, valamint az Udaj és Icsonka folyók völgyének festői mocsárvidékeiről.",
+      ro: "Parcul conservă peisajele de silvostepă din regiunea Cernihiv. Este cunoscut pentru pădurile sale de stejar și pin, precum și pentru văile pitorești ale râurilor Udai și Icinka.",
+      en: "This park preserves the forest-steppe landscapes of the Chernihiv region. It is notable for its oak and pine forests, as well as the scenic valleys of the Udai and Ichenka rivers.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2004", "Fläche: 9.665 ha", "Eichenalter: bis 300 Jahre", "Pflanzenarten: ~600"],
+      hu: ["Alapítás éve: 2004", "Területe: 9 665 hektár", "Tölgyek kora: akár 300 év", "Növényfajok száma: ~600"],
+      ro: ["Anul fondării: 2004", "Suprafață: 9.665 hectare", "Vârsta stejarilor: până la 300 ani", "Specii de plante: ~600"],
+      en: ["Established: 2004", "Total area: 9,665 hectares", "Oak tree age: up to 300 years", "Plant species: ~600"],
+    },
+    image: "/poi-images/ukraine-ichnianskyi-life-v2.webp",
+},  {
     id: "ukraine-pyriatynskyi-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Pyrjatyn", hu: "Pirjatinszkiji Nemzeti Park", ro: "Parcul Național Pîreatin", en: "Pyriatynskyi National Nature Park" },
+    name: { de: "Nationalpark Pyrjatyn", hu: "Pirjatinszkiji Nemzeti Park", ro: "Parcul Național Pîreatin", en: "Pyriatynskyi National Nature Park",
+image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp"
+},
     coords: [32.5014, 50.2322],
     coordinates: { lat: 50.2322, lng: 32.5014 },
     description: {
@@ -399,11 +701,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Adăpostește peste 150 de specii de păsări", "Protejează păduri de luncă rare", "Suprafață de aproximativ 12.000 de hectare"],
       en: ["Established in 2009", "Home to over 150 bird species", "Protects rare floodplain forests", "Area of approximately 12,000 hectares"],
     },
-    imageHint: "Udai River floodplains in Pyriatynskyi Park", image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp"},
-  {
+imageHint: "Udai River floodplains in Pyriatynskyi Park",
+    descriptionAdvanced: {
+      de: "Dieser Park in der Region Poltawa schützt die ökologische Vielfalt des Udaj-Tals. Die Auenwälder und Schilfgebiete sind ein wichtiger Lebensraum für Reiher und andere Wasservögel.",
+      hu: "A Poltavai területen fekvő park az Udaj folyó völgyének ökológiai sokszínűségét védi. Ártéri erdői és nádasai fontos élőhelyet biztosítanak gémek és más vízi madarak számára.",
+      ro: "Situat în regiunea Poltava, parcul protejează diversitatea ecologică a văii râului Udai. Pădurile de luncă și mlaștinile sunt habitate esențiale pentru stârci și alte păsări.",
+      en: "Located in the Poltava region, this park protects the ecological diversity of the Udai River valley. Its floodplains and reed beds are key habitats for herons and other waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2009", "Fläche: 12.028 ha", "Vogelarten: 154", "Säugetiere: 30 Arten"],
+      hu: ["Alapítás éve: 2009", "Területe: 12 028 hektár", "Madárfajok száma: 154", "Emlősfajok: 30"],
+      ro: ["Anul fondării: 2009", "Suprafață: 12.028 hectare", "Specii de păsări: 154", "Specii de mamifere: 30"],
+      en: ["Established: 2009", "Total area: 12,028 hectares", "Bird species: 154", "Mammal species: 30"],
+    },
+    image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp",
+},  {
     id: "ukraine-homilshanski-lisy-life-v2",
     type: "forest",
-    name: { de: "Nationalpark Homilschanski Lisy", hu: "Homilsanszki Liszi Nemzeti Park", ro: "Parcul Național Homilșanski Lisî", en: "Homilshanski Lisy National Nature Park" },
+    name: { de: "Nationalpark Homilschanski Lisy", hu: "Homilsanszki Liszi Nemzeti Park", ro: "Parcul Național Homilșanski Lisî", en: "Homilshanski Lisy National Nature Park",
+image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp"
+},
     coords: [36.3019, 49.6014],
     coordinates: { lat: 49.6014, lng: 36.3019 },
     description: {
@@ -418,11 +735,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Unii stejari au o vechime de peste 400 de ani", "Fondat în anul 2004", "Cuprinde aproximativ 14.000 de hectare", "Adăpostește specii rare de orhidee"],
       en: ["Some oaks are over 400 years old", "Established in 2004", "Spans approximately 14,000 hectares", "Home to rare orchid species"],
     },
-    imageHint: "Ancient oak forest in Homilshanski Lisy", image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp"},
-  {
+imageHint: "Ancient oak forest in Homilshanski Lisy",
+    descriptionAdvanced: {
+      de: "Dieses Waldgebiet am Siwerskyj Donez beherbergt jahrhundertealte Eichenhaine. Es ist eine der ökologisch wertvollsten Zonen der Ostukraine mit einer hohen Konzentration seltener Insekten und Fledermäuse.",
+      hu: "A Szeverszkij Donyec menti erdőség évszázados tölgyeseknek ad otthont. Kelet-Ukrajna egyik legértékesebb ökológiai zónája, ahol kiemelkedő a ritka rovarok és denevérek populációja.",
+      ro: "Această zonă forestieră de pe Doneț adăpostește dumbrăvi de stejar seculari. Este una dintre cele mai valoroase zone ecologice din estul Ucrainei, cu o densitate mare de insecte rare.",
+      en: "This forested area along the Siverskyi Donets River hosts centuries-old oak groves. It is one of Eastern Ukraine's most ecologically valuable zones, with high insect and bat diversity.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2004", "Fläche: 14.314 ha", "Eichenalter: bis 600 Jahre", "Käferarten: >1000"],
+      hu: ["Alapítás éve: 2004", "Területe: 14 314 hektár", "Tölgyek kora: akár 600 év", "Bogárfajok száma: >1000"],
+      ro: ["Anul fondării: 2004", "Suprafață: 14.314 hectare", "Vârsta stejarilor: până la 600 ani", "Specii de gândaci: >1000"],
+      en: ["Established: 2004", "Total area: 14,314 hectares", "Oak tree age: up to 600 years", "Beetle species: >1,000"],
+    },
+    image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp",
+},  {
     id: "ukraine-holy-mountains-life-v2",
     type: "landmark",
-    name: { de: "Nationalpark Heilige Berge", hu: "Szvjati Hori Nemzeti Park", ro: "Parcul Național Munții Sfinți", en: "Holy Mountains National Nature Park" },
+    name: { de: "Nationalpark Heilige Berge", hu: "Szvjati Hori Nemzeti Park", ro: "Parcul Național Munții Sfinți", en: "Holy Mountains National Nature Park",
+image: "/poi-images/ukraine-holy-mountains-life-v2.webp"
+},
     coords: [37.5714, 49.0319],
     coordinates: { lat: 49.0319, lng: 37.5714 },
     description: {
@@ -437,11 +769,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1997", "Adăpostește peste 900 de specii de plante", "Suprafață de 40.000 de hectare", "Stâncile de cretă domină râul Doneț"],
       en: ["Established in 1997", "Home to over 900 plant species", "Area of 40,000 hectares", "Chalk cliffs tower over the Donets River"],
     },
-    imageHint: "Holy Mountains chalk cliffs and monastery", image: "/poi-images/ukraine-holy-mountains-life-v2.webp"},
-  {
+imageHint: "Holy Mountains chalk cliffs and monastery",
+    descriptionAdvanced: {
+      de: "Berühmt für seine Kreidefelsen am Ufer des Donez, kombiniert der Park Naturreichtum mit kulturellem Erbe. Inmitten dichter Wälder liegt das bedeutende Höhlenkloster Swjatohirsk.",
+      hu: "A Donyec partján magasodó krétahegyeiről híres park a természetet és a kultúrát ötvözi. Sűrű erdők mélyén található itt a neves Szvjatohirszki barlangkolostor.",
+      ro: "Faimos pentru stâncile de cretă de pe malul Donețului, parcul îmbină natura cu patrimoniul cultural. Găzduiește mănăstirea rupestră Sviatohirsk, înconjurată de păduri dense.",
+      en: "Famous for its chalk cliffs along the Donets River, this park blends natural beauty with cultural heritage. It is home to the Sviatohirsk Lavra, an Orthodox cave monastery.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1997", "Fläche: 40.589 ha", "Pflanzenarten: 943", "Kreidefelsen-Höhe: bis 100 m"],
+      hu: ["Alapítás éve: 1997", "Területe: 40 589 hektár", "Növényfajok száma: 943", "Krétahegyek magassága: 100 m"],
+      ro: ["Anul fondării: 1997", "Suprafață: 40.589 hectare", "Specii de plante: 943", "Înălțime stânci: până la 100 m"],
+      en: ["Established: 1997", "Total area: 40,589 hectares", "Vascular plant species: 943", "Chalk cliff height: up to 100 m"],
+    },
+    image: "/poi-images/ukraine-holy-mountains-life-v2.webp",
+},  {
     id: "ukraine-biloozerskyi-life-v2",
     type: "forest",
-    name: { de: "Nationalpark Biloozerskyj", hu: "Biloozerszkiji Nemzeti Park", ro: "Parcul Național Biloozerski", en: "Biloozerskyi National Nature Park" },
+    name: { de: "Nationalpark Biloozerskyj", hu: "Biloozerszkiji Nemzeti Park", ro: "Parcul Național Biloozerski", en: "Biloozerskyi National Nature Park",
+image: "/poi-images/ukraine-biloozerskyi-life-v2.webp"
+},
     coords: [31.4519, 49.9014],
     coordinates: { lat: 49.9014, lng: 31.4519 },
     description: {
@@ -456,11 +803,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Loc important pentru cercetare forestieră", "Adăpostește păsări de pradă rare", "Suprafață de aproximativ 7.000 de hectare"],
       en: ["Established in 2009", "Important site for forestry research", "Home to rare birds of prey", "Area of approximately 7,000 hectares"],
     },
-    imageHint: "Biloozerskyi Park pine forest", image: "/poi-images/ukraine-biloozerskyi-life-v2.webp"},
-  {
+imageHint: "Biloozerskyi Park pine forest",
+    descriptionAdvanced: {
+      de: "An der Grenze der Regionen Kiew und Tscherkassy gelegen, schützt dieser Park ausgedehnte Kiefern- und Laubwälder. Er dient als wichtiges Erholungsgebiet und Lebensraum für Rotwild.",
+      hu: "A Kijevi és Cserkaszi területek határán fekvő park kiterjedt fenyveseket és lombhullató erdőket véd. Fontos rekreációs övezet és jelentős szarvasállomány élőhelye.",
+      ro: "Situat la granița regiunilor Kiev și Cerkasî, parcul protejează păduri vaste de pini și foioase. Servește ca zonă de recreere și habitat important pentru cerbi.",
+      en: "Spanning the Kyiv and Cherkasy regions, this park protects expansive pine and deciduous forests. It serves as a vital recreational area and a key habitat for red deer and wild boar.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2009", "Fläche: 7.014 ha", "Säugetiere: 25 Arten", "Vögel: 110 Arten"],
+      hu: ["Alapítás éve: 2009", "Területe: 7 014 hektár", "Emlősfajok: 25", "Madárfajok: 110"],
+      ro: ["Anul fondării: 2009", "Suprafață: 7.014 hectare", "Specii de mamifere: 25", "Specii de păsări: 110"],
+      en: ["Established: 2009", "Total area: 7,014 hectares", "Mammal species: 25", "Bird species: 110"],
+    },
+    image: "/poi-images/ukraine-biloozerskyi-life-v2.webp",
+},  {
     id: "ukraine-zalissia-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Salissja", hu: "Zalisszja Nemzeti Park", ro: "Parcul Național Zalissia", en: "Zalissia National Nature Park" },
+    name: { de: "Nationalpark Salissja", hu: "Zalisszja Nemzeti Park", ro: "Parcul Național Zalissia", en: "Zalissia National Nature Park",
+image: "/poi-images/ukraine-zalissia-life-v2.webp"
+},
     coords: [30.8619, 50.6714],
     coordinates: { lat: 50.6714, lng: 30.8619 },
     description: {
@@ -475,11 +837,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Cuprinde peste 14.000 de hectare", "Loc important pentru reintroducerea zimbrilor", "Constă în principal din păduri mixte de pini"],
       en: ["Established in 2009", "Spans over 14,000 hectares", "Important site for European bison reintroduction", "Consists mainly of mixed pine forests"],
     },
-    imageHint: "European bison in Zalissia forest", image: "/poi-images/ukraine-zalissia-life-v2.webp"},
-  {
+imageHint: "European bison in Zalissia forest",
+    descriptionAdvanced: {
+      de: "Zalissia ist ein ehemaliges staatliches Jagdrevier, das heute als Nationalpark dient. Es beherbergt eine der wenigen Wisent-Herden der Ukraine in einem weitläufigen, geschlossenen Waldgebiet.",
+      hu: "Zalisszja korábban állami vadászterület volt, ma nemzeti parkként működik. Egyike azon kevés helyeknek Ukrajnában, ahol európai bölények élnek szabadon a hatalmas erdőségben.",
+      ro: "Fost domeniu de vânătoare de stat, Zalissia este acum parc național. Găzduiește una dintre puținele turme de zimbri din Ucraina, într-un masiv forestier compact.",
+      en: "Formerly a state hunting ground, Zalissia is now a national park. It hosts one of Ukraine's few herds of European bison within its vast and largely enclosed forest massif.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2009", "Fläche: 14.836 ha", "Wisent-Population: ~25", "Waldanteil: 80%"],
+      hu: ["Alapítás éve: 2009", "Területe: 14 836 hektár", "Bölényállomány: ~25", "Erdőborítottság: 80%"],
+      ro: ["Anul fondării: 2009", "Suprafață: 14.836 hectare", "Populație zimbri: ~25", "Procent pădure: 80%"],
+      en: ["Established: 2009", "Total area: 14,836 hectares", "Bison population: ~25", "Forested area: 80%"],
+    },
+    image: "/poi-images/ukraine-zalissia-life-v2.webp",
+},  {
     id: "ukraine-bugs-guard-life-v2",
     type: "river",
-    name: { de: "Nationalpark Buzkyj Hard", hu: "Buzkij Hard Nemzeti Park", ro: "Parcul Național Buzki Hard", en: "National Nature Park Bug's Guard" },
+    name: { de: "Nationalpark Buzkyj Hard", hu: "Buzkij Hard Nemzeti Park", ro: "Parcul Național Buzki Hard", en: "National Nature Park Bug's Guard",
+image: "/poi-images/ukraine-bugs-guard-life-v2.webp"
+},
     coords: [31.0219, 47.9514],
     coordinates: { lat: 47.9514, lng: 31.0219 },
     description: {
@@ -494,11 +871,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Una dintre cele șapte minuni naturale ale Ucrainei", "Destinație populară pentru rafting", "Adăpostește specii de plante endemice rare"],
       en: ["Established in 2009", "One of the Seven Natural Wonders of Ukraine", "Popular destination for rafting", "Home to rare endemic plant species"],
     },
-    imageHint: "Southern Bug river canyon and granite rocks", image: "/poi-images/ukraine-bugs-guard-life-v2.webp"},
-  {
+imageHint: "Southern Bug river canyon and granite rocks",
+    descriptionAdvanced: {
+      de: "Der Park schützt das Canyon-Tal des Südlichen Bug mit seinen spektakulären Granitfelsen. Er ist ein Hotspot für Endemiten und ein beliebtes Ziel für Wildwasser-Rafting.",
+      hu: "A park a Déli-Bug folyó szurdokvölgyét védi látványos gránitsziklákkal. A terület az endemikus növényfajok forrópontja és a vadvízi evezősök kedvelt célpontja.",
+      ro: "Parcul protejează valea de tip canion a Bugului de Sud, cu spectaculoase aflorimente de granit. Este un hotspot pentru specii endemice și o destinație populară pentru rafting.",
+      en: "This park protects the canyon valley of the Southern Bug River and its dramatic granite formations. It is a hotspot for endemic flora and a major destination for whitewater rafting.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2006", "Fläche: 6.138 ha", "Endemische Pflanzen: 27", "Canyon-Alter: >4 Mio. Jahre"],
+      hu: ["Alapítás éve: 2006", "Területe: 6 138 hektár", "Endemikus növények: 27", "Kanyon kora: >4 millió év"],
+      ro: ["Anul fondării: 2006", "Suprafață: 6.138 hectare", "Plante endemice: 27", "Vârsta canionului: >4 mil. ani"],
+      en: ["Established: 2006", "Total area: 6,138 hectares", "Endemic plant species: 27", "Canyon age: >4 million years"],
+    },
+    image: "/poi-images/ukraine-bugs-guard-life-v2.webp",
+},  {
     id: "ukraine-skolivski-beskydy-life-v2",
     type: "park",
-    name: { de: "Nationalpark Skoler Beskiden", hu: "Szkolei-Beszkidek Nemzeti Park", ro: "Parcul Național Beskizii Skolei", en: "Skolivski Beskydy National Nature Park" },
+    name: { de: "Nationalpark Skoler Beskiden", hu: "Szkolei-Beszkidek Nemzeti Park", ro: "Parcul Național Beskizii Skolei", en: "Skolivski Beskydy National Nature Park",
+image: "/poi-images/ukraine-skolivski-beskydy-life-v2.webp"
+},
     coords: [23.4019, 49.0322],
     coordinates: { lat: 49.0322, lng: 23.4019 },
     description: {
@@ -513,11 +905,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1999", "Cuprinde aproximativ 35.000 de hectare", "Adăpostește zimbri și urși bruni", "Include masivul stâncos istoric Tusthan"],
       en: ["Established in 1999", "Spans approximately 35,000 hectares", "Home to European bison and brown bears", "Includes the historical Tusthan rock fortress"],
     },
-    imageHint: "Skolivski Beskydy waterfall and mountains", image: "/poi-images/ukraine-skolivski-beskydy-life-v2.webp"},
-  {
+imageHint: "Skolivski Beskydy waterfall and mountains",
+    descriptionAdvanced: {
+      de: "Dieser Park in den Waldkarpaten schützt wertvolle Tannen- und Buchenwälder. Er ist bekannt für seine Wasserfälle, wie den Kamjanka, und als Lebensraum für den seltenen europäischen Wisent.",
+      hu: "Az Erdős-Kárpátokban fekvő park értékes jegenyefenyveseket és bükkösöket véd. Híres vízeséseiről, mint a Kamjanka, valamint az európai bölények egyik fontos élőhelye.",
+      ro: "Situat în Carpații Orientali, parcul protejează păduri valoroase de brad și fag. Este cunoscut pentru cascadele sale, precum Kamianka, și pentru reintroducerea zimbrului.",
+      en: "Located in the Skole Beskids of the Carpathians, this park protects ancient fir and beech forests. It is famous for the Kamianka waterfall and for hosting a European bison population.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1999", "Fläche: 35.684 ha", "Höchster Berg: Paraschka (1268 m)", "Wisent-Projekt seit 2009"],
+      hu: ["Alapítás éve: 1999", "Területe: 35 684 hektár", "Legmagasabb csúcs: Paraska (1268 m)", "Bölény-projekt kezdete: 2009"],
+      ro: ["Anul fondării: 1999", "Suprafață: 35.684 hectare", "Vârful Parasca: 1268 m", "Proiect zimbri: din 2009"],
+      en: ["Established: 1999", "Total area: 35,684 hectares", "Highest peak: Parashka (1,268 m)", "Bison reintroduction: since 2009"],
+    },
+    image: "/poi-images/ukraine-skolivski-beskydy-life-v2.webp",
+},  {
     id: "ukraine-azov-syvash-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Asow-Sywasch", hu: "Azovi-Szivas Nemzeti Park", ro: "Parcul Național Azov-Sivaș", en: "Azov-Syvash National Nature Park" },
+    name: { de: "Nationalpark Asow-Sywasch", hu: "Azovi-Szivas Nemzeti Park", ro: "Parcul Național Azov-Sivaș", en: "Azov-Syvash National Nature Park",
+image: "/poi-images/ukraine-azov-syvash-life-v2.webp"
+},
     coords: [34.6019, 46.1014],
     coordinates: { lat: 46.1014, lng: 34.6019 },
     description: {
@@ -532,11 +939,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1993", "Adăpostește cerbi și culani", "Cuprinde peste 52.000 de hectare", "Sivaș este cunoscut sub numele de 'Marea Putredă'"],
       en: ["Established in 1993", "Home to deer and kulans", "Spans over 52,000 hectares", "Syvash is known as the 'Rotten Sea'"],
     },
-    imageHint: "Azov-Syvash coastal landscape with deer", image: "/poi-images/ukraine-azov-syvash-life-v2.webp"},
-  {
+imageHint: "Azov-Syvash coastal landscape with deer",
+    descriptionAdvanced: {
+      de: "Der Park umfasst die Insel Byrjutschyj und Teile des Sywasch-Meeres. Diese Küstenlandschaft ist berühmt für ihre großen Herden von Hirschen und Mufflons, die in der Steppe leben.",
+      hu: "A park a Birjucsij-szigetet és a Szivas-tenger részeit foglalja magában. A tengerparti táj híres a sztyeppén élő hatalmas szarvas- és mufloncsordáiról.",
+      ro: "Parcul cuprinde insula Biriucii și porțiuni din limanul Sivaș. Peisajul de coastă este renumit pentru turmele mari de cerbi și mufloni care trăiesc în stepa marină.",
+      en: "Covering Byriuchyi Island and parts of the Syvash lagoons, this park protects a unique coastal steppe. It is famous for its large wild populations of deer, kulans, and mouflons.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1993", "Fläche: 52.154 ha", "Vogelarten: >250", "Hirsch-Population: >1000"],
+      hu: ["Alapítás éve: 1993", "Területe: 52 154 hektár", "Madárfajok száma: >250", "Szarvasok száma: >1000"],
+      ro: ["Anul fondării: 1993", "Suprafață: 52.154 hectare", "Specii de păsări: >250", "Populație de cerbi: >1000"],
+      en: ["Established: 1993", "Total area: 52,154 hectares", "Bird species: >250", "Red deer population: >1,000"],
+    },
+    image: "/poi-images/ukraine-azov-syvash-life-v2.webp",
+},  {
     id: "ukraine-meotida-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Meotida", hu: "Meotida Nemzeti Park", ro: "Parcul Național Meotida", en: "Meotida National Nature Park" },
+    name: { de: "Nationalpark Meotida", hu: "Meotida Nemzeti Park", ro: "Parcul Național Meotida", en: "Meotida National Nature Park",
+image: "/poi-images/ukraine-meotida-life-v2.webp"
+},
     coords: [37.3019, 47.1014],
     coordinates: { lat: 47.1014, lng: 37.3019 },
     description: {
@@ -551,11 +973,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Cel mai important loc de cuibărit pentru chirighițe", "Cuprinde aproximativ 13.000 de hectare", "Protejează fauna de coastă rară"],
       en: ["Established in 2009", "Most important nesting site for Sandwich terns", "Spans approximately 13,000 hectares", "Protects rare coastal fauna"],
     },
-    imageHint: "Meotida sandbars and seagulls", image: "/poi-images/ukraine-meotida-life-v2.webp"},
-  {
+imageHint: "Meotida sandbars and seagulls",
+    descriptionAdvanced: {
+      de: "Am Ufer des Asowschen Meeres gelegen, ist dieser Park ein Refugium für Küstenvögel. Er schützt die einzigartigen Nehrungen und Küstenseen, wo Tausende von Pelikanen und Möwen brüten.",
+      hu: "Az Azovi-tenger partján fekvő park a tengerparti madarak menedéke. Különleges turzásokat és lagúnákat véd, ahol pelikánok és sirályok ezrei fészkelnek.",
+      ro: "Situat pe malul Mării Azov, parcul este un refugiu pentru păsările de coastă. Protejează grindurile marine unde mii de pelicani și pescăruși își construiesc cuiburile.",
+      en: "Situated along the Sea of Azov, this park is a sanctuary for coastal birds. it protects unique sand spits and lagoons where thousands of pelicans, gulls, and terns breed annually.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2009", "Fläche: 13.017 ha", "Brutpaare: >50.000", "Pflanzenarten: ~600"],
+      hu: ["Alapítás éve: 2009", "Területe: 13 017 hektár", "Fészkelő párok: >50 000", "Növényfajok száma: ~600"],
+      ro: ["Anul fondării: 2009", "Suprafață: 13.017 hectare", "Perechi cuibăritoare: >50.000", "Specii de plante: ~600"],
+      en: ["Established: 2009", "Total area: 13,017 hectares", "Nesting pairs: >50,000", "Vascular plant species: ~600"],
+    },
+    image: "/poi-images/ukraine-meotida-life-v2.webp",
+},  {
     id: "ukraine-pripyat-stokhid-life-v2",
     type: "wildlife",
-    name: { de: "Nationalpark Prypjat-Stochid", hu: "Pripjaty-Sztohid Nemzeti Park", ro: "Parcul Național Pripeat-Stohid", en: "Pripyat-Stokhid National Nature Park" },
+    name: { de: "Nationalpark Prypjat-Stochid", hu: "Pripjaty-Sztohid Nemzeti Park", ro: "Parcul Național Pripeat-Stohid", en: "Pripyat-Stokhid National Nature Park",
+image: "/poi-images/ukraine-pripyat-stokhid-life-v2.webp"
+},
     coords: [25.5019, 51.8314],
     coordinates: { lat: 51.8314, lng: 25.5019 },
     description: {
@@ -570,11 +1007,26 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2007", "Supranumit adesea 'Amazonia ucraineană'", "Adăpostește specii rare de păsări de apă", "Cuprinde aproximativ 39.000 de hectare"],
       en: ["Established in 2007", "Often referred to as 'Ukrainian Amazonia'", "Home to rare waterfowl species", "Spans approximately 39,000 hectares"],
     },
-    imageHint: "Pripyat River wetlands and marshes", image: "/poi-images/ukraine-pripyat-stokhid-life-v2.webp"},
-  {
+imageHint: "Pripyat River wetlands and marshes",
+    descriptionAdvanced: {
+      de: "Dieses Labyrinth aus Flüssen und Seen im Norden wird oft als 'ukrainisches Amazonien' bezeichnet. Es schützt eines der am besten erhaltenen Feuchtgebietssysteme Mitteleuropas.",
+      hu: "Észak-Ukrajna folyóinak és tavainak labirintusa, amelyet gyakran 'ukrán Amazóniának' neveznek. Közép-Európa egyik legjobban megőrzött mocsárvidéki ökoszisztémáját védi.",
+      ro: "Acest labirint de râuri și lacuri din nord este adesea supranumit 'Amazonia ucraineană'. Protejează unul dintre cele mai bine conservate sisteme de mlaștini din Europa Centrală.",
+      en: "A vast labyrinth of rivers and lakes in northern Ukraine, often called the 'Ukrainian Amazon.' it protects one of Central Europe's best-preserved wetland ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2007", "Fläche: 39.315 ha", "Flüsse: Pripjat & Stokhid", "Vogelarten: 220"],
+      hu: ["Alapítás éve: 2007", "Területe: 39 315 hektár", "Fő folyók: Pripjaty és Sztohid", "Madárfajok száma: 220"],
+      ro: ["Anul fondării: 2007", "Suprafață: 39.315 hectare", "Râuri: Pripeat și Stokhid", "Specii de păsări: 220"],
+      en: ["Established: 2007", "Total area: 39,315 hectares", "Main rivers: Pripyat and Stokhid", "Bird species: 220"],
+    },
+    image: "/poi-images/ukraine-pripyat-stokhid-life-v2.webp",
+},  {
     id: "ukraine-podesinnia-life-v2",
     type: "wildlife",
-    name: { de: "Landschaftspark Podesinnja", hu: "Podeszinnya tájképi park", ro: "Parcul Peisagistic Podesinnia", en: "Podesinnia Regional Landscape Park" },
+    name: { de: "Landschaftspark Podesinnja", hu: "Podeszinnya tájképi park", ro: "Parcul Peisagistic Podesinnia", en: "Podesinnia Regional Landscape Park",
+image: "/poi-images/ukraine-podesinnia-life-v2.webp"
+},
     coords: [31.0019, 51.3514],
     coordinates: { lat: 51.3514, lng: 31.0019 },
     description: {

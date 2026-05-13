@@ -7,7 +7,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-16",
     coords: [34.5, -2.33],
-    name: { de: "Serengeti-Habitat", hu: "Serengeti élőhely", ro: "Habitat Serengeti", en: "Serengeti Habitat" },
+    name: { de: "Serengeti-Habitat", hu: "Serengeti élőhely", ro: "Habitat Serengeti", en: "Serengeti Habitat",
+image: "/poi-images/serengeti-habitat-life-v2.webp"
+},
     description: { de: "Ein weltberühmtes Wildtiergebiet.", hu: "Világhírű vadvilági terület.", ro: "O zonă de faună sălbatică de renume mondial.", en: "A world-famous wildlife area." },
     facts: {
       de: ["Bekannt für die große Migration.", "Heimat von Löwen und Gnus.", "Bietet weite Graslandschaften.", "Ein Ökosystem der Superlative."],
@@ -33,7 +35,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-02",
     coords: [37.3, -3.2],
-    name: { de: "Kilimandscharo-Farmen", hu: "Kilimandzsáró mezőgazdasági terület", ro: "Fermele Kilimanjaro", en: "Kilimanjaro Farmland" },
+    name: { de: "Kilimandscharo-Farmen", hu: "Kilimandzsáró mezőgazdasági terület", ro: "Fermele Kilimanjaro", en: "Kilimanjaro Farmland",
+image: "/poi-images/kilimandscharo-farmland-life-v2.webp"
+},
     description: { de: "Kaffeeanbau am Fuße des Berges.", hu: "Kávétermesztés a hegy lábánál.", ro: "Cultivarea cafelei la poalele muntelui.", en: "Coffee cultivation at the foot of the mountain." },
     facts: {
       de: ["Berühmt für hochwertigen Kaffee.", "Vulkanische Böden fördern das Wachstum.", "Traditionelle Anbaumethoden.", "Wichtige Einkommensquelle."],
@@ -59,7 +63,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-03",
     coords: [39.3, -6.1],
-    name: { de: "Sansibar-Gewürzfarm", hu: "Zanzibári fűszerfarm", ro: "Ferma de condimente Zanzibar", en: "Zanzibar Spice Farm" },
+    name: { de: "Sansibar-Gewürzfarm", hu: "Zanzibári fűszerfarm", ro: "Ferma de condimente Zanzibar", en: "Zanzibar Spice Farm",
+image: "/poi-images/zanzibar-gewuerzfarm-life-v2.webp"
+},
     description: { de: "Traditionelle Farm für Gewürze.", hu: "Hagyományos fűszerfarm.", ro: "O fermă tradițională de condimente.", en: "A traditional spice farm." },
     facts: {
       de: ["Anbau von Nelken und Zimt.", "Bekannt als Gewürzinsel.", "Ein Erlebnis für Besucher.", "Wirtschaftliches Zentrum."],
@@ -85,7 +91,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-08",
     coords: [37.0, -7.3],
-    name: { de: "Mikumi-Wildreservat", hu: "Mikumi vadrezervátum", ro: "Rezervația Mikumi", en: "Mikumi Wildlife Reserve" },
+    name: { de: "Mikumi-Wildreservat", hu: "Mikumi vadrezervátum", ro: "Rezervația Mikumi", en: "Mikumi Wildlife Reserve",
+image: "/poi-images/mikumi-park-life-v2.webp"
+},
     description: { de: "Heimat von Zebras und Giraffen.", hu: "Zebrák és zsiráfok otthona.", ro: "Casa zebrelor și girafelor.", en: "Home to zebras and giraffes." },
     facts: {
       de: ["Gute Beobachtungsmöglichkeiten.", "Nahe bei Daressalam.", "Offene Savannenlandschaft.", "Reiche Tierwelt."],
@@ -111,7 +119,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-02",
     coords: [36.0, -3.8],
-    name: { de: "Tarangire-Park", hu: "Tarangire Nemzeti Park", ro: "Parcul Tarangire", en: "Tarangire Park" },
+    name: { de: "Tarangire-Park", hu: "Tarangire Nemzeti Park", ro: "Parcul Tarangire", en: "Tarangire Park",
+image: "/poi-images/tarangire-park-life-v2.webp"
+},
     description: { de: "Bekannt für große Elefantenherden.", hu: "Nagy elefántcsordákról ismert.", ro: "Cunoscut pentru turmele mari de elefanți.", en: "Known for large elephant herds." },
     facts: {
       de: ["Viele Baobab-Bäume.", "Hohe Elefanten-Dichte.", "Trockene Flussbetten.", "Wichtiger Korridor."],
@@ -137,7 +147,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-02",
     coords: [35.5, -3.0],
-    name: { de: "Ngorongoro-Krater", hu: "Ngorongoro-kráter", ro: "Craterul Ngorongoro", en: "Ngorongoro Crater" },
+    name: { de: "Ngorongoro-Krater", hu: "Ngorongoro-kráter", ro: "Craterul Ngorongoro", en: "Ngorongoro Crater",
+image: "/poi-images/ngorongoro-krater-life-v2.webp"
+},
     description: { de: "Ein riesiger Vulkankrater mit Wildtieren.", hu: "Hatalmas vulkáni kráter vadvilággal.", ro: "Un crater vulcanic uriaș cu animale sălbatice.", en: "A huge volcanic crater with wildlife." },
     facts: {
       de: ["Ein geschlossenes Ökosystem.", "Sehr hohe Tierkonzentration.", "UNESCO-Welterbe.", "Beeindruckende Caldera."],
@@ -163,7 +175,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-02",
     coords: [36.8, -3.2],
-    name: { de: "Arusha-Park", hu: "Arusha Nemzeti Park", ro: "Parcul Arusha", en: "Arusha Park" },
+    name: { de: "Arusha-Park", hu: "Arusha Nemzeti Park", ro: "Parcul Arusha", en: "Arusha Park",
+image: "/poi-images/arusha-park-life-v2.webp"
+},
     description: { de: "Ein kleiner, grüner Nationalpark.", hu: "Kicsi, zöld nemzeti park.", ro: "Un mic parc național verde.", en: "A small, green national park." },
     facts: {
       de: ["Beobachtung von Stummelaffen.", "Schöne Seen.", "Berg-Kulisse.", "Vielfältige Flora."],
@@ -189,7 +203,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-07",
     coords: [31.0, -6.5],
-    name: { de: "Katavi-Park", hu: "Katavi Nemzeti Park", ro: "Parcul Katavi", en: "Katavi Park" },
+    name: { de: "Katavi-Park", hu: "Katavi Nemzeti Park", ro: "Parcul Katavi", en: "Katavi Park",
+image: "/poi-images/katavi-park-life-v2.webp"
+},
     description: { de: "Ein abgelegenes Wildtiergebiet.", hu: "Félreeső vadvilági terület.", ro: "O zonă izolată de faună sălbatică.", en: "A remote wildlife area." },
     facts: {
       de: ["Große Büffelherden.", "Ursprüngliche Landschaft.", "Weniger Touristen.", "Spektakuläre Sonnenuntergänge."],
@@ -215,7 +231,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-07",
     coords: [29.6, -4.6],
-    name: { de: "Gombe-Park", hu: "Gombe Nemzeti Park", ro: "Parcul Gombe", en: "Gombe Park" },
+    name: { de: "Gombe-Park", hu: "Gombe Nemzeti Park", ro: "Parcul Gombe", en: "Gombe Park",
+image: "/poi-images/gombe-park-life-v2.webp"
+},
     description: { de: "Berühmt für Schimpansenforschung.", hu: "Híres a csimpánzkutatásról.", ro: "Faimos pentru cercetarea cimpanzeilor.", en: "Famous for chimpanzee research." },
     facts: {
       de: ["Jane Goodalls Wirkungsort.", "Dichter Regenwald.", "Nahe am Tanganjikasee.", "Einzigartige Beobachtungen."],
@@ -241,7 +259,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-01",
     coords: [36.7, -8.7],
-    name: { de: "Mahenge-Landwirtschaft", hu: "Mahenge mezőgazdaság", ro: "Agricultura Mahenge", en: "Mahenge Farmland" },
+    name: { de: "Mahenge-Landwirtschaft", hu: "Mahenge mezőgazdaság", ro: "Agricultura Mahenge", en: "Mahenge Farmland",
+image: "/poi-images/mahenge-landwirtschaft-life-v2.webp"
+},
     description: { de: "Landwirtschaftliche Region im Süden.", hu: "Mezőgazdasági régió délen.", ro: "Regiune agricolă în sud.", en: "Agricultural region in the south." },
     facts: {
       de: ["Anbau von Reis.", "Fruchtbare Böden.", "Ländliches Leben.", "Lokaler Handel."],
@@ -267,7 +287,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-05",
     coords: [38.9, -5.4],
-    name: { de: "Pangani-Farmen", hu: "Pangani gazdaságok", ro: "Fermele Pangani", en: "Pangani Farmland" },
+    name: { de: "Pangani-Farmen", hu: "Pangani gazdaságok", ro: "Fermele Pangani", en: "Pangani Farmland",
+image: "/poi-images/pangani-farmen-life-v2.webp"
+},
     description: { de: "Küstengebiet mit Plantagen.", hu: "Partvidék ültetvényekkel.", ro: "Regiune de coastă cu plantații.", en: "Coastal region with plantations." },
     facts: {
       de: ["Anbau von Kokosnüssen.", "Historische Wurzeln.", "Sisal-Produktion.", "Tropisches Klima."],
@@ -293,7 +315,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "TZ-14",
     coords: [32.9, -2.5],
-    name: { de: "Mwanza-Marktplatz", hu: "Mwanza piactér", ro: "Piața Mwanza", en: "Mwanza Marketplace" },
+    name: { de: "Mwanza-Marktplatz", hu: "Mwanza piactér", ro: "Piața Mwanza", en: "Mwanza Marketplace",
+image: "/poi-images/mwanza-markt-life-v2.webp"
+},
     description: { de: "Ein lebendiger Ort für Familien.", hu: "Élénk hely családoknak.", ro: "Un loc vibrant pentru familii.", en: "A lively place for families." },
     facts: {
       de: ["Buntes Treiben.", "Lokale Waren.", "Treffpunkt der Gemeinde.", "Kindgerechte Atmosphäre."],
@@ -319,7 +343,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "TZ-09",
     coords: [35.7, -6.2],
-    name: { de: "Dodoma-Schulpark", hu: "Dodoma iskolapark", ro: "Parcul școlar Dodoma", en: "Dodoma School Park" },
+    name: { de: "Dodoma-Schulpark", hu: "Dodoma iskolapark", ro: "Parcul școlar Dodoma", en: "Dodoma School Park",
+image: "/poi-images/dodoma-schulpark-life-v2.webp"
+},
     description: { de: "Park für Schulkinder.", hu: "Park iskolás gyerekeknek.", ro: "Parc pentru școlari.", en: "Park for school children." },
     facts: {
       de: ["Spiel- und Lernmöglichkeiten.", "Grünfläche in der Hauptstadt.", "Sicherer Bereich.", "Gemeinschaftsprojekt."],
@@ -345,7 +371,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "TZ-05",
     coords: [39.1, -5.0],
-    name: { de: "Tanga-Kindermuseum", hu: "Tanga Gyermekmúzeum", ro: "Muzeul pentru copii Tanga", en: "Tanga Children Museum" },
+    name: { de: "Tanga-Kindermuseum", hu: "Tanga Gyermekmúzeum", ro: "Muzeul pentru copii Tanga", en: "Tanga Children Museum",
+image: "/poi-images/tanga-museum-life-v2.webp"
+},
     description: { de: "Lernen durch Entdecken.", hu: "Tanulás felfedezéssel.", ro: "Învățare prin descoperire.", en: "Learning by discovery." },
     facts: {
       de: ["Interaktive Ausstellungen.", "Wissen über Natur.", "Spielerischer Ansatz.", "Beliebt bei Familien."],
@@ -371,7 +399,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "TZ-14",
     coords: [31.8, -1.3],
-    name: { de: "Bukoba-Hafenspielplatz", hu: "Bukoba kikötői játszótér", ro: "Loc de joacă portuar Bukoba", en: "Bukoba Harbor Playground" },
+    name: { de: "Bukoba-Hafenspielplatz", hu: "Bukoba kikötői játszótér", ro: "Loc de joacă portuar Bukoba", en: "Bukoba Harbor Playground",
+image: "/poi-images/bukoba-hafen-life-v2.webp"
+},
     description: { de: "Spielplatz am Viktoriasee.", hu: "Játszótér a Viktória-tónál.", ro: "Loc de joacă lângă Lacul Victoria.", en: "Playground by Lake Victoria." },
     facts: {
       de: ["Schöner Ausblick.", "Spielgeräte für Kinder.", "Nahe dem Wasser.", "Familienfreundlich."],
@@ -397,7 +427,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "TZ-08",
     coords: [37.6, -6.8],
-    name: { de: "Morogoro-Gemeindegarten", hu: "Morogoro közösségi kert", ro: "Grădina comunitară Morogoro", en: "Morogoro Community Garden" },
+    name: { de: "Morogoro-Gemeindegarten", hu: "Morogoro közösségi kert", ro: "Grădina comunitară Morogoro", en: "Morogoro Community Garden",
+image: "/poi-images/morogoro-garten-life-v2.webp"
+},
     description: { de: "Ein Garten für alle.", hu: "Kert mindenkinek.", ro: "O grădină pentru toți.", en: "A garden for all." },
     facts: {
       de: ["Anbau von Gemüse.", "Lernort für Kinder.", "Grüne Oase.", "Nachhaltigkeit."],
@@ -423,7 +455,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-08",
     coords: [34.5, -7.5],
-    name: { de: "Ruaha-Tierlebensraum", hu: "Ruaha állatélőhely", ro: "Habitat animal Ruaha", en: "Ruaha Wildlife Habitat" },
+    name: { de: "Ruaha-Tierlebensraum", hu: "Ruaha állatélőhely", ro: "Habitat animal Ruaha", en: "Ruaha Wildlife Habitat",
+image: "/poi-images/ruaha-tierhabitat-life-v2.webp"
+},
     description: { de: "Großes Reservat für Wildtiere.", hu: "Nagy rezervátum vadvilágnak.", ro: "Rezervație mare pentru animale sălbatice.", en: "Large reserve for wildlife." },
     facts: {
       de: ["Viele Löwenrudel.", "Vielfältige Vögel.", "Trockene Buschlandschaften.", "Wildtierbeobachtung."],
@@ -449,7 +483,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-08",
     coords: [37.1, -7.4],
-    name: { de: "Mikumi-Savanne", hu: "Mikumi szavanna", ro: "Savana Mikumi", en: "Mikumi Savanna" },
+    name: { de: "Mikumi-Savanne", hu: "Mikumi szavanna", ro: "Savana Mikumi", en: "Mikumi Savanna",
+image: "/poi-images/mikumi-savanne-life-v2.webp"
+},
     description: { de: "Offenes Grasland voller Tiere.", hu: "Nyílt gyepek tele állatokkal.", ro: "Câmpii deschise pline de animale.", en: "Open grasslands full of animals." },
     facts: {
       de: ["Große Antilopenherden.", "Nahe dem Bergland.", "Gute Anbindung.", "Naturschönheit."],
@@ -475,7 +511,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-17",
     coords: [33.4, -8.9],
-    name: { de: "Mbeya-Plantagen", hu: "Mbeya ültetvények", ro: "Plantațiile Mbeya", en: "Mbeya Plantations" },
+    name: { de: "Mbeya-Plantagen", hu: "Mbeya ültetvények", ro: "Plantațiile Mbeya", en: "Mbeya Plantations",
+image: "/poi-images/mbeya-plantagen-life-v2.webp"
+},
     description: { de: "Anbau von Tee und Kaffee.", hu: "Tea- és kávétermesztés.", ro: "Cultivarea ceaiului și cafelei.", en: "Tea and coffee cultivation." },
     facts: {
       de: ["Kühles Hochlandklima.", "Hohe Qualität.", "Traditionelle Farmarbeit.", "Wichtige Region."],
@@ -501,7 +539,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-18",
     coords: [35.6, -10.7],
-    name: { de: "Songea-Farm-Region", hu: "Songea farmrégió", ro: "Regiunea agricolă Songea", en: "Songea Farmland" },
+    name: { de: "Songea-Farm-Region", hu: "Songea farmrégió", ro: "Regiunea agricolă Songea", en: "Songea Farmland",
+image: "/poi-images/songea-farm-life-v2.webp"
+},
     description: { de: "Landwirtschaft im Südwesten.", hu: "Mezőgazdaság délnyugaton.", ro: "Agricultură în sud-vest.", en: "Agriculture in the southwest." },
     facts: {
       de: ["Anbau von Mais.", "Fruchtbare Region.", "Ländliche Entwicklung.", "Lokaler Markt."],
@@ -527,7 +567,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-01",
     coords: [39.3, -7.9],
-    name: { de: "Rufiji-Delta-Lebensraum", hu: "Rufiji-delta élőhely", ro: "Habitatul Delta Rufiji", en: "Rufiji Delta Habitat" },
+    name: { de: "Rufiji-Delta-Lebensraum", hu: "Rufiji-delta élőhely", ro: "Habitatul Delta Rufiji", en: "Rufiji Delta Habitat",
+image: "/poi-images/rufi-delta-life-v2.webp"
+},
     description: { de: "Einzigartiges Küstenökosystem.", hu: "Egyedülálló tengerparti ökoszisztéma.", ro: "Ecosistem costier unic.", en: "Unique coastal ecosystem." },
     facts: {
       de: ["Mangrovenwälder.", "Heimat für Krokodile.", "Reiche Fischgründe.", "Naturschutzgebiet."],
@@ -553,7 +595,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-19",
     coords: [38.8, -10.7],
-    name: { de: "Masasi-Landwirtschaft", hu: "Masasi mezőgazdaság", ro: "Agricultura Masasi", en: "Masasi Farmland" },
+    name: { de: "Masasi-Landwirtschaft", hu: "Masasi mezőgazdaság", ro: "Agricultura Masasi", en: "Masasi Farmland",
+image: "/poi-images/masasi-landwirtschaft-life-v2.webp"
+},
     description: { de: "Region für Erdnussanbau.", hu: "Földimogyoró-termesztő régió.", ro: "Regiune pentru cultivarea arahidelor.", en: "Region for peanut cultivation." },
     facts: {
       de: ["Erdnüsse und Cashews.", "Ländliches Zentrum.", "Wirtschaftliche Basis.", "Sonniges Klima."],
@@ -579,7 +623,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-21",
     coords: [32.2, -2.9],
-    name: { de: "Geita-Landwirtschaft", hu: "Geita mezőgazdaság", ro: "Agricultura Geita", en: "Geita Farmland" },
+    name: { de: "Geita-Landwirtschaft", hu: "Geita mezőgazdaság", ro: "Agricultura Geita", en: "Geita Farmland",
+image: "/poi-images/geita-land-life-v2.webp"
+},
     description: { de: "Landwirtschaftliche Gegend.", hu: "Mezőgazdasági terület.", ro: "Zonă agricolă.", en: "Agricultural area." },
     facts: {
       de: ["Anbau von Nahrungsmitteln.", "Wichtiger Sektor.", "Lokale Erzeugnisse.", "Wachstum."],
@@ -605,7 +651,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "TZ-22",
     coords: [33.8, -1.5],
-    name: { de: "Musoma-Hafenpark", hu: "Musoma kikötőpark", ro: "Parcul portuar Musoma", en: "Musoma Harbor Park" },
+    name: { de: "Musoma-Hafenpark", hu: "Musoma kikötőpark", ro: "Parcul portuar Musoma", en: "Musoma Harbor Park",
+image: "/poi-images/musoma-hafen-life-v2.webp"
+},
     description: { de: "Park am Victoriasee.", hu: "Park a Viktória-tónál.", ro: "Parc lângă Lacul Victoria.", en: "Park by Lake Victoria." },
     facts: {
       de: ["Schöner Spielbereich.", "Frische Seeluft.", "Treffpunkt für Familien.", "Schöne Aussicht."],
@@ -631,7 +679,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-24",
     coords: [34.7, -4.8],
-    name: { de: "Singida-Farmen", hu: "Singida gazdaságok", ro: "Fermele Singida", en: "Singida Farmland" },
+    name: { de: "Singida-Farmen", hu: "Singida gazdaságok", ro: "Fermele Singida", en: "Singida Farmland",
+image: "/poi-images/singida-farmen-life-v2.webp"
+},
     description: { de: "Trockene Farmregion.", hu: "Száraz farmrégió.", ro: "Regiune agricolă uscată.", en: "Dry farming region." },
     facts: {
       de: ["Anbau von Sonnenblumen.", "Anpassung an das Klima.", "Traditionelle Methoden.", "Wachsendes Angebot."],
@@ -657,7 +707,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-25",
     coords: [33.4, -3.7],
-    name: { de: "Shinyanga-Ackerbau", hu: "Shinyanga földművelés", ro: "Agricultura Shinyanga", en: "Shinyanga Farmland" },
+    name: { de: "Shinyanga-Ackerbau", hu: "Shinyanga földművelés", ro: "Agricultura Shinyanga", en: "Shinyanga Farmland",
+image: "/poi-images/shinyanga-acker-life-v2.webp"
+},
     description: { de: "Weites Ackerland.", hu: "Hatalmas szántóföldek.", ro: "Terenuri agricole vaste.", en: "Vast farmlands." },
     facts: {
       de: ["Baumwollanbau.", "Weite Ebenen.", "Landwirtschaftliches Zentrum.", "Sonnige Region."],
@@ -683,7 +735,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "agriculture",
     parent: "TZ-26",
     coords: [32.8, -5.0],
-    name: { de: "Tabora-Farmen", hu: "Tabora gazdaságok", ro: "Fermele Tabora", en: "Tabora Farmland" },
+    name: { de: "Tabora-Farmen", hu: "Tabora gazdaságok", ro: "Fermele Tabora", en: "Tabora Farmland",
+image: "/poi-images/tabora-farmen-life-v2.webp"
+},
     description: { de: "Farmen im Landesinneren.", hu: "Farmok a szárazföld belsejében.", ro: "Ferme în interiorul țării.", en: "Farms in the interior." },
     facts: {
       de: ["Anbau von Tabak.", "Traditionelle Landwirtschaft.", "Weite Landschaften.", "Wichtige Produktion."],
@@ -709,7 +763,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-07",
     coords: [31.5, -6.8],
-    name: { de: "Katavi-Wald-Lebensraum", hu: "Katavi erdő élőhely", ro: "Habitatul forestier Katavi", en: "Katavi Forest Habitat" },
+    name: { de: "Katavi-Wald-Lebensraum", hu: "Katavi erdő élőhely", ro: "Habitatul forestier Katavi", en: "Katavi Forest Habitat",
+image: "/poi-images/katavi-wald-life-v2.webp"
+},
     description: { de: "Waldgebiet mit Wildtieren.", hu: "Erdőterület vadvilággal.", ro: "Zonă forestieră cu animale sălbatice.", en: "Forest area with wildlife." },
     facts: {
       de: ["Geschütztes Gebiet.", "Dichter Baumbestand.", "Reiche Flora.", "Wildtierkorridor."],
@@ -735,7 +791,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-14",
     coords: [33.0, -2.6],
-    name: { de: "Mwanza-Insel-Habitat", hu: "Mwanza sziget élőhely", ro: "Habitatul insulei Mwanza", en: "Mwanza Island Habitat" },
+    name: { de: "Mwanza-Insel-Habitat", hu: "Mwanza sziget élőhely", ro: "Habitatul insulei Mwanza", en: "Mwanza Island Habitat",
+image: "/poi-images/mwanza-inseln-life-v2.webp"
+},
     description: { de: "Lebensraum auf Inseln.", hu: "Élőhely szigeteken.", ro: "Habitat pe insule.", en: "Habitat on islands." },
     facts: {
       de: ["Viele Vogelarten.", "Wasserreiche Umgebung.", "Geschützt.", "Naturbeobachtung."],
@@ -761,7 +819,9 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TZ-01",
     coords: [39.1, -6.9],
-    name: { de: "Pugu-Waldreservat", hu: "Pugu vadrezervátum", ro: "Rezervația Pugu", en: "Pugu Forest Reserve" },
+    name: { de: "Pugu-Waldreservat", hu: "Pugu vadrezervátum", ro: "Rezervația Pugu", en: "Pugu Forest Reserve",
+image: "/poi-images/pugu-wald-life-v2.webp"
+},
     description: { de: "Wald nah an der Küste.", hu: "Erdő közel a parthoz.", ro: "Pădure aproape de coastă.", en: "Forest close to the coast." },
     facts: {
       de: ["Kurze Wege.", "Vielseitige Pflanzen.", "Naherholungsgebiet.", "Wichtiger Schutz."],

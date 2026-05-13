@@ -7,7 +7,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.355, 23.135],
-    name: { de: "Kapitol Havanna", hu: "Havannai Kapitolium", ro: "Capitoliul din Havana", en: "El Capitolio" },
+    name: { de: "Kapitol Havanna", hu: "Havannai Kapitolium", ro: "Capitoliul din Havana", en: "El Capitolio",
+image: "/poi-images/cuba-landmarks-v2-01.webp"
+},
     description: { de: "Ein monumentales Regierungsgebäude, das dem Kapitol in Washington nachempfunden ist.", hu: "Monumentális kormányépület, amelyet a washingtoni Capitoliumról mintáztak.", ro: "O clădire guvernamentală monumentală inspirată de Capitoliul din Washington.", en: "A monumental government building inspired by the US Capitol in Washington." },
     facts: {
       de: ["Fertiggestellt im Jahr 1929", "Einst Sitz des kubanischen Kongresses", "Besitzt eine der größten Indoor-Statuen der Welt"],
@@ -33,7 +35,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.358, 23.138],
-    name: { de: "Gran Teatro de La Habana", hu: "Havannai Nagyszínház", ro: "Marele Teatru din Havana", en: "Great Theatre of Havana" },
+    name: { de: "Gran Teatro de La Habana", hu: "Havannai Nagyszínház", ro: "Marele Teatru din Havana", en: "Great Theatre of Havana",
+image: "/poi-images/cuba-landmarks-v2-02.webp"
+},
     description: { de: "Ein prachtvolles Gebäude im neobarocken Stil, Heimat des Nationalballetts von Kuba.", hu: "A Havannai Nagyszínház neobarokk épület, a Kubai Nemzeti Balett otthona.", ro: "O clădire magnifică în stil neobaroc, sediul Baletului Național din Cuba.", en: "A grand theater in Havana and a major symbol of the city's cultural life." },
     facts: {
       de: ["Erbaut im Jahr 1838", "Architekt war Paul Belau", "Bekannt für seine architektonischen Details"],
@@ -59,7 +63,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.352, 23.137],
-    name: { de: "Kathedrale von Havanna", hu: "Havannai katedrális", ro: "Catedrala din Havana", en: "Havana Cathedral" },
+    name: { de: "Kathedrale von Havanna", hu: "Havannai katedrális", ro: "Catedrala din Havana", en: "Havana Cathedral",
+image: "/poi-images/cuba-landmarks-v2-03.webp"
+},
     description: { de: "Die Kathedrale von Havanna ist eine der ältesten Kathedralen Amerikas und prägt den historischen Stadtkern. Sie steht auf dem Plaza de la Catedral.", hu: "Amerika egyik legrégebbi katedrálisa, barokk stílusban épült a katedrális téren.", ro: "Una dintre cele mai vechi catedrale din America, construită în stil baroc în Piața Catedralei.", en: "One of the oldest cathedrals in the Americas, built in baroque style on the Cathedral Plaza." },
     facts: {
       de: ["Barocke Kathedrale", "Baubeginn 1748", "UNESCO-Welterbe"],
@@ -85,7 +91,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.358, 23.136],
-    name: { de: "Museum der Revolution", hu: "Forradalom Múzeuma", ro: "Muzeul Revoluției", en: "Museum of the Revolution" },
+    name: { de: "Museum der Revolution", hu: "Forradalom Múzeuma", ro: "Muzeul Revoluției", en: "Museum of the Revolution",
+image: "/poi-images/cuba-landmarks-v2-04.webp"
+},
     description: { de: "Untergebracht im ehemaligen Präsidentenpalast, dokumentiert es die Geschichte der Revolution.", hu: "Az egykori elnöki palotában kapott helyet, a forradalom történetét mutatja be.", ro: "Găzduit în fostul palat prezidențial, documentează istoria revoluției.", en: "Housed in the former Presidential Palace, it documents the history of the revolution." },
     facts: {
       de: ["Das Gebäude wurde 1920 eingeweiht", "Ausstellung beinhaltet die Yacht Granma", "Prächtiger Spiegelsaal im Inneren"],
@@ -111,7 +119,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.352, 23.142],
-    name: { de: "Castillo de la Real Fuerza", hu: "Castillo de la Real Fuerza", ro: "Castelul Forței Regale", en: "Castillo de la Real Fuerza" },
+    name: { de: "Castillo de la Real Fuerza", hu: "Castillo de la Real Fuerza", ro: "Castelul Forței Regale", en: "Castillo de la Real Fuerza",
+image: "/poi-images/cuba-landmarks-v2-05.webp"
+},
     description: { de: "Eine Festung aus dem 16. Jahrhundert, eine der ältesten kolonialen Militärbauten Amerikas.", hu: "16. századi erőd, Amerika egyik legrégebbi koloniális katonai építménye.", ro: "O fortăreață din secolul al XVI-lea, una dintre cele mai vechi construcții militare coloniale din America.", en: "A 16th-century fortress, one of the oldest colonial military structures in the Americas." },
     facts: {
       de: ["Fertiggestellt 1577", "Besitzt den berühmten 'La Giraldilla' Wetterhahn", "Heute ein Schifffahrtsmuseum"],
@@ -137,7 +147,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.355, 23.141],
-    name: { de: "Palacio de los Capitanes Generales", hu: "Kapitányok Palotája", ro: "Palatul Căpitanilor Generali", en: "Palace of the Captains General" },
+    name: { de: "Palacio de los Capitanes Generales", hu: "Kapitányok Palotája", ro: "Palatul Căpitanilor Generali", en: "Palace of the Captains General",
+image: "/poi-images/cuba-landmarks-v2-06.webp"
+},
     description: { de: "Der ehemalige Sitz der spanischen Gouverneure in Havanna, heute das Stadtmuseum.", hu: "A spanyol kormányzók egykori székhelye Havannában, ma a városi múzeum.", ro: "Palatul foștilor căpitani generali din Havana, astăzi muzeul orașului. Este unul dintre cele mai importante repere coloniale ale capitalei.", en: "Former seat of Spanish governors in Havana, now the city museum." },
     facts: {
       de: ["Baustil ist Barock", "Fertiggestellt im Jahr 1791", "Liegt am Plaza de Armas"],
@@ -163,7 +175,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.357, 23.140],
-    name: { de: "Hotel Nacional de Cuba", hu: "Hotel Nacional de Cuba", ro: "Hotel Nacional de Cuba", en: "Hotel Nacional de Cuba" },
+    name: { de: "Hotel Nacional de Cuba", hu: "Hotel Nacional de Cuba", ro: "Hotel Nacional de Cuba", en: "Hotel Nacional de Cuba",
+image: "/poi-images/cuba-landmarks-v2-07.webp"
+},
     description: { de: "Ein historisches Hotel, das in den 1930er Jahren erbaut wurde und eine Legende ist.", hu: "Az 1930-as években épült történelmi szálloda, amely igazi legenda.", ro: "Un hotel istoric construit în anii 1930, care este o legendă.", en: "A historic hotel built in the 1930s that is a legend." },
     facts: {
       de: ["Eröffnet am 30. Dezember 1930", "Gäste waren viele berühmte Persönlichkeiten", "Steht auf der Liste des nationalen Kulturerbes"],
@@ -189,7 +203,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-12",
     coords: [-75.830, 19.970],
-    name: { de: "Stadion Antonio Maceo", hu: "Antonio Maceo Stadion", ro: "Stadionul Antonio Maceo", en: "Antonio Maceo Stadium" },
+    name: { de: "Stadion Antonio Maceo", hu: "Antonio Maceo Stadion", ro: "Stadionul Antonio Maceo", en: "Antonio Maceo Stadium",
+image: "/poi-images/cuba-landmarks-v2-08.webp"
+},
     description: { de: "Ein bedeutendes Sportstadion in Santiago de Cuba für Fußball und Baseball.", hu: "Fontos sportstadion Santiago de Cubában futball és baseball számára.", ro: "Un stadion sportiv important în Santiago de Cuba pentru fotbal și baseball.", en: "A major sports stadium in Santiago de Cuba for football and baseball." },
     facts: {
       de: ["Heimatort für lokale Fußballteams", "Benannt nach dem Freiheitskämpfer Antonio Maceo", "Multifunktionale Sportanlage"],
@@ -215,7 +231,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-12",
     coords: [-75.837, 19.981],
-    name: { de: "Kathedrale von Santiago de Cuba", hu: "Santiago de Cuba-i katedrális", ro: "Catedrala din Santiago de Cuba", en: "Santiago de Cuba Cathedral" },
+    name: { de: "Kathedrale von Santiago de Cuba", hu: "Santiago de Cuba-i katedrális", ro: "Catedrala din Santiago de Cuba", en: "Santiago de Cuba Cathedral",
+image: "/poi-images/cuba-landmarks-v2-09.webp"
+},
     description: { de: "Eine bedeutende religiöse Stätte in der Stadt Santiago de Cuba.", hu: "Jelentős vallási helyszín Santiago de Cuba városában.", ro: "Un loc religios important în orașul Santiago de Cuba.", en: "A major religious site in the city of Santiago de Cuba." },
     facts: {
       de: ["Ursprünglich 1522 erbaut", "Mehrfach durch Erdbeben zerstört", "Zentrum des Erzbistums Santiago"],
@@ -241,7 +259,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-12",
     coords: [-75.845, 19.986],
-    name: { de: "Casa de Diego Velázquez", hu: "Diego Velázquez-ház", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House" },
+    name: { de: "Casa de Diego Velázquez", hu: "Diego Velázquez-ház", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House",
+image: "/poi-images/cuba-landmarks-v2-10.webp"
+},
     description: { de: "Das Haus von Diego Velázquez in Santiago de Cuba gilt als eine der ältesten kolonialen Residenzen der Insel. Heute dient es als Museum und zeigt frühe Stadtgeschichte.", hu: "Kuba legrégebbi fennmaradt háza, amelyet a spanyol hódító számára építettek.", ro: "Cea mai veche casă din Cuba care mai stă în picioare, construită pentru conchistadorul spaniol.", en: "The oldest house in Cuba still standing, built for the Spanish conqueror." },
     facts: {
       de: ["Um 1515 erbaut", "Älteste Kolonialresidenz Kubas", "Heute Museum"],
@@ -267,7 +287,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.355, 23.140],
-    name: { de: "Plaza de la Catedral", hu: "Katedrális tér", ro: "Piața Catedralei", en: "Cathedral Square" },
+    name: { de: "Plaza de la Catedral", hu: "Katedrális tér", ro: "Piața Catedralei", en: "Cathedral Square",
+image: "/poi-images/cuba-landmarks-v2-11.webp"
+},
     description: { de: "Ein bedeutender historischer Platz in der Altstadt von Havanna.", hu: "Jelentős történelmi tér Havanna óvárosában.", ro: "O piață istorică importantă în orașul vechi Havana.", en: "An important historic square in the old town of Havana." },
     facts: {
       de: ["Umgeben von barocken Gebäuden", "UNESCO-Welterbe seit 1982", "Einer der vier Hauptplätze der Altstadt"],
@@ -293,7 +315,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.352, 23.140],
-    name: { de: "Castillo del Morro", hu: "El Morro erőd", ro: "Castelul El Morro", en: "Morro Castle" },
+    name: { de: "Castillo del Morro", hu: "El Morro erőd", ro: "Castelul El Morro", en: "Morro Castle",
+image: "/poi-images/cuba-landmarks-v2-12.webp"
+},
     description: { de: "Eine eindrucksvolle Festung an der Hafeneinfahrt von Havanna.", hu: "Lenyűgöző erőd Havanna kikötőjének bejáratánál.", ro: "O fortăreață impresionantă la intrarea în portul Havana.", en: "An impressive fortress at the entrance to Havana Harbor." },
     facts: {
       de: ["Errichtet zwischen 1589 und 1630", "Strategisch wichtiger Verteidigungspunkt", "Leuchtturm wurde 1845 hinzugefügt"],
@@ -319,7 +343,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.356, 23.136],
-    name: { de: "Paseo del Prado", hu: "Paseo del Prado", ro: "Paseo del Prado", en: "Paseo del Prado" },
+    name: { de: "Paseo del Prado", hu: "Paseo del Prado", ro: "Paseo del Prado", en: "Paseo del Prado",
+image: "/poi-images/cuba-landmarks-v2-13.webp"
+},
     description: { de: "Eine berühmte, von Bäumen gesäumte Promenade im Zentrum von Havanna.", hu: "Híres, fákkal övezett sétány Havanna központjában.", ro: "O faimoasă promenadă străjuită de copaci în centrul Havanei.", en: "A famous tree-lined promenade in the center of Havana." },
     facts: {
       de: ["Entworfen von Jean-Claude Nicolas Forestier", "Bekannt für seine bronzenen Löwenstatuen", "Verbindet den Parque Central mit dem Malecón"],
@@ -345,7 +371,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.359, 23.137],
-    name: { de: "Parque Central", hu: "Parque Central", ro: "Parque Central", en: "Central Park" },
+    name: { de: "Parque Central", hu: "Parque Central", ro: "Parque Central", en: "Central Park",
+image: "/poi-images/cuba-landmarks-v2-14.webp"
+},
     description: { de: "Ein geschäftiger Park im Herzen der Stadt, umgeben von bedeutenden Gebäuden.", hu: "Forgalmas park a város szívében, jelentős épületekkel körülvéve.", ro: "O piață plină de viață în inima orașului, înconjurată de clădiri importante.", en: "A bustling park in the heart of the city, surrounded by significant buildings." },
     facts: {
       de: ["Zentrum ist die Statue von José Martí", "Treffpunkt für Einheimische und Touristen", "Nahe am El Capitolio gelegen"],
@@ -371,7 +399,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.351, 23.141],
-    name: { de: "Plaza de Armas", hu: "Plaza de Armas", ro: "Plaza de Armas", en: "Plaza de Armas" },
+    name: { de: "Plaza de Armas", hu: "Plaza de Armas", ro: "Plaza de Armas", en: "Plaza de Armas",
+image: "/poi-images/cuba-landmarks-v2-15.webp"
+},
     description: { de: "Der älteste Platz in Havanna, benannt nach den militärischen Exerzierübungen.", hu: "Havanna legrégebbi tere, a katonai gyakorlatokról kapta a nevét.", ro: "Cea mai veche piață din Havana, numită după exercițiile militare.", en: "The oldest square in Havana, named after the military drills." },
     facts: {
       de: ["Einst der Mittelpunkt der Stadtverwaltung", "Beherbergt ein Denkmal von Carlos Manuel de Céspedes", "Beliebt für den Antiquitätenmarkt"],
@@ -397,7 +427,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-12",
     coords: [-75.832, 20.021],
-    name: { de: "Castillo de San Pedro de la Roca", hu: "San Pedro de la Roca-vár", ro: "Castelul San Pedro de la Roca", en: "Castillo de San Pedro de la Roca" },
+    name: { de: "Castillo de San Pedro de la Roca", hu: "San Pedro de la Roca-vár", ro: "Castelul San Pedro de la Roca", en: "Castillo de San Pedro de la Roca",
+image: "/poi-images/cuba-landmarks-v2-16.webp"
+},
     description: { de: "Das Castillo de San Pedro de la Roca ist eine bedeutende Festung in Santiago de Cuba und ein UNESCO-geschütztes Bauwerk. Es wurde zum Schutz vor Piratenangriffen errichtet.", hu: "A Castillo de San Pedro de la Roca Santiago de Cuba híres erődje és az UNESCO által védett műemlék.", ro: "O fortăreață importantă în Santiago de Cuba, protejată de UNESCO.", en: "A major fortress in Santiago de Cuba, protected by UNESCO." },
     facts: {
       de: ["Bau ab 1638", "Zum Schutz vor Piraten", "UNESCO-geschützt"],
@@ -423,7 +455,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.348, 23.143],
-    name: { de: "Basílica Menor de San Francisco de Asís", hu: "Szent Ferenc-bazilika", ro: "Bazilica Sfântului Francisc din Assisi", en: "Basilica of St. Francis of Assisi" },
+    name: { de: "Basílica Menor de San Francisco de Asís", hu: "Szent Ferenc-bazilika", ro: "Bazilica Sfântului Francisc din Assisi", en: "Basilica of St. Francis of Assisi",
+image: "/poi-images/cuba-landmarks-v2-17.webp"
+},
     description: { de: "Ein bedeutendes religiöses Gebäude und Konvent in Havanna.", hu: "Jelentős vallási épület és kolostor Havannában.", ro: "O clădire religioasă și mănăstire importantă din Havana.", en: "A significant religious building and convent in Havana." },
     facts: {
       de: ["Ursprünglich 1548 erbaut", "Heute auch als Konzerthalle genutzt", "Besitzt einen hohen Glockenturm"],
@@ -449,7 +483,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.355, 23.138],
-    name: { de: "Iglesia de la Merced", hu: "La Merced templom", ro: "Biserica La Merced", en: "Church of La Merced" },
+    name: { de: "Iglesia de la Merced", hu: "La Merced templom", ro: "Biserica La Merced", en: "Church of La Merced",
+image: "/poi-images/cuba-landmarks-v2-18.webp"
+},
     description: { de: "Eine der prachtvollsten Kirchen in Havanna mit reichem Interieur.", hu: "Havanna egyik legpompásabb temploma gazdag belsővel.", ro: "Una dintre cele mai splendide biserici din Havana cu un interior bogat.", en: "One of the most magnificent churches in Havana with a rich interior." },
     facts: {
       de: ["Wiederaufbau im 19. Jahrhundert", "Bekannt für seine barocken Wandmalereien", "Ein wichtiges religiöses Zentrum"],
@@ -475,7 +511,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.365, 23.130],
-    name: { de: "Universität von Havanna", hu: "Havannai Egyetem", ro: "Universitatea din Havana", en: "University of Havana" },
+    name: { de: "Universität von Havanna", hu: "Havannai Egyetem", ro: "Universitatea din Havana", en: "University of Havana",
+image: "/poi-images/cuba-landmarks-v2-19.webp"
+},
     description: { de: "Eine der ältesten und bedeutendsten Universitäten Kubas.", hu: "Kuba egyik legrégebbi és legjelentősebb egyeteme.", ro: "Una dintre cele mai vechi și importante universități din Cuba.", en: "One of the oldest and most significant universities in Cuba." },
     facts: {
       de: ["Gegründet im Jahr 1728", "Bekannt für ihre neoklassizistische Architektur", "Hauptsitz im Stadtteil Vedado"],
@@ -501,7 +539,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-09",
     coords: [-79.435, 21.933],
-    name: { de: "Parque José Martí", hu: "José Martí park", ro: "Parcul José Martí", en: "José Martí Park" },
+    name: { de: "Parque José Martí", hu: "José Martí park", ro: "Parcul José Martí", en: "José Martí Park",
+image: "/poi-images/cuba-landmarks-v2-20.webp"
+},
     description: { de: "Der zentrale Platz in der Stadt Cienfuegos.", hu: "A központi tér Cienfuegos városában.", ro: "Piața centrală din orașul Cienfuegos.", en: "The central square in the city of Cienfuegos." },
     facts: {
       de: ["Umfasst viele architektonisch bedeutende Gebäude", "Benannt nach dem Nationalhelden", "UNESCO-Weltkulturerbe"],
@@ -527,7 +567,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-09",
     coords: [-79.451, 21.936],
-    name: { de: "Teatro Tomás Terry", hu: "Tomás Terry Színház", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theatre" },
+    name: { de: "Teatro Tomás Terry", hu: "Tomás Terry Színház", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theatre",
+image: "/poi-images/cuba-landmarks-v2-21.webp"
+},
     description: { de: "Ein berühmtes Theater in Cienfuegos mit beeindruckender Innenausstattung.", hu: "A Tomás Terry Színház Cienfuegos egyik legszebb történelmi épülete.", ro: "Un teatru faimos în Cienfuegos cu un design interior impresionant.", en: "A famous theater in Cienfuegos with an ornate interior and strong historic character." },
     facts: {
       de: ["Erbaut im Jahr 1889", "Besitzt eine Decke mit italienischen Fresken", "Ein Symbol für den Wohlstand der Region"],
@@ -553,7 +595,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-08",
     coords: [-79.980, 21.910],
-    name: { de: "Mausoleum Che Guevara", hu: "Che Guevara Mauzóleum", ro: "Mausoleul Che Guevara", en: "Che Guevara Mausoleum" },
+    name: { de: "Mausoleum Che Guevara", hu: "Che Guevara Mauzóleum", ro: "Mausoleul Che Guevara", en: "Che Guevara Mausoleum",
+image: "/poi-images/cuba-landmarks-v2-22.webp"
+},
     description: { de: "Ein Denkmal und Grabstätte für Che Guevara in Santa Clara.", hu: "Che Guevara emlékműve és sírhelye Santa Clarában.", ro: "Un monument și locul de odihnă al lui Che Guevara în Santa Clara.", en: "A monument and final resting place for Che Guevara in Santa Clara." },
     facts: {
       de: ["Enthält die sterblichen Überreste von Che Guevara", "Eingeweiht 1997", "Zentrale Gedenkstätte der kubanischen Revolution"],
@@ -579,7 +623,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-08",
     coords: [-79.995, 21.905],
-    name: { de: "Denkmal des gepanzerten Zuges", hu: "Páncélvonat Emlékmű", ro: "Monumentul trenului blindat", en: "Armored Train Monument" },
+    name: { de: "Denkmal des gepanzerten Zuges", hu: "Páncélvonat Emlékmű", ro: "Monumentul trenului blindat", en: "Armored Train Monument",
+image: "/poi-images/cuba-landmarks-v2-23.webp"
+},
     description: { de: "Ein Freilichtmuseum in Santa Clara, das an den Angriff auf den Panzertransport erinnert.", hu: "Szabadtéri múzeum Santa Clarában, amely a páncélvonat elleni támadásra emlékezik.", ro: "Un muzeu în aer liber în Santa Clara care comemorează atacul asupra trenului blindat.", en: "An open-air museum in Santa Clara commemorating the attack on the armored train." },
     facts: {
       de: ["Ort der entscheidenden Schlacht der Revolution", "Zugwracks sind ausgestellt", "Ein Symbol für den Sieg der Rebellen"],
@@ -605,7 +651,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.355, 23.145],
-    name: { de: "Calle Obispo", hu: "Calle Obispo", ro: "Calle Obispo", en: "Calle Obispo" },
+    name: { de: "Calle Obispo", hu: "Calle Obispo", ro: "Calle Obispo", en: "Calle Obispo",
+image: "/poi-images/cuba-landmarks-v2-24.webp"
+},
     description: { de: "Eine belebte Fußgängerzone voller Geschäfte, Cafés und historischer Gebäude.", hu: "Forgalmas gyalogos zóna, tele üzletekkel, kávézókkal és történelmi épületekkel.", ro: "O zonă pietonală animată plină de magazine, cafenele și clădiri istorice.", en: "A busy pedestrian street in Old Havana lined with shops, cafes, and historic buildings." },
     facts: {
       de: ["Verbindet Plaza de Armas mit Parque Central", "Historische Adresse des Schriftstellers Ernest Hemingway", "Sehr touristisch"],
@@ -631,7 +679,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.358, 23.142],
-    name: { de: "El Malecón", hu: "El Malecón", ro: "El Malecón", en: "The Malecón" },
+    name: { de: "El Malecón", hu: "El Malecón", ro: "El Malecón", en: "The Malecón",
+image: "/poi-images/cuba-landmarks-v2-25.webp"
+},
     description: { de: "Die berühmte Uferpromenade von Havanna, ein Treffpunkt für alle Generationen.", hu: "Havanna híres tengerparti sétánya, minden generáció találkozóhelye.", ro: "Celebra promenadă de pe malul mării din Havana, un punct de întâlnire pentru toate generațiile.", en: "Havana's famous seaside promenade, a meeting place for all generations." },
     facts: {
       de: ["Länge von 8 Kilometern", "Verläuft entlang der Küste des Vedado und Centro Habana", "Bautätigkeit begann 1901"],
@@ -657,7 +707,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.352, 23.145],
-    name: { de: "Castillo de la Punta", hu: "Castillo de la Punta", ro: "Castelul de la Punta", en: "Castillo de la Punta" },
+    name: { de: "Castillo de la Punta", hu: "Castillo de la Punta", ro: "Castelul de la Punta", en: "Castillo de la Punta",
+image: "/poi-images/cuba-landmarks-v2-26.webp"
+},
     description: { de: "Ein historisches Fort, das gegenüber dem Castillo del Morro am Hafeneingang liegt.", hu: "A Castillo de la Punta a havannai kikötő bejáratának régi védelmi erődje.", ro: "Un fort istoric situat vizavi de Castillo del Morro la intrarea în port.", en: "A historic fort at the entrance to Havana Bay, opposite Castillo del Morro." },
     facts: {
       de: ["Erbaut im späten 16. Jahrhundert", "Teil des Verteidigungssystems", "Heute ein Museum"],
@@ -683,7 +735,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.355, 23.132],
-    name: { de: "Cementerio de Colón", hu: "Colón temető", ro: "Cimitirul Colón", en: "Colón Cemetery" },
+    name: { de: "Cementerio de Colón", hu: "Colón temető", ro: "Cimitirul Colón", en: "Colón Cemetery",
+image: "/poi-images/cuba-landmarks-v2-27.webp"
+},
     description: { de: "Der Cementerio de Colón in Havanna gehört zu den monumentalsten Friedhöfen Amerikas. Er ist für seine aufwendigen Gräber und Denkmäler bekannt.", hu: "Amerika egyik legmonumentálisabb temetője, sírépítészetéről ismert.", ro: "Unul dintre cele mai monumentale cimitire din America, cunoscut pentru arhitectura funerară. Este un monument național cubanez.", en: "One of the most monumental cemeteries in the Americas, known for its funerary architecture." },
     facts: {
       de: ["Gegründet 1876", "Aufwendige Grabarchitektur", "Kubas Nationaldenkmal"],
@@ -709,7 +763,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-10",
     coords: [-79.980, 21.800],
-    name: { de: "Plaza Mayor in Trinidad", hu: "Trinidad főtere", ro: "Plaza Mayor din Trinidad", en: "Plaza Mayor in Trinidad" },
+    name: { de: "Plaza Mayor in Trinidad", hu: "Trinidad főtere", ro: "Plaza Mayor din Trinidad", en: "Plaza Mayor in Trinidad",
+image: "/poi-images/cuba-landmarks-v2-28.webp"
+},
     description: { de: "Das Herz des kolonialen Trinidads, umgeben von herrschaftlichen Herrenhäusern.", hu: "A koloniális Trinidad szíve, amelyet úri kúriák vesznek körül.", ro: "Inima orașului Trinidad colonial, înconjurată de conace impunătoare.", en: "The heart of colonial Trinidad, surrounded by imposing mansions." },
     facts: {
       de: ["Zentrum der UNESCO-Welterbestadt", "Sitz von Museen und einer Kirche", "Kopfsteinpflaster-Platz"],
@@ -735,7 +791,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-06",
     coords: [-77.620, 21.380],
-    name: { de: "Parque Ignacio Agramonte", hu: "Ignacio Agramonte park", ro: "Parcul Ignacio Agramonte", en: "Ignacio Agramonte Park" },
+    name: { de: "Parque Ignacio Agramonte", hu: "Ignacio Agramonte park", ro: "Parcul Ignacio Agramonte", en: "Ignacio Agramonte Park",
+image: "/poi-images/cuba-landmarks-v2-29.webp"
+},
     description: { de: "Ein bedeutender öffentlicher Park im Zentrum der Stadt Camagüey.", hu: "Jelentős közpark Camagüey városának központjában.", ro: "Un parc public important în centrul orașului Camagüey.", en: "A significant public park in the center of the city of Camagüey." },
     facts: {
       de: ["Benannt nach einem Revolutionshelden", "Umgeben von historischer Architektur", "Ein beliebter Treffpunkt der Einheimischen"],
@@ -761,7 +819,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CU-03",
     coords: [-82.359, 23.136],
-    name: { de: "Gran Teatro de La Habana Alicia Alonso", hu: "Alicia Alonso Nagyszínház", ro: "Marele Teatru din Havana Alicia Alonso", en: "Great Theatre of Havana Alicia Alonso" },
+    name: { de: "Gran Teatro de La Habana Alicia Alonso", hu: "Alicia Alonso Nagyszínház", ro: "Marele Teatru din Havana Alicia Alonso", en: "Great Theatre of Havana Alicia Alonso",
+image: "/poi-images/cuba-landmarks-v2-30.webp"
+},
     description: { de: "Das renommierteste Opern- und Ballettgebäude Kubas.", hu: "Kuba legnevesebb opera- és balettszínháza.", ro: "Cea mai renumită clădire de operă și balet din Cuba.", en: "The most renowned opera and ballet building in Cuba." },
     facts: {
       de: ["Benannt nach der Primaballerina Alicia Alonso", "Ein architektonisches Juwel der Stadt", "Regelmäßige Aufführungen des Nationalballetts"],

@@ -14,8 +14,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       en: "Yantian Port"
     ,
     descriptionAdvanced: {
-      ro: "Portul Yantian din Shenzhen este unul dintre cele mai importante terminale de containere de mare adâncime din lume și o verigă crucială în lanțul global de aprovizionare. Situat în estul orașului Shenzhen, acesta face parte din complexul portuar Shenzhen, care se numără printre cele mai aglomerate din lume. Yantian este specializat în comerțul pe distanțe lungi, în special cu America de Nord și Europa, fiind capabil să primească cele mai mari nave port-container din lume. Datorită automatizării de ultimă generație și a sistemelor logistice inteligente, portul este un punct de referință în ceea ce privește eficiența și viteza de operare. Joacă un rol central în economia de export a Deltei Râului Perlelor, deoarece o parte semnificativă din produsele electronice și de larg consum fabricate în China ajung pe piața mondială prin această poartă. Extinderea continuă și modernizarea tehnologică asigură poziția Yantianului ca hub logistic global. Industrie K8 — specializare industrială."
-    },
+      ro: "Portul Yantian din Shenzhen este unul dintre cele mai importante terminale de containere de mare adâncime din lume și o verigă crucială în lanțul global de aprovizionare. Situat în estul orașului Shenzhen, acesta face parte din complexul portuar Shenzhen, care se numără printre cele mai aglomerate din lume. Yantian este specializat în comerțul pe distanțe lungi, în special cu America de Nord și Europa, fiind capabil să primească cele mai mari nave port-container din lume. Datorită automatizării de ultimă generație și a sistemelor logistice inteligente, portul este un punct de referință în ceea ce privește eficiența și viteza de operare. Joacă un rol central în economia de export a Deltei Râului Perlelor, deoarece o parte semnificativă din produsele electronice și de larg consum fabricate în China ajung pe piața mondială prin această poartă. Extinderea continuă și modernizarea tehnologică asigură poziția Yantianului ca hub logistic global. Industrie K8 — specializare industrială.",
+image: "/poi-images/yantian-port-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Portul Yantian este unul dintre cele mai mari porturi de containere de tip terminal unic din lume.", "Dispune de o adâncime naturală a apei de până la 17,6 metri.", "Portul operează peste 100 de servicii regulate pe săptămână la nivel mondial.", "Yantian este un pionier în utilizarea macaralelor automate de port în China.", "O mare parte din importurile SUA din China sunt procesate prin Yantian.", "Portul are o capacitate anuală de peste 13 milioane TEU (containere standard de 20 de picioare).", "Yantian este conectat direct la rețeaua feroviară națională pentru transport intermodal.", "Portul investește masiv în tehnologii de tip \\\"Green Port\\\" pentru reducerea emisiilor."]
     }
@@ -47,8 +48,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       en: "Zhanjiang Port"
     ,
     descriptionAdvanced: {
-      ro: "Portul Zhanjiang, situat în provincia Guangdong, reprezintă un pilon strategic pentru comerțul maritim din sudul Chinei, având o specializare distinctă în manipularea materiilor prime critice, cum ar fi țițeiul, minereul de fier și cărbunele. Poziția sa geografică la ieșirea spre Marea Chinei de Sud îl face un punct de tranzit ideal pentru resursele energetice care alimentează complexele industriale din interiorul țării. În ultimele decenii, portul a beneficiat de investiții masive pentru a-și mări capacitatea de procesare și pentru a integra facilități de stocare moderne, devenind un centru logistic vital pentru industria siderurgică și energetică din regiune. Zhanjiang este o piesă importantă în rețeaua de infrastructură care leagă resursele naturale din Asia de Sud-Est cu capacitățile de producție din China. Infrastructura feroviară și rutieră modernă asigură un flux continuu de mărfuri către provinciile din interiorul Chinei."
-    },
+      ro: "Portul Zhanjiang, situat în provincia Guangdong, reprezintă un pilon strategic pentru comerțul maritim din sudul Chinei, având o specializare distinctă în manipularea materiilor prime critice, cum ar fi țițeiul, minereul de fier și cărbunele. Poziția sa geografică la ieșirea spre Marea Chinei de Sud îl face un punct de tranzit ideal pentru resursele energetice care alimentează complexele industriale din interiorul țării. În ultimele decenii, portul a beneficiat de investiții masive pentru a-și mări capacitatea de procesare și pentru a integra facilități de stocare moderne, devenind un centru logistic vital pentru industria siderurgică și energetică din regiune. Zhanjiang este o piesă importantă în rețeaua de infrastructură care leagă resursele naturale din Asia de Sud-Est cu capacitățile de producție din China. Infrastructura feroviară și rutieră modernă asigură un flux continuu de mărfuri către provinciile din interiorul Chinei.",
+image: "/poi-images/zhanjiang-port-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Zhanjiang este considerat cel mai important port din sudul Chinei pentru manipularea țițeiului.", "Portul dispune de terminale specializate pentru descărcarea navelor de mare tonaj (supertancere).", "A fost unul dintre primele porturi deschise comerțului exterior după 1949.", "Portul este un nod logistic esențial pentru aprovizionarea cu minereu de fier a complexelor siderurgice.", "Zhanjiang joacă un rol major în strategia de securitate energetică a regiunii.", "Infrastructura portuară a fost modernizată pentru a integra tehnologii de stocare de ultimă oră.", "Este conectat la rețeaua feroviară care traversează provincia Guangdong și zonele adiacente.", "Zhanjiang servește drept poartă comercială pentru schimburile cu țările din regiunea ASEAN."]
     }
@@ -77,8 +79,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Shenhua Shendong Kohlebergwerk",
       hu: "Shenhua Shendong szénbánya",
       ro: "Mina de cărbune Shenhua Shendong",
-      en: "Shenhua Shendong Coal Mine"
-    },
+      en: "Shenhua Shendong Coal Mine",
+image: "/poi-images/shenhua-shendong-coal-mine-economic-v2.webp"
+},
     description: {
       de: "Eines der größten und technologisch fortschrittlichsten Kohlebergwerke der Welt in der Inneren Mongolei und der Provinz Shaanxi.",
       hu: "A világ egyik legnagyobb és technológiailag legfejlettebb szénbányája Belső-Mongóliában és Shaanxi tartományban.",
@@ -113,8 +116,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Baosteel Werk Shanghai",
       hu: "Baosteel sanghaji gyár",
       ro: "Uzina Baosteel Shanghai",
-      en: "Baosteel Shanghai Plant"
-    },
+      en: "Baosteel Shanghai Plant",
+image: "/poi-images/baosteel-shanghai-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Stahlwerke der Welt und der Hauptproduktionsstandort von Baoshan Iron & Steel Co., Ltd.",
       hu: "A világ egyik legnagyobb acélműve, a Baoshan Iron & Steel Co., Ltd. fő gyártóbázisa.",
@@ -149,8 +153,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Drei-Schluchten-Damm",
       hu: "Három-szurdok gát",
       ro: "Barajul de la cele Trei Defileuri",
-      en: "Three Gorges Dam"
-    },
+      en: "Three Gorges Dam",
+image: "/poi-images/three-gorges-dam-economic-v2.webp"
+},
     description: {
       de: "Das größte Wasserkraftwerk der Welt, das eine entscheidende Rolle bei der Stromerzeugung und beim Hochwasserschutz in China spielt.",
       hu: "A világ legnagyobb vízerőműve, amely kulcsfontosságú szerepet játszik Kína áramtermelésében és árvízvédelmében.",
@@ -185,8 +190,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Yiwu International Trade City",
       hu: "Yiwu Nemzetközi Kereskedelmi Város",
       ro: "Orașul Comercial Internațional Yiwu",
-      en: "Yiwu International Trade City"
-    },
+      en: "Yiwu International Trade City",
+image: "/poi-images/yiwu-international-trade-city-economic-v2.webp"
+},
     description: {
       de: "Ein riesiger Großhandelsmarkt in Yiwu, der auf Kleinwaren und Exporthandel ausgerichtet ist. Er gilt als wichtiger Knotenpunkt für den internationalen Warenfluss in Ostchina.",
       hu: "Yiwu hatalmas kisárunagypiaca Csöcsiang tartományban. Több tízezer standdal és óriási árukínálattal a nemzetközi exportkereskedelem fontos központja.",
@@ -221,8 +227,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "TSMC Fab Nanjing",
       hu: "TSMC Nankingi gyár",
       ro: "Fabrica TSMC Nanjing",
-      en: "TSMC Fab Nanjing"
-    },
+      en: "TSMC Fab Nanjing",
+image: "/poi-images/tsmc-nanjing-economic-v2.webp"
+},
     description: {
       de: "Eine hochmoderne Halbleiterfabrik (Fab) von Taiwan Semiconductor Manufacturing Company in Nanjing, die fortschrittliche Chips herstellt.",
       hu: "A Taiwan Semiconductor Manufacturing Company (TSMC) legmodernebb félvezetőgyára Nankingban, amely fejlett chipeket gyárt.",
@@ -257,8 +264,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Datong Kohleindustrie",
       hu: "Datong Szénipar",
       ro: "Industria Cărbunelui Datong",
-      en: "Datong Coal Industry"
-    },
+      en: "Datong Coal Industry",
+image: "/poi-images/datong-coal-industry-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Kohleunternehmen in China mit Sitz in Datong, Provinz Shanxi, bekannt für seinen hochwertigen Dampfkohleabbau.",
       hu: "Kína egyik legnagyobb szénipari vállalata, amely Datongban, Shanxi tartományban található, és kiváló minőségű energetikai szénbányászatáról ismert.",
@@ -293,8 +301,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Sinopec Raffinerie Zhenhai",
       hu: "Sinopec Zhenhai Finomító",
       ro: "Rafinăria Sinopec Zhenhai",
-      en: "Sinopec Zhenhai Refinery"
-    },
+      en: "Sinopec Zhenhai Refinery",
+image: "/poi-images/sinopec-zhenhai-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine der größten und modernsten Ölraffinerien der Welt, betrieben von Sinopec, in Ningbo.",
       hu: "A világ egyik legnagyobb és legmodernebb olajfinomítója, amelyet a Sinopec üzemeltet Ningbóban.",
@@ -329,8 +338,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Windpark Gansu",
       hu: "Gansu szélerőműpark",
       ro: "Parcul Eolian Gansu",
-      en: "Gansu Wind Farm"
-    },
+      en: "Gansu Wind Farm",
+image: "/poi-images/gansu-wind-farm-economic-v2.webp"
+},
     description: {
       de: "Einer der größten Windparks der Welt in der Provinz Gansu, ein Meilenstein für Chinas Engagement für erneuerbare Energien.",
       hu: "A világ egyik legnagyobb szélerőműparkja Gansu tartományban, mérföldkő Kína megújuló energia iránti elkötelezettségében.",
@@ -365,8 +375,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Hafengebiet Jingtang",
       hu: "Jingtang kikötő terület",
       ro: "Zona Portuară Jingtang",
-      en: "Jingtang Port Area"
-    },
+      en: "Jingtang Port Area",
+image: "/poi-images/jingtang-port-area-economic-v2.webp"
+},
     description: {
       de: "Ein Teil des Hafens von Tangshan, ein wichtiger Seehafen für den Transport von Kohle, Stahl und Eisenerz in Nordchina.",
       hu: "A Tangshan kikötő része, Észak-Kína egyik fontos tengeri kikötője a szén, acél és vasérc szállítására.",
@@ -401,8 +412,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Foxconn Campus Shenzhen",
       hu: "Foxconn Shenzhen Kampusz",
       ro: "Campusul Foxconn Shenzhen",
-      en: "Foxconn Shenzhen Campus"
-    },
+      en: "Foxconn Shenzhen Campus",
+image: "/poi-images/foxconn-shenzhen-campus-economic-v2.webp"
+},
     description: {
       de: "Ein riesiger Produktionskomplex, bekannt für die Montage von Elektronikprodukten für große globale Marken wie Apple. Oft als \\\"Foxconn City\\\" bezeichnet.",
       hu: "Hatalmas gyártókomplexum, amely olyan nagy globális márkák, mint az Apple elektronikai termékeinek összeszereléséről ismert. Gyakran \\\"Foxconn City\\\"-nek is nevezik.",
@@ -437,8 +449,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Bayan-Obo-Mine",
       hu: "Bayan Obo bánya",
       ro: "Mina Bayan Obo",
-      en: "Bayan Obo Mine"
-    },
+      en: "Bayan Obo Mine",
+image: "/poi-images/bayan-obo-mine-economic-v2.webp"
+},
     description: {
       de: "Die weltweit größte bekannte Lagerstätte für Seltene Erden in der Inneren Mongolei, die für die globale High-Tech-Industrie von entscheidender Bedeutung ist.",
       hu: "A világ legnagyobb ismert ritkaföldfém-lelőhelye Belső-Mongóliában, amely kulcsfontosságú a globális high-tech ipar számára.",
@@ -473,8 +486,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Elektronikmarkt Huaqiangbei",
       hu: "Huaqiangbei elektronikai piac",
       ro: "Piața de Electronice Huaqiangbei",
-      en: "Huaqiangbei Electronics Market"
-    },
+      en: "Huaqiangbei Electronics Market",
+image: "/poi-images/huaqiangbei-electronics-market-economic-v2.webp"
+},
     description: {
       de: "Ein weltberühmter Elektronik-Großhandelsmarkt in Shenzhen, der alles von Komponenten bis hin zu fertigen Geräten verkauft.",
       hu: "Világhírű elektronikai nagybani piac Sencsenben, ahol az alkatrészektől a kész eszközökig mindent árulnak.",
@@ -509,8 +523,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Hafen Tianjin",
       hu: "Tiencsini kikötő",
       ro: "Portul Tianjin",
-      en: "Port of Tianjin"
-    },
+      en: "Port of Tianjin",
+image: "/poi-images/tianjin-port-economic-v2.webp"
+},
     description: {
       de: "Der größte Hafen in Nordchina und das maritime Tor zu Peking. Ein wichtiger Umschlagplatz für Container und Massengüter.",
       hu: "Észak-Kína legnagyobb kikötője és Peking tengeri kapuja. Fontos átrakodási pont konténerek és ömlesztett áruk számára.",
@@ -545,8 +560,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Haier Industriepark Qingdao",
       hu: "Haier Ipari Park, Csingtao",
       ro: "Parcul Industrial Haier Qingdao",
-      en: "Haier Industrial Park Qingdao"
-    },
+      en: "Haier Industrial Park Qingdao",
+image: "/poi-images/qingdao-haier-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Ein riesiger Industriepark des Haushaltsgeräteherstellers Haier, der Forschung, Entwicklung und Produktion integriert.",
       hu: "A Haier háztartásigép-gyártó óriásvállalat hatalmas ipari parkja, amely integrálja a kutatást, fejlesztést és gyártást.",
@@ -581,8 +597,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Mine der Jinchuan-Gruppe",
       hu: "Jinchuan Csoport bánya",
       ro: "Mina Grupului Jinchuan",
-      en: "Jinchuan Group Mine"
-    },
+      en: "Jinchuan Group Mine",
+image: "/poi-images/jinchuan-group-mine-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Nickel-, Kupfer- und Kobaltminen der Welt in der Provinz Gansu. Ein wichtiger Lieferant für die Batterie- und Legierungsindustrie.",
       hu: "A világ egyik legnagyobb nikkel-, réz- és kobaltbányája Gansu tartományban. Fontos beszállító az akkumulátor- és ötvözetipar számára.",
@@ -617,8 +634,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Tiefwasserhafen Yangshan",
       hu: "Yangshan mélyvízi kikötő",
       ro: "Portul de Apă Adâncă Yangshan",
-      en: "Yangshan Deep-Water Port"
-    },
+      en: "Yangshan Deep-Water Port",
+image: "/poi-images/yangshan-deep-water-port-economic-v2.webp"
+},
     description: {
       de: "Der größte automatisierte Containerterminal der Welt, Teil des Hafens von Shanghai, auf Inseln vor der Küste gebaut.",
       hu: "A világ legnagyobb automatizált konténerterminálja, a sanghaji kikötő része, a parttól távol eső szigeteken épült.",
@@ -653,8 +671,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "CATL Werk Ningde",
       hu: "CATL Ningde gyár",
       ro: "Uzina CATL Ningde",
-      en: "CATL Ningde Plant"
-    },
+      en: "CATL Ningde Plant",
+image: "/poi-images/catl-ningde-plant-economic-v2.webp"
+},
     description: {
       de: "Der Hauptsitz und eine wichtige Produktionsstätte von Contemporary Amperex Technology Co. Limited (CATL), dem weltweit größten Hersteller von Batterien für Elektrofahrzeuge.",
       hu: "A Contemporary Amperex Technology Co. Limited (CATL), a világ legnagyobb elektromosjármű-akkumulátor gyártójának központja és fontos termelési bázisa.",
@@ -689,8 +708,9 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Shengli-Ölfeld",
       hu: "Shengli olajmező",
       ro: "Câmpul Petrolier Shengli",
-      en: "Shengli Oil Field"
-    },
+      en: "Shengli Oil Field",
+image: "/poi-images/shengli-oil-field-economic-v2.webp"
+},
     description: {
       de: "Eines der wichtigsten und ältesten Ölfelder Chinas in der Provinz Shandong, betrieben von Sinopec.",
       hu: "Kína egyik legfontosabb és legrégebbi olajmezője Shandong tartományban, a Sinopec üzemeltetésében.",

@@ -11,8 +11,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Platz der Revolution",
       hu: "Forradalom tere",
       ro: "Piața Revoluției",
-      en: "Plaza of the Revolution"
-    },
+      en: "Plaza of the Revolution",
+image: "/poi-images/ni-plaza-revolucion-landmarks-v2.webp"
+},
     description: {
       de: "Dieser historische Platz im Herzen von Managua ist ein zentraler Ort für nationale Feierlichkeiten und umgeben von bedeutenden Bauwerken.",
       hu: "Ez a történelmi tér Managua szívében a nemzeti ünnepek központi helyszíne, amelyet jelentős épületek vesznek körül.",
@@ -63,8 +64,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Rubén Darío Denkmal",
       hu: "Rubén Darío emlékmű",
       ro: "Monumentul lui Rubén Darío",
-      en: "Rubén Darío Monument"
-    },
+      en: "Rubén Darío Monument",
+image: "/poi-images/ni-monumento-ruben-dario-landmarks-v2.webp"
+},
     description: {
       de: "Ein imposantes Monument aus weißem Marmor am Ufer des Managuasees, das dem größten nicaraguanischen Dichter gewidmet ist.",
       hu: "Egy impozáns, fehér márványból készült emlékmű a Managua-tó partján, amelyet Nicaragua legnagyobb költőjének szenteltek.",
@@ -115,8 +117,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Nationaltheater Rubén Darío",
       hu: "Rubén Darío Nemzeti Színház",
       ro: "Teatrul Național Rubén Darío",
-      en: "Rubén Darío National Theater"
-    },
+      en: "Rubén Darío National Theater",
+image: "/poi-images/ni-teatro-nacional-ruben-dario-landmarks-v2.webp"
+},
     description: {
       de: "Das wichtigste Zentrum für darstellende Künste in Nicaragua, bekannt für seine hervorragende Akustik und modernistische Architektur.",
       hu: "Nicaragua legfontosabb előadó-művészeti központja, amely kiváló akusztikájáról és modernista építészetéről ismert.",
@@ -167,8 +170,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kathedrale von León",
       hu: "Leóni katedrális",
       ro: "Catedrala din León",
-      en: "León Cathedral"
-    },
+      en: "León Cathedral",
+image: "/poi-images/ni-catedral-de-leon-landmarks-v2.webp"
+},
     description: {
       de: "Eine der größten Kathedralen Mittelamerikas, die durch ihr helles, weißes Dach und barocke Architekturvielfalt besticht.",
       hu: "Közép-Amerika egyik legnagyobb katedrálisa, amely világos, fehér tetejével és sokszínű barokk építészetével nyűgöz le.",
@@ -219,8 +223,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Ruinen von León Viejo",
       hu: "León Viejo romjai",
       ro: "Ruinele León Viejo",
-      en: "Ruins of León Viejo"
-    },
+      en: "Ruins of León Viejo",
+image: "/poi-images/ni-ruinas-leon-viejo-landmarks-v2.webp"
+},
     description: {
       de: "Die archäologischen Überreste der ursprünglichen Stadt León, die nach Vulkanausbrüchen und Erdbeben verlassen wurde.",
       hu: "Az eredeti León város régészeti maradványai, amelyet vulkánkitörések és földrengések miatt hagytak el.",
@@ -271,8 +276,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kathedrale von Granada",
       hu: "Granadai katedrális",
       ro: "Catedrala din Granada",
-      en: "Granada Cathedral"
-    },
+      en: "Granada Cathedral",
+image: "/poi-images/ni-catedral-de-granada-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante neoklassizistische Kirche mit farbenfroher Fassade, die das Stadtbild am zentralen Platz von Granada dominiert.",
       hu: "Kiemelkedő neoklasszikus templom színes homlokzattal, amely Granada központi terének városképét uralja.",
@@ -323,8 +329,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Festung El Coyotepe",
       hu: "El Coyotepe erőd",
       ro: "Fortăreața El Coyotepe",
-      en: "El Coyotepe Fortress"
-    },
+      en: "El Coyotepe Fortress",
+image: "/poi-images/ni-fortaleza-coyotepe-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Festung auf einem Hügel über Masaya, die einst als militärischer Stützpunkt und Gefängnis diente.",
       hu: "Történelmi erőd egy dombon Masaya felett, amely egykor katonai támaszpontként és börtönként szolgált.",
@@ -375,8 +382,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Bobadilla-Kreuz",
       hu: "Bobadilla keresztje",
       ro: "Crucea lui Bobadilla",
-      en: "Bobadilla Cross"
-    },
+      en: "Bobadilla Cross",
+image: "/poi-images/ni-cruz-de-bobadilla-landmarks-v2.webp"
+},
     description: {
       de: "Ein monumentales Holzkreuz am Kraterrand des aktiven Vulkans Masaya, aufgestellt von spanischen Mönchen zur Abwehr des Teufels.",
       hu: "Egy monumentális fakereszt az aktív Masaya vulkán kráterének peremén, amelyet spanyol szerzetesek állítottak az ördög elűzésére.",
@@ -427,8 +435,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Christusstatue der Barmherzigkeit",
       hu: "Az Irgalmasság Krisztusa szobor",
       ro: "Statuia Hristos al Milei",
-      en: "Christ of the Mercy Statue"
-    },
+      en: "Christ of the Mercy Statue",
+image: "/poi-images/ni-cristo-misericordia-landmarks-v2.webp"
+},
     description: {
       de: "Eine gigantische Christusstatue auf einem Hügel über der Bucht von San Juan del Sur, die einen weiten Blick über den Ozean bietet.",
       hu: "Egy gigantikus Krisztus-szobor egy dombon, a San Juan del Sur öböl felett, amely széles kilátást nyújt az óceánra.",
@@ -479,8 +488,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kirche San Juan Bautista de Subtiava",
       hu: "Subtiava Keresztelő Szent János temploma",
       ro: "Biserica San Juan Bautista din Subtiava",
-      en: "Church of San Juan Bautista of Subtiava"
-    },
+      en: "Church of San Juan Bautista of Subtiava",
+image: "/poi-images/ni-iglesia-subtiava-landmarks-v2.webp"
+},
     description: {
       de: "Eine der ältesten Kolonialkirchen in León, berühmt für ihr rustikales Erscheinungsbild und die geschnitzte Holzdecke mit einem indigenen Sonnensymbol.",
       hu: "León egyik legrégebbi gyarmati temploma, amely híres rusztikus megjelenéséről és egy őslakos napmotívumot ábrázoló faragott famennyezetéről.",
@@ -531,8 +541,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Denkmal des Kaziken Diriangén",
       hu: "Diriangén törzsfőnök emlékműve",
       ro: "Monumentul Căpeteniei Diriangén",
-      en: "Monument to Cacique Diriangén"
-    },
+      en: "Monument to Cacique Diriangén",
+image: "/poi-images/ni-monumento-diriangen-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Statue im Zentrum von Diriamba, die an den indigenen Anführer erinnert, der sich 1523 den spanischen Konquistadoren widersetzte.",
       hu: "Jelentős szobor Diriamba központjában, amely arra az őslakos vezetőre emlékeztet, aki 1523-ban szembeszállt a spanyol hódítókkal.",
@@ -583,8 +594,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Heiligtum von Cuapa",
       hu: "Cuapai Miasszonyunk Nemzeti Kegyhely",
       ro: "Sanctuarul Național din Cuapa",
-      en: "National Sanctuary of Our Lady of Cuapa"
-    },
+      en: "National Sanctuary of Our Lady of Cuapa",
+image: "/poi-images/ni-santuario-cuapa-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger katholischer Wallfahrtsort in Chontales, an dem 1980 eine Marienerscheinung stattgefunden haben soll.",
       hu: "Fontos katolikus zarándokhely Chontalesben, ahol 1980-ban egy Mária-jelenés történt a hívők szerint.",
@@ -635,8 +647,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kirche Mariä Himmelfahrt (Masaya)",
       hu: "Nagyboldogasszony-templom (Masaya)",
       ro: "Biserica Adormirea Maicii Domnului (Masaya)",
-      en: "Church of the Assumption (Masaya)"
-    },
+      en: "Church of the Assumption (Masaya)",
+image: "/poi-images/ni-iglesia-asuncion-masaya-landmarks-v2.webp"
+},
     description: {
       de: "Eine malerische Barockkirche am Zentralplatz von Masaya, die das kulturelle und spirituelle Herz der 'Stadt der Blumen' bildet.",
       hu: "Festői barokk templom Masaya központi terén, amely a 'Virágok városának' kulturális és spirituális szívét alkotja.",
@@ -687,8 +700,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Loma de Tiscapa",
       hu: "Tiscapa-domb",
       ro: "Dealul Tiscapa",
-      en: "Tiscapa Hill"
-    },
+      en: "Tiscapa Hill",
+image: "/poi-images/ni-loma-tiscapa-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Hügel vulkanischen Ursprungs über Managua, der von der ikonischen schwarzen Silhouette von General Sandino gekrönt wird.",
       hu: "Vulkáni eredetű történelmi domb Managua felett, amelyet Sandino tábornok ikonikus fekete sziluettje koronáz meg.",
@@ -739,8 +753,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kirche La Recolección",
       hu: "La Recolección templom",
       ro: "Biserica La Recolección",
-      en: "La Recolección Church"
-    },
+      en: "La Recolección Church",
+image: "/poi-images/ni-iglesia-recoleccion-landmarks-v2.webp"
+},
     description: {
       de: "Eine der auffälligsten Kirchen in León, bekannt für ihre tiefgelbe Farbe und ihre kunstvoll geschnitzte mexikanisch-barocke Fassade.",
       hu: "León egyik legfeltűnőbb temploma, amely sötétsárga színéről és bonyolultan faragott mexikói barokk homlokzatáról ismert.",
@@ -791,8 +806,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Mausoleum der Helden und Märtyrer",
       hu: "Hősök és Vértanúk Mauzóleuma",
       ro: "Mausoleul Eroilor și Martirilor",
-      en: "Mausoleum of Heroes and Martyrs"
-    },
+      en: "Mausoleum of Heroes and Martyrs",
+image: "/poi-images/ni-mausoleo-heroes-martires-landmarks-v2.webp"
+},
     description: {
       de: "Eine Gedenkstätte im Zentrum von León, umgeben von einem großen Wandgemälde, die den Gefallenen der sandinistischen Revolution gewidmet ist.",
       hu: "Emlékhely León központjában, amelyet egy nagy falfestmény vesz körül, és a sandinista forradalom áldozatainak szenteltek.",
@@ -843,8 +859,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Uhrenturm von Diriamba",
       hu: "Diriambai óratorony",
       ro: "Turnul cu Ceas din Diriamba",
-      en: "Clock Tower of Diriamba"
-    },
+      en: "Clock Tower of Diriamba",
+image: "/poi-images/ni-reloj-diriamba-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter städtischer Uhrenturm in Diriamba, der im frühen 20. Jahrhundert als Symbol des wirtschaftlichen Aufschwungs durch Kaffee errichtet wurde.",
       hu: "Jellegzetes városi óratorony Diriambában, amelyet a 20. század elején építettek a kávé okozta gazdasági fellendülés szimbólumaként.",
@@ -895,8 +912,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Leuchtturm von Masachapa",
       hu: "Masachapai világítótorony",
       ro: "Farul din Masachapa",
-      en: "Masachapa Lighthouse"
-    },
+      en: "Masachapa Lighthouse",
+image: "/poi-images/ni-faro-masachapa-landmarks-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber markanter historischer Leuchtturm, der am schwarzen Sandstrand der Pazifikküste steht und früher der Orientierung der Fischer diente.",
       hu: "Egy kicsi, de jellegzetes történelmi világítótorony, amely a csendes-óceáni part fekete homokos strandján áll, és korábban a halászok tájékozódását szolgálta.",
@@ -947,8 +965,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kapelle María Auxiliadora",
       hu: "María Auxiliadora kápolna",
       ro: "Capela María Auxiliadora",
-      en: "María Auxiliadora Chapel"
-    },
+      en: "María Auxiliadora Chapel",
+image: "/poi-images/ni-capilla-maria-auxiliadora-landmarks-v2.webp"
+},
     description: {
       de: "Eine wunderschöne neugotische Kapelle in Granada, die sich durch ihre spitzen Bögen und detaillierten Glasmalereien auszeichnet.",
       hu: "Egy gyönyörű neogótikus kápolna Granadában, amely csúcsíveivel és részletgazdag ólomüveg ablakaival tűnik ki.",
@@ -999,8 +1018,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kirche San Jerónimo (Masaya)",
       hu: "Szent Jeromos-templom",
       ro: "Biserica San Jerónimo",
-      en: "San Jerónimo Church"
-    },
+      en: "San Jerónimo Church",
+image: "/poi-images/ni-iglesia-san-jeronimo-landmarks-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Kirche in Masaya, die dem Schutzpatron der Stadt gewidmet ist und das Zentrum lang andauernder Festlichkeiten bildet.",
       hu: "Masaya történelmileg jelentős temploma, amelyet a város védőszentjének szenteltek, és a hosszan tartó ünnepségek központja.",
@@ -1051,8 +1071,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Alter Bahnhof von Granada",
       hu: "Régi granadai vasútállomás",
       ro: "Vechea Gară din Granada",
-      en: "Old Railway Station of Granada"
-    },
+      en: "Old Railway Station of Granada",
+image: "/poi-images/ni-antigua-estacion-ferrocarril-granada-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude, das an die Zeit erinnert, als Granada noch durch ein ausgedehntes Eisenbahnnetz mit dem Rest des Landes verbunden war.",
       hu: "Egy történelmi épület, amely arra az időre emlékeztet, amikor Granadát még kiterjedt vasúthálózat kötötte össze az ország többi részével.",
@@ -1103,8 +1124,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Krankenhausruine San Juan de Dios (Granada)",
       hu: "San Juan de Dios kórház romjai",
       ro: "Ruinele Spitalului San Juan de Dios (Granada)",
-      en: "Ruins of San Juan de Dios Hospital"
-    },
+      en: "Ruins of San Juan de Dios Hospital",
+image: "/poi-images/ni-ruinas-hospital-san-juan-landmarks-v2.webp"
+},
     description: {
       de: "Die verfallenen Überreste eines ehemals grandiosen Krankenhauses in Granada, die heute ein beliebter, etwas unheimlicher Ort für Fotografen sind.",
       hu: "Egy egykor pompás granadai kórház romos maradványai, amely ma népszerű, kissé kísérteties helyszín a fotósok számára.",
@@ -1155,8 +1177,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Kathedrale San Pedro von Matagalpa",
       hu: "Matagalpai Szent Péter-katedrális",
       ro: "Catedrala San Pedro din Matagalpa",
-      en: "San Pedro Cathedral of Matagalpa"
-    },
+      en: "San Pedro Cathedral of Matagalpa",
+image: "/poi-images/ni-catedral-san-pedro-matagalpa-landmarks-v2.webp"
+},
     description: {
       de: "Das beeindruckende religiöse Zentrum von Matagalpa, das durch seine massive Bauweise und strahlend weiße Fassade auffällt.",
       hu: "Matagalpa lenyűgöző vallási központja, amely masszív szerkezetével és ragyogó fehér homlokzatával hívja fel magára a figyelmet.",
@@ -1207,8 +1230,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Gefallenendenkmal von Estelí",
       hu: "Estelí hősi halottainak emlékműve",
       ro: "Monumentul Eroilor Căzuți din Estelí",
-      en: "Monument to the Fallen of Estelí"
-    },
+      en: "Monument to the Fallen of Estelí",
+image: "/poi-images/ni-monumento-caidos-esteli-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Denkmal auf dem zentralen Platz von Estelí, das den Kämpfern und Zivilisten gewidmet ist, die während der Revolution ums Leben kamen.",
       hu: "Jelentős emlékmű Estelí központi terén, amelyet azoknak a harcosoknak és civileknek szenteltek, akik a forradalom során vesztették életüket.",
@@ -1259,8 +1283,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Brücke Paso Caballos",
       hu: "Paso Caballos híd",
       ro: "Podul Paso Caballos",
-      en: "Paso Caballos Bridge"
-    },
+      en: "Paso Caballos Bridge",
+image: "/poi-images/ni-puente-paso-caballos-landmarks-v2.webp"
+},
     description: {
       de: "Eine entscheidende Verbindungsbrücke, die das Festland mit der Hafenstadt Corinto über ein Mündungsgebiet hinweg verbindet.",
       hu: "Egy létfontosságú összekötő híd, amely a szárazföldet a Corinto kikötővárossal köti össze egy torkolatvidéken keresztül.",
@@ -1311,8 +1336,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Nationalstadion Soberanía",
       hu: "Soberanía Nemzeti Stadion",
       ro: "Stadionul Național Soberanía",
-      en: "Soberanía National Stadium"
-    },
+      en: "Soberanía National Stadium",
+image: "/poi-images/ni-estadio-soberania-landmarks-v2.webp"
+},
     description: {
       de: "Ein hochmodernes Baseballstadion in Managua, das als größtes und bestes in ganz Mittelamerika gilt.",
       hu: "Egy rendkívül modern baseballstadion Managuában, amelyet egész Közép-Amerika legnagyobb és legjobb stadionjának tartanak.",
@@ -1363,8 +1389,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Friedensglocke von Managua",
       hu: "Managuai békeharang",
       ro: "Clopotul Păcii din Managua",
-      en: "Peace Bell of Managua"
-    },
+      en: "Peace Bell of Managua",
+image: "/poi-images/ni-campana-paz-landmarks-v2.webp"
+},
     description: {
       de: "Ein kürzlich errichteter hoher Glockenturm im historischen Zentrum von Managua, der einen weiten Blick über die Hauptstadt ermöglicht.",
       hu: "Egy nemrégiben emelt magas harangtorony Managua történelmi központjában, amely széles kilátást nyújt a fővárosra.",
@@ -1415,8 +1442,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Basilika San Sebastián (Diriamba)",
       hu: "Szent Sebestyén-bazilika (Diriamba)",
       ro: "Bazilica San Sebastián (Diriamba)",
-      en: "San Sebastián Basilica (Diriamba)"
-    },
+      en: "San Sebastián Basilica (Diriamba)",
+image: "/poi-images/ni-basilica-san-sebastian-diriamba-landmarks-v2.webp"
+},
     description: {
       de: "Eine majestätische weiße Basilika am zentralen Platz von Diriamba, die eine Schlüsselrolle bei den farbenfrohen Festen der Stadt spielt.",
       hu: "Fenséges fehér bazilika Diriamba központi terén, amely kulcsszerepet játszik a város színes ünnepein.",
@@ -1467,8 +1495,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Guadalupe-Kirche (Granada)",
       hu: "Guadalupe-templom (Granada)",
       ro: "Biserica Guadalupe (Granada)",
-      en: "Guadalupe Church (Granada)"
-    },
+      en: "Guadalupe Church (Granada)",
+image: "/poi-images/ni-iglesia-guadalupe-granada-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Steinkirche am Ende der Hauptstraße von Granada, nicht weit vom Ufer des großen Nicaragua-Sees entfernt.",
       hu: "Egy történelmi kőtemplom Granada főutcájának végén, nem messze a nagy Nicaragua-tó partjától.",
@@ -1519,8 +1548,9 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
       de: "Festung San Pablo",
       hu: "San Pablo erőd",
       ro: "Fortăreața San Pablo",
-      en: "San Pablo Fortress"
-    },
+      en: "San Pablo Fortress",
+image: "/poi-images/ni-fortaleza-san-pablo-landmarks-v2.webp"
+},
     description: {
       de: "Eine kleine, gut erhaltene Kolonialfestung auf einer Insel im Nicaragua-See, erbaut um die Stadt Granada vor Piratenangriffen zu schützen.",
       hu: "Egy kicsi, jól karbantartott gyarmati erőd a Nicaragua-tó egyik szigetén, amelyet azért építettek, hogy megvédjék Granada városát a kalózok támadásaitól.",

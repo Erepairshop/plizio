@@ -12,7 +12,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kuala Lumpur",
       ro: "Kuala Lumpur",
       en: "Kuala Lumpur",
-    },
+image: "/poi-images/kuala-lumpur-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt und größte Stadt Malaysias, bekannt für die Petronas Towers.",
       hu: "Malajzia fővárosa és legnagyobb városa, híres a Petronas-ikertornyokról.",
@@ -48,7 +49,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "George Town",
       ro: "George Town",
       en: "George Town",
-    },
+image: "/poi-images/george-town-penang-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Bundesstaates Penang, ein UNESCO-Weltkulturerbe.",
       hu: "Penang állam fővárosa, UNESCO Világörökségi helyszín.",
@@ -84,7 +86,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Johor Bahru",
       ro: "Johor Bahru",
       en: "Johor Bahru",
-    },
+image: "/poi-images/johor-bahru-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Bundesstaates Johor, an der Grenze zu Singapur gelegen.",
       hu: "Johor állam fővárosa, Szingapúr határán fekszik.",
@@ -120,7 +123,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Ipoh",
       ro: "Ipoh",
       en: "Ipoh",
-    },
+image: "/poi-images/ipoh-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Perak, bekannt für ihre britische Kolonialarchitektur.",
       hu: "Perak fővárosa, híres a brit gyarmati építészetéről.",
@@ -156,7 +160,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kuching",
       ro: "Kuching",
       en: "Kuching",
-    },
+image: "/poi-images/kuching-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Sarawak auf der Insel Borneo.",
       hu: "Sarawak fővárosa Borneó szigetén.",
@@ -192,7 +197,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kota Kinabalu",
       ro: "Kota Kinabalu",
       en: "Kota Kinabalu",
-    },
+image: "/poi-images/kota-kinabalu-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Sabah, in der Nähe des Mount Kinabalu.",
       hu: "Sabah fővárosa, a Kinabalu-hegy közelében.",
@@ -228,7 +234,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Shah Alam",
       ro: "Shah Alam",
       en: "Shah Alam",
-    },
+image: "/poi-images/shah-alam-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Selangor, bekannt für ihre Sultan-Salahuddin-Abdul-Aziz-Moschee.",
       hu: "Selangor fővárosa, híres a Sultan Salahuddin Abdul Aziz mecsetről.",
@@ -264,7 +271,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Malakka",
       ro: "Malacca",
       en: "Malacca City",
-    },
+image: "/poi-images/malakka-stadt-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Malakka, reich an kolonialer Geschichte.",
       hu: "Malakka fővárosa, gazdag gyarmati történelemmel.",
@@ -300,7 +308,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kuantan",
       ro: "Kuantan",
       en: "Kuantan",
-    },
+image: "/poi-images/kuantan-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Pahang, an der Ostküste der malaiischen Halbinsel gelegen.",
       hu: "Pahang fővárosa, a Maláj-félsziget keleti partján.",
@@ -336,7 +345,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Seremban",
       ro: "Seremban",
       en: "Seremban",
-    },
+image: "/poi-images/seremban-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Negeri Sembilan, bekannt für ihre Minangkabau-Kultur.",
       hu: "Negeri Sembilan fővárosa, híres a minangkabau kultúráról.",
@@ -372,7 +382,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kota Bharu",
       ro: "Kota Bharu",
       en: "Kota Bharu",
-    },
+image: "/poi-images/kota-bharu-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Kelantan, ein Zentrum der malaiischen Kultur.",
       hu: "Kelantan fővárosa, a maláj kultúra központja.",
@@ -408,7 +419,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kuala Terengganu",
       ro: "Kuala Terengganu",
       en: "Kuala Terengganu",
-    },
+image: "/poi-images/kuala-terengganu-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Terengganu, an der Mündung des Terengganu-Flusses.",
       hu: "Terengganu fővárosa, a Terengganu-folyó torkolatánál.",
@@ -444,7 +456,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Alor Setar",
       ro: "Alor Setar",
       en: "Alor Setar",
-    },
+image: "/poi-images/alorsetar-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Kedah, bekannt als die 'Reisschale Malaysias'.",
       hu: "Kedah fővárosa, Malajzia 'rizstáljaként' ismert.",
@@ -480,7 +493,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kangar",
       ro: "Kangar",
       en: "Kangar",
-    },
+image: "/poi-images/kangar-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Perlis, dem kleinsten Bundesstaat Malaysias.",
       hu: "Perlis fővárosa, Malajzia legkisebb államáé.",
@@ -516,7 +530,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Putrajaya",
       ro: "Putrajaya",
       en: "Putrajaya",
-    },
+image: "/poi-images/putrajaya-cities-v2.webp"
+},
     description: {
       de: "Das föderale Verwaltungszentrum Malaysias.",
       hu: "Malajzia szövetségi közigazgatási központja.",
@@ -552,7 +567,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Subang Jaya",
       ro: "Subang Jaya",
       en: "Subang Jaya",
-    },
+image: "/poi-images/subang-jaya-cities-v2.webp"
+},
     description: {
       de: "Eine wohlhabende Stadt in Selangor, bekannt für ihre Wohn- und Gewerbegebiete.",
       hu: "Egy jómódú város Selangorban, ismert lakó- és kereskedelmi területeiről.",
@@ -588,7 +604,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Klang",
       ro: "Klang",
       en: "Klang",
-    },
+image: "/poi-images/klang-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt in Selangor, die einst die Hauptstadt des Bundesstaates war.",
       hu: "Egy történelmi város Selangorban, amely egykor az állam fővárosa volt.",
@@ -624,7 +641,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Petaling Jaya",
       ro: "Petaling Jaya",
       en: "Petaling Jaya",
-    },
+image: "/poi-images/petaling-jaya-cities-v2.webp"
+},
     description: {
       de: "Eine Satellitenstadt von Kuala Lumpur, die erste geplante Stadt in Malaysia.",
       hu: "Kuala Lumpur műholdvárosa, az első tervezett város Malajziában.",
@@ -660,7 +678,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Miri",
       ro: "Miri",
       en: "Miri",
-    },
+image: "/poi-images/miri-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in Sarawak, das Zentrum der Erdölindustrie in der Region.",
       hu: "Tengerparti város Sarawakban, a régió kőolajiparának központja.",
@@ -696,7 +715,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Sibu",
       ro: "Sibu",
       en: "Sibu",
-    },
+image: "/poi-images/sibu-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt am Rajang-Fluss in Sarawak, ein wichtiges Handelszentrum.",
       hu: "Város a Rajang folyó mentén Sarawakban, fontos kereskedelmi központ.",
@@ -732,7 +752,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Sandakan",
       ro: "Sandakan",
       en: "Sandakan",
-    },
+image: "/poi-images/sandakan-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Sabah, bekannt für ihr Orang-Utan-Rehabilitationszentrum.",
       hu: "Város Sabahban, híres az orangután-rehabilitációs központjáról.",
@@ -768,7 +789,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Tawau",
       ro: "Tawau",
       en: "Tawau",
-    },
+image: "/poi-images/tawau-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Südosten von Sabah, ein Zentrum für Kakao- und Palmölproduktion.",
       hu: "Város Sabah délkeleti részén, a kakaó- és pálmaolaj-termelés központja.",
@@ -804,7 +826,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Bintulu",
       ro: "Bintulu",
       en: "Bintulu",
-    },
+image: "/poi-images/bintulu-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in Sarawak, die ein wichtiges Industriezentrum ist.",
       hu: "Tengerparti város Sarawakban, fontos ipari központ.",
@@ -840,7 +863,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Muar",
       ro: "Muar",
       en: "Muar",
-    },
+image: "/poi-images/muar-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt in Johor, auch bekannt als Bandar Maharani.",
       hu: "Történelmi város Johorban, más néven Bandar Maharani.",
@@ -876,7 +900,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Sungai Petani",
       ro: "Sungai Petani",
       en: "Sungai Petani",
-    },
+image: "/poi-images/sungai-petani-cities-v2.webp"
+},
     description: {
       de: "Eine große Stadt in Kedah, ein wichtiges Industrie- und Handelszentrum.",
       hu: "Nagyváros Kedahban, fontos ipari és kereskedelmi központ.",
@@ -912,7 +937,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Victoria",
       ro: "Victoria",
       en: "Victoria",
-    },
+image: "/poi-images/labuan-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des föderalen Territoriums Labuan, ein Offshore-Finanzzentrum.",
       hu: "Labuan szövetségi terület fővárosa, egy offshore pénzügyi központ.",
@@ -948,7 +974,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Batu Pahat",
       ro: "Batu Pahat",
       en: "Batu Pahat",
-    },
+image: "/poi-images/batu-pahat-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Johor, deren Name 'gemeißelter Fels' bedeutet.",
       hu: "Város Johorban, a neve 'vésett sziklát' jelent.",
@@ -984,7 +1011,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Kulim",
       ro: "Kulim",
       en: "Kulim",
-    },
+image: "/poi-images/kulim-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Kedah, bekannt für ihren High-Tech-Park.",
       hu: "Város Kedahban, híres a csúcstechnológiai parkjáról.",
@@ -1020,7 +1048,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Taiping",
       ro: "Taiping",
       en: "Taiping",
-    },
+image: "/poi-images/taiping-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt in Perak, bekannt für ihre gut erhaltene Kolonialarchitektur.",
       hu: "Történelmi város Perakban, híres a jól megőrzött gyarmati építészetéről.",
@@ -1056,7 +1085,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       hu: "Lahad Datu",
       ro: "Lahad Datu",
       en: "Lahad Datu",
-    },
+image: "/poi-images/lahad-datu-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in Sabah, ein Zentrum für die Palmölindustrie.",
       hu: "Város Sabahban, a pálmaolaj-ipar központja.",

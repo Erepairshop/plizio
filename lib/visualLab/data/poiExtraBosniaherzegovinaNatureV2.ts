@@ -4,7 +4,9 @@ export const bosniaherzegovinaNatureV2: POI[] = [
   {
     id: "bosniaherzegovina-maglic-nature-v2",
     type: "peak",
-    name: { de: "Maglić", hu: "Maglić", ro: "Maglić", en: "Maglić" },
+    name: { de: "Maglić", hu: "Maglić", ro: "Maglić", en: "Maglić",
+image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"
+},
     coords: [18.7303, 43.2801],
     coordinates: { lat: 43.2801, lng: 18.7303 },
     description: {
@@ -19,11 +21,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct al țării", "2386 de metri deasupra mării", "Parte a Alpilor Dinarici", "Munte de frontieră cu Muntenegru"],
       en: ["Highest point in the country", "2,386 meters above sea level", "Part of the Dinaric Alps", "Border mountain with Montenegro"],
     },
-    imageHint: "Maglic mountain peak Bosnia Montenegro border", image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"},
+    imageHint: "Maglic mountain peak Bosnia Montenegro border",
+    image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Maglić ist mit 2386 Metern der höchste Gipfel von Bosnien und Herzegowina. Er liegt an der Grenze zu Montenegro im Nationalpark Sutjeska und besteht überwiegend aus Kalkstein.",
+      hu: "A Maglić az ország legmagasabb pontja a montenegrói határon. A Sutjeska Nemzeti Park ékköve, lábánál terül el Európa egyik utolsó őserdője, a Perućica, és a gleccser eredetű Trnovačko-tó.",
+      ro: "Maglić este cel mai înalt vârf din Bosnia și Herțegovina, atingând 2386 de metri. Situat în Parcul Național Sutjeska, muntele oferă trasee spectaculoase și vederi spre pădurea Perućica.",
+      en: "Maglić is the highest peak in Bosnia and Herzegovina, rising to 2386 meters on the Montenegrin border. It is part of the Sutjeska National Park and features dramatic limestone ridges.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 2386 Metern", "Teil des Sutjeska Nationalparks", "Grenze zu Montenegro", "Gestein aus Kalkstein"],
+      hu: ["2386 méteres magasság", "Sutjeska Nemzeti Park része", "Montenegrói határvonal", "Dínári-hegység tagja"],
+      ro: ["Altitudine de 2386 metri", "Parcul Național Sutjeska", "Granița cu Muntenegru", "Relief calcaros abrupt"],
+      en: ["Elevation of 2386 meters", "Part of Sutjeska National Park", "Border with Montenegro", "Limestone geological structure"],
+    },
+  },
   {
     id: "bosniaherzegovina-neretva-river-nature-v2",
     type: "river",
-    name: { de: "Neretva", hu: "Neretva", ro: "Neretva", en: "Neretva" },
+    name: { de: "Neretva", hu: "Neretva", ro: "Neretva", en: "Neretva",
+image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"
+},
     coords: [17.8078, 43.3433],
     coordinates: { lat: 43.3433, lng: 17.8078 },
     description: {
@@ -38,11 +56,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 225 km", "Cel mai rece râu din lume în cursul superior", "Se varsă în Marea Adriatică", "Cunoscut pentru podul din Mostar"],
       en: ["Length of about 225 kilometers", "Coldest river in the world in upper course", "Flows into the Adriatic Sea", "Famous for the bridge in Mostar"],
     },
-    imageHint: "Neretva river emerald green water Mostar", image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"},
+    imageHint: "Neretva river emerald green water Mostar",
+    image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Neretva ist der wasserreichste Nebenfluss der Adria und bekannt für ihr tiefes Smaragdgrün. Sie fließt durch die Herzegowina und unter der historischen Alten Brücke in Mostar hindurch.",
+      hu: "A Neretva az Adria-medence legnagyobb folyója, amely híres smaragdzöld színéről és rendkívül hideg vizéről. Kanyonjai és a mostari Öreg híd alatti szakasza világszerte ismertek.",
+      ro: "Neretva este cel mai mare râu din bazinul estic al Adriaticii, renumit pentru culoarea sa smarald. Traversează Herțegovina și trece pe sub faimosul Pod Vechi din orașul Mostar.",
+      en: "The Neretva is the largest river in the eastern Adriatic basin, famous for its emerald color. It carves deep canyons through Herzegovina and flows under the iconic Old Bridge in Mostar.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 225 Kilometern", "Fließt durch Mostar", "Smaragdgrüne Wasserfarbe", "Mündung in die Adria"],
+      hu: ["225 km teljes hossz", "Mostar városán halad át", "Smaragdzöld vízszín", "Adriai-tengerbe torkollik"],
+      ro: ["Lungime de 225 kilometri", "Traversează orașul Mostar", "Culoare verde smarald", "Vărsare în Marea Adriatică"],
+      en: ["Length of 225 kilometers", "Flows through Mostar", "Emerald green water hue", "Empties into the Adriatic"],
+    },
+  },
   {
     id: "bosniaherzegovina-una-river-nature-v2",
     type: "river",
-    name: { de: "Una", hu: "Una", ro: "Una", en: "Una" },
+    name: { de: "Una", hu: "Una", ro: "Una", en: "Una",
+image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"
+},
     coords: [15.8681, 44.8122],
     coordinates: { lat: 44.8122, lng: 15.8681 },
     description: {
@@ -57,11 +91,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 212 kilometri", "Numele înseamnă 'singura'", "Centrul Parcului Național Una", "Râu de frontieră cu Croația"],
       en: ["Length of 212 kilometers", "Name means 'the one and only'", "Center of the Una National Park", "Border river with Croatia"],
     },
-    imageHint: "Una river waterfalls Bihać Bosnia", image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"},
+    imageHint: "Una river waterfalls Bihać Bosnia",
+    image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Una gilt als einer der schönsten Flüsse des Balkans und bildet einen großen Nationalpark. Sie ist berühmt für ihre Kaskaden, Wasserfälle und das kristallklare, türkisfarbene Wasser.",
+      hu: "Az Una a Balkán egyik legtisztább folyója, neve a latin 'egy' szóból ered. A nemzeti parkon áthaladva látványos vízeséseket és zúgókat alkot a horvát határ mentén.",
+      ro: "Râul Una este considerat unul dintre cele mai frumoase din Balcani, formând un parc național vast. Este renumit pentru cascadele sale spectaculoase și apa turcoaz extrem de curată.",
+      en: "The Una is celebrated as one of the most beautiful rivers in the Balkans, protected by a national park. It is famous for its travertine cascades and vibrant turquoise waters.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 212 Kilometern", "Una-Nationalpark seit 2008", "Grenzfluss zu Kroatien", "Berühmte Travertin-Kaskaden"],
+      hu: ["212 km hosszú folyó", "Nemzeti park 2008 óta", "Horvát határfolyó", "Mésztufa vízesések"],
+      ro: ["Lungime de 212 kilometri", "Parc Național din 2008", "Râu de frontieră cu Croația", "Cascade de travertin"],
+      en: ["Length of 212 kilometers", "National Park since 2008", "Border river with Croatia", "Famous travertine waterfalls"],
+    },
+  },
   {
     id: "bosniaherzegovina-drina-river-nature-v2",
     type: "river",
-    name: { de: "Drina", hu: "Drina", ro: "Drina", en: "Drina" },
+    name: { de: "Drina", hu: "Drina", ro: "Drina", en: "Drina",
+image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"
+},
     coords: [19.2889, 43.7825],
     coordinates: { lat: 43.7825, lng: 19.2889 },
     description: {
@@ -76,11 +126,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 346 kilometri", "Format din unirea râurilor Tara și Piva", "Al doilea afluent ca mărime al Savei", "Celebru datorită romanului lui Ivo Andrić"],
       en: ["Length of 346 kilometers", "Formed by the Tara and Piva rivers", "Second largest tributary of the Sava", "Famous from Ivo Andrić's novel"],
     },
-    imageHint: "Drina river canyon Višegrad bridge", image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"},
+    imageHint: "Drina river canyon Višegrad bridge",
+    image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Drina bildet die natürliche Grenze zwischen Bosnien und Serbien. Sie ist bekannt für ihre tiefen Schluchten, die historische Brücke in Višegrad und ihre smaragdgrüne Farbe.",
+      hu: "A Drina a Száva legnagyobb mellékfolyója, amely mély szurdokairól és kanyargós folyásáról ismert. Višegradnál a történelmi híd ível át felette, vize gazdag halállományban.",
+      ro: "Drina formează o graniță naturală între Bosnia și Serbia, fiind faimoasă pentru canioanele sale adânci. Este celebră pentru podul istoric din Višegrad și culoarea sa verde intensă.",
+      en: "The Drina forms the natural border between Bosnia and Serbia, known for its deep canyons. It is famous for the historic bridge in Višegrad and its characteristic emerald waters.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 346 Kilometern", "Größter Nebenfluss der Save", "Brücke von Višegrad", "Tiefe Felsschluchten"],
+      hu: ["346 km teljes hossz", "A Száva mellékfolyója", "Višegrádi híd helyszíne", "Mély sziklaszorosok"],
+      ro: ["Lungime de 346 kilometri", "Afluent al râului Sava", "Podul istoric din Višegrad", "Canioane montane adânci"],
+      en: ["Length of 346 kilometers", "Largest tributary of Sava", "Višegrad bridge location", "Deep river canyons"],
+    },
+  },
   {
     id: "bosniaherzegovina-bosna-river-nature-v2",
     type: "river",
-    name: { de: "Bosna", hu: "Boszna", ro: "Bosna", en: "Bosna" },
+    name: { de: "Bosna", hu: "Boszna", ro: "Bosna", en: "Bosna",
+image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"
+},
     coords: [18.2681, 43.8183],
     coordinates: { lat: 43.8183, lng: 18.2681 },
     description: {
@@ -95,11 +161,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 271 kilometri", "Izvorăște la Vrelo Bosne", "Se varsă în Sava la Šamac", "Dă numele regiunii Bosnia"],
       en: ["Length of 271 kilometers", "Source at Vrelo Bosne", "Flows into the Sava at Šamac", "Eponymous river of Bosnia"],
     },
-    imageHint: "Vrelo Bosne source near Sarajevo", image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"},
+    imageHint: "Vrelo Bosne source near Sarajevo",
+    image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bosna entspringt am Fuße des Igman-Berges in der Nähe von Sarajevo im Park Vrelo Bosne. Sie gab dem Land seinen Namen und fließt nach Norden, um in die Save zu münden.",
+      hu: "A Bosna folyó Szarajevó mellett, az Igman-hegy lábánál ered a festői Vrelo Bosne parkban. Az országnak nevet adó folyó észak felé tart, majd a Szávába torkollik.",
+      ro: "Râul Bosna izvorăște la poalele muntelui Igman, lângă Sarajevo, în parcul Vrelo Bosne. A dat numele întregii țări și curge spre nord pentru a se vărsa în râul Sava.",
+      en: "The Bosna river originates at the foot of Mount Igman near Sarajevo in the Vrelo Bosne park. It gave the country its name and flows northwards to join the Sava river.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 271 Kilometern", "Quelle bei Vrelo Bosne", "Namensgeber des Landes", "Mündet in die Save"],
+      hu: ["271 km teljes hossz", "Vrelo Bosne forrásvidék", "Ország névadó folyója", "Szávába torkollik"],
+      ro: ["Lungime de 271 kilometri", "Izvor la Vrelo Bosne", "Eponimul țării", "Debușează în râul Sava"],
+      en: ["Length of 271 kilometers", "Source at Vrelo Bosne", "Country namesake", "Tributary of the Sava"],
+    },
+  },
   {
     id: "bosniaherzegovina-vrbas-river-nature-v2",
     type: "river",
-    name: { de: "Vrbas", hu: "Orbász", ro: "Vrbas", en: "Vrbas" },
+    name: { de: "Vrbas", hu: "Orbász", ro: "Vrbas", en: "Vrbas",
+image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"
+},
     coords: [17.1917, 44.7667],
     coordinates: { lat: 44.7667, lng: 17.1917 },
     description: {
@@ -114,11 +196,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 235 kilometri", "Afluent al râului Sava", "Centru pentru sporturi nautice", "Are două hidrocentrale"],
       en: ["Length of 235 kilometers", "Tributary of the Sava", "Center for water sports", "Features two hydroelectric plants"],
     },
-    imageHint: "Vrbas river canyon rafting Banja Luka", image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"},
+    imageHint: "Vrbas river canyon rafting Banja Luka",
+    image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vrbas ist ein schneller Gebirgsfluss, der durch Banja Luka fließt. Er ist ein Zentrum für Wassersportarten wie Rafting und bekannt für seine spektakulären Schluchten.",
+      hu: "A Vrbas egy gyors sodrású hegyi folyó, amely kettészeli Banja Luka városát. Kanyonjai népszerűek a vadvízi evezők körében, és számos vízi erőmű energiáját biztosítja.",
+      ro: "Vrbas este un râu montan rapid care traversează orașul Banja Luka. Este un centru important pentru sporturi nautice, precum raftingul, datorită canioanelor sale înguste.",
+      en: "The Vrbas is a fast mountain river that flows through Banja Luka. It is a major hub for water sports like rafting and is known for its dramatic narrow canyons.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 250 Kilometern", "Zentrum für Rafting", "Fließt durch Banja Luka", "Nebenfluss der Save"],
+      hu: ["250 km teljes hossz", "Vadvízi evezés központja", "Banja Luka városa mellett", "Száva mellékfolyója"],
+      ro: ["Lungime de 250 kilometri", "Centru pentru rafting", "Traversează Banja Luka", "Afluent al râului Sava"],
+      en: ["Length of 250 kilometers", "Center for rafting sports", "Flows through Banja Luka", "Tributary of the Sava"],
+    },
+  },
   {
     id: "bosniaherzegovina-strbacki-buk-nature-v2",
     type: "landmark",
-    name: { de: "Štrbački buk", hu: "Štrbački buk", ro: "Štrbački buk", en: "Štrbački buk" },
+    name: { de: "Štrbački buk", hu: "Štrbački buk", ro: "Štrbački buk", en: "Štrbački buk",
+image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"
+},
     coords: [16.0103, 44.6564],
     coordinates: { lat: 44.6564, lng: 16.0103 },
     description: {
@@ -133,11 +231,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Înălțime de 24,5 metri", "Situată în Parcul Național Una", "Chiar pe granița cu Croația", "Cea mai înaltă cascadă de pe Una"],
       en: ["Height of 24.5 meters", "Located in Una National Park", "Right on the Croatian border", "Highest waterfall on the Una"],
     },
-    imageHint: "Strbacki buk waterfall Una river", image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"},
+    imageHint: "Strbacki buk waterfall Una river",
+    image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Štrbački buk ist der höchste und beeindruckendste Wasserfall am Fluss Una. Mit einer Höhe von fast 25 Metern bildet er das Herzstück des Una-Nationalparks an der kroatischen Grenze.",
+      hu: "A Štrbački buk az Una folyó legmagasabb és leglátványosabb vízesése. A 24,5 méter magas zuhatag a horvát határ mentén, az Una Nemzeti Park szívében található.",
+      ro: "Štrbački buk este cea mai înaltă și impresionantă cascadă de pe râul Una. Având aproape 25 de metri înălțime, constituie punctul central al Parcului Național Una.",
+      en: "Štrbački buk is the tallest and most stunning waterfall on the Una River. Dropping nearly 25 meters, it serves as the centerpiece of the Una National Park near the Croatian border.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 24,5 Metern", "Im Una-Nationalpark", "Direkt an der Grenze", "Travertin-Formation"],
+      hu: ["24,5 méteres magasság", "Una Nemzeti Park része", "Közvetlen határmenti", "Mésztufa képződmény"],
+      ro: ["Înălțime de 24,5 metri", "În Parcul Național Una", "Granița cu Croația", "Formațiune de travertin"],
+      en: ["Height of 24.5 meters", "Located in Una National Park", "On the Croatian border", "Travertine formation"],
+    },
+  },
   {
     id: "bosniaherzegovina-igman-mountain-nature-v2",
     type: "mountain",
-    name: { de: "Igman", hu: "Igman", ro: "Igman", en: "Igman" },
+    name: { de: "Igman", hu: "Igman", ro: "Igman", en: "Igman",
+image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"
+},
     coords: [18.25, 43.75],
     coordinates: { lat: 43.75, lng: 18.25 },
     description: {
@@ -152,11 +266,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Temperatură record de -43,5 °C", "Trambuline de schi olimpice", "Vârful cel mai înalt 1502 m", "Zonă populară de drumeții"],
       en: ["Record temperature of -43.5 °C", "Olympic ski jumping hills", "Highest peak 1,502 meters", "Popular hiking area"],
     },
-    imageHint: "Igman mountain Sarajevo Olympic jumps", image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"},
+    imageHint: "Igman mountain Sarajevo Olympic jumps",
+    image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Igman ist ein Berg südwestlich von Sarajevo, der für die Olympischen Winterspiele 1984 bekannt ist. Er hält den Rekord für die niedrigste gemessene Temperatur der Region.",
+      hu: "Az Igman-hegy Szarajevótól délnyugatra fekszik, és az 1984-es téli olimpia egyik fő helyszíne volt. Híres rendkívül alacsony téli hőmérsékleteiről és sűrű fenyveseiről.",
+      ro: "Muntele Igman este situat la sud-vest de Sarajevo și a fost o locație cheie pentru Jocurile Olimpice de Iarnă din 1984. Deține recordul pentru cea mai scăzută temperatură din regiune.",
+      en: "Mount Igman is located southwest of Sarajevo and was a key venue for the 1984 Winter Olympics. It is famous for recording the region's lowest temperatures.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt 1502 m", "Olympia-Austragungsort", "Rekordtiefe -43,5 Grad", "Südwestlich von Sarajevo"],
+      hu: ["1502 méteres csúcs", "Olimpiai helyszín 1984", "-43,5 fokos rekord", "Szarajevó mellett"],
+      ro: ["Vârf de 1502 metri", "Locație olimpică 1984", "Record de -43,5 grade", "Sud-vest de Sarajevo"],
+      en: ["Highest peak 1502 m", "Olympic venue in 1984", "Record low of -43.5°C", "Southwest of Sarajevo"],
+    },
+  },
   {
     id: "bosniaherzegovina-trebevic-mountain-nature-v2",
     type: "mountain",
-    name: { de: "Trebević", hu: "Trebević", ro: "Trebević", en: "Trebević" },
+    name: { de: "Trebević", hu: "Trebević", ro: "Trebević", en: "Trebević",
+image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"
+},
     coords: [18.4489, 43.8344],
     coordinates: { lat: 43.8344, lng: 18.4489 },
     description: {
@@ -171,11 +301,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Înălțime de 1627 metri", "Locul pistei de bob din 1984", "Situat chiar lângă Sarajevo", "Dotat cu o telecabină"],
       en: ["Elevation of 1,627 meters", "Site of the 1984 bobsleigh track", "Located right by Sarajevo", "Features a scenic cable car"],
     },
-    imageHint: "Trebevic mountain Sarajevo view cable car", image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"},
+    imageHint: "Trebevic mountain Sarajevo view cable car",
+    image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Trebević ist der Hausberg von Sarajevo und durch eine Seilbahn direkt mit der Stadt verbunden. Er bietet Panoramablicke und war Austragungsort der olympischen Bob-Wettbewerbe.",
+      hu: "A Trebević Szarajevó 'tüdeje', amely felvonóval közvetlenül elérhető az óvárosból. Az 1984-es olimpia bob- és szánkópályájának romjai ma népszerű kirándulóhelyek.",
+      ro: "Trebević este muntele emblematic al orașului Sarajevo, legat de centru printr-o teleferică modernă. A găzduit probele de bob la Olimpiadă și oferă panorame urbane superbe.",
+      en: "Trebević is Sarajevo's home mountain, connected to the city by a cable car. It offers panoramic views and hosted the bobsleigh competitions during the 1984 Olympics.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1627 Metern", "Seilbahn aus der Stadt", "Olympische Bobbahn", "Naherholungsgebiet"],
+      hu: ["1627 méteres magasság", "Városi drótkötélpálya", "Olimpiai bobpálya", "Kiránduló központ"],
+      ro: ["Altitudine de 1627 metri", "Teleferică din oraș", "Pistă olimpică de bob", "Zonă de agrement locală"],
+      en: ["Height of 1627 meters", "City cable car access", "Olympic bobsleigh track", "Local recreation area"],
+    },
+  },
   {
     id: "bosniaherzegovina-prenj-mountain-nature-v2",
     type: "mountain",
-    name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj" },
+    name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj",
+image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"
+},
     coords: [17.9, 43.5333],
     coordinates: { lat: 43.5333, lng: 17.9 },
     description: {
@@ -190,11 +336,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Zelena glava 2103 m", "Himalaya Herțegovinei", "Popular printre alpiniști", "Munți foarte secetoși"],
       en: ["Highest peak Zelena glava 2,103 m", "Himalaya of Herzegovina", "Popular with mountaineers", "Very arid mountain range"],
     },
-    imageHint: "Prenj mountain rugged peaks Herzegovina", image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"},
+    imageHint: "Prenj mountain rugged peaks Herzegovina",
+    image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Prenj wird oft als der 'Himalaya der Herzegowina' bezeichnet. Er ist ein wildes Gebirge mit schroffen Kalksteingipfeln und tiefen Tälern, beliebt bei erfahrenen Bergsteigern.",
+      hu: "A Prenj-hegységet gyakran a 'Hercegovinai Himalájának' nevezik vad és érintetlen tájai miatt. Tizenegy csúcsa magasodik 2000 méter fölé, vonzva a tapasztalt sziklamászókat.",
+      ro: "Prenj este adesea supranumit 'Himalaya Herțegovinei' datorită crestelor sale sălbatice. Este un masiv calcaros impunător, preferat de alpiniștii experimentați pentru traseele sale.",
+      en: "Prenj is often called the 'Himalayas of Herzegovina' due to its wild and rugged terrain. It features eleven peaks over 2000 meters, making it a paradise for experienced hikers.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel 2103 m", "Spitzname Himalaya", "Elf 2000er Gipfel", "Dinarische Alpen"],
+      hu: ["Zelena Glava 2103 m", "Himalája becenév", "Tizenegy 2000-es csúcs", "Dínári-hegység része"],
+      ro: ["Vârful Zelena Glava 2103 m", "Supranumit Himalaya", "Unsprezece vârfuri >2000m", "Masiv calcaros sălbatic"],
+      en: ["Highest peak 2103 m", "Himalayas nickname", "Eleven 2000m+ peaks", "Dinaric Alps range"],
+    },
+  },
   {
     id: "bosniaherzegovina-cvrsnica-mountain-nature-v2",
     type: "peak",
-    name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica" },
+    name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica",
+image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"
+},
     coords: [17.6, 43.6],
     coordinates: { lat: 43.6, lng: 17.6 },
     description: {
@@ -209,11 +371,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Pločno 2228 m", "Fenomenul Hajdučka vrata", "Parte a parcului Blidinje", "Cel mai înalt vârf din Herțegovina de Vest"],
       en: ["Highest peak Pločno 2,228 m", "Hajdučka vrata stone arch", "Part of Blidinje Nature Park", "Highest point in West Herzegovina"],
     },
-    imageHint: "Hajducka vrata stone arch Cvrsnica", image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"},
+    imageHint: "Hajducka vrata stone arch Cvrsnica",
+    image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Čvrsnica ist eines der höchsten Gebirge der Dinariden. Bekannt ist sie für das Naturphänomen 'Hajdučka vrata', einen riesigen natürlichen Steinbogen hoch über dem Tal.",
+      hu: "A Čvrsnica a Dínári-hegység egyik legmagasabb tagja Hercegovina szívében. Leghíresebb látnivalója a Hajdučka vrata, egy hatalmas, kör alakú természetes sziklakapu a gerincen.",
+      ro: "Čvrsnica este unul dintre cele mai înalte masive din Alpii Dinarici. Este faimos pentru 'Hajdučka vrata', un arc natural de piatră spectaculos situat la mare altitudine.",
+      en: "Čvrsnica is one of the highest mountains in the Dinaric Alps. It is famous for 'Hajdučka vrata', a massive natural stone arch offering breathtaking views over the deep canyons.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel 2228 m", "Felsbogen Hajdučka vrata", "Tiefe Neretva-Schlucht", "Nationalpark Blidinje"],
+      hu: ["Pločno csúcs 2228 m", "Hajdučka vrata sziklakapu", "Neretva-kanyon felett", "Blidinje Természetvédelmi Park"],
+      ro: ["Vârful Pločno 2228 m", "Arcul Hajdučka vrata", "Canionul Neretva", "Parcul Natural Blidinje"],
+      en: ["Highest peak 2228 m", "Hajdučka vrata stone arch", "Deep Neretva canyon", "Blidinje Nature Park"],
+    },
+  },
   {
     id: "bosniaherzegovina-blidinje-lake-nature-v2",
     type: "lake",
-    name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake" },
+    name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake",
+image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"
+},
     coords: [17.5133, 43.6108],
     coordinates: { lat: 43.6108, lng: 17.5133 },
     description: {
@@ -228,11 +406,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Altitudine de 1184 metri", "Adâncime maximă de 3 metri", "Centrul Parcului Natural Blidinje", "Format prin topirea ghețarilor"],
       en: ["Elevation of 1,184 meters", "Maximum 3 meters deep", "Center of Blidinje Nature Park", "Formed by glacial meltwater"],
     },
-    imageHint: "Blidinje lake mountain plateau", image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"},
+    imageHint: "Blidinje lake mountain plateau",
+    image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Blidinje-See liegt auf einer Hochebene zwischen den Bergen Čvrsnica und Vran. Er ist der größte Bergsee des Landes und Herzstück des gleichnamigen Naturparks.",
+      hu: "A Blidinje-tó az ország legnagyobb hegyi tava, amely a Čvrsnica és a Vran-hegység közötti fennsíkon fekszik. A környék gazdag középkori sírkövekben és ritka fenyőfajokban.",
+      ro: "Lacul Blidinje este situat pe un platou înalt între munții Čvrsnica și Vran. Este cel mai mare lac montan din țară și inima parcului natural care îi poartă numele.",
+      en: "Blidinje Lake is located on a high plateau between the Čvrsnica and Vran mountains. It is the largest mountain lake in the country and the centerpiece of Blidinje Nature Park.",
+    },
+    factsAdvanced: {
+      de: ["Höhe 1184 m ü. M.", "Größter Bergsee", "Im Naturpark Blidinje", "Gletscherursprung"],
+      hu: ["1184 méter tengerszint felett", "Legnagyobb hegyi tó", "Blidinje Natúrpark", "Gleccser eredetű"],
+      ro: ["Altitudine de 1184 metri", "Cel mai mare lac montan", "Parcul Natural Blidinje", "Origine glaciară"],
+      en: ["Altitude 1184 meters", "Largest mountain lake", "Blidinje Nature Park", "Glacial origin"],
+    },
+  },
   {
     id: "bosniaherzegovina-boracko-lake-nature-v2",
     type: "lake",
-    name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake" },
+    name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake",
+image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"
+},
     coords: [18.0361, 43.5539],
     coordinates: { lat: 43.5539, lng: 18.0361 },
     description: {
@@ -247,11 +441,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lac glaciar natural", "Altitudine de 405 metri", "Adâncime maximă de 17 metri", "Apă de munte foarte clară"],
       en: ["Natural glacial lake", "Elevation of 405 meters", "Maximum 17 meters deep", "Very clear mountain water"],
     },
-    imageHint: "Boracko lake mountains Konjic", image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"},
+    imageHint: "Boracko lake mountains Konjic",
+    image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Boračko-See ist ein natürlicher Gletschersee am Fuße des Prenj-Gebirges. Er ist ein beliebtes Ausflugsziel zum Schwimmen und Fischen in einer unberührten Waldlandschaft.",
+      hu: "A Boračko-tó egy kristálytiszta gleccsertó a Prenj-hegység lábánál. Kedvelt üdülőhely a fürdőzők és horgászok számára, sűrű erdőkkel és meredek hegyoldalakkal körbevéve.",
+      ro: "Lacul Boračko este un lac glaciar natural situat la poalele muntelui Prenj. Este o destinație populară pentru înot și pescuit, înconjurat de păduri montane dese.",
+      en: "Boračko Lake is a natural glacial lake nestled at the foot of Mount Prenj. It is a popular destination for swimming and fishing, surrounded by lush forests and steep slopes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe 405 m ü. M.", "Maximale Tiefe 17 m", "Gletschersee-Typ", "Nähe zu Konjic"],
+      hu: ["405 méter magasan", "Maximális mélység 17 m", "Természetes gleccsertó", "Konjic város közelében"],
+      ro: ["Altitudine de 405 metri", "Adâncime maximă 17 m", "Tip lac glaciar", "Lângă orașul Konjic"],
+      en: ["Altitude 405 meters", "Maximum depth 17 m", "Glacial lake type", "Near town of Konjic"],
+    },
+  },
   {
     id: "bosniaherzegovina-jablanicko-lake-nature-v2",
     type: "lake",
-    name: { de: "Jablaničko-See", hu: "Jablaničko-tó", ro: "Lacul Jablaničko", en: "Jablaničko Lake" },
+    name: { de: "Jablaničko-See", hu: "Jablaničko-tó", ro: "Lacul Jablaničko", en: "Jablaničko Lake",
+image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"
+},
     coords: [17.795, 43.7225],
     coordinates: { lat: 43.7225, lng: 17.795 },
     description: {
@@ -266,11 +476,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lac creat artificial", "Lungime de aprox. 30 km", "Creat în anul 1953", "Bogat în pește"],
       en: ["Artificially created lake", "Length of about 30 kilometers", "Created in 1953", "Rich in fish species"],
     },
-    imageHint: "Jablanicko lake Neretva river", image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"},
+    imageHint: "Jablanicko lake Neretva river",
+    image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jablaničko-See ist ein künstlicher Stausee an der Neretva, der durch den Bau einer Talsperre entstand. Er erstreckt sich durch tiefe Schluchten und ist für seine Bootsfahrten bekannt.",
+      hu: "A Jablaničko-tó egy mesterséges víztározó a Neretva folyón, amely egy duzzasztógát megépítésével jött létre. Hosszúkás alakja mély szurdokokon kanyarog végig.",
+      ro: "Lacul Jablaničko este un lac de acumulare pe râul Neretva, creat prin construirea unui baraj. Se întinde prin canioane adânci și este renumit pentru plimbările cu barca.",
+      en: "Jablaničko Lake is an artificial reservoir on the Neretva River, created by a dam. It winds through deep canyons and is a popular spot for boating and local fish restaurants.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 13 km²", "Tiefe bis zu 80 m", "Stausee der Neretva", "Baujahr 1953"],
+      hu: ["13 km2 felület", "Max. mélység 80 m", "Neretva folyón fekszik", "1953-ban hozták létre"],
+      ro: ["Suprafață de 13 km²", "Adâncime până la 80 m", "Creat pe râul Neretva", "Finalizat în 1953"],
+      en: ["Surface area of 13 km²", "Depth up to 80 m", "Neretva River reservoir", "Created in 1953"],
+    },
+  },
   {
     id: "bosniaherzegovina-rama-lake-nature-v2",
     type: "lake",
-    name: { de: "Rama-See", hu: "Rama-tó", ro: "Lacul Rama", en: "Rama Lake" },
+    name: { de: "Rama-See", hu: "Rama-tó", ro: "Lacul Rama", en: "Rama Lake",
+image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"
+},
     coords: [17.5186, 43.7431],
     coordinates: { lat: 43.7431, lng: 17.5186 },
     description: {
@@ -285,11 +511,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lac artificial pe râul Rama", "Mănăstire pe peninsula Šćit", "Adâncime maximă de 95 metri", "Țărm foarte dantelat"],
       en: ["Artificial lake on Rama river", "Monastery on Šćit peninsula", "Maximum 95 meters deep", "Very indented shoreline"],
     },
-    imageHint: "Rama lake Scit monastery peninsula", image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"},
+    imageHint: "Rama lake Scit monastery peninsula",
+    image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Rama-See ist ein künstlicher See, der für seine malerischen Inseln und Halbinseln bekannt ist. Er gilt als einer der schönsten Seen des Landes und ist ein religiöses Zentrum.",
+      hu: "A Rama-tó egy mesterséges víztározó, amely festői szigeteiről és félszigeteiről híres. A Scit-félszigeten álló ferences kolostor a tó leglátványosabb kulturális jelképe.",
+      ro: "Lacul Rama este un lac artificial renumit pentru insulele și peninsulele sale pitorești. Este considerat unul dintre cele mai frumoase lacuri din țară, având un peisaj montan superb.",
+      en: "Rama Lake is an artificial reservoir famous for its picturesque islands and peninsulas. It is widely considered one of the most beautiful lakes in the country, set in a mountain basin.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 15 km²", "Insel Šćit mit Kloster", "Maximale Tiefe 95 m", "Baujahr 1968"],
+      hu: ["15 km2 felület", "Šćit-félsziget kolostora", "Max. mélység 95 m", "1968-ban hozták létre"],
+      ro: ["Suprafață de 15 km²", "Insula Šćit cu mănăstire", "Adâncime maximă 95 m", "Baraj construit în 1968"],
+      en: ["Surface area of 15 km²", "Šćit island with monastery", "Maximum depth 95 m", "Dam built in 1968"],
+    },
+  },
   {
     id: "bosniaherzegovina-hutovo-blato-nature-v2",
     type: "wildlife",
-    name: { de: "Hutovo Blato", hu: "Hutovo Blato", ro: "Hutovo Blato", en: "Hutovo Blato" },
+    name: { de: "Hutovo Blato", hu: "Hutovo Blato", ro: "Hutovo Blato", en: "Hutovo Blato",
+image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"
+},
     coords: [17.785, 43.0536],
     coordinates: { lat: 43.0536, lng: 17.785 },
     description: {
@@ -304,11 +546,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Peste 240 specii de păsări", "Parc natural din 1995", "Compus din mlaștini și lacuri", "Sit protejat Ramsar"],
       en: ["Over 240 bird species", "Nature park since 1995", "Consists of swamps and lakes", "Ramsar protected wetland"],
     },
-    imageHint: "Hutovo blato wetlands birds", image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"},
+    imageHint: "Hutovo blato wetlands birds",
+    image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Hutovo Blato ist ein Naturpark und Vogelschutzgebiet im Delta der Neretva. Es ist eines der wichtigsten Sumpfgebiete des Balkans und beherbergt Hunderte von Vogelarten.",
+      hu: "A Hutovo Blato egy mocsaras természetvédelmi terület és madárrezervátum a Neretva deltájában. Fontos pihenőhely a vándormadarak számára, több mint 240 faj fészkel itt.",
+      ro: "Hutovo Blato este un parc natural și o rezervație ornitologică situată în delta râului Neretva. Este una dintre cele mai importante zone umede din Balcani pentru păsările migratoare.",
+      en: "Hutovo Blato is a nature park and bird reserve located in the Neretva river delta. It is one of the most significant wetlands in the Balkans, hosting hundreds of bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche 7411 Hektar", "Vogelschutzgebiet", "Über 240 Vogelarten", "Naturpark seit 1995"],
+      hu: ["7411 hektáros terület", "Madárrezervátum", "Több mint 240 madárfaj", "Natúrpark 1995 óta"],
+      ro: ["Suprafață de 7411 hectare", "Rezervație ornitologică", "Peste 240 specii păsări", "Parc Natural din 1995"],
+      en: ["Area of 7411 hectares", "Ornithological reserve", "Over 240 bird species", "Nature Park since 1995"],
+    },
+  },
   {
     id: "bosniaherzegovina-zelengora-mountain-nature-v2",
     type: "mountain",
-    name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora" },
+    name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora",
+image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"
+},
     coords: [18.5778, 43.3556],
     coordinates: { lat: 43.3556, lng: 18.5778 },
     description: {
@@ -323,11 +581,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Bregoč 2014 m", "9 lacuri glaciare naturale", "Parte a Parcului Sutjeska", "Numele înseamnă 'Muntele Verde'"],
       en: ["Highest peak Bregoč 2,014 m", "9 natural glacial lakes", "Part of Sutjeska National Park", "Name means 'Green Mountain'"],
     },
-    imageHint: "Zelengora mountain glacial lake mountain eyes", image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"},
+    imageHint: "Zelengora mountain glacial lake mountain eyes",
+    image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zelengora ist Teil des Nationalparks Sutjeska und berühmt für ihre acht Gletscherseen, die 'Augen des Berges'. Sie ist eines der sanftesten und grünsten Gebirge des Balkans.",
+      hu: "A Zelengora a Sutjeska Nemzeti Park része, amely nyolc kristálytiszta gleccsertaváról, a 'hegyi szemekről' ismert. Érintetlen legelői és sűrű erdői miatt a túrázók kedvence.",
+      ro: "Zelengora face parte din Parcul Național Sutjeska și este celebră pentru cele opt lacuri glaciare, numite 'ochii muntelui'. Este unul dintre cei mai verzi și blânzi munți din regiune.",
+      en: "Zelengora is part of the Sutjeska National Park and is famous for its eight glacial lakes, known as 'mountain eyes'. It is considered one of the greenest mountains in the Balkans.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel 2014 m", "Acht Gletscherseen", "Nationalpark Sutjeska", "Grünes Gebirge"],
+      hu: ["Lelija csúcs 2014 m", "Nyolc gleccsertó", "Sutjeska Nemzeti Park", "Érintetlen legelők"],
+      ro: ["Vârful Bregoč 2014 m", "Opt lacuri glaciare", "Parcul Național Sutjeska", "Relief montan înverzit"],
+      en: ["Highest peak 2014 m", "Eight glacial lakes", "Sutjeska National Park", "Rich floral biodiversity"],
+    },
+  },
   {
     id: "bosniaherzegovina-tara-river-nature-v2",
     type: "river",
-    name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara" },
+    name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara",
+image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"
+},
     coords: [18.8436, 43.3492],
     coordinates: { lat: 43.3492, lng: 18.8436 },
     description: {
@@ -342,11 +616,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Cel mai adânc canion din Europa", "Renumit pentru rafting", "Apă foarte clară", "Calitate de apă potabilă"],
       en: ["Deepest canyon in Europe", "Famous for white-water rafting", "Very clear water", "Drinking water quality"],
     },
-    imageHint: "Tara river canyon rafting Bosnia Montenegro", image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"},
+    imageHint: "Tara river canyon rafting Bosnia Montenegro",
+    image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tara bildet die tiefste Schlucht Europas und ist ein Weltnaturerbe der UNESCO. Ihr Oberlauf ist weltberühmt für Rafting-Touren durch spektakuläre Felswände und Wasserfälle.",
+      hu: "A Tara folyó vájta ki Európa legmélyebb kanyonját, amely UNESCO világörökségi védelem alatt áll. Vadvízi evezésre kiválóan alkalmas, kristálytiszta vize iható minőségű.",
+      ro: "Râul Tara a săpat cel mai adânc canion din Europa, inclus în patrimoniul UNESCO. Cursul său este renumit mondial pentru rafting, datorită pragurilor sale și apei cristaline.",
+      en: "The Tara River has carved the deepest canyon in Europe, a UNESCO World Heritage site. It is world-famous for white-water rafting through its spectacular cliffs and waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Canyontiefe bis 1300 m", "UNESCO-Welterbe", "Längste Schlucht Europas", "Trinkwasserqualität"],
+      hu: ["1300 m mély kanyon", "UNESCO világörökség", "Európa legmélyebb völgye", "Iható tisztaságú víz"],
+      ro: ["Adâncime canion 1300 m", "Patrimoniu UNESCO", "Cel mai adânc din Europa", "Apă potabilă directă"],
+      en: ["Canyon depth 1300 m", "UNESCO World Heritage", "Deepest canyon in Europe", "Drinkable water quality"],
+    },
+  },
   {
     id: "bosniaherzegovina-pliva-river-nature-v2",
     type: "river",
-    name: { de: "Pliva", hu: "Pliva", ro: "Pliva", en: "Pliva" },
+    name: { de: "Pliva", hu: "Pliva", ro: "Pliva", en: "Pliva",
+image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"
+},
     coords: [17.26, 44.34],
     coordinates: { lat: 44.34, lng: 17.26 },
     description: {
@@ -361,12 +651,28 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Cascadă de 22 de metri", "Se varsă în Vrbas", "Faimos pentru morile de apă", "Foarte bogat în pește"],
       en: ["22-meter high waterfall", "Mouth into the Vrbas", "Known for historic watermills", "Very rich in fish"],
     },
-    imageHint: "Pliva waterfall Jajce city center", image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"}
+    imageHint: "Pliva waterfall Jajce city center",
+    image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Pliva ist bekannt für ihre kleinen Wassermühlen in Jajce und den spektakulären Wasserfall, wo sie in den Vrbas stürzt. Sie bildet wunderschöne Seen im Oberlauf.",
+      hu: "A Pliva folyó Jajce városánál egy lenyűgöző vízeséssel torkollik a Vrbasba. Felső szakaszán tavakat alkot, ahol középkori vízimalmok ('Mlinčići') sora látható.",
+      ro: "Râul Pliva este cunoscut pentru micile sale mori de apă din Jajce și pentru cascada spectaculoasă unde se varsă în Vrbas. Formează lacuri pitorești în cursul superior.",
+      en: "The Pliva river is famous for its small wooden watermills in Jajce and the stunning waterfall where it joins the Vrbas. Its upper course forms beautiful, calm lakes.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 33 Kilometern", "Wasserfall in Jajce", "Historische Wassermühlen", "Pliva-Seen"],
+      hu: ["33 km hosszú folyó", "Jajcei vízesés", "Középkori vízimalmok", "Pliva-tavak vidéke"],
+      ro: ["Lungime de 33 kilometri", "Cascada din Jajce", "Mori de apă istorice", "Lacurile Pliva"],
+      en: ["Length of 33 kilometers", "Waterfall in Jajce center", "Historic wooden mills", "Pliva Lakes area"],
+    },
+  }
 ,
   {
     id: "bosniaherzegovina-bjelasnica-nature-v2",
     type: "mountain",
-    name: { de: "Bjelašnica", hu: "Bjelašnica", ro: "Muntele Bjelašnica", en: "Bjelašnica Mountain" },
+    name: { de: "Bjelašnica", hu: "Bjelašnica", ro: "Muntele Bjelašnica", en: "Bjelašnica Mountain",
+image: "/poi-images/bosniaherzegovina-bjelasnica-nature-v2.webp"
+},
     coordinates: { lat: 43.7036, lng: 18.2561 },
     description: {
       de: "Ein Gebirgszug südwestlich von Sarajevo, bekannt als Austragungsort der Olympischen Winterspiele 1984. Der höchste Gipfel liegt auf 2067 Metern Höhe.",
@@ -381,11 +687,25 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       en: ["Highest peak reaches 2,067 meters", "Major center for alpine skiing", "Karst landscape with deep sinkholes", "Host to a weather station since 1894"],
     },
     imageHint: "snowy Bjelašnica mountain peaks near Sarajevo",
+    descriptionAdvanced: {
+      de: "Die Bjelašnica ist ein Hochgebirge südlich von Sarajevo und war Hauptaustragungsort der alpinen Skiwettbewerbe der Männer bei den Olympischen Winterspielen 1984.",
+      hu: "A Bjelašnica egy magashegység Szarajevótól délre, amely az 1984-es téli olimpia férfi alpesi síversenyeinek adott otthont. Csúcsán egy fontos meteorológiai állomás működik.",
+      ro: "Bjelašnica este un munte înalt situat la sud de Sarajevo, principalul loc de desfășurare a probelor masculine de schi alpin la Jocurile Olimpice din 1984.",
+      en: "Bjelašnica is a high mountain range south of Sarajevo, famously hosting the men's alpine skiing events during the 1984 Winter Olympic Games.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt 2067 m", "Olympisches Skigebiet", "Meteorologische Station", "Dinarische Alpen"],
+      hu: ["2067 méteres magasság", "Olimpiai síközpont", "Meteorológiai állomás", "Dínári-hegység része"],
+      ro: ["Vârf de 2067 metri", "Centru olimpic de schi", "Stație meteorologică", "Masiv din Alpii Dinarici"],
+      en: ["Highest peak 2067 m", "Olympic ski resort", "Meteorological station", "Dinaric Alps range"],
+    },
   },
   {
     id: "bosniaherzegovina-jahorina-nature-v2",
     type: "mountain",
-    name: { de: "Jahorina", hu: "Jahorina", ro: "Muntele Jahorina", en: "Jahorina Mountain" },
+    name: { de: "Jahorina", hu: "Jahorina", ro: "Muntele Jahorina", en: "Jahorina Mountain",
+image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"
+},
     coordinates: { lat: 43.7375, lng: 18.5667 },
     description: {
       de: "Teil des dinarischen Gebirges bei Sarajevo und ein bedeutendes Skigebiet. Der höchste Punkt, Ogorjelica, erreicht eine Höhe von 1916 Metern.",
@@ -399,11 +719,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Ogorjelica la 1.916 metri", "Gazda probelor feminine de schi în 1984", "Peste 20 km de trasee montane marcate", "Destinație populară pentru parapantism"],
       en: ["Highest peak is Ogorjelica at 1,916m", "Hosted women's Olympic ski events in 1984", "Over 20 km of marked hiking trails", "Popular destination for paragliding"],
     },
-    imageHint: "Jahorina ski slopes and mountain pine trees", image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"},
+    imageHint: "Jahorina ski slopes and mountain pine trees",
+    image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Jahorina ist eines der beliebtesten Skigebiete des Balkans. Bei den Olympischen Spielen 1984 fanden hier die alpinen Skiwettbewerbe der Frauen statt.",
+      hu: "A Jahorina a Balkán egyik legnépszerűbb síközpontja. Az 1984-es olimpián itt rendezték a női alpesi síversenyeket, ma modern pályákkal és pezsgő élettel várja a látogatókat.",
+      ro: "Jahorina este una dintre cele mai populare stațiuni de schi din Balcani. A găzduit probele feminine de schi alpin la Olimpiada din 1984 și oferă facilități moderne.",
+      en: "Jahorina is one of the most popular ski resorts in the Balkans. It hosted the women's alpine skiing competitions during the 1984 Winter Olympics.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel 1916 m", "Olympische Frauenpisten", "Skigebiet bei Sarajevo", "Südöstlich der Stadt"],
+      hu: ["Ogorjelica csúcs 1916 m", "Olimpiai női sípályák", "Szarajevó közeli üdülő", "Délkeleti fekvés"],
+      ro: ["Vârful Ogorjelica 1916 m", "Piste olimpice feminine", "Stațiune lângă Sarajevo", "Masiv calcaros"],
+      en: ["Highest peak 1916 m", "Olympic women's slopes", "Resort near Sarajevo", "South-eastern location"],
+    },
+  },
   {
     id: "bosniaherzegovina-bileca-lake-nature-v2",
     type: "lake",
-    name: { de: "Bileća-See", hu: "Bilećai-tó", ro: "Lacul Bileća", en: "Bileća Lake" },
+    name: { de: "Bileća-See", hu: "Bilećai-tó", ro: "Lacul Bileća", en: "Bileća Lake",
+image: "/poi-images/bosniaherzegovina-bileca-lake-nature-v2.webp"
+},
     coordinates: { lat: 42.8125, lng: 18.4222 },
     description: {
       de: "Ein künstlicher Stausee am Fluss Trebišnjica im Süden der Herzegowina. Er ist der größte Stausee auf dem Balkan und ein wichtiger Energiespeicher.",
@@ -418,11 +754,25 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       en: ["Maximum depth of 104 meters", "Length of about 18 kilometers", "Created in 1968", "Contains underwater ruins of flooded villages"],
     },
     imageHint: "Bileća lake reservoir and concrete dam",
+    descriptionAdvanced: {
+      de: "Der Bileća-See ist der größte künstliche See des Balkans. Er entstand durch den Bau einer Talsperre am Fluss Trebišnjica und dient der Stromerzeugung und Bewässerung.",
+      hu: "A Bilećai-tó a Balkán legnagyobb mesterséges tava, amely a Trebišnjica folyó felduzzasztásával jött létre. A víz alatt több elárasztott falu és templom romjai rejtőznek.",
+      ro: "Lacul Bileća este cel mai mare lac artificial din Balcani. A fost creat prin bararea râului Trebišnjica și este vital pentru producția de energie și irigații în regiune.",
+      en: "Bileća Lake is the largest artificial lake in the Balkans. Created by damming the Trebišnjica river, it serves power generation and irrigation purposes in the region.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 33 km²", "Fluss Trebišnjica", "Insel mit Kloster", "Größter Stausee"],
+      hu: ["33 km2 vízfelület", "Trebišnjica folyón", "Elárasztott falvak", "Legnagyobb víztározó"],
+      ro: ["Suprafață de 33 km²", "Pe râul Trebišnjica", "Sate inundate la fund", "Cel mai mare lac artificial"],
+      en: ["Surface area 33 km²", "On Trebišnjica river", "Submerged villages", "Largest artificial lake"],
+    },
   },
   {
     id: "bosniaherzegovina-modrac-lake-nature-v2",
     type: "lake",
-    name: { de: "Modrac-See", hu: "Modrac-tó", ro: "Lacul Modrac", en: "Modrac Lake" },
+    name: { de: "Modrac-See", hu: "Modrac-tó", ro: "Lacul Modrac", en: "Modrac Lake",
+image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"
+},
     coordinates: { lat: 44.4936, lng: 18.4856 },
     description: {
       de: "Ein Stausee in der Nähe von Tuzla, entstanden durch die Aufstauung des Flusses Spreča. Er ist ein beliebtes Erholungsgebiet für die Region.",
@@ -436,11 +786,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Suprafață de circa 17 km²", "Baraj finalizat în 1964", "Popular pentru sporturi nautice și pescuit", "Sursă vitală de apă pentru industrie"],
       en: ["Surface area of approx. 17 sq km", "Dam completed in 1964", "Popular for water sports and fishing", "Important industrial water source"],
     },
-    imageHint: "Modrac lake with boats and distant hills", image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"},
+    imageHint: "Modrac lake with boats and distant hills",
+    image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Modrac-See ist einer der größten Stauseen des Landes in der Nähe von Tuzla. Er ist ein bedeutendes Zentrum für Sportfischerei und Erholung im Nordosten Bosniens.",
+      hu: "A Modrac-tó az ország egyik legnagyobb mesterséges tava Tuzla közelében. Fontos ipari víztározó, emellett a horgászturizmus és a vízi sportok egyik észak-boszniai központja.",
+      ro: "Lacul Modrac este unul dintre cele mai mari lacuri de acumulare din țară, situat lângă Tuzla. Este un centru important pentru pescuit sportiv și recreere în nord-est.",
+      en: "Modrac Lake is one of the largest reservoirs in the country, located near Tuzla. It is a major center for sport fishing and recreation in northeastern Bosnia.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 17 km²", "Nähe zu Tuzla", "Zentrum für Fischerei", "Künstlicher Stausee"],
+      hu: ["17 km2 vízfelület", "Tuzla városa mellett", "Horgász központ", "Mesterséges tározó"],
+      ro: ["Suprafață de 17 km²", "Lângă orașul Tuzla", "Centru de pescuit", "Lac de acumulare"],
+      en: ["Surface area 17 km²", "Located near Tuzla", "Sport fishing hub", "Artificial reservoir"],
+    },
+  },
   {
     id: "bosniaherzegovina-sana-river-nature-v2",
     type: "river",
-    name: { de: "Sana", hu: "Szana", ro: "Râul Sana", en: "Sana River" },
+    name: { de: "Sana", hu: "Szana", ro: "Râul Sana", en: "Sana River",
+image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"
+},
     coordinates: { lat: 44.7631, lng: 16.6625 },
     description: {
       de: "Ein Fluss im Nordwesten Bosniens, bekannt für seine Reinheit und grüne Farbe. Er entspringt in der Nähe von Mrkonjić Grad und mündet in die Una.",
@@ -454,11 +820,27 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de circa 146 kilometri", "Bogat în păstrăv și lipan", "Numele derivă din latinul 'Sanus'", "Traversează orașele Sanski Most și Prijedor"],
       en: ["Length of approx. 146 kilometers", "Rich in trout and grayling fish", "Name derived from Latin 'Sanus' (healthy)", "Flows through Sanski Most and Prijedor"],
     },
-    imageHint: "clear green Sana river flowing through nature", image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"},
+    imageHint: "clear green Sana river flowing through nature",
+    image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sana ist ein sauberer Nebenfluss der Una, der für sein kristallklares Wasser bekannt ist. Der Name stammt vom lateinischen 'Sana' (gesund), was auf ihre Reinheit hindeutet.",
+      hu: "A Sana az Una folyó tiszta vizű mellékfolyója, neve a latin 'sana' (egészséges) szóból ered. Híres forrásvidékéről és a Bliha-vízesésről, amely mellékágán található.",
+      ro: "Râul Sana este un afluent curat al râului Una, renumit pentru apele sale cristaline. Numele provine din latinul 'sana' (sănătoasă), indicând puritatea sa remarcabilă.",
+      en: "The Sana is a pristine tributary of the Una, known for its crystal-clear water. Its name originates from the Latin 'sana' (healthy), reflecting its purity.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 146 Kilometern", "Nebenfluss der Una", "Name bedeutet gesund", "Kristallklares Wasser"],
+      hu: ["146 km teljes hossz", "Una mellékfolyója", "Név jelentése: egészséges", "Kristálytiszta víz"],
+      ro: ["Lungime de 146 kilometri", "Afluent al râului Una", "Nume cu sens de sănătate", "Apă foarte limpede"],
+      en: ["Length of 146 kilometers", "Tributary of the Una", "Name means healthy", "Crystal clear waters"],
+    },
+  },
   {
     id: "bosniaherzegovina-bliha-waterfall-nature-v2",
     type: "river",
-    name: { de: "Bliha-Wasserfall", hu: "Bliha-vízesés", ro: "Cascada Bliha", en: "Bliha Waterfall" },
+    name: { de: "Bliha-Wasserfall", hu: "Bliha-vízesés", ro: "Cascada Bliha", en: "Bliha Waterfall",
+image: "/poi-images/bosniaherzegovina-bliha-waterfall-nature-v2.webp"
+},
     coordinates: { lat: 44.7875, lng: 16.5417 },
     description: {
       de: "Ein beeindruckender vertikaler Wasserfall in der Nähe von Sanski Most. Das Wasser stürzt aus einer Höhe von 56 Metern über eine steile Klippe.",
@@ -473,11 +855,25 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       en: ["Drop height of 56 meters", "Protected natural monument", "Located between Fajtovci and Gornji Kamengrad", "Also known as the 'Bliha Jump'"],
     },
     imageHint: "tall thin Bliha waterfall hitting rocks below",
+    descriptionAdvanced: {
+      de: "Der Bliha-Wasserfall, auch 'Bliha-Sprung' genannt, stürzt über 56 Meter tief in einen kleinen See. Er liegt in der Nähe von Sanski Most und ist ein Naturdenkmal.",
+      hu: "A Bliha-vízesés, más néven a 'Bliha ugrása', egy lenyűgöző, 56 méter magas zuhatag Sanski Most közelében. Egy meredek sziklafalról zúdul le egy festői kis tóba.",
+      ro: "Cascada Bliha, cunoscută și sub numele de 'Săritura Blihei', cade de la o înălțime de 56 de metri. Situată lângă Sanski Most, este un monument natural protejat.",
+      en: "The Bliha Waterfall, also known as 'Bliha's Jump', plunges 56 meters into a small pool. Located near Sanski Most, it is a protected natural monument.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 56 Metern", "Nähe Sanski Most", "Naturdenkmal", "Fluss Bliha"],
+      hu: ["56 méteres magasság", "Sanski Most közelében", "Természeti emlékmű", "Bliha folyó ágán"],
+      ro: ["Înălțime de 56 metri", "Lângă Sanski Most", "Monument al naturii", "Pe râul Bliha"],
+      en: ["Height of 56 meters", "Near Sanski Most", "Natural monument", "On Bliha river"],
+    },
   },
   {
     id: "bosniaherzegovina-kocusa-waterfall-nature-v2",
     type: "river",
-    name: { de: "Koćuša-Wasserfall", hu: "Koćuša-vízesés", ro: "Cascada Koćuša", en: "Koćuša Waterfall" },
+    name: { de: "Koćuša-Wasserfall", hu: "Koćuša-vízesés", ro: "Cascada Koćuša", en: "Koćuša Waterfall",
+image: "/poi-images/bosniaherzegovina-kocusa-waterfall-nature-v2.webp"
+},
     coordinates: { lat: 43.2417, lng: 17.4431 },
     description: {
       de: "Ein breiter Wasserfall am Fluss Trebižat in der Nähe von Ljubuški. Er ist bekannt für seine Tuffsteinformationen und die natürliche Umgebung.",
@@ -492,11 +888,25 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       en: ["Height of 5m and width of 50m", "Created by tufa rock deposits", "Active water flow throughout the year", "Located near the border with Croatia"],
     },
     imageHint: "wide foaming Koćuša waterfall on Trebižat river",
+    descriptionAdvanced: {
+      de: "Der Koćuša-Wasserfall liegt am Fluss Trebižat und besticht durch seine enorme Breite von über 50 Metern. Das Wasser stürzt über sanfte Travertin-Kaskaden in ein weites Becken.",
+      hu: "A Koćuša-vízesés a Trebižat folyón található, és lenyűgöző, több mint 50 méteres szélességéről ismert. Alacsonyabb, de széles mésztufa gátakon zúdul le a víz.",
+      ro: "Cascada Koćuša se află pe râul Trebižat și impresionează prin lățimea sa de peste 50 de metri. Apa cade peste praguri de travertin într-un bazin natural larg.",
+      en: "The Koćuša Waterfall is located on the Trebižat River and is notable for its impressive width of over 50 meters. It flows over gentle travertine cascades.",
+    },
+    factsAdvanced: {
+      de: ["Breite über 50 Meter", "Höhe ca. 5 Meter", "Fluss Trebižat", "Travertin-Kaskaden"],
+      hu: ["Szélesség több mint 50 m", "Magasság kb. 5 m", "Trebižat folyón", "Mésztufa zuhatag"],
+      ro: ["Lățime de peste 50 metri", "Înălțime de circa 5 metri", "Pe râul Trebižat", "Cascade de travertin"],
+      en: ["Width over 50 meters", "Height about 5 meters", "Trebižat River", "Travertine stone steps"],
+    },
   },
   {
     id: "bosniaherzegovina-martin-brod-nature-v2",
     type: "park",
-    name: { de: "Martin Brod Wasserfälle", hu: "Martin Brodi vízesések", ro: "Cascadele Martin Brod", en: "Martin Brod Waterfalls" },
+    name: { de: "Martin Brod Wasserfälle", hu: "Martin Brodi vízesések", ro: "Cascadele Martin Brod", en: "Martin Brod Waterfalls",
+image: "/poi-images/bosniaherzegovina-martin-brod-nature-v2.webp"
+},
     coordinates: { lat: 44.4833, lng: 16.1417 },
     description: {
       de: "Eine beeindruckende Kaskade von Wasserfällen am Zusammenfluss von Una und Unac. Es ist der größte Komplex von Tuffstein-Wasserfällen im Nationalpark Una.",
@@ -511,5 +921,306 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       en: ["Total drop of 54 meters in altitude", "Largest waterfall is Milančev buk", "Historic watermills still exist nearby", "Located within the Una National Park"],
     },
     imageHint: "multi-level waterfalls in Martin Brod Una park",
+    descriptionAdvanced: {
+      de: "Martin Brod ist ein Komplex aus Wasserfällen im Una-Nationalpark, wo der Fluss Unac in die Una mündet. Der größte Fall, Milančev buk, stürzt über 50 Meter in die Tiefe.",
+      hu: "Martin Brod egy különleges vízesésrendszer az Una Nemzeti Parkban, ahol az Unac folyó az Unába torkollik. Legnagyobb zuhataga, a Milančev buk 54 méteres mélységbe zúdul.",
+      ro: "Martin Brod este un complex de cascade din Parcul Național Una, unde râul Unac se varsă în Una. Cea mai mare cascadă, Milančev buk, are o cădere totală de peste 50 de metri.",
+      en: "Martin Brod is a complex of waterfalls in the Una National Park, where the Unac river joins the Una. The largest fall, Milančev buk, drops over 50 meters in total.",
+    },
+    factsAdvanced: {
+      de: ["Höhe Milančev buk 54 m", "Mündung Unac in Una", "Una-Nationalpark", "Travertin-Barrieren"],
+      hu: ["Milančev buk 54 m magas", "Unac és Una találkozása", "Una Nemzeti Park része", "Mésztufa gátak"],
+      ro: ["Milančev buk 54 metri", "Confluența Unac cu Una", "Parcul Național Una", "Bariere de travertin"],
+      en: ["Milančev buk 54 m height", "Unac-Una confluence", "Una National Park", "Travertine barriers"],
+    },
+  }
+,
+  {id: "bosniaherzegovina-trebisnjica-river-nature-v2",
+    type: "river",
+    name: { de: "Trebišnjica", hu: "Trebišnjica", ro: "Râul Trebišnjica", en: "Trebišnjica River",
+image: "/poi-images/bosniaherzegovina-trebisnjica-river-nature-v2.webp"
+},
+    coordinates: { lat: 42.7111, lng: 18.3431 },
+    description: {
+      de: "Die Trebišnjica ist einer der längsten Versickerungsflüsse der Welt und prägt die Karstlandschaft der Herzegowina. Sie fließt teilweise unterirdisch durch Höhlensysteme.",
+      hu: "A Trebišnjica a világ egyik leghosszabb búvófolyója, amely Hercegovina karsztvidékét szeli át. Útjának egy részét a föld alatt, barlangrendszerekben teszi meg.",
+      ro: "Trebišnjica este unul dintre cele mai lungi râuri care se pierd în subteran din lume, modelând peisajul carstic al Herțegovinei. Curge parțial prin sisteme de peșteri.",
+      en: "The Trebišnjica is one of the longest sinking rivers in the world, defining the karst landscape of Herzegovina. It flows partially underground through cave systems.",
+    },
+    facts: {
+      de: ["Längster Versickerungsfluss Europas", "Fließt durch das Popovo Polje", "Wichtig für die Energiegewinnung", "Heimat endemischer Grottenolme"],
+      hu: ["Európa leghosszabb búvófolyója", "A Popovo-mezőn halad keresztül", "Fontos szerep az energiatermelésben", "Endemikus barlangi vak gőték élőhelye"],
+      ro: ["Cel mai lung râu carstic din Europa", "Traversează câmpia Popovo Polje", "Vital pentru producția de energie", "Habitat pentru proteul de peșteră"],
+      en: ["Longest sinking river in Europe", "Flows through Popovo Polje", "Key for hydroelectric power", "Habitat for endemic olms"],
+    },
+    imageHint: "Trebisnjica river Trebinje stone bridge",
+    descriptionAdvanced: {
+      de: "Die Trebišnjica ist mit 96,5 Kilometern oberirdischer Länge einer der längsten Versickerungsflüsse Europas. Sie entspringt in der Nähe von Bileća und fließt durch das Karstfeld Popovo Polje, bevor sie nahe der Adriaküste im Untergrund verschwindet. Ihr Wasser speist mehrere Wasserkraftwerke, die für die Energieversorgung der Region von großer Bedeutung sind. Ein Teil ihres Wassers tritt in der Bucht von Dubrovnik wieder zutage. Die Trebišnjica ist auch Lebensraum für den seltenen Grottenolm und andere endemische Arten, die an das Leben in unterirdischen Gewässern angepasst sind, was sie zu einem wichtigen Hotspot der Biodiversität macht.",
+      hu: "A Trebišnjica Európa egyik leghosszabb búvófolyója, amely Kelet-Hercegovina karsztvidékén folyik keresztül. A folyó teljes hossza 187 km, de ebből 90 km a felszín alatt tesz meg, barlangrendszereken és járatokon át. Forrásvidéke után áthalad a hatalmas Popovo Polje karsztmezőn, amelyet időszakosan eláraszt. Vize több vízerőművet is táplál, mielőtt a Neretva deltájának közelében újra a felszínre bukkan, illetve egy része a Dubrovniki-öbölben eredő forrásokat táplálja. A folyó föld alatti szakaszai a ritka barlangi vakgőte (Proteus anguinus) fontos élőhelyét képezik, amely faj tökéletesen alkalmazkodott a sötét barlangi környezethez.",
+      ro: "Râul Trebišnjica este unul dintre cele mai lungi râuri subterane din lume, curgând prin peisajul carstic din estul Herțegovinei. Cu o lungime totală de 187 km, dintre care o mare parte este subterană, râul dispare și reapare în diverse locații. Traversează câmpia carstică Popovo Polje, pe care o inundă periodic, creând un ecosistem dinamic. Apele sale sunt esențiale pentru producția de energie hidroelectrică în regiune, alimentând mai multe centrale. O parte din debitul său reapare sub forma unor izvoare submarine în apropierea coastei croate. Râul este, de asemenea, un habitat crucial pentru proteul de peșteră (Proteus anguinus), o specie endemică adaptată la viața în întuneric.",
+      en: "The Trebišnjica River is one of the longest sinking rivers in the world, shaping the karst landscape of Eastern Herzegovina. It flows for a total of 187 km, much of it underground through complex cave systems. After its source, it traverses the vast Popovo Polje karst field, which it seasonally floods, creating a unique and dynamic ecosystem. Its waters are harnessed by several major hydroelectric power plants, crucial for the region's energy supply. Part of its flow resurfaces as powerful springs near the Adriatic coast in Croatia. The river's subterranean sections provide a critical habitat for the olm (Proteus anguinus), a rare, blind amphibian endemic to the region's cave systems."
+    },
+    factsAdvanced: {
+      de: ["Cel mai lung râu carstic din lume", "Lungime totală de 187 km", "Dispariție în câmpia Popovo Polje", "Alimentează mai multe hidrocentrale", "Habitat pentru specia rară de amfibieni Proteus anguinus", "O parte din apă reapare pe coasta Croației", "Inundă periodic câmpia carstică", "Numele său înseamnă 'râul care dispare'"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-kupresko-polje-nature-v2",
+    type: "valley",
+    name: { de: "Kupresko Polje", hu: "Kupresi-mező", ro: "Câmpia Kupres", en: "Kupreško Polje",
+image: "/poi-images/bosniaherzegovina-kupresko-polje-nature-v2.webp"
+},
+    coordinates: { lat: 43.9922, lng: 17.1855 },
+    description: {
+      de: "Kupresko Polje ist eine weite Karsthochebene in Westbosnien, bekannt für ihr raues Klima und ihre Wintersportmöglichkeiten. Die Ebene liegt auf über 1.100 Metern Höhe.",
+      hu: "A Kupresi-mező egy tágas karsztfennsík Nyugat-Boszniában, amely zord éghajlatáról és téli sportolási lehetőségeiről ismert. A síkság 1100 méter feletti magasságban fekszik.",
+      ro: "Câmpia Kupres este un platou carstic vast în vestul Bosniei, cunoscut pentru climatul aspru și posibilitățile de sporturi de iarnă. Se află la peste 1.100 metri altitudine.",
+      en: "Kupreško Polje is a vast karst plateau in Western Bosnia, famous for its harsh climate and winter sports. The plain sits at an elevation of over 1,100 meters.",
+    },
+    facts: {
+      de: ["Höchstgelegenes Karstfeld in BiH", "Bekannt für das 'Mähen von Kupres'", "Große Vorkommen an Heilpflanzen", "Zentrum für alpinen Skisport"],
+      hu: ["Bosznia legmagasabb karsztmezője", "A 'kupresi kaszálás' hagyományáról híres", "Gyógynövényekben gazdag terület", "Alpesi síközpont"],
+      ro: ["Cea mai înaltă câmpie carstică din BiH", "Faimoasă pentru tradiția cositului", "Bogată în plante medicinale", "Centru pentru schi alpin"],
+      en: ["Highest karst field in Bosnia", "Famous for the 'Kupres Mowing' custom", "Rich in medicinal plants", "Hub for alpine skiing"],
+    },
+    imageHint: "Kupresko polje wide plateau mountains",
+    descriptionAdvanced: {
+      de: "Das Kupreško Polje ist eine ausgedehnte Karsthochebene im Westen von Bosnien und Herzegowina, die auf einer durchschnittlichen Höhe von 1.135 Metern liegt. Es ist eines der höchstgelegenen Poljen des Landes und bekannt für sein raues Kontinentalklima mit langen, schneereichen Wintern, was es zu einem beliebten Ziel für Wintersport macht. Die Ebene ist von den Bergen der Dinarischen Alpen umgeben und wird von mehreren kleinen Flüssen durchzogen, die im Karstgestein versickern. Traditionell ist die Region für ihre Viehzucht und die Herstellung von Käse bekannt. Jährlich findet hier das berühmte 'Mähen von Kupres' statt, ein Wettbewerb, der als immaterielles Kulturerbe anerkannt ist.",
+      hu: "A Kupresi-mező (Kupreško Polje) egy kiterjedt karsztfennsík Bosznia-Hercegovina nyugati részén, átlagosan 1135 méteres tengerszint feletti magasságban. Ez az ország egyik legmagasabban fekvő karsztmezője, amely zord, hideg teleiről és nagy havazásairól híres, így kedvelt síparadicsom. A fennsíkot a Dinári-hegység csúcsai veszik körül, és több kisebb búvópatak szeli át. A régió hagyományosan az állattenyésztésről és a sajtkészítésről ismert. Itt rendezik meg minden évben a híres „Kupresi kaszálás” (Strljanica) nevű versenyt, amely az UNESCO szellemi kulturális örökségének része.",
+      ro: "Kupreško Polje este un platou carstic extins în vestul Bosniei și Herțegovinei, situat la o altitudine medie de 1.135 de metri. Este unul dintre cele mai înalte polje-uri din țară, cunoscut pentru clima sa continentală aspră, cu ierni lungi și bogate în zăpadă, ceea ce îl transformă într-o destinație populară pentru sporturile de iarnă. Câmpia este înconjurată de munți din Alpii Dinarici și este traversată de mai multe râuri subterane. Regiunea este renumită tradițional pentru creșterea animalelor și producția de brânzeturi. Aici are loc anual celebrul eveniment 'Cositul de pe Kupres', o competiție inclusă în patrimoniul cultural imaterial UNESCO.",
+      en: "Kupreško Polje is an extensive karst plateau in the western part of Bosnia and Herzegovina, situated at an average elevation of 1,135 meters. It is one of the highest poljes in the country, known for its harsh continental climate with long, snowy winters, making it a popular destination for winter sports. The plain is surrounded by mountains of the Dinaric Alps and is crossed by several sinking streams. The region is traditionally known for its cattle breeding and cheese production. The famous 'Kupres Mowing Competition' (Strljanica), recognized as an intangible cultural heritage by UNESCO, is held here annually, celebrating the centuries-old tradition of manual grass mowing."
+    },
+    factsAdvanced: {
+      de: ["Altitudine medie de 1.135 metri", "Climat continental aspru cu ierni lungi", "Centru important pentru sporturi de iarnă", "Gazdă a competiției de cosit incluse în UNESCO", "Renumit pentru creșterea vitelor și producția de brânză", "Traversat de mai multe râuri subterane", "Unul dintre cele mai mari polje-uri din Alpii Dinarici", "Bogată biodiversitate a pajiștilor"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-neum-coast-nature-v2",
+    type: "sea",
+    name: { de: "Küste von Neum", hu: "Neumi tengerpart", ro: "Litoralul Neum", en: "Neum Coastline",
+image: "/poi-images/bosniaherzegovina-neum-coast-nature-v2.webp"
+},
+    coordinates: { lat: 42.9231, lng: 17.6115 },
+    description: {
+      de: "Neum ist der einzige Zugang Bosnien und Herzegowinas zur Adria. Die 24 Kilometer lange Küste ist durch die Halbinsel Pelješac vor dem offenen Meer geschützt.",
+      hu: "Neum Bosznia-Hercegovina egyetlen kijárata az Adriai-tengerre. A 24 kilométer hosszú tengerpartot a Pelješac-félsziget védi a nyílt tengertől.",
+      ro: "Neum este singura ieșire a Bosniei și Herțegovinei la Marea Adriatică. Coasta lungă de 24 de kilometri este protejată de mare deschisă de peninsula Pelješac.",
+      en: "Neum is Bosnia and Herzegovina's only access to the Adriatic Sea. Its 24-kilometer coastline is shielded from the open sea by the Pelješac peninsula.",
+    },
+    facts: {
+      de: ["Einziger Meereszugang des Landes", "24 Kilometer Küstenlinie", "Subtropisches Mittelmeerklima", "Teil der Bucht von Mali Ston"],
+      hu: ["Az ország egyetlen tengerpartja", "24 kilométeres partvonal", "Szubtrópusi mediterrán éghajlat", "A Mali Ston-öböl része"],
+      ro: ["Singura ieșire la mare a țării", "24 de kilometri de coastă", "Climat mediteranean subtropical", "Parte a golfului Mali Ston"],
+      en: ["Country's only maritime outlet", "24 kilometers of coastline", "Subtropical Mediterranean climate", "Part of the Bay of Mali Ston"],
+    },
+    imageHint: "Neum coast Adriatic sea blue water",
+    descriptionAdvanced: {
+      de: "Die Küste von Neum ist der einzige Zugang von Bosnien und Herzegowina zum Adriatischen Meer. Der Küstenstreifen ist etwa 24,5 Kilometer lang und teilt die kroatische Küste in zwei nicht zusammenhängende Teile. Gelegen in der Bucht von Mali Ston, ist das Wasser hier ruhiger und wärmer als im offenen Meer, was es ideal für den Sommertourismus macht. Die Stadt Neum ist das wirtschaftliche und touristische Zentrum der Region, mit zahlreichen Hotels und Stränden. Obwohl kurz, ist dieser Küstenabschnitt von großer strategischer Bedeutung für das Land und bietet eine einzigartige Mischung aus mediterranem Charme und bosnischer Kultur.",
+      hu: "A neumi tengerpart Bosznia-Hercegovina egyetlen, mindössze 24,5 kilométer hosszú kijárata az Adriai-tengerre. Ez a rövid partszakasz kettéosztja Horvátország déli részét, elválasztva Dubrovnikot az ország többi részétől. A part a védett Mali Ston-öbölben fekszik, így vize általában melegebb és nyugodtabb, mint a nyílt tengeren, ami ideális a nyári üdüléshez. Neum városa a régió turisztikai központja, számos szállodával és stranddal. Bár rövid, ez a partszakasz stratégiailag rendkívül fontos az ország számára, és egyedülálló módon ötvözi a mediterrán hangulatot a bosnyák kultúrával.",
+      ro: "Litoralul Neum reprezintă singura ieșire a Bosniei și Herțegovinei la Marea Adriatică. Fâșia de coastă are o lungime de aproximativ 24,5 kilometri și separă coasta croată în două părți neunite. Situată în Golful Mali Ston, apa aici este mai calmă și mai caldă decât în marea liberă, fiind ideală pentru turismul estival. Orașul Neum este centrul economic și turistic al regiunii, cu numeroase hoteluri și plaje. Deși scurt, acest segment de coastă are o importanță strategică majoră pentru țară, oferind un amestec unic de farmec mediteranean și cultură bosniacă.",
+      en: "The Neum coastline is Bosnia and Herzegovina's only outlet to the Adriatic Sea. This coastal strip is approximately 24.5 kilometers long and effectively divides the Croatian coast into two non-contiguous parts. Situated within the Bay of Mali Ston, the water here is calmer and warmer than the open sea, making it ideal for summer tourism. The town of Neum is the region's economic and tourist hub, featuring numerous hotels and beaches. Although brief, this stretch of coast is of great strategic importance to the country, offering a unique blend of Mediterranean charm and Bosnian culture."
+    },
+    factsAdvanced: {
+      de: ["Singura ieșire la mare a țării", "Lungime de coastă de 24,5 km", "Separă teritoriul croat în două", "Situat în Golful Mali Ston", "Apă mai caldă și mai calmă", "Centru turistic important", "Climat mediteranean", "Importanță strategică pentru Bosnia și Herțegovina"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-krivaja-river-nature-v2",
+    type: "river",
+    name: { de: "Krivaja", hu: "Krivaja", ro: "Râul Krivaja", en: "Krivaja River",
+image: "/poi-images/bosniaherzegovina-krivaja-river-nature-v2.webp"
+},
+    coordinates: { lat: 44.2715, lng: 18.5521 },
+    description: {
+      de: "Die Krivaja ist ein Fluss in Zentralbosnien, der durch tiefe Schluchten und unberührte Wälder fließt. Er ist bekannt für seine natürliche Schönheit und klare Strömung.",
+      hu: "A Krivaja egy közép-boszniai folyó, amely mély szurdokokon és érintetlen erdőkön halad át. Természeti szépségéről és tiszta vizéről ismert.",
+      ro: "Krivaja este un râu din centrul Bosniei care curge prin defilee adânci și păduri virgine. Este cunoscut pentru frumusețea sa naturală și apele limpezi.",
+      en: "The Krivaja is a river in Central Bosnia flowing through deep canyons and pristine forests. It is renowned for its natural beauty and clear currents.",
+    },
+    facts: {
+      de: ["Länge von etwa 101 Kilometern", "Entsteht aus Stupčanica und Bioštica", "Mündet bei Zavidovići in die Bosna", "Beliebt für Kajak und Rafting"],
+      hu: ["Körülbelül 101 km hosszú", "A Stupčanica és Bioštica összefolyása", "Zavidovićinál torkollik a Bosznába", "Népszerű kajakozáshoz és raftinghoz"],
+      ro: ["Lungime de circa 101 kilometri", "Format din Stupčanica și Bioštica", "Se varsă în râul Bosna la Zavidovići", "Popular pentru caiac și rafting"],
+      en: ["Length of approximately 101 kilometers", "Formed by Stupčanica and Bioštica", "Flows into the Bosna at Zavidovići", "Popular for kayaking and rafting"],
+    },
+    imageHint: "Krivaja river canyon forest",
+    descriptionAdvanced: {
+      de: "Die Krivaja ist ein Fluss in Zentralbosnien, der durch den Zusammenfluss der Flüsse Bioštica und Stupčanica bei Olovo entsteht. Mit einer Länge von rund 101 Kilometern schlängelt sie sich durch eine malerische Landschaft aus tiefen Schluchten, dichten Wäldern und unberührter Natur, bevor sie bei Zavidovići in die Bosna mündet. Der Fluss ist bekannt für sein klares Wasser und seine reiche Fischfauna, insbesondere Forellen und Äschen, was ihn bei Anglern sehr beliebt macht. Die Krivaja-Schlucht ist auch ein beliebtes Ziel für Outdoor-Aktivitäten wie Kajakfahren und Rafting und gilt als eine der schönsten Flusslandschaften des Landes, weitgehend unberührt von industrieller Entwicklung.",
+      hu: "A Krivaja folyó Közép-Boszniában, Olovo városánál a Bioštica és a Stupčanica folyók összefolyásából jön létre. Körülbelül 101 kilométeres útja során festői tájakon, mély szurdokokon és sűrű erdőkön kanyarog keresztül, mielőtt Zavidovići városánál a Boszna folyóba torkollik. A Krivaja híres tiszta vizéről és gazdag halállományáról, különösen a pisztrángról és a pénzes perről, ami a horgászok kedvelt célpontjává teszi. A Krivaja-szurdok a kajakosok és vadvízi evezősök körében is népszerű, és az ország egyik legszebb, ipari fejlesztéstől szinte teljesen érintetlen folyóvölgyének számít.",
+      ro: "Râul Krivaja este un râu din centrul Bosniei, format prin confluența râurilor Bioštica și Stupčanica lângă orașul Olovo. Cu o lungime de aproximativ 101 kilometri, șerpuiește printr-un peisaj pitoresc de defilee adânci, păduri dese și natură neatinsă, înainte de a se vărsa în râul Bosna la Zavidovići. Râul este cunoscut pentru apa sa limpede și fauna piscicolă bogată, în special păstrăv și lipan, ceea ce îl face popular printre pescari. Defileul Krivaja este, de asemenea, o destinație apreciată pentru activități în aer liber, cum ar fi caiac-canoe și rafting, fiind considerat unul dintre cele mai frumoase peisaje fluviale din țară.",
+      en: "The Krivaja River is a river in central Bosnia, formed by the confluence of the Bioštica and Stupčanica rivers near the town of Olovo. Over its approximately 101-kilometer length, it meanders through a picturesque landscape of deep canyons, dense forests, and untouched nature before flowing into the Bosna River at Zavidovići. The river is renowned for its clear water and rich fish fauna, particularly trout and grayling, making it a favorite among anglers. The Krivaja canyon is also a popular destination for outdoor activities such as kayaking and rafting, and is considered one of the country's most beautiful river landscapes, largely untouched by industrial development."
+    },
+    factsAdvanced: {
+      de: ["Format prin confluența a două râuri", "Lungime de aproximativ 101 km", "Se varsă în râul Bosna", "Renumit pentru pescuitul la păstrăv", "Traversează defilee adânci și păduri", "Popular pentru caiac-canoe și rafting", "Calitate excelentă a apei", "Peisaj natural în mare parte nealterat"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-spreca-river-nature-v2",
+    type: "river",
+    name: { de: "Spreča", hu: "Spreča", ro: "Râul Spreča", en: "Spreča River",
+image: "/poi-images/bosniaherzegovina-spreca-river-nature-v2.webp"
+},
+    coordinates: { lat: 44.5221, lng: 18.6531 },
+    description: {
+      de: "Die Spreča ist ein bedeutender Fluss im Nordosten Bosniens, der das Modrac-Reservoir speist. Er durchquert ein fruchtbares Tal mit reicher Landwirtschaft.",
+      hu: "A Spreča Északkelet-Bosznia jelentős folyója, amely a Modrac-víztározót táplálja. Gazdag mezőgazdasággal rendelkező, termékeny völgyön halad keresztül.",
+      ro: "Spreča este un râu important din nord-estul Bosniei, care alimentează rezervorul Modrac. Traversează o vale fertilă cu o agricultură bogată.",
+      en: "The Spreča is a significant river in northeastern Bosnia that feeds the Modrac reservoir. it flows through a fertile valley with rich agricultural activity.",
+    },
+    facts: {
+      de: ["Länge von 137 Kilometern", "Hauptquelle bei Šekovići", "Speist den Modrac-See", "Mündet bei Doboj in die Bosna"],
+      hu: ["137 kilométer hosszú", "Fő forrása Šekovići közelében van", "A Modrac-tavat táplálja", "Dobojnál torkollik a Bosznába"],
+      ro: ["Lungime de 137 de kilometri", "Izvorul principal lângă Šekovići", "Alimentează lacul Modrac", "Se varsă în Bosna la Doboj"],
+      en: ["Length of 137 kilometers", "Main source near Šekovići", "Feeds the Modrac reservoir", "Flows into the Bosna at Doboj"],
+    },
+    imageHint: "Spreca river valley green fields",
+    descriptionAdvanced: {
+      de: "Die Spreča ist ein 137,5 Kilometer langer Fluss im Nordosten von Bosnien und Herzegowina. Sie entspringt in der Nähe von Šekovići und fließt westwärts durch ein breites, fruchtbares Tal, das als Spreča-Feld bekannt ist. Bei Lukavac wird der Fluss zum Modrac-See aufgestaut, einem der größten Stauseen des Landes, der als wichtiger Wasserspeicher für die lokale Industrie und als Erholungsgebiet dient. Die Spreča setzt ihren Lauf fort und mündet schließlich bei der Stadt Doboj in die Bosna. Der Fluss und sein Tal sind von großer wirtschaftlicher Bedeutung für die Landwirtschaft und Industrie der Region Tuzla.",
+      hu: "A Spreča egy 137,5 kilométer hosszú folyó Bosznia-Hercegovina északkeleti részén. Šekovići közelében ered, majd nyugat felé halad egy széles és termékeny völgyben, a Spreča-mezőn keresztül. Lukavac városánál a folyót felduzzasztva hozták létre a Modrac-tavat, amely az ország egyik legnagyobb víztározója. Ez a tó fontos vízellátója a helyi iparnak, és kedvelt üdülőterület is. A Spreča tovább folyik, és végül Doboj városánál ömlik a Boszna folyóba. A folyó és völgye gazdaságilag rendkívül fontos a tuzlai régió mezőgazdasága és ipara számára.",
+      ro: "Râul Spreča este un râu lung de 137,5 kilometri în nord-estul Bosniei și Herțegovinei. Izvorăște lângă Šekovići și curge spre vest printr-o vale largă și fertilă, cunoscută sub numele de Câmpia Spreča. Lângă Lukavac, râul este barat pentru a forma Lacul Modrac, unul dintre cele mai mari lacuri de acumulare din țară, care servește ca o sursă importantă de apă pentru industria locală și ca zonă de recreere. Spreča își continuă cursul și se varsă în cele din urmă în râul Bosna, lângă orașul Doboj. Râul și valea sa sunt de o mare importanță economică pentru agricultura și industria din regiunea Tuzla.",
+      en: "The Spreča is a 137.5-kilometer-long river in the northeastern part of Bosnia and Herzegovina. It originates near the town of Šekovići and flows westward through a wide, fertile valley known as the Spreča field. Near Lukavac, the river is dammed to form Modrac Lake, one of the largest reservoirs in the country, which serves as a crucial water source for local industry and a recreational area. The Spreča continues its course and eventually flows into the Bosna River near the city of Doboj. The river and its valley are of great economic importance for the agriculture and industry of the Tuzla region."
+    },
+    factsAdvanced: {
+      de: ["Lungime de 137,5 kilometri", "Izvorăște lângă Šekovići", "Alimentează Lacul Modrac", "Se varsă în râul Bosna la Doboj", "Traversează o vale agricolă fertilă", "Important pentru industria din Tuzla", "Lacul Modrac este o zonă de recreere", "Râu major în nord-estul Bosniei"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-zvijezda-mountain-nature-v2",
+    type: "mountain",
+    name: { de: "Zvijezda", hu: "Zvijezda-hegység", ro: "Muntele Zvijezda", en: "Zvijezda Mountain",
+image: "/poi-images/bosniaherzegovina-zvijezda-mountain-nature-v2.webp"
+},
+    coordinates: { lat: 44.1731, lng: 18.4812 },
+    description: {
+      de: "Die Zvijezda ist ein Gebirge in Zentralbosnien, bekannt für seine dichten Nadelwälder und reichen Erzvorkommen. Der Name bedeutet 'Stern' auf Bosnisch.",
+      hu: "A Zvijezda egy közép-boszniai hegység, amely sűrű fenyőerdőiről és gazdag érclelőhelyeiről ismert. Neve bosnyákul 'csillagot' jelent.",
+      ro: "Zvijezda este un munte din centrul Bosniei, cunoscut pentru pădurile dense de conifere și zăcămintele bogate de minereu. Numele înseamnă 'stea' în bosniacă.",
+      en: "Zvijezda is a mountain range in Central Bosnia, known for its dense coniferous forests and rich ore deposits. Its name means 'Star' in Bosnian.",
+    },
+    facts: {
+      de: ["Höchster Gipfel ist die Zvijezda (1349m)", "Reich an Eisen und Silber", "Dichte Tannen- und Fichtenwälder", "Beliebtes Wandergebiet bei Vareš"],
+      hu: ["Legmagasabb csúcsa 1349 méter", "Vasban és ezüstben gazdag", "Sűrű jegenye- és lucfenyőerdők", "Népszerű túrahely Vareš közelében"],
+      ro: ["Vârful maxim are 1349 metri", "Bogat în fier și argint", "Păduri dese de brad și molid", "Zonă de drumeție populară lângă Vareš"],
+      en: ["Highest peak reaches 1349 meters", "Rich in iron and silver ores", "Dense fir and spruce forests", "Popular hiking area near Vareš"],
+    },
+    imageHint: "Zvijezda mountain forest Vares",
+    descriptionAdvanced: {
+      de: "Das Zvijezda-Gebirge liegt in Zentralbosnien zwischen den Städten Vareš und Olovo. Sein Name, der 'Stern' bedeutet, spiegelt möglicherweise die sternförmige Anordnung seiner Grate wider. Der höchste Gipfel erreicht 1.349 Meter. Das Gebirge ist von dichten Wäldern aus Tannen, Fichten und Buchen bedeckt und war historisch für seine reichen Vorkommen an Eisenerz bekannt, die seit dem Mittelalter abgebaut wurden. Heute ist es ein ruhiges und abgelegenes Gebiet, das bei Wanderern und Naturliebhabern beliebt ist, die die unberührte Landschaft und die saubere Luft abseits der ausgetretenen Pfade zu schätzen wissen.",
+      hu: "A Zvijezda-hegység Közép-Boszniában, Vareš és Olovo városok között terül el. A neve, ami 'csillagot' jelent, a hegygerincek csillagszerű elrendezésére utalhat. Legmagasabb csúcsa 1349 méter. A hegységet sűrű fenyő- és bükkerdők borítják, és történelmileg gazdag vasérclelőhelyeiről volt ismert, amelyeket már a középkor óta bányásztak. Ma egy csendes és eldugott vidék, amelyet a túrázók és a természetkedvelők kedvelnek, akik értékelik az érintetlen tájat és a tiszta levegőt a járatlan utakon.",
+      ro: "Muntele Zvijezda este situat în centrul Bosniei, între orașele Vareš și Olovo. Numele său, care înseamnă 'stea', ar putea reflecta aranjamentul radial al crestelor sale. Cel mai înalt vârf atinge 1.349 de metri. Muntele este acoperit de păduri dense de brad, molid și fag și a fost cunoscut istoric pentru zăcămintele sale bogate de minereu de fier, exploatate încă din Evul Mediu. Astăzi, este o zonă liniștită și izolată, populară printre drumeți și iubitorii de natură care apreciază peisajul neatins și aerul curat, departe de cărările bătătorite.",
+      en: "Zvijezda Mountain is located in central Bosnia, between the towns of Vareš and Olovo. Its name, meaning 'Star', possibly reflects the star-like arrangement of its ridges. The highest peak reaches 1,349 meters. The mountain is covered in dense forests of fir, spruce, and beech, and was historically known for its rich iron ore deposits, which were mined since the Middle Ages. Today, it is a quiet and remote area, popular with hikers and nature lovers who appreciate the pristine landscape and clean air off the beaten path."
+    },
+    factsAdvanced: {
+      de: ["Cel mai înalt vârf: 1.349 m", "Numele înseamnă 'Stea'", "Situat între Vareš și Olovo", "Păduri dense de conifere și fag", "Zăcăminte istorice de minereu de fier", "Zonă populară pentru drumeții", "Faună bogată, inclusiv urși și lupi", "Peisaj montan liniștit și izolat"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-ljuta-river-nature-v2",
+    type: "river",
+    name: { de: "Ljuta", hu: "Ljuta-folyó", ro: "Râul Ljuta", en: "Ljuta River",
+image: "/poi-images/bosniaherzegovina-ljuta-river-nature-v2.webp"
+},
+    coordinates: { lat: 43.5822, lng: 18.4231 },
+    description: {
+      de: "Die Ljuta ist ein kurzer, aber wilder Bergfluss, der in der Nähe von Konjic in die Neretva mündet. Er ist berühmt für seine dramatischen Schluchten und reißende Strömung.",
+      hu: "A Ljuta egy rövid, de vad hegyi folyó, amely Konjic közelében torkollik a Neretvába. Drámai szurdokairól és sebes sodrásáról híres.",
+      ro: "Ljuta este un râu montan scurt, dar sălbatic, care se varsă în Neretva lângă Konjic. Este faimos pentru defileele dramatice și curenții repezi.",
+      en: "The Ljuta is a short but wild mountain river that joins the Neretva near Konjic. It is famous for its dramatic canyons and rapid currents.",
+    },
+    facts: {
+      de: ["Name bedeutet 'Die Zornige'", "Reinstes Gebirgswasser", "Tiefer Canyon bei Treskavica", "Mündet in die Neretva"],
+      hu: ["Neve 'Haragost' jelent", "Kristálytiszta hegyi víz", "Mély kanyon a Treskavica közelében", "A Neretvába torkollik"],
+      ro: ["Numele înseamnă 'Cea furioasă'", "Apă de munte pură", "Canion adânc lângă Treskavica", "Se varsă în râul Neretva"],
+      en: ["Name translates to 'The Angry One'", "Ultra-pure mountain water", "Deep canyon near Treskavica", "Tributary of the Neretva"],
+    },
+    imageHint: "Ljuta river canyon rapids",
+    descriptionAdvanced: {
+      de: "Die Ljuta, deren Name 'die Zornige' bedeutet, ist ein kurzer, aber reißender Nebenfluss der Neretva. Sie entspringt in den Ausläufern des Visočica-Gebirges und ist bekannt für ihren dramatischen Canyon, der an einigen Stellen nur wenige Meter breit ist. Der Fluss ist besonders im Frühling nach der Schneeschmelze wild und ungestüm, was ihm seinen Namen gab. Trotz ihrer geringen Länge ist die Ljuta für ihre extreme Schönheit, ihr eiskaltes, klares Wasser und die unberührte Natur, die sie umgibt, bekannt. Sie ist ein Beispiel für die wilde und ungezähmte Kraft der bosnischen Bergflüsse.",
+      hu: "A Ljuta, amelynek neve 'a haragos'-t jelenti, a Neretva egy rövid, de rendkívül sebes sodrású mellékfolyója. A Visočica-hegység lábainál ered, és drámai kanyonjáról ismert, amely helyenként csupán néhány méter széles. A folyó különösen tavasszal, a hóolvadás után válik vad és féktelen áramlásúvá, innen kapta a nevét. Rövid hossza ellenére a Ljuta rendkívüli szépségéről, jéghideg, tiszta vizéről és az őt körülvevő érintetlen természetről híres. Tökéletes példája a bosnyák hegyi folyók vad és zabolátlan erejének.",
+      ro: "Râul Ljuta, al cărui nume înseamnă 'cel furios', este un afluent scurt, dar vijelios, al râului Neretva. Izvorăște de la poalele muntelui Visočica și este cunoscut pentru canionul său dramatic, care în unele locuri are doar câțiva metri lățime. Râul devine deosebit de sălbatic și impetuos primăvara, după topirea zăpezilor, ceea ce i-a adus numele. În ciuda lungimii sale reduse, Ljuta este renumit pentru frumusețea sa extremă, apa sa rece ca gheața și natura neatinsă care îl înconjoară. Este un exemplu al forței sălbatice și neîmblânzite a râurilor montane bosniace.",
+      en: "The Ljuta, whose name means 'the angry one', is a short but torrential tributary of the Neretva River. It originates at the foothills of the Visočica mountain and is known for its dramatic canyon, which is only a few meters wide in some places. The river becomes especially wild and impetuous in the spring after the snow melts, which is how it got its name. Despite its short length, the Ljuta is famous for its extreme beauty, its ice-cold, clear water, and the pristine nature that surrounds it. It is an example of the wild and untamed power of the Bosnian mountain rivers."
+    },
+    factsAdvanced: {
+      de: ["Numele înseamnă 'Cel Furios'", "Afluent scurt al râului Neretva", "Canion dramatic și îngust", "Deosebit de vijelios primăvara", "Apă rece ca gheața și foarte curată", "Izvorăște din muntele Visočica", "Exemplu de râu montan sălbatic", "Peisaj natural spectaculos"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-mostarska-blata-nature-v2",
+    type: "lake",
+    name: { de: "Mostarska Blata", hu: "Mostari mocsár", ro: "Mostarska Blata", en: "Mostarska Blata",
+image: "/poi-images/bosniaherzegovina-mostarska-blata-nature-v2.webp"
+},
+    coordinates: { lat: 43.3402, lng: 17.6715 },
+    description: {
+      de: "Mostarska Blata ist ein saisonales Feuchtgebiet und Karstbecken westlich von Mostar. Es ist ökologisch wertvoll für seine spezifische Flora und Fauna.",
+      hu: "A Mostari mocsár (Mostarska Blata) egy időszakos vizes élőhely és karsztmedence Mostartól nyugatra. Ökológiai szempontból értékes különleges flórája és faunája miatt.",
+      ro: "Mostarska Blata este o zonă umedă sezonieră și un bazin carstic la vest de Mostar. Este valoroasă ecologic pentru flora și fauna sa specifică.",
+      en: "Mostarska Blata is a seasonal wetland and karst basin located west of Mostar. It is ecologically significant for its unique flora and fauna.",
+    },
+    facts: {
+      de: ["Saisonales Karstbecken", "Wichtiges Vogelschutzgebiet", "Heimat endemischer Fische", "Wird im Winter oft überflutet"],
+      hu: ["Időszakos karsztmedence", "Fontos madárvédelmi terület", "Endemikus halak élőhelye", "Télen gyakran elönti a víz"],
+      ro: ["Bazin carstic sezonier", "Zonă importantă pentru păsări", "Habitat pentru pești endemici", "Inundat frecvent în timpul iernii"],
+      en: ["Seasonal karst basin", "Important bird area", "Home to endemic fish species", "Frequently flooded during winter"],
+    },
+    imageHint: "Mostarska blata wetland water birds",
+    descriptionAdvanced: {
+      de: "Mostarska Blata ist ein großes Karst-Polje westlich von Mostar in der Herzegowina. Der Name bedeutet 'Mostar-Schlamm', was auf seinen Charakter als saisonales Feuchtgebiet hinweist. Im Herbst und Winter füllt sich das Polje mit Wasser aus unterirdischen Quellen und Niederschlägen und bildet einen temporären See. Im Sommer trocknet es größtenteils aus und wird zu fruchtbarem Ackerland. Dieses dynamische Ökosystem ist von großer ökologischer Bedeutung und ein wichtiges Rastgebiet für Zugvögel. Es ist auch die Heimat mehrerer endemischer Fischarten, die sich an den extremen Wechsel von Überschwemmung und Trockenheit angepasst haben.",
+      hu: "A Mostarska Blata ('Mostari sár') egy nagy karsztmező Mostartól nyugatra, Hercegovinában. Neve a szezonális vizes élőhely jellegére utal. Ősszel és télen a mezőt feltölti a földalatti forrásokból és a csapadékból származó víz, ami egy ideiglenes tavat hoz létre. Nyáron nagyrészt kiszárad, és termékeny szántófölddé válik. Ez a dinamikus ökoszisztéma nagy ökológiai jelentőséggel bír, és fontos pihenőhely a vonuló madarak számára. Emellett több endemikus halfaj otthona is, amelyek alkalmazkodtak az áradás és a szárazság szélsőséges váltakozásához.",
+      ro: "Mostarska Blata este un mare polje carstic la vest de Mostar, în Herțegovina. Numele său înseamnă 'Mlaștina din Mostar', ceea ce indică natura sa de zonă umedă sezonieră. Toamna și iarna, polje-ul se umple cu apă din izvoare subterane și precipitații, formând un lac temporar. Vara, se usucă în mare parte și devine teren agricol fertil. Acest ecosistem dinamic are o mare importanță ecologică și este o zonă importantă de odihnă pentru păsările migratoare. De asemenea, găzduiește mai multe specii de pești endemici, adaptați la alternanța extremă între inundații și secetă.",
+      en: "Mostarska Blata is a large karst polje located west of Mostar in Herzegovina. Its name translates to 'Mostar Mud', which points to its character as a seasonal wetland. In autumn and winter, the polje fills with water from underground springs and precipitation, forming a temporary lake. In the summer, it mostly dries up and becomes fertile farmland. This dynamic ecosystem is of great ecological importance and is a significant resting area for migratory birds. It is also home to several endemic fish species that have adapted to the extreme cycle of flooding and drought."
+    },
+    factsAdvanced: {
+      de: ["Polje carstic mare la vest de Mostar", "Zonă umedă sezonieră", "Se transformă în lac temporar iarna", "Devine teren agricol fertil vara", "Importanță ecologică mare", "Zonă de odihnă pentru păsările migratoare", "Habitat pentru specii de pești endemici", "Ecosistem dinamic controlat de apele subterane"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {id: "bosniaherzegovina-gacko-polje-nature-v2",
+    type: "valley",
+    name: { de: "Gacko Polje", hu: "Gacko-mező", ro: "Câmpia Gacko", en: "Gacko Polje",
+image: "/poi-images/bosniaherzegovina-gacko-polje-nature-v2.webp"
+},
+    coordinates: { lat: 43.1612, lng: 18.5325 },
+    description: {
+      de: "Gacko Polje ist ein Karstfeld im Osten der Herzegowina auf einer Höhe von 940 Metern. Es ist bekannt für seine weiten Graslandschaften und die umliegenden Hochgebirge.",
+      hu: "A Gacko-mező (Gacko Polje) egy karsztmező Kelet-Hercegovinában, 940 méteres magasságban. Tágas füves pusztáiról és az azt körülvevő magashegységekről ismert.",
+      ro: "Câmpia Gacko este un polje carstic în estul Herțegovinei, la o altitudine de 940 metri. Este cunoscută pentru pășunile vaste și munții înalți din jur.",
+      en: "Gacko Polje is a karst field in eastern Herzegovina situated at an altitude of 940 meters. It is known for its wide grasslands and surrounding high mountains.",
+    },
+    facts: {
+      de: ["Liegt auf 940 Meter Höhe", "Zentrum der Viehzucht", "Heimat des Flusses Mušnica", "Umgeben von Lebršnik und Volujak"],
+      hu: ["940 méteres magasságban fekszik", "Az állattenyésztés központja", "A Mušnica-folyó otthona", "A Lebršnik és Volujak veszi körül"],
+      ro: ["Situată la 940 metri altitudine", "Centru pentru creșterea vitelor", "Găzduiește râul Mušnica", "Înconjurată de munții Lebršnik și Volujak"],
+      en: ["Located at 940 meters altitude", "Center for cattle breeding", "Home to the Mušnica river", "Surrounded by Lebršnik and Volujak"],
+    },
+    imageHint: "Gacko polje mountains green grass",
+    descriptionAdvanced: {
+      de: "Das Gacko Polje ist ein weitläufiges Karstfeld im Osten der Herzegowina, das auf einer Höhe von etwa 940 Metern liegt und von hohen Bergen wie dem Lebršnik und dem Volujak umgeben ist. Es ist eines der größten und höchstgelegenen Poljen in Bosnien und Herzegowina. Das Feld wird von den Flüssen Mušnica und Gračanica durchzogen, die im Karst versickern und an anderer Stelle wieder auftauchen. Die Region ist traditionell ein Zentrum für Viehzucht, insbesondere für Rinder, und bekannt für die Produktion von hochwertigem Käse. Die Stadt Gacko am Rande des Feldes ist das administrative Zentrum und beherbergt ein großes Wärmekraftwerk, das die lokale Braunkohle nutzt.",
+      hu: "A Gacko-mező (Gacko Polje) egy kiterjedt karsztmező Kelet-Hercegovinában, körülbelül 940 méteres magasságban, amelyet olyan magas hegyek vesznek körül, mint a Lebršnik és a Volujak. Ez Bosznia-Hercegovina egyik legnagyobb és legmagasabban fekvő karsztmezője. A mezőt a Mušnica és a Gračanica folyók szelik át, amelyek a karsztban elnyelődnek, hogy aztán máshol bukkanjanak a felszínre. A régió hagyományosan az állattenyésztés, különösen a szarvasmarha-tenyésztés központja, és híres a kiváló minőségű sajtjairól. A mező szélén fekvő Gacko városa a közigazgatási központ, és otthont ad egy nagy hőerőműnek, amely a helyi barnaszenet hasznosítja.",
+      ro: "Gacko Polje este un polje carstic vast în estul Herțegovinei, situat la o altitudine de aproximativ 940 de metri și înconjurat de munți înalți precum Lebršnik și Volujak. Este unul dintre cele mai mari și mai înalte polje-uri din Bosnia și Herțegovina. Câmpia este traversată de râurile Mušnica și Gračanica, care se pierd în subteran în carst pentru a reapărea în altă parte. Regiunea este în mod tradițional un centru pentru creșterea animalelor, în special a bovinelor, și este renumită pentru producția de brânză de înaltă calitate. Orașul Gacko de la marginea câmpiei este centrul administrativ și găzduiește o mare termocentrală care utilizează lignitul local.",
+      en: "Gacko Polje is a vast karst field in eastern Herzegovina, situated at an altitude of about 940 meters and surrounded by high mountains like Lebršnik and Volujak. It is one of the largest and highest poljes in Bosnia and Herzegovina. The field is crossed by the Mušnica and Gračanica rivers, which sink into the karst underground to re-emerge elsewhere. The region is traditionally a center for livestock breeding, particularly cattle, and is known for its high-quality cheese production. The town of Gacko, on the edge of the field, is the administrative center and is home to a large thermal power plant that utilizes local lignite coal."
+    },
+    factsAdvanced: {
+      de: ["Altitudine de aproximativ 940 de metri", "Înconjurat de munții Lebršnik și Volujak", "Traversat de râuri subterane (Mušnica, Gračanica)", "Centru tradițional pentru creșterea vitelor", "Renumit pentru producția de brânză", "Unul dintre cele mai mari polje-uri din țară", "Găzduiește o importantă termocentrală", "Climat continental cu ierni aspre"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

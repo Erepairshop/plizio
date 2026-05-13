@@ -7,7 +7,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-BZL",
     coords: [15.2, -4.3],
-    name: { de: "Kongo", hu: "Kongó", ro: "Congo", en: "Congo River" },
+    name: { de: "Kongo", hu: "Kongó", ro: "Congo", en: "Congo River",
+image: "/poi-images/cg-congo-river-nature-v2.webp"
+},
     description: {
       de: "Der Kongo ist der wasserreichste Fluss Afrikas und der tiefste der Welt.",
       hu: "A Kongó Afrika legbővízűbb folyója és a világ legmélyebb folyamata.",
@@ -32,7 +34,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-7",
     coords: [17.8, -0.5],
-    name: { de: "Ubangi", hu: "Ubangi", ro: "Ubangi", en: "Ubangi River" },
+    name: { de: "Ubangi", hu: "Ubangi", ro: "Ubangi", en: "Ubangi River",
+image: "/poi-images/cg-ubangi-river-nature-v2.webp"
+},
     description: {
       de: "Ein bedeutender Nebenfluss des Kongos, der die Grenze im Nordosten bildet.",
       hu: "A Kongó jelentős mellékfolyója, amely az északkeleti határt alkotja.",
@@ -57,7 +61,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-13",
     coords: [16.2, 1.3],
-    name: { de: "Sangha", hu: "Sangha", ro: "Sangha", en: "Sangha River" },
+    name: { de: "Sangha", hu: "Sangha", ro: "Sangha", en: "Sangha River",
+image: "/poi-images/cg-sangha-river-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger Fluss im Norden, der durch dichten Regenwald fließt.",
       hu: "Fontos északi folyó, amely sűrű esőerdőn folyik keresztül.",
@@ -82,7 +88,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-8",
     coords: [15.9, -1.0],
-    name: { de: "Alima", hu: "Alima", ro: "Alima", en: "Alima River" },
+    name: { de: "Alima", hu: "Alima", ro: "Alima", en: "Alima River",
+image: "/poi-images/cg-alima-river-nature-v2.webp"
+},
     description: {
       de: "Ein schiffbarer Nebenfluss des Kongos in der Cuvette-Region.",
       hu: "A Kongó hajózható mellékfolyója a Cuvette régióban.",
@@ -107,7 +115,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-5",
     coords: [12.0, -4.4],
-    name: { de: "Kouilou-Niari", hu: "Kouilou-Niari", ro: "Kouilou-Niari", en: "Kouilou-Niari River" },
+    name: { de: "Kouilou-Niari", hu: "Kouilou-Niari", ro: "Kouilou-Niari", en: "Kouilou-Niari River",
+image: "/poi-images/cg-kouilou-niari-river-nature-v2.webp"
+},
     description: {
       de: "Der bedeutendste Fluss im Südwesten Kongos, der in den Atlantik mündet.",
       hu: "Kongó legjelentősebb délnyugati folyója, amely az Atlanti-óceánba torkollik.",
@@ -132,7 +142,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-7",
     coords: [17.2, 0.5],
-    name: { de: "Likouala-aux-Herbes", hu: "Likouala-aux-Herbes", ro: "Likouala-aux-Herbes", en: "Likouala-aux-Herbes River" },
+    name: { de: "Likouala-aux-Herbes", hu: "Likouala-aux-Herbes", ro: "Likouala-aux-Herbes", en: "Likouala-aux-Herbes River",
+image: "/poi-images/cg-likouala-aux-herbes-nature-v2.webp"
+},
     description: {
       de: "Ein Nebenfluss des Sangha, bekannt für seine ausgedehnten Sumpfgebiete.",
       hu: "A Sangha mellékfolyója, amely kiterjedt mocsaras területeiről ismert.",
@@ -157,7 +169,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "mountain",
     parent: "CG-13",
     coords: [13.2, 0.7],
-    name: { de: "Mont Berongou", hu: "Berongou-hegy", ro: "Muntele Berongou", en: "Mount Berongou" },
+    name: { de: "Mont Berongou", hu: "Berongou-hegy", ro: "Muntele Berongou", en: "Mount Berongou",
+image: "/poi-images/cg-berongou-mountain-nature-v2.webp"
+},
     description: {
       de: "Der höchste Punkt der Republik Kongo, gelegen im zerklüfteten Norden.",
       hu: "A Kongói Köztársaság legmagasabb pontja, az ország északi részén.",
@@ -182,7 +196,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-8",
     coords: [14.8, 0.8],
-    name: { de: "Odzala-Kokoua-Wald", hu: "Odzala-Kokoua Nemzeti Park", ro: "Pădurea Odzala-Kokoua", en: "Odzala-Kokoua National Park" },
+    name: { de: "Odzala-Kokoua-Wald", hu: "Odzala-Kokoua Nemzeti Park", ro: "Pădurea Odzala-Kokoua", en: "Odzala-Kokoua National Park",
+image: "/poi-images/cg-odzala-kokoua-forest-nature-v2.webp"
+},
     description: {
       de: "Eines der ältesten Nationalparkgebiete Afrikas mit riesigen Waldgebieten.",
       hu: "Afrika egyik legrégebbi nemzeti parkja hatalmas erdőterületekkel.",
@@ -207,7 +223,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-13",
     coords: [16.5, 2.5],
-    name: { de: "Nouabalé-Ndoki-Wald", hu: "Nouabalé-Ndoki Nemzeti Park", ro: "Pădurea Nouabalé-Ndoki", en: "Nouabalé-Ndoki National Park" },
+    name: { de: "Nouabalé-Ndoki-Wald", hu: "Nouabalé-Ndoki Nemzeti Park", ro: "Pădurea Nouabalé-Ndoki", en: "Nouabalé-Ndoki National Park",
+image: "/poi-images/cg-nouabale-ndoki-forest-nature-v2.webp"
+},
     description: {
       de: "Ein unberührter Regenwald im Norden, Teil des Sangha Tri-National Welterbes.",
       hu: "Érintetlen északi esőerdő, a Sangha Tri-National Világörökség része.",
@@ -232,7 +250,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-5",
     coords: [11.5, -4.0],
-    name: { de: "Conkouati-Douli-Wald", hu: "Conkouati-Douli Nemzeti Park", ro: "Pădurea Conkouati-Douli", en: "Conkouati-Douli National Park" },
+    name: { de: "Conkouati-Douli-Wald", hu: "Conkouati-Douli Nemzeti Park", ro: "Pădurea Conkouati-Douli", en: "Conkouati-Douli National Park",
+image: "/poi-images/cg-conkouati-douli-forest-nature-v2.webp"
+},
     description: {
       de: "Ein vielfältiger Park an der Küste, der Wälder, Lagunen und das Meer umfasst.",
       hu: "Változatos tengerparti park, amely erdőket, lagúnákat és tengert is magában foglal.",
@@ -257,7 +277,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "lake",
     parent: "CG-7",
     coords: [17.1, 1.3],
-    name: { de: "Télé-See", hu: "Télé-tó", ro: "Lacul Télé", en: "Lake Télé" },
+    name: { de: "Télé-See", hu: "Télé-tó", ro: "Lacul Télé", en: "Lake Télé",
+image: "/poi-images/cg-tele-lake-nature-v2.webp"
+},
     description: {
       de: "Ein kreisrunder See inmitten tiefer Sumpfwälder im Norden Kongos.",
       hu: "Kör alakú tó az észak-kongói mély mocsári erdők közepén.",
@@ -275,7 +297,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-5",
     coords: [12.5, -4.2],
-    name: { de: "Mayombe-Wald", hu: "Mayombe-erdő", ro: "Pădurea Mayombe", en: "Mayombe Forest" },
+    name: { de: "Mayombe-Wald", hu: "Mayombe-erdő", ro: "Pădurea Mayombe", en: "Mayombe Forest",
+image: "/poi-images/cg-mayombe-forest-nature-v2.webp"
+},
     description: {
       de: "Ein Küstengebirgsregenwald, der sich über mehrere zentralafrikanische Länder erstreckt.",
       hu: "Tengerparti hegyi esőerdő, amely több közép-afrikai országon át húzódik.",
@@ -293,7 +317,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "sea",
     parent: "CG-5",
     coords: [11.8, -4.8],
-    name: { de: "Atlantischer Ozean", hu: "Atlanti-óceán", ro: "Oceanul Atlantic", en: "Atlantic Ocean" },
+    name: { de: "Atlantischer Ozean", hu: "Atlanti-óceán", ro: "Oceanul Atlantic", en: "Atlantic Ocean",
+image: "/poi-images/cg-atlantic-ocean-cg-nature-v2.webp"
+},
     description: {
       de: "Die Küstenlinie der Republik Kongo am Golf von Guinea.",
       hu: "A Kongói Köztársaság tengerpartja a Guineai-öbölnél.",
@@ -311,7 +337,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "sea",
     parent: "CG-5",
     coords: [11.8, -4.6],
-    name: { de: "Loango-Bucht", hu: "Loango-öböl", ro: "Golful Loango", en: "Loango Bay" },
+    name: { de: "Loango-Bucht", hu: "Loango-öböl", ro: "Golful Loango", en: "Loango Bay",
+image: "/poi-images/cg-loango-bay-nature-v2.webp"
+},
     description: {
       de: "Eine historische Bucht an der Atlantikküste mit großer ökologischer Bedeutung.",
       hu: "Történelmi öböl az Atlanti-parton, nagy ökológiai jelentőséggel.",
@@ -330,7 +358,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-14",
     coords: [15.5, -3.0],
-    name: { de: "Léfini-Reservat", hu: "Léfini Rezervátum", ro: "Rezervația Léfini", en: "Léfini Reserve" },
+    name: { de: "Léfini-Reservat", hu: "Léfini Rezervátum", ro: "Rezervația Léfini", en: "Léfini Reserve",
+image: "/poi-images/cg-lefini-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Naturschutzgebiet auf den Batéké-Plateaus, nördlich von Brazzaville.",
       hu: "Természetvédelmi terület a Batéké-fennsíkon, Brazzavilletől északra.",
@@ -348,7 +378,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "lake",
     parent: "CG-5",
     coords: [12.0, -4.7],
-    name: { de: "Cayo-See", hu: "Cayo-tó", ro: "Lacul Cayo", en: "Lake Cayo" },
+    name: { de: "Cayo-See", hu: "Cayo-tó", ro: "Lacul Cayo", en: "Lake Cayo",
+image: "/poi-images/cg-cayo-lake-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer Küstensee in der Nähe von Pointe-Noire.",
       hu: "Gleccser eredetű festői tengerparti tó Pointe-Noire közelében.",
@@ -367,7 +399,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-BZL",
     coords: [15.2, -4.3],
-    name: { de: "Djoué", hu: "Djoué folyó", ro: "Râul Djoué", en: "Djoue River" },
+    name: { de: "Djoué", hu: "Djoué folyó", ro: "Râul Djoué", en: "Djoue River",
+image: "/poi-images/cg-djoue-river-nature-v2.webp"
+},
     description: {
       de: "Ein Nebenfluss des Kongos, bekannt für seine spektakulären Stromschnellen.",
       hu: "A Kongó mellékfolyója, mely látványos zúgóiról nevezetes.",
@@ -385,7 +419,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-14",
     coords: [15.5, -2.5],
-    name: { de: "Batéké-Plateaus", hu: "Batéké-fennsík", ro: "Platoul Batéké", en: "Batéké Plateaus" },
+    name: { de: "Batéké-Plateaus", hu: "Batéké-fennsík", ro: "Platoul Batéké", en: "Batéké Plateaus",
+image: "/poi-images/cg-bateke-plateaus-nature-v2.webp"
+},
     description: {
       de: "Die Batéké-Plateaus sind eine weite Hochebene mit Savannen und lichten Wäldern. Die Landschaft prägt den Osten und Südosten der Republik Kongo.",
       hu: "A Bat?k?-fenns?kok Brazzaville-t?l keletre h?z?d?, sz?les fenns?k- ?s szavannavid?ket alkotnak. Ritk?n lakott t?j, ahol a v?zgy?jt?s ?s a term?szetes ?l?helyek fontosak.",
@@ -403,7 +439,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-14",
     coords: [15.5, -3.3],
-    name: { de: "Lésio-Louna-Schutzgebiet", hu: "Lésio-Louna Rezervátum", ro: "Rezervația Lésio-Louna", en: "Lesio-Louna Reserve" },
+    name: { de: "Lésio-Louna-Schutzgebiet", hu: "Lésio-Louna Rezervátum", ro: "Rezervația Lésio-Louna", en: "Lesio-Louna Reserve",
+image: "/poi-images/cg-lesio-louna-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein bekanntes Schutzgebiet für Gorillas in der Nähe von Brazzaville.",
       hu: "Ismert gorillavédelmi terület Brazzaville közelében.",
@@ -421,7 +459,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "forest",
     parent: "CG-5",
     coords: [12.4, -4.3],
-    name: { de: "Dimonika-Biosphärenreservat", hu: "Dimonika Bioszféra-rezervátum", ro: "Rezervația Biosferei Dimonika", en: "Dimonika Reserve" },
+    name: { de: "Dimonika-Biosphärenreservat", hu: "Dimonika Bioszféra-rezervátum", ro: "Rezervația Biosferei Dimonika", en: "Dimonika Reserve",
+image: "/poi-images/cg-dimonika-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Mayombe-Gebirge, das für seinen Goldabbau und seine Wälder bekannt ist.",
       hu: "A Mayombe-hegységben található védett terület, amely aranybányászatáról és erdőiről ismert.",
@@ -439,7 +479,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-2",
     coords: [13.5, -3.8],
-    name: { de: "Mpoulou", hu: "Mpoulou folyó", ro: "Râul Mpoulou", en: "Mpoulou River" },
+    name: { de: "Mpoulou", hu: "Mpoulou folyó", ro: "Râul Mpoulou", en: "Mpoulou River",
+image: "/poi-images/cg-mpoulou-river-nature-v2.webp"
+},
     description: {
       de: "Der Mpoulou ist ein kleiner Fluss im Süden des Landes. Er entwässert eine ländliche Landschaft mit Feldern und Wäldern.",
       hu: "A Mpoulou egy kisebb foly? Kong? ?szaki r?sz?n. A k?rnyez? erd?s ter?letek v?zh?l?zat?nak r?sze.",
@@ -457,7 +499,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-12",
     coords: [14.9, -4.6],
-    name: { de: "Loufoulakari", hu: "Loufoulakari folyó", ro: "Râul Loufoulakari", en: "Loufoulakari River" },
+    name: { de: "Loufoulakari", hu: "Loufoulakari folyó", ro: "Râul Loufoulakari", en: "Loufoulakari River",
+image: "/poi-images/cg-loufoulakari-river-nature-v2.webp"
+},
     description: {
       de: "Bekannt für die gleichnamigen Wasserfälle an der Mündung in den Kongo.",
       hu: "A Kongóba való torkollásánál található azonos nevű vízeséseiről ismert.",
@@ -475,7 +519,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "lake",
     parent: "CG-14",
     coords: [15.1, -2.9],
-    name: { de: "Blauer See", hu: "Kék-tó", ro: "Lacul Albastru", en: "Blue Lake" },
+    name: { de: "Blauer See", hu: "Kék-tó", ro: "Lacul Albastru", en: "Blue Lake",
+image: "/poi-images/cg-blue-lake-cg-nature-v2.webp"
+},
     description: {
       de: "Ein kleiner, tiefblauer See in einer idyllischen Waldlandschaft.",
       hu: "Kicsi, mélykék vizű tó idilli erdei környezetben.",
@@ -493,7 +539,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-7",
     coords: [18.0, 1.8],
-    name: { de: "Motaba", hu: "Motaba folyó", ro: "Râul Motaba", en: "Motaba River" },
+    name: { de: "Motaba", hu: "Motaba folyó", ro: "Râul Motaba", en: "Motaba River",
+image: "/poi-images/cg-motaba-river-nature-v2.webp"
+},
     description: {
       de: "Ein gewundener Fluss im tiefen Norden, der in den Ubangi mündet.",
       hu: "Kanyargós folyó az ország mély északi részén, az Ubangiba torkollik.",
@@ -511,7 +559,9 @@ export const poiExtraCongoNatureV2: POI[] = [
     type: "river",
     parent: "CG-7",
     coords: [18.5, 2.5],
-    name: { de: "Ibenga", hu: "Ibenga folyó", ro: "Râul Ibenga", en: "Ibenga River" },
+    name: { de: "Ibenga", hu: "Ibenga folyó", ro: "Râul Ibenga", en: "Ibenga River",
+image: "/poi-images/cg-ibenga-river-nature-v2.webp"
+},
     description: {
       de: "Der Ibenga ist ein Fluss im Norden der Republik Kongo. Er fließt durch ein abgelegenes Waldgebiet und gehört zum Wassersystem des Kongobeckens.",
       hu: "Távoli folyó a Kongói Köztársaság legészakkeletibb részén.",

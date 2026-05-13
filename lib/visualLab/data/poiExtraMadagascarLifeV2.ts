@@ -7,7 +7,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-A",
     coords: [48.418, -18.933],
-    name: { de: "Andasibe-Mantadia Nationalpark", hu: "Andasibe-Mantadia Nemzeti Park", ro: "Parcul Național Andasibe-Mantadia", en: "Andasibe-Mantadia National Park" },
+    name: { de: "Andasibe-Mantadia Nationalpark", hu: "Andasibe-Mantadia Nemzeti Park", ro: "Parcul Național Andasibe-Mantadia", en: "Andasibe-Mantadia National Park",
+image: "/poi-images/andasibe-mantadia-life-v2.webp"
+},
     description: { de: "Lebensraum für Indri-Lemuren und viele endemische Arten.", hu: "Élőhely az indri makiknak és számos endemikus fajnak.", ro: "Habitat pentru lemurienii Indri și multe specii endemice.", en: "Habitat for Indri lemurs and many endemic species." },
     facts: {
       de: ["Berühmt für den Indri", "Regenwaldgebiet", "Hohe Biodiversität", "NAtschatten-Lemuren beobachtbar"],
@@ -31,7 +33,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-T",
     coords: [45.867, -25.017],
-    name: { de: "Berenty-Reservat", hu: "Berenty Rezervátum", ro: "Rezervația Berenty", en: "Berenty Reserve" },
+    name: { de: "Berenty-Reservat", hu: "Berenty Rezervátum", ro: "Rezervația Berenty", en: "Berenty Reserve",
+image: "/poi-images/berenty-reservat-life-v2.webp"
+},
     description: { de: "Ein privates Reservat, das für seine Ringelschwanz-Lemuren bekannt ist.", hu: "Egy magánrezervátum, amely a gyűrűsfarkú makikról híres.", ro: "O rezervație privată cunoscută pentru lemurienii cu coadă inelată.", en: "A private reserve known for its ring-tailed lemurs." },
     facts: {
       de: ["Ringelschwanz-Lemuren", "Dornenwald-Ökosystem", "Privates Schutzgebiet", "Forschungsschwerpunkt"],
@@ -55,7 +59,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-M",
     coords: [44.667, -20.083],
-    name: { de: "Kirindy-Wald", hu: "Kirindy-erdő", ro: "Pădurea Kirindy", en: "Kirindy Forest" },
+    name: { de: "Kirindy-Wald", hu: "Kirindy-erdő", ro: "Pădurea Kirindy", en: "Kirindy Forest",
+image: "/poi-images/kirindy-wald-life-v2.webp"
+},
     description: { de: "Ein Trockenwald, in dem der Fossa-Raubtier vorkommt.", hu: "Egy száraz erdő, ahol a fossa ragadozó előfordul.", ro: "O pădure uscată unde trăiește prădătorul Fossa.", en: "A dry forest where the Fossa predator is found." },
     facts: {
       de: ["Heimat des Fossa", "Trockenwald", "Nacht-Lemuren", "Baobab-Bäume in der Nähe"],
@@ -79,7 +85,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-M",
     coords: [44.75, -18.7],
-    name: { de: "Tsingy von Bemaraha Park", hu: "Bemaraha Nemzeti Park", ro: "Parcul Național Bemaraha", en: "Bemaraha National Park" },
+    name: { de: "Tsingy von Bemaraha Park", hu: "Bemaraha Nemzeti Park", ro: "Parcul Național Bemaraha", en: "Bemaraha National Park",
+image: "/poi-images/tsingy-bemaraha-park-life-v2.webp"
+},
     description: { de: "Einzigartige Karstformationen und Lebensraum für seltene Lemuren.", hu: "Egyedülálló karsztképződmények és élőhely ritka makiknak.", ro: "Formațiuni carstice unice și habitat pentru lemurieni rari.", en: "Unique karst formations and habitat for rare lemurs." },
     facts: {
       de: ["UNESCO-Welterbe", "Karstfelsen", "Seltene Lemurenarten", "Schwieriges Terrain"],
@@ -103,7 +111,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "agriculture",
     parent: "MG-F",
     coords: [47.45, -21.41],
-    name: { de: "Sahambavy Teeplantage", hu: "Sahambavy teaültetvény", ro: "Plantația de ceai Sahambavy", en: "Sahambavy Tea Plantation" },
+    name: { de: "Sahambavy Teeplantage", hu: "Sahambavy teaültetvény", ro: "Plantația de ceai Sahambavy", en: "Sahambavy Tea Plantation",
+image: "/poi-images/sahambavy-tee-plantage-life-v2.webp"
+},
     description: { de: "Madagaskars größte Teeplantage in einer schönen Hügellandschaft.", hu: "Madagaszkár legnagyobb teaültetvénye egy szép dombos tájon.", ro: "Cea mai mare plantație de ceai din Madagascar într-un peisaj deluros frumos.", en: "Madagascar's largest tea plantation in a beautiful hilly landscape." },
     facts: {
       de: ["Größte Teeplantage", "Qualitätstee", "Hügelige Region", "Lokale Beschäftigung"],
@@ -127,7 +137,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-V",
     coords: [47.03, -19.86],
-    name: { de: "Antsirabe Kinderpark", hu: "Antsirabe gyermekpark", ro: "Parcul pentru copii Antsirabe", en: "Antsirabe Children's Park" },
+    name: { de: "Antsirabe Kinderpark", hu: "Antsirabe gyermekpark", ro: "Parcul pentru copii Antsirabe", en: "Antsirabe Children's Park",
+image: "/poi-images/antsirabe-kinderpark-life-v2.webp"
+},
     description: { de: "Ein beliebter Ort für Familien in der Stadt Antsirabe.", hu: "Népszerű hely családoknak Antsirabe városában.", ro: "Un loc popular pentru familii în orașul Antsirabe.", en: "A popular place for families in the city of Antsirabe." },
     facts: {
       de: ["Familienfreundlich", "Spielplätze", "Grünfläche", "Zentral gelegen"],
@@ -151,7 +163,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-A",
     coords: [48.42, -18.94],
-    name: { de: "Andasibe Orchideenpark", hu: "Andasibe orchideapark", ro: "Parcul de orhidee Andasibe", en: "Andasibe Orchid Park" },
+    name: { de: "Andasibe Orchideenpark", hu: "Andasibe orchideapark", ro: "Parcul de orhidee Andasibe", en: "Andasibe Orchid Park",
+image: "/poi-images/andasibe-orchid-park-life-v2.webp"
+},
     description: { de: "Ein kleiner Park voller exotischer Orchideen, ideal für Kinder.", hu: "Kicsi park tele egzotikus orchideákkal, ideális gyerekeknek.", ro: "Un parc mic plin de orhidee exotice, ideal pentru copii.", en: "A small park full of exotic orchids, ideal for kids." },
     facts: {
       de: ["Exotische Flora", "Einfache Wege", "Lehrreich für Kinder", "Schön angelegt"],
@@ -175,7 +189,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-A",
     coords: [48.43, -18.92],
-    name: { de: "Vakona Lemureninsel", hu: "Vakona maki-sziget", ro: "Insula Lemurienilor Vakona", en: "Vakona Lemur Island" },
+    name: { de: "Vakona Lemureninsel", hu: "Vakona maki-sziget", ro: "Insula Lemurienilor Vakona", en: "Vakona Lemur Island",
+image: "/poi-images/vakona-lemuren-insel-life-v2.webp"
+},
     description: { de: "Eine Insel, wo Lemuren frei herumlaufen und man sie hautnah erleben kann.", hu: "Sziget, ahol a makik szabadon szaladgálnak és közelről megismerhetők.", ro: "O insulă unde lemurienii aleargă liberi și pot fi experimentați de aproape.", en: "An island where lemurs run free and can be experienced up close." },
     facts: {
       de: ["Direkter Lemurenkontakt", "Sehr beliebt bei Kindern", "Sicherer Bereich", "Einfacher Zugang"],
@@ -199,7 +215,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-V",
     coords: [46.7, -19.1],
-    name: { de: "Ampefy Geysir-Park", hu: "Ampefy gejzírpark", ro: "Parcul de gheizere Ampefy", en: "Ampefy Geyser Park" },
+    name: { de: "Ampefy Geysir-Park", hu: "Ampefy gejzírpark", ro: "Parcul de gheizere Ampefy", en: "Ampefy Geyser Park",
+image: "/poi-images/ampefy-geyser-park-life-v2.webp"
+},
     description: { de: "Interessante natürliche Geysire, die Kinder faszinieren.", hu: "Érdekes természetes gejzírek, amelyek lenyűgözik a gyerekeket.", ro: "Gheizere naturale interesante care fascinează copiii.", en: "Interesting natural geysers that fascinate children." },
     facts: {
       de: ["Naturphänomen", "Leicht zugänglich", "Spannend für Kinder", "Einzigartig in Madagaskar"],
@@ -223,7 +241,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-A",
     coords: [49.4, -18.15],
-    name: { de: "Tamatave Stadtpark", hu: "Tamatave városi park", ro: "Parcul orașului Tamatave", en: "Tamatave City Park" },
+    name: { de: "Tamatave Stadtpark", hu: "Tamatave városi park", ro: "Parcul orașului Tamatave", en: "Tamatave City Park",
+image: "/poi-images/tamatave-stadtpark-life-v2.webp"
+},
     description: { de: "Ein grüner Rückzugsort in der Hafenstadt Tamatave.", hu: "Zöld menedék Tamatave kikötővárosban.", ro: "O retragere verde în orașul port Tamatave.", en: "A green retreat in the port city of Tamatave." },
     facts: {
       de: ["Große Parkfläche", "Schattenreiche Bäume", "Perfekt für Picknicks", "Stadtzentrum"],
@@ -247,7 +267,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "agriculture",
     parent: "MG-A",
     coords: [49.73, -15.43],
-    name: { de: "Maroantsetra Vanillefarm", hu: "Maroantsetra vaníliagazdaság", ro: "Ferma de vanilie Maroantsetra", en: "Maroantsetra Vanilla Farm" },
+    name: { de: "Maroantsetra Vanillefarm", hu: "Maroantsetra vaníliagazdaság", ro: "Ferma de vanilie Maroantsetra", en: "Maroantsetra Vanilla Farm",
+image: "/poi-images/maroantsetra-vanille-farm-life-v2.webp"
+},
     description: { de: "Besuch einer echten Vanillefarm, um mehr über die Würze zu erfahren.", hu: "Egy igazi vaníliagazdaság látogatása, hogy többet megtudj a fűszerről.", ro: "Vizitarea unei ferme adevărate de vanilie pentru a afla mai multe despre condiment.", en: "Visit to a real vanilla farm to learn more about the spice." },
     facts: {
       de: ["Vanilleanbau", "Lerne die Ernte kennen", "Duftende Umgebung", "Lehrreich für Familien"],
@@ -271,7 +293,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-D",
     coords: [48.25, -13.3],
-    name: { de: "Nosy Be Korallenriff", hu: "Nosy Be korallzátony", ro: "Reciful de corali Nosy Be", en: "Nosy Be Coral Reef" },
+    name: { de: "Nosy Be Korallenriff", hu: "Nosy Be korallzátony", ro: "Reciful de corali Nosy Be", en: "Nosy Be Coral Reef",
+image: "/poi-images/nosy-be-korallenriff-life-v2.webp"
+},
     description: { de: "Ein Paradies für Unterwasserbeobachtungen von Fischen und Schildkröten.", hu: "Paradicsom a halak és teknősök víz alatti megfigyelésére.", ro: "Un paradis pentru observarea subacvatică a peștilor și țestoaselor.", en: "A paradise for underwater observation of fish and turtles." },
     facts: {
       de: ["Schnorcheln möglich", "Bunte Korallen", "Tropische Fische", "Meeresschildkröten"],
@@ -295,7 +319,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-F",
     coords: [47.45, -21.25],
-    name: { de: "Ranomafana Zoo-Bereich", hu: "Ranomafana állatkerti terület", ro: "Zona zoologică Ranomafana", en: "Ranomafana Zoo Area" },
+    name: { de: "Ranomafana Zoo-Bereich", hu: "Ranomafana állatkerti terület", ro: "Zona zoologică Ranomafana", en: "Ranomafana Zoo Area",
+image: "/poi-images/ranomafana-zoo-bereich-life-v2.webp"
+},
     description: { de: "Ein geschützter Bereich zur Beobachtung der lokalen Fauna.", hu: "Védett terület a helyi fauna megfigyelésére.", ro: "O zonă protejată pentru observarea faunei locale.", en: "A protected area for observing local fauna." },
     facts: {
       de: ["Lokale Fauna", "Gut für Fotos", "Natur pur", "Lehrreich"],
@@ -319,7 +345,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-A",
     coords: [48.3, -18.9],
-    name: { de: "Lakato Lemurenschutz", hu: "Lakato maki-védelem", ro: "Protecția lemurienilor Lakato", en: "Lakato Lemur Conservation" },
+    name: { de: "Lakato Lemurenschutz", hu: "Lakato maki-védelem", ro: "Protecția lemurienilor Lakato", en: "Lakato Lemur Conservation",
+image: "/poi-images/lakato-lemuren-schutz-life-v2.webp"
+},
     description: { de: "Ein engagiertes Projekt zum Schutz und zur Beobachtung der Lemuren.", hu: "Elkötelezett projekt a makik védelmére és megfigyelésére.", ro: "Un proiect dedicat pentru protejarea și observarea lemurienilor.", en: "A dedicated project for protecting and observing lemurs." },
     facts: {
       de: ["Artenschutz", "Naturbeobachtung", "Einsatz für Lemuren", "Familiengerecht"],
@@ -343,7 +371,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "agriculture",
     parent: "MG-V",
     coords: [47.05, -19.9],
-    name: { de: "Antsirabe Reisfelder", hu: "Antsirabe rizsföldek", ro: "Orezăriile Antsirabe", en: "Antsirabe Rice Fields" },
+    name: { de: "Antsirabe Reisfelder", hu: "Antsirabe rizsföldek", ro: "Orezăriile Antsirabe", en: "Antsirabe Rice Fields",
+image: "/poi-images/antsirabe-reis-felder-life-v2.webp"
+},
     description: { de: "Beeindruckende terrassierte Reisfelder in der Hochebene.", hu: "Lenyűgöző teraszos rizsföldek a fennsíkon.", ro: "Orezării terasate impresionante pe platou.", en: "Impressive terraced rice fields in the highlands." },
     facts: {
       de: ["Landwirtschaftliche Technik", "Grüne Terrassen", "Traditionell", "Fotogen"],
@@ -367,7 +397,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-D",
     coords: [48.24, -13.48],
-    name: { de: "Nosy Tanikely Meeresschutzgebiet", hu: "Nosy Tanikely tengeri rezervátum", ro: "Rezervația marină Nosy Tanikely", en: "Nosy Tanikely Marine Reserve" },
+    name: { de: "Nosy Tanikely Meeresschutzgebiet", hu: "Nosy Tanikely tengeri rezervátum", ro: "Rezervația marină Nosy Tanikely", en: "Nosy Tanikely Marine Reserve",
+image: "/poi-images/nosy-tanikely-marine-life-v2.webp"
+},
     description: { de: "Hervorragendes Gebiet zum Schnorcheln mit reicher Unterwasserwelt.", hu: "Kiváló terület snorkelezéshez gazdag víz alatti világgal.", ro: "Zonă excelentă pentru snorkeling cu o viață subacvatică bogată.", en: "Excellent area for snorkeling with a rich underwater world." },
     facts: {
       de: ["Sehr klares Wasser", "Reiche Unterwasserfauna", "Geschützt", "Beliebt für Ausflüge"],
@@ -391,7 +423,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-T",
     coords: [43.66, -23.35],
-    name: { de: "Toliara Botanischer Garten", hu: "Toliara botanikus kert", ro: "Grădina Botanică Toliara", en: "Toliara Botanical Garden" },
+    name: { de: "Toliara Botanischer Garten", hu: "Toliara botanikus kert", ro: "Grădina Botanică Toliara", en: "Toliara Botanical Garden",
+image: "/poi-images/toliara-botanischer-garten-life-v2.webp"
+},
     description: { de: "Ein kleiner Garten mit endemischen Pflanzen Madagaskars.", hu: "Kis kert Madagaszkár endemikus növényeivel.", ro: "O grădină mică cu plante endemice din Madagascar.", en: "A small garden with endemic plants of Madagascar." },
     facts: {
       de: ["Endemische Arten", "Bildungsort", "Ruhig", "Schön gepflegt"],
@@ -415,7 +449,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-F",
     coords: [48.0, -22.14],
-    name: { de: "Manakara Kanal", hu: "Manakara csatorna", ro: "Canalul Manakara", en: "Manakara Canal" },
+    name: { de: "Manakara Kanal", hu: "Manakara csatorna", ro: "Canalul Manakara", en: "Manakara Canal",
+image: "/poi-images/manakara-kanal-life-v2.webp"
+},
     description: { de: "Eine entspannte Bootsfahrt auf dem Kanal, ideal für Kinder.", hu: "Pihentető csónakázás a csatornán, ideális gyerekeknek.", ro: "O plimbare relaxantă cu barca pe canal, ideală pentru copii.", en: "A relaxing boat trip on the canal, ideal for kids." },
     facts: {
       de: ["Bootsausflug", "Naturerlebnis", "Sehr entspannend", "Familienaktivität"],
@@ -439,7 +475,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-M",
     coords: [46.3, -15.7],
-    name: { de: "Mahajanga Strand", hu: "Mahajanga tengerpart", ro: "Plaja Mahajanga", en: "Mahajanga Beach" },
+    name: { de: "Mahajanga Strand", hu: "Mahajanga tengerpart", ro: "Plaja Mahajanga", en: "Mahajanga Beach",
+image: "/poi-images/mahajanga-strand-life-v2.webp"
+},
     description: { de: "Ein familienfreundlicher Strand in Mahajanga.", hu: "Családbarát strand Mahajangában.", ro: "O plajă prietenoasă cu familiile în Mahajanga.", en: "A family-friendly beach in Mahajanga." },
     facts: {
       de: ["Sandstrand", "Sicheres Baden", "Nah am Stadtzentrum", "Beliebter Treffpunkt"],
@@ -463,7 +501,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-T",
     coords: [46.7, -24.8],
-    name: { de: "Andohahela Nationalpark", hu: "Andohahela Nemzeti Park", ro: "Parcul Național Andohahela", en: "Andohahela National Park" },
+    name: { de: "Andohahela Nationalpark", hu: "Andohahela Nemzeti Park", ro: "Parcul Național Andohahela", en: "Andohahela National Park",
+image: "/poi-images/andohahela-nationalpark-life-v2.webp"
+},
     description: { de: "Ein Übergangsgebiet mit verschiedenen Lebensräumen und vielen Lemuren.", hu: "Átmeneti terület különböző élőhelyekkel és sok makival.", ro: "O zonă de tranziție cu habitate diferite și mulți lemurieni.", en: "A transition area with various habitats and many lemurs." },
     facts: {
       de: ["Verschiedene Ökosysteme", "Lemurenvielfalt", "Naturbeobachtung", "UNESCO Welterbe"],
@@ -487,7 +527,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-M",
     coords: [44.8, -16.4],
-    name: { de: "Tsingy von Namoroka Park", hu: "Namoroka-Tsingy Park", ro: "Parcul Tsingy din Namoroka", en: "Tsingy of Namoroka Park" },
+    name: { de: "Tsingy von Namoroka Park", hu: "Namoroka-Tsingy Park", ro: "Parcul Tsingy din Namoroka", en: "Tsingy of Namoroka Park",
+image: "/poi-images/tsingy-namoroka-park-life-v2.webp"
+},
     description: { de: "Ein weniger bekannter Park mit spektakulären Felsformationen und Tieren.", hu: "Kevésbé ismert park látványos sziklaképződményekkel és állatokkal.", ro: "Un parc mai puțin cunoscut cu formațiuni stâncoase spectaculoase și animale.", en: "A less known park with spectacular rock formations and animals." },
     facts: {
       de: ["Felsformationen", "Unberührte Natur", "Lemuren", "Abseits der Pfade"],
@@ -511,7 +553,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "agriculture",
     parent: "MG-F",
     coords: [47.1, -21.4],
-    name: { de: "Fianarantsoa Weingut", hu: "Fianarantsoa borászat", ro: "Crama Fianarantsoa", en: "Fianarantsoa Winery" },
+    name: { de: "Fianarantsoa Weingut", hu: "Fianarantsoa borászat", ro: "Crama Fianarantsoa", en: "Fianarantsoa Winery",
+image: "/poi-images/fianarantsoa-weingut-life-v2.webp"
+},
     description: { de: "Eine Region in Madagaskar, die für ihren Weinanbau bekannt ist.", hu: "Madagaszkár egy bortermeléséről ismert régiója.", ro: "O regiune din Madagascar cunoscută pentru cultivarea vinului.", en: "A region in Madagascar known for its wine cultivation." },
     facts: {
       de: ["Weinbau", "Hügelige Landschaft", "Kulturell interessant", "Lokale Produkte"],
@@ -535,7 +579,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-D",
     coords: [48.35, -13.4],
-    name: { de: "Nosy Komba Lemurenhalbinsel", hu: "Nosy Komba maki-félsziget", ro: "Peninsula Lemurienilor Nosy Komba", en: "Nosy Komba Lemur Peninsula" },
+    name: { de: "Nosy Komba Lemurenhalbinsel", hu: "Nosy Komba maki-félsziget", ro: "Peninsula Lemurienilor Nosy Komba", en: "Nosy Komba Lemur Peninsula",
+image: "/poi-images/nosy-komba-lemuren-life-v2.webp"
+},
     description: { de: "Berühmt für die vielen freundlichen Lemuren auf der Insel.", hu: "Híres a szigeten lévő sok barátságos makiról.", ro: "Faimos pentru mulți lemurieni prietenoși de pe insulă.", en: "Famous for the many friendly lemurs on the island." },
     facts: {
       de: ["Freilebende Lemuren", "Beliebt bei Touristen", "Insel-Atmosphäre", "Einfach erreichbar"],
@@ -559,7 +605,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-T",
     coords: [44.7, -22.8],
-    name: { de: "Zombitse-Vohibasia Nationalpark", hu: "Zombitse-Vohibasia Nemzeti Park", ro: "Parcul Național Zombitse-Vohibasia", en: "Zombitse-Vohibasia National Park" },
+    name: { de: "Zombitse-Vohibasia Nationalpark", hu: "Zombitse-Vohibasia Nemzeti Park", ro: "Parcul Național Zombitse-Vohibasia", en: "Zombitse-Vohibasia National Park",
+image: "/poi-images/zombitse-vohibasia-park-life-v2.webp"
+},
     description: { de: "Ein Schutzgebiet, das Trockenwald und Feuchtgebiete vereint.", hu: "Védett terület, amely egyesíti a száraz erdőt és a vizes élőhelyeket.", ro: "O arie protejată care combină pădurea uscată și zonele umede.", en: "A protected area that combines dry forest and wetlands." },
     facts: {
       de: ["Einzigartige Lemuren", "Seltene Vögel", "Vielfältige Biome", "Natur pur"],
@@ -583,7 +631,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-V",
     coords: [47.04, -19.87],
-    name: { de: "Antsirabe Thermalbad", hu: "Antsirabe termálfürdő", ro: "Băile Termale Antsirabe", en: "Antsirabe Thermal Baths" },
+    name: { de: "Antsirabe Thermalbad", hu: "Antsirabe termálfürdő", ro: "Băile Termale Antsirabe", en: "Antsirabe Thermal Baths",
+image: "/poi-images/antsirabe-thermalbad-life-v2.webp"
+},
     description: { de: "Natürliche Thermalquellen, die für Familien entspannend sind.", hu: "Természetes termálforrások, amelyek pihentetőek családok számára.", ro: "Izvoare termale naturale care sunt relaxante pentru familii.", en: "Natural thermal springs that are relaxing for families." },
     facts: {
       de: ["Heilwasser", "Entspannung", "Familienfreundlich", "In der Stadt"],
@@ -607,7 +657,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-M",
     coords: [46.8, -16.3],
-    name: { de: "Ankarafantsika Vogelbeobachtung", hu: "Ankarafantsika madármegfigyelés", ro: "Observarea păsărilor Ankarafantsika", en: "Ankarafantsika Bird Watching" },
+    name: { de: "Ankarafantsika Vogelbeobachtung", hu: "Ankarafantsika madármegfigyelés", ro: "Observarea păsărilor Ankarafantsika", en: "Ankarafantsika Bird Watching",
+image: "/poi-images/ankarafantsika-vogelbeobachtung-life-v2.webp"
+},
     description: { de: "Hervorragender Ort zur Beobachtung endemischer Vogelarten.", hu: "Kiváló hely endemikus madárfajok megfigyelésére.", ro: "Loc excelent pentru observarea speciilor de păsări endemice.", en: "Excellent place for observing endemic bird species." },
     facts: {
       de: ["Vogelvielfalt", "Lehrreich", "Naturbeobachtung", "Schön gelegen"],
@@ -631,7 +683,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-D",
     coords: [48.6, -12.9],
-    name: { de: "Nosy Mitsio Tauchen", hu: "Nosy Mitsio búvárkodás", ro: "Scufundări Nosy Mitsio", en: "Nosy Mitsio Diving" },
+    name: { de: "Nosy Mitsio Tauchen", hu: "Nosy Mitsio búvárkodás", ro: "Scufundări Nosy Mitsio", en: "Nosy Mitsio Diving",
+image: "/poi-images/nosy-mitsio-tauchen-life-v2.webp"
+},
     description: { de: "Spektakuläre Unterwasserwelt für erfahrene Taucher und Schnorchler.", hu: "Látványos víz alatti világ tapasztalt búvároknak és snorkeleseknek.", ro: "Lume subacvatică spectaculoasă pentru scafandri experimentați și snorkeleri.", en: "Spectacular underwater world for experienced divers and snorkelers." },
     facts: {
       de: ["Große Artenvielfalt", "Korallen", "Klares Wasser", "Abenteuer"],
@@ -655,7 +709,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-A",
     coords: [49.4, -17.3],
-    name: { de: "Tampolo Naturreservat", hu: "Tampolo természetvédelmi terület", ro: "Rezervația naturală Tampolo", en: "Tampolo Nature Reserve" },
+    name: { de: "Tampolo Naturreservat", hu: "Tampolo természetvédelmi terület", ro: "Rezervația naturală Tampolo", en: "Tampolo Nature Reserve",
+image: "/poi-images/tampolo-naturreservat-life-v2.webp"
+},
     description: { de: "Ein schönes Reservat mit dichter Vegetation und vielen Lemuren.", hu: "Szép rezervátum sűrű növényzettel és sok makival.", ro: "O rezervație frumoasă cu vegetație densă și mulți lemurieni.", en: "A beautiful reserve with dense vegetation and many lemurs." },
     facts: {
       de: ["Dichter Wald", "Lemuren", "Wanderungen", "Natur pur"],
@@ -679,7 +735,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "MG-F",
     coords: [47.46, -21.26],
-    name: { de: "Amphibien-Wald Ranomafana", hu: "Ranomafana kétéltű-erdő", ro: "Pădurea amfibienilor Ranomafana", en: "Ranomafana Amphibian Forest" },
+    name: { de: "Amphibien-Wald Ranomafana", hu: "Ranomafana kétéltű-erdő", ro: "Pădurea amfibienilor Ranomafana", en: "Ranomafana Amphibian Forest",
+image: "/poi-images/amphibien-wald-ranomafana-life-v2.webp"
+},
     description: { de: "Ein einzigartiger Lebensraum für viele Froscharten.", hu: "Egyedülálló élőhely sok békafajnak.", ro: "Un habitat unic pentru multe specii de broaște.", en: "A unique habitat for many frog species." },
     facts: {
       de: ["Froschvielfalt", "Seltene Arten", "Naturbeobachtung", "Lehrreich"],
@@ -703,7 +761,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MG-M",
     coords: [46.31, -15.71],
-    name: { de: "Mahajanga Zoo", hu: "Mahajanga állatkert", ro: "Grădina Zoologică Mahajanga", en: "Mahajanga Zoo" },
+    name: { de: "Mahajanga Zoo", hu: "Mahajanga állatkert", ro: "Grădina Zoologică Mahajanga", en: "Mahajanga Zoo",
+image: "/poi-images/mahajanga-zoo-life-v2.webp"
+},
     description: { de: "Ein kleiner Zoo, der die Tiere Madagaskars für Kinder erlebbar macht.", hu: "Kis állatkert, amely a gyerekek számára megismerhetővé teszi Madagaszkár állatait.", ro: "O mică grădină zoologică care face animalele din Madagascar accesibile copiilor.", en: "A small zoo that makes Madagascar's animals accessible to kids." },
     facts: {
       de: ["Heimische Tiere", "Bildung", "Familienfreundlich", "Klein"],

@@ -1,11 +1,13 @@
-﻿// @ts-nocheck
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-center-life-v2",
     type: "animal-habitat",
     parent: "BZ-CY",
     coords: [-88.566, 17.330],
-    name: { de: "Belize Zoo", hu: "Belize Állatkert", ro: "Grădina Zoologică Belize", en: "Belize Zoo" },
+    name: { de: "Belize Zoo", hu: "Belize Állatkert", ro: "Grădina Zoologică Belize", en: "Belize Zoo",
+image: "/poi-images/belize-zoo-tropical-center-life-v2.webp"
+},
     description: {
       de: "Ein kleiner, naturnaher Zoo mit Fokus auf einheimische Tiere aus Belize.",
       hu: "Kis, természetközeli állatkert, amely Belize őshonos állataira összpontosít.",
@@ -34,7 +36,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-CY",
     coords: [-88.985, 17.149],
-    name: { de: "Green Iguana Conservation Project", hu: "Zöldiguána-védelmi Program", ro: "Proiectul de Conservare a Iguanei Verzi", en: "Green Iguana Conservation Project" },
+    name: { de: "Green Iguana Conservation Project", hu: "Zöldiguána-védelmi Program", ro: "Proiectul de Conservare a Iguanei Verzi", en: "Green Iguana Conservation Project",
+image: "/poi-images/green-iguana-conservation-project-life-v2.webp"
+},
     description: {
       de: "Ein Bildungs- und Artenschutzprojekt für grüne Leguane in San Ignacio.",
       hu: "Oktatási és természetvédelmi program a zöld leguánok számára San Ignacióban.",
@@ -63,7 +67,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-BZ",
     coords: [-88.537, 17.760],
-    name: { de: "Crooked Tree Wildlife Sanctuary", hu: "Crooked Tree Vadvédelmi Terület", ro: "Sanctuarul de Faună Sălbatică Crooked Tree", en: "Crooked Tree Wildlife Sanctuary" },
+    name: { de: "Crooked Tree Wildlife Sanctuary", hu: "Crooked Tree Vadvédelmi Terület", ro: "Sanctuarul de Faună Sălbatică Crooked Tree", en: "Crooked Tree Wildlife Sanctuary",
+image: "/poi-images/crooked-tree-wildlife-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Feuchtgebiet und Vogelparadies nördlich von Belize City.",
       hu: "Fontos vizes élőhely és madárparadicsom Belize Citytől északra.",
@@ -92,7 +98,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-BZ",
     coords: [-88.370, 17.317],
-    name: { de: "Community Baboon Sanctuary", hu: "Közösségi Pávián-szentély", ro: "Sanctuarul Comunitar al Babuinilor", en: "Community Baboon Sanctuary" },
+    name: { de: "Community Baboon Sanctuary", hu: "Közösségi Pávián-szentély", ro: "Sanctuarul Comunitar al Babuinilor", en: "Community Baboon Sanctuary",
+image: "/poi-images/community-baboon-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein gemeinschaftlich geschütztes Lebensraumnetz für Brüllaffen im Belize District.",
       hu: "Közösség által védett élőhelyhálózat a bőgőmajmok számára a Belize Districtben.",
@@ -121,7 +129,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-BZ",
     coords: [-87.847, 17.879],
-    name: { de: "Hol Chan Marine Reserve", hu: "Hol Chan Tengeri Rezervátum", ro: "Rezervația Marină Hol Chan", en: "Hol Chan Marine Reserve" },
+    name: { de: "Hol Chan Marine Reserve", hu: "Hol Chan Tengeri Rezervátum", ro: "Rezervația Marină Hol Chan", en: "Hol Chan Marine Reserve",
+image: "/poi-images/hol-chan-marine-reserve-life-v2.webp"
+},
     description: {
       de: "Ein bekanntes Schutzgebiet am Riff mit Schildkröten, Rochen und vielen Fischen.",
       hu: "Ismert zátonyvédelmi terület teknősökkel, rájákkal és sok hallal.",
@@ -150,7 +160,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-BZ",
     coords: [-88.05, 17.90],
-    name: { de: "Swallow Caye Manatee Reserve", hu: "Swallow Caye lamantinrezervátum", ro: "Rezervația de lamantini Swallow Caye", en: "Swallow Caye Manatee Reserve" },
+    name: { de: "Swallow Caye Manatee Reserve", hu: "Swallow Caye lamantinrezervátum", ro: "Rezervația de lamantini Swallow Caye", en: "Swallow Caye Manatee Reserve",
+image: "/poi-images/swallow-caye-manatee-reserve-life-v2.webp"
+},
     description: {
       de: "Ein Meeresschutzgebiet, das den Karibischen Manatis Lebensraum bietet.",
       hu: "Tengeri védett terület, amely karibi lamantinoknak ad élőhelyet.",
@@ -179,7 +191,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-TOL",
     coords: [-88.500, 16.369],
-    name: { de: "Monkey River Wildlife", hu: "Monkey River vadon", ro: "Fauna de pe Monkey River", en: "Monkey River Wildlife" },
+    name: { de: "Monkey River Wildlife", hu: "Monkey River vadon", ro: "Fauna de pe Monkey River", en: "Monkey River Wildlife",
+image: "/poi-images/monkey-river-wildlife-cruise-life-v2.webp"
+},
     description: {
       de: "Ein Flussufer-Lebensraum, der für Brüllaffen, Vögel und Krokodile bekannt ist.",
       hu: "Folyóparti élőhely, amely bőgőmajmairól, madarairól és krokodiljairól ismert.",
@@ -208,7 +222,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-SC",
     coords: [-88.620, 16.720],
-    name: { de: "Cockscomb Basin Jaguar Sanctuary", hu: "Cockscomb Basin jaguárszentély", ro: "Sanctuarul jaguarilor Cockscomb Basin", en: "Cockscomb Basin Jaguar Sanctuary" },
+    name: { de: "Cockscomb Basin Jaguar Sanctuary", hu: "Cockscomb Basin jaguárszentély", ro: "Sanctuarul jaguarilor Cockscomb Basin", en: "Cockscomb Basin Jaguar Sanctuary",
+image: "/poi-images/cockscomb-basin-jaguar-sanctuary-life-v2.webp"
+},
     description: {
       de: "Das berühmteste Jaguar-Schutzgebiet in Belize mit dichtem tropischem Wald.",
       hu: "Belize leghíresebb jaguárvédelmi területe sűrű trópusi erdővel.",
@@ -237,7 +253,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-OW",
     coords: [-88.930, 18.030],
-    name: { de: "Rio Bravo Wildlife Corridor", hu: "Rio Bravo vadonfolyosó", ro: "Coridorul faunistic Rio Bravo", en: "Rio Bravo Wildlife Corridor" },
+    name: { de: "Rio Bravo Wildlife Corridor", hu: "Rio Bravo vadonfolyosó", ro: "Coridorul faunistic Rio Bravo", en: "Rio Bravo Wildlife Corridor",
+image: "/poi-images/rio-bravo-wildlife-corridor-life-v2.webp"
+},
     description: {
       de: "Ein riesiges Wald- und Schutzgebiet mit vielen Säugetieren und Vögeln.",
       hu: "Hatalmas erdő- és védelmi terület sok emlőssel és madárral.",
@@ -266,7 +284,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-SC",
     coords: [-87.740, 16.570],
-    name: { de: "Gladden Spit Whale Shark Grounds", hu: "Gladden Spit cetcápa-élőhely", ro: "Habitatul rechinilor-balenă Gladden Spit", en: "Gladden Spit Whale Shark Grounds" },
+    name: { de: "Gladden Spit Whale Shark Grounds", hu: "Gladden Spit cetcápa-élőhely", ro: "Habitatul rechinilor-balenă Gladden Spit", en: "Gladden Spit Whale Shark Grounds",
+image: "/poi-images/gladden-spit-whale-shark-grounds-life-v2.webp"
+},
     description: {
       de: "Ein Meeresgebiet, in dem saisonal Walhaie und andere Großfische auftauchen.",
       hu: "Tengeri terület, ahol szezonálisan cetcápák és más nagy halak jelennek meg.",
@@ -295,7 +315,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "animal-habitat",
     parent: "BZ-BZ",
     coords: [-87.535, 17.315],
-    name: { de: "Great Blue Hole Marine Life", hu: "Nagy Kék Lyuk tengeri élővilága", ro: "Viața marină din Marea Gaură Albastră", en: "Great Blue Hole Marine Life" },
+    name: { de: "Great Blue Hole Marine Life", hu: "Nagy Kék Lyuk tengeri élővilága", ro: "Viața marină din Marea Gaură Albastră", en: "Great Blue Hole Marine Life",
+image: "/poi-images/blue-hole-marine-wildlife-life-v2.webp"
+},
     description: {
       de: "Das umliegende Riff beherbergt Haie, Fische und viele andere Meeresarten.",
       hu: "A környező zátony cápáknak, halaknak és sok más tengeri fajnak ad otthont.",
@@ -324,7 +346,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "kid-landmark",
     parent: "BZ-CY",
     coords: [-88.402, 17.236],
-    name: { de: "Blue Hole National Park", hu: "Blue Hole Nemzeti Park", ro: "Parcul Național Blue Hole", en: "Blue Hole National Park" },
+    name: { de: "Blue Hole National Park", hu: "Blue Hole Nemzeti Park", ro: "Parcul Național Blue Hole", en: "Blue Hole National Park",
+image: "/poi-images/blue-hole-national-park-life-v2.webp"
+},
     description: {
       de: "Ein Binnennationalpark in Zentralbelize, der für seine tiefblaue Cenote und das weitläufige St. Herman's Cave System bekannt ist.",
       hu: "Családbarát természetpark barlangösvényekkel és természetes fürdőhelylyel.",
@@ -353,7 +377,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "kid-landmark",
     parent: "BZ-CY",
     coords: [-88.980, 17.150],
-    name: { de: "Green Hills Butterfly Ranch", hu: "Green Hills Pillangófarm", ro: "Ferma de fluturi Green Hills", en: "Green Hills Butterfly Ranch" },
+    name: { de: "Green Hills Butterfly Ranch", hu: "Green Hills Pillangófarm", ro: "Ferma de fluturi Green Hills", en: "Green Hills Butterfly Ranch",
+image: "/poi-images/green-hills-butterfly-ranch-life-v2.webp"
+},
     description: {
       de: "Eine kleine Naturattraktion mit Schmetterlingen, Blumen und Ruhe im Cayo-Distrikt.",
       hu: "Kis természeti látványosság pillangókkal, virágokkal és nyugalommal a Cayo Districtben.",
@@ -382,7 +408,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "kid-landmark",
     parent: "BZ-CY",
     coords: [-88.930, 17.150],
-    name: { de: "Rio on Pools", hu: "Rio on Pools", ro: "Rio on Pools", en: "Rio on Pools" },
+    name: { de: "Rio on Pools", hu: "Rio on Pools", ro: "Rio on Pools", en: "Rio on Pools",
+image: "/poi-images/rio-on-pools-life-v2.webp"
+},
     description: {
       de: "Natürliche Steinbecken im Mountain Pine Ridge, die sich gut zum Baden eignen.",
       hu: "Természetes kőmedencék a Mountain Pine Ridge-ben, jók fürdéshez.",
@@ -411,7 +439,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "kid-landmark",
     parent: "BZ-CY",
     coords: [-88.847, 17.191],
-    name: { de: "St. Herman's Blue Hole", hu: "St. Herman's Blue Hole", ro: "Blue Hole St. Herman", en: "St. Herman's Blue Hole" },
+    name: { de: "St. Herman's Blue Hole", hu: "St. Herman's Blue Hole", ro: "Blue Hole St. Herman", en: "St. Herman's Blue Hole",
+image: "/poi-images/st-hermans-blue-hole-life-v2.webp"
+},
     description: {
       de: "Eine beliebte Süßwasser-Schwimmstelle in einem kleinen Nationalpark.",
       hu: "Népszerű édesvízi fürdőhely egy kis nemzeti parkban.",
@@ -440,7 +470,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "forest",
     parent: "BZ-CY",
     coords: [-88.940, 17.120],
-    name: { de: "Mountain Pine Ridge Forest Reserve", hu: "Mountain Pine Ridge Erdőrezervátum", ro: "Rezervația Forestieră Mountain Pine Ridge", en: "Mountain Pine Ridge Forest Reserve" },
+    name: { de: "Mountain Pine Ridge Forest Reserve", hu: "Mountain Pine Ridge Erdőrezervátum", ro: "Rezervația Forestieră Mountain Pine Ridge", en: "Mountain Pine Ridge Forest Reserve",
+image: "/poi-images/mountain-pine-ridge-forest-reserve-life-v2.webp"
+},
     description: {
       de: "Ein großes Pinienwaldgebiet mit Wasserfällen, Höhlen und Naturpools.",
       hu: "Nagy fenyőerdős terület vízesésekkel, barlangokkal és természetes medencékkel.",
@@ -469,7 +501,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "forest",
     parent: "BZ-CY",
     coords: [-89.060, 16.770],
-    name: { de: "Chiquibul Forest Reserve", hu: "Chiquibul Erdőrezervátum", ro: "Rezervația Forestieră Chiquibul", en: "Chiquibul Forest Reserve" },
+    name: { de: "Chiquibul Forest Reserve", hu: "Chiquibul Erdőrezervátum", ro: "Rezervația Forestieră Chiquibul", en: "Chiquibul Forest Reserve",
+image: "/poi-images/chiquibul-forest-reserve-life-v2.webp"
+},
     description: {
       de: "Belizes größtes Waldgebiet mit dichter Dschungelvegetation und Höhlen.",
       hu: "Belize legnagyobb erdőterülete sűrű dzsungelnövényzettel és barlangokkal.",
@@ -498,7 +532,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "forest",
     parent: "BZ-CY",
     coords: [-88.975, 17.170],
-    name: { de: "Tapir Mountain Nature Reserve", hu: "Tapir Mountain Természetvédelmi Terület", ro: "Rezervația Naturală Tapir Mountain", en: "Tapir Mountain Nature Reserve" },
+    name: { de: "Tapir Mountain Nature Reserve", hu: "Tapir Mountain Természetvédelmi Terület", ro: "Rezervația Naturală Tapir Mountain", en: "Tapir Mountain Nature Reserve",
+image: "/poi-images/tapir-mountain-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Ein geschützter Wald im Cayo-Distrikt, bekannt für Höhlen und Dschungelpfade.",
       hu: "Egy védett természeti terület a Maya-hegység lábánál, amely fontos élőhelye Belize nemzeti állatának, a bajszos tapírnak.",
@@ -527,7 +563,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "forest",
     parent: "BZ-SC",
     coords: [-88.300, 16.820],
-    name: { de: "Sittee River Forest Reserve", hu: "Sittee River Erdőrezervátum", ro: "Rezervația Forestieră Sittee River", en: "Sittee River Forest Reserve" },
+    name: { de: "Sittee River Forest Reserve", hu: "Sittee River Erdőrezervátum", ro: "Rezervația Forestieră Sittee River", en: "Sittee River Forest Reserve",
+image: "/poi-images/sittee-river-forest-reserve-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Waldschutzgebiet, das die Artenvielfalt entlang des Sittee River bewahrt und Lebensraum für viele Tropenvögel bietet.",
       hu: "Folyó menti erdő mangrovekkal, trópusi fákkal és gazdag madárvilággal.",
@@ -556,7 +594,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "forest",
     parent: "BZ-TOL",
     coords: [-88.680, 16.330],
-    name: { de: "Bladen Nature Reserve", hu: "Bladen Természetvédelmi Terület", ro: "Rezervația Naturală Bladen", en: "Bladen Nature Reserve" },
+    name: { de: "Bladen Nature Reserve", hu: "Bladen Természetvédelmi Terület", ro: "Rezervația Naturală Bladen", en: "Bladen Nature Reserve",
+image: "/poi-images/bladen-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Ein abgeschiedenes Naturschutzgebiet mit Regenwald, Bergen und Flüssen.",
       hu: "Elzárt természetvédelmi terület esőerdővel, hegyekkel és folyókkal.",
@@ -585,7 +625,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-OW",
     coords: [-88.560, 18.090],
-    name: { de: "Orange Walk Zuckerrohrgürtel", hu: "Orange Walk cukornádövezet", ro: "Centura de trestie de zahăr Orange Walk", en: "Orange Walk Sugar Belt" },
+    name: { de: "Orange Walk Zuckerrohrgürtel", hu: "Orange Walk cukornádövezet", ro: "Centura de trestie de zahăr Orange Walk", en: "Orange Walk Sugar Belt",
+image: "/poi-images/orange-walk-sugar-belt-life-v2.webp"
+},
     description: {
       de: "Die landwirtschaftliche Zuckerrohrzone rund um Orange Walk Town.",
       hu: "Az Orange Walk Town körüli cukornád-mezőgazdasági övezet.",
@@ -614,7 +656,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-OW",
     coords: [-88.650, 17.890],
-    name: { de: "Shipyard Gemüsefarmen", hu: "Shipyard zöldségfarmok", ro: "Fermele de legume Shipyard", en: "Shipyard Vegetable Farms" },
+    name: { de: "Shipyard Gemüsefarmen", hu: "Shipyard zöldségfarmok", ro: "Fermele de legume Shipyard", en: "Shipyard Vegetable Farms",
+image: "/poi-images/shipyard-vegetable-farms-life-v2.webp"
+},
     description: {
       de: "Mennonitische Farmen mit Gemüse, Getreide und Milchproduktion.",
       hu: "Mennonita farmok zöldséggel, gabonával és tejtermeléssel.",
@@ -643,7 +687,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-CY",
     coords: [-88.970, 17.265],
-    name: { de: "Spanish Lookout Milchgürtel", hu: "Spanish Lookout tejövezet", ro: "Centura lactatelor Spanish Lookout", en: "Spanish Lookout Dairy Belt" },
+    name: { de: "Spanish Lookout Milchgürtel", hu: "Spanish Lookout tejövezet", ro: "Centura lactatelor Spanish Lookout", en: "Spanish Lookout Dairy Belt",
+image: "/poi-images/spanish-lookout-dairy-belt-life-v2.webp"
+},
     description: {
       de: "Eine produktive Agrarregion mit Milchvieh, Getreide und moderner Landwirtschaft.",
       hu: "Termelékeny mezőgazdasági térség tejtermeléssel, gabonával és modern gazdálkodással.",
@@ -672,7 +718,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-TOL",
     coords: [-88.650, 16.280],
-    name: { de: "Toledo Kakao-Farmen", hu: "Toledo kakaófarmok", ro: "Fermele de cacao din Toledo", en: "Toledo Cacao Farms" },
+    name: { de: "Toledo Kakao-Farmen", hu: "Toledo kakaófarmok", ro: "Fermele de cacao din Toledo", en: "Toledo Cacao Farms",
+image: "/poi-images/toledo-cacao-farms-life-v2.webp"
+},
     description: {
       de: "Kleine Kakaoplantagen und Schattensysteme im südlichen Belize.",
       hu: "Kis kakaóültetvények és árnyékos termesztési rendszerek Dél-Belize-ben.",
@@ -702,7 +750,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-SC",
     coords: [-88.370, 16.520],
-    name: { de: "Placencia Kokoshaine", hu: "Placencia kókuszlugasok", ro: "Livezile de cocotieri din Placencia", en: "Placencia Coconut Groves" },
+    name: { de: "Placencia Kokoshaine", hu: "Placencia kókuszlugasok", ro: "Livezile de cocotieri din Placencia", en: "Placencia Coconut Groves",
+image: "/poi-images/placencia-coconut-groves-life-v2.webp"
+},
     description: {
       de: "Kokospalmen und kleine Küstenfarmen entlang der Placencia-Halbinsel.",
       hu: "Kókuszpálmák és kis tengerparti farmok a Placencia-félszigeten.",
@@ -731,7 +781,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-SC",
     coords: [-88.250, 16.900],
-    name: { de: "Stann Creek Zitrushaine", hu: "Stann Creek citrusligetek", ro: "Livezile de citrice din Stann Creek", en: "Stann Creek Citrus Groves" },
+    name: { de: "Stann Creek Zitrushaine", hu: "Stann Creek citrusligetek", ro: "Livezile de citrice din Stann Creek", en: "Stann Creek Citrus Groves",
+image: "/poi-images/stann-creek-citrus-groves-life-v2.webp"
+},
     description: {
       de: "Zitrusplantagen im südlichen Küstenstreifen von Belize.",
       hu: "Citrusültetvények Belize déli tengerparti sávjában.",
@@ -760,7 +812,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-SC",
     coords: [-88.50, 16.68],
-    name: { de: "Bella Vista Bananengürtel", hu: "Bella Vista banánövezet", ro: "Centura de banane Bella Vista", en: "Bella Vista Banana Belt" },
+    name: { de: "Bella Vista Bananengürtel", hu: "Bella Vista banánövezet", ro: "Centura de banane Bella Vista", en: "Bella Vista Banana Belt",
+image: "/poi-images/bella-vista-banana-belt-life-v2.webp"
+},
     description: {
       de: "Eine agrarische Zone mit Bananenfeldern im Süden von Belize.",
       hu: "Belize déli részének meghatározó mezőgazdasági területe, amely az ország banánexportjának központja.",
@@ -789,7 +843,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-CY",
     coords: [-88.900, 17.150],
-    name: { de: "Valley of Peace Gartenbau", hu: "Valley of Peace kertgazdaság", ro: "Grădinile din Valley of Peace", en: "Valley of Peace Market Gardens" },
+    name: { de: "Valley of Peace Gartenbau", hu: "Valley of Peace kertgazdaság", ro: "Grădinile din Valley of Peace", en: "Valley of Peace Market Gardens",
+image: "/poi-images/valley-of-peace-market-gardens-life-v2.webp"
+},
     description: {
       de: "Gemüse- und Marktgärten in einer ruhigen ländlichen Gemeinde im Cayo District.",
       hu: "Egy termékeny völgy Cayo kerületben, ahol zöldség- és gyümölcstermesztő közösségek látják el a helyi piacokat.",
@@ -818,7 +874,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-TOL",
     coords: [-88.800, 16.760],
-    name: { de: "Maya Mountain Kaffeefarmen", hu: "Maya-hegységi kávéfarmok", ro: "Fermele de cafea din Munții Maya", en: "Maya Mountain Coffee Farms" },
+    name: { de: "Maya Mountain Kaffeefarmen", hu: "Maya-hegységi kávéfarmok", ro: "Fermele de cafea din Munții Maya", en: "Maya Mountain Coffee Farms",
+image: "/poi-images/maya-mountain-coffee-farms-life-v2.webp"
+},
     description: {
       de: "Nachhaltige Kaffeeplantagen in den Ausläufern der Maya Mountains, die für ihren hochwertigen Bio-Kaffee geschätzt werden.",
       hu: "A Maya-hegység magasabban fekvő területein elhelyezkedő kávéültetvények, ahol prémium minőségű kávét termesztenek.",
@@ -847,7 +905,9 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     type: "agriculture",
     parent: "BZ-CZL",
     coords: [-88.390, 18.390],
-    name: { de: "Corozal Biofarmen", hu: "Corozal biogazdaságok", ro: "Ferme organice Corozal", en: "Corozal Organic Farms" },
+    name: { de: "Corozal Biofarmen", hu: "Corozal biogazdaságok", ro: "Ferme organice Corozal", en: "Corozal Organic Farms",
+image: "/poi-images/corozal-organic-farms-life-v2.webp"
+},
     description: {
       de: "Kleine Biofarmen und Gemüsegärten im Norden von Belize.",
       hu: "Kis biogazdaságok és zöldségeskertek Belize északi részén.",

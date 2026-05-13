@@ -6,7 +6,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "state-capital",
     parent: "MV",
     coords: [73.5093, 4.1755],
-    name: { de: "Malé", hu: "Malé", ro: "Malé", en: "Malé" },
+    name: { de: "Malé", hu: "Malé", ro: "Malé", en: "Malé",
+image: "/poi-images/mv-male-cities-v2.webp"
+},
     description: {
       de: "Die dicht besiedelte Hauptstadt der Malediven, bekannt für ihre bunten Gebäude und historischen Moscheen.",
       hu: "A Maldív-szigetek sűrűn lakott fővárosa, amely színes épületeiről és történelmi mecsetjeiről ismert.",
@@ -30,7 +32,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.1536, -0.6350],
-    name: { de: "Addu Stadt", hu: "Addu Város", ro: "Orașul Addu", en: "Addu City" },
+    name: { de: "Addu Stadt", hu: "Addu Város", ro: "Orașul Addu", en: "Addu City",
+image: "/poi-images/mv-addu-city-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte städtische Region der Malediven, gelegen im südlichsten Atoll des Landes.",
       hu: "A Maldív-szigetek második legnagyobb városi régiója, amely az ország legdélebbi atollján fekszik.",
@@ -54,7 +58,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.4243, -0.2977],
-    name: { de: "Fuvahmulah", hu: "Fuvahmulah", ro: "Fuvahmulah", en: "Fuvahmulah" },
+    name: { de: "Fuvahmulah", hu: "Fuvahmulah", ro: "Fuvahmulah", en: "Fuvahmulah",
+image: "/poi-images/mv-fuvahmulah-cities-v2.webp"
+},
     description: {
       de: "Eine einzigartige Inselstadt mit Süßwasserseen und einer außergewöhnlich vielfältigen Vegetation.",
       hu: "Egyedülálló szigetváros édesvizű tavakkal és kivételesen változatos növényzettel.",
@@ -78,7 +84,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.0700, 6.6225],
-    name: { de: "Kulhudhuffushi", hu: "Kulhudhuffushi", ro: "Kulhudhuffushi", en: "Kulhudhuffushi" },
+    name: { de: "Kulhudhuffushi", hu: "Kulhudhuffushi", ro: "Kulhudhuffushi", en: "Kulhudhuffushi",
+image: "/poi-images/mv-kulhudhuffushi-cities-v2.webp"
+},
     description: {
       de: "Das wirtschaftliche Herz des nördlichen Teils der Malediven, berühmt für seine Mangroven.",
       hu: "A Maldív-szigetek északi részének gazdasági szíve, amely mangroveerdőiről híres.",
@@ -102,7 +110,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.9972, 0.5317],
-    name: { de: "Thinadhoo", hu: "Thinadhoo", ro: "Thinadhoo", en: "Thinadhoo" },
+    name: { de: "Thinadhoo", hu: "Thinadhoo", ro: "Thinadhoo", en: "Thinadhoo",
+image: "/poi-images/mv-thinadhoo-cities-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Stadt im Gaafu Dhaalu Atoll, die sich nach ihrer Zerstörung im Jahr 1962 stark entwickelt hat.",
       hu: "Történelmileg jelentős város a Gaafu Dhaalu atollban, amely az 1962-es pusztulása után erőteljesen fejlődött.",
@@ -126,7 +136,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.3657, 5.4444],
-    name: { de: "Naifaru", hu: "Naifaru", ro: "Naifaru", en: "Naifaru" },
+    name: { de: "Naifaru", hu: "Naifaru", ro: "Naifaru", en: "Naifaru",
+image: "/poi-images/mv-naifaru-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Lhaviyani-Atolls, berühmt für ihren traditionellen Bootsbau und ihre Dichtekonzentration.",
       hu: "A Lhaviyani-atoll fővárosa, amely hagyományos hajóépítéséről és sűrű beépítettségéről híres.",
@@ -150,7 +162,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.4116, 5.4925],
-    name: { de: "Hinnavaru", hu: "Hinnavaru", ro: "Hinnavaru", en: "Hinnavaru" },
+    name: { de: "Hinnavaru", hu: "Hinnavaru", ro: "Hinnavaru", en: "Hinnavaru",
+image: "/poi-images/mv-hinnavaru-cities-v2.webp"
+},
     description: {
       de: "Eine dicht besiedelte Insel im Lhaviyani-Atoll mit einer lebhaften Fischereiindustrie.",
       hu: "Sűrűn lakott sziget a Lhaviyani-atollban, amely élénk halászati iparral rendelkezik.",
@@ -174,7 +188,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.1139, 6.8869],
-    name: { de: "Dhidhdhoo", hu: "Dhidhdhoo", ro: "Dhidhdhoo", en: "Dhidhdhoo" },
+    name: { de: "Dhidhdhoo", hu: "Dhidhdhoo", ro: "Dhidhdhoo", en: "Dhidhdhoo",
+image: "/poi-images/mv-dhidhdhoo-cities-v2.webp"
+},
     description: {
       de: "Das administrative Zentrum des Haa Alif Atolls, das als wichtiges Drehkreuz im hohen Norden dient.",
       hu: "A Haa Alif atoll közigazgatási központja, amely fontos csomópontként szolgál a távoli északon.",
@@ -198,7 +214,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.0694, 5.1039],
-    name: { de: "Eydhafushi", hu: "Eydhafushi", ro: "Eydhafushi", en: "Eydhafushi" },
+    name: { de: "Eydhafushi", hu: "Eydhafushi", ro: "Eydhafushi", en: "Eydhafushi",
+image: "/poi-images/mv-eydhafushi-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Baa-Atolls, einem UNESCO-Biosphärenreservat, bekannt für ihre nachhaltige Entwicklung.",
       hu: "A Baa-atoll, egy UNESCO bioszféra-rezervátum fővárosa, amely fenntartható fejlődéséről ismert.",
@@ -222,7 +240,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.2889, 6.1492],
-    name: { de: "Funadhoo", hu: "Funadhoo", ro: "Funadhoo", en: "Funadhoo" },
+    name: { de: "Funadhoo", hu: "Funadhoo", ro: "Funadhoo", en: "Funadhoo",
+image: "/poi-images/mv-funadhoo-cities-v2.webp"
+},
     description: {
       de: "Eine wachsende Inselstadt im Shaviyani-Atoll mit langen Sandstränden und moderner Infrastruktur.",
       hu: "Növekvő szigetváros a Shaviyani-atollban, hosszú homokos strandokkal és modern infrastruktúrával.",
@@ -246,7 +266,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.0139, 5.6206],
-    name: { de: "Dhuvaafaru", hu: "Dhuvaafaru", ro: "Dhuvaafaru", en: "Dhuvaafaru" },
+    name: { de: "Dhuvaafaru", hu: "Dhuvaafaru", ro: "Dhuvaafaru", en: "Dhuvaafaru",
+image: "/poi-images/mv-dhuvaafaru-cities-v2.webp"
+},
     description: {
       de: "Eine planmäßig neu besiedelte Insel im Raa-Atoll für die Überlebenden des Tsunami von 2004.",
       hu: "A 2004-es szökőár túlélői számára tervszerűen újranépesített sziget a Raa-atollban.",
@@ -270,7 +292,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.4356, 0.7583],
-    name: { de: "Villingili", hu: "Villingili", ro: "Villingili", en: "Villingili" },
+    name: { de: "Villingili", hu: "Villingili", ro: "Villingili", en: "Villingili",
+image: "/poi-images/mv-villingili-ga-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Gaafu Alif Atolls, bekannt für ihre Bildungseinrichtungen und als regionales Zentrum.",
       hu: "A Gaafu Alif atoll fővárosa, amely oktatási intézményeiről és regionális központként ismert.",
@@ -294,7 +318,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.9686, 3.7578],
-    name: { de: "Mahibadhoo", hu: "Mahibadhoo", ro: "Mahibadhoo", en: "Mahibadhoo" },
+    name: { de: "Mahibadhoo", hu: "Mahibadhoo", ro: "Mahibadhoo", en: "Mahibadhoo",
+image: "/poi-images/mv-mahibadhoo-cities-v2.webp"
+},
     description: {
       de: "Eine dynamische Stadt im Alif Dhaal Atoll, die als Verwaltungs- und Bildungszentrum dient.",
       hu: "Dinamikus város az Alif Dhaal atollban, amely közigazgatási és oktatási központként szolgál.",
@@ -318,7 +344,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.8942, 2.6714],
-    name: { de: "Kudahuvadhoo", hu: "Kudahuvadhoo", ro: "Kudahuvadhoo", en: "Kudahuvadhoo" },
+    name: { de: "Kudahuvadhoo", hu: "Kudahuvadhoo", ro: "Kudahuvadhoo", en: "Kudahuvadhoo",
+image: "/poi-images/mv-kudahuvadhoo-cities-v2.webp"
+},
     description: {
       de: "Die größte Insel und Hauptstadt des Dhaalu-Atolls, ausgestattet mit einem neuen Regionalflughafen.",
       hu: "A Dhaalu-atoll legnagyobb szigete és fővárosa, amely új regionális repülőtérrel rendelkezik.",
@@ -342,7 +370,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.5022, 1.8339],
-    name: { de: "Fonadhoo", hu: "Fonadhoo", ro: "Fonadhoo", en: "Fonadhoo" },
+    name: { de: "Fonadhoo", hu: "Fonadhoo", ro: "Fonadhoo", en: "Fonadhoo",
+image: "/poi-images/mv-fonadhoo-cities-v2.webp"
+},
     description: {
       de: "Eine langgestreckte Insel, die durch Dämme mit benachbarten Inseln im Laamu-Atoll verbunden ist.",
       hu: "Hosszúkás sziget, amelyet gátak kötnek össze a Laamu-atoll szomszédos szigeteivel.",
@@ -366,7 +396,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.5806, 2.9222],
-    name: { de: "Muli", hu: "Muli", ro: "Muli", en: "Muli" },
+    name: { de: "Muli", hu: "Muli", ro: "Muli", en: "Muli",
+image: "/poi-images/mv-muli-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Meemu-Atolls, die eine ruhige Atmosphäre und traditionelle maledivische Lebensweise bietet.",
       hu: "A Meemu-atoll fővárosa, amely csendes légkört és hagyományos maldív életmódot kínál.",
@@ -390,7 +422,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.8894, 3.0578],
-    name: { de: "Nilandhoo", hu: "Nilandhoo", ro: "Nilandhoo", en: "Nilandhoo" },
+    name: { de: "Nilandhoo", hu: "Nilandhoo", ro: "Nilandhoo", en: "Nilandhoo",
+image: "/poi-images/mv-nilandhoo-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des Faafu-Atolls, eine bedeutende historische Stätte mit antiken buddhistischen Ruinen.",
       hu: "A Faafu-atoll fővárosa, jelentős történelmi helyszín ősi buddhista romokkal.",
@@ -415,7 +449,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.0950, 2.1878],
-    name: { de: "Veymandoo", hu: "Veymandoo", ro: "Veymandoo", en: "Veymandoo" },
+    name: { de: "Veymandoo", hu: "Veymandoo", ro: "Veymandoo", en: "Veymandoo",
+image: "/poi-images/mv-veymandoo-cities-v2.webp"
+},
     description: {
       de: "Die Inselhauptstadt des Thaa-Atolls, bekannt für ihre florierende Fischereiflotte.",
       hu: "A Thaa-atoll szigetfővárosa, amely virágzó halászflottájáról ismert.",
@@ -440,7 +476,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.4128, 5.7667],
-    name: { de: "Manadhoo", hu: "Manadhoo", ro: "Manadhoo", en: "Manadhoo" },
+    name: { de: "Manadhoo", hu: "Manadhoo", ro: "Manadhoo", en: "Manadhoo",
+image: "/poi-images/mv-manadhoo-cities-v2.webp"
+},
     description: {
       de: "Das administrative Zentrum des Noonu-Atolls, das sich durch breite Straßen und geplante Entwicklung auszeichnet.",
       hu: "A Noonu-atoll közigazgatási központja, amelyet széles utcák és tervezett fejlődés jellemez.",
@@ -464,7 +502,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.9917, 4.2628],
-    name: { de: "Rasdhoo", hu: "Rasdhoo", ro: "Rasdhoo", en: "Rasdhoo" },
+    name: { de: "Rasdhoo", hu: "Rasdhoo", ro: "Rasdhoo", en: "Rasdhoo",
+image: "/poi-images/mv-rasdhoo-cities-v2.webp"
+},
     description: {
       de: "Eine kleine, aber lebhafte Inselhauptstadt im Alif Alif Atoll, sehr beliebt bei Tauchern.",
       hu: "Kicsi, de nyüzsgő szigetfőváros az Alif Alif atollban, amely nagyon népszerű a búvárok körében.",
@@ -488,7 +528,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.5469, 3.4722],
-    name: { de: "Felidhoo", hu: "Felidhoo", ro: "Felidhoo", en: "Felidhoo" },
+    name: { de: "Felidhoo", hu: "Felidhoo", ro: "Felidhoo", en: "Felidhoo",
+image: "/poi-images/mv-felidhoo-cities-v2.webp"
+},
     description: {
       de: "Die ruhige Hauptstadt des Vaavu-Atolls, berühmt für die traditionelle Boduberu-Musik.",
       hu: "A Vaavu-atoll csendes fővárosa, amely a hagyományos Boduberu zenéről híres.",
@@ -512,7 +554,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.0233, 5.6678],
-    name: { de: "Ungoofaaru", hu: "Ungoofaaru", ro: "Ungoofaaru", en: "Ungoofaaru" },
+    name: { de: "Ungoofaaru", hu: "Ungoofaaru", ro: "Ungoofaaru", en: "Ungoofaaru",
+image: "/poi-images/mv-ungoofaaru-cities-v2.webp"
+},
     description: {
       de: "Die offizielle Verwaltungshauptstadt des Raa-Atolls, die sich zu einem regionalen medizinischen Zentrum entwickelt hat.",
       hu: "A Raa-atoll hivatalos közigazgatási fővárosa, amely regionális orvosi központtá fejlődött.",
@@ -536,7 +580,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.5361, 4.2178],
-    name: { de: "Hulhumalé", hu: "Hulhumalé", ro: "Hulhumalé", en: "Hulhumalé" },
+    name: { de: "Hulhumalé", hu: "Hulhumalé", ro: "Hulhumalé", en: "Hulhumalé",
+image: "/poi-images/mv-hulhumale-cities-v2.webp"
+},
     description: {
       de: "Eine künstlich angelegte Insel in der Nähe von Malé, die zur Entlastung der Hauptstadtbevölkerung erbaut wurde.",
       hu: "Egy Malé közelében épült mesterséges sziget, amelyet a főváros lakosságának tehermentesítésére hoztak létre.",
@@ -560,7 +606,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.4897, 3.9397],
-    name: { de: "Maafushi", hu: "Maafushi", ro: "Maafushi", en: "Maafushi" },
+    name: { de: "Maafushi", hu: "Maafushi", ro: "Maafushi", en: "Maafushi",
+image: "/poi-images/mv-maafushi-cities-v2.webp"
+},
     description: {
       de: "Eine Insel im Kaafu-Atoll, die als Pionier des lokalen Guesthouse-Tourismus auf den Malediven gilt.",
       hu: "Egy sziget a Kaafu-atollban, amelyet a helyi vendégházas turizmus úttörőjének tartanak a Maldív-szigeteken.",
@@ -584,7 +632,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.6514, 4.3739],
-    name: { de: "Thulusdhoo", hu: "Thulusdhoo", ro: "Thulusdhoo", en: "Thulusdhoo" },
+    name: { de: "Thulusdhoo", hu: "Thulusdhoo", ro: "Thulusdhoo", en: "Thulusdhoo",
+image: "/poi-images/mv-thulusdhoo-cities-v2.webp"
+},
     description: {
       de: "Die Verwaltungshauptstadt des Kaafu-Atolls, berühmt für eine Getränkefabrik, die entsalztes Wasser verwendet.",
       hu: "A Kaafu-atoll közigazgatási fővárosa, amely a sótlanított vizet használó italgyárról híres.",
@@ -608,7 +658,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.4678, 3.9003],
-    name: { de: "Guraidhoo", hu: "Guraidhoo", ro: "Guraidhoo", en: "Guraidhoo" },
+    name: { de: "Guraidhoo", hu: "Guraidhoo", ro: "Guraidhoo", en: "Guraidhoo",
+image: "/poi-images/mv-guraidhoo-cities-v2.webp"
+},
     description: {
       de: "Eine dicht besiedelte Insel im Kaafu-Atoll mit starken maritimen Traditionen.",
       hu: "Sűrűn lakott sziget a Kaafu-atollban, erős tengerészeti hagyományokkal.",
@@ -632,7 +684,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.9308, 5.8344],
-    name: { de: "Alifushi", hu: "Alifushi", ro: "Alifushi", en: "Alifushi" },
+    name: { de: "Alifushi", hu: "Alifushi", ro: "Alifushi", en: "Alifushi",
+image: "/poi-images/mv-alifushi-cities-v2.webp"
+},
     description: {
       de: "Eine abgelegene Insel im Raa-Atoll, die landesweit für ihre außergewöhnlichen Bootsbau-Fähigkeiten bekannt ist.",
       hu: "Távoli sziget a Raa-atollban, amely országszerte híres kivételes hajóépítő képességeiről.",
@@ -656,7 +710,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.2628, 5.7533],
-    name: { de: "Holhudhoo", hu: "Holhudhoo", ro: "Holhudhoo", en: "Holhudhoo" },
+    name: { de: "Holhudhoo", hu: "Holhudhoo", ro: "Holhudhoo", en: "Holhudhoo",
+image: "/poi-images/mv-holhudhoo-cities-v2.webp"
+},
     description: {
       de: "Eine gut organisierte Bildungsinsel im Noonu-Atoll mit einem starken Fokus auf Gemeinschaftsentwicklung.",
       hu: "Jól szervezett oktatási sziget a Noonu-atollban, amely nagy hangsúlyt fektet a közösségfejlesztésre.",
@@ -680,7 +736,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [72.9511, 5.4542],
-    name: { de: "Meedhoo", hu: "Meedhoo", ro: "Meedhoo", en: "Meedhoo" },
+    name: { de: "Meedhoo", hu: "Meedhoo", ro: "Meedhoo", en: "Meedhoo",
+image: "/poi-images/mv-meedhoo-raa-cities-v2.webp"
+},
     description: {
       de: "Eine bedeutende Siedlung im Raa-Atoll, die für ihre landwirtschaftliche Produktion bekannt ist.",
       hu: "Jelentős település a Raa-atollban, amely mezőgazdasági termeléséről ismert.",
@@ -705,7 +763,9 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     type: "city",
     parent: "MV",
     coords: [73.5786, 2.9461],
-    name: { de: "Veyvah", hu: "Veyvah", ro: "Veyvah", en: "Veyvah" },
+    name: { de: "Veyvah", hu: "Veyvah", ro: "Veyvah", en: "Veyvah",
+image: "/poi-images/mv-veyvah-cities-v2.webp"
+},
     description: {
       de: "Eine charmante, fischereiorientierte Insel im Meemu-Atoll mit traditionellem Lebensstil.",
       hu: "Egy bájos, halászatra orientált sziget a Meemu-atollban, hagyományos életmóddal.",

@@ -11,8 +11,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Große Moschee von N'Djamena",
       hu: "N'Djamena nagymecsetje",
       ro: "Marea Moschee din N'Djamena",
-      en: "Grand Mosque of N'Djamena"
-    },
+      en: "Grand Mosque of N'Djamena",
+image: "/poi-images/grand-mosque-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Große Moschee von N'Djamena ist das prägende architektonische und religiöse Wahrzeichen der tschadischen Hauptstadt. Mit ihren imposanten Minaretten, die das Stadtbild überragen, ist sie ein Zentrum des islamischen Lebens und ein wichtiger Ort des sozialen Zusammenhalts. Die Moschee vereint traditionelle islamische Stilelemente mit moderner Bauweise und bildet einen Ruhepol inmitten der geschäftigen Metropole. Sie ist ein Symbol für die religiöse Vielfalt und das kulturelle Erbe des Landes, das N'Djamena in seinem heutigen Charakter maßgeblich mitgestaltet hat. Geografie K8 — Religiöse Architektur.",
       hu: "A(z) grand-mosque-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -44,8 +45,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Kathedrale Notre-Dame (N'Djamena)",
       hu: "Notre-Dame-székesegyház (N'Djamena)",
       ro: "Catedrala Notre-Dame (N'Djamena)",
-      en: "Notre-Dame Cathedral (N'Djamena)"
-    },
+      en: "Notre-Dame Cathedral (N'Djamena)",
+image: "/poi-images/cathedrale-nd-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale Notre-Dame in N'Djamena ist ein architektonisch einzigartiges Symbol für die christliche Gemeinschaft im Tschad. Besonders das moderne Schalendach, das sich von herkömmlichen Kathedralbauten abhebt, macht sie zu einem international bekannten Beispiel für religiöse Architektur in Afrika. Die Kathedrale spiegelt die Widerstandsfähigkeit und das Wachstum der katholischen Kirche wider, die nach wechselvoller Geschichte eine feste Säule im kulturellen Leben der Hauptstadt darstellt. Sie ist nicht nur ein Ort des Glaubens, sondern auch ein Zeugnis moderner tschadischer Baukunst. Geografie K7 — Architektur der Moderne.",
       hu: "A(z) cathedrale-nd-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -77,8 +79,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Denkmal der Einheit",
       hu: "Egység emlékmű",
       ro: "Monumentul Unirii",
-      en: "Monument of Unity"
-    },
+      en: "Monument of Unity",
+image: "/poi-images/monument-union-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Monument der Einheit in N'Djamena ist ein mächtiges Symbol für das Streben des tschadischen Volkes nach Harmonie und nationaler Souveränität. Als monumentaler Triumphbogen gestaltet, erinnert es Besucher und Einheimische an die Bedeutung des Zusammenhalts nach Jahrzehnten des politischen Wandels. Der Platz um das Monument ist ein zentraler Treffpunkt, der bei nationalen Feierlichkeiten und offiziellen Anlässen in den Mittelpunkt des öffentlichen Interesses rückt. Es ist mehr als nur ein Denkmal; es ist ein Ausdruck des tschadischen Selbstverständnisses. Geschichte K8 — Nationale Symbole.",
       hu: "A(z) monument-union-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -110,8 +113,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Palais du 15 Janvier",
       hu: "Január 15. Palota",
       ro: "Palatul de la 15 Ianuarie",
-      en: "Palais du 15 Janvier"
-    },
+      en: "Palais du 15 Janvier",
+image: "/poi-images/palais-15-janvier-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palais du 15 Janvier ist das Herzstück des politischen und kulturellen Lebens in N'Djamena. Als wichtigstes Kongresszentrum des Landes beherbergt es nicht nur politische Gipfeltreffen, sondern auch bedeutende gesellschaftliche Ereignisse. Mit seiner markanten Architektur und den weitläufigen Sälen setzt es Maßstäbe für die Durchführung großer Events im Tschad. Der Name erinnert an ein wichtiges Datum der nationalen Geschichte, das die Bedeutung dieses Bauwerks als politisches Symbol zusätzlich unterstreicht. Politik K9 — Politische Infrastruktur.",
       hu: "A(z) palais-15-janvier-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -143,8 +147,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Nationalstadion Idriss Mahamat Ouya",
       hu: "Idriss Mahamat Ouya Nemzeti Stadion",
       ro: "Stadionul Național Idriss Mahamat Ouya",
-      en: "Idriss Mahamat Ouya National Stadium"
-    },
+      en: "Idriss Mahamat Ouya National Stadium",
+image: "/poi-images/stade-national-idriss-ouya-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Idriss Mahamat Ouya Nationalstadion ist nicht nur der Ort für sportliche Höchstleistungen, sondern auch eine Arena für die nationale Identität des Tschad. Benannt nach einem berühmten tschadischen Hochspringer, ist es ein lebendiges Zeugnis für den Stolz des Landes auf seine Sporthelden. Fußballspiele der Nationalmannschaft ziehen hier Zehntausende in ihren Bann und verwandeln das Stadion in einen Ort der Emotionen und des Zusammenhalts. Neben dem Sport dient es als Veranstaltungsort für große staatliche Feierlichkeiten. Sport K5 — Sport als nationale Identität.",
       hu: "A(z) stade-national-idriss-ouya-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -176,8 +181,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Nationalmuseum des Tschad",
       hu: "Csádi Nemzeti Múzeum",
       ro: "Muzeul Național al Ciadului",
-      en: "National Museum of Chad"
-    },
+      en: "National Museum of Chad",
+image: "/poi-images/musee-national-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Nationalmuseum in N'Djamena ist das Archiv der reichen tschadischen Geschichte von der Frühzeit bis in die Gegenwart. Mit seinen archäologischen Schätzen, darunter Funde von den Grabungsstätten des Landes, und seinen ethnografischen Sammlungen bietet es ein umfassendes Bild der Vielfalt des Tschad. Das Museum ist ein unverzichtbarer Ort für die kulturelle Bildung und fördert das Verständnis für die komplexen Wurzeln des Landes. Ein Rundgang hier ist wie ein Spaziergang durch die Epochen des Wadai-Reiches bis zur modernen Zeit. Geschichte K9 — Museen als Wissensträger.",
       hu: "A(z) musee-national-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -209,8 +215,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Brücke der Freundschaft",
       hu: "Barátság híd",
       ro: "Podul Prieteniei",
-      en: "Bridge of Friendship"
-    },
+      en: "Bridge of Friendship",
+image: "/poi-images/pont-amitie-bongor-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Brücke der Freundschaft in Bongor ist mehr als eine bloße Verbindung über den Logone-Fluss; sie ist ein Symbol für den grenzüberschreitenden Zusammenhalt zwischen dem Tschad und Kamerun. Dieser wichtige Grenzübergang erleichtert den täglichen Austausch von Menschen und Waren und treibt die wirtschaftliche Entwicklung in beiden Grenzregionen voran. Die Brücke steht für eine friedliche und kooperative Zusammenarbeit, die für die Stabilität in Westafrika von entscheidender Bedeutung ist. Sie verbindet Märkte und Kulturen auf eine Weise, die Bongor zu einem strategisch bedeutsamen Ort macht. Politik K8 — Grenzüberschreitende Zusammenarbeit.",
       hu: "A(z) pont-amitie-bongor-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -242,8 +249,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "BEAC-Gebäude (N'Djamena)",
       hu: "BEAC épület (N'Djamena)",
       ro: "Clădirea BEAC (N'Djamena)",
-      en: "BEAC Building (N'Djamena)"
-    },
+      en: "BEAC Building (N'Djamena)",
+image: "/poi-images/beac-building-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das BEAC-Gebäude dominiert das Finanzzentrum von N'Djamena und steht als Sinnbild für die wirtschaftliche Stabilität der Region. Als Sitz der Zentralbank der Zentralafrikanischen Staaten fungiert es als regulatorisches Herz der Finanzpolitik für mehrere Nationen. Die moderne Architektur des Hochhauses hebt sich markant vom Stadtbild ab und unterstreicht die wachsende Bedeutung des Tschad im zentralafrikanischen Wirtschaftsraum. Es ist ein Ort der Sicherheit, der durch höchste Sicherheitsvorkehrungen geschützt wird. Politik K9 — Finanzzentren.",
       hu: "A(z) beac-building-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -275,8 +283,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Großer Markt (N'Djamena)",
       hu: "Nagy piac (N'Djamena)",
       ro: "Piața Mare (N'Djamena)",
-      en: "Grand Marché (N'Djamena)"
-    },
+      en: "Grand Marché (N'Djamena)",
+image: "/poi-images/grand-marche-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Grand Marché in N'Djamena ist weit mehr als nur ein Handelsplatz; er ist ein lebendiges Kaleidoskop des tschadischen Lebens. Hier treffen sich Menschen aus allen Regionen, um ihre Erzeugnisse zu verkaufen, zu verhandeln und Nachrichten auszutauschen. Von lokalen Textilien bis hin zu exotischen Früchten spiegelt das Angebot die Vielfalt des Landes wider. Der Markt ist das wirtschaftliche Epizentrum des urbanen Lebens und zeigt die Dynamik der städtischen Entwicklung. Für Besucher ist er der beste Ort, um die Seele der Hauptstadt kennenzulernen. Wirtschaft K5 — Märkte und urbane Dynamik.",
       hu: "A(z) grand-marche-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -308,8 +317,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Sultanspalast von Abéché",
       hu: "Abéchéi szultáni palota",
       ro: "Palatul Sultanului din Abéché",
-      en: "Sultan's Palace of Abéché"
-    },
+      en: "Sultan's Palace of Abéché",
+image: "/poi-images/palais-sultan-abeche-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Sultanspalast von Abéché ist das architektonische Juwel und die historische Residenz des Wadai-Sultanats. Als Zentrum der traditionellen Autorität verkörpert er die Geschichte eines der einflussreichsten Reiche des Tschad. Die imposanten Tore und die traditionellen Bauelemente ziehen Interessierte an, die das Erbe der Sultane erkunden wollen. Er ist ein lebendiges Denkmal, das die Verbindung zwischen historischem Glanz und der Bedeutung lokaler Machtstrukturen in Abéché eindrucksvoll unterstreicht. Geschichte K8 — Wadai-Tradition.",
       hu: "A(z) palais-sultan-abeche-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -341,8 +351,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Moschee von Abéché",
       hu: "Abéchéi mecset",
       ro: "Moscheea din Abéché",
-      en: "Mosque of Abéché"
-    },
+      en: "Mosque of Abéché",
+image: "/poi-images/mosquee-abeche-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Moschee von Abéché ist eines der ältesten religiösen Bauwerke der Region Ouaddaï und ein Zeugnis islamischer Verwurzelung. Ihr schlichter, aber würdevoller Baustil betont die Bedeutung des Gebets im Alltag der Bewohner. Als kulturelles Erbe bewahrt sie Geschichten aus Jahrhunderten des spirituellen Lebens in der Stadt. Die Moschee ist ein Ort der Besinnung, der nicht nur für Gläubige, sondern auch für Historiker eine bedeutende Rolle einnimmt, da sie den religiösen Kern von Abéché bildet. Politik K7 — Religiöse Zentren.",
       hu: "A(z) mosquee-abeche-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -373,8 +384,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Gouverneurspalast (Faya-Largeau)",
       hu: "Kormányzói palota (Faya-Largeau)",
       ro: "Palatul Guvernatorului (Faya-Largeau)",
-      en: "Governor's Palace (Faya-Largeau)"
-    },
+      en: "Governor's Palace (Faya-Largeau)",
+image: "/poi-images/palais-gouverneur-faya-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Gouverneurspalast in Faya-Largeau ist ein architektonisches Relikt der Kolonialzeit inmitten der Sahara. Er vermittelt ein Gefühl für die einstige militärische Verwaltung in der abgelegenen Wüstenregion. Die markante Bauweise macht ihn zu einem der bekanntesten Wahrzeichen der Stadt, das die Geschichte des nördlichen Tschad entscheidend geprägt hat. Als historisches Bauwerk ist er ein unverzichtbarer Ort für die Erforschung der kolonialen Spuren und der Entwicklung von Faya-Largeau in der Wüste. Geschichte K9 — Kolonialarchitektur.",
       hu: "A(z) palais-gouverneur-faya-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -404,8 +416,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Kathedrale von Moundou",
       hu: "Moundoui székesegyház",
       ro: "Catedrala din Moundou",
-      en: "Cathedral of Moundou"
-    },
+      en: "Cathedral of Moundou",
+image: "/poi-images/cathedrale-moundou-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale Notre-Dame-de-l'Assomption ist das architektonische und spirituelle Herz des südlichen Tschad. Mit ihrem markanten Kirchenschiff ist sie ein Ort der Begegnung für eine wachsende christliche Gemeinschaft. Die Kathedrale unterstreicht die Bedeutung von Moundou als religiöses Zentrum im Süden des Landes. Sie bietet nicht nur Raum für Gottesdienste, sondern ist auch ein architektonisch wertvolles Monument, das die kulturelle Landschaft von Moundou bereichert. Politik K7 — Christliche Identität in Zentralafrika.",
       hu: "A(z) cathedrale-moundou-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -435,8 +448,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Kathedrale von Sarh",
       hu: "Sarhi székesegyház",
       ro: "Catedrala din Sarh",
-      en: "Cathedral of Sarh"
-    },
+      en: "Cathedral of Sarh",
+image: "/poi-images/cathedrale-sarh-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale von Sarh ist ein beachtliches Sakralbauwerk, das in der drittgrößten Stadt des Tschad als religiöser Anker dient. Der prägnante Glockenturm macht sie weithin sichtbar und unterstreicht ihre Bedeutung als spirituelles Zentrum. Als Veranstaltungsort für bedeutende Feierlichkeiten ist sie ein fester Bestandteil des gemeinschaftlichen Lebens. Die architektonische Gestaltung und die Lage in der Region Moyen-Chari machen sie zu einem Ort, der kulturelle Vielfalt und religiöse Praxis in Einklang bringt. Politik K8 — Sakrale Identität.",
       hu: "A(z) cathedrale-sarh-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -466,8 +480,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Kulturzentrum N'Djamena",
       hu: "N'Djamenai Kulturális Központ",
       ro: "Centrul Cultural N'Djamena",
-      en: "Cultural Center of N'Djamena"
-    },
+      en: "Cultural Center of N'Djamena",
+image: "/poi-images/centre-culturel-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Kulturzentrum in N'Djamena ist der Motor der zeitgenössischen tschadischen Kunst und Bildung. Es bietet Raum für Konzerte, Ausstellungen und den Austausch unter jungen Künstlern. Mit einer Bibliothek und speziellen Förderprogrammen ist es eine unverzichtbare Institution zur Stärkung der kulturellen Identität des Landes. Das Zentrum versteht sich als Ort des Dialogs, an dem Tradition und Moderne in der Kunst verschmelzen. Für junge Talente ist es oft die erste Adresse, um ihre Werke zu präsentieren und sich mit anderen zu vernetzen. Wirtschaft K5 — Kunst als Wirtschaftsfaktor.",
       hu: "A(z) centre-culturel-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -497,8 +512,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Platz der Unabhängigkeit",
       hu: "Függetlenség tere",
       ro: "Piața Independenței",
-      en: "Place de l'Indépendance"
-    },
+      en: "Place de l'Indépendance",
+image: "/poi-images/place-independance-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Platz der Unabhängigkeit ist das Herzstück der nationalen Geschichte und das Symbol für die staatliche Souveränität des Tschad. Hier finden offizielle Paraden statt, die den Stolz und die Stabilität der Nation betonen. Die umliegenden Amtsgebäude unterstreichen die administrative Bedeutung des Platzes. Als historischer Kern der Hauptstadt ist er für jeden Besucher ein Muss, um die nationale Identität und die Zeremonien des Staates zu verstehen. Er verkörpert die Freiheit und das historische Erbe, das den Tschad heute definiert. Geschichte K7 — Souveränität.",
       hu: "A(z) place-independance-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -528,8 +544,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Hotel Ledger Plaza",
       hu: "Hotel Ledger Plaza",
       ro: "Hotel Ledger Plaza",
-      en: "Hotel Ledger Plaza"
-    },
+      en: "Hotel Ledger Plaza",
+image: "/poi-images/hotel-ledger-plaza-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Hotel Ledger Plaza in N'Djamena verkörpert den Aufbruch des Tschad in Richtung Moderne und Internationalität. Mit seinem Fünf-Sterne-Standard und seiner modernen Architektur dient es als wichtiger Ort für internationale Geschäftsbeziehungen und hochkarätige Konferenzen. Es ist eines der modernsten Bauwerke der Hauptstadt und ein wichtiges Wahrzeichen für Investoren und Besucher weltweit. Das Hotel zeigt, wie der Tschad seine globale Vernetzung vorantreibt und dabei höchste architektonische und servicetechnische Ansprüche realisiert. Politik K9 — Globalisierung und Infrastruktur.",
       hu: "A(z) hotel-ledger-plaza-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -559,8 +576,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Universität N'Djamena",
       hu: "N'Djamenai Egyetem",
       ro: "Universitatea din N'Djamena",
-      en: "University of N'Djamena"
-    },
+      en: "University of N'Djamena",
+image: "/poi-images/universite-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Universität N'Djamena ist der akademische Fixpunkt im Tschad und das Fundament für die wissenschaftliche und soziale Entwicklung des Landes. Als führende Bildungsinstitution ist sie der Ort, an dem die zukünftigen Experten und Führungskräfte des Landes ausgebildet werden. Die Campusgebäude prägen das Stadtbild und sind ein Zeichen für den Wert, den Bildung im Tschad genießt. Forschungsprojekte an der Universität tragen dazu bei, lokale Herausforderungen besser zu verstehen und wissenschaftliche Lösungen zu entwickeln. Geschichte K9 — Wissenschaft als Fundament der Zukunft.",
       hu: "A(z) universite-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -590,8 +608,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "ONAMA-Gebäude",
       hu: "ONAMA épület",
       ro: "Clădirea ONAMA",
-      en: "ONAMA Building"
-    },
+      en: "ONAMA Building",
+image: "/poi-images/onama-building-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das ONAMA-Gebäude ist das technische Herz der nationalen Kommunikation im Tschad. Als Sitz des nationalen Rundfunks und Fernsehens ist es für die Informationsverbreitung und die kulturelle Einheit des Staates unverzichtbar. Der markante Sendeturm ist weithin sichtbar und ein Symbol für den nationalen Informationsfluss. Das Sendezentrum unterstreicht den Stellenwert, den die Medien für den demokratischen Prozess und die Bildung der Bevölkerung haben. Es ist die Anlaufstelle für nationale Nachrichten und Unterhaltung. Politik K7 — Medien und Information.",
       hu: "A(z) onama-building-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -621,8 +640,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Nationalversammlung",
       hu: "Nemzetgyűlés",
       ro: "Adunarea Națională",
-      en: "National Assembly"
-    },
+      en: "National Assembly",
+image: "/poi-images/assemblee-nationale-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Nationalversammlung ist das Symbol für den demokratischen Prozess im Tschad und das Zentrum der Gesetzgebung. Das architektonisch anspruchsvolle Gebäude vereint repräsentative Funktionen mit einem modernen Verständnis staatlicher Ordnung. Hier werden die Weichen für die nationale Politik gestellt. Durch seine Bedeutung als Sitz des Parlaments ist es ein zentraler Pfeiler für die staatliche Stabilität. Das Gebäude verdeutlicht den Anspruch des Tschad auf eine geordnete Gesetzgebung und den Dialog zwischen den Vertretern des Volkes. Politik K9 — Demokratie und Institutionen.",
       hu: "A(z) assemblee-nationale-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -652,8 +672,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Palais Rose",
       hu: "Rózsaszín Palota",
       ro: "Palatul Roz",
-      en: "Palais Rose"
-    },
+      en: "Palais Rose",
+image: "/poi-images/palais-rose-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palais Rose ist der offizielle Amtssitz des Präsidenten des Tschad und das Machtzentrum des Landes. Seine architektonische Präsenz unterstreicht die staatliche Autorität und dient als Repräsentationsort für wichtige Staatsangelegenheiten. Das stark gesicherte Gelände beherbergt das operative Zentrum der Exekutive und unterstreicht die Rolle des Präsidenten als Staatsoberhaupt. Als eines der ikonischsten Gebäude ist der Palais Rose ein unverzichtbarer Ort für die tschadische Politik und die nationale Repräsentation. Politik K9 — Exekutive und Macht.",
       hu: "A(z) palais-rose-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -683,8 +704,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Platz der Nation",
       hu: "Nemzet tere",
       ro: "Piața Națiunii",
-      en: "Place de la Nation"
-    },
+      en: "Place de la Nation",
+image: "/poi-images/place-de-la-nation-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Platz der Nation ist eine gewaltige öffentliche Arena, die für die größten nationalen Zeremonien und Feierlichkeiten reserviert ist. Er bildet das Bindeglied zwischen staatlichen Institutionen und der Bevölkerung bei zentralen Ereignissen des Kalenders. Hier finden Militärparaden statt, die die nationale Stärke und Stabilität demonstrieren. Als weites Areal ist es ein Platz der Gemeinschaft, der den Stolz auf die nationale Identität in den Mittelpunkt stellt. Er ist ein zentrales Symbol für die Feier der nationalen Einheit im Tschad. Politik K8 — Nationale Feierlichkeiten.",
       hu: "A(z) place-de-la-nation-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -714,8 +736,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Gefallenendenkmal",
       hu: "Hősi emlékmű",
       ro: "Monumentul Eroilor",
-      en: "War Memorial"
-    },
+      en: "War Memorial",
+image: "/poi-images/monument-aux-morts-ndjamena-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Gefallenendenkmal in N'Djamena ist ein Ort des würdevollen Gedenkens an jene Soldaten, die ihr Leben für die Sicherheit und Freiheit des Landes gegeben haben. Die künstlerische Gestaltung schafft eine Atmosphäre der Besinnung inmitten des urbanen Lebens. Bei offiziellen Kranzniederlegungen wird hier an die Opfer erinnert, die für die nationale Integrität und Stabilität gebracht wurden. Es ist ein historisches Zeugnis für die Herausforderungen der tschadischen Geschichte und eine Mahnung für die Bedeutung des Friedens. Geschichte K9 — Gedenken und Geschichte.",
       hu: "A(z) monument-aux-morts-ndjamena-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -745,8 +768,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Große Moschee von Moundou",
       hu: "Moundoui nagymecset",
       ro: "Marea Moschee din Moundou",
-      en: "Grand Mosque of Moundou"
-    },
+      en: "Grand Mosque of Moundou",
+image: "/poi-images/grande-mosquee-moundou-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Große Moschee von Moundou ist der Mittelpunkt des religiösen Lebens der muslimischen Gemeinschaft in der zweitgrößten Stadt des Landes. Mit ihrer klaren architektonischen Sprache fügt sie sich harmonisch in das Stadtbild ein und bietet Raum für das tägliche Gebet und soziale Treffen. Sie ist ein Ort der spirituellen Ruhe, der die religiöse Vielfalt in Moundou unterstreicht. Als Ankerpunkt für Glauben und Gemeinschaft ist sie ein unverzichtbarer Teil der lokalen Identität und spiegelt die Bedeutung der Religion im sozialen Gefüge wider. Politik K7 — Religionsgemeinschaften.",
       hu: "A(z) grande-mosquee-moundou-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -776,8 +800,9 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Große Moschee von Sarh",
       hu: "Sarhi nagymecset",
       ro: "Marea Moschee din Sarh",
-      en: "Grand Mosque of Sarh"
-    },
+      en: "Grand Mosque of Sarh",
+image: "/poi-images/grande-mosquee-sarh-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Große Moschee von Sarh ist eine zentrale Einrichtung des religiösen Lebens im Süden des Tschad. Ihr schlichter Baustil steht für die Werte der Besinnung und der Gemeinschaft, die hier gelebt werden. Als Ort für das Freitagsgebet spielt sie eine bedeutende Rolle im sozialen Kalender der muslimischen Bewohner von Sarh. Sie ist nicht nur ein Gebäude, sondern eine historische Wurzel, die die religiöse Praxis mit der modernen städtischen Entwicklung verbindet. Sie ist ein Zeichen für Beständigkeit und gesellschaftlichen Dialog in Sarh. Politik K7 — Soziale Ankerpunkte.",
       hu: "A(z) grande-mosquee-sarh-landmarks-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."

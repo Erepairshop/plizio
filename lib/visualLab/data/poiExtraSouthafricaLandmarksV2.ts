@@ -11,8 +11,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "FNB-Stadion",
       hu: "FNB Stadion",
       ro: "Stadionul FNB",
-      en: "FNB Stadium"
-    },
+      en: "FNB Stadium",
+image: "/poi-images/fnb-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Stadion Afrikas und Austragungsort des Finales der Fußball-Weltmeisterschaft 2010.",
       hu: "Afrika legnagyobb stadionja, a 2010-es labdarúgó-világbajnokság döntőjének helyszíne.",
@@ -46,8 +47,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Ponte City",
       hu: "Ponte City",
       ro: "Ponte City",
-      en: "Ponte City"
-    },
+      en: "Ponte City",
+image: "/poi-images/ponte-city-landmarks-v2.webp"
+},
     description: {
       de: "Ein zylindrischer Wolkenkratzer in Johannesburg und das höchste Wohngebäude Afrikas.",
       hu: "Hengeres felhőkarcoló Johannesburgban, amely Afrika legmagasabb lakóépülete.",
@@ -81,8 +83,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Moses-Mabhida-Stadion",
       hu: "Moses Mabhida Stadion",
       ro: "Stadionul Moses Mabhida",
-      en: "Moses Mabhida Stadium"
-    },
+      en: "Moses Mabhida Stadium",
+image: "/poi-images/moses-mabhida-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein Mehrzweckstadion in Durban, bekannt für seinen markanten Bogen, der über das Spielfeld spannt.",
       hu: "Többfunkciós stadion Durbanben, amely a játéktér felett átívelő, jellegzetes ívéről híres.",
@@ -116,8 +119,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Kapstadt-Stadion",
       hu: "Fokváros Stadion",
       ro: "Stadionul Cape Town",
-      en: "Cape Town Stadium"
-    },
+      en: "Cape Town Stadium",
+image: "/poi-images/cape-town-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein ikonisches Sportstadion in Green Point mit atemberaubendem Blick auf den Tafelberg und das Meer.",
       hu: "Ikonikus sportstadion Green Pointban, lenyűgöző kilátással az óceánra és a Tábla-hegyre.",
@@ -151,8 +155,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Carlton Centre",
       hu: "Carlton Centre",
       ro: "Carlton Centre",
-      en: "Carlton Centre"
-    },
+      en: "Carlton Centre",
+image: "/poi-images/carlton-centre-landmarks-v2.webp"
+},
     description: {
       de: "Ein Wolkenkratzer und Einkaufszentrum, das jahrzehntelang das höchste Gebäude in Afrika war.",
       hu: "Felhőkarcoló és bevásárlóközpont, amely évtizedeken át Afrika legmagasabb épülete volt.",
@@ -186,8 +191,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Nelson-Mandela-Brücke",
       hu: "Nelson Mandela híd",
       ro: "Podul Nelson Mandela",
-      en: "Nelson Mandela Bridge"
-    },
+      en: "Nelson Mandela Bridge",
+image: "/poi-images/nelson-mandela-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Schrägseilbrücke, die das Geschäftsviertel von Johannesburg mit dem Stadtteil Braamfontein verbindet.",
       hu: "Jellegzetes ferdekábeles híd, amely Johannesburg üzleti negyedét köti össze Braamfonteinnel.",
@@ -221,8 +227,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Zeitz MOCAA",
       hu: "Zeitz MOCAA",
       ro: "Zeitz MOCAA",
-      en: "Zeitz MOCAA"
-    },
+      en: "Zeitz MOCAA",
+image: "/poi-images/zeitz-mocaa-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Museum für zeitgenössische afrikanische Kunst der Welt, untergebracht in einem umgebauten Getreidesilo.",
       hu: "A világ legnagyobb kortárs afrikai művészeti múzeuma, amelyet egy régi gabonasilóban alakítottak ki.",
@@ -256,8 +263,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Rhodes Memorial",
       hu: "Rhodes-emlékmű",
       ro: "Memorialul Rhodes",
-      en: "Rhodes Memorial"
-    },
+      en: "Rhodes Memorial",
+image: "/poi-images/rhodes-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal für Cecil John Rhodes am Hang des Devil's Peak in Kapstadt.",
       hu: "Cecil John Rhodes emlékműve, amely a Devil's Peak hegyoldalán található Fokvárosban.",
@@ -291,8 +299,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Hillbrow Tower",
       hu: "Hillbrow-torony",
       ro: "Turnul Hillbrow",
-      en: "Hillbrow Tower"
-    },
+      en: "Hillbrow Tower",
+image: "/poi-images/hillbrow-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein hoher Telekommunikationsturm, der die Skyline von Johannesburg dominiert.",
       hu: "Magas telekommunikációs torony, amely meghatározza Johannesburg városképét.",
@@ -326,8 +335,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "The Leonardo",
       hu: "The Leonardo",
       ro: "The Leonardo",
-      en: "The Leonardo"
-    },
+      en: "The Leonardo",
+image: "/poi-images/the-leonardo-landmarks-v2.webp"
+},
     description: {
       de: "Ein luxuriöser Mehrzweck-Wolkenkratzer in Sandton, Johannesburg.",
       hu: "Luxus, többfunkciós felhőkarcoló Sandtonban, Johannesburg üzleti negyedében.",
@@ -361,8 +371,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Bloukrans-Brücke",
       hu: "Bloukrans híd",
       ro: "Podul Bloukrans",
-      en: "Bloukrans Bridge"
-    },
+      en: "Bloukrans Bridge",
+image: "/poi-images/bloukrans-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine Bogenbrücke an der Garden Route, weltberühmt für kommerzielles Bungee-Jumping.",
       hu: "Ívhíd a Garden Route mentén, amely kereskedelmi bungee jumping helyszínként világhírű.",
@@ -396,8 +407,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Afrikaans-Sprachdenkmal",
       hu: "Afrikaans nyelvi emlékmű",
       ro: "Monumentul Limbii Afrikaans",
-      en: "Afrikaans Language Monument"
-    },
+      en: "Afrikaans Language Monument",
+image: "/poi-images/taalmonument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Paarl, das der Entstehung und Entwicklung der Sprache Afrikaans gewidmet ist.",
       hu: "A Paarlban található emlékmű az afrikaans nyelv kialakulásának és fejlődésének állít emléket.",
@@ -431,8 +443,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Juma-Masjid-Moschee",
       hu: "Juma Masjid mecset",
       ro: "Moscheea Juma Masjid",
-      en: "Juma Masjid Mosque"
-    },
+      en: "Juma Masjid Mosque",
+image: "/poi-images/juma-masjid-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine der größten Moscheen auf der südlichen Hemisphäre, gelegen im Zentrum von Durban.",
       hu: "A déli félteke egyik legnagyobb mecsetje, amely Durban központjában található.",
@@ -466,8 +479,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Nizamiye-Moschee",
       hu: "Nizamiye mecset",
       ro: "Moscheea Nizamiye",
-      en: "Nizamiye Mosque"
-    },
+      en: "Nizamiye Mosque",
+image: "/poi-images/nizamiye-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die größte Moschee auf der südlichen Hemisphäre, mit klassischer osmanischer Architektur in Midrand.",
       hu: "A déli félteke legnagyobb mecsetje klasszikus oszmán építészeti stílusban, Midrandban.",
@@ -502,8 +516,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Rathaus von Pretoria",
       hu: "Pretoria városháza",
       ro: "Primăria Pretoria",
-      en: "Pretoria City Hall"
-    },
+      en: "Pretoria City Hall",
+image: "/poi-images/pretoria-city-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein monumentales historisches Gebäude in Pretoria mit einer großen Uhr und 32 Glocken.",
       hu: "Monumentális történelmi épület Pretoriában, nagy órával és 32 haranggal.",
@@ -537,8 +552,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Rathaus von Kapstadt",
       hu: "Fokváros városháza",
       ro: "Primăria Cape Town",
-      en: "Cape Town City Hall"
-    },
+      en: "Cape Town City Hall",
+image: "/poi-images/cape-town-city-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein großes edwardianisches Gebäude im Zentrum von Kapstadt am Grand Parade.",
       hu: "Hatalmas, Edward-kori épület Fokváros központjában, a Grand Parade téren.",
@@ -573,8 +589,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Nelson-Mandela-Bay-Stadion",
       hu: "Nelson Mandela Bay Stadion",
       ro: "Stadionul Nelson Mandela Bay",
-      en: "Nelson Mandela Bay Stadium"
-    },
+      en: "Nelson Mandela Bay Stadium",
+image: "/poi-images/nelson-mandela-bay-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein Mehrzweckstadion in Gqeberha (Port Elizabeth) mit einem markanten Dachdesign.",
       hu: "Többfunkciós stadion Gqeberhában (Port Elizabeth) egyedi, szirmokhoz hasonló tetővel.",
@@ -608,8 +625,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Sentech Tower",
       hu: "Sentech-torony",
       ro: "Turnul Sentech",
-      en: "Sentech Tower"
-    },
+      en: "Sentech Tower",
+image: "/poi-images/sentech-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein 237 Meter hoher Fernseh- und Funkturm in Johannesburg.",
       hu: "237 méter magas televíziós- és rádiótorony Johannesburgban.",
@@ -643,8 +661,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "11 Diagonal Street",
       hu: "11 Diagonal Street",
       ro: "11 Diagonal Street",
-      en: "11 Diagonal Street"
-    },
+      en: "11 Diagonal Street",
+image: "/poi-images/11-diagonal-street-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Wolkenkratzer in Johannesburg, der wie ein Diamant geformt ist.",
       hu: "Jellegzetes, gyémánt formájú felhőkarcoló Johannesburgban.",
@@ -678,8 +697,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Alice Lane Towers",
       hu: "Alice Lane Towers",
       ro: "Turnurile Alice Lane",
-      en: "Alice Lane Towers"
-    },
+      en: "Alice Lane Towers",
+image: "/poi-images/alice-lane-towers-landmarks-v2.webp"
+},
     description: {
       de: "Moderne, geschwungene Zwillingstürme, die zu einer Ikone des Geschäftsviertels von Sandton geworden sind.",
       hu: "Modern, ívelt ikertornyok, amelyek a sandtoni üzleti negyed ikonjává váltak.",
@@ -713,8 +733,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "88 on Field",
       hu: "88 on Field",
       ro: "88 on Field",
-      en: "88 on Field"
-    },
+      en: "88 on Field",
+image: "/poi-images/88-on-field-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutender Wolkenkratzer in Durban, der das Zentrum der Stadt dominiert.",
       hu: "Jelentős felhőkarcoló Durbanben, amely a városközpont meghatározó épülete.",
@@ -748,8 +769,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Leuchtturm von Green Point",
       hu: "Green Point világítótorony",
       ro: "Farul Green Point",
-      en: "Green Point Lighthouse"
-    },
+      en: "Green Point Lighthouse",
+image: "/poi-images/green-point-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Der älteste funktionierende Leuchtturm in Südafrika, erkennbar an seinen markanten roten und weißen Streifen.",
       hu: "Dél-Afrika legrégebbi működő világítótornya, feltűnő piros-fehér csíkos festéséről ismert.",
@@ -783,8 +805,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Leuchtturm von Cape Columbine",
       hu: "Cape Columbine világítótorony",
       ro: "Farul Cape Columbine",
-      en: "Cape Columbine Lighthouse"
-    },
+      en: "Cape Columbine Lighthouse",
+image: "/poi-images/cape-columbine-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Leuchtturm in Paternoster, der oft als einer der letzten bemannten Leuchttürme Südafrikas bezeichnet wird.",
       hu: "Történelmi világítótorony Paternoster közelében, az ország egyik utolsó, ember által irányított világítótornya.",
@@ -818,8 +841,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Rathaus von Durban",
       hu: "Durban városháza",
       ro: "Primăria Durban",
-      en: "Durban City Hall"
-    },
+      en: "Durban City Hall",
+image: "/poi-images/durban-city-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein prächtiges Gebäude im Edwardianischen Barockstil, das dem Rathaus in Belfast, Nordirland, sehr ähnlich ist.",
       hu: "Pompás, Edward-kori barokk stílusú épület, amely az északír Belfast városházájának szinte pontos mása.",
@@ -853,8 +877,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "The Pearls of Umhlanga",
       hu: "The Pearls of Umhlanga",
       ro: "The Pearls of Umhlanga",
-      en: "The Pearls of Umhlanga"
-    },
+      en: "The Pearls of Umhlanga",
+image: "/poi-images/the-pearls-of-umhlanga-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter, luxuriöser Apartmentkomplex in Umhlanga an der Küste von KwaZulu-Natal.",
       hu: "Jellegzetes, luxus apartmankomplexum Umhlanga partjainál, KwaZulu-Natal tartományban.",
@@ -888,8 +913,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Leuchtturm von Cape Point",
       hu: "Cape Point világítótorony",
       ro: "Farul Cape Point",
-      en: "Cape Point Lighthouse"
-    },
+      en: "Cape Point Lighthouse",
+image: "/poi-images/cape-point-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein Leuchtturm am Cape Point, der Schiffe um die gefährliche Südwestspitze Afrikas navigiert.",
       hu: "Világítótorony a Cape Pointon, amely Afrika veszélyes délnyugati csücskén navigálja a hajókat.",
@@ -923,8 +949,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "St. George's Cathedral",
       hu: "Szent György-székesegyház",
       ro: "Catedrala Sfântul Gheorghe",
-      en: "St. George's Cathedral"
-    },
+      en: "St. George's Cathedral",
+image: "/poi-images/st-georges-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die älteste anglikanische Kathedrale im südlichen Afrika, gelegen in Kapstadt.",
       hu: "Dél-Afrika legrégebbi anglikán székesegyháza, amely Fokvárosban található.",
@@ -958,8 +985,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Eulenhaus",
       hu: "Bagolyház",
       ro: "Casa Bufnițelor",
-      en: "Owl House"
-    },
+      en: "Owl House",
+image: "/poi-images/owl-house-landmarks-v2.webp"
+},
     description: {
       de: "Ein faszinierendes Haus und Skulpturengarten, geschaffen von der Außenseiter-Künstlerin Helen Martins in Nieu-Bethesda.",
       hu: "Lenyűgöző ház és szoborpark, amelyet az outsider művész, Helen Martins alkotott Nieu-Bethesdában.",
@@ -993,8 +1021,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Paul-Kruger-Statue",
       hu: "Paul Kruger szobra",
       ro: "Statuia lui Paul Kruger",
-      en: "Paul Kruger Statue"
-    },
+      en: "Paul Kruger Statue",
+image: "/poi-images/paul-kruger-statue-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Bronzestatue von Paul Kruger, einem ehemaligen Präsidenten der Südafrikanischen Republik, auf dem Church Square in Pretoria.",
       hu: "Paul Krugernek, a Dél-afrikai Köztársaság egykori elnökének jellegzetes bronzszobra a pretoriai Church Square-en.",
@@ -1028,8 +1057,9 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       de: "Rathaus von Port Elizabeth",
       hu: "Port Elizabeth városháza",
       ro: "Primăria Port Elizabeth",
-      en: "Port Elizabeth City Hall"
-    },
+      en: "Port Elizabeth City Hall",
+image: "/poi-images/port-elizabeth-city-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Regierungsgebäude mit einem großen Uhrenturm im Zentrum von Gqeberha (Port Elizabeth).",
       hu: "Történelmi kormányzati épület egy nagy óratoronnyal Gqeberha (Port Elizabeth) központjában.",

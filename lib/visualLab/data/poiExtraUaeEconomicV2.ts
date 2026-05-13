@@ -6,7 +6,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-DU",
     coords: [55.021, 24.992],
-    name: { de: "Hafen von Jebel Ali", hu: "Dzsebel Ali Kikötő", ro: "Portul Jebel Ali", en: "Jebel Ali Port" },
+    name: { de: "Hafen von Jebel Ali", hu: "Dzsebel Ali Kikötő", ro: "Portul Jebel Ali", en: "Jebel Ali Port",
+image: "/poi-images/jebel-ali-port-economic-v2.webp"
+},
     description: { de: "Der Hafen von Jebel Ali in Dubai ist der größte künstliche Hafen der Welt und der wichtigste Hafen im Nahen Osten.", hu: "A dubaji Dzsebel Ali Kikötő a világ legnagyobb mesterséges kikötője és a Közel-Kelet legfontosabb tengeri csomópontja.", ro: "Portul Jebel Ali din Dubai este cel mai mare port artificial din lume și cel mai important hub maritim din Orientul Mijlociu.", en: "Jebel Ali Port in Dubai is the world's largest man-made harbor and the most significant maritime hub in the Middle East." },
     facts: {
       de: ["Wurde 1979 offiziell eröffnet.", "Verfügt über mehr als 65 Liegeplätze."],
@@ -19,7 +21,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-AZ",
     coords: [54.646, 24.846],
-    name: { de: "Khalifa-Hafen", hu: "Halífa Kikötő", ro: "Portul Khalifa", en: "Khalifa Port" },
+    name: { de: "Khalifa-Hafen", hu: "Halífa Kikötő", ro: "Portul Khalifa", en: "Khalifa Port",
+image: "/poi-images/khalifa-port-economic-v2.webp"
+},
     description: { de: "Der Khalifa-Hafen ist das wichtigste maritime Tor in Abu Dhabi und verfügt über das erste halbautomatische Containerterminal der Region.", hu: "A Halífa Kikötő Abu-Dzabi fő tengeri kapuja, amely a régió első félautomata konténertermináljával rendelkezik.", ro: "Portul Khalifa este principala poartă maritimă din Abu Dhabi, prezentând primul terminal de containere semi-automatizat din regiune.", en: "Khalifa Port is the primary maritime gateway in Abu Dhabi, featuring the region's first semi-automated container terminal." },
     facts: {
       de: ["Der Betrieb wurde 2012 aufgenommen.", "Ist direkt mit der Kizad-Industriezone verbunden."],
@@ -32,7 +36,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "energy",
     parent: "AE-AZ",
     coords: [52.234, 23.968],
-    name: { de: "Kernkraftwerk Barakah", hu: "Barakah Atomerőmű", ro: "Centrala Nucleară Barakah", en: "Barakah Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Barakah", hu: "Barakah Atomerőmű", ro: "Centrala Nucleară Barakah", en: "Barakah Nuclear Power Plant",
+image: "/poi-images/barakah-nuclear-power-plant-economic-v2.webp"
+},
     description: { de: "Das Kernkraftwerk Barakah in Abu Dhabi ist das erste kommerzielle Kernkraftwerk in der arabischen Welt.", hu: "Az Abu-Dzabiban található Barakah Atomerőmű az arab világ első kereskedelmi célú nukleáris létesítménye.", ro: "Centrala Nucleară Barakah din Abu Dhabi este prima centrală nucleară comercială din lumea arabă.", en: "The Barakah Nuclear Power Plant in Abu Dhabi is the first commercial nuclear power station in the Arab world." },
     facts: {
       de: ["Besteht aus vier südkoreanischen APR-1400-Reaktoren.", "Liefert rund 25 % des Strombedarfs der VAE."],
@@ -45,7 +51,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "energy",
     parent: "AE-DU",
     coords: [55.353, 24.757],
-    name: { de: "Mohammed bin Rashid Al Maktoum Solarpark", hu: "Mohammed bin Rashid Al Maktoum Napelempark", ro: "Parcul Solar Mohammed bin Rashid Al Maktoum", en: "Mohammed bin Rashid Al Maktoum Solar Park" },
+    name: { de: "Mohammed bin Rashid Al Maktoum Solarpark", hu: "Mohammed bin Rashid Al Maktoum Napelempark", ro: "Parcul Solar Mohammed bin Rashid Al Maktoum", en: "Mohammed bin Rashid Al Maktoum Solar Park",
+image: "/poi-images/mbr-solar-park-economic-v2.webp"
+},
     description: { de: "Dieser riesige Solarpark in der Wüste von Dubai ist eines der größten Erneuerbare-Energien-Projekte der Welt an einem einzigen Standort.", hu: "Ez a hatalmas napelempark a dubaji sivatagban a világ egyik legnagyobb, egy helyen található megújuló energia projektje.", ro: "Acest imens parc solar din deșertul Dubai este unul dintre cele mai mari proiecte de energie regenerabilă dintr-un singur amplasament din lume.", en: "This massive solar park in the Dubai desert is one of the world's largest single-site renewable energy projects." },
     facts: {
       de: ["Soll bis 2030 eine Kapazität von 5.000 MW erreichen.", "Verfügt über den höchsten Solarturm der Welt."],
@@ -58,7 +66,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.050, 24.965],
-    name: { de: "Freihandelszone Jebel Ali", hu: "Dzsebel Ali Szabadkereskedelmi Övezet", ro: "Zona Liberă Jebel Ali", en: "Jebel Ali Free Zone (JAFZA)" },
+    name: { de: "Freihandelszone Jebel Ali", hu: "Dzsebel Ali Szabadkereskedelmi Övezet", ro: "Zona Liberă Jebel Ali", en: "Jebel Ali Free Zone (JAFZA)",
+image: "/poi-images/jafza-economic-v2.webp"
+},
     description: { de: "JAFZA ist eine der am schnellsten wachsenden Freihandelszonen der Welt und beherbergt Tausende von internationalen Unternehmen in Dubai.", hu: "A JAFZA a világ egyik leggyorsabban növekvő szabadkereskedelmi övezete, amely több ezer nemzetközi vállalatnak ad otthont Dubajban.", ro: "JAFZA este una dintre zonele libere cu cea mai rapidă creștere din lume, găzduind mii de companii internaționale în Dubai.", en: "JAFZA is one of the world's fastest-growing free trade zones, housing thousands of international companies in Dubai." },
     facts: {
       de: ["Wurde 1985 gegründet.", "Trägt massiv zum nicht-ölbasierten BIP von Dubai bei."],
@@ -71,7 +81,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-AZ",
     coords: [54.391, 24.504],
-    name: { de: "Abu Dhabi Global Market", hu: "Abu Dhabi Global Market", ro: "Abu Dhabi Global Market", en: "Abu Dhabi Global Market (ADGM)" },
+    name: { de: "Abu Dhabi Global Market", hu: "Abu Dhabi Global Market", ro: "Abu Dhabi Global Market", en: "Abu Dhabi Global Market (ADGM)",
+image: "/poi-images/adgm-economic-v2.webp"
+},
     description: { de: "Das ADGM auf der Al Maryah Island ist ein internationales Finanzzentrum, das als wichtiger Wirtschafts- und Handelsknotenpunkt fungiert.", hu: "Az Al Maryah-szigeten található ADGM egy nemzetközi pénzügyi központ, amely kulcsfontosságú gazdasági és kereskedelmi csomópontként működik.", ro: "ADGM de pe Insula Al Maryah este un centru financiar internațional care funcționează ca un important hub economic și comercial.", en: "The ADGM on Al Maryah Island is an international financial centre serving as a key economic and trading hub." },
     facts: {
       de: ["Es wendet englisches Common Law an.", "Die Insel umfasst auch luxuriöse Geschäftskomplexe."],
@@ -84,7 +96,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-DU",
     coords: [55.274, 25.264],
-    name: { de: "Hafen Rashid", hu: "Rásid Kikötő", ro: "Portul Rashid", en: "Port Rashid" },
+    name: { de: "Hafen Rashid", hu: "Rásid Kikötő", ro: "Portul Rashid", en: "Port Rashid",
+image: "/poi-images/port-rashid-economic-v2.webp"
+},
     description: { de: "Der Hafen Rashid war Dubais erster moderner Handelshafen und wurde in den letzten Jahren zunehmend in ein wichtiges Kreuzfahrtterminal umgewandelt.", hu: "A Rásid Kikötő Dubaj első modern kereskedelmi kikötője volt, amelyet az elmúlt években egyre inkább jelentős tengerjáró terminállá alakítottak át.", ro: "Portul Rashid a fost primul port comercial modern din Dubai și a fost transformat recent într-un important terminal pentru nave de croazieră.", en: "Port Rashid was Dubai's first modern commercial port and has increasingly been transformed into a major cruise terminal in recent years." },
     facts: {
       de: ["Eröffnete 1972 seinen Betrieb.", "Benannt nach dem ehemaligen Herrscher Sheikh Rashid bin Saeed Al Maktoum."],
@@ -97,7 +111,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-FU",
     coords: [56.353, 25.176],
-    name: { de: "Hafen von Fudschaira", hu: "Fudzsejra Kikötője", ro: "Portul Fujairah", en: "Port of Fujairah" },
+    name: { de: "Hafen von Fudschaira", hu: "Fudzsejra Kikötője", ro: "Portul Fujairah", en: "Port of Fujairah",
+image: "/poi-images/port-of-fujairah-economic-v2.webp"
+},
     description: { de: "Dieser Hafen am Golf von Oman ist der einzige Mehrzweckhafen an der Ostküste der VAE und ein globales Zentrum für die Betankung von Schiffen.", hu: "Ez az Ománi-öböl partján fekvő kikötő az EAE keleti partjának egyetlen többcélú kikötője, és a hajók üzemanyag-ellátásának globális központja.", ro: "Acest port situat pe Golful Oman este singurul port multifuncțional de pe coasta de est a EAU și un centru global de alimentare a navelor.", en: "Located on the Gulf of Oman, this is the only multi-purpose port on the Eastern seaboard of the UAE and a global bunkering hub." },
     facts: {
       de: ["Einer der größten Bunkerhäfen der Welt.", "Ist durch eine Ölpipeline mit Abu Dhabi verbunden."],
@@ -111,7 +127,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "industry",
     parent: "AE-AZ",
     coords: [54.654, 24.811],
-    name: { de: "Khalifa-Industriezone Abu Dhabi", hu: "Halífa Ipari Övezet Abu-Dzabi", ro: "Zona Industrială Khalifa Abu Dhabi", en: "Khalifa Industrial Zone Abu Dhabi (KIZAD)" },
+    name: { de: "Khalifa-Industriezone Abu Dhabi", hu: "Halífa Ipari Övezet Abu-Dzabi", ro: "Zona Industrială Khalifa Abu Dhabi", en: "Khalifa Industrial Zone Abu Dhabi (KIZAD)",
+image: "/poi-images/kizad-economic-v2.webp"
+},
     description: { de: "KIZAD ist ein riesiger Industrie- und Logistikkomplex in Abu Dhabi, der darauf ausgelegt ist, ausländische Direktinvestitionen in die Region zu lenken.", hu: "A KIZAD egy hatalmas ipari és logisztikai komplexum Abu-Dzabiban, amelynek célja a közvetlen külföldi tőkebefektetések vonzása a régióba.", ro: "KIZAD este un vast complex industrial și logistic în Abu Dhabi, conceput pentru a atrage investiții străine directe în regiune.", en: "KIZAD is a massive industrial and logistics hub in Abu Dhabi designed to attract foreign direct investments to the region." },
     facts: {
       de: ["Ist ein zentraler Teil der Wirtschaftsvision 2030 von Abu Dhabi.", "Bietet hervorragende Anbindungen an See-, Luft- und Straßennetz."],
@@ -125,7 +143,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "industry",
     parent: "AE-AZ",
     coords: [52.730, 24.137],
-    name: { de: "Raffinerie Ruwais", hu: "Ruwais Finomító", ro: "Rafinăria Ruwais", en: "Ruwais Refinery" },
+    name: { de: "Raffinerie Ruwais", hu: "Ruwais Finomító", ro: "Rafinăria Ruwais", en: "Ruwais Refinery",
+image: "/poi-images/ruwais-refinery-economic-v2.webp"
+},
     description: { de: "Die Raffinerie Ruwais in der Region Al Dhafra ist eine der größten und modernsten Erdölraffinerien der Welt und ein Eckpfeiler der ADNOC.", hu: "Az Al Dhafra régióban található Ruwais Finomító a világ egyik legnagyobb és legkorszerűbb kőolajfinomítója, az ADNOC egyik sarokköve.", ro: "Rafinăria Ruwais din regiunea Al Dhafra este una dintre cele mai mari și mai moderne rafinării de petrol din lume, piatră de temelie a ADNOC.", en: "The Ruwais Refinery in the Al Dhafra region is one of the world's largest and most modern oil refineries, acting as a cornerstone for ADNOC." },
     facts: {
       de: ["Sie verarbeitet Rohöl zu hochwertigen Erdölprodukten.", "Befindet sich etwa 240 Kilometer westlich von Abu Dhabi-Stadt."],
@@ -139,7 +159,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "industry",
     parent: "AE-AZ",
     coords: [54.717, 24.848],
-    name: { de: "Emirates Global Aluminium Al Taweelah", hu: "Emirates Global Aluminium Al Taweelah", ro: "Emirates Global Aluminium Al Taweelah", en: "Emirates Global Aluminium Al Taweelah" },
+    name: { de: "Emirates Global Aluminium Al Taweelah", hu: "Emirates Global Aluminium Al Taweelah", ro: "Emirates Global Aluminium Al Taweelah", en: "Emirates Global Aluminium Al Taweelah",
+image: "/poi-images/ega-al-taweelah-economic-v2.webp"
+},
     description: { de: "Die EGA-Schmelze in Al Taweelah ist eine der größten Aluminiumproduktionsstätten der Welt und ein Symbol für die industrielle Diversifizierung der VAE.", hu: "Az EGA Al Taweelah kohója a világ egyik legnagyobb alumíniumgyártó létesítménye, amely az EAE ipari diverzifikációjának egyik szimbóluma.", ro: "Topitoria EGA din Al Taweelah este una dintre cele mai mari fabrici de producție a aluminiului din lume, simbolizând diversificarea industrială a EAU.", en: "The EGA smelter in Al Taweelah is one of the world's largest aluminium production facilities, symbolizing the UAE's industrial diversification." },
     facts: {
       de: ["Produziert hochreines Aluminium für den Export.", "Die Anlage verfügt über ein eigenes Kraftwerk."],
@@ -153,7 +175,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-SH",
     coords: [55.516, 25.321],
-    name: { de: "Internationale Freihandelszone des Flughafens Sardscha", hu: "Sardzsai Repülőtér Nemzetközi Szabadkereskedelmi Övezete", ro: "Zona Liberă Internațională a Aeroportului Sharjah", en: "Sharjah Airport International Free Zone (SAIF Zone)" },
+    name: { de: "Internationale Freihandelszone des Flughafens Sardscha", hu: "Sardzsai Repülőtér Nemzetközi Szabadkereskedelmi Övezete", ro: "Zona Liberă Internațională a Aeroportului Sharjah", en: "Sharjah Airport International Free Zone (SAIF Zone)",
+image: "/poi-images/saif-zone-economic-v2.webp"
+},
     description: { de: "Die SAIF Zone ist ein dynamisches Geschäftszentrum, das Unternehmen erstklassige Logistikdienstleistungen mit direkter Anbindung an den Flughafen bietet.", hu: "A SAIF Zone egy dinamikus üzleti központ, amely első osztályú logisztikai szolgáltatásokat nyújt a vállalatoknak, közvetlen repülőtéri összeköttetéssel.", ro: "SAIF Zone este un centru de afaceri dinamic care oferă companiilor servicii logistice de top, având conexiune directă cu aeroportul.", en: "The SAIF Zone is a dynamic business hub providing companies with premier logistics services and direct access to the airport." },
     facts: {
       de: ["Wurde 1995 gegründet.", "Beherbergt Unternehmen aus über 160 Ländern."],
@@ -167,7 +191,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-AZ",
     coords: [54.381, 24.520],
-    name: { de: "Hafen Zayed", hu: "Zájed Kikötő", ro: "Portul Zayed", en: "Zayed Port" },
+    name: { de: "Hafen Zayed", hu: "Zájed Kikötő", ro: "Portul Zayed", en: "Zayed Port",
+image: "/poi-images/zayed-port-economic-v2.webp"
+},
     description: { de: "Der Hafen Zayed war jahrzehntelang der Haupthandelshafen von Abu Dhabi, bevor der Containerverkehr zum Khalifa-Hafen verlagert wurde.", hu: "A Zájed Kikötő évtizedekig Abu-Dzabi fő kereskedelmi kikötője volt, mielőtt a konténerforgalmat áthelyezték volna a Halífa Kikötőbe.", ro: "Portul Zayed a fost portul comercial principal al Abu Dhabi timp de decenii, înainte ca traficul de containere să fie mutat la Portul Khalifa.", en: "Zayed Port was the main commercial port of Abu Dhabi for decades before container traffic was shifted to Khalifa Port." },
     facts: {
       de: ["Benannt nach Sheikh Zayed bin Sultan Al Nahyan.", "Konzentriert sich heute auf Kreuzfahrtschiffe und Stückgut."],
@@ -181,7 +207,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.163, 25.097],
-    name: { de: "Dubai Internet City", hu: "Dubai Internet City", ro: "Dubai Internet City", en: "Dubai Internet City" },
+    name: { de: "Dubai Internet City", hu: "Dubai Internet City", ro: "Dubai Internet City", en: "Dubai Internet City",
+image: "/poi-images/dubai-internet-city-economic-v2.webp"
+},
     description: { de: "Dubai Internet City ist der größte Technologiepark für Informations- und Kommunikationstechnologie in der Region des Nahen Ostens und Nordafrikas.", hu: "A Dubai Internet City a Közel-Kelet és Észak-Afrika régió legnagyobb információs és kommunikációs technológiai (IKT) parkja.", ro: "Dubai Internet City este cel mai mare parc tehnologic pentru tehnologia informației și comunicațiilor din regiunea Orientului Mijlociu și a Africii de Nord.", en: "Dubai Internet City is the largest information and communications technology hub in the Middle East and North Africa region." },
     facts: {
       de: ["Wurde im Jahr 1999 angekündigt.", "Beherbergt regionale Niederlassungen von globalen Tech-Giganten."],
@@ -194,7 +222,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-SH",
     coords: [55.378, 25.370],
-    name: { de: "Hafen Khalid", hu: "Hálid Kikötő", ro: "Portul Khalid", en: "Port Khalid" },
+    name: { de: "Hafen Khalid", hu: "Hálid Kikötő", ro: "Portul Khalid", en: "Port Khalid",
+image: "/poi-images/port-khalid-economic-v2.webp"
+},
     description: { de: "Der Hafen Khalid im Herzen von Sardscha ist einer der wichtigsten Häfen der VAE und verfügt über exzellente Einrichtungen für Ro-Ro- und Stückgutschiffe.", hu: "A Sardzsa szívében található Hálid Kikötő az EAE egyik legfontosabb kikötője, amely kiváló létesítményekkel rendelkezik a ro-ro és darabáru-hajók számára.", ro: "Portul Khalid, situat în inima orașului Sharjah, este unul dintre porturile principale ale EAU, cu facilități excelente pentru navele Ro-Ro și de mărfuri generale.", en: "Port Khalid in the heart of Sharjah is one of the UAE's principal ports, featuring excellent facilities for ro-ro and general cargo vessels." },
     facts: {
       de: ["Der erste Tiefwasserhafen in Sardscha.", "Verfügt über ein dediziertes Containerterminal."],
@@ -207,7 +237,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.143, 25.074],
-    name: { de: "Dubai Multi Commodities Centre", hu: "Dubaji Multimodális Árutőzsdei Központ", ro: "Centrul Multi-Mărfuri Dubai", en: "Dubai Multi Commodities Centre (DMCC)" },
+    name: { de: "Dubai Multi Commodities Centre", hu: "Dubaji Multimodális Árutőzsdei Központ", ro: "Centrul Multi-Mărfuri Dubai", en: "Dubai Multi Commodities Centre (DMCC)",
+image: "/poi-images/dmcc-economic-v2.webp"
+},
     description: { de: "Das DMCC ist eine hochmoderne Freihandelszone im Stadtteil Jumeirah Lakes Towers, die als Zentrum für den globalen Rohstoffhandel dient.", hu: "A DMCC egy ultramodern szabadkereskedelmi övezet a Jumeirah Lakes Towers negyedben, amely a globális árukereskedelem központjaként szolgál.", ro: "DMCC este o zonă liberă ultramodernă în districtul Jumeirah Lakes Towers, servind drept centru pentru comerțul global cu mărfuri.", en: "DMCC is an ultra-modern free zone located in the Jumeirah Lakes Towers district, serving as a hub for global commodities trade." },
     facts: {
       de: ["Fördert den Handel mit Gold, Diamanten und Tee.", "Wurde mehrfach als beste Freihandelszone der Welt ausgezeichnet."],
@@ -220,7 +252,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "mine",
     parent: "AE-RK",
     coords: [56.036, 25.928],
-    name: { de: "Steinbruch Stevin Rock", hu: "Stevin Rock Kőbánya", ro: "Cariera Stevin Rock", en: "Stevin Rock Quarry" },
+    name: { de: "Steinbruch Stevin Rock", hu: "Stevin Rock Kőbánya", ro: "Cariera Stevin Rock", en: "Stevin Rock Quarry",
+image: "/poi-images/stevin-rock-quarry-economic-v2.webp"
+},
     description: { de: "Der Stevin Rock Steinbruch in Ras Al Khaimah gehört zu den größten Kalksteinbrüchen der Welt und liefert Baumaterialien für Megaprojekte in der gesamten Golfregion.", hu: "A Rász el-Haima-i Stevin Rock kőbánya a világ egyik legnagyobb mészkőbányája, amely építőanyagokkal látja el az öböl menti régió megaprojektjeit.", ro: "Cariera Stevin Rock din Ras Al Khaimah este una dintre cele mai mari cariere de calcar din lume, furnizând materiale de construcție pentru megaproiecte din întreaga regiune a Golfului.", en: "The Stevin Rock quarry in Ras Al Khaimah is one of the world's largest limestone quarries, supplying construction materials for megaprojects across the Gulf region." },
     facts: {
       de: ["Produziert jährlich Millionen Tonnen Gestein.", "Hat maßgeblich zu den künstlichen Inseln in Dubai beigetragen."],
@@ -233,7 +267,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-RK",
     coords: [55.972, 25.801],
-    name: { de: "Wirtschaftszone Ras Al Khaimah", hu: "Rász el-Haima-i Gazdasági Övezet", ro: "Zona Economică Ras Al Khaimah", en: "Ras Al Khaimah Economic Zone (RAKEZ)" },
+    name: { de: "Wirtschaftszone Ras Al Khaimah", hu: "Rász el-Haima-i Gazdasági Övezet", ro: "Zona Economică Ras Al Khaimah", en: "Ras Al Khaimah Economic Zone (RAKEZ)",
+image: "/poi-images/rakez-economic-v2.webp"
+},
     description: { de: "RAKEZ ist ein bedeutendes Geschäfts- und Industriezentrum, das ausländische Investoren mit kostengünstigen Lösungen anzieht und ein diversifiziertes Wirtschaftswachstum fördert.", hu: "A RAKEZ egy jelentős üzleti és ipari központ, amely költséghatékony megoldásokkal vonzza a külföldi befektetőket, elősegítve a diverzifikált gazdasági növekedést.", ro: "RAKEZ este un centru major de afaceri și industrial, atrăgând investitori străini cu soluții eficiente din punct de vedere al costurilor și promovând o creștere economică diversificată.", en: "RAKEZ is a major business and industrial hub, attracting foreign investors with cost-effective solutions and promoting diversified economic growth." },
     facts: {
       de: ["Entstand aus der Fusion der RAK Free Trade Zone und RAK Investment Authority.", "Bietet spezialisierte Zonen für Industrie und Dienstleistungen."],
@@ -246,7 +282,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.165, 24.912],
-    name: { de: "Dubai World Central Logistikzentrum", hu: "Dubai World Central Logisztikai Központ", ro: "Centrul Logistic Dubai World Central", en: "Dubai World Central Logistics Hub" },
+    name: { de: "Dubai World Central Logistikzentrum", hu: "Dubai World Central Logisztikai Központ", ro: "Centrul Logistic Dubai World Central", en: "Dubai World Central Logistics Hub",
+image: "/poi-images/dwc-logistics-hub-economic-v2.webp"
+},
     description: { de: "Dieser riesige Logistikkomplex ist Teil des Projekts Dubai South und verbindet nahtlos den Hafen Jebel Ali mit dem internationalen Flughafen Al Maktoum.", hu: "Ez a hatalmas logisztikai komplexum a Dubai South projekt része, és zökkenőmentesen köti össze a Dzsebel Ali Kikötőt az Al Maktoum Nemzetközi Repülőtérrel.", ro: "Acest imens complex logistic face parte din proiectul Dubai South, conectând fluid Portul Jebel Ali cu Aeroportul Internațional Al Maktoum.", en: "This vast logistics complex is part of the Dubai South project, seamlessly connecting Jebel Ali Port with Al Maktoum International Airport." },
     facts: {
       de: ["Ermöglicht multimodalen Transport (See-Luft) in nur vier Stunden.", "Teil der ersten zweckgebundenen 'Aerotropolis' der Welt."],
@@ -260,7 +298,9 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "energy",
     parent: "AE-AZ",
     coords: [53.712, 23.572],
-    name: { de: "Sonnenwärmekraftwerk Shams", hu: "Shams Naperőmű", ro: "Centrala Solară Shams", en: "Shams Solar Power Station" },
+    name: { de: "Sonnenwärmekraftwerk Shams", hu: "Shams Naperőmű", ro: "Centrala Solară Shams", en: "Shams Solar Power Station",
+image: "/poi-images/shams-solar-power-station-economic-v2.webp"
+},
     description: { de: "Shams in Abu Dhabi war bei seiner Inbetriebnahme das größte solarthermische Parabolrinnenkraftwerk der Welt.", hu: "Az Abu-Dzabiban található Shams a maga nemében a világ legnagyobb parabolavályús naperőműve volt az üzembe helyezésekor.", ro: "Shams din Abu Dhabi a fost cea mai mare centrală solară cu jgheaburi parabolice din lume la momentul punerii în funcțiune.", en: "Shams in Abu Dhabi was the world's largest parabolic trough solar power station at the time of its commissioning." },
     facts: {
       de: ["Produziert erneuerbaren Strom für Tausende von Haushalten.", "Trägt zur Reduzierung der CO2-Emissionen bei."],

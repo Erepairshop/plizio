@@ -11,8 +11,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Autonomer Hafen von Douala",
       hu: "Doualai Autonóm Kikötő",
       ro: "Portul Autonom Douala",
-      en: "Autonomous Port of Douala"
-    },
+      en: "Autonomous Port of Douala",
+image: "/poi-images/douala-autonomous-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der autonome Hafen von Douala ist die wichtigste maritime Drehscheibe Kameruns und das wirtschaftliche Tor des Landes zur Welt. Er wickelt den Großteil des kamerunischen Imports und Exports ab und ist von zentraler Bedeutung für die gesamte Wirtschaft Zentralafrikas. Wirtschaft K8 — Logistik."
     },
@@ -41,8 +42,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Tiefseehafen Kribi",
       hu: "Kribi Mélyvízi Kikötő",
       ro: "Portul de Apă Adâncă Kribi",
-      en: "Kribi Deep Sea Port"
-    },
+      en: "Kribi Deep Sea Port",
+image: "/poi-images/kribi-deep-sea-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Tiefseehafen von Kribi stellt einen strategischen Meilenstein in der kamerunischen Infrastrukturentwicklung dar. Als hochmoderner Hafen ist er darauf ausgelegt, die größten Containerschiffe der Welt abzufertigen und fungiert als neuer wichtiger Knotenpunkt für den internationalen Seehandel. Geografie K7 — Logistik."
     },
@@ -71,8 +73,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Seehafen Limbe",
       hu: "Limbei Kikötő",
       ro: "Portul Maritim Limbe",
-      en: "Limbe Seaport"
-    },
+      en: "Limbe Seaport",
+image: "/poi-images/limbe-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Hafen von Limbe ist ein bedeutender Standort an der Atlantikküste, der besonders für die Fischerei und die Versorgung der Region von Bedeutung ist. Er ergänzt die anderen Häfen durch seine lokale Spezialisierung und geografische Nähe zum Mount Cameroon. Wirtschaft K6 — Fischerei."
     },
@@ -101,8 +104,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Sonara-Ölraffinerie",
       hu: "Sonara Olajfinomító",
       ro: "Rafinăria de Petrol Sonara",
-      en: "Sonara Oil Refinery"
-    },
+      en: "Sonara Oil Refinery",
+image: "/poi-images/sonara-oil-refinery-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die SONARA-Raffinerie in Limbe ist die einzige Ölraffinerie Kameruns und von entscheidender Bedeutung für die Energieversorgung des Landes. Sie spielt eine Schlüsselrolle bei der Veredelung von Rohöl zu Kraftstoffen und anderen Nebenprodukten für den nationalen Markt. Industrie K8 — Energie."
     },
@@ -131,8 +135,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "ALUCAM Aluminiumhütte Edea",
       hu: "ALUCAM Alumíniumkohó Edéa",
       ro: "Topitoria de Aluminiu ALUCAM Edea",
-      en: "ALUCAM Aluminium Smelter Edea"
-    },
+      en: "ALUCAM Aluminium Smelter Edea",
+image: "/poi-images/alucam-smelter-edea-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "ALUCAM in Edéa ist eine der wichtigsten Aluminiumhütten in Afrika und ein Aushängeschild für die kamerunische Schwerindustrie. Das Werk nutzt die hydroelektrische Energie der nahegelegenen Sanaga-Kraftwerke, um Bauxit zu hochwertigem Aluminium zu verarbeiten. Industrie K8 — Energie."
     },
@@ -161,8 +166,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Wasserkraftwerk Edéa",
       hu: "Edéa Vízerőmű",
       ro: "Hidrocentrala Edéa",
-      en: "Edéa Hydroelectric Power Station"
-    },
+      en: "Edéa Hydroelectric Power Station",
+image: "/poi-images/edea-hydro-station-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk in Edéa ist eines der ältesten und bedeutendsten in Kamerun und bildet das Rückgrat der Energieversorgung für die umliegende Schwerindustrie. Es ist ein Musterbeispiel für die nachhaltige Nutzung des Sanaga-Flusslaufs. Energie K8 — Energie."
     },
@@ -191,8 +197,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Wasserkraftwerk Song Loulou",
       hu: "Song Loulou Vízerőmű",
       ro: "Hidrocentrala Song Loulou",
-      en: "Song Loulou Hydroelectric Station"
-    },
+      en: "Song Loulou Hydroelectric Station",
+image: "/poi-images/song-loulou-hydro-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Song Loulou ist das größte Kraftwerk Kameruns und liefert einen maßgeblichen Anteil der landesweiten Stromerzeugung. Die Anlage ist ein unverzichtbarer Bestandteil der kamerunischen Infrastruktur und unterstützt sowohl Haushalte als auch Industrie. Energie K8 — Energie."
     },
@@ -221,8 +228,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Memve'ele-Staudamm",
       hu: "Memve'ele Gát",
       ro: "Barajul Memve'ele",
-      en: "Memve'ele Dam"
-    },
+      en: "Memve'ele Dam",
+image: "/poi-images/memveele-dam-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Memve'ele-Staudamm ist ein neueres Großprojekt zur Erzeugung von sauberer Energie im Süden des Landes. Mit diesem Werk wird die Energieinfrastruktur Kameruns modernisiert und die Elektrifizierung in ländlichen und industriellen Gebieten vorangetrieben. Energie K8 — Energie."
     },
@@ -251,8 +259,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Lom-Pangar-Talsperre",
       hu: "Lom Pangar Gát",
       ro: "Barajul Lom Pangar",
-      en: "Lom Pangar Dam"
-    },
+      en: "Lom Pangar Dam",
+image: "/poi-images/lom-pangar-dam-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Lom Pangar-Staudammprojekt ist ein strategisches Bauwerk zur Regulierung des Sanaga-Flusslaufs, was die Effizienz aller flussabwärts gelegenen Kraftwerke massiv erhöht. Es ist eines der ambitioniertesten Infrastrukturvorhaben des Landes. Energie K8 — Energie."
     },
@@ -281,8 +290,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Goldminen von Bétaré-Oya",
       hu: "Bétaré-Oya Aranybányák",
       ro: "Minele de Aur Bétaré-Oya",
-      en: "Bétaré-Oya Gold Mines"
-    },
+      en: "Bétaré-Oya Gold Mines",
+image: "/poi-images/betare-oya-gold-mines-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Goldminen bei Bétaré Oya in der Ostregion sind ein wichtiger Standort für die kamerunische Rohstoffgewinnung. Die Gegend zieht viele kleine und mittelgroße Betriebe an, die zur wirtschaftlichen Dynamik der Region beitragen. Bergbau K7 — Geologie."
     },
@@ -311,8 +321,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Nkamouna Kobalt-Nickel-Mine",
       hu: "Nkamouna Kobalt-Nikkel Bánya",
       ro: "Mina de Cobalt-Nichel Nkamouna",
-      en: "Nkamouna Cobalt-Nickel Mine"
-    },
+      en: "Nkamouna Cobalt-Nickel Mine",
+image: "/poi-images/geovic-cobalt-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Kobalt-Nickel-Projekt von Geovic in der Region Lomié gilt als eine der bedeutendsten Lagerstätten in Afrika. Die Erschließung dieser Mine hat das Potenzial, Kamerun zu einem weltweit relevanten Akteur im Bereich der Metalle für Batterietechnologie zu machen. Wirtschaft K8 — Metalle."
     },
@@ -341,8 +352,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Mbalam Eisenerzprojekt",
       hu: "Mbalam Vasércprojekt",
       ro: "Proiectul de Minereu de Fier Mbalam",
-      en: "Mbalam Iron Ore Project"
-    },
+      en: "Mbalam Iron Ore Project",
+image: "/poi-images/mbalam-iron-ore-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Mbalam-Eisen-Projekt ist eines der größten Bergbauvorhaben in West- und Zentralafrika. Mit dem Abbau von hochwertigem Eisenerz und dem Bau einer Eisenbahnlinie in den Hafen von Kribi soll die wirtschaftliche Landschaft der Region grundlegend gewandelt werden. Wirtschaft K8 — Bergbau."
     },
@@ -371,8 +383,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Nkout Eisenerzvorkommen",
       hu: "Nkout Vasérclelőhely",
       ro: "Zăcământul de Minereu de Fier Nkout",
-      en: "Nkout Iron Ore Deposit"
-    },
+      en: "Nkout Iron Ore Deposit",
+image: "/poi-images/nkout-iron-deposit-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Eisenerzvorkommen von Nkout gehört zu den strategisch wichtigen Bergbauprojekten Kameruns. Die Erschließung dieses massiven Vorkommens ist Teil der Vision, die kamerunische Bergbauindustrie zu einer tragenden Säule des Wirtschaftswachstums zu machen. Bergbau K8 — Bergbau."
     },
@@ -401,8 +414,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Minim-Martap Bauxitlagerstätte",
       hu: "Minim-Martap Bauxitlelőhely",
       ro: "Zăcământul de Bauxită Minim-Martap",
-      en: "Minim-Martap Bauxite Deposit"
-    },
+      en: "Minim-Martap Bauxite Deposit",
+image: "/poi-images/minim-martap-bauxite-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Bauxit-Lagerstätten von Minim Martap sind von globalem Rang und könnten Kamerun zu einem Hauptakteur in der Aluminium-Wertschöpfungskette machen. Die Erschließung dieser Vorkommen wird durch den geplanten Ausbau der Bahnlinie vorangetrieben. Industrie K8 — Bauxit."
     },
@@ -431,8 +445,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Akonolinga Rutil-Mine",
       hu: "Akonolinga Rutilbánya",
       ro: "Mina de Rutil Akonolinga",
-      en: "Akonolinga Rutile Mine"
-    },
+      en: "Akonolinga Rutile Mine",
+image: "/poi-images/akonolinga-rutile-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Rutil-Vorkommen von Akonolinga sind ein wichtiger Standort für die kamerunische Rohstoffgewinnung. Rutil, eine Titanquelle, findet weltweit breite Anwendung in der Farben- und Keramikindustrie. Bergbau K7 — Geologie."
     },
@@ -461,8 +476,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "CIMENCAM Zementwerk Douala",
       hu: "CIMENCAM Cementgyár Douala",
       ro: "Fabrica de Ciment CIMENCAM Douala",
-      en: "CIMENCAM Cement Plant Douala"
-    },
+      en: "CIMENCAM Cement Plant Douala",
+image: "/poi-images/cimencam-douala-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Cimencam, ein führender Zementhersteller in Kamerun, betreibt wichtige Werke in Douala. Durch die lokale Produktion von Baumaterialien unterstützt das Unternehmen das massive Wachstum der kamerunischen Städte und die Infrastrukturentwicklung des Landes. Industrie K7 — Bausektor."
     },
@@ -491,8 +507,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Dangote Zementwerk Douala",
       hu: "Dangote Cementgyár Douala",
       ro: "Fabrica de Ciment Dangote Douala",
-      en: "Dangote Cement Plant Douala"
-    },
+      en: "Dangote Cement Plant Douala",
+image: "/poi-images/dangote-cement-douala-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Dangote Cement ist ein bedeutender Akteur in der kamerunischen Zementindustrie mit einem strategisch wichtigen Werk in Douala. Der Markteintritt des Unternehmens hat den Wettbewerb gestärkt und zur Verfügbarkeit von Baumaterialien für Großprojekte beigetragen. Industrie K7 — Bausektor."
     },
@@ -521,8 +538,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "CHOCOCAM Schokoladenfabrik",
       hu: "CHOCOCAM Csokoládégyár",
       ro: "Fabrica de Ciocolată CHOCOCAM",
-      en: "CHOCOCAM Chocolate Factory"
-    },
+      en: "CHOCOCAM Chocolate Factory",
+image: "/poi-images/chococam-factory-douala-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Chococam ist eine der traditionsreichsten Marken Kameruns und bekannt für ihre Schokoladenproduktion. Das Unternehmen verarbeitet einen Teil des national angebauten Kakaos zu hochwertigen Produkten und ist ein bekannter Arbeitgeber in Douala. Industrie K6 — Nahrungsmittel."
     },
@@ -551,8 +569,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "CDC Kautschukfabrik Tiko",
       hu: "CDC Gumiüzem Tiko",
       ro: "Fabrica de Cauciuc CDC Tiko",
-      en: "CDC Rubber Processing Plant Tiko"
-    },
+      en: "CDC Rubber Processing Plant Tiko",
+image: "/poi-images/cdc-rubber-tiko-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Cameroon Development Corporation (CDC) ist einer der größten Arbeitgeber Kameruns und betreibt umfangreiche Kautschukplantagen in der Tiko-Region. Sie ist ein Rückgrat der landwirtschaftlichen Exportwirtschaft in der Südwestregion. Wirtschaft K6 — Landwirtschaft."
     },
@@ -581,8 +600,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Socapalm Palmölmühle Dibombari",
       hu: "Socapalm Pálmaolajmalom Dibombari",
       ro: "Moara de Ulei de Palmier Socapalm Dibombari",
-      en: "Socapalm Palm Oil Mill Dibombari"
-    },
+      en: "Socapalm Palm Oil Mill Dibombari",
+image: "/poi-images/socapalm-dibombari-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Socapalm ist ein führendes Unternehmen im Bereich der Palmölproduktion in Kamerun, mit wichtigen Plantagen in Dibombari. Die Firma ist ein zentraler Akteur in der Agrarindustrie und ein wichtiger Lieferant für das heimische Gewerbe. Landwirtschaft K6 — Agrar."
     },
@@ -611,8 +631,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Hevecam Kautschukfabrik Niété",
       hu: "Hevecam Gumiüzem Niété",
       ro: "Fabrica de Cauciuc Hevecam Niété",
-      en: "Hevecam Rubber Factory Niété"
-    },
+      en: "Hevecam Rubber Factory Niété",
+image: "/poi-images/hevecam-niete-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Hevecam betreibt riesige Kautschukplantagen in der Region Niété nahe Kribi und ist ein zentraler wirtschaftlicher Akteur für den Süden Kameruns. Die Kautschukproduktion ist ein wichtiger Wirtschaftsfaktor und sorgt für tausende Arbeitsplätze in der Region. Wirtschaft K6 — Landwirtschaft."
     },
@@ -641,8 +662,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "SABC Brauerei Yaoundé",
       hu: "SABC Sörfőzde Yaoundé",
       ro: "Fabrica de Bere SABC Yaoundé",
-      en: "SABC Brewery Yaoundé"
-    },
+      en: "SABC Brewery Yaoundé",
+image: "/poi-images/sabc-brewery-yaounde-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die SABC (Société Anonyme des Brasseries du Cameroun) ist der Marktführer im Getränkesektor und betreibt bedeutende Brauereien in Yaoundé. Sie ist eine der bekanntesten Firmen des Landes und ein Pfeiler der kamerunischen Konsumgüterindustrie. Wirtschaft K6 — Getränke."
     },
@@ -671,8 +693,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "CICAM Textilfabrik Garoua",
       hu: "CICAM Textilgyár Garoua",
       ro: "Fabrica de Textile CICAM Garoua",
-      en: "CICAM Textile Mill Garoua"
-    },
+      en: "CICAM Textile Mill Garoua",
+image: "/poi-images/cicam-garoua-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "CICAM (Cotonnière Industrielle du Cameroun) ist ein historisch gewachsener Akteur in der Textilverarbeitung mit einem wichtigen Standort in Garoua. Das Unternehmen ist entscheidend für die Weiterverarbeitung des im Norden angebauten Korns. Industrie K7 — Textil."
     },
@@ -701,8 +724,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Sodecoton Entkörnungsanlage Maroua",
       hu: "Sodecoton Gyapotfeldolgozó Maroua",
       ro: "Fabrica de Egrenare Sodecoton Maroua",
-      en: "Sodecoton Ginning Plant Maroua"
-    },
+      en: "Sodecoton Ginning Plant Maroua",
+image: "/poi-images/sodecoton-maroua-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Sodecoton ist der Motor der kamerunischen Baumwollwirtschaft und koordiniert den Anbau und die erste Verarbeitung in der gesamten nördlichen Region. Das Unternehmen unterstützt zehntausende Kleinbauern und ist lebenswichtig für die ländliche Entwicklung im Norden. Wirtschaft K7 — Landwirtschaft."
     },
@@ -731,8 +755,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "CIMENCAM Zementwerk Figuil",
       hu: "CIMENCAM Cementgyár Figuil",
       ro: "Fabrica de Ciment CIMENCAM Figuil",
-      en: "CIMENCAM Cement Plant Figuil"
-    },
+      en: "CIMENCAM Cement Plant Figuil",
+image: "/poi-images/cimencam-figuil-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Cimencam-Werk in Figuil ist ein strategisch wichtiger Standort, um die Zementversorgung im entlegenen Norden Kameruns sicherzustellen. Die lokale Produktion reduziert die Transportkosten und unterstützt den Ausbau der regionalen Infrastruktur. Industrie K7 — Bausektor."
     },
@@ -761,8 +786,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Kribi Gaskraftwerk",
       hu: "Kribi Gázerőmű",
       ro: "Centrala pe Gaz Kribi",
-      en: "Kribi Gas Power Plant"
-    },
+      en: "Kribi Gas Power Plant",
+image: "/poi-images/kribi-gas-plant-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Gasanlage von Kribi ist ein wichtiger Teil der kamerunischen Strategie zur Nutzung von Erdgasressourcen für die Stromerzeugung. Das Kraftwerk leistet einen entscheidenden Beitrag zur Stabilität des Stromnetzes und zeigt das Potenzial für saubere Energieprojekte. Energie K8 — Energie."
     },
@@ -791,8 +817,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Foumban Bauxitlagerstätte",
       hu: "Foumban Bauxitlelőhely",
       ro: "Zăcământul de Bauxită Foumban",
-      en: "Foumban Bauxite Deposit"
-    },
+      en: "Foumban Bauxite Deposit",
+image: "/poi-images/foumban-bauxite-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Vorkommen nahe Foumban gehören zu den regional bedeutsamen Lagerstätten, die das langfristige Potenzial Kameruns als Bauxitproduzenten unterstreichen. Die Erschließung ist eng mit den Zukunftsvisionen der industriellen Diversifizierung verknüpft. Wirtschaft K7 — Rohstoffe."
     },
@@ -821,8 +848,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Ngaoundal Bauxitlagerstätte",
       hu: "Ngaoundal Bauxitlelőhely",
       ro: "Zăcământul de Bauxită Ngaoundal",
-      en: "Ngaoundal Bauxite Deposit"
-    },
+      en: "Ngaoundal Bauxite Deposit",
+image: "/poi-images/ngaoundal-bauxite-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Ngaoundal ist ein weiterer wichtiger Standort für das Bauxit-Portfolio Kameruns auf dem Adamaoua-Plateau. Die Lage macht Ngaoundal zu einem zentralen Ort für die künftige industrielle Entwicklung der Region durch den Bergbau. Wirtschaft K8 — Bauxit."
     },
@@ -851,8 +879,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Makan Bauxitprojekt",
       hu: "Makan Bauxitprojekt",
       ro: "Proiectul de Bauxită Makan",
-      en: "Makan Bauxite Project"
-    },
+      en: "Makan Bauxite Project",
+image: "/poi-images/camalco-makan-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Camalco-Projekt in Makan ist ein weiteres ambitioniertes Bergbauunternehmen, das die kamerunische Vision des 'Emergence 2035'-Plans unterstützt. Die Erschließung neuer Ressourcen ist ein Kernpfeiler der nationalen Industrie- und Entwicklungsstrategie. Wirtschaft K8 — Bergbau."
     },
@@ -881,8 +910,9 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "SABC Brauerei Ndokoti",
       hu: "SABC Sörfőzde Ndokoti",
       ro: "Fabrica de Bere SABC Ndokoti",
-      en: "SABC Brewery Ndokoti"
-    },
+      en: "SABC Brewery Ndokoti",
+image: "/poi-images/sabc-ndokoti-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die SABC-Niederlassung in Ndokoti (Douala) ist eine der größten Produktions- und Logistikeinheiten des Landes. Durch ihre enorme Kapazität spielt sie eine entscheidende Rolle bei der Verteilung von Getränken in den westlichen und zentralen Landesteilen. Wirtschaft K6 — Logistik."
     },

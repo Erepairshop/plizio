@@ -4,7 +4,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-minsk-tractor-works-economic-v2",
     type: "factory",
-    name: { de: "Minsker Traktorenwerk (MTZ)", hu: "Minszki Traktorgyár (MTZ)", ro: "Uzina de Tractoare din Minsk (MTZ)", en: "Minsk Tractor Works (MTZ)" },
+    name: { de: "Minsker Traktorenwerk (MTZ)", hu: "Minszki Traktorgyár (MTZ)", ro: "Uzina de Tractoare din Minsk (MTZ)", en: "Minsk Tractor Works (MTZ)",
+image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"
+},
     coords: [27.6253, 53.8931],
     coordinates: { lat: 53.8931, lng: 27.6253 },
     description: {
@@ -35,7 +37,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-belaz-zhodino-economic-v2",
     type: "factory",
-    name: { de: "BelAZ-Werk Shodsina", hu: "BelAZ-gyár, Zsogyino", ro: "Uzina BelAZ din Jodino", en: "BelAZ Plant Zhodino" },
+    name: { de: "BelAZ-Werk Shodsina", hu: "BelAZ-gyár, Zsogyino", ro: "Uzina BelAZ din Jodino", en: "BelAZ Plant Zhodino",
+image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"
+},
     coords: [28.312, 54.095],
     coordinates: { lat: 54.095, lng: 28.312 },
     description: {
@@ -66,7 +70,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-maz-minsk-economic-v2",
     type: "factory",
-    name: { de: "Minsker Automobilwerk (MAZ)", hu: "Minszki Autógyár (MAZ)", ro: "Uzina de Automobile din Minsk (MAZ)", en: "Minsk Automobile Plant (MAZ)" },
+    name: { de: "Minsker Automobilwerk (MAZ)", hu: "Minszki Autógyár (MAZ)", ro: "Uzina de Automobile din Minsk (MAZ)", en: "Minsk Automobile Plant (MAZ)",
+image: "/poi-images/belarus-maz-minsk-economic-v2.webp"
+},
     coords: [27.6534, 53.8619],
     coordinates: { lat: 53.8619, lng: 27.6534 },
     description: {
@@ -98,7 +104,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-belaruskali-soligorsk-economic-v2",
     type: "mine",
-    name: { de: "Belaruskali Salihorsk", hu: "Belaruskali, Szoligorszk", ro: "Belaruskali Soligorsk", en: "Belaruskali Soligorsk" },
+    name: { de: "Belaruskali Salihorsk", hu: "Belaruskali, Szoligorszk", ro: "Belaruskali Soligorsk", en: "Belaruskali Soligorsk",
+image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"
+},
     coords: [27.5414, 52.7869],
     coordinates: { lat: 52.7869, lng: 27.5414 },
     description: {
@@ -129,7 +137,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-naftan-oil-refinery-economic-v2",
     type: "industry",
-    name: { de: "Naftan Ölraffinerie", hu: "Naftan Olajfinomító", ro: "Rafinăria de Petrol Naftan", en: "Naftan Oil Refinery" },
+    name: { de: "Naftan Ölraffinerie", hu: "Naftan Olajfinomító", ro: "Rafinăria de Petrol Naftan", en: "Naftan Oil Refinery",
+image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp"
+},
     coords: [28.52, 55.5312],
     coordinates: { lat: 55.5312, lng: 28.52 },
     description: {
@@ -161,7 +171,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-mozyr-refinery-economic-v2",
     type: "industry",
-    name: { de: "Ölraffinerie Mosyr", hu: "Maziri Olajfinomító", ro: "Rafinăria de Petrol Mozîr", en: "Mozyr Oil Refinery" },
+    name: { de: "Ölraffinerie Mosyr", hu: "Maziri Olajfinomító", ro: "Rafinăria de Petrol Mozîr", en: "Mozyr Oil Refinery",
+image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"
+},
     coords: [29.231, 52.046],
     coordinates: { lat: 52.046, lng: 29.231 },
     description: {
@@ -192,7 +204,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-grodno-azot-economic-v2",
     type: "industry",
-    name: { de: "Grodno Azot", hu: "Grodno Azot", ro: "Grodno Azot", en: "Grodno Azot" },
+    name: { de: "Grodno Azot", hu: "Grodno Azot", ro: "Grodno Azot", en: "Grodno Azot",
+image: "/poi-images/belarus-grodno-azot-economic-v2.webp"
+},
     coords: [23.9, 53.67],
     coordinates: { lat: 53.67, lng: 23.9 },
     description: {
@@ -223,7 +237,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-bmz-zhlobin-economic-v2",
     type: "industry",
-    name: { de: "Belarussisches Stahlwerk (BMZ)", hu: "Fehérorosz Acélmű (BMZ)", ro: "Combinatul Siderurgic Belarus (BMZ)", en: "Byelorussian Steel Works (BMZ)" },
+    name: { de: "Belarussisches Stahlwerk (BMZ)", hu: "Fehérorosz Acélmű (BMZ)", ro: "Combinatul Siderurgic Belarus (BMZ)", en: "Byelorussian Steel Works (BMZ)",
+image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"
+},
     coords: [30.01, 52.88],
     coordinates: { lat: 52.88, lng: 30.01 },
     description: {
@@ -254,7 +270,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-gomselmash-economic-v2",
     type: "factory",
-    name: { de: "Gomselmash", hu: "Gomselmash", ro: "Gomselmash", en: "Gomselmash" },
+    name: { de: "Gomselmash", hu: "Gomselmash", ro: "Gomselmash", en: "Gomselmash",
+image: "/poi-images/belarus-gomselmash-economic-v2.webp"
+},
     coords: [30.95, 52.45],
     coordinates: { lat: 52.45, lng: 30.95 },
     description: {
@@ -285,7 +303,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-belshina-babruysk-economic-v2",
     type: "factory",
-    name: { de: "Belshina Babrujsk", hu: "Belshina, Babrujszk", ro: "Belshina Babruisk", en: "Belshina Babruysk" },
+    name: { de: "Belshina Babrujsk", hu: "Belshina, Babrujszk", ro: "Belshina Babruisk", en: "Belshina Babruysk",
+image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"
+},
     coords: [29.25, 53.18],
     coordinates: { lat: 53.18, lng: 29.25 },
     description: {
@@ -316,7 +336,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-mogilevkhimvolokno-economic-v2",
     type: "industry",
-    name: { de: "Mogilevkhimvolokno", hu: "Mogilevkhimvolokno", ro: "Mogilevkhimvolokno", en: "Mogilevkhimvolokno" },
+    name: { de: "Mogilevkhimvolokno", hu: "Mogilevkhimvolokno", ro: "Mogilevkhimvolokno", en: "Mogilevkhimvolokno",
+image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"
+},
     coords: [30.33, 53.85],
     coordinates: { lat: 53.85, lng: 30.33 },
     description: {
@@ -347,7 +369,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-great-stone-industrial-park-economic-v2",
     type: "industry",
-    name: { de: "Industriepark Great Stone", hu: "Great Stone Ipari Park", ro: "Parcul Industrial Great Stone", en: "Great Stone Industrial Park" },
+    name: { de: "Industriepark Great Stone", hu: "Great Stone Ipari Park", ro: "Parcul Industrial Great Stone", en: "Great Stone Industrial Park",
+image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"
+},
     coords: [28.05, 53.9],
     coordinates: { lat: 53.9, lng: 28.05 },
     description: {
@@ -378,7 +402,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-nuclear-power-plant-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Belarus", hu: "Fehérorosz Atomerőmű", ro: "Centrala Nucleară din Belarus", en: "Belarusian Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Belarus", hu: "Fehérorosz Atomerőmű", ro: "Centrala Nucleară din Belarus", en: "Belarusian Nuclear Power Plant",
+image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"
+},
     coords: [26.11, 54.75],
     coordinates: { lat: 54.75, lng: 26.11 },
     description: {
@@ -409,7 +435,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-orsha-linen-mill-economic-v2",
     type: "factory",
-    name: { de: "Leinenkombinat Orscha", hu: "Orsai Lenkombinát", ro: "Combinatul de In din Orșa", en: "Orsha Linen Mill" },
+    name: { de: "Leinenkombinat Orscha", hu: "Orsai Lenkombinát", ro: "Combinatul de In din Orșa", en: "Orsha Linen Mill",
+image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"
+},
     coords: [30.43, 54.51],
     coordinates: { lat: 54.51, lng: 30.43 },
     description: {
@@ -440,7 +468,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-kommunarka-confectionery-economic-v2",
     type: "factory",
-    name: { de: "Süßwarenfabrik Kommunarka", hu: "Kommunarka Édességgyár", ro: "Fabrica de Dulciuri Kommunarka", en: "Kommunarka Confectionery" },
+    name: { de: "Süßwarenfabrik Kommunarka", hu: "Kommunarka Édességgyár", ro: "Fabrica de Dulciuri Kommunarka", en: "Kommunarka Confectionery",
+image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"
+},
     coords: [27.58, 53.88],
     coordinates: { lat: 53.88, lng: 27.58 },
     description: {
@@ -471,7 +501,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-spartak-confectionery-economic-v2",
     type: "factory",
-    name: { de: "Süßwarenfabrik Spartak", hu: "Spartak Édességgyár", ro: "Fabrica de Dulciuri Spartak", en: "Spartak Confectionery" },
+    name: { de: "Süßwarenfabrik Spartak", hu: "Spartak Édességgyár", ro: "Fabrica de Dulciuri Spartak", en: "Spartak Confectionery",
+image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"
+},
     coords: [30.98, 52.41],
     coordinates: { lat: 52.41, lng: 30.98 },
     description: {
@@ -502,7 +534,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-lukoml-power-station-economic-v2",
     type: "industry",
-    name: { de: "Wärmekraftwerk Lukoml", hu: "Lukomli Hőerőmű", ro: "Centrala Termoelectrică Lukoml", en: "Lukoml Power Station" },
+    name: { de: "Wärmekraftwerk Lukoml", hu: "Lukomli Hőerőmű", ro: "Centrala Termoelectrică Lukoml", en: "Lukoml Power Station",
+image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"
+},
     coords: [29.13, 54.66],
     coordinates: { lat: 54.66, lng: 29.13 },
     description: {
@@ -533,7 +567,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-granit-mikashevichi-economic-v2",
     type: "mine",
-    name: { de: "Granit Mikaschewitschi", hu: "Granit, Mikasevicsi", ro: "Granit Mikașevici", en: "Granit Mikashevichi" },
+    name: { de: "Granit Mikaschewitschi", hu: "Granit, Mikasevicsi", ro: "Granit Mikașevici", en: "Granit Mikashevichi",
+image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"
+},
     coords: [27.46, 52.22],
     coordinates: { lat: 52.22, lng: 27.46 },
     description: {
@@ -564,7 +600,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-integral-minsk-economic-v2",
     type: "factory",
-    name: { de: "Integral Minsk", hu: "Integral Minszk", ro: "Integral Minsk", en: "Integral Minsk" },
+    name: { de: "Integral Minsk", hu: "Integral Minszk", ro: "Integral Minsk", en: "Integral Minsk",
+image: "/poi-images/belarus-integral-minsk-economic-v2.webp"
+},
     coords: [27.51, 53.85],
     coordinates: { lat: 53.85, lng: 27.51 },
     description: {
@@ -595,7 +633,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-belgee-factory-economic-v2",
     type: "factory",
-    name: { de: "BelGee-Werk", hu: "BelGee-gyár", ro: "Uzina BelGee", en: "BelGee Plant" },
+    name: { de: "BelGee-Werk", hu: "BelGee-gyár", ro: "Uzina BelGee", en: "BelGee Plant",
+image: "/poi-images/belarus-belgee-factory-economic-v2.webp"
+},
     coords: [28.45, 54.18],
     coordinates: { lat: 54.18, lng: 28.45 },
     description: {
@@ -626,7 +666,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-borisov-medical-preparations-economic-v2",
     type: "factory",
-    name: { de: "Arzneimittelwerk Baryssau", hu: "Bariszavi Gyógyszergyár", ro: "Fabrica de Preparate Medicale Borisov", en: "Borisov Plant of Medical Preparations" },
+    name: { de: "Arzneimittelwerk Baryssau", hu: "Bariszavi Gyógyszergyár", ro: "Fabrica de Preparate Medicale Borisov", en: "Borisov Plant of Medical Preparations",
+image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp"
+},
     coords: [28.51, 54.21],
     coordinates: { lat: 54.21, lng: 28.51 },
     description: {
@@ -658,7 +700,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-polotsk-steklovolokno-economic-v2",
     type: "industry",
-    name: { de: "Polozk-Steklowolokno", hu: "Polock-Sztekolovolokno", ro: "Polotsk-Steklovolokno", en: "Polotsk-Steklovolokno" },
+    name: { de: "Polozk-Steklowolokno", hu: "Polock-Sztekolovolokno", ro: "Polotsk-Steklovolokno", en: "Polotsk-Steklovolokno",
+image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"
+},
     coords: [28.75, 55.48],
     coordinates: { lat: 55.48, lng: 28.75 },
     description: {
@@ -689,7 +733,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-milavitsa-minsk-economic-v2",
     type: "factory",
-    name: { de: "Milavitsa", hu: "Milavitsa", ro: "Milavitsa", en: "Milavitsa" },
+    name: { de: "Milavitsa", hu: "Milavitsa", ro: "Milavitsa", en: "Milavitsa",
+image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp"
+},
     coords: [27.54, 53.91],
     coordinates: { lat: 53.91, lng: 27.54 },
     description: {
@@ -721,7 +767,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-atlant-minsk-economic-v2",
     type: "factory",
-    name: { de: "Atlant Minsk", hu: "Atlant Minszk", ro: "Atlant Minsk", en: "Atlant Minsk" },
+    name: { de: "Atlant Minsk", hu: "Atlant Minszk", ro: "Atlant Minsk", en: "Atlant Minsk",
+image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"
+},
     coords: [27.52, 53.92],
     coordinates: { lat: 53.92, lng: 27.52 },
     description: {
@@ -752,7 +800,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-horizont-minsk-economic-v2",
     type: "factory",
-    name: { de: "Horizont Minsk", hu: "Horizont Minszk", ro: "Horizont Minsk", en: "Horizont Minsk" },
+    name: { de: "Horizont Minsk", hu: "Horizont Minszk", ro: "Horizont Minsk", en: "Horizont Minsk",
+image: "/poi-images/belarus-horizont-minsk-economic-v2.webp"
+},
     coords: [27.57, 53.91],
     coordinates: { lat: 53.91, lng: 27.57 },
     description: {
@@ -784,7 +834,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-minsk-motor-plant-economic-v2",
     type: "factory",
-    name: { de: "Minsker Motorenwerk (MMZ)", hu: "Minszki Motorgyár (MMZ)", ro: "Uzina de Motoare din Minsk (MMZ)", en: "Minsk Motor Plant (MMZ)" },
+    name: { de: "Minsker Motorenwerk (MMZ)", hu: "Minszki Motorgyár (MMZ)", ro: "Uzina de Motoare din Minsk (MMZ)", en: "Minsk Motor Plant (MMZ)",
+image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"
+},
     coords: [27.63, 53.9],
     coordinates: { lat: 53.9, lng: 27.63 },
     description: {
@@ -815,7 +867,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-lida-paint-plant-economic-v2",
     type: "factory",
-    name: { de: "Lack- und Farbenwerk Lida", hu: "Lidai Festékgyár", ro: "Fabrica de Vopsele Lida", en: "Lida Paint Plant" },
+    name: { de: "Lack- und Farbenwerk Lida", hu: "Lidai Festékgyár", ro: "Fabrica de Vopsele Lida", en: "Lida Paint Plant",
+image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"
+},
     coords: [25.29, 53.9],
     coordinates: { lat: 53.9, lng: 25.29 },
     description: {
@@ -846,7 +900,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-berezovskaya-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Berjosowskaja", hu: "Bjerezovszkajai Erőmű", ro: "Centrala Electrică Berezovskaia", en: "Berezovskaya Power Station" },
+    name: { de: "Kraftwerk Berjosowskaja", hu: "Bjerezovszkajai Erőmű", ro: "Centrala Electrică Berezovskaia", en: "Berezovskaya Power Station",
+image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"
+},
     coords: [25.0, 52.48],
     coordinates: { lat: 52.48, lng: 25.0 },
     description: {
@@ -877,7 +933,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-brest-economic-zone-economic-v2",
     type: "city",
-    name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone" },
+    name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone",
+image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"
+},
     coords: [23.65, 52.13],
     coordinates: { lat: 52.13, lng: 23.65 },
     description: {
@@ -908,7 +966,9 @@ export const belarusEconomicV2: POI[] = [
   {
     id: "belarus-vitebsk-economic-zone-economic-v2",
     type: "city",
-    name: { de: "Freie Wirtschaftszone Witebsk", hu: "Vityebszki Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Vitebsk", en: "Vitebsk Special Economic Zone" },
+    name: { de: "Freie Wirtschaftszone Witebsk", hu: "Vityebszki Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Vitebsk", en: "Vitebsk Special Economic Zone",
+image: "/poi-images/belarus-vitebsk-economic-zone-economic-v2.webp"
+},
     coords: [30.25, 55.18],
     coordinates: { lat: 55.18, lng: 30.25 },
     description: {

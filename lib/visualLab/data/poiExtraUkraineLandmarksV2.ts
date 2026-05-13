@@ -4,7 +4,9 @@ export const ukraineLandmarksV2: POI[] = [
   {
     id: "ukraine-saint-sophia-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Sophienkathedrale", hu: "Szent Szófia-székesegyház", ro: "Catedrala Sfânta Sofia", en: "Saint Sophia Cathedral" },
+    name: { de: "Sophienkathedrale", hu: "Szent Szófia-székesegyház", ro: "Catedrala Sfânta Sofia", en: "Saint Sophia Cathedral",
+image: "/poi-images/ukraine-saint-sophia-cathedral-landmarks-v2.webp"
+},
     coords: [30.5144, 50.4527],
     coordinates: { lat: 50.4527, lng: 30.5144 },
     description: {
@@ -19,11 +21,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1990", "Are 13 cupole aurite", "A fost reconstruită în stil baroc ucrainean", "Adăpostește sarcofagul lui Iaroslav cel Înțelept"],
       en: ["UNESCO World Heritage site since 1990", "Features 13 gilded domes", "Reconstructed in Ukrainian Baroque style", "Houses the sarcophagus of Yaroslav the Wise"],
     },
-    imageHint: "Saint Sophia Cathedral in Kyiv with green roofs and gold domes", image: "/poi-images/ukraine-saint-sophia-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Saint Sophia Cathedral in Kyiv with green roofs and gold domes",
+    descriptionAdvanced: {
+      de: "Die Sophienkathedrale ist ein Juwel der Kiewer Rus aus dem 11. Jahrhundert. Sie bewahrt die weltweit größte Sammlung authentischer Mosaike und Fresken aus dieser frühen Epoche.",
+      hu: "A 11. században épült székesegyház a Kijevi Rusz szellemi központja volt. Világhírű bizánci mozaikjai és freskói az UNESCO Világörökség részét képezik Bölcs Jaroszláv sírjával.",
+      ro: "Catedrala Sfânta Sofia este o capodoperă a Rusiei Kievene din secolul XI. Găzduiește cea mai vastă colecție de mozaicuri și fresce bizantine autentice păstrate din acea perioadă.",
+      en: "Built in the 11th century, this cathedral was the religious heart of Kyivan Rus. It houses the world's largest ensemble of original mosaics and frescoes from that medieval era.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1037 begonnen", "260 qm Mosaikfläche", "3000 qm Fresken erhalten", "UNESCO-Weltkulturerbe seit 1990"],
+      hu: ["Az építés 1037-ben kezdődött", "260 négyzetméternyi mozaik", "3000 négyzetméter freskó", "UNESCO védelem 1990 óta"],
+      ro: ["Construcție începută în 1037", "260 mp de mozaicuri", "3000 mp de fresce originale", "Sit UNESCO din anul 1990"],
+      en: ["Construction started in 1037", "260 sq meters of mosaics", "3000 sq meters of frescoes", "UNESCO site since 1990"],
+    },
+    image: "/poi-images/ukraine-saint-sophia-cathedral-landmarks-v2.webp",
+},  {
     id: "ukraine-kyiv-pechersk-lavra-landmarks-v2",
     type: "landmark",
-    name: { de: "Kiewer Höhlenkloster", hu: "Kijevi Barlangkolostor", ro: "Lavra Peșterilor din Kiev", en: "Kyiv Pechersk Lavra" },
+    name: { de: "Kiewer Höhlenkloster", hu: "Kijevi Barlangkolostor", ro: "Lavra Peșterilor din Kiev", en: "Kyiv Pechersk Lavra",
+image: "/poi-images/ukraine-kyiv-pechersk-lavra-landmarks-v2.webp"
+},
     coords: [30.5572, 50.4347],
     coordinates: { lat: 50.4347, lng: 30.5572 },
     description: {
@@ -38,11 +55,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Acoperă o suprafață de 28 de hectare", "Adăpostește moaștele mumificate ale sfinților", "Clopotnița are o înălțime de 96,5 metri", "Parte a Patrimoniului Mondial UNESCO"],
       en: ["Covers an area of 28 hectares", "Houses mummified remains of saints", "The Great Bell Tower is 96.5 meters tall", "Part of the UNESCO World Heritage list"],
     },
-    imageHint: "Kyiv Pechersk Lavra bell tower and golden domes against the sky", image: "/poi-images/ukraine-kyiv-pechersk-lavra-landmarks-v2.webp"},
-  {
+imageHint: "Kyiv Pechersk Lavra bell tower and golden domes against the sky",
+    descriptionAdvanced: {
+      de: "Das Kiewer Höhlenkloster wurde 1051 gegründet und ist ein bedeutendes Zentrum der Orthodoxie. Es umfasst ein riesiges Areal mit Kirchen, Museen und weitläufigen unterirdischen Höhlen.",
+      hu: "Az 1051-ben alapított barlangkolostor az ortodox kereszténység egyik legszentebb helye. Föld alatti járataiban évszázadok óta épségben maradt múmiákat és ereklyéket őriznek.",
+      ro: "Fondată în 1051, Lavra Pecerska este un centru major al ortodoxiei. Complexul include numeroase biserici și o rețea vastă de peșteri unde sunt păstrate moaște ale sfinților.",
+      en: "Founded in 1051, the Monastery of the Caves is a preeminent center of Eastern Orthodoxy. Its vast territory features historic churches and deep catacombs with mummified monks.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1051", "Über 20 Hektar Fläche", "Höhlensystem über 600m lang", "UNESCO-Status seit 1990"],
+      hu: ["Alapítási év: 1051", "20 hektáros terület", "600 méternél hosszabb barlangok", "UNESCO helyszín 1990-től"],
+      ro: ["Anul fondării: 1051", "Suprafață de peste 20 ha", "Peste 600 m de galerii", "Patrimoniu UNESCO din 1990"],
+      en: ["Founded in 1051", "Area of over 20 hectares", "Caves exceed 600m in length", "UNESCO listed since 1990"],
+    },
+    image: "/poi-images/ukraine-kyiv-pechersk-lavra-landmarks-v2.webp",
+},  {
     id: "ukraine-golden-gate-kyiv-landmarks-v2",
     type: "monument",
-    name: { de: "Goldenes Tor von Kiew", hu: "Kijevi Aranykapu", ro: "Poarta de Aur din Kiev", en: "Golden Gate of Kyiv" },
+    name: { de: "Goldenes Tor von Kiew", hu: "Kijevi Aranykapu", ro: "Poarta de Aur din Kiev", en: "Golden Gate of Kyiv",
+image: "/poi-images/ukraine-golden-gate-kyiv-landmarks-v2.webp"
+},
     coords: [30.5133, 50.4488],
     coordinates: { lat: 50.4488, lng: 30.5133 },
     description: {
@@ -57,11 +89,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construită sub Iaroslav cel Înțelept", "Include Biserica Bunei Vestiri", "A fost avariată de mongoli în 1240", "Astăzi servește ca muzeu"],
       en: ["Built during the reign of Yaroslav the Wise", "Includes the Church of the Annunciation", "Damaged by Mongols in 1240", "Functions today as a museum"],
     },
-    imageHint: "Golden Gate of Kyiv wooden and brick reconstruction", image: "/poi-images/ukraine-golden-gate-kyiv-landmarks-v2.webp"},
-  {
+imageHint: "Golden Gate of Kyiv wooden and brick reconstruction",
+    descriptionAdvanced: {
+      de: "Das Goldene Tor war im 11. Jahrhundert der Hauptzugang zur befestigten Stadt Kiew. Die heutige Struktur ist eine detailgetreue Rekonstruktion über den ursprünglichen Ruinen von 1037.",
+      hu: "A 11. századi erődítmény a középkori Kijev főbejárataként szolgált. Az 1037-ben emelt kapu mai formája egy 1982-ben elkészült hiteles rekonstrukció az eredeti romok felett.",
+      ro: "Poarta de Aur a fost intrarea principală în Kievul secolului XI. Structura actuală este o reconstrucție fidelă ridicată în 1982 deasupra ruinelor originale datând din 1037.",
+      en: "The Golden Gate served as the main ceremonial entrance to 11th-century Kyiv. Today's structure is a 1982 reconstruction built directly over the remains of the 1037 original.",
+    },
+    factsAdvanced: {
+      de: ["Bauherr Jaroslaw der Weise", "Erbaut um 1037", "Rekonstruktion im Jahr 1982", "Höhe des Torturms: 12 Meter"],
+      hu: ["Bölcs Jaroszláv építtette", "Eredetileg 1037-ben épült", "Helyreállítás: 1982-ben", "A kaputorony magassága 12 m"],
+      ro: ["Ctitor: Iaroslav cel Înțelept", "Construită inițial în 1037", "Reconstruită în anul 1982", "Înălțimea porții: 12 metri"],
+      en: ["Built by Yaroslav the Wise", "Original date: 1037", "Reconstruction date: 1982", "Gate tower height: 12 meters"],
+    },
+    image: "/poi-images/ukraine-golden-gate-kyiv-landmarks-v2.webp",
+},  {
     id: "ukraine-motherland-monument-landmarks-v2",
     type: "monument",
-    name: { de: "Mutter-Heimat-Statue", hu: "Anyaföld emlékmű", ro: "Statuia Patriei", en: "Motherland Monument" },
+    name: { de: "Mutter-Heimat-Statue", hu: "Anyaföld emlékmű", ro: "Statuia Patriei", en: "Motherland Monument",
+image: "/poi-images/ukraine-motherland-monument-landmarks-v2.webp"
+},
     coords: [30.5631, 50.4265],
     coordinates: { lat: 50.4265, lng: 30.5631 },
     description: {
@@ -76,11 +123,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Inaugurată în anul 1981", "Cântărește în total 560 de tone", "Sabia are o lungime de 16 metri", "În 2023, stema sovietică a fost înlocuită cu tridentul"],
       en: ["Inaugurated in 1981", "Total weight is 560 tons", "The sword alone is 16 meters long", "In 2023, the Soviet emblem was replaced with the Trident"],
     },
-    imageHint: "Motherland Monument Kyiv stainless steel statue with shield and sword", image: "/poi-images/ukraine-motherland-monument-landmarks-v2.webp"},
-  {
+imageHint: "Motherland Monument Kyiv stainless steel statue with shield and sword",
+    descriptionAdvanced: {
+      de: "Dieses gigantische Denkmal aus Titan thront über dem Dnipro-Ufer in Kiew. Es wurde 1981 eingeweiht und ist Teil eines Museumskomplexes zur Geschichte der Ukraine im Zweiten Weltkrieg.",
+      hu: "A kijevi Dnyeper-part felett magasodó gigantikus titánszobrot 1981-ben avatták fel. A 102 méter magas emlékmű a második világháború ukrajnai eseményeinek állít mementót.",
+      ro: "Monumentul Patriei este o sculptură gigantică din titan, inaugurată în 1981 pe malul Niprului. Face parte dintr-un complex muzeal dedicat istoriei celui de-al Doilea Război Mondial.",
+      en: "This massive titanium statue dominates the Kyiv skyline from the Dnipro banks. Inaugurated in 1981, it commemorates the defense and victory during the Second World War.",
+    },
+    factsAdvanced: {
+      de: ["Gesamthöhe 102 Meter", "Gewicht 450 Tonnen", "Aus Titan gefertigt", "Schild wiegt 13 Tonnen"],
+      hu: ["Teljes magasság: 102 méter", "450 tonna összsúly", "Titánötvözetből készült", "A pajzs súlya 13 tonna"],
+      ro: ["Înălțime totală: 102 metri", "Greutate: 450 tone", "Construit din plăci de titan", "Scutul cântărește 13 tone"],
+      en: ["Total height: 102 meters", "Total weight: 450 tons", "Made of titanium sheets", "Shield weighs 13 tons"],
+    },
+    image: "/poi-images/ukraine-motherland-monument-landmarks-v2.webp",
+},  {
     id: "ukraine-st-michaels-monastery-landmarks-v2",
     type: "cathedral",
-    name: { de: "St. Michaelskloster", hu: "Szent Mihály-székesegyház", ro: "Mănăstirea Sfântul Mihail", en: "St. Michael's Golden-Domed Monastery" },
+    name: { de: "St. Michaelskloster", hu: "Szent Mihály-székesegyház", ro: "Mănăstirea Sfântul Mihail", en: "St. Michael's Golden-Domed Monastery",
+image: "/poi-images/ukraine-st-michaels-monastery-landmarks-v2.webp"
+},
     coords: [30.5228, 50.4558],
     coordinates: { lat: 50.4558, lng: 30.5228 },
     description: {
@@ -95,11 +157,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1108", "Are cupole aurii în stil baroc", "A servit drept refugiu pentru protestatarii Euromaidan în 2014", "Situată vizavi de Catedrala Sfânta Sofia"],
       en: ["Founded in 1108", "Features Baroque-style golden domes", "Served as a refuge for Euromaidan protesters in 2014", "Located opposite Saint Sophia Cathedral"],
     },
-    imageHint: "St. Michael's Golden-Domed Monastery blue walls and gold domes", image: "/poi-images/ukraine-st-michaels-monastery-landmarks-v2.webp"},
-  {
+imageHint: "St. Michael's Golden-Domed Monastery blue walls and gold domes",
+    descriptionAdvanced: {
+      de: "Das goldgekrönte Kloster mit seinen himmelblauen Fassaden ist ein Wahrzeichen Kiews. Nach der Zerstörung durch die Sowjets wurde es Ende der 1990er Jahre originalgetreu wiederaufgebaut.",
+      hu: "Az égkék falairól és aranykupoláiról ismert kolostort eredetileg 1108-ban alapították. A szovjetek által lerombolt templomot a 90-es évek végén építették újjá eredeti formájában.",
+      ro: "Mănăstirea cu cupole aurii și fațade bleu este un simbol al Kievului. Distrusă de regimul sovietic, a fost reconstruită fidel după planurile originale la sfârșitul anilor '90.",
+      en: "Famed for its sky-blue exterior and golden domes, this monastery was founded in 1108. Destroyed by Soviets in the 1930s, it was meticulously rebuilt in the late 1990s.",
+    },
+    factsAdvanced: {
+      de: ["Erster Bau im Jahr 1108", "Abriss durch Sowjets 1934", "Wiedereröffnung im Jahr 1999", "Barocke Fassadendetails"],
+      hu: ["Eredeti alapítás: 1108", "Szovjet rombolás: 1934", "Újjáépítés éve: 1999", "Barokk homlokzati díszek"],
+      ro: ["Fondată inițial în 1108", "Demolată în anul 1934", "Reinaugurată în anul 1999", "Stil baroc ucrainean"],
+      en: ["Founded in 1108", "Destroyed by Soviets in 1934", "Reopened in 1999", "Ukrainian Baroque style"],
+    },
+    image: "/poi-images/ukraine-st-michaels-monastery-landmarks-v2.webp",
+},  {
     id: "ukraine-mariinskyi-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Marienpalast", hu: "Mariinszkij-palota", ro: "Palatul Mariinskyi", en: "Mariinskyi Palace" },
+    name: { de: "Marienpalast", hu: "Mariinszkij-palota", ro: "Palatul Mariinskyi", en: "Mariinskyi Palace",
+image: "/poi-images/ukraine-mariinskyi-palace-landmarks-v2.webp"
+},
     coords: [30.5375, 50.4483],
     coordinates: { lat: 50.4483, lng: 30.5375 },
     description: {
@@ -114,11 +191,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construit între 1744 și 1752", "Numit după împărăteasa Maria Alexandrovna", "Situat lângă clădirea Radei Supreme", "A fost renovat după un incendiu în 1870"],
       en: ["Built between 1744 and 1752", "Named after Empress Maria Alexandrovna", "Located next to the Verkhovna Rada building", "Renovated after a fire in 1870"],
     },
-    imageHint: "Mariinskyi Palace Kyiv turquoise and white facade", image: "/poi-images/ukraine-mariinskyi-palace-landmarks-v2.webp"},
-  {
+imageHint: "Mariinskyi Palace Kyiv turquoise and white facade",
+    descriptionAdvanced: {
+      de: "Dieser elegante Barockpalast dient heute als zeremonielle Residenz des ukrainischen Präsidenten. Er wurde im 18. Jahrhundert nach Entwürfen des Architekten Bartolomeo Rastrelli errichtet.",
+      hu: "A Bartolomeo Rastrelli tervei alapján, a 18. században épült barokk palota ma az ukrán elnök ceremoniális rezidenciája. Kijev egyik legszebb építészeti emléke a Dnyeper felett.",
+      ro: "Acest palat baroc elegant servește astăzi drept reședință ceremonială a președintelui Ucrainei. A fost construit în secolul XVIII după planurile arhitectului Bartolomeo Rastrelli.",
+      en: "Designed by Bartolomeo Rastrelli in the 18th century, this Baroque palace is the ceremonial residence of the President. It sits elegantly within a park overlooking the Dnipro.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 1744–1752", "Architekt B. Rastrelli", "Präsidentenresidenz", "Barockstil"],
+      hu: ["Épült 1744 és 1752 között", "Tervezője B. Rastrelli", "Elnöki rezidencia", "Barokk építészeti stílus"],
+      ro: ["Construit între 1744–1752", "Arhitect: B. Rastrelli", "Reședință prezidențială", "Stil baroc elisabetan"],
+      en: ["Built between 1744–1752", "Architect: B. Rastrelli", "Presidential residence", "Elizabethan Baroque style"],
+    },
+    image: "/poi-images/ukraine-mariinskyi-palace-landmarks-v2.webp",
+},  {
     id: "ukraine-potemkin-stairs-landmarks-v2",
     type: "monument",
-    name: { de: "Potemkinsche Treppe", hu: "Patyomkin-lépcső", ro: "Scările Potiomkin", en: "Potemkin Stairs" },
+    name: { de: "Potemkinsche Treppe", hu: "Patyomkin-lépcső", ro: "Scările Potiomkin", en: "Potemkin Stairs",
+image: "/poi-images/ukraine-potemkin-stairs-landmarks-v2.webp"
+},
     coords: [30.7411, 46.4882],
     coordinates: { lat: 46.4882, lng: 30.7411 },
     description: {
@@ -133,11 +225,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Are 192 de trepte", "A fost construită între 1837 și 1841", "Creează o iluzie optică de lățime uniformă", "Are o lungime de 142 de metri"],
       en: ["Consists of 192 steps", "Built between 1837 and 1841", "Creates an optical illusion of uniform width", "The stairway is 142 meters long"],
     },
-    imageHint: "Potemkin Stairs Odesa looking down towards the sea", image: "/poi-images/ukraine-potemkin-stairs-landmarks-v2.webp"},
-  {
+imageHint: "Potemkin Stairs Odesa looking down towards the sea",
+    descriptionAdvanced: {
+      de: "Diese monumentale Freitreppe in Odessa ist durch den Film 'Panzerkreuzer Potemkin' weltbekannt geworden. Sie verbindet die historische Altstadt optisch perfekt mit dem Hafenviertel.",
+      hu: "Az odesszai monumentális lépcsősor Eisenstein némafilmje révén vált világhírűvé. A 19. századi építmény optikai csalódást keltve köti össze a belvárost a tengeri kikötővel.",
+      ro: "Această scară monumentală din Odesa a devenit celebră în întreaga lume datorită filmului lui Serghei Eisenstein. Leagă centrul istoric de zona portuară printr-o perspectivă unică.",
+      en: "These monumental stairs in Odesa gained global fame through Sergei Eisenstein's cinema masterpiece. They create an optical illusion while connecting the city center to the harbor.",
+    },
+    factsAdvanced: {
+      de: ["Insgesamt 192 Stufen", "Länge von 142 Metern", "Erbaut 1837–1841", "Breite oben 12,5 Meter"],
+      hu: ["Összesen 192 lépcsőfok", "142 méter hosszú szakasz", "Épült 1837–1841 között", "Felső szélessége 12,5 m"],
+      ro: ["Număr de trepte: 192", "Lungime totală: 142 metri", "Construită între 1837–1841", "Lățime la vârf: 12,5 metri"],
+      en: ["Total of 192 steps", "Length of 142 meters", "Built between 1837–1841", "Top width: 12.5 meters"],
+    },
+    image: "/poi-images/ukraine-potemkin-stairs-landmarks-v2.webp",
+},  {
     id: "ukraine-odesa-opera-theater-landmarks-v2",
     type: "theater",
-    name: { de: "Opernhaus Odesa", hu: "Odesszai Operaház", ro: "Opera din Odesa", en: "Odesa Opera and Ballet Theater" },
+    name: { de: "Opernhaus Odesa", hu: "Odesszai Operaház", ro: "Opera din Odesa", en: "Odesa Opera and Ballet Theater",
+image: "/poi-images/ukraine-odesa-opera-theater-landmarks-v2.webp"
+},
     coords: [30.7411, 46.4856],
     coordinates: { lat: 46.4856, lng: 30.7411 },
     description: {
@@ -152,11 +259,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Clădirea actuală a fost deschisă în 1887", "Acustica permite auzirea șoaptelor de pe scenă", "Sala de spectacole este decorată în stil rococo", "A supraviețuit celui de-al Doilea Război Mondial aproape intactă"],
       en: ["The current building opened in 1887", "Acoustics allow whispers on stage to be heard throughout the hall", "The auditorium is decorated in Rococo style", "Survived World War II almost undamaged"],
     },
-    imageHint: "Odesa Opera and Ballet Theater facade with statues", image: "/poi-images/ukraine-odesa-opera-theater-landmarks-v2.webp"},
-  {
+imageHint: "Odesa Opera and Ballet Theater facade with statues",
+    descriptionAdvanced: {
+      de: "Das Opernhaus von Odessa gilt als eines der prächtigsten Theater Europas. Sein eklektisches Design verbindet Barock- und Rokoko-Elemente zu einem architektonischen Meisterwerk.",
+      hu: "Az odesszai operaház Európa egyik legszebb színháza, a 19. századi eklektika remeke. Belső tereit dús aranyozás, freskók és kristálycsillárok díszítik pazar eleganciával.",
+      ro: "Opera din Odesa este considerată una dintre cele mai frumoase săli de teatru din Europa. Arhitectura sa eclectică îmbină armonios elemente de baroc și rococo într-un stil fastuos.",
+      en: "Renowned as one of Europe's finest theaters, this opera house features a stunning eclectic design. It blends Baroque and Rococo styles with a lavishly decorated interior.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1887", "Architekten Fellner & Helmer", "Sitzplätze für 1600 Gäste", "Neo-Barock-Stil"],
+      hu: ["Átadva 1887-ben", "Fellner és Helmer tervezte", "1600 férőhelyes nézőtér", "Neobarokk stílus"],
+      ro: ["Inaugurată în 1887", "Arhitecți: Fellner & Helmer", "Capacitate: 1600 locuri", "Stil neobaroc"],
+      en: ["Inaugurated in 1887", "Architects: Fellner & Helmer", "Capacity: 1,600 seats", "Neo-Baroque style"],
+    },
+    image: "/poi-images/ukraine-odesa-opera-theater-landmarks-v2.webp",
+},  {
     id: "ukraine-vorontsov-palace-odesa-landmarks-v2",
     type: "palace",
-    name: { de: "Woronzow-Palast (Odesa)", hu: "Voroncov-palota (Odessza)", ro: "Palatul Voronțov (Odesa)", en: "Vorontsov Palace (Odesa)" },
+    name: { de: "Woronzow-Palast (Odesa)", hu: "Voroncov-palota (Odessza)", ro: "Palatul Voronțov (Odesa)", en: "Vorontsov Palace (Odesa)",
+image: "/poi-images/ukraine-vorontsov-palace-odesa-landmarks-v2.webp"
+},
     coords: [30.7388, 46.49],
     coordinates: { lat: 46.49, lng: 30.7388 },
     description: {
@@ -171,11 +293,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Proiectat de arhitectul Francesco Boffo", "Cunoscut pentru colonada sa distinctivă cu 20 de coloane", "A servit drept consulat britanic în secolul al XIX-lea", "Adăpostește astăzi un centru pentru tineret"],
       en: ["Designed by architect Francesco Boffo", "Famous for its distinctive 20-column colonnade", "Served as a British consulate in the 19th century", "Currently houses a youth center"],
     },
-    imageHint: "Vorontsov Palace Odesa with curved white colonnade", image: "/poi-images/ukraine-vorontsov-palace-odesa-landmarks-v2.webp"},
-  {
+imageHint: "Vorontsov Palace Odesa with curved white colonnade",
+    descriptionAdvanced: {
+      de: "Dieser klassizistische Palast wurde für den Generalgouverneur Fürst Woronzow errichtet. Besonders markant ist die freistehende Kolonnade, die einen weiten Blick über das Meer bietet.",
+      hu: "A Voroncov herceg számára épült klasszicista palota az odesszai tengerpart egyik dísze. Különálló oszlopsora, a kolonnád, gyönyörű panorámát nyújt a Fekete-tengerre.",
+      ro: "Acest palat clasicist a fost reședința guvernatorului Mihail Voronțov. Este renumit pentru colonada sa semicirculară care oferă o vedere spectaculoasă asupra portului Odesa.",
+      en: "Built for Prince Mikhail Vorontsov, this Neoclassical palace is a coastal gem. Its famous detached colonnade offers a panoramic view over the Black Sea and Odesa port.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1827", "Architekt Francesco Boffo", "Stil des Klassizismus", "Berühmte Kolonnade"],
+      hu: ["Épült 1827-ben", "Francesco Boffo tervezte", "Klasszicista stílus", "20 oszlopos kolonnád"],
+      ro: ["Anul finalizării: 1827", "Arhitect: Francesco Boffo", "Stil neoclasic", "Colonadă panoramică"],
+      en: ["Completed in 1827", "Architect: Francesco Boffo", "Neoclassical style", "Iconic colonnade"],
+    },
+    image: "/poi-images/ukraine-vorontsov-palace-odesa-landmarks-v2.webp",
+},  {
     id: "ukraine-lviv-opera-house-landmarks-v2",
     type: "theater",
-    name: { de: "Opernhaus Lwiw", hu: "Lvivi Operaház", ro: "Opera din Liov", en: "Lviv Opera House" },
+    name: { de: "Opernhaus Lwiw", hu: "Lvivi Operaház", ro: "Opera din Liov", en: "Lviv Opera House",
+image: "/poi-images/ukraine-lviv-opera-house-landmarks-v2.webp"
+},
     coords: [24.0263, 49.8439],
     coordinates: { lat: 49.8439, lng: 24.0263 },
     description: {
@@ -190,11 +327,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Deschisă în anul 1900", "Fațada este decorată cu numeroase sculpturi", "Râul Poltva curge printr-un tunel direct pe sub clădire", "Numită după cântăreața Solomiya Krushelnytska"],
       en: ["Opened in 1900", "The facade is adorned with numerous sculptures", "The Poltva River flows in a tunnel directly underneath", "Named after the opera singer Solomiya Krushelnytska"],
     },
-    imageHint: "Lviv Opera House facade at the end of a pedestrian street", image: "/poi-images/ukraine-lviv-opera-house-landmarks-v2.webp"},
-  {
+imageHint: "Lviv Opera House facade at the end of a pedestrian street",
+    descriptionAdvanced: {
+      de: "Das Opernhaus von Lwiw ist ein Prachtbau des Historismus im Herzen der Altstadt. Es wurde über dem unterirdisch kanalisierten Fluss Poltwa auf über 1000 Betonpfählen errichtet.",
+      hu: "Lviv operaháza a historizáló építészet egyik legszebb példája a város főterének közelében. Különlegessége, hogy a föld alá vezetett Poltva-folyó fölé, betonpillérekre épült.",
+      ro: "Opera din Liov este un edificiu somptuos situat în inima centrului istoric. Clădirea a fost ridicată pe mii de piloni de beton peste cursul canalizat al râului Poltva.",
+      en: "Lviv's Grand Theatre is an architectural masterpiece of the Historicist style. It was ingeniously built over the underground Poltva River using over 1,000 concrete piles.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1900", "Architekt Z. Gorgolewski", "1100 Sitzplätze", "Über dem Fluss Poltwa"],
+      hu: ["1900-ban nyílt meg", "Zygmunt Gorgolewski műve", "1100 fős befogadóképesség", "A Poltva-folyó felett áll"],
+      ro: ["Inaugurată în 1900", "Arhitect: Z. Gorgolewski", "Capacitate: 1100 locuri", "Ridicată deasupra râului"],
+      en: ["Opened in 1900", "Architect: Z. Gorgolewski", "1,100 seats", "Built over the Poltva River"],
+    },
+    image: "/poi-images/ukraine-lviv-opera-house-landmarks-v2.webp",
+},  {
     id: "ukraine-high-castle-lviv-landmarks-v2",
     type: "ruins",
-    name: { de: "Hoher Schlossberg", hu: "Lviv magas vára", ro: "Castelul Înalt din Liov", en: "High Castle Hill" },
+    name: { de: "Hoher Schlossberg", hu: "Lviv magas vára", ro: "Castelul Înalt din Liov", en: "High Castle Hill",
+image: "/poi-images/ukraine-high-castle-lviv-landmarks-v2.webp"
+},
     coords: [24.0394, 49.8481],
     coordinates: { lat: 49.8481, lng: 24.0394 },
     description: {
@@ -209,11 +361,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Altitudine de 413 metri deasupra nivelului mării", "Fortăreața a fost construită în secolul XIV sub Cazimir al III-lea", "O colină artificială a fost ridicată în 1869", "Doar o mică secțiune din vechiul zid mai există"],
       en: ["Elevation of 413 meters above sea level", "The fortress was built in the 14th century under Casimir III", "An artificial mound was raised in 1869", "Only a small section of the old wall remains"],
     },
-    imageHint: "View from High Castle Hill Lviv overlooking the city", image: "/poi-images/ukraine-high-castle-lviv-landmarks-v2.webp"},
-  {
+imageHint: "View from High Castle Hill Lviv overlooking the city",
+    descriptionAdvanced: {
+      de: "Der Schlossberg ist der höchste Punkt von Lwiw und bietet einen 360-Grad-Blick über die Stadt. Heute sind dort nur noch Ruinen der alten Festung und ein Gedenkhügel zu finden.",
+      hu: "A Várhegy Lviv legmagasabb pontja, ahonnan lenyűgöző körpanoráma nyílik az óvárosra. Az egykori vár romjai mellett a Lublini unió emlékére emelt domb a fő látványosság.",
+      ro: "Dealul Castelului este cel mai înalt punct din Liov, oferind o panoramă de 360 de grade. Astăzi, locul păstrează doar ruinele vechii fortărețe și un tumul memorial.",
+      en: "The High Castle Hill is the highest point in Lviv, providing a full panorama of the city. While only ruins of the fortress remain, the artificial mound is a popular lookout.",
+    },
+    factsAdvanced: {
+      de: ["Höhe 413 Meter", "Hügel von 1869", "Festung aus dem 13. Jh.", "Lubliner-Union-Hügel"],
+      hu: ["Tengerszint felett 413 m", "Mesterséges domb 1869-ből", "13. századi várromok", "Lublini unió dombja"],
+      ro: ["Altitudine: 413 metri", "Tumul ridicat în 1869", "Ruine din secolul XIII", "Deal memorial"],
+      en: ["Height: 413 meters", "Mound built in 1869", "13th-century ruins", "Lublin Union mound"],
+    },
+    image: "/poi-images/ukraine-high-castle-lviv-landmarks-v2.webp",
+},  {
     id: "ukraine-boim-chapel-landmarks-v2",
     type: "church",
-    name: { de: "Boim-Kapelle", hu: "Boim-kápolna", ro: "Capela Boim", en: "Boim Chapel" },
+    name: { de: "Boim-Kapelle", hu: "Boim-kápolna", ro: "Capela Boim", en: "Boim Chapel",
+image: "/poi-images/ukraine-boim-chapel-landmarks-v2.webp"
+},
     coords: [24.0311, 49.8408],
     coordinates: { lat: 49.8408, lng: 24.0311 },
     description: {
@@ -228,11 +395,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construită între 1609 și 1615", "Fațada înfățișează scene din Patimile lui Hristos", "Pe cupolă se află o figură așezată a lui Iisus", "Face parte astăzi din Galeria de Artă din Liov"],
       en: ["Built between 1609 and 1615", "The facade depicts scenes from the Passion of Christ", "Features a sitting figure of Jesus on the dome", "Part of the Lviv National Art Gallery today"],
     },
-    imageHint: "Boim Chapel Lviv dark stone facade with intricate carvings", image: "/poi-images/ukraine-boim-chapel-landmarks-v2.webp"},
-  {
+imageHint: "Boim Chapel Lviv dark stone facade with intricate carvings",
+    descriptionAdvanced: {
+      de: "Diese Familienkapelle aus dem frühen 17. Jahrhundert ist für ihre außergewöhnlich reich verzierte Steinfassade bekannt. Sie gilt als ein Juwel des Manierismus in Osteuropa.",
+      hu: "A 17. század eleji Boim-kápolna a manierista építészet egyik legkülönlegesebb példája Lvivben. Fekete kőhomlokzatát aprólékosan kidolgozott bibliai faragványok díszítik.",
+      ro: "Capela Boim este un monument funerar din secolul XVII, faimos pentru fațada sa din piatră sculptată dens. Este o capodoperă a manierismului situată lângă Catedrala Latină.",
+      en: "Built in the early 17th century, the Boim Chapel is a gem of Mannerist architecture. Its exterior is covered in intricate stone carvings depicting biblical scenes.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1609–1615", "Boim-Familienstiftung", "Manieristischer Stil", "Schwarze Sandsteinfassade"],
+      hu: ["Épült 1609 és 1615 között", "A Boim család építtette", "Manierista stílus", "Fekete homokkő faragványok"],
+      ro: ["Construită între 1609–1615", "Ctitorie a familiei Boim", "Stil manierist", "Fațadă din gresie neagră"],
+      en: ["Built 1609–1615", "Boim family chapel", "Mannerist style", "Black sandstone facade"],
+    },
+    image: "/poi-images/ukraine-boim-chapel-landmarks-v2.webp",
+},  {
     id: "ukraine-dominican-cathedral-lviv-landmarks-v2",
     type: "cathedral",
-    name: { de: "Dominikanerkirche", hu: "Dominikánus templom (Lviv)", ro: "Catedrala Dominicană din Liov", en: "Dominican Cathedral (Lviv)" },
+    name: { de: "Dominikanerkirche", hu: "Dominikánus templom (Lviv)", ro: "Catedrala Dominicană din Liov", en: "Dominican Cathedral (Lviv)",
+image: "/poi-images/ukraine-dominican-cathedral-lviv-landmarks-v2.webp"
+},
     coords: [24.0336, 49.8422],
     coordinates: { lat: 49.8422, lng: 24.0336 },
     description: {
@@ -247,11 +429,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Proiectată de arhitectul Jan de Witte", "Inscripția 'Soli Deo Honor et Gloria' pe fațadă", "A servit ca muzeu al ateismului în perioada sovietică", "Găzduiește sculpturi valoroase din lemn în interior"],
       en: ["Designed by architect Jan de Witte", "Features the inscription 'Soli Deo Honor et Gloria' on the facade", "Served as a Museum of Atheism during the Soviet era", "Houses valuable wood sculptures in the interior"],
     },
-    imageHint: "Dominican Cathedral Lviv Baroque facade and green dome", image: "/poi-images/ukraine-dominican-cathedral-lviv-landmarks-v2.webp"},
-  {
+imageHint: "Dominican Cathedral Lviv Baroque facade and green dome",
+    descriptionAdvanced: {
+      de: "Die Dominikanerkirche ist ein prachtvolles Beispiel des späten Barock in Lwiw. Ihre riesige Kuppel und die Inschrift 'Soli Deo Honor et Gloria' prägen das Stadtbild der Altstadt.",
+      hu: "A lviv-i domonkos templom a késő barokk építészet lenyűgöző alkotása. Hatalmas ellipszis alakú kupolája és homlokzati felirata messziről hirdeti Isten dicsőségét.",
+      ro: "Catedrala Dominicană este un edificiu baroc târziu impunător din Liov. Domul său uriaș și inscripția de pe fațadă domină peisajul arhitectural al centrului vechi.",
+      en: "Lviv's Dominican Cathedral is a majestic Late Baroque landmark. Its massive elliptical dome and the 'Soli Deo Honor et Gloria' inscription define the city's historic skyline.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn 1749", "Architekt Jan de Witte", "Ehemaliges Kloster", "Spätbarock-Stil"],
+      hu: ["Építés kezdete: 1749", "Jan de Witte tervezte", "Egykori kolostortemplom", "Késő barokk stílus"],
+      ro: ["Construcție începută în 1749", "Arhitect: Jan de Witte", "Fostă mănăstire", "Stil baroc târziu"],
+      en: ["Started in 1749", "Architect: Jan de Witte", "Former monastery", "Late Baroque style"],
+    },
+    image: "/poi-images/ukraine-dominican-cathedral-lviv-landmarks-v2.webp",
+},  {
     id: "ukraine-shenborn-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Schönborn", hu: "Schönborn-kastély", ro: "Palatul Schonborn", en: "Shenborn Palace" },
+    name: { de: "Schloss Schönborn", hu: "Schönborn-kastély", ro: "Palatul Schonborn", en: "Shenborn Palace",
+image: "/poi-images/ukraine-shenborn-palace-landmarks-v2.webp"
+},
     coords: [22.875, 48.525],
     coordinates: { lat: 48.525, lng: 22.875 },
     description: {
@@ -266,11 +463,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Are 365 de ferestre (zile), 52 de camere (săptămâni) și 12 intrări (luni)", "Construit între 1890 și 1895", "Lacul artificial are forma granițelor Imperiului Austro-Ungar", "Utilizat astăzi ca sanatoriu"],
       en: ["Features 365 windows (days), 52 rooms (weeks), and 12 entrances (months)", "Built between 1890 and 1895", "The artificial lake is shaped like the borders of the Austro-Hungarian Empire", "Used today as a health resort (sanatorium)"],
     },
-    imageHint: "Shenborn Palace with ornate towers and clock", image: "/poi-images/ukraine-shenborn-palace-landmarks-v2.webp"},
-  {
+imageHint: "Shenborn Palace with ornate towers and clock",
+    descriptionAdvanced: {
+      de: "Dieses märchenhafte Schloss der Grafen Schönborn in Transkarpatien folgt einem astronomischen Kalendersystem. Es liegt inmitten eines weitläufigen englischen Landschaftsparks.",
+      hu: "A Schönborn-grófok kárpátaljai kastélya egy csillagászati naptár szerint épült: 365 ablaka, 52 szobája és 12 bejárata van. Az épületet festői angolpark veszi körül.",
+      ro: "Palatul Schönborn din Transcarpatia este construit după un sistem calendaristic: are 365 de ferestre și 12 intrări. Este situat într-un parc englezesc vast și pitoresc.",
+      en: "This fairy-tale palace of the Schönborn counts follows an astronomical calendar: 365 windows, 52 rooms, and 12 entrances. It is set within a vast English landscape park.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1890", "365 Fenster (Tage)", "52 Räume (Wochen)", "Neorenaissance-Stil"],
+      hu: ["Épült 1890-ben", "365 ablak (napok)", "52 szoba (hetek)", "Neoreneszánsz stílus"],
+      ro: ["Finalizat în 1890", "365 ferestre (zile)", "52 camere (săptămâni)", "Stil neorenascentist"],
+      en: ["Built in 1890", "365 windows (days)", "52 rooms (weeks)", "Neo-Renaissance style"],
+    },
+    image: "/poi-images/ukraine-shenborn-palace-landmarks-v2.webp",
+},  {
     id: "ukraine-chernivtsi-university-landmarks-v2",
     type: "university",
-    name: { de: "Residenz der bukowinischen Metropoliten", hu: "A bukovinai metropoliták rezidenciája", ro: "Reședința mitropoliților Bucovinei", en: "Residence of Bukovinian and Dalmatian Metropolitans" },
+    name: { de: "Residenz der bukowinischen Metropoliten", hu: "A bukovinai metropoliták rezidenciája", ro: "Reședința mitropoliților Bucovinei", en: "Residence of Bukovinian and Dalmatian Metropolitans",
+image: "/poi-images/ukraine-chernivtsi-university-landmarks-v2.webp"
+},
     coords: [25.9244, 48.2969],
     coordinates: { lat: 48.2969, lng: 25.9244 },
     description: {
@@ -285,11 +497,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Proiectată de arhitectul ceh Josef Hlávka", "Patrimoniu Mondial UNESCO din 2011", "Construcția a durat din 1864 până în 1882", "Țiglele de pe acoperiș formează modele tradiționale bucovinene"],
       en: ["Designed by Czech architect Josef Hlávka", "UNESCO World Heritage site since 2011", "Construction lasted from 1864 to 1882", "The roof tiles form traditional Bukovinian patterns"],
     },
-    imageHint: "Chernivtsi University complex with red brick walls and patterned roofs", image: "/poi-images/ukraine-chernivtsi-university-landmarks-v2.webp"},
-  {
+imageHint: "Chernivtsi University complex with red brick walls and patterned roofs",
+    descriptionAdvanced: {
+      de: "Die ehemalige Residenz der bukowinischen Metropoliten ist ein UNESCO-Weltkulturerbe. Das Bauwerk beeindruckt durch seine farbenfrohen Dachziegel und eklektische Ziegelarchitektur.",
+      hu: "A bukovinai metropoliták egykori rezidenciája ma egyetemnek ad otthont. A színes tetőcserepeiről és vörös tégláiról híres épületegyüttes az UNESCO Világörökség része.",
+      ro: "Fosta reședință a mitropoliților Bucovinei este un sit UNESCO remarcabil. Arhitectura sa eclectică din cărămidă roșie și țiglele colorate creează un ansamblu vizual unic.",
+      en: "The former Residence of Bukovinian Metropolitans is a stunning UNESCO World Heritage site. It features intricate brickwork and vibrant roof tiles in a unique eclectic style.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1864–1882", "Architekt Josef Hlavka", "UNESCO-Status seit 2011", "Heutige Universität"],
+      hu: ["Épült 1864 és 1882 között", "Josef Hlavka tervezte", "UNESCO-helyszín 2011 óta", "Ma állami egyetem"],
+      ro: ["Construită între 1864–1882", "Arhitect: Josef Hlavka", "Situl UNESCO din 2011", "Actuala Universitate"],
+      en: ["Built 1864–1882", "Architect: Josef Hlavka", "UNESCO listed in 2011", "Current State University"],
+    },
+    image: "/poi-images/ukraine-chernivtsi-university-landmarks-v2.webp",
+},  {
     id: "ukraine-house-with-chimaeras-landmarks-v2",
     type: "landmark",
-    name: { de: "Haus mit den Chimären", hu: "Kimérás ház", ro: "Casa cu Himere", en: "House with Chimaeras" },
+    name: { de: "Haus mit den Chimären", hu: "Kimérás ház", ro: "Casa cu Himere", en: "House with Chimaeras",
+image: "/poi-images/ukraine-house-with-chimaeras-landmarks-v2.webp"
+},
     coords: [30.5286, 50.445],
     coordinates: { lat: 50.445, lng: 30.5286 },
     description: {
@@ -304,11 +531,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construită între 1901 și 1902", "Situată vizavi de Administrația Prezidențială a Ucrainei", "Servește astăzi ca reședință pentru recepții oficiale", "A utilizat un material inovator la acea vreme: cimentul Portland"],
       en: ["Built between 1901 and 1902", "Located opposite the Presidential Administration of Ukraine", "Functions as a residence for official receptions today", "Made using Portland cement, which was innovative at the time"],
     },
-    imageHint: "House with Chimaeras Kyiv with animal sculptures on the facade", image: "/poi-images/ukraine-house-with-chimaeras-landmarks-v2.webp"},
-  {
+imageHint: "House with Chimaeras Kyiv with animal sculptures on the facade",
+    descriptionAdvanced: {
+      de: "Dieses außergewöhnliche Jugendstilhaus in Kiew ist mit bizarren Betonskulpturen von Tieren und Fabelwesen geschmückt. Es diente dem Architekten Horodecki als privates Wohnhaus.",
+      hu: "Horodecki építész saját lakóháza a kijevi szecesszió egyik legkülönösebb emléke. Homlokzatát állatokat és mitikus lényeket ábrázoló beton-szobrok sokasága borítja.",
+      ro: "Această clădire Art Nouveau din Kiev este decorată cu sculpturi bizare din beton reprezentând animale și creaturi mitice. A fost locuința privată a arhitectului Horodecki.",
+      en: "This Art Nouveau villa in Kyiv is famous for its concrete sculptures of animals and mythical creatures. It was built by architect Horodecki as his own private residence.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1901–1902", "Architekt W. Horodecki", "Erstes Betonhaus Kiews", "Präsidenten-Empfangsort"],
+      hu: ["Épült 1901–1902-ben", "W. Horodecki műve", "Kijev első betonháza", "Elnöki fogadóhelyszín"],
+      ro: ["Construită între 1901–1902", "Arhitect: W. Horodecki", "Prima casă din beton", "Protocol prezidențial"],
+      en: ["Built 1901–1902", "Architect: W. Horodecki", "Kyiv's first concrete house", "Presidential guesthouse"],
+    },
+    image: "/poi-images/ukraine-house-with-chimaeras-landmarks-v2.webp",
+},  {
     id: "ukraine-derzhprom-kharkiv-landmarks-v2",
     type: "landmark",
-    name: { de: "Derschprom", hu: "Derzsprom", ro: "Derzhprom", en: "Derzhprom" },
+    name: { de: "Derschprom", hu: "Derzsprom", ro: "Derzhprom", en: "Derzhprom",
+image: "/poi-images/ukraine-derzhprom-kharkiv-landmarks-v2.webp"
+},
     coords: [36.2281, 50.0058],
     coordinates: { lat: 50.0058, lng: 36.2281 },
     description: {
@@ -323,11 +565,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Format dintr-un grup de clădiri legate prin poduri", "Punctul cel mai înalt are 63 de metri (108 metri cu antenă)", "Construită în doar trei ani (1925-1928)", "Situată în Piața Libertății"],
       en: ["Consists of a group of buildings connected by bridges", "Highest point reaches 63 meters (108 meters with the antenna)", "Built in just three years (1925-1928)", "Located on Freedom Square"],
     },
-    imageHint: "Derzhprom building Kharkiv Constructivist architecture", image: "/poi-images/ukraine-derzhprom-kharkiv-landmarks-v2.webp"},
-  {
+imageHint: "Derzhprom building Kharkiv Constructivist architecture",
+    descriptionAdvanced: {
+      de: "Das Derzhprom in Charkiw war bei seiner Fertigstellung 1928 das höchste Gebäude der Sowjetunion. Es ist ein weltweit bedeutendes Monument der konstruktivistischen Architektur.",
+      hu: "A harkivi Állami Ipar épülete 1928-ban a Szovjetunió legmagasabb felhőkarcolója volt. A konstruktivista építészet remekműve betonból és üvegből készült monolit tömbökkel.",
+      ro: "Derzhprom din Harkov a fost cea mai înaltă clădire din Uniunea Sovietică la momentul finalizării în 1928. Este un monument de referință al arhitecturii constructiviste mondiale.",
+      en: "Completed in 1928, the Derzhprom was the Soviet Union's first skyscraper. It remains one of the world's most significant examples of Constructivist architecture.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung 1928", "Höhe von 63 Metern", "Konstruktivistischer Stil", "Am Freiheitsplatz"],
+      hu: ["Átadva 1928-ban", "63 méteres magasság", "Konstruktivista stílus", "A Szabadság téren áll"],
+      ro: ["Finalizat în 1928", "Înălțime: 63 metri", "Stil constructivist", "Piața Libertății"],
+      en: ["Completed in 1928", "Height of 63 meters", "Constructivist style", "Located on Liberty Square"],
+    },
+    image: "/poi-images/ukraine-derzhprom-kharkiv-landmarks-v2.webp",
+},  {
     id: "ukraine-taras-shevchenko-opera-landmarks-v2",
     type: "theater",
-    name: { de: "Nationaloper der Ukraine", hu: "Tarasz Sevcsenko Nemzeti Opera", ro: "Opera Națională a Ucrainei", en: "Taras Shevchenko National Opera of Ukraine" },
+    name: { de: "Nationaloper der Ukraine", hu: "Tarasz Sevcsenko Nemzeti Opera", ro: "Opera Națională a Ucrainei", en: "Taras Shevchenko National Opera of Ukraine",
+image: "/poi-images/ukraine-taras-shevchenko-opera-landmarks-v2.webp"
+},
     coords: [30.5125, 50.4467],
     coordinates: { lat: 50.4467, lng: 30.5125 },
     description: {
@@ -342,11 +599,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Clădirea actuală a fost deschisă în 1901", "Sala de spectacole are o capacitate de aproximativ 1600 de persoane", "Locul asasinării premierului rus Stolîpin în 1911", "A fost renovată extensiv în anii 1980"],
       en: ["The current building opened in 1901", "The auditorium accommodates about 1,600 people", "Site of the assassination of Russian Prime Minister Stolypin in 1911", "Underwent extensive renovation in the 1980s"],
     },
-    imageHint: "National Opera of Ukraine Kyiv facade", image: "/poi-images/ukraine-taras-shevchenko-opera-landmarks-v2.webp"},
-  {
+imageHint: "National Opera of Ukraine Kyiv facade",
+    descriptionAdvanced: {
+      de: "Das Nationaloper-Haus in Kiew besticht durch seine prachtvolle Neorenaissance-Fassade. Es ist ein kulturelles Herzstück der Ukraine mit einer der besten Akustiken des Landes.",
+      hu: "A kijevi Nemzeti Operaház neoreneszánsz épülete az ország egyik legfontosabb kulturális központja. A 20. század elején emelt színház híres kiváló akusztikájáról.",
+      ro: "Opera Națională din Kiev impresionează prin fațada sa somptuoasă în stil neorenascentist. Este inima culturală a Ucrainei, oferind una dintre cele mai bune acustici din țară.",
+      en: "Kyiv's National Opera is a grand Neo-Renaissance theater at the city's cultural heart. Opened in 1901, it is renowned for its world-class acoustics and lavish interiors.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1901", "Architekt Viktor Schröter", "1650 Sitzplätze", "Neorenaissance-Stil"],
+      hu: ["Épült 1901-ben", "Viktor Schröter tervezte", "1650 férőhely", "Neoreneszánsz stílus"],
+      ro: ["Inaugurată în 1901", "Arhitect: Viktor Schröter", "Capacitate: 1650 locuri", "Stil neorenascentist"],
+      en: ["Inaugurated in 1901", "Architect: Viktor Schröter", "1,650 seats", "Neo-Renaissance style"],
+    },
+    image: "/poi-images/ukraine-taras-shevchenko-opera-landmarks-v2.webp",
+},  {
     id: "ukraine-st-nicholas-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "St.-Nikolaus-Kathedrale (Kiew)", hu: "Szent Miklós-székesegyház (Kijev)", ro: "Catedrala Sfântul Nicolae (Kiev)", en: "St. Nicholas Roman Catholic Cathedral" },
+    name: { de: "St.-Nikolaus-Kathedrale (Kiew)", hu: "Szent Miklós-székesegyház (Kijev)", ro: "Catedrala Sfântul Nicolae (Kiev)", en: "St. Nicholas Roman Catholic Cathedral",
+image: "/poi-images/ukraine-st-nicholas-cathedral-landmarks-v2.webp"
+},
     coords: [30.5175, 50.4272],
     coordinates: { lat: 50.4272, lng: 30.5175 },
     description: {
@@ -361,11 +633,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construită între 1899 și 1909", "Are o orgă cu aproape 4000 de tuburi", "A fost restaurată după un incendiu în 2021", "Fațada este decorată cu numeroase sculpturi neogotice"],
       en: ["Built between 1899 and 1909", "Houses an organ with nearly 4,000 pipes", "Underwent restoration after a fire in 2021", "The facade is adorned with many Neo-Gothic sculptures"],
     },
-    imageHint: "St. Nicholas Roman Catholic Cathedral Kyiv Neo-Gothic spires", image: "/poi-images/ukraine-st-nicholas-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "St. Nicholas Roman Catholic Cathedral Kyiv Neo-Gothic spires",
+    descriptionAdvanced: {
+      de: "Diese römisch-katholische Kirche in Kiew ist ein Meisterwerk der Neogotik. Ihre spitzen Türme und filigranen Verzierungen stammen vom berühmten Architekten Wladyslaw Horodecki.",
+      hu: "A kijevi Szent Miklós-templom a neogótika egyik legszebb ukrajnai példája. Horodecki tervei alapján épült, karcsú tornyai és kőcsipkéi a középkori katedrálisokat idézik.",
+      ro: "Catedrala Sfântul Nicolae din Kiev este o capodoperă a stilului neogotic. Turnurile sale zvelte și decorațiunile filigrane au fost proiectate de celebrul arhitect Horodecki.",
+      en: "This Roman Catholic cathedral in Kyiv is a masterpiece of Neo-Gothic architecture. Designed by Horodecki, its slender spires and stone carvings resemble medieval cathedrals.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1899–1909", "Architekt W. Horodecki", "Neogotischer Stil", "Orgelkonzerthalle"],
+      hu: ["Épült 1899–1909 között", "W. Horodecki tervezte", "Neogótikus stílus", "Orgonahangversenyek helyszíne"],
+      ro: ["Construită între 1899–1909", "Arhitect: W. Horodecki", "Stil neogotic", "Sală de concerte de orgă"],
+      en: ["Built 1899–1909", "Architect: W. Horodecki", "Neo-Gothic style", "Used as an organ hall"],
+    },
+    image: "/poi-images/ukraine-st-nicholas-cathedral-landmarks-v2.webp",
+},  {
     id: "ukraine-st-volodymyr-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Wladimirkathedrale", hu: "Szent Vlagyimir-székesegyház", ro: "Catedrala Sfântul Vladimir", en: "St. Volodymyr's Cathedral" },
+    name: { de: "Wladimirkathedrale", hu: "Szent Vlagyimir-székesegyház", ro: "Catedrala Sfântul Vladimir", en: "St. Volodymyr's Cathedral",
+image: "/poi-images/ukraine-st-volodymyr-cathedral-landmarks-v2.webp"
+},
     coords: [30.5092, 50.4447],
     coordinates: { lat: 50.4447, lng: 30.5092 },
     description: {
@@ -380,11 +667,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construită pentru a 900-a aniversare a creștinării Rusiei Kievene", "Are șapte cupole aurite", "Construcția s-a desfășurat între 1862 și 1882", "Adăpostește moaștele Sfintei Varvara"],
       en: ["Built to commemorate the 900th anniversary of the Christianization of Kyivan Rus", "Features seven gilded domes", "Construction spanned from 1862 to 1882", "Houses the relics of Saint Barbara"],
     },
-    imageHint: "St. Volodymyr's Cathedral Kyiv yellow exterior and gold domes", image: "/poi-images/ukraine-st-volodymyr-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "St. Volodymyr's Cathedral Kyiv yellow exterior and gold domes",
+    descriptionAdvanced: {
+      de: "Die Wladimirkathedrale ist ein Hauptheiligtum der ukrainisch-orthodoxen Kirche. Ihr Innenraum ist berühmt für die kunstvollen Fresken von Malern wie Wiktor Wasnezow und Michail Wrubel.",
+      hu: "A Szent Vlagyimir-székesegyház az ortodox hitélet egyik központja Kijevben. Belső tereit a 19. század végének híres orosz festői díszítették monumentális neobizánci stílusban.",
+      ro: "Catedrala Sfântul Vladimir este una dintre principalele catedrale ortodoxe din Kiev. Interiorul său este faimos pentru frescele pictate de mari artiști precum Vasnețov și Vrubel.",
+      en: "St. Volodymyr's Cathedral is a primary seat of the Orthodox Church in Kyiv. Its interior is renowned for masterpieces of mural painting by artists like Vasnetsov and Vrubel.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1862–1882", "Neobyzantinischer Stil", "9 vergoldete Kuppeln", "Berühmte Fresken"],
+      hu: ["Épült 1862 és 1882 között", "Neobizánci stílus", "9 aranyozott kupola", "Világhírű falfestmények"],
+      ro: ["Construită între 1862–1882", "Stil neobizantin", "9 cupole aurite", "Picturi murale celebre"],
+      en: ["Built 1862–1882", "Neo-Byzantine style", "9 gilded domes", "Famous interior frescoes"],
+    },
+    image: "/poi-images/ukraine-st-volodymyr-cathedral-landmarks-v2.webp",
+},  {
     id: "ukraine-arch-of-freedom-landmarks-v2",
     type: "monument",
-    name: { de: "Bogen der Freiheit des ukrainischen Volkes", hu: "Az ukrán nép szabadságának íve", ro: "Arcul Libertății Poporului Ucrainean", en: "Arch of Freedom of the Ukrainian People" },
+    name: { de: "Bogen der Freiheit des ukrainischen Volkes", hu: "Az ukrán nép szabadságának íve", ro: "Arcul Libertății Poporului Ucrainean", en: "Arch of Freedom of the Ukrainian People",
+image: "/poi-images/ukraine-arch-of-freedom-landmarks-v2.webp"
+},
     coords: [30.5297, 50.4547],
     coordinates: { lat: 50.4547, lng: 30.5297 },
     description: {
@@ -399,11 +701,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Are un diametru de 60 de metri", "A fost inaugurat în anul 1982", "Situat în parcul Kreșciatik", "Oferă o platformă de observație deasupra râului"],
       en: ["Has a diameter of 60 meters", "Inaugurated in 1982", "Located in Khreshchatyk Park", "Features an observation deck overlooking the river"],
     },
-    imageHint: "Arch of Freedom of the Ukrainian People Kyiv large metal arch", image: "/poi-images/ukraine-arch-of-freedom-landmarks-v2.webp"},
-  {
+imageHint: "Arch of Freedom of the Ukrainian People Kyiv large metal arch",
+    descriptionAdvanced: {
+      de: "Dieser monumentale Titanbogen am Dnipro-Hang wurde ursprünglich 1982 errichtet. Nach der russischen Invasion wurde er umbenannt und symbolisiert heute die Freiheit des ukrainischen Volkes.",
+      hu: "A Dnyeper fölé magasodó monumentális titánív eredetileg 1982-ben épült. Az orosz invázió után átnevezték, ma az ukrán nép szabadságát és ellenállását jelképezi.",
+      ro: "Acest arc monumental din titan situat pe malul Niprului a fost ridicat în 1982. Redenumit recent, simbolizează astăzi lupta pentru libertate a poporului ucrainean.",
+      en: "This massive titanium arch overlooking the Dnipro was originally built in 1982. Recently renamed, it now serves as a powerful symbol of the Ukrainian people's freedom.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1982", "Durchmesser 35 Meter", "Aus Titan gefertigt", "Aussichtspunkt"],
+      hu: ["1982-ben emelték", "Átmérője 35 méter", "Titánötvözetből készült", "Kilátóterasz"],
+      ro: ["Inaugurat în 1982", "Diametru: 35 metri", "Construit din titan", "Punct de belvedere"],
+      en: ["Built in 1982", "Diameter: 35 meters", "Made of titanium", "Scenic observation point"],
+    },
+    image: "/poi-images/ukraine-arch-of-freedom-landmarks-v2.webp",
+},  {
     id: "ukraine-bohdanh-khmelnytsky-monument-landmarks-v2",
     type: "monument",
-    name: { de: "Bohdan-Chmelnyzkyj-Denkmal", hu: "Bohdan Hmelnyickij-emlékmű", ro: "Monumentul lui Bogdan Hmelnițki", en: "Monument to Bohdan Khmelnytsky" },
+    name: { de: "Bohdan-Chmelnyzkyj-Denkmal", hu: "Bohdan Hmelnyickij-emlékmű", ro: "Monumentul lui Bogdan Hmelnițki", en: "Monument to Bohdan Khmelnytsky",
+image: "/poi-images/ukraine-bohdanh-khmelnytsky-monument-landmarks-v2.webp"
+},
     coords: [30.5164, 50.4536],
     coordinates: { lat: 50.4536, lng: 30.5164 },
     description: {
@@ -418,12 +735,27 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Dezvelit în anul 1888", "Proiectat de sculptorul Mihail Mikeșin", "Figura este turnată în bronz", "Situat în fața Catedralei Sfânta Sofia"],
       en: ["Unveiled in 1888", "Designed by sculptor Mikhail Mikeshin", "The figure is cast in bronze", "Located in front of Saint Sophia Cathedral"],
     },
-    imageHint: "Bohdan Khmelnytsky Monument Kyiv equestrian statue in the square", image: "/poi-images/ukraine-bohdanh-khmelnytsky-monument-landmarks-v2.webp"}
-,
+imageHint: "Bohdan Khmelnytsky Monument Kyiv equestrian statue in the square",
+    descriptionAdvanced: {
+      de: "Das Reiterstandbild auf dem Sophienplatz ist eines der ältesten und bekanntesten Denkmäler Kiews. Es erinnert an den Hetman, der im 17. Jahrhundert den Kosakenstaat anführte.",
+      hu: "A Szent Szófia téren álló lovasszobor Kijev egyik legrégebbi emlékműve. Bohdan Hmelnickij hetmannak állít emléket, aki a 17. századi kozák állam vezetője volt.",
+      ro: "Această statuie ecvestră din Piața Sfânta Sofia este unul dintre cele mai vechi monumente din Kiev. Îl reprezintă pe hatmanul care a condus statul cazac în secolul XVII.",
+      en: "Dominating Sophia Square, this equestrian statue is a historic symbol of Kyiv. It honors the 17th-century Hetman who led the Cossacks in their fight for independence.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung 1888", "Bildhauer Michail Mikeschin", "Bronze auf Granitsockel", "Am Sophienplatz"],
+      hu: ["1888-ban avatták fel", "Mihail Mikesin alkotása", "Bronz szobor gránit talapzaton", "A Szófia téren található"],
+      ro: ["Inaugurat în 1888", "Sculptor: Mihail Mikeșin", "Bronz pe soclu de granit", "Piața Sfânta Sofia"],
+      en: ["Unveiled in 1888", "Sculptor: Mikhail Mikeshin", "Bronze on granite pedestal", "Located in Sophia Square"],
+    },
+    image: "/poi-images/ukraine-bohdanh-khmelnytsky-monument-landmarks-v2.webp",
+},
   {
     id: "ukraine-st-andrews-church-landmarks-v2",
     type: "church",
-    name: { de: "Andreaskirche", hu: "Szent András-templom", ro: "Biserica Sfântul Andrei", en: "St. Andrew's Church" },
+    name: { de: "Andreaskirche", hu: "Szent András-templom", ro: "Biserica Sfântul Andrei", en: "St. Andrew's Church",
+image: "/poi-images/ukraine-st-andrews-church-landmarks-v2.webp"
+},
     coords: [30.5181, 50.4589],
     coordinates: { lat: 50.4589, lng: 30.5181 },
     description: {
@@ -439,11 +771,25 @@ export const ukraineLandmarksV2: POI[] = [
       en: ["Designed by Bartolomeo Rastrelli", "Built in Ukrainian Baroque style", "Lacks traditional bell towers", "Located at the top of Andriyivskyy Descent"],
     },
     imageHint: "St. Andrew's Church Kyiv turquoise facade",
+    descriptionAdvanced: {
+      de: "Die Andreaskirche thront auf einem steilen Hügel über dem historischen Viertel Podil. Das Meisterwerk des Barock wurde vom Hofarchitekten Bartolomeo Rastrelli entworfen.",
+      hu: "A Szent András-templom a kijevi Podil negyed feletti dombon áll. A 18. századi barokk építészet remekműve Bartolomeo Rastrelli udvari építész tervei alapján készült.",
+      ro: "Biserica Sfântul Andrei domină cartierul istoric Podil de pe o colină abruptă. Capodopera barocă a fost proiectată de celebrul arhitect Bartolomeo Rastrelli.",
+      en: "St. Andrew's Church sits atop a steep hill overlooking the historic Podil district. Designed by Bartolomeo Rastrelli, it is a supreme example of Baroque architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1747–1754", "Architekt B. Rastrelli", "Ohne Glockenturm", "Barockstil"],
+      hu: ["Épült 1747–1754 között", "B. Rastrelli tervezte", "Nincs harangtornya", "Barokk stílus"],
+      ro: ["Construită între 1747–1754", "Arhitect: B. Rastrelli", "Nu are clopotniță", "Stil baroc"],
+      en: ["Built 1747–1754", "Architect: B. Rastrelli", "No bell tower built", "Baroque style"],
+    },
   },
   {
     id: "ukraine-pochayiv-lavra-landmarks-v2",
     type: "landmark",
-    name: { de: "Mariä-Entschlafens-Kloster von Potschajiw", hu: "Pocshajivi lavra", ro: "Lavra Poceaiv", en: "Pochayiv Lavra" },
+    name: { de: "Mariä-Entschlafens-Kloster von Potschajiw", hu: "Pocshajivi lavra", ro: "Lavra Poceaiv", en: "Pochayiv Lavra",
+image: "/poi-images/ukraine-pochayiv-lavra-landmarks-v2.webp"
+},
     coords: [25.5083, 50.005],
     coordinates: { lat: 50.005, lng: 25.5083 },
     description: {
@@ -458,11 +804,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["A doua cea mai mare mănăstire din Ucraina", "Fondată conform legendei în anul 1240", "Catedrala are o înălțime de 56 de metri", "Deține un iconostas aurit"],
       en: ["Second largest monastery in Ukraine", "Founded according to legend in 1240", "The main cathedral is 56 meters high", "Features a gilded iconostasis"],
     },
-    imageHint: "Pochayiv Lavra monastery complex golden domes", image: "/poi-images/ukraine-pochayiv-lavra-landmarks-v2.webp"},
-  {
+imageHint: "Pochayiv Lavra monastery complex golden domes",
+    descriptionAdvanced: {
+      de: "Das Kloster Potschajiw ist das bedeutendste orthodoxe Heiligtum im Westen der Ukraine. Die goldglänzende Anlage auf einem Hügel beherbergt eine Marienikone und den Fußabdruck der Muttergottes.",
+      hu: "A pocsajivi kolostor Nyugat-Ukrajna legfontosabb ortodox zarándokhelye. A dombtetőn álló aranykupolás épületegyüttes híres csodatévő ikonjáról és a Szűzanya lábnyomáról.",
+      ro: "Lavra Poceaev este cel mai important centru spiritual ortodox din vestul Ucrainei. Complexul adăpostește Icoana Făcătoare de Minuni și urma tălpii Maicii Domnului în stâncă.",
+      en: "Pochayiv Lavra is the premier Orthodox pilgrimage site in Western Ukraine. The hilltop complex is home to a miracle-working icon and the footprint of the Mother of God.",
+    },
+    factsAdvanced: {
+      de: ["Gründung um 1240", "Hauptkirche von 1771", "Zweitgrößte Lavra", "Marien-Zentrum"],
+      hu: ["Alapítás: 1240 körül", "Főszékesegyház: 1771", "Az ország 2. legnagyobb kolostora", "Mária-kegyhely"],
+      ro: ["Fondată în jurul anului 1240", "Catedrala din 1771", "A doua Lavră ca mărime", "Centru de pelerinaj"],
+      en: ["Founded around 1240", "Main cathedral from 1771", "Second largest Lavra", "Marian pilgrimage site"],
+    },
+    image: "/poi-images/ukraine-pochayiv-lavra-landmarks-v2.webp",
+},  {
     id: "ukraine-sviatohirsk-lavra-landmarks-v2",
     type: "landmark",
-    name: { de: "Kloster Swjatohirsk", hu: "Szvjatohirszki lavra", ro: "Lavra Sviatohirsk", en: "Sviatohirsk Lavra" },
+    name: { de: "Kloster Swjatohirsk", hu: "Szvjatohirszki lavra", ro: "Lavra Sviatohirsk", en: "Sviatohirsk Lavra",
+image: "/poi-images/ukraine-sviatohirsk-lavra-landmarks-v2.webp"
+},
     coords: [37.5678, 49.0283],
     coordinates: { lat: 49.0283, lng: 37.5678 },
     description: {
@@ -477,11 +838,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Situată în Munții Sfinți", "Prima mențiune documentară în 1526", "Parțial sculptată în stâncă de cretă", "A primit statutul de lavră în 2004"],
       en: ["Located in the Holy Mountains", "First recorded mention in 1526", "Partially carved into chalk cliffs", "Granted Lavra status in 2004"],
     },
-    imageHint: "Sviatohirsk Lavra white cliffs monastery", image: "/poi-images/ukraine-sviatohirsk-lavra-landmarks-v2.webp"},
-  {
+imageHint: "Sviatohirsk Lavra white cliffs monastery",
+    descriptionAdvanced: {
+      de: "Dieses Kloster liegt spektakulär an den Kreidefelsen des Seversky Donets. Die Mönchszellen wurden direkt in den weißen Fels gehauen, was der Anlage ein einzigartiges Aussehen verleiht.",
+      hu: "A Szvjatohirszk-i kolostor a Donyec-folyó feletti krétahegyek oldalában fekszik. A szerzetesi cellákat közvetlenül a fehér sziklába vájták, ami különleges látványt nyújt.",
+      ro: "Mănăstirea Sveatohirsk este situată spectaculos pe malul stâncos de cretă al râului Doneț. Chiliile călugărilor sunt săpate direct în muntele alb, oferind un aspect unic.",
+      en: "Perched on chalk cliffs above the Donets River, this monastery is truly spectacular. Some of its chapels and cells are carved directly into the white mountainside.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung 1526", "Kreidefelsen-Kloster", "Nationalpark Heilige Berge", "Höhlenkirchen"],
+      hu: ["Első említés: 1526", "Krétahegyi kolostor", "Szent Hegyek Nemzeti Park", "Barlangtemplomok"],
+      ro: ["Prima atestare în 1526", "Muntele de cretă", "Parcul Munții Sfinți", "Biserici rupestre"],
+      en: ["First mentioned in 1526", "Built into chalk cliffs", "Holy Mountains Park", "Cave churches"],
+    },
+    image: "/poi-images/ukraine-sviatohirsk-lavra-landmarks-v2.webp",
+},  {
     id: "ukraine-verkhovna-rada-building-landmarks-v2",
     type: "landmark",
-    name: { de: "Gebäude der Werchowna Rada", hu: "Verhovna Rada épülete", ro: "Clădirea Radei Supreme", en: "Verkhovna Rada Building" },
+    name: { de: "Gebäude der Werchowna Rada", hu: "Verhovna Rada épülete", ro: "Clădirea Radei Supreme", en: "Verkhovna Rada Building",
+image: "/poi-images/ukraine-verkhovna-rada-building-landmarks-v2.webp"
+},
     coords: [30.5369, 50.4472],
     coordinates: { lat: 50.4472, lng: 30.5369 },
     description: {
@@ -496,11 +872,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Arhitectul a fost Volodîmîr Zabolotnîi", "Finalizată în anul 1939", "Sediul parlamentului Ucrainei", "Posedă o cupolă centrală de sticlă"],
       en: ["Architect was Volodymyr Zabolotny", "Construction completed in 1939", "Seat of the Ukrainian Parliament", "Features a central glass dome"],
     },
-    imageHint: "Verkhovna Rada building Kyiv parliament dome", image: "/poi-images/ukraine-verkhovna-rada-building-landmarks-v2.webp"},
-  {
+imageHint: "Verkhovna Rada building Kyiv parliament dome",
+    descriptionAdvanced: {
+      de: "Das Parlamentsgebäude in Kiew ist der Sitz der gesetzgebenden Gewalt der Ukraine. Es wurde 1939 fertiggestellt und zeichnet sich durch seine monumentale Glaskuppel aus.",
+      hu: "Az ukrán parlament kijevi épülete a törvényhozó hatalom központja. Az 1939-ben elkészült, monumentális stílusú épület jellegzetessége a központi üvegkupola.",
+      ro: "Clădirea Radei Supreme din Kiev este sediul puterii legislative a Ucrainei. Finalizată în 1939, construcția se remarcă prin domul său monumental din sticlă și oțel.",
+      en: "The Verkhovna Rada building is the seat of the Ukrainian Parliament in Kyiv. Completed in 1939, it features a distinctive glass dome over the main debating chamber.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1939", "Architekt W. Sabolotnyj", "Glaskuppel im Zentrum", "Sitz des Parlaments"],
+      hu: ["Átadva 1939-ben", "Volodimir Zabolotnij tervezte", "Központi üvegkupola", "A törvényhozás székhelye"],
+      ro: ["Finalizată în 1939", "Arhitect: V. Zabolotnîi", "Dom central de sticlă", "Sediul Parlamentului"],
+      en: ["Completed in 1939", "Architect: V. Zabolotnyi", "Central glass dome", "Parliament seat"],
+    },
+    image: "/poi-images/ukraine-verkhovna-rada-building-landmarks-v2.webp",
+},  {
     id: "ukraine-mirror-stream-kharkiv-landmarks-v2",
     type: "landmark",
-    name: { de: "Spiegelstrom-Brunnen", hu: "Tükör-patak szökőkút", ro: "Fântâna Fluxul de Oglindă", en: "Mirror Stream Fountain" },
+    name: { de: "Spiegelstrom-Brunnen", hu: "Tükör-patak szökőkút", ro: "Fântâna Fluxul de Oglindă", en: "Mirror Stream Fountain",
+image: "/poi-images/ukraine-mirror-stream-kharkiv-landmarks-v2.webp"
+},
     coords: [36.2344, 49.9983],
     coordinates: { lat: 49.9983, lng: 36.2344 },
     description: {
@@ -515,11 +906,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construită în anul 1947", "Arhitectul a fost Viktor Korner", "Numele oficial este Fântâna Victoriei", "Renovată complet în anul 2007"],
       en: ["Built in the year 1947", "Architect was Viktor Korner", "Official name is Victory Fountain", "Completely renovated in 2007"],
     },
-    imageHint: "Mirror Stream fountain Kharkiv white gazebo", image: "/poi-images/ukraine-mirror-stream-kharkiv-landmarks-v2.webp"},
-  {
+imageHint: "Mirror Stream fountain Kharkiv white gazebo",
+    descriptionAdvanced: {
+      de: "Dieser elegante Pavillon mit Springbrunnen ist eines der Wahrzeichen von Charkiw. Er wurde 1947 zum Gedenken an den Sieg im Zweiten Weltkrieg in einem malerischen Park errichtet.",
+      hu: "A harkivi Tükör-forrás egy elegáns pavilon és szökőkút-rendszer a város szívében. 1947-ben emelték a háborús győzelem emlékére, azóta a város egyik kedvelt jelképe.",
+      ro: "Fântâna Oglinzii este unul dintre simbolurile orașului Harkov. Acest pavilion elegant cu fântâni arteziene a fost ridicat în 1947 pentru a comemora victoria din război.",
+      en: "The Mirror Stream is an elegant pavilion and fountain system in central Kharkiv. Built in 1947 to celebrate victory, it is now one of the city's most beloved symbols.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1947", "Wahrzeichen von Charkiw", "Nachtbeleuchtung", "Inmitten eines Parks"],
+      hu: ["Épült 1947-ben", "Harkiv egyik jelképe", "Éjszakai díszkivilágítás", "Központi parkban áll"],
+      ro: ["Construită în 1947", "Simbol al Harkovului", "Iluminare nocturnă", "Situată în parcul central"],
+      en: ["Built in 1947", "Symbol of Kharkiv", "Night illumination", "Located in a city park"],
+    },
+    image: "/poi-images/ukraine-mirror-stream-kharkiv-landmarks-v2.webp",
+},  {
     id: "ukraine-sharivka-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Schariwka", hu: "Sarivkai palota", ro: "Palatul Șarivka", en: "Sharivka Palace" },
+    name: { de: "Schloss Schariwka", hu: "Sarivkai palota", ro: "Palatul Șarivka", en: "Sharivka Palace",
+image: "/poi-images/ukraine-sharivka-palace-landmarks-v2.webp"
+},
     coords: [35.4322, 50.0447],
     coordinates: { lat: 50.0447, lng: 35.4322 },
     description: {
@@ -534,11 +940,26 @@ export const ukraineLandmarksV2: POI[] = [
       ro: ["Construit în stil neogotic", "Fondat de familia Olhovski", "Înconjurat de un parc vast", "Posedă două turnuri distincte"],
       en: ["Built in Neogothic style", "Founded by the Olkhovsky family", "Surrounded by a large park", "Features two prominent towers"],
     },
-    imageHint: "Sharivka Palace white neogothic manor", image: "/poi-images/ukraine-sharivka-palace-landmarks-v2.webp"},
-  {
+imageHint: "Sharivka Palace white neogothic manor",
+    descriptionAdvanced: {
+      de: "Das Schloss Schariwka ist ein beeindruckendes Herrenhaus im neugotischen Stil. Die 'Weiße Schwan'-Residenz ist von Terrassengärten und einem riesigen Park umgeben.",
+      hu: "A sarivkai kastély a neogótikus stílusú főúri építészet lenyűgöző emléke Harkiv közelében. A fehér palotát teraszos kertek és egy hatalmas angolpark veszi körül.",
+      ro: "Castelul Șarivka este un conac impunător construit în stil neogotic. Cunoscut drept 'Lebăda Albă', complexul este înconjurat de grădini terasate și un parc forestier vast.",
+      en: "Sharivka Palace is a stunning Neo-Gothic manor near Kharkiv. Known as the 'White Swan', this residence features terraced gardens and a vast English-style forest park.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 19. Jahrhundert", "Neogotischer Stil", "Terasse mit Balustraden", "Zuckerkönig-Residenz"],
+      hu: ["19. századi építmény", "Neogótikus stílus", "Teraszos parkrendszer", "A 'cukorkirály' kastélya"],
+      ro: ["Secolul XIX", "Stil neogotic", "Grădini terasate", "Reședința lui Leopold Koenig"],
+      en: ["19th-century origin", "Neo-Gothic style", "Terraced landscape park", "Leopold Koenig's estate"],
+    },
+    image: "/poi-images/ukraine-sharivka-palace-landmarks-v2.webp",
+},  {
     id: "ukraine-chernihiv-collegium-landmarks-v2",
     type: "landmark",
-    name: { de: "Tschernihiw-Kollegium", hu: "Csernyihivi Kollégium", ro: "Colegiul din Cernihiv", en: "Chernihiv Collegium" },
+    name: { de: "Tschernihiw-Kollegium", hu: "Csernyihivi Kollégium", ro: "Colegiul din Cernihiv", en: "Chernihiv Collegium",
+image: "/poi-images/ukraine-chernihiv-collegium-landmarks-v2.webp"
+},
     coords: [31.3061, 51.4897],
     coordinates: { lat: 51.4897, lng: 31.3061 },
     description: {
@@ -554,5 +975,17 @@ export const ukraineLandmarksV2: POI[] = [
       en: ["Founded in the year 1700", "Example of Ukrainian Baroque", "Once a higher education school", "Part of the 'Ancient Chernihiv' reserve"],
     },
     imageHint: "Chernihiv Collegium baroque architecture tower",
+    descriptionAdvanced: {
+      de: "Das Kollegium von Tschernihiw ist ein bedeutendes Denkmal des ukrainischen Barocks. Gegründet von Iwan Mazepa, diente es als eine der ersten höheren Bildungseinrichtungen.",
+      hu: "A csernyihivi kollégium az ukrán barokk építészet kiemelkedő emléke a 18. század elejéről. Mazepa hetman támogatásával jött létre mint az ország egyik első felsőoktatási intézménye.",
+      ro: "Colegiul din Cernihiv este un monument major al barocului ucrainean de la începutul secolului XVIII. Fondat de hatmanul Mazepa, a fost una dintre primele școli superioare.",
+      en: "The Chernihiv Collegium is a prime example of Ukrainian Baroque architecture. Founded in 1700 by Ivan Mazepa, it was one of the nation's earliest institutions of higher learning.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1700", "Ukrainischer Barock", "Mazepa-Stiftung", "Frühe Bildungseinrichtung"],
+      hu: ["Alapítva 1700-ban", "Ukrán barokk stílus", "Mazepa hetman alapította", "Felsőoktatási központ"],
+      ro: ["Fondat în anul 1700", "Baroc ucrainean", "Ctitorie: Ivan Mazepa", "Instituție de învățământ"],
+      en: ["Founded in 1700", "Ukrainian Baroque style", "Endowed by Ivan Mazepa", "Early higher school"],
+    },
   }
 ];

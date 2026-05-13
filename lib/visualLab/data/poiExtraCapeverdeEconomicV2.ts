@@ -11,8 +11,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Porto Grande (Mindelo)",
       hu: "Porto Grande (Mindelo)",
       ro: "Porto Grande (Mindelo)",
-      en: "Porto Grande (Mindelo)"
-    },
+      en: "Porto Grande (Mindelo)",
+image: "/poi-images/porto-grande-mindelo-economic-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Porto Grande din Mindelo este cel mai mare și mai adânc port natural al Capului Verde, jucând un rol vital în economia națională ca punct principal de intrare pentru importuri și exporturi. Situat strategic în Oceanul Atlantic, acesta a fost istoric un punct de reaprovizionare esențial pentru navele care traversau oceanul. Facilitățile moderne ale portului susțin activități de pescuit, comerț maritim și croaziere internaționale, contribuind semnificativ la dezvoltarea turismului pe insula São Vicente. Găzduiește, de asemenea, facilități de reparații navale. Földrajz K8 — porturi maritime și comerț internațional."
     },
@@ -41,8 +42,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Praia",
       hu: "Praia kikötője",
       ro: "Portul Praia",
-      en: "Port of Praia"
-    },
+      en: "Port of Praia",
+image: "/poi-images/porto-da-praia-economic-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Portul din Praia este poarta maritimă principală a capitalei Capului Verde, gestionând majoritatea traficului de mărfuri care alimentează insula Santiago și restul arhipelagului. Situat într-un golf protejat, acest port a fost modernizat recent pentru a crește capacitatea de manipulare a containerelor și eficiența logistică. Este vital pentru aprovizionarea capitalei cu bunuri esențiale, combustibil și materiale de construcție. Dincolo de rolul comercial, portul este un motor economic major pentru regiune, generând numeroase locuri de muncă în logistică și servicii portuare. Földrajz K8 — logistica insulelor și importuri."
     },
@@ -71,8 +73,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Palmeira",
       hu: "Palmeira kikötője",
       ro: "Portul Palmeira",
-      en: "Port of Palmeira"
-    },
+      en: "Port of Palmeira",
+image: "/poi-images/porto-de-palmeira-economic-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Portul din Palmeira este principala poartă maritimă a insulei Sal, fiind esențial pentru turismul și dezvoltarea economică a insulei. De aici sunt primite majoritatea produselor necesare industriei hoteliere, precum și alimentele și combustibilul pentru rezidenți. Portul este punctul de plecare pentru excursiile pe mare și activitățile de pescuit comercial și sportiv. Recent modernizat, acesta poate acomoda nave de dimensiuni medii, facilitând schimburile comerciale necesare pentru a menține infrastructura turistică a insulei. Földrajz K8 — infrastructura turismului."
     },
@@ -101,8 +104,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Porto Novo",
       hu: "Porto Novo kikötője",
       ro: "Portul Porto Novo",
-      en: "Port of Porto Novo"
-    },
+      en: "Port of Porto Novo",
+image: "/poi-images/porto-novo-harbour-economic-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Portul Porto Novo este principala legătură maritimă a insulei Santo Antão cu restul arhipelagului, în special cu Mindelo pe insula São Vicente. Această conexiune prin feribot este vitală pentru transportul pasagerilor și a produselor agricole, deoarece Santo Antão nu dispune de aeroport operațional. Portul facilitează exportul produselor agricole faimoase ale insulei, precum cafeaua, trestia de zahăr și diverse legume către piețele din restul insulelor. Este inima economică a insulei și poarta de acces pentru vizitatorii care vin să exploreze natura spectaculoasă. Földrajz K8 — transport insular."
     },
@@ -131,8 +135,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen Vale de Cavaleiros",
       hu: "Vale de Cavaleiros kikötője",
       ro: "Portul Vale de Cavaleiros",
-      en: "Port of Vale de Cavaleiros"
-    },
+      en: "Port of Vale de Cavaleiros",
+image: "/poi-images/porto-vale-cavaleiros-economic-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Portul Vale dos Cavaleiros din São Filipe, insula Fogo, este punctul vital de acces maritim pentru insulă. Acest port permite transportul de mărfuri și persoane, asigurând aprovizionarea insulei Fogo cu tot ceea ce este necesar pentru viața cotidiană și dezvoltare. Legătura regulată cu feribotul către Praia este esențială. Portul este de asemenea utilizat pentru exportul celebrului vin și cafea din Fogo, produse care necesită o infrastructură logistică eficientă. Importanța portului a crescut în contextul dezvoltării turismului vulcanic pe insulă. Földrajz K8 — infrastructură logistică."
     },
@@ -161,8 +166,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Sal Rei",
       hu: "Sal Rei kikötője",
       ro: "Portul Sal Rei",
-      en: "Port of Sal Rei"
-    },
+      en: "Port of Sal Rei",
+image: "/poi-images/porto-sal-rei-economic-v2.webp"
+},
     description: {
       de: "Ein moderner Hafen auf der Insel Boa Vista, der das Wachstum des lokalen Tourismus und Handels unterstützt.",
       hu: "Modern kikötő Boa Vista szigetén, amely támogatja a helyi turizmus és kereskedelem növekedését.",
@@ -184,8 +190,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Tarrafal (São Nicolau)",
       hu: "Tarrafal kikötője (São Nicolau)",
       ro: "Portul Tarrafal (São Nicolau)",
-      en: "Port of Tarrafal (São Nicolau)"
-    },
+      en: "Port of Tarrafal (São Nicolau)",
+image: "/poi-images/porto-tarrafal-sn-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Wirtschaftsknotenpunkt der Insel São Nicolau mit einem Fokus auf Fischerei und Warenimport.",
       hu: "São Nicolau szigetének legfontosabb gazdasági csomópontja, középpontban a halászattal és az áruimporttal.",
@@ -207,8 +214,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Furna",
       hu: "Furna kikötője",
       ro: "Portul Furna",
-      en: "Port of Furna"
-    },
+      en: "Port of Furna",
+image: "/poi-images/porto-da-furna-economic-v2.webp"
+},
     description: {
       de: "Der einzige Hafen der Insel Brava, der die abgelegene Insel mit dem Rest des Archipels verbindet.",
       hu: "Brava szigetének egyetlen kikötője, amely összeköti a távoli szigetet a szigetcsoport többi részével.",
@@ -230,8 +238,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Hafen von Porto Inglês",
       hu: "Porto Inglês kikötője",
       ro: "Portul Porto Inglês",
-      en: "Port of Porto Inglês"
-    },
+      en: "Port of Porto Inglês",
+image: "/poi-images/porto-ingles-maio-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Hafen der Insel Maio, der entscheidend für den Transport von Salz und lokalen Produkten ist.",
       hu: "Maio szigetének legfontosabb kikötője, amely kulcsfontosságú a só és a helyi termékek szállításához.",
@@ -253,8 +262,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Cabnave-Schiffswerft",
       hu: "Cabnave hajógyár",
       ro: "Șantierul naval Cabnave",
-      en: "Cabnave Shipyard"
-    },
+      en: "Cabnave Shipyard",
+image: "/poi-images/cabnave-shipyard-economic-v2.webp"
+},
     description: {
       de: "Die größte Schiffswerft von Kap Verde in Mindelo, die Reparaturdienste für die mittelatlantische Schifffahrt anbietet.",
       hu: "Zöld-foki Köztársaság legnagyobb hajógyára Mindelóban, amely javítási szolgáltatásokat nyújt a közép-atlanti hajózás számára.",
@@ -276,8 +286,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "CERIS-Brauerei",
       hu: "CERIS sörfőzde",
       ro: "Fabrica de bere CERIS",
-      en: "CERIS Brewery"
-    },
+      en: "CERIS Brewery",
+image: "/poi-images/ceris-brewery-praia-economic-v2.webp"
+},
     description: {
       de: "Die führende Brauerei und Abfüllanlage für Getränke in Praia, die den nationalen Markt versorgt.",
       hu: "Praia vezető sörfőzdéje és italpalackozó üzeme, amely a nemzeti piacot látja el.",
@@ -299,8 +310,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Windpark Gouveia",
       hu: "Gouveia szélerőműpark",
       ro: "Parcul eolian Gouveia",
-      en: "Gouveia Wind Farm"
-    },
+      en: "Gouveia Wind Farm",
+image: "/poi-images/windfarm-gouveia-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Windpark auf der Insel Santiago, der zur Erhöhung des Anteils erneuerbarer Energien beiträgt.",
       hu: "Jelentős szélerőműpark Santiago szigetén, amely hozzájárul a megújuló energiaforrások arányának növeléséhez.",
@@ -322,8 +334,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Windpark Selada do Flamengo",
       hu: "Selada do Flamengo szélerőműpark",
       ro: "Parcul eolian Selada do Flamengo",
-      en: "Selada do Flamengo Wind Farm"
-    },
+      en: "Selada do Flamengo Wind Farm",
+image: "/poi-images/windfarm-selada-flamengo-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Windenergie-Standort auf São Vicente, der die Stadt Mindelo mit sauberem Strom versorgt.",
       hu: "Fontos szélenergia-helyszín São Vicentén, amely tiszta elektromos árammal látja el Mindelo városát.",
@@ -345,8 +358,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Frescomar-Fischkonservenfabrik",
       hu: "Frescomar halkonzervgyár",
       ro: "Fabrica de conserve de pește Frescomar",
-      en: "Frescomar Fish Canning Factory"
-    },
+      en: "Frescomar Fish Canning Factory",
+image: "/poi-images/frescomar-factory-economic-v2.webp"
+},
     description: {
       de: "Eine große Fabrik in Mindelo, die Fisch aus den kapverdischen Gewässern für den Weltmarkt verarbeitet.",
       hu: "Nagy gyár Mindelóban, amely a zöld-foki vizekből származó halat dolgozza fel a világpiac számára.",
@@ -368,8 +382,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Entsalzungsanlage Palmarejo",
       hu: "Palmarejo sótalanító üzem",
       ro: "Instalația de desalinizare Palmarejo",
-      en: "Palmarejo Desalination Plant"
-    },
+      en: "Palmarejo Desalination Plant",
+image: "/poi-images/desalination-plant-palmarejo-economic-v2.webp"
+},
     description: {
       de: "Eine lebenswichtige Anlage in Praia, die Meerwasser in Trinkwasser für die wachsende Bevölkerung umwandelt.",
       hu: "Létfontosságú létesítmény Praiában, amely a tengervizet ivóvízzé alakítja a növekvő lakosság számára.",
@@ -391,8 +406,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Industriegebiet Achada Grande",
       hu: "Achada Grande ipari övezet",
       ro: "Zona industrială Achada Grande",
-      en: "Achada Grande Industrial Zone"
-    },
+      en: "Achada Grande Industrial Zone",
+image: "/poi-images/achada-grande-industrial-economic-v2.webp"
+},
     description: {
       de: "Das wichtigste Industrie- und Gewerbegebiet in Praia, in dem zahlreiche Unternehmen ansässig sind.",
       hu: "Praia legfontosabb ipari és kereskedelmi övezete, ahol számos vállalat székel.",
@@ -414,8 +430,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Industriegebiet Lazareto",
       hu: "Lazareto ipari övezet",
       ro: "Zona industrială Lazareto",
-      en: "Lazareto Industrial Zone"
-    },
+      en: "Lazareto Industrial Zone",
+image: "/poi-images/lazareto-industrial-economic-v2.webp"
+},
     description: {
       de: "Ein wachsendes Industriegebiet am Stadtrand von Mindelo, das neue wirtschaftliche Impulse setzt.",
       hu: "Növekvő ipari övezet Mindelo szélén, amely új gazdasági lendületet ad.",
@@ -437,8 +454,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Solarkraftwerk Palmarejo",
       hu: "Palmarejo naperőmű",
       ro: "Centrala solară Palmarejo",
-      en: "Palmarejo Solar Power Plant"
-    },
+      en: "Palmarejo Solar Power Plant",
+image: "/poi-images/solar-plant-palmarejo-economic-v2.webp"
+},
     description: {
       de: "Eine große Photovoltaikanlage in Praia, die die intensive Sonneneinstrahlung zur Energiegewinnung nutzt.",
       hu: "Nagy fotovoltaikus létesítmény Praiában, amely az intenzív napsugárzást használja energiatermelésre.",
@@ -460,8 +478,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Grogue-Destillerie (Paúl)",
       hu: "Grogue lepárló (Paúl)",
       ro: "Distileria de grogue (Paúl)",
-      en: "Grogue Distillery (Paúl)"
-    },
+      en: "Grogue Distillery (Paúl)",
+image: "/poi-images/grogue-distillery-paul-economic-v2.webp"
+},
     description: {
       de: "Eine traditionelle Brennerei im Paúl-Tal, in der das berühmte kapverdische Zuckerrohrgetränk hergestellt wird.",
       hu: "Hagyományos lepárló a Paúl-völgyben, ahol a híres zöld-foki cukornádital készül.",
@@ -483,8 +502,9 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       de: "Treibstoffterminal Enacol",
       hu: "Enacol üzemanyag-terminál",
       ro: "Terminalul de combustibil Enacol",
-      en: "Enacol Fuel Terminal"
-    },
+      en: "Enacol Fuel Terminal",
+image: "/poi-images/fuel-terminal-mindelo-economic-v2.webp"
+},
     description: {
       de: "Ein zentrales Lager- und Verteilungsterminal für Erdölprodukte im Hafen von Mindelo.",
       hu: "Kőolajtermékek központi tároló- és elosztó terminálja Mindelo kikötőjében.",

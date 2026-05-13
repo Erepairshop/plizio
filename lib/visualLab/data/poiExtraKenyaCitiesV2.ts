@@ -11,8 +11,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Nairobi",
       hu: "Nairobi",
       ro: "Nairobi",
-      en: "Nairobi"
-    },
+      en: "Nairobi",
+image: "/poi-images/nairobi-cities-v2.webp"
+},
     descriptionAdvanced: {
       en: "Established in 1899 as a simple rail depot on the Uganda Railway, Nairobi has rapidly transformed into one of Africa's most prominent metropolises. Earning the moniker 'Green City in the Sun', it stands out globally by hosting the Nairobi National Park, a sprawling wildlife reserve situated merely 7 kilometers from its bustling central business district. The city serves as a crucial hub for international diplomacy, housing the headquarters of the United Nations Environment Programme (UNEP) since 1972. Sitting at an elevation of roughly 1,795 meters above sea level, Nairobi enjoys a remarkably temperate climate despite its proximity to the equator. Its skyline is defined by modern architectural marvels like the 200-meter-tall Britam Tower, completed in 2017. As the financial heartbeat of East Africa, the city drives innovation in mobile banking and tech startups. Geography K7 — African metropolises.",
       de: "Nairobi, die Hauptstadt Kenias, ist eine Metropole voller Kontraste, die oft als das „grüne Herz Afrikas“ bezeichnet wird. Gegründet 1899 als Eisenbahndepot, hat sich die Stadt zu einem bedeutenden Wirtschafts- und Politikzentrum Ostafrikas entwickelt. Einzigartig ist die unmittelbare Nähe zum Nairobi-Nationalpark, wo Wildtiere nur wenige Kilometer vom Stadtzentrum entfernt beobachtet werden können. Die Stadt ist zudem Sitz wichtiger internationaler Organisationen wie dem Umweltprogramm der Vereinten Nationen (UNEP). Der Name „Nairobi“ stammt aus der Massai-Sprache und bedeutet „kühler Wasserplatz“, was auf die Flüsse in der Region hinweist. Mit einer Bevölkerung von über 4,8 Millionen Menschen ist sie ein Schmelztiegel der Kulturen und ein dynamischer Ort, der Tradition und Moderne verbindet.",
@@ -60,8 +61,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Mombasa",
       hu: "Mombasa",
       ro: "Mombasa",
-      en: "Mombasa"
-    },
+      en: "Mombasa",
+image: "/poi-images/mombasa-cities-v2.webp"
+},
     descriptionAdvanced: {
       en: "Strategically positioned on the Indian Ocean coast, Mombasa is Kenya's oldest city, boasting a documented history that stretches back to at least the 12th century. The city's layout spans Mombasa Island and the adjacent mainland, connected by the Nyali Bridge built in 1980. Its deep-water port, Kilindini Harbour, handles millions of tonnes of cargo annually, serving not only Kenya but also landlocked neighbors like Uganda and Rwanda. The historic Fort Jesus, constructed by the Portuguese between 1593 and 1596, dominates the coastline and was designated a UNESCO World Heritage site in 2001. Mombasa's cultural fabric is deeply influenced by centuries of Swahili, Arab, and Omani trade networks, reflected in the narrow, winding alleys of its Old Town. The city experiences a tropical wet and dry climate, making it a pivotal center for East African tourism. History K8 — Colonial trade routes.",
       de: "Mombasa, die älteste und zweitgrößte Stadt Kenias, liegt an der Küste des Indischen Ozeans. Die Stadt hat eine reiche Geschichte als Handelszentrum, das über Jahrhunderte von arabischen, portugiesischen und britischen Einflüssen geprägt wurde. Sie war die erste Hauptstadt von Britisch-Ostafrika, bevor Nairobi 1907 diesen Status übernahm. Das historische Zentrum, die Altstadt, besticht durch enge Gassen und traditionelle Swahili-Architektur. Ein Wahrzeichen ist das Fort Jesus, eine von den Portugiesen im 16. Jahrhundert erbaute Festung, die heute zum UNESCO-Weltkulturerbe gehört. Die Gebäude im zentralen Geschäftsviertel sind in den Farben Blau und Weiß gehalten, die den Indischen Ozean symbolisieren. Mit rund 1,2 Millionen Einwohnern ist Mombasa ein wichtiger Hafen und ein beliebtes Touristenziel.",
@@ -109,8 +111,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kisumu",
       hu: "Kisumu",
       ro: "Kisumu",
-      en: "Kisumu"
-    },
+      en: "Kisumu",
+image: "/poi-images/kisumu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kisumu, am Ufer des riesigen Viktoriasees gelegen, ist die drittgrößte Stadt Kenias und ein wichtiges wirtschaftliches Zentrum in der westlichen Region des Landes. Ursprünglich im Jahr 1901 unter dem Namen Port Florence als Endstation der Uganda-Bahn gegründet, hat sich die Stadt zu einem dynamischen Handelsknotenpunkt entwickelt. Der Hafen von Kisumu ist ein entscheidender Umschlagplatz für den internationalen Binnenhandel mit den Nachbarländern Uganda und Tansania. Neben der Fischereiindustrie, insbesondere dem Nilbarsch, ist die Region auch für die Landwirtschaft bekannt. Kulturell ist Kisumu das Zentrum der Luo-Gemeinschaft. Besucher zieht es oft zum Kisumu Impala Sanctuary oder in das Kisumu Museum, das die reiche lokale Geschichte und Naturgeschichte dokumentiert. Diese Stadt verbindet städtisches Wachstum mit der Nähe zu bedeutenden Naturräumen (Geografie K7).",
       hu: "Kisumu Kenya harmadik legnagyobb városa és a Viktória-tó menti legfontosabb belföldi kikötője. A város a 19. század végén indult fejlődésnek, amikor a britek megépítették az Ugandai Vasutat. Ma Kisumu a nyugat-kenyai kereskedelem és az agráripar központja, különösen a halászat és a cukornád-feldolgozás területén. A közeli Kisumu Impala Rezervátum a természetkedvelők kedvelt úti célja. Földrajzi fekvése miatt az egyenlítői éghajlat jellemzi, gyakori délutáni záporokkal. (Földrajz K7 — afrikai tavak és városok)",
@@ -154,8 +157,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Nakuru",
       hu: "Nakuru",
       ro: "Nakuru",
-      en: "Nakuru"
-    },
+      en: "Nakuru",
+image: "/poi-images/nakuru-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Nakuru liegt im faszinierenden Großen Afrikanischen Grabenbruch und ist die viertgrößte Stadt Kenias sowie die Hauptstadt des gleichnamigen Nakuru Countys. Die Stadt ist vor allem als Ausgangspunkt für den berühmten Lake-Nakuru-Nationalpark bekannt, der 1961 gegründet wurde und weltweite Berühmtheit für seine riesigen Populationen von Zwergflamingos erlangte. Nakuru wuchs historisch als wichtiges Agrar- und Landwirtschaftszentrum, insbesondere während der Kolonialzeit in den \"White Highlands\". Heute ist es ein lebendiger Knotenpunkt für Handel, Bildung und Tourismus. Etwas außerhalb der Stadt befindet sich der Menengai-Krater, ein massiver Schildvulkan mit einer 90 Quadratkilometer großen Caldera, der ebenfalls viele Besucher anzieht. Die Region bietet hervorragende Beispiele für vulkanische Aktivitäten und Ökosysteme im Rift Valley (Geografie K8).",
       hu: "Nakuru a Nagy-hasadékvölgy egyik legfontosabb mezőgazdasági és kereskedelmi csomópontja, 2021-ben kapott hivatalos városi rangot. A város leginkább a Nakuru-tóról híres, amely egykor több millió flamingó otthona volt, és a környék a rinocéroszok fontos menedékhelye. A város gazdasága jelentős mértékben támaszkodik a turizmusra és a környező farmok termékeinek feldolgozására. A 20. század elején a brit telepesek kedvelt mezőgazdasági központjává vált. (Földrajz K6 — hasadékvölgyek és mezőgazdaság)",
@@ -199,8 +203,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Eldoret",
       hu: "Eldoret",
       ro: "Eldoret",
-      en: "Eldoret"
-    },
+      en: "Eldoret",
+image: "/poi-images/eldoret-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Eldoret, die fünftgrößte Stadt Kenias und Hauptstadt des Uasin Gishu Countys, liegt malerisch in den fruchtbaren Hügeln des Rift Valley auf über 2.000 Metern Höhe. Diese Höhenlage in Verbindung mit dem milden Klima bietet nicht nur exzellente Bedingungen für die Landwirtschaft, sondern hat die Stadt auch weltweit als Heimat der kenianischen Langstreckenläufer berühmt gemacht. Zahlreiche Olympiasieger und Weltmeister stammen aus dieser Region oder trainieren in den zahlreichen High-Altitude-Trainingscamps rund um die Stadt. Wirtschaftlich ist Eldoret ein Zentrum für Textilindustrie, Weizen- und Maisanbau sowie die Milchproduktion. Die Stadt entwickelte sich ursprünglich nach 1910 aus einer Farm für südafrikanische Siedler und beherbergt heute die renommierte Moi University, eine der wichtigsten Bildungseinrichtungen des Landes (Sport & Geografie K6).",
       hu: "Eldoret Kenya ötödik legnagyobb városa, mely az Uasin Gishu fennsíkon fekszik. A települést 1910-ben dél-afrikai búr telepesek alapították, akik nagyüzemi mezőgazdaságot honosítottak meg a térségben. Ma a város a kenyai atlétika fővárosaként ismert, mivel innen származik a híres hosszútávfutók többsége. A hűvösebb klíma és a magaslati levegő ideális edzéskörülményeket biztosít. Jelentős a sajt- és textilipara is, az egyetemei miatt pedig fontos oktatási központ. (Földrajz K7 — magasföldek és éghajlat)",
@@ -244,8 +249,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Thika",
       hu: "Thika",
       ro: "Thika",
-      en: "Thika"
-    },
+      en: "Thika",
+image: "/poi-images/thika-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Thika ist eine bedeutende Industriestadt im Kiambu County, die etwa 40 Kilometer nordöstlich von Kenias Hauptstadt Nairobi liegt. Die Stadt erlangte internationale Bekanntheit unter anderem durch Elspeth Huxleys berühmtes Buch \"Die Flammenbäume von Thika\". Wirtschaftlich ist Thika ein Schwergewicht in Kenia: Hier befinden sich große Fabriken für die Textil-, Fahrzeugmontage- und Lebensmittelindustrie. Besonders berühmt ist die Stadt für den Anbau und die Verarbeitung von Ananas durch das Unternehmen Del Monte Kenya, das Tausende Hektar Land bewirtschaftet. Geografisch liegt Thika an den malerischen Chania Falls und dem Thika River, die als wichtige Wasserquellen dienen. Mit dem Ausbau der Thika-Superhighway ist die Stadt noch stärker mit dem Großraum Nairobi verschmolzen (Wirtschaft K8).",
       hu: "Thika egy ipari fókuszú város a Középső Tartományban, Nairobitól mintegy 40 kilométerre északkeletre. A térség a kávé-, ananász- és makadámdió-ültetvényeiről ismert, itt működik a híres Del Monte konzervgyár is. Thika a 20. század elején indult gyors növekedésnek az európai telepesek ültetvényeinek köszönhetően. A város melletti Chania és Thika folyók több lenyűgöző vízesést is táplálnak, amelyek a helyiek körében is népszerű kirándulóhelyek. (Földrajz K6 — ipar és mezőgazdaság)",
@@ -290,8 +296,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Malindi",
       hu: "Malindi",
       ro: "Malindi",
-      en: "Malindi"
-    },
+      en: "Malindi",
+image: "/poi-images/malindi-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Malindi ist eine historische Küstenstadt in Kenia, die eine faszinierende Mischung aus alter Swahili-Kultur und modernem Tourismus bietet. Bereits im 13. Jahrhundert war Malindi eine wohlhabende Handelsniederlassung. Als der portugiesische Entdecker Vasco da Gama 1498 hier landete, wurde er freundlich empfangen, und er errichtete ein Korallenkreuz, die Vasco-da-Gama-Säule, die noch heute an der Küste steht und ein bedeutendes Wahrzeichen ist. Heute ist die Stadt für ihre weißen Sandstrände, luxuriösen Resorts und den Malindi Marine National Park bekannt, der ein beliebtes Ziel für Taucher und Schnorchler ist. Die starke Präsenz italienischer Investoren und Touristen hat der Stadt den Spitznamen \"Little Italy\" in Kenia eingebracht. Die Architektur der Altstadt spiegelt die jahrhundertelangen Einflüsse aus dem Oman, Portugal und der lokalen Swahili-Kultur wider (Geschichte K7).",
       hu: "Malindi egy ősi partmenti város, amely a 14. század óta fontos szuahéli kereskedelmi központ. Amikor Vasco da Gama 1498-ban ideérkezett, barátságos fogadtatásban részesült, és a város fontos bázis lett a portugálok számára az Indiába vezető úton. Ma Malindi népszerű üdülőhely, különösen az olasz turisták körében, csodálatos korallzátonyokkal és tengeri nemzeti parkokkal. A város a történelmi emlékek, a fehér homokos strandok és az élénk éjszakai élet keveréke. (Történelem K6 — európai felfedezések Afrika partjainál)",
@@ -335,8 +342,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kitale",
       hu: "Kitale",
       ro: "Kitale",
-      en: "Kitale"
-    },
+      en: "Kitale",
+image: "/poi-images/kitale-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kitale, gelegen im westlichen Kenia zwischen Mount Elgon und den Cherangani-Hills, ist das administrative und kommerzielle Zentrum des Trans-Nzoia Countys. Die Stadt wurde 1920 von europäischen Siedlern gegründet und entwickelte sich schnell zu einem der wichtigsten landwirtschaftlichen Knotenpunkte des Landes. Die fruchtbaren Böden und das gemäßigte Klima machen die Region zu einem Hauptproduktionsgebiet für Mais, Sonnenblumen, Bohnen und Milchprodukte. Für Besucher ist Kitale ein hervorragender Ausgangspunkt für Expeditionen in den Mount Elgon Nationalpark oder den Saiwa Swamp Nationalpark, der als kleinster Nationalpark Kenias bekannt ist und die seltene Sitatunga-Antilope beheimatet. In Kitale befindet sich auch das Kitale Museum, das sich intensiv mit den ethnografischen und naturgeschichtlichen Besonderheiten Westkenias beschäftigt (Biologie K7).",
       hu: "Kitale mezőgazdasági csomópont Nyugat-Kenyában, az Elgon-hegy és a Cherangani-dombság között. A 20. század elején európai farmerek alapították, akik rájöttek, hogy a terület rendkívül alkalmas kukorica- és napraforgó-termesztésre, valamint tejtermelésre. A város gazdaságát ma is a nagyüzemi farmok határozzák meg, ezért a régiót Kenya magtáraként emlegetik. A város múzeuma a térség egykori mezőgazdasági történetét és az őslakos kultúrákat mutatja be. (Földrajz K6 — élelmiszertermelés és domborzat)",
@@ -380,8 +388,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Garissa",
       hu: "Garissa",
       ro: "Garissa",
-      en: "Garissa"
-    },
+      en: "Garissa",
+image: "/poi-images/garissa-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Garissa ist die Hauptstadt des Garissa Countys und ein wesentlicher urbaner Knotenpunkt im semiariden Nordosten Kenias. Die Stadt liegt strategisch günstig am Ostufer des Tana-Flusses, des längsten Flusses in Kenia, der als lebenswichtige Wasserquelle für diese ansonsten trockene Region dient. Die Bevölkerung von Garissa ist vorwiegend somalischer Abstammung, was der Stadt eine ausgeprägte kulturelle Prägung in Sprache, Traditionen und Handel verleiht. Wirtschaftlich stützt sich die Stadt stark auf die nomadische und semi-nomadische Viehwirtschaft, wobei große Märkte für Kamele, Rinder und Ziegen eine zentrale Rolle spielen. In der Nähe befindet sich das Bour-Algi-Giraffen-Schutzgebiet, das die seltene Netzgiraffe beheimatet und ökologisch von großer Bedeutung ist (Geografie K8).",
       hu: "Garissa egy sivatagi és félsivatagi oázisváros, Északkelet-Kenya legnépesebb települése. A város a Tana-folyó mentén fekszik, amely létfontosságú vízforrást biztosít a jórészt szomáli származású lakosságnak és az állattenyésztésnek. A gazdaság alapját a nomád pásztorkodás és a szomszédos Szomáliával folytatott kereskedelem adja. A forró és száraz klíma ellenére a folyóparti zöld övezetben még gyümölcsöt és zöldséget is termesztenek. (Földrajz K8 — sivatagi éghajlat és folyók szerepe)",
@@ -425,8 +434,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kakamega",
       hu: "Kakamega",
       ro: "Kakamega",
-      en: "Kakamega"
-    },
+      en: "Kakamega",
+image: "/poi-images/kakamega-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kakamega, die Hauptstadt des gleichnamigen Kakamega Countys, liegt im Westen Kenias und ist untrennbar mit dem berühmten Kakamega-Wald verbunden. Dieser Wald ist der letzte verbliebene Überrest des einst riesigen guineo-kongolesischen Regenwaldes in Ostafrika und bietet eine unvergleichliche Biodiversität, darunter viele endemische Vogel-, Insekten- und Primatenarten. Die Stadt selbst entwickelte sich in den 1930er Jahren infolge des Kakamega-Goldrausches sprunghaft, als europäische Goldsucher in die Region strömten. Heute ist Kakamega das kulturelle Zentrum der Luhya-Gemeinschaft. Ein weiteres bekanntes Wahrzeichen in der Nähe ist der \"Crying Stone of Ilesi\", eine markante Felsformation, die aufgrund von abfließendem Wasser wie ein weinendes Gesicht aussieht und tief in der lokalen Mythologie verwurzelt ist (Geografie & Biologie K7).",
       hu: "Kakamega Nyugat-Kenya luhja közösségeinek kulturális és közigazgatási központja. A város neve szorosan összefonódik az 1930-as évek aranylázával, amikor a környéken rövid ideig tartó bányászati fellendülés indult. Ma a legfőbb nevezetessége a Kakamega-erdő, amely az utolsó maradványa a Guineo-Kongói esőerdő rendszernek Kelet-Afrikában, gazdag madár- és majomvilággal. A gazdaságot a cukornád és a kukorica uralja. (Természetismeret K5 — esőerdők és biodiverzitás)",
@@ -470,8 +480,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Nyeri",
       hu: "Nyeri",
       ro: "Nyeri",
-      en: "Nyeri"
-    },
+      en: "Nyeri",
+image: "/poi-images/nyeri-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Nyeri ist eine historisch und landwirtschaftlich bedeutende Stadt im zentralen Hochland von Kenia und dient als Hauptstadt des Nyeri Countys. Die Stadt liegt malerisch am Fuße der Aberdare-Bergkette und unweit der Hänge des mächtigen Mount Kenya. Gegründet 1902 als britischer Kolonialposten, bewahrt Nyeri viel von seinem historischen Charme. Bekannt ist Nyeri als die letzte Ruhestätte von Lord Robert Baden-Powell, dem Gründer der weltweiten Pfadfinderbewegung, dessen Grabstätte jährlich Pilger aus aller Welt anzieht. Auch die berühmte kenianische Friedensnobelpreisträgerin Wangari Maathai wurde in dieser Region geboren. Wirtschaftlich dominiert in der Umgebung der Anbau von erstklassigem Arabica-Kaffee und Tee, die in den kühlen, fruchtbaren Hochebenen exzellent gedeihen (Geschichte K8).",
       hu: "Nyeri a Kenya-hegy nyugati lejtőinél fekvő történelmi város, a Középső Tartomány központja. Az enyhe éghajlatú település a kávé- és teatermesztéséről híres, és fontos kiindulópontja a Kenya-hegyre induló expedícióknak. A város szorosan kapcsolódik a brit gyarmati múlthoz; itt található Robert Baden-Powell, a cserkészmozgalom alapítójának sírja, amely ma is sok látogatót vonz. Nyeri egyben a kikuju nép egyik fő kulturális bástyája is. (Történelem K7 — gyarmati korszak és mozgalmak)",
@@ -515,8 +526,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Machakos",
       hu: "Machakos",
       ro: "Machakos",
-      en: "Machakos"
-    },
+      en: "Machakos",
+image: "/poi-images/machakos-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Machakos, benannt nach dem Kamba-Häuptling Masaku, ist eine der ältesten Verwaltungsstädte Kenias. Sie wurde bereits 1887, ein volles Jahrzehnt vor der Gründung von Nairobi, von der Imperial British East Africa Company als erster britischer Verwaltungsposten im Binnenland gegründet. Bis 1899 diente Machakos sogar als Hauptstadt des britischen Protektorats, bevor Nairobi diese Rolle übernahm. Heute ist Machakos die pulsierende Hauptstadt des Machakos Countys und ein wichtiges wirtschaftliches Zentrum, das sich durch seine Nähe zu Nairobi (nur 63 km entfernt) rasant entwickelt hat. Die hügelige Landschaft bietet eine atemberaubende Kulisse, und die Region ist ein Zentrum für Landwirtschaft und Handel. Die Stadt beherbergt auch den Machakos People's Park, eine der modernsten Freizeitanlagen des Landes (Geschichte K7).",
       hu: "Machakos egy dombvidéki város Nairobitól délkeletre, amely 1889-ben rövid ideig a Brit Kelet-Afrika első fővárosa is volt, mielőtt a közigazgatást Nairobiba helyezték át. A várost a szárazabb éghajlathoz alkalmazkodó kamba nép lakja. Machakos a közelmúltban jelentős modernizáción ment keresztül; felújított parkjai, új konferencia-központjai és sportlétesítményei révén Nairobi tehetős agglomerációs vonzáskörzetévé vált. Főbb terménye a kukorica és a gyümölcsök. (Történelem K6 — városok fejlődése és közigazgatás)",
@@ -560,8 +572,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Meru",
       hu: "Meru",
       ro: "Meru",
-      en: "Meru"
-    },
+      en: "Meru",
+image: "/poi-images/meru-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Meru, im Osten der mächtigen Mount-Kenya-Region gelegen, ist das florierende Zentrum des Meru Countys. Die Stadt verdankt ihren Wohlstand den extrem fruchtbaren vulkanischen Böden und dem günstigen Klima an den Nordosthängen des Berges. Weltweit ist Meru als das Epizentrum für den Anbau von Miraa (Khat) bekannt, einer Pflanze, die wegen ihrer stimulierenden Wirkung angebaut und in ganz Ostafrika und in den Nahen Osten exportiert wird. Neben Khat gedeihen hier auch Tee, Kaffee und Bananen prächtig. Die Stadt fungiert als Tor zum faszinierenden Meru-Nationalpark, in dem einst die berühmte Löwin Elsa aus dem Buch \"Frei geboren\" (Born Free) von Joy Adamson lebte. Kulturell wird die Stadt vom Volk der Ameru geprägt, das eine reiche Tradition bewahrt (Geografie & Biologie K8).",
       hu: "Meru a Kenya-hegy északkeleti oldalán épült mezőgazdasági és kereskedelmi központ. A város és környéke egyedülálló mikroklímával rendelkezik, amely bőséges csapadékot biztosít a kávé-, tea- és banánültetvények, valamint a helyben népszerű 'miraa' (khat) termesztéséhez. Meru a meru népcsoport kulturális szíve, és fontos kiindulópontja a Meru Nemzeti Park szafarijainak. A helyi fafeldolgozás és a kereskedelem adja a gazdaság gerincét. (Földrajz K6 — mikroklíma és mezőgazdaság)",
@@ -605,8 +618,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Embu",
       hu: "Embu",
       ro: "Embu",
-      en: "Embu"
-    },
+      en: "Embu",
+image: "/poi-images/embu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Embu ist eine geschichtsträchtige Stadt in Zentral-Ost-Kenia, die traditionell als Hauptstadt der ehemaligen Eastern Province fungierte. Am südöstlichen Fuß des Mount Kenya auf rund 1.350 Metern Höhe gelegen, profitiert Embu von reichhaltigen vulkanischen Böden und zuverlässigen Regenfällen. Dies macht die Region zu einem landwirtschaftlichen Kraftzentrum, in dem vor allem Macadamia-Nüsse, Kaffee, Tee und Mais im großen Stil angebaut werden. Die Bevölkerung besteht hauptsächlich aus den ethnischen Gruppen der Embu und Mbeere. In der Umgebung befinden sich wichtige Staudämme entlang des Tana-Flusses, wie der Masinga- und der Kiambere-Damm, die einen Großteil des kenianischen Wasserkraftstroms produzieren. Die Stadt bietet eine ruhige Atmosphäre und dient als Knotenpunkt für Reisen in die nordöstlichen Gebiete Kenias (Geografie K7).",
       hu: "Embu egy nyüzsgő város a Kenya-hegy délkeleti lejtőin, az embu népcsoport központja. A terület híres kiváló minőségű, magashegyi kávéjáról és makadámdió-ültetvényeiről. A város fekvése miatt az éghajlat hűvösebb és csapadékosabb, mint az alacsonyabban fekvő síkságokon. Embu fontos oktatási központ is számos középiskolával és főiskolával, továbbá közlekedési csomópont a főváros, Nairobi és az északabbi megyék között. (Földrajz K7 — hegyvidéki mezőgazdaság)",
@@ -650,8 +664,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Bungoma",
       hu: "Bungoma",
       ro: "Bungoma",
-      en: "Bungoma"
-    },
+      en: "Bungoma",
+image: "/poi-images/bungoma-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bungoma, gelegen in Westkenia nahe der Grenze zu Uganda, ist die Hauptstadt des Bungoma Countys. Die Stadt ist das wichtigste landwirtschaftliche und kommerzielle Zentrum der Region und eng mit der Bukusu-Untergruppe des Luhya-Volkes verbunden. In Bungoma dominiert der Zuckerrohranbau, angeführt von riesigen Verarbeitungsanlagen wie der Nzoia Sugar Company. Eine bedeutende historische Sehenswürdigkeit in der Nähe ist das Chetambe-Fort (Chetambe's Fort), wo 1895 die letzte große Widerstandsschlacht der Bukusu gegen die britischen Kolonialtruppen stattfand. Die Gegend ist auch für ihre traditionellen Beschneidungszeremonien (Khuketwa) bekannt, die ein wichtiges kulturelles Ereignis darstellen. Die Nähe zum Mount Elgon macht Bungoma zudem zu einem Ausgangspunkt für Exkursionen (Geschichte K8).",
       hu: "Bungoma Nyugat-Kenyában, az ugandai határ közelében található forgalmas kereskedelmi város, a bukusu luhja alcsoport központja. A város gazdasága erősen függ az Uganda felé irányuló tranzitkereskedelemtől és a helyi cukornád-termesztéstől. Bungoma híres a kerékpáros közlekedés, a 'boda-boda' széleskörű használatáról is, amely a mindennapi élet része. A környék sűrűn lakott és intenzíven művelt mezőgazdasági terület. (Földrajz K6 — határon átnyúló kereskedelem)",
@@ -695,8 +710,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Naivasha",
       hu: "Naivasha",
       ro: "Naivasha",
-      en: "Naivasha"
-    },
+      en: "Naivasha",
+image: "/poi-images/naivasha-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Naivasha ist eine aufstrebende Stadt im Nakuru County, die am Ufer des Lake Naivasha, einem der wenigen Süßwasserseen im kenianischen Teil des Rift Valley, liegt. In den letzten Jahrzehnten hat sich Naivasha zu einem der wichtigsten Zentren für den Anbau von Schnittblumen entwickelt; riesige Gewächshäuser säumen den See und exportieren Rosen in die ganze Welt. Die Stadt ist zudem ein Hotspot für den Tourismus. Der benachbarte Hell's-Gate-Nationalpark, bekannt für seine dramatischen Schluchten und die Möglichkeit, dort gefahrlos zu wandern und Fahrrad zu fahren, zog sogar die Macher des Films \"Der König der Löwen\" zur Inspiration an. Zudem liegt das Geothermiekraftwerk Olkaria, eines der größten in Afrika, im Süden des Sees (Wirtschaft & Geografie K8).",
       hu: "Naivasha egy gyorsan fejlődő turisztikai és ipari város a Nagy-hasadékvölgyben. Hírnevét a Naivasha-tóról kapta, amely gazdag madárvilágával és vízilovak sokaságával vonzza a szafarizókat. A város környéke Kenya virágiparának epicentruma; az itt található hatalmas üvegházakból származik az Európába exportált kenyai rózsák jelentős része. A közelben található Olkaria geotermikus erőmű az ország energiaellátásának egyik alappillére. (Földrajz K8 — geotermikus energia és export)",
@@ -741,8 +757,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kericho",
       hu: "Kericho",
       ro: "Kericho",
-      en: "Kericho"
-    },
+      en: "Kericho",
+image: "/poi-images/kericho-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kericho ist die unangefochtene Teehauptstadt Kenias. In den Hochlagen des westlichen Rift Valley auf über 2.000 Metern gelegen, profitiert die Stadt von einem kühlen Klima und reichlichen Niederschlägen, die perfekte Bedingungen für den Teeanbau bieten. Kenia ist einer der größten Tee-Exporteure der Welt, und Kericho bildet das Epizentrum dieser Industrie, umgeben von schier endlosen, sattgrünen Teeplantagen, die internationalen Konzernen wie Finlays oder Unilever gehören. Die Stadt hat eine lange koloniale Geschichte, was sich in der Architektur und den gepflegten Golfplätzen widerspiegelt. Die mehrheitlich von der Kipsigis-Ethnie bewohnte Region ist nicht nur landwirtschaftlich bedeutsam, sondern auch kulturell, und beheimatet die größte Gurdwara (Sikh-Tempel) in ganz Afrika (Wirtschaft K8).",
       hu: "Kericho neve egyet jelent a kenyai teával. A Viktória-tó medencéje fölé magasodó dombokon fekvő város egyedülálló mikroklímával bír: a bőséges és egyenletes esőzések ideálisak a teacserjék számára. Itt találhatók a világ legnagyobb egybefüggő teaültetvényei. A város maga egy csendes, zöld oázis, melyet évtizedek óta a teatermesztő vállalatok és a kipsigis népcsoport alakít, szigorú rendben tartott mezőgazdasági farmokkal. (Földrajz K7 — globális agrárpiac és tea)",
@@ -786,8 +803,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Lamu",
       hu: "Lamu",
       ro: "Lamu",
-      en: "Lamu"
-    },
+      en: "Lamu",
+image: "/poi-images/lamu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Lamu Town, gelegen auf der Insel Lamu vor der Nordküste Kenias, ist die älteste erhaltene Swahili-Siedlung in Ostafrika. Gegründet im 14. Jahrhundert, ist die Stadt seit 2001 ein UNESCO-Weltkulturerbe. Die Architektur ist durch enge, verwinkelte Gassen, kunstvoll geschnitzte Holztüren und imposante Korallensteinhäuser geprägt. Bemerkenswert ist, dass es in Lamu fast keine Autos gibt; der Transport erfolgt traditionell mit Eseln oder Daus (traditionelle Segelboote). Die Stadt war einst ein blühendes Zentrum für den Handel mit Elfenbein, Gewürzen und Sklaven und ist bis heute ein wichtiges Zentrum islamischer Gelehrsamkeit in Ostafrika. Das Lamu Fort, das Lamu Museum und das jährliche Maulidi-Festival ziehen Forscher und Touristen gleichermaßen an, um diese unberührte Kultur zu erleben (Geschichte K8).",
       hu: "Lamu egy történelmi szigetváros az Indiai-óceán partvidékén, Kelet-Afrika legrégebbi és legjobban megőrzött szuahéli települése, az UNESCO Világörökség része. A város szűk, kanyargós utcáin nincsenek autók, a közlekedést szamarakon és gyalogosan oldják meg. Gazdag, évszázados építészete a korallkő házakkal, faragott faajtókkal a 14. századig nyúlik vissza. Gazdasága főként a kulturális turizmusból és az ősi dhow-hajóépítésből áll. (Történelem K8 — szuahéli kultúra és világörökség)",
@@ -831,8 +849,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Isiolo",
       hu: "Isiolo",
       ro: "Isiolo",
-      en: "Isiolo"
-    },
+      en: "Isiolo",
+image: "/poi-images/isiolo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Isiolo liegt im geografischen Zentrum Kenias und dient oft als Grenze zwischen dem fruchtbaren Hochland im Süden und den weiten, halbtrockenen Wüstenregionen im Norden. Die Stadt hat eine diverse Bevölkerung, zu der Borana, Somali, Samburu und Meru gehören. Isiolo entwickelte sich historisch aus Militär- und Verwaltungslagern der Briten nach dem Ersten Weltkrieg. In den letzten Jahren hat Isiolo als geplantes Zentrum des ehrgeizigen LAPSSET-Infrastrukturkorridors (Lamu Port-South Sudan-Ethiopia Transport) enorm an strategischer Bedeutung gewonnen, was zum Bau des Isiolo International Airport führte. Für Touristen ist Isiolo das Tor zu den berühmten Wildreservaten Samburu, Buffalo Springs und Shaba National Reserve (Geografie K7).",
       hu: "Isiolo egy stratégiai fekvésű határváros, amely átjárót képez Kenya zöldebb hegyvidékei és az északi sivatagos síkságok között. A települést eredetileg brit katonai bázisként alapították a nomád törzsek, például a szomálik és a boranák találkozási pontján. Ma Isiolo egy gyorsan fejlődő logisztikai csomópont a LAPSSET-folyosó részeként, új nemzetközi repülőtérrel és aszfaltozott utakkal. A várostól északra találhatók a híres Samburu és Buffalo Springs nemzeti rezervátumok. (Földrajz K8 — infrastrukturális fejlesztés és logisztika)",
@@ -876,8 +895,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Homa Bay",
       hu: "Homa Bay",
       ro: "Homa Bay",
-      en: "Homa Bay"
-    },
+      en: "Homa Bay",
+image: "/poi-images/homa-bay-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Homa Bay liegt am malerischen südlichen Ufer des Viktoriasees und ist die Verwaltungshauptstadt des Homa Bay Countys. Die Wirtschaft der Stadt ist stark von der Fischerei geprägt, insbesondere dem Fang von Nilbarsch und Tilapia, sowie der Landwirtschaft auf dem fruchtbaren Boden der Umgebung. Homa Bay ist der ideale Ausgangspunkt für Besuche im Ruma-Nationalpark, dem einzigen Ort in Kenia, an dem die seltene Pferdeantilope (Roan Antelope) in freier Wildbahn beobachtet werden kann. Die Stadt wird im Hintergrund von den Homa-Bergen (Mount Homa) überragt, einer Reihe erloschener vulkanischer Hügel. Homa Bay spielt eine zentrale Rolle in der Luo-Kultur und ist ein wichtiges Zentrum für den Binnenhandel auf dem Viktoriasee (Biologie & Geografie K7).",
       hu: "Homa Bay egy pezsgő partmenti város a Viktória-tó keleti öblében, a tókörnyéki halászat egyik fellegvára. A város a Homa-hegy, egy régi vulkáni hegy lábánál épült. A gazdaság jelentős része a tilápia és a nílusi sügér halászatán alapul, amelyeket belföldre és exportra is szánnak. A közeli Ruma Nemzeti Park miatt a régió egyre vonzóbb a turisták számára, a helyi luo közösség pedig gazdag folklórral és mesterségekkel várja a látogatókat. (Természetismeret K5 — halászat és tóvidékek)",
@@ -921,8 +941,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Migori",
       hu: "Migori",
       ro: "Migori",
-      en: "Migori"
-    },
+      en: "Migori",
+image: "/poi-images/migori-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Migori, gelegen nahe der Grenze zu Tansania, ist ein geschäftiger Handelsknotenpunkt im Südwesten Kenias. Die Stadt profitiert enorm von dem grenzüberschreitenden Handel und verbindet Kenia über den Grenzübergang Isebania mit Tansania. Die Region ist reich an Bodenschätzen, und in den ländlichen Gebieten rund um Migori wird seit Jahrzehnten handwerklicher Goldabbau betrieben, was ihr den Ruf als Goldgräberstadt eingebracht hat. Neben dem Bergbau dominiert die Landwirtschaft, insbesondere der Anbau von Zuckerrohr und Tabak. Kulturell ist Migori bemerkenswert vielfältig, da hier Bevölkerungsgruppen wie die Luo, Kuria und Abasuba eng zusammenleben. Ein historisches Highlight in der Nähe ist Thimlich Ohinga, eine archäologische Stätte mit steinernen Trockenmauern aus dem 16. Jahrhundert (Geschichte K7).",
       hu: "Migori a kenyai-tanzániai határ mentén fekvő dinamikus kereskedőváros. A térség aranybányászatáról is ismert; a helyi folyók mentén már a gyarmati idők óta folytatnak kézi bányászatot. A város mezőgazdasága is kiemelkedő, különösen a cukornád, a dohány és a kukorica termesztése révén. Határvárosi jellege miatt Migori kulturálisan sokszínű, többek között luo, kuria és tanzániai bevándorlók olvasztótégelye. (Földrajz K7 — bányászat és határvárosok)",
@@ -966,8 +987,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kajiado",
       hu: "Kajiado",
       ro: "Kajiado",
-      en: "Kajiado"
-    },
+      en: "Kajiado",
+image: "/poi-images/kajiado-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kajiado, südlich von Nairobi gelegen, ist das administrative Zentrum des Kajiado Countys und eine Stadt, die tief im Herzen des Maasai-Landes liegt. Während die Stadt in der Vergangenheit ein kleiner Handelsposten war, ist sie heute stark in den Pendlergürtel von Nairobi integriert, was zu rasantem Bevölkerungswachstum und Immobilienentwicklung geführt hat. Dennoch bleibt Kajiado ein wichtiges Zentrum für die Kultur der Maasai, wo traditionelle Rinderzucht auf moderne Urbanisierung trifft. Die Stadt liegt in einer halbtrockenen Region in den Kitengela-Ebenen und hat historisch vom Bau der Magadi-Eisenbahnlinie profitiert, die bis heute Soda-Asche aus dem Lake Magadi transportiert (Geografie K7).",
       hu: "Kajiado egy viszonylag száraz, sík területen fekvő város Nairobitól délre, amely a maszáj pásztorkultúra egyik legfontosabb központja. A város hagyományosan a szarvasmarha-kereskedelemre támaszkodik, de a főváros közelsége miatt jelentős ingázó településsé és ingatlanfejlesztési célponttá is vált. A környéken található Ngong-hegység és az Amboseli Nemzeti Park felé vezető út miatt a turisztikai forgalom is élénk. (Földrajz K6 — pásztorkodás és szuburbanizáció)",
@@ -1012,8 +1034,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Wajir",
       hu: "Wajir",
       ro: "Wajir",
-      en: "Wajir"
-    },
+      en: "Wajir",
+image: "/poi-images/wajir-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Wajir ist eine abgelegene und faszinierende Stadt im nordöstlichen Kenia, die in einer extrem trockenen, flachen Wüstenlandschaft liegt. Die Stadt ist bekannt für ihre traditionellen, runden weißen Häuser, die ihr einen einzigartigen architektonischen Charakter verleihen. Da in Wajir Wasser die wertvollste Ressource ist, dreht sich das Überleben der nomadischen Bevölkerung (überwiegend Somali) um Brunnen, von denen einige jahrhundertelang in Betrieb sind. Wajir wurde 1912 unter britischer Kolonialherrschaft formell gegründet und erhielt während des Zweiten Weltkriegs durch den Bau eines Flugplatzes strategische Bedeutung. Eines der bekanntesten Wahrzeichen ist das von den Italienern im Zweiten Weltkrieg errichtete Wajir Fort. Die raue Umgebung macht die Stadt zu einem Symbol für Widerstandsfähigkeit (Geografie K8).",
       hu: "Wajir egy elszigetelt, oázis jellegű város Kenya északkeleti, sivatagi régiójában, lakossága túlnyomórészt szomáli pásztorokból áll. A város egy sűrű kút-hálózatra épült, amely az évszázadok során biztosította a túlélést a zord, száraz klímában. Az 1912-ben emelt Wajir-erőd ma is áll, amely a brit gyarmati jelenlét emléke. A város gazdasága elsősorban a tevetenyésztésre és a határkereskedelemre épül, és a nomád kultúra hű őrzője. (Történelem K6 — sivatagi oázisok és nomád kultúra)",
@@ -1057,8 +1080,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Narok",
       hu: "Narok",
       ro: "Narok",
-      en: "Narok"
-    },
+      en: "Narok",
+image: "/poi-images/narok-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Narok ist die Hauptstadt des Narok Countys und das wichtigste städtische Zentrum der Maasai-Volksgruppe im südwestlichen Kenia. Weltweit ist Narok als letzter großer Zwischenstopp und \"Tor\" zur weltberühmten Maasai Mara bekannt. Die Stadt liegt entlang des Großen Afrikanischen Grabenbruchs und wird von der saisonalen Flutung des Enkare Narok Rivers geprägt. Wirtschaftlich lebt Narok enorm vom Wildtiertourismus in der Mara sowie vom großflächigen Weizen- und Gerstenanbau in den fruchtbaren Gebieten rund um Mau Narok. In Narok verschmelzen traditionelles Maasai-Leben mit modernen landwirtschaftlichen und touristischen Dienstleistungen, was die Stadt zu einem der reichsten Countys in Kenia macht (Wirtschaft & Geografie K7).",
       hu: "Narok a világhírű Masai Mara Nemzeti Rezervátum kapuja és a maszáj nép egyik legfőbb közigazgatási és gazdasági bázisa. A város kettős gazdasággal bír: a hatalmas turisztikai bevételek mellett a régió Kenya legnagyobb búzatermő területe. Narok a hagyományos maszáj kultúra és a modern, gépesített mezőgazdaság lenyűgöző találkozási pontja, ahol a piacokon turisták és hagyományos ruhás pásztorok egyaránt megfordulnak. (Természetismeret K6 — szafari turizmus és vadvilág)",
@@ -1102,8 +1126,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Lodwar",
       hu: "Lodwar",
       ro: "Lodwar",
-      en: "Lodwar"
-    },
+      en: "Lodwar",
+image: "/poi-images/lodwar-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Lodwar, die Hauptstadt des riesigen Turkana Countys im Nordwesten Kenias, ist eine Wüstenstadt mit einer rauen, aber fesselnden Ausstrahlung. Sie liegt in einem der trockensten und heißesten Gebiete des Landes, westlich des Turkana-Sees. Die historische Bedeutung von Lodwar ist groß, denn während der britischen Kolonialzeit wurde hier 1959 Jomo Kenyatta, der erste Präsident Kenias, politisch inhaftiert; sein Haus steht heute noch als nationales Denkmal. In Lodwar dominiert die Kultur des Turkana-Volkes, bekannt für traditionelle Korbflechterei und Viehzucht. In den letzten Jahrzehnten hat die Entdeckung von Ölvorkommen in der Ngamia-1-Bohrung in der Nähe große Erwartungen geweckt und Lodwar in den Fokus der kenianischen Energiepolitik gerückt (Geschichte & Wirtschaft K8).",
       hu: "Lodwar Északnyugat-Kenya legnagyobb városa, a félsivatagos Turkana megye székhelye. A város perzselő hőségéről és pálmafáiról ismert, és a Turkana-tó közelében fekszik, ami némiképp enyhíti a klímát. Történelmileg is jelentős: a gyarmati időkben politikai foglyok börtöne volt, itt tartották fogva Jomo Kenyattát, a független Kenya első elnökét. A lakosság többsége a nomád turkana népből kerül ki, akik a kosárfonásról és a pásztorkodásról ismertek. (Történelem K8 — függetlenségi harcok és politikai foglyok)",
@@ -1147,8 +1172,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Busia",
       hu: "Busia",
       ro: "Busia",
-      en: "Busia"
-    },
+      en: "Busia",
+image: "/poi-images/busia-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Busia ist eine vitale Grenzstadt im Westen Kenias, die direkt an die gleichnamige Stadt in Uganda grenzt. Sie ist die Hauptstadt des Busia Countys und der zweitwichtigste Grenzübergang zwischen Kenia und Uganda (nach Malaba). Dieser Status als Grenzstadt macht Busia zu einem ununterbrochen summenden Zentrum für internationalen Handel, Logistik und Warentransport im Rahmen der East African Community (EAC). Die Region wird hauptsächlich von den Luhya- und Teso-Gemeinschaften bewohnt. Landwirtschaft, insbesondere Fischerei im nahen Viktoriasee, sowie der Anbau von Maniok, Mais und Baumwolle bilden das Rückgrat der ländlichen Wirtschaft rund um die Stadt. Busia bietet authentische Einblicke in das dynamische Leben einer afrikanischen Grenzregion (Geografie K7).",
       hu: "Busia egy pezsgő ikerváros, amely pontosan a kenyai-ugandai határon fekszik, és Kelet-Afrika egyik legforgalmasabb tranzitpontja. A teherautók és a kereskedők mindennapos látványa jellemzi a határátkelőt, ahol mind legális, mind informális kereskedelem zajlik az országok között. A helyiek többsége luhja és iteso származású. A kereskedelem mellett a város határában napraforgót és dohányt is termesztenek. (Földrajz K6 — nemzetközi kereskedelmi korridorok)",
@@ -1192,8 +1218,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Voi",
       hu: "Voi",
       ro: "Voi",
-      en: "Voi"
-    },
+      en: "Voi",
+image: "/poi-images/voi-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Voi ist die größte Stadt im Taita-Taveta County und ein entscheidender Verkehrsknotenpunkt im südöstlichen Kenia. Gegründet am Ufer des Voi-Flusses, entwickelte sich die Stadt rasant durch den Bau der historischen Uganda-Eisenbahn, die Mombasa mit dem Inland verband. Voi ist heute der wichtigste Knotenpunkt an der Fernstraße Nairobi-Mombasa und berühmt als das Tor zum riesigen Tsavo-East-Nationalpark, einem der größten Wildschutzgebiete Afrikas. Neben dem Wildtiertourismus spielt der Bergbau eine große Rolle; die umliegenden Taita-Hügel sind bekannt für Vorkommen seltener Edelsteine wie dem Tsavorit. Die strategische Lage macht Voi zudem zu einem Umschlagsplatz für landwirtschaftliche Produkte wie Sisal, die in der trockenen Region gedeihen (Wirtschaft & Geografie K8).",
       hu: "Voi egy stratégiai fontosságú közlekedési csomópont a Tsavo East Nemzeti Park szélén. Itt ágazik el a Nairobi-Mombasa főútvonal Tanzánia irányába. A várost a 19. század végén az Ugandai Vasút építése során alapították munkástáborként. Fekvése miatt a turizmusból is jelentősen profitál, mivel számtalan szafari-expedíció indul innen a környező hatalmas vadvédelmi területekre. Klímája száraz, a szavannai növényzet dominál. (Történelem K6 — vasútépítés és infrastruktúra)",
@@ -1237,8 +1264,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Ruiru",
       hu: "Ruiru",
       ro: "Ruiru",
-      en: "Ruiru"
-    },
+      en: "Ruiru",
+image: "/poi-images/ruiru-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Ruiru, im stark bevölkerten Kiambu County gelegen, ist eine der am schnellsten wachsenden Städte Kenias und liegt nur etwa 30 Kilometer nördlich von Nairobi. Ursprünglich war Ruiru von weiten Kaffeeplantagen geprägt, die in der Kolonialzeit angelegt wurden. Heute verwandeln sich viele dieser Flächen in große Wohn- und Industriegebiete, insbesondere seit dem Ausbau des Thika Superhighway. Ein herausragendes Projekt ist der Bau der Tatu City, einer riesigen, planmäßig angelegten Satellitenstadt in Ruiru, die Wohnraum für über 150.000 Menschen und hochmoderne Industriezonen bieten soll. Die Stadt profitiert enorm von der Infrastruktur Nairobis und zieht Unternehmen und Pendler gleichermaßen an, was sie zu einem Symbol für Kenias rasante Urbanisierung macht (Wirtschaft & Geografie K7).",
       hu: "Ruiru a Középső Tartományban, Nairobitól mindössze 30 kilométerre fekvő ipari és ingázóváros. A várost eredetileg a környező hatalmas kávéültetvények szolgálták ki, és történelme során is fontos mezőgazdasági bázis maradt. Ma Kenya egyik leggyorsabban növekvő települése, ami főként a Nairobi körüli szuburbanizációnak és az új ipari parkok, köztük a Tatu City közelségének köszönhető. Számos főiskola és magánegyetem campusa is itt található. (Földrajz K6 — agglomeráció és iparosodás)",
@@ -1283,8 +1311,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kilifi",
       hu: "Kilifi",
       ro: "Kilifi",
-      en: "Kilifi"
-    },
+      en: "Kilifi",
+image: "/poi-images/kilifi-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kilifi ist eine malerische Küstenstadt und die Hauptstadt des Kilifi Countys, berühmt für den spektakulären Kilifi Creek, einen tiefen Meeresarm, der die Stadt teilt. Bis zum Bau der imposanten Kilifi-Brücke im Jahr 1991, die zu den längsten in Ostafrika zählt, war die Überquerung nur per Fähre möglich. Die Stadt ist stark vom Swahili-Einfluss und der Mijikenda-Kultur, insbesondere der Giriama, geprägt. Wirtschaftlich stützt sich Kilifi auf Tourismus, Cashewnuss-Anbau und Fischerei. Zudem befindet sich hier die Pwani University, eine wichtige Forschungseinrichtung, sowie das Kenya Medical Research Institute (KEMRI). Nahe der Stadt liegen die mystischen Mnarani-Ruinen aus dem 14. Jahrhundert und der üppige Arabuko-Sokoke-Wald, der für seine seltene Tierwelt bekannt ist (Geografie & Biologie K7).",
       hu: "Kilifi egy festői fekvésű történelmi tengerparti város, a Kilifi-patak torkolatánál, Mombasától északra. Az egykori csendes halászfalu a Mnarani romok közelsége miatt fontos régészeti jelentőséggel is bír, ahol a korai szuahéli civilizáció nyomai láthatók. A város gazdasága ma a turizmuson, a halászaton, és a kesudió-termesztésen alapul. Az itt áthaladó hatalmas Kilifi-híd köti össze a déli és az északi partvidéket, ami nagyban fellendítette a helyi kereskedelmet. (Történelem K6 — parti kereskedelem és hidak)",
@@ -1328,8 +1357,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Mumias",
       hu: "Mumias",
       ro: "Mumias",
-      en: "Mumias"
-    },
+      en: "Mumias",
+image: "/poi-images/mumias-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mumias, im Kakamega County in Westkenia gelegen, ist historisch und wirtschaftlich von enormer Bedeutung. Benannt nach Nabongo Mumia, dem bedeutendsten König (Nabongo) des vorkolonialen Wanga-Königreichs, war die Stadt einst das Zentrum des mächtigsten zentralisierten Reiches der Luhya-Nation. Im späten 19. Jahrhundert schloss König Mumia Verträge mit britischen Entdeckern, was die Stadt zu einem frühen Verwaltungszentrum machte. Wirtschaftlich dominierte Mumias jahrzehntelang Kenias Zuckerindustrie, angetrieben von der Mumias Sugar Company, einst der größte Zuckerproduzent des Landes. Heute zeugen Kulturstätten wie das Nabongo Cultural Centre, in dem die Gräber vergangener Wanga-Könige ruhen, von der stolzen vorkolonialen Geschichte der Stadt (Geschichte K8).",
       hu: "Mumias neve évtizedeken át egyet jelentett a kenyai cukoriparral. A Nyugat-Kenyában fekvő város egykor az ősi Wanga Királyság központja volt, ahol Mumia király uralkodott a brit érkezés idején. Az 1970-es években itt alapították a Mumias Sugar Company-t, amely Afrika egyik legnagyobb cukorgyára lett, és fellendítette a helyi luhja lakosság gazdaságát. Jelenleg is a cukornádültetvények dominálják a környező, rendkívül zöld és csapadékos vidéket. (Történelem K7 — hagyományos királyságok és ipar)",
@@ -1373,8 +1403,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kapenguria",
       hu: "Kapenguria",
       ro: "Kapenguria",
-      en: "Kapenguria"
-    },
+      en: "Kapenguria",
+image: "/poi-images/kapenguria-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kapenguria ist die Hauptstadt des West Pokot Countys und liegt in den zerklüfteten Hügeln des Rift Valleys in Westkenia. Die Stadt nimmt einen festen Platz in Kenias Geschichtsbüchern ein: Im Jahr 1952 fand hier der berüchtigte Prozess gegen die \"Kapenguria Six\" statt, darunter der spätere Präsident Jomo Kenyatta. Sie wurden von den britischen Kolonialherren fälschlicherweise beschuldigt, den Mau-Mau-Aufstand zu leiten. Die Zellen und der Gerichtssaal, in denen sie inhaftiert waren, sind heute als Kapenguria Museum erhalten. Die Bevölkerung der Region besteht größtenteils aus dem Volk der Pokot, die traditionell Viehzucht betreiben. Nahe der Stadt befindet sich der Turkwel-Staudamm (Turkwel Gorge Dam), Kenias höchster Staudamm, der entscheidend für die Stromerzeugung ist (Geschichte K8).",
       hu: "Kapenguria egy hegyvidéki kisváros a Cherangani-dombság közelében, amely a kenyai történelem egyik legfontosabb helyszíne. Az 1952-es híres 'Kapenguriai hatok' pere során itt ítélték el Jomo Kenyattát és öt másik függetlenségi vezetőt a brit gyarmati hatóságok. Ma a város múzeuma – amely az egykori börtönépületben kapott helyet – ennek a sorsdöntő eseménynek és a helyi pokot kultúrának állít emléket. A vidék gazdaságát az állattenyésztés uralja. (Történelem K8 — dekolonizáció és perek)",
@@ -1419,8 +1450,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Nanyuki",
       hu: "Nanyuki",
       ro: "Nanyuki",
-      en: "Nanyuki"
-    },
+      en: "Nanyuki",
+image: "/poi-images/nanyuki-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Nanyuki, in Laikipia County gelegen, liegt exakt auf dem Äquator, was oft durch Hinweisschilder markiert ist und Touristen anzieht. Die 1907 von britischen Siedlern gegründete Stadt dient als wichtigster Ausgangspunkt für Expeditionen und Bergbesteigungen der nordwestlichen Routen des Mount Kenya. Nanyuki hat eine starke militärische Präsenz: Hier befindet sich ein wichtiger Stützpunkt der kenianischen Luftwaffe (KAF) sowie die BATUK (British Army Training Unit Kenya), die die weiten, trockenen Ebenen von Laikipia für Militärübungen nutzt. Wirtschaftlich ist Nanyuki ein Zentrum für den Handel mit Rindfleisch und Wolle. Zudem liegt die Stadt umgeben von weltbekannten privaten Wildschutzgebieten wie Ol Pejeta (Heimat seltener Nashörner) und Lewa, was den Tourismus ankurbelt (Geografie & Politik K7).",
       hu: "Nanyuki az Egyenlítőn fekvő város, amely a Kenya-hegy megmászására induló turisták fő bázisa. A várost eredetileg a 20. század elején alapították brit telepesek farmközpontként, és a brit hadsereg máig fenntart itt egy gyakorlóbázist (BATUK). Nanyuki gazdaságának motorja a szafariturizmus, az Ol Pejeta és a Lewa vadvédelmi rezervátumok közelsége miatt. A tiszta hegyi levegő és a lenyűgöző kilátás miatt sok külföldi is ide költözött. (Földrajz K6 — hegységek és az Egyenlítő)",
@@ -1464,8 +1496,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kikuyu",
       hu: "Kikuyu",
       ro: "Kikuyu",
-      en: "Kikuyu"
-    },
+      en: "Kikuyu",
+image: "/poi-images/kikuyu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kikuyu Town, benannt nach Kenias größter ethnischer Gruppe, liegt im Kiambu County, nur wenige Kilometer von Nairobi entfernt. Die Stadt hat eine tiefe historische Bedeutung, da hier in den späten 1890er Jahren eine der ersten Missionarsstationen Ostafrikas durch die Church of Scotland Mission (CSM) gegründet wurde. Kikuyu besitzt einige der ältesten Bildungseinrichtungen Kenias, darunter die berühmte Alliance High School und das PCEA Kikuyu Hospital, die beide maßgeblich zur Entwicklung des Landes beitrugen. Geografisch zeichnet sich Kikuyu durch kühles Klima, fruchtbare Böden und hügeliges Terrain aus, was den intensiven Anbau von Gemüse und Kaffee ermöglicht. Durch den Ausbau der südlichen Umgehungsstraße ist die Stadt stark in das Wirtschaftssystem Nairobis integriert (Geschichte K7).",
       hu: "Kikuyu városa Nairobitól északnyugatra fekszik, és a legelső misszionárius állomások egyike volt a térségben, amit még 1898-ban alapítottak. Nevét Kenya legnagyobb etnikai csoportjáról, a kikujukról kapta. Történelmi jelentősége a korai brit missziókból, kórházakból és iskolákból ered, amelyek ma is meghatározzák a települést. A fővároshoz való közelsége miatt mára nagyrészt Nairobi elővárosává vált, de mezőgazdasági múltja a környező zöldségeskertekben még tetten érhető. (Történelem K6 — misszionáriusok és városiasodás)",
@@ -1509,8 +1542,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Nyahururu",
       hu: "Nyahururu",
       ro: "Nyahururu",
-      en: "Nyahururu"
-    },
+      en: "Nyahururu",
+image: "/poi-images/nyahururu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Nyahururu, in der Kolonialzeit als Thomson's Falls bekannt, ist die höchstgelegene Großstadt Kenias (etwa 2.360 Meter über dem Meeresspiegel). Sie liegt auf dem Laikipia-Plateau an der Grenze zum Nyandarua County. Die Hauptattraktion der Stadt sind die spektakulären Thomson-Wasserfälle (Thomson's Falls) des Ewaso-Narok-Flusses, die über 70 Meter in die Tiefe stürzen. Die Stadt wurde 1883 vom britischen Entdecker Joseph Thomson entdeckt und diente lange als Knotenpunkt auf der alten Eisenbahnstrecke von Gilgil. Das kalte Klima macht Nyahururu zu einer florierenden Agrarregion für den Anbau von Kartoffeln, Kohl und Schnittblumen. Die extreme Höhe wird zudem von vielen der besten Leichtathleten Kenias für das Höhentraining genutzt (Geografie K7).",
       hu: "Nyahururu, korábbi nevén Thomson's Falls, egy magasan fekvő város az Aberdare-hegység északi peremén. Legfőbb nevezetessége a városon áthaladó Ewaso Narok folyón található 74 méteres vízesés. A 2300 méteres tengerszint feletti magasság Kenya egyik leghűvösebb klímájú városává teszi, ahol a hőmérséklet éjszaka gyakran 10°C alá süllyed. A hűvös éghajlat miatt a város a maratoni futók népszerű edzőközpontja, de kiterjedt virág- és zöldségültetvényekkel is rendelkezik. (Földrajz K7 — magaslati éghajlat és vízesések)",
@@ -1554,8 +1588,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Siaya",
       hu: "Siaya",
       ro: "Siaya",
-      en: "Siaya"
-    },
+      en: "Siaya",
+image: "/poi-images/siaya-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Siaya, die Hauptstadt des gleichnamigen Siaya Countys, liegt in Westkenia unweit des Viktoriasees. Die Stadt und das umgebende County sind das kulturelle und politische Zentrum der Luo-Bevölkerung. Weltweite Bekanntheit erlangte die Region durch das nahegelegene Dorf Kogelo, das der historische Stammsitz der Familie des ehemaligen US-Präsidenten Barack Obama ist. Wirtschaftlich ist die Region stark von der Subsistenzwirtschaft und der Fischerei im Viktoriasee geprägt, obwohl der Boden in vielen Teilen als weniger fruchtbar gilt als in den benachbarten Countys. Siaya ist auch bekannt für seine dichte Ansammlung von Schulen und Colleges, was die historische Priorisierung von Bildung in der lokalen Luo-Kultur widerspiegelt (Politik & Geografie K8).",
       hu: "Siaya a Viktória-tó északi öbleinek közelében fekszik, a kenyai luo közösség kulturális és politikai központja. A város történelmi jelentőségét adja, hogy számos neves kenyai akadémikus és politikus, köztük Barack Obama apjának szülőföldje, Kogelo falu is ebben a régióban található. A lakosság elsősorban mezőgazdaságból, cirok- és kukoricatermesztésből él. Bár Siaya iparilag kevésbé fejlett, az erős oktatási intézmények és a kulturális örökség miatt jelentős szereplője az országnak. (Történelem K6 — kulturális központok és származás)",
@@ -1599,8 +1634,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Bomet",
       hu: "Bomet",
       ro: "Bomet",
-      en: "Bomet"
-    },
+      en: "Bomet",
+image: "/poi-images/bomet-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bomet ist das pulsierende Zentrum des Bomet Countys in der südlichen Rift-Valley-Region. Die Stadt liegt in den weiten, sanft hügeligen Highlands und ist das kulturelle Herz der Kipsigis, einer großen Untergruppe der Kalenjin-Ethnie. Landwirtschaftlich ist Bomet ein wahrer Riese: Die Region produziert enorme Mengen an Tee und profitiert von fruchtbaren Böden und regelmäßigen Niederschlägen. Große multinationale und lokale Teefabriken säumen die Umgebung. Zudem ist die Milchviehhaltung ein wesentlicher wirtschaftlicher Pfeiler für unzählige Kleinbauern in der Umgebung. Bomet liegt verkehrsgünstig an der Hauptstraße, die in die südliche Maasai Mara führt, was der Stadt einen stetigen Fluss an Handel und lokalen Tourismus einbringt (Wirtschaft K7).",
       hu: "Bomet egy lendületes mezőgazdasági város a Dél-Rift régióban, a Mau-erdő szomszédságában. A kipsigis népcsoport által lakott terület kiváló természeti adottságokkal bír a teatermesztés és a tejelő szarvasmarha-tartás számára. Bomet a környező vidék kereskedelmi agya, ahol az agrártermékeket begyűjtik és továbbítják a nagyobb piacok felé. A várost buja, zöld dombvidék veszi körül, amelyet az egyenletes, egész éven át tartó esőzések táplálnak. (Földrajz K6 — tejtermelés és tea)",
@@ -1644,8 +1680,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Athi River",
       hu: "Athi River",
       ro: "Athi River",
-      en: "Athi River"
-    },
+      en: "Athi River",
+image: "/poi-images/athi-river-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Athi River, auch bekannt als Mavoko, ist eine boomende Industriestadt im Machakos County, südöstlich von Nairobi. Die Stadt verdankt ihren Namen dem Athi-Fluss, an dessen Ufern sie wuchs. Athi River ist das Herzstück der kenianischen Zement- und Bauindustrie; hier befinden sich Fabriken gigantischer Konzerne wie Bamburi Cement, Mombasa Cement und East African Portland Cement, da die Region reich an Kalksteinvorkommen ist. Darüber hinaus beherbergt Athi River eine große Export Processing Zone (EPZ), die Zehntausende von Arbeitsplätzen in der Textil- und Fertigungsindustrie bietet. Die Stadt liegt verkehrsgünstig an der SGR-Eisenbahnstrecke und der Mombasa-Autobahn, was sie zum ultimativen Logistikzentrum macht (Wirtschaft K8).",
       hu: "Athi River Nairobitól délkeletre található ipari város, nevét a rajta keresztülfolyó Athi-folyóról kapta. Az ország legnagyobb ipari csomópontjainak egyike; itt koncentrálódik Kenya cementgyártása, köszönhetően a helyi gazdag mészkőlelőhelyeknek. Továbbá egy hatalmas Exportfeldolgozó Övezetnek (EPZ) is otthont ad, ami számos textil- és könnyűipari cég működését biztosítja. A Mombasa felé vezető vasút és autópálya kulcsfontosságú logisztikai bázissá teszi a települést. (Földrajz K7 — nehézipar és exportzónák)",
@@ -1689,8 +1726,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Vihiga",
       hu: "Vihiga",
       ro: "Vihiga",
-      en: "Vihiga"
-    },
+      en: "Vihiga",
+image: "/poi-images/vihiga-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Vihiga, die größte Stadt des gleichnamigen Vihiga Countys in Westkenia, besticht durch ihre felsige Landschaft und ihre dichte Besiedlung. Sie liegt in den westlichen Ausläufern des Rift Valleys, nicht weit vom Äquator entfernt. Vihiga ist vor allem die kulturelle Heimat der Maragoli, einer prominenten Untergruppe der Luhya-Nation. Die Region zeichnet sich durch riesige, dramatische Granitfelsen aus, die in den üppig grünen Hügeln verstreut liegen, darunter die berühmten Maragoli-Hills. Aufgrund der sehr hohen Bevölkerungsdichte sind die landwirtschaftlichen Flächen klein, was die Bewohner zu intensiver Subsistenzwirtschaft (Mais, Bohnen, Tee) zwingt. Kulturell ist Vihiga berühmt für das jährliche Maragoli-Kulturfestival, das traditionell am zweiten Weihnachtstag stattfindet (Geografie & Gesellschaft K7).",
       hu: "Vihiga a Nyugat-kenyai régió egyik legsűrűbben lakott, rendkívül csapadékos és termékeny területe, a maragori luhja közösség otthona. A város egy hatalmas gránitszikla árnyékában, buja trópusi környezetben fekszik, a Kakamega-erdő és Kisumu között. A terület gazdaságát a kis parcellás, rendkívül intenzív földművelés – kukorica, banán és bab termesztése – jellemzi. Vihiga híres hagyományos zenéjéről és élénk kulturális fesztiváljairól is. (Földrajz K6 — népsűrűség és intenzív agrárium)",
@@ -1735,8 +1773,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Chuka",
       hu: "Chuka",
       ro: "Chuka",
-      en: "Chuka"
-    },
+      en: "Chuka",
+image: "/poi-images/chuka-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Chuka ist die größte städtische Siedlung im Tharaka-Nithi County und schmiegt sich an die östlichen Hänge des Mount Kenya. Die Stadt ist benannt nach den Chuka, einer Untergruppe des Ameru-Volkes. Traditionell und historisch bekannt für ihre mutigen Krieger (die einst die \"Mau Mau\"-Rebellen in den dichten Wäldern unterstützten), ist Chuka heute ein florierendes Agrarzentrum. Die vulkanischen Böden ermöglichen den lukrativen Anbau von Kaffee, Tee, Macadamia-Nüssen und Bananen. Die Chuka University, eine rapidly wachsende Bildungseinrichtung im Vorort Ndagani, hat das wirtschaftliche Profil der Stadt massiv verändert und Tausende Studenten angezogen. Chuka dient auch als Zugangspunkt zur östlichen Mount-Kenya-Route (Biologie & Gesellschaft K7).",
       hu: "Chuka a Kenya-hegy keleti, dúsan erdősült lejtőin megbúvó mezőgazdasági kisváros. A település híres a tharaka-nithi népcsoport hagyományos dobosairól és táncosairól, akik látványos előadásaikkal gyakran szerepelnek nemzeti ünnepségeken. Chuka az ország egyik legfontosabb kávétermelő bázisa, a vulkáni talaj különleges aromát ad az itteni termésnek. Az újonnan alapított Chuka Egyetem jelentősen felgyorsította a település fejlődését, ami a modernizáció felé mozdította a várost. (Földrajz K6 — kultúra és kávétermesztés)",
@@ -1780,8 +1819,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kiambu",
       hu: "Kiambu",
       ro: "Kiambu",
-      en: "Kiambu"
-    },
+      en: "Kiambu",
+image: "/poi-images/kiambu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kiambu Town ist die Hauptstadt des Kiambu Countys und liegt in unmittelbarer Nähe nördlich von Nairobi. Sie wurde um 1900 von britischen Siedlern gegründet und entwickelte sich rasch zu einem der wichtigsten Zentren für den Kaffeeanbau in Kenia. Jahrhundertelang bildete diese wohlhabende Region das Herzstück des Gikuyu-Landes. Historisch gesehen stammen viele der einflussreichsten Politiker und Geschäftsleute Kenias (inklusive des ersten Präsidenten Jomo Kenyatta) aus dem Kiambu County, was der Stadt den Ruf einer \"politischen Elite-Schmiede\" einbrachte. Mit der massiven Expansion Nairobis wandeln sich die einst endlosen Kaffeeplantagen um Kiambu Town zunehmend in hochklassige Wohngebiete, Einkaufszentren und Golfclubs (Geschichte & Wirtschaft K8).",
       hu: "Kiambu Nairobitól alig néhány kilométerre északra fekvő ősi kikuju közigazgatási központ. A város és környezete egykor sűrű erdőség volt, amit a 20. század elején hatalmas kávé- és teaültetvényekké alakítottak át. Napjainkban a város jelentős átalakuláson megy keresztül, mivel az egykori farmok helyén elit lakóövezetek, golfklubok és bevásárlóközpontok épülnek a növekvő nairobi középosztály számára. Ennek ellenére történelmi épületei és zöld környezete megmaradt. (Földrajz K7 — agglomerációs terjeszkedés)",
@@ -1825,8 +1865,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Mandera",
       hu: "Mandera",
       ro: "Mandera",
-      en: "Mandera"
-    },
+      en: "Mandera",
+image: "/poi-images/mandera-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mandera ist eine der abgelegensten Städte Kenias und liegt extrem im Nordosten, genau an der Dreiländerecke (dem sogenannten Triangle) zwischen Kenia, Äthiopien und Somalia. Die Stadt zeichnet sich durch ein glühend heißes und wüstenhaftes Klima aus. Mandera ist ein lebendiger Schmelztiegel somalischer und äthiopischer Kulturen und lebt wirtschaftlich fast ausschließlich vom grenzüberschreitenden Viehhandel, vor allem mit Kamelen, Ziegen und Rindern. Aufgrund ihrer Grenzlage sah sich Mandera historisch oft mit sicherheitspolitischen Herausforderungen konfrontiert, insbesondere im Zusammenhang mit Schmuggel und militanten Gruppierungen. Dennoch hat die Stadt eine widerstandsfähige Gemeinschaft bewahrt und dient als wichtigstes Handelszentrum der entlegenen Nordost-Region (Geografie & Politik K8).",
       hu: "Mandera a kenyai, szomáliai és etiópiai határok találkozásánál (hármashatár) fekvő poros, szárazföldi sivatagi város. A távoli és elszigetelt település lakói főként nomád szomáli pásztorok, akik számára a teve és a szarvasmarha jelenti a megélhetést. Wajirhoz és Garissához hasonlóan a klíma itt rendkívül meleg és száraz, a víz a legnagyobb kincs. A város gazdasága a három ország közötti informális árucserére és a jószágkereskedelemre támaszkodik, dacolva a térség biztonsági kihívásaival. (Földrajz K8 — hármashatárok és sivatagi túlélés)",
@@ -1870,8 +1911,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Marsabit",
       hu: "Marsabit",
       ro: "Marsabit",
-      en: "Marsabit"
-    },
+      en: "Marsabit",
+image: "/poi-images/marsabit-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Marsabit, eine Oasenstadt im weiten Norden Kenias, ist eine bemerkenswerte geografische Anomalie. Die Stadt liegt isoliert auf dem erloschenen Schildvulkan Mount Marsabit in einer Höhe von rund 1.700 Metern. Während die umgebende Wüste Chalbi flach, heiß und trocken ist, fängt der Berg die Feuchtigkeit ein und ist von dichtem, nebeligem Regenwald umgeben. Der direkt an die Stadt angrenzende Marsabit-Nationalpark ist Heimat großer Elefantenherden – historisch berühmt durch \"Ahmed\", einen Elefanten mit riesigen Stoßzähnen, der in den 1970er Jahren persönlichen Schutz durch Präsident Kenyatta erhielt. Marsabit ist auch ein faszinierendes kulturelles Zentrum, in dem Rendille, Borana, Gabbra und Burji in einem rauen Umfeld zusammenleben (Geografie K7).",
       hu: "Marsabit egy megdöbbentő, vulkáni oázis Észak-Kenya végtelen sivatagjában. A város a Marsabit vulkán kialudt lejtőin, sűrű, ködbe burkolózó esőerdő szélén épült, éles kontrasztban az őt körülvevő száraz síkságokkal. A klíma itt hűvös és párás. Marsabit a nomád borana, rendille, gabbra és turkana törzsek találkozóhelye és piaca. A közeli Marsabit Nemzeti Park krátertavai – mint például a Lake Paradise – elefántok és bivalyok menedéke. (Természetismeret K6 — vulkáni oázisok és nomád piacok)",
@@ -1915,8 +1957,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Nyamira",
       hu: "Nyamira",
       ro: "Nyamira",
-      en: "Nyamira"
-    },
+      en: "Nyamira",
+image: "/poi-images/nyamira-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Nyamira, gelegen in der südwestlichen Ecke Kenias, ist die Hauptstadt des Nyamira Countys und bildet zusammen mit Kisii das traditionelle Hochland-Territorium der Gusii-Bevölkerung. Nyamira zeichnet sich durch seine atemberaubenden, saftig grünen Hügel, eine sehr hohe Bevölkerungsdichte und ein kühles, feuchtes Klima aus, das das ganze Jahr über üppige Ernten garantiert. Tee und Bananen sind die Hauptstützen der lokalen Wirtschaft, wobei kleine Parzellen intensiv bewirtschaftet werden. Obwohl Nyamira im Schatten seines größeren Nachbarn Kisii steht, fungiert die Stadt als wichtiges landwirtschaftliches Verwaltungszentrum. Die tiefen Täler und steilen Hügel machen Nyamira zu einer der landschaftlich reizvollsten, aber infrastrukturell anspruchsvollsten Regionen Kenias (Geografie K7).",
       hu: "Nyamira egy termékeny, dimbes-dombos mezőgazdasági kisváros a Kisii-hegyvidéken, amelyet jórészt a kisii (gusii) etnikai csoport lakik. A vidék vulkáni talaja és az egész évben gyakori csapadék ideálissá teszi a tea, a banán és a passion fruit (maracuja) termesztésére, amely a lakosság fő jövedelemforrása. A terület népsűrűsége rendkívül magas, ezért a farmok többsége nagyon apró. Nyamira nyugodt, dolgos atmoszférája ellenére jelentős mezőgazdasági exportőr a belföldi piacon. (Földrajz K6 — gyümölcstermesztés és vulkáni talaj)",
@@ -1960,8 +2003,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kwale",
       hu: "Kwale",
       ro: "Kwale",
-      en: "Kwale"
-    },
+      en: "Kwale",
+image: "/poi-images/kwale-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kwale ist eine ruhige Stadt in den Küstenhügeln Südkenias und das Verwaltungszentrum des Kwale Countys. Im Gegensatz zu den heißen Küstenorten wie Diani Beach, das ebenfalls zum County gehört, profitiert Kwale von der kühleren, erhöhten Lage in den Shimba Hills. Direkt neben der Stadt erstreckt sich das Shimba-Hills-Nationalreservat, ein Biodiversitäts-Hotspot, der als letzter Zufluchtsort der stark bedrohten Rappenantilope (Sable Antelope) in Kenia bekannt ist. Wirtschaftlich erlebt die Region seit 2013 einen massiven Aufschwung durch das Base-Titanium-Bergbauprojekt, das enorme Mengen an Titanmineralien wie Rutil und Ilmenit fördert. Dennoch dominieren für die einheimische Digo-Bevölkerung weiterhin Landwirtschaft und Kleinhandel (Geografie & Biologie K8).",
       hu: "Kwale egy partmenti dombvidéki város Mombasától délre, amely a híres Shimba-hegység lábánál fekszik. A város zöld és párás környezete menedéket nyújt a tengerparti hőség elől, és az őslakos digo nép közigazgatási központja. A közelmúltban a gazdaság hatalmas fellendülést tapasztalt a Base Titanium bányavállalat megnyitásával, amely nehézásványokat termel ki a város közelében. A Shimba Hills Nemzeti Rezervátum a ritka fakó antilopok egyik utolsó menedéke. (Földrajz K7 — ritkaföldfém-bányászat és természetvédelem)",
@@ -2005,8 +2049,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kangundo",
       hu: "Kangundo",
       ro: "Kangundo",
-      en: "Kangundo"
-    },
+      en: "Kangundo",
+image: "/poi-images/kangundo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kangundo ist eine historische und landwirtschaftlich bedeutende Stadt im Machakos County, die in den malerischen Kangundo- und Matungulu-Hügeln liegt. Die Stadt entwickelte sich während der Kolonialzeit stark, vor allem weil christliche Missionare (wie die der African Inland Mission) hier früh Schulen und Krankenhäuser etablierten, darunter das berühmte Kangundo Level 4 Hospital. In der Mitte des 20. Jahrhunderts wurde Kangundo als \"Millionärsstadt\" der Kamba-Bevölkerung bekannt, da die hier ansässigen Kaffeebauern dank des boomenden globalen Kaffeepreises zu großem Reichtum kamen. Heute ist Kangundo noch immer stark agrarisch geprägt und produziert neben Kaffee auch Bohnen, Mais und Papayas für den Markt in Nairobi (Geschichte & Landwirtschaft K7).",
       hu: "Kangundo a kamba régió egyik legrégebbi közigazgatási és oktatási központja a Machakos megyében. A gyarmati időkben a misszionáriusok itt építették fel az első erős téglaiskolákat és kórházakat a vidéken. Bár a terület félszáraz, Kangundo magaslati fekvése lehetővé teszi a kávé és a teraszos kukorica termesztését. A város a történelmi kereskedelmi útvonalak metszéspontján áll, és máig a kamba kultúra büszke bástyája, amely híres a kosárfonásról és fafaragásról. (Történelem K6 — misszionárius oktatás)",
@@ -2050,8 +2095,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Gilgil",
       hu: "Gilgil",
       ro: "Gilgil",
-      en: "Gilgil"
-    },
+      en: "Gilgil",
+image: "/poi-images/gilgil-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Gilgil ist eine strategisch wichtige Stadt im Nakuru County, eingebettet zwischen Naivasha und Nakuru im Rift Valley. Während der britischen Kolonialzeit in den 1920er Jahren wurde Gilgil als riesiger Eisenbahnknotenpunkt gegründet, der die Hauptstrecke mit einer Abzweigung nach Nyahururu verband. Heute ist Gilgil vor allem als die wichtigste Garnisonsstadt Kenias bekannt. Hier befinden sich große Kasernen der Kenya Defence Forces (KDF), der National Youth Service (NYS) und die Anti-Stock Theft Unit. Neben dem Militär zieht die Stadt Touristen an, die zum nahegelegenen Lake Elementaita (Heimat von Flamingos und Pelikanen) oder zum Kariandusi-Prähistorik-Museum, einer bedeutenden Fundstätte von Faustkeilen der frühen Hominiden, reisen (Geografie & Geschichte K7).",
       hu: "Gilgil egy nyüzsgő közlekedési és katonai kisváros a Nagy-hasadékvölgyben, Naivasha és Nakuru között. Története mélyen összefonódik a hadsereggel; a brit időkben jelentős katonai garnizon volt, ma pedig a Kenyai Védelmi Erők egyik fő bázisa. A vasútvonal mellett épült város ma már a környező hatalmas tej- és vágómarha farmok kereskedelmi központjaként is szolgál. Klímája száraz, a növényzet jellegzetesen akáciás szavanna. (Történelem K6 — katonai helyőrségek)",
@@ -2095,8 +2141,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kapsabet",
       hu: "Kapsabet",
       ro: "Kapsabet",
-      en: "Kapsabet"
-    },
+      en: "Kapsabet",
+image: "/poi-images/kapsabet-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kapsabet ist die Hauptstadt des Nandi Countys und thront auf dem weiten, üppigen Nandi-Plateau in Westkenia. Die Stadt ist die unbestrittene kulturelle Hochburg des Nandi-Volkes. International bekannt ist Kapsabet als \"die Brutstätte der Champions\". Nirgendwo sonst auf der Welt gibt es eine so hohe Dichte an Olympiasiegern und Weltrekordhaltern im Lang- und Mittelstreckenlauf wie in Kapsabet und den umliegenden Dörfern. Die Höhenlage von rund 2.000 Metern, das perfekte Klima und eine genetische Veranlagung machen die Athleten unschlagbar. Neben dem Sport ist die Region eines der Hauptanbaugebiete für Tee in Kenia; die Teeplantagen der Nandi-Hills prägen das Landschaftsbild maßgeblich und sichern das wirtschaftliche Überleben (Sport & Biologie K8).",
       hu: "Kapsabet a nandi nép fővárosa a Rift-völgy magasföldjén, híres buja, smaragdzöld teaültetvényeiről. A város, akárcsak Eldoret, a kenyai hosszútávfutók bölcsője; tucatnyi olimpiai bajnok indult útjára Kapsabet híres edzőtáboraiból és középiskoláiból. Az 1900 méter feletti tengerszint feletti magasság biztosítja a szükséges ritkás levegőt az állóképesség fejlesztéséhez. A tea mellett az erdészet és a tejtermelés a helyi gazdaság gerince. (Földrajz K6 — magasföldek és sport)",
@@ -2140,8 +2187,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Limuru",
       hu: "Limuru",
       ro: "Limuru",
-      en: "Limuru"
-    },
+      en: "Limuru",
+image: "/poi-images/limuru-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Limuru ist eine bezaubernde, nebelverhangene Stadt im Kiambu County, die am östlichen Rand des Rift Valleys auf einer erstaunlichen Höhe von über 2.200 Metern liegt. Das eisige Klima, kombiniert mit fruchtbarer vulkanischer Asche, macht Limuru zum unbestrittenen Zentrum des Teeanbaus in Zentral-Kenia (im Gegensatz zu Kericho im Westen). Im Jahr 1903 wurde hier der erste Tee Kenias durch den Europäer AB McDonell gepflanzt, und heute produzieren riesige Güter wie Mabroukie Tee von Weltklasse. Industriell ist Limuru untrennbar mit der Schuhfabrik Bata verbunden, deren gigantisches Werk seit den 1930er Jahren Generationen von Kenianern mit Schuhen versorgt. Diese Mischung aus Industrie und idyllischen Teefeldern macht die Stadt einzigartig (Wirtschaft K8).",
       hu: "Limuru Nairobitól nyugatra található hűvös, magaslati város, amely a brit gyarmati tea-bárók egyik legkorábbi központja volt. A vastag, sűrű ködök és a 2200 méteres tengerszint feletti magasság miatt az ide látogató európaiak Skóciához hasonlították a vidéket. Ma Limuru ad otthont a történelmi teaüzemeknek (például a híres Mabroukie teabirtok), valamint az ország egyik legrégibb cipőgyárának, a Bata üzemnek. A tájat ma is az elegáns kúriák és a teamezők uralják. (Földrajz K7 — magashegyi ipar és tea)",
@@ -2186,8 +2234,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Molo",
       hu: "Molo",
       ro: "Molo",
-      en: "Molo"
-    },
+      en: "Molo",
+image: "/poi-images/molo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Molo liegt tief in den dichten Wäldern und Highlands des Nakuru Countys und ist berüchtigt für sein eisiges Klima – oft fallen die Temperaturen hier auf Werte knapp über dem Gefrierpunkt. Früher war Molo umgeben vom endlosen Mau-Wald, Kenias größtem Wassereinzugsgebiet, doch Landwirtschaft und Holzeinschlag haben die Landschaft stark verändert. Historisch etablierten europäische Siedler in Molo eine blühende Industrie für Schafzucht und Molkereien; das \"Molo-Lamm\" (Molo Lamb) gilt bis heute in kenianischen Restaurants als eine seltene und teure Delikatesse. Zudem ist die Region das größte Anbaugebiet für Pyrethrum (Wucherblumen), eine Pflanze, aus der biologische Insektizide gewonnen werden. Trotz dunkler politischer Episoden in den 1990er Jahren ist die Stadt ein Agrar-Gigant geblieben (Geografie K7).",
       hu: "Molo egy nyugodt hegyvidéki kisváros Nakuru közelében, a Mau-erdő magasföldjein. A 2500 méteres magasság miatt a hőmérséklet gyakran megközelíti a fagypontot, ami teljesen egyedi flórát eredményez Kenyában. A britek itt honosították meg a juh- és burgonyatenyésztést; a 'molo-i bárány' fogalom a minőségi hús szinonimája a kenyai piacon. A város faipara is jelentős volt a hatalmas, mára sokat ritkult tűlevelű erdőségeknek köszönhetően. (Földrajz K6 — hegyvidéki pásztorkodás és fagypont)",
@@ -2231,8 +2280,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Ngong",
       hu: "Ngong",
       ro: "Ngong",
-      en: "Ngong"
-    },
+      en: "Ngong",
+image: "/poi-images/ngong-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Ngong liegt malerisch am Fuße der spektakulären Ngong-Hügel (Ngong Hills) im Kajiado County. Einst war es ein kleines Dorf der Maasai und ein beliebtes Erholungsgebiet für europäische Kolonialisten (berühmt geworden durch Karen Blixens Buch \"Jenseits von Afrika\"). Heute ist Ngong faktisch ein sehr beliebter, rapidly wachsender Vorort von Nairobi. Die steilen Hügelkuppen der Ngong Hills erheben sich bis auf 2.460 Meter, bieten einen atemberaubenden Blick über das Rift Valley im Westen und Nairobi im Osten und sind heute Standort von Kenias größtem Windpark. Trotz der massiven Urbanisierung bleibt Ngong ein wichtiger Knotenpunkt für Vieh- und Fleischhandel und ein Trainingsparadies für Langstreckenläufer, die das anspruchsvolle Terrain nutzen (Geografie & Literatur K8).",
       hu: "Ngong a híres Ngong-hegyek lábánál épült város, Nairobi délnyugati határában. A név maszáj nyelven 'bütyköket' jelent, utalva a hegyek négy látványos csúcsára, amelyek uralják a láthatárt. Ngong az angol telepesek idején kedvelt lovas- és vadászterület volt, amit Karen Blixen 'Volt egy farmom Afrikában' című könyve is megörökített. Mára dinamikus ingázóvárossá vált, de a környező hegyek peremén ma is szélerőművek és sétaútvonalak vonzzák a kirándulókat. (Történelem K7 — gyarmati irodalom és agglomeráció)",
@@ -2276,8 +2326,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kisii",
       hu: "Kisii",
       ro: "Kisii",
-      en: "Kisii"
-    },
+      en: "Kisii",
+image: "/poi-images/kisii-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kisii, auch liebevoll als \"Bosongo\" bekannt, ist das kommerzielle und kulturelle Herz des Gusii-Landes in Südwestkenia. Die Stadt zeichnet sich durch extrem fruchtbare Böden und ständigen Regenfall aus, was sie zu einem landwirtschaftlichen Powerhouse macht. Kisii ist das absolute Zentrum für den Anbau von Bananen in Kenia und ein Großproduzent von Tee und Kaffee. Eine Besonderheit der Region ist das im Vorort Tabaka abgbaute Speckstein-Mineral (Soapstone). Die Kisii-Specksteinschnitzereien – handgemachte Skulpturen in rosa, weißen und schwarzen Tönen – sind weltweit begehrt. Mit einer enorm hohen Bevölkerungsdichte wächst die Stadt rasant und ist ein Zentrum für Bildungseinrichtungen wie die Kisii University sowie Krankenhäuser (Wirtschaft & Kunst K7).",
       hu: "Kisii a Délnyugat-kenyai régió legjelentősebb gazdasági és közigazgatási motorja. A folyamatosan esős, rendkívül buja és zöld dombvidéken épült város a kisii (gusii) etnikum fővárosa. Kenya szappanokkő-faragásának (szteatit) egyetlen központja; az itt készült finom szobrokat a világ minden tájára exportálják. A város emellett hatalmas mennyiségű teát, kávét és banánt termel, dinamikus egyetemi élettel és magas népsűrűséggel jellemezhető. (Földrajz K7 — kőfaragás és trópusi dombvidék)",
@@ -2321,8 +2372,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Hola",
       hu: "Hola",
       ro: "Hola",
-      en: "Hola"
-    },
+      en: "Hola",
+image: "/poi-images/hola-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Hola ist eine heiße, flache Wüstenstadt und das Verwaltungszentrum des Tana River Countys. Die Siedlung liegt direkt am Ufer des Tana-Flusses, der Kenias längster Fluss ist und als grüne Lebensader durch die sonst völlig semiaride Region fließt. Hola erlangte in den 1950er Jahren während des Mau-Mau-Aufstandes traurige Berühmtheit durch das Hola-Massaker in einem britischen Internierungslager, ein Ereignis, das den Unabhängigkeitskampf Kenias maßgeblich beeinflusste. Heute ist die Wirtschaft stark vom Bura und Hola Irrigation Scheme abhängig, riesigen Bewässerungsprojekten, die den Anbau von Baumwolle und Mais in der Wüste ermöglichen. Die Bevölkerung, dominiert von den Pokomo (Bauern) und den Orma und Wardei (Viehhirten), ist stark von den unberechenbaren Überschwemmungen des Flusses abhängig (Geschichte K8).",
       hu: "Hola a száraz és elzárt Tana River megye székhelye, amely a Tana-folyó forró, sivatagos alföldjén található. A település hírhedt történelmi szerepe az 1959-es 'Hola-tábori incidens' volt, amikor a brit őrök a Mau Mau lázadás több tucatnyi gyanúsítottját verték halálra a büntetőtáborban; ez a botrány gyorsította fel Kenya függetlenedését. Ma a város csendes mezőgazdasági központ, ahol a helyi lakosok a folyó vizét használva próbálnak termőföldeket művelni az aszályos környezetben. (Történelem K8 — gyarmati túlkapások és függetlenség)",
@@ -2366,8 +2418,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Webuye",
       hu: "Webuye",
       ro: "Webuye",
-      en: "Webuye"
-    },
+      en: "Webuye",
+image: "/poi-images/webuye-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Webuye, in der Kolonialzeit als Broderick Falls bekannt, ist eine Industriestadt im Bungoma County im Westen Kenias. Die Stadt verdankt ihre Existenz weitgehend dem gewaltigen Nzoia-Fluss, der hier über die beeindruckenden Nabuyole-Wasserfälle stürzt. Jahrzehntelang war Webuye das Zentrum der kenianischen Papierindustrie durch die gigantische Pan African Paper Mills Fabrik. Als die Fabrik 2009 kollabierte, geriet die Stadt in eine schwere wirtschaftliche Depression, aus der sie sich durch landwirtschaftliche Diversifizierung (Zuckerrohr und Mais) langsam wieder erholt. Kulturell ist Webuye eng mit dem Volk der Bukusu (Luhya) verbunden und dient als wichtiges Transitdreieck auf dem Weg zur ugandischen Grenze bei Malaba (Wirtschaft & Geografie K8).",
       hu: "Webuye ipari és mezőgazdasági város Nyugat-Kenyában, a Nzoia-folyó mentén. A város nevét évtizedekig a Pan African Paper Mills papírgyár tette ismertté, amely Afrika egyik legnagyobb papírfeldolgozó üzeme volt, és a helyi gazdaság legfőbb motorjaként szolgált. Bár a gyár a 2000-es években gazdasági nehézségekkel küzdött, Webuye jelentősége megmaradt, mint a Kampala-Mombasa tranzitútvonal kulcsfontosságú állomása. A környéket sűrű luhja lakosság és cukornádültetvények jellemzik. (Földrajz K7 — nehézipar és tranzit)",
@@ -2411,8 +2464,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Kimilili",
       hu: "Kimilili",
       ro: "Kimilili",
-      en: "Kimilili"
-    },
+      en: "Kimilili",
+image: "/poi-images/kimilili-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Kimilili ist ein lebhaftes Agrar- und Handelszentrum im Bungoma County, eingebettet an den südlichen Ausläufern des mächtigen Mount Elgon. Die Stadt profitiert massiv von den extrem fruchtbaren vulkanischen Böden des Berges und den sehr zuverlässigen, hohen Niederschlägen. Kimilili ist das landwirtschaftliche Herzstück der Region und produziert riesige Mengen an Mais, Bohnen, Zwiebeln und zunehmend auch Kaffee. Historisch war die Region stark vom traditionellen Handel der lokalen Bukusu-Bevölkerung geprägt. Der nahegelegene Mount Elgon bietet eine dramatische Kulisse und versorgt die zahllosen Flüsse und Bäche, die durch das Gebiet fließen, ganzjährig mit frischem Wasser (Geografie K7).",
       hu: "Kimilili egy lüktető mezőgazdasági központ az Elgon-hegy déli lejtőinek lábánál, Bungoma megyében. A vulkáni eredetű, mély és rendkívül termékeny talaj, valamint a folyamatos esőzések ideálissá teszik a kávé, a kukorica és a napraforgó termesztésére. A város gazdasága szinte teljes egészében ezen agrártermékek begyűjtésén, feldolgozásán és szállításán alapul. Kimilili a bukusu luhják egyik legfontosabb szellemi központja, hagyományos rítusaik és kultúrájuk máig meghatározó. (Földrajz K6 — vulkáni talajok és mezőgazdaság)",
@@ -2456,8 +2510,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Makuyu",
       hu: "Makuyu",
       ro: "Makuyu",
-      en: "Makuyu"
-    },
+      en: "Makuyu",
+image: "/poi-images/makuyu-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Makuyu ist eine landwirtschaftlich geprägte Stadt im Murang'a County in der Zentralregion Kenias. Die Region liegt an der wichtigen Thika-Nyeri Autobahn und zeichnet sich durch ein etwas trockeneres Klima aus als die höher gelegenen Teezonen von Murang'a. Historisch und bis in die Gegenwart ist Makuyu weltberühmt für seine endlosen Sisalplantagen und massiven Ananasfarmen, von denen viele zum multinationalen Konzern Del Monte gehören. Neben diesen Cash-Crops wird auf den Großfarmen auch Macadamia und Kaffee angebaut. Makuyu hat sich als logistisches Bindeglied zwischen Nairobi und dem zentralen kenianischen Hochland entwickelt und profitiert stark vom stetigen Ausbau der Straßeninfrastruktur (Wirtschaft K7).",
       hu: "Makuyu egy csendesebb mezőgazdasági település a Murang'a megyében, a Középső Tartomány szívében. Történelmileg a hatalmas, európai kézben lévő szizál- és kávéültetvények tették híressé, amelyek közül sok még ma is működik. A Nairobiból északra, a Kenya-hegy felé tartó fő autópálya mentén fekszik, így fontos pihenőhely a teherforgalom számára. A város lakossága, elsősorban kikujuk, a nagyüzemi farmokon dolgozik vagy saját kisbirtokain gazdálkodik. (Földrajz K6 — szizál és kávé termesztés)",
@@ -2501,8 +2556,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Runyenjes",
       hu: "Runyenjes",
       ro: "Runyenjes",
-      en: "Runyenjes"
-    },
+      en: "Runyenjes",
+image: "/poi-images/runyenjes-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Runyenjes ist eine malerische und historisch gewachsene Stadt im Embu County, die an den üppigen östlichen Hängen des Mount Kenya liegt. Die Stadt wurde nach einem berühmten vorkolonialen Chief der Embu, Chief Runyenje, benannt. Dank der vulkanischen Böden und der hohen, verlässlichen Niederschlagsmengen ist die Region extrem fruchtbar. Die lokalen Kleinbauern konzentrieren sich stark auf den Anbau von hochwertigem Arabica-Kaffee, Tee und Macadamia-Nüssen, die direkt für den Exportmarkt bestimmt sind. Die hügelige Topografie, die von tiefen Tälern und eiskalten Flüssen durchzogen ist, verleiht der Stadt einen ruhigen, ländlichen Charakter, der im starken Kontrast zu den Ebenen im Osten steht (Landwirtschaft & Geschichte K7).",
       hu: "Runyenjes egy tipikus hegyvidéki agrárváros az Embu megyében, a Kenya-hegy keleti lábánál. A település hírnevét kiváló minőségű, árnyékban termesztett kávéjának és makadámdió-termésének köszönheti. A meredek, sűrű növényzetű domboldalakon kisparcellás gazdálkodás zajlik, amely az embu nép hagyományos életmódját tükrözi. A város központjában nyüzsgő piac működik, ahol a hegyről érkező friss terményeket azonnal értékesítik a felvásárlóknak. (Földrajz K6 — dombvidéki piacok)",
@@ -2547,8 +2603,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Mariakani",
       hu: "Mariakani",
       ro: "Mariakani",
-      en: "Mariakani"
-    },
+      en: "Mariakani",
+image: "/poi-images/mariakani-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Mariakani ist ein boomendes Transit- und Industriezentrum, das an der Grenze zwischen dem Kilifi und dem Kwale County im Hinterland der kenianischen Küste liegt. Die Stadt ist landesweit bekannt für die Mariakani Weighbridge, eine der wichtigsten und geschäftigsten LKW-Waagen auf der Mombasa-Nairobi Autobahn. Aufgrund dieser Waage halten täglich tausende von Lastwagen in Mariakani, was eine florierende Dienstleistungs- und Handelswirtschaft (Restaurants, Werkstätten, Unterkünfte) entstehen ließ. Neben dem Logistiksektor entwickelt sich Mariakani zunehmend zu einem industriellen Vorort von Mombasa; Unternehmen der Stahl- und Zementindustrie haben sich hier angesiedelt, da das Land günstiger ist als im Hafengebiet. Die traditionelle Bevölkerung besteht vorwiegend aus der Giriama-Ethnie (Wirtschaft K8).",
       hu: "Mariakani egy dinamikus logisztikai és ingázóváros Mombasától nem messze a szárazföld belseje felé. Kulcsfontosságú stratégiai helyszín, itt található a Mariakani hídmérleg állomás, ahol minden Mombasa kikötőjéből induló nehézgépjárművet megmérnek. Ez a teherforgalom határozza meg a város életét és gazdaságát. Emellett a Kenyai Védelmi Erők jelentős katonai bázist is fenntartanak a város szélén. (Földrajz K7 — kikötői logisztika és teherforgalom)",
@@ -2592,8 +2649,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Awendo",
       hu: "Awendo",
       ro: "Awendo",
-      en: "Awendo"
-    },
+      en: "Awendo",
+image: "/poi-images/awendo-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Awendo, oft als \"Green Town\" bezeichnet, liegt im Migori County im Südwesten Kenias und ist untrennbar mit der kenianischen Zuckerindustrie verbunden. Die gesamte Stadtentwicklung basiert auf der South Nyanza Sugar Company (SONY Sugar), deren massive Fabrik und endlose Zuckerrohrfelder das Landschaftsbild und die Wirtschaft dominieren. SONY Sugar wurde in den späten 1970er Jahren gegründet und bietet Tausenden von Einheimischen direkte und indirekte Beschäftigung. Awendo ist kulturell divers, obwohl es primär im Gebiet der Luo liegt, arbeiten hier Menschen aus allen Teilen des Landes. Die grünen Zuckerrohrplantagen erstrecken sich über weite Hügel und machen die Stadt zum landwirtschaftlichen Rückgrat des Countys (Wirtschaft K8).",
       hu: "Awendo egy monokultúrás iparváros Migori megyében, amelynek teljes élete a cukornádra épül. A Sony Sugar Company, Dél-Nyanza legnagyobb cukorgyára a város központjában üzemel, és ezreknek biztosít közvetlen vagy közvetett megélhetést. A környező lankás dombvidéket, ameddig a szem ellát, hatalmas cukornádültetvények borítják. Bár a város gyorsan növekszik a feldolgozóiparnak köszönhetően, jelentős kihívást jelent a helyi kisbirtokosok és az iparigigász gazdasági egyensúlyának fenntartása. (Földrajz K6 — feldolgozóipar és cukornád)",
@@ -2637,8 +2695,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Litein",
       hu: "Litein",
       ro: "Litein",
-      en: "Litein"
-    },
+      en: "Litein",
+image: "/poi-images/litein-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Litein ist eine florierende Agrarstadt im Kericho County, die tief in den üppigen Teegebieten des westlichen Rift Valleys liegt. Umgeben von atemberaubenden, sattgrünen Hügeln, profitiert Litein von einem kühlen Hochlandklima, das perfekte Bedingungen für den Anbau von schwarzem Tee bietet. Die Stadt wuchs in den letzten Jahrzehnten von einem kleinen Handelsposten zu einem wichtigen regionalen Zentrum heran, das von zahlreichen Tee-Fabriken der Kenya Tea Development Agency (KTDA) flankiert wird. Die Bevölkerung besteht primär aus den Kipsigis, die eine starke Tradition im genossenschaftlichen Kleinbauern-Modell pflegen. Litein ist nicht nur wirtschaftlich vital, sondern auch ein Zentrum für erstklassige Schulen und medizinische Einrichtungen in der Region (Wirtschaft K7).",
       hu: "Litein egy magasan fekvő, folyamatosan zöldellő város Kericho megyében, a teakörzet szívében. A települést végtelen teaültetvények veszik körül, amelyek biztosítják a helyi gazdaság alapját. A kipsigis közösség számára fontos oktatási és egészségügyi központ is egyben. Bár kisebb, mint Kericho, Litein intenzív kereskedelmi élettel bír, különösen a teafeldolgozó gyárakba (például a szomszédos Kaplitein vagy a Kiptagich üzemekbe) áramló napi levélszállítmányok miatt. (Földrajz K6 — agrárkereskedelem és teafeldolgozás)",
@@ -2682,8 +2741,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       de: "Oyugis",
       hu: "Oyugis",
       ro: "Oyugis",
-      en: "Oyugis"
-    },
+      en: "Oyugis",
+image: "/poi-images/oyugis-cities-v2.webp"
+},
     descriptionAdvanced: {
       de: "Oyugis ist die zweitgrößte Stadt im Homa Bay County und liegt an einer wichtigen Kreuzung in der dicht besiedelten Nyanza-Region nahe dem Viktoriasee. Anders als die direkt am See gelegenen Städte ist Oyugis ein landwirtschaftlicher Knotenpunkt. Die fruchtbaren Böden in der hügeligen Umgebung eignen sich hervorragend für den Anbau von Mais, Bohnen, Süßkartoffeln und Ziegelherstellung aus lokalem Ton. Historisch ist die Stadt bekannt für den riesigen Freiluftmarkt, der Händler aus Kisii, Kisumu und Homa Bay anzieht. Nahe der Stadt liegt der mystische \"Simbi Nyaima\", ein vulkanischer Kratersee, der in der Luo-Mythologie als Überrest eines versunkenen Dorfes gilt und heute seltene Vogelarten wie Flamingos anzieht (Geografie & Kultur K7).",
       hu: "Oyugis a dél-nyanzai régió egyik legfontosabb kereskedelmi és agrár-csomópontja Homa Bay megyében. A buja növényzetű, dombos vidék hagyományosan a banán, az édesburgonya és a különféle babok termesztésének központja, de a napraforgó is egyre népszerűbb. A város az ország egyik legnagyobb nyitott piacával büszkélkedhet, ahová a környék luo gazdái hozzák be terményeiket. A közeli vulkáni dombok festői hátteret biztosítanak az élénk mezővárosnak. (Földrajz K6 — regionális piacok)",

@@ -6,7 +6,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-11",
     coords: [79.8587, 6.9271],
-    name: { de: "Lotusturm", hu: "Lótusz-torony", ro: "Turnul Lotus", en: "Lotus Tower" },
+    name: { de: "Lotusturm", hu: "Lótusz-torony", ro: "Turnul Lotus", en: "Lotus Tower",
+image: "/poi-images/lotus-tower-landmarks-v2.webp"
+},
     description: { de: "Ein 350 Meter hoher Fernsehturm in Colombo, der höchste in Südasien.", hu: "Egy 350 méter magas tévétorony Colombóban, amely Dél-Ázsia legmagasabb ilyen építménye.", ro: "Un turn de televiziune înalt de 350 de metri în Colombo, cel mai înalt din Asia de Sud.", en: "A 350-meter-tall television tower in Colombo, the tallest in South Asia." },
     facts: {
       de: ["Im Jahr 2019 eröffnet.", "Besitzt eine drehbare Aussichtsplattform."],
@@ -19,7 +21,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-81",
     coords: [81.0607, 6.8767],
-    name: { de: "Neun-Bogen-Brücke", hu: "Kilenclyukú híd", ro: "Podul cu nouă arce", en: "Nine Arches Bridge" },
+    name: { de: "Neun-Bogen-Brücke", hu: "Kilenclyukú híd", ro: "Podul cu nouă arce", en: "Nine Arches Bridge",
+image: "/poi-images/nine-arches-bridge-landmarks-v2.webp"
+},
     description: { de: "Eine berühmte Eisenbahnbrücke aus der Kolonialzeit in Ella, umgeben von Teeplantagen.", hu: "Egy híres gyarmati kori vasúti híd Ellában, teaföldekkel körülvéve.", ro: "Un faimos pod feroviar din perioada colonială în Ella, înconjurat de plantații de ceai.", en: "A famous colonial-era railway bridge in Ella, surrounded by tea plantations." },
     facts: {
       de: ["Wurde ohne Stahl erbaut.", "Fertiggestellt im Jahr 1921."],
@@ -32,7 +36,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-91",
     coords: [80.4999, 6.8096],
-    name: { de: "Adam's Peak", hu: "Ádám-csúcs", ro: "Vârful lui Adam", en: "Adam's Peak" },
+    name: { de: "Adam's Peak", hu: "Ádám-csúcs", ro: "Vârful lui Adam", en: "Adam's Peak",
+image: "/poi-images/adams-peak-landmarks-v2.webp"
+},
     description: { de: "Ein heiliger Berg, der für seinen Fußabdruck auf dem Gipfel bekannt ist, der von mehreren Religionen verehrt wird.", hu: "Szent hegy, amely a csúcsán lévő lábnyomról ismert, amelyet több vallás is tisztel.", ro: "Un munte sacru, cunoscut pentru amprenta de picior din vârf, venerată de mai multe religii.", en: "A sacred mountain known for its footprint on the summit, revered by multiple religions." },
     facts: {
       de: ["Ist 2243 Meter hoch.", "Ein wichtiges Pilgerziel."],
@@ -45,7 +51,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-91",
     coords: [80.3872, 7.3015],
-    name: { de: "Elefantenwaisenhaus Pinnawala", hu: "Pinnawala elefántárvaház", ro: "Orfelinatul de elefanți Pinnawala", en: "Pinnawala Elephant Orphanage" },
+    name: { de: "Elefantenwaisenhaus Pinnawala", hu: "Pinnawala elefántárvaház", ro: "Orfelinatul de elefanți Pinnawala", en: "Pinnawala Elephant Orphanage",
+image: "/poi-images/pinnawala-elephant-orphanage-landmarks-v2.webp"
+},
     description: { de: "Eine Einrichtung zur Aufzucht und Pflege von verwaisten asiatischen Elefanten.", hu: "Egy intézmény, amely az elárvult ázsiai elefántok felnevelésével és gondozásával foglalkozik.", ro: "O facilitate pentru creșterea și îngrijirea elefanților asiatici orfani.", en: "A facility established for the rearing and care of orphaned Asian elephants." },
     facts: {
       de: ["Gegründet im Jahr 1975.", "Beherbergt die größte Elefantenherde in Gefangenschaft."],
@@ -58,7 +66,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.8142, 6.7846],
-    name: { de: "World's End", hu: "Világ Vége", ro: "World's End", en: "World's End" },
+    name: { de: "World's End", hu: "Világ Vége", ro: "World's End", en: "World's End",
+image: "/poi-images/worlds-end-landmarks-v2.webp"
+},
     description: { de: "Ein dramatischer Steilhang im Horton-Plains-Nationalpark mit einer spektakulären Aussicht.", hu: "Egy drámai sziklafal a Horton Plains Nemzeti Parkban, amely látványos kilátást nyújt.", ro: "O prăpastie dramatică în Parcul Național Horton Plains, care oferă o priveliște spectaculoasă.", en: "A dramatic sheer cliff in Horton Plains National Park offering spectacular views." },
     facts: {
       de: ["Fällt fast 1200 Meter tief ab.", "Am besten am frühen Morgen zu besuchen."],
@@ -71,7 +81,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-11",
     coords: [79.8569, 6.9157],
-    name: { de: "Gangaramaya Tempel", hu: "Gangaramaya templom", ro: "Templul Gangaramaya", en: "Gangaramaya Temple" },
+    name: { de: "Gangaramaya Tempel", hu: "Gangaramaya templom", ro: "Templul Gangaramaya", en: "Gangaramaya Temple",
+image: "/poi-images/gangaramaya-temple-landmarks-v2.webp"
+},
     description: { de: "Einer der wichtigsten buddhistischen Tempel in Colombo, der moderne und traditionelle Architektur vereint.", hu: "Colombo egyik legfontosabb buddhista temploma, amely ötvözi a modern és a hagyományos építészetet.", ro: "Unul dintre cele mai importante temple budiste din Colombo, care îmbină arhitectura modernă cu cea tradițională.", en: "One of the most important Buddhist temples in Colombo, blending modern and traditional architecture." },
     facts: {
       de: ["Liegt in der Nähe des Beira-Sees.", "Beherbergt ein großes Museum und eine Bibliothek."],
@@ -84,7 +96,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-11",
     coords: [79.8517, 6.9388],
-    name: { de: "Jami Ul-Alfar Moschee", hu: "Vörös mecset", ro: "Moscheea Roșie", en: "Jami Ul-Alfar Mosque" },
+    name: { de: "Jami Ul-Alfar Moschee", hu: "Vörös mecset", ro: "Moscheea Roșie", en: "Jami Ul-Alfar Mosque",
+image: "/poi-images/red-mosque-landmarks-v2.webp"
+},
     description: { de: "Eine historische Moschee in Colombo, die für ihre auffälligen roten und weißen Muster bekannt ist.", hu: "Egy történelmi mecset Colombóban, amely a feltűnő piros-fehér mintáiról ismert.", ro: "O moschee istorică din Colombo, cunoscută pentru modelele sale izbitoare roșii cu albe.", en: "A historic mosque in Colombo, known for its striking red and white patterns." },
     facts: {
       de: ["Im Jahr 1909 fertiggestellt.", "Wurde von indischen Muslimen erbaut."],
@@ -97,7 +111,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.8122, 6.9317],
-    name: { de: "Seetha Amman Tempel", hu: "Seetha Amman templom", ro: "Templul Seetha Amman", en: "Seetha Amman Temple" },
+    name: { de: "Seetha Amman Tempel", hu: "Seetha Amman templom", ro: "Templul Seetha Amman", en: "Seetha Amman Temple",
+image: "/poi-images/seetha-amman-temple-landmarks-v2.webp"
+},
     description: { de: "Ein bunter Hindu-Tempel in Nuwara Eliya, der mit der Ramayana-Legende verbunden ist.", hu: "Egy színes hindu templom Nuwara Eliyában, amely a Rámájana-legendához kapcsolódik.", ro: "Un templu hindus colorat din Nuwara Eliya, asociat cu legenda Ramayana.", en: "A colorful Hindu temple in Nuwara Eliya associated with the Ramayana legend." },
     facts: {
       de: ["Der Legende nach war Sita hier gefangen.", "Von wunderschönen Wäldern umgeben."],
@@ -110,7 +126,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.6983, 7.0504],
-    name: { de: "Ramboda Wasserfälle", hu: "Ramboda-vízesés", ro: "Cascada Ramboda", en: "Ramboda Falls" },
+    name: { de: "Ramboda Wasserfälle", hu: "Ramboda-vízesés", ro: "Cascada Ramboda", en: "Ramboda Falls",
+image: "/poi-images/ramboda-falls-landmarks-v2.webp"
+},
     description: { de: "Ein malerischer, 109 Meter hoher Wasserfall in der Bergregion von Sri Lanka.", hu: "Egy festői, 109 méter magas vízesés Srí Lanka hegyvidéki régiójában.", ro: "O cascadă pitorească de 109 metri în regiunea muntoasă din Sri Lanka.", en: "A scenic 109-meter waterfall located in the hill country of Sri Lanka." },
     facts: {
       de: ["Einer der höchsten Wasserfälle des Landes.", "Besteht aus mehreren Stufen."],
@@ -123,7 +141,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-11",
     coords: [79.8491, 6.9458],
-    name: { de: "St. Anthony's Schrein", hu: "Páduai Szent Antal-szentély", ro: "Sanctuarul Sfântului Anton", en: "St. Anthony's Shrine" },
+    name: { de: "St. Anthony's Schrein", hu: "Páduai Szent Antal-szentély", ro: "Sanctuarul Sfântului Anton", en: "St. Anthony's Shrine",
+image: "/poi-images/st-anthonys-shrine-landmarks-v2.webp"
+},
     description: { de: "Eine bedeutende katholische Kirche in Colombo, die dem heiligen Antonius von Padua gewidmet ist.", hu: "Egy jelentős katolikus templom Colombóban, amelyet Páduai Szent Antalnak szenteltek.", ro: "O importantă biserică catolică din Colombo, dedicată Sfântului Anton de Padova.", en: "A major Catholic church in Colombo dedicated to St. Anthony of Padua." },
     facts: {
       de: ["Im Jahr 1834 erbaut.", "Wird von Pilgern aller Glaubensrichtungen besucht."],
@@ -136,7 +156,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.7719, 6.9566],
-    name: { de: "Gregory-See", hu: "Gregory-tó", ro: "Lacul Gregory", en: "Gregory Lake" },
+    name: { de: "Gregory-See", hu: "Gregory-tó", ro: "Lacul Gregory", en: "Gregory Lake",
+image: "/poi-images/gregory-lake-landmarks-v2.webp"
+},
     description: { de: "Ein künstlicher See im Herzen von Nuwara Eliya, der für Bootsfahrten beliebt ist.", hu: "Egy mesterséges tó Nuwara Eliya szívében, amely népszerű csónakázóhely.", ro: "Un lac artificial în inima orașului Nuwara Eliya, popular pentru plimbările cu barca.", en: "An artificial lake in the heart of Nuwara Eliya, popular for boating." },
     facts: {
       de: ["Errichtet von Gouverneur William Gregory 1873.", "Bietet Wassersportaktivitäten an."],
@@ -149,7 +171,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-81",
     coords: [81.0315, 6.7323],
-    name: { de: "Diyaluma Wasserfall", hu: "Diyaluma-vízesés", ro: "Cascada Diyaluma", en: "Diyaluma Falls" },
+    name: { de: "Diyaluma Wasserfall", hu: "Diyaluma-vízesés", ro: "Cascada Diyaluma", en: "Diyaluma Falls",
+image: "/poi-images/diyaluma-falls-landmarks-v2.webp"
+},
     description: { de: "Der zweithöchste Wasserfall in Sri Lanka, bekannt für seine natürlichen Pools auf dem Gipfel.", hu: "Srí Lanka második legmagasabb vízesése, amely a csúcsán található természetes medencékről ismert.", ro: "A doua cea mai înaltă cascadă din Sri Lanka, cunoscută pentru piscinele naturale din vârf.", en: "The second highest waterfall in Sri Lanka, known for its natural pools at the top." },
     facts: {
       de: ["Ist 220 Meter hoch.", "Der Name bedeutet 'schneller Wasserfluss'."],
@@ -162,7 +186,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.6433, 7.2924],
-    name: { de: "Kandy-See", hu: "Kandy-tó", ro: "Lacul Kandy", en: "Kandy Lake" },
+    name: { de: "Kandy-See", hu: "Kandy-tó", ro: "Lacul Kandy", en: "Kandy Lake",
+image: "/poi-images/kandy-lake-landmarks-v2.webp"
+},
     description: { de: "Ein künstlicher See im Zentrum der Stadt Kandy, neben dem Zahntempel.", hu: "Egy mesterséges tó Kandy városközpontjában, a Szent Fog Temploma mellett.", ro: "Un lac artificial în centrul orașului Kandy, lângă Templul Dintelui Sacru.", en: "An artificial lake in the center of Kandy city, adjacent to the Temple of the Tooth." },
     facts: {
       de: ["Im Jahr 1807 vom letzten König von Kandy erbaut.", "Das Angeln ist streng verboten."],
@@ -175,7 +201,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-11",
     coords: [79.8458, 6.9240],
-    name: { de: "Galle Face Green", hu: "Galle Face Green", ro: "Galle Face Green", en: "Galle Face Green" },
+    name: { de: "Galle Face Green", hu: "Galle Face Green", ro: "Galle Face Green", en: "Galle Face Green",
+image: "/poi-images/galle-face-green-landmarks-v2.webp"
+},
     description: { de: "Eine fünf Hektar große Uferpromenade in Colombo, ideal für Spaziergänge und Drachensteigen.", hu: "Egy öt hektáros tengerparti sétány Colombóban, amely ideális sétákra és sárkányeregetésre.", ro: "O promenadă la malul mării de cinci hectare în Colombo, ideală pentru plimbări și zălarea zmeelor.", en: "A five-hectare ocean-side urban park in Colombo, ideal for walks and kite flying." },
     facts: {
       de: ["Ursprünglich 1859 angelegt.", "Ein beliebter Ort für Straßenessen."],
@@ -188,7 +216,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-31",
     coords: [80.2483, 6.0125],
-    name: { de: "Unawatuna Strand", hu: "Unawatuna tengerpart", ro: "Plaja Unawatuna", en: "Unawatuna Beach" },
+    name: { de: "Unawatuna Strand", hu: "Unawatuna tengerpart", ro: "Plaja Unawatuna", en: "Unawatuna Beach",
+image: "/poi-images/unawatuna-beach-landmarks-v2.webp"
+},
     description: { de: "Ein wunderschöner Strand in der Nähe von Galle, bekannt für sein ruhiges Wasser und die Korallenriffe.", hu: "Egy gyönyörű strand Galle közelében, amely nyugodt vizéről és korallzátonyairól ismert.", ro: "O plajă frumoasă lângă Galle, cunoscută pentru apele sale calme și recifele de corali.", en: "A beautiful beach near Galle, known for its calm waters and coral reefs." },
     facts: {
       de: ["Zählt oft zu den besten Stränden Asiens.", "Ein beliebter Ort zum Schnorcheln."],
@@ -201,7 +231,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.7630, 7.9654],
-    name: { de: "Pidurangala Felsen", hu: "Pidurangala-szikla", ro: "Stânca Pidurangala", en: "Pidurangala Rock" },
+    name: { de: "Pidurangala Felsen", hu: "Pidurangala-szikla", ro: "Stânca Pidurangala", en: "Pidurangala Rock",
+image: "/poi-images/pidurangala-rock-landmarks-v2.webp"
+},
     description: { de: "Ein großer Felsen neben Sigiriya, der einen unglaublichen Panoramablick auf die berühmte Festung bietet.", hu: "Egy nagy szikla Sigiriya mellett, amely hihetetlen panorámát nyújt a híres erődre.", ro: "O stâncă masivă adiacentă la Sigiriya, oferind vederi panoramice incredibile asupra faimoasei fortărețe.", en: "A massive rock adjacent to Sigiriya, offering incredible panoramic views of the famous fortress." },
     facts: {
       de: ["Historischer buddhistischer Klosterkomplex.", "Ein beliebter Ort für den Sonnenaufgang."],
@@ -214,7 +246,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.6300, 7.2941],
-    name: { de: "Bahirawakanda Buddha-Statue", hu: "Bahirawakanda Buddha-szobor", ro: "Statuia Buddha din Bahirawakanda", en: "Bahirawakanda Buddha Statue" },
+    name: { de: "Bahirawakanda Buddha-Statue", hu: "Bahirawakanda Buddha-szobor", ro: "Statuia Buddha din Bahirawakanda", en: "Bahirawakanda Buddha Statue",
+image: "/poi-images/bahirawakanda-buddha-landmarks-v2.webp"
+},
     description: { de: "Eine gigantische weiße Buddha-Statue, die auf einem Hügel über der Stadt Kandy thront.", hu: "Egy gigantikus fehér Buddha-szobor, amely egy dombon magasodik Kandy városa fölé.", ro: "O gigantică statuie albă a lui Buddha, așezată pe un deal cu vedere la orașul Kandy.", en: "A gigantic white Buddha statue perched on a hill overlooking the city of Kandy." },
     facts: {
       de: ["Die Statue ist 26 Meter hoch.", "Nachts wunderschön beleuchtet."],
@@ -227,7 +261,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-21",
     coords: [80.7937, 6.9669],
-    name: { de: "Lover's Leap Wasserfall", hu: "Lover's Leap vízesés", ro: "Cascada Lover's Leap", en: "Lover's Leap Waterfall" },
+    name: { de: "Lover's Leap Wasserfall", hu: "Lover's Leap vízesés", ro: "Cascada Lover's Leap", en: "Lover's Leap Waterfall",
+image: "/poi-images/lovers-leap-waterfall-landmarks-v2.webp"
+},
     description: { de: "Ein malerischer Wasserfall in Nuwara Eliya, benannt nach einer tragischen Liebesgeschichte.", hu: "Festői vízesés Nuwara Eliyában, amely egy tragikus szerelmi történetről kapta a nevét.", ro: "O cascadă pitorească în Nuwara Eliya, numită după o poveste de dragoste tragică.", en: "A picturesque waterfall in Nuwara Eliya named after a tragic love story." },
     facts: {
       de: ["Stürzt etwa 30 Meter in die Tiefe.", "Von üppigen Teeplantagen umgeben."],
@@ -240,7 +276,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-51",
     coords: [81.8267, 6.8436],
-    name: { de: "Arugam Bay", hu: "Arugam Bay", ro: "Arugam Bay", en: "Arugam Bay" },
+    name: { de: "Arugam Bay", hu: "Arugam Bay", ro: "Arugam Bay", en: "Arugam Bay",
+image: "/poi-images/arugam-bay-landmarks-v2.webp"
+},
     description: { de: "Ein berühmtes Surfziel an der Ostküste Sri Lankas mit entspannter Atmosphäre.", hu: "Híres szörfözőhely Srí Lanka keleti partján, laza hangulattal.", ro: "O destinație faimoasă pentru surfing pe coasta de est a Sri Lankăi, cu o atmosferă relaxată.", en: "A famous surfing destination on the east coast of Sri Lanka with a laid-back vibe." },
     facts: {
       de: ["Gilt als einer der besten Surfspots Asiens.", "Zieht Surfer aus aller Welt an."],
@@ -253,7 +291,9 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LK-31",
     coords: [80.2173, 6.0248],
-    name: { de: "Leuchtturm von Galle", hu: "Galle világítótorony", ro: "Farul din Galle", en: "Galle Lighthouse" },
+    name: { de: "Leuchtturm von Galle", hu: "Galle világítótorony", ro: "Farul din Galle", en: "Galle Lighthouse",
+image: "/poi-images/galle-lighthouse-landmarks-v2.webp"
+},
     description: { de: "Der älteste Leuchtturm in Sri Lanka, gelegen innerhalb der historischen Mauern des Galle Forts.", hu: "Srí Lanka legrégebbi világítótornya, amely a történelmi Galle erőd falain belül található.", ro: "Cel mai vechi far din Sri Lanka, situat în interiorul zidurilor istorice ale Fortului Galle.", en: "The oldest light station in Sri Lanka, situated within the historic walls of Galle Fort." },
     facts: {
       de: ["Der ursprüngliche Turm wurde 1848 erbaut.", "Ist 26,5 Meter hoch."],

@@ -4,7 +4,9 @@ export const moldovaCitiesV2: POI[] = [
   {
     id: "moldova-balti-cities-v2",
     type: "city",
-    name: { de: "Bălți", hu: "Bălți", ro: "Bălți", en: "Bălți" },
+    name: { de: "Bălți", hu: "Bălți", ro: "Bălți", en: "Bălți",
+image: "/poi-images/moldova-balti-cities-v2.webp"
+},
     coords: [27.9289, 47.7611],
     coordinates: { lat: 47.7611, lng: 27.9289 },
     description: {
@@ -19,11 +21,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1421", "Al doilea oraș ca mărime din Moldova", "Important centru industrial", "Sediul Universității Alecu Russo"],
       en: ["Founded in 1421", "Second largest city in Moldova", "Major industrial center", "Home to the Alecu Russo University"],
     },
-    imageHint: "Aerial view of Balti central square and cathedral", image: "/poi-images/moldova-balti-cities-v2.webp"},
+    imageHint: "Aerial view of Balti central square and cathedral",
+    image: "/poi-images/moldova-balti-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bălți, oft als die nördliche Hauptstadt Moldawiens bezeichnet, ist ein bedeutendes Industrie- und Kulturzentrum am Fluss Răut. Die Stadt wurde 1421 erstmals urkundlich erwähnt und beherbergt die staatliche Alecu-Russo-Universität sowie eine markante Architektur aus der sowjetischen Ära.",
+      hu: "Bălți Moldova északi részének legfontosabb városa, a Răut folyó partján fekszik. Az 1421-ben alapított település ma jelentős ipari központ és az ország harmadik legnagyobb városa, amely híres az Alecu Russo Egyetemről és a Szent Konstantin és Heléna székesegyházról.",
+      ro: "Bălți, supranumit Capitala Nordului, este un centru industrial, cultural și educațional vital situat pe malul râului Răut. Atestat documentar în 1421, orașul găzduiește Universitatea Alecu Russo și Catedrala Sfinții Împărați Constantin și Elena, fiind al treilea oraș ca mărime din țară.",
+      en: "Bălți, known as the Northern Capital of Moldova, is a major industrial and cultural hub situated on the Răut River. First mentioned in 1421, it is home to the Alecu Russo State University and serves as the primary urban center for the northern region of the country.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1421", "Liegt auf einer Höhe von 150 m", "Drittgrößte Stadt Moldawiens", "Partnerstadt von Larissa (Griechenland)"],
+      hu: ["1421-ben említik először", "Tengerszint feletti magassága 150 m", "Moldova 3. legnépesebb városa", "Az északi régió kulturális központja"],
+      ro: ["Prima atestare în anul 1421", "Altitudine medie de 150 metri", "Al treilea oraș ca populație", "Găzduiește Teatrul Vasile Alecsandri"],
+      en: ["Founded in 1421", "Average elevation is 150 meters", "Third largest city in Moldova", "Hosts the Alecu Russo State University"],
+    },
+  },
   {
     id: "moldova-bender-cities-v2",
     type: "city",
-    name: { de: "Bender", hu: "Bender", ro: "Bender", en: "Bender" },
+    name: { de: "Bender", hu: "Bender", ro: "Bender", en: "Bender",
+image: "/poi-images/moldova-bender-cities-v2.webp"
+},
     coords: [29.4792, 46.8322],
     coordinates: { lat: 46.8322, lng: 29.4792 },
     description: {
@@ -38,11 +56,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Deține o cetate otomană", "Menționat prima dată în 1408", "Important nod feroviar", "Situat în zona de securitate"],
       en: ["Features an Ottoman fortress", "First mentioned in 1408", "Important railway junction", "Located in the security zone"],
     },
-    imageHint: "Medieval Bender Fortress walls by the Dniester river", image: "/poi-images/moldova-bender-cities-v2.webp"},
+    imageHint: "Medieval Bender Fortress walls by the Dniester river",
+    image: "/poi-images/moldova-bender-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bender, auch als Tighina bekannt, ist eine historisch bedeutende Stadt am rechten Ufer des Dnister. Sie wird von der massiven Festung aus dem 15. Jahrhundert dominiert, die unter moldauischer, osmanischer und russischer Herrschaft stand und heute ein zentrales Denkmal der Region ist.",
+      hu: "Bender, más néven Tighina, stratégiai fontosságú város a Dnyeszter jobb partján. A 15. századi erődítményéről híres település fontos történelmi csomópont, amely egykor a Moldovai Fejedelemség védelmi vonalának részét képezte az oszmán hódítások idején.",
+      ro: "Bender, cunoscut și sub numele istoric Tighina, este un oraș situat pe malul drept al Nistrului, renumit pentru cetatea sa medievală construită în secolul al XV-lea. Orașul a fost un punct strategic disputat între Moldova, Imperiul Otoman și Imperiul Rus de-a lungul secolelor.",
+      en: "Bender, also known as Tighina, is a historic city on the right bank of the Dniester River. It is dominated by its massive 15th-century fortress, which served as a crucial defensive outpost for the Moldavian Principality and later for the Ottoman and Russian Empires.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1408", "Fläche von ca. 97 Quadratkilometern", "Besitzt eine Festung von 1538", "Liegt am Fluss Dnister"],
+      hu: ["1408-ban említik először", "Területe kb. 97 négyzetkilométer", "1538-ban épült oszmán erőd", "A Dnyeszter folyó partján fekszik"],
+      ro: ["Prima atestare în anul 1408", "Suprafață de circa 97 km²", "Cetatea a fost reconstruită în 1538", "Oraș situat pe malul Nistrului"],
+      en: ["First mentioned in 1408", "Total area of about 97 sq km", "Fortress dates back to 1538", "Located on the Dniester River"],
+    },
+  },
   {
     id: "moldova-ribnita-cities-v2",
     type: "city",
-    name: { de: "Rîbnița", hu: "Rîbnița", ro: "Rîbnița", en: "Rîbnița" },
+    name: { de: "Rîbnița", hu: "Rîbnița", ro: "Rîbnița", en: "Rîbnița",
+image: "/poi-images/moldova-ribnita-cities-v2.webp"
+},
     coords: [29.0069, 47.7617],
     coordinates: { lat: 47.7617, lng: 29.0069 },
     description: {
@@ -57,11 +91,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1628", "Centru al industriei siderurgice", "Deține un teleferic distinctiv", "Catedrala Arhanghelul Mihail"],
       en: ["Founded in 1628", "Center of the steel industry", "Features a distinctive cable car", "Michael the Archangel Cathedral"],
     },
-    imageHint: "Industrial skyline of Ribnita with the Dniester river", image: "/poi-images/moldova-ribnita-cities-v2.webp"},
+    imageHint: "Industrial skyline of Ribnita with the Dniester river",
+    image: "/poi-images/moldova-ribnita-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rîbnița ist ein bedeutendes Industriezentrum in Transnistrien, gelegen am linken Ufer des Dnister. Die Stadt ist vor allem für ihr großes Stahlwerk bekannt und dient als wichtiger Verkehrsknotenpunkt mit einer Brücke, die sie mit dem moldauischen Kernland verbindet.",
+      hu: "Rîbnița a Dnyeszter menti régió egyik legfontosabb ipari városa, a folyó bal partján fekszik. A település gazdasága nagyrészt a hatalmas acélművekre épül, de a környező mészkőbányák és az 1628-as alapítási múltja is meghatározza arculatát.",
+      ro: "Rîbnița este un centru industrial major situat pe malul stâng al Nistrului, în regiunea transnistreană. Orașul este dominat economic de Uzina Metalurgică Moldovenească și este un punct de tranzit important datorită podului peste Nistru care face legătura cu Rezina.",
+      en: "Rîbnița is a prominent industrial city located on the left bank of the Dniester River in the Transnistrian region. It is best known for its massive steel works and serves as a vital transportation link, connected to the rest of Moldova via a strategic bridge.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1628", "Sitz der Moldauischen Stahlwerke", "Liegt am linken Dnister-Ufer", "Höhe von ca. 60 m über dem Meer"],
+      hu: ["1628-ban alapították", "Itt található a Moldovai Acélmű", "A Dnyeszter bal partján fekszik", "Tengerszint feletti magassága 60 m"],
+      ro: ["Întemeiat în anul 1628", "Găzduiește Uzina Metalurgică", "Situat pe malul stâng al Nistrului", "Altitudine de 60 de metri"],
+      en: ["Founded in 1628", "Home to the Moldova Steel Works", "Located on the left bank of Dniester", "Elevation is approximately 60 m"],
+    },
+  },
   {
     id: "moldova-cahul-cities-v2",
     type: "city",
-    name: { de: "Cahul", hu: "Cahul", ro: "Cahul", en: "Cahul" },
+    name: { de: "Cahul", hu: "Cahul", ro: "Cahul", en: "Cahul",
+image: "/poi-images/moldova-cahul-cities-v2.webp"
+},
     coords: [28.1944, 45.9075],
     coordinates: { lat: 45.9075, lng: 28.1944 },
     description: {
@@ -76,11 +126,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Sediul universității de stat", "Cunoscut pentru apele minerale", "Punct de frontieră cu România", "Gazdă a festivalurilor folclorice"],
       en: ["Home to a state university", "Known for mineral waters", "Important border crossing to Romania", "Host of folklore festivals"],
     },
-    imageHint: "Cahul State University building facade", image: "/poi-images/moldova-cahul-cities-v2.webp"},
+    imageHint: "Cahul State University building facade",
+    image: "/poi-images/moldova-cahul-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cahul, im Süden Moldawiens nahe der rumänischen Grenze gelegen, ist als bedeutender Kurort bekannt. Die Stadt verfügt über schwefelhaltige Mineralquellen und Sanatorien und ist zudem ein kulturelles Zentrum mit einer Universität und einem berühmten Folklore-Festival.",
+      hu: "Cahul Moldova déli részének legfontosabb gyógyfürdővárosa, a Prut folyó közelében. A 16. század óta ismert település ásványvizes forrásairól és szanatóriumairól híres, emellett a régió kulturális központja, ahol nemzetközi népzenei fesztiválokat is rendeznek.",
+      ro: "Cahul este cel mai important oraș din sudul Republicii Moldova, renumit pentru izvoarele sale termale și sanatoriile balneare. Orașul, atestat în secolul al XVI-lea, este un centru cultural vibrant, găzduind Universitatea de Stat Bogdan Petriceicu Hasdeu.",
+      en: "Cahul is the largest city in southern Moldova, situated near the Prut River and the Romanian border. It is widely recognized as a major spa destination due to its sulfurous mineral springs and is a cultural hub hosting international folklore festivals.",
+    },
+    factsAdvanced: {
+      de: ["Stadtrechte seit 1835", "Heimat von Mineralquellen", "Gegründet um das Jahr 1502", "Liegt 5 km östlich des Prut"],
+      hu: ["Városi rangot 1835-ben kapott", "Híres szénsavas gyógyforrások", "1502 körül alapították", "A Prut folyótól 5 km-re fekszik"],
+      ro: ["Statut de oraș din anul 1835", "Renumit pentru izvoare minerale", "Atestat în jurul anului 1502", "Situat la 5 km de râul Prut"],
+      en: ["City status granted in 1835", "Famous for mineral springs", "Founded around 1502", "Located 5 km east of the Prut River"],
+    },
+  },
   {
     id: "moldova-ungheni-cities-v2",
     type: "city",
-    name: { de: "Ungheni", hu: "Ungheni", ro: "Ungheni", en: "Ungheni" },
+    name: { de: "Ungheni", hu: "Ungheni", ro: "Ungheni", en: "Ungheni",
+image: "/poi-images/moldova-ungheni-cities-v2.webp"
+},
     coords: [27.8003, 47.2094],
     coordinates: { lat: 47.2094, lng: 27.8003 },
     description: {
@@ -95,11 +161,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Deține Podul Eiffel", "Centru al fabricării covoarelor", "Important nod feroviar", "Menționat prima dată în 1462"],
       en: ["Home to the Eiffel Bridge", "Center of carpet manufacturing", "Important railway hub", "First mentioned in 1462"],
     },
-    imageHint: "Eiffel Bridge over the Prut river in Ungheni", image: "/poi-images/moldova-ungheni-cities-v2.webp"},
+    imageHint: "Eiffel Bridge over the Prut river in Ungheni",
+    image: "/poi-images/moldova-ungheni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ungheni ist ein strategischer Grenzpunkt am Fluss Prut, direkt gegenüber der rumänischen Stadt Iași. Die Stadt ist berühmt für die von Gustave Eiffel entworfene Eisenbahnbrücke und ihre Teppichindustrie, die zu den bedeutendsten in der gesamten Region gehört.",
+      hu: "Ungheni egy stratégiai fontosságú határváros a Prut folyó partján, közvetlenül a romániai Jászvásárral szemben. A város leghíresebb látnivalója a Gustave Eiffel által tervezett vasúti híd, gazdasága pedig a nagyhírű szőnyeggyártásra épül.",
+      ro: "Ungheni este un punct strategic de frontieră situat pe malul Prutului, fiind poarta feroviară principală către România. Orașul este faimos pentru Podul Eiffel, proiectat de celebrul inginer francez, și pentru tradiția sa îndelungată în producția de covoare.",
+      en: "Ungheni is a strategic border city on the Prut River, directly across from the Romanian city of Iași. It is famous for its railway bridge designed by Gustave Eiffel and is a major center for the carpet industry, which exports products throughout Europe.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1462", "Heimat der Eiffel-Brücke (1877)", "Bedeutende Teppichproduktion", "Liegt am Grenzfluss Prut"],
+      hu: ["1462-ben említik először", "Eiffel-híd épült 1877-ben", "Híres szőnyeggyára van", "A Prut határfolyó partján fekszik"],
+      ro: ["Prima atestare în anul 1462", "Podul Eiffel construit în 1877", "Centru major de fabricare a covoarelor", "Situat pe malul râului Prut"],
+      en: ["First mentioned in 1462", "Home to the Eiffel Bridge (1877)", "Major carpet manufacturing center", "Located on the Prut River border"],
+    },
+  },
   {
     id: "moldova-soroca-cities-v2",
     type: "city",
-    name: { de: "Soroca", hu: "Soroca", ro: "Soroca", en: "Soroca" },
+    name: { de: "Soroca", hu: "Soroca", ro: "Soroca", en: "Soroca",
+image: "/poi-images/moldova-soroca-cities-v2.webp"
+},
     coords: [28.2847, 48.1561],
     coordinates: { lat: 48.1561, lng: 28.2847 },
     description: {
@@ -114,11 +196,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Cetatea medievală Soroca", "Cunoscut pentru 'Dealul Țiganilor'", "Monumentul Lumânarea Recunoștinței", "Poziție strategică pe râu"],
       en: ["Medieval Soroca Fortress", "Known for the 'Gypsy Hill'", "Candle of Gratitude monument", "Strategic river location"],
     },
-    imageHint: "Circular stone fortress of Soroca by the river", image: "/poi-images/moldova-soroca-cities-v2.webp"},
+    imageHint: "Circular stone fortress of Soroca by the river",
+    image: "/poi-images/moldova-soroca-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Soroca, am hohen Ufer des Dnister gelegen, ist berühmt für seine mittelalterliche Rundfestung, die von Stefan dem Großen erbaut wurde. Die Stadt gilt zudem als inoffizielle Hauptstadt der Roma-Gemeinschaft und ist bekannt für den kunstvollen Hügel der Zigeuner.",
+      hu: "Soroca a Dnyeszter partján fekvő történelmi város, amely középkori körbástyás erődjéről híres. A III. István moldovai fejedelem által építtetett vár mellett a város a roma közösség kulturális központjaként is ismert, díszes palotákkal a cigánydombon.",
+      ro: "Soroca este un oraș istoric de pe malul Nistrului, celebru pentru Cetatea Soroca, o fortificație medievală circulară unică construită de Ștefan cel Mare. Orașul este supranumit și capitala romilor, fiind renumit pentru arhitectura extravagantă a dealului locuit de aceștia.",
+      en: "Soroca is a historic city on the Dniester River, famous for its uniquely shaped medieval fortress built by Stephen the Great. It is also known as the unofficial capital of the Roma community, featuring elaborate mansions on the hills overlooking the river.",
+    },
+    factsAdvanced: {
+      de: ["Festung erbaut im Jahr 1499", "Liegt am Fluss Dnister", "Bekannt als Roma-Hauptstadt", "Denkmal Kerze der Dankbarkeit"],
+      hu: ["Az erőd 1499-ben épült", "A Dnyeszter folyó partján fekszik", "A romák kulturális központja", "Hála Gyertyája emlékmű helyszíne"],
+      ro: ["Cetatea construită în 1499", "Situat pe malul drept al Nistrului", "Cunoscut drept Capitala Romilor", "Monumentul Lumânarea Recunoștinței"],
+      en: ["Fortress built in 1499", "Located on the Dniester River", "Known as the Roma capital", "Home to the Candle of Gratitude"],
+    },
+  },
   {
     id: "moldova-dubasari-cities-v2",
     type: "city",
-    name: { de: "Dubăsari", hu: "Dubăsari", ro: "Dubăsari", en: "Dubăsari" },
+    name: { de: "Dubăsari", hu: "Dubăsari", ro: "Dubăsari", en: "Dubăsari",
+image: "/poi-images/moldova-dubasari-cities-v2.webp"
+},
     coords: [29.15, 47.2667],
     coordinates: { lat: 47.2667, lng: 29.15 },
     description: {
@@ -133,11 +231,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Hidrocentrală importantă", "Lacul de acumulare Dubăsari", "Scenă în conflictul transnistrean", "Fondat în secolul al XVIII-lea"],
       en: ["Significant hydroelectric dam", "Large Dubăsari reservoir", "Site during the Transnistria conflict", "Founded in the 18th century"],
     },
-    imageHint: "Hydroelectric dam on the Dniester river in Dubasari", image: "/poi-images/moldova-dubasari-cities-v2.webp"},
+    imageHint: "Hydroelectric dam on the Dniester river in Dubasari",
+    image: "/poi-images/moldova-dubasari-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dubăsari ist eine Stadt am linken Ufer des Dnister, die für ihr Wasserkraftwerk und den angrenzenden Stausee bekannt ist. Die Stadt hat eine lange Geschichte als Handelsplatz und war im frühen 20. Jahrhundert ein wichtiges Zentrum der Tabakverarbeitung in der Region.",
+      hu: "Dubăsari a Dnyeszter bal partján fekvő város, amely leginkább az 1950-es években épült vízi erőművéről és a hozzá tartozó hatalmas víztározóról ismert. A település fontos közlekedési és energetikai csomópont a Dnyeszter menti területen.",
+      ro: "Dubăsari este un oraș situat pe malul stâng al Nistrului, cunoscut în special pentru hidrocentrala sa și lacul de acumulare adiacent. Fondat în secolul al XVIII-lea, orașul a fost istoric un centru important pentru prelucrarea tutunului și comerțul fluvial.",
+      en: "Dubăsari is a city on the left bank of the Dniester River, recognized for its large hydroelectric power station and the resulting reservoir. Founded in the 18th century, it has historically served as a trade center and a hub for the region's tobacco industry.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1792", "Wasserkraftwerk seit 1954", "Liegt am Dnister-Stausee", "Zentrum der Tabakindustrie"],
+      hu: ["1792-ben alapították", "Vízi erőműve 1954 óta üzemel", "A Dnyeszter-víztározó partján van", "Dohányfeldolgozó központ volt"],
+      ro: ["Fondat în anul 1792", "Hidrocentrală pusă în funcțiune în 1954", "Situat lângă lacul de acumulare", "Fost centru al industriei tutunului"],
+      en: ["Founded in 1792", "Hydroelectric plant opened in 1954", "Located by the Dniester reservoir", "Historic center of tobacco industry"],
+    },
+  },
   {
     id: "moldova-comrat-cities-v2",
     type: "capital",
-    name: { de: "Comrat", hu: "Komrát", ro: "Comrat", en: "Comrat" },
+    name: { de: "Comrat", hu: "Komrát", ro: "Comrat", en: "Comrat",
+image: "/poi-images/moldova-comrat-cities-v2.webp"
+},
     coords: [28.6572, 46.3003],
     coordinates: { lat: 46.3003, lng: 28.6572 },
     description: {
@@ -152,11 +266,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Capitala Găgăuziei", "Sediul Universității din Comrat", "Limba găgăuză este oficială", "Catedrala Sfântul Ioan Botezătorul"],
       en: ["Capital of Gagauzia", "Home to Comrat State University", "Gagauz is an official language", "Cathedral of St. John the Baptist"],
     },
-    imageHint: "Main administrative building in Comrat with Gagauzia flag", image: "/poi-images/moldova-comrat-cities-v2.webp"},
+    imageHint: "Main administrative building in Comrat with Gagauzia flag",
+    image: "/poi-images/moldova-comrat-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Comrat ist die Hauptstadt der Autonomen Territorialeinheit Gagausien im Süden Moldawiens. Die Stadt ist das kulturelle und administrative Zentrum der gagausischen Minderheit und beherbergt eine Universität, die sich der Erhaltung der gagausischen Sprache widmet.",
+      hu: "Komrát a Moldovai Köztársaság déli részén található Gagaúz Autonóm Terület fővárosa. A város a gagaúz kultúra és közigazgatás központja, saját egyetemmel rendelkezik, és fontos szerepet játszik a török nyelvcsaládba tartozó gagaúz nyelv megőrzésében.",
+      ro: "Comrat este capitala Unității Teritoriale Autonome Găgăuzia, situată în partea de sud a țării. Orașul servește drept centru administrativ și cultural principal al minorității găgăuze, găzduind Universitatea de Stat din Comrat și diverse muzee etnofolclorice.",
+      en: "Comrat is the capital city of the Autonomous Territorial Unit of Gagauzia in southern Moldova. It serves as the administrative and cultural heart of the Gagauz people, home to the Comrat State University which focuses on preserving the Gagauz language and heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1789", "Hauptstadt von Gagausien", "Sitz der Staatsuniversität Comrat", "Höhe von 64 m über dem Meer"],
+      hu: ["1789-ben alapították", "Gagaúzia fővárosa", "A Komráti Állami Egyetem székhelye", "Tengerszint feletti magassága 64 m"],
+      ro: ["Fondat în anul 1789", "Capitala regiunii Găgăuzia", "Găzduiește Universitatea de Stat", "Altitudine de 64 de metri"],
+      en: ["Founded in 1789", "Capital of Gagauzia", "Home to Comrat State University", "Elevation is about 64 meters"],
+    },
+  },
   {
     id: "moldova-edinet-cities-v2",
     type: "city",
-    name: { de: "Edineț", hu: "Edineț", ro: "Edineț", en: "Edineț" },
+    name: { de: "Edineț", hu: "Edineț", ro: "Edineț", en: "Edineț",
+image: "/poi-images/moldova-edinet-cities-v2.webp"
+},
     coords: [27.3031, 48.1692],
     coordinates: { lat: 48.1692, lng: 27.3031 },
     description: {
@@ -171,11 +301,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1431", "Faimos pentru Parcul Vasile Alecsandri", "Important centru agricol", "Comunitate evreiască istorică"],
       en: ["First mentioned in 1431", "Famous for Vasile Alecsandri Park", "Important agricultural center", "Historically significant Jewish community"],
     },
-    imageHint: "Green alleys of Vasile Alecsandri park in Edinet", image: "/poi-images/moldova-edinet-cities-v2.webp"},
+    imageHint: "Green alleys of Vasile Alecsandri park in Edinet",
+    image: "/poi-images/moldova-edinet-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Edineț ist ein wichtiges regionales Zentrum im Norden Moldawiens, das für seinen weitläufigen Park Vasile Alecsandri und seine landwirtschaftliche Industrie bekannt ist. Die Stadt blickt auf eine über 500-jährige Geschichte zurück und dient als Handelsknotenpunkt für die Region.",
+      hu: "Edineț Moldova északi részének egyik fontos gazdasági és kulturális központja. Az 1431-ben alapított város híres a Vasile Alecsandri parkjáról, amely az ország egyik legszebb közparkja, valamint fejlett élelmiszeriparáról és mezőgazdasági gépgyártásáról.",
+      ro: "Edineț este un centru regional semnificativ în nordul Moldovei, renumit pentru Parcul Vasile Alecsandri, unul dintre cele mai frumoase spații verzi din țară. Atestat documentar în 1431, orașul este un nod comercial important pentru sectorul agricol din zonă.",
+      en: "Edineț is a key regional center in northern Moldova, known for its expansive Vasile Alecsandri Park and its role in the agricultural industry. First mentioned in 1431, it serves as a vital commercial crossroads for the surrounding farming communities.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1431", "Bedeutender Vasile Alecsandri Park", "Nordmoldauisches Handelszentrum", "Liegt ca. 200 km von Chișinău"],
+      hu: ["1431-ben említik először", "Itt van a Vasile Alecsandri park", "Észak-Moldova kereskedelmi csomópontja", "Kisinyovtól kb. 200 km-re fekszik"],
+      ro: ["Prima atestare în anul 1431", "Găzduiește Parcul Vasile Alecsandri", "Centru comercial regional în nord", "Situat la 200 km de Chișinău"],
+      en: ["First mentioned in 1431", "Home to Vasile Alecsandri Park", "Regional trade hub in the north", "Located 200 km from Chișinău"],
+    },
+  },
   {
     id: "moldova-causeni-cities-v2",
     type: "city",
-    name: { de: "Căușeni", hu: "Căușeni", ro: "Căușeni", en: "Căușeni" },
+    name: { de: "Căușeni", hu: "Căușeni", ro: "Căușeni", en: "Căușeni",
+image: "/poi-images/moldova-causeni-cities-v2.webp"
+},
     coords: [29.4144, 46.6414],
     coordinates: { lat: 46.6414, lng: 29.4144 },
     description: {
@@ -190,11 +336,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Biserica Adormirea Maicii Domnului", "Biserică construită semi-îngropat", "Fresce medievale valoroase", "Centru al viticulturii"],
       en: ["Assumption of Mary Church (18th c.)", "Church built below ground level", "Valuable medieval frescoes", "Center of viticulture"],
     },
-    imageHint: "The semi-underground Assumption of Mary church in Causeni", image: "/poi-images/moldova-causeni-cities-v2.webp"},
+    imageHint: "The semi-underground Assumption of Mary church in Causeni",
+    image: "/poi-images/moldova-causeni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Căușeni ist eine historische Stadt im Südosten Moldawiens, die für ihre einzigartige, halb unterirdische Kirche Maria Entschlafen aus dem 17. Jahrhundert bekannt ist. Die Stadt war einst ein wichtiges Zentrum des Tataren-Khanats von BudschaK.",
+      hu: "Căușeni egy történelmi város Moldova délkeleti részén, amely leginkább a 17. századi, félig földbe süllyesztett Nagyboldogasszony-templomáról és annak értékes freskóiról híres. A település egykor a Budzsák-tatárok fontos központja volt.",
+      ro: "Căușeni este un oraș istoric din sud-estul Moldovei, renumit pentru Biserica Adormirea Maicii Domnului, o construcție semi-îngropată unică din secolul al XVII-lea. Orașul a servit drept reședință pentru tătarii din hoarda de Bugeac în perioada otomană.",
+      en: "Căușeni is a historic city in southeastern Moldova, famous for its unique semi-underground Church of the Assumption of the Virgin, dating back to the 17th century. It once served as an important center for the Budjak Tatars under Ottoman influence.",
+    },
+    factsAdvanced: {
+      de: ["Kirche aus dem 17. Jahrhundert", "Einst Sitz des Tataren-Khans", "Gegründet im Jahr 1455", "Liegt am Fluss Botna"],
+      hu: ["17. századi süllyesztett templom", "Egykori tatár káni székhely", "1455-ben alapították", "A Botna folyó partján fekszik"],
+      ro: ["Biserică din secolul XVII", "Fosta reședință a hanului tătar", "Atestat în anul 1455", "Situat pe râul Botna"],
+      en: ["17th-century semi-buried church", "Former residence of Tatar Khans", "Founded in 1455", "Located on the Botna River"],
+    },
+  },
   {
     id: "moldova-taraclia-cities-v2",
     type: "city",
-    name: { de: "Taraclia", hu: "Taraclia", ro: "Taraclia", en: "Taraclia" },
+    name: { de: "Taraclia", hu: "Taraclia", ro: "Taraclia", en: "Taraclia",
+image: "/poi-images/moldova-taraclia-cities-v2.webp"
+},
     coords: [28.6694, 45.9],
     coordinates: { lat: 45.9, lng: 28.6694 },
     description: {
@@ -209,11 +371,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Centrul bulgarilor basarabeni", "Sediul Universității din Taraclia", "Populație majoritar bulgară", "Fondat în anul 1813"],
       en: ["Center of Bessarabian Bulgarians", "Home to Taraclia State University", "Majority Bulgarian population", "Founded in 1813"],
     },
-    imageHint: "Taraclia State University building decorated with Bulgarian motifs", image: "/poi-images/moldova-taraclia-cities-v2.webp"},
+    imageHint: "Taraclia State University building decorated with Bulgarian motifs",
+    image: "/poi-images/moldova-taraclia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Taraclia ist das kulturelle Zentrum der bulgarischen Minderheit in Moldawien. Die Stadt wurde im frühen 19. Jahrhundert von bulgarischen Siedlern gegründet und beherbergt heute die staatliche Universität Taraclia, die enge Beziehungen zu Bulgarien pflegt.",
+      hu: "Taraclia a moldovai bolgár kisebbség kulturális és szellemi központja az ország déli részén. A várost a 19. század elején alapították bolgár telepesek, és ma is itt működik a Taracliai Állami Egyetem, amely a bolgár nyelv és kultúra őrzője.",
+      ro: "Taraclia este centrul cultural și spiritual al minorității bulgare din Republica Moldova. Fondat la începutul secolului al XIX-lea de coloniști bulgari, orașul găzduiește Universitatea de Stat din Taraclia, fiind un simbol al identității bulgare în regiune.",
+      en: "Taraclia serves as the cultural and spiritual heart of the Bulgarian minority in Moldova. Founded in the early 19th century by Bulgarian settlers, it is home to the Taraclia State University, which plays a key role in preserving Bulgarian language and traditions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1813", "Zentrum der Bulgaren in Moldau", "Sitz der Universität Taraclia", "Liegt im Süden Moldawiens"],
+      hu: ["1813-ban alapították", "A moldovai bolgárok központja", "Taracliai Állami Egyetem székhelye", "Moldova déli részén fekszik"],
+      ro: ["Fondat în anul 1813", "Centrul bulgarilor din Moldova", "Găzduiește Universitatea de Stat", "Situat în sudul Moldovei"],
+      en: ["Founded in 1813", "Hub for Bulgarians in Moldova", "Home to Taraclia State University", "Located in southern Moldova"],
+    },
+  },
   {
     id: "moldova-durlesti-cities-v2",
     type: "city",
-    name: { de: "Durlești", hu: "Durlești", ro: "Durlești", en: "Durlești" },
+    name: { de: "Durlești", hu: "Durlești", ro: "Durlești", en: "Durlești",
+image: "/poi-images/moldova-durlesti-cities-v2.webp"
+},
     coords: [28.7617, 47.0208],
     coordinates: { lat: 47.0208, lng: 28.7617 },
     description: {
@@ -228,11 +406,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Parte a municipiului Chișinău", "Important centru viticol", "Fondat în anul 1470", "Zonă rezidențială populară"],
       en: ["Part of Chișinău municipality", "Important wine production site", "Founded in 1470", "Popular residential area"],
     },
-    imageHint: "Suburban landscape of Durlesti with residential houses", image: "/poi-images/moldova-durlesti-cities-v2.webp"},
+    imageHint: "Suburban landscape of Durlesti with residential houses",
+    image: "/poi-images/moldova-durlesti-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Durlești ist eine Vorstadt von Chișinău, die sich in den letzten Jahren rasant entwickelt hat. Bekannt für ihre Weinbautradition und die Nähe zur Hauptstadt, bietet die Stadt eine Mischung aus modernem Wohnen und ländlichem Charakter in den umliegenden Hügeln.",
+      hu: "Durlești Kisinyov egyik dinamikusan fejlődő elővárosa, amely mára szinte teljesen egybeépült a fővárossal. A település híres borászati hagyományairól és dombos vidékéről, amely népszerű lakóövezetté teszi a fővárosban dolgozók körében.",
+      ro: "Durlești este o suburbie importantă a Chișinăului, aflată într-o expansiune rapidă în ultimele decenii. Orașul păstrează o tradiție viticolă puternică și oferă o combinație de zone rezidențiale moderne și peisaje colinare specifice centrului Moldovei.",
+      en: "Durlești is a rapidly growing suburb of Chișinău, effectively serving as part of the capital's metropolitan area. It is known for its longstanding viticulture traditions and its hilly terrain, making it a popular residential choice for those working in the capital.",
+    },
+    factsAdvanced: {
+      de: ["Vorstadt von Chișinău", "Ersterwähnung im Jahr 1470", "Zentrum für Weinbau", "Höhe von ca. 110 m"],
+      hu: ["Kisinyov elővárosa", "1470-ben említik először", "Borászati központ", "Tengerszint feletti magassága 110 m"],
+      ro: ["Suburbie a capitalei Chișinău", "Prima atestare în anul 1470", "Centru viticol important", "Altitudine medie de 110 metri"],
+      en: ["Suburb of Chișinău", "First mentioned in 1470", "Viticulture production center", "Elevation is around 110 meters"],
+    },
+  },
   {
     id: "moldova-falesti-cities-v2",
     type: "city",
-    name: { de: "Fălești", hu: "Fălești", ro: "Fălești", en: "Fălești" },
+    name: { de: "Fălești", hu: "Fălești", ro: "Fălești", en: "Fălești",
+image: "/poi-images/moldova-falesti-cities-v2.webp"
+},
     coords: [27.7092, 47.5753],
     coordinates: { lat: 47.5753, lng: 27.7092 },
     description: {
@@ -247,11 +441,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1429", "Deține un muzeu de istorie locală", "Important nod feroviar", "Centru al industriei zahărului"],
       en: ["First mentioned in 1429", "Features a significant local museum", "Important railway junction", "Center of the sugar industry"],
     },
-    imageHint: "Street view of central Falesti with local administrative buildings", image: "/poi-images/moldova-falesti-cities-v2.webp"},
+    imageHint: "Street view of central Falesti with local administrative buildings",
+    image: "/poi-images/moldova-falesti-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Fălești ist ein Verwaltungszentrum im Nordwesten Moldawiens, das historisch als wichtiger Marktort galt. Die Stadt ist für ihre Lebensmittelindustrie und ihre Lage in einer fruchtbaren landwirtschaftlichen Region bekannt, die für den Anbau von Getreide und Zuckerrüben ideal ist.",
+      hu: "Fălești Moldova északnyugati részén fekvő járási központ, amely történelmileg fontos vásárváros volt. A település gazdasága ma főként az élelmiszeriparra és a mezőgazdaságra épül, kihasználva a környék rendkívül termékeny csernozjom talajait.",
+      ro: "Fălești este un centru administrativ din nord-vestul Moldovei, atestat istoric ca un punct comercial important. Orașul este cunoscut pentru industria sa alimentară și amplasarea într-o zonă agricolă fertilă, specializată în cultura cerealelor și a sfeclei de zahăr.",
+      en: "Fălești is an administrative center in northwestern Moldova, historically known as a significant market town. Its economy is driven by the food processing industry, supported by the surrounding fertile agricultural lands used for grain and sugar beet cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1429", "Verwaltungszentrum des Rajons", "Bedeutende Lebensmittelindustrie", "Liegt 127 km von Chișinău"],
+      hu: ["1429-ben említik először", "Fălești járás központja", "Fejlett élelmiszeripar jellemzi", "Kisinyovtól 127 km-re van"],
+      ro: ["Prima atestare în anul 1429", "Centru administrativ raional", "Industrie alimentară dezvoltată", "Distanța până la Chișinău: 127 km"],
+      en: ["First mentioned in 1429", "Administrative center of the district", "Significant food processing hub", "Located 127 km from Chișinău"],
+    },
+  },
   {
     id: "moldova-hincesti-cities-v2",
     type: "city",
-    name: { de: "Hîncești", hu: "Hîncești", ro: "Hîncești", en: "Hîncești" },
+    name: { de: "Hîncești", hu: "Hîncești", ro: "Hîncești", en: "Hîncești",
+image: "/poi-images/moldova-hincesti-cities-v2.webp"
+},
     coords: [28.5861, 46.8286],
     coordinates: { lat: 46.8286, lng: 28.5861 },
     description: {
@@ -266,11 +476,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Găzduiește Conacul Manuc Bei", "Fostul nume a fost Kotovsk", "Fondat în anul 1500", "Situat în valea Cogâlnicului"],
       en: ["Home to the Manuc Bei Manor", "Former name was Kotovsk", "Founded in 1500", "Located in the Cogâlnic valley"],
     },
-    imageHint: "The restored Manuc Bei Manor architecture in Hincesti", image: "/poi-images/moldova-hincesti-cities-v2.webp"},
+    imageHint: "The restored Manuc Bei Manor architecture in Hincesti",
+    image: "/poi-images/moldova-hincesti-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hîncești ist berühmt für das herrschaftliche Anwesen von Manuc Bey, ein prächtiges Schlossensemble aus dem 19. Jahrhundert. Die Stadt liegt in einem malerischen Tal am Fluss Cogâlnic und ist ein wichtiger Knotenpunkt für den Verkehr in Richtung Südwesten.",
+      hu: "Hîncești legfőbb nevezetessége a Manuc Bey udvarház, egy lenyűgöző 19. századi kastélyegyüttes, amely a moldovai építészet egyik gyöngyszeme. A város a Cogâlnic folyó völgyében fekszik, és fontos közlekedési csomópont a délnyugati országrész felé.",
+      ro: "Hîncești este renumit pentru Complexul Arhitectural Conacul Manuc Bey, o bijuterie a arhitecturii din secolul al XIX-lea restaurată recent. Orașul este situat în valea râului Cogâlnic și servește drept un nod rutier vital în centrul Moldovei.",
+      en: "Hîncești is best known for the Manuc Bey Estate, a magnificent 19th-century architectural complex. Located in the picturesque Cogâlnic River valley, the city is a major transportation junction connecting central Moldova with the southwestern regions.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Manuc Bey Schlosses", "Ersterwähnung im Jahr 1500", "Liegt am Fluss Cogâlnic", "Ehemals Kotowsk genannt"],
+      hu: ["Itt van a Manuc Bey kastély", "1500-ban említik először", "A Cogâlnic folyó partján fekszik", "Korábbi neve Kotovszk volt"],
+      ro: ["Găzduiește Conacul Manuc Bey", "Prima atestare în anul 1500", "Situat pe râul Cogâlnic", "Purtat anterior numele Kotovsk"],
+      en: ["Home to Manuc Bey Estate", "First mentioned in 1500", "Located on the Cogâlnic River", "Formerly known as Kotovsk"],
+    },
+  },
   {
     id: "moldova-vulcanesti-cities-v2",
     type: "city",
-    name: { de: "Vulcănești", hu: "Vulcănești", ro: "Vulcănești", en: "Vulcănești" },
+    name: { de: "Vulcănești", hu: "Vulcănești", ro: "Vulcănești", en: "Vulcănești",
+image: "/poi-images/moldova-vulcanesti-cities-v2.webp"
+},
     coords: [28.4028, 45.6833],
     coordinates: { lat: 45.6833, lng: 28.4028 },
     description: {
@@ -285,11 +511,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Victorie asupra otomanilor în 1770", "Monumentul Bătăliei de la Cahul", "Cel mai sudic punct al Găgăuziei", "Important nod feroviar"],
       en: ["Victory over Ottomans in 1770", "Battle of Cahul Monument", "Southernmost point of Gagauzia", "Important railway junction"],
     },
-    imageHint: "Tall obelisk monument of the Battle of Cahul in Vulcanesti", image: "/poi-images/moldova-vulcanesti-cities-v2.webp"},
+    imageHint: "Tall obelisk monument of the Battle of Cahul in Vulcanesti",
+    image: "/poi-images/moldova-vulcanesti-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Vulcănești ist eine Stadt im südlichsten Zipfel Moldawiens innerhalb Gagausiens. Sie ist historisch bekannt für die Schlacht von Cahul (1770), an die ein monumentaler Obelisk erinnert, und dient heute als Grenzübergang zur Ukraine.",
+      hu: "Vulcănești Moldova legdélebbi részén, Gagaúziában található. Történelmi jelentőségét az 1770-es kahuli csata adja, amelynek tiszteletére egy hatalmas obeliszket emeltek a város mellett. Fontos határátkelőhely Ukrajna irányába.",
+      ro: "Vulcănești este un oraș situat în extremitatea sudică a Moldovei, în cadrul Găgăuziei. Este cunoscut istoric pentru Bătălia de la Cahul din 1770, marcată de un monument masiv, și funcționează ca un punct de trecere a frontierei spre Ucraina.",
+      en: "Vulcănești is located in the southernmost tip of Moldova, within the Gagauzia region. It is historically significant as the site of the 1770 Battle of Cahul, commemorated by a large monument, and serves as a key border crossing to Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Denkmal der Schlacht von 1770", "Liegt im Süden von Gagausien", "Gegründet im Jahr 1470", "Höhe von 40 m über dem Meer"],
+      hu: ["Az 1770-es csata emlékműve", "Gagaúzia déli részén fekszik", "1470-ben alapították", "Tengerszint feletti magassága 40 m"],
+      ro: ["Monumentul bătăliei din 1770", "Situat în sudul Găgăuziei", "Atestat în anul 1470", "Altitudine de 40 de metri"],
+      en: ["Monument to the 1770 battle", "Located in southern Gagauzia", "Founded in 1470", "Elevation is 40 meters"],
+    },
+  },
   {
     id: "moldova-ceadir-lunga-cities-v2",
     type: "city",
-    name: { de: "Ceadîr-Lunga", hu: "Ceadîr-Lunga", ro: "Ceadîr-Lunga", en: "Ceadîr-Lunga" },
+    name: { de: "Ceadîr-Lunga", hu: "Ceadîr-Lunga", ro: "Ceadîr-Lunga", en: "Ceadîr-Lunga",
+image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp"
+},
     coords: [28.8306, 46.0583],
     coordinates: { lat: 46.0583, lng: 28.8306 },
     description: {
@@ -304,11 +546,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1819", "Deține un aerodrom", "Cunoscut pentru creșterea cailor", "Important producător de vin"],
       en: ["Founded in 1819", "Features a small airfield", "Known for horse breeding", "Important wine producer"],
     },
-    imageHint: "Church of the Nativity of Christ in Ceadir-Lunga", image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp"},
+    imageHint: "Church of the Nativity of Christ in Ceadir-Lunga",
+    image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ceadîr-Lunga ist die zweitgrößte Stadt Gagausiens und ein wichtiges Zentrum für Pferdezucht und Weinbau. Die Stadt beherbergt die einzige staatliche Pferdezuchtfarm des Landes, die für ihre Orlow-Traber bekannt ist, und feiert jährlich das Hederlez-Fest.",
+      hu: "Ceadîr-Lunga Gagaúzia második legnagyobb városa, amely híres lótenyésztéséről és borászatáról. Itt található az ország egyetlen állami ménese, ahol orlov ügetőket tenyésztenek, valamint a város a gagaúz kultúra egyik fontos bástyája.",
+      ro: "Ceadîr-Lunga este al doilea oraș ca mărime din Găgăuzia, fiind un centru vital pentru viticultură și creșterea calului. Orașul găzduiește singura fermă de stat pentru creșterea cailor de rasă Orlov și este renumit pentru sărbătoarea tradițională Hederlez.",
+      en: "Ceadîr-Lunga is the second-largest city in Gagauzia and a center for viticulture and equine breeding. It is home to the country's only state-run horse farm, famous for breeding Orlov Trotters, and is a key location for the Gagauz cultural festival Hederlez.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der staatlichen Pferdezucht", "Gegründet im Jahr 1819", "Zweitgrößte Stadt Gagausiens", "Feiert das Hederlez-Fest"],
+      hu: ["Állami ménes székhelye", "1819-ben alapították", "Gagaúzia 2. legnagyobb városa", "Hederlez ünnep helyszíne"],
+      ro: ["Găzduiește ferma de cai de stat", "Fondat în anul 1819", "Al doilea oraș din Găgăuzia", "Sărbătorește anual Hederlez"],
+      en: ["Home to the state horse farm", "Founded in 1819", "Second largest city in Gagauzia", "Hosts the Hederlez festival"],
+    },
+  },
   {
     id: "moldova-ialoveni-cities-v2",
     type: "city",
-    name: { de: "Ialoveni", hu: "Ialoveni", ro: "Ialoveni", en: "Ialoveni" },
+    name: { de: "Ialoveni", hu: "Ialoveni", ro: "Ialoveni", en: "Ialoveni",
+image: "/poi-images/moldova-ialoveni-cities-v2.webp"
+},
     coords: [28.7778, 46.9428],
     coordinates: { lat: 46.9428, lng: 28.7778 },
     description: {
@@ -323,11 +581,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Cunoscutele beciuri Mileștii Mici", "Cea mai mare colecție de vinuri", "Menționat prima dată în 1502", "Centrul raionului Ialoveni"],
       en: ["Mileștii Mici wine cellars", "Largest wine collection in the world", "First mentioned in 1502", "Center of Ialoveni district"],
     },
-    imageHint: "Underground wine storage tunnels of Mileștii Mici", image: "/poi-images/moldova-ialoveni-cities-v2.webp"},
+    imageHint: "Underground wine storage tunnels of Mileștii Mici",
+    image: "/poi-images/moldova-ialoveni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ialoveni liegt nur wenige Kilometer südlich von Chișinău und ist weltberühmt für seine Weinkellereien, insbesondere für die Herstellung von Sherry-Weinen. Die Stadt ist ein wichtiger Teil der moldauischen Weinstraße und profitiert von ihrer Nähe zur Hauptstadt.",
+      hu: "Ialoveni közvetlenül Kisinyov szomszédságában fekszik, és világszerte híres borászati üzemeiről, különösen a moldovai sherry típusú borok készítéséről. A város gazdasága és élete szorosan összefonódik a szőlőtermesztéssel és a borászattal.",
+      ro: "Ialoveni este situat la mică distanță de Chișinău și este recunoscut pe plan internațional pentru producția sa de vinuri tip Sherry (Ialoveni). Orașul face parte integrantă din rutele oenologice ale Moldovei, având o industrie alimentară și viticolă puternică.",
+      en: "Ialoveni is located just a few kilometers south of Chișinău and is world-renowned for its wineries, specifically for producing Sherry-style wines. It is a vital stop on the Moldovan wine route and benefits from its proximity to the capital's markets.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Sherry-Produktion", "Ersterwähnung im Jahr 1502", "Liegt am Fluss Ișnovăț", "Nur 12 km von Chișinău"],
+      hu: ["A Sherry-bortermelés központja", "1502-ben említik először", "Az Ișnovăț folyó partján van", "Kisinyovtól csak 12 km-re fekszik"],
+      ro: ["Centru de producție a vinului Sherry", "Prima atestare în anul 1502", "Situat pe râul Ișnovăț", "Distanța de Chișinău: 12 km"],
+      en: ["Center for Sherry-style wine", "First mentioned in 1502", "Located on the Ișnovăț River", "Only 12 km from Chișinău"],
+    },
+  },
   {
     id: "moldova-singerei-cities-v2",
     type: "city",
-    name: { de: "Sîngerei", hu: "Sîngerei", ro: "Sîngerei", en: "Sîngerei" },
+    name: { de: "Sîngerei", hu: "Sîngerei", ro: "Sîngerei", en: "Sîngerei",
+image: "/poi-images/moldova-singerei-cities-v2.webp"
+},
     coords: [28.1403, 47.6361],
     coordinates: { lat: 47.6361, lng: 28.1403 },
     description: {
@@ -342,11 +616,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1586", "Fostul nume a fost Lazovsk", "Zonă importantă de cereale", "Situat pe râul Ciuluc"],
       en: ["Founded in 1586", "Former name was Lazovsk", "Important cereal growing area", "Located on the Ciuluc river"],
     },
-    imageHint: "Main square of Singerei with local monument", image: "/poi-images/moldova-singerei-cities-v2.webp"},
+    imageHint: "Main square of Singerei with local monument",
+    image: "/poi-images/moldova-singerei-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sîngerei ist ein regionales Zentrum im Norden Moldawiens, das an der Hauptstraße zwischen Chișinău und Bălți liegt. Die Stadt ist von fruchtbaren Ebenen umgeben und spielt eine wichtige Rolle in der Verarbeitung landwirtschaftlicher Erzeugnisse wie Sonnenblumen und Getreide.",
+      hu: "Sîngerei észak-moldovai város a Kisinyov és Bălți közötti főút mentén. A település a környező mezőgazdasági területek feldolgozó központja, ahol jelentős a napraforgómag-olaj gyártása és a gabonakereskedelem.",
+      ro: "Sîngerei este un centru raional situat pe traseul principal ce leagă Chișinăul de Bălți. Orașul este înconjurat de câmpii fertile și are o economie bazată pe prelucrarea produselor agricole, în special fabricarea uleiului vegetal și a produselor de panificație.",
+      en: "Sîngerei is a regional administrative center in northern Moldova, situated on the main highway connecting Chișinău and Bălți. It serves as a processing hub for the surrounding fertile plains, specializing in sunflower oil production and grain trade.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1586", "Liegt am Fluss Soloneț", "Rajonshauptstadt", "Ehemals Lasowsk genannt"],
+      hu: ["1586-ban alapították", "A Soloneț folyó partján fekszik", "Sîngerei járás központja", "Korábbi neve Lazovszk volt"],
+      ro: ["Fondat în anul 1586", "Situat pe râul Soloneț", "Reședință de raion", "Anterior numit Lazovsk"],
+      en: ["Founded in 1586", "Located on the Soloneț River", "District capital", "Formerly named Lazovsk"],
+    },
+  },
   {
     id: "moldova-ocnita-cities-v2",
     type: "city",
-    name: { de: "Ocnița", hu: "Ocnița", ro: "Ocnița", en: "Ocnița" },
+    name: { de: "Ocnița", hu: "Ocnița", ro: "Ocnița", en: "Ocnița",
+image: "/poi-images/moldova-ocnita-cities-v2.webp"
+},
     coords: [27.4811, 48.4086],
     coordinates: { lat: 48.4086, lng: 27.4811 },
     description: {
@@ -361,11 +651,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Cel mai nordic oraș al țării", "Punct de trecere a frontierei", "Fondat în anul 1897", "Depou feroviar mare"],
       en: ["Northernmost city in the country", "Important border crossing", "Founded in 1897", "Large railway depot"],
     },
-    imageHint: "Ocnita railway station building architecture", image: "/poi-images/moldova-ocnita-cities-v2.webp"},
+    imageHint: "Ocnita railway station building architecture",
+    image: "/poi-images/moldova-ocnita-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ocnița ist eine Stadt im äußersten Norden Moldawiens an der Grenze zur Ukraine. Sie entwickelte sich im späten 19. Jahrhundert als wichtiger Eisenbahnknotenpunkt und bleibt bis heute ein bedeutendes Tor für den Schienenverkehr zwischen Moldawien und seinen nördlichen Nachbarn.",
+      hu: "Ocnița Moldova legészakibb városa, közvetlenül az ukrán határnál. A 19. század végén vasúti csomópontként indult fejlődésnek, és ma is az ország egyik legfontosabb vasúti határátkelőhelye, amely meghatározza a város gazdasági jellegét.",
+      ro: "Ocnița este un oraș situat în extremitatea nordică a Moldovei, la frontiera cu Ucraina. Dezvoltarea sa a fost strâns legată de construcția căii ferate în secolul al XIX-lea, orașul rămânând până astăzi un nod feroviar strategic și punct vamal important.",
+      en: "Ocnița is a city in the far north of Moldova, situated on the border with Ukraine. It grew significantly in the late 19th century as a vital railway junction and continues to serve as a strategic gateway for rail transport between Moldova and Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Eisenbahnknotenpunkt", "Gegründet im Jahr 1891", "Nördlichste Stadt Moldawiens", "Liegt an der ukrainischen Grenze"],
+      hu: ["Fontos vasúti csomópont", "1891-ben alapították", "Moldova legészakibb városa", "Az ukrán határ mellett fekszik"],
+      ro: ["Nod feroviar strategic", "Fondat în anul 1891", "Cel mai nordic oraș din Moldova", "Situat la granița cu Ucraina"],
+      en: ["Strategic railway junction", "Founded in 1891", "Northernmost city in Moldova", "Located on the Ukrainian border"],
+    },
+  },
   {
     id: "moldova-briceni-cities-v2",
     type: "city",
-    name: { de: "Briceni", hu: "Briceni", ro: "Briceni", en: "Briceni" },
+    name: { de: "Briceni", hu: "Briceni", ro: "Briceni", en: "Briceni",
+image: "/poi-images/moldova-briceni-cities-v2.webp"
+},
     coords: [27.085, 48.3619],
     coordinates: { lat: 48.3619, lng: 27.085 },
     description: {
@@ -380,11 +686,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1562", "Centru pomicol (mere)", "Poluare redusă a aerului", "Aproape de punctul triplex"],
       en: ["First mentioned in 1562", "Center of fruit growing (apples)", "Low air pollution levels", "Near the triple border point"],
     },
-    imageHint: "Apple orchards surrounding the town of Briceni", image: "/poi-images/moldova-briceni-cities-v2.webp"},
+    imageHint: "Apple orchards surrounding the town of Briceni",
+    image: "/poi-images/moldova-briceni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Briceni liegt im Nordwesten Moldawiens im Dreiländereck mit Rumänien und der Ukraine. Die Stadt ist ein Handelszentrum für Äpfel und Zuckerrüben und bekannt für ihre multikulturelle Geschichte, die ehemals eine bedeutende jüdische Gemeinde umfasste.",
+      hu: "Briceni Moldova északnyugati csücskében fekszik, a román és az ukrán határ közelében. A város az ország egyik legfontosabb almatermesztő vidékének központja, és gazdag multikulturális múlttal rendelkezik, amelyet egykor népes zsidó közösség formált.",
+      ro: "Briceni este un oraș situat în nord-vestul Moldovei, în apropierea punctului unde se întâlnesc frontierele Moldovei, României și Ucrainei. Orașul este un centru agricol major, renumit pentru livezile de meri și diversitatea sa culturală istorică.",
+      en: "Briceni is located in northwestern Moldova, near the tripoint with Romania and Ukraine. It serves as a regional hub for the apple and sugar beet trade and boasts a rich multicultural history, once being a significant center for the Jewish community in the region.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1562", "Zentrum des Apfelanbaus", "Liegt im Norden Moldawiens", "Ehemals jüdischer Schtetl"],
+      hu: ["1562-ben említik először", "Az almatermesztés központja", "Moldova északi részén fekszik", "Egykori zsidó közösségi központ"],
+      ro: ["Prima atestare în anul 1562", "Centru de cultivare a merelor", "Situat în nordul Moldovei", "Fost centru cultural evreiesc"],
+      en: ["First mentioned in 1562", "Center for apple cultivation", "Located in northern Moldova", "Former Jewish cultural hub"],
+    },
+  },
   {
     id: "moldova-drochia-cities-v2",
     type: "city",
-    name: { de: "Drochia", hu: "Drochia", ro: "Drochia", en: "Drochia" },
+    name: { de: "Drochia", hu: "Drochia", ro: "Drochia", en: "Drochia",
+image: "/poi-images/moldova-drochia-cities-v2.webp"
+},
     coords: [27.7511, 48.035],
     coordinates: { lat: 48.035, lng: 27.7511 },
     description: {
@@ -399,11 +721,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Catedrala Maicii Domnului", "Centru al producției de zahăr", "Menționat prima dată în 1777", "Important nod feroviar"],
       en: ["Cathedral of the Mother of God", "Center of sugar production", "First mentioned in 1777", "Important railway junction"],
     },
-    imageHint: "Modern Cathedral of the Mother of God in Drochia", image: "/poi-images/moldova-drochia-cities-v2.webp"},
+    imageHint: "Modern Cathedral of the Mother of God in Drochia",
+    image: "/poi-images/moldova-drochia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Drochia ist ein bedeutendes Industriezentrum im Norden Moldawiens, das für seine Zuckerfabrik und seine Käseproduktion bekannt ist. Die Stadt ist modern gestaltet und beherbergt eine markante Kathedrale mit fünf goldenen Kuppeln, die das Stadtbild dominiert.",
+      hu: "Drochia észak-moldovai ipari város, amelynek gazdasága a cukorgyártásra és a tejfeldolgozásra épül. A település jelképe a modern, ötkupolás monumentális ortodox székesegyház, amely az ország egyik leglátványosabb vallási épülete.",
+      ro: "Drochia este un centru industrial important din nordul Republicii Moldova, recunoscut pentru fabrica de zahăr și producția de lactate. Orașul se remarcă prin Catedrala Adormirea Maicii Domnului, o construcție modernă spectaculoasă cu cinci cupole aurite.",
+      en: "Drochia is a major industrial center in northern Moldova, known for its sugar refinery and dairy production. The city is characterized by its modern layout and the striking Cathedral of the Assumption, featuring five golden domes that can be seen from afar.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1835", "Sitz einer großen Zuckerfabrik", "Markante 5-Kuppel-Kathedrale", "Liegt 167 km von Chișinău"],
+      hu: ["1835-ben alapították", "Itt van az ország egyik cukorgyára", "Ötkupolás ortodox katedrális", "Kisinyovtól 167 km-re fekszik"],
+      ro: ["Fondat în anul 1835", "Găzduiește o fabrică de zahăr", "Catedrală spectaculoasă cu 5 cupole", "Distanța de Chișinău: 167 km"],
+      en: ["Founded in 1835", "Home to a large sugar refinery", "Features a 5-domed cathedral", "Located 167 km from Chișinău"],
+    },
+  },
   {
     id: "moldova-stefan-voda-cities-v2",
     type: "city",
-    name: { de: "Ștefan Vodă", hu: "Ștefan Vodă", ro: "Ștefan Vodă", en: "Ștefan Vodă" },
+    name: { de: "Ștefan Vodă", hu: "Ștefan Vodă", ro: "Ștefan Vodă", en: "Ștefan Vodă",
+image: "/poi-images/moldova-stefan-voda-cities-v2.webp"
+},
     coords: [29.6614, 46.5133],
     coordinates: { lat: 46.5133, lng: 29.6614 },
     description: {
@@ -418,11 +756,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fostul nume a fost Suvorov", "Centrul regiunii viticole Purcari", "Fondat în anul 1964", "Important punct agricol"],
       en: ["Former name was Suvorov", "Center of the Purcari wine region", "Founded in 1964", "Important agricultural site"],
     },
-    imageHint: "Purcari vineyards near Stefan Voda town", image: "/poi-images/moldova-stefan-voda-cities-v2.webp"},
+    imageHint: "Purcari vineyards near Stefan Voda town",
+    image: "/poi-images/moldova-stefan-voda-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ștefan Vodă, im Südosten Moldawiens gelegen, ist das Herz der Weinregion Purcari. Die Stadt ist von erstklassigen Weinbergen umgeben und spielt eine zentrale Rolle in der Verwaltung der landwirtschaftlichen Exportgüter des Landes in Richtung Schwarzes Meer.",
+      hu: "Ștefan Vodă Moldova délkeleti részén fekszik, és a híres Purcari borvidék központjának számít. A várost kiváló szőlőültetvények veszik körül, gazdasága pedig a minőségi bortermelésre és a mezőgazdasági termékek feldolgozására összpontosít.",
+      ro: "Ștefan Vodă este un oraș din sud-estul Moldovei, situat în inima celebrei zone viticole Purcari. Orașul este un centru administrativ important într-o regiune renumită pentru calitatea solului și producția de vinuri destinate exportului.",
+      en: "Ștefan Vodă is located in southeastern Moldova and serves as the gateway to the prestigious Purcari wine region. Surrounded by high-quality vineyards, the city plays a central role in managing the agricultural exports of the southeastern plains.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1964", "Ehemals Suworow genannt", "Zentrum der Purcari-Weinregion", "Liegt nahe der ukrainischen Grenze"],
+      hu: ["1964-ben alapították", "Korábbi neve Szuvorov volt", "A Purcari borvidék központja", "Az ukrán határ közelében fekszik"],
+      ro: ["Fondat în anul 1964", "Purtat anterior numele Suvorov", "Centrul regiunii viticole Purcari", "Situat lângă granița cu Ucraina"],
+      en: ["Founded in 1964", "Formerly known as Suvorov", "Heart of the Purcari wine region", "Located near the Ukrainian border"],
+    },
+  },
   {
     id: "moldova-rezina-cities-v2",
     type: "city",
-    name: { de: "Rezina", hu: "Rezina", ro: "Rezina", en: "Rezina" },
+    name: { de: "Rezina", hu: "Rezina", ro: "Rezina", en: "Rezina",
+image: "/poi-images/moldova-rezina-cities-v2.webp"
+},
     coords: [28.9622, 47.7486],
     coordinates: { lat: 47.7486, lng: 28.9622 },
     description: {
@@ -437,11 +791,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Mare fabrică de ciment (Lafarge)", "Pod peste râul Nistru", "Menționat prima dată în 1495", "Aproape de Mănăstirea Saharna"],
       en: ["Large cement plant (Lafarge)", "Bridge over the Dniester river", "First mentioned in 1495", "Near the Saharna Monastery"],
     },
-    imageHint: "Lafarge cement factory towers in Rezina by the river", image: "/poi-images/moldova-rezina-cities-v2.webp"},
+    imageHint: "Lafarge cement factory towers in Rezina by the river",
+    image: "/poi-images/moldova-rezina-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rezina liegt am steilen rechten Ufer des Dnister und ist vor allem für seine Zementindustrie bekannt. Die Stadt bietet einen spektakulären Blick auf den Fluss und die gegenüberliegende Stadt Rîbnița und dient als Ausgangspunkt für Ausflüge zum Felsenkloster Saharna.",
+      hu: "Rezina a Dnyeszter jobb partján fekszik, és az ország cementiparának központja. A város meredek sziklákról tekint le a folyóra és a túlparti Rîbnițára, emellett fontos vallási turisztikai kapu a közeli Saharna sziklakolostor felé.",
+      ro: "Rezina este un oraș situat pe malul drept abrupt al Nistrului, fiind principalul centru al industriei cimentului din Moldova. Orașul oferă o panoramă spectaculoasă asupra râului și este un punct de plecare spre faimoasa mănăstire rupestră Saharna.",
+      en: "Rezina is situated on the steep right bank of the Dniester River and is the primary center for Moldova's cement industry. The city offers breathtaking views of the river and serves as a major gateway for pilgrims visiting the nearby Saharna cave monastery.",
+    },
+    factsAdvanced: {
+      de: ["Großes Zementwerk (Lafarge)", "Ersterwähnung im Jahr 1470", "Liegt am Fluss Dnister", "Höhe von ca. 180 m"],
+      hu: ["Hatalmas cementgyára van", "1470-ben említik először", "A Dnyeszter folyó partján fekszik", "Tengerszint feletti magassága 180 m"],
+      ro: ["Găzduiește fabrica de ciment Lafarge", "Prima atestare în anul 1470", "Situat pe malul Nistrului", "Altitudine medie de 180 metri"],
+      en: ["Home to Lafarge cement plant", "First mentioned in 1470", "Located on the Dniester River", "Elevation is about 180 meters"],
+    },
+  },
   {
     id: "moldova-glodeni-cities-v2",
     type: "city",
-    name: { de: "Glodeni", hu: "Glodeni", ro: "Glodeni", en: "Glodeni" },
+    name: { de: "Glodeni", hu: "Glodeni", ro: "Glodeni", en: "Glodeni",
+image: "/poi-images/moldova-glodeni-cities-v2.webp"
+},
     coords: [27.3144, 47.7714],
     coordinates: { lat: 47.7714, lng: 27.3144 },
     description: {
@@ -456,11 +826,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Rezervația Pădurea Domnească", "Zonă cu zimbri în apropiere", "Menționat prima dată în 1673", "Centru al industriei zahărului"],
       en: ["Pădurea Domnească reserve", "European bison habitat nearby", "First mentioned in 1673", "Sugar industry hub"],
     },
-    imageHint: "European bison in the Padurea Domneasca reserve near Glodeni", image: "/poi-images/moldova-glodeni-cities-v2.webp"},
+    imageHint: "European bison in the Padurea Domneasca reserve near Glodeni",
+    image: "/poi-images/moldova-glodeni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Glodeni ist ein Verwaltungszentrum im Westen Moldawiens, das für das Naturschutzgebiet Pădurea Domnească bekannt ist. Die Stadt dient als Basis für den Ökotourismus in der Region, die seltene Wisente und die einzigartige Hügellandschaft Suta de Movile beherbergt.",
+      hu: "Glodeni Moldova nyugati részén fekvő járási központ, amely a közeli Pădurea Domnească (Királyi Erdő) természetvédelmi területről híres. A város az ökoturizmus kapuja, ahol európai bölények és a különleges Száz Domb vidéke is megtekinthető.",
+      ro: "Glodeni este un centru administrativ din vestul Moldovei, renumit pentru apropierea de rezervația naturală Pădurea Domnească. Orașul este poarta de acces către atracții unice precum zimbrii rezervației și peisajul misterios Suta de Movile.",
+      en: "Glodeni is an administrative center in western Moldova, best known for its proximity to the Pădurea Domnească (Royal Forest) Nature Reserve. It serves as a base for ecotourism, offering access to the region's European bison and the unique Hundred Mounds landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1673", "Nahe dem Pădurea Domnească Schutzgebiet", "Heimat der Suta de Movile Hügel", "Landwirtschaftliches Zentrum"],
+      hu: ["1673-ban alapították", "A Királyi Erdő rezervátum közelében", "A Száz Domb vidékének központja", "Mezőgazdasági irányultságú város"],
+      ro: ["Fondat în anul 1673", "Lângă rezervația Pădurea Domnească", "Acces la monumentul Suta de Movile", "Centru agricol regional"],
+      en: ["Founded in 1673", "Near Pădurea Domnească reserve", "Home to the Hundred Mounds", "Regional agricultural center"],
+    },
+  },
   {
     id: "moldova-riscani-cities-v2",
     type: "city",
-    name: { de: "Rîșcani", hu: "Rîșcani", ro: "Rîșcani", en: "Rîșcani" },
+    name: { de: "Rîșcani", hu: "Rîșcani", ro: "Rîșcani", en: "Rîșcani",
+image: "/poi-images/moldova-riscani-cities-v2.webp"
+},
     coords: [27.2519, 47.9547],
     coordinates: { lat: 47.9547, lng: 27.2519 },
     description: {
@@ -475,11 +861,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1602", "Centru al procesării laptelui", "Aproape de râul Prut", "Piață importantă de cereale"],
       en: ["Founded in 1602", "Center for dairy processing", "Near the Prut river", "Significant grain market"],
     },
-    imageHint: "Aerial view of Riscani town center and surrounding fields", image: "/poi-images/moldova-riscani-cities-v2.webp"},
+    imageHint: "Aerial view of Riscani town center and surrounding fields",
+    image: "/poi-images/moldova-riscani-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rîșcani ist ein wichtiges Agrar- und Industriezentrum im Norden Moldawiens. Die Stadt ist für ihre Produktion von Milchprodukten und ätherischen Ölen bekannt und liegt strategisch günstig an den Handelswegen, die die nördlichen Regionen des Landes verbinden.",
+      hu: "Rîșcani észak-moldovai város, amely jelentős élelmiszeriparral és mezőgazdasági gépgyártással rendelkezik. A település híres tejtermékeiről és az illóolaj-növények termesztéséről, valamint fontos kereskedelmi útvonalak találkozásánál fekszik.",
+      ro: "Rîșcani este un centru agricol și industrial important situat în nordul țării. Orașul este recunoscut pentru fabricarea lactatelor și prelucrarea plantelor eterice, fiind un punct strategic de legătură între diverse localități din regiunea de nord.",
+      en: "Rîșcani is a significant agricultural and industrial center in northern Moldova. The city is known for its dairy production and the processing of essential oil plants, and it is strategically located along trade routes connecting northern Moldovan districts.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1602", "Zentrum für ätherische Öle", "Nordmoldauisches Agrarzentrum", "Höhe von 130 m über dem Meer"],
+      hu: ["1602-ben alapították", "Illóolaj-gyártás központja", "Észak-Moldova agrárvárosa", "Tengerszint feletti magassága 130 m"],
+      ro: ["Fondat în anul 1602", "Centru de prelucrare a uleiurilor eterice", "Importante unități de procesare agricolă", "Altitudine de 130 de metri"],
+      en: ["Founded in 1602", "Center for essential oil production", "Northern agricultural hub", "Elevation is 130 meters"],
+    },
+  },
   {
     id: "moldova-cantemir-cities-v2",
     type: "city",
-    name: { de: "Cantemir", hu: "Cantemir", ro: "Cantemir", en: "Cantemir" },
+    name: { de: "Cantemir", hu: "Cantemir", ro: "Cantemir", en: "Cantemir",
+image: "/poi-images/moldova-cantemir-cities-v2.webp"
+},
     coords: [28.2017, 46.2775],
     coordinates: { lat: 46.2775, lng: 28.2017 },
     description: {
@@ -494,11 +896,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1973", "Numit după Dimitrie Cantemir", "Importantă fabrică de vin", "Situat la granița cu România"],
       en: ["Founded in 1973", "Named after Dimitrie Cantemir", "Significant winery located here", "Situated on the border with Romania"],
     },
-    imageHint: "Statue of Dimitrie Cantemir in the city center", image: "/poi-images/moldova-cantemir-cities-v2.webp"},
+    imageHint: "Statue of Dimitrie Cantemir in the city center",
+    image: "/poi-images/moldova-cantemir-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cantemir ist eine der jüngsten Städte Moldawiens, gegründet in den 1970er Jahren im Prut-Tal. Die Stadt wurde als Industriestandort konzipiert und ist heute ein Zentrum der Wein- und Konservenindustrie im Süden des Landes, benannt nach dem moldauischen Fürsten Dimitrie Cantemir.",
+      hu: "Cantemir Moldova egyik legfiatalabb városa, amelyet az 1970-es években alapítottak a Prut völgyében. A települést ipari központnak tervezték, mára pedig a déli régió borászatának és konzerviparának egyik meghatározó szereplőjévé vált.",
+      ro: "Cantemir este unul dintre cele mai tinere orașe din Moldova, fiind fondat în anii 1970 în lunca Prutului. Orașul a fost conceput ca un centru industrial, fiind în prezent specializat în viticultură și industria conservelor din zona de sud.",
+      en: "Cantemir is one of the youngest cities in Moldova, established in the 1970s in the Prut River valley. Designed as an industrial hub, it now serves as a key center for the wine and canning industries in southern Moldova, named after Prince Dimitrie Cantemir.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1973", "Benannt nach Dimitrie Cantemir", "Liegt im Tal des Flusses Prut", "Zentrum der Konservenindustrie"],
+      hu: ["1973-ban alapították", "Dimitrie Cantemir fejedelemről nevezték el", "A Prut folyó völgyében fekszik", "Konzervipari központ"],
+      ro: ["Fondat în anul 1973", "Numit după domnitorul Dimitrie Cantemir", "Situat în lunca râului Prut", "Centru al industriei conservelor"],
+      en: ["Founded in 1973", "Named after Dimitrie Cantemir", "Located in the Prut River valley", "Canning industry center"],
+    },
+  },
   {
     id: "moldova-basarabeasca-cities-v2",
     type: "city",
-    name: { de: "Basarabeasca", hu: "Basarabeasca", ro: "Basarabeasca", en: "Basarabeasca" },
+    name: { de: "Basarabeasca", hu: "Basarabeasca", ro: "Basarabeasca", en: "Basarabeasca",
+image: "/poi-images/moldova-basarabeasca-cities-v2.webp"
+},
     coords: [28.9639, 46.3317],
     coordinates: { lat: 46.3317, lng: 28.9639 },
     description: {
@@ -513,11 +931,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1846", "Nod feroviar strategic", "Fostul nume a fost Romanovca", "Punct de frontieră cu Ucraina"],
       en: ["Founded in 1846", "Strategic railway junction", "Former name was Romanovca", "Border crossing point to Ukraine"],
     },
-    imageHint: "Railway depot and station in Basarabeasca", image: "/poi-images/moldova-basarabeasca-cities-v2.webp"},
+    imageHint: "Railway depot and station in Basarabeasca",
+    image: "/poi-images/moldova-basarabeasca-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Basarabeasca ist ein wichtiger Eisenbahnknotenpunkt im Süden Moldawiens direkt an der Grenze zur Ukraine. Die Stadt entstand um eine Bahnstation herum und ist heute ein bedeutendes Logistikzentrum für den Güterverkehr in den Schwarzmeerraum.",
+      hu: "Basarabeasca egy kulcsfontosságú vasúti csomópont Moldova déli részén, az ukrán határ mentén. A város fejlődése szorosan kötődik a vasúthoz, és ma is meghatározó logisztikai központ a fekete-tengeri kikötők felé irányuló áruforgalomban.",
+      ro: "Basarabeasca este un nod feroviar vital situat în sudul Moldovei, la granița cu Ucraina. Dezvoltat în jurul unei stații de cale ferată, orașul funcționează ca un centru logistic major pentru transportul de mărfuri spre regiunea Mării Negre.",
+      en: "Basarabeasca is a vital railway junction in southern Moldova, located directly on the border with Ukraine. The city grew around its railway station and remains a major logistics hub for freight transport moving toward the Black Sea ports.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1846", "Wichtiger Bahnknoten im Süden", "Liegt am Fluss Cogâlnic", "Ehemals Romanowka genannt"],
+      hu: ["1846-ban alapították", "Déli vasúti csomópont", "A Cogâlnic folyó partján fekszik", "Korábbi neve Romanovka volt"],
+      ro: ["Fondat în anul 1846", "Nod feroviar crucial în sud", "Situat pe râul Cogâlnic", "Purtat anterior numele Romanovka"],
+      en: ["Founded in 1846", "Key southern rail junction", "Located on the Cogâlnic River", "Formerly named Romanovka"],
+    },
+  },
   {
     id: "moldova-cimislia-cities-v2",
     type: "city",
-    name: { de: "Cimișlia", hu: "Cimișlia", ro: "Cimișlia", en: "Cimișlia" },
+    name: { de: "Cimișlia", hu: "Cimișlia", ro: "Cimișlia", en: "Cimișlia",
+image: "/poi-images/moldova-cimislia-cities-v2.webp"
+},
     coords: [28.7839, 46.5217],
     coordinates: { lat: 46.5217, lng: 28.7839 },
     description: {
@@ -532,11 +966,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1620", "Piață importantă de vite", "Centru al țesutului covoarelor", "Intersecție rutieră majoră"],
       en: ["First mentioned in 1620", "Significant livestock market", "Carpet weaving center", "Major road intersection hub"],
     },
-    imageHint: "Traditional Moldovan carpets on display in Cimislia", image: "/poi-images/moldova-cimislia-cities-v2.webp"},
+    imageHint: "Traditional Moldovan carpets on display in Cimislia",
+    image: "/poi-images/moldova-cimislia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cimișlia liegt an der Kreuzung wichtiger Handelswege im Süden Moldawiens. Die Stadt ist ein dynamisches Agrarzentrum, das für seinen Weinbau und die Käseherstellung bekannt ist, und dient als administratives Herz des gleichnamigen Rajons.",
+      hu: "Cimișlia Moldova déli részén, fontos kereskedelmi utak találkozásánál fekszik. A város dinamikusan fejlődő agrárközpont, ahol a szőlőtermesztés és a tejtermékek gyártása mellett a könnyűipar is jelentős szerepet kap a helyi gazdaságban.",
+      ro: "Cimișlia este situat la intersecția unor trasee comerciale importante din sudul Moldovei. Orașul este un centru agricol dinamic, renumit pentru viticultură și producția de brânzeturi, fiind inima administrativă a raionului omonim.",
+      en: "Cimișlia is located at a crossroads of major trade routes in southern Moldova. The city is a dynamic agricultural center known for its viticulture and cheese production, serving as the administrative heart of its namesake district.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1620", "Liegt am Fluss Cogâlnic", "Regionales Handelszentrum", "Höhe von 90 m über dem Meer"],
+      hu: ["1620-ban említik először", "A Cogâlnic folyó partján fekszik", "Regionális kereskedelmi csomópont", "Tengerszint feletti magassága 90 m"],
+      ro: ["Prima atestare în anul 1620", "Situat pe râul Cogâlnic", "Nod comercial regional", "Altitudine medie de 90 metri"],
+      en: ["First mentioned in 1620", "Located on the Cogâlnic River", "Regional trade crossroads", "Elevation is about 90 meters"],
+    },
+  },
   {
     id: "moldova-leova-cities-v2",
     type: "city",
-    name: { de: "Leova", hu: "Leova", ro: "Leova", en: "Leova" },
+    name: { de: "Leova", hu: "Leova", ro: "Leova", en: "Leova",
+image: "/poi-images/moldova-leova-cities-v2.webp"
+},
     coords: [28.2542, 46.4864],
     coordinates: { lat: 46.4864, lng: 28.2542 },
     description: {
@@ -551,11 +1001,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1489", "Port important pe Prut (istoric)", "Pod de frontieră spre România", "Importante mori de cereale"],
       en: ["First mentioned in 1489", "Important Prut port (historically)", "Border bridge to Romania", "Significant flour mills"],
     },
-    imageHint: "Prut river bridge connecting Leova to Romania", image: "/poi-images/moldova-leova-cities-v2.webp"},
+    imageHint: "Prut river bridge connecting Leova to Romania",
+    image: "/poi-images/moldova-leova-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Leova liegt am östlichen Ufer des Flusses Prut und ist ein Zentrum der moldauischen Weinindustrie im Südwesten. Die Stadt blickt auf eine lange Handelsgeschichte zurück und ist heute bekannt für ihre Weinberge und die Grenznähe zu Rumänien.",
+      hu: "Leova a Prut folyó keleti partján fekvő délnyugati város, amely Moldova egyik meghatározó borászati körzetének központja. A település nagy múltú kereskedelmi központ, gazdaságát ma a szőlőművelés és az élelmiszeripar határozza meg.",
+      ro: "Leova este un oraș situat pe malul stâng al Prutului, fiind un centru important al industriei viticole din sud-vestul Moldovei. Orașul are o istorie comercială bogată și servește drept punct strategic de legătură la frontiera cu România.",
+      en: "Leova is situated on the eastern bank of the Prut River and serves as a major hub for the Moldovan wine industry in the southwest. The city has a long history as a trade center and is characterized today by its expansive vineyards and border proximity to Romania.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1489", "Liegt am Grenzfluss Prut", "Zentrum für Weinbau", "Höhe von 45 m über dem Meer"],
+      hu: ["1489-ben említik először", "A Prut határfolyó partján fekszik", "Borászati központ", "Tengerszint feletti magassága 45 m"],
+      ro: ["Prima atestare în anul 1489", "Oraș port la râul Prut", "Centru viticol în dezvoltare", "Altitudine de 45 de metri"],
+      en: ["First mentioned in 1489", "Located on the Prut River border", "Viticulture industry hub", "Elevation is 45 meters"],
+    },
+  },
   {
     id: "moldova-nisporeni-cities-v2",
     type: "city",
-    name: { de: "Nisporeni", hu: "Nisporeni", ro: "Nisporeni", en: "Nisporeni" },
+    name: { de: "Nisporeni", hu: "Nisporeni", ro: "Nisporeni", en: "Nisporeni",
+image: "/poi-images/moldova-nisporeni-cities-v2.webp"
+},
     coords: [28.1819, 47.0817],
     coordinates: { lat: 47.0817, lng: 28.1819 },
     description: {
@@ -570,11 +1036,27 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1618", "Aproape de Mănăstirea Vărzărești", "Centru al producției de vin", "Cel mai înalt punct din Moldova e aproape"],
       en: ["First mentioned in 1618", "Near the Vărzărești Monastery", "Wine production center", "Highest point of Moldova is nearby"],
     },
-    imageHint: "Aerial view of Nisporeni town surrounded by hills", image: "/poi-images/moldova-nisporeni-cities-v2.webp"},
+    imageHint: "Aerial view of Nisporeni town surrounded by hills",
+    image: "/poi-images/moldova-nisporeni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nisporeni liegt eingebettet in die hügelige Waldlandschaft des Codru-Gebiets. Die Stadt ist berühmt für ihr Kreuz der nationalen Erlösung auf einem der höchsten Punkte Moldawiens und ist ein bedeutendes Zentrum für Weinbau und Obstproduktion.",
+      hu: "Nisporeni a Codru dombvidékének festői táján fekszik. A város híres a Nemzeti Megváltás Keresztjéről, amely Moldova egyik legmagasabb pontján magasodik, gazdasága pedig a szőlőtermesztésre és a gyümölcsfeldolgozásra épül.",
+      ro: "Nisporeni este situat în zona colinară a Codrilor, fiind renumit pentru Monumentul Crucea Mântuirii Neamului Românesc. Orașul este un centru vital pentru pomicultură și viticultură, profitând de relieful variat și solul fertil al regiunii.",
+      en: "Nisporeni is nestled within the scenic, hilly landscapes of the Codru forest region. The city is famous for the Cross of National Salvation, located on one of the highest peaks in Moldova, and is a significant center for viticulture and fruit production.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 1618", "Heimat des Erlösungskreuzes", "Liegt in der Codru-Region", "Bekannt für Pflaumenanbau"],
+      hu: ["1618-ban említik először", "Nemzeti Megváltás Keresztje helyszíne", "A Codru-régióban fekszik", "Szilvatermesztéséről híres"],
+      ro: ["Prima atestare în anul 1618", "Găzduiește Crucea Mântuirii", "Situat în inima Codrilor", "Centru major pentru pomicultură"],
+      en: ["First mentioned in 1618", "Home to the Salvation Cross", "Located in the Codru region", "Famous for plum production"],
+    },
+  },
   {
     id: "moldova-grigoriopol-cities-v2",
     type: "city",
-    name: { de: "Grigoriopol", hu: "Grigoriopol", ro: "Grigoriopol", en: "Grigoriopol" },
+    name: { de: "Grigoriopol", hu: "Grigoriopol", ro: "Grigoriopol", en: "Grigoriopol",
+image: "/poi-images/moldova-grigoriopol-cities-v2.webp"
+},
     coords: [29.3, 47.15],
     coordinates: { lat: 47.15, lng: 29.3 },
     description: {
@@ -589,11 +1071,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în 1792 pentru armeni", "Situat pe malul Nistrului", "Important centru agricol", "Deține o biserică armenească"],
       en: ["Founded in 1792 for Armenians", "Located on the Dniester river", "Important agricultural site", "Features an Armenian church"],
     },
-    imageHint: "Armenian church architecture in Grigoriopol", image: "/poi-images/moldova-grigoriopol-cities-v2.webp"},
+    imageHint: "Armenian church architecture in Grigoriopol",
+    image: "/poi-images/moldova-grigoriopol-cities-v2.webp"},
   {
     id: "moldova-camenca-cities-v2",
     type: "city",
-    name: { de: "Camenca", hu: "Camenca", ro: "Camenca", en: "Camenca" },
+    name: { de: "Camenca", hu: "Camenca", ro: "Camenca", en: "Camenca",
+image: "/poi-images/moldova-camenca-cities-v2.webp"
+},
     coords: [28.7, 48.0333],
     coordinates: { lat: 48.0333, lng: 28.7 },
     description: {
@@ -608,11 +1093,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Importanta stațiune 'Nistru'", "Fondat în anul 1608", "Cel mai nordic oraș transnistrean", "Faimos pentru terasele de viță"],
       en: ["Significant 'Nistru' health resort", "Founded in 1608", "Northernmost Transnistrian city", "Famous for wine terraces"],
     },
-    imageHint: "Terraced vineyards on the hills of Camenca", image: "/poi-images/moldova-camenca-cities-v2.webp"},
+    imageHint: "Terraced vineyards on the hills of Camenca",
+    image: "/poi-images/moldova-camenca-cities-v2.webp"},
   {
     id: "moldova-slobozia-cities-v2",
     type: "city",
-    name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia" },
+    name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia",
+image: "/poi-images/moldova-slobozia-cities-v2.webp"
+},
     coords: [29.7, 46.7333],
     coordinates: { lat: 46.7333, lng: 29.7 },
     description: {
@@ -627,11 +1115,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1769", "Centrul raionului Slobozia", "Importantă industrie de conserve", "Aproape de granița ucraineană"],
       en: ["Founded in 1769", "Center of the Slobozia district", "Significant canning industry", "Near the Ukrainian border"],
     },
-    imageHint: "Traditional stone church in Slobozia", image: "/poi-images/moldova-slobozia-cities-v2.webp"},
+    imageHint: "Traditional stone church in Slobozia",
+    image: "/poi-images/moldova-slobozia-cities-v2.webp"},
   {
     id: "moldova-dnestrovsc-cities-v2",
     type: "city",
-    name: { de: "Dnestrovsc", hu: "Dnestrovsc", ro: "Dnestrovsc", en: "Dnestrovsc" },
+    name: { de: "Dnestrovsc", hu: "Dnestrovsc", ro: "Dnestrovsc", en: "Dnestrovsc",
+image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"
+},
     coords: [29.9167, 46.6167],
     coordinates: { lat: 46.6167, lng: 29.9167 },
     description: {
@@ -646,11 +1137,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Sediul centralei Cuciurgan", "Fondat în anul 1961", "Cea mai mare centrală din regiune", "Zonă de agrement populară la lac"],
       en: ["Home to the Cuciurgan power plant", "Founded in 1961", "Largest power plant in the region", "Popular lakeside recreation area"],
     },
-    imageHint: "Tall chimneys of the Cuciurgan power plant in Dnestrovsc", image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"},
+    imageHint: "Tall chimneys of the Cuciurgan power plant in Dnestrovsc",
+    image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"},
   {
     id: "moldova-codru-cities-v2",
     type: "city",
-    name: { de: "Codru", hu: "Codru", ro: "Codru", en: "Codru" },
+    name: { de: "Codru", hu: "Codru", ro: "Codru", en: "Codru",
+image: "/poi-images/moldova-codru-cities-v2.webp"
+},
     coords: [28.8189, 46.9747],
     coordinates: { lat: 46.9747, lng: 28.8189 },
     description: {
@@ -665,11 +1159,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Parte a municipiului Chișinău", "Centru de cercetare agricolă", "Fondat în anul 1977", "Amplasare deluroasă pitorească"],
       en: ["Part of Chișinău municipality", "Center for agricultural research", "Founded in 1977", "Picturesque hillside location"],
     },
-    imageHint: "Modern research laboratory building in Codru", image: "/poi-images/moldova-codru-cities-v2.webp"},
+    imageHint: "Modern research laboratory building in Codru",
+    image: "/poi-images/moldova-codru-cities-v2.webp"},
   {
     id: "moldova-cricova-cities-v2",
     type: "city",
-    name: { de: "Cricova", hu: "Krikova", ro: "Cricova", en: "Cricova" },
+    name: { de: "Cricova", hu: "Krikova", ro: "Cricova", en: "Cricova",
+image: "/poi-images/moldova-cricova-cities-v2.webp"
+},
     coords: [28.8617, 47.1333],
     coordinates: { lat: 47.1333, lng: 28.8617 },
     description: {
@@ -684,11 +1181,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Orașul subteran al vinului", "Peste 120 km de tuneluri", "Colecția națională de vinuri", "Renumit pentru spumante"],
       en: ["Underground 'Wine City'", "Over 120 km of tunnels", "National wine collection", "Renowned for sparkling wine"],
     },
-    imageHint: "Underground street sign 'Cabernet' in Cricova wine cellars", image: "/poi-images/moldova-cricova-cities-v2.webp"},
+    imageHint: "Underground street sign 'Cabernet' in Cricova wine cellars",
+    image: "/poi-images/moldova-cricova-cities-v2.webp"},
   {
     id: "moldova-cupcini-cities-v2",
     type: "city",
-    name: { de: "Cupcini", hu: "Cupcini", ro: "Cupcini", en: "Cupcini" },
+    name: { de: "Cupcini", hu: "Cupcini", ro: "Cupcini", en: "Cupcini",
+image: "/poi-images/moldova-cupcini-cities-v2.webp"
+},
     coords: [27.3853, 48.1122],
     coordinates: { lat: 48.1122, lng: 27.3853 },
     description: {
@@ -703,11 +1203,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Centru al industriei zahărului", "Menționat prima dată în 1431", "Important nod feroviar", "Fabrică mare de pâine"],
       en: ["Center of the sugar industry", "First mentioned in 1431", "Important railway junction", "Large commercial bakery"],
     },
-    imageHint: "Industrial sugar processing plant in Cupcini", image: "/poi-images/moldova-cupcini-cities-v2.webp"},
+    imageHint: "Industrial sugar processing plant in Cupcini",
+    image: "/poi-images/moldova-cupcini-cities-v2.webp"},
   {
     id: "moldova-otaci-cities-v2",
     type: "city",
-    name: { de: "Otaci", hu: "Otaci", ro: "Otaci", en: "Otaci" },
+    name: { de: "Otaci", hu: "Otaci", ro: "Otaci", en: "Otaci",
+image: "/poi-images/moldova-otaci-cities-v2.webp"
+},
     coords: [27.7944, 48.4328],
     coordinates: { lat: 48.4328, lng: 27.7944 },
     description: {
@@ -722,11 +1225,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Punct strategic de frontieră", "Menționat prima dată în 1419", "Traversare importantă a Nistrului", "Comunitate romă semnificativă"],
       en: ["Strategic border crossing", "First mentioned in 1419", "Important Dniester crossing point", "Significant Roma community"],
     },
-    imageHint: "International bridge over the Dniester at Otaci border", image: "/poi-images/moldova-otaci-cities-v2.webp"},
+    imageHint: "International bridge over the Dniester at Otaci border",
+    image: "/poi-images/moldova-otaci-cities-v2.webp"},
   {
     id: "moldova-costesti-cities-v2",
     type: "city",
-    name: { de: "Costești", hu: "Costești", ro: "Costești", en: "Costești" },
+    name: { de: "Costești", hu: "Costești", ro: "Costești", en: "Costești",
+image: "/poi-images/moldova-costesti-cities-v2.webp"
+},
     coords: [27.2117, 47.8594],
     coordinates: { lat: 47.8594, lng: 27.2117 },
     description: {
@@ -741,11 +1247,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Hidrocentrala Stânca-Costești", "Al doilea lac de acumulare ca mărime", "Traversare importantă a Prutului", "Zonă piscicolă semnificativă"],
       en: ["Stânca-Costești Hydroelectric Plant", "Second largest reservoir in region", "Important Prut crossing point", "Significant fishing area"],
     },
-    imageHint: "Large dam and hydroelectric plant of Stanca-Costesti", image: "/poi-images/moldova-costesti-cities-v2.webp"},
+    imageHint: "Large dam and hydroelectric plant of Stanca-Costesti",
+    image: "/poi-images/moldova-costesti-cities-v2.webp"},
   {
     id: "moldova-biruinta-cities-v2",
     type: "city",
-    name: { de: "Biruința", hu: "Biruința", ro: "Biruința", en: "Biruința" },
+    name: { de: "Biruința", hu: "Biruința", ro: "Biruința", en: "Biruința",
+image: "/poi-images/moldova-biruinta-cities-v2.webp"
+},
     coords: [28.0689, 47.8156],
     coordinates: { lat: 47.8156, lng: 28.0689 },
     description: {
@@ -760,11 +1269,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1963", "Centru al industriei zahărului", "Situat aproape de Bălți", "Așezare planificată industrial"],
       en: ["Founded in 1963", "Sugar industry center", "Located near the city of Bălți", "Planned industrial settlement"],
     },
-    imageHint: "Typical mid-20th century industrial town architecture in Biruinta", image: "/poi-images/moldova-biruinta-cities-v2.webp"},
+    imageHint: "Typical mid-20th century industrial town architecture in Biruinta",
+    image: "/poi-images/moldova-biruinta-cities-v2.webp"},
   {
     id: "moldova-cornesti-cities-v2",
     type: "city",
-    name: { de: "Cornești", hu: "Cornești", ro: "Cornești", en: "Cornești" },
+    name: { de: "Cornești", hu: "Cornești", ro: "Cornești", en: "Cornești",
+image: "/poi-images/moldova-cornesti-cities-v2.webp"
+},
     coords: [27.9958, 47.3583],
     coordinates: { lat: 47.3583, lng: 27.9958 },
     description: {
@@ -779,11 +1291,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Nod feroviar important", "Menționat prima dată în 1437", "Situat în zona Codrilor", "Centru pentru silvicultură"],
       en: ["Important railway junction", "First mentioned in 1437", "Located in the Codru forest area", "Center for forestry"],
     },
-    imageHint: "Railway tracks passing through the forested hills near Cornesti", image: "/poi-images/moldova-cornesti-cities-v2.webp"},
+    imageHint: "Railway tracks passing through the forested hills near Cornesti",
+    image: "/poi-images/moldova-cornesti-cities-v2.webp"},
   {
     id: "moldova-crasnoe-cities-v2",
     type: "city",
-    name: { de: "Crasnoe", hu: "Crasnoe", ro: "Crasnoe", en: "Crasnoe" },
+    name: { de: "Crasnoe", hu: "Crasnoe", ro: "Crasnoe", en: "Crasnoe",
+image: "/poi-images/moldova-crasnoe-cities-v2.webp"
+},
     coords: [29.8167, 46.6433],
     coordinates: { lat: 46.6433, lng: 29.8167 },
     description: {
@@ -798,11 +1313,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1957", "Fabrică importantă de conserve", "Situat în valea Nistrului", "Populație majoritar rusofonă"],
       en: ["Founded in 1957", "Significant canning factory", "Located in the Dniester valley", "Predominantly Russian-speaking"],
     },
-    imageHint: "Food processing factory exterior in Crasnoe", image: "/poi-images/moldova-crasnoe-cities-v2.webp"},
+    imageHint: "Food processing factory exterior in Crasnoe",
+    image: "/poi-images/moldova-crasnoe-cities-v2.webp"},
   {
     id: "moldova-frunza-cities-v2",
     type: "city",
-    name: { de: "Frunză", hu: "Frunză", ro: "Frunză", en: "Frunză" },
+    name: { de: "Frunză", hu: "Frunză", ro: "Frunză", en: "Frunză",
+image: "/poi-images/moldova-frunza-cities-v2.webp"
+},
     coords: [27.5961, 48.4069],
     coordinates: { lat: 48.4069, lng: 27.5961 },
     description: {
@@ -817,11 +1335,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1969", "Centru de procesare a zahărului", "Numit după Mihail Frunze", "Aproape de granița ucraineană"],
       en: ["Founded in 1969", "Sugar processing center", "Named after Mikhail Frunze", "Near the Ukrainian border"],
     },
-    imageHint: "Soviet-style cultural center building in Frunza", image: "/poi-images/moldova-frunza-cities-v2.webp"},
+    imageHint: "Soviet-style cultural center building in Frunza",
+    image: "/poi-images/moldova-frunza-cities-v2.webp"},
   {
     id: "moldova-ghindesti-cities-v2",
     type: "city",
-    name: { de: "Ghindești", hu: "Ghindești", ro: "Ghindești", en: "Ghindești" },
+    name: { de: "Ghindești", hu: "Ghindești", ro: "Ghindești", en: "Ghindești",
+image: "/poi-images/moldova-ghindesti-cities-v2.webp"
+},
     coords: [28.3814, 47.8544],
     coordinates: { lat: 47.8544, lng: 28.3814 },
     description: {
@@ -836,11 +1357,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fabrică mare de zahăr", "Menționat prima dată în 1641", "Situat pe râul Răut", "Stație importantă de încărcare"],
       en: ["Large sugar factory", "First mentioned in 1641", "Located on the Răut river", "Important loading railway station"],
     },
-    imageHint: "Răut river flowing through the town of Ghindesti", image: "/poi-images/moldova-ghindesti-cities-v2.webp"},
+    imageHint: "Răut river flowing through the town of Ghindesti",
+    image: "/poi-images/moldova-ghindesti-cities-v2.webp"},
   {
     id: "moldova-iargara-cities-v2",
     type: "city",
-    name: { de: "Iargara", hu: "Iargara", ro: "Iargara", en: "Iargara" },
+    name: { de: "Iargara", hu: "Iargara", ro: "Iargara", en: "Iargara",
+image: "/poi-images/moldova-iargara-cities-v2.webp"
+},
     coords: [28.4358, 46.4286],
     coordinates: { lat: 46.4286, lng: 28.4358 },
     description: {
@@ -855,11 +1379,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Nod feroviar semnificativ", "Menționat prima dată în 1817", "Silozuri de cereale importante", "Aproape de câmpia Prutului"],
       en: ["Significant railway junction", "First mentioned in 1817", "Important grain elevators", "Near the Prut plain"],
     },
-    imageHint: "Large grain silos near the Iargara railway tracks", image: "/poi-images/moldova-iargara-cities-v2.webp"},
+    imageHint: "Large grain silos near the Iargara railway tracks",
+    image: "/poi-images/moldova-iargara-cities-v2.webp"},
   {
     id: "moldova-maiac-cities-v2",
     type: "city",
-    name: { de: "Maiac", hu: "Maiac", ro: "Maiac", en: "Maiac" },
+    name: { de: "Maiac", hu: "Maiac", ro: "Maiac", en: "Maiac",
+image: "/poi-images/moldova-maiac-cities-v2.webp"
+},
     coords: [29.3853, 47.2347],
     coordinates: { lat: 47.2347, lng: 29.3853 },
     description: {
@@ -874,11 +1401,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Sediul centrului radio Maiac", "Fondat în anul 1968", "Instalații mari de antene", "Aproape de granița ucraineană"],
       en: ["Home to the Maiac radio center", "Founded in 1968", "Massive transmission antennas", "Near the Ukrainian border"],
     },
-    imageHint: "Forest of tall radio transmission masts in Maiac", image: "/poi-images/moldova-maiac-cities-v2.webp"},
+    imageHint: "Forest of tall radio transmission masts in Maiac",
+    image: "/poi-images/moldova-maiac-cities-v2.webp"},
   {
     id: "moldova-marculesti-cities-v2",
     type: "city",
-    name: { de: "Mărculești", hu: "Mărculești", ro: "Mărculești", en: "Mărculești" },
+    name: { de: "Mărculești", hu: "Mărculești", ro: "Mărculești", en: "Mărculești",
+image: "/poi-images/moldova-marculesti-cities-v2.webp"
+},
     coords: [28.2372, 47.8733],
     coordinates: { lat: 47.8733, lng: 28.2372 },
     description: {
@@ -893,11 +1423,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Aeroportul Internațional Mărculești", "Menționat prima dată în 1552", "Fost aerodrom militar", "Punct logistic important"],
       en: ["Mărculești International Airport", "First mentioned in 1552", "Former military airbase", "Important logistics hub"],
     },
-    imageHint: "Main runway and terminal of Marculesti Airport", image: "/poi-images/moldova-marculesti-cities-v2.webp"},
+    imageHint: "Main runway and terminal of Marculesti Airport",
+    image: "/poi-images/moldova-marculesti-cities-v2.webp"},
   {
     id: "moldova-lipcani-cities-v2",
     type: "city",
-    name: { de: "Lipcani", hu: "Lipcani", ro: "Lipcani", en: "Lipcani" },
+    name: { de: "Lipcani", hu: "Lipcani", ro: "Lipcani", en: "Lipcani",
+image: "/poi-images/moldova-lipcani-cities-v2.webp"
+},
     coords: [26.8044, 48.2661],
     coordinates: { lat: 48.2661, lng: 26.8044 },
     description: {
@@ -912,11 +1445,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Poziție la punctul triplex", "Menționat prima dată în 1429", "Traversare importantă a Prutului", "Fost ștetl evreiesc istoric"],
       en: ["Triple border location", "First mentioned in 1429", "Important Prut crossing point", "Historical Jewish shtetl"],
     },
-    imageHint: "Prut river views near the border town of Lipcani", image: "/poi-images/moldova-lipcani-cities-v2.webp"},
+    imageHint: "Prut river views near the border town of Lipcani",
+    image: "/poi-images/moldova-lipcani-cities-v2.webp"},
   {
     id: "moldova-bucovat-cities-v2",
     type: "city",
-    name: { de: "Bucovăț", hu: "Bucovăț", ro: "Bucovăț", en: "Bucovăț" },
+    name: { de: "Bucovăț", hu: "Bucovăț", ro: "Bucovăț", en: "Bucovăț",
+image: "/poi-images/moldova-bucovat-cities-v2.webp"
+},
     coords: [28.4611, 47.1883],
     coordinates: { lat: 47.1883, lng: 28.4611 },
     description: {
@@ -931,11 +1467,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1420", "Situat pe râul Bîc", "Centru al industriei de conserve", "Cuibărit în dealurile Codrilor"],
       en: ["Founded in 1420", "Located on the Bîc river", "Canning industry center", "Nestled in the Codru hills"],
     },
-    imageHint: "Bucovat town surrounded by green Codru forests", image: "/poi-images/moldova-bucovat-cities-v2.webp"},
+    imageHint: "Bucovat town surrounded by green Codru forests",
+    image: "/poi-images/moldova-bucovat-cities-v2.webp"},
   {
     id: "moldova-tvardita-cities-v2",
     type: "city",
-    name: { de: "Tvardița", hu: "Tvardița", ro: "Tvardița", en: "Tvardița" },
+    name: { de: "Tvardița", hu: "Tvardița", ro: "Tvardița", en: "Tvardița",
+image: "/poi-images/moldova-tvardita-cities-v2.webp"
+},
     coords: [28.9664, 46.155],
     coordinates: { lat: 46.155, lng: 28.9664 },
     description: {
@@ -950,11 +1489,14 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1830", "Sediul vinăriei Tvardița", "Tradiții culturale bulgare", "Statut de oraș din 2013"],
       en: ["Founded in 1830", "Home to Tvardița winery", "Bulgarian cultural traditions", "City status since 2013"],
     },
-    imageHint: "Bulgarian orthodox church architecture in Tvardita", image: "/poi-images/moldova-tvardita-cities-v2.webp"},
+    imageHint: "Bulgarian orthodox church architecture in Tvardita",
+    image: "/poi-images/moldova-tvardita-cities-v2.webp"},
   {
     id: "moldova-vadul-lui-voda-cities-v2",
     type: "city",
-    name: { de: "Vadul lui Vodă", hu: "Vadul lui Vodă", ro: "Vadul lui Vodă", en: "Vadul lui Vodă" },
+    name: { de: "Vadul lui Vodă", hu: "Vadul lui Vodă", ro: "Vadul lui Vodă", en: "Vadul lui Vodă",
+image: "/poi-images/moldova-vadul-lui-voda-cities-v2.webp"
+},
     coords: [29.0767, 47.0911],
     coordinates: { lat: 47.0911, lng: 29.0767 },
     description: {
@@ -975,7 +1517,9 @@ export const moldovaCitiesV2: POI[] = [
   {
     id: "moldova-calarasi-cities-v2",
     type: "city",
-    name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași" },
+    name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași",
+image: "/poi-images/moldova-calarasi-cities-v2.webp"
+},
     coords: [28.3111, 47.2544],
     coordinates: { lat: 47.2544, lng: 28.3111 },
     description: {

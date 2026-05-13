@@ -428,31 +428,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Butrint", hu: "Butrint", ro: "Butrint", en: "Butrint" },
     description: { de: "Butrint ist eine antike Ruinenstadt und ein Nationalpark im Süden Albaniens in der Nähe von Saranda.", hu: "Butrint egy ókori romváros és nemzeti park Albánia déli részén, Saranda közelében.", ro: "Butrint este un vechi oraș în ruine și un parc național în sudul Albaniei, aproape de Saranda.", en: "Butrint is an ancient ruined city and a national park in southern Albania near Saranda." },
     descriptionAdvanced: {
-      de: "Butrint ist einer der bedeutendsten archäologischen Schätze auf dem Balkan. Die Stätte liegt auf einer Halbinsel, umgeben von Wasser und üppiger Vegetation, was ihr eine fast magische Atmosphäre verleiht. Hier lassen sich Schichten aus griechischer, römischer, byzantinischer und venezianischer Zeit freilegen, die die wechselvolle Geschichte der Region dokumentieren.",
-      hu: "Butrint Albánia legjelentősebb régészeti lelőhelye és az UNESCO Világörökség része, amely több mint 2500 év történelmét öleli fel.",
-      ro: "Unul dintre cele mai importante situri arheologice din Balcani, patrimoniu UNESCO.",
-      en: "Butrint is Albania's most significant archaeological site and a UNESCO World Heritage treasure, showcasing over 2,500 years of history."
+      de: "Butrint ist ein außergewöhnliches archäologisches Ensemble, das griechische, römische, byzantinische und venezianische Einflüsse vereint. Die Stätte liegt malerisch auf einer Halbinsel und bietet Einblicke in über zwei Jahrtausende Siedlungsgeschichte im Mittelmeerraum.",
+      hu: "Butrint egy különleges régészeti együttes, amelyben görög, római, bizánci és velencei építészeti stílusok találkoznak. A Jón-tenger partján fekvő félsziget több mint kétezer évnyi folyamatos lakottság nyomait őrzi az ókortól a középkorig.",
+      ro: "Butrint este un ansamblu arheologic excepțional care îmbină influențe grecești, romane, bizantine și venețiene. Situat pe o peninsulă pitorească, situl oferă o perspectivă rară asupra a peste două milenii de istorie a colonizării în regiunea mediteraneană.",
+      en: "Butrint is an exceptional archaeological ensemble that combines Greek, Roman, Byzantine, and Venetian influences. Set on a picturesque peninsula, the site offers rare insights into over two millennia of settlement history in the Mediterranean region."
     },
     factsAdvanced: {
-      de: [
-        "Butrint diente einst als wichtige griechische Kolonie und später als römischer Hafen.",
-        "Das antike Theater zeugt von der kulturellen Blüte der Stadt in hellenistischer Zeit.",
-        "Die Bodenmosaike im Baptisterium sind kunsthistorisch von Weltrang."
-      ],
-      hu: [
-        "Butrint területén görög, római, bizánci és velencei építészeti emlékek is megtalálhatók.",
-        "Az ókori színház, amely a 3. században épült, ma is remek állapotban van.",
-        "A keresztelőkápolna finom mozaikpadlóit különleges leletként tartják számon."],
-      ro: [
-        "Legendele spun că Butrint a fost fondat de exilați din Troia antică.",
-        "Situl conține ruine impresionante din perioadele romană și bizantină.",
-        "Butrint a fost inclus în patrimoniul mondial UNESCO în anul 1992."
-      ],
-      en: [
-        "According to mythology, Butrint was founded by exiles fleeing the fall of Troy.",
-        "The 6th-century baptistery features one of the most elaborate floor mosaics in the Mediterranean.",
-        "Butrint was designated as Albania's first UNESCO World Heritage site in 1992."
-      ]
+      de: ["UNESCO-Welterbe seit 1992.", "Das antike Theater fasste ca. 2.500 Zuschauer.", "Beinhaltet eine der größten frühchristlichen Baptisterien.", "Wurde im 4. Jahrhundert v. Chr. als Handelsplatz bedeutend."],
+      hu: ["1992 óta az UNESCO Világörökség része.", "Az ókori színház befogadóképessége 2500 fő volt.", "Itt található az egyik legnagyobb kora keresztény keresztelőkápolna.", "Az i. e. 4. században vált jelentős kereskedelmi központtá."],
+      ro: ["Patrimoniu Mondial UNESCO din 1992.", "Teatrul antic avea o capacitate de aproximativ 2.500 de spectatori.", "Include unul dintre cele mai mari baptisterii creștine timpurii.", "A devenit un centru comercial important în secolul al IV-lea î.Hr."],
+      en: ["UNESCO World Heritage site since 1992.", "The ancient theater seated approximately 2,500 spectators.", "Features one of the largest early Christian baptisteries.", "Became a major trading center in the 4th century BC."]
     },
     type: "historical",
     coords: [20.0195, 39.7431],
@@ -469,31 +454,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Apollonia", hu: "Apollónia", ro: "Apollonia", en: "Apollonia" },
     description: { de: "Antike griechische Stadt", hu: "Ókori görög város", ro: "Oraș antic grec", en: "Ancient Greek city" },
     descriptionAdvanced: {
-      de: "Apollonia war im antiken Griechenland eine einflussreiche Kolonie und später ein hochgeschätztes römisches Bildungszentrum. Die Anlage besticht durch ihre gut erhaltenen Strukturen, darunter das prachtvolle Agonotheten-Denkmal und ein antikes Theater.",
-      hu: "Apollónia az ókor egyik legfontosabb görög gyarmatvárosa volt, amelyet i.e. 588-ban alapítottak, majd később neves római oktatási központtá vált.",
-      ro: "O așezare antică importantă, care a fost odată un centru educațional major.",
-      en: "Apollonia was one of the most important Greek colonies in the ancient world, founded in 588 BC and later becoming a prestigious Roman center of learning."
+      de: "Apollonia war eine der bedeutendsten griechischen Kolonien an der Adria und ein berühmtes Bildungszentrum der Antike. Hier studierte unter anderem der spätere römische Kaiser Augustus, bevor er die Macht in Rom übernahm.",
+      hu: "Apollónia az Adria egyik legjelentősebb görög kolóniája és az ókor híres oktatási központja volt. Itt tanult többek között a későbbi római császár, Augustus is, mielőtt átvette volna a hatalmat Rómában.",
+      ro: "Apollonia a fost una dintre cele mai importante colonii grecești de la Marea Adriatică și un renumit centru de educație antic. Aici a studiat viitorul împărat roman Augustus înainte de a prelua puterea la Roma.",
+      en: "Apollonia was one of the most important Greek colonies on the Adriatic and a famous center of education in antiquity. It is notably where the future Roman Emperor Augustus studied before taking power in Rome."
     },
     factsAdvanced: {
-      de: [
-        "Apollonia galt in der Antike als Zentrum für Philosophie und Bildung.",
-        "Der römische Kaiser Augustus verbrachte hier seine Studienjahre.",
-        "Das Agonotheten-Denkmal ist das architektonische Highlight der Anlage."
-      ],
-      hu: [
-        "Apollónia városa Arisztotelész szerint az oligarchiák és a demokráciák keveredésének tökéletes példája volt.",
-        "A városban tanult az ifjú Octavianus, a későbbi Augustus császár.",
-        "A helyszínen található Agonothetész emlékmű a város egyik leglátványosabb romja."],
-      ro: [
-        "Apollonia a fost fondată în anul 588 î.Hr. de coloniști din Corint și Corfu.",
-        "Viitorul împărat roman Augustus a studiat filosofia și retorica în acest oraș.",
-        "Monumentul Agonothetes este cea mai recunoscută structură a sitului arheologic."
-      ],
-      en: [
-        "The future Roman Emperor Augustus was studying in Apollonia.",
-        "At its peak, Apollonia was home to around 60,000 residents.",
-        "The site's museum is housed in a medieval monastery, where the courtyard is filled with ancient statues."
-      ]
+      de: ["Gegründet um 588 v. Chr. von Korinth.", "Besitzt ein beeindruckendes Odeon und das Monument der Agonotheten.", "Wurde von Aristoteles als Modell für eine Oligarchie beschrieben.", "Die Stadt erstreckte sich einst über 140 Hektar."],
+      hu: ["I. e. 588 körül alapították korinthoszi telepesek.", "Látványos ókori színházzal és agónothétész-emlékművel büszkélkedhet.", "Arisztotelész az oligarchiák mintaképeként említette.", "A város területe fénykorában elérte a 140 hektárt."],
+      ro: ["Fondat în jurul anului 588 î.Hr. de coloniști din Corint.", "Deține un Odeon impresionant și Monumentul Agonoteților.", "Menționat de Aristotel ca un model de oligarhie.", "Orașul se întindea pe o suprafață de 140 de hectare."],
+      en: ["Founded around 588 BC by colonists from Corinth.", "Features an impressive Odeon and the Monument of the Agonothetes.", "Described by Aristotle as a model for oligarchy.", "The ancient city once covered 140 hectares."]
     },
     type: "historical",
     coords: [19.4678, 40.7226],
@@ -509,31 +479,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Burg Rozafa", hu: "Rozafa vára", ro: "Cetatea Rozafa", en: "Rozafa Castle" },
     description: { de: "Mächtige Festung", hu: "Hatalmas erőd", ro: "Fortăreață impunătoare", en: "Massive fortress" },
     descriptionAdvanced: {
-      de: "Die Burg Rozafa dominiert Shkodra von einem felsigen Hügel aus und blickt auf eine über 2000-jährige Geschichte zurück. Die Festung ist untrennbar mit der ergreifenden Sage der Rozafa verbunden, einer jungen Frau, die geopfert wurde, um die Mauern unzerstörbar zu machen.",
-      hu: "A Rozafa vár egy monumentális erődítmény, amely egy sziklás dombon magasodik Shkodra városa és három folyó összefolyása felett.",
-      ro: "O veche cetate iliră cu vedere spre Shkodra.",
-      en: "Rozafa Castle is a massive fortress that stands on a rocky hill overlooking the city of Shkodra and the confluence of three rivers."
+      de: "Die Festung Rozafa thront auf einem Hügel über der Stadt Shkodra und bietet einen Panoramablick auf den Skutarisee und die Flüsse Buna und Drin. Die Burg ist berühmt für die Legende der eingemauerten Frau, die das Bauwerk schützen sollte.",
+      hu: "A Rozafa-vár Shkodra városa fölött, egy dombtetőn magasodik, pazar kilátást nyújtva a Shkodrai-tóra, valamint a Buna és Drin folyókra. A vár a befalazott asszony legendájáról híres, akinek áldozata a várfalak stabilitását biztosította.",
+      ro: "Cetatea Rozafa tronează pe un deal deasupra orașului Shkodra, oferind o vedere panoramică asupra lacului Shkodra și a râurilor Buna și Drin. Castelul este faimos pentru legenda femeii zidite vii pentru a asigura trăinicia zidurilor.",
+      en: "Rozafa Fortress towers on a hill above Shkodra, offering panoramic views of Lake Shkodra and the Buna and Drin rivers. The castle is famous for the legend of the walled-in woman whose sacrifice was meant to protect the structure."
     },
     factsAdvanced: {
-      de: [
-        "Die Sage um die eingemauerte Frau ist ein zentrales Element albanischer Folklore.",
-        "Der strategische Blick auf die drei Flüsse Buna, Drin und Kir war kriegsentscheidend.",
-        "Die Festungsanlage vereint Baukunst aus verschiedenen Epochen über zwei Jahrtausende."
-      ],
-      hu: [
-        "A Rozafa vár legendája szerint egy fiatal asszonyt, Rozafát élve befalaztak a vár falaiba.",
-        "A várból lenyűgöző kilátás nyílik a Drin, a Buna és a Kir folyók összefolyására.",
-        "A vár falai az illír, a római, a bizánci, a velencei és az oszmán uralom nyomait is magukon viselik."],
-      ro: [
-        "Legenda spune că o femeie a fost zidită în pereții cetății pentru a-i asigura trăinicia.",
-        "Cetatea oferă o vedere panoramică spectaculoasă asupra a drie râuri diferite.",
-        "Fortăreața a rezistat unor asedii otomane celebre în secolul al XV-lea."
-      ],
-      en: [
-        "The legend says Rozafa asked to have her body left exposed so she could continue to nurse her infant son.",
-        "The oldest parts of the castle walls were built by the Illyrians long before the Roman conquest.",
-        "Rozafa Castle successfully withstood two major Ottoman sieges in the 15th century."
-      ]
+      de: ["Ursprünglich eine illyrische Festung der Labeaten.", "Wurde im 14. Jahrhundert von den Venezianern massiv ausgebaut.", "Hielt 1478 einer monatelangen osmanischen Belagerung stand.", "Umfasst eine Fläche von etwa 9 Hektar."],
+      hu: ["Eredetileg a labeát illír törzs erődítménye volt.", "A 14. században a velenceiek jelentősen kibővítették.", "1478-ban hónapokig ellenállt az oszmán ostromnak.", "A vár területe körülbelül 9 hektárt tesz ki."],
+      ro: ["Inițial o fortăreață iliră a tribului Labeates.", "Extinsă masiv de venețieni în secolul al XIV-lea.", "A rezistat unui asediu otoman de câteva luni în 1478.", "Acoperă o suprafață de aproximativ 9 hectare."],
+      en: ["Originally an Illyrian stronghold of the Labeates tribe.", "Extensively rebuilt by the Venetians in the 14th century.", "Survived a months-long Ottoman siege in 1478.", "Covers an area of approximately 9 hectares."]
     },
     type: "historical",
     coords: [19.4939, 42.0463],
@@ -549,31 +504,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Burg von Berat", hu: "Berati vár", ro: "Cetatea Berat", en: "Berat Castle" },
     description: { de: "Bewohnte Zitadelle", hu: "Lakott citadella", ro: "Citadelă locuită", en: "Inhabited citadel" },
     descriptionAdvanced: {
-      de: "Die Burg von Berat (Kala) ist ein einzigartiges Beispiel für eine mittelalterliche Festung, die bis heute ein lebendiges Wohnviertel geblieben ist. Innerhalb der massiven Mauern aus dem 13. Jahrhundert findet man eine Ansammlung von traditionellen Steinhäusern und alten byzantinischen Kirchen.",
-      hu: "A Berati vár, más néven a Kala, egy hatalmas, 13. századi erődítmény, amely különleges módon ma is egy élő, lakott városnegyed.",
-      ro: "Una dintre cele mai mari fortificații din Albania, care este încă locuită.",
-      en: "The Castle of Berat, also known as the Kala, is a massive 13th-century fortress that uniquely remains a living, breathing neighborhood."
+      de: "Die Burg von Berat ist eine der größten Festungsanlagen Albaniens und zeichnet sich dadurch aus, dass sie bis heute bewohnt ist. Innerhalb ihrer massiven Mauern befinden sich zahlreiche byzantinische Kirchen und das Onufri-Museum für Ikonenkunst.",
+      hu: "A berati vár Albánia egyik legnagyobb erődítménye, amelynek különlegessége, hogy a mai napig lakott. Hatalmas falain belül számos bizánci templom és az Onufri Ikonmúzeum található, amely a híres albán festő műveit őrzi.",
+      ro: "Cetatea Berat este una dintre cele mai mari fortificații din Albania și se remarcă prin faptul că este locuită și astăzi. În interiorul zidurilor sale masive se află numeroase biserici bizantine și Muzeul de Iconografie Onufri.",
+      en: "Berat Castle is one of Albania's largest fortifications and is unique for remaining inhabited to this day. Within its massive walls lie numerous Byzantine churches and the Onufri Iconography Museum."
     },
     factsAdvanced: {
-      de: [
-        "Die Festung ist heute noch bewohnt, was in der Welt ein seltenes Phänomen ist.",
-        "Das Gelände beherbergte einst über 40 orthodoxe Kirchen und Kapellen.",
-        "Das Onufri-Ikonenmuseum ist ein kulturelles Highlight innerhalb der Burg."
-      ],
-      hu: [
-        "A Berati vár Albánia azon kevés középkori erődítményeinek egyike, amelynek falain belül a mai napig lakott negyed található.",
-        "A vár területén egykor több mint 40 ortodox templom állt, amelyek közül sok még ma is látogatható.",
-        "Az Onufri Nemzeti Ikonográfiai Múzeum a várban található Szent Mária templomban működik."],
-      ro: [
-        "Castelul este situat pe dealul Kala și oferă o poziție defensivă naturală.",
-        "În interiorul cetății se aflau odată peste 40 de biserici bizantine.",
-        "Berat este una dintre puținele cetăți din lume care au rămas permanent locuite."
-      ],
-      en: [
-        "The castle once housed over 40 churches, many of which still stand.",
-        "The Onufri Museum, located inside a cathedral within the castle, displays masterpieces.",
-        "Residents of the castle still use ancient cisterns for water and maintain traditions."
-      ]
+      de: ["Besteht seit dem 4. Jahrhundert v. Chr.", "Beherbergt über 20 historische Kirchen.", "Bekannt für die rote Farbe der Onufri-Ikonen.", "Teil des UNESCO-Welterbes 'Historische Zentren von Berat und Gjirokastra'."],
+      hu: ["Az i. e. 4. század óta létezik erődítmény ezen a helyen.", "Több mint 20 történelmi templom található a területén.", "Híres az Onufri-ikonok különleges vörös színéről.", "Az UNESCO Világörökség része Berat és Gjirokastra történelmi központjaival."],
+      ro: ["Există ca fortificație încă din secolul al IV-lea î.Hr.", "Găzduiește peste 20 de biserici istorice.", "Faimoasă pentru nuanța de roșu a icoanelor lui Onufri.", "Parte a Patrimoniului UNESCO din 2008."],
+      en: ["Has existed as a fortification since the 4th century BC.", "Home to over 20 historic churches.", "Famous for the distinctive 'Onufri Red' color in icons.", "Part of the UNESCO World Heritage Site since 2008."]
     },
     type: "historical",
     coords: [19.9452, 40.7081],
@@ -589,31 +529,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastra Castle" },
     description: { de: "Dominante Festung", hu: "Domináns erőd", ro: "Fortăreață dominantă", en: "Dominant fortress" },
     descriptionAdvanced: {
-      de: "Die Burg Gjirokastra ist ein gewaltiges Bollwerk, das hoch über der 'Stadt der Steine' thront. Sie ist eine der größten Festungen der gesamten Balkanregion und Zeugnis einer langen, bewegten Geschichte als Zitadelle und Gefängnis. Neben einer beeindruckenden Sammlung von Artilleriegeschützen und einem kleinen Museum bietet der Ort tiefe Einblicke.",
-      hu: "A Gjirokastrai vár a Balkán egyik legnagyobb és legimpozánsabb erődítménye, amely az UNESCO által védett \\\"kőváros\\\" látképét uralja. A stratégiai hegygerincre épült várat évszázadokon át bővítették.",
-      ro: "O cetate masivă care domină peisajul urban al Gjirokastrei.",
-      en: "The Gjirokastra Castle is one of the largest and most imposing fortresses in the Balkans, dominating the skyline of the UNESCO-protected 'Stone City.'"
+      de: "Die Burg von Gjirokastra dominiert das Stadtbild der 'Stadt der Steine' und gilt als eine der imposantesten Festungen des Balkans. Sie beherbergt ein Militärmuseum und ein gefangenes US-Aufklärungsflugzeug aus der Zeit des Kalten Krieges.",
+      hu: "Gjirokastra vára uralja a \"kőváros\" látképét, és a Balkán egyik legimpozánsabb erődítményének számít. Egy hadtörténeti múzeumnak, valamint a hidegháború idejéből származó, lefoglalt amerikai felderítő repülőgépnek is otthont ad.",
+      ro: "Cetatea Gjirokastra domină peisajul 'orașului de piatră' și este considerată una dintre cele mai impunătoare fortărețe din Balcani. Găzduiește un muzeu militar și un avion american de recunoaștere capturat în timpul Războiului Rece.",
+      en: "Gjirokastra Castle dominates the skyline of the 'City of Stone' and is considered one of the most imposing fortresses in the Balkans. It houses a military museum and a captured US reconnaissance plane from the Cold War era."
     },
     factsAdvanced: {
-      de: [
-        "Die Burganlage gilt als eine der größten Festungen auf dem gesamten Balkan.",
-        "Das Wrack eines US-Flugzeugs erinnert an die Zeiten des Kalten Krieges.",
-        "Die Festung diente während verschiedener Regimes als Hochsicherheitsgefängnis."
-      ],
-      hu: [
-        "A Gjirokastrai vár ad otthont az Országos Fegyvermúzeumnak, ahol Albánia hadtörténetének emlékeit őrzik.",
-        "A vár udvarán látható egy amerikai Lockheed T-33-as repülőgép roncsa.",
-        "Az erőd alatt egy titkos, hidegháborús bunkerrendszer található."],
-      ro: [
-        "Cetatea găzduiește un muzeu militar cu armament din diverse perioade istorice.",
-        "Festivalul Național de Folclor are loc periodic în incinta castelului.",
-        "Turnul cu ceas este cel mai vizibil simbol al fortificației."
-      ],
-      en: [
-        "The castle's clock tower was added in the 19th century.",
-        "In the castle's courtyard sits the silver-colored wreck of a US Air Force T-33 trainer jet.",
-        "The fortress was used as a high-security prison for political dissidents."
-      ]
+      de: ["Die Burg wurde im 12. Jahrhundert gegründet.", "Wurde von Ali Pasha im 19. Jahrhundert massiv erweitert.", "Diente lange Zeit als Gefängnis für politische Gefangene.", "Verfügt über eine fünfstufige Verteidigungsanlage."],
+      hu: ["A vár alapjai a 12. századból származnak.", "Tepelenai Ali pasa a 19. században jelentősen kibővítette.", "Hosszú ideig politikai börtönként használták.", "Ötfokozatú védelmi rendszerrel rendelkezik."],
+      ro: ["Bazele castelului datează din secolul al XII-lea.", "Extins masiv de Ali Pașa în secolul al XIX-lea.", "A servit mult timp ca închisoare pentru deținuți politici.", "Dispune de un sistem de apărare pe cinci niveluri."],
+      en: ["The castle foundations date back to the 12th century.", "Massively expanded by Ali Pasha in the 19th century.", "Served for a long time as a prison for political inmates.", "Features a sophisticated five-tier defense system."]
     },
     type: "historical",
     coords: [20.1415, 40.0735],
@@ -629,31 +554,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Burg Kruja", hu: "Krujai vár", ro: "Cetatea Kruja", en: "Kruja Castle" },
     description: { de: "Symbol des Widerstands", hu: "Az ellenállás szimbóluma", ro: "Simbolul rezistenței", en: "Symbol of resistance" },
     descriptionAdvanced: {
-      de: "Die Burg Kruja ist untrennbar mit dem Nationalhelden Skanderbeg verbunden. Von hier aus verteidigte er im 15. Jahrhundert 25 Jahre lang erfolgreich Albanien gegen die osmanische Truppen. Das markante Skanderbeg-Museum erinnert an diese heroische Periode.",
-      hu: "A Krujai vár az albán nemzeti büszkeség egyik legfontosabb helyszíne, hiszen innen vezette Szkander bég 25 éven át az ellenállást az Oszmán Birodalom ellen.",
-      ro: "Centrul luptei lui Skanderbeg împotriva Imperiului Otoman.",
-      en: "Kruja Castle is a site of profound national pride, serving as the base from which the hero Skanderbeg led the resistance."
+      de: "Die Burg von Kruja war das Zentrum des albanischen Widerstands gegen das Osmanische Reich unter der Führung von Skanderbeg. Sie ist ein Symbol für nationalen Stolz und beherbergt heute das Skanderbeg-Museum.",
+      hu: "Kruja vára volt az albán nemzeti ellenállás központja az Oszmán Birodalom ellen, Szkander bég vezetésével. A vár az albán nemzeti büszkeség szimbóluma, és ma itt található a modern Szkander bég Múzeum.",
+      ro: "Castelul Kruja a fost centrul rezistenței albaneze împotriva Imperiului Otoman sub conducerea lui Skanderbeg. Este un simbol al mândriei naționale și găzduiește astăzi Muzeul Național Skanderbeg.",
+      en: "Krujë Castle was the center of Albanian resistance against the Ottoman Empire under the leadership of Skanderbeg. It is a symbol of national pride and currently houses the Skanderbeg Museum."
     },
     factsAdvanced: {
-      de: [
-        "Die Burg war das Bollwerk gegen die osmanische Expansion im 15. Jahrhundert.",
-        "Skanderbegs Widerstand machte Kruja zu einem Symbol europäischer Freiheit.",
-        "Das ethnografische Museum zeigt das Leben der Menschen im 18. Jahrhundert."
-      ],
-      hu: [
-        "Kruja vára volt az ellenállás központja Szkander bég idején.",
-        "A várban található Szkander bég múzeuma az albán nemzeti identitás egyik legfontosabb szimbóluma.",
-        "Az erőd lábánál fekvő régi bazár Albánia egyik legrégebbi piaca."],
-      ro: [
-        "Cetatea a fost centrul rezistenței lui Skanderbeg împotriva expansiunii otomane.",
-        "Muzeul Etnografic oferă o imagine detaliată a vieții tradiționale albaneze.",
-        "Vechiul Bazar din apropiere este locul ideal pentru suveniruri artizanale."
-      ],
-      en: [
-        "Kruja was the capital of the first autonomous Albanian state.",
-        "The Old Bazar at the foot of the castle is one of the oldest in Albania.",
-        "Skanderbeg's family crest became the basis for the modern Albanian national flag."
-      ]
+      de: ["Hielt drei großen Belagerungen im 15. Jahrhundert stand.", "Wurde erst nach Skanderbegs Tod von den Osmanen eingenommen.", "Besitzt einen markanten Uhrturm aus dem 4. Jahrhundert.", "Befindet sich auf einer Höhe von 607 Metern."],
+      hu: ["A 15. században három nagy oszmán ostromnak is ellenállt.", "Csak Szkander bég halála után került oszmán kézre.", "Jellegzetes, 4. századi alapokon nyugvó óratoronnyal rendelkezik.", "607 méteres magasságban helyezkedik el."],
+      ro: ["A rezistat la trei asedii otomane majore în secolul al XV-lea.", "A căzut sub stăpânire otomană abia după moartea lui Skanderbeg.", "Deține un turn cu ceas proeminent cu baze din secolul IV.", "Situat la o altitudine de 607 metri."],
+      en: ["Survived three major Ottoman sieges in the 15th century.", "Only fell to the Ottomans after Skanderbeg's death.", "Features a prominent clock tower with 4th-century origins.", "Located at an altitude of 607 meters."]
     },
     type: "historical",
     coords: [19.7925, 41.5100],
@@ -669,31 +579,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Burg von Lezhë", hu: "Lezhëi vár", ro: "Cetatea Lezhë", en: "Lezhë Castle" },
     description: { de: "Mittelalterliche Akropolis", hu: "Középkori akropolisz", ro: "Acropolă medievală", en: "Medieval acropolis" },
     descriptionAdvanced: {
-      de: "Die Burg von Lezhë thront majestätisch auf einem Hügel über der Stadt. Die Festung basiert auf einer antiken illyrischen Akropolis, die durch zahlreiche Herrscher kontinuierlich ausgebaut wurde. In ihrem Inneren sind noch heute Ruinen einer Moschee zu finden.",
-      hu: "A vár falait a 15. században Szkander bég parancsára erősítették meg, hogy ellenálljanak a török előretörésnek.",
-      ro: "O fortăreață strategică cu vedere la Marea Adriatică și la orașul Lezhë.",
-      en: "Lezhë Castle stands on a high hill overlooking the city of Lezhë, offering a strategic vantage point."
+      de: "Die Burg von Lezha überblickt die Stadt und die Adriaküste und ist eng mit dem Bund von Lezha verbunden. In der Nähe der Burg befindet sich die Gedenkstätte für Skanderbeg, der hier begraben wurde.",
+      hu: "Lezha vára a város és az adriai partvidék felett őrködik, és szorosan kapcsolódik a Lezhai Ligához. A vár közelében található Szkander bég emlékhelye, ahol a nemzeti hőst eltemették.",
+      ro: "Castelul Lezhë domină orașul și coasta Adriaticii, fiind strâns legat de Liga de la Lezhë. În apropierea castelului se află Memorialul lui Skanderbeg, unde eroul național a fost înmormântat.",
+      en: "Lezhë Castle overlooks the city and the Adriatic coast and is closely linked to the League of Lezhë. Near the castle lies the memorial site of Skanderbeg, who was buried in the city."
     },
     factsAdvanced: {
-      de: [
-        "Die Basis der Festung geht auf die antike Stadt Lissus zurück.",
-        "Der Ort diente als zentraler Verteidigungspunkt für die Liga von Lezhë.",
-        "Überreste einer Moschee im Inneren zeugen von der osmanischen Epoche."
-      ],
-      hu: [
-        "A vár falait a 15. században Szkander bég parancsára erősítették meg.",
-        "Az erőd területén talált régészeti leletek bizonyítják, hogy a helyszín már az illírek előtt is lakott volt.",
-        "A lezhei várban az oszmán uralom idején egy mecset is épült."],
-      ro: [
-        "Fundațiile cetății datează din perioada antică a orașului ilir Lissus.",
-        "Castul a jucat un rol strategic crucial în controlul rutelor de coastă.",
-        "Venețienii au reconstruit parțial fortificația."
-      ],
-      en: [
-        "The castle walls feature unique 'cyclopean' masonry from the Illyrian period.",
-        "It was a major military base for the Venetians in the 15th century.",
-        "The castle's position allowed it to control the main trade routes."
-      ]
+      de: ["Wurde auf illyrischen Fundamenten erbaut.", "Wurde im 15. Jahrhundert von den Venezianern befestigt.", "Hier wurde 1444 der Bund von Lezha gegründet.", "Bietet Blick auf das Shëngjin-Delta."],
+      hu: ["Illír alapokra épült az ókorban.", "A 15. században a velenceiek erősítették meg a védelmét.", "Itt alakult meg 1444-ben a Lezhai Liga Szkander bég vezetésével.", "Kilátás nyílik innen a Shëngjin-deltára."],
+      ro: ["Construit pe fundații ilire antice.", "Fortificat de venețieni în secolul al XV-lea.", "Locul unde a fost fondată Liga de la Lezhë în 1444.", "Oferă o vedere asupra deltei Shëngjin."],
+      en: ["Built on ancient Illyrian foundations.", "Fortified by the Venetians in the 15th century.", "Site of the founding of the League of Lezhë in 1444.", "Offers views of the Shëngjin delta."]
     },
     type: "historical",
     coords: [19.6510, 41.7820],
@@ -709,31 +604,16 @@ export const albaniaHistorical: POI[] = [
     name: { de: "Burg von Elbasan", hu: "Elbasani vár", ro: "Cetatea Elbasan", en: "Elbasan Castle" },
     description: { de: "Osmanische Stadtburg", hu: "Oszmán városi vár", ro: "Cetate otomană în oraș", en: "Ottoman city castle" },
     descriptionAdvanced: {
-      de: "Die Burg von Elbasan ist ein faszinierendes Beispiel einer osmanischen Stadtburg. Sie wurde auf den Fundamenten der römischen Anlage von Scampis erbaut. Besonders reizvoll ist, dass die Burg noch heute als lebendiges Wohnquartier genutzt wird.",
-      hu: "Az Elbasani vár egy ritka példája az alföldi erődítményeknek, amely a modern városközpontban található, és az ókori római Scampis állomás maradványaira épült.",
-      ro: "O fortificație joasă aflată chiar în centrul orașului Elbasan.",
-      en: "The Elbasan Castle is a rare example of a low-lying 'field castle' located in the center of the modern city."
+      de: "Die Burg von Elbasan ist eine seltene Feldsteinfestung im Herzen der Stadt, die ursprünglich von den Osmanen auf römischen Fundamenten errichtet wurde. Sie umschließt ein lebendiges Viertel mit Kirchen und Moscheen.",
+      hu: "Elbasan vára egy ritka síkvidéki erődítmény a város szívében, amelyet az oszmánok építettek római alapokra. A várfalak egy élő városnegyedet fognak közre, ahol templomok és mecsetek férnek meg egymás mellett.",
+      ro: "Cetatea Elbasan este o rară fortăreață de câmpie în inima orașului, construită inițial de otomani pe fundații romane. Aceasta cuprinde un cartier viu, cu biserici și moschei istorice.",
+      en: "Elbasan Castle is a rare lowland fortress in the heart of the city, originally built by the Ottomans on Roman foundations. It encloses a lively neighborhood with historic churches and mosques."
     },
     factsAdvanced: {
-      de: [
-        "Die Festung wurde von Sultan Mehmed II. in nur 25 Tagen errichtet.",
-        "Sie entstand auf den Fundamenten der antiken römischen Station Scampis.",
-        "Die Anlage ist heute ein bewohnter Stadtteil mit lebendiger Atmosphäre."
-      ],
-      hu: [
-        "Elbasan vára egyike azon kevés albán erődítménynek, amely nem dombtetőre, hanem sík terepre épült.",
-        "A vár falai között található a Szent Mária templom.",
-        "A várnegyed szűk utcái hűen tükrözik a 17-18. századi albán városi építészetet."],
-      ro: [
-        "Fortificația originală avea 26 de turnuri de apărare uniform distribuite.",
-        "Turnul cu ceas din incinta cetății este un reper istoric important.",
-        "Interiorul cetății adăpostește astăzi o comunitate multietnică vibrantă."
-      ],
-      en: [
-        "The castle was originally built in just 25 days by Sultan Mehmet II.",
-        "It had 26 defensive towers, though only some of the original walls remain.",
-        "The Saint Mary Church inside the castle is a beautiful example of Orthodox architecture."
-      ]
+      de: ["Wurde 1466 von Sultan Mehmed II. erbaut.", "Umfasst 26 Türme in ihrer ursprünglichen Form.", "Liegt an der antiken Via Egnatia.", "Die Mauern sind etwa 9 Meter hoch."],
+      hu: ["1466-ban építtette II. Mehmed szultán.", "Eredeti formájában 26 toronnyal rendelkezett.", "Az ókori Via Egnatia útvonalán fekszik.", "A várfalak magassága körülbelül 9 méter."],
+      ro: ["Construit de sultanul Mehmed al II-lea în 1466.", "Cuprindea 26 de turnuri în forma sa originală.", "Situat pe ruta anticei Via Egnatia.", "Zidurile au o înălțime de aproximativ 9 metri."],
+      en: ["Built by Sultan Mehmed II in 1466.", "Originally featured 26 defense towers.", "Located on the path of the ancient Via Egnatia.", "The walls stand approximately 9 meters high."]
     },
     type: "historical",
     coords: [20.0822, 41.1125],

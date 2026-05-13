@@ -7,7 +7,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-LP",
     coords: [31.47, -24.00],
-    name: { de: "Kruger-Nationalpark", hu: "Kruger Nemzeti Park", ro: "Parcul Național Kruger", en: "Kruger National Park" },
+    name: { de: "Kruger-Nationalpark", hu: "Kruger Nemzeti Park", ro: "Parcul Național Kruger", en: "Kruger National Park",
+image: "/poi-images/kruger-national-park-life-v2.webp"
+},
     description: { de: "Eines der größten Wildschutzgebiete Afrikas, bekannt für die 'Big Five'.", hu: "Afrika egyik legnagyobb vadvédelmi területe, a 'Nagy Ötös' otthona.", ro: "Una dintre cele mai mari rezervații naturale din Africa, celebră pentru 'Big Five'.", en: "One of Africa's largest game reserves, famous for the 'Big Five'." },
     facts: {
       de: ["Heimat der Big Five.", "Größter Park Südafrikas.", "Über 2 Millionen Hektar.", "Gegründet 1898."],
@@ -20,7 +22,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-EC",
     coords: [25.75, -33.45],
-    name: { de: "Addo-Elefanten-Nationalpark", hu: "Addo Elefánt Nemzeti Park", ro: "Parcul Național Elefanților Addo", en: "Addo Elephant National Park" },
+    name: { de: "Addo-Elefanten-Nationalpark", hu: "Addo Elefánt Nemzeti Park", ro: "Parcul Național Elefanților Addo", en: "Addo Elephant National Park",
+image: "/poi-images/addo-elephant-park-life-v2.webp"
+},
     description: { de: "Schutzgebiet, berühmt für seine riesigen Elefantenherden.", hu: "Hatalmas elefántcsordáiról híres természetvédelmi terület.", ro: "Rezervație celebră pentru cirezile sale uriașe de elefanți.", en: "Reserve famous for its massive elephant herds." },
     facts: {
       de: ["Über 600 Elefanten.", "Liegt bei Port Elizabeth.", "Gegründet 1931.", "Drittebene Schutzraum."],
@@ -33,7 +37,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.40, -33.96],
-    name: { de: "Tafelberg-Seilbahn", hu: "Tábla-hegyi libegő", ro: "Telecabina Table Mountain", en: "Table Mountain Aerial Cableway" },
+    name: { de: "Tafelberg-Seilbahn", hu: "Tábla-hegyi libegő", ro: "Telecabina Table Mountain", en: "Table Mountain Aerial Cableway",
+image: "/poi-images/table-mountain-kids-life-v2.webp"
+},
     description: { de: "Die Seilbahn bringt Familien sicher auf den Gipfel des berühmten Tafelbergs.", hu: "A libegő biztonságosan felviszi a családokat a híres Tábla-hegy csúcsára.", ro: "Telecabina duce familiile în siguranță pe vârful celebrei Table Mountain.", en: "The cableway safely takes families to the top of the famous Table Mountain." },
     facts: {
       de: ["Drehbare Kabinen.", "Spektakulärer Blick auf Kapstadt.", "Seit 1929 aktiv.", "Beliebt bei Kindern."],
@@ -46,7 +52,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "agriculture",
     parent: "ZA-WC",
     coords: [18.86, -33.93],
-    name: { de: "Stellenbosch Weingebiete", hu: "Stellenbosch borvidékek", ro: "Regiunile viticole Stellenbosch", en: "Stellenbosch Wine Regions" },
+    name: { de: "Stellenbosch Weingebiete", hu: "Stellenbosch borvidékek", ro: "Regiunile viticole Stellenbosch", en: "Stellenbosch Wine Regions",
+image: "/poi-images/stellenbosch-winelands-life-v2.webp"
+},
     description: { de: "Eine der wichtigsten landwirtschaftlichen Zonen für Weinbau in Südafrika.", hu: "Dél-Afrika egyik legfontosabb mezőgazdasági bortermelő régiója.", ro: "Una dintre cele mai importante zone agricole pentru viticultură din Africa de Sud.", en: "One of the most important agricultural zones for wine production in South Africa." },
     facts: {
       de: ["Historische Weingüter.", "Eichenalleen.", "Weinkultur seit 1679.", "Touristische Familienziele."],
@@ -59,7 +67,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-KZN",
     coords: [32.68, -27.53],
-    name: { de: "Sodwana Bay Marine", hu: "Sodwana Bay Tengeri Park", ro: "Rezervația Marină Sodwana Bay", en: "Sodwana Bay Marine Reserve" },
+    name: { de: "Sodwana Bay Marine", hu: "Sodwana Bay Tengeri Park", ro: "Rezervația Marină Sodwana Bay", en: "Sodwana Bay Marine Reserve",
+image: "/poi-images/sodwana-bay-life-v2.webp"
+},
     description: { de: "Paradies für Taucher mit einzigartiger Unterwasserwelt.", hu: "Búvárparadicsom egyedülálló vízalatti világgal.", ro: "Paradis pentru scafandri cu o lume subacvatică unică.", en: "Diver's paradise with a unique underwater world." },
     facts: {
       de: ["Korallenriffe.", "Schildkröten-Nistplatz.", "Wärmere Gewässer.", "Familien-Schnorcheln."],
@@ -72,7 +82,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-EC",
     coords: [25.43, -32.25],
-    name: { de: "Bergzebra-Nationalpark", hu: "Hegyi Zebra Nemzeti Park", ro: "Parcul Național al Zebrelor de Munte", en: "Mountain Zebra National Park" },
+    name: { de: "Bergzebra-Nationalpark", hu: "Hegyi Zebra Nemzeti Park", ro: "Parcul Național al Zebrelor de Munte", en: "Mountain Zebra National Park",
+image: "/poi-images/mountain-zebra-national-park-life-v2.webp"
+},
     description: { de: "Schutzraum für das seltene südafrikanische Bergzebra.", hu: "Védett terület a ritka dél-afrikai hegyi zebra számára.", ro: "Rezervație pentru rara zebră de munte sud-africană.", en: "Conservation area for the rare South African mountain zebra." },
     facts: {
       de: ["Bergige Landschaft.", "Gepard-Beobachtungen.", "Wandern mit Kindern.", "Gegründet 1937."],
@@ -85,7 +97,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-GP",
     coords: [28.01, -26.23],
-    name: { de: "Gold Reef City", hu: "Gold Reef City vidámpark", ro: "Parcul de distracții Gold Reef City", en: "Gold Reef City Amusement Park" },
+    name: { de: "Gold Reef City", hu: "Gold Reef City vidámpark", ro: "Parcul de distracții Gold Reef City", en: "Gold Reef City Amusement Park",
+image: "/poi-images/gold-reef-city-life-v2.webp"
+},
     description: { de: "Vergnügungspark, der das Leben in Johannesburg während des Goldrausches nachstellt.", hu: "Vidámpark, amely az aranyláz idején zajló johannesburgi életet mutatja be.", ro: "Parc de distracții care recreează viața din Johannesburg în timpul goanei după aur.", en: "Amusement park recreating life in Johannesburg during the gold rush." },
     facts: {
       de: ["Untergrund-Minentour.", "Achterbahnen.", "Goldwaschen für Kinder.", "Nahe Johannesburg."],
@@ -98,7 +112,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.43, -33.99],
-    name: { de: "Kirstenbosch Botanischer Garten", hu: "Kirstenbosch Botanikus Kert", ro: "Grădina Botanică Kirstenbosch", en: "Kirstenbosch Botanical Gardens" },
+    name: { de: "Kirstenbosch Botanischer Garten", hu: "Kirstenbosch Botanikus Kert", ro: "Grădina Botanică Kirstenbosch", en: "Kirstenbosch Botanical Gardens",
+image: "/poi-images/kirstenbosch-botanical-life-v2.webp"
+},
     description: { de: "Wunderschöner Garten am Osthang des Tafelbergs, ideal für Familien.", hu: "Gyönyörű kert a Tábla-hegy keleti lejtőjén, ideális családoknak.", ro: "Grădină frumoasă pe versantul estic al Table Mountain, ideală pentru familii.", en: "Beautiful garden on the eastern slopes of Table Mountain, perfect for families." },
     facts: {
       de: ["Canopy-Walkway.", "Picknickplätze.", "Einheimische Flora.", "Konzerte im Sommer."],
@@ -111,7 +127,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-NW",
     coords: [27.75, -25.39],
-    name: { de: "Ukutula Löwenpark", hu: "Ukutula Oroszlánpark", ro: "Parcul de lei Ukutula", en: "Ukutula Lion Park" },
+    name: { de: "Ukutula Löwenpark", hu: "Ukutula Oroszlánpark", ro: "Parcul de lei Ukutula", en: "Ukutula Lion Park",
+image: "/poi-images/ukutula-lion-life-v2.webp"
+},
     description: { de: "Ein Zentrum für Naturschutz und Bildung mit Löwen.", hu: "Természetvédelmi és oktatási központ oroszlánokkal.", ro: "Centru de conservare și educație cu lei.", en: "A center for conservation and education with lions." },
     facts: {
       de: ["Löwen-Beobachtung.", "Bildungsprogramme.", "Wissenschaftliche Forschung.", "Familienfreundlich."],
@@ -124,7 +142,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [22.48, -32.35],
-    name: { de: "Karoo-Nationalpark", hu: "Karoo Nemzeti Park", ro: "Parcul Național Karoo", en: "Karoo National Park" },
+    name: { de: "Karoo-Nationalpark", hu: "Karoo Nemzeti Park", ro: "Parcul Național Karoo", en: "Karoo National Park",
+image: "/poi-images/karoo-national-park-life-v2.webp"
+},
     description: { de: "Wüstenartige Landschaft mit faszinierender Tierwelt in der Karoo-Region.", hu: "Sivatagi táj lenyűgöző vadvilággal a Karoo régióban.", ro: "Peisaj deșertic cu o faună fascinantă în regiunea Karoo.", en: "Desert-like landscape with fascinating wildlife in the Karoo region." },
     facts: {
       de: ["Fossiliensuche.", "Sternenhimmel.", "Wüsten-Schmuckschildkröten.", "Familien-Safaris."],
@@ -137,7 +157,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-KZN",
     coords: [31.05, -29.87],
-    name: { de: "uShaka Marine World", hu: "uShaka Marine World élménypark", ro: "Parcul acvatic uShaka Marine World", en: "uShaka Marine World" },
+    name: { de: "uShaka Marine World", hu: "uShaka Marine World élménypark", ro: "Parcul acvatic uShaka Marine World", en: "uShaka Marine World",
+image: "/poi-images/u-shaka-marine-life-v2.webp"
+},
     description: { de: "Großes Aquarium und Wasserpark in Durban.", hu: "Nagy akvárium és vízipark Durbanban.", ro: "Mare acvariu și parc acvatic în Durban.", en: "Large aquarium and water park in Durban." },
     facts: {
       de: ["Delfinshow.", "Wasserrutschen.", "Hai-Becken.", "Durbaner Wahrzeichen."],
@@ -150,7 +172,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-NC",
     coords: [20.34, -28.59],
-    name: { de: "Augrabies-Fälle", hu: "Augrabies-vízesés", ro: "Cascada Augrabies", en: "Augrabies Falls" },
+    name: { de: "Augrabies-Fälle", hu: "Augrabies-vízesés", ro: "Cascada Augrabies", en: "Augrabies Falls",
+image: "/poi-images/augurabies-falls-life-v2.webp"
+},
     description: { de: "Spektakulärer Wasserfall am Oranje-Fluss, ideal für Natur-Beobachtungen.", hu: "Látványos vízesés az Oranje folyón, ideális természetmegfigyelésre.", ro: "Cascadă spectaculoasă pe râul Orange, ideală pentru observarea naturii.", en: "Spectacular waterfall on the Orange River, great for nature viewing." },
     facts: {
       de: ["Tiefe Schlucht.", "Wanderwege.", "Wildtiere.", "Familien-Picknick."],
@@ -163,7 +187,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "agriculture",
     parent: "ZA-GP",
     coords: [28.10, -26.05],
-    name: { de: "Biltong-Farm-Besuch", hu: "Biltong farm látogatás", ro: "Vizită la ferme de biltong", en: "Biltong Farm Visit" },
+    name: { de: "Biltong-Farm-Besuch", hu: "Biltong farm látogatás", ro: "Vizită la ferme de biltong", en: "Biltong Farm Visit",
+image: "/poi-images/biltong-farms-agriculture-life-v2.webp"
+},
     description: { de: "Lerne, wie das traditionelle südafrikanische Trockenfleisch hergestellt wird.", hu: "Ismerd meg, hogyan készül a hagyományos dél-afrikai szárított hús.", ro: "Învață cum se prepară carnea uscată tradițională sud-africană.", en: "Learn how the traditional South African dried meat is made." },
     facts: {
       de: ["Lokale Delikatesse.", "Landwirtschaftlicher Prozess.", "Traditionell seit Jahrhunderten.", "Lehrreich für Kinder."],
@@ -177,7 +203,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-MP",
     coords: [31.89, -25.35],
-    name: { de: "Crocodile Bridge Gate", hu: "Crocodile Bridge Kapu", ro: "Poarta Crocodile Bridge", en: "Crocodile Bridge Gate" },
+    name: { de: "Crocodile Bridge Gate", hu: "Crocodile Bridge Kapu", ro: "Poarta Crocodile Bridge", en: "Crocodile Bridge Gate",
+image: "/poi-images/crocodile-bridge-life-v2.webp"
+},
     description: { de: "Bekannter Eingang zum Kruger-Park, oft gute Tiermöglichkeiten.", hu: "Ismert bejárat a Kruger-parkba, gyakran jó állatmegfigyelési lehetőségekkel.", ro: "Intrare cunoscută în Parcul Kruger, adesea cu bune oportunități de observare a animalelor.", en: "Well-known entrance to Kruger Park, often good game viewing opportunities." },
     facts: {
       de: ["Flussbeobachtung.", "Löwen-Gebiet.", "Familien-Safari-Einstieg.", "Natur pur."],
@@ -191,7 +219,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-GP",
     coords: [28.25, -25.74],
-    name: { de: "Pioneer Museum Pretoria", hu: "Pretoriai Pionír Múzeum", ro: "Muzeul Pionierilor din Pretoria", en: "Pioneer Museum Pretoria" },
+    name: { de: "Pioneer Museum Pretoria", hu: "Pretoriai Pionír Múzeum", ro: "Muzeul Pionierilor din Pretoria", en: "Pioneer Museum Pretoria",
+image: "/poi-images/pioneer-museum-kids-life-v2.webp"
+},
     description: { de: "Freilichtmuseum, das das Leben der frühen Siedler zeigt.", hu: "Szabadtéri múzeum, amely bemutatja a korai telepesek életét.", ro: "Muzeu în aer liber care arată viața primilor coloniști.", en: "Open-air museum showcasing the life of the early settlers." },
     facts: {
       de: ["Traditionelle Häuser.", "Backofen-Vorführungen.", "Geschichte zum Anfassen.", "Ideal für Schulklassen."],
@@ -204,7 +234,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [18.49, -34.35],
-    name: { de: "Cape Point Naturreservat", hu: "Félsziget Természetvédelmi Terület", ro: "Rezervația Naturală Cape Point", en: "Cape Point Nature Reserve" },
+    name: { de: "Cape Point Naturreservat", hu: "Félsziget Természetvédelmi Terület", ro: "Rezervația Naturală Cape Point", en: "Cape Point Nature Reserve",
+image: "/poi-images/cape-point-nature-life-v2.webp"
+},
     description: { de: "Spektakuläres Naturschutzgebiet an der Spitze der Kap-Halbinsel.", hu: "Látványos természetvédelmi terület a Fok-félsziget csúcsán.", ro: "Rezervație naturală spectaculoasă la vârful Peninsulei Cape.", en: "Spectacular nature reserve at the tip of the Cape Peninsula." },
     facts: {
       de: ["Pinguin-Beobachtung.", "Wanderwege.", "Klippenblicke.", "Historischer Leuchtturm."],
@@ -217,7 +249,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [18.45, -34.19],
-    name: { de: "Boulders Beach Pinguine", hu: "Boulders Beach pingvinek", ro: "Pinguinii de pe Boulders Beach", en: "Boulders Beach Penguins" },
+    name: { de: "Boulders Beach Pinguine", hu: "Boulders Beach pingvinek", ro: "Pinguinii de pe Boulders Beach", en: "Boulders Beach Penguins",
+image: "/poi-images/boulders-beach-life-v2.webp"
+},
     description: { de: "Berühmter Strand mit einer Kolonie von Afrikanischen Pinguinen.", hu: "Híres strand afrikai pingvin-kolóniával.", ro: "Plajă faimoasă cu o colonie de pinguini africani.", en: "Famous beach with a colony of African penguins." },
     facts: {
       de: ["Pinguine hautnah.", "Sicheres Schwimmen.", "Familien-Favorit.", "Naturschutzgebiet."],
@@ -230,7 +264,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "agriculture",
     parent: "ZA-EC",
     coords: [26.05, -33.60],
-    name: { de: "Zitrus-Farm Addo", hu: "Addo citrus farm", ro: "Fermă de citrice Addo", en: "Addo Citrus Farm" },
+    name: { de: "Zitrus-Farm Addo", hu: "Addo citrus farm", ro: "Fermă de citrice Addo", en: "Addo Citrus Farm",
+image: "/poi-images/addison-farms-agriculture-life-v2.webp"
+},
     description: { de: "Entdecke den Anbau von Zitrusfrüchten in der Addo-Region.", hu: "Fedezd fel a citrusfélék termesztését az Addo régióban.", ro: "Descoperă cultivarea citricelor în regiunea Addo.", en: "Discover the cultivation of citrus fruits in the Addo region." },
     facts: {
       de: ["Zitronen und Orangen.", "Ernte-Erlebnisse.", "Landwirtschaftliches Wissen.", "Frische Früchte."],
@@ -243,7 +279,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-NC",
     coords: [21.50, -26.00],
-    name: { de: "Kalahari Nationalpark", hu: "Kalahari Nemzeti Park", ro: "Parcul Național Kalahari", en: "Kalahari National Park" },
+    name: { de: "Kalahari Nationalpark", hu: "Kalahari Nemzeti Park", ro: "Parcul Național Kalahari", en: "Kalahari National Park",
+image: "/poi-images/kalahari-wildlife-life-v2.webp"
+},
     description: { de: "Weite rote Sanddünen und Heimat für Wüstentiere.", hu: "Hatalmas vörös homokdűnék és sivatagi állatok otthona.", ro: "Dune imense de nisip roșu și casă pentru animalele de deșert.", en: "Vast red sand dunes and home to desert animals." },
     facts: {
       de: ["Rote Dünen.", "Springböcke.", "Sternenbeobachtung.", "Abenteuerliche Safaris."],
@@ -256,7 +294,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [22.25, -33.40],
-    name: { de: "Cango Wildlife Ranch", hu: "Cango Vadvédelmi Ranch", ro: "Ferma Cango Wildlife", en: "Cango Wildlife Ranch" },
+    name: { de: "Cango Wildlife Ranch", hu: "Cango Vadvédelmi Ranch", ro: "Ferma Cango Wildlife", en: "Cango Wildlife Ranch",
+image: "/poi-images/cango-wildlife-life-v2.webp"
+},
     description: { de: "Schutz- und Aufzuchtstation für gefährdete Tiere.", hu: "Védelmi és tenyésztőállomás veszélyeztetett állatok számára.", ro: "Stație de conservare și creștere pentru animale amenințate.", en: "Conservation and breeding station for endangered animals." },
     facts: {
       de: ["Gefährdete Arten.", "Interaktive Touren.", "Bildungsfokus.", "Nahe Oudtshoorn."],
@@ -269,7 +309,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "agriculture",
     parent: "ZA-KZN",
     coords: [31.30, -29.50],
-    name: { de: "Zuckerrohr-Plantagen KZN", hu: "KZN cukornád-ültetvények", ro: "Plantații de trestie de zahăr KZN", en: "Sugar Cane Plantations KZN" },
+    name: { de: "Zuckerrohr-Plantagen KZN", hu: "KZN cukornád-ültetvények", ro: "Plantații de trestie de zahăr KZN", en: "Sugar Cane Plantations KZN",
+image: "/poi-images/sugar-cane-fields-agriculture-life-v2.webp"
+},
     description: { de: "Riesige Felder für die Zuckerrohrproduktion in KwaZulu-Natal.", hu: "Hatalmas mezők a cukornádtermeléshez KwaZulu-Natalban.", ro: "Câmpuri imense pentru producția de trestie de zahăr în KwaZulu-Natal.", en: "Vast fields for sugar cane production in KwaZulu-Natal." },
     facts: {
       de: ["Wichtiger Wirtschaftszweig.", "Grüne Landschaft.", "Traditionelle Landwirtschaft.", "Wissenswertes für Schüler."],
@@ -283,7 +325,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.77, -33.91],
-    name: { de: "Eagle Encounters", hu: "Sas-találkozók (Eagle Encounters)", ro: "Eagle Encounters", en: "Eagle Encounters" },
+    name: { de: "Eagle Encounters", hu: "Sas-találkozók (Eagle Encounters)", ro: "Eagle Encounters", en: "Eagle Encounters",
+image: "/poi-images/eagle-encounters-life-v2.webp"
+},
     description: { de: "Greifvogel-Schutzprojekt, bei dem Kinder Vögel hautnah erleben können.", hu: "Ragadozómadár-védelmi projekt, ahol a gyerekek közelről ismerhetik meg a madarakat.", ro: "Proiect de conservare a păsărilor răpitoare, unde copiii pot vedea păsările de aproape.", en: "Bird of prey conservation project where children can see birds up close." },
     facts: {
       de: ["Flugvorführungen.", "Greifvögel.", "Bildung pur.", "Interaktiv."],
@@ -296,7 +340,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [23.47, -33.95],
-    name: { de: "Monkeyland Primatenpark", hu: "Monkeyland Majompark", ro: "Parcul de maimuțe Monkeyland", en: "Monkeyland Primate Sanctuary" },
+    name: { de: "Monkeyland Primatenpark", hu: "Monkeyland Majompark", ro: "Parcul de maimuțe Monkeyland", en: "Monkeyland Primate Sanctuary",
+image: "/poi-images/monkey-land-life-v2.webp"
+},
     description: { de: "Freilauf-Schutzgebiet für Primaten, wo Tiere natürlich leben können.", hu: "Szabadon élő védett terület főemlősök számára.", ro: "Rezervație pentru primate, unde animalele pot trăi natural.", en: "Free-roaming sanctuary for primates where animals can live naturally." },
     facts: {
       de: ["Verschiedene Primatenarten.", "Wanderungen.", "Naturschutz.", "Familienhit."],
@@ -309,7 +355,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [18.55, -34.05],
-    name: { de: "Greifvogel-Reha-Zentrum", hu: "Ragadozómadár rehabilitációs központ", ro: "Centru de reabilitare a păsărilor răpitoare", en: "Bird of Prey Rehab Center" },
+    name: { de: "Greifvogel-Reha-Zentrum", hu: "Ragadozómadár rehabilitációs központ", ro: "Centru de reabilitare a păsărilor răpitoare", en: "Bird of Prey Rehab Center",
+image: "/poi-images/bird-of-prey-life-v2.webp"
+},
     description: { de: "Zentrum zur Pflege und Auswilderung verletzter Greifvögel.", hu: "Központ a sérült ragadozómadarak gondozására és visszaengedésére.", ro: "Centru pentru îngrijirea și reintroducerea păsărilor răpitoare rănite.", en: "Center for the care and release of injured birds of prey." },
     facts: {
       de: ["Tierschutz.", "Reha-Prozesse.", "Bildung.", "Für kleine Forscher."],
@@ -322,7 +370,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [19.50, -33.35],
-    name: { de: "Aquila Private Game Reserve", hu: "Aquila Magán Vadrezervátum", ro: "Rezervația Privată de Vânătoare Aquila", en: "Aquila Private Game Reserve" },
+    name: { de: "Aquila Private Game Reserve", hu: "Aquila Magán Vadrezervátum", ro: "Rezervația Privată de Vânătoare Aquila", en: "Aquila Private Game Reserve",
+image: "/poi-images/aquila-safari-life-v2.webp"
+},
     description: { de: "Safari-Erlebnis in der Nähe von Kapstadt für Familien.", hu: "Szafari-élmény Fokváros közelében családoknak.", ro: "Experiență de safari aproape de Cape Town pentru familii.", en: "Safari experience near Cape Town for families." },
     facts: {
       de: ["Big Five Safaris.", "Luxus-Lodges.", "Tagesausflüge.", "Kinder-Programme."],
@@ -335,7 +385,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.82, -33.75],
-    name: { de: "Butterfly World", hu: "Butterfly World (Pillangó-kert)", ro: "Butterfly World", en: "Butterfly World" },
+    name: { de: "Butterfly World", hu: "Butterfly World (Pillangó-kert)", ro: "Butterfly World", en: "Butterfly World",
+image: "/poi-images/butterfly-world-kids-life-v2.webp"
+},
     description: { de: "Tropischer Garten voller Schmetterlinge und kleiner Tiere.", hu: "Trópusi kert tele pillangókkal és kis állatokkal.", ro: "Grădină tropicală plină de fluturi și animale mici.", en: "Tropical garden filled with butterflies and small animals." },
     facts: {
       de: ["Tausende Schmetterlinge.", "Insekten-Welt.", "Pflanzen-Vielfalt.", "Interaktives Lernen."],
@@ -348,7 +400,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZA-GP",
     coords: [28.00, -26.15],
-    name: { de: "Walter Sisulu Botanischer Garten", hu: "Walter Sisulu Botanikus Kert", ro: "Grădina Botanică Walter Sisulu", en: "Walter Sisulu Botanical Gardens" },
+    name: { de: "Walter Sisulu Botanischer Garten", hu: "Walter Sisulu Botanikus Kert", ro: "Grădina Botanică Walter Sisulu", en: "Walter Sisulu Botanical Gardens",
+image: "/poi-images/botanical-garden-jhb-life-v2.webp"
+},
     description: { de: "Ein wunderschöner botanischer Garten in Johannesburg, beliebt bei Familien.", hu: "Egy gyönyörű botanikus kert Johannesburgban, népszerű családok körében.", ro: "O grădină botanică frumoasă în Johannesburg, populară printre familii.", en: "A beautiful botanical garden in Johannesburg, popular with families." },
     facts: {
       de: ["Wasserfall.", "Vogelbeobachtung.", "Picknickplätze.", "Familienausflüge."],
@@ -361,7 +415,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-GP",
     coords: [28.05, -25.95],
-    name: { de: "Croc City Crocodile Park", hu: "Croc City Krokodilpark", ro: "Parcul de crocodili Croc City", en: "Croc City Crocodile Park" },
+    name: { de: "Croc City Crocodile Park", hu: "Croc City Krokodilpark", ro: "Parcul de crocodili Croc City", en: "Croc City Crocodile Park",
+image: "/poi-images/croc-city-life-v2.webp"
+},
     description: { de: "Ein Park, in dem man Krokodile und Schlangen hautnah erleben kann.", hu: "Park, ahol krokodilokat és kígyókat ismerhetnek meg közelről.", ro: "Un parc unde poți vedea crocodili și șerpi de aproape.", en: "A park where you can experience crocodiles and snakes up close." },
     facts: {
       de: ["Krokodil-Fütterungen.", "Schlangenshows.", "Lehrreich.", "Sicherer Umgang."],
@@ -374,7 +430,9 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-GP",
     coords: [28.15, -25.80],
-    name: { de: "Cheetah Outreach", hu: "Gepárd-mentő központ", ro: "Centrul de salvare a ghepardilor", en: "Cheetah Outreach" },
+    name: { de: "Cheetah Outreach", hu: "Gepárd-mentő központ", ro: "Centrul de salvare a ghepardilor", en: "Cheetah Outreach",
+image: "/poi-images/cheetah-sanctuary-life-v2.webp"
+},
     description: { de: "Ein Zentrum für den Schutz und die Aufzucht von Geparden.", hu: "Központ a gepárdok védelmére és tenyésztésére.", ro: "Centru pentru conservarea și creșterea ghepardilor.", en: "A center for the conservation and breeding of cheetahs." },
     facts: {
       de: ["Geparden-Forschung.", "Bildungsprogramme.", "Sicherer Kontakt.", "Nahe Pretoria."],

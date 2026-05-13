@@ -6,7 +6,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "GE-TB",
     coords: [44.8083, 41.6880],
-    name: { de: "Festung Narikala", hu: "Narikala erőd", ro: "Cetatea Narikala", en: "Narikala Fortress" },
+    name: { de: "Festung Narikala", hu: "Narikala erőd", ro: "Cetatea Narikala", en: "Narikala Fortress",
+image: "/poi-images/ge-narikala-history-v2.webp"
+},
     description: {
       de: "Narikala ist eine antike Festung, die über der Hauptstadt Tiflis thront und die Stadt seit dem 4. Jahrhundert beschützt. Die Ruinen bieten einen herrlichen Panoramablick und erzählen von zahlreichen Invasionen und Erdbeben.",
       hu: "A Narikala egy ősi erőd, amely a főváros, Tbiliszi fölé magasodik, és a 4. század óta védi a várost. A romok csodálatos panorámát nyújtanak, és számos invázióról, valamint földrengésről mesélnek.",
@@ -25,7 +27,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-MM",
     coords: [44.7231, 41.8422],
-    name: { de: "Swetizchoweli-Kathedrale", hu: "Szvetickhoveli-székesegyház", ro: "Catedrala Svetitskhoveli", en: "Svetitskhoveli Cathedral" },
+    name: { de: "Swetizchoweli-Kathedrale", hu: "Szvetickhoveli-székesegyház", ro: "Catedrala Svetitskhoveli", en: "Svetitskhoveli Cathedral",
+image: "/poi-images/ge-svetitskhoveli-history-v2.webp"
+},
     description: {
       de: "Die majestätische Swetizchoweli-Kathedrale in Mzcheta ist ein Meisterwerk der frühmittelalterlichen georgischen Architektur und ein UNESCO-Welterbe. Der Legende nach ist hier das Gewand Christi begraben, weshalb sie ein wichtiges Pilgerzentrum darstellt.",
       hu: "A fenséges mcchetai Szvetickhoveli-székesegyház a kora középkori grúz építészet remekműve és UNESCO világörökség. A legenda szerint itt temették el Krisztus köntösét, ezért jelentős zarándokközpont.",
@@ -43,7 +47,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "GE-SK",
     coords: [44.2075, 41.9675],
-    name: { de: "Uplisziche", hu: "Uplisziche", ro: "Uplistsikhe", en: "Uplistsikhe" },
+    name: { de: "Uplisziche", hu: "Uplisziche", ro: "Uplistsikhe", en: "Uplistsikhe",
+image: "/poi-images/ge-uplistsikhe-history-v2.webp"
+},
     description: {
       de: "Uplisziche ist eine beeindruckende, in Fels gehauene antike Höhlenstadt in Ostgeorgien. Sie war vom frühen Eisenzeitalter bis zum Spätmittelalter bewohnt und stellte ein wichtiges politisches und religiöses Zentrum dar, bevor sie von den Mongolen zerstört wurde.",
       hu: "Uplisziche egy lenyűgöző, sziklába vájt ókori barlangváros Kelet-Grúziában. A kora vaskortól a késő középkorig lakott volt, és fontos politikai és vallási központot jelentett, mielőtt a mongolok elpusztították.",
@@ -61,7 +67,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "GE-SJ",
     coords: [43.2842, 41.3811],
-    name: { de: "Wardsia", hu: "Vardzia", ro: "Vardzia", en: "Vardzia" },
+    name: { de: "Wardsia", hu: "Vardzia", ro: "Vardzia", en: "Vardzia",
+image: "/poi-images/ge-vardzia-history-v2.webp"
+},
     description: {
       de: "Die Höhlenstadt Wardsia ist ein spektakuläres Klosterkomplex, das im 12. Jahrhundert in die steile Wand des Berges Eruscheti gemeißelt wurde. Königin Tamar ließ die verborgene Stadt als Schutz vor mongolischen Angriffen errichten.",
       hu: "A Vardzia barlangváros egy látványos kolostorkomplexum, amelyet a 12. században faragtak az Erusheti-hegy meredek falába. Tamar királynő építtette a rejtett várost a mongol támadások elleni védelemként.",
@@ -79,7 +87,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-IM",
     coords: [42.7684, 42.2948],
-    name: { de: "Kloster Gelati", hu: "Gelati kolostor", ro: "Mănăstirea Gelati", en: "Gelati Monastery" },
+    name: { de: "Kloster Gelati", hu: "Gelati kolostor", ro: "Mănăstirea Gelati", en: "Gelati Monastery",
+image: "/poi-images/ge-gelati-history-v2.webp"
+},
     description: {
       de: "Das Kloster Gelati nahe Kutaissi war eines der ersten kulturellen und geistigen Zentren Georgiens. Gegründet von König David dem Erbauer im Jahr 1106, beherbergte es eine berühmte Akademie, die byzantinische und georgische Gelehrte vereinte.",
       hu: "A Kutaiszi közelében található Gelati kolostor Grúzia egyik első kulturális és szellemi központja volt. Az Építő Dávid király által 1106-ban alapított kolostor híres akadémiának adott otthont, amely egyesítette a bizánci és grúz tudósokat.",
@@ -97,7 +107,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-IM",
     coords: [42.7042, 42.2772],
-    name: { de: "Bagrati-Kathedrale", hu: "Bagrati-székesegyház", ro: "Catedrala Bagrati", en: "Bagrati Cathedral" },
+    name: { de: "Bagrati-Kathedrale", hu: "Bagrati-székesegyház", ro: "Catedrala Bagrati", en: "Bagrati Cathedral",
+image: "/poi-images/ge-bagrati-history-v2.webp"
+},
     description: {
       de: "Die Bagrati-Kathedrale in Kutaissi thront majestätisch auf dem Ukimerioni-Hügel. Sie wurde im frühen 11. Jahrhundert unter König Bagrat III. errichtet und symbolisiert die Einheit und Stärke des mittelalterlichen georgischen Staates.",
       hu: "A kutaiszi Bagrati-székesegyház fenségesen magasodik az Ukimerioni-dombon. A 11. század elején épült III. Bagrat király uralkodása alatt, és a középkori grúz állam egységét és erejét szimbolizálja.",
@@ -115,7 +127,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-MM",
     coords: [44.6203, 42.6629],
-    name: { de: "Gergetier Dreifaltigkeitskirche", hu: "Gergeti Szentháromság-templom", ro: "Biserica Sfintei Treimi din Gergeti", en: "Gergeti Trinity Church" },
+    name: { de: "Gergetier Dreifaltigkeitskirche", hu: "Gergeti Szentháromság-templom", ro: "Biserica Sfintei Treimi din Gergeti", en: "Gergeti Trinity Church",
+image: "/poi-images/ge-gergeti-history-v2.webp"
+},
     description: {
       de: "Die Gergetier Dreifaltigkeitskirche liegt atemberaubend auf über 2.100 Metern Höhe vor dem massiven Berg Kasbek. Der aus dem 14. Jahrhundert stammende Bau ist eines der ikonischsten Postkartenmotive Georgiens und war einst ein Zufluchtsort für königliche Schätze.",
       hu: "A Gergeti Szentháromság-templom lélegzetelállító környezetben, több mint 2100 méteres magasságban fekszik a hatalmas Kazbek-hegy előtt. A 14. századból származó épület Grúzia egyik legikonikusabb képeslap-motívuma, egykor királyi kincsek menedékhelye volt.",
@@ -133,7 +147,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-SZ",
     coords: [41.8741, 42.5117],
-    name: { de: "Dadiani-Palast", hu: "Dadiani-palota", ro: "Palatul Dadiani", en: "Dadiani Palace" },
+    name: { de: "Dadiani-Palast", hu: "Dadiani-palota", ro: "Palatul Dadiani", en: "Dadiani Palace",
+image: "/poi-images/ge-dadiani-history-v2.webp"
+},
     description: {
       de: "Der Dadiani-Palast in Sugdidi war die Residenz der adeligen Familie Dadiani, die das historische Mingrelien beherrschte. Das prächtige Anwesen aus dem 19. Jahrhundert beherbergt heute ein Museum mit wertvollen Exponaten, darunter eine Totenmaske von Napoleon Bonaparte.",
       hu: "A zugdidi Dadiani-palota a Mingréliát uraló Dadiani nemesi család rezidenciája volt. A pompás 19. századi birtok ma múzeumnak ad otthont értékes kiállítási tárgyakkal, köztük Napóleon halotti maszkjával.",
@@ -152,7 +168,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "GE-MM",
     coords: [45.1950, 42.6053],
-    name: { de: "Bergdorf Muzo", hu: "Mucu hegyi falu", ro: "Satul montan Mutso", en: "Mutso Mountain Village" },
+    name: { de: "Bergdorf Muzo", hu: "Mucu hegyi falu", ro: "Satul montan Mutso", en: "Mutso Mountain Village",
+image: "/poi-images/ge-mutso-history-v2.webp"
+},
     description: {
       de: "Die faszinierenden Ruinen von Muzo kleben förmlich an einem steilen Felsgrat in der abgelegenen Bergregion Chewsuretien. Die mittelalterliche Festungssiedlung mit ihren wehrhaften Steintürmen diente als Wachtposten gegen Eindringlinge aus dem Nordkaukasus.",
       hu: "Mucu lenyűgöző romjai szinte rátapadnak egy meredek sziklagerincre az elszigetelt Hevszureti hegyvidéken. A középkori erődített település, védelmet nyújtó kőtornyaival, őrhelyként szolgált az észak-kaukázusi betolakodók ellen.",
@@ -170,7 +188,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-KA",
     coords: [45.6800, 42.0017],
-    name: { de: "Erzengelkirche in Gremi", hu: "Gremi Arkangyalok temploma", ro: "Biserica Arhanghelilor din Gremi", en: "Gremi Archangels' Church" },
+    name: { de: "Erzengelkirche in Gremi", hu: "Gremi Arkangyalok temploma", ro: "Biserica Arhanghelilor din Gremi", en: "Gremi Archangels' Church",
+image: "/poi-images/ge-gremi-history-v2.webp"
+},
     description: {
       de: "Gremi war im 16. Jahrhundert die florierende Hauptstadt des Königreichs Kachetien. Heute steht nur noch die eindrucksvolle Erzengelkirche mit ihrem Wehrturm, die malerisch auf einem Hügel thront und ein herausragendes Beispiel der georgischen Ziegelbauweise ist.",
       hu: "Gremi a 16. században a Kaheti Királyság virágzó fővárosa volt. Ma már csak az impozáns Arkangyalok temploma áll a védőtornyával, amely festőien magasodik egy dombon, és a grúz téglaépítészet kiváló példája.",
@@ -188,7 +208,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-MM",
     coords: [44.7335, 41.8385],
-    name: { de: "Dschwari-Kloster", hu: "Dzsvari kolostor", ro: "Mănăstirea Jvari", en: "Jvari Monastery" },
+    name: { de: "Dschwari-Kloster", hu: "Dzsvari kolostor", ro: "Mănăstirea Jvari", en: "Jvari Monastery",
+image: "/poi-images/ge-jvari-history-v2.webp"
+},
     description: {
       de: "Das Dschwari-Kloster aus dem 6. Jahrhundert erhebt sich auf einer Felsklippe am Zusammenfluss von Kura und Aragwi. Es markiert den Ort, an dem die Heilige Nino, die Georgien christianisierte, der Überlieferung nach ein großes hölzernes Kreuz aufstellte.",
       hu: "A 6. századi Dzsvari kolostor egy sziklacsúcson emelkedik a Kura és az Aragvi folyók összefolyásánál. Azt a helyet jelöli, ahol a hagyomány szerint Szent Nino, aki keresztény hitre térítette Grúziát, egy nagy fakeresztet állított fel.",
@@ -206,7 +228,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-SJ",
     coords: [42.9772, 41.6429],
-    name: { de: "Festung Rabati", hu: "Rabati erőd", ro: "Cetatea Rabati", en: "Rabati Castle" },
+    name: { de: "Festung Rabati", hu: "Rabati erőd", ro: "Cetatea Rabati", en: "Rabati Castle",
+image: "/poi-images/ge-rabati-history-v2.webp"
+},
     description: {
       de: "Die Festung Rabati in Achalziche ist ein beeindruckender multikultureller Komplex. Über Jahrhunderte hinweg vereinte diese Burg eine Moschee, eine Synagoge, christliche Kirchen und einen prachtvollen Palast und spiegelt die vielfältige Geschichte der Region wider.",
       hu: "Az ahalcihei Rabati erőd egy lenyűgöző multikulturális komplexum. Évszázadokon keresztül ez a vár egy mecsetet, egy zsinagógát, keresztény templomokat és egy pompás palotát is magában foglalt, tükrözve a régió sokszínű történetét.",
@@ -224,7 +248,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-SJ",
     coords: [43.2842, 41.4789],
-    name: { de: "Festung Chertwissi", hu: "Hertviszi erőd", ro: "Cetatea Khertvisi", en: "Khertvisi Fortress" },
+    name: { de: "Festung Chertwissi", hu: "Hertviszi erőd", ro: "Cetatea Khertvisi", en: "Khertvisi Fortress",
+image: "/poi-images/ge-khertvisi-history-v2.webp"
+},
     description: {
       de: "Die Festung Chertwissi, eine der ältesten Festungen Georgiens, liegt dramatisch an der Mündung zweier tiefer Flussschluchten. Die massiven Mauern hielten unzähligen Belagerungen stand und der Ort war bereits in vorchristlicher Zeit strategisch wichtig.",
       hu: "A Hertviszi erőd, Grúzia egyik legrégebbi erődítménye, drámai módon két mély folyószurdok találkozásánál fekszik. A masszív falak számtalan ostromot álltak ki, és a hely már a kereszténység előtti időkben is stratégiai jelentőségű volt.",
@@ -242,7 +268,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-KA",
     coords: [45.3762, 41.4475],
-    name: { de: "Kloster Dawit Garedscha", hu: "Dávid Garedzsa kolostor", ro: "Mănăstirea David Gareja", en: "David Gareja Monastery" },
+    name: { de: "Kloster Dawit Garedscha", hu: "Dávid Garedzsa kolostor", ro: "Mănăstirea David Gareja", en: "David Gareja Monastery",
+image: "/poi-images/ge-david-gareja-history-v2.webp"
+},
     description: {
       de: "Das Felsenkloster Dawit Garedscha liegt in einer halbwüstenartigen Landschaft an der Grenze zu Aserbaidschan. Es wurde im 6. Jahrhundert von einem der assyrischen Väter gegründet und fasziniert mit beeindruckenden Fresken, die direkt in den Fels gemalt wurden.",
       hu: "A Dávid Garedzsa sziklakolostor egy félsivatagos tájon fekszik, az azerbajdzsáni határ közelében. A 6. században alapította az egyik asszír atya, és közvetlenül a sziklára festett lenyűgöző freskókkal bűvöli el a látogatókat.",
@@ -260,7 +288,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "GE-AJ",
     coords: [41.5728, 41.5722],
-    name: { de: "Festung Gonio", hu: "Gonio erőd", ro: "Cetatea Gonio", en: "Gonio Fortress" },
+    name: { de: "Festung Gonio", hu: "Gonio erőd", ro: "Cetatea Gonio", en: "Gonio Fortress",
+image: "/poi-images/ge-gonio-history-v2.webp"
+},
     description: {
       de: "Die Festung Gonio an der Schwarzmeerküste ist eine der ältesten erhaltenen römischen Befestigungsanlagen im Kaukasus. Sie diente dem Römischen, Byzantinischen und Osmanischen Reich als wichtiger militärischer Stützpunkt an einer strategischen Handelsroute.",
       hu: "A fekete-tengeri partvidéken fekvő Gonio erőd a Kaukázus egyik legrégebbi fennmaradt római erődítménye. A Római, Bizánci és Oszmán Birodalomnak is fontos katonai bázisaként szolgált egy stratégiai kereskedelmi útvonalon.",
@@ -278,7 +308,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "GE-MM",
     coords: [45.1558, 42.6586],
-    name: { de: "Bergdorf Schatili", hu: "Satili hegyi falu", ro: "Satul montan Shatili", en: "Shatili Mountain Village" },
+    name: { de: "Bergdorf Schatili", hu: "Satili hegyi falu", ro: "Satul montan Shatili", en: "Shatili Mountain Village",
+image: "/poi-images/ge-shatili-history-v2.webp"
+},
     description: {
       de: "Das geheimnisvolle Festungsdorf Schatili im tiefen Kaukasus-Gebirge ist ein Labyrinth aus eng verbundenen Wohntürmen. Die flachen Dächer der Steinhäuser dienten gleichzeitig als Straßen und bildeten eine uneinnehmbare Barriere für Invasoren.",
       hu: "A titokzatos Satili erődített falu a mély Kaukázus hegységben szorosan összekapcsolódó lakótornyok labirintusa. A kőházak lapos teteje egyben utcákként is szolgált, és bevehetetlen akadályt képezett a betolakodók számára.",
@@ -296,7 +328,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-MM",
     coords: [44.7039, 42.1636],
-    name: { de: "Festung Ananuri", hu: "Ananuri erőd", ro: "Cetatea Ananuri", en: "Ananuri Fortress" },
+    name: { de: "Festung Ananuri", hu: "Ananuri erőd", ro: "Cetatea Ananuri", en: "Ananuri Fortress",
+image: "/poi-images/ge-ananuri-history-v2.webp"
+},
     description: {
       de: "Die wehrhafte Festung Ananuri thront malerisch über dem Zhinwali-Stausee. Im 13. Jahrhundert erbaut, war sie Sitz der Eristawis (Herzöge) von Aragwi und war Schauplatz zahlreicher blutiger Schlachten zwischen verfeindeten Feudalherren.",
       hu: "A jól védhető Ananuri erőd festőien magasodik a Zsinvali-víztározó felett. A 13. században épült, és az aragvi eristavik (hercegek) székhelye volt, valamint számos véres csata színhelye az ellenségeskedő hűbérurak között.",
@@ -314,7 +348,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "monument",
     parent: "GE-KK",
     coords: [44.4239, 41.7619],
-    name: { de: "Didgori-Denkmal", hu: "Didgori emlékmű", ro: "Monumentul Didgori", en: "Didgori Monument" },
+    name: { de: "Didgori-Denkmal", hu: "Didgori emlékmű", ro: "Monumentul Didgori", en: "Didgori Monument",
+image: "/poi-images/ge-didgori-history-v2.webp"
+},
     description: {
       de: "Das Didgori-Denkmal markiert das historische Schlachtfeld, auf dem König David der Erbauer im Jahr 1121 einen unerwarteten und überwältigenden Sieg über das riesige seldschukische Heer errang. Große, in den Boden gerammte Schwerter erinnern an diesen 'Wundersamen Sieg'.",
       hu: "A Didgori emlékmű azt a történelmi csatateret jelzi, ahol Építő Dávid király 1121-ben váratlan és elsöprő győzelmet aratott a hatalmas szeldzsuk sereg felett. Földbe szúrt hatalmas kardok állítanak emléket a 'Csodálatos Győzelemnek'.",
@@ -333,7 +369,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "monument",
     parent: "GE-TB",
     coords: [44.8045, 41.6882],
-    name: { de: "Mutter Georgiens", hu: "Grúzia anyja", ro: "Mama Georgiei", en: "Mother of Georgia" },
+    name: { de: "Mutter Georgiens", hu: "Grúzia anyja", ro: "Mama Georgiei", en: "Mother of Georgia",
+image: "/poi-images/ge-kartlis-deda-history-v2.webp"
+},
     description: {
       de: "Die monumentale Statue 'Kartlis Deda' wacht seit 1958 über Tiflis. In der einen Hand hält sie eine Schale mit Wein für jene, die als Freunde kommen, und in der anderen ein Schwert für Feinde – ein vollendetes Symbol der georgischen Gastfreundschaft und Entschlossenheit.",
       hu: "A monumentális 'Kartlisz Deda' szobor 1958 óta őrködik Tbiliszi felett. Az egyik kezében bort tart azoknak, akik barátként érkeznek, a másikban pedig egy kardot az ellenségeknek – a grúz vendégszeretet és elszántság tökéletes szimbóluma.",
@@ -352,7 +390,9 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "GE-KA",
     coords: [45.3772, 42.0325],
-    name: { de: "Kloster Alawerdi", hu: "Alaverdi kolostor", ro: "Mănăstirea Alaverdi", en: "Alaverdi Monastery" },
+    name: { de: "Kloster Alawerdi", hu: "Alaverdi kolostor", ro: "Mănăstirea Alaverdi", en: "Alaverdi Monastery",
+image: "/poi-images/ge-alaverdi-history-v2.webp"
+},
     description: {
       de: "Die imposante Alawerdi-Kathedrale im Herzen des fruchtbaren Alasani-Tals war bis ins 21. Jahrhundert das höchste Kirchengebäude Georgiens. Gegründet im 6. Jahrhundert, ist sie nicht nur ein Ort tiefen Glaubens, sondern auch für ihren erstklassigen Klosterwein berühmt.",
       hu: "Az Alazani-völgy szívében található lenyűgöző Alaverdi-székesegyház a 21. századig Grúzia legmagasabb temploma volt. A 6. században alapított kolostor nemcsak a mély hit helyszíne, hanem első osztályú kolostori boráról is híres.",

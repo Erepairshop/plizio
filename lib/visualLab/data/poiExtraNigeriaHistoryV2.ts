@@ -11,8 +11,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Stadtmauern von Benin",
       hu: "Benin városfalai",
       ro: "Zidurile orașului Benin",
-      en: "Benin City Walls"
-    },
+      en: "Benin City Walls",
+image: "/poi-images/benin-city-walls-history-v2.webp"
+},
     description: {
       de: "Ein riesiges Netzwerk von Erdwerken, das einst das Königreich Benin umgab und schützte.",
       hu: "Egy hatalmas földműhálózat, amely egykor a Benini Királyságot vette körül és védte.",
@@ -47,8 +48,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Kulturlandschaft Sukur",
       hu: "Sukur kultúrtáj",
       ro: "Peisajul cultural Sukur",
-      en: "Sukur Cultural Landscape"
-    },
+      en: "Sukur Cultural Landscape",
+image: "/poi-images/sukur-cultural-landscape-history-v2.webp"
+},
     description: {
       de: "Eine historische Terrassenlandschaft mit dem Palast des Hidi, rituellen Terrassen und eiszeitlicher Architektur.",
       hu: "Történelmi teraszos vidék a Hidi palotájával, rituális teraszokkal és ősi építészettel.",
@@ -83,8 +85,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Heiliger Hain der Osun",
       hu: "Osun-Osogbo szent liget",
       ro: "Pădurea sacră Osun-Osogbo",
-      en: "Osun-Osogbo Sacred Grove"
-    },
+      en: "Osun-Osogbo Sacred Grove",
+image: "/poi-images/osun-osogbo-sacred-grove-history-v2.webp"
+},
     description: {
       de: "Einer der letzten erhaltenen primären Hochwälder im Süden Nigerias, der als Wohnsitz der Göttin der Fruchtbarkeit gilt.",
       hu: "Dél-Nigéria egyik utolsó fennmaradt őserdeje, amelyet a termékenység istennőjének lakhelyeként tisztelnek.",
@@ -119,8 +122,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Stadtmauern von Kano",
       hu: "Kano városfalai",
       ro: "Zidurile orașului Kano",
-      en: "Kano City Walls"
-    },
+      en: "Kano City Walls",
+image: "/poi-images/kano-city-walls-history-v2.webp"
+},
     description: {
       de: "Alte Verteidigungsmauern, die errichtet wurden, um die Bewohner der historischen Stadt Kano zu schützen.",
       hu: "Ősi védőfalak, amelyeket Kano történelmi város lakóinak védelmére építettek.",
@@ -155,8 +159,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Sungbo's Eredo",
       hu: "Sungbo's Eredo",
       ro: "Sungbo's Eredo",
-      en: "Sungbo's Eredo"
-    },
+      en: "Sungbo's Eredo",
+image: "/poi-images/sungbos-eredo-history-v2.webp"
+},
     description: {
       de: "Ein riesiges System von Verteidigungswällen und Gräben, das im Ijebu-Königreich erbaut wurde.",
       hu: "Hatalmas védőfal- és árokrendszer, amelyet az Ijebu Királyságban építettek.",
@@ -191,8 +196,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Olumo-Felsen",
       hu: "Olumo-szikla",
       ro: "Stânca Olumo",
-      en: "Olumo Rock"
-    },
+      en: "Olumo Rock",
+image: "/poi-images/olumo-rock-history-v2.webp"
+},
     description: {
       de: "Ein massiver Felsaufschluss, der den Egba-Menschen während der intertribalen Kriege im 19. Jahrhundert als Festung diente.",
       hu: "Hatalmas sziklaképződmény, amely az egba nép erődjeként szolgált a 19. századi törzsi háborúk idején.",
@@ -227,8 +233,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Sklavenhafen von Badagry",
       hu: "Badagry rabszolgakikötő",
       ro: "Portul de sclavi Badagry",
-      en: "Badagry Slave Port"
-    },
+      en: "Badagry Slave Port",
+image: "/poi-images/badagry-slave-port-history-v2.webp"
+},
     description: {
       de: "Ein historischer Hafen und eine Route, die als wichtiger Transitpunkt während des transatlantischen Sklavenhandels dienten.",
       hu: "Történelmi kikötő és útvonal, amely fontos tranzitállomás volt a transzatlanti rabszolgakereskedelem idején.",
@@ -263,8 +270,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Erstes zweistöckiges Gebäude",
       hu: "Első emeletes épület",
       ro: "Prima clădire cu etaj",
-      en: "First Storey Building"
-    },
+      en: "First Storey Building",
+image: "/poi-images/first-storey-building-history-v2.webp"
+},
     description: {
       de: "Das älteste zweistöckige Gebäude in Nigeria, erbaut von christlichen Missionaren in Badagry.",
       hu: "Nigéria legrégebbi emeletes épülete, amelyet keresztény misszionáriusok építettek Badagryban.",
@@ -299,8 +307,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Arochukwu Long Juju-Schrein",
       hu: "Arochukwu Long Juju szentély",
       ro: "Sanctuarul Arochukwu Long Juju",
-      en: "Arochukwu Long Juju Shrine"
-    },
+      en: "Arochukwu Long Juju Shrine",
+image: "/poi-images/arochukwu-long-juju-history-v2.webp"
+},
     description: {
       de: "Ein Tempel- und Höhlensystem, das als Schrein für Ibn Ukpabi und als Urteilsort der Aro-Kaste diente.",
       hu: "Templom- és barlangrendszer, amely Ibn Ukpabi szentélyeként és az Aro kaszt ítélkezési helyeként szolgált.",
@@ -335,8 +344,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Nationales Kriegsmuseum",
       hu: "Nemzeti Hadtörténeti Múzeum",
       ro: "Muzeul Național de Război",
-      en: "National War Museum"
-    },
+      en: "National War Museum",
+image: "/poi-images/national-war-museum-history-v2.webp"
+},
     description: {
       de: "Ein Museum in Umuahia, das Relikte aus dem nigerianischen Bürgerkrieg bewahrt.",
       hu: "Múzeum Umuahiában, amely a nigériai polgárháború emlékeit őrzi.",
@@ -371,8 +381,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Nok-Dorf",
       hu: "Nok falu",
       ro: "Satul Nok",
-      en: "Nok Village"
-    },
+      en: "Nok Village",
+image: "/poi-images/nok-village-history-v2.webp"
+},
     description: {
       de: "Die archäologische Stätte, an der die ersten Terrakotta-Skulpturen der alten Nok-Kultur entdeckt wurden.",
       hu: "Régészeti lelőhely, ahol az ősi Nok-kultúra első terrakotta szobrait felfedezték.",
@@ -407,8 +418,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Palast von Owo",
       hu: "Owo palotája",
       ro: "Palatul Owo",
-      en: "Owo Palace"
-    },
+      en: "Owo Palace",
+image: "/poi-images/owo-palace-history-v2.webp"
+},
     description: {
       de: "Der Palast des Olowo von Owo, der einst der größte Palast Afrikas mit über 100 Innenhöfen war.",
       hu: "Az owói olowo palotája, amely egykor Afrika legnagyobb palotája volt, több mint 100 udvarral.",
@@ -443,8 +455,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Idanre-Hügel",
       hu: "Idanre-hegy",
       ro: "Dealul Idanre",
-      en: "Idanre Hill"
-    },
+      en: "Idanre Hill",
+image: "/poi-images/idanre-hill-history-v2.webp"
+},
     description: {
       de: "Eine historische Hügelsiedlung, die über 800 Jahre lang die alte Stadt Idanre beherbergte.",
       hu: "Történelmi hegyi település, amely több mint 800 éven át adott otthont az ősi Idanre városának.",
@@ -479,8 +492,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Gidan Rumfa",
       hu: "Gidan Rumfa",
       ro: "Gidan Rumfa",
-      en: "Gidan Rumfa"
-    },
+      en: "Gidan Rumfa",
+image: "/poi-images/gidan-rumfa-history-v2.webp"
+},
     description: {
       de: "Der historische Palast des Emirs von Kano, ein architektonisches Meisterwerk im Herzen der Stadt.",
       hu: "A kanoi emír történelmi palotája, egy építészeti remekmű a város szívében.",
@@ -515,8 +529,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Stadtmauern von Zaria",
       hu: "Zaria városfalai",
       ro: "Zidurile orașului Zaria",
-      en: "Zaria City Walls"
-    },
+      en: "Zaria City Walls",
+image: "/poi-images/zaria-city-walls-history-v2.webp"
+},
     description: {
       de: "Historische Erdwerke, die zur Verteidigung des alten Emirats Zazzau errichtet wurden.",
       hu: "Történelmi földművek, amelyeket az ősi Zazzau emirátus védelmére emeltek.",
@@ -551,8 +566,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Igbo-Ukwu Ausgrabungsstätte",
       hu: "Igbo-Ukwu régészeti lelőhely",
       ro: "Situl arheologic Igbo-Ukwu",
-      en: "Igbo-Ukwu Archaeological Site"
-    },
+      en: "Igbo-Ukwu Archaeological Site",
+image: "/poi-images/igbo-ukwu-history-v2.webp"
+},
     description: {
       de: "Der Fundort der ältesten Bronzeartefakte in Westafrika, die auf eine hoch entwickelte antike Gesellschaft hinweisen.",
       hu: "A legősibb nyugat-afrikai bronztárgyak lelőhelye, amelyek egy magasan fejlett ókori társadalomra utalnak.",
@@ -587,8 +603,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Oduduwa-Schrein",
       hu: "Oduduwa szentély",
       ro: "Sanctuarul Oduduwa",
-      en: "Oduduwa Shrine"
-    },
+      en: "Oduduwa Shrine",
+image: "/poi-images/oduduwa-shrine-history-v2.webp"
+},
     description: {
       de: "Eine verehrte Stätte in Ile-Ife, die dem mythischen Stammvater des Yoruba-Volkes, Oduduwa, gewidmet ist.",
       hu: "Tisztelt helyszín Ile-Ifében, amelyet a joruba nép mitikus ősatyjának, Oduduwának szenteltek.",
@@ -623,8 +640,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Kofar Mata Färbegruben",
       hu: "Kofar Mata festőgödrök",
       ro: "Gropile de vopsit Kofar Mata",
-      en: "Kofar Mata Dyeing Pits"
-    },
+      en: "Kofar Mata Dyeing Pits",
+image: "/poi-images/kofar-mata-dyeing-pits-history-v2.webp"
+},
     description: {
       de: "Historische Gruben in Kano, die seit über fünf Jahrhunderten für traditionelles Indigo-Färben genutzt werden.",
       hu: "Történelmi gödrök Kanóban, amelyeket több mint öt évszázada használnak hagyományos indigófestésre.",
@@ -659,8 +677,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Esie-Museum",
       hu: "Esie Múzeum",
       ro: "Muzeul Esie",
-      en: "Esie Museum"
-    },
+      en: "Esie Museum",
+image: "/poi-images/esie-museum-history-v2.webp"
+},
     description: {
       de: "Das erste Museum in Nigeria, das für die Ausstellung tausender mysteriöser Specksteinfiguren bekannt ist.",
       hu: "Nigéria első múzeuma, amely több ezer titokzatos zsírkőszobor kiállításáról ismert.",
@@ -695,8 +714,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Dufuna-Kanu-Fundstätte",
       hu: "Dufuna kenu lelőhely",
       ro: "Situl Canoe Dufuna",
-      en: "Dufuna Canoe Discovery Site"
-    },
+      en: "Dufuna Canoe Discovery Site",
+image: "/poi-images/dufuna-canoe-history-v2.webp"
+},
     description: {
       de: "Der Ort, an dem das älatzeste bekannte Boot in Afrika, das etwa 8.000 Jahre alt ist, entdeckt wurde.",
       hu: "Az a hely, ahol felfedezték Afrika legrégebbi ismert hajóját, amely körülbelül 8000 éves.",
@@ -731,8 +751,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Mbari-Kulturzentrum",
       hu: "Mbari Kulturális Központ",
       ro: "Centrul Cultural Mbari",
-      en: "Mbari Cultural Centre"
-    },
+      en: "Mbari Cultural Centre",
+image: "/poi-images/mbari-cultural-centre-history-v2.webp"
+},
     description: {
       de: "Eine offene Kultstätte der Igbo, die mit traditioneller Kunst und Skulpturen geschmückt ist, die Erdgöttinnen ehren.",
       hu: "Az igbók nyitott kultikus helye, amelyet a földistennőket tisztelő hagyományos művészet és szobrok díszítenek.",
@@ -767,8 +788,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Kulturlandschaft Surame",
       hu: "Surame kultúrtáj",
       ro: "Peisajul Cultural Surame",
-      en: "Surame Cultural Landscape"
-    },
+      en: "Surame Cultural Landscape",
+image: "/poi-images/surame-cultural-landscape-history-v2.webp"
+},
     description: {
       de: "Die Ruinen eines alten Königreichs mit einzigartigen Steinmauern und einer reichen islamischen Geschichte.",
       hu: "Egy ősi királyság romjai egyedülálló kőfalakkal és gazdag iszlám történelemmel.",
@@ -803,8 +825,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Haus von Mary Slessor",
       hu: "Mary Slessor háza",
       ro: "Casa lui Mary Slessor",
-      en: "Mary Slessor's House"
-    },
+      en: "Mary Slessor's House",
+image: "/poi-images/mary-slessor-house-history-v2.webp"
+},
     description: {
       de: "Das historische Haus der schottischen Missionarin Mary Slessor, die den Brauch der Zwillingskindstötung beendete.",
       hu: "Mary Slessor skót misszionárius történelmi háza, aki véget vetett az ikrek meggyilkolásának szokásának.",
@@ -839,8 +862,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Lugard-Halle",
       hu: "Lugard-csarnok",
       ro: "Sala Lugard",
-      en: "Lugard Hall"
-    },
+      en: "Lugard Hall",
+image: "/poi-images/lugard-hall-history-v2.webp"
+},
     description: {
       de: "Ein koloniales Regierungsgebäude, das als Sitz des historischen Repräsentantenhauses von Nord-Nigeria diente.",
       hu: "Gyarmati kormányzati épület, amely Észak-Nigéria történelmi képviselőházának székhelye volt.",
@@ -875,8 +899,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Mount Patti",
       hu: "Mount Patti",
       ro: "Muntele Patti",
-      en: "Mount Patti"
-    },
+      en: "Mount Patti",
+image: "/poi-images/mount-patti-history-v2.webp"
+},
     description: {
       de: "Ein Berg in Lokoja, auf dem Lord Lugard stand und den Namen Nigeria für die Region prägte.",
       hu: "Hegy Lokojában, ahol Lord Lugard állt, és megalkotta a Nigéria nevet a régió számára.",
@@ -911,8 +936,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Gobirau-Minarett",
       hu: "Gobirau-minaret",
       ro: "Minaretul Gobirau",
-      en: "Gobirau Minaret"
-    },
+      en: "Gobirau Minaret",
+image: "/poi-images/gobirau-minaret-history-v2.webp"
+},
     description: {
       de: "Ein historisches, hoch aufragendes Minarett in Katsina, das als Symbol der frühen islamischen Bildung in der Region dient.",
       hu: "Történelmi, magasra törő minaret Katsinában, amely a korai iszlám oktatás szimbólumaként szolgál a régióban.",
@@ -947,8 +973,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Sklavengeschichtliches Museum",
       hu: "Rabszolgaság Történeti Múzeuma",
       ro: "Muzeul de Istorie a Sclaviei",
-      en: "Slave History Museum"
-    },
+      en: "Slave History Museum",
+image: "/poi-images/slave-history-museum-history-v2.webp"
+},
     description: {
       de: "Ein Museum in Calabar, das sich der Dokumentation der dunklen Geschichte des Sklavenhandels in der Region widmet.",
       hu: "Múzeum Calabarban, amely a régió rabszolgakereskedelmének sötét történelmének dokumentálásának szenteli magát.",
@@ -983,8 +1010,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Haus von Häuptling Ekpo Bassey",
       hu: "Ekpo Bassey főnök háza",
       ro: "Casa Șefului Ekpo Bassey",
-      en: "Chief Ekpo Bassey's House"
-    },
+      en: "Chief Ekpo Bassey's House",
+image: "/poi-images/chief-ekpo-bassey-house-history-v2.webp"
+},
     description: {
       de: "Ein koloniales Gebäude in Calabar, das einst dem einflussreichen Häuptling und politischen Führer Ekpo Bassey gehörte.",
       hu: "Gyarmati épület Calabarban, amely egykor a befolyásos törzsfőnök és politikai vezető, Ekpo Bassey tulajdona volt.",
@@ -1019,8 +1047,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Amalgamierungshaus",
       hu: "Egyesülési Ház",
       ro: "Casa de Amalgație",
-      en: "Amalgamation House"
-    },
+      en: "Amalgamation House",
+image: "/poi-images/amalgamation-house-history-v2.webp"
+},
     description: {
       de: "Das historische Gebäude in Ikot Abasi, wo 1914 Nord- und Südnigeria offiziell von Lord Lugard vereinigt wurden.",
       hu: "A történelmi épület Ikot Abasiban, ahol Lord Lugard 1914-ben hivatalosan egyesítette Észak- és Dél-Nigériát.",
@@ -1055,8 +1084,9 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
       de: "Alok Ikom Steinmonolithen",
       hu: "Alok Ikom kőmonolitok",
       ro: "Monoliții de piatră Alok Ikom",
-      en: "Alok Ikom Stone Monoliths"
-    },
+      en: "Alok Ikom Stone Monoliths",
+image: "/poi-images/alok-ikom-monoliths-history-v2.webp"
+},
     description: {
       de: "Über 300 geschnitzte Vulkangesteine mit menschlichen Gesichtszügen, die in Kreisen angeordnet sind und als Ahnenschreine dienen.",
       hu: "Több mint 300 faragott, emberi arcvonásokkal rendelkező vulkáni kőzet, amelyeket körökben rendeztek el, és ősi szentélyként szolgálnak.",

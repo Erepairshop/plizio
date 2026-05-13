@@ -11,8 +11,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Didinga-Berge",
       hu: "Didinga-hegyek",
       ro: "Munții Didinga",
-      en: "Didinga Hills"
-    },
+      en: "Didinga Hills",
+image: "/poi-images/ss-didinga-hills-relief-v2.webp"
+},
     description: {
       de: "Ein zerklüfteter Gebirgszug im Südosten des Südsudans, bewohnt vom Volk der Didinga und bekannt für seine grüne Vegetation.",
       hu: "Egy egyenetlen hegység Dél-Szudán délkeleti részén, amelyet a didinga nép lakik, és zöldellő növényzetéről ismert.",
@@ -34,8 +35,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Dongotona-Gebirge",
       hu: "Dongotona-hegység",
       ro: "Munții Dongotona",
-      en: "Dongotona Mountains"
-    },
+      en: "Dongotona Mountains",
+image: "/poi-images/ss-dongotona-mountains-relief-v2.webp"
+},
     description: {
       de: "Ein isoliertes Gebirgsmassiv östlich des Imatong-Gebirges, das durch seine steilen Hänge und seine ökologische Vielfalt besticht.",
       hu: "Egy elszigetelt hegység az Imatong-hegységtől keletre, amely meredek lejtőivel és ökológiai sokszínűségével tűnik ki.",
@@ -57,8 +59,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Lolibai-Berge",
       hu: "Lolibai-hegység",
       ro: "Munții Lolibai",
-      en: "Lolibai Mountains"
-    },
+      en: "Lolibai Mountains",
+image: "/poi-images/ss-lolibai-mountains-relief-v2.webp"
+},
     description: {
       de: "Ein Teil des Gebirgskomplexes im Osten Äquatorias, geprägt von Granitformationen und Grasland.",
       hu: "A Kelet-Equatoria tartományban található hegycsoport része, amelyet gránitformációk és füves puszták jellemeznek.",
@@ -80,8 +83,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Acholi-Berge",
       hu: "Acholi-dombság",
       ro: "Dealurile Acholi",
-      en: "Acholi Hills"
-    },
+      en: "Acholi Hills",
+image: "/poi-images/ss-acholi-hills-relief-v2.webp"
+},
     description: {
       de: "Eine Hügelkette an der Grenze zu Uganda, die durch ihre sanften Kuppen und dichte Vegetation auffällt.",
       hu: "Egy dombsor az ugandai határon, amely szelíd dombtetőivel és sűrű növényzetével tűnik ki.",
@@ -103,8 +107,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Jebel Kasangor",
       hu: "Jebel Kasangor",
       ro: "Jebel Kasangor",
-      en: "Jebel Kasangor"
-    },
+      en: "Jebel Kasangor",
+image: "/poi-images/ss-jebel-kasangor-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berg im Osten des Bundesstaates Jonglei, der weit über die umliegenden Ebenen hinausragt.",
       hu: "Egy jellegzetes hegy Jonglei állam keleti részén, amely messze kiemelkedik a környező síkságokból.",
@@ -126,8 +131,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Mount Lothuke",
       hu: "Lothuke-hegy",
       ro: "Muntele Lothuke",
-      en: "Mount Lothuke"
-    },
+      en: "Mount Lothuke",
+image: "/poi-images/ss-mount-lothuke-relief-v2.webp"
+},
     description: {
       de: "Ein Gipfel im Dongotona-Gebirge, der durch seine geologischen Besonderheiten und seine Isolation geprägt ist.",
       hu: "A Dongotona-hegység egyik csúcsa, amelyet geológiai sajátosságai és elszigeteltsége jellemez.",
@@ -149,8 +155,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Bongo-Massiv",
       hu: "Bongo-masszívum",
       ro: "Masivul Bongo",
-      en: "Bongo Massif"
-    },
+      en: "Bongo Massif",
+image: "/poi-images/ss-bongo-massif-relief-v2.webp"
+},
     description: {
       de: "Ein Hochland an der Grenze zur Zentralafrikanischen Republik, das die Wasserscheide zwischen Nil und Tschadbecken bildet.",
       hu: "Egy fennsík a Közép-afrikai Köztársaság határán, amely a Nílus és a Csád-medence közötti vízválasztót alkotja.",
@@ -172,8 +179,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Talanga-Wald",
       hu: "Talanga-erdő",
       ro: "Pădurea Talanga",
-      en: "Talanga Forest"
-    },
+      en: "Talanga Forest",
+image: "/poi-images/ss-talanga-forest-relief-v2.webp"
+},
     description: {
       de: "Ein dichter tropischer Regenwald am Fuße des Imatong-Gebirges mit einer enormen Vielfalt an Baumarten.",
       hu: "Egy sűrű trópusi esőerdő az Imatong-hegység lábánál, hatalmas fafaj-választékkal.",
@@ -195,8 +203,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Gilo-Wald",
       hu: "Gilo-erdő",
       ro: "Pădurea Gilo",
-      en: "Gilo Forest"
-    },
+      en: "Gilo Forest",
+image: "/poi-images/ss-gilo-forest-relief-v2.webp"
+},
     description: {
       de: "Ein Bergwald in den höheren Lagen der Imatong-Berge, bekannt für seine kühlen Temperaturen und Nebelwälder.",
       hu: "Egy hegyi erdő az Imatong-hegység magasabb vidékein, hűvös hőmérsékletéről és köderdőiről ismert.",
@@ -218,8 +227,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Kipia-Gipfel",
       hu: "Kipia-csúcs",
       ro: "Vârful Kipia",
-      en: "Kipia Peak"
-    },
+      en: "Kipia Peak",
+image: "/poi-images/ss-kipia-peak-relief-v2.webp"
+},
     description: {
       de: "Einer der markantesten Gipfel im Imatong-Massiv, der Bergsteigern einen Blick über die weiten Ebenen bietet.",
       hu: "Az Imatong-masszívum egyik legjellegzetesebb csúcsa, amely kilátást nyújt a hegymászóknak a tágas síkságokra.",
@@ -242,8 +252,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Lirikoz-Berge",
       hu: "Lirikoz-hegység",
       ro: "Munții Lirikoz",
-      en: "Lirikoz Mountains"
-    },
+      en: "Lirikoz Mountains",
+image: "/poi-images/ss-lirikoz-mountains-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug westlich des Nils in Central Equatoria, geprägt durch trockene Savannenlandschaften.",
       hu: "A Nílustól nyugatra fekvő hegység Közép-Equatoriában, amelyet száraz szavannai tájak jellemeznek.",
@@ -265,8 +276,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Madi-Berge",
       hu: "Madi-dombság",
       ro: "Dealurile Madi",
-      en: "Madi Hills"
-    },
+      en: "Madi Hills",
+image: "/poi-images/ss-madi-hills-relief-v2.webp"
+},
     description: {
       de: "Sanfte Hügelketten im südlichen Äquatoria, die fruchtbare Böden für die Landwirtschaft bieten.",
       hu: "Szelíd dombsorok Dél-Equatoriában, amelyek termékeny talajt biztosítanak a mezőgazdasághoz.",
@@ -288,8 +300,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Aloma-Plateau",
       hu: "Aloma-fennsík",
       ro: "Podișul Aloma",
-      en: "Aloma Plateau"
-    },
+      en: "Aloma Plateau",
+image: "/poi-images/ss-aloma-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein Hochplateau nahe der Grenze zur DR Kongo, bekannt für seine kühlen Temperaturen und weiten Grasflächen.",
       hu: "Egy fennsík a Kongói Demokratikus Köztársaság határa közelében, hűvös hőmérsékletéről és tágas füves területeiről ismert.",
@@ -311,8 +324,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Zande-Schwelle",
       hu: "Zande-küszöb",
       ro: "Pragul Zande",
-      en: "Zande Threshold"
-    },
+      en: "Zande Threshold",
+image: "/poi-images/ss-zande-threshold-relief-v2.webp"
+},
     description: {
       de: "Eine geologische Anhebung im Südwesten, die den Übergang zum zentralafrikanischen Dschungel markiert.",
       hu: "Egy geológiai kiemelkedés délnyugaton, amely a közép-afrikai dzsungelbe való átmenetet jelzi.",
@@ -334,8 +348,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Lafon-Berg",
       hu: "Lafon-hegy",
       ro: "Dealul Lafon",
-      en: "Lafon Hill"
-    },
+      en: "Lafon Hill",
+image: "/poi-images/ss-lafon-hill-relief-v2.webp"
+},
     description: {
       de: "Ein isolierter Inselberg in der weiten Ebene von Ost-Äquatoria, der eine spirituelle Bedeutung für die lokale Bevölkerung hat.",
       hu: "Egy elszigetelt tanúhegy Kelet-Equatoria tágas síkságán, amely spirituális jelentőséggel bír a helyi lakosság számára.",
@@ -357,8 +372,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Jebel Kunur",
       hu: "Jebel Kunur",
       ro: "Jebel Kunur",
-      en: "Jebel Kunur"
-    },
+      en: "Jebel Kunur",
+image: "/poi-images/ss-jebel-kunur-relief-v2.webp"
+},
     description: {
       de: "Ein felsiger Berg im Nordwesten des Bahr el Ghazal-Gebiets, geprägt von karger Vegetation.",
       hu: "Egy sziklás hegy a Bahr el Ghazal terület északnyugati részén, gyér növényzet jellemzi.",
@@ -380,8 +396,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Jebel Tingli",
       hu: "Jebel Tingli",
       ro: "Jebel Tingli",
-      en: "Jebel Tingli"
-    },
+      en: "Jebel Tingli",
+image: "/poi-images/ss-jebel-tingli-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Hügel in der Nähe von Juba, der durch seine geologische Zusammensetzung aus metamorphem Gestein auffällt.",
       hu: "Egy jellegzetes domb Juba közelében, amely metamorf kőzetekből álló geológiai összetételével tűnik ki.",
@@ -403,8 +420,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Laboni-Wald",
       hu: "Laboni-erdő",
       ro: "Pădurea Laboni",
-      en: "Laboni Forest"
-    },
+      en: "Laboni Forest",
+image: "/poi-images/ss-laboni-forest-relief-v2.webp"
+},
     description: {
       de: "Ein dichter Waldgürtel an der Südgrenze, der als ökologischer Korridor zwischen den Bergen und der Savanne dient.",
       hu: "Egy sűrű erdősáv a déli határon, amely ökológiai folyosóként szolgál a hegyek és a szavanna között.",
@@ -427,8 +445,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Katire-Wald",
       hu: "Katire-erdő",
       ro: "Pădurea Katire",
-      en: "Katire Forest"
-    },
+      en: "Katire Forest",
+image: "/poi-images/ss-katire-forest-relief-v2.webp"
+},
     description: {
       de: "Historische Forstwirtschaftsregion im Imatong-Gebirge, geprägt von Kiefern- und Teakplantagen sowie natürlichem Bergwald.",
       hu: "Történelmi erdőgazdálkodási régió az Imatong-hegységben, fenyő- és teakfaültetvények, valamint természetes hegyi erdők jellemzik.",
@@ -450,8 +469,9 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       de: "Mount Garia",
       hu: "Garia-hegy",
       ro: "Muntele Garia",
-      en: "Mount Garia"
-    },
+      en: "Mount Garia",
+image: "/poi-images/ss-mount-garia-relief-v2.webp"
+},
     description: {
       de: "Ein Gipfel südlich der Hauptstadt Juba, der Teil eines kleineren Bergzuges ist.",
       hu: "A fővárostól, Jubától délre fekvő hegycsúcs, amely egy kisebb hegység része.",

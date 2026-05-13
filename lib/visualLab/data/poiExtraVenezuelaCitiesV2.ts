@@ -7,7 +7,9 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "VE-A",
     coords: [-66.9036, 10.4806],
-    name: { de: "Caracas", hu: "Caracas", ro: "Caracas", en: "Caracas" },
+    name: { de: "Caracas", hu: "Caracas", ro: "Caracas", en: "Caracas",
+image: "/poi-images/caracas-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Venezuela ist das politische und wirtschaftliche Zentrum des Landes.",
       hu: "Venezuela fővárosa az ország politikai és gazdasági központja.",
@@ -37,7 +39,9 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "VE-V",
     coords: [-71.6333, 10.6317],
-    name: { de: "Maracaibo", hu: "Maracaibo", ro: "Maracaibo", en: "Maracaibo" },
+    name: { de: "Maracaibo", hu: "Maracaibo", ro: "Maracaibo", en: "Maracaibo",
+image: "/poi-images/maracaibo-cities-v2.webp"
+},
     description: {
       de: "Die zweitgrößte Stadt des Landes ist berühmt für die Erdölindustrie und den Maracaibo-See.",
       hu: "Az ország második legnagyobb városa a kőolajiparról és a Maracaibo-tóról híres.",
@@ -67,7 +71,9 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "VE-G",
     coords: [-68.0117, 10.1620],
-    name: { de: "Valencia", hu: "Valencia", ro: "Valencia", en: "Valencia" },
+    name: { de: "Valencia", hu: "Valencia", ro: "Valencia", en: "Valencia",
+image: "/poi-images/valencia-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiges Industriezentrum, das oft als die industrielle Hauptstadt Venezuelas bezeichnet wird.",
       hu: "Fontos ipari központ, amelyet gyakran Venezuela ipari fővárosának neveznek.",
@@ -97,7 +103,9 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "VE-K",
     coords: [-69.3473, 10.0678],
-    name: { de: "Barquisimeto", hu: "Barquisimeto", ro: "Barquisimeto", en: "Barquisimeto" },
+    name: { de: "Barquisimeto", hu: "Barquisimeto", ro: "Barquisimeto", en: "Barquisimeto",
+image: "/poi-images/barquisimeto-cities-v2.webp"
+},
     description: {
       de: "Diese Großstadt gilt als die musikalische Hauptstadt des Landes und ist bekannt für ihre modernen Monumente.",
       hu: "Ez a nagyváros az ország zenei fővárosa, és modern műemlékeiről ismert.",
@@ -127,7 +135,9 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "VE-D",
     coords: [-67.5958, 10.2353],
-    name: { de: "Maracay", hu: "Maracay", ro: "Maracay", en: "Maracay" },
+    name: { de: "Maracay", hu: "Maracay", ro: "Maracay", en: "Maracay",
+image: "/poi-images/maracay-cities-v2.webp"
+},
     description: {
       de: "Maracay wird wegen der vielen dort gepflanzten Bäume auch die Gartenstadt Venezuelas genannt.",
       hu: "Maracay-t a sok ültetett fa miatt Venezuela kertvárosának is nevezik.",

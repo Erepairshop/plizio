@@ -4,7 +4,9 @@ export const icelandLifeV2: POI[] = [
   {
     id: "iceland-thingvellir-life-v2",
     type: "park",
-    name: { de: "Nationalpark Þingvellir", hu: "Þingvellir Nemzeti Park", ro: "Parcul Național Þingvellir", en: "Thingvellir National Park" },
+    name: { de: "Nationalpark Þingvellir", hu: "Þingvellir Nemzeti Park", ro: "Parcul Național Þingvellir", en: "Thingvellir National Park",
+image: "/poi-images/iceland-thingvellir-life-v2.webp"
+},
     coords: [-21.1297, 64.2558],
     coordinates: { lat: 64.2558, lng: -21.1297 },
     description: {
@@ -19,11 +21,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondat în anul 1930", "Patrimoniu UNESCO din 2004", "172 de specii de plante", "Protejează păstrăvul arctic"],
       en: ["Established in 1930", "UNESCO site since 2004", "172 species of vascular plants", "Protects Arctic char evolution"],
     },
-    imageHint: "Thingvellir National Park moss covered lava fields", image: "/poi-images/iceland-thingvellir-life-v2.webp"},
-  {
+imageHint: "Thingvellir National Park moss covered lava fields",
+    descriptionAdvanced: {
+      de: "Das UNESCO-Welterbe Thingvellir umfasst Birkenwälder und Moore, die auf dem aktiven Grabenbruch zwischen der nordamerikanischen und der eurasischen Kontinentalplatte liegen.",
+      hu: "Az UNESCO világörökségi helyszín nyírfás erdői és lápjai az észak-amerikai és eurázsiai kőzetlemezek közötti aktív tektonikus árokban, vulkáni kőzeten alakultak ki.",
+      ro: "Situl UNESCO Thingvellir protejează păduri de mesteacăn și zone umede situate direct pe falia tectonică activă dintre plăcile nord-americană și eurasiatică.",
+      en: "This UNESCO World Heritage site features birch woodlands and wetlands situated directly on the active tectonic rift between the North American and Eurasian plates.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Nationalparks im Jahr 1930", "UNESCO-Welterbe-Status seit 2004", "Einzige Heimat der vier Unterarten des Wandersaiblings", "Höhe der Almannagjá-Felswand erreicht 30 Meter"],
+      hu: ["A nemzeti parkot 1930-ban alapították", "UNESCO világörökségi státusz 2004 óta", "A sarkvidéki szemling négy különböző alfajának élőhelye", "Az Almannagjá-szurdok falai 30 méter magasak"],
+      ro: ["Parcul Național a fost înființat în anul 1930", "Statut de Patrimoniu UNESCO obținut în 2004", "Adăpostește patru subspecii unice de păstrăv arctic", "Pereții faliei Almannagjá ating 30 de metri înălțime"],
+      en: ["National park established in the year 1930", "UNESCO World Heritage status granted in 2004", "Habitat for four distinct subspecies of Arctic char", "Almannagjá canyon walls reach 30 meters in height"],
+    },
+    image: "/poi-images/iceland-thingvellir-life-v2.webp",
+},  {
     id: "iceland-vatnajokull-life-v2",
     type: "park",
-    name: { de: "Vatnajökull-Nationalpark", hu: "Vatnajökull Nemzeti Park", ro: "Parcul Național Vatnajökull", en: "Vatnajokull National Park" },
+    name: { de: "Vatnajökull-Nationalpark", hu: "Vatnajökull Nemzeti Park", ro: "Parcul Național Vatnajökull", en: "Vatnajokull National Park",
+image: "/poi-images/iceland-vatnajokull-life-v2.webp"
+},
     coords: [-16.9663, 64.0163],
     coordinates: { lat: 64.0163, lng: -16.9663 },
     description: {
@@ -38,11 +55,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Suprafață de 14.141 km²", "Fondat în iunie 2008", "Habitat pentru vulpile polare", "Cel mai mare parc din Islanda"],
       en: ["Area of 14,141 sq km", "Established in June 2008", "Home to Arctic foxes", "Largest national park in Iceland"],
     },
-    imageHint: "Skaftafell birch forest with glacier background", image: "/poi-images/iceland-vatnajokull-life-v2.webp"},
-  {
+imageHint: "Skaftafell birch forest with glacier background",
+    descriptionAdvanced: {
+      de: "Dieser 2008 gegründete Nationalpark schützt eine subarktische Flora und Fauna unter dem Einfluss des größten Gletschers Europas und aktiver subglazialer Vulkane.",
+      hu: "A 2008-ban alapított nemzeti park Európa legnagyobb gleccserének környezetében, aktív szubglaciális vulkánok hatása alatt álló szubarktikus élővilágot védelmez.",
+      ro: "Înființat în 2008, acest parc național protejează flora și fauna subarctice aflate sub influența celui mai mare ghețar din Europa și a vulcanilor subglaciari.",
+      en: "Established in 2008, this national park protects subarctic flora and fauna influenced by Europe's largest glacier and active subglacial volcanic systems.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche von etwa 14.141 Quadratkilometern", "Schutz von Rentierherden im östlichen Hochland", "Höchster Punkt ist der Hvannadalshnúkur mit 2.110 Metern", "UNESCO-Welterbe-Eintragung erfolgte im Jahr 2019"],
+      hu: ["Teljes területe körülbelül 14 141 négyzetkilométer", "Rénszarvascsordák élőhelye a keleti felföldön", "Legmagasabb pontja a 2110 méteres Hvannadalshnúkur", "UNESCO világörökségi helyszín 2019 óta"],
+      ro: ["Suprafață totală de aproximativ 14.141 km pătrați", "Protejează turme de reni în zonele înalte din est", "Cel mai înalt punct este Hvannadalshnúkur la 2.110 metri", "Inclus în Patrimoniul UNESCO în anul 2019"],
+      en: ["Total area of approximately 14,141 square kilometers", "Protects reindeer herds in the eastern highlands", "Highest point is Hvannadalshnúkur at 2,110 meters", "UNESCO World Heritage listing granted in 2019"],
+    },
+    image: "/poi-images/iceland-vatnajokull-life-v2.webp",
+},  {
     id: "iceland-snaefellsjokull-life-v2",
     type: "park",
-    name: { de: "Snæfellsjökull-Nationalpark", hu: "Snæfellsjökull Nemzeti Park", ro: "Parcul Național Snæfellsjökull", en: "Snaefellsjokull National Park" },
+    name: { de: "Snæfellsjökull-Nationalpark", hu: "Snæfellsjökull Nemzeti Park", ro: "Parcul Național Snæfellsjökull", en: "Snaefellsjokull National Park",
+image: "/poi-images/iceland-snaefellsjokull-life-v2.webp"
+},
     coords: [-23.7741, 64.8105],
     coordinates: { lat: 64.8105, lng: -23.7741 },
     description: {
@@ -57,11 +89,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondat în iunie 2001", "Suprafață de 170 km²", "Populații bogate de ferigi", "Observări de balene minke"],
       en: ["Established in June 2001", "Area of 170 sq km", "Rich fern populations", "Minke whale sightings"],
     },
-    imageHint: "Snaefellsjokull National Park coastline with birds", image: "/poi-images/iceland-snaefellsjokull-life-v2.webp"},
-  {
+imageHint: "Snaefellsjokull National Park coastline with birds",
+    descriptionAdvanced: {
+      de: "Der Park erstreckt sich vom Gipfel des Stratovulkans bis zur Küste und beheimatet seltene Moosarten sowie bedeutende Seevogelkolonien auf Lavaklippen.",
+      hu: "A park a sztratovulkán csúcsától a tengerpartig húzódik, ritka mohafajoknak és a lávasziklákon fészkelő jelentős tengerimadár-kolóniáknak adva otthont.",
+      ro: "Parcul se întinde de la vârful stratovulcanului până la coastă, adăpostind specii rare de mușchi și colonii de păsări marine pe stâncile de lavă.",
+      en: "The park extends from the stratovolcano summit to the coast, hosting rare moss species and significant seabird colonies on coastal lava cliffs.",
+    },
+    factsAdvanced: {
+      de: ["Gründung als Nationalpark im Jahr 2001", "Fläche von ca. 170 Quadratkilometern", "Gletschergipfel liegt auf 1.446 Metern Höhe", "Vorkommen von Küstenseeschwalben und Lummen"],
+      hu: ["Nemzeti parkként alapítva 2001-ben", "Területe kb. 170 négyzetkilométer", "A gleccsercsúcs 1446 méter magasan található", "Sarki csérek és lummák fészkelőhelye"],
+      ro: ["Înființat ca parc național în anul 2001", "Suprafață de circa 170 kilometri pătrați", "Vârful glaciar se află la 1.446 metri altitudine", "Prezența rândunicilor de mare și a pinguinilor tăiați"],
+      en: ["Established as a national park in 2001", "Total area of approx. 170 square kilometers", "Glacier summit reaches 1,446 meters in elevation", "Nesting site for Arctic terns and guillemots"],
+    },
+    image: "/poi-images/iceland-snaefellsjokull-life-v2.webp",
+},  {
     id: "iceland-myvatn-bird-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Vogelschutzgebiet Mývatn", hu: "Mývatn-tó madárrezervátum", ro: "Rezervația de păsări Mývatn", en: "Lake Myvatn Bird Reserve" },
+    name: { de: "Vogelschutzgebiet Mývatn", hu: "Mývatn-tó madárrezervátum", ro: "Rezervația de păsări Mývatn", en: "Lake Myvatn Bird Reserve",
+image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp"
+},
     coords: [-16.9961, 65.6039],
     coordinates: { lat: 65.6039, lng: -16.9961 },
     description: {
@@ -76,11 +123,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["15 specii de rațe cuibăresc", "Sit Ramsar din 1977", "Alge Marimo unice", "Zăcământ de diatomit"],
       en: ["15 duck species nest here", "Ramsar site since 1977", "Unique Marimo algae balls", "Source of diatomaceous earth"],
     },
-    imageHint: "Lake Myvatn with ducks and wetlands", image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp"},
-  {
+imageHint: "Lake Myvatn with ducks and wetlands",
+    descriptionAdvanced: {
+      de: "Das Mývatn-Gebiet ist eines der artenreichsten Entenbrutgebiete der Welt, begünstigt durch hohe Nährstoffkonzentrationen und massives Insektenaufkommen.",
+      hu: "A Mývatn vidéke a világ egyik fajgazdagabb kacsa-fészkelőhelye, köszönhetően a magas tápanyagkoncentrációnak és a tömeges rovarvilágnak.",
+      ro: "Zona Mývatn este una dintre cele mai bogate arii de reproducere pentru rațe din lume, favorizată de nutrienți și populații masive de insecte.",
+      en: "The Mývatn area is one of the world's most diverse duck breeding grounds, sustained by high nutrient levels and massive insect populations.",
+    },
+    factsAdvanced: {
+      de: ["Ramsar-Schutzgebiet seit dem Jahr 1978", "Vorkommen von 13 verschiedenen Entenarten", "Fläche des Sees beträgt ca. 37 Quadratkilometer", "Einzige Brutstätte der Spatelente in Europa"],
+      hu: ["Ramsari terület 1978 óta", "13 különböző kacsafaj fészkel itt", "A tó felszíne kb. 37 négyzetkilométer", "Az izlandi kerceréce egyetlen európai költőhelye"],
+      ro: ["Sit Ramsar protejat din anul 1978", "Prezența a 13 specii diferite de rațe", "Suprafața lacului este de circa 37 km pătrați", "Singurul loc de cuibărit pentru rața de Islanda în Europa"],
+      en: ["Ramsar protected wetland since 1978", "Nesting ground for 13 different duck species", "Lake surface area of approx. 37 square kilometers", "Only European breeding site for the Barrow's goldeneye"],
+    },
+    image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp",
+},  {
     id: "iceland-dyrholaey-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Dyrhólaey", hu: "Dyrhólaey Természetvédelmi Terület", ro: "Rezervația Naturală Dyrhólaey", en: "Dyrholaey Nature Reserve" },
+    name: { de: "Naturschutzgebiet Dyrhólaey", hu: "Dyrhólaey Természetvédelmi Terület", ro: "Rezervația Naturală Dyrhólaey", en: "Dyrholaey Nature Reserve",
+image: "/poi-images/iceland-dyrholaey-life-v2.webp"
+},
     coords: [-19.1269, 63.3996],
     coordinates: { lat: 63.3996, lng: -19.1269 },
     description: {
@@ -95,11 +157,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Protejat din 1978", "Loc de cuibărit pentru pufini", "Stâncă înaltă de 120 metri", "Acces restricționat la cuibărit"],
       en: ["Protected since 1978", "Nesting site for puffins", "120-meter high cliff wall", "Restricted access during nesting"],
     },
-    imageHint: "Dyrholaey puffins on green cliffs", image: "/poi-images/iceland-dyrholaey-life-v2.webp"},
-  {
+imageHint: "Dyrholaey puffins on green cliffs",
+    descriptionAdvanced: {
+      de: "Dieses Naturschutzgebiet an der Südküste bietet steile Klippen für Papageitaucher und dient als wichtiger Nistplatz für arktische Seeschwalben.",
+      hu: "Ez a déli parti természetvédelmi terület meredek szikláival a lunda-félék és sarki csérek egyik legfontosabb fészkelőhelye Izlandon.",
+      ro: "Această rezervație naturală de pe coasta de sud oferă faleze abrupte pentru papagalii de mare și este un loc crucial de cuibărit pentru rândunicile arctice.",
+      en: "This south coast nature reserve features steep cliffs for puffins and serves as a critical nesting site for Arctic tern colonies.",
+    },
+    factsAdvanced: {
+      de: ["Unter Naturschutz seit dem Jahr 1978", "Höhe des Felsentors beträgt ca. 120 Meter", "Sperrung während der Brutzeit im Mai und Juni", "Blick auf die Reynisdrangar-Basaltsäulen"],
+      hu: ["Természetvédelmi oltalom alatt 1978 óta", "A sziklakapu magassága kb. 120 méter", "Lezárások a májusi és júniusi költési időszakban", "Kilátás a Reynisdrangar bazaltoszlopaira"],
+      ro: ["Protejată prin lege începând cu anul 1978", "Înălțimea arcadei stâncoase este de circa 120 metri", "Acces restricționat în perioada de cuibărit (mai-iunie)", "Vedere spre coloanele de bazalt Reynisdrangar"],
+      en: ["Protected as a nature reserve since 1978", "Rock arch reaches a height of approx. 120 meters", "Seasonal closures during May and June nesting", "Overlooks the Reynisdrangar basalt sea stacks"],
+    },
+    image: "/poi-images/iceland-dyrholaey-life-v2.webp",
+},  {
     id: "iceland-hornstrandir-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Hornstrandir", hu: "Hornstrandir Természetvédelmi Terület", ro: "Rezervația Naturală Hornstrandir", en: "Hornstrandir Nature Reserve" },
+    name: { de: "Naturschutzgebiet Hornstrandir", hu: "Hornstrandir Természetvédelmi Terület", ro: "Rezervația Naturală Hornstrandir", en: "Hornstrandir Nature Reserve",
+image: "/poi-images/iceland-hornstrandir-life-v2.webp"
+},
     coords: [-22.5, 66.3833],
     coordinates: { lat: 66.3833, lng: -22.5 },
     description: {
@@ -114,11 +191,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Înființată în 1975", "Fără locuitori permanenți", "Vânătoarea de vulpi e interzisă", "Stânci uriașe cu păsări"],
       en: ["Established in 1975", "No permanent residents", "Arctic fox hunting prohibited", "Massive bird cliffs"],
     },
-    imageHint: "Arctic fox in Hornstrandir landscape", image: "/poi-images/iceland-hornstrandir-life-v2.webp"},
-  {
+imageHint: "Arctic fox in Hornstrandir landscape",
+    descriptionAdvanced: {
+      de: "Hornstrandir ist ein isoliertes Refugium für den Polarfuchs und bietet ungestörte Brutplätze für Millionen von Seevögeln auf gewaltigen Kliffs.",
+      hu: "Hornstrandir a sarki róka elszigetelt menedékhelye, ahol hatalmas sziklafalakon millió tengeri madár zavartalan fészkelése biztosított.",
+      ro: "Hornstrandir este un refugiu izolat pentru vulpea arctică, oferind locuri de cuibărit neperturbate pentru milioane de păsări marine pe faleze uriașe.",
+      en: "Hornstrandir is an isolated sanctuary for the Arctic fox, providing undisturbed nesting sites for millions of seabirds on massive cliffs.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzgebiet seit dem Jahr 1975", "Kein Straßennetz innerhalb des Gebiets", "Größte Kolonien von Trottellummen weltweit", "Fläche von etwa 580 Quadratkilometern"],
+      hu: ["Természetvédelmi terület 1975 óta", "A területen nincs kiépített úthálózat", "A világ legnagyobb lumma-kolóniái találhatók itt", "Területe megközelítőleg 580 négyzetkilométer"],
+      ro: ["Rezervație naturală înființată în anul 1975", "Absența totală a rețelei rutiere în zonă", "Găzduiește cele mai mari colonii de alce din lume", "Suprafață de aproximativ 580 km pătrați"],
+      en: ["Protected nature reserve since 1975", "Complete absence of a road network in the area", "Home to the world's largest guillemot colonies", "Total area of approximately 580 square kilometers"],
+    },
+    image: "/poi-images/iceland-hornstrandir-life-v2.webp",
+},  {
     id: "iceland-grimsey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Grímsey", hu: "Grímsey-sziget vadvilága", ro: "Insula Grímsey", en: "Grimsey Island Wildlife" },
+    name: { de: "Insel Grímsey", hu: "Grímsey-sziget vadvilága", ro: "Insula Grímsey", en: "Grimsey Island Wildlife",
+image: "/poi-images/iceland-grimsey-life-v2.webp"
+},
     coords: [-18.0169, 66.5436],
     coordinates: { lat: 66.5436, lng: -18.0169 },
     description: {
@@ -133,11 +225,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Situată pe Cercul Polar", "Peste 30 specii de păsări", "Ecosistem marin bogat", "Important pentru rațe eider"],
       en: ["Located on the Arctic Circle", "Over 30 bird species nest", "Rich marine ecosystem", "Important for eider ducks"],
     },
-    imageHint: "Puffins on Grimsey Island Arctic Circle", image: "/poi-images/iceland-grimsey-life-v2.webp"},
-  {
+imageHint: "Puffins on Grimsey Island Arctic Circle",
+    descriptionAdvanced: {
+      de: "Die Insel Grímsey wird vom Polarkreis durchquert und beherbergt dichte Populationen von Papageitauchern, Tordalken und Eismöwen.",
+      hu: "Grímsey szigetén halad át az északi sarkkör; a terület sűrű lunda-, alka- és jeges sirály populációknak ad otthont a bazaltsziklákon.",
+      ro: "Insula Grímsey este traversată de Cercul Polar și găzduiește populații dense de papagali de mare, alce și pescăruși polari.",
+      en: "Grimsey Island is bisected by the Arctic Circle and hosts dense populations of Atlantic puffins, razorbills, and glaucous gulls.",
+    },
+    factsAdvanced: {
+      de: ["Einzige bewohnte Insel am Polarkreis", "Maximale Höhe von 105 Metern über dem Meer", "Nistplatz für über 36 verschiedene Vogelarten", "Inselgröße beträgt etwa 5,3 Quadratkilometer"],
+      hu: ["Az egyetlen lakott sziget a sarkkörön", "Legmagasabb pontja 105 méterrel a tenger felett", "Több mint 36 madárfaj fészkelőhelye", "A sziget területe kb. 5,3 négyzetkilométer"],
+      ro: ["Singura insulă locuită de pe Cercul Polar", "Înălțime maximă de 105 metri deasupra mării", "Loc de cuibărit pentru peste 36 specii de păsări", "Suprafața insulei este de circa 5,3 km pătrați"],
+      en: ["The only inhabited island on the Arctic Circle", "Maximum elevation of 105 meters above sea level", "Nesting site for over 36 different bird species", "Island area of approx. 5.3 square kilometers"],
+    },
+    image: "/poi-images/iceland-grimsey-life-v2.webp",
+},  {
     id: "iceland-latrabjarg-life-v2",
     type: "wildlife",
-    name: { de: "Vogelklippen Látrabjarg", hu: "Látrabjarg madársziklák", ro: "Stâncile Látrabjarg", en: "Latrabjarg Bird Cliffs" },
+    name: { de: "Vogelklippen Látrabjarg", hu: "Látrabjarg madársziklák", ro: "Stâncile Látrabjarg", en: "Latrabjarg Bird Cliffs",
+image: "/poi-images/iceland-latrabjarg-life-v2.webp"
+},
     coords: [-24.5311, 65.5019],
     coordinates: { lat: 65.5019, lng: -24.5311 },
     description: {
@@ -152,11 +259,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Până la 441 metri înălțime", "Habitat pentru păsări alca", "Cel mai vestic punct islandez", "Cel mai important loc de puiet"],
       en: ["Up to 441 meters high", "Home to auk species", "Westernmost point of Iceland", "World's most vital breeding site"],
     },
-    imageHint: "Latrabjarg cliffs covered in seabirds", image: "/poi-images/iceland-latrabjarg-life-v2.webp"},
-  {
+imageHint: "Latrabjarg cliffs covered in seabirds",
+    descriptionAdvanced: {
+      de: "Látrabjarg ist das größte Vogelkliff Europas und ein kritischer Lebensraum für Tordalken, die hier einen Großteil ihrer Weltpopulation konzentrieren.",
+      hu: "Látrabjarg Európa legnagyobb madársziklája, az alkák kritikus élőhelye, ahol a világpopuláció jelentős része koncentrálódik.",
+      ro: "Látrabjarg este cea mai mare faleză de păsări din Europa și un habitat critic pentru alce, concentrând o mare parte din populația mondială.",
+      en: "Látrabjarg is Europe's largest bird cliff and a critical habitat for razorbills, concentrating a significant portion of their global population.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Klippen beträgt ca. 14 Kilometer", "Maximale Höhe erreicht 441 Meter", "Westlichster Punkt von Island und Europa", "Heimat von Millionen von Papageitauchern"],
+      hu: ["A sziklafal hossza kb. 14 kilométer", "Legmagasabb pontja eléri a 441 métert", "Izland és Európa legnyugatibb pontja", "Lundák millióinak ad otthont"],
+      ro: ["Lungimea falezelor este de circa 14 kilometri", "Înălțimea maximă atinge 441 metri", "Cel mai vestic punct al Islandei și Europei", "Găzduiește milioane de papagali de mare"],
+      en: ["The cliffs span approx. 14 kilometers in length", "Maximum height reaches 441 meters", "Westernmost point of Iceland and Europe", "Home to millions of Atlantic puffins"],
+    },
+    image: "/poi-images/iceland-latrabjarg-life-v2.webp",
+},  {
     id: "iceland-heidmork-life-v2",
     type: "forest",
-    name: { de: "Waldschutzgebiet Heiðmörk", hu: "Heiðmörk erdőrezervátum", ro: "Rezervația Heiðmörk", en: "Heidmork Forest" },
+    name: { de: "Waldschutzgebiet Heiðmörk", hu: "Heiðmörk erdőrezervátum", ro: "Rezervația Heiðmörk", en: "Heidmork Forest",
+image: "/poi-images/iceland-heidmork-life-v2.webp"
+},
     coords: [-21.7667, 64.0667],
     coordinates: { lat: 64.0667, lng: -21.7667 },
     description: {
@@ -171,11 +293,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Împădurită din 1950", "Peste 3200 de hectare", "Loc de cuibărit pentru ploier", "Zonă de protecție a apei"],
       en: ["Afforested since 1950", "Over 3200 hectares", "Golden plover nesting site", "Drinking water protection zone"],
     },
-    imageHint: "Heidmork forest walking paths", image: "/poi-images/iceland-heidmork-life-v2.webp"},
-  {
+imageHint: "Heidmork forest walking paths",
+    descriptionAdvanced: {
+      de: "Heiðmörk ist das wichtigste Aufforstungsgebiet nahe Reykjavík und bietet mit über 26 Baumarten Schutz für zahlreiche Singvögel und kleine Säugetiere.",
+      hu: "Heiðmörk a legfontosabb erdősített terület Reykjavík közelében; több mint 26 fafajával számos énekesmadár és kisemlős menedéke.",
+      ro: "Heiðmörk este cea mai importantă zonă de reîmpădurire de lângă Reykjavík, oferind adăpost pentru păsări cântătoare și mamifere mici.",
+      en: "Heiðmörk is the primary reforestation area near Reykjavík, featuring over 26 tree species that shelter numerous songbirds and small mammals.",
+    },
+    factsAdvanced: {
+      de: ["Ernennung zum Schutzgebiet im Jahr 1950", "Fläche umfasst ca. 3.200 Hektar", "Über 4 Millionen gepflanzte Bäume seit Beginn", "Standort der Rauðhólar-Pseudokrater"],
+      hu: ["Védett területté nyilvánítva 1950-ben", "Területe kb. 3200 hektár", "Kezdetek óta több mint 4 millió fát ültettek", "Itt találhatók a Rauðhólar pszeudokráterek"],
+      ro: ["Desemnată zonă protejată în anul 1950", "Suprafața cuprinde circa 3.200 hectare", "Peste 4 milioane de arbori plantați până prezent", "Locația pseudocraterelor Rauðhólar"],
+      en: ["Designated as a protected area in 1950", "Covers an area of approx. 3,200 hectares", "Over 4 million trees planted since inception", "Location of the Rauðhólar pseudocraters"],
+    },
+    image: "/poi-images/iceland-heidmork-life-v2.webp",
+},  {
     id: "iceland-reykjavik-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Reykjavík", hu: "Reykjavíki Botanikus Kert", ro: "Grădina Botanică Reykjavík", en: "Reykjavik Botanical Garden" },
+    name: { de: "Botanischer Garten Reykjavík", hu: "Reykjavíki Botanikus Kert", ro: "Grădina Botanică Reykjavík", en: "Reykjavik Botanical Garden",
+image: "/poi-images/iceland-reykjavik-botanical-garden-life-v2.webp"
+},
     coords: [-21.8692, 64.1396],
     coordinates: { lat: 64.1396, lng: -21.8692 },
     description: {
@@ -190,11 +327,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondată în anul 1961", "8 colecții diferite", "Protejează plante native", "Focus pe flora montană"],
       en: ["Established in 1961", "8 different collections", "Native plant conservation", "Focus on highland flora"],
     },
-    imageHint: "Reykjavik Botanical Garden flowers", image: "/poi-images/iceland-reykjavik-botanical-garden-life-v2.webp"},
-  {
+imageHint: "Reykjavik Botanical Garden flowers",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Reykjavík bewahrt eine wissenschaftliche Sammlung subarktischer Pflanzen und dient als Genbank für die Flora Islands.",
+      hu: "A Reykjavíki Botanikus Kert a szubarktikus növények tudományos gyűjteményét őrzi, és Izland flórájának génbankjaként szolgál.",
+      ro: "Grădina Botanică din Reykjavík păstrează o colecție științifică de plante subarctice și servește drept bancă de gene pentru flora Islandei.",
+      en: "The Reykjavík Botanical Garden maintains a scientific collection of subarctic plants and serves as a gene bank for Iceland's native flora.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Gartens im Jahr 1961", "Beherbergt ca. 5.000 verschiedene Pflanzenarten", "Spezialisierte Sammlung arktischer Hochlandflora", "Eintritt für Besucher ist ganzjährig frei"],
+      hu: ["A kertet 1961-ben alapították", "Kb. 5000 különböző növényfajnak ad otthont", "Sarkvidéki felföldi flóra speciális gyűjteménye", "A látogatók számára egész évben ingyenes"],
+      ro: ["Înființarea grădinii în anul 1961", "Găzduiește circa 5.000 de specii de plante", "Colecție specializată de floră alpină arctică", "Intrarea pentru vizitatori este gratuită tot anul"],
+      en: ["Garden founded in the year 1961", "Home to approx. 5,000 different plant species", "Specialized collection of Arctic highland flora", "Admission for visitors is free all year round"],
+    },
+    image: "/poi-images/iceland-reykjavik-botanical-garden-life-v2.webp",
+},  {
     id: "iceland-reykjavik-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Reykjavík", hu: "Reykjavíki Állatkert", ro: "Grădina Zoologică Reykjavík", en: "Reykjavik Zoo and Family Park" },
+    name: { de: "Zoo Reykjavík", hu: "Reykjavíki Állatkert", ro: "Grădina Zoologică Reykjavík", en: "Reykjavik Zoo and Family Park",
+image: "/poi-images/iceland-reykjavik-zoo-life-v2.webp"
+},
     coords: [-21.8686, 64.1378],
     coordinates: { lat: 64.1378, lng: -21.8686 },
     description: {
@@ -209,11 +361,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Deschis în mai 1990", "Îngrijește animale rănite", "Rase domestice native", "Țarc pentru reni"],
       en: ["Opened in May 1990", "Cares for injured wildlife", "Native domestic breeds", "Reindeer enclosure on site"],
     },
-    imageHint: "Arctic fox in Reykjavik Zoo", image: "/poi-images/iceland-reykjavik-zoo-life-v2.webp"},
-  {
+imageHint: "Arctic fox in Reykjavik Zoo",
+    descriptionAdvanced: {
+      de: "Dieser Park konzentriert sich auf einheimische Nutztiere und die arktische Tierwelt, darunter Seehunde, Polarfüchse und Rentiere.",
+      hu: "Ez a park a hazai haszonállatokra és az arktikus élővilágra összpontosít, beleértve a fókákat, sarki rókákat és rénszarvasokat.",
+      ro: "Acest parc se concentrează pe animale domestice native și fauna arctică, inclusiv foci, vulpi arctice și reni.",
+      en: "This park focuses on domestic livestock and Arctic wildlife, including harbor seals, Arctic foxes, and Icelandic reindeer.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Parks im Jahr 1990", "Beheimatet alle isländischen Haustierrassen", "Zentrum für die Pflege verletzter Wildtiere", "Besucherzahlen erreichen 200.000 pro Jahr"],
+      hu: ["A park 1990-ben nyitotta meg kapuit", "Minden izlandi háziállatfajta megtalálható", "Sérült vadon élő állatok rehabilitációs központja", "Látogatottsága eléri az évi 200 000 főt"],
+      ro: ["Deschiderea parcului în anul 1990", "Adăpostește toate rasele domestice islandeze", "Centru pentru îngrijirea faunei sălbatice rănite", "Numărul de vizitatori atinge 200.000 pe an"],
+      en: ["Park opened in the year 1990", "Houses all breeds of Icelandic domestic animals", "Center for the rehabilitation of injured wildlife", "Visitor numbers reach 200,000 annually"],
+    },
+    image: "/poi-images/iceland-reykjavik-zoo-life-v2.webp",
+},  {
     id: "iceland-eldey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Eldey", hu: "Eldey szulakolónia", ro: "Insula Eldey", en: "Eldey Gannet Colony" },
+    name: { de: "Insel Eldey", hu: "Eldey szulakolónia", ro: "Insula Eldey", en: "Eldey Gannet Colony",
+image: "/poi-images/iceland-eldey-life-v2.webp"
+},
     coords: [-22.9575, 63.7409],
     coordinates: { lat: 63.7409, lng: -22.9575 },
     description: {
@@ -228,11 +395,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["70.000 de păsări cuibăresc", "Protejată din 1940", "Ultimul loc al marelui pinguin", "Stânci de 77 metri"],
       en: ["70,000 nesting birds", "Protected since 1940", "Last site of the Great Auk", "77-meter high cliffs"],
     },
-    imageHint: "Eldey island rock with gannets", image: "/poi-images/iceland-eldey-life-v2.webp"},
-  {
+imageHint: "Eldey island rock with gannets",
+    descriptionAdvanced: {
+      de: "Eldey ist ein steiler Basaltfelsen, der eine der weltweit größten Kolonien des Basstölpels beherbergt und strengen Schutz genießt.",
+      hu: "Eldey egy meredek bazaltszikla, amely a világ egyik legnagyobb szula-kolóniájának ad otthont, és szigorú védelem alatt áll.",
+      ro: "Eldey este o stâncă abruptă de bazalt care găzduiește una dintre cele mai mari colonii de gâște de mare din lume, fiind strict protejată.",
+      en: "Eldey is a steep basalt rock hosting one of the world's largest northern gannet colonies and is under strict environmental protection.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Felsens beträgt ca. 77 Meter", "Über 70.000 Basstölpel nisten hier jährlich", "Fundort des letzten Riesenalk-Paares (1844)", "Betreten der Insel ist streng untersagt"],
+      hu: ["A szikla magassága kb. 77 méter", "Évente több mint 70 000 szula fészkel itt", "Az utolsó óriásalka-pár lelőhelye (1844)", "A szigetre való belépés szigorúan tilos"],
+      ro: ["Înălțimea stâncii este de circa 77 metri", "Peste 70.000 de gâște de mare cuibăresc anual", "Locul unde a fost văzută ultima pereche de marele alca (1844)", "Accesul pe insulă este strict interzis"],
+      en: ["Rock elevation is approx. 77 meters", "Over 70,000 gannets nest here annually", "Site of the last Great Auk pair sighting (1844)", "Landing on the island is strictly prohibited"],
+    },
+    image: "/poi-images/iceland-eldey-life-v2.webp",
+},  {
     id: "iceland-ingolfshofdi-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Ingólfshöfði", hu: "Ingólfshöfði Természetvédelmi Terület", ro: "Rezervația Ingólfshöfði", en: "Ingolfshofdi Nature Reserve" },
+    name: { de: "Naturschutzgebiet Ingólfshöfði", hu: "Ingólfshöfði Természetvédelmi Terület", ro: "Rezervația Ingólfshöfði", en: "Ingolfshofdi Nature Reserve",
+image: "/poi-images/iceland-ingolfshofdi-life-v2.webp"
+},
     coords: [-16.6508, 63.8053],
     coordinates: { lat: 63.8053, lng: -16.6508 },
     description: {
@@ -247,11 +429,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Accesibil doar cu tractorul", "Rezervație privată", "Zonă de cuibărit vitală", "Loc istoric de debarcare"],
       en: ["Accessible only by tractor", "Private nature reserve", "Vital breeding area", "Historical landing site"],
     },
-    imageHint: "Ingolfshofdi headland with birds", image: "/poi-images/iceland-ingolfshofdi-life-v2.webp"},
-  {
+imageHint: "Ingolfshofdi headland with birds",
+    descriptionAdvanced: {
+      de: "Dieses isolierte Kap wird von riesigen Sandflächen umgeben und bietet ideale Brutbedingungen für Raubmöwen und Papageitaucher.",
+      hu: "Ezt az elszigetelt fokot hatalmas homokos síkságok veszik körül, ideális fészkelőhelyet biztosítva a halfarkasok és lundák számára.",
+      ro: "Acest promontoriu izolat este înconjurat de suprafețe vaste de nisip, oferind condiții ideale de cuibărit pentru lupii de mare și papagalii de mare.",
+      en: "This isolated headland is surrounded by vast tidal sandflats, providing ideal nesting conditions for Great Skuas and Atlantic puffins.",
+    },
+    factsAdvanced: {
+      de: ["Namensgeber war der Siedler Ingólfur Arnarson", "Zugang nur mit speziellen Traktorgespannen", "Wichtiger Nistplatz für die Große Raubmöwe", "Höhe des Kaps beträgt etwa 76 Meter"],
+      hu: ["Névadója Ingólfur Arnarson telepes volt", "Megközelíthető speciális traktoros túrákkal", "A nagy halfarkas fontos fészkelőhelye", "A fok magassága körülbelül 76 méter"],
+      ro: ["Numit după colonistul Ingólfur Arnarson", "Accesibil doar cu vehicule speciale (tractoare)", "Loc important de cuibărit pentru lupul de mare", "Înălțimea promontoriului este de circa 76 metri"],
+      en: ["Named after the first settler Ingólfur Arnarson", "Accessible only via special tractor tours", "Major nesting ground for the Great Skua", "Headland height is approx. 76 meters"],
+    },
+    image: "/poi-images/iceland-ingolfshofdi-life-v2.webp",
+},  {
     id: "iceland-papey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Papey", hu: "Papey-sziget vadvilága", ro: "Insula Papey", en: "Papey Island Wildlife" },
+    name: { de: "Insel Papey", hu: "Papey-sziget vadvilága", ro: "Insula Papey", en: "Papey Island Wildlife",
+image: "/poi-images/iceland-papey-life-v2.webp"
+},
     coords: [-14.1628, 64.5931],
     coordinates: { lat: 64.5931, lng: -14.1628 },
     description: {
@@ -266,11 +463,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Suprafață de circa 2 km²", "Mari colonii de foci", "Sursă de puf de eider", "Nelocuită din 1966"],
       en: ["Roughly 2 sq km in size", "Large seal colonies", "Source of eiderdown", "Uninhabited since 1966"],
     },
-    imageHint: "Papey island coastline with seals", image: "/poi-images/iceland-papey-life-v2.webp"},
-  {
+imageHint: "Papey island coastline with seals",
+    descriptionAdvanced: {
+      de: "Papey war einst von Mönchen bewohnt und ist heute ein Rückzugsort für Tausende von Seevögeln sowie eine wachsende Kegelrobbenkolonie.",
+      hu: "Papey egykor szerzetesek lakhelye volt, ma több ezer tengeri madár és egy növekvő kúpos fóka kolónia menedéke.",
+      ro: "Papey a fost cândva locuită de călugări și este astăzi un refugiu pentru mii de păsări marine și o colonie de foci gri.",
+      en: "Papey was once inhabited by monks and is now a sanctuary for thousands of seabirds and a growing colony of grey seals.",
+    },
+    factsAdvanced: {
+      de: ["Größe der Insel beträgt ca. 2 Quadratkilometer", "Unbewohnt seit dem Jahr 1966", "Älteste Holzkirche Islands befindet sich hier", "Höchster Punkt ist der Hellisbjarg mit 58 Metern"],
+      hu: ["A sziget területe kb. 2 négyzetkilométer", "Lakóitól elhagyatott 1966 óta", "Itt található Izland legöregebb fatemploma", "Legmagasabb pontja az 58 méteres Hellisbjarg"],
+      ro: ["Suprafața insulei este de circa 2 km pătrați", "Nelocuită din anul 1966", "Cea mai veche biserică de lemn din Islanda", "Cel mai înalt punct este Hellisbjarg la 58 metri"],
+      en: ["Island area is approx. 2 square kilometers", "Uninhabited by humans since 1966", "Features the oldest wooden church in Iceland", "Highest point is Hellisbjarg at 58 meters"],
+    },
+    image: "/poi-images/iceland-papey-life-v2.webp",
+},  {
     id: "iceland-flatey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Flatey", hu: "Flatey-sziget biodiverzitása", ro: "Insula Flatey", en: "Flatey Island Biodiversity" },
+    name: { de: "Insel Flatey", hu: "Flatey-sziget biodiverzitása", ro: "Insula Flatey", en: "Flatey Island Biodiversity",
+image: "/poi-images/iceland-flatey-life-v2.webp"
+},
     coords: [-22.9167, 65.375],
     coordinates: { lat: 65.375, lng: -22.9167 },
     description: {
@@ -285,11 +497,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Peste 30 de specii cuibăresc", "Rezervație naturală", "Fără mașini permise", "Locul manuscriselor medievale"],
       en: ["Over 30 nesting bird species", "Nature reserve status", "Car-free island", "Site of medieval manuscripts"],
     },
-    imageHint: "Flatey island birds and meadows", image: "/poi-images/iceland-flatey-life-v2.webp"},
-  {
+imageHint: "Flatey island birds and meadows",
+    descriptionAdvanced: {
+      de: "Flatey ist bekannt für seine reiche Biodiversität, insbesondere für die große Vielfalt an Wattvögeln und die seltene Gryllteiste.",
+      hu: "Flatey gazdag biodiverzitásáról ismert, különösen a gázlómadarak sokfélesége és a ritka fekete lumma állománya miatt.",
+      ro: "Flatey este cunoscută pentru biodiversitatea bogată, în special pentru diversitatea mare de păsări de țărm și alca neagră.",
+      en: "Flatey is renowned for its rich biodiversity, particularly the high variety of wading birds and the rare black guillemot population.",
+    },
+    factsAdvanced: {
+      de: ["Über 35 verschiedene Brutvogelarten", "Standort der ältesten Bibliothek Islands (1833)", "Insel ist ca. 2 Kilometer lang", "Zentrum des mittelalterlichen Flateyjarbók"],
+      hu: ["Több mint 35 különböző fészkelő madárfaj", "Izland legrégebbi könyvtára itt található (1833)", "A sziget kb. 2 kilométer hosszú", "A középkori Flateyjarbók kódex központja"],
+      ro: ["Peste 35 de specii de păsări cuibăritoare", "Cea mai veche bibliotecă din Islanda (1833)", "Insula are o lungime de circa 2 kilometri", "Centrul manuscrisului medieval Flateyjarbók"],
+      en: ["Hosts over 35 different breeding bird species", "Home to Iceland's oldest library (1833)", "The island is approx. 2 kilometers long", "Center of the medieval Flateyjarbók manuscript"],
+    },
+    image: "/poi-images/iceland-flatey-life-v2.webp",
+},  {
     id: "iceland-akureyri-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Akureyri", hu: "Akureyri Botanikus Kert", ro: "Grădina Botanică Akureyri", en: "Akureyri Botanical Garden" },
+    name: { de: "Botanischer Garten Akureyri", hu: "Akureyri Botanikus Kert", ro: "Grădina Botanică Akureyri", en: "Akureyri Botanical Garden",
+image: "/poi-images/iceland-akureyri-botanical-garden-life-v2.webp"
+},
     coords: [-18.0933, 65.6744],
     coordinates: { lat: 65.6744, lng: -18.0933 },
     description: {
@@ -304,11 +531,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondată în anul 1912", "7.000 de specii în colecție", "400 de specii native", "Intrarea este gratuită"],
       en: ["Established in 1912", "7,000 species in collection", "400 native species", "Free admission for all"],
     },
-    imageHint: "Akureyri Botanical Garden flowers and trees", image: "/poi-images/iceland-akureyri-botanical-garden-life-v2.webp"},
-  {
+imageHint: "Akureyri Botanical Garden flowers and trees",
+    descriptionAdvanced: {
+      de: "Dieser nördlichste Botanische Garten der Welt beherbergt eine außergewöhnliche Sammlung von Pflanzen, die trotz der Nähe zum Polarkreis gedeihen.",
+      hu: "A világ egyik legészakibb botanikus kertje különleges növénygyűjteménynek ad otthont, amelyek a sarkkör közelsége ellenére is virulnak.",
+      ro: "Această grădină botanică, printre cele mai nordice din lume, găzduiește o colecție de plante care prosperă lângă Cercul Polar.",
+      en: "This botanical garden, among the northernmost in the world, hosts an extraordinary plant collection thriving near the Arctic Circle.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung als öffentlicher Park im Jahr 1912", "Botanischer Garten offiziell seit 1957", "Beherbergt ca. 430 einheimische Arten", "Gesamtzahl der Arten liegt bei ca. 6.600"],
+      hu: ["Közparkként nyílt meg 1912-ben", "Botanikus kertként hivatalosan 1957 óta", "Kb. 430 őshonos izlandi fajt mutat be", "A fajok száma összesen kb. 6600"],
+      ro: ["Deschis ca parc public în anul 1912", "Grădină botanică oficială din anul 1957", "Adăpostește circa 430 de specii native", "Numărul total de specii este de circa 6.600"],
+      en: ["Opened as a public park in the year 1912", "Official botanical garden since 1957", "Displays approx. 430 native Icelandic species", "Total number of species is around 6,600"],
+    },
+    image: "/poi-images/iceland-akureyri-botanical-garden-life-v2.webp",
+},  {
     id: "iceland-surtsey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Surtsey", hu: "Surtsey-sziget rezervátum", ro: "Insula Surtsey", en: "Surtsey Island Reserve" },
+    name: { de: "Insel Surtsey", hu: "Surtsey-sziget rezervátum", ro: "Insula Surtsey", en: "Surtsey Island Reserve",
+image: "/poi-images/iceland-surtsey-life-v2.webp"
+},
     coords: [-20.6022, 63.3028],
     coordinates: { lat: 63.3028, lng: -20.6022 },
     description: {
@@ -323,11 +565,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Formată între 1963-1967", "Patrimoniu Mondial UNESCO", "Acces strict interzis", "Observarea succesiunii"],
       en: ["Formed 1963-1967", "UNESCO Natural World Heritage", "Strictly forbidden to enter", "Succession study site"],
     },
-    imageHint: "Surtsey island volcanic landscape", image: "/poi-images/iceland-surtsey-life-v2.webp"},
-  {
+imageHint: "Surtsey island volcanic landscape",
+    descriptionAdvanced: {
+      de: "Surtsey dient als lebendes Labor für die Primärsukzession, wo Wissenschaftler die Besiedlung einer neuen Vulkaninsel durch Pflanzen und Tiere beobachten.",
+      hu: "Surtsey az elsődleges szukcesszió élő laboratóriuma, ahol a tudósok egy új vulkáni sziget növények és állatok általi benépesülését vizsgálják.",
+      ro: "Surtsey servește drept laborator viu pentru succesiunea primară, unde cercetătorii observă colonizarea unei noi insule vulcanice.",
+      en: "Surtsey serves as a living laboratory for primary succession, where scientists monitor the colonisation of a new volcanic island by life.",
+    },
+    factsAdvanced: {
+      de: ["Entstehung durch Eruptionen (1963–1967)", "UNESCO-Weltnaturerbe seit dem Jahr 2008", "Über 60 Gefäßpflanzenarten bereits nachgewiesen", "Zutritt nur für autorisierte Forscher gestattet"],
+      hu: ["Vulkáni kitörésekkel jött létre (1963–1967)", "UNESCO természeti világörökség 2008 óta", "Már több mint 60 edényes növényfajt azonosítottak", "Csak engedéllyel rendelkező kutatók léphetnek be"],
+      ro: ["Formată prin erupții vulcanice (1963–1967)", "Patrimoniu Natural UNESCO din anul 2008", "Peste 60 de specii de plante vasculare identificate", "Acces permis exclusiv cercetătorilor autorizați"],
+      en: ["Formed by volcanic eruptions (1963–1967)", "UNESCO World Natural Heritage since 2008", "Over 60 vascular plant species identified", "Access permitted only to authorized researchers"],
+    },
+    image: "/poi-images/iceland-surtsey-life-v2.webp",
+},  {
     id: "iceland-jokulsarlon-life-v2",
     type: "wildlife",
-    name: { de: "Gletscherlagune Jökulsárlón", hu: "Jökulsárlón fókakolónia", ro: "Laguna Jökulsárlón", en: "Jokulsarlon Seal Colony" },
+    name: { de: "Gletscherlagune Jökulsárlón", hu: "Jökulsárlón fókakolónia", ro: "Laguna Jökulsárlón", en: "Jokulsarlon Seal Colony",
+image: "/poi-images/iceland-jokulsarlon-life-v2.webp"
+},
     coords: [-16.1794, 64.0484],
     coordinates: { lat: 64.0484, lng: -16.1794 },
     description: {
@@ -342,11 +599,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Habitat pentru foci", "Loc de cuibărit pentru rândunele", "Zonă de hrănire vitală", "Cel mai adânc lac islandez"],
       en: ["Home to harbor seals", "Arctic tern nesting site", "Vital feeding ground", "Deepest lake in Iceland"],
     },
-    imageHint: "Seals on icebergs in Jokulsarlon", image: "/poi-images/iceland-jokulsarlon-life-v2.webp"},
-  {
+imageHint: "Seals on icebergs in Jokulsarlon",
+    descriptionAdvanced: {
+      de: "Die Gletscherlagune Jökulsárlón ist ein dynamischer Lebensraum für Seehunde, die auf treibenden Eisbergen ruhen und im fischreichen Wasser jagen.",
+      hu: "A Jökulsárlón gleccserlagúna a fókák dinamikus élőhelye, ahol az úszó jégtáblákon pihennek és a halban gazdag vízben vadásznak.",
+      ro: "Laguna glaciară Jökulsárlón este un habitat dinamic pentru foci, care se odihnesc pe aisberguri și vânează în apele bogate în pește.",
+      en: "The Jökulsárlón glacier lagoon is a dynamic habitat for harbor seals, which rest on drifting icebergs and hunt in the nutrient-rich waters.",
+    },
+    factsAdvanced: {
+      de: ["Tiefster See Islands mit ca. 248 Metern", "Fläche hat sich seit 1970 vervierfacht", "Vorkommen von Küstenseeschwalben am Ufer", "Hauptnahrung der Robben ist der Lodden"],
+      hu: ["Izland legmélyebb tava, kb. 248 méter", "Területe 1970 óta a négyszeresére nőtt", "Sarki csérek fészkelnek a part mentén", "A fókák fő tápláléka a kapelán hal"],
+      ro: ["Cel mai adânc lac din Islanda la 248 metri", "Suprafața s-a cvadriplat din anul 1970", "Prezența rândunicilor arctice pe maluri", "Hrana principală a focilor este capelinul"],
+      en: ["Deepest lake in Iceland at approx. 248 meters", "Surface area has quadrupled since 1970", "Arctic terns nest extensively on the shores", "Primary food source for seals is capelin"],
+    },
+    image: "/poi-images/iceland-jokulsarlon-life-v2.webp",
+},  {
     id: "iceland-borgarfjordur-eystri-life-v2",
     type: "wildlife",
-    name: { de: "Borgarfjörður Eystri", hu: "Borgarfjörður Eystri lundák", ro: "Borgarfjörður Eystri", en: "Borgarfjordur Eystri Puffins" },
+    name: { de: "Borgarfjörður Eystri", hu: "Borgarfjörður Eystri lundák", ro: "Borgarfjörður Eystri", en: "Borgarfjordur Eystri Puffins",
+image: "/poi-images/iceland-borgarfjordur-eystri-life-v2.webp"
+},
     coords: [-13.8117, 65.5414],
     coordinates: { lat: 65.5414, lng: -13.8117 },
     description: {
@@ -361,11 +633,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["10.000 de perechi", "Observare din mijlocul lui aprilie", "Marina pufinilor", "Acces sigur pentru turiști"],
       en: ["10,000 breeding pairs", "Observe from mid-April", "Puffin marina area", "Safe access for visitors"],
     },
-    imageHint: "Puffins at Borgarfjordur Eystri marina", image: "/poi-images/iceland-borgarfjordur-eystri-life-v2.webp"},
-  {
+imageHint: "Puffins at Borgarfjordur Eystri marina",
+    descriptionAdvanced: {
+      de: "Hafnarhólmi in Borgarfjörður Eystri gilt als einer der sichersten Orte Islands zur Beobachtung von Papageitauchern aus nächster Nähe.",
+      hu: "A Borgarfjörður Eystri mellett található Hafnarhólmi Izland egyik legbiztonságosabb helye a lundák közeli megfigyelésére.",
+      ro: "Hafnarhólmi din Borgarfjörður Eystri este considerat unul dintre cele mai sigure locuri din Islanda pentru observarea papagalilor de mare.",
+      en: "Hafnarhólmi in Borgarfjörður Eystri is considered one of the safest locations in Iceland to observe Atlantic puffins from close proximity.",
+    },
+    factsAdvanced: {
+      de: ["Ca. 10.000 Brutpaare nisten hier jährlich", "Infrastruktur umfasst hölzerne Beobachtungsstege", "Vorkommen der seltenen Eissturmvögel", "Saison der Papageitaucher: April bis August"],
+      hu: ["Évente kb. 10 000 költőpár fészkel itt", "Fából készült megfigyelő stégek segítik a nézést", "Ritka északi sirályhojszák is előfordulnak", "Lunda-szezon: áprilistól augusztusig tart"],
+      ro: ["Circa 10.000 de perechi cuibăresc anual", "Infrastructură cu platforme de lemn pentru observare", "Prezența furtunarilor ghețari în zonă", "Sezonul papagalilor de mare: aprilie-august"],
+      en: ["Approx. 10,000 breeding pairs nest annually", "Features wooden boardwalks for safe viewing", "Nesting site for the northern fulmar", "Puffin season runs from April to August"],
+    },
+    image: "/poi-images/iceland-borgarfjordur-eystri-life-v2.webp",
+},  {
     id: "iceland-vigur-life-v2",
     type: "wildlife",
-    name: { de: "Insel Vigur", hu: "Vigur-sziget eiderkacsák", ro: "Insula Vigur", en: "Vigur Island Eider Ducks" },
+    name: { de: "Insel Vigur", hu: "Vigur-sziget eiderkacsák", ro: "Insula Vigur", en: "Vigur Island Eider Ducks",
+image: "/poi-images/iceland-vigur-life-v2.webp"
+},
     coords: [-22.8278, 66.0547],
     coordinates: { lat: 66.0547, lng: -22.8278 },
     description: {
@@ -380,11 +667,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Centru de colectare a pufului", "Mii de păsări care cuibăresc", "Mică colonie de foci", "Moară de vânt istorică"],
       en: ["Center of eiderdown production", "Thousands of nesting birds", "Small seal colony", "Historical windmill site"],
     },
-    imageHint: "Vigur island with eider ducks", image: "/poi-images/iceland-vigur-life-v2.webp"},
-  {
+imageHint: "Vigur island with eider ducks",
+    descriptionAdvanced: {
+      de: "Vigur ist berühmt für die traditionelle Eiderdaunenernte und beherbergt eine außergewöhnliche Dichte an Küstenseeschwalben und Gryllteisten.",
+      hu: "Vigur híres a hagyományos pehelyréce-toll gyűjtésről, valamint a sarki csérek és fekete lummák rendkívüli sűrűségéről.",
+      ro: "Vigur este celebră pentru recoltarea tradițională a pufului de eider și găzduiește o densitate mare de rândunici arctice.",
+      en: "Vigur is famous for traditional eiderdown harvesting and hosts an exceptional density of Arctic terns and black guillemots.",
+    },
+    factsAdvanced: {
+      de: ["Über 3.500 Eiderenten-Nester auf der Insel", "Standort der einzigen Windmühle Islands (1840)", "Kleinstes Postamt des Landes befindet sich hier", "Insel ist ca. 2 Kilometer lang"],
+      hu: ["Több mint 3500 pehelyréce fészek a szigeten", "Itt áll Izland egyetlen szélmalma (1840)", "Az ország legkisebb postahivatala itt üzemel", "A sziget hossza körülbelül 2 kilométer"],
+      ro: ["Peste 3.500 de cuiburi de eider pe insulă", "Locația singurei mori de vânt din Islanda (1840)", "Găzduiește cel mai mic oficiu poștal din țară", "Lungimea insulei este de circa 2 kilometri"],
+      en: ["Over 3,500 eider duck nests on the island", "Home to Iceland's only windmill (built 1840)", "Features the smallest post office in the country", "The island is approx. 2 kilometers long"],
+    },
+    image: "/poi-images/iceland-vigur-life-v2.webp",
+},  {
     id: "iceland-asbyrgi-life-v2",
     type: "forest",
-    name: { de: "Ásbyrgi-Schlucht", hu: "Ásbyrgi kanyon erdősége", ro: "Canionul Ásbyrgi", en: "Asbyrgi Canyon Forest" },
+    name: { de: "Ásbyrgi-Schlucht", hu: "Ásbyrgi kanyon erdősége", ro: "Canionul Ásbyrgi", en: "Asbyrgi Canyon Forest",
+image: "/poi-images/iceland-asbyrgi-life-v2.webp"
+},
     coords: [-16.5122, 66.0153],
     coordinates: { lat: 66.0153, lng: -16.5122 },
     description: {
@@ -399,11 +701,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Parte din parcul Vatnajökull", "Habitat pentru păsări de pădure", "Microfloră unică", "Formă de potcoavă"],
       en: ["Part of Vatnajokull Park", "Home to woodland birds", "Unique microflora", "Horseshoe-shaped cliffs"],
     },
-    imageHint: "Asbyrgi canyon birch forest", image: "/poi-images/iceland-asbyrgi-life-v2.webp"},
-  {
+imageHint: "Asbyrgi canyon birch forest",
+    descriptionAdvanced: {
+      de: "Die hufeisenförmige Schlucht Ásbyrgi beherbergt einen dichten Birkenwald, der in der windgeschützten Lage unter den 100 Meter hohen Wänden gedeiht.",
+      hu: "Az Ásbyrgi patkó alakú kanyonja sűrű nyírerdőnek ad otthont, amely a 100 méter magas falak szélvédett tövében burjánzik.",
+      ro: "Canionul Ásbyrgi în formă de potcoavă adăpostește o pădure densă de mesteacăn, protejată de vânt de pereții de 100 metri înălțime.",
+      en: "The horseshoe-shaped Ásbyrgi canyon hosts a dense birch forest thriving in the shelter of its 100-meter-high vertical walls.",
+    },
+    factsAdvanced: {
+      de: ["Entstehung durch gigantische Jökulhlaups", "Länge der Schlucht beträgt ca. 3,5 Kilometer", "Breite erreicht an der Öffnung 1,1 Kilometer", "Zentrum des Nationalparks Jökulsárgljúfur"],
+      hu: ["Hatalmas gleccsermegfutások (jökulhlaup) hozták létre", "A kanyon hossza körülbelül 3,5 kilométer", "Szélessége a nyílásnál eléri az 1,1 kilométert", "A Jökulsárgljúfur Nemzeti Park központja"],
+      ro: ["Format de inundații glaciare gigantice (jökulhlaups)", "Lungimea canionului este de circa 3,5 kilometri", "Lățimea la deschidere atinge 1,1 kilometri", "Centrul Parcului Național Jökulsárgljúfur"],
+      en: ["Created by cataclysmic glacial floods (jökulhlaups)", "Canyon length is approx. 3.5 kilometers", "Width at the opening reaches 1.1 kilometers", "Part of the Jökulsárgljúfur National Park sector"],
+    },
+    image: "/poi-images/iceland-asbyrgi-life-v2.webp",
+},  {
     id: "iceland-hrisey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Hrísey", hu: "Hrísey-sziget madárrezervátum", ro: "Insula Hrísey", en: "Hrisey Island Bird Reserve" },
+    name: { de: "Insel Hrísey", hu: "Hrísey-sziget madárrezervátum", ro: "Insula Hrísey", en: "Hrisey Island Bird Reserve",
+image: "/poi-images/iceland-hrisey-life-v2.webp"
+},
     coords: [-18.3844, 65.9967],
     coordinates: { lat: 65.9967, lng: -18.3844 },
     description: {
@@ -418,11 +735,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["A doua insulă ca mărime", "Fără prădători naturali", "Trasee prin zone de tundră", "Bogată în potârnichi"],
       en: ["Second largest island in Iceland", "No natural predators", "Hiking trails through heathland", "Rich ptarmigan population"],
     },
-    imageHint: "Ptarmigan on Hrisey island", image: "/poi-images/iceland-hrisey-life-v2.webp"},
-  {
+imageHint: "Ptarmigan on Hrisey island",
+    descriptionAdvanced: {
+      de: "Hrísey, die 'Perle des Eyjafjörður', ist ein Vogelschutzgebiet, das für seine großen und furchtlosen Populationen von Moorschneehühnern bekannt ist.",
+      hu: "Hrísey, az 'Eyjafjörður gyöngyszeme', egy madárrezervátum, amely a hófajdok nagy és szelíd populációjáról nevezetes.",
+      ro: "Hrísey, supranumită 'perla Eyjafjörður', este o rezervație de păsări cunoscută pentru populațiile mari și blânde de potârnichi de zăpadă.",
+      en: "Hrísey, the 'Pearl of Eyjafjörður', is a bird sanctuary famous for its large and unafraid populations of rock ptarmigan.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte Insel vor der Küste Islands", "Vollständiges Jagdverbot für alle Vogelarten", "Inselgröße beträgt ca. 7,7 Quadratkilometer", "Vorkommen von über 40 Brutvogelarten"],
+      hu: ["Izland második legnagyobb part menti szigete", "Teljes vadászati tilalom minden madárfajra", "A sziget területe kb. 7,7 négyzetkilométer", "Több mint 40 fészkelő madárfaj él itt"],
+      ro: ["A doua cea mai mare insulă de coastă a Islandei", "Interdicție totală de vânătoare pentru păsări", "Suprafața insulei este de circa 7,7 km pătrați", "Prezența a peste 40 de specii de păsări cuibăritoare"],
+      en: ["Second largest offshore island of Iceland", "Complete hunting ban on all bird species", "Island area is approx. 7.7 square kilometers", "Home to over 40 species of breeding birds"],
+    },
+    image: "/poi-images/iceland-hrisey-life-v2.webp",
+},  {
     id: "iceland-tjornin-life-v2",
     type: "lake",
-    name: { de: "Tjörnin See", hu: "Tjörnin-tó madárvilága", ro: "Lacul Tjörnin", en: "Tjornin Lake Birdlife" },
+    name: { de: "Tjörnin See", hu: "Tjörnin-tó madárvilága", ro: "Lacul Tjörnin", en: "Tjornin Lake Birdlife",
+image: "/poi-images/iceland-tjornin-life-v2.webp"
+},
     coords: [-21.9425, 64.1444],
     coordinates: { lat: 64.1444, lng: -21.9425 },
     description: {
@@ -437,11 +769,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Peste 40 specii observate", "Loc popular pentru hrănit rațe", "Încălzit parțial iarna", "Căsuțe pentru păsări pe mal"],
       en: ["Over 40 bird species seen", "Popular duck feeding spot", "Partially heated in winter", "Bird houses along the shore"],
     },
-    imageHint: "Swans and ducks on Tjornin lake", image: "/poi-images/iceland-tjornin-life-v2.webp"},
-  {
+imageHint: "Swans and ducks on Tjornin lake",
+    descriptionAdvanced: {
+      de: "Der Tjörnin-See im Herzen von Reykjavík ist ein wichtiger innerstädtischer Lebensraum für Gänse, Enten und Schwäne während des ganzen Jahres.",
+      hu: "A Reykjavík szívében található Tjörnin-tó fontos városi élőhely a ludak, kacsák és hattyúk számára az év minden szakában.",
+      ro: "Lacul Tjörnin din inima orașului Reykjavík este un habitat urban crucial pentru gâște, rațe și lebede pe tot parcursul anului.",
+      en: "Tjörnin Lake in the heart of Reykjavík is a vital urban habitat for geese, ducks, and swans throughout all seasons of the year.",
+    },
+    factsAdvanced: {
+      de: ["Vorkommen von über 40 verschiedenen Vogelarten", "Teilweise Beheizung mit Thermalwasser im Winter", "Umgeben von Parks und dem Rathaus", "Wichtiger Rastplatz für die Graugans"],
+      hu: ["Több mint 40 különböző madárfaj fordul elő", "Télen termálvízzel fűtik egy részét a befagyás ellen", "Parkok és a Városháza veszik körül", "A nyári lúd fontos pihenőhelye"],
+      ro: ["Prezența a peste 40 de specii de păsări", "Încălzit parțial cu apă termală pe timp de iarnă", "Înconjurat de parcuri și Primăria capitalei", "Loc important de popas pentru gâsca de vară"],
+      en: ["Over 40 different bird species recorded here", "Partially heated with thermal water in winter", "Surrounded by public parks and City Hall", "Major resting site for the greylag goose"],
+    },
+    image: "/poi-images/iceland-tjornin-life-v2.webp",
+},  {
     id: "iceland-thjorsarver-life-v2",
     type: "wildlife",
-    name: { de: "Feuchtgebiet Þjórsárver", hu: "Þjórsárver mocsárvidék", ro: "Zona umedă Þjórsárver", en: "Thjorsarver Wetlands" },
+    name: { de: "Feuchtgebiet Þjórsárver", hu: "Þjórsárver mocsárvidék", ro: "Zona umedă Þjórsárver", en: "Thjorsarver Wetlands",
+image: "/poi-images/iceland-thjorsarver-life-v2.webp"
+},
     coords: [-18.75, 64.6],
     coordinates: { lat: 64.6, lng: -18.75 },
     description: {
@@ -456,11 +803,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Sit Ramsar", "Loc crucial de cuibărit gâște", "Plante montane rare", "Zonă protejată riguros"],
       en: ["Ramsar site since 1990", "Main pink-footed goose site", "Rare highland flora", "Strictly protected area"],
     },
-    imageHint: "Thjorsarver highland wetland tundra", image: "/poi-images/iceland-thjorsarver-life-v2.webp"},
-  {
+imageHint: "Thjorsarver highland wetland tundra",
+    descriptionAdvanced: {
+      de: "Thjórsárver ist eine ausgedehnte Oase im zentralen Hochland und gilt als weltweit wichtigstes Brutgebiet für die Kurzschnabelgans.",
+      hu: "Thjórsárver egy kiterjedt oázis a központi felföldön, amely a rövidcsőrű lúd világviszonylatban legfontosabb fészkelőhelye.",
+      ro: "Thjórsárver este o oază vastă în zona muntoasă centrală, fiind cea mai importantă arie de cuibărit din lume pentru gâsca cu cioc scurt.",
+      en: "Thjórsárver is an expansive oasis in the central highlands, serving as the world's most critical breeding ground for the pink-footed goose.",
+    },
+    factsAdvanced: {
+      de: ["Ramsar-Schutzgebiet seit dem Jahr 1990", "Höhe von ca. 600 Metern über dem Meer", "Größtes zusammenhängendes Sumpfgebiet im Hochland", "Fläche umfasst etwa 120 Quadratkilometer"],
+      hu: ["Ramsari terület 1990 óta", "Kb. 600 méteres tengerszint feletti magasság", "A felföld legnagyobb összefüggő mocsárvidéke", "Területe megközelítőleg 120 négyzetkilométer"],
+      ro: ["Sit Ramsar protejat din anul 1990", "Altitudine de circa 600 metri deasupra mării", "Cea mai mare zonă mlăștinoasă din podiș", "Suprafață de aproximativ 120 km pătrați"],
+      en: ["Ramsar protected wetland since 1990", "Elevation of approx. 600 meters above sea level", "Largest contiguous marshland in the highlands", "Area covers approximately 120 square kilometers"],
+    },
+    image: "/poi-images/iceland-thjorsarver-life-v2.webp",
+},  {
     id: "iceland-grunnafjordur-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Grunnafjörður", hu: "Grunnafjörður vizes élőhely", ro: "Rezervația Grunnafjörður", en: "Grunnafjordur Wetland Reserve" },
+    name: { de: "Naturschutzgebiet Grunnafjörður", hu: "Grunnafjörður vizes élőhely", ro: "Rezervația Grunnafjörður", en: "Grunnafjordur Wetland Reserve",
+image: "/poi-images/iceland-grunnafjordur-life-v2.webp"
+},
     coords: [-21.9167, 64.3833],
     coordinates: { lat: 64.3833, lng: -21.9167 },
     description: {
@@ -475,11 +837,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Sit Ramsar din 1996", "Vital pentru gâsca neagră", "Faună bogată de mâl", "Situat la sud de Akranes"],
       en: ["Ramsar site since 1996", "Vital for brent geese", "Rich mudflat invertebrate life", "Located south of Akranes"],
     },
-    imageHint: "Grunnafjordur estuary with migratory birds", image: "/poi-images/iceland-grunnafjordur-life-v2.webp"},
-  {
+imageHint: "Grunnafjordur estuary with migratory birds",
+    descriptionAdvanced: {
+      de: "Dieses Feuchtgebiet ist ein international bedeutender Rastplatz für Ringelgänse und andere Zugvögel auf ihrem Weg zwischen Europa und der Arktis.",
+      hu: "Ez a vizes élőhely nemzetközi jelentőségű pihenőhely az örvös ludak és más vándormadarak számára Európa és az Arktisz között.",
+      ro: "Această zonă umedă este un loc de popas de importanță internațională pentru gâștele canadiene și alte păsări migratoare.",
+      en: "This wetland is an internationally significant staging area for brent geese and other migratory birds traveling between Europe and the Arctic.",
+    },
+    factsAdvanced: {
+      de: ["Ramsar-Gebiet seit dem Jahr 1996", "Wichtigster Rastplatz für Ringelgänse in Island", "Fläche von ca. 1.470 Hektar", "Schutz von Wattflächen und Salzwiesen"],
+      hu: ["Ramsari terület 1996 óta", "Az örvös ludak legfontosabb pihenőhelye Izlandon", "Területe kb. 1470 hektár", "Árapálysíkságok és sós mocsarak védelme"],
+      ro: ["Sit Ramsar desemnat în anul 1996", "Cel mai important popas pentru gâștele brent", "Suprafață de circa 1.470 hectare", "Protejează zonele de maree și mlaștinile sărate"],
+      en: ["Ramsar site designated in the year 1996", "Most important staging area for brent geese", "Total area of approx. 1,470 hectares", "Protects tidal flats and salt marshes"],
+    },
+    image: "/poi-images/iceland-grunnafjordur-life-v2.webp",
+},  {
     id: "iceland-herdubreidarlindir-life-v2",
     type: "wildlife",
-    name: { de: "Herðubreiðarlindir Oase", hu: "Herðubreiðarlindir oázis", ro: "Oaza Herðubreiðarlindir", en: "Herdubreidarlindir Oasis" },
+    name: { de: "Herðubreiðarlindir Oase", hu: "Herðubreiðarlindir oázis", ro: "Oaza Herðubreiðarlindir", en: "Herdubreidarlindir Oasis",
+image: "/poi-images/iceland-herdubreidarlindir-life-v2.webp"
+},
     coords: [-16.2208, 65.1911],
     coordinates: { lat: 65.1911, lng: -16.2208 },
     description: {
@@ -494,11 +871,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Izvoare de apă în deșert", "Habitat pentru vulpi polare", "Bogată în păsări montane", "Rezervație naturală"],
       en: ["Freshwater springs in desert", "Home to Arctic foxes", "Rich highland birdlife", "Nature reserve status"],
     },
-    imageHint: "Herdubreidarlindir oasis with green plants", image: "/poi-images/iceland-herdubreidarlindir-life-v2.webp"},
-  {
+imageHint: "Herdubreidarlindir oasis with green plants",
+    descriptionAdvanced: {
+      de: "Diese Hochlandoase am Fuße des Herðubreið bietet dank zahlreicher Quellen eine reiche Flora und ist ein wichtiger Nistplatz für Kurzschnabelgänse.",
+      hu: "Ez a felföldi oázis a Herðubreið lábánál számos forrásának köszönhetően gazdag flórával bír, és a rövidcsőrű ludak fontos fészkelőhelye.",
+      ro: "Această oază montană de la poalele Herðubreið oferă o floră bogată datorită izvoarelor și este un loc de cuibărit pentru gâște.",
+      en: "This highland oasis at the base of Herðubreið features rich flora sustained by freshwater springs and is a major pink-footed goose nesting site.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Vatnajökull-Nationalparks", "Standort der 'Hütte' des Outlaws Fjalla-Eyvindur", "Vorkommen von seltenen arktischen Blumenarten", "Höhe von ca. 450 Metern über dem Meer"],
+      hu: ["A Vatnajökull Nemzeti Park része", "Itt található Fjalla-Eyvindur törvényen kívüli 'kunyhója'", "Ritka sarkvidéki virágfajok lelőhelye", "Kb. 450 méteres tengerszint feletti magasság"],
+      ro: ["Parte a Parcului Național Vatnajökull", "Locația adăpostului fugarului Fjalla-Eyvindur", "Prezența unor specii rare de flori arctice", "Altitudine de circa 450 metri deasupra mării"],
+      en: ["Part of the Vatnajökull National Park", "Site of the outlaw Fjalla-Eyvindur's shelter", "Home to rare Arctic wildflower species", "Elevation of approx. 450 meters above sea level"],
+    },
+    image: "/poi-images/iceland-herdubreidarlindir-life-v2.webp",
+},  {
     id: "iceland-skrudur-life-v2",
     type: "park",
-    name: { de: "Skrúður Botanischer Garten", hu: "Skrúður botanikus kert", ro: "Grădina Botanică Skrúður", en: "Skrudur Botanical Garden" },
+    name: { de: "Skrúður Botanischer Garten", hu: "Skrúður botanikus kert", ro: "Grădina Botanică Skrúður", en: "Skrudur Botanical Garden",
+image: "/poi-images/iceland-skrudur-life-v2.webp"
+},
     coords: [-23.5972, 65.9222],
     coordinates: { lat: 65.9222, lng: -23.5972 },
     description: {
@@ -513,11 +905,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondată în anul 1909", "Pionier în silvicultură", "Premiată internațional", "Livadă istorică"],
       en: ["Established in 1909", "Forestry pioneer site", "International award winner", "Historic fruit garden"],
     },
-    imageHint: "Skrudur botanical garden in Westfjords", image: "/poi-images/iceland-skrudur-life-v2.webp"},
-  {
+imageHint: "Skrudur botanical garden in Westfjords",
+    descriptionAdvanced: {
+      de: "Skrúður ist Islands ältester Botanischer Garten, der 1909 gegründet wurde, um den Gemüseanbau und die Akklimatisierung von Bäumen im hohen Norden zu erproben.",
+      hu: "Skrúður Izland legidősebb botanikus kertje, amelyet 1909-ben alapítottak a zöldségtermesztés és a faültetés északi lehetőségeinek tesztelésére.",
+      ro: "Skrúður este cea mai veche grădină botanică din Islanda, fondată în 1909 pentru a testa cultivarea legumelor și aclimatizarea arborilor.",
+      en: "Skrúður is Iceland's oldest botanical garden, founded in 1909 to pioneer vegetable cultivation and tree acclimatization in the far north.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch den Lehrer Sigtryggur Guðlaugsson", "Gewinner des Internationalen Carlo Scarpa Preises 2013", "Befindet sich im Dýrafjörður in den Westfjorden", "Eingangsbogen besteht aus Walkieferknochen"],
+      hu: ["Sigtryggur Guðlaugsson tanító alapította", "2013-ban elnyerte a nemzetközi Carlo Scarpa-díjat", "A Westfjords régióban, Dýrafjörður-nél található", "Bejárati íve bálna állkapocscsontból készült"],
+      ro: ["Fondată de învățătorul Sigtryggur Guðlaugsson", "Câștigătoare a premiului Carlo Scarpa în 2013", "Situată în Dýrafjörður, în regiunea Westfjords", "Arcul de la intrare este din oase de balenă"],
+      en: ["Founded by schoolteacher Sigtryggur Guðlaugsson", "Awarded the International Carlo Scarpa Prize in 2013", "Located in Dýrafjörður within the Westfjords", "Entrance arch is made from whale jawbones"],
+    },
+    image: "/poi-images/iceland-skrudur-life-v2.webp",
+},  {
     id: "iceland-hunafjordur-life-v2",
     type: "wildlife",
-    name: { de: "Húnafjörður Seehundkolonie", hu: "Húnafjörður fókaélőhely", ro: "Colonia de foci Húnafjörður", en: "Hunafjordur Seal Habitat" },
+    name: { de: "Húnafjörður Seehundkolonie", hu: "Húnafjörður fókaélőhely", ro: "Colonia de foci Húnafjörður", en: "Hunafjordur Seal Habitat",
+image: "/poi-images/iceland-hunafjordur-life-v2.webp"
+},
     coords: [-20.3333, 65.6167],
     coordinates: { lat: 65.6167, lng: -20.3333 },
     description: {
@@ -532,11 +939,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Populație mare de foci", "Lângă Centrul Islandez al Focii", "Ecosistem costier vital", "Puncte de observare amenajate"],
       en: ["Large harbor seal population", "Near the Icelandic Seal Center", "Vital coastal ecosystem", "Designated viewing points"],
     },
-    imageHint: "Seals on rocks in Hunafjordur", image: "/poi-images/iceland-hunafjordur-life-v2.webp"},
-  {
+imageHint: "Seals on rocks in Hunafjordur",
+    descriptionAdvanced: {
+      de: "Húnafjörður ist ein bedeutendes Habitat für Seehunde, die die Sandbänke der Halbinsel Vatnsnes als Ruheplätze und zur Aufzucht ihrer Jungen nutzen.",
+      hu: "Húnafjörður a fókák jelentős élőhelye, akik a Vatnsnes-félsziget homokpadjait használják pihenőhelyként és borjaik nevelésére.",
+      ro: "Húnafjörður este un habitat major pentru foci, care folosesc bancurile de nisip din peninsula Vatnsnes pentru odihnă și reproducere.",
+      en: "Húnafjörður is a major seal habitat, where harbor seals utilize the sandbanks of the Vatnsnes peninsula for hauling out and pupping.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Isländischen Seehundzentrums (Hvammstangi)", "Beste Beobachtungszeit ist bei Ebbe", "Vorkommen der Seehund- und Kegelrobbenarten", "Nähe zum markanten Hvítserkur-Felsen"],
+      hu: ["Az Izlandi Fókaközpont (Hvammstangi) közelében", "A megfigyelésre a legjobb időpont az apály", "Borjúfókák és kúpos fókák egyaránt láthatók", "A jellegzetes Hvítserkur-szikla közelében"],
+      ro: ["Locația Centrului Islandez pentru Foci (Hvammstangi)", "Cel mai bun moment de observare este la reflux", "Prezența focilor comune și a focilor gri", "Aproape de celebra stâncă Hvítserkur"],
+      en: ["Home to the Icelandic Seal Center in Hvammstangi", "Best viewing times occur during low tide", "Populated by both harbor and grey seal species", "Located near the iconic Hvítserkur sea stack"],
+    },
+    image: "/poi-images/iceland-hunafjordur-life-v2.webp",
+},  {
     id: "iceland-drangey-life-v2",
     type: "wildlife",
-    name: { de: "Insel Drangey", hu: "Drangey-sziget madárvilága", ro: "Insula Drangey", en: "Drangey Island Birdlife" },
+    name: { de: "Insel Drangey", hu: "Drangey-sziget madárvilága", ro: "Insula Drangey", en: "Drangey Island Birdlife",
+image: "/poi-images/iceland-drangey-life-v2.webp"
+},
     coords: [-19.6861, 65.9472],
     coordinates: { lat: 65.9472, lng: -19.6861 },
     description: {
@@ -551,11 +973,26 @@ export const icelandLifeV2: POI[] = [
       ro: ["Stânci abrupte de 180m", "Loc important de colectat ouă", "Viață aviară marină bogată", "Loc de cuibărit pentru șoimi"],
       en: ["Steep 180m high cliffs", "Traditional egg-collecting site", "Rich marine birdlife", "Falcon nesting site"],
     },
-    imageHint: "Drangey island steep cliffs with birds", image: "/poi-images/iceland-drangey-life-v2.webp"},
-  {
+imageHint: "Drangey island steep cliffs with birds",
+    descriptionAdvanced: {
+      de: "Die steile Insel Drangey im Skagafjörður ist eine Festung der Seevögel, die Millionen von Papageitauchern und Lummen sichere Nistplätze bietet.",
+      hu: "A Skagafjörður-ben található meredek Drangey-sziget a tengeri madarak erődítménye, lundák és lummák millióinak adva biztos fészkelőhelyet.",
+      ro: "Insula abruptă Drangey din Skagafjörður este o fortăreață a păsărilor marine, oferind cuibărit pentru milioane de papagali de mare.",
+      en: "The steep Drangey Island in Skagafjörður is a seabird fortress, providing secure nesting sites for millions of Atlantic puffins and guillemots.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Insel beträgt ca. 180 Meter", "Bekannt aus der Grettis-Saga (Exil des Grettir)", "Nur über einen schmalen, steilen Pfad erreichbar", "Nistplatz für den seltenen Gerfalken"],
+      hu: ["A sziget magassága kb. 180 méter", "A Grettis-saga fontos helyszíne (Grettir száműzetése)", "Csak egy keskeny, meredek ösvényen érhető el", "A ritka északi sólyom fészkelőhelye"],
+      ro: ["Înălțimea insulei este de circa 180 metri", "Cunoscută din Saga lui Grettir (exilul eroului)", "Accesibilă doar printr-o potecă îngustă și abruptă", "Loc de cuibărit pentru șoimul ghețurilor"],
+      en: ["Island elevation is approx. 180 meters", "Famed location from Grettis Saga (Grettir's exile)", "Accessible only via a narrow, steep path", "Nesting site for the rare gyrfalcon"],
+    },
+    image: "/poi-images/iceland-drangey-life-v2.webp",
+},  {
     id: "iceland-heimaey-life-v2",
     type: "wildlife",
-    name: { de: "Heimaey Papageitaucher-Kolonie", hu: "Heimaey lundakolónia", ro: "Colonia de pufini Heimaey", en: "Heimaey Puffin Colony" },
+    name: { de: "Heimaey Papageitaucher-Kolonie", hu: "Heimaey lundakolónia", ro: "Colonia de pufini Heimaey", en: "Heimaey Puffin Colony",
+image: "/poi-images/iceland-heimaey-life-v2.webp"
+},
     coords: [-20.2711, 63.4392],
     coordinates: { lat: 63.4392, lng: -20.2711 },
     description: {
@@ -571,5 +1008,17 @@ export const icelandLifeV2: POI[] = [
       en: ["World's largest puffin colony", "8 million birds in summer", "Puffin rescue tradition in August", "Volcanic nesting soil"],
     },
     imageHint: "Heimaey cliffs with many puffins",
+    descriptionAdvanced: {
+      de: "Heimaey beherbergt die weltweit größte Papageitaucher-Kolonie und zeigt eine bemerkenswerte ökologische Erholung nach dem Vulkanausbruch von 1973.",
+      hu: "Heimaey a világ legnagyobb lunda-kolóniájának ad otthont, és figyelemre méltó ökológiai regenerációt mutat az 1973-as vulkánkitörés után.",
+      ro: "Heimaey găzduiește cea mai mare colonie de papagali de mare din lume și prezintă o recuperare ecologică după erupția din 1973.",
+      en: "Heimaey hosts the world's largest Atlantic puffin colony and demonstrates remarkable ecological recovery following the 1973 volcanic eruption.",
+    },
+    factsAdvanced: {
+      de: ["Über 8 Millionen Papageitaucher nisten hier", "Größte Insel des Westman-Archipels", "Jährliche Rettungsaktion für Jungvögel (Pysjutími)", "Fläche der Insel beträgt ca. 13,4 Quadratkilometer"],
+      hu: ["Több mint 8 millió lunda fészkel itt", "A Westman-szigetek legnagyobb tagja", "Évente lundafióka-mentési akciót tartanak (Pysjutími)", "A sziget területe kb. 13,4 négyzetkilométer"],
+      ro: ["Peste 8 milioane de papagali de mare cuibăresc aici", "Cea mai mare insulă din arhipelagul Westman", "Campanie anuală de salvare a puilor (Pysjutími)", "Suprafața insulei este de circa 13,4 km pătrați"],
+      en: ["Over 8 million Atlantic puffins nest here", "Largest island in the Westman archipelago", "Annual puffling rescue tradition (Pysjutími)", "Island area is approx. 13.4 square kilometers"],
+    },
   }
 ];

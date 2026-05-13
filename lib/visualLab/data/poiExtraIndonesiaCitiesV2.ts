@@ -12,7 +12,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Bandung",
       ro: "Bandung",
       en: "Bandung",
-    },
+image: "/poi-images/bandung-cities-v2.webp"
+},
     description: {
       de: "Bandung ist die Hauptstadt der Provinz West-Java und bekannt für ihre Universitäten, Textilindustrie und eine lebendige kulinarische Szene.",
       hu: "Bandung Nyugat-Jáva tartomány fővárosa, egyetemeiről, textiliparáról és élénk kulináris életéről ismert.",
@@ -68,7 +69,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Surabaya",
       ro: "Surabaya",
       en: "Surabaya",
-    },
+image: "/poi-images/surabaya-cities-v2.webp"
+},
     description: {
       de: "Surabaya ist die Hauptstadt von Ost-Java und die zweitgrößte Stadt Indonesiens. Sie ist ein wichtiger Hafen und ein Handelszentrum.",
       hu: "Surabaya Kelet-Jáva fővárosa és Indonézia második legnagyobb városa. Fontos kikötő és kereskedelmi központ.",
@@ -124,7 +126,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Medan",
       ro: "Medan",
       en: "Medan",
-    },
+image: "/poi-images/medan-cities-v2.webp"
+},
     description: {
       de: "Medan ist die Hauptstadt von Nord-Sumatra und die größte Stadt außerhalb von Java. Sie ist ein Tor zum Toba-See und dem Gunung Leuser Nationalpark.",
       hu: "Medan Észak-Szumátra fővárosa és Jáva szigetén kívül a legnagyobb város. Kapuja a Toba-tónak és a Gunung Leuser Nemzeti Parknak.",
@@ -180,7 +183,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Makassar",
       ro: "Makassar",
       en: "Makassar",
-    },
+image: "/poi-images/makassar-cities-v2.webp"
+},
     description: {
       de: "Makassar ist die Hauptstadt von Süd-Sulawesi und ein wichtiger Hafen für Ost-Indonesien. Früher war die Stadt als Ujung Pandang bekannt.",
       hu: "Makassar Dél-Celebesz fővárosa és Kelet-Indonézia fontos kikötője. A város korábban Ujung Pandang néven volt ismert.",
@@ -236,7 +240,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Semarang",
       ro: "Semarang",
       en: "Semarang",
-    },
+image: "/poi-images/semarang-cities-v2.webp"
+},
     description: {
       de: "Semarang ist die Hauptstadt von Zentral-Java und eine geschäftige Hafenstadt mit einer reichen kolonialen Vergangenheit. Sie ist bekannt für ihre Altstadt und die chinesischen Tempel.",
       hu: "Semarang Közép-Jáva fővárosa, egy nyüzsgő kikötőváros, gazdag gyarmati múlttal. Óvárosáról és kínai templomairól ismert.",
@@ -292,7 +297,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Palembang",
       ro: "Palembang",
       en: "Palembang",
-    },
+image: "/poi-images/palembang-cities-v2.webp"
+},
     description: {
       de: "Palembang ist die Hauptstadt von Süd-Sumatra und eine der ältesten Städte Indonesiens. Sie liegt am Musi-Fluss und war die Hauptstadt des Srivijaya-Reiches.",
       hu: "Palembang Dél-Szumátra fővárosa és Indonézia egyik legrégebbi városa. A Musi folyó partján fekszik, és a Srivijaya birodalom fővárosa volt.",
@@ -348,7 +354,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Denpasar",
       ro: "Denpasar",
       en: "Denpasar",
-    },
+image: "/poi-images/denpasar-cities-v2.webp"
+},
     description: {
       de: "Denpasar ist die Hauptstadt von Bali und das Haupttor zur Insel. Es ist ein Zentrum für Handel, Kultur und Bildung auf Bali.",
       hu: "Denpasar Bali fővárosa és a sziget fő kapuja. A kereskedelem, a kultúra és az oktatás központja Balin.",
@@ -404,7 +411,8 @@ export const poiExtraIndonesiaCitiesV2: POI[] = [
       hu: "Yogyakarta",
       ro: "Yogyakarta",
       en: "Yogyakarta",
-    },
+image: "/poi-images/yogyakarta-cities-v2.webp"
+},
     description: {
       de: "Yogyakarta ist die Hauptstadt der Sonderregion Yogyakarta und ein Zentrum für klassische javanische Kunst und Kultur. Es ist berühmt für seine Tempel und Paläste.",
       hu: "Yogyakarta a Yogyakarta különleges régió fővárosa, a klasszikus jávai művészet és kultúra központja. Híres templomairól és palotáiról.",
@@ -460,6 +468,7 @@ de: "Pontianak",
 hu: "Pontianak",
 ro: "Pontianak",
 en: "Pontianak",
+image: "/poi-images/pontianak-cities-v2.webp"
 },
 description: {
 de: "Pontianak ist die Hauptstadt von West-Kalimantan und liegt direkt am Äquator. Die Stadt ist bekannt für ihre Flüsse und das Äquatormonument.",
@@ -516,6 +525,7 @@ de: "Banjarmasin",
 hu: "Banjarmasin",
 ro: "Banjarmasin",
 en: "Banjarmasin",
+image: "/poi-images/banjarmasin-cities-v2.webp"
 },
 description: {
 de: "Banjarmasin ist die Hauptstadt von Süd-Kalimantan, auch bekannt als die 'Stadt der tausend Flüsse'. Berühmt für seine schwimmenden Märkte.",
@@ -572,6 +582,7 @@ de: "Balikpapan",
 hu: "Balikpapan",
 ro: "Balikpapan",
 en: "Balikpapan",
+image: "/poi-images/balikpapan-cities-v2.webp"
 },
 description: {
 de: "Balikpapan ist eine Hafenstadt in Ost-Kalimantan und ein Zentrum der indonesischen Öl- und Gasindustrie. Bekannt für ihre saubere Umwelt und Strände.",
@@ -628,6 +639,7 @@ de: "Pekanbaru",
 hu: "Pekanbaru",
 ro: "Pekanbaru",
 en: "Pekanbaru",
+image: "/poi-images/pekanbaru-cities-v2.webp"
 },
 description: {
 de: "Pekanbaru ist die Hauptstadt der Provinz Riau auf Sumatra. Es ist ein wichtiges Wirtschafts- und Ölförderzentrum.",
@@ -684,6 +696,7 @@ de: "Manado",
 hu: "Manado",
 ro: "Manado",
 en: "Manado",
+image: "/poi-images/manado-cities-v2.webp"
 },
 description: {
 de: "Manado ist die Hauptstadt von Nord-Sulawesi und bekannt für seine atemberaubenden Tauch- und Schnorchelplätze, insbesondere den Bunaken-Nationalpark.",
@@ -740,6 +753,7 @@ de: "Kuta",
 hu: "Kuta",
 ro: "Kuta",
 en: "Kuta",
+image: "/poi-images/kuta-cities-v2.webp"
 },
 description: {
 de: "Kuta ist ein berühmter Badeort im Süden von Bali, bekannt für seinen langen Sandstrand, Surfmöglichkeiten und ein pulsierendes Nachtleben.",
@@ -796,6 +810,7 @@ de: "Bogor",
 hu: "Bogor",
 ro: "Bogor",
 en: "Bogor",
+image: "/poi-images/bogor-cities-v2.webp"
 },
 description: {
 de: "Bogor ist eine Stadt in West-Java, bekannt für ihren Botanischen Garten und den Präsidentenpalast. Wegen ihrer häufigen Regenschauer wird sie 'die Regenstadt' genannt.",
@@ -852,6 +867,7 @@ de: "Jayapura",
 hu: "Jayapura",
 ro: "Jayapura",
 en: "Jayapura",
+image: "/poi-images/jayapura-cities-v2.webp"
 },
 description: {
 de: "Jayapura ist die Hauptstadt der Provinz Papua im Osten Indonesiens. Sie liegt an einer Bucht und ist von Hügeln umgeben.",
@@ -908,6 +924,7 @@ de: "Padang",
 hu: "Padang",
 ro: "Padang",
 en: "Padang",
+image: "/poi-images/padang-cities-v2.webp"
 },
 description: {
 de: "Padang ist die Hauptstadt von West-Sumatra und berühmt für ihre Minangkabau-Küche, insbesondere Rendang. Die Stadt liegt an der Westküste von Sumatra.",
@@ -964,6 +981,7 @@ de: "Surakarta (Solo)",
 hu: "Surakarta (Solo)",
 ro: "Surakarta (Solo)",
 en: "Surakarta (Solo)",
+image: "/poi-images/solo-surakarta-cities-v2.webp"
 },
 description: {
 de: "Surakarta, allgemein bekannt als Solo, ist eine Stadt in Zentral-Java und ein Schwester-Königsstadt von Yogyakarta. Sie ist ein Zentrum für javanische Kultur und Batik.",
@@ -1020,6 +1038,7 @@ de: "Batam",
 hu: "Batam",
 ro: "Batam",
 en: "Batam",
+image: "/poi-images/batam-cities-v2.webp"
 },
 description: {
 de: "Batam ist eine Insel und Stadt in der Provinz Riau-Inseln, in der Nähe von Singapur. Sie ist eine Freihandelszone und ein wichtiges Industrie- und Transportzentrum.",
@@ -1076,6 +1095,7 @@ de: "Ambon",
 hu: "Ambon",
 ro: "Ambon",
 en: "Ambon",
+image: "/poi-images/ambon-cities-v2.webp"
 },
 description: {
 de: "Ambon ist die Hauptstadt der Provinz Maluku, historisch bekannt als die Gewürzinseln. Die Stadt hat eine reiche Geschichte im Gewürzhandel.",
@@ -1132,6 +1152,7 @@ de: "Cirebon",
 hu: "Cirebon",
 ro: "Cirebon",
 en: "Cirebon",
+image: "/poi-images/cirebon-cities-v2.webp"
 },
 description: {
 de: "Cirebon ist eine Hafenstadt an der Nordküste von West-Java. Es ist eine historisch wichtige Stadt mit drei Sultanaten und einer einzigartigen Mischung aus javanischer und sundanesischer Kultur.",
@@ -1188,6 +1209,7 @@ de: "Malang",
 hu: "Malang",
 ro: "Malang",
 en: "Malang",
+image: "/poi-images/malang-cities-v2.webp"
 },
 description: {
 de: "Malang ist die zweitgrößte Stadt in Ost-Java, bekannt für ihr kühles Klima, ihre Kolonialarchitektur und als Tor zum Bromo-Tengger-Semeru-Nationalpark.",
@@ -1244,6 +1266,7 @@ de: "Samarinda",
 hu: "Samarinda",
 ro: "Samarinda",
 en: "Samarinda",
+image: "/poi-images/samarinda-cities-v2.webp"
 },
 description: {
 de: "Samarinda ist die Hauptstadt von Ost-Kalimantan und liegt am Mahakam-Fluss. Sie ist ein wichtiges Zentrum für den Holz- und Kohlebergbau.",
@@ -1300,6 +1323,7 @@ de: "Kupang",
 hu: "Kupang",
 ro: "Kupang",
 en: "Kupang",
+image: "/poi-images/kupang-cities-v2.webp"
 },
 description: {
 de: "Kupang ist die Hauptstadt von Ost-Nusa Tenggara und liegt an der Westspitze der Insel Timor. Es ist ein wichtiger Hafen und Verwaltungszentrum.",
@@ -1356,6 +1380,7 @@ de: "Tasikmalaya",
 hu: "Tasikmalaya",
 ro: "Tasikmalaya",
 en: "Tasikmalaya",
+image: "/poi-images/tasikmalaya-cities-v2.webp"
 },
 description: {
 de: "Tasikmalaya ist eine Stadt in West-Java, die für ihr islamisches Erbe und ihr Kunsthandwerk, insbesondere gewebte Matten und Batik, bekannt ist.",
@@ -1412,6 +1437,7 @@ de: "Mataram",
 hu: "Mataram",
 ro: "Mataram",
 en: "Mataram",
+image: "/poi-images/mataram-cities-v2.webp"
 },
 description: {
 de: "Mataram ist die Hauptstadt von West-Nusa Tenggara auf der Insel Lombok. Es ist das administrative und kommerzielle Zentrum der Insel.",
@@ -1468,6 +1494,7 @@ de: "Bengkulu",
 hu: "Bengkulu",
 ro: "Bengkulu",
 en: "Bengkulu",
+image: "/poi-images/bengkulu-cities-v2.webp"
 },
 description: {
 de: "Bengkulu ist die Hauptstadt der gleichnamigen Provinz an der Westküste Sumatras. Sie war einst ein britischer Kolonialposten namens Bencoolen.",
@@ -1524,6 +1551,7 @@ de: "Ternate",
 hu: "Ternate",
 ro: "Ternate",
 en: "Ternate",
+image: "/poi-images/ternate-cities-v2.webp"
 },
 description: {
 de: "Ternate ist eine Insel und Stadt in der Provinz Nord-Maluku, ein historisches Zentrum des Gewürzhandels. Die Stadt wird vom Vulkan Gamalama dominiert.",
@@ -1580,6 +1608,7 @@ de: "Palu",
 hu: "Palu",
 ro: "Palu",
 en: "Palu",
+image: "/poi-images/palu-cities-v2.webp"
 },
 description: {
 de: "Palu ist die Hauptstadt von Zentral-Sulawesi und liegt in einer langen, schmalen Bucht. Die Stadt wurde 2018 von einem schweren Erdbeben und Tsunami heimgesucht.",
@@ -1636,6 +1665,7 @@ de: "Kendari",
 hu: "Kendari",
 ro: "Kendari",
 en: "Kendari",
+image: "/poi-images/kendari-cities-v2.webp"
 },
 description: {
 de: "Kendari ist die Hauptstadt von Südost-Sulawesi und liegt an der Kendari-Bucht. Es ist ein Zentrum für Handel und Bildung in der Region.",
@@ -1692,6 +1722,7 @@ de: "Gorontalo",
 hu: "Gorontalo",
 ro: "Gorontalo",
 en: "Gorontalo",
+image: "/poi-images/gorontalo-cities-v2.webp"
 },
 description: {
 de: "Gorontalo ist die Hauptstadt der gleichnamigen Provinz auf der Insel Sulawesi. Sie ist bekannt für ihre Maisproduktion und ihre Lage an der Tomini-Bucht.",

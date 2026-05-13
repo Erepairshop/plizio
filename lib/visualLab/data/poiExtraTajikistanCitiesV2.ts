@@ -10,8 +10,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Duschanbe",
       hu: "Dusanbe",
       ro: "Dușanbe",
-      en: "Dushanbe"
-    },
+      en: "Dushanbe",
+image: "/poi-images/dushanbe-cities-v2.webp"
+},
     description: {
       de: "Duschanbe ist die Hauptstadt und das politische, wirtschaftliche sowie kulturelle Zentrum Tadschikistans. Die Stadt liegt im malerischen Hissartal.",
       hu: "Dusanbe Tádzsikisztán fővárosa, egyben politikai, gazdasági és kulturális központja. A város a festői Hiszor-völgyben fekszik.",
@@ -59,8 +60,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Chudschand",
       hu: "Hudzsand",
       ro: "Hudjand",
-      en: "Khujand"
-    },
+      en: "Khujand",
+image: "/poi-images/khujand-cities-v2.webp"
+},
     description: {
       de: "Chudschand ist die zweitgrößte Stadt des Landes und ein wichtiges Zentrum im Ferghanatal.",
       hu: "Hudzsand az ország második legnagyobb városa és a Fergana-völgy egyik fontos központja.",
@@ -108,8 +110,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Bochtar",
       hu: "Bohtar",
       ro: "Bohtar",
-      en: "Bokhtar"
-    },
+      en: "Bokhtar",
+image: "/poi-images/bokhtar-cities-v2.webp"
+},
     description: {
       de: "Bochtar, früher als Qurghonteppa bekannt, ist die Hauptstadt der landwirtschaftlich reichen Provinz Chatlon.",
       hu: "A korábban Kurgan-Tjube néven ismert Bohtar a mezőgazdaságilag gazdag Hatlon tartomány székhelye.",
@@ -157,8 +160,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Kulob",
       hu: "Kulob",
       ro: "Kulob",
-      en: "Kulob"
-    },
+      en: "Kulob",
+image: "/poi-images/kulob-cities-v2.webp"
+},
     description: {
       de: "Kulob ist eine historische Stadt im Süden Tadschikistans und ein Zentrum der Khatlon-Region.",
       hu: "Kulob történelmi város Tádzsikisztán déli részén, valamint a Hatlon régió egyik központja.",
@@ -206,8 +210,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Istarawschan",
       hu: "Isztaravsan",
       ro: "Istaravșan",
-      en: "Istaravshan"
-    },
+      en: "Istaravshan",
+image: "/poi-images/istaravshan-cities-v2.webp"
+},
     description: {
       de: "Istarawschan ist eine der ältesten Städte Tadschikistans, bekannt für traditionelles Handwerk und Holzschnitzerei.",
       hu: "Isztaravsan Tádzsikisztán egyik legrégebbi városa, amely hagyományos kézművességéről és fafaragásáról ismert.",
@@ -255,8 +260,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Wahdat",
       hu: "Vahdat",
       ro: "Vahdat",
-      en: "Vahdat"
-    },
+      en: "Vahdat",
+image: "/poi-images/vahdat-cities-v2.webp"
+},
     description: {
       de: "Wahdat liegt in der Nähe der Hauptstadt und hat sich zu einem wichtigen industriellen Knotenpunkt entwickelt.",
       hu: "Vahdat a főváros közelében fekszik, és fontos ipari csomóponttá fejlődött.",
@@ -304,8 +310,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Tursunsoda",
       hu: "Turszunzoda",
       ro: "Tursunzoda",
-      en: "Tursunzoda"
-    },
+      en: "Tursunzoda",
+image: "/poi-images/tursunzoda-cities-v2.webp"
+},
     description: {
       de: "Die Stadt ist vor allem für die größte Aluminiumhütte Zentralasiens bekannt, die hier betrieben wird.",
       hu: "A város leginkább a közép-ázsiai régió legnagyobb alumíniumkohójáról ismert, amely itt működik.",
@@ -353,8 +360,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Konibodom",
       hu: "Konibodom",
       ro: "Konibodom",
-      en: "Konibodom"
-    },
+      en: "Konibodom",
+image: "/poi-images/konibodom-cities-v2.webp"
+},
     description: {
       de: "Konibodom im Ferghanatal wird oft als die Stadt der Mandeln bezeichnet, dank der weiten Obstgärten.",
       hu: "A Fergana-völgyben található Konibodomot kiterjedt gyümölcsösei miatt gyakran a mandulák városának is nevezik.",
@@ -402,8 +410,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Isfara",
       hu: "Iszfara",
       ro: "Isfara",
-      en: "Isfara"
-    },
+      en: "Isfara",
+image: "/poi-images/isfara-cities-v2.webp"
+},
     description: {
       de: "Isfara ist eine alte Industriestadt an der Grenze zu Kirgisistan, berühmt für die Obstverarbeitung.",
       hu: "Iszfara egy ősi iparváros a kirgiz határon, amely elsősorban gyümölcsfeldolgozásáról híres.",
@@ -451,8 +460,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Pandschakent",
       hu: "Pandzsekent",
       ro: "Pendjikent",
-      en: "Panjakent"
-    },
+      en: "Panjakent",
+image: "/poi-images/panjakent-cities-v2.webp"
+},
     description: {
       de: "Pandschakent beherbergt die Ruinen einer antiken sogdischen Stadt, die als Pompeji Zentralasiens gilt.",
       hu: "Pandzsekent ad otthont egy ókori szogd város romjainak, amelyet Közép-Ázsia Pompejiének is neveznek.",
@@ -500,8 +510,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Chorugh",
       hu: "Horug",
       ro: "Horog",
-      en: "Khorugh"
-    },
+      en: "Khorugh",
+image: "/poi-images/khorugh-cities-v2.webp"
+},
     description: {
       de: "Chorugh ist die Hauptstadt der Bergautonomen Provinz Badachschan und liegt hoch im Pamirgebirge.",
       hu: "Horug a Hegyi-Badahsán Autonóm Terület székhelye, amely magasan a Pamír hegységben fekszik.",
@@ -549,8 +560,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Jowon",
       hu: "Jovon",
       ro: "Iavan",
-      en: "Yovon"
-    },
+      en: "Yovon",
+image: "/poi-images/yovon-cities-v2.webp"
+},
     description: {
       de: "Jowon hat sich durch seine chemischen Fabriken zu einem Zentrum der modernen Industrie in Tadschikistan entwickelt.",
       hu: "Jovon vegyi gyárainak köszönhetően a modern tádzsik ipar egyik jelentős központjává fejlődött.",
@@ -598,8 +610,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Hissor",
       hu: "Hiszor",
       ro: "Hisor",
-      en: "Hisor"
-    },
+      en: "Hisor",
+image: "/poi-images/hisor-cities-v2.webp"
+},
     description: {
       de: "Hissor ist historisch bedeutend für seine massive Festung, die ein wichtiges Zentrum des Buchara-Emirats war.",
       hu: "Hiszor történelmileg jelentős a hatalmas erődjéről, amely a Buharai Emirátus egyik fontos központja volt.",
@@ -647,8 +660,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Norak",
       hu: "Nurek",
       ro: "Nurek",
-      en: "Nurek"
-    },
+      en: "Nurek",
+image: "/poi-images/nurek-cities-v2.webp"
+},
     description: {
       de: "Norak ist weltberühmt für die Nurek-Talsperre am Wachsch, einen der höchsten Staudämme der Welt.",
       hu: "Nurek világszerte ismert a Vahs folyón épült Nureki-gátról, amely a világ egyik legmagasabb földgátja.",
@@ -696,8 +710,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Farchor",
       hu: "Farhor",
       ro: "Farhor",
-      en: "Farkhor"
-    },
+      en: "Farkhor",
+image: "/poi-images/farkhor-cities-v2.webp"
+},
     description: {
       de: "Farchor ist ein landwirtschaftlich geprägtes Zentrum nahe der afghanischen Grenze in der Provinz Chatlon.",
       hu: "Farhor egy mezőgazdasági jellegű központ az afgán határ közelében, a Hatlon tartományban.",
@@ -746,8 +761,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Wosse",
       hu: "Vosze",
       ro: "Vose",
-      en: "Vose'"
-    },
+      en: "Vose'",
+image: "/poi-images/vose-cities-v2.webp"
+},
     description: {
       de: "Wosse ist eine rasch wachsende Stadt, die von den fruchtbaren Ackerböden Südtadschikistans profitiert.",
       hu: "Vosze egy gyorsan növekvő város, amely Dél-Tádzsikisztán termékeny termőföldjeinek köszönheti fejlődését.",
@@ -795,8 +811,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Buston",
       hu: "Buszton",
       ro: "Buston",
-      en: "Buston"
-    },
+      en: "Buston",
+image: "/poi-images/buston-cities-v2.webp"
+},
     description: {
       de: "Buston war ehemals eine geschlossene Stadt im sowjetischen Uranabbau-Netzwerk und entwickelt sich heute zivil.",
       hu: "Buszton korábban a szovjet uránbányászati hálózat zárt városa volt, napjainkban polgári fejlesztések folynak.",
@@ -844,8 +861,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Ghafurow",
       hu: "Gafurov",
       ro: "Ghafurov",
-      en: "Ghafurov"
-    },
+      en: "Ghafurov",
+image: "/poi-images/ghafurov-cities-v2.webp"
+},
     description: {
       de: "Ghafurow fungiert als wichtiger Verkehrsknotenpunkt mit einem bedeutenden Bahnhof im Norden des Landes.",
       hu: "Gafurov fontos közlekedési csomópontként működik, jelentős vasútállomással az ország északi részén.",
@@ -893,8 +911,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Danghara",
       hu: "Dangara",
       ro: "Danghara",
-      en: "Danghara"
-    },
+      en: "Danghara",
+image: "/poi-images/danghara-cities-v2.webp"
+},
     description: {
       de: "Danghara hat in den letzten Jahren starke Investitionen und städtebauliche Modernisierungen erfahren.",
       hu: "Dangara az elmúlt években jelentős beruházásokon és városépítészeti modernizáción ment keresztül.",
@@ -942,8 +961,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Schahritus",
       hu: "Sahrtuz",
       ro: "Șaartuz",
-      en: "Shahrtuz"
-    },
+      en: "Shahrtuz",
+image: "/poi-images/shahrtuz-cities-v2.webp"
+},
     description: {
       de: "Schahritus liegt im extremen Südwesten des Landes und ist für sein heißes, beinahe wüstenartiges Klima bekannt.",
       hu: "Sahrtuz az ország délnyugati csücskében fekszik, és forró, szinte sivatagi klímájáról ismert.",
@@ -991,8 +1011,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Safarobod",
       hu: "Zafarobod",
       ro: "Zafarobod",
-      en: "Zafarobod"
-    },
+      en: "Zafarobod",
+image: "/poi-images/zafarobod-cities-v2.webp"
+},
     description: {
       de: "Safarobod entstand durch großflächige sowjetische Bewässerungsprojekte und ist heute ein Zentrum des Baumwollanbaus.",
       hu: "Zafarobod a kiterjedt szovjet öntözési projektek révén jött létre, ma pedig a gyapottermesztés központja.",
@@ -1041,8 +1062,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Schaidon",
       hu: "Sajdon",
       ro: "Șaidon",
-      en: "Shaydon"
-    },
+      en: "Shaydon",
+image: "/poi-images/shaydon-cities-v2.webp"
+},
     description: {
       de: "Schaidon ist das Verwaltungszentrum des Asht-Distrikts und umgeben von ausgedehnten Aprikosenplantagen.",
       hu: "Sajdon az Asti járás közigazgatási központja, amelyet kiterjedt sárgabarack-ültetvények vesznek körül.",
@@ -1090,8 +1112,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Murghob",
       hu: "Murgob",
       ro: "Murgab",
-      en: "Murghob"
-    },
+      en: "Murghob",
+image: "/poi-images/murghob-cities-v2.webp"
+},
     description: {
       de: "Murghob ist die höchstgelegene Kleinstadt Tadschikistans und ein wichtiger Halt auf dem legendären Pamir Highway.",
       hu: "Murgob Tádzsikisztán legmagasabban fekvő kisvárosa, és fontos megálló a legendás Pamír főúton.",
@@ -1139,8 +1162,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Aini",
       hu: "Ajni",
       ro: "Aini",
-      en: "Ayni"
-    },
+      en: "Ayni",
+image: "/poi-images/ayni-cities-v2.webp"
+},
     description: {
       de: "Aini liegt strategisch an der Kreuzung wichtiger Straßen, die durch die Gebirgsketten des Landes führen.",
       hu: "Ajni stratégiai szempontból fontos hegyi utakon fekszik, amelyek összekötik az ország különböző régióit.",
@@ -1188,8 +1212,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Gharm",
       hu: "Garm",
       ro: "Garm",
-      en: "Gharm"
-    },
+      en: "Gharm",
+image: "/poi-images/gharm-cities-v2.webp"
+},
     description: {
       de: "Gharm fungiert als historisches und kulturelles Herzstück des Raschttals, umgeben von hohen Bergen.",
       hu: "Garm a Rast-völgy történelmi és kulturális központjaként funkcionál, amelyet magas hegyek öveznek.",
@@ -1237,8 +1262,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Qubodijon",
       hu: "Kabodijon",
       ro: "Kubodion",
-      en: "Qabodiyon"
-    },
+      en: "Qabodiyon",
+image: "/poi-images/qabodiyon-cities-v2.webp"
+},
     description: {
       de: "Qubodijon gilt als Fundort des berühmten Oxus-Schatzes und blickt auf eine tiefe antike Geschichte zurück.",
       hu: "Kabodijon a híres Oxus-kincs lelőhelyeként ismert, és mély ókori történelemmel büszkélkedhet.",
@@ -1286,8 +1312,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Lewakant",
       hu: "Levakant",
       ro: "Levakant",
-      en: "Levakant"
-    },
+      en: "Levakant",
+image: "/poi-images/levakant-cities-v2.webp"
+},
     description: {
       de: "Lewakant ist der Standort der größten Düngemittelfabrik Tadschikistans und liegt am Wachsch-Fluss.",
       hu: "Levakant ad otthont Tádzsikisztán legnagyobb műtrágyagyárának, amely a Vahs folyó partján épült.",
@@ -1336,8 +1363,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Roghun",
       hu: "Rogun",
       ro: "Rogun",
-      en: "Roghun"
-    },
+      en: "Roghun",
+image: "/poi-images/roghun-cities-v2.webp"
+},
     description: {
       de: "Roghun erlangte internationale Bekanntheit durch das gewaltige Staudammprojekt, das den Wachsch aufstauen soll.",
       hu: "Rogun a Vahs folyót felduzzasztó hatalmas gátépítési projektje révén tett szert nemzetközi ismertségre.",
@@ -1385,8 +1413,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Hamadoni",
       hu: "Hamadoni",
       ro: "Hamadoni",
-      en: "Hamadoni"
-    },
+      en: "Hamadoni",
+image: "/poi-images/hamadoni-cities-v2.webp"
+},
     description: {
       de: "Hamadoni, ehemals Moskowski, sichert als wichtiger Außenposten die Südgrenze zu Afghanistan.",
       hu: "A korábban Moszkovszkijnak nevezett Hamadoni fontos déli határőrtelepülésként funkcionál az afgán határon.",
@@ -1434,8 +1463,9 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       de: "Ischkoschim",
       hu: "Iskosim",
       ro: "Ișkașim",
-      en: "Ishkoshim"
-    },
+      en: "Ishkoshim",
+image: "/poi-images/ishkoshim-cities-v2.webp"
+},
     description: {
       de: "Ischkoschim ist das Tor zum Wachan-Korridor und bekannt für den grenzüberschreitenden Markt am Pandsch-Fluss.",
       hu: "Iskosim a Vahan-folyosó kapuja, és a Pandzs folyónál található határon átnyúló piacáról ismert.",

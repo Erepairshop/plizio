@@ -6,7 +6,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "lake",
     parent: "KG-Y",
     coords: [77.5, 42.4333],
-    name: { de: "Yssykköl", hu: "Iszik-köl", ro: "Issâk-Kul", en: "Issyk-Kul" },
+    name: { de: "Yssykköl", hu: "Iszik-köl", ro: "Issâk-Kul", en: "Issyk-Kul",
+image: "/poi-images/kg-lake-issyk-kul-nature-v2.webp"
+},
     description: {
       de: "Der Yssykköl ist der größte See Kirgisistans und eine der Hauptattraktionen des Landes. Er liegt in einer herrlichen Gebirgslandschaft und gilt als die Perle des Tien-Schan. Dank seiner thermalen Eigenschaften gefriert der riesige See selbst in strengen Wintern nicht.",
       hu: "Az Iszik-köl Kirgizisztán legnagyobb tava és az ország egyik fő látványossága. Gyönyörű hegyvidéki környezetben fekszik, és a Tien-san gyöngyszemének tartják. Termál adottságainak köszönhetően a hatalmas tó még a zord teleken sem fagy be.",
@@ -57,7 +59,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "lake",
     parent: "KG-N",
     coords: [75.1667, 41.8333],
-    name: { de: "Songköl", hu: "Szon-köl", ro: "Song-Kul", en: "Song-Kul" },
+    name: { de: "Songköl", hu: "Szon-köl", ro: "Song-Kul", en: "Song-Kul",
+image: "/poi-images/kg-lake-song-kol-nature-v2.webp"
+},
     description: {
       de: "Der Songköl ist ein malerischer alpiner See, der von saftigen Sommerweiden umgeben ist. Im Sommer stellen kirgisische Hirten hier ihre Jurten auf, um ihre Herden grasen zu lassen. Der See ist ein perfekter Ort, um das traditionelle Nomadenleben hautnah zu erleben.",
       hu: "A Szon-köl egy festői alpesi tó, amelyet buja nyári legelők vesznek körül. A kirgiz pásztorok nyaranta itt állítják fel jurtáikat, hogy legeltessék nyájaikat. A tó tökéletes helyszín a hagyományos nomád életforma testközelből történő megtapasztalására.",
@@ -108,7 +112,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "forest",
     parent: "KG-C",
     coords: [74.4833, 42.6333],
-    name: { de: "Ala-Artscha-Nationalpark", hu: "Ala-Arcsa Nemzeti Park", ro: "Parcul Național Ala-Archa", en: "Ala Archa National Park" },
+    name: { de: "Ala-Artscha-Nationalpark", hu: "Ala-Arcsa Nemzeti Park", ro: "Parcul Național Ala-Archa", en: "Ala Archa National Park",
+image: "/poi-images/kg-forest-ala-archa-nature-v2.webp"
+},
     description: {
       de: "Der Ala-Artscha-Nationalpark liegt nahe der Hauptstadt und besticht durch seine tiefen Schluchten und hohen Berggipfel. Die reiche alpine Flora und Fauna zieht Wanderer und Naturliebhaber gleichermaßen an. Entlang des sprudelnden Flusses finden Besucher zahlreiche gut ausgebaute Pfade.",
       hu: "A főváros közelében fekvő Ala-Arcsa Nemzeti Park mély szurdokaival és magas hegycsúcsaival nyűgözi le a látogatókat. A gazdag alpesi növény- és állatvilág egyaránt vonzza a túrázókat és a természet szerelmeseit. A sebes folyó mentén a látogatók számos jól kiépített ösvényt találhatnak.",
@@ -159,7 +165,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1167, 42.0333],
-    name: { de: "Tien-Schan", hu: "Tien-san", ro: "Tian-Șan", en: "Tien Shan" },
+    name: { de: "Tien-Schan", hu: "Tien-san", ro: "Tian-Șan", en: "Tien Shan",
+image: "/poi-images/kg-mountain-tien-shan-nature-v2.webp"
+},
     description: {
       de: "Das beeindruckende Gebirgssystem des Tien-Schan durchzieht Kirgisistan und dominiert die Landschaft des Landes. Seine schneebedeckten Gipfel und massiven Gletscher sind eine Quelle für viele große Flüsse Zentralasiens. Die raue, unberührte Natur bietet einen Lebensraum für seltene Tierarten.",
       hu: "A lenyűgöző Tien-san hegyrendszer átszeli Kirgizisztánt, és uralja az ország tájképét. Hófödte csúcsai és hatalmas gleccserei számos nagy közép-ázsiai folyó forrását jelentik. A zord, érintetlen természet ritka állatfajoknak nyújt menedéket.",
@@ -210,7 +218,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1264, 42.0353],
-    name: { de: "Dschengisch Tschokusu", hu: "Győzelem-csúcs", ro: "Jengish Chokusu", en: "Jengish Chokusu" },
+    name: { de: "Dschengisch Tschokusu", hu: "Győzelem-csúcs", ro: "Jengish Chokusu", en: "Jengish Chokusu",
+image: "/poi-images/kg-mountain-jengish-chokusu-nature-v2.webp"
+},
     description: {
       de: "Als höchster Punkt Kirgisistans ragt der Dschengisch Tschokusu majestätisch in den Himmel. Der Berg im Herzen des Tien-Schan ist bei erfahrenen Bergsteigern für seine extremen Wetterbedingungen bekannt. Seine mächtigen Gletscher sind beeindruckende Naturdenkmäler.",
       hu: "Kirgizisztán legmagasabb pontjaként a Győzelem-csúcs fenségesen magasodik az égbe. A Tien-san szívében fekvő hegy a tapasztalt hegymászók körében is hírhedt szélsőséges időjárási körülményeiről. Hatalmas gleccserei lenyűgöző természeti képződmények.",
@@ -261,7 +271,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1744, 42.2108],
-    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Khan Tengri", en: "Khan Tengri" },
+    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Khan Tengri", en: "Khan Tengri",
+image: "/poi-images/kg-mountain-khan-tengri-nature-v2.webp"
+},
     description: {
       de: "Der Khan Tengri ist einer der schönsten Berge der Welt und besticht durch seine perfekte Pyramidenform. Er ist ein gefragtes Ziel für Alpinisten, die seine steilen, eisigen Hänge bezwingen wollen. Die umliegende Gletscherwelt bietet eine spektakuläre Kulisse für Expeditionen.",
       hu: "A Hantengri a világ egyik legszebb hegye, amely tökéletes piramis alakjával vonzza a tekintetet. Keresett célpontja az alpinistáknak, akik szeretnék meghódítani meredek, jeges lejtőit. A környező gleccservilág látványos hátteret biztosít az expedíciókhoz.",
@@ -312,7 +324,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "mountain",
     parent: "KG-O",
     coords: [72.9644, 39.3469],
-    name: { de: "Pik Lenin", hu: "Lenin-csúcs", ro: "Vârful Lenin", en: "Lenin Peak" },
+    name: { de: "Pik Lenin", hu: "Lenin-csúcs", ro: "Vârful Lenin", en: "Lenin Peak",
+image: "/poi-images/kg-mountain-lenin-peak-nature-v2.webp"
+},
     description: {
       de: "Der Pik Lenin im Pamir-Gebirge ist ein beliebter Gipfel für Bergsteiger, die sich an der 7000er-Marke versuchen möchten. Trotz seiner relativen Zugänglichkeit erfordert der Aufstieg enorme Ausdauer und gute Vorbereitung. Der Berg prägt die spektakuläre Grenze zwischen Kirgisistan und Tadschikistan.",
       hu: "A Pamír-hegységben található Lenin-csúcs népszerű célpont a 7000 méteres magasságot megcélzó hegymászók körében. Viszonylagos megközelíthetősége ellenére a mászás hatalmas kitartást és jó felkészültséget igényel. A hegy látványosan határozza meg a kirgiz-tádzsik határt.",
@@ -363,7 +377,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "river",
     parent: "KG-N",
     coords: [76.0, 41.4333],
-    name: { de: "Naryn (Fluss)", hu: "Narin folyó", ro: "Râul Naryn", en: "Naryn River" },
+    name: { de: "Naryn (Fluss)", hu: "Narin folyó", ro: "Râul Naryn", en: "Naryn River",
+image: "/poi-images/kg-river-naryn-nature-v2.webp"
+},
     description: {
       de: "Der Naryn schlängelt sich durch malerische Schluchten und wilde Täler, bevor er Kirgisistan verlässt. Seine starken Strömungen speisen mehrere große Wasserkraftwerke im Land. Das smaragdgrüne Wasser des Flusses ist ein prägendes Merkmal der zentralen Gebirgslandschaft.",
       hu: "A Narin folyó festői szurdokokon és vad völgyeken kanyarog keresztül, mielőtt elhagyja Kirgizisztánt. Erős áramlata az ország számos jelentős vízerőművét táplálja. A folyó smaragdzöld vize a középső hegyvidéki táj meghatározó eleme.",
@@ -414,7 +430,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "river",
     parent: "KG-C",
     coords: [74.8, 43.1],
-    name: { de: "Tschüi (Fluss)", hu: "Csu folyó", ro: "Râul Ciu", en: "Chu River" },
+    name: { de: "Tschüi (Fluss)", hu: "Csu folyó", ro: "Râul Ciu", en: "Chu River",
+image: "/poi-images/kg-river-chu-nature-v2.webp"
+},
     description: {
       de: "Der Tschüi ist die Lebensader des gleichnamigen fruchtbaren Tals im Norden des Landes. Seine Gewässer werden intensiv für die Landwirtschaft genutzt, bevor der Fluss in die kasachische Steppe fließt. Entlang seiner Ufer haben sich im Laufe der Jahrhunderte viele Kulturen angesiedelt.",
       hu: "A Csu folyó az északi országrész azonos nevű termékeny völgyének ütőere. Vizét intenzíven hasznosítják a mezőgazdaságban, mielőtt a folyó a kazah sztyeppékre érne. Partjai mentén az évszázadok során számos kultúra telepedett le.",
@@ -465,7 +483,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "river",
     parent: "KG-T",
     coords: [71.75, 42.6667],
-    name: { de: "Talas (Fluss)", hu: "Talasz folyó", ro: "Râul Talas", en: "Talas River" },
+    name: { de: "Talas (Fluss)", hu: "Talasz folyó", ro: "Râul Talas", en: "Talas River",
+image: "/poi-images/kg-river-talas-nature-v2.webp"
+},
     description: {
       de: "Der Talas entspringt hoch in den Bergen und fließt durch das historische Talas-Tal. Die Flussebene bietet fruchtbares Land für die Landwirtschaft und Weidewirtschaft in der Region. Historisch gesehen war die Region um den Fluss Schauplatz entscheidender kultureller Begegnungen.",
       hu: "A Talasz folyó magasan a hegyekben ered, és a történelmi Talasz-völgyön folyik keresztül. A folyó ártere termékeny földet biztosít a régió mezőgazdasága és legeltetése számára. Történelmi szempontból a folyó környéke sorsdöntő kulturális találkozások színtere volt.",
@@ -516,7 +536,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "river",
     parent: "KG-O",
     coords: [72.2333, 40.7333],
-    name: { de: "Kara-Daryja", hu: "Kara-Darja", ro: "Kara Daria", en: "Kara Darya" },
+    name: { de: "Kara-Daryja", hu: "Kara-Darja", ro: "Kara Daria", en: "Kara Darya",
+image: "/poi-images/kg-river-kara-darya-nature-v2.webp"
+},
     description: {
       de: "Die Kara-Daryja fließt durch den südlichen Teil Kirgisistans und formt grüne Oasen in den Bergtälern. Der Fluss ist von immenser Bedeutung für die Bewässerung des landwirtschaftlich geprägten Ferghanatals. Er bildet eine wichtige Lebensader für die Menschen im Süden.",
       hu: "A Kara-Darja Kirgizisztán déli részén folyik keresztül, zöld oázisokat formálva a hegyi völgyekben. A folyó óriási jelentőséggel bír a mezőgazdasági jellegű Fergána-völgy öntözésében. Fontos életvonalat jelent a déli területek lakói számára.",
@@ -567,7 +589,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "lake",
     parent: "KG-J",
     coords: [71.9333, 41.8667],
-    name: { de: "Sary-Tschelek-See", hu: "Szari-Cselek tó", ro: "Lacul Sary-Chelek", en: "Sary-Chelek Lake" },
+    name: { de: "Sary-Tschelek-See", hu: "Szari-Cselek tó", ro: "Lacul Sary-Chelek", en: "Sary-Chelek Lake",
+image: "/poi-images/kg-lake-sary-chelek-nature-v2.webp"
+},
     description: {
       de: "Versteckt in den Bergen liegt der tiefblaue Sary-Tschelek-See, umrahmt von wilden Obst- und Nusswäldern. Die unberührte Natur des Biosphärenreservats bietet einen seltenen Anblick von ungestörter Wildnis. Im Herbst färben sich die umliegenden Wälder in spektakulären Gold- und Rottönen.",
       hu: "A hegyek között megbúvó mélykék Szari-Cselek tavat vad gyümölcs- és dióerdők szegélyezik. A bioszféra-rezervátum érintetlen természete ritka bepillantást enged a háborítatlan vadonba. Ősszel a környező erdők látványos arany és vörös színekben pompáznak.",
@@ -618,7 +642,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "river",
     parent: "KG-J",
     coords: [70.9, 41.6],
-    name: { de: "Tschatkal", hu: "Csatkal folyó", ro: "Râul Chatkal", en: "Chatkal River" },
+    name: { de: "Tschatkal", hu: "Csatkal folyó", ro: "Râul Chatkal", en: "Chatkal River",
+image: "/poi-images/kg-river-chatkal-nature-v2.webp"
+},
     description: {
       de: "Der wilde Tschatkal-Fluss hat tiefe, atemberaubende Schluchten in die Berge des westlichen Tien-Schan geschnitten. Die Abgeschiedenheit der Region macht sie zu einem Paradies für abenteuerlustige Rafter und Wanderer. Die klaren Gewässer stürzen oft in beeindruckenden Kaskaden zu Tal.",
       hu: "A vad Csatkal folyó mély, lélegzetelállító szurdokokat vájt a nyugati Tien-san hegyeibe. A régió elszigeteltsége igazi paradicsommá teszi a kalandvágyó vadvízi evezősök és túrázók számára. A tiszta vizek gyakran lenyűgöző zuhatagokban zúdulnak a völgybe.",
@@ -669,7 +695,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "forest",
     parent: "KG-J",
     coords: [72.9333, 41.3333],
-    name: { de: "Arslanbob-Walnusswald", hu: "Arszlanbob diófierdő", ro: "Pădurea de nuci Arslanbob", en: "Arslanbob Walnut Forest" },
+    name: { de: "Arslanbob-Walnusswald", hu: "Arszlanbob diófierdő", ro: "Pădurea de nuci Arslanbob", en: "Arslanbob Walnut Forest",
+image: "/poi-images/kg-forest-arslanbob-nature-v2.webp"
+},
     description: {
       de: "Die gewaltigen Walnusswälder von Arslanbob sind ein einzigartiges Naturerbe und erstrecken sich über sanfte Hügel. Seit Jahrhunderten ernten die Einheimischen hier Nüsse und bewahren die traditionelle Lebensweise. Majestätische Wasserfälle und schattige Pfade ergänzen das Naturerlebnis.",
       hu: "Arszlanbob hatalmas diófierdői egyedülálló természeti örökséget képviselnek, és lankás dombokon terülnek el. A helyiek évszázadok óta itt takarítják be a diót, megőrizve hagyományos életmódjukat. Fenséges vízesések és árnyas ösvények teszik teljessé a természeti élményt.",
@@ -720,7 +748,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "lake",
     parent: "KG-N",
     coords: [76.4, 40.6667],
-    name: { de: "Köl-Suu", hu: "Köl-Szuu tó", ro: "Lacul Kel-Suu", en: "Kel-Suu Lake" },
+    name: { de: "Köl-Suu", hu: "Köl-Szuu tó", ro: "Lacul Kel-Suu", en: "Kel-Suu Lake",
+image: "/poi-images/kg-lake-kel-suu-nature-v2.webp"
+},
     description: {
       de: "Der versteckte Gletschersee Köl-Suu liegt abgelegen in einer rauen, felsigen Schlucht nahe der chinesischen Grenze. Seine unzugängliche Lage macht jede Reise dorthin zu einer echten Expedition. Das türkisfarbene Wasser bildet einen starken Kontrast zu den steilen, grauen Felswänden.",
       hu: "A rejtett Köl-Szuu gleccsertó elszigetelten, egy zord, sziklás szurdokban fekszik a kínai határ közelében. Megközelíthetetlen elhelyezkedése miatt minden odaút egy igazi expedícióval ér fel. A türkizkék víz éles kontrasztot alkot a meredek, szürke sziklafalakkal.",
@@ -771,7 +801,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "lake",
     parent: "KG-Y",
     coords: [78.5333, 42.3167],
-    name: { de: "Ala-Köl", hu: "Ala-Köl tó", ro: "Lacul Ala-Kul", en: "Ala-Kul Lake" },
+    name: { de: "Ala-Köl", hu: "Ala-Köl tó", ro: "Lacul Ala-Kul", en: "Ala-Kul Lake",
+image: "/poi-images/kg-lake-ala-kul-nature-v2.webp"
+},
     description: {
       de: "Auf fast 3.600 Metern Höhe verzaubert der Ala-Köl Wanderer mit seiner spektakulären Bergkulisse. Die anstrengende Tageswanderung dorthin wird durch atemberaubende Panoramablicke belohnt. Die Farbe des Wassers reicht je nach Sonnenlicht von sattgrün bis zu strahlendem Blau.",
       hu: "Közel 3600 méteres magasságban az Ala-Köl látványos hegyvidéki kulisszájával varázsolja el a túrázókat. Az odavezető fárasztó egynapos túrát lélegzetelállító panoráma jutalmazza. A víz színe a napfénytől függően a mélyzöldtől a ragyogó kékig terjed.",
@@ -822,7 +854,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "mountain",
     parent: "KG-O",
     coords: [72.5, 39.66],
-    name: { de: "Alai-Gebirge", hu: "Alaj-hegység", ro: "Munții Alai", en: "Alai Mountains" },
+    name: { de: "Alai-Gebirge", hu: "Alaj-hegység", ro: "Munții Alai", en: "Alai Mountains",
+image: "/poi-images/kg-mountain-alai-nature-v2.webp"
+},
     description: {
       de: "Das Alai-Gebirge im Süden des Landes formt eine mächtige natürliche Barriere mit zerklüfteten Gipfeln. Die abgeschiedenen Täler werden im Sommer von Nomaden als Hochweiden genutzt. Die unberührten Pfade sind ein Geheimtipp für Trekking-Enthusiasten.",
       hu: "Az ország déli részén húzódó Alaj-hegység csipkézett csúcsaival hatalmas természetes akadályt képez. Félreeső völgyeit nyáron a nomádok magaslati legelőként használják. Az érintetlen ösvények a túrázás szerelmeseinek titkos tippjei.",
@@ -873,7 +907,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "forest",
     parent: "KG-T",
     coords: [72.25, 42.25],
-    name: { de: "Besch-Tasch-Nationalpark", hu: "Bess-Tas Nemzeti Park", ro: "Parcul Național Besh-Tash", en: "Besh-Tash National Park" },
+    name: { de: "Besch-Tasch-Nationalpark", hu: "Bess-Tas Nemzeti Park", ro: "Parcul Național Besh-Tash", en: "Besh-Tash National Park",
+image: "/poi-images/kg-forest-besh-tash-nature-v2.webp"
+},
     description: {
       de: "Der Nationalpark Besch-Tasch beeindruckt durch seine dichten Wälder und kristallklaren Bergflüsse. Er ist ein wichtiger Lebensraum für Luchse, Bären und andere seltene Bergtiere. Im Zentrum des Parks ruht der gleichnamige Bergsee in völliger alpiner Stille.",
       hu: "A Bess-Tas Nemzeti Park sűrű erdeivel és kristálytiszta hegyi folyóival nyűgözi le a látogatókat. Fontos élőhelye a hiúzoknak, medvéknek és más ritka hegyi állatoknak. A park közepén az azonos nevű hegyi tó teljes alpesi csendben nyugszik.",
@@ -924,7 +960,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "forest",
     parent: "KG-C",
     coords: [76.15, 42.75],
-    name: { de: "Tschong-Kemin-Nationalpark", hu: "Csong-Kemin Nemzeti Park", ro: "Parcul Național Chon-Kemin", en: "Chon-Kemin National Park" },
+    name: { de: "Tschong-Kemin-Nationalpark", hu: "Csong-Kemin Nemzeti Park", ro: "Parcul Național Chon-Kemin", en: "Chon-Kemin National Park",
+image: "/poi-images/kg-forest-chon-kemin-nature-v2.webp"
+},
     description: {
       de: "Das grüne Tschong-Kemin-Tal ist eine Oase der Ruhe und berühmt für seine dichten Nadelwälder. Der geschützte Park bietet Lebensraum für Marale und vereinzelt auch für Schneeleoparden. Die weiten Flusstäler sind ideal für ausgedehnte Reitausflüge in die Natur.",
       hu: "A zöldellő Csong-Kemin-völgy a nyugalom oázisa, mely sűrű tűlevelű erdeiről híres. A védett park maralszarvasok és elszórtan hópárducok élőhelyét is biztosítja. A széles folyóvölgyek ideálisak hosszú természetjáró lovastúrákhoz.",
@@ -975,7 +1013,9 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     type: "lake",
     parent: "KG-N",
     coords: [75.3, 40.61],
-    name: { de: "Tschatyr-Köl", hu: "Csatir-köl", ro: "Lacul Chatyr-Kul", en: "Chatyr-Kul" },
+    name: { de: "Tschatyr-Köl", hu: "Csatir-köl", ro: "Lacul Chatyr-Kul", en: "Chatyr-Kul",
+image: "/poi-images/kg-lake-chatyr-kul-nature-v2.webp"
+},
     description: {
       de: "Der Tschatyr-Köl liegt einsam auf einem weiten Hochplateau und ist der dritthöchste See Kirgisistans. Das harsche Klima verhindert Baumwachstum, was der Landschaft eine unendliche Weite verleiht. Für zahllose Zugvögel ist das unberührte Gewässer eine lebenswichtige Station.",
       hu: "A Csatir-köl magányosan fekszik egy tágas fennsíkon, és Kirgizisztán harmadik legmagasabb tava. A zord éghajlat megakadályozza a fák növekedését, ami a tájnak végtelen tágasságot kölcsönöz. Számtalan vándormadár számára ez az érintetlen tó egy létfontosságú állomás.",

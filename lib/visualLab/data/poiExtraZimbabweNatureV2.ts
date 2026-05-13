@@ -7,7 +7,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MA",
     coords: [29.35, -15.61],
-    name: { de: "Sambesi", hu: "Zambézi", ro: "Zambezi", en: "Zambezi River" },
+    name: { de: "Sambesi", hu: "Zambézi", ro: "Zambezi", en: "Zambezi River",
+image: "/poi-images/zambezi-river-nature-v2.webp"
+},
     description: {
       de: "Der Sambesi ist der viertlängste Fluss Afrikas.",
       hu: "A Zambézi Afrika negyedik leghosszabb folyója.",
@@ -32,7 +34,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "lake",
     parent: "ZW-MA",
     coords: [28.75, -16.51],
-    name: { de: "Kariba-Stausee", hu: "Kariba-tó", ro: "Lacul Kariba", en: "Lake Kariba" },
+    name: { de: "Kariba-Stausee", hu: "Kariba-tó", ro: "Lacul Kariba", en: "Lake Kariba",
+image: "/poi-images/lake-kariba-nature-v2.webp"
+},
     description: {
       de: "Der weltweit größte künstliche Stausee nach Volumen.",
       hu: "Térfogatát tekintve a világ legnagyobb mesterséges víztározója.",
@@ -57,7 +61,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.84, -18.29],
-    name: { de: "Mount Inyangani", hu: "Inyangani-hegy", ro: "Muntele Inyangani", en: "Mount Inyangani" },
+    name: { de: "Mount Inyangani", hu: "Inyangani-hegy", ro: "Muntele Inyangani", en: "Mount Inyangani",
+image: "/poi-images/in-yangani-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg Zimbabwes.",
       hu: "Zimbabwe legmagasabb hegye.",
@@ -82,7 +88,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MS",
     coords: [33.5, -22.2],
-    name: { de: "Limpopo", hu: "Limpopo", ro: "Limpopo", en: "Limpopo River" },
+    name: { de: "Limpopo", hu: "Limpopo", ro: "Limpopo", en: "Limpopo River",
+image: "/poi-images/limpopo-river-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger Fluss im südlichen Afrika, der an Zimbabwe grenzt.",
       hu: "Fontos folyó Dél-Afrikában, amely Zimbabwe határán folyik.",
@@ -100,7 +108,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "forest",
     parent: "ZW-MN",
     coords: [27.7, -17.8],
-    name: { de: "Chizarira-Wald", hu: "Chizarira-erdő", ro: "Pădurea Chizarira", en: "Chizarira Forest" },
+    name: { de: "Chizarira-Wald", hu: "Chizarira-erdő", ro: "Pădurea Chizarira", en: "Chizarira Forest",
+image: "/poi-images/chizarira-forest-nature-v2.webp"
+},
     description: {
       de: "Ein abgelegener Nationalpark mit dichtem Wald.",
       hu: "Távoli nemzeti park sűrű erdővel.",
@@ -118,7 +128,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MV",
     coords: [31.5, -21.4],
-    name: { de: "Runde Fluss", hu: "Runde folyó", ro: "Râul Runde", en: "Runde River" },
+    name: { de: "Runde Fluss", hu: "Runde folyó", ro: "Râul Runde", en: "Runde River",
+image: "/poi-images/gonarezhou-river-nature-v2.webp"
+},
     description: {
       de: "Ein Nebenfluss im Gonarezhou Nationalpark.",
       hu: "Mellékfolyó a Gonarezhou Nemzeti Parkban.",
@@ -136,7 +148,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MA",
     coords: [32.5, -21.2],
-    name: { de: "Save", hu: "Save", ro: "Save", en: "Save River" },
+    name: { de: "Save", hu: "Save", ro: "Save", en: "Save River",
+image: "/poi-images/save-river-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger Fluss im Südosten Zimbabwes.",
       hu: "Fontos folyó Zimbabwe délkeleti részén.",
@@ -154,7 +168,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.7, -19.1],
-    name: { de: "Vumba-Berge", hu: "Vumba-hegység", ro: "Munții Vumba", en: "Vumba Mountains" },
+    name: { de: "Vumba-Berge", hu: "Vumba-hegység", ro: "Munții Vumba", en: "Vumba Mountains",
+image: "/poi-images/vumba-mountains-nature-v2.webp"
+},
     description: {
       de: "Nebelwald-Berge nahe der Grenze zu Mosambik.",
       hu: "Ködös hegyek a mozambiki határ közelében.",
@@ -172,7 +188,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "lake",
     parent: "ZW-MV",
     coords: [30.9, -20.2],
-    name: { de: "Mutirikwi-See", hu: "Mutirikwi-tó", ro: "Lacul Mutirikwi", en: "Lake Mutirikwi" },
+    name: { de: "Mutirikwi-See", hu: "Mutirikwi-tó", ro: "Lacul Mutirikwi", en: "Lake Mutirikwi",
+image: "/poi-images/lake-mutirikwi-nature-v2.webp"
+},
     description: {
       de: "Ein großer Stausee in der Nähe von Masvingo.",
       hu: "Nagy víztározó Masvingo közelében.",
@@ -191,7 +209,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-HA",
     coords: [30.6, -17.5],
-    name: { de: "Manyame", hu: "Manyame", ro: "Manyame", en: "Manyame River" },
+    name: { de: "Manyame", hu: "Manyame", ro: "Manyame", en: "Manyame River",
+image: "/poi-images/manyame-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der die Hauptstadt Harare mit Wasser versorgt.",
       hu: "Folyó, amely ellátja vízzel Harare fővárost.",
@@ -209,7 +229,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "mountain",
     parent: "ZW-MN",
     coords: [28.5, -20.5],
-    name: { de: "Matobo-Berge", hu: "Matobo-hegyek", ro: "Munții Matobo", en: "Matobo Hills" },
+    name: { de: "Matobo-Berge", hu: "Matobo-hegyek", ro: "Munții Matobo", en: "Matobo Hills",
+image: "/poi-images/matobo-hills-mountains-nature-v2.webp"
+},
     description: {
       de: "Eine Hügellandschaft aus Granitfelsen.",
       hu: "Granitsziklákból álló dombvidék.",
@@ -227,7 +249,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MN",
     coords: [29.3, -22.1],
-    name: { de: "Shashe", hu: "Shashe", ro: "Shashe", en: "Shashe River" },
+    name: { de: "Shashe", hu: "Shashe", ro: "Shashe", en: "Shashe River",
+image: "/poi-images/shashe-river-nature-v2.webp"
+},
     description: {
       de: "Ein Nebenfluss des Limpopo an der Grenze.",
       hu: "A Limpopo mellékfolyója a határon.",
@@ -246,7 +270,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "forest",
     parent: "ZW-MA",
     coords: [32.8, -18.3],
-    name: { de: "Nyanga-Wald", hu: "Nyanga-erdő", ro: "Pădurea Nyanga", en: "Nyanga Forest" },
+    name: { de: "Nyanga-Wald", hu: "Nyanga-erdő", ro: "Pădurea Nyanga", en: "Nyanga Forest",
+image: "/poi-images/nyangani-forest-nature-v2.webp"
+},
     description: {
       de: "Dichter Bergwald im Nyanga Nationalpark.",
       hu: "Sűrű hegyi erdő a Nyanga Nemzeti Parkban.",
@@ -265,7 +291,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MN",
     coords: [27.0, -18.2],
-    name: { de: "Gwayi", hu: "Gwayi", ro: "Gwayi", en: "Gwayi River" },
+    name: { de: "Gwayi", hu: "Gwayi", ro: "Gwayi", en: "Gwayi River",
+image: "/poi-images/gwayi-river-nature-v2.webp"
+},
     description: {
       de: "Ein großer Fluss im Westen Zimbabwes.",
       hu: "Nagy folyó Zimbabwe nyugati részén.",
@@ -284,7 +312,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MC",
     coords: [32.0, -16.5],
-    name: { de: "Mazowe", hu: "Mazowe", ro: "Mazowe", en: "Mazowe River" },
+    name: { de: "Mazowe", hu: "Mazowe", ro: "Mazowe", en: "Mazowe River",
+image: "/poi-images/mazowe-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der durch die Agrargebiete fließt.",
       hu: "Folyó, amely a mezőgazdasági területeken halad át.",
@@ -302,7 +332,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MV",
     coords: [31.7, -21.1],
-    name: { de: "Chiredzi", hu: "Chiredzi", ro: "Chiredzi", en: "Chiredzi River" },
+    name: { de: "Chiredzi", hu: "Chiredzi", ro: "Chiredzi", en: "Chiredzi River",
+image: "/poi-images/chiredzi-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Südosten, wichtig für Zuckerrohr.",
       hu: "Délkeleti folyó, fontos a cukornád számára.",
@@ -320,7 +352,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MN",
     coords: [30.1, -21.9],
-    name: { de: "Mzingwane", hu: "Mzingwane", ro: "Mzingwane", en: "Mzingwane River" },
+    name: { de: "Mzingwane", hu: "Mzingwane", ro: "Mzingwane", en: "Mzingwane River",
+image: "/poi-images/mzingwane-river-nature-v2.webp"
+},
     description: {
       de: "Nebenfluss des Limpopo.",
       hu: "A Limpopo mellékfolyója.",
@@ -338,7 +372,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MN",
     coords: [29.1, -17.0],
-    name: { de: "Sanyati", hu: "Sanyati", ro: "Sanyati", en: "Sanyati River" },
+    name: { de: "Sanyati", hu: "Sanyati", ro: "Sanyati", en: "Sanyati River",
+image: "/poi-images/sanyati-river-nature-v2.webp"
+},
     description: {
       de: "Ein Zufluss zum Kariba-Stausee.",
       hu: "A Kariba-tó egyik mellékfolyója.",
@@ -357,7 +393,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MA",
     coords: [33.1, -19.9],
-    name: { de: "Buzi", hu: "Buzi", ro: "Buzi", en: "Buzi River" },
+    name: { de: "Buzi", hu: "Buzi", ro: "Buzi", en: "Buzi River",
+image: "/poi-images/buzi-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der aus den östlichen Bergen fließt.",
       hu: "Folyó, amely a keleti hegyekből ered.",
@@ -375,7 +413,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MV",
     coords: [31.5, -22.0],
-    name: { de: "Nuanetsi", hu: "Nuanetsi", ro: "Nuanetsi", en: "Nuanetsi River" },
+    name: { de: "Nuanetsi", hu: "Nuanetsi", ro: "Nuanetsi", en: "Nuanetsi River",
+image: "/poi-images/nuanetsi-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Süden, Teil des Limpopo-Beckens.",
       hu: "Déli folyó, a Limpopo-medence része.",
@@ -393,7 +433,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "lake",
     parent: "ZW-HA",
     coords: [30.7, -17.8],
-    name: { de: "Chivero-Stausee", hu: "Chivero-tó", ro: "Lacul Chivero", en: "Lake Chivero" },
+    name: { de: "Chivero-Stausee", hu: "Chivero-tó", ro: "Lacul Chivero", en: "Lake Chivero",
+image: "/poi-images/lake-chivero-nature-v2.webp"
+},
     description: {
       de: "Ein Stausee nahe Harare.",
       hu: "Víztározó Harare közelében.",
@@ -411,7 +453,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "lake",
     parent: "ZW-HA",
     coords: [30.7, -17.8],
-    name: { de: "McIlwaine-Stausee", hu: "McIlwaine-tó", ro: "Lacul McIlwaine", en: "Lake McIlwaine" },
+    name: { de: "McIlwaine-Stausee", hu: "McIlwaine-tó", ro: "Lacul McIlwaine", en: "Lake McIlwaine",
+image: "/poi-images/lake-mcilwaine-nature-v2.webp"
+},
     description: {
       de: "Alternativer Name für Lake Chivero.",
       hu: "Alternatív neve a Chivero-tónak.",
@@ -430,7 +474,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.7, -18.2],
-    name: { de: "Nyanga-Berge", hu: "Nyanga-hegység", ro: "Munții Nyanga", en: "Nyanga Mountains" },
+    name: { de: "Nyanga-Berge", hu: "Nyanga-hegység", ro: "Munții Nyanga", en: "Nyanga Mountains",
+image: "/poi-images/nyanga-mountains-nature-v2.webp"
+},
     description: {
       de: "Eine Bergregion mit Wasserfällen.",
       hu: "Hegyvidék vízesésekkel.",
@@ -448,7 +494,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.9, -19.8],
-    name: { de: "Chimanimani-Berge", hu: "Chimanimani-hegység", ro: "Munții Chimanimani", en: "Chimanimani Mountains" },
+    name: { de: "Chimanimani-Berge", hu: "Chimanimani-hegység", ro: "Munții Chimanimani", en: "Chimanimani Mountains",
+image: "/poi-images/chimanimani-mountains-nature-v2.webp"
+},
     description: {
       de: "Beeindruckende Bergkette an der Grenze zu Mosambik.",
       hu: "Lenyűgöző hegylánc a mozambiki határnál.",
@@ -466,7 +514,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "lake",
     parent: "ZW-MC",
     coords: [31.0, -17.5],
-    name: { de: "Mazowe-Stausee", hu: "Mazowe-tó", ro: "Lacul Mazowe", en: "Mazowe Dam" },
+    name: { de: "Mazowe-Stausee", hu: "Mazowe-tó", ro: "Lacul Mazowe", en: "Mazowe Dam",
+image: "/poi-images/mazowe-dam-lake-nature-v2.webp"
+},
     description: {
       de: "Ein Stausee zur landwirtschaftlichen Nutzung.",
       hu: "Víztározó mezőgazdasági használatra.",
@@ -484,7 +534,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "forest",
     parent: "ZW-MV",
     coords: [31.2, -21.3],
-    name: { de: "Runde-Wald", hu: "Runde-erdő", ro: "Pădurea Runde", en: "Runde Forest" },
+    name: { de: "Runde-Wald", hu: "Runde-erdő", ro: "Pădurea Runde", en: "Runde Forest",
+image: "/poi-images/runde-forest-nature-v2.webp"
+},
     description: {
       de: "Wald entlang des Runde-Flusses.",
       hu: "Erdő a Runde-folyó mentén.",
@@ -502,7 +554,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "forest",
     parent: "ZW-MA",
     coords: [32.3, -20.5],
-    name: { de: "Save-Tal", hu: "Save-völgy", ro: "Valea Save", en: "Save Valley" },
+    name: { de: "Save-Tal", hu: "Save-völgy", ro: "Valea Save", en: "Save Valley",
+image: "/poi-images/save-valley-nature-v2.webp"
+},
     description: {
       de: "Ein weites Flusstal mit Trockenwald.",
       hu: "Széles folyóvölgy száraz erdővel.",
@@ -520,7 +574,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "river",
     parent: "ZW-MN",
     coords: [29.5, -21.8],
-    name: { de: "Tuli", hu: "Tuli", ro: "Tuli", en: "Tuli River" },
+    name: { de: "Tuli", hu: "Tuli", ro: "Tuli", en: "Tuli River",
+image: "/poi-images/tuli-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im trockenen Südwesten.",
       hu: "Folyó a száraz délnyugaton.",
@@ -539,7 +595,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "mountain",
     parent: "ZW-MN",
     coords: [28.6, -20.2],
-    name: { de: "Bulawayo-Hügel", hu: "Bulawayo-dombok", ro: "Dealurile Bulawayo", en: "Bulawayo Hills" },
+    name: { de: "Bulawayo-Hügel", hu: "Bulawayo-dombok", ro: "Dealurile Bulawayo", en: "Bulawayo Hills",
+image: "/poi-images/bulawayo-hills-nature-v2.webp"
+},
     description: {
       de: "Hügeliges Gelände um Bulawayo.",
       hu: "Dombvidék Bulawayo körül.",
@@ -557,7 +615,9 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     type: "forest",
     parent: "ZW-MV",
     coords: [31.5, -21.5],
-    name: { de: "Gona-re-Zhou", hu: "Gona-re-Zhou", ro: "Gona-re-Zhou", en: "Gona-re-Zhou" },
+    name: { de: "Gona-re-Zhou", hu: "Gona-re-Zhou", ro: "Gona-re-Zhou", en: "Gona-re-Zhou",
+image: "/poi-images/gona-re-zhou-nature-v2.webp"
+},
     description: {
       de: "Ein großes Wald- und Wildschutzgebiet.",
       hu: "Nagy erdő- és vadvédelmi terület.",

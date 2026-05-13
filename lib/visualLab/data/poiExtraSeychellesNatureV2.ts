@@ -10,8 +10,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Morne Seychellois",
       hu: "Morne Seychellois",
       ro: "Morne Seychellois",
-      en: "Morne Seychellois"
-    },
+      en: "Morne Seychellois",
+image: "/poi-images/morne-seychellois-nature-v2.webp"
+},
     description: {
       de: "Der Morne Seychellois ist der höchste Berg der Seychellen und das Herzstück des gleichnamigen Nationalparks auf der Insel Mahé.",
       hu: "A Morne Seychellois a Seychelle-szigetek legmagasabb hegye és a Mahé szigetén található azonos nevű nemzeti park szíve.",
@@ -33,8 +34,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Vallée de Mai",
       hu: "Vallée de Mai",
       ro: "Vallée de Mai",
-      en: "Vallée de Mai"
-    },
+      en: "Vallée de Mai",
+image: "/poi-images/vallee-de-mai-nature-v2.webp"
+},
     description: {
       de: "Ein UNESCO-Weltnaturerbe auf der Insel Praslin, das einen prähistorischen Palmenwald und die berühmte Coco de Mer beherbergt.",
       hu: "Az UNESCO Világörökség része Praslin szigetén, amely egy őskori pálmaerdőnek és a híres tengerikókuszunnak ad otthont.",
@@ -56,8 +58,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Anse Lazio",
       hu: "Anse Lazio",
       ro: "Anse Lazio",
-      en: "Anse Lazio"
-    },
+      en: "Anse Lazio",
+image: "/poi-images/anse-lazio-nature-v2.webp"
+},
     description: {
       de: "Anse Lazio gilt oft als einer der schönsten Strände der Welt, bekannt für seinen feinen weißen Sand und die markanten Granitfelsen.",
       hu: "Az Anse Lazio-t gyakran a világ egyik legszebb strandjaként tartják számon, finom fehér homokjáról és jellegzetes gránitszikláiról ismert.",
@@ -79,8 +82,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Anse Source d'Argent",
       hu: "Anse Source d'Argent",
       ro: "Anse Source d'Argent",
-      en: "Anse Source d'Argent"
-    },
+      en: "Anse Source d'Argent",
+image: "/poi-images/anse-source-d-argent-nature-v2.webp"
+},
     description: {
       de: "Dieser Strand auf La Digue ist weltberühmt für seine spektakulären, von der Zeit geformten Granitfelsen und sein flaches, ruhiges Wasser.",
       hu: "Ez a La Digue-i strand világhírű az idő által formált látványos gránitszikláiról és sekély, nyugodt vizéről.",
@@ -102,8 +106,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Cousin Island",
       hu: "Cousin-sziget",
       ro: "Insula Cousin",
-      en: "Cousin Island"
-    },
+      en: "Cousin Island",
+image: "/poi-images/cousin-island-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiges Naturschutzgebiet und ein Paradies für bedrohte Vogelarten und nistende Meeresschildkröten.",
       hu: "Fontos természetvédelmi terület, a veszélyeztetett madárfajok és a fészkelő tengeri teknősök paradicsoma.",
@@ -125,8 +130,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Aride Island",
       hu: "Aride-sziget",
       ro: "Insula Aride",
-      en: "Aride Island"
-    },
+      en: "Aride Island",
+image: "/poi-images/aride-island-nature-v2.webp"
+},
     description: {
       de: "Die nördlichste der Granitinseln und eine der bedeutendsten Seevogelkolonien im Indischen Ozean.",
       hu: "A gránitszigetek legészakibb tagja, az Indiai-óceán egyik legjelentősebb tengeri madárkolóniájának otthona.",
@@ -148,8 +154,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Curieuse Island",
       hu: "Curieuse-sziget",
       ro: "Insula Curieuse",
-      en: "Curieuse Island"
-    },
+      en: "Curieuse Island",
+image: "/poi-images/curieuse-island-nature-v2.webp"
+},
     description: {
       de: "Bekannt für ihre rote Erde und die wild lebenden Riesen-Schildkröten sowie den geschützten Mangrovenwald.",
       hu: "Vörös földjéről, a szabadon élő óriásteknősökről és védett mangroveerdőiről ismert sziget.",
@@ -171,8 +178,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Sainte Anne Marine National Park",
       hu: "Sainte Anne tengeri nemzeti park",
       ro: "Parcul Național Marin Sainte Anne",
-      en: "Sainte Anne Marine National Park"
-    },
+      en: "Sainte Anne Marine National Park",
+image: "/poi-images/sainte-anne-marine-nature-v2.webp"
+},
     description: {
       de: "Der älteste Meeresnationalpark im Indischen Ozean, bestehend aus sechs kleinen Inseln und weiten Korallenriffen.",
       hu: "Az Indiai-óceán legrégebbi tengeri nemzeti parkja, amely hat kis szigetből és kiterjedt korallzátonyokból áll.",
@@ -194,8 +202,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Silhouette Island",
       hu: "Silhouette-sziget",
       ro: "Insula Silhouette",
-      en: "Silhouette Island"
-    },
+      en: "Silhouette Island",
+image: "/poi-images/silhouette-island-nature-v2.webp"
+},
     description: {
       de: "Die drittgrößte Insel der Seychellen, fast vollständig als Nationalpark geschützt und bekannt für ihre bergige, dschungelartige Landschaft.",
       hu: "A Seychelle-szigetek harmadik legnagyobb szigete, szinte egésze nemzeti park, hegyvidéki, dzsungelszerű tájairól ismert.",
@@ -217,8 +226,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Bird Island",
       hu: "Bird-sziget",
       ro: "Insula Bird",
-      en: "Bird Island"
-    },
+      en: "Bird Island",
+image: "/poi-images/bird-island-nature-v2.webp"
+},
     description: {
       de: "Eine flache Koralleninsel, die während der Brutzeit Millionen von Rußseeschwalben beherbergt.",
       hu: "Lapos korallsziget, amely a költési időszakban füstös csérek millióinak ad otthont.",
@@ -240,8 +250,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Denis Island",
       hu: "Denis-sziget",
       ro: "Insula Denis",
-      en: "Denis Island"
-    },
+      en: "Denis Island",
+image: "/poi-images/denis-island-nature-v2.webp"
+},
     description: {
       de: "Eine private Koralleninsel am nördlichen Rand der Seychellen-Bank, ideal für Naturliebhaber und Taucher.",
       hu: "Privát korallsziget a Seychelle-pad északi peremén, ideális a természet szerelmeseinek és a búvároknak.",
@@ -263,8 +274,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Aldabra-Atoll",
       hu: "Aldabra-atoll",
       ro: "Atolul Aldabra",
-      en: "Aldabra Atoll"
-    },
+      en: "Aldabra Atoll",
+image: "/poi-images/aldabra-atoll-nature-v2.webp"
+},
     description: {
       de: "Das größte gehobene Korallenatoll der Welt und ein UNESCO-Weltnaturerbe, bekannt für seine riesige Schildkrötenpopulation.",
       hu: "A világ legnagyobb megemelkedett korallatollja és az UNESCO Világörökség része, hatalmas teknőspopulációjáról ismert.",
@@ -286,8 +298,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Desroches-Insel",
       hu: "Desroches-sziget",
       ro: "Insula Desroches",
-      en: "Desroches Island"
-    },
+      en: "Desroches Island",
+image: "/poi-images/desroches-island-nature-v2.webp"
+},
     description: {
       de: "Die größte Insel der Amiranten-Gruppe, umgeben von 14 Kilometern unberührten Sandstränden.",
       hu: "Az Amirantes-szigetcsoport legnagyobb tagja, amelyet 14 kilométernyi érintetlen homokos strand vesz körül.",
@@ -309,8 +322,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Mount Simpson",
       hu: "Simpson-hegy",
       ro: "Muntele Simpson",
-      en: "Mount Simpson"
-    },
+      en: "Mount Simpson",
+image: "/poi-images/mount-simpson-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Granitberg auf Mahé, der beliebte Wanderwege mit fantastischen Ausblicken auf die Küste bietet.",
       hu: "Jellegzetes gránithegy Mahé szigetén, amely népszerű túraútvonalakat és fantasztikus kilátást kínál a partra.",
@@ -333,8 +347,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Mare aux Cochons",
       hu: "Mare aux Cochons",
       ro: "Mare aux Cochons",
-      en: "Mare aux Cochons"
-    },
+      en: "Mare aux Cochons",
+image: "/poi-images/mare-aux-cochons-nature-v2.webp"
+},
     description: {
       de: "Ein Hochlandsümpf und Süßwassergebiet im Morne Seychellois Nationalpark, ein wichtiger Wasserspeicher der Insel.",
       hu: "Felföldi mocsár és édesvízi terület a Morne Seychellois Nemzeti Parkban, a sziget fontos víztározója.",
@@ -356,8 +371,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Fond Ferdinand",
       hu: "Fond Ferdinand",
       ro: "Fond Ferdinand",
-      en: "Fond Ferdinand"
-    },
+      en: "Fond Ferdinand",
+image: "/poi-images/fond-ferdinand-nature-v2.webp"
+},
     description: {
       de: "Ein Naturschutzgebiet auf Praslin, das mehr als sechsmal so groß ist wie das Vallée de Mai und ebenfalls die Coco de Mer beherbergt.",
       hu: "Természetvédelmi terület Praslinon, amely több mint hatszor akkora, mint a Vallée de Mai, és szintén otthont ad a tengerikókuszunak.",
@@ -379,8 +395,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Copolia",
       hu: "Copolia",
       ro: "Copolia",
-      en: "Copolia"
-    },
+      en: "Copolia",
+image: "/poi-images/copolia-trail-nature-v2.webp"
+},
     description: {
       de: "Ein beliebter Wanderpfad auf Mahé, der zu einem Granitplateau mit 360-Grad-Ausblick führt.",
       hu: "Népszerű túraútvonal Mahé szigetén, amely egy gránitfennsíkhoz vezet, 360 fokos kilátással.",
@@ -402,8 +419,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "North Island",
       hu: "North-sziget",
       ro: "Insula North",
-      en: "North Island"
-    },
+      en: "North Island",
+image: "/poi-images/north-island-nature-v2.webp"
+},
     description: {
       de: "Eine private Insel, die für ihr ehrgeiziges ökologisches Wiederherstellungsprojekt 'Noah's Ark' bekannt ist.",
       hu: "Privát sziget, amely az 'Árkádia' (Noah's Ark) nevű ambiciózus ökológiai helyreállítási projektjéről ismert.",
@@ -425,8 +443,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Frégate Island",
       hu: "Frégate-sziget",
       ro: "Insula Frégate",
-      en: "Frégate Island"
-    },
+      en: "Frégate Island",
+image: "/poi-images/fregate-island-nature-v2.webp"
+},
     description: {
       de: "Eine östliche Granitinsel, die als Rückzugsort für seltene Arten und luxuriösen Ökotourismus dient.",
       hu: "Keleti gránitsziget, amely ritka fajok menedékeként és luxus ökoturizmus helyszíneként szolgál.",
@@ -448,8 +467,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Anse Georgette",
       hu: "Anse Georgette",
       ro: "Anse Georgette",
-      en: "Anse Georgette"
-    },
+      en: "Anse Georgette",
+image: "/poi-images/anse-georgette-nature-v2.webp"
+},
     description: {
       de: "Ein unberührter Strand auf Praslin, der oft über das Gelände eines Resorts oder mit dem Boot erreicht wird und für seine Abgeschiedenheit bekannt ist.",
       hu: "Praslin egyik érintetlen strandja, amelyet gyakran egy üdülőhelyen keresztül vagy hajóval közelítenek meg, és elszigeteltségéről ismert.",
@@ -471,8 +491,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Anse Intendance",
       hu: "Anse Intendance",
       ro: "Anse Intendance",
-      en: "Anse Intendance"
-    },
+      en: "Anse Intendance",
+image: "/poi-images/anse-intendance-nature-v2.webp"
+},
     description: {
       de: "Ein wilder und imposanter Strand im Süden von Mahé, bekannt für seine großen Wellen und die üppige Bergkulisse.",
       hu: "Vad és impozáns strand Mahé déli részén, hatalmas hullámairól és buja hegyi hátteréről ismert.",
@@ -494,8 +515,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Île Thérèse",
       hu: "Thérèse-sziget",
       ro: "Insula Thérèse",
-      en: "Thérèse Island"
-    },
+      en: "Thérèse Island",
+image: "/poi-images/ile-therese-nature-v2.webp"
+},
     description: {
       de: "Eine unbewohnte Insel vor der Westküste von Mahé, bekannt für ihre kegelförmige Silhouette und exzellente Schnorchelmöglichkeiten.",
       hu: "Lakatlan sziget Mahé nyugati partjainál, kúp alakú sziluettjéről és kiváló sznorkelezési lehetőségeiről ismert.",
@@ -517,8 +539,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Félicité",
       hu: "Félicité-sziget",
       ro: "Insula Félicité",
-      en: "Félicité Island"
-    },
+      en: "Félicité Island",
+image: "/poi-images/felicite-island-nature-v2.webp"
+},
     description: {
       de: "Eine malerische Granitinsel in der Nähe von La Digue, geprägt durch steile Felsen und dichten Tropenwald.",
       hu: "Festői gránitsziget La Digue közelében, meredek sziklákkal és sűrű trópusi erdővel.",
@@ -540,8 +563,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Grand Barbe",
       hu: "Grand Barbe",
       ro: "Grand Barbe",
-      en: "Grand Barbe"
-    },
+      en: "Grand Barbe",
+image: "/poi-images/grand-barbe-nature-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Plateau auf der Insel Silhouette, das eine Geisterstadt, Mangroven und einen unberührten Strand verbirgt.",
       hu: "Elszigetelt fennsík Silhouette szigetén, amely egy szellemvárost, mangroveerdőket és egy érintetlen strandot rejt.",
@@ -563,8 +587,9 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       de: "Morne Blanc",
       hu: "Morne Blanc",
       ro: "Morne Blanc",
-      en: "Morne Blanc"
-    },
+      en: "Morne Blanc",
+image: "/poi-images/morne-blanc-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Gipfel auf Mahé, bekannt für seinen Nebelwald und die spektakuläre Klippe mit Aussicht auf den Ozean.",
       hu: "Jellegzetes csúcs Mahé szigetén, amely köderdőjéről és az óceánra néző látványos sziklájáról ismert.",

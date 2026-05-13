@@ -6,7 +6,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "desert",
     parent: "SA-04",
     coords: [50.0, 20.0],
-    name: { de: "Rub al-Chali", hu: "Rub al-Háli", ro: "Rub al-Khali", en: "Rub' al Khali" },
+    name: { de: "Rub al-Chali", hu: "Rub al-Háli", ro: "Rub al-Khali", en: "Rub' al Khali",
+image: "/poi-images/sa-rub-al-khali-relief-v2.webp"
+},
     description: {
       de: "Die größte Sandwüste der Erde erstreckt sich über ein gewaltiges Gebiet im Süden der Arabischen Halbinsel und wird oft als das Leere Viertel bezeichnet.",
       hu: "A Föld legnagyobb egybefüggő homoksivataga, amely az Arab-félsziget déli részén terül el, és Üres negyedként is ismert.",
@@ -44,7 +46,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "desert",
     parent: "SA-06",
     coords: [41.0, 28.0],
-    name: { de: "Große Nafud", hu: "Nefúd-sivatag", ro: "Deșertul An Nafud", en: "An Nafud" },
+    name: { de: "Große Nafud", hu: "Nefúd-sivatag", ro: "Deșertul An Nafud", en: "An Nafud",
+image: "/poi-images/sa-an-nafud-relief-v2.webp"
+},
     description: {
       de: "Eine riesige Sandwüste im Norden Saudi-Arabiens, die für ihre auffälligen, sichelförmigen rötlichen Dünen und plötzlich auftretenden starken Winde berühmt ist.",
       hu: "Szaúd-Arábia északi részének hatalmas homoksivataga, amely feltűnő, sarló alakú vöröses dűnéiről és hirtelen támadó erős szeleiről híres.",
@@ -83,7 +87,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "desert",
     parent: "SA-04",
     coords: [46.5, 26.0],
-    name: { de: "Ad-Dahna-Wüste", hu: "Dahna-sivatag", ro: "Deșertul Ad-Dahna", en: "Ad-Dahna Desert" },
+    name: { de: "Ad-Dahna-Wüste", hu: "Dahna-sivatag", ro: "Deșertul Ad-Dahna", en: "Ad-Dahna Desert",
+image: "/poi-images/sa-ad-dahna-relief-v2.webp"
+},
     description: {
       de: "Dieser schmale, aber lange Sandkorridor verbindet die große Nafud-Wüste im Norden mit der Rub al-Chali im Süden und bildet eine natürliche rote Brücke.",
       hu: "Ez a keskeny, de hosszú homokfolyosó köti össze az északi Nefúd-sivatagot a déli Rub al-Hálival, egy természetes vörös hidat alkotva.",
@@ -122,7 +128,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "mountain",
     parent: "SA-02",
     coords: [39.5, 23.5],
-    name: { de: "Hidschas-Gebirge", hu: "Hidzsáz-hegység", ro: "Munții Hejaz", en: "Hijaz Mountains" },
+    name: { de: "Hidschas-Gebirge", hu: "Hidzsáz-hegység", ro: "Munții Hejaz", en: "Hijaz Mountains",
+image: "/poi-images/sa-hijaz-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine markante Bergkette an der Westküste Saudi-Arabiens, die steil zum Roten Meer abfällt und historisch eine wichtige Rolle für die Region spielte.",
       hu: "Egy feltűnő hegylánc Szaúd-Arábia nyugati partján, amely meredeken ereszkedik a Vörös-tenger felé, és történelmileg fontos szerepet játszott.",
@@ -160,7 +168,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "mountain",
     parent: "SA-14",
     coords: [42.5, 18.5],
-    name: { de: "Sarat-Gebirge", hu: "Szaravát-hegység", ro: "Munții Sarawat", en: "Sarawat Mountains" },
+    name: { de: "Sarat-Gebirge", hu: "Szaravát-hegység", ro: "Munții Sarawat", en: "Sarawat Mountains",
+image: "/poi-images/sa-sarawat-mountains-relief-v2.webp"
+},
     description: {
       de: "Die höchste und ausgedehnteste Gebirgskette auf der Arabischen Halbinsel, die sich durch tief eingeschnittene Täler und steile Felswände auszeichnet.",
       hu: "Az Arab-félsziget legmagasabb és legkiterjedtebb hegylánca, amelyet mélyen bevágódó völgyek és meredek sziklafalak jellemeznek.",
@@ -198,7 +208,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "mountain",
     parent: "SA-06",
     coords: [41.5, 27.5],
-    name: { de: "Dschabal Schammar", hu: "Dzsebel Sammar", ro: "Jabal Shammar", en: "Jabal Shammar" },
+    name: { de: "Dschabal Schammar", hu: "Dzsebel Sammar", ro: "Jabal Shammar", en: "Jabal Shammar",
+image: "/poi-images/sa-jabal-shammar-relief-v2.webp"
+},
     description: {
       de: "Eine zerklüftete Gebirgslandschaft in der nördlichen Region Ha'il, die von tiefen Tälern und massiven Granitfelsen dominiert wird.",
       hu: "Egy zord hegyvidék az északi Háíl régióban, amelyet mély völgyek és masszív gránitsziklák uralnak.",
@@ -237,7 +249,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "mountain",
     parent: "SA-07",
     coords: [35.5, 28.5],
-    name: { de: "Midian-Gebirge", hu: "Madián-hegység", ro: "Munții Midian", en: "Midian Mountains" },
+    name: { de: "Midian-Gebirge", hu: "Madián-hegység", ro: "Munții Midian", en: "Midian Mountains",
+image: "/poi-images/sa-midian-mountains-relief-v2.webp"
+},
     description: {
       de: "Im äußersten Nordwesten des Landes gelegen, ist dieses Gebirge für seine komplexen geologischen Formationen und tiefe Schluchten bekannt.",
       hu: "Az ország legészaknyugatibb részén található hegység komplex geológiai képződményeiről és mély szurdokairól ismert.",
@@ -275,7 +289,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "valley",
     parent: "SA-05",
     coords: [43.0, 26.5],
-    name: { de: "Wadi ar-Rummah", hu: "Vádi ar-Rumma", ro: "Wadi al-Rummah", en: "Wadi al-Rummah" },
+    name: { de: "Wadi ar-Rummah", hu: "Vádi ar-Rumma", ro: "Wadi al-Rummah", en: "Wadi al-Rummah",
+image: "/poi-images/sa-wadi-ar-rummah-relief-v2.webp"
+},
     description: {
       de: "Das längste und breiteste Flusstal auf der Arabischen Halbinsel, das sich von den westlichen Bergen bis in die östlichen Wüstengebiete schlängelt.",
       hu: "Az Arab-félsziget leghosszabb és legszélesebb folyóvölgye, amely a nyugati hegyektől a keleti sivatagos területekig kígyózik.",
@@ -313,7 +329,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "valley",
     parent: "SA-01",
     coords: [44.5, 20.5],
-    name: { de: "Wadi ad-Dawasir", hu: "Vádi ad-Davászir", ro: "Wadi ad-Dawasir", en: "Wadi ad-Dawasir" },
+    name: { de: "Wadi ad-Dawasir", hu: "Vádi ad-Davászir", ro: "Wadi ad-Dawasir", en: "Wadi ad-Dawasir",
+image: "/poi-images/sa-wadi-ad-dawasir-relief-v2.webp"
+},
     description: {
       de: "Ein weites, fruchtbares Tal in der südlichen Riad-Region, das die raue Wüstenlandschaft mit landwirtschaftlichen Oasen durchbricht.",
       hu: "Egy széles, termékeny völgy a déli Rijád régióban, amely mezőgazdasági oázisokkal töri meg a zord sivatagi tájat.",
@@ -351,7 +369,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "valley",
     parent: "SA-02",
     coords: [39.5, 21.5],
-    name: { de: "Wadi Fatima", hu: "Vádi Fatima", ro: "Wadi Fatima", en: "Wadi Fatima" },
+    name: { de: "Wadi Fatima", hu: "Vádi Fatima", ro: "Wadi Fatima", en: "Wadi Fatima",
+image: "/poi-images/sa-wadi-fatima-relief-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Tal zwischen den Städten Mekka und Dschidda, das historisch als grüne Lebensader für Karawanen diente.",
       hu: "Jelentős völgy Mekka és Dzsidda városai között, amely történelmileg a karavánok zöld éltető erejeként szolgált.",
@@ -389,7 +409,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "valley",
     parent: "SA-09",
     coords: [42.6, 17.0],
-    name: { de: "Wadi Dschisan", hu: "Vádi Dzsízán", ro: "Wadi Jizan", en: "Wadi Jizan" },
+    name: { de: "Wadi Dschisan", hu: "Vádi Dzsízán", ro: "Wadi Jizan", en: "Wadi Jizan",
+image: "/poi-images/sa-wadi-jizan-relief-v2.webp"
+},
     description: {
       de: "Ein äußerst fruchtbares Flusstal im äußersten Südwesten des Landes, das von starken saisonalen Niederschlägen aus dem Jemen profitiert.",
       hu: "Rendkívül termékeny folyóvölgy az ország legdélnyugatibb részén, amely a Jemen felől érkező erős szezonális esőzésekből profitál.",
@@ -427,7 +449,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "plateau",
     parent: "SA-03",
     coords: [39.8, 25.5],
-    name: { de: "Harrat Chaybar", hu: "Harrát Hajbar", ro: "Harrat Khaybar", en: "Harrat Khaybar" },
+    name: { de: "Harrat Chaybar", hu: "Harrát Hajbar", ro: "Harrat Khaybar", en: "Harrat Khaybar",
+image: "/poi-images/sa-harrat-khaybar-relief-v2.webp"
+},
     description: {
       de: "Ein gewaltiges Vulkanfeld im Nordwesten, übersät mit Kratern, Lavafeldern und mysteriösen antiken Steinstrukturen, die als „Drachentore“ bekannt sind.",
       hu: "Hatalmas vulkáni mező északnyugaton, amelyet kráterek, lávamezők és titokzatos ókori kőszerkezetek, úgynevezett „sárkánykapuk” borítanak.",
@@ -465,7 +489,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "plateau",
     parent: "SA-03",
     coords: [39.5, 23.0],
-    name: { de: "Harrat Rahat", hu: "Harrát Rahat", ro: "Harrat Rahat", en: "Harrat Rahat" },
+    name: { de: "Harrat Rahat", hu: "Harrát Rahat", ro: "Harrat Rahat", en: "Harrat Rahat",
+image: "/poi-images/sa-harrat-rahat-relief-v2.webp"
+},
     description: {
       de: "Eines der größten Lavafelder der Welt, das sich südlich der heiligen Stadt Medina erstreckt und eine schwarze, zerklüftete Landschaft bildet.",
       hu: "A világ egyik legnagyobb lávamezeje, amely a szent várostól, Medinától délre húzódik, és fekete, zord tájat alkot.",
@@ -503,7 +529,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "plateau",
     parent: "SA-02",
     coords: [41.0, 22.5],
-    name: { de: "Harrat Kischb", hu: "Harrát Kisb", ro: "Harrat Kishb", en: "Harrat Kishb" },
+    name: { de: "Harrat Kischb", hu: "Harrát Kisb", ro: "Harrat Kishb", en: "Harrat Kishb",
+image: "/poi-images/sa-harrat-kishb-relief-v2.webp"
+},
     description: {
       de: "Ein vulkanisches Hochplateau, auf dem sich eindrucksvolle Vulkankrater befinden, darunter auch der berühmte weiße Al-Wahbah-Krater am Rande des Feldes.",
       hu: "Egy vulkáni fennsík, amelyen lenyűgöző vulkáni kráterek találhatók, köztük a híres fehér Al-Wahbah-kráter a mező szélén.",
@@ -541,7 +569,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "coast",
     parent: "SA-02",
     coords: [39.0, 22.0],
-    name: { de: "Küste des Roten Meeres", hu: "Vörös-tenger partvidéke", ro: "Coasta Mării Roșii", en: "Red Sea Coast" },
+    name: { de: "Küste des Roten Meeres", hu: "Vörös-tenger partvidéke", ro: "Coasta Mării Roșii", en: "Red Sea Coast",
+image: "/poi-images/sa-red-sea-coast-relief-v2.webp"
+},
     description: {
       de: "Die westliche Meeresküste des Landes, geprägt durch atemberaubende Korallenriffe, türkisblaues Wasser und aufstrebende Mega-Tourismusprojekte.",
       hu: "Az ország nyugati tengerpartja, amelyet lenyűgöző korallzátonyok, türkizkék víz és feltörekvő megaturisztikai projektek jellemeznek.",
@@ -579,7 +609,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "coast",
     parent: "SA-04",
     coords: [50.5, 26.5],
-    name: { de: "Küste des Persischen Golfs", hu: "Perzsa-öböl partvidéke", ro: "Coasta Golfului Persic", en: "Arabian Gulf Coast" },
+    name: { de: "Küste des Persischen Golfs", hu: "Perzsa-öböl partvidéke", ro: "Coasta Golfului Persic", en: "Arabian Gulf Coast",
+image: "/poi-images/sa-arabian-gulf-coast-relief-v2.webp"
+},
     description: {
       de: "Die flache, sandige Ostküste Saudi-Arabiens, die historisch vom Perlenhandel geprägt war und heute das Zentrum der Ölindustrie des Landes bildet.",
       hu: "Szaúd-Arábia lapos, homokos keleti partja, amelyet történelmileg a gyöngykereskedelem jellemzett, ma pedig az ország olajiparának központja.",
@@ -617,7 +649,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "coast",
     parent: "SA-09",
     coords: [42.5, 17.5],
-    name: { de: "Tihama-Küstenebene", hu: "Tiháma parti síkság", ro: "Câmpia de coastă Tihamah", en: "Tihamah Coastal Plain" },
+    name: { de: "Tihama-Küstenebene", hu: "Tiháma parti síkság", ro: "Câmpia de coastă Tihamah", en: "Tihamah Coastal Plain",
+image: "/poi-images/sa-tihamah-coastal-plain-relief-v2.webp"
+},
     description: {
       de: "Eine heiße, feuchte Küstenebene, die sich parallel zum Roten Meer erstreckt und durch ihre üppigere Vegetation im Süden besticht.",
       hu: "Forró, párás parti síkság, amely a Vörös-tengerrel párhuzamosan fut, és a déli részén dúsabb növényzettel varázsol el.",
@@ -656,7 +690,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "mountain",
     parent: "SA-03",
     coords: [38.0, 24.5],
-    name: { de: "Dschabal Radwa", hu: "Dzsebel Radva", ro: "Jabal Radhwa", en: "Jabal Radhwa" },
+    name: { de: "Dschabal Radwa", hu: "Dzsebel Radva", ro: "Jabal Radhwa", en: "Jabal Radhwa",
+image: "/poi-images/sa-jabal-radhwa-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Bergkamm in der Region Yanbu, der sich rötlich aus der umgebenden Ebene erhebt und in der klassischen arabischen Poesie oft gerühmt wurde.",
       hu: "Feltűnő hegygerinc a Janbu régióban, amely vörösen emelkedik ki a környező síkságból, és a klasszikus arab költészetben is gyakran dicsőítették.",
@@ -694,7 +730,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "mountain",
     parent: "SA-06",
     coords: [42.0, 27.0],
-    name: { de: "Dschabal Salma", hu: "Dzsebel Szalma", ro: "Jabal Salma", en: "Jabal Salma" },
+    name: { de: "Dschabal Salma", hu: "Dzsebel Szalma", ro: "Jabal Salma", en: "Jabal Salma",
+image: "/poi-images/sa-jabal-salma-relief-v2.webp"
+},
     description: {
       de: "Teil des Dschabal-Schammar-Massivs, bekannt für seine vulkanischen Krater und tiefen Wasserstellen, die seit Jahrtausenden Beduinen anziehen.",
       hu: "A Dzsebel Sammar-hegység része, amely vulkáni krátereiről és mély vízlelőhelyeiről ismert, amelyek évezredek óta vonzzák a beduinokat.",
@@ -732,7 +770,9 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     type: "valley",
     parent: "SA-14",
     coords: [42.6, 19.9],
-    name: { de: "Wadi Bischa", hu: "Vádi Bisa", ro: "Wadi Bisha", en: "Wadi Bisha" },
+    name: { de: "Wadi Bischa", hu: "Vádi Bisa", ro: "Wadi Bisha", en: "Wadi Bisha",
+image: "/poi-images/sa-wadi-bisha-relief-v2.webp"
+},
     description: {
       de: "Eines der bedeutendsten Täler im Südwesten, das durch den Bau der König-Fahd-Talsperre, einer der größten im Nahen Osten, dominiert wird.",
       hu: "A délnyugat egyik legjelentősebb völgye, amelyet a Fahd király gát, a Közel-Kelet egyik legnagyobb duzzasztógátjának építése ural.",

@@ -4,7 +4,9 @@ export const swedenLifeV2: POI[] = [
   {
     id: "sweden-sarek-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Sarek", hu: "Sarek Nemzeti Park", ro: "Parcul Național Sarek", en: "Sarek National Park" },
+    name: { de: "Nationalpark Sarek", hu: "Sarek Nemzeti Park", ro: "Parcul Național Sarek", en: "Sarek National Park",
+image: "/poi-images/sweden-sarek-national-park-life-v2.webp"
+},
     coords: [17.66, 67.33],
     coordinates: { lat: 67.33, lng: 17.66 },
     description: {
@@ -19,11 +21,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Peste 100 de ghețari în parc", "Fără trasee marcate", "Habitat pentru elani și reni"],
       en: ["Established in 1909", "Over 100 glaciers in the park", "No marked hiking trails", "Home to moose and reindeer"],
     },
-    imageHint: "Sarek National Park rugged mountain peaks and glaciers", image: "/poi-images/sweden-sarek-national-park-life-v2.webp"},
-  {
+imageHint: "Sarek National Park rugged mountain peaks and glaciers",
+    descriptionAdvanced: {
+      de: "Sarek gilt als die letzte Wildnis Europas ohne markierte Wege oder Hütten. Das Hochgebirge umfasst sechs der höchsten Gipfel Schwedens und über 100 imposante Gletscher.",
+      hu: "A Sarek Európa utolsó igazi vadonja, ahol nincsenek jelzett ösvények vagy menedékházak. Területén hat darab 2000 méter feletti csúcs és közel 100 gleccser található.",
+      ro: "Sarek este considerat ultima zonă sălbatică a Europei, fără trasee marcate sau cabane. Găzduiește șase dintre cele mai înalte vârfuri ale Suediei și peste 100 de ghețari.",
+      en: "Sarek is Europe's last true wilderness, featuring no marked trails or cabins. It contains six of Sweden's thirteen highest peaks and approximately 100 glaciers.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1909", "Fläche 1.970 km²", "Sarektjåkkå 2.089 m", "100 Gletscher"],
+      hu: ["1909-ben alapították", "1.970 km² terület", "2089 m magas csúcs", "100 gleccser"],
+      ro: ["Fondat în 1909", "Suprafață 1.970 km²", "Vârful Sarektjåkkå 2.089 m", "100 de ghețari"],
+      en: ["Founded in 1909", "Area 1,970 km²", "Sarektjåkkå peak 2,089 m", "100 glaciers"],
+    },
+    image: "/poi-images/sweden-sarek-national-park-life-v2.webp",
+},  {
     id: "sweden-padjelanta-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Padjelanta", hu: "Padjelanta Nemzeti Park", ro: "Parcul Național Padjelanta", en: "Padjelanta National Park" },
+    name: { de: "Nationalpark Padjelanta", hu: "Padjelanta Nemzeti Park", ro: "Parcul Național Padjelanta", en: "Padjelanta National Park",
+image: "/poi-images/sweden-padjelanta-national-park-life-v2.webp"
+},
     coords: [16.66, 67.33],
     coordinates: { lat: 67.33, lng: 16.66 },
     description: {
@@ -38,11 +55,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Suprafață de 1984 km²", "Patrimoniu UNESCO Laponia", "Pășune de vară pentru reni", "Bogat în plante arctice"],
       en: ["Area of 1,984 km²", "UNESCO Laponia World Heritage", "Summer pasture for reindeer", "Rich in arctic plant life"],
     },
-    imageHint: "Padjelanta National Park vast plateau and lake Virihaure", image: "/poi-images/sweden-padjelanta-national-park-life-v2.webp"},
-  {
+imageHint: "Padjelanta National Park vast plateau and lake Virihaure",
+    descriptionAdvanced: {
+      de: "Padjelanta ist Schwedens größter Nationalpark und geprägt von weiten Hochebenen und großen Seen. Das Gebiet ist ein wichtiges Sommerweideland für die Rentiere der Samen.",
+      hu: "Padjelanta Svédország legnagyobb nemzeti parkja, melyet hatalmas fennsíkok és tavak jellemeznek. A terület a számi rénszarvaspásztorok fontos nyári legelője.",
+      ro: "Padjelanta este cel mai mare parc național al Suediei, caracterizat de platouri vaste și lacuri mari. Zona este o pășune de vară vitală pentru renii populației Sami.",
+      en: "Padjelanta is Sweden's largest national park, characterized by vast plateaus and large lakes. It serves as essential summer grazing land for Sami reindeer herds.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1962", "Fläche 1.984 km²", "Teil von Laponia", "Höhe bis 1.000 m"],
+      hu: ["1962-ben alapították", "1.984 km² terület", "Laponia világörökség része", "1000 m feletti magasság"],
+      ro: ["Fondat în 1962", "Suprafață 1.984 km²", "Parte din situl Laponia", "Altitudine medie 1.000 m"],
+      en: ["Founded in 1962", "Area 1,984 km²", "Part of Laponia site", "Altitude around 1,000 m"],
+    },
+    image: "/poi-images/sweden-padjelanta-national-park-life-v2.webp",
+},  {
     id: "sweden-stora-sjofallet-life-v2",
     type: "park",
-    name: { de: "Nationalpark Stora Sjöfallet", hu: "Stora Sjöfallet Nemzeti Park", ro: "Parcul Național Stora Sjöfallet", en: "Stora Sjöfallet National Park" },
+    name: { de: "Nationalpark Stora Sjöfallet", hu: "Stora Sjöfallet Nemzeti Park", ro: "Parcul Național Stora Sjöfallet", en: "Stora Sjöfallet National Park",
+image: "/poi-images/sweden-stora-sjofallet-life-v2.webp"
+},
     coords: [18.0, 67.5],
     coordinates: { lat: 67.5, lng: 18.0 },
     description: {
@@ -57,11 +89,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Găzduiește muntele Akka", "Se învecinează cu parcul Sarek", "Important pentru cultura Sami"],
       en: ["Established in 1909", "Home to Mount Akka", "Borders Sarek National Park", "Important for Sami culture"],
     },
-    imageHint: "Stora Sjöfallet National Park with Akka mountain massif", image: "/poi-images/sweden-stora-sjofallet-life-v2.webp"},
-  {
+imageHint: "Stora Sjöfallet National Park with Akka mountain massif",
+    descriptionAdvanced: {
+      de: "Dieser Park ist bekannt für seine dramatischen Bergmassive und den namensgebenden Wasserfall. Er bildet den zentralen Teil des UNESCO-Weltkulturerbes Laponia.",
+      hu: "A park drámai hegyvonulatairól és a névadó vízesésről ismert. A terület az UNESCO Világörökség részét képező Laponia régió központi elemét alkotja.",
+      ro: "Parcul este cunoscut pentru masivele sale muntoase dramatice și cascada care îi dă numele. Formează o parte centrală a Patrimoniului Mondial UNESCO Laponia.",
+      en: "Known for dramatic mountain massifs and its namesake waterfall, this park forms a central part of the UNESCO World Heritage site known as Laponia.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1909", "Fläche 1.278 km²", "Akka-Massiv 2.015 m", "Teil von Laponia"],
+      hu: ["1909-ben alapították", "1.278 km² terület", "Akka-masszívum 2.015 m", "Laponia része"],
+      ro: ["Fondat în 1909", "Suprafață 1.278 km²", "Masivul Akka 2.015 m", "Situl UNESCO Laponia"],
+      en: ["Founded in 1909", "Area 1,278 km²", "Akka massif 2,015 m", "UNESCO Laponia site"],
+    },
+    image: "/poi-images/sweden-stora-sjofallet-life-v2.webp",
+},  {
     id: "sweden-muddus-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Muddus", hu: "Muddus Nemzeti Park", ro: "Parcul Național Muddus", en: "Muddus National Park" },
+    name: { de: "Nationalpark Muddus", hu: "Muddus Nemzeti Park", ro: "Parcul Național Muddus", en: "Muddus National Park",
+image: "/poi-images/sweden-muddus-national-park-life-v2.webp"
+},
     coords: [20.16, 66.88],
     coordinates: { lat: 66.88, lng: 20.16 },
     description: {
@@ -76,11 +123,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Faimos pentru cascada Muddus", "Cel mai bătrân pin din Suedia", "Liniște și izolare", "Parte a patrimoniului Laponia"],
       en: ["Famous for the Muddus waterfall", "Oldest pine tree in Sweden", "Known for silence and solitude", "Part of the Laponia World Heritage"],
     },
-    imageHint: "Muddus National Park ancient forest and waterfall", image: "/poi-images/sweden-muddus-national-park-life-v2.webp"},
-  {
+imageHint: "Muddus National Park ancient forest and waterfall",
+    descriptionAdvanced: {
+      de: "Muddus ist berühmt für seine unberührten Urwälder, tiefen Schluchten und weiten Moore. Hier finden sich einige der ältesten Kiefern Schwedens mit über 700 Jahren.",
+      hu: "A Muddus érintetlen őserdőiről, mély szurdokairól és kiterjedt mocsarairól híres. Itt találhatók Svédország legöregebb, több mint 700 éves erdeifenyői.",
+      ro: "Muddus este faimos pentru pădurile sale virgine, cheile adânci și mlaștinile vaste. Aici se află unii dintre cei mai bătrâni pini din Suedia, de peste 700 de ani.",
+      en: "Muddus is famous for its untouched old-growth forests, deep ravines, and vast marshes. It contains some of Sweden's oldest pines, exceeding 700 years of age.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1942", "Fläche 493 km²", "Muddusfallet 42 m", "700 Jahre alte Bäume"],
+      hu: ["1942-ben alapították", "493 km² terület", "42 m magas vízesés", "700 éves fenyőfák"],
+      ro: ["Fondat în 1942", "Suprafață 493 km²", "Cascada Muddusfallet 42 m", "Pini de 700 de ani"],
+      en: ["Founded in 1942", "Area 493 km²", "Muddusfallet falls 42 m", "700-year-old pines"],
+    },
+    image: "/poi-images/sweden-muddus-national-park-life-v2.webp",
+},  {
     id: "sweden-fulufjallet-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Fulufjället", hu: "Fulufjället Nemzeti Park", ro: "Parcul Național Fulufjället", en: "Fulufjället National Park" },
+    name: { de: "Nationalpark Fulufjället", hu: "Fulufjället Nemzeti Park", ro: "Parcul Național Fulufjället", en: "Fulufjället National Park",
+image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp"
+},
     coords: [12.71, 61.58],
     coordinates: { lat: 61.58, lng: 12.71 },
     description: {
@@ -95,11 +157,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Njupeskär are 93 metri înălțime", "Locația lui Old Tjikko (molid)", "Fondat în anul 2002", "Pășunatul renilor este interzis"],
       en: ["Njupeskär is 93 meters high", "Location of Old Tjikko (spruce)", "Established in 2002", "No reindeer grazing allowed"],
     },
-    imageHint: "Fulufjället National Park Njupeskär waterfall", image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp"},
-  {
+imageHint: "Fulufjället National Park Njupeskär waterfall",
+    descriptionAdvanced: {
+      de: "Fulufjället beherbergt mit dem Njupeskär den höchsten Wasserfall Schwedens. Zudem steht hier Old Tjikko, eine Fichte, deren Wurzelsystem fast 10.000 Jahre alt ist.",
+      hu: "A Fulufjället ad otthont a Njupeskärnek, Svédország legmagasabb vízesésének. Itt található Old Tjikko is, a lucfenyő, amelynek gyökérzete közel 10 000 éves.",
+      ro: "Fulufjället găzduiește Njupeskär, cea mai înaltă cascadă din Suedia. Tot aici se află Old Tjikko, un molid cu un sistem radicular vechi de aproape 10.000 de ani.",
+      en: "Fulufjället is home to Njupeskär, Sweden's highest waterfall. It also features Old Tjikko, a Norway spruce with a root system nearly 10,000 years old.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 2002", "Njupeskär 93 m", "Old Tjikko 9.550 Jahre", "Fläche 385 km²"],
+      hu: ["2002-ben alapították", "93 m magas vízesés", "Old Tjikko 9.550 éves", "385 km² terület"],
+      ro: ["Fondat în 2002", "Cascada Njupeskär 93 m", "Old Tjikko 9.550 ani", "Suprafață 385 km²"],
+      en: ["Founded in 2002", "Njupeskär falls 93 m", "Old Tjikko 9,550 years", "Area 385 km²"],
+    },
+    image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp",
+},  {
     id: "sweden-skuleskogen-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Skuleskogen", hu: "Skuleskogen Nemzeti Park", ro: "Parcul Național Skuleskogen", en: "Skuleskogen National Park" },
+    name: { de: "Nationalpark Skuleskogen", hu: "Skuleskogen Nemzeti Park", ro: "Parcul Național Skuleskogen", en: "Skuleskogen National Park",
+image: "/poi-images/sweden-skuleskogen-national-park-life-v2.webp"
+},
     coords: [18.48, 63.11],
     coordinates: { lat: 63.11, lng: 18.48 },
     description: {
@@ -114,11 +191,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Parte a Coastei Înalte UNESCO", "Cheia are 200 de metri lungime", "Ridicarea pământului postglaciară", "Păduri de molid străvechi"],
       en: ["Part of the High Coast UNESCO site", "Crevice is 200 meters long", "Impressive post-glacial rebound", "Ancient spruce forests"],
     },
-    imageHint: "Skuleskogen National Park Slåttdalsskrevan crevice", image: "/poi-images/sweden-skuleskogen-national-park-life-v2.webp"},
-  {
+imageHint: "Skuleskogen National Park Slåttdalsskrevan crevice",
+    descriptionAdvanced: {
+      de: "Der Park liegt an der Hohen Küste und zeigt eindrucksvoll die nacheiszeitliche Landhebung. Ein Highlight ist die Slåttdalsskrevan, eine 200 Meter lange Felsspalte.",
+      hu: "A park a Magas-parton fekszik, és lenyűgözően mutatja be a jégkorszak utáni földemelkedést. Fő látványossága a Slåttdalsskrevan, egy 200 méter hosszú hasadék.",
+      ro: "Parcul este situat pe Coasta Înaltă și demonstrează impresionant ridicarea uscatului post-glaciar. O atracție majoră este Slåttdalsskrevan, o crevasă de 200 m.",
+      en: "Located on the High Coast, this park showcases post-glacial land uplift. A highlight is Slåttdalsskrevan, a dramatic 200-meter long crevice in the bedrock.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1984", "Fläche 30 km²", "286 m Landhebung", "200 m Felsspalte"],
+      hu: ["1984-ben alapították", "30 km² terület", "286 m földemelkedés", "200 m hosszú hasadék"],
+      ro: ["Fondat în 1984", "Suprafață 30 km²", "Ridicare uscat 286 m", "Crevasă de 200 m"],
+      en: ["Founded in 1984", "Area 30 km²", "286 m land uplift", "200 m long crevice"],
+    },
+    image: "/poi-images/sweden-skuleskogen-national-park-life-v2.webp",
+},  {
     id: "sweden-tyresta-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Tyresta", hu: "Tyresta Nemzeti Park", ro: "Parcul Național Tyresta", en: "Tyresta National Park" },
+    name: { de: "Nationalpark Tyresta", hu: "Tyresta Nemzeti Park", ro: "Parcul Național Tyresta", en: "Tyresta National Park",
+image: "/poi-images/sweden-tyresta-national-park-life-v2.webp"
+},
     coords: [18.25, 59.18],
     coordinates: { lat: 59.18, lng: 18.25 },
     description: {
@@ -133,11 +225,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1993", "Zonă afectată de incendiu în 1999", "Peste 100 de specii de păsări", "Pini vechi de 400 de ani"],
       en: ["Established in 1993", "1999 forest fire area", "Over 100 bird species", "400-year-old pine trees"],
     },
-    imageHint: "Tyresta National Park old-growth forest trail", image: "/poi-images/sweden-tyresta-national-park-life-v2.webp"},
-  {
+imageHint: "Tyresta National Park old-growth forest trail",
+    descriptionAdvanced: {
+      de: "Nur 20 Kilometer von Stockholm entfernt schützt Tyresta einen der größten unberührten Urwälder Südschwedens. 1999 zerstörte ein Großbrand weite Teile des Waldes.",
+      hu: "Stockholmtól mindössze 20 kilométerre fekszik a Tyresta, Dél-Svédország egyik legnagyobb őserdője. 1999-ben egy hatalmas tűzvész a park jelentős részét elpusztította.",
+      ro: "La doar 20 km de Stockholm, Tyresta protejează una dintre cele mai mari păduri virgine din sudul Suediei. În 1999, un incendiu major a distrus părți vaste.",
+      en: "Located just 20 km from Stockholm, Tyresta preserves one of southern Sweden's largest old-growth forests. A massive fire in 1999 transformed parts of its landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1993", "Fläche 20 km²", "450 ha Brandfläche", "400 Jahre alte Kiefern"],
+      hu: ["1993-ban alapították", "20 km² terület", "450 ha égett terület", "400 éves fenyőfák"],
+      ro: ["Fondat în 1993", "Suprafață 20 km²", "450 ha zonă arsă", "Pini de 400 de ani"],
+      en: ["Founded in 1993", "Area 20 km²", "450 ha fire area", "400-year-old pines"],
+    },
+    image: "/poi-images/sweden-tyresta-national-park-life-v2.webp",
+},  {
     id: "sweden-store-mosse-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Store Mosse", hu: "Store Mosse Nemzeti Park", ro: "Parcul Național Store Mosse", en: "Store Mosse National Park" },
+    name: { de: "Nationalpark Store Mosse", hu: "Store Mosse Nemzeti Park", ro: "Parcul Național Store Mosse", en: "Store Mosse National Park",
+image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp"
+},
     coords: [13.93, 57.26],
     coordinates: { lat: 57.26, lng: 13.93 },
     description: {
@@ -152,11 +259,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cea mai mare mlaștină la sud de Laponia", "Important pentru migrația cocorilor", "40 km de poteci pe poduri de lemn", "Fondat în anul 1982"],
       en: ["Largest bog south of Lapland", "Important for crane migration", "40 km of boardwalk trails", "Established in 1982"],
     },
-    imageHint: "Store Mosse National Park bog landscape with boardwalk", image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp"},
-  {
+imageHint: "Store Mosse National Park bog landscape with boardwalk",
+    descriptionAdvanced: {
+      de: "Store Mosse ist das größte Moorgebiet Südschwedens außerhalb Lapplands. Die weite, flache Landschaft ähnelt der nordschwedischen Tundra und ist ein Vogelparadies.",
+      hu: "A Store Mosse Dél-Svédország legnagyobb lápvidéke Lappföldön kívül. A tágas, sík táj Észak-Svédország tundrájára emlékeztet, és igazi madárparadicsom.",
+      ro: "Store Mosse este cea mai mare zonă mlăștinoasă din sudul Suediei, în afara Laponiei. Peisajul vast și plat seamănă cu tundra nordică, fiind un paradis al păsărilor.",
+      en: "Store Mosse is southern Sweden's largest bog area outside Lapland. Its vast, flat landscape resembles northern tundra and serves as a vital sanctuary for birds.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1982", "Fläche 77 km²", "40 km Wanderwege", "Kävsjön Vogelsee"],
+      hu: ["1982-ben alapították", "77 km² terület", "40 km túraútvonal", "Kävsjön madárrezervátum"],
+      ro: ["Fondat în 1982", "Suprafață 77 km²", "40 km de trasee", "Lacul de păsări Kävsjön"],
+      en: ["Founded in 1982", "Area 77 km²", "40 km of trails", "Kävsjön bird lake"],
+    },
+    image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp",
+},  {
     id: "sweden-stenshuvud-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Stenshuvud", hu: "Stenshuvud Nemzeti Park", ro: "Parcul Național Stenshuvud", en: "Stenshuvud National Park" },
+    name: { de: "Nationalpark Stenshuvud", hu: "Stenshuvud Nemzeti Park", ro: "Parcul Național Stenshuvud", en: "Stenshuvud National Park",
+image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp"
+},
     coords: [14.27, 55.65],
     coordinates: { lat: 55.65, lng: 14.27 },
     description: {
@@ -171,11 +293,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Punctul cel mai înalt are 97 metri", "Bogat în specii de orhidee", "Habitat pentru pârșul de munte", "Fondat în anul 1986"],
       en: ["Highest point 97 meters", "Rich in orchid species", "Home to the hazel dormouse", "Established in 1986"],
     },
-    imageHint: "Stenshuvud National Park coastal hill and beach", image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp"},
-  {
+imageHint: "Stenshuvud National Park coastal hill and beach",
+    descriptionAdvanced: {
+      de: "Der Park in Schonen besticht durch seinen markanten, 97 Meter hohen Berg direkt an der Ostseeküste. Er bietet eine Mischung aus Laubwäldern und Sandstränden.",
+      hu: "A skånei park központi eleme a 97 méter magas domb közvetlenül a Balti-tenger partján. A terület lombhullató erdők és homokos strandok különleges elegye.",
+      ro: "Parcul din Scania impresionează prin muntele său de 97 metri situat chiar pe coasta Mării Baltice. Oferă un amestec de păduri foioase și plaje cu nisip.",
+      en: "This park in Scania features a prominent 97-meter high hill directly on the Baltic coast. It offers a unique mix of broadleaf forests and sandy beaches.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1986", "Fläche 4 km²", "Höhe 97 m", "Schwedens südlichster Park"],
+      hu: ["1986-ban alapították", "4 km² terület", "97 m magasság", "Svédország legdélibb parkja"],
+      ro: ["Fondat în 1986", "Suprafață 4 km²", "Altitudine 97 m", "Cel mai sudic parc suedez"],
+      en: ["Founded in 1986", "Area 4 km²", "Altitude 97 m", "Sweden's southernmost park"],
+    },
+    image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp",
+},  {
     id: "sweden-kosterhavet-life-v2",
     type: "park",
-    name: { de: "Nationalpark Kosterhavet", hu: "Kosterhavet Nemzeti Park", ro: "Parcul Național Kosterhavet", en: "Kosterhavet National Park" },
+    name: { de: "Nationalpark Kosterhavet", hu: "Kosterhavet Nemzeti Park", ro: "Parcul Național Kosterhavet", en: "Kosterhavet National Park",
+image: "/poi-images/sweden-kosterhavet-life-v2.webp"
+},
     coords: [11.01, 58.85],
     coordinates: { lat: 58.85, lng: 11.01 },
     description: {
@@ -190,11 +327,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Peste 6000 de specii marine", "Singurele recife de corali reci", "Suprafață de cca. 388 km²"],
       en: ["Established in 2009", "Over 6,000 marine species", "Only cold-water coral reefs", "Area of approx. 388 km²"],
     },
-    imageHint: "Kosterhavet National Park marine landscape and islands", image: "/poi-images/sweden-kosterhavet-life-v2.webp"},
-  {
+imageHint: "Kosterhavet National Park marine landscape and islands",
+    descriptionAdvanced: {
+      de: "Kosterhavet ist Schwedens erster Meeresnationalpark. Das Gebiet schützt ein einzigartiges Unterwasserökosystem mit Korallenriffen und über 6.000 marinen Arten.",
+      hu: "A Kosterhavet Svédország első tengeri nemzeti parkja. A terület egyedülálló víz alatti ökoszisztémát véd, korallzátonyokkal és több mint 6000 tengeri fajjal.",
+      ro: "Kosterhavet este primul parc național marin al Suediei. Zona protejează un ecosistem subacvatic unic, cu recife de corali și peste 6.000 de specii marine.",
+      en: "Kosterhavet is Sweden's first marine national park. It protects a unique underwater ecosystem featuring cold-water coral reefs and over 6,000 marine species.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 2009", "Fläche 389 km²", "6.000 marine Arten", "Kaltwasserkorallen"],
+      hu: ["2009-ben alapították", "389 km² terület", "6000 tengeri faj", "Hidegvízi korallok"],
+      ro: ["Fondat în 2009", "Suprafață 389 km²", "6.000 specii marine", "Corali de apă rece"],
+      en: ["Founded in 2009", "Area 389 km²", "6,000 marine species", "Cold-water corals"],
+    },
+    image: "/poi-images/sweden-kosterhavet-life-v2.webp",
+},  {
     id: "sweden-tiveden-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Tiveden", hu: "Tiveden Nemzeti Park", ro: "Parcul Național Tiveden", en: "Tiveden National Park" },
+    name: { de: "Nationalpark Tiveden", hu: "Tiveden Nemzeti Park", ro: "Parcul Național Tiveden", en: "Tiveden National Park",
+image: "/poi-images/sweden-tiveden-national-park-life-v2.webp"
+},
     coords: [14.6, 58.71],
     coordinates: { lat: 58.71, lng: 14.6 },
     description: {
@@ -209,11 +361,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1983", "Păduri de conifere vechi și sălbatice", "Amprentă puternică a glaciațiunii", "Cunoscut pentru cocoșul de munte"],
       en: ["Established in 1983", "Old, wild coniferous forests", "Strong ice age influence", "Known for capercaillies"],
     },
-    imageHint: "Tiveden National Park mossy boulders and forest", image: "/poi-images/sweden-tiveden-national-park-life-v2.webp"},
-  {
+imageHint: "Tiveden National Park mossy boulders and forest",
+    descriptionAdvanced: {
+      de: "Tiveden ist bekannt für sein wildes, zerklüftetes Gelände mit riesigen Findlingen und tiefen Schluchten. Der Park bewahrt einen der ursprünglichsten Wälder Südschwedens.",
+      hu: "A Tiveden vad, tagolt terepéről, hatalmas sziklatömbjeiről és mély szurdokairól ismert. A park Dél-Svédország egyik legősibb erdőségét őrzi meg.",
+      ro: "Tiveden este cunoscut pentru terenul său sălbatic și accidentat, cu bolovani uriași și chei adânci. Parcul păstrează una dintre cele mai virgine păduri din sud.",
+      en: "Tiveden is known for its wild, rugged terrain with massive boulders and deep cracks. The park preserves one of southern Sweden's most primeval forest environments.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1983", "Fläche 20 km²", "25 km Wanderwege", "Stora Trehörningen See"],
+      hu: ["1983-ban alapították", "20 km² terület", "25 km túraútvonal", "Stora Trehörningen-tó"],
+      ro: ["Fondat în 1983", "Suprafață 20 km²", "25 km de trasee", "Lacul Stora Trehörningen"],
+      en: ["Founded in 1983", "Area 20 km²", "25 km of trails", "Lake Stora Trehörningen"],
+    },
+    image: "/poi-images/sweden-tiveden-national-park-life-v2.webp",
+},  {
     id: "sweden-nordens-ark-life-v2",
     type: "wildlife",
-    name: { de: "Nordens Ark", hu: "Nordens Ark", ro: "Nordens Ark", en: "Nordens Ark" },
+    name: { de: "Nordens Ark", hu: "Nordens Ark", ro: "Nordens Ark", en: "Nordens Ark",
+image: "/poi-images/sweden-nordens-ark-life-v2.webp"
+},
     coords: [11.43, 58.44],
     coordinates: { lat: 58.44, lng: 11.43 },
     description: {
@@ -228,11 +395,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Accent pe specii periclitate", "Găzduiește leoparzi de zăpadă", "Stație proprie de cercetare", "Programe de reproducere"],
       en: ["Focus on endangered species", "Home to snow leopards", "Own research station", "Conservation breeding programs"],
     },
-    imageHint: "Nordens Ark snow leopard in enclosure", image: "/poi-images/sweden-nordens-ark-life-v2.webp"},
-  {
+imageHint: "Nordens Ark snow leopard in enclosure",
+    descriptionAdvanced: {
+      de: "Nordens Ark ist ein Tierpark in Bohuslän, der sich auf den Erhalt bedrohter Arten spezialisiert hat. Hier leben Schneeleoparden, Amurtiger und seltene nordische Rassen.",
+      hu: "A Nordens Ark egy bohusläni állatpark, amely a veszélyeztetett fajok megőrzésére szakosodott. Hópárducok, amuri tigrisek és ritka északi fajták élnek itt.",
+      ro: "Nordens Ark este un parc zoologic din Bohuslän specializat în conservarea speciilor pe cale de dispariție, precum leoparzii zăpezilor și tigrii de Amur.",
+      en: "Nordens Ark is a wildlife park in Bohuslän dedicated to the conservation of endangered species, including snow leopards, Amur tigers, and rare Nordic breeds.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1989", "383 Hektar Fläche", "80 bedrohte Arten", "Erhaltungszucht"],
+      hu: ["1989-ben alapították", "383 hektár terület", "80 veszélyeztetett faj", "Megőrzési programok"],
+      ro: ["Fondat în 1989", "383 hectare", "80 specii periclitate", "Programe de reproducere"],
+      en: ["Founded in 1989", "383 hectares area", "80 endangered species", "Breeding programs"],
+    },
+    image: "/poi-images/sweden-nordens-ark-life-v2.webp",
+},  {
     id: "sweden-kolmarden-wildlife-park-life-v2",
     type: "wildlife",
-    name: { de: "Tierpark Kolmården", hu: "Kolmården Állatpark", ro: "Parcul Zoologic Kolmården", en: "Kolmården Wildlife Park" },
+    name: { de: "Tierpark Kolmården", hu: "Kolmården Állatpark", ro: "Parcul Zoologic Kolmården", en: "Kolmården Wildlife Park",
+image: "/poi-images/sweden-kolmarden-wildlife-park-life-v2.webp"
+},
     coords: [16.46, 58.66],
     coordinates: { lat: 58.66, lng: 16.46 },
     description: {
@@ -247,11 +429,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cel mai mare zoo din Europa de Nord", "Prima telegondolă safari din lume", "Găzduiește tigri siberieni", "Vedere spre golful Bråviken"],
       en: ["Largest zoo in Northern Europe", "World's first safari gondola", "Home to Siberian tigers", "Views over Bråviken bay"],
     },
-    imageHint: "Kolmården Wildlife Park safari gondola over animals", image: "/poi-images/sweden-kolmarden-wildlife-park-life-v2.webp"},
-  {
+imageHint: "Kolmården Wildlife Park safari gondola over animals",
+    descriptionAdvanced: {
+      de: "Kolmården ist der größte Tierpark Skandinaviens und bietet eine einzigartige Safari-Gondelbahn. Der Park beherbergt über 600 Tiere und ein bekanntes Delfinarium.",
+      hu: "Kolmården Skandinávia legnagyobb állatparkja, egyedülálló szafari-gondolával. A park több mint 600 állatnak ad otthont, és híres delfináriumáról is.",
+      ro: "Kolmården este cel mai mare parc zoologic din Scandinavia și oferă o telegondolă de safari unică. Găzduiește peste 600 de animale și un delfinariu celebru.",
+      en: "Kolmården is Scandinavia's largest wildlife park, featuring a unique safari gondola. It is home to over 600 animals and a world-renowned dolphinarium.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung 1965", "150 Hektar Fläche", "60 verschiedene Arten", "Safari-Gondelbahn"],
+      hu: ["1965-ben nyílt meg", "150 hektár terület", "60 különböző faj", "Szafari-gondola"],
+      ro: ["Deschis în 1965", "150 hectare", "60 de specii diferite", "Telegondolă safari"],
+      en: ["Opened in 1965", "150 hectares area", "60 different species", "Safari gondola"],
+    },
+    image: "/poi-images/sweden-kolmarden-wildlife-park-life-v2.webp",
+},  {
     id: "sweden-boras-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Tierpark Borås", hu: "Borås Állatkert", ro: "Grădina Zoologică Borås", en: "Borås Zoo" },
+    name: { de: "Tierpark Borås", hu: "Borås Állatkert", ro: "Grădina Zoologică Borås", en: "Borås Zoo",
+image: "/poi-images/sweden-boras-zoo-life-v2.webp"
+},
     coords: [12.94, 57.73],
     coordinates: { lat: 57.73, lng: 12.94 },
     description: {
@@ -267,11 +464,25 @@ export const swedenLifeV2: POI[] = [
       en: ["Established in 1962", "Large savanna enclosure", "Breeding of endangered species", "Located centrally in the city"],
     },
     imageHint: "Borås Zoo savanna animals enclosure",
+    descriptionAdvanced: {
+      de: "Der Zoo in Borås war Vorreiter bei der Haltung verschiedener Tierarten in weitläufigen Gemeinschaftsgehegen. Ein Schwerpunkt liegt auf afrikanischen Savannentieren.",
+      hu: "A boråsi állatkert úttörő volt a különböző fajok közös, tágas kifutókban történő tartásában. Fő profilja az afrikai szavanna állatvilágának bemutatása.",
+      ro: "Grădina zoologică din Borås a fost pionieră în prezentarea speciilor în incinte comune spațioase. Se concentrează pe animalele din savana africană.",
+      en: "Borås Zoo was a pioneer in housing different animal species together in spacious enclosures. It focuses heavily on African savanna wildlife and conservation.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1962", "40 Hektar Fläche", "65 Tierarten", "Afrikanische Savanne"],
+      hu: ["1962-ben alapították", "40 hektár terület", "65 állatfaj", "Afrikai szavanna"],
+      ro: ["Fondat în 1962", "40 hectare", "65 de specii", "Savană africană"],
+      en: ["Founded in 1962", "40 hectares area", "65 animal species", "African savanna"],
+    },
   },
   {
     id: "sweden-gothenburg-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Göteborg", hu: "Göteborgi Botanikus Kert", ro: "Grădina Botanică din Göteborg", en: "Gothenburg Botanical Garden" },
+    name: { de: "Botanischer Garten Göteborg", hu: "Göteborgi Botanikus Kert", ro: "Grădina Botanică din Göteborg", en: "Gothenburg Botanical Garden",
+image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp"
+},
     coords: [11.95, 57.68],
     coordinates: { lat: 57.68, lng: 11.95 },
     description: {
@@ -286,11 +497,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Peste 16.000 de specii de plante", "Grădină de stâncărie importantă", "Inaugurată în anul 1923", "Fostă proprietate privată"],
       en: ["Over 16,000 plant species", "Major rock garden area", "Inaugurated in 1923", "Formerly a private estate"],
     },
-    imageHint: "Gothenburg Botanical Garden flowers and pathways", image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp"},
-  {
+imageHint: "Gothenburg Botanical Garden flowers and pathways",
+    descriptionAdvanced: {
+      de: "Mit 175 Hektar ist dies einer der größten botanischen Gärten Europas. Er beherbergt über 16.000 Pflanzenarten, darunter den seltenen Toromiro-Baum von der Osterinsel.",
+      hu: "Ez Európa egyik legnagyobb botanikus kertje a maga 175 hektárjával. Több mint 16 000 növényfajt mutat be, köztük a Húsvét-szigeti ritka toromiro-fát.",
+      ro: "Cu 175 de hectare, aceasta este una dintre cele mai mari grădini botanice din Europa. Găzduiește 16.000 de specii, inclusiv arborele rar Toromiro.",
+      en: "Spanning 175 hectares, this is one of Europe's largest botanical gardens. It houses 16,000 species, including the rare Toromiro tree from Easter Island.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1923", "175 Hektar Fläche", "16.000 Pflanzenarten", "Steingarten-Bereich"],
+      hu: ["1923-ban alapították", "175 hektár terület", "16.000 növényfaj", "Sziklakert részleg"],
+      ro: ["Fondat în 1923", "175 hectare", "16.000 de specii", "Grădină de stâncărie"],
+      en: ["Founded in 1923", "175 hectares area", "16,000 plant species", "Rock garden area"],
+    },
+    image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp",
+},  {
     id: "sweden-bergius-botanical-garden-life-v2",
     type: "park",
-    name: { de: "Bergianscher Garten", hu: "Bergius Botanikus Kert", ro: "Grădina Botanică Bergius", en: "Bergius Botanical Garden" },
+    name: { de: "Bergianscher Garten", hu: "Bergius Botanikus Kert", ro: "Grădina Botanică Bergius", en: "Bergius Botanical Garden",
+image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp"
+},
     coords: [18.04, 59.36],
     coordinates: { lat: 59.36, lng: 18.04 },
     description: {
@@ -305,11 +531,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondată în anul 1791", "Seră în stil victorian", "Situată pe malul lacului Brunnsviken", "Cercetare a Univ. din Stockholm"],
       en: ["Founded in 1791", "Victorian-style greenhouse", "Located by Lake Brunnsviken", "Stockholm University research site"],
     },
-    imageHint: "Bergius Botanical Garden historic greenhouse", image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp"},
-  {
+imageHint: "Bergius Botanical Garden historic greenhouse",
+    descriptionAdvanced: {
+      de: "Der Bergius-Garten in Stockholm ist berühmt für sein Victoria-Haus mit den riesigen Riesenseerosen. Der Garten dient als Forschungs- und Erholungsstätte.",
+      hu: "A stockholmi Bergius-kert híres a Victoria-házáról, ahol óriás-tündérrózsák láthatók. A kert egyszerre szolgál tudományos kutatóhelyként és pihenőparkként.",
+      ro: "Grădina Bergius din Stockholm este faimoasă pentru Casa Victoria, care adăpostește nuferi uriași. Grădina servește ca loc de cercetare și recreere.",
+      en: "The Bergius Garden in Stockholm is famous for its Victoria House, featuring giant water lilies. It serves as both a research institution and a public park.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1785", "Victoria-Haus 1900", "Stockholms Universität", "7.000 Pflanzenarten"],
+      hu: ["1785-ben alapították", "Victoria-ház (1900)", "Stockholmi Egyetem", "7.000 növényfaj"],
+      ro: ["Fondat în 1785", "Casa Victoria (1900)", "Univ. din Stockholm", "7.000 de specii"],
+      en: ["Founded in 1785", "Victoria House (1900)", "Stockholm University", "7,000 plant species"],
+    },
+    image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp",
+},  {
     id: "sweden-hornborgasjon-life-v2",
     type: "wildlife",
-    name: { de: "Hornborgasjön", hu: "Hornborgasjön", ro: "Hornborgasjön", en: "Hornborgasjön" },
+    name: { de: "Hornborgasjön", hu: "Hornborgasjön", ro: "Hornborgasjön", en: "Hornborgasjön",
+image: "/poi-images/sweden-hornborgasjon-life-v2.webp"
+},
     coords: [13.55, 58.28],
     coordinates: { lat: 58.28, lng: 13.55 },
     description: {
@@ -324,11 +565,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Mii de cocori în luna aprilie", "Zonă umedă restaurată", "Arie de protecție a păsărilor", "Centru de informare Naturum"],
       en: ["Thousands of cranes in April", "Restored wetland area", "Important bird protection area", "Naturum information center"],
     },
-    imageHint: "Hornborgasjön lake with thousands of cranes", image: "/poi-images/sweden-hornborgasjon-life-v2.webp"},
-  {
+imageHint: "Hornborgasjön lake with thousands of cranes",
+    descriptionAdvanced: {
+      de: "Der Hornborgasjön ist einer der wichtigsten Vogelseen Schwedens. Jedes Frühjahr versammeln sich hier bis zu 25.000 Kraniche zu ihrem spektakulären Tanz.",
+      hu: "A Hornborgasjön Svédország egyik legjelentősebb madártava. Minden tavasszal akár 25 000 daru is összegyűlik itt látványos násztáncot járni.",
+      ro: "Hornborgasjön este unul dintre cele mai importante lacuri de păsări din Suedia. În fiecare primăvară, până la 25.000 de cocori se adună pentru dansul lor.",
+      en: "Hornborgasjön is one of Sweden's premier bird lakes. Every spring, it hosts a spectacular display as up to 25,000 cranes gather for their mating dance.",
+    },
+    factsAdvanced: {
+      de: ["25.000 Kraniche", "Naturum-Zentrum", "Restauration 1990er", "Wichtiges Brutgebiet"],
+      hu: ["25.000 daru tavasszal", "Naturum látogatóközpont", "1990-es évek: rehabilitáció", "Fontos fészkelőhely"],
+      ro: ["25.000 de cocori", "Centru de vizitare Naturum", "Restaurat în anii '90", "Zonă de cuibărit"],
+      en: ["25,000 cranes in spring", "Naturum visitor center", "Restored in the 1990s", "Key breeding area"],
+    },
+    image: "/poi-images/sweden-hornborgasjon-life-v2.webp",
+},  {
     id: "sweden-getteron-nature-reserve-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Getterön", hu: "Getterön Természetvédelmi Terület", ro: "Rezervația Naturală Getterön", en: "Getterön Nature Reserve" },
+    name: { de: "Naturschutzgebiet Getterön", hu: "Getterön Természetvédelmi Terület", ro: "Rezervația Naturală Getterön", en: "Getterön Nature Reserve",
+image: "/poi-images/sweden-getteron-nature-reserve-life-v2.webp"
+},
     coords: [12.23, 57.12],
     coordinates: { lat: 57.12, lng: 12.23 },
     description: {
@@ -344,11 +600,25 @@ export const swedenLifeV2: POI[] = [
       en: ["Over 300 bird species sighted", "Former military airfield", "Large visitor center", "Ramsar wetland site"],
     },
     imageHint: "Getterön Nature Reserve bird hides and wetlands",
+    descriptionAdvanced: {
+      de: "Getterön bei Varberg ist ein international bedeutendes Feuchtgebiet. In dem Reservat wurden bereits über 350 verschiedene Vogelarten beobachtet.",
+      hu: "A Varberg melletti Getterön nemzetközi jelentőségű vizes élőhely. A természetvédelmi területen eddig több mint 350 különböző madárfajt figyeltek meg.",
+      ro: "Getterön, lângă Varberg, este o zonă umedă de importanță internațională. În rezervație au fost observate peste 350 de specii diferite de păsări.",
+      en: "Getterön, near Varberg, is an internationally significant wetland area. Over 350 different bird species have been recorded within the nature reserve.",
+    },
+    factsAdvanced: {
+      de: ["350 Vogelarten", "Bedeutender Rastplatz", "Ganzjährig geöffnet", "Naturum Getterön"],
+      hu: ["350 madárfaj", "Fontos pihenőhely", "Egész évben nyitva", "Naturum látogatóközpont"],
+      ro: ["350 de specii de păsări", "Loc de popas vital", "Deschis tot anul", "Centru Naturum"],
+      en: ["350 bird species", "Vital migratory stop", "Open year-round", "Naturum visitor center"],
+    },
   },
   {
     id: "sweden-takern-life-v2",
     type: "lake",
-    name: { de: "Tåkern", hu: "Tåkern", ro: "Tåkern", en: "Tåkern" },
+    name: { de: "Tåkern", hu: "Tåkern", ro: "Tåkern", en: "Tåkern",
+image: "/poi-images/sweden-takern-life-v2.webp"
+},
     coords: [14.8, 58.35],
     coordinates: { lat: 58.35, lng: 14.8 },
     description: {
@@ -363,11 +633,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Adâncime foarte mică (max. 2m)", "Zone uriașe de stuf", "Naturum cu arhitectură modernă", "Important pentru eretele de stuf"],
       en: ["Very shallow depth (max. 2m)", "Huge reed bed areas", "Naturum with modern architecture", "Important for marsh harriers"],
     },
-    imageHint: "Tåkern lake with reeds and bird life", image: "/poi-images/sweden-takern-life-v2.webp"},
-  {
+imageHint: "Tåkern lake with reeds and bird life",
+    descriptionAdvanced: {
+      de: "Der Tåkern ist für seine flachen Gewässer und riesigen Schilfgürtel bekannt. Er gilt als einer der artenreichsten Vogelseen in ganz Nordeuropa.",
+      hu: "A Tåkern sekély vizéről és hatalmas nádasairól ismert. Észak-Európa egyik legfajgazdagabb madártavaként tartják számon.",
+      ro: "Lacul Tåkern este cunoscut pentru apele sale puțin adânci și zonele vaste cu stuf. Este considerat unul dintre cele mai bogate lacuri de păsări din Europa.",
+      en: "Lake Tåkern is renowned for its shallow waters and extensive reed beds. It is considered one of the most species-rich bird lakes in all of Northern Europe.",
+    },
+    factsAdvanced: {
+      de: ["Fläche 44 km²", "Durchschnittstiefe 0,8 m", "270 Vogelarten", "Ramsar-Gebiet"],
+      hu: ["44 km² terület", "0,8 m átlagos mélység", "270 madárfaj", "Ramsari terület"],
+      ro: ["Suprafață 44 km²", "Adâncime medie 0,8 m", "270 de specii", "Sit protejat Ramsar"],
+      en: ["Area 44 km²", "0.8 m average depth", "270 bird species", "Ramsar wetland site"],
+    },
+    image: "/poi-images/sweden-takern-life-v2.webp",
+},  {
     id: "sweden-falsterbo-bird-observatory-life-v2",
     type: "wildlife",
-    name: { de: "Vogelstation Falsterbo", hu: "Falsterbo Madárvárta", ro: "Observatorul de Păsări Falsterbo", en: "Falsterbo Bird Observatory" },
+    name: { de: "Vogelstation Falsterbo", hu: "Falsterbo Madárvárta", ro: "Observatorul de Păsări Falsterbo", en: "Falsterbo Bird Observatory",
+image: "/poi-images/sweden-falsterbo-bird-observatory-life-v2.webp"
+},
     coords: [12.82, 55.38],
     coordinates: { lat: 55.38, lng: 12.82 },
     description: {
@@ -382,11 +667,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Sute de mii de păsări anual", "Centru pentru inelare", "Cel mai sud-vestic punct", "Faimos pentru migrația uliilor"],
       en: ["Hundreds of thousands of birds yearly", "Center for bird ringing", "Southwesternmost tip of Sweden", "Famous for buzzard migration"],
     },
-    imageHint: "Falsterbo lighthouse and migrating birds", image: "/poi-images/sweden-falsterbo-bird-observatory-life-v2.webp"},
-  {
+imageHint: "Falsterbo lighthouse and migrating birds",
+    descriptionAdvanced: {
+      de: "Falsterbo liegt an der Südwestspitze Schwedens und ist ein weltberühmter Hotspot für den Vogelzug. Millionen Vögel passieren diesen Punkt jedes Jahr im Herbst.",
+      hu: "Falsterbo Svédország délnyugati csücskén fekszik, és a madárvonulás világhírű helyszíne. Évente több millió madár halad át ezen a ponton az őszi vonuláskor.",
+      ro: "Falsterbo este situat în vârful sud-vestic al Suediei și este un punct faimos pentru migrația păsărilor. Milioane de păsări trec pe aici în fiecare toamnă.",
+      en: "Located at Sweden's southwestern tip, Falsterbo is a world-renowned hotspot for bird migration. Millions of birds pass this point every autumn.",
+    },
+    factsAdvanced: {
+      de: ["500 Mio. Vögel/Jahr", "Gegründet 1955", "Greifvogelzug", "Beringungsstation"],
+      hu: ["Évi 500 millió madár", "1955-ben alapították", "Ragadozómadár-vonulás", "Gyűrűzőállomás"],
+      ro: ["500 mil. păsări anual", "Fondat în 1955", "Migrația răpitoarelor", "Stație de inelare"],
+      en: ["500m birds annually", "Founded in 1955", "Raptor migration hub", "Ringing station"],
+    },
+    image: "/poi-images/sweden-falsterbo-bird-observatory-life-v2.webp",
+},  {
     id: "sweden-eriksberg-wildlife-park-life-v2",
     type: "wildlife",
-    name: { de: "Eriksberg Wild- und Naturpark", hu: "Eriksberg Vadaspark", ro: "Parcul de Animale Eriksberg", en: "Eriksberg Wildlife Park" },
+    name: { de: "Eriksberg Wild- und Naturpark", hu: "Eriksberg Vadaspark", ro: "Parcul de Animale Eriksberg", en: "Eriksberg Wildlife Park",
+image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp"
+},
     coords: [14.93, 56.17],
     coordinates: { lat: 56.17, lng: 14.93 },
     description: {
@@ -401,11 +701,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cel mai mare parc sălbatic din nord", "Conservarea bizonului european", "Safari cu mașina proprie", "Vedere spre coasta cu arhipelag"],
       en: ["Largest wildlife park in Northern Europe", "Conservation of European bison", "Safari with your own car", "Views of the archipelago coast"],
     },
-    imageHint: "Eriksberg Wildlife Park bison in landscape", image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp"},
-  {
+imageHint: "Eriksberg Wildlife Park bison in landscape",
+    descriptionAdvanced: {
+      de: "Eriksberg in Blekinge ist eines der größten eingezäunten Wildreservate Nordeuropas. Hier leben Wisente, Rotwild und Wildschweine in einer Küstenlandschaft.",
+      hu: "A Blekinge tartománybeli Eriksberg Észak-Európa egyik legnagyobb zárt vadrezervátuma. Európai bölények, gímszarvasok és vaddisznók élnek a tengerparti tájon.",
+      ro: "Eriksberg din Blekinge este una dintre cele mai mari rezervații de vânătoare din Europa de Nord. Zimți, cerbi și mistreți trăiesc în acest peisaj de coastă.",
+      en: "Eriksberg in Blekinge is one of Northern Europe's largest fenced wildlife reserves. It hosts European bison, red deer, and wild boar in a coastal setting.",
+    },
+    factsAdvanced: {
+      de: ["925 Hektar Fläche", "Wisent-Population", "Küstenlandschaft", "Geführte Safaris"],
+      hu: ["925 hektár terület", "Európai bölény állomány", "Tengerparti táj", "Vezetett szafarik"],
+      ro: ["925 hectare", "Populație de zimți", "Peisaj costier", "Safariuri ghidate"],
+      en: ["925 hectares area", "European bison herd", "Coastal landscape", "Guided safaris"],
+    },
+    image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp",
+},  {
     id: "sweden-lycksele-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Tierpark Lycksele", hu: "Lycksele Állatkert", ro: "Grădina Zoologică Lycksele", en: "Lycksele Zoo" },
+    name: { de: "Tierpark Lycksele", hu: "Lycksele Állatkert", ro: "Grădina Zoologică Lycksele", en: "Lycksele Zoo",
+image: "/poi-images/sweden-lycksele-zoo-life-v2.webp"
+},
     coords: [18.66, 64.58],
     coordinates: { lat: 64.58, lng: 18.66 },
     description: {
@@ -421,11 +736,25 @@ export const swedenLifeV2: POI[] = [
       en: ["Specialized in Nordic animals", "Established in 1959", "Northernmost zoo in Sweden", "Home to muskoxen"],
     },
     imageHint: "Lycksele Zoo brown bear in forest enclosure",
+    descriptionAdvanced: {
+      de: "Der Zoo in Lycksele ist auf die nordische Fauna spezialisiert. In weitläufigen Gehegen können Besucher Moschusochsen, Vielfraße und Braunbären beobachten.",
+      hu: "A lyckselei állatkert az északi faunára specializálódott. A tágas kifutókban a látogatók pézsmatulkokat, rozsomákokat és barna medvéket is láthatnak.",
+      ro: "Grădina zoologică din Lycksele este specializată în fauna nordică. În incinte spațioase, vizitatorii pot observa boi moscați, misticuți și urși bruni.",
+      en: "Lycksele Zoo specializes in Nordic fauna. Visitors can observe muskoxen, wolverines, and brown bears within spacious enclosures reflecting their natural habitat.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1959", "Nördlichster Zoo", "Nordische Tiere", "Kinderzoo-Bereich"],
+      hu: ["1959-ben alapították", "Legészakibb állatkert", "Északi állatfajok", "Gyermekállatkert"],
+      ro: ["Fondat în 1959", "Cea mai nordică grădină", "Specii nordice", "Zonă pt. copii"],
+      en: ["Founded in 1959", "Northernmost zoo", "Nordic species", "Children's zoo area"],
+    },
   },
   {
     id: "sweden-skanes-djurpark-life-v2",
     type: "wildlife",
-    name: { de: "Skånes Tierpark", hu: "Skånes Állatpark", ro: "Parcul Zoologic Skånes", en: "Skånes Djurpark" },
+    name: { de: "Skånes Tierpark", hu: "Skånes Állatpark", ro: "Parcul Zoologic Skånes", en: "Skånes Djurpark",
+image: "/poi-images/sweden-skanes-djurpark-life-v2.webp"
+},
     coords: [13.52, 55.95],
     coordinates: { lat: 55.95, lng: 13.52 },
     description: {
@@ -440,11 +769,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Doar specii de animale nordice", "Găzduiește elani și lupi", "Grădină zoologică cu contact", "Fondat în anul 1952"],
       en: ["Only Nordic animal species", "Home to moose and wolves", "Large petting zoo area", "Established in 1952"],
     },
-    imageHint: "Skånes Djurpark moose in green enclosure", image: "/poi-images/sweden-skanes-djurpark-life-v2.webp"},
-  {
+imageHint: "Skånes Djurpark moose in green enclosure",
+    descriptionAdvanced: {
+      de: "Dieser Tierpark widmet sich ausschließlich heimischen nordischen Tieren. Der Fokus liegt auf Bildung und dem Erhalt seltener schwedischer Landrassen.",
+      hu: "Ez az állatpark kizárólag a hazai északi állatok bemutatásának szenteli magát. A hangsúly az oktatáson és a ritka svéd tájfajták megőrzésén van.",
+      ro: "Acest parc zoologic este dedicat exclusiv animalelor nordice autohtone. Accentul este pus pe educație și conservarea raselor rurale suedeze rare.",
+      en: "This wildlife park is dedicated exclusively to native Nordic animals. It focuses on education and the preservation of rare Swedish heritage livestock breeds.",
+    },
+    factsAdvanced: {
+      de: ["100 Hektar Fläche", "Nur nordische Arten", "Gegründet 1952", "Erhaltungsprogramme"],
+      hu: ["100 hektár terület", "Csak északi fajok", "1952-ben alapították", "Fajmegőrzés"],
+      ro: ["100 hectare", "Doar specii nordice", "Fondat în 1952", "Programe conservare"],
+      en: ["100 hectares area", "Native Nordic species", "Founded in 1952", "Conservation focus"],
+    },
+    image: "/poi-images/sweden-skanes-djurpark-life-v2.webp",
+},  {
     id: "sweden-skansen-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Skansen Tierpark", hu: "Skansen Állatkert", ro: "Grădina Zoologică Skansen", en: "Skansen Zoo" },
+    name: { de: "Skansen Tierpark", hu: "Skansen Állatkert", ro: "Grădina Zoologică Skansen", en: "Skansen Zoo",
+image: "/poi-images/sweden-skansen-zoo-life-v2.webp"
+},
     coords: [18.1, 59.32],
     coordinates: { lat: 59.32, lng: 18.1 },
     description: {
@@ -459,11 +803,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cel mai vechi muzeu în aer liber", "Focus pe animale nordice", "Găzduiește urși și râși", "Situat pe insula Djurgården"],
       en: ["World's oldest open-air museum", "Focus on Nordic wildlife", "Home to bears and lynxes", "Located on Djurgården island"],
     },
-    imageHint: "Skansen Zoo brown bear in rocky enclosure", image: "/poi-images/sweden-skansen-zoo-life-v2.webp"},
-  {
+imageHint: "Skansen Zoo brown bear in rocky enclosure",
+    descriptionAdvanced: {
+      de: "Skansen in Stockholm kombiniert ein Freilichtmuseum mit einem Zoo für nordische Tiere. Besucher erleben hier Elche, Wölfe und alte schwedische Nutztierrassen.",
+      hu: "A stockholmi Skansen egy szabadtéri múzeumot és egy északi állatkertet egyesít. A látogatók jávorszarvasokat, farkasokat és régi svéd háziállatfajtákat láthatnak.",
+      ro: "Skansen din Stockholm combină un muzeu în aer liber cu o grădină zoologică pentru animale nordice. Vizitatorii pot vedea elani, lupi și rase vechi de fermă.",
+      en: "Skansen in Stockholm combines an open-air museum with a zoo for Nordic animals. It features moose, wolves, and traditional Swedish heritage farm breeds.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1891", "Ältestes Freilichtmuseum", "Nordische Fauna", "Alte Haustierrassen"],
+      hu: ["1891-ben alapították", "A világ első skanzenje", "Északi fauna", "Régi háziállatfajták"],
+      ro: ["Fondat în 1891", "Primul muzeu în aer liber", "Faună nordică", "Rase tradiționale"],
+      en: ["Founded in 1891", "World's oldest open-air", "Nordic fauna", "Heritage breeds"],
+    },
+    image: "/poi-images/sweden-skansen-zoo-life-v2.webp",
+},  {
     id: "sweden-kullaberg-nature-reserve-life-v2",
     type: "park",
-    name: { de: "Naturschutzgebiet Kullaberg", hu: "Kullaberg Természetvédelmi Terület", ro: "Rezervația Naturală Kullaberg", en: "Kullaberg Nature Reserve" },
+    name: { de: "Naturschutzgebiet Kullaberg", hu: "Kullaberg Természetvédelmi Terület", ro: "Rezervația Naturală Kullaberg", en: "Kullaberg Nature Reserve",
+image: "/poi-images/sweden-kullaberg-nature-reserve-life-v2.webp"
+},
     coords: [12.45, 56.29],
     coordinates: { lat: 56.29, lng: 12.45 },
     description: {
@@ -479,11 +838,25 @@ export const swedenLifeV2: POI[] = [
       en: ["Prominent coastal cliffs", "Over 20 sea caves", "Excellent bird-watching", "Unique flora for the latitude"],
     },
     imageHint: "Kullaberg Nature Reserve steep cliffs and lighthouse",
+    descriptionAdvanced: {
+      de: "Kullaberg ist eine felsige Halbinsel mit dramatischen Klippen und zahlreichen Höhlen. Das Gebiet ist bekannt für seine reiche Flora und die Schweinswale in der See.",
+      hu: "A Kullaberg egy sziklás félsziget drámai sziklafalakkal és számos barlanggal. A terület gazdag flórájáról és a környező vizekben élő barna delfinekről ismert.",
+      ro: "Kullaberg este o peninsulă stâncoasă cu faleze dramatice și numeroase peșteri. Zona este cunoscută pentru flora bogată și marsuinii din apele învecinate.",
+      en: "Kullaberg is a rocky peninsula featuring dramatic cliffs and numerous caves. It is renowned for its diverse flora and the harbor porpoises in the surrounding sea.",
+    },
+    factsAdvanced: {
+      de: ["Klippen bis 188 m", "20 Meereshöhlen", "Schweinswal-Safaris", "Naturschutzgebiet"],
+      hu: ["188 m magas sziklák", "20 tengeri barlang", "Barna delfin szafarik", "Természetvédelmi terület"],
+      ro: ["Faleze de 188 m", "20 de peșteri marine", "Safari cu marsuini", "Rezervație naturală"],
+      en: ["Cliffs up to 188 m", "20 marine caves", "Porpoise safaris", "Nature reserve"],
+    },
   },
   {
     id: "sweden-soderasen-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Söderåsen", hu: "Söderåsen Nemzeti Park", ro: "Parcul Național Söderåsen", en: "Söderåsen National Park" },
+    name: { de: "Nationalpark Söderåsen", hu: "Söderåsen Nemzeti Park", ro: "Parcul Național Söderåsen", en: "Söderåsen National Park",
+image: "/poi-images/sweden-soderasen-national-park-life-v2.webp"
+},
     coords: [13.25, 56.03],
     coordinates: { lat: 56.03, lng: 13.25 },
     description: {
@@ -498,11 +871,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 2001", "Cel mai înalt punct din Scania", "Cheia adâncă Kopparhatten", "Păduri predominante de fag"],
       en: ["Established in 2001", "Highest point in Scania (212m)", "Deep Kopparhatten ravine", "Primarily beech forests"],
     },
-    imageHint: "Söderåsen National Park autumn beech forest", image: "/poi-images/sweden-soderasen-national-park-life-v2.webp"},
-  {
+imageHint: "Söderåsen National Park autumn beech forest",
+    descriptionAdvanced: {
+      de: "Söderåsen beherbergt einen der größten zusammenhängenden Laubwälder Nordeuropas. Spektakulär sind die tiefen Schluchten und Täler, wie das Skäralid-Tal.",
+      hu: "A Söderåsen Észak-Európa egyik legnagyobb összefüggő lombhullató erdőségének ad otthont. Leglátványosabb részei a mély szurdokok, mint például a Skäralid-völgy.",
+      ro: "Söderåsen adăpostește una dintre cele mai mari păduri de foioase contigue din nordul Europei. Spectaculoase sunt cheile adânci, precum valea Skäralid.",
+      en: "Söderåsen protects one of Northern Europe's largest continuous broadleaf forests. It is famous for its dramatic ravines and deep valleys, notably Skäralid.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 2001", "Fläche 52 km²", "Skäralid-Schlucht", "Kopparhatten Aussicht"],
+      hu: ["2001-ben alapították", "52 km² terület", "Skäralid-szurdok", "Kopparhatten kilátó"],
+      ro: ["Fondat în 2001", "Suprafață 52 km²", "Cheile Skäralid", "Belvederea Kopparhatten"],
+      en: ["Founded in 2001", "Area 52 km²", "Skäralid ravine", "Kopparhatten viewpoint"],
+    },
+    image: "/poi-images/sweden-soderasen-national-park-life-v2.webp",
+},  {
     id: "sweden-gotska-sandon-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Gotska Sandön", hu: "Gotska Sandön Nemzeti Park", ro: "Parcul Național Gotska Sandön", en: "Gotska Sandön National Park" },
+    name: { de: "Nationalpark Gotska Sandön", hu: "Gotska Sandön Nemzeti Park", ro: "Parcul Național Gotska Sandön", en: "Gotska Sandön National Park",
+image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp"
+},
     coords: [19.23, 58.35],
     coordinates: { lat: 58.35, lng: 19.23 },
     description: {
@@ -517,11 +905,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Accesibil doar cu barca", "Bogat în gândaci rari", "Colonie de foci gri"],
       en: ["Established in 1909", "Accessible only by boat", "Rich in rare beetle species", "Baltic grey seal colony"],
     },
-    imageHint: "Gotska Sandön National Park sand dunes and pines", image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp"},
-  {
+imageHint: "Gotska Sandön National Park sand dunes and pines",
+    descriptionAdvanced: {
+      de: "Diese isolierte Ostseeinsel besteht fast nur aus Sanddünen und dichten Kiefernwäldern. Sie ist ein Rückzugsort für seltene Insekten und bietet absolute Stille.",
+      hu: "Ez az elszigetelt balti-tengeri sziget szinte csak homokdűnékből és sűrű fenyőerdőkből áll. Ritka rovarok menedékhelye, és tökéletes nyugalmat kínál.",
+      ro: "Această insulă izolată din Marea Baltică este formată aproape în întregime din dune de nisip și păduri de pini. Este un refugiu pentru insecte rare.",
+      en: "This isolated Baltic island consists almost entirely of sand dunes and dense pine forests. it is a vital refuge for rare insects and offers absolute tranquility.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1909", "Fläche 36 km²", "Isolierte Lage", "Sanddünen-Landschaft"],
+      hu: ["1909-ben alapították", "36 km² terület", "Elszigetelt fekvés", "Homokdűne-táj"],
+      ro: ["Fondat în 1909", "Suprafață 36 km²", "Locație izolată", "Peisaj de dune"],
+      en: ["Founded in 1909", "Area 36 km²", "Isolated location", "Sand dune landscape"],
+    },
+    image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp",
+},  {
     id: "sweden-bjornlandet-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Björnlandet", hu: "Björnlandet Nemzeti Park", ro: "Parcul Național Björnlandet", en: "Björnlandet National Park" },
+    name: { de: "Nationalpark Björnlandet", hu: "Björnlandet Nemzeti Park", ro: "Parcul Național Björnlandet", en: "Björnlandet National Park",
+image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp"
+},
     coords: [18.02, 63.98],
     coordinates: { lat: 63.98, lng: 18.02 },
     description: {
@@ -536,11 +939,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Pini de pădure virgină", "Urme de incendii vechi", "Habitat pentru râși"],
       en: ["Established in 1991", "Impressive old-growth pines", "Traces of old forest fires", "Home to lynxes"],
     },
-    imageHint: "Björnlandet National Park old pine forest", image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp"},
-  {
+imageHint: "Björnlandet National Park old pine forest",
+    descriptionAdvanced: {
+      de: "Björnlandet bewahrt einen urwüchsigen Kiefernwald in einer bergigen Landschaft. Spuren alter Waldbrände sind hier als markante Narben an den Stämmen sichtbar.",
+      hu: "A Björnlandet egy ősi fenyőerdőt őriz hegyvidéki tájon. A régi erdőtüzek nyomai jellegzetes hegekként máig láthatók a fák törzsein.",
+      ro: "Björnlandet păstrează o pădure de pini ancestrală într-un peisaj muntos. Urmele incendiilor forestiere vechi sunt vizibile ca cicatrice pe trunchiurile arborilor.",
+      en: "Björnlandet preserves a primeval pine forest in a mountainous landscape. Scars from historic forest fires remain visible on many of the ancient tree trunks.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1991", "Fläche 23 km²", "Urwald-Charakter", "Bergige Topographie"],
+      hu: ["1991-ben alapították", "23 km² terület", "Őserdő jelleg", "Hegyes domborzat"],
+      ro: ["Fondat în 1991", "Suprafață 23 km²", "Caracter de codru", "Topografie muntoasă"],
+      en: ["Founded in 1991", "Area 23 km²", "Primeval character", "Mountainous terrain"],
+    },
+    image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp",
+},  {
     id: "sweden-sonfjallet-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Sonfjället", hu: "Sonfjället Nemzeti Park", ro: "Parcul Național Sonfjället", en: "Sonfjället National Park" },
+    name: { de: "Nationalpark Sonfjället", hu: "Sonfjället Nemzeti Park", ro: "Parcul Național Sonfjället", en: "Sonfjället National Park",
+image: "/poi-images/sweden-sonfjallet-national-park-life-v2.webp"
+},
     coords: [13.53, 62.33],
     coordinates: { lat: 62.33, lng: 13.53 },
     description: {
@@ -555,11 +973,26 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Populație densă de urși bruni", "Formă montană distinctivă", "Zone de pădure virgină"],
       en: ["Established in 1909", "Dense brown bear population", "Distinctive mountain shape", "Old-growth forest areas"],
     },
-    imageHint: "Sonfjället National Park mountain silhouette", image: "/poi-images/sweden-sonfjallet-national-park-life-v2.webp"},
-  {
+imageHint: "Sonfjället National Park mountain silhouette",
+    descriptionAdvanced: {
+      de: "Sonfjället ist bekannt als eines der wichtigsten Rückzugsgebiete für Braunbären in Schweden. Das markante Bergmassiv prägt die Silhouette der Region Härjedalen.",
+      hu: "A Sonfjället Svédország egyik legfontosabb barna medve rezervátumaként ismert. A jellegzetes hegytömb meghatározza Härjedalen tartomány látképét.",
+      ro: "Sonfjället este cunoscut ca unul dintre cele mai importante sanctuare pentru urșii bruni din Suedia. Masivul muntos domină silueta regiunii Härjedalen.",
+      en: "Sonfjället is renowned as one of Sweden's primary strongholds for brown bears. The prominent mountain massif defines the skyline of the Härjedalen region.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1909", "Bären-Population", "Fläche 103 km²", "Härjedalen-Wahrzeichen"],
+      hu: ["1909-ben alapították", "Medvepopuláció", "103 km² terület", "Härjedalen jelképe"],
+      ro: ["Fondat în 1909", "Populație de urși", "Suprafață 103 km²", "Simbol al Härjedalen"],
+      en: ["Founded in 1909", "Brown bear habitat", "Area 103 km²", "Härjedalen landmark"],
+    },
+    image: "/poi-images/sweden-sonfjallet-national-park-life-v2.webp",
+},  {
     id: "sweden-hamra-national-park-life-v2",
     type: "park",
-    name: { de: "Nationalpark Hamra", hu: "Hamra Nemzeti Park", ro: "Parcul Național Hamra", en: "Hamra National Park" },
+    name: { de: "Nationalpark Hamra", hu: "Hamra Nemzeti Park", ro: "Parcul Național Hamra", en: "Hamra National Park",
+image: "/poi-images/sweden-hamra-national-park-life-v2.webp"
+},
     coords: [14.76, 61.76],
     coordinates: { lat: 61.76, lng: 14.76 },
     description: {
@@ -575,5 +1008,17 @@ export const swedenLifeV2: POI[] = [
       en: ["Established in 1909", "Expanded in 2011", "Important for wood-boring beetles", "Old swamp forests"],
     },
     imageHint: "Hamra National Park ancient mossy trees",
+    descriptionAdvanced: {
+      de: "Hamra schützt einen urwüchsigen Wald und ein großes Moorgebiet. Ursprünglich sehr klein, wurde der Park 2011 deutlich erweitert, um mehr Ökosysteme einzuschließen.",
+      hu: "A Hamra egy ősi erdőt és egy kiterjedt lápvidéket védelmez. Az eredetileg apró parkot 2011-ben jelentősen kibővítették az ökoszisztémák védelme érdekében.",
+      ro: "Hamra protejează o pădure virgină și o zonă mlăștinoasă vastă. Inițial foarte mic, parcul a fost extins semnificativ în 2011 pentru a include noi ecosisteme.",
+      en: "Hamra protects a primeval forest and a vast mire complex. Originally very small, the park was significantly expanded in 2011 to include diverse ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr 1909", "Erweiterung 2011", "Fläche 13 km²", "Sumpfwald-Gebiete"],
+      hu: ["1909-ben alapították", "2011-es bővítés", "13 km² terület", "Mocsári erdőségek"],
+      ro: ["Fondat în 1909", "Extins în 2011", "Suprafață 13 km²", "Păduri de mlaștină"],
+      en: ["Founded in 1909", "Expanded in 2011", "Area 13 km²", "Swamp forest areas"],
+    },
   }
 ];

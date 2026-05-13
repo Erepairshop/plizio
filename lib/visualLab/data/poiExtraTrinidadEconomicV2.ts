@@ -7,7 +7,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Point Lisas Hafen", hu: "Point Lisas kikötő", ro: "Portul Point Lisas", en: "Point Lisas Port" },
+    name: { de: "Point Lisas Hafen", hu: "Point Lisas kikötő", ro: "Portul Point Lisas", en: "Point Lisas Port",
+image: "/poi-images/tt-point-lisas-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Industriehafen, der das Point Lisas Industrial Estate bedient.",
       hu: "Fontos ipari kikötő, amely a Point Lisas Ipari Parkot szolgálja ki.",
@@ -38,7 +40,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-POS",
     coords: [-61.52, 10.65],
-    name: { de: "Hafen von Port of Spain", hu: "Port of Spain-i kikötő", ro: "Portul Port of Spain", en: "Port of Spain Port" },
+    name: { de: "Hafen von Port of Spain", hu: "Port of Spain-i kikötő", ro: "Portul Port of Spain", en: "Port of Spain Port",
+image: "/poi-images/tt-port-of-spain-port-economic-v2.webp"
+},
     description: {
       de: "Der Haupthafen des Landes für Containerumschlag und allgemeine Fracht.",
       hu: "Az ország fő kikötője konténerrakodásra és általános rakományokhoz.",
@@ -69,7 +73,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-SIP",
     coords: [-61.63, 10.23],
-    name: { de: "La Brea Hafen", hu: "La Brea kikötő", ro: "Portul La Brea", en: "La Brea Port" },
+    name: { de: "La Brea Hafen", hu: "La Brea kikötő", ro: "Portul La Brea", en: "La Brea Port",
+image: "/poi-images/tt-la-brea-port-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Hafen für den Export von Asphalt und petrochemischen Produkten.",
       hu: "Speciális kikötő aszfalt és petrolkémiai termékek exportjára.",
@@ -100,7 +106,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-DMN",
     coords: [-61.58, 10.67],
-    name: { de: "Tembladora Hafen", hu: "Tembladora kikötő", ro: "Portul Tembladora", en: "Tembladora Port" },
+    name: { de: "Tembladora Hafen", hu: "Tembladora kikötő", ro: "Portul Tembladora", en: "Tembladora Port",
+image: "/poi-images/tt-tembladora-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Umschlaghafen für Industrieerzeugnisse in Chaguaramas.",
       hu: "Fontos átrakodókikötő ipari termékek számára Chaguaramasban.",
@@ -131,7 +139,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-CTT",
     coords: [-61.47, 10.37],
-    name: { de: "Savonetta Hafen", hu: "Savonetta kikötő", ro: "Portul Savonetta", en: "Savonetta Port" },
+    name: { de: "Savonetta Hafen", hu: "Savonetta kikötő", ro: "Portul Savonetta", en: "Savonetta Port",
+image: "/poi-images/tt-savonetta-port-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Industriehafen in der Nähe von Point Lisas für gefährliche Güter.",
       hu: "Speciális ipari kikötő Point Lisas közelében, veszélyes áruk számára.",
@@ -162,7 +172,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-DMN",
     coords: [-61.6, 10.66],
-    name: { de: "Chaguaramas Hafen", hu: "Chaguaramas kikötő", ro: "Portul Chaguaramas", en: "Chaguaramas Port" },
+    name: { de: "Chaguaramas Hafen", hu: "Chaguaramas kikötő", ro: "Portul Chaguaramas", en: "Chaguaramas Port",
+image: "/poi-images/tt-chaguaramas-port-economic-v2.webp"
+},
     description: {
       de: "Ein vielseitiger Hafen mit Fokus auf Bootsbau, Reparatur und maritime Industrie.",
       hu: "Sokoldalú kikötő, hajóépítésre, javításra és tengeri iparra összpontosítva.",
@@ -193,7 +205,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-TOB",
     coords: [-60.73, 11.18],
-    name: { de: "Hafen von Scarborough", hu: "Scarborough-i kikötő", ro: "Portul Scarborough", en: "Scarborough Port" },
+    name: { de: "Hafen von Scarborough", hu: "Scarborough-i kikötő", ro: "Portul Scarborough", en: "Scarborough Port",
+image: "/poi-images/tt-scaborough-port-economic-v2.webp"
+},
     description: {
       de: "Der Hauptknotenpunkt für Passagier- und Frachtverkehr auf Tobago.",
       hu: "Tobago fő csomópontja az utas- és teherforgalom számára.",
@@ -224,7 +238,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-MRC",
     coords: [-61.0, 10.15],
-    name: { de: "Guayaguayare Hafen", hu: "Guayaguayare kikötő", ro: "Portul Guayaguayare", en: "Guayaguayare Port" },
+    name: { de: "Guayaguayare Hafen", hu: "Guayaguayare kikötő", ro: "Portul Guayaguayare", en: "Guayaguayare Port",
+image: "/poi-images/tt-guayaguayare-port-economic-v2.webp"
+},
     description: {
       de: "Ein Versorgungshafen für die Öl- und Gasindustrie an der Südostküste.",
       hu: "Ellátó kikötő a délkeleti part olaj- és gázipara számára.",
@@ -255,7 +271,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-PTF",
     coords: [-61.68, 10.18],
-    name: { de: "Point Fortin Hafen", hu: "Point Fortin kikötő", ro: "Portul Point Fortin", en: "Point Fortin Port" },
+    name: { de: "Point Fortin Hafen", hu: "Point Fortin kikötő", ro: "Portul Point Fortin", en: "Point Fortin Port",
+image: "/poi-images/tt-point-fortin-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Industriehafen für die petrochemische Industrie im Südwesten.",
       hu: "Fontos ipari kikötő a délnyugati petrolkémiai ipar számára.",
@@ -286,7 +304,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "port",
     parent: "TT-SIP",
     coords: [-61.75, 10.08],
-    name: { de: "Cedros Hafen", hu: "Cedros kikötő", ro: "Portul Cedros", en: "Cedros Port" },
+    name: { de: "Cedros Hafen", hu: "Cedros kikötő", ro: "Portul Cedros", en: "Cedros Port",
+image: "/poi-images/tt-cedros-port-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner Hafen, der für den lokalen Handel und die Verbindungen zu Venezuela genutzt wird.",
       hu: "Kis kikötő, amelyet helyi kereskedelemre és venezuelai kapcsolatokra használnak.",
@@ -317,7 +337,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.47, 10.37],
-    name: { de: "Petrotrin Komplex", hu: "Petrotrin komplexum", ro: "Complexul Petrotrin", en: "Petrotrin Complex" },
+    name: { de: "Petrotrin Komplex", hu: "Petrotrin komplexum", ro: "Complexul Petrotrin", en: "Petrotrin Complex",
+image: "/poi-images/tt-petrotrin-industrial-v2.webp"
+},
     description: {
       de: "Ein großer industrieller Standort für die Ölverarbeitung.",
       hu: "Nagy ipari helyszín olajfeldolgozásra.",
@@ -348,7 +370,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Tringen Anlage", hu: "Tringen üzem", ro: "Facilitatea Tringen", en: "Tringen Facility" },
+    name: { de: "Tringen Anlage", hu: "Tringen üzem", ro: "Facilitatea Tringen", en: "Tringen Facility",
+image: "/poi-images/tt-tringen-industrial-v2.webp"
+},
     description: {
       de: "Eine große Anlage zur Ammoniakproduktion in Point Lisas.",
       hu: "Nagy ammóniatermelő üzem Point Lisasban.",
@@ -379,7 +403,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Methanex Trinidad", hu: "Methanex Trinidad", ro: "Methanex Trinidad", en: "Methanex Trinidad" },
+    name: { de: "Methanex Trinidad", hu: "Methanex Trinidad", ro: "Methanex Trinidad", en: "Methanex Trinidad",
+image: "/poi-images/tt-methanex-industrial-v2.webp"
+},
     description: {
       de: "Eine führende Anlage zur Methanolproduktion in Point Lisas.",
       hu: "Vezető metanoltermelő üzem Point Lisasban.",
@@ -410,7 +436,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Centrin Stahlwerk", hu: "Centrin acélmű", ro: "Oțelăria Centrin", en: "Centrin Steel Mill" },
+    name: { de: "Centrin Stahlwerk", hu: "Centrin acélmű", ro: "Oțelăria Centrin", en: "Centrin Steel Mill",
+image: "/poi-images/tt-centrin-industrial-v2.webp"
+},
     description: {
       de: "Eine Stahlproduktionsanlage in Point Lisas.",
       hu: "Acélgyártó üzem Point Lisasban.",
@@ -441,7 +469,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Nu-Iron Eisenwerk", hu: "Nu-Iron vasmű", ro: "Uzina de fier Nu-Iron", en: "Nu-Iron Iron Plant" },
+    name: { de: "Nu-Iron Eisenwerk", hu: "Nu-Iron vasmű", ro: "Uzina de fier Nu-Iron", en: "Nu-Iron Iron Plant",
+image: "/poi-images/tt-nu-iron-industrial-v2.webp"
+},
     description: {
       de: "Eine Anlage zur Herstellung von direkt reduziertem Eisen in Point Lisas.",
       hu: "Közvetlen redukált vasat előállító üzem Point Lisasban.",
@@ -472,7 +502,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.4, 10.5],
-    name: { de: "Caroni Zuckerfabrik Ruinen", hu: "Caroni cukorgyár romok", ro: "Ruinele fabricii de zahăr Caroni", en: "Caroni Sugar Mill Ruins" },
+    name: { de: "Caroni Zuckerfabrik Ruinen", hu: "Caroni cukorgyár romok", ro: "Ruinele fabricii de zahăr Caroni", en: "Caroni Sugar Mill Ruins",
+image: "/poi-images/tt-caroni-sugar-industrial-v2.webp"
+},
     description: {
       de: "Überreste einer einst bedeutenden Zuckerverarbeitungsanlage.",
       hu: "Egykor jelentős cukorfeldolgozó üzem maradványai.",
@@ -503,7 +535,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.46, 10.35],
-    name: { de: "Trinidad Cement Limited", hu: "Trinidad Cement Limited", ro: "Trinidad Cement Limited", en: "Trinidad Cement Limited" },
+    name: { de: "Trinidad Cement Limited", hu: "Trinidad Cement Limited", ro: "Trinidad Cement Limited", en: "Trinidad Cement Limited",
+image: "/poi-images/tt-trinidad-cement-industrial-v2.webp"
+},
     description: {
       de: "Die führende Zementproduktionsstätte in Claxton Bay.",
       hu: "A vezető cementgyártó üzem Claxton Bayben.",
@@ -534,7 +568,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-TUP",
     coords: [-61.35, 10.6],
-    name: { de: "Aroca Industriegebiet", hu: "Arima ipari park", ro: "Parcul Industrial Arima", en: "Arima Industrial Estate" },
+    name: { de: "Aroca Industriegebiet", hu: "Arima ipari park", ro: "Parcul Industrial Arima", en: "Arima Industrial Estate",
+image: "/poi-images/tt-arp-industrial-v2.webp"
+},
     description: {
       de: "Ein Industriegebiet, das verschiedene kleine und mittlere Produktionsbetriebe beherbergt.",
       hu: "Ipari park, amely különböző kis- és középüzemeknek ad otthont.",
@@ -565,7 +601,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-DMN",
     coords: [-61.6, 10.66],
-    name: { de: "Chaguaramas Industriegebiet", hu: "Chaguaramas ipari park", ro: "Parcul Industrial Chaguaramas", en: "Chaguaramas Industrial Estate" },
+    name: { de: "Chaguaramas Industriegebiet", hu: "Chaguaramas ipari park", ro: "Parcul Industrial Chaguaramas", en: "Chaguaramas Industrial Estate",
+image: "/poi-images/tt-chaguaramas-industrial-v2.webp"
+},
     description: {
       de: "Ein Gebiet für maritime und leichte industrielle Aktivitäten.",
       hu: "Terület tengeri és könnyűipari tevékenységek számára.",
@@ -596,7 +634,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-TUP",
     coords: [-61.35, 10.6],
-    name: { de: "Piarco Logistikzentrum", hu: "Piarco logisztikai központ", ro: "Centrul logistic Piarco", en: "Piarco Logistics Center" },
+    name: { de: "Piarco Logistikzentrum", hu: "Piarco logisztikai központ", ro: "Centrul logistic Piarco", en: "Piarco Logistics Center",
+image: "/poi-images/tt-piarco-logistics-industrial-v2.webp"
+},
     description: {
       de: "Ein bedeutender Hub für Frachtlogistik in der Nähe des Flughafens.",
       hu: "Jelentős központ a rakománylogisztika számára a repülőtér közelében.",
@@ -627,7 +667,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-PTF",
     coords: [-61.68, 10.18],
-    name: { de: "Point Fortin Ölkomplex", hu: "Point Fortin olajkomplexum", ro: "Complexul petrolier Point Fortin", en: "Point Fortin Oil Complex" },
+    name: { de: "Point Fortin Ölkomplex", hu: "Point Fortin olajkomplexum", ro: "Complexul petrolier Point Fortin", en: "Point Fortin Oil Complex",
+image: "/poi-images/tt-point-fortin-industry-v2.webp"
+},
     description: {
       de: "Industrieanlagen zur Gewinnung und Verarbeitung von Erdöl.",
       hu: "Ipari létesítmények kőolaj kinyerésére és feldolgozására.",
@@ -658,7 +700,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-SIP",
     coords: [-61.5, 10.13],
-    name: { de: "Siparia Energieanlage", hu: "Siparia energiaüzem", ro: "Uzina energetică Siparia", en: "Siparia Energy Plant" },
+    name: { de: "Siparia Energieanlage", hu: "Siparia energiaüzem", ro: "Uzina energetică Siparia", en: "Siparia Energy Plant",
+image: "/poi-images/tt-siparia-energy-industrial-v2.webp"
+},
     description: {
       de: "Industrielle Anlage zur Energieerzeugung und -verteilung.",
       hu: "Ipari létesítmény energiatermelésre és -elosztásra.",
@@ -689,7 +733,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-SIP",
     coords: [-61.63, 10.23],
-    name: { de: "La Brea Asphaltverarbeitung", hu: "La Brea aszfaltfeldolgozás", ro: "Procesarea asfaltului La Brea", en: "La Brea Asphalt Processing" },
+    name: { de: "La Brea Asphaltverarbeitung", hu: "La Brea aszfaltfeldolgozás", ro: "Procesarea asfaltului La Brea", en: "La Brea Asphalt Processing",
+image: "/poi-images/tt-la-brea-asphalt-v2.webp"
+},
     description: {
       de: "Anlage zur Veredelung von natürlichem Asphalt aus dem Pitch Lake.",
       hu: "Üzem a Pitch Lake-ből származó természetes aszfalt finomítására.",
@@ -720,7 +766,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Point Lisas Entsalzungsanlage", hu: "Point Lisas sótalanító üzem", ro: "Uzina de desalinizare Point Lisas", en: "Point Lisas Desalination Plant" },
+    name: { de: "Point Lisas Entsalzungsanlage", hu: "Point Lisas sótalanító üzem", ro: "Uzina de desalinizare Point Lisas", en: "Point Lisas Desalination Plant",
+image: "/poi-images/tt-point-lisas-desal-v2.webp"
+},
     description: {
       de: "Große Anlage zur Meerwasserentsalzung für industrielle Zwecke.",
       hu: "Nagy üzem a tengervíz sótalanítására ipari célokra.",
@@ -751,7 +799,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-MRC",
     coords: [-61.0, 10.15],
-    name: { de: "Guayaguayare Öl-Terminals", hu: "Guayaguayare olajterminálok", ro: "Terminalele petroliere Guayaguayare", en: "Guayaguayare Oil Terminals" },
+    name: { de: "Guayaguayare Öl-Terminals", hu: "Guayaguayare olajterminálok", ro: "Terminalele petroliere Guayaguayare", en: "Guayaguayare Oil Terminals",
+image: "/poi-images/tt-guayaguayare-oil-v2.webp"
+},
     description: {
       de: "Terminals zur Speicherung und Verladung von Rohöl.",
       hu: "Terminálok kőolaj tárolására és rakodására.",
@@ -782,7 +832,9 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     type: "industry",
     parent: "TT-CTT",
     coords: [-61.48, 10.36],
-    name: { de: "Point Lisas Stickstoffanlage", hu: "Point Lisas nitrogénüzem", ro: "Uzina de azot Point Lisas", en: "Point Lisas Nitrogen Plant" },
+    name: { de: "Point Lisas Stickstoffanlage", hu: "Point Lisas nitrogénüzem", ro: "Uzina de azot Point Lisas", en: "Point Lisas Nitrogen Plant",
+image: "/poi-images/tt-point-lisas-nitrogen-v2.webp"
+},
     description: {
       de: "Anlage zur Gewinnung von Stickstoff für industrielle Anwendungen.",
       hu: "Üzem nitrogén előállítására ipari alkalmazásokhoz.",

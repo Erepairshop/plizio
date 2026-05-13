@@ -4,7 +4,9 @@ export const luxembourgLifeV2: POI[] = [
   {
     id: "luxembourg-haff-reimech-life-v2",
     type: "wildlife",
-    name: { de: "Haff Réimech Naturschutzgebiet", hu: "Haff Réimech természetvédelmi terület", ro: "Rezervația Naturală Haff Réimech", en: "Haff Réimech Nature Reserve" },
+    name: { de: "Haff Réimech Naturschutzgebiet", hu: "Haff Réimech természetvédelmi terület", ro: "Rezervația Naturală Haff Réimech", en: "Haff Réimech Nature Reserve",
+image: "/poi-images/luxembourg-haff-reimech-life-v2.webp"
+},
     coordinates: { lat: 49.485, lng: 6.358 },
     description: {
       de: "Dieses bedeutende Feuchtgebiet in der Nähe von Remerschen entstand in ehemaligen Kiesgruben. Es ist heute ein wichtiges Refugium für seltene Vogelarten und Amphibien an der Mosel.",
@@ -18,11 +20,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cuprinde aproximativ 80 de hectare de luciu de apă", "Peste 230 de specii de păsări au fost observate aici", "Fost sit de extracție a pietrișului", "Găzduiește centrul de informare Biodiversum"],
       en: ["Covers approximately 80 hectares of water surface", "Over 230 bird species have been observed here", "Site of former gravel pit lakes", "Home to the Biodiversum nature center"],
     },
-    imageHint: "Haff Reimech nature reserve lakes and reed beds", image: "/poi-images/luxembourg-haff-reimech-life-v2.webp"},
-  {
+imageHint: "Haff Reimech nature reserve lakes and reed beds",
+    descriptionAdvanced: {
+      de: "Dieses bedeutende Feuchtgebiet in ehemaligen Kiesgruben dient als wichtiger Rastplatz für Zugvögel und beherbergt eine außergewöhnliche Vielfalt an Wasserpflanzen.",
+      hu: "Ez a korábbi kavicsbányák helyén kialakult vizes élőhely a költöző madarak fontos pihenőhelye, és rendkívül gazdag vízi növényvilággal rendelkezik a Mosel mentén.",
+      ro: "Această zonă umedă importantă, situată în foste cariere de pietriș, servește ca loc de popas pentru păsările migratoare și găzduiește o diversitate de plante acvatice.",
+      en: "This significant wetland area in former gravel pits serves as a vital stopover for migratory birds and hosts an extraordinary variety of aquatic plants and insects.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 80 Hektar", "Über 230 Vogelarten beobachtet", "Ehemaliges Baggerweiher-Areal", "Teil des Natura 2000 Netzwerks"],
+      hu: ["Kb. 80 hektáros kiterjedés", "Több mint 230 megfigyelt madárfaj", "Korábbi kavicsbányászati terület", "A Natura 2000 hálózat része"],
+      ro: ["Suprafață de cca. 80 de hectare", "Peste 230 de specii de păsări", "Fostă zonă de extracție a pietrișului", "Parte a rețelei Natura 2000"],
+      en: ["Area of approximately 80 hectares", "Over 230 bird species recorded", "Former gravel extraction site", "Part of the Natura 2000 network"],
+    },
+    image: "/poi-images/luxembourg-haff-reimech-life-v2.webp",
+},  {
     id: "luxembourg-parc-merveilleux-life-v2",
     type: "wildlife",
-    name: { de: "Parc Merveilleux", hu: "Parc Merveilleux", ro: "Parc Merveilleux", en: "Parc Merveilleux" },
+    name: { de: "Parc Merveilleux", hu: "Parc Merveilleux", ro: "Parc Merveilleux", en: "Parc Merveilleux",
+image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp"
+},
     coordinates: { lat: 49.508, lng: 6.114 },
     description: {
       de: "Dieser Tier- und Freizeitpark in Bettemburg beherbergt Tiere aus fünf Kontinenten in naturnahen Gehegen. Er ist besonders für seine Märchenstationen und den großen Abenteuerspielplatz bekannt.",
@@ -36,11 +53,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Singurul parc zoologic din Luxemburg", "Animale din Africa, America, Australia și Asia", "Deschis în anul 1956", "Dispune de două sere tropicale mari"],
       en: ["The only animal park in Luxembourg", "Features animals from Africa, America, Australia, and Asia", "Opened in 1956", "Includes two large tropical houses"],
     },
-    imageHint: "Parc Merveilleux Bettembourg zoo entrance or animals", image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp"},
-  {
+imageHint: "Parc Merveilleux Bettembourg zoo entrance or animals",
+    descriptionAdvanced: {
+      de: "Der in Bettemburg gelegene Park kombiniert Märchenwelten mit einem Tierpark, der sich auf exotische Arten aus fünf Kontinenten und den Erhalt der Biodiversität fokussiert.",
+      hu: "A Bettembourgban található park mesevilágokat ötvöz egy állatkerttel, amely öt kontinens egzotikus fajaira és a biológiai sokféleség megőrzésére összpontosít.",
+      ro: "Situat în Bettembourg, parcul combină lumile basmelor cu o grădină zoologică ce se concentrează pe specii exotice de pe cinci continente și pe conservarea naturii.",
+      en: "Located in Bettembourg, this park combines fairytale worlds with a zoo focused on exotic species from five continents and the conservation of global biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1956", "Tiere aus 5 Kontinenten", "Einziger Tierpark im Großherzogtum", "Über 200.000 Besucher jährlich"],
+      hu: ["1956-os megnyitás", "Állatok 5 kontinensről", "A nagyhercegség egyetlen állatkertje", "Évi több mint 200 000 látogató"],
+      ro: ["Deschis în anul 1956", "Animale de pe 5 continente", "Singurul parc zoologic din ducat", "Peste 200.000 de vizitatori anual"],
+      en: ["Opened in 1956", "Animals from 5 continents", "Only animal park in the Grand Duchy", "Over 200,000 annual visitors"],
+    },
+    image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp",
+},  {
     id: "luxembourg-escher-deierepark-life-v2",
     type: "wildlife",
-    name: { de: "Escher Déierepark", hu: "Escher Déierepark vadaspark", ro: "Parcul de Animale Esch", en: "Escher Déierepark" },
+    name: { de: "Escher Déierepark", hu: "Escher Déierepark vadaspark", ro: "Parcul de Animale Esch", en: "Escher Déierepark",
+image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp"
+},
     coordinates: { lat: 49.495, lng: 5.99 },
     description: {
       de: "Der Tierpark auf dem Galgenberg in Esch beherbergt hauptsächlich europäische Wild- und Haustierrassen. Besucher können hier Rehe, Ziegen und Waschbären in einer weitläufigen Waldumgebung beobachten.",
@@ -54,11 +86,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Găzduiește aproximativ 150 de animale din 25 de specii", "Intrarea este gratuită pentru public", "Include o grădină zoologică cu animale de mângâiat", "Situat în zona de agrement Gaalgebierg"],
       en: ["Home to about 150 animals from 25 species", "Free admission for the general public", "Includes a petting zoo for children", "Located within the Gaalgebierg recreation area"],
     },
-    imageHint: "Escher Deierepark animals in forest enclosure", image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp"},
-  {
+imageHint: "Escher Deierepark animals in forest enclosure",
+    descriptionAdvanced: {
+      de: "Auf dem Gaalgebierg gelegen bietet dieser Tierpark Einblicke in die regionale Fauna und beherbergt zahlreiche Haus- und Wildtierarten in naturnah gestalteten Gehegen.",
+      hu: "A Gaalgebierg dombon található állatpark betekintést nyújt a régió faunájába, számos házi- és vadon élő állatfajnak ad otthont természetközeli kifutókban.",
+      ro: "Situat pe dealul Gaalgebierg, acest parc oferă o privire asupra faunei regionale, adăpostind numeroase specii domestice și sălbatice în țarcuri naturale.",
+      en: "Located on the Gaalgebierg hill, this animal park offers insights into regional fauna, housing numerous domestic and wild species in near-natural enclosures.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 2 Hektar", "Über 25 verschiedene Tierarten", "Eintritt für Besucher kostenlos", "Pädagogischer Bauernhof integriert"],
+      hu: ["2 hektáros terület", "Több mint 25 különböző állatfaj", "A belépés ingyenes", "Integrált pedagógiai farm"],
+      ro: ["Suprafață de 2 hectare", "Peste 25 de specii de animale", "Intrarea este gratuită", "Fermă pedagogică integrată"],
+      en: ["Area of 2 hectares", "Over 25 different animal species", "Free entry for visitors", "Integrated educational farm"],
+    },
+    image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp",
+},  {
     id: "luxembourg-upper-sure-nature-park-life-v2",
     type: "park",
-    name: { de: "Naturpark Öewersauer", hu: "Felső-Sûre Natúrpark", ro: "Parcul Natural Haute-Sûre", en: "Upper Sûre Nature Park" },
+    name: { de: "Naturpark Öewersauer", hu: "Felső-Sûre Natúrpark", ro: "Parcul Natural Haute-Sûre", en: "Upper Sûre Nature Park",
+image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp"
+},
     coordinates: { lat: 49.911, lng: 5.935 },
     description: {
       de: "Dieser Naturpark im Nordwesten Luxemburgs konzentriert sich auf den Schutz der Trinkwasserreserven und die nachhaltige Entwicklung. Das Herzstück ist der große Stausee der Obersauer.",
@@ -72,11 +119,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Fondat în anul 1999", "Acoperă o suprafață de 200 de kilometri pătrați", "Cea mai importantă rezervă de apă potabilă a țării", "Oferă numeroase trasee pentru ecoturism"],
       en: ["Established in 1999", "Covers an area of 200 square kilometers", "The country's most important drinking water reservoir", "Offers numerous hiking trails for eco-tourism"],
     },
-    imageHint: "Upper Sure Nature Park landscape with lake and hills", image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp"},
-  {
+imageHint: "Upper Sure Nature Park landscape with lake and hills",
+    descriptionAdvanced: {
+      de: "Der Naturpark rund um den größten Stausee des Landes dient sowohl dem Trinkwasserschutz als auch dem Erhalt der typischen Mittelgebirgslandschaft der Ösling-Region.",
+      hu: "Az ország legnagyobb víztározója körüli natúrpark az ivóvíz védelmét és az Ösling-régió jellegzetes középhegységi tájának megőrzését szolgálja.",
+      ro: "Parcul natural din jurul celui mai mare lac de acumulare servește protecției apei potabile și conservării peisajului tipic muntos din regiunea Ösling.",
+      en: "The nature park around the country's largest reservoir serves both drinking water protection and the preservation of the typical Oesling upland landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1999", "Fläche von 162 km²", "Versorgt 70% der Bevölkerung", "Höchste Staumauer mit 47 Metern"],
+      hu: ["1999-ben alapították", "162 km²-es terület", "A lakosság 70%-át látja el vízzel", "47 méter magas gátfal"],
+      ro: ["Fondat în anul 1999", "Suprafață de 162 km²", "Alimentează 70% din populație", "Baraj înalt de 47 de metri"],
+      en: ["Founded in 1999", "Area of 162 km²", "Supplies 70% of the population", "Dam wall height of 47 meters"],
+    },
+    image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp",
+},  {
     id: "luxembourg-our-nature-park-life-v2",
     type: "park",
-    name: { de: "Naturpark Our", hu: "Our Natúrpark", ro: "Parcul Natural Our", en: "Our Nature Park" },
+    name: { de: "Naturpark Our", hu: "Our Natúrpark", ro: "Parcul Natural Our", en: "Our Nature Park",
+image: "/poi-images/luxembourg-our-nature-park-life-v2.webp"
+},
     coordinates: { lat: 50.012, lng: 6.088 },
     description: {
       de: "Der Naturpark Our erstreckt sich entlang der Grenze zu Deutschland und Belgien im Ösling. Er zeichnet sich durch tiefe Flusstäler und ausgedehnte Hochplateaus aus.",
@@ -90,11 +152,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Înființat în anul 2005", "Centru pentru produse regionale precum hrișca", "Cuprinde opt comune luxemburgheze", "Zonă importantă de protecție pentru scoica perlieră"],
       en: ["Established in 2005", "Center for regional products like buckwheat", "Includes eight Luxembourgish municipalities", "Key conservation area for the freshwater pearl mussel"],
     },
-    imageHint: "Our Nature Park valley scenery and winding river", image: "/poi-images/luxembourg-our-nature-park-life-v2.webp"},
-  {
+imageHint: "Our Nature Park valley scenery and winding river",
+    descriptionAdvanced: {
+      de: "Im Nordosten Luxemburgs gelegen schützt dieser Park das Tal der Our und fördert eine nachhaltige Entwicklung durch die Verbindung von Naturschutz und Landwirtschaft.",
+      hu: "Luxemburg északkeleti részén található park az Our folyó völgyét védi, és a természetvédelem és mezőgazdaság ötvözésével támogatja a fenntartható fejlődést.",
+      ro: "Situat în nord-estul Luxemburgului, acest parc protejează valea râului Our și promovează dezvoltarea durabilă prin echilibrul dintre conservare și agricultură.",
+      en: "Located in northeastern Luxembourg, this park protects the Our valley and promotes sustainable development by linking nature conservation with agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2005", "Fläche von ca. 306 km²", "Grenzt an Deutschland und Belgien", "Heimat der Flussperlmuschel"],
+      hu: ["2005-ben alapították", "Kb. 306 km²-es terület", "Németországgal és Belgiummal határos", "A folyami gyöngykagyló élőhelye"],
+      ro: ["Fondat în anul 2005", "Suprafață de cca. 306 km²", "Se învecinează cu DE și BE", "Habitatul scoicii perliere"],
+      en: ["Founded in 2005", "Area of approx. 306 km²", "Borders Germany and Belgium", "Home to the freshwater pearl mussel"],
+    },
+    image: "/poi-images/luxembourg-our-nature-park-life-v2.webp",
+},  {
     id: "luxembourg-mellerdall-geopark-life-v2",
     type: "park",
-    name: { de: "Mëllerdall UNESCO Global Geopark", hu: "Mëllerdall UNESCO Globális Geopark", ro: "Geoparcul Global UNESCO Mëllerdall", en: "Mëllerdall UNESCO Global Geopark" },
+    name: { de: "Mëllerdall UNESCO Global Geopark", hu: "Mëllerdall UNESCO Globális Geopark", ro: "Geoparcul Global UNESCO Mëllerdall", en: "Mëllerdall UNESCO Global Geopark",
+image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp"
+},
     coordinates: { lat: 49.813, lng: 6.302 },
     description: {
       de: "Dieser Geopark umfasst die Region der Kleinen Luxemburger Schweiz, die für ihre spektakulären Sandsteinfelsformationen bekannt ist. Die Region beherbergt eine einzigartige Flora in ihren feuchten Schluchten.",
@@ -108,11 +185,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Statut UNESCO obținut în anul 2022", "Include faimosul traseu Müllerthal Trail", "Geologie formată din gresie de Lias", "Protejează specii rare de ferigi și mușchi"],
       en: ["UNESCO Global Geopark status since 2022", "Encompasses the famous Müllerthal Trail", "Geology based on Luxembourg Sandstone from the Lias", "Protects rare fern and moss species"],
     },
-    imageHint: "Mëllerdall Geopark sandstone rocks and green forest", image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp"},
-  {
+imageHint: "Mëllerdall Geopark sandstone rocks and green forest",
+    descriptionAdvanced: {
+      de: "Dieser UNESCO Geopark beeindruckt durch seine markanten Sandsteinformationen und tiefen Schluchten, die Zeugnis einer über 200 Millionen Jahre alten Erdgeschichte sind.",
+      hu: "Ez az UNESCO Geopark lenyűgöző homokkő-alakzataival és mély szurdokaival tűnik ki, amelyek egy több mint 200 millió éves földtörténeti korszak emlékei.",
+      ro: "Acest geoparc UNESCO impresionează prin formațiunile sale de gresie și cheile adânci, mărturii ale unei istorii geologice de peste 200 de milioane de ani.",
+      en: "This UNESCO Global Geopark features striking sandstone formations and deep gorges, bearing witness to a geological history spanning over 200 million years.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Status seit 2022", "Fläche von 256 km²", "Höchster Punkt bei 414 Metern", "Bekannt als Kleine Luxemburger Schweiz"],
+      hu: ["UNESCO státusz 2022 óta", "256 km²-es terület", "Legmagasabb pontja 414 méter", "Kisméretű Luxemburgi Svájcként ismert"],
+      ro: ["Statut UNESCO din 2022", "Suprafață de 256 km²", "Punct maxim la 414 metri", "Cunoscut ca Mica Elveție Luxemburgheză"],
+      en: ["UNESCO status since 2022", "Area of 256 km²", "Highest point at 414 meters", "Known as Little Luxembourg Switzerland"],
+    },
+    image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp",
+},  {
     id: "luxembourg-schlammwiss-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Schlammwiss", hu: "Schlammwiss természetvédelmi terület", ro: "Rezervația Naturală Schlammwiss", en: "Schlammwiss Nature Reserve" },
+    name: { de: "Naturschutzgebiet Schlammwiss", hu: "Schlammwiss természetvédelmi terület", ro: "Rezervația Naturală Schlammwiss", en: "Schlammwiss Nature Reserve",
+image: "/poi-images/luxembourg-schlammwiss-life-v2.webp"
+},
     coordinates: { lat: 49.626, lng: 6.275 },
     description: {
       de: "Das Schlammwiss bei Übersyren ist das größte zusammenhängende Schilfgebiet Luxemburgs. Es dient als wichtiger Trittstein für Zugvögel und beherbergt eine Vogelberingungsstation.",
@@ -126,11 +218,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cea mai mare zonă de stufăriș din țară", "Locația unei stații științifice de inelare", "Găzduiește buhaiul de baltă (specie rară)", "Biotop crucial în valea râului Syr"],
       en: ["Largest reed bed landscape in the country", "Site of a scientific bird ringing station", "Home to rare Eurasian bitterns", "Critical biotope in the Syre valley"],
     },
-    imageHint: "Schlammwiss nature reserve reed beds and bird station", image: "/poi-images/luxembourg-schlammwiss-life-v2.webp"},
-  {
+imageHint: "Schlammwiss nature reserve reed beds and bird station",
+    descriptionAdvanced: {
+      de: "Das größte zusammenhängende Schilfgebiet Luxemburgs im Syrtal ist ein Zentrum der wissenschaftlichen Vogelberingung und ein Rückzugsort für bedrohte Sumpfvogelarten.",
+      hu: "A Syrtal-völgyben található legnagyobb összefüggő nádas Luxemburgban a tudományos madárgyűrűzés központja és a veszélyeztetett mocsári madarak menedékhelye.",
+      ro: "Cea mai mare zonă compactă de stuf din Luxemburg, situată în valea Syr, este un centru de inelare a păsărilor și un refugiu pentru specii de mlaștină periclitate.",
+      en: "Luxembourg's largest contiguous reed bed in the Syr valley is a center for scientific bird ringing and a sanctuary for endangered marsh bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 375 Hektar", "Über 100 Brutvogelarten", "Wichtigste Beringungsstation", "Schilfbestand von nationalem Rang"],
+      hu: ["Kb. 375 hektáros terület", "Több mint 100 fészkelő madárfaj", "Legfontosabb gyűrűzőállomás", "Országos jelentőségű nádas"],
+      ro: ["Suprafață de cca. 375 de hectare", "Peste 100 de specii de păsări", "Cea mai importantă stație de inelare", "Stufăriș de importanță națională"],
+      en: ["Area of approx. 375 hectares", "Over 100 breeding bird species", "Primary bird ringing station", "National importance reed beds"],
+    },
+    image: "/poi-images/luxembourg-schlammwiss-life-v2.webp",
+},  {
     id: "luxembourg-aarnescht-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Aarnescht", hu: "Aarnescht természetvédelmi terület", ro: "Rezervația Naturală Aarnescht", en: "Aarnescht Nature Reserve" },
+    name: { de: "Naturschutzgebiet Aarnescht", hu: "Aarnescht természetvédelmi terület", ro: "Rezervația Naturală Aarnescht", en: "Aarnescht Nature Reserve",
+image: "/poi-images/luxembourg-aarnescht-life-v2.webp"
+},
     coordinates: { lat: 49.658, lng: 6.265 },
     description: {
       de: "Die Aarnescht bei Niederanven ist berühmt für ihre Halbtrockenrasen und den Reichtum an wilden Orchideen. Das Gebiet bietet ein fast mediterranes Mikroklima auf sonnenexponierten Hängen.",
@@ -144,11 +251,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cunoscută pentru peste 25 de specii de orhidee", "Cuprinde circa 75 de hectare de zonă protejată", "Habitat important pentru fluturi rari", "Caracterizată prin sol calcaros"],
       en: ["Famous for over 25 species of wild orchids", "Covers about 75 hectares of protected land", "Key habitat for rare butterfly species", "Characterized by calcareous soil conditions"],
     },
-    imageHint: "Aarnescht nature reserve with wild orchids and sunny slopes", image: "/poi-images/luxembourg-aarnescht-life-v2.webp"},
-  {
+imageHint: "Aarnescht nature reserve with wild orchids and sunny slopes",
+    descriptionAdvanced: {
+      de: "Die Aarnescht bei Niederanven ist berühmt für ihre Halbtrockenrasen auf Muschelkalk, die eine der bedeutendsten Orchideenpopulationen des Großherzogtums beherbergen.",
+      hu: "A Niederanven melletti Aarnescht híres a mészkőalapkőzetén kialakult félszáraz gyepekről, amelyek a nagyhercegség egyik legjelentősebb orchidea-populációjának adnak otthont.",
+      ro: "Rezervația Aarnescht de lângă Niederanven este celebră pentru pajiștile sale uscate pe calcar, care adăpostesc una dintre cele mai mari populații de orhidee.",
+      en: "Aarnescht near Niederanven is famous for its semi-dry grasslands on shell limestone, hosting one of the most significant orchid populations in the Grand Duchy.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzgebiet seit 1988", "Über 20 Orchideenarten", "Fläche von ca. 75 Hektar", "Südliche mikroklimatische Lage"],
+      hu: ["Természetvédelmi terület 1988 óta", "Több mint 20 orchideafaj", "Kb. 75 hektáros terület", "Déli mikroklímájú fekvés"],
+      ro: ["Rezervație naturală din 1988", "Peste 20 de specii de orhidee", "Suprafață de cca. 75 de hectare", "Poziție cu microclimat sudic"],
+      en: ["Nature reserve since 1988", "Over 20 orchid species", "Area of approx. 75 hectares", "Southern microclimatic exposure"],
+    },
+    image: "/poi-images/luxembourg-aarnescht-life-v2.webp",
+},  {
     id: "luxembourg-ellergronn-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Ellergronn", hu: "Ellergronn természetvédelmi terület", ro: "Rezervația Naturală Ellergronn", en: "Ellergronn Nature Reserve" },
+    name: { de: "Naturschutzgebiet Ellergronn", hu: "Ellergronn természetvédelmi terület", ro: "Rezervația Naturală Ellergronn", en: "Ellergronn Nature Reserve",
+image: "/poi-images/luxembourg-ellergronn-life-v2.webp"
+},
     coordinates: { lat: 49.475, lng: 5.98 },
     description: {
       de: "Dieses Reservat südlich von Esch-sur-Alzette liegt in einem ehemaligen Tagebaugebiet der Minette-Region. Die Natur hat sich das Gelände zurückerobert und eine hohe Artenvielfalt entwickelt.",
@@ -162,11 +284,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Parte a Rezervației Biosferei UNESCO Minette", "Găzduiește un centru de protecție a naturii", "Fostul amplasament al minei Katzenberg", "Amestec de păduri, iazuri și pajiști uscate"],
       en: ["Part of the UNESCO Minette Biosphere Reserve", "Hosts a nature conservation center", "Former site of the Katzenberg mine", "Mix of forests, ponds, and dry grasslands"],
     },
-    imageHint: "Ellergronn nature center and reclaimed mining landscape", image: "/poi-images/luxembourg-ellergronn-life-v2.webp"},
-  {
+imageHint: "Ellergronn nature center and reclaimed mining landscape",
+    descriptionAdvanced: {
+      de: "Inmitten der Minett-Region gelegen zeigt dieses Gebiet die eindrucksvolle Rückeroberung ehemaliger Tagebaustätten durch die Natur und dient als Naturschutzzentrum.",
+      hu: "A Minett-régió szívében található terület a természet látványos visszatérését mutatja be a korábbi külszíni bányák helyén, és természetvédelmi központként is szolgál.",
+      ro: "Situată în regiunea Minett, această zonă demonstrează recuperarea impresionantă a fostelor mine de suprafață de către natură și servește drept centru ecologic.",
+      en: "Located in the heart of the Minett region, this area showcases the impressive reclamation of former open-cast mining sites by nature and serves as a conservation center.",
+    },
+    factsAdvanced: {
+      de: ["Teil des UNESCO Biosphärenreservats", "Lehrpfad durch Buchenwälder", "Ehemaliges Eisenerz-Revier", "Zentrum für Naturschutz (CNA)"],
+      hu: ["Az UNESCO Bioszféra-rezervátum része", "Tanösvény bükkerdőkön át", "Egykori vasércbányászati terület", "Természetvédelmi központ (CNA)"],
+      ro: ["Parte a Rezervației Biosferei UNESCO", "Traseu prin păduri de fag", "Fost district de minereu de fier", "Centru de conservare a naturii"],
+      en: ["Part of UNESCO Biosphere Reserve", "Trail through beech forests", "Former iron ore mining district", "Nature conservation center (CNA)"],
+    },
+    image: "/poi-images/luxembourg-ellergronn-life-v2.webp",
+},  {
     id: "luxembourg-sonnebierg-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Sonnebierg", hu: "Sonnebierg természetvédelmi terület", ro: "Rezervația Naturală Sonnebierg", en: "Sonnebierg Nature Reserve" },
+    name: { de: "Naturschutzgebiet Sonnebierg", hu: "Sonnebierg természetvédelmi terület", ro: "Rezervația Naturală Sonnebierg", en: "Sonnebierg Nature Reserve",
+image: "/poi-images/luxembourg-sonnebierg-life-v2.webp"
+},
     coordinates: { lat: 49.662, lng: 6.138 },
     description: {
       de: "Der Sonnebierg in Walferdingen ist ein geschützter Trockenrasen-Hang mit einer außergewöhnlichen Flora. Aufgrund des kalkhaltigen Bodens wachsen hier seltene Enziane und Orchideen.",
@@ -180,11 +317,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Una dintre cele mai biodiverse coaste din țară", "Renumită pentru gențiana de primăvară", "Oferă o vedere panoramică asupra văii Alzette", "Trasee naturale ghidate pentru vizitatori"],
       en: ["One of the most biodiverse slopes in the country", "Famous for its spring gentians", "Offers panoramic views over the Alzette valley", "Features guided nature trails for visitors"],
     },
-    imageHint: "Sonnebierg nature reserve flowers and valley view", image: "/poi-images/luxembourg-sonnebierg-life-v2.webp"},
-  {
+imageHint: "Sonnebierg nature reserve flowers and valley view",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Sonnebierg bei Helmsange schützt wertvolle Trockenrasen und Gebüschformationen auf sonnenexponierten Hängen des Alzettetals.",
+      hu: "A Helmsange melletti Sonnebierg természetvédelmi terület értékes száraz gyepeket és cserjéseket véd az Alzette-völgy napos lejtőin.",
+      ro: "Rezervația naturală Sonnebierg de lângă Helmsange protejează pajiști uscate valoroase și formațiuni de arbuști pe versanții însoriți ai văii Alzette.",
+      en: "The Sonnebierg nature reserve near Helmsange protects valuable dry grasslands and shrub formations on the sun-exposed slopes of the Alzette valley.",
+    },
+    factsAdvanced: {
+      de: ["Schutz seit 1973", "Südwestliche Hanglage", "Vorkommen seltener Enzianarten", "Management durch Beweidung"],
+      hu: ["1973 óta védett", "Délnyugati lejtő fekvés", "Ritka tárnicsfajok előfordulása", "Legeltetéssel történő kezelés"],
+      ro: ["Protejat din 1973", "Versant cu expunere sud-vestică", "Prezența speciilor rare de gențiană", "Gestionare prin pășunat"],
+      en: ["Protected since 1973", "South-west slope exposure", "Rare gentian species present", "Managed through grazing"],
+    },
+    image: "/poi-images/luxembourg-sonnebierg-life-v2.webp",
+},  {
     id: "luxembourg-dumontshaff-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Dumontshaff", hu: "Dumontshaff természetvédelmi terület", ro: "Rezervația Naturală Dumontshaff", en: "Dumontshaff Nature Reserve" },
+    name: { de: "Naturschutzgebiet Dumontshaff", hu: "Dumontshaff természetvédelmi terület", ro: "Rezervația Naturală Dumontshaff", en: "Dumontshaff Nature Reserve",
+image: "/poi-images/luxembourg-dumontshaff-life-v2.webp"
+},
     coordinates: { lat: 49.505, lng: 6.027 },
     description: {
       de: "Das Dumontshaff zwischen Schifflingen und Kayl ist eine renaturierte Auenlandschaft der Alzette. Es dient als wichtiges Brut- und Rastgebiet für Wasservögel und Watvögel.",
@@ -198,11 +350,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Proiect de revitalizare a luncii râului Alzette", "Dispune de foișoare pentru ornitologi", "Cel mai important loc pentru berze albe în sud", "Protejează pajiștile umede și brațele vechi"],
       en: ["Project for revitalizing the Alzette floodplains", "Features bird watching blinds for ornithologists", "Key site for white storks in southern Luxembourg", "Protects wet meadows and river oxbows"],
     },
-    imageHint: "Dumontshaff wetlands with storks and river", image: "/poi-images/luxembourg-dumontshaff-life-v2.webp"},
-  {
+imageHint: "Dumontshaff wetlands with storks and river",
+    descriptionAdvanced: {
+      de: "Das Schutzgebiet an der Alzette ist ein Vorzeigeprojekt für die Renaturierung von Flussauen und bietet Lebensraum für Weißstörche und seltene Amphibienarten.",
+      hu: "Az Alzette folyó menti védett terület a folyókanyarulatok helyreállításának mintaprojektje, amely fészkelőhelyet biztosít a fehér gólyáknak és kétéltűeknek.",
+      ro: "Această rezervație situată de-a lungul râului Alzette este un proiect model de renaturare a luncii, oferind habitat berzelor albe și unor amfibieni rari.",
+      en: "This reserve along the Alzette River is a flagship project for floodplain restoration, providing vital habitats for white storks and rare amphibian species.",
+    },
+    factsAdvanced: {
+      de: ["Renaturierung der Alzette", "Beobachtungspunkt für Störche", "Fläche von ca. 120 Hektar", "Wichtiger Hochwasserschutz"],
+      hu: ["Az Alzette folyó rehabilitációja", "Gólyamegfigyelő pont", "Kb. 120 hektáros terület", "Fontos árvízvédelmi szerep"],
+      ro: ["Renaturarea râului Alzette", "Punct de observare a berzelor", "Suprafață de cca. 120 de hectare", "Rol vital în protecția la inundații"],
+      en: ["Restoration of the Alzette River", "Observation point for storks", "Area of approx. 120 hectares", "Important flood protection role"],
+    },
+    image: "/poi-images/luxembourg-dumontshaff-life-v2.webp",
+},  {
     id: "luxembourg-biodiversum-life-v2",
     type: "museum",
-    name: { de: "Biodiversum Remerschen", hu: "Biodiversum Remerschen", ro: "Biodiversum Remerschen", en: "Biodiversum Remerschen" },
+    name: { de: "Biodiversum Remerschen", hu: "Biodiversum Remerschen", ro: "Biodiversum Remerschen", en: "Biodiversum Remerschen",
+image: "/poi-images/luxembourg-biodiversum-life-v2.webp"
+},
     coordinates: { lat: 49.489, lng: 6.357 },
     description: {
       de: "Das Biodiversum ist ein futuristisches Naturschutzzentrum auf einer künstlichen Halbinsel in Remerschen. Es bietet interaktive Ausstellungen über die Flora und Fauna der Region Haff Réimech.",
@@ -216,11 +383,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Clădire din lemn cu arhitectură distinctivă", "Deschis în anul 2016", "Oferă informații despre rezervațiile țării", "Punct de plecare pentru multe trasee tematice"],
       en: ["Architecturally striking wooden building", "Opened in 2016", "Provides info on national nature reserves", "Starting point for many nature trails"],
     },
-    imageHint: "Biodiversum Remerschen wooden building on lake", image: "/poi-images/luxembourg-biodiversum-life-v2.webp"},
-  {
+imageHint: "Biodiversum Remerschen wooden building on lake",
+    descriptionAdvanced: {
+      de: "Dieses moderne Besucherzentrum bei Remerschen besticht durch seine Holzarchitektur und informiert interaktiv über die Ökosysteme des angrenzenden Haff Réimech.",
+      hu: "Ez a Remerschen melletti modern látogatóközpont lenyűgöző faépítészetével tűnik ki, és interaktív módon tájékoztat a szomszédos Haff Réimech ökoszisztémáiról.",
+      ro: "Acest centru modern pentru vizitatori de lângă Remerschen impresionează prin arhitectura sa din lemn și oferă informații despre ecosistemele din Haff Réimech.",
+      en: "This modern visitor center near Remerschen features striking timber architecture and provides interactive insights into the ecosystems of the adjacent Haff Réimech.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 2016", "Architektur von Valentiny hvp", "Nachhaltige Holzbauweise", "Informationszentrum für Naturschutz"],
+      hu: ["2016-os megnyitás", "Valentiny hvp építésziroda", "Fenntartható faépítési mód", "Természetvédelmi információs központ"],
+      ro: ["Deschis în anul 2016", "Arhitectură de Valentiny hvp", "Construcție durabilă din lemn", "Centru de informare ecologică"],
+      en: ["Opened in 2016", "Architecture by Valentiny hvp", "Sustainable timber construction", "Nature conservation info center"],
+    },
+    image: "/poi-images/luxembourg-biodiversum-life-v2.webp",
+},  {
     id: "luxembourg-arboretum-kirchberg-life-v2",
     type: "park",
-    name: { de: "Arboretum Kirchberg", hu: "Kirchberg Arborétum", ro: "Arboretumul Kirchberg", en: "Arboretum Kirchberg" },
+    name: { de: "Arboretum Kirchberg", hu: "Kirchberg Arborétum", ro: "Arboretumul Kirchberg", en: "Arboretum Kirchberg",
+image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp"
+},
     coordinates: { lat: 49.631, lng: 6.172 },
     description: {
       de: "Das Arboretum auf dem Kirchberg-Plateau umfasst drei öffentliche Parks mit einer Sammlung seltener Baum- und Straucharten. Es verbindet urbane Architektur mit botanischer Vielfalt.",
@@ -234,11 +416,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Acoperă o suprafață de circa 30 de hectare", "Găzduiește peste 500 de specii diferite de arbori", "Parte a parcului Parc Central din Kirchberg", "Colecție științifică de arbori europeni"],
       en: ["Covers about 30 hectares of land", "Home to over 500 different woody species", "Part of the Parc Central on Kirchberg", "Scientific collection of European trees"],
     },
-    imageHint: "Arboretum Kirchberg park trees and modern buildings", image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp"},
-  {
+imageHint: "Arboretum Kirchberg park trees and modern buildings",
+    descriptionAdvanced: {
+      de: "Auf dem Kirchberg-Plateau gelegen vereint das Arboretum eine beeindruckende Sammlung heimischer und exotischer Gehölze in drei thematisch gestalteten Parkanlagen.",
+      hu: "A Kirchberg-fennsíkon található arborétum hazai és egzotikus fafajok lenyűgöző gyűjteményét ötvözi három tematikusan kialakított parkban.",
+      ro: "Situat pe platoul Kirchberg, arboretumul reunește o colecție impresionantă de arbori autohtoni și exotici în trei parcuri amenajate tematic.",
+      en: "Located on the Kirchberg plateau, this arboretum combines an impressive collection of native and exotic woody plants across three themed park areas.",
+    },
+    factsAdvanced: {
+      de: ["Über 400 Gehölzarten", "Verteilt auf 3 Parkteile", "Fläche von ca. 30 Hektar", "Wissenschaftliche Pflanzensammlung"],
+      hu: ["Több mint 400 fafaj", "3 parkrészre osztva", "Kb. 30 hektáros terület", "Tudományos növénygyűjtemény"],
+      ro: ["Peste 400 de specii de arbori", "Împărțit în 3 secțiuni", "Suprafață de cca. 30 de hectare", "Colecție botanică științifică"],
+      en: ["Over 400 species of trees", "Spread across 3 park sections", "Area of approx. 30 hectares", "Scientific plant collection"],
+    },
+    image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp",
+},  {
     id: "luxembourg-rose-garden-limpertsberg-life-v2",
     type: "park",
-    name: { de: "Rosengarten Limpertsberg", hu: "Limpertsbergi Rózsakert", ro: "Grădina de Trandafiri Limpertsberg", en: "Rose Garden Limpertsberg" },
+    name: { de: "Rosengarten Limpertsberg", hu: "Limpertsbergi Rózsakert", ro: "Grădina de Trandafiri Limpertsberg", en: "Rose Garden Limpertsberg",
+image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp"
+},
     coordinates: { lat: 49.619, lng: 6.121 },
     description: {
       de: "Dieser Garten im Stadtteil Limpertsberg erinnert an Luxemburgs Geschichte als Welthauptstadt der Rosenzucht. Er präsentiert zahlreiche historische und moderne Rosensorten.",
@@ -252,11 +449,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Limpertsberg era centrul culturii trandafirilor", "Luxemburg exporta trandafiri în toată lumea", "Găzduiește multe soiuri create în Luxemburg", "Situată în apropierea universității"],
       en: ["Limpertsberg was once the center of rose breeding", "Luxembourg exported roses worldwide", "Home to many Luxembourgish rose varieties", "Located near the University campus"],
     },
-    imageHint: "Limpertsberg rose garden flowers and park", image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp"},
-  {
+imageHint: "Limpertsberg rose garden flowers and park",
+    descriptionAdvanced: {
+      de: "Dieser Garten im Stadtteil Limpertsberg erinnert an die glanzvolle Geschichte Luxemburgs als bedeutender Exporteur von Rosen im späten 19. Jahrhundert.",
+      hu: "Ez a Limpertsberg negyedben található kert Luxemburg mint a 19. század végi jelentős rózsaexportőr dicső múltjára emlékeztet.",
+      ro: "Această grădină din cartierul Limpertsberg amintește de istoria glorioasă a Luxemburgului ca exportator major de trandafiri la sfârșitul secolului al XIX-lea.",
+      en: "This garden in the Limpertsberg district commemorates Luxembourg's glorious history as a major exporter of roses in the late 19th century.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO Kulturerbe-Tradition", "Über 600 Rosenstöcke", "Zentrum der Rosenzüchtung", "Limpertsberg als historisches Viertel"],
+      hu: ["UNESCO szellemi örökség", "Több mint 600 rózsatő", "A rózsatermesztés központja", "Történelmi Limpertsberg negyed"],
+      ro: ["Tradiție patrimoniu UNESCO", "Peste 600 de tufe de trandafiri", "Centru de cultivare a rozelor", "Cartierul istoric Limpertsberg"],
+      en: ["UNESCO Intangible Heritage", "Over 600 rose bushes", "Center of rose breeding history", "Limpertsberg historic district"],
+    },
+    image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp",
+},  {
     id: "luxembourg-bambesch-life-v2",
     type: "forest",
-    name: { de: "Bambësch Wald", hu: "Bambësch erdő", ro: "Pădurea Bambësch", en: "Bambësch Forest" },
+    name: { de: "Bambësch Wald", hu: "Bambësch erdő", ro: "Pădurea Bambësch", en: "Bambësch Forest",
+image: "/poi-images/luxembourg-bambesch-life-v2.webp"
+},
     coordinates: { lat: 49.635, lng: 6.105 },
     description: {
       de: "Der Bambësch ist das größte Waldgebiet der Stadt Luxemburg und ein beliebtes Naherholungsziel. Er bietet ein dichtes Netz an Wanderwegen, Laufstrecken und großen Spielplätzen.",
@@ -270,11 +482,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cuprinde peste 600 de hectare de pădure", "Destinație favorită pentru mountain biking", "Locația centrului național de tenis", "Multe trasee naturale marcate"],
       en: ["Covers over 600 hectares of forest land", "Popular destination for mountain bikers", "Home to the National Tennis Center", "Features many marked nature trails"],
     },
-    imageHint: "Bambesch forest trails and tall beech trees", image: "/poi-images/luxembourg-bambesch-life-v2.webp"},
-  {
+imageHint: "Bambesch forest trails and tall beech trees",
+    descriptionAdvanced: {
+      de: "Der Bambësch ist das größte Naherholungsgebiet der Hauptstadt und bietet ein weitläufiges Wegenetz durch dichte Buchen- und Eichenwälder am nordwestlichen Stadtrand.",
+      hu: "A Bambësch a főváros legnagyobb pihenőövezete, amely kiterjedt úthálózatot kínál a sűrű bükk- és tölgyerdőkön keresztül a város északnyugati szélén.",
+      ro: "Pădurea Bambësch este cea mai mare zonă de agrement a capitalei, oferind o rețea vastă de poteci prin păduri dese de fag și stejar la marginea orașului.",
+      en: "Bambësch is the capital's largest recreational area, offering an extensive network of trails through dense beech and oak forests on the northwestern outskirts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 800 Hektar", "Trimm-dich-Pfad vorhanden", "Wichtiges Trinkwasserreservoir", "Nordwestlich von Luxemburg-Stadt"],
+      hu: ["Kb. 800 hektáros terület", "Erdei tornapálya", "Fontos ivóvíz-rezervátum", "Luxemburg város északnyugati része"],
+      ro: ["Suprafață de cca. 800 de hectare", "Pistă de antrenament fizic", "Rezervor vital de apă potabilă", "La nord-vest de orașul Luxemburg"],
+      en: ["Area of approx. 800 hectares", "Fitness trail available", "Vital drinking water reservoir", "Northwest of Luxembourg City"],
+    },
+    image: "/poi-images/luxembourg-bambesch-life-v2.webp",
+},  {
     id: "luxembourg-grunewald-life-v2",
     type: "forest",
-    name: { de: "Grünewald", hu: "Grünewald", ro: "Pădurea Grünewald", en: "Grünewald Forest" },
+    name: { de: "Grünewald", hu: "Grünewald", ro: "Pădurea Grünewald", en: "Grünewald Forest",
+image: "/poi-images/luxembourg-grunewald-life-v2.webp"
+},
     coordinates: { lat: 49.655, lng: 6.185 },
     description: {
       de: "Der Grünewald ist das größte zusammenhängende Waldgebiet Luxemburgs und liegt nordöstlich der Hauptstadt. Er ist seit Jahrhunderten im Staatsbesitz und dient als wichtiges Wasserschutzgebiet.",
@@ -288,11 +515,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Suprafață totală de aproximativ 2.500 de hectare", "Cea mai importantă zonă de izvoare pentru oraș", "Fost domeniu regal de vânătoare", "Traversată de apeducte romane (Raschpëtzer)"],
       en: ["Total area of about 2,500 hectares", "Most important spring area for Luxembourg City", "Formerly a royal hunting ground", "Crisscrossed by Roman aqueducts (Raschpëtzer)"],
     },
-    imageHint: "Grunewald forest landscape and ancient trees", image: "/poi-images/luxembourg-grunewald-life-v2.webp"},
-  {
+imageHint: "Grunewald forest landscape and ancient trees",
+    descriptionAdvanced: {
+      de: "Als größter zusammenhängender Wald des Landes speichert der Grünewald im Luxemburger Sandstein gewaltige Trinkwassermengen und beherbergt römische Aquädukte.",
+      hu: "Az ország legnagyobb összefüggő erdőjeként a Grünewald a luxemburgi homokkőben hatalmas mennyiségű ivóvizet tárol, és római kori vízvezetékeknek ad otthont.",
+      ro: "Cea mai mare pădure compactă din țară, Grünewald, stochează cantități mari de apă potabilă în gresia luxemburgheză și găzduiește apeducte romane.",
+      en: "As the largest contiguous forest in the country, the Grünewald stores massive amounts of drinking water in its sandstone and features Roman aqueducts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 4500 Hektar", "Römische Raschpëtzer-Anlage", "Sandstein-Grundwasserleiter", "Historisches Jagdrevier"],
+      hu: ["Kb. 4500 hektáros terület", "Római kori Raschpëtzer-mű", "Homokkő víztartó réteg", "Történelmi vadászterület"],
+      ro: ["Suprafață de cca. 4500 hectare", "Instalația romană Raschpëtzer", "Acvifer în gresie", "Fost domeniu istoric de vânătoare"],
+      en: ["Area of approx. 4500 hectares", "Roman Raschpëtzer system", "Sandstone aquifer storage", "Historic hunting ground"],
+    },
+    image: "/poi-images/luxembourg-grunewald-life-v2.webp",
+},  {
     id: "luxembourg-petruss-park-life-v2",
     type: "park",
-    name: { de: "Petruss-Park", hu: "Pétrusse-park", ro: "Parcul Pétrusse", en: "Petruss Park" },
+    name: { de: "Petruss-Park", hu: "Pétrusse-park", ro: "Parcul Pétrusse", en: "Petruss Park",
+image: "/poi-images/luxembourg-petruss-park-life-v2.webp"
+},
     coordinates: { lat: 49.605, lng: 6.13 },
     description: {
       de: "Dieser weitläufige Park liegt im tief eingeschnittenen Tal der Petruss, direkt unter den Festungsmauern der Stadt. Er ist bekannt für seine steilen Felswände und die grüne Oase inmitten der Urbanität.",
@@ -307,11 +549,25 @@ export const luxembourgLifeV2: POI[] = [
       en: ["Separates the Upper Town from the Station district", "Contains the largest skatepark in the country", "Part of the UNESCO World Heritage zone", "Recently underwent ecological renaturalization"],
     },
     imageHint: "Petruss valley park with cliffs and fortress walls",
+    descriptionAdvanced: {
+      de: "Der Petruss-Park erstreckt sich im tiefen Tal unter den Festungsmauern und fasziniert durch seine Felsformationen sowie die Terrassengärten des 19. Jahrhunderts.",
+      hu: "A Petruss-park az erődítményfalak alatti mély völgyben húzódik, és lenyűgöző sziklaalakzataival, valamint 19. századi teraszos kertjeivel bűvöli el a látogatókat.",
+      ro: "Parcul Pétrusse se întinde în valea adâncă de sub zidurile cetății și fascinează prin formațiunile stâncoase și grădinile terasate din secolul al XIX-lea.",
+      en: "The Petruss Park stretches through the deep valley below the fortress walls, featuring striking rock formations and 19th-century terraced gardens.",
+    },
+    factsAdvanced: {
+      de: ["Gestaltung von Edouard André", "Großer Skatepark integriert", "Lage im ehemaligen Festungsgraben", "Renaturierung des Flusslaufs"],
+      hu: ["Edouard André tervezése", "Beépített nagy skatepark", "Az egykori várárokban található", "A folyómeder rehabilitációja"],
+      ro: ["Proiectat de Edouard André", "Skatepark mare integrat", "Situat în fostul șanț al cetății", "Renaturarea cursului râului"],
+      en: ["Designed by Edouard André", "Integrated large skatepark", "Located in former fortress ditch", "Riverbed restoration project"],
+    },
   },
   {
     id: "luxembourg-parc-de-merl-life-v2",
     type: "park",
-    name: { de: "Parc de Merl", hu: "Merl-park", ro: "Parcul Merl", en: "Parc de Merl" },
+    name: { de: "Parc de Merl", hu: "Merl-park", ro: "Parcul Merl", en: "Parc de Merl",
+image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp"
+},
     coordinates: { lat: 49.606, lng: 6.112 },
     description: {
       de: "Der Parc de Merl ist eine der beliebtesten Grünanlagen der Hauptstadt, besonders für Familien. Ein großer Teich mit Springbrunnen bildet den Mittelpunkt der gepflegten Anlage.",
@@ -325,11 +581,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Dispune de un mare loc de joacă", "Loc de întâlnire popular pentru joggeri", "Găzduiește un pavilion de muzică", "Oferă o peluză vastă pentru relaxare"],
       en: ["Features a large adventure playground", "Popular meeting point for joggers", "Home to a classic music pavilion", "Offers a large lawn for relaxation"],
     },
-    imageHint: "Parc de Merl pond and fountain in Luxembourg City", image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp"},
-  {
+imageHint: "Parc de Merl pond and fountain in Luxembourg City",
+    descriptionAdvanced: {
+      de: "Dieser familienfreundliche Park ist für seinen großen Ententeich bekannt und dient als grüne Oase im Zentrum der Hauptstadt mit vielfältigen Spielmöglichkeiten.",
+      hu: "Ez a családbarát park a nagy kacsaúsztatójáról ismert, és a főváros központjában található zöld oázisként szolgál változatos játéklehetőségekkel.",
+      ro: "Acest parc ideal pentru familii este cunoscut pentru iazul său cu rațe și servește drept oază verde în centrul capitalei, cu numeroase locuri de joacă.",
+      en: "This family-friendly park is known for its large duck pond and serves as a green oasis in the capital's center with diverse recreational facilities.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 5 Hektar", "Großer zentraler Teich", "Bekannter Musikpavillon", "Beliebter Treffpunkt für Familien"],
+      hu: ["Kb. 5 hektáros terület", "Nagy központi tó", "Ismert zenepavilon", "Népszerű családi találkozóhely"],
+      ro: ["Suprafață de cca. 5 hectare", "Iaz central de mari dimensiuni", "Pavilion de muzică renumit", "Loc popular pentru familii"],
+      en: ["Area of approx. 5 hectares", "Large central pond", "Well-known music pavilion", "Popular meeting spot for families"],
+    },
+    image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp",
+},  {
     id: "luxembourg-municipal-park-life-v2",
     type: "park",
-    name: { de: "Stadtpark Luxemburg", hu: "Luxemburgi Városliget", ro: "Parcul Municipal Luxemburg", en: "Municipal Park Luxembourg" },
+    name: { de: "Stadtpark Luxemburg", hu: "Luxemburgi Városliget", ro: "Parcul Municipal Luxemburg", en: "Municipal Park Luxembourg",
+image: "/poi-images/luxembourg-municipal-park-life-v2.webp"
+},
     coordinates: { lat: 49.612, lng: 6.124 },
     description: {
       de: "Der Stadtpark wurde im 19. Jahrhundert auf den ehemaligen Festungsanlagen angelegt. Er ist ein klassischer englischer Landschaftsgarten mit altem Baumbestand und Denkmälern.",
@@ -344,11 +615,25 @@ export const luxembourgLifeV2: POI[] = [
       en: ["Designed by landscape architect Edouard André", "Encompasses the Villa Vauban", "Contains parts of the old fortress (Fort Lambert)", "Central green belt of the Upper Town"],
     },
     imageHint: "Municipal Park Luxembourg City with old trees",
+    descriptionAdvanced: {
+      de: "Nach dem Abriss der Festung auf dem Gelände der ehemaligen Außenwerke angelegt, bildet dieser Park einen eleganten Gürtel aus englischen Gärten um die Oberstadt.",
+      hu: "Az erődítmény lebontása után az egykori külső védművek területén kialakított park elegáns angolkert-övezetet alkot a felsőváros körül.",
+      ro: "Creat după demolarea cetății pe locul fostelor fortificații exterioare, acest parc formează o centură elegantă de grădini englezești în jurul orașului.",
+      en: "Created after the fortress's demolition on the site of former outworks, this park forms an elegant belt of English gardens around the Upper City.",
+    },
+    factsAdvanced: {
+      de: ["Anlage ab 1871", "Planung durch Edouard André", "Ehemalige Festungsstandorte", "Zentrum für zeitgenössische Kunst"],
+      hu: ["1871-től alakították ki", "Edouard André tervei alapján", "Egykori erődítményhelyszínek", "Kortárs művészeti központ"],
+      ro: ["Amenajat începând cu 1871", "Planificat de Edouard André", "Foste locații ale fortificațiilor", "Centru de artă contemporană"],
+      en: ["Laid out from 1871", "Planned by Edouard André", "Former fortress locations", "Center for contemporary art"],
+    },
   },
   {
     id: "luxembourg-tony-neuman-park-life-v2",
     type: "park",
-    name: { de: "Parc Tony Neuman", hu: "Tony Neuman park", ro: "Parcul Tony Neuman", en: "Tony Neuman Park" },
+    name: { de: "Parc Tony Neuman", hu: "Tony Neuman park", ro: "Parcul Tony Neuman", en: "Tony Neuman Park",
+image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp"
+},
     coordinates: { lat: 49.622, lng: 6.115 },
     description: {
       de: "Dieser Park im Stadtteil Limpertsberg beherbergt eine Sammlung bedeutender Skulpturen luxemburgischer Künstler. Er ist bekannt für seine Ruhe und den gepflegten Baumbestand.",
@@ -362,11 +647,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Fostă grădină privată a unui antreprenor", "Conține lucrări de Lucien Wercollier", "Colecție specială de magnolii", "Locație liniștită, departe de străzile principale"],
       en: ["Formerly the private garden of an entrepreneur", "Contains works by Lucien Wercollier", "Features a special collection of magnolias", "Peaceful location away from main traffic"],
     },
-    imageHint: "Tony Neuman Park sculptures and green lawn", image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp"},
-  {
+imageHint: "Tony Neuman Park sculptures and green lawn",
+    descriptionAdvanced: {
+      de: "In der Villengegend von Limpertsberg gelegen präsentiert dieser Park eine exquisite Sammlung moderner Skulpturen inmitten eines alten, gepflegten Baumbestandes.",
+      hu: "A Limpertsberg villanegyedében található park modern szobrok válogatott gyűjteményét mutatja be egy régi, gondozott faállomány ölelésében.",
+      ro: "Situat în zona de vile din Limpertsberg, acest parc prezintă o colecție rafinată de sculpturi moderne în mijlocul unor arbori vechi și bine întreținuți.",
+      en: "Located in the Limpertsberg villa district, this park displays an exquisite collection of modern sculptures amidst mature, well-tended trees.",
+    },
+    factsAdvanced: {
+      de: ["Sammlung lokaler Bildhauer", "Ehemaliger Privatgarten", "Lage im Viertel Limpertsberg", "Moderne Kunstausstellung"],
+      hu: ["Helyi szobrászok gyűjteménye", "Egykori magánkert", "A Limpertsberg negyedben található", "Modern művészeti kiállítás"],
+      ro: ["Colecție de sculptori locali", "Fostă grădină privată", "Situat în cartierul Limpertsberg", "Expoziție de artă modernă"],
+      en: ["Collection of local sculptors", "Former private garden", "Located in Limpertsberg district", "Modern art display"],
+    },
+    image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp",
+},  {
     id: "luxembourg-am-groussebesch-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Am Groussebësch", hu: "Am Groussebësch természetvédelmi terület", ro: "Rezervația Naturală Am Groussebësch", en: "Am Groussebësch Nature Reserve" },
+    name: { de: "Naturschutzgebiet Am Groussebësch", hu: "Am Groussebësch természetvédelmi terület", ro: "Rezervația Naturală Am Groussebësch", en: "Am Groussebësch Nature Reserve",
+image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp"
+},
     coordinates: { lat: 49.635, lng: 6.255 },
     description: {
       de: "Dieses Waldreservat bei Niederanven ist geprägt durch alte Buchen- und Eichenbestände. Es schützt seltene Tierarten wie den Schwarzspecht und verschiedene Fledermausarten.",
@@ -380,11 +680,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Zonă importantă de protecție Natura 2000", "Proporție mare de lemn mort pentru biodiversitate", "Găzduiește păduri de fag cu vinariță", "Parte a unui coridor forestier extins"],
       en: ["Important Natura 2000 protected area", "High proportion of dead wood for biodiversity", "Home to rare woodruff-beech forests", "Part of an extensive forest network"],
     },
-    imageHint: "Am Groussebesch forest reserve ancient beech trees", image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp"},
-  {
+imageHint: "Am Groussebesch forest reserve ancient beech trees",
+    descriptionAdvanced: {
+      de: "Dieses Waldreservat bei Niederanven ist geprägt durch seinen hohen Anteil an Totholz und dient als wichtiger Rückzugsort für seltene Spechte und Fledermausarten.",
+      hu: "Ez a Niederanven melletti erdőrezervátumot a holtfa magas aránya jellemzi, és fontos menedékhelyként szolgál ritka harkályok és denevérfajok számára.",
+      ro: "Această rezervație forestieră de lângă Niederanven este marcată de o proporție mare de lemn mort, fiind un refugiu pentru ciocănitori și lilieci.",
+      en: "This forest reserve near Niederanven is characterized by its high proportion of deadwood, serving as a vital sanctuary for rare woodpeckers and bat species.",
+    },
+    factsAdvanced: {
+      de: ["Naturwaldreservat", "Hoher Anteil an Altbuchen", "Schutz bedrohter Insekten", "Fläche von ca. 30 Hektar"],
+      hu: ["Természetes erdőrezervátum", "Idős bükkfák magas aránya", "Veszélyeztetett rovarok védelme", "Kb. 30 hektáros terület"],
+      ro: ["Rezervație forestieră naturală", "Proporție mare de fagi bătrâni", "Protecția insectelor periclitate", "Suprafață de cca. 30 de hectare"],
+      en: ["Natural forest reserve", "High share of old beech trees", "Protection of threatened insects", "Area of approx. 30 hectares"],
+    },
+    image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp",
+},  {
     id: "luxembourg-canecher-wengertsbierg-life-v2",
     type: "wildlife",
-    name: { de: "Canecher Wéngertsbierg", hu: "Canecher Wéngertsbierg természetvédelmi terület", ro: "Rezervația Naturală Canecher Wéngertsbierg", en: "Canecher Wéngertsbierg" },
+    name: { de: "Canecher Wéngertsbierg", hu: "Canecher Wéngertsbierg természetvédelmi terület", ro: "Rezervația Naturală Canecher Wéngertsbierg", en: "Canecher Wéngertsbierg",
+image: "/poi-images/luxembourg-canecher-wengertsbierg-life-v2.webp"
+},
     coordinates: { lat: 49.612, lng: 6.335 },
     description: {
       de: "Das Gebiet umfasst historische Weinberge mit beeindruckenden Trockenmauern bei Canach. Es ist heute ein wichtiger Lebensraum für Reptilien und wärmeliebende Pflanzenarten.",
@@ -399,11 +714,25 @@ export const luxembourgLifeV2: POI[] = [
       en: ["Longest dry-stone walls in Luxembourg", "Habitat for the rare smooth snake", "Protects the traditional cultural landscape", "Known for rare wild bee species"],
     },
     imageHint: "Canach vineyard stone walls and nature reserve",
+    descriptionAdvanced: {
+      de: "Der Wengertsbierg bei Canach ist bekannt für seine wertvollen Trockenrasen und historischen Trockenmauern, die ein einzigartiges Mikroklima für Flora und Fauna schaffen.",
+      hu: "A Canach melletti Wengertsbierg értékes száraz gyepeiről és történelmi szárazon rakott kőfalairól ismert, amelyek egyedülálló mikroklímát teremtenek.",
+      ro: "Dealul Wengertsbierg de lângă Canach este cunoscut pentru pajiștile uscate și zidurile istorice din piatră, care creează un microclimat unic.",
+      en: "The Wengertsbierg near Canach is renowned for its valuable dry grasslands and historic dry stone walls, creating a unique microclimate for flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["Trockenmauern aus Muschelkalk", "Vorkommen seltener Reptilien", "Ehemalige Weinbergsterrassen", "Orchideen-Reichtum"],
+      hu: ["Mészkő száraz falak", "Ritka hüllők előfordulása", "Egykori szőlőteraszok", "Orchideákban gazdag terület"],
+      ro: ["Ziduri din piatră de calcar", "Prezența reptilelor rare", "Foste terase de viță de vie", "Bogăție de orhidee"],
+      en: ["Dry stone limestone walls", "Presence of rare reptiles", "Former vineyard terraces", "Abundance of orchids"],
+    },
   },
   {
     id: "luxembourg-deiwelskopp-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Deiwelskopp", hu: "Deiwelskopp természetvédelmi terület", ro: "Rezervația Naturală Deiwelskopp", en: "Deiwelskopp Nature Reserve" },
+    name: { de: "Naturschutzgebiet Deiwelskopp", hu: "Deiwelskopp természetvédelmi terület", ro: "Rezervația Naturală Deiwelskopp", en: "Deiwelskopp Nature Reserve",
+image: "/poi-images/luxembourg-deiwelskopp-life-v2.webp"
+},
     coordinates: { lat: 49.735, lng: 6.475 },
     description: {
       de: "Der Deiwelskopp bei Moersdorf ist ein steiler Muschelkalkfelsen über dem Sauertal. Er beherbergt wertvolle Kalk-Trockenrasen und eine Vielzahl an seltenen mediterranen Insektenarten.",
@@ -418,11 +747,25 @@ export const luxembourgLifeV2: POI[] = [
       en: ["Steep rock faces with 100m elevation difference", "Habitat for the praying mantis", "Important site for rare plant species like Seseli", "Part of cross-border nature conservation efforts"],
     },
     imageHint: "Deiwelskopp limestone cliffs and Sûre valley",
+    descriptionAdvanced: {
+      de: "Dieser markante Felsvorsprung an der Untersauer bietet spektakuläre Ausblicke und beherbergt seltene Felsvegetation sowie thermophile Waldgesellschaften.",
+      hu: "Az Alsó-Sauer mentén található jellegzetes sziklakiszögellés látványos kilátást kínál, és ritka sziklalakó növényzetnek, valamint melegkedvelő erdőknek ad otthont.",
+      ro: "Această proeminență stâncoasă de pe cursul inferior al râului Sauer oferă panorame spectaculoase și găzduiește vegetație rară de stâncă.",
+      en: "This striking rocky outcrop along the Lower Sauer offers spectacular views and hosts rare cliff vegetation and thermophilic forest communities.",
+    },
+    factsAdvanced: {
+      de: ["Steile Kalkfelswände", "Blick auf das Sauertal", "Vorkommen der Zippammer", "Wanderweg 'Deiwelskopp'"],
+      hu: ["Meredek mészkősziklák", "Kilátás a Sauer-völgyre", "Bajszos sármány előfordulása", "Deiwelskopp túraútvonal"],
+      ro: ["Versanți calcaroși abrupți", "Vedere spre valea Sauer", "Prezența presurei cu bărbiță", "Traseu de drumeție Deiwelskopp"],
+      en: ["Steep limestone cliffs", "View over the Sauer valley", "Rock bunting occurrence", "Deiwelskopp hiking trail"],
+    },
   },
   {
     id: "luxembourg-streissel-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Stréissel", hu: "Stréissel természetvédelmi terület", ro: "Rezervația Naturală Stréissel", en: "Stréissel Nature Reserve" },
+    name: { de: "Naturschutzgebiet Stréissel", hu: "Stréissel természetvédelmi terület", ro: "Rezervația Naturală Stréissel", en: "Stréissel Nature Reserve",
+image: "/poi-images/luxembourg-streissel-life-v2.webp"
+},
     coordinates: { lat: 49.518, lng: 6.095 },
     description: {
       de: "Das Stréissel bei Bettemburg ist eine renaturierte Zone entlang der Alzette. Es besteht aus Feuchtwiesen und Teichen, die wichtige Trittsteine im regionalen Biotopverbund darstellen.",
@@ -436,11 +779,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Fost teren agricol utilizat intensiv", "Habitat important pentru broasca de copac", "Servește la protecția împotriva inundațiilor", "Observații ornitologice posibile tot anul"],
       en: ["Former intensively used agricultural land", "Important habitat for the European tree frog", "Serves for Alzette flood protection", "Bird watching is possible year-round"],
     },
-    imageHint: "Streissel nature reserve ponds and wet meadows", image: "/poi-images/luxembourg-streissel-life-v2.webp"},
-  {
+imageHint: "Streissel nature reserve ponds and wet meadows",
+    descriptionAdvanced: {
+      de: "In der Alzetteaue bei Bettemburg gelegen zeigt dieses Gebiet den Erfolg der Wiedervernässung ehemaliger landwirtschaftlicher Flächen zur Förderung der Biodiversität.",
+      hu: "A Bettembourg melletti Alzette-ártéren található terület a korábbi mezőgazdasági területek újraárasztásának sikerét mutatja be a biológiai sokféleség javítása érdekében.",
+      ro: "Situată în lunca râului Alzette lângă Bettembourg, această zonă demonstrează succesul reconversiei terenurilor agricole în zone umede pentru biodiversitate.",
+      en: "Located in the Alzette floodplain near Bettembourg, this area demonstrates the success of rewetting former agricultural lands to promote biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Areal für Wasserbüffel", "Schutz von Wiesenbrütern", "Renaturierte Feuchtwiesen", "Teil des 'Dumontshaff' Projekts"],
+      hu: ["Vízibivalyok élőhelye", "Réti madarak védelme", "Helyreállított nedves rétek", "A Dumontshaff projekt része"],
+      ro: ["Zonă pentru bivoli de apă", "Protecția păsărilor de pajiște", "Fânețe umede renaturate", "Parte a proiectului Dumontshaff"],
+      en: ["Area for water buffaloes", "Protection of meadow birds", "Restored wet meadows", "Part of the Dumontshaff project"],
+    },
+    image: "/poi-images/luxembourg-streissel-life-v2.webp",
+},  {
     id: "luxembourg-krounebierg-park-life-v2",
     type: "park",
-    name: { de: "Park Krounebierg", hu: "Krounebierg-park", ro: "Parcul Krounebierg", en: "Krounebierg Park" },
+    name: { de: "Park Krounebierg", hu: "Krounebierg-park", ro: "Parcul Krounebierg", en: "Krounebierg Park",
+image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp"
+},
     coordinates: { lat: 49.755, lng: 6.11 },
     description: {
       de: "Der Krounebierg in Mersch ist ein weitläufiger Erlebnispark mit Wäldern, Teichen und Aussichtspunkten. Er bildet das grüne Zentrum der geografischen Mitte Luxemburgs.",
@@ -454,11 +812,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Locația unui turn de observare mare", "Include o piscină publică extinsă", "Traseu tematic al planetelor pentru vizitatori", "În proximitatea centrului geografic al țării"],
       en: ["Site of a large observation tower", "Includes a major public swimming complex", "Features a marked planetary educational trail", "Very close to the geographical center of Luxembourg"],
     },
-    imageHint: "Krounebierg park Mersch view and tower", image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp"},
-  {
+imageHint: "Krounebierg park Mersch view and tower",
+    descriptionAdvanced: {
+      de: "Der Stadtpark von Mersch auf dem Krounebierg bietet neben weitläufigen Grünflächen einen Aussichtsturm mit weitem Blick über das Tal der sieben Schlösser.",
+      hu: "A Mersch-i Krounebierg városi parkja tágas zöldterületek mellett egy kilátótoronnyal is rendelkezik, ahonnan messzire ellátni a hét kastély völgyére.",
+      ro: "Parcul municipal din Mersch, situat pe dealul Krounebierg, oferă pe lângă spațiile verzi un turn de observație cu vedere spre valea celor șapte castele.",
+      en: "The Mersch municipal park on the Krounebierg offers extensive green spaces and an observation tower with wide views over the Valley of the Seven Castles.",
+    },
+    factsAdvanced: {
+      de: ["Aussichtsturm vorhanden", "Nähe zur römischen Villa", "Zentraler Treffpunkt in Mersch", "Großer Spielplatzbereich"],
+      hu: ["Kilátótorony található", "Római villa közelsége", "Mersch központi találkozóhelye", "Nagy játszótér terület"],
+      ro: ["Turn de observație prezent", "Proximitate față de vila romană", "Loc de întâlnire central în Mersch", "Zonă mare de joacă"],
+      en: ["Observation tower present", "Proximity to Roman villa", "Central meeting point in Mersch", "Large playground area"],
+    },
+    image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp",
+},  {
     id: "luxembourg-manternacher-fiels-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Manternacher Fiels", hu: "Manternacher Fiels természetvédelmi terület", ro: "Rezervația Naturală Manternacher Fiels", en: "Manternacher Fiels Nature Reserve" },
+    name: { de: "Naturschutzgebiet Manternacher Fiels", hu: "Manternacher Fiels természetvédelmi terület", ro: "Rezervația Naturală Manternacher Fiels", en: "Manternacher Fiels Nature Reserve",
+image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp"
+},
     coordinates: { lat: 49.705, lng: 6.425 },
     description: {
       de: "Dieses Reservat im Syr-Tal schützt einen der wertvollsten Schluchtwälder Luxemburgs. Spektakuläre Felsformationen und eine hohe Luftfeuchtigkeit begünstigen seltene Moose und Farne.",
@@ -472,11 +845,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Găzduiește păduri rare de tei și arțar", "Traversată de traseul premiat Traumschleife", "Zonă de protecție pentru șoimul călător", "Conține terase de vii istorice în interiorul pădurii"],
       en: ["Home to rare linden-maple ravine forests", "Traversed by the award-winning Traumschleife trail", "Conservation area for the peregrine falcon", "Contains historical vineyard terraces within the woods"],
     },
-    imageHint: "Manternacher Fiels forest ravine and rocks", image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp"},
-  {
+imageHint: "Manternacher Fiels forest ravine and rocks",
+    descriptionAdvanced: {
+      de: "Die Manternacher Fiels schützt einen beeindruckenden Schluchtwald im tief eingeschnittenen Tal der Syr, der durch seine hohe Feuchtigkeit und Moose besticht.",
+      hu: "A Manternacher Fiels egy lenyűgöző szurdokerdőt véd a Syr folyó mély völgyében, amely magas páratartalmával és moháival tűnik ki.",
+      ro: "Rezervația Manternacher Fiels protejează o pădure de chei impresionantă în valea adâncă a râului Syr, remarcabilă prin umiditatea ridicată și mușchi.",
+      en: "The Manternacher Fiels protects an impressive canyon forest in the deeply cut Syr valley, distinguished by its high humidity and lush mosses.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 140 Hektar", "Seltener Schluchtwald-Typ", "Zentrum für Naturschutz (A Wiewesch)", "Steile Felsabhänge"],
+      hu: ["Kb. 140 hektáros terület", "Ritka szurdokerdő-típus", "A Wiewesch természetvédelmi központ", "Meredek sziklaoldalak"],
+      ro: ["Suprafață de cca. 140 de hectare", "Tip rar de pădure de chei", "Centrul ecologic A Wiewesch", "Versanți stâncoși abrupți"],
+      en: ["Area of approx. 140 hectares", "Rare canyon forest type", "A Wiewesch nature center", "Steep rocky slopes"],
+    },
+    image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp",
+},  {
     id: "luxembourg-beetebuerger-besch-life-v2",
     type: "forest",
-    name: { de: "Beetebuerger Bësch", hu: "Bettemburgi erdő", ro: "Pădurea Bettembourg", en: "Beetebuerger Bësch" },
+    name: { de: "Beetebuerger Bësch", hu: "Bettemburgi erdő", ro: "Pădurea Bettembourg", en: "Beetebuerger Bësch",
+image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp"
+},
     coordinates: { lat: 49.505, lng: 6.085 },
     description: {
       de: "Der Bettemburger Wald ist ein wichtiges Naherholungs- und Naturschutzgebiet im Süden des Landes. Er zeichnet sich durch seine Vielfalt an Waldgesellschaften und gut ausgebaute Wege aus.",
@@ -490,11 +878,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cuprinde părți din Parc Merveilleux", "Habitat important pentru ciocănitoarea de grădină", "Deține un traseu de fitness în pădure", "Se învecinează direct cu orașul Bettembourg"],
       en: ["Includes parts of the Parc Merveilleux", "Important habitat for the middle spotted woodpecker", "Features a large forest fitness trail", "Bordering the urban area of Bettembourg"],
     },
-    imageHint: "Beetebuerger Besch forest path and sunbeams", image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp"},
-  {
+imageHint: "Beetebuerger Besch forest path and sunbeams",
+    descriptionAdvanced: {
+      de: "Dieses ausgedehnte Waldgebiet bei Bettemburg dient als wichtiges Ökosystem für forstwirtschaftliche Forschung und als Erholungsraum für die Bevölkerung.",
+      hu: "Ez a Bettembourg melletti kiterjedt erdőterület fontos ökoszisztémaként szolgál az erdészeti kutatások számára és pihenőhelyként a lakosságnak.",
+      ro: "Această zonă forestieră extinsă de lângă Bettembourg servește ca ecosistem important pentru cercetarea silvică și ca spațiu de recreere pentru populație.",
+      en: "This extensive forest area near Bettembourg serves as a vital ecosystem for forestry research and as a major recreational space for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Naturwald-Kernzone", "Lehrpfade für Schüler", "Teil eines Biotopverbunds", "Vorkommen alter Eichen"],
+      hu: ["Természetes erdő magzóna", "Tanösvények diákoknak", "Biotóphálózat része", "Öreg tölgyfák előfordulása"],
+      ro: ["Zonă centrală de pădure naturală", "Trasee educative pentru elevi", "Parte a unei rețele de biotopuri", "Prezența stejarilor seculari"],
+      en: ["Natural forest core zone", "Educational trails for students", "Part of a biotope network", "Occurrence of ancient oaks"],
+    },
+    image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp",
+},  {
     id: "luxembourg-mirador-steinfort-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzzentrum Mirador", hu: "Mirador természetvédelmi központ", ro: "Centrul de Natură Mirador", en: "Mirador Nature Center" },
+    name: { de: "Naturschutzzentrum Mirador", hu: "Mirador természetvédelmi központ", ro: "Centrul de Natură Mirador", en: "Mirador Nature Center",
+image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp"
+},
     coordinates: { lat: 49.66, lng: 5.922 },
     description: {
       de: "Das Mirador in Steinfort ist ein regionales Informationszentrum für Naturschutz. Es befindet sich in einem historischen Gebäude einer ehemaligen Eisenhütte und grenzt an den Steinforter Wald.",
@@ -508,11 +911,26 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Specializat în pedagogie forestieră", "Găzduiește expoziții despre istoria industrială", "Punct de plecare pentru traseul 'Eisch'", "Promovează conservarea soiurilor vechi de fructe"],
       en: ["Specializes in forest pedagogy", "Hosts exhibitions on industrial history", "Starting point for several regional nature trails", "Promotes the preservation of old fruit varieties"],
     },
-    imageHint: "Mirador Steinfort nature center building", image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp"},
-  {
+imageHint: "Mirador Steinfort nature center building",
+    descriptionAdvanced: {
+      de: "In einer ehemaligen Eisenhütte untergebracht verbindet das Mirador-Zentrum Industriegeschichte mit moderner Umweltpädagogik am Rande des Steinforter Waldes.",
+      hu: "Egy egykori vasgyárban elhelyezett Mirador-központ az ipartörténetet ötvözi a modern környezeti neveléssel a Steinforti-erdő szélén.",
+      ro: "Găzduit într-o fostă uzină siderurgică, centrul Mirador îmbină istoria industrială cu educația ecologică modernă la marginea pădurii Steinfort.",
+      en: "Housed in a former ironworks, the Mirador center combines industrial history with modern environmental education at the edge of the Steinfort forest.",
+    },
+    factsAdvanced: {
+      de: ["Ehemaliges Hüttengelände", "Regionales Naturschutzzentrum", "Interaktive Ausstellungen", "Zugang zum Steinforter Wald"],
+      hu: ["Egykori vasgyári terület", "Regionális természetvédelmi központ", "Interaktív kiállítások", "Bejárat a Steinforti-erdőhöz"],
+      ro: ["Fost sit industrial siderurgic", "Centru regional de mediu", "Expoziții interactive", "Acces la pădurea Steinfort"],
+      en: ["Former ironworks site", "Regional nature center", "Interactive exhibitions", "Access to Steinfort forest"],
+    },
+    image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp",
+},  {
     id: "luxembourg-cornelysmillen-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Cornelysmillen", hu: "Cornelysmillen természetvédelmi terület", ro: "Rezervația Naturală Cornelysmillen", en: "Cornelysmillen Nature Reserve" },
+    name: { de: "Naturschutzgebiet Cornelysmillen", hu: "Cornelysmillen természetvédelmi terület", ro: "Rezervația Naturală Cornelysmillen", en: "Cornelysmillen Nature Reserve",
+image: "/poi-images/luxembourg-cornelysmillen-life-v2.webp"
+},
     coordinates: { lat: 50.112, lng: 6.002 },
     description: {
       de: "Dieses Feuchtgebiet im Norden Luxemburgs bei Troisvierges ist ein Paradies für seltene Vögel und Orchideen. Es umfasst Teiche, Sümpfe und unberührte Feuchtwiesen im Tal der Woltz.",
@@ -527,11 +945,25 @@ export const luxembourgLifeV2: POI[] = [
       en: ["Key breeding site for the red-backed shrike", "Home to the rare carnivorous sundew plant", "Part of the cross-border nature park", "Site of a former historical mill"],
     },
     imageHint: "Cornelysmillen wetlands with birds and wild orchids",
+    descriptionAdvanced: {
+      de: "Im hohen Norden Luxemburgs schützt dieses Gebiet wertvolle Feuchtwiesen und Moore, die als Brutplatz für den seltenen Bekassine und andere Watvögel dienen.",
+      hu: "Luxemburg távoli északi részén található terület értékes nedves réteket és lápokat véd, amelyek a ritka sárszalonka és más gázlómadarak költőhelyei.",
+      ro: "În nordul extrem al Luxemburgului, această zonă protejează fânețe umede și mlaștini, servind ca loc de cuibărit pentru becațină și alte păsări.",
+      en: "In the far north of Luxembourg, this area protects valuable wet meadows and bogs that serve as breeding grounds for the rare snipe and other waders.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 85 Hektar", "Wichtiger Moorschutz", "Brutplatz der Bekassine", "Lage bei Troisvierges"],
+      hu: ["Kb. 85 hektáros terület", "Fontos lápvédelem", "Sárszalonka fészkelőhelye", "Troisvierges közelében"],
+      ro: ["Suprafață de cca. 85 de hectare", "Protecție vitală a mlaștinilor", "Loc de cuibărit pentru becațină", "Situat lângă Troisvierges"],
+      en: ["Area of approx. 85 hectares", "Vital bog conservation", "Common snipe breeding site", "Located near Troisvierges"],
+    },
   },
   {
     id: "luxembourg-conzefenn-life-v2",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Conzefenn", hu: "Conzefenn természetvédelmi terület", ro: "Rezervația Naturală Conzefenn", en: "Conzefenn Nature Reserve" },
+    name: { de: "Naturschutzgebiet Conzefenn", hu: "Conzefenn természetvédelmi terület", ro: "Rezervația Naturală Conzefenn", en: "Conzefenn Nature Reserve",
+image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
+},
     coordinates: { lat: 50.145, lng: 5.985 },
     description: {
       de: "Das Conzefenn ist eines der seltenen Hochmoore Luxemburgs und liegt an der Nordgrenze des Landes. Es beherbergt eine spezialisierte Flora und Fauna, die an saure und nasse Bedingungen angepasst ist.",
@@ -546,5 +978,759 @@ export const luxembourgLifeV2: POI[] = [
       en: ["Contains peat moss layers several meters deep", "Habitat for the rare bog fritillary butterfly", "Important carbon sink in northern Luxembourg", "Part of the LIFE nature project for peat bogs"],
     },
     imageHint: "Conzefenn peat bog landscape and specialized plants",
+    descriptionAdvanced: {
+      de: "Das Conzefenn ist eines der wertvollsten Hochmoore Luxemburgs und beherbergt spezialisierte Pflanzen wie das Wollgras und seltene Torfmoos-Arten.",
+      hu: "A Conzefenn Luxemburg egyik legértékesebb magaslápja, amely olyan speciális növényeknek ad otthont, mint a gyapjúsás és ritka tőzegmohák.",
+      ro: "Conzefenn este una dintre cele mai valoroase mlaștini înalte din Luxemburg, adăpostind plante specializate precum bumbăcarița și specii rare de mușchi.",
+      en: "Conzefenn is one of Luxembourg's most valuable high bogs, home to specialized plant species such as cottongrass and rare sphagnum mosses.",
+    },
+    factsAdvanced: {
+      de: ["Seltene Torfmoos-Biotope", "Orchideen-Standorte", "Höhenlage im Ösling", "Renaturierungsmaßnahmen"],
+      hu: ["Ritka tőzegmoha-biotópok", "Orchidea-termőhelyek", "Öslingi magaslati fekvés", "Helyreállítási intézkedések"],
+      ro: ["Biotopuri rare de mușchi", "Habitate de orhidee", "Altitudine ridicată în Ösling", "Măsuri de renaturare"],
+      en: ["Rare sphagnum biotope", "Orchid habitats", "High altitude in Oesling", "Restoration measures"],
+    },
+  }
+,
+  {
+    id: "luxembourg-kuebebierg-life-v2",
+    type: "park",
+    name: { de: "Naturschutzgebiet Kuebebierg", hu: "Kuebebierg természetvédelmi terület", ro: "Rezervația Naturală Kuebebierg", en: "Kuebebierg Nature Reserve" },
+    coordinates: { lat: 49.6335, lng: 6.1682 },
+    description: {
+      de: "Dieses Reservat auf dem Kirchberg-Plateau schützt wertvolle Trockenrasenflächen. Es dient als wichtiger Rückzugsort für bedrohte Vogelarten im Stadtgebiet.",
+      hu: "Ez a Kirchberg-fennsíkon található rezervátum értékes száraz gyepeket védelmez. Fontos menedéket nyújt a veszélyeztetett madárfajoknak a városban.",
+      ro: "Această rezervație de pe platoul Kirchberg protejează pajiști uscate valoroase. Servește ca refugiu important pentru speciile de păsări amenințate din oraș.",
+      en: "This reserve on the Kirchberg plateau protects valuable dry grasslands. It serves as an important sanctuary for endangered bird species in the urban area.",
+    },
+    facts: {
+      de: ["24 Hektar Gesamtfläche", "Seit 1994 unter Schutz", "Auf dem Kirchberg-Plateau", "Natura 2000-Netzwerk"],
+      hu: ["24 hektár összterület", "1994 óta védett", "A Kirchberg-fennsíkon", "Natura 2000 hálózat"],
+      ro: ["Suprafață de 24 hectare", "Protejată din 1994", "Pe platoul Kirchberg", "Rețeaua Natura 2000"],
+      en: ["24 hectares total area", "Protected since 1994", "On the Kirchberg plateau", "Natura 2000 network"],
+    },
+    imageHint: "Kuebebierg nature reserve green fields",
+  },
+  {
+    id: "luxembourg-jardin-botanique-life-v2",
+    type: "park",
+    name: { de: "Botanischer Garten Luxemburg", hu: "Luxemburgi Botanikus Kert", ro: "Grădina Botanică Luxemburg", en: "Luxembourg Botanical Garden" },
+    coordinates: { lat: 49.6105, lng: 6.1218 },
+    description: {
+      de: "Dieser Garten in Limpertsberg präsentiert eine vielfältige Sammlung heimischer und exotischer Pflanzenarten. Er dient sowohl Bildungszwecken als auch der Erholung.",
+      hu: "Ez a Limpertsbergben található kert hazai és egzotikus növényfajok változatos gyűjteményét mutatja be. Oktatási és kikapcsolódási célokat is szolgál.",
+      ro: "Această grădină din Limpertsberg prezintă o colecție diversă de specii de plante native și exotice. Servește atât scopurilor educaționale, cât și recreerii.",
+      en: "This garden in Limpertsberg presents a diverse collection of native and exotic plant species. It serves both educational purposes and recreation.",
+    },
+    facts: {
+      de: ["Im Stadtteil Limpertsberg", "Wissenschaftliche Sammlung", "Kostenloser Eintritt", "Lehrpfade vorhanden"],
+      hu: ["Limpertsberg városrészben", "Tudományos gyűjtemény", "Ingyenes belépés", "Tanösvényekkel rendelkezik"],
+      ro: ["În cartierul Limpertsberg", "Colecție științifică", "Intrare gratuită", "Trasee didactice disponibile"],
+      en: ["In Limpertsberg district", "Scientific collection", "Free admission", "Educational paths available"],
+    },
+    imageHint: "botanical garden plants and flowers",
+  },
+  {
+    id: "luxembourg-grouf-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Grouf", hu: "Grouf természetvédelmi terület", ro: "Rezervația Naturală Grouf", en: "Grouf Nature Reserve" },
+    coordinates: { lat: 49.4755, lng: 6.3542 },
+    description: {
+      de: "In der Nähe von Schengen gelegen, umfasst dieses Gebiet steile Kalkhang-Buchenwälder. Es bietet einen weiten Blick über das Moseltal und schützt seltene Orchideen.",
+      hu: "Schengen közelében található, meredek mészkőlejtők bükkerdőit foglalja magában. Széles kilátást nyújt a Mosel-völgyre és ritka orchideákat véd.",
+      ro: "Situată lângă Schengen, această zonă cuprinde păduri de fag pe versanți calcaroși abrupți. Oferă o vedere largă asupra văii Moselle și protejează orhidee.",
+      en: "Located near Schengen, this area encompasses steep limestone slope beech forests. It offers wide views over the Moselle valley and protects rare orchids.",
+    },
+    facts: {
+      de: ["Nahe der Gemeinde Schengen", "Kalkbuchenwald-Habitat", "Panoramablick auf die Mosel", "Reich an Orchideenarten"],
+      hu: ["Schengen község közelében", "Mészkedvelő bükkös élőhely", "Panoráma a Moselre", "Orchideafajokban gazdag"],
+      ro: ["Lângă comuna Schengen", "Habitat de pădure de fag", "Panoramă asupra Mosellei", "Bogat în specii de orhidee"],
+      en: ["Near Schengen municipality", "Limestone beech forest habitat", "Panorama of the Moselle", "Rich in orchid species"],
+    },
+    imageHint: "Grouf nature reserve forest views",
+  },
+  {
+    id: "luxembourg-kelsbaach-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Kelsbaach", hu: "Kelsbaach természetvédelmi terület", ro: "Rezervația Naturală Kelsbaach", en: "Kelsbaach Nature Reserve" },
+    coordinates: { lat: 49.6742, lng: 6.4185 },
+    description: {
+      de: "Dieses Reservat bei Grevenmacher besticht durch seine vielfältige Flora auf Muschelkalkfelsen. Es umfasst Schluchtenwälder und sonnenexponierte Halbtrockenrasen.",
+      hu: "Ez a Grevenmacher melletti rezervátum változatos flórájával tűnik ki a kagylós mészkősziklákon. Szurdokerdőket és napsütötte gyepeket foglal magában.",
+      ro: "Această rezervație de lângă Grevenmacher impresionează prin flora sa diversă pe stânci de calcar. Cuprinde păduri de râpă și pajiști însorite.",
+      en: "This reserve near Grevenmacher stands out for its diverse flora on shell limestone rocks. It includes ravine forests and sun-exposed dry grasslands.",
+    },
+    facts: {
+      de: ["Lage bei Grevenmacher", "Muschelkalk-Formationen", "Seltene Schmetterlingsarten", "Wanderpfad 'Kelsbaach'"],
+      hu: ["Grevenmacher melletti fekvés", "Kagylós mészkő formációk", "Ritka lepkefajok", "Kelsbaach túraútvonal"],
+      ro: ["Locație lângă Grevenmacher", "Formațiuni de calcar fosilifer", "Specii rare de fluturi", "Traseu de drumeție Kelsbaach"],
+      en: ["Location near Grevenmacher", "Shell limestone formations", "Rare butterfly species", "Kelsbaach hiking trail"],
+    },
+    imageHint: "Kelsbaach nature reserve rocky cliffs",
+  },
+  {
+    id: "luxembourg-pettenberbesch-life-v2",
+    type: "forest",
+    name: { de: "Naturschutzgebiet Pëttenerbësch", hu: "Pëttenerbësch természetvédelmi terület", ro: "Rezervația Naturală Pëttenerbësch", en: "Pëttenerbësch Nature Reserve" },
+    coordinates: { lat: 49.7682, lng: 6.1125 },
+    description: {
+      de: "Nördlich von Mersch gelegen, schützt dieser Wald wertvolle Bestände an Eichen und Buchen. Es ist eines der größten zusammenhängenden Waldschutzgebiete Luxemburgs.",
+      hu: "Mersch-től északra található, ez az erdő értékes tölgy- és bükkállományokat védelmez. Luxemburg egyik legnagyobb összefüggő erdővédelmi területe.",
+      ro: "Situată la nord de Mersch, această pădure protejează exemplare valoroase de stejari și fagi. Este una dintre cele mai mari zone forestiere protejate.",
+      en: "Located north of Mersch, this forest protects valuable stands of oak and beech trees. It is one of Luxembourg's largest contiguous forest reserves.",
+    },
+    facts: {
+      de: ["Nahe Schloss Pittingen", "Stieleichen-Hainbuchenwald", "Bedeutender Totholzanteil", "Rückzugsort für Wildkatzen"],
+      hu: ["Pittingen vára közelében", "Kocsányos tölgyes-gyertyános", "Jelentős holtfa arány", "Vadmacskák menedékhelye"],
+      ro: ["Lângă castelul Pittingen", "Pădure de stejar și carpen", "Cantitate mare de lemn mort", "Refugiu pentru pisici sălbatice"],
+      en: ["Near Pittingen Castle", "Pedunculate oak-hornbeam forest", "Significant amount of deadwood", "Sanctuary for wildcats"],
+    },
+    imageHint: "Pettenberbesch forest ancient trees",
+  },
+  {
+    id: "luxembourg-hierberbesch-life-v2",
+    type: "forest",
+    name: { de: "Naturschutzgebiet Hierberbësch", hu: "Hierberbësch természetvédelmi terület", ro: "Rezervația Naturală Hierberbësch", en: "Hierberbësch Nature Reserve" },
+    coordinates: { lat: 49.7425, lng: 6.4532 },
+    description: {
+      de: "Im Osten Luxemburgs gelegen, beherbergt dieser Wald bemerkenswerte Orchideenvorkommen und seltene Baumarten. Er ist Teil des Müllerthaler Waldökosystems.",
+      hu: "Luxemburg keleti részén található, figyelemre méltó orchideaállományoknak és ritka fafajoknak ad otthont. A Müllerthal erdei ökoszisztémájának része.",
+      ro: "Situată în estul Luxemburgului, această pădure găzduiește populații remarcabile de orhidee și specii rare de arbori. Face parte din ecosistemul Müllerthal.",
+      en: "Located in eastern Luxembourg, this forest hosts remarkable orchid populations and rare tree species. It is part of the Müllerthal forest ecosystem.",
+    },
+    facts: {
+      de: ["Nahe der Ortschaft Herborn", "Kalkreicher Boden", "Vorkommen der Eibe", "Wandergebiet im Osten"],
+      hu: ["Herborn falu közelében", "Mészben gazdag talaj", "Tiszafa előfordulása", "Keleti túravidék"],
+      ro: ["Lângă localitatea Herborn", "Sol bogat în calcar", "Prezența tiselor", "Zonă de drumeție în est"],
+      en: ["Near the village of Herborn", "Calcareous soil", "Presence of yew trees", "Hiking area in the east"],
+    },
+    imageHint: "Hierberbesch forest orchids in bloom",
+  },
+  {
+    id: "luxembourg-lensterbierg-life-v2",
+    type: "park",
+    name: { de: "Naturschutzgebiet Lënsterbierg", hu: "Lënsterbierg természetvédelmi terület", ro: "Rezervația Naturală Lënsterbierg", en: "Lënsterbierg Nature Reserve" },
+    coordinates: { lat: 49.7045, lng: 6.2415 },
+    description: {
+      de: "Bei Junglinster gelegen, schützt dieses Gebiet sonnige Hänge mit Halbtrockenrasen. Es ist ein wichtiger Lebensraum für spezialisierte Kräuter und Schmetterlinge.",
+      hu: "Junglinster mellett található, napsütötte domboldalakat és száraz gyepeket véd. Fontos élőhelye specializált gyógynövényeknek és lepkéknek.",
+      ro: "Situată lângă Junglinster, această zonă protejează versanți însoriți cu pajiști uscate. Este un habitat important pentru ierburi și fluturi specializați.",
+      en: "Located near Junglinster, this area protects sunny slopes with dry grasslands. It is an important habitat for specialized herbs and butterflies.",
+    },
+    facts: {
+      de: ["Gemeinde Junglinster", "Kalk-Halbtrockenrasen", "Sonnige Hanglage", "Wanderwege vorhanden"],
+      hu: ["Junglinster községben", "Meszes száraz gyepek", "Napsütötte domboldal", "Túraútvonalakkal rendelkezik"],
+      ro: ["Comuna Junglinster", "Pajiști uscate calcaroase", "Versant însorit", "Trasee de drumeție disponibile"],
+      en: ["Junglinster municipality", "Calcareous dry grasslands", "Sunny slope location", "Hiking trails available"],
+    },
+    imageHint: "Lënsterbierg nature reserve pasqueflowers",
+  },
+  {
+    id: "luxembourg-obeler-life-v2",
+    type: "wildlife",
+    name: { de: "Feuchtgebiet Obeler", hu: "Obeler vizes élőhely", ro: "Zona Umedă Obeler", en: "Obeler Wetland" },
+    coordinates: { lat: 49.5215, lng: 6.1012 },
+    description: {
+      de: "Dieses Feuchtgebiet bei Bettembourg bietet wertvolle Lebensräume für Amphibien und Wasservögel. Es besteht aus Teichen, Schilfflächen und feuchten Wiesen.",
+      hu: "Ez a Bettembourg melletti vizes élőhely értékes élőhelyeket kínál kétéltűeknek és vízimadaraknak. Tavakból, nádasokból és nedves rétekből áll.",
+      ro: "Această zonă umedă de lângă Bettembourg oferă habitate valoroase pentru amfibieni și păsări de apă. Constă în iazuri, stufărișuri și pajiști umede.",
+      en: "This wetland near Bettembourg offers valuable habitats for amphibians and water birds. It consists of ponds, reed beds, and wet meadows.",
+    },
+    facts: {
+      de: ["Bei Abweiler gelegen", "Renaturierte Wasserflächen", "Brutplatz für Entenvögel", "Wichtiges Laichgewässer"],
+      hu: ["Abweiler mellett található", "Renaturált vízfelületek", "Récefélék költőhelye", "Fontos ívóhely"],
+      ro: ["Situată lângă Abweiler", "Suprafețe de apă renaturate", "Loc de cuibărit pentru rațe", "Corp de apă important pentru reproducere"],
+      en: ["Located near Abweiler", "Renatured water areas", "Nesting site for duck species", "Important spawning water"],
+    },
+    imageHint: "Obeler wetland pond and reeds",
+  },
+  {
+    id: "luxembourg-peffeschhaff-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Peffeschhaff", hu: "Peffeschhaff természetvédelmi terület", ro: "Rezervația Naturală Peffeschhaff", en: "Peffeschhaff Nature Reserve" },
+    coordinates: { lat: 49.5412, lng: 6.1345 },
+    description: {
+      de: "In der Gemeinde Roeser gelegen, schützt dieses Reservat ein Mosaik aus Wiesen, Hecken und kleinen Gewässern. Es ist besonders reich an Singvögeln.",
+      hu: "Roeser községben található, ez a rezervátum rétek, sövények és kis vizek mozaikját védi. Különösen gazdag énekesmadarakban.",
+      ro: "Situată în comuna Roeser, această rezervație protejează un mozaic de pajiști, garduri vii și ape mici. Este deosebit de bogată în păsări cântătoare.",
+      en: "Located in Roeser municipality, this reserve protects a mosaic of meadows, hedges, and small water bodies. It is particularly rich in songbirds.",
+    },
+    facts: {
+      de: ["Gemeinde Roeser", "Vielseitige Kulturlandschaft", "Nistmöglichkeiten für Vögel", "Natura 2000-Status"],
+      hu: ["Roeser községben", "Sokoldalú kultúrtáj", "Madárfészkelő helyek", "Natura 2000 státusz"],
+      ro: ["Comuna Roeser", "Peisaj cultural versatil", "Locuri de cuibărit pentru păsări", "Statut Natura 2000"],
+      en: ["Roeser municipality", "Versatile cultural landscape", "Nesting opportunities for birds", "Natura 2000 status"],
+    },
+    imageHint: "Peffeschhaff nature reserve landscape",
+  },
+  {
+    id: "luxembourg-millebierg-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Millebierg", hu: "Millebierg természetvédelmi terület", ro: "Rezervația Naturală Millebierg", en: "Millebierg Nature Reserve" },
+    coordinates: { lat: 49.6715, lng: 6.1312 },
+    description: {
+      de: "Nördlich der Hauptstadt bei Steinsel gelegen, schützt dieses Gebiet wertvolle Kalk-Halbtrockenrasen. Es bietet einen beeindruckenden Blick auf das Alzette-Tal.",
+      hu: "A fővárostól északra, Steinsel mellett található, ez a terület értékes meszes száraz gyepeket védelmez. Lenyűgöző kilátást nyújt az Alzette-völgyre.",
+      ro: "Situată la nord de capitală, lângă Steinsel, această zonă protejează pajiști uscate calcaroase. Oferă o vedere impresionantă asupra văii Alzette.",
+      en: "Located north of the capital near Steinsel, this area protects valuable calcareous dry grasslands. It offers an impressive view of the Alzette valley.",
+    },
+    facts: {
+      de: ["Lage bei Steinsel", "Sonnige Kalksteinhänge", "Reiche Orchideenflora", "Wanderziel nahe der Stadt"],
+      hu: ["Steinsel melletti fekvés", "Napsütötte mészkőlejtők", "Gazdag orchideatár", "Városközeli túracélpont"],
+      ro: ["Locație lângă Steinsel", "Versanți calcaroși însoriți", "Floră bogată în orhidee", "Destinație de drumeție lângă oraș"],
+      en: ["Location near Steinsel", "Sunny limestone slopes", "Rich orchid flora", "Hiking destination near the city"],
+    },
+    imageHint: "Millebierg nature reserve flowers",
+  },
+  {
+    id: "luxembourg-millewiesen-life-v2",
+    type: "wildlife",
+    name: { de: "Feuchtgebiet Millewiesen", hu: "Millewiesen vizes élőhely", ro: "Zona Umedă Millewiesen", en: "Millewiesen Wetland" },
+    coordinates: { lat: 49.7542, lng: 6.0215 },
+    description: {
+      de: "Dieses Reservat bei Brouch schützt ökologisch wertvolle Feuchtwiesen entlang des Mamer-Flusses. Es beherbergt spezialisierte Pflanzen wie das Breitblättrige Knabenkraut.",
+      hu: "Ez a Brouch melletti rezervátum ökológiailag értékes nedves réteket véd a Mamer-folyó mentén. Olyan növényeknek ad otthont, mint a széleslevelű ujjaskosbor.",
+      ro: "Această rezervație de lângă Brouch protejează pajiști umede valoroase de-a lungul râului Mamer. Găzduiește plante precum porumbatul cu frunze late.",
+      en: "This reserve near Brouch protects ecologically valuable wet meadows along the Mamer river. It hosts specialized plants like the Broad-leaved Marsh Orchid.",
+    },
+    facts: {
+      de: ["Im Mamer-Tal gelegen", "Biotop für Sumpfpflanzen", "Vorkommen seltener Orchideen", "Teil eines Wasserschutzgebiets"],
+      hu: ["A Mamer-völgyben található", "Mocsári növények biotópja", "Ritka orchideák jelenléte", "Vízvédelmi terület része"],
+      ro: ["Situată în Valea Mamer", "Biotop pentru plante de mlaștină", "Prezența orhideelor rare", "Parte dintr-o zonă de protecție a apei"],
+      en: ["Located in the Mamer valley", "Biotope for marsh plants", "Occurrence of rare orchids", "Part of a water protection area"],
+    },
+    imageHint: "Millewiesen wet meadows mamer river",
+  },
+  {
+    id: "luxembourg-hirschbierg-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Hirschbierg", hu: "Hirschbierg természetvédelmi terület", ro: "Rezervația Naturală Hirschbierg", en: "Hirschbierg Nature Reserve" },
+    coordinates: { lat: 49.8512, lng: 6.2015 },
+    description: {
+      de: "Bei Bettendorf im Sauer-Tal gelegen, schützt dieses Gebiet trockene Kalksteinhänge mit einer außergewöhnlichen Flora. Es ist bekannt für seine Enzian-Vorkommen.",
+      hu: "A Sauer-völgyben, Bettendorf mellett található, ez a terület száraz mészkőlejtőket véd különleges flórával. Tárnics-előfordulásairól ismert.",
+      ro: "Situată în Valea Sauer lângă Bettendorf, această zonă protejează versanți calcaroși uscați cu o floră excepțională. Este cunoscută pentru gențiane.",
+      en: "Located in the Sauer valley near Bettendorf, this area protects dry limestone slopes with exceptional flora. It is known for its gentian occurrences.",
+    },
+    facts: {
+      de: ["Im Tal der Sauer", "Kalk-Magerrasen-Bestände", "Lebensraum für Reptilien", "Schöne Aussichtspunkte"],
+      hu: ["A Sauer-völgyben", "Mészkő sziklagyepek", "Hüllők élőhelye", "Szép kilátópontok"],
+      ro: ["În Valea Sauer", "Pajiști calcaroase uscate", "Habitat pentru reptile", "Puncte frumoase de belvedere"],
+      en: ["In the Sauer valley", "Calcareous dry grassland", "Habitat for reptiles", "Beautiful viewpoints"],
+    },
+    imageHint: "Hirschbierg nature reserve gentians",
+  },
+  {
+    id: "luxembourg-ourmündung-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Ourmündung", hu: "Our-torkolat természetvédelmi terület", ro: "Rezervația Naturală Ourmündung", en: "Ourmündung Nature Reserve" },
+    coordinates: { lat: 49.8835, lng: 6.2912 },
+    description: {
+      de: "Dieses Gebiet bei Reisdorf markiert den Zusammenfluss von Our und Sauer. Es schützt wertvolle Auwälder und dient als wichtiger ökologischer Korridor.",
+      hu: "Ez a Reisdorf melletti terület az Our és a Sauer folyók összefolyását jelzi. Értékes ártéri erdőket véd és fontos ökológiai folyosó.",
+      ro: "Această zonă de lângă Reisdorf marchează confluența râurilor Our și Sauer. Protejează păduri aluviale și servește ca un coridor ecologic.",
+      en: "This area near Reisdorf marks the confluence of the Our and Sauer rivers. It protects valuable alluvial forests and serves as an important ecological corridor.",
+    },
+    facts: {
+      de: ["Zusammenfluss von Our und Sauer", "Typische Auenvegetation", "Lebensraum für den Eisvogel", "Wichtiges Fischlaichgebiet"],
+      hu: ["Az Our és a Sauer összefolyása", "Jellemző ártéri növényzet", "Jégmadár élőhelye", "Fontos halívóhely"],
+      ro: ["Confluența Our și Sauer", "Vegetație aluvială tipică", "Habitat pentru pescărușul albastru", "Zonă importantă de depunere a icrelor"],
+      en: ["Confluence of Our and Sauer", "Typical alluvial vegetation", "Habitat for the Kingfisher", "Important fish spawning area"],
+    },
+    imageHint: "Ourmündung river confluence landscape",
+  },
+  {
+    id: "luxembourg-hallerbachtal-life-v2",
+    type: "valley",
+    name: { de: "Naturschutzgebiet Hallerbachtal", hu: "Hallerbachtal természetvédelmi terület", ro: "Rezervația Naturală Hallerbachtal", en: "Hallerbachtal Nature Reserve" },
+    coordinates: { lat: 49.8315, lng: 6.2942 },
+    description: {
+      de: "Dieses tief eingeschnittene Bachtal bei Beaufort besticht durch seine bizarren Felsformationen und urwüchsigen Wälder. Es ist Teil der 'Luxemburger Schweiz'.",
+      hu: "Ez a Beaufort melletti mély völgy bizarr sziklaformációival és ősi erdeivel tűnik ki. A 'Luxemburgi Svájc' része.",
+      ro: "Această vale adâncă de lângă Beaufort impresionează prin formațiunile stâncoase bizare și pădurile virgine. Face parte din 'Elveția Luxemburgheză'.",
+      en: "This deeply cut stream valley near Beaufort stands out for its bizarre rock formations and primeval forests. It is part of 'Luxembourg's Little Switzerland'.",
+    },
+    facts: {
+      de: ["Nahe der Burg Beaufort", "Sandsteinfels-Biotope", "Farne und Moosgesellschaften", "Beliebtes Wanderrevier"],
+      hu: ["Beaufort vára közelében", "Homokkő szikla biotópok", "Páfrány- és mohaközösségek", "Népszerű túraútvonal"],
+      ro: ["Lângă castelul Beaufort", "Biotopuri de gresie", "Comunități de ferigi și mușchi", "Zonă populară de drumeție"],
+      en: ["Near Beaufort Castle", "Sandstone rock biotopes", "Fern and moss communities", "Popular hiking area"],
+    },
+    imageHint: "Hallerbachtal valley stream rocks",
+  },
+  {
+    id: "luxembourg-manzebaach-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Manzebaach", hu: "Manzebaach természetvédelmi terület", ro: "Rezervația Naturală Manzebaach", en: "Manzebaach Nature Reserve" },
+    coordinates: { lat: 49.8242, lng: 6.2215 },
+    description: {
+      de: "Dieses Reservat bei Larochette schützt ökologisch bedeutsame Waldhänge und Quellbereiche. Es zeichnet sich durch seine Vielfalt an Waldgesellschaften aus.",
+      hu: "Ez a Larochette melletti rezervátum ökológiailag jelentős erdős domboldalakat és forrásvidékeket véd. Változatos erdőtársulások jellemzik.",
+      ro: "Această rezervație de lângă Larochette protejează versanți forestieri și zone de izvoare. Se remarcă prin diversitatea comunităților forestiere.",
+      en: "This reserve near Larochette protects ecologically significant forest slopes and spring areas. It is characterized by its diversity of forest communities.",
+    },
+    facts: {
+      de: ["Nahe Larochette gelegen", "Strukturreiche Laubwälder", "Zahlreiche Sickerquellen", "Schutz von Totholzkäfern"],
+      hu: ["Larochette közelében található", "Szerkezetileg gazdag lombos erdők", "Számos szivárgó forrás", "Holtfa-lakó bogarak védelme"],
+      ro: ["Situată lângă Larochette", "Păduri de foioase diversificate", "Numeroase izvoare de infiltrare", "Protecția gândacilor saproxilici"],
+      en: ["Located near Larochette", "Structurally rich deciduous forests", "Numerous seepage springs", "Protection of saproxylic beetles"],
+    },
+    imageHint: "Manzebaach forest and stream",
+  },
+  {
+    id: "luxembourg-osterbour-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Osterbour", hu: "Osterbour természetvédelmi terület", ro: "Rezervația Naturală Osterbour", en: "Osterbour Nature Reserve" },
+    coordinates: { lat: 49.7715, lng: 6.1842 },
+    description: {
+      de: "Dieses Reservat bei Fischbach umfasst ein idyllisches Bachtal mit Weihern und Feuchtwiesen. Es ist ein wertvolles Refugium für den Schwarzstorch und seltene Insekten.",
+      hu: "Ez a Fischbach melletti rezervátum egy idilli patakvölgyet foglal magában tavakkal és nedves rétekkel. Értékes menedék a fekete gólya számára.",
+      ro: "Această rezervație de lângă Fischbach cuprinde o vale idilică cu iazuri și pajiști umede. Este un refugiu valoros pentru barza neagră.",
+      en: "This reserve near Fischbach encompasses an idyllic stream valley with ponds and wet meadows. It is a valuable refuge for the Black Stork.",
+    },
+    facts: {
+      de: ["Bei Fischbach gelegen", "System aus Fischteichen", "Brutgebiet des Schwarzstorchs", "Reiches Amphibienvorkommen"],
+      hu: ["Fischbach mellett található", "Halastó-rendszer", "Fekete gólya költőhelye", "Gazdag kétéltűállomány"],
+      ro: ["Situată lângă Fischbach", "Sistem de iazuri piscicole", "Zonă de cuibărit pentru barza neagră", "Populație bogată de amfibieni"],
+      en: ["Located near Fischbach", "System of fish ponds", "Nesting area for Black Stork", "Rich amphibian population"],
+    },
+    imageHint: "Osterbour nature reserve ponds",
+  },
+  {
+    id: "luxembourg-marscherwald-life-v2",
+    type: "forest",
+    name: { de: "Naturschutzgebiet Marscherwald", hu: "Marscherwald természetvédelmi terület", ro: "Rezervația Naturală Marscherwald", en: "Marscherwald Nature Reserve" },
+    coordinates: { lat: 49.7542, lng: 6.2515 },
+    description: {
+      de: "Dieser ausgedehnte Wald bei Medernach ist bekannt für seine beeindruckenden Felsformationen und alten Buchenbestände. Er beherbergt seltene Farne und Moose.",
+      hu: "Ez a Medernach melletti kiterjedt erdő lenyűgöző sziklaformációiról és öreg bükköseiről ismert. Ritka páfrányoknak és moháknak ad otthont.",
+      ro: "Această pădure întinsă de lângă Medernach este cunoscută pentru formațiunile stâncoase și pădurile de fag. Găzduiește ferigi și mușchi rari.",
+      en: "This extensive forest near Medernach is known for its impressive rock formations and old beech stands. It hosts rare ferns and mosses.",
+    },
+    facts: {
+      de: ["Gemeinde Ernztalgemeinde", "Buntsandsteinfelsen", "Vorkommen des Hirschzungenfarns", "Wandergebiet Müllerthal"],
+      hu: ["Ernztalgemeinde községben", "Tarka homokkő sziklák", "Gímpáfrány előfordulása", "Müllerthal túravidék"],
+      ro: ["Comuna Ernztalgemeinde", "Stânci de gresie colorată", "Prezența ferigii limba cerbului", "Zonă de drumeție Müllerthal"],
+      en: ["Ernztalgemeinde municipality", "Bunter sandstone rocks", "Presence of Hart's-tongue fern", "Müllerthal hiking area"],
+    },
+    imageHint: "Marscherwald forest and rock formations",
+  },
+  {
+    id: "luxembourg-elteschmuel-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Elteschmuel", hu: "Elteschmuel természetvédelmi terület", ro: "Rezervația Naturală Elteschmuel", en: "Elteschmuel Nature Reserve" },
+    coordinates: { lat: 49.7912, lng: 6.1315 },
+    description: {
+      de: "In der Nähe von Nommern gelegen, schützt dieses Gebiet ein Mosaik aus Wald, Wiesen und Bachläufen. Es ist ein wichtiger Brutplatz für gefährdete Wiesenbrüter.",
+      hu: "Nommern közelében található, erdők, rétek és patakok mozaikját védi. Fontos fészkelőhelye a veszélyeztetett réti madaraknak.",
+      ro: "Situată lângă Nommern, această zonă protejează un mozaic de păduri, pajiști și cursuri de apă. Este un loc important de cuibărit pentru păsări.",
+      en: "Located near Nommern, this area protects a mosaic of forest, meadows, and stream courses. It is an important nesting site for endangered meadow birds.",
+    },
+    facts: {
+      de: ["Gemeinde Nommern", "Extensive Grünlandnutzung", "Lebensraum für das Schwarzkehlchen", "Bachtal der Elteschmuel"],
+      hu: ["Nommern községben", "Extenzív gyepgazdálkodás", "Cigánycsuk élőhelye", "Elteschmuel patakvölgye"],
+      ro: ["Comuna Nommern", "Utilizare extensivă a pășunilor", "Habitat pentru mărăcinarul negru", "Valea pârâului Elteschmuel"],
+      en: ["Nommern municipality", "Extensive grassland use", "Habitat for the Stonechat", "Elteschmuel stream valley"],
+    },
+    imageHint: "Elteschmuel nature reserve landscape",
+  },
+  {
+    id: "luxembourg-gourmangslee-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Gourmangslee", hu: "Gourmangslee természetvédelmi terület", ro: "Rezervația Naturală Gourmangslee", en: "Gourmangslee Nature Reserve" },
+    coordinates: { lat: 49.6915, lng: 6.1512 },
+    description: {
+      de: "Bei Lorentzweiler gelegen, schützt dieses Gebiet steile Waldhänge und Felsformationen über dem Alzette-Tal. Es beherbergt spezialisierte Felsvegetation.",
+      hu: "Lorentzweiler mellett található, meredek erdős lejtőket és sziklaformációkat véd az Alzette-völgy felett. Speciális sziklanövényzetnek ad otthont.",
+      ro: "Situată lângă Lorentzweiler, această zonă protejează versanți forestieri și formațiuni stâncoase deasupra văii Alzette. Găzduiește vegetație de stâncă.",
+      en: "Located near Lorentzweiler, this area protects steep forest slopes and rock formations above the Alzette valley. It hosts specialized rock vegetation.",
+    },
+    facts: {
+      de: ["Gemeinde Lorentzweiler", "Aussicht auf das Alzette-Tal", "Kalkfelsen-Habitate", "Bedeutend für Greifvögel"],
+      hu: ["Lorentzweiler községben", "Kilátás az Alzette-völgyre", "Mészkőszikla élőhelyek", "Fontos a ragadozó madaraknak"],
+      ro: ["Comuna Lorentzweiler", "Vedere asupra văii Alzette", "Habitate de stânci calcaroase", "Semnificativ pentru păsări de pradă"],
+      en: ["Lorentzweiler municipality", "View over the Alzette valley", "Limestone rock habitats", "Significant for birds of prey"],
+    },
+    imageHint: "Gourmangslee nature reserve cliffs",
+  },
+  {
+    id: "luxembourg-grousswiss-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Grousswiss", hu: "Grousswiss természetvédelmi terület", ro: "Rezervația Naturală Grousswiss", en: "Grousswiss Nature Reserve" },
+    coordinates: { lat: 49.7942, lng: 6.0715 },
+    description: {
+      de: "Dieses Reservat bei Bissen schützt ausgedehnte Feuchtwiesen und Schilfgebiete entlang der Attert. Es ist ein wertvoller Trittstein für den Vogelschutz.",
+      hu: "Ez a Bissen melletti rezervátum kiterjedt nedves réteket és nádasokat véd az Attert mentén. Értékes lépőkő a madárvédelem számára.",
+      ro: "Această rezervație de lângă Bissen protejează pajiști umede întinse și stufărișuri de-a lungul Attert. Este un punct important pentru protecția păsărilor.",
+      en: "This reserve near Bissen protects extensive wet meadows and reed beds along the Attert. It is a valuable stepping stone for bird protection.",
+    },
+    facts: {
+      de: ["Im Tal der Attert", "Große Schilfflächen", "Rastplatz für Watvögel", "Natura 2000-Schutz"],
+      hu: ["Az Attert-völgyben", "Nagy nádas területek", "Gázlómadarak pihenőhelye", "Natura 2000 védelem"],
+      ro: ["În Valea Attert", "Suprafețe mari de stufăriș", "Loc de popas pentru păsări limicole", "Protecție Natura 2000"],
+      en: ["In the Attert valley", "Large reed areas", "Resting site for wading birds", "Natura 2000 protection"],
+    },
+    imageHint: "Grousswiss nature reserve reed beds",
+  },
+  {
+    id: "luxembourg-saueruecht-life-v2",
+    type: "forest",
+    name: { de: "Naturschutzgebiet Saueruecht", hu: "Saueruecht természetvédelmi terület", ro: "Rezervația Naturală Saueruecht", en: "Saueruecht Nature Reserve" },
+    coordinates: { lat: 49.8445, lng: 6.1212 },
+    description: {
+      de: "Bei Erpeldange-sur-Sûre gelegen, schützt dieses Gebiet steile Waldhänge über der Sauer. Es ist geprägt durch Buchenwälder und schroffe Felsen.",
+      hu: "Erpeldange-sur-Sûre mellett található, ez a terület meredek erdős lejtőket véd a Sauer felett. Bükkerdők és zord sziklák jellemzik.",
+      ro: "Situată lângă Erpeldange-sur-Sûre, această zonă protejează versanți forestieri deasupra Sauer. Este dominată de păduri de fag și stânci.",
+      en: "Located near Erpeldange-sur-Sûre, this area protects steep forest slopes above the Sauer. It is characterized by beech forests and rugged rocks.",
+    },
+    facts: {
+      de: ["Nahe Ettelbrück", "Hainsimsen-Buchenwälder", "Lebensraum für die Wildkatze", "Schroffe Schieferfelsen"],
+      hu: ["Ettelbrück közelében", "Perjes bükkösök", "Vadmacska élőhelye", "Zord palasziklák"],
+      ro: ["Lângă Ettelbrück", "Păduri de fag cu Luzula", "Habitat pentru pisica sălbatică", "Stânci de șist abrupte"],
+      en: ["Near Ettelbruck", "Luzula-beech forests", "Habitat for the wildcat", "Rugged slate rocks"],
+    },
+    imageHint: "Saueruecht forest slopes sauer river",
+  },
+  {
+    id: "luxembourg-diekirch-haardt-life-v2",
+    type: "forest",
+    name: { de: "Naturschutzgebiet Haardt (Diekirch)", hu: "Haardt természetvédelmi terület (Diekirch)", ro: "Rezervația Naturală Haardt (Diekirch)", en: "Haardt Nature Reserve (Diekirch)" },
+    coordinates: { lat: 49.8745, lng: 6.1685 },
+    description: {
+      de: "Dieses Waldgebiet oberhalb von Diekirch schützt vielfältige Laubmischwälder auf sonnigen Hängen. Es bietet Panoramablicke über die Stadt und das Sauer-Tal.",
+      hu: "Ez a Diekirch feletti erdőterület változatos lombos elegyes erdőket véd napsütötte lejtőkön. Panorámás kilátást nyújt a városra és a Sauer-völgyre.",
+      ro: "Această zonă forestieră de deasupra Diekirch protejează păduri mixte de foioase pe versanți însoriți. Oferă vederi panoramice asupra orașului.",
+      en: "This forest area above Diekirch protects diverse mixed deciduous forests on sunny slopes. It offers panoramic views over the city and the Sauer valley.",
+    },
+    facts: {
+      de: ["Hausberg von Diekirch", "Laubmischwald-Habitat", "Historische Waldnutzung", "Gut ausgebautes Wegenetz"],
+      hu: ["Diekirch házi hegye", "Lombos elegyes erdő", "Történelmi erdőhasználat", "Jól kiépített úthálózat"],
+      ro: ["Muntele local al Diekirch", "Habitat de pădure mixtă", "Utilizare istorică a pădurii", "Rețea de poteci bine dezvoltată"],
+      en: ["Diekirch's local mountain", "Mixed deciduous forest habitat", "Historic forest use", "Well-developed trail network"],
+    },
+    imageHint: "Haardt forest views Diekirch",
+  },
+  {
+    id: "luxembourg-niklosbierg-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Niklosbierg", hu: "Niklosbierg természetvédelmi terület", ro: "Rezervația Naturală Niklosbierg", en: "Niklosbierg Nature Reserve" },
+    coordinates: { lat: 49.9415, lng: 6.1812 },
+    description: {
+      de: "Oberhalb von Vianden gelegen, schützt dieses Gebiet wertvolle Heideflächen und Eichenwälder. Es ist ein wichtiger Lebensraum für die Schlingnatter und seltene Vögel.",
+      hu: "Vianden felett található, értékes fenyéreket és tölgyerdőket véd. Fontos élőhelye a rézsiklónak és ritka madaraknak.",
+      ro: "Situată deasupra Vianden, această zonă protejează lande și păduri de stejar valoroase. Este un habitat important pentru șarpele de râu.",
+      en: "Located above Vianden, this area protects valuable heathlands and oak forests. It is an important habitat for the smooth snake and rare birds.",
+    },
+    facts: {
+      de: ["Bei Vianden gelegen", "Felsige Hangheide", "Vorkommen der Heidelerche", "Panoramablick auf die Burg"],
+      hu: ["Vianden mellett található", "Sziklás hegyi fenyér", "Erdei pacsirta előfordulása", "Panoráma a várra"],
+      ro: ["Situată lângă Vianden", "Landă stâncoasă de versant", "Prezența ciocârliei de pădure", "Panoramă asupra castelului"],
+      en: ["Located near Vianden", "Rocky slope heathland", "Presence of Woodlark", "Panorama of the castle"],
+    },
+    imageHint: "Niklosbierg nature reserve heathland",
+  },
+  {
+    id: "luxembourg-stolzembourg-nature-life-v2",
+    type: "wildlife",
+    name: { de: "Naturlehrgebiet Stolzembourg", hu: "Stolzembourg természetvédelmi terület", ro: "Zona Naturală Stolzembourg", en: "Stolzembourg Nature Area" },
+    coordinates: { lat: 49.9642, lng: 6.1615 },
+    description: {
+      de: "In der Nähe der historischen Kupfergrube gelegen, schützt dieses Gebiet waldbedeckte Hänge entlang der Our. Es ist geprägt durch Felsen und seltene Bergbau-Folgeflora.",
+      hu: "A történelmi rézbánya közelében található, erdős lejtőket véd az Our mentén. Sziklák és ritka, bányászat utáni flóra jellemzi.",
+      ro: "Situată lângă mina istorică de cupru, această zonă protejează versanți împăduriți de-a lungul râului Our. Se remarcă prin flora post-minieră.",
+      en: "Located near the historic copper mine, this area protects forest-covered slopes along the Our. It features rocks and rare post-mining flora.",
+    },
+    facts: {
+      de: ["Tal der Our", "Nahe der Kupfergrube", "Schwermetallresistente Pflanzen", "Felsige Uferbereiche"],
+      hu: ["Our-völgy", "Rézbánya közelében", "Nehézfém-tűrő növények", "Sziklás part menti területek"],
+      ro: ["Valea râului Our", "Lângă mina de cupru", "Plante rezistente la metale grele", "Zone de mal stâncoase"],
+      en: ["Our valley", "Near the copper mine", "Heavy metal resistant plants", "Rocky riparian areas"],
+    },
+    imageHint: "Stolzembourg copper mine area nature",
+  },
+  {
+    id: "luxembourg-tuebebierg-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Tuebebierg", hu: "Tuebebierg természetvédelmi terület", ro: "Rezervația Naturală Tuebebierg", en: "Tuebebierg Nature Reserve" },
+    coordinates: { lat: 49.4912, lng: 6.0215 },
+    description: {
+      de: "Bei Kayl im Süden Luxemburgs gelegen, schützt dieses Reservat ehemalige Erzabbaugebiete. Es ist heute ein Refugium für trockenheitsliebende Arten und seltene Orchideen.",
+      hu: "A luxemburgi délvidéken, Kayl mellett található, ez a rezervátum korábbi ércbányászati területeket véd. Ma ritka orchideák menedéke.",
+      ro: "Situată lângă Kayl în sudul Luxemburgului, această rezervație protejează foste zone miniere. Astăzi este un refugiu pentru orhidee rare.",
+      en: "Located near Kayl in southern Luxembourg, this reserve protects former ore mining areas. It is now a sanctuary for drought-loving species and rare orchids.",
+    },
+    facts: {
+      de: ["Ehemaliger Erzabbau", "Rote Erde (Terres Rouges)", "Pioniervegetation", "Schutz von Orchideen"],
+      hu: ["Egykori ércbányászat", "Vörös Föld (Terres Rouges)", "Pionír növényzet", "Orchideák védelme"],
+      ro: ["Fostă exploatare de minereu", "Țara Roșie (Terres Rouges)", "Vegetație pionieră", "Protecția orhideelor"],
+      en: ["Former ore mining site", "Red Lands (Terres Rouges)", "Pioneer vegetation", "Protection of orchids"],
+    },
+    imageHint: "Tuebebierg nature reserve red earth orchids",
+  },
+  {
+    id: "luxembourg-parc-gaalgebierg-life-v2",
+    type: "park",
+    name: { de: "Stadtpark Gaalgebierg", hu: "Gaalgebierg városi park", ro: "Parcul Municipal Gaalgebierg", en: "Gaalgebierg City Park" },
+    coordinates: { lat: 49.4915, lng: 5.9842 },
+    description: {
+      de: "Dieser weitläufige Park in Esch-sur-Alzette bietet Rosengärten, Waldgebiete und einen Wildpark. Er ist die größte Grünanlage der Stadt und dient der Naherholung.",
+      hu: "Ez a kiterjedt park Esch-sur-Alzette-ben rózsakerteket, erdőket és vadasparkot kínál. A város legnagyobb zöldterülete.",
+      ro: "Acest parc întins din Esch-sur-Alzette oferă grădini de trandafiri, păduri și un parc de animale. Este cel mai mare spațiu verde din oraș.",
+      en: "This extensive park in Esch-sur-Alzette offers rose gardens, forest areas, and a wildlife park. It is the city's largest green space.",
+    },
+    facts: {
+      de: ["In Esch-sur-Alzette", "Integrierter Wildpark", "Große Rosenkollektion", "Naherholungsgebiet"],
+      hu: ["Esch-sur-Alzette-ben", "Beépített vadaspark", "Nagy rózsagyűjtemény", "Pihenőövezet"],
+      ro: ["În Esch-sur-Alzette", "Parc de animale integrat", "Colecție mare de trandafiri", "Zonă de recreere locală"],
+      en: ["In Esch-sur-Alzette", "Integrated wildlife park", "Large rose collection", "Local recreation area"],
+    },
+    imageHint: "Gaalgebierg park Esch flowers trees",
+  },
+  {
+    id: "luxembourg-stromberg-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Stromberg", hu: "Stromberg természetvédelmi terület", ro: "Rezervația Naturală Stromberg", en: "Stromberg Nature Reserve" },
+    coordinates: { lat: 49.4715, lng: 6.3685 },
+    description: {
+      de: "Südlich von Schengen an der französischen Grenze gelegen, schützt dieses Gebiet Kalkfelsen und Laubwälder. Es ist bekannt für seine Artenvielfalt und weiten Ausblicke.",
+      hu: "Schengentől délre, a francia határon található, ez a terület mészkősziklákat és lombos erdőket véd. Fajgazdagságáról és kilátásairól ismert.",
+      ro: "Situată la sud de Schengen, la granița cu Franța, această zonă protejează stânci calcaroase și păduri. Este cunoscută pentru biodiversitate.",
+      en: "Located south of Schengen on the French border, this area protects limestone rocks and deciduous forests. It is known for its biodiversity.",
+    },
+    facts: {
+      de: ["Dreiländereck-Lage", "Steile Kalksteinklippen", "Orchideenreiches Gebiet", "Wanderpfad 'Schengen-Stromberg'"],
+      hu: ["Hármashatár közeli fekvés", "Meredek mészkősziklák", "Orchideákban gazdag terület", "Schengen-Stromberg túraút"],
+      ro: ["Locație la tripla frontieră", "Faleză de calcar abruptă", "Zonă bogată în orhidee", "Traseu de drumeție Schengen-Stromberg"],
+      en: ["Triple border location", "Steep limestone cliffs", "Orchid-rich area", "Schengen-Stromberg hiking path"],
+    },
+    imageHint: "Stromberg nature reserve schengen views",
+  },
+  {
+    id: "luxembourg-hopelslay-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Hopelslay", hu: "Hopelslay természetvédelmi terület", ro: "Rezervația Naturală Hopelslay", en: "Hopelslay Nature Reserve" },
+    coordinates: { lat: 49.5442, lng: 6.3512 },
+    description: {
+      de: "Bei Remich gelegen, schützt dieses Reservat steile Kalksteinhänge mit seltenen Orchideen und wärmeliebenden Gebüschen. Es bietet einen Blick auf die Weinhänge.",
+      hu: "Remich mellett található, ez a rezervátum meredek mészkőlejtőket véd ritka orchideákkal és melegkedvelő cserjékkel. Kilátást nyújt a szőlőültetvényekre.",
+      ro: "Situată lângă Remich, această rezervație protejează versanți calcaroși cu orhidee rare și arbuști termofili. Oferă o vedere spre podgorii.",
+      en: "Located near Remich, this reserve protects steep limestone slopes with rare orchids and warmth-loving shrubs. It offers views of the vineyards.",
+    },
+    facts: {
+      de: ["Nahe der Mosel", "Kalk-Halbtrockenrasen", "Seltene Reptilienarten", "Wanderpfad durch Weinberge"],
+      hu: ["Mosel közelében", "Meszes száraz gyepek", "Ritka hüllőfajok", "Túraút a szőlőkön át"],
+      ro: ["Lângă râul Moselle", "Pajiști uscate calcaroase", "Specii rare de reptile", "Traseu printre podgorii"],
+      en: ["Near the Moselle river", "Calcareous dry grasslands", "Rare reptile species", "Hiking path through vineyards"],
+    },
+    imageHint: "Hopelslay nature reserve Remich",
+  },
+  {
+    id: "luxembourg-scheierbierg-life-v2",
+    type: "wildlife",
+    name: { de: "Naturschutzgebiet Scheierbierg", hu: "Scheierbierg természetvédelmi terület", ro: "Rezervația Naturală Scheierbierg", en: "Scheierbierg Nature Reserve" },
+    coordinates: { lat: 49.5142, lng: 6.3215 },
+    description: {
+      de: "Dieses Reservat bei Wellenstein schützt wertvolle Halbtrockenrasen auf Muschelkalk. Es ist bekannt für seine reiche Orchideenflora und die traditionelle Kulturlandschaft.",
+      hu: "Ez a Wellenstein melletti rezervátum értékes száraz gyepeket véd kagylós mészkövön. Gazdag orchideakínálatáról és a hagyományos kultúrtájáról ismert.",
+      ro: "Această rezervație de lângă Wellenstein protejează pajiști uscate valoroase. Este cunoscută pentru flora sa de orhidee și peisajul cultural tradițional.",
+      en: "This reserve near Wellenstein protects valuable dry grasslands on shell limestone. It is known for its rich orchid flora and traditional cultural landscape.",
+    },
+    facts: {
+      de: ["Gemeinde Schengen", "Kalk-Halbtrockenrasen", "Reich an Tagfaltern", "Sonnige Hanglage"],
+      hu: ["Schengen községben", "Meszes száraz gyepek", "Nappali lepkékben gazdag", "Napsütötte domboldal"],
+      ro: ["Comuna Schengen", "Pajiști uscate calcaroase", "Bogat în fluturi diurni", "Versant însorit"],
+      en: ["Schengen municipality", "Calcareous dry grasslands", "Rich in butterflies", "Sunny slope location"],
+    },
+    imageHint: "Scheierbierg nature reserve flowers",
+  },
+  {
+    id: "luxembourg-jongenbesch-life-v2",
+    type: "forest",
+    name: { de: "Waldschutzgebiet Jongenbësch", hu: "Jongenbësch erdővédelmi terület", ro: "Rezervația Forestieră Jongenbësch", en: "Jongenbësch Forest Reserve" },
+    coordinates: { lat: 49.5312, lng: 6.3415 },
+    description: {
+      de: "Dieser Wald bei Bech-Kleinmacher beherbergt bemerkenswerte Bestände an Eichen und Hainbuchen auf kalkhaltigem Boden. Er ist reich an seltenen Pilz- und Pflanzenarten.",
+      hu: "Ez a Bech-Kleinmacher melletti erdő figyelemre méltó tölgy- és gyertyánállományoknak ad otthont meszes talajon. Ritka gombákban és növényekben gazdag.",
+      ro: "Această pădure de lângă Bech-Kleinmacher găzduiește populații remarcabile de stejar și carpen pe sol calcaros. Este bogată în specii rare.",
+      en: "This forest near Bech-Kleinmacher hosts remarkable stands of oak and hornbeam on calcareous soil. It is rich in rare fungi and plant species.",
+    },
+    facts: {
+      de: ["Nahe der Mosel", "Kalkbuchenwald-Aspekte", "Hoher Totholzanteil", "Bedeutend für Spechte"],
+      hu: ["Mosel közelében", "Mészbükkös jellegek", "Magas holtfa arány", "Fontos a harkályoknak"],
+      ro: ["Lângă râul Moselle", "Aspecte de pădure de fag", "Cantitate mare de lemn mort", "Semnificativ pentru ciocănitori"],
+      en: ["Near the Moselle river", "Limestone beech forest aspects", "High proportion of deadwood", "Significant for woodpeckers"],
+    },
+    imageHint: "Jongenbësch forest ancient oaks",
+  },
+  {
+    id: "luxembourg-brouch-millewiesen-life-v2",
+    type: "wildlife",
+    name: { de: "Millewiesen bei Brouch", hu: "Brouchi Millewiesen", ro: "Millewiesen lângă Brouch", en: "Millewiesen at Brouch" },
+    coordinates: { lat: 49.7542, lng: 6.0215 },
+    description: {
+      de: "Dieses Reservat im Mamer-Tal schützt feuchte Wiesen und kleine Teiche. Es ist ein wichtiger Lebensraum für die Sumpf-Gladiole und seltene Amphibien.",
+      hu: "Ez a Mamer-völgyi rezervátum nedves réteket és kis tavakat véd. Fontos élőhelye a mocsári kardvirágnak és ritka kétéltűeknek.",
+      ro: "Această rezervație din Valea Mamer protejează pajiști umede și iazuri mici. Este un habitat important pentru gladiola de mlaștină.",
+      en: "This reserve in the Mamer valley protects wet meadows and small ponds. It is an important habitat for the Marsh Gladiolus and rare amphibians.",
+    },
+    facts: {
+      de: ["Gemeinde Helperknapp", "Feuchtwiesen-Habitat", "Vorkommen des Kammmolchs", "Artenreiche Pflanzenwelt"],
+      hu: ["Helperknapp községben", "Nedves rét élőhely", "Tarajos gőte előfordulása", "Fajgazdag növényvilág"],
+      ro: ["Comuna Helperknapp", "Habitat de pajiște umedă", "Prezența tritonului cu creastă", "Floră diversificată"],
+      en: ["Helperknapp municipality", "Wet meadow habitat", "Presence of Great Crested Newt", "Species-rich plant life"],
+    },
+    imageHint: "Millewiesen meadows Brouch flowers",
+  },
+  {
+    id: "luxembourg-elteschmuel-wetland-life-v2",
+    type: "wildlife",
+    name: { de: "Feuchtgebiet Elteschmuel", hu: "Elteschmuel mocsárvidék", ro: "Mlaștina Elteschmuel", en: "Elteschmuel Wetland" },
+    coordinates: { lat: 49.7915, lng: 6.1312 },
+    description: {
+      de: "Dieses Feuchtgebiet im Tal der Weißen Ernz bei Nommern schützt ökologisch wertvolle Niedermoore. Es ist ein wichtiger Standort für seltene Sumpfpflanzen.",
+      hu: "Ez a Nommern melletti, a Fehér-Ernz völgyében található vizes élőhely értékes síkápokat véd. Fontos lelőhelye ritka mocsári növényeknek.",
+      ro: "Această zonă umedă din valea Ernz Albă lângă Nommern protejează mlaștini de joasă altitudine. Este un loc important pentru plante de mlaștină.",
+      en: "This wetland in the White Ernz valley near Nommern protects ecologically valuable fens. It is an important site for rare marsh plants.",
+    },
+    facts: {
+      de: ["Tal der Weißen Ernz", "Niedermoor-Strukturen", "Vorkommen der Sumpf-Stendelwurz", "Schutz von Feuchtgebüschen"],
+      hu: ["Fehér-Ernz völgye", "Síkáp-szerkezetek", "Mocsári nőszőfű előfordulása", "Mocsári cserjések védelme"],
+      ro: ["Valea Ernz Albă", "Structuri de mlaștină joasă", "Prezența mlăștiniței", "Protecția arbuștilor de mlaștină"],
+      en: ["White Ernz valley", "Fen structures", "Presence of Marsh Helleborine", "Protection of wet shrubs"],
+    },
+    imageHint: "Elteschmuel wetland marsh plants",
+  },
+  {
+    id: "luxembourg-bissen-grousswiss-life-v2",
+    type: "wildlife",
+    name: { de: "Grousswiss bei Bissen", hu: "Bisseni Grousswiss", ro: "Grousswiss la Bissen", en: "Grousswiss at Bissen" },
+    coordinates: { lat: 49.7945, lng: 6.0712 },
+    description: {
+      de: "Dieses Reservat entlang der Attert schützt ein großflächiges System aus Schilfgebieten und Feuchtwiesen. Es ist ein zentrales Element des Vogelschutzes in Luxemburg.",
+      hu: "Ez az Attert menti rezervátum nádasok és nedves rétek kiterjedt rendszerét védi. A luxemburgi madárvédelem központi eleme.",
+      ro: "Această rezervație de-a lungul Attert protejează un sistem vast de stufărișuri și pajiști umede. Este un element central al protecției păsărilor.",
+      en: "This reserve along the Attert protects a large-scale system of reed beds and wet meadows. It is a central element of bird protection in Luxembourg.",
+    },
+    facts: {
+      de: ["Im Attert-Tal gelegen", "Größte Schilfflächen des Zentrums", "Vorkommen der Wasserralle", "Wichtiges Rastgebiet"],
+      hu: ["Az Attert-völgyben található", "A központ legnagyobb nádasai", "Guvat előfordulása", "Fontos pihenőhely"],
+      ro: ["Situată în Valea Attert", "Cele mai mari stufărișuri din centru", "Prezența cârstelului de baltă", "Zonă de popas importantă"],
+      en: ["Located in the Attert valley", "Largest reed beds in central LUX", "Presence of Water Rail", "Important resting area"],
+    },
+    imageHint: "Grousswiss nature reserve bird habitat",
+  },
+  {
+    id: "luxembourg-diekirch-haardt-forest-life-v2",
+    type: "forest",
+    name: { de: "Waldreservat Haardt (Diekirch)", hu: "Haardt erdőrezervátum (Diekirch)", ro: "Rezervația Forestieră Haardt (Diekirch)", en: "Haardt Forest Reserve (Diekirch)" },
+    coordinates: { lat: 49.8712, lng: 6.1645 },
+    description: {
+      de: "Dieses Waldgebiet bei Diekirch schützt wertvolle Mischwaldbestände auf kalkreichem Boden. Es ist ein bedeutender Standort für seltene Orchideen und Moose.",
+      hu: "Ez a Diekirch melletti erdő értékes elegyes erdőket véd meszes talajon. Ritka orchideák és mohák jelentős lelőhelye.",
+      ro: "Această zonă forestieră de lângă Diekirch protejează păduri mixte valoroase pe sol calcaros. Este un loc semnificativ pentru orhidee și mușchi.",
+      en: "This forest area near Diekirch protects valuable mixed forest stands on calcareous soil. It is a significant site for rare orchids and mosses.",
+    },
+    facts: {
+      de: ["Bei Diekirch gelegen", "Kalkbuchenwald-Habitat", "Vorkommen der Stendelwurz", "Historische Waldweide"],
+      hu: ["Diekirch mellett található", "Mészbükkös élőhely", "Nőszőfű előfordulása", "Történelmi erdei legelő"],
+      ro: ["Situată lângă Diekirch", "Habitat de pădure de fag", "Prezența mlăștiniței", "Pășune forestieră istorică"],
+      en: ["Located near Diekirch", "Limestone beech forest habitat", "Presence of Helleborines", "Historic forest pasture"],
+    },
+    imageHint: "Haardt forest Diekirch trees",
+  },
+  {
+    id: "luxembourg-erpeldingen-saueruecht-life-v2",
+    type: "forest",
+    name: { de: "Waldschutzgebiet Saueruecht (Erpeldange)", hu: "Saueruecht erdővédelmi terület (Erpeldange)", ro: "Rezervația Forestieră Saueruecht (Erpeldange)", en: "Saueruecht Forest Reserve (Erpeldange)" },
+    coordinates: { lat: 49.8512, lng: 6.1112 },
+    description: {
+      de: "Dieser naturnahe Wald über der Sauer schützt ökologisch wertvolle Schluchtwälder und Felsen. Er beherbergt seltene Farne und ist ein Rückzugsort für Wildkatzen.",
+      hu: "Ez a Sauer feletti természetközeli erdő ökológiailag értékes szurdokerdőket és sziklákat véd. Ritka páfrányoknak ad otthont és vadmacskák menedéke.",
+      ro: "Această pădure naturală de deasupra Sauer protejează păduri de râpă și stânci. Găzduiește ferigi rare și este refugiu pentru pisici sălbatice.",
+      en: "This near-natural forest above the Sauer protects ecologically valuable ravine forests and rocks. It hosts rare ferns and is a wildcat sanctuary.",
+    },
+    facts: {
+      de: ["Gemeinde Erpeldange-sur-Sûre", "Steile Schieferhänge", "Vorkommen des Hirschzungenfarns", "Zentrum für Naturwald-Studien"],
+      hu: ["Erpeldange-sur-Sûre községben", "Meredek palalejtők", "Gímpáfrány előfordulása", "Természetes erdő-tanulmányok"],
+      ro: ["Comuna Erpeldange-sur-Sûre", "Versanți de șist abrupți", "Prezența ferigii limba cerbului", "Centru pentru studii forestiere"],
+      en: ["Erpeldange-sur-Sûre municipality", "Steep slate slopes", "Presence of Hart's-tongue fern", "Center for natural forest studies"],
+    },
+    imageHint: "Saueruecht forest Erpeldange slate rocks",
+  },
+  {
+    id: "luxembourg-schengen-stromberg-nature-life-v2",
+    type: "wildlife",
+    name: { de: "Stromberg Naturreservat (Schengen)", hu: "Schengen-Stromberg természetvédelmi terület", ro: "Rezervația Naturală Stromberg (Schengen)", en: "Stromberg Nature Reserve (Schengen)" },
+    coordinates: { lat: 49.4745, lng: 6.3612 },
+    description: {
+      de: "Dieses grenzüberschreitende Schutzgebiet bei Schengen beherbergt seltene Kalkmagerrasen und Orchideen. Es bietet einen spektakulären Blick auf das Dreiländereck.",
+      hu: "Ez a Schengen melletti, határokon átnyúló védett terület ritka mészkőgyepeket és orchideákat rejt. Látványos kilátást nyújt a hármashatárra.",
+      ro: "Această zonă protejată transfrontalieră de lângă Schengen găzduiește pajiști calcaroase rare și orhidee. Oferă vederi spectaculoase.",
+      en: "This cross-border protected area near Schengen hosts rare calcareous grasslands and orchids. It offers spectacular views over the triple border.",
+    },
+    facts: {
+      de: ["Dreiländereck LUX-DE-FR", "Kalk-Halbtrockenrasen-Biotope", "Vorkommen seltener Ragwurz-Arten", "Lehrpfad zum Weinbau und Natur"],
+      hu: ["LUX-DE-FR hármashatár", "Meszes száraz gyep biotópok", "Ritka bangófajok előfordulása", "Szőlészeti és természeti tanösvény"],
+      ro: ["Tripla frontieră LUX-DE-FR", "Biotopuri de pajiști uscate", "Prezența speciilor rare de Ophrys", "Traseu despre viticultură și natură"],
+      en: ["Triple border LUX-DE-FR", "Calcareous dry grassland biotopes", "Presence of rare Ophrys species", "Trail on viticulture and nature"],
+    },
+    imageHint: "Stromberg nature reserve Schengen flora",
+  },
+  {
+    id: "luxembourg-remich-hopelslay-nature-life-v2",
+    type: "wildlife",
+    name: { de: "Hopelslay Naturreservat (Remich)", hu: "Remichi Hopelslay természetvédelmi terület", ro: "Rezervația Naturală Hopelslay (Remich)", en: "Hopelslay Nature Reserve (Remich)" },
+    coordinates: { lat: 49.5412, lng: 6.3542 },
+    description: {
+      de: "Dieses Reservat bei Remich schützt wertvolle Kalksteinfelsen und Halbtrockenrasen. Es ist ein wichtiger Lebensraum für Reptilien und spezialisierte Insektenarten.",
+      hu: "Ez a Remich melletti rezervátum értékes mészkősziklákat és száraz gyepeket véd. Fontos élőhelye hüllőknek és speciális rovarfajoknak.",
+      ro: "Această rezervație de lângă Remich protejează stânci calcaroase și pajiști uscate. Este un habitat important pentru reptile și insecte.",
+      en: "This reserve near Remich protects valuable limestone rocks and dry grasslands. It is an important habitat for reptiles and specialized insects.",
+    },
+    facts: {
+      de: ["Nahe der 'Perle der Mosel'", "Muschelkalk-Felsformationen", "Lebensraum für die Schlingnatter", "Reich an Wildbienenarten"],
+      hu: ["A 'Mosel gyöngye' közelében", "Kagylós mészkő formációk", "Rézsikló élőhelye", "Vadmék-fajokban gazdag"],
+      ro: ["Lângă 'Perla Mosellei'", "Formațiuni de calcar fosilifer", "Habitat pentru șarpele de râu", "Bogat în specii de albine sălbatice"],
+      en: ["Near the 'Pearl of the Moselle'", "Shell limestone formations", "Habitat for the smooth snake", "Rich in wild bee species"],
+    },
+    imageHint: "Hopelslay nature reserve Remich rocks",
+  },
+  {
+    id: "luxembourg-wellenstein-scheierbierg-nature-life-v2",
+    type: "wildlife",
+    name: { de: "Scheierbierg Naturreservat (Wellenstein)", hu: "Wellenstein-Scheierbierg természetvédelmi terület", ro: "Rezervația Naturală Scheierbierg (Wellenstein)", en: "Scheierbierg Nature Reserve (Wellenstein)" },
+    coordinates: { lat: 49.5112, lng: 6.3242 },
+    description: {
+      de: "Dieses Reservat bei Wellenstein schützt artenreiche Kalk-Magerrasen und Heckenlandschaften. Es ist ein wichtiger Standort für seltene Orchideen im Moseltal.",
+      hu: "Ez a Wellenstein melletti rezervátum fajgazdag mészkőgyepeket és sövényeket véd. Az orchideák fontos lelőhelye a Mosel-völgyben.",
+      ro: "Această rezervație de lângă Wellenstein protejează pajiști calcaroase și peisaje cu garduri vii. Este un loc important pentru orhidee.",
+      en: "This reserve near Wellenstein protects species-rich calcareous grasslands and hedge landscapes. It is an important site for orchids in the Moselle valley.",
+    },
+    facts: {
+      de: ["Gemeinde Schengen", "Bedeutende Orchideenflora", "Sonnige Kalksteinhänge", "Schutz von Wildbienen"],
+      hu: ["Schengen községben", "Jelentős orchideinflóra", "Napsütötte mészkőlejtők", "Vadméhek védelme"],
+      ro: ["Comuna Schengen", "Floră de orhidee semnificativă", "Versanți calcaroși însoriți", "Protecția albinelor sălbatice"],
+      en: ["Schengen municipality", "Significant orchid flora", "Sunny limestone slopes", "Protection of wild bees"],
+    },
+    imageHint: "Scheierbierg nature reserve flowers vineyards",
+  },
+  {
+    id: "luxembourg-bech-kleinmacher-jongenbesch-life-v2",
+    type: "forest",
+    name: { de: "Jongenbesch bei Bech-Kleinmacher", hu: "Bech-Kleinmacher-i Jongenbësch", ro: "Jongenbësch la Bech-Kleinmacher", en: "Jongenbësch at Bech-Kleinmacher" },
+    coordinates: { lat: 49.5342, lng: 6.3442 },
+    description: {
+      de: "Dieser Waldschutzbereich im Osten Luxemburgs bewahrt wertvolle Eichen-Hainbuchenwälder. Er zeichnet sich durch seine Vielfalt an Waldgesellschaften und Pilzarten aus.",
+      hu: "Ez a Kelet-Luxemburgi erdővédelmi terület értékes tölgyes-gyertyánosokat őriz. Változatos erdőtársulások és gombafajok jellemzik.",
+      ro: "Această zonă forestieră din estul Luxemburgului conservă păduri de stejar și carpen. Se remarcă prin diversitatea speciilor de ciuperci.",
+      en: "This forest protection area in eastern Luxembourg preserves valuable oak-hornbeam forests. It is characterized by its diversity of forest communities.",
+    },
+    facts: {
+      de: ["Nahe Bech-Kleinmacher", "Kalkreicher Waldboden", "Lebensraum für Mittelspechte", "Naturnahe Bewirtschaftung"],
+      hu: ["Bech-Kleinmacher közelében", "Mészben gazdag erdőtalaj", "Közép harkály élőhelye", "Természetközeli gazdálkodás"],
+      ro: ["Lângă Bech-Kleinmacher", "Sol forestier calcaros", "Habitat pentru ciocănitoarea de mijloc", "Gestionare naturală"],
+      en: ["Near Bech-Kleinmacher", "Calcareous forest soil", "Habitat for Middle Spotted Woodpeckers", "Near-natural management"],
+    },
+    imageHint: "Jongenbësch forest deciduous trees",
   }
 ];

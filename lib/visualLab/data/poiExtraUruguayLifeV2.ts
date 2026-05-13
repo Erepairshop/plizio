@@ -11,8 +11,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Biopark M'Bopicuá",
       hu: "M'Bopicuá Biopark",
       ro: "Bioparcul M'Bopicuá",
-      en: "M'Bopicuá Biopark"
-    },
+      en: "M'Bopicuá Biopark",
+image: "/poi-images/bioparque-mbopicua-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Schutzgebiet und Aufzuchtzentrum für einheimische Tierarten Uruguays.",
       hu: "Fontos természetvédelmi terület és tenyésztőközpont Uruguay őshonos állatfajai számára.",
@@ -50,8 +51,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Naturpark Lecocq",
       hu: "Lecocq Természetvédelmi Park",
       ro: "Parcul Natural Lecocq",
-      en: "Lecocq Nature Park"
-    },
+      en: "Lecocq Nature Park",
+image: "/poi-images/parque-lecocq-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiger Naturpark in Montevideo, der eine Vielfalt an exotischen und einheimischen Tieren beherbergt.",
       hu: "Egy kiterjedt természetvédelmi park Montevideóban, amely sokféle egzotikus és őshonos állatnak ad otthont.",
@@ -89,8 +91,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Faunareservat Cerro Pan de Azúcar",
       hu: "Cerro Pan de Azúcar Állatrezervátum",
       ro: "Rezervația de Faună Cerro Pan de Azúcar",
-      en: "Cerro Pan de Azúcar Fauna Reserve"
-    },
+      en: "Cerro Pan de Azúcar Fauna Reserve",
+image: "/poi-images/reserva-cerro-pan-de-azucar-life-v2.webp"
+},
     description: {
       de: "Ein Reservat am Fuße des Berges Pan de Azúcar, das sich der Pflege der lokalen Tierwelt widmet.",
       hu: "A Pan de Azúcar hegy lábánál fekvő rezervátum, amely a helyi vadvilág gondozásának szenteli magát.",
@@ -128,8 +131,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Ökopark Tálice",
       hu: "Tálice Ökopark",
       ro: "Ecoparcul Tálice",
-      en: "Tálice Ecopark"
-    },
+      en: "Tálice Ecopark",
+image: "/poi-images/ecoparque-talice-life-v2.webp"
+},
     description: {
       de: "Ein moderner, familienfreundlicher Park mit über 1.500 Tieren und interaktiven Kinderattraktionen.",
       hu: "Egy modern, családbarát park több mint 1500 állattal és interaktív gyermekattrakciókkal.",
@@ -167,8 +171,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Weingut Establecimiento Juanicó",
       hu: "Establecimiento Juanicó Pincészet",
       ro: "Crama Establecimiento Juanicó",
-      en: "Establecimiento Juanicó Winery"
-    },
+      en: "Establecimiento Juanicó Winery",
+image: "/poi-images/establecimiento-juanico-life-v2.webp"
+},
     description: {
       de: "Eines der ältesten und bekanntesten Weingüter Uruguays, berühmt für die Tannat-Traube.",
       hu: "Uruguay egyik legrégebbi és legismertebb borászata, amely a Tannat szőlőjéről híres.",
@@ -206,8 +211,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Bauernhof Finca Narbona",
       hu: "Finca Narbona Farm",
       ro: "Ferma Finca Narbona",
-      en: "Finca Narbona Farm"
-    },
+      en: "Finca Narbona Farm",
+image: "/poi-images/finca-narbona-life-v2.webp"
+},
     description: {
       de: "Ein historisches landwirtschaftliches Anwesen, das hochwertigen Wein und handwerkliche Käsesorten produziert.",
       hu: "Egy történelmi mezőgazdasági birtok, amely minőségi bort és kézműves sajtokat állít elő.",
@@ -247,8 +253,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Weingut und Olivenhain Garzón",
       hu: "Garzón Pincészet és Olívaliget",
       ro: "Crama și Livada de Măslini Garzón",
-      en: "Garzón Winery and Olive Grove"
-    },
+      en: "Garzón Winery and Olive Grove",
+image: "/poi-images/bodega-garzon-life-v2.webp"
+},
     description: {
       de: "Ein modernes, nachhaltiges landwirtschaftliches Projekt mit ausgedehnten Weinbergen und Olivenplantagen.",
       hu: "Egy modern, fenntartható mezőgazdasági projekt kiterjedt szőlőültetvényekkel és olajfaligetekkel.",
@@ -286,8 +293,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Naturreservat Salus",
       hu: "Salus Természetvédelmi Terület",
       ro: "Rezervația Naturală Salus",
-      en: "Salus Nature Reserve"
-    },
+      en: "Salus Nature Reserve",
+image: "/poi-images/reserva-natural-salus-life-v2.webp"
+},
     description: {
       de: "Ein privates Schutzgebiet mit üppigen Wäldern, natürlichen Quellen und einer reichen einheimischen Fauna.",
       hu: "Magánkézben lévő védett terület buja erdőkkel, természetes forrásokkal és gazdag őshonos faunával.",
@@ -325,8 +333,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Nationalpark Cabo Polonio (Seelöwen)",
       hu: "Cabo Polonio Nemzeti Park (Oroszlánfókák)",
       ro: "Parcul Național Cabo Polonio (Lei de mare)",
-      en: "Cabo Polonio National Park (Sea Lions)"
-    },
+      en: "Cabo Polonio National Park (Sea Lions)",
+image: "/poi-images/parque-nacional-cabo-polonio-life-v2.webp"
+},
     description: {
       de: "Dieses Küstengebiet beherbergt eine der weltweit größten Kolonien von Seelöwen in freier Wildbahn.",
       hu: "Ez a partvidék ad otthont a világ egyik legnagyobb szabadon élő oroszlánfóka-kolóniájának.",
@@ -364,8 +373,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Insel Isla de Lobos",
       hu: "Isla de Lobos Sziget",
       ro: "Insula Isla de Lobos",
-      en: "Isla de Lobos Island"
-    },
+      en: "Isla de Lobos Island",
+image: "/poi-images/isla-de-lobos-life-v2.webp"
+},
     description: {
       de: "Eine felsige Insel vor Punta del Este, die als wichtiges Refugium für südamerikanische Seebären dient.",
       hu: "Punta del Este partjainál fekvő sziklás sziget, amely a dél-amerikai medvefókák fontos menedéke.",
@@ -403,8 +413,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Nationalpark Esteros de Farrapos",
       hu: "Esteros de Farrapos Nemzeti Park",
       ro: "Parcul Național Esteros de Farrapos",
-      en: "Esteros de Farrapos National Park"
-    },
+      en: "Esteros de Farrapos National Park",
+image: "/poi-images/esteros-de-farrapos-life-v2.webp"
+},
     description: {
       de: "Feuchtgebiete und Inseln am Río Uruguay, die Vögeln und dem bedrohten Mähnenwolf Unterschlupf bieten.",
       hu: "A Río Uruguay melletti vizes élőhelyek és szigetek, amelyek madaraknak és a veszélyeztetett sörényes farkasnak nyújtanak menedéket.",
@@ -442,8 +453,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Vogelschutzgebiet Laguna de Rocha",
       hu: "Laguna de Rocha Madárvédelmi Terület",
       ro: "Rezervația de Păsări Laguna de Rocha",
-      en: "Laguna de Rocha Bird Sanctuary"
-    },
+      en: "Laguna de Rocha Bird Sanctuary",
+image: "/poi-images/laguna-de-rocha-life-v2.webp"
+},
     description: {
       de: "Eine flache Küstenlagune, die ein entscheidender Lebensraum für Schwarzhalsschwäne und Flamingos ist.",
       hu: "Sekély tengerparti lagúna, amely fekete nyakú hattyúk és flamingók létfontosságú élőhelye.",
@@ -483,8 +495,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Bauernhof Tambo Lapataia",
       hu: "Tambo Lapataia Farm",
       ro: "Ferma Tambo Lapataia",
-      en: "Tambo Lapataia Farm"
-    },
+      en: "Tambo Lapataia Farm",
+image: "/poi-images/tambo-lapataia-life-v2.webp"
+},
     description: {
       de: "Ein beliebter agrotouristischer Bauernhof, auf dem Familien die Herstellung des berühmten Dulce de Leche erleben können.",
       hu: "Népszerű agroturisztikai farm, ahol a családok megismerhetik a híres dulce de leche készítését.",
@@ -522,8 +535,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Marmeladenfabrik Granja Arenas",
       hu: "Granja Arenas Lekvárüzem",
       ro: "Fabrica de Gemuri Granja Arenas",
-      en: "Granja Arenas Jam Factory"
-    },
+      en: "Granja Arenas Jam Factory",
+image: "/poi-images/granja-arenas-life-v2.webp"
+},
     description: {
       de: "Ein traditioneller landwirtschaftlicher Betrieb, bekannt für seine hausgemachten Fruchtmarmeladen und sein skurriles Bleistiftmuseum.",
       hu: "Hagyományos mezőgazdasági üzem, amely házi gyümölcslekvárjairól és különleges ceruzamúzeumáról ismert.",
@@ -561,8 +575,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Meeresschildkröten-Zentrum Karumbé",
       hu: "Karumbé Tengeriteknős-központ",
       ro: "Centrul de Țestoase Marine Karumbé",
-      en: "Karumbé Sea Turtle Center"
-    },
+      en: "Karumbé Sea Turtle Center",
+image: "/poi-images/karumbe-tortugas-life-v2.webp"
+},
     description: {
       de: "Eine Naturschutzinitiative am Cerro Verde, die verletzte Meeresschildkröten rettet und rehabilitiert.",
       hu: "A Cerro Verde melletti természetvédelmi kezdeményezés, amely sérült tengeri teknősöket ment és rehabilitál.",
@@ -600,8 +615,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Schutzgebiet Laguna de Castillos",
       hu: "Laguna de Castillos Védett Terület",
       ro: "Aria Protejată Laguna de Castillos",
-      en: "Laguna de Castillos Protected Area"
-    },
+      en: "Laguna de Castillos Protected Area",
+image: "/poi-images/laguna-de-castillos-life-v2.webp"
+},
     description: {
       de: "Umgeben von einem seltenen Ombu-Wald ist diese Lagune ein Zufluchtsort für zahlreiche Capybaras und Wasservögel.",
       hu: "A ritka ombu-erdővel körülvett lagúna számtalan kapybara és vízimadár menedéke.",
@@ -639,8 +655,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Feuchtgebiete Bañados del Este",
       hu: "Bañados del Este Vizes Élőhelyek",
       ro: "Zonele Umede Bañados del Este",
-      en: "Bañados del Este Wetlands"
-    },
+      en: "Bañados del Este Wetlands",
+image: "/poi-images/banados-del-este-life-v2.webp"
+},
     description: {
       de: "Ein riesiges Sumpf- und Lagunensystem, das als Biosphärenreservat unzählige Zugvögel schützt.",
       hu: "Hatalmas mocsár- és lagúnarendszer, amely bioszféra-rezervátumként számtalan vándormadarat véd.",
@@ -678,8 +695,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Weingut Bodega Bouza",
       hu: "Bodega Bouza Pincészet",
       ro: "Crama Bodega Bouza",
-      en: "Bodega Bouza Winery"
-    },
+      en: "Bodega Bouza Winery",
+image: "/poi-images/bodega-bouza-life-v2.webp"
+},
     description: {
       de: "Ein erstklassiges Boutique-Weingut nahe der Hauptstadt, das für Albarino-Weine und eine Oldtimer-Sammlung bekannt ist.",
       hu: "A főváros közelében található prémium butikborászat, amely Albarino borairól és veteránautó-gyűjteményéről ismert.",
@@ -717,8 +735,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Schlucht Quebrada de los Cuervos",
       hu: "Quebrada de los Cuervos Szurdok",
       ro: "Defileul Quebrada de los Cuervos",
-      en: "Quebrada de los Cuervos Gorge"
-    },
+      en: "Quebrada de los Cuervos Gorge",
+image: "/poi-images/quebrada-de-los-cuervos-life-v2.webp"
+},
     description: {
       de: "Diese steile Schlucht ist ein Hotspot der Artenvielfalt und Heimat zahlreicher Geier- und Greifvogelarten.",
       hu: "Ez a meredek szurdok a biológiai sokféleség központja, számos keselyű- és ragadozómadár-faj otthona.",
@@ -756,8 +775,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Naturpark Valle del Lunarejo",
       hu: "Valle del Lunarejo Természeti Park",
       ro: "Parcul Natural Valle del Lunarejo",
-      en: "Valle del Lunarejo Nature Park"
-    },
+      en: "Valle del Lunarejo Nature Park",
+image: "/poi-images/valle-del-lunarejo-life-v2.webp"
+},
     description: {
       de: "Ein ökologischer Korridor mit Wasserfällen und dichten Wäldern, der Nasenbären und seltene Amphibien beherbergt.",
       hu: "Ökológiai folyosó vízesésekkel és sűrű erdőkkel, amely ormányosmedvéknek és ritka kétéltűeknek ad otthont.",
@@ -795,8 +815,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Galeriewälder Montes del Queguay",
       hu: "Montes del Queguay Galériaerdők",
       ro: "Pădurile Galerie Montes del Queguay",
-      en: "Montes del Queguay Gallery Forests"
-    },
+      en: "Montes del Queguay Gallery Forests",
+image: "/poi-images/montes-del-queguay-life-v2.webp"
+},
     description: {
       de: "Das größte zusammenhängende Waldgebiet Uruguays, ein Refugium für den Margay und den Pampasfuchs.",
       hu: "Uruguay legnagyobb egybefüggő erdeje, amely a margay és a pampasi róka menedéke.",
@@ -834,8 +855,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Ferienpark UTE-Antel",
       hu: "UTE-Antel Üdülőpark",
       ro: "Parcul de Vacanță UTE-Antel",
-      en: "UTE-Antel Holiday Park"
-    },
+      en: "UTE-Antel Holiday Park",
+image: "/poi-images/parque-ute-antel-life-v2.webp"
+},
     description: {
       de: "Ein Erholungskomplex in den Minas-Bergen mit zahlreichen Freizeitaktivitäten und Spielbereichen für Kinder.",
       hu: "Pihenőkomplexum a Minas-hegységben, számtalan szabadidős tevékenységgel és gyermekjátszóterekkel.",
@@ -873,8 +895,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Meeresmuseum La Barra",
       hu: "La Barra Tengeri Múzeum",
       ro: "Muzeul Mării La Barra",
-      en: "La Barra Museum of the Sea"
-    },
+      en: "La Barra Museum of the Sea",
+image: "/poi-images/museo-del-mar-life-v2.webp"
+},
     description: {
       de: "Ein familienfreundliches Museum mit einer riesigen Sammlung von Muscheln, Walskeletten und maritimen Artefakten.",
       hu: "Családbarát múzeum hatalmas kagylógyűjteménnyel, bálnacsontvázakkal és tengeri leletekkel.",
@@ -912,8 +935,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Blaubeerplantagen von Salto",
       hu: "Salto Áfonyaültetvényei",
       ro: "Plantațiile de Afine din Salto",
-      en: "Salto Blueberry Plantations"
-    },
+      en: "Salto Blueberry Plantations",
+image: "/poi-images/arandanos-salto-life-v2.webp"
+},
     description: {
       de: "Ausgedehnte landwirtschaftliche Flächen, auf denen Heidelbeeren für den nationalen und internationalen Markt angebaut werden.",
       hu: "Kiterjedt mezőgazdasági területek, ahol áfonyát termesztenek a hazai és a nemzetközi piac számára.",
@@ -951,8 +975,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Schutzgebiet Rincón de Franquía",
       hu: "Rincón de Franquía Védett Terület",
       ro: "Aria Protejată Rincón de Franquía",
-      en: "Rincón de Franquía Protected Area"
-    },
+      en: "Rincón de Franquía Protected Area",
+image: "/poi-images/rincon-de-franquia-life-v2.webp"
+},
     description: {
       de: "Ein Dreiländereck an der Grenze zu Brasilien und Argentinien, reich an Wasserfauna und tropischen Vögeln.",
       hu: "A Brazília és Argentína határán fekvő hármashatár, amely vízifaunában és trópusi madarakban gazdag.",
@@ -990,8 +1015,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Estancia San Pedro de Timote",
       hu: "San Pedro de Timote Birtok",
       ro: "Moșia San Pedro de Timote",
-      en: "San Pedro de Timote Estate"
-    },
+      en: "San Pedro de Timote Estate",
+image: "/poi-images/san-pedro-de-timote-life-v2.webp"
+},
     description: {
       de: "Eine der ältesten und bedeutendsten Estancias Uruguays, die heute Rinderzucht und historischen Agrotourismus verbindet.",
       hu: "Uruguay egyik legrégebbi és legjelentősebb birtoka, amely ma a szarvasmarha-tenyésztést és a történelmi agroturizmust ötvözi.",
@@ -1029,8 +1055,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Olivenfarm Chacra La Anyta",
       hu: "Chacra La Anyta Olíva Farm",
       ro: "Ferma de Măslini Chacra La Anyta",
-      en: "Chacra La Anyta Olive Farm"
-    },
+      en: "Chacra La Anyta Olive Farm",
+image: "/poi-images/chacra-la-anyta-life-v2.webp"
+},
     description: {
       de: "Eine malerische Farm nahe Pan de Azúcar, die sich auf handwerkliches Olivenöl und Naturkosmetik spezialisiert hat.",
       hu: "Festői farm a Pan de Azúcar közelében, amely kézműves olívaolajra és natúrkozmetikumokra specializálódott.",
@@ -1068,8 +1095,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Agrarbetrieb Agroland",
       hu: "Agroland Mezőgazdasági Vállalat",
       ro: "Întreprinderea Agricolă Agroland",
-      en: "Agroland Agricultural Enterprise"
-    },
+      en: "Agroland Agricultural Enterprise",
+image: "/poi-images/agroland-life-v2.webp"
+},
     description: {
       de: "Ein riesiger Agrarkomplex, der Windenergie nutzt, um Mandeln, Pekannüsse und Rindfleisch nachhaltig zu produzieren.",
       hu: "Hatalmas agráripari komplexum, amely szélenergiát használ mandula, pekándió és marhahús fenntartható előállításához.",
@@ -1107,8 +1135,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Ozeanographisches Museum Damaso Antonio Larrañaga",
       hu: "Damaso Antonio Larrañaga Óceanográfiai Múzeum",
       ro: "Muzeul Oceanografic Damaso Antonio Larrañaga",
-      en: "Damaso Antonio Larrañaga Oceanographic Museum"
-    },
+      en: "Damaso Antonio Larrañaga Oceanographic Museum",
+image: "/poi-images/museo-oceanografico-life-v2.webp"
+},
     description: {
       de: "Ein markantes Gebäude am Strand von Montevideo, das Ausstellungen über Meeresbiologie und Zoologie speziell für Kinder bietet.",
       hu: "Feltűnő épület Montevideo tengerpartján, amely a tengerbiológiáról és az állattanról szóló, kifejezetten gyerekeknek szóló kiállításokat kínál.",
@@ -1146,8 +1175,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       de: "Naturpark Salto del Penitente",
       hu: "Salto del Penitente Természeti Park",
       ro: "Parcul Natural Salto del Penitente",
-      en: "Salto del Penitente Nature Park"
-    },
+      en: "Salto del Penitente Nature Park",
+image: "/poi-images/parque-salto-del-penitente-life-v2.webp"
+},
     description: {
       de: "Ein Abenteuerpark rund um einen Wasserfall mit Ziplines, Reiten und Naturerkundung für die ganze Familie.",
       hu: "Egy vízesés körüli kalandpark zipline-pályákkal, lovaglással és természetjárással az egész család számára.",

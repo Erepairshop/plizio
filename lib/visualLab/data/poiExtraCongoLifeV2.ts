@@ -14,8 +14,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Lossi Gorilla Sanctuary"
     ,
     descriptionAdvanced: {
-      en: "The Lossi Gorilla Sanctuary is a pioneering site for community-led conservation in the Republic of the Congo. It offers a critical refuge for Western Lowland Gorillas, integrating habitat protection with the active participation and stewardship of local villages. By demonstrating that conservation can thrive alongside community development, the sanctuary serves as a vital model for wildlife management in Central Africa. Sachkunde K5 — endangered species and community-led conservation."
-    },
+      en: "The Lossi Gorilla Sanctuary is a pioneering site for community-led conservation in the Republic of the Congo. It offers a critical refuge for Western Lowland Gorillas, integrating habitat protection with the active participation and stewardship of local villages. By demonstrating that conservation can thrive alongside community development, the sanctuary serves as a vital model for wildlife management in Central Africa. Sachkunde K5 — endangered species and community-led conservation.",
+image: "/poi-images/lossi-gorilla-sanctuary-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Pioneering model for community-led conservation.", "Crucial refuge for Western Lowland Gorillas.", "Managed in close partnership with local villages.", "Significant example of biodiversity stewardship.", "Demonstrates sustainable wildlife management.", "Located in the ecologically rich Sangha region."]
     }
@@ -44,8 +45,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Tchimpounga Chimpanzee Sanctuary"
     ,
     descriptionAdvanced: {
-      en: "The Tchimpounga Chimpanzee Sanctuary is the largest facility of its kind in Africa, providing essential care for orphaned chimpanzees. Founded by the Jane Goodall Institute, it offers a safe environment for animals rescued from the illegal pet and bushmeat trades, emphasizing rehabilitation and, where possible, eventual reintroduction to protected areas. It is an internationally recognized center for chimpanzee welfare and conservation education. Sachkunde K6 — primate welfare and rehabilitation."
-    },
+      en: "The Tchimpounga Chimpanzee Sanctuary is the largest facility of its kind in Africa, providing essential care for orphaned chimpanzees. Founded by the Jane Goodall Institute, it offers a safe environment for animals rescued from the illegal pet and bushmeat trades, emphasizing rehabilitation and, where possible, eventual reintroduction to protected areas. It is an internationally recognized center for chimpanzee welfare and conservation education. Sachkunde K6 — primate welfare and rehabilitation.",
+image: "/poi-images/tchimpounga-chimpanzee-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Largest chimpanzee sanctuary in Africa.", "Primary refuge for rescued orphaned chimpanzees.", "Focuses on chimpanzee welfare and rehabilitation.", "Leading center for conservation education.", "Critical sanctuary against bushmeat trade impacts."]
     }
@@ -74,8 +76,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Brazzaville Zoo"
     ,
     descriptionAdvanced: {
-      en: "The Brazzaville Zoo is the primary facility in the capital for displaying native fauna and educating the public about the country's rich natural heritage. It hosts various species, ranging from monkeys and reptiles to birds, providing city dwellers and families with an accessible connection to local wildlife. The zoo is a central point for wildlife appreciation and awareness within the urban landscape. Sachkunde K4 — wildlife awareness and urban public education."
-    },
+      en: "The Brazzaville Zoo is the primary facility in the capital for displaying native fauna and educating the public about the country's rich natural heritage. It hosts various species, ranging from monkeys and reptiles to birds, providing city dwellers and families with an accessible connection to local wildlife. The zoo is a central point for wildlife appreciation and awareness within the urban landscape. Sachkunde K4 — wildlife awareness and urban public education.",
+image: "/poi-images/brazzaville-zoo-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Central educational zoo for the capital city.", "Focuses on native Congolese wildlife species.", "Popular destination for families and schools.", "Hosts a variety of monkeys and local reptiles.", "Central urban location for wildlife appreciation.", "Important educational center for city residents."]
     }
@@ -104,8 +107,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Brazzaville Botanical Garden"
     ,
     descriptionAdvanced: {
-      en: "The Brazzaville Botanical Garden offers a serene green escape in the middle of the capital, showcasing the diverse and often spectacular tropical flora native to the Congo Basin. Beyond its role as a beautiful public park, it serves as a significant site for botanical study and environmental awareness. Its preserved landscape is an essential lung for the city, housing rare tree and plant species. Sachkunde K5 — tropical botany and urban environments."
-    },
+      en: "The Brazzaville Botanical Garden offers a serene green escape in the middle of the capital, showcasing the diverse and often spectacular tropical flora native to the Congo Basin. Beyond its role as a beautiful public park, it serves as a significant site for botanical study and environmental awareness. Its preserved landscape is an essential lung for the city, housing rare tree and plant species. Sachkunde K5 — tropical botany and urban environments.",
+image: "/poi-images/brazzaville-botanical-garden-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Green botanical lung within Brazzaville.", "Showcases diverse flora of the Congo Basin.", "Established for botanical study and recreation.", "Features rare tropical plants and trees.", "Important site for environmental awareness.", "Serene public space for city residents."]
     }
@@ -135,8 +139,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Nkayi Sugar Cane Fields"
     ,
     descriptionAdvanced: {
-      en: "The vast sugar cane fields around Nkayi represent one of Congo's most significant agricultural landscapes. These plantations, which form the backbone of the region's economy, illustrate the large-scale modification of the environment for industrial food production. The cyclical harvesting and processing of sugar cane are central to the rhythm of life in this fertile agricultural hub. Geography K6 — industrial agriculture and rural life."
-    },
+      en: "The vast sugar cane fields around Nkayi represent one of Congo's most significant agricultural landscapes. These plantations, which form the backbone of the region's economy, illustrate the large-scale modification of the environment for industrial food production. The cyclical harvesting and processing of sugar cane are central to the rhythm of life in this fertile agricultural hub. Geography K6 — industrial agriculture and rural life.",
+image: "/poi-images/nkayi-sugar-fields-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Extensive plantations driving the Nkayi economy.", "Central hub for Congo's sugar production.", "Example of large-scale industrial farming.", "Cyclical nature of sugar cane harvest.", "Optimizes fertile plains in the Bouenza region.", "Key agricultural landscape for national food trade."]
     }
@@ -165,8 +170,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Mossaka Rice Fields"
     ,
     descriptionAdvanced: {
-      en: "The rice fields of Mossaka are a testament to the traditional mastery of the Congo River's seasonal flood patterns. By cultivating resilient rice varieties in these fertile floodplains, the local community secures a staple food source for the entire region. This agricultural system is a prime example of human adaptation to complex tropical river environments. Sachkunde K4 — agricultural adaptation to water systems."
-    },
+      en: "The rice fields of Mossaka are a testament to the traditional mastery of the Congo River's seasonal flood patterns. By cultivating resilient rice varieties in these fertile floodplains, the local community secures a staple food source for the entire region. This agricultural system is a prime example of human adaptation to complex tropical river environments. Sachkunde K4 — agricultural adaptation to water systems.",
+image: "/poi-images/mossaka-rice-fields-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Traditional cultivation in seasonal floodplains.", "Vital staple food source for the Mossaka region.", "Uses natural annual flooding for irrigation.", "Adaptation of farming to river topography.", "Key component of regional food security.", "Rice production is foundational to local commerce."]
     }
@@ -195,8 +201,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Sangha Cocoa Plantations"
     ,
     descriptionAdvanced: {
-      en: "The cocoa plantations in the Sangha region flourish in the unique conditions provided by the dense tropical rainforest canopy. Cocoa, as a high-value export crop, has become an increasingly important part of the northern agricultural sector, providing economic livelihoods for many local farmers. Cultivated under protective shade trees, this sustainable agro-forestry practice supports both the economy and biodiversity. Geography K7 — sustainable agriculture in tropical forest regions."
-    },
+      en: "The cocoa plantations in the Sangha region flourish in the unique conditions provided by the dense tropical rainforest canopy. Cocoa, as a high-value export crop, has become an increasingly important part of the northern agricultural sector, providing economic livelihoods for many local farmers. Cultivated under protective shade trees, this sustainable agro-forestry practice supports both the economy and biodiversity. Geography K7 — sustainable agriculture in tropical forest regions.",
+image: "/poi-images/sangha-cocoa-plantations-life-v2.webp"
+},
     factsAdvanced: {
       en: ["High-value export crop for northern Congo.", "Grown under traditional shade-tree methods.", "Supports agro-forestry as a sustainable practice.", "Increasingly important livelihood for farmers.", "Thrives in Sangha's humid forest conditions.", "Growing export sector for the northern region."]
     }
@@ -226,8 +233,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Ouésso Palm Oil Plantations"
     ,
     descriptionAdvanced: {
-      en: "The palm oil plantations around Ouesso represent the large-scale industrial cultivation of oil palms, which is a major contributor to regional trade. Palm oil is essential for both domestic culinary uses and as a commodity in the broader national market. These plantations are a dominant feature of the rural landscape in the north, shaping both the local economy and traditional dietary practices. Sachkunde K5 — industrial plantation agriculture."
-    },
+      en: "The palm oil plantations around Ouesso represent the large-scale industrial cultivation of oil palms, which is a major contributor to regional trade. Palm oil is essential for both domestic culinary uses and as a commodity in the broader national market. These plantations are a dominant feature of the rural landscape in the north, shaping both the local economy and traditional dietary practices. Sachkunde K5 — industrial plantation agriculture.",
+image: "/poi-images/ouesso-palm-oil-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Major industrial plantation for oil palm.", "Essential commodity for domestic consumption.", "Significant feature of northern rural economy.", "Vital palm oil trade hub in the Sangha region.", "Supports local and national supply chains."]
     }
@@ -256,8 +264,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Madingou Cassava Farms"
     ,
     descriptionAdvanced: {
-      en: "Madingou's cassava farms are the heart of the region's agricultural landscape, where this hardy root vegetable serves as the absolute staple food for the majority of the population. The daily cultivation, processing, and transformation of cassava into products like chikwangue is an fundamental part of life in the Bouenza region. These farms illustrate the importance of subsistence and local market-oriented smallholder agriculture. Sachkunde K5 — food security and root crop farming."
-    },
+      en: "Madingou's cassava farms are the heart of the region's agricultural landscape, where this hardy root vegetable serves as the absolute staple food for the majority of the population. The daily cultivation, processing, and transformation of cassava into products like chikwangue is an fundamental part of life in the Bouenza region. These farms illustrate the importance of subsistence and local market-oriented smallholder agriculture. Sachkunde K5 — food security and root crop farming.",
+image: "/poi-images/madingou-cassava-farms-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Cassava is the primary staple food crop.", "Essential to the diet and local economy.", "Smallholder farms dominate the landscape.", "Foundational to Chikwangue production.", "Central to regional food security efforts.", "Highly adapted to the Bouenza climate."]
     }
@@ -286,8 +295,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "Niari Coffee Plantations"
     ,
     descriptionAdvanced: {
-      en: "The coffee plantations in the Niari region take advantage of the favorable climate of the cooler highlands to produce high-quality Robusta beans. Coffee farming here combines agricultural heritage with modern export demand, serving as an important income source for local cultivators. This unique highland microclimate allows for distinctive agricultural patterns not found elsewhere in the Congo Basin. Geography K6 — highland agriculture and specialty crops."
-    },
+      en: "The coffee plantations in the Niari region take advantage of the favorable climate of the cooler highlands to produce high-quality Robusta beans. Coffee farming here combines agricultural heritage with modern export demand, serving as an important income source for local cultivators. This unique highland microclimate allows for distinctive agricultural patterns not found elsewhere in the Congo Basin. Geography K6 — highland agriculture and specialty crops.",
+image: "/poi-images/niari-coffee-plantations-life-v2.webp"
+},
     factsAdvanced: {
       en: ["Favorable highland climate for Robusta coffee.", "Important income source for local farmers.", "Distinctive agricultural landscape in Niari.", "Product of unique regional microclimate.", "Growing contributor to the agricultural export mix.", "High-quality bean production in the highlands."]
     }
@@ -313,8 +323,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Tabakfelder von Batéké",
       hu: "Batéké dohányföldek",
       ro: "Câmpurile de tutun din Batéké",
-      en: "Batéké Tobacco Fields"
-    },
+      en: "Batéké Tobacco Fields",
+image: "/poi-images/bateke-tobacco-fields-life-v2.webp"
+},
     description: {
       de: "Die sandigen Böden des Batéké-Plateaus eignen sich hervorragend für den Anbau von Tabak.",
       hu: "A Batéké-fennsík homokos talaja kiválóan alkalmas dohánytermesztésre.",
@@ -336,8 +347,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Brazzaville Vergnügungspark",
       hu: "Brazzaville-i vidámpark",
       ro: "Parcul de distracții Brazzaville",
-      en: "Brazzaville Amusement Park"
-    },
+      en: "Brazzaville Amusement Park",
+image: "/poi-images/brazzaville-children-park-life-v2.webp"
+},
     description: {
       de: "Ein kleiner Freizeit- und Spielpark in der Hauptstadt, der Unterhaltung für Kinder bietet.",
       hu: "Egy kis szabadidő- és játszópark a fővárosban, amely szórakozást nyújt a gyerekeknek.",
@@ -359,8 +371,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Mbeli Bai Beobachtungsposten",
       hu: "Mbeli Bai megfigyelőpont",
       ro: "Punctul de observare Mbeli Bai",
-      en: "Mbeli Bai Observation Point"
-    },
+      en: "Mbeli Bai Observation Point",
+image: "/poi-images/mbeli-bai-watch-life-v2.webp"
+},
     description: {
       de: "Eine natürliche Waldlichtung im Nouabalé-Ndoki-Nationalpark, berühmt für die Beobachtung von Gorillas und Waldelefanten.",
       hu: "Természetes erdei tisztás a Nouabalé-Ndoki Nemzeti Parkban, amely híres a gorillák és erdei elefántok megfigyeléséről.",
@@ -382,8 +395,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Gorilla-Waisenhaus von Conkouati",
       hu: "Conkouati Gorilla-árvaház",
       ro: "Orfelinatul de gorile din Conkouati",
-      en: "Conkouati Gorilla Orphanage"
-    },
+      en: "Conkouati Gorilla Orphanage",
+image: "/poi-images/conkouati-gorilla-orphanage-life-v2.webp"
+},
     description: {
       de: "Ein Schutzzentrum innerhalb des Conkouati-Douli-Nationalparks, das verwaiste Gorillas auf ihre Rückkehr in die Wildnis vorbereitet.",
       hu: "A Conkouati-Douli Nemzeti Parkon belüli védelmi központ, amely felkészíti az árva gorillákat a vadonba való visszatérésre.",
@@ -405,8 +419,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Viehzuchtgebiete von Abala",
       hu: "Abala állattenyésztési körzetei",
       ro: "Zonele de creștere a animalelor din Abala",
-      en: "Abala Cattle Ranches"
-    },
+      en: "Abala Cattle Ranches",
+image: "/poi-images/abala-cattle-ranches-life-v2.webp"
+},
     description: {
       de: "Die offenen Savannen um Abala sind bekannt für die Rinderzucht und versorgen weite Teile des Nordens mit Fleisch.",
       hu: "Az Abala körüli nyílt szavannák az állattenyésztésről ismertek, és az északi rész nagy részét ellátják hússal.",
@@ -428,8 +443,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Bananenhaine von Mayombe",
       hu: "Mayombe-i banánligetek",
       ro: "Livezile de banani din Mayombe",
-      en: "Mayombe Banana Groves"
-    },
+      en: "Mayombe Banana Groves",
+image: "/poi-images/mayombe-banana-groves-life-v2.webp"
+},
     description: {
       de: "In den feuchten Tälern des Mayombe-Gebirges gedeihen Bananen und Kochbananen unter idealen Bedingungen.",
       hu: "A Mayombe-hegység nedves völgyeiben a banán és a főzőbanán ideális körülmények között fejlődik.",
@@ -451,8 +467,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Papageien-Habitat von Likouala",
       hu: "Likouala papagáj-élőhelyek",
       ro: "Habitatul papagalilor din Likouala",
-      en: "Likouala Parrot Habitats"
-    },
+      en: "Likouala Parrot Habitats",
+image: "/poi-images/likouala-parrot-habitats-life-v2.webp"
+},
     description: {
       de: "Die dichten Sumpfwälder von Likouala sind die Heimat des Graupapageis und anderer exotischer Vogelarten.",
       hu: "Likouala sűrű mocsári erdői a szürkepapagáj és más egzotikus madárfajok otthonai.",
@@ -474,8 +491,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Erdnussfelder von Pool",
       hu: "Pool-régió földimogyoró-mezői",
       ro: "Câmpurile de arahide din Pool",
-      en: "Pool Peanut Fields"
-    },
+      en: "Pool Peanut Fields",
+image: "/poi-images/pool-peanut-fields-life-v2.webp"
+},
     description: {
       de: "Die Region Pool ist bekannt für ihren intensiven Erdnussanbau, der die Märkte der nahen Hauptstadt Brazzaville versorgt.",
       hu: "A Pool-régió intenzív földimogyoró-termesztéséről ismert, amely a közeli Brazzaville piacait látja el.",
@@ -497,8 +515,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Wald-Elephanten-Pfad von Odzala",
       hu: "Odzala erdei elefánt-ösvény",
       ro: "Calea elefanților de pădure din Odzala",
-      en: "Odzala Forest Elephant Path"
-    },
+      en: "Odzala Forest Elephant Path",
+image: "/poi-images/odzala-elephant-path-life-v2.webp"
+},
     description: {
       de: "Ein Netzwerk von Pfaden im Odzala-Kokoua-Nationalpark, das von Waldelefanten auf ihrer Suche nach Nahrung und Wasser genutzt wird.",
       hu: "Ösvényhálózat az Odzala-Kokoua Nemzeti Parkban, amelyet az erdei elefántok használnak táplálékkeresés közben.",
@@ -520,8 +539,9 @@ export const poiExtraCongoLifeV2: POI[] = [
       de: "Meeresschildkröten-Nistplätze von Pointe-Indienne",
       hu: "Pointe-Indienne tengeri teknős fészkelőhelyek",
       ro: "Locurile de cuibărit ale țestoaselor de la Pointe-Indienne",
-      en: "Pointe-Indienne Turtle Nesting Sites"
-    },
+      en: "Pointe-Indienne Turtle Nesting Sites",
+image: "/poi-images/pointe-indienne-turtles-life-v2.webp"
+},
     description: {
       de: "Strände in der Nähe von Pointe-Noire, an denen Meeresschildkröten zur Eiablage an Land kommen.",
       hu: "Pointe-Noire közeli strandok, ahol a tengeri teknősök partra szállnak tojást rakni.",

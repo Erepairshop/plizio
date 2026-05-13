@@ -11,8 +11,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Zakouma-Elefanten-Schutzgebiet",
       hu: "Zakouma elefánt-rezervátum",
       ro: "Rezervația de elefanți Zakouma",
-      en: "Zakouma Elephant Sanctuary"
-    },
+      en: "Zakouma Elephant Sanctuary",
+image: "/poi-images/zakouma-elephants-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Zakouma-Elefanten-Schutzgebiet ist ein Paradebeispiel für den erfolgreichen Naturschutz in Zentralafrika. Durch gezielte Schutzmaßnahmen hat sich die Elefantenpopulation hier erholt und zieht heute Besucher aus der ganzen Welt an, die die majestätischen Herden in ihrer natürlichen Umgebung erleben möchten. Zakouma ist ein Lebensraum, der die Artenvielfalt der sudanesischen Savanne bewahrt und als Hoffnungsträger für bedrohte Tierarten gilt. Das Reservat spielt zudem eine ökonomische Rolle, indem es den nachhaltigen Tourismus in der Region fördert und die lokale Gemeinschaft einbindet. Sachkunde K5 — Schutzgebiete.",
       hu: "A(z) zakouma-elephants-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -44,8 +45,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Fitri-See Vogelparadies",
       hu: "Fitri-tó madárparadicsom",
       ro: "Paradisul păsărilor de la Lacul Fitri",
-      en: "Lake Fitri Bird Sanctuary"
-    },
+      en: "Lake Fitri Bird Sanctuary",
+image: "/poi-images/fitri-birds-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Fitri-See ist ein ökologisches Juwel, das als zentraler Rastplatz für tausende Zugvögel dient, die den Kontinent queren. Als UNESCO-Biosphärenreservat ist er ein geschütztes Gebiet, das die komplexen Feuchtgebiets-Ökosysteme der Sahelzone bewahrt. Die Vogelbeobachtung am See bietet einzigartige Einblicke in die wandernde Tierwelt und die Bedeutung von Wasserstellen für die globale Artenvielfalt. Der Fitri-See ist eine ökologische Lebensader, die in einer ariden Region eine beeindruckende Fülle an Leben beherbergt. Sachkunde K4 — Vogelzug.",
       hu: "A(z) fitri-birds-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -77,8 +79,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Binder-Léré Flusspferde-Habitat",
       hu: "Binder-Léré víziló-élőhely",
       ro: "Habitatul hipopotamilor din Binder-Léré",
-      en: "Binder-Léré Hippo Habitat"
-    },
+      en: "Binder-Léré Hippo Habitat",
+image: "/poi-images/binder-lere-hippos-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Region Binder-Léré ist ein Paradies für Tierliebhaber und ein Rückzugsort für große Flusspferdgruppen. In den Flüssen und Seen, die eine natürliche Grenze bilden, können diese beeindruckenden Tiere in ihrer natürlichen Umgebung beobachtet werden. Die Region ist Teil eines größeren, grenzüberschreitenden Schutzgebiets-Konzepts, das den Erhalt der aquatischen Lebensräume garantiert. Ein Besuch der Binder-Léré-Region bietet tiefe Einblicke in die komplexen Bedürfnisse von Wildtieren an ihre Wasserressourcen. Sachkunde K6 — Tiere und Lebensräume.",
       hu: "A(z) binder-lere-hippos-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -110,8 +113,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Manda-Wildtierreservat",
       hu: "Manda vadvédelmi terület",
       ro: "Rezervația de faună sălbatică Manda",
-      en: "Manda Wildlife Reserve"
-    },
+      en: "Manda Wildlife Reserve",
+image: "/poi-images/manda-wildlife-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Manda-Wildtierreservat ist ein bedeutendes Ökosystem im Süden, das die typische Artenvielfalt der sudanesischen Savanne schützt. Hier finden Antilopen, Giraffen und seltene Raubkatzen einen sicheren Lebensraum, der durch kontinuierliche Überwachung bewahrt wird. Manda leistet einen wichtigen Beitrag zur Erhaltung der afrikanischen Tierwelt, indem es Korridore zwischen verschiedenen Habitaten sicherstellt. Das Reservat ist ein Ort, an dem sich die Schönheit und Zerbrechlichkeit der südlichen Natur des Tschad erfahren lässt. Biologie K7 — Ökosystemmanagement.",
       hu: "A(z) manda-wildlife-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -143,8 +147,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Ouadi Rimé Oryx-Reservat",
       hu: "Ouadi Rimé oryx-rezervátum",
       ro: "Rezervația de antilope Oryx Ouadi Rimé",
-      en: "Ouadi Rimé Oryx Reserve"
-    },
+      en: "Ouadi Rimé Oryx Reserve",
+image: "/poi-images/ouadi-rime-oryx-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Ouadi Rimé Oryx-Reservat gilt als weltweites Vorzeigeprojekt für die Wiederansiedlung von bedrohten Tierarten in der Sahara. Die Säbelantilope, die in freier Wildbahn fast ausgerottet war, konnte hier durch ein engagiertes Programm erfolgreich in ihr natürliches Habitat zurückkehren. Das Reservat ist eines der größten Schutzgebiete Afrikas und stellt die Bedeutung einer intakten Wüstennatur unter Beweis. Wissenschaftler und Naturschützer weltweit blicken auf Ouadi Rimé als Beweis dafür, dass Artenrückführung bei konsequenter Planung möglich ist. Biologie K8 — Arterhaltung.",
       hu: "A(z) ouadi-rime-oryx-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -176,8 +181,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Sinné-Djebele Fauna-Reservat",
       hu: "Sinné-Djebele fauna-rezervátum",
       ro: "Rezervația de faună Sinné-Djebele",
-      en: "Sinné-Djebele Fauna Reserve"
-    },
+      en: "Sinné-Djebele Fauna Reserve",
+image: "/poi-images/sinne-djebele-fauna-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Sinné-Djebele Fauna-Reservat im gebirgigen Teil des Tschad ist ein Rückzugsort für spezialisierte Arten wie Berggazellen und rare Primaten. Die bergige Topografie schafft isolierte Lebensräume, in denen sich die Fauna abseits vom menschlichen Einfluss entwickeln konnte. Das Gebiet ist ein unverzichtbares Labor für Zoologen, die untersuchen, wie sich Tiere an schwierige klimatische Bedingungen im Gebirge anpassen. Als sicherer Hafen für seltene Tiere unterstreicht das Reservat den Wert auch weniger beachteter Landschaften für die globale Artenvielfalt. Sachkunde K7 — Gebirgsfauna.",
       hu: "A(z) sinne-djebele-fauna-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -209,8 +215,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Tschadsee Papyrus-Felder",
       hu: "Csád-tó papiruszmezők",
       ro: "Câmpurile de papirus de la Lacul Ciad",
-      en: "Lake Chad Papyrus Fields"
-    },
+      en: "Lake Chad Papyrus Fields",
+image: "/poi-images/lake-chad-papyrus-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Papyrus-Felder am Tschadsee zeigen die symbiotische Beziehung zwischen Mensch und Natur. Der Papyrus, der an den Ufern gedeiht, ist seit Jahrtausenden die Basis für die traditionelle Handwerkskunst der Region. Die Fischer und Siedler nutzen ihn nicht nur zum Bau von Kanus, sondern auch für Matten und Körbe, die den täglichen Bedarf decken. Dieses nachhaltige Wirtschaftsmodell am Rande des Sees veranschaulicht, wie eine natürliche Ressource über Generationen klug verwaltet werden kann. Geschichte K6 — Nachhaltige Ressourcennutzung.",
       hu: "A(z) lake-chad-papyrus-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -242,8 +249,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Logone Reisplantagen",
       hu: "Logone rizstermesztés",
       ro: "Plantațiile de orez de pe râul Logone",
-      en: "Logone River Rice Paddies"
-    },
+      en: "Logone River Rice Paddies",
+image: "/poi-images/logone-rice-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Reisplantagen am Logone-Fluss bilden das Zentrum der tschadischen Bewässerungslandwirtschaft. Die jährlichen Überschwemmungen machen die Auen zu idealen Bedingungen für den Anbau dieser lebensnotwendigen Getreidesorte. Durch moderne Anbaumethoden wird heute ein signifikanter Teil der lokalen Ernährung abgedeckt. Die Reisbauern am Logone sind ein Schlüsselfaktor für die wirtschaftliche Stabilität der Region und zeigen die Innovationskraft der Landwirtschaft im Tschad. Geografie K7 — Landwirtschaft und Wasser.",
       hu: "A(z) logone-rice-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -275,8 +283,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Moyen-Chari Baumwollfelder",
       hu: "Moyen-Chari gyapotföldek",
       ro: "Câmpurile de bumbac din Moyen-Chari",
-      en: "Moyen-Chari Cotton Plantations"
-    },
+      en: "Moyen-Chari Cotton Plantations",
+image: "/poi-images/moyen-chari-cotton-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Baumwollfelder von Moyen-Chari sind weit mehr als nur Landwirtschaft; sie sind der Stolz des Südens und ein entscheidender Beitrag zum Export des Tschad. Die Region bietet hervorragende klimatische Bedingungen für den Anbau des 'weißen Goldes'. Die harte Arbeit der Kleinbauern auf diesen Feldern bildet die Basis für eine Textilindustrie, die Arbeitsplätze schafft und die nationale Wirtschaft stützt. Moyen-Chari ist das Gesicht der industriellen Landwirtschaft im Tschad, die versucht, Tradition und Marktorientierung zu verbinden. Wirtschaft K6 — Agrarexport.",
       hu: "A(z) moyen-chari-cotton-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -308,8 +317,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Ounianga Dattelpalmen-Haine",
       hu: "Ounianga dátumpálma-ligetek",
       ro: "Livezile de curmali din Ounianga",
-      en: "Ounianga Date Palm Groves"
-    },
+      en: "Ounianga Date Palm Groves",
+image: "/poi-images/ounianga-date-palms-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Dattelpalmen-Haine von Ounianga sind eine beeindruckende Leistung menschlicher Anpassungsfähigkeit inmitten der Sahara. Hier, wo extreme Hitze herrscht, ermöglichen die Seen den Anbau von Datteln, die als nährstoffreiches Grundnahrungsmittel für die Wüstenbewohner fungieren. Das Leben in dieser Oase ist ein Beispiel dafür, wie Wasserquellen geschickt genutzt werden können, um eine grüne Lebensinsel zu schaffen. Datteln sind nicht nur Nahrungsquelle, sondern auch wertvolles Handelsgut für die Nomaden der Sahara. Biologie K5 — Leben in extremen Umgebungen.",
       hu: "A(z) ounianga-date-palms-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -341,8 +351,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "N'Djamena Viehmarkt",
       hu: "N'Djamena állatpiac",
       ro: "Piața de vite din N'Djamena",
-      en: "N'Djamena Livestock Market"
-    },
+      en: "N'Djamena Livestock Market",
+image: "/poi-images/ndjamena-livestock-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Viehmarkt in N'Djamena ist der zentrale Handelsplatz für das wichtigste Vermögensgut des Tschad. Nomaden aus allen Ecken des Landes bringen ihre Herden in die Hauptstadt, um sie auf dem Markt zu verkaufen oder zu tauschen. Dies ist ein Ort, an dem Tradition und Handel aufeinandertreffen und die Versorgungsketten des ganzen Landes organisiert werden. Der Viehmarkt unterstreicht die enorme Bedeutung der Tierhaltung für den tschadischen Wohlstand und ist ein lebendiges Zeugnis der nomadischen Kultur, die das Land prägt. Wirtschaft K7 — Viehzucht als Kapital.",
       hu: "A(z) ndjamena-livestock-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -373,8 +384,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Mayo-Kebbi Erdnussfarmen",
       hu: "Mayo-Kebbi földimogyoró-farmok",
       ro: "Fermele de arahide din Mayo-Kebbi",
-      en: "Mayo-Kebbi Peanut Farms"
-    },
+      en: "Mayo-Kebbi Peanut Farms",
+image: "/poi-images/mayo-kebbi-peanuts-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Erdnussfarmen in Mayo-Kebbi zeigen, wie sandige Böden produktiv für die Ernährung genutzt werden können. Erdnüsse sind nicht nur eine wichtige Nährstoffquelle, sondern auch ein unverzichtbarer Teil der regionalen Küche und des täglichen Bedarfs. Die landwirtschaftliche Arbeit in Mayo-Kebbi wird primär von Familienbetrieben geleistet, die den Anbau perfektioniert haben. Dies stärkt den lokalen Zusammenhalt und bietet wirtschaftliche Perspektiven in einer Region, die auf Landwirtschaft angewiesen ist. Wirtschaft K5 — Familienbetriebe.",
       hu: "A(z) mayo-kebbi-peanuts-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -404,8 +416,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Abéché Kamelherden",
       hu: "Abéché tevecsordák",
       ro: "Cirezile de cămile din Abéché",
-      en: "Abéché Camel Herds"
-    },
+      en: "Abéché Camel Herds",
+image: "/poi-images/abeche-camel-herds-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kamelherden von Abéché sind ein Symbol für den Reichtum und die Ausdauer der nomadischen Völker in der Sahara. Dromedare sind die unersetzlichen Begleiter der Nomaden, die in der Wüste überleben und Handel über weite Strecken ermöglichen. Sie sind ein Statussymbol und gleichzeitig ein wertvolles wirtschaftliches Gut. Das Leben der Menschen um Abéché ist untrennbar mit ihren Kamelen verbunden, was die Kultur der Region maßgeblich prägt. Ein Einblick in die Herden von Abéché bedeutet ein tieferes Verständnis für die nomadische Lebensweise. Kultur K8 — Leben als Nomade.",
       hu: "A(z) abeche-camel-herds-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -435,8 +448,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Schari Fischerdörfer",
       hu: "Chari halászfalvak",
       ro: "Satele de pescari de pe râul Chari",
-      en: "Chari River Fishing Villages"
-    },
+      en: "Chari River Fishing Villages",
+image: "/poi-images/chari-fishing-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Fischerdörfer am Schari-Fluss sind ein Ort, an dem jahrtausendealte Traditionen auf die Anforderungen der modernen Metropole treffen. Die Verwendung von handgeflochtenen Netzen und Kanus ist Ausdruck eines tiefen Wissens über den Fluss. Diese Fischer versorgen die Hauptstadt täglich mit frischem Fisch, was sie zu einem unverzichtbaren Teil der urbanen Lebensmittelkette macht. Ihr Leben folgt den Rhythmen des Flusses, was die Fischerdörfer zu einem Ort macht, an dem Mensch und Natur eng miteinander verknüpft sind. Geschichte K6 — Traditionelle Handwerkstechniken.",
       hu: "A(z) chari-fishing-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -466,8 +480,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "N'Djamena Kinderfreizeitpark",
       hu: "N'Djamena gyermek szabadidőpark",
       ro: "Parcul de recreere pentru copii din N'Djamena",
-      en: "N'Djamena Children's Park"
-    },
+      en: "N'Djamena Children's Park",
+image: "/poi-images/ndjamena-kids-park-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Kinderfreizeitpark in N'Djamena bietet Kindern einen wertvollen Raum für Bewegung und Spiel in der urbanen Umgebung der Hauptstadt. Als Ort für Familien ist er ein wichtiger Beitrag zur Lebensqualität. Die Parks fördern das soziale Miteinander, indem sie einen sicheren Raum abseits der geschäftigen Straßen bieten. Solche Orte sind zentral für die gesunde Entwicklung junger Stadtbewohner und zeigen das soziale Engagement der urbanen Planung im Tschad. Sachkunde K3 — Lebensqualität für Kinder.",
       hu: "A(z) ndjamena-kids-park-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -498,8 +513,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Moundou Jugend-Erholungspark",
       hu: "Moundou ifjúsági pihenőpark",
       ro: "Parcul de recreere pentru tineret din Moundou",
-      en: "Moundou Youth Recreation Park"
-    },
+      en: "Moundou Youth Recreation Park",
+image: "/poi-images/moundou-youth-park-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Jugend-Erholungspark in Moundou ist auf die Bedürfnisse junger Menschen ausgerichtet und bietet ihnen Möglichkeiten für Sport und Freizeit. Durch gezielte Aktivitäten wird hier die Gemeinschaft gestärkt und jungen Menschen eine produktive Alternative zur Freizeitgestaltung geboten. Als zentraler Erholungsort ist der Park ein wichtiger Bestandteil der sozialen Infrastruktur von Moundou. Er unterstreicht den Stellenwert, den die Förderung der Jugend für die Entwicklung der Stadt hat. Sachkunde K4 — Sport und Freizeit.",
       hu: "A(z) moundou-youth-park-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -529,8 +545,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Sarh Kunsthandwerk-Zentrum für Kinder",
       hu: "Sarh gyermek kézműves központ",
       ro: "Centrul de artizanat pentru copii din Sarh",
-      en: "Sarh Children's Crafts Center"
-    },
+      en: "Sarh Children's Crafts Center",
+image: "/poi-images/sarh-crafts-kids-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Im Handwerkszentrum für Kinder in Sarh lernen die Jüngsten die kulturelle Identität des Tschad durch spielerische Praxis. Weben und Töpfern sind nicht nur Handwerk, sondern ein tiefer Einblick in das Erbe ihrer Vorfahren. Dieses pädagogische Angebot ist wegweisend, da es Talente fördert und die kulturelle Kontinuität im Süden des Landes sicherstellt. Für die Kinder ist es eine Bereicherung, ihre handwerklichen Fähigkeiten zu entdecken und dabei spielerisch die Bedeutung von Tradition zu verstehen. Sachkunde K5 — Traditionelles Erbe.",
       hu: "A(z) sarh-crafts-kids-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -560,8 +577,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Schwimmende Gärten von Bol",
       hu: "Bol úszó kertjei",
       ro: "Grădinile plutitoare din Bol",
-      en: "Bol Floating Gardens"
-    },
+      en: "Bol Floating Gardens",
+image: "/poi-images/bol-floating-gardens-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die schwimmenden Gärten in Bol sind ein geniales Beispiel für landwirtschaftliche Kreativität an einem sich wandelnden Ufer. Durch die Nutzung der Wasseroberfläche können Anwohner Nahrungsmittel dort anbauen, wo es Landflächen oft nicht erlauben. Dieser Ort bietet Kindern nicht nur eine spannende Aussicht, sondern ist ein wichtiges pädagogisches Labor für Ökologie und Anpassung. Der Anbau zeigt auf einfache Weise, wie natürliche Ressourcen unter schwierigen Bedingungen genutzt werden können, um das Überleben und den Wohlstand zu sichern. Sachkunde K6 — Ökologische Anpassung.",
       hu: "A(z) bol-floating-gardens-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -591,8 +609,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Tibesti Nomaden-Camp",
       hu: "Tibesti nomád tábor",
       ro: "Tabăra de nomazi din Tibesti",
-      en: "Tibesti Nomadic Camp Experience"
-    },
+      en: "Tibesti Nomadic Camp Experience",
+image: "/poi-images/tibesti-nomad-camp-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Nomaden-Camp im Tibesti ist eine lebensnahe Erfahrung für Kinder, um den Alltag der Wüstenbewohner zu verstehen. Hier lernen sie, wie die Menschen im Einklang mit der Natur überleben und wie wichtig der respektvolle Umgang mit Tieren in dieser Umgebung ist. Die Begegnung mit der Tubu-Kultur ist ein tiefgehendes Erlebnis, das den Horizont erweitert und Respekt für andere Lebensweisen lehrt. Es ist eine Bildungschance, die weit über das Klassenzimmer hinausgeht und Einblicke in das Leben unter extremen Bedingungen ermöglicht. Kultur K7 — Nomadische Lebenswelt.",
       hu: "A(z) tibesti-nomad-camp-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -623,8 +642,9 @@ export const poiExtraChadLifeV2: POI[] = [
       de: "Fada Oase Entdeckungspfad",
       hu: "Fada oázis felfedező ösvény",
       ro: "Traseul de descoperire al oazei Fada",
-      en: "Fada Oasis Discovery Path"
-    },
+      en: "Fada Oasis Discovery Path",
+image: "/poi-images/fada-oasis-kids-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Entdeckungspfad in der Fada-Oase ist eine spielerische Einladung für Familien, die Bedeutung von Wasser in einer Wüstenwelt zu begreifen. In der kühlen Atmosphäre der Palmen werden den Kindern die ökologischen Zusammenhänge einer Oase vermittelt. Spielerische Elemente wie Wasserplätze verdeutlichen, warum die Oase das Lebenszentrum für Mensch und Tier ist. Dieser Pfad kombiniert Spaß mit Bildung und macht den Schutz wertvoller Wasserquellen zum Thema. Es ist ein Naturerlebnis, das die ganze Familie mit neuem Wissen über die Wüste bereichert. Sachkunde K4 — Bedeutung von Wasser.",
       hu: "A(z) fada-oasis-kids-life-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."

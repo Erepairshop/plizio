@@ -7,7 +7,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "UG-102",
     coords: [32.5811, 0.3136],
-    name: { de: "Kampala", hu: "Kampala", ro: "Kampala", en: "Kampala" },
+    name: { de: "Kampala", hu: "Kampala", ro: "Kampala", en: "Kampala",
+image: "/poi-images/kampala-cities-v2.webp"
+},
     description: {
       de: "Kampala ist die Hauptstadt und das wichtigste wirtschaftliche Zentrum von Uganda, am Nordufer des Viktoriasees gelegen.",
       hu: "Kampala Uganda fővárosa és legfontosabb gazdasági központja, amely a Viktória-tó északi partján fekszik.",
@@ -37,7 +39,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-304",
     coords: [32.3, 2.7667],
-    name: { de: "Gulu", hu: "Gulu", ro: "Gulu", en: "Gulu" },
+    name: { de: "Gulu", hu: "Gulu", ro: "Gulu", en: "Gulu",
+image: "/poi-images/gulu-cities-v2.webp"
+},
     description: {
       de: "Gulu ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Gulu egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -68,7 +72,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-306",
     coords: [32.9, 2.25],
-    name: { de: "Lira", hu: "Lira", ro: "Lira", en: "Lira" },
+    name: { de: "Lira", hu: "Lira", ro: "Lira", en: "Lira",
+image: "/poi-images/lira-cities-v2.webp"
+},
     description: {
       de: "Lira ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Lira egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -99,7 +105,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-410",
     coords: [30.65, -0.6167],
-    name: { de: "Mbarara", hu: "Mbarara", ro: "Mbarara", en: "Mbarara" },
+    name: { de: "Mbarara", hu: "Mbarara", ro: "Mbarara", en: "Mbarara",
+image: "/poi-images/mbarara-cities-v2.webp"
+},
     description: {
       de: "Mbarara ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mbarara egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -127,7 +135,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-203",
     coords: [33.2, 0.4333],
-    name: { de: "Jinja", hu: "Jinja", ro: "Jinja", en: "Jinja" },
+    name: { de: "Jinja", hu: "Jinja", ro: "Jinja", en: "Jinja",
+image: "/poi-images/jinja-cities-v2.webp"
+},
     description: {
       de: "Jinja ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Jinja egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -158,7 +168,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-113",
     coords: [32.4667, 0.05],
-    name: { de: "Entebbe", hu: "Entebbe", ro: "Entebbe", en: "Entebbe" },
+    name: { de: "Entebbe", hu: "Entebbe", ro: "Entebbe", en: "Entebbe",
+image: "/poi-images/entebbe-cities-v2.webp"
+},
     description: {
       de: "Entebbe ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Entebbe egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -187,7 +199,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-210",
     coords: [34.1833, 1.0833],
-    name: { de: "Mbale", hu: "Mbale", ro: "Mbale", en: "Mbale" },
+    name: { de: "Mbale", hu: "Mbale", ro: "Mbale", en: "Mbale",
+image: "/poi-images/mbale-cities-v2.webp"
+},
     description: {
       de: "Mbale ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mbale egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -214,7 +228,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-106",
     coords: [32.75, 0.35],
-    name: { de: "Mukono", hu: "Mukono", ro: "Mukono", en: "Mukono" },
+    name: { de: "Mukono", hu: "Mukono", ro: "Mukono", en: "Mukono",
+image: "/poi-images/mukono-cities-v2.webp"
+},
     description: {
       de: "Mukono ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mukono egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -241,7 +257,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-105",
     coords: [31.7333, -0.3333],
-    name: { de: "Masaka", hu: "Masaka", ro: "Masaka", en: "Masaka" },
+    name: { de: "Masaka", hu: "Masaka", ro: "Masaka", en: "Masaka",
+image: "/poi-images/masaka-cities-v2.webp"
+},
     description: {
       de: "Masaka ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Masaka egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -268,7 +286,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-406",
     coords: [30.0833, 0.1833],
-    name: { de: "Kasese", hu: "Kasese", ro: "Kasese", en: "Kasese" },
+    name: { de: "Kasese", hu: "Kasese", ro: "Kasese", en: "Kasese",
+image: "/poi-images/kasese-cities-v2.webp"
+},
     description: {
       de: "Kasese ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kasese egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -295,7 +315,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-403",
     coords: [31.35, 1.4333],
-    name: { de: "Hoima", hu: "Hoima", ro: "Hoima", en: "Hoima" },
+    name: { de: "Hoima", hu: "Hoima", ro: "Hoima", en: "Hoima",
+image: "/poi-images/hoima-cities-v2.webp"
+},
     description: {
       de: "Hoima ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Hoima egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -322,7 +344,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-302",
     coords: [30.9167, 3.0167],
-    name: { de: "Arua", hu: "Arua", ro: "Arua", en: "Arua" },
+    name: { de: "Arua", hu: "Arua", ro: "Arua", en: "Arua",
+image: "/poi-images/arua-cities-v2.webp"
+},
     description: {
       de: "Arua ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Arua egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -349,7 +373,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-213",
     coords: [33.6167, 1.7167],
-    name: { de: "Soroti", hu: "Soroti", ro: "Soroti", en: "Soroti" },
+    name: { de: "Soroti", hu: "Soroti", ro: "Soroti", en: "Soroti",
+image: "/poi-images/soroti-cities-v2.webp"
+},
     description: {
       de: "Soroti ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Soroti egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -376,7 +402,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-402",
     coords: [30.2667, 0.65],
-    name: { de: "Fort Portal", hu: "Fort Portal", ro: "Fort Portal", en: "Fort Portal" },
+    name: { de: "Fort Portal", hu: "Fort Portal", ro: "Fort Portal", en: "Fort Portal",
+image: "/poi-images/fort-portal-cities-v2.webp"
+},
     description: {
       de: "Fort Portal ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Fort Portal egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -403,7 +431,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-214",
     coords: [34.1833, 0.6833],
-    name: { de: "Tororo", hu: "Tororo", ro: "Tororo", en: "Tororo" },
+    name: { de: "Tororo", hu: "Tororo", ro: "Tororo", en: "Tororo",
+image: "/poi-images/tororo-cities-v2.webp"
+},
     description: {
       de: "Tororo ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Tororo egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -430,7 +460,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-101",
     coords: [32.9333, 0.3833],
-    name: { de: "Lugazi", hu: "Lugazi", ro: "Lugazi", en: "Lugazi" },
+    name: { de: "Lugazi", hu: "Lugazi", ro: "Lugazi", en: "Lugazi",
+image: "/poi-images/lugazi-cities-v2.webp"
+},
     description: {
       de: "Lugazi ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Lugazi egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -457,7 +489,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-104",
     coords: [32.0333, 0.4],
-    name: { de: "Mityana", hu: "Mityana", ro: "Mityana", en: "Mityana" },
+    name: { de: "Mityana", hu: "Mityana", ro: "Mityana", en: "Mityana",
+image: "/poi-images/mityana-cities-v2.webp"
+},
     description: {
       de: "Mityana ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mityana egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -484,7 +518,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-202",
     coords: [33.4833, 0.6],
-    name: { de: "Iganga", hu: "Iganga", ro: "Iganga", en: "Iganga" },
+    name: { de: "Iganga", hu: "Iganga", ro: "Iganga", en: "Iganga",
+image: "/poi-images/iganga-cities-v2.webp"
+},
     description: {
       de: "Iganga ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Iganga egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -511,7 +547,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-201",
     coords: [34.0833, 0.4667],
-    name: { de: "Busia", hu: "Busia", ro: "Busia", en: "Busia" },
+    name: { de: "Busia", hu: "Busia", ro: "Busia", en: "Busia",
+image: "/poi-images/busia-cities-v2.webp"
+},
     description: {
       de: "Busia ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Busia egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -538,7 +576,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-202",
     coords: [33.6167, 0.7667],
-    name: { de: "Busembatia", hu: "Busembatia", ro: "Busembatia", en: "Busembatia" },
+    name: { de: "Busembatia", hu: "Busembatia", ro: "Busembatia", en: "Busembatia",
+image: "/poi-images/busembatia-cities-v2.webp"
+},
     description: {
       de: "Busembatia ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Busembatia egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -565,7 +605,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-305",
     coords: [32.8833, 3.2833],
-    name: { de: "Kitgum", hu: "Kitgum", ro: "Kitgum", en: "Kitgum" },
+    name: { de: "Kitgum", hu: "Kitgum", ro: "Kitgum", en: "Kitgum",
+image: "/poi-images/kitgum-cities-v2.webp"
+},
     description: {
       de: "Kitgum ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kitgum egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -596,7 +638,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-113",
     coords: [32.5333, 0.3667],
-    name: { de: "Nansana", hu: "Nansana", ro: "Nansana", en: "Nansana" },
+    name: { de: "Nansana", hu: "Nansana", ro: "Nansana", en: "Nansana",
+image: "/poi-images/nansana-cities-v2.webp"
+},
     description: {
       de: "Nansana ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Nansana egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -627,7 +671,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-113",
     coords: [32.65, 0.4],
-    name: { de: "Kira", hu: "Kira", ro: "Kira", en: "Kira" },
+    name: { de: "Kira", hu: "Kira", ro: "Kira", en: "Kira",
+image: "/poi-images/kira-cities-v2.webp"
+},
     description: {
       de: "Kira ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kira egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -658,7 +704,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-102",
     coords: [32.5833, 0.2833],
-    name: { de: "Makindye", hu: "Makindye", ro: "Makindye", en: "Makindye" },
+    name: { de: "Makindye", hu: "Makindye", ro: "Makindye", en: "Makindye",
+image: "/poi-images/makindye-cities-v2.webp"
+},
     description: {
       de: "Makindye ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Makindye egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -689,7 +737,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-102",
     coords: [32.55, 0.3],
-    name: { de: "Rubaga", hu: "Rubaga", ro: "Rubaga", en: "Rubaga" },
+    name: { de: "Rubaga", hu: "Rubaga", ro: "Rubaga", en: "Rubaga",
+image: "/poi-images/rubaga-cities-v2.webp"
+},
     description: {
       de: "Rubaga ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Rubaga egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -720,7 +770,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-102",
     coords: [32.5667, 0.3833],
-    name: { de: "Kawempe", hu: "Kawempe", ro: "Kawempe", en: "Kawempe" },
+    name: { de: "Kawempe", hu: "Kawempe", ro: "Kawempe", en: "Kawempe",
+image: "/poi-images/kawempe-cities-v2.webp"
+},
     description: {
       de: "Kawempe ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kawempe egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -751,7 +803,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-102",
     coords: [32.6167, 0.3333],
-    name: { de: "Nakawa", hu: "Nakawa", ro: "Nakawa", en: "Nakawa" },
+    name: { de: "Nakawa", hu: "Nakawa", ro: "Nakawa", en: "Nakawa",
+image: "/poi-images/nakawa-cities-v2.webp"
+},
     description: {
       de: "Nakawa ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Nakawa egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -769,7 +823,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-106",
     coords: [31.4, 0.55],
-    name: { de: "Mubende", hu: "Mubende", ro: "Mubende", en: "Mubende" },
+    name: { de: "Mubende", hu: "Mubende", ro: "Mubende", en: "Mubende",
+image: "/poi-images/mubende-cities-v2.webp"
+},
     description: {
       de: "Mubende ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mubende egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -787,7 +843,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-411",
     coords: [30.2667, -0.8833],
-    name: { de: "Ntungamo", hu: "Ntungamo", ro: "Ntungamo", en: "Ntungamo" },
+    name: { de: "Ntungamo", hu: "Ntungamo", ro: "Ntungamo", en: "Ntungamo",
+image: "/poi-images/ntungamo-cities-v2.webp"
+},
     description: {
       de: "Ntungamo ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Ntungamo egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -805,7 +863,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-309",
     coords: [31.0833, 2.4833],
-    name: { de: "Nebbi", hu: "Nebbi", ro: "Nebbi", en: "Nebbi" },
+    name: { de: "Nebbi", hu: "Nebbi", ro: "Nebbi", en: "Nebbi",
+image: "/poi-images/nebbi-cities-v2.webp"
+},
     description: {
       de: "Nebbi ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Nebbi egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -823,7 +883,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-314",
     coords: [30.95, 3.4167],
-    name: { de: "Koboko", hu: "Koboko", ro: "Koboko", en: "Koboko" },
+    name: { de: "Koboko", hu: "Koboko", ro: "Koboko", en: "Koboko",
+image: "/poi-images/koboko-cities-v2.webp"
+},
     description: {
       de: "Koboko ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Koboko egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -841,7 +903,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-412",
     coords: [29.9333, -0.7833],
-    name: { de: "Rukungiri", hu: "Rukungiri", ro: "Rukungiri", en: "Rukungiri" },
+    name: { de: "Rukungiri", hu: "Rukungiri", ro: "Rukungiri", en: "Rukungiri",
+image: "/poi-images/rukungiri-cities-v2.webp"
+},
     description: {
       de: "Rukungiri ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Rukungiri egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -859,7 +923,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-401",
     coords: [30.5, -0.1333],
-    name: { de: "Ibanda", hu: "Ibanda", ro: "Ibanda", en: "Ibanda" },
+    name: { de: "Ibanda", hu: "Ibanda", ro: "Ibanda", en: "Ibanda",
+image: "/poi-images/ibanda-cities-v2.webp"
+},
     description: {
       de: "Ibanda ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Ibanda egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -877,7 +943,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-201",
     coords: [33.75, 0.5667],
-    name: { de: "Bugiri", hu: "Bugiri", ro: "Bugiri", en: "Bugiri" },
+    name: { de: "Bugiri", hu: "Bugiri", ro: "Bugiri", en: "Bugiri",
+image: "/poi-images/bugiri-cities-v2.webp"
+},
     description: {
       de: "Bugiri ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Bugiri egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -895,7 +963,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-113",
     coords: [32.4833, 0.4],
-    name: { de: "Wakiso", hu: "Wakiso", ro: "Wakiso", en: "Wakiso" },
+    name: { de: "Wakiso", hu: "Wakiso", ro: "Wakiso", en: "Wakiso",
+image: "/poi-images/wakiso-cities-v2.webp"
+},
     description: {
       de: "Wakiso ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Wakiso egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -914,7 +984,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-113",
     coords: [32.65, 0.35],
-    name: { de: "Bweyogerere", hu: "Bweyogerere", ro: "Bweyogerere", en: "Bweyogerere" },
+    name: { de: "Bweyogerere", hu: "Bweyogerere", ro: "Bweyogerere", en: "Bweyogerere",
+image: "/poi-images/bweyogerere-cities-v2.webp"
+},
     description: {
       de: "Bweyogerere ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Bweyogerere egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -932,7 +1004,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-307",
     coords: [31.7167, 3.65],
-    name: { de: "Moyo", hu: "Moyo", ro: "Moyo", en: "Moyo" },
+    name: { de: "Moyo", hu: "Moyo", ro: "Moyo", en: "Moyo",
+image: "/poi-images/moyo-cities-v2.webp"
+},
     description: {
       de: "Moyo ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Moyo egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -950,7 +1024,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-205",
     coords: [33.1167, 0.95],
-    name: { de: "Kamuli", hu: "Kamuli", ro: "Kamuli", en: "Kamuli" },
+    name: { de: "Kamuli", hu: "Kamuli", ro: "Kamuli", en: "Kamuli",
+image: "/poi-images/kamuli-cities-v2.webp"
+},
     description: {
       de: "Kamuli ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kamuli egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -968,7 +1044,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-206",
     coords: [34.45, 1.4],
-    name: { de: "Kapchorwa", hu: "Kapchorwa", ro: "Kapchorwa", en: "Kapchorwa" },
+    name: { de: "Kapchorwa", hu: "Kapchorwa", ro: "Kapchorwa", en: "Kapchorwa",
+image: "/poi-images/kapchorwa-cities-v2.webp"
+},
     description: {
       de: "Kapchorwa ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kapchorwa egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -986,7 +1064,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-212",
     coords: [33.7167, 1.1667],
-    name: { de: "Pallisa", hu: "Pallisa", ro: "Pallisa", en: "Pallisa" },
+    name: { de: "Pallisa", hu: "Pallisa", ro: "Pallisa", en: "Pallisa",
+image: "/poi-images/pallisa-cities-v2.webp"
+},
     description: {
       de: "Pallisa ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Pallisa egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1005,7 +1085,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-311",
     coords: [31.25, 3.4667],
-    name: { de: "Yumbe", hu: "Yumbe", ro: "Yumbe", en: "Yumbe" },
+    name: { de: "Yumbe", hu: "Yumbe", ro: "Yumbe", en: "Yumbe",
+image: "/poi-images/yumbe-cities-v2.webp"
+},
     description: {
       de: "Yumbe ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Yumbe egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1024,7 +1106,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-404",
     coords: [29.9833, -1.25],
-    name: { de: "Kabale", hu: "Kabale", ro: "Kabale", en: "Kabale" },
+    name: { de: "Kabale", hu: "Kabale", ro: "Kabale", en: "Kabale",
+image: "/poi-images/kabale-cities-v2.webp"
+},
     description: {
       de: "Kabale ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kabale egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1042,7 +1126,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-208",
     coords: [33.9333, 1.4833],
-    name: { de: "Kumi", hu: "Kumi", ro: "Kumi", en: "Kumi" },
+    name: { de: "Kumi", hu: "Kumi", ro: "Kumi", en: "Kumi",
+image: "/poi-images/kumi-cities-v2.webp"
+},
     description: {
       de: "Kumi ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kumi egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1060,7 +1146,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-409",
     coords: [29.6833, -1.2833],
-    name: { de: "Kisoro", hu: "Kisoro", ro: "Kisoro", en: "Kisoro" },
+    name: { de: "Kisoro", hu: "Kisoro", ro: "Kisoro", en: "Kisoro",
+image: "/poi-images/kisoro-cities-v2.webp"
+},
     description: {
       de: "Kisoro ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kisoro egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1078,7 +1166,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-401",
     coords: [30.1833, -0.5333],
-    name: { de: "Bushenyi", hu: "Bushenyi", ro: "Bushenyi", en: "Bushenyi" },
+    name: { de: "Bushenyi", hu: "Bushenyi", ro: "Bushenyi", en: "Bushenyi",
+image: "/poi-images/bushenyi-cities-v2.webp"
+},
     description: {
       de: "Bushenyi ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Bushenyi egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1096,7 +1186,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-108",
     coords: [31.5167, -0.6333],
-    name: { de: "Kyotera", hu: "Kyotera", ro: "Kyotera", en: "Kyotera" },
+    name: { de: "Kyotera", hu: "Kyotera", ro: "Kyotera", en: "Kyotera",
+image: "/poi-images/kyotera-cities-v2.webp"
+},
     description: {
       de: "Kyotera ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kyotera egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1115,7 +1207,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-213",
     coords: [34.25, 1.2333],
-    name: { de: "Sironko", hu: "Sironko", ro: "Sironko", en: "Sironko" },
+    name: { de: "Sironko", hu: "Sironko", ro: "Sironko", en: "Sironko",
+image: "/poi-images/sironko-cities-v2.webp"
+},
     description: {
       de: "Sironko ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Sironko egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1134,7 +1228,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-416",
     coords: [30.3, -0.35],
-    name: { de: "Buhweju", hu: "Buhweju", ro: "Buhweju", en: "Buhweju" },
+    name: { de: "Buhweju", hu: "Buhweju", ro: "Buhweju", en: "Buhweju",
+image: "/poi-images/buhweju-cities-v2.webp"
+},
     description: {
       de: "Buhweju ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Buhweju egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1153,7 +1249,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-105",
     coords: [31.8667, -0.15],
-    name: { de: "Lukaya", hu: "Lukaya", ro: "Lukaya", en: "Lukaya" },
+    name: { de: "Lukaya", hu: "Lukaya", ro: "Lukaya", en: "Lukaya",
+image: "/poi-images/lukaya-cities-v2.webp"
+},
     description: {
       de: "Lukaya ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Lukaya egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1171,7 +1269,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-310",
     coords: [33.0833, 2.8667],
-    name: { de: "Pader", hu: "Pader", ro: "Pader", en: "Pader" },
+    name: { de: "Pader", hu: "Pader", ro: "Pader", en: "Pader",
+image: "/poi-images/pader-cities-v2.webp"
+},
     description: {
       de: "Pader ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Pader egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1189,7 +1289,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-315",
     coords: [32.5, 2.3833],
-    name: { de: "Oyam", hu: "Oyam", ro: "Oyam", en: "Oyam" },
+    name: { de: "Oyam", hu: "Oyam", ro: "Oyam", en: "Oyam",
+image: "/poi-images/oyam-cities-v2.webp"
+},
     description: {
       de: "Oyam ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Oyam egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1207,7 +1309,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-305",
     coords: [34.1333, 2.9833],
-    name: { de: "Kotido", hu: "Kotido", ro: "Kotido", en: "Kotido" },
+    name: { de: "Kotido", hu: "Kotido", ro: "Kotido", en: "Kotido",
+image: "/poi-images/kotido-cities-v2.webp"
+},
     description: {
       de: "Kotido ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kotido egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1225,7 +1329,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-306",
     coords: [34.6667, 2.5333],
-    name: { de: "Moroto", hu: "Moroto", ro: "Moroto", en: "Moroto" },
+    name: { de: "Moroto", hu: "Moroto", ro: "Moroto", en: "Moroto",
+image: "/poi-images/moroto-cities-v2.webp"
+},
     description: {
       de: "Moroto ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Moroto egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1243,7 +1349,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-401",
     coords: [30.0667, 0.7333],
-    name: { de: "Bundibugyo", hu: "Bundibugyo", ro: "Bundibugyo", en: "Bundibugyo" },
+    name: { de: "Bundibugyo", hu: "Bundibugyo", ro: "Bundibugyo", en: "Bundibugyo",
+image: "/poi-images/bundibugyo-cities-v2.webp"
+},
     description: {
       de: "Bundibugyo ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Bundibugyo egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1261,7 +1369,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-408",
     coords: [30.6333, 0.6167],
-    name: { de: "Kyenjojo", hu: "Kyenjojo", ro: "Kyenjojo", en: "Kyenjojo" },
+    name: { de: "Kyenjojo", hu: "Kyenjojo", ro: "Kyenjojo", en: "Kyenjojo",
+image: "/poi-images/kyenjojo-cities-v2.webp"
+},
     description: {
       de: "Kyenjojo ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kyenjojo egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1280,7 +1390,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-405",
     coords: [30.45, 0.1833],
-    name: { de: "Kamwenge", hu: "Kamwenge", ro: "Kamwenge", en: "Kamwenge" },
+    name: { de: "Kamwenge", hu: "Kamwenge", ro: "Kamwenge", en: "Kamwenge",
+image: "/poi-images/kamwenge-cities-v2.webp"
+},
     description: {
       de: "Kamwenge ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Kamwenge egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1299,7 +1411,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-209",
     coords: [33.4833, 0.4667],
-    name: { de: "Mayuge", hu: "Mayuge", ro: "Mayuge", en: "Mayuge" },
+    name: { de: "Mayuge", hu: "Mayuge", ro: "Mayuge", en: "Mayuge",
+image: "/poi-images/mayuge-cities-v2.webp"
+},
     description: {
       de: "Mayuge ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mayuge egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1318,7 +1432,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-103",
     coords: [32.5, 0.8333],
-    name: { de: "Luweero", hu: "Luweero", ro: "Luweero", en: "Luweero" },
+    name: { de: "Luweero", hu: "Luweero", ro: "Luweero", en: "Luweero",
+image: "/poi-images/luweero-cities-v2.webp"
+},
     description: {
       de: "Luweero ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Luweero egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1336,7 +1452,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-105",
     coords: [32.3333, 0.2333],
-    name: { de: "Mpigi", hu: "Mpigi", ro: "Mpigi", en: "Mpigi" },
+    name: { de: "Mpigi", hu: "Mpigi", ro: "Mpigi", en: "Mpigi",
+image: "/poi-images/mpigi-cities-v2.webp"
+},
     description: {
       de: "Mpigi ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Mpigi egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",
@@ -1354,7 +1472,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     type: "city",
     parent: "UG-313",
     coords: [30.9, 2.5167],
-    name: { de: "Zombo", hu: "Zombo", ro: "Zombo", en: "Zombo" },
+    name: { de: "Zombo", hu: "Zombo", ro: "Zombo", en: "Zombo",
+image: "/poi-images/zombo-cities-v2.webp"
+},
     description: {
       de: "Zombo ist eine bedeutende Stadt in Uganda, bekannt für ihre lebhafte Kultur und wirtschaftliche Bedeutung in der Region.",
       hu: "Zombo egy jelentős város Ugandában, amely pezsgő kultúrájáról és a régióban betöltött gazdasági szerepéről ismert.",

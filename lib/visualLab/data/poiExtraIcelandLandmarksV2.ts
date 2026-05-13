@@ -4,7 +4,9 @@ export const icelandLandmarksV2: POI[] = [
   {
     id: "iceland-hallgrimskirkja-landmarks-v2",
     type: "church",
-    name: { de: "Hallgrímskirkja", hu: "Hallgrímskirkja", ro: "Hallgrímskirkja", en: "Hallgrímskirkja" },
+    name: { de: "Hallgrímskirkja", hu: "Hallgrímskirkja", ro: "Hallgrímskirkja", en: "Hallgrímskirkja",
+image: "/poi-images/iceland-hallgrimskirkja-landmarks-v2.webp"
+},
     coords: [-21.9266, 64.1417],
     coordinates: { lat: 64.1417, lng: -21.9266 },
     description: {
@@ -19,11 +21,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construcția a durat din 1945 până în 1986", "Numită după poetul Hallgrímur Pétursson", "Găzduiește o orgă cu 5275 de tuburi", "Platforma de observare oferă o vedere panoramică"],
       en: ["Construction lasted from 1945 to 1986", "Named after the poet Hallgrímur Pétursson", "Houses a large pipe organ with 5,275 pipes", "Observation deck offers panoramic city views"],
     },
-    imageHint: "Hallgrimskirkja church in Reykjavik", image: "/poi-images/iceland-hallgrimskirkja-landmarks-v2.webp"},
-  {
+imageHint: "Hallgrimskirkja church in Reykjavik",
+    descriptionAdvanced: {
+      de: "Die Hallgrímskirkja ist das größte Kirchengebäude Islands und prägt mit ihrem 74,5 Meter hohen Turm das Stadtbild von Reykjavík. Ihr Entwurf ist von Basaltsäulen inspiriert.",
+      hu: "Reykjavík ikonikus evangélikus temploma, melynek 74,5 méteres tornya messziről látható. Guðjón Samúelsson építész a bazaltoszlopok formáját vette alapul a tervezéskor.",
+      ro: "Cea mai mare biserică din Islanda, cu un turn de 74,5 metri, domină panorama orașului Reykjavík. Designul său este inspirat de coloanele de bazalt specifice peisajului local.",
+      en: "This Lutheran parish church stands 74.5 meters tall, making it one of Iceland's tallest structures. Its unique facade mimics the volcanic basalt columns found in nature.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1945 bis 1986", "74,5 Meter Gesamthöhe", "Große Orgel mit 5275 Pfeifen", "Entwurf von Guðjón Samúelsson"],
+      hu: ["1945 és 1986 között épült", "Magassága 74,5 méter", "Orgona 5275 síppal rendelkezik", "Guðjón Samúelsson tervezte"],
+      ro: ["Construită între 1945 și 1986", "Înălțime totală de 74,5 metri", "Orgă masivă cu 5275 de tuburi", "Arhitect: Guðjón Samúelsson"],
+      en: ["Built between 1945 and 1986", "Total height of 74.5 meters", "Pipe organ with 5,275 pipes", "Designed by Guðjón Samúelsson"],
+    },
+    image: "/poi-images/iceland-hallgrimskirkja-landmarks-v2.webp",
+},  {
     id: "iceland-harpa-concert-hall-landmarks-v2",
     type: "theater",
-    name: { de: "Konzerthaus Harpa", hu: "Harpa hangversenyterem", ro: "Sala de concerte Harpa", en: "Harpa Concert Hall" },
+    name: { de: "Konzerthaus Harpa", hu: "Harpa hangversenyterem", ro: "Sala de concerte Harpa", en: "Harpa Concert Hall",
+image: "/poi-images/iceland-harpa-concert-hall-landmarks-v2.webp"
+},
     coords: [-21.9325, 64.1504],
     coordinates: { lat: 64.1504, lng: -21.9325 },
     description: {
@@ -38,11 +55,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Deschis oficial în anul 2011", "Sediul Orchestrei Simfonice Islandeze", "A câștigat Premiul Mies van der Rohe în 2013", "Inspirat de peisajele geologice ale Islandei"],
       en: ["Opened to the public in 2011", "Home to the Iceland Symphony Orchestra", "Won the Mies van der Rohe Award in 2013", "Inspired by Icelandic basalt landscapes"],
     },
-    imageHint: "Harpa Concert Hall Reykjavik at night", image: "/poi-images/iceland-harpa-concert-hall-landmarks-v2.webp"},
-  {
+imageHint: "Harpa Concert Hall Reykjavik at night",
+    descriptionAdvanced: {
+      de: "Harpa ist ein modernes Konzerthaus im Hafen von Reykjavík, bekannt für seine schillernde Glasfassade. Es beherbergt das Isländische Sinfonieorchester und die Oper.",
+      hu: "Reykjavík modern hangversenyterme és konferenciaközpontja az öreg kikötőben. Különleges üveghomlokzata a fényviszonyoktól függően folyamatosan változtatja színét.",
+      ro: "Această sală de concerte modernă din portul Reykjavík se remarcă prin fațada sa din sticlă colorată. Găzduiește Simfonia Islandeză și Opera Națională.",
+      en: "Harpa is a concert hall and conference center featuring a distinctive honeycomb glass facade. It serves as the home for the Iceland Symphony Orchestra and the Opera.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Mai 2011", "Mies van der Rohe Preis 2013", "Glaspaneele von Olafur Eliasson", "28.000 Quadratmeter Fläche"],
+      hu: ["2011 májusában nyílt meg", "2013-as Mies van der Rohe-díj", "Üvegfal: Olafur Eliasson műve", "28 000 négyzetméteres terület"],
+      ro: ["Deschisă în mai 2011", "Premiul Mies van der Rohe 2013", "Panouri de Olafur Eliasson", "Suprafață de 28.000 m²"],
+      en: ["Opened in May 2011", "Mies van der Rohe Award 2013", "Glass facade by Olafur Eliasson", "28,000 square meters area"],
+    },
+    image: "/poi-images/iceland-harpa-concert-hall-landmarks-v2.webp",
+},  {
     id: "iceland-sun-voyager-landmarks-v2",
     type: "monument",
-    name: { de: "Sonnenschiff Sólfar", hu: "Naputazó szobor", ro: "Călătorul Soarelui", en: "Sun Voyager" },
+    name: { de: "Sonnenschiff Sólfar", hu: "Naputazó szobor", ro: "Călătorul Soarelui", en: "Sun Voyager",
+image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp"
+},
     coords: [-21.9223, 64.1476],
     coordinates: { lat: 64.1476, lng: -21.9223 },
     description: {
@@ -57,11 +89,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Dezvelită oficial în anul 1990", "Realizată din oțel inoxidabil lucios", "Situată pe faleza Sæbraut din Reykjavík", "Adesea confundată cu o navă vikingă"],
       en: ["Unveiled in 1990 on the city's 200th anniversary", "Made of polished stainless steel", "Located on the Sæbraut seaside promenade", "Often mistaken for a Viking ship"],
     },
-    imageHint: "Sun Voyager sculpture Reykjavik", image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp"},
-  {
+imageHint: "Sun Voyager sculpture Reykjavik",
+    descriptionAdvanced: {
+      de: "Sólfar ist eine Edelstahlskulptur am Ufer von Reykjavík, die an ein Wikingerschiff erinnert. Sie symbolisiert das Versprechen von unentdecktem Territorium und Fortschritt.",
+      hu: "Reykjavík tengerparti sétányán álló rozsdamentes acélszobor, amely egy stilizált viking hajóra emlékeztet. A reményt és a felfedezés vágyát jelképezi.",
+      ro: "O sculptură din oțel inoxidabil situată pe malul mării în Reykjavík, asemănătoare unei nave vikinge. Simbolizează promisiunea teritoriului nedescoperit.",
+      en: "Sólfar is a stainless steel sculpture located on Reykjavík's waterfront. It represents a dream boat and an ode to the sun, evoking the spirit of discovery and hope.",
+    },
+    factsAdvanced: {
+      de: ["Künstler: Jón Gunnar Árnason", "Einweihung im August 1990", "Gefertigt aus Edelstahl", "Standort am Sæbraut-Ufer"],
+      hu: ["Alkotó: Jón Gunnar Árnason", "1990 augusztusában avatták fel", "Anyaga rozsdamentes acél", "Helyszín: Sæbraut sétány"],
+      ro: ["Artist: Jón Gunnar Árnason", "Inaugurată în august 1990", "Realizată din oțel inoxidabil", "Locație: promenada Sæbraut"],
+      en: ["Artist: Jón Gunnar Árnason", "Unveiled in August 1990", "Made of stainless steel", "Located on Sæbraut shore"],
+    },
+    image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp",
+},  {
     id: "iceland-perlan-landmarks-v2",
     type: "museum",
-    name: { de: "Perlan", hu: "Perlan", ro: "Perlan", en: "Perlan" },
+    name: { de: "Perlan", hu: "Perlan", ro: "Perlan", en: "Perlan",
+image: "/poi-images/iceland-perlan-landmarks-v2.webp"
+},
     coords: [-21.9189, 64.1294],
     coordinates: { lat: 64.1294, lng: -21.9189 },
     description: {
@@ -76,11 +123,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Găzduiește o peșteră de gheață artificială", "Dispune de un restaurant rotativ", "Cupola de sticlă oferă o vedere de 360 de grade", "Include un planetariu modern"],
       en: ["Houses a man-made indoor ice cave", "Features a revolving restaurant at the top", "The glass dome offers a 360-degree view", "Includes a state-of-the-art planetarium"],
     },
-    imageHint: "Perlan building Reykjavik dome", image: "/poi-images/iceland-perlan-landmarks-v2.webp"},
-  {
+imageHint: "Perlan building Reykjavik dome",
+    descriptionAdvanced: {
+      de: "Perlan ist ein markantes Gebäude auf dem Öskjuhlíð-Hügel, das auf sechs riesigen Warmwasserspeichern errichtet wurde. Es beherbergt heute ein Naturmuseum und ein Planetarium.",
+      hu: "Az Öskjuhlíð-dombon álló üvegkupolás épület, amely hat hatalmas melegvíz-tartályra épült. Ma interaktív természetrajzi múzeumnak és kilátónak ad otthont.",
+      ro: "Clădire situată pe dealul Öskjuhlíð, construită deasupra a șase rezervoare de apă caldă. Include un muzeu al naturii, un planetariu și o platformă de observație.",
+      en: "Perlan is a landmark building situated on Öskjuhlíð hill, topped by a glass dome. It features a nature museum with an indoor ice cave and a rotating restaurant.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1991", "Höhe des Gebäudes: 25,7 Meter", "Speicherkapazität: 24 Mio. Liter", "Drehrestaurant in der Kuppel"],
+      hu: ["1991-ben épült", "Az épület magassága 25,7 méter", "24 millió liter víz tárolása", "Forgó étterem a kupolában"],
+      ro: ["Anul construcției: 1991", "Înălțime: 25,7 metri", "Capacitate: 24 milioane litri", "Restaurant rotativ în cupolă"],
+      en: ["Constructed in 1991", "Building height: 25.7 meters", "24 million liters of water storage", "Rotating restaurant in the dome"],
+    },
+    image: "/poi-images/iceland-perlan-landmarks-v2.webp",
+},  {
     id: "iceland-national-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Isländisches Nationalmuseum", hu: "Izlandi Nemzeti Múzeum", ro: "Muzeul Național al Islandei", en: "National Museum of Iceland" },
+    name: { de: "Isländisches Nationalmuseum", hu: "Izlandi Nemzeti Múzeum", ro: "Muzeul Național al Islandei", en: "National Museum of Iceland",
+image: "/poi-images/iceland-national-museum-landmarks-v2.webp"
+},
     coords: [-21.9472, 64.142],
     coordinates: { lat: 64.142, lng: -21.9472 },
     description: {
@@ -95,11 +157,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Înființat în anul 1863", "Situat lângă Universitatea Islandei", "Piesa principală este ușa de la Valthjófsstadur", "Colecție vastă de artefacte vikinge"],
       en: ["Established in 1863", "Located near the University of Iceland", "The Valthjófsstadur door is a key exhibit", "Extensive collection of Viking Age artifacts"],
     },
-    imageHint: "National Museum of Iceland building", image: "/poi-images/iceland-national-museum-landmarks-v2.webp"},
-  {
+imageHint: "National Museum of Iceland building",
+    descriptionAdvanced: {
+      de: "Das Nationalmuseum bietet einen umfassenden Überblick über die isländische Geschichte von der Besiedlung bis heute. Es bewahrt wertvolle Artefakte wie die Valthjofsstadur-Tür.",
+      hu: "Az izlandi nemzeti örökséget bemutató múzeum, amely a honfoglalástól napjainkig követi nyomon a sziget történelmét. Legfontosabb kincse a középkori faragott ajtó.",
+      ro: "Muzeul Național oferă o perspectivă asupra istoriei Islandei, de la colonizare până în prezent. Deține artefacte valoroase, cum ar fi ușa Valthjofsstadur.",
+      en: "This museum provides a deep dive into Icelandic history, housing artifacts from the Viking Age to modern times. Its collection includes over 2,000 historical objects.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1863", "Befindet sich nahe der Universität", "Schatz: Valthjofsstadur-Tür", "Dauerausstellung: Making of a Nation"],
+      hu: ["Alapítva: 1863-ban", "Az egyetem mellett található", "Fő kincs: Valthjofsstadur-ajtó", "Állandó tárlat: Egy nemzet születése"],
+      ro: ["Fondat în anul 1863", "Situat lângă Universitate", "Comoară: ușa Valthjofsstadur", "Expoziție: Making of a Nation"],
+      en: ["Founded in 1863", "Located near the University", "Treasure: Valthjofsstadur door", "Main show: Making of a Nation"],
+    },
+    image: "/poi-images/iceland-national-museum-landmarks-v2.webp",
+},  {
     id: "iceland-reykjavik-city-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Rathaus von Reykjavík", hu: "Reykjavíki városháza", ro: "Primăria din Reykjavík", en: "Reykjavík City Hall" },
+    name: { de: "Rathaus von Reykjavík", hu: "Reykjavíki városháza", ro: "Primăria din Reykjavík", en: "Reykjavík City Hall",
+image: "/poi-images/iceland-reykjavik-city-hall-landmarks-v2.webp"
+},
     coords: [-21.9421, 64.1462],
     coordinates: { lat: 64.1462, lng: -21.9421 },
     description: {
@@ -114,11 +191,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Proiectată de Studio Granda", "Găzduiește o hartă 3D uriașă a Islandei", "Construită parțial direct în lacul Tjörnin", "Locație frecventă pentru expoziții culturale"],
       en: ["Designed by Studio Granda architects", "Houses a giant 3D relief map of Iceland", "Built partially inside Lake Tjörnin", "Popular venue for art exhibitions"],
     },
-    imageHint: "Reykjavik City Hall lake Tjornin", image: "/poi-images/iceland-reykjavik-city-hall-landmarks-v2.webp"},
-  {
+imageHint: "Reykjavik City Hall lake Tjornin",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Reykjavík am Tjörnin-See besticht durch moderne Architektur. Im Inneren befindet sich ein beeindruckendes topografisches 3D-Modell von ganz Island.",
+      hu: "A Tjörnin-tó partján álló modern épület Reykjavík közigazgatási központja. Az aulájában látható Izland hatalmas, részletes domborzati makettje.",
+      ro: "Primăria din Reykjavík, situată pe malul lacului Tjörnin, are o arhitectură modernă. Găzduiește o machetă topografică 3D impresionantă a întregii Islande.",
+      en: "Reykjavík's City Hall is a modern structure partially submerged in Lake Tjörnin. It is famous for housing a large-scale 3D relief map of the entire country.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1992", "Architekten: Studio Granda", "Ausstellungsraum für Kunst", "Große Reliefkarte von Island"],
+      hu: ["1992-ben készült el", "Tervező: Studio Granda", "Művészeti kiállítóhely", "Hatalmas Izland-dombormű"],
+      ro: ["Anul construcției: 1992", "Arhitecți: Studio Granda", "Spațiu pentru expoziții de artă", "Hartă în relief a Islandei"],
+      en: ["Built in 1992", "Architects: Studio Granda", "Art exhibition space included", "Large relief map of Iceland"],
+    },
+    image: "/poi-images/iceland-reykjavik-city-hall-landmarks-v2.webp",
+},  {
     id: "iceland-hofdi-house-landmarks-v2",
     type: "landmark",
-    name: { de: "Höfði-Haus", hu: "Höfði-ház", ro: "Casa Höfði", en: "Höfði House" },
+    name: { de: "Höfði-Haus", hu: "Höfði-ház", ro: "Casa Höfði", en: "Höfði House",
+image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp"
+},
     coords: [-21.9064, 64.1465],
     coordinates: { lat: 64.1465, lng: -21.9064 },
     description: {
@@ -133,11 +225,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Inițial sediul consulului francez", "Considerată de unii a fi bântuită", "Importată ca o casă prefabricată din Norvegia", "Situată pe linia de coastă a orașului"],
       en: ["Originally the French consul's residence", "Reputed to be haunted according to local lore", "Imported as a prefabricated kit from Norway", "Located on the waterfront of Reykjavík"],
     },
-    imageHint: "Hofdi House Reykjavik summit", image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp"},
-  {
+imageHint: "Hofdi House Reykjavik summit",
+    descriptionAdvanced: {
+      de: "Höfði ist ein historisches Haus am Meer, das durch das Gipfeltreffen zwischen Reagan und Gorbatschow 1986 Weltruhm erlangte. Es markierte den Anfang vom Ende des Kalten Krieges.",
+      hu: "Történelmi kúria Reykjavík partján, amely az 1986-os Reagan-Gorbacsov csúcstalálkozó helyszíneként vált ismertté. Itt tettek fontos lépést a hidegháború lezárása felé.",
+      ro: "Această casă istorică a devenit celebră la nivel mondial pentru summitul Reagan-Gorbaciov din 1986. A marcat începutul sfârșitului Războiului Rece.",
+      en: "Höfði House gained global recognition for hosting the 1986 summit between Reagan and Gorbachev. It is often cited as the site where the Cold War began to end.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1909", "Treffen am 11./12. Oktober 1986", "Früher britische Botschaft", "Holzhaus im Jugendstil"],
+      hu: ["1909-ben épült", "Csúcstalálkozó: 1986. okt. 11-12.", "Egykor brit nagykövetség volt", "Szecessziós stílusú faház"],
+      ro: ["Construită în 1909", "Summit: 11-12 octombrie 1986", "Fosta ambasadă a Marii Britanii", "Casă din lemn în stil Art Nouveau"],
+      en: ["Built in 1909", "Summit held Oct 11-12, 1986", "Former British Embassy site", "Art Nouveau style wooden house"],
+    },
+    image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp",
+},  {
     id: "iceland-skalholt-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Skálholt", hu: "Skálholti székesegyház", ro: "Catedrala din Skálholt", en: "Skálholt Cathedral" },
+    name: { de: "Kathedrale von Skálholt", hu: "Skálholti székesegyház", ro: "Catedrala din Skálholt", en: "Skálholt Cathedral",
+image: "/poi-images/iceland-skalholt-cathedral-landmarks-v2.webp"
+},
     coords: [-20.5258, 64.1167],
     coordinates: { lat: 64.1167, lng: -20.5258 },
     description: {
@@ -152,11 +259,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Sediul primului episcop islandez din 1056", "Adăpostește vitralii moderne valoroase", "Sub biserică se află cripte vechi", "Centru istoric major al Reformei în Islanda"],
       en: ["Seat of the first bishop of Iceland in 1056", "Features valuable modern stained glass art", "Historical crypts are located beneath the church", "Major historical site of the Reformation"],
     },
-    imageHint: "Skalholt Cathedral Iceland", image: "/poi-images/iceland-skalholt-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Skalholt Cathedral Iceland",
+    descriptionAdvanced: {
+      de: "Skálholt war über Jahrhunderte das religiöse und kulturelle Zentrum Islands. Die heutige Kathedrale wurde 1963 geweiht und bewahrt die Geschichte der Bischöfe des Landes.",
+      hu: "Évszázadokon át Izland vallási és kulturális központja volt, püspöki székhelyként. A jelenlegi templom 1963-ban épült a korábbi dómok helyén.",
+      ro: "Timp de secole, Skálholt a fost centrul religios și cultural al Islandei. Actuala catedrală, sfințită în 1963, păstrează moștenirea vechilor episcopi.",
+      en: "For centuries, Skálholt served as Iceland's most important religious and educational center. The modern cathedral was consecrated in 1963 on historical ground.",
+    },
+    factsAdvanced: {
+      de: ["Bischofssitz seit 1056", "Heutige Kirche geweiht 1963", "Glasfenster von Gerður Helgadóttir", "Historische Ausgrabungen vor Ort"],
+      hu: ["Püspöki székhely 1056-tól", "Mai templom avatása: 1963", "Gerður Helgadóttir üvegablakai", "Helyszíni régészeti ásatások"],
+      ro: ["Sediu episcopal din 1056", "Catedrală sfințită în 1963", "Vitralii de Gerður Helgadóttir", "Săpături arheologice la fața locului"],
+      en: ["Bishops' seat since 1056", "Current church opened in 1963", "Stained glass by Gerður Helgadóttir", "Ongoing archaeological excavations"],
+    },
+    image: "/poi-images/iceland-skalholt-cathedral-landmarks-v2.webp",
+},  {
     id: "iceland-akureyrarkirkja-landmarks-v2",
     type: "church",
-    name: { de: "Akureyrarkirkja", hu: "Akureyrarkirkja", ro: "Akureyrarkirkja", en: "Akureyrarkirkja" },
+    name: { de: "Akureyrarkirkja", hu: "Akureyrarkirkja", ro: "Akureyrarkirkja", en: "Akureyrarkirkja",
+image: "/poi-images/iceland-akureyrarkirkja-landmarks-v2.webp"
+},
     coords: [-18.0911, 65.6797],
     coordinates: { lat: 65.6797, lng: -18.0911 },
     description: {
@@ -171,11 +293,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Sfințită oficial în anul 1940", "Deține o orgă cu 3200 de tuburi", "Unele vitralii provin de la Catedrala Coventry", "Inspirată de formele naturale ale Islandei"],
       en: ["Consecrated in the year 1940", "Features a large organ with 3,200 pipes", "Stained glass pieces from Coventry Cathedral", "Design inspired by Icelandic geology"],
     },
-    imageHint: "Akureyrarkirkja church Akureyri", image: "/poi-images/iceland-akureyrarkirkja-landmarks-v2.webp"},
-  {
+imageHint: "Akureyrarkirkja church Akureyri",
+    descriptionAdvanced: {
+      de: "Die Akureyrarkirkja thront auf einem Hügel über der Stadt Akureyri. Ihr markantes Design mit zwei Türmen erinnert an die Basaltsäulen der isländischen Landschaft.",
+      hu: "Akureyri városának jelképe, amely egy dombtetőn áll. A modern stílusú templom Guðjón Samúelsson alkotása, aki az izlandi bazaltformákat ötvözte az építészetben.",
+      ro: "Situată pe un deal deasupra orașului Akureyri, această biserică are un design modern. Cele două turnuri sunt inspirate de peisajul vulcanic al Islandei.",
+      en: "Perched on a hill overlooking Akureyri, this Lutheran church is a masterpiece of modern architecture. It features bas-reliefs and a unique central organ.",
+    },
+    factsAdvanced: {
+      de: ["Geweiht im Jahr 1940", "Architekt: Guðjón Samúelsson", "3200 Pfeifen in der Orgel", "Basaltsäulen-Architektur"],
+      hu: ["1940-ben szentelték fel", "Tervező: Guðjón Samúelsson", "Orgona 3200 síppal", "Bazaltoszlop ihlette forma"],
+      ro: ["Sfințită în anul 1940", "Arhitect: Guðjón Samúelsson", "Orgă cu 3200 de tuburi", "Inspirată de coloane de bazalt"],
+      en: ["Consecrated in 1940", "Architect: Guðjón Samúelsson", "Organ with 3,200 pipes", "Basalt column design style"],
+    },
+    image: "/poi-images/iceland-akureyrarkirkja-landmarks-v2.webp",
+},  {
     id: "iceland-husavikurkirkja-landmarks-v2",
     type: "church",
-    name: { de: "Kirche von Húsavík", hu: "Húsavíki templom", ro: "Biserica din Húsavík", en: "Húsavík Church" },
+    name: { de: "Kirche von Húsavík", hu: "Húsavíki templom", ro: "Biserica din Húsavík", en: "Húsavík Church",
+image: "/poi-images/iceland-husavikurkirkja-landmarks-v2.webp"
+},
     coords: [-17.3396, 66.0461],
     coordinates: { lat: 66.0461, lng: -17.3396 },
     description: {
@@ -190,11 +327,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită în anul 1907", "Lemnul a fost importat din Norvegia", "Are un plan în formă de cruce", "Situată chiar lângă portul din Húsavík"],
       en: ["Built in the year 1907", "The timber was imported from Norway", "Constructed in a cross-shaped plan", "Located right by the harbor in Húsavík"],
     },
-    imageHint: "Husavikurkirkja wooden church Iceland", image: "/poi-images/iceland-husavikurkirkja-landmarks-v2.webp"},
-  {
+imageHint: "Husavikurkirkja wooden church Iceland",
+    descriptionAdvanced: {
+      de: "Diese hölzerne Kreuzkirche in Húsavík gilt als eine der schönsten Kirchen Islands. Sie wurde aus norwegischem Holz erbaut und 1907 vom lokalen Baumeister Rögnvaldur Ólafsson fertiggestellt.",
+      hu: "Húsavík festői fatemploma norvég fából készült kereszt alaprajzzal. Az 1907-ben felszentelt épület Izland egyik legkarakteresebb és legszebb szakrális építménye.",
+      ro: "Această biserică din lemn din Húsavík este considerată una dintre cele mai frumoase din țară. A fost construită în 1907 folosind lemn adus din Norvegia.",
+      en: "This distinctive wooden church in Húsavík was built in 1907 in a Swiss chalet style. Its red roof and white walls make it a prominent landmark in the harbor town.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1907", "Material: Norwegisches Holz", "Architekt: Rögnvaldur Ólafsson", "Sitzplätze für ca. 250 Personen"],
+      hu: ["1907-ben épült", "Anyaga: norvég fenyő", "Tervező: Rögnvaldur Ólafsson", "Befogadóképesség: 250 fő"],
+      ro: ["Anul construcției: 1907", "Material: lemn norvegian", "Arhitect: Rögnvaldur Ólafsson", "Capacitate: aproximativ 250 locuri"],
+      en: ["Built in 1907", "Made from Norwegian wood", "Architect: Rögnvaldur Ólafsson", "Seating for approx. 250 people"],
+    },
+    image: "/poi-images/iceland-husavikurkirkja-landmarks-v2.webp",
+},  {
     id: "iceland-seydisfjardarkirkja-landmarks-v2",
     type: "church",
-    name: { de: "Blaue Kirche von Seyðisfjörður", hu: "Seyðisfjörðuri kék templom", ro: "Biserica Albastră din Seyðisfjörður", en: "Seyðisfjörður Blue Church" },
+    name: { de: "Blaue Kirche von Seyðisfjörður", hu: "Seyðisfjörðuri kék templom", ro: "Biserica Albastră din Seyðisfjörður", en: "Seyðisfjörður Blue Church",
+image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp"
+},
     coords: [-13.9984, 65.2633],
     coordinates: { lat: 65.2633, lng: -13.9984 },
     description: {
@@ -209,11 +361,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Cunoscută pentru concertele de vară", "Construită inițial într-o altă locație", "Mutată pe locul actual în 1922", "Oferă o acustică excelentă"],
       en: ["Well known for its summer concert series", "Originally built at a different location", "Moved to its current site in 1922", "Renowned for its excellent acoustics"],
     },
-    imageHint: "Blue Church Seydisfjordur rainbow path", image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp"},
-  {
+imageHint: "Blue Church Seydisfjordur rainbow path",
+    descriptionAdvanced: {
+      de: "Die hellblaue Kirche von Seyðisfjörður ist weltbekannt für ihren bunten Regenbogenweg. Das Gebäude wurde ursprünglich an einem anderen Ort errichtet und 1922 hierher versetzt.",
+      hu: "Seyðisfjörður égszínkék fatemploma a hozzá vezető szivárványos úttal Izland egyik legtöbbet fotózott helyszíne. Az épületet 1922-ben helyezték át jelenlegi helyére.",
+      ro: "Biserica albastră din Seyðisfjörður este faimoasă pentru drumul curcubeu care duce spre ea. Clădirea a fost mutată pe actualul amplasament în anul 1922.",
+      en: "The light blue church of Seyðisfjörður is famous for the rainbow-colored path leading to its doors. Originally built elsewhere, it was moved here in 1922.",
+    },
+    factsAdvanced: {
+      de: ["Hierher versetzt im Jahr 1922", "Berühmter Regenbogen-Gehweg", "Stil: Romantische Holzarchitektur", "Regelmäßige Sommerkonzerte"],
+      hu: ["1922-ben került ide", "Híres szivárványos járda", "Stílus: romantikus faépítészet", "Rendszeres nyári koncertek"],
+      ro: ["Mutată în locație în 1922", "Piatra curcubeu celebră", "Stil: arhitectură romantică din lemn", "Concerte regulate de vară"],
+      en: ["Moved to current site in 1922", "Iconic rainbow-painted path", "Style: Romantic wood architecture", "Hosts summer concert series"],
+    },
+    image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp",
+},  {
     id: "iceland-budakirkja-landmarks-v2",
     type: "church",
-    name: { de: "Búðakirkja", hu: "Búðakirkja", ro: "Búðakirkja", en: "Búðakirkja" },
+    name: { de: "Búðakirkja", hu: "Búðakirkja", ro: "Búðakirkja", en: "Búðakirkja",
+image: "/poi-images/iceland-budakirkja-landmarks-v2.webp"
+},
     coords: [-23.3846, 64.8217],
     coordinates: { lat: 64.8217, lng: -23.3846 },
     description: {
@@ -228,11 +395,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită inițial în anul 1848", "Culoarea neagră provine de la smoală", "Reconstruită fidel în anul 1987", "Locație populară pentru nunți"],
       en: ["Original building dates to 1848", "Black color comes from pitch for protection", "Fully reconstructed in 1987", "A very popular location for weddings"],
     },
-    imageHint: "Budakirkja black church Iceland", image: "/poi-images/iceland-budakirkja-landmarks-v2.webp"},
-  {
+imageHint: "Budakirkja black church Iceland",
+    descriptionAdvanced: {
+      de: "Die kleine schwarze Holzkirche von Búðir steht einsam in einem Lavafeld auf der Halbinsel Snæfellsnes. Ihre dunkle Farbe erhält sie durch den Anstrich mit Pech.",
+      hu: "Búðir apró fekete fatemploma a Snæfellsnes-félsziget egyik legikonikusabb látványa. A lávamezők szélén álló épület különleges színét a kátrányos festésnek köszönheti.",
+      ro: "Această mică biserică neagră din lemn este situată într-un câmp de lavă pe peninsula Snæfellsnes. Culoarea sa distinctivă provine din tratarea lemnului cu smoală.",
+      en: "The iconic black church of Búðir stands isolated in a lava field on the Snæfellsnes Peninsula. Its striking dark exterior is achieved by painting the wood with pitch.",
+    },
+    factsAdvanced: {
+      de: ["Wiederaufgebaut im Jahr 1848", "Farbe durch Teer/Pech", "Befindet sich in Búðahraun", "Historisches Denkmal seit 1987"],
+      hu: ["1848-ban épült újjá", "Színe: kátrányos bevonat", "A Búðahraun lávamezőn áll", "Műemlék 1987 óta"],
+      ro: ["Reconstruită în anul 1848", "Culoare: tratată cu smoală", "Situată în câmpul de lavă Búðahraun", "Monument istoric din 1987"],
+      en: ["Rebuilt in 1848", "Painted with protective pitch", "Located in Búðahraun lava field", "Listed monument since 1987"],
+    },
+    image: "/poi-images/iceland-budakirkja-landmarks-v2.webp",
+},  {
     id: "iceland-vikurkirkja-landmarks-v2",
     type: "church",
-    name: { de: "Víkurkirkja", hu: "Víkurkirkja", ro: "Víkurkirkja", en: "Víkurkirkja" },
+    name: { de: "Víkurkirkja", hu: "Víkurkirkja", ro: "Víkurkirkja", en: "Víkurkirkja",
+image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp"
+},
     coords: [-19.0069, 63.4195],
     coordinates: { lat: 63.4195, lng: -19.0069 },
     description: {
@@ -247,11 +429,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită în anul 1934", "Considerată cel mai sigur loc în caz de erupție", "Centru oficial de evacuare pentru sat", "Oferă vederi spre coasta de sud a Islandei"],
       en: ["Built in the year 1934", "Regarded as the safest spot during a Katla eruption", "Official evacuation center for the village", "Offers views of the South Coast stacks"],
     },
-    imageHint: "Vik church red roof Iceland", image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp"},
-  {
+imageHint: "Vik church red roof Iceland",
+    descriptionAdvanced: {
+      de: "Die Kirche von Vík í Mýrdal thront auf einem Hügel über dem Dorf. Sie gilt als sicherer Zufluchtsort für die Bewohner im Falle eines Ausbruchs des Vulkans Katla.",
+      hu: "Vík í Mýrdal temploma a falu feletti dombon áll, fehér falaival és piros tetőjével. Ez a kijelölt gyülekezőhely a lakosság számára a Katla vulkán kitörése esetén.",
+      ro: "Biserica din Vík í Mýrdal domină satul de pe un deal. Este considerată locul de refugiu pentru locuitori în cazul unei erupții a vulcanului Katla.",
+      en: "Perched on a hill, the church of Vík í Mýrdal offers panoramic views of the coast. It is the designated safe zone for residents in case of a Katla volcano eruption.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1934", "Sicherer Ort bei Vulkanausbruch", "Blick auf Reynisdrangar", "Typisch isländisches Design"],
+      hu: ["1934-ben épült", "Menedékhely vulkánkitöréskor", "Kilátás a Reynisdrangarra", "Tipikus izlandi templomstílus"],
+      ro: ["Anul construcției: 1934", "Refugiu în caz de erupție", "Vedere spre Reynisdrangar", "Design tipic islandez"],
+      en: ["Built in 1934", "Safe haven for volcanic emergencies", "View of Reynisdrangar stacks", "Classic Icelandic church style"],
+    },
+    image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp",
+},  {
     id: "iceland-glaumbaer-farm-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Torfgof Glaumbær", hu: "Glaumbær skanzen", ro: "Ferma Glaumbær", en: "Glaumbær Farm Museum" },
+    name: { de: "Torfgof Glaumbær", hu: "Glaumbær skanzen", ro: "Ferma Glaumbær", en: "Glaumbær Farm Museum",
+image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp"
+},
     coords: [-19.5042, 65.6111],
     coordinates: { lat: 65.6111, lng: -19.5042 },
     description: {
@@ -266,11 +463,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Locul este menționat în saga islandeze", "Clădirile actuale datează din 1750-1879", "Cuprinde un total de 13 clădiri", "Parte a rețelei Muzeului Național al Islandei"],
       en: ["The site is mentioned in Icelandic sagas", "Current buildings date from 1750 to 1879", "Consists of a total of 13 separate buildings", "Managed by the National Museum of Iceland"],
     },
-    imageHint: "Glaumbaer turf farm museum Iceland", image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp"},
-  {
+imageHint: "Glaumbaer turf farm museum Iceland",
+    descriptionAdvanced: {
+      de: "Glaumbær ist ein hervorragend erhaltenes Beispiel für traditionelle isländische Torfhäuser. Die Anlage besteht aus mehreren miteinander verbundenen Gebäuden aus dem 18. Jahrhundert.",
+      hu: "Glaumbær egy kiváló állapotban fennmaradt gyeptéglás tanya, amely az izlandi paraszti életet mutatja be. Az épületegyüttes nagy része a 18. és 19. századból származik.",
+      ro: "Glaumbær este un exemplu conservat de ferme tradiționale islandeze din turbă. Complexul cuprinde mai multe clădiri interconectate, datând din secolul al XVIII-lea.",
+      en: "Glaumbær is a well-preserved turf farm that offers insight into 18th and 19th-century Icelandic life. It consists of interconnected houses built with thick turf walls.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 18. und 19. Jh.", "Material: Torf, Rasen, Holz", "Museum seit 1952", "13 einzelne Gebäudeabschnitte"],
+      hu: ["18-19. századi épületek", "Anyaga: gyeptégla, tőzeg, fa", "Múzeum 1952 óta", "13 különálló épületrész"],
+      ro: ["Datare: sec. XVIII-XIX", "Material: turbă și lemn", "Muzeu din anul 1952", "13 secțiuni de clădiri distincte"],
+      en: ["Dated to 18th-19th centuries", "Materials: turf, sod, and wood", "Museum since 1952", "Features 13 individual buildings"],
+    },
+    image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp",
+},  {
     id: "iceland-laufas-turf-house-landmarks-v2",
     type: "museum",
-    name: { de: "Torfgof Laufás", hu: "Laufás gyeptéglás házak", ro: "Casa din turbă Laufás", en: "Laufás Turf House" },
+    name: { de: "Torfgof Laufás", hu: "Laufás gyeptéglás házak", ro: "Casa din turbă Laufás", en: "Laufás Turf House",
+image: "/poi-images/iceland-laufas-turf-house-landmarks-v2.webp"
+},
     coords: [-18.0722, 65.8944],
     coordinates: { lat: 65.8944, lng: -18.0722 },
     description: {
@@ -285,11 +497,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Locuit încă din perioada colonizării", "Putea găzdui până la 30 de persoane", "Biserica adiacentă a fost construită în 1865", "Situată pe malul fiordului Eyjafjörður"],
       en: ["Inhabited since the settlement of Iceland", "Could house up to 30 people at once", "The adjacent church dates to 1865", "Located on the banks of Eyjafjörður fjord"],
     },
-    imageHint: "Laufas turf house museum Iceland", image: "/poi-images/iceland-laufas-turf-house-landmarks-v2.webp"},
-  {
+imageHint: "Laufas turf house museum Iceland",
+    descriptionAdvanced: {
+      de: "Laufás ist ein historischer Pfarrhof mit Torfhäusern im Norden Islands. Die heutige Anlage stammt größtenteils aus dem 19. Jahrhundert und zeigt das Leben wohlhabender Isländer.",
+      hu: "Észak-Izland egyik legszebb gyeptéglás tanyája és egykori parókiája. A jelenlegi épületek a 19. századból származnak, bemutatva a korabeli tehetős réteg életmódját.",
+      ro: "Laufás este o fermă istorică din turbă situată în nordul Islandei. Majoritatea structurilor actuale datează din secolul al XIX-lea și reflectă viața prosperă de atunci.",
+      en: "Laufás is a historic manor and turf house in North Iceland. The current buildings date mostly to the 19th century and once housed a wealthy vicarage.",
+    },
+    factsAdvanced: {
+      de: ["Erwähnung seit der Besiedlung", "Heutige Häuser von ca. 1840", "Beherbergte bis zu 30 Personen", "Gehört zum Nationalmuseum"],
+      hu: ["A honfoglalás óta lakott hely", "Mai épületek kb. 1840-ből", "Akár 30 ember is élt itt", "A Nemzeti Múzeum része"],
+      ro: ["Menționată din timpul colonizării", "Case actuale din cca. 1840", "Găzduia până la 30 de persoane", "Parte a Muzeului Național"],
+      en: ["Settlement era origin", "Current houses from approx. 1840", "Housed up to 30 people", "Part of the National Museum"],
+    },
+    image: "/poi-images/iceland-laufas-turf-house-landmarks-v2.webp",
+},  {
     id: "iceland-settlement-exhibition-landmarks-v2",
     type: "museum",
-    name: { de: "Siedlungsausstellung Reykjavík 871±2", hu: "Reykjavíki honfoglalás-kiállítás", ro: "Expoziția Colonizării Reykjavík", en: "The Settlement Exhibition" },
+    name: { de: "Siedlungsausstellung Reykjavík 871±2", hu: "Reykjavíki honfoglalás-kiállítás", ro: "Expoziția Colonizării Reykjavík", en: "The Settlement Exhibition",
+image: "/poi-images/iceland-settlement-exhibition-landmarks-v2.webp"
+},
     coords: [-21.9426, 64.1472],
     coordinates: { lat: 64.1472, lng: -21.9426 },
     description: {
@@ -304,11 +531,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Ruinele au fost descoperite în 2001", "Datarea se bazează pe straturi de tephra", "Include stații multimedia interactive", "Situată în cea mai veche parte a orașului"],
       en: ["Ruins were discovered during construction in 2001", "Dating is based on volcanic tephra layers", "Features interactive multimedia technology", "Located in the oldest part of the city"],
     },
-    imageHint: "Settlement Exhibition Reykjavik Viking longhouse", image: "/poi-images/iceland-settlement-exhibition-landmarks-v2.webp"},
-  {
+imageHint: "Settlement Exhibition Reykjavik Viking longhouse",
+    descriptionAdvanced: {
+      de: "Diese Ausstellung in Reykjavík basiert auf den archäologischen Funden eines Langhauses aus dem 10. Jahrhundert. Sie nutzt interaktive Medien, um die Wikingerzeit erlebbar zu machen.",
+      hu: "Ez a reykjavíki kiállítás egy 10. századi viking hosszúház régészeti leleteire épül. Modern, interaktív technológiával mutatja be az izlandi honfoglalás korát.",
+      ro: "Această expoziție din Reykjavík este construită în jurul ruinelor unei case lungi din secolul al X-lea. Utilizează tehnologie interactivă pentru a prezenta era vikingă.",
+      en: "Built around the remains of a 10th-century Viking longhouse, this exhibition showcases early settlement life. It combines archaeology with high-tech multimedia displays.",
+    },
+    factsAdvanced: {
+      de: ["Basiert auf Funden von 2001", "Langhaus aus dem 10. Jahrhundert", "Ort: Aðalstræti, Reykjavík", "Präzise 14C-Datierung (871±2)"],
+      hu: ["2001-es leletekre épül", "10. századi hosszúház romjai", "Helyszín: Aðalstræti, Reykjavík", "C-14 kormeghatározás: 871±2"],
+      ro: ["Bazată pe săpăturile din 2001", "Casă lungă din secolul X", "Locație: Aðalstræti, Reykjavík", "Datare carbon-14: anul 871±2"],
+      en: ["Based on 2001 excavations", "10th-century longhouse ruins", "Located at Aðalstræti, Reykjavík", "Precise C14 dating: 871±2 AD"],
+    },
+    image: "/poi-images/iceland-settlement-exhibition-landmarks-v2.webp",
+},  {
     id: "iceland-maritime-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Seefahrtsmuseum Víkin", hu: "Víkin Tengerészeti Múzeum", ro: "Muzeul Maritim din Reykjavík", en: "Reykjavík Maritime Museum" },
+    name: { de: "Seefahrtsmuseum Víkin", hu: "Víkin Tengerészeti Múzeum", ro: "Muzeul Maritim din Reykjavík", en: "Reykjavík Maritime Museum",
+image: "/poi-images/iceland-maritime-museum-landmarks-v2.webp"
+},
     coords: [-21.951, 64.1524],
     coordinates: { lat: 64.1524, lng: -21.951 },
     description: {
@@ -323,11 +565,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Fondat în anul 2005", "Nava-muzeu Óðinn este ancorată în față", "Prezintă istoria Războaielor Codului", "Situat în cartierul creativ Grandi"],
       en: ["Founded in the year 2005", "The museum ship Óðinn is moored outside", "Exhibits detail the 'Cod Wars' history", "Located in the trendy Grandi area"],
     },
-    imageHint: "Reykjavik Maritime Museum building and ship", image: "/poi-images/iceland-maritime-museum-landmarks-v2.webp"},
-  {
+imageHint: "Reykjavik Maritime Museum building and ship",
+    descriptionAdvanced: {
+      de: "Das Schifffahrtsmuseum im alten Hafen von Reykjavík widmet sich der Bedeutung der Fischerei für Island. Highlight ist das Museumsschiff Óðinn, ein ehemaliges Küstenwachschiff.",
+      hu: "A reykjavíki régi kikötőben található múzeum Izland halászati múltját mutatja be. Legfőbb látványossága az Óðinn partvédő hajó, amely fontos szerepet játszott a tőkehal-háborúkban.",
+      ro: "Muzeul Maritim din portul vechi al Reykjavík-ului este dedicat istoriei pescuitului. Piesa centrală este nava Óðinn, o fostă navă a pazei de coastă.",
+      en: "Located in a former fish factory, this museum explores Iceland's deep connection to the sea. Visitors can tour the Óðinn, a historic coast guard vessel.",
+    },
+    factsAdvanced: {
+      de: ["Standort: Alter Hafen", "Museumsschiff Óðinn vor Ort", "Geschichte der Kabeljaukriege", "Gegründet im Jahr 2004"],
+      hu: ["Helyszín: Régi kikötő", "Óðinn múzeumhajó megtekinthető", "Tőkehal-háborúk története", "2004-ben alapították"],
+      ro: ["Locație: Portul Vechi", "Nava muzeu Óðinn la fața locului", "Istoria Războaielor Codului", "Fondat în anul 2004"],
+      en: ["Located in the Old Harbor", "Museum ship Óðinn on site", "History of the Cod Wars", "Founded in 2004"],
+    },
+    image: "/poi-images/iceland-maritime-museum-landmarks-v2.webp",
+},  {
     id: "iceland-arbaer-open-air-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Freilichtmuseum Árbær", hu: "Árbær Szabadtéri Múzeum", ro: "Muzeul Satului Árbær", en: "Árbær Open Air Museum" },
+    name: { de: "Freilichtmuseum Árbær", hu: "Árbær Szabadtéri Múzeum", ro: "Muzeul Satului Árbær", en: "Árbær Open Air Museum",
+image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp"
+},
     coords: [-21.8175, 64.1189],
     coordinates: { lat: 64.1189, lng: -21.8175 },
     description: {
@@ -342,11 +599,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Deschis în anul 1957", "Include o biserică din turbă", "Multe clădiri au fost relocate aici", "Personalul poartă costume tradiționale"],
       en: ["Opened to the public in 1957", "Includes a traditional turf church", "Many buildings were moved from central Reykjavík", "Staff in period costumes show old crafts"],
     },
-    imageHint: "Arbaer Open Air Museum Reykjavik houses", image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp"},
-  {
+imageHint: "Arbaer Open Air Museum Reykjavik houses",
+    descriptionAdvanced: {
+      de: "Das Freilichtmuseum Árbær zeigt über 20 historische Gebäude, die aus dem Zentrum von Reykjavík hierher versetzt wurden. Es vermittelt einen lebendigen Eindruck der Vergangenheit.",
+      hu: "Az Árbær Szabadtéri Múzeumban több mint 20 történelmi épület látható, amelyeket Reykjavík központjából mentettek át ide. A kiállítás a város egykori életét idézi fel.",
+      ro: "Muzeul în aer liber Árbær cuprinde peste 20 de clădiri istorice mutate din centrul orașului. Oferă o imagine fidelă a modului de viață tradițional din Reykjavík.",
+      en: "Árbær Open Air Museum features more than 20 historic buildings relocated from central Reykjavík. It recreates the atmosphere of a bygone era through living history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1957", "Über 20 historische Gebäude", "Einst ein Bauernhof (Árbær)", "Traditionelle Handwerkskunst"],
+      hu: ["1957-ben alapították", "Több mint 20 régi épület", "Eredetileg Árbær tanya volt", "Hagyományos kézműves bemutatók"],
+      ro: ["Fondat în anul 1957", "Peste 20 de clădiri istorice", "Fostă fermă numită Árbær", "Demonstrații de meșteșuguri"],
+      en: ["Established in 1957", "Over 20 historic buildings", "Originally a farm called Árbær", "Traditional crafts demonstrations"],
+    },
+    image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp",
+},  {
     id: "iceland-imagine-peace-tower-landmarks-v2",
     type: "monument",
-    name: { de: "Imagine Peace Tower", hu: "Imagine Peace Tower", ro: "Imagine Peace Tower", en: "Imagine Peace Tower" },
+    name: { de: "Imagine Peace Tower", hu: "Imagine Peace Tower", ro: "Imagine Peace Tower", en: "Imagine Peace Tower",
+image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp"
+},
     coords: [-21.8542, 64.1648],
     coordinates: { lat: 64.1648, lng: -21.8542 },
     description: {
@@ -361,11 +633,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 2007", "Inscripția 'Imagine Peace' în 24 de limbi", "Aprins anual de ziua lui John Lennon", "Alimentat cu energie geotermală curată"],
       en: ["Dedicated in the year 2007", "Features 'Imagine Peace' in 24 languages", "Lit annually between Lennon's birth and death dates", "Powered entirely by geothermal energy"],
     },
-    imageHint: "Imagine Peace Tower Videy Island light", image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp"},
-  {
+imageHint: "Imagine Peace Tower Videy Island light",
+    descriptionAdvanced: {
+      de: "Der Imagine Peace Tower ist ein Lichtmonument von Yoko Ono auf der Insel Viðey. Der vertikale Lichtstrahl symbolisiert John Lennons und Onos Einsatz für den Weltfrieden.",
+      hu: "Yoko Ono által tervezett fényemlékmű Viðey szigetén, John Lennon emlékére. A függőleges fénysugár a világbéke szimbóluma, és évente meghatározott időpontokban világít.",
+      ro: "Imagine Peace Tower este un monument de lumină creat de Yoko Ono pe insula Viðey. Raza verticală de lumină simbolizează lupta pentru pace a lui John Lennon.",
+      en: "The Imagine Peace Tower is a light monument by Yoko Ono on Viðey Island. It project a vertical beam of light into the sky as a tribute to John Lennon and world peace.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 9. Oktober 2007", "Künstlerin: Yoko Ono", "Standort: Insel Viðey", "Leuchtet vom 9.10. bis 8.12."],
+      hu: ["Avatás: 2007. október 9.", "Alkotó: Yoko Ono", "Helyszín: Viðey-sziget", "Okt. 9. és dec. 8. között világít"],
+      ro: ["Inaugurat: 9 octombrie 2007", "Artist: Yoko Ono", "Locație: insula Viðey", "Luminează între 9 oct. și 8 dec."],
+      en: ["Inaugurated Oct 9, 2007", "Artist: Yoko Ono", "Location: Viðey Island", "Lit from Oct 9 to Dec 8 yearly"],
+    },
+    image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp",
+},  {
     id: "iceland-borgarvirki-landmarks-v2",
     type: "ruins",
-    name: { de: "Borgarvirki", hu: "Borgarvirki", ro: "Borgarvirki", en: "Borgarvirki" },
+    name: { de: "Borgarvirki", hu: "Borgarvirki", ro: "Borgarvirki", en: "Borgarvirki",
+image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp"
+},
     coords: [-20.5986, 65.4746],
     coordinates: { lat: 65.4746, lng: -20.5986 },
     description: {
@@ -380,11 +667,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Menționat în saga islandeze", "Pereții de stâncă au 10-15 metri înălțime", "Resturi de ziduri artificiale sunt încă vizibile", "Situat la o altitudine de 177 de metri"],
       en: ["Mentioned in the Icelandic sagas", "Rock walls are 10 to 15 meters high", "Remnants of man-made walls are still visible", "Located at an altitude of 177 meters"],
     },
-    imageHint: "Borgarvirki natural fortress Iceland", image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp"},
-  {
+imageHint: "Borgarvirki natural fortress Iceland",
+    descriptionAdvanced: {
+      de: "Borgarvirki ist eine natürliche geologische Formation aus Basaltsäulen, die vermutlich in der Wikingerzeit als Festung genutzt wurde. Sie bietet einen weiten Rundblick.",
+      hu: "Bazaltoszlopokból álló természetes geológiai formáció, amelyet a feltételezések szerint erődítményként használtak a vikingek. Stratégiai elhelyezkedése kiváló kilátást nyújt.",
+      ro: "Borgarvirki este o formațiune geologică naturală din coloane de bazalt, utilizată probabil ca fortăreață în epoca vikingă. Oferă o vedere panoramică strategică.",
+      en: "Borgarvirki is a natural volcanic plug made of basalt columns, believed to have served as a fortress during the Viking Age. It provides a natural 360-degree lookout.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 10-15 Meter", "Natürliche Basaltfestung", "In der Vatnsnes-Region", "Erwähnung in isländischen Sagas"],
+      hu: ["Magasság: kb. 10-15 méter", "Természetes bazalterőd", "A Vatnsnes-félszigeten található", "Szerepel az izlandi szagákban"],
+      ro: ["Înălțime: cca. 10-15 metri", "Fortăreață naturală din bazalt", "În regiunea Vatnsnes", "Menționată în sagele islandeze"],
+      en: ["Height: approx. 10-15 meters", "Natural basalt fortress", "Located in Vatnsnes region", "Mentioned in Icelandic Sagas"],
+    },
+    image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp",
+},  {
     id: "iceland-videyjarkirkja-landmarks-v2",
     type: "church",
-    name: { de: "Viðeyjarkirkja", hu: "Viðeyjarkirkja", ro: "Viðeyjarkirkja", en: "Viðeyjarkirkja" },
+    name: { de: "Viðeyjarkirkja", hu: "Viðeyjarkirkja", ro: "Viðeyjarkirkja", en: "Viðeyjarkirkja",
+image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp"
+},
     coords: [-21.8545, 64.1633],
     coordinates: { lat: 64.1633, lng: -21.8545 },
     description: {
@@ -399,11 +701,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită între 1762 și 1774", "A doua cea mai veche biserică de piatră din țară", "Interiorul este în mare parte original", "Situată lângă istorica Viðeyjarstofa"],
       en: ["Built between 1762 and 1774", "Second oldest stone church in Iceland", "The interior remains largely original", "Located near the historic Viðeyjarstofa"],
     },
-    imageHint: "Videyjarkirkja stone church Iceland", image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp"},
-  {
+imageHint: "Videyjarkirkja stone church Iceland",
+    descriptionAdvanced: {
+      de: "Die Kirche auf der Insel Viðey ist eine der ältesten Steinkirchen Islands. Sie wurde 1774 fertiggestellt und ist Teil eines historischen Ensembles mit dem Viðeyjarstofa-Haus.",
+      hu: "Viðey szigetének temploma Izland egyik legrégebbi kőépülete, amelyet 1774-ben szenteltek fel. A belső tér megőrizte eredeti 18. századi stílusát és berendezését.",
+      ro: "Biserica de pe insula Viðey este una dintre cele mai vechi clădiri din piatră din Islanda. Finalizată în 1774, păstrează interiorul original din secolul XVIII.",
+      en: "Viðeyjarkirkja is one of the oldest stone churches in Iceland, consecrated in 1774. It remains a peaceful landmark on Viðey Island, preserving its original 18th-century interior.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1774", "Zweitälteste Steinkirche Islands", "Barocke Innenausstattung", "Befindet sich auf Insel Viðey"],
+      hu: ["1774-ben készült el", "Izland 2. legrégebbi kőtemploma", "Barokk belső berendezés", "A Viðey-szigeten található"],
+      ro: ["Anul finalizării: 1774", "A doua cea mai veche biserică de piatră", "Interior în stil baroc", "Situată pe insula Viðey"],
+      en: ["Completed in 1774", "Second oldest stone church in Iceland", "Baroque interior furnishings", "Located on Viðey Island"],
+    },
+    image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp",
+},  {
     id: "iceland-holar-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Hólar", hu: "Hólari székesegyház", ro: "Catedrala din Hólar", en: "Hólar Cathedral" },
+    name: { de: "Kathedrale von Hólar", hu: "Hólari székesegyház", ro: "Catedrala din Hólar", en: "Hólar Cathedral",
+image: "/poi-images/iceland-holar-cathedral-landmarks-v2.webp"
+},
     coords: [-19.1121, 65.7331],
     coordinates: { lat: 65.7331, lng: -19.1121 },
     description: {
@@ -418,11 +735,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Sediul episcopului din anul 1106", "Cea mai veche biserică de piatră din Islanda", "Faimoasă pentru altarul său flamand", "Astăzi găzduiește o universitate agricolă"],
       en: ["Established as a bishop's seat in 1106", "The oldest stone church in Iceland", "Famous for its Flemish altarpiece", "Now the site of an agricultural university"],
     },
-    imageHint: "Holar Cathedral sandstone Iceland", image: "/poi-images/iceland-holar-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Holar Cathedral sandstone Iceland",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Hólar ist eine prachtvolle Steinkirche in Nordisland. Hólar war jahrhundertelang ein bedeutendes geistliches Zentrum und Sitz eines der beiden Bischöfe.",
+      hu: "Hólar székesegyháza Észak-Izland egyik legjelentősebb történelmi kőtemploma. Évszázadokon át püspöki székhely és az ország egyik legfontosabb szellemi központja volt.",
+      ro: "Catedrala din Hólar este o biserică impresionantă din piatră în nordul Islandei. Timp de secole, Hólar a fost un centru religios major și sediu episcopal.",
+      en: "Hólar Cathedral is a historic red-sandstone church in North Iceland. For centuries, Hólar was a major ecclesiastical center and the northern seat of the bishops.",
+    },
+    factsAdvanced: {
+      de: ["Bischofssitz seit 1106", "Heutige Kirche von 1763", "Gebaut aus rotem Sandstein", "Zentrum für Bildung und Druck"],
+      hu: ["Püspöki székhely 1106-tól", "Mai templom: 1763-ból", "Vörös homokkőből épült", "Oktatási és nyomdászati központ"],
+      ro: ["Sediu episcopal din 1106", "Biserica actuală din 1763", "Construită din gresie roșie", "Centru de educație și tipar"],
+      en: ["Bishops' seat since 1106", "Current church built in 1763", "Made of local red sandstone", "Historic center for printing"],
+    },
+    image: "/poi-images/iceland-holar-cathedral-landmarks-v2.webp",
+},  {
     id: "iceland-knarrarosviti-lighthouse-landmarks-v2",
     type: "tower",
-    name: { de: "Leuchtturm Knarrarósviti", hu: "Knarrarósviti világítótorony", ro: "Farul Knarrarósviti", en: "Knarrarósviti Lighthouse" },
+    name: { de: "Leuchtturm Knarrarósviti", hu: "Knarrarósviti világítótorony", ro: "Farul Knarrarósviti", en: "Knarrarósviti Lighthouse",
+image: "/poi-images/iceland-knarrarosviti-lighthouse-landmarks-v2.webp"
+},
     coords: [-20.9758, 63.8219],
     coordinates: { lat: 63.8219, lng: -20.9758 },
     description: {
@@ -437,11 +769,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construit în anul 1938", "Primul far din beton armat din Islanda", "Turnul are o înălțime de 26 de metri", "Proiectat de Axel Sveinsson"],
       en: ["Built in the year 1938", "First reinforced concrete lighthouse in Iceland", "The tower stands 26 meters tall", "Designed by architect Axel Sveinsson"],
     },
-    imageHint: "Knarrarosviti lighthouse white tower", image: "/poi-images/iceland-knarrarosviti-lighthouse-landmarks-v2.webp"},
-  {
+imageHint: "Knarrarosviti lighthouse white tower",
+    descriptionAdvanced: {
+      de: "Knarrarósviti ist ein beeindruckender Leuchtturm an der Südküste, bekannt für seine moderne, weiße Betonarchitektur. Er verbindet Art Déco-Elemente mit Funktionalismus.",
+      hu: "Izland déli partján álló különleges világítótorony, amely fehér betonépületével tűnik ki. Az Art Déco és a funkcionalista építészet jegyeit ötvözi.",
+      ro: "Knarrarósviti este un far impresionant de pe coasta de sud, cunoscut pentru arhitectura sa modernă din beton alb. Combină elemente Art Deco cu funcționalismul.",
+      en: "Knarrarósviti Lighthouse is a striking white concrete tower on the south coast. It is notable for its unique blend of Art Deco and functionalist architectural styles.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1938-1939", "Höhe: 26,2 Meter", "Architekt: Axel Sveinsson", "Erster Stahlbeton-Leuchtturm"],
+      hu: ["1938-1939-ben épült", "Magassága: 26,2 méter", "Tervező: Axel Sveinsson", "Első vasbeton világítótorony"],
+      ro: ["Construit în 1938-1939", "Înălțime: 26,2 metri", "Arhitect: Axel Sveinsson", "Primul far din beton armat"],
+      en: ["Built 1938-1939", "Tower height: 26.2 meters", "Architect: Axel Sveinsson", "Iceland's first reinforced concrete lighthouse"],
+    },
+    image: "/poi-images/iceland-knarrarosviti-lighthouse-landmarks-v2.webp",
+},  {
     id: "iceland-grotta-lighthouse-landmarks-v2",
     type: "tower",
-    name: { de: "Leuchtturm Grótta", hu: "Grótta világítótorony", ro: "Farul Grótta", en: "Grótta Lighthouse" },
+    name: { de: "Leuchtturm Grótta", hu: "Grótta világítótorony", ro: "Farul Grótta", en: "Grótta Lighthouse",
+image: "/poi-images/iceland-grotta-lighthouse-landmarks-v2.webp"
+},
     coords: [-22.0211, 64.1648],
     coordinates: { lat: 64.1648, lng: -22.0211 },
     description: {
@@ -456,11 +803,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Primul far a fost ridicat în 1897", "Turnul actual datează din 1947", "Zonă importantă de cuibărit pentru păsări", "Insula este închisă în timpul sezonului de cuibărit"],
       en: ["First lighthouse built here in 1897", "Current tower was built in 1947", "Important bird nesting area", "The island is closed during nesting season"],
     },
-    imageHint: "Grotta Lighthouse Reykjavik sunset", image: "/poi-images/iceland-grotta-lighthouse-landmarks-v2.webp"},
-  {
+imageHint: "Grotta Lighthouse Reykjavik sunset",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm Grótta liegt auf einer Halbinsel am westlichen Ende von Reykjavík. Bei Flut wird der Zugang abgeschnitten, bei Ebbe ist er ein beliebtes Ausflugsziel.",
+      hu: "Reykjavík legnyugatibb csücskén található világítótorony. Dagálykor a terület szigetté válik, apálykor viszont gyalogosan is megközelíthető a tengerparti sétányról.",
+      ro: "Farul Grótta se află în extremitatea vestică a Reykjavík-ului. Accesul este posibil doar la reflux, fiind o locație populară pentru observarea aurorei boreale.",
+      en: "Grótta Lighthouse is situated at the westernmost tip of Reykjavík. It is a popular spot for birdwatching and seeing the Northern Lights, accessible only at low tide.",
+    },
+    factsAdvanced: {
+      de: ["Heutiger Turm von 1947", "Gezeitenabhängiger Zugang", "Vogelschutzgebiet", "Beliebter Ort für Polarlichter"],
+      hu: ["A mai torony 1947-ben épült", "Csak apálykor elérhető", "Fontos madárvédelmi terület", "Népszerű sarki fény-lelőhely"],
+      ro: ["Turnul actual din 1947", "Accesibil doar la reflux", "Rezervație pentru păsări", "Loc popular pentru aurora boreală"],
+      en: ["Current tower built in 1947", "Accessible during low tide only", "Nature reserve for birds", "Top spot for Aurora viewing"],
+    },
+    image: "/poi-images/iceland-grotta-lighthouse-landmarks-v2.webp",
+},  {
     id: "iceland-gardskagaviti-lighthouse-landmarks-v2",
     type: "tower",
-    name: { de: "Leuchtturm Garðskagaviti", hu: "Garðskagaviti világítótorony", ro: "Farul Garðskagaviti", en: "Garðskagaviti Lighthouse" },
+    name: { de: "Leuchtturm Garðskagaviti", hu: "Garðskagaviti világítótorony", ro: "Farul Garðskagaviti", en: "Garðskagaviti Lighthouse",
+image: "/poi-images/iceland-gardskagaviti-lighthouse-landmarks-v2.webp"
+},
     coords: [-22.7077, 64.0818],
     coordinates: { lat: 64.0818, lng: -22.7077 },
     description: {
@@ -475,11 +837,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Farul vechi datează din 1897", "Farul nou a fost construit în 1944", "Unul dintre cele mai înalte faruri din Islanda", "Locație populară pentru observarea păsărilor"],
       en: ["Older tower dates to 1897", "Newer tower was built in 1944", "One of the tallest lighthouses in Iceland", "Popular destination for birdwatching"],
     },
-    imageHint: "Gardskagaviti lighthouses Reykjanes", image: "/poi-images/iceland-gardskagaviti-lighthouse-landmarks-v2.webp"},
-  {
+imageHint: "Gardskagaviti lighthouses Reykjanes",
+    descriptionAdvanced: {
+      de: "Garðskagi beherbergt zwei Leuchttürme an der Spitze der Halbinsel Reykjanes. Der neuere, größere Turm bietet eine fantastische Aussicht über die Faxaflói-Bucht.",
+      hu: "A Reykjanes-félsziget csúcsán két világítótorony is áll egymás mellett. Az újabb, magasabb toronyból lenyűgöző kilátás nyílik a Faxaflói-öbölre és a környékre.",
+      ro: "Garðskagi găzduiește două faruri la extremitatea peninsulei Reykjanes. Cel mai nou și mai înalt oferă o vedere panoramică asupra golfului Faxaflói.",
+      en: "Garðskagi features two lighthouses at the tip of the Reykjanes Peninsula. The taller, newer tower provides sweeping views of the Faxaflói Bay and the coastline.",
+    },
+    factsAdvanced: {
+      de: ["Zwei Türme (1897 & 1944)", "Höhe des neuen Turms: 28m", "Bester Ort für Vogelbeobachtung", "Westspitze von Reykjanes"],
+      hu: ["Két torony (1897 és 1944)", "Új torony magassága: 28 m", "Kiváló madármegfigyelő hely", "Reykjanes legnyugatibb pontja"],
+      ro: ["Două faruri (1897 și 1944)", "Înălțimea noului far: 28m", "Loc ideal pentru birdwatching", "Vârful vestic al Reykjanes"],
+      en: ["Two towers (1897 & 1944)", "New tower height: 28m", "Excellent birdwatching spot", "West tip of Reykjanes Peninsula"],
+    },
+    image: "/poi-images/iceland-gardskagaviti-lighthouse-landmarks-v2.webp",
+},  {
     id: "iceland-borgarnes-settlement-center-landmarks-v2",
     type: "museum",
-    name: { de: "Landnahmezentrum Borgarnes", hu: "Borgarnesi Honfoglalás-központ", ro: "Centrul Colonizării Borgarnes", en: "Borgarnes Settlement Center" },
+    name: { de: "Landnahmezentrum Borgarnes", hu: "Borgarnesi Honfoglalás-központ", ro: "Centrul Colonizării Borgarnes", en: "Borgarnes Settlement Center",
+image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp"
+},
     coords: [-21.9211, 64.5358],
     coordinates: { lat: 64.5358, lng: -21.9211 },
     description: {
@@ -494,11 +871,26 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Dispune de două expoziții separate", "Utilizează ghiduri audio moderne", "Prezintă viața lui Egill Skallagrímsson", "O oprire populară în drumul spre nord"],
       en: ["Features two separate exhibitions", "Uses advanced audio guide technology", "Focuses on the life of Egill Skallagrímsson", "A popular stop for travelers heading north"],
     },
-    imageHint: "Settlement Center Borgarnes building", image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp"},
-  {
+imageHint: "Settlement Center Borgarnes building",
+    descriptionAdvanced: {
+      de: "Das Landnahmezentrum in Borgarnes erzählt die Geschichte der Besiedlung Islands und die berühmte Saga von Egill Skallagrímsson durch faszinierende Ausstellungen.",
+      hu: "A borgarnesi Honfoglalási Központ interaktív módon mutatja be Izland betelepítésének történetét és a híres Egill Skallagrímsson-szagát látványos installációkkal.",
+      ro: "Centrul de Colonizare din Borgarnes prezintă istoria așezării în Islanda și celebra Saga lui Egill Skallagrímsson prin expoziții interactive și captivante.",
+      en: "The Settlement Center in Borgarnes offers two immersive exhibitions detailing the discovery of Iceland and the life of the Viking poet Egill Skallagrímsson.",
+    },
+    factsAdvanced: {
+      de: ["Zwei Hauptausstellungen", "Egill Skallagrímsson Saga", "In einem alten Speicherhaus", "Audioguides in vielen Sprachen"],
+      hu: ["Két fő kiállítási téma", "Egill Skallagrímsson-szaga", "Régi raktárépületben található", "Soknyelvű audio-guide elérhető"],
+      ro: ["Două expoziții principale", "Saga lui Egill Skallagrímsson", "Situat într-un depozit vechi", "Ghid audio în mai multe limbi"],
+      en: ["Features two main exhibitions", "Focus on Egils Saga", "Housed in an old warehouse", "Multi-language audio guides"],
+    },
+    image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp",
+},  {
     id: "iceland-skogar-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Skógar Museum", hu: "Skógar Múzeum", ro: "Muzeul Skógar", en: "Skógar Museum" },
+    name: { de: "Skógar Museum", hu: "Skógar Múzeum", ro: "Muzeul Skógar", en: "Skógar Museum",
+image: "/poi-images/iceland-skogar-museum-landmarks-v2.webp"
+},
     coords: [-19.4925, 63.5245],
     coordinates: { lat: 63.5245, lng: -19.4925 },
     description: {
@@ -514,5 +906,17 @@ export const icelandLandmarksV2: POI[] = [
       en: ["Established in the year 1949", "Consists of three main museum sections", "Houses the fishing boat 'Pétursey'", "Located right next to Skógafoss waterfall"],
     },
     imageHint: "Skogar Museum turf houses Iceland",
+    descriptionAdvanced: {
+      de: "Das Skógar-Museum ist eines der bedeutendsten Volkskundemuseen Islands. Es umfasst eine riesige Sammlung an Artefakten und einen Bereich mit historischen Torfhäusern.",
+      hu: "A Skógar Múzeum az ország egyik legfontosabb néprajzi gyűjteménye. Több ezer tárgyi emlék mellett szabadtéri részlegében eredeti gyeptéglás házak is láthatók.",
+      ro: "Muzeul Skógar este unul dintre cele mai importante muzee etnografice din Islanda. Cuprinde o colecție vastă de artefacte și un sector cu ferme din turbă.",
+      en: "Skógar Museum is a renowned cultural heritage site featuring a large folk collection. It includes several restored turf buildings and a dedicated technical museum.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1949", "Sammlung von Thórdur Tómasson", "Über 18.000 Exponate", "Inklusive technischem Museum"],
+      hu: ["1949-ben alapították", "Thórdur Tómasson gyűjteménye", "Több mint 18 000 kiállítási tárgy", "Műszaki múzeum is tartozik hozzá"],
+      ro: ["Fondat în anul 1949", "Colecția lui Thórdur Tómasson", "Peste 18.000 de exponate", "Include un muzeu tehnic"],
+      en: ["Founded in 1949", "Collection of Thórdur Tómasson", "Over 18,000 artifacts on display", "Includes a transport museum"],
+    },
   }
 ];

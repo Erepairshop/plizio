@@ -6,7 +6,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "mountain",
     parent: "IR-02",
     coords: [52.1125, 35.9525],
-    name: { de: "Dschamawand", hu: "Damávand", ro: "Muntele Damavand", en: "Mount Damavand" },
+    name: { de: "Dschamawand", hu: "Damávand", ro: "Muntele Damavand", en: "Mount Damavand",
+image: "/poi-images/mount-damavand-nature-v2.webp"
+},
     description: {
       de: "Der Dschamawand ist ein ruhender Vulkan und der höchste Gipfel im Iran sowie im Nahen Osten.",
       hu: "A Damávand egy szunnyadó vulkán, és egyben Irán, valamint a Közel-Kelet legmagasabb hegycsúcsa.",
@@ -36,7 +38,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "lake",
     parent: "IR-01",
     coords: [45.3, 37.7],
-    name: { de: "Urmia-See", hu: "Urmia-tó", ro: "Lacul Urmia", en: "Lake Urmia" },
+    name: { de: "Urmia-See", hu: "Urmia-tó", ro: "Lacul Urmia", en: "Lake Urmia",
+image: "/poi-images/lake-urmia-nature-v2.webp"
+},
     description: {
       de: "Der Urmia-See war einst einer der größten Salzseen der Welt, bevor er in den letzten Jahrzehnten stark schrumpfte.",
       hu: "Az Urmia-tó egykor a világ egyik legnagyobb sóstava volt, mielőtt az elmúlt évtizedekben jelentősen összezsugorodott volna.",
@@ -66,7 +70,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "river",
     parent: "IR-15",
     coords: [48.196, 30.428],
-    name: { de: "Karun", hu: "Karun-folyó", ro: "Râul Karun", en: "Karun River" },
+    name: { de: "Karun", hu: "Karun-folyó", ro: "Râul Karun", en: "Karun River",
+image: "/poi-images/karun-river-nature-v2.webp"
+},
     description: {
       de: "Der Karun ist der wasserreichste und einzige schiffbare Fluss im Iran, der tief mit der Geschichte Chuzestans verbunden ist.",
       hu: "A Karun Irán legbővizűbb és egyetlen hajózható folyója, amely mélyen összefonódik Huzesztán történelmével.",
@@ -96,7 +102,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "national-park",
     parent: "IR-27",
     coords: [55.9333, 37.3833],
-    name: { de: "Golestan-Nationalpark", hu: "Golesztán Nemzeti Park", ro: "Parcul Național Golestan", en: "Golestan National Park" },
+    name: { de: "Golestan-Nationalpark", hu: "Golesztán Nemzeti Park", ro: "Parcul Național Golestan", en: "Golestan National Park",
+image: "/poi-images/golestan-national-park-nature-v2.webp"
+},
     description: {
       de: "Der Golestan-Nationalpark ist das älteste Naturschutzgebiet des Irans und schützt eine vielfältige Flora und Fauna.",
       hu: "A Golesztán Nemzeti Park Irán legrégebbi természetvédelmi területe, amely változatos növény- és állatvilágot őriz.",
@@ -126,7 +134,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "forest",
     parent: "IR-08",
     coords: [50.0, 37.0],
-    name: { de: "Hyrkanischer Wald", hu: "Hürkaniai-erdő", ro: "Pădurile Hircanice", en: "Hyrcanian Forests" },
+    name: { de: "Hyrkanischer Wald", hu: "Hürkaniai-erdő", ro: "Pădurile Hircanice", en: "Hyrcanian Forests",
+image: "/poi-images/hyrcanian-forests-nature-v2.webp"
+},
     description: {
       de: "Diese üppigen, feuchten Laubwälder erstrecken sich entlang der Südküste des Kaspischen Meeres und sind Millionen Jahre alt.",
       hu: "Ezek a buja, nedves lombhullató erdők a Kaszpi-tenger déli partja mentén húzódnak, és évmilliók óta léteznek.",
@@ -156,7 +166,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "national-park",
     parent: "IR-23",
     coords: [52.5, 34.6667],
-    name: { de: "Kavir-Nationalpark", hu: "Kavir Nemzeti Park", ro: "Parcul Național Kavir", en: "Kavir National Park" },
+    name: { de: "Kavir-Nationalpark", hu: "Kavir Nemzeti Park", ro: "Parcul Național Kavir", en: "Kavir National Park",
+image: "/poi-images/kavir-national-park-nature-v2.webp"
+},
     description: {
       de: "Dieser Nationalpark wird oft als Klein-Afrika des Irans bezeichnet, da er eine einzigartige Wüstenfauna beheimatet.",
       hu: "Ezt a nemzeti parkot gyakran Irán Kis-Afrikájaként emlegetik egyedülálló sivatagi állatvilága miatt.",
@@ -186,7 +198,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "river",
     parent: "IR-14",
     coords: [51.6667, 32.65],
-    name: { de: "Zayandeh Rud", hu: "Zajande-rud", ro: "Zayandeh Rud", en: "Zayanderud" },
+    name: { de: "Zayandeh Rud", hu: "Zajande-rud", ro: "Zayandeh Rud", en: "Zayanderud",
+image: "/poi-images/zayanderud-river-nature-v2.webp"
+},
     description: {
       de: "Der größte Fluss im Zentraliran fließt durch die historische Stadt Isfahan und ist für seine historischen Brücken bekannt.",
       hu: "Közép-Irán legnagyobb folyója a történelmi Iszfahán városán folyik keresztül, és híres ősi hídjairól.",
@@ -216,7 +230,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "mountain",
     parent: "IR-03",
     coords: [47.8344, 38.2683],
-    name: { de: "Sabalan", hu: "Szabalán", ro: "Muntele Sabalan", en: "Mount Sabalan" },
+    name: { de: "Sabalan", hu: "Szabalán", ro: "Muntele Sabalan", en: "Mount Sabalan",
+image: "/poi-images/mount-sabalan-nature-v2.webp"
+},
     description: {
       de: "Der Sabalan ist ein majestätischer, inaktiver Stratovulkan im Nordwesten des Irans mit einem wunderschönen Kratersee am Gipfel.",
       hu: "A Szabalán egy fenséges, inaktív rétegvulkán Irán északnyugati részén, melynek csúcsán egy gyönyörű krátertó található.",
@@ -246,7 +262,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "lake",
     parent: "IR-12",
     coords: [46.126, 35.538],
-    name: { de: "Zariwar-See", hu: "Zarivar-tó", ro: "Lacul Zarivar", en: "Zarivar Lake" },
+    name: { de: "Zariwar-See", hu: "Zarivar-tó", ro: "Lacul Zarivar", en: "Zarivar Lake",
+image: "/poi-images/zarivar-lake-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer Süßwassersee in der Provinz Kurdistan, der von dichten Eichenwäldern und Hügeln umgeben ist.",
       hu: "Egy festői édesvizű tó Kurdisztán tartományban, amelyet sűrű tölgyerdők és dombok vesznek körül.",
@@ -276,7 +294,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "national-park",
     parent: "IR-23",
     coords: [55.75, 35.25],
-    name: { de: "Turan-Nationalpark", hu: "Turán Nemzeti Park", ro: "Parcul Național Turan", en: "Khar Turan National Park" },
+    name: { de: "Turan-Nationalpark", hu: "Turán Nemzeti Park", ro: "Parcul Național Turan", en: "Khar Turan National Park",
+image: "/poi-images/khar-turan-national-park-nature-v2.webp"
+},
     description: {
       de: "Das größte Schutzgebiet des Irans ist ein bedeutendes Biosphärenreservat, das seltene Wüstentiere wie den persischen Halbesel beheimatet.",
       hu: "Irán legnagyobb védett területe egy fontos bioszféra-rezervátum, amely olyan ritka sivatagi állatoknak ad otthont, mint a perzsa félszamár.",
@@ -306,7 +326,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "mountain",
     parent: "IR-21",
     coords: [51.416, 35.883],
-    name: { de: "Totschāl", hu: "Tocsal", ro: "Muntele Tochal", en: "Mount Tochal" },
+    name: { de: "Totschāl", hu: "Tocsal", ro: "Muntele Tochal", en: "Mount Tochal",
+image: "/poi-images/mount-tochal-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Bergkamm des Elburs-Gebirges direkt nördlich von Teheran, der im Winter als beliebtes Skigebiet dient.",
       hu: "Az Elburz-hegység feltűnő hegygerince közvetlenül Teherán északi részén, amely télen népszerű síterepként szolgál.",
@@ -336,7 +358,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "national-park",
     parent: "IR-10",
     coords: [52.033, 35.883],
-    name: { de: "Lar-Nationalpark", hu: "Lár Nemzeti Park", ro: "Parcul Național Lar", en: "Lar National Park" },
+    name: { de: "Lar-Nationalpark", hu: "Lár Nemzeti Park", ro: "Parcul Național Lar", en: "Lar National Park",
+image: "/poi-images/lar-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein malerisches Naturschutzgebiet am Fuße des Dschamawand, berühmt für seine wilden roten Mohnblumen im Frühling.",
       hu: "Festői természetvédelmi terület a Damávand lábánál, amely híres a tavasszal nyíló vad vörös pipacsokról.",
@@ -366,7 +390,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "forest",
     parent: "IR-10",
     coords: [52.383, 36.116],
-    name: { de: "Alimastan-Wald", hu: "Alimasztán-erdő", ro: "Pădurea Alimastan", en: "Alimastan Forest" },
+    name: { de: "Alimastan-Wald", hu: "Alimasztán-erdő", ro: "Pădurea Alimastan", en: "Alimastan Forest",
+image: "/poi-images/alimastan-forest-nature-v2.webp"
+},
     description: {
       de: "Ein nebelverhangener, feenhafter Wald im Norden Irans, der Wanderer mit seinen dichten Baumkronen und kühlen Temperaturen anzieht.",
       hu: "Ködbe burkolózó, tündérmesébe illő erdő Észak-Iránban, amely sűrű lombkoronáival és hűvös hőmérsékletével vonzza a túrázókat.",
@@ -396,7 +422,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "forest",
     parent: "IR-22",
     coords: [55.733, 26.833],
-    name: { de: "Hara-Mangrovenwälder", hu: "Hara-mangroveerdő", ro: "Pădurile de Mangrove Hara", en: "Hara Forests" },
+    name: { de: "Hara-Mangrovenwälder", hu: "Hara-mangroveerdő", ro: "Pădurile de Mangrove Hara", en: "Hara Forests",
+image: "/poi-images/hara-forests-nature-v2.webp"
+},
     description: {
       de: "Diese einzigartigen Mangrovenwälder auf der Insel Qeschm wachsen im Salzwasser und dienen unzähligen Vögeln als Nistplatz.",
       hu: "Ezek az egyedülálló mangroveerdők Kesm szigetén sós vízben nőnek, és számtalan madár számára szolgálnak fészkelőhelyként.",
@@ -426,7 +454,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "river",
     parent: "IR-08",
     coords: [49.933, 37.4],
-    name: { de: "Sefid Rud", hu: "Szefid-rud", ro: "Sefid Rud", en: "Sefid-Rud" },
+    name: { de: "Sefid Rud", hu: "Szefid-rud", ro: "Sefid Rud", en: "Sefid-Rud",
+image: "/poi-images/sefid-rud-nature-v2.webp"
+},
     description: {
       de: "Der weiße Fluss ist der zweitlängste Fluss Irans und schneidet sich eindrucksvoll durch das Elburs-Gebirge, bevor er ins Kaspische Meer mündet.",
       hu: "A fehér folyó Irán második leghosszabb folyója, és lenyűgöző módon vág át az Elburz-hegységen, mielőtt a Kaszpi-tengerbe ömlik.",
@@ -456,7 +486,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "lake",
     parent: "IR-25",
     coords: [51.8, 34.5],
-    name: { de: "Namak-See", hu: "Namak-tó", ro: "Lacul Namak", en: "Namak Lake" },
+    name: { de: "Namak-See", hu: "Namak-tó", ro: "Lacul Namak", en: "Namak Lake",
+image: "/poi-images/namak-lake-nature-v2.webp"
+},
     description: {
       de: "Ein riesiger, meist ausgetrockneter Salzsee in der Zentralwüste, dessen weiße, von Rissen durchzogene Oberfläche wie Schnee wirkt.",
       hu: "Egy hatalmas, többnyire kiszáradt sóstó a központi sivatagban, amelynek repedésekkel szabdalt fehér felszíne hóra emlékeztet.",
@@ -486,7 +518,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "river",
     parent: "IR-01",
     coords: [47.0, 39.0],
-    name: { de: "Aras", hu: "Arasz", ro: "Râul Aras", en: "Aras River" },
+    name: { de: "Aras", hu: "Arasz", ro: "Râul Aras", en: "Aras River",
+image: "/poi-images/aras-river-nature-v2.webp"
+},
     description: {
       de: "Der Fluss Aras bildet einen großen Teil der Nordgrenze Irans und schlängelt sich durch malerische Schluchten und grüne Täler.",
       hu: "Az Arasz-folyó alkotja Irán északi határának nagy részét, és festői szurdokokon, valamint zöld völgyeken kanyarog keresztül.",
@@ -516,7 +550,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "national-park",
     parent: "IR-06",
     coords: [52.66, 27.41],
-    name: { de: "Nayband-Nationalpark", hu: "Najband Nemzeti Park", ro: "Parcul Național Nayband", en: "Nayband National Park" },
+    name: { de: "Nayband-Nationalpark", hu: "Najband Nemzeti Park", ro: "Parcul Național Nayband", en: "Nayband National Park",
+image: "/poi-images/nayband-national-park-nature-v2.webp"
+},
     description: {
       de: "Der erste Meeresnationalpark des Irans am Persischen Golf bietet unberührte Korallenriffe, Mangroven und Nistplätze für Meeresschildkröten.",
       hu: "Irán első tengeri nemzeti parkja a Perzsa-öbölben érintetlen korallzátonyokat, mangroveerdőket és tengeri teknősök fészkelőhelyeit kínálja.",
@@ -546,7 +582,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "mountain",
     parent: "IR-10",
     coords: [51.016, 36.366],
-    name: { de: "Alam-Kuh", hu: "Alam-Kuh", ro: "Alam-Kuh", en: "Alam-Kuh" },
+    name: { de: "Alam-Kuh", hu: "Alam-Kuh", ro: "Alam-Kuh", en: "Alam-Kuh",
+image: "/poi-images/alam-kuh-nature-v2.webp"
+},
     description: {
       de: "Der zweithöchste Berg Irans ist berühmt für seine massive und extrem steile Granit-Nordwand, die eine Herausforderung für Kletterer darstellt.",
       hu: "Irán második legmagasabb hegye hatalmas és rendkívül meredek gránit északi faláról híres, amely kihívást jelent a hegymászóknak.",
@@ -576,7 +614,9 @@ export const poiExtraIranNatureV2: POI[] = [
     type: "national-park",
     parent: "IR-10",
     coords: [51.8, 36.566],
-    name: { de: "Sisangan-Nationalpark", hu: "Sziszangan Nemzeti Park", ro: "Parcul Național Sisangan", en: "Sisangan National Park" },
+    name: { de: "Sisangan-Nationalpark", hu: "Sziszangan Nemzeti Park", ro: "Parcul Național Sisangan", en: "Sisangan National Park",
+image: "/poi-images/sisangan-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein außergewöhnlicher Waldpark an der Küste des Kaspischen Meeres, wo dichte Wälder direkt auf den Sandstrand treffen.",
       hu: "Egy rendkívüli erdei park a Kaszpi-tenger partján, ahol a sűrű erdők közvetlenül találkoznak a homokos tengerparttal.",

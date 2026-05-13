@@ -4,7 +4,9 @@ export const albaniaLandmarksV2: POI[] = [
   {
     id: "albania-kruje-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg von Kruja", hu: "Krujai vár", ro: "Castelul Kruja", en: "Krujë Castle" },
+    name: { de: "Burg von Kruja", hu: "Krujai vár", ro: "Castelul Kruja", en: "Krujë Castle",
+image: "/poi-images/albania-kruje-castle-landmarks-v2.webp"
+},
     coords: [19.7942, 41.5078],
     coordinates: { lat: 41.5078, lng: 19.7942 },
     description: {
@@ -19,11 +21,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["A rezistat la trei asedii majore", "Construit în secolul V sau VI", "Găzduiește Muzeul Etnografic", "Sediul lui Skanderbeg din 1443"],
       en: ["Resisted three major Ottoman sieges", "Built in the 5th or 6th century", "Houses the Ethnographic Museum", "Skanderbeg's headquarters from 1443"],
     },
-    imageHint: "Kruje Castle with the Skanderbeg Museum building", image: "/poi-images/albania-kruje-castle-landmarks-v2.webp"},
-  {
+imageHint: "Kruje Castle with the Skanderbeg Museum building",
+    descriptionAdvanced: {
+      de: "Die im 5. Jahrhundert errichtete Festung war im 15. Jahrhundert das Zentrum des Widerstands unter Skanderbeg gegen das Osmanische Reich und beherbergt heute zwei Museen.",
+      hu: "Az 5. századi erődítmény a 15. században az oszmánellenes ellenállás központja volt Szkander bég vezetésével. Ma nemzeti múzeumnak és néprajzi kiállításnak ad otthont.",
+      ro: "Construită în secolul al V-lea, cetatea a fost centrul rezistenței albaneze conduse de Skanderbeg împotriva otomanilor în secolul al XV-lea, găzduind azi muzee importante.",
+      en: "Built in the 5th century, this fortress was the center of Skanderbeg's resistance against the Ottomans in the 15th century. It now houses two major national museums.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 607 Meter über dem Meeresspiegel", "Hielt drei große osmanische Belagerungen stand", "Heimat des Skanderbeg-Museums (eröffnet 1982)", "Enthält eine restaurierte Basarstraße"],
+      hu: ["Tengerszint feletti magassága 607 méter", "Három nagy oszmán ostromot vert vissza", "A Szkander bég Múzeum 1982-ben nyílt meg", "Egy restaurált középkori bazársor is övezi"],
+      ro: ["Altitudine: 607 metri deasupra mării", "A rezistat la trei mari asedii otomane", "Muzeul Skanderbeg a fost inaugurat în 1982", "Include un bazar medieval restaurat"],
+      en: ["Elevation: 607 meters above sea level", "Withstood three major Ottoman sieges", "Skanderbeg Museum opened here in 1982", "Features a restored medieval bazaar street"],
+    },
+    image: "/poi-images/albania-kruje-castle-landmarks-v2.webp",
+},  {
     id: "albania-gjirokaster-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastër Castle" },
+    name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastër Castle",
+image: "/poi-images/albania-gjirokaster-castle-landmarks-v2.webp"
+},
     coords: [20.1408, 40.0734],
     coordinates: { lat: 40.0734, lng: 20.1408 },
     description: {
@@ -38,11 +55,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["A doua cetate ca mărime din Balcani", "Deține un turn cu ceas distinctiv", "Conține un avion spion american", "Construită începând cu secolul XII"],
       en: ["Second largest castle in the Balkans", "Features a prominent clock tower", "Contains a captured US spy plane", "Built starting from the 12th century"],
     },
-    imageHint: "Gjirokaster Castle with the clock tower and mountains", image: "/poi-images/albania-gjirokaster-castle-landmarks-v2.webp"},
-  {
+imageHint: "Gjirokaster Castle with the clock tower and mountains",
+    descriptionAdvanced: {
+      de: "Diese massive Festung dominiert die Stadt Gjirokastër. Sie wurde ab dem 12. Jahrhundert ausgebaut und diente unter verschiedenen Herrschern als Kaserne und Gefängnis.",
+      hu: "Gjirokasztra városát uraló monumentális erőd, melyet a 12. századtól bővítettek. Az évszázadok során kaszárnyaként és börtönként is funkcionált különböző rezsimek alatt.",
+      ro: "Această fortăreață masivă domină orașul Gjirokastër. Extinsă din secolul al XII-lea, a servit drept cazarmă și închisoare sub diverse regimuri de-a lungul istoriei.",
+      en: "Dominating the city of Gjirokastër, this massive fortress dates back to the 12th century. It has served as a military barracks and a prison under various regimes.",
+    },
+    factsAdvanced: {
+      de: ["Besitzt einen Uhrturm aus dem 19. Jahrhundert", "Beherbergt ein US-Aufklärungsflugzeug von 1957", "Die Mauern sind bis zu 7 Meter dick", "Austragungsort des Nationalen Folklorefestivals"],
+      hu: ["Egy 19. századi óratoronnyal rendelkezik", "Egy 1957-es amerikai felderítő gépet őriz", "A falak vastagsága helyenként a 7 métert is eléri", "A Nemzeti Folklórfesztivál állandó helyszíne"],
+      ro: ["Deține un turn cu ceas din secolul al XIX-lea", "Găzduiește un avion american capturat în 1957", "Zidurile au o grosime de până la 7 metri", "Locul de desfășurare a Festivalului de Folclor"],
+      en: ["Features a 19th-century clock tower", "Houses a US reconnaissance plane from 1957", "Walls reach a thickness of up to 7 meters", "Venue for the National Folklore Festival"],
+    },
+    image: "/poi-images/albania-gjirokaster-castle-landmarks-v2.webp",
+},  {
     id: "albania-skanderbeg-square-landmarks-v2",
     type: "landmark",
-    name: { de: "Skanderbeg-Platz", hu: "Szkander bég tér", ro: "Piața Skanderbeg", en: "Skanderbeg Square" },
+    name: { de: "Skanderbeg-Platz", hu: "Szkander bég tér", ro: "Piața Skanderbeg", en: "Skanderbeg Square",
+image: "/poi-images/albania-skanderbeg-square-landmarks-v2.webp"
+},
     coords: [19.8187, 41.3275],
     coordinates: { lat: 41.3275, lng: 19.8187 },
     description: {
@@ -57,11 +89,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Suprafață de aproximativ 40.000 m²", "Statuia ecvestră a lui Skanderbeg în centru", "Înconjurată de clădiri ministeriale", "Sediul Muzeului Național de Istorie"],
       en: ["Size of approximately 40,000 m²", "Central equestrian statue of Skanderbeg", "Surrounded by ministry buildings", "Site of the National History Museum"],
     },
-    imageHint: "Skanderbeg Square in Tirana with the statue", image: "/poi-images/albania-skanderbeg-square-landmarks-v2.webp"},
-  {
+imageHint: "Skanderbeg Square in Tirana with the statue",
+    descriptionAdvanced: {
+      de: "Der zentrale Platz Tiranas erstreckt sich über 40.000 Quadratmeter. Er ist nach dem Nationalhelden benannt und von den wichtigsten Institutionen Albaniens umgeben.",
+      hu: "Tirana 40 000 négyzetméteres központi tere, melyet a nemzeti hősről neveztek el. Itt találhatók az ország legfontosabb kulturális és kormányzati intézményei.",
+      ro: "Piața centrală din Tirana se întinde pe 40.000 mp. Poartă numele eroului național și este înconjurată de cele mai importante instituții culturale ale Albaniei.",
+      en: "Tirana's central square covers 40,000 square meters. Named after the national hero, it is surrounded by Albania's most significant public and cultural buildings.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 40.000 m²", "Zentrum markiert durch das Skanderbeg-Denkmal", "Gepflastert mit Steinen aus allen albanischen Gebieten", "2017 umfassend als Fußgängerzone neugestaltet"],
+      hu: ["Területe körülbelül 40 000 m²", "Közepén áll Szkander bég bronz lovasszobra", "Minden albán lakta területről hoztak ide köveket", "2017-ben alakították át teljesen sétálóövezetté"],
+      ro: ["Suprafață: aproximativ 40.000 m²", "Centrul este marcat de monumentul lui Skanderbeg", "Pavată cu pietre din toate regiunile albaneze", "Reamenajată complet ca zonă pietonală în 2017"],
+      en: ["Total area: approximately 40,000 m²", "Centerpiece is the Skanderbeg Monument", "Paved with stones from all Albanian-speaking lands", "Redesigned as a pedestrian zone in 2017"],
+    },
+    image: "/poi-images/albania-skanderbeg-square-landmarks-v2.webp",
+},  {
     id: "albania-national-history-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Nationalhistorisches Museum", hu: "Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie", en: "National History Museum" },
+    name: { de: "Nationalhistorisches Museum", hu: "Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie", en: "National History Museum",
+image: "/poi-images/albania-national-history-museum-landmarks-v2.webp"
+},
     coords: [19.8178, 41.3289],
     coordinates: { lat: 41.3289, lng: 19.8178 },
     description: {
@@ -76,11 +123,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Deschis pe 28 octombrie 1981", "Cel mai mare muzeu din Albania", "Mozaicul înfățișează 13 figuri", "Include un pavilion al terorii"],
       en: ["Opened on October 28, 1981", "Largest museum in Albania", "Mosaic depicts 13 Albanian figures", "Features a Pavilion of Communist Terror"],
     },
-    imageHint: "Facade of the National History Museum with the mosaic", image: "/poi-images/albania-national-history-museum-landmarks-v2.webp"},
-  {
+imageHint: "Facade of the National History Museum with the mosaic",
+    descriptionAdvanced: {
+      de: "Das 1981 eröffnete Museum ist das größte Albaniens. Es zeigt die Geschichte des Landes von der Antike bis zur Gegenwart, markiert durch das berühmte Mosaik an der Fassade.",
+      hu: "Az 1981-ben megnyílt intézmény Albánia legnagyobb múzeuma. Az ókortól napjainkig mutatja be az ország történelmét, homlokzatán a híres 'Albánok' mozaikkal.",
+      ro: "Inaugurat în 1981, este cel mai mare muzeu din Albania. Prezintă istoria țării din antichitate până azi, fiind celebru pentru mozaicul gigantic de pe fațadă.",
+      en: "Opened in 1981, this is Albania's largest museum. It tracks the nation's history from antiquity to the present, famous for the 'Albanians' mosaic on its facade.",
+    },
+    factsAdvanced: {
+      de: ["Beinhaltet über 4.750 historische Objekte", "Das Fassadenmosaik misst 440 m²", "Verfügt über acht spezialisierte Pavillons", "Enthält eine Replik des Schwertes von Skanderbeg"],
+      hu: ["Több mint 4750 történelmi tárgyat őriz", "A homlokzati mozaik mérete 440 m²", "Nyolc különálló tematikus pavilonból áll", "Itt látható Szkander bég kardjának másolata"],
+      ro: ["Adăpostește peste 4.750 de obiecte istorice", "Mozaicul de pe fațadă măsoară 440 m²", "Este împărțit în opt pavilioane tematice", "Conține o replică a sabiei lui Skanderbeg"],
+      en: ["Houses over 4,750 historical artifacts", "The facade mosaic measures 440 m²", "Divided into eight thematic pavilions", "Contains a replica of Skanderbeg's sword"],
+    },
+    image: "/poi-images/albania-national-history-museum-landmarks-v2.webp",
+},  {
     id: "albania-pyramid-of-tirana-landmarks-v2",
     type: "landmark",
-    name: { de: "Pyramide von Tirana", hu: "Tiranai piramis", ro: "Piramida din Tirana", en: "Pyramid of Tirana" },
+    name: { de: "Pyramide von Tirana", hu: "Tiranai piramis", ro: "Piramida din Tirana", en: "Pyramid of Tirana",
+image: "/poi-images/albania-pyramid-of-tirana-landmarks-v2.webp"
+},
     coords: [19.8214, 41.3231],
     coordinates: { lat: 41.3231, lng: 19.8214 },
     description: {
@@ -95,11 +157,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Inaugurată în anul 1988", "Proiectată de fiica lui Hoxha", "Propusă pentru demolare în trecut", "Acum este hub cultural și tech"],
       en: ["Opened in 1988", "Designed by Hoxha's daughter", "Once proposed for demolition", "Now a cultural and tech hub"],
     },
-    imageHint: "The Pyramid of Tirana structure after renovation", image: "/poi-images/albania-pyramid-of-tirana-landmarks-v2.webp"},
-  {
+imageHint: "The Pyramid of Tirana structure after renovation",
+    descriptionAdvanced: {
+      de: "Ursprünglich 1988 als Enver-Hoxha-Museum eröffnet, wurde das markante Betonbauwerk 2023 zu einem IT-Zentrum und öffentlichen Raum für die Jugend Tiranas umgestaltet.",
+      hu: "Eredetileg 1988-ban nyílt meg Enver Hoxha múzeumaként. A monumentális betonépítményt 2023-ban alakították át modern informatikai központtá és közösségi térré.",
+      ro: "Deschisă în 1988 ca muzeu Enver Hoxha, această structură de beton a fost transformată în 2023 într-un centru IT și spațiu public modern pentru tineret.",
+      en: "Originally opened in 1988 as the Enver Hoxha Museum, this concrete landmark was repurposed in 2023 as an IT hub and a vibrant public space for youth.",
+    },
+    factsAdvanced: {
+      de: ["Entworfen von Enver Hoxhas Tochter Pranvera", "Baukosten betrugen damals ca. 4 Millionen Dollar", "Wurde 2023 mit bunten Treppen neu eröffnet", "Grundfläche beträgt etwa 17.000 m²"],
+      hu: ["Enver Hoxha lánya, Pranvera tervezte", "Építési költsége anno 4 millió dollár volt", "2023-as felújításakor színes lépcsőket kapott", "Az épület alapterülete kb. 17 000 m²"],
+      ro: ["Proiectată de fiica lui Hoxha, Pranvera", "Costul construcției a fost de 4 milioane dolari", "Redeschisă în 2023 cu scări colorate exterioare", "Amprenta la sol este de circa 17.000 m²"],
+      en: ["Designed by Enver Hoxha's daughter Pranvera", "Original construction cost was $4 million", "Reopened in 2023 with colorful exterior stairs", "Total footprint is approximately 17,000 m²"],
+    },
+    image: "/poi-images/albania-pyramid-of-tirana-landmarks-v2.webp",
+},  {
     id: "albania-butrint-amphitheatre-landmarks-v2",
     type: "ruins",
-    name: { de: "Amphitheater von Butrint", hu: "Butrinti amfiteátrum", ro: "Amfiteatrul din Butrint", en: "Butrint Amphitheatre" },
+    name: { de: "Amphitheater von Butrint", hu: "Butrinti amfiteátrum", ro: "Amfiteatrul din Butrint", en: "Butrint Amphitheatre",
+image: "/poi-images/albania-butrint-amphitheatre-landmarks-v2.webp"
+},
     coords: [20.0195, 39.7434],
     coordinates: { lat: 39.7434, lng: 20.0195 },
     description: {
@@ -114,11 +191,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Parte din patrimoniul UNESCO", "Capacitate de 2.500 de spectatori", "Construit pe origini grecești", "Adiacent sanctuarului lui Asclepios"],
       en: ["Part of UNESCO World Heritage", "Capacity of 2,500 spectators", "Built on Greek foundations", "Adjacent to the Sanctuary of Asclepius"],
     },
-    imageHint: "Ancient Greek theater in Butrint archaeological park", image: "/poi-images/albania-butrint-amphitheatre-landmarks-v2.webp"},
-  {
+imageHint: "Ancient Greek theater in Butrint archaeological park",
+    descriptionAdvanced: {
+      de: "Das antike Theater von Butrint stammt aus dem 3. Jahrhundert v. Chr. und wurde in römischer Zeit erweitert. Es ist ein Highlight der UNESCO-Welterbestätte.",
+      hu: "Butrint ókori színháza az i.e. 3. században épült, majd a római korban kibővítették. Az UNESCO világörökség részét képező romváros egyik legszebb emléke.",
+      ro: "Amfiteatrul antic din Butrint datează din secolul al III-lea î.Hr. și a fost extins în epoca romană. Este piesa centrală a sitului UNESCO de aici.",
+      en: "The ancient theater of Butrint dates back to the 3rd century BC and was expanded during the Roman era. It is a highlight of the UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: ursprünglich ca. 1.500 Zuschauer", "Liegt am Fuß der Akropolis von Butrint", "Ausgrabungen begannen in den 1920er Jahren", "Wird heute noch für Theaterfestivals genutzt"],
+      hu: ["Eredeti befogadóképessége 1500 fő volt", "A butrinti akropolisz lábánál található", "A régészeti feltárások az 1920-as években kezdődtek", "Ma is tartanak itt szabadtéri színházi esteket"],
+      ro: ["Capacitate originală: circa 1.500 spectatori", "Situat la poalele acropolei din Butrint", "Excavațiile au început în anii 1920", "Folosit și azi pentru festivaluri de teatru"],
+      en: ["Original capacity: about 1,500 spectators", "Located at the foot of Butrint's acropolis", "Archaeological excavations started in the 1920s", "Still used today for theater performances"],
+    },
+    image: "/poi-images/albania-butrint-amphitheatre-landmarks-v2.webp",
+},  {
     id: "albania-apollonia-archaeological-park-landmarks-v2",
     type: "ruins",
-    name: { de: "Archäologischer Park Apollonia", hu: "Apollónia Régészeti Park", ro: "Parcul Arheologic Apollonia", en: "Apollonia Archaeological Park" },
+    name: { de: "Archäologischer Park Apollonia", hu: "Apollónia Régészeti Park", ro: "Parcul Arheologic Apollonia", en: "Apollonia Archaeological Park",
+image: "/poi-images/albania-apollonia-archaeological-park-landmarks-v2.webp"
+},
     coords: [19.4695, 40.7225],
     coordinates: { lat: 40.7225, lng: 19.4695 },
     description: {
@@ -133,11 +225,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 588 î.Hr.", "Augustus a studiat aici retorica", "Fost oraș-port important", "Deține o mănăstire medievală"],
       en: ["Founded in 588 BC", "Augustus studied rhetoric here", "Once a major port city", "Features a medieval monastery"],
     },
-    imageHint: "Ruins of the Buleuterion in Apollonia", image: "/poi-images/albania-apollonia-archaeological-park-landmarks-v2.webp"},
-  {
+imageHint: "Ruins of the Buleuterion in Apollonia",
+    descriptionAdvanced: {
+      de: "Gegründet 588 v. Chr. von griechischen Kolonisten, war Apollonia ein bedeutendes Zentrum in der Antike. Heute sind Ruinen des Odeons und des Bouleuterions erhalten.",
+      hu: "Az i.e. 588-ban görög telepesek által alapított város az antikvitás fontos központja volt. Ma az odeon és a bouleuterion romjai a leglátványosabb részei.",
+      ro: "Fondat în 588 î.Hr. de coloniști greci, Apollonia a fost un centru major în antichitate. Azi se pot vizita ruinele odeonului și ale bouleuterionului.",
+      en: "Founded in 588 BC by Greek colonists, Apollonia was a major center in antiquity. Today, the ruins of the Odeon and the Bouleuterion are well-preserved.",
+    },
+    factsAdvanced: {
+      de: ["Cicero nannte sie eine 'große und würdevolle Stadt'", "Hier studierte der spätere Kaiser Augustus", "Umfasst ein Kloster aus dem 13. Jahrhundert", "Liegt auf einem Hügel nahe der Stadt Fier"],
+      hu: ["Cicero 'nagy és tekintélyes városnak' nevezte", "Itt tanult a későbbi Augustus császár is", "Egy 13. századi kolostor is található a területén", "Fier városa mellett, egy dombtetőn fekszik"],
+      ro: ["Cicero a numit-o 'un oraș mare și demn'", "Aici a studiat viitorul împărat Augustus", "Include o mănăstire din secolul al XIII-lea", "Situat pe un deal lângă orașul Fier"],
+      en: ["Cicero called it a 'great and important city'", "Future Emperor Augustus studied here", "Includes a 13th-century monastery on site", "Located on a hill near the city of Fier"],
+    },
+    image: "/poi-images/albania-apollonia-archaeological-park-landmarks-v2.webp",
+},  {
     id: "albania-clock-tower-tirana-landmarks-v2",
     type: "tower",
-    name: { de: "Uhrturm von Tirana", hu: "Tiranai óratorony", ro: "Turnul cu Ceas din Tirana", en: "Clock Tower of Tirana" },
+    name: { de: "Uhrturm von Tirana", hu: "Tiranai óratorony", ro: "Turnul cu Ceas din Tirana", en: "Clock Tower of Tirana",
+image: "/poi-images/albania-clock-tower-tirana-landmarks-v2.webp"
+},
     coords: [19.8198, 41.3276],
     coordinates: { lat: 41.3276, lng: 19.8198 },
     description: {
@@ -152,11 +259,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1822", "Are 90 de trepte în spirală", "Clopot adus din Veneția", "Iluminat noaptea"],
       en: ["Built in 1822", "Has 90 spiral stairs", "Bell was brought from Venice", "Brightly illuminated at night"],
     },
-    imageHint: "The Clock Tower of Tirana at sunset", image: "/poi-images/albania-clock-tower-tirana-landmarks-v2.webp"},
-  {
+imageHint: "The Clock Tower of Tirana at sunset",
+    descriptionAdvanced: {
+      de: "Der 1822 von Haxhi Et'hem Bey errichtete Uhrturm ist ein Wahrzeichen Tiranas. Mit 35 Metern Höhe bietet er einen Rundumblick auf das Stadtzentrum und den Skanderbeg-Platz.",
+      hu: "Az 1822-ben Haxhi Et'hem Bey által épített óratorony Tirana egyik jelképe. 35 méteres magasságával remek kilátást nyújt a főtérre és a belvárosra.",
+      ro: "Construit în 1822 de Haxhi Et'hem Bey, turnul cu ceas este un simbol al Tiranei. La 35 de metri înălțime, oferă o panoramă asupra pieței Skanderbeg.",
+      en: "Built in 1822 by Haxhi Et'hem Bey, this clock tower is a landmark of Tirana. Standing 35 meters tall, it offers a bird's-eye view of the city center.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 35 Meter", "Besitzt eine Wendeltreppe mit 90 Stufen", "Die Glocke stammte ursprünglich aus Venedig", "Wurde 1928 im Stil der Renaissance erhöht"],
+      hu: ["Magassága pontosan 35 méter", "90 lépcsőfokból álló csigalépcső vezet fel", "Eredeti harangja Velencéből származott", "1928-ban reneszánsz stílusban megmagasították"],
+      ro: ["Înălțime: 35 de metri", "Are o scară în spirală cu 90 de trepte", "Clopotul original a fost adus din Veneția", "Înălțat în 1928 într-un stil renascentist"],
+      en: ["Height: 35 meters", "Features a spiral staircase with 90 steps", "The original bell was brought from Venice", "Elevated in 1928 with a Renaissance-style top"],
+    },
+    image: "/poi-images/albania-clock-tower-tirana-landmarks-v2.webp",
+},  {
     id: "albania-bunkart-1-landmarks-v2",
     type: "museum",
-    name: { de: "Bunk'Art 1", hu: "Bunk'Art 1", ro: "Bunk'Art 1", en: "Bunk'Art 1" },
+    name: { de: "Bunk'Art 1", hu: "Bunk'Art 1", ro: "Bunk'Art 1", en: "Bunk'Art 1",
+image: "/poi-images/albania-bunkart-1-landmarks-v2.webp"
+},
     coords: [19.8517, 41.3486],
     coordinates: { lat: 41.3486, lng: 19.8517 },
     description: {
@@ -171,11 +293,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Are peste 100 de camere", "5 etaje sub pământ", "Deschis ca muzeu în 2014", "Locație secretă în Războiul Rece"],
       en: ["Features over 100 rooms", "5 floors underground", "Opened as a museum in 2014", "Secret location during Cold War"],
     },
-    imageHint: "Underground tunnel entrance to Bunk'Art 1", image: "/poi-images/albania-bunkart-1-landmarks-v2.webp"},
-  {
+imageHint: "Underground tunnel entrance to Bunk'Art 1",
+    descriptionAdvanced: {
+      de: "Dieser massive unterirdische Atombunker wurde in den 1970er Jahren für Enver Hoxha gebaut. Heute dient er als Museum für die Geschichte des albanischen Kommunismus.",
+      hu: "Ezt a hatalmas föld alatti atomóvóhelyet az 1970-es években építették Enver Hoxha számára. Ma múzeumként működik, bemutatva a kommunista éra történetét.",
+      ro: "Acest buncăr atomic subteran masiv a fost construit în anii '70 pentru Enver Hoxha. Azi este un muzeu dedicat istoriei comunismului în Albania.",
+      en: "This massive underground nuclear bunker was built in the 1970s for Enver Hoxha. It now serves as a museum documenting the history of Albanian communism.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst 106 Räume auf 5 Etagen", "Liegt am Stadtrand von Tirana bei Dajti", "Bietet Schutz gegen nukleare Angriffe", "Wurde 2014 als Museum eröffnet"],
+      hu: ["106 helyiségből áll 5 szinten", "Tirana szélén, a Dajti-hegy lábánál található", "Nukleáris támadás ellen is védelmet nyújtott", "Múzeumként 2014-ben nyílt meg a nagyközönségnek"],
+      ro: ["Are 106 camere dispuse pe 5 niveluri", "Situat la periferia Tiranei, lângă Dajti", "Proiectat să reziste unui atac nuclear", "Deschis ca spațiu muzeal în anul 2014"],
+      en: ["Features 106 rooms across 5 floors", "Located on the outskirts of Tirana near Dajti", "Designed to withstand nuclear attacks", "Opened as a museum space in 2014"],
+    },
+    image: "/poi-images/albania-bunkart-1-landmarks-v2.webp",
+},  {
     id: "albania-resurrection-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Auferstehungskathedrale", hu: "Feltámadás-székesegyház", ro: "Catedrala Învierea Domnului", en: "Resurrection of Christ Cathedral" },
+    name: { de: "Auferstehungskathedrale", hu: "Feltámadás-székesegyház", ro: "Catedrala Învierea Domnului", en: "Resurrection of Christ Cathedral",
+image: "/poi-images/albania-resurrection-cathedral-landmarks-v2.webp"
+},
     coords: [19.8175, 41.3268],
     coordinates: { lat: 41.3268, lng: 19.8175 },
     description: {
@@ -190,11 +327,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Sfințită în anul 2012", "Cupolă înaltă de 32 de metri", "Turn clopotniță de 46 metri", "Include un centru cultural"],
       en: ["Consecrated in 2012", "Dome height of 32 meters", "46-meter high bell tower", "Contains a cultural center"],
     },
-    imageHint: "Modern Resurrection of Christ Orthodox Cathedral in Tirana", image: "/poi-images/albania-resurrection-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Modern Resurrection of Christ Orthodox Cathedral in Tirana",
+    descriptionAdvanced: {
+      de: "Die 2012 fertiggestellte orthodoxe Kathedrale ist eine der größten auf dem Balkan. Ihr modernes Design kombiniert traditionelle byzantinische Elemente mit Beton und Glas.",
+      hu: "A 2012-ben felszentelt ortodox székesegyház a Balkán egyik legnagyobbja. Modern kialakítása a bizánci hagyományokat ötvözi a beton és az üveg látványával.",
+      ro: "Finalizată în 2012, această catedrală ortodoxă este una dintre cele mai mari din Balcani. Designul modern îmbină stilul bizantin cu betonul și sticla.",
+      en: "Completed in 2012, this Orthodox cathedral is one of the largest in the Balkans. Its modern design blends Byzantine tradition with concrete and glass.",
+    },
+    factsAdvanced: {
+      de: ["Die Kuppel ist 32,2 Meter hoch", "Der Glockenturm erreicht 46 Meter", "Beinhaltet ein Kulturzentrum im Untergeschoss", "Sitz der orthodoxen Kirche von Albanien"],
+      hu: ["A kupola magassága 32,2 méter", "A különálló harangtorony 46 méter magas", "Az alagsorban kulturális központ található", "Az Albán Ortodox Egyház központja"],
+      ro: ["Cupola are o înălțime de 32,2 metri", "Turnul clopotniță atinge 46 de metri", "Include un centru cultural la subsol", "Sediul Bisericii Ortodoxe Autocefale"],
+      en: ["The dome is 32.2 meters high", "The bell tower reaches 46 meters", "Contains a cultural center in the basement", "Headquarters of the Albanian Orthodox Church"],
+    },
+    image: "/poi-images/albania-resurrection-cathedral-landmarks-v2.webp",
+},  {
     id: "albania-lead-mosque-landmarks-v2",
     type: "landmark",
-    name: { de: "Bleimoschee", hu: "Ólmos mecset", ro: "Moscheea de Plumb", en: "Lead Mosque" },
+    name: { de: "Bleimoschee", hu: "Ólmos mecset", ro: "Moscheea de Plumb", en: "Lead Mosque",
+image: "/poi-images/albania-lead-mosque-landmarks-v2.webp"
+},
     coords: [19.4994, 42.0458],
     coordinates: { lat: 42.0458, lng: 19.4994 },
     description: {
@@ -209,11 +361,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1773", "Singura moschee otomană de acest tip", "Ctitorită de Pașa din Shkodra", "A supraviețuit campaniei ateiste"],
       en: ["Built in 1773", "Unique Ottoman architectural style", "Built by the Pasha of Shkodër", "Survived the anti-religious campaign"],
     },
-    imageHint: "The Lead Mosque in Shkoder near Rozafa Castle", image: "/poi-images/albania-lead-mosque-landmarks-v2.webp"},
-  {
+imageHint: "The Lead Mosque in Shkoder near Rozafa Castle",
+    descriptionAdvanced: {
+      de: "Die 1773 erbaute Bleimoschee in Shkodra ist für ihre mit Blei gedeckten Kuppeln bekannt. Sie ist ein bedeutendes Beispiel osmanischer Architektur im Norden Albaniens.",
+      hu: "Az 1773-ban épült shkodrai Ólommecset ólommal borított kupoláiról kapta nevét. Észak-Albánia egyik legfontosabb oszmán építészeti emléke, mely túlélte a diktatúrát.",
+      ro: "Construită în 1773, Moscheea de Plumb din Shkodra este celebră pentru cupolele sale acoperite cu plumb. Este un monument major al arhitecturii otomane.",
+      en: "Built in 1773, the Lead Mosque in Shkodra is famous for its lead-covered domes. It is a significant example of Ottoman architecture in northern Albania.",
+    },
+    factsAdvanced: {
+      de: ["Einzige Moschee Shkodras ohne Minarett (zerstört)", "Befindet sich nahe der Festung Rozafa", "Wurde 1967 während des Religionsverbots geschlossen", "Besitzt einen rechteckigen Innenhof"],
+      hu: ["Az egyetlen mecset Shkodrában minaret nélkül", "A Rozafa-vár lábánál helyezkedik el", "1967-ben zárták be a vallási tilalom alatt", "Négyszögletes belső udvarral rendelkezik"],
+      ro: ["Singura moschee din Shkodra fără minaret", "Situată lângă cetatea Rozafa", "Închisă în 1967 în timpul interdicției religioase", "Are o curte interioară dreptunghiulară"],
+      en: ["Only mosque in Shkodra without a minaret", "Located near the Rozafa Castle", "Closed in 1967 during the religious ban", "Features a rectangular inner courtyard"],
+    },
+    image: "/poi-images/albania-lead-mosque-landmarks-v2.webp",
+},  {
     id: "albania-venetian-tower-durres-landmarks-v2",
     type: "tower",
-    name: { de: "Venezianischer Turm", hu: "Velencei torony", ro: "Turnul Venețian", en: "Venetian Tower of Durrës" },
+    name: { de: "Venezianischer Turm", hu: "Velencei torony", ro: "Turnul Venețian", en: "Venetian Tower of Durrës",
+image: "/poi-images/albania-venetian-tower-durres-landmarks-v2.webp"
+},
     coords: [19.4444, 41.3117],
     coordinates: { lat: 41.3117, lng: 19.4444 },
     description: {
@@ -228,11 +395,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Parte din zidurile cetății Durrës", "Înălțime de 9 metri", "Punct strategic de observație", "Destinație turistică populară"],
       en: ["Part of the Durrës Castle walls", "Height of 9 meters", "Strategic observation point", "Popular tourist destination"],
     },
-    imageHint: "The circular Venetian Tower in Durres", image: "/poi-images/albania-venetian-tower-durres-landmarks-v2.webp"},
-  {
+imageHint: "The circular Venetian Tower in Durres",
+    descriptionAdvanced: {
+      de: "Dieser kreisförmige Turm ist Teil der mittelalterlichen Stadtbefestigung von Durrës. Er wurde im 15. Jahrhundert auf älteren byzantinischen Ruinen errichtet.",
+      hu: "Ez a kör alaprajzú torony Durrës középkori városfalának része. A 15. században építették korábbi bizánci alapokra a velencei uralom idején.",
+      ro: "Acest turn circular face parte din fortificațiile medievale ale orașului Durrës. A fost construit în secolul al XV-lea pe ruine bizantine mai vechi.",
+      en: "This circular tower is part of the medieval fortifications of Durrës. Built in the 15th century by Venetians, it stands on older Byzantine foundations.",
+    },
+    factsAdvanced: {
+      de: ["Durchmesser: ca. 13 Meter", "Wurde zum Schutz des Hafens erbaut", "Diente zeitweise als Bar und Restaurant", "Die Mauern sind extrem massiv gebaut"],
+      hu: ["Átmérője körülbelül 13 méter", "A kikötő védelmére épült a 15. században", "Egy időben bár és étterem működött benne", "A falak rendkívül masszív, vastag kövekből állnak"],
+      ro: ["Diametru: aproximativ 13 metri", "Construit pentru protecția portului", "A servit ocazional ca bar și restaurant", "Zidurile sunt construite din piatră masivă"],
+      en: ["Diameter: approximately 13 meters", "Built to protect the port of Durrës", "Has served as a bar and restaurant in modern times", "Features extremely massive stone walls"],
+    },
+    image: "/poi-images/albania-venetian-tower-durres-landmarks-v2.webp",
+},  {
     id: "albania-amphitheatre-durres-landmarks-v2",
     type: "ruins",
-    name: { de: "Amphitheater von Durrës", hu: "Durrësi amfiteátrum", ro: "Amfiteatrul din Durrës", en: "Amphitheatre of Durrës" },
+    name: { de: "Amphitheater von Durrës", hu: "Durrësi amfiteátrum", ro: "Amfiteatrul din Durrës", en: "Amphitheatre of Durrës",
+image: "/poi-images/albania-amphitheatre-durres-landmarks-v2.webp"
+},
     coords: [19.4452, 41.3122],
     coordinates: { lat: 41.3122, lng: 19.4452 },
     description: {
@@ -247,11 +429,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Capacitate de până la 20.000 locuri", "Include o capelă cu mozaicuri", "Candidat pentru patrimoniul UNESCO", "Situat în mijlocul unui cartier"],
       en: ["Capacity for up to 20,000 people", "Contains a chapel with mosaics", "UNESCO candidate site", "Located in a residential area"],
     },
-    imageHint: "Remains of the large Roman amphitheatre in Durres", image: "/poi-images/albania-amphitheatre-durres-landmarks-v2.webp"},
-  {
+imageHint: "Remains of the large Roman amphitheatre in Durres",
+    descriptionAdvanced: {
+      de: "Das im 2. Jahrhundert n. Chr. erbaute Amphitheater von Durrës ist das größte auf dem Balkan. Es wurde erst 1966 bei Bauarbeiten zufällig wiederentdeckt.",
+      hu: "A 2. században épült durrësi amfiteátrum a Balkán legnagyobb ilyen jellegű építménye. Csak 1966-ban, véletlenül fedezték fel házépítési munkálatok során.",
+      ro: "Construit în secolul al II-lea d.Hr., amfiteatrul din Durrës este cel mai mare din Balcani. A fost redescoperit accidental abia în anul 1966.",
+      en: "Built in the 2nd century AD, the Durrës Amphitheatre is the largest in the Balkans. It was rediscovered by accident during construction work in 1966.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: bis zu 20.000 Zuschauer", "Besitzt eine christliche Kapelle mit Mosaiken", "Durchmesser beträgt ca. 132 Meter", "Steht auf der Tentativliste des UNESCO-Welterbes"],
+      hu: ["Befogadóképessége 20 000 fő volt", "Egy mozaikokkal díszített keresztény kápolna van benne", "Átmérője eléri a 132 métert", "Az UNESCO világörökségi várományosi listáján szerepel"],
+      ro: ["Capacitate: până la 20.000 de spectatori", "Include o capelă creștină cu mozaicuri", "Diametrul este de aproximativ 132 de metri", "Pe lista tentativă a Patrimoniului Mondial UNESCO"],
+      en: ["Capacity: up to 20,000 spectators", "Contains a Christian chapel with mosaics", "Diameter is approximately 132 meters", "On the UNESCO World Heritage tentative list"],
+    },
+    image: "/poi-images/albania-amphitheatre-durres-landmarks-v2.webp",
+},  {
     id: "albania-petrele-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg von Petrela", hu: "Petrelai vár", ro: "Castelul Petrela", en: "Petrelë Castle" },
+    name: { de: "Burg von Petrela", hu: "Petrelai vár", ro: "Castelul Petrela", en: "Petrelë Castle",
+image: "/poi-images/albania-petrele-castle-landmarks-v2.webp"
+},
     coords: [19.8547, 41.2547],
     coordinates: { lat: 41.2547, lng: 19.8547 },
     description: {
@@ -266,11 +463,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construit în secolul VI", "Formă triunghiulară", "Vedere asupra văii Erzen", "Găzduiește un restaurant astăzi"],
       en: ["Built in the 6th century", "Triangular ground plan", "Overlooks the Erzen valley", "Now houses a popular restaurant"],
     },
-    imageHint: "Petrele Castle on top of a rocky hill", image: "/poi-images/albania-petrele-castle-landmarks-v2.webp"},
-  {
+imageHint: "Petrele Castle on top of a rocky hill",
+    descriptionAdvanced: {
+      de: "Die auf einem steilen Felsen gelegene Burg Petrelë stammt aus dem 6. Jahrhundert. Sie war Teil des Verteidigungssystems von Skanderbeg gegen die Osmanen.",
+      hu: "A meredek sziklán trónoló petrelëi vár a 6. századból ered. Szkander bég idején fontos láncszeme volt a Tirana környéki védelmi rendszernek.",
+      ro: "Situat pe o stâncă abruptă, castelul Petrelë datează din secolul al VI-lea. A făcut parte din sistemul defensiv al lui Skanderbeg împotriva turcilor.",
+      en: "Perched on a steep cliff, Petrelë Castle dates back to the 6th century. It was a key part of Skanderbeg's defense system against the Ottomans.",
+    },
+    factsAdvanced: {
+      de: ["Liegt 15 Kilometer südlich von Tirana", "Wurde von Skanderbegs Schwester Mamica befehligt", "Der heutige Turm stammt aus dem 15. Jahrhundert", "Beherbergt heute ein beliebtes Restaurant"],
+      hu: ["Tiranától 15 kilométerre délre fekszik", "Szkander bég húga, Mamica irányította", "A mai torony a 15. századból származik", "Ma népszerű étterem működik a falai között"],
+      ro: ["Situat la 15 kilometri sud de Tirana", "A fost sub comanda Mamicei, sora lui Skanderbeg", "Turnul actual datează din secolul al XV-lea", "Găzduiește în prezent un restaurant popular"],
+      en: ["Located 15 kilometers south of Tirana", "Was commanded by Skanderbeg's sister, Mamica", "The current tower dates to the 15th century", "Now houses a popular panoramic restaurant"],
+    },
+    image: "/poi-images/albania-petrele-castle-landmarks-v2.webp",
+},  {
     id: "albania-marubi-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Marubi-Fotomuseum", hu: "Marubi Fotómúzeum", ro: "Muzeul de Fotografie Marubi", en: "Marubi National Photography Museum" },
+    name: { de: "Marubi-Fotomuseum", hu: "Marubi Fotómúzeum", ro: "Muzeul de Fotografie Marubi", en: "Marubi National Photography Museum",
+image: "/poi-images/albania-marubi-museum-landmarks-v2.webp"
+},
     coords: [19.5122, 42.0669],
     coordinates: { lat: 42.0669, lng: 19.5122 },
     description: {
@@ -285,11 +497,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Peste 500.000 de negative", "Prima fotografie albaneză (1858)", "Clădire modernă în Shkodra", "Prezintă costume istorice"],
       en: ["Over 500,000 negatives", "Albania's first photo (1858)", "Modern building in Shkodër", "Displays historical costumes"],
     },
-    imageHint: "Inside the Marubi National Photography Museum", image: "/poi-images/albania-marubi-museum-landmarks-v2.webp"},
-  {
+imageHint: "Inside the Marubi National Photography Museum",
+    descriptionAdvanced: {
+      de: "Dieses Nationalmuseum in Shkodra bewahrt das Erbe der Fotografenfamilie Marubi. Die Sammlung umfasst über 500.000 Negative aus der Zeit ab 1858.",
+      hu: "A shkodrai nemzeti múzeum a Marubi fotósdinasztia örökségét őrzi. A gyűjtemény több mint 500 000 negatívot tartalmaz, egészen 1858-ig visszamenően.",
+      ro: "Acest muzeu național din Shkodra păstrează moștenirea familiei de fotografi Marubi. Colecția include peste 500.000 de negative începând cu 1858.",
+      en: "This national museum in Shkodra preserves the legacy of the Marubi family. The collection holds over 500,000 negatives dating back to 1858.",
+    },
+    factsAdvanced: {
+      de: ["Pietro Marubi machte 1858 das erste Foto Albaniens", "Sammlung deckt drei Generationen von Fotografen ab", "Das neue Museumsgebäude wurde 2016 eröffnet", "Wichtigstes visuelles Archiv der albanischen Geschichte"],
+      hu: ["Pietro Marubi készítette az első albán fotót 1858-ban", "A gyűjtemény három fotósgeneráció munkáját öleli fel", "A modern múzeumépületet 2016-ban adták át", "Albánia legfontosabb vizuális történelmi archívuma"],
+      ro: ["Pietro Marubi a făcut prima fotografie din Albania în 1858", "Colecția acoperă trei generații de fotografi", "Noua clădire a muzeului a fost deschisă în 2016", "Cel mai important arhivă vizuală a istoriei țării"],
+      en: ["Pietro Marubi took the first photo in Albania in 1858", "The archive covers three generations of photographers", "The new museum building was inaugurated in 2016", "Most important visual archive of Albanian history"],
+    },
+    image: "/poi-images/albania-marubi-museum-landmarks-v2.webp",
+},  {
     id: "albania-onufri-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Onufri-Museum", hu: "Onufri Múzeum", ro: "Muzeul Onufri", en: "Onufri Iconographic Museum" },
+    name: { de: "Onufri-Museum", hu: "Onufri Múzeum", ro: "Muzeul Onufri", en: "Onufri Iconographic Museum",
+image: "/poi-images/albania-onufri-museum-landmarks-v2.webp"
+},
     coords: [19.9442, 40.7086],
     coordinates: { lat: 40.7086, lng: 19.9442 },
     description: {
@@ -304,11 +531,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1986", "Celebru pentru roșul lui Onufri", "Iconostas din secolul XIX", "În interiorul unei biserici"],
       en: ["Established in 1986", "Famous Onufri-Red color", "19th-century iconostasis", "Inside a Byzantine church"],
     },
-    imageHint: "Iconography by Onufri in the Berat museum", image: "/poi-images/albania-onufri-museum-landmarks-v2.webp"},
-  {
+imageHint: "Iconography by Onufri in the Berat museum",
+    descriptionAdvanced: {
+      de: "In der Marienkirche der Burg Berat gelegen, zeigt dieses Museum die Werke des berühmten Malers Onufri aus dem 16. Jahrhundert, bekannt für sein einzigartiges Rot.",
+      hu: "A berati vár területén lévő Mária-templomban található múzeum a 16. századi festő, Onufri műveit őrzi, aki egyedi 'Onufri-vörös' színéről volt híres.",
+      ro: "Situat în Biserica Sf. Maria din cetatea Berat, acest muzeu expune lucrările pictorului Onufri din secolul XVI, celebru pentru nuanța sa de roșu.",
+      en: "Located inside the Church of St. Mary in Berat Castle, this museum showcases the 16th-century works of Onufri, famous for his unique 'Onufri Red' pigment.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt 173 wertvolle religiöse Exponate", "Berühmt für die Ikonostase aus vergoldetem Holz", "Onufri war ein Meister der post-byzantinischen Kunst", "Befindet sich in einer UNESCO-Welterbestätte"],
+      hu: ["173 értékes vallási műtárgyat őriz", "Híres az aranyozott fából készült ikonosztázáról", "Onufri a posztbizánci művészet mestere volt", "A múzeum az UNESCO világörökség része"],
+      ro: ["Adăpostește 173 de obiecte religioase valoroase", "Celebru pentru iconostasul din lemn aurit", "Onufri a fost un maestru al artei post-bizantine", "Situat în interiorul sitului UNESCO din Berat"],
+      en: ["Houses 173 valuable religious artifacts", "Famous for its gilded wood iconostasis", "Onufri was a master of post-Byzantine art", "Located within the UNESCO World Heritage site"],
+    },
+    image: "/poi-images/albania-onufri-museum-landmarks-v2.webp",
+},  {
     id: "albania-gorica-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Gorica-Brücke", hu: "Gorica-híd", ro: "Podul Gorica", en: "Gorica Bridge" },
+    name: { de: "Gorica-Brücke", hu: "Gorica-híd", ro: "Podul Gorica", en: "Gorica Bridge",
+image: "/poi-images/albania-gorica-bridge-landmarks-v2.webp"
+},
     coords: [19.9439, 40.7042],
     coordinates: { lat: 40.7042, lng: 19.9439 },
     description: {
@@ -324,12 +566,26 @@ export const albaniaLandmarksV2: POI[] = [
       en: ["Originally built of wood in 1780", "Rebuilt in stone in the 1920s", "Features seven stone arches", "Length of about 130 meters"],
     },
     imageHint: "The Gorica stone bridge in Berat over the river",
+    descriptionAdvanced: {
+      de: "Diese osmanische Steinbrücke in Berat überquert den Fluss Osum. Sie verbindet die Stadtteile Mangalem und Gorica und ist eines der elegantesten Bauwerke Albaniens.",
+      hu: "Ez az oszmán kori kőhíd Berátban ível át az Osum-folyó felett. Mangalem és Gorica városrészeket köti össze, és Albánia egyik legelegánsabb építménye.",
+      ro: "Acest pod otoman din piatră traversează râul Osum în Berat. Conectează cartierele Mangalem și Gorica, fiind un simbol al arhitecturii locale.",
+      en: "This Ottoman stone bridge in Berat crosses the Osum River. Connecting the Mangalem and Gorica districts, it is one of Albania's most elegant structures.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 129 Meter", "Besitzt sieben Bögen aus Stein", "Wurde 1780 aus Holz gebaut und später in Stein", "In den 1920er Jahren grundlegend renoviert"],
+      hu: ["Hossza 129 méter", "Hét kőívből áll", "1780-ban eredetileg fából épült, később kövezték le", "Az 1920-as években jelentős felújításon esett át"],
+      ro: ["Lungime: 129 de metri", "Are șapte arcade din piatră", "Construit inițial din lemn în 1780, apoi din piatră", "Renovat extensiv în anii 1920"],
+      en: ["Length: 129 meters", "Features seven stone arches", "Originally built in wood in 1780, later replaced by stone", "Major reconstruction took place in the 1920s"],
+    },
   }
 ,
   {
     id: "albania-mother-teresa-square-landmarks-v2",
     type: "landmark",
-    name: { de: "Mutter-Teresa-Platz", hu: "Teréz anya tér", ro: "Piața Maica Tereza", en: "Mother Teresa Square" },
+    name: { de: "Mutter-Teresa-Platz", hu: "Teréz anya tér", ro: "Piața Maica Tereza", en: "Mother Teresa Square",
+image: "/poi-images/albania-mother-teresa-square-landmarks-v2.webp"
+},
     coordinates: { lat: 41.3178, lng: 19.8222 },
     description: {
       de: "Der Mutter-Teresa-Platz ist der zweitgrößte Platz in Tirana und beherbergt die Universität der Künste sowie die Polytechnische Universität. Er wurde während der italienischen Besatzung in den 1930er Jahren entworfen.",
@@ -344,11 +600,25 @@ export const albaniaLandmarksV2: POI[] = [
       en: ["Completed in 1939", "Designed by Gherardo Bosio", "Second largest city square", "Host to national universities"],
     },
     imageHint: "Mother Teresa Square Tirana university buildings",
+    descriptionAdvanced: {
+      de: "Am Ende des Boulevards Dëshmorët e Kombit gelegen, ist dieser Platz der zweitgrößte Tiranas. Er wurde während der italienischen Besatzung in den 1930ern entworfen.",
+      hu: "A Dëshmorët e Kombit sugárút végén található tér Tirana második legnagyobb tere. Az 1930-as években, az olasz megszállás idején tervezték.",
+      ro: "Situată la capătul bulevardului Dëshmorët e Kombit, este a doua piață ca mărime din Tirana. Proiectată în anii '30 în stil raționalist italian.",
+      en: "Located at the end of Dëshmorët e Kombit Boulevard, this is Tirana's second largest square. It was designed in the 1930s during the Italian occupation.",
+    },
+    factsAdvanced: {
+      de: ["Heimat der Polytechnischen Universität", "Benannt nach der Friedensnobelpreisträgerin", "Entworfen vom italienischen Architekten Gherardo Bosio", "Dient oft für Konzerte und große Versammlungen"],
+      hu: ["Itt található a Műszaki Egyetem főépülete", "A Nobel-békedíjas albán apácáról nevezték el", "Gherardo Bosio olasz építész tervezte", "Gyakran ad otthont koncerteknek és gyűléseknek"],
+      ro: ["Găzduiește Universitatea Politehnică", "Poartă numele laureatei Premiului Nobel pentru Pace", "Proiectată de arhitectul italian Gherardo Bosio", "Folosită frecvent pentru concerte și adunări"],
+      en: ["Home to the Polytechnic University", "Named after the Nobel Peace Prize laureate", "Designed by Italian architect Gherardo Bosio", "Frequently used for concerts and major gatherings"],
+    },
   },
   {
     id: "albania-medieval-art-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Nationalmuseum für mittelalterliche Kunst", hu: "Nemzeti Középkori Művészeti Múzeum", ro: "Muzeul Național de Artă Medievală", en: "National Museum of Medieval Art" },
+    name: { de: "Nationalmuseum für mittelalterliche Kunst", hu: "Nemzeti Középkori Művészeti Múzeum", ro: "Muzeul Național de Artă Medievală", en: "National Museum of Medieval Art",
+image: "/poi-images/albania-medieval-art-museum-landmarks-v2.webp"
+},
     coordinates: { lat: 40.6139, lng: 20.7819 },
     description: {
       de: "Das Nationalmuseum für mittelalterliche Kunst in Korça zeigt über 7.000 Exponate, darunter Ikonen und Holzarbeiten. Es gilt als eine der bedeutendsten kulturellen Einrichtungen für byzantinische Kunst auf dem Balkan.",
@@ -362,11 +632,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1980", "Peste 7.000 de exponate", "Colecție majoră de icoane", "Clădire nouă în 2016"],
       en: ["Founded in 1980", "Over 7,000 artifacts", "Major icon collection", "New building opened 2016"],
     },
-    imageHint: "National Museum of Medieval Art Korce icons", image: "/poi-images/albania-medieval-art-museum-landmarks-v2.webp"},
-  {
+imageHint: "National Museum of Medieval Art Korce icons",
+    descriptionAdvanced: {
+      de: "Das Museum in Korça beherbergt eine der weltweit bedeutendsten Sammlungen byzantinischer und post-byzantinischer Ikonen, präsentiert in einer modernen Architektur.",
+      hu: "A korçai múzeum a világ egyik legjelentősebb bizánci és posztbizánci ikon-gyűjteményének ad otthont, látványos, modern építészeti környezetben.",
+      ro: "Muzeul din Korça deține una dintre cele mai importante colecții de icoane bizantine din lume, expusă într-un cadru arhitectural modern.",
+      en: "This museum in Korça houses one of the world's most significant collections of Byzantine and post-Byzantine icons, set in a modern architectural space.",
+    },
+    factsAdvanced: {
+      de: ["Besitzt über 7.000 Exponate und Ikonen", "Wurde 2016 in einem Neubau wiedereröffnet", "Präsentiert Werke von Onufri und den Gebrüdern Zografi", "Gilt als das modernste Museum Albaniens"],
+      hu: ["Több mint 7000 műtárgyat és ikont őriz", "2016-ban nyílt meg az új, modern épületben", "Onufri és a Zografi fivérek műveit is bemutatja", "Albánia legkorszerűbb múzeumi létesítménye"],
+      ro: ["Deține peste 7.000 de obiecte și icoane", "Redeschis în 2016 într-o clădire nouă", "Expune lucrări de Onufri și frații Zografi", "Considerat cel mai modern muzeu din Albania"],
+      en: ["Holds over 7,000 artifacts and icons", "Reopened in a state-of-the-art building in 2016", "Features works by Onufri and the Zografi brothers", "Ranked as the most modern museum in Albania"],
+    },
+    image: "/poi-images/albania-medieval-art-museum-landmarks-v2.webp",
+},  {
     id: "albania-tanners-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Gerberbrücke", hu: "Vargák hídja", ro: "Podul Tăpălarilor", en: "Tanners' Bridge" },
+    name: { de: "Gerberbrücke", hu: "Vargák hídja", ro: "Podul Tăpălarilor", en: "Tanners' Bridge",
+image: "/poi-images/albania-tanners-bridge-landmarks-v2.webp"
+},
     coordinates: { lat: 41.3261, lng: 19.8258 },
     description: {
       de: "Die Gerberbrücke ist eine osmanische Steinbrücke aus dem 18. Jahrhundert in Tirana. Sie überquerte einst den Fluss Lana und diente als wichtiger Zugangsweg für Handwerker in die Stadt.",
@@ -380,11 +665,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construit în secolul XVIII", "Pod tipic cu boltă de piatră", "Lungime de 8 metri", "Restaurat în anii 1990"],
       en: ["Built in the 18th century", "Stone arch bridge", "Length of 8 meters", "Restored in the 1990s"],
     },
-    imageHint: "Tanners Bridge Tirana Ottoman stone bridge", image: "/poi-images/albania-tanners-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Tanners Bridge Tirana Ottoman stone bridge",
+    descriptionAdvanced: {
+      de: "Diese osmanische Steinbrücke aus dem 18. Jahrhundert war einst Teil der Handelsstraße nach Osten. Heute liegt sie malerisch in einer modernen Zone von Tirana.",
+      hu: "Ez a 18. századi oszmán kőhíd egykor a keletre vezető kereskedelmi útvonal része volt. Ma Tirana egyik modern negyedében bújik meg műemlékként.",
+      ro: "Acest pod otoman din piatră din secolul al XVIII-lea a făcut parte din drumul comercial spre est. Azi este un monument pitoresc în centrul Tiranei.",
+      en: "This 18th-century Ottoman stone bridge was once part of the trade route to the east. Today, it is a picturesque monument in a modern area of Tirana.",
+    },
+    factsAdvanced: {
+      de: ["Überquerte früher den Fluss Lana", "Wurde nach den Gerbern (Tanners) benannt", "Besteht aus Steinbögen in charakteristischer Form", "In den 1990er Jahren für Fußgänger restauriert"],
+      hu: ["Eredetileg a Lana-folyó felett ívelt át", "A környékbeli tímárokról (tanners) kapta nevét", "Jellegzetes formájú kőívekből áll", "Az 1990-es években restaurálták gyalogos hídnak"],
+      ro: ["Traversa inițial râul Lana", "Poartă numele tăbăcarilor (tanners) din zonă", "Format din arcade de piatră specifice epocii", "Restaurat pentru pietoni în anii 1990"],
+      en: ["Used to cross the Lana River", "Named after the tanners who worked nearby", "Features characteristic stone arches", "Restored for pedestrian use in the 1990s"],
+    },
+    image: "/poi-images/albania-tanners-bridge-landmarks-v2.webp",
+},  {
     id: "albania-st-stephens-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Stephanskathedrale", hu: "Szent István-székesegyház", ro: "Catedrala Sfântul Ștefan", en: "St. Stephen's Cathedral" },
+    name: { de: "Stephanskathedrale", hu: "Szent István-székesegyház", ro: "Catedrala Sfântul Ștefan", en: "St. Stephen's Cathedral",
+image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp"
+},
     coordinates: { lat: 42.0664, lng: 19.5161 },
     description: {
       de: "Die Stephanskathedrale in Shkodra wurde im 19. Jahrhundert erbaut und ist eines der größten religiösen Bauwerke der Stadt. Während der kommunistischen Ära diente das Gebäude zeitweise als Sporthalle.",
@@ -398,11 +698,26 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Sfințită în anul 1867", "Lungime totală de 74 metri", "Vizita Papei Ioan Paul al II-lea", "Restaurare completă în 1991"],
       en: ["Consecrated in 1867", "74 meters total length", "Pope John Paul II visit", "Major restoration in 1991"],
     },
-    imageHint: "St Stephen's Cathedral Shkoder interior", image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "St Stephen's Cathedral Shkoder interior",
+    descriptionAdvanced: {
+      de: "Die Stephanskathedrale in Shkodra ist das Zentrum der katholischen Kirche Albaniens. Während des Kommunismus wurde sie in eine Sporthalle umgewandelt.",
+      hu: "A shkodrai Szent István-székesegyház az albán katolikus egyház központja. A kommunizmus idején tornacsarnokként használták a vallásüldözés jegyében.",
+      ro: "Catedrala Sf. Ștefan din Shkodra este centrul catolicismului albanez. În perioada comunistă, a fost transformată abuziv în sală de sport.",
+      en: "St. Stephen's Cathedral in Shkodra is the heart of the Albanian Catholic Church. During communism, it was converted into a sports hall.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1858 bis 1867", "Diente 1991 als Ort der ersten öffentlichen Messe", "Besuch von Papst Johannes Paul II. im Jahr 1993", "Bekannt als 'Die Große Kirche' in Shkodra"],
+      hu: ["1858 és 1867 között épült", "1991-ben itt tartották az első nyilvános misét", "II. János Pál pápa 1993-ban látogatta meg", "Shkodrában csak 'Nagy Templom' néven ismerik"],
+      ro: ["Construită între anii 1858 și 1867", "Locul primei liturghii publice în 1991", "Vizitată de Papa Ioan Paul al II-lea în 1993", "Cunoscută local ca 'Biserica Mare'"],
+      en: ["Built between 1858 and 1867", "Hosted the first public mass in 1991", "Visited by Pope John Paul II in 1993", "Known locally as 'The Great Church'"],
+    },
+    image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp",
+},  {
     id: "albania-archaeological-museum-durres-landmarks-v2",
     type: "museum",
-    name: { de: "Archäologisches Museum Durrës", hu: "Durrësi Régészeti Múzeum", ro: "Muzeul Arheologic Durrës", en: "Archaeological Museum of Durrës" },
+    name: { de: "Archäologisches Museum Durrës", hu: "Durrësi Régészeti Múzeum", ro: "Muzeul Arheologic Durrës", en: "Archaeological Museum of Durrës",
+image: "/poi-images/albania-archaeological-museum-durres-landmarks-v2.webp"
+},
     coordinates: { lat: 41.3114, lng: 19.4414 },
     description: {
       de: "Das Archäologische Museum in Durrës ist das größte seiner Art in Albanien und befindet sich in der Nähe der byzantinischen Stadtmauer. Es beherbergt Funde aus der griechischen, hellenistischen und römischen Epoche.",
@@ -417,5 +732,17 @@ export const albaniaLandmarksV2: POI[] = [
       en: ["Established in 1951", "Largest museum in Albania", "Ancient pottery finds", "Hellenistic period artifacts"],
     },
     imageHint: "Archaeological Museum Durres artifacts",
+    descriptionAdvanced: {
+      de: "Dieses 1951 gegründete Museum ist das größte archäologische Museum des Landes. Es beherbergt Fundstücke aus der griechischen, römischen und byzantinischen Zeit.",
+      hu: "Az 1951-ben alapított intézmény Albánia legnagyobb régészeti múzeuma. A görög, római és bizánci korszakból származó leleteket mutatja be a tengerparton.",
+      ro: "Fondat în 1951, este cel mai mare muzeu arheologic din țară. Găzduiește artefacte din perioadele greacă, romană și bizantină, lângă mare.",
+      en: "Founded in 1951, this is the largest archaeological museum in Albania. It houses artifacts from the Greek, Roman, and Byzantine periods.",
+    },
+    factsAdvanced: {
+      de: ["Liegt direkt an der Strandpromenade von Durrës", "Umfasst über 3.200 registrierte Objekte", "Besitzt eine bedeutende Sammlung antiker Stelen", "Wurde 2015 nach langer Renovierung neu eröffnet"],
+      hu: ["Közvetlenül a durrësi tengerparti sétányon áll", "Több mint 3200 lajstromozott tárgyat őriz", "Jelentős gyűjteménnyel bír antik sírkövekből", "Hosszú felújítás után 2015-ben nyitott meg újra"],
+      ro: ["Situat chiar pe promenada din Durrës", "Peste 3.200 de obiecte înregistrate în colecție", "Deține o colecție importantă de stele antice", "Redeschis în 2015 după o renovare îndelungată"],
+      en: ["Located on the Durrës waterfront promenade", "Houses over 3,200 catalogued artifacts", "Features a major collection of ancient stelae", "Reopened in 2015 after extensive renovations"],
+    },
   }
 ];

@@ -7,7 +7,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.8862, -2.1961],
-    name: { de: "Guayaquil", hu: "Guayaquil", ro: "Guayaquil", en: "Guayaquil" },
+    name: { de: "Guayaquil", hu: "Guayaquil", ro: "Guayaquil", en: "Guayaquil",
+image: "/poi-images/guayaquil-cities-v2.webp"
+},
     description: {
       de: "Die größte Stadt Ecuadors und das wichtigste Wirtschaftszentrum an der Pazifikküste.",
       hu: "Ecuador legnagyobb városa és legfontosabb gazdasági központja a csendes-óceáni partvidéken.",
@@ -36,7 +38,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-P",
     coords: [-78.5022, -0.2186],
-    name: { de: "Quito", hu: "Quito", ro: "Quito", en: "Quito" },
+    name: { de: "Quito", hu: "Quito", ro: "Quito", en: "Quito",
+image: "/poi-images/quito-cities-v2.webp"
+},
     description: {
       de: "Die hochgelegene Hauptstadt Ecuadors, bekannt für ihre gut erhaltene koloniale Altstadt.",
       hu: "Ecuador magasan fekvő fővárosa, amely jól megőrzött gyarmati óvárosáról híres.",
@@ -65,7 +69,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-A",
     coords: [-79.0045, -2.9001],
-    name: { de: "Cuenca", hu: "Cuenca", ro: "Cuenca", en: "Cuenca" },
+    name: { de: "Cuenca", hu: "Cuenca", ro: "Cuenca", en: "Cuenca",
+image: "/poi-images/cuenca-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Stadt in den Anden, berühmt für ihre Kopfsteinpflasterstraßen und historischen Kirchen.",
       hu: "Festői andesi város, amely macskaköves utcáiról és történelmi templomairól híres.",
@@ -94,7 +100,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-SD",
     coords: [-79.1753, -0.2530],
-    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo" },
+    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo",
+image: "/poi-images/santo-domingo-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Handelsknotenpunkt zwischen der Küste und dem Hochland Ecuadors.",
       hu: "Fontos kereskedelmi csomópont Ecuador partvidéke és a hegyvidék között.",
@@ -121,7 +129,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-O",
     coords: [-79.9592, -3.2581],
-    name: { de: "Machala", hu: "Machala", ro: "Machala", en: "Machala" },
+    name: { de: "Machala", hu: "Machala", ro: "Machala", en: "Machala",
+image: "/poi-images/machala-cities-v2.webp"
+},
     description: {
       de: "Wird oft als die Bananen-Hauptstadt der Welt bezeichnet.",
       hu: "Gyakran a világ banánfővárosaként is emlegetik.",
@@ -148,7 +158,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.8228, -2.1704],
-    name: { de: "Durán", hu: "Durán", ro: "Durán", en: "Durán" },
+    name: { de: "Durán", hu: "Durán", ro: "Durán", en: "Durán",
+image: "/poi-images/duran-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt, die durch eine Brücke über den Río Guayas mit Guayaquil verbunden ist.",
       hu: "Ipari város, amelyet egy híd köt össze Guayaquillal a Guayas folyó felett.",
@@ -175,7 +187,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.7259, -0.9496],
-    name: { de: "Manta", hu: "Manta", ro: "Manta", en: "Manta" },
+    name: { de: "Manta", hu: "Manta", ro: "Manta", en: "Manta",
+image: "/poi-images/manta-cities-v2.webp"
+},
     description: {
       de: "Eine der größten Hafenstädte Ecuadors, berühmt für den Thunfischfang und schöne Strände.",
       hu: "Ecuador egyik legnagyobb kikötővárosa, amely a tonhalhalászatról és szép strandjairól híres.",
@@ -202,7 +216,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-M",
     coords: [-80.4542, -1.0545],
-    name: { de: "Portoviejo", hu: "Portoviejo", ro: "Portoviejo", en: "Portoviejo" },
+    name: { de: "Portoviejo", hu: "Portoviejo", ro: "Portoviejo", en: "Portoviejo",
+image: "/poi-images/portoviejo-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die Stadt der Königlichen Tamarinden wegen der vielen Bäume in der Gegend.",
       hu: "A királyi tamarinduszok városaként is ismert a környéken található sok fa miatt.",
@@ -229,7 +245,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-I",
     coords: [-78.1189, 0.3517],
-    name: { de: "Ibarra", hu: "Ibarra", ro: "Ibarra", en: "Ibarra" },
+    name: { de: "Ibarra", hu: "Ibarra", ro: "Ibarra", en: "Ibarra",
+image: "/poi-images/ibarra-cities-v2.webp"
+},
     description: {
       de: "Die weiße Stadt wird für ihre kolonialen weißen Fassaden und das angenehme Klima geschätzt.",
       hu: "A fehér várost gyarmati fehér homlokzatai és kellemes klímája miatt kedvelik.",
@@ -256,7 +274,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-R",
     coords: [-79.4635, -1.0286],
-    name: { de: "Quevedo", hu: "Quevedo", ro: "Quevedo", en: "Quevedo" },
+    name: { de: "Quevedo", hu: "Quevedo", ro: "Quevedo", en: "Quevedo",
+image: "/poi-images/quevedo-cities-v2.webp"
+},
     description: {
       de: "Ein dynamisches Handelszentrum, das tief in einer reichen Agrarregion liegt.",
       hu: "Dinamikus kereskedelmi központ, amely egy gazdag mezőgazdasági régió mélyén fekszik.",
@@ -283,7 +303,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-L",
     coords: [-79.2042, -3.9931],
-    name: { de: "Loja", hu: "Loja", ro: "Loja", en: "Loja" },
+    name: { de: "Loja", hu: "Loja", ro: "Loja", en: "Loja",
+image: "/poi-images/loja-cities-v2.webp"
+},
     description: {
       de: "Gilt als die Musik- und Kulturhauptstadt Ecuadors.",
       hu: "Ecuador zenei és kulturális fővárosának tartják.",
@@ -310,7 +332,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-T",
     coords: [-78.6167, -1.2416],
-    name: { de: "Ambato", hu: "Ambato", ro: "Ambato", en: "Ambato" },
+    name: { de: "Ambato", hu: "Ambato", ro: "Ambato", en: "Ambato",
+image: "/poi-images/ambato-cities-v2.webp"
+},
     description: {
       de: "Die Stadt der Blumen und Früchte, berühmt für ihr gleichnamiges jährliches Fest.",
       hu: "A virágok és gyümölcsök városa, amely az azonos nevű éves fesztiváljáról híres.",
@@ -337,7 +361,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-E",
     coords: [-79.6542, 0.9592],
-    name: { de: "Esmeraldas", hu: "Esmeraldas", ro: "Esmeraldas", en: "Esmeraldas" },
+    name: { de: "Esmeraldas", hu: "Esmeraldas", ro: "Esmeraldas", en: "Esmeraldas",
+image: "/poi-images/esmeraldas-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Küstenort, der für seine afro-ecuadorianische Kultur und Raffinerien bekannt ist.",
       hu: "Fontos tengerparti város, amely afro-ecuadori kultúrájáról és olajfinomítóiról ismert.",
@@ -362,7 +388,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-H",
     coords: [-78.6521, -1.6709],
-    name: { de: "Riobamba", hu: "Riobamba", ro: "Riobamba", en: "Riobamba" },
+    name: { de: "Riobamba", hu: "Riobamba", ro: "Riobamba", en: "Riobamba",
+image: "/poi-images/riobamba-cities-v2.webp"
+},
     description: {
       de: "Wird oft Sultanin der Anden genannt, umgeben von schneebedeckten Vulkanen.",
       hu: "Gyakran az Andok szultánájának nevezik, amelyet hóval borított vulkánok vesznek körül.",
@@ -387,7 +415,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.5956, -2.1338],
-    name: { de: "Milagro", hu: "Milagro", ro: "Milagro", en: "Milagro" },
+    name: { de: "Milagro", hu: "Milagro", ro: "Milagro", en: "Milagro",
+image: "/poi-images/milagro-cities-v2.webp"
+},
     description: {
       de: "Die süßeste Stadt Ecuadors, benannt nach der ausgedehnten Zuckerrohrproduktion.",
       hu: "Ecuador legédesebb városa, amelyet a kiterjedt cukornádtermesztésről neveztek el így.",
@@ -412,7 +442,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-X",
     coords: [-78.6155, -0.9315],
-    name: { de: "Latacunga", hu: "Latacunga", ro: "Latacunga", en: "Latacunga" },
+    name: { de: "Latacunga", hu: "Latacunga", ro: "Latacunga", en: "Latacunga",
+image: "/poi-images/latacunga-cities-v2.webp"
+},
     description: {
       de: "Eine koloniale Stadt nahe dem Vulkan Cotopaxi, bekannt für das Fest der Mama Negra.",
       hu: "Gyarmati város a Cotopaxi vulkán közelében, amely a Mama Negra fesztiválról ismert.",
@@ -437,7 +469,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-SE",
     coords: [-80.9080, -2.2330],
-    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad" },
+    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad",
+image: "/poi-images/la-libertad-cities-v2.webp"
+},
     description: {
       de: "Das wirtschaftliche Zentrum der Halbinsel Santa Elena und ein wichtiger Knotenpunkt an der Küste.",
       hu: "A Santa Elena-félsziget gazdasági központja és a tengerpart fontos csomópontja.",
@@ -462,7 +496,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-R",
     coords: [-79.5305, -1.8021],
-    name: { de: "Babahoyo", hu: "Babahoyo", ro: "Babahoyo", en: "Babahoyo" },
+    name: { de: "Babahoyo", hu: "Babahoyo", ro: "Babahoyo", en: "Babahoyo",
+image: "/poi-images/babahoyo-cities-v2.webp"
+},
     description: {
       de: "Eine Flussstadt umgeben von üppiger Natur und großen Reisfeldern.",
       hu: "Folyóparti város, amelyet buja természet és nagy rizsföldek vesznek körül.",
@@ -487,7 +523,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-P",
     coords: [-78.4485, -0.3340],
-    name: { de: "Sangolquí", hu: "Sangolquí", ro: "Sangolquí", en: "Sangolquí" },
+    name: { de: "Sangolquí", hu: "Sangolquí", ro: "Sangolquí", en: "Sangolquí",
+image: "/poi-images/sangolqui-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiger Vorort von Quito, berühmt für sein traditionelles Schweinefleischgericht Hornado.",
       hu: "Quito csendes külvárosa, amely hagyományos sertéshúsételéről, a Hornadóról híres.",
@@ -512,7 +550,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.9774, -1.8617],
-    name: { de: "Daule", hu: "Daule", ro: "Daule", en: "Daule" },
+    name: { de: "Daule", hu: "Daule", ro: "Daule", en: "Daule",
+image: "/poi-images/daule-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die Reishauptstadt Ecuadors wegen der enormen Produktion dieses Getreides.",
       hu: "Ecuador rizsfővárosaként ismert e gabona hatalmas termelése miatt.",
@@ -537,7 +577,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-C",
     coords: [-77.7170, 0.8123],
-    name: { de: "Tulcán", hu: "Tulcán", ro: "Tulcán", en: "Tulcán" },
+    name: { de: "Tulcán", hu: "Tulcán", ro: "Tulcán", en: "Tulcán",
+image: "/poi-images/tulcan-cities-v2.webp"
+},
     description: {
       de: "Die nördlichste Stadt Ecuadors an der Grenze zu Kolumbien, bekannt für ihren einzigartigen Friedhof.",
       hu: "Ecuador legészakibb városa a kolumbiai határon, amely egyedülálló temetőjéről ismert.",
@@ -555,7 +597,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.0934, -0.6981],
-    name: { de: "Chone", hu: "Chone", ro: "Chone", en: "Chone" },
+    name: { de: "Chone", hu: "Chone", ro: "Chone", en: "Chone",
+image: "/poi-images/chone-cities-v2.webp"
+},
     description: {
       de: "Ein Zentrum für Rinderzucht und landwirtschaftliche Traditionen in Manabí.",
       hu: "A szarvasmarha-tenyésztés és a mezőgazdasági hagyományok központja Manabíban.",
@@ -573,7 +617,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-79.8055, -3.3255],
-    name: { de: "Pasaje", hu: "Pasaje", ro: "Pasaje", en: "Pasaje" },
+    name: { de: "Pasaje", hu: "Pasaje", ro: "Pasaje", en: "Pasaje",
+image: "/poi-images/pasaje-cities-v2.webp"
+},
     description: {
       de: "Eine sonnige Stadt, deren Wirtschaft stark vom Bananen- und Kakaoanbau abhängt.",
       hu: "Napfényes város, amelynek gazdasága erősen függ a banán- és kakaótermesztéstől.",
@@ -591,7 +637,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-79.9588, -3.4488],
-    name: { de: "Santa Rosa", hu: "Santa Rosa", ro: "Santa Rosa", en: "Santa Rosa" },
+    name: { de: "Santa Rosa", hu: "Santa Rosa", ro: "Santa Rosa", en: "Santa Rosa",
+image: "/poi-images/santa-rosa-cities-v2.webp"
+},
     description: {
       de: "Bekannt für seine exzellente Garnelenzucht und den kleinen regionalen Flughafen.",
       hu: "Kiváló garnélarák-tenyésztéséről és kis regionális repülőteréről ismert.",
@@ -609,7 +657,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-U",
     coords: [-76.8828, 0.0847],
-    name: { de: "Nueva Loja", hu: "Nueva Loja", ro: "Nueva Loja", en: "Nueva Loja" },
+    name: { de: "Nueva Loja", hu: "Nueva Loja", ro: "Nueva Loja", en: "Nueva Loja",
+image: "/poi-images/nueva-loja-cities-v2.webp"
+},
     description: {
       de: "Auch bekannt als Lago Agrio, ist es die wichtigste Ölstadt im ecuadorianischen Amazonasgebiet.",
       hu: "Lago Agrio néven is ismert, az ecuadori Amazonas-medence legfontosabb olajvárosa.",
@@ -627,7 +677,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-80.2307, -3.4752],
-    name: { de: "Huaquillas", hu: "Huaquillas", ro: "Huaquillas", en: "Huaquillas" },
+    name: { de: "Huaquillas", hu: "Huaquillas", ro: "Huaquillas", en: "Huaquillas",
+image: "/poi-images/huaquillas-cities-v2.webp"
+},
     description: {
       de: "Eine geschäftige Grenzstadt, die den Haupthandelsübergang zwischen Ecuador und Peru darstellt.",
       hu: "Forgalmas határváros, amely Ecuador és Peru közötti fő kereskedelmi átkelőhely.",
@@ -645,7 +697,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-79.4589, -0.2741],
-    name: { de: "El Carmen", hu: "El Carmen", ro: "El Carmen", en: "El Carmen" },
+    name: { de: "El Carmen", hu: "El Carmen", ro: "El Carmen", en: "El Carmen",
+image: "/poi-images/el-carmen-cities-v2.webp"
+},
     description: {
       de: "Bekannt als das Goldene Tor zu Manabí und berühmt für die Produktion von Kochbananen.",
       hu: "Manabí aranykapujaként ismert, és a főzőbanán termeléséről híres.",
@@ -663,7 +717,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.6588, -1.0458],
-    name: { de: "Montecristi", hu: "Montecristi", ro: "Montecristi", en: "Montecristi" },
+    name: { de: "Montecristi", hu: "Montecristi", ro: "Montecristi", en: "Montecristi",
+image: "/poi-images/montecristi-cities-v2.webp"
+},
     description: {
       de: "Die wahre Heimat des Panama-Huts und der Geburtsort des ecuadorianischen Präsidenten Eloy Alfaro.",
       hu: "A panamakalap igazi hazája és Eloy Alfaro ecuadori elnök szülőhelye.",
@@ -681,7 +737,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.7214, -1.9567],
-    name: { de: "Samborondón", hu: "Samborondón", ro: "Samborondón", en: "Samborondón" },
+    name: { de: "Samborondón", hu: "Samborondón", ro: "Samborondón", en: "Samborondón",
+image: "/poi-images/samborondon-cities-v2.webp"
+},
     description: {
       de: "Eine wohlhabende Vorstadtgemeinde, die für ihre exklusiven Wohnanlagen und historischen Reisfelder bekannt ist.",
       hu: "Jómódú külvárosi közösség, amely exkluzív lakóparkjairól és történelmi rizsföldjeiről ismert.",
@@ -699,7 +757,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-D",
     coords: [-76.9871, -0.4664],
-    name: { de: "Puerto Francisco de Orellana", hu: "Puerto Francisco de Orellana", ro: "Puerto Francisco de Orellana", en: "Puerto Francisco de Orellana" },
+    name: { de: "Puerto Francisco de Orellana", hu: "Puerto Francisco de Orellana", ro: "Puerto Francisco de Orellana", en: "Puerto Francisco de Orellana",
+image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp"
+},
     description: {
       de: "Auch El Coca genannt, ist sie ein Tor zum tiefen Amazonas und zur Yasuní-Region.",
       hu: "Az El Coca néven is ismert város az Amazonas mélyébe és a Yasuní régióba vezető kapu.",
@@ -717,7 +777,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.5794, -1.3330],
-    name: { de: "Jipijapa", hu: "Jipijapa", ro: "Jipijapa", en: "Jipijapa" },
+    name: { de: "Jipijapa", hu: "Jipijapa", ro: "Jipijapa", en: "Jipijapa",
+image: "/poi-images/jipijapa-cities-v2.webp"
+},
     description: {
       de: "Die Sultanin des Kaffees, historisch berühmt für den Kaffeeanbau an der ecuadorianischen Küste.",
       hu: "A kávé szultánája, amely történelmileg az ecuadori partvidék kávétermesztéséről híres.",
@@ -735,7 +797,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-SE",
     coords: [-80.8587, -2.2262],
-    name: { de: "Santa Elena", hu: "Santa Elena", ro: "Santa Elena", en: "Santa Elena" },
+    name: { de: "Santa Elena", hu: "Santa Elena", ro: "Santa Elena", en: "Santa Elena",
+image: "/poi-images/santa-elena-cities-v2.webp"
+},
     description: {
       de: "Das administrative Zentrum der gleichnamigen Provinz, das reich an archäologischen Funden ist.",
       hu: "Az azonos nevű tartomány közigazgatási központja, amely régészeti leletekben gazdag.",
@@ -753,7 +817,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-I",
     coords: [-78.2625, 0.2345],
-    name: { de: "Otavalo", hu: "Otavalo", ro: "Otavalo", en: "Otavalo" },
+    name: { de: "Otavalo", hu: "Otavalo", ro: "Otavalo", en: "Otavalo",
+image: "/poi-images/otavalo-cities-v2.webp"
+},
     description: {
       de: "Die indigene Hauptstadt Ecuadors, weltweit bekannt für ihren farbenfrohen Handwerksmarkt.",
       hu: "Ecuador őslakos fővárosa, amely világszerte ismert színes kézműves piacáról.",
@@ -771,7 +837,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-P",
     coords: [-78.1452, 0.0427],
-    name: { de: "Cayambe", hu: "Cayambe", ro: "Cayambe", en: "Cayambe" },
+    name: { de: "Cayambe", hu: "Cayambe", ro: "Cayambe", en: "Cayambe",
+image: "/poi-images/cayambe-cities-v2.webp"
+},
     description: {
       de: "Eine landwirtschaftliche Stadt am Fuße des mächtigen Vulkans Cayambe, bekannt für ihre Blumen und Käse.",
       hu: "Mezőgazdasági város a hatalmas Cayambe vulkán lábánál, amely virágairól és sajtjairól ismert.",
@@ -789,7 +857,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-R",
     coords: [-79.4897, -0.8986],
-    name: { de: "Buena Fe", hu: "Buena Fe", ro: "Buena Fe", en: "Buena Fe" },
+    name: { de: "Buena Fe", hu: "Buena Fe", ro: "Buena Fe", en: "Buena Fe",
+image: "/poi-images/buena-fe-cities-v2.webp"
+},
     description: {
       de: "Ein stark landwirtschaftlich geprägter Knotenpunkt im Herzen der Provinz Los Ríos.",
       hu: "Erősen mezőgazdasági jellegű csomópont a Los Ríos tartomány szívében.",
@@ -807,7 +877,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-R",
     coords: [-79.4594, -1.4422],
-    name: { de: "Ventanas", hu: "Ventanas", ro: "Ventanas", en: "Ventanas" },
+    name: { de: "Ventanas", hu: "Ventanas", ro: "Ventanas", en: "Ventanas",
+image: "/poi-images/ventanas-cities-v2.webp"
+},
     description: {
       de: "Das wirtschaftliche Zentrum der Maisproduktion in Ecuador, oft als Hauptstadt des gelben Goldes bezeichnet.",
       hu: "Az ecuadori kukoricatermesztés gazdasági központja, amelyet gyakran a sárga arany fővárosának neveznek.",
@@ -825,7 +897,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.6386, -1.0452],
-    name: { de: "Velasco Ibarra", hu: "Velasco Ibarra", ro: "Velasco Ibarra", en: "Velasco Ibarra" },
+    name: { de: "Velasco Ibarra", hu: "Velasco Ibarra", ro: "Velasco Ibarra", en: "Velasco Ibarra",
+image: "/poi-images/velasco-ibarra-cities-v2.webp"
+},
     description: {
       de: "Allgemein als El Empalme bekannt, ist es ein strategischer Verkehrsknotenpunkt zwischen drei Provinzen.",
       hu: "Általában El Empalme néven ismert, stratégiai közlekedési csomópont három tartomány között.",
@@ -843,7 +917,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-F",
     coords: [-79.3361, -2.4255],
-    name: { de: "La Troncal", hu: "La Troncal", ro: "La Troncal", en: "La Troncal" },
+    name: { de: "La Troncal", hu: "La Troncal", ro: "La Troncal", en: "La Troncal",
+image: "/poi-images/la-troncal-cities-v2.webp"
+},
     description: {
       de: "Die süßeste Stadt der Provinz Cañar aufgrund ihrer riesigen Zuckerrohrfelder und Mühlen.",
       hu: "Cañar tartomány legédesebb városa hatalmas cukornádföldjei és malmai miatt.",
@@ -861,7 +937,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.4005, -2.3316],
-    name: { de: "El Triunfo", hu: "El Triunfo", ro: "El Triunfo", en: "El Triunfo" },
+    name: { de: "El Triunfo", hu: "El Triunfo", ro: "El Triunfo", en: "El Triunfo",
+image: "/poi-images/el-triunfo-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftlicher Knotenpunkt, der die Provinzen Guayas und Chimborazo verbindet.",
       hu: "Mezőgazdasági csomópont, amely összeköti Guayas és Chimborazo tartományokat.",
@@ -892,7 +970,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-SE",
     coords: [-80.9758, -2.2145],
-    name: { de: "Salinas", hu: "Salinas", ro: "Salinas", en: "Salinas" },
+    name: { de: "Salinas", hu: "Salinas", ro: "Salinas", en: "Salinas",
+image: "/poi-images/salinas-cities-v2.webp"
+},
     description: {
       de: "Ecuadors bekanntester Badeort, berühmt für seine Hochhäuser, Strände und das Nachtleben.",
       hu: "Ecuador legismertebb tengerparti üdülőhelye, amely felhőkarcolóiról, strandjairól és éjszakai életéről híres.",
@@ -910,7 +990,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-80.3809, -2.6319],
-    name: { de: "General Villamil Playas", hu: "General Villamil Playas", ro: "General Villamil Playas", en: "General Villamil Playas" },
+    name: { de: "General Villamil Playas", hu: "General Villamil Playas", ro: "General Villamil Playas", en: "General Villamil Playas",
+image: "/poi-images/general-villamil-playas-cities-v2.webp"
+},
     description: {
       de: "Ein sehr beliebtes Strandziel, das aufgrund seiner Nähe zu Guayaquil floriert.",
       hu: "Nagyon népszerű tengerparti célpont, amely Guayaquil közelsége miatt virágzik.",
@@ -928,7 +1010,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-F",
     coords: [-78.8485, -2.7396],
-    name: { de: "Azogues", hu: "Azogues", ro: "Azogues", en: "Azogues" },
+    name: { de: "Azogues", hu: "Azogues", ro: "Azogues", en: "Azogues",
+image: "/poi-images/azogues-cities-v2.webp"
+},
     description: {
       de: "Eine koloniale Stadt in den Anden, die für ihre majestätische Franziskanerkirche bekannt ist.",
       hu: "Gyarmati város az Andokban, amely fenséges ferences templomáról ismert.",
@@ -946,7 +1030,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-Y",
     coords: [-78.0001, -1.4836],
-    name: { de: "Puyo", hu: "Puyo", ro: "Puyo", en: "Puyo" },
+    name: { de: "Puyo", hu: "Puyo", ro: "Puyo", en: "Puyo",
+image: "/poi-images/puyo-cities-v2.webp"
+},
     description: {
       de: "Das dynamische kommerzielle Zentrum an der Schwelle zum ecuadorianischen Amazonasregenwald.",
       hu: "Dinamikus kereskedelmi központ az ecuadori amazonasi esőerdő kapujában.",
@@ -964,7 +1050,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-R",
     coords: [-79.7516, -1.5544],
-    name: { de: "Vinces", hu: "Vinces", ro: "Vinces", en: "Vinces" },
+    name: { de: "Vinces", hu: "Vinces", ro: "Vinces", en: "Vinces",
+image: "/poi-images/vinces-cities-v2.webp"
+},
     description: {
       de: "Bekannt als das Paris in Kleinformat wegen seines architektonischen Einflusses aus der Kakaoboom-Zeit.",
       hu: "Párizs miniatűr változatának hívják a kakaóbúm idejéből származó építészeti hatásai miatt.",
@@ -982,7 +1070,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-SD",
     coords: [-79.3980, 0.0122],
-    name: { de: "La Concordia", hu: "La Concordia", ro: "La Concordia", en: "La Concordia" },
+    name: { de: "La Concordia", hu: "La Concordia", ro: "La Concordia", en: "La Concordia",
+image: "/poi-images/la-concordia-cities-v2.webp"
+},
     description: {
       de: "Eine junge und aufstrebende Agrarstadt an der Grenze zwischen Küste und Anden.",
       hu: "Fiatal és feltörekvő mezőgazdasági város a partvidék és az Andok határán.",
@@ -1000,7 +1090,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-E",
     coords: [-79.4660, 0.3275],
-    name: { de: "Quinindé", hu: "Quinindé", ro: "Quinindé", en: "Quinindé" },
+    name: { de: "Quinindé", hu: "Quinindé", ro: "Quinindé", en: "Quinindé",
+image: "/poi-images/quininde-cities-v2.webp"
+},
     description: {
       de: "Ein bedeutender Palmöl-Knotenpunkt im Herzen der üppigen Provinz Esmeraldas.",
       hu: "Jelentős pálmaolaj-csomópont a buja Esmeraldas tartomány szívében.",
@@ -1018,7 +1110,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.9052, -1.3644],
-    name: { de: "Balzar", hu: "Balzar", ro: "Balzar", en: "Balzar" },
+    name: { de: "Balzar", hu: "Balzar", ro: "Balzar", en: "Balzar",
+image: "/poi-images/balzar-cities-v2.webp"
+},
     description: {
       de: "Zentrum der Viehzucht und Teakholzproduktion im ländlichen Guayas.",
       hu: "A szarvasmarha-tenyésztés és a teakfa termelésének központja a vidéki Guayas területén.",
@@ -1036,7 +1130,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.4646, -2.1672],
-    name: { de: "Naranjito", hu: "Naranjito", ro: "Naranjito", en: "Naranjito" },
+    name: { de: "Naranjito", hu: "Naranjito", ro: "Naranjito", en: "Naranjito",
+image: "/poi-images/naranjito-cities-v2.webp"
+},
     description: {
       de: "Eine lebendige kleine Stadt, die von ausgedehnten Bananen- und Kakaofeldern geprägt ist.",
       hu: "Élénk kisváros, amelyet kiterjedt banán- és kakaóültetvények jellemeznek.",
@@ -1054,7 +1150,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.6174, -2.6736],
-    name: { de: "Naranjal", hu: "Naranjal", ro: "Naranjal", en: "Naranjal" },
+    name: { de: "Naranjal", hu: "Naranjal", ro: "Naranjal", en: "Naranjal",
+image: "/poi-images/naranjal-cities-v2.webp"
+},
     description: {
       de: "Der Ausgangspunkt für Ausflüge zu indigenen Gemeinschaften und den heißen Quellen von Churute.",
       hu: "Az őslakos közösségekhez és a Churute meleg forrásokhoz vezető kirándulások kiindulópontja.",
@@ -1072,7 +1170,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-B",
     coords: [-79.0022, -1.5930],
-    name: { de: "Guaranda", hu: "Guaranda", ro: "Guaranda", en: "Guaranda" },
+    name: { de: "Guaranda", hu: "Guaranda", ro: "Guaranda", en: "Guaranda",
+image: "/poi-images/guaranda-cities-v2.webp"
+},
     description: {
       de: "Die Stadt der sieben Hügel, eingebettet in die steilen Täler der ecuadorianischen Anden.",
       hu: "A hét domb városa, amely az ecuadori Andok meredek völgyeiben fekszik.",
@@ -1090,7 +1190,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-X",
     coords: [-79.2272, -0.9419],
-    name: { de: "La Maná", hu: "La Maná", ro: "La Maná", en: "La Maná" },
+    name: { de: "La Maná", hu: "La Maná", ro: "La Maná", en: "La Maná",
+image: "/poi-images/la-mana-cities-v2.webp"
+},
     description: {
       de: "Ein Kanton, in dem das tropische Klima auf den Fuß der Anden trifft, bekannt für Wasserfälle.",
       hu: "Olyan kanton, ahol a trópusi éghajlat az Andok lábával találkozik, vízeséseiről ismert.",
@@ -1108,7 +1210,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-N",
     coords: [-77.8138, -0.9937],
-    name: { de: "Tena", hu: "Tena", ro: "Tena", en: "Tena" },
+    name: { de: "Tena", hu: "Tena", ro: "Tena", en: "Tena",
+image: "/poi-images/tena-cities-v2.webp"
+},
     description: {
       de: "Das Herz des Amazonas-Tourismus, bekannt für erstklassiges Wildwasser-Rafting und Dschungeltouren.",
       hu: "Az amazóniai turizmus szíve, amely elsőrangú vadvízi evezéséről és dzsungeltúráiról ismert.",
@@ -1126,7 +1230,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-E",
     coords: [-78.8351, 1.2865],
-    name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo" },
+    name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo",
+image: "/poi-images/san-lorenzo-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt nahe der kolumbianischen Grenze, umgeben von unberührten Mangrovenwäldern.",
       hu: "A kolumbiai határ közelében fekvő kikötőváros, amelyet érintetlen mangroveerdők vesznek körül.",
@@ -1144,7 +1250,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-L",
     coords: [-79.3563, -3.9856],
-    name: { de: "Catamayo", hu: "Catamayo", ro: "Catamayo", en: "Catamayo" },
+    name: { de: "Catamayo", hu: "Catamayo", ro: "Catamayo", en: "Catamayo",
+image: "/poi-images/catamayo-cities-v2.webp"
+},
     description: {
       de: "Das sonnige Tal von Loja, bekannt für seine Zuckerrohrfelder und den regionalen Flughafen.",
       hu: "Loja napos völgye, amely cukornádföldjeiről és a regionális repülőtérről ismert.",
@@ -1162,7 +1270,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-79.8291, -3.2452],
-    name: { de: "El Guabo", hu: "El Guabo", ro: "El Guabo", en: "El Guabo" },
+    name: { de: "El Guabo", hu: "El Guabo", ro: "El Guabo", en: "El Guabo",
+image: "/poi-images/el-guabo-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftliches Zentrum, das sich durch seine kooperativen Bananenbauern auszeichnet.",
       hu: "Mezőgazdasági központ, amely a banántermesztő szövetkezetekről nevezetes.",
@@ -1181,7 +1291,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.0519, 0.0716],
-    name: { de: "Pedernales", hu: "Pedernales", ro: "Pedernales", en: "Pedernales" },
+    name: { de: "Pedernales", hu: "Pedernales", ro: "Pedernales", en: "Pedernales",
+image: "/poi-images/pedernales-cities-v2.webp"
+},
     description: {
       de: "Der Ort, an dem die erste französische geodätische Mission die Äquatorlinie in Ecuador bestimmte.",
       hu: "Az a hely, ahol az első francia geodéziai misszió meghatározta az Egyenlítő vonalát Ecuadorban.",
@@ -1199,7 +1311,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-I",
     coords: [-78.2144, 0.3322],
-    name: { de: "Atuntaqui", hu: "Atuntaqui", ro: "Atuntaqui", en: "Atuntaqui" },
+    name: { de: "Atuntaqui", hu: "Atuntaqui", ro: "Atuntaqui", en: "Atuntaqui",
+image: "/poi-images/atuntaqui-cities-v2.webp"
+},
     description: {
       de: "Die Textilhauptstadt Ecuadors, wo Handwerk und Industrie aufeinandertreffen.",
       hu: "Ecuador textilfővárosa, ahol a kézművesség és az ipar találkozik.",
@@ -1217,7 +1331,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.4236, -0.5979],
-    name: { de: "Bahía de Caráquez", hu: "Bahía de Caráquez", ro: "Bahía de Caráquez", en: "Bahía de Caráquez" },
+    name: { de: "Bahía de Caráquez", hu: "Bahía de Caráquez", ro: "Bahía de Caráquez", en: "Bahía de Caráquez",
+image: "/poi-images/bahia-de-caraquez-cities-v2.webp"
+},
     description: {
       de: "Eine der ersten als ökologisch deklarierten Städte der Welt mit einer wunderschönen Bucht.",
       hu: "A világ egyik első ökológiaivá nyilvánított városa, amely gyönyörű öböllel rendelkezik.",
@@ -1235,7 +1351,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-79.6808, -3.6811],
-    name: { de: "Piñas", hu: "Piñas", ro: "Piñas", en: "Piñas" },
+    name: { de: "Piñas", hu: "Piñas", ro: "Piñas", en: "Piñas",
+image: "/poi-images/pinas-cities-v2.webp"
+},
     description: {
       de: "Die Orchideenstadt der Anden, berühmt für ihre Blumenvielfalt und nebligen Wälder.",
       hu: "Az Andok orchideavárosa, amely a virágok sokszínűségéről és ködös erdőiről híres.",
@@ -1253,7 +1371,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-C",
     coords: [-77.8300, 0.5938],
-    name: { de: "San Gabriel", hu: "San Gabriel", ro: "San Gabriel", en: "San Gabriel" },
+    name: { de: "San Gabriel", hu: "San Gabriel", ro: "San Gabriel", en: "San Gabriel",
+image: "/poi-images/san-gabriel-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt in der Provinz Carchi, die zum Nationalen Kulturerbe Ecuadors gehört.",
       hu: "Történelmi város Carchi tartományban, amely Ecuador Nemzeti Kulturális Örökségének része.",
@@ -1271,7 +1391,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-A",
     coords: [-78.7758, -2.8888],
-    name: { de: "Gualaceo", hu: "Gualaceo", ro: "Gualaceo", en: "Gualaceo" },
+    name: { de: "Gualaceo", hu: "Gualaceo", ro: "Gualaceo", en: "Gualaceo",
+image: "/poi-images/gualaceo-cities-v2.webp"
+},
     description: {
       de: "Das Tor zum Osten aus Cuenca, bekannt für handgewebte Ikat-Textilien und Lederwaren.",
       hu: "Cuenca keleti kapuja, amely kézzel szőtt ikat textíliáiról és bőráruiról ismert.",
@@ -1289,7 +1411,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-S",
     coords: [-78.1158, -2.3025],
-    name: { de: "Macas", hu: "Macas", ro: "Macas", en: "Macas" },
+    name: { de: "Macas", hu: "Macas", ro: "Macas", en: "Macas",
+image: "/poi-images/macas-cities-v2.webp"
+},
     description: {
       de: "Die Smaragd-Stadt des Ostens, eine Amazonas-Siedlung, die lange Zeit isoliert war.",
       hu: "A Kelet Smaragdvárosa, egy amazóniai település, amely hosszú ideig elszigetelt volt.",
@@ -1307,7 +1431,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.6952, -2.0963],
-    name: { de: "Yaguachi", hu: "Yaguachi", ro: "Yaguachi", en: "Yaguachi" },
+    name: { de: "Yaguachi", hu: "Yaguachi", ro: "Yaguachi", en: "Yaguachi",
+image: "/poi-images/yaguachi-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger religiöser Wallfahrtsort für die Verehrung des San Jacinto in Ecuador.",
       hu: "Ecuador fontos vallási zarándokhelye, ahol San Jacintót tisztelik.",
@@ -1325,7 +1451,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-M",
     coords: [-80.1633, -0.8441],
-    name: { de: "Calceta", hu: "Calceta", ro: "Calceta", en: "Calceta" },
+    name: { de: "Calceta", hu: "Calceta", ro: "Calceta", en: "Calceta",
+image: "/poi-images/calceta-cities-v2.webp"
+},
     description: {
       de: "Eine traditionelle landwirtschaftliche Stadt in Manabí, geprägt von Flüssen und Kakao-Haciendas.",
       hu: "Hagyományos mezőgazdasági város Manabíban, amelyet folyók és kakaóhaciendák jellemeznek.",
@@ -1343,7 +1471,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-80.0683, -3.5530],
-    name: { de: "Arenillas", hu: "Arenillas", ro: "Arenillas", en: "Arenillas" },
+    name: { de: "Arenillas", hu: "Arenillas", ro: "Arenillas", en: "Arenillas",
+image: "/poi-images/arenillas-cities-v2.webp"
+},
     description: {
       de: "Eine trockene, vom Militär geprägte Stadt nahe der peruanischen Grenze in El Oro.",
       hu: "Száraz, katonai jellegű város az El Oro-i perui határ közelében.",
@@ -1361,7 +1491,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-L",
     coords: [-79.9430, -4.3783],
-    name: { de: "Macará", hu: "Macará", ro: "Macará", en: "Macará" },
+    name: { de: "Macará", hu: "Macará", ro: "Macará", en: "Macará",
+image: "/poi-images/macara-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger und warmer Grenzübergang zu Peru im südlichsten Teil von Loja.",
       hu: "Fontos és meleg határátkelőhely Peru felé Loja legdélebbi részén.",
@@ -1379,7 +1511,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-O",
     coords: [-79.6119, -3.6913],
-    name: { de: "Zaruma", hu: "Zaruma", ro: "Zaruma", en: "Zaruma" },
+    name: { de: "Zaruma", hu: "Zaruma", ro: "Zaruma", en: "Zaruma",
+image: "/poi-images/zaruma-cities-v2.webp"
+},
     description: {
       de: "Eine malerische historische Goldgräberstadt, die auf steilen Hügeln gebaut wurde.",
       hu: "Festői történelmi aranyásó város, amely meredek dombokra épült.",
@@ -1397,7 +1531,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-Z",
     coords: [-78.9566, -4.0692],
-    name: { de: "Zamora", hu: "Zamora", ro: "Zamora", en: "Zamora" },
+    name: { de: "Zamora", hu: "Zamora", ro: "Zamora", en: "Zamora",
+image: "/poi-images/zamora-cities-v2.webp"
+},
     description: {
       de: "Das Zentrum von Bergbau und Naturtourismus am Rande des südlichen Amazonas.",
       hu: "A bányászat és a természeti turizmus központja a déli Amazonas szélén.",
@@ -1415,7 +1551,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-W",
     coords: [-90.3138, -0.7401],
-    name: { de: "Puerto Ayora", hu: "Puerto Ayora", ro: "Puerto Ayora", en: "Puerto Ayora" },
+    name: { de: "Puerto Ayora", hu: "Puerto Ayora", ro: "Puerto Ayora", en: "Puerto Ayora",
+image: "/poi-images/puerto-ayora-cities-v2.webp"
+},
     description: {
       de: "Die bevölkerungsreichste Stadt der Galapagos-Inseln und das Hauptzentrum für Touristen.",
       hu: "A Galápagos-szigetek legnépesebb városa és a turisták fő központja.",
@@ -1433,7 +1571,9 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "state-capital",
     parent: "EC-W",
     coords: [-89.6015, -0.9016],
-    name: { de: "Puerto Baquerizo Moreno", hu: "Puerto Baquerizo Moreno", ro: "Puerto Baquerizo Moreno", en: "Puerto Baquerizo Moreno" },
+    name: { de: "Puerto Baquerizo Moreno", hu: "Puerto Baquerizo Moreno", ro: "Puerto Baquerizo Moreno", en: "Puerto Baquerizo Moreno",
+image: "/poi-images/puerto-baquerizo-moreno-cities-v2.webp"
+},
     description: {
       de: "Die politische Hauptstadt der Galapagos-Inseln, berühmt für ihre Seelöwenkolonien.",
       hu: "A Galápagos-szigetek politikai fővárosa, amely oroszlánfóka-kolóniáiról híres.",

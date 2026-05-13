@@ -11,8 +11,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Saryangdo-Inselküste",
       hu: "Szárjáng-sziget partvonala",
       ro: "Coasta Insulei Saryangdo",
-      en: "Saryangdo Island Coast"
-    },
+      en: "Saryangdo Island Coast",
+image: "/poi-images/saryangdo-island-coast-relief-v2.webp"
+},
     description: {
       de: "Die Küste der Insel Saryangdo ist bekannt für ihre dramatischen Klippen und den berühmten Hängebrücken-Wanderweg, der die Gipfel verbindet.",
       hu: "A Szárjáng-sziget partvonala drámai szikláiról és a csúcsokat összekötő híres függőhíd-túraútvonaláról ismert.",
@@ -34,8 +35,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Muju Gucheondong-Tal",
       hu: "Mudzsu Kucshondong-völgy",
       ro: "Valea Muju Gucheondong",
-      en: "Muju Gucheondong Valley"
-    },
+      en: "Muju Gucheondong Valley",
+image: "/poi-images/muju-gucheondong-valley-relief-v2.webp"
+},
     description: {
       de: "Ein malerisches Tal im Deogyusan-Nationalpark, das sich über 25 Kilometer erstreckt und für sein klares Wasser und seine üppige Vegetation bekannt ist.",
       hu: "Festői völgy a Toghjuszán Nemzeti Parkban, amely 25 kilométer hosszan húzódik, és tiszta vizéről, valamint buja növényzetéről ismert.",
@@ -58,8 +60,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Daegwallyeong-Hochebene",
       hu: "Tegvalljong-fennsík",
       ro: "Platoul Daegwallyeong",
-      en: "Daegwallyeong Plateau"
-    },
+      en: "Daegwallyeong Plateau",
+image: "/poi-images/daegwallyeong-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine Hochebene in der Provinz Gangwon, bekannt für ihre Schafsfarmen, Windparks und starken Schneefälle im Winter, was ihr den Spitznamen 'Alpen Koreas' einbrachte.",
       hu: "Egy fennsík Kangvon tartományban, amely juhfarmjairól, szélerőműparkjairól és télen erős havazásáról ismert, amiért a 'Korea Alpok' becenevet kapta.",
@@ -81,8 +84,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Sobaek-Gebirge",
       hu: "Szobek-hegység",
       ro: "Munții Sobaek",
-      en: "Sobaek Mountains"
-    },
+      en: "Sobaek Mountains",
+image: "/poi-images/sobaek-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine bedeutende Gebirgskette, die sich vom Taebaek-Gebirge bis zum Jirisan erstreckt und mehrere Nationalparks und hohe Gipfel umfasst.",
       hu: "Jelentős hegyvonulat, amely a Thebek-hegységtől a Dzsiriszánig terjed, és több nemzeti parkot és magas csúcsot is magában foglal.",
@@ -104,8 +108,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Küste der Byeonsan-Halbinsel",
       hu: "Pjonszán-félsziget partvidéke",
       ro: "Coasta Peninsulei Byeonsan",
-      en: "Byeonsan Peninsula Coast"
-    },
+      en: "Byeonsan Peninsula Coast",
+image: "/poi-images/byeonsan-peninsula-coast-relief-v2.webp"
+},
     description: {
       de: "Die Küste des Byeonsanbando-Nationalparks bietet eine einzigartige Landschaft mit Meeresklippen, ungewöhnlichen Felsformationen und breiten Wattflächen.",
       hu: "A Pjonszánbando Nemzeti Park partvidéke egyedülálló tájat kínál tengeri sziklákkal, szokatlan sziklaalakzatokkal és széles árapálysíkságokkal.",
@@ -127,8 +132,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Berg Palgongsan",
       hu: "Phalgong-hegy",
       ro: "Muntele Palgongsan",
-      en: "Palgongsan Mountain"
-    },
+      en: "Palgongsan Mountain",
+image: "/poi-images/palgongsan-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein heiliger Berg in der Nähe von Daegu, der viele buddhistische Tempel und Statuen beherbergt, darunter den berühmten Gatbawi-Buddha.",
       hu: "Egy szent hegy Tegu közelében, amely számos buddhista templomnak és szobornak ad otthont, köztük a híres Katpavi Buddhának.",
@@ -151,8 +157,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Cheorwon-Ebene",
       hu: "Cshorvon-alföld",
       ro: "Câmpia Cheorwon",
-      en: "Cheorwon Plain"
-    },
+      en: "Cheorwon Plain",
+image: "/poi-images/cheorwon-plain-relief-v2.webp"
+},
     description: {
       de: "Eine große Lava-Ebene in der Nähe der DMZ, die durch vulkanische Aktivität entstanden ist. Sie ist heute eine der wichtigsten Reisanbauregionen Koreas.",
       hu: "Egy nagy lávasíkság a demilitarizált zóna közelében, amelyet vulkáni tevékenység hozott létre. Ma Korea egyik legfontosabb rizstermesztő vidéke.",
@@ -174,8 +181,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Küste der Insel Ulleungdo",
       hu: "Ullung-sziget partvonala",
       ro: "Coasta Insulei Ulleungdo",
-      en: "Ulleungdo Island Coast"
-    },
+      en: "Ulleungdo Island Coast",
+image: "/poi-images/ulleungdo-island-coast-relief-v2.webp"
+},
     description: {
       de: "Eine vulkanische Insel im Japanischen Meer mit einer dramatisch steilen und felsigen Küste. Bekannt als 'Geheimnisvolle Insel'.",
       hu: "Vulkáni sziget a Japán-tengeren, drámaian meredek és sziklás partvonallal. 'Titokzatos szigetként' ismert.",
@@ -197,8 +205,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Gangcheonsan-Gebirgstal",
       hu: "Kangcshon-hegyi völgy",
       ro: "Valea Muntelui Gangcheon",
-      en: "Gangcheonsan Mountain Valley"
-    },
+      en: "Gangcheonsan Mountain Valley",
+image: "/poi-images/gangcheon-mountain-valley-relief-v2.webp"
+},
     description: {
       de: "Ein Tal in Sunchang, das für seine roten Herbstblätter, Wasserfälle und eine 50 Meter lange Hängebrücke bekannt ist.",
       hu: "Egy völgy Szuncshangban, amely vörös őszi leveleiről, vízeséseiről és egy 50 méter hosszú függőhídról ismert.",
@@ -220,8 +229,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Berg Yudalsan",
       hu: "Judál-hegy",
       ro: "Muntele Yudalsan",
-      en: "Yudalsan Mountain"
-    },
+      en: "Yudalsan Mountain",
+image: "/poi-images/yudalsan-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein Berg in der Hafenstadt Mokpo. Obwohl er nicht hoch ist, bietet er einen Panoramablick auf die Stadt, den Hafen und die umliegenden Inseln.",
       hu: "Egy hegy Mokpho kikötővárosában. Bár nem magas, panorámás kilátást nyújt a városra, a kikötőre és a környező szigetekre.",
@@ -243,8 +253,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Küstendüne Sinduri",
       hu: "Szinduri tengerparti dűne",
       ro: "Duna de coastă Sinduri",
-      en: "Sinduri Coastal Dune"
-    },
+      en: "Sinduri Coastal Dune",
+image: "/poi-images/sinduri-coastal-dune-relief-v2.webp"
+},
     description: {
       de: "Die größte Sanddüne in Südkorea, gelegen in Taean. Ein einzigartiges Wüsten-ähnliches Gebiet an der Westküste.",
       hu: "Dél-Korea legnagyobb homokdűnéje Theanban. Egyedülálló sivatagszerű terület a nyugati parton.",
@@ -266,8 +277,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Berg Gyeryongsan",
       hu: "Kjerjong-hegy",
       ro: "Muntele Gyeryongsan",
-      en: "Gyeryongsan Mountain"
-    },
+      en: "Gyeryongsan Mountain",
+image: "/poi-images/gyeryongsan-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein Berg, der als spirituelles Zentrum gilt und an der Grenze mehrerer Städte liegt. Der Name bedeutet 'Hahn-Drachen-Berg'.",
       hu: "Egy spirituális központnak tartott hegy, amely több város határán fekszik. A neve azt jelenti, hogy 'Kakas-Sárkány-hegy'.",
@@ -290,8 +302,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Juwang-Tal",
       hu: "Csuvang-völgy",
       ro: "Valea Juwang",
-      en: "Juwang Valley"
-    },
+      en: "Juwang Valley",
+image: "/poi-images/juwang-valley-relief-v2.webp"
+},
     description: {
       de: "Das Haupttal im Juwangsan-Nationalpark, bekannt für seine hoch aufragenden Felswände, Wasserfälle und den Daejeonsa-Tempel am Eingang.",
       hu: "A Csuvangszan Nemzeti Park fő völgye, amely tornyosuló sziklafalairól, vízeséseiről és a bejáratánál található Tedzsonsza-templomról ismert.",
@@ -313,8 +326,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Berg Cheongnyangsan",
       hu: "Cshongnjang-hegy",
       ro: "Muntele Cheongnyangsan",
-      en: "Cheongnyangsan Mountain"
-    },
+      en: "Cheongnyangsan Mountain",
+image: "/poi-images/cheongnyangsan-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein Berg in Bonghwa, der für seine dramatischen Felsgipfel, tiefen Schluchten und eine lange Himmelsbrücke bekannt ist.",
       hu: "Egy hegy Ponghvában, amely drámai szikla-csúcsairól, mély szurdokairól és egy hosszú égihídról ismert.",
@@ -336,8 +350,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Kap Homigot",
       hu: "Homigot-fok",
       ro: "Capul Homigot",
-      en: "Homigot Cape"
-    },
+      en: "Homigot Cape",
+image: "/poi-images/homigot-cape-coast-relief-v2.webp"
+},
     description: {
       de: "Der östlichste Punkt der koreanischen Halbinsel, berühmt für seine 'Hände der Harmonie'-Skulptur und als bester Ort, um den ersten Sonnenaufgang des Jahres zu sehen.",
       hu: "A Koreai-félsziget legkeletibb pontja, híres a 'Harmónia Kezei' szobráról, és a legjobb hely az év első napfelkeltéjének megtekintésére.",
@@ -359,8 +374,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Danyang Dodam Sambong Gipfel",
       hu: "Tanjang Totam Szambong-csúcsok",
       ro: "Vârfurile Danyang Dodam Sambong",
-      en: "Danyang Dodam Sambong Peaks"
-    },
+      en: "Danyang Dodam Sambong Peaks",
+image: "/poi-images/danyang-dodam-sambong-peaks-relief-v2.webp"
+},
     description: {
       de: "Drei malerische Felsgipfel, die aus dem Namhan-Fluss in Danyang ragen. Einer der 'Acht Ausblicke von Danyang'.",
       hu: "Három festői szikla-csúcs, amelyek a Namhan folyóból emelkednek ki Tanjangban. A 'Tanjang nyolc látképe' egyike.",
@@ -382,8 +398,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Berg Gariwangsan",
       hu: "Karivang-hegy",
       ro: "Muntele Gariwangsan",
-      en: "Gariwangsan Mountain"
-    },
+      en: "Gariwangsan Mountain",
+image: "/poi-images/gariwangsan-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein hoher Berg in Jeongseon, der für seine alten Yew-Bäume und als Austragungsort der alpinen Skiwettbewerbe der Olympischen Winterspiele 2018 bekannt ist.",
       hu: "Magas hegy Csongszonban, amely ősi tiszafáiról és a 2018-as téli olimpia alpesi síversenyeinek helyszíneként ismert.",
@@ -405,8 +422,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Naeyeonsan-Gebirgstal",
       hu: "Nejon-hegyi völgy",
       ro: "Valea Muntelui Naeyeon",
-      en: "Naeyeonsan Mountain Valley"
-    },
+      en: "Naeyeonsan Mountain Valley",
+image: "/poi-images/naeyeon-mountain-valley-relief-v2.webp"
+},
     description: {
       de: "Ein Tal in der Nähe von Pohang, das für seine Kette von 12 Wasserfällen bekannt ist, die sich durch eine tiefe Schlucht schlängeln.",
       hu: "Egy völgy Phohang közelében, amely 12 vízesésből álló láncolatáról ismert, amely egy mély szurdokon kanyarog keresztül.",
@@ -428,8 +446,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Küste der Insel Seonyudo",
       hu: "Szonju-sziget partvonala",
       ro: "Coasta Insulei Seonyudo",
-      en: "Seonyudo Island Coast"
-    },
+      en: "Seonyudo Island Coast",
+image: "/poi-images/seonyudo-island-coast-relief-v2.webp"
+},
     description: {
       de: "Eine der Hauptinseln des Gogunsan-Archipels, bekannt für ihre wunderschönen Strände, die malerische Landschaft und die Brücken, die sie mit den Nachbarinseln verbinden.",
       hu: "A Kogunszan-szigetcsoport egyik fő szigete, amely gyönyörű strandjairól, festői tájáról és a szomszédos szigetekkel összekötő hidakról ismert.",
@@ -451,8 +470,9 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       de: "Berg Mindungsan",
       hu: "Mindung-hegy",
       ro: "Muntele Mindungsan",
-      en: "Mindungsan Mountain"
-    },
+      en: "Mindungsan Mountain",
+image: "/poi-images/mindungsan-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein Berg in Jeongseon, dessen Name 'Kahler Berg' bedeutet. Sein Gipfel ist nicht von Bäumen, sondern von einem riesigen Feld mit Silbergras bedeckt.",
       hu: "Egy hegy Csongszonban, amelynek neve 'Kopasz hegy'. Csúcsát nem fák, hanem egy hatalmas ezüstfüves mező borítja.",

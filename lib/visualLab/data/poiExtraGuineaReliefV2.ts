@@ -11,8 +11,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Benna",
       hu: "Benna-hegy",
       ro: "Muntele Benna",
-      en: "Mount Benna"
-    },
+      en: "Mount Benna",
+image: "/poi-images/mount-benna-relief-v2.webp"
+},
     description: {
       de: "Ein markantes Sandsteinplateau in der Region Kindia, bekannt für seine steilen Klippen.",
       hu: "Egy jellegzetes homokkő fennsík Kindia régióban, amely meredek sziklafalairól ismert.",
@@ -46,8 +47,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Balandou",
       hu: "Balandou-hegy",
       ro: "Muntele Balandou",
-      en: "Mount Balandou"
-    },
+      en: "Mount Balandou",
+image: "/poi-images/mount-balandou-relief-v2.webp"
+},
     description: {
       de: "Ein isolierter Berg in Oberguinea, der die weiten Savannenebenen bei Kankan überragt.",
       hu: "Egy elszigetelt hegy Felső-Guineában, amely a Kankan környéki kiterjedt szavannák fölé magasodik.",
@@ -81,8 +83,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Saré",
       hu: "Saré-hegy",
       ro: "Muntele Saré",
-      en: "Mount Saré"
-    },
+      en: "Mount Saré",
+image: "/poi-images/mount-sare-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Gipfel im Herzen des Fouta-Djallon-Hochlands bei Labé.",
       hu: "A Fouta Djallon-felföld szívében, Labé közelében fekvő egyik legmagasabb csúcs.",
@@ -116,8 +119,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Tinka",
       hu: "Tinka-hegy",
       ro: "Muntele Tinka",
-      en: "Mount Tinka"
-    },
+      en: "Mount Tinka",
+image: "/poi-images/mount-tinka-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Bergkamm bei Dalaba, der spektakuläre Ausblicke auf die Täler bietet.",
       hu: "Egy jellegzetes hegygerinc Dalaba közelében, amely látványos kilátást nyújt a völgyekre.",
@@ -151,8 +155,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Kavendou",
       hu: "Kavendou-hegy",
       ro: "Muntele Kavendou",
-      en: "Mount Kavendou"
-    },
+      en: "Mount Kavendou",
+image: "/poi-images/mount-kavendou-relief-v2.webp"
+},
     description: {
       de: "Ein Teil der Gebirgskette in Waldguinea, geprägt von dichten Nebelwäldern.",
       hu: "Az erdős guineai hegylánc része, amelyet sűrű köderdők jellemeznek.",
@@ -186,8 +191,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Konossou",
       hu: "Konossou-hegy",
       ro: "Muntele Konossou",
-      en: "Mount Konossou"
-    },
+      en: "Mount Konossou",
+image: "/poi-images/mount-konossou-relief-v2.webp"
+},
     description: {
       de: "Ein hoher Gipfel an der Grenze zwischen Guinea und Liberia im südlichen Hochland.",
       hu: "Egy magas csúcs Guinea és Libéria határán a déli felföldön.",
@@ -221,8 +227,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Béro Waldreservat",
       hu: "Béro-hegyi Erdőrezervátum",
       ro: "Rezervația Forestieră Muntele Béro",
-      en: "Mount Béro Forest Reserve"
-    },
+      en: "Mount Béro Forest Reserve",
+image: "/poi-images/mount-bero-relief-v2.webp"
+},
     description: {
       de: "Ein gebirgiges Waldreservat in Südguinea, das für seinen Primärregenwald bekannt ist.",
       hu: "Egy hegyvidéki erdőrezervátum Dél-Guineában, amely primer esőerdejéről ismert.",
@@ -256,8 +263,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Kourandou",
       hu: "Kourandou-hegy",
       ro: "Muntele Kourandou",
-      en: "Mount Kourandou"
-    },
+      en: "Mount Kourandou",
+image: "/poi-images/mount-kourandou-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Gipfel in der Region Faranah, der den Übergang zur Savanne markiert.",
       hu: "Egy jellegzetes csúcs Faranah régióban, amely a szavannába való átmenetet jelzi.",
@@ -291,8 +299,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Dalaba-Hochebene",
       hu: "Dalaba-fennsík",
       ro: "Podișul Dalaba",
-      en: "Dalaba Plateau"
-    },
+      en: "Dalaba Plateau",
+image: "/poi-images/dalaba-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Plateau im Fouta-Djallon, bekannt für seine gemäßigten Temperaturen.",
       hu: "Egy kiterjedt fennsík a Fouta Djallonban, amely mérsékelt hőmérsékletéről ismert.",
@@ -326,8 +335,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mali-Plateau",
       hu: "Mali-fennsík",
       ro: "Podișul Mali",
-      en: "Mali Plateau"
-    },
+      en: "Mali Plateau",
+image: "/poi-images/mali-plateau-relief-v2.webp"
+},
     description: {
       de: "Das nördlichste Hochland Guineas, geprägt von tiefen Schluchten und hohen Klippen.",
       hu: "Guinea legészakibb felföldje, mély szurdokokkal és magas sziklákkal.",
@@ -362,8 +372,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Tinkisso-Becken",
       hu: "Tinkisso-medence",
       ro: "Bazinul Tinkisso",
-      en: "Tinkisso Basin"
-    },
+      en: "Tinkisso Basin",
+image: "/poi-images/tinkisso-basin-relief-v2.webp"
+},
     description: {
       de: "Eine weite geologische Senke im Norden, die vom Tinkisso-Fluss durchflossen wird.",
       hu: "Egy tágas geológiai medence északon, amelyen a Tinkisso-folyó folyik keresztül.",
@@ -397,8 +408,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Boké-Niederung",
       hu: "Boké-alföld",
       ro: "Câmpia Boké",
-      en: "Boké Lowlands"
-    },
+      en: "Boké Lowlands",
+image: "/poi-images/boke-lowlands-relief-v2.webp"
+},
     description: {
       de: "Die flache Küstenebene im Nordwesten Guineas, die reich an mineralischen Rohstoffen ist.",
       hu: "Északnyugat-Guinea lapos tengerparti síksága, amely ásványi nyersanyagokban gazdag.",
@@ -432,8 +444,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Siguiri-Tiefland",
       hu: "Siguiri-mélyföld",
       ro: "Câmpia Siguiri",
-      en: "Siguiri Lowland"
-    },
+      en: "Siguiri Lowland",
+image: "/poi-images/siguiri-lowland-relief-v2.webp"
+},
     description: {
       de: "Eine goldreiche Schwemmlandebene im Nordosten Guineas entlang des Niger-Flusses.",
       hu: "Egy aranyban gazdag ártéri síkság Északkelet-Guineában a Niger-folyó mentén.",
@@ -468,8 +481,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Faranah-Hügelland",
       hu: "Faranah-dombság",
       ro: "Dealurile Faranah",
-      en: "Faranah Hills"
-    },
+      en: "Faranah Hills",
+image: "/poi-images/faranah-hills-relief-v2.webp"
+},
     description: {
       de: "Sanfte Hügellandschaft in Zentralguinea, wo der mächtige Niger-Fluss entspringt.",
       hu: "Lankás dombvidék Közép-Guineában, ahol a hatalmas Niger-folyó ered.",
@@ -503,8 +517,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Koubia-Plateau",
       hu: "Koubia-fennsík",
       ro: "Podișul Koubia",
-      en: "Koubia Plateau"
-    },
+      en: "Koubia Plateau",
+image: "/poi-images/koubia-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein zerklüftetes Hochplateau im Nordosten des Fouta-Djallon-Massivs.",
       hu: "Egy tagolt fennsík a Fouta Djallon-masszívum északkeleti részén.",
@@ -539,8 +554,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Télimélé-Massiv",
       hu: "Télimélé-masszívum",
       ro: "Masivul Télimélé",
-      en: "Télimélé Massif"
-    },
+      en: "Télimélé Massif",
+image: "/poi-images/telimele-massif-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug im westlichen Guinea, der steil aus der Küstenebene aufsteigt.",
       hu: "Egy hegység Nyugat-Guineában, amely meredeken emelkedik ki a tengerparti síkságból.",
@@ -575,8 +591,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Gbahari",
       hu: "Gbahari-hegy",
       ro: "Muntele Gbahari",
-      en: "Mount Gbahari"
-    },
+      en: "Mount Gbahari",
+image: "/poi-images/mount-gbahari-relief-v2.webp"
+},
     description: {
       de: "Ein isolierter Gipfel im Boké-Distrikt, der eine weite Sicht über die Atlantikküste bietet.",
       hu: "Egy elszigetelt csúcs Boké körzetben, amely tágas kilátást nyújt az atlanti partvidékre.",
@@ -610,8 +627,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mount Kourou",
       hu: "Kourou-hegy",
       ro: "Muntele Kourou",
-      en: "Mount Kourou"
-    },
+      en: "Mount Kourou",
+image: "/poi-images/mount-kourou-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Gipfel im südlichen Fouta-Djallon, bekannt für seine karge Vegetation.",
       hu: "Egy jellegzetes csúcs a déli Fouta Djallonban, ritkás vegetációjáról ismert.",
@@ -645,8 +663,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Mamou-Becken",
       hu: "Mamou-medence",
       ro: "Bazinul Mamou",
-      en: "Mamou Basin"
-    },
+      en: "Mamou Basin",
+image: "/poi-images/mamou-basin-relief-v2.webp"
+},
     description: {
       de: "Eine tektonische Senke, die strategisch am Knotenpunkt zwischen Küste und Hochland liegt.",
       hu: "Egy tektonikai medence, amely stratégiailag a tengerpart és a felföld csomópontjában fekszik.",
@@ -680,8 +699,9 @@ export const poiExtraGuineaReliefV2: POI[] = [
       de: "Kérouané-Hochland",
       hu: "Kérouané-fennsík",
       ro: "Podișul Kérouané",
-      en: "Kérouané Highlands"
-    },
+      en: "Kérouané Highlands",
+image: "/poi-images/kerouane-highlands-relief-v2.webp"
+},
     description: {
       de: "Ein zerklüftetes Plateau im Osten Guineas, das reich an mineralischen Schätzen ist.",
       hu: "Egy tagolt fennsík Kelet-Guineában, amely gazdag ásványi kincsekben.",

@@ -6,7 +6,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-SA",
     coords: [44.2067, 15.3694],
-    name: { de: "Sanaa", hu: "Szanaa", ro: "Sana'a", en: "Sanaa" },
+    name: { de: "Sanaa", hu: "Szanaa", ro: "Sana'a", en: "Sanaa",
+image: "/poi-images/sanaa-cities-v2.webp"
+},
     description: {
       de: "Sanaa ist eine der am längsten ununterbrochen bewohnten Städte der Welt. Die Altstadt mit ihren einzigartigen Lehmhochhäusern gehört zum UNESCO-Weltkulturerbe. Sie liegt auf über 2.200 Metern Höhe.",
       hu: "Szanaa a világ egyik legrégebb óta folyamatosan lakott városa. Egyedülálló, vályogtéglából épült többemeletes házai miatt az óváros az UNESCO világörökség része. A város több mint 2200 méteres magasságban fekszik.",
@@ -30,7 +32,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-AD",
     coords: [45.0367, 12.7794],
-    name: { de: "Aden", hu: "Áden", ro: "Aden", en: "Aden" },
+    name: { de: "Aden", hu: "Áden", ro: "Aden", en: "Aden",
+image: "/poi-images/aden-cities-v2.webp"
+},
     description: {
       de: "Aden ist eine wichtige Hafenstadt am Roten Meer, berühmt für ihren natürlichen Hafen, der in einem erloschenen Vulkankrater liegt. Die strategische Lage machte sie zu einem historischen Handelsknotenpunkt.",
       hu: "Áden egy fontos kikötőváros a Vörös-tenger partján, amely egy kialudt vulkáni kráterben található természetes kikötőjéről híres. Stratégiai elhelyezkedése miatt évszázadokon át jelentős kereskedelmi központ volt.",
@@ -54,7 +58,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-TA",
     coords: [44.0167, 13.5795],
-    name: { de: "Taiz", hu: "Taiz", ro: "Taiz", en: "Taiz" },
+    name: { de: "Taiz", hu: "Taiz", ro: "Taiz", en: "Taiz",
+image: "/poi-images/taiz-cities-v2.webp"
+},
     description: {
       de: "Taiz gilt als die kulturelle Hauptstadt des Jemen und liegt malerisch im jemenitischen Hochland. Die Stadt wird vom imposanten Berg Sabir überragt und ist für ihre Kaffeeproduktion bekannt.",
       hu: "Taiz Jemen kulturális fővárosának számít, és festői környezetben fekszik a jemeni fennsíkon. A várost a fenséges Szabír-hegy uralja, környéke pedig híres a kávétermeléséről.",
@@ -78,7 +84,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-HU",
     coords: [42.9510, 14.7978],
-    name: { de: "Al-Hudaida", hu: "Al-Hudajda", ro: "Al Hudaydah", en: "Al Hudaydah" },
+    name: { de: "Al-Hudaida", hu: "Al-Hudajda", ro: "Al Hudaydah", en: "Al Hudaydah",
+image: "/poi-images/al-hudaydah-cities-v2.webp"
+},
     description: {
       de: "Al-Hudaida ist der wichtigste jemenitische Hafen am Roten Meer. Die Stadt entwickelte sich im 19. Jahrhundert zu einem bedeutenden Exporthafen für Kaffee und Baumwolle.",
       hu: "Al-Hudajda Jemen legfontosabb kikötője a Vörös-tenger partján. A 19. században fejlődött jelentős exportközponttá, főként a kávé és a pamut kereskedelmének köszönhetően.",
@@ -102,7 +110,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-HD",
     coords: [49.1242, 14.5428],
-    name: { de: "Al Mukalla", hu: "Al-Mukalla", ro: "Al Mukalla", en: "Al Mukalla" },
+    name: { de: "Al Mukalla", hu: "Al-Mukalla", ro: "Al Mukalla", en: "Al Mukalla",
+image: "/poi-images/al-mukalla-cities-v2.webp"
+},
     description: {
       de: "Al Mukalla ist die wichtigste Hafenstadt in der Region Hadramaut. Die weiße Küstenstadt besticht durch ihre traditionelle Architektur und ist ein Zentrum der Fischerei.",
       hu: "Al-Mukalla a Hadramaut régió legfontosabb kikötővárosa. A fehér épületeiről ismert parti város lenyűgöző hagyományos építészettel rendelkezik, és a halászat központja.",
@@ -126,7 +136,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-IB",
     coords: [44.1798, 13.9667],
-    name: { de: "Ibb", hu: "Ibb", ro: "Ibb", en: "Ibb" },
+    name: { de: "Ibb", hu: "Ibb", ro: "Ibb", en: "Ibb",
+image: "/poi-images/ibb-cities-v2.webp"
+},
     description: {
       de: "Ibb wird oft als die \"grüne Stadt\" des Jemen bezeichnet. Dank der hohen Niederschlagsmenge ist die Region von üppigen Terrassenfeldern und einer fruchtbaren Landschaft geprägt.",
       hu: "Ibb városát gyakran Jemen \"zöld városának\" is nevezik. A magas csapadékmennyiségnek köszönhetően a régiót buja teraszos mezők és termékeny vidékek jellemzik.",
@@ -150,7 +162,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-DH",
     coords: [44.3900, 14.5427],
-    name: { de: "Dhamar", hu: "Dhamar", ro: "Dhamar", en: "Dhamar" },
+    name: { de: "Dhamar", hu: "Dhamar", ro: "Dhamar", en: "Dhamar",
+image: "/poi-images/dhamar-cities-v2.webp"
+},
     description: {
       de: "Dhamar ist eine historische Stadt, die für ihre traditionellen Pferdezuchten und ihre alte Universität bekannt ist. Die Region ist auch ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Dhamar egy történelmi város, amely híres hagyományos lótenyésztéséről és ősi iszlám egyeteméről. A régió egyben fontos mezőgazdasági központ is az országban.",
@@ -174,7 +188,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-AM",
     coords: [43.9439, 15.6594],
-    name: { de: "Amran", hu: "Amrán", ro: "Amran", en: "Amran" },
+    name: { de: "Amran", hu: "Amrán", ro: "Amran", en: "Amran",
+image: "/poi-images/amran-cities-v2.webp"
+},
     description: {
       de: "Amran war ursprünglich eine alte sabäische Siedlung und ist heute ein geschäftiges Handelszentrum. Die Stadt ist von einer beeindruckenden historischen Lehmmauer umgeben.",
       hu: "Amrán eredetileg egy ősi szabai település volt, ma pedig egy nyüzsgő kereskedelmi központ. A várost egy lenyűgöző történelmi vályogfal veszi körül, amely egyedi hangulatot kölcsönöz neki.",
@@ -198,7 +214,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-HD",
     coords: [48.7883, 15.9427],
-    name: { de: "Seiyun", hu: "Szejún", ro: "Seiyun", en: "Seiyun" },
+    name: { de: "Seiyun", hu: "Szejún", ro: "Seiyun", en: "Seiyun",
+image: "/poi-images/seiyun-cities-v2.webp"
+},
     description: {
       de: "Seiyun liegt im Tal des Wadi Hadramaut und ist berühmt für den Al-Kathiri-Palast. Dieses gigantische Bauwerk aus Lehmziegeln ist eines der größten seiner Art auf der Welt.",
       hu: "Szejún a Vádi Hadramaut völgyében fekszik, és leginkább az Al-Kathiri palotáról ismert. Ez a gigantikus vályogépület az egyik legnagyobb ilyen típusú építmény a világon.",
@@ -222,7 +240,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-HU",
     coords: [43.3150, 14.1956],
-    name: { de: "Zabid", hu: "Zabid", ro: "Zabid", en: "Zabid" },
+    name: { de: "Zabid", hu: "Zabid", ro: "Zabid", en: "Zabid",
+image: "/poi-images/zabid-cities-v2.webp"
+},
     description: {
       de: "Zabid war vom 13. bis zum 15. Jahrhundert die Hauptstadt des Jemen und besaß eine berühmte islamische Universität. Die historische Architektur ist als UNESCO-Weltkulturerbe gelistet.",
       hu: "Zabid a 13. és 15. század között Jemen fővárosa volt, és egy híres iszlám egyetemmel büszkélkedhetett. Történelmi építészete az UNESCO világörökségi listáján is szerepel.",
@@ -246,7 +266,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-HJ",
     coords: [43.5950, 15.6114],
-    name: { de: "Hajjah", hu: "Haddzsa", ro: "Hajjah", en: "Hajjah" },
+    name: { de: "Hajjah", hu: "Haddzsa", ro: "Hajjah", en: "Hajjah",
+image: "/poi-images/hajjah-cities-v2.webp"
+},
     description: {
       de: "Hajjah liegt spektakulär auf einem Bergrücken in über 1.800 Metern Höhe. Die Zitadelle von Al-Qahirah bietet einen atemberaubenden Blick auf die umliegenden Täler.",
       hu: "Haddzsa látványos helyen, egy hegygerincen fekszik, több mint 1800 méteres magasságban. Az Al-Qahirah fellegvárából lenyűgöző kilátás nyílik a környező mély völgyekre.",
@@ -270,7 +292,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-SD",
     coords: [43.7639, 16.9402],
-    name: { de: "Saada", hu: "Szaada", ro: "Saada", en: "Saada" },
+    name: { de: "Saada", hu: "Szaada", ro: "Saada", en: "Saada",
+image: "/poi-images/saada-cities-v2.webp"
+},
     description: {
       de: "Saada ist eine der ältesten mittelalterlichen Städte des Jemen und das historische Zentrum des Zaidismus. Die Stadt war berühmt für ihre traditionelle Handwerkskunst und die dicken Stadtmauern.",
       hu: "Szaada Jemen egyik legrégebbi középkori városa, és a zaidita iszlám történelmi központja. A település híres volt hagyományos kézművességéről és vastag védőfalairól.",
@@ -294,7 +318,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-BA",
     coords: [45.5714, 13.9852],
-    name: { de: "Al Bayda", hu: "Al-Bajda", ro: "Al Bayda", en: "Al Bayda" },
+    name: { de: "Al Bayda", hu: "Al-Bajda", ro: "Al Bayda", en: "Al Bayda",
+image: "/poi-images/al-bayda-cities-v2.webp"
+},
     description: {
       de: "Al Bayda liegt in einer landwirtschaftlich geprägten Ebene im Landesinneren. Die Stadt ist ein wichtiger Verkehrsknotenpunkt zwischen dem Norden und dem Süden des Landes.",
       hu: "Al-Bajda egy mezőgazdasági jellegű síkságon fekszik a szárazföld belsejében. A város fontos közlekedési csomópont, amely összeköti az ország északi és déli régióit.",
@@ -318,7 +344,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-JA",
     coords: [44.7766, 16.1641],
-    name: { de: "Al Hazm", hu: "Al-Hazm", ro: "Al Hazm", en: "Al Hazm" },
+    name: { de: "Al Hazm", hu: "Al-Hazm", ro: "Al Hazm", en: "Al Hazm",
+image: "/poi-images/al-hazm-cities-v2.webp"
+},
     description: {
       de: "Al Hazm ist die Hauptstadt des Gouvernements Al-Dschauf und liegt in der Nähe der großen Wüste Rub al-Chali. Die Region hat eine reiche Geschichte, die bis ins antike Königreich Ma'in zurückreicht.",
       hu: "Al-Hazm Al-Dzsauf kormányzóság fővárosa, a hatalmas Rub al-Háli sivatag szélén található. A régió gazdag történelme egészen az ősi Ma'in királyság idejéig nyúlik vissza.",
@@ -342,7 +370,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-LA",
     coords: [44.8833, 13.0608],
-    name: { de: "Al Houta", hu: "Al-Huta", ro: "Al Houta", en: "Al Houta" },
+    name: { de: "Al Houta", hu: "Al-Huta", ro: "Al Houta", en: "Al Houta",
+image: "/poi-images/al-houta-cities-v2.webp"
+},
     description: {
       de: "Al Houta, auch bekannt als Lahidsch, ist das landwirtschaftliche Zentrum eines fruchtbaren Deltas. Die Stadt ist für ihren lebhaften Markt und die traditionelle Musik der Region bekannt.",
       hu: "Al-Huta, más néven Lahidzs, egy termékeny delta mezőgazdasági központja. A város élénk piacáról és a régió jellegzetes hagyományos zenéjéről ismert.",
@@ -366,7 +396,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-MA",
     coords: [45.3250, 15.4206],
-    name: { de: "Marib", hu: "Márib", ro: "Marib", en: "Marib" },
+    name: { de: "Marib", hu: "Márib", ro: "Marib", en: "Marib",
+image: "/poi-images/marib-cities-v2.webp"
+},
     description: {
       de: "Marib war die Hauptstadt des antiken Königreichs von Saba. Heute ist die Stadt für ihre archäologischen Stätten und den modernen Staudamm, der die antike Struktur ersetzte, bekannt.",
       hu: "Márib az ókori Szaba királyságának fővárosa volt. Ma a város régészeti lelőhelyeiről, valamint a modern gátról ismert, amely az ősi építmény helyét vette át.",
@@ -390,7 +422,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-AB",
     coords: [45.3806, 13.1287],
-    name: { de: "Zinjibar", hu: "Zindzsibár", ro: "Zinjibar", en: "Zinjibar" },
+    name: { de: "Zinjibar", hu: "Zindzsibár", ro: "Zinjibar", en: "Zinjibar",
+image: "/poi-images/zinjibar-cities-v2.webp"
+},
     description: {
       de: "Zinjibar ist die Hauptstadt der Provinz Abyan und liegt nahe der Küste des Golfs von Aden. Die umliegende Region ist für den Anbau von Baumwolle und Papayas bekannt.",
       hu: "Zindzsibár Abján tartomány fővárosa, amely az Ádeni-öböl partjának közelében található. A környező vidék a pamut és a papaya termesztéséről ismert.",
@@ -414,7 +448,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-MR",
     coords: [52.1760, 16.2079],
-    name: { de: "Al Ghaydah", hu: "Al-Gajda", ro: "Al Ghaydah", en: "Al Ghaydah" },
+    name: { de: "Al Ghaydah", hu: "Al-Gajda", ro: "Al Ghaydah", en: "Al Ghaydah",
+image: "/poi-images/al-ghaydah-cities-v2.webp"
+},
     description: {
       de: "Al-Ghaydah ist eine Küstenstadt im Osten des Jemen und die Hauptstadt des Gouvernements Al-Mahrah. Sie ist bekannt für ihre strategische Lage am Arabischen Meer.",
       hu: "Al-Gajda Jemen legkeletibb tartományi fővárosa, a Mahra régióban, az ománi határ közelében fekszik. A helyiek egy különleges sémi nyelvet, a mehrit beszélik.",
@@ -438,7 +474,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-MW",
     coords: [43.5500, 15.4700],
-    name: { de: "Al Mahwit", hu: "Al-Mahvít", ro: "Al Mahwit", en: "Al Mahwit" },
+    name: { de: "Al Mahwit", hu: "Al-Mahvít", ro: "Al Mahwit", en: "Al Mahwit",
+image: "/poi-images/al-mahwit-cities-v2.webp"
+},
     description: {
       de: "Al Mahwit liegt malerisch an den Hängen hoch aufragender Berge. Die Stadt ist berühmt für ihre Festungsbauten und die tiefen, fruchtbaren Täler, in denen Kaffee und Qat angebaut werden.",
       hu: "Al-Mahvít festői környezetben, magasra törő hegyek lejtőin terül el. A település híres erődítményeiről és a mély, termékeny völgyekről, ahol kávét és katot termesztenek.",
@@ -462,7 +500,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-SH",
     coords: [46.8319, 14.5377],
-    name: { de: "Ataq", hu: "Ataq", ro: "Ataq", en: "Ataq" },
+    name: { de: "Ataq", hu: "Ataq", ro: "Ataq", en: "Ataq",
+image: "/poi-images/ataq-cities-v2.webp"
+},
     description: {
       de: "Ataq ist die Hauptstadt der ölreichen Provinz Schabwa. Ein Wahrzeichen der Stadt ist das moderne Museum, das zahlreiche Artefakte der antiken jemenitischen Zivilisationen beherbergt.",
       hu: "Ataq a kőolajban gazdag Sabva tartomány fővárosa. A város egyik nevezetessége a modern múzeum, amely az ősi jemeni civilizációk számos leletét őrzi.",
@@ -486,7 +526,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-RA",
     coords: [43.6000, 14.6200],
-    name: { de: "Al Jabin", hu: "Al-Dzshabin", ro: "Al Jabin", en: "Al Jabin" },
+    name: { de: "Al Jabin", hu: "Al-Dzshabin", ro: "Al Jabin", en: "Al Jabin",
+image: "/poi-images/al-jabin-cities-v2.webp"
+},
     description: {
       de: "Al Jabin ist das Verwaltungszentrum der Bergprovinz Raymah. Die Stadt ist schwer zugänglich und bewahrt eine sehr traditionelle Lebensweise inmitten einer spektakulären Bergkulisse.",
       hu: "Al-Dzshabin a hegyvidéki Rajma tartomány közigazgatási központja. A város nehezen megközelíthető, és megőrizte hagyományos életmódját a lenyűgöző hegyvidéki díszletek között.",
@@ -510,7 +552,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-SU",
     coords: [54.0200, 12.6500],
-    name: { de: "Hadibu", hu: "Hadibu", ro: "Hadibu", en: "Hadibu" },
+    name: { de: "Hadibu", hu: "Hadibu", ro: "Hadibu", en: "Hadibu",
+image: "/poi-images/hadibu-cities-v2.webp"
+},
     description: {
       de: "Hadibu ist die größte Stadt auf der Insel Sokotra, die für ihre einzigartige Biodiversität weltberühmt ist. Von hier aus starten die meisten Expeditionen zu den Drachenblutbäumen.",
       hu: "Hadibu a Szokotra sziget legnagyobb városa, amely egyedülálló biológiai sokféleségéről világhírű. Innen indul a legtöbb expedíció a híres sárkányvérfákhoz.",
@@ -534,7 +578,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "state-capital",
     parent: "YE-DA",
     coords: [44.7300, 13.6900],
-    name: { de: "Dhale", hu: "Dhale", ro: "Dhale", en: "Dhale" },
+    name: { de: "Dhale", hu: "Dhale", ro: "Dhale", en: "Dhale",
+image: "/poi-images/dhale-cities-v2.webp"
+},
     description: {
       de: "Dhale, auch Ad-Dali genannt, liegt strategisch günstig an der Hauptstraße zwischen Aden und Sanaa. Die Stadt spielte in der modernen Geschichte des Jemen eine wichtige militärische Rolle.",
       hu: "Dhale, más néven Ad-Dali, stratégiai helyen fekszik az Áden és Szanaa közötti főútvonal mentén. A város jelentős katonai szerepet játszott Jemen modern történelmében.",
@@ -558,7 +604,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-IB",
     coords: [44.3780, 14.2980],
-    name: { de: "Yarim", hu: "Jarim", ro: "Yarim", en: "Yarim" },
+    name: { de: "Yarim", hu: "Jarim", ro: "Yarim", en: "Yarim",
+image: "/poi-images/yarim-cities-v2.webp"
+},
     description: {
       de: "Yarim liegt auf einem fruchtbaren Hochplateau und war historisch ein bedeutender Rastplatz für Karawanen. Die alten Steinhäuser der Stadt spiegeln die typische Hochlandarchitektur wider.",
       hu: "Jarim egy termékeny fennsíkon terül el, és történelmileg fontos pihenőhely volt a karavánok számára. A város ősi kőházai a tipikus hegyvidéki építészetet tükrözik.",
@@ -582,7 +630,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-HU",
     coords: [43.2858, 14.9819],
-    name: { de: "Bajil", hu: "Bádzsil", ro: "Bajil", en: "Bajil" },
+    name: { de: "Bajil", hu: "Bádzsil", ro: "Bajil", en: "Bajil",
+image: "/poi-images/bajil-cities-v2.webp"
+},
     description: {
       de: "Bajil liegt am Rande der Küstenebene Tihama und ist für seine große Zementfabrik bekannt. Die Stadt verbindet die heißen Küstenregionen mit dem gemäßigteren Hochland.",
       hu: "Bádzsil a Tihama parti síkság szélén található, és hatalmas cementgyáráról ismert. A város összeköti a forró tengerparti régiókat az enyhébb klímájú hegyvidékkel.",
@@ -606,7 +656,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-HD",
     coords: [48.9950, 16.0500],
-    name: { de: "Tarim", hu: "Tarim", ro: "Tarim", en: "Tarim" },
+    name: { de: "Tarim", hu: "Tarim", ro: "Tarim", en: "Tarim",
+image: "/poi-images/tarim-cities-v2.webp"
+},
     description: {
       de: "Tarim ist ein wichtiges theologisches Zentrum im Wadi Hadramaut. Die Stadt wird von dem fast 50 Meter hohen Al-Mihdar-Minarett aus Lehmziegeln dominiert, dem höchsten seiner Art.",
       hu: "Tarim fontos teológiai központ a Vádi Hadramaut régióban. A városképet a csaknem 50 méter magas, vályogból épült Al-Mihdar minaret uralja, amely a legmagasabb a maga nemében.",
@@ -630,7 +682,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-HD",
     coords: [49.6064, 14.7558],
-    name: { de: "Ash Shihr", hu: "As-Sihr", ro: "Ash Shihr", en: "Ash Shihr" },
+    name: { de: "Ash Shihr", hu: "As-Sihr", ro: "Ash Shihr", en: "Ash Shihr",
+image: "/poi-images/ash-shihr-cities-v2.webp"
+},
     description: {
       de: "Ash Shihr ist eine alte Hafenstadt am Arabischen Meer, die früher ein Zentrum des Weihrauchhandels war. Die historische Stadtmauer und die alten Festungen zeugen von einer glorreichen Vergangenheit.",
       hu: "As-Sihr egy ősi kikötőváros az Arab-tenger partján, amely egykor a tömjénkereskedelem központja volt. A történelmi városfal és az ősi erődök a dicsőséges múltról tanúskodnak.",
@@ -654,7 +708,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-BA",
     coords: [44.9300, 14.4200],
-    name: { de: "Rada'a", hu: "Rada", ro: "Rada'a", en: "Rada'a" },
+    name: { de: "Rada'a", hu: "Rada", ro: "Rada'a", en: "Rada'a",
+image: "/poi-images/rada-cities-v2.webp"
+},
     description: {
       de: "Rada'a zeichnet sich durch die prächtige Amiriya-Moschee aus dem 16. Jahrhundert aus. Das Bauwerk wurde aufwendig restauriert und 2007 mit dem Aga Khan Award für Architektur ausgezeichnet.",
       hu: "Rada fő látványossága a lenyűgöző 16. századi Amirija mecset. Az épületet gondosan restaurálták, aminek köszönhetően 2007-ben elnyerte az Aga Kán Építészeti Díjat.",
@@ -678,7 +734,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-TA",
     coords: [43.2450, 13.3180],
-    name: { de: "Mokka", hu: "Mokka", ro: "Mocha", en: "Mocha" },
+    name: { de: "Mokka", hu: "Mokka", ro: "Mocha", en: "Mocha",
+image: "/poi-images/mocha-cities-v2.webp"
+},
     description: {
       de: "Mokka war zwischen dem 15. und 17. Jahrhundert der wichtigste Kaffeehafen der Welt. Der Name der Stadt wurde zum Synonym für hochwertigen Kaffee, obwohl der Hafen heute an Bedeutung verloren hat.",
       hu: "Mokka a 15. és 17. század között a világ legfontosabb kávékikötője volt. A város neve szinonimájává vált a kiváló minőségű kávénak, bár a kikötő mára elvesztette jelentőségét.",
@@ -702,7 +760,9 @@ export const poiExtraYemenCitiesV2: POI[] = [
     type: "city",
     parent: "YE-IB",
     coords: [44.1460, 13.9210],
-    name: { de: "Jibla", hu: "Dzsibla", ro: "Jibla", en: "Jibla" },
+    name: { de: "Jibla", hu: "Dzsibla", ro: "Jibla", en: "Jibla",
+image: "/poi-images/jibla-cities-v2.webp"
+},
     description: {
       de: "Jibla war im 11. Jahrhundert die Hauptstadt der Sulayhiden-Dynastie unter Königin Arwa. Die historische Stadt besticht durch ihre verschlungenen Gassen und den alten Königspalast.",
       hu: "Dzsibla a 11. században Arva királynő uralma alatt a szulajhida dinasztia fővárosa volt. A történelmi város kanyargós utcáival és a régi királyi palotával lenyűgöző látványt nyújt.",

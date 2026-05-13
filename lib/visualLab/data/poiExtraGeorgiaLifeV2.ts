@@ -6,7 +6,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-AJ",
     coords: [41.8706, 41.6781],
-    name: { de: "Mtirala-Nationalpark", hu: "Mtirala Nemzeti Park", ro: "Parcul Național Mtirala", en: "Mtirala National Park" },
+    name: { de: "Mtirala-Nationalpark", hu: "Mtirala Nemzeti Park", ro: "Parcul Național Mtirala", en: "Mtirala National Park",
+image: "/poi-images/ge-mtirala-national-park-life-v2.webp"
+},
     description: { de: "Dieser Nationalpark in Adscharien verdankt seinen Namen dem regenreichen Mikroklima. Er zeichnet sich durch dichte subtropische Wälder, tiefe Schluchten und vielfältige Flora und Fauna aus.", hu: "Ez az adzsáriai nemzeti park a nevét az esős mikroklímájáról kapta. Sűrű szubtrópusi erdők, mély szurdokok és változatos növény- és állatvilág jellemzi.", ro: "Acest parc național din Adjara își datorează numele microclimatului ploios. Se distinge prin păduri subtropicale dense, defileuri adânci și o floră și faună diversă.", en: "This national park in Adjara owes its name to the rainy microclimate. It features dense subtropical forests, deep gorges, and diverse flora and fauna." },
     facts: {
       de: ["Der Name bedeutet weinend.", "Hohe jährliche Niederschlagsmenge.", "Heimat von Braunbären und Luchsen.", "Beliebt für Ziplining."],
@@ -19,7 +21,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [46.4678, 41.1969],
-    name: { de: "Waschlowani-Nationalpark", hu: "Vaslovani Nemzeti Park", ro: "Parcul Național Vașlovani", en: "Vashlovani National Park" },
+    name: { de: "Waschlowani-Nationalpark", hu: "Vaslovani Nemzeti Park", ro: "Parcul Național Vașlovani", en: "Vashlovani National Park",
+image: "/poi-images/ge-vashlovani-national-park-life-v2.webp"
+},
     description: { de: "Der Nationalpark im Osten Georgiens bietet eine savannenartige Landschaft mit bizarren Felsformationen und Schlammvulkanen. Er ist ein wichtiger Zufluchtsort für seltene Tierarten.", hu: "Kelet-Grúzia nemzeti parkja szavannaszerű tájat, bizarr sziklaalakzatokat és iszapvulkánokat kínál. Ritka állatfajok fontos menedékhelye.", ro: "Parcul național din estul Georgiei oferă un peisaj de savană cu formațiuni stâncoase bizare și vulcani noroioși. Este un refugiu important pentru speciile rare de animale.", en: "The national park in eastern Georgia offers a savanna-like landscape with bizarre rock formations and mud volcanoes. It is an important refuge for rare animal species." },
     facts: {
       de: ["Bekannt für Halbwüstenlandschaften.", "Beherbergt Leoparden und Streifenhyänen.", "Zahlreiche aktive Schlammvulkane.", "Beliebt für Offroad-Safaris."],
@@ -32,7 +36,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [46.2917, 41.8542],
-    name: { de: "Lagodechi-Naturschutzgebiet", hu: "Lagodehi Védett Területek", ro: "Aria Protejată Lagodehi", en: "Lagodekhi Protected Areas" },
+    name: { de: "Lagodechi-Naturschutzgebiet", hu: "Lagodehi Védett Területek", ro: "Aria Protejată Lagodehi", en: "Lagodekhi Protected Areas",
+image: "/poi-images/ge-lagodekhi-reserve-life-v2.webp"
+},
     description: { de: "Eines der ältesten Naturschutzgebiete des Kaukasus besticht durch urwaldartige Wälder und spektakuläre Wasserfälle. Wanderwege führen hier bis in alpine Höhenlagen.", hu: "A Kaukázus egyik legrégebbi természetvédelmi területe, mely őserdeivel és látványos vízeséseivel hódít. Túraútvonalai egészen az alpesi régiókba vezetnek.", ro: "Una dintre cele mai vechi arii protejate din Caucaz fascinează cu pădurile sale virgine și cascadele spectaculoase. Traseele de drumeție duc aici până la altitudini alpine.", en: "One of the oldest nature reserves in the Caucasus captivates with its primeval forests and spectacular waterfalls. Hiking trails here lead up to alpine altitudes." },
     facts: {
       de: ["Gegründet im Jahr 1912.", "Grenzt an Aserbaidschan und Russland.", "Heimat von über 1000 Pflanzenarten.", "Schützt den kaukasischen Tur."],
@@ -46,7 +52,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [45.4542, 42.4208],
-    name: { de: "Tuschetien-Nationalpark", hu: "Tuséti Nemzeti Park", ro: "Parcul Național Tușeti", en: "Tusheti National Park" },
+    name: { de: "Tuschetien-Nationalpark", hu: "Tuséti Nemzeti Park", ro: "Parcul Național Tușeti", en: "Tusheti National Park",
+image: "/poi-images/ge-tusheti-national-park-life-v2.webp"
+},
     description: { de: "Die entlegene Bergregion Tuschetien ist nur in den Sommermonaten erreichbar und bewahrt eine unberührte Naturkulisse. Traditionelle Hirtendörfer und seltene Wildtiere prägen diesen Park.", hu: "A távoli Tuséti hegyvidék csak a nyári hónapokban közelíthető meg, és érintetlen természeti környezetet őriz. Hagyományos pásztorfalvak és ritka vadon élő állatok jellemzik a parkot.", ro: "Regiunea montană izolată Tușeti este accesibilă doar în lunile de vară și păstrează un cadru natural neatins. Satele tradiționale de păstori și animalele sălbatice rare caracterizează acest parc.", en: "The remote mountainous region of Tusheti is only accessible in the summer months and preserves a pristine natural setting. Traditional shepherd villages and rare wildlife characterize this park." },
     facts: {
       de: ["Liegt auf über 2000 Metern Höhe.", "Zugang über den gefährlichen Abano-Pass.", "Bewahrt alte kaukasische Traditionen.", "Bekannt für tiefe Kiefernwälder."],
@@ -59,7 +67,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-SZ",
     coords: [41.7247, 42.1581],
-    name: { de: "Kolchis-Nationalpark", hu: "Kolkhida Nemzeti Park", ro: "Parcul Național Colchis", en: "Kolkheti National Park" },
+    name: { de: "Kolchis-Nationalpark", hu: "Kolkhida Nemzeti Park", ro: "Parcul Național Colchis", en: "Kolkheti National Park",
+image: "/poi-images/ge-kolkheti-national-park-life-v2.webp"
+},
     description: { de: "Die weitläufigen Feuchtgebiete und Sumpfwälder an der Schwarzmeerküste sind ein globales Refugium für Zugvögel. Besucher können die labyrinthartigen Wasserwege mit Booten erkunden.", hu: "A Fekete-tenger partján fekvő kiterjedt vizes élőhelyek és mocsárerdők a vándormadarak globális menedékhelyei. A látogatók csónakkal fedezhetik fel a labirintusszerű vízi utakat.", ro: "Zonele umede întinse și pădurile mlăștinoase de pe coasta Mării Negre sunt un refugiu global pentru păsările migratoare. Vizitatorii pot explora căile navigabile labirintice cu barca.", en: "The vast wetlands and swamp forests on the Black Sea coast are a global refuge for migratory birds. Visitors can explore the labyrinthine waterways by boat." },
     facts: {
       de: ["Wichtiges Überwinterungsgebiet für Vögel.", "Umfasst den Paliastomi-See.", "Erinnert an die antike Kolchis.", "Bekannt für seltene Torfmoore."],
@@ -72,7 +82,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-SJ",
     coords: [43.6167, 41.2833],
-    name: { de: "Dschawachetien-Nationalpark", hu: "Dzsavaheti Védett Területek", ro: "Aria Protejată Djavakheti", en: "Javakheti Protected Areas" },
+    name: { de: "Dschawachetien-Nationalpark", hu: "Dzsavaheti Védett Területek", ro: "Aria Protejată Djavakheti", en: "Javakheti Protected Areas",
+image: "/poi-images/ge-javakheti-reserve-life-v2.webp"
+},
     description: { de: "Die vulkanische Hochebene im Süden Georgiens zeichnet sich durch zahlreiche Seen und eine raue, baumlose Landschaft aus. Es ist ein erstklassiges Ziel für Vogelbeobachter in der Region.", hu: "Dél-Grúzia vulkanikus fennsíkját számos tó és zord, fátlan táj jellemzi. A régió madármegfigyelőinek első számú célpontja.", ro: "Platoul vulcanic din sudul Georgiei este caracterizat de numeroase lacuri și un peisaj aspru, fără copaci. Este o destinație de top pentru observatorii de păsări din regiune.", en: "The volcanic plateau in southern Georgia is characterized by numerous lakes and a harsh, treeless landscape. It is a prime destination for birdwatchers in the region." },
     facts: {
       de: ["Liegt auf einem vulkanischen Plateau.", "Heimat vieler endemischer Vogelarten.", "Extrem kalte Wintermonate.", "Schützt die größten Seen Georgiens."],
@@ -85,7 +97,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-AJ",
     coords: [42.0294, 41.7264],
-    name: { de: "Kintrischi-Naturschutzgebiet", hu: "Kintrisi Természetvédelmi Terület", ro: "Rezervația Naturală Kintriși", en: "Kintrishi Strict Nature Reserve" },
+    name: { de: "Kintrischi-Naturschutzgebiet", hu: "Kintrisi Természetvédelmi Terület", ro: "Rezervația Naturală Kintriși", en: "Kintrishi Strict Nature Reserve",
+image: "/poi-images/ge-kintrishi-reserve-life-v2.webp"
+},
     description: { de: "Versteckt in den Bergen von Adscharien, schützt dieses Reservat unberührte Reliktwälder und tiefe Flusstäler. Moosbewachsene alte Steinbrücken fügen sich malerisch in die wilde Natur ein.", hu: "Az adzsáriai hegyekben megbújó rezervátum érintetlen reliktum erdőket és mély folyóvölgyeket véd. A mohával borított régi kőhidak festőien olvadnak bele a vad természetbe.", ro: "Ascunsă în munții din Adjara, această rezervație protejează păduri relicve virgine și văi adânci de râuri. Podurile vechi de piatră acoperite de mușchi se îmbină pitoresc cu natura sălbatică.", en: "Hidden in the mountains of Adjara, this reserve protects pristine relict forests and deep river valleys. Moss-covered ancient stone bridges blend picturesquely into the wild nature." },
     facts: {
       de: ["Sehr feuchtes subtropisches Klima.", "Beherbergt seltene kaukasische Salamander.", "Enthält mittelalterliche Bogenbrücken.", "Dichte Kastanien- und Buchenwälder."],
@@ -98,7 +112,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "park",
     parent: "GE-KK",
     coords: [44.3211, 41.7058],
-    name: { de: "Algeti-Nationalpark", hu: "Algeti Nemzeti Park", ro: "Parcul Național Algeti", en: "Algeti National Park" },
+    name: { de: "Algeti-Nationalpark", hu: "Algeti Nemzeti Park", ro: "Parcul Național Algeti", en: "Algeti National Park",
+image: "/poi-images/ge-algeti-national-park-life-v2.webp"
+},
     description: { de: "Das Gebiet im bewaldeten Tal des Flusses Algeti bietet eine reizvolle Kombination aus Natur und historischen Monumenten. Es ist ein beliebtes Erholungsgebiet südwestlich der Hauptstadt.", hu: "Az Algeti folyó erdős völgyében fekvő terület a természet és a történelmi műemlékek varázslatos kombinációját kínálja. Népszerű üdülőövezet a fővárostól délnyugatra.", ro: "Zona din valea împădurită a râului Algeti oferă o combinație încântătoare de natură și monumente istorice. Este o zonă de recreere populară la sud-vest de capitală.", en: "The area in the forested valley of the Algeti River offers a charming combination of nature and historical monuments. It is a popular recreation area southwest of the capital." },
     facts: {
       de: ["Schützt dichte Fichten- und Tannenwälder.", "Reich an archäologischen Fundstätten.", "Ideal für leichte Wanderungen.", "Beherbergt Rehe und Wildschweine."],
@@ -111,7 +127,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "park",
     parent: "GE-AJ",
     coords: [41.8600, 41.4800],
-    name: { de: "Matschachela-Nationalpark", hu: "Macsahela Nemzeti Park", ro: "Parcul Național Machakhela", en: "Machakhela National Park" },
+    name: { de: "Matschachela-Nationalpark", hu: "Macsahela Nemzeti Park", ro: "Parcul Național Machakhela", en: "Machakhela National Park",
+image: "/poi-images/ge-machakhela-national-park-life-v2.webp"
+},
     description: { de: "Dieses naturnahe Gebiet nahe der türkischen Grenze bewahrt einzigartige Bergwälder und traditionelle Kulturlandschaften. Es spiegelt das historische Erbe und die reiche Biodiversität Adschariens wider.", hu: "Ez a török határ közelében fekvő, természethez közeli terület egyedülálló hegyi erdőket és hagyományos kultúrtájakat őriz. Adzsária történelmi örökségét és gazdag biodiverzitását tükrözi.", ro: "Această zonă naturală din apropierea graniței cu Turcia păstrează păduri montane unice și peisaje culturale tradiționale. Reflectă moștenirea istorică și bogata biodiversitate a Adjarei.", en: "This near-natural area near the Turkish border preserves unique mountain forests and traditional cultural landscapes. It reflects the historical heritage and rich biodiversity of Adjara." },
     facts: {
       de: ["Grenzt direkt an die Türkei.", "Bekannt für alte Festungsruinen.", "Bewahrt lokale Handwerkstraditionen.", "Wichtig für den Schutz des kaukasischen Braunbären."],
@@ -124,7 +142,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "park",
     parent: "GE-TB",
     coords: [44.8055, 41.6853],
-    name: { de: "Botanischer Garten Tiflis", hu: "Tbiliszi Botanikus Kert", ro: "Grădina Botanică din Tbilisi", en: "Tbilisi Botanical Garden" },
+    name: { de: "Botanischer Garten Tiflis", hu: "Tbiliszi Botanikus Kert", ro: "Grădina Botanică din Tbilisi", en: "Tbilisi Botanical Garden",
+image: "/poi-images/ge-tbilisi-botanical-garden-life-v2.webp"
+},
     description: { de: "Eingebettet in eine tiefe Schlucht hinter der Narikala-Festung, ist diese grüne Oase seit Jahrhunderten ein Rückzugsort. Der Garten bietet eine beeindruckende Sammlung an lokaler und exotischer Flora sowie schöne Wasserfälle.", hu: "A Narikala erőd mögötti mély szurdokban megbúvó zöld oázis évszázadok óta menedéket nyújt. A kert lenyűgöző helyi és egzotikus növénygyűjteménnyel, valamint gyönyörű vízesésekkel büszkélkedhet.", ro: "Amplasată într-un defileu adânc în spatele cetății Narikala, această oază verde a fost un refugiu de secole. Grădina oferă o colecție impresionantă de floră locală și exotică, precum și cascade frumoase.", en: "Nestled in a deep gorge behind the Narikala Fortress, this green oasis has been a retreat for centuries. The garden offers an impressive collection of local and exotic flora, as well as beautiful waterfalls." },
     facts: {
       de: ["Gegründet im Jahr 1845.", "Einst ein königlicher Palastgarten.", "Beherbergt über 4500 Pflanzenarten.", "Ein großer Wasserfall im Zentrum."],
@@ -137,7 +157,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "park",
     parent: "GE-TB",
     coords: [44.8105, 41.6925],
-    name: { de: "Rike-Park", hu: "Rike Park", ro: "Parcul Rike", en: "Rike Park" },
+    name: { de: "Rike-Park", hu: "Rike Park", ro: "Parcul Rike", en: "Rike Park",
+image: "/poi-images/ge-rike-park-life-v2.webp"
+},
     description: { de: "Dieser moderne Stadtpark am Ufer des Kura-Flusses in Tiflis besticht durch sein futuristisches Design. Er verbindet die Altstadt über die Friedensbrücke mit neuen Erholungsflächen und einer Seilbahnstation.", hu: "Ez a modern városi park a Kura folyó partján, Tbilisziben, futurisztikus dizájnjával hódít. A Béke hídján keresztül köti össze az óvárost az új pihenőövezetekkel és egy felvonóállomással.", ro: "Acest parc urban modern de pe malul râului Kura din Tbilisi impresionează prin designul său futurist. Conectează orașul vechi prin Podul Păcii cu noile zone de recreere și o stație de telecabină.", en: "This modern city park on the banks of the Kura River in Tbilisi impresses with its futuristic design. It connects the old town via the Bridge of Peace with new recreation areas and a cable car station." },
     facts: {
       de: ["Futuristische Konzerthalle im Park.", "Startpunkt der Seilbahn zur Narikala-Festung.", "Geformt wie die Karte von Georgien aus der Luft.", "Tanzende Springbrunnen im Sommer."],
@@ -150,7 +172,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "park",
     parent: "GE-TB",
     coords: [44.7503, 41.7103],
-    name: { de: "Vake-Park", hu: "Vake Park", ro: "Parcul Vake", en: "Vake Park" },
+    name: { de: "Vake-Park", hu: "Vake Park", ro: "Parcul Vake", en: "Vake Park",
+image: "/poi-images/ge-vake-park-life-v2.webp"
+},
     description: { de: "Als größter öffentlicher Park in Tiflis ist der Vake-Park ein beliebtes Erholungsziel mit breiten Alleen, Springbrunnen und Gedenkstätten. Er liegt am Fuße der bewaldeten Hügel und bietet kühlen Schatten.", hu: "Tbiliszi legnagyobb közparkjaként a Vake Park népszerű pihenőhely, széles sétányokkal, szökőkutakkal és emlékművekkel. Az erdős dombok lábánál fekszik, és hűsítő árnyékot ad.", ro: "Fiind cel mai mare parc public din Tbilisi, Parcul Vake este o destinație populară de recreere, cu alei largi, fântâni și memoriale. Este situat la poalele dealurilor împădurite și oferă umbră răcoroasă.", en: "As the largest public park in Tbilisi, Vake Park is a popular recreation destination with wide avenues, fountains, and memorials. It is situated at the foot of the wooded hills and offers cool shade." },
     facts: {
       de: ["Eröffnet im Jahr 1946.", "Riesige Statue des Sieges im Zweiten Weltkrieg.", "Verfügt über ein eigenes Freiluftkino.", "Seilbahn zum Schildkrötensee."],
@@ -163,7 +187,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "GE-TB",
     coords: [44.7869, 41.6953],
-    name: { de: "Mtazminda-Park", hu: "Mtacminda Park", ro: "Parcul Mtatsminda", en: "Mtatsminda Park" },
+    name: { de: "Mtazminda-Park", hu: "Mtacminda Park", ro: "Parcul Mtatsminda", en: "Mtatsminda Park",
+image: "/poi-images/ge-mtatsminda-park-life-v2.webp"
+},
     description: { de: "Hoch über Tiflis gelegen, bietet dieser historische Vergnügungspark Fahrgeschäfte für alle Altersgruppen und einen spektakulären Panoramablick. Er ist durch eine traditionelle Standseilbahn mit der Stadt verbunden.", hu: "A Tbiliszi felett magasan fekvő történelmi vidámpark minden korosztály számára kínál attrakciókat és lenyűgöző panorámát. A várossal egy hagyományos sikló köti össze.", ro: "Situat sus deasupra orașului Tbilisi, acest parc istoric de distracții oferă atracții pentru toate vârstele și vederi panoramice spectaculoase. Este conectat de oraș printr-un funicular tradițional.", en: "Perched high above Tbilisi, this historic amusement park offers rides for all ages and spectacular panoramic views. It is connected to the city by a traditional funicular." },
     facts: {
       de: ["Gegründet in den 1930er Jahren.", "Riesenrad am Rand der Klippe.", "Wahrzeichen-Fernsehturm in der Nähe.", "Beliebt für abendliche Stadtblicke."],
@@ -176,7 +202,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "GE-TB",
     coords: [44.7872, 41.7242],
-    name: { de: "Muschtaidi-Park", hu: "Mustaidi Park", ro: "Parcul Mushtaidi", en: "Mushtaidi Park" },
+    name: { de: "Muschtaidi-Park", hu: "Mustaidi Park", ro: "Parcul Mushtaidi", en: "Mushtaidi Park",
+image: "/poi-images/ge-mushtaidi-park-life-v2.webp"
+},
     description: { de: "Einer der ältesten Parks in Tiflis wurde von einem persischen Prinzen angelegt und beheimatet jahrhundertealte Bäume sowie eine historische Kindereisenbahn. Ein friedlicher Ort abseits des Trubels.", hu: "Tbiliszi egyik legrégebbi parkját egy perzsa herceg alapította, évszázados fáknak és egy történelmi gyermekvasútnak ad otthont. Békés hely a nyüzsgéstől távol.", ro: "Unul dintre cele mai vechi parcuri din Tbilisi a fost înființat de un prinț persan și găzduiește copaci seculari, precum și o cale ferată istorică pentru copii. Un loc liniștit, departe de agitație.", en: "One of the oldest parks in Tbilisi was established by a Persian prince and is home to centuries-old trees and a historic children's railway. A peaceful place away from the hustle and bustle." },
     facts: {
       de: ["Gegründet in den 1830er Jahren.", "Benannt nach Mir Fatah Agha.", "Beherbergt die erste Kindereisenbahn der Welt.", "Zahlreiche alte Seidenbäume."],
@@ -189,7 +217,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "GE-GU",
     coords: [41.7758, 41.9058],
-    name: { de: "Tsitsinatela-Vergnügungspark", hu: "Cicinaela Vidámpark", ro: "Parcul de distracții Tsitsinatela", en: "Tsitsinatela Amusement Park" },
+    name: { de: "Tsitsinatela-Vergnügungspark", hu: "Cicinaela Vidámpark", ro: "Parcul de distracții Tsitsinatela", en: "Tsitsinatela Amusement Park",
+image: "/poi-images/ge-tsitsinatela-life-v2.webp"
+},
     description: { de: "Dieser leuchtende Vergnügungspark nahe der Schwarzmeerküste erwacht besonders nach Sonnenuntergang zum Leben. Er bietet Dutzende von Fahrgeschäften für Familien und Nervenkitzel-Suchende.", hu: "Ez a ragyogó vidámpark a Fekete-tenger partjának közelében különösen naplemente után kel életre. Több tucatnyi vidámparki attrakciót kínál családoknak és az izgalmakat keresőknek.", ro: "Acest parc de distracții luminos din apropierea coastei Mării Negre prinde viață în special după apus. Oferă zeci de atracții pentru familii și căutătorii de senzații tari.", en: "This glowing amusement park near the Black Sea coast comes to life especially after sunset. It offers dozens of rides for families and thrill-seekers." },
     facts: {
       de: ["Der Name bedeutet Glühwürmchen.", "Öffnet in den Sommermonaten abends.", "Über 35 verschiedene Fahrgeschäfte.", "Großes Riesenrad mit Meerblick."],
@@ -202,7 +232,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "GE-KA",
     coords: [45.7167, 41.9167],
-    name: { de: "Weinberge von Kachetien", hu: "Kaheti szőlőültetvények", ro: "Podgoriile din Kakheti", en: "Kakheti Vineyards" },
+    name: { de: "Weinberge von Kachetien", hu: "Kaheti szőlőültetvények", ro: "Podgoriile din Kakheti", en: "Kakheti Vineyards",
+image: "/poi-images/ge-kakheti-vineyards-life-v2.webp"
+},
     description: { de: "Die endlosen Weinberge im Alasani-Tal bilden das landwirtschaftliche Herzstück der georgischen Weinproduktion. Hier wird seit Jahrtausenden die traditionelle Qvevri-Weinherstellung gepflegt.", hu: "Az Alazani-völgy végtelen szőlőültetvényei a grúz bortermelés mezőgazdasági központját alkotják. Itt évezredek óta ápolják a hagyományos kvevri borkészítést.", ro: "Podgoriile nesfârșite din Valea Alazani formează inima agricolă a producției de vin georgian. Tradiționala vinificație Qvevri este practicată aici de milenii.", en: "The endless vineyards in the Alazani Valley form the agricultural heart of Georgian wine production. Traditional Qvevri winemaking has been practiced here for millennia." },
     facts: {
       de: ["Georgien gilt als Wiege des Weins.", "Qvevri-Methode ist UNESCO-Kulturerbe.", "Rkatsiteli ist eine Hauptrebsorte.", "Spätsommer ist die Zeit der Weinlese (Rtveli)."],
@@ -215,7 +247,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "GE-IM",
     coords: [42.6667, 42.2500],
-    name: { de: "Teeplantagen von Imeretien", hu: "Imeréti teaültetvények", ro: "Plantațiile de ceai din Imereti", en: "Imereti Tea Plantations" },
+    name: { de: "Teeplantagen von Imeretien", hu: "Imeréti teaültetvények", ro: "Plantațiile de ceai din Imereti", en: "Imereti Tea Plantations",
+image: "/poi-images/ge-imereti-tea-plantations-life-v2.webp"
+},
     description: { de: "Die sanften Hügel von Imeretien und Gurien waren einst das Zentrum der sowjetischen Teeproduktion. Heute werden viele Plantagen wiederbelebt, um hochwertigen Bio-Tee anzubauen.", hu: "Imeréti és Gúria lankás dombjai egykor a szovjet teatermelés központjai voltak. Ma sok ültetvényt újjáélesztenek, hogy kiváló minőségű bio teát termesszenek.", ro: "Dealurile blânde din Imereti și Guria au fost cândva centrul producției sovietice de ceai. Astăzi, multe plantații sunt revitalizate pentru a cultiva ceai organic de înaltă calitate.", en: "The rolling hills of Imereti and Guria were once the center of Soviet tea production. Today, many plantations are being revitalized to grow high-quality organic tea." },
     facts: {
       de: ["Teeanbau begann im 19. Jahrhundert.", "Das Klima ist ideal für Teesträucher.", "Fokus auf handgepflückten Bio-Tee.", "Ehemaliger Hauptlieferant der Sowjetunion."],
@@ -229,7 +263,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "GE-GU",
     coords: [42.0000, 41.9833],
-    name: { de: "Zitrushaine in Gurien", hu: "Gúriai citrusligetek", ro: "Livezile de citrice din Guria", en: "Guria Citrus Orchards" },
+    name: { de: "Zitrushaine in Gurien", hu: "Gúriai citrusligetek", ro: "Livezile de citrice din Guria", en: "Guria Citrus Orchards",
+image: "/poi-images/ge-guria-citrus-orchards-life-v2.webp"
+},
     description: { de: "Das milde subtropische Klima der Region Gurien am Schwarzen Meer bietet perfekte Bedingungen für den Anbau von Mandarinen und Orangen, deren Duft im Spätherbst die Luft erfüllt.", hu: "A Fekete-tenger melletti Gúria régió enyhe szubtrópusi klímája tökéletes feltételeket biztosít a mandarin és a narancs termesztéséhez, melyek illata késő ősszel betölti a levegőt.", ro: "Clima subtropicală blândă din regiunea Guria, pe coasta Mării Negre, oferă condiții perfecte pentru cultivarea mandarinelor și portocalelor, al căror parfum umple aerul toamna târziu.", en: "The mild subtropical climate of the Guria region on the Black Sea offers perfect conditions for growing tangerines and oranges, whose scent fills the air in late autumn." },
     facts: {
       de: ["Hauptanbaugebiet für georgische Mandarinen.", "Erntezeit beginnt im November.", "Subtropisches Klima verhindert Frostschäden.", "Wichtiger Exportartikel der Region."],
@@ -242,7 +278,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "agriculture",
     parent: "GE-RL",
     coords: [43.1000, 42.5333],
-    name: { de: "Weinberge in Ratscha", hu: "Racsai szőlőültetvények", ro: "Podgoriile din Racha", en: "Racha Vineyards" },
+    name: { de: "Weinberge in Ratscha", hu: "Racsai szőlőültetvények", ro: "Podgoriile din Racha", en: "Racha Vineyards",
+image: "/poi-images/ge-racha-vineyards-life-v2.webp"
+},
     description: { de: "Die kühle und bergige Region Ratscha ist berühmt für ihre einzigartigen Rebsorten, insbesondere für den halbsüßen Rotwein Chwantschkara, der auf winzigen Bergparzellen angebaut wird.", hu: "A hűvös és hegyvidéki Racsa régió híres egyedülálló szőlőfajtáiról, különösen az apró hegyi parcellákon termesztett Khvanchkara félédes vörösborról.", ro: "Regiunea răcoroasă și muntoasă Racha este renumită pentru soiurile sale unice de struguri, în special pentru vinul roșu demidulce Khvanchkara cultivat pe parcele montane minuscule.", en: "The cool and mountainous Racha region is famous for its unique grape varieties, particularly the semi-sweet red wine Khvanchkara grown on tiny mountain plots." },
     facts: {
       de: ["Heimat des berühmten Chwantschkara-Weins.", "Sehr begrenzte Anbaufläche in Bergregionen.", "Kühles Klima sorgt für besondere Aromen.", "Oft als georgische Schweiz bezeichnet."],
@@ -255,7 +293,9 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "GE-AJ",
     coords: [41.6214, 41.6486],
-    name: { de: "Delfinarium Batumi", hu: "Batumi Delfinárium", ro: "Delfinariul din Batumi", en: "Batumi Dolphinarium" },
+    name: { de: "Delfinarium Batumi", hu: "Batumi Delfinárium", ro: "Delfinariul din Batumi", en: "Batumi Dolphinarium",
+image: "/poi-images/ge-batumi-dolphinarium-life-v2.webp"
+},
     description: { de: "Eingebettet in den weitläufigen 6.-Mai-Park in Batumi, bietet dieses beliebte Delfinarium unterhaltsame und lehrreiche Shows, die besonders bei Familien mit Kindern sehr gefragt sind.", hu: "A batumi kiterjedt Május 6. Parkban található népszerű delfinárium szórakoztató és oktató műsorokat kínál, amelyek különösen a gyermekes családok körében keresettek.", ro: "Amplasat în vastul Parc 6 Mai din Batumi, acest popular delfinariu oferă spectacole distractive și educative, care sunt la mare căutare în special de familiile cu copii.", en: "Nestled in the vast 6 May Park in Batumi, this popular dolphinarium offers entertaining and educational shows that are highly sought after, especially by families with children." },
     facts: {
       de: ["Ursprünglich 1975 eröffnet.", "Nach Modernisierung 2011 wiedereröffnet.", "Eines der bekanntesten an der Schwarzmeerküste.", "Bietet interaktive Bildungsprogramme."],

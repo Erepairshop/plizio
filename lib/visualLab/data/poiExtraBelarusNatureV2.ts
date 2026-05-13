@@ -4,7 +4,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-belovezhskaya-pushcha-nature-v2",
     type: "forest",
-    name: { de: "Belowescher Heide (Belarus)", hu: "Belavezsai-erdő", ro: "Pădurea Bialowieza (Belarus)", en: "Belovezhskaya Pushcha" },
+    name: { de: "Belowescher Heide (Belarus)", hu: "Belavezsai-erdő", ro: "Pădurea Bialowieza (Belarus)", en: "Belovezhskaya Pushcha",
+image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"
+},
     coords: [23.87, 52.73],
     coordinates: { lat: 52.73, lng: 23.87 },
     description: {
@@ -35,7 +37,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-narach-lake-nature-v2",
     type: "lake",
-    name: { de: "Naratsch-See", hu: "Naracs-tó", ro: "Lacul Naraci", en: "Lake Narach" },
+    name: { de: "Naratsch-See", hu: "Naracs-tó", ro: "Lacul Naraci", en: "Lake Narach",
+image: "/poi-images/belarus-narach-lake-nature-v2.webp"
+},
     coords: [26.78, 54.85],
     coordinates: { lat: 54.85, lng: 26.78 },
     description: {
@@ -66,7 +70,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-braslav-lakes-nature-v2",
     type: "park",
-    name: { de: "Braslauer Seen", hu: "Braszlavi-tavak", ro: "Lacurile Braslav", en: "Braslav Lakes" },
+    name: { de: "Braslauer Seen", hu: "Braszlavi-tavak", ro: "Lacurile Braslav", en: "Braslav Lakes",
+image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"
+},
     coords: [27.05, 55.6],
     coordinates: { lat: 55.6, lng: 27.05 },
     description: {
@@ -97,7 +103,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-pripyat-river-nature-v2",
     type: "river",
-    name: { de: "Pripjat (Fluss)", hu: "Pripjaty (folyó)", ro: "Râul Pripeat", en: "Pripyat River" },
+    name: { de: "Pripjat (Fluss)", hu: "Pripjaty (folyó)", ro: "Râul Pripeat", en: "Pripyat River",
+image: "/poi-images/belarus-pripyat-river-nature-v2.webp"
+},
     coords: [28.15, 52.13],
     coordinates: { lat: 52.13, lng: 28.15 },
     description: {
@@ -128,7 +136,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-berezina-river-nature-v2",
     type: "river",
-    name: { de: "Beresina (Fluss)", hu: "Berezina (folyó)", ro: "Râul Berezina", en: "Berezina River" },
+    name: { de: "Beresina (Fluss)", hu: "Berezina (folyó)", ro: "Râul Berezina", en: "Berezina River",
+image: "/poi-images/belarus-berezina-river-nature-v2.webp"
+},
     coords: [28.3, 54.1],
     coordinates: { lat: 54.1, lng: 28.3 },
     description: {
@@ -159,7 +169,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-dzyarzhynskaya-hara-nature-v2",
     type: "peak",
-    name: { de: "Dsjarshynskaja Hara", hu: "Dzerzsinszkaja-hegy", ro: "Dealul Dzerjinskaia", en: "Dzyarzhynskaya Hara" },
+    name: { de: "Dsjarshynskaja Hara", hu: "Dzerzsinszkaja-hegy", ro: "Dealul Dzerjinskaia", en: "Dzyarzhynskaya Hara",
+image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"
+},
     coords: [27.06, 53.84],
     coordinates: { lat: 53.84, lng: 27.06 },
     description: {
@@ -190,7 +202,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-yelnya-bog-nature-v2",
     type: "wildlife",
-    name: { de: "Jelnja-Moor", hu: "Jelnya-láp", ro: "Mlaștina Elnia", en: "Yelnya Bog" },
+    name: { de: "Jelnja-Moor", hu: "Jelnya-láp", ro: "Mlaștina Elnia", en: "Yelnya Bog",
+image: "/poi-images/belarus-yelnya-bog-nature-v2.webp"
+},
     coords: [27.85, 55.55],
     coordinates: { lat: 55.55, lng: 27.85 },
     description: {
@@ -222,7 +236,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-neman-river-nature-v2",
     type: "river",
-    name: { de: "Memel (Fluss)", hu: "Nyeman (folyó)", ro: "Râul Neman", en: "Neman River" },
+    name: { de: "Memel (Fluss)", hu: "Nyeman (folyó)", ro: "Râul Neman", en: "Neman River",
+image: "/poi-images/belarus-neman-river-nature-v2.webp"
+},
     coords: [24.3, 53.8],
     coordinates: { lat: 53.8, lng: 24.3 },
     description: {
@@ -253,7 +269,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-sozh-river-nature-v2",
     type: "river",
-    name: { de: "Sosch (Fluss)", hu: "Szozs (folyó)", ro: "Râul Soj", en: "Sozh River" },
+    name: { de: "Sosch (Fluss)", hu: "Szozs (folyó)", ro: "Râul Soj", en: "Sozh River",
+image: "/poi-images/belarus-sozh-river-nature-v2.webp"
+},
     coords: [31.0, 52.4],
     coordinates: { lat: 52.4, lng: 31.0 },
     description: {
@@ -284,7 +302,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-dnieper-river-nature-v2",
     type: "river",
-    name: { de: "Dnepr (belarussischer Abschnitt)", hu: "Dnyeper (fehérorosz szakasz)", ro: "Nipru (secțiunea bielorusă)", en: "Dnieper River (Belarus section)" },
+    name: { de: "Dnepr (belarussischer Abschnitt)", hu: "Dnyeper (fehérorosz szakasz)", ro: "Nipru (secțiunea bielorusă)", en: "Dnieper River (Belarus section)",
+image: "/poi-images/belarus-dnieper-river-nature-v2.webp"
+},
     coords: [30.33, 53.9],
     coordinates: { lat: 53.9, lng: 30.33 },
     description: {
@@ -315,7 +335,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-osveya-lake-nature-v2",
     type: "lake",
-    name: { de: "Osweja-See", hu: "Oszveja-tó", ro: "Lacul Osveia", en: "Lake Osveya" },
+    name: { de: "Osweja-See", hu: "Oszveja-tó", ro: "Lacul Osveia", en: "Lake Osveya",
+image: "/poi-images/belarus-osveya-lake-nature-v2.webp"
+},
     coords: [28.18, 56.05],
     coordinates: { lat: 56.05, lng: 28.18 },
     description: {
@@ -346,7 +368,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-chyrvonaye-lake-nature-v2",
     type: "lake",
-    name: { de: "Chyrvonaye-See", hu: "Csirvonoje-tó", ro: "Lacul Cirvonaie", en: "Lake Chyrvonaye" },
+    name: { de: "Chyrvonaye-See", hu: "Csirvonoje-tó", ro: "Lacul Cirvonaie", en: "Lake Chyrvonaye",
+image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"
+},
     coords: [28.0, 52.4],
     coordinates: { lat: 52.4, lng: 28.0 },
     description: {
@@ -377,7 +401,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-naliboki-forest-nature-v2",
     type: "forest",
-    name: { de: "Naliboki-Wald", hu: "Naliboki-erdő", ro: "Pădurea Naliboki", en: "Naliboki Forest" },
+    name: { de: "Naliboki-Wald", hu: "Naliboki-erdő", ro: "Pădurea Naliboki", en: "Naliboki Forest",
+image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"
+},
     coords: [26.5, 53.9],
     coordinates: { lat: 53.9, lng: 26.5 },
     description: {
@@ -408,7 +434,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-western-dvina-river-nature-v2",
     type: "river",
-    name: { de: "Düna (Fluss)", hu: "Nyugati-Dvina (folyó)", ro: "Daugava (Râul Dvina de Vest)", en: "Western Dvina River" },
+    name: { de: "Düna (Fluss)", hu: "Nyugati-Dvina (folyó)", ro: "Daugava (Râul Dvina de Vest)", en: "Western Dvina River",
+image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"
+},
     coords: [30.2, 55.5],
     coordinates: { lat: 55.5, lng: 30.2 },
     description: {
@@ -439,7 +467,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-viliya-river-nature-v2",
     type: "river",
-    name: { de: "Wilija (Fluss)", hu: "Vilija (folyó)", ro: "Râul Vilia", en: "Viliya River" },
+    name: { de: "Wilija (Fluss)", hu: "Vilija (folyó)", ro: "Râul Vilia", en: "Viliya River",
+image: "/poi-images/belarus-viliya-river-nature-v2.webp"
+},
     coords: [27.0, 54.4],
     coordinates: { lat: 54.4, lng: 27.0 },
     description: {
@@ -470,7 +500,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-dryvyaty-lake-nature-v2",
     type: "lake",
-    name: { de: "Drywjaty-See", hu: "Drivjati-tó", ro: "Lacul Drivyati", en: "Lake Dryvyaty" },
+    name: { de: "Drywjaty-See", hu: "Drivjati-tó", ro: "Lacul Drivyati", en: "Lake Dryvyaty",
+image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"
+},
     coords: [27.02, 55.61],
     coordinates: { lat: 55.61, lng: 27.02 },
     description: {
@@ -501,7 +533,9 @@ export const belarusNatureV2: POI[] = [
   {
     id: "belarus-shchara-river-nature-v2",
     type: "river",
-    name: { de: "Schtschara (Fluss)", hu: "Scsara (folyó)", ro: "Râul Șceara", en: "Shchara River" },
+    name: { de: "Schtschara (Fluss)", hu: "Scsara (folyó)", ro: "Râul Șceara", en: "Shchara River",
+image: "/poi-images/belarus-shchara-river-nature-v2.webp"
+},
     coords: [25.3, 53.2],
     coordinates: { lat: 53.2, lng: 25.3 },
     description: {
@@ -516,11 +550,26 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de 325 de kilometri", "Al doilea cel mai mare afluent al Nemanului", "Trece prin orașul Slonim", "Albia râului este adesea acoperită de vegetație densă"],
       en: ["Total length is 325 kilometers", "Second largest tributary of the Neman", "Flows through the city of Slonim", "The riverbed is often heavily vegetated"],
     },
-    imageHint: "Narrow river with overgrown banks and a quiet current", image: "/poi-images/belarus-shchara-river-nature-v2.webp"},
-  {
+imageHint: "Narrow river with overgrown banks and a quiet current",
+    descriptionAdvanced: {
+      de: "Die Schtschara ist ein 325 Kilometer langer linker Nebenfluss der Memel und durchzieht den Westen von Belarus, wobei sie sich durch eine vielfältige und unberührte Auenlandschaft windet. Historisch erlangte der Fluss eine immense Bedeutung durch seine Verbindung zum Pripjat über den Oginski-Kanal, der im 18. Jahrhundert erbaut wurde und eine direkte Wasserstraße zwischen der Ostsee und dem Schwarzen Meer ermöglichte. Die Flussufer sind oftmals von dichten, schwer durchdringlichen Feuchtgebieten und alten Wäldern gesäumt, was die Region zu einem äußerst wertvollen Lebensraum für eine Vielzahl von Wasservögeln, Biberpopulationen und Amphibien macht. Der mäandernde Flusslauf ist insbesondere in seinem Unterlauf für seine bemerkenswerte Verkrautung und die vielen ruhigen Altarme bekannt. Heute wird die Schtschara vor allem von Naturfreunden, Ökotouristen und passionierten Kajakfahrern geschätzt, die in der unberührten Umgebung von Slonim und den angrenzenden Dörfern Erholung suchen.",
+      hu: "A Scsara egy 325 kilométer hosszú folyó, a Nyeman bal oldali mellékfolyója, amely Fehéroroszország nyugati részét szeli át, változatos és érintetlen ártéri tájakon kanyarogva. Történelmileg a folyó hatalmas jelentőségre tett szert a Pripjaty-folyóval való kapcsolata révén, amelyet a 18. században épült Oginszki-csatorna biztosított, közvetlen vízi utat teremtve a Balti-tenger és a Fekete-tenger között. A folyó partjait gyakran sűrű, nehezen járható vizes élőhelyek és öreg erdők szegélyezik, így a régió rendkívül értékes élőhelyet jelent számos vízimadár, hódpopuláció és kétéltű számára. A kanyargós folyómeder – különösen az alsó szakaszán – kifejezetten ismert erős vízinövény-benőttségről és a számos holtágról, amelyek nyugodt áramlást eredményeznek. Napjainkban a Scsara folyót leginkább a természetbarátok, az ökoturisták és a szenvedélyes kajakosok értékelik, akik Szelonim városának és a környező falvaknak az érintetlen környezetében keresnek felüdülést.",
+      ro: "Șceara este un râu lung de 325 de kilometri, afluent de stânga al râului Neman, care străbate vestul Belarusului șerpuind printr-un peisaj de luncă divers și intact. Din punct de vedere istoric, râul a dobândit o importanță imensă prin legătura sa cu râul Pripeat prin intermediul Canalului Oginski, construit în secolul al XVIII-lea, care a permis o cale navigabilă directă între Marea Baltică și Marea Neagră. Malurile râului sunt adesea mărginite de zone umede dense, greu de pătruns, și de păduri seculare, ceea ce face ca regiunea să fie un habitat extrem de valoros pentru o multitudine de păsări acvatice, populații de castori și amfibieni. Cursul meandrat al râului, în special în cursul său inferior, este cunoscut pentru invadarea remarcabilă a vegetației și pentru numeroasele brațe moarte, care determină un curent lent și liniștit. În prezent, Șceara este apreciată mai ales de iubitorii de natură, ecoturiști și caiaciști pasionați, care caută relaxare în împrejurimile nealterate ale orașului Slonim și ale satelor adiacente.",
+      en: "The Shchara is a 325-kilometer-long left tributary of the Neman River that flows through western Belarus, winding its way across a diverse and unspoiled floodplain landscape. Historically, the river gained immense significance through its connection to the Pripyat River via the Oginski Canal, which was constructed in the 18th century and enabled a direct navigable waterway between the Baltic and Black Seas. The riverbanks are frequently fringed by dense, largely impenetrable wetlands and ancient forests, making the region an incredibly valuable habitat for a vast array of waterfowl, beaver populations, and amphibians. The meandering course of the river, particularly in its lower reaches, is well-known for its remarkable vegetation growth and numerous oxbow lakes, which result in a tranquil, slow-moving current. Today, the Shchara is primarily valued by nature enthusiasts, eco-tourists, and passionate kayakers who seek recreation in the pristine surroundings of Slonim and its adjacent villages."
+    },
+    factsAdvanced: {
+      de: ["Total length of the river is exactly 325 kilometers", "The drainage basin covers an area of 6,990 square kilometers", "The historic Oginski Canal connecting it to the Pripyat was built between 1765 and 1783", "Slonim is the largest city situated along its banks", "Serves as the second largest tributary to the Neman River", "The river experiences its highest water levels between late February and early May"],
+      hu: [],
+      ro: [],
+      en: []
+    },
+    image: "/poi-images/belarus-shchara-river-nature-v2.webp",
+},  {
     id: "belarus-olmany-mires-nature-v2",
     type: "wildlife",
-    name: { de: "Olmany-Sümpfe", hu: "Olmanyi-mocsarak", ro: "Mlaștinile Olmanî", en: "Olmany Mires" },
+    name: { de: "Olmany-Sümpfe", hu: "Olmanyi-mocsarak", ro: "Mlaștinile Olmanî", en: "Olmany Mires",
+image: "/poi-images/belarus-olmany-mires-nature-v2.webp"
+},
     coords: [27.2, 51.85],
     coordinates: { lat: 51.85, lng: 27.2 },
     description: {
@@ -535,11 +584,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 94.000 de hectare", "Loc de cuibărit important pentru acvila țipătoare mare", "Folosit anterior ca poligon militar", "Parte a site-ului Ramsar pentru zone umede"],
       en: ["Area of approximately 94,000 hectares", "Critical nesting site for the Greater Spotted Eagle", "Formerly used as a military testing ground", "Part of the Ramsar list of wetlands"],
     },
-    imageHint: "Vast swampy area with sparse trees and water channels", image: "/poi-images/belarus-olmany-mires-nature-v2.webp"},
+    imageHint: "Vast swampy area with sparse trees and water channels",
+    image: "/poi-images/belarus-olmany-mires-nature-v2.webp"},
   {
     id: "belarus-sporovskoye-marsh-nature-v2",
     type: "wildlife",
-    name: { de: "Sporowskoje-Moor", hu: "Sporovszkoje-mocsár", ro: "Mlaștina Sporovskoe", en: "Sporovskoye Marsh" },
+    name: { de: "Sporowskoje-Moor", hu: "Sporovszkoje-mocsár", ro: "Mlaștina Sporovskoe", en: "Sporovskoye Marsh",
+image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"
+},
     coords: [25.3, 52.43],
     coordinates: { lat: 52.43, lng: 25.3 },
     description: {
@@ -554,11 +606,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Adăpostește 9% din populația mondială de lăcar de rovit", "Include lacul Sporovskoe", "Primul site Ramsar desemnat în Belarus", "Vegetație unică de rovit și stuf"],
       en: ["Home to 9% of the world's Aquatic Warbler population", "Includes the Lake Sporovskoye", "First Ramsar site designated in Belarus", "Unique vegetation of sedges and reeds"],
     },
-    imageHint: "Wetland with tall yellow sedge grass and small birds", image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"},
+    imageHint: "Wetland with tall yellow sedge grass and small birds",
+    image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"},
   {
     id: "belarus-vyhanoishchanskoye-lake-nature-v2",
     type: "lake",
-    name: { de: "Wychanoischtschanske-See", hu: "Viganoscsanszkoje-tó", ro: "Lacul Vîganoișceanskoe", en: "Lake Vyhanoishchanskoye" },
+    name: { de: "Wychanoischtschanske-See", hu: "Viganoscsanszkoje-tó", ro: "Lacul Vîganoișceanskoe", en: "Lake Vyhanoishchanskoye",
+image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"
+},
     coords: [25.92, 52.68],
     coordinates: { lat: 52.68, lng: 25.92 },
     description: {
@@ -573,11 +628,26 @@ export const belarusNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 26 km pătrați", "Adâncimea medie este de doar 1,2 metri", "Situat pe cumpăna apelor între Marea Baltică și Marea Neagră", "Zonă importantă de cuibărit pentru codalb"],
       en: ["Area of approximately 26 square kilometers", "Average depth is only 1.2 meters", "Located on the watershed between the Baltic and Black Seas", "Significant breeding area for White-tailed Eagles"],
     },
-    imageHint: "Flat lake surrounded by dense marshes and swamp forest", image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"},
-  {
+ imageHint: "Flat lake surrounded by dense marshes and swamp forest",
+    descriptionAdvanced: {
+      de: "Der Wychanoischtschanske-See, ein geheimnisvolles und abgelegenes Flachgewässer in der Region Brest, ist mit rund 26 Quadratkilometern einer der größten Seen im südlichen Belarus. Er zeichnet sich durch seine außergewöhnliche geografische Lage direkt auf der Wasserscheide zwischen den Einzugsgebieten der Ostsee und des Schwarzen Meeres aus. Der See liegt inmitten eines weitläufigen und extrem dichten Sumpf- und Waldkomplexes, der den Zugang für den Menschen massiv erschwert, wodurch die umliegende Natur ihren wilden, urzeitlichen Charakter vollständig bewahren konnte. Mit einer durchschnittlichen Tiefe von lediglich 1,2 Metern erwärmt sich das Wasser im Sommer schnell, was ein explosives Wachstum von Wasserpflanzen und riesigen Schilfgürteln begünstigt. Diese schwer zugänglichen Röhrichte und Moore sind ein weltweit bedeutendes Refugium für ornithologische Raritäten; so nisten hier unter anderem der majestätische Seeadler, der Schwarzstorch sowie unzählige Wasservogelarten, die das Gebiet zu einem wahren Paradies für Vogelkundler machen.",
+      hu: "A Viganoscsanszkoje-tó egy titokzatos és elszigetelt, sekély vizű tó a Breszti területen, és mintegy 26 négyzetkilométeres felszínével Dél-Fehéroroszország egyik legnagyobb tava. Kivételes földrajzi elhelyezkedése jellemzi, ugyanis közvetlenül a Balti-tenger és a Fekete-tenger vízgyűjtő területei közötti vízválasztón fekszik. A tó egy kiterjedt és rendkívül sűrű mocsár- és erdőkomplexum közepén helyezkedik el, amely jelentősen megnehezíti az emberi megközelítést, így a környező természet teljes mértékben megőrizhette vad, ősi jellegét. A mindössze 1,2 méteres átlagos mélységének köszönhetően vize nyáron gyorsan felmelegszik, ami kedvez a vízinövények és a hatalmas nádasok robbanásszerű növekedésének. Ezek a nehezen hozzáférhető nádasok és lápok az ornitológiai ritkaságok világszerte jelentős menedékhelyei; többek között itt fészkel a fenséges rétisas, a fekete gólya, valamint számtalan vízimadárfaj, amelyek a területet a madarászok valóságos paradicsomává teszik.",
+      ro: "Lacul Vîganoișceanskoe, un lac de mică adâncime, misterios și izolat din regiunea Brest, este unul dintre cele mai mari lacuri din sudul Belarusului, cu o suprafață de aproximativ 26 de kilometri pătrați. Se distinge prin poziția sa geografică extraordinară, situându-se exact pe cumpăna apelor dintre bazinele hidrografice ale Mării Baltice și Mării Negre. Lacul este așezat în mijlocul unui complex de mlaștini și păduri extrem de vast și dens, care îngreunează masiv accesul uman, permițând astfel naturii înconjurătoare să-și păstreze pe deplin caracterul sălbatic și primordial. Cu o adâncime medie de doar 1,2 metri, apa se încălzește rapid vara, ceea ce favorizează o creștere explozivă a plantelor acvatice și a centurilor uriașe de stuf. Aceste stufărișuri și mlaștini greu accesibile reprezintă un refugiu de importanță mondială pentru rarități ornitologice; printre altele, aici cuibăresc maiestuosul codalb, barza neagră și nenumărate specii de păsări de apă, transformând zona într-un adevărat paradis pentru ornitologi.",
+      en: "Lake Vyhanoishchanskoye, a mysterious and deeply isolated shallow water body in the Brest Region, is one of the largest lakes in southern Belarus, covering approximately 26 square kilometers. It is notable for its highly exceptional geographical location directly squarely on the watershed dividing the drainage basins of the Baltic Sea and the Black Sea. The lake is set right in the middle of a vast and extremely dense swamp and forest complex that massively restricts human access, allowing the surrounding natural environment to fully retain its wild, primeval character. With a mere average depth of 1.2 meters, the water warms up quickly during the summer, promoting the explosive growth of aquatic vegetation and massive, sprawling reed belts. These largely impenetrable thickets and mires serve as a globally significant sanctuary for ornithological rarities; the majestic White-tailed Eagle, the Black Stork, and countless waterfowl species nest here, transforming the area into an absolute paradise for dedicated birdwatchers."
+    },
+    factsAdvanced: {
+      de: ["Covers a surface area of 26 square kilometers", "Very shallow lake with an average depth of just 1.2 meters", "Lies precisely on the main European watershed between the Baltic and Black Seas", "Protected within the Vyhanoishchanskoye Landscape Reserve covering 43,000 hectares", "Connects to the historical Oginski Canal built in the late 18th century", "Serves as a vital nesting ground for the globally threatened Great Snipe"],
+      hu: [],
+      ro: [],
+      en: []
+    },
+    image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp",
+},  {
     id: "belarus-svisloch-river-nature-v2",
     type: "river",
-    name: { de: "Swislatsch (Fluss)", hu: "Szviszlocs (folyó)", ro: "Râul Svisloci", en: "Svisloch River" },
+    name: { de: "Swislatsch (Fluss)", hu: "Szviszlocs (folyó)", ro: "Râul Svisloci", en: "Svisloch River",
+image: "/poi-images/belarus-svisloch-river-nature-v2.webp"
+},
     coords: [27.8, 53.5],
     coordinates: { lat: 53.5, lng: 27.8 },
     description: {
@@ -592,11 +662,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală a râului: 327 kilometri", "Izvorăște din Podișul Minskului", "Alimentează rezervorul Zaslavie (Marea Minskului)", "Curs puternic regularizat în zona urbană a Minskului"],
       en: ["Total length of the river is 327 kilometers", "Originates in the Minsk Upland", "Feeds the Zaslavye reservoir (Minsk Sea)", "Highly regulated course within Minsk city limits"],
     },
-    imageHint: "River with stone embankments and parks in a city", image: "/poi-images/belarus-svisloch-river-nature-v2.webp"},
+    imageHint: "River with stone embankments and parks in a city",
+    image: "/poi-images/belarus-svisloch-river-nature-v2.webp"},
   {
     id: "belarus-lyuban-blue-lakes-nature-v2",
     type: "lake",
-    name: { de: "Blaue Seen von Ljuban", hu: "Ljubanyi kék tavak", ro: "Lacurile Albastre din Liuban", en: "Blue Lakes of Lyuban" },
+    name: { de: "Blaue Seen von Ljuban", hu: "Ljubanyi kék tavak", ro: "Lacurile Albastre din Liuban", en: "Blue Lakes of Lyuban",
+image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"
+},
     coords: [28.1, 52.85],
     coordinates: { lat: 52.85, lng: 28.1 },
     description: {
@@ -611,11 +684,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Adâncimea apei depășește pe alocuri 30 de metri", "Zonă populară de recreere neoficială", "Malurile sunt adesea formate din nisip alb de cretă", "Culoarea apei se estompează pe parcursul deceniilor"],
       en: ["Water depth exceeds 30 meters in some places", "Popular unofficial recreational spot", "Banks often consist of light-colored chalk sand", "The water color tends to fade over decades"],
     },
-    imageHint: "Turquoise water in a deep pit with steep white banks", image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"},
+    imageHint: "Turquoise water in a deep pit with steep white banks",
+    image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"},
   {
     id: "belarus-lisnaya-river-nature-v2",
     type: "river",
-    name: { de: "Lisnaja (Fluss)", hu: "Lisznaja (folyó)", ro: "Râul Lesnaia", en: "Lisnaya River" },
+    name: { de: "Lisnaja (Fluss)", hu: "Lisznaja (folyó)", ro: "Râul Lesnaia", en: "Lisnaya River",
+image: "/poi-images/belarus-lisnaya-river-nature-v2.webp"
+},
     coords: [23.9, 52.4],
     coordinates: { lat: 52.4, lng: 23.9 },
     description: {
@@ -630,11 +706,26 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de aproximativ 85 de kilometri", "Cursul râului este extrem de șerpuitor", "Loc important de adăpare pentru animalele sălbatice", "Se varsă în Bug la nord de Brest"],
       en: ["Total length is approximately 85 kilometers", "The river course is extremely winding", "Vital watering spot for wildlife in the primeval forest", "Joins the Bug River north of Brest"],
     },
-    imageHint: "Small river winding through ancient broadleaf forest", image: "/poi-images/belarus-lisnaya-river-nature-v2.webp"},
-  {
+imageHint: "Small river winding through ancient broadleaf forest",
+    descriptionAdvanced: {
+      de: "Die Lisnaja ist ein bezaubernder, 85 Kilometer langer Fluss im westlichen Teil von Belarus, der als rechter Nebenfluss entscheidend zum Wassersystem des Bug beiträgt. Ihr Charakter ist maßgeblich durch ihren Verlauf durch die unberührten, dichten Wälder des berühmten Nationalparks Belowescher Heide geprägt, einem der letzten echten Urwälder des europäischen Kontinents. Der Fluss speist sich aus dem Zusammenfluss der Rechten und der Linken Lisnaja und mäandert in unzähligen, engen Kurven durch eine überwiegend flache, von sumpfigen Senken und üppigen Auwäldern dominierte Landschaft. Diese extreme Windungsdichte und die abgelegene Lage schaffen unzählige ruhige Wasserbecken und schattige Uferzonen, die von europäischem Wild wie Wisenten, Wildschweinen und Elchen als bevorzugte Tränke genutzt werden. Die Lisnaja bleibt für den Schiffsverkehr gänzlich ungeeignet, was ihr geholfen hat, ihre reine, natürliche Wildheit zu bewahren, die heute nur noch von vereinzelt fahrenden Kajaks und ungestörten Wasservögeln durchbrochen wird.",
+      hu: "A Lisznaja egy varázslatos, 85 kilométer hosszú folyó Fehéroroszország nyugati részén, amely jobb oldali mellékfolyóként meghatározó szerepet játszik a Bug vízrendszerében. Karakterét alapvetően meghatározza, hogy átszeli a híres Belavezsai-erdő Nemzeti Park sűrű, érintetlen rengetegét, az európai kontinens egyik utolsó valódi őserdejét. A folyó a Jobb- és Bal-Lisznaja összefolyásából ered, és számtalan szűk kanyarulatban kanyarog egy túlnyomórészt sík, mocsaras mélyedésekkel és buja ártéri erdőkkel borított tájon. Ez az extrém kanyargósság és az elszigetelt fekvés számtalan csendes vízmedencét és árnyas part menti sávot hoz létre, amelyeket az európai vadon élő állatok, köztük bölények, vaddisznók és jávorszarvasok kedvelt itatóhelyként használnak. A Lisznaja teljes mértékben alkalmatlan a hajózásra, ami segített megőrizni tiszta, természetes vadságát; ezt ma is csak egy-egy magányos kajakos és a zavartalanul fészkelő vízimadarak törik meg.",
+      ro: "Lesnaia este un râu fermecător de 85 de kilometri lungime, situat în partea de vest a Belarusului, care contribuie decisiv la sistemul hidrografic al râului Bug ca afluent de dreapta. Caracterul său este puternic modelat de cursul său prin pădurile virgine, dense, ale renumitului Parc Național Bialowieza, una dintre ultimele păduri primare autentice ale continentului european. Râul se formează din confluența râurilor Lesnaia Dreaptă și Lesnaia Stângă și meandrează în nenumărate curbe strânse printr-un peisaj predominant plat, dominat de depresiuni mlăștinoase și păduri aluviale luxuriante. Această densitate extremă a sinuozităților și locația sa retrasă creează nenumărate bazine de apă liniștite și zone de mal umbrite, care sunt folosite de fauna sălbatică europeană, precum zimbrii, mistreții și elanii, ca locuri preferate de adăpare. Râul Lesnaia rămâne complet nepotrivit pentru navigație, fapt care l-a ajutat să-și păstreze sălbăticia pură, naturală, care astăzi este întreruptă doar de caiace rătăcite ocazional și de păsări acvatice netulburate.",
+      en: "The Lisnaya is an enchanting, 85-kilometer-long river in the western part of Belarus that significantly contributes to the Bug River's hydrological system as a major right tributary. Its overall character is fundamentally defined by its course through the untouched, dense woodlands of the famous Belovezhskaya Pushcha National Park, which stands as one of the last true primeval forests remaining on the European continent. The river originates from the direct confluence of the Right and Left Lisnaya rivers, meandering in countless tight bends across a predominantly flat landscape dominated by marshy depressions and lush riparian forests. This extreme sinuosity and highly secluded location create innumerable tranquil water pools and shaded shorelines that are highly favored as watering holes by European wildlife, notably including bison, wild boar, and moose. The Lisnaya remains entirely unsuitable for commercial navigation, a fact that has greatly aided in preserving its pure, natural wilderness, which today is only occasionally interrupted by passing kayaks and completely undisturbed waterfowl."
+    },
+    factsAdvanced: {
+      de: ["Total length from the confluence to the Bug River is 85 kilometers", "The river basin encompasses an area of roughly 2,650 square kilometers", "A substantial portion of its catchment area lies strictly within the Belovezhskaya Pushcha", "Formed by the union of the Right Lisnaya (63 km) and Left Lisnaya (50 km)", "Features heavily meandering channels with a gradient of just 0.2 meters per kilometer", "Primarily fed by snowmelt and substantial groundwater from the surrounding primeval bogs"],
+      hu: [],
+      ro: [],
+      en: []
+    },
+    image: "/poi-images/belarus-lisnaya-river-nature-v2.webp",
+},  {
     id: "belarus-sorochanskiye-lakes-nature-v2",
     type: "lake",
-    name: { de: "Sorotschanskie-Seen", hu: "Szorocsanszkije-tavak", ro: "Lacurile Soroceanskie", en: "Sorochanskiye Lakes" },
+    name: { de: "Sorotschanskie-Seen", hu: "Szorocsanszkije-tavak", ro: "Lacurile Soroceanskie", en: "Sorochanskiye Lakes",
+image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"
+},
     coords: [26.25, 54.88],
     coordinates: { lat: 54.88, lng: 26.25 },
     description: {
@@ -649,11 +740,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Parte a unei rezervații peisagistice oponime", "Formate prin topirea ghețarului Valdai", "Două dintre lacuri au apă extrem de moale", "Destinație populară pentru ecoturism"],
       en: ["Part of a namesake landscape reserve", "Formed by the melting of the Valdai glacier", "Two of the lakes have extremely soft water", "Popular destination for eco-tourism"],
     },
-    imageHint: "A string of small lakes connected by streams in a forest", image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"},
+    imageHint: "A string of small lakes connected by streams in a forest",
+    image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"},
   {
     id: "belarus-horyn-river-nature-v2",
     type: "river",
-    name: { de: "Horyn (Fluss)", hu: "Horyn (folyó)", ro: "Râul Horîn", en: "Horyn River" },
+    name: { de: "Horyn (Fluss)", hu: "Horyn (folyó)", ro: "Râul Horîn", en: "Horyn River",
+image: "/poi-images/belarus-horyn-river-nature-v2.webp"
+},
     coords: [26.7, 52.0],
     coordinates: { lat: 52.0, lng: 26.7 },
     description: {
@@ -668,11 +762,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de 659 de kilometri", "Trece prin orașul Stolin", "Important pentru irigații în agricultură", "Bogat în diverse specii de pești"],
       en: ["Total length is 659 kilometers", "Flows through the town of Stolin", "Important for agricultural irrigation", "Rich in various species of fish"],
     },
-    imageHint: "River with high sandy banks and nearby farm fields", image: "/poi-images/belarus-horyn-river-nature-v2.webp"},
+    imageHint: "River with high sandy banks and nearby farm fields",
+    image: "/poi-images/belarus-horyn-river-nature-v2.webp"},
   {
     id: "belarus-ptich-river-nature-v2",
     type: "river",
-    name: { de: "Ptitsch (Fluss)", hu: "Ptyics (folyó)", ro: "Râul Ptici", en: "Ptich River" },
+    name: { de: "Ptitsch (Fluss)", hu: "Ptyics (folyó)", ro: "Râul Ptici", en: "Ptich River",
+image: "/poi-images/belarus-ptich-river-nature-v2.webp"
+},
     coords: [28.0, 53.0],
     coordinates: { lat: 53.0, lng: 28.0 },
     description: {
@@ -687,11 +784,14 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de 421 de kilometri", "Cel mai mare afluent de stânga al Pripeatului", "Are o vale plată și largă", "Popular printre pescari pentru știucă și biban"],
       en: ["Total length is 421 kilometers", "Largest left tributary of the Pripyat", "Features a flat and wide valley", "Popular with anglers for pike and perch"],
     },
-    imageHint: "River flowing through rural countryside with wooden bridges", image: "/poi-images/belarus-ptich-river-nature-v2.webp"},
+    imageHint: "River flowing through rural countryside with wooden bridges",
+    image: "/poi-images/belarus-ptich-river-nature-v2.webp"},
   {
     id: "belarus-svitiaz-lake-nature-v2",
     type: "lake",
-    name: { de: "Switjas-See", hu: "Szvitjaz-tó", ro: "Lacul Svitiaz", en: "Svitiaz Lake" },
+    name: { de: "Switjas-See", hu: "Szvitjaz-tó", ro: "Lacul Svitiaz", en: "Svitiaz Lake",
+image: "/poi-images/belarus-svitiaz-lake-nature-v2.webp"
+},
     coords: [25.92, 53.43],
     coordinates: { lat: 53.43, lng: 25.92 },
     description: {
@@ -707,5 +807,18 @@ export const belarusNatureV2: POI[] = [
       en: ["Diameter is approximately 1.7 kilometers", "Celebrated by the poet Adam Mickiewicz", "Part of the Svitiazanski landscape reserve", "Has a sandy bottom and no surface inflows"],
     },
     imageHint: "A perfectly round clear lake surrounded by forest",
+    descriptionAdvanced: {
+      de: "Der Switjas-See, eingebettet in die dichten Wälder der Region Hrodna, ist ein bezaubernder Karstsee im Westen von Belarus, dessen fast makellos kreisrunde Form und kristallklares Wasser ihn zu einer faszinierenden geologischen Seltenheit machen. Er entstand durch den plötzlichen Einsturz einer tiefen unterirdischen Karsthöhle, wodurch ein völlig geschlossenes Wasserbecken ohne jegliche oberflächlichen Zu- oder Abflüsse gebildet wurde, das sich ausschließlich durch reines Grundwasser speist. Der See ist berühmt für seinen weißen, sandigen Grund, der durch das transparente Wasser gut sichtbar ist und dem Ort eine unwirkliche, märchenhafte Atmosphäre verleiht. Genau diese mystische Aura inspirierte den großen romantischen Dichter Adam Mickiewicz zu seinen berühmten Balladen, in denen der See als Ort von versunkenen Städten und magischen Wassergeistern besungen wird. Heute ist das Gewässer das absolute Herzstück des Switjasjanski-Landschaftsschutzgebiets, das unzählige seltene Pflanzenarten, darunter prähistorische Wasserpflanzen, schützt und im Sommer ein extrem beliebtes, wenngleich streng reguliertes, Erholungsziel für naturliebende Touristen darstellt.",
+      hu: "A Hrodna régió sűrű erdeiben megbúvó Szvitjaz-tó egy varázslatos karszttó Fehéroroszország nyugati részén, amelynek szinte hibátlanul kör alakú formája és kristálytiszta vize lenyűgöző geológiai ritkasággá teszi a területet. A tó egy mély, felszín alatti karsztbarlang hirtelen beomlásával keletkezett, ami egy teljesen zárt vízmedencét hozott létre mindenféle felszíni be- és kifolyás nélkül, így vizét kizárólag a tiszta talajvíz táplálja. A tó híres fehér, homokos fenekéről, amely az átlátszó vízen keresztül jól látható, és valószerűtlen, meseszerű hangulatot kölcsönöz a helynek. Pontosan ez a misztikus aura ihlette a nagy romantikus költőt, Adam Mickiewiczet híres balladáinak megírására, amelyekben a tavat elsüllyedt városok és varázslatos vízi szellemek lakhelyeként énekli meg. Napjainkban a víztest a Szvitjazanszki Tájvédelmi Körzet abszolút központja, amely számtalan ritka növényfajt, köztük őskori vízinövényeket is véd, nyaranta pedig rendkívül népszerű, noha szigorúan szabályozott rekreációs célpont a természetkedvelő turisták számára.",
+      ro: "Lacul Svitiaz, cuibărit în pădurile dense ale regiunii Grodno, este un lac carstic fermecător din vestul Belarusului, a cărui formă aproape perfect circulară și ale cărui ape limpezi precum cristalul îl fac o raritate geologică fascinantă. S-a format prin prăbușirea bruscă a unei peșteri carstice subterane adânci, creând un bazin de apă complet închis, fără niciun afluent sau efluent de suprafață, fiind alimentat exclusiv de ape subterane pure. Lacul este faimos pentru fundul său de nisip alb, vizibil clar prin apa transparentă, conferind locului o atmosferă ireală, de basm. Exact această aură mistică l-a inspirat pe marele poet romantic Adam Mickiewicz să scrie celebrele sale balade, în care lacul este cântat ca un loc al orașelor scufundate și al spiritelor magice ale apelor. Astăzi, corpul de apă este piesa centrală absolută a rezervației peisagistice Svitiazanski, care protejează nenumărate specii de plante rare, inclusiv plante acvatice preistorice, iar vara este o destinație de agrement extrem de populară, deși strict reglementată, pentru turiștii iubitori de natură.",
+      en: "Svitiaz Lake, nestled within the dense forests of the Grodno Region, is an enchanting karst lake in western Belarus, whose almost flawlessly circular shape and crystal-clear water make it a deeply fascinating geological rarity. It was formed by the sudden collapse of a deep underground karst cave, thereby creating a completely enclosed water basin devoid of any surface inflows or outflows, sustained exclusively by pure groundwater. The lake is famously known for its pristine white sandy bottom, which is highly visible through the fully transparent water, endowing the location with an unreal, fairytale-like atmosphere. It is precisely this mystical aura that profoundly inspired the great romantic poet Adam Mickiewicz to write his famous ballads, in which the lake is celebrated as a mysterious site of sunken cities and magical water spirits. Today, the water body stands as the absolute centerpiece of the Svitiazanski Landscape Reserve, meticulously protecting countless rare plant species, including prehistoric aquatic flora, and serving as an extremely popular, albeit strictly regulated, summer recreational destination for nature-loving tourists."
+    },
+    factsAdvanced: {
+      de: ["Covers a compact area of roughly 1.7 square kilometers", "Maximum depth reaches approximately 15 meters at its center", "Has a nearly perfect circular shoreline measuring about 5.2 kilometers in length", "Famous for its extremely soft, mineral-poor water due to its karst origin", "Home to a rare aquatic plant called Tetradinium javanicum, native to Java", "Legend states a city sunk to the bottom of the lake to escape Mongol invaders"],
+      hu: [],
+      ro: [],
+      en: []
+    },
+    image: "/poi-images/belarus-svitiaz-lake-nature-v2.webp"
   }
 ];

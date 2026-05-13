@@ -4,7 +4,9 @@ export const luxembourgCitiesV2: POI[] = [
   {
     id: "luxembourg-esch-sur-alzette-cities-v2",
     type: "city",
-    name: { de: "Esch an der Alzette", hu: "Esch-sur-Alzette", ro: "Esch-sur-Alzette", en: "Esch-sur-Alzette" },
+    name: { de: "Esch an der Alzette", hu: "Esch-sur-Alzette", ro: "Esch-sur-Alzette", en: "Esch-sur-Alzette",
+image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp"
+},
     coords: [5.9814, 49.4969],
     coordinates: { lat: 49.4969, lng: 5.9814 },
     description: {
@@ -19,11 +21,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Al doilea oraș ca mărime din Luxemburg", "Capitală Europeană a Culturii în 2022", "Sediul Universității din Luxemburg", "Locația unor foste furnale gigantice"],
       en: ["Second largest city in Luxembourg", "European Capital of Culture in 2022", "Home to the University of Luxembourg", "Site of massive former blast furnaces"],
     },
-    imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette", image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp"},
-  {
+imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
+    descriptionAdvanced: {
+      de: "Esch-sur-Alzette ist das Zentrum der luxemburgischen Stahlindustrie. Die Stadt beherbergt die Universität Luxemburg auf dem ehemaligen Industriegelände Belval.",
+      hu: "Esch-sur-Alzette az ország acélipari központja. A városban található a Luxemburgi Egyetem, amely a korábbi ipari negyed, Belval területén kapott helyet.",
+      ro: "Esch-sur-Alzette este centrul industriei siderurgice luxemburgheze. Orașul găzduiește Universitatea din Luxemburg pe fostul sit industrial Belval.",
+      en: "Esch-sur-Alzette is the heart of the Luxembourgish steel industry. The city hosts the University of Luxembourg on the former industrial site of Belval.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1128", "Fläche: 14,35 km²", "Zweitgrößte Stadt des Landes", "Kulturhauptstadt Europas 2022"],
+      hu: ["1128 körül alapították", "Területe: 14,35 km²", "Az ország második legnagyobb városa", "Európa Kulturális Fővárosa 2022"],
+      ro: ["Fondat în jurul anului 1128", "Suprafață: 14,35 km²", "Al doilea oraș ca mărime", "Capitală Europeană a Culturii 2022"],
+      en: ["Founded around 1128", "Area: 14.35 sq km", "Second largest city in Luxembourg", "European Capital of Culture 2022"],
+    },
+    image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp",
+},  {
     id: "luxembourg-differdange-cities-v2",
     type: "city",
-    name: { de: "Differdingen", hu: "Differdange", ro: "Differdange", en: "Differdange" },
+    name: { de: "Differdingen", hu: "Differdange", ro: "Differdange", en: "Differdange",
+image: "/poi-images/luxembourg-differdange-cities-v2.webp"
+},
     coords: [5.8914, 49.5217],
     coordinates: { lat: 49.5217, lng: 5.8914 },
     description: {
@@ -38,11 +55,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime din Luxemburg", "Locația unei importante oțelării", "Găzduiește Centrul de Științe din Luxemburg", "Deține un castel din secolul al XVI-lea"],
       en: ["Third largest city in Luxembourg", "Location of a major steel plant", "Home to the Luxembourg Science Center", "Features a 16th-century castle"],
     },
-    imageHint: "Modern architecture and industrial heritage in Differdange", image: "/poi-images/luxembourg-differdange-cities-v2.webp"},
-  {
+imageHint: "Modern architecture and industrial heritage in Differdange",
+    descriptionAdvanced: {
+      de: "Differdingen ist als Stadt des Eisens bekannt und blickt auf eine lange Bergbaugeschichte zurück. Das Schloss Differdingen dient heute als Campus.",
+      hu: "Differdange az acél városaként ismert, jelentős bányászati múlttal rendelkezik. A differdange-i kastély ma egyetemi kampuszként funkcionál.",
+      ro: "Differdange este cunoscut ca orașul fierului, având o lungă istorie minieră. Castelul Differdange servește astăzi drept campus universitar.",
+      en: "Differdange is known as the City of Iron, with a long history of mining. Differdange Castle now serves as an international university campus.",
+    },
+    factsAdvanced: {
+      de: ["Stadtrechte seit 1907", "Höhe: 293 Meter", "Heimat des Science Center", "Teil der Terres Rouges Region"],
+      hu: ["1907-ben kapott városi rangot", "Tengerszint feletti magasság: 293 m", "A Science Center otthona", "A Terres Rouges régió része"],
+      ro: ["Drepturi de oraș din 1907", "Altitudine: 293 metri", "Găzduiește Science Center", "Parte a regiunii Terres Rouges"],
+      en: ["City rights since 1907", "Elevation: 293 meters", "Home to the Science Center", "Part of the Terres Rouges region"],
+    },
+    image: "/poi-images/luxembourg-differdange-cities-v2.webp",
+},  {
     id: "luxembourg-dudelange-cities-v2",
     type: "city",
-    name: { de: "Düdelingen", hu: "Dudelange", ro: "Dudelange", en: "Dudelange" },
+    name: { de: "Düdelingen", hu: "Dudelange", ro: "Dudelange", en: "Dudelange",
+image: "/poi-images/luxembourg-dudelange-cities-v2.webp"
+},
     coords: [6.0833, 49.48],
     coordinates: { lat: 49.48, lng: 6.0833 },
     description: {
@@ -57,11 +89,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Al patrulea oraș ca mărime din țară", "Cunoscut pentru stația de radio RTL", "Găzduiește Centrul Național de Fotografie", "Situat la poalele muntelui Hardt"],
       en: ["Fourth largest city in the country", "Known for the RTL radio station", "Houses the National Audiovisual Centre", "Located at the foot of Mount Hardt"],
     },
-    imageHint: "City hall and central square of Dudelange", image: "/poi-images/luxembourg-dudelange-cities-v2.webp"},
-  {
+imageHint: "City hall and central square of Dudelange",
+    descriptionAdvanced: {
+      de: "Düdelingen ist eine bedeutende Industriestadt im Süden des Landes. Das Naturschutzgebiet Haard bietet einen Einblick in die ehemalige Erzgewinnung.",
+      hu: "Dudelange az ország déli részének fontos iparvárosa. A Haard természetvédelmi terület bemutatja az egykori vasércbányászat nyomait a tájban.",
+      ro: "Dudelange este un important oraș industrial din sudul țării. Rezervația naturală Haard oferă o incursiune în fosta exploatare a minereului.",
+      en: "Dudelange is a major industrial city in the south of Luxembourg. The Haard nature reserve offers insights into former iron ore extraction.",
+    },
+    factsAdvanced: {
+      de: ["Viertgrößte Stadt Luxemburgs", "Fläche: 21,38 km²", "Sitz des CNA-Filmarchivs", "Höchster Sendemast (285m)"],
+      hu: ["Luxemburg negyedik legnagyobb városa", "Területe: 21,38 km²", "A CNA filmarchívum székhelye", "Legmagasabb adótorony (285 m)"],
+      ro: ["Al patrulea oraș ca mărime", "Suprafață: 21,38 km²", "Sediul arhivelor de film CNA", "Cel mai înalt emițător (285m)"],
+      en: ["Fourth largest city in Luxembourg", "Area: 21.38 sq km", "Seat of the CNA film archives", "Highest transmitter mast (285m)"],
+    },
+    image: "/poi-images/luxembourg-dudelange-cities-v2.webp",
+},  {
     id: "luxembourg-petange-cities-v2",
     type: "town",
-    name: { de: "Petingen", hu: "Pétange", ro: "Pétange", en: "Pétange" },
+    name: { de: "Petingen", hu: "Pétange", ro: "Pétange", en: "Pétange",
+image: "/poi-images/luxembourg-petange-cities-v2.webp"
+},
     coords: [5.8758, 49.5558],
     coordinates: { lat: 49.5558, lng: 5.8758 },
     description: {
@@ -76,11 +123,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Comună populată în sud-vest", "Gară de frontieră importantă către Belgia", "Punct de plecare pentru trenul istoric Train 1900", "Primul oraș luxemburghez eliberat în 1944"],
       en: ["Populous municipality in the southwest", "Important border railway station to Belgium", "Starting point of the Train 1900 heritage railway", "First Luxembourgish town liberated in 1944"],
     },
-    imageHint: "Historic steam train near Pétange station", image: "/poi-images/luxembourg-petange-cities-v2.webp"},
-  {
+imageHint: "Historic steam train near Pétange station",
+    descriptionAdvanced: {
+      de: "Petingen liegt am Dreiländereck zwischen Luxemburg, Belgien und Frankreich. Die Stadt ist ein wichtiger Eisenbahnknotenpunkt mit historischem Charme.",
+      hu: "Pétange a luxemburgi, belga és francia hármashatárnál fekszik. A város fontos vasúti csomópont, amely megőrizte történelmi ipari jellegét.",
+      ro: "Pétange se află la granița triplă dintre Luxemburg, Belgia și Franța. Orașul este un nod feroviar important cu un farmec istoric aparte.",
+      en: "Pétange is located at the tri-border point of Luxembourg, Belgium, and France. It is a major railway hub with a distinct historical charm.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 11,93 km²", "Museumsbahn Train 1900", "Befreiung durch US-Truppen 1944", "Höhe: 284 Meter"],
+      hu: ["Területe: 11,93 km²", "Train 1900 múzeumvasút", "Amerikai felszabadítás 1944-ben", "Magasság: 284 méter"],
+      ro: ["Suprafață: 11,93 km²", "Trenul muzeu Train 1900", "Eliberat de trupele SUA în 1944", "Altitudine: 284 metri"],
+      en: ["Area: 11.93 sq km", "Train 1900 museum railway", "Liberated by US troops in 1944", "Elevation: 284 meters"],
+    },
+    image: "/poi-images/luxembourg-petange-cities-v2.webp",
+},  {
     id: "luxembourg-sanem-cities-v2",
     type: "town",
-    name: { de: "Sassenheim", hu: "Sanem", ro: "Sanem", en: "Sanem" },
+    name: { de: "Sassenheim", hu: "Sanem", ro: "Sanem", en: "Sanem",
+image: "/poi-images/luxembourg-sanem-cities-v2.webp"
+},
     coords: [5.9283, 49.5472],
     coordinates: { lat: 49.5472, lng: 5.9283 },
     description: {
@@ -95,11 +157,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Formată din patru localități principale", "Găzduiește Castelul Sanem", "Parte a proiectului de dezvoltare Belval", "Sediul unor companii internaționale de logistică"],
       en: ["Consists of four main localities", "Home to Sanem Castle", "Part of the Belval development project", "Host to international logistics companies"],
     },
-    imageHint: "Sanem Castle and its surrounding gardens", image: "/poi-images/luxembourg-sanem-cities-v2.webp"},
-  {
+imageHint: "Sanem Castle and its surrounding gardens",
+    descriptionAdvanced: {
+      de: "Sanem umfasst bedeutende Orte wie Belvaux und Ehlerange. Das Schloss Sanem aus dem 13. Jahrhundert ist ein historisches Wahrzeichen der Gemeinde.",
+      hu: "Sanem olyan fontos településeket foglal magában, mint Belvaux és Ehlerange. A 13. századi Sanem-kastély a közösség történelmi jelképe.",
+      ro: "Sanem cuprinde localități importante precum Belvaux și Ehlerange. Castelul Sanem din secolul al XIII-lea este un simbol istoric al comunei.",
+      en: "Sanem includes key localities like Belvaux and Ehlerange. The 13th-century Sanem Castle stands as a historic landmark of the municipality.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 18.000", "Fläche: 24,42 km²", "Sitz vieler Logistikunternehmen", "Schloss im Renaissance-Stil"],
+      hu: ["Lakossága: kb. 18.000 fő", "Területe: 24,42 km²", "Számos logisztikai cég központja", "Reneszánsz stílusú kastély"],
+      ro: ["Populație: cca. 18.000", "Suprafață: 24,42 km²", "Sediul multor firme de logistică", "Castel în stil renascentist"],
+      en: ["Population: approx. 18,000", "Area: 24.42 sq km", "Hub for logistics companies", "Renaissance-style castle"],
+    },
+    image: "/poi-images/luxembourg-sanem-cities-v2.webp",
+},  {
     id: "luxembourg-hesperange-cities-v2",
     type: "town",
-    name: { de: "Hesperingen", hu: "Hesperange", ro: "Hesperange", en: "Hesperange" },
+    name: { de: "Hesperingen", hu: "Hesperange", ro: "Hesperange", en: "Hesperange",
+image: "/poi-images/luxembourg-hesperange-cities-v2.webp"
+},
     coords: [6.1553, 49.5731],
     coordinates: { lat: 49.5731, lng: 6.1553 },
     description: {
@@ -114,11 +191,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Zonă rezidențială populară lângă capitală", "Deține o ruină de castel distinctivă", "Nod rutier important în sud", "Situat pe râul Alzette"],
       en: ["Popular residential area near the capital", "Features a prominent castle ruin", "Important traffic hub in the south", "Located on the Alzette river"],
     },
-    imageHint: "Ruins of Hesperange Castle overlooking the town", image: "/poi-images/luxembourg-hesperange-cities-v2.webp"},
-  {
+imageHint: "Ruins of Hesperange Castle overlooking the town",
+    descriptionAdvanced: {
+      de: "Hesperingen liegt südlich der Hauptstadt im Tal der Alzette. Die Ruinen der mittelalterlichen Burg zeugen von der strategischen Bedeutung des Ortes.",
+      hu: "Hesperange a fővárostól délre, az Alzette völgyében található. A középkori vár romjai a település egykori stratégiai jelentőségéről tanúskodnak.",
+      ro: "Hesperange se află la sud de capitală, în valea râului Alzette. Ruinele castelului medieval atestă importanța strategică a localității.",
+      en: "Hesperange is situated south of the capital in the Alzette valley. The ruins of the medieval castle reflect the town's strategic past.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 257 Meter", "Burg im 13. Jahrhundert erbaut", "Fläche: 27,22 km²", "Naherholungsgebiet Hesper Park"],
+      hu: ["Magasság: 257 méter", "A vár a 13. században épült", "Területe: 27,22 km²", "Hesper Park pihenőövezet"],
+      ro: ["Altitudine: 257 metri", "Castel construit în sec. XIII", "Suprafață: 27,22 km²", "Zona de agrement Hesper Park"],
+      en: ["Elevation: 257 meters", "Castle built in the 13th century", "Area: 27.22 sq km", "Hesper Park recreation area"],
+    },
+    image: "/poi-images/luxembourg-hesperange-cities-v2.webp",
+},  {
     id: "luxembourg-bettembourg-cities-v2",
     type: "town",
-    name: { de: "Bettemburg", hu: "Bettembourg", ro: "Bettembourg", en: "Bettembourg" },
+    name: { de: "Bettemburg", hu: "Bettembourg", ro: "Bettembourg", en: "Bettembourg",
+image: "/poi-images/luxembourg-bettembourg-cities-v2.webp"
+},
     coords: [6.1028, 49.5186],
     coordinates: { lat: 49.5186, lng: 6.1028 },
     description: {
@@ -133,11 +225,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul unei mari gări de marfă", "Găzduiește parcul de distracții Parc Merveilleux", "Nod feroviar vital", "Deține un castel din secolul al XVIII-lea"],
       en: ["Site of a large freight railway station", "Home to the Parc Merveilleux amusement park", "Crucial railway junction", "Features an 18th-century castle"],
     },
-    imageHint: "Entrance to Parc Merveilleux in Bettembourg", image: "/poi-images/luxembourg-bettembourg-cities-v2.webp"},
-  {
+imageHint: "Entrance to Parc Merveilleux in Bettembourg",
+    descriptionAdvanced: {
+      de: "Bettemburg ist bekannt für seinen Märchenpark und als einer der größten Eisenbahnknotenpunkte Europas mit einem modernen Containerterminal.",
+      hu: "Bettembourg híres a Parc Merveilleux meseparkjáról, valamint Európa egyik legnagyobb vasúti csomópontjáról és konténertermináljáról.",
+      ro: "Bettembourg este cunoscut pentru parcul său de distracții și ca unul dintre cele mai mari noduri feroviare din Europa, cu un terminal modern.",
+      en: "Bettembourg is famous for its Parc Merveilleux and as one of Europe's largest railway hubs, featuring a modern container terminal.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 21,49 km²", "Gegründet um 1711", "Parc Merveilleux Eröffnung 1956", "Höhe: 266 Meter"],
+      hu: ["Területe: 21,49 km²", "1711 körül alapították", "A Parc Merveilleux 1956-ban nyílt", "Magasság: 266 méter"],
+      ro: ["Suprafață: 21,49 km²", "Fondat în jurul anului 1711", "Parcul Merveilleux deschis în 1956", "Altitudine: 266 metri"],
+      en: ["Area: 21.49 sq km", "Founded around 1711", "Parc Merveilleux opened in 1956", "Elevation: 266 meters"],
+    },
+    image: "/poi-images/luxembourg-bettembourg-cities-v2.webp",
+},  {
     id: "luxembourg-schifflange-cities-v2",
     type: "town",
-    name: { de: "Schifflingen", hu: "Schifflange", ro: "Schifflange", en: "Schifflange" },
+    name: { de: "Schifflingen", hu: "Schifflange", ro: "Schifflange", en: "Schifflange",
+image: "/poi-images/luxembourg-schifflange-cities-v2.webp"
+},
     coords: [6.0125, 49.5106],
     coordinates: { lat: 49.5106, lng: 6.0125 },
     description: {
@@ -152,11 +259,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locația unei mari oțelării", "Situat la poalele dealului Lallingerberg", "Important loc de reședință pentru muncitorii industriali", "Zonă dens populată în sud"],
       en: ["Site of a large steel plant", "Located at the foot of Lallingerberg", "Significant residence for industrial workers", "Densely populated area in the south"],
     },
-    imageHint: "Industrial steel structures in Schifflange", image: "/poi-images/luxembourg-schifflange-cities-v2.webp"},
-  {
+imageHint: "Industrial steel structures in Schifflange",
+    descriptionAdvanced: {
+      de: "Schifflingen ist eng mit der Stahlindustrie verbunden. Das Naturschutzgebiet Lalléngerbierg bietet Wanderwege durch die ehemalige Bergbaulandschaft.",
+      hu: "Schifflange szorosan kötődik az acéliparhoz. A Lalléngerbierg természetvédelmi terület túraútvonalai az egykori bányavidéken vezetnek keresztül.",
+      ro: "Schifflange este strâns legat de industria siderurgică. Rezervația Lalléngerbierg oferă trasee de drumeție prin fostul peisaj minier.",
+      en: "Schifflange is closely tied to the steel industry. The Lalléngerbierg nature reserve offers hiking trails through former mining landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 7,71 km²", "Stahlwerk Schifflange (ArcelorMittal)", "Höhe: 286 Meter", "Naturschutzgebiet Dumontshaff"],
+      hu: ["Területe: 7,71 km²", "Schifflange-i acélművek", "Magasság: 286 méter", "Dumontshaff természetvédelmi terület"],
+      ro: ["Suprafață: 7,71 km²", "Oțelăria Schifflange", "Altitudine: 286 metri", "Rezervația naturală Dumontshaff"],
+      en: ["Area: 7.71 sq km", "Schifflange steelworks site", "Elevation: 286 meters", "Dumontshaff nature reserve"],
+    },
+    image: "/poi-images/luxembourg-schifflange-cities-v2.webp",
+},  {
     id: "luxembourg-ettelbruck-cities-v2",
     type: "town",
-    name: { de: "Ettelbrück", hu: "Ettelbruck", ro: "Ettelbruck", en: "Ettelbruck" },
+    name: { de: "Ettelbrück", hu: "Ettelbruck", ro: "Ettelbruck", en: "Ettelbruck",
+image: "/poi-images/luxembourg-ettelbruck-cities-v2.webp"
+},
     coords: [6.1042, 49.8475],
     coordinates: { lat: 49.8475, lng: 6.1042 },
     description: {
@@ -171,11 +293,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul Muzeului Memorial General Patton", "Nod feroviar important în nord", "Gazda celui mai mare târg agricol", "Eliberat de trupele americane în 1944"],
       en: ["Home to the General Patton Memorial Museum", "Major railway junction in the north", "Host of the country's largest agricultural fair", "Liberated by US troops in 1944"],
     },
-    imageHint: "Patton Square and monument in Ettelbruck", image: "/poi-images/luxembourg-ettelbruck-cities-v2.webp"},
-  {
+imageHint: "Patton Square and monument in Ettelbruck",
+    descriptionAdvanced: {
+      de: "Ettelbrück gilt als Tor zu den Ardennen. Die Stadt ehrt General Patton, der den Ort während der Ardennenoffensive im Zweiten Weltkrieg befreite.",
+      hu: "Ettelbruck az Ardennek kapujaként ismert. A város Patton tábornok előtt tiszteleg, aki a második világháború alatt felszabadította a települést.",
+      ro: "Ettelbruck este considerat poarta către Ardeni. Orașul îl onorează pe Generalul Patton, care a eliberat localitatea în Al Doilea Război Mondial.",
+      en: "Ettelbruck is known as the Gateway to the Ardennes. The city honors General Patton, who liberated the town during the Battle of the Bulge.",
+    },
+    factsAdvanced: {
+      de: ["General Patton Memorial Museum", "Größtes Agrarzentrum des Landes", "Höhe: 199 Meter", "Wichtiger Eisenbahnknoten"],
+      hu: ["General Patton Emlékmúzeum", "Az ország legnagyobb agrárközpontja", "Magasság: 199 méter", "Fontos vasúti csomópont"],
+      ro: ["Muzeul Memorial General Patton", "Cel mai mare centru agricol", "Altitudine: 199 metri", "Nod feroviar important"],
+      en: ["General Patton Memorial Museum", "Largest agricultural center", "Elevation: 199 meters", "Major railway junction"],
+    },
+    image: "/poi-images/luxembourg-ettelbruck-cities-v2.webp",
+},  {
     id: "luxembourg-kayl-cities-v2",
     type: "town",
-    name: { de: "Kayl", hu: "Kayl", ro: "Kayl", en: "Kayl" },
+    name: { de: "Kayl", hu: "Kayl", ro: "Kayl", en: "Kayl",
+image: "/poi-images/luxembourg-kayl-cities-v2.webp"
+},
     coords: [6.0389, 49.49],
     coordinates: { lat: 49.49, lng: 6.0389 },
     description: {
@@ -190,11 +327,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locația Monumentului Național al Minerilor", "Centru istoric al extracției de minereu de fier", "Trasee de drumeție în rezervația naturală Haard", "Deține o biserică din secolul al XVIII-lea"],
       en: ["Site of the National Miners' Monument", "Historic center of iron ore extraction", "Hiking opportunities in the Haard nature reserve", "Features an 18th-century church"],
     },
-    imageHint: "The National Miners' Monument in Kayl", image: "/poi-images/luxembourg-kayl-cities-v2.webp"},
-  {
+imageHint: "The National Miners' Monument in Kayl",
+    descriptionAdvanced: {
+      de: "Kayl liegt in der Region der Roten Erde. Das nationale Bergarbeiterdenkmal auf dem Léiffrächen erinnert an die Opfer des luxemburgischen Bergbaus.",
+      hu: "Kayl a Vörös Föld régiójában fekszik. A Léiffrächen dombon található nemzeti bányász-emlékmű a luxemburgi bányászat áldozataira emlékeztet.",
+      ro: "Kayl este situat în regiunea Pământului Roșu. Monumentul național al minerilor de pe Léiffrächen onorează victimele mineritului luxemburghez.",
+      en: "Kayl is located in the Red Earth region. The National Miners' Monument at Léiffrächen commemorates the victims of Luxembourgish mining.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 14,86 km²", "Nationale Bergarbeitermonument", "Höhe: 281 Meter", "Gemeinde umfasst Tetingen"],
+      hu: ["Területe: 14,86 km²", "Nemzeti bányász-emlékmű", "Magasság: 281 méter", "Tétange település része"],
+      ro: ["Suprafață: 14,86 km²", "Monumentul Național al Minerilor", "Altitudine: 281 metri", "Comuna include Tétange"],
+      en: ["Area: 14.86 sq km", "National Miners' Monument", "Elevation: 281 meters", "Municipality includes Tétange"],
+    },
+    image: "/poi-images/luxembourg-kayl-cities-v2.webp",
+},  {
     id: "luxembourg-mamer-cities-v2",
     type: "town",
-    name: { de: "Mamer", hu: "Mamer", ro: "Mamer", en: "Mamer" },
+    name: { de: "Mamer", hu: "Mamer", ro: "Mamer", en: "Mamer",
+image: "/poi-images/luxembourg-mamer-cities-v2.webp"
+},
     coords: [6.0239, 49.6264],
     coordinates: { lat: 49.6264, lng: 6.0239 },
     description: {
@@ -209,11 +361,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locul de naștere al ciclistului Nicolas Frantz", "Locația unor ruine de termale romane", "Găzduiește un centru cultural mare", "Sediul Școlii Europene II"],
       en: ["Birthplace of cyclist Nicolas Frantz", "Site of ancient Roman thermal baths", "Houses a large cultural center", "Location of the European School II"],
     },
-    imageHint: "Roman bath ruins in Mamer", image: "/poi-images/luxembourg-mamer-cities-v2.webp"},
-  {
+imageHint: "Roman bath ruins in Mamer",
+    descriptionAdvanced: {
+      de: "Mamer ist bekannt für seine gallo-römischen Wurzeln. Die Gemeinde beherbergt die Europäische Schule und das Kulturzentrum Kinneksbond.",
+      hu: "Mamer híres gall-római gyökereiről. A település ad otthont az Európai Iskolának és a Kinneksbond kulturális központnak.",
+      ro: "Mamer este cunoscut pentru rădăcinile sale galo-romane. Comuna găzduiește Școala Europeană și centrul cultural Kinneksbond.",
+      en: "Mamer is known for its Gallo-Roman heritage. The municipality is home to the European School and the Kinneksbond cultural center.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 27,54 km²", "Geburtsort von Nicolas Frantz", "Römische Thermenanlage", "Einwohner: ca. 10.000"],
+      hu: ["Területe: 27,54 km²", "Nicolas Frantz szülőhelye", "Római kori fürdőmaradványok", "Lakossága: kb. 10.000 fő"],
+      ro: ["Suprafață: 27,54 km²", "Locul de naștere al lui Nicolas Frantz", "Băi romane antice", "Populație: cca. 10.000"],
+      en: ["Area: 27.54 sq km", "Birthplace of Nicolas Frantz", "Roman thermal bath ruins", "Population: approx. 10,000"],
+    },
+    image: "/poi-images/luxembourg-mamer-cities-v2.webp",
+},  {
     id: "luxembourg-strassen-cities-v2",
     type: "town",
-    name: { de: "Strassen", hu: "Strassen", ro: "Strassen", en: "Strassen" },
+    name: { de: "Strassen", hu: "Strassen", ro: "Strassen", en: "Strassen",
+image: "/poi-images/luxembourg-strassen-cities-v2.webp"
+},
     coords: [6.0733, 49.6192],
     coordinates: { lat: 49.6192, lng: 6.0733 },
     description: {
@@ -228,11 +395,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Una dintre cele mai bogate comune din Luxemburg", "Situată pe un vechi drum roman", "Cunoscută pentru centrul wellness Les Thermes", "Sediul multor instituții internaționale"],
       en: ["One of the wealthiest municipalities in Luxembourg", "Located on an ancient Roman road", "Famous for the Les Thermes wellness center", "Host to many international institutions"],
     },
-    imageHint: "Modern architecture of Les Thermes in Strassen", image: "/poi-images/luxembourg-strassen-cities-v2.webp"},
-  {
+imageHint: "Modern architecture of Les Thermes in Strassen",
+    descriptionAdvanced: {
+      de: "Strassen liegt westlich der Hauptstadt und ist für das moderne Wellnesszentrum Les Thermes bekannt. Die Gemeinde hat eine sehr hohe Lebensqualität.",
+      hu: "Strassen a fővárostól nyugatra fekszik, és modern wellnessközpontjáról, a Les Thermes-ről ismert. A település kiemelkedő életszínvonalat kínál.",
+      ro: "Strassen se află la vest de capitală și este renumit pentru centrul de wellness Les Thermes. Comuna oferă o calitate a vieții foarte ridicată.",
+      en: "Strassen is located west of the capital and is famous for the Les Thermes wellness center. The town is known for its high quality of life.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 10,71 km²", "Wellnesszentrum Les Thermes", "Höhe: 300 Meter", "Antike römische Straße"],
+      hu: ["Területe: 10,71 km²", "Les Thermes wellnessközpont", "Magasság: 300 méter", "Ókori római út mentén fekszik"],
+      ro: ["Suprafață: 10,71 km²", "Centrul de wellness Les Thermes", "Altitudine: 300 metri", "Situat pe un drum roman antic"],
+      en: ["Area: 10.71 sq km", "Les Thermes wellness center", "Elevation: 300 meters", "Located on an ancient Roman road"],
+    },
+    image: "/poi-images/luxembourg-strassen-cities-v2.webp",
+},  {
     id: "luxembourg-bertrange-cities-v2",
     type: "town",
-    name: { de: "Bartringen", hu: "Bertrange", ro: "Bertrange", en: "Bertrange" },
+    name: { de: "Bartringen", hu: "Bertrange", ro: "Bertrange", en: "Bertrange",
+image: "/poi-images/luxembourg-bertrange-cities-v2.webp"
+},
     coords: [6.0503, 49.6111],
     coordinates: { lat: 49.6111, lng: 6.0503 },
     description: {
@@ -247,11 +429,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Găzduiește centrul comercial City Concorde", "Deține un castel din secolul al XVIII-lea", "Sediul Centrului Național de Literatură", "Loc de reședință popular pentru navetiști"],
       en: ["Home to the City Concorde shopping center", "Features an 18th-century castle", "Site of the National Literature Centre", "Popular residential area for commuters"],
     },
-    imageHint: "Main square and church in Bertrange", image: "/poi-images/luxembourg-bertrange-cities-v2.webp"},
-  {
+imageHint: "Main square and church in Bertrange",
+    descriptionAdvanced: {
+      de: "Bertrange ist ein wichtiges Einkaufszentrum mit den Malls City Concorde und Belle Étoile. Die Gemeinde verbindet Modernität mit dörflichem Charme.",
+      hu: "Bertrange fontos bevásárlóközpont, itt található a City Concorde és a Belle Étoile. A település ötvözi a modernitást a falusias bájjal.",
+      ro: "Bertrange este un centru comercial important cu mall-urile City Concorde și Belle Étoile. Comuna îmbină modernitatea cu farmecul rural.",
+      en: "Bertrange is a major shopping hub featuring the City Concorde and Belle Étoile malls. The town blends modernity with village charm.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 17,39 km²", "Schloss Bertrange (Rathaus)", "Einkaufszentrum Belle Étoile", "Höhe: 288 Meter"],
+      hu: ["Területe: 17,39 km²", "Bertrange-i kastély (Városháza)", "Belle Étoile bevásárlóközpont", "Magasság: 288 méter"],
+      ro: ["Suprafață: 17,39 km²", "Castelul Bertrange (Primăria)", "Mall-ul Belle Étoile", "Altitudine: 288 metri"],
+      en: ["Area: 17.39 sq km", "Bertrange Castle (City Hall)", "Belle Étoile shopping center", "Elevation: 288 meters"],
+    },
+    image: "/poi-images/luxembourg-bertrange-cities-v2.webp",
+},  {
     id: "luxembourg-walferdange-cities-v2",
     type: "town",
-    name: { de: "Walferdingen", hu: "Walferdange", ro: "Walferdange", en: "Walferdange" },
+    name: { de: "Walferdingen", hu: "Walferdange", ro: "Walferdange", en: "Walferdange",
+image: "/poi-images/luxembourg-walferdange-cities-v2.webp"
+},
     coords: [6.1331, 49.6603],
     coordinates: { lat: 49.6603, lng: 6.1331 },
     description: {
@@ -266,11 +463,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Găzduiește Castelul Walferdange", "Fostă locație a Universității din Luxemburg", "Deține sisteme de apeducte romane", "Stație feroviară importantă pe linia de nord"],
       en: ["Home to Walferdange Castle", "Former site of the University of Luxembourg", "Features Roman water pipe systems", "Important railway stop on the North line"],
     },
-    imageHint: "Walferdange Castle facade", image: "/poi-images/luxembourg-walferdange-cities-v2.webp"},
-  {
+imageHint: "Walferdange Castle facade",
+    descriptionAdvanced: {
+      de: "Walferdingen liegt im Alzette-Tal und ist für den Anbau von Rosen und Gips bekannt. Die Gipsgruben können heute im Rahmen von Touren besucht werden.",
+      hu: "Walferdange az Alzette völgyében fekszik, híres rózsatermesztéséről és gipszbányáiról. A gipszbányák ma vezetett túrák keretében látogathatók.",
+      ro: "Walferdange se află în valea Alzette și este renumit pentru cultivarea trandafirilor și gips. Minele de gips pot fi vizitate în tururi ghidate.",
+      en: "Walferdange is set in the Alzette valley, known for rose cultivation and gypsum. The local gypsum mines can be explored on guided tours.",
+    },
+    factsAdvanced: {
+      de: ["Römeranlage Raschpëtzer", "Ehemalige Residenz Prinz Henri", "Fläche: 7,06 km²", "Höhe: 235 Meter"],
+      hu: ["Raschpëtzer római vízvezeték", "Henri herceg korábbi rezidenciája", "Területe: 7,06 km²", "Magasság: 235 méter"],
+      ro: ["Apeductul roman Raschpëtzer", "Fosta reședință a Prințului Henri", "Suprafață: 7,06 km²", "Altitudine: 235 metri"],
+      en: ["Raschpëtzer Roman aqueduct", "Former residence of Prince Henri", "Area: 7.06 sq km", "Elevation: 235 meters"],
+    },
+    image: "/poi-images/luxembourg-walferdange-cities-v2.webp",
+},  {
     id: "luxembourg-junglinster-cities-v2",
     type: "town",
-    name: { de: "Junglinster", hu: "Junglinster", ro: "Junglinster", en: "Junglinster" },
+    name: { de: "Junglinster", hu: "Junglinster", ro: "Junglinster", en: "Junglinster",
+image: "/poi-images/luxembourg-junglinster-cities-v2.webp"
+},
     coords: [6.2528, 49.7133],
     coordinates: { lat: 49.7133, lng: 6.2528 },
     description: {
@@ -285,11 +497,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul emițătoarelor de unde lungi ale RTL", "Găzduiește un liceu internațional modern", "Unul dintre cele mai mari situri fotovoltaice", "Situat în regiunea Müllerthal"],
       en: ["Host to the RTL long-wave transmitters", "Home to a modern international secondary school", "One of the largest sites for photovoltaics", "Located near the Müllerthal region"],
     },
-    imageHint: "Tall radio towers of Junglinster", image: "/poi-images/luxembourg-junglinster-cities-v2.webp"},
-  {
+imageHint: "Tall radio towers of Junglinster",
+    descriptionAdvanced: {
+      de: "Junglinster beherbergt die markanten Langwellensender von RTL. Die Gemeinde im Osten des Landes ist geprägt von weiten Feldern und Wäldern.",
+      hu: "Junglinster ad otthont az RTL jellegzetes hosszúhullámú adótornyainak. Az ország keleti részén fekvő települést tágas mezők és erdők jellemzik.",
+      ro: "Junglinster găzduiește emițătoarele distinctive de unde lungi ale RTL. Comuna din estul țării este marcată de câmpii întinse și păduri.",
+      en: "Junglinster is home to the iconic RTL long-wave transmitters. This eastern municipality is characterized by vast fields and forests.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 55,38 km²", "RTL-Sendeanlage (1933)", "Höhe: 334 Meter", "Lënster Lycée (Schule)"],
+      hu: ["Területe: 55,38 km²", "RTL adóállomás (1933)", "Magasság: 334 méter", "Lënster Lycée középiskola"],
+      ro: ["Suprafață: 55,38 km²", "Stația de emisie RTL (1933)", "Altitudine: 334 metri", "Liceul Lënster Lycée"],
+      en: ["Area: 55.38 sq km", "RTL transmitter site (1933)", "Elevation: 334 meters", "Lënster Lycée high school"],
+    },
+    image: "/poi-images/luxembourg-junglinster-cities-v2.webp",
+},  {
     id: "luxembourg-diekirch-cities-v2",
     type: "town",
-    name: { de: "Diekirch", hu: "Diekirch", ro: "Diekirch", en: "Diekirch" },
+    name: { de: "Diekirch", hu: "Diekirch", ro: "Diekirch", en: "Diekirch",
+image: "/poi-images/luxembourg-diekirch-cities-v2.webp"
+},
     coords: [6.1558, 49.8678],
     coordinates: { lat: 49.8678, lng: 6.1558 },
     description: {
@@ -304,11 +531,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul Muzeului Național de Istorie Militară", "Cunoscut pentru berea Diekirch", "Locația singurei cazărmi din țară", "Primul oraș cu o zonă pietonală"],
       en: ["Home to the National Museum of Military History", "Famous for Diekirch beer", "Site of the country's only military barracks", "First town to have a pedestrian zone"],
     },
-    imageHint: "Central square of Diekirch with the donkey fountain", image: "/poi-images/luxembourg-diekirch-cities-v2.webp"},
-  {
+imageHint: "Central square of Diekirch with the donkey fountain",
+    descriptionAdvanced: {
+      de: "Diekirch ist bekannt für seine Brauerei und das Maskottchen, den Esel. Die Stadt beherbergt ein bedeutendes Militärmuseum zur Ardennenoffensive.",
+      hu: "Diekirch híres sörfőzdéjéről és kabalaállatáról, a szamárról. A városban található egy fontos hadtörténeti múzeum az ardenneki offenzíváról.",
+      ro: "Diekirch este renumit pentru berăria sa și mascota orașului, măgarul. Orașul găzduiește un important muzeu militar dedicat Ofensivei din Ardeni.",
+      en: "Diekirch is famous for its brewery and its donkey mascot. The city hosts a significant military museum dedicated to the Battle of the Bulge.",
+    },
+    factsAdvanced: {
+      de: ["Brauerei Diekirch (1871)", "Nationales Militärmuseum", "Höhe: 195 Meter", "Historischer Esel-Brunnen"],
+      hu: ["Diekirch Sörfőzde (1871)", "Nemzeti Hadtörténeti Múzeum", "Magasság: 195 méter", "Történelmi szamár-kút"],
+      ro: ["Berăria Diekirch (1871)", "Muzeul Național de Istorie Militară", "Altitudine: 195 metri", "Fântâna istorică a măgarului"],
+      en: ["Diekirch Brewery (1871)", "National Museum of Military History", "Elevation: 195 meters", "Historic Donkey Fountain"],
+    },
+    image: "/poi-images/luxembourg-diekirch-cities-v2.webp",
+},  {
     id: "luxembourg-bascharage-cities-v2",
     type: "town",
-    name: { de: "Niederkerschen", hu: "Bascharage", ro: "Bascharage", en: "Bascharage" },
+    name: { de: "Niederkerschen", hu: "Bascharage", ro: "Bascharage", en: "Bascharage",
+image: "/poi-images/luxembourg-bascharage-cities-v2.webp"
+},
     coords: [5.9103, 49.5675],
     coordinates: { lat: 49.5675, lng: 5.9103 },
     description: {
@@ -323,11 +565,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Găzduiește fabrica de bere Bofferding", "Sit industrial important în sud-vest", "Situat aproape de granița cu Belgia", "Parte a comunei fuzionate Käerjeng"],
       en: ["Home to the Bofferding brewery", "Major industrial site in the southwest", "Located near the Belgian border", "Part of the merged municipality Käerjeng"],
     },
-    imageHint: "Bofferding brewery buildings in Bascharage", image: "/poi-images/luxembourg-bascharage-cities-v2.webp"},
-  {
+imageHint: "Bofferding brewery buildings in Bascharage",
+    descriptionAdvanced: {
+      de: "Niederkerschen ist der Hauptort der Gemeinde Käerjeng. Bekannt ist die Stadt vor allem für die Bofferding-Brauerei und ihre Industriezone.",
+      hu: "Bascharage Käerjeng község központja. A város leginkább a Bofferding sörfőzdéről és kiterjedt ipari övezetéről ismert.",
+      ro: "Bascharage este sediul principal al comunei Käerjeng. Orașul este cunoscut în special pentru berăria Bofferding și zona sa industrială.",
+      en: "Bascharage is the main town of the Käerjeng municipality. It is primarily known for the Bofferding brewery and its industrial zone.",
+    },
+    factsAdvanced: {
+      de: ["Brauerei Bofferding (1764)", "Höhe: 300 Meter", "Teil der Gemeinde Käerjeng", "Wichtige Industriezone"],
+      hu: ["Bofferding Sörfőzde (1764)", "Magasság: 300 méter", "Käerjeng község része", "Fontos ipari zóna"],
+      ro: ["Berăria Bofferding (1764)", "Altitudine: 300 metri", "Parte a comunei Käerjeng", "Zonă industrială importantă"],
+      en: ["Bofferding Brewery (1764)", "Elevation: 300 meters", "Part of Käerjeng municipality", "Major industrial zone"],
+    },
+    image: "/poi-images/luxembourg-bascharage-cities-v2.webp",
+},  {
     id: "luxembourg-kehlen-cities-v2",
     type: "town",
-    name: { de: "Kehlen", hu: "Kehlen", ro: "Kehlen", en: "Kehlen" },
+    name: { de: "Kehlen", hu: "Kehlen", ro: "Kehlen", en: "Kehlen",
+image: "/poi-images/luxembourg-kehlen-cities-v2.webp"
+},
     coords: [6.0333, 49.6667],
     coordinates: { lat: 49.6667, lng: 6.0333 },
     description: {
@@ -342,11 +599,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Situat pe un platou fertil", "Cunoscut pentru cultivarea cartofilor", "Deține o istorie galo-romană importantă", "Oferă vederi panoramice asupra împrejurimilor"],
       en: ["Situated on a fertile plateau", "Known for potato cultivation", "Has significant Gallo-Roman history", "Offers wide views over the countryside"],
     },
-    imageHint: "Aerial view of Kehlen on the plateau", image: "/poi-images/luxembourg-kehlen-cities-v2.webp"},
-  {
+imageHint: "Aerial view of Kehlen on the plateau",
+    descriptionAdvanced: {
+      de: "Kehlen ist eine ländliche Gemeinde nahe der Hauptstadt. Sie ist bekannt für ihre zahlreichen Schnapsbrennereien und die traditionelle Landwirtschaft.",
+      hu: "Kehlen egy vidéki közösség a főváros közelében. Számos pálinkafőzdéjéről és hagyományos mezőgazdaságáról ismert.",
+      ro: "Kehlen este o comună rurală situată lângă capitală. Este cunoscută pentru numeroasele sale distilerii de schnaps și agricultura tradițională.",
+      en: "Kehlen is a rural municipality near the capital. It is known for its numerous schnapps distilleries and traditional agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 28,1 km²", "Brennereimuseum", "Höhe: 340 Meter", "Ortsteil Olm mit Wohngebiet"],
+      hu: ["Területe: 28,1 km²", "Pálinkafőző múzeum", "Magasság: 340 méter", "Olm nevű lakónegyed"],
+      ro: ["Suprafață: 28,1 km²", "Muzeul distileriei", "Altitudine: 340 metri", "Districtul rezidențial Olm"],
+      en: ["Area: 28.1 sq km", "Distillery Museum", "Elevation: 340 meters", "Residential district of Olm"],
+    },
+    image: "/poi-images/luxembourg-kehlen-cities-v2.webp",
+},  {
     id: "luxembourg-wiltz-cities-v2",
     type: "town",
-    name: { de: "Wiltz", hu: "Wiltz", ro: "Wiltz", en: "Wiltz" },
+    name: { de: "Wiltz", hu: "Wiltz", ro: "Wiltz", en: "Wiltz",
+image: "/poi-images/luxembourg-wiltz-cities-v2.webp"
+},
     coords: [5.9322, 49.9664],
     coordinates: { lat: 49.9664, lng: 5.9322 },
     description: {
@@ -361,11 +633,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul unui castel cu muzeu", "Centru al mișcării internaționale de cercetași", "Faimos pentru Festivalul de la Wiltz", "Scena unor lupte grele în 1944"],
       en: ["Home to a castle with a museum", "Center of the international scouting movement", "Famous for the Wiltz Festival", "Scene of heavy fighting in 1944"],
     },
-    imageHint: "Wiltz Castle with its outdoor amphitheater", image: "/poi-images/luxembourg-wiltz-cities-v2.webp"},
-  {
+imageHint: "Wiltz Castle with its outdoor amphitheater",
+    descriptionAdvanced: {
+      de: "Wiltz ist die Hauptstadt der luxemburgischen Ardennen. Das Schloss Wiltz ist Schauplatz renommierter Musik- und Theaterfestivals.",
+      hu: "Wiltz a luxemburgi Ardennek fővárosa. A Wiltz-kastély neves zenei és színházi fesztiválok színhelye.",
+      ro: "Wiltz este capitala Ardenilor luxemburghezi. Castelul Wiltz găzduiește festivaluri de muzică și teatru de renume mondial.",
+      en: "Wiltz is the capital of the Luxembourgish Ardennes. Wiltz Castle serves as a venue for renowned music and theater festivals.",
+    },
+    factsAdvanced: {
+      de: ["Schloss Wiltz (1573)", "Nationales Braukunstmuseum", "Höhe: 320 Meter", "Wiltz-Festival seit 1953"],
+      hu: ["Wiltz-kastély (1573)", "Nemzeti Sörfőző Múzeum", "Magasság: 320 méter", "Wiltz-fesztivál 1953 óta"],
+      ro: ["Castelul Wiltz (1573)", "Muzeul Național al Berii", "Altitudine: 320 metri", "Festivalul Wiltz din 1953"],
+      en: ["Wiltz Castle (1573)", "National Brewery Museum", "Elevation: 320 meters", "Wiltz Festival since 1953"],
+    },
+    image: "/poi-images/luxembourg-wiltz-cities-v2.webp",
+},  {
     id: "luxembourg-echternach-cities-v2",
     type: "town",
-    name: { de: "Echternach", hu: "Echternach", ro: "Echternach", en: "Echternach" },
+    name: { de: "Echternach", hu: "Echternach", ro: "Echternach", en: "Echternach",
+image: "/poi-images/luxembourg-echternach-cities-v2.webp"
+},
     coords: [6.4217, 49.8131],
     coordinates: { lat: 49.8131, lng: 6.4217 },
     description: {
@@ -380,11 +667,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Marele Ducat", "Sediul procesiunii dansante incluse în UNESCO", "Găzduiește o basilică importantă", "Poarta către regiunea Müllerthal"],
       en: ["Oldest town in the Grand Duchy", "Home to the UNESCO-listed jumping procession", "Houses a significant basilica", "Gateway to the Müllerthal region"],
     },
-    imageHint: "Echternach Abbey and its gardens", image: "/poi-images/luxembourg-echternach-cities-v2.webp"},
-  {
+imageHint: "Echternach Abbey and its gardens",
+    descriptionAdvanced: {
+      de: "Echternach ist die älteste Stadt Luxemburgs. Sie ist weltberühmt für die Springprozession, die zum immateriellen UNESCO-Kulturerbe gehört.",
+      hu: "Echternach Luxemburg legrégebbi városa. Világszerte híres a szökdelő körmenetéről, amely az UNESCO szellemi örökségének része.",
+      ro: "Echternach este cel mai vechi oraș din Luxemburg. Este renumit în lume pentru procesiunea dansantă, inclusă în patrimoniul UNESCO.",
+      en: "Echternach is the oldest city in Luxembourg. It is world-famous for its hopping procession, part of the UNESCO Intangible Cultural Heritage.",
+    },
+    factsAdvanced: {
+      de: ["Abtei Echternach (698)", "UNESCO Springprozession", "Höhe: 162 Meter", "Echternacher See"],
+      hu: ["Echternachi apátság (698)", "UNESCO szökdelő körmenet", "Magasság: 162 méter", "Echternachi-tó"],
+      ro: ["Abația Echternach (698)", "Procesiunea UNESCO", "Altitudine: 162 metri", "Lacul Echternach"],
+      en: ["Echternach Abbey (698)", "UNESCO Hopping Procession", "Elevation: 162 meters", "Echternach Lake"],
+    },
+    image: "/poi-images/luxembourg-echternach-cities-v2.webp",
+},  {
     id: "luxembourg-mondercange-cities-v2",
     type: "town",
-    name: { de: "Monnerich", hu: "Mondercange", ro: "Mondercange", en: "Mondercange" },
+    name: { de: "Monnerich", hu: "Mondercange", ro: "Mondercange", en: "Mondercange",
+image: "/poi-images/luxembourg-mondercange-cities-v2.webp"
+},
     coords: [5.9897, 49.5317],
     coordinates: { lat: 49.5317, lng: 5.9897 },
     description: {
@@ -399,11 +701,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul federației luxemburgheze de fotbal", "Găzduiește o pistă de karting cunoscută", "Comună rezidențială modernă în sud", "Istoric marcat de agricultură"],
       en: ["Home of the Luxembourg Football Federation", "Host to a well-known karting track", "Modern residential community in the south", "Historically dominated by agriculture"],
     },
-    imageHint: "Modern church tower in Mondercange", image: "/poi-images/luxembourg-mondercange-cities-v2.webp"},
-  {
+imageHint: "Modern church tower in Mondercange",
+    descriptionAdvanced: {
+      de: "Monnerich ist eine wachsende Gemeinde im Süden. Bekannt ist der Ort für seine Kart-Rennbahn und die modernen Sportanlagen des Fußballverbands.",
+      hu: "Mondercange egy dinamikusan fejlődő község délen. Híres gokartpályájáról és a labdarúgó-szövetség modern sportlétesítményeiről.",
+      ro: "Mondercange este o comună în plină dezvoltare din sud. Localitatea este cunoscută pentru pista de karting și facilitățile sportive moderne.",
+      en: "Mondercange is a growing municipality in the south. It is known for its karting track and the football association's modern facilities.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 21,4 km²", "Karting-Strecke", "Höhe: 290 Meter", "Sitz des Fußballverbands (FLF)"],
+      hu: ["Területe: 21,4 km²", "Gokart versenypálya", "Magasság: 290 méter", "Labdarúgó-szövetség (FLF) székhelye"],
+      ro: ["Suprafață: 21,4 km²", "Pistă de karting", "Altitudine: 290 metri", "Sediul federației de fotbal (FLF)"],
+      en: ["Area: 21.4 sq km", "Karting race track", "Elevation: 290 meters", "Seat of the football association (FLF)"],
+    },
+    image: "/poi-images/luxembourg-mondercange-cities-v2.webp",
+},  {
     id: "luxembourg-roeser-cities-v2",
     type: "town",
-    name: { de: "Roeser", hu: "Roeser", ro: "Roeser", en: "Roeser" },
+    name: { de: "Roeser", hu: "Roeser", ro: "Roeser", en: "Roeser",
+image: "/poi-images/luxembourg-roeser-cities-v2.webp"
+},
     coords: [6.1456, 49.5394],
     coordinates: { lat: 49.5394, lng: 6.1456 },
     description: {
@@ -418,11 +735,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Situat în valea pârâului Roeser", "Cunoscut pentru Festivalul Ecvestru de la Roeser", "Deține rezervații naturale valoroase", "Loc de excursie popular pentru bicicliști"],
       en: ["Located in the valley of the Roeser stream", "Known for the Roeser Horse Festival", "Has valuable nature reserves", "Popular excursion spot for cyclists"],
     },
-    imageHint: "Rural landscape and fields near Roeser", image: "/poi-images/luxembourg-roeser-cities-v2.webp"},
-  {
+imageHint: "Rural landscape and fields near Roeser",
+    descriptionAdvanced: {
+      de: "Roeser liegt im Tal der Roeserbann und bewahrt seinen ländlichen Charakter trotz der Nähe zur Stadt Luxemburg und moderner Infrastruktur.",
+      hu: "Roeser a Roeserbann völgyében fekszik, és megőrizte vidéki jellegét a főváros közelsége és a modern infrastruktúra ellenére is.",
+      ro: "Roeser se află în valea Roeserbann și își păstrează caracterul rural, în ciuda proximității față de orașul Luxemburg.",
+      en: "Roeser is located in the Roeserbann valley and maintains its rural character despite its proximity to Luxembourg City.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 23,8 km²", "Crauthem Schlossruine", "Höhe: 270 Meter", "Mehrere Naturlehrpfade"],
+      hu: ["Területe: 23,8 km²", "Crauthemi kastélyromok", "Magasság: 270 méter", "Számos tanösvény"],
+      ro: ["Suprafață: 23,8 km²", "Ruinele castelului Crauthem", "Altitudine: 270 metri", "Mai multe trasee naturale"],
+      en: ["Area: 23.8 sq km", "Crauthem castle ruins", "Elevation: 270 meters", "Several nature trails"],
+    },
+    image: "/poi-images/luxembourg-roeser-cities-v2.webp",
+},  {
     id: "luxembourg-steinsel-cities-v2",
     type: "town",
-    name: { de: "Steinsel", hu: "Steinsel", ro: "Steinsel", en: "Steinsel" },
+    name: { de: "Steinsel", hu: "Steinsel", ro: "Steinsel", en: "Steinsel",
+image: "/poi-images/luxembourg-steinsel-cities-v2.webp"
+},
     coords: [6.1242, 49.6761],
     coordinates: { lat: 49.6761, lng: 6.1242 },
     description: {
@@ -437,11 +769,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Centrul cultivării căpșunilor în Luxemburg", "Deține o vilă romană în apropiere", "Situat pe versanții pădurii Bambësch", "Gazda unui festival anual al căpșunilor"],
       en: ["Center of Luxembourgish strawberry growing", "Features a Roman villa nearby", "Located on the slopes of the Bambësch forest", "Host of an annual strawberry festival"],
     },
-    imageHint: "Strawberry fields in the Alzette valley near Steinsel", image: "/poi-images/luxembourg-steinsel-cities-v2.webp"},
-  {
+imageHint: "Strawberry fields in the Alzette valley near Steinsel",
+    descriptionAdvanced: {
+      de: "Steinsel ist bekannt für seine Erdbeeren und die Obstgärten im Alzette-Tal. Die Gemeinde bietet eine harmonische Mischung aus Natur und Wohnkomfort.",
+      hu: "Steinsel híres epreiről és az Alzette völgyében elterülő gyümölcsöskertjeiről. A település a természet és a lakókomfort harmóniáját kínálja.",
+      ro: "Steinsel este renumit pentru căpșunile sale și livezile din valea Alzette. Comuna oferă un mix armonios între natură și confort rezidențial.",
+      en: "Steinsel is famous for its strawberries and orchards in the Alzette valley. The municipality offers a harmony of nature and residential comfort.",
+    },
+    factsAdvanced: {
+      de: ["Jährliches Erdbeerfest", "Fläche: 21,81 km²", "Höhe: 240 Meter", "Römische Villenreste"],
+      hu: ["Évenkénti eperfesztivál", "Területe: 21,81 km²", "Magasság: 240 méter", "Római villa maradványok"],
+      ro: ["Festival anual al căpșunilor", "Suprafață: 21,81 km²", "Altitudine: 240 metri", "Rămășițe de vile romane"],
+      en: ["Annual strawberry festival", "Area: 21.81 sq km", "Elevation: 240 meters", "Remains of Roman villas"],
+    },
+    image: "/poi-images/luxembourg-steinsel-cities-v2.webp",
+},  {
     id: "luxembourg-niederanven-cities-v2",
     type: "town",
-    name: { de: "Niederanven", hu: "Niederanven", ro: "Niederanven", en: "Niederanven" },
+    name: { de: "Niederanven", hu: "Niederanven", ro: "Niederanven", en: "Niederanven",
+image: "/poi-images/luxembourg-niederanven-cities-v2.webp"
+},
     coords: [6.2586, 49.6511],
     coordinates: { lat: 49.6511, lng: 6.2586 },
     description: {
@@ -456,11 +803,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locația aeroportului din Luxemburg", "Găzduiește centrul wellness Syrdall Schwemm", "Deține suprafețe mari de pădure (Grünewald)", "Sediul unor companii aeriene internaționale"],
       en: ["Site of the Luxembourg Airport", "Home to the Syrdall Schwemm wellness pool", "Features large forest areas (Grünewald)", "Host to international airlines"],
     },
-    imageHint: "The terminal of Luxembourg Airport in Findel", image: "/poi-images/luxembourg-niederanven-cities-v2.webp"},
-  {
+imageHint: "The terminal of Luxembourg Airport in Findel",
+    descriptionAdvanced: {
+      de: "Niederanven liegt in unmittelbarer Nähe zum Flughafen Findel. Die Gemeinde bietet mit dem Syrdall Schwemm ein modernes Erholungszentrum.",
+      hu: "Niederanven a Findel repülőtér közvetlen szomszédságában fekszik. A település a Syrdall Schwemm révén modern kikapcsolódási központot kínál.",
+      ro: "Niederanven este situat în imediata apropiere a aeroportului Findel. Comuna oferă un centru modern de recreere, Syrdall Schwemm.",
+      en: "Niederanven is located in the immediate vicinity of Findel Airport. The town features the modern Syrdall Schwemm recreation center.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 41,36 km²", "Syrdall Schwemm (Wellness)", "Höhe: 250 Meter", "Nahe Flughafen Findel"],
+      hu: ["Területe: 41,36 km²", "Syrdall Schwemm wellness", "Magasság: 250 méter", "Findel repülőtér mellett"],
+      ro: ["Suprafață: 41,36 km²", "Syrdall Schwemm (wellness)", "Altitudine: 250 metri", "Lângă Aeroportul Findel"],
+      en: ["Area: 41.36 sq km", "Syrdall Schwemm wellness", "Elevation: 250 meters", "Near Findel Airport"],
+    },
+    image: "/poi-images/luxembourg-niederanven-cities-v2.webp",
+},  {
     id: "luxembourg-rumelange-cities-v2",
     type: "town",
-    name: { de: "Rümelingen", hu: "Rumelange", ro: "Rumelange", en: "Rumelange" },
+    name: { de: "Rümelingen", hu: "Rumelange", ro: "Rumelange", en: "Rumelange",
+image: "/poi-images/luxembourg-rumelange-cities-v2.webp"
+},
     coords: [6.0311, 49.46],
     coordinates: { lat: 49.46, lng: 6.0311 },
     description: {
@@ -475,11 +837,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Cel mai sudic oraș al Marelui Ducat", "Sediul Muzeului Național al Minereului de Fier", "Semnificativ istoric pentru regiunea Minette", "Fost centru de extracție a minereului"],
       en: ["Southernmost town in the Grand Duchy", "Home to the National Iron Mining Museum", "Historically significant for the Minette region", "Former hub of ore extraction"],
     },
-    imageHint: "Mining cart outside the museum in Rumelange", image: "/poi-images/luxembourg-rumelange-cities-v2.webp"},
-  {
+imageHint: "Mining cart outside the museum in Rumelange",
+    descriptionAdvanced: {
+      de: "Rümelingen beherbergt das Nationale Bergbaumuseum. Besucher können in die unterirdischen Stollen einfahren und die Geschichte des Erzabbaus erleben.",
+      hu: "Rumelange ad otthont a Nemzeti Bányászati Múzeumnak. A látogatók leereszkedhetnek a föld alatti vágatokba, megismerve a vasércbányászat múltját.",
+      ro: "Rumelange găzduiește Muzeul Național al Mineritului. Vizitatorii pot intra în galeriile subterane pentru a descoperi istoria extracției de minereu.",
+      en: "Rumelange is home to the National Mining Museum. Visitors can take a ride into the underground shafts to experience the history of iron ore mining.",
+    },
+    factsAdvanced: {
+      de: ["Nationales Bergbaumuseum", "Stadtrechte seit 1907", "Höhe: 310 Meter", "Lage im Kayl-Tal"],
+      hu: ["Nemzeti Bányászati Múzeum", "1907-ben kapott városi rangot", "Magasság: 310 méter", "A Kayl-völgyben fekszik"],
+      ro: ["Muzeul Național al Mineritului", "Statut de oraș din 1907", "Altitudine: 310 metri", "Situat în valea Kayl"],
+      en: ["National Mining Museum", "City rights since 1907", "Elevation: 310 meters", "Located in the Kayl valley"],
+    },
+    image: "/poi-images/luxembourg-rumelange-cities-v2.webp",
+},  {
     id: "luxembourg-steinfort-cities-v2",
     type: "town",
-    name: { de: "Steinfort", hu: "Steinfort", ro: "Steinfort", en: "Steinfort" },
+    name: { de: "Steinfort", hu: "Steinfort", ro: "Steinfort", en: "Steinfort",
+image: "/poi-images/luxembourg-steinfort-cities-v2.webp"
+},
     coords: [5.9144, 49.6606],
     coordinates: { lat: 49.6606, lng: 5.9144 },
     description: {
@@ -494,11 +871,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Situat direct la granița cu Belgia", "Găzduiește un centru de protecție a naturii cunoscut", "Fostă locație a unor topitorii de fier importante", "Punct de plecare pentru trasee cicliste în valea Attert"],
       en: ["Directly on the border with Belgium", "Home to a well-known nature center", "Former site of important ironworks", "Starting point for cycling tours in the Attert valley"],
     },
-    imageHint: "Historic villa in Steinfort near the border", image: "/poi-images/luxembourg-steinfort-cities-v2.webp"},
-  {
+imageHint: "Historic villa in Steinfort near the border",
+    descriptionAdvanced: {
+      de: "Steinfort liegt an der Grenze zu Belgien und ist von ausgedehnten Wäldern umgeben. Die Gemeinde ist ein beliebtes Ziel für Natur- und Wanderfreunde.",
+      hu: "Steinfort a belga határ mentén fekszik, kiterjedt erdők veszik körül. A település kedvelt célpont a természet és a túrázás szerelmesei körében.",
+      ro: "Steinfort este situat la granița cu Belgia și este înconjurat de păduri vaste. Comuna este o destinație populară pentru iubitorii de natură.",
+      en: "Steinfort is located on the Belgian border and is surrounded by extensive forests. The town is a popular destination for nature and hiking enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 12,16 km²", "Steinfort Adventure Park", "Höhe: 313 Meter", "Ehemalige Eisenhütte"],
+      hu: ["Területe: 12,16 km²", "Steinfort Kalandpark", "Magasság: 313 méter", "Egykori vasmű"],
+      ro: ["Suprafață: 12,16 km²", "Parcul Steinfort Adventure", "Altitudine: 313 metri", "Fostă turnătorie de fier"],
+      en: ["Area: 12.16 sq km", "Steinfort Adventure Park", "Elevation: 313 meters", "Former ironworks site"],
+    },
+    image: "/poi-images/luxembourg-steinfort-cities-v2.webp",
+},  {
     id: "luxembourg-mondorf-les-bains-cities-v2",
     type: "town",
-    name: { de: "Bad Mondorf", hu: "Mondorf-les-Bains", ro: "Mondorf-les-Bains", en: "Mondorf-les-Bains" },
+    name: { de: "Bad Mondorf", hu: "Mondorf-les-Bains", ro: "Mondorf-les-Bains", en: "Mondorf-les-Bains",
+image: "/poi-images/luxembourg-mondorf-les-bains-cities-v2.webp"
+},
     coords: [6.2792, 49.505],
     coordinates: { lat: 49.505, lng: 6.2792 },
     description: {
@@ -513,11 +905,26 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Singura stațiune termală din Luxemburg", "Locația Casino 2000", "Deține un parc balnear mare", "Sediul Muzeului Aviației"],
       en: ["Only thermal spa resort in Luxembourg", "Location of Casino 2000", "Features a large spa park", "Home to the Aviation Museum"],
     },
-    imageHint: "Thermal baths building in Mondorf-les-Bains", image: "/poi-images/luxembourg-mondorf-les-bains-cities-v2.webp"},
-  {
+imageHint: "Thermal baths building in Mondorf-les-Bains",
+    descriptionAdvanced: {
+      de: "Bad Mondorf ist der einzige Kurort Luxemburgs und bekannt für seine Thermalbäder sowie das einzige Casino des Landes in einem weitläufigen Park.",
+      hu: "Mondorf-les-Bains Luxemburg egyetlen fürdővárosa, híres termálfürdőjéről és az ország egyetlen kaszinójáról, amely egy tágas parkban található.",
+      ro: "Mondorf-les-Bains este singura stațiune balneară din Luxemburg, renumită pentru băile termale și singurul cazino din țară, într-un parc vast.",
+      en: "Mondorf-les-Bains is Luxembourg's only spa town, famous for its thermal baths and the country's only casino, set within an expansive park.",
+    },
+    factsAdvanced: {
+      de: ["Thermaleinrichtung Mondorf", "Casino 2000", "Luftfahrtmuseum Fliegermusée", "Gegründet um 1847"],
+      hu: ["Mondorf termálfürdő", "Casino 2000", "Fliegermusée repülési múzeum", "1847 körül alapították"],
+      ro: ["Facilitatea termală Mondorf", "Casino 2000", "Muzeul Aviației Fliegermusée", "Fondat în jurul anului 1847"],
+      en: ["Mondorf Thermal Center", "Casino 2000", "Fliegermusée aviation museum", "Founded around 1847"],
+    },
+    image: "/poi-images/luxembourg-mondorf-les-bains-cities-v2.webp",
+},  {
     id: "luxembourg-grevenmacher-cities-v2",
     type: "town",
-    name: { de: "Grevenmacher", hu: "Grevenmacher", ro: "Grevenmacher", en: "Grevenmacher" },
+    name: { de: "Grevenmacher", hu: "Grevenmacher", ro: "Grevenmacher", en: "Grevenmacher",
+image: "/poi-images/luxembourg-grevenmacher-cities-v2.webp"
+},
     coords: [6.4414, 49.6806],
     coordinates: { lat: 49.6806, lng: 6.4414 },
     description: {
@@ -533,5 +940,17 @@ export const luxembourgCitiesV2: POI[] = [
       en: ["Center of the Luxembourgish wine region", "Home to the Butterfly Garden", "Important river port on the Moselle", "Host to large wine cellars"],
     },
     imageHint: "Vineyards overlooking Grevenmacher and the Moselle",
+    descriptionAdvanced: {
+      de: "Grevenmacher liegt an der Mosel und ist ein Zentrum des Weinbaus. Die Stadt ist bekannt für den Schmetterlingsgarten und die traditionellen Weinkeller.",
+      hu: "Grevenmacher a Mosel mentén fekszik, a bortermelés központja. A város híres lepkekertjéről és hagyományos borospincéiről.",
+      ro: "Grevenmacher este situat pe râul Moselle și este un centru al viticulturii. Orașul este cunoscut pentru grădina de fluturi și cramele tradiționale.",
+      en: "Grevenmacher is located on the Moselle river and is a center for viticulture. The city is famous for its Butterfly Garden and traditional wine cellars.",
+    },
+    factsAdvanced: {
+      de: ["Schmetterlingsgarten", "Bernard-Massard Weinkellerei", "Fläche: 16,48 km²", "Brücke über die Mosel"],
+      hu: ["Pillangókert", "Bernard-Massard borászat", "Területe: 16,48 km²", "Mosel-híd"],
+      ro: ["Grădina de fluturi", "Crama Bernard-Massard", "Suprafață: 16,48 km²", "Pod peste râul Moselle"],
+      en: ["Butterfly Garden", "Bernard-Massard winery", "Area: 16.48 sq km", "Bridge over the Moselle"],
+    },
   }
 ];

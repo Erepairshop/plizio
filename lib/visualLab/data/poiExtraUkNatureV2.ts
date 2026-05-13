@@ -4,7 +4,9 @@ export const ukNatureV2: POI[] = [
   {
     id: "uk-ben-nevis-nature-v2",
     type: "peak",
-    name: { de: "Ben Nevis", hu: "Ben Nevis", ro: "Ben Nevis", en: "Ben Nevis" },
+    name: { de: "Ben Nevis", hu: "Ben Nevis", ro: "Ben Nevis", en: "Ben Nevis",
+image: "/poi-images/uk-ben-nevis-nature-v2.webp"
+},
     coords: [-5.0036, 56.7969],
     coordinates: { lat: 56.7969, lng: -5.0036 },
     description: {
@@ -19,11 +21,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Înălțime maximă de 1345 metri", "Ruinele unui observator meteorologic din 1883", "Versantul nordic are stânci de 700 metri", "Peste 100.000 de ascensiuni în fiecare an"],
       en: ["Summit elevation of 1,345 meters", "Ruins of an observatory active 1883-1904", "North face features 700-meter cliffs", "Over 100,000 ascents recorded annually"],
     },
-    imageHint: "Ben Nevis mountain summit with snow patches", image: "/poi-images/uk-ben-nevis-nature-v2.webp"},
-  {
+imageHint: "Ben Nevis mountain summit with snow patches",
+    descriptionAdvanced: {
+      de: "Der Ben Nevis ist mit 1345 Metern der höchste Berg der Britischen Inseln. Er besteht aus vulkanischem Gestein und prägt die Grampian Mountains in den schottischen Highlands.",
+      hu: "A Ben Nevis a Brit-szigetek legmagasabb pontja, 1345 méteres csúcsával a Grampian-hegység és a skót felföld meghatározó, vulkáni eredetű andezitből álló tömbje.",
+      ro: "Ben Nevis este cel mai înalt vârf din Arhipelagul Britanic, având 1345 metri. Situat în Scoția, masivul este format din roci vulcanice vechi de peste 400 de milioane de ani.",
+      en: "Ben Nevis is the highest mountain in the British Isles, standing at 1,345 meters. Located in the Grampian Mountains, its summit is the collapsed caldera of an ancient volcano.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1345 Meter", "Lage: Fort William, Schottland", "Gestein: Devonischer Granit", "Jährliche Wanderer: ca. 125.000"],
+      hu: ["Magasság: 1345 méter", "Helyszín: Fort William közelében", "Kőzete: Devon kori granit", "Látogatók száma: évi 125 000 fő"],
+      ro: ["Înălțime: 1345 metri", "Localizare: Highlands, Scoția", "Vechime rocă: 400 milioane ani", "Prima ascensiune: James Robertson, 1771"],
+      en: ["Elevation: 1,345 meters", "Location: Fort William, Scotland", "Rock type: Devonian granite", "Annual hikers: approx. 125,000"],
+    },
+    image: "/poi-images/uk-ben-nevis-nature-v2.webp",
+},  {
     id: "uk-loch-ness-nature-v2",
     type: "lake",
-    name: { de: "Loch Ness", hu: "Loch Ness", ro: "Loch Ness", en: "Loch Ness" },
+    name: { de: "Loch Ness", hu: "Loch Ness", ro: "Loch Ness", en: "Loch Ness",
+image: "/poi-images/uk-loch-ness-nature-v2.webp"
+},
     coords: [-4.4244, 57.3229],
     coordinates: { lat: 57.3229, lng: -4.4244 },
     description: {
@@ -38,11 +55,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Adâncime maximă de 230 metri", "Conține 7,4 kilometri cubi de apă", "Face parte din Canalul Caledonian", "Lungime de aproximativ 36 kilometri"],
       en: ["Maximum depth of 230 meters", "Contains 7.4 cubic kilometers of water", "Part of the Caledonian Canal system", "Length of approximately 36 kilometers"],
     },
-    imageHint: "Loch Ness lake with Urquhart Castle ruins", image: "/poi-images/uk-loch-ness-nature-v2.webp"},
-  {
+imageHint: "Loch Ness lake with Urquhart Castle ruins",
+    descriptionAdvanced: {
+      de: "Loch Ness ist ein extrem tiefer Süßwassersee im Great Glen. Er enthält aufgrund seiner enormen Tiefe mehr Wasser als alle Seen in England und Wales zusammen.",
+      hu: "A Loch Ness egy hatalmas édesvízi tó a Great Glen-törésvonal mentén. Mélysége miatt több vizet tárol, mint Anglia és Wales összes tava együttesen.",
+      ro: "Loch Ness este cel mai voluminos lac de apă dulce din Marea Britanie. Situat în lungul faliei Great Glen, acesta atinge o adâncime maximă de 230 de metri.",
+      en: "Loch Ness is a large, deep freshwater loch in the Scottish Highlands. It contains more fresh water than all lakes in England and Wales combined due to its depth.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Tiefe: 230 Meter", "Länge: ca. 37 Kilometer", "Wasservolumen: 7,45 km³", "Lage: Great Glen Fault"],
+      hu: ["Legnagyobb mélység: 230 méter", "Hosszúság: 37 kilométer", "Víztömeg: 7,45 km³", "Elhelyezkedés: Great Glen-törés"],
+      ro: ["Adâncime maximă: 230 metri", "Lungime: 37 kilometri", "Volum apă: 7,45 km³", "Suprafață: 56,4 km²"],
+      en: ["Maximum depth: 230 meters", "Length: 37 kilometers", "Water volume: 7.45 km³", "Location: Great Glen Fault"],
+    },
+    image: "/poi-images/uk-loch-ness-nature-v2.webp",
+},  {
     id: "uk-giants-causeway-nature-v2",
     type: "landmark",
-    name: { de: "Giant's Causeway", hu: "Óriások útja", ro: "Giant's Causeway", en: "Giant's Causeway" },
+    name: { de: "Giant's Causeway", hu: "Óriások útja", ro: "Giant's Causeway", en: "Giant's Causeway",
+image: "/poi-images/uk-giants-causeway-nature-v2.webp"
+},
     coords: [-6.5116, 55.2408],
     coordinates: { lat: 55.2408, lng: -6.5116 },
     description: {
@@ -57,11 +89,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Sit Patrimoniu Mondial UNESCO din 1986", "Coloanele sunt predominant hexagonale", "Cele mai înalte coloane au 12 metri", "Situat pe coasta comitatului Antrim"],
       en: ["UNESCO World Heritage site since 1986", "Columns are mostly hexagonal in shape", "Tallest columns reach 12 meters height", "Located on the coast of County Antrim"],
     },
-    imageHint: "Giant's Causeway hexagonal basalt columns by the sea", image: "/poi-images/uk-giants-causeway-nature-v2.webp"},
-  {
+imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
+    descriptionAdvanced: {
+      de: "Der Giant's Causeway besteht aus etwa 40.000 Basaltsäulen, die durch schnelle Abkühlung vulkanischer Lava vor etwa 50 bis 60 Millionen Jahren entstanden sind.",
+      hu: "Az Óriások útja mintegy 40 000 bazaltoszlopból álló terület Észak-Írországban, amely egy 50-60 millió évvel ezelőtti vulkáni kitörés során alakult ki.",
+      ro: "Giant's Causeway cuprinde circa 40.000 de coloane de bazalt interconectate. S-au format acum 50-60 milioane de ani prin răcirea rapidă a lavei vulcanice.",
+      en: "Giant's Causeway features 40,000 interlocking basalt columns created by a volcanic eruption 50-60 million years ago. It is a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Säulen: ca. 40.000", "Alter: 50-60 Millionen Jahre", "UNESCO-Welterbe seit 1986", "Ort: County Antrim"],
+      hu: ["Oszlopok száma: kb. 40 000", "Kora: 50-60 millió év", "UNESCO Világörökség: 1986 óta", "Helyszín: Antrim megye"],
+      ro: ["Număr coloane: cca. 40.000", "Vechime: 50-60 milioane ani", "Statut: Patrimoniu UNESCO (1986)", "Tip rocă: Bazalt"],
+      en: ["Column count: approx. 40,000", "Age: 50-60 million years", "UNESCO site since: 1986", "Location: County Antrim"],
+    },
+    image: "/poi-images/uk-giants-causeway-nature-v2.webp",
+},  {
     id: "uk-snowdon-nature-v2",
     type: "peak",
-    name: { de: "Snowdon", hu: "Snowdon", ro: "Snowdon", en: "Snowdon" },
+    name: { de: "Snowdon", hu: "Snowdon", ro: "Snowdon", en: "Snowdon",
+image: "/poi-images/uk-snowdon-nature-v2.webp"
+},
     coords: [-4.0763, 53.0685],
     coordinates: { lat: 53.0685, lng: -4.0763 },
     description: {
@@ -76,11 +123,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Înălțime maximă de 1085 metri", "Cale ferată cu cremalieră din 1896", "Compus în principal din rocă riolit", "Centrul primului parc național din Țara Galilor"],
       en: ["Summit elevation of 1,085 meters", "Mountain railway operates since 1896", "Formed primarily from rhyolite rock", "Heart of Wales' first National Park"],
     },
-    imageHint: "Snowdon mountain summit and Snowdonia ridges", image: "/poi-images/uk-snowdon-nature-v2.webp"},
-  {
+imageHint: "Snowdon mountain summit and Snowdonia ridges",
+    descriptionAdvanced: {
+      de: "Snowdon, oder Yr Wyddfa, ist mit 1085 Metern der höchste Berg in Wales. Das Massiv wurde durch eiszeitliche Gletscher geformt und bietet eine alpine Flora.",
+      hu: "A Snowdon (walesiül Yr Wyddfa) Wales legmagasabb hegycsúcsa. Az 1085 méteres hegyet jégkorszaki gleccserek formálták, flórája ritka alpesi fajokat rejt.",
+      ro: "Snowdon (Yr Wyddfa) este cel mai înalt vârf din Țara Galilor, atingând 1085 metri. Masivul a fost modelat de eroziunea glaciară în timpul pleistocenului.",
+      en: "Snowdon, or Yr Wyddfa, is the highest mountain in Wales at 1,085 meters. Its rugged landscape was carved by glaciers during the last Ice Age.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1085 Meter", "Eröffnung Zahnradbahn: 1896", "Nationalpark: Snowdonia", "Anzahl Wanderwege: 6 Hauptrouten"],
+      hu: ["Magasság: 1085 méter", "Vasút nyitása: 1896", "Nemzeti park: Snowdonia", "Walesi név: Yr Wyddfa"],
+      ro: ["Înălțime: 1085 metri", "Calea ferată: deschisă în 1896", "Parc Național: Snowdonia", "Rute principale: 6 trasee"],
+      en: ["Elevation: 1,085 meters", "Railway opened: 1896", "National Park: Snowdonia", "Welsh name: Yr Wyddfa"],
+    },
+    image: "/poi-images/uk-snowdon-nature-v2.webp",
+},  {
     id: "uk-river-thames-nature-v2",
     type: "river",
-    name: { de: "Themse", hu: "Temze", ro: "Tamisa", en: "River Thames" },
+    name: { de: "Themse", hu: "Temze", ro: "Tamisa", en: "River Thames",
+image: "/poi-images/uk-river-thames-nature-v2.webp"
+},
     coords: [-1.2561, 51.6842],
     coordinates: { lat: 51.6842, lng: -1.2561 },
     description: {
@@ -95,11 +157,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Lungime totală de 346 kilometri", "Dispune de 45 de ecluze pe cursul principal", "Fluviu cu maree în aval de Teddington", "Traversează Oxford, Windsor și Londra"],
       en: ["Total length of 346 kilometers", "Features 45 locks on the non-tidal reach", "Tidal river downstream of Teddington", "Flows through Oxford, Windsor, and London"],
     },
-    imageHint: "River Thames flowing through green English countryside", image: "/poi-images/uk-river-thames-nature-v2.webp"},
-  {
+imageHint: "River Thames flowing through green English countryside",
+    descriptionAdvanced: {
+      de: "Die Themse ist mit 346 Kilometern der längste Fluss Englands. Er ist bis Teddington gezeitenabhängig und entwässert weite Teile Südostenglands.",
+      hu: "A Temze Anglia leghosszabb folyója, teljes hossza 346 kilométer. Árapály-folyó egészen a Teddington-zsilipig, fontos közlekedési és ökológiai folyosó.",
+      ro: "Tamisa este cel mai lung râu din Anglia, având 346 kilometri. Este un râu cu maree până la Teddington și traversează centrul Londrei.",
+      en: "The River Thames is the longest river in England, stretching 346 kilometers. It is tidal up to Teddington Lock and supports over 125 species of fish.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 346 Kilometer", "Brücken in London: über 30", "Einzugsgebiet: 12.935 km²", "Quellort: Thames Head"],
+      hu: ["Hossz: 346 kilométer", "Londoni hidak száma: több mint 30", "Vízgyűjtő terület: 12 935 km²", "Forrás: Thames Head"],
+      ro: ["Lungime: 346 kilometri", "Bazine hidrografice: 12.935 km²", "Poduri în Londra: peste 30", "Sursa: Thames Head"],
+      en: ["Length: 346 kilometers", "Bridges in London: over 30", "Basin area: 12,935 km²", "Source: Thames Head"],
+    },
+    image: "/poi-images/uk-river-thames-nature-v2.webp",
+},  {
     id: "uk-the-needles-nature-v2",
     type: "landmark",
-    name: { de: "The Needles", hu: "The Needles", ro: "The Needles", en: "The Needles" },
+    name: { de: "The Needles", hu: "The Needles", ro: "The Needles", en: "The Needles",
+image: "/poi-images/uk-the-needles-nature-v2.webp"
+},
     coords: [-1.5898, 50.6657],
     coordinates: { lat: 50.6657, lng: -1.5898 },
     description: {
@@ -114,11 +191,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Formate din rocă pură de cretă", "Farul actual a fost construit în 1859", "A patra stâncă s-a prăbușit în 1764", "Simbol emblematic al Insulei Wight"],
       en: ["Composed of pure chalk rock", "Lighthouse built in 1859", "A fourth stack collapsed in 1764", "Iconic landmark of the Isle of Wight"],
     },
-    imageHint: "The Needles chalk stacks and lighthouse Isle of Wight", image: "/poi-images/uk-the-needles-nature-v2.webp"},
-  {
+imageHint: "The Needles chalk stacks and lighthouse Isle of Wight",
+    descriptionAdvanced: {
+      de: "The Needles sind drei markante Kreidefelsen vor der Westspitze der Isle of Wight. Sie sind Reste einer Kreideformation, die einst bis zum Festland reichte.",
+      hu: "A Needles három látványos kréta-sziklaoszlop az Isle of Wight nyugati csücskénél. Egy korábbi összefüggő kréta-vonulat erózió által meghagyott maradványai.",
+      ro: "The Needles sunt trei coloane de cretă albă situate în largul Insulei Wight. Reprezintă vestigiile unei formațiuni ce lega insula de coasta Angliei.",
+      en: "The Needles are three distinctive chalk stacks rising from the sea off the Isle of Wight. They are remnants of a ridge that once linked to the mainland.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Isle of Wight", "Leuchtturm Baujahr: 1859", "Gestein: Kreide", "Anzahl der Felsnadeln: 3"],
+      hu: ["Helyszín: Isle of Wight", "Világítótorony: 1859", "Kőzet: kréta", "Oszlopok száma: 3"],
+      ro: ["Locație: Insula Wight", "Far construit în: 1859", "Tip rocă: Cretă", "Număr stânci: 3"],
+      en: ["Location: Isle of Wight", "Lighthouse built: 1859", "Rock type: Chalk", "Number of stacks: 3"],
+    },
+    image: "/poi-images/uk-the-needles-nature-v2.webp",
+},  {
     id: "uk-lake-windermere-nature-v2",
     type: "lake",
-    name: { de: "Windermere", hu: "Windermere-tó", ro: "Windermere", en: "Lake Windermere" },
+    name: { de: "Windermere", hu: "Windermere-tó", ro: "Windermere", en: "Lake Windermere",
+image: "/poi-images/uk-lake-windermere-nature-v2.webp"
+},
     coords: [-2.9377, 54.3642],
     coordinates: { lat: 54.3642, lng: -2.9377 },
     description: {
@@ -133,11 +225,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Lungime de peste 18 kilometri", "Adâncime maximă de 67 metri", "Găzduiește 18 insule diferite", "Un feribot auto face legătura între maluri"],
       en: ["Length of over 18 kilometers", "Maximum depth of 67 meters", "Contains 18 separate islands", "Car ferry operates across its center"],
     },
-    imageHint: "Windermere lake in the Lake District with mountains", image: "/poi-images/uk-lake-windermere-nature-v2.webp"},
-  {
+imageHint: "Windermere lake in the Lake District with mountains",
+    descriptionAdvanced: {
+      de: "Der Windermere ist der größte natürliche See Englands. Er entstand am Ende der letzten Eiszeit vor ca. 11.000 Jahren in einem tiefen Gletschertal.",
+      hu: "A Windermere-tó Anglia legnagyobb természetes tava. A Lake District szívében található gleccservölgyi tó a legutóbbi jégkorszak végén alakult ki.",
+      ro: "Lacul Windermere este cel mai mare lac natural din Anglia. S-a format acum aproximativ 11.000 de ani, ocupând o vale sculptată de ghețari.",
+      en: "Lake Windermere is the largest natural lake in England. Located in the Lake District, it was formed in a glacial trough after the last ice age.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 14,8 km²", "Maximale Tiefe: 67 Meter", "Länge: 18 Kilometer", "Inseln im See: 18"],
+      hu: ["Terület: 14,8 km²", "Max. mélység: 67 méter", "Hossz: 18 kilométer", "Szigetek száma: 18"],
+      ro: ["Suprafață: 14,8 km²", "Adâncime maximă: 67 metri", "Lungime: 18 kilometri", "Număr insule: 18"],
+      en: ["Area: 14.8 km²", "Maximum depth: 67 meters", "Length: 18 kilometers", "Islands: 18"],
+    },
+    image: "/poi-images/uk-lake-windermere-nature-v2.webp",
+},  {
     id: "uk-sherwood-forest-nature-v2",
     type: "forest",
-    name: { de: "Sherwood Forest", hu: "Sherwoodi erdő", ro: "Pădurea Sherwood", en: "Sherwood Forest" },
+    name: { de: "Sherwood Forest", hu: "Sherwoodi erdő", ro: "Pădurea Sherwood", en: "Sherwood Forest",
+image: "/poi-images/uk-sherwood-forest-nature-v2.webp"
+},
     coords: [-1.0664, 53.2045],
     coordinates: { lat: 53.2045, lng: -1.0664 },
     description: {
@@ -152,11 +259,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Găzduiește stejarul Major Oak de 800 ani", "Rezervație naturală națională din 2002", "Fost domeniu de vânătoare al regilor englezi", "Suprafață de aproximativ 423 hectare"],
       en: ["Home to the 800-year-old Major Oak", "National Nature Reserve since 2002", "Former hunting grounds for English kings", "Area of approximately 423 hectares"],
     },
-    imageHint: "Ancient Major Oak tree in Sherwood Forest", image: "/poi-images/uk-sherwood-forest-nature-v2.webp"},
-  {
+imageHint: "Ancient Major Oak tree in Sherwood Forest",
+    descriptionAdvanced: {
+      de: "Sherwood Forest ist ein königlicher Forst in Nottinghamshire. Er ist berühmt für seine uralten Eichen, darunter die Major Oak, die etwa 800 bis 1000 Jahre alt ist.",
+      hu: "A Sherwoodi erdő Nottinghamshire híres királyi erdősége. Itt található a Major Oak, egy 800-1000 éves tölgyfa, mely a Robin Hood-legenda központi helyszíne.",
+      ro: "Pădurea Sherwood este un fost domeniu regal de vânătoare din Nottinghamshire. Adăpostește Major Oak, un stejar secular cu vârsta de peste 800 de ani.",
+      en: "Sherwood Forest is a royal forest in Nottinghamshire, famous for its ancient oaks. The Major Oak, its centerpiece, is estimated to be 800-1,000 years old.",
+    },
+    factsAdvanced: {
+      de: ["Alter Major Oak: 800-1000 Jahre", "Heutige Fläche: 423 Hektar", "Baumart: Stieleiche", "Lage: Nottinghamshire"],
+      hu: ["Major Oak kora: 800-1000 év", "Jelenlegi terület: 423 hektár", "Fafajta: kocsányos tölgy", "Megye: Nottinghamshire"],
+      ro: ["Vârstă Major Oak: 800-1000 ani", "Suprafață: 423 hectare", "Specie dominantă: Stejar", "Locație: Nottinghamshire"],
+      en: ["Major Oak age: 800-1,000 years", "Current area: 423 hectares", "Tree species: English oak", "Location: Nottinghamshire"],
+    },
+    image: "/poi-images/uk-sherwood-forest-nature-v2.webp",
+},  {
     id: "uk-cheddar-gorge-nature-v2",
     type: "valley",
-    name: { de: "Cheddar Gorge", hu: "Cheddar-szurdok", ro: "Cheile Cheddar", en: "Cheddar Gorge" },
+    name: { de: "Cheddar Gorge", hu: "Cheddar-szurdok", ro: "Cheile Cheddar", en: "Cheddar Gorge",
+image: "/poi-images/uk-cheddar-gorge-nature-v2.webp"
+},
     coords: [-2.7601, 51.2855],
     coordinates: { lat: 51.2855, lng: -2.7601 },
     description: {
@@ -171,11 +293,26 @@ export const ukNatureV2: POI[] = [
       ro: ["Adâncime maximă de 137 metri", "Locul unde a fost găsit Omul de Cheddar", "Găzduiește peșteri spectaculoase", "Habitat important pentru șoimii călători"],
       en: ["Maximum depth of 137 meters", "Site where 9,000-year-old Cheddar Man was found", "Contains extensive limestone show caves", "Important habitat for peregrine falcons"],
     },
-    imageHint: "Cheddar Gorge limestone cliffs and winding road", image: "/poi-images/uk-cheddar-gorge-nature-v2.webp"},
-  {
+imageHint: "Cheddar Gorge limestone cliffs and winding road",
+    descriptionAdvanced: {
+      de: "Die Cheddar Gorge ist die größte Kalkstenschlucht Großbritanniens. Sie beherbergt Höhlensysteme, in denen 1903 das älteste vollständige Skelett Englands gefunden wurde.",
+      hu: "A Cheddar-szurdok Nagy-Britannia legnagyobb mészkőhasadéka. Barlangrendszereiben találták meg 1903-ban a legrégebbi ép brit emberi csontvázat.",
+      ro: "Defileul Cheddar este cel mai mare canion de calcar din Marea Britanie. În peșterile sale a fost descoperit în 1903 Omul de Cheddar, vechi de 9000 ani.",
+      en: "Cheddar Gorge is Britain's largest limestone gorge. Its caves are famous for the 1903 discovery of 'Cheddar Man', England's oldest complete skeleton.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Tiefe: 137 Meter", "Entdeckung Cheddar Man: 1903", "Länge: ca. 4 Kilometer", "Gebirge: Mendip Hills"],
+      hu: ["Max. mélység: 137 méter", "Cheddari ember lelete: 1903", "Hossz: 4 kilométer", "Hegység: Mendip Hills"],
+      ro: ["Adâncime maximă: 137 metri", "Vârstă Cheddar Man: 9000 ani", "Lungime: 4 kilometri", "Munți: Mendip Hills"],
+      en: ["Maximum depth: 137 meters", "Cheddar Man discovery: 1903", "Length: 4 kilometers", "Range: Mendip Hills"],
+    },
+    image: "/poi-images/uk-cheddar-gorge-nature-v2.webp",
+},  {
     id: "uk-seven-sisters-nature-v2",
     type: "landmark",
-    name: { de: "Seven Sisters", hu: "Seven Sisters", ro: "Seven Sisters", en: "Seven Sisters" },
+    name: { de: "Seven Sisters", hu: "Seven Sisters", ro: "Seven Sisters", en: "Seven Sisters",
+image: "/poi-images/uk-seven-sisters-nature-v2.webp"
+},
     coords: [0.1472, 50.7516],
     coordinates: { lat: 50.7516, lng: 0.1472 },
     description: {
@@ -190,12 +327,27 @@ export const ukNatureV2: POI[] = [
       ro: ["Formate din sedimente marine", "Parte a Parcului Național South Downs", "Falezele se erodează cu 60 cm pe an", "Cel mai înalt punct are 150 metri"],
       en: ["Formed from marine sediment deposits", "Part of the South Downs National Park", "Cliffs erode by about 60 cm annually", "Highest point reaches 150 meters height"],
     },
-    imageHint: "Seven Sisters white chalk cliffs East Sussex", image: "/poi-images/uk-seven-sisters-nature-v2.webp"}
-,
+imageHint: "Seven Sisters white chalk cliffs East Sussex",
+    descriptionAdvanced: {
+      de: "Die Seven Sisters sind eine Reihe markanter Kreidefelsen in Sussex. Im Gegensatz zu Dover bleiben sie durch natürliche Erosion strahlend weiß.",
+      hu: "A Hét Nővér látványos kréta-sziklasor Sussex partjainál. A folyamatos erózió miatt falaik vakítóan fehérek, mentesek a mesterséges védelemtől.",
+      ro: "Seven Sisters sunt o serie de faleze de cretă din East Sussex. Spre deosebire de Dover, acestea își păstrează albul strălucitor datorită eroziunii naturale.",
+      en: "The Seven Sisters are a series of chalk cliffs in East Sussex. They remain bright white because natural erosion prevents the growth of vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Hügel: 7", "Erosionsrate: 30-40 cm/Jahr", "Nationalpark: South Downs", "Höchster Punkt: 77 Meter"],
+      hu: ["Sziklák száma: 7", "Erózió mértéke: 30-40 cm/év", "Nemzeti park: South Downs", "Legmagasabb pont: 77 méter"],
+      ro: ["Număr faleze: 7", "Rata de eroziune: 30-40 cm/an", "Parc Național: South Downs", "Înălțime maximă: 77 metri"],
+      en: ["Number of cliffs: 7", "Erosion rate: 30-40 cm/year", "National Park: South Downs", "Highest peak: 77 meters"],
+    },
+    image: "/poi-images/uk-seven-sisters-nature-v2.webp",
+},
   {
     id: "uk-white-cliffs-of-dover-nature-v2",
     type: "landmark",
-    name: { de: "White Cliffs of Dover", hu: "Doveri fehér sziklák", ro: "Stâncile Albe din Dover", en: "White Cliffs of Dover" },
+    name: { de: "White Cliffs of Dover", hu: "Doveri fehér sziklák", ro: "Stâncile Albe din Dover", en: "White Cliffs of Dover",
+image: "/poi-images/uk-white-cliffs-of-dover-nature-v2.webp"
+},
     coords: [1.352, 51.132],
     coordinates: { lat: 51.132, lng: 1.352 },
     description: {
@@ -211,11 +363,25 @@ export const ukNatureV2: POI[] = [
       en: ["Reach a height of up to 110 meters.", "Formed from deposits of algae remains.", "Important symbol of British defense.", "Home to rare plants like the early spider orchid."],
     },
     imageHint: "White Cliffs of Dover from the sea",
+    descriptionAdvanced: {
+      de: "Die weißen Klippen von Dover bestehen aus Kalkstein der Oberkreide. Sie erreichen eine Höhe von bis zu 110 Metern und blicken über die Straße von Dover.",
+      hu: "Dover fehér sziklái a felső kréta korból származó puha mészkőből állnak. A 110 méter magas falak a Doveri-szoros legkeskenyebb pontjánál emelkednek.",
+      ro: "Stâncile albe de la Dover sunt formate din cretă depusă în perioada cretacicului târziu. Ating înălțimi de 110 metri deasupra Strâmtorii Dover.",
+      en: "The White Cliffs of Dover are composed of Late Cretaceous chalk. Rising up to 110 meters, they face France across the narrowest part of the English Channel.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe: 110 Meter", "Breite der Meerenge: 33 km", "Gestein: Coccolithen-Kalk", "Status: National Trust Land"],
+      hu: ["Maximális magasság: 110 méter", "Szoros szélessége: 33 km", "Kőzet: kokkolit mészkő", "Kezelő: National Trust"],
+      ro: ["Înălțime maximă: 110 metri", "Lățime strâmtoare: 33 km", "Compoziție: Cretă", "Proprietar: National Trust"],
+      en: ["Maximum height: 110 meters", "Strait width: 33 km", "Rock type: Coccolith chalk", "Manager: National Trust"],
+    },
   },
   {
     id: "uk-windermere-nature-v2",
     type: "lake",
-    name: { de: "Windermere", hu: "Windermere", ro: "Windermere", en: "Windermere" },
+    name: { de: "Windermere", hu: "Windermere", ro: "Windermere", en: "Windermere",
+image: "/poi-images/uk-windermere-nature-v2.webp"
+},
     coords: [-2.936, 54.364],
     coordinates: { lat: 54.364, lng: -2.936 },
     description: {
@@ -230,12 +396,27 @@ export const ukNatureV2: POI[] = [
       ro: ["Are 18 kilometri lungime și 67 metri adâncime.", "Conține un total de 18 insule.", "Centru popular pentru navigație și sporturi nautice.", "Face parte din situl UNESCO Lake District."],
       en: ["Is 18 kilometers long and up to 67 meters deep.", "Contains a total of 18 islands.", "Popular center for sailing and water sports.", "Part of the Lake District UNESCO World Heritage site."],
     },
-    imageHint: "Lake Windermere with sailboats and green hills", image: "/poi-images/uk-windermere-nature-v2.webp"}
-,
+imageHint: "Lake Windermere with sailboats and green hills",
+    descriptionAdvanced: {
+      de: "Windermere ist das größte stehende Gewässer im Lake District Nationalpark. Er dient als wichtiges Ökosystem und Rückzugsgebiet für zahlreiche Vogelarten.",
+      hu: "A Windermere a Lake District Nemzeti Park legnagyobb állóvize. Fontos ökoszisztéma, amely számos vízimadárfajnak nyújt fészkelőhelyet és táplálékot.",
+      ro: "Windermere este cea mai mare întindere de apă din Parcul Național Lake District. Lacul este un ecosistem vital pentru numeroase specii de păsări acvatice.",
+      en: "Windermere is the largest standing body of water in the Lake District National Park. It serves as a vital ecosystem for many species of waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Volumen: 314,5 Millionen m³", "Wassertemperatur: ca. 15°C (Sommer)", "Gletscherformung: Vor 11.000 Jahren", "Anzahl Bootshäuser: über 100"],
+      hu: ["Víztömeg: 314,5 millió m³", "Vízhőmérséklet: kb. 15°C (nyáron)", "Kialakulás: 11 000 éve", "Csónakházak száma: >100"],
+      ro: ["Volum apă: 314,5 milioane m³", "Temp. apă: cca. 15°C (vara)", "Origine: Glaciară", "Localizare: Cumbria"],
+      en: ["Volume: 314.5 million m³", "Water temp: approx. 15°C (summer)", "Formation: 11,000 years ago", "Boathouse count: over 100"],
+    },
+    image: "/poi-images/uk-windermere-nature-v2.webp",
+},
   {
     id: "uk-scafell-pike-nature-v2",
     type: "peak",
-    name: { de: "Scafell Pike", hu: "Scafell Pike", ro: "Scafell Pike", en: "Scafell Pike" },
+    name: { de: "Scafell Pike", hu: "Scafell Pike", ro: "Scafell Pike", en: "Scafell Pike",
+image: "/poi-images/uk-scafell-pike-nature-v2.webp"
+},
     coords: [-3.2116, 54.4542],
     coordinates: { lat: 54.4542, lng: -3.2116 },
     description: {
@@ -251,11 +432,25 @@ export const ukNatureV2: POI[] = [
       en: ["Highest peak in England", "Part of the National Three Peaks Challenge", "Composed of volcanic rock", "Owned by the National Trust"],
     },
     imageHint: "Rocky summit of Scafell Pike in the Lake District",
+    descriptionAdvanced: {
+      de: "Scafell Pike ist mit 978 Metern der höchste Berg Englands. Er besteht aus Borrowdale-Vulkanit, einem extrem harten Gestein aus dem Ordovizium.",
+      hu: "A Scafell Pike Anglia legmagasabb pontja, 978 méterrel a tengerszint felett. Kőzete ordovícium kori vulkáni kőzet, az úgynevezett Borrowdale Volcanics.",
+      ro: "Scafell Pike este cel mai înalt vârf din Anglia, având 978 metri. Este format din roci vulcanice dure din perioada ordovicianului inferior.",
+      en: "Scafell Pike is the highest mountain in England, standing at 978 meters. It is composed of tough igneous rock known as the Borrowdale Volcanics.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 978 Meter", "Gestein: Vulkanisches Gestein", "Region: Lake District", "Besitzer: National Trust (Schenkung 1919)"],
+      hu: ["Magasság: 978 méter", "Kőzet: vulkáni eredetű", "Régió: Lake District", "Tulajdonos: National Trust (1919 óta)"],
+      ro: ["Înălțime: 978 metri", "Tip rocă: Ignee (Vulcanică)", "Parc Național: Lake District", "Donat în: 1918 de Lord Leconfield"],
+      en: ["Elevation: 978 meters", "Rock type: Volcanic (Igneous)", "Region: Lake District", "Owner: National Trust (since 1919)"],
+    },
   },
   {
     id: "uk-fingals-cave-nature-v2",
     type: "landmark",
-    name: { de: "Fingal's Cave", hu: "Fingal-barlang", ro: "Peștera lui Fingal", en: "Fingal's Cave" },
+    name: { de: "Fingal's Cave", hu: "Fingal-barlang", ro: "Peștera lui Fingal", en: "Fingal's Cave",
+image: "/poi-images/uk-fingals-cave-nature-v2.webp"
+},
     coords: [-6.3426, 56.4343],
     coordinates: { lat: 56.4343, lng: -6.3426 },
     description: {
@@ -271,5 +466,17 @@ export const ukNatureV2: POI[] = [
       en: ["Composed of massive basalt columns", "Renowned for its natural acoustics", "Inspired Mendelssohn's Hebrides Overture", "Walls are shaped by volcanic cooling"],
     },
     imageHint: "Entrance to Fingal's Cave with basalt columns",
+    descriptionAdvanced: {
+      de: "Fingal's Cave ist eine berühmte Meereshöhle auf der Insel Staffa. Sie zeichnet sich durch hexagonale Basaltsäulen und ihre außergewöhnliche Akustik aus.",
+      hu: "A Fingal-barlang a Hebridák Staffa-szigetén található tengeri barlang. Hatszögletű bazaltoszlopai és különleges akusztikája tette világhírűvé.",
+      ro: "Peștera lui Fingal este o grotă marină pe insula Staffa. Este faimoasă pentru coloanele sale hexagonale de bazalt și pentru acustica sa naturală unică.",
+      en: "Fingal's Cave is a sea cave on the uninhabited island of Staffa. It is renowned for its hexagonal basalt columns and remarkable natural acoustics.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Insel Staffa", "Höhe Eingang: 20 Meter", "Inspiration: Mendelssohn (1830)", "Gestein: Säulenbasalt"],
+      hu: ["Helyszín: Staffa-sziget", "Bejárat magassága: 20 méter", "Zenei ihlet: Mendelssohn (1830)", "Kőzet: oszlopos bazalt"],
+      ro: ["Locație: Insula Staffa", "Înălțime intrare: 20 metri", "Inspirație: Mendelssohn (1830)", "Tip rocă: Bazalt columnar"],
+      en: ["Location: Island of Staffa", "Entrance height: 20 meters", "Musical inspiration: Mendelssohn (1830)", "Rock type: Columnar basalt"],
+    },
   }
 ];

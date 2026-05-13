@@ -4,7 +4,9 @@ export const croatiaReliefV2: POI[] = [
   {
     id: "croatia-biokovo-relief-v2",
     type: "mountain",
-    name: { de: "Biokovo", hu: "Biokovo-hegység", ro: "Munții Biokovo", en: "Biokovo" },
+    name: { de: "Biokovo", hu: "Biokovo-hegység", ro: "Munții Biokovo", en: "Biokovo",
+image: "/poi-images/croatia-biokovo-relief-v2.webp"
+},
     coords: [17.01, 43.33],
     coordinates: { lat: 43.33, lng: 17.01 },
     description: {
@@ -19,11 +21,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: 1762 m", "Parc natural din 1981", "Versant abrupt spre mare", "Platformă Skywalk"],
       en: ["Highest peak: 1762 m", "Nature park since 1981", "Steep coastal ascent", "Skywalk glass floor platform"],
     },
-    imageHint: "Biokovo mountain range above Makarska", image: "/poi-images/croatia-biokovo-relief-v2.webp"},
-  {
+imageHint: "Biokovo mountain range above Makarska",
+    descriptionAdvanced: {
+      de: "Dieses gewaltige Karstmassiv überragt die Makarska-Riviera und ist für seine steilen Kalksteinwände, tiefen Schluchten und den spektakulären Skywalk auf 1228 Metern bekannt.",
+      hu: "A Dalmácia felett tornyosodó mészkőhegység a horvát tengerpart második legmagasabb vonulata, amely meredek falaival és különleges karsztformáival 1981 óta természetvédelmi terület.",
+      ro: "Acest masiv carstic impunător domină Riviera Makarska, fiind renumit pentru pereții săi abrupți de calcar, dolinele adânci și faimoasa platformă de sticlă Skywalk de la 1228 metri.",
+      en: "Rising steeply above the Makarska Riviera, this massive karst mountain range is famous for its limestone cliffs, deep sinkholes, and the spectacular Skywalk at 1228 meters.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Sveti Jure (1762 m)", "Naturpark-Status seit 1981", "Enthält über 400 Höhlen und Abgründe", "Höchste Asphaltstraße Kroatiens führt hinauf"],
+      hu: ["Legmagasabb pontja a Sveti Jure (1762 m)", "1981-ben nyilvánították natúrparkká", "Több mint 400 barlang és zsomboly található itt", "Itt található Horvátország legmagasabb közútja"],
+      ro: ["Vârful suprem: Sveti Jure (1762 m)", "Statut de parc natural din anul 1981", "Adăpostește peste 400 de peșteri și avene", "Cea mai înaltă șosea asfaltată din Croația"],
+      en: ["Highest peak: Sveti Jure (1762 m)", "Nature Park status since 1981", "Contains over 400 caves and pits", "Home to the highest asphalt road in Croatia"],
+    },
+    image: "/poi-images/croatia-biokovo-relief-v2.webp",
+},  {
     id: "croatia-risnjak-relief-v2",
     type: "mountain",
-    name: { de: "Risnjak", hu: "Risnjak-hegység", ro: "Munții Risnjak", en: "Risnjak" },
+    name: { de: "Risnjak", hu: "Risnjak-hegység", ro: "Munții Risnjak", en: "Risnjak",
+image: "/poi-images/croatia-risnjak-relief-v2.webp"
+},
     coords: [14.63, 45.42],
     coordinates: { lat: 45.42, lng: 14.63 },
     description: {
@@ -38,11 +55,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: 1528 m", "Statut de parc național", "Numele vine de la râs (Ris)", "Fenomene carstice"],
       en: ["Highest peak: 1528 m", "National park status", "Named after the lynx (Ris)", "Karst geological features"],
     },
-    imageHint: "Veliki Risnjak mountain peak", image: "/poi-images/croatia-risnjak-relief-v2.webp"},
-  {
+imageHint: "Veliki Risnjak mountain peak",
+    descriptionAdvanced: {
+      de: "Das im Gorski Kotar gelegene Massiv bildet eine natürliche Barriere zwischen Küste und Binnenland und ist Kern eines Nationalparks mit reicher Flora und alpiner Fauna.",
+      hu: "A Gorski Kotar szívében fekvő hegység a tengerpart és a szárazföld közötti természetes határ, 1953 óta nemzeti park, amely nevét a területén élő hiúzokról (ris) kapta.",
+      ro: "Situat în Gorski Kotar, acest masiv reprezintă o barieră naturală între coastă și interior, fiind nucleul unui parc național cu floră bogată și faună montană diversă.",
+      en: "Located in Gorski Kotar, this massif forms a natural barrier between the coast and the interior, serving as the core of a national park rich in flora and alpine fauna.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Veliki Risnjak (1528 m)", "Nationalpark seit September 1953", "Lebensraum von Luchs, Wolf und Bär", "Quelle des Flusses Kupa liegt am Fuße"],
+      hu: ["Legmagasabb csúcsa a Veliki Risnjak (1528 m)", "1953 szeptembere óta nemzeti park", "Hiúzok, farkasok és medvék élőhelye", "A Kupa folyó forrása a hegység lábánál van"],
+      ro: ["Punctul maxim: Veliki Risnjak (1528 m)", "Parc național din septembrie 1953", "Habitat pentru râși, lupi și urși", "Izvorul râului Kupa se află la poale"],
+      en: ["Highest point: Veliki Risnjak (1528 m)", "National Park since September 1953", "Habitat for lynx, wolf, and brown bear", "Source of the Kupa River is at its base"],
+    },
+    image: "/poi-images/croatia-risnjak-relief-v2.webp",
+},  {
     id: "croatia-ucka-relief-v2",
     type: "mountain",
-    name: { de: "Učka", hu: "Učka-hegység", ro: "Munții Učka", en: "Učka" },
+    name: { de: "Učka", hu: "Učka-hegység", ro: "Munții Učka", en: "Učka",
+image: "/poi-images/croatia-ucka-relief-v2.webp"
+},
     coords: [14.2, 45.29],
     coordinates: { lat: 45.29, lng: 14.2 },
     description: {
@@ -57,11 +89,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 1401 m", "Turn de observare pe Vojak", "Parc natural din 1999", "Graniță Istria/Kvarner"],
       en: ["Highest point: 1401 m", "Observation tower on Vojak", "Nature park since 1999", "Istria/Kvarner boundary"],
     },
-    imageHint: "Ucka mountain tower Vojak", image: "/poi-images/croatia-ucka-relief-v2.webp"},
-  {
+imageHint: "Ucka mountain tower Vojak",
+    descriptionAdvanced: {
+      de: "Dieser markante Gebirgszug trennt die Halbinsel Istrien von der Kvarner-Bucht und bietet vom Turm auf dem Gipfel Vojak einen Rundblick über die gesamte nördliche Adria.",
+      hu: "Az Isztriai-félsziget és a Kvarner-öböl határán húzódó hegység legmagasabb pontján, a Vojak-csúcson egy 1911-ben épült kilátótoronyból csodálható meg az Adria észeaki része.",
+      ro: "Această culme muntoasă separă peninsula Istria de Golful Kvarner, oferind de pe turnul vârfului Vojak o panoramă circulară asupra întregii zone de nord a Adriaticii.",
+      en: "This prominent mountain range separates the Istrian peninsula from Kvarner Bay, offering 360-degree views of the Northern Adriatic from the Vojak summit tower.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Vojak (1396 m)", "Naturpark seit dem Jahr 1999", "Steinerner Aussichtsturm erbaut 1911", "Einziger Ort, wo die Učka-Glockenblume wächst"],
+      hu: ["Legmagasabb csúcsa a Vojak (1396 m)", "1999 óta természetvédelmi terület", "A kőkilátó 1911-ben épült a csúcson", "Itt él az endemikus uckai harangvirág"],
+      ro: ["Vârful cel mai înalt: Vojak (1396 m)", "Parc natural declarat în anul 1999", "Turnul de piatră a fost construit în 1911", "Singurul loc unde crește clopoțelul de Učka"],
+      en: ["Highest peak: Vojak (1396 m)", "Nature Park since 1999", "Stone lookout tower built in 1911", "Only place where Učka bellflower grows"],
+    },
+    image: "/poi-images/croatia-ucka-relief-v2.webp",
+},  {
     id: "croatia-papuk-relief-v2",
     type: "mountain",
-    name: { de: "Papuk", hu: "Papuk-hegység", ro: "Munții Papuk", en: "Papuk" },
+    name: { de: "Papuk", hu: "Papuk-hegység", ro: "Munții Papuk", en: "Papuk",
+image: "/poi-images/croatia-papuk-relief-v2.webp"
+},
     coords: [17.65, 45.52],
     coordinates: { lat: 45.52, lng: 17.65 },
     description: {
@@ -76,11 +123,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 954 m", "UNESCO Global Geopark", "Roci de origine vulcanică", "Munte de tip insulă"],
       en: ["Highest point: 954 m", "UNESCO Global Geopark", "Volcanic rock formations", "Pannonian island mountain"],
     },
-    imageHint: "Papuk Nature Park forest landscape", image: "/poi-images/croatia-papuk-relief-v2.webp"},
-  {
+imageHint: "Papuk Nature Park forest landscape",
+    descriptionAdvanced: {
+      de: "Als das geologisch vielfältigste Gebirge Slawoniens beherbergt der Papuk vulkanisches Gestein und dichte Buchenwälder, die seit 2007 zum UNESCO-Geopark-Netzwerk gehören.",
+      hu: "Szlavónia legváltozatosabb hegysége vulkáni kőzetekkel és sűrű bükkerdőkkel rendelkezik, 2007 óta pedig az UNESCO Globális Geopark hálózatának elismert tagja.",
+      ro: "Fiind cel mai divers munte din Slavonia, Papuk găzduiește roci vulcanice și păduri dese de fag, făcând parte din rețeaua UNESCO Global Geoparks din anul 2007.",
+      en: "As Slavonia's geologically most diverse mountain, Papuk features volcanic rocks and dense beech forests, being part of the UNESCO Global Geopark network since 2007.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Papuk (953 m)", "Erster UNESCO-Geopark in Kroatien", "Enthält 600 Millionen Jahre altes Gestein", "Naturpark umfasst eine Fläche von 336 km²"],
+      hu: ["Legmagasabb pontja a Papuk (953 m)", "Horvátország első UNESCO Geoparkja", "600 millió éves kőzetek is találhatók itt", "A natúrpark területe 336 négyzetkilométer"],
+      ro: ["Altitudinea maximă: Papuk (953 m)", "Primul Geoparc UNESCO din Croația", "Conține roci vechi de 600 milioane ani", "Parcul natural ocupă o suprafață de 336 km²"],
+      en: ["Highest peak: Papuk (953 m)", "Croatia's first UNESCO Global Geopark", "Contains rocks 600 million years old", "Nature Park covers an area of 336 km²"],
+    },
+    image: "/poi-images/croatia-papuk-relief-v2.webp",
+},  {
     id: "croatia-svilaja-relief-v2",
     type: "mountain",
-    name: { de: "Svilaja", hu: "Svilaja-hegység", ro: "Munții Svilaja", en: "Svilaja" },
+    name: { de: "Svilaja", hu: "Svilaja-hegység", ro: "Munții Svilaja", en: "Svilaja",
+image: "/poi-images/croatia-svilaja-relief-v2.webp"
+},
     coords: [16.45, 43.85],
     coordinates: { lat: 43.85, lng: 16.45 },
     description: {
@@ -95,11 +157,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 1508 m", "Formațiuni carstice tipice", "Parte a Alpilor Dinari externi", "Zonă naturală sălbatică"],
       en: ["Highest point: 1508 m", "Typical karst formations", "Part of outer Dinaric Alps", "Remote natural area"],
     },
-    imageHint: "Svilaja mountain range dalmatia", image: "/poi-images/croatia-svilaja-relief-v2.webp"},
-  {
+imageHint: "Svilaja mountain range dalmatia",
+    descriptionAdvanced: {
+      de: "Dieser etwa 30 km lange Zug im dalmatinischen Hinterland gehört zu den Dinariden und ist geprägt von weiten Grasflächen, Karstphänomenen und einsamen Wanderwegen.",
+      hu: "A dalmát hátországban húzódó, közel 30 kilométer hosszú hegység a Dinári-Alpok része, amelyet hatalmas legelők, karsztjelenségek és elhagyatott túraösvények jellemeznek.",
+      ro: "Această culme de circa 30 km din hinterlandul dalmat aparține Dinarizilor, fiind marcată de pășuni întinse, fenomene carstice și trasee montane solitare.",
+      en: "This roughly 30 km long range in the Dalmatian Hinterland belongs to the Dinarides, characterized by vast grasslands, karst phenomena, and secluded hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Svilaja (1508 m)", "Erstreckt sich zwischen Sinj und Drniš", "Große Vorkommen von Heilkräutern", "Teil des längsten Karstfeldes in Kroatien"],
+      hu: ["Legmagasabb csúcsa a Svilaja (1508 m)", "Sinj és Drniš városok között fekszik", "Gazdag gyógynövényállománnyal bír", "Horvátország leghosszabb karsztmezejének része"],
+      ro: ["Vârful suprem: Svilaja (1508 m)", "Se întinde între localitățile Sinj și Drniš", "Zăcăminte mari de plante medicinale", "Parte din cel mai lung câmp carstic croat"],
+      en: ["Highest peak: Svilaja (1508 m)", "Stretches between Sinj and Drniš", "Abundant with medicinal herbs", "Part of the longest karst field in Croatia"],
+    },
+    image: "/poi-images/croatia-svilaja-relief-v2.webp",
+},  {
     id: "croatia-gorski-kotar-relief-v2",
     type: "mountain",
-    name: { de: "Gorski Kotar", hu: "Gorski kotar", ro: "Gorski Kotar", en: "Gorski Kotar" },
+    name: { de: "Gorski Kotar", hu: "Gorski kotar", ro: "Gorski Kotar", en: "Gorski Kotar",
+image: "/poi-images/croatia-gorski-kotar-relief-v2.webp"
+},
     coords: [14.75, 45.4],
     coordinates: { lat: 45.4, lng: 14.75 },
     description: {
@@ -114,11 +191,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Numit 'Plămânul verde' al țării", "Caracter de platou montan", "Cele mai mari precipitații", "Coridor de transport spre mare"],
       en: ["Known as 'Green Lungs' of Croatia", "Highland plateau character", "Highest rainfall in Croatia", "Strategic route to the sea"],
     },
-    imageHint: "Gorski Kotar landscape forest and mountains", image: "/poi-images/croatia-gorski-kotar-relief-v2.webp"},
-  {
+imageHint: "Gorski Kotar landscape forest and mountains",
+    descriptionAdvanced: {
+      de: "Das grüne Herz Kroatiens ist ein bewaldetes Hochland, das für sein raues Gebirgsklima, hohe Niederschlagsmengen und als Lebensraum für große Raubtiere bekannt ist.",
+      hu: "Horvátország zöld szíve egy erdős fennsík, amely zord hegyi klímájáról, bőséges csapadékáról és a nagy ragadozóknak nyújtott élőhelyéről vált híressé.",
+      ro: "Inima verde a Croației este un podiș împădurit, cunoscut pentru climatul montan aspru, precipitațiile abundente și ca habitat pentru marile carnivore.",
+      en: "The green heart of Croatia is a forested highland known for its harsh mountain climate, high precipitation levels, and as a habitat for large predators.",
+    },
+    factsAdvanced: {
+      de: ["Über 60 % der Fläche sind Wald", "Höchste Erhebung: Bjelolasica (1534 m)", "Verbindet Zentral- mit Küstenkroatien", "Rekordniederschläge von bis zu 3500 mm"],
+      hu: ["Területének több mint 60%-a erdő", "Legmagasabb pontja a Bjelolasica (1534 m)", "Összeköti a szárazföldet a tengerparttal", "Évi 3500 mm csapadék is előfordulhat"],
+      ro: ["Peste 60% din suprafață este împădurită", "Altitudinea maximă: Bjelolasica (1534 m)", "Leagă centrul țării de regiunea de coastă", "Precipitații record de până la 3500 mm"],
+      en: ["Over 60% of the area is forested", "Highest elevation: Bjelolasica (1534 m)", "Connects central and coastal Croatia", "Record precipitation up to 3500 mm annually"],
+    },
+    image: "/poi-images/croatia-gorski-kotar-relief-v2.webp",
+},  {
     id: "croatia-lika-relief-v2",
     type: "mountain",
-    name: { de: "Lika-Hochebene", hu: "Lika-fennsík", ro: "Podișul Lika", en: "Lika Plateau" },
+    name: { de: "Lika-Hochebene", hu: "Lika-fennsík", ro: "Podișul Lika", en: "Lika Plateau",
+image: "/poi-images/croatia-lika-relief-v2.webp"
+},
     coords: [15.4, 44.6],
     coordinates: { lat: 44.6, lng: 15.4 },
     description: {
@@ -133,11 +225,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudine medie: 500-700m", "Nucleul carstului croat", "Locul nașterii lui Nikola Tesla", "Climat montan continental"],
       en: ["Average altitude: 500-700m", "Center of Croatian karst", "Birthplace of Nikola Tesla", "Continental mountain climate"],
     },
-    imageHint: "Lika plateau landscape Croatia", image: "/poi-images/croatia-lika-relief-v2.webp"},
-  {
+imageHint: "Lika plateau landscape Croatia",
+    descriptionAdvanced: {
+      de: "Eingeschlossen zwischen Velebit und Kapela liegt dieses weite Hochplateau, das durch große Karstfelder wie das Ličko Polje und eine dünne Besiedlung geprägt ist.",
+      hu: "A Velebit és a Kapela-hegység közé ékelt tágas fennsík hatalmas karsztmezőiről és ritka benépesültségéről ismert, itt található Nikola Tesla szülőhelye is.",
+      ro: "Închis între Velebit și Kapela, acest platou înalt și vast este marcat de mari câmpuri carstice precum Ličko Polje și de o densitate redusă a populației.",
+      en: "Enclosed between Velebit and Kapela, this vast high plateau is characterized by large karst fields like Ličko Polje and a low population density.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe: 500–700 m", "Größtes Karstfeld: Ličko Polje (465 km²)", "Geburtsregion von Nikola Tesla", "Heimat der unterirdischen Flüsse Gacka und Lika"],
+      hu: ["Átlagmagassága 500 és 700 méter között van", "Legnagyobb karsztmező: Ličko Polje (465 km²)", "Nikola Tesla szülőföldje", "Itt folyik a föld alatti Gacka és Lika folyó"],
+      ro: ["Altitudine medie: 500–700 m", "Cel mai mare câmp carstic: Ličko Polje (465 km²)", "Regiunea natală a lui Nikola Tesla", "Găzduiește râurile subterane Gacka și Lika"],
+      en: ["Average altitude: 500–700 m", "Largest karst field: Ličko Polje (465 km²)", "Birth region of Nikola Tesla", "Home to the Gacka and Lika sinking rivers"],
+    },
+    image: "/poi-images/croatia-lika-relief-v2.webp",
+},  {
     id: "croatia-moslavacka-gora-relief-v2",
     type: "mountain",
-    name: { de: "Moslavačka gora", hu: "Monoszlói-hegység", ro: "Munții Moslavačka", en: "Moslavačka gora" },
+    name: { de: "Moslavačka gora", hu: "Monoszlói-hegység", ro: "Munții Moslavačka", en: "Moslavačka gora",
+image: "/poi-images/croatia-moslavacka-gora-relief-v2.webp"
+},
     coords: [16.75, 45.62],
     coordinates: { lat: 45.62, lng: 16.75 },
     description: {
@@ -152,11 +259,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Humka (489 m)", "Parc regional din 2007", "Prezența rocilor magmatice", "Cetatea istorică Garić"],
       en: ["Highest peak: Humka (489 m)", "Regional park since 2007", "Magmatic rock occurrences", "Historical Garić fortress ruins"],
     },
-    imageHint: "Moslavacka gora forest hills", image: "/poi-images/croatia-moslavacka-gora-relief-v2.webp"},
-  {
+imageHint: "Moslavacka gora forest hills",
+    descriptionAdvanced: {
+      de: "Dieses alte Gebirgsmassiv in Zentralkroatien besteht überwiegend aus Granit und Gneis und ist von Weingärten, dichten Wäldern und historischen Ruinen umgeben.",
+      hu: "Közép-Horvátország egyik legősibb hegysége gránitból és gneiszből épül fel, lankáit szőlőültetvények, sűrű erdők és középkori várromok díszítik.",
+      ro: "Acest masiv montan vechi din Croația centrală este compus predominant din granit și gnais, fiind înconjurat de podgorii, păduri dese și ruine istorice.",
+      en: "This ancient mountain massif in Central Croatia consists mainly of granite and gneiss, surrounded by vineyards, dense forests, and historical ruins.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Humka (489 m)", "Regionalpark seit dem Jahr 2011", "Enthält bedeutende Granitvorkommen", "Standort der mittelalterlichen Burg Garić-grad"],
+      hu: ["Legmagasabb csúcsa a Humka (489 m)", "2011 óta regionális natúrpark", "Jelentős gránitlelőhelyek találhatók itt", "Itt áll Garić-grad középkori vára"],
+      ro: ["Vârful maxim: Humka (489 m)", "Parc regional din anul 2011", "Conține zăcăminte importante de granit", "Locația cetății medievale Garić-grad"],
+      en: ["Highest peak: Humka (489 m)", "Regional Park since 2011", "Contains significant granite deposits", "Site of the medieval Garić-grad castle"],
+    },
+    image: "/poi-images/croatia-moslavacka-gora-relief-v2.webp",
+},  {
     id: "croatia-ivanscica-relief-v2",
     type: "mountain",
-    name: { de: "Ivanščica", hu: "Ivánscica-hegység", ro: "Munții Ivanščica", en: "Ivanščica" },
+    name: { de: "Ivanščica", hu: "Ivánscica-hegység", ro: "Munții Ivanščica", en: "Ivanščica",
+image: "/poi-images/croatia-ivanscica-relief-v2.webp"
+},
     coords: [16.12, 46.18],
     coordinates: { lat: 46.18, lng: 16.12 },
     description: {
@@ -171,11 +293,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 1061 m", "Destinație populară de drumeție", "Bogată în izvoare naturale", "Ruine de castele medievale"],
       en: ["Highest point: 1061 m", "Popular hiking destination", "Rich in natural springs", "Medieval castle ruins"],
     },
-    imageHint: "Ivanscica mountain peak northern Croatia", image: "/poi-images/croatia-ivanscica-relief-v2.webp"},
-  {
+imageHint: "Ivanscica mountain peak northern Croatia",
+    descriptionAdvanced: {
+      de: "Als höchstes Gebirge des kroatischen Zagorje erstreckt sich die Ivanščica über 30 km und ist ein beliebtes Ziel für Wanderer, bekannt für ihre weiten Aussichten.",
+      hu: "A horvát Zagorje legmagasabb hegysége közel 30 kilométer hosszan nyúlik el, népszerű kirándulóhely, amely messze földön híres pazar kilátópontjairól.",
+      ro: "Fiind cel mai înalt munte din regiunea Zagorje, Ivanščica se întinde pe 30 km și este o destinație populară pentru drumeții, cunoscută pentru vederile largi.",
+      en: "As the highest mountain in the Croatian Zagorje region, Ivanščica stretches over 30 km and is a popular hiking destination famous for its expansive views.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 1060 m über dem Meer", "Länge des Massivs: ca. 30 km", "Reich an Quellen und kleinen Bächen", "Beliebtes Zentrum für Gleitschirmflieger"],
+      hu: ["Legmagasabb pontja 1060 méter", "A hegylánc hossza kb. 30 km", "Forrásokban és kis patakokban gazdag", "A siklóernyőzés kedvelt központja"],
+      ro: ["Punctul maxim: 1060 m deasupra mării", "Lungimea masivului: circa 30 km", "Bogat în izvoare și pârâuri mici", "Centru popular pentru parapantism"],
+      en: ["Highest point: 1060 m above sea level", "Length of the massif: approx. 30 km", "Rich in springs and small streams", "Popular center for paragliding"],
+    },
+    image: "/poi-images/croatia-ivanscica-relief-v2.webp",
+},  {
     id: "croatia-snjeznik-relief-v2",
     type: "mountain",
-    name: { de: "Snježnik", hu: "Snježnik-hegység", ro: "Masivul Snježnik", en: "Snježnik" },
+    name: { de: "Snježnik", hu: "Snježnik-hegység", ro: "Masivul Snježnik", en: "Snježnik",
+image: "/poi-images/croatia-snjeznik-relief-v2.webp"
+},
     coords: [14.6, 45.43],
     coordinates: { lat: 45.43, lng: 14.6 },
     description: {
@@ -190,11 +327,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Înălțime: 1506 metri", "Numele derivă de la zăpadă", "Climat montan alpin", "Inclus în Parcul Risnjak"],
       en: ["Elevation: 1506 meters", "Name refers to 'snowy mountain'", "Alpine-like climate", "Part of Risnjak National Park"],
     },
-    imageHint: "Snjeznik mountain peak rocky terrain", image: "/poi-images/croatia-snjeznik-relief-v2.webp"},
-  {
+imageHint: "Snjeznik mountain peak rocky terrain",
+    descriptionAdvanced: {
+      de: "Dieser felsige Grat im Gorski Kotar verdankt seinen Namen den Schneefeldern, die oft bis in den Frühsommer in den tiefen Dolinen und an den Hängen liegen bleiben.",
+      hu: "A Gorski Kotarban fekvő sziklás gerinc a nevét a mélyedésekben és lejtőkön gyakran kora nyárig megmaradó hómezőkről (snijeg) kapta.",
+      ro: "Această creastă stâncoasă din Gorski Kotar își datorează numele peticelor de zăpadă care persistă adesea până la începutul verii în dolinele adânce.",
+      en: "This rocky ridge in Gorski Kotar owes its name to the snow patches that often linger in deep sinkholes and on slopes until early summer.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 1506 m", "Gehört zum Nationalpark Risnjak", "Bekannt für seltene alpine Flora", "Aussicht reicht bis zu den Julischen Alpen"],
+      hu: ["Legmagasabb csúcsa 1506 méter", "A Risnjak Nemzeti Park részét képezi", "Ritka alpesi flórájáról ismert", "Kilátás nyílik innen egészen a Júliai-Alpokig"],
+      ro: ["Altitudinea vârfului: 1506 m", "Face parte din Parcul Național Risnjak", "Cunoscut pentru floră alpină rară", "Panorama ajunge până la Alpii Iulieni"],
+      en: ["Highest peak: 1506 m", "Part of the Risnjak National Park", "Known for rare alpine flora", "View reaches as far as the Julian Alps"],
+    },
+    image: "/poi-images/croatia-snjeznik-relief-v2.webp",
+},  {
     id: "croatia-vaganski-vrh-relief-v2",
     type: "peak",
-    name: { de: "Vaganski vrh", hu: "Vaganski-csúcs", ro: "Vârful Vaganski", en: "Vaganski vrh" },
+    name: { de: "Vaganski vrh", hu: "Vaganski-csúcs", ro: "Vârful Vaganski", en: "Vaganski vrh",
+image: "/poi-images/croatia-vaganski-vrh-relief-v2.webp"
+},
     coords: [15.51, 44.32],
     coordinates: { lat: 44.32, lng: 15.51 },
     description: {
@@ -209,11 +361,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Înălțime: 1757 metri", "Cea mai înaltă cotă din Velebit", "Situat în Velebitul de Sud", "Vedere spre câmpia Lika"],
       en: ["Elevation: 1757 meters", "Highest point of Velebit", "Located in Southern Velebit", "View of the Lika plateau"],
     },
-    imageHint: "Vaganski vrh peak Velebit mountain", image: "/poi-images/croatia-vaganski-vrh-relief-v2.webp"},
-  {
+imageHint: "Vaganski vrh peak Velebit mountain",
+    descriptionAdvanced: {
+      de: "Der höchste Gipfel des Velebit-Massivs bietet eine grandiose Aussicht über das Lika-Hochland und die Inselwelt der Adria inmitten einer wilden Karstlandschaft.",
+      hu: "A Velebit-hegység legmagasabb csúcsa vadregényes karsztvidék közepén fekszik, ahonnan lenyűgöző panoráma nyílik a Lika-fennsíkra és az Adria szigetvilágára.",
+      ro: "Cel mai înalt vârf al masivului Velebit oferă o panoramă grandioasă asupra podișului Lika și a insulelor Adriatice, în mijlocul unui peisaj carstic sălbatic.",
+      en: "The highest peak of the Velebit massif offers a magnificent view over the Lika highlands and the Adriatic islands amidst a wild karst landscape.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1757 m über dem Meer", "Teil des Nationalparks Paklenica", "Besteht aus mesozoischem Kalkstein", "Häufiges Ziel für erfahrene Alpinisten"],
+      hu: ["Magassága 1757 méter", "A Paklenica Nemzeti Park része", "Mezozoikumi mészkőből épül fel", "Tapasztalt hegymászók kedvelt célpontja"],
+      ro: ["Înălțime: 1757 m deasupra mării", "Parte din Parcul Național Paklenica", "Format din calcar mezozoic", "Destinație frecventă pentru alpiniști"],
+      en: ["Elevation: 1757 m above sea level", "Part of the Paklenica National Park", "Composed of Mesozoic limestone", "Frequent destination for experienced hikers"],
+    },
+    image: "/poi-images/croatia-vaganski-vrh-relief-v2.webp",
+},  {
     id: "croatia-sveti-jure-relief-v2",
     type: "peak",
-    name: { de: "Sveti Jure", hu: "Szent György-csúcs", ro: "Vârful Sveti Jure", en: "Sveti Jure" },
+    name: { de: "Sveti Jure", hu: "Szent György-csúcs", ro: "Vârful Sveti Jure", en: "Sveti Jure",
+image: "/poi-images/croatia-sveti-jure-relief-v2.webp"
+},
     coords: [17.05, 43.34],
     coordinates: { lat: 43.34, lng: 17.05 },
     description: {
@@ -228,11 +395,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Înălțime: 1762 metri", "Cea mai înaltă cotă din Biokovo", "Cel mai înalt drum asfaltat", "Vizibilitate până în Italia"],
       en: ["Elevation: 1762 meters", "Highest point of Biokovo", "Highest paved road in Croatia", "Views possible to Italy"],
     },
-    imageHint: "Sveti Jure peak Biokovo antenna", image: "/poi-images/croatia-sveti-jure-relief-v2.webp"},
-  {
+imageHint: "Sveti Jure peak Biokovo antenna",
+    descriptionAdvanced: {
+      de: "Als Gipfel des Biokovo-Gebirges beherbergt der Sveti Jure eine kleine Kapelle und einen markanten Fernsehturm, der weithin über der Adria sichtbar ist.",
+      hu: "A Biokovo-hegység legmagasabb csúcsán egy kis kápolna és egy jellegzetes tévétorony áll, amely messziről is jól látható az Adriai-tenger felől.",
+      ro: "Fiind vârful suprem al muntelui Biokovo, Sveti Jure găzduiește o mică capelă și un turn TV proeminent, vizibil de la mare distanță peste Adriatică.",
+      en: "As the highest peak of the Biokovo mountain, Sveti Jure hosts a small chapel and a prominent TV tower visible from far across the Adriatic.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1762 m über dem Meer", "Höchster befahrbarer Gipfel Kroatiens", "Durchschnittliche Jahrestemperatur: ca. 4 °C", "Zufahrtsstraße ist 23 km lang"],
+      hu: ["Magassága 1762 méter", "Horvátország legmagasabb autózható csúcsa", "Évi középhőmérséklete kb. 4 °C", "A felvezető út hossza 23 km"],
+      ro: ["Înălțime: 1762 m deasupra mării", "Cel mai înalt vârf accesibil auto din țară", "Temperatura medie anuală: circa 4 °C", "Șoseaua de acces are 23 km lungime"],
+      en: ["Elevation: 1762 m above sea level", "Highest peak in Croatia accessible by car", "Average annual temperature: approx. 4 °C", "Access road is 23 km long"],
+    },
+    image: "/poi-images/croatia-sveti-jure-relief-v2.webp",
+},  {
     id: "croatia-velika-kapela-relief-v2",
     type: "mountain",
-    name: { de: "Velika Kapela", hu: "Nagy-Kapela", ro: "Munții Velika Kapela", en: "Velika Kapela" },
+    name: { de: "Velika Kapela", hu: "Nagy-Kapela", ro: "Munții Velika Kapela", en: "Velika Kapela",
+image: "/poi-images/croatia-velika-kapela-relief-v2.webp"
+},
     coords: [15.0, 45.1],
     coordinates: { lat: 45.1, lng: 15.0 },
     description: {
@@ -247,11 +429,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Bjelolasica", "Roci calcaroase și dolomite", "Coridor ecologic major", "Centru de sporturi de iarnă"],
       en: ["Highest peak: Bjelolasica", "Limestone and dolomite rock", "Major ecological corridor", "Winter sports center area"],
     },
-    imageHint: "Velika Kapela mountain landscape", image: "/poi-images/croatia-velika-kapela-relief-v2.webp"},
-  {
+imageHint: "Velika Kapela mountain landscape",
+    descriptionAdvanced: {
+      de: "Dieses Gebirgsmassiv verbindet den Gorski Kotar mit dem Velebit und beherbergt mit den Bijele und Samarske stijene eines der faszinierendsten Karstreservate.",
+      hu: "Ez a hegylánc köti össze Gorski Kotart a Velebit-hegységgel, itt találhatók a Bijele és Samarske stijene vad karsztsziklái, amelyek szigorúan védettek.",
+      ro: "Acest masiv montan leagă Gorski Kotar de Velebit și adăpostește Bijele și Samarske stijene, una dintre cele mai fascinante rezervații carstice.",
+      en: "This mountain massif connects Gorski Kotar with Velebit and hosts the Bijele and Samarske stijene, one of the most fascinating karst reserves.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Bjelolasica (1534 m)", "Standort des olympischen Zentrums", "Berühmt für weiße Karstfelsformationen", "Bedeutender Korridor für Bären und Wölfe"],
+      hu: ["Legmagasabb csúcsa a Bjelolasica (1534 m)", "Itt található az olimpiai edzőközpont", "Híres a fehér karsztszikláiról", "Fontos folyosó a medvék és farkasok számára"],
+      ro: ["Vârful cel mai înalt: Bjelolasica (1534 m)", "Locația unui centru olimpic de sport", "Faimos pentru stâncile carstice albe", "Coridor important pentru urși și lupi"],
+      en: ["Highest peak: Bjelolasica (1534 m)", "Home to the Olympic Training Center", "Famous for white karst rock formations", "Important corridor for bears and wolves"],
+    },
+    image: "/poi-images/croatia-velika-kapela-relief-v2.webp",
+},  {
     id: "croatia-mala-kapela-relief-v2",
     type: "mountain",
-    name: { de: "Mala Kapela", hu: "Kis-Kapela", ro: "Munții Mala Kapela", en: "Mala Kapela" },
+    name: { de: "Mala Kapela", hu: "Kis-Kapela", ro: "Munții Mala Kapela", en: "Mala Kapela",
+image: "/poi-images/croatia-mala-kapela-relief-v2.webp"
+},
     coords: [15.3, 44.95],
     coordinates: { lat: 44.95, lng: 15.3 },
     description: {
@@ -266,11 +463,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Seliški vrh", "Parte a Alpilor Dinari", "Lângă Lacurile Plitvice", "Tunel rutier major"],
       en: ["Highest peak: Seliški vrh", "Part of Dinaric mountain system", "Located near Plitvice Lakes", "Major highway tunnel location"],
     },
-    imageHint: "Mala Kapela mountains forest view", image: "/poi-images/croatia-mala-kapela-relief-v2.webp"},
-  {
+imageHint: "Mala Kapela mountains forest view",
+    descriptionAdvanced: {
+      de: "Die Mala Kapela bildet einen Teil der Wasserscheide zwischen Adria und Schwarzem Meer und ist bekannt für den 5,8 km langen Straßentunnel gleichen Namens.",
+      hu: "A Mala Kapela hegység az Adria és a Fekete-tenger közötti vízválasztó része, nevét pedig az ország egyik leghosszabb, 5,8 kilométeres közúti alagútja tette ismertté.",
+      ro: "Mala Kapela formează o parte din cumpăna apelor între Adriatică și Marea Neagră, fiind cunoscută pentru tunelul rutier omonim de 5,8 km lungime.",
+      en: "Mala Kapela forms part of the watershed between the Adriatic and Black Sea, famous for the 5.8 km long road tunnel of the same name.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Seliški vrh (1279 m)", "Trennlinie zwischen Gorski Kotar und Lika", "Länge des Bergzugs: ca. 40 km", "Wichtiges Waldgebiet mit Tannen und Buchen"],
+      hu: ["Legmagasabb pontja a Seliški vrh (1279 m)", "Határvonal Gorski Kotar és Lika között", "A hegylánc hossza kb. 40 km", "Jelentős fenyő- és bükkerdők borítják"],
+      ro: ["Vârful suprem: Seliški vrh (1279 m)", "Linie de demarcație între Gorski Kotar și Lika", "Lungimea lanțului: circa 40 km", "Zonă forestieră importantă cu brazi și fagi"],
+      en: ["Highest peak: Seliški vrh (1279 m)", "Dividing line between Gorski Kotar and Lika", "Length of the range: approx. 40 km", "Important forest area with firs and beeches"],
+    },
+    image: "/poi-images/croatia-mala-kapela-relief-v2.webp",
+},  {
     id: "croatia-pljesivica-relief-v2",
     type: "mountain",
-    name: { de: "Plješivica", hu: "Plješivica-hegység", ro: "Munții Plješivica", en: "Plješivica" },
+    name: { de: "Plješivica", hu: "Plješivica-hegység", ro: "Munții Plješivica", en: "Plješivica",
+image: "/poi-images/croatia-pljesivica-relief-v2.webp"
+},
     coords: [15.75, 44.75],
     coordinates: { lat: 44.75, lng: 15.75 },
     description: {
@@ -285,11 +497,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudine maximă: 1657m", "Graniță pe creastă", "Creste calcaroase abrupte", "Fostă zonă militară"],
       en: ["Highest point: Ozeblin (1657m)", "Border follows the ridge", "Distinctive limestone ridges", "Former military restricted zone"],
     },
-    imageHint: "Pljesivica mountain ridge Croatia", image: "/poi-images/croatia-pljesivica-relief-v2.webp"},
-  {
+imageHint: "Pljesivica mountain ridge Croatia",
+    descriptionAdvanced: {
+      de: "Dieser Gebirgszug markiert einen langen Teil der Grenze zu Bosnien und Herzegowina und beeindruckt durch seine markanten vertikalen Felswände aus Karst.",
+      hu: "Ez a hegylánc hosszú szakaszon alkotja a határt Bosznia-Hercegovinával, és látványos, függőleges karsztsziklafalaival nyűgözi le a túrázókat.",
+      ro: "Această culme montană marchează o secțiune lungă a frontierei cu Bosnia și Herțegovina, impresionând prin pereții săi carstici verticali.",
+      en: "This mountain range marks a long section of the border with Bosnia and Herzegovina, impressing with its prominent vertical karst rock faces.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Ozeblin (1657 m)", "Länge der Gebirgskette: ca. 100 km", "Standort eines ehemaligen Militärflugplatzes", "Teil des dinarischen Gebirgssystems"],
+      hu: ["Legmagasabb csúcsa az Ozeblin (1657 m)", "A hegylánc hossza kb. 100 km", "Itt volt egy egykori katonai repülőtér", "A Dinári-hegységrendszer része"],
+      ro: ["Punctul maxim: Ozeblin (1657 m)", "Lungimea lanțului: circa 100 km", "Locația unui fost aerodrom militar", "Parte din sistemul muntos Dinaric"],
+      en: ["Highest peak: Ozeblin (1657 m)", "Length of the chain: approx. 100 km", "Site of a former military underground airbase", "Part of the Dinaric mountain system"],
+    },
+    image: "/poi-images/croatia-pljesivica-relief-v2.webp",
+},  {
     id: "croatia-samoborsko-gorje-relief-v2",
     type: "mountain",
-    name: { de: "Samoborsko gorje", hu: "Szamobori-hegység", ro: "Munții Samobor", en: "Samobor Hills" },
+    name: { de: "Samoborsko gorje", hu: "Szamobori-hegység", ro: "Munții Samobor", en: "Samobor Hills",
+image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp"
+},
     coords: [15.65, 45.81],
     coordinates: { lat: 45.81, lng: 15.65 },
     description: {
@@ -304,11 +531,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Japetić (879m)", "Inclus în parc natural", "Tradiție minieră veche", "Lângă orașul Samobor"],
       en: ["Highest peak: Japetić (879m)", "Part of a nature park", "Known for mining tradition", "Close to Samobor town"],
     },
-    imageHint: "Samoborsko gorje hills landscape", image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp"},
-  {
+imageHint: "Samoborsko gorje hills landscape",
+    descriptionAdvanced: {
+      de: "Diese sanfte Hügellandschaft westlich von Zagreb ist ein beliebtes Naherholungsgebiet mit zahlreichen Wanderwegen, Berghütten und mittelalterlichen Ruinen.",
+      hu: "A Zágrábtól nyugatra fekvő lankás dombvidék a fővárosiak kedvelt kirándulóhelye, amely számos túraútvonallal, menedékházzal és várrommal várja a látogatókat.",
+      ro: "Acest relief deluros domol la vest de Zagreb este o zonă de recreere populară, cu numeroase poteci, cabane montane și ruine medievale.",
+      en: "This gentle hilly landscape west of Zagreb is a popular recreational area with numerous hiking trails, mountain huts, and medieval ruins.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Japetić (879 m)", "Teil des Naturparks Žumberak", "Bekannt für die Burgruine Okić", "Heimat der ältesten kroatischen Berghütte"],
+      hu: ["Legmagasabb csúcsa a Japetić (879 m)", "A Žumberak Natúrpark részét képezi", "Híres az okići várromról", "Itt található Horvátország legrégebbi menedékháza"],
+      ro: ["Vârful suprem: Japetić (879 m)", "Parte din Parcul Natural Žumberak", "Cunoscut pentru ruinele cetății Okić", "Găzduiește cea mai veche cabană montană croată"],
+      en: ["Highest peak: Japetić (879 m)", "Part of the Žumberak Nature Park", "Famous for the Okić castle ruins", "Home to the oldest Croatian mountain hut"],
+    },
+    image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp",
+},  {
     id: "croatia-zumberak-relief-v2",
     type: "mountain",
-    name: { de: "Žumberak", hu: "Zumberaki-hegység", ro: "Munții Žumberak", en: "Žumberak" },
+    name: { de: "Žumberak", hu: "Zumberaki-hegység", ro: "Munții Žumberak", en: "Žumberak",
+image: "/poi-images/croatia-zumberak-relief-v2.webp"
+},
     coords: [15.45, 45.75],
     coordinates: { lat: 45.75, lng: 15.45 },
     description: {
@@ -323,11 +565,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Sveta Gera", "Altitudine: 1178 metri", "Statut de parc natural", "Influențe alpine și panonice"],
       en: ["Highest peak: Sveta Gera", "Summit height: 1178 meters", "Nature park status", "Alpine and Pannonian influence"],
     },
-    imageHint: "Zumberak mountain range border", image: "/poi-images/croatia-zumberak-relief-v2.webp"},
-  {
+imageHint: "Zumberak mountain range border",
+    descriptionAdvanced: {
+      de: "Dieses Grenzgebirge zwischen Kroatien und Slowenien ist geprägt von tiefen Tälern, Wasserfällen und einer reichen Tradition der griechisch-katholischen Gemeinschaft.",
+      hu: "A horvát-szlovén határon fekvő hegység mély völgyeiről, vízeséseiről és a görögkatolikus közösség gazdag néprajzi hagyományairól nevezetes.",
+      ro: "Acest munte de frontieră între Croația și Slovenia este marcat de văi adânci, cascade și o tradiție bogată a comunității greco-catolice.",
+      en: "This border mountain range between Croatia and Slovenia is characterized by deep valleys, waterfalls, and a rich Greek Catholic tradition.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Sveta Gera (1178 m)", "Naturpark seit dem Jahr 1999", "Höchste Siedlungen im kontinentalen Kroatien", "Enthält den Wasserfall Sopotski slap"],
+      hu: ["Legmagasabb csúcsa a Sveta Gera (1178 m)", "1999 óta természetvédelmi terület", "Itt vannak az ország legmagasabban fekvő falvai", "Itt található a Sopotski-vízesés"],
+      ro: ["Vârful maxim: Sveta Gera (1178 m)", "Parc natural declarat în anul 1999", "Cele mai înalte așezări din Croația continentală", "Include cascada Sopotski slap"],
+      en: ["Highest peak: Sveta Gera (1178 m)", "Nature Park since 1999", "Highest settlements in continental Croatia", "Contains the Sopotski slap waterfall"],
+    },
+    image: "/poi-images/croatia-zumberak-relief-v2.webp",
+},  {
     id: "croatia-kalnik-relief-v2",
     type: "mountain",
-    name: { de: "Kalnik", hu: "Kalnik-hegység", ro: "Munții Kalnik", en: "Kalnik" },
+    name: { de: "Kalnik", hu: "Kalnik-hegység", ro: "Munții Kalnik", en: "Kalnik",
+image: "/poi-images/croatia-kalnik-relief-v2.webp"
+},
     coords: [16.47, 46.13],
     coordinates: { lat: 46.13, lng: 16.47 },
     description: {
@@ -342,11 +599,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Vranilovac", "Înălțime: 643 metri", "Centru de alpinism", "Ruinele cetății Kalnik"],
       en: ["Highest peak: Vranilovac", "Elevation: 643 meters", "Rock climbing center", "Old Kalnik fortress ruins"],
     },
-    imageHint: "Kalnik mountain rocks and castle", image: "/poi-images/croatia-kalnik-relief-v2.webp"},
-  {
+imageHint: "Kalnik mountain rocks and castle",
+    descriptionAdvanced: {
+      de: "Dieses Gebirge in Nordkroatien ist berühmt für seine markante Felsenkante und die mittelalterliche Festung, die mutig auf den steilen Kalksteinfelsen thront.",
+      hu: "Az Észak-Horvátországban található hegység látványos sziklagerincéről és a meredek mészkősziklákon trónoló középkori váráról vált híressé.",
+      ro: "Acest munte din nordul Croației este faimos pentru creasta sa stâncoasă proeminentă și cetatea medievală ce tronează pe stâncile de calcar.",
+      en: "This mountain in Northern Croatia is famous for its prominent rocky ridge and the medieval fortress boldly perched on steep limestone cliffs.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Vranilac (643 m)", "Beliebtes Ziel für Sportkletterer", "Standort der Ruine 'Stari grad Kalnik'", "Bildet Grenze zwischen Zagorje und Prigorje"],
+      hu: ["Legmagasabb csúcsa a Vranilac (643 m)", "A sziklamászók népszerű célpontja", "Itt áll a kalniki óvár romja", "Zagorje és Prigorje régiók határán fekszik"],
+      ro: ["Vârful suprem: Vranilac (643 m)", "Destinație populară pentru escaladă", "Locația ruinei 'Stari grad Kalnik'", "Formează limita între Zagorje și Prigorje"],
+      en: ["Highest peak: Vranilac (643 m)", "Popular destination for rock climbers", "Site of the 'Stari grad Kalnik' ruins", "Forms the border between Zagorje and Prigorje"],
+    },
+    image: "/poi-images/croatia-kalnik-relief-v2.webp",
+},  {
     id: "croatia-psunj-relief-v2",
     type: "mountain",
-    name: { de: "Psunj", hu: "Psunj-hegység", ro: "Munții Psunj", en: "Psunj" },
+    name: { de: "Psunj", hu: "Psunj-hegység", ro: "Munții Psunj", en: "Psunj",
+image: "/poi-images/croatia-psunj-relief-v2.webp"
+},
     coords: [17.3, 45.4],
     coordinates: { lat: 45.4, lng: 17.3 },
     description: {
@@ -361,11 +633,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Brezovo polje", "Înălțime: 984 metri", "Bogat în roci cristaline", "Zonă importantă de recreere"],
       en: ["Highest peak: Brezovo polje", "Elevation: 984 meters", "Rich in crystalline rocks", "Significant recreational area"],
     },
-    imageHint: "Psunj mountain peak Slavonia", image: "/poi-images/croatia-psunj-relief-v2.webp"},
-  {
+imageHint: "Psunj mountain peak Slavonia",
+    descriptionAdvanced: {
+      de: "Als höchstes Gebirge Slawoniens bietet der Psunj einen Kern aus altem Kristallingestein und ist von dichten Wäldern aus Eichen und Buchen bedeckt.",
+      hu: "Szlavónia legmagasabb hegysége kristályos kőzetmaggal rendelkezik, felszínét pedig hatalmas kiterjedésű tölgy- és bükkerdők borítják.",
+      ro: "Fiind cel mai înalt munte din Slavonia, Psunj are un nucleu din roci cristaline vechi și este acoperit de păduri dese de stejar și fag.",
+      en: "As the highest mountain in Slavonia, Psunj features a core of ancient crystalline rock and is covered by dense oak and beech forests.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Brezovo polje (985 m)", "Höchste Erhebung in ganz Slawonien", "Enthält bedeutende Quarzvorkommen", "Beliebt für Jagd und Bergwandern"],
+      hu: ["Legmagasabb pontja a Brezovo polje (985 m)", "Egész Szlavónia legmagasabb csúcsa", "Jelentős kvarclelőhelyekkel rendelkezik", "Kedvelt vadász- és kirándulóhely"],
+      ro: ["Punctul maxim: Brezovo polje (985 m)", "Cea mai mare altitudine din Slavonia", "Conține zăcăminte importante de cuarț", "Popular pentru vânătoare și drumeții"],
+      en: ["Highest peak: Brezovo polje (985 m)", "Highest point in the entire Slavonia region", "Contains significant quartz deposits", "Popular for hunting and mountain hiking"],
+    },
+    image: "/poi-images/croatia-psunj-relief-v2.webp",
+},  {
     id: "croatia-krndija-relief-v2",
     type: "mountain",
-    name: { de: "Krndija", hu: "Krndija-hegység", ro: "Munții Krndija", en: "Krndija" },
+    name: { de: "Krndija", hu: "Krndija-hegység", ro: "Munții Krndija", en: "Krndija",
+image: "/poi-images/croatia-krndija-relief-v2.webp"
+},
     coords: [17.93, 45.45],
     coordinates: { lat: 45.45, lng: 17.93 },
     description: {
@@ -380,11 +667,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Kapovac", "Înălțime: 792 metri", "Zonă de tranziție geologică", "Lângă orașul Našice"],
       en: ["Highest point: Kapovac", "Elevation: 792 meters", "Geological transition zone", "Near the town of Našice"],
     },
-    imageHint: "Krndija mountain hills Slavonia", image: "/poi-images/croatia-krndija-relief-v2.webp"},
-  {
+imageHint: "Krndija mountain hills Slavonia",
+    descriptionAdvanced: {
+      de: "Die Krndija bildet die östliche Fortsetzung des Papuk und ist ein bewaldetes Mittelgebirge, das für seine vulkanischen Relikte und Weinanbaugebiete bekannt ist.",
+      hu: "A Krndija a Papuk-hegység keleti folytatása, egy erdős középhegység, amely vulkáni maradványairól és kiváló bortermelő vidékeiről ismert.",
+      ro: "Krndija reprezintă continuarea estică a muntelui Papuk, fiind un masiv împădurit cunoscut pentru relicvele vulcanice și zonele viticole.",
+      en: "Krndija forms the eastern continuation of the Papuk mountain, a forested range known for its volcanic relics and wine-growing areas.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Kapovac (792 m)", "Besteht aus sehr altem metamorphem Gestein", "Standort der Ruine Ružica grad", "Reich an Thermalquellen in der Umgebung"],
+      hu: ["Legmagasabb csúcsa a Kapovac (792 m)", "Nagyon idős metamorf kőzetek építik fel", "Itt található Ružica-várának monumentális romja", "Környéke hévizes forrásokban gazdag"],
+      ro: ["Vârful cel mai înalt: Kapovac (792 m)", "Compus din roci metamorfice foarte vechi", "Locația ruinei cetății Ružica grad", "Bogat în izvoare termale în împrejurimi"],
+      en: ["Highest peak: Kapovac (792 m)", "Composed of very ancient metamorphic rocks", "Site of the monumental Ružica grad ruins", "Rich in thermal springs in the vicinity"],
+    },
+    image: "/poi-images/croatia-krndija-relief-v2.webp",
+},  {
     id: "croatia-pozeska-gora-relief-v2",
     type: "mountain",
-    name: { de: "Požeška gora", hu: "Pozsegai-hegység", ro: "Munții Požega", en: "Požeška gora" },
+    name: { de: "Požeška gora", hu: "Pozsegai-hegység", ro: "Munții Požega", en: "Požeška gora",
+image: "/poi-images/croatia-pozeska-gora-relief-v2.webp"
+},
     coords: [17.65, 45.28],
     coordinates: { lat: 45.28, lng: 17.65 },
     description: {
@@ -399,11 +701,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Kapavac (618m)", "Viticultură dezvoltată pe pante", "Munte de tip insulă panonică", "Soluri foarte fertile"],
       en: ["Highest peak: Kapavac (618m)", "Famous for viticulture on slopes", "Part of Pannonian island mountains", "Very fertile soil conditions"],
     },
-    imageHint: "Pozeska gora vineyards and hills", image: "/poi-images/croatia-pozeska-gora-relief-v2.webp"},
-  {
+imageHint: "Pozeska gora vineyards and hills",
+    descriptionAdvanced: {
+      de: "Südlich der Stadt Požega gelegen, besticht dieses Hügelland durch seine sanften Hänge, die seit Jahrhunderten intensiv für den Weinbau genutzt werden.",
+      hu: "A Pozsega városától délre fekvő dombvidék lankás lejtőivel tűnik ki, amelyeket évszázadok óta intenzív szőlőművelésre és bortermelésre használnak.",
+      ro: "Situat la sud de orașul Požega, acest relief deluros atrage prin pantele sale line, utilizate intens pentru viticultură de secole.",
+      en: "Located south of the city of Požega, this hilly region stands out with its gentle slopes that have been used for viticulture for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Maksimov hrast (618 m)", "Uraltes Weinbaugebiet (Vallis Aurea)", "Gehört zu den slawonischen Inselgebirgen", "Reich an Fossilien aus dem Miozän"],
+      hu: ["Legmagasabb pontja a Maksimov hrast (618 m)", "Ősi borvidék (Vallis Aurea)", "A szlavóniai szigethegységek közé tartozik", "Gazdag miocén kori fosszíliákban"],
+      ro: ["Punctul maxim: Maksimov hrast (618 m)", "Zonă viticolă străveche (Vallis Aurea)", "Face parte din munții insulari slavoni", "Bogat în fosile din epoca miocenă"],
+      en: ["Highest point: Maksimov hrast (618 m)", "Ancient wine region (Vallis Aurea)", "Part of the Slavonian island mountains", "Rich in fossils from the Miocene epoch"],
+    },
+    image: "/poi-images/croatia-pozeska-gora-relief-v2.webp",
+},  {
     id: "croatia-bilogora-relief-v2",
     type: "mountain",
-    name: { de: "Bilogora", hu: "Bilogora-hegység", ro: "Colinele Bilogora", en: "Bilogora" },
+    name: { de: "Bilogora", hu: "Bilogora-hegység", ro: "Colinele Bilogora", en: "Bilogora",
+image: "/poi-images/croatia-bilogora-relief-v2.webp"
+},
     coords: [17.08, 45.92],
     coordinates: { lat: 45.92, lng: 17.08 },
     description: {
@@ -418,11 +735,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Punctul maxim: Rajčul (309m)", "Tânăr din punct de vedere geologic", "Acoperit cu depozite de loess", "Importat pentru agricultură"],
       en: ["Highest point: Rajčul (309m)", "Geologically very young", "Covered in loess deposits", "Important for agriculture"],
     },
-    imageHint: "Bilogora hills landscape", image: "/poi-images/croatia-bilogora-relief-v2.webp"},
-  {
+imageHint: "Bilogora hills landscape",
+    descriptionAdvanced: {
+      de: "Dieser langgestreckte Hügelzug in Nordkroatien dient als Wasserscheide zwischen den Flüssen Drau und Save und ist von fruchtbaren Böden geprägt.",
+      hu: "Észak-Horvátország hosszan elnyúló dombsága vízválasztóként szolgál a Dráva és a Száva folyók között, területét termékeny löszös talaj jellemzi.",
+      ro: "Această culme deluroasă lungă din nordul Croației servește drept cumpănă a apelor între râurile Drava și Sava, având soluri fertile.",
+      en: "This elongated range of hills in Northern Croatia serves as a watershed between the Drava and Sava rivers, characterized by fertile soils.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Rajčula (309 m)", "Länge des Hügelzugs: ca. 80 km", "Besteht überwiegend aus pleistozänem Löss", "Wichtiges Gebiet für die Erdgasförderung"],
+      hu: ["Legmagasabb pontja a Rajčula (309 m)", "A dombság hossza kb. 80 km", "Főleg pleisztocén lösz építi fel", "Jelentős földgázkitermelő vidék"],
+      ro: ["Altitudinea maximă: Rajčula (309 m)", "Lungimea culmii: circa 80 km", "Compusă predominant din loess pleistocen", "Zonă importantă pentru extracția gazelor"],
+      en: ["Highest peak: Rajčula (309 m)", "Length of the range: approx. 80 km", "Composed mainly of Pleistocene loess", "Important area for natural gas extraction"],
+    },
+    image: "/poi-images/croatia-bilogora-relief-v2.webp",
+},  {
     id: "croatia-petrova-gora-relief-v2",
     type: "mountain",
-    name: { de: "Petrova gora", hu: "Petrova gora", ro: "Munții Petrova", en: "Petrova gora" },
+    name: { de: "Petrova gora", hu: "Petrova gora", ro: "Munții Petrova", en: "Petrova gora",
+image: "/poi-images/croatia-petrova-gora-relief-v2.webp"
+},
     coords: [15.8, 45.2],
     coordinates: { lat: 45.2, lng: 15.8 },
     description: {
@@ -437,11 +769,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Veliki Petrovac", "Înălțime: 512 metri", "Locul unor bătălii istorice", "Monument celebru pe vârf"],
       en: ["Highest peak: Veliki Petrovac", "Elevation: 512 meters", "Site of historical battles", "Famous monument on the peak"],
     },
-    imageHint: "Petrova gora mountain monument", image: "/poi-images/croatia-petrova-gora-relief-v2.webp"},
-  {
+imageHint: "Petrova gora mountain monument",
+    descriptionAdvanced: {
+      de: "Dieses geschichtsträchtige Mittelgebirge ist nach dem letzten kroatischen König Petar Snačić benannt und beherbergt ein monumentales Denkmal aus der jugoslawischen Ära.",
+      hu: "Ez a történelmi jelentőségű középhegység az utolsó horvát királyról, Petar Snačićról kapta a nevét, csúcsán pedig egy monumentális szocialista emlékmű áll.",
+      ro: "Acest munte încărcat de istorie poartă numele ultimului rege croat, Petar Snačić, și găzduiește un monument monumental din era iugoslavă.",
+      en: "This historically significant mountain is named after the last Croatian king, Petar Snačić, and features a monumental Yugoslav-era memorial.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Veliki Petrovac (512 m)", "Ort der Schlacht am Gvozd im Jahr 1097", "Denkmal entworfen von Vojin Bakić", "Große Vorkommen von Eisenerz"],
+      hu: ["Legmagasabb csúcsa a Veliki Petrovac (512 m)", "Az 1097-es gvozdi csata helyszíne", "Az emlékművet Vojin Bakić tervezte", "Jelentős vasérckészletekkel rendelkezik"],
+      ro: ["Vârful suprem: Veliki Petrovac (512 m)", "Locul bătăliei de la Gvozd din 1097", "Monument proiectat de Vojin Bakić", "Zăcăminte mari de minereu de fier"],
+      en: ["Highest peak: Veliki Petrovac (512 m)", "Site of the Battle of Gvozd in 1097", "Monument designed by Vojin Bakić", "Rich in iron ore deposits"],
+    },
+    image: "/poi-images/croatia-petrova-gora-relief-v2.webp",
+},  {
     id: "croatia-cicarija-relief-v2",
     type: "mountain",
-    name: { de: "Ćićarija", hu: "Ćićarija-hegység", ro: "Munții Ćićarija", en: "Ćićarija" },
+    name: { de: "Ćićarija", hu: "Ćićarija-hegység", ro: "Munții Ćićarija", en: "Ćićarija",
+image: "/poi-images/croatia-cicarija-relief-v2.webp"
+},
     coords: [14.05, 45.45],
     coordinates: { lat: 45.45, lng: 14.05 },
     description: {
@@ -456,11 +803,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Punctul maxim: Planik (1272m)", "Peisaj de stâncă albă", "Zonă foarte slab populată", "Climat mult mai rece decât pe coastă"],
       en: ["Highest point: Planik (1272m)", "White rocky landscape", "Sparsely populated area", "Significantly cooler climate than coast"],
     },
-    imageHint: "Cicarija mountain landscape Istria", image: "/poi-images/croatia-cicarija-relief-v2.webp"},
-  {
+imageHint: "Cicarija mountain landscape Istria",
+    descriptionAdvanced: {
+      de: "Das im Norden Istriens gelegene Kalksteinplateau ist dünn besiedelt und bietet eine karge, aber faszinierende Landschaft aus Felsen und kargen Weiden.",
+      hu: "Az Isztria északi részén elterülő mészkőfennsík ritkán lakott vidék, amely kopár, de lenyűgöző sziklás tájaival és legelőivel tűnik ki.",
+      ro: "Podișul de calcar situat în nordul Istriei este slab populat, oferind un peisaj arid dar fascinant de stânci și pășuni sărace.",
+      en: "This limestone plateau in Northern Istria is sparsely populated, offering a barren but fascinating landscape of rocks and sparse pastures.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Planik (1272 m)", "Traditionelles Gebiet der Istrorumänen", "Teil des dinarischen Karstsystems", "Bekannt für Schafzucht und Käseherstellung"],
+      hu: ["Legmagasabb csúcsa a Planik (1272 m)", "Az isztrorománok hagyományos területe", "A dinári karsztrendszer része", "Híres a juhtenyésztésről és a sajtkészítésről"],
+      ro: ["Vârful suprem: Planik (1272 m)", "Teritoriul tradițional al istroromânilor", "Parte din sistemul carstic dinaric", "Cunoscut pentru oierit și brânzeturi"],
+      en: ["Highest peak: Planik (1272 m)", "Traditional territory of Istro-Romanians", "Part of the Dinaric karst system", "Known for sheep farming and cheese making"],
+    },
+    image: "/poi-images/croatia-cicarija-relief-v2.webp",
+},  {
     id: "croatia-tulove-grede-relief-v2",
     type: "landmark",
-    name: { de: "Tulove Grede", hu: "Tulove Grede", ro: "Tulove Grede", en: "Tulove Grede" },
+    name: { de: "Tulove Grede", hu: "Tulove Grede", ro: "Tulove Grede", en: "Tulove Grede",
+image: "/poi-images/croatia-tulove-grede-relief-v2.webp"
+},
     coords: [15.61, 44.26],
     coordinates: { lat: 44.26, lng: 15.61 },
     description: {
@@ -475,11 +837,26 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Creastă iconică în Velebit", "Loc de filmare pentru Winnetou", "Fenomen carstic remarcabil", "Lângă pasul Mali Alan"],
       en: ["Iconic part of Velebit range", "Winnetou movie filming site", "Remarkable karst phenomenon", "Near the Mali Alan pass"],
     },
-    imageHint: "Tulove Grede rocky cliffs Velebit", image: "/poi-images/croatia-tulove-grede-relief-v2.webp"},
-  {
+imageHint: "Tulove Grede rocky cliffs Velebit",
+    descriptionAdvanced: {
+      de: "Diese bizarren Kalksteinfelsen im südlichen Velebit sind weltbekannt als Drehort der Winnetou-Filme und ragen wie versteinerte Finger in den Himmel.",
+      hu: "A déli Velebitben található különleges mészkősziklák a Winnetou-filmek forgatási helyszíneként váltak világhírűvé, alakjuk megkövült ujjakra emlékeztet.",
+      ro: "Aceste stânci bizare de calcar din sudul masivului Velebit sunt celebre ca loc de filmare pentru Winnetou, ridicându-se ca niște degete de piatră.",
+      en: "These bizarre limestone rock formations in Southern Velebit are world-famous as a filming location for Winnetou movies, rising like stony fingers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Felsformation: ca. 1120 m", "Teil des Naturparks Velebit", "Besteht aus extrem zerklüftetem Karst", "Direkt an der historischen Passstraße Majstorska cesta"],
+      hu: ["A sziklaalakzat magassága kb. 1120 m", "A Velebit Natúrpark része", "Rendkívül tagolt karsztfelület jellemzi", "A történelmi Majstorska cesta út mentén fekszik"],
+      ro: ["Înălțimea formațiunii: circa 1120 m", "Parte din Parcul Natural Velebit", "Format dintr-un carst extrem de dantelat", "Situat lângă drumul istoric Majstorska cesta"],
+      en: ["Elevation of formations: approx. 1120 m", "Part of the Velebit Nature Park", "Composed of extremely rugged karst", "Located by the historic Majstorska cesta road"],
+    },
+    image: "/poi-images/croatia-tulove-grede-relief-v2.webp",
+},  {
     id: "croatia-ravna-gora-relief-v2",
     type: "mountain",
-    name: { de: "Ravna Gora", hu: "Ravna gora", ro: "Muntele Ravna Gora", en: "Ravna gora" },
+    name: { de: "Ravna Gora", hu: "Ravna gora", ro: "Muntele Ravna Gora", en: "Ravna gora",
+image: "/poi-images/croatia-ravna-gora-relief-v2.webp"
+},
     coords: [15.98, 46.28],
     coordinates: { lat: 46.28, lng: 15.98 },
     description: {
@@ -495,5 +872,17 @@ export const croatiaReliefV2: POI[] = [
       en: ["Highest peak: 686 meters", "Popular paragliding spot", "Dolomite rock formation", "Near Trakoscan Castle"],
     },
     imageHint: "Ravna gora Zagorje hills",
+    descriptionAdvanced: {
+      de: "Als nördlichstes Gebirge Kroatiens im Zagorje bietet die Ravna Gora ideale Bedingungen für Gleitschirmflieger und weite Aussichten bis nach Slowenien.",
+      hu: "Horvátország legészakibb hegysége a Zagorje régióban található, ideális feltételeket kínál a siklóernyősöknek és pazar kilátást Szlovéniára.",
+      ro: "Fiind cel mai nordic munte din Croația, în regiunea Zagorje, Ravna Gora oferă condiții ideale pentru parapantism și panorame până în Slovenia.",
+      en: "As the northernmost mountain in Croatia's Zagorje region, Ravna Gora offers ideal conditions for paragliding and wide views into Slovenia.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 686 m", "Geologisch Teil der Alpen-Ausläufer", "Zentrum für Paragliding im Norden", "Beliebtes Ziel für Wochenendausflüge"],
+      hu: ["Legmagasabb pontja 686 méter", "Földtanilag az Alpok nyúlványainak része", "Észak-Horvátország siklóernyős központja", "Népszerű hétvégi kirándulóhely"],
+      ro: ["Punctul suprem: 686 m", "Geologic, parte din ramificațiile Alpilor", "Centru de parapantism în nordul țării", "Destinație populară pentru excursii de weekend"],
+      en: ["Highest peak: 686 m", "Geologically part of the Alpine foothills", "Center for paragliding in the north", "Popular destination for weekend trips"],
+    },
   }
 ];

@@ -5,7 +5,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-rysy-peak-relief-v2",
     type: "peak",
-    name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy" },
+    name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy",
+image: "/poi-images/poland-rysy-peak-relief-v2.webp"
+},
     coords: [20.0881, 49.1794],
     coordinates: { lat: 49.1794, lng: 20.0881 },
     description: {
@@ -36,7 +38,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-tatra-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains" },
+    name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains",
+image: "/poi-images/poland-tatra-mountains-relief-v2.webp"
+},
     coords: [19.95, 49.25],
     coordinates: { lat: 49.25, lng: 19.95 },
     description: {
@@ -67,7 +71,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-sniezka-peak-relief-v2",
     type: "peak",
-    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka" },
+    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka",
+image: "/poi-images/poland-sniezka-peak-relief-v2.webp"
+},
     coords: [15.74, 50.736],
     coordinates: { lat: 50.736, lng: 15.74 },
     description: {
@@ -98,7 +104,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-bieszczady-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains" },
+    name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains",
+image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"
+},
     coords: [22.5, 49.15],
     coordinates: { lat: 49.15, lng: 22.5 },
     description: {
@@ -129,7 +137,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-tarnica-peak-relief-v2",
     type: "peak",
-    name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica" },
+    name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica",
+image: "/poi-images/poland-tarnica-peak-relief-v2.webp"
+},
     coords: [22.7272, 49.0744],
     coordinates: { lat: 49.0744, lng: 22.7272 },
     description: {
@@ -160,7 +170,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-stolowe-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains" },
+    name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains",
+image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"
+},
     coords: [16.33, 50.48],
     coordinates: { lat: 50.48, lng: 16.33 },
     description: {
@@ -191,7 +203,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-pieniny-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains" },
+    name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains",
+image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"
+},
     coords: [20.45, 49.42],
     coordinates: { lat: 49.42, lng: 20.45 },
     description: {
@@ -222,7 +236,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-holy-cross-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains" },
+    name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains",
+image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"
+},
     coords: [21.0, 50.85],
     coordinates: { lat: 50.85, lng: 21.0 },
     description: {
@@ -253,7 +269,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-lysica-peak-relief-v2",
     type: "peak",
-    name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica" },
+    name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica",
+image: "/poi-images/poland-lysica-peak-relief-v2.webp"
+},
     coords: [20.9011, 50.8906],
     coordinates: { lat: 50.8906, lng: 20.9011 },
     description: {
@@ -284,7 +302,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-beskid-slaski-range-relief-v2",
     type: "mountain",
-    name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids" },
+    name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids",
+image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"
+},
     coords: [19.0, 49.65],
     coordinates: { lat: 49.65, lng: 19.0 },
     description: {
@@ -315,7 +335,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-skrzyczne-peak-relief-v2",
     type: "peak",
-    name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne" },
+    name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne",
+image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"
+},
     coords: [19.0303, 49.6844],
     coordinates: { lat: 49.6844, lng: 19.0303 },
     description: {
@@ -346,7 +368,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-turbacz-peak-relief-v2",
     type: "peak",
-    name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz" },
+    name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz",
+image: "/poi-images/poland-turbacz-peak-relief-v2.webp"
+},
     coords: [20.1114, 49.543],
     coordinates: { lat: 49.543, lng: 20.1114 },
     description: {
@@ -377,7 +401,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-jura-upland-relief-v2",
     type: "mountain",
-    name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland" },
+    name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland",
+image: "/poi-images/poland-jura-upland-relief-v2.webp"
+},
     coords: [19.8, 50.2],
     coordinates: { lat: 50.2, lng: 19.8 },
     description: {
@@ -408,7 +434,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-lublin-upland-relief-v2",
     type: "landmark",
-    name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland" },
+    name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland",
+image: "/poi-images/poland-lublin-upland-relief-v2.webp"
+},
     coords: [22.8, 51.2],
     coordinates: { lat: 51.2, lng: 22.8 },
     description: {
@@ -439,7 +467,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-sandomierz-basin-relief-v2",
     type: "valley",
-    name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin" },
+    name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin",
+image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"
+},
     coords: [22.0, 50.2],
     coordinates: { lat: 50.2, lng: 22.0 },
     description: {
@@ -471,7 +501,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-masurian-lake-district-relief-v2",
     type: "lake",
-    name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District" },
+    name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District",
+image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"
+},
     coords: [21.5, 53.8],
     coordinates: { lat: 53.8, lng: 21.5 },
     description: {
@@ -502,7 +534,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-lacka-dune-relief-v2",
     type: "landmark",
-    name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune" },
+    name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune",
+image: "/poi-images/poland-lacka-dune-relief-v2.webp"
+},
     coords: [17.4, 54.75],
     coordinates: { lat: 54.75, lng: 17.4 },
     description: {
@@ -533,7 +567,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-jelenia-gora-valley-relief-v2",
     type: "valley",
-    name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley" },
+    name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley",
+image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"
+},
     coords: [15.75, 50.9],
     coordinates: { lat: 50.9, lng: 15.75 },
     description: {
@@ -564,7 +600,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-beskid-zywiecki-range-relief-v2",
     type: "mountain",
-    name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids" },
+    name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids",
+image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"
+},
     coords: [19.3, 49.5],
     coordinates: { lat: 49.5, lng: 19.3 },
     description: {
@@ -595,7 +633,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-sudetes-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes" },
+    name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes",
+image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"
+},
     coords: [16.0, 50.5],
     coordinates: { lat: 50.5, lng: 16.0 },
     description: {
@@ -626,7 +666,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-beskid-niski-range-relief-v2",
     type: "mountain",
-    name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids" },
+    name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids",
+image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"
+},
     coords: [21.3, 49.4],
     coordinates: { lat: 49.4, lng: 21.3 },
     description: {
@@ -657,7 +699,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-pogorze-przemyskie-upland-relief-v2",
     type: "mountain",
-    name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills" },
+    name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills",
+image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"
+},
     coords: [22.6, 49.65],
     coordinates: { lat: 49.65, lng: 22.6 },
     description: {
@@ -688,7 +732,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-beskid-sadecki-range-relief-v2",
     type: "mountain",
-    name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids" },
+    name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids",
+image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"
+},
     coords: [20.8, 49.45],
     coordinates: { lat: 49.45, lng: 20.8 },
     description: {
@@ -719,7 +765,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-gorce-mountains-relief-v2",
     type: "mountain",
-    name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains" },
+    name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains",
+image: "/poi-images/poland-gorce-mountains-relief-v2.webp"
+},
     coords: [20.15, 49.55],
     coordinates: { lat: 49.55, lng: 20.15 },
     description: {
@@ -750,7 +798,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-north-european-plain-relief-v2",
     type: "landmark",
-    name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain" },
+    name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain",
+image: "/poi-images/poland-north-european-plain-relief-v2.webp"
+},
     coords: [19.0, 52.3],
     coordinates: { lat: 52.3, lng: 19.0 },
     description: {
@@ -782,7 +832,9 @@ export const polandReliefV2: POI[] = [
   {
     id: "poland-pogorze-wielickie-upland-relief-v2",
     type: "mountain",
-    name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills" },
+    name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills",
+image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp"
+},
     coords: [20.0, 49.9],
     coordinates: { lat: 49.9, lng: 20.0 },
     description: {

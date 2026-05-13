@@ -6,7 +6,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-NP",
     coords: [-77.348, 25.078],
-    name: { de: "Nassau Cargo Port", hu: "Nassau cargo kikoto", ro: "Portul de marfuri Nassau", en: "Nassau Cargo Port" },
+    name: { de: "Nassau Cargo Port", hu: "Nassau cargo kikoto", ro: "Portul de marfuri Nassau", en: "Nassau Cargo Port",
+image: "/poi-images/bs-nassau-cargo-port-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Umschlagplatz fuer Container und Handelswaren in Nassau.",
       hu: "Fontos kontener- es arukikoto Nassauban.",
@@ -37,7 +39,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-NP",
     coords: [-77.341, 25.0785],
-    name: { de: "Prince George Wharf", hu: "Prince George rakpart", ro: "Debarcaderul Prince George", en: "Prince George Wharf" },
+    name: { de: "Prince George Wharf", hu: "Prince George rakpart", ro: "Debarcaderul Prince George", en: "Prince George Wharf",
+image: "/poi-images/bs-prince-george-wharf-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Kreuzfahrtanleger im Hafen von Nassau.",
       hu: "A legfontosabb utasszallito hajo-kikoto Nassau partjan.",
@@ -68,7 +72,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-NP",
     coords: [-77.353, 25.066],
-    name: { de: "Arawak Cay Fish Port", hu: "Arawak Cay halaszati kikoto", ro: "Portul pescaresc Arawak Cay", en: "Arawak Cay Fish Port" },
+    name: { de: "Arawak Cay Fish Port", hu: "Arawak Cay halaszati kikoto", ro: "Portul pescaresc Arawak Cay", en: "Arawak Cay Fish Port",
+image: "/poi-images/bs-arawak-cay-fish-port-economic-v2.webp"
+},
     description: {
       de: "Ein lebhafter Fischerei- und Anlieferungspunkt westlich von Nassau.",
       hu: "Elo halaszati es beszallitasi pont Nassau nyugati reszen.",
@@ -99,7 +105,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-NP",
     coords: [-77.43, 25.05],
-    name: { de: "Clifton Pier Industrial Zone", hu: "Clifton Pier ipari zona", ro: "Zona industriala Clifton Pier", en: "Clifton Pier Industrial Zone" },
+    name: { de: "Clifton Pier Industrial Zone", hu: "Clifton Pier ipari zona", ro: "Zona industriala Clifton Pier", en: "Clifton Pier Industrial Zone",
+image: "/poi-images/bs-clifton-pier-industrial-economic-v2.webp"
+},
     description: {
       de: "Ein Industriegebiet mit Lagerung, Umschlag und kleinen Werkstaetten.",
       hu: "Ipari terulet raktarozassal, rakodassal es kis muhelyekkel.",
@@ -130,7 +138,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-NP",
     coords: [-77.41, 25.035],
-    name: { de: "Carmichael Road Business Park", hu: "Carmichael Road uzleti park", ro: "Parcul de afaceri Carmichael Road", en: "Carmichael Road Business Park" },
+    name: { de: "Carmichael Road Business Park", hu: "Carmichael Road uzleti park", ro: "Parcul de afaceri Carmichael Road", en: "Carmichael Road Business Park",
+image: "/poi-images/bs-carmichael-road-business-economic-v2.webp"
+},
     description: {
       de: "Ein wachsendes Gewerbegebiet mit Lagern und Dienstleistern.",
       hu: "Novenvo kereskedelmi terulet raktarakkal es szolgaltatokkal.",
@@ -161,7 +171,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-NP",
     coords: [-77.37, 25.03],
-    name: { de: "Cowpen Road Industrial Strip", hu: "Cowpen Road ipari sav", ro: "Fasia industriala Cowpen Road", en: "Cowpen Road Industrial Strip" },
+    name: { de: "Cowpen Road Industrial Strip", hu: "Cowpen Road ipari sav", ro: "Fasia industriala Cowpen Road", en: "Cowpen Road Industrial Strip",
+image: "/poi-images/bs-cowpen-road-industrial-economic-v2.webp"
+},
     description: {
       de: "Ein Band aus Werkstaetten, Depots und Handelsbetrieben im Stadtgebiet.",
       hu: "Muhelyek, depok es kereskedelmi cegek sora a varosban.",
@@ -192,7 +204,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-NP",
     coords: [-77.463, 25.049],
-    name: { de: "Lynden Pindling Cargo Area", hu: "Lynden Pindling cargo zona", ro: "Zona cargo Lynden Pindling", en: "Lynden Pindling Cargo Area" },
+    name: { de: "Lynden Pindling Cargo Area", hu: "Lynden Pindling cargo zona", ro: "Zona cargo Lynden Pindling", en: "Lynden Pindling Cargo Area",
+image: "/poi-images/bs-lynden-pindling-cargo-economic-v2.webp"
+},
     description: {
       de: "Ein Fracht- und Logistikbereich nahe dem Hauptflughafen.",
       hu: "Raklapos es logisztikai terulet a fo repuloter kozeleben.",
@@ -223,7 +237,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-FP",
     coords: [-78.628, 26.5205],
-    name: { de: "Port Lucaya Marina", hu: "Port Lucaya marina", ro: "Portul de iahturi Port Lucaya", en: "Port Lucaya Marina" },
+    name: { de: "Port Lucaya Marina", hu: "Port Lucaya marina", ro: "Portul de iahturi Port Lucaya", en: "Port Lucaya Marina",
+image: "/poi-images/bs-port-lucaya-marina-economic-v2.webp"
+},
     description: {
       de: "Ein marinaartiger Hafen mit Tourismus, Versorgung und Freizeitverkehr.",
       hu: "Turisztikai, ellatasi es szabadidos marina Freeport mellett.",
@@ -254,7 +270,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-FP",
     coords: [-78.695, 26.535],
-    name: { de: "Grand Bahama Shipyard", hu: "Grand Bahama hajojavito", ro: "Santierul naval Grand Bahama", en: "Grand Bahama Shipyard" },
+    name: { de: "Grand Bahama Shipyard", hu: "Grand Bahama hajojavito", ro: "Santierul naval Grand Bahama", en: "Grand Bahama Shipyard",
+image: "/poi-images/bs-grand-bahama-shipyard-economic-v2.webp"
+},
     description: {
       de: "Eine grosse Anlage fuer Schiffreparatur und maritime Dienstleistungen.",
       hu: "Nagy uzem hajojavitasra es tengeri szolgaltatasokra.",
@@ -285,7 +303,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-FP",
     coords: [-78.69, 26.52],
-    name: { de: "Freeport Industrial Park", hu: "Freeport ipari park", ro: "Parcul industrial Freeport", en: "Freeport Industrial Park" },
+    name: { de: "Freeport Industrial Park", hu: "Freeport ipari park", ro: "Parcul industrial Freeport", en: "Freeport Industrial Park",
+image: "/poi-images/bs-freeport-industrial-park-economic-v2.webp"
+},
     description: {
       de: "Das klassische Industrie- und Lagergebiet von Freeport.",
       hu: "A klasszikus ipari es raktari terulet Freeportban.",
@@ -316,7 +336,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-FP",
     coords: [-78.979, 26.687],
-    name: { de: "West End Ferry Port", hu: "West End komp kikoto", ro: "Portul de feribot West End", en: "West End Ferry Port" },
+    name: { de: "West End Ferry Port", hu: "West End komp kikoto", ro: "Portul de feribot West End", en: "West End Ferry Port",
+image: "/poi-images/bs-west-end-ferry-port-economic-v2.webp"
+},
     description: {
       de: "Ein Faehranleger mit Verbindungen zwischen Grand Bahama und Florida.",
       hu: "Kompkikoto Grand Bahama es Florida kozott.",
@@ -347,7 +369,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-AB",
     coords: [-77.063, 26.54],
-    name: { de: "Marsh Harbour Boat Yard", hu: "Marsh Harbour hajomuhely", ro: "Atelierul naval Marsh Harbour", en: "Marsh Harbour Boat Yard" },
+    name: { de: "Marsh Harbour Boat Yard", hu: "Marsh Harbour hajomuhely", ro: "Atelierul naval Marsh Harbour", en: "Marsh Harbour Boat Yard",
+image: "/poi-images/bs-marsh-harbour-boat-yard-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Bootsbau- und Reparaturzentrum in den Abacos.",
       hu: "Fontos hajoeplteto es javitasi kozpont az Abacoson.",
@@ -378,7 +402,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-AB",
     coords: [-77.001, 26.591],
-    name: { de: "Man-O-War Cay Boatbuilders", hu: "Man-O-War Cay hajoeptok", ro: "Constructorii de barci Man-O-War Cay", en: "Man-O-War Cay Boatbuilders" },
+    name: { de: "Man-O-War Cay Boatbuilders", hu: "Man-O-War Cay hajoeptok", ro: "Constructorii de barci Man-O-War Cay", en: "Man-O-War Cay Boatbuilders",
+image: "/poi-images/bs-man-o-war-cay-boatbuilders-economic-v2.webp"
+},
     description: {
       de: "Ein traditionelles Bootsbauviertel mit langem Handwerkserbe.",
       hu: "Hagyomanyos hajoeptoi negyed hosszu szakmai multtal.",
@@ -409,7 +435,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-SA",
     coords: [-77.292, 26.663],
-    name: { de: "Treasure Cay Marina", hu: "Treasure Cay marina", ro: "Marina Treasure Cay", en: "Treasure Cay Marina" },
+    name: { de: "Treasure Cay Marina", hu: "Treasure Cay marina", ro: "Marina Treasure Cay", en: "Treasure Cay Marina",
+image: "/poi-images/bs-treasure-cay-marina-economic-v2.webp"
+},
     description: {
       de: "Eine Tourismusmarina mit Versorgungs- und Liegeplaetzen.",
       hu: "Turisztikai marina ellatasi es kotesi helyekkel.",
@@ -440,7 +468,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-NO",
     coords: [-77.333, 26.767],
-    name: { de: "Green Turtle Cay Dock", hu: "Green Turtle Cay rakpart", ro: "Debarcaderul Green Turtle Cay", en: "Green Turtle Cay Dock" },
+    name: { de: "Green Turtle Cay Dock", hu: "Green Turtle Cay rakpart", ro: "Debarcaderul Green Turtle Cay", en: "Green Turtle Cay Dock",
+image: "/poi-images/bs-green-turtle-cay-dock-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber wichtiger Dock fuer Versorgung und Inselverkehr.",
       hu: "Kicsi, de fontos rakpart ellatasra es szigetkozlekedesre.",
@@ -471,7 +501,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-HI",
     coords: [-76.755, 25.541],
-    name: { de: "Spanish Wells Lobster Port", hu: "Spanish Wells homarkikoto", ro: "Portul de homari Spanish Wells", en: "Spanish Wells Lobster Port" },
+    name: { de: "Spanish Wells Lobster Port", hu: "Spanish Wells homarkikoto", ro: "Portul de homari Spanish Wells", en: "Spanish Wells Lobster Port",
+image: "/poi-images/bs-spanish-wells-lobster-port-economic-v2.webp"
+},
     description: {
       de: "Ein Fischerei- und Hummerumschlagplatz auf Spanish Wells.",
       hu: "Halaszati es homar rakodopont Spanish Wellsben.",
@@ -502,7 +534,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-NE",
     coords: [-76.658, 25.464],
-    name: { de: "North Eleuthera Fish Plant", hu: "North Eleuthera halkomu", ro: "Unitatea de peste North Eleuthera", en: "North Eleuthera Fish Plant" },
+    name: { de: "North Eleuthera Fish Plant", hu: "North Eleuthera halkomu", ro: "Unitatea de peste North Eleuthera", en: "North Eleuthera Fish Plant",
+image: "/poi-images/bs-north-eleuthera-fish-plant-economic-v2.webp"
+},
     description: {
       de: "Eine Verarbeitungsanlage fuer Fisch und Meeresfruechte.",
       hu: "Halas es tengeri gyumolcs feldolgozo uzem.",
@@ -533,7 +567,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-CE",
     coords: [-76.242, 25.197],
-    name: { de: "Governor's Harbour Pineapple House", hu: "Governor's Harbour ananasz feldolgozo", ro: "Casa ananasului din Governor's Harbour", en: "Governor's Harbour Pineapple House" },
+    name: { de: "Governor's Harbour Pineapple House", hu: "Governor's Harbour ananasz feldolgozo", ro: "Casa ananasului din Governor's Harbour", en: "Governor's Harbour Pineapple House",
+image: "/poi-images/bs-governors-harbour-pineapple-economic-v2.webp"
+},
     description: {
       de: "Ein Verarbeitungs- und Sammelpunkt fuer lokale Erzeugnisse.",
       hu: "Feldolgozo es gyujto pont helyi termekekhez.",
@@ -564,7 +600,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-SE",
     coords: [-76.196, 24.898],
-    name: { de: "Rock Sound Salt Works", hu: "Rock Sound solelo", ro: "Salina Rock Sound", en: "Rock Sound Salt Works" },
+    name: { de: "Rock Sound Salt Works", hu: "Rock Sound solelo", ro: "Salina Rock Sound", en: "Rock Sound Salt Works",
+image: "/poi-images/bs-rock-sound-salt-works-economic-v2.webp"
+},
     description: {
       de: "Ein Produktionsstandort fuer Salz und andere Rohprodukte.",
       hu: "So- es nyersanyag-termelo helyszin.",
@@ -595,7 +633,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-SE",
     coords: [-76.198, 24.965],
-    name: { de: "Tarpum Bay Farming Depot", hu: "Tarpum Bay gazdasagi depot", ro: "Depozitul agricol Tarpum Bay", en: "Tarpum Bay Farming Depot" },
+    name: { de: "Tarpum Bay Farming Depot", hu: "Tarpum Bay gazdasagi depot", ro: "Depozitul agricol Tarpum Bay", en: "Tarpum Bay Farming Depot",
+image: "/poi-images/bs-tarpum-bay-farming-depot-economic-v2.webp"
+},
     description: {
       de: "Ein Depot fuer landwirtschaftliche Produkte und lokale Verteilung.",
       hu: "Mezogazdasagi termekek es helyi elosztas depotja.",
@@ -626,7 +666,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-EX",
     coords: [-75.783, 23.517],
-    name: { de: "George Town Marina", hu: "George Town marina", ro: "Marina George Town", en: "George Town Marina" },
+    name: { de: "George Town Marina", hu: "George Town marina", ro: "Marina George Town", en: "George Town Marina",
+image: "/poi-images/bs-george-town-marina-economic-v2.webp"
+},
     description: {
       de: "Ein zentrales Hafenbecken fuer Yachten, Versorgung und Charterboote.",
       hu: "Kozponti kikotoi medence jachtokhoz, ellathoz es charterekhez.",
@@ -657,7 +699,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-EX",
     coords: [-76.012, 23.699],
-    name: { de: "Rolleville Fisheries Co-op", hu: "Rolleville halaszati kooperativa", ro: "Cooperativa de pescuit Rolleville", en: "Rolleville Fisheries Co-op" },
+    name: { de: "Rolleville Fisheries Co-op", hu: "Rolleville halaszati kooperativa", ro: "Cooperativa de pescuit Rolleville", en: "Rolleville Fisheries Co-op",
+image: "/poi-images/bs-rolleville-fisheries-coop-economic-v2.webp"
+},
     description: {
       de: "Eine Kooperative fuer Fang, Lagerung und Weiterverkauf.",
       hu: "Kooperativa halaszat, raktarozas es tovabertekesites celjabol.",
@@ -688,7 +732,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-EX",
     coords: [-76.333, 24.07],
-    name: { de: "Black Point Dock", hu: "Black Point rakpart", ro: "Debarcaderul Black Point", en: "Black Point Dock" },
+    name: { de: "Black Point Dock", hu: "Black Point rakpart", ro: "Debarcaderul Black Point", en: "Black Point Dock",
+image: "/poi-images/bs-black-point-dock-economic-v2.webp"
+},
     description: {
       de: "Ein lokaler Anlegepunkt fuer Versorgung und kleine Frachtschiffe.",
       hu: "Helyi kotopont ellatasra es kisebb teherhajokra.",
@@ -719,7 +765,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-LI",
     coords: [-74.97, 23.17],
-    name: { de: "Long Island Salt Works", hu: "Long Island solelo", ro: "Salina Long Island", en: "Long Island Salt Works" },
+    name: { de: "Long Island Salt Works", hu: "Long Island solelo", ro: "Salina Long Island", en: "Long Island Salt Works",
+image: "/poi-images/bs-long-island-salt-works-economic-v2.webp"
+},
     description: {
       de: "Ein Salzbetrieb, der die traditionelle Produktion auf der Insel fortsetzt.",
       hu: "Soipari telep, amely folytatja a hagyomanyos termelest.",
@@ -750,7 +798,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-LI",
     coords: [-75.091, 23.175],
-    name: { de: "Deadman's Cay Agri Depot", hu: "Deadman's Cay agrar depot", ro: "Depozitul agricol Deadman's Cay", en: "Deadman's Cay Agri Depot" },
+    name: { de: "Deadman's Cay Agri Depot", hu: "Deadman's Cay agrar depot", ro: "Depozitul agricol Deadman's Cay", en: "Deadman's Cay Agri Depot",
+image: "/poi-images/bs-deadmans-cay-agri-depot-economic-v2.webp"
+},
     description: {
       de: "Ein Umschlagpunkt fuer landwirtschaftliche Waren im Sueden von Long Island.",
       hu: "Mezogazdasagi aruk atadopontja Long Island del reszen.",
@@ -781,7 +831,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-NO",
     coords: [-77.767, 24.7],
-    name: { de: "Andros Crab Processing Plant", hu: "Andros rakk feldolgozo", ro: "Uzina de procesare a crabilor Andros", en: "Andros Crab Processing Plant" },
+    name: { de: "Andros Crab Processing Plant", hu: "Andros rakk feldolgozo", ro: "Uzina de procesare a crabilor Andros", en: "Andros Crab Processing Plant",
+image: "/poi-images/bs-andros-crab-plant-economic-v2.webp"
+},
     description: {
       de: "Eine Verarbeitungsanlage fuer Krabben und Meeresprodukte aus Andros.",
       hu: "Rakk es tengeri termek feldolgozo uzem Androsrol.",
@@ -812,7 +864,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-SO",
     coords: [-77.583, 24.15],
-    name: { de: "Congo Town Dock", hu: "Congo Town rakpart", ro: "Debarcaderul Congo Town", en: "Congo Town Dock" },
+    name: { de: "Congo Town Dock", hu: "Congo Town rakpart", ro: "Debarcaderul Congo Town", en: "Congo Town Dock",
+image: "/poi-images/bs-congo-town-dock-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner Dock fuer Versorgung und lokale Bootsverbindungen.",
       hu: "Kis rakpart ellatasra es helyi hajokhoz.",
@@ -843,7 +897,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "port",
     parent: "BS-SO",
     coords: [-77.633, 24.05],
-    name: { de: "Kemp's Bay Marina", hu: "Kemp's Bay marina", ro: "Marina Kemp's Bay", en: "Kemp's Bay Marina" },
+    name: { de: "Kemp's Bay Marina", hu: "Kemp's Bay marina", ro: "Marina Kemp's Bay", en: "Kemp's Bay Marina",
+image: "/poi-images/bs-kemps-bay-marina-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner Yachthafen mit Versorgungs- und Liegeangeboten.",
       hu: "Kis jachtkikoto ellatassal es kotessel.",
@@ -874,7 +930,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-IN",
     coords: [-73.64, 20.95],
-    name: { de: "Matthew Town Salt Pans", hu: "Matthew Town soleptek", ro: "Salinele Matthew Town", en: "Matthew Town Salt Pans" },
+    name: { de: "Matthew Town Salt Pans", hu: "Matthew Town soleptek", ro: "Salinele Matthew Town", en: "Matthew Town Salt Pans",
+image: "/poi-images/bs-matthew-town-salt-pans-economic-v2.webp"
+},
     description: {
       de: "Die Salzfelder von Great Inagua und ein Kernstandort der Inselwirtschaft.",
       hu: "Great Inagua somezei es a szigetgazdasag egyik kulcsa.",
@@ -905,7 +963,9 @@ export const poiExtraBahamasEconomicV2: POI[] = [
     type: "industry",
     parent: "BS-MG",
     coords: [-72.95, 22.367],
-    name: { de: "Abraham's Bay Trading Post", hu: "Abraham's Bay kereskedelmi allomas", ro: "Post comercial Abraham's Bay", en: "Abraham's Bay Trading Post" },
+    name: { de: "Abraham's Bay Trading Post", hu: "Abraham's Bay kereskedelmi allomas", ro: "Post comercial Abraham's Bay", en: "Abraham's Bay Trading Post",
+image: "/poi-images/bs-abrahams-bay-trading-post-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner Handelsplatz fuer Nachschub und lokale Versorgung.",
       hu: "Kis kereskedelmi helyi ellatasra es utantoltese.",

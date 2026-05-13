@@ -4,7 +4,9 @@ export const sloveniaLandmarksV2: POI[] = [
   {
     id: "slovenia-triple-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Drei Brücken", hu: "Hármas híd", ro: "Podul Triplu", en: "Triple Bridge" },
+    name: { de: "Drei Brücken", hu: "Hármas híd", ro: "Podul Triplu", en: "Triple Bridge",
+image: "/poi-images/slovenia-triple-bridge-landmarks-v2.webp"
+},
     coords: [14.5061, 46.0514],
     coordinates: { lat: 46.0514, lng: 14.5061 },
     description: {
@@ -19,11 +21,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Proiectat de arhitectul Jože Plečnik", "Extinderea a avut loc între 1929 și 1932", "Conectează Piața Prešeren cu orașul vechi", "Construit din calcar istoric"],
       en: ["Designed by architect Jože Plečnik", "The expansion occurred between 1929 and 1932", "Connects Prešeren Square with the old town", "Constructed from historical limestone"],
     },
-    imageHint: "Triple Bridge in Ljubljana with historical lamps", image: "/poi-images/slovenia-triple-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Triple Bridge in Ljubljana with historical lamps",
+    descriptionAdvanced: {
+      de: "Die markante Brückengruppe wurde zwischen 1929 und 1932 nach Plänen von Jože Plečnik erweitert. Die zwei seitlichen Fußgängerbrücken ergänzen die zentrale Steinbrücke von 1842 ideal.",
+      hu: "Ljubljana szívében található hídegyüttes, melyet Jože Plečnik bővített ki 1929 és 1932 között. Az eredeti 1842-es kőhidat két oldalsó gyalogoshíddal egészítették ki a nagyobb forgalomért.",
+      ro: "Grupul de trei poduri din centrul capitalei a fost proiectat de Jože Plečnik între 1929 și 1932. Acesta a adăugat două punți pietonale podului central de piatră construit în anul 1842.",
+      en: "This iconic ensemble of three bridges was designed by Jože Plečnik, who added two pedestrian side bridges to the central stone arch from 1842 between 1929 and 1932 for city expansion.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1929–1932", "Architekt: Jože Plečnik", "Zentrale Brücke: 1842 erbaut", "Material: Kalkstein und Beton"],
+      hu: ["Épült: 1929 és 1932 között", "Tervező: Jože Plečnik", "Középső híd kora: 1842", "Stílus: Modernista/Klasszicista"],
+      ro: ["Finalizat: 1932", "Arhitect: Jože Plečnik", "Pod central: construit în 1842", "Locație: Piața Prešeren"],
+      en: ["Built: 1929–1932", "Architect: Jože Plečnik", "Central bridge: from 1842", "Total bridges: 3 interconnected"],
+    },
+    image: "/poi-images/slovenia-triple-bridge-landmarks-v2.webp",
+},  {
     id: "slovenia-dragon-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Drachenbrücke", hu: "Sárkány híd", ro: "Podul Dragonilor", en: "Dragon Bridge" },
+    name: { de: "Drachenbrücke", hu: "Sárkány híd", ro: "Podul Dragonilor", en: "Dragon Bridge",
+image: "/poi-images/slovenia-dragon-bridge-landmarks-v2.webp"
+},
     coords: [14.5102, 46.052],
     coordinates: { lat: 46.052, lng: 14.5102 },
     description: {
@@ -38,11 +55,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1901", "Proiectat de Jurij Zaninović", "Dragonii sunt realizați din tablă de cupru bătută", "Numele original a fost Podul Jubileului"],
       en: ["Opened in the year 1901", "Designed by Jurij Zaninović", "Dragons are made of sheet copper", "Original name was Jubilee Bridge"],
     },
-    imageHint: "Dragon Bridge sculpture detail in Ljubljana", image: "/poi-images/slovenia-dragon-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Dragon Bridge sculpture detail in Ljubljana",
+    descriptionAdvanced: {
+      de: "Die 1901 eröffnete Drachenbrücke ist ein Meisterwerk des Jugendstils. Sie war eine der ersten Eisenbetonbrücken Europas und ist für ihre vier markanten Drachenstatuen weltberühmt.",
+      hu: "Az 1901-ben átadott Sárkány híd a szecesszió mesterműve és Európa egyik első vasbeton hídja volt. Nevét a sarkain álló négy ikonikus sárkányszoborról kapta, melyek a város jelképei.",
+      ro: "Inaugurat în 1901, Podul Dragonilor este o capodoperă Art Nouveau și una dintre primele structuri din beton armat din Europa. Este decorat cu patru statui impunătoare de dragoni verzi.",
+      en: "Opened in 1901, the Dragon Bridge is an Art Nouveau masterpiece and was one of Europe's first reinforced concrete bridges. It features four iconic dragon statues at its corners.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1901", "Stil: Wiener Secession", "Material: Eisenbeton", "Anzahl Drachen: 4 Statuen"],
+      hu: ["Átadás éve: 1901", "Stílus: Bécsi szecesszió", "Anyaga: Vasbeton", "Sárkányszobrok száma: 4"],
+      ro: ["An darea în folosință: 1901", "Stil: Art Nouveau", "Material: Beton armat", "Simbol: 4 dragoni din cupru"],
+      en: ["Opened: 1901", "Style: Vienna Secession", "Material: Reinforced concrete", "Dragon statues: 4 units"],
+    },
+    image: "/poi-images/slovenia-dragon-bridge-landmarks-v2.webp",
+},  {
     id: "slovenia-st-martin-church-bled-landmarks-v2",
     type: "church",
-    name: { de: "Pfarrkirche St. Martin", hu: "Szent Márton-plébániatemplom", ro: "Biserica parohială Sfântul Martin", en: "St. Martin's Parish Church" },
+    name: { de: "Pfarrkirche St. Martin", hu: "Szent Márton-plébániatemplom", ro: "Biserica parohială Sfântul Martin", en: "St. Martin's Parish Church",
+image: "/poi-images/slovenia-st-martin-church-bled-landmarks-v2.webp"
+},
     coords: [14.1044, 46.3703],
     coordinates: { lat: 46.3703, lng: 14.1044 },
     description: {
@@ -57,11 +89,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Proiectată de arhitectul Friedrich von Schmidt", "Conține fresce realizate între 1932 și 1937", "Turnul bisericii este vizibil de la distanță", "Situată la poalele dealului castelului Bled"],
       en: ["Designed by architect Friedrich von Schmidt", "Contains frescoes from 1932 to 1937", "The church tower is visible from afar", "Located at the foot of Bled Castle hill"],
     },
-    imageHint: "St. Martin Parish Church in Bled architecture", image: "/poi-images/slovenia-st-martin-church-bled-landmarks-v2.webp"},
-  {
+imageHint: "St. Martin Parish Church in Bled architecture",
+    descriptionAdvanced: {
+      de: "Die neugotische Pfarrkirche St. Martin am Bleder See wurde 1905 anstelle einer gotischen Vorgängerkirche errichtet. Die prächtigen Fresken im Inneren stammen von Slavko Pengov.",
+      hu: "A Bledi-tó partján álló Szent Márton-plébániatemplom 1905-ben épült neogótikus stílusban. A belső teret díszítő figyelemre méltó freskókat Slavko Pengov festette 1932 és 1937 között.",
+      ro: "Biserica Sfântul Martin din Bled a fost construită în 1905 în stil neogotic pe locul unui lăcaș mai vechi. Interiorul găzduiește fresce impresionante realizate de pictorul Slavko Pengov.",
+      en: "The Neo-Gothic St. Martin's Parish Church in Bled was completed in 1905, replacing an older Gothic structure. It features remarkable interior frescoes painted by artist Slavko Pengov.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1905", "Stil: Neugotik", "Architekt: Friedrich von Schmidt", "Fresken: von Slavko Pengov"],
+      hu: ["Építés éve: 1905", "Stílus: Neogótikus", "Tervező: Friedrich von Schmidt", "Freskók: Slavko Pengov"],
+      ro: ["An construcție: 1905", "Stil: Neogotic", "Arhitect: Friedrich von Schmidt", "Fresce interioare: Slavko Pengov"],
+      en: ["Built: 1905", "Style: Neo-Gothic", "Architect: Friedrich von Schmidt", "Interior: Slavko Pengov frescoes"],
+    },
+    image: "/poi-images/slovenia-st-martin-church-bled-landmarks-v2.webp",
+},  {
     id: "slovenia-franciscan-church-ljubljana-landmarks-v2",
     type: "church",
-    name: { de: "Franziskanerkirche", hu: "Ferences templom", ro: "Biserica Franciscană", en: "Franciscan Church" },
+    name: { de: "Franziskanerkirche", hu: "Ferences templom", ro: "Biserica Franciscană", en: "Franciscan Church",
+image: "/poi-images/slovenia-franciscan-church-ljubljana-landmarks-v2.webp"
+},
     coords: [14.5061, 46.0518],
     coordinates: { lat: 46.0518, lng: 14.5061 },
     description: {
@@ -76,11 +123,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Construită între 1646 și 1660", "Culoarea roșie simbolizează ordinul franciscan", "Frescele de pe tavan au fost refăcute după cutremurul din 1895", "Cea mai importantă clădire din piața centrală a orașului"],
       en: ["Built between 1646 and 1660", "The red color symbolizes the Franciscan order", "Ceiling frescoes were renewed after the 1895 earthquake", "Most prominent building on the city's central square"],
     },
-    imageHint: "Franciscan Church of the Annunciation in Ljubljana Prešeren Square", image: "/poi-images/slovenia-franciscan-church-ljubljana-landmarks-v2.webp"},
-  {
+imageHint: "Franciscan Church of the Annunciation in Ljubljana Prešeren Square",
+    descriptionAdvanced: {
+      de: "Die barocke Franziskanerkirche am Prešeren-Platz besticht durch ihre rote Fassade. Sie wurde zwischen 1646 und 1660 erbaut und beherbergt einen prachtvollen Hauptaltar von Francesco Robba.",
+      hu: "A Prešeren tér meghatározó eleme a vörös homlokzatú ferences templom, amely 1646 és 1660 között épült barokk stílusban. Főoltárát a neves olasz szobrász, Francesco Robba készítette.",
+      ro: "Biserica Franciscană a Bunei Vestiri domină Piața Prešeren cu fațada sa roșie distinctivă. Construită între 1646 și 1660, adăpostește un altar principal creat de Francesco Robba.",
+      en: "Dominating Prešeren Square with its red facade, the Franciscan Church was built between 1646 and 1660 in Baroque style. Its main altar is a masterpiece by sculptor Francesco Robba.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1646–1660", "Stil: Barock", "Fassade: Terrakottarot", "Altar: von Francesco Robba"],
+      hu: ["Épült: 1646–1660", "Stílus: Barokk", "Homlokzat színe: Vörös", "Oltár: Francesco Robba műve"],
+      ro: ["Perioada: 1646–1660", "Stil: Baroc", "Culoare fațadă: Roșu", "Sculptor altar: Francesco Robba"],
+      en: ["Built: 1646–1660", "Style: Baroque", "Facade color: Terracotta red", "Main altar: Francesco Robba"],
+    },
+    image: "/poi-images/slovenia-franciscan-church-ljubljana-landmarks-v2.webp",
+},  {
     id: "slovenia-st-nicholas-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "St.-Nikolaus-Kathedrale", hu: "Szent Miklós-székesegyház", ro: "Catedrala Sfântul Nicolae", en: "St. Nicholas Cathedral" },
+    name: { de: "St.-Nikolaus-Kathedrale", hu: "Szent Miklós-székesegyház", ro: "Catedrala Sfântul Nicolae", en: "St. Nicholas Cathedral",
+image: "/poi-images/slovenia-st-nicholas-cathedral-landmarks-v2.webp"
+},
     coords: [14.5083, 46.0508],
     coordinates: { lat: 46.0508, lng: 14.5083 },
     description: {
@@ -95,11 +157,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Cunoscută pentru porțile sale din bronz din 1996", "Interiorul este bogat decorat cu aur și fresce", "Orga a fost instalată în 1911", "Sediul Arhiepiscopiei Ljubljana"],
       en: ["Famous for its bronze portal doors made in 1996", "The interior is richly decorated with gold and frescoes", "The organ was installed in 1911", "Seat of the Archdiocese of Ljubljana"],
     },
-    imageHint: "Ljubljana Cathedral exterior with green dome", image: "/poi-images/slovenia-st-nicholas-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Ljubljana Cathedral exterior with green dome",
+    descriptionAdvanced: {
+      de: "Der Dom St. Nikolaus wurde nach Plänen von Andrea Pozzo im frühen 18. Jahrhundert errichtet. Berühmt sind die grünen Kuppeln und die massiven Bronzetüren mit Reliefs zur Landesgeschichte.",
+      hu: "A Szent Miklós-székesegyház Andrea Pozzo tervei alapján épült a 18. század elején. Zöld kupolája és a szlovén történelmet ábrázoló monumentális bronzkapui a város meghatározó jegyei.",
+      ro: "Catedrala Sfântul Nicolae a fost ridicată în secolul al XVIII-lea după planurile lui Andrea Pozzo. Este celebră pentru cupola verde și porțile din bronz cu reliefuri istorice.",
+      en: "St. Nicholas Cathedral was built in the early 18th century based on Andrea Pozzo's designs. It is famous for its green dome and massive bronze doors depicting Slovenian history.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1701–1706", "Architekt: Andrea Pozzo", "Stil: Barock", "Besonderheit: Bronzetüren (1996)"],
+      hu: ["Épült: 1701–1706", "Építész: Andrea Pozzo", "Stílus: Barokk", "Látnivaló: 1996-os bronzkapuk"],
+      ro: ["An construcție: 1701–1706", "Arhitect: Andrea Pozzo", "Stil: Baroc", "Uși: Bronz cu reliefuri"],
+      en: ["Built: 1701–1706", "Architect: Andrea Pozzo", "Style: Baroque", "Doors: Sculpted bronze (1996)"],
+    },
+    image: "/poi-images/slovenia-st-nicholas-cathedral-landmarks-v2.webp",
+},  {
     id: "slovenia-national-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Slowenisches Nationalmuseum", hu: "Szlovén Nemzeti Múzeum", ro: "Muzeul Național al Sloveniei", en: "National Museum of Slovenia" },
+    name: { de: "Slowenisches Nationalmuseum", hu: "Szlovén Nemzeti Múzeum", ro: "Muzeul Național al Sloveniei", en: "National Museum of Slovenia",
+image: "/poi-images/slovenia-national-museum-landmarks-v2.webp"
+},
     coords: [14.5, 46.0522],
     coordinates: { lat: 46.0522, lng: 14.5 },
     description: {
@@ -114,11 +191,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1821", "Deține un flaut neanderthalian vechi de 60.000 de ani", "Clădirea a fost inaugurată în 1888", "Situat vizavi de clădirea Parlamentului"],
       en: ["Founded in the year 1821", "Owns a 60,000-year-old Neanderthal flute", "The building was opened in 1888", "Located opposite the Parliament building"],
     },
-    imageHint: "National Museum of Slovenia building in Ljubljana", image: "/poi-images/slovenia-national-museum-landmarks-v2.webp"},
-  {
+imageHint: "National Museum of Slovenia building in Ljubljana",
+    descriptionAdvanced: {
+      de: "Das 1821 gegründete Nationalmuseum ist das älteste Museum Sloweniens. Das heutige Gebäude im Neorenaissance-Stil wurde 1888 eröffnet und beherbergt wertvolle archäologische Schätze.",
+      hu: "Az 1821-ben alapított Szlovén Nemzeti Múzeum az ország legrégebbi kulturális intézménye. Mai neoreneszánsz épülete 1888-ban nyílt meg, fontos régészeti leleteknek adva otthont.",
+      ro: "Fondat în 1821, Muzeul Național este cea mai veche instituție muzeală din Slovenia. Clădirea actuală, în stil neorenascentist, a fost inaugurată în 1888 și deține tezaure arheologice.",
+      en: "Founded in 1821, the National Museum of Slovenia is the country's oldest museum. Its Neo-Renaissance building, opened in 1888, houses significant archaeological collections.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1821", "Gebäude fertig: 1888", "Stil: Neorenaissance", "Standort: Ljubljana"],
+      hu: ["Alapítva: 1821", "Épület átadása: 1888", "Stílus: Neoreneszánsz", "Helyszín: Ljubljana"],
+      ro: ["Fondat: 1821", "Inaugurare clădire: 1888", "Stil: Neorenascentist", "Oraș: Ljubljana"],
+      en: ["Founded: 1821", "Building finished: 1888", "Style: Neo-Renaissance", "Location: Ljubljana"],
+    },
+    image: "/poi-images/slovenia-national-museum-landmarks-v2.webp",
+},  {
     id: "slovenia-philharmonic-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Slowenische Philharmonie", hu: "Szlovén Filharmónia", ro: "Filarmonica Slovenă", en: "Slovenian Philharmonic Hall" },
+    name: { de: "Slowenische Philharmonie", hu: "Szlovén Filharmónia", ro: "Filarmonica Slovenă", en: "Slovenian Philharmonic Hall",
+image: "/poi-images/slovenia-philharmonic-hall-landmarks-v2.webp"
+},
     coords: [14.5054, 46.0493],
     coordinates: { lat: 46.0493, lng: 14.5054 },
     description: {
@@ -133,11 +225,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Una dintre cele mai vechi societăți muzicale din lume", "Ludwig van Beethoven a fost membru de onoare", "Gustav Mahler a activat aici ca dirijor", "Clădirea are o acustică excelentă"],
       en: ["One of the oldest music societies in the world", "Ludwig van Beethoven was an honorary member", "Gustav Mahler worked here as a conductor", "The building has excellent acoustics"],
     },
-    imageHint: "Slovenian Philharmonic Hall building Congress Square", image: "/poi-images/slovenia-philharmonic-hall-landmarks-v2.webp"},
-  {
+imageHint: "Slovenian Philharmonic Hall building Congress Square",
+    descriptionAdvanced: {
+      de: "Die Slowenische Philharmonie am Kongressplatz wurde 1891 auf den Fundamenten des abgebrannten Staatstheaters errichtet. Sie ist Sitz einer der ältesten Musikgesellschaften der Welt.",
+      hu: "A Szlovén Filharmónia épülete 1891-ben épült a leégett Állami Színház alapjain. Az intézmény a világ egyik legrégebbi zenei társaságának, az 1701-es Academia Philharmonicorumnak az utódja.",
+      ro: "Filarmonica Slovenă a fost construită în 1891 pe fundațiile vechiului teatru. Găzduiește una dintre cele mai vechi societăți muzicale din lume, fondată inițial în anul 1701.",
+      en: "The Slovenian Philharmonic Hall was built in 1891 on the site of the former State Theatre. It houses one of the world's oldest musical societies, tracing back to 1701.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1891", "Gesellschaft gegr.: 1701", "Ort: Kongressplatz", "Architekt: Adolf Wagner"],
+      hu: ["Építés éve: 1891", "Társaság alapítva: 1701", "Helyszín: Kongresszusi tér", "Építész: Adolf Wagner"],
+      ro: ["An construcție: 1891", "Societate fondată: 1701", "Piața: Congresului", "Arhitect: Adolf Wagner"],
+      en: ["Built: 1891", "Society founded: 1701", "Location: Congress Square", "Architect: Adolf Wagner"],
+    },
+    image: "/poi-images/slovenia-philharmonic-hall-landmarks-v2.webp",
+},  {
     id: "slovenia-ljubljana-town-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Rathaus von Ljubljana", hu: "Ljubljanai városháza", ro: "Primăria din Ljubljana", en: "Ljubljana Town Hall" },
+    name: { de: "Rathaus von Ljubljana", hu: "Ljubljanai városháza", ro: "Primăria din Ljubljana", en: "Ljubljana Town Hall",
+image: "/poi-images/slovenia-ljubljana-town-hall-landmarks-v2.webp"
+},
     coords: [14.5069, 46.05],
     coordinates: { lat: 46.05, lng: 14.5069 },
     description: {
@@ -152,11 +259,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Proiectată de arhitectul Gregor Maček", "În fața intrării se află faimoasa Fântână Robba", "Curtea interioară este decorată cu picturi sgraffito", "Construită inițial în stil gotic în secolul al XV-lea"],
       en: ["Designed by architect Gregor Maček", "The famous Robba Fountain stands in front", "The inner courtyard is decorated with sgraffito paintings", "Originally built in Gothic style in the 15th century"],
     },
-    imageHint: "Ljubljana Town Hall building at Mestni trg", image: "/poi-images/slovenia-ljubljana-town-hall-landmarks-v2.webp"},
-  {
+imageHint: "Ljubljana Town Hall building at Mestni trg",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Ljubljana erhielt sein heutiges barockes Aussehen im Jahr 1717 durch Gregor Maček. Im Innenhof finden sich Reliefs und ein Brunnen, die an die Stadtgeschichte erinnern.",
+      hu: "Ljubljana városháza mai barokk formáját 1717-ben nyerte el Gregor Maček tervei alapján. A belső udvarban reneszánsz árkádok és a város történelmét idéző domborművek találhatók.",
+      ro: "Primăria din Ljubljana a primit aspectul baroc actual în 1717 sub îndrumarea lui Gregor Maček. Curtea interioară păstrează elemente gotice și renascentiste din clădirea originală.",
+      en: "Ljubljana's Town Hall acquired its current Baroque appearance in 1717, designed by Gregor Maček. The courtyard features Renaissance arcades and reliefs from the original 1484 site.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit (Barock): 1717–1719", "Erster Bau: 1484", "Architekt: Gregor Maček", "Stil: Barock"],
+      hu: ["Barokk átépítés: 1717", "Eredeti épület: 1484", "Tervező: Gregor Maček", "Stílus: Barokk"],
+      ro: ["Reconstrucție: 1717", "Prima atestare: 1484", "Arhitect: Gregor Maček", "Stil: Baroc"],
+      en: ["Baroque redesign: 1717", "Original build: 1484", "Architect: Gregor Maček", "Style: Baroque"],
+    },
+    image: "/poi-images/slovenia-ljubljana-town-hall-landmarks-v2.webp",
+},  {
     id: "slovenia-celje-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Altes Schloss Celje", hu: "Celjei óvár", ro: "Castelul Vechi din Celje", en: "Celje Old Castle" },
+    name: { de: "Altes Schloss Celje", hu: "Celjei óvár", ro: "Castelul Vechi din Celje", en: "Celje Old Castle",
+image: "/poi-images/slovenia-celje-castle-landmarks-v2.webp"
+},
     coords: [15.2717, 46.2208],
     coordinates: { lat: 46.2208, lng: 15.2717 },
     description: {
@@ -172,11 +294,25 @@ export const sloveniaLandmarksV2: POI[] = [
       en: ["First mentioned in the year 1322", "Consists of an upper and a lower castle", "Offers views of the confluence of Savinja and Voglajna rivers", "The Frederick Tower is 23 meters high"],
     },
     imageHint: "Celje Old Castle medieval fortifications aerial",
+    descriptionAdvanced: {
+      de: "Die Burg Celje war der Stammsitz der Grafen von Celje und ist die größte mittelalterliche Festung Sloweniens. Sie thront auf einem Hügel über der Stadt und bietet weite Ausblicke.",
+      hu: "A celjei vár a Cillei grófok székhelye volt, és ma Szlovénia legnagyobb középkori erődítménye. A város feletti dombon magasodó vár fontos stratégiai és kulturális emlékhely.",
+      ro: "Castelul Celje a fost reședința conților de Celje și reprezintă cea mai mare fortificație medievală din Slovenia. Oferă o panoramă spectaculoasă asupra orașului de pe dealul Grmada.",
+      en: "Celje Old Castle was the seat of the powerful Counts of Celje and remains the largest medieval fortress in Slovenia. It commands a strategic position on a hill overlooking the city.",
+    },
+    factsAdvanced: {
+      de: ["Größe: 5500 m²", "Gründung: 12. Jahrhundert", "Besitzer: Grafen von Celje", "Höhe: 407 m ü. M."],
+      hu: ["Alapterület: 5500 m²", "Eredete: 12. század", "Híres lakók: Cillei grófok", "Típus: Hegyi vár"],
+      ro: ["Suprafață: 5500 m²", "Fondare: secolul XII", "Proprietari: Conții de Celje", "Înălțime deal: 407 m"],
+      en: ["Area: 5500 m²", "Founded: 12th century", "Owners: Counts of Celje", "Elevation: 407 m"],
+    },
   },
   {
     id: "slovenia-zuzemberk-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Žužemberk", hu: "Zsusemberki vár", ro: "Castelul Žužemberk", en: "Žužemberk Castle" },
+    name: { de: "Schloss Žužemberk", hu: "Zsusemberki vár", ro: "Castelul Žužemberk", en: "Žužemberk Castle",
+image: "/poi-images/slovenia-zuzemberk-castle-landmarks-v2.webp"
+},
     coords: [14.9289, 45.8306],
     coordinates: { lat: 45.8306, lng: 14.9289 },
     description: {
@@ -191,11 +327,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Datează inițial din secolul al XIII-lea", "A fost în proprietatea familiei Auersperg", "Distrus aproape complet în Al Doilea Război Mondial", "Restaurat treptat începând cu anii 1960"],
       en: ["Originally dates from the 13th century", "Was owned by the Auersperg family", "Almost completely destroyed in WWII", "Being gradually restored since the 1960s"],
     },
-    imageHint: "Žužemberk Castle towers above Krka river", image: "/poi-images/slovenia-zuzemberk-castle-landmarks-v2.webp"},
-  {
+imageHint: "Žužemberk Castle towers above Krka river",
+    descriptionAdvanced: {
+      de: "Die Burg Žužemberk ist eine der markantesten Festungen in der Dolenjska-Region. Ihre charakteristischen runden Türme stammen aus dem 16. Jahrhundert, als sie zur Abwehr der Türken diente.",
+      hu: "A Žužemberk vára az Alsó-Krajna régió egyik leglátványosabb erődje. Jellegzetes kerek bástyái a 16. századból származnak, amikor a várat a török elleni védelem érdekében megerősítették.",
+      ro: "Castelul Žužemberk este una dintre cele mai pitorești fortărețe din regiunea Carniola de Jos. Turnurile sale rotunde masive au fost adăugate în secolul XVI pentru apărarea antiotomană.",
+      en: "Žužemberk Castle is a prominent fortress in the Lower Carniola region. Its characteristic round towers were built in the 16th century to strengthen defenses against Ottoman raids.",
+    },
+    factsAdvanced: {
+      de: ["Region: Unterkrain", "Bauzeit (Türme): 16. Jhdt.", "Zerstörung: 1945 (Brand)", "Besitzer: Auersperg (ab 1538)"],
+      hu: ["Régió: Alsó-Krajna", "Bástyák kora: 16. század", "Sérülés: 1945-ös bombázás", "Tulajdonos: Auersperg család"],
+      ro: ["Regiune: Carniola de Jos", "Secol turnuri: XVI", "Distrus parțial: 1945", "Proprietari: Familia Auersperg"],
+      en: ["Region: Lower Carniola", "Towers built: 16th century", "Damaged: 1945 (bombing)", "Owners: Auersperg family"],
+    },
+    image: "/poi-images/slovenia-zuzemberk-castle-landmarks-v2.webp",
+},  {
     id: "slovenia-plague-column-maribor-landmarks-v2",
     type: "monument",
-    name: { de: "Pestsäule Maribor", hu: "Pestisoszlop Maribor", ro: "Coloana Ciumei din Maribor", en: "Plague Column in Maribor" },
+    name: { de: "Pestsäule Maribor", hu: "Pestisoszlop Maribor", ro: "Coloana Ciumei din Maribor", en: "Plague Column in Maribor",
+image: "/poi-images/slovenia-plague-column-maribor-landmarks-v2.webp"
+},
     coords: [15.6458, 46.5583],
     coordinates: { lat: 46.5583, lng: 15.6458 },
     description: {
@@ -210,11 +361,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Creată de sculptorul Joseph Straub", "Realizată din marmură albă", "O înfățișează pe Maria pe o coloană corintică", "Înconjurată de șase statui de sfinți"],
       en: ["Created by sculptor Joseph Straub", "Made of white marble", "Depicts Mary on a Corinthian column", "Surrounded by six statues of saints"],
     },
-    imageHint: "Plague Column in Maribor Main Square", image: "/poi-images/slovenia-plague-column-maribor-landmarks-v2.webp"},
-  {
+imageHint: "Plague Column in Maribor Main Square",
+    descriptionAdvanced: {
+      de: "Die Pestsäule auf dem Hauptplatz von Maribor wurde 1743 von Joseph Straub geschaffen. Sie erinnert an die Überwindung der Pestepidemie von 1680 und ist ein Juwel des Barock.",
+      hu: "A maribori Fő téren álló Pestis-oszlopot Joseph Straub készítette 1743-ban. Az 1680-as pestisjárvány emlékére emelt monumentális barokk emlékmű fehérmárványból készült szobrokkal díszített.",
+      ro: "Coloana Ciumei din piața centrală a orașului Maribor a fost realizată de Joseph Straub în 1743. Monumentul baroc din marmură albă comemorează sfârșitul epidemiei de ciumă din 1680.",
+      en: "The Plague Column in Maribor's Main Square was crafted by Joseph Straub in 1743. This Baroque masterpiece in white marble commemorates the end of the 1680 plague epidemic.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 1743", "Bildhauer: Joseph Straub", "Material: Marmor", "Anlass: Pest von 1680"],
+      hu: ["Állítva: 1743", "Szobrász: Joseph Straub", "Anyaga: Márvány", "Emlék: 1680-as járvány"],
+      ro: ["An ridicare: 1743", "Sculptor: Joseph Straub", "Material: Marmură", "Comemorează: Ciuma din 1680"],
+      en: ["Erected: 1743", "Sculptor: Joseph Straub", "Material: Marble", "Occasion: 1680 plague"],
+    },
+    image: "/poi-images/slovenia-plague-column-maribor-landmarks-v2.webp",
+},  {
     id: "slovenia-old-vine-house-landmarks-v2",
     type: "landmark",
-    name: { de: "Haus der Alten Rebe", hu: "Az Öreg Szőlő Háza", ro: "Casa Vechii Vițe de Vie", en: "Old Vine House" },
+    name: { de: "Haus der Alten Rebe", hu: "Az Öreg Szőlő Háza", ro: "Casa Vechii Vițe de Vie", en: "Old Vine House",
+image: "/poi-images/slovenia-old-vine-house-landmarks-v2.webp"
+},
     coords: [15.6439, 46.5572],
     coordinates: { lat: 46.5572, lng: 15.6439 },
     description: {
@@ -229,11 +395,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Vița aparține soiului 'Žametovka'", "Casa găzduiește o vinotecă și un muzeu", "Anual se produce o cantitate mică de vin din ea", "Clădirea datează din secolul al XVI-lea"],
       en: ["The vine belongs to the 'Žametovka' variety", "The house contains a wine shop and museum", "A small amount of wine is produced from it annually", "The building dates from the 16th century"],
     },
-    imageHint: "Old Vine House in Maribor with green vine on facade", image: "/poi-images/slovenia-old-vine-house-landmarks-v2.webp"},
-  {
+imageHint: "Old Vine House in Maribor with green vine on facade",
+    descriptionAdvanced: {
+      de: "Das Haus der Alten Rebe in Maribor beherbergt die älteste edle Weinrebe der Welt. Die über 450 Jahre alte Pflanze trägt noch immer Trauben und ist im Guinness-Buch der Rekorde verzeichnet.",
+      hu: "A Mariborban található Öreg Szőlő Háza a világ legidősebb nemes szőlőtőkéjének ad otthont. A több mint 450 éves növény ma is terem gyümölcsöt, és szerepel a Guinness Rekordok Könyvében.",
+      ro: "Casa Vechii Vițe de Vie din Maribor adăpostește cea mai bătrână viță de vie din lume. Planta are peste 450 de ani, încă produce struguri și este înscrisă în Guinness World Records.",
+      en: "The Old Vine House in Maribor is home to the world's oldest productive grape vine. Over 450 years old, the vine still yields fruit and is listed in the Guinness Book of Records.",
+    },
+    factsAdvanced: {
+      de: ["Rebenalter: 450+ Jahre", "Sorte: Žametovka", "Ertrag: ca. 35–55 kg/Jahr", "Ort: Stadtteil Lent"],
+      hu: ["Szőlő kora: 450+ év", "Fajtája: Žametovka", "Termés: évi 35–55 kg", "Helyszín: Lent negyed"],
+      ro: ["Vârstă viță: 450+ ani", "Soi: Žametovka", "Producție: 35–55 kg/an", "Cartier: Lent"],
+      en: ["Vine age: 450+ years", "Variety: Žametovka", "Annual yield: 35–55 kg", "District: Lent"],
+    },
+    image: "/poi-images/slovenia-old-vine-house-landmarks-v2.webp",
+},  {
     id: "slovenia-kostanjevica-monastery-landmarks-v2",
     type: "landmark",
-    name: { de: "Zisterzienserkloster Kostanjevica", hu: "Kosztanjevicai ciszterci kolostor", ro: "Mănăstirea Cisterciană Kostanjevica", en: "Kostanjevica Monastery" },
+    name: { de: "Zisterzienserkloster Kostanjevica", hu: "Kosztanjevicai ciszterci kolostor", ro: "Mănăstirea Cisterciană Kostanjevica", en: "Kostanjevica Monastery",
+image: "/poi-images/slovenia-kostanjevica-monastery-landmarks-v2.webp"
+},
     coords: [15.4214, 45.8456],
     coordinates: { lat: 45.8456, lng: 15.4214 },
     description: {
@@ -248,11 +429,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Fondată în 1234 de Bernhard von Spanheim", "Dispune de cea mai mare curte interioară cu arcade din țară", "Biserica mănăstirii este în stil romanico-gotic", "Găzduiește lucrări ale expresioniștilor sloveni"],
       en: ["Founded in 1234 by Bernhard von Spanheim", "Features the largest arcaded courtyard in the country", "The monastery church is in Romanesque-Gothic style", "Houses works by Slovenian expressionist artists"],
     },
-    imageHint: "Kostanjevica na Krki monastery building and courtyard", image: "/poi-images/slovenia-kostanjevica-monastery-landmarks-v2.webp"},
-  {
+imageHint: "Kostanjevica na Krki monastery building and courtyard",
+    descriptionAdvanced: {
+      de: "Das Zisterzienserkloster Kostanjevica na Krki, gegründet 1234, beeindruckt durch einen der größten Arkadenhöfe Europas. Heute beherbergt es die renommierte Božidar Jakac Galerie.",
+      hu: "A Kostanjevica na Krki-i ciszterci kolostort 1234-ben alapították. Európa egyik legnagyobb árkádos udvarával büszkélkedhet, ma pedig a Božidar Jakac Galériának ad otthont.",
+      ro: "Mănăstirea cisterciană din Kostanjevica na Krki a fost fondată în 1234. Complexul are una dintre cele mai mari curți interioare cu arcade din Europa și găzduiește o galerie de artă.",
+      en: "Founded in 1234, the Cistercian Monastery in Kostanjevica na Krki features one of Europe's largest arcaded courtyards. It now houses the prestigious Božidar Jakac Art Gallery.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1234", "Orden: Zisterzienser", "Besonderheit: Arkadenhof", "Heutige Nutzung: Galerie"],
+      hu: ["Alapítva: 1234", "Rend: Ciszterci", "Fő jellemző: Árkádos udvar", "Mai funkció: Képtár"],
+      ro: ["Fondată: 1234", "Ordin: Cistercian", "Element cheie: Curte cu arcade", "Utilizare: Galeria de artă"],
+      en: ["Founded: 1234", "Order: Cistercian", "Feature: Arcaded courtyard", "Current use: Art gallery"],
+    },
+    image: "/poi-images/slovenia-kostanjevica-monastery-landmarks-v2.webp",
+},  {
     id: "slovenia-solkan-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Solkan-Brücke", hu: "Solkani híd", ro: "Podul Solkan", en: "Solkan Bridge" },
+    name: { de: "Solkan-Brücke", hu: "Solkani híd", ro: "Podul Solkan", en: "Solkan Bridge",
+image: "/poi-images/slovenia-solkan-bridge-landmarks-v2.webp"
+},
     coords: [13.6517, 45.9789],
     coordinates: { lat: 45.9789, lng: 13.6517 },
     description: {
@@ -267,11 +463,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Construit între 1900 și 1905", "Parte a liniei ferate istorice Bohinj", "Distrus în Primul Război Mondial și reconstruit ulterior", "Format din 4.533 de blocuri de piatră"],
       en: ["Built between 1900 and 1905", "Part of the historic Bohinj railway line", "Destroyed in WWI and later rebuilt", "Composed of 4,533 stone blocks"],
     },
-    imageHint: "Solkan Bridge stone arch over Soča river", image: "/poi-images/slovenia-solkan-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Solkan Bridge stone arch over Soča river",
+    descriptionAdvanced: {
+      de: "Die 1906 fertiggestellte Solkan-Brücke über die Soča hält den Weltrekord für den längsten Steinbogen einer Eisenbahnbrücke. Der Hauptbogen überspannt beeindruckende 85 Meter.",
+      hu: "A Soča folyó felett átívelő, 1906-ban befejezett solkani híd világrekordot tart: ez a leghosszabb kőboltozatos vasúti híd a világon. Fő ívének fesztávolsága eléri a 85 métert.",
+      ro: "Podul Solkan de peste râul Soča, finalizat în 1906, deține recordul mondial pentru cel mai lung arc de piatră al unui pod feroviar. Arcul său central are o deschidere de 85 de metri.",
+      en: "Completed in 1906, the Solkan Bridge over the Soča River holds the world record for the longest stone arch railway bridge. Its central arch spans an impressive 85 meters.",
+    },
+    factsAdvanced: {
+      de: ["Spannweite: 85 Meter", "Bauzeit: 1904–1905", "Material: Haustein", "Fluss: Soča"],
+      hu: ["Ív fesztávolsága: 85 méter", "Épült: 1904–1905", "Anyaga: Kőfaragványok", "Folyó: Soča (Isonzó)"],
+      ro: ["Deschidere arc: 85 m", "Construcție: 1904–1905", "Material: Blocurile de piatră", "Râu: Soča"],
+      en: ["Arch span: 85 meters", "Built: 1904–1905", "Material: Cut stone", "River: Soča"],
+    },
+    image: "/poi-images/slovenia-solkan-bridge-landmarks-v2.webp",
+},  {
     id: "slovenia-military-history-park-landmarks-v2",
     type: "museum",
-    name: { de: "Park der Militärgeschichte Pivka", hu: "Pivkai Hadtörténeti Park", ro: "Parcul de Istorie Militară din Pivka", en: "Park of Military History in Pivka" },
+    name: { de: "Park der Militärgeschichte Pivka", hu: "Pivkai Hadtörténeti Park", ro: "Parcul de Istorie Militară din Pivka", en: "Park of Military History in Pivka",
+image: "/poi-images/slovenia-military-history-park-landmarks-v2.webp"
+},
     coords: [14.1833, 45.6667],
     coordinates: { lat: 45.6667, lng: 14.1833 },
     description: {
@@ -286,11 +497,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Piesa centrală este un submarin iugoslav", "Cel mai mare centru muzeal din Slovenia", "Găzduiește expoziții despre Războiul de Independență din 1991", "Situat pe linia ferată strategică spre Trieste"],
       en: ["The centerpiece is a Yugoslav submarine", "Largest museum center in Slovenia", "Houses exhibitions on the 1991 Independence War", "Located on the strategic railway line to Trieste"],
     },
-    imageHint: "Military History Park Pivka tanks and submarine", image: "/poi-images/slovenia-military-history-park-landmarks-v2.webp"},
-  {
+imageHint: "Military History Park Pivka tanks and submarine",
+    descriptionAdvanced: {
+      de: "Der Park der Militärgeschichte in Pivka bietet Einblicke in die slowenische und europäische Militärhistorie. Highlight ist ein Sabotage-U-Boot aus jugoslawischer Produktion.",
+      hu: "A pivkai Hadtörténeti Park Szlovénia és Európa katonai múltját mutatja be. Legismertebb kiállítási tárgya egy jugoszláv gyártmányú P-913 Zeta szabotázs-tengeralattjáró.",
+      ro: "Parcul Istoriei Militare din Pivka este un muzeu vast dedicat tehnicii militare. Piesa centrală a colecției este un submarin de buzunar iugoslav din clasa Una, care poate fi vizitat.",
+      en: "The Park of Military History in Pivka showcases Slovenian and European military heritage. A major highlight is the P-913 Zeta, a former Yugoslav sabotage submarine open to visitors.",
+    },
+    factsAdvanced: {
+      de: ["Ort: Pivka", "Exponat: U-Boot P-913", "Themen: Panzer, Flugzeuge", "Typ: Militärmuseum"],
+      hu: ["Helyszín: Pivka", "Fő látnivaló: P-913 tengeralattjáró", "Téma: Harckocsik, repülők", "Típus: Szabadtéri múzeum"],
+      ro: ["Locație: Pivka", "Exponat: Submarinul P-913", "Colecții: Tancuri, avioane", "Tip: Muzeu tehnic"],
+      en: ["Location: Pivka", "Key exhibit: Submarine P-913", "Items: Tanks, aircraft", "Type: Military museum"],
+    },
+    image: "/poi-images/slovenia-military-history-park-landmarks-v2.webp",
+},  {
     id: "slovenia-plecnik-house-landmarks-v2",
     type: "museum",
-    name: { de: "Plečnik-Haus", hu: "Plečnik-ház", ro: "Casa Plečnik", en: "Plečnik House" },
+    name: { de: "Plečnik-Haus", hu: "Plečnik-ház", ro: "Casa Plečnik", en: "Plečnik House",
+image: "/poi-images/slovenia-plecnik-house-landmarks-v2.webp"
+},
     coords: [14.5042, 46.0422],
     coordinates: { lat: 46.0422, lng: 14.5042 },
     description: {
@@ -305,11 +531,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Aici au fost create planurile pentru Ljubljana modernă", "Casa a fost deschisă ca muzeu în 1972", "Plečnik a locuit aici între 1921 și 1957", "Conține o colecție de obiecte personale și planuri"],
       en: ["The designs for modern Ljubljana were created here", "The house opened as a museum in 1972", "Plečnik lived here from 1921 to 1957", "Contains a collection of personal objects and plans"],
     },
-    imageHint: "Plečnik House architecture Trnovo Ljubljana", image: "/poi-images/slovenia-plecnik-house-landmarks-v2.webp"},
-  {
+imageHint: "Plečnik House architecture Trnovo Ljubljana",
+    descriptionAdvanced: {
+      de: "Das Plečnik-Haus in Trnovo war Wohnsitz und Werkstatt des Architekten Jože Plečnik. Es bewahrt die originalen Möbel und Arbeitsutensilien des Meisters in authentischer Atmosphäre.",
+      hu: "A ljubljanai Trnovo negyedben található Plečnik-ház Jože Plečnik építész lakhelye és műhelye volt. A múzeum eredeti bútorokkal és eszközökkel őrzi a mester hagyatékát.",
+      ro: "Casa Plečnik din cartierul Trnovo a fost reședința și atelierul celebrului arhitect Jože Plečnik. Muzeul păstrează mobilierul original și instrumentele de lucru ale maestrului.",
+      en: "Plečnik House in the Trnovo district was the home and studio of architect Jože Plečnik. The museum preserves his original furniture, workspace, and personal belongings authentically.",
+    },
+    factsAdvanced: {
+      de: ["Bewohner: Jože Plečnik", "Zeitraum: 1921–1957", "Ort: Stadtteil Trnovo", "Status: Nationaldenkmal"],
+      hu: ["Lakója: Jože Plečnik", "Időszak: 1921–1957", "Helyszín: Trnovo negyed", "Státusz: Nemzeti műemlék"],
+      ro: ["Rezident: Jože Plečnik", "Perioada: 1921–1957", "Cartier: Trnovo", "Tip: Casă memorială"],
+      en: ["Resident: Jože Plečnik", "Period: 1921–1957", "District: Trnovo", "Status: National monument"],
+    },
+    image: "/poi-images/slovenia-plecnik-house-landmarks-v2.webp",
+},  {
     id: "slovenia-neboticnik-skyscraper-landmarks-v2",
     type: "landmark",
-    name: { de: "Nebotičnik", hu: "Nebotičnik", ro: "Nebotičnik", en: "Nebotičnik (Skyscraper)" },
+    name: { de: "Nebotičnik", hu: "Nebotičnik", ro: "Nebotičnik", en: "Nebotičnik (Skyscraper)",
+image: "/poi-images/slovenia-neboticnik-skyscraper-landmarks-v2.webp"
+},
     coords: [14.5036, 46.0531],
     coordinates: { lat: 46.0531, lng: 14.5036 },
     description: {
@@ -324,11 +565,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Înălțimea totală este de 70,35 metri", "Proiectat de arhitectul Vladimir Šubic", "Dispune de o cafenea faimoasă cu terasă pe acoperiș", "Clădirea are 13 etaje"],
       en: ["Total height is 70.35 meters", "Designed by architect Vladimir Šubic", "Features a famous cafe with a rooftop terrace", "The building has 13 floors"],
     },
-    imageHint: "Nebotičnik skyscraper in Ljubljana with city view", image: "/poi-images/slovenia-neboticnik-skyscraper-landmarks-v2.webp"},
-  {
+imageHint: "Nebotičnik skyscraper in Ljubljana with city view",
+    descriptionAdvanced: {
+      de: "Der 1933 fertiggestellte Nebotičnik war bei seiner Eröffnung das höchste Gebäude auf dem Balkan. Das modernistische Hochhaus bietet von seiner Dachterrasse einen Panoramablick.",
+      hu: "Az 1933-ban átadott Nebotičnik (Felhőkarcoló) építésekor a Balkán legmagasabb lakóépülete volt. A modernista stílusú toronyház tetőteraszáról lélegzetelállító panoráma nyílik a városra.",
+      ro: "Nebotičnik, finalizat în 1933, a fost cea mai înaltă clădire din Balcani la momentul inaugurării sale. Turnul modernist oferă o vedere panoramică superbă de pe terasa sa de la ultimul etaj.",
+      en: "Completed in 1933, Nebotičnik (The Skyscraper) was the tallest building in the Balkans when it opened. This modernist landmark features a rooftop terrace with panoramic city views.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 70,35 Meter", "Baujahr: 1933", "Architekt: Vladimir Šubic", "Etagen: 13 Stockwerke"],
+      hu: ["Magasság: 70,35 méter", "Épült: 1933", "Tervező: Vladimir Šubic", "Emeletek száma: 13"],
+      ro: ["Înălțime: 70,35 m", "An finalizare: 1933", "Arhitect: Vladimir Šubic", "Număr etaje: 13"],
+      en: ["Height: 70.35 meters", "Completed: 1933", "Architect: Vladimir Šubic", "Floors: 13 stories"],
+    },
+    image: "/poi-images/slovenia-neboticnik-skyscraper-landmarks-v2.webp",
+},  {
     id: "slovenia-velenje-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Velenje", hu: "Velenjei vár", ro: "Castelul Velenje", en: "Velenje Castle" },
+    name: { de: "Schloss Velenje", hu: "Velenjei vár", ro: "Castelul Velenje", en: "Velenje Castle",
+image: "/poi-images/slovenia-velenje-castle-landmarks-v2.webp"
+},
     coords: [15.1153, 46.3619],
     coordinates: { lat: 46.3619, lng: 15.1153 },
     description: {
@@ -344,11 +600,25 @@ export const sloveniaLandmarksV2: POI[] = [
       en: ["Built in the 13th century, later remodeled in Renaissance style", "Features a magnificent arcaded inner courtyard", "Houses the significant art collection of František Foit", "Considered one of Slovenia's most beautiful castle sites"],
     },
     imageHint: "Velenje Castle on a hill over the town",
+    descriptionAdvanced: {
+      de: "Die Burg Velenje ist eine der am besten erhaltenen Burgen Sloweniens. Ursprünglich im 13. Jahrhundert erbaut, erhielt sie im 16. Jahrhundert ihr prachtvolles Renaissance-Aussehen.",
+      hu: "A velenjei vár Szlovénia egyik legjobb állapotban fennmaradt erődítménye. A 13. századi alapokon nyugvó épület a 16. században nyerte el impozáns reneszánsz formáját.",
+      ro: "Castelul Velenje este unul dintre cele mai bine conservate castele din Slovenia. Fondat în secolul XIII, a fost transformat în secolul XVI într-o reședință nobiliară renascentistă.",
+      en: "Velenje Castle is one of Slovenia's best-preserved fortresses. Originally built in the 13th century, it was redesigned in the 16th century into a magnificent Renaissance residence.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit (Renaissance): 16. Jhdt.", "Gründung: 13. Jahrhundert", "Besonderheit: Biedermeier-Zimmer", "Nutzer: Museum Velenje"],
+      hu: ["Reneszánsz kor: 16. század", "Alapítva: 13. század", "Érdekesség: Biedermeier szoba", "Hasznosítás: Várkastély múzeum"],
+      ro: ["Secol renovare: XVI", "Prima atestare: secolul XIII", "Expoziție: Mobilier Biedermeier", "Funcție: Muzeu local"],
+      en: ["Renaissance redesign: 16th c.", "First mentioned: 13th c.", "Key feature: Biedermeier room", "Current use: Velenje Museum"],
+    },
   },
   {
     id: "slovenia-praetorian-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Prätorenpalast", hu: "Prétori palota", ro: "Palatul Pretorian", en: "Praetorian Palace" },
+    name: { de: "Prätorenpalast", hu: "Prétori palota", ro: "Palatul Pretorian", en: "Praetorian Palace",
+image: "/poi-images/slovenia-praetorian-palace-landmarks-v2.webp"
+},
     coords: [13.7303, 45.5483],
     coordinates: { lat: 45.5483, lng: 13.7303 },
     description: {
@@ -363,12 +633,27 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Clădirea actuală datează din secolul al XV-lea", "Fațada este decorată cu blazoane și statui", "Astăzi găzduiește starea civilă și un muzeu", "Zidul exterior prezintă creneluri în stil ghibelin"],
       en: ["The current building dates from the 15th century", "The facade is decorated with coats of arms and statues", "Today houses the registry office and a museum", "The outer wall features Ghibelline-style battlements"],
     },
-    imageHint: "Praetorian Palace Koper Venetian Gothic architecture", image: "/poi-images/slovenia-praetorian-palace-landmarks-v2.webp"}
-,
+imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
+    descriptionAdvanced: {
+      de: "Der Prätorenpalast am Titoplatz in Koper ist ein herausragendes Beispiel venezianischer Gotik. Er dient seit dem 15. Jahrhundert als Sitz der Stadtverwaltung und als Standesamt.",
+      hu: "A koperi Tito téren álló Prétori palota a velencei gótika kiemelkedő példája. A 15. század óta a város igazgatási központja, ma a polgármesteri hivatalnak és a díszteremnek ad otthont.",
+      ro: "Palatul Pretorian din Piața Tito (Koper) este un monument remarcabil de stil gotic venețian. Edificiul din secolul XV servește drept sediu al primăriei și al consiliului municipal.",
+      en: "The Praetorian Palace on Koper's Tito Square is an outstanding example of Venetian Gothic architecture. Since the 15th century, it has served as the city's administrative heart.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 15. Jahrhundert", "Stil: Venezianische Gotik", "Ort: Koper, Tito-Platz", "Nutzung: Rathaus"],
+      hu: ["Épült: 15. század", "Stílus: Velencei gótika", "Hely: Koper, Tito tér", "Funkció: Városháza"],
+      ro: ["Secol construcție: XV", "Stil: Gotic venețian", "Oraș: Koper", "Funcție: Primărie"],
+      en: ["Built: 15th century", "Style: Venetian Gothic", "City: Koper", "Use: City Hall"],
+    },
+    image: "/poi-images/slovenia-praetorian-palace-landmarks-v2.webp",
+},
   {
     id: "slovenia-koper-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Koper", hu: "Koperi székesegyház", ro: "Catedrala din Koper", en: "Koper Cathedral" },
+    name: { de: "Kathedrale von Koper", hu: "Koperi székesegyház", ro: "Catedrala din Koper", en: "Koper Cathedral",
+image: "/poi-images/slovenia-koper-cathedral-landmarks-v2.webp"
+},
     coordinates: { lat: 45.5484, lng: 13.7297 },
     description: {
       de: "Die Kathedrale Mariä Himmelfahrt ist ein bedeutendes religiöses Bauwerk am Tito-Platz in Koper. Sie wurde im 12. Jahrhundert errichtet und vereint romanische sowie gotische Baustile.",
@@ -383,11 +668,25 @@ export const sloveniaLandmarksV2: POI[] = [
       en: ["Seat of the Diocese of Koper", "Features a 54-meter high bell tower", "Houses a large painting by Vittore Carpaccio", "Redesigned in Baroque style in the 18th century"],
     },
     imageHint: "Koper Cathedral Assumption of Mary facade and bell tower",
+    descriptionAdvanced: {
+      de: "Die Kathedrale Mariä Himmelfahrt in Koper vereint romanische und gotische Elemente mit einer barocken Innenausstattung. Der markante Glockenturm stammt ursprünglich aus dem 12. Jhdt.",
+      hu: "A koperi Mária Mennybemenetele-székesegyház romanika, gótika és barokk stílusjegyeket ötvöz. Harangtornya a 12. századból ered, és Szlovénia egyik legrégebbi harangjával büszkélkedhet.",
+      ro: "Catedrala Adormirea Maicii Domnului din Koper îmbină stilurile romanic, gotic și baroc. Turnul clopotniță din secolul XII oferă o panoramă superbă asupra portului și orașului.",
+      en: "The Koper Cathedral of the Assumption blends Romanesque and Gothic architecture with a rich Baroque interior. Its 12th-century bell tower houses one of the country's oldest bells.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 54 Meter", "Glockenalter: von 1333", "Stil: Romanik/Goti/Barock", "Standort: Koper"],
+      hu: ["Torony magassága: 54 méter", "Harang kora: 1333-ból", "Stílus: Romanika/Gótika/Barokk", "Város: Koper"],
+      ro: ["Înălțime turn: 54 m", "Vârstă clopot: din 1333", "Stil: Mixt (Baroc interior)", "Locație: Centrul vechi Koper"],
+      en: ["Tower height: 54 meters", "Bell cast: 1333", "Style: Romanesque/Gothic mix", "Location: Koper"],
+    },
   },
   {
     id: "slovenia-piran-town-hall-landmarks-v2",
     type: "palace",
-    name: { de: "Rathaus von Piran", hu: "Pirani városháza", ro: "Primăria din Piran", en: "Piran Town Hall" },
+    name: { de: "Rathaus von Piran", hu: "Pirani városháza", ro: "Primăria din Piran", en: "Piran Town Hall",
+image: "/poi-images/slovenia-piran-town-hall-landmarks-v2.webp"
+},
     coordinates: { lat: 45.5283, lng: 13.5684 },
     description: {
       de: "Das Rathaus von Piran ist ein elegantes Gebäude im neoklassizistischen Stil am Tartini-Platz. Es wurde Ende des 19. Jahrhunderts an der Stelle eines älteren venezianischen Gebäudes errichtet.",
@@ -402,11 +701,25 @@ export const sloveniaLandmarksV2: POI[] = [
       en: ["Built between 1877 and 1879", "Designed by architect Giovanni Righetti", "Located on the central Tartini Square", "Features Venetian lion reliefs on the facade"],
     },
     imageHint: "Piran Town Hall Neoclassical facade on Tartini Square",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Piran am Tartini-Platz ist ein elegantes Bauwerk im neorenaissancistischen Stil. Es wurde Ende des 19. Jahrhunderts an der Stelle eines älteren Palastes errichtet.",
+      hu: "A pirani Tartini téren található városháza egy elegáns neoreneszánsz épület. A 19. század végén emelték egy korábbi velencei-gótikus palota helyén, megőrizve a város főterének fényét.",
+      ro: "Primăria din Piran, situată în Piața Tartini, este o clădire elegantă în stil neorenascentist. A fost construită la sfârșitul secolului XIX pe locul unei vechi loje municipale venețiene.",
+      en: "Piran's Town Hall on Tartini Square is an elegant Neo-Renaissance building. It was constructed in the late 19th century to replace a former Venetian-Gothic municipal structure.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1877–1879", "Stil: Neorenaissance", "Ort: Tartini-Platz", "Löwen-Relief: vom Vorgängerbau"],
+      hu: ["Épült: 1877–1879", "Stílus: Neoreneszánsz", "Helyszín: Tartini tér", "Díszítés: Régi kőoroszlán"],
+      ro: ["An construcție: 1877–1879", "Stil: Neorenascentist", "Piața: Tartini", "Simbol: Leul venețian"],
+      en: ["Built: 1877–1879", "Style: Neo-Renaissance", "Square: Tartini", "Feature: Old stone lion"],
+    },
   },
   {
     id: "slovenia-ljubljana-opera-house-landmarks-v2",
     type: "theater",
-    name: { de: "Opernhaus Ljubljana", hu: "Ljubljanai Operaház", ro: "Opera din Ljubljana", en: "Ljubljana Opera House" },
+    name: { de: "Opernhaus Ljubljana", hu: "Ljubljanai Operaház", ro: "Opera din Ljubljana", en: "Ljubljana Opera House",
+image: "/poi-images/slovenia-ljubljana-opera-house-landmarks-v2.webp"
+},
     coordinates: { lat: 46.0526, lng: 14.5015 },
     description: {
       de: "Das Slowenische Nationaltheater für Oper und Ballett in Ljubljana ist ein prächtiges neorenaissancistisches Gebäude. Es wurde 1892 fertiggestellt und dient als kulturelles Zentrum der Hauptstadt.",
@@ -420,11 +733,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Proiectat de arhitecți cehi", "Inaugurat în anul 1892", "Fațada este decorată cu statui ale muzelor", "Renovat și extins semnificativ în 2011"],
       en: ["Designed by Czech architects", "Opened its doors in 1892", "Facade features statues of muses and allegories", "Extensively renovated and expanded in 2011"],
     },
-    imageHint: "Ljubljana Opera House Neo-Renaissance building exterior", image: "/poi-images/slovenia-ljubljana-opera-house-landmarks-v2.webp"},
-  {
+imageHint: "Ljubljana Opera House Neo-Renaissance building exterior",
+    descriptionAdvanced: {
+      de: "Das Opernhaus in Ljubljana wurde 1892 im neorenaissancistischen Stil eröffnet. Die prächtige Fassade ist mit Skulpturen geschmückt, die Allegorien der Kunst darstellen.",
+      hu: "A ljubljanai Operaház 1892-ben nyílt meg neoreneszánsz stílusban. Homlokzatát allegorikus szobrok díszítik, belső tere pedig a 2011-es felújítás után modern technológiával bővült.",
+      ro: "Opera din Ljubljana a fost inaugurată în 1892 în stil neorenascentist. Fațada sa monumentală este decorată cu sculpturi alegorice reprezentând diverse ramuri ale artelor scenice.",
+      en: "Opened in 1892, the Ljubljana Opera House is a Neo-Renaissance landmark. Its grand facade is adorned with allegorical sculptures, and it underwent a major modernization in 2011.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1892", "Stil: Neorenaissance", "Architekten: Hrasky & Graf", "Ort: Ljubljana"],
+      hu: ["Megnyitás: 1892", "Stílus: Neoreneszánsz", "Tervezők: Hrasky és Graf", "Város: Ljubljana"],
+      ro: ["Inaugurare: 1892", "Stil: Neorenascentist", "Arhitecți: Hrasky și Graf", "Locație: Lângă Muzeul Național"],
+      en: ["Opened: 1892", "Style: Neo-Renaissance", "Architects: Hrasky & Graf", "City: Ljubljana"],
+    },
+    image: "/poi-images/slovenia-ljubljana-opera-house-landmarks-v2.webp",
+},  {
     id: "slovenia-technical-museum-bistra-landmarks-v2",
     type: "museum",
-    name: { de: "Technisches Museum Bistra", hu: "Bistrai Műszaki Múzeum", ro: "Muzeul Tehnic din Bistra", en: "Technical Museum of Slovenia" },
+    name: { de: "Technisches Museum Bistra", hu: "Bistrai Műszaki Múzeum", ro: "Muzeul Tehnic din Bistra", en: "Technical Museum of Slovenia",
+image: "/poi-images/slovenia-technical-museum-bistra-landmarks-v2.webp"
+},
     coordinates: { lat: 45.9142, lng: 14.3333 },
     description: {
       de: "Das Technische Museum Sloweniens befindet sich im Schloss Bistra, einem ehemaligen Kartäuserkloster. Es beherbergt umfangreiche Sammlungen zur Forstwirtschaft, Jagd und historischen Fahrzeugen.",
@@ -438,11 +766,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Cel mai mare muzeu din țară", "Găzduiește limuzinele lui Josip Broz Tito", "Fondat în anul 1951", "Situat într-o mănăstire din secolul al XIII-lea"],
       en: ["Largest museum in the country", "Houses the luxury limousines of Josip Broz Tito", "Established in 1951", "Located in a 13th-century monastery complex"],
     },
-    imageHint: "Technical Museum of Slovenia Bistra Castle exterior", image: "/poi-images/slovenia-technical-museum-bistra-landmarks-v2.webp"},
-  {
+imageHint: "Technical Museum of Slovenia Bistra Castle exterior",
+    descriptionAdvanced: {
+      de: "Das Technische Museum Sloweniens befindet sich im ehemaligen Kartäuserkloster Bistra. Es zeigt bedeutende Sammlungen zu Forstwirtschaft, Jagd und historischen Automobilen.",
+      hu: "A Szlovén Technikai Múzeum a bistrai volt karthauzi kolostorban kapott helyet. Az intézmény lenyűgöző gyűjteményekkel rendelkezik az erdészet, vadászat és a veterán autók köréből.",
+      ro: "Muzeul Tehnic al Sloveniei este găzduit în fosta mănăstire cartusiană Bistra. Deține colecții vaste de unelte tradiționale, utilaje forestiere și automobile istorice de raritate.",
+      en: "The Technical Museum of Slovenia is housed in the former Bistra Charterhouse. It features extensive collections on forestry, hunting, and a famous gallery of historic automobiles.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1951", "Ort: Schloss Bistra", "Spezialität: Titos Dienstwagen", "Frühere Nutzung: Kloster"],
+      hu: ["Alapítva: 1951", "Helyszín: Bistra-kastély", "Látnivaló: Tito limuzinjai", "Eredeti funkció: Kolostor"],
+      ro: ["Fondat: 1951", "Locație: Castelul Bistra", "Atracție: Mașinile lui Tito", "Origine: Mănăstire cartusiană"],
+      en: ["Founded: 1951", "Location: Bistra Castle", "Highlights: Tito's cars", "Original use: Monastery"],
+    },
+    image: "/poi-images/slovenia-technical-museum-bistra-landmarks-v2.webp",
+},  {
     id: "slovenia-grad-castle-goricko-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Grad", hu: "Felsőlendvai vár", ro: "Castelul Grad", en: "Grad Castle" },
+    name: { de: "Burg Grad", hu: "Felsőlendvai vár", ro: "Castelul Grad", en: "Grad Castle",
+image: "/poi-images/slovenia-grad-castle-goricko-landmarks-v2.webp"
+},
     coordinates: { lat: 46.8159, lng: 16.0963 },
     description: {
       de: "Die Burg Grad im Goričko-Hügelland gilt als die größte Burganlage Sloweniens. Sie wurde auf einem Vulkanhügel errichtet und verfügt der Überlieferung nach über 365 Zimmer.",
@@ -456,11 +799,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Cel mai mare castel din Slovenia după suprafață", "Are un plan pentagonal distinctiv", "Menționat pentru prima dată în documente în 1208", "Deține o fântână adâncă săpată în stâncă"],
       en: ["Largest castle in Slovenia by footprint", "Features a unique pentagonal layout", "First mentioned in records in 1208", "Contains a deep well carved into the rock"],
     },
-    imageHint: "Grad Castle Goričko Slovenia aerial view pentagonal shape", image: "/poi-images/slovenia-grad-castle-goricko-landmarks-v2.webp"},
-  {
+imageHint: "Grad Castle Goričko Slovenia aerial view pentagonal shape",
+    descriptionAdvanced: {
+      de: "Schloss Grad in Goričko ist mit über 360 Räumen eines der größten Schlösser Sloweniens. Die weitläufige Anlage hat einen markanten fünfeckigen Grundriss und einen englischen Park.",
+      hu: "A goričkói Grad vára Szlovénia egyik legnagyobb kastélya, melynek állítólag az év napjaihoz hasonlóan 365 szobája van. Az ötszög alaprajzú épületet hatalmas angolpark veszi körül.",
+      ro: "Castelul Grad din Goričko este unul dintre cele mai mari complexe castelane din Slovenia, având peste 360 de camere. Edificiul are o formă pentagonală unică și un parc englezesc.",
+      en: "Grad Castle in Goričko is one of Slovenia's largest castle complexes, famously said to have 365 rooms. It features a unique pentagonal floor plan and is surrounded by an English park.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Zimmer: ca. 365", "Grundriss: Fünfeckig", "Ort: Grad (Goričko)", "Gründung: 11. Jahrhundert"],
+      hu: ["Szobák száma: 365", "Alaprajz: Ötszögletű", "Helyszín: Grad (Goričko)", "Eredete: 11. század"],
+      ro: ["Număr camere: 365", "Planimetric: Pentagonal", "Regiune: Prekmurje", "Fondare: secolul XI"],
+      en: ["Number of rooms: 365", "Layout: Pentagonal", "Location: Grad (Goričko)", "Founded: 11th century"],
+    },
+    image: "/poi-images/slovenia-grad-castle-goricko-landmarks-v2.webp",
+},  {
     id: "slovenia-gewerkenegg-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Gewerkenegg", hu: "Gewerkenegg-kastély", ro: "Castelul Gewerkenegg", en: "Gewerkenegg Castle" },
+    name: { de: "Schloss Gewerkenegg", hu: "Gewerkenegg-kastély", ro: "Castelul Gewerkenegg", en: "Gewerkenegg Castle",
+image: "/poi-images/slovenia-gewerkenegg-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 46.0016, lng: 14.0205 },
     description: {
       de: "Schloss Gewerkenegg in Idrija wurde im 16. Jahrhundert als Verwaltungssitz für das örtliche Quecksilberbergwerk erbaut. Es beherbergt heute das preisgekrönte Stadtmuseum von Idrija.",
@@ -474,11 +832,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Construit între anii 1522 și 1533", "Nu a servit niciodată scopuri militare defensive", "Parte a Patrimoniului Mondial UNESCO din 2012", "Cunoscut pentru picturile sgraffito din curte"],
       en: ["Built between 1522 and 1533", "Never served a defensive military purpose", "UNESCO World Heritage site since 2012", "Famous for the sgraffito paintings in its courtyard"],
     },
-    imageHint: "Gewerkenegg Castle Idrija courtyard sgraffito", image: "/poi-images/slovenia-gewerkenegg-castle-landmarks-v2.webp"},
-  {
+imageHint: "Gewerkenegg Castle Idrija courtyard sgraffito",
+    descriptionAdvanced: {
+      de: "Schloss Gewerkenegg in Idrija wurde im 16. Jahrhundert als Verwaltungszentrum für das zweitgrößte Quecksilberbergwerk der Welt erbaut. Es beherbergt heute das preisgekrönte Stadtmuseum.",
+      hu: "Az idrijai Gewerkenegg-kastély a 16. században épült a világ második legnagyobb higanybányájának igazgatási központjaként. Ma a többszörösen díjazott Idrijai Városi Múzeum otthona.",
+      ro: "Castelul Gewerkenegg din Idrija a fost construit în secolul XVI ca sediu administrativ pentru a doua cea mai mare mină de mercur din lume. Astăzi găzduiește un muzeu premiat.",
+      en: "Gewerkenegg Castle in Idrija was built in the 16th century as the administrative center for the world's second-largest mercury mine. It now houses the award-winning Municipal Museum.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1522–1533", "Stil: Renaissance", "Ort: Idrija", "Zweck: Bergbauverwaltung"],
+      hu: ["Épült: 1522–1533", "Stílus: Reneszánsz", "Város: Idrija", "Eredeti cél: Bányaigazgatás"],
+      ro: ["An construcție: 1522–1533", "Stil: Renaștere", "Oraș: Idrija", "Patrimoniu: UNESCO (mina)"],
+      en: ["Built: 1522–1533", "Style: Renaissance", "City: Idrija", "Original use: Mine admin"],
+    },
+    image: "/poi-images/slovenia-gewerkenegg-castle-landmarks-v2.webp",
+},  {
     id: "slovenia-kostanjevica-monastery-nova-gorica-landmarks-v2",
     type: "landmark",
-    name: { de: "Kloster Kostanjevica (Nova Gorica)", hu: "Kostanjevica-kolostor (Nova Gorica)", ro: "Mănăstirea Kostanjevica (Nova Gorica)", en: "Kostanjevica Monastery (Nova Gorica)" },
+    name: { de: "Kloster Kostanjevica (Nova Gorica)", hu: "Kostanjevica-kolostor (Nova Gorica)", ro: "Mănăstirea Kostanjevica (Nova Gorica)", en: "Kostanjevica Monastery (Nova Gorica)",
+image: "/poi-images/slovenia-kostanjevica-monastery-nova-gorica-landmarks-v2.webp"
+},
     coordinates: { lat: 45.9495, lng: 13.6508 },
     description: {
       de: "Das Franziskanerkloster Kostanjevica in Nova Gorica ist bekannt als letzte Ruhestätte der französischen Bourbonen-Könige. Es thront auf einem Hügel über der Stadt und beherbergt eine wertvolle Bibliothek.",
@@ -493,11 +866,25 @@ export const sloveniaLandmarksV2: POI[] = [
       en: ["Burial place of King Charles X of France", "Houses the historic Škrabec Library", "Famous for its collection of Bourbon roses", "Founded in the 17th century"],
     },
     imageHint: "Kostanjevica Monastery Nova Gorica Bourbon tombs",
+    descriptionAdvanced: {
+      de: "Das Kloster Kostanjevica bei Nova Gorica ist bekannt als Begräbnisstätte der letzten französischen Bourbonen-Könige. In der Krypta ruht unter anderem König Karl X. von Frankreich.",
+      hu: "A Nova Gorica melletti Kostanjevica-kolostor az utolsó francia Bourbon-házi királyok nyughelyeként ismert. Kriptájában nyugszik többek között X. Károly, az utolsó Bourbon-király.",
+      ro: "Mănăstirea Kostanjevica de lângă Nova Gorica este faimoasă pentru cripta sa regală, unde sunt înmormântați ultimii regi Bourboni ai Franței, inclusiv regele Carol al X-lea.",
+      en: "Kostanjevica Monastery near Nova Gorica is renowned as the burial site of the last French Bourbon kings. The crypt holds the remains of King Charles X and his royal family members.",
+    },
+    factsAdvanced: {
+      de: ["Grabstätte: Bourbonen-Könige", "Wichtigstes Grab: Karl X.", "Ort: Nova Gorica", "Besonderheit: Rosen-Garten"],
+      hu: ["Sírhely: Bourbon királyok", "Fő sír: X. Károly", "Helyszín: Nova Gorica", "Látnivaló: Bourbon rózsakert"],
+      ro: ["Morminte: Casa de Bourbon", "Rege înhumat: Carol al X-lea", "Locație: Nova Gorica", "Atracție: Grădina de trandafiri"],
+      en: ["Burials: Bourbon Dynasty", "Famous tomb: Charles X", "Location: Nova Gorica", "Feature: Bourbon rose garden"],
+    },
   },
   {
     id: "slovenia-vinarium-tower-landmarks-v2",
     type: "tower",
-    name: { de: "Vinarium-Turm", hu: "Vinarium kilátó", ro: "Turnul Vinarium", en: "Vinarium Tower" },
+    name: { de: "Vinarium-Turm", hu: "Vinarium kilátó", ro: "Turnul Vinarium", en: "Vinarium Tower",
+image: "/poi-images/slovenia-vinarium-tower-landmarks-v2.webp"
+},
     coordinates: { lat: 46.5658, lng: 16.4678 },
     description: {
       de: "Der Vinarium-Turm in Lendava ist ein moderner Aussichtsturm inmitten der Weinberge. Mit einer Höhe von 53,5 Metern bietet er einen weiten Panoramablick über vier verschiedene Länder.",
@@ -511,11 +898,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Cel mai înalt turn de observație din Slovenia", "Oferă vizibilitate spre Slovenia, Ungaria, Croația și Austria", "Inaugurat în septembrie 2015", "Structură metalică cu lift de sticlă"],
       en: ["Highest observation tower in Slovenia", "Offers views into Slovenia, Hungary, Croatia, and Austria", "Opened in September 2015", "Steel structure featuring a glass elevator"],
     },
-    imageHint: "Vinarium Tower Lendava observation deck panorama", image: "/poi-images/slovenia-vinarium-tower-landmarks-v2.webp"},
-  {
+imageHint: "Vinarium Tower Lendava observation deck panorama",
+    descriptionAdvanced: {
+      de: "Der Vinarium-Turm in Lendava bietet einen einzigartigen Rundblick über vier Länder: Slowenien, Ungarn, Kroatien und Österreich. Mit 53,5 Metern ist er ein moderner Aussichtspunkt.",
+      hu: "A lendvai Vinarium-torony 53,5 méteres magasságával lenyűgöző panorámát nyújt. Tiszta időben egyszerre négy ország: Szlovénia, Magyarország, Horvátország és Ausztria látható a tetejéről.",
+      ro: "Turnul Vinarium din Lendava oferă o panoramă unică asupra a patru țări: Slovenia, Ungaria, Croația și Austria. Cu o înălțime de 53,5 metri, este un punct de observație modern și popular.",
+      en: "The Vinarium Tower in Lendava offers a 360-degree view spanning four countries: Slovenia, Hungary, Croatia, and Austria. Standing 53.5 meters tall, it is a striking modern landmark.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 53,5 Meter", "Anzahl Länder: 4 sichtbar", "Eröffnung: 2015", "Etagen: 9 Stockwerke"],
+      hu: ["Magasság: 53,5 méter", "Látható országok: 4", "Átadás éve: 2015", "Emeletek száma: 9"],
+      ro: ["Înălțime: 53,5 m", "Țări vizibile: 4", "An deschidere: 2015", "Capacitate: 50 persoane"],
+      en: ["Height: 53.5 meters", "Countries visible: 4", "Opened: 2015", "Floors: 9 stories"],
+    },
+    image: "/poi-images/slovenia-vinarium-tower-landmarks-v2.webp",
+},  {
     id: "slovenia-nuk-library-landmarks-v2",
     type: "landmark",
-    name: { de: "NUK-Bibliothek", hu: "NUK Könyvtár", ro: "Biblioteca NUK", en: "National and University Library" },
+    name: { de: "NUK-Bibliothek", hu: "NUK Könyvtár", ro: "Biblioteca NUK", en: "National and University Library",
+image: "/poi-images/slovenia-nuk-library-landmarks-v2.webp"
+},
     coordinates: { lat: 46.0475, lng: 14.5042 },
     description: {
       de: "Die National- und Universitätsbibliothek in Ljubljana ist ein Meisterwerk des Architekten Jože Plečnik. Das Gebäude besticht durch seine Fassade aus Ziegeln und Stein sowie seine monumentale Innengestaltung.",
@@ -529,11 +931,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Construită între 1936 și 1941", "Dispune de o scară monumentală din marmură neagră", "Cea mai mare bibliotecă din Slovenia", "Un simbol al identității naționale și educației"],
       en: ["Built between 1936 and 1941", "Features a monumental black marble staircase", "Largest library collection in Slovenia", "A symbol of national identity and knowledge"],
     },
-    imageHint: "National and University Library Ljubljana Plecnik facade", image: "/poi-images/slovenia-nuk-library-landmarks-v2.webp"},
-  {
+imageHint: "National and University Library Ljubljana Plecnik facade",
+    descriptionAdvanced: {
+      de: "Die National- und Universitätsbibliothek in Ljubljana gilt als Meisterwerk von Jože Plečnik. Die Fassade aus Ziegeln und Steinblöcken symbolisiert das Wissen und die slowenische Identität.",
+      hu: "A ljubljanai Nemzeti és Egyetemi Könyvtár Jože Plečnik egyik legfontosabb műve. Különleges, tégla és kő elemeket ötvöző homlokzata a tudást és a nemzeti öntudatot szimbolizálja.",
+      ro: "Biblioteca Națională și Universitară din Ljubljana este considerată capodopera lui Jože Plečnik. Fațada din cărămidă și piatră simbolizează bogăția cunoașterii și identitatea națională.",
+      en: "The National and University Library is widely regarded as Jože Plečnik's masterpiece. Its distinctive facade of brick and stone symbolizes the accumulation of human knowledge.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1936–1941", "Architekt: Jože Plečnik", "Stil: Modernismus/Symbolik", "Material: Ziegel und Stein"],
+      hu: ["Épült: 1936–1941", "Tervező: Jože Plečnik", "Stílus: Modern szimbolizmus", "Helyszín: Ljubljana"],
+      ro: ["Perioada: 1936–1941", "Arhitect: Jože Plečnik", "Stil: Modernism local", "Material: Cărămidă și piatră"],
+      en: ["Built: 1936–1941", "Architect: Jože Plečnik", "Style: Modernist symbolism", "Location: Ljubljana"],
+    },
+    image: "/poi-images/slovenia-nuk-library-landmarks-v2.webp",
+},  {
     id: "slovenia-maribor-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Dom von Maribor", hu: "Maribori székesegyház", ro: "Catedrala din Maribor", en: "Maribor Cathedral" },
+    name: { de: "Dom von Maribor", hu: "Maribori székesegyház", ro: "Catedrala din Maribor", en: "Maribor Cathedral",
+image: "/poi-images/slovenia-maribor-cathedral-landmarks-v2.webp"
+},
     coordinates: { lat: 46.5592, lng: 15.6444 },
     description: {
       de: "Der Dom St. Johannes der Täufer ist die Kathedrale des Erzbistums Maribor. Die ursprünglich romanische Kirche aus dem 12. Jahrhundert wurde im Laufe der Zeit gotisch und barock umgestaltet.",
@@ -547,11 +964,26 @@ export const sloveniaLandmarksV2: POI[] = [
       ro: ["Locul de mormânt al Fericitului Anton Martin Slomšek", "Dispune de un turn clopotniță de 57 de metri", "Construită inițial în secolul al XII-lea", "Situată în Piața Slomšek"],
       en: ["Burial place of Blessed Anton Martin Slomšek", "Features a 57-meter tall bell tower", "Originally constructed in the 12th century", "Located on Slomšek Square"],
     },
-    imageHint: "Maribor Cathedral St John the Baptist exterior", image: "/poi-images/slovenia-maribor-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Maribor Cathedral St John the Baptist exterior",
+    descriptionAdvanced: {
+      de: "Der Dom St. Johannes der Täufer in Maribor wurde im 12. Jahrhundert im romanischen Stil begonnen und später gotisch erweitert. Der 57 Meter hohe Glockenturm prägt das Stadtbild.",
+      hu: "A maribori Keresztelő Szent János-székesegyház építése a 12. században kezdődött román stílusban, majd gótikus elemekkel bővült. Az 57 méteres harangtorony a városkép meghatározó eleme.",
+      ro: "Catedrala Sfântul Ioan Botezătorul din Maribor datează din secolul XII, având origini romanice și adăugiri gotice. Turnul său de 57 de metri oferă o panoramă asupra regiunii Styria.",
+      en: "Maribor Cathedral of St. John the Baptist dates back to the 12th century, blending Romanesque and Gothic styles. Its 57-meter bell tower dominates the city's historic center.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 57 Meter", "Gründung: 12. Jahrhundert", "Bestattung: Anton Martin Slomšek", "Ort: Maribor"],
+      hu: ["Torony magassága: 57 méter", "Alapítva: 12. század", "Sírhely: Anton Martin Slomšek", "Város: Maribor"],
+      ro: ["Înălțime turn: 57 m", "Origine: secolul XII", "Personalitate: Anton Martin Slomšek", "Locație: Maribor"],
+      en: ["Tower height: 57 meters", "Founded: 12th century", "Burial: Anton Martin Slomšek", "City: Maribor"],
+    },
+    image: "/poi-images/slovenia-maribor-cathedral-landmarks-v2.webp",
+},  {
     id: "slovenia-capuchin-bridge-skofja-loka-landmarks-v2",
     type: "bridge",
-    name: { de: "Kapuzinerbrücke", hu: "Kapucinus híd", ro: "Podul Capucinilor", en: "Capuchin Bridge" },
+    name: { de: "Kapuzinerbrücke", hu: "Kapucinus híd", ro: "Podul Capucinilor", en: "Capuchin Bridge",
+image: "/poi-images/slovenia-capuchin-bridge-skofja-loka-landmarks-v2.webp"
+},
     coordinates: { lat: 46.1673, lng: 14.3068 },
     description: {
       de: "Die Kapuzinerbrücke in Škofja Loka ist eine der ältesten Steinbrücken Mitteleuropas. Die im 14. Jahrhundert errichtete Brücke führt über den Fluss Sora und verbindet die historische Altstadt.",
@@ -566,5 +998,17 @@ export const sloveniaLandmarksV2: POI[] = [
       en: ["Built under Bishop Leopold in the 14th century", "Restored to its current form in 1888", "Adorned with a statue of St. John of Nepomuk", "The only preserved example of its kind in Slovenia"],
     },
     imageHint: "Capuchin Bridge Škofja Loka stone arch bridge",
+    descriptionAdvanced: {
+      de: "Die Kapuzinerbrücke in Škofja Loka ist eine der ältesten Steinbrücken Mitteleuropas. Sie wurde im 14. Jahrhundert unter Bischof Leopold errichtet und ist ein Wahrzeichen der Altstadt.",
+      hu: "A Škofja Loka-i Kapucinus híd Közép-Európa egyik legrégebbi kőhídja. A 14. században épült Lipót püspök megbízásából, és ma az óváros egyik legfontosabb műemléke.",
+      ro: "Podul Capucinilor din Škofja Loka este unul dintre cele mai vechi poduri de piatră din Europa Centrală. Construit în secolul XIV de episcopul Leopold, este simbolul acestui oraș medieval.",
+      en: "The Capuchin Bridge in Škofja Loka is one of the oldest stone bridges in Central Europe. Built in the 14th century under Bishop Leopold, it remains a symbol of the medieval town.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 14. Jahrhundert", "Ort: Škofja Loka", "Stifter: Bischof Leopold", "Material: Steinblöcke"],
+      hu: ["Épült: 14. század", "Helyszín: Škofja Loka", "Építtető: Lipót püspök", "Típus: Kőívhíd"],
+      ro: ["Secol construcție: XIV", "Locație: Škofja Loka", "Ctitor: Episcopul Leopold", "Tip: Pod medieval"],
+      en: ["Built: 14th century", "Location: Škofja Loka", "Patron: Bishop Leopold", "Type: Stone arch bridge"],
+    },
   }
 ];

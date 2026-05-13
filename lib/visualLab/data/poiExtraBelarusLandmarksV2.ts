@@ -4,7 +4,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-mir-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle Complex" },
+    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle Complex",
+image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"
+},
     coords: [26.473, 53.451],
     coordinates: { lat: 53.451, lng: 26.473 },
     description: {
@@ -35,7 +37,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-national-library-landmarks-v2",
     type: "landmark",
-    name: { de: "Nationalbibliothek von Belarus", hu: "Fehérorosz Nemzeti Könyvtár", ro: "Biblioteca Națională a Belarusului", en: "National Library of Belarus" },
+    name: { de: "Nationalbibliothek von Belarus", hu: "Fehérorosz Nemzeti Könyvtár", ro: "Biblioteca Națională a Belarusului", en: "National Library of Belarus",
+image: "/poi-images/belarus-national-library-landmarks-v2.webp"
+},
     coords: [27.646, 53.931],
     coordinates: { lat: 53.931, lng: 27.646 },
     description: {
@@ -66,7 +70,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-red-church-minsk-landmarks-v2",
     type: "church",
-    name: { de: "Rote Kirche (Minsk)", hu: "Vörös templom (Minszk)", ro: "Biserica Roșie din Minsk", en: "Red Church (Saints Simon and Helena)" },
+    name: { de: "Rote Kirche (Minsk)", hu: "Vörös templom (Minszk)", ro: "Biserica Roșie din Minsk", en: "Red Church (Saints Simon and Helena)",
+image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"
+},
     coords: [27.547, 53.896],
     coordinates: { lat: 53.896, lng: 27.547 },
     description: {
@@ -97,7 +103,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-holy-spirit-cathedral-minsk-landmarks-v2",
     type: "cathedral",
-    name: { de: "Heiliggeist-Kathedrale (Minsk)", hu: "Szentlélek-székesegyház (Minszk)", ro: "Catedrala Duhul Sfânt din Minsk", en: "Cathedral of the Holy Spirit" },
+    name: { de: "Heiliggeist-Kathedrale (Minsk)", hu: "Szentlélek-székesegyház (Minszk)", ro: "Catedrala Duhul Sfânt din Minsk", en: "Cathedral of the Holy Spirit",
+image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"
+},
     coords: [27.555, 53.905],
     coordinates: { lat: 53.905, lng: 27.555 },
     description: {
@@ -128,7 +136,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-great-patriotic-war-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Museum des Großen Vaterländischen Krieges", hu: "A Nagy Honvédő Háború Múzeuma", ro: "Muzeul Marelui Război pentru Apărarea Patriei", en: "Great Patriotic War Museum" },
+    name: { de: "Museum des Großen Vaterländischen Krieges", hu: "A Nagy Honvédő Háború Múzeuma", ro: "Muzeul Marelui Război pentru Apărarea Patriei", en: "Great Patriotic War Museum",
+image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"
+},
     coords: [27.538, 53.916],
     coordinates: { lat: 53.916, lng: 27.538 },
     description: {
@@ -159,7 +169,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-kolozha-church-grodno-landmarks-v2",
     type: "church",
-    name: { de: "Koloscha-Kirche (Grodno)", hu: "Koloizsai templom (Hrodna)", ro: "Biserica Caloja din Grodno", en: "Kolozha Church (St. Boris and Gleb)" },
+    name: { de: "Koloscha-Kirche (Grodno)", hu: "Koloizsai templom (Hrodna)", ro: "Biserica Caloja din Grodno", en: "Kolozha Church (St. Boris and Gleb)",
+image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp"
+},
     coords: [23.818, 53.678],
     coordinates: { lat: 53.678, lng: 23.818 },
     description: {
@@ -191,7 +203,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-old-grodno-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Altes Schloss Grodno", hu: "Hrodnai öregvár", ro: "Castelul Vechi din Grodno", en: "Old Grodno Castle" },
+    name: { de: "Altes Schloss Grodno", hu: "Hrodnai öregvár", ro: "Castelul Vechi din Grodno", en: "Old Grodno Castle",
+image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"
+},
     coords: [23.823, 53.677],
     coordinates: { lat: 53.677, lng: 23.823 },
     description: {
@@ -222,7 +236,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-new-grodno-castle-landmarks-v2",
     type: "palace",
-    name: { de: "Neues Schloss Grodno", hu: "Hrodnai újvár", ro: "Castelul Nou din Grodno", en: "New Grodno Castle" },
+    name: { de: "Neues Schloss Grodno", hu: "Hrodnai újvár", ro: "Castelul Nou din Grodno", en: "New Grodno Castle",
+image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"
+},
     coords: [23.825, 53.675],
     coordinates: { lat: 53.675, lng: 23.825 },
     description: {
@@ -253,7 +269,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-kosava-castle-landmarks-v2",
     type: "palace",
-    name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)" },
+    name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)",
+image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"
+},
     coords: [25.121, 52.766],
     coordinates: { lat: 52.766, lng: 25.121 },
     description: {
@@ -284,7 +302,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-ruzhany-palace-ruins-landmarks-v2",
     type: "ruins",
-    name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins" },
+    name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins",
+image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"
+},
     coords: [24.896, 52.86],
     coordinates: { lat: 52.86, lng: 24.896 },
     description: {
@@ -315,7 +335,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-stalin-line-complex-landmarks-v2",
     type: "museum",
-    name: { de: "Stalin-Linie Gedenkkomplex", hu: "Sztálin-vonal emlékpark", ro: "Complexul Memorial Linia Stalin", en: "Stalin Line Historical Complex" },
+    name: { de: "Stalin-Linie Gedenkkomplex", hu: "Sztálin-vonal emlékpark", ro: "Complexul Memorial Linia Stalin", en: "Stalin Line Historical Complex",
+image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp"
+},
     coords: [27.296, 54.058],
     coordinates: { lat: 54.058, lng: 27.296 },
     description: {
@@ -347,7 +369,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-kamyanets-tower-landmarks-v2",
     type: "tower",
-    name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)" },
+    name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)",
+image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"
+},
     coords: [23.82, 52.405],
     coordinates: { lat: 52.405, lng: 23.82 },
     description: {
@@ -378,7 +402,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-muravanka-fortified-church-landmarks-v2",
     type: "church",
-    name: { de: "Wehrkirche Muravanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Church of the Nativity of the Blessed Virgin Mary (Muravanka)" },
+    name: { de: "Wehrkirche Muravanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Church of the Nativity of the Blessed Virgin Mary (Muravanka)",
+image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp"
+},
     coords: [24.938, 53.697],
     coordinates: { lat: 53.697, lng: 24.938 },
     description: {
@@ -410,7 +436,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-farny-church-grodno-landmarks-v2",
     type: "cathedral",
-    name: { de: "Franz-Xaver-Kathedrale (Grodno)", hu: "Szent Ferenc-Xavér-székesegyház (Hrodna)", ro: "Catedrala Sfântul Francisc Xaveriu din Grodno", en: "Farny Church (St. Francis Xavier Cathedral)" },
+    name: { de: "Franz-Xaver-Kathedrale (Grodno)", hu: "Szent Ferenc-Xavér-székesegyház (Hrodna)", ro: "Catedrala Sfântul Francisc Xaveriu din Grodno", en: "Farny Church (St. Francis Xavier Cathedral)",
+image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp"
+},
     coords: [23.831, 53.678],
     coordinates: { lat: 53.678, lng: 23.831 },
     description: {
@@ -442,7 +470,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-st-nicholas-monastery-mogilev-landmarks-v2",
     type: "church",
-    name: { de: "Nikolaus-Kloster (Mahiljou)", hu: "Szent Miklós-kolostor (Mahiljov)", ro: "Mănăstirea Sfântul Nicolae din Moghilău", en: "Saint Nicholas Monastery (Mogilev)" },
+    name: { de: "Nikolaus-Kloster (Mahiljou)", hu: "Szent Miklós-kolostor (Mahiljov)", ro: "Mănăstirea Sfântul Nicolae din Moghilău", en: "Saint Nicholas Monastery (Mogilev)",
+image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"
+},
     coords: [30.347, 53.893],
     coordinates: { lat: 53.893, lng: 30.347 },
     description: {
@@ -473,7 +503,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-vitebsk-town-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Rathaus Wizebsk", hu: "Vicebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk Town Hall" },
+    name: { de: "Rathaus Wizebsk", hu: "Vicebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk Town Hall",
+image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp"
+},
     coords: [30.206, 55.195],
     coordinates: { lat: 55.195, lng: 30.206 },
     description: {
@@ -505,7 +537,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-marc-chagall-museum-vitebsk-landmarks-v2",
     type: "museum",
-    name: { de: "Marc Chagall Museum (Wizebsk)", hu: "Marc Chagall Múzeum (Vicebszk)", ro: "Muzeul Marc Chagall din Vitebsk", en: "Marc Chagall Museum" },
+    name: { de: "Marc Chagall Museum (Wizebsk)", hu: "Marc Chagall Múzeum (Vicebszk)", ro: "Muzeul Marc Chagall din Vitebsk", en: "Marc Chagall Museum",
+image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"
+},
     coords: [30.191, 55.201],
     coordinates: { lat: 55.201, lng: 30.191 },
     description: {
@@ -536,7 +570,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-corpus-christi-church-nesvizh-landmarks-v2",
     type: "church",
-    name: { de: "Fronleichnamskirche (Neswisch)", hu: "Úrnapja-templom (Nyaszvizs)", ro: "Biserica Corpus Christi din Nesvîj", en: "Corpus Christi Church" },
+    name: { de: "Fronleichnamskirche (Neswisch)", hu: "Úrnapja-templom (Nyaszvizs)", ro: "Biserica Corpus Christi din Nesvîj", en: "Corpus Christi Church",
+image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp"
+},
     coords: [26.684, 53.22],
     coordinates: { lat: 53.22, lng: 26.684 },
     description: {
@@ -568,7 +604,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-holy-trinity-church-herviaty-landmarks-v2",
     type: "church",
-    name: { de: "Dreifaltigkeitskirche (Herwjaty)", hu: "Szentháromság-templom (Gervjati)", ro: "Biserica Sfânta Treime din Gherviatî", en: "Church of the Holy Trinity (Herviaty)" },
+    name: { de: "Dreifaltigkeitskirche (Herwjaty)", hu: "Szentháromság-templom (Gervjati)", ro: "Biserica Sfânta Treime din Gherviatî", en: "Church of the Holy Trinity (Herviaty)",
+image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp"
+},
     coords: [26.283, 54.687],
     coordinates: { lat: 54.687, lng: 26.283 },
     description: {
@@ -600,7 +638,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-halshany-castle-ruins-landmarks-v2",
     type: "ruins",
-    name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins" },
+    name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins",
+image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"
+},
     coords: [26.02, 54.251],
     coordinates: { lat: 54.251, lng: 26.02 },
     description: {
@@ -631,7 +671,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-bobruisk-fortress-landmarks-v2",
     type: "monument",
-    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Bobruisk", en: "Bobruisk Fortress" },
+    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Bobruisk", en: "Bobruisk Fortress",
+image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"
+},
     coords: [29.243, 53.139],
     coordinates: { lat: 53.139, lng: 29.243 },
     description: {
@@ -663,7 +705,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-budslau-basilica-landmarks-v2",
     type: "cathedral",
-    name: { de: "Basilika von Budslau", hu: "Budslaui bazilika", ro: "Basilica din Budslau", en: "Budslau Basilica" },
+    name: { de: "Basilika von Budslau", hu: "Budslaui bazilika", ro: "Basilica din Budslau", en: "Budslau Basilica",
+image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp"
+},
     coords: [27.452, 54.7873],
     coordinates: { lat: 54.7873, lng: 27.452 },
     description: {
@@ -695,7 +739,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-bolshoi-theatre-minsk-landmarks-v2",
     type: "theater",
-    name: { de: "Nationaloper Minsk", hu: "Belorusz Nemzeti Operaház", ro: "Teatrul Național de Operă și Balet din Minsk", en: "Bolshoi Theatre of Belarus" },
+    name: { de: "Nationaloper Minsk", hu: "Belorusz Nemzeti Operaház", ro: "Teatrul Național de Operă și Balet din Minsk", en: "Bolshoi Theatre of Belarus",
+image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"
+},
     coords: [27.5613, 53.9103],
     coordinates: { lat: 53.9103, lng: 27.5613 },
     description: {
@@ -726,7 +772,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-national-art-museum-minsk-landmarks-v2",
     type: "museum",
-    name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Belarusului", en: "National Art Museum of Belarus" },
+    name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Belarusului", en: "National Art Museum of Belarus",
+image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"
+},
     coords: [27.5607, 53.8985],
     coordinates: { lat: 53.8985, lng: 27.5607 },
     description: {
@@ -757,7 +805,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-slonim-great-synagogue-landmarks-v2",
     type: "landmark",
-    name: { de: "Große Synagoge von Slonim", hu: "Szlonimi nagyzsinagóga", ro: "Sinagoga Mare din Slonim", en: "Slonim Great Synagogue" },
+    name: { de: "Große Synagoge von Slonim", hu: "Szlonimi nagyzsinagóga", ro: "Sinagoga Mare din Slonim", en: "Slonim Great Synagogue",
+image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp"
+},
     coords: [25.3192, 53.094],
     coordinates: { lat: 53.094, lng: 25.3192 },
     description: {
@@ -789,7 +839,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-st-stanislaus-cathedral-mogilev-landmarks-v2",
     type: "cathedral",
-    name: { de: "St.-Stanislaus-Kathedrale", hu: "Szent Szaniszló-székesegyház", ro: "Catedrala Sfântul Stanislav din Moghilău", en: "Cathedral of St. Stanislaus" },
+    name: { de: "St.-Stanislaus-Kathedrale", hu: "Szent Szaniszló-székesegyház", ro: "Catedrala Sfântul Stanislav din Moghilău", en: "Cathedral of St. Stanislaus",
+image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"
+},
     coords: [30.3345, 53.8994],
     coordinates: { lat: 53.8994, lng: 30.3345 },
     description: {
@@ -821,7 +873,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-tyzenhauz-palace-postavy-landmarks-v2",
     type: "palace",
-    name: { de: "Tyzenhauz-Palast", hu: "Tyzenhauz-palota", ro: "Palatul Tyzenhauz din Pastavy", en: "Tyzenhauz Palace" },
+    name: { de: "Tyzenhauz-Palast", hu: "Tyzenhauz-palota", ro: "Palatul Tyzenhauz din Pastavy", en: "Tyzenhauz Palace",
+image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"
+},
     coords: [26.8374, 55.1092],
     coordinates: { lat: 55.1092, lng: 26.8374 },
     description: {
@@ -852,7 +906,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-shklov-town-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Rathaus von Schklow", hu: "Sklovi városháza", ro: "Primăria din Șklov", en: "Shklov Town Hall" },
+    name: { de: "Rathaus von Schklow", hu: "Sklovi városháza", ro: "Primăria din Șklov", en: "Shklov Town Hall",
+image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"
+},
     coords: [30.2976, 53.9873],
     coordinates: { lat: 53.9873, lng: 30.2976 },
     description: {
@@ -883,7 +939,9 @@ export const belarusLandmarksV2: POI[] = [
   {
     id: "belarus-butrimovich-palace-pinsk-landmarks-v2",
     type: "palace",
-    name: { de: "Butrimowitsch-Palast", hu: "Butrimovics-palota", ro: "Palatul Butrimovici din Pinsk", en: "Butrimovich Palace" },
+    name: { de: "Butrimowitsch-Palast", hu: "Butrimovics-palota", ro: "Palatul Butrimovici din Pinsk", en: "Butrimovich Palace",
+image: "/poi-images/belarus-butrimovich-palace-pinsk-landmarks-v2.webp"
+},
     coords: [26.1085, 52.1145],
     coordinates: { lat: 52.1145, lng: 26.1085 },
     description: {

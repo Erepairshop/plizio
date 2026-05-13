@@ -4,7 +4,9 @@ export const swedenLandmarksV2: POI[] = [
   {
     id: "sweden-stockholm-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Stockholmer Schloss", hu: "Stockholmi királyi palota", ro: "Palatul Regal din Stockholm", en: "Stockholm Palace" },
+    name: { de: "Stockholmer Schloss", hu: "Stockholmi királyi palota", ro: "Palatul Regal din Stockholm", en: "Stockholm Palace",
+image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp"
+},
     coords: [18.0717, 59.3267],
     coordinates: { lat: 59.3267, lng: 18.0717 },
     description: {
@@ -19,11 +21,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Are peste 600 de camere pe 11 etaje", "Proiectat de Nicodemus Tessin cel Tânăr", "Construcția a durat din 1697 până în 1754", "Găzduiește trei muzee istorice"],
       en: ["Contains over 600 rooms across 11 floors", "Designed by Nicodemus Tessin the Younger", "Built between 1697 and 1754", "Houses three historical museums"],
     },
-    imageHint: "Stockholm Royal Palace facade at day", image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp"},
-  {
+imageHint: "Stockholm Royal Palace facade at day",
+    descriptionAdvanced: {
+      de: "Die barocke Residenz im Herzen Stockholms beherbergt über 600 Räume und dient dem schwedischen Königshaus als offizieller Sitz für Repräsentationen.",
+      hu: "A stockholmi királyi palota Európa egyik legnagyobb uralkodói rezidenciája, amely 600-nál is több helyiségével a barokk építészet kiemelkedő példája.",
+      ro: "Palatul Regal din Stockholm este una dintre cele mai mari reședințe oficiale din Europa, având peste 600 de camere decorate în stil baroc italian.",
+      en: "The Royal Palace in Stockholm is the official residence of the Swedish monarch, featuring over 600 rooms and several museums in its baroque structure.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1697 bis 1754", "Über 600 Zimmer insgesamt", "Architekt: Nicodemus Tessin d. J.", "Sitz der schwedischen Monarchie"],
+      hu: ["Épült: 1697 és 1754 között", "Több mint 600 helyiség", "Tervező: ifj. Nicodemus Tessin", "A svéd monarchia hivatalos székhelye"],
+      ro: ["Construit între 1697 și 1754", "Peste 600 de camere", "Arhitect: Nicodemus Tessin cel Tânăr", "Reședința oficială a monarhiei suedeze"],
+      en: ["Built between 1697 and 1754", "Over 600 total rooms", "Architect: Nicodemus Tessin the Younger", "Official seat of the Swedish monarchy"],
+    },
+    image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp",
+},  {
     id: "sweden-stockholm-city-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Stockholmer Rathaus", hu: "Stockholmi városháza", ro: "Primăria din Stockholm", en: "Stockholm City Hall" },
+    name: { de: "Stockholmer Rathaus", hu: "Stockholmi városháza", ro: "Primăria din Stockholm", en: "Stockholm City Hall",
+image: "/poi-images/sweden-stockholm-city-hall-landmarks-v2.webp"
+},
     coords: [18.0547, 59.3275],
     coordinates: { lat: 59.3275, lng: 18.0547 },
     description: {
@@ -38,11 +55,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construită din aproximativ 8 milioane de cărămizi", "Turn de observație înalt de 106 metri", "Finalizată în anul 1923", "Sala Albastră are 10.000 m²"],
       en: ["Built from approximately 8 million bricks", "106-meter high observation tower", "Completed in 1923", "The Blue Hall covers 10,000 m²"],
     },
-    imageHint: "Stockholm City Hall with golden crowns on tower", image: "/poi-images/sweden-stockholm-city-hall-landmarks-v2.webp"},
-  {
+imageHint: "Stockholm City Hall with golden crowns on tower",
+    descriptionAdvanced: {
+      de: "Das Rathaus mit seinem markanten Turm ist Austragungsort des Nobelpreis-Banketts und gilt als Meisterwerk der schwedischen Nationalromantik.",
+      hu: "A stockholmi városháza a svéd nemzeti romantika remekműve, amely minden évben a Nobel-díj átadása utáni bankett elegáns helyszínéül szolgál.",
+      ro: "Primăria din Stockholm este o capodoperă a romantismului național suedez, fiind celebră ca loc de desfășurare a banchetului Premiului Nobel.",
+      en: "Stockholm City Hall is a landmark of National Romanticism, famously hosting the annual Nobel Prize banquet within its grand ceremonial halls.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 23. Juni 1923", "Turmhöhe: 106 Meter", "8 Millionen Ziegelsteine verbaut", "Architekt: Ragnar Östberg"],
+      hu: ["Megnyitás: 1923. június 23.", "A torony magassága: 106 méter", "8 millió tégla felhasználásával épült", "Tervező: Ragnar Östberg"],
+      ro: ["Inaugurată la 23 iunie 1923", "Înălțimea turnului: 106 metri", "Construită din 8 milioane de cărămizi", "Arhitect: Ragnar Östberg"],
+      en: ["Opened June 23, 1923", "Tower height: 106 meters", "8 million bricks used in construction", "Architect: Ragnar Östberg"],
+    },
+    image: "/poi-images/sweden-stockholm-city-hall-landmarks-v2.webp",
+},  {
     id: "sweden-skansen-landmarks-v2",
     type: "museum",
-    name: { de: "Skansen", hu: "Skansen", ro: "Skansen", en: "Skansen" },
+    name: { de: "Skansen", hu: "Skansen", ro: "Skansen", en: "Skansen",
+image: "/poi-images/sweden-skansen-landmarks-v2.webp"
+},
     coords: [18.1028, 59.325],
     coordinates: { lat: 59.325, lng: 18.1028 },
     description: {
@@ -57,11 +89,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1891", "Găzduiește o grădină zoologică cu elani", "Fondatorul a fost Artur Hazelius", "Găzduiește sărbători tradiționale suedeze"],
       en: ["Founded in 1891", "Houses a zoo with Nordic animals like moose", "Founder was Artur Hazelius", "Venue for traditional Swedish celebrations"],
     },
-    imageHint: "Skansen open air museum traditional wooden houses", image: "/poi-images/sweden-skansen-landmarks-v2.webp"},
-  {
+imageHint: "Skansen open air museum traditional wooden houses",
+    descriptionAdvanced: {
+      de: "Als ältestes Freilichtmuseum der Welt zeigt Skansen die schwedische Kulturgeschichte mit historischen Gebäuden und einem Zoo für nordische Tiere.",
+      hu: "A világ legrégebbi szabadtéri múzeuma svéd történelmi épületeket és északi állatfajokat bemutató állatkertet kínál a Djurgården szigetén.",
+      ro: "Skansen este cel mai vechi muzeu în aer liber din lume, prezentând istoria culturală a Suediei prin clădiri istorice și o grădină zoologică.",
+      en: "Skansen is the world's oldest open-air museum, showcasing centuries of Swedish cultural history and native Nordic wildlife on Djurgården island.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 11. Oktober 1891", "Gründer: Artur Hazelius", "Fläche: etwa 30 Hektar", "Über 150 historische Gebäude"],
+      hu: ["Alapítás: 1891. október 11.", "Alapító: Artur Hazelius", "Terület: kb. 30 hektár", "Több mint 150 történelmi épület"],
+      ro: ["Fondat la 11 octombrie 1891", "Fondator: Artur Hazelius", "Suprafață: aproximativ 30 de hectare", "Peste 150 de clădiri istorice"],
+      en: ["Founded October 11, 1891", "Founder: Artur Hazelius", "Area: approx. 30 hectares", "Over 150 historical buildings"],
+    },
+    image: "/poi-images/sweden-skansen-landmarks-v2.webp",
+},  {
     id: "sweden-turning-torso-landmarks-v2",
     type: "tower",
-    name: { de: "Turning Torso", hu: "Turning Torso", ro: "Turning Torso", en: "Turning Torso" },
+    name: { de: "Turning Torso", hu: "Turning Torso", ro: "Turning Torso", en: "Turning Torso",
+image: "/poi-images/sweden-turning-torso-landmarks-v2.webp"
+},
     coords: [12.9767, 55.6131],
     coordinates: { lat: 55.6131, lng: 12.9767 },
     description: {
@@ -76,11 +123,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Înălțime de 190 de metri", "Proiectat de Santiago Calatrava", "Inaugurat în anul 2005", "Compus din nouă segmente"],
       en: ["Height of 190 meters", "Designed by Santiago Calatrava", "Opened in 2005", "Consists of nine segments"],
     },
-    imageHint: "Turning Torso skyscraper Malmö", image: "/poi-images/sweden-turning-torso-landmarks-v2.webp"},
-  {
+imageHint: "Turning Torso skyscraper Malmö",
+    descriptionAdvanced: {
+      de: "Dieser markante Wolkenkratzer in Malmö war der weltweit erste spiralförmig verdrehte Turm und ist heute ein Symbol für moderne Architektur.",
+      hu: "Malmő ikonikus felhőkarcolója a világ első csavart toronyháza, amely 190 méteres magasságával a modern építészet egyedülálló alkotása.",
+      ro: "Turning Torso din Malmö este primul zgârie-nori torsionat din lume, reprezentând o piesă de referință a arhitecturii contemporane suedeze.",
+      en: "The Turning Torso in Malmö is the world's first twisting skyscraper, reaching 190 meters with a unique 90-degree turn from base to top.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 190 Meter", "Stockwerke: 54 Etagen", "Drehung: 90 Grad von unten nach oben", "Architekt: Santiago Calatrava"],
+      hu: ["Magasság: 190 méter", "Szintek száma: 54 emelet", "Elfordulás: 90 fok az alaphoz képest", "Tervező: Santiago Calatrava"],
+      ro: ["Înălțime: 190 metri", "Număr de etaje: 54", "Rotație: 90 de grade de la bază", "Arhitect: Santiago Calatrava"],
+      en: ["Height: 190 meters", "Floors: 54 levels", "Twist: 90 degrees from base to top", "Architect: Santiago Calatrava"],
+    },
+    image: "/poi-images/sweden-turning-torso-landmarks-v2.webp",
+},  {
     id: "sweden-oresund-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Öresundbrücke", hu: "Öresund híd", ro: "Podul Øresund", en: "Öresund Bridge" },
+    name: { de: "Öresundbrücke", hu: "Öresund híd", ro: "Podul Øresund", en: "Öresund Bridge",
+image: "/poi-images/sweden-oresund-bridge-landmarks-v2.webp"
+},
     coords: [12.84, 55.57],
     coordinates: { lat: 55.57, lng: 12.84 },
     description: {
@@ -95,11 +157,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Lungime totală de 7.845 metri", "Inaugurat în anul 2000", "Include un tunel artificial", "Pilonii principali au 204 metri înălțime"],
       en: ["Total length of 7,845 meters", "Opened in 2000", "Includes an underwater tunnel", "Main pylons are 204 meters high"],
     },
-    imageHint: "Oresund bridge connecting Sweden and Denmark", image: "/poi-images/sweden-oresund-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Oresund bridge connecting Sweden and Denmark",
+    descriptionAdvanced: {
+      de: "Diese kombinierte Schienen- und Straßenverbindung verbindet Schweden mit Dänemark und ist ein Meisterwerk der modernen Ingenieurskunst.",
+      hu: "A Svédországot és Dániát összekötő híd- és alagútrendszer az európai mérnöki tudomány egyik legjelentősebb modern alkotása.",
+      ro: "Podul Øresund este o conexiune feroviară și rutieră vitală între Suedia și Danemarca, fiind o capodoperă a ingineriei moderne.",
+      en: "The Øresund Bridge is a combined railway and motorway link connecting Sweden and Denmark, spanning the strait as a feat of modern engineering.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Brücke: 7.845 Meter", "Eröffnung: 1. Juli 2000", "Tunnelanteil: 4.050 Meter", "Pylonenhöhe: 204 Meter"],
+      hu: ["A híd hossza: 7845 méter", "Megnyitás: 2000. július 1.", "Az alagút hossza: 4050 méter", "Pilonok magassága: 204 méter"],
+      ro: ["Lungimea podului: 7.845 metri", "Inaugurare: 1 iulie 2000", "Lungimea tunelului: 4.050 metri", "Înălțimea pilonilor: 204 metri"],
+      en: ["Bridge length: 7,845 meters", "Opened: July 1, 2000", "Tunnel length: 4,050 meters", "Pylon height: 204 meters"],
+    },
+    image: "/poi-images/sweden-oresund-bridge-landmarks-v2.webp",
+},  {
     id: "sweden-avicii-arena-landmarks-v2",
     type: "landmark",
-    name: { de: "Avicii Arena (Globen)", hu: "Avicii Aréna", ro: "Avicii Arena", en: "Avicii Arena" },
+    name: { de: "Avicii Arena (Globen)", hu: "Avicii Aréna", ro: "Avicii Arena", en: "Avicii Arena",
+image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp"
+},
     coords: [18.0833, 59.2936],
     coordinates: { lat: 59.2936, lng: 18.0833 },
     description: {
@@ -114,11 +191,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Diametru de 110 metri", "Inaugurată în anul 1989", "Capacitate de până la 16.000 locuri", "Dispune de o gondolă de sticlă exterioară"],
       en: ["Diameter of 110 meters", "Opened in 1989", "Capacity of up to 16,000 people", "Features an external glass gondola lift"],
     },
-    imageHint: "Avicii Arena globe building Stockholm", image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp"},
-  {
+imageHint: "Avicii Arena globe building Stockholm",
+    descriptionAdvanced: {
+      de: "Die als „Globen“ bekannte Arena ist das größte sphärische Gebäude der Welt und dient als wichtigster Veranstaltungsort für Sport und Musik.",
+      hu: "A korábban Globen néven ismert épület a világ legnagyobb gömb alakú építménye, amely Stockholm jelentős sport- és koncerthelyszíne.",
+      ro: "Avicii Arena, cunoscută sub numele de Globen, este cea mai mare clădire sferică din lume, fiind un centru major pentru evenimente și sport.",
+      en: "Avicii Arena, commonly known as Globen, is the world's largest spherical building and serves as a premier venue for concerts and sports.",
+    },
+    factsAdvanced: {
+      de: ["Durchmesser: 110 Meter", "Innenhöhe: 85 Meter", "Eröffnung: 19. Februar 1989", "Kapazität: bis zu 16.000 Zuschauer"],
+      hu: ["Átmérő: 110 méter", "Belső magasság: 85 méter", "Megnyitás: 1989. február 19.", "Befogadóképesség: kb. 16 000 fő"],
+      ro: ["Diametru: 110 metri", "Înălțime interioară: 85 metri", "Inaugurare: 19 februarie 1989", "Capacitate: până la 16.000 persoane"],
+      en: ["Diameter: 110 meters", "Inner height: 85 meters", "Opened: February 19, 1989", "Capacity: up to 16,000 spectators"],
+    },
+    image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp",
+},  {
     id: "sweden-gota-canal-landmarks-v2",
     type: "landmark",
-    name: { de: "Göta-Kanal", hu: "Göta-csatorna", ro: "Canalul Göta", en: "Göta Canal" },
+    name: { de: "Göta-Kanal", hu: "Göta-csatorna", ro: "Canalul Göta", en: "Göta Canal",
+image: "/poi-images/sweden-gota-canal-landmarks-v2.webp"
+},
     coords: [15.0, 58.5],
     coordinates: { lat: 58.5, lng: 15.0 },
     description: {
@@ -133,11 +225,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Are un total de 58 de ecluze", "Inaugurat în anul 1832", "Proiectat de Baltzar von Platen", "Numit adesea 'Panglica Albastră'"],
       en: ["Includes a total of 58 locks", "Opened in 1832", "Designed by Baltzar von Platen", "Often called the 'Blue Ribbon' of Sweden"],
     },
-    imageHint: "Gota canal boat passing through locks", image: "/poi-images/sweden-gota-canal-landmarks-v2.webp"},
-  {
+imageHint: "Gota canal boat passing through locks",
+    descriptionAdvanced: {
+      de: "Diese historische Wasserstraße verbindet die West- und Ostküste Schwedens und gilt als eines der größten Bauprojekte der Landesgeschichte.",
+      hu: "A Svédország nyugati és keleti partját összekötő történelmi víziút az ország egyik legnagyobb 19. századi mérnöki vállalkozása volt.",
+      ro: "Canalul Göta este o cale navigabilă istorică ce leagă coasta de vest de cea de est a Suediei, fiind un proiect ingineresc monumental.",
+      en: "The Göta Canal is a historic waterway connecting Sweden's west and east coasts, representing one of the country's greatest civil engineering feats.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: ca. 190 Kilometer", "Anzahl der Schleusen: 58", "Bauzeit: 1810 bis 1832", "Höchster Punkt: 91,8 Meter"],
+      hu: ["Teljes hossz: kb. 190 kilométer", "Zsilipek száma: 58", "Épült: 1810 és 1832 között", "Legmagasabb pont: 91,8 méter"],
+      ro: ["Lungime totală: aprox. 190 km", "Număr de ecluze: 58", "Construcție: 1810–1832", "Punct maxim: 91,8 metri altitudine"],
+      en: ["Total length: approx. 190 km", "Number of locks: 58", "Construction: 1810–1832", "Highest point: 91.8 meters"],
+    },
+    image: "/poi-images/sweden-gota-canal-landmarks-v2.webp",
+},  {
     id: "sweden-kiruna-church-landmarks-v2",
     type: "church",
-    name: { de: "Kirche von Kiruna", hu: "Kirunai templom", ro: "Biserica din Kiruna", en: "Kiruna Church" },
+    name: { de: "Kirche von Kiruna", hu: "Kirunai templom", ro: "Biserica din Kiruna", en: "Kiruna Church",
+image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp"
+},
     coords: [20.2331, 67.8519],
     coordinates: { lat: 67.8519, lng: 20.2331 },
     description: {
@@ -152,11 +259,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construită în 1912", "Una dintre cele mai mari clădiri de lemn din țară", "Pictura altarului este de Prințul Eugen", "Va fi mutată din cauza mineritului"],
       en: ["Completed in 1912", "One of Sweden's largest wooden buildings", "Altarpiece painted by Prince Eugen", "Scheduled to be moved due to mining activity"],
     },
-    imageHint: "Kiruna Church red wooden building", image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp"},
-  {
+imageHint: "Kiruna Church red wooden building",
+    descriptionAdvanced: {
+      de: "Die Holzkirche von Kiruna, erbaut im Stil einer samischen Hütte, wurde von den Schweden bereits zum schönsten Gebäude des Landes gewählt.",
+      hu: "A számi sátrak formáját idéző kirunai fatemplom Svédország egyik legkülönlegesebb épülete, amelyet az ország legszebb építményének is megválasztottak.",
+      ro: "Biserica din Kiruna este o structură de lemn unică, inspirată de corturile samilor, fiind votată drept cea mai frumoasă clădire din Suedia.",
+      en: "Kiruna Church is a unique wooden structure inspired by Sami tents, famously voted as Sweden's most beautiful building by its citizens.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1912 fertiggestellt", "Architekt: Gustaf Wickman", "Stil: Nationalromantik", "Besonderheit: Vollständig aus Holz"],
+      hu: ["Befejezés éve: 1912", "Tervező: Gustaf Wickman", "Stílus: nemzeti romantika", "Jellemző: teljesen fából készült"],
+      ro: ["Finalizată în anul 1912", "Arhitect: Gustaf Wickman", "Stil: Romantism Național", "Caracteristică: construită integral din lemn"],
+      en: ["Completed in 1912", "Architect: Gustaf Wickman", "Style: National Romanticism", "Feature: Built entirely of wood"],
+    },
+    image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp",
+},  {
     id: "sweden-carlsten-fortress-landmarks-v2",
     type: "landmark",
-    name: { de: "Festung Carlsten", hu: "Carlsten erőd", ro: "Cetatea Carlsten", en: "Carlsten Fortress" },
+    name: { de: "Festung Carlsten", hu: "Carlsten erőd", ro: "Cetatea Carlsten", en: "Carlsten Fortress",
+image: "/poi-images/sweden-carlsten-fortress-landmarks-v2.webp"
+},
     coords: [11.5794, 57.8864],
     coordinates: { lat: 57.8864, lng: 11.5794 },
     description: {
@@ -171,11 +293,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1658", "Situată pe cel mai înalt punct din Marstrand", "Închisoarea hoțului Lasse-Maja", "Oferă vedere spre Kattegat"],
       en: ["Construction began in 1658", "Situated on Marstrand's highest point", "Prison of the famous thief Lasse-Maja", "Offers views over the Kattegat sea"],
     },
-    imageHint: "Carlsten Fortress Marstrand island", image: "/poi-images/sweden-carlsten-fortress-landmarks-v2.webp"},
-  {
+imageHint: "Carlsten Fortress Marstrand island",
+    descriptionAdvanced: {
+      de: "Die mächtige Festung auf der Insel Marstrand schützte über Jahrhunderte die Westküste und diente lange Zeit als berüchtigtes Staatsgefängnis.",
+      hu: "A Marstrand szigetén álló hatalmas erőd évszázadokon át védte a nyugati partot, és hírhedt állami börtönként is funkcionált.",
+      ro: "Cetatea Carlsten de pe insula Marstrand a protejat coasta de vest timp de secole și a servit ca închisoare de stat notorie.",
+      en: "Carlsten Fortress on Marstrand Island protected the west coast for centuries and served as a notorious state prison for long periods.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1658", "Material: massiver Granit", "Besonderheit: kreisförmiger Hauptturm", "Ort: Insel Marstrand"],
+      hu: ["Építés kezdete: 1658", "Alapanyag: tömör gránit", "Jellemző: kör alaprajzú főtorony", "Helyszín: Marstrand szigete"],
+      ro: ["Începerea construcției: 1658", "Material: granit masiv", "Caracteristică: turn central circular", "Locație: Insula Marstrand"],
+      en: ["Construction started: 1658", "Material: solid granite", "Feature: circular main tower", "Location: Marstrand Island"],
+    },
+    image: "/poi-images/sweden-carlsten-fortress-landmarks-v2.webp",
+},  {
     id: "sweden-stockholm-old-town-landmarks-v2",
     type: "landmark",
-    name: { de: "Gamla Stan", hu: "Gamla Stan (Óváros)", ro: "Gamla Stan", en: "Gamla Stan (Old Town)" },
+    name: { de: "Gamla Stan", hu: "Gamla Stan (Óváros)", ro: "Gamla Stan", en: "Gamla Stan (Old Town)",
+image: "/poi-images/sweden-stockholm-old-town-landmarks-v2.webp"
+},
     coords: [18.0708, 59.325],
     coordinates: { lat: 59.325, lng: 18.0708 },
     description: {
@@ -190,11 +327,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea", "Găzduiește piața Stortorget", "Cea mai îngustă stradă are 90 cm", "Locul 'Băii de sânge din Stockholm'"],
       en: ["Founded in the 13th century", "Home to the Stortorget square", "Narrowest alley is only 90 cm wide", "Site of the Stockholm Bloodbath (1520)"],
     },
-    imageHint: "Gamla Stan colorful buildings Stortorget", image: "/poi-images/sweden-stockholm-old-town-landmarks-v2.webp"},
-  {
+imageHint: "Gamla Stan colorful buildings Stortorget",
+    descriptionAdvanced: {
+      de: "Gamla Stan ist das mittelalterliche Herz Stockholms mit engen Gassen, farbenfrohen Häusern und dem historischen Marktplatz Stortorget.",
+      hu: "Stockholm középkori óvárosa, a Gamla Stan, szűk sikátoraival és színes házaival a város történelmi és turisztikai központja.",
+      ro: "Gamla Stan este centrul medieval al Stockholmului, caracterizat prin străduțe înguste, case colorate și piața istorică Stortorget.",
+      en: "Gamla Stan is Stockholm's medieval heart, featuring narrow cobblestone streets, colorful buildings, and the historic Stortorget square.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 13. Jahrhundert", "Hauptplatz: Stortorget", "Ort des Stockholmer Blutbads", "Sitz der Storkyrkan"],
+      hu: ["Alapítás: 13. század", "Főtér: Stortorget", "A stockholmi vérfürdő helyszíne", "Itt található a Storkyrkan székesegyház"],
+      ro: ["Fondat în secolul al XIII-lea", "Piața principală: Stortorget", "Locul Masacrului de la Stockholm", "Găzduiește catedrala Storkyrkan"],
+      en: ["Founded in the 13th century", "Main square: Stortorget", "Site of the Stockholm Bloodbath", "Home to the Storkyrkan cathedral"],
+    },
+    image: "/poi-images/sweden-stockholm-old-town-landmarks-v2.webp",
+},  {
     id: "sweden-royal-opera-landmarks-v2",
     type: "theater",
-    name: { de: "Königliche Oper", hu: "Királyi Opera", ro: "Opera Regală Suedeză", en: "Royal Swedish Opera" },
+    name: { de: "Königliche Oper", hu: "Királyi Opera", ro: "Opera Regală Suedeză", en: "Royal Swedish Opera",
+image: "/poi-images/sweden-royal-opera-landmarks-v2.webp"
+},
     coords: [18.0706, 59.3297],
     coordinates: { lat: 59.3297, lng: 18.0706 },
     description: {
@@ -209,11 +361,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondată de Gustav al III-lea", "Inaugurată în anul 1898", "Locul asasinării lui Gustav al III-lea", "Sediul Baletului Regal Suedez"],
       en: ["Founded by King Gustav III", "Opened in 1898", "Site of King Gustav III's assassination", "Home of the Royal Swedish Ballet"],
     },
-    imageHint: "Royal Swedish Opera building Stockholm", image: "/poi-images/sweden-royal-opera-landmarks-v2.webp"},
-  {
+imageHint: "Royal Swedish Opera building Stockholm",
+    descriptionAdvanced: {
+      de: "Die Königliche Oper in Stockholm ist die schwedische Nationalbühne für Oper und Ballett und beeindruckt durch ihre neoklassizistische Pracht.",
+      hu: "A stockholmi Királyi Opera Svédország nemzeti operaháza és balett-társulatának otthona, amely neoklasszicista stílusával nyűgözi le a látogatókat.",
+      ro: "Opera Regală Suedeză din Stockholm este scena națională pentru operă și balet, impresionând prin arhitectura sa neoclasică.",
+      en: "The Royal Swedish Opera in Stockholm is the national stage for opera and ballet, housed in a magnificent neoclassical building.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1773 durch Gustav III.", "Aktuelles Gebäude von 1898", "Architekt: Axel Anderberg", "Sitz des Royal Swedish Ballet"],
+      hu: ["Alapítás: 1773 (III. Gusztáv által)", "A jelenlegi épület éve: 1898", "Tervező: Axel Anderberg", "A Svéd Királyi Balett otthona"],
+      ro: ["Fondată în 1773 de Gustav III", "Clădirea actuală din 1898", "Arhitect: Axel Anderberg", "Sediul Baletului Regal Suedez"],
+      en: ["Founded in 1773 by Gustav III", "Current building from 1898", "Architect: Axel Anderberg", "Home of the Royal Swedish Ballet"],
+    },
+    image: "/poi-images/sweden-royal-opera-landmarks-v2.webp",
+},  {
     id: "sweden-nordic-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Nordisches Museum", hu: "Nordiska múzeum", ro: "Muzeul Nordic", en: "Nordic Museum" },
+    name: { de: "Nordisches Museum", hu: "Nordiska múzeum", ro: "Muzeul Nordic", en: "Nordic Museum",
+image: "/poi-images/sweden-nordic-museum-landmarks-v2.webp"
+},
     coords: [18.0939, 59.3292],
     coordinates: { lat: 59.3292, lng: 18.0939 },
     description: {
@@ -228,12 +395,27 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1873", "Construit între 1888 și 1907", "Deține 1,5 milioane de obiecte", "Statuie mare a lui Gustav Vasa în interior"],
       en: ["Founded in 1873", "Built between 1888 and 1907", "Collection includes 1.5 million items", "Houses a massive statue of King Gustav Vasa"],
     },
-    imageHint: "Nordiska museet building Stockholm", image: "/poi-images/sweden-nordic-museum-landmarks-v2.webp"}
-,
+imageHint: "Nordiska museet building Stockholm",
+    descriptionAdvanced: {
+      de: "Das Nordische Museum auf Djurgården widmet sich der schwedischen Kulturgeschichte und dem Alltag vom 16. Jahrhundert bis heute.",
+      hu: "A Djurgården-szigeten található Nordiska museet a svéd kultúrtörténetet és a mindennapi életet mutatja be a 16. századtól napjainkig.",
+      ro: "Muzeul Nordic din Djurgården este dedicat istoriei culturale a Suediei și vieții cotidiene din secolul al XVI-lea până în prezent.",
+      en: "The Nordic Museum on Djurgården is dedicated to Swedish cultural history and everyday life from the 16th century to the present day.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1907 (heutiges Gebäude)", "Architekt: Isak Gustaf Clason", "Große Halle: 126 Meter lang", "Thema: Nordische Lebensart"],
+      hu: ["Megnyitás: 1907 (jelenlegi épület)", "Tervező: Isak Gustaf Clason", "A nagycsarnok hossza: 126 méter", "Téma: északi életmód és kultúra"],
+      ro: ["Inaugurat în 1907 (clădirea actuală)", "Arhitect: Isak Gustaf Clason", "Hala principală: 126 metri lungime", "Subiect: stilul de viață nordic"],
+      en: ["Opened in 1907 (current building)", "Architect: Isak Gustaf Clason", "Great Hall: 126 meters long", "Topic: Nordic lifestyle and culture"],
+    },
+    image: "/poi-images/sweden-nordic-museum-landmarks-v2.webp",
+},
   {
     id: "sweden-nationalmuseum-landmarks-v2",
     type: "museum",
-    name: { de: "Nationalmuseum", hu: "Nemzeti Múzeum", ro: "Muzeul Național", en: "National Museum" },
+    name: { de: "Nationalmuseum", hu: "Nemzeti Múzeum", ro: "Muzeul Național", en: "National Museum",
+image: "/poi-images/sweden-nationalmuseum-landmarks-v2.webp"
+},
     coordinates: { lat: 59.3283, lng: 18.0778 },
     description: {
       de: "Das Nationalmuseum auf der Halbinsel Blasieholmen ist Schwedens führendes Museum für Kunst und Design. Der Bau wurde 1866 eröffnet und beherbergt eine bedeutende Sammlung von Malerei und Skulptur.",
@@ -248,11 +430,25 @@ export const swedenLandmarksV2: POI[] = [
       en: ["Opened in the year 1866", "Designed by Friedrich August Stüler", "Houses over 700,000 objects", "Center for Swedish art history"],
     },
     imageHint: "Nationalmuseum Stockholm facade from the water",
+    descriptionAdvanced: {
+      de: "Schwedens führendes Museum für Kunst und Design beherbergt Sammlungen vom Mittelalter bis hin zu zeitgenössischen Werken.",
+      hu: "Svédország vezető művészeti és design múzeuma a középkortól napjainkig őriz értékes gyűjteményeket a Blasieholmen-félszigeten.",
+      ro: "Principalul muzeu de artă și design din Suedia găzduiește colecții vaste, de la perioada medievală până la lucrări contemporane.",
+      en: "Sweden's leading museum of art and design houses extensive collections ranging from the Middle Ages to contemporary works.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1792", "Heutiges Gebäude von 1866", "Sammlung: ca. 700.000 Objekte", "Ort: Blasieholmen, Stockholm"],
+      hu: ["Alapítás éve: 1792", "A jelenlegi épület éve: 1866", "Gyűjtemény: kb. 700 000 tárgy", "Helyszín: Blasieholmen, Stockholm"],
+      ro: ["Fondat în anul 1792", "Clădirea actuală din 1866", "Colecție: cca. 700.000 de obiecte", "Locație: Blasieholmen, Stockholm"],
+      en: ["Founded in 1792", "Current building from 1866", "Collection: approx. 700,000 objects", "Location: Blasieholmen, Stockholm"],
+    },
   },
   {
     id: "sweden-masthugget-church-landmarks-v2",
     type: "church",
-    name: { de: "Masthuggskirche", hu: "Masthugget-templom", ro: "Biserica Masthugget", en: "Masthugget Church" },
+    name: { de: "Masthuggskirche", hu: "Masthugget-templom", ro: "Biserica Masthugget", en: "Masthugget Church",
+image: "/poi-images/sweden-masthugget-church-landmarks-v2.webp"
+},
     coordinates: { lat: 57.6991, lng: 11.9367 },
     description: {
       de: "Die Masthuggskirche in Göteborg ist bekannt für ihre markante Architektur im nordischen Nationalromantik-Stil. Sie steht auf einem Hügel und bietet einen weiten Blick über die Stadt und den Hafen.",
@@ -266,11 +462,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Finalizată în anul 1914", "Proiectată de Sigfrid Ericson", "Turn distinctiv de 60 de metri", "Simbol al orașului Göteborg"],
       en: ["Completed in the year 1914", "Designed by Sigfrid Ericson", "Striking 60-meter high tower", "Landmark of the city of Gothenburg"],
     },
-    imageHint: "Masthuggskyrkan Gothenburg exterior at dusk", image: "/poi-images/sweden-masthugget-church-landmarks-v2.webp"},
-  {
+imageHint: "Masthuggskyrkan Gothenburg exterior at dusk",
+    descriptionAdvanced: {
+      de: "Die Masthugget-Kirche thront auf einem Hügel über Göteborg und ist mit ihrem markanten Turm ein Wahrzeichen der nationalromantischen Architektur.",
+      hu: "A göteborgi dombtetőn magasodó Masthugget-templom jellegzetes tornyával a nemzeti romantika egyik legfontosabb építészeti emléke.",
+      ro: "Biserica Masthugget domină orașul Göteborg de pe un deal, fiind un reper al arhitecturii romantice naționale suedeze.",
+      en: "Masthugget Church towers over Gothenburg from its hilltop location, serving as a prominent landmark of National Romantic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung: 1914", "Architekt: Sigfrid Ericson", "Baustil: Nationalromantik", "Turmhöhe: 60 Meter"],
+      hu: ["Felszentelés: 1914", "Tervező: Sigfrid Ericson", "Építészeti stílus: nemzeti romantika", "Toronymagasság: 60 méter"],
+      ro: ["Inaugurată în anul 1914", "Arhitect: Sigfrid Ericson", "Stil arhitectural: Romantism Național", "Înălțimea turnului: 60 metri"],
+      en: ["Inaugurated in 1914", "Architect: Sigfrid Ericson", "Architectural style: National Romantic", "Tower height: 60 meters"],
+    },
+    image: "/poi-images/sweden-masthugget-church-landmarks-v2.webp",
+},  {
     id: "sweden-vadstena-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Vadstena", hu: "Vadstenai vár", ro: "Castelul Vadstena", en: "Vadstena Castle" },
+    name: { de: "Schloss Vadstena", hu: "Vadstenai vár", ro: "Castelul Vadstena", en: "Vadstena Castle",
+image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 58.4462, lng: 14.8875 },
     description: {
       de: "Schloss Vadstena ist eine ehemalige königliche Residenz am Vätternsee. Die Festung wurde im 16. Jahrhundert unter König Gustav Vasa erbaut und gilt als eines der am besten erhaltenen Renaissanceschlösser Schwedens.",
@@ -284,11 +495,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1545", "Înconjurat de un șanț cu apă", "Găzduiește Arhivele Provinciale", "Inițial o fortăreață de apărare"],
       en: ["Construction began in 1545", "Surrounded by a water-filled moat", "Houses the Provincial Archives", "Formerly a defensive fortress"],
     },
-    imageHint: "Vadstena Castle and moat in summer", image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp"},
-  {
+imageHint: "Vadstena Castle and moat in summer",
+    descriptionAdvanced: {
+      de: "Die ehemalige Königsburg am Vätternsee wurde von Gustav Vasa als Verteidigungsfestung erbaut und später in ein prächtiges Renaissanceschloss umgewandelt.",
+      hu: "A Vättern-tó partján álló egykori királyi várat I. Vasa Gusztáv építtette védelmi célból, majd később elegáns reneszánsz kastéllyá alakították.",
+      ro: "Fostul castel regal de pe malul lacului Vättern a fost construit de Gustav Vasa ca fortăreață, devenind ulterior un palat renascentist.",
+      en: "This former royal castle on Lake Vättern was built by Gustav Vasa for defense before being transformed into a magnificent Renaissance palace.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1545", "Bauherr: König Gustav Vasa", "Besonderheit: Wassergraben", "Stil: Nordische Renaissance"],
+      hu: ["Építés kezdete: 1545", "Építtető: I. Vasa Gusztáv király", "Jellemző: vizesárok veszi körül", "Stílus: északi reneszánsz"],
+      ro: ["Început în anul 1545", "Ctitor: Regele Gustav Vasa", "Caracteristică: șanț cu apă", "Stil: Renaștere nordică"],
+      en: ["Construction started: 1545", "Commissioned by: King Gustav Vasa", "Feature: Surrounding moat", "Style: Nordic Renaissance"],
+    },
+    image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp",
+},  {
     id: "sweden-high-coast-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Högakustenbrücke", hu: "Höga Kusten híd", ro: "Podul Coasta Înaltă", en: "High Coast Bridge" },
+    name: { de: "Högakustenbrücke", hu: "Höga Kusten híd", ro: "Podul Coasta Înaltă", en: "High Coast Bridge",
+image: "/poi-images/sweden-high-coast-bridge-landmarks-v2.webp"
+},
     coordinates: { lat: 62.7975, lng: 17.9389 },
     description: {
       de: "Die Högakustenbrücke ist eine Hängebrücke über den Fluss Ångermanälven im Norden Schwedens. Sie ist ein markantes Bauwerk an der Europastraße 4 und liegt im Weltnaturerbe Höga Kusten.",
@@ -302,11 +528,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Lungime totală de 1.867 metri", "Inaugurat pe 1 decembrie 1997", "Pilonii au 180 de metri înălțime", "Al doilea cel mai lung pod din Scandinavia"],
       en: ["Total length of 1,867 meters", "Opened on December 1, 1997", "Pylons are 180 meters high", "Second longest suspension bridge in Scandinavia"],
     },
-    imageHint: "Högakustenbron suspension bridge over the river", image: "/poi-images/sweden-high-coast-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Högakustenbron suspension bridge over the river",
+    descriptionAdvanced: {
+      de: "Die Högakustenbron ist eine beeindruckende Hängebrücke über den Fluss Ångermanälven und ein zentrales Bauwerk an der schwedischen Weltnaturerbeküste.",
+      hu: "Az Ångermanälven folyón átívelő Högakustenbron egy lenyűgöző függőhíd a világörökség részét képező Magas-part mentén.",
+      ro: "Podul Coastei Înalte este o punte suspendată spectaculoasă peste râul Ångermanälven, situată într-o zonă inclusă în patrimoniul UNESCO.",
+      en: "The High Coast Bridge is a stunning suspension bridge over the Ångermanälven river, located along Sweden's UNESCO-listed World Heritage coast.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 1.210 Meter", "Hauptspannweite: 810 Meter", "Eröffnung: 1. Dezember 1997", "Pylonenhöhe: 180 Meter"],
+      hu: ["Teljes hossz: 1210 méter", "Főtámaszköz: 810 méter", "Megnyitás: 1997. december 1.", "Pilonok magassága: 180 méter"],
+      ro: ["Lungime totală: 1.210 metri", "Deschiderea principală: 810 metri", "Inaugurare: 1 decembrie 1997", "Înălțimea pilonilor: 180 metri"],
+      en: ["Total length: 1,210 meters", "Main span: 810 meters", "Opened: December 1, 1997", "Pylon height: 180 meters"],
+    },
+    image: "/poi-images/sweden-high-coast-bridge-landmarks-v2.webp",
+},  {
     id: "sweden-skara-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Dom zu Skara", hu: "Skarai székesegyház", ro: "Catedrala din Skara", en: "Skara Cathedral" },
+    name: { de: "Dom zu Skara", hu: "Skarai székesegyház", ro: "Catedrala din Skara", en: "Skara Cathedral",
+image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp"
+},
     coordinates: { lat: 58.3861, lng: 13.4397 },
     description: {
       de: "Der Dom zu Skara ist eine der ältesten Kathedralen Schwedens und Sitz des Bistums Skara. Das heutige gotische Erscheinungsbild resultiert aus mehreren Umbauten seit dem 11. Jahrhundert.",
@@ -320,11 +561,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 1000", "Două turnuri de 63 de metri înălțime", "Găzduiește artă medievală valoroasă", "Arhitectură gotică din secolul al XIII-lea"],
       en: ["Founded around the year 1000", "Two distinctive 63-meter high towers", "Houses valuable medieval art", "13th-century Gothic architecture"],
     },
-    imageHint: "Skara Cathedral twin towers and facade", image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Skara Cathedral twin towers and facade",
+    descriptionAdvanced: {
+      de: "Der Dom zu Skara ist eine der ältesten Kathedralen Schwedens und prägt mit seinen Doppeltürmen seit Jahrhunderten das Panorama der Ebene von Västergötland.",
+      hu: "A skarai székesegyház Svédország egyik legrégebbi katedrálisa, amely kettős tornyaival évszázadok óta meghatározza Västergötland látképét.",
+      ro: "Catedrala din Skara este una dintre cele mai vechi din Suedia, turnurile sale gemene dominând peisajul câmpiei Västergötland de secole.",
+      en: "Skara Cathedral is one of Sweden's oldest cathedrals, its twin towers defining the horizon of the Västergötland plains for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: um das Jahr 1000", "Heutiger Stil: Gotik", "Restaurierung: Helgo Zettervall", "Besonderheit: Doppelturmfassade"],
+      hu: ["Alapítás: 1000 körül", "Jelenlegi stílus: gótikus", "Restaurálás: Helgo Zettervall", "Jellemző: kettős torony"],
+      ro: ["Fondată în jurul anului 1000", "Stil actual: Gotic", "Restaurată de Helgo Zettervall", "Caracteristică: fațadă cu două turnuri"],
+      en: ["Founded: around 1000 AD", "Current style: Gothic", "Restoration: Helgo Zettervall", "Feature: Twin-tower facade"],
+    },
+    image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp",
+},  {
     id: "sweden-stromsholm-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Schloss Strömsholm", hu: "Strömsholmi palota", ro: "Palatul Strömsholm", en: "Strömsholm Palace" },
+    name: { de: "Schloss Strömsholm", hu: "Strömsholmi palota", ro: "Palatul Strömsholm", en: "Strömsholm Palace",
+image: "/poi-images/sweden-stromsholm-palace-landmarks-v2.webp"
+},
     coordinates: { lat: 59.5244, lng: 16.2708 },
     description: {
       de: "Schloss Strömsholm ist ein königliches Barockschloss in der Nähe von Västerås. Es wurde im 17. Jahrhundert erbaut und ist heute besonders für seine langjährige Verbindung zum schwedischen Pferdesport bekannt.",
@@ -338,11 +594,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construit între 1669 și 1674", "Proiectat de Nicodemus Tessin cel Bătrân", "Sediul școlii de echitație suedeze", "Construit pentru regina Hedwig Eleonora"],
       en: ["Built between 1669 and 1674", "Designed by Nicodemus Tessin the Elder", "Seat of the Swedish riding school", "Built for Queen Hedwig Eleonora"],
     },
-    imageHint: "Strömsholm Palace yellow facade and gardens", image: "/poi-images/sweden-stromsholm-palace-landmarks-v2.webp"},
-  {
+imageHint: "Strömsholm Palace yellow facade and gardens",
+    descriptionAdvanced: {
+      de: "Das gelbe Barockschloss Strömsholm ist eng mit der schwedischen Pferdezucht verbunden und beherbergt bedeutende königliche Reitställe.",
+      hu: "A sárga színű barokk Strömsholm-kastély szorosan kötődik a svéd lótenyésztéshez, és jelentős királyi istállóknak ad otthont.",
+      ro: "Palatul Strömsholm este o reședință barocă galbenă, strâns legată de tradiția ecvestră suedeză și hergheliile regale.",
+      en: "The yellow baroque Strömsholm Palace is closely tied to Swedish horse breeding and houses significant royal riding stables.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1669 bis 1674", "Architekt: Nicodemus Tessin d. Ä.", "Nutzung: Reitsportzentrum", "Lage: am See Mälaren"],
+      hu: ["Épült: 1669 és 1674 között", "Tervező: id. Nicodemus Tessin", "Használat: lovas központ", "Fekvés: a Mälaren-tó partján"],
+      ro: ["Construcție: 1669–1674", "Arhitect: Nicodemus Tessin cel Bătrân", "Utilizare: centru ecvestru", "Locație: pe malul lacului Mälaren"],
+      en: ["Built: 1669–1674", "Architect: Nicodemus Tessin the Elder", "Usage: Equestrian center", "Location: By Lake Mälaren"],
+    },
+    image: "/poi-images/sweden-stromsholm-palace-landmarks-v2.webp",
+},  {
     id: "sweden-moderna-museet-landmarks-v2",
     type: "museum",
-    name: { de: "Moderna Museet", hu: "Moderna Museet", ro: "Moderna Museet", en: "Museum of Modern Art" },
+    name: { de: "Moderna Museet", hu: "Moderna Museet", ro: "Moderna Museet", en: "Museum of Modern Art",
+image: "/poi-images/sweden-moderna-museet-landmarks-v2.webp"
+},
     coordinates: { lat: 59.3259, lng: 18.0847 },
     description: {
       de: "Das Moderna Museet auf der Insel Skeppsholmen ist Schwedens staatliches Museum für moderne und zeitgenössische Kunst. Es beherbergt Meisterwerke von Künstlern wie Picasso, Dali und Matisse.",
@@ -356,11 +627,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1958", "Clădire nouă proiectată de Rafael Moneo", "Parc de sculpturi faimos în exterior", "Accesul la colecție este adesea gratuit"],
       en: ["Opened in the year 1958", "New building designed by Rafael Moneo", "World-famous outdoor sculpture park", "Entry to the collection is often free"],
     },
-    imageHint: "Moderna Museet Stockholm exterior on Skeppsholmen", image: "/poi-images/sweden-moderna-museet-landmarks-v2.webp"},
-  {
+imageHint: "Moderna Museet Stockholm exterior on Skeppsholmen",
+    descriptionAdvanced: {
+      de: "Das Museum für moderne Kunst auf Skeppsholmen präsentiert eine erstklassige Sammlung zeitgenössischer Werke von Picasso bis Warhol.",
+      hu: "A Skeppsholmen-szigeten található Moderna Museet a kortárs művészet egyik legfontosabb gyűjteménye, Picassótól Warholig mutat be műveket.",
+      ro: "Muzeul de Artă Modernă din Skeppsholmen prezintă o colecție de clasă mondială de lucrări contemporane, de la Picasso la Warhol.",
+      en: "Moderna Museet on Skeppsholmen presents a world-class collection of contemporary art, ranging from Picasso to Warhol.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1958", "Standort: Skeppsholmen, Stockholm", "Architekt (Neubau): Rafael Moneo", "Eintritt: oft kostenlos für Sammlungen"],
+      hu: ["Megnyitás: 1958", "Helyszín: Skeppsholmen, Stockholm", "Tervező (új épület): Rafael Moneo", "Belépés: az állandó tárlat sokszor ingyenes"],
+      ro: ["Inaugurare: 1958", "Locație: Skeppsholmen, Stockholm", "Arhitect (clădire nouă): Rafael Moneo", "Acces: adesea gratuit pentru colecții"],
+      en: ["Opened: 1958", "Location: Skeppsholmen, Stockholm", "Architect (new wing): Rafael Moneo", "Entry: often free for permanent collections"],
+    },
+    image: "/poi-images/sweden-moderna-museet-landmarks-v2.webp",
+},  {
     id: "sweden-gothenburg-city-theatre-landmarks-v2",
     type: "theater",
-    name: { de: "Stadttheater Göteborg", hu: "Göteborgi Városi Színház", ro: "Teatrul Municipal din Göteborg", en: "Gothenburg City Theatre" },
+    name: { de: "Stadttheater Göteborg", hu: "Göteborgi Városi Színház", ro: "Teatrul Municipal din Göteborg", en: "Gothenburg City Theatre",
+image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp"
+},
     coordinates: { lat: 57.6972, lng: 11.9792 },
     description: {
       de: "Das Stadttheater Göteborg am Götaplatsen ist eines der bedeutendsten Schauspielhäuser Schwedens. Das Gebäude ist ein herausragendes Beispiel für die funktionalistische Architektur der 1930er Jahre.",
@@ -374,11 +660,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1934", "Proiectat de Carl Bergsten", "Cel mai vechi teatru municipal din Suedia", "Renumit pentru interiorul său elegant"],
       en: ["Opened in the year 1934", "Designed by Carl Bergsten", "Sweden's oldest city theatre", "Famous for its elegant interior"],
     },
-    imageHint: "Gothenburg City Theatre facade at Götaplatsen", image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp"},
-  {
+imageHint: "Gothenburg City Theatre facade at Götaplatsen",
+    descriptionAdvanced: {
+      de: "Das Stadttheater von Göteborg am Götaplatsen ist bekannt für seine ambitionierten Inszenierungen und seine markante funktionalistische Architektur.",
+      hu: "A Götaplatsen téren álló göteborgi városi színház ambiciózus előadásairól és jellegzetes funkcionalista építészetéről ismert.",
+      ro: "Teatrul Municipal din Göteborg, situat în Götaplatsen, este renumit pentru producțiile sale ambițioase și arhitectura funcționalistă.",
+      en: "Gothenburg City Theatre on Götaplatsen is renowned for its ambitious productions and its striking functionalist architecture.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1934", "Architekt: Carl Bergsten", "Platz: Götaplatsen", "Bühnen: Große Bühne und Studio"],
+      hu: ["Megnyitás: 1934", "Tervező: Carl Bergsten", "Helyszín: Götaplatsen", "Színpadok: Nagyszínpad és Stúdió"],
+      ro: ["Inaugurare: 1934", "Arhitect: Carl Bergsten", "Locație: Götaplatsen", "Scene: Scena Mare și Studio"],
+      en: ["Opened: 1934", "Architect: Carl Bergsten", "Location: Götaplatsen", "Stages: Main Stage and Studio"],
+    },
+    image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp",
+},  {
     id: "sweden-svaneholm-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Schloss Svaneholm", hu: "Svaneholmi kastély", ro: "Castelul Svaneholm", en: "Svaneholm Castle" },
+    name: { de: "Schloss Svaneholm", hu: "Svaneholmi kastély", ro: "Castelul Svaneholm", en: "Svaneholm Castle",
+image: "/poi-images/sweden-svaneholm-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 55.5008, lng: 13.4786 },
     description: {
       de: "Schloss Svaneholm ist ein Renaissancebau in der Gemeinde Skurup in Schonen. Es liegt malerisch an einem See und beherbergt heute ein kulturhistorisches Museum und ein renommiertes Restaurant.",
@@ -392,11 +693,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construit în anii 1530", "Structură cu patru aripi și curte interioară", "Faimos datorită reformatorului Macklean", "Înconjurat de un parc vast"],
       en: ["Built in the 1530s", "Four-wing structure with a courtyard", "Famous due to reformer Rutger Macklean", "Surrounded by a large park"],
     },
-    imageHint: "Svaneholm Castle red brick building by the lake", image: "/poi-images/sweden-svaneholm-castle-landmarks-v2.webp"},
-  {
+imageHint: "Svaneholm Castle red brick building by the lake",
+    descriptionAdvanced: {
+      de: "Das Schloss Svaneholm in Schonen ist ein prachtvoller Ziegelbau der Renaissance und bekannt für die Agrarreformen von Rutger Macklean.",
+      hu: "A Skåne tartományban található Svaneholm-kastély egy pompás reneszánsz téglaépület, amely Rutger Macklean mezőgazdasági reformjairól nevezetes.",
+      ro: "Castelul Svaneholm din Skåne este o structură de cărămidă în stil renascentist, faimos pentru reformele agrare ale lui Rutger Macklean.",
+      en: "Svaneholm Castle in Skåne is a magnificent Renaissance brick building, famous for the agricultural reforms of Rutger Macklean.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: um 1530 begonnen", "Stil: dänische Renaissance", "Besonderheit: am Svaneholm-See", "Nutzung: heute Museum"],
+      hu: ["Építés kezdete: 1530 körül", "Stílus: dán reneszánsz", "Fekvés: a Svaneholm-tó partján", "Mai funkció: múzeum"],
+      ro: ["Început în jurul anului 1530", "Stil: Renaștere daneză", "Locație: pe malul lacului Svaneholm", "Utilizare actuală: muzeu"],
+      en: ["Construction started: approx. 1530", "Style: Danish Renaissance", "Location: By Lake Svaneholm", "Current use: Museum"],
+    },
+    image: "/poi-images/sweden-svaneholm-castle-landmarks-v2.webp",
+},  {
     id: "sweden-technical-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Technisches Museum", hu: "Műszaki Múzeum", ro: "Muzeul Tehnic", en: "Technical Museum" },
+    name: { de: "Technisches Museum", hu: "Műszaki Múzeum", ro: "Muzeul Tehnic", en: "Technical Museum",
+image: "/poi-images/sweden-technical-museum-landmarks-v2.webp"
+},
     coordinates: { lat: 59.3325, lng: 18.1189 },
     description: {
       de: "Das Tekniska museet in Stockholm ist Schwedens größtes Museum für Technik und Industrie. Es bietet interaktive Ausstellungen zur Wissenschaftsgeschichte und zur technologischen Entwicklung der Zukunft.",
@@ -410,11 +726,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1924", "Clădire situată în Gärdet din 1936", "Găzduiește un cinema modern Wisdome", "Peste 50.000 de piese în colecție"],
       en: ["Founded in the year 1924", "Located in Gärdet since 1936", "Houses a modern Wisdome cinema", "Over 50,000 items in the collection"],
     },
-    imageHint: "Tekniska museet Stockholm exterior and Wisdome building", image: "/poi-images/sweden-technical-museum-landmarks-v2.webp"},
-  {
+imageHint: "Tekniska museet Stockholm exterior and Wisdome building",
+    descriptionAdvanced: {
+      de: "Das Tekniska Museet in Stockholm ist Schwedens größtes Technikmuseum und widmet sich Innovationen, Industrie und Technikgeschichte.",
+      hu: "A stockholmi Tekniska museet Svédország legnagyobb műszaki múzeuma, amely az innovációkat és az ipartörténetet mutatja be.",
+      ro: "Tekniska Museet din Stockholm este cel mai mare muzeu tehnic din Suedia, dedicat inovațiilor, industriei și istoriei tehnologiei.",
+      en: "The Technical Museum (Tekniska) in Stockholm is Sweden's largest, dedicated to innovation, industry, and the history of technology.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1924", "Sammlung: über 50.000 Objekte", "Besonderheit: interaktive Ausstellungen", "Ort: Djurgårdsbrunnsvägen"],
+      hu: ["Alapítás: 1924", "Gyűjtemény: több mint 50 000 tárgy", "Jellemző: interaktív kiállítások", "Helyszín: Stockholm, Gärdet"],
+      ro: ["Fondat în anul 1924", "Colecție: peste 50.000 de obiecte", "Caracteristică: expoziții interactive", "Locație: Stockholm, Gärdet"],
+      en: ["Founded: 1924", "Collection: over 50,000 objects", "Feature: Interactive exhibitions", "Location: Stockholm, Gärdet"],
+    },
+    image: "/poi-images/sweden-technical-museum-landmarks-v2.webp",
+},  {
     id: "sweden-alvsborg-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Älvsborgsbrücke", hu: "Älvsborg híd", ro: "Podul Älvsborg", en: "Älvsborg Bridge" },
+    name: { de: "Älvsborgsbrücke", hu: "Älvsborg híd", ro: "Podul Älvsborg", en: "Älvsborg Bridge",
+image: "/poi-images/sweden-alvsborg-bridge-landmarks-v2.webp"
+},
     coordinates: { lat: 57.6911, lng: 11.9022 },
     description: {
       de: "Die Älvsborgsbrücke ist eine markante grüne Hängebrücke, die den Göta älv in Göteborg überquert. Sie verbindet die nördlichen und südlichen Teile der Stadt und ist ein wichtiges Wahrzeichen des Hafens.",
@@ -428,11 +759,26 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1966", "Lungime totală de 933 metri", "Deschiderea principală are 417 metri", "Pilonii au 107 metri înălțime"],
       en: ["Opened in the year 1966", "Total length of 933 meters", "Main span measures 417 meters", "Pylons are 107 meters high"],
     },
-    imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers", image: "/poi-images/sweden-alvsborg-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
+    descriptionAdvanced: {
+      de: "Die Älvsborgsbron ist eine der markantesten Hängebrücken Schwedens und bildet das westliche Tor zum Hafen von Göteborg.",
+      hu: "Az Älvsborg-híd Svédország egyik leglátványosabb függőhídja, amely Göteborg kikötőjének nyugati kapujaként szolgál.",
+      ro: "Podul Älvsborg este una dintre cele mai proeminente punți suspendate din Suedia, formând poarta de vest spre portul Göteborg.",
+      en: "The Älvsborg Bridge is one of Sweden's most iconic suspension bridges, serving as the western gateway to Gothenburg's harbor.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung: 1966", "Gesamtlänge: 933 Meter", "Hauptspannweite: 418 Meter", "Höhe: 45 Meter über Wasser"],
+      hu: ["Megnyitás: 1966", "Teljes hossz: 933 méter", "Főtámaszköz: 418 méter", "Magasság: 45 méter a víz felett"],
+      ro: ["Inaugurare: 1966", "Lungime totală: 933 metri", "Deschiderea principală: 418 metri", "Înălțime liberă: 45 metri"],
+      en: ["Inaugurated: 1966", "Total length: 933 meters", "Main span: 418 meters", "Clearance height: 45 meters"],
+    },
+    image: "/poi-images/sweden-alvsborg-bridge-landmarks-v2.webp",
+},  {
     id: "sweden-sofia-church-landmarks-v2",
     type: "church",
-    name: { de: "Sofienkirche", hu: "Zsófia-templom", ro: "Biserica Sofia", en: "Sofia Church" },
+    name: { de: "Sofienkirche", hu: "Zsófia-templom", ro: "Biserica Sofia", en: "Sofia Church",
+image: "/poi-images/sweden-sofia-church-landmarks-v2.webp"
+},
     coordinates: { lat: 59.3122, lng: 18.0883 },
     description: {
       de: "Die Sofienkirche thront auf dem Gipfel des Vita Bergen im Stockholmer Stadtteil Södermalm. Sie wurde zu Beginn des 20. Jahrhunderts erbaut und ist nach der schwedischen Königin Sophia benannt.",
@@ -447,5 +793,17 @@ export const swedenLandmarksV2: POI[] = [
       en: ["Built between 1902 and 1906", "Highest situated church in Stockholm", "Designed by Gustaf Hermansson", "Central building in Rhenish Transitional style"],
     },
     imageHint: "Sofia Church Stockholm on top of the hill",
+    descriptionAdvanced: {
+      de: "Die Sofia-Kirche thront auf dem höchsten Punkt von Södermalm und ist ein bedeutendes Beispiel für die sakrale Architektur des frühen 20. Jahrhunderts.",
+      hu: "A Södermalm legmagasabb pontján álló Zsófia-templom a 20. század eleji svéd egyházi építészet egyik legszebb példája.",
+      ro: "Biserica Sofia domină cartierul Södermalm de la cel mai înalt punct, fiind un exemplu major de arhitectură sacră de la începutul secolului XX.",
+      en: "Sofia Church towers over Södermalm from its highest point, representing a significant example of early 20th-century sacred architecture.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung: 1906", "Architekt: Gustaf Hermansson", "Stil: Neoromanik", "Ort: Vitabergsparken, Stockholm"],
+      hu: ["Felszentelés: 1906", "Tervező: Gustaf Hermansson", "Stílus: neoromán", "Helyszín: Vitabergsparken, Stockholm"],
+      ro: ["Inaugurare: 1906", "Arhitect: Gustaf Hermansson", "Stil: Neoromanic", "Locație: Vitabergsparken, Stockholm"],
+      en: ["Inaugurated: 1906", "Architect: Gustaf Hermansson", "Style: Neo-Romanesque", "Location: Vitabergsparken, Stockholm"],
+    },
   }
 ];

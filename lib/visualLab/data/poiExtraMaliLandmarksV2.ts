@@ -11,8 +11,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Djingareyber-Moschee",
       hu: "Djingareyber mecset",
       ro: "Marea Moschee Djingareyber",
-      en: "Djingareyber Mosque"
-    },
+      en: "Djingareyber Mosque",
+image: "/poi-images/djingareyber-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die älteste Moschee in Timbuktu, erbaut im 14. Jahrhundert und bekannt für ihre Lehmbauweise.",
       hu: "Timbuktu legrégebbi mecsete, amely a 14. században épült, és híres vályogépítészetéről.",
@@ -43,8 +44,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Nationalmuseum von Mali",
       hu: "Mali Nemzeti Múzeum",
       ro: "Muzeul Național din Mali",
-      en: "National Museum of Mali"
-    },
+      en: "National Museum of Mali",
+image: "/poi-images/national-museum-mali-landmarks-v2.webp"
+},
     description: {
       de: "Das bedeutendste archäologische und ethnologische Museum des Landes, gelegen in der Hauptstadt Bamako.",
       hu: "Az ország legjelentősebb régészeti és néprajzi múzeuma, mely a fővárosban, Bamakóban található.",
@@ -75,8 +77,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "BCEAO-Turm Bamako",
       hu: "BCEAO torony Bamako",
       ro: "Turnul BCEAO Bamako",
-      en: "BCEAO Tower Bamako"
-    },
+      en: "BCEAO Tower Bamako",
+image: "/poi-images/bceao-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Hochhaus in Bamako, das die Hauptgeschäftsstelle der Westafrikanischen Zentralbank in Mali beherbergt.",
       hu: "Modern felhőkarcoló Bamakóban, amely a Nyugat-afrikai Központi Bank mali központjának ad otthont.",
@@ -107,8 +110,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "König-Fahd-Brücke",
       hu: "Fahd király híd",
       ro: "Podul Regele Fahd",
-      en: "King Fahd Bridge"
-    },
+      en: "King Fahd Bridge",
+image: "/poi-images/pont-du-roi-fahd-landmarks-v2.webp"
+},
     description: {
       de: "Eine wichtige Brücke über den Nigerfluss in Bamako, die das Stadtzentrum mit den südlichen Vororten verbindet.",
       hu: "Fontos híd a Niger folyón Bamakóban, amely összeköti a városközpontot a déli külvárosokkal.",
@@ -139,8 +143,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Stadion 26. März",
       hu: "Március 26. Stadion",
       ro: "Stadionul 26 Martie",
-      en: "Stade 26 Mars"
-    },
+      en: "Stade 26 Mars",
+image: "/poi-images/stade-26-mars-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Sportstadion Malis, das oft für internationale Fußballspiele und Großveranstaltungen genutzt wird.",
       hu: "Mali legnagyobb sportstadionja, amelyet gyakran használnak nemzetközi labdarúgó-mérkőzésekhez és nagy eseményekhez.",
@@ -171,8 +176,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Große Moschee von Bamako",
       hu: "Bamakói Nagymecset",
       ro: "Marea Moschee din Bamako",
-      en: "Bamako Grand Mosque"
-    },
+      en: "Bamako Grand Mosque",
+image: "/poi-images/bamako-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges islamisches Gotteshaus im Zentrum von Bamako, geprägt von ihrer modernen weißen Architektur.",
       hu: "Fontos iszlám istentiszteleti hely Bamako központjában, melyet modern fehér építészete jellemez.",
@@ -203,8 +209,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Herz-Jesu-Kathedrale",
       hu: "Jézus Szíve Katedrális",
       ro: "Catedrala Sfânta Inimă",
-      en: "Sacred Heart Cathedral"
-    },
+      en: "Sacred Heart Cathedral",
+image: "/poi-images/sacred-heart-cathedral-bamako-landmarks-v2.webp"
+},
     description: {
       de: "Die wichtigste römisch-katholische Kirche in Bamako, ein Symbol für das christliche Erbe der Stadt.",
       hu: "Bamako legfontosabb római katolikus temploma, a város keresztény örökségének szimbóluma.",
@@ -235,8 +242,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Hamdallaye-Moschee (Ruinen)",
       hu: "Hamdallaye Mecset (Romok)",
       ro: "Moscheea Hamdallaye (Ruine)",
-      en: "Hamdallaye Mosque (Ruins)"
-    },
+      en: "Hamdallaye Mosque (Ruins)",
+image: "/poi-images/hamdallaye-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die historischen Überreste einer monumentalen Moschee in der einstigen Hauptstadt des Massina-Reichs.",
       hu: "Egy monumentális mecset történelmi maradványai a Massina Birodalom egykori fővárosában.",
@@ -267,8 +275,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Sané-Moschee von Djenné",
       hu: "Djennéi Sané Mecset",
       ro: "Moscheea Sané din Djenné",
-      en: "Sané Mosque of Djenné"
-    },
+      en: "Sané Mosque of Djenné",
+image: "/poi-images/niando-mosque-djenne-landmarks-v2.webp"
+},
     description: {
       de: "Eine weitere bedeutende Lehmbau-Moschee in Djenné, die das reiche islamische Erbe der Region widerspiegelt.",
       hu: "Egy másik jelentős vályogépítésű mecset Djennében, amely a régió gazdag iszlám örökségét tükrözi.",
@@ -299,8 +308,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Grabmal von Askia",
       hu: "Askia sírja",
       ro: "Mormântul lui Askia",
-      en: "Tomb of Askia"
-    },
+      en: "Tomb of Askia",
+image: "/poi-images/tomb-of-askia-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Lehmpyramide in Gao, die als Ruhestätte für Askia Mohammad I., den Kaiser des Songhai-Reiches, dient.",
       hu: "Lenyűgöző vályogpiramis Gaóban, amely Askia Mohammad I, a Szonghai Birodalom császárának végső nyughelye.",
@@ -331,8 +341,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Große Moschee von Gao",
       hu: "Gao Nagymecsete",
       ro: "Marea Moschee din Gao",
-      en: "Grand Mosque of Gao"
-    },
+      en: "Grand Mosque of Gao",
+image: "/poi-images/gao-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches religiöses Zentrum in Gao, das eng mit der Geschichte des Songhai-Reiches verbunden ist.",
       hu: "Gao történelmi vallási központja, amely szorosan kapcsolódik a Szonghai Birodalom történetéhez.",
@@ -363,8 +374,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Alkabass-Monument",
       hu: "Alkabass emlékmű",
       ro: "Monumentul Alkabass",
-      en: "Alkabass Monument"
-    },
+      en: "Alkabass Monument",
+image: "/poi-images/monument-alkabass-gao-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Wahrzeichen in Gao, das lokale kulturelle Elemente und historische Bedeutung in sich vereint.",
       hu: "Egy modern nevezetesség Gaóban, amely ötvözi a helyi kulturális elemeket és a történelmi jelentőséget.",
@@ -393,8 +405,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Große Moschee von Ségou",
       hu: "Ségou Nagymecsete",
       ro: "Marea Moschee din Ségou",
-      en: "Grand Mosque of Ségou"
-    },
+      en: "Grand Mosque of Ségou",
+image: "/poi-images/segou-grand-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Ein prächtiges Gebäude der islamischen Architektur in Ségou, dem historischen Zentrum des Bamana-Reiches.",
       hu: "A ségoui iszlám építészet pompás épülete, a Bamana Birodalom történelmi központjában.",
@@ -423,8 +436,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Palast von Biton Coulibaly (Ruinen)",
       hu: "Biton Coulibaly palotája (Romok)",
       ro: "Palatul lui Biton Coulibaly (Ruine)",
-      en: "Palace of Biton Coulibaly (Ruins)"
-    },
+      en: "Palace of Biton Coulibaly (Ruins)",
+image: "/poi-images/palais-du-roi-biton-coulibaly-landmarks-v2.webp"
+},
     description: {
       de: "Die historischen Überreste der Residenz des Gründers des Bamana-Reiches im 18. Jahrhundert nahe Ségou.",
       hu: "A Bamana Birodalom 18. századi alapítójának rezidenciájának történelmi maradványai Ségou közelében.",
@@ -453,8 +467,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Markala-Damm",
       hu: "Markala gát",
       ro: "Barajul Markala",
-      en: "Markala Dam"
-    },
+      en: "Markala Dam",
+image: "/poi-images/markala-dam-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Stauwerk in Mali, errichtet auf dem Niger, um eine umfangreiche Bewässerung in der Region Office du Niger zu ermöglichen.",
       hu: "Mali legnagyobb duzzasztógátja, amelyet a Niger folyón építettek az Office du Niger régió kiterjedt öntözésének lehetővé tételére.",
@@ -483,8 +498,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Brücke von Kayes",
       hu: "Kayes híd",
       ro: "Podul din Kayes",
-      en: "Kayes Bridge"
-    },
+      en: "Kayes Bridge",
+image: "/poi-images/kayes-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Verkehrsverbindung über den Fluss Senegal in der heißen Stadt Kayes.",
       hu: "Jellegzetes közlekedési kapcsolat a Szenegál folyón át a forró Kayes városában.",
@@ -513,8 +529,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Palast des Tiéba Traoré",
       hu: "Tiéba Traoré palotája",
       ro: "Palatul lui Tiéba Traoré",
-      en: "Palace of Tiéba Traoré"
-    },
+      en: "Palace of Tiéba Traoré",
+image: "/poi-images/palace-of-tieba-traore-landmarks-v2.webp"
+},
     description: {
       de: "Die verbliebenen Strukturen der königlichen Residenz im Kenedougou-Reich in Sikasso.",
       hu: "A Kenedougou Királyság egykori királyi rezidenciájának fennmaradt szerkezetei Sikassóban.",
@@ -543,8 +560,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Missirikoro-Moschee (in der Grotte)",
       hu: "Missirikoro Mecset (a barlangban)",
       ro: "Moscheea Missirikoro (în grotă)",
-      en: "Missirikoro Mosque (in the Grotto)"
-    },
+      en: "Missirikoro Mosque (in the Grotto)",
+image: "/poi-images/missirikoro-grotto-landmarks-v2.webp"
+},
     description: {
       de: "Eine einzigartige Kultstätte nahe Sikasso, die in natürliche Felsformationen integriert ist.",
       hu: "Egyedülálló istentiszteleti hely Sikasso közelében, amely a természetes sziklaképződményekbe illeszkedik.",
@@ -572,8 +590,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Al-Farouk-Monument",
       hu: "Al-Farouk emlékmű",
       ro: "Monumentul Al-Farouk",
-      en: "Al-Farouk Monument"
-    },
+      en: "Al-Farouk Monument",
+image: "/poi-images/monument-al-farouk-landmarks-v2.webp"
+},
     description: {
       de: "Ein Wahrzeichen in Timbuktu, das den Schutzpatron der Stadt auf einem Pferd darstellt, bevor es während der Krise beschädigt wurde.",
       hu: "Timbuktu nevezetessége, amely a város védőszentjét ábrázolja egy lovon, a válság idején elszenvedett sérülése előtt.",
@@ -602,8 +621,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "BCEAO-Gebäude Mopti",
       hu: "BCEAO épület Mopti",
       ro: "Clădirea BCEAO Mopti",
-      en: "BCEAO Building Mopti"
-    },
+      en: "BCEAO Building Mopti",
+image: "/poi-images/bceao-building-mopti-landmarks-v2.webp"
+},
     description: {
       de: "Die regionale Filiale der Zentralbank in Mopti, bekannt für ihre interessante Mischung aus moderner und traditioneller Architektur.",
       hu: "A Központi Bank regionális fiókja Moptiban, amely a modern és a hagyományos építészet érdekes ötvözetéről ismert.",
@@ -632,8 +652,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Heilige Hütte von Kangaba (Kama Blon)",
       hu: "Kangaba Szent Kunyhója (Kama Blon)",
       ro: "Coliba Sacră din Kangaba (Kama Blon)",
-      en: "Sacred Hut of Kangaba (Kama Blon)"
-    },
+      en: "Sacred Hut of Kangaba (Kama Blon)",
+image: "/poi-images/kangaba-sacred-hut-landmarks-v2.webp"
+},
     description: {
       de: "Ein kleines, aber sehr wichtiges traditionelles Gebäude in Kangaba, das bei zeremoniellen Erneuerungen eine zentrale Rolle spielt.",
       hu: "Egy kicsi, de nagyon fontos hagyományos épület Kangabában, amely központi szerepet játszik az ünnepélyes felújításokban.",
@@ -662,8 +683,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Märtyrerdenkmal",
       hu: "Mártírok emlékműve",
       ro: "Monumentul Martirilor",
-      en: "Martyrs Monument"
-    },
+      en: "Martyrs Monument",
+image: "/poi-images/martyrs-monument-bamako-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Denkmal in Bamako, das den Opfern der Revolution von 1991 gewidmet ist.",
       hu: "Jelentős emlékmű Bamakóban, amelyet az 1991-es forradalom áldozatainak szenteltek.",
@@ -692,8 +714,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Tour de l'Afrique",
       hu: "Afrika-torony",
       ro: "Turnul Africii",
-      en: "Tour of Africa"
-    },
+      en: "Tour of Africa",
+image: "/poi-images/tour-d-afrique-bamako-landmarks-v2.webp"
+},
     description: {
       de: "Ein bekanntes Monument in Form eines großen Affenbrotbaums an einem Hauptverkehrsknotenpunkt in Bamako, das die afrikanische Einheit symbolisiert.",
       hu: "Egy hatalmas majomkenyérfa alakú ismert emlékmű egy bamakói fő csomópontban, amely az afrikai egységet szimbolizálja.",
@@ -722,8 +745,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Friedensflamme Timbuktu",
       hu: "Timbuktui Békeláng",
       ro: "Flacăra Păcii Timbuktu",
-      en: "Flame of Peace Timbuktu"
-    },
+      en: "Flame of Peace Timbuktu",
+image: "/poi-images/peace-monument-tombouctou-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Timbuktu, das an das Ende der Tuareg-Rebellion in den 1990er Jahren und die symbolische Verbrennung von Waffen erinnert.",
       hu: "Timbuktui emlékmű, amely a tuareg lázadás 1990-es évekbeli lezárásának és a fegyverek szimbolikus elégetésének állít emléket.",
@@ -752,8 +776,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Denkmal der Helden der Schwarzen Armee",
       hu: "Fekete Hadsereg hőseinek emlékműve",
       ro: "Monumentul Eroilor Armatei Negre",
-      en: "Monument to the Heroes of the Black Army"
-    },
+      en: "Monument to the Heroes of the Black Army",
+image: "/poi-images/monument-des-heros-de-larmee-noire-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges Denkmal in Bamako, das den afrikanischen Soldaten gewidmet ist, die im Ersten Weltkrieg kämpften.",
       hu: "Fontos emlékmű Bamakóban, amelyet az első világháborúban harcolt afrikai katonáknak szenteltek.",
@@ -782,8 +807,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "BCEAO-Gebäude Sikasso",
       hu: "BCEAO épület Sikasso",
       ro: "Clădirea BCEAO Sikasso",
-      en: "BCEAO Building Sikasso"
-    },
+      en: "BCEAO Building Sikasso",
+image: "/poi-images/tour-bceao-sikasso-landmarks-v2.webp"
+},
     description: {
       de: "Die moderne Zweigstelle der westafrikanischen Zentralbank in der südlichen Landwirtschaftsmetropole Sikasso.",
       hu: "A nyugat-afrikai központi bank modern fiókja a déli mezőgazdasági metropoliszban, Sikassóban.",
@@ -812,8 +838,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Brücke der Märtyrer",
       hu: "Mártírok hídja",
       ro: "Podul Martirilor",
-      en: "Martyrs' Bridge"
-    },
+      en: "Martyrs' Bridge",
+image: "/poi-images/pont-martyrs-bamako-landmarks-v2.webp"
+},
     description: {
       de: "Die erste Brücke, die den Niger in Bamako überspannte, sie erinnert heute an die Opfer politischer Proteste.",
       hu: "Az első híd, amely átívelt a Nigeren Bamakóban, ma a politikai tiltakozások áldozataira emlékeztet.",
@@ -842,8 +869,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Flusspferd-Monument",
       hu: "Víziló emlékmű",
       ro: "Monumentul Hipopotamului",
-      en: "Hippopotamus Monument"
-    },
+      en: "Hippopotamus Monument",
+image: "/poi-images/monument-hippopotame-bamako-landmarks-v2.webp"
+},
     description: {
       de: "Eine markante Skulptur im Zentrum von Bamako, die das Flusspferd – das Namenssymbol der Stadt ('Bama-ko') – darstellt.",
       hu: "Jellegzetes szobor Bamako központjában, amely a vízilovat - a város nevét adó szimbólumot ('Bama-ko') - ábrázolja.",
@@ -872,8 +900,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Modibo-Keïta-Mahnmal",
       hu: "Modibo Keïta Emlékmű",
       ro: "Memorialul Modibo Keïta",
-      en: "Modibo Keïta Memorial"
-    },
+      en: "Modibo Keïta Memorial",
+image: "/poi-images/memorial-modibo-keita-landmarks-v2.webp"
+},
     description: {
       de: "Ein monumentaler Komplex in Bamako zu Ehren des ersten Präsidenten des unabhängigen Mali, Modibo Keïta.",
       hu: "Monumentális komplexum Bamakóban a független Mali első elnöke, Modibo Keïta tiszteletére.",
@@ -902,8 +931,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Haus der Handwerker (Maison des Artisans)",
       hu: "Kézművesek Háza (Maison des Artisans)",
       ro: "Casa Artizanilor (Maison des Artisans)",
-      en: "House of Artisans (Maison des Artisans)"
-    },
+      en: "House of Artisans (Maison des Artisans)",
+image: "/poi-images/grand-marche-bamako-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Gebäude nahe dem großen Markt von Bamako, das die architektonische Förderung des lokalen Handwerks zeigt.",
       hu: "Jelentős épület a bamakói nagy piac közelében, amely a helyi kézművesség építészeti támogatását mutatja be.",

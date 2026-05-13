@@ -6,7 +6,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "ruin",
     parent: "BT-11",
     coords: [89.3211, 27.5019],
-    name: { de: "Drukgyel-Dzong-Ruine", hu: "Drukgyel Dzong romjai", ro: "Ruinele Drukgyel Dzong", en: "Drukgyel Dzong Ruins" },
+    name: { de: "Drukgyel-Dzong-Ruine", hu: "Drukgyel Dzong romjai", ro: "Ruinele Drukgyel Dzong", en: "Drukgyel Dzong Ruins",
+image: "/poi-images/drukgyel-dzong-history-v2.webp"
+},
     description: {
       de: "Diese im 17. Jahrhundert erbaute Festung diente als Verteidigungsanlage gegen tibetische Invasionen. Sie brannte 1951 ab und wird heute als wichtiges Denkmal erhalten.",
       hu: "A 17. században épült erődítmény a tibeti inváziók elleni védekezést szolgálta. 1951-ben leégett, ma fontos történelmi romként őrzik.",
@@ -27,7 +29,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-11",
     coords: [89.4140, 27.4285],
-    name: { de: "Kyichu Lhakhang", hu: "Kyichu Lhakhang templom", ro: "Templul Kyichu Lhakhang", en: "Kyichu Lhakhang" },
+    name: { de: "Kyichu Lhakhang", hu: "Kyichu Lhakhang templom", ro: "Templul Kyichu Lhakhang", en: "Kyichu Lhakhang",
+image: "/poi-images/kyichu-lhakhang-history-v2.webp"
+},
     description: {
       de: "Einer der ältesten Tempel Bhutans, der der Legende nach im 7. Jahrhundert vom tibetischen König Songtsen Gampo erbaut wurde. Er ist ein bedeutendes spirituelles Zentrum.",
       hu: "Bhután egyik legrégebbi temploma, amelyet a legenda szerint a 7. században épített a tibeti Songtsen Gampo király. Jelentős spirituális központ.",
@@ -48,7 +52,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-11",
     coords: [89.4267, 27.4272],
-    name: { de: "Rinpung Dzong", hu: "Rinpung Dzong", ro: "Rinpung Dzong", en: "Rinpung Dzong" },
+    name: { de: "Rinpung Dzong", hu: "Rinpung Dzong", ro: "Rinpung Dzong", en: "Rinpung Dzong",
+image: "/poi-images/rinpung-dzong-history-v2.webp"
+},
     description: {
       de: "Eine riesige Festung und Klosteranlage im Paro-Tal, erbaut 1646. Sie ist ein hervorragendes Beispiel für die traditionelle bhutanische Architektur.",
       hu: "A Rinpung Dzong egy 17. századi erődített kolostor, amely Paro völgyének közigazgatási és vallási központja. Az épület a bhutáni építészet egyik legkiemelkedőbb példája, amely évszázadokon át védelmet nyújtott a régió számára.",
@@ -69,7 +75,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-11",
     coords: [89.4277, 27.4258],
-    name: { de: "Ta Dzong (Nationalmuseum)", hu: "Ta Dzong (Nemzeti Múzeum)", ro: "Ta Dzong (Muzeul Național)", en: "Ta Dzong (National Museum)" },
+    name: { de: "Ta Dzong (Nationalmuseum)", hu: "Ta Dzong (Nemzeti Múzeum)", ro: "Ta Dzong (Muzeul Național)", en: "Ta Dzong (National Museum)",
+image: "/poi-images/ta-dzong-paro-history-v2.webp"
+},
     description: {
       de: "Dieser ehemalige Wachturm oberhalb des Rinpung Dzong wurde 1968 in das Nationalmuseum von Bhutan umgewandelt und beherbergt historische Artefakte.",
       hu: "Ezt a Rinpung Dzong felett található egykori őrtornyot 1968-ban Bhután Nemzeti Múzeumává alakították, és történelmi leleteket őriz.",
@@ -90,7 +98,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-23",
     coords: [89.8633, 27.5833],
-    name: { de: "Punakha Dzong", hu: "Punakha Dzong", ro: "Punakha Dzong", en: "Punakha Dzong" },
+    name: { de: "Punakha Dzong", hu: "Punakha Dzong", ro: "Punakha Dzong", en: "Punakha Dzong",
+image: "/poi-images/punakha-dzong-history-v2.webp"
+},
     description: {
       de: "Die zweitälteste und zweitgrößte Festung Bhutans, erbaut 1637. Sie diente bis 1955 als administrative und religiöse Hauptstadt des Landes.",
       hu: "Bhután második legrégebbi és második legnagyobb erődje, amelyet 1637-ben építettek. 1955-ig az ország közigazgatási és vallási fővárosa volt.",
@@ -111,7 +121,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-23",
     coords: [89.8735, 27.5312],
-    name: { de: "Chimi Lhakhang", hu: "Chimi Lhakhang", ro: "Chimi Lhakhang", en: "Chimi Lhakhang" },
+    name: { de: "Chimi Lhakhang", hu: "Chimi Lhakhang", ro: "Chimi Lhakhang", en: "Chimi Lhakhang",
+image: "/poi-images/chimi-lhakhang-history-v2.webp"
+},
     description: {
       de: "Ein buddhistisches Kloster im Punakha-Distrikt, das 1499 erbaut wurde. Es ist berühmt als der Tempel der Fruchtbarkeit und wird von vielen Pilgern besucht.",
       hu: "Buddhista kolostor a Punakha kerületben, amelyet 1499-ben építettek. A termékenység templomaként híres, és sok zarándok keresi fel.",
@@ -132,7 +144,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-23",
     coords: [89.8544, 27.6339],
-    name: { de: "Khamsum Yulley Namgyal Chorten", hu: "Khamsum Yulley Namgyal Chorten", ro: "Khamsum Yulley Namgyal Chorten", en: "Khamsum Yulley Namgyal Chorten" },
+    name: { de: "Khamsum Yulley Namgyal Chorten", hu: "Khamsum Yulley Namgyal Chorten", ro: "Khamsum Yulley Namgyal Chorten", en: "Khamsum Yulley Namgyal Chorten",
+image: "/poi-images/khamsum-yulley-namgyal-chorten-history-v2.webp"
+},
     description: {
       de: "Dieser beeindruckende Tempel wurde 2004 fertiggestellt, um den Frieden und die Stabilität in Bhutan zu fördern. Er thront auf einem Bergrücken im Punakha-Tal.",
       hu: "Ezt a lenyűgöző templomot 2004-ben fejezték be a bhutáni béke és stabilitás előmozdítása érdekében. A Punakha-völgy egy gerincén magasodik.",
@@ -153,7 +167,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-15",
     coords: [89.6272, 27.4897],
-    name: { de: "Tashichho Dzong", hu: "Tashichho Dzong", ro: "Tashichho Dzong", en: "Tashichho Dzong" },
+    name: { de: "Tashichho Dzong", hu: "Tashichho Dzong", ro: "Tashichho Dzong", en: "Tashichho Dzong",
+image: "/poi-images/tashichho-dzong-history-v2.webp"
+},
     description: {
       de: "Eine buddhistische Klosterfestung am nördlichen Rand von Thimphu, die seit 1952 als Sitz der bhutanischen Regierung dient.",
       hu: "Buddhista kolostorerőd Thimphu északi szélén, amely 1952 óta a bhutáni kormány székhelye.",
@@ -174,7 +190,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-15",
     coords: [89.6416, 27.4667],
-    name: { de: "Nationaler Gedenk-Chorten", hu: "Nemzeti Emlék Chorten", ro: "Chorten-ul Memorial Național", en: "National Memorial Chorten" },
+    name: { de: "Nationaler Gedenk-Chorten", hu: "Nemzeti Emlék Chorten", ro: "Chorten-ul Memorial Național", en: "National Memorial Chorten",
+image: "/poi-images/national-memorial-chorten-history-v2.webp"
+},
     description: {
       de: "Ein markantes Denkmal in Thimphu, das 1974 zu Ehren des dritten Königs von Bhutan erbaut wurde. Es ist ein zentrales spirituelles Wahrzeichen der Stadt.",
       hu: "Kiemelkedő emlékmű Thimphuban, amelyet 1974-ben építettek Bhután harmadik királyának tiszteletére. A város központi spirituális nevezetessége.",
@@ -195,7 +213,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-15",
     coords: [89.6366, 27.4764],
-    name: { de: "Changangkha Lhakhang", hu: "Changangkha Lhakhang", ro: "Changangkha Lhakhang", en: "Changangkha Lhakhang" },
+    name: { de: "Changangkha Lhakhang", hu: "Changangkha Lhakhang", ro: "Changangkha Lhakhang", en: "Changangkha Lhakhang",
+image: "/poi-images/changangkha-lhakhang-history-v2.webp"
+},
     description: {
       de: "Einer der ältesten Tempel in Thimphu, der im 12. Jahrhundert gegründet wurde. Eltern bringen oft ihre Neugeborenen hierher, um Segen zu erhalten.",
       hu: "Thimphu egyik legrégebbi temploma, amelyet a 12. században alapítottak. A szülők gyakran hozzák ide újszülötteiket áldásért.",
@@ -216,7 +236,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-15",
     coords: [89.6739, 27.4336],
-    name: { de: "Semtokha Dzong", hu: "Semtokha Dzong", ro: "Semtokha Dzong", en: "Semtokha Dzong" },
+    name: { de: "Semtokha Dzong", hu: "Semtokha Dzong", ro: "Semtokha Dzong", en: "Semtokha Dzong",
+image: "/poi-images/semtokha-dzong-history-v2.webp"
+},
     description: {
       de: "Die älteste noch erhaltene Festung in Bhutan, erbaut 1629 von Zhabdrung Ngawang Namgyal. Sie beherbergt heute ein Institut für Sprache und Kultur.",
       hu: "Bhután legrégebbi fennmaradt erődje, amelyet 1629-ben épített Zhabdrung Ngawang Namgyal. Ma egy nyelvi és kulturális intézetnek ad otthont.",
@@ -237,7 +259,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-32",
     coords: [90.5081, 27.5025],
-    name: { de: "Trongsa Dzong", hu: "Trongsa Dzong", ro: "Trongsa Dzong", en: "Trongsa Dzong" },
+    name: { de: "Trongsa Dzong", hu: "Trongsa Dzong", ro: "Trongsa Dzong", en: "Trongsa Dzong",
+image: "/poi-images/trongsa-dzong-history-v2.webp"
+},
     description: {
       de: "Die größte Festung in Bhutan, strategisch über der Schlucht des Mangde Chhu gelegen. Sie war der historische Sitz der Wangchuck-Dynastie.",
       hu: "Bhután legnagyobb erődje, stratégiailag a Mangde Chhu szurdok felett helyezkedik el. A Wangchuck-dinasztia történelmi székhelye volt.",
@@ -258,7 +282,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-32",
     coords: [90.5055, 27.5050],
-    name: { de: "Ta Dzong (Trongsa)", hu: "Ta Dzong (Trongsa)", ro: "Ta Dzong (Trongsa)", en: "Ta Dzong (Trongsa)" },
+    name: { de: "Ta Dzong (Trongsa)", hu: "Ta Dzong (Trongsa)", ro: "Ta Dzong (Trongsa)", en: "Ta Dzong (Trongsa)",
+image: "/poi-images/ta-dzong-trongsa-history-v2.webp"
+},
     description: {
       de: "Ein historischer Wachturm, der den Trongsa Dzong schützte. Er wurde in ein hervorragendes Museum umgewandelt, das die Geschichte Bhutans zeigt.",
       hu: "Történelmi őrtorony, amely a Trongsa Dzongot védte. Kiváló múzeummá alakították, amely Bhután történelmét mutatja be.",
@@ -279,7 +305,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-33",
     coords: [90.7225, 27.5833],
-    name: { de: "Kurjey Lhakhang", hu: "Kurjey Lhakhang", ro: "Kurjey Lhakhang", en: "Kurjey Lhakhang" },
+    name: { de: "Kurjey Lhakhang", hu: "Kurjey Lhakhang", ro: "Kurjey Lhakhang", en: "Kurjey Lhakhang",
+image: "/poi-images/kurjey-lhakhang-history-v2.webp"
+},
     description: {
       de: "Ein wichtiger Tempelkomplex im Bumthang-Tal, in dem Guru Rinpoche im 8. Jahrhundert meditierte und seinen Körperabdruck in einem Felsen hinterließ.",
       hu: "Fontos templomegyüttes a Bumthang-völgyben, ahol Guru Rinpoche a 8. században meditált, és testének lenyomatát egy sziklán hagyta.",
@@ -300,7 +328,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-33",
     coords: [90.7208, 27.5769],
-    name: { de: "Jambay Lhakhang", hu: "Jambay Lhakhang", ro: "Jambay Lhakhang", en: "Jambay Lhakhang" },
+    name: { de: "Jambay Lhakhang", hu: "Jambay Lhakhang", ro: "Jambay Lhakhang", en: "Jambay Lhakhang",
+image: "/poi-images/jambay-lhakhang-history-v2.webp"
+},
     description: {
       de: "Einer der 108 Tempel, die der tibetische König Songtsen Gampo im 7. Jahrhundert erbaut haben soll. Ein historisches Juwel in Bumthang.",
       hu: "A legenda szerint a tibeti Songtsen Gampo király által a 7. században épített 108 templom egyike. Bumthang egyik történelmi ékessége.",
@@ -321,7 +351,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-33",
     coords: [90.7330, 27.5492],
-    name: { de: "Jakar Dzong", hu: "Jakar Dzong", ro: "Jakar Dzong", en: "Jakar Dzong" },
+    name: { de: "Jakar Dzong", hu: "Jakar Dzong", ro: "Jakar Dzong", en: "Jakar Dzong",
+image: "/poi-images/jakar-dzong-history-v2.webp"
+},
     description: {
       de: "Auch bekannt als die \"Festung des weißen Vogels\", wurde sie im 16. Jahrhundert erbaut und beherrscht das Chokhor-Tal in Bumthang.",
       hu: "A Jakar Dzong, más néven a „fehér madár erődje”, a 16. században épült Bumthang völgyében. Ez az egyik legnagyobb dzong Bhutánban, amely központi szerepet játszott a régió történetében és buddhista közösségi életében.",
@@ -342,7 +374,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-24",
     coords: [89.8974, 27.4725],
-    name: { de: "Wangdue Phodrang Dzong", hu: "Wangdue Phodrang Dzong", ro: "Wangdue Phodrang Dzong", en: "Wangdue Phodrang Dzong" },
+    name: { de: "Wangdue Phodrang Dzong", hu: "Wangdue Phodrang Dzong", ro: "Wangdue Phodrang Dzong", en: "Wangdue Phodrang Dzong",
+image: "/poi-images/wangdue-phodrang-dzong-history-v2.webp"
+},
     description: {
       de: "Eine historische Festung aus dem Jahr 1638, die auf einem Bergrücken liegt. Nach einem verheerenden Brand im Jahr 2012 wurde sie vollständig restauriert.",
       hu: "Egy 1638-ból származó történelmi erőd, amely egy hegygerincen található. Egy 2012-es pusztító tűzvész után teljesen felújították.",
@@ -363,7 +397,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-44",
     coords: [91.1558, 27.6681],
-    name: { de: "Lhuentse Dzong", hu: "Lhuentse Dzong", ro: "Lhuentse Dzong", en: "Lhuentse Dzong" },
+    name: { de: "Lhuentse Dzong", hu: "Lhuentse Dzong", ro: "Lhuentse Dzong", en: "Lhuentse Dzong",
+image: "/poi-images/lhuentse-dzong-history-v2.webp"
+},
     description: {
       de: "Die angestammte Heimat der königlichen Familie von Bhutan. Die Festung im abgelegenen Osten des Landes thront majestätisch auf einem felsigen Hügel.",
       hu: "A bhutáni királyi család ősi otthona. Az ország távoli keleti részén fekvő erőd méltóságteljesen magasodik egy sziklás dombon.",
@@ -384,7 +420,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "monument",
     parent: "BT-41",
     coords: [91.5542, 27.3325],
-    name: { de: "Trashigang Dzong", hu: "Trashigang Dzong", ro: "Trashigang Dzong", en: "Trashigang Dzong" },
+    name: { de: "Trashigang Dzong", hu: "Trashigang Dzong", ro: "Trashigang Dzong", en: "Trashigang Dzong",
+image: "/poi-images/trashigang-dzong-history-v2.webp"
+},
     description: {
       de: "Die \"Festung des glückverheißenden Berges\", erbaut 1659, verteidigte den Osten Bhutans gegen tibetische Invasionen und dominiert die Region Trashigang.",
       hu: "A Trashigang Dzongot 1659-ben alapították, és stratégiai fekvése miatt évszázadokig védelmezte a keleti régiót a betolakodókkal szemben. Ma a körzet adminisztratív központja, amely a bhutáni hagyományokat és a buddhista kultúrát őrzi.",
@@ -405,7 +443,9 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "BT-15",
     coords: [89.6360, 27.4878],
-    name: { de: "Dechen-Phodrang-Kloster", hu: "Dechen Phodrang kolostor", ro: "Mănăstirea Dechen Phodrang", en: "Dechen Phodrang Monastery" },
+    name: { de: "Dechen-Phodrang-Kloster", hu: "Dechen Phodrang kolostor", ro: "Mănăstirea Dechen Phodrang", en: "Dechen Phodrang Monastery",
+image: "/poi-images/dechen-phodrang-monastery-history-v2.webp"
+},
     description: {
       de: "Dieses historische Kloster war der ursprüngliche Standort des Tashichho Dzong, bis es verlegt wurde. Heute dient es als staatliche Klosterschule.",
       hu: "A Dechen Phodrang kolostor Thimphu városában található, és egykor a királyi rezidencia volt, mielőtt szerzetesi iskolává alakították volna át. Az épület jelentős buddhista művészeti értékeket, köztük 12. századi festményeket őriz.",

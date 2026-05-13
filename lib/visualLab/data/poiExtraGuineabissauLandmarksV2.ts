@@ -11,8 +11,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Estádio Lino Correia",
       hu: "Estádio Lino Correia",
       ro: "Estádio Lino Correia",
-      en: "Estádio Lino Correia"
-    },
+      en: "Estádio Lino Correia",
+image: "/poi-images/lino-correia-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein vielseitig genutztes Stadion im Herzen von Bissau, das hauptsächlich für Fußballspiele genutzt wird und eines der ältesten Sportbauwerke der Hauptstadt ist.",
       hu: "Bissau szívében található többfunkciós stadion, amelyet főként labdarúgó-mérkőzésekre használnak, és a főváros egyik legrégebbi sportlétesítménye.",
@@ -62,8 +63,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Präsidentenpalast von Bissau",
       hu: "Bissaui elnöki palota",
       ro: "Palatul Prezidențial din Bissau",
-      en: "Presidential Palace of Bissau"
-    },
+      en: "Presidential Palace of Bissau",
+image: "/poi-images/presidential-palace-bissau-landmarks-v2.webp"
+},
     description: {
       de: "Der offizielle Sitz des Präsidenten von Guinea-Bissau, ein prächtiges Gebäude im Kolonialstil, das nach seiner Zerstörung im Bürgerkrieg wiederaufgebaut wurde.",
       hu: "Bissau-Guinea elnökének hivatalos rezidenciája, egy pompás gyarmati stílusú épület, amelyet a polgárháborús pusztítás után újjáépítettek.",
@@ -107,8 +109,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Palácio Colinas de Boé",
       hu: "Palácio Colinas de Boé",
       ro: "Palácio Colinas de Boé",
-      en: "Palácio Colinas de Boé"
-    },
+      en: "Palácio Colinas de Boé",
+image: "/poi-images/colinas-de-boe-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger Regierungskomplex in Bissau, der als Tagungsort für nationale Versammlungen und bedeutende staatliche Zeremonien dient.",
       hu: "Fontos kormányzati épületegyüttes Bissauban, amely a nemzetgyűlés és jelentős állami ünnepségek helyszíneként szolgál.",
@@ -159,8 +162,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Mercado Central de Bissau",
       hu: "Bissaui központi piac",
       ro: "Piața Centrală din Bissau",
-      en: "Central Market of Bissau"
-    },
+      en: "Central Market of Bissau",
+image: "/poi-images/central-market-bissau-landmarks-v2.webp"
+},
     description: {
       de: "Das pulsierende Herz des Handels in Bissau, ein farbenfroher Markt, auf dem alles von frischen Lebensmitteln bis hin zu traditionellem Kunsthandwerk angeboten wird.",
       hu: "Bissau kereskedelmének lüktető szíve, egy színes piac, ahol a friss élelmiszerektől a hagyományos kézműves termékekig minden megtalálható.",
@@ -211,8 +215,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "BCEAO-Gebäude Bissau",
       hu: "BCEAO épület, Bissau",
       ro: "Clădirea BCEAO Bissau",
-      en: "BCEAO Building Bissau"
-    },
+      en: "BCEAO Building Bissau",
+image: "/poi-images/bceao-building-bissau-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptniederlassung der Zentralbank der Westafrikanischen Staaten in Bissau, ein imposantes modernes Gebäude, das die wirtschaftliche Stabilität der Region symbolisiert.",
       hu: "A Nyugat-afrikai Államok Központi Bankjának bissaui székháza, egy impozáns modern épület, amely a régió gazdasági stabilitását jelképezi.",
@@ -263,8 +268,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Nationalkrankenhaus Simão Mendes",
       hu: "Simão Mendes Nemzeti Kórház",
       ro: "Spitalul Național Simão Mendes",
-      en: "Simão Mendes National Hospital"
-    },
+      en: "Simão Mendes National Hospital",
+image: "/poi-images/simao-mendes-hospital-landmarks-v2.webp"
+},
     description: {
       de: "Das größte und wichtigste Krankenhaus des Landes, benannt nach einem Märtyrer des Unabhängigkeitskampfes, ein zentraler Orientierungspunkt in Bissau.",
       hu: "Az ország legnagyobb és legfontosabb kórháza, amelyet a függetlenségi harc egyik mártírjáról neveztek el, központi tájékozódási pont Bissauban.",
@@ -315,8 +321,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Leuchtturm Ilhéu do Rei",
       hu: "Ilhéu do Rei világítótorony",
       ro: "Farul Ilhéu do Rei",
-      en: "Ilhéu do Rei Lighthouse"
-    },
+      en: "Ilhéu do Rei Lighthouse",
+image: "/poi-images/ilheu-do-rei-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Leuchtturm auf einer kleinen Insel gegenüber dem Hafen von Bissau, der Schiffen den Weg durch das Mündungsgebiet des Geba-Flusses weist.",
       hu: "Történelmi világítótorony egy kis szigeten a bissaui kikötővel szemben, amely a Geba-folyó torkolatánál irányítja a hajókat.",
@@ -367,8 +374,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Nationalstadion 24. September",
       hu: "Szeptember 24. Nemzeti Stadion",
       ro: "Stadionul Național 24 Septembrie",
-      en: "National Stadium 24 September"
-    },
+      en: "National Stadium 24 September",
+image: "/poi-images/stadium-24-september-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Nationalstadion von Guinea-Bissau, Austragungsort für internationale Fußballspiele und nationale Feierlichkeiten.",
       hu: "Bissau-Guinea legnagyobb nemzeti stadionja, nemzetközi labdarúgó-mérkőzések és nemzeti ünnepségek helyszíne.",
@@ -419,8 +427,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Französisches Kulturzentrum Bissau",
       hu: "Bissaui Francia Kulturális Központ",
       ro: "Centrul Cultural Francez Bissau",
-      en: "French Cultural Center Bissau"
-    },
+      en: "French Cultural Center Bissau",
+image: "/poi-images/french-cultural-center-bissau-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges kulturelles Zentrum in der Hauptstadt, das Kunstausstellungen, Konzerte und Sprachkurse anbietet und den interkulturellen Austausch fördert.",
       hu: "A főváros fontos kulturális központja, amely művészeti kiállításoknak, koncerteknek és nyelvtanfolyamoknak ad otthont, elősegítve a kultúrák közötti párbeszédet.",
@@ -471,8 +480,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Amílcar-Cabral-Universität",
       hu: "Amílcar Cabral Egyetem",
       ro: "Universitatea Amílcar Cabral",
-      en: "Amílcar Cabral University"
-    },
+      en: "Amílcar Cabral University",
+image: "/poi-images/amilcar-cabral-university-landmarks-v2.webp"
+},
     description: {
       de: "Die einzige staatliche Universität in Guinea-Bissau, ein Zentrum für höhere Bildung und Forschung, das nach dem Vater der Nation benannt wurde.",
       hu: "Bissau-Guinea egyetlen állami egyeteme, a felsőoktatás és a kutatás központja, amelyet a nemzet atyjáról neveztek el.",
@@ -523,8 +533,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Handelshafen von Bissau",
       hu: "Bissaui kereskedelmi kikötő",
       ro: "Portul Comercial din Bissau",
-      en: "Commercial Port of Bissau"
-    },
+      en: "Commercial Port of Bissau",
+image: "/poi-images/commercial-port-bissau-landmarks-v2.webp"
+},
     description: {
       de: "Das wirtschaftliche Tor des Landes, über das der Großteil der Exporte von Cashewnüssen und der Import lebensnotwendiger Güter abgewickelt wird.",
       hu: "Az ország gazdasági kapuja, ahol a kesudió-export nagy részét és az alapvető javak importját bonyolítják.",
@@ -575,8 +586,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Leuchtturm von Bubaque",
       hu: "Bubaquei világítótorony",
       ro: "Farul din Bubaque",
-      en: "Bubaque Lighthouse"
-    },
+      en: "Bubaque Lighthouse",
+image: "/poi-images/bubaque-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Leuchtturm auf der Insel Bubaque, der als wichtiger Navigationspunkt für Schiffe im Bijagós-Archipel dient.",
       hu: "Jellegzetes világítótorony Bubaque szigetén, amely fontos navigációs pontként szolgál a Bijagós-szigetvilág hajói számára.",
@@ -627,8 +639,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Geba-Brücke von Bafatá",
       hu: "Bafatá-i Geba-híd",
       ro: "Podul Geba din Bafatá",
-      en: "Bafatá Geba Bridge"
-    },
+      en: "Bafatá Geba Bridge",
+image: "/poi-images/bafata-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine strategisch wichtige Brücke, die den Geba-Fluss in der Stadt Bafatá überspannt und den Osten des Landes mit der Hauptstadt verbindet.",
       hu: "Stratégiailag fontos híd Bafatá városában, amely a Geba-folyót íveli át, összekötve az ország keleti részét a fővárossal.",
@@ -679,8 +692,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Große Moschee von Gabú",
       hu: "Gabú-i nagymecset",
       ro: "Marea Moschee din Gabú",
-      en: "Great Mosque of Gabú"
-    },
+      en: "Great Mosque of Gabú",
+image: "/poi-images/gabu-great-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes religiöses Bauwerk in der Stadt Gabú, einem Zentrum des Islam im Osten von Guinea-Bissau.",
       hu: "Jellegzetes vallási épület Gabú városában, amely az iszlám központja Bissau-Guinea keleti részén.",
@@ -731,8 +745,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Katholische Kirche von Gabú",
       hu: "Gabú-i katolikus templom",
       ro: "Biserica Catolică din Gabú",
-      en: "Catholic Church of Gabú"
-    },
+      en: "Catholic Church of Gabú",
+image: "/poi-images/gabu-catholic-church-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes christliches Gotteshaus in Gabú, das die religiöse Pluralität in der östlichen Region des Landes widerspiegelt.",
       hu: "Jelentős keresztény templom Gabúban, amely az ország keleti régiójának vallási pluralizmusát tükrözi.",
@@ -783,8 +798,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Rathaus von Bissau",
       hu: "Bissaui városháza",
       ro: "Primăria din Bissau",
-      en: "Bissau City Hall"
-    },
+      en: "Bissau City Hall",
+image: "/poi-images/bissau-city-hall-landmarks-v2.webp"
+},
     description: {
       de: "Der Sitz der Stadtverwaltung von Bissau (Câmara Municipal), ein historisches Gebäude, das die administrative Verwaltung der Hauptstadt beherbergt.",
       hu: "Bissau városvezetésének (Câmara Municipal) székhelye, egy történelmi épület, amely a főváros közigazgatási irányításának ad otthont.",
@@ -835,8 +851,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Denkmal des 20. Januar",
       hu: "Január 20. emlékmű",
       ro: "Monumentul 20 Ianuarie",
-      en: "January 20 Monument"
-    },
+      en: "January 20 Monument",
+image: "/poi-images/january-20-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Bissau, das dem 'Tag der Nationalhelden' gewidmet ist und an den Todestag von Amílcar Cabral im Jahr 1973 erinnert.",
       hu: "Bissaui emlékmű, amelyet a 'Nemzeti Hősök Napjának' szenteltek, Amílcar Cabral 1973-as halálának évfordulójára emlékezve.",
@@ -887,8 +904,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Gebäude der Nationalversammlung",
       hu: "Nemzetgyűlés épülete",
       ro: "Clădirea Adunării Naționale",
-      en: "National Assembly Building"
-    },
+      en: "National Assembly Building",
+image: "/poi-images/new-national-assembly-landmarks-v2.webp"
+},
     description: {
       de: "Das moderne Gebäude der Nationalen Volksversammlung (Assembleia Nacional Popular) von Guinea-Bissau, ein Geschenk der chinesischen Regierung.",
       hu: "Bissau-Guinea Nemzeti Népi Gyűlésének (Assembleia Nacional Popular) modern épülete, a kínai kormány ajándéka.",
@@ -939,8 +957,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Oberster Gerichtshof von Bissau",
       hu: "Bissaui Legfelsőbb Bíróság",
       ro: "Curtea Supremă de Justiție Bissau",
-      en: "Supreme Court of Bissau"
-    },
+      en: "Supreme Court of Bissau",
+image: "/poi-images/supreme-court-bissau-landmarks-v2.webp"
+},
     description: {
       de: "Der Sitz des Obersten Gerichtshofs von Guinea-Bissau, das höchste rechtliche Organ des Landes, untergebracht in einem markanten Gebäude in der Hauptstadt.",
       hu: "Bissau-Guinea Legfelsőbb Bíróságának székhelye, az ország legmagasabb jogi szerve, amely a főváros egyik jellegzetes épületében található.",
@@ -991,8 +1010,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Fischereihafen von Bandim",
       hu: "Bandimi halászkikötő",
       ro: "Portul de Pescuit Bandim",
-      en: "Bandim Fishing Port"
-    },
+      en: "Bandim Fishing Port",
+image: "/poi-images/bandim-fishing-port-landmarks-v2.webp"
+},
     description: {
       de: "Ein lebhafter Hafen in Bissau, der als Hauptzentrum für die handwerkliche Fischerei dient und ein wichtiger Ort für die lokale Wirtschaft ist.",
       hu: "Bissau forgalmas kikötője, amely a kézműves halászat fő központjaként szolgál, és a helyi gazdaság fontos helyszíne.",
@@ -1043,8 +1063,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Leuchtturm von Ponta Varela",
       hu: "Ponta Varela-i világítótorony",
       ro: "Farul din Ponta Varela",
-      en: "Ponta Varela Lighthouse"
-    },
+      en: "Ponta Varela Lighthouse",
+image: "/poi-images/ponta-varela-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein entlegener Leuchtturm an der nordwestlichen Küste von Guinea-Bissau, der die nördliche Seegrenze zum Senegal markiert.",
       hu: "Bissau-Guinea északnyugati partján található távoli világítótorony, amely a Szenegállal közös északi tengeri határt jelzi.",
@@ -1095,8 +1116,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Cacheu-Fluss-Brücke",
       hu: "Cacheu-folyó hídja",
       ro: "Podul peste râul Cacheu",
-      en: "Cacheu River Bridge"
-    },
+      en: "Cacheu River Bridge",
+image: "/poi-images/cacheu-river-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine bedeutende Brücke im Norden des Landes, die den Cacheu-Fluss überquert und den Verkehr in Richtung der senegalesischen Grenze erleichtert.",
       hu: "Az ország északi részén található jelentős híd, amely a Cacheu-folyón ível át, megkönnyítve a közlekedést a szenegáli határ felé.",
@@ -1147,8 +1169,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Sportkomplex Antula",
       hu: "Antula sportkomplexum",
       ro: "Complexul Sportiv Antula",
-      en: "Antula Sports Complex"
-    },
+      en: "Antula Sports Complex",
+image: "/poi-images/antula-sports-complex-landmarks-v2.webp"
+},
     description: {
       de: "Eine moderne Sportstätte im Stadtteil Antula von Bissau, die zur Förderung des lokalen Sports und der Jugendfreizeit dient.",
       hu: "Bissau Antula negyedében található modern sportlétesítmény, amely a helyi sport és a fiatalok szabadidős tevékenységeinek támogatását szolgálja.",
@@ -1199,8 +1222,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Portugiesisches Kulturzentrum Bissau",
       hu: "Bissaui Portugál Kulturális Központ",
       ro: "Centrul Cultural Portughez Bissau",
-      en: "Portuguese Cultural Center Bissau"
-    },
+      en: "Portuguese Cultural Center Bissau",
+image: "/poi-images/portuguese-cultural-center-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutendes kulturelles Zentrum, das die historischen und sprachlichen Verbindungen zwischen Portugal und Guinea-Bissau pflegt.",
       hu: "Jelentős kulturális központ, amely ápolja a Portugália és Bissau-Guinea közötti történelmi és nyelvi kapcsolatokat.",
@@ -1251,8 +1275,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
       de: "Kirche von Canchungo",
       hu: "Canchungo-i templom",
       ro: "Biserica din Canchungo",
-      en: "Church of Canchungo"
-    },
+      en: "Church of Canchungo",
+image: "/poi-images/canchungo-church-landmarks-v2.webp"
+},
     description: {
       de: "Die Kirche Nossa Senhora da Consolação in Canchungo ist ein zentrales religiöses Wahrzeichen in der Region Cacheu.",
       hu: "A canchungo-i Nossa Senhora da Consolação-templom a Cacheu régió központi vallási jelképe.",

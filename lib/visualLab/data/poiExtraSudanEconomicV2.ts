@@ -7,7 +7,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-RS",
     coords: [37.32, 19.39],
-    name: {"de": "Bashayer Ölterminal", "hu": "Bashayer Olajterminál", "ro": "Terminalul Petrolier Bashayer", "en": "Bashayer Marine Terminal"},
+    name: {"de": "Bashayer Ölterminal", "hu": "Bashayer Olajterminál", "ro": "Terminalul Petrolier Bashayer", "en": "Bashayer Marine Terminal",
+image: "/poi-images/bashayer-marine-terminal-economic-v2.webp"
+},
     description: {"de": "Das Bashayer-Ölterminal liegt südlich von Port Sudan und ist der Endpunkt der Pipeline für sudanesisches Rohöl. Es dient als zentraler Exporthafen am Roten Meer und ist entscheidend für die Deviseneinnahmen des Landes.", "hu": "A Bashayer olajterminál Szudán legfontosabb kőolaj-exportkikötője, Port Szudántól délre fekszik.", "ro": "Terminalul maritim Bashayer este principalul punct de export pentru țițeiul sudanez la Marea Roșie. Facilitatea este situată la aproximativ 25 km sud de Port Sudan și este esențială pentru veniturile valutare ale țării.", "en": "The Bashayer Marine Terminal is the main export port for crude oil in Sudan, located south of Port Sudan on the Red Sea coast."},
     facts: {"de": ["Südlich von Port Sudan gelegen", "Endpunkt der Greater Nile Pipeline", "Spezialisiert auf Rohölexport", "Wichtigster Devisenbringer des Landes"], "hu": ["Az ország legnagyobb olajkikötője", "Több rakodóöböllel rendelkezik", "Fontos devizaforrás", "Az 1990-es évek végén készült el"], "ro": ["Situat pe coasta Mării Roșii", "Punct terminal al conductei Greater Nile", "Capacitate mare de stocare a petrolului", "Finalizat la sfârșitul anilor 1990", "Gestionează exporturile de petrol sudanez"], "en": ["Primary crude oil export hub", "Deep-water facility for large tankers", "Vital for Sudan's oil-driven economy", "Located south of Port Sudan"]},
     descriptionAdvanced: {
@@ -28,7 +30,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-RS",
     coords: [37.234, 19.593],
-    name: {"de": "Al-Khair Erdölterminal", "hu": "Al-Khair Kőolajterminál", "ro": "Terminalul Petrolier Al-Khair", "en": "Al-Khair Petroleum Terminal"},
+    name: {"de": "Al-Khair Erdölterminal", "hu": "Al-Khair Kőolajterminál", "ro": "Terminalul Petrolier Al-Khair", "en": "Al-Khair Petroleum Terminal",
+image: "/poi-images/al-khair-terminal-economic-v2.webp"
+},
     description: {"de": "Das Al-Khair-Terminal in Port Sudan ist auf den Umschlag von Erdölprodukten und Flüssiggas spezialisiert. Es sichert die Versorgung des Binnenlandes mit Treibstoffen und Chemikalien.", "hu": "A Port Szudán-i Al-Khair terminál a hazai piacra szánt kőolajtermékek és gáz importjára specializálódott.", "ro": "Terminalul Al-Khair din Port Sudan este specializat în importul și manipularea produselor petroliere rafinate și a gazelor. Acesta asigură aprovizionarea cu combustibil pentru piața internă a Sudanului.", "en": "Al-Khair Terminal is a specialized facility in Port Sudan designed for the handling of petroleum products and liquefied petroleum gas (LPG)."},
     facts: {"de": ["Teil des Hafens von Port Sudan", "Spezialisiert auf Flüssiggüter", "Wichtig für die Treibstoffversorgung", "Verfügt über moderne Tanklager"], "hu": ["Finomított termékekre specializálódott", "Fontos importállomás", "Kiegészíti a Bashayer terminált", "Biztosítja az energiaellátást"], "ro": ["Parte a complexului portuar Port Sudan", "Specializat în produse petroliere rafinate", "Dispune de dane moderne de descărcare", "Esențial pentru securitatea energetică", "Capacitate mare de depozitare a gazelor"], "en": ["Specialized terminal for oil products", "Handles liquefied petroleum gas (LPG)", "Part of the Port Sudan port complex", "Key for national energy distribution"]},
     descriptionAdvanced: {
@@ -49,7 +53,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-RS",
     coords: [37.332, 19.103],
-    name: {"de": "Prinz Osman Digna Hafen", "hu": "Oszmán Digna Herceg Kikötő", "ro": "Portul Prințul Osman Digna", "en": "Prince Osman Digna Port"},
+    name: {"de": "Prinz Osman Digna Hafen", "hu": "Oszmán Digna Herceg Kikötő", "ro": "Portul Prințul Osman Digna", "en": "Prince Osman Digna Port",
+image: "/poi-images/prince-osman-digna-port-economic-v2.webp"
+},
     description: {"de": "Der Hafen Prince Osman Digna in Suakin ist ein bedeutender Umschlagplatz für den Export von Lebendvieh nach Saudi-Arabien. Zudem dient er als wichtigstes Terminal für Passagierfähren und Pilger auf dem Weg nach Mekka.", "hu": "A Suakinban található kikötő elsősorban a Szaúd-Arábiába irányuló utasforgalmat és az élőállat-exportot szolgálja.", "ro": "Portul Prince Osman Digna din Suakin este un nod vital pentru transportul de pasageri și exportul de animale vii. Este principalul punct de plecare pentru pelerinii care călătoresc spre Mecca.", "en": "Located in Suakin, the Prince Osman Digna Port serves as a major gateway for passenger traffic and general cargo, complementing Port Sudan."},
     facts: {"de": ["Liegt in der historischen Stadt Suakin", "Zentrum für Viehexporte", "Wichtigstes Pilgerterminal nach Mekka", "Entlastet den Haupthafen von Port Sudan"], "hu": ["Fontos a mekkai zarándokok számára", "Állatexport-központ", "Történelmi kikötőváros", "Tehermentesíti Port Szudánt"], "ro": ["Situat în orașul istoric Suakin", "Hub principal pentru exportul de vite", "Terminal cheie pentru pasageri", "Conectează Sudanul cu Arabia Saudită", "Relansează economia locală din Suakin"], "en": ["Historical port town of Suakin", "Main terminal for passenger ferries", "Handles livestock exports and cargo", "Named after a famous Beja military leader"]},
     descriptionAdvanced: {
@@ -70,7 +76,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-RS",
     coords: [37.24, 19.58],
-    name: {"de": "Südhäfen von Port Sudan", "hu": "Port Szudán Déli Kikötő", "ro": "Portul de Sud din Port Sudan", "en": "Port Sudan South Port"},
+    name: {"de": "Südhäfen von Port Sudan", "hu": "Port Szudán Déli Kikötő", "ro": "Portul de Sud din Port Sudan", "en": "Port Sudan South Port",
+image: "/poi-images/port-sudan-south-port-economic-v2.webp"
+},
     description: {"de": "Der Südhafen von Port Sudan ist das größte Containerterminal des Landes und verfügt über moderne Krananlagen. Er bildet das Tor für den internationalen Warenhandel und die Versorgung der Hauptstadt Khartum.", "hu": "Port Szudán déli kikötői a konténerforgalom és az általános áruszállítás fő központjai Szudánban.", "ro": "Portul de Sud din Port Sudan este cel mai mare și mai modern terminal de containere din țară. Acesta funcționează ca principala poartă comercială a Sudanului pentru comerțul internațional.", "en": "The South Port in Port Sudan is the country's primary container terminal, equipped with modern cranes and infrastructure for international shipping."},
     facts: {"de": ["Haupthafen für Containerschiffe", "Verfügt über moderne Portalkräne", "Zentraler Logistikknotenpunkt am Roten Meer", "Umschlagplatz für internationale Industriegüter"], "hu": ["Az ország legnagyobb konténerterminálja", "A legfontosabb kereskedelmi csomópont", "A legmodernebb kikötői létesítmény", "Exportcikkek átrakodóhelye"], "ro": ["Cel mai mare terminal de containere", "Dotat cu macarale portante moderne", "Gestionează majoritatea importurilor", "Motor economic al regiunii Mării Roșii", "Adâncime mare pentru nave comerciale", "Centru logistic de importanță națională"], "en": ["Sudan's main container terminal", "Modern handling equipment and berths", "Hub for international shipping lines", "Largest terminal in the Port Sudan complex"]},
     descriptionAdvanced: {
@@ -91,7 +99,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-RS",
     coords: [37.235, 19.61],
-    name: {"de": "Grüner Hafen Port Sudan", "hu": "Zöld Kikötő Port Szudán", "ro": "Portul Verde Port Sudan", "en": "Port Sudan Green Port"},
+    name: {"de": "Grüner Hafen Port Sudan", "hu": "Zöld Kikötő Port Szudán", "ro": "Portul Verde Port Sudan", "en": "Port Sudan Green Port",
+image: "/poi-images/port-sudan-green-port-economic-v2.webp"
+},
     description: {"de": "Der Green Port ist ein spezialisiertes Terminal für Massengüter wie Getreide, Zucker und Baustoffe. Er spielt eine Schlüsselrolle bei der Sicherung der Nahrungsmittelversorgung durch den Import von Weizen.", "hu": "A Port Szudán-i Zöld Kikötő az olyan ömlesztett szárazáruk átrakására specializálódott, mint a búza, a műtrágya és a cement.", "ro": "Portul Verde este o extensie specializată a complexului Port Sudan, dedicată mărfurilor uscate în vrac. Aici sunt manipulate cantități mari de cereale, îngrășăminte și materiale de construcție.", "en": "The Green Port is a specialized dry bulk terminal in Port Sudan that handles large volumes of grain, sugar, and other agricultural commodities."},
     facts: {"de": ["Spezialisiert auf Schüttgut (Dry Bulk)", "Wichtigster Hafen für Getreideimporte", "Verfügt über große Siloanlagen", "Hält Kapazitäten für Düngemittel und Zement"], "hu": ["Ömlesztett árukra specializálódott", "Fontos a gabonaimport szempontjából", "Nagy silókkal rendelkezik", "Központi jelentőségű az élelmezésbiztonság szempontjából"], "ro": ["Specializat în mărfuri vrac uscate", "Dispune de silozuri mari de cereale", "Gestionează importurile de grâu", "Infrastructură modernizată recent", "Esențial pentru aprovizionarea alimentară"], "en": ["Dry bulk cargo specialist", "Handles grain and sugar imports", "Equipped with large storage silos", "Modernized to increase handling capacity"]},
     descriptionAdvanced: {
@@ -112,7 +122,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-WN",
     coords: [32.659, 13.167],
-    name: {"de": "Kosti Binnenhafen", "hu": "Kosti Folyami Kikötő", "ro": "Portul Fluvial Kosti", "en": "Kosti Inland Port"},
+    name: {"de": "Kosti Binnenhafen", "hu": "Kosti Folyami Kikötő", "ro": "Portul Fluvial Kosti", "en": "Kosti Inland Port",
+image: "/poi-images/kosti-inland-port-economic-v2.webp"
+},
     description: {"de": "Der Binnenhafen von Kosti am Weißen Nil ist der wichtigste Umschlagplatz für den Flussverkehr in den Süden. Er verbindet die Schiene und die Straße mit den Wasserwegen nach Südsudan.", "hu": "A Fehér-Níluson fekvő Kosti folyami kikötője a Dél-Szudánnal folytatott kereskedelem fontos átrakóhelye.", "ro": "Portul fluvial Kosti este cel mai important nod logistic de pe Nilul Alb, facilitând comerțul spre sud. Acesta servește drept punct strategic de transbordare pentru mărfurile destinate Sudanului de Sud.", "en": "Kosti Inland Port is the most important river port on the White Nile, serving as a critical hub for trade between Sudan and South Sudan."},
     facts: {"de": ["Wichtigster Binnenhafen am Weißen Nil", "Logistikdrehscheibe für den Südsudan-Handel", "Schnittstelle zwischen Bahn und Flussschiff", "Liegt an einer strategischen Nilbrücke"], "hu": ["Szudán legnagyobb folyami kikötője", "Kapu Dél-Szudán felé", "Fogyasztási cikkek átrakodása", "Kapcsolat a vasúttal"], "ro": ["Cel mai mare port fluvial pe Nilul Alb", "Nod strategic spre Sudanul de Sud", "Conectat la rețeaua feroviară națională", "Centru de distribuție pentru mărfuri", "Facilitează transportul barjelor fluviale"], "en": ["Major river port on the White Nile", "Hub for north-south river transport", "Important for aid and trade logistics", "Located at a strategic junction"]},
     descriptionAdvanced: {
@@ -133,7 +145,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "port",
     parent: "SD-NO",
     coords: [31.353, 21.796],
-    name: {"de": "Wadi Halfa Flusshafen", "hu": "Wadi Halfa Folyami Kikötő", "ro": "Portul Fluvial Wadi Halfa", "en": "Wadi Halfa River Port"},
+    name: {"de": "Wadi Halfa Flusshafen", "hu": "Wadi Halfa Folyami Kikötő", "ro": "Portul Fluvial Wadi Halfa", "en": "Wadi Halfa River Port",
+image: "/poi-images/wadi-halfa-river-port-economic-v2.webp"
+},
     description: {"de": "Der Flusshafen von Wadi Halfa am Nassersee verbindet den Sudan mit Ägypten über eine regelmäßige Fährverbindung. Er ist ein zentrales Grenztor für den regionalen Handel und den Personenverkehr im Norden.", "hu": "A Nubia-tó partján fekvő Wadi Halfa folyami kikötője Szudán és Egyiptom közötti komp- és teherforgalmat bonyolít le.", "ro": "Portul fluvial Wadi Halfa, situat pe malul lacului Nubia, este poarta nordică a Sudanului către Egipt. Acesta gestionează traficul transfrontalier de pasageri și mărfuri prin sistemul de feriboturi.", "en": "Wadi Halfa River Port on Lake Nubia provides a vital transport link between Sudan and Egypt via the Nile river system."},
     facts: {"de": ["Nördliches Tor nach Ägypten", "Liegt am Nassersee (Nubia-See)", "Wichtige Fährverbindung für Passagiere", "Umschlagplatz für grenzüberschreitende Waren"], "hu": ["Határátkelő Egyiptomba", "Kompjárat Asszuánba", "Fontos a határmenti kereskedelemben", "A Nubia-tó partján fekszik"], "ro": ["Situat pe malul Lacului Nubia", "Punct de legătură cu orașul Aswan", "Hub comercial transfrontalier cu Egiptul", "Gestionează feriboturi de pasageri", "Esențial pentru comerțul în valea Nilului"], "en": ["Link for trade and travel with Egypt", "Located on the shores of Lake Nubia", "Northernmost river port in Sudan", "Essential for cross-border logistics"]},
     descriptionAdvanced: {
@@ -154,7 +168,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-WN",
     coords: [33.003, 13.149],
-    name: {"de": "Kenana Zuckerfabrik", "hu": "Kenana Cukorgyár", "ro": "Fabrica de Zahăr Kenana", "en": "Kenana Sugar Factory"},
+    name: {"de": "Kenana Zuckerfabrik", "hu": "Kenana Cukorgyár", "ro": "Fabrica de Zahăr Kenana", "en": "Kenana Sugar Factory",
+image: "/poi-images/kenana-sugar-factory-economic-v2.webp"
+},
     description: {"de": "Die Kenana Sugar Factory ist einer der weltweit größten integrierten Zuckerproduktionskomplexe und ein Vorzeigeprojekt der sudanesischen Agrarindustrie. Sie produziert neben Zucker auch Bioethanol und Elektrizität aus Bagasse.", "hu": "A Kenana Cukorgyár a világ egyik legnagyobb integrált cukornád-komplexuma, és a szudáni agráripar sarokköve.", "ro": "Fabrica Kenana este unul dintre cele mai mari complexe integrate de producție a zahărului din lume. Situată între Nilul Alb și Nilul Albastru, unitatea este un model de succes al agro-industriei sudaneze.", "en": "The Kenana Sugar Company operates one of the world's largest integrated sugar production and refining complexes in the White Nile State."},
     facts: {"de": ["Größter integrierter Zuckerkomplex weltweit", "Liegt zwischen dem Weißen und Blauen Nil", "Produziert Ethanol und Elektrizität", "Großes Bewässerungsprojekt mit Nilwasser"], "hu": ["A világ egyik legnagyobb gyára", "Bioetanolt is termel", "Nemzetközi befektetések", "Hatalmas termőterületek"], "ro": ["Unul dintre cele mai mari complexe din lume", "Produce zahăr alb și bioetanol", "Dispune de plantații masive de trestie", "Investiție internațională majoră", "Generază energie din reziduuri vegetale", "Pilon al exporturilor agricole sudaneze"], "en": ["One of the world's largest sugar estates", "Integrated production from cane to refinery", "Major employer in the White Nile region", "Produces ethanol as a byproduct"]},
     descriptionAdvanced: {
@@ -174,7 +190,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-WN",
     coords: [32.744, 14.155],
-    name: {"de": "White Nile Zuckerfabrik", "hu": "Fehér-Nílus Cukorgyár", "ro": "Fabrica de Zahăr Nilul Alb", "en": "White Nile Sugar Factory"},
+    name: {"de": "White Nile Zuckerfabrik", "hu": "Fehér-Nílus Cukorgyár", "ro": "Fabrica de Zahăr Nilul Alb", "en": "White Nile Sugar Factory",
+image: "/poi-images/white-nile-sugar-factory-economic-v2.webp"
+},
     description: {"de": "Die White Nile Sugar Factory ist ein modernes Großprojekt zur Steigerung der Zuckerautarkie des Sudan. Die Anlage umfasst riesige bewässerte Plantagen und eine hochmoderne Raffinerie.", "hu": "A Fehér-Nílus Cukorgyár egy modern megaprojekt, amely cukrot és melléktermékeket, például etanolt és áramot állít elő.", "ro": "Fabrica de zahăr Nilul Alb este un proiect industrial modern de mare anvergură care vizează autosuficiența Sudanului. Complexul include o rafinărie, o unitate de producție a etanolului și o centrală electrică.", "en": "The White Nile Sugar Factory is a large-scale agro-industrial project that contributes significantly to Sudan's goal of sugar self-sufficiency."},
     facts: {"de": ["Moderner industrieller Zuckerkomplex", "Soll die Abhängigkeit von Importen senken", "Umfasst eine eigene Ethanol-Destillerie", "Nutzt Wasserressourcen des Weißen Nils"], "hu": ["Állati takarmányt is termel", "Saját áramot állít elő", "Jelentős munkaadó", "Modern feldolgozási technológia"], "ro": ["Megaproiect industrial modern", "Situată în apropierea orașului Kosti", "Produce zahăr, etanol și electricitate", "Tehnologie avansată de procesare", "Contribuie la economia rurală locală"], "en": ["Major industrial sugar project", "Located in the White Nile State", "Large-scale irrigated cane plantation", "Supports regional economic development"]},
     descriptionAdvanced: {
@@ -195,7 +213,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-WN",
     coords: [32.766, 13.238],
-    name: {"de": "Assalaya Zuckerfabrik", "hu": "Assalaya Cukorgyár", "ro": "Fabrica de Zahăr Assalaya", "en": "Assalaya Sugar Factory"},
+    name: {"de": "Assalaya Zuckerfabrik", "hu": "Assalaya Cukorgyár", "ro": "Fabrica de Zahăr Assalaya", "en": "Assalaya Sugar Factory",
+image: "/poi-images/assalaya-sugar-factory-economic-v2.webp"
+},
     description: {"de": "Die Assalaya-Zuckerfabrik ist ein staatliches Unternehmen im Bundesstaat White Nile, das Zuckerrohr aus großflächigen Bewässerungssystemen verarbeitet. Sie ist ein wichtiger Arbeitgeber in der Region Zentralsudan.", "hu": "A Fehér-Nílus mentén fekvő Assalaya Cukorgyár jelentősen hozzájárul a nemzeti cukortermeléshez.", "ro": "Fabrica de zahăr Assalaya este o unitate de stat importantă situată în statul Nilul Alb. Aceasta utilizează apele Nilului pentru irigarea plantațiilor întinse de trestie de zahăr care alimentează producția.", "en": "Assalaya Sugar Factory is one of the established state-owned sugar producers in the White Nile region, supporting the local agricultural economy."},
     facts: {"de": ["Staatlicher Zuckerproduzent", "Standort im Bundesstaat White Nile", "Verarbeitet lokal angebautes Zuckerrohr", "Wichtiger regionaler Wirtschaftsfaktor"], "hu": ["Állami vállalat", "A Nílus vizét használja öntözésre", "A helyi piacot látja el", "A cukorkezdeményezés része"], "ro": ["Unitate de stat pentru zahăr", "Situată în statul Nilul Alb", "Utilizează irigații pe scară largă", "Aprovizionează piața internă de zahăr", "Înființată în anii 1970"], "en": ["State-owned sugar production plant", "Located in the White Nile State", "Irrigated by the White Nile river", "Part of the national sugar industry"]},
     descriptionAdvanced: {
@@ -216,7 +236,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-GZ",
     coords: [33.31, 14.83],
-    name: {"de": "Guneid Zuckerfabrik", "hu": "Guneid Cukorgyár", "ro": "Fabrica de Zahăr Guneid", "en": "Guneid Sugar Factory"},
+    name: {"de": "Guneid Zuckerfabrik", "hu": "Guneid Cukorgyár", "ro": "Fabrica de Zahăr Guneid", "en": "Guneid Sugar Factory",
+image: "/poi-images/guneid-sugar-factory-economic-v2.webp"
+},
     description: {"de": "Die Guneid-Zuckerfabrik war die erste moderne Zuckerfabrik im Sudan und liegt am Ostufer des Blauen Nils. Sie bildet die Grundlage für die industrielle Entwicklung in der Region Al Jazirah.", "hu": "A Guneid volt az első modern cukorgyár Szudánban, amely a Gezira régióból származó cukornádat dolgozza fel.", "ro": "Fabrica Guneid, situată pe malul Nilului Albastru, a fost prima unitate modernă de producție a zahărului din Sudan. Ea rămâne un centru istoric și economic esențial pentru regiunea agricolă Gezira.", "en": "The Guneid Sugar Factory was the first sugar project established in Sudan, located in the fertile Gezira region east of the Blue Nile."},
     facts: {"de": ["Erstes Zuckerprojekt des Sudan (1962)", "Liegt am Blauen Nil", "Pionier der sudanesischen Agrarindustrie", "Teil der Gezira-Entwicklungsregion"], "hu": ["Szudán legrégebbi cukorgyára", "Az 1960-as években alapították", "Gezira központja", "Fontos ipari örökség"], "ro": ["Prima fabrică modernă de zahăr", "Fondată în anul 1962", "Situată pe malul Nilului Albastru", "Procesează trestie din regiunea Gezira", "Patrimoniu industrial sudanez important"], "en": ["Sudan's first sugar factory", "Established in the early 1960s", "Located in the Gezira State", "Historical pioneer of the sugar industry"]},
     descriptionAdvanced: {
@@ -237,7 +259,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-KA",
     coords: [35.59, 15.33],
-    name: {"de": "Neu-Halfa Zuckerfabrik", "hu": "Új-Halfa Cukorgyár", "ro": "Fabrica de Zahăr Noua Halfa", "en": "New Halfa Sugar Factory"},
+    name: {"de": "Neu-Halfa Zuckerfabrik", "hu": "Új-Halfa Cukorgyár", "ro": "Fabrica de Zahăr Noua Halfa", "en": "New Halfa Sugar Factory",
+image: "/poi-images/new-halfa-sugar-factory-economic-v2.webp"
+},
     description: {"de": "Die Zuckerfabrik in New Halfa wurde errichtet, um den umgesiedelten Bewohnern von Wadi Halfa eine wirtschaftliche Grundlage zu bieten. Sie verarbeitet Zuckerrohr aus dem New-Halfa-Bewässerungssystem in Ostsudan.", "hu": "Az Új-Halfában található létesítményt azért építették, hogy munkát biztosítsanak a Wadi Halfa területéről kitelepítetteknek, és fellendítsék a régió gazdaságát.", "ro": "Fabrica de zahăr Noua Halfa a fost construită pentru a susține comunitățile relocate din zona Wadi Halfa în anii 1960. Astăzi, este un pilon economic major pentru regiunea Kassala din estul țării.", "en": "Built to support the New Halfa agricultural scheme, this factory processes sugar cane grown on irrigated land in eastern Sudan."},
     facts: {"de": ["Zentrum des New Halfa Schemes", "Wirtschaftliche Basis für umgesiedelte Nubier", "Liegt im Bundesstaat Kassala", "Nutzt Wasser vom Khashm el-Girba Damm"], "hu": ["Egy áttelepítési projekt része", "A Khashm-el-Girba gátból profitál", "Cukor az ország keleti részének", "Fontos gazdasági tényező Kasszalában"], "ro": ["Legată de proiectul de relocare Halfa", "Situată în estul Sudanului", "Folosește apele râului Atbara", "Centru economic în statul Kassala", "Producător major de zahăr rafinat"], "en": ["Part of the New Halfa Scheme", "Located in the Kassala State", "Supports regional communities", "Integrated agricultural project"]},
     descriptionAdvanced: {
@@ -258,7 +282,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-SI",
     coords: [33.65, 13.71],
-    name: {"de": "Sennar Zuckerfabrik", "hu": "Sennar Cukorgyár", "ro": "Fabrica de Zahăr Sennar", "en": "Sennar Sugar Factory"},
+    name: {"de": "Sennar Zuckerfabrik", "hu": "Sennar Cukorgyár", "ro": "Fabrica de Zahăr Sennar", "en": "Sennar Sugar Factory",
+image: "/poi-images/sennar-sugar-factory-economic-v2.webp"
+},
     description: {"de": "Die Sennar-Zuckerfabrik nutzt die Wasserressourcen des Blauen Nils für den Anbau von Zuckerrohr auf fruchtbaren Ebenen. Die Fabrik trägt wesentlich zur Versorgung des Inlandsmarktes mit Weißzucker bei.", "hu": "A Sennar Cukorgyár a Sennar-gát melletti öntözött földekről származó cukornádat dolgozza fel.", "ro": "Fabrica de zahăr Sennar procesează trestia cultivată pe terenurile irigate din apropierea barajului Sennar. Este una dintre unitățile industriale cheie care susțin economia regională a Sudanului central.", "en": "The Sennar Sugar Factory utilizes the waters of the Blue Nile to produce sugar for domestic consumption and regional trade."},
     facts: {"de": ["Wichtiger Produzent am Blauen Nil", "Nutzt Wasser des Sennar-Staudamms", "Großflächige Zuckerrohrplantagen", "Sichert regionale Beschäftigung"], "hu": ["A Sennar-gát vizét használja", "Hozzájárul a regionális gazdasághoz", "Állami üzemeltetésű", "Termelés a hazai piacra"], "ro": ["Situată în apropierea barajului Sennar", "Utilizează sisteme complexe de irigații", "Unitate operată de stat", "Sursă importantă de locuri de muncă", "Contribuie la producția națională"], "en": ["Located in the Sennar State", "Uses Blue Nile irrigation water", "Contributes to national sugar supply", "Significant regional industrial employer"]},
     descriptionAdvanced: {
@@ -279,7 +305,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-KN",
     coords: [32.61, 16.14],
-    name: {"de": "Khartum Ölraffinerie (Al-Jaili)", "hu": "Kartúm Olajfinomító (Al-Jaili)", "ro": "Rafinăria de Petrol Khartoum (Al-Jaili)", "en": "Khartoum Oil Refinery (Al-Jaili)"},
+    name: {"de": "Khartum Ölraffinerie (Al-Jaili)", "hu": "Kartúm Olajfinomító (Al-Jaili)", "ro": "Rafinăria de Petrol Khartoum (Al-Jaili)", "en": "Khartoum Oil Refinery (Al-Jaili)",
+image: "/poi-images/al-jaili-oil-refinery-economic-v2.webp"
+},
     description: {"de": "Die Raffinerie in Al-Jaili, nördlich von Khartum, ist die größte Erdölverarbeitungsanlage des Sudan und ein Gemeinschaftsprojekt mit China. Sie deckt einen Großteil des nationalen Bedarfs an Benzin und Diesel.", "hu": "A Kartúmtól északra fekvő Al-Jaili finomító Szudán legnagyobb és legmodernebb olajfinomítója, amely üzemanyaggal látja el az országot.", "ro": "Rafinăria Al-Jaili, situată la nord de Khartoum, este cea mai mare și mai avansată facilitate de prelucrare a petrolului din Sudan. Aceasta procesează țițeiul din câmpurile sudice în combustibili esențiali.", "en": "The Khartoum Refinery at Al-Jaili is the largest and most modern oil refinery in Sudan, processing domestic crude into various fuels."},
     facts: {"de": ["Größte Raffinerie des Landes", "Kooperation zwischen Sudan und China", "Nördlich der Hauptstadt gelegen", "Verarbeitet Rohöl aus dem Süden per Pipeline"], "hu": ["A legnagyobb finomító Szudánban", "Közös vállalat Kínával (CNPC)", "Nil-Blend nyersolajat finomít", "A hazai kereslet nagy részét fedezi"], "ro": ["Cea mai mare rafinărie din Sudan", "Parteneriat strategic cu China (CNPC)", "Produce benzină, diesel și GPL", "Rafinează țițeiul tip Nile Blend", "Situată strategic la nord de capitală", "Pilon al autonomiei energetice"], "en": ["Sudan's largest oil refinery", "Joint venture with international partners", "Produces gasoline, diesel, and kerosene", "Located north of Khartoum"]},
     descriptionAdvanced: {
@@ -299,7 +327,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-NW",
     coords: [30.22, 13.18],
-    name: {"de": "El Obeid Ölraffinerie", "hu": "El Obeid Olajfinomító", "ro": "Rafinăria de Petrol El Obeid", "en": "El Obeid Oil Refinery"},
+    name: {"de": "El Obeid Ölraffinerie", "hu": "El Obeid Olajfinomító", "ro": "Rafinăria de Petrol El Obeid", "en": "El Obeid Oil Refinery",
+image: "/poi-images/el-obeid-oil-refinery-economic-v2.webp"
+},
     description: {"de": "Die Raffinerie in El Obeid ist strategisch wichtig für die Versorgung Westsudans und verarbeitet vor allem schweres Rohöl. Die Anlage produziert zudem hochwertigen Bitumen für den Straßenbau im Land.", "hu": "Az El Obeid-i finomító a nyugati és déli olajmezőkről származó nehéz kőolajat dolgozza fel üzemanyaggá és aszfalttá.", "ro": "Rafinăria din El Obeid este o unitate strategică în vestul Sudanului, procesând țiței greu pentru a furniza energie regiunii Kordofan. Unitatea este cunoscută și pentru producția sa importantă de asfalt.", "en": "The El-Obeid Oil Refinery serves the western regions of Sudan, refining crude oil primarily for local fuel consumption and industry."},
     facts: {"de": ["Zentrale Raffinerie in Nord-Kordofan", "Spezialisiert auf schwere Rohölsorten", "Wichtigster Produzent für Straßenasphalt", "Versorgt den Westen des Sudan"], "hu": ["Nehézolajra specializálódott", "Fontos aszfalttermelő", "Kordofán és Dárfúr régiókat látja el", "Az 1990-es években épült"], "ro": ["Principalul centru petrolier din vest", "Producător major de asfalt industrial", "Procesează țiței greu din câmpurile Fula", "Esențială pentru vestul Sudanului", "Construită în anii 1990"], "en": ["Strategic refinery in North Kordofan", "Supplies fuels to western Sudan", "Connected to main oil pipelines", "Operational since the late 1990s"]},
     descriptionAdvanced: {
@@ -320,7 +350,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-RS",
     coords: [37.23, 19.62],
-    name: {"de": "Port Sudan Ölraffinerie", "hu": "Port Szudán Olajfinomító", "ro": "Rafinăria de Petrol Port Sudan", "en": "Port Sudan Oil Refinery"},
+    name: {"de": "Port Sudan Ölraffinerie", "hu": "Port Szudán Olajfinomító", "ro": "Rafinăria de Petrol Port Sudan", "en": "Port Sudan Oil Refinery",
+image: "/poi-images/port-sudan-oil-refinery-economic-v2.webp"
+},
     description: {"de": "Die alte Raffinerie in Port Sudan war die erste Anlage ihrer Art im Sudan und dient heute als Lager- und Verarbeitungsstützpunkt an der Küste. Sie ist eng mit dem Import von veredelten Ölprodukten verknüpft.", "hu": "A régi Port Szudán-i finomító volt az ország első finomítója, de ma már gyakran csak az importált olaj korlátozott feldolgozására szolgál.", "ro": "Rafinăria Port Sudan este prima unitate de acest gen din țară, având un rol istoric în industria petrolieră. Deși tehnologia este veche, rămâne o componentă importantă a infrastructurii costiere.", "en": "The refinery at Port Sudan processes crude oil near the main export hub, providing essential fuel products for the Red Sea region."},
     facts: {"de": ["Erste Raffinerie des Sudan (1964)", "Hafennähe in Port Sudan", "Dient heute verstärkt als Terminal", "Historisches Zentrum der Ölindustrie"], "hu": ["A legrégebbi finomító Szudánban", "Stratégiai elhelyezkedés a kikötőben", "Gyakori korszerűsítési tervek", "Az 1960-as években alapították"], "ro": ["Prima rafinărie construită în Sudan", "Situată pe coasta Mării Roșii", "Fondată în anul 1964", "Gestionează petrolul importat", "Nod istoric al infrastructurii energetice"], "en": ["Coastal oil refining facility", "Located near main export terminals", "Vital for the Red Sea State economy", "Part of the national oil infrastructure"]},
     descriptionAdvanced: {
@@ -340,7 +372,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-NR",
     coords: [34.02, 17.65],
-    name: {"de": "Atbara Zementfabrik", "hu": "Atbara Cementgyár", "ro": "Fabrica de Ciment Atbara", "en": "Atbara Cement Factory"},
+    name: {"de": "Atbara Zementfabrik", "hu": "Atbara Cementgyár", "ro": "Fabrica de Ciment Atbara", "en": "Atbara Cement Factory",
+image: "/poi-images/atbara-cement-factory-economic-v2.webp"
+},
     description: {"de": "Die Zementfabrik in Atbara ist ein traditionsreicher Betrieb und nutzt die Kalksteinvorkommen im Bundesstaat River Nile. Sie ist eng mit der Geschichte der sudanesischen Eisenbahn und Bauwirtschaft verknüpft.", "hu": "Az atbarai cementgyár az egyik legnagyobb múltra visszatekintő építőanyag-gyártó üzem Szudánban, amely a helyi mészkőlelőhelyeket használja fel.", "ro": "Fabrica de ciment Atbara este unul dintre cei mai vechi și respectați producători de materiale de construcții din Sudan. Ea profită de zăcămintele bogate de calcar din nordul țării pentru a furniza ciment de calitate.", "en": "Atbara Cement Factory is a long-standing pillar of Sudan's construction industry, utilizing the rich limestone deposits of the River Nile State."},
     facts: {"de": ["Älteste Zementfabrik des Landes", "Standort in der Eisenbahnerstadt Atbara", "Nutzt reiche lokale Kalksteinvorkommen", "Pionier der Schwerindustrie am Nil"], "hu": ["A szudáni cementipar úttörője", "A Nílus völgyéből származó mészkövet használja", "Hozzájárul az infrastruktúrához", "Atbara ipari központjában található"], "ro": ["Pionier al industriei cimentului", "Situată în orașul feroviar Atbara", "Utilizează zăcăminte locale de calcar", "Furnizor pentru mari proiecte naționale", "Centru industrial istoric pe Nil"], "en": ["Pioneer of the cement industry", "Located in the city of Atbara", "Major supplier for infrastructure", "Utilizes local limestone and clay"]},
     descriptionAdvanced: {
@@ -361,7 +395,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-WN",
     coords: [32.74, 13.18],
-    name: {"de": "Rabak Zementfabrik (Nile Cement)", "hu": "Rabak Cementgyár", "ro": "Fabrica de Ciment Rabak", "en": "Rabak Cement Factory (Nile Cement)"},
+    name: {"de": "Rabak Zementfabrik (Nile Cement)", "hu": "Rabak Cementgyár", "ro": "Fabrica de Ciment Rabak", "en": "Rabak Cement Factory (Nile Cement)",
+image: "/poi-images/rabak-nile-cement-economic-v2.webp"
+},
     description: {"de": "Nile Cement in Rabak ist ein zentrales Werk für die Versorgung des Bausektors im Süden und Zentrum des Sudan. Die Fabrik profitiert von der logistisch günstigen Lage am Weißen Nil.", "hu": "A Nile Cement Company rabaki gyára fontos építőanyaggal látja el Szudán középső és déli részét.", "ro": "Fabrica Nile Cement din Rabak este o facilitate industrială vitală situată pe malul Nilului Alb. Aceasta furnizează cimentul necesar pentru proiectele de infrastructură din zonele centrale și sudice ale Sudanului.", "en": "The Nile Cement Factory in Rabak is a major producer in the White Nile region, supporting urban development and housing projects."},
     facts: {"de": ["Bedeutender Zementhersteller in Rabak", "Versorgungsknotenpunkt für Zentralsudan", "Umfangreiche Kalksteinbrüche in der Nähe", "Bedeutender Arbeitgeber am Weißen Nil"], "hu": ["Fontos építőanyag-szállító", "Stratégiai elhelyezkedés a Fehér-Nílus partján", "Növeli az építőipari kapacitásokat", "Államilag támogatott projekt"], "ro": ["Sediul companiei Nile Cement", "Situată strategic pe Nilul Alb", "Aprovizionează centrul și sudul țării", "Conectată la transportul fluvial", "Susține industria construcțiilor"], "en": ["Located in the White Nile State", "Major regional cement producer", "Supplies central and southern regions", "Uses local raw materials"]},
     descriptionAdvanced: {
@@ -382,7 +418,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-NR",
     coords: [33.98, 18.02],
-    name: {"de": "Berber Zementfabrik", "hu": "Berber Cementgyár", "ro": "Fabrica de Ciment Berber", "en": "Berber Cement Factory"},
+    name: {"de": "Berber Zementfabrik", "hu": "Berber Cementgyár", "ro": "Fabrica de Ciment Berber", "en": "Berber Cement Factory",
+image: "/poi-images/berber-cement-factory-economic-v2.webp"
+},
     description: {"de": "Die Berber-Zementfabrik gehört zu den modernsten und kapazitätsstärksten Anlagen des Landes. Mit ausländischen Investitionen wurde hier eine hochautomatisierte Produktion für hochwertigen Zement aufgebaut.", "hu": "A berberi modern cementgyár egyike azoknak a létesítményeknek, amelyeket azért építettek, hogy az ország építőiparát önellátóvá tegyék.", "ro": "Fabrica de ciment Berber este un complex industrial modern care a crescut semnificativ capacitatea de producție a Sudanului. Unitatea beneficiază de investiții străine și tehnologii avansate de filtrare.", "en": "The Berber Cement Factory is one of the largest modern cement plants in Sudan, featuring high production capacity and advanced technology."},
     facts: {"de": ["Moderne Großanlage im Norden", "Hohe Produktionskapazität für Export", "Nutzt modernste Filtertechnologien", "Befindet sich im Bundesstaat River Nile"], "hu": ["Külföldi befektetések", "Nagy termelési kapacitás", "Csökkenti az importfüggőséget", "Fejlett szűrőberendezések"], "ro": ["Investiție privată modernă", "Situată în statul River Nile", "Capacitate de producție foarte mare", "Tehnologie modernă anti-emisii", "Reduce necesarul de importuri"], "en": ["Modern large-scale cement plant", "Located in the River Nile State", "High daily production capacity", "Exports cement to neighboring regions"]},
     descriptionAdvanced: {
@@ -402,7 +440,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-NR",
     coords: [33.95, 17.7],
-    name: {"de": "Al-Takamul Zementfabrik", "hu": "Al-Takamul Cementgyár", "ro": "Fabrica de Ciment Al-Takamul", "en": "Al-Takamul Cement Factory"},
+    name: {"de": "Al-Takamul Zementfabrik", "hu": "Al-Takamul Cementgyár", "ro": "Fabrica de Ciment Al-Takamul", "en": "Al-Takamul Cement Factory",
+image: "/poi-images/al-takamul-cement-economic-v2.webp"
+},
     description: {"de": "Al-Takamul Cement ist ein großes Gemeinschaftsprojekt zur Deckung des Baubooms in Khartum und den nördlichen Provinzen. Die Fabrik ist ein Beispiel für die erfolgreiche industrielle Expansion im Niltal.", "hu": "Az Al-Takamul Cement egy nagy vegyesvállalat, amely Észak-Szudánban hatalmas mennyiségű cementet állít elő infrastrukturális projektekhez.", "ro": "Al-Takamul Cement este un proiect ambițios de colaborare între Sudan și Egipt, fiind una dintre cele mai mari fabrici de profil. Facilitatea este esențială pentru susținerea boom-ului imobiliar din Khartoum.", "en": "Al-Takamul Cement is a significant industrial player in the River Nile State, contributing to the country's self-sufficiency in building materials."},
     facts: {"de": ["Großes Zementwerk im Niltal", "Wichtiger Lieferant für die Hauptstadt", "Standort im Bundesstaat River Nile", "Moderne industrielle Infrastruktur"], "hu": ["Egyiptomi-szudáni projekt", "Az ország egyik legnagyobb cementüzeme", "A River Nile államban épült", "Kiszolgálja az építőipari fellendülést"], "ro": ["Parteneriat între Sudan și Egipt", "Una dintre cele mai mari fabrici", "Situată în regiunea nordică", "Produce ciment Portland de calitate", "Susține dezvoltarea urbană"], "en": ["Major industrial cement facility", "Strategic location in Berber", "Supports national construction", "Large joint investment project"]},
     descriptionAdvanced: {
@@ -423,7 +463,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-GZ",
     coords: [32.88, 15.11],
-    name: {"de": "Giad Industriekomplex", "hu": "Giad Ipari Komplexum", "ro": "Complexul Industrial Giad", "en": "Giad Industrial City"},
+    name: {"de": "Giad Industriekomplex", "hu": "Giad Ipari Komplexum", "ro": "Complexul Industrial Giad", "en": "Giad Industrial City",
+image: "/poi-images/giad-industrial-city-economic-v2.webp"
+},
     description: {"de": "Giad Industrial City ist das Herzstück der sudanesischen Fertigungsindustrie und montiert Fahrzeuge, Maschinen und elektronische Geräte. Der Komplex südlich von Khartum gilt als Symbol für den industriellen Fortschritt.", "hu": "A Giad Industrial City a nehézipar és a járműgyártás legfontosabb központja Szudánban, Kartúmtól délre.", "ro": "Orașul industrial Giad este cel mai mare complex de industrie grea din Sudan, fiind specializat în asamblarea vehiculelor și fabricarea metalelor. Este un simbol al ambițiilor de industrializare ale țării.", "en": "Giad Industrial City is Sudan's premier hub for heavy industry, specializing in vehicle assembly, metalworking, and electronics."},
     facts: {"de": ["Größter Industriekomplex des Landes", "Montagewerk für PKW und LKW", "Produziert Kabel und Metallwaren", "Südlich von Khartum an der Blue Nile Road"], "hu": ["Traktorokat és autókat szerel össze", "Fémárukat és kábeleket gyárt", "Partnerségek nemzetközi márkákkal", "Állami presztízsprojekt"], "ro": ["Cel mai mare complex de industrie grea", "Asamblează autoturisme și camioane", "Produce tractoare și utilaje agricole", "Fabrică țevi, cabluri și piese metalice", "Situat la 50 km sud de Khartoum", "Parteneriate cu companii internaționale"], "en": ["Main center for heavy industry", "Assembles cars and trucks", "Produces metal pipes and cables", "Located south of Khartoum"]},
     descriptionAdvanced: {
@@ -444,7 +486,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-RS",
     coords: [35.85, 18.52],
-    name: {"de": "Hassai Goldmine (Ariab)", "hu": "Hassai Aranybánya (Ariab)", "ro": "Mina de Aur Hassai (Ariab)", "en": "Hassai Gold Mine (Ariab)"},
+    name: {"de": "Hassai Goldmine (Ariab)", "hu": "Hassai Aranybánya (Ariab)", "ro": "Mina de Aur Hassai (Ariab)", "en": "Hassai Gold Mine (Ariab)",
+image: "/poi-images/hassai-gold-mine-economic-v2.webp"
+},
     description: {"de": "Die Hassai-Goldmine in den Red Sea Hills ist der bedeutendste industrielle Goldbergbaubetrieb des Sudan. Sie wird von der Ariab Mining Company betrieben und fördert Gold im Tagebauverfahren.", "hu": "A Vörös-tengeri hegyekben található Hassai aranybánya Szudán egyik leggazdagabb aranybányája, amelyet az Ariab Mining Company üzemeltet.", "ro": "Mina de aur Hassai, situată în Munții Mării Roșii, este cea mai importantă exploatare industrială de aur din Sudan. Operată de Ariab Mining Company, aceasta furnizează o parte semnificativă din rezervele de aur.", "en": "The Hassai Gold Mine in the Red Sea Hills is Sudan's most productive industrial gold mine, operated as a major joint venture."},
     facts: {"de": ["Größte industrielle Goldmine", "Betrieben durch die Ariab Mining Company", "Liegt in den Bergen des Roten Meeres", "Wichtigste Quelle für staatliche Goldexporte"], "hu": ["Az ország legfontosabb aranytermelője", "Az 1990-es évek óta aktív", "Külszíni fejtés", "Aranyrudak exportja"], "ro": ["Cea mai mare mină industrială de aur", "Situată în Munții Mării Roșii", "Exploatare în carieră deschisă", "Operată de Ariab Mining Company", "Sursă majoră de venituri din export", "Zăcăminte bogate în aur și cupru"], "en": ["Sudan's leading industrial gold mine", "Operated by Ariab Mining Company", "Open-pit mining in Red Sea Hills", "Produces gold and copper concentrates"]},
     descriptionAdvanced: {
@@ -464,7 +508,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-ND",
     coords: [23.4, 14.15],
-    name: {"de": "Jebel Amir Goldminen", "hu": "Jebel Amir Aranybányák", "ro": "Minele de Aur Jebel Amir", "en": "Jebel Amir Gold Mines"},
+    name: {"de": "Jebel Amir Goldminen", "hu": "Jebel Amir Aranybányák", "ro": "Minele de Aur Jebel Amir", "en": "Jebel Amir Gold Mines",
+image: "/poi-images/jebel-amir-gold-mines-economic-v2.webp"
+},
     description: {"de": "Die Goldminen von Jebel Amir in Nord-Darfur sind bekannt für den handwerklichen Bergbau, der Tausende von Menschen anzieht. Die Region ist eine der produktivsten Goldquellen des afrikanischen Kontinents.", "hu": "A Jebel Amir térségében lévő aranybányák több ezer informális bányászt vonzottak, és fontos, bár vitatott gazdasági központot jelentenek Dárfúrban.", "ro": "Minele de aur Jebel Amir din Darfurul de Nord sunt cunoscute pentru exploatarea artizanală la scară largă. Regiunea a atras mii de mineri din toată Africa, devenind un centru economic crucial, dar complex.", "en": "The Jebel Amir area is a vast gold-mining region in North Darfur, known for significant artisanal and small-scale mining activities."},
     facts: {"de": ["Zentrum des handwerklichen Goldbergbaus", "Liegt im Bundesstaat Nord-Darfur", "Zieht Bergleute aus ganz Afrika an", "Enorme wirtschaftliche Bedeutung für den Westen"], "hu": ["Egy nagy aranyláz helyszíne", "Évi több millió dolláros forgalom", "Főleg kézműves bányászat", "Nemrég államosították"], "ro": ["Centru masiv de minerit artizanal", "Situat în statul Darfur de Nord", "Atras mii de mineri informali", "Sursă vitală de venit local", "Producție de aur de milioane de dolari", "Recent trecută sub controlul statului"], "en": ["Major gold mining hub in Darfur", "Attracts thousands of artisanal miners", "Significant contributor to gold output", "Recent formalization efforts"]},
     descriptionAdvanced: {
@@ -485,7 +531,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-WK",
     coords: [28.6, 11.2],
-    name: {"de": "Balila Ölfeld (Block 6)", "hu": "Balila Olajmező (Block 6)", "ro": "Câmpul Petrolier Balila (Block 6)", "en": "Balila Oil Field (Block 6)"},
+    name: {"de": "Balila Ölfeld (Block 6)", "hu": "Balila Olajmező (Block 6)", "ro": "Câmpul Petrolier Balila (Block 6)", "en": "Balila Oil Field (Block 6)",
+image: "/poi-images/block-6-balila-oil-field-economic-v2.webp"
+},
     description: {"de": "Das Ölfeld Balila in Block 6 ist ein zentrales Fördergebiet für schweres Rohöl in West-Kordofan. Das Feld ist über eine Pipeline direkt an die Raffinerie in Khartum angeschlossen.", "hu": "A 6-os blokkban található Balila olajmező Szudán egyik legaktívabb olajtermelő területe, és főleg nehéz kőolajat termel.", "ro": "Câmpul petrolier Balila din Blocul 6 este o zonă de producție majoră în statul Kordofan de Vest. Acesta este specializat în extracția țițeiului greu și vâscos, vital pentru rafinăriile interne.", "en": "The Balila Oil Field in Block 6 is a key onshore production area in West Kordofan, contributing significantly to Sudan's oil output."},
     facts: {"de": ["Wichtiges Onshore-Ölfeld", "Produziert schweres Rohöl (Fula Blend)", "Standort im Bundesstaat West-Kordofan", "Betrieben durch internationale Konsortien"], "hu": ["Erősen viszkózus olajat termel", "Csővezetéken keresztül csatlakozik Kartúmhoz", "A PetroEnergy üzemelteti", "Fontos az El-Obeid finomító számára"], "ro": ["Situat în statul Kordofan de Vest", "Extrage țiței tip Fula Blend", "Operat de compania PetroEnergy", "Conectat prin conductă la Khartoum", "Sursă de țiței greu pentru asfalt"], "en": ["Important onshore oil field", "Located in West Kordofan State", "Produces heavy crude oil", "Connected to main export pipeline"]},
     descriptionAdvanced: {
@@ -506,7 +554,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-NO",
     coords: [32.55, 20.85],
-    name: {"de": "Galat Sufar South Goldprojekt", "hu": "Galat Sufar South Aranyprojekt", "ro": "Proiectul Aurifer Galat Sufar South", "en": "Galat Sufar South Gold Project"},
+    name: {"de": "Galat Sufar South Goldprojekt", "hu": "Galat Sufar South Aranyprojekt", "ro": "Proiectul Aurifer Galat Sufar South", "en": "Galat Sufar South Gold Project",
+image: "/poi-images/galat-sufar-south-gold-economic-v2.webp"
+},
     description: {"de": "Galat Sufar South ist ein modernes Bergbauprojekt in der Nubischen Wüste, das auf die Erschließung großer Goldvorkommen abzielt. Es ist Teil der Strategie, den Goldbergbau im Sudan zu industrialisieren.", "hu": "A Galat Sufar South (GSS) projekt egy modern aranybányászati vállalkozás az ország északi részén fekvő Núbiai-sivatagban.", "ro": "Galat Sufar South este un proiect minier modern situat în deșertul nubian din nordul Sudanului. Este unul dintre primele proiecte care utilizează tehnologii avansate de explorare pentru zăcăminte de adâncime.", "en": "Galat Sufar South is a large-scale industrial gold mining project in the River Nile State, utilizing modern extraction technologies."},
     facts: {"de": ["Großes Goldprojekt in der Nubischen Wüste", "Teil des rohstoffreichen Nubischen Schildes", "Einsatz moderner Explorationstechnik", "Wichtiges Ziel für Bergbauinvestitionen"], "hu": ["Nagy kutatási potenciál", "Kanadai cégek részvétele", "Korszerű bányászati technológia", "Erősíti az északi bányászati szektort"], "ro": ["Proiect minier modern în deșert", "Situat în deșertul Nubian", "Investiție a companiei Orca Gold", "Tehnologii de explorare de ultimă oră", "Potențial ridicat de producție", "Contribuie la modernizarea mineritului"], "en": ["Industrial gold mining operation", "Located in the River Nile State", "Uses modern processing plants", "Significant source of mineral wealth"]},
     descriptionAdvanced: {
@@ -527,7 +577,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-KN",
     coords: [32.55, 15.65],
-    name: {"de": "Industriegebiet Khartum Nord", "hu": "Kartúm Észak Ipari Terület", "ro": "Zona Industrială Khartoum Nord", "en": "Khartoum North Industrial Area"},
+    name: {"de": "Industriegebiet Khartum Nord", "hu": "Kartúm Észak Ipari Terület", "ro": "Zona Industrială Khartoum Nord", "en": "Khartoum North Industrial Area",
+image: "/poi-images/khartoum-north-industrial-economic-v2.webp"
+},
     description: {"de": "Das Industriegebiet von Khartum-Nord ist die traditionsreichste und dichteste Industriezone des Landes. Hier konzentrieren sich Betriebe der Textil-, Kunststoff- und Lebensmittelverarbeitung.", "hu": "A Kartúm Észak ipari terület a szudáni feldolgozóipar szíve, és számtalan kisebb-nagyobb gyárnak ad otthont.", "ro": "Zona industrială Khartoum Nord este inima activității manufacturiere a țării. Găzduiește sute de unități de producție, de la procesarea alimentelor la industria chimică și a materialelor plastice.", "en": "The Khartoum North Industrial Area is one of the oldest and largest industrial zones in Sudan, hosting hundreds of manufacturing plants."},
     facts: {"de": ["Ältestes Industriegebiet des Sudan", "Zentrum der Konsumgüterproduktion", "Befindet sich in der Teilstadt Bahri", "Hub für das verarbeitende Gewerbe"], "hu": ["Élelmiszereket és italokat gyárt", "A textil- és műanyagipar központja", "Az ország legsűrűbb ipari területe", "Nyereséges a fogyasztói piac közelsége miatt"], "ro": ["Cea mai veche zonă industrială majoră", "Hub pentru industria alimentară", "Concentrare mare de fabrici de textile", "Principalul centru de manufactură", "Situată în orașul Bahri"], "en": ["Oldest industrial zone in the capital", "Hosts food and textile plants", "Major source of urban employment", "Vital for domestic consumer goods"]},
     descriptionAdvanced: {
@@ -548,7 +600,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-GZ",
     coords: [32.75, 15.3],
-    name: {"de": "Bageer Industrieviertel", "hu": "Bageer Ipari Negyed", "ro": "Cartierul Industrial Bageer", "en": "Al Bageer Industrial Area"},
+    name: {"de": "Bageer Industrieviertel", "hu": "Bageer Ipari Negyed", "ro": "Cartierul Industrial Bageer", "en": "Al Bageer Industrial Area",
+image: "/poi-images/al-bageer-industrial-area-economic-v2.webp"
+},
     description: {"de": "Al-Bageer ist ein wachsendes Industrieviertel südlich von Khartum, das vor allem für Pharmaunternehmen und Lebensmittelverpackungen bekannt ist. Es bietet modernen Platz für die industrielle Expansion der Hauptstadt.", "hu": "Al Bageer a fővárostól délre fekvő, növekvő ipari terület, amely a központi kerületek tehermentesítésére szolgál.", "ro": "Zona industrială Al-Bageer este un hub în plină expansiune situat la granița dintre Khartoum și statul Gezira. Este centrul principal pentru industria farmaceutică și ambalajele industriale din Sudan.", "en": "Al-Bageer is a rapidly growing industrial zone south of Khartoum, attracting investments in pharmaceuticals and food processing."},
     facts: {"de": ["Moderner Industriestandort im Süden", "Zentrum der Pharmaproduktion", "Gute Anbindung an die Wad-Medani-Straße", "Sitz vieler neuer Fabrikanlagen"], "hu": ["A hangsúly a csomagoláson és a vegyiparon van", "Jól csatlakozik a kikötői autópályához", "Új befektetőket vonz", "Modern logisztikai központok"], "ro": ["Centrul industriei farmaceutice", "Zonă industrială nouă și planificată", "Situată pe autostrada Khartoum-Medani", "Găzduiește fabrici de ambalaje", "Atrage investiții în tehnologie"], "en": ["Modern industrial and logistics hub", "Focus on pharmaceutical production", "Strategically located on Blue Nile", "Attracts international investment"]},
     descriptionAdvanced: {
@@ -569,7 +623,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-GZ",
     coords: [33.48, 14.4],
-    name: {"de": "Wad Medani Textilfabrik", "hu": "Wad Medani Textilgyár", "ro": "Fabrica de Textile Wad Medani", "en": "Wad Medani Textile Factory"},
+    name: {"de": "Wad Medani Textilfabrik", "hu": "Wad Medani Textilgyár", "ro": "Fabrica de Textile Wad Medani", "en": "Wad Medani Textile Factory",
+image: "/poi-images/wad-medani-textile-factory-economic-v2.webp"
+},
     description: {"de": "Die Textilfabrik von Wad Medani verarbeitet die hochwertige Baumwolle aus dem Gezira-Bewässerungsprojekt. Sie ist ein historisches Zentrum der sudanesischen Weberei und Fadenherstellung.", "hu": "A Wad Medani textilgyár a közeli Gezira síkságon termesztett gyapotot dolgozza fel fonallá és szövetekké.", "ro": "Fabrica de textile din Wad Medani procesează bumbacul de înaltă calitate recoltat din faimosul proiect agricol Gezira. Unitatea este esențială pentru transformarea materiei prime în produse finite.", "en": "The textile factory in Wad Medani was built to process the high-quality cotton produced in the nearby Gezira Scheme."},
     facts: {"de": ["Verarbeitet Baumwolle aus dem Gezira-Scheme", "Standort in Wad Medani", "Traditionelle Textilindustrie", "Wichtig für die lokale Wertschöpfung"], "hu": ["Helyi, hosszú szálú gyapotot használ", "Hagyományos textilfeldolgozás", "Fontos az értéklánc szempontjából", "Egykor Afrika egyik legnagyobbja volt"], "ro": ["Procesează bumbacul din Gezira", "Situată în capitalul statului Gezira", "Tradiție lungă în industria textilă", "Produce fire și țesături de bumbac", "Susține lanțul valoric agricol"], "en": ["Processes locally grown cotton", "Located in the city of Wad Medani", "Historical center of textile industry", "Supports the local agricultural chain"]},
     descriptionAdvanced: {
@@ -590,7 +646,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-GD",
     coords: [35.38, 14.03],
-    name: {"de": "El Gedarif Sesam-Verarbeitung", "hu": "El Gedarif Szezámmag-feldolgozó", "ro": "Procesarea Susanului El Gedarif", "en": "El Gedarif Sesame Processing"},
+    name: {"de": "El Gedarif Sesam-Verarbeitung", "hu": "El Gedarif Szezámmag-feldolgozó", "ro": "Procesarea Susanului El Gedarif", "en": "El Gedarif Sesame Processing",
+image: "/poi-images/gedarif-sesame-processing-economic-v2.webp"
+},
     description: {"de": "Die Verarbeitungsanlagen in Gedarif sind das Weltzentrum für die Reinigung und den Export von Sesam. Sudan gehört zu den größten Exporteuren von weißem Sesam, der hier für den Weltmarkt vorbereitet wird.", "hu": "Az El Gedarif-i agráripari létesítmények szezámmag és cirok tisztítására és csomagolására specializálódtak a világméretű export számára.", "ro": "Instalațiile de procesare a susanului din Gedarif sunt vitale pentru exporturile agricole ale Sudanului. Aici, semințele sunt curățate și ambalate conform standardelor internaționale pentru a fi trimise în întreaga lume.", "en": "Gedarif is the heart of Sudan's sesame production, with numerous facilities dedicated to cleaning seeds for international markets."},
     facts: {"de": ["Weltmarktzentrum für Sesam", "Mechanisierte Reinigung und Sortierung", "Liegt im Agrarzentrum Ostsudan", "Wichtig für Devisen aus Agrarexporten"], "hu": ["Szudán a legnagyobb szezámmag-exportőr", "A gépesített mezőgazdaság központja", "Feldolgozás az exportpiacra", "Szezámolaj-gyártás"], "ro": ["Gedarif este centrul mondial al susanului", "Instalații moderne de curățare și sortare", "Sursă majoră de valută pentru Sudan", "Hub pentru agricultura mecanizată", "Gestionează exportul de semințe oleaginoase"], "en": ["Center of global sesame exports", "Facilities for cleaning and grading", "Heart of mechanized farming sector", "Key driver of agricultural revenue"]},
     descriptionAdvanced: {
@@ -611,7 +669,9 @@ export const poiExtraSudanEconomicV2: POI[] = [
     type: "industry",
     parent: "SD-KN",
     coords: [32.48, 15.68],
-    name: {"de": "Khor Omar Industriekomplex", "hu": "Khor Omar Ipari Komplexum", "ro": "Complexul Industrial Khor Omar", "en": "Khor Omar Industrial Complex"},
+    name: {"de": "Khor Omar Industriekomplex", "hu": "Khor Omar Ipari Komplexum", "ro": "Complexul Industrial Khor Omar", "en": "Khor Omar Industrial Complex",
+image: "/poi-images/khor-omar-industrial-economic-v2.webp"
+},
     description: {"de": "Der Khor-Omar-Industriekomplex in Omdurman ist ein Zentrum für Kleingewerbe und Baustoffproduktion. Er unterstützt die Deckung des lokalen Bedarfs der wachsenden Millionenstadt Omdurman.", "hu": "Az Omdurman melletti ipari park építőanyagok, kerámiák és gyógyszeripari termékek gyártására összpontosít.", "ro": "Zona industrială Khor Omar din Omdurman este un pol de dezvoltare pentru micile întreprinderi și industria materialelor de construcție. Contribuie la diversificarea economică a celei mai mari zone urbane din țară.", "en": "The Khor Omar Industrial Complex in Omdurman is a developing area for small and medium-sized enterprises and manufacturing."},
     facts: {"de": ["Industriezone in Omdurman", "Schwerpunkt auf Baustoffen und Handwerk", "Versorgt den lokalen Baumarkt", "Zentrum für kleine und mittlere Betriebe"], "hu": ["Helyi gyógyszeripari vállalatok telephelye", "Tégla- és csempegyártás", "Munkahelyek ezreit teremti meg", "A külvárosok felé növekszik"], "ro": ["Situată în orașul Omdurman", "Centru pentru materiale de construcție", "Găzduiește numeroase ateliere metalice", "Susține economia locală a capitalei", "Zonă de expansiune industrială"], "en": ["Industrial zone in Omdurman", "Focus on small and medium enterprises", "Supports urban manufacturing", "Located in Sudan's largest city"]},
     descriptionAdvanced: {

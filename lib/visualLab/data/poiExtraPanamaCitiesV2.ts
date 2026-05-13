@@ -7,7 +7,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-4",
     coords: [-82.62, 8.48],
-    name: { de: "Concepción (Bugaba)", hu: "Concepción (Bugaba)", ro: "Concepción (Bugaba)", en: "Concepción, Bugaba" },
+    name: { de: "Concepción (Bugaba)", hu: "Concepción (Bugaba)", ro: "Concepción (Bugaba)", en: "Concepción, Bugaba",
+image: "/poi-images/concepcion-bugaba-cities-v2.webp"
+},
     description: { de: "Die Hauptstadt des Bezirks Bugaba in Chiriquí.", hu: "Bugaba kerület fővárosa Chiriquí tartományban.", ro: "Capitala districtului Bugaba din Chiriquí.", en: "The capital of the Bugaba district in Chiriquí." },
     facts: {
       de: ["Wichtiges Handelszentrum.", "Umschlagplatz für landwirtschaftliche Produkte.", "Bevölkerungsreiches Gebiet.", "Gute Anbindung an David und die Grenze."],
@@ -33,7 +35,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-4",
     coords: [-82.1, 8.2],
-    name: { de: "San Lorenzo (Chiriquí)", hu: "San Lorenzo (Chiriquí)", ro: "San Lorenzo (Chiriquí)", en: "San Lorenzo, Chiriquí" },
+    name: { de: "San Lorenzo (Chiriquí)", hu: "San Lorenzo (Chiriquí)", ro: "San Lorenzo (Chiriquí)", en: "San Lorenzo, Chiriquí",
+image: "/poi-images/san-lorenzo-chiriqui-cities-v2.webp"
+},
     description: { de: "Ein Küstenbezirk in Chiriquí mit Mangroven und Stränden.", hu: "Tengerparti kerület Chiriquí tartományban, mangrovékkal és strandokkal.", ro: "Un district de coastă în Chiriquí, cu mangrove și plaje.", en: "A coastal district in Chiriquí with mangroves and beaches." },
     facts: {
       de: ["Tor zum Meeresnationalpark Golf von Chiriquí.", "Wichtige Mangrovenwälder.", "Fischerei und Tourismus.", "Ausgangspunkt für Inselbesuche."],
@@ -59,7 +63,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-8",
     coords: [-79.56, 8.96],
-    name: { de: "Balboa", hu: "Balboa", ro: "Balboa", en: "Balboa" },
+    name: { de: "Balboa", hu: "Balboa", ro: "Balboa", en: "Balboa",
+image: "/poi-images/balboa-panama-cities-v2.webp"
+},
     description: { de: "Ein historischer Bezirk am pazifischen Eingang des Panamakanals.", hu: "Történelmi kerület a Panama-csatorna csendes-óceáni bejáratánál.", ro: "Un district istoric la intrarea în Pacific a Canalului Panama.", en: "A historic district at the Pacific entrance of the Panama Canal." },
     facts: {
       de: ["Ehemalige Verwaltungsstadt der Kanalzone.", "Schöne amerikanische Kolonialarchitektur.", "Standort der Kanalverwaltung.", "Hafen und maritime Dienstleistungen."],
@@ -85,7 +91,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-3",
     coords: [-79.7, 9.12],
-    name: { de: "Gamboa", hu: "Gamboa", ro: "Gamboa", en: "Gamboa" },
+    name: { de: "Gamboa", hu: "Gamboa", ro: "Gamboa", en: "Gamboa",
+image: "/poi-images/gamboa-cities-v2.webp"
+},
     description: { de: "Eine kleine Stadt am Chagres-Fluss, umgeben von Regenwald.", hu: "Kisváros a Chagres folyó partján, esőerdővel körülvéve.", ro: "Un orășel pe râul Chagres, înconjurat de pădurea tropicală.", en: "A small town on the Chagres River, surrounded by rainforest." },
     facts: {
       de: ["Ehemalige Stadt der Kanalzone.", "Standort des Smithsonian Tropical Research Institute.", "Tor zum Soberanía-Nationalpark.", "Beliebt für Vogelbeobachtung und Ökotourismus."],
@@ -111,7 +119,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-3",
     coords: [-79.9, 9.35],
-    name: { de: "Cristóbal", hu: "Cristóbal", ro: "Cristóbal", en: "Cristóbal" },
+    name: { de: "Cristóbal", hu: "Cristóbal", ro: "Cristóbal", en: "Cristóbal",
+image: "/poi-images/cristobal-colon-cities-v2.webp"
+},
     description: { de: "Der Hafen- und Verwaltungsbezirk von Colón.", hu: "Colón kikötői és közigazgatási kerülete.", ro: "Districtul portuar și administrativ al lui Colón.", en: "The port and administrative district of Colón." },
     facts: {
       de: ["Liegt am karibischen Eingang des Kanals.", "Wichtiger Kreuzfahrt- und Handelshafen.", "Historische Gebäude aus der Kanalbauzeit.", "Eng verbunden mit der Stadt Colón."],
@@ -137,7 +147,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-3",
     coords: [-79.57, 9.62],
-    name: { de: "Isla Grande", hu: "Isla Grande", ro: "Isla Grande", en: "Isla Grande" },
+    name: { de: "Isla Grande", hu: "Isla Grande", ro: "Isla Grande", en: "Isla Grande",
+image: "/poi-images/isla-grande-cities-v2.webp"
+},
     description: { de: "Eine beliebte Touristeninsel an der Karibikküste von Colón.", hu: "Népszerű turisztikai sziget Colón karibi partvidékén.", ro: "O insulă turistică populară pe coasta caraibiană a Colónului.", en: "A popular tourist island on the Caribbean coast of Colón." },
     facts: {
       de: ["Klares Wasser zum Schnorcheln und Tauchen.", "Entspannte afro-karibische Atmosphäre.", "Keine Autos auf der Insel.", "Statue des Schwarzen Christus im Meer."],
@@ -163,7 +175,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-3",
     coords: [-80.05, 9.25],
-    name: { de: "Palmas Bellas", hu: "Palmas Bellas", ro: "Palmas Bellas", en: "Palmas Bellas" },
+    name: { de: "Palmas Bellas", hu: "Palmas Bellas", ro: "Palmas Bellas", en: "Palmas Bellas",
+image: "/poi-images/palmas-bellas-cities-v2.webp"
+},
     description: { de: "Ein Dorf an der Costa Abajo in der Provinz Colón.", hu: "Falu a Costa Abajo-n, Colón tartományban.", ro: "Un sat pe Costa Abajo, în provincia Colón.", en: "A village on the Costa Abajo in Colón province." },
     facts: {
       de: ["Ländliche Küstengemeinde.", "Fischerei als Haupttätigkeit.", "Afro-panamaische Kultur.", "Nahe des Forts San Lorenzo."],
@@ -189,7 +203,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-8",
     coords: [-79.4, 9.0],
-    name: { de: "Don Bosco (Panama)", hu: "Don Bosco (Panama)", ro: "Don Bosco (Panama)", en: "Don Bosco, Panama" },
+    name: { de: "Don Bosco (Panama)", hu: "Don Bosco (Panama)", ro: "Don Bosco (Panama)", en: "Don Bosco, Panama",
+image: "/poi-images/don-bosco-panama-cities-v2.webp"
+},
     description: { de: "Ein moderner, wachsender Bezirk in der Nähe des Flughafens Tocumen.", hu: "Modern, növekvő kerület a Tocumen repülőtér közelében.", ro: "Un district modern, în creștere, lângă Aeroportul Tocumen.", en: "A modern, growing district near Tocumen airport." },
     facts: {
       de: ["Neue Wohn- und Geschäftsentwicklungen.", "Strategische Lage nahe dem Flughafen.", "Gute Anbindung an die Stadt.", "Teil der östlichen Expansion von Panama-Stadt."],
@@ -215,7 +231,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-10",
     coords: [-79.7, 8.9],
-    name: { de: "Juan Demóstenes Arosemena", hu: "Juan Demóstenes Arosemena", ro: "Juan Demóstenes Arosemena", en: "Juan Demóstenes Arosemena" },
+    name: { de: "Juan Demóstenes Arosemena", hu: "Juan Demóstenes Arosemena", ro: "Juan Demóstenes Arosemena", en: "Juan Demóstenes Arosemena",
+image: "/poi-images/juan-demostenes-arosemena-cities-v2.webp"
+},
     description: { de: "Ein bevölkerungsreicher Bezirk im Distrikt Arraiján.", hu: "Népes kerület Arraiján kerületében.", ro: "Un district populat în districtul Arraiján.", en: "A populous district in the Arraiján District." },
     facts: {
       de: ["Benannt nach einem ehemaligen Präsidenten Panamas.", "Dicht besiedeltes Wohngebiet.", "Teil der Metropolregion.", "Städtische Infrastruktur."],
@@ -241,7 +259,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-8",
     coords: [-79.6, 9.2],
-    name: { de: "Chilibre", hu: "Chilibre", ro: "Chilibre", en: "Chilibre" },
+    name: { de: "Chilibre", hu: "Chilibre", ro: "Chilibre", en: "Chilibre",
+image: "/poi-images/chilibre-cities-v2.webp"
+},
     description: { de: "Ein großer Bezirk im Norden von Panama-Stadt.", hu: "Nagy kerület Panamavárostól északra.", ro: "Un district mare la nord de Ciudad de Panama.", en: "A large district in the north of Panama City." },
     facts: {
       de: ["Umfasst Teile des Chagres-Nationalparks.", "Wichtige Wasserressourcen für den Kanal.", "Mischung aus ländlichen und städtischen Gebieten.", "Anbau von Obst und Gemüse."],
@@ -267,7 +287,9 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     type: "city",
     parent: "PA-8",
     coords: [-79.3, 9.1],
-    name: { de: "Las Garzas (Panama)", hu: "Las Garzas (Panama)", ro: "Las Garzas (Panama)", en: "Las Garzas, Panama" },
+    name: { de: "Las Garzas (Panama)", hu: "Las Garzas (Panama)", ro: "Las Garzas (Panama)", en: "Las Garzas, Panama",
+image: "/poi-images/las-garzas-panama-cities-v2.webp"
+},
     description: { de: "Ein Bezirk im Osten von Panama-Stadt, nahe Pacora.", hu: "Kerület Panamaváros keleti részén, Pacora közelében.", ro: "Un district în estul Ciudad de Panama, lângă Pacora.", en: "A district in the east of Panama City, near Pacora." },
     facts: {
       de: ["Wachsender Bezirk.", "Entwicklung neuer Wohngebiete.", "Ländlicher Charakter am Rande.", "Teil der städtischen Expansion."],

@@ -6,7 +6,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-DE",
     coords: [-58.1633, 6.8145],
-    name: { de: "Hafen von Georgetown", hu: "Georgetown Kikötője", ro: "Portul Georgetown", en: "Port of Georgetown" },
+    name: { de: "Hafen von Georgetown", hu: "Georgetown Kikötője", ro: "Portul Georgetown", en: "Port of Georgetown",
+image: "/poi-images/port-of-georgetown-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
       hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
@@ -43,7 +45,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-CU",
     coords: [-58.745, 5.4333],
-    name: { de: "Omai-Goldmine", hu: "Omai Aranybánya", ro: "Mina de Aur Omai", en: "Omai Gold Mine" },
+    name: { de: "Omai-Goldmine", hu: "Omai Aranybánya", ro: "Mina de Aur Omai", en: "Omai Gold Mine",
+image: "/poi-images/omai-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende und reiche Goldmine im Landesinneren von Guyana.",
       hu: "Egy történelmileg jelentős és gazdag aranybánya Guyana belsejében.",
@@ -73,7 +77,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-58.172, 6.7589],
-    name: { de: "Demerara Distillers", hu: "Demerara Lepárló", ro: "Distileria Demerara", en: "Demerara Distillers" },
+    name: { de: "Demerara Distillers", hu: "Demerara Lepárló", ro: "Distileria Demerara", en: "Demerara Distillers",
+image: "/poi-images/demerara-distillers-economic-v2.webp"
+},
     description: {
       de: "Eine weltberühmte Rumbrennerei, die für die Herstellung des El Dorado Rums bekannt ist.",
       hu: "Egy világhírű rumlepárló, amely az El Dorado rum gyártásáról ismert.",
@@ -90,7 +96,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-58.161, 6.7865],
-    name: { de: "Banks DIH Brauerei", hu: "Banks DIH Sörfőzde", ro: "Berăria Banks DIH", en: "Banks DIH Brewery" },
+    name: { de: "Banks DIH Brauerei", hu: "Banks DIH Sörfőzde", ro: "Berăria Banks DIH", en: "Banks DIH Brewery",
+image: "/poi-images/banks-dih-brewery-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Brauereien und Lebensmittelproduzenten in Guyana.",
       hu: "Guyana egyik legnagyobb sörfőzdéje és élelmiszergyártója.",
@@ -107,7 +115,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-56.5, 8.0],
-    name: { de: "Liza Destiny FPSO", hu: "Liza Destiny FPSO", ro: "Liza Destiny FPSO", en: "Liza Destiny FPSO" },
+    name: { de: "Liza Destiny FPSO", hu: "Liza Destiny FPSO", ro: "Liza Destiny FPSO", en: "Liza Destiny FPSO",
+image: "/poi-images/liza-destiny-fpso-economic-v2.webp"
+},
     description: {
       de: "Das erste schwimmende Produktions-, Lager- und Entladeschiff vor der Küste Guyanas.",
       hu: "Az első úszó termelési, tároló és kirakodó hajó Guyana partjainál.",
@@ -124,7 +134,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-56.52, 8.05],
-    name: { de: "Liza Unity FPSO", hu: "Liza Unity FPSO", ro: "Liza Unity FPSO", en: "Liza Unity FPSO" },
+    name: { de: "Liza Unity FPSO", hu: "Liza Unity FPSO", ro: "Liza Unity FPSO", en: "Liza Unity FPSO",
+image: "/poi-images/liza-unity-fpso-economic-v2.webp"
+},
     description: {
       de: "Das zweite Ölföderschiff, das die Offshore-Ölproduktion Guyanas erheblich steigerte.",
       hu: "A második olajkitermelő hajó, amely jelentősen növelte Guyana tengeri olajtermelését.",
@@ -141,7 +153,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-56.54, 8.1],
-    name: { de: "Prosperity FPSO", hu: "Prosperity FPSO", ro: "Prosperity FPSO", en: "Prosperity FPSO" },
+    name: { de: "Prosperity FPSO", hu: "Prosperity FPSO", ro: "Prosperity FPSO", en: "Prosperity FPSO",
+image: "/poi-images/prosperity-fpso-economic-v2.webp"
+},
     description: {
       de: "Ein weiteres wichtiges Offshore-Ölförderschiff im fruchtbaren Stabroek-Block.",
       hu: "Egy másik fontos tengeri olajkitermelő hajó a termékeny Stabroek-blokkban.",
@@ -158,7 +172,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-56.56, 8.15],
-    name: { de: "One Guyana FPSO", hu: "One Guyana FPSO", ro: "One Guyana FPSO", en: "One Guyana FPSO" },
+    name: { de: "One Guyana FPSO", hu: "One Guyana FPSO", ro: "One Guyana FPSO", en: "One Guyana FPSO",
+image: "/poi-images/one-guyana-fpso-economic-v2.webp"
+},
     description: {
       de: "Das vierte und größte geplante FPSO-Schiff für Guyanas Offshore-Ölfelder.",
       hu: "A negyedik és legnagyobb tervezett FPSO hajó Guyana tengeri olajmezőin.",
@@ -175,7 +191,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-CU",
     coords: [-59.7431, 6.7861],
-    name: { de: "Aurora-Goldmine", hu: "Aurora Aranybánya", ro: "Mina de Aur Aurora", en: "Aurora Gold Mine" },
+    name: { de: "Aurora-Goldmine", hu: "Aurora Aranybánya", ro: "Mina de Aur Aurora", en: "Aurora Gold Mine",
+image: "/poi-images/aurora-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Eine große Goldmine im Cuyuni-Mazaruni-Gebiet von Guyana.",
       hu: "Egy nagy aranybánya Guyana Cuyuni-Mazaruni régiójában.",
@@ -205,7 +223,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-CU",
     coords: [-59.1, 5.75],
-    name: { de: "Karouni-Goldmine", hu: "Karouni Aranybánya", ro: "Mina de Aur Karouni", en: "Karouni Gold Mine" },
+    name: { de: "Karouni-Goldmine", hu: "Karouni Aranybánya", ro: "Mina de Aur Karouni", en: "Karouni Gold Mine",
+image: "/poi-images/karouni-gold-mine-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Goldbergbauprojekt im Inneren Guyanas.",
       hu: "Egy jelentős aranybányászati projekt Guyana belsejében.",
@@ -222,7 +242,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-CU",
     coords: [-60.2, 6.45],
-    name: { de: "Toroparu-Goldprojekt", hu: "Toroparu Aranyprojekt", ro: "Proiectul Aurifer Toroparu", en: "Toroparu Gold Project" },
+    name: { de: "Toroparu-Goldprojekt", hu: "Toroparu Aranyprojekt", ro: "Proiectul Aurifer Toroparu", en: "Toroparu Gold Project",
+image: "/poi-images/toroparu-gold-project-economic-v2.webp"
+},
     description: {
       de: "Eines der größten unerschlossenen Goldvorkommen in Südamerika.",
       hu: "Dél-Amerika egyik legnagyobb feltáratlan aranykészlete.",
@@ -239,7 +261,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-UD",
     coords: [-58.0333, 5.2833],
-    name: { de: "Kwakwani Bauxitmine", hu: "Kwakwani Bauxitbánya", ro: "Mina de Bauxită Kwakwani", en: "Kwakwani Bauxite Mine" },
+    name: { de: "Kwakwani Bauxitmine", hu: "Kwakwani Bauxitbánya", ro: "Mina de Bauxită Kwakwani", en: "Kwakwani Bauxite Mine",
+image: "/poi-images/kwakwani-bauxite-mine-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige Bauxitmine in der Region Upper Demerara-Berbice.",
       hu: "Egy fontos bauxitbánya az Upper Demerara-Berbice régióban.",
@@ -256,7 +280,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-UD",
     coords: [-58.3, 6.0],
-    name: { de: "Bosai Minerals Werk", hu: "Bosai Minerals Gyár", ro: "Uzina Bosai Minerals", en: "Bosai Minerals Plant" },
+    name: { de: "Bosai Minerals Werk", hu: "Bosai Minerals Gyár", ro: "Uzina Bosai Minerals", en: "Bosai Minerals Plant",
+image: "/poi-images/bosai-minerals-linden-economic-v2.webp"
+},
     description: {
       de: "Eine große Bauxitverarbeitungsanlage in der Stadt Linden.",
       hu: "Egy nagy bauxitfeldolgozó üzem Linden városában.",
@@ -273,7 +299,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-EB",
     coords: [-57.5186, 6.2483],
-    name: { de: "Hafen von New Amsterdam", hu: "New Amsterdam Kikötője", ro: "Portul New Amsterdam", en: "Port of New Amsterdam" },
+    name: { de: "Hafen von New Amsterdam", hu: "New Amsterdam Kikötője", ro: "Portul New Amsterdam", en: "Port of New Amsterdam",
+image: "/poi-images/port-of-new-amsterdam-economic-v2.webp"
+},
     description: {
       de: "Ein Flusshafen in New Amsterdam, der die Region Berbice bedient.",
       hu: "Egy folyami kikötő New Amsterdamban, amely a Berbice régiót szolgálja ki.",
@@ -290,7 +318,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-DE",
     coords: [-58.165, 6.812],
-    name: { de: "John Fernandes Pier", hu: "John Fernandes Móló", ro: "Debarcaderul John Fernandes", en: "John Fernandes Wharf" },
+    name: { de: "John Fernandes Pier", hu: "John Fernandes Móló", ro: "Debarcaderul John Fernandes", en: "John Fernandes Wharf",
+image: "/poi-images/john-fernandes-wharf-economic-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten privaten Hafenanlagen in Georgetown.",
       hu: "Georgetown egyik legfontosabb magán kikötői létesítménye.",
@@ -307,7 +337,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-DE",
     coords: [-58.1655, 6.813],
-    name: { de: "Muneshwers Pier", hu: "Muneshwers Móló", ro: "Debarcaderul Muneshwers", en: "Muneshwers Wharf" },
+    name: { de: "Muneshwers Pier", hu: "Muneshwers Móló", ro: "Debarcaderul Muneshwers", en: "Muneshwers Wharf",
+image: "/poi-images/muneshwers-wharf-economic-v2.webp"
+},
     description: {
       de: "Ein belebter Frachtterminal in der Hauptstadt, das internationale Schiffe abfertigt.",
       hu: "Egy forgalmas teherterminál a fővárosban, amely nemzetközi hajókat fogad.",
@@ -324,7 +356,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-DE",
     coords: [-58.166, 6.815],
-    name: { de: "GNIC Pier", hu: "GNIC Móló", ro: "Debarcaderul GNIC", en: "GNIC Wharf" },
+    name: { de: "GNIC Pier", hu: "GNIC Móló", ro: "Debarcaderul GNIC", en: "GNIC Wharf",
+image: "/poi-images/gnic-wharf-economic-v2.webp"
+},
     description: {
       de: "Die Hafenanlage der Guyana National Industrial Company.",
       hu: "A Guyana National Industrial Company kikötői létesítménye.",
@@ -341,7 +375,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-DE",
     coords: [-58.164, 6.816],
-    name: { de: "GNSC Pier", hu: "GNSC Móló", ro: "Debarcaderul GNSC", en: "GNSC Wharf" },
+    name: { de: "GNSC Pier", hu: "GNSC Móló", ro: "Debarcaderul GNSC", en: "GNSC Wharf",
+image: "/poi-images/gnsc-wharf-economic-v2.webp"
+},
     description: {
       de: "Betrieben von der Guyana National Shipping Corporation.",
       hu: "A Guyana National Shipping Corporation üzemelteti.",
@@ -358,7 +394,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-ES",
     coords: [-58.182, 6.81],
-    name: { de: "Vreed-en-Hoop Shorebase", hu: "Vreed-en-Hoop Parti Bázis", ro: "Baza Vreed-en-Hoop", en: "Vreed-en-Hoop Shorebase" },
+    name: { de: "Vreed-en-Hoop Shorebase", hu: "Vreed-en-Hoop Parti Bázis", ro: "Baza Vreed-en-Hoop", en: "Vreed-en-Hoop Shorebase",
+image: "/poi-images/vreed-en-hoop-shorebase-economic-v2.webp"
+},
     description: {
       de: "Eine neu errichtete Basis zur Unterstützung der rasch wachsenden Öl- und Gasindustrie.",
       hu: "Újonnan épült bázis a gyorsan növekvő olaj- és gázipar támogatására.",
@@ -375,7 +413,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-ES",
     coords: [-58.18, 6.75],
-    name: { de: "Barama Holzwerk", hu: "Barama Faipari Üzem", ro: "Uzina de Lemn Barama", en: "Barama Timber Plant" },
+    name: { de: "Barama Holzwerk", hu: "Barama Faipari Üzem", ro: "Uzina de Lemn Barama", en: "Barama Timber Plant",
+image: "/poi-images/barama-timber-plant-economic-v2.webp"
+},
     description: {
       de: "Eines der größten forstwirtschaftlichen und holzverarbeitenden Unternehmen in Guyana.",
       hu: "Guyana egyik legnagyobb erdészeti és fafeldolgozó vállalata.",
@@ -392,7 +432,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-CU",
     coords: [-58.65, 6.4],
-    name: { de: "Mazaruni-Steinbruch", hu: "Mazaruni Kőfejtő", ro: "Cariera Mazaruni", en: "Mazaruni Quarry" },
+    name: { de: "Mazaruni-Steinbruch", hu: "Mazaruni Kőfejtő", ro: "Cariera Mazaruni", en: "Mazaruni Quarry",
+image: "/poi-images/mazaruni-quarry-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Gesteinsabbau in der Nähe des Mazaruni-Flusses, der Baumaterialien liefert.",
       hu: "Jelentős kőfejtő a Mazaruni folyó közelében, amely építőanyagokat szállít.",
@@ -409,7 +451,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-ES",
     coords: [-58.62, 6.38],
-    name: { de: "Toolsie Persaud Steinbruch", hu: "Toolsie Persaud Kőfejtő", ro: "Cariera Toolsie Persaud", en: "Toolsie Persaud Quarry" },
+    name: { de: "Toolsie Persaud Steinbruch", hu: "Toolsie Persaud Kőfejtő", ro: "Cariera Toolsie Persaud", en: "Toolsie Persaud Quarry",
+image: "/poi-images/toolsie-persaud-quarry-economic-v2.webp"
+},
     description: {
       de: "Ein privater Steinbruch, der Zuschlagstoffe für die Bauindustrie Guyanas produziert.",
       hu: "Egy magán kőfejtő, amely adalékanyagokat állít elő a guyanai építőipar számára.",
@@ -426,7 +470,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-58.15, 6.8],
-    name: { de: "Guyana Gold Board", hu: "Guyanai Aranybizottság", ro: "Consiliul Aurului din Guyana", en: "Guyana Gold Board" },
+    name: { de: "Guyana Gold Board", hu: "Guyanai Aranybizottság", ro: "Consiliul Aurului din Guyana", en: "Guyana Gold Board",
+image: "/poi-images/guyana-gold-board-economic-v2.webp"
+},
     description: {
       de: "Die offizielle staatliche Einrichtung für den Ankauf, die Prüfung und den Export von Gold.",
       hu: "A hivatalos állami intézmény az arany felvásárlására, tesztelésére és exportjára.",
@@ -443,7 +489,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-UD",
     coords: [-57.85, 5.2],
-    name: { de: "Rusal Aroaima Mine", hu: "Rusal Aroaima Bánya", ro: "Mina Rusal Aroaima", en: "Rusal Aroaima Mine" },
+    name: { de: "Rusal Aroaima Mine", hu: "Rusal Aroaima Bánya", ro: "Mina Rusal Aroaima", en: "Rusal Aroaima Mine",
+image: "/poi-images/rusal-aroaima-mine-economic-v2.webp"
+},
     description: {
       de: "Ein Bauxitbergwerk, das von der russischen Firma Rusal betrieben wird.",
       hu: "A bauxitbánya, amelyet az orosz Rusal vállalat üzemeltet.",
@@ -460,7 +508,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "port",
     parent: "GY-EB",
     coords: [-57.51, 6.26],
-    name: { de: "CGX Berbice Tiefseehafen", hu: "CGX Berbice Mélytengeri Kikötő", ro: "Portul de Mare Adâncime CGX Berbice", en: "CGX Berbice Deep Water Port" },
+    name: { de: "CGX Berbice Tiefseehafen", hu: "CGX Berbice Mélytengeri Kikötő", ro: "Portul de Mare Adâncime CGX Berbice", en: "CGX Berbice Deep Water Port",
+image: "/poi-images/cgx-berbice-deep-water-port-economic-v2.webp"
+},
     description: {
       de: "Ein im Bau befindlicher Tiefseehafen zur Unterstützung des Agrar- und Ölsektors.",
       hu: "Építés alatt álló mélyvízi kikötő a mezőgazdasági és olajszektor támogatására.",
@@ -477,7 +527,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-BA",
     coords: [-60.17, 7.51],
-    name: { de: "Matthews Ridge Manganmine", hu: "Matthews Ridge Mangánbánya", ro: "Mina de Mangan Matthews Ridge", en: "Matthews Ridge Manganese Mine" },
+    name: { de: "Matthews Ridge Manganmine", hu: "Matthews Ridge Mangánbánya", ro: "Mina de Mangan Matthews Ridge", en: "Matthews Ridge Manganese Mine",
+image: "/poi-images/matthews-ridge-manganese-mine-economic-v2.webp"
+},
     description: {
       de: "Eine revitalisierte Manganmine im Nordwesten Guyanas.",
       hu: "Egy újjáélesztett mangánbánya Északnyugat-Guyanában.",
@@ -494,7 +546,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-58.17, 6.76],
-    name: { de: "Eccles Industriegebiet", hu: "Eccles Ipari Park", ro: "Zona Industrială Eccles", en: "Eccles Industrial Estate" },
+    name: { de: "Eccles Industriegebiet", hu: "Eccles Ipari Park", ro: "Zona Industrială Eccles", en: "Eccles Industrial Estate",
+image: "/poi-images/eccles-industrial-estate-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Fertigungs- und Logistikzentrum südlich von Georgetown.",
       hu: "Fontos gyártási és logisztikai központ Georgetowntól délre.",
@@ -511,7 +565,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-57.98, 6.73],
-    name: { de: "Coldingen Industriegebiet", hu: "Coldingen Ipari Park", ro: "Zona Industrială Coldingen", en: "Coldingen Industrial Estate" },
+    name: { de: "Coldingen Industriegebiet", hu: "Coldingen Ipari Park", ro: "Zona Industrială Coldingen", en: "Coldingen Industrial Estate",
+image: "/poi-images/coldingen-industrial-estate-economic-v2.webp"
+},
     description: {
       de: "Ein ausgewiesenes Gewerbegebiet an der Ostküste von Demerara zur Förderung der Leichtindustrie.",
       hu: "Egy kijelölt ipari terület a Demerara keleti partján, a könnyűipar ösztönzésére.",
@@ -528,7 +584,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-EB",
     coords: [-57.3, 6.22],
-    name: { de: "Belvedere Industriegebiet", hu: "Belvedere Ipari Park", ro: "Zona Industrială Belvedere", en: "Belvedere Industrial Estate" },
+    name: { de: "Belvedere Industriegebiet", hu: "Belvedere Ipari Park", ro: "Zona Industrială Belvedere", en: "Belvedere Industrial Estate",
+image: "/poi-images/belvedere-industrial-estate-economic-v2.webp"
+},
     description: {
       de: "Ein Industriezentrum in der Region Berbice, das zur wirtschaftlichen Diversifizierung entwickelt wurde.",
       hu: "Ipari központ a Berbice régióban, amelyet a gazdasági diverzifikáció érdekében hoztak létre.",
@@ -545,7 +603,9 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     type: "industry",
     parent: "GY-DE",
     coords: [-58.07, 6.78],
-    name: { de: "GuySuCo Hauptsitz", hu: "GuySuCo Központ", ro: "Sediul GuySuCo", en: "GuySuCo Headquarters" },
+    name: { de: "GuySuCo Hauptsitz", hu: "GuySuCo Központ", ro: "Sediul GuySuCo", en: "GuySuCo Headquarters",
+image: "/poi-images/guysuco-headquarters-economic-v2.webp"
+},
     description: {
       de: "Das Verwaltungs- und Betriebszentrum der staatlichen Guyana Sugar Corporation.",
       hu: "Az állami tulajdonú Guyana Sugar Corporation adminisztratív és operatív központja.",

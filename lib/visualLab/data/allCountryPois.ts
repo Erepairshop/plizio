@@ -2600,6 +2600,7 @@ import { luxembourgLifeV2 } from "./poiExtraLuxembourgLifeV2";
 import { luxembourgNatureV2 } from "./poiExtraLuxembourgNatureV2";
 import { slovakiaHistoryV2 } from "./poiExtraSlovakiaHistoryV2";
 import { sloveniaLifeV2 } from "./poiExtraSloveniaLifeV2";
+import { luxembourgLandmarksV2 } from "./poiExtraLuxembourgLandmarksV2";
 export const ALL_DE_EXTRA_POIS: POI[] = [
   ...poiExtraDe1,
   ...poiExtraDe2,

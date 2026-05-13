@@ -7,7 +7,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "river",
     parent: "LY-WA",
     coords: [12.5, 26.5],
-    name: { de: "Wadi al-Hayat", hu: "Wadi al-Hayat", ro: "Wadi al-Hayat", en: "Wadi al-Hayat" },
+    name: { de: "Wadi al-Hayat", hu: "Wadi al-Hayat", ro: "Wadi al-Hayat", en: "Wadi al-Hayat",
+image: "/poi-images/wadi-al-hayat-nature-v2.webp"
+},
     description: { de: "Ein Wüstental in der Sahara.", hu: "Egy sivatagi völgy a Szaharában.", ro: "O vale deșertică în Sahara.", en: "A desert valley in the Sahara." },
     facts: {
       de: ["Bekannt für Oasen.", "Trockenes Klima."],
@@ -35,7 +37,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-JA",
     coords: [21.5, 32.7],
-    name: { de: "Dschabal al-Achdar", hu: "Dzsebel el-Ahdar", ro: "Jebel Akhdar", en: "Jebel Akhdar" },
+    name: { de: "Dschabal al-Achdar", hu: "Dzsebel el-Ahdar", ro: "Jebel Akhdar", en: "Jebel Akhdar",
+image: "/poi-images/jebel-akhdar-nature-v2.webp"
+},
     description: { de: "Ein Gebirgszug im Nordosten Libyens.", hu: "Hegyvonulat Líbia északkeleti részén.", ro: "Un lanț muntos în nord-estul Libiei.", en: "A mountain range in northeastern Libya." },
     facts: {
       de: ["Grüne Bergregion.", "Höchster Gipfel über 800m."],
@@ -63,7 +67,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "lake",
     parent: "LY-WA",
     coords: [13.4, 26.5],
-    name: { de: "Gaberoun See", hu: "Gaberoun-tó", ro: "Lacul Gaberoun", en: "Gaberoun Lake" },
+    name: { de: "Gaberoun See", hu: "Gaberoun-tó", ro: "Lacul Gaberoun", en: "Gaberoun Lake",
+image: "/poi-images/lake-gaberoun-nature-v2.webp"
+},
     description: { de: "Ein Salzsee mitten in der Sahara.", hu: "Egy sós tó a Szahara közepén.", ro: "Un lac sărat în mijlocul Saharei.", en: "A salt lake in the middle of the Sahara." },
     facts: {
       de: ["Sehr salzhaltiges Wasser.", "Beliebt bei Touristen."],
@@ -91,7 +97,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "lake",
     parent: "LY-WA",
     coords: [13.2, 26.5],
-    name: { de: "Mandara Seen", hu: "Mandara-tavak", ro: "Lacurile Mandara", en: "Mandara Lakes" },
+    name: { de: "Mandara Seen", hu: "Mandara-tavak", ro: "Lacurile Mandara", en: "Mandara Lakes",
+image: "/poi-images/mandara-lakes-nature-v2.webp"
+},
     description: { de: "Eine Gruppe von Salzseen in der Wüste.", hu: "Sós tavak csoportja a sivatagban.", ro: "Un grup de lacuri sărate în deșert.", en: "A group of salt lakes in the desert." },
     facts: {
       de: ["Liegen in der Ubari-Wüste.", "Umgeben von Sanddünen."],
@@ -119,7 +127,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-JN",
     coords: [12.0, 31.8],
-    name: { de: "Dschabal Nafusa", hu: "Dzsebel Nefusza", ro: "Jebel Nafusa", en: "Jebel Nafusa" },
+    name: { de: "Dschabal Nafusa", hu: "Dzsebel Nefusza", ro: "Jebel Nafusa", en: "Jebel Nafusa",
+image: "/poi-images/jebel-nafusa-nature-v2.webp"
+},
     description: { de: "Ein Bergplateau im Nordwesten Libyens.", hu: "Hegyi fennsík Líbia északnyugati részén.", ro: "Un platou muntos în nord-vestul Libiei.", en: "A mountain plateau in northwestern Libya." },
     facts: {
       de: ["Kulturell bedeutsam.", "Strategisch wichtige Lage."],
@@ -147,7 +157,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-JA",
     coords: [21.0, 32.5],
-    name: { de: "Gar al-Marah", hu: "Gar al-Marah", ro: "Gar al-Marah", en: "Gar al-Marah" },
+    name: { de: "Gar al-Marah", hu: "Gar al-Marah", ro: "Gar al-Marah", en: "Gar al-Marah",
+image: "/poi-images/gar-al-marah-nature-v2.webp"
+},
     description: { de: "Eine markante Erhebung im Grünen Berg.", hu: "Jellegzetes kiemelkedés a Zöld-hegyben.", ro: "O înălțime distinctivă în Muntele Verde.", en: "A prominent elevation in the Green Mountain." },
     facts: {
       de: ["Teil des Dschabal al-Achdar.", "Felsige Landschaft."],
@@ -175,7 +187,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-WA",
     coords: [12.8, 26.7],
-    name: { de: "Ubari Sandmeer", hu: "Ubari homoktenger", ro: "Marea de nisip Ubari", en: "Ubari Sand Sea" },
+    name: { de: "Ubari Sandmeer", hu: "Ubari homoktenger", ro: "Marea de nisip Ubari", en: "Ubari Sand Sea",
+image: "/poi-images/ubari-sand-sea-nature-v2.webp"
+},
     description: { de: "Ein großes Gebiet mit Sanddünen.", hu: "Nagy terület homokdűnékkel.", ro: "O zonă mare cu dune de nisip.", en: "A large area with sand dunes." },
     facts: {
       de: ["Heimat von Oasenseen.", "Sehr trockene Region."],
@@ -203,7 +217,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-WA",
     coords: [14.0, 27.5],
-    name: { de: "Gargaf Gebirge", hu: "Gargaf-hegység", ro: "Munții Gargaf", en: "Gargaf Mountains" },
+    name: { de: "Gargaf Gebirge", hu: "Gargaf-hegység", ro: "Munții Gargaf", en: "Gargaf Mountains",
+image: "/poi-images/gargaf-mountains-nature-v2.webp"
+},
     description: { de: "Eine Wüstengebirgskette.", hu: "Sivatagi hegylánc.", ro: "Un lanț muntos deșertic.", en: "A desert mountain range." },
     facts: {
       de: ["Felsiges Gelände.", "Bedeutend für Geologen."],
@@ -231,7 +247,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-MI",
     coords: [13.0, 31.4],
-    name: { de: "Mizdah Plateau", hu: "Mizdah-fennsík", ro: "Platoul Mizdah", en: "Mizdah Plateau" },
+    name: { de: "Mizdah Plateau", hu: "Mizdah-fennsík", ro: "Platoul Mizdah", en: "Mizdah Plateau",
+image: "/poi-images/mizdah-plateau-nature-v2.webp"
+},
     description: { de: "Eine flache Hochebene.", hu: "Lapos fennsík.", ro: "Un platou plat.", en: "A flat plateau." },
     facts: {
       de: ["Steinwüste.", "Geringe Vegetation."],
@@ -259,7 +277,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-NA",
     coords: [11.0, 28.0],
-    name: { de: "Al-Hamada al-Hamra", hu: "Al-Hamada al-Hamra", ro: "Al-Hamada al-Hamra", en: "Al-Hamada al-Hamra" },
+    name: { de: "Al-Hamada al-Hamra", hu: "Al-Hamada al-Hamra", ro: "Al-Hamada al-Hamra", en: "Al-Hamada al-Hamra",
+image: "/poi-images/al-hamada-al-hamra-nature-v2.webp"
+},
     description: { de: "Eine ausgedehnte Steinwüste.", hu: "Kiterjedt kősivatag.", ro: "Un deșert pietros extins.", en: "An extensive stone desert." },
     facts: {
       de: ["Sehr flache Wüste.", "Bedeckt mit rötlichen Steinen."],
@@ -287,7 +307,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-KA",
     coords: [17.5, 23.5],
-    name: { de: "Tibesti-Ausläufer", hu: "Tibeszti-előhegység", ro: "Poalele Tibesti", en: "Tibesti Foothills" },
+    name: { de: "Tibesti-Ausläufer", hu: "Tibeszti-előhegység", ro: "Poalele Tibesti", en: "Tibesti Foothills",
+image: "/poi-images/tibesti-foothills-nature-v2.webp"
+},
     description: { de: "Die Ausläufer des Tibesti-Gebirges in Libyen.", hu: "A Tibeszti-hegység előhegyei Líbiában.", ro: "Poalele munților Tibesti în Libia.", en: "The foothills of the Tibesti mountains in Libya." },
     facts: {
       de: ["Trockene, zerklüftete Landschaft.", "Sehr abgelegen."],
@@ -315,7 +337,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-WA",
     coords: [11.5, 26.0],
-    name: { de: "Sarir Tanezrouft", hu: "Sarir Tanezrouft", ro: "Sarir Tanezrouft", en: "Sarir Tanezrouft" },
+    name: { de: "Sarir Tanezrouft", hu: "Sarir Tanezrouft", ro: "Sarir Tanezrouft", en: "Sarir Tanezrouft",
+image: "/poi-images/sarir-tanezrouft-nature-v2.webp"
+},
     description: { de: "Ein Teil der Steinwüste.", hu: "A kősivatag része.", ro: "O parte a deșertului pietros.", en: "A part of the stone desert." },
     facts: {
       de: ["Kaum bewohnt.", "Sehr einsam."],
@@ -343,7 +367,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "river",
     parent: "LY-JA",
     coords: [20.5, 32.6],
-    name: { de: "Wadi al-Kuf", hu: "Wadi al-Kuf", ro: "Wadi al-Kuf", en: "Wadi al-Kuf" },
+    name: { de: "Wadi al-Kuf", hu: "Wadi al-Kuf", ro: "Wadi al-Kuf", en: "Wadi al-Kuf",
+image: "/poi-images/wadi-kuf-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Tal im Nordosten.", hu: "Jelentős völgy az északkeleti részen.", ro: "O vale semnificativă în nord-est.", en: "A significant valley in the northeast." },
     facts: {
       de: ["Schluchtenreich.", "Wichtiger Lebensraum für Tiere."],
@@ -371,7 +397,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "sea",
     parent: "LY-SR",
     coords: [17.0, 30.5],
-    name: { de: "Sirte-Becken", hu: "Szirt-medence", ro: "Bazinul Sirte", en: "Sirte Basin" },
+    name: { de: "Sirte-Becken", hu: "Szirt-medence", ro: "Bazinul Sirte", en: "Sirte Basin",
+image: "/poi-images/sirte-basin-nature-v2.webp"
+},
     description: { de: "Eine große Senke entlang der Küste.", hu: "Nagy mélyedés a tengerpart mentén.", ro: "O depresiune mare de-a lungul coastei.", en: "A large depression along the coast." },
     facts: {
       de: ["Bedeutend für Öl.", "Große flache Ebene."],
@@ -399,7 +427,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "sea",
     parent: "LY-SR",
     coords: [18.0, 31.5],
-    name: { de: "Golf von Sidra", hu: "Szirt-öböl", ro: "Golful Sidra", en: "Gulf of Sidra" },
+    name: { de: "Golf von Sidra", hu: "Szirt-öböl", ro: "Golful Sidra", en: "Gulf of Sidra",
+image: "/poi-images/gulf-of-sidra-nature-v2.webp"
+},
     description: { de: "Ein Meeresarm im Mittelmeer.", hu: "Tengeröböl a Földközi-tengerben.", ro: "Un braț de mare în Marea Mediterană.", en: "An arm of the Mediterranean Sea." },
     facts: {
       de: ["Sehr tiefes Wasser.", "Wichtige Schifffahrtsroute."],
@@ -427,7 +457,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-JU",
     coords: [17.5, 27.5],
-    name: { de: "Al-Haruj", hu: "Al-Haruj", ro: "Al-Haruj", en: "Al-Haruj" },
+    name: { de: "Al-Haruj", hu: "Al-Haruj", ro: "Al-Haruj", en: "Al-Haruj",
+image: "/poi-images/al-haruj-nature-v2.webp"
+},
     description: { de: "Ein großes Vulkanfeld.", hu: "Nagy vulkáni terület.", ro: "Un câmp vulcanic mare.", en: "A large volcanic field." },
     facts: {
       de: ["Zerklüftete Lavaströme.", "Sehr abgelegen."],
@@ -455,7 +487,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-JU",
     coords: [18.0, 28.0],
-    name: { de: "Dschabal Aswad", hu: "Dzsebel Aszwad", ro: "Jebel Aswad", en: "Jebel Aswad" },
+    name: { de: "Dschabal Aswad", hu: "Dzsebel Aszwad", ro: "Jebel Aswad", en: "Jebel Aswad",
+image: "/poi-images/jebel-aswad-nature-v2.webp"
+},
     description: { de: "Ein kleinerer Bergzug in der Wüste.", hu: "Kisebb hegyvonulat a sivatagban.", ro: "Un lanț muntos mai mic în deșert.", en: "A smaller mountain range in the desert." },
     facts: {
       de: ["Dunkles Gestein.", "Karge Vegetation."],
@@ -483,7 +517,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "river",
     parent: "LY-MI",
     coords: [14.5, 30.8],
-    name: { de: "Wadi Zamzam", hu: "Wadi Zamzam", ro: "Wadi Zamzam", en: "Wadi Zamzam" },
+    name: { de: "Wadi Zamzam", hu: "Wadi Zamzam", ro: "Wadi Zamzam", en: "Wadi Zamzam",
+image: "/poi-images/wadi-zamzam-nature-v2.webp"
+},
     description: { de: "Ein temporärer Flusslauf.", hu: "Ideiglenes folyómeder.", ro: "Un curs de râu temporar.", en: "A temporary riverbed." },
     facts: {
       de: ["Führt nur bei Regen Wasser.", "Wichtige Wasserquelle."],
@@ -511,7 +547,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-KU",
     coords: [23.5, 24.0],
-    name: { de: "Al-Kufra-Becken", hu: "Al-Kufra-medence", ro: "Bazinul Al-Kufra", en: "Al-Kufra Basin" },
+    name: { de: "Al-Kufra-Becken", hu: "Al-Kufra-medence", ro: "Bazinul Al-Kufra", en: "Al-Kufra Basin",
+image: "/poi-images/al-kufra-basin-nature-v2.webp"
+},
     description: { de: "Ein großes unterirdisches Wasserbecken.", hu: "Nagy földalatti vízmedence.", ro: "Un bazin subteran mare de apă.", en: "A large underground water basin." },
     facts: {
       de: ["Basis für Landwirtschaft.", "Wichtig für Oasen."],
@@ -539,7 +577,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-KU",
     coords: [24.8, 21.9],
-    name: { de: "Dschabal Uwainat", hu: "Dzsebel Uvainat", ro: "Jebel Uwaynat", en: "Jebel Uwaynat" },
+    name: { de: "Dschabal Uwainat", hu: "Dzsebel Uvainat", ro: "Jebel Uwaynat", en: "Jebel Uwaynat",
+image: "/poi-images/jebel-uwaynat-nature-v2.webp"
+},
     description: { de: "Ein Gebirge an der Grenze zu Ägypten.", hu: "Hegység az egyiptomi határon.", ro: "Un munte la granița cu Egiptul.", en: "A mountain on the border with Egypt." },
     facts: {
       de: ["Felszeichnungen.", "Sehr trockenes Klima."],
@@ -567,7 +607,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "river",
     parent: "LY-WA",
     coords: [12.0, 26.6],
-    name: { de: "Wadi al-Adschal", hu: "Wadi al-Adzsal", ro: "Wadi al-Ajal", en: "Wadi al-Ajal" },
+    name: { de: "Wadi al-Adschal", hu: "Wadi al-Adzsal", ro: "Wadi al-Ajal", en: "Wadi al-Ajal",
+image: "/poi-images/wadi-al-ajal-nature-v2.webp"
+},
     description: { de: "Ein langes Tal am Rande des Sandmeers.", hu: "Hosszú völgy a homoktenger szélén.", ro: "O vale lungă la marginea mării de nisip.", en: "A long valley at the edge of the sand sea." },
     facts: {
       de: ["Historische Siedlungen.", "Viele Dattelpalmen."],
@@ -595,7 +637,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-WA",
     coords: [14.0, 27.0],
-    name: { de: "Gargaf Wüste", hu: "Gargaf-sivatag", ro: "Deșertul Gargaf", en: "Gargaf Desert" },
+    name: { de: "Gargaf Wüste", hu: "Gargaf-sivatag", ro: "Deșertul Gargaf", en: "Gargaf Desert",
+image: "/poi-images/gargaf-desert-nature-v2.webp"
+},
     description: { de: "Ein Teil der Zentralsahara.", hu: "A közép-szahara része.", ro: "O parte din Sahara centrală.", en: "A part of the central Sahara." },
     facts: {
       de: ["Sehr karg.", "Große Felsplateaus."],
@@ -623,7 +667,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-SR",
     coords: [16.5, 30.0],
-    name: { de: "Sirtica Wüste", hu: "Szirtika-sivatag", ro: "Deșertul Sirtica", en: "Sirtica Desert" },
+    name: { de: "Sirtica Wüste", hu: "Szirtika-sivatag", ro: "Deșertul Sirtica", en: "Sirtica Desert",
+image: "/poi-images/sirtica-desert-nature-v2.webp"
+},
     description: { de: "Ein Wüstengebiet zwischen Tripolitanien und Kyrenaika.", hu: "Sivatagi terület Tripolitánia és Kirenaika között.", ro: "O zonă deșertică între Tripolitania și Cirenaica.", en: "A desert area between Tripolitania and Cyrenaica." },
     facts: {
       de: ["Wichtiges Transitgebiet.", "Steinig und sandig."],
@@ -651,7 +697,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "river",
     parent: "LY-JU",
     coords: [12.0, 25.0],
-    name: { de: "Wadi Mathendous", hu: "Wadi Mathendous", ro: "Wadi Mathendous", en: "Wadi Mathendous" },
+    name: { de: "Wadi Mathendous", hu: "Wadi Mathendous", ro: "Wadi Mathendous", en: "Wadi Mathendous",
+image: "/poi-images/wadi-mathendous-nature-v2.webp"
+},
     description: { de: "Ein Wadi mit Felsgravuren.", hu: "Vadi sziklarajzokkal.", ro: "Un wadi cu gravuri rupestre.", en: "A wadi with rock engravings." },
     facts: {
       de: ["Berühmt für prähistorische Kunst.", "Sehr abgelegen."],
@@ -679,7 +727,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-JU",
     coords: [16.5, 29.0],
-    name: { de: "Dschabal Soda", hu: "Dzsebel Szoda", ro: "Jebel Soda", en: "Jebel Soda" },
+    name: { de: "Dschabal Soda", hu: "Dzsebel Szoda", ro: "Jebel Soda", en: "Jebel Soda",
+image: "/poi-images/jebel-soda-nature-v2.webp"
+},
     description: { de: "Ein Vulkanberg.", hu: "Vulkáni hegy.", ro: "Un munte vulcanic.", en: "A volcanic mountain." },
     facts: {
       de: ["Schwarzes Lavagestein.", "Karge Landschaft."],
@@ -707,7 +757,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "forest",
     parent: "LY-WA",
     coords: [13.0, 26.0],
-    name: { de: "Fessan Wüste", hu: "Fezzán-sivatag", ro: "Deșertul Fezzan", en: "Fezzan Desert" },
+    name: { de: "Fessan Wüste", hu: "Fezzán-sivatag", ro: "Deșertul Fezzan", en: "Fezzan Desert",
+image: "/poi-images/fezzan-desert-nature-v2.webp"
+},
     description: { de: "Eine große Wüstenregion im Südwesten.", hu: "Nagy sivatagi régió délnyugaton.", ro: "O regiune mare deșertică în sud-vest.", en: "A large desert region in the southwest." },
     facts: {
       de: ["Heimat von Sandmeeren.", "Bekannt für Oasen."],
@@ -735,7 +787,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "sea",
     parent: "LY-JA",
     coords: [20.0, 32.5],
-    name: { de: "Kyrenaika Küste", hu: "Kirenaika-tengerpart", ro: "Coasta Cirenaicii", en: "Cyrenaica Coast" },
+    name: { de: "Kyrenaika Küste", hu: "Kirenaika-tengerpart", ro: "Coasta Cirenaicii", en: "Cyrenaica Coast",
+image: "/poi-images/cyrenaica-coast-nature-v2.webp"
+},
     description: { de: "Die nördliche Mittelmeerküste.", hu: "Az északi Földközi-tengeri partvidék.", ro: "Coasta nordică a Mării Mediterane.", en: "The northern Mediterranean coast." },
     facts: {
       de: ["Felsige Buchten.", "Klares Wasser."],
@@ -763,7 +817,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "river",
     parent: "LY-NA",
     coords: [19.0, 29.5],
-    name: { de: "Wadi al-Farigh", hu: "Wadi al-Farigh", ro: "Wadi al-Farigh", en: "Wadi al-Farigh" },
+    name: { de: "Wadi al-Farigh", hu: "Wadi al-Farigh", ro: "Wadi al-Farigh", en: "Wadi al-Farigh",
+image: "/poi-images/wadi-farigh-nature-v2.webp"
+},
     description: { de: "Ein großes Tal in der Wüste.", hu: "Nagy völgy a sivatagban.", ro: "O vale mare în deșert.", en: "A large valley in the desert." },
     facts: {
       de: ["Sehr trocken.", "Kaum Vegetation."],
@@ -791,7 +847,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-MI",
     coords: [13.5, 32.5],
-    name: { de: "Dschabal Tarhuna", hu: "Dzsebel Tarhuna", ro: "Jebel Tarhuna", en: "Jebel Tarhuna" },
+    name: { de: "Dschabal Tarhuna", hu: "Dzsebel Tarhuna", ro: "Jebel Tarhuna", en: "Jebel Tarhuna",
+image: "/poi-images/jebel-tarhuna-nature-v2.webp"
+},
     description: { de: "Ein Gebirgszug südlich von Tripolis.", hu: "Hegyvonulat Tripolitól délre.", ro: "Un lanț muntos la sud de Tripoli.", en: "A mountain range south of Tripoli." },
     facts: {
       de: ["Fruchtbares Land.", "Wichtige landwirtschaftliche Zone."],
@@ -819,7 +877,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     type: "mountain",
     parent: "LY-WA",
     coords: [10.5, 25.0],
-    name: { de: "Ghat Gebirge", hu: "Ghat-hegység", ro: "Munții Ghat", en: "Ghat Mountains" },
+    name: { de: "Ghat Gebirge", hu: "Ghat-hegység", ro: "Munții Ghat", en: "Ghat Mountains",
+image: "/poi-images/ghat-mountains-nature-v2.webp"
+},
     description: { de: "Berge an der algerischen Grenze.", hu: "Hegyek az algériai határon.", ro: "Munți la granița algeriană.", en: "Mountains on the Algerian border." },
     facts: {
       de: ["Sehr felsig.", "Spektakuläre Wüstenlandschaft."],

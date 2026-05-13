@@ -7,7 +7,9 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     type: "sea",
     parent: "JM-08",
     coords: [-78.05, 18.47],
-    name: { de: "Great River Bucht", hu: "Great River-öböl", ro: "Golful Great River", en: "Great River Bay" },
+    name: { de: "Great River Bucht", hu: "Great River-öböl", ro: "Golful Great River", en: "Great River Bay",
+image: "/poi-images/great-river-bay-nature-v2.webp"
+},
     description: { de: "Eine malerische Bucht, in die der Great River mündet.", hu: "Festői öböl, ahol a Great River a tengerbe ömlik.", ro: "Un golf pitoresc unde se varsă râul Great.", en: "A picturesque bay where the Great River meets the sea." },
     facts: {
       de: ["Mündung des Great River", "Grenze zwischen St. James und Hanover", "Beliebt für Wassersport", "Schöne Küstenlandschaft"],
@@ -20,13 +22,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Acts as a natural border between the parishes of St. James and Hanover.", "Features a significant mangrove ecosystem that serves as a nursery for marine life.", "The Great River is one of Jamaica's longest rivers, stretching approximately 74 kilometers.", "Popular terminus for scenic bamboo rafting excursions.", "Habitat for the endangered West Indian manatee.", "Historical port for the export of sugar and pimento from local estates.", "Excellent birdwatching spot for ospreys, egrets, and brown pelicans.", "The water often displays a striking emerald green hue due to river sediments."], de: ["Der Great River ist mit ca. 74 Kilometern einer der längsten Flüsse Jamaikas.", "Die Bucht dient als natürlicher Lebensraum für die vom Aussterben bedrohten Seekühe (Manatees).", "Rafting-Touren auf dem Fluss enden oft in dieser malerischen Bucht.", "Das Wasser in der Bucht ist aufgrund der Schwebstoffe des Flusses oft smaragdgrün gefärbt.", "Die Mangrovenwälder an der Mündung schützen die Küste vor Erosion bei Stürmen.", "Hier wurden früher riesige Mengen an Piment und Zucker verschifft.", "Great River Bay ist ein Hotspot für die Beobachtung von Seevögeln wie Fischadlern.", "Die Strände in der Umgebung bestehen aus einer Mischung aus Flusssand und Korallenstücken."], ro: ["Estuar major situat la vărsarea râului Great River.", "Habitat critic pentru speciile de mangrove roșii și negre.", "Zonă bogată în biodiversitate aviară, inclusiv egrete și pelicani.", "Punct de hotar istoric între parohiile St. James și Hanover.", "Popular pentru excursii ecoturistice cu pluta și caiacul.", "Apele golfului sunt bogate în nutrienți, susținând pescuitul local.", "Peisajul a rămas în mare parte neschimbat de secole.", "Importanță strategică pentru conservarea ecosistemelor de coastă."],
       hu: ["Az öböl közvetlenül a Great River folyó torkolatánál, Montego Bay-től nyugatra fekszik.", "A terület a Great River tengeri védett övezet része.", "Híres a torkolatnál megfigyelhető gazdag madárvilágáról, köztük kócsagokról és pelikánokról.", "A folyóvíz hordaléka miatt az öböl tengerfeneke rendkívül tápanyagdús.", "Kedvelt helyszíne a folyami rafting túrák befejező pontjának.", "A környék mangroveerdői kritikus szerepet játszanak a sziget ökoszisztémájában.", "Az öböl vizeiben gyakran látni delfineket és tengeri teknősöket.", "A helyszín csendes alternatívát nyújt a forgalmas montego bay-i strandok mellett."]
-    }},
+    }
+  },
   {
     id: "wag-water-river-nature-v2",
     type: "river",
     parent: "JM-05",
     coords: [-76.76, 18.27],
-    name: { de: "Wag Water River", hu: "Wag Water-folyó", ro: "Râul Wag Water", en: "Wag Water River" },
+    name: { de: "Wag Water River", hu: "Wag Water-folyó", ro: "Râul Wag Water", en: "Wag Water River",
+image: "/poi-images/wag-water-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss, der durch St. Mary fließt und bei Annotto Bay ins Meer mündet.", hu: "Jelentős folyó, amely St. Mary-n folyik keresztül és Annotto Bay-nél ömlik a tengerbe.", ro: "Un râu important care traversează St. Mary și se varsă în mare la Annotto Bay.", en: "A major river flowing through St. Mary and emptying into the sea at Annotto Bay." },
     facts: {
       de: ["Fließt durch die Blue Mountains", "Wichtige Wasserquelle für die Region", "Beliebt für Rafting", "Mündet in die Karibik"],
@@ -39,13 +44,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Originates at high altitudes within the Blue Mountains range.", "Historically known by the Spanish name Rio Agua Alta, meaning 'High Water.'", "Supplies water to the historic Castleton Botanical Gardens.", "Empties into the Caribbean Sea at Annotto Bay in St. Mary.", "Known for its deep, clear natural swimming pools favored by locals.", "Home to endemic freshwater crayfish and various species of tilapia.", "Crucial ecological corridor connecting mountain forests to coastal zones.", "The river valley is a prime habitat for the endemic Jamaican Tody."], de: ["Der Fluss hieß in der spanischen Kolonialzeit ursprünglich 'Rio Agua Alta'.", "Er versorgt die Castleton Gardens seit ihrer Gründung im Jahr 1862 mit Wasser.", "Der Wag Water River mündet bei Annotto Bay in das Karibische Meer.", "In seinen Oberläufen finden sich seltene endemische Flusskrebse.", "Der Fluss ist für seine tiefen Gumpen (Swimming Holes) bei Einheimischen berühmt.", "Nach schweren Regenfällen kann der Wasserspiegel innerhalb weniger Stunden um mehrere Meter steigen.", "Geologisch durchfließt er ein Gebiet mit hohem Schiefer- und Granitanteil.", "Die Ufervegetation ist ein wichtiger Lebensraum für den jamaikanischen Tody."], ro: ["Izvorăște la o altitudine mare în Munții Albaștri.", "Numele original spaniol a fost Rio Agua Alta.", "Alimentează grădinile botanice Castleton Gardens.", "Vărsare în mare în apropierea orașului Annotto Bay.", "Include numeroase 'piscine' naturale adânci pentru scăldat.", "Transportă volume mari de apă în timpul uraganelor.", "Habitat pentru raci de râu și specii de tilapia.", "Esențial pentru sistemele de irigații din Saint Mary."],
       hu: ["A Wag Water folyó hossza körülbelül 36 kilométer.", "Nevét állítólag a spanyol 'Agua Alta' (magas víz) kifejezés angolosításából kapta.", "A folyó keresztülfolyik a történelmi Castleton Botanikus Kerten.", "Számos endemikus jamaicai halfaj és rák élőhelye.", "A folyóvölgyben található St. Mary egyik legtermékenyebb mezőgazdasági területe.", "Híres a nagy szikláiról és a monszun idején tapasztalható gyors vízszint-emelkedéséről.", "A folyó mentén több kisebb gátat is építettek az öntözés segítésére.", "Népszerű helyszíne a helyi folyami halászatnak és a természetjáróknak."]
-    }},
+    }
+  },
   {
     id: "yallahs-ponds-nature-v2",
     type: "lake",
     parent: "JM-01",
     coords: [-76.58, 17.86],
-    name: { de: "Yallahs Teiche", hu: "Yallahs-tavak", ro: "Iazurile Yallahs", en: "Yallahs Ponds" },
+    name: { de: "Yallahs Teiche", hu: "Yallahs-tavak", ro: "Iazurile Yallahs", en: "Yallahs Ponds",
+image: "/poi-images/yallahs-ponds-nature-v2.webp"
+},
     description: { de: "Eine Reihe von Salzseen an der Südküste, die ein wichtiges Feuchtgebiet bilden.", hu: "Sós tavak sorozata a déli parton, amelyek fontos vizes élőhelyet alkotnak.", ro: "Iazurile Yallahs sunt două lagune de coastă cu apă hipersalină, cunoscute pentru culoarea lor rozalie neobișnuită datorată algelor.", en: "A series of salt ponds on the south coast, forming an important wetland." },
     facts: {
       de: ["Wichtiges Vogelbeobachtungsgebiet", "Salzgewinnung in der Vergangenheit", "Einzigartiges Ökosystem", "Durch eine Sandbank vom Meer getrennt"],
@@ -58,13 +66,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Consists of two large lagoons with salinity levels often triple that of seawater.", "The pinkish-red color is caused by the algae Dunaliella salina.", "Located in the rain shadow of the Blue Mountains, leading to high evaporation rates.", "Important wintering ground for various species of migratory waterbirds.", "Historically used for commercial salt extraction during the colonial era.", "Separated from the ocean by a massive natural barrier of sand and pebbles.", "One of the few hypersaline lake ecosystems found in the West Indies.", "Local legends suggest the ponds were formed after a dispute between plantation owners."], de: ["Der Salzgehalt der Teiche kann mehr als das Dreifache des Meerwassers erreichen.", "Die rötliche Färbung stammt hauptsächlich von der Alge Dunaliella salina.", "Die Ponds umfassen eine Fläche von insgesamt ca. 2,5 Quadratkilometern.", "Sie liegen im Regenschatten der Blue Mountains, was die hohe Verdunstung begünstigt.", "In der Kolonialzeit war die Salzgewinnung hier ein bedeutender Wirtschaftszweig.", "Vögel wie Pelikane und Reiher nutzen die Teiche als Ruheplatz.", "Die Teiche sind von trockenem Buschland und Kakteen umgeben.", "Starke Winde tragen oft Salznebel in das angrenzende Hinterland."], ro: ["Sunt printre cele mai sărate corpuri de apă din Jamaica.", "Culoarea roz este cauzată de bacteriile halofile și alge.", "Situate la est de gura de vărsare a râului Yallahs.", "Habitat major pentru păsările migratoare în timpul iernii.", "Sursă istorică de sare pentru așezările coloniale.", "Protejate de o barieră naturală masivă de nisip și pietriș.", "Adâncimea iazurilor este relativ mică, maxim 3-4 metri.", "Fenomen biologic rar întâlnit în regiunea Indiilor de Vest."],
       hu: ["A két tó összesen több mint 100 hektáron terül el.", "Vízük sótartalma gyakran magasabb, mint a környező tengeré.", "A vörös elszíneződést a Dunaliella salina nevű alga okozza.", "A tavak környéke fontos megállóhely a vándorló madarak számára.", "A legenda szerint a tavak helyén egykor virágzó ültetvények álltak.", "A terület a Yallahs-folyó torkolatának közelében található.", "A tavak vize reumatikus panaszok enyhítésére is alkalmas a helyiek szerint.", "Szigorú környezetvédelmi szabályok védik a tavak körüli mangrove-szegélyeket."]
-    }},
+    }
+  },
   {
     id: "bull-head-mountain-nature-v2",
     type: "mountain",
     parent: "JM-09",
     coords: [-77.38, 18.17],
-    name: { de: "Bull Head Mountain", hu: "Bull Head-hegy", ro: "Muntele Bull Head", en: "Bull Head Mountain" },
+    name: { de: "Bull Head Mountain", hu: "Bull Head-hegy", ro: "Muntele Bull Head", en: "Bull Head Mountain",
+image: "/poi-images/bull-head-mountain-nature-v2.webp"
+},
     description: { de: "Bull Head Mountain gilt als das geografische Zentrum Jamaikas und ist ein wichtiges Wassereinzugsgebiet für die Region. Der Berg ist für seine üppige Vegetation bekannt.", hu: "Jamaica földrajzi középpontja, egy hegy Clarendonban.", ro: "Centrul geografic al Jamaicăi, un munte în Clarendon.", en: "The geographic center of Jamaica, Bull Head Mountain is known for its diverse flora and panoramic island views." },
     facts: {
       de: ["Geografisches Zentrum der Insel", "Wichtiges Wasserschutzgebiet", "Beliebtes Wanderziel"],
@@ -77,13 +88,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Officially marked with a monument as the geometric center of Jamaica.", "Reaches a peak elevation of 854 meters (2,802 feet) above sea level.", "Serves as a vital source for the Rio Minho river basin.", "Composed geologically of very ancient volcanic rock, rare for Jamaica.", "Declared a forest reserve in the 1950s to protect its unique flora.", "Provides a habitat for endemic birds like the Jamaican Parrot and Streamertail Hummingbird.", "Features hiking trails that pass through historic coffee and citrus groves.", "Offers a unique microclimate that is significantly cooler than the coastal plains."], de: ["Bull Head Mountain erreicht eine Höhe von ca. 850 Metern (2.782 Fuß).", "Ein Denkmal auf dem Gipfel markiert das offizielle geografische Zentrum der Insel.", "Der Berg besteht geologisch aus sehr altem vulkanischem Gestein.", "Das Waldreservat wurde bereits in den 1950er Jahren zum Schutzgebiet erklärt.", "Hier entspringen mehrere Zuflüsse des Rio Minho, des längsten Flusses Jamaikas.", "Wanderer schätzen besonders die Pfade durch die Kiefernwälder auf den oberen Hängen.", "Die Aussicht vom Gipfel bietet ein 360-Grad-Panorama über Clarendon und St. Ann.", "In der lokalen Folklore gilt der Berg als Ort mit besonderer spiritueller Energie."], ro: ["Marcat oficial ca centrul geometric al Jamaicăi.", "Altitudine de 854 de metri deasupra nivelului mării.", "Punct de observație strategic utilizat istoric de militari.", "Sursă principală pentru bazinul hidrografic Rio Minho.", "Include trasee de drumeție prin păduri montane protejate.", "Găzduiește numeroase specii de păsări endemice, precum colibri.", "Solul este fertil, susținând mici ferme de cafea și citrice.", "Simbol național al integrității geografice a insulei."],
       hu: ["A Bull Head-hegység legmagasabb pontja körülbelül 850 méter.", "Itt található Jamaica hivatalos földrajzi középpontja (Center of the Island).", "A terület több mint 100 endemikus növényfajnak ad otthont.", "Fontos fészkelőhelye a jamaicai papagájoknak és kolibriknek.", "A hegység erdeit a Forestry Department kezeli és védi.", "A csúcsra vezető túraösvények keresztülhaladnak régi kávéültetvényeken is.", "A hegység kőzetei vulkanikus eredetűek, ami ritka Jamaicában.", "A környék híres a tiszta hegyi levegőjéről és a csendes vidéki nyugalmáról."]
-    }},
+    }
+  },
   {
     id: "great-morass-nature-v2",
     type: "forest",
     parent: "JM-03",
     coords: [-78.28, 18.25],
-    name: { de: "Great Morass", hu: "Great Morass", ro: "Marea Mlaștină", en: "Great Morass" },
+    name: { de: "Great Morass", hu: "Great Morass", ro: "Marea Mlaștină", en: "Great Morass",
+image: "/poi-images/great-morass-nature-v2.webp"
+},
     description: { de: "Das Great Morass ist ein ausgedehntes Feuchtgebiet, das zahlreichen seltenen Vogelarten und Reptilien als geschützter Lebensraum dient. Es ist ökologisch von unschätzbarem Wert.", hu: "Nagy kiterjedésű vizes élőhely és mocsárvidék Westmorelandben, Negril közelében.", ro: "O mare zonă umedă și mlaștină în Westmoreland, lângă Negril.", en: "A vast wetland area in western Jamaica, providing a critical habitat for crocodiles and diverse bird species." },
     facts: {
       de: ["Größtes Feuchtgebiet", "Habitat für geschützte Arten", "Natürlicher Küstenschutz"],
@@ -96,13 +110,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Spans approximately 6,000 hectares, making it Jamaica's largest wetland.", "Contains the largest deposit of peat in the entire Caribbean region.", "Home to the endemic Jamaican Royal Palm, which can reach heights of 30 meters.", "Functions as a critical bio-filter protecting Negril’s white sand beaches and reefs.", "Habitat for the endangered American crocodile and the West Indian manatee.", "Designated as part of the Negril Environmental Protection Area (EPA).", "More than 300 species of plants and 100 species of birds have been identified here.", "The peat layers act as a major carbon sequestering system for the island."], de: ["Das Great Morass umfasst eine Fläche von ca. 6.000 Hektar.", "Es beherbergt das größte Torflager in der gesamten Karibik.", "Über 100 verschiedene Vogelarten wurden hier registriert.", "Die dominierende Pflanzenart ist die endemische jamaikanische Sumpfpalme (Roystonea princeps).", "Das Feuchtgebiet wirkt als natürlicher Puffer gegen Sturmfluten bei Hurrikanen.", "Hier lebt das amerikanische Krokodil, das in Jamaika streng geschützt ist.", "Teile des Morass wurden in den 1970er Jahren fälschlicherweise zur Entwässerung kanalisiert.", "Das Royal Palm Reserve ist der am besten zugängliche Teil des Feuchtgebiets."], ro: ["A doua cea mai mare zonă umedă din Jamaica ca suprafață.", "Pilon central în protejarea recifelor de corali din Negril.", "Găzduiește palmierul regal 'Roystonea princeps', unic pe insulă.", "Filtrează poluanții din apele subterane în mod natural.", "Include peste 300 de specii de floră și faună sălbatică.", "Zonă critică pentru sechestrarea carbonului în mangrove.", "Amenințată istoric de drenajele pentru extracția turbei.", "Arie protejată sub administrarea NEPA (Agenția de Mediu)."],
       hu: ["A Great Morass több mint 2000 hektáron terül el.", "Ez Jamaica legnagyobb összefüggő tőzegláp-területe.", "A mocsárban található a sziget legnagyobb őshonos királypálma-állománya.", "Kritikus szerepet játszik az árvízvédelemben és a partmenti víztisztításban.", "Itt él a ritka és veszélyeztetett jamaicai mocsári teknős.", "A terület a Negril-i Környezetvédelmi Terület (EPA) központi része.", "A mocsár vizeiben számos édesvízi halfaj és rák él.", "A Great Morass feletti alkonyati madárvonulás látványos természeti jelenség."]
-    }},
+    }
+  },
   {
     id: "rio-cobre-river-nature-v2",
     type: "river",
     parent: "JM-13",
     coords: [-76.98, 18.10],
-    name: { de: "Rio Cobre", hu: "Rio Cobre-folyó", ro: "Râul Rio Cobre", en: "Rio Cobre River" },
+    name: { de: "Rio Cobre", hu: "Rio Cobre-folyó", ro: "Râul Rio Cobre", en: "Rio Cobre River",
+image: "/poi-images/rio-cobre-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der durch die berühmte Bog Walk-Schlucht fließt.", hu: "Egy folyó, amely a híres Bog Walk-szurdokon folyik keresztül.", ro: "Un râu care curge prin faimosul defileu Bog Walk.", en: "A river that flows through the famous Bog Walk Gorge." },
     facts: {
       de: ["Fließt durch die Bog Walk Gorge", "Wichtige Wasserquelle für Spanish Town", "Beliebt zum Kajakfahren", "Kann bei starkem Regen gefährlich werden"],
@@ -115,13 +132,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Carved the 6-kilometer long Bog Walk Gorge, a major geological landmark.", "The name 'Rio Cobre' is Spanish for 'Copper River.'", "Feeds one of Jamaica's oldest and most extensive irrigation systems.", "Home to the historic 1801 Cast Iron Bridge in Spanish Town.", "Site of an early hydroelectric power station established in the late 19th century.", "Crucial water source for the metropolitan areas of Kingston and St. Catherine.", "Known for sudden and dramatic water level increases during the hurricane season.", "The river basin supports local fisheries of tilapia and freshwater shrimp."], de: ["Der Name Rio Cobre bedeutet im Spanischen 'Kupferfluss'.", "Die Bog Walk Gorge ist über 6 Kilometer lang und hat Wände, die bis zu 100 Meter hoch aufragen.", "Der Fluss entspringt im zentralen Hochland in der Nähe von Linstead.", "Das 1899 errichtete Wasserkraftwerk am Rio Cobre war eines der ersten in der Karibik.", "Bei Spanish Town überquert die historische Cast Iron Bridge den Fluss.", "Der Rio Cobre ist bekannt für seine plötzlichen und gefährlichen Hochwasser in der Schlucht.", "Das Flussbecken umfasst eine Fläche von ca. 600 Quadratkilometern.", "Fischer fangen im Fluss häufig Tilapia und Süßwassergarnelen."], ro: ["Numele derivă din spaniolă și înseamnă 'Râul de Cupru'.", "A modelat faimosul și periculosul Bog Walk Gorge.", "Principalul curs de apă care trece prin Spanish Town.", "Include barajul Rio Cobre Dam pentru controlul apelor.", "Esențial pentru irigarea a mii de hectare de teren agricol.", "Sursă majoră de alimentare cu apă pentru capitala Kingston.", "Găzduiește specii de păsări rare în zona estuarului.", "Un reper istoric al ingineriei hidraulice din sec. XIX."],
       hu: ["A Rio Cobre hossza körülbelül 50 kilométer.", "A Bog Walk-szurdokon keresztül vezető út Jamaica egyik leglátványosabb útszakasza.", "A folyó táplálja az ország legrégebbi öntözőrendszerét a St. Catherine-síkságon.", "A folyó torkolata közelében található a történelmi öntöttvas híd.", "A Rio Cobre völgyében több vízerőmű is működik.", "Híres a folyami rákjairól, amelyek a helyi gasztronómia különlegességei.", "A folyó menti barlangokban Taino indiánok nyomait fedezték fel a régészek.", "A Rio Cobre fontos szerepet játszik Kingston és környéke vízellátásában."]
-    }},
+    }
+  },
   {
     id: "long-bay-nature-v2",
     type: "sea",
     parent: "JM-04",
     coords: [-76.35, 18.15],
-    name: { de: "Long Bay", hu: "Long Bay", ro: "Golful Long", en: "Long Bay" },
+    name: { de: "Long Bay", hu: "Long Bay", ro: "Golful Long", en: "Long Bay",
+image: "/poi-images/long-bay-nature-v2.webp"
+},
     description: { de: "Ein langer, malerischer Strand in Portland, bekannt für seine entspannte Atmosphäre.", hu: "Hosszú, festői strand Portlandben, nyugodt légköréről ismert.", ro: "O plajă lungă și pitorească în Portland, cunoscută pentru atmosfera sa relaxată.", en: "A long, picturesque beach in Portland, known for its relaxed atmosphere." },
     facts: {
       de: ["Einer der längsten Strände Jamaikas", "Rosafarbener Sand an einigen Stellen", "Beliebt bei Rucksacktouristen", "Starke Wellen zum Surfen"],
@@ -134,13 +154,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Features a unique pinkish sand tint derived from crushed coral and shells.", "One of the few reliable surfing locations on the island due to Atlantic swells.", "Stretches for approximately 1.5 kilometers, making it one of Portland's longest beaches.", "Known for its relaxed, bohemian atmosphere and lack of large commercial hotels.", "Located in Jamaica's wettest parish, resulting in exceptionally lush coastal vegetation.", "Important nesting site for several species of endangered sea turtles.", "Frequently used as a picturesque location for international fashion shoots and films.", "Famous for local beachside jerk pits serving authentic Jamaican cuisine."], de: ["Long Bay ist berühmt für seine 'Blue Waves', die direkt vom Atlantik heranrollen.", "Der Strand hat eine Länge von fast zwei Kilometern.", "Hier wurden Szenen für verschiedene Filme gedreht, die die Karibikidylle suchen.", "Portland erhält den höchsten Niederschlag der Insel, was die Küste extrem grün macht.", "Die Strömungen in Long Bay können stark sein, daher ist Vorsicht beim Schwimmen geboten.", "In der Nähe befinden sich die 'Blue Lagoon' und die 'Reach Falls'.", "Fischer bieten hier oft fangfrischen Hummer und Fisch direkt am Strand an.", "Long Bay ist bekannt für seine lebendige Kunst- und Musikszene unter den Einheimischen."], ro: ["Cea mai lungă plajă neîntreruptă din parohia Portland.", "Nisipul are o nuanță rară de roz pal datorită coralilor măcinați.", "Curenții sunt puternici, fiind recomandată prudență la înot.", "Punct de observație ideal pentru răsăritul soarelui peste Atlantic.", "Populară printre călătorii 'backpacker' și artiști.", "Vegetația de coastă include numeroși cocotieri și arbori de migdal.", "O zonă cu densitate scăzută de construcții comerciale.", "Oferă o perspectivă unică asupra forței oceanului deschis."],
       hu: ["Long Bay Jamaica egyik leghosszabb összefüggő szabadstrandja.", "A hullámzás itt sokkal erősebb, mint az északi part nyugodtabb öbleiben.", "A strand híres a rózsaszínes árnyalatú homokjáról és a tiszta vizéről.", "Kedvelt helyszíne a helyi szörfös közösségnek és a hátizsákos turistáknak.", "A környék Portland legcsapadékosabb része, ami dús növényzetet eredményez.", "A parton számos 'jerk' sütöde kínálja a hagyományos jamaicai ételeket.", "Long Bay tengerpartja fontos fészkelőhelye a tengeri teknősöknek.", "Az öböl látképe számos nemzetközi divatfotózás és film forgatási helyszíne volt."]
-    }},
+    }
+  },
   {
     id: "milk-river-nature-v2",
     type: "river",
     parent: "JM-09",
     coords: [-77.38, 17.83],
-    name: { de: "Milk River", hu: "Milk River", ro: "Râul Milk", en: "Milk River" },
+    name: { de: "Milk River", hu: "Milk River", ro: "Râul Milk", en: "Milk River",
+image: "/poi-images/milk-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der für sein radioaktives Mineralbad bekannt ist.", hu: "Egy folyó, amely radioaktív ásványfürdőjéről ismert.", ro: "Un râu cunoscut pentru băile sale minerale radioactive.", en: "A river known for its radioactive mineral bath." },
     facts: {
       de: ["Heilende Mineralquellen", "Eines der radioaktivsten Bäder der Welt", "Staatlich geführtes Kurbad", "Fließt ins Karibische Meer"],
@@ -153,13 +176,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Holds the record for some of the highest levels of natural curative radioactivity globally.", "Constant water temperature of 33 degrees Celsius (91 degrees Fahrenheit).", "Mineral content includes high concentrations of magnesium, calcium, and sulfate.", "The spa was officially opened in 1794 after a discovery by an enslaved person.", "Nine times more radioactive than the famous mineral springs in Baden-Baden, Germany.", "The river estuary is a protected habitat for the West Indian manatee.", "Located within the Portland Bight Protected Area on Jamaica's south coast.", "Known for its opalescent or 'milky' appearance, which gave the river its name."], de: ["Das Wasser im Milk River Spa ist neunmal radioaktiver als das von Baden-Baden.", "Die Radioaktivität stammt von gelöstem Radon, einem natürlichen Gas im Kalkstein.", "Besuchern wird empfohlen, nicht länger als 20 Minuten im Mineralbad zu bleiben.", "Die Quelle wurde 1794 durch einen Sklaven entdeckt, der dort seine Wunden heilte.", "Das Milk River Bath ist im Besitz der jamaikanischen Regierung.", "In der Nähe des Flusses finden sich oft amerikanische Krokodile.", "Der Milk River ist einer der wichtigsten Wasserläufe im südlichen Clarendon.", "Die Landschaft um den Fluss ist durch Salzpfannen und Küstenmangroven geprägt."], ro: ["Deține recordul pentru cea mai mare radioactivitate naturală curativă.", "Apele izvorăsc la o temperatură constantă de 33 grade Celsius.", "Recomandat de medici pentru tratamentul gutei și sciaticii.", "Râul parcurge o zonă carstică bogată în minerale rare.", "Include facilități de spa administrate de statul jamaican.", "Estuarul râului este o arie protejată pentru fauna de coastă.", "Cunoscut încă din anul 1794 pentru proprietățile sale magice.", "Situat într-una dintre cele mai liniștite regiuni din sud."],
       hu: ["A Milk River Bath forrásvize állandó 33 Celsius-fokos hőmérsékletű.", "Vize kilencszer radioaktívabb, mint a franciaországi Vichy forrásaié.", "A folyó neve a víz fehéres, opálos színére utal.", "A Milk River a sziget egyik legfontosabb lamantin-élőhelye.", "A folyó torkolata a Portland Bight védett terület része.", "A gyógyforrást állítólag egy rabszolga fedezte fel az 1700-as években.", "A folyó menti mocsárvidék gazdag egzotikus orchideákban.", "A Milk River völgye kedvelt helyszíne a madármegfigyelő túráknak."]
-    }},
+    }
+  },
   {
     id: "dolphin-head-mountains-nature-v2",
     type: "mountain",
     parent: "JM-08",
     coords: [-78.15, 18.35],
-    name: { de: "Dolphin Head Mountains", hu: "Dolphin Head-hegység", ro: "Munții Dolphin Head", en: "Dolphin Head Mountains" },
+    name: { de: "Dolphin Head Mountains", hu: "Dolphin Head-hegység", ro: "Munții Dolphin Head", en: "Dolphin Head Mountains",
+image: "/poi-images/dolphin-head-mountains-nature-v2.webp"
+},
     description: { de: "Eine markante Bergkette in Hanover mit einer unverwechselbaren Form.", hu: "Jellegzetes hegylánc Hanoverben, összetéveszthetetlen formával.", ro: "Un lanț muntos distinctiv în Hanover, cu o formă inconfundabilă.", en: "A distinctive mountain range in Hanover with a unique shape." },
     facts: {
       de: ["Sieht aus wie ein Delfinkopf", "Wichtiger Orientierungspunkt für Seeleute", "Geschütztes Waldreservat", "Endemische Pflanzenarten"],
@@ -172,13 +198,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Reaches a maximum elevation of 545 meters (1,789 feet) in western Jamaica.", "Home to 23 species of plants that are unique to this specific mountain range.", "Designated as a Forest Reserve to protect its rare tropical hardwood species.", "Functions as the primary watershed for the Lucea and Cabarita Rivers.", "Globally recognized as a priority site for botanical conservation.", "Managed by the Dolphin Head Trust in collaboration with the Forestry Department.", "The limestone terrain features numerous caves and sinkholes harboring rare bats.", "Offers panoramic views of Jamaica's western coastline and the Caribbean Sea."], de: ["Die höchste Erhebung des Dolphin Head liegt bei 545 Metern (1.789 Fuß).", "Die Region beherbergt mindestens 23 Pflanzenarten, die weltweit nur hier vorkommen.", "Das Gebirge wurde 2011 zum Schutzgebiet (Forest Reserve) erklärt.", "In den Bergen finden sich bedeutende Vorkommen des seltenen Bitterwoods.", "Die Dolphin Head Mountains sind die Quelle für den Lucea River und den Cabarita River.", "Häufige Regenfälle sorgen für eine fast konstante Luftfeuchtigkeit von über 80 %.", "Wanderungen zum Gipfel starten oft im kleinen Dorf Askenish.", "Von der Spitze aus kann man an klaren Tagen die Silhouette von Kuba am Horizont erahnen."], ro: ["Cel mai înalt vârf din Jamaica de Vest (545 m).", "Adăpostește 23 de specii de plante endemice locale.", "Recunoscut internațional ca arie de conservare prioritară.", "Nod hidrologic major pentru râul Lucea și Cabarita.", "Vegetația include specii rare de orhidee și bromelii.", "Oferă un microclimat răcoros într-o regiune predominant caldă.", "Situl este monitorizat de Trustul pentru Conservarea Dolphin Head.", "Punct de orientare istoric pentru navele din Marea Caraibelor."],
       hu: ["A Dolphin Head hegység legmagasabb pontja 545 méter.", "Több mint 20 olyan növényfaj él itt, amely csak ezen a hegyen található meg.", "A terület a Dolphin Head Trust és a Forestry Department közös védelme alatt áll.", "A hegység barlangjaiban ritka denevérfajok kolóniái élnek.", "Fontos kutatóhelyszíne a karibi botanikai expedícióknak.", "A csúcsra vezető túraösvényekről pazar kilátás nyílik Lucea öblére.", "A területen jelentős orchidea- és bromélia-gyűjtemény található a vadonban.", "A Dolphin Head hegység Jamaica egyik 'vörös listás' védett területe."]
-    }},
+    }
+  },
   {
     id: "black-river-lower-morass-nature-v2",
     type: "forest",
     parent: "JM-02",
     coords: [-77.8, 18.05],
-    name: { de: "Black River Lower Morass", hu: "Black River alsó mocsárvidék", ro: "Mlaștina inferioară a râului Black", en: "Black River Lower Morass" },
+    name: { de: "Black River Lower Morass", hu: "Black River alsó mocsárvidék", ro: "Mlaștina inferioară a râului Black", en: "Black River Lower Morass",
+image: "/poi-images/black-river-lower-morass-nature-v2.webp"
+},
     description: { de: "Ein riesiges Feuchtgebiet, das den Unterlauf des Black River umgibt.", hu: "Hatalmas vizes élőhely, amely a Black River alsó folyását övezi.", ro: "Lower Morass este cea mai mare zonă umedă de apă dulce din Jamaica, un labirint vital de mlaștini, mangrove și râuri.", en: "One of the largest freshwater wetlands in the Caribbean, famous for its boat safaris and unique river ecosystems." },
     facts: {
       de: ["Größtes Sumpfgebiet der Karibik", "Ramsar-Schutzgebiet", "Heimat des Amerikanischen Krokodils", "Reiche Vogelwelt"],
@@ -191,13 +220,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Jamaica's largest freshwater wetland, spanning more than 14,000 acres.", "Designated as a Ramsar site of international importance in 1997.", "Supports the highest concentration of American crocodiles in Jamaica.", "Home to over 150 species of resident and migratory birds.", "Features three distinct types of mangroves: Red, Black, and White.", "Crucial for flood control and water purification for the St. Elizabeth region.", "Famous for its 'river shrimp' which are a staple of the local culinary culture.", "Contains the largest peat deposit in Jamaica, serving as a vital carbon sink."], de: ["Das Untere Morass umfasst eine Fläche von ca. 14.000 Hektar.", "Es wurde 1997 als erstes jamaikanisches Gebiet in die Liste der Ramsar-Feuchtgebiete aufgenommen.", "Hier wachsen drei Mangrovenarten: die Rote, die Schwarze und die Weiße Mangrove.", "Die Krokodile hier können eine Länge von bis zu 4 Metern erreichen.", "Das Feuchtgebiet filtert jährlich Millionen Tonnen an Sedimenten aus dem Black River.", "Das Morass beherbergt seltene Sumpfpalmen und Wasserlilien.", "Über 150 verschiedene Vogelarten nutzen das Morass als Rast- oder Brutplatz.", "Traditionelle Garnelenkörbe der Fischer sind ein fester Bestandteil der Kultur in dieser Sumpflandschaft."], ro: ["Acoperă o suprafață de peste 5.700 de hectare protejate.", "Include peste 100 de specii de păsări rezidente și migratoare.", "Cea mai mare populație de crocodili americani de pe insulă.", "Filtrează apele râului înainte de vărsarea în ocean.", "Sursă vitală de homari de apă dulce pentru economia locală.", "Protejat prin Convenția Internațională Ramsar din 1997.", "Vegetația dominată de 'Sawgrass' și mangrove roșii.", "Un laborator natural pentru studiul adaptării faunei tropicale."],
       hu: ["A Lower Morass több mint 5700 hektáron terül el.", "Itt él Jamaica legnagyobb amerikai krokodil (Crocodylus acutus) populációja.", "A terület 1997 óta szerepel a nemzetközi jelentőségű Ramsari vizes élőhelyek listáján.", "A mocsárvidék természetes víztározóként működik, megelőzve az árvizeket.", "Híres a hatalmas vörös mangrove fáiról, amelyek gyökerei között gazdag halállomány él.", "A madármegfigyelők itt láthatják a ritka karibi szárcsát és a sárga gémeket.", "A mocsár tőzegrétege fontos szén-dioxid-elnyelő, segítve a klímavédelmet.", "A folyami túrák során a látogatók megismerhetik a 'halászó krokodilok' szokásait is."]
-    }},
+    }
+  },
     {
     id: "navy-island-nature-v2",
     type: "island",
     parent: "JM-04",
     coords: [-76.45, 18.18],
-    name: { de: "Navy Island", hu: "Navy-sziget", ro: "Insula Navy", en: "Navy Island" },
+    name: { de: "Navy Island", hu: "Navy-sziget", ro: "Insula Navy", en: "Navy Island",
+image: "/poi-images/navy-island-nature-v2.webp"
+},
     description: { de: "Navy Island ist eine kleine, malerische Insel vor Port Antonio, die einst dem Hollywood-Star Errol Flynn gehörte. Heute ist sie ein ruhiges Naturparadies mit unberührten Stränden.", hu: "Kis sziget Port Antonio partjainál, egykor Errol Flynn tulajdonában volt.", ro: "O mică insulă în largul coastei Port Antonio, deținută odinioară de Errol Flynn.", en: "A small, lush island off the coast of Port Antonio, once owned by Errol Flynn and known for its tropical beauty." },
     facts: {
       de: ["Ehemaliger Privatbesitz", "Tropisches Inselparadies", "Nahe Port Antonio gelegen"],
@@ -210,13 +242,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Historically used by the British Royal Navy as a strategic repair station.", "Once owned by actor Errol Flynn, becoming a symbol of Hollywood's golden age in Jamaica.", "Features several secluded beaches, including one formerly known as a clothing-optional spot.", "Acts as a natural breakwater protecting Port Antonio's West Harbour.", "Accessible only by a short boat ride from the Port Antonio mainland.", "The surrounding waters are part of a protected marine park with diverse coral life.", "Home to numerous species of exotic plants introduced during the mid-20th century.", "Served as a filming location for scenes in the 1954 movie 'Treasure Island.'"], de: ["Navy Island umfasst eine Fläche von ca. 26 Hektar.", "Errol Flynn nutzte die Insel in den 1940er und 50er Jahren für legendäre Partys.", "Die Insel verfügt über drei kleine Sandstrände, darunter einen ehemals berühmten FKK-Strand.", "Es gibt keine Autos auf der Insel; man erkundet sie ausschließlich zu Fuß.", "In den Gewässern um die Insel wachsen seltene Fächerkorallen.", "Die Insel dient als natürlicher Wellenbrecher für den West Harbour von Port Antonio.", "In der Kolonialzeit befand sich hier ein Hospital für Seeleute.", "Viele exotische Pflanzenarten wurden während der Flynn-Ära auf der Insel eingeführt."], ro: ["Fostă bază navală britanică strategică în secolul XVIII.", "A aparținut actorului Errol Flynn, care a iubit-o enorm.", "Include plaje superbe precum 'Errol Flynn Beach'.", "Accesibilă printr-o scurtă plimbare cu barca din Port Antonio.", "Reciful de corali din jurul insulei este bogat în viață marină.", "Astăzi este considerată o arie de conservare ecologică.", "Găzduiește numeroase specii de arbori exotici aduși de Flynn.", "Un loc legendar pentru explorări și fotografii romantice."],
       hu: ["A sziget mindössze néhány perces csónakútra van Port Antonio kikötőjétől.", "Errol Flynn egykor privát klubot és rezidenciát tartott fenn itt.", "A sziget partjait gyönyörű, sekély vizű lagúnák és fehér homok díszíti.", "Navy Island fontos fészkelőhelye a tengeri madaraknak és a teknősöknek.", "A sziget belsejében található dús növényzet számos endemikus fajt rejt.", "Itt forgatták az 1954-es 'Kincses sziget' film több jelenetét.", "A sziget körüli zátonyok a Portland Marine Park védelme alatt állnak.", "Navy Island ideális célpont a csendet és a természet közelségét kereső kirándulóknak."]
-    }},
+    }
+  },
   {
     id: "rio-minho-river-nature-v2",
     type: "river",
     parent: "JM-09",
     coords: [-77.25, 17.83],
-    name: { de: "Rio Minho", hu: "Rio Minho-folyó", ro: "Râul Rio Minho", en: "Rio Minho River" },
+    name: { de: "Rio Minho", hu: "Rio Minho-folyó", ro: "Râul Rio Minho", en: "Rio Minho River",
+image: "/poi-images/rio-minho-river-nature-v2.webp"
+},
     description: { de: "Der längste Fluss Jamaikas, der durch Clarendon fließt.", hu: "Jamaica leghosszabb folyója, amely Clarendonon keresztül folyik.", ro: "Cel mai lung râu din Jamaica, care curge prin Clarendon.", en: "The longest river in Jamaica, flowing through Clarendon." },
     facts: {
       de: ["Längster Fluss der Insel", "Wichtige Quelle für die Bewässerung", "Fließt durch May Pen", "Mündet bei Carlisle Bay ins Meer"],
@@ -229,13 +264,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["The longest river in Jamaica, with a total length of approximately 92.8 kilometers.", "Originates at Bull Head Mountain, the geographical center of the island.", "Known for flowing through underground limestone passages during dry periods.", "Empties into the sea at Carlisle Bay on Jamaica's southern coast.", "The river basin covers nearly 10% of the island's total land area.", "Historically vital for powering sugar mills and irrigating the Clarendon Plains.", "Known for dramatic flash floods that frequently reshape the riverbanks.", "Supports significant populations of kingfishers and river iguanas in its valley."], de: ["Der Rio Minho hat eine Gesamtlänge von ca. 92,8 Kilometern (57,7 Meilen).", "Der Fluss ist für seine verheerenden Sturzfluten berüchtigt, die oft Brücken und Straßen zerstören.", "Er mündet bei Carlisle Bay an der Südküste in das Meer.", "Sein Einzugsgebiet umfasst fast die gesamte Parochie Clarendon.", "Historisch wurde der Fluss zur Bewässerung der riesigen Zuckerrohrplantagen genutzt.", "In den Oberläufen des Flusses finden sich Vorkommen von Gold- und Kupfererzen.", "Die Brücke bei May Pen ist ein wichtiger strategischer Punkt über den Rio Minho.", "Aufgrund der Versickerung im Kalkstein fließt der Fluss in einigen Abschnitten unterirdisch."], ro: ["Cel mai lung râu al Jamaicăi, cu 92,8 kilometri.", "Sursă vitală pentru irigarea câmpiilor din Clarendon.", "Include porțiuni care dispar în albia subterană de calcar.", "Vărsare în Carlisle Bay pe coasta muntoasă de sud.", "Bazinul hidrografic acoperă aproape 10% din suprafața insulei.", "Transportă nutrienți esențiali pentru ecosistemele marine.", "Habitat pentru păsări pescăraș și iguane de râu.", "Râul a fost martor al multor evenimente istorice coloniale."],
       hu: ["A Rio Minho hossza körülbelül 92 kilométer.", "A folyó a Bull Head-hegységben, Jamaica középpontjában ered.", "A száraz évszakban a folyó medrének nagy része száraznak tűnik a föld alatti folyások miatt.", "A folyó völgye Jamaica egyik legfontosabb cukornád- és citrus-termesztő vidéke.", "A Rio Minho táplálja a déli part legnagyobb mangrove-rendszereit.", "Híres a monszun idején tapasztalható hatalmas árvizeiről, amelyek formálják a tájat.", "A folyó mentén számos történelmi cukormalom és híd maradványa látható.", "A Rio Minho torkolata a Carlisle-öbölben található, fontos halászati területen."]
-    }},
+    }
+  },
   {
     id: "portland-bight-nature-v2",
     type: "sea",
     parent: "JM-09",
     coords: [-77.15, 17.80],
-    name: { de: "Portland Bight", hu: "Portland-öböl", ro: "Golful Portland", en: "Portland Bight" },
+    name: { de: "Portland Bight", hu: "Portland-öböl", ro: "Golful Portland", en: "Portland Bight",
+image: "/poi-images/portland-bight-nature-v2.webp"
+},
     description: { de: "Eine große Bucht an der Südküste, die ein geschütztes Feuchtgebiet umfasst.", hu: "Nagy öböl a déli parton, amely egy védett vizes élőhelyet foglal magában.", ro: "Portland Bight este cea mai mare zonă protejată terestră și marină din Jamaica, adăpostind recife de corali și păduri tropicale uscate.", en: "A large bay on the south coast that includes a protected wetland area." },
     facts: {
       de: ["Größte Bucht Jamaikas", "Ramsar-Schutzgebiet", "Wichtiger Lebensraum für Seekühe", "Umfasst mehrere kleine Inseln"],
@@ -248,13 +286,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["The largest state-managed protected area in Jamaica, covering over 1,800 square kilometers.", "Only remaining natural habitat for the critically endangered endemic Jamaican Iguana.", "Contains over 50% of Jamaica's total mangrove forest coverage.", "Includes 21 offshore coral cays, such as the Little Goat Island.", "Designated as an Important Bird Area (IBA) of international significance.", "Managed through a partnership between the government and the NGO C-CAM.", "Home to the largest population of West Indian manatees in Jamaica.", "Features rare dry limestone forest ecosystems found nowhere else in the world."], de: ["Das Schutzgebiet erstreckt sich über ca. 1.876 Quadratkilometer (Land und Meer).", "Hier befinden sich über 50 % der Mangrovenbestände Jamaikas.", "Die Bucht beherbergt die größte Population der Karibik-Manatees in Jamaika.", "Portland Bight umfasst 21 kleine Inseln (Cays) vor der Küste.", "Das Gebiet wurde 1999 offiziell unter Schutz gestellt.", "Innerhalb des Gebiets liegen zwei große Bauxit-Terminals und ein Kraftwerk.", "Es ist ein wichtiges Forschungsgebiet für die Erhaltung von Korallenriffen.", "Zahlreiche geschützte Vogelarten nutzen die Mangroveninseln als Brutplatz."], ro: ["Cea mai mare zonă protejată administrată de stat (PBRMA).", "Singurul habitat rămas pentru iguana jamaicană endemică.", "Include peste 8.000 de hectare de păduri de mangrove.", "Aria cuprinde numeroase insule, precum Little Goat Island.", "Nod crucial pentru migrația păsărilor din emisfera vestică.", "Găzduiește peșteri de calcar cu o floră și faună unice.", "Pilon central al economiei pescuitului în sudul Jamaicăi.", "Protejează recifele de corali de sedimentarea excesivă."],
       hu: ["Ez Jamaica legnagyobb védett területe, a sziget területének jelentős részét lefedi.", "A Portland Bight ad otthont a Karib-térség egyik legnagyobb mangrove-erdő rendszerének.", "A területen több mint 50 különböző endemikus állatfaj található meg.", "Itt található Jamaica legfontosabb tengeri fű mezőinek jelentős része.", "A védett övezetet a C-CAM nevű civil szervezet és a kormány közösen kezeli.", "A Portland Bight vizei adják Jamaica haltermelésének közel felét.", "A terület magában foglalja a történelmi Old Harbour-öblöt is.", "A rezervátum nemzetközi szinten is elismert madárvédelmi terület (IBA)."]
-    }},
+    }
+  },
   {
     id: "santa-cruz-mountains-nature-v2",
     type: "mountain",
     parent: "JM-02",
     coords: [-77.75, 17.95],
-    name: { de: "Santa Cruz Mountains", hu: "Santa Cruz-hegység", ro: "Munții Santa Cruz", en: "Santa Cruz Mountains" },
+    name: { de: "Santa Cruz Mountains", hu: "Santa Cruz-hegység", ro: "Munții Santa Cruz", en: "Santa Cruz Mountains",
+image: "/poi-images/santa-cruz-mountains-nature-v2.webp"
+},
     description: { de: "Eine Bergkette in St. Elizabeth, bekannt für ihre roten Böden und Landwirtschaft.", hu: "Hegylánc St. Elizabeth-ben, vörös talajáról és mezőgazdaságáról ismert.", ro: "Un lanț muntos în St. Elizabeth, cunoscut pentru solurile sale roșii și agricultură.", en: "A mountain range in St. Elizabeth, known for its red soils and agriculture." },
     facts: {
       de: ["Bauxitreiche Böden", "Wichtige landwirtschaftliche Region", "Kühleres Klima als die Küste", "Lovers' Leap Klippe ist Teil davon"],
@@ -267,13 +308,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Reaches heights of approximately 730 meters, providing a temperate microclimate.", "Home to the legendary Lover's Leap, a 500-meter vertical sea cliff.", "Characterized by deep red bauxite-rich soils used for both mining and farming.", "Renowned for its exceptionally high air quality, traditionally recommended for respiratory health.", "Features a unique 'dry forest' ecosystem with specialized flora and fauna.", "Houses some of Jamaica's oldest and most prestigious educational institutions like Munro College.", "The mountains act as a rain barrier, significantly affecting the climate of St. Elizabeth.", "Rich in Taino archaeological sites, particularly within its numerous limestone caves."], de: ["Die höchste Erhebung der Santa Cruz Mountains liegt bei ca. 730 Metern.", "Hier befindet sich der berühmte Aussichtspunkt Lover's Leap.", "Das Gebirge besteht hauptsächlich aus eozänem White Limestone.", "Das Klima gilt als eines der trockensten und gesündesten der Insel.", "Die Berge sind ein wichtiges Zentrum für die Bauxitgewinnung in St. Elizabeth.", "In der Region finden sich zahlreiche endemische Reptilien- und Vogelarten.", "Das Plateau fällt nach Süden hin steil zum Meer ab.", "In den Bergen liegen renommierte Bildungseinrichtungen wie das Munro College."], ro: ["Altitudine medie de 600-750 de metri.", "Renumit istoric ca loc de tratament pentru astm și bronșite.", "Include punctul de belvedere spectaculos Lover's Leap.", "Solul roșu vulcanic este extrem de fertil pentru agricultură.", "Barieră naturală care influențează ploile în Saint Elizabeth.", "Găzduiește numeroase mori de vânt pentru producția de energie.", "Microclimat temperat unic într-o țară tropicală.", "Vegetația include specii rare de cactuși și bromelii."],
       hu: ["A hegység legmagasabb pontjai meghaladják a 700 métert.", "Híres a Malvern nevű településről, amely az egyik legrégebbi 'hegyi gyógyhely' a szigeten.", "A hegység nyugati oldalán található a híres bauxitbányászati övezet.", "A mészkő talajon kiváló minőségű zöldségféléket és gyümölcsöket termesztenek.", "A hegység barlangjai gazdag Taino indián leletanyagot őriznek.", "A Santa Cruz-hegység gerincén vezető út Jamaica egyik leglátványosabb panorámaútja.", "A területen számos történelmi anglikán templom és iskola található.", "A hegység szélén található a Lover's Leap, Jamaica egyik legmagasabb tengerparti sziklája."]
-    }},
+    }
+  },
   {
     id: "fern-gully-nature-v2",
     type: "forest",
     parent: "JM-06",
     coords: [-77.10, 18.38],
-    name: { de: "Fern Gully", hu: "Fern Gully (Páfrány-szurdok)", ro: "Defileul cu ferigi", en: "Fern Gully" },
+    name: { de: "Fern Gully", hu: "Fern Gully (Páfrány-szurdok)", ro: "Defileul cu ferigi", en: "Fern Gully",
+image: "/poi-images/fern-gully-nature-v2.webp"
+},
     description: { de: "Eine drei Meilen lange Schlucht in der Nähe von Ocho Rios, gesäumt von Hunderten von Farnarten.", hu: "Három mérföld hosszú szurdok Ocho Rios közelében, amelyet páfrányfajok százai szegélyeznek.", ro: "Un defileu de trei mile lungime lângă Ocho Rios, mărginit de sute de specii de ferigi.", en: "A three-mile-long canyon near Ocho Rios, lined with hundreds of species of ferns." },
     facts: {
       de: ["Über 500 Farnarten", "Ehemaliges Flussbett", "Geschützte Naturattraktion", "Dichtes Blätterdach"],
@@ -286,13 +330,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["A natural 'green tunnel' extending for approximately 5 kilometers (3 miles).", "Lined with over 300 different species of ferns, many of which are endemic to Jamaica.", "Formed in the dry bed of an ancient river following an earthquake in 1907.", "Features rare tree ferns and tropical hardwoods like mahogany and cedar.", "The dense canopy creates a microclimate that is 3-5 degrees cooler than the surroundings.", "Protected by law as a national natural monument and botanical reserve.", "Important ecological corridor for local butterflies and forest birds.", "A major tourist attraction known for the local vendors selling traditional wood carvings at its entrance."], de: ["Fern Gully erstreckt sich über eine Länge von etwa 4,8 Kilometern (3 Meilen).", "Hier wachsen über 300 verschiedene Farnarten, von denen viele endemisch sind.", "Die Straße folgt dem ehemaligen Bett eines unterirdischen Flusses.", "Die Schlucht entstand nach dem großen Erdbeben von 1907.", "Am Rand der Schlucht bieten lokale Händler traditionelle Holzschnitzereien an.", "Das dichte Blätterdach senkt die Temperatur in der Schlucht spürbar.", "Fern Gully ist ein wichtiger Korridor für Schmetterlinge und Singvögel.", "Die Straße verbindet Ocho Rios mit dem zentralen Hochland von Jamaika."], ro: ["Lungime de aproximativ 5 kilometri prin pădurea tropicală.", "Găzduiește peste 300 de varietăți diferite de ferigi.", "Format în albia unui râu distrus de un cutremur în 1839.", "Un 'tunel verde' natural care blochează mare parte din soare.", "Include specii rare precum 'feriga de mahon' și ferigi arborescente.", "Temperaturile sunt cu 3-5 grade mai mici decât în exterior.", "Punct de interes major pentru botaniști și turiști.", "Protejat prin lege ca monument natural național."],
       hu: ["A szurdokot az 1907-es földrengés után alakították ki közúttá az egykori mederben.", "Több mint 300 páfrányfaj és számos trópusi virág él a szurdok falaiban.", "A Páfrány-szurdok körülbelül 5 kilométer hosszan kanyarog a hegyek felé.", "A fák magassága és sűrűsége miatt a hőmérséklet itt több fokkal alacsonyabb, mint a parton.", "A terület Jamaica egyik legfontosabb botanikai védett övezete.", "A szurdok bejáratánál helyi kézművesek és fafaragók kínálják termékeiket.", "A Páfrány-szurdok szerepel Jamaica legszebb tájait bemutató minden útikönyvben.", "Szigorú sebességkorlátozás és környezetvédelmi felügyelet védi az érzékeny flórát."]
-    }},
+    }
+  },
   {
     id: "swift-river-nature-v2",
     type: "river",
     parent: "JM-04",
     coords: [-76.57, 18.20],
-    name: { de: "Swift River", hu: "Swift-folyó", ro: "Râul Swift", en: "Swift River" },
+    name: { de: "Swift River", hu: "Swift-folyó", ro: "Râul Swift", en: "Swift River",
+image: "/poi-images/swift-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss in Portland, der bei Hope Bay ins Meer mündet.", hu: "Folyó Portlandben, amely Hope Bay-nél ömlik a tengerbe.", ro: "Un râu în Portland care se varsă în mare la Hope Bay.", en: "A river in Portland that empties into the sea at Hope Bay." },
     facts: {
       de: ["Fließt aus den Blue Mountains", "Klares, kühles Wasser", "Beliebt bei Einheimischen zum Baden", "Malerische Flusslandschaft"],
@@ -305,13 +352,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Originates within the Blue and John Crow Mountains National Park.", "Renowned for its exceptionally clear, drinking-quality mountain water.", "Provides a vital sanctuary for the endangered Jamaican Giant Swallowtail butterfly.", "Features the hidden Fishdone Falls, a gem of the local landscape.", "Home to several small Maroon communities that maintain traditional ways of life.", "Popular for river trekking, wild swimming, and nature photography.", "One of the richest areas in the country for wild ferns and orchids.", "Accessible primarily via rugged roads, offering a true adventure experience."], de: ["Der Swift River entspringt auf einer Höhe von über 1.500 Metern.", "Das Flusstal erhält einige der höchsten Niederschlagsmengen der Karibik.", "Der Fluss ist bekannt für seine tiefen, blauen Gumpen inmitten des Waldes.", "Er mündet in der Nähe von Hope Bay in das Karibische Meer.", "Die Region um den Swift River ist ein wichtiger Lebensraum für den Giant Swallowtail Schmetterling.", "Ufernahe Gemeinschaften nutzen das Wasser für den Anbau von biologischem Kaffee.", "Es gibt keine großen Brücken über den Fluss in seinen Oberläufen.", "Der Swift River ist ein Referenzgewässer für die Wasserqualität in Portland."], ro: ["Izvorăște din zonele cu cele mai mari precipitații ale insulei.", "Cunoscut pentru curentul său puternic și apele foarte reci.", "Valea râului este o arie de conservare a biodiversității montane.", "Include faimosul 'Fish-Done' falls în cursul superior.", "Transportă pietre de râu mari, netezite de curentul rapid.", "Popular pentru drumeții în albie și picnicuri rurale.", "Râul alimentează zone de mlaștină bogate în aval.", "Rămâne unul dintre cele mai puțin poluate râuri din Caraibe."],
       hu: ["A Swift River a Blue and John Crow Mountains Nemzeti Park területén ered.", "Híres a kristálytiszta, ivóvíz tisztaságú vízéről.", "A folyó völgye fontos menedéke a veszélyeztetett jamaicai fecskefarkú pillangónak.", "A folyó mentén található Fishdone vízesés a környék egyik rejtett ékköve.", "A Swift River környékén számos kis maron közösség él, őrizve hagyományaikat.", "Népszerű helyszíne a vadvízi úszásnak és a természetfotózásnak.", "A folyó völgye az ország egyik leggazdagabb páfrány- és orchidea-lelőhelye.", "A terület csak nehezen járható utakon, valódi kalandtúra keretében érhető el."]
-    }},
+    }
+  },
   {
     id: "boston-bay-nature-v2",
     type: "sea",
     parent: "JM-04",
     coords: [-76.35, 18.18],
-    name: { de: "Boston Bay", hu: "Boston-öböl", ro: "Golful Boston", en: "Boston Bay" },
+    name: { de: "Boston Bay", hu: "Boston-öböl", ro: "Golful Boston", en: "Boston Bay",
+image: "/poi-images/boston-bay-nature-v2.webp"
+},
     description: { de: "Eine Bucht in Portland, die als Geburtsort des Jerk-Kochstils gilt.", hu: "Egy öböl Portlandben, amelyet a 'jerk' főzési stílus szülőhelyének tartanak.", ro: "Un golf în Portland considerat locul de naștere al stilului de gătit jerk.", en: "A bay in Portland considered the birthplace of jerk-style cooking." },
     facts: {
       de: ["Heimat des authentischen Jerk Food", "Beliebter Surfspot", "Weißer Sandstrand", "Kleine, halbmondförmige Bucht"],
@@ -325,13 +375,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Widely considered the best surfing location in the entire Caribbean island of Jamaica.", "Features deep, azure waters and striking surrounding limestone rock formations.", "The historic center for the most authentic jerk food stalls on the island.", "Shaded by lush almond trees and coconut palms along the shoreline.", "Frequent sightings of sea turtles and rays in the bay's clear waters.", "Located in eastern Portland, approximately 20 kilometers from Port Antonio.", "Hosts the annual International Boston Jerk Festival every July.", "Remains a community-owned beach, preserving its friendly and authentic local character."], de: ["Boston Bay gilt als der Geburtsort des jamaikanischen Jerk-Food.", "Die Bucht ist einer der besten Surf-Spots der gesamten Insel.", "Hier findet jährlich das berühmte Portland Jerk Festival statt.", "Das Fleisch wird traditionell über Pimentholz (Allspice) langsam geräuchert.", "Der Strand ist öffentlich zugänglich und bei Einheimischen sehr beliebt.", "Das Wasser ist aufgrund der Atlantikströmung etwas kühler als an der Westküste.", "Boston Bay liegt etwa 15 Kilometer östlich von Port Antonio.", "In der Umgebung finden sich zahlreiche kleine Gästehäuser im Öko-Stil."], ro: ["Recunoscut ca patria mondială a condimentului 'Jerk'.", "Cea mai bună plajă pentru surfing de pe coasta de nord-est.", "Găzduiește anual Festivalul Boston Jerk în luna iulie.", "Apele sunt mai adânci și mai energice decât în restul insulei.", "Înconjurată de plantații tradiționale de pimento (ienibahar).", "Include zone de recif ideale pentru pescuitul sportiv.", "Comunitatea păstrează metodele de gătit în gropi de pământ.", "Punct de întâlnire pentru cultura surf jamaicană în devenire."],
       hu: ["Boston Bay az egész Karib-térség egyik leghíresebb szörfös helyszíne.", "A strand híres a mély, azúrkék vízéről és a környező mészkősziklákról.", "Itt található Jamaica legautentikusabb jerk-sütödéinek központja.", "A tengerpartot dús mandulafák és kókuszpálmák árnyékolják.", "Az öböl vizeiben gyakran láthatóak tengeri teknősök és ráják.", "A terület Portland keleti részén, Port Antonio-tól kb. 20 kilométerre fekszik.", "Minden évben itt rendezik meg a nemzetközi Boston Jerk Fesztivált.", "A strand közösségi tulajdonban van, megőrizve barátságos, helyi jellegét."]
-    }},
+    }
+  },
   {
     id: "cabarita-river-nature-v2",
     type: "river",
     parent: "JM-03",
     coords: [-78.14, 18.25],
-    name: { de: "Cabarita River", hu: "Cabarita-folyó", ro: "Râul Cabarita", en: "Cabarita River" },
+    name: { de: "Cabarita River", hu: "Cabarita-folyó", ro: "Râul Cabarita", en: "Cabarita River",
+image: "/poi-images/cabarita-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss in Westmoreland, der durch Savanna-la-Mar fließt.", hu: "Folyó Westmorelandben, amely Savanna-la-Maron keresztül folyik.", ro: "Un râu în Westmoreland care curge prin Savanna-la-Mar.", en: "A river in Westmoreland that flows through Savanna-la-Mar." },
     facts: {
       de: ["Fließt durch das Great Morass", "Wichtig für die lokale Landwirtschaft", "Mündet in die Karibik", "Lebensraum für Vögel und Fische"],
@@ -344,13 +397,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Stretches approximately 40 kilometers through the heart of Westmoreland.", "Provides essential irrigation for the parish's massive sugarcane estates.", "Features extensive mangrove swamps at its mouth, rich in diverse birdlife.", "Known for its abundance of freshwater life, particularly tilapia and river shrimp.", "Contains several historic waterworks and dams along its course.", "A popular destination for nature tours and birdwatching excursions.", "Experiences significant flooding during heavy rains, which reshapes the surrounding landscape.", "Acts as a primary determinant of water quality in the Savanna-la-Mar bay area."], de: ["Der Cabarita River hat eine Gesamtlänge von ca. 40 Kilometern.", "Er mündet westlich von Savanna-la-Mar in die Little Bay.", "Der Fluss bewässert über 5.000 Hektar Zuckerrohrfelder.", "In der Nähe der Mündung befinden sich ausgedehnte Feuchtgebiete.", "Der Cabarita River ist bekannt für seine Vorkommen an Tilapia und Flussbarschen.", "In der Kolonialzeit wurden auf dem Fluss Waren zu den Plantagen transportiert.", "Die Brücke über den Cabarita bei Sav-la-Mar ist ein wichtiger Verkehrsknotenpunkt.", "An seinen Ufern wachsen riesige Bambusbestände, die als Windschutz dienen."], ro: ["Lungime totală de aproape 40 de kilometri.", "Cel mai mare râu din regiunea de vest a Jamaicăi.", "Sursă principală de apă pentru industria zahărului din zonă.", "Formează spectaculoasele cascade Mayfield Falls în interior.", "Vărsare în Marea Caraibelor la vest de Savanna-la-Mar.", "Bazinul său susține populații importante de crustacee native.", "Include zone de mlaștină vitale pentru păsările migratoare.", "Nod critic pentru transportul istoric al buștenilor de lemn colorat."],
       hu: ["A Cabarita folyó hossza körülbelül 40 kilométer.", "A folyó táplálja Westmoreland plébánia hatalmas cukornádültetvényeit.", "Torkolata közelében kiterjedt mangrove-mocsarak találhatók, gazdag madárvilággal.", "A folyó vize híres a bőségéről, különösen a tilápia és a folyami rák tekintetében.", "A Cabarita mentén több történelmi vízmű és gát is található.", "A folyóvölgyben rendszeresen tartanak természetjáró és madármegfigyelő túrákat.", "Súlyos esőzések idején a folyó jelentősen megárad, formálva a környező tájat.", "A folyó a Savanna-la-Mar-i öböl vízminőségének egyik legfontosabb meghatározója."]
-    }},
+    }
+  },
   {
     id: "montpelier-mountains-nature-v2",
     type: "mountain",
     parent: "JM-08",
     coords: [-77.95, 18.35],
-    name: { de: "Montpelier Berge", hu: "Montpelier-hegység", ro: "Munții Montpelier", en: "Montpelier Mountains" },
+    name: { de: "Montpelier Berge", hu: "Montpelier-hegység", ro: "Munții Montpelier", en: "Montpelier Mountains",
+image: "/poi-images/montpelier-mountains-nature-v2.webp"
+},
     description: { de: "Die Montpelier-Berge zeichnen sich durch ihre sanften Hügel und die dichten Regenwälder aus, die eine hohe Biodiversität beherbergen. Die Region ist ideal für Ökotourismus.", hu: "Dombsági régió St. James-ben, Montego Bay-től délkeletre.", ro: "O regiune deluroasă în St. James, la sud-est de Montego Bay.", en: "A scenic mountain range in western Jamaica, known for its cool climate, rolling hills, and agricultural heritage." },
     facts: {
       de: ["Artenreiche Regenwälder", "Zentrum für Ökotourismus", "Panorama-Aussichtspunkte"],
@@ -364,13 +420,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Reaches elevations of approximately 400 to 500 meters above sea level.", "Contains the ruins of one of Jamaica's oldest and most important railway hubs.", "Famous for the historic Montpelier Estate ruins and its 18th-century aqueduct.", "The mountain forests are home to numerous species of endemic orchids.", "Serves as a critical nesting ground for Jamaican parrots and the Ring-tailed Pigeon.", "Known for breeding the famous 'Jamaica Red Poll' cattle on its lush pastures.", "Traversed by the historic road connecting Montego Bay and Savanna-la-Mar.", "Rich in limestone caves that host significant colonies of native bats."], de: ["Die Montpelier Mountains erreichen Höhen von etwa 300 bis 450 Metern.", "Hier befand sich eine der größten Zuckerplantagen Jamaikas im 19. Jahrhundert.", "In der Region liegt die historische Bahnstation Montpelier.", "Die Berge sind bekannt für die Zucht von Jamaica-Red-Poll-Rindern.", "Vom Gipfelgrat sieht man an klaren Tagen bis zum Hafen von Montego Bay.", "Das Gestein besteht hauptsächlich aus kreidezeitlichem Kalkstein.", "Hier entspringen zahlreiche Quellen, die in den Great River münden.", "Montpelier ist heute ein wichtiges Zentrum für die Forschung in der Rinderzucht."], ro: ["Regiune deluroasă cu soluri extrem de bogate în calcar.", "Localizați la sud de Montego Bay, în parohia St. James.", "Importanță istorică majoră în timpul revoltelor sclavilor din 1831.", "Nod rutier și feroviar istoric pentru transportul bananelor.", "Habitat pentru specia endemică de papagal 'Yellow-billed Parrot'.", "Oferă condiții ideale pentru creșterea bovinelor de rasă.", "Include ruine ale vechilor fabrici de zahăr coloniale.", "Zonă preferată pentru turismul ecvestru și drumeții ușoare."],
       hu: ["A Montpelier-hegység központi része körülbelül 400-500 méterrel magasodik a tenger szintje fölé.", "A területen található Jamaica egyik legrégebbi és legfontosabb vasúti csomópontjának romjai.", "Híres a Montpelier Estate történelmi romjairól és a 18. századi vízvezetékről.", "A hegység erdeiben számos endemikus orchideafaj virul.", "Fontos fészkelőhelye a jamaicai papagájoknak és a kék galambnak.", "A környék legelőin tenyésztik a híres 'Jamaica Red Poll' szarvasmarha-fajtát.", "A hegységen keresztül vezet a történelmi út Montego Bay és Savanna-la-Mar között.", "A terület gazdag mészkő-barlangokban, amelyek jelentős denevérkolóniáknak adnak otthont."]
-    }},
+    }
+  },
   {
     id: "mason-river-game-sanctuary-nature-v2",
     type: "forest",
     parent: "JM-09",
     coords: [-77.37, 18.19],
-    name: { de: "Mason River Wildreservat", hu: "Mason River Vadvédelmi Terület", ro: "Sanctuarul de vânătoare Mason River", en: "Mason River Game Sanctuary" },
+    name: { de: "Mason River Wildreservat", hu: "Mason River Vadvédelmi Terület", ro: "Sanctuarul de vânătoare Mason River", en: "Mason River Game Sanctuary",
+image: "/poi-images/mason-river-game-sanctuary-nature-v2.webp"
+},
     description: { de: "Ein geschütztes Feuchtgebiet und Waldreservat in Clarendon.", hu: "Védett vizes élőhely és erdőrezervátum Clarendonban.", ro: "Sanctuarul Mason River este o rezervație unică ce protejează o zonă de savană montană și plante carnivore rare.", en: "A protected wildlife and plant reserve famous for its unique marshland ecosystem and rare carnivorous plants." },
     facts: {
       de: ["Jamaikas einziges Binnen-Feuchtgebiet", "Reservat für Vögel und Wildtiere", "Einzigartige Flora", "Wichtig für den Naturschutz"],
@@ -383,13 +442,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Established in 1963 and spans over 80 hectares of protected land.", "Home to Jamaica's only native carnivorous plant, a relative of the North American pitcher plant.", "Hosts more than 400 plant species, approximately 10% of which are endemic.", "Situated at an elevation of roughly 650 meters above sea level.", "An important site for paleobotanical research and peat studies.", "Protects the upper reaches and watershed of the Mason River.", "Access is strictly by prior permission and usually requires a guided tour.", "Officially designated as an Important Bird Area (IBA) of international significance."], de: ["Das Mason River Game Sanctuary wurde bereits 1963 unter Schutz gestellt.", "Es beherbergt die einzige bekannte Population von Sonnentau (Drosera) in Jamaika.", "Die Fläche des Reservats beträgt etwa 80 Hektar.", "Das Gebiet wird gemeinsam vom Institute of Jamaica und der National Environmental and Planning Agency (NEPA) verwaltet.", "Hier wachsen über 400 verschiedene Pflanzenarten auf engstem Raum.", "Das Sanctuary liegt an der Grenze zwischen den Parochien Clarendon und St. Ann.", "Es ist ein klassifiziertes Feuchtgebiet von nationaler Bedeutung.", "Besucher können das Reservat über spezielle Pfade erkunden (Voranmeldung nötig)."], ro: ["Unic în Jamaica datorită solului său acid de savană montană.", "Adăpostește planta carnivoră nativă 'Sundew'.", "Declarat Sit de Interes Științific Special în anul 1963.", "Peste 400 de specii de plante înregistrate pe o suprafață mică.", "Găzduiește mii de specii de insecte, multe încă nenumite.", "Situat la o altitudine de aproximativ 650 de metri.", "Include o mică stație de cercetare pentru savanți.", "Un sit esențial pentru protejarea patrimoniului genetic vegetal."],
       hu: ["A rezervátumot 1963-ban hozták létre, több mint 80 hektáron fekszik.", "Itt él Jamaica egyetlen őshonos húsevő növénye, az észak-amerikai kancsóka rokona.", "A terület több mint 400 növényfajnak ad otthont, amelyek 10%-a endemikus.", "A rezervátum tengerszint feletti magassága körülbelül 650 méter.", "Fontos kutatóhelyszíne a paleobotanikai és tőzegkutatásoknak.", "A terület a Mason River folyó felső folyását és vízgyűjtőjét védi.", "A látogatás csak előzetes engedéllyel és szakvezetéssel lehetséges.", "A rezervátumot nemzetközi jelentőségű madárvédelmi területté nyilvánították."]
-    }},
+    }
+  },
   {
     id: "salt-river-nature-v2",
     type: "river",
     parent: "JM-09",
     coords: [-77.17, 17.85],
-    name: { de: "Salt River", hu: "Salt River", ro: "Râul Salt", en: "Salt River" },
+    name: { de: "Salt River", hu: "Salt River", ro: "Râul Salt", en: "Salt River",
+image: "/poi-images/salt-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss in Clarendon, der in die Portland Bight mündet.", hu: "Egy folyó Clarendonban, amely a Portland-öbölbe ömlik.", ro: "Un râu în Clarendon care se varsă în Golful Portland.", en: "A river in Clarendon that flows into Portland Bight." },
     facts: {
       de: ["Mündet in ein großes Feuchtgebiet", "Wichtiger Lebensraum für Vögel", "Mangrovenwälder entlang des Ufers", "Beliebt für Bootsfahrten"],
@@ -402,13 +464,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["The springs originate at the base of the Brazillette Mountains.", "Maintains a constant and pleasant water temperature, ideal for year-round bathing.", "The riverside mangroves serve as one of Jamaica's most important fish nurseries.", "Acts as a vital stopover for migratory flamingos and brown pelicans.", "Recent tourism developments have enhanced the accessibility of the spring area.", "The water is remarkably clear and translucent, allowing views of fish in the riverbed.", "Famous for its high-quality, artisanally produced salt from local evaporation.", "The estuary serves as an excellent starting point for exploring nearby coral cays."], de: ["Die Mineralquelle von Salt River ist für ihren hohen Magnesiumgehalt bekannt.", "Hier befindet sich ein bedeutender Terminal für den Export von Melasse.", "Die Mündung ist Teil des Portland Bight Protected Area.", "In den Kanälen um Salt River werden regelmäßig Westindische Manatees gesichtet.", "In der Nähe liegt die Salt River Ridge, ein wichtiger Fundort für Taino-Artefakte.", "Der Ort war im 18. Jahrhundert ein wichtiger Hafen für die Zuckerbarone von Clarendon.", "Das Wasser der Quelle hat eine konstante Temperatur von etwa 29 Grad Celsius.", "Die umliegenden Mangroven beherbergen eine große Kolonie von Prachtfregattvögeln."], ro: ["Cunoscut pentru izvoarele sale minerale curative gratuite.", "Situat în cadrul vastei zone protejate Portland Bight.", "Habitat rar pentru manatinul din Indiile de Vest.", "Include zone de mangrove verzi și negre de mare densitate.", "Apele au o temperatură constantă și plăcută tot anul.", "Punct de observație ideal pentru vulturii pescari și egrete.", "Conectat cu estuarul prin canale naturale șerpuite.", "Unul dintre puținele locuri unde wellness-ul se îmbină cu ecologia pură."],
       hu: ["A Salt River forrásai a Brazillette-hegység lábánál fakadnak.", "A víz hőmérséklete állandó és kellemes, ideális az egész évben való fürdőzéshez.", "A folyó mentén található mangrove-erdők Jamaica egyik legfontosabb hal-bölcsődéje.", "A terület fontos megállóhely a vándorló flamingók és pelikánok számára.", "A Salt River forrásvidékét nemrégiben turisztikai fejlesztésekkel tették vonzóbbá.", "A folyó vize rendkívül tiszta és áttetsző, látni a mederben élő halakat.", "A környék híres a tiszta, sólepárlással nyert kézműves sójáról is.", "A Salt River torkolata kiváló kiindulópont a közeli korall-szigetek felfedezéséhez."]
-    }},
+    }
+  },
   {
     id: "alligator-hole-river-nature-v2",
     type: "river",
     parent: "JM-12",
     coords: [-77.53, 17.88],
-    name: { de: "Alligator Hole River", hu: "Alligator Hole-folyó", ro: "Râul Alligator Hole", en: "Alligator Hole River" },
+    name: { de: "Alligator Hole River", hu: "Alligator Hole-folyó", ro: "Râul Alligator Hole", en: "Alligator Hole River",
+image: "/poi-images/alligator-hole-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss in Manchester, der für seine Manati-Population bekannt ist.", hu: "Egy folyó Manchesterben, amely a lamantin populációjáról ismert.", ro: "Un râu în Manchester, cunoscut pentru populația sa de lamantini.", en: "A river in Manchester known for its manatee population." },
     facts: {
       de: ["Lebensraum für Manatis (Seekühe)", "Klares Quellwasser", "Mündet in die Long Bay", "Naturschutzgebiet"],
@@ -421,13 +486,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Named after crocodiles that once inhabited it, though now famous for manatees.", "Home to one of the most stable and observable manatee populations in Jamaica.", "The water is a unique mix of freshwater from limestone springs and salty seawater.", "Features a visitor center in Canoe Valley dedicated to manatee lifestyle and protection.", "Supports numerous endemic bird species and rare marsh plants along its banks.", "Use of motorized boats is strictly prohibited to ensure the safety of the manatees.", "A primary research site for specialists focused on Caribbean marine mammal conservation.", "Includes designated viewing platforms for safe and non-intrusive wildlife observation."], de: ["Das Alligator Hole River Projekt wird von der NEPA zur Erhaltung der Manatees geleitet.", "Manatees sind friedliche Pflanzenfresser, die bis zu 500 kg wiegen können.", "Der Fluss ist nur wenige Kilometer lang und endet in der Long Bay (South Coast).", "Das Wasser ist so klar, dass man die Seekühe am Grund grasen sehen kann.", "Die Region ist von Trockenwald und Küstenmangroven umgeben.", "Der Eintritt in das Reservat unterstützt direkt die Schutzprogramme.", "Hier wurden spezielle Plattformen für die Tierbeobachtung errichtet.", "Die Seekühe in diesem Fluss sind oft so an Menschen gewöhnt, dass sie sich den Kanus nähern."], ro: ["Unul dintre puținele locuri din Caraibe unde pot fi văzuți manatini.", "Râul are ape incredibil de limpezi datorită filtrării prin nisip.", "Situat în cadrul Parcului Național Canoe Valley.", "Permite explorări liniștite cu canoea prin mangrove.", "Habitat protejat pentru manatinul din Indiile de Vest.", "Găzduiește crocodili americani și specii rare de pești.", "Include un centru educativ pentru vizitatori și cercetători.", "Vegetația de pe maluri este complet naturală și neinvadată."],
       hu: ["Az Alligator Hole folyó a nevét a benne élő krokodilokról kapta, de ma a lamantinokról híres.", "Itt él Jamaica egyik legstabilabb és legjobban megfigyelhető lamantin populációja.", "A folyó vize keveréke a mészkőhegyekből fakadó édesvíznek és a tenger sós vizének.", "A Canoe Valley-ben található látogatóközpont bemutatja a lamantinok életmódját és védelmét.", "A folyó mentén számos endemikus madárfaj és ritka mocsári növény figyelhető meg.", "A motoros csónakok használata tilos a lamantinok nyugalma és biztonsága érdekében.", "A terület fontos kutatóhelyszíne a karibi tengeri emlősök védelmével foglalkozó szakembereknek.", "Az Alligator Hole folyó partján kiépített kilátópontokról biztonságosan szemlélhető a vadvilág."]
-    }},
+    }
+  },
   {
     id: "long-mountain-nature-v2",
     type: "mountain",
     parent: "JM-14",
     coords: [-76.75, 18.00],
-    name: { de: "Long Mountain", hu: "Long Mountain", ro: "Muntele Long", en: "Long Mountain" },
+    name: { de: "Long Mountain", hu: "Long Mountain", ro: "Muntele Long", en: "Long Mountain",
+image: "/poi-images/long-mountain-nature-v2.webp"
+},
     description: { de: "Ein Bergrücken, der den östlichen Rand von Kingston bildet.", hu: "Egy hegygerinc, amely Kingston keleti szélét képezi.", ro: "O creastă muntoasă care formează marginea de est a Kingstonului.", en: "A mountain ridge that forms the eastern border of Kingston." },
     facts: {
       de: ["Trennt Kingston vom Landesinneren", "Trockenwald-Vegetation", "Wohngebiete an den Hängen", "Bietet Blick auf die Stadt"],
@@ -440,13 +508,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Reaches a maximum height of approximately 450 meters.", "Geologically composed of younger limestone than the neighboring mountain ranges.", "Hosts one of Jamaica's most significant 'dry forest' reserves.", "The hiking trails along the ridge are a favorite for Kingston's nature enthusiasts.", "Provides nesting sites for various rare bat species and nocturnal birds.", "Serves as a critical watershed for the eastern neighborhoods of Kingston.", "Contains several historical landmarks from the former Mona Estate on its slopes.", "Protection of the area is crucial for mitigating the urban heat island effect in the capital."], de: ["Long Mountain erreicht eine maximale Höhe von ca. 450 Metern.", "Der Berg besteht fast ausschließlich aus tertiärem Kalkstein.", "Hier befindet sich der berühmte 'Beverly Hills' Stadtteil von Kingston an den Westhängen.", "Der Berg ist ein Schlüsselgebiet für die Beobachtung des jamaikanischen Schleiereulen-Habitats.", "Auf dem Grat verläuft die Grenze zwischen Kingston und St. Andrew.", "In den Höhlen von Long Mountain wurden bedeutende archäologische Funde der Taino gemacht.", "Die Vegetation ist durch Trockenwald-Arten wie den Gumbo-Limbo-Baum geprägt.", "Vom Gipfel hat man den besten Blick auf den Norman Manley International Airport auf den Palisadoes."], ro: ["Altitudine maximă de aproximativ 450 de metri.", "Barieră naturală împotriva vânturilor puternice de sud-est.", "Găzduiește speciile endemice de cactus jamaican.", "Include trasee de drumeție populare pentru localnici.", "Oferă vederi spectaculoase asupra Campusului UWI Mona.", "Format integral din calcar alb poros de vârstă terțiară.", "Zonă critică pentru conservarea pădurii uscate tropicale.", "Include resturi de așezări indigene Taino pe crestele sale."],
       hu: ["A Long Mountain legmagasabb pontja körülbelül 450 méter.", "Geológiailag a hegység fiatalabb mészkőből áll, mint a szomszédos hegyek.", "Itt található Jamaica egyik legfontosabb 'száraz erdő' rezervátuma.", "A hegység gerincén futó túraösvények a kingstoni természetjárók kedvencei.", "A területen számos ritka denevérfaj és éjszakai madár fészkel.", "Long Mountain fontos vízgyűjtő terület Kingston keleti negyedei számára.", "A hegység lejtőin található az egykori Mona-birtok több történelmi emléke.", "A terület védelme kulcsfontosságú a városi hősziget-effektus mérséklésében."]
-    }},
+    }
+  },
   {
     id: "hope-river-nature-v2",
     type: "river",
     parent: "JM-14",
     coords: [-76.72, 17.98],
-    name: { de: "Hope River", hu: "Hope-folyó", ro: "Râul Hope", en: "Hope River" },
+    name: { de: "Hope River", hu: "Hope-folyó", ro: "Râul Hope", en: "Hope River",
+image: "/poi-images/hope-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der durch die östlichen Vororte von Kingston fließt.", hu: "Egy folyó, amely Kingston keleti külvárosain folyik keresztül.", ro: "Un râu care curge prin suburbiile estice ale Kingstonului.", en: "A river that flows through the eastern suburbs of Kingston." },
     facts: {
       de: ["Wichtige Wasserquelle für Kingston", "Staut sich zum Hope River Dam", "Fließt durch Gordon Town", "Beliebt für Freizeitaktivitäten"],
@@ -459,13 +530,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Enters the urban zone near Papine at the foot of the Blue Mountains.", "Fed the 18th-century Mona Aqueduct, which transported water to local estates.", "Empties into the sea near the Seventh Mile beach on the southern coast.", "Famous for the striking rock formations and deep valley of the Hope River Gorge.", "The river's catchment area is one of Jamaica's most protected forested zones.", "During heavy rains, the river can become extremely fast-moving and powerful.", "The gardens along its banks contain numerous rare tropical tree species and flowers.", "Management of the river is fundamental to Kingston's flood protection strategy."], de: ["Der Hope River speist das Mona-Reservoir, Kingstons wichtigsten Wasserspeicher.", "Das historische Hope Aquädukt von 1758 ist teilweise noch heute sichtbar.", "Der Fluss mündet im Osten von Kingston in der Nähe von Harbour View ins Meer.", "Nach starken Regenfällen verwandelt sich der Fluss oft in einen reißenden Strom.", "Das Tal des Hope River beherbergt zahlreiche seltene tropische Harthölzer.", "Entlang des Flusses wurden einige der ersten Kaffeeplantagen Jamaikas angelegt.", "Die Region Hope Pastures erhielt ihren Namen von den Weideflächen am Fluss.", "An seinen Ufern finden sich oft Fossilien im kalkhaltigen Gestein."], ro: ["A alimentat prima rețea de apă a Kingstonului din sec. XVIII.", "Izvorăște de la o altitudine de peste 1.200 de metri.", "Include apeducte istorice de piatră încă vizibile pe cursul său.", "Vărsare în Marea Caraibelor la est de Aeroportul KIN.", "Bazinul hidrografic este protejat pentru a preveni eroziunea.", "Popular pentru drumeții și scăldat în zonele de munte.", "Susține vegetația luxuriantă a grădinilor botanice naționale.", "Un indicator critic al sănătății ecologice a regiunii St. Andrew."],
       hu: ["A Hope-folyó a Blue Mountains lábánál, Papine közelében lép be a városi övezetbe.", "Az 1700-as években épült Mona-vízvezeték is ebből a folyóból szállította a vizet.", "A folyó torkolata a Seventh Mile strand közelében található a déli parton.", "Híres a 'Hope River Gorge' látványos kőformációiról és mély völgyéről.", "A folyó vízgyűjtő területe Jamaica egyik legvédettebb erdős övezete.", "Heves esőzések idején a folyó rendkívül sebes és pusztító erejű lehet.", "A folyó menti kertekben számos ritka trópusi fafaj és virág található.", "A Hope-folyó kezelése alapvető Kingston árvízvédelmi stratégiájában."]
-    }},
+    }
+  },
     {
     id: "canoe-valley-wetlands-nature-v2",
     type: "forest",
     parent: "JM-12",
     coords: [-77.45, 17.85],
-    name: { de: "Canoe Valley Feuchtgebiete", hu: "Canoe Valley vizes élőhelyek", ro: "Zonele umede din Valea Canoe", en: "Canoe Valley Wetlands" },
+    name: { de: "Canoe Valley Feuchtgebiete", hu: "Canoe Valley vizes élőhelyek", ro: "Zonele umede din Valea Canoe", en: "Canoe Valley Wetlands",
+image: "/poi-images/canoe-valley-wetlands-nature-v2.webp"
+},
     description: { de: "Ein geschütztes Feuchtgebiet in Clarendon und Manchester.", hu: "Védett vizes élőhely Clarendonban és Manchesterben.", ro: "Canoe Valley este o zonă umedă de coastă fascinantă, unde izvoarele de apă dulce întâlnesc marea, creând un peisaj pitoresc.", en: "A protected wetland area in Clarendon and Manchester." },
     facts: {
       de: ["Ramsar-Schutzgebiet", "Lebensraum für Krokodile und Vögel", "Mangroven und Sumpfwälder", "Wichtig für die Fischerei"],
@@ -478,13 +552,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Spans over 10,000 hectares within the Canoe Valley Protected Area.", "Recognized as Jamaica's primary habitat for the West Indian manatee.", "The limestone cliffs and caves in the area are homes to rare bat species.", "The wetlands form an important defensive barrier against coastal erosion.", "Famous for the 'Two Rivers' meeting point, where fresh and salt water blend.", "Home to several endemic species of Jamaican aquatic plants.", "Designated as a priority site within the international BirdLife network (IBA).", "Conservation wardens continuously monitor the development of the manatee population."], de: ["Canoe Valley liegt zwischen Milk River und Alligator Pond.", "Die Region ist Teil eines größeren Küstenschutzprogramms für Manatees.", "Hier entspringen die berühmten 'Blue Holes', tiefe Süßwasserquellen im Sumpf.", "Die Wetlands dienen als natürlicher Schutz gegen Küstenerosion bei Hurrikanen.", "Besucher können das Gebiet oft nur mit kleinen Ruderbooten befahren.", "Das Feuchtgebiet beherbergt seltene Sumpf-Orchideenarten.", "In der Nähe befinden sich archäologische Stätten der Taino-Indianer.", "Canoe Valley ist ein Hotspot für die Beobachtung von wandernden Fischadlern im Winter."], ro: ["Inclusă în Parcul Național Canoe Valley.", "Principalul sanctuar pentru protejarea manatinilor în Jamaica.", "Include râul Alligator Hole cu apele sale cristaline.", "Zonă de cuibărit pentru numeroase păsări marine rare.", "Vegetația cuprinde mangrove roșii gigantice.", "Apele izvoarelor sunt utilizate local pentru proprietăți curative.", "O arie de studiu prioritară pentru ecologii marini.", "Acces controlat pentru a minimiza deranjul faunei sălbatice."],
       hu: ["A Canoe Valley Védett Terület több mint 10 000 hektáron fekszik.", "Ez Jamaica egyik legfontosabb élőhelye a nyugat-indiai manátuszoknak.", "A területen található mészkősziklák és barlangok ritka denevérfajok otthonai.", "A vizes élőhely fontos védelmi gátat alkot a tengeri erózió ellen.", "Híres a 'Two Rivers' találkozásáról, ahol az édes és a sós víz keveredik.", "A Canoe Valley-ben számos endemikus jamaicai vízinövény faj él.", "A terület a nemzetközi madárvédelmi hálózat (IBA) kiemelt pontja.", "A természetvédelmi őrök folyamatosan monitorozzák a lamantin-populáció fejlődését."]
-    }},
+    }
+  },
   {
     id: "pedro-bluff-nature-v2",
     type: "sea",
     parent: "JM-02",
     coords: [-77.75, 17.85],
-    name: { de: "Pedro Bluff", hu: "Pedro-szikla", ro: "Faleza Pedro", en: "Pedro Bluff" },
+    name: { de: "Pedro Bluff", hu: "Pedro-szikla", ro: "Faleza Pedro", en: "Pedro Bluff",
+image: "/poi-images/pedro-bluff-nature-v2.webp"
+},
     description: { de: "Eine Reihe von Klippen an der Südküste von St. Elizabeth.", hu: "Sziklasorozat St. Elizabeth déli partján.", ro: "O serie de stânci pe coasta de sud a St. Elizabeth.", en: "A series of cliffs on the south coast of St. Elizabeth." },
     facts: {
       de: ["Dramatische Küstenklippen", "Trockene, savannenähnliche Landschaft", "Blick auf das Karibische Meer", "In der Nähe von Treasure Beach"],
@@ -497,13 +574,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["The cliffs of Pedro Bluff rise more than 60 meters directly above the sea.", "Significant pre-Columbian Taino ceramic and stone artifacts have been found in its caves.", "A distinctive, drought-tolerant karst vegetation has developed on the cliff tops.", "Serves as an important navigation point for south coast fishermen and sailors.", "The area is free from light pollution, making it an excellent spot for stargazing.", "Some of Jamaica's best wild turtle nesting beaches are located near Pedro Bluff.", "The sea at the base of the cliffs is exceptionally deep with rich aquatic life.", "Represents the southernmost and most rugged point of the Treasure Beach region."], de: ["Pedro Bluff ragt stellenweise über 150 Meter fast vertikal aus dem Meer empor.", "In den Klippen befinden sich bedeutende Höhlen mit Taino-Relikten.", "Die Region um Pedro Bluff ist bekannt für ihre reiche Fischerei (Pedro Banks).", "Der Ort ist ein wichtiger Orientierungspunkt für die Schifffahrt an der Südküste.", "Die Vegetation besteht aus xerophytischem Buschland und Kakteen.", "Pedro Bluff ist oft starken Passatwinden ausgesetzt.", "Wanderwege führen entlang der Klippenkante und bieten atemberaubende fotomotive.", "Die Klippen bestehen aus sehr hartem, altem Korallenkalkstein."], ro: ["Cel mai proeminent promontoriu de pe coasta de sud.", "Altitudine de peste 100 de metri deasupra nivelului mării.", "Reper de navigație vital pentru navele care traversează Caraibele.", "Habitat pentru iguane de coastă și șopârle endemice.", "Vegetația include arbori de 'Lignum Vitae' și cactuși rari.", "Oferă o vedere panoramică spre bancurile de corali Pedro Banks.", "Zonă expusă direct forței uraganelor din sud.", "Importanță geologică pentru studiul formării platformei insulare."],
       hu: ["A Pedro Bluff sziklái több mint 60 méter magasak közvetlenül a tenger felett.", "A környék barlangjaiban jelentős prekolumbián Taino kerámia- és kőleleteket találtak.", "A sziklák tetején jellegzetes, szárazságtűrő karsztnövényzet alakult ki.", "Fontos navigációs pont a déli parti halászok és tengerészek számára.", "A terület mentes a fényszennyezéstől, így kiváló csillagászati megfigyelőhely.", "A Pedro Bluff közelében találhatók Jamaica legjobb vadon élő teknősfészkelő strandjai.", "A sziklák falánál a tenger rendkívül mély, gazdag vízi élővilággal.", "A terület a Treasure Beach régió legdélibb, legvadregényesebb pontja."]
-    }},
+    }
+  },
   {
     id: "glistening-waters-nature-v2",
     type: "lake",
     parent: "JM-07",
     coords: [-77.63, 18.48],
-    name: { de: "Glistening Waters", hu: "Glistening Waters (Világító lagúna)", ro: "Apele Scânteietoare", en: "Glistening Waters" },
+    name: { de: "Glistening Waters", hu: "Glistening Waters (Világító lagúna)", ro: "Apele Scânteietoare", en: "Glistening Waters",
+image: "/poi-images/glistening-waters-nature-v2.webp"
+},
     description: { de: "Eine Lagune in der Nähe von Falmouth, die nachts durch Biolumineszenz leuchtet.", hu: "Egy lagúna Falmouth közelében, amely éjjel a biolumineszcencia miatt világít.", ro: "O lagună lângă Falmouth care strălucește noaptea datorită bioluminiscenței.", en: "A lagoon near Falmouth that glows at night due to bioluminescence." },
     facts: {
       de: ["Biolumineszente Mikroorganismen", "Nachttouren sind beliebt", "Einer von wenigen Orten weltweit", "Wo Süß- und Salzwasser aufeinandertreffen"],
@@ -516,13 +596,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["One of the few places in the world where bioluminescence is observable year-round.", "The glow is caused by single-celled organisms called Pyrodinium bahamense.", "The water is shallow and warm, which favors the proliferation of these microorganisms.", "Located at the confluence where the Martha Brae River meets the Caribbean Sea.", "Nightly boat tours are organized for visitors, and swimming in the glowing water is permitted.", "The intensity of the bioluminescence depends on rainfall and moon phases.", "Under strict environmental regulations to preserve the delicate water quality.", "One of Jamaica's most photographed and unique tourist attractions."], de: ["Die Biolumineszenz wird durch das Leuchten von Dinoflagellaten der Gattung Pyrodinium bahamense erzeugt.", "Die Luminous Lagoon in Jamaika gilt als der hellste Ort dieser Art auf der Welt.", "Das Leuchten ist eine Verteidigungsreaktion der Organismen auf Bewegung im Wasser.", "Die Lagune ist an den meisten Stellen nur etwa 1 bis 2 Meter tief.", "Das Phänomen ist das ganze Jahr über zu beobachten, am besten in dunklen Neumondnächten.", "Die Mangroven rund um die Lagune spielen eine wichtige Rolle für den Nährstoffhaushalt der Organismen.", "Besucher können vom Glistening Waters Hotel in Falmouth aus Bootstouren starten.", "Das Schwimmen im leuchtenden Wasser gilt als absolut sicher und ist ein Höhepunkt der Tour."], ro: ["Una dintre cele mai strălucitoare lagune bioluminescente de pe glob.", "Fenomen cauzat de concentrația mare de dinoflagelate (Pyrodinium bahamense).", "Luminozitatea crește în perioadele cu temperaturi ridicate ale apei.", "Laguna are o adâncime medie de numai 2-3 metri.", "Nod ecologic unde se întâlnesc apele râului Martha Brae cu marea.", "Tururile cu barca se desfășoară exclusiv după apusul soarelui.", "O experiență rară, întâlnită doar în alte 3-4 locuri de pe pământ.", "Esențială pentru conservarea habitatelor de mangrove locale."],
       hu: ["Ez az öböl a világ azon kevés helyének egyike, ahol a biolumineszcencia egész évben megfigyelhető.", "A fénylést a Pyrodinium bahamense nevű egysejtű organizmusok okozzák.", "A víz sekély és meleg, ami kedvez a mikroorganizmusok elszaporodásának.", "Az öböl ott található, ahol a Martha Brae folyó találkozik a tengerrel.", "A látogatók számára éjszakai csónaktúrákat szerveznek, és úszni is lehet a fénylő vízben.", "A biolumineszcencia intenzitása függ a csapadékmennyiségtől és a holdfázistól is.", "A terület szigorú környezetvédelmi szabályozás alatt áll a vízminőség megőrzése érdekében.", "A Glistening Waters Jamaica egyik legtöbbet fotózott és legkülönlegesebb turisztikai látványossága."]
-    }},
+    }
+  },
   {
     id: "alligator-pond-river-nature-v2",
     type: "river",
     parent: "JM-02",
     coords: [-77.58, 17.86],
-    name: { de: "Alligator Pond River", hu: "Alligator Pond-folyó", ro: "Râul Alligator Pond", en: "Alligator Pond River" },
+    name: { de: "Alligator Pond River", hu: "Alligator Pond-folyó", ro: "Râul Alligator Pond", en: "Alligator Pond River",
+image: "/poi-images/alligator-pond-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der in das Fischerdorf Alligator Pond an der Grenze zwischen Manchester und St. Elizabeth mündet.", hu: "Egy folyó, amely az Alligator Pond halászfaluba ömlik Manchester és St. Elizabeth határán.", ro: "Un râu care se varsă în satul pescăresc Alligator Pond, la granița dintre Manchester și St. Elizabeth.", en: "A river that empties into the fishing village of Alligator Pond on the border of Manchester and St. Elizabeth." },
     facts: {
       de: ["Wichtige Wasserquelle für die Region", "Unterstützt ein großes Fischerdorf", "Mündet in die Long Bay", "Grenze zwischen zwei Parishes"],
@@ -535,13 +618,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Despite the name, crocodiles are now rarely seen in the immediate vicinity.", "Famous for ice-cold spring water that flows directly onto the hot sandy beach.", "The beach at Alligator Pond is one of Jamaica's largest artisanal fishing ports.", "Situated adjacent to the Canoe Valley Nature Conservation Park.", "Numerous small caves and crevices are found within the coastal cliffs.", "A favorite spot for weekend family picnics and enjoying fresh seafood.", "The river's estuary is an important spawning ground for several marine fish species.", "Free from large hotel complexes, preserving the island's original face."], de: ["Alligator Pond ist bekannt als das Zentrum für 'Fried Fish and Bammy' an der Südküste.", "Der Ort markiert die Grenze zwischen den Parochien Manchester und St. Elizabeth.", "Der Strand besteht aus dunklem, vulkanischem Sand, der Wärme speichert.", "Little Ochie ist eines der berühmtesten Fischrestaurants in der gesamten Karibik.", "Die Fischer von Alligator Pond fahren oft meilenweit hinaus zu den Pedro Banks.", "Der kleiner Fluss bietet eine erfrischende Süßwasserquelle direkt am Strand.", "In der Nähe befinden sich die Dünen von Alligator Pond, ein seltenes geologisches Merkmal.", "Der Sonnenuntergang über der Bucht von Alligator Pond gilt als einer der schönsten der Insel."], ro: ["Cunoscut pentru 'The River', un bazin natural de înot lângă mare.", "Apele izvorăsc din calcarul muntos din interior.", "Vărsare într-o plajă spectaculoasă cu nisip vulcanic.", "Numele provine de la forma stâncilor care amintesc de crocodili.", "Centru major pentru pescuitul de homari și pește de recif.", "Include ecosisteme de dune de coastă protejate.", "Popular pentru experiențe gastronomice cu fructe de mare.", "O alternativă liniștită la coasta de nord industrializată."],
       hu: ["A folyó neve ellenére ma már ritkán látni krokodilokat a környéken.", "Híres a jéghideg forrásvizéről, amely közvetlenül a forró homokos part mellett folyik.", "Az Alligator Pond-i strand Jamaica egyik legnagyobb kézműves halászkikötője.", "A terület a Canoe Valley Természetvédelmi Park szomszédságában fekszik.", "A tengerparti sziklákban számos kisebb barlang és üreg található.", "Kedvelt helyszíne a hétvégi családi piknikeknek és a friss tengeri ételek fogyasztásának.", "A folyó torkolata fontos ívóhelye több tengeri halfajnak.", "Az Alligator Pond környéke mentes a nagy szállodakomplexumoktól, megőrizve a sziget eredeti arcát."]
-    }},
+    }
+  },
   {
     id: "somerset-falls-nature-v2",
     type: "river",
     parent: "JM-04",
     coords: [-76.48, 18.20],
-    name: { de: "Somerset Falls", hu: "Somerset-vízesés", ro: "Cascadele Somerset", en: "Somerset Falls" },
+    name: { de: "Somerset Falls", hu: "Somerset-vízesés", ro: "Cascadele Somerset", en: "Somerset Falls",
+image: "/poi-images/somerset-falls-nature-v2.webp"
+},
     description: { de: "Eine Reihe von Wasserfällen am Daniels River, versteckt in einem Regenwald in Portland.", hu: "Vízesések sorozata a Daniels folyón, egy portlandi esőerdőben elrejtve.", ro: "O serie de cascade pe râul Daniels, ascunse într-o pădure tropicală din Portland.", en: "A series of waterfalls on the Daniels River, hidden in a rainforest in Portland." },
     facts: {
       de: ["Versteckte Wasserfälle", "Bootsfahrt zum Hauptfall", "Üppige tropische Gärten", "Ruhige und malerische Umgebung"],
@@ -554,13 +640,16 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Located on the grounds of a former large sugarcane plantation.", "The 'Hidden Falls' is accessible only by boat through the main river channel.", "The water is exceptionally clear and cool, ideal for refreshing bathing.", "Rare tropical ferns and orchids grow on the rocks surrounding the waterfalls.", "Numerous exotic bird species, including parrots, can be observed in the area.", "One of Jamaica's oldest and most beloved natural attractions.", "Several smaller natural swimming pools have been developed along the river.", "Renowned for its peaceful and respectful atmosphere."], de: ["Somerset Falls liegen am Daniels River in der Nähe von Hope Bay.", "Der Bootsausflug zu den 'Hidden Falls' ist im Eintrittspreis enthalten.", "Die Wasserfälle befinden sich auf einer ehemaligen Kakao- und Indigo-Plantage.", "Die Schlucht wurde über Jahrtausende durch die Erosionskraft des Wassers geformt.", "In den Pools unter den Wasserfällen kann man schwimmen und tauchen.", "Portland ist die regenreichste Region Jamaikas, was die Fälle das ganze Jahr über sprudeln lässt.", "Die Vegetation umfasst seltene wilde Orchideen und Bromelien.", "Somerset Falls ist ein beliebter Drehort für romantische Filmszenen und Musikvideos."], ro: ["Cascada principală este situată într-o grotă naturală.", "Accesul la 'Hidden Falls' se face exclusiv cu barca cu ghid.", "Râul Daniels creează bazine adânci și liniștite pentru înot.", "Situată pe terenul unei foste plantații coloniale de cacao și banane.", "Grădinile sunt un refugiu pentru fluturi și păsări colibri.", "Apele au o nuanță distinctă de albastru-verzui datorită calcarului.", "Punct de oprire pitoresc pe ruta între Ocho Rios și Port Antonio.", "Echipată cu facilități moderne pentru picnic și relaxare."],
       hu: ["A vízesés egy egykori nagy cukornádültetvény területén található.", "A 'Hidden Falls' csak csónakkal érhető el a fő folyómedren keresztül.", "A víz rendkívül tiszta és hűvös, ideális a frissítő fürdőzésre.", "A vízesések körüli sziklákban ritka trópusi páfrányok és orchideák élnek.", "A területen számos egzotikus madárfaj, köztük papagájok is megfigyelhetők.", "A Somerset Falls Jamaica egyik legrégebbi és legkedveltebb természeti látványossága.", "A folyó mentén több kisebb természetes úszómedencét is kialakítottak a látogatóknak.", "A helyszín híres a békés és tiszteletteljes atmoszférájáról."]
-    }},
+    }
+  },
   {
     id: "roaring-river-nature-v2",
     type: "river",
     parent: "JM-03",
     coords: [-78.10, 18.28],
-    name: { de: "Roaring River", hu: "Roaring River", ro: "Râul Roaring", en: "Roaring River" },
+    name: { de: "Roaring River", hu: "Roaring River", ro: "Râul Roaring", en: "Roaring River",
+image: "/poi-images/roaring-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss in Westmoreland, bekannt für seine Höhlen und den Park.", hu: "Folyó Westmorelandben, amely barlangjairól és parkjáról ismert.", ro: "Un râu în Westmoreland, cunoscut pentru peșterile și parcul său.", en: "A river in Westmoreland known for its caves and park." },
     facts: {
       de: ["Fließt teilweise unterirdisch", "Roaring River Park mit botanischem Garten", "Kalksteinhöhlen zum Erkunden", "Klares, kühles Wasser"],
@@ -574,6 +663,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     },
     factsAdvanced: { en: ["Located on the former estate of William Beckford, an 18th-century British planter.", "The pools within the cave system are said to have healing properties.", "Home to one of Jamaica's largest and oldest Silk Cotton Trees.", "A successful example of community-based tourism on the island.", "Rare karst formations and bat colonies can be observed within the caves.", "Roaring River's water was once used to power local sugar mills.", "Famous for its rich ethnographic traditions and herbal medicine.", "The river valley is one of the country's most important botanical collecting sites."], de: ["Roaring River liegt in der Nähe der kleinen Stadt Petersfield in Westmoreland.", "Die Hauptquelle sprudelt mit einer Kapazität von über 10.000 Litern pro Minute aus dem Fels.", "In den Höhlen wurden Reste von Zeremonialstätten der Taino gefunden.", "Die Zuckerplantage Roaring River gehörte einst der familie Beckford.", "Das Wasser gilt aufgrund seines Mineralgehalts als heilend für Haut und Gelenke.", "Lokale Guides führen Besucher durch das Labyrinth der Höhlensysteme.", "Der umliegende Garten beherbergt seltene Exemplare der jamaikanischen Nationalblume.", "In der Nähe befindet sich ein Blue Hole, ein tiefes, kreisförmiges Wasserbecken."], ro: ["Sursă majoră de apă subterană care alimentează parohia Westmoreland.", "Include peșteri spectaculoase cu bazine de apă minerală rece.", "Apele sunt bogate în magneziu și sulf, având proprietăți curative.", "Situat pe locul unei foste plantații de zahăr din sec. XVIII.", "Grădinile adăpostesc arbori 'Cotton Tree' gigantici și seculari.", "Cunoscut pentru albastrul intens al bazinului principal 'Blue Hole'.", "Un model de turism bazat pe patrimoniu natural și comunitar.", "Atracție esențială pentru iubitorii de geologie și wellness."],
       hu: ["A folyó egy egykori brit ültetvényes, William Beckford birtokán található.", "A barlangrendszerben található medencék vize állítólag gyógyhatású.", "Itt található Jamaica egyik legnagyobb és legöregebb pamut fája (Cotton Tree).", "A terület a közösségi alapú turizmus egyik sikeres példája a szigeten.", "A barlangokban ritka karsztképződmények és denevérkolóniák figyelhetők meg.", "A Roaring River vizét egykor cukormalmok meghajtására használták.", "A környék híres a gazdag néprajzi hagyományairól és a gyógyfüves orvoslásról.", "A folyó völgye az ország egyik legfontosabb botanikai gyűjtőhelye."]
-    }}
+    }
+  }
 ];
 

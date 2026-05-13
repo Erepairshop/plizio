@@ -6,7 +6,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "lake",
     parent: "IL-D",
     coords: [35.45, 31.5],
-    name: { de: "Totes Meer", hu: "Holt-tenger", ro: "Marea Moartă", en: "Dead Sea" },
+    name: { de: "Totes Meer", hu: "Holt-tenger", ro: "Marea Moartă", en: "Dead Sea",
+image: "/poi-images/il-dead-sea-nature-v2.webp"
+},
     description: {
       de: "Das Tote Meer ist ein abflussloser Salzsee, der an der tiefsten Landstelle der Erde liegt und für seinen extrem hohen Salzgehalt berühmt ist.",
       hu: "A Holt-tenger egy lefolyástalan sós tó a Föld legmélyebb szárazföldi pontján, amely extrém magas sótartalmáról híres.",
@@ -24,7 +26,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "lake",
     parent: "IL-Z",
     coords: [35.58, 32.83],
-    name: { de: "See Genezareth", hu: "Galileai-tenger", ro: "Marea Galileei", en: "Sea of Galilee" },
+    name: { de: "See Genezareth", hu: "Galileai-tenger", ro: "Marea Galileei", en: "Sea of Galilee",
+image: "/poi-images/il-sea-of-galilee-nature-v2.webp"
+},
     description: {
       de: "Der See Genezareth ist der tiefstgelegene Süßwassersee der Erde und hat eine große historische und religiöse Bedeutung im Christentum.",
       hu: "A Galileai-tenger a Föld legalacsonyabban fekvő édesvizű tava, amely hatalmas történelmi és vallási jelentőséggel bír a kereszténységben.",
@@ -42,7 +46,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "mountain",
     parent: "IL-Z",
     coords: [35.78, 33.3],
-    name: { de: "Berg Hermon", hu: "Hermon-hegy", ro: "Muntele Hermon", en: "Mount Hermon" },
+    name: { de: "Berg Hermon", hu: "Hermon-hegy", ro: "Muntele Hermon", en: "Mount Hermon",
+image: "/poi-images/il-mount-hermon-nature-v2.webp"
+},
     description: {
       de: "Der Berg Hermon ist das höchste Gebirge in Israel und bietet im Winter das einzige Skigebiet des Landes.",
       hu: "A Hermon-hegy Izrael legmagasabb hegysége, amely télen az ország egyetlen síterepének ad otthont.",
@@ -60,7 +66,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "river",
     parent: "IL-Z",
     coords: [35.56, 32.0],
-    name: { de: "Jordan", hu: "Jordán folyó", ro: "Râul Iordan", en: "Jordan River" },
+    name: { de: "Jordan", hu: "Jordán folyó", ro: "Râul Iordan", en: "Jordan River",
+image: "/poi-images/il-jordan-river-nature-v2.webp"
+},
     description: {
       de: "Der Jordan ist ein historisch und religiös bedeutender Fluss, der durch das Jordantal fließt und in das Tote Meer mündet.",
       hu: "A Jordán folyó történelmi és vallási szempontból is jelentős folyó, amely a Jordán-völgyön keresztül folyik és a Holt-tengerbe ömlik.",
@@ -78,7 +86,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "national-park",
     parent: "IL-D",
     coords: [35.39, 31.46],
-    name: { de: "Nationalpark En Gedi", hu: "Én-Gedi Nemzeti Park", ro: "Parcul Național Ein Gedi", en: "Ein Gedi Nature Reserve" },
+    name: { de: "Nationalpark En Gedi", hu: "Én-Gedi Nemzeti Park", ro: "Parcul Național Ein Gedi", en: "Ein Gedi Nature Reserve",
+image: "/poi-images/il-ein-gedi-nature-v2.webp"
+},
     description: {
       de: "En Gedi ist eine grüne Oase in der Judäischen Wüste mit Wasserfällen, Quellen und einer reichen Tierwelt nahe dem Toten Meer.",
       hu: "Én-Gedi egy zöldellő oázis a Júdeai-sivatagban, amely vízeséseivel, forrásaival és gazdag vadvilágával a Holt-tenger közelében található.",
@@ -96,7 +106,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "mountain",
     parent: "IL-HA",
     coords: [35.03, 32.73],
-    name: { de: "Karmelgebirge", hu: "Kármel-hegy", ro: "Muntele Carmel", en: "Mount Carmel" },
+    name: { de: "Karmelgebirge", hu: "Kármel-hegy", ro: "Muntele Carmel", en: "Mount Carmel",
+image: "/poi-images/il-mount-carmel-nature-v2.webp"
+},
     description: {
       de: "Das Karmelgebirge ist ein grüner Küstengebirgszug im Nordwesten Israels, der für seine dichten Wälder und reiche Flora bekannt ist.",
       hu: "A Kármel-hegy egy zöldellő tengerparti hegység Izrael északnyugati részén, amely sűrű erdeiről és gazdag növényvilágáról ismert.",
@@ -114,7 +126,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "forest",
     parent: "IL-Z",
     coords: [35.68, 32.92],
-    name: { de: "Naturschutzgebiet Jehudija", hu: "Jehudija Erdőrezervátum", ro: "Rezervația Yehudiya", en: "Yehudiya Forest Reserve" },
+    name: { de: "Naturschutzgebiet Jehudija", hu: "Jehudija Erdőrezervátum", ro: "Rezervația Yehudiya", en: "Yehudiya Forest Reserve",
+image: "/poi-images/il-yehudiya-forest-nature-v2.webp"
+},
     description: {
       de: "Dieses Reservat in den Golanhöhen umfasst tiefe Schluchten, Eichenwälder und den berühmten Hexagon-Pool mit seinen Basaltsäulen.",
       hu: "Ez a Golán-fennsíkon található rezervátum mély szurdokokat, tölgyerdőket és a híres, bazaltoszlopokkal övezett Hatszögletű-medencét foglalja magában.",
@@ -132,7 +146,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "national-park",
     parent: "IL-Z",
     coords: [35.69, 33.24],
-    name: { de: "Banias-Naturschutzgebiet", hu: "Baniasz Nemzeti Park", ro: "Parcul Național Banias", en: "Banias Nature Reserve" },
+    name: { de: "Banias-Naturschutzgebiet", hu: "Baniasz Nemzeti Park", ro: "Parcul Național Banias", en: "Banias Nature Reserve",
+image: "/poi-images/il-banias-nature-v2.webp"
+},
     description: {
       de: "Banias ist bekannt für seine sprudelnden Quellen, antiken Ruinen und einen beeindruckenden Wasserfall an den Hängen des Hermon.",
       hu: "Baniasz a Hermon-hegy lejtőin fakadó bővizű forrásairól, ókori romjairól és lenyűgöző vízeséséről híres.",
@@ -150,7 +166,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "river",
     parent: "IL-TA",
     coords: [34.77, 32.1],
-    name: { de: "Jarkon-Fluss", hu: "Jarkon folyó", ro: "Râul Yarkon", en: "Yarkon River" },
+    name: { de: "Jarkon-Fluss", hu: "Jarkon folyó", ro: "Râul Yarkon", en: "Yarkon River",
+image: "/poi-images/il-yarkon-river-nature-v2.webp"
+},
     description: {
       de: "Der Jarkon ist ein Küstenfluss, der durch das Zentrum von Tel Aviv fließt und von einem weitläufigen Stadtpark gesäumt wird.",
       hu: "A Jarkon egy tengerparti folyó, amely Tel-Aviv központján folyik keresztül, partjait egy hatalmas városi park szegélyezi.",
@@ -168,7 +186,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "mountain",
     parent: "IL-Z",
     coords: [35.41, 32.99],
-    name: { de: "Berg Meron", hu: "Meron-hegy", ro: "Muntele Meron", en: "Mount Meron" },
+    name: { de: "Berg Meron", hu: "Meron-hegy", ro: "Muntele Meron", en: "Mount Meron",
+image: "/poi-images/il-mount-meron-nature-v2.webp"
+},
     description: {
       de: "Der Berg Meron in Galiläa ist der höchste Berg, der vollständig innerhalb der international anerkannten Grenzen Israels liegt.",
       hu: "A galileai Meron-hegy a legmagasabb olyan csúcs, amely teljes egészében Izrael nemzetközileg elismert határain belül fekszik.",
@@ -186,7 +206,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "national-park",
     parent: "IL-Z",
     coords: [35.61, 33.1],
-    name: { de: "Hula-Naturschutzgebiet", hu: "Hula-völgy Nemzeti Park", ro: "Rezervația Hula", en: "Hula Nature Reserve" },
+    name: { de: "Hula-Naturschutzgebiet", hu: "Hula-völgy Nemzeti Park", ro: "Rezervația Hula", en: "Hula Nature Reserve",
+image: "/poi-images/il-hula-valley-nature-v2.webp"
+},
     description: {
       de: "Das Hula-Tal ist ein Feuchtgebiet von globaler Bedeutung, das Millionen von Zugvögeln auf ihrer Reise zwischen Europa und Afrika als Rastplatz dient.",
       hu: "A Hula-völgy egy globális jelentőségű vizenyős terület, amely vándormadarak millióinak szolgál pihenőhelyül az Európa és Afrika közötti útjukon.",
@@ -204,7 +226,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "forest",
     parent: "IL-HA",
     coords: [35.01, 32.71],
-    name: { de: "Karmel-Wald", hu: "Kármel-erdő", ro: "Pădurea Carmel", en: "Carmel Forest" },
+    name: { de: "Karmel-Wald", hu: "Kármel-erdő", ro: "Pădurea Carmel", en: "Carmel Forest",
+image: "/poi-images/il-carmel-forest-nature-v2.webp"
+},
     description: {
       de: "Der Karmel-Wald ist das größte Waldgebiet Israels, das sich über das Karmelgebirge erstreckt und für seine Pinien- und Eichenbestände bekannt ist.",
       hu: "A Kármel-erdő Izrael legnagyobb összefüggő erdősége, amely a Kármel-hegységen húzódik végig, és fenyő- valamint tölgyfáiról ismert.",
@@ -222,7 +246,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "river",
     parent: "IL-Z",
     coords: [35.65, 33.24],
-    name: { de: "Dan", hu: "Dán folyó", ro: "Râul Dan", en: "Dan River" },
+    name: { de: "Dan", hu: "Dán folyó", ro: "Râul Dan", en: "Dan River",
+image: "/poi-images/il-dan-river-nature-v2.webp"
+},
     description: {
       de: "Der Dan ist der größte Quellfluss des Jordan, der aus starken, eiskalten Quellen im Norden des Landes entspringt.",
       hu: "A Dán a Jordán legnagyobb forrásfolyója, amely az ország északi részén található bővizű, jéghideg forrásokból ered.",
@@ -240,7 +266,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "mountain",
     parent: "IL-Z",
     coords: [35.49, 32.82],
-    name: { de: "Berg Arbel", hu: "Arbel-hegy", ro: "Muntele Arbel", en: "Mount Arbel" },
+    name: { de: "Berg Arbel", hu: "Arbel-hegy", ro: "Muntele Arbel", en: "Mount Arbel",
+image: "/poi-images/il-mount-arbel-nature-v2.webp"
+},
     description: {
       de: "Der Berg Arbel erhebt sich mit steilen Klippen über dem See Genezareth und bietet eine spektakuläre Aussicht auf die gesamte Region Galiläa.",
       hu: "Az Arbel-hegy meredek szikláival magasodik a Galileai-tenger fölé, lenyűgöző kilátást nyújtva egész Galileára.",
@@ -258,7 +286,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "forest",
     parent: "IL-D",
     coords: [35.06, 31.34],
-    name: { de: "Jatir-Wald", hu: "Jatir-erdő", ro: "Pădurea Yatir", en: "Yatir Forest" },
+    name: { de: "Jatir-Wald", hu: "Jatir-erdő", ro: "Pădurea Yatir", en: "Yatir Forest",
+image: "/poi-images/il-yatir-forest-nature-v2.webp"
+},
     description: {
       de: "Der Jatir-Wald ist der größte künstlich angelegte Wald in Israel und liegt am Rande der Negev-Wüste.",
       hu: "A Jatir-erdő Izrael legnagyobb mesterségesen telepített erdeje, amely a Negev-sivatag peremén fekszik.",
@@ -276,7 +306,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "national-park",
     parent: "IL-Z",
     coords: [35.62, 33.22],
-    name: { de: "Snir-Naturschutzgebiet", hu: "Snir Nemzeti Park", ro: "Rezervația Snir", en: "Snir Stream Nature Reserve" },
+    name: { de: "Snir-Naturschutzgebiet", hu: "Snir Nemzeti Park", ro: "Rezervația Snir", en: "Snir Stream Nature Reserve",
+image: "/poi-images/il-snir-stream-nature-v2.webp"
+},
     description: {
       de: "Der Snir-Bach (Hasbani) bietet das ganze Jahr über fließendes Wasser und ist von dichten, dschungelartigen Wäldern umgeben.",
       hu: "A Snir-patak (Hasbani) egész évben bővizű, és sűrű, dzsungelszerű erdők veszik körül az északi országrészben.",
@@ -294,7 +326,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "lake",
     parent: "IL-Z",
     coords: [35.76, 33.23],
-    name: { de: "Ram-See", hu: "Ram-tó", ro: "Lacul Ram", en: "Lake Ram" },
+    name: { de: "Ram-See", hu: "Ram-tó", ro: "Lacul Ram", en: "Lake Ram",
+image: "/poi-images/il-lake-ram-nature-v2.webp"
+},
     description: {
       de: "Der Ram-See ist ein malerischer Kratersee vulkanischen Ursprungs in den nördlichen Golanhöhen, umgeben von Obstgärten.",
       hu: "A Ram-tó egy festői vulkáni krátertó a Golán-fennsík északi részén, amelyet gyümölcsöskertek öveznek.",
@@ -312,7 +346,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "mountain",
     parent: "IL-Z",
     coords: [35.41, 32.53],
-    name: { de: "Gilboa-Gebirge", hu: "Gilboa-hegy", ro: "Muntele Gilboa", en: "Mount Gilboa" },
+    name: { de: "Gilboa-Gebirge", hu: "Gilboa-hegy", ro: "Muntele Gilboa", en: "Mount Gilboa",
+image: "/poi-images/il-mount-gilboa-nature-v2.webp"
+},
     description: {
       de: "Das Gilboa-Gebirge ist ein Höhenzug, der das Jesreeletal überblickt und im Frühling für seine prächtige Schwertlilienblüte bekannt ist.",
       hu: "A Gilboa-hegység a Jezréel-völgy fölé magasodik, és tavasszal a látványos nősziromvirágzásáról nevezetes.",
@@ -330,7 +366,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "forest",
     parent: "IL-M",
     coords: [34.95, 31.95],
-    name: { de: "Ben-Schemen-Wald", hu: "Ben Semen-erdő", ro: "Pădurea Ben Shemen", en: "Ben Shemen Forest" },
+    name: { de: "Ben-Schemen-Wald", hu: "Ben Semen-erdő", ro: "Pădurea Ben Shemen", en: "Ben Shemen Forest",
+image: "/poi-images/il-ben-shemen-forest-nature-v2.webp"
+},
     description: {
       de: "Der Ben-Schemen-Wald ist einer der größten Wälder Zentralisraels und bietet eine grüne Lunge mit zahlreichen archäologischen Stätten.",
       hu: "A Ben Semen-erdő Közép-Izrael egyik legnagyobb erdeje, amely zöld tüdőként szolgál és számos régészeti lelőhelyet rejt.",
@@ -348,7 +386,9 @@ export const poiExtraIsraelNatureV2: POI[] = [
     type: "river",
     parent: "IL-M",
     coords: [34.87, 32.39],
-    name: { de: "Alexander-Fluss", hu: "Alexander folyó", ro: "Râul Alexander", en: "Alexander River" },
+    name: { de: "Alexander-Fluss", hu: "Alexander folyó", ro: "Râul Alexander", en: "Alexander River",
+image: "/poi-images/il-alexander-river-nature-v2.webp"
+},
     description: {
       de: "Der Alexander-Fluss fließt in die Mittelmeerküste und ist besonders bekannt für seine Population von afrikanischen Weichschildkröten.",
       hu: "Az Alexander folyó a Földközi-tengerbe torkollik, és különösen az itt élő afrikai lágyhéjú teknősök populációjáról ismert.",

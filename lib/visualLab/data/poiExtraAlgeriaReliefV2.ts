@@ -7,7 +7,9 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     type: "mountain",
     parent: "DZ-11",
     coords: [5.5, 23.2],
-    name: { de: "Hoggar-Gebirge", hu: "Hoggar-hegyseg", ro: "Muntii Hoggar", en: "Hoggar Mountains" },
+    name: { de: "Hoggar-Gebirge", hu: "Hoggar-hegyseg", ro: "Muntii Hoggar", en: "Hoggar Mountains",
+image: "/poi-images/hoggar-massif-relief-v2.webp"
+},
     description: {
       de: "Vulkanisches Bergmassiv in der Sahara.",
       hu: "Vulkanikus hegység a Szaharában.",
@@ -37,7 +39,9 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     type: "relief",
     parent: "DZ-33",
     coords: [8.5, 25.5],
-    name: { de: "Tassili n'Ajjer", hu: "Tassili n'Ajjer", ro: "Tassili n'Ajjer", en: "Tassili n'Ajjer" },
+    name: { de: "Tassili n'Ajjer", hu: "Tassili n'Ajjer", ro: "Tassili n'Ajjer", en: "Tassili n'Ajjer",
+image: "/poi-images/tassili-n-ajjer-relief-v2.webp"
+},
     description: {
       de: "Ein grosses Hochplateau in der algerischen Sahara, bekannt fuer Felsmalereien.",
       hu: "Nagy fennsik az algériai Szaharában, sziklarajzairól hires.",
@@ -67,7 +71,9 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     type: "mountain",
     parent: "DZ-11",
     coords: [5.5, 23.3],
-    name: { de: "Djebel Tahat", hu: "Djebel Tahat", ro: "Djebel Tahat", en: "Djebel Tahat" },
+    name: { de: "Djebel Tahat", hu: "Djebel Tahat", ro: "Djebel Tahat", en: "Djebel Tahat",
+image: "/poi-images/djebel-tahat-relief-v2.webp"
+},
     description: {
       de: "Der Djebel Tahat ist der höchste Berg Algeriens und befindet sich im beeindruckenden Hoggar-Massiv in der Zentralsahara.",
       hu: "Algéria legmagasabb hegye, a Hoggar-hegysegben.",
@@ -97,7 +103,9 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     type: "relief",
     parent: "DZ-39",
     coords: [6.0, 34.3],
-    name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir" },
+    name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir",
+image: "/poi-images/chott-melrhir-relief-v2.webp"
+},
     description: {
       de: "Der groesste Salzsee in Algerien, der unter dem Meeresspiegel liegt.",
       hu: "Algéria legnagyobb sós tava, amely a tengerszint alatt fekszik.",
@@ -127,7 +135,9 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     type: "mountain",
     parent: "DZ-26",
     coords: [2.0, 36.0],
-    name: { de: "Djebel Gourine", hu: "Djebel Gourine", ro: "Djebel Gourine", en: "Djebel Gourine" },
+    name: { de: "Djebel Gourine", hu: "Djebel Gourine", ro: "Djebel Gourine", en: "Djebel Gourine",
+image: "/poi-images/djebel-gourine-relief-v2.webp"
+},
     description: {
       de: "Ein Berg im algerischen Atlas-System.",
       hu: "Hegy az algériai Atlasz-rendszerben.",

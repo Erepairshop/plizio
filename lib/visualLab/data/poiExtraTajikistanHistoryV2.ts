@@ -10,8 +10,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Festung Hissor",
       hu: "Hiszár-erőd",
       ro: "Cetatea Hissor",
-      en: "Hissar Fortress"
-    },
+      en: "Hissar Fortress",
+image: "/poi-images/tj-hissar-fortress-history-v2.webp"
+},
     description: {
       de: "Die mächtige Festung Hissor war im 18. Jahrhundert der Residenzsitz des Vertreters des Emirs von Buchara.",
       hu: "A hatalmas Hiszár-erőd a 18. században a buharai emír helytartójának székhelye volt.",
@@ -33,8 +34,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Proto-urbane Stätte von Sarazm",
       hu: "Szarazm romvárosa",
       ro: "Așezarea preistorică Sarazm",
-      en: "Proto-urban Site of Sarazm"
-    },
+      en: "Proto-urban Site of Sarazm",
+image: "/poi-images/tj-sarazm-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten Siedlungen Zentralasiens, die tiefe Einblicke in die frühen Zivilisationen der Region bietet.",
       hu: "Közép-Ázsia egyik legrégebbi települése, amely mély betekintést nyújt a régió korai civilizációiba.",
@@ -56,8 +58,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Antikes Pandschakent",
       hu: "Ősi Pandzsakent",
       ro: "Penjikentul Antic",
-      en: "Ancient Penjikent"
-    },
+      en: "Ancient Penjikent",
+image: "/poi-images/tj-ancient-penjikent-history-v2.webp"
+},
     description: {
       de: "Die Ruinenstadt war im 5. bis 8. Jahrhundert ein wichtiges kulturelles und wirtschaftliches Zentrum der Sogdier.",
       hu: "A romváros az 5-8. században a szogdok fontos kulturális és gazdasági központja volt.",
@@ -79,8 +82,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Hulbuk-Palast",
       hu: "Hulbuk-palota",
       ro: "Palatul Hulbuk",
-      en: "Hulbuk Palace"
-    },
+      en: "Hulbuk Palace",
+image: "/poi-images/tj-hulbuk-palace-history-v2.webp"
+},
     description: {
       de: "Der Palast aus dem 9. Jahrhundert war das Zentrum der alten Region Khatlon und besticht durch aufwändige Stuckarbeiten.",
       hu: "A 9. századi palota az ősi Hatlon régió központja volt, lenyűgöző stukkódíszítéseivel hódít.",
@@ -102,8 +106,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Buddhistisches Kloster Adschina-Tepa",
       hu: "Adzsina-Tepa buddhista kolostor",
       ro: "Mănăstirea budistă Ajina-Tepa",
-      en: "Ajina-Tepa Buddhist Monastery"
-    },
+      en: "Ajina-Tepa Buddhist Monastery",
+image: "/poi-images/tj-ajina-tepa-history-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte, an der die Überreste eines buddhistischen Klosters aus dem 7. Jahrhundert freigelegt wurden.",
       hu: "Régészeti lelőhely, ahol egy 7. századi buddhista kolostor maradványait tárták fel.",
@@ -125,8 +130,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Takchti-Sangin",
       hu: "Tahti Szangin",
       ro: "Takhti-Sangin",
-      en: "Takhti-Sangin"
-    },
+      en: "Takhti-Sangin",
+image: "/poi-images/tj-takhti-sangin-history-v2.webp"
+},
     description: {
       de: "Der antike Tempel des Oxus am Amudarja zeugt von der reichen hellenistischen Geschichte Baktriens.",
       hu: "Az Amu-darja menti ősi Oxus-templom Baktria gazdag hellenisztikus történelméről tanúskodik.",
@@ -148,8 +154,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Jamtschun-Festung",
       hu: "Jamcsun-erőd",
       ro: "Cetatea Yamchun",
-      en: "Yamchun Fortress"
-    },
+      en: "Yamchun Fortress",
+image: "/poi-images/tj-yamchun-fortress-history-v2.webp"
+},
     description: {
       de: "Diese Bergfestung im Wachan-Korridor bewachte einst die südlichen Routen der alten Seidenstraße.",
       hu: "Ez a Vahan-folyosó menti hegyi erőd egykor az ősi Selyemút déli útvonalait őrizte.",
@@ -171,8 +178,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Festung Chudschand",
       hu: "Hudzsand-erőd",
       ro: "Cetatea Khujand",
-      en: "Khujand Fortress"
-    },
+      en: "Khujand Fortress",
+image: "/poi-images/tj-khujand-fortress-history-v2.webp"
+},
     description: {
       de: "Die mächtigen Festungsmauern am Ufer des Syrdarja schützten die Stadt vor zahlreichen Invasoren.",
       hu: "A Szir-darja partján álló hatalmas erődfalak számos hódítótól védték a várost.",
@@ -194,8 +202,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Mausoleum von Mir Sayyid Ali Hamadani",
       hu: "Mir Szajjid Ali Hamadani mauzóleuma",
       ro: "Mausoleul lui Mir Sayyid Ali Hamadani",
-      en: "Mir Sayyid Ali Hamadani Mausoleum"
-    },
+      en: "Mir Sayyid Ali Hamadani Mausoleum",
+image: "/poi-images/tj-ali-hamadani-mausoleum-history-v2.webp"
+},
     description: {
       de: "Dieses Pilgerziel im Zentrum von Kulob ehrt einen der bedeutendsten persischen Sufi-Gelehrten.",
       hu: "Ez a Kulob központjában található zarándokhely az egyik legjelentősebb perzsa szúfi tudóst tiszteli.",
@@ -217,8 +226,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Chodscha-Maschchad-Mausoleum",
       hu: "Hodzsa Mashad mauzóleum",
       ro: "Mausoleul Khoja Mashkhad",
-      en: "Khoja Mashkhad Mausoleum"
-    },
+      en: "Khoja Mashkhad Mausoleum",
+image: "/poi-images/tj-khoja-mashkhad-history-v2.webp"
+},
     description: {
       de: "Eines der wenigen erhaltenen Holzbauwerke Zentralasiens, das eine doppelte Kuppel und eine Medrese umfasst.",
       hu: "Közép-Ázsia kevés fennmaradt faépítményeinek egyike, amely egy dupla kupolát és egy medreszét foglal magába.",
@@ -240,8 +250,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Kach-Kacha-Festung",
       hu: "Kah-Kaha-erőd",
       ro: "Cetatea Kah-Kaha",
-      en: "Kah-Kaha Fortress"
-    },
+      en: "Kah-Kaha Fortress",
+image: "/poi-images/tj-kah-kaha-fortress-history-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Grenzfeste am Pandsch-Fluss, die einst das Kuschan-Reich verteidigte.",
       hu: "Lenyűgöző határvár a Pandzs-folyó partján, amely egykor a Kusán Birodalmat védte.",
@@ -264,8 +275,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Ismoil-Somoni-Denkmal",
       hu: "Iszmoil Szomoni-emlékmű",
       ro: "Monumentul Ismoil Somoni",
-      en: "Ismoil Somoni Monument"
-    },
+      en: "Ismoil Somoni Monument",
+image: "/poi-images/tj-ismoil-somoni-monument-history-v2.webp"
+},
     description: {
       de: "Das prunkvolle Denkmal im Herzen von Duschanbe ehrt den Gründer der Samaniden-Dynastie.",
       hu: "A Dusanbe szívében található pompás emlékmű a Számánida-dinasztia alapítójának állít emléket.",
@@ -287,8 +299,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Rudaki-Denkmal",
       hu: "Rudaki-emlékmű",
       ro: "Monumentul Rudaki",
-      en: "Rudaki Monument"
-    },
+      en: "Rudaki Monument",
+image: "/poi-images/tj-rudaki-monument-history-v2.webp"
+},
     description: {
       de: "Eine majestätische Statue im Rudaki-Park, die dem Vater der persischen Poesie gewidmet ist.",
       hu: "A Rudaki parkban álló fenséges szobor, amelyet a perzsa költészet atyjának szenteltek.",
@@ -310,8 +323,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Mug-Teppe",
       hu: "Mug-Teppe",
       ro: "Mug Teppe",
-      en: "Mug Teppe"
-    },
+      en: "Mug Teppe",
+image: "/poi-images/tj-mug-teppe-history-v2.webp"
+},
     description: {
       de: "Die Ruinen einer alten Zitadelle in Istarawschan, die von Alexander dem Großen erobert wurde.",
       hu: "Egy ősi fellegvár romjai Isztaravsanban, amelyet Nagy Sándor is elfoglalt.",
@@ -333,8 +347,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Buddhistische Stupa in Wrang",
       hu: "Vrang buddhista sztúpája",
       ro: "Stupa budistă din Vrang",
-      en: "Vrang Buddhist Stupa"
-    },
+      en: "Vrang Buddhist Stupa",
+image: "/poi-images/tj-vrang-stupa-history-v2.webp"
+},
     description: {
       de: "Ein seltenes Zeugnis des Buddhismus im Pamir-Gebirge, erbaut auf terrassenförmigen Plattformen.",
       hu: "A buddhizmus ritka emléke a Pamír-hegységben, amelyet teraszos platformokra építettek.",
@@ -356,8 +371,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Mausoleum von Scheich Muslichiddin",
       hu: "Sejk Muszlihiddin mauzóleuma",
       ro: "Mausoleul Șeicului Muslihiddin",
-      en: "Sheikh Muslihiddin Mausoleum"
-    },
+      en: "Sheikh Muslihiddin Mausoleum",
+image: "/poi-images/tj-sheikh-muslihiddin-mausoleum-history-v2.webp"
+},
     description: {
       de: "Der religiöse Komplex in Chudschand besticht durch kunstvolle Holzschnitzereien und einen historischen Minarett-Turm.",
       hu: "A hudzsandi vallási komplexum művészi fafaragásaival és történelmi minaretjével nyűgöz le.",
@@ -379,8 +395,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Hasrati-Schoch-Mausoleum",
       hu: "Hazrati Soh mauzóleuma",
       ro: "Mausoleul Hazrati Shoh",
-      en: "Hazrati Shoh Mausoleum"
-    },
+      en: "Hazrati Shoh Mausoleum",
+image: "/poi-images/tj-hazrati-shoh-mausoleum-history-v2.webp"
+},
     description: {
       de: "Ein verehrter Schrein in Istarawschan, der die historische islamische Architektur Tadschikistans widerspiegelt.",
       hu: "Tisztelt szentély Isztaravsanban, amely Tádzsikisztán történelmi iszlám építészetét tükrözi.",
@@ -402,8 +419,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Siegesdenkmal Dushanbe",
       hu: "Dusambei Győzelem Emlékmű",
       ro: "Monumentul Victoriei din Dușanbe",
-      en: "Dushanbe Victory Monument"
-    },
+      en: "Dushanbe Victory Monument",
+image: "/poi-images/tj-victory-park-monument-history-v2.webp"
+},
     description: {
       de: "Dieses Monument im Siegespark erinnert an die Opfer des Zweiten Weltkriegs und brennt mit einer ewigen Flamme.",
       hu: "Ez a Győzelem parkban található emlékmű a második világháború áldozataira emlékezik, örök lánggal égve.",
@@ -425,8 +443,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Ruinen von Karon",
       hu: "Karon romjai",
       ro: "Ruinele de la Karon",
-      en: "Karon Ruins"
-    },
+      en: "Karon Ruins",
+image: "/poi-images/tj-karon-ruins-history-v2.webp"
+},
     description: {
       de: "Eine erst im 21. Jahrhundert wiederentdeckte antike Stadt hoch in den Bergen der Darvoz-Region.",
       hu: "Egy csak a 21. században újra felfedezett ókori város magasan a Darvoz-régió hegyeiben.",
@@ -448,8 +467,9 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       de: "Ruinen von Bundschikat",
       hu: "Bundzsikat romjai",
       ro: "Ruinele din Bunjikat",
-      en: "Bunjikat Ruins"
-    },
+      en: "Bunjikat Ruins",
+image: "/poi-images/tj-bunjikat-history-v2.webp"
+},
     description: {
       de: "Die verlassene Hauptstadt von Ustruschana gibt wertvolle historische Einblicke durch ihre Holzskulpturen und Wandmalereien.",
       hu: "Usztrusana elhagyatott fővárosa értékes történelmi betekintést nyújt faszobraival és falfestményeivel.",

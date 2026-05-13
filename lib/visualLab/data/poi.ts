@@ -17,7 +17,7 @@ export type POI = {
   id: string;
   type: "state-capital" | "city" | "river" | "mountain" | "lake" | "island" | "landmark" | "historical" | "country" | "region" | "forest" | "sea" | "animal-habitat" | "agriculture" | "kid-landmark" | "industry" | "port" | "relief" | string; // allow string for auto-generated POIs with custom types
   parent?: string;
-  coords: [lon: number, lat: number] | number[];
+  coords?: [lon: number, lat: number] | number[];
   // V2 flash-generált POI-knál előfordulhat alternatív mező:
   coordinates?: { lat: number; lng: number };
   imageHint?: string;

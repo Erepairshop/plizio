@@ -11,8 +11,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Cúc Phương Schildkröten-Schutzzentrum",
       hu: "Cúc Phương Teknősvédelmi Központ",
       ro: "Centrul de Conservare a Țestoaselor Cúc Phương",
-      en: "Cuc Phuong Turtle Conservation Center"
-    },
+      en: "Cuc Phuong Turtle Conservation Center",
+image: "/poi-images/cuc-phuong-turtle-center-life-v2.webp"
+},
     description: {
       de: "Ein führendes Zentrum für die Rettung und den Schutz von Schildkröten in Vietnam, das sich im Cúc-Phương-Nationalpark befindet.",
       hu: "Vietnám egyik vezető teknősmentő és -védelmi központja, amely a Cúc Phương Nemzeti Parkban található.",
@@ -47,8 +48,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Blumengärten von Đà Lạt",
       hu: "Đà Lạt-i Virágkertek",
       ro: "Grădinile de Flori din Đà Lạt",
-      en: "Dalat Flower Gardens"
-    },
+      en: "Dalat Flower Gardens",
+image: "/poi-images/dalat-flower-gardens-life-v2.webp"
+},
     description: {
       de: "Eine weitläufige Parkanlage in Đà Lạt, die eine beeindruckende Vielfalt an einheimischen und exotischen Blumen und Pflanzen präsentiert.",
       hu: "Egy kiterjedt park Đà Lạtban, amely a hazai és egzotikus virágok és növények lenyűgöző választékát mutatja be.",
@@ -83,8 +85,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Gemüsedorf Trà Quế",
       hu: "Trà Quế zöldségfalu",
       ro: "Satul de legume Trà Quế",
-      en: "Trà Quế Vegetable Village"
-    },
+      en: "Trà Quế Vegetable Village",
+image: "/poi-images/tra-que-vegetable-village-life-v2.webp"
+},
     description: {
       de: "Ein Dorf in der Nähe von Hội An, das für seinen biologischen Anbau von Kräutern und Gemüse bekannt ist, wobei traditionelle Methoden und natürliche Düngemittel verwendet werden.",
       hu: "Egy falu Hội An közelében, amely a gyógynövények és zöldségek organikus termesztéséről ismert, hagyományos módszereket és természetes trágyát használva.",
@@ -119,8 +122,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Suối Tiên Freizeitpark",
       hu: "Suối Tiên vidámpark",
       ro: "Parcul tematic Suối Tiên",
-      en: "Suối Tiên Theme Park"
-    },
+      en: "Suối Tiên Theme Park",
+image: "/poi-images/suoi-tien-theme-park-life-v2.webp"
+},
     description: {
       de: "Ein großer Vergnügungspark in Ho-Chi-Minh-Stadt, dessen Landschaft und Attraktionen sich auf die vietnamesische Geschichte und Mythologie konzentrieren.",
       hu: "Egy nagy vidámpark Ho Si Minh-városban, amelynek tájképe és látnivalói a vietnámi történelemre és mitológiára összpontosítanak.",
@@ -155,8 +159,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Thủ Lệ Park (Hanoi Zoo)",
       hu: "Thủ Lệ Park (Hanoi Állatkert)",
       ro: "Parcul Thủ Lệ (Grădina Zoologică din Hanoi)",
-      en: "Thủ Lệ Park (Hanoi Zoo)"
-    },
+      en: "Thủ Lệ Park (Hanoi Zoo)",
+image: "/poi-images/thu-le-park-hanoi-zoo-life-v2.webp"
+},
     description: {
       de: "Ein großer Park und Zoo im Zentrum von Hanoi mit einem großen See, Spielplätzen und einer Vielzahl von Tieren.",
       hu: "Egy nagy park és állatkert Hanoi központjában, nagy tóval, játszóterekkel és különféle állatokkal.",
@@ -191,8 +196,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Obstgärten im Mekong-Delta",
       hu: "Mekong-deltai gyümölcsösök",
       ro: "Livezile de fructe din Delta Mekongului",
-      en: "Mekong Delta Fruit Orchards"
-    },
+      en: "Mekong Delta Fruit Orchards",
+image: "/poi-images/mekong-delta-fruit-orchards-life-v2.webp"
+},
     description: {
       de: "Die fruchtbare Region des Mekong-Deltas ist berühmt für ihre riesigen Obstgärten, in denen eine Vielzahl tropischer Früchte angebaut wird.",
       hu: "A Mekong-delta termékeny régiója híres hatalmas gyümölcsöseiről, ahol sokféle trópusi gyümölcsöt termesztenek.",
@@ -227,8 +233,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Vinpearl Land Nha Trang",
       hu: "Vinpearl Land Nha Trang",
       ro: "Vinpearl Land Nha Trang",
-      en: "Vinpearl Land Nha Trang"
-    },
+      en: "Vinpearl Land Nha Trang",
+image: "/poi-images/vinpearl-land-nha-trang-life-v2.webp"
+},
     description: {
       de: "Ein riesiger Vergnügungs- und Wasserpark auf der Insel Hòn Tre, der über eine Seilbahn über dem Meer mit Nha Trang verbunden ist.",
       hu: "Egy hatalmas vidám- és vízipark a Hòn Tre-szigeten, amelyet a tenger felett átívelő felvonó köt össze Nha Tranggal.",
@@ -263,8 +270,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Bärenreservat Ninh Bình",
       hu: "Ninh Bình Medvemenhely",
       ro: "Sanctuarul de Urși Ninh Bình",
-      en: "Bear Sanctuary Ninh Bình"
-    },
+      en: "Bear Sanctuary Ninh Bình",
+image: "/poi-images/bear-sanctuary-ninh-binh-life-v2.webp"
+},
     description: {
       de: "Ein Schutzzentrum von Vier Pfoten, das Bären rettet, die von der Galle-Industrie und dem illegalen Wildtierhandel betroffen sind.",
       hu: "A Négy Mancs menhelye, amely az epefarm-iparból és az illegális vadállat-kereskedelemből megmentett medvéket fogadja be.",
@@ -299,8 +307,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Hồ Tây Wasserpark",
       hu: "Hồ Tây vízipark",
       ro: "Parcul Acvatic Hồ Tây",
-      en: "Hồ Tây Water Park"
-    },
+      en: "Hồ Tây Water Park",
+image: "/poi-images/ho-tay-water-park-life-v2.webp"
+},
     description: {
       de: "Ein großer Wasserpark am Ufer des Westsees in Hanoi, der eine willkommene Abkühlung von der Sommerhitze der Stadt bietet.",
       hu: "Egy nagy vízipark a hanoi Nyugati-tó partján, amely kellemes felüdülést nyújt a város nyári hőségében.",
@@ -335,8 +344,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Tao-Đàn-Park",
       hu: "Tao Đàn Park",
       ro: "Parcul Tao Đàn",
-      en: "Tao Dan Park"
-    },
+      en: "Tao Dan Park",
+image: "/poi-images/tao-dan-park-life-v2.webp"
+},
     description: {
       de: "Eine grüne Oase im Zentrum von Ho-Chi-Minh-Stadt, bekannt für ihre schattigen Bäume und als Ort, an dem Einheimische morgens Sport treiben und ihre Singvögel versammeln.",
       hu: "Zöld oázis Ho Si Minh-város központjában, árnyas fáiról ismert, és arról, hogy a helyiek reggelente itt sportolnak és gyűjtik össze énekesmadaraikat.",
@@ -371,8 +381,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Teeplantagen von Mộc Châu",
       hu: "Mộc Châu teaültetvényei",
       ro: "Plantațiile de ceai din Mộc Châu",
-      en: "Moc Chau Tea Plantations"
-    },
+      en: "Moc Chau Tea Plantations",
+image: "/poi-images/moc-chau-tea-plantations-life-v2.webp"
+},
     description: {
       de: "Die Hochebene von Mộc Châu ist berühmt für ihre endlosen, sanft geschwungenen Hügel, die mit leuchtend grünen Teeplantagen bedeckt sind.",
       hu: "A Mộc Châu-fennsík híres a végtelen, lankás dombjairól, amelyeket élénkzöld teaültetvények borítanak.",
@@ -406,8 +417,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Forschungszentrum für Tierseuchen",
       hu: "Járványos Állatbetegségek Kutatóközpontja",
       ro: "Centrul de Cercetare a Bolilor Epizootice",
-      en: "Epizootic Disease Research Centre"
-    },
+      en: "Epizootic Disease Research Centre",
+image: "/poi-images/epizootic-disease-research-center-life-v2.webp"
+},
     description: {
       de: "Ein spezialisiertes Zentrum, das sich der Erforschung und Bekämpfung von Tierseuchen widmet und eine wichtige Rolle für die öffentliche Gesundheit und die Landwirtschaft spielt.",
       hu: "Az állatbetegségek kutatására és leküzdésére szakosodott központ, amely fontos szerepet játszik a közegészségügyben és a mezőgazdaságban.",
@@ -441,8 +453,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Đầm Sen Wasserpark",
       hu: "Đầm Sen vízipark",
       ro: "Parcul Acvatic Đầm Sen",
-      en: "Đầm Sen Water Park"
-    },
+      en: "Đầm Sen Water Park",
+image: "/poi-images/dam-sen-water-park-life-v2.webp"
+},
     description: {
       de: "Ein beliebter Wasserpark in Ho-Chi-Minh-Stadt mit einer Vielzahl von Rutschen, Pools und Attraktionen für alle Altersgruppen.",
       hu: "Népszerű vízipark Ho Si Minh-városban, amely csúszdák, medencék és látnivalók széles választékát kínálja minden korosztály számára.",
@@ -476,8 +489,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Botanischer Garten Hanoi",
       hu: "Hanoi Botanikus Kert",
       ro: "Grădina Botanică din Hanoi",
-      en: "Hanoi Botanical Garden"
-    },
+      en: "Hanoi Botanical Garden",
+image: "/poi-images/hanoi-botanical-garden-life-v2.webp"
+},
     description: {
       de: "Eine friedliche Grünfläche in der Nähe des Ho-Chi-Minh-Mausoleums, die eine Sammlung seltener Bäume und Pflanzen beherbergt.",
       hu: "Békés zöldterület a Ho Si Minh-mauzóleum közelében, ritka fák és növények gyűjteményének ad otthont.",
@@ -511,8 +525,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Kaffeeplantagen von Buôn Ma Thuột",
       hu: "Buôn Ma Thuột kávéültetvényei",
       ro: "Plantațiile de cafea din Buôn Ma Thuột",
-      en: "Buon Ma Thuot Coffee Plantations"
-    },
+      en: "Buon Ma Thuot Coffee Plantations",
+image: "/poi-images/buon-ma-thuot-coffee-plantations-life-v2.webp"
+},
     description: {
       de: "Buôn Ma Thuột gilt als die 'Kaffeehauptstadt' Vietnams und ist von riesigen Plantagen umgeben, die die berühmten Robusta-Bohnen des Landes produzieren.",
       hu: "Buôn Ma Thuộtot Vietnám 'kávéfővárosának' tartják, és hatalmas ültetvények veszik körül, amelyek az ország híres Robusta babját termelik.",
@@ -546,8 +561,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "VinWonders Phú Quốc",
       hu: "VinWonders Phú Quốc",
       ro: "VinWonders Phú Quốc",
-      en: "VinWonders Phú Quốc"
-    },
+      en: "VinWonders Phú Quốc",
+image: "/poi-images/vinwonders-phu-quoc-life-v2.webp"
+},
     description: {
       de: "Der größte Themenpark in Vietnam, Teil des Superkomplexes Phu Quoc United Center, mit Hunderten von Indoor- und Outdoor-Aktivitäten.",
       hu: "Vietnám legnagyobb vidámparkja, a Phu Quoc United Center szuperkomplexum része, több száz beltéri és kültéri tevékenységgel.",
@@ -581,8 +597,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Affeninsel (Cát Bà)",
       hu: "Majom-sziget (Cát Bà)",
       ro: "Insula Maimuțelor (Cát Bà)",
-      en: "Monkey Island (Cát Bà)"
-    },
+      en: "Monkey Island (Cát Bà)",
+image: "/poi-images/monkey-island-cat-ba-life-v2.webp"
+},
     description: {
       de: "Eine kleine Insel in der Lan-Ha-Bucht, die für ihre große Population von Makaken bekannt ist, die sich frei auf der Insel bewegen.",
       hu: "Egy kis sziget a Lan Ha-öbölben, amely a szigeten szabadon mozgó makákók nagy populációjáról ismert.",
@@ -616,8 +633,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Gia-Định-Park",
       hu: "Gia Định Park",
       ro: "Parcul Gia Định",
-      en: "Gia Dinh Park"
-    },
+      en: "Gia Dinh Park",
+image: "/poi-images/gia-dinh-park-life-v2.webp"
+},
     description: {
       de: "Einer der größten öffentlichen Parks in Ho-Chi-Minh-Stadt, der viel Grünfläche für Erholung und Sport bietet.",
       hu: "Ho Si Minh-város egyik legnagyobb nyilvános parkja, amely bőséges zöldterületet biztosít a pihenéshez és a sporthoz.",
@@ -651,8 +669,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Teehügel von Thái Nguyên",
       hu: "Thái Nguyên teadombjai",
       ro: "Dealurile de ceai din Thái Nguyên",
-      en: "Thái Nguyên Tea Hills"
-    },
+      en: "Thái Nguyên Tea Hills",
+image: "/poi-images/thai-nguyen-tea-hills-life-v2.webp"
+},
     description: {
       de: "Thái Nguyên ist die bekannteste Teeregion Vietnams und berühmt für die Produktion von hochwertigem Grüntee, der im ganzen Land geschätzt wird.",
       hu: "Thái Nguyên Vietnám legismertebb tearégiója, híres a kiváló minőségű zöld tea termeléséről, amelyet országszerte nagyra értékelnek.",
@@ -686,8 +705,9 @@ export const poiExtraVietnamLifeV2: POI[] = [
       de: "Saigon Zoo und Botanischer Garten",
       hu: "Saigoni Állat- és Növénykert",
       ro: "Grădina Zoologică și Botanică din Saigon",
-      en: "Saigon Zoo and Botanical Gardens"
-    },
+      en: "Saigon Zoo and Botanical Gardens",
+image: "/poi-images/saigon-zoo-and-botanical-gardens-life-v2.webp"
+},
     description: {
       de: "Einer der ältesten Zoos der Welt, gegründet 1865, der eine große Sammlung von Tieren und Pflanzen im Herzen von Ho-Chi-Minh-Stadt beherbergt.",
       hu: "A világ egyik legrégebbi állatkertje, 1865-ben alapították, amely állatok és növények nagy gyűjteményének ad otthont Ho Si Minh-város szívében.",

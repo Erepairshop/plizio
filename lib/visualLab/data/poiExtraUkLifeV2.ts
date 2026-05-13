@@ -4,7 +4,9 @@ export const ukLifeV2: POI[] = [
   {
     id: "uk-kew-gardens-life-v2",
     type: "park",
-    name: { de: "Kew Gardens", hu: "Kew Gardens", ro: "Grădinile Kew", en: "Kew Gardens" },
+    name: { de: "Kew Gardens", hu: "Kew Gardens", ro: "Grădinile Kew", en: "Kew Gardens",
+image: "/poi-images/uk-kew-gardens-life-v2.webp"
+},
     coords: [-0.2956, 51.4787],
     coordinates: { lat: 51.4787, lng: -0.2956 },
     description: {
@@ -19,11 +21,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Fondată în anul 1840", "Patrimoniu UNESCO din 2003", "Peste 50.000 de specii de plante", "Găzduiește celebra Casă a Palmierilor"],
       en: ["Founded in the year 1840", "UNESCO World Heritage since 2003", "Over 50,000 living plant species", "Home to the famous Palm House"],
     },
-    imageHint: "Kew Gardens Palm House exterior with pond", image: "/poi-images/uk-kew-gardens-life-v2.webp"},
-  {
+imageHint: "Kew Gardens Palm House exterior with pond",
+    descriptionAdvanced: {
+      de: "Die 1840 gegründeten Royal Botanic Gardens in Kew beherbergen mit über 30.000 Pflanzenarten eine der weltweit bedeutendsten Sammlungen und zählen seit 2003 zum UNESCO-Welterbe.",
+      hu: "Az 1840-ben alapított királyi botanikus kert a világ egyik leggazdagabb növénygyűjteményével rendelkezik. A 121 hektáros terület 2003 óta az UNESCO Világörökség része.",
+      ro: "Grădinile Botanice Regale din Kew, fondate în 1840, adăpostesc cea mai mare colecție de plante vii din lume. Situl de 121 de hectare a fost inclus în patrimoniul UNESCO în 2003.",
+      en: "Founded in 1840, Kew Gardens houses the world's largest and most diverse botanical collections. The 121-hectare site in London was designated a UNESCO World Heritage site in 2003.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1840", "UNESCO-Welterbe seit 2003", "Über 30.000 lebende Pflanzenarten", "Fläche: ca. 121 Hektar"],
+      hu: ["Alapítás éve: 1840", "UNESCO világörökségi helyszín 2003 óta", "Több mint 30 000 élő növényfaj", "Területe: 121 hektár"],
+      ro: ["Anul fondării: 1840", "Patrimoniu UNESCO din 2003", "Peste 30.000 de specii de plante vii", "Suprafață: 121 de hectare"],
+      en: ["Founded in 1840", "UNESCO World Heritage site since 2003", "Over 30,000 living plant species", "Area: 121 hectares"],
+    },
+    image: "/poi-images/uk-kew-gardens-life-v2.webp",
+},  {
     id: "uk-peak-district-life-v2",
     type: "park",
-    name: { de: "Peak-District-Nationalpark", hu: "Peak District Nemzeti Park", ro: "Parcul Național Peak District", en: "Peak District National Park" },
+    name: { de: "Peak-District-Nationalpark", hu: "Peak District Nemzeti Park", ro: "Parcul Național Peak District", en: "Peak District National Park",
+image: "/poi-images/uk-peak-district-life-v2.webp"
+},
     coords: [-1.83, 53.35],
     coordinates: { lat: 53.35, lng: -1.83 },
     description: {
@@ -38,11 +55,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Primul parc național din Marea Britanie", "Fondat pe 17 aprilie 1951", "Suprafață de 1.438 km pătrați", "Cel mai înalt punct este Kinder Scout"],
       en: ["First national park in Great Britain", "Established on April 17, 1951", "Area of 1,438 square kilometres", "Highest point is Kinder Scout"],
     },
-    imageHint: "Peak District landscape with stone walls", image: "/poi-images/uk-peak-district-life-v2.webp"},
-  {
+imageHint: "Peak District landscape with stone walls",
+    descriptionAdvanced: {
+      de: "Der 1951 als erster Nationalpark Großbritanniens ausgewiesene Peak District besticht durch seine kontrastreiche Landschaft aus dramatischen Kalksteintälern und kargen Mooren.",
+      hu: "Ez volt az Egyesült Királyság első nemzeti parkja, amelyet 1951-ben alapítottak. Területe két fő részre oszlik: a mészköves White Peakre és a homokköves Dark Peakre.",
+      ro: "Înființat în 1951, acesta a fost primul parc național din Regatul Unit. Peisajul său divers include văi de calcar în sud și platouri de gresie sălbatică în nord.",
+      en: "Established in 1951 as the UK's first national park, the Peak District features a diverse landscape of limestone dales in the south and gritstone plateaus in the north.",
+    },
+    factsAdvanced: {
+      de: ["Erster Nationalpark im UK (1951)", "Höchster Punkt: Kinder Scout (636 m)", "Fläche: 1.438 km²", "Besucher pro Jahr: ca. 13 Millionen"],
+      hu: ["Az első brit nemzeti park (1951)", "Legmagasabb pontja: Kinder Scout (636 m)", "Területe: 1438 km²", "Évi látogatószám: kb. 13 millió"],
+      ro: ["Primul parc național din UK (1951)", "Cel mai înalt punct: Kinder Scout (636 m)", "Suprafață: 1.438 km²", "Aproximativ 13 milioane de vizitatori anual"],
+      en: ["First UK National Park (1951)", "Highest point: Kinder Scout (636m)", "Area: 1,438 km²", "Approx. 13 million visitors per year"],
+    },
+    image: "/poi-images/uk-peak-district-life-v2.webp",
+},  {
     id: "uk-lake-district-life-v2",
     type: "park",
-    name: { de: "Lake-District-Nationalpark", hu: "Lake District Nemzeti Park", ro: "Parcul Național Lake District", en: "Lake District National Park" },
+    name: { de: "Lake-District-Nationalpark", hu: "Lake District Nemzeti Park", ro: "Parcul Național Lake District", en: "Lake District National Park",
+image: "/poi-images/uk-lake-district-life-v2.webp"
+},
     coords: [-3.08, 54.46],
     coordinates: { lat: 54.46, lng: -3.08 },
     description: {
@@ -57,11 +89,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Găzduiește vârful Scafell Pike", "Cel mai mare parc național din Anglia", "Conține cel mai adânc lac, Wastwater", "Patrimoniu UNESCO din 2017"],
       en: ["Home to Scafell Pike mountain", "Largest national park in England", "Contains the deepest lake, Wastwater", "UNESCO World Heritage since 2017"],
     },
-    imageHint: "Lake District hills reflecting in a lake", image: "/poi-images/uk-lake-district-life-v2.webp"},
-  {
+imageHint: "Lake District hills reflecting in a lake",
+    descriptionAdvanced: {
+      de: "Das seit 2017 zum UNESCO-Welterbe gehörende Gebiet in Cumbria umfasst den Scafell Pike, den höchsten Berg Englands, sowie 16 Hauptseen, die die Landschaft prägen.",
+      hu: "Cumbria megye ékköve, amely 2017 óta UNESCO világörökség. Itt található Anglia legmagasabb hegye, a Scafell Pike és legmélyebb tava, a Wast Water is.",
+      ro: "Inclus în patrimoniul UNESCO în 2017, acest parc național din Cumbria conține cel mai înalt munte din Anglia, Scafell Pike, și cel mai adânc lac, Wast Water.",
+      en: "A UNESCO World Heritage site since 2017, this Cumbrian park contains England's highest mountain, Scafell Pike, and its deepest lake, Wast Water.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 2017", "Höchster Berg Englands: Scafell Pike (978 m)", "Größter See: Windermere (14,7 km²)", "Nationalparkstatus seit 1951"],
+      hu: ["UNESCO világörökség 2017 óta", "Anglia legmagasabb hegye: Scafell Pike (978 m)", "Legnagyobb tava: Windermere (14,7 km²)", "Nemzeti park alapítása: 1951"],
+      ro: ["Patrimoniu UNESCO din 2017", "Cel mai înalt vârf din Anglia: Scafell Pike (978 m)", "Cel mai mare lac: Windermere (14,7 km²)", "Parc național din 1951"],
+      en: ["UNESCO World Heritage site since 2017", "England's highest peak: Scafell Pike (978m)", "Largest lake: Windermere (14.7 km²)", "National Park status since 1951"],
+    },
+    image: "/poi-images/uk-lake-district-life-v2.webp",
+},  {
     id: "uk-snowdonia-life-v2",
     type: "park",
-    name: { de: "Snowdonia-Nationalpark", hu: "Snowdonia Nemzeti Park", ro: "Parcul Național Snowdonia", en: "Snowdonia National Park" },
+    name: { de: "Snowdonia-Nationalpark", hu: "Snowdonia Nemzeti Park", ro: "Parcul Național Snowdonia", en: "Snowdonia National Park",
+image: "/poi-images/uk-snowdonia-life-v2.webp"
+},
     coords: [-3.9, 52.9],
     coordinates: { lat: 52.9, lng: -3.9 },
     description: {
@@ -76,11 +123,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Numele galez este Eryri", "Vârful Snowdon are 1.085 m", "Fondat în anul 1951", "Acoperă o suprafață de 2.130 km²"],
       en: ["Welsh name is Eryri", "Highest mountain Snowdon (1,085 m)", "Established in 1951", "Area of 2,130 square kilometres"],
     },
-    imageHint: "Mount Snowdon peak in North Wales", image: "/poi-images/uk-snowdonia-life-v2.webp"},
-  {
+imageHint: "Mount Snowdon peak in North Wales",
+    descriptionAdvanced: {
+      de: "Snowdonia, walisisch Eryri, umfasst eine zerklüftete Gebirgslandschaft im Norden von Wales. Der Snowdon (Yr Wyddfa) ist mit 1085 Metern die höchste Erhebung südlich der Highlands.",
+      hu: "Wales északi részén fekvő hegyvidék, amelynek legmagasabb csúcsa az 1085 méteres Snowdon (Yr Wyddfa). A park híres jégkorszaki völgyeiről és gazdag walesi kultúrájáról.",
+      ro: "Situat în nordul Țării Galilor, acest parc găzduiește vârful Snowdon (1085 m). Peisajul său este marcat de văi glaciare, lacuri montane și o bogată istorie galeză.",
+      en: "Located in North Wales, Snowdonia (Eryri) is home to the highest peak in Wales and England south of the Scottish Highlands, Snowdon (Yr Wyddfa) at 1,085 meters.",
+    },
+    factsAdvanced: {
+      de: ["Walisisch: Eryri", "Höchster Gipfel: Snowdon (1085 m)", "Gründungsjahr: 1951", "Fläche: 2.130 km²"],
+      hu: ["Walesi neve: Eryri", "Legmagasabb csúcs: Snowdon (1085 m)", "Alapítás éve: 1951", "Területe: 2130 km²"],
+      ro: ["Denumire galeză: Eryri", "Cel mai înalt vârf: Snowdon (1085 m)", "Anul înființării: 1951", "Suprafață: 2.130 km²"],
+      en: ["Welsh name: Eryri", "Highest peak: Snowdon (1,085m)", "Established in 1951", "Area: 2,130 km²"],
+    },
+    image: "/poi-images/uk-snowdonia-life-v2.webp",
+},  {
     id: "uk-cairngorms-life-v2",
     type: "park",
-    name: { de: "Cairngorms-Nationalpark", hu: "Cairngorms Nemzeti Park", ro: "Parcul Național Cairngorms", en: "Cairngorms National Park" },
+    name: { de: "Cairngorms-Nationalpark", hu: "Cairngorms Nemzeti Park", ro: "Parcul Național Cairngorms", en: "Cairngorms National Park",
+image: "/poi-images/uk-cairngorms-life-v2.webp"
+},
     coords: [-3.6, 57.08],
     coordinates: { lat: 57.08, lng: -3.6 },
     description: {
@@ -95,11 +157,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Cel mai mare parc național din UK", "Înființat în anul 2003", "Include cinci din cele mai înalte vârfuri", "Găzduiește reni sălbatici"],
       en: ["Largest national park in the UK", "Established in 2003", "Contains five of the six highest peaks", "Home to free-ranging reindeer"],
     },
-    imageHint: "Cairngorms mountains with heather in Scotland", image: "/poi-images/uk-cairngorms-life-v2.webp"},
-  {
+imageHint: "Cairngorms mountains with heather in Scotland",
+    descriptionAdvanced: {
+      de: "Der größte Nationalpark Großbritanniens in den schottischen Highlands beherbergt fünf der sechs höchsten Berge des Landes sowie seltene subarktische Ökosysteme.",
+      hu: "Az Egyesült Királyság legnagyobb nemzeti parkja a Skót-felföldön található. Itt emelkedik az ország hat legmagasabb hegye közül öt, köztük a Ben Macdui.",
+      ro: "Cel mai mare parc național din Regatul Unit, situat în Highlands, adăpostește cinci dintre cele mai înalte șase vârfuri britanice și ecosisteme subarctice rare.",
+      en: "The UK's largest national park, located in the Scottish Highlands, contains five of the UK's six highest mountains and unique sub-arctic plateau environments.",
+    },
+    factsAdvanced: {
+      de: ["Größter Nationalpark im UK", "Fläche: 4.528 km²", "Höchster Punkt: Ben Macdui (1309 m)", "Gegründet: 2003"],
+      hu: ["Az Egyesült Királyság legnagyobb nemzeti parkja", "Területe: 4528 km²", "Legmagasabb pontja: Ben Macdui (1309 m)", "Alapítás éve: 2003"],
+      ro: ["Cel mai mare parc național din UK", "Suprafață: 4.528 km²", "Cel mai înalt punct: Ben Macdui (1309 m)", "Înființat în 2003"],
+      en: ["Largest National Park in the UK", "Area: 4,528 km²", "Highest point: Ben Macdui (1,309m)", "Established in 2003"],
+    },
+    image: "/poi-images/uk-cairngorms-life-v2.webp",
+},  {
     id: "uk-london-zoo-life-v2",
     type: "wildlife",
-    name: { de: "ZSL London Zoo", hu: "Londoni Állatkert", ro: "Grădina Zoologică din Londra", en: "ZSL London Zoo" },
+    name: { de: "ZSL London Zoo", hu: "Londoni Állatkert", ro: "Grădina Zoologică din Londra", en: "ZSL London Zoo",
+image: "/poi-images/uk-london-zoo-life-v2.webp"
+},
     coords: [-0.153, 51.535],
     coordinates: { lat: 51.535, lng: -0.153 },
     description: {
@@ -114,11 +191,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Deschisă pe 27 aprilie 1828", "Cea mai veche zoo științifică", "Proiectată de Decimus Burton", "Peste 650 de specii de animale"],
       en: ["Opened on April 27, 1828", "Oldest scientific zoo in the world", "Designed by Decimus Burton", "More than 650 animal species"],
     },
-    imageHint: "London Zoo entrance sign with animals", image: "/poi-images/uk-london-zoo-life-v2.webp"},
-  {
+imageHint: "London Zoo entrance sign with animals",
+    descriptionAdvanced: {
+      de: "Der 1828 eröffnete ZSL London Zoo im Regent's Park ist der älteste wissenschaftliche Zoo der Welt und beherbergt bedeutende historische Architektur wie das Reptilienhaus.",
+      hu: "A Regent's Parkban található Londoni Állatkert a világ legrégebbi tudományos állatkertje, amelyet 1828-ban nyitottak meg a nagyközönség előtt.",
+      ro: "Deschisă în 1828 în Regent's Park, Grădina Zoologică din Londra este cea mai veche grădină zoologică științifică din lume, administrată de ZSL.",
+      en: "Opened in 1828 in Regent's Park, ZSL London Zoo is the world's oldest scientific zoo and features iconic architecture alongside its conservation work.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung für Forschung: 1828", "Für Öffentlichkeit geöffnet: 1847", "Lage: Regent's Park, London", "Ältester wissenschaftlicher Zoo weltweit"],
+      hu: ["Alapítás éve (tudományos): 1828", "Megnyitás a nagyközönségnek: 1847", "Helyszín: Regent's Park, London", "A világ legrégebbi tudományos állatkertje"],
+      ro: ["Deschisă pentru cercetare în 1828", "Deschisă publicului în 1847", "Locație: Regent's Park, Londra", "Cea mai veche grădină zoologică științifică"],
+      en: ["Opened for scientific study: 1828", "Opened to public: 1847", "Location: Regent's Park, London", "World's oldest scientific zoo"],
+    },
+    image: "/poi-images/uk-london-zoo-life-v2.webp",
+},  {
     id: "uk-slimbridge-wetland-life-v2",
     type: "wildlife",
-    name: { de: "Slimbridge Wetland Centre", hu: "Slimbridge Vizes Élőhely Központ", ro: "Centrul Umed Slimbridge", en: "Slimbridge Wetland Centre" },
+    name: { de: "Slimbridge Wetland Centre", hu: "Slimbridge Vizes Élőhely Központ", ro: "Centrul Umed Slimbridge", en: "Slimbridge Wetland Centre",
+image: "/poi-images/uk-slimbridge-wetland-life-v2.webp"
+},
     coords: [-2.41, 51.74],
     coordinates: { lat: 51.74, lng: -2.41 },
     description: {
@@ -133,11 +225,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Înființat în anul 1946", "Sediul Wildfowl & Wetlands Trust", "Cea mai mare colecție de anatide", "Punct cheie pentru păsări migratoare"],
       en: ["Established in 1946", "Headquarters of the Wildfowl & Wetlands Trust", "World's largest captive wildfowl collection", "Key stopover for migratory birds"],
     },
-    imageHint: "Slimbridge Wetland Centre with flamingos", image: "/poi-images/uk-slimbridge-wetland-life-v2.webp"},
-  {
+imageHint: "Slimbridge Wetland Centre with flamingos",
+    descriptionAdvanced: {
+      de: "Slimbridge wurde 1946 von Sir Peter Scott gegründet und ist ein weltweit führendes Zentrum für den Schutz von Feuchtgebieten und die Erforschung von Wasservögeln.",
+      hu: "A Sir Peter Scott által 1946-ban alapított központ a vizes élőhelyek védelmének úttörője. A Severn-torkolat partján fekvő terület fontos megállóhely a vándormadaraknak.",
+      ro: "Fondat în 1946 de Sir Peter Scott, Slimbridge este un centru de pionierat pentru conservarea zonelor umede și a păsărilor de apă, situat pe estuarul Severn.",
+      en: "Founded in 1946 by Sir Peter Scott, Slimbridge is a world-leading centre for wetland conservation and waterbird research located on the Severn Estuary.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1946", "Gründer: Sir Peter Scott", "Lage: Severn-Ästuar", "Erstes WWT-Zentrum (Wildfowl & Wetlands Trust)"],
+      hu: ["Alapítás éve: 1946", "Alapító: Sir Peter Scott", "Helyszín: Severn-torkolat", "Az első WWT központ"],
+      ro: ["Anul fondării: 1946", "Fondator: Sir Peter Scott", "Locație: Estuarul Severn", "Primul centru WWT"],
+      en: ["Founded in 1946", "Founder: Sir Peter Scott", "Location: Severn Estuary", "First WWT centre"],
+    },
+    image: "/poi-images/uk-slimbridge-wetland-life-v2.webp",
+},  {
     id: "uk-eden-project-life-v2",
     type: "park",
-    name: { de: "Eden Project", hu: "Eden Projekt", ro: "Proiectul Eden", en: "Eden Project" },
+    name: { de: "Eden Project", hu: "Eden Projekt", ro: "Proiectul Eden", en: "Eden Project",
+image: "/poi-images/uk-eden-project-life-v2.webp"
+},
     coords: [-4.74, 50.36],
     coordinates: { lat: 50.36, lng: -4.74 },
     description: {
@@ -152,11 +259,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Deschis pe 17 martie 2001", "Format din două biomuri mari", "Cea mai mare pădure tropicală interioară", "Situat într-o fostă mină de argilă"],
       en: ["Opened on March 17, 2001", "Consists of two massive biomes", "World's largest indoor rainforest", "Located in a reclaimed clay pit"],
     },
-    imageHint: "Eden Project geodesic biomes at dusk", image: "/poi-images/uk-eden-project-life-v2.webp"},
-  {
+imageHint: "Eden Project geodesic biomes at dusk",
+    descriptionAdvanced: {
+      de: "Das Eden Project in Cornwall ist eine ökologische Bildungseinrichtung, die in zwei riesigen geodätischen Biomen verschiedene Klimazonen und Pflanzengemeinschaften simuliert.",
+      hu: "Cornwallban található ökológiai látogatóközpont, amelynek hatalmas geodéziai dómjai a trópusi és mediterrán növényvilágot mutatják be egy egykori kaolinbányában.",
+      ro: "Situat în Cornwall, acest proiect ecologic găzduiește cele mai mari sere geodezice din lume, simulând climate tropicale și mediteraneene într-o fostă carieră de caolin.",
+      en: "Located in Cornwall, the Eden Project features massive geodesic biomes that house the largest indoor rainforest in the world and diverse Mediterranean flora.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2001", "Ort: Bodelva, Cornwall", "Größter Indoor-Regenwald der Welt", "Ehemalige Kaolingrube"],
+      hu: ["Megnyitás éve: 2001", "Helyszín: Bodelva, Cornwall", "A világ legnagyobb fedett esőerdője", "Egykori kaolinbánya területén"],
+      ro: ["Deschis în 2001", "Locație: Bodelva, Cornwall", "Cea mai mare pădure tropicală interioară", "Construit într-o fostă carieră de caolin"],
+      en: ["Opened in 2001", "Location: Bodelva, Cornwall", "World's largest indoor rainforest", "Built in a former kaolin pit"],
+    },
+    image: "/poi-images/uk-eden-project-life-v2.webp",
+},  {
     id: "uk-new-forest-life-v2",
     type: "forest",
-    name: { de: "New-Forest-Nationalpark", hu: "New Forest Nemzeti Park", ro: "Parcul Național New Forest", en: "New Forest National Park" },
+    name: { de: "New-Forest-Nationalpark", hu: "New Forest Nemzeti Park", ro: "Parcul Național New Forest", en: "New Forest National Park",
+image: "/poi-images/uk-new-forest-life-v2.webp"
+},
     coords: [-1.56, 50.86],
     coordinates: { lat: 50.86, lng: -1.56 },
     description: {
@@ -171,11 +293,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Creat ca pădure de vânătoare în 1079", "Statut de parc național din 2005", "Cunoscut pentru poneii New Forest", "Predomină peisajul de câmpie cu iarbă"],
       en: ["Created as a hunting forest in 1079", "National Park status since 2005", "Famous for New Forest ponies", "Mostly open heathland and woods"],
     },
-    imageHint: "New Forest pony grazing in open woodland", image: "/poi-images/uk-new-forest-life-v2.webp"},
-  {
+imageHint: "New Forest pony grazing in open woodland",
+    descriptionAdvanced: {
+      de: "Ursprünglich 1079 von Wilhelm dem Eroberer als königliches Jagdrevier angelegt, ist der New Forest heute ein Nationalpark, der für seine freilaufenden Ponys bekannt ist.",
+      hu: "Hódító Vilmos hozta létre 1079-ben királyi vadászterületként. A 2005-ben nemzeti parkká nyilvánított terület híres a szabadon kószáló vadlovaidról (New Forest pony).",
+      ro: "Creat în 1079 de William Cuceritorul ca teren regal de vânătoare, New Forest a devenit parc național în 2005, fiind faimos pentru poneii săi sălbatici.",
+      en: "Created as a royal hunting ground in 1079 by William the Conqueror, the New Forest is now a national park famous for its ancient woodland and free-roaming ponies.",
+    },
+    factsAdvanced: {
+      de: ["Angelegt durch: Wilhelm I. (1079)", "Nationalparkstatus seit 2005", "Bekannt für: New-Forest-Ponys", "Fläche: 566 km²"],
+      hu: ["Alapító: I. Vilmos (1079)", "Nemzeti parki státusz: 2005", "Jellegzetessége: vadon élő pónik", "Területe: 566 km²"],
+      ro: ["Fondat de: William Cuceritorul (1079)", "Parc național din 2005", "Faimos pentru: poneii New Forest", "Suprafață: 566 km²"],
+      en: ["Established by William I (1079)", "National Park status since 2005", "Famous for: New Forest ponies", "Area: 566 km²"],
+    },
+    image: "/poi-images/uk-new-forest-life-v2.webp",
+},  {
     id: "uk-loch-lomond-life-v2",
     type: "park",
-    name: { de: "Loch Lomond & The Trossachs", hu: "Loch Lomond & The Trossachs", ro: "Loch Lomond și The Trossachs", en: "Loch Lomond & The Trossachs" },
+    name: { de: "Loch Lomond & The Trossachs", hu: "Loch Lomond & The Trossachs", ro: "Loch Lomond și The Trossachs", en: "Loch Lomond & The Trossachs",
+image: "/poi-images/uk-loch-lomond-life-v2.webp"
+},
     coords: [-4.6, 56.2],
     coordinates: { lat: 56.2, lng: -4.6 },
     description: {
@@ -190,12 +327,27 @@ export const ukLifeV2: POI[] = [
       ro: ["Primul parc național al Scoției", "Înființat în anul 2002", "Conține 21 de Munros (munți > 914m)", "Suprafață de 1.865 km²"],
       en: ["Scotland's first national park", "Established in 2002", "Contains 21 Munros (peaks over 914m)", "Covers 1,865 square kilometres"],
     },
-    imageHint: "Loch Lomond lake with mountains in Scotland", image: "/poi-images/uk-loch-lomond-life-v2.webp"}
-,
+imageHint: "Loch Lomond lake with mountains in Scotland",
+    descriptionAdvanced: {
+      de: "Dieser 2002 gegründete Nationalpark umfasst den größten Süßwassersee Großbritanniens und die bewaldeten Täler der Trossachs am Übergang zwischen Lowlands und Highlands.",
+      hu: "Skócia első nemzeti parkja, amely 2002-ben jött létre. Magában foglalja Britannia legnagyobb édesvizű tavát és a Trossachs erdős dombságát.",
+      ro: "Înființat în 2002, acest parc național cuprinde cel mai mare lac cu apă dulce din Marea Britanie și peisajele împădurite spectaculoase din Trossachs.",
+      en: "Established in 2002, this park features the largest lake in Great Britain by surface area and the scenic forested glens of the Trossachs in central Scotland.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2002", "Lage: Grenze Highlands/Lowlands", "Seefläche (Loch Lomond): 71 km²", "Höchster Berg: Ben Lomond (974 m)"],
+      hu: ["Alapítás éve: 2002", "Helyszín: a Felföld és az Alföld határa", "Loch Lomond vízfelülete: 71 km²", "Legmagasabb hegye: Ben Lomond (974 m)"],
+      ro: ["Anul înființării: 2002", "Locație: Limita dintre Highlands și Lowlands", "Suprafața lacului: 71 km²", "Cel mai înalt vârf: Ben Lomond (974 m)"],
+      en: ["Established in 2002", "Location: Boundary of Highlands/Lowlands", "Loch Lomond surface area: 71 km²", "Highest mountain: Ben Lomond (974m)"],
+    },
+    image: "/poi-images/uk-loch-lomond-life-v2.webp",
+},
   {
     id: "uk-whipsnade-zoo-life-v2",
     type: "wildlife",
-    name: { de: "ZSL Whipsnade Zoo", hu: "Whipsnade Állatkert", ro: "Grădina Zoologică Whipsnade", en: "ZSL Whipsnade Zoo" },
+    name: { de: "ZSL Whipsnade Zoo", hu: "Whipsnade Állatkert", ro: "Grădina Zoologică Whipsnade", en: "ZSL Whipsnade Zoo",
+image: "/poi-images/uk-whipsnade-zoo-life-v2.webp"
+},
     coords: [-0.545, 51.848],
     coordinates: { lat: 51.848, lng: -0.545 },
     description: {
@@ -211,11 +363,25 @@ export const ukLifeV2: POI[] = [
       en: ["Opened in 1931 as the first open-paddock zoo", "Covers an area of approximately 600 acres", "Home to over 3,500 animals in large herds", "Features a large white lion carved into the chalk hill"],
     },
     imageHint: "ZSL Whipsnade Zoo white lion chalk hill and elephants",
+    descriptionAdvanced: {
+      de: "Der 1931 eröffnete ZSL Whipsnade Zoo in Bedfordshire ist der größte Zoo des Vereinigten Königreichs und bekannt für seine weitläufigen Freigehege auf den Chiltern Hills.",
+      hu: "A ZSL kezelésében álló állatkert 1931-ben nyílt meg. 240 hektáros területével az Egyesült Királyság legnagyobb állatkertje, híres a domboldalba vájt hatalmas fehér oroszlánról.",
+      ro: "Deschis în 1931, ZSL Whipsnade este cea mai mare grădină zoologică din Regatul Unit, oferind spații vaste pentru animale pe dealurile Chiltern.",
+      en: "Opened in 1931, ZSL Whipsnade Zoo is the UK's largest zoo by area, covering 600 acres on the Chiltern Hills and known for its massive white lion chalk figure.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1931", "Fläche: 2,4 km² (600 Acres)", "Besonderheit: Kreide-Löwe (Whipsnade White Lion)", "Träger: ZSL (Zoological Society of London)"],
+      hu: ["Megnyitás éve: 1931", "Területe: 240 hektár (600 acre)", "Látványosság: fehér kréta-oroszlán a domboldalon", "Fenntartó: ZSL"],
+      ro: ["Deschisă în 1931", "Suprafață: 240 de hectare", "Punct de reper: Leul alb de cretă", "Operată de: ZSL"],
+      en: ["Opened in 1931", "Area: 600 acres (2.4 km²)", "Landmark: Whipsnade White Lion hill figure", "Managed by: ZSL"],
+    },
   },
   {
     id: "uk-royal-botanic-garden-edinburgh-life-v2",
     type: "park",
-    name: { de: "Königlicher Botanischer Garten Edinburgh", hu: "Edinburgh-i Királyi Botanikus Kert", ro: "Grădina Botanică Regală din Edinburgh", en: "Royal Botanic Garden Edinburgh" },
+    name: { de: "Königlicher Botanischer Garten Edinburgh", hu: "Edinburgh-i Királyi Botanikus Kert", ro: "Grădina Botanică Regală din Edinburgh", en: "Royal Botanic Garden Edinburgh",
+image: "/poi-images/uk-royal-botanic-garden-edinburgh-life-v2.webp"
+},
     coords: [-3.209, 55.965],
     coordinates: { lat: 55.965, lng: -3.209 },
     description: {
@@ -230,11 +396,26 @@ export const ukLifeV2: POI[] = [
       ro: ["A doua cea mai veche grădină botanică din Regatul Unit", "Găzduiește peste 13.500 de specii de plante", "Include o seră istorică pentru palmieri din 1858", "Înființată inițial ca o grădină de plante medicinale"],
       en: ["Second oldest botanical garden in the United Kingdom", "Home to over 13,500 different plant species", "Features a historic Palm House built in 1858", "Originally established as a medicinal physic garden"],
     },
-    imageHint: "Royal Botanic Garden Edinburgh palm house exterior", image: "/poi-images/uk-royal-botanic-garden-edinburgh-life-v2.webp"},
-  {
+imageHint: "Royal Botanic Garden Edinburgh palm house exterior",
+    descriptionAdvanced: {
+      de: "Gegründet 1670 als Heilpflanzengarten, ist der Royal Botanic Garden Edinburgh heute ein weltweit führendes Zentrum für Pflanzenforschung und Biodiversitätsschutz.",
+      hu: "Az 1670-ben gyógynövénykertként alapított intézmény a világ egyik vezető botanikai kutatóközpontja. 28 hektáros edinburgh-i kertje híres pálmaházairól és sziklakertjéről.",
+      ro: "Fondată în 1670 ca grădină de plante medicinale, RBGE este acum un centru mondial de cercetare botanică și conservare, situat în inima Edinburgh-ului.",
+      en: "Founded in 1670 as a physic garden, RBGE is a world-renowned centre for plant science and conservation, featuring iconic Victorian glasshouses in Edinburgh.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1670", "Fläche: 28 Hektar", "Zweitältester botanischer Garten im UK", "Standort seit 1820: Inverleith"],
+      hu: ["Alapítás éve: 1670", "Területe: 28 hektár", "Az Egyesült Királyság második legrégebbi botanikus kertje", "Helyszín 1820 óta: Inverleith"],
+      ro: ["Anul fondării: 1670", "Suprafață: 28 de hectare", "A doua cea mai veche grădină botanică din UK", "Locație actuală din 1820"],
+      en: ["Founded in 1670", "Area: 28 hectares", "Second oldest botanical garden in the UK", "Current location since 1820"],
+    },
+    image: "/poi-images/uk-royal-botanic-garden-edinburgh-life-v2.webp",
+},  {
     id: "uk-strangford-lough-life-v2",
     type: "lake",
-    name: { de: "Strangford Lough", hu: "Strangford Lough", ro: "Strangford Lough", en: "Strangford Lough" },
+    name: { de: "Strangford Lough", hu: "Strangford Lough", ro: "Strangford Lough", en: "Strangford Lough",
+image: "/poi-images/uk-strangford-lough-life-v2.webp"
+},
     coords: [-5.63, 54.48],
     coordinates: { lat: 54.48, lng: -5.63 },
     description: {
@@ -249,11 +430,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Acoperă o suprafață de aproximativ 150 km²", "Prima rezervație naturală marină din Regatul Unit", "Găzduiește peste 2.000 de specii de animale diferite", "Cunoscut pentru curenții de maree puternici de la intrare"],
       en: ["Covers an area of approximately 150 square kilometers", "First Marine Nature Reserve in the United Kingdom", "Home to over 2,000 different marine species", "Famous for strong tidal currents at the 'Narrows' entrance"],
     },
-    imageHint: "Strangford Lough aerial view with islands", image: "/poi-images/uk-strangford-lough-life-v2.webp"},
-  {
+imageHint: "Strangford Lough aerial view with islands",
+    descriptionAdvanced: {
+      de: "Strangford Lough in Nordirland ist die größte Meeresbucht der Britischen Inseln und ein wichtiges Naturschutzgebiet mit über 70 Inseln und reicher mariner Biodiversität.",
+      hu: "Észak-Írország legnagyobb tengeri öble, amely több mint 70 szigetnek ad otthont. Kiemelkedő természeti értéke miatt az Egyesült Királyság első tengeri természetvédelmi területe.",
+      ro: "Cel mai mare golf marin din Insulele Britanice, situat în Irlanda de Nord, este o zonă de conservare crucială, cu peste 70 de insule și o biodiversitate marină bogată.",
+      en: "The largest sea lough in the British Isles, located in Northern Ireland, is a major marine nature reserve home to over 70 islands and diverse wildlife.",
+    },
+    factsAdvanced: {
+      de: ["Größter Meeresarm im UK", "Fläche: 150 km²", "Über 70 Inseln", "Erstes Marine Nature Reserve im UK"],
+      hu: ["Britannia legnagyobb tengeri öble", "Területe: 150 km²", "Több mint 70 sziget", "Az első brit tengeri természetvédelmi terület"],
+      ro: ["Cel mai mare golf marin din UK", "Suprafață: 150 km²", "Peste 70 de insule", "Prima Rezervație Naturală Marină din UK"],
+      en: ["Largest sea lough in the UK", "Area: 150 km²", "Over 70 islands", "First Marine Nature Reserve in the UK"],
+    },
+    image: "/poi-images/uk-strangford-lough-life-v2.webp",
+},  {
     id: "uk-bempton-cliffs-life-v2",
     type: "wildlife",
-    name: { de: "Bempton Cliffs", hu: "Bempton-sziklák", ro: "Stâncile Bempton", en: "Bempton Cliffs" },
+    name: { de: "Bempton Cliffs", hu: "Bempton-sziklák", ro: "Stâncile Bempton", en: "Bempton Cliffs",
+image: "/poi-images/uk-bempton-cliffs-life-v2.webp"
+},
     coords: [-0.175, 54.151],
     coordinates: { lat: 54.151, lng: -0.175 },
     description: {
@@ -268,11 +464,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Administrat de RSPB din anii 1970", "Singura colonie de gâște de mare de pe continentul englez", "Stâncile au o înălțime de până la 120 de metri", "Cea mai bună perioadă de vizitare este aprilie-august"],
       en: ["Managed by the RSPB since the 1970s", "England's only mainland colony of gannets", "The chalk cliffs rise up to 120 meters high", "Peak viewing season is from April to August"],
     },
-    imageHint: "Bempton Cliffs with nesting seabirds and chalk cliffs", image: "/poi-images/uk-bempton-cliffs-life-v2.webp"},
-  {
+imageHint: "Bempton Cliffs with nesting seabirds and chalk cliffs",
+    descriptionAdvanced: {
+      de: "Die Kreidefelsen von Bempton Cliffs in Yorkshire beherbergen eine der größten Seevogelkolonien Englands, darunter Basstölpel, Trottellummen und Papageitaucher.",
+      hu: "Yorkshire partjainál fekvő krétafalak, amelyek Anglia egyik legfontosabb tengeri madárkolóniájának adnak otthont. A 120 méter magas sziklákon félmillió madár fészkel.",
+      ro: "Stâncile de cretă din Yorkshire adăpostesc una dintre cele mai mari colonii de păsări marine din Anglia, fiind faimoase pentru pufini și gâște de mare.",
+      en: "These towering chalk cliffs on the Yorkshire coast host one of England's largest seabird colonies, including nearly half a million nesting birds each summer.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Klippen: bis 125 m", "Verwaltet durch: RSPB", "Über 400.000 brütende Seevögel", "Einzige Festlandkolonie von Basstölpeln im UK"],
+      hu: ["Sziklák magassága: 125 m", "Kezelő: RSPB", "Több mint 400 000 költőmadár", "Az egyetlen szárazföldi szula-kolónia Britanniában"],
+      ro: ["Înălțimea stâncilor: 125 m", "Administrat de: RSPB", "Peste 400.000 de păsări marine", "Singura colonie continentală de gâște de mare din UK"],
+      en: ["Cliff height: 125m", "Managed by: RSPB", "Over 400,000 nesting seabirds", "Only mainland gannet colony in the UK"],
+    },
+    image: "/poi-images/uk-bempton-cliffs-life-v2.webp",
+},  {
     id: "uk-pembrokeshire-coast-national-park-life-v2",
     type: "park",
-    name: { de: "Pembrokeshire-Coast-Nationalpark", hu: "Pembrokeshire-parti Nemzeti Park", ro: "Parcul Național Coastă Pembrokeshire", en: "Pembrokeshire Coast National Park" },
+    name: { de: "Pembrokeshire-Coast-Nationalpark", hu: "Pembrokeshire-parti Nemzeti Park", ro: "Parcul Național Coastă Pembrokeshire", en: "Pembrokeshire Coast National Park",
+image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp"
+},
     coords: [-5.1, 51.91],
     coordinates: { lat: 51.91, lng: -5.1 },
     description: {
@@ -287,11 +498,26 @@ export const ukLifeV2: POI[] = [
       ro: ["Înființat ca parc național în anul 1952", "Include insula Skomer, faimoasă pentru papagalii de mare", "Poteca de coastă are o lungime de circa 300 km", "Habitat important pentru focile cenușii"],
       en: ["Established in 1952 as a National Park", "Includes Skomer Island, famous for its puffins", "The Coast Path stretching for 186 miles (300 km)", "Crucial habitat for Atlantic grey seals"],
     },
-    imageHint: "Pembrokeshire Coast rugged cliffs and ocean", image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp"},
-  {
+imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
+    descriptionAdvanced: {
+      de: "Der 1952 gegründete Nationalpark ist der einzige in Großbritannien, der fast ausschließlich wegen seiner spektakulären Küstenlandschaft ausgewiesen wurde.",
+      hu: "Az 1952-ben alapított park az Egyesült Királyság egyetlen olyan nemzeti parkja, amelyet elsősorban tengerparti értékei miatt hoztak létre Wales délnyugati részén.",
+      ro: "Creat în 1952, acesta este singurul parc național din Regatul Unit desemnat în principal pentru peisajul său de coastă spectaculos din sud-vestul Țării Galilor.",
+      en: "Established in 1952, this is the UK's only national park designated primarily for its spectacular coastline, featuring rugged cliffs and sandy beaches in West Wales.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1952", "Länge des Küstenpfads: 299 km", "Fläche: 629 km²", "Lage: Südwest-Wales"],
+      hu: ["Alapítás éve: 1952", "Parti túraútvonal hossza: 299 km", "Területe: 629 km²", "Helyszín: Délnyugat-Wales"],
+      ro: ["Anul înființării: 1952", "Lungimea traseului de coastă: 299 km", "Suprafață: 629 km²", "Locație: Sud-vestul Țării Galilor"],
+      en: ["Established in 1952", "Coast Path length: 299 km (186 miles)", "Area: 629 km²", "Location: Southwest Wales"],
+    },
+    image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp",
+},  {
     id: "uk-exmoor-national-park-life-v2",
     type: "park",
-    name: { de: "Exmoor-Nationalpark", hu: "Exmoor Nemzeti Park", ro: "Parcul Național Exmoor", en: "Exmoor National Park" },
+    name: { de: "Exmoor-Nationalpark", hu: "Exmoor Nemzeti Park", ro: "Parcul Național Exmoor", en: "Exmoor National Park",
+image: "/poi-images/uk-exmoor-national-park-life-v2.webp"
+},
     coords: [-3.64, 51.14],
     coordinates: { lat: 51.14, lng: -3.64 },
     description: {
@@ -306,12 +532,27 @@ export const ukLifeV2: POI[] = [
       ro: ["Desemnat parc național în anul 1954", "Găzduiește cele mai înalte faleze marine din Anglia", "Locul de origine al rasei rare de ponei Exmoor", "Primul parc internațional pentru cerul întunecat din Europa (2011)"],
       en: ["Designated as a National Park in 1954", "Contains the highest sea cliffs in England", "Home to the ancient and rare Exmoor pony breed", "Europe's first International Dark Sky Reserve (2011)"],
     },
-    imageHint: "Exmoor National Park moorland and wild ponies", image: "/poi-images/uk-exmoor-national-park-life-v2.webp"}
-,
+imageHint: "Exmoor National Park moorland and wild ponies",
+    descriptionAdvanced: {
+      de: "Exmoor an der Küste von Somerset und Devon ist bekannt für seine Hochmoore, tiefen Täler und die höchsten Meeresklippen des britischen Festlands.",
+      hu: "Somerset és Devon határán fekvő vadregényes terület, amely híres dombos lápvidékeiről, mély völgyeiről és Nagy-Britannia legmagasabb tengerparti sziklafalairól.",
+      ro: "Situat în Somerset și Devon, Exmoor este faimos pentru platourile sale de landă, văile adânci și cele mai înalte stânci marine de pe coasta britanică.",
+      en: "Spanning Somerset and Devon, Exmoor is known for its high moorland, wooded valleys, and the highest sea cliffs on the British mainland at Great Hangman.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1954", "Höchste Meeresklippe: Great Hangman (244 m)", "Fläche: 692 km²", "Besonderheit: Exmoor-Ponys"],
+      hu: ["Alapítás éve: 1954", "Legmagasabb parti szikla: Great Hangman (244 m)", "Területe: 692 km²", "Jellegzetessége: Exmoor-pónik"],
+      ro: ["Anul înființării: 1954", "Cea mai înaltă stâncă marină: Great Hangman (244 m)", "Suprafață: 692 km²", "Faimos pentru: poneii Exmoor"],
+      en: ["Established in 1954", "Highest sea cliff: Great Hangman (244m)", "Area: 692 km²", "Key species: Exmoor ponies"],
+    },
+    image: "/poi-images/uk-exmoor-national-park-life-v2.webp",
+},
   {
     id: "uk-dartmoor-life-v2",
     type: "park",
-    name: { de: "Dartmoor-Nationalpark", hu: "Dartmoor Nemzeti Park", ro: "Parcul Național Dartmoor", en: "Dartmoor National Park" },
+    name: { de: "Dartmoor-Nationalpark", hu: "Dartmoor Nemzeti Park", ro: "Parcul Național Dartmoor", en: "Dartmoor National Park",
+image: "/poi-images/uk-dartmoor-life-v2.webp"
+},
     coords: [-3.92, 50.57],
     coordinates: { lat: 50.57, lng: -3.92 },
     description: {
@@ -327,11 +568,25 @@ export const ukLifeV2: POI[] = [
       en: ["Area of 954 km²", "Home to Dartmoor ponies", "Over 160 granite tors", "Highest point: High Willhays (621 m)"],
     },
     imageHint: "Dartmoor National Park granite tor landscape",
+    descriptionAdvanced: {
+      de: "Der Dartmoor-Nationalpark in Devon ist eine weite, wilde Moorlandschaft, die durch ihre charakteristischen Granitfelsen (Tors) und prähistorischen Denkmäler geprägt ist.",
+      hu: "Devon megyei gránitfennsík, amelynek látképét a 'tor'-nak nevezett különleges sziklaalakzatok uralják. Gazdag bronzkori emlékekben és vadon élő pónikban.",
+      ro: "Situat în Devon, Dartmoor este un platou vast de granit, caracterizat prin aflorimente stâncoase numite 'tors' și o bogată moștenire arheologică preistorică.",
+      en: "Located in Devon, Dartmoor is a vast granite upland known for its iconic tors, Bronze Age remains, and wild ponies roaming the open moorland.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1951", "Fläche: 954 km²", "Bekannt für: Granit-Tors", "Höchster Punkt: High Willhays (621 m)"],
+      hu: ["Alapítás éve: 1951", "Területe: 954 km²", "Jellegzetessége: gránitsziklák (tors)", "Legmagasabb pontja: High Willhays (621 m)"],
+      ro: ["Anul înființării: 1951", "Suprafață: 954 km²", "Puncte de reper: tors de granit", "Cel mai înalt punct: High Willhays (621 m)"],
+      en: ["Established in 1951", "Area: 954 km²", "Iconic feature: Granite Tors", "Highest point: High Willhays (621m)"],
+    },
   },
   {
     id: "uk-the-broads-life-v2",
     type: "park",
-    name: { de: "The Broads Nationalpark", hu: "The Broads Nemzeti Park", ro: "Parcul Național The Broads", en: "The Broads National Park" },
+    name: { de: "The Broads Nationalpark", hu: "The Broads Nemzeti Park", ro: "Parcul Național The Broads", en: "The Broads National Park",
+image: "/poi-images/uk-the-broads-life-v2.webp"
+},
     coords: [1.62, 52.62],
     coordinates: { lat: 52.62, lng: 1.62 },
     description: {
@@ -347,11 +602,25 @@ export const ukLifeV2: POI[] = [
       en: ["Area of 303 km²", "Over 200 km of navigable waterways", "Formed from peat excavations", "Habitat for the swallowtail butterfly"],
     },
     imageHint: "The Broads Norfolk wetlands with windmill",
+    descriptionAdvanced: {
+      de: "The Broads sind ein Netzwerk aus meist schiffbaren Flüssen und Seen in Norfolk und Suffolk, das durch mittelalterlichen Torfabbau entstand und heute ein einzigartiges Feuchtbiotop ist.",
+      hu: "Norfolk és Suffolk megyék területén fekvő vízi világ, amely középkori tőzegbányászat során keletkezett tavakból és folyókból áll. Az Egyesült Királyság legfontosabb vizes élőhelye.",
+      ro: "O rețea de râuri și lacuri navigabile în Norfolk și Suffolk, formată prin inundarea vechilor exploatări de turbă, fiind o zonă umedă de importanță internațională.",
+      en: "A unique network of navigable rivers and lakes in Norfolk and Suffolk, formed by the flooding of medieval peat excavations, creating a vital wetland habitat.",
+    },
+    factsAdvanced: {
+      de: ["Entstehung: Mittelalterlicher Torfabbau", "Navigierbare Wasserwege: über 200 km", "Nationalparkstatus seit 1989", "Fläche: 303 km²"],
+      hu: ["Eredete: középkori tőzegbányászat", "Hajózható útvonalak hossza: 200+ km", "Nemzeti parki státusz: 1989", "Területe: 303 km²"],
+      ro: ["Origine: exploatări medievale de turbă", "Căi navigabile: peste 200 km", "Statut special din 1989", "Suprafață: 303 km²"],
+      en: ["Origin: Medieval peat diggings", "Navigable waterways: 200+ km", "Member of NP family since 1989", "Area: 303 km²"],
+    },
   },
   {
     id: "uk-chester-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Chester Zoo", hu: "Chesteri Állatkert", ro: "Grădina Zoologică Chester", en: "Chester Zoo" },
+    name: { de: "Chester Zoo", hu: "Chesteri Állatkert", ro: "Grădina Zoologică Chester", en: "Chester Zoo",
+image: "/poi-images/uk-chester-zoo-life-v2.webp"
+},
     coords: [-2.88, 53.22],
     coordinates: { lat: 53.22, lng: -2.88 },
     description: {
@@ -367,5 +636,17 @@ export const ukLifeV2: POI[] = [
       en: ["Area of 125 acres", "Over 20,000 animals", "Founded by George Mottershead", "Most visited zoo in the UK"],
     },
     imageHint: "Chester Zoo elephants enclosure",
+    descriptionAdvanced: {
+      de: "Der 1931 von George Mottershead gegründete Chester Zoo ist einer der größten und meistbesuchten Zoos Großbritanniens und weltweit führend im Artenschutz.",
+      hu: "George Mottershead alapította 1931-ben azzal az elvvel, hogy az állatokat ketrecek helyett tágas kifutókban mutassák be. Ma a szigetország leglátogatottabb állatkertje.",
+      ro: "Fondată în 1931 de George Mottershead, Grădina Zoologică din Chester este una dintre cele mai mari din UK, pionieră în prezentarea animalelor fără cuști vizibile.",
+      en: "Founded in 1931 by George Mottershead, Chester Zoo is one of the UK's largest and most visited wildlife attractions, renowned for its global conservation work.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1931", "Gründer: George Mottershead", "Fläche: 51 Hektar", "Über 20.000 Tiere"],
+      hu: ["Alapítás éve: 1931", "Alapító: George Mottershead", "Területe: 51 hektár", "Több mint 20 000 állat"],
+      ro: ["Anul fondării: 1931", "Fondator: George Mottershead", "Suprafață: 51 de hectare", "Peste 20.000 de animale"],
+      en: ["Founded in 1931", "Founder: George Mottershead", "Area: 125 acres (51 hectares)", "Over 20,000 animals"],
+    },
   }
 ];

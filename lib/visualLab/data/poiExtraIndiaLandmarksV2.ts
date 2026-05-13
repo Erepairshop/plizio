@@ -11,8 +11,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Taj Mahal",
       hu: "Tádzs Mahal",
       ro: "Taj Mahal",
-      en: "Taj Mahal"
-    },
+      en: "Taj Mahal",
+image: "/poi-images/in-taj-mahal-landmarks-v2.webp"
+},
     description: {
       de: "Ein elfenbeinweißes Marmormausoleum am Südufer des Flusses Yamuna in der indischen Stadt Agra. Es wurde 1632 vom Mogulkaiser Shah Jahan in Auftrag gegeben, um das Grab seiner Lieblingsfrau Mumtaz Mahal zu beherbergen.",
       hu: "Egy elefántcsont-fehér márvány mauzóleum az indiai Agra városában, a Jamuna folyó déli partján. 1632-ben rendelte meg Sáh Dzsahán mogul sah, hogy itt helyezze el kedvenc felesége, Mumtáz Mahal sírját.",
@@ -47,8 +48,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Goldener Tempel",
       hu: "Aranytemplom",
       ro: "Templul de Aur",
-      en: "Golden Temple"
-    },
+      en: "Golden Temple",
+image: "/poi-images/in-goldener-tempel-landmarks-v2.webp"
+},
     description: {
       de: "Der Harmandir Sahib, auch bekannt als der Goldene Tempel, ist der heiligste Gurdwara des Sikhismus in der Stadt Amritsar, Punjab, Indien.",
       hu: "A Harmandir Száhib, más néven Aranytemplom, a szikhizmus legszentebb gurdvarája az indiai Pandzsáb állambeli Amritszár városában.",
@@ -83,8 +85,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Hawa Mahal",
       hu: "Hava Mahal",
       ro: "Hawa Mahal",
-      en: "Hawa Mahal"
-    },
+      en: "Hawa Mahal",
+image: "/poi-images/in-hawa-mahal-landmarks-v2.webp"
+},
     description: {
       de: "Ein Palast in Jaipur, Indien. Er besteht aus rotem und rosa Sandstein und befindet sich am Rande des Stadtpalastes von Jaipur.",
       hu: "Egy palota Dzsajpurban, Indiában. Vörös és rózsaszín homokkőből épült, a dzsajpuri Városi Palota szélén található.",
@@ -119,8 +122,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "India Gate",
       hu: "India-kapu (Delhi)",
       ro: "Poarta Indiei (Delhi)",
-      en: "India Gate"
-    },
+      en: "India Gate",
+image: "/poi-images/in-indien-tor-landmarks-v2.webp"
+},
     description: {
       de: "Ein Kriegsdenkmal in der Nähe des Kartavya Pfades am östlichen Rand der 'zeremoniellen Achse' von Neu-Delhi, früher Rajpath genannt.",
       hu: "Egy háborús emlékmű a Kartavja ösvény közelében, Újdelhi 'ceremoniális tengelyének' keleti szélén, amelyet korábban Rádzspathnak hívtak.",
@@ -155,8 +159,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Mysore-Palast",
       hu: "Maiszúri palota",
       ro: "Palatul Mysore",
-      en: "Mysore Palace"
-    },
+      en: "Mysore Palace",
+image: "/poi-images/in-mysore-palast-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Palast und eine königliche Residenz in Mysore. Es ist die offizielle Residenz der Wadiyar-Dynastie und der Sitz des Königreichs Mysore.",
       hu: "Történelmi palota és királyi rezidencia Maiszúrban. A Vádijár-dinasztia hivatalos rezidenciája és a Maiszúri Királyság székhelye.",
@@ -191,8 +196,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Meenakshi-Tempel",
       hu: "Mínáksi-templom",
       ro: "Templul Meenakshi",
-      en: "Meenakshi Temple"
-    },
+      en: "Meenakshi Temple",
+image: "/poi-images/in-meenakshi-tempel-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Hindu-Tempel am Südufer des Vaigai-Flusses in der Tempelstadt Madurai, Tamil Nadu, Indien.",
       hu: "Történelmi hindu templom a Vaigai folyó déli partján, az indiai Tamilnádu állambeli Madurai templomvárosában.",
@@ -227,8 +233,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Rotes Fort",
       hu: "Vörös Erőd",
       ro: "Fortul Roșu",
-      en: "Red Fort"
-    },
+      en: "Red Fort",
+image: "/poi-images/in-rotes-fort-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Fort in Alt-Delhi, Delhi in Indien, das als Hauptresidenz der Mogulkaiser diente.",
       hu: "Történelmi erőd Ódelhiben, Indiában, amely a mogul sahok fő rezidenciájaként szolgált.",
@@ -263,8 +270,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Stadtpalast, Udaipur",
       hu: "Városi palota, Udaipur",
       ro: "Palatul Orașului, Udaipur",
-      en: "City Palace, Udaipur"
-    },
+      en: "City Palace, Udaipur",
+image: "/poi-images/in-stadtpalast-udaipur-landmarks-v2.webp"
+},
     description: {
       de: "Ein Palastkomplex in Udaipur, Rajasthan, Indien. Er wurde über einen Zeitraum von fast 400 Jahren erbaut.",
       hu: "Egy palotakomplexum az indiai Rádzsasztán állambeli Udaipur-ban. Majdnem 400 éven keresztül épült.",
@@ -299,8 +307,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Lotustempel",
       hu: "Lótusz-templom",
       ro: "Templul Lotus",
-      en: "Lotus Temple"
-    },
+      en: "Lotus Temple",
+image: "/poi-images/in-lotus-tempel-landmarks-v2.webp"
+},
     description: {
       de: "Ein Bahá'í-Haus der Anbetung in Delhi, Indien. Bemerkenswert für seine blumenähnliche Form, ist es zu einer bedeutenden Attraktion in der Stadt geworden.",
       hu: "Egy bahá'í imaház Delhiben, Indiában. Virágszerű formájáról nevezetes, a város egyik fő látványosságává vált.",
@@ -335,8 +344,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Akshardham-Tempel",
       hu: "Aksardham-templom",
       ro: "Templul Akshardham",
-      en: "Akshardham Temple"
-    },
+      en: "Akshardham Temple",
+image: "/poi-images/in-akshardham-tempel-landmarks-v2.webp"
+},
     description: {
       de: "Ein Hindu-Tempelkomplex in Delhi, Indien. Auch als Swaminarayan Akshardham bekannt, zeigt er Jahrtausende traditioneller und moderner Hindu-Kultur, Spiritualität und Architektur.",
       hu: "Egy hindu templomkomplexum Delhiben, Indiában. Swaminarayan Akshardham néven is ismert, évezredes hagyományos és modern hindu kultúrát, spiritualitást és építészetet mutat be.",
@@ -371,8 +381,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Virupaksha-Tempel",
       hu: "Virupaksa-templom",
       ro: "Templul Virupaksha",
-      en: "Virupaksha Temple"
-    },
+      en: "Virupaksha Temple",
+image: "/poi-images/in-virupaksha-tempel-landmarks-v2.webp"
+},
     description: {
       de: "Befindet sich in Hampi im Distrikt Ballari, Karnataka, Indien. Er ist Teil der als UNESCO-Weltkulturerbe eingestuften Monumentengruppe in Hampi.",
       hu: "Hampiban található, az indiai Karnátaka állam Ballari kerületében. A hampi műemlékegyüttes része, amely az UNESCO Világörökség listáján szerepel.",
@@ -407,8 +418,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Amer Fort",
       hu: "Amer-erőd",
       ro: "Fortul Amer",
-      en: "Amer Fort"
-    },
+      en: "Amer Fort",
+image: "/poi-images/in-amer-fort-landmarks-v2.webp"
+},
     description: {
       de: "Ein Fort in Amer, Rajasthan, Indien. Amer ist eine Stadt mit einer Fläche von 4 Quadratkilometern in der Nähe von Jaipur, der Hauptstadt von Rajasthan.",
       hu: "Egy erőd Amerben, Rádzsasztánban, Indiában. Amer egy 4 négyzetkilométeres város Dzsajpur, Rádzsasztán fővárosa közelében.",
@@ -443,8 +455,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Mehrangarh Fort",
       hu: "Mehrangarh-erőd",
       ro: "Fortul Mehrangarh",
-      en: "Mehrangarh Fort"
-    },
+      en: "Mehrangarh Fort",
+image: "/poi-images/in-mehrangarh-fort-landmarks-v2.webp"
+},
     description: {
       de: "Eines der größten Forts in Indien, in Jodhpur, Rajasthan. Es befindet sich auf einem Hügel etwa 122 Meter über der umgebenden Ebene.",
       hu: "India egyik legnagyobb erődje, Dzsódhpurban, Rádzsasztánban. Egy dombon található, körülbelül 122 méterrel a környező síkság felett.",
@@ -479,8 +492,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Sonnentempel, Modhera",
       hu: "Naptemplom, Modhera",
       ro: "Templul Soarelui, Modhera",
-      en: "Sun Temple, Modhera"
-    },
+      en: "Sun Temple, Modhera",
+image: "/poi-images/in-sonnentempel-modhera-landmarks-v2.webp"
+},
     description: {
       de: "Ein Hindu-Tempel, der dem Sonnengott Surya gewidmet ist und sich im Dorf Modhera in Gujarat, Indien, befindet.",
       hu: "Egy hindu templom, amelyet a napistennek, Szúrjának szenteltek, és az indiai Gudzsarát állambeli Modhera faluban található.",
@@ -515,8 +529,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Ranthambore Fort",
       hu: "Ranthambore-erőd",
       ro: "Fortul Ranthambore",
-      en: "Ranthambore Fort"
-    },
+      en: "Ranthambore Fort",
+image: "/poi-images/in-ranthambore-fort-landmarks-v2.webp"
+},
     description: {
       de: "Liegt im Ranthambore-Nationalpark in der Nähe der Stadt Sawai Madhopur in Rajasthan. Es war die ehemalige Jagdresidenz der Maharadschas von Jaipur.",
       hu: "A Ranthambore Nemzeti Parkban található, Sawai Madhopur város közelében, Rádzsasztánban. A dzsajpuri maharadzsák egykori vadászkastélya volt.",
@@ -551,8 +566,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Gol Gumbaz",
       hu: "Gol Gumbaz",
       ro: "Gol Gumbaz",
-      en: "Gol Gumbaz"
-    },
+      en: "Gol Gumbaz",
+image: "/poi-images/in-gol-gumbaz-landmarks-v2.webp"
+},
     description: {
       de: "Das Mausoleum von König Mohammed Adil Shah, Sultan von Bijapur. Der Bau des Grabes, das sich in Vijayapura, Karnataka, Indien befindet, wurde 1656 abgeschlossen.",
       hu: "Mohammed Adil sah, a bídzsápuri szultán mauzóleuma. A síremlék építése, amely az indiai Karnátaka állambeli Vidzsajapurában található, 1656-ban fejeződött be.",
@@ -587,8 +603,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Brihadeeswarar-Tempel",
       hu: "Brihadísvara-templom",
       ro: "Templul Brihadeeswarar",
-      en: "Brihadeeswarar Temple"
-    },
+      en: "Brihadeeswarar Temple",
+image: "/poi-images/in-brihadeeswarar-tempel-landmarks-v2.webp"
+},
     description: {
       de: "Ein Hindu-Tempel, der Shiva gewidmet ist und sich in Thanjavur im indischen Bundesstaat Tamil Nadu befindet. Er ist auch als Rajarajeswaram oder Peruvudaiyār Kōvil bekannt.",
       hu: "Egy Siva istennek szentelt hindu templom Thandzsávúrban, az indiai Tamilnádu államban. Rádzsarádzsésvaram vagy Peruvudaijár Kóvil néven is ismert.",
@@ -623,8 +640,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Felsentempel von Badami",
       hu: "Bádámi sziklatemplomai",
       ro: "Templele rupestre din Badami",
-      en: "Badami cave temples"
-    },
+      en: "Badami cave temples",
+image: "/poi-images/in-felsentempel-badami-landmarks-v2.webp"
+},
     description: {
       de: "Ein Komplex von Hindu- und Jain-Höhlentempeln in Badami, einer Stadt im Distrikt Bagalkot in Karnataka, Indien.",
       hu: "Hindu és dzsainista barlangtemplomok komplexuma Bádámiban, egy városban az indiai Karnátaka állam Bagalkot kerületében.",
@@ -659,8 +677,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Vivekananda Rock Memorial",
       hu: "Vivékánanda-sziklaemlékmű",
       ro: "Memorialul Stâncii Vivekananda",
-      en: "Vivekananda Rock Memorial"
-    },
+      en: "Vivekananda Rock Memorial",
+image: "/poi-images/in-vivekananda-rock-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein beliebtes Touristenmonument in Vavathurai, Kanyakumari, Indien. Es wurde 1970 zu Ehren von Swami Vivekananda erbaut.",
       hu: "Népszerű turisztikai emlékmű Vavathuraiban, Kanjakumariban, Indiában. 1970-ben épült Szvámi Vivékánanda tiszteletére.",
@@ -695,8 +714,9 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       de: "Jatayu Earth's Center",
       hu: "Dzsataju Föld Központ",
       ro: "Centrul Pământului Jatayu",
-      en: "Jatayu Earth's Center"
-    },
+      en: "Jatayu Earth's Center",
+image: "/poi-images/in-jatayu-earth-center-landmarks-v2.webp"
+},
     description: {
       de: "Ein Park und eine Touristenattraktion in Chadayamangalam, Kollam, Kerala, Indien. Es beherbergt die größte Vogelskulptur der Welt.",
       hu: "Egy park és turisztikai látványosság Csádajamangalamban, Kollamban, Keralában, Indiában. Itt található a világ legnagyobb madárszobra.",

@@ -10,8 +10,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Veuve Naturschutzgebiet",
       hu: "Veuve természetvédelmi terület",
       ro: "Rezervația Naturală Veuve",
-      en: "Veuve Nature Reserve"
-    },
+      en: "Veuve Nature Reserve",
+image: "/poi-images/veuve-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Schutzgebiet auf La Digue, das als letzter Rückzugsort für den seltenen Seychellen-Paradiesschnäpper dient.",
       hu: "Fontos védett terület La Digue szigetén, amely a ritka seychelle-szigeteki paradicsom-légyvadász utolsó menedékhelye.",
@@ -34,8 +35,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Botanischer Garten von Victoria",
       hu: "Victoriai Botanikus Kert",
       ro: "Grădina Botanică din Victoria",
-      en: "Victoria Botanical Gardens"
-    },
+      en: "Victoria Botanical Gardens",
+image: "/poi-images/victoria-botanical-gardens-life-v2.webp"
+},
     description: {
       de: "Ein über 100 Jahre alter Garten in der Hauptstadt, der Riesenschildkröten, Flughunde und seltene Orchideen beherbergt.",
       hu: "Több mint 100 éves kert a fővárosban, amely óriásteknősöknek, repülőkutyáknak és ritka orchideáknak ad otthont.",
@@ -57,8 +59,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Roche Caiman Vogelschutzgebiet",
       hu: "Roche Caiman madárrezervátum",
       ro: "Sanctuarul de păsări Roche Caiman",
-      en: "Roche Caiman Bird Sanctuary"
-    },
+      en: "Roche Caiman Bird Sanctuary",
+image: "/poi-images/roche-caiman-bird-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein künstlich angelegtes Feuchtgebiet, das zahlreichen Wattvögeln, Libellen und anderen einheimischen Arten einen Lebensraum bietet.",
       hu: "Mesterségesen kialakított vizes élőhely, amely számos gázlómadárnak, szitakötőnek és más őshonos fajnak nyújt otthont.",
@@ -80,8 +83,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Barbarons Biodiversitätszentrum",
       hu: "Barbarons Biodiverzitás Központ",
       ro: "Centrul de Biodiversitate Barbarons",
-      en: "Barbarons Biodiversity Centre"
-    },
+      en: "Barbarons Biodiversity Centre",
+image: "/poi-images/barbarons-biodiversity-centre-life-v2.webp"
+},
     description: {
       de: "Ein Zentrum für die Erhaltung und Erforschung der einzigartigen Flora und Fauna der Seychellen mit botanischen Sammlungen.",
       hu: "A Seychelle-szigetek egyedülálló növény- és állatvilágának megőrzésére és kutatására létrehozott központ botanikai gyűjteményekkel.",
@@ -103,8 +107,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Teeplantage von Mahé",
       hu: "Mahéi teaültetvény",
       ro: "Plantația de ceai din Mahé",
-      en: "Tea Plantation Mahé"
-    },
+      en: "Tea Plantation Mahé",
+image: "/poi-images/tea-plantation-mahe-life-v2.webp"
+},
     description: {
       de: "Die einzige Teeplantage des Landes, gelegen in den kühlen Bergen von Morne Blanc, mit Panoramablick über die Insel.",
       hu: "Az ország egyetlen teaültetvénye, amely a Morne Blanc hűvös hegyei között található, panorámás kilátással a szigetre.",
@@ -127,8 +132,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Landwirtschaftliches Ausstellungszentrum",
       hu: "Mezőgazdasági Kiállítási Központ",
       ro: "Centrul Expozițional Agricol",
-      en: "Agricultural Exhibition Centre"
-    },
+      en: "Agricultural Exhibition Centre",
+image: "/poi-images/agricultural-exhibition-centre-life-v2.webp"
+},
     description: {
       de: "Ein Zentrum zur Förderung lokaler Landwirtschaftsprodukte und Techniken in Grand Anse auf der Insel Mahé.",
       hu: "Központ a helyi mezőgazdasági termékek és technikák népszerűsítésére Grand Anse-ban, Mahé szigetén.",
@@ -151,8 +157,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Paradis des Enfants Spielpark",
       hu: "Paradis des Enfants szabadidőpark",
       ro: "Parcul de distracții Paradis des Enfants",
-      en: "Paradis des Enfants"
-    },
+      en: "Paradis des Enfants",
+image: "/poi-images/paradis-des-enfants-life-v2.webp"
+},
     description: {
       de: "Ein großer Spielpark in Victoria mit Karussells, Spielgeräten und Erholungsflächen für Kinder und Familien.",
       hu: "Nagy szabadidőpark Victoriában körhintákkal, játékokkal és pihenőhelyekkel a gyermekek és családok számára.",
@@ -174,8 +181,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Lebensraum des Seychellen-Papageis",
       hu: "A Seychelle-szigeteki papagáj élőhelye",
       ro: "Habitatul papagalului negru",
-      en: "Black Parrot Habitat"
-    },
+      en: "Black Parrot Habitat",
+image: "/poi-images/black-parrot-habitat-life-v2.webp"
+},
     description: {
       de: "Ein spezifisches Gebiet im Praslin Nationalpark, das die einzige Population des seltenen Seychellen-Vasa-Papageis beherbergt.",
       hu: "Praslin Nemzeti Park egy speciális területe, amely a ritka seychelle-szigeteki vázapapagáj egyetlen populációjának ad otthont.",
@@ -197,8 +205,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Schildkröten-Brutstätte Anse Kerlan",
       hu: "Anse Kerlan teknőskeltető",
       ro: "Centrul de incubație a țestoaselor Anse Kerlan",
-      en: "Anse Kerlan Turtle Hatchery"
-    },
+      en: "Anse Kerlan Turtle Hatchery",
+image: "/poi-images/anse-kerlan-turtle-hatchery-life-v2.webp"
+},
     description: {
       de: "Ein geschützter Strandabschnitt auf Praslin, der als einer der wichtigsten Nistplätze für Karettschildkröten gilt.",
       hu: "Védett tengerparti szakasz Praslinon, amely a közönséges cserepesteknősök egyik legfontosabb fészkelőhelye.",
@@ -220,8 +229,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Seevogelhabitat Beacon Island",
       hu: "Beacon-szigeti madárélőhely",
       ro: "Habitatul de păsări marine de pe insula Beacon",
-      en: "Beacon Island (Île Sèche)"
-    },
+      en: "Beacon Island (Île Sèche)",
+image: "/poi-images/beacon-island-habitat-life-v2.webp"
+},
     description: {
       de: "Eine kleine, felsige Insel östlich von Mahé, die als wichtiger Brut- und Rastplatz für verschiedene Seevogelarten dient.",
       hu: "Kicsi, sziklás sziget Mahétól keletre, amely számos tengeri madárfaj fontos fészkelő- és pihenőhelye.",
@@ -244,8 +254,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Booby Island Naturschutzgebiet",
       hu: "Booby-szigeti természetvédelmi terület",
       ro: "Rezervația Naturală Booby Island",
-      en: "Booby Island"
-    },
+      en: "Booby Island",
+image: "/poi-images/booby-island-reserve-life-v2.webp"
+},
     description: {
       de: "Ein steiles Eiland nördlich von Praslin, benannt nach den Tölpeln, die hier einst in großen Kolonien nisteten.",
       hu: "Praslintól északra fekvő meredek sziget, amelyet az itt egykor nagy kolóniákban fészkelő szulákról neveztek el.",
@@ -267,8 +278,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Recif Island Vogelschutzgebiet",
       hu: "Récif-szigeti madárrezervátum",
       ro: "Sanctuarul de păsări de pe insula Récif",
-      en: "Recif Island Bird Sanctuary"
-    },
+      en: "Recif Island Bird Sanctuary",
+image: "/poi-images/recif-island-sanctuary-life-v2.webp"
+},
     description: {
       de: "Eine kleine Granitinsel, die eine bedeutende Kolonie von Rußseeschwalben und anderen tropischen Seevögeln beherbergt.",
       hu: "Kicsi gránitsziget, amely jelentős füstös csér kolóniának és más trópusi tengeri madaraknak ad otthont.",
@@ -290,8 +302,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Mangroven am Vacoa Nature Trail",
       hu: "A Vacoa tanösvény mangroveerdeje",
       ro: "Mangrovele de pe traseul Vacoa",
-      en: "Vacoa Nature Trail Mangroves"
-    },
+      en: "Vacoa Nature Trail Mangroves",
+image: "/poi-images/vacoa-nature-trail-mangroves-life-v2.webp"
+},
     description: {
       de: "Ein Lehrpfad an der Westküste von Mahé, der durch ein intaktes Mangroven-Ökosystem mit Krabben und Fischen führt.",
       hu: "Mahé nyugati partján található tanösvény, amely egy ép mangrove-ökoszisztémán keresztül vezet, rákokkal és halakkal.",
@@ -313,8 +326,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Glacis-Trois Frères Ökosystem",
       hu: "Glacis-Trois Frères ökoszisztéma",
       ro: "Ecosistemul Glacis-Trois Frères",
-      en: "Glacis-Trois Frères Habitat"
-    },
+      en: "Glacis-Trois Frères Habitat",
+image: "/poi-images/glacis-trois-freres-habitat-life-v2.webp"
+},
     description: {
       de: "Ein Berggebiet auf Mahé, das für seine Kannenpflanzen und die kleinsten Frösche der Welt bekannt ist.",
       hu: "Hegyvidéki terület Mahé szigetén, amely kancsóka növényeiről és a világ legkisebb békáiról ismert.",
@@ -336,8 +350,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Vanilleplantagen auf La Digue",
       hu: "La Digue-i vaníliaültetvények",
       ro: "Plantațiile de vanilie de pe La Digue",
-      en: "La Digue Vanilla Plantations"
-    },
+      en: "La Digue Vanilla Plantations",
+image: "/poi-images/la-digue-vanilla-plantations-life-v2.webp"
+},
     description: {
       de: "Traditionelle Anbauflächen auf La Digue, auf denen die kostbare Vanilleorchidee in Kombination mit anderen Nutzpflanzen gedeiht.",
       hu: "Hagyományos mezőgazdasági területek La Digue szigetén, ahol az értékes vaníliaorchidea más haszonnövényekkel együtt terem.",
@@ -360,8 +375,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Patchouli-Felder von Mahé",
       hu: "Mahéi pacsuli-földek",
       ro: "Câmpurile de patchouli din Mahé",
-      en: "Patchouli Fields Mahé"
-    },
+      en: "Patchouli Fields Mahé",
+image: "/poi-images/patchouli-fields-mahe-life-v2.webp"
+},
     description: {
       de: "Einige der wenigen verbliebenen Felder im Süden von Mahé, auf denen Patchouli für die Parfümherstellung kultiviert wird.",
       hu: "Mahé déli részén található azon kevés mező egyike, ahol pacsulit termesztenek parfümgyártáshoz.",
@@ -383,8 +399,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Zimtwälder von Silhouette",
       hu: "Silhouette-szigeti fahéjerdők",
       ro: "Pădurile de scorțișoară de pe Silhouette",
-      en: "Silhouette Cinnamon Forest"
-    },
+      en: "Silhouette Cinnamon Forest",
+image: "/poi-images/silhouette-cinnamon-forest-life-v2.webp"
+},
     description: {
       de: "Ausgedehnte Wälder auf der Insel Silhouette, in denen wilder Zimt wächst, ein Relikt aus der Zeit der Zimt-Produktion.",
       hu: "Kiterjedt erdők Silhouette szigetén, ahol vadfahéj nő, a fahéjtermelés korabeli emléke.",
@@ -406,8 +423,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Île aux Vaches Marines Habitat",
       hu: "Île aux Vaches Marines élőhely",
       ro: "Habitatul Île aux Vaches Marines",
-      en: "Île aux Vaches Marines Habitat"
-    },
+      en: "Île aux Vaches Marines Habitat",
+image: "/poi-images/vaches-marines-habitat-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Habitat für Seevögel und marine Arten auf den Felsen westlich von Mahé, benannt nach den Dugongs, die hier früher lebten.",
       hu: "Fontos madár- és tengeri élőhely Mahétól nyugatra, az egykor itt élt dugongokról (tengeri tehenekről) nevezték el.",
@@ -429,8 +447,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Seevogelkolonie Mamelles Island",
       hu: "Mamelles-szigeti tengeri madárkolónia",
       ro: "Colonia de păsări marine de pe insula Mamelles",
-      en: "Mamelles Island Seabird Colony"
-    },
+      en: "Mamelles Island Seabird Colony",
+image: "/poi-images/mamelles-island-colony-life-v2.webp"
+},
     description: {
       de: "Eine isolierte Granitinsel, die eine der wichtigsten Brutkolonien für Rußseeschwalben in den inneren Seychellen-Inseln beherbergt.",
       hu: "Elszigetelt gránitsziget, amely a belső Seychelle-szigetek egyik legfontosabb füstös csér kolóniájának ad otthont.",
@@ -453,8 +472,9 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       de: "Kokosnussplantage auf D'Arros",
       hu: "D'Arros-szigeti kókuszültetvény",
       ro: "Plantația de cocos de pe D'Arros",
-      en: "Coconut Plantation D'Arros"
-    },
+      en: "Coconut Plantation D'Arros",
+image: "/poi-images/coconut-plantation-darros-life-v2.webp"
+},
     description: {
       de: "Eine ehemalige kommerzielle Kokosnussplantage auf dem D'Arros-Atoll, die heute Teil eines Naturschutzgebiets ist.",
       hu: "Egykori kereskedelmi kókuszültetvény a D'Arros-atollon, amely ma egy természetvédelmi terület része.",

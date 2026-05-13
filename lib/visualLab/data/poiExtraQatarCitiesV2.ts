@@ -10,8 +10,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Doha",
       hu: "Doha",
       ro: "Doha",
-      en: "Doha"
-    },
+      en: "Doha",
+image: "/poi-images/qa-doha-cities-v2.webp"
+},
     description: {
       de: "Die glitzernde Metropole Doha am Arabischen Golf vereint futuristische Wolkenkratzer mit traditionellen Souks. Als Hauptstadt von Katar ist sie das dynamische Herzstück des Landes, das sich rasant zu einem globalen Kultur- und Finanzzentrum entwickelt hat.",
       hu: "A Perzsa-öböl partján fekvő csillogó metropolisz, Doha, futurisztikus felhőkarcolóival és hagyományos piacával ejti ámulatba a látogatókat. Katar fővárosaként az ország lüktető szíve, amely hihetetlen gyorsasággal vált globális kulturális és pénzügyi központtá.",
@@ -66,8 +67,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Rayyan",
       hu: "Al-Rajján",
       ro: "Al Rayyan",
-      en: "Al Rayyan"
-    },
+      en: "Al Rayyan",
+image: "/poi-images/qa-al-rayyan-cities-v2.webp"
+},
     description: {
       de: "Al Rayyan ist eine der größten Städte Katars und nahtlos mit der Hauptstadt Doha verwachsen. Die Stadt ist bekannt für ihre weitreichenden Bildungs- und Sporteinrichtungen, darunter die weitläufige Education City.",
       hu: "Al-Rajján Katar egyik legnagyobb városa, amely szorosan egybeépült a fővárossal, Dohával. A település elsősorban hatalmas oktatási és sportlétesítményeiről, köztük a kiterjedt Education City kampuszról ismert.",
@@ -122,8 +124,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Wakrah",
       hu: "Al-Vakra",
       ro: "Al Wakrah",
-      en: "Al Wakrah"
-    },
+      en: "Al Wakrah",
+image: "/poi-images/qa-al-wakrah-cities-v2.webp"
+},
     description: {
       de: "Einst ein ruhiges Perlenfischerdorf, ist Al Wakrah heute eine schnell wachsende Küstenstadt südlich von Doha. Sie bewahrt ihren historischen Charme durch traditionelle Architektur und einen authentischen Souk am Meer.",
       hu: "Az egykor csendes gyöngyhalász faluból mára egy gyorsan növekvő tengerparti város lett Dohától délre. Történelmi báját a hagyományos építészet és a tengerparti autentikus piac őrzi.",
@@ -178,8 +181,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Khor",
       hu: "Al-Hor",
       ro: "Al Khor",
-      en: "Al Khor"
-    },
+      en: "Al Khor",
+image: "/poi-images/qa-al-khor-cities-v2.webp"
+},
     description: {
       de: "Al Khor liegt an der Nordostküste Katars und ist bekannt für seine natürliche Schönheit und ruhige Atmosphäre. Die Stadt ist von ausgedehnten Mangrovenwäldern umgeben und zieht Naturliebhaber aus der ganzen Region an.",
       hu: "A Katar északkeleti partján fekvő Al-Hor természeti szépségéről és nyugodt légköréről ismert. A várost kiterjedt mangroveerdők övezik, amelyek az egész régióból vonzzák a természetkedvelőket.",
@@ -234,8 +238,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Lusail",
       hu: "Luszail",
       ro: "Lusail",
-      en: "Lusail"
-    },
+      en: "Lusail",
+image: "/poi-images/qa-lusail-cities-v2.webp"
+},
     description: {
       de: "Lusail ist Katars neueste Planstadt, die auf Nachhaltigkeit und modernste Technologie setzt. Mit ihren markanten Wolkenkratzern und künstlichen Inseln repräsentiert sie die Zukunftsvision des Wüstenstaates.",
       hu: "Luszail Katar legújabb tervezett városa, amely a fenntarthatóságra és a legmodernebb technológiákra összpontosít. Jellegzetes felhőkarcolóival és mesterséges szigeteivel a sivatagi állam jövőképét testesíti meg.",
@@ -290,8 +295,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Mesaieed",
       hu: "Meszajíd",
       ro: "Mesaieed",
-      en: "Mesaieed"
-    },
+      en: "Mesaieed",
+image: "/poi-images/qa-mesaieed-cities-v2.webp"
+},
     description: {
       de: "Mesaieed ist eine wichtige Industriestadt im Süden Katars, die sich rund um den Erdöl- und Erdgassektor entwickelt hat. Neben den Industrieanlagen ist die Stadt auch für ihre spektakulären Sanddünen bekannt, die bei Offroad-Fahrern beliebt sind.",
       hu: "Meszajíd egy fontos iparváros Katar déli részén, amely az olaj- és gázszektor köré épült ki. Az ipari létesítmények mellett a város a terepjárósok körében népszerű, látványos homokdűnéiről is ismert.",
@@ -346,8 +352,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Dukhan",
       hu: "Duhán",
       ro: "Dukhan",
-      en: "Dukhan"
-    },
+      en: "Dukhan",
+image: "/poi-images/qa-dukhan-cities-v2.webp"
+},
     description: {
       de: "Dukhan liegt an der Westküste Katars und ist von historischer Bedeutung für die Entwicklung des Landes, da hier das erste Ölfeld entdeckt wurde. Die Stadt wird von QatarEnergy verwaltet und zeichnet sich durch ruhige Strände aus.",
       hu: "A Katar nyugati partján fekvő Duhán történelmi jelentőségű az ország fejlődése szempontjából, mivel itt fedezték fel az első olajmezőt. A várost a QatarEnergy kezeli, és csendes strandjairól is ismert.",
@@ -402,8 +409,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Madinat ash Shamal",
       hu: "Madínat as-Samál",
       ro: "Madinat ash Shamal",
-      en: "Madinat ash Shamal"
-    },
+      en: "Madinat ash Shamal",
+image: "/poi-images/qa-madinat-ash-shamal-cities-v2.webp"
+},
     description: {
       de: "Als eine der nördlichsten Städte Katars bietet Madinat ash Shamal einen ruhigen Rückzugsort fernab der belebten Hauptstadt. Die Gegend ist reich an historischen Forts und kleinen Fischerdörfern.",
       hu: "Katar egyik legészakibb városaként Madínat as-Samál békés menedéket kínál a nyüzsgő fővárostól távol. A környék gazdag történelmi erődökben és kis halászfalvakban.",
@@ -458,8 +466,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Umm Salal Mohammed",
       hu: "Umm Szalál Muhammad",
       ro: "Umm Salal Mohammed",
-      en: "Umm Salal Mohammed"
-    },
+      en: "Umm Salal Mohammed",
+image: "/poi-images/qa-umm-salal-mohammed-cities-v2.webp"
+},
     description: {
       de: "Umm Salal Mohammed ist eine historische Stadt nördlich von Doha, die für ihre markanten Wachtürme aus dem 19. Jahrhundert bekannt ist. Sie verbindet antike Architektur mit modernen Wohnvierteln.",
       hu: "Umm Szalál Muhammad egy történelmi város Dohától északra, amely a 19. századi jellegzetes őrtornyairól ismert. Az ősi építészetet modern lakónegyedekkel ötvözi.",
@@ -514,8 +523,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Umm Salal Ali",
       hu: "Umm Szalál Ali",
       ro: "Umm Salal Ali",
-      en: "Umm Salal Ali"
-    },
+      en: "Umm Salal Ali",
+image: "/poi-images/qa-umm-salal-ali-cities-v2.webp"
+},
     description: {
       de: "Umm Salal Ali ist ein ruhiger Vorort, der tief in der katarischen Geschichte verwurzelt ist. Die Gemeinde zeichnet sich durch landwirtschaftliche Farmen und weitläufige Villen aus.",
       hu: "Umm Szalál Ali egy békés külváros, amely mélyen gyökerezik a katari történelemben. A közösséget mezőgazdasági farmok és tágas villák jellemzik.",
@@ -570,8 +580,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Shahaniya",
       hu: "As-Sahaníja",
       ro: "Al Shahaniya",
-      en: "Al Shahaniya"
-    },
+      en: "Al Shahaniya",
+image: "/poi-images/qa-al-shahaniya-cities-v2.webp"
+},
     description: {
       de: "Al Shahaniya liegt im Zentrum der katarischen Halbinsel und ist als das Herz des traditionellen Kamelrennsports bekannt. Die Stadt verbindet Wüstenkultur mit den modernen Annehmlichkeiten des Emirats.",
       hu: "A Katari-félsziget központjában fekvő As-Sahaníja a hagyományos teveversenyek központjaként ismert. A város ötvözi a sivatagi kultúrát az emírség modern kényelmével.",
@@ -626,8 +637,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Ras Laffan",
       hu: "Rász Laffán",
       ro: "Ras Laffan",
-      en: "Ras Laffan"
-    },
+      en: "Ras Laffan",
+image: "/poi-images/qa-ras-laffan-cities-v2.webp"
+},
     description: {
       de: "Ras Laffan ist eine hochindustrialisierte Planstadt an der Nordostküste, die speziell für die Verarbeitung von Flüssigerdgas (LNG) errichtet wurde. Sie ist ein Eckpfeiler der katarischen Wirtschaft.",
       hu: "Rász Laffán egy erősen iparosodott, tervezett város az északkeleti parton, amelyet kifejezetten a cseppfolyósított földgáz (LNG) feldolgozására építettek. Ez a település a katari gazdaság egyik alappillére.",
@@ -682,8 +694,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Ruwais",
       hu: "Al-Ruvajsz",
       ro: "Al Ruwais",
-      en: "Al Ruwais"
-    },
+      en: "Al Ruwais",
+image: "/poi-images/qa-al-ruwais-cities-v2.webp"
+},
     description: {
       de: "Al Ruwais ist ein charmantes Hafenstädtchen an der nördlichsten Spitze Katars. Der Ort ist bekannt für seinen traditionellen Dhau-Hafen und bietet eine entspannte Atmosphäre fernab der städtischen Hektik.",
       hu: "Al-Ruvajsz egy bájos kikötővároska Katar legészakibb csücskén. A település híres hagyományos hajókikötőjéről, és nyugodt légkört kínál távol a városi nyüzsgéstől.",
@@ -738,8 +751,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Thakhira",
       hu: "Al-Thakira",
       ro: "Al Thakhira",
-      en: "Al Thakhira"
-    },
+      en: "Al Thakhira",
+image: "/poi-images/qa-al-thakhira-cities-v2.webp"
+},
     description: {
       de: "Die Küstenstadt Al Thakhira liegt nördlich von Al Khor und ist berühmt für ihr einzigartiges Ökosystem. Dichte Mangrovenwälder treffen hier auf das salzige Wasser des Golfs und schaffen einen Zufluchtsort für zahlreiche Vogelarten.",
       hu: "Az Al-Hortól északra fekvő Al-Thakira tengerparti város egyedülálló ökoszisztémájáról híres. A sűrű mangroveerdők itt találkoznak az öböl sós vizével, számos madárfajnak nyújtva menedéket.",
@@ -794,8 +808,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Wukair",
       hu: "Al-Vukajr",
       ro: "Al Wukair",
-      en: "Al Wukair"
-    },
+      en: "Al Wukair",
+image: "/poi-images/qa-al-wukair-cities-v2.webp"
+},
     description: {
       de: "Al Wukair ist eine ruhige Wohnstadt in der Nähe von Al Wakrah, die in den letzten Jahren ein starkes Wachstum verzeichnete. Sie ist besonders bei Familien beliebt, die eine friedliche Umgebung nahe der Hauptstadt suchen.",
       hu: "Al-Vukajr egy csendes lakóváros Al-Vakra közelében, amely az elmúlt években jelentős növekedésnek indult. Különösen népszerű azon családok körében, akik békés környezetet keresnek a főváros közelében.",
@@ -850,8 +865,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Simaisma",
       hu: "Szimajszma",
       ro: "Simaisma",
-      en: "Simaisma"
-    },
+      en: "Simaisma",
+image: "/poi-images/qa-simaisma-cities-v2.webp"
+},
     description: {
       de: "Simaisma ist ein malerischer Küstenort nördlich von Doha, der sich von einem kleinen Fischerdorf zu einem luxuriösen Rückzugsort entwickelt hat. Der Ort bewahrt eine friedliche Küstenatmosphäre.",
       hu: "Szimajszma egy festői tengerparti város Dohától északra, amely kis halászfaluból luxus menedékhellyé fejlődött. A település máig őrzi békés partvidéki hangulatát.",
@@ -906,8 +922,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Abu Dhalouf",
       hu: "Abu-Dzalúf",
       ro: "Abu Dhalouf",
-      en: "Abu Dhalouf"
-    },
+      en: "Abu Dhalouf",
+image: "/poi-images/qa-abu-dhalouf-cities-v2.webp"
+},
     description: {
       de: "Abu Dhalouf ist eine beschauliche Stadt im äußersten Norden Katars. Mit ihrem weitläufigen Park direkt am Meer ist sie ein beliebtes Ziel für entspannte Picknicks und familiäre Ausflüge.",
       hu: "Abu-Dzalúf egy békés városka Katar legészakibb részén. A tengerparti, tágas parkjának köszönhetően népszerű célpontja a pihentető piknikeknek és családi kirándulásoknak.",
@@ -962,8 +979,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Umm Bab",
       hu: "Umm Báb",
       ro: "Umm Bab",
-      en: "Umm Bab"
-    },
+      en: "Umm Bab",
+image: "/poi-images/qa-umm-bab-cities-v2.webp"
+},
     description: {
       de: "Umm Bab ist eine kleine Siedlung an der Westküste Katars, berühmt für ihren „Palm Tree Beach“. Die Kombination aus Wüstensand, kleinen Palmenhainen und dem Meer macht den Ort einzigartig.",
       hu: "Umm Báb egy kis település Katar nyugati partján, amely „Pálmafa-strandjáról” híres. A sivatagi homok, a kis pálmaligetek és a tenger közelsége egyedivé teszi a helyet.",
@@ -1018,8 +1036,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Ghuwariyah",
       hu: "Al-Guvarija",
       ro: "Al Ghuwariyah",
-      en: "Al Ghuwariyah"
-    },
+      en: "Al Ghuwariyah",
+image: "/poi-images/qa-al-ghuwariyah-cities-v2.webp"
+},
     description: {
       de: "Fernab der Küste liegt Al Ghuwariyah tief im nördlichen Inland Katars. Es ist eine ländlich geprägte Oasenstadt, in der Landwirtschaft und Viehzucht traditionell eine große Rolle spielen.",
       hu: "A partoktól távol, Katar északi belső részén fekszik Al-Guvarija. Ez egy vidékies jellegű oázisváros, ahol a mezőgazdaság és az állattenyésztés hagyományosan nagy szerepet játszik.",
@@ -1074,8 +1093,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Jumaliyah",
       hu: "Al-Dzumalija",
       ro: "Al Jumaliyah",
-      en: "Al Jumaliyah"
-    },
+      en: "Al Jumaliyah",
+image: "/poi-images/qa-al-jumaliyah-cities-v2.webp"
+},
     description: {
       de: "Al Jumaliyah ist eine kleine Inlandsgemeinde im Westen Katars. Sie bietet einen authentischen Einblick in das traditionelle dörfliche Leben, umgeben von unberührter Wüstenlandschaft.",
       hu: "Al-Dzumalija egy apró szárazföldi település Katar nyugati részén. Hiteles bepillantást enged a hagyományos falusi életbe, miközben érintetlen sivatagi táj veszi körül.",
@@ -1130,8 +1150,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Abu Samra",
       hu: "Abu-Szamra",
       ro: "Abu Samra",
-      en: "Abu Samra"
-    },
+      en: "Abu Samra",
+image: "/poi-images/qa-abu-samra-cities-v2.webp"
+},
     description: {
       de: "Abu Samra ist eine entscheidende Grenzstadt im äußersten Südwesten Katars. Sie dient als der einzige Landgrenzübergang des Landes und verbindet das Emirat mit Saudi-Arabien.",
       hu: "Abu-Szamra egy kulcsfontosságú határváros Katar legdélnyugatibb részén. Ez a település biztosítja az ország egyetlen szárazföldi határátkelőjét, összekötve az emírséget Szaúd-Arábiával.",
@@ -1186,8 +1207,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Kharrara",
       hu: "Al-Harrára",
       ro: "Al Kharrara",
-      en: "Al Kharrara"
-    },
+      en: "Al Kharrara",
+image: "/poi-images/qa-al-kharrara-cities-v2.webp"
+},
     description: {
       de: "Tief im steinigen Süden Katars liegt Al Kharrara, eine einsame Wüstensiedlung. Die Umgebung ist durch schroffe Kalksteinformationen und ausgetrocknete Flussbetten geprägt.",
       hu: "Katar sziklás déli részén bújik meg Al-Harrára, egy elszigetelt sivatagi település. A környéket zord mészkőformációk és kiszáradt folyómedrek jellemzik.",
@@ -1242,8 +1264,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Rawdat Rashed",
       hu: "Raudat Rásid",
       ro: "Rawdat Rashed",
-      en: "Rawdat Rashed"
-    },
+      en: "Rawdat Rashed",
+image: "/poi-images/qa-rawdat-rashed-cities-v2.webp"
+},
     description: {
       de: "Rawdat Rashed ist ein kleines Dorf auf dem Weg von Doha an die Westküste. Es liegt in einer Senke, die sich bei seltenen Regenfällen im Winter in ein kleines grünes Biotop verwandelt.",
       hu: "Raudat Rásid egy kis falu a Dohából a nyugati partra vezető úton. Egy olyan medencében fekszik, amely a ritka téli esőzések idején apró, zöldellő biotóppá változik.",
@@ -1298,8 +1321,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Zubarah",
       hu: "Az-Zubára",
       ro: "Al Zubarah",
-      en: "Al Zubarah"
-    },
+      en: "Al Zubarah",
+image: "/poi-images/qa-al-zubarah-cities-v2.webp"
+},
     description: {
       de: "Obwohl heute fast unbewohnt, ist die Ruinenstadt Al Zubarah das bedeutendste archäologische Erbe Katars. Im 18. Jahrhundert war sie ein florierendes Handelszentrum und die wichtigste Perlenfischerstadt der Golfregion.",
       hu: "Bár ma már szinte lakatlan, az-Zubára romvárosa Katar legjelentősebb régészeti öröksége. A 18. században virágzó kereskedelmi központ és az öböl-menti régió legfontosabb gyöngyhalász városa volt.",
@@ -1354,8 +1378,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Muaither",
       hu: "Muaither",
       ro: "Muaither",
-      en: "Muaither"
-    },
+      en: "Muaither",
+image: "/poi-images/qa-muaither-cities-v2.webp"
+},
     description: {
       de: "Muaither ist ein lebhafter und dicht besiedelter Vorort im Großraum Al Rayyan. Die Gegend ist geprägt von belebten Einkaufsstraßen, unzähligen Restaurants und einer multikulturellen Atmosphäre.",
       hu: "Muaither egy nyüzsgő és sűrűn lakott előváros az Al-Rajján régióban. A környéket forgalmas bevásárlóutcák, számtalan étterem és multikulturális légkör jellemzi.",
@@ -1410,8 +1435,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Sailiya",
       hu: "Asz-Szajlíja",
       ro: "Al Sailiya",
-      en: "Al Sailiya"
-    },
+      en: "Al Sailiya",
+image: "/poi-images/qa-al-sailiya-cities-v2.webp"
+},
     description: {
       de: "Al Sailiya liegt im Westen der Hauptstadt und hat sich in den letzten Jahrzehnten von einer landwirtschaftlichen Gegend zu einem wichtigen Logistik- und Wohnzentrum entwickelt. Es grenzt direkt an die Wüste.",
       hu: "A fővárostól nyugatra fekvő Asz-Szajlíja az elmúlt évtizedekben mezőgazdasági területből fontos logisztikai és lakóközponttá nőtte ki magát. Közvetlenül a sivatag határán fekszik.",
@@ -1466,8 +1492,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Kheesa",
       hu: "Al-Hísza",
       ro: "Al Kheesa",
-      en: "Al Kheesa"
-    },
+      en: "Al Kheesa",
+image: "/poi-images/qa-al-kheesa-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiges, gehobenes Wohnviertel im Bezirk Al Daayen. Al Kheesa zeichnet sich durch großzügige Anwesen aus und profitiert von der Nähe zur neugebauten Lusail City.",
       hu: "Egy csendes, elegáns lakónegyed Al-Daajen kerületben. Al-Hísza tágas birtokaival tűnik ki, és sokat profitál az újonnan épült Luszail város közelségéből.",
@@ -1522,8 +1549,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Leabaib",
       hu: "Lebáib",
       ro: "Leabaib",
-      en: "Leabaib"
-    },
+      en: "Leabaib",
+image: "/poi-images/qa-leabaib-cities-v2.webp"
+},
     description: {
       de: "Leabaib ist ein schnell wachsender Vorort in der Nähe der katarischen Universität. Die moderne Infrastruktur macht ihn zu einem Magneten für junge Familien und Studierende.",
       hu: "Lebáib egy gyorsan növekvő előváros a Katari Egyetem közelében. Modern infrastruktúrája mágnesként vonzza a fiatal családokat és az egyetemistákat.",
@@ -1578,8 +1606,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Mashaf",
       hu: "Al-Masaf",
       ro: "Al Mashaf",
-      en: "Al Mashaf"
-    },
+      en: "Al Mashaf",
+image: "/poi-images/qa-al-mashaf-cities-v2.webp"
+},
     description: {
       de: "Direkt im Landesinneren von Al Wakrah gelegen, hat sich Al Mashaf von einer trockenen Ebene zu einem gefragten Wohngebiet entwickelt. Neue Straßen und Gewerbeparks prägen das heutige Bild.",
       hu: "Közvetlenül Al-Vakra belsejében fekszik Al-Masaf, amely száraz síkságból keresett lakóövezetté fejlődött. Új utak és ipari parkok határozzák meg a mai arculatát.",
@@ -1634,8 +1663,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
       de: "Al Kiranah",
       hu: "Al-Kirána",
       ro: "Al Kiranah",
-      en: "Al Kiranah"
-    },
+      en: "Al Kiranah",
+image: "/poi-images/qa-al-kiranah-cities-v2.webp"
+},
     description: {
       de: "Al Kiranah ist ein kleiner Ort am Rande der großen Sandwüste im Südwesten. Das Dorf ist von rauer Natur umgeben und ein idealer Ausgangspunkt für Offroad-Abenteuer.",
       hu: "Al-Kirána egy apró falu a nagy délnyugati homoksivatag szélén. A települést zord természet veszi körül, és ideális kiindulópont a terepjárós kalandokhoz.",

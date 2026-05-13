@@ -7,7 +7,9 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     type: "mountain",
     parent: "JM-SR",
     coords: [-76.5744, 18.0877],
-    name: { de: "Blue Mountain Peak", hu: "Blue Mountain Peak", ro: "Blue Mountain Peak", en: "Blue Mountain Peak" },
+    name: { de: "Blue Mountain Peak", hu: "Blue Mountain Peak", ro: "Blue Mountain Peak", en: "Blue Mountain Peak",
+image: "/poi-images/blue-mountain-peak-relief-v2.webp"
+},
     description: { de: "Der höchste Punkt Jamaikas mit einer Höhe von 2.256 Metern.", hu: "Jamaica legmagasabb pontja, 2256 méter magas.", ro: "Cel mai înalt punct din Jamaica, cu o înălțime de 2.256 de metri.", en: "The highest point in Jamaica, standing at 2,256 meters." },
     facts: {
       de: ["Höchster Berg Jamaikas", "Teil der Blue Mountains", "Beliebtes Wanderziel", "Bietet spektakuläre Aussichten"],
@@ -20,13 +22,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Highest elevation in Jamaica at 2,256 meters (7,402 feet).", "Part of the Blue and John Crow Mountains, a UNESCO World Heritage site.", "Home to the endemic Giant Swallowtail Butterfly, the largest in the Americas.", "The peak is accessible via a 14-kilometer round-trip hiking trail.", "Temperature at the summit can drop to near-freezing levels at night.", "The soil is enriched with volcanic minerals, ideal for premium coffee.", "On clear days, the coast of Cuba is visible from the summit.", "The area receives some of the highest rainfall totals in the Caribbean."], de: ["Der Gipfel liegt exakt auf 2.256 Metern (7.402 Fuß) über dem Meeresspiegel.", "Wanderer benötigen etwa 3 bis 4 Stunden für den Aufstieg von Whitfield Hall aus.", "Die Blue Mountains gehören seit 2015 zum UNESCO-Weltkulturerbe.", "Hier herrscht ein kühles Klima mit Temperaturen, die nachts bis auf 5 Grad Celsius sinken können.", "Der Berg ist die Heimat von über 200 Vogelarten, von denen viele nur hier vorkommen.", "Geologisch bestehen die Blue Mountains hauptsächlich aus metamorphem Gestein und vulkanischen Sedimenten.", "Auf dem Gipfel befindet sich eine kleine Schutzhütte für Wanderer.", "Der 'Peak Trail' führt durch Elfenwälder, deren Bäume aufgrund der Höhe kleinwüchsig bleiben."], ro: ["Cea mai mare altitudine din Jamaica și a șasea din Caraibe.", "Format în principal din roci magmatice și metamorfice vechi.", "Temperatura medie la vârf este cu 15-20 grade mai mică decât pe coastă.", "Parte centrală a sitului UNESCO Blue and John Crow Mountains.", "Ascensiunea finală oferă o vedere panoramică la 360 de grade.", "Sursă pentru numeroase cursuri de apă care curg spre nord și sud.", "Habitat pentru specia rară de ienupăr de munte jamaican.", "Un punct de referință crucial pentru meteorologia insulei."],
       hu: ["A csúcs tengerszint feletti magassága pontosan 2256 méter.", "Tiszta hajnalokon az északra fekvő Kuba partjai is láthatóak a csúcsról.", "A hegység Jamaica legöregebb kőzeteiből, kréta kori vulkáni maradványokból áll.", "Itt él a világ egyik legnagyobb pillangója, a jamaicai fecskefarkú pillangó.", "A csúcson a hőmérséklet fagypont közelébe is süllyedhet, ami ritka a trópusokon.", "A hegy oldalában termesztik a világ egyik legdrágább kávéját (Blue Mountain Coffee).", "A csúcsra vezető túraösvény körülbelül 11 kilométer hosszú.", "A terület több mint 500 endemikus virágos növényfajnak ad otthont."]
-    }},
+    }
+  },
   {
     id: "john-crow-mountains-relief-v2",
     type: "mountain",
     parent: "JM-PO",
     coords: [-76.4333, 18.15],
-    name: { de: "John Crow Mountains", hu: "John Crow-hegység", ro: "Munții John Crow", en: "John Crow Mountains" },
+    name: { de: "John Crow Mountains", hu: "John Crow-hegység", ro: "Munții John Crow", en: "John Crow Mountains",
+image: "/poi-images/john-crow-mountains-relief-v2.webp"
+},
     description: { de: "Eine abgelegene und wilde Bergkette im Osten Jamaikas.", hu: "Egy távoli és vad hegylánc Jamaica keleti részén.", ro: "Un lanț muntos izolat și sălbatic în estul Jamaicăi.", en: "A remote and wild mountain range in eastern Jamaica." },
     facts: {
       de: ["Kalksteingebirge", "Sehr unzugänglich", "Heimat seltener Arten", "Teil des UNESCO-Welterbes"],
@@ -39,13 +44,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Characterized by rugged karst limestone topography and deep ravines.", "Highest point in the range reaches approximately 1,143 meters.", "Receives an average annual rainfall exceeding 5,000 millimeters.", "Historically provided a strategic refuge for the Windward Maroons.", "Part of the Blue and John Crow Mountains UNESCO World Heritage site.", "Home to the Jamaican Boa and numerous rare endemic orchids.", "The name 'John Crow' refers to the local term for the Turkey Vulture.", "One of the few areas in Jamaica still covered by primary rainforest."], de: ["Das Gebirge verläuft parallel zur Ostküste in der Parochie Portland.", "Der Name stammt vermutlich vom Truthahngeier (John Crow), der hier häufig kreist.", "Die höchste Erhebung der John Crow Mountains liegt bei etwa 1.140 Metern.", "Es ist eines der regenreichsten Gebiete Jamaikas mit über 7.000 mm Niederschlag pro Jahr.", "Die Berge beherbergen den Giant Swallowtail, den größten Schmetterling der westlichen Hemisphäre.", "Nanny Town, die legendäre Maroon-Siedlung, lag tief in diesen Bergen verborgen.", "Das Gebiet besteht überwiegend aus eozänem Kalkstein mit starker Karstbildung.", "Die John Crow Mountains fungieren als riesiger Wasserspeicher für den Osten der Insel."], ro: ["Cel mai estic lanț muntos din Jamaica, în parohia Portland.", "Include vârfuri care depășesc 1.100 de metri altitudine.", "Parte integrantă a Patrimoniului Mondial UNESCO din 2015.", "Numele popular provine de la vulturul curcan local.", "Regiune cu cea mai mare densitate de precipitații de pe insulă.", "Relieful include platouri de calcar tăiate de defilee adânci.", "Barieră naturală împotriva furtunilor tropicale din Atlantic.", "Fost refugiu strategic pentru comunitățile de Maroni."],
       hu: ["A hegység legmagasabb pontja körülbelül 1140 méter.", "Ez Jamaica legcsapadékosabb területe, éves szinten akár 7000 mm esővel.", "A John Crow-hegység erdei több mint 300 endemikus növényfajnak adnak otthont.", "Itt található a Karib-térség legnagyobb összefüggő érintetlen mészkőerdője.", "A terület központi szerepet játszott a Nanny-féle maron ellenállásban.", "A hegység vizeiből táplálkoznak a híres északkeleti parti folyók, mint a Rio Grande.", "Híres a különleges tölcséres broméliáiról, amelyekben sajátos vízi világ él.", "A John Crow-hegység Jamaica egyik legfontosabb szén-dioxid-elnyelő övezete."]
-    }},
+    }
+  },
   {
     id: "cockpit-country-valley-relief-v2",
     type: "relief",
     parent: "JM-TR",
     coords: [-77.6833, 18.25],
-    name: { de: "Cockpit Country Senken", hu: "Cockpit Country mélyedések", ro: "Depresiunile Cockpit Country", en: "Cockpit Country Depressions" },
+    name: { de: "Cockpit Country Senken", hu: "Cockpit Country mélyedések", ro: "Depresiunile Cockpit Country", en: "Cockpit Country Depressions",
+image: "/poi-images/cockpit-country-valley-relief-v2.webp"
+},
     description: { de: "Die tiefen Karstsenken der Cockpit Country-Region.", hu: "A Cockpit Country régió mély karsztos mélyedései.", ro: "Valea Cockpit Country este inima unei regiuni carstice spectaculoase, definită prin depresiuni adânci și dealuri abrupte de calcar.", en: "The deep karst depressions of the Cockpit Country region." },
     facts: {
       de: ["Einzigartige Karstlandschaft", "Steile Hügelketten", "Schwieriges Terrain", "Große Artenvielfalt"],
@@ -58,13 +66,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Spans over 500 square miles across central-western Jamaica.", "Defined by 'cockpit karst' topography with hundreds of conical hills.", "The primary source of fresh water for six major Jamaican rivers.", "Contains the largest concentration of caves and sinkholes on the island.", "Historical sanctuary for the Leeward Maroons during the 18th century.", "Home to 27 of Jamaica's 28 endemic bird species.", "The area's limestone was formed during the Eocene and Miocene periods.", "Protected from mining to preserve its unique ecosystem and water supply."], de: ["Das Cockpit Country umfasst eine Fläche von etwa 500 Quadratkilometern.", "Die Landschaft wird als 'Kegelkarst' bezeichnet und ist weltweit selten.", "Hier leben über 90 % der endemischen Amphibienarten Jamaikas.", "Das Gebiet ist die Quelle vieler großer Flüsse wie des Black River und des Martha Brae.", "Die Maroons unterzeichneten hier 1739 den ersten Friedensvertrag mit den Briten.", "In den Kalksteinfelsen verbergen sich hunderte von bisher unerforschten Höhlensystemen.", "Es gibt keine befahrbaren Straßen, die das Cockpit Country vollständig durchqueren.", "Die Bewohner der Region kämpfen aktiv gegen den geplanten Bauxitabbau in diesem Ökosystem."], ro: ["Exemplul clasic mondial pentru relieful de tip 'cockpit karst'.", "Depresiunile pot atinge adâncimi de peste 100 de metri.", "Format în principal din calcar alb de vârstă eocenă.", "Include peste 500 de dealuri distincte într-o zonă compactă.", "Sursă pentru cele mai mari sisteme de râuri subterane ale insulei.", "Relieful a împiedicat construcția drumurilor în zona centrală.", "Găzduiește cea mai mare concentrație de biodiversitate endemică.", "Un monument geologic protejat de importanță internațională."],
       hu: ["A terület több mint 500 négyzetkilométeren terül el Jamaica középső részén.", "A mészkőkúpok és völgyek rendszere évmilliók alatt alakult ki az erózió hatására.", "Itt található Jamaica legtöbb endemikus növény- és állatfaja.", "A völgyekben összegyűlő esővíz táplálja Jamaica édesvízkészletének 40 százalékát.", "A terület híres a hatalmas barlangrendszereiről és föld alatti folyóiról.", "A Cockpit Country völgyeiben még ma is találni érintetlen őserdőket.", "Történelmileg ez volt a brit gyarmati erők elleni maron ellenállás központja.", "A terület szigorúan védett övezet a bauxitbányászat és az erdőirtás ellen."]
-    }},
+    }
+  },
   {
     id: "catherine-peak-relief-v2",
     type: "mountain",
     parent: "JM-SR",
     coords: [-76.7119, 18.0933],
-    name: { de: "Catherine's Peak", hu: "Catherine's Peak", ro: "Vârful Catherine", en: "Catherine's Peak" },
+    name: { de: "Catherine's Peak", hu: "Catherine's Peak", ro: "Vârful Catherine", en: "Catherine's Peak",
+image: "/poi-images/catherine-peak-relief-v2.webp"
+},
     description: { de: "Catherine's Peak ist einer der markantesten Gipfel in den Blue Mountains und eine wichtige Quelle für jamaikanisches Quellwasser. Er bietet spektakuläre Ausblicke auf die Gebirgskette.", hu: "Jelentős csúcs a Blue Mountains-ban.", ro: "Un vârf important în Munții Albaștri.", en: "One of the highest peaks in the Blue Mountains, serving as a landmark and source of pure spring water." },
     facts: {
       de: ["Markanter Gipfel", "Quelle für Mineralwasser", "Teil der Blue Mountains"],
@@ -77,13 +88,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Reaches a height of 1,541 meters (5,056 feet) in the Blue Mountains.", "Source of one of Jamaica's leading natural spring water brands.", "Named after Catherine Long, who climbed the peak in 1760.", "Located near the military training camp at Newcastle.", "Houses major telecommunications and broadcasting towers for Kingston.", "The area is characterized by high humidity and frequent cloud cover.", "The trail provides stunning views of the Liguanea Plain and the sea.", "Home to a diverse range of high-altitude endemic Jamaican flora."], de: ["Der Gipfel erreicht eine Höhe von ca. 5.056 Fuß (1.541 Meter).", "Der Name stammt vermutlich von Catherine Graham, der Frau eines frühen britischen Gouverneurs.", "Am Fuße des Berges befindet sich die historische Militärstation Newcastle.", "Das Wasser von Catherine's Peak wird seit Jahrzehnten als Premiummarke in Jamaika abgefüllt.", "Der Berg ist Teil des geschützten Blue and John Crow Mountains Nationalparks.", "Häufige Nebelbildung sorgt für eine konstante Feuchtigkeit und üppiges Mooswachstum.", "Der Aufstieg zum Gipfel ist technisch einfach, aber oft rutschig aufgrund des Regens.", "An klaren Tagen kann man vom Gipfel aus die Schiffe im Hafen von Kingston zählen."], ro: ["Al doilea cel mai înalt vârf accesibil din regiunea St. Andrew.", "Vârful este situat la 1.540 metri deasupra mării.", "Structură geologică formată în perioada cretacică târzie.", "Reprezintă o bornă vizuală majoră pentru aviația din Kingston.", "Pantele sunt acoperite de culturi de cafea premium.", "Include stații de telecomunicații strategice la vârf.", "Oferă o perspectivă verticală spectaculoasă asupra portului.", "Situl este renumit pentru calitatea apei de izvor filtrate."],
       hu: ["A csúcs magassága 1540 méter a tengerszint felett.", "Nevét Catherine Long-ról kapta, aki az első nő volt, aki megmászta a csúcsot 1760-ban.", "A hegyről származó 'Catherine's Peak' forrásvíz Jamaica legnépszerűbb ásványvize.", "A csúcson fontos telekommunikációs adótornyok és katonai megfigyelőpontok találhatók.", "A hegy lejtőin kiváló minőségű Blue Mountain kávét termesztenek.", "A Catherine Peak környéke Jamaica egyik legfontosabb köderdő rezervátuma.", "A hegyről tiszta időben jól látható a Norman Manley repülőtér kifutópályája is.", "A csúcsra vezető út sűrű bambuszerdőkön és trópusi kerteken halad keresztül."]
-    }},
+    }
+  },
   {
     id: "corkscrew-ridge-relief-v2",
     type: "relief",
     parent: "JM-PO",
     coords: [-76.5, 18.1],
-    name: { de: "Corkscrew Ridge", hu: "Corkscrew-gerinc", ro: "Culmea Corkscrew", en: "Corkscrew Ridge" },
+    name: { de: "Corkscrew Ridge", hu: "Corkscrew-gerinc", ro: "Culmea Corkscrew", en: "Corkscrew Ridge",
+image: "/poi-images/corkscrew-ridge-relief-v2.webp"
+},
     description: { de: "Der Corkscrew Ridge ist eine schroffe Gebirgskette, die ihren Namen den kurvenreichen Pfaden verdankt, die sich durch das Gelände winden. Er prägt das Relief im Osten.", hu: "Egy kanyargós hegygerinc a Blue Mountains közelében.", ro: "Creasta Corkscrew este o formațiune montană sinuoasă care oferă priveliști panoramice asupra văilor interioare ale insulei.", en: "A steep and winding ridge in the mountains of Jamaica, named for its challenging and narrow paths." },
     facts: {
       de: ["Steile Gebirgskämme", "Spektakuläre Passstraßen", "Herausforderndes Gelände"],
@@ -96,13 +110,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Located in the parish of St. Thomas within the eastern Blue Mountains.", "Named for its twisting, steep topography and spiral-like trails.", "Composed of fragile shale and metamorphic rock formations.", "Offers expansive views of the Yallahs River and southern coastline.", "Historical significance as a strategic route for runaway slaves and Maroons.", "Prone to significant soil erosion and landslides during heavy rains.", "Habitat for the rare Jamaican coney (Geocapromys brownii).", "Part of the vital watershed that supplies water to eastern Jamaica."], de: ["Der Kamm liegt in der Nähe des Übergangs zwischen St. Andrew und St. Mary.", "Die Straße über den Corkscrew Ridge ist für ihre engen Haarnadelkurven berüchtigt.", "Das Gelände ist anfällig für Erdrutsche während der Hurrikan-Saison.", "Von hier aus kann man oft den Rio Pedro tief im Tal fließen sehen.", "Die Flora besteht hauptsächlich aus sekundärem Regenwald und tropischen Nutzpflanzen.", "Corkscrew Ridge dient als wichtige Klimascheide zwischen der Nord- und Südküste.", "Die Siedlungen entlang des Kamms leben hauptsächlich vom Kleinanbau von Gemüse und Kaffee.", "Die Region ist ein bevorzugtes Ziel für Radsportler, die extreme Steigungen suchen."], ro: ["Configurație de creastă extrem de șerpuitoare și abruptă.", "Situată în inima regiunii forestiere din parohia Portland.", "Altitudine variabilă între 600 și 900 de metri.", "Bogat în biodiversitate forestieră de mare altitudine.", "Esențial pentru captarea precipitațiilor abundente de est.", "Oferă vederi panoramice asupra văii Rio Grande.", "Relieful a impus construcția unor drumuri extrem de dificile.", "Zonă de interes pentru studiul eroziunii fluviale în calcar."],
       hu: ["A gerinc mentén haladó út Jamaica egyik leglátványosabb szerpentinje.", "A terület híres a sűrű páfrányerdőiről és egzotikus trópusi növényeiről.", "A Corkscrew Ridge fontos vízgyűjtője az Ocho Rios környéki folyóknak.", "A gerincről pazar kilátás nyílik a Dunn's River Falls torkolatára és a Karib-tengerre.", "A területen számos endemikus jamaicai pillangófaj figyelhető meg.", "A karsztos mészkősziklákban több kisebb, feltáratlan barlang is található.", "A gerinc környéke kedvelt helyszíne a természetfotózásnak és a kalandtúráknak.", "A Corkscrew Ridge északról védi a belső völgyeket az erős óceáni szelektől."]
-    }},
+    }
+  },
   {
     id: "dry-harbour-mountains-relief-v2",
     type: "mountain",
     parent: "JM-SA",
     coords: [-77.3, 18.35],
-    name: { de: "Dry Harbour Mountains", hu: "Dry Harbour-hegység", ro: "Munții Dry Harbour", en: "Dry Harbour Mountains" },
+    name: { de: "Dry Harbour Mountains", hu: "Dry Harbour-hegység", ro: "Munții Dry Harbour", en: "Dry Harbour Mountains",
+image: "/poi-images/dry-harbour-mountains-relief-v2.webp"
+},
     description: { de: "Die Dry Harbour Mountains bilden ein Kalksteinplateau im Norden Jamaikas, das durch zahlreiche Höhlen und unterirdische Flussläufe gekennzeichnet ist. Die Region ist geologisch einzigartig.", hu: "Egy hegylánc Saint Ann központjában.", ro: "Munții Dry Harbour formează un platou calcaros vast în partea centrală a Jamaicăi, cunoscut pentru numeroasele sale peșteri.", en: "A prominent limestone mountain range on the north coast, characterized by deep caves and rugged terrain." },
     facts: {
       de: ["Ausgedehntes Kalksteinplateau", "Zahlreiche Karsthöhlen", "Einzigartige Geologie"],
@@ -115,13 +132,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Located in central St. Ann, forming part of the limestone plateau.", "Named for the lack of surface rivers due to porous limestone.", "Source of the underground water that feeds Dunn's River Falls.", "Contains the famous Green Grotto Caves, used as a hideout for centuries.", "A major region for bauxite mining and cattle farming in Jamaica.", "Features the Moneague Basin, known for its ephemeral 'lake.'", "The limestone base dates back to the Tertiary period.", "The highest elevations reach approximately 700 to 900 meters."], de: ["Die höchste Erhebung der Dry Harbour Mountains liegt bei etwa 760 Metern.", "Discovery Bay liegt direkt am Fuße dieses Gebirgszuges.", "Das Gebirge ist eines der wichtigsten Bauxitabbaugebiete der Welt.", "Unter den Bergen befindet sich eines der größten unterirdischen Seensysteme Jamaikas.", "Die Green Grotto Caves dienten während der Kriege als Versteck für flüchtende Spanier.", "Das Gestein besteht fast ausschließlich aus tertiärem Kalkstein (White Limestone).", "Die Region weist eine geringe Oberflächendichte an Flüssen auf, da das Wasser versickert.", "In den höher gelegenen Tälern herrscht ein ideales Klima für die Viehzucht."], ro: ["Parte a platoului calcaros central al insulei.", "Altitudini maxime de aproximativ 750 de metri.", "Sediul principalelor exploatări de bauxită din St. Ann.", "Relief marcat de fenomene carstice de suprafață și adâncime.", "Barieră naturală care limitează accesul spre interior.", "Alimentează numeroase izvoare de coastă prin canale subterane.", "Include zone vaste de pădure uscată tropicală pe versanți.", "Reper geografic crucial pentru coasta dintre Discovery Bay și Runaway Bay."],
       hu: ["A hegység legmagasabb pontjai meghaladják a 700 métert.", "Nevét a part menti Dry Harbour-öbölről kapta, ahol Kolumbusz is horgonyt vert.", "Itt található Jamaica egyik legfontosabb bauxitbányászati övezete.", "A hegység barlangjai közül a Green Grotto a legismertebb turisztikai látványosság.", "A terület biztosítja az északi partvízrendszer ivóvízellátásának jelentős részét.", "A hegység erdeiben számos ritka bromélia és orchideafaj virul.", "A Dry Harbour-hegység geológiai szerkezete alapvető a Karib-térség karsztkutatásai számára.", "A területen keresztül vezet az ország egyik legfontosabb észak-déli közlekedési útvonala."]
-    }},
+    }
+  },
   {
     id: "may-day-mountains-relief-v2",
     type: "mountain",
     parent: "JM-MA",
     coords: [-77.5, 18.05],
-    name: { de: "May Day Mountains", hu: "May Day-hegység", ro: "Munții May Day", en: "May Day Mountains" },
+    name: { de: "May Day Mountains", hu: "May Day-hegység", ro: "Munții May Day", en: "May Day Mountains",
+image: "/poi-images/may-day-mountains-relief-v2.webp"
+},
     description: { de: "Die May Day Mountains sind Teil des zentralen Hochlandes und bekannt für ihre kühleren Temperaturen und die fruchtbaren Böden. Sie bilden eine natürliche Barriere.", hu: "A Mandeville környéki hegyvidék.", ro: "Munții May Day sunt dealuri proeminente în parohia Manchester, definind relieful platoului central cu pantele lor verzi.", en: "An interior mountain range in Manchester parish, known for its cool climate and bauxite-rich soil." },
     facts: {
       de: ["Zentrales Hochland", "Kühleres Bergklima", "Fruchtbare Bergregion"],
@@ -134,13 +154,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Located in Manchester parish, part of the Don Figuerero range.", "Mandeville, the parish capital, sits at an elevation of over 600 meters.", "The range is famous for its cool, misty, and temperate climate.", "Contains some of Jamaica's most productive bauxite mining sites.", "The red 'terra rossa' soil is highly fertile for citrus and coffee.", "Historically settled by British retirees for its 'English' weather.", "The mountains feature classic karst features like large sinkholes.", "Major habitat for endemic birds like the Yellow-billed Parrot."], de: ["Die May Day Mountains erreichen Höhen von bis zu 850 Metern über dem Meer.", "Die rote Farbe des Bodens ist auf das Mineral Hämatit zurückzuführen.", "Manchester ist aufgrund dieser Berge die Region mit dem höchsten Pro-Kopf-Einkommen außerhalb Kingstons.", "Das Klima wird oft als 'ewiger Frühling' bezeichnet.", "Wichtige Bauxit-Unternehmen wie Kirkvine haben hier ihre Operationsbasis.", "In den Bergen finden sich zahlreiche historische Plantagenhäuser aus der Kolonialzeit.", "Die Vegetation ist eine Mischung aus tropischem Laubwald und kultiviertem Weideland.", "Die Berge wirken als Barriere für Wolken, die von der Nordküste heranziehen."], ro: ["Altitudini care depășesc frecvent 800 de metri.", "Situat în parohia Manchester, lângă orașul Mandeville.", "Relief de platou ridicat cu versanți moderați.", "Sursă majoră pentru culturile de cafea și legume de munte.", "Fenomen de drenaj subteran specific zonelor de calcar.", "Oferă cele mai mari variații termice diurne de pe insulă.", "Peisajul este punctat de doline ocupate de mici ferme.", "Importanță strategică pentru depozitele minerale de bauxită."],
       hu: ["A May Day-hegység legmagasabb pontja több mint 800 méter.", "Itt található Mandeville, Jamaica legmagasabban fekvő városa.", "A hegység erdeiben számos endemikus jamaicai orchideafaj él.", "A terület fontos bázisa a jamaicai bauxit- és timföldiparnak.", "Híres a különleges, hűvös mikroklímájáról, ahol gyakoriak a reggeli ködök.", "A May Day-hegység erdei fontos fészkelőhelyei a ritka kék galambnak.", "A hegység lejtőin találhatók a sziget legrégebbi citrusültetvényei.", "A terület a természetjárók és a kényelmes hegyi túrák kedvelt célpontja."]
-    }},
+    }
+  },
   {
     id: "clarendon-hills-relief-v2",
     type: "relief",
     parent: "JM-CL",
     coords: [-77.35, 18.0],
-    name: { de: "Clarendon Hills", hu: "Clarendon-dombság", ro: "Dealurile Clarendon", en: "Clarendon Hills" },
+    name: { de: "Clarendon Hills", hu: "Clarendon-dombság", ro: "Dealurile Clarendon", en: "Clarendon Hills",
+image: "/poi-images/clarendon-hills-relief-v2.webp"
+},
     description: { de: "Die Clarendon Hills sind eine malerische Hügellandschaft im Zentrum Jamaikas, die für ihren Bauxitabbau und die Landwirtschaft bekannt ist. Sie prägen das Bild der Gemeinde.", hu: "Clarendon északi részének lankás dombjai.", ro: "Dealurile Clarendon sunt un lanț muntos interior care fragmentează peisajul regiunii, oferind un relief accidentat și fertil.", en: "Rolling hills and rugged terrain in central Jamaica, providing a transition between the plains and the mountains." },
     facts: {
       de: ["Zentrum des Bauxitabbaus", "Hügelige Agrarlandschaft", "Teil des zentralen Plateaus"],
@@ -153,13 +176,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Central highland region in Clarendon, featuring the Mocho Mountains.", "Primary watershed for the Rio Minho, the island's longest river.", "Mixture of limestone karst and fertile volcanic soil types.", "Historically a site of Maroon resistance in central Jamaica.", "Main economic activities include citrus farming and beekeeping.", "The hills reach elevations of up to 600 meters above sea level.", "Contains numerous unexplored cave systems in the limestone base.", "The climate is significantly drier than the eastern mountain ranges."], de: ["Die Clarendon Hills umfassen den Gebirgszug Mocho Mountains im Norden.", "Der Rio Minho, Jamaikas längster Fluss, durchquert diese Hügelkette.", "In der Region befinden sich bedeutende Lagerstätten von Kupfer und Gold.", "Die Hügel dienen als wichtiges Wassereinzugsgebiet für die Clarendon Plains.", "May Pen ist die größte Stadt am Fuße dieser Erhebungen.", "Die Vegetation ist durch Trockenwald in den tieferen Lagen gekennzeichnet.", "Die Hügel sind bekannt für die Produktion hochwertigen Honigs.", "Zahlreiche Höhlen in den Kalksteinabschnitten wurden früher von den Taino genutzt."], ro: ["Zonă de tranziție între platoul central și câmpiile litorale.", "Altitudine medie între 300 și 600 de metri.", "Traversate de cel mai lung râu din Jamaica, Rio Minho.", "Bogat în biodiversitate agricolă și specii de arbori nativi.", "Include formațiuni geologice vechi de origine vulcanică.", "Nod hidrologic important pentru sudul insulei.", "Relieful a favorizat așezările umane dispersate pe creste.", "Oferă o barieră împotriva eroziunii solului în câmpiile de jos."],
       hu: ["A dombság magassága 200 és 500 méter között váltakozik.", "Clarendon parókia citrus-termesztésének jelentős része ezen a dombvidéken zajlik.", "A terület geológiailag a 'White Limestone' formáció része, amely gazdag ásványkincsekben.", "A dombság fontos vízgyűjtő terület a Rio Minho folyó számára.", "Itt található Jamaica több híres 'Great House' kúriájának maradványa.", "A dombok között fekvő völgyekben különleges, párás mikroklíma alakult ki.", "A Clarendon Hills népszerű célpontja a kerékpáros és gyalogos túráknak.", "A terület fontos fészkelőhelye a jamaicai papagájoknak és kolibriknek."]
-    }},
+    }
+  },
   {
     id: "st-thomas-mountains-relief-v2",
     type: "mountain",
     parent: "JM-ST",
     coords: [-76.5, 17.95],
-    name: { de: "St. Thomas Mountains", hu: "St. Thomas-hegység", ro: "Munții St. Thomas", en: "St. Thomas Mountains" },
+    name: { de: "St. Thomas Mountains", hu: "St. Thomas-hegység", ro: "Munții St. Thomas", en: "St. Thomas Mountains",
+image: "/poi-images/st-thomas-mountains-relief-v2.webp"
+},
     description: { de: "Die Berge von St. Thomas im Südosten Jamaikas sind für ihr steiles Gelände und die dichten Nebelwälder bekannt. Sie bieten unberührte Naturerlebnisse.", hu: "Hegyvidéki régió Jamaica délkeleti részén.", ro: "Munții St. Thomas reprezintă extremitatea estică a lanțului muntos Blue Mountains, cu versanți ce coboară abrupt spre mare.", en: "Rugged and relatively unexplored mountains in eastern Jamaica, bordering the famous Blue Mountain range." },
     facts: {
       de: ["Steile Bergflanken", "Unberührte Nebelwälder", "Bedeutende Wasserscheide"],
@@ -172,13 +198,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Southernmost extension of the Blue Mountain range in St. Thomas.", "Features the Yallahs River, one of Jamaica's most powerful rivers.", "Composed of unstable shale, leading to frequent landslides.", "Contains the highest rainfall zones on the island's southern side.", "Habitat for the endemic Jamaican coney and Giant Swallowtail Butterfly.", "Historical base for participants in the 1865 Morant Bay Rebellion.", "The topography includes sheer cliffs and narrow river gorges.", "Elevation ranges from sea level to over 2,000 meters."], de: ["Die St. Thomas Mountains sind geologisch Teil des Blue Mountain Massivs.", "Höchste Erhebungen erreichen hier über 1.200 Meter.", "Die Region ist berüchtigt für ihre schnellen Erosionsprozesse bei Hurrikanen.", "An den Hängen wird in großem Stil Kaffee und Obst angebaut.", "Die heißen Quellen von Bath befinden sich am Fuße dieser Berge.", "Der Boden besteht aus einer komplexen Mischung aus Schiefer und magmatischem Gestein.", "St. Thomas gilt als eine der grünsten und wasserreichsten Regionen der Insel.", "Vom Gipfelgrat hat man an klaren Tagen Sichtkontakt zur Insel Hispaniola."], ro: ["Ramificație sudică a lanțului Blue Mountain.", "Include unii dintre cei mai abrupți versanți din Jamaica.", "Relief instabil geologic, marcat de numeroase falii active.", "Zonă cu precipitații anuale extrem de ridicate.", "Adăpostește păduri tropicale virgine de mare altitudine.", "Sursă pentru râurile Yallahs, Morant și Plantain Garden.", "Oferă vederi spectaculoase spre Canalul Windward.", "Relieful accidentat a servit istoric ca zonă de rezistență."],
       hu: ["A hegység legmagasabb csúcsai meghaladják az 1000 métert.", "Itt ered Jamaica több fontos folyója, köztük a Yallahs és a Morant folyó.", "A terület gazdag különleges hegyi páfrányokban és endemikus orchideákban.", "A St. Thomas-hegység fontos menedéke volt a maron ellenállásnak a 18. században.", "A hegység vize táplálja a déli part legnagyobb kókuszdió-ültetvényeit.", "Híres a hirtelen lezúduló hegyi esőiről, amelyek látványos vízeséseket hoznak létre.", "A területen számos ritka trópusi madárfaj, köztük a jamaicai tukan is megfigyelhető.", "A hegység fontos ökológiai hidat képez a Kék-hegység és a tengerparti övezetek között."]
-    }},
+    }
+  },
   {
     id: "holywell-forest-relief-v2",
     type: "forest",
     parent: "JM-SR",
     coords: [-76.68, 18.08],
-    name: { de: "Holywell Wald", hu: "Holywell-erdő", ro: "Pădurea Holywell", en: "Holywell Forest" },
+    name: { de: "Holywell Wald", hu: "Holywell-erdő", ro: "Pădurea Holywell", en: "Holywell Forest",
+image: "/poi-images/holywell-forest-relief-v2.webp"
+},
     description: { de: "Der Holywell Forest liegt hoch in den Blue Mountains und bietet ein kühles Klima inmitten tropischer Vegetation. Er ist ein beliebtes Ziel für Naturliebhaber.", hu: "Sűrű köderdő a Blue Mountains-ban.", ro: "O pădure de ceață densă în Munții Albaștri.", en: "A high-altitude tropical forest reserve in the Blue Mountains, offering cool temperatures and endemic flora." },
     facts: {
       de: ["Kühles Bergklima", "Teil des Nationalparks", "Vielfältige Farnwälder"],
@@ -192,13 +221,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Located at 1,160 meters (3,800 feet) in the Blue Mountains.", "Part of the UNESCO-listed Blue and John Crow Mountains National Park.", "Temperature average is significantly lower than coastal areas.", "Primary habitat for 28 of Jamaica's 30 endemic bird species.", "Features rare montane cloud forest with high orchid diversity.", "Vital component of the watershed supplying the city of Kingston.", "The name 'Holywell' refers to the pristine mountain spring water.", "Offers trails like the Blue Mahoe Trail and the Waterfall Trail."], de: ["Holywell liegt etwa 60 Fahrminuten nördlich von Kingston im Stadtteil St. Andrew.", "Der Park umfasst eine Fläche von ca. 120 Hektar reinem Waldland.", "Die Temperaturen liegen im Durchschnitt 10 Grad unter denen in Kingston.", "Es gibt mehrere Hütten (Cabins), in denen Besucher übernachten können.", "Der Blue Mahoe, Jamaikas Nationalbaum, ist hier weit verbreitet.", "Holywell ist ein Schlüsselgebiet für das Überleben vieler endemischer Orchideenarten.", "Die Luftfeuchtigkeit im Wald liegt oft nahe bei 100 %.", "Der Park wird vom Jamaica Conservation and Development Trust (JCDT) verwaltet."], ro: ["Situată la o altitudine medie de 1.200 de metri.", "Parte a Parcului Național Blue and John Crow Mountains.", "Relief marcat de microclimate de pădure de ceață.", "Nod major de trasee de drumeție montană (Blue Tile, Oatley).", "Oferă vederi panoramice spectaculoase asupra Kingstonului.", "Zonă critică pentru conservarea păsărilor endemice de munte.", "Include bazine hidrografice pentru râul Hope.", "Un reper pentru ecoturismul de munte în parohia St. Andrew."],
       hu: ["A Holywell park tengerszint feletti magassága körülbelül 1200-1300 méter.", "A terület Jamaica első hivatalos nemzeti parkjának része.", "Itt található a sziget egyik legjobb madármegfigyelő központja.", "A parkból tiszta időben pazar kilátás nyílik Kingstonra és az északi partra is.", "Holywell híres a 'három plébánia pontjáról', ahol St. Andrew, St. Mary és Portland összeér.", "A területen faházak (cabins) is bérelhetők az éjszakai erdei élményhez.", "Az erdőben számos 19. századi katonai és botanikai emlékhely található.", "A parkot a Jamaica Conservation and Development Trust (JCDT) kezeli."]
-    }},
+    }
+  },
   {
     id: "hardwar-gap-relief-v2",
     type: "relief",
     parent: "JM-SR",
     coords: [-76.69, 18.07],
-    name: { de: "Hardwar Gap", hu: "Hardwar Gap", ro: "Hardwar Gap", en: "Hardwar Gap" },
+    name: { de: "Hardwar Gap", hu: "Hardwar Gap", ro: "Hardwar Gap", en: "Hardwar Gap",
+image: "/poi-images/hardwar-gap-relief-v2.webp"
+},
     description: { de: "Hardwar Gap ist ein markanter Gebirgspass in den Blue Mountains, der für seine spektakulären Aussichten und seine reiche Vogelwelt berühmt ist.", hu: "Egy magas hegyi hágó a Blue Mountains-ban.", ro: "O trecătoare montană înaltă în Munții Albaștri.", en: "A famous mountain pass in the Blue Mountains, known for its dramatic mist, lush vegetation, and cooler climate." },
     facts: {
       de: ["Höchster befahrbarer Pass", "Zentrum der Vogelbeobachtung", "Panorama über Kingston"],
@@ -211,13 +243,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Mountain pass at 1,200 meters (4,000 feet) elevation.", "Border point between the parishes of St. Andrew and Portland.", "A premier destination for birdwatching and botanical research.", "One of the highest navigable points by car in the Caribbean.", "Features original montane cloud forest with giant tree ferns.", "The pass receives significant moisture from trade winds.", "Historical route for the movement of Blue Mountain Coffee.", "Provides a climatic bridge between the north and south coasts."], de: ["Hardwar Gap ist der höchste befahrbare Punkt der Hauptstraße durch die Blue Mountains.", "Der Ort ist bekannt als einer der besten Plätze für die Beobachtung von Bergvögeln.", "In der Umgebung wachsen seltene jamaikanische Bromelien direkt an den Felswänden.", "Der Pass wurde nach einem frühen britischen Vermesser benannt.", "Oft ist die Sichtweite aufgrund des Nebels auf weniger als 10 Meter begrenzt.", "Hardwar Gap trennt das Einzugsgebiet des Hope River von dem des Buff Bay River.", "Die Luft hier ist so sauber, dass bestimmte seltene Flechten an den Bäumen wachsen.", "Es ist ein klassischer Stopp für die berühmte 'Mountain Spring' Tour."], ro: ["Cea mai înaltă trecătoare accesibilă cu vehicule din Jamaica.", "Situată la o altitudine de aproximativ 4.000 de picioare (1.200 m).", "Punct de graniță între St. Andrew și parohia Portland.", "Renumită pentru peisajul de basm cu păduri de ceață.", "Nod de conexiune pentru drumurile montane vechi.", "Baza de plecare pentru explorarea parcului Holywell.", "Temperaturile pot scădea sub 15 grade Celsius în timpul nopții.", "Locație preferată pentru studiul florei de pădure umedă montană."],
       hu: ["A Hardwar Gap magassága körülbelül 1220 méter a tengerszint felett.", "Nevét Edward Hardwar kapitányról kapta, aki fontos szerepet játszott a terület feltérképezésében.", "Ez Jamaica egyik legmagasabban fekvő aszfaltozott útszakasza.", "A hágó környéke kapja az ország egyik legtöbb csapadékát.", "Itt található a híres Catherine's Peak forrásvíz palackozó üzemének közelében több forrás is.", "Hardwar Gap népszerű megállóhely a kávérajongók és a madármegfigyelők számára.", "A terület erdei a Blue Mountains Nemzeti Park szigorúan védett magzónájához tartoznak.", "A hágón áthaladó út híres a buja páfrányos szegélyeiről és a hirtelen hőmérséklet-csökkenésről."]
-    }},
+    }
+  },
   {
     id: "yallahs-valley-relief-v2",
     type: "relief",
     parent: "JM-ST",
     coords: [-76.6, 17.9],
-    name: { de: "Yallahs Tal", hu: "Yallahs-völgy", ro: "Valea Yallahs", en: "Yallahs Valley" },
+    name: { de: "Yallahs Tal", hu: "Yallahs-völgy", ro: "Valea Yallahs", en: "Yallahs Valley",
+image: "/poi-images/yallahs-valley-relief-v2.webp"
+},
     description: { de: "Das Yallahs-Tal ist ein tief eingeschnittenes Flusstal, das durch dramatische Erosionslandschaften und fruchtbare Schwemmböden besticht.", hu: "Egy mély völgy Jamaica keleti részén.", ro: "Valea Yallahs este o depresiune fertilă și pitorească, modelată de cursul râului Yallahs care coboară din Blue Mountains.", en: "A fertile valley in eastern Jamaica, shaped by the Yallahs River and surrounded by steep mountain slopes." },
     facts: {
       de: ["Tiefes Erosionstal", "Fruchtbarer Flusslauf", "Dramatische Bergkulisse"],
@@ -230,13 +265,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Carved by the Yallahs River, one of Jamaica's most volatile rivers.", "Known for its steep slopes and fragile shale geology.", "Primary water source for the Mona Reservoir in Kingston.", "The upper valley is a major hub for onion and vegetable farming.", "Subject to frequent landslides and floods during hurricane season.", "Features the largest alluvial fan in the Caribbean region.", "Elevation drops from over 1,500 meters to sea level within the valley.", "Home to the unique Yallahs Salt Ponds near the river mouth."], de: ["Das Yallahs Valley ist das größte Flusseinzugsgebiet im Südosten Jamaikas.", "Der Yallahs River entspringt in über 1.800 Metern Höhe in den Blue Mountains.", "Hier befindet sich der berühmte 'Judgement Cliff', eine riesige Erdrutschstelle von 1692.", "Das Tal versorgt über 40 % der Bevölkerung Kingstons mit Trinkwasser.", "Die Erosion im Tal gehört zu den intensivsten in der gesamten Karibik.", "Wichtige Bewässerungsprojekte unterstützen die lokalen Kleinbauern im Tal.", "Die Region ist bekannt für ihre traditionellen Heilpraktiken und Kräuterkenner.", "In der Trockenzeit verwandelt sich der Fluss oft in ein breites, steiniges Bett."], ro: ["Formată de râul Yallahs pe o lungime de peste 30 km.", "Relief marcat de instabilitate geologică și alunecări de teren.", "Sursă majoră de apă brută pentru orașul Kingston.", "Include depozite masive de agregate de râu (pietriș).", "Valea este încadrată de vârfuri care depășesc 1.500 m.", "Punct de conexiune între Munții Albaștri și coasta de sud.", "Peisajul este un amestec de stâncă goală și pădure tropicală.", "Habitat pentru specii rare de plante adaptate solurilor instabile."],
       hu: ["A völgy hossza több mint 25 kilométer a hegyektől a tengerig.", "A Yallahs-völgy biztosítja Kingston ivóvízellátásának közel egyharmadát.", "Itt található Jamaica egyik legfontosabb hagymatermesztő vidéke.", "A völgy vize a mészkőhegyekből fakadva rendkívül gazdag ásványi anyagokban.", "Gyakoriak a földcsuszamlások a meredek lejtőkön a heves esőzések idején.", "A völgyben több történelmi híd és vízvezeték-maradvány látható.", "A Yallahs-folyó torkolatánál találhatók a különleges sós tavak (Yallahs Ponds).", "A völgy fontos kutatóhelyszíne a trópusi erózió és a vízgazdálkodás tanulmányozásának."]
-    }},
+    }
+  },
   {
     id: "hills-of-hanover-relief-v2",
     type: "mountain",
     parent: "JM-HA",
     coords: [-78.1, 18.4],
-    name: { de: "Hügel von Hanover", hu: "Hanover-dombság", ro: "Dealurile Hanover", en: "Hills of Hanover" },
+    name: { de: "Hügel von Hanover", hu: "Hanover-dombság", ro: "Dealurile Hanover", en: "Hills of Hanover",
+image: "/poi-images/hills-of-hanover-relief-v2.webp"
+},
     description: { de: "Die sanfte Hügellandschaft im Westen Jamaikas.", hu: "Jamaica nyugati részének lankás dombvidéke.", ro: "Dealurile Hanover domină peisajul extremității vestice a insulei, oferind un relief vălurit cu vedere spre golfurile cristaline.", en: "Rolling hills and coastal ridges in western Jamaica, known for their lush green landscapes and sea views." },
     facts: {
       de: ["Grün und hügelig", "Landwirtschaftlich geprägt", "Sanfte Steigungen", "Schöne Aussichten"],
@@ -251,13 +289,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     factsAdvanced: { de: ["Die höchste Erhebung in Hanover ist der Dolphin Head mit ca. 545 Metern.", "Das Gestein besteht aus einer Mischung von Kreidekalkstein und Schiefer.", "Hanover ist bekannt für die Zucht von erstklassigen Rennpferden in diesen Hügeln.", "Die Hügel von Hanover erhalten oft Passatwinde, die das Klima mild halten.", "Hier befinden sich bedeutende Kakao-Plantagen für den Exportmarkt.", "Der Name Hanover erinnert an das deutsche Herrscherhaus des British Empire.", "Die Region beherbergt eine Vielzahl von seltenen Farnarten in den feuchten Schluchten.", "Lucea, die Hauptstadt der Parochie, liegt geschützt am Fuße dieser Hügel."], ro: ["Relief colinar de calcar situat în vestul insulei.", "Altitudine maximă: 545 de metri (Dolphin Head).", "Sursă principală de apă pentru regiunea turistică Negril.", "Bogat în biodiversitate forestieră de joasă altitudine.", "Include faimoasele plantații de iams jamaican.", "Barieră naturală care protejează nord-vestul de vânturile de sud.", "Relieful a permis construcția unor fortificații de coastă vechi.", "Peisaj dominat de nuanțe de verde intens tot anul."],
       hu: ["A dombság legmagasabb pontja a Dolphin Head hegycsúcs (545 m).", "Hanover dombjai híresek a kiváló minőségű 'yam' gyökér termesztéséről.", "A terület geológiája gazdag mészkő-barlangokban és kristálytiszta forrásokban.", "Itt található Jamaica egyik legfontosabb kókuszolaj-termelő vidéke.", "A dombok között fekvő völgyekben számos rejtett vízesés és patak található.", "A Hanover-i dombság fontos megállóhelye a vándorló énekesmadaraknak.", "A területen jelentős pimento (jamaicai bors) ültetvények működnek.", "A dombság gerincéről belátni az egész északnyugati partvonalat Negril-ig."],
       en: ["The highest point in the Hanover hills is Dolphin Head, standing at 545 meters.", "Composed primarily of white limestone and shale formations.", "The region is a primary catchment area for the rivers that supply Negril.", "Home to a high concentration of the endemic Jamaican Royal Palm.", "Features a distinctive 'cockpit' karst topography on its eastern edges.", "Includes the Dolphin Head Mountain, an area of high plant endemism.", "Historically significant as a center for cattle and horse breeding in Jamaica.", "Offers a unique microclimate that is significantly cooler than the nearby coast."]
-    }},
+    }
+  },
   {
     id: "mount-diabolo-relief-v2",
     type: "mountain",
     parent: "JM-SC",
     coords: [-77.1, 18.2],
-    name: { de: "Mount Diabolo", hu: "Mount Diabolo", ro: "Mount Diabolo", en: "Mount Diabolo" },
+    name: { de: "Mount Diabolo", hu: "Mount Diabolo", ro: "Mount Diabolo", en: "Mount Diabolo",
+image: "/poi-images/mount-diabolo-relief-v2.webp"
+},
     description: { de: "Mount Diabolo ist ein bekannter Gipfel, über den die Hauptstraße in den Norden führt. Er ist berühmt für seine steilen Serpentinen und weiten Ausblicke.", hu: "Egy markáns hegység Saint Catherine-ben.", ro: "Mount Diabolo este un masiv muntos central care trebuie traversat pentru a ajunge din sudul în nordul insulei.", en: "A prominent mountain pass and peak in central Jamaica, offering steep climbs and expansive views of the interior." },
     facts: {
       de: ["Wichtiger Verkehrsknoten", "Markante Kalksteinformation", "Aussichtspunkt über Ewarton"],
@@ -283,7 +324,9 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     type: "relief",
     parent: "JM-SC",
     coords: [-77.0, 18.1],
-    name: { de: "St. Catherine Hügel", hu: "St. Catherine-dombság", ro: "Dealurile St. Catherine", en: "St. Catherine Hills" },
+    name: { de: "St. Catherine Hügel", hu: "St. Catherine-dombság", ro: "Dealurile St. Catherine", en: "St. Catherine Hills",
+image: "/poi-images/st-catherine-hills-relief-v2.webp"
+},
     description: { de: "Die Hügel von St. Catherine umschließen das Liguanea-Becken und bieten eine Grenze zur Hauptstadtregion. Sie sind geprägt von Kalksteinformationen.", hu: "A Spanish Town környéki dombvidék.", ro: "Dealurile St. Catherine înconjoară câmpiile sudice, oferind o barieră naturală și un teren accidentat deasupra orașului Spanish Town.", en: "A series of rugged limestone hills in central Jamaica, providing a dramatic backdrop to the southern plains." },
     facts: {
       de: ["Kalkstein-Hügellandschaft", "Rand der Hauptstadtregion", "Artenreiche Trockenwälder"],
@@ -296,13 +339,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Limestone uplands overlooking Kingston and Spanish Town.", "Includes the Red Hills and the arid Hellshire Hills.", "Defined by dry limestone forest and karst topography.", "Home to the endemic and endangered Jamaican Iguana.", "Highest points reach approximately 400 to 500 meters.", "Vital protective barrier for the southern coastal plains.", "The porous limestone filters water into the Rio Cobre aquifer.", "Historically significant for the defense of the old capital."], de: ["Die Hügel von St. Catherine erreichen Höhen zwischen 300 und 600 Metern.", "Hier befindet sich der berühmte Mount Rosser, ein bekannter Engpass im Gebirge.", "Der Rio Cobre hat im Laufe der Zeit tiefe Kalksteinschluchten in diese Hügel gegraben.", "In den Bergen von St. Catherine wurden zahlreiche Artefakte der Taino-Kultur gefunden.", "Das Gebiet ist ein bedeutendes Zentrum für die Produktion von Holzkohle.", "Viele der Hügelkuppen sind mit dichten Bambuswäldern bewachsen.", "Die Region ist bekannt für ihre traditionellen Wochenmärkte in Orten wie Linstead.", "Geologisch gehört das Gebiet zum zentralen Inlier-System Jamaikas."], ro: ["Include faimoasele Red Hills cu vedere spre Kingston.", "Altitudini variind între 200 și 600 de metri.", "Format în principal din calcar alb de vârstă miocenă.", "Barieră naturală între bazinul Kingston și interior.", "Sursă majoră pentru sistemele de ape subterane ale câmpiilor.", "Include zone de conservare pentru flora de calcar.", "Relieful a favorizat agricultura de terasă și pășunatul.", "Un punct de reper geografic pentru sudul central al insulei."],
       hu: ["A dombság magassága 100 és 600 méter között váltakozik.", "Itt található Jamaica egyik legfontosabb karsztforrás-rendszere.", "A St. Catherine Hills ad otthont a híres Two Sisters barlangoknak Hellshire-ben.", "A terület fontos bázisa a kingstoni építőipar számára szükséges mészkőbányászatnak.", "A dombok között számos történelmi cukorültetvény és üdülőház maradványa látható.", "St. Catherine dombsága fontos élőhelye a jamaicai iguanának és több ritka madárfajnak.", "A terület klímája jelentősen befolyásolja a Kingston-i öböl széljárását.", "A dombság gerincén futó utak népszerűek a hétvégi kirándulók és kerékpárosok körében."]
-    }},
+    }
+  },
   {
     id: "trelawny-highlands-relief-v2",
     type: "relief",
     parent: "JM-TR",
     coords: [-77.6, 18.3],
-    name: { de: "Trelawny Hochland", hu: "Trelawny-felföld", ro: "Podișul Trelawny", en: "Trelawny Highlands" },
+    name: { de: "Trelawny Hochland", hu: "Trelawny-felföld", ro: "Podișul Trelawny", en: "Trelawny Highlands",
+image: "/poi-images/trelawny-highlands-relief-v2.webp"
+},
     description: { de: "Das Hochland von Trelawny ist das Herz des Cockpit Country, einer einzigartigen Karstlandschaft mit tiefen Dolinen und steilen Hügeln.", hu: "A felföld Trelawny északi részén.", ro: "Podișul din nordul Trelawny.", en: "The rugged and relatively inaccessible interior of Trelawny, part of the famous Cockpit Country's karst landscape." },
     facts: {
       de: ["Zentrum des Cockpit Country", "Einzigartige Karstgeologie", "Heimat der Maroons"],
@@ -315,13 +361,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Interior highland region primarily within the Cockpit Country.", "Characterized by intense karst topography and 'cockpit' valleys.", "Historical stronghold for the Leeward Maroons in the 1700s.", "Primary source of the Martha Brae and Quashies rivers.", "Jamaica's leading region for the production of yellow yams.", "Contains massive underground cave systems like Windsor Cave.", "Elevation varies significantly between the hills and glades.", "Protected from commercial mining to preserve the ecosystem."], de: ["Trelawny produziert über 60 % des gesamten Yams-Ertrags in Jamaika.", "Das Hochland erreicht Höhen von bis zu 600 Metern über dem Meer.", "Hier findet jährlich das berühmte Trelawny Yam Festival statt.", "In den Highlands entspringen mehrere Bäche, die im Cockpit Country versickern.", "Die Region war historisch ein Zentrum der Zuckerproduktion in den fruchtbaren Tälern.", "Die Flora umfasst zahlreiche endemische Baumarten, die nur in diesem Kalksteingebiet vorkommen.", "Trelawny Highland ist eines der am dünnsten besiedelten Gebiete der Insel.", "Die kühlen Nächte im Hochland sind ideal für den Anbau von Paprika und Kakao."], ro: ["Inima agricolă a Jamaicăi de nord, celebră pentru iams.", "Altitudine medie a podișului: 400 - 650 metri.", "Relief marcat de mii de formațiuni de tip 'cockpit'.", "Sursă pentru râul Martha Brae și afluenții săi.", "Bogat în biodiversitate, incluzând specii rare de orhidee.", "Barieră naturală impunătoare la sud de Falmouth.", "Zonă cu un drenaj natural subteran excepțional.", "Relieful a permis izolarea istorică a comunităților marone."],
       hu: ["A felvidék tengerszint feletti magassága 300 és 700 méter között mozog.", "Itt található a világ egyik legszebb trópusi karsztformációja.", "Trelawny felvidéke biztosítja az északi partvízrendszer vízellátásának jelentős részét.", "A területen több mint 100 olyan növényfaj él, amely csak itt található meg.", "Itt fészkel a veszélyeztetett sárgafülű amazonpapagáj legnagyobb populációja.", "A felvidék barlangrendszerei a leghosszabbak és legbonyolultabbak Jamaicában.", "A terület szinte teljesen lakatlan, megőrizve ősi, természetes állapotát.", "A Trelawny Highlands védelme kulcsfontosságú Jamaica klímastabilitása szempontjából."]
-    }},
+    }
+  },
   {
     id: "st-ann-hills-relief-v2",
     type: "mountain",
     parent: "JM-SA",
     coords: [-77.2, 18.3],
-    name: { de: "St. Ann Hügel", hu: "St. Ann-dombság", ro: "Dealurile St. Ann", en: "St. Ann Hills" },
+    name: { de: "St. Ann Hügel", hu: "St. Ann-dombság", ro: "Dealurile St. Ann", en: "St. Ann Hills",
+image: "/poi-images/st-ann-hills-relief-v2.webp"
+},
     description: { de: "Die Hügel von St. Ann, der 'Garten Jamaikas', bestechen durch grüne Pracht und zahlreiche Wasserfälle. Die Region ist ein Zentrum des Tourismus.", hu: "Lankás táj St. Ann-ben.", ro: "Dealurile St. Ann sunt renumite pentru frumusețea lor verde și cascadele care izvorăsc din structurile lor calcaroase.", en: "Scenic rolling hills on the north coast, famous for their lush vegetation, waterfalls, and bauxite-rich plateaus." },
     facts: {
       de: ["Grüne Hügellandschaft", "Bekannt für Wasserfälle", "Zentrum des Garten-Paradieses"],
@@ -334,13 +383,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Highland limestone plateau in the parish of St. Ann.", "Known as the center of Jamaica's cattle and pimento industry.", "Features fertile red 'terra rossa' soil rich in bauxite.", "Contains the Moneague Basin and its fluctuating 'lake.'", "Elevation provides a temperate climate compared to the coast.", "Historically home to large colonial estates and pens.", "The hills feed the famous Dunn's River and White River falls.", "Offers expansive views of the northern Caribbean coastline."], de: ["St. Ann ist die größte Parochie Jamaikas und fast vollständig von diesen Hügeln bedeckt.", "Hier wird der Großteil des jamaikanischen Piments (Allspice) angebaut.", "Die berühmten 'Nine Mile' Berge, Geburtsort von Bob Marley, liegen in diesem Hügelzug.", "Das Gelände ist durchzogen von unterirdischen Flüssen, die oft als Wasserfälle ans Licht treten.", "Die St. Ann Hills erreichen eine maximale Höhe von ca. 750 Metern.", "Die Region ist bekannt für ihre hochwertigen Molkereiprodukte und Rinderfarmen.", "Fern Gully ist eine natürliche Schlucht in diesen Hügeln mit über 300 Farnarten.", "Discovery Bay und Ocho Rios liegen direkt am Fuß der St. Ann Hills."], ro: ["Altitudini variind de la nivelul mării până la 750 m.", "Format dintr-un calcar alb foarte pur și poros.", "Include atracții naturale precum Fern Gully și Moneague Lake.", "Regiune renumită pentru climatul său blând și aerul curat.", "Sursă pentru cele mai faimoase cascade de pe insulă.", "Relief ideal pentru cultura ienibaharului (pimento).", "Include depozite masive de bauxită în zonele de podiș.", "Oferă panorame de neuitat asupra golfului Ocho Rios."],
       hu: ["A dombság magassága 200 és 600 méter között váltakozik.", "St. Ann dombjai híresek a pimento (jamaicai bors) kiváló minőségéről.", "A terület alatt húzódik Jamaica egyik leggazdagabb föld alatti vízhálózata.", "Itt található a híres Fern Gully, egy természetes zöld alagút a dombok között.", "A dombság lejtőin számos bauxitbánya és timföldgyár működik.", "St. Ann Hills Jamaica egyik legfontosabb botanikai gyűjtőhelye.", "A dombokról lélegzetelállító kilátás nyílik Ocho Rios kikötőjére és a tengerre.", "A terület népszerű célpontja a lovas túráknak és az ökoturizmusnak."]
-    }},
+    }
+  },
   {
     id: "claren-valley-relief-v2",
     type: "relief",
     parent: "JM-CL",
     coords: [-77.4, 18.1],
-    name: { de: "Clarendon Tal", hu: "Clarendon-völgy", ro: "Valea Clarendon", en: "Clarendon Valley" },
+    name: { de: "Clarendon Tal", hu: "Clarendon-völgy", ro: "Valea Clarendon", en: "Clarendon Valley",
+image: "/poi-images/claren-valley-relief-v2.webp"
+},
     description: { de: "Das Claren Valley ist ein weites, fruchtbares Tal, das von schützenden Bergrücken umgeben ist und ideal für den großflächigen Agraranbau genutzt wird.", hu: "Egy völgy Clarendonban.", ro: "Valea Claren este o zonă interioară liniștită, caracterizată prin terenuri agricole plane înconjurate de versanți muntoși.", en: "A fertile interior valley surrounded by hills, known for its agricultural productivity and rural beauty." },
     facts: {
       de: ["Weites Agrartal", "Zentrum des Obstanbaus", "Geschützte Tallage"],
@@ -353,13 +405,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Fertile alluvial valley located in central Clarendon.", "Situated between the Mocho Mountains and the Main Ridge.", "Formed by the sediment deposits of the Rio Minho river system.", "One of Jamaica's primary regions for large-scale sugar cane farming.", "Highly susceptible to seasonal flooding due to its flat relief.", "Historically dominated by massive colonial sugar plantations.", "The valley floor sits at an elevation of 100 to 200 meters.", "A critical hub for the island's citrus and livestock production."], de: ["Das Tal ist eines der Hauptanbaugebiete für die jamaikanische Zuckerindustrie.", "Der Rio Minho durchfließt das Tal und ist während der Regenzeit oft unberechenbar.", "In der Region befinden sich mehrere historische Zuckermühlenruinen.", "Das Claren Valley gilt als das Zentrum der Zitrusproduktion der Insel.", "May Pen, die Hauptstadt von Clarendon, liegt am östlichen Rand des Tales.", "Der Boden im Tal ist ein reicher Alluvialboden (Schwemmboden).", "Klimatisch ist das Tal im Sommer oft heißer als die Küstengebiete.", "Das Tal ist durch die Hauptverkehrsstrecke von Kingston nach Mandeville erschlossen."], ro: ["Una dintre cele mai mari câmpii aluvionare de pe insulă.", "Relief plat situat între 0 și 100 de metri altitudine.", "Bazinul hidrografic principal al râului Rio Minho.", "Soluri de tip argilos extrem de fertile pentru trestia de zahăr.", "Include zone vaste de irigații naturale și artificiale.", "Zonă predispusă la inundații în timpul uraganelor de sud.", "Inima producției de zahăr și rom în parohia Clarendon.", "Reprezintă o depresiune geografică majoră între munți și mare."],
       hu: ["A völgy Jamaica egyik legnagyobb összefüggő mezőgazdasági területe.", "A terület híres a kiváló minőségű cukornád- és melasz-termeléséről.", "A Claren-völgyben találhatók az ország legfontosabb ivóvíz-kutai.", "A völgy klímája meleg és napsütéses, ideális a trópusi növénytermesztéshez.", "Itt működik Jamaica több történelmi cukorgyára, mint például a Monymusk.", "A völgyben számos ritka trópusi madárfaj talál táplálkozóhelyet a nádasok mentén.", "A terület fontos szerepet játszik az ország élelmiszer-önellátási stratégiájában.", "A völgyön keresztül vezet az egyik legforgalmasabb déli közlekedési útvonal."]
-    }},
+    }
+  },
   {
     id: "manchester-plateau-relief-v2",
     type: "relief",
     parent: "JM-MA",
     coords: [-77.5, 18.0],
-    name: { de: "Manchester Plateau", hu: "Manchester-fennsík", ro: "Podișul Manchester", en: "Manchester Plateau" },
+    name: { de: "Manchester Plateau", hu: "Manchester-fennsík", ro: "Podișul Manchester", en: "Manchester Plateau",
+image: "/poi-images/manchester-plateau-relief-v2.webp"
+},
     description: { de: "Das Manchester-Plateau liegt auf etwa 600 Metern Höhe und bietet ein angenehm kühles Klima. Es prägt das zentrale Hochland Jamaikas.", hu: "Egy fennsík Manchester felföldjén.", ro: "Platoul Manchester este o regiune înaltă situată în centrul Jamaicăi, cunoscută pentru clima sa răcoroasă și solul roșu de bauxită.", en: "A high-altitude plateau in central Jamaica, known for its cool climate, red soil, and bauxite mining industry." },
     facts: {
       de: ["Hochgelegenes Plateau", "Kühles Wohnklima", "Wichtige Bauxitreserven"],
@@ -372,13 +427,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Elevated limestone plateau in south-central Jamaica.", "Average elevation of approximately 600 meters (2,000 feet).", "Mandeville, the plateau's main town, was founded in 1816.", "One of the world's most productive bauxite mining regions.", "Features a temperate climate with frequent mountain mists.", "The soil is dominated by fertile, iron-rich red clay (terra rossa).", "Contains a vast network of subterranean limestone caves.", "Major production center for citrus, coffee, and Irish potatoes."], de: ["Die durchschnittliche Höhe des Plateaus liegt bei ca. 610 Metern (2.000 Fuß).", "Die rote Farbe der Erde stammt von einem hohen Gehalt an Eisen- und Aluminiumoxiden.", "Das Plateau verfügt aufgrund seiner Karststruktur über fast keine oberirdischen Flüsse.", "Hier herrscht eines der angenehmsten Wohnklimate der gesamten Karibik.", "Manchester wurde 1814 gegründet und ist eine der jüngsten Parochien der Insel.", "Die Region ist ein bedeutendes Zentrum für die Produktion von Orangen und Mandarinen.", "Das Plateau bildet eine wichtige natürliche Barriere zwischen der Nord- und Südküste.", "Mandeville war eine der ersten Städte Jamaikas mit einem eigenen Golfplatz."], ro: ["Altitudine medie constantă între 600 și 900 de metri.", "Cea mai stabilă regiune geologică a insulei.", "Absența râurilor de suprafață datorită porozității calcarului.", "Cunoscut pentru solul roșu vulcanic 'Terra Rossa'.", "Climat temperat, cu cele mai mici temperaturi din centrul țării.", "Bază pentru cele mai mari rezerve de bauxită din Caraibe.", "Relieful a favorizat o urbanizare de tip grădină în Mandeville.", "Oferă o perspectivă aeriană asupra parohiilor Clarendon și St. Elizabeth."],
       hu: ["A fennsík átlagos magassága 700 méter a tengerszint felett.", "Itt található Jamaica legfontosabb bauxit- és timföldipari központja.", "A terület híres a hűvös reggeleiről és az alacsony páratartalomról.", "A Manchester-fennsíkon termesztik Jamaica legjobb burgonya- és yam-készleteit.", "A fennsík barlangrendszere fontos régészeti és geológiai kutatóhelyszín.", "Itt található a sziget legöregebb kávé- és citrusültetvényeinek jelentős része.", "A terület klímája miatt már a 19. században népszerű gyógyhely volt.", "A fennsík gerincén futó utakról belátni szinte az egész déli partvidéket."]
-    }},
+    }
+  },
   {
     id: "st-elizabeth-plains-relief-v2",
     type: "relief",
     parent: "JM-SE",
     coords: [-77.8, 17.9],
-    name: { de: "St. Elizabeth Ebenen", hu: "St. Elizabeth-síkság", ro: "Câmpiile St. Elizabeth", en: "St. Elizabeth Plains" },
+    name: { de: "St. Elizabeth Ebenen", hu: "St. Elizabeth-síkság", ro: "Câmpiile St. Elizabeth", en: "St. Elizabeth Plains",
+image: "/poi-images/st-elizabeth-plains-relief-v2.webp"
+},
     description: { de: "Die Ebenen von St. Elizabeth gelten als die 'Speisekammer Jamaikas' und sind dank intensiver Bewässerung höchst produktiv.", hu: "A kiterjedt déli síkságok.", ro: "Câmpiile St. Elizabeth sunt 'coșul de pâine' al Jamaicăi, o zonă vastă și relativ plană, ideală pentru marea agricultură.", en: "The broad southern plains of Saint Elizabeth, known as Jamaica's breadbasket due to intensive agriculture." },
     facts: {
       de: ["Wichtigstes Anbaugebiet", "Flache Küstenebene", "Zentrum der Gemüseproduktion"],
@@ -391,13 +449,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Located in southwestern Jamaica, south of the Santa Cruz Mountains.", "Jamaica's most productive agricultural region, despite low rainfall.", "Home to the Black River Great Morass, a RAMSAR wetland site.", "The plains are dominated by alluvium and fertile red clay soils.", "Major producer of escallion, thyme, melons, and tomatoes.", "Historically significant for the logwood and cattle export industries.", "The flat topography is ideal for large-scale irrigation projects.", "The area features a unique semi-arid savanna microclimate."], de: ["St. Elizabeth ist die drittgrößte Parochie Jamaikas.", "Die Ebenen sind bekannt für ihre 'schwarzen Sandstrände' vulkanischen Ursprungs.", "Hier befindet sich der längste schiffbare Fluss der Insel, der Black River.", "Die Region erhält weniger als 1.000 mm Niederschlag pro Jahr.", "St. Elizabeth ist das Hauptzentrum für die Schaf- und Ziegenzucht auf der Insel.", "Die Ebenen waren historisch ein Zentrum des Indigo- und Baumwollanbaus.", "In der Region leben viele Nachfahren schottischer und deutscher Siedler.", "Die flache Topographie macht die Region ideal für die Errichtung von Solarparks."], ro: ["Cea mai mare zonă de producție agricolă din Jamaica.", "Relief de câmpie cu altitudini între 0 și 50 de metri.", "Caracterizată printr-un regim de precipitații foarte scăzut.", "Include bazinul inferior al râului Black River.", "Solurile sunt bogate în minerale transportate din munți.", "Regiune marcată de microclimate de savană tropicală.", "Pilon central pentru securitatea alimentară a națiunii.", "Relieful permite transportul facil al produselor spre porturi."],
       hu: ["A síkságokon található Jamaica legnagyobb összefüggő mocsárvidéke, a Black River Lower Morass.", "Itt termesztik az ország görögdinnye- és paradicsom-készleteinek jelentős részét.", "A terület híres a különleges 'szárazföldi' halászatáról a mocsári csatornák mentén.", "A síkságokon keresztül kanyarog Jamaica leghosszabb hajózható folyója, a Black River.", "Itt él Jamaica legnagyobb amerikai krokodil populációja.", "A terület fontos fészkelőhelye a vándorló vízimadaraknak a Karib-térségben.", "A síkságok talaja gazdag alluviális lerakódásokban, ami rendkívül termékennyé teszi.", "St. Elizabeth síkságai kulcsszerepet játszanak Jamaica élelmiszerbiztonságában."]
-    }},
+    }
+  },
   {
     id: "portland-ridge-relief-v2",
     type: "relief",
     parent: "JM-CL",
     coords: [-77.15, 17.75],
-    name: { de: "Portland Ridge", hu: "Portland-gerinc", ro: "Culmea Portland", en: "Portland Ridge" },
+    name: { de: "Portland Ridge", hu: "Portland-gerinc", ro: "Culmea Portland", en: "Portland Ridge",
+image: "/poi-images/portland-ridge-relief-v2.webp"
+},
     description: { de: "Der Portland Ridge ist eine markante Kalksteinformation an der Südküste Jamaikas, die weit in das Karibische Meer ragt. Er ist bekannt für seine raue Küstenlandschaft.", hu: "Egy hegyvonulat Clarendon déli részén.", ro: "Portland Ridge este o proeminență calcaroasă pe coasta de sud, formând cel mai sudic punct al insulei Jamaica.", en: "A prominent limestone ridge on the south coast, forming the southern tip of Jamaica and featuring unique dry forests." },
     facts: {
       de: ["Südlichster Punkt Jamaikas", "Kalkstein-Küstengebirge", "Artenreiche Trockenwälder"],
@@ -410,13 +471,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["The southernmost point of mainland Jamaica in the parish of Clarendon.", "A limestone ridge rising roughly 150 meters above the sea.", "Contains the Portland Ridge Lighthouse, a key navigational aid.", "One of the driest and most arid regions on the entire island.", "Habitat for the rare Jamaican Iguana and dry-forest endemic birds.", "Geologically composed of uplifted Tertiary limestone.", "Part of the Portland Bight Protected Area, Jamaica's largest.", "Features numerous sea caves and sharp, jagged karst cliffs."], de: ["Portland Point auf der Halbinsel ist der geografisch südlichste Punkt Jamaikas.", "Der Leuchtturm von Portland Point ist mit 44 Metern einer der höchsten der Insel.", "Die Region beherbergt seltene Trockenwald-Ökosysteme.", "Portland Ridge ist bekannt für seine Vorkommen an endemischen Leguanen und Reptilien.", "In den Kalksteinfelsen befinden sich bedeutende Höhlensysteme wie die Jackson's Bay Caves.", "Die Gewässer um die Halbinsel sind reich an Korallenriffen und Seekühen.", "Das Klima hier ist eines der trockensten in ganz Jamaika.", "Die Halbinsel ist nur dünn besiedelt und dient hauptsächlich als Naturschutzgebiet."], ro: ["Cel mai sudic punct al peninsulei Portland în Jamaica.", "Creastă de calcar cu altitudine de 150 de metri.", "Include farul strategic Portland Point.", "Habitat protejat pentru pădurea uscată tropicală rară.", "Relief marcat de eroziune marină severă pe latura de sud.", "Zonă istorică utilizată pentru semnalizarea maritimă.", "Absența surselor de apă dulce de suprafață.", "Un element cheie în configurația golfului Portland Bight."],
       hu: ["A gerinc legmagasabb pontja körülbelül 150 méterrel emelkedik a tenger fölé.", "Itt található a Portland Point világítótorony, Jamaica egyik legfontosabb navigációs jele.", "A terület a Portland Bight Védett Övezet (PBPA) egyik legértékesebb magzónája.", "A Portland-gerinc barlangjaiban ritka denevérfajok és endemikus hüllők élnek.", "Ez Jamaica egyik legfontosabb fészkelőhelye a veszélyeztetett barna pelikánoknak.", "A gerinc part menti vizei híresek a Queen Conch (szárnyas csiga) gazdagságáról.", "A terület geológiája értékes információkkal szolgál a karibi mészkőképződésről.", "A Portland Ridge látogatása csak engedéllyel, természetvédelmi szakemberek kíséretében ajánlott."]
-    }},
+    }
+  },
   {
     id: "hellshire-hills-relief-v2",
     type: "relief",
     parent: "JM-SC",
     coords: [-76.9, 17.85],
-    name: { de: "Hellshire Hills", hu: "Hellshire-dombság", ro: "Dealurile Hellshire", en: "Hellshire Hills" },
+    name: { de: "Hellshire Hills", hu: "Hellshire-dombság", ro: "Dealurile Hellshire", en: "Hellshire Hills",
+image: "/poi-images/hellshire-hills-relief-v2.webp"
+},
     description: { de: "Die Hellshire Hills sind ein ausgedehntes Kalksteinplateau nahe Kingston, das eine der letzten intakten tropischen Trockenwaldregionen der Welt beherbergt.", hu: "Egy száraz, mészkőben gazdag dombvidék.", ro: "Dealurile Hellshire sunt un masiv calcaros arid, protejând unele dintre ultimele păduri tropicale uscate virgine din lume.", en: "A rugged limestone area on the south coast, known for its dry tropical forest and proximity to popular beaches." },
     facts: {
       de: ["Tropischer Trockenwald", "Lebensraum der Jamaika-Leguane", "Nahe der Hauptstadt Kingston"],
@@ -429,13 +493,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Located in St. Catherine, forming part of the Portland Bight area.", "One of the best-preserved dry limestone forests in the Caribbean.", "Last remaining natural habitat for the endemic Jamaican Iguana.", "Characterized by sharp karst limestone and low rainfall.", "Features numerous caves and sinkholes in the white limestone.", "Highest elevation in the hills is approximately 200 meters.", "Historically used as a hideout for runaway slaves and Maroons.", "Protects a unique ecosystem of cacti and drought-resistant trees."], de: ["Die Hellshire Hills erstrecken sich über eine Fläche von ca. 110 Quadratkilometern.", "Hier wurde der als ausgestorben geglaubte Jamaika-Leguan (Cyclura collei) 1990 wiederentdeckt.", "Die Region erhält weniger als 800 mm Niederschlag pro Jahr.", "Die Vegetation besteht hauptsächlich aus Kakteen, Akazien und endemischen Harthölzern.", "Unter den Hügeln liegen bedeutende Süßwasser-Aquifere für die Region Portmore.", "Es gibt keine dauerhaften oberirdischen Wasserläufe in den Hellshire Hills.", "In den Höhlen wurden bedeutende Felszeichnungen der Taino-Indianer gefunden.", "Die Hills gehören zum geschützten Portland Bight Protected Area."], ro: ["Cea mai mare pădure tropicală uscată intactă din Caraibe.", "Relief carstic de tip 'honeycomb limestone' foarte tăios.", "Altitudini joase, între 0 și 200 de metri.", "Sanctuar critic pentru iguana jamaicană amenințată.", "Zonă cu biodiversitate ridicată de cactuși și arbuști xerofitici.", "Include rețele vaste de peșteri cu semnificație arheologică.", "Barieră naturală împotriva valurilor de furtună pentru Portmore.", "Un mediu natural fragil situat la marginea expansiunii urbane."],
       hu: ["A Hellshire Hills több mint 100 négyzetkilométernyi védett területet foglal magában.", "Itt található Jamaica legnagyobb és legjobb állapotban fennmaradt száraz trópusi erdője.", "A terület a kritikusan veszélyeztetett jamaicai iguana (Cyclura collei) egyetlen vadon élőhelye.", "A dombság mentes az állandó felszíni vizektől, az élővilág a hajnali párából és az esővízből él.", "A Hellshire Hills barlangjaiban jelentős prekolumbián régészeti leleteket tártak fel.", "A terület a Portland Bight Védett Övezet (PBPA) egyik legértékesebb magzónája.", "A dombság lábánál találhatók a népszerű Hellshire strandok, híres halas éttermeikkel.", "A terület látogatása szigorúan szabályozott a veszélyeztetett fajok védelme érdekében."]
-    }},
+    }
+  },
   {
     id: "johannesburg-mountain-relief-v2",
     type: "mountain",
     parent: "JM-PO",
     coords: [-76.55, 18.2],
-    name: { de: "Johannesburg Mountain", hu: "Johannesburg-hegy", ro: "Muntele Johannesburg", en: "Johannesburg Mountain" },
+    name: { de: "Johannesburg Mountain", hu: "Johannesburg-hegy", ro: "Muntele Johannesburg", en: "Johannesburg Mountain",
+image: "/poi-images/johannesburg-mountain-relief-v2.webp"
+},
     description: { de: "Der Johannesburg Mountain ist ein markanter Gipfel im Westen der Insel, der durch sein zerklüftetes Gelände und die dichte Bewaldung besticht.", hu: "Egy csúcs a sziget keleti részén.", ro: "Muntele Johannesburg este un vârf proeminent în regiunea vestică, oferind un punct de reper vizual pentru întreaga parohie Westmoreland.", en: "An interior mountain peak in western Jamaica, contributing to the rugged landscape of the island's central range." },
     facts: {
       de: ["Markante Erhebung im Westen", "Zerklüftetes Waldgelände", "Panorama-Aussichtspunkt"],
@@ -448,13 +515,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Elevation reaches approximately 1,400 meters in the Blue Mountains.", "Located near the boundary of St. Andrew and St. Thomas parishes.", "Features primary montane cloud forest and high endemic biodiversity.", "Part of the essential watershed for the Hope and Yallahs rivers.", "The slopes are used for high-altitude Blue Mountain Coffee cultivation.", "Historically a strategic region for Maroon and resistance movements.", "Accessible only via rugged and often overgrown hiking trails.", "Receives over 3,000 millimeters of rainfall annually due to trade winds."], de: ["Der Berg erreicht eine Höhe von über 700 Metern über dem Meer.", "Johannesburg Mountain liegt im Grenzbereich zwischen Clarendon und Manchester.", "Die Region ist bekannt für ihr hohes Vorkommen an tropischen Farnarten.", "Er dient als wichtiges Wassereinzugsgebiet für die Bäche des Rio Minho Systems.", "Häufige Nebelbildung sorgt für ein feuchtes Mikroklima an den Nordhängen.", "Die Bodenbeschaffenheit ist ideal für den Anbau hochwertigen Hochlandkaffees.", "In der Umgebung finden sich Reste von alten Steinpfaden aus der Kolonialzeit.", "Der Berg ist ein Rückzugsort für den jamaikanischen Trogon und andere endemische Vögel."], ro: ["Vârf strategic cu vedere peste Bog Walk Gorge.", "Altitudine de peste 600 de metri deasupra nivelului mării.", "Parte a sistemului muntos central-sudic.", "Format din calcar alb poros supus carstificării.", "Oferă un microclimat montan deasupra zonelor calde de câmpie.", "Habitat pentru reptile endemice și păsări forestiere.", "Un reper geografic pentru infrastructura feroviară și rutieră veche.", "Pantele muntoase sunt vizibile din Spanish Town."],
       hu: ["A hegy magassága több helyen meghaladja a 600 métert.", "Fontos szerepet játszik a fővárosi régió észak-déli közlekedési hálózatában.", "A Johannesburg-hegy környezete gazdag kiváló minőségű mészkőben és bauxitban.", "A terület fontos vízgyűjtője a Rio Cobre és a Rio Minho folyóknak.", "A hegy barlangjaiban jelentős cseppkő-képződmények figyelhetők meg.", "Itt található Jamaica egyik legfontosabb hegyi köderdő maradványa a központi régióban.", "A hegycsúcs közelében több kisebb, friss vizű hegyi forrás is fakad.", "A terület népszerű célpontja a geológiai és botanikai tanulmányutaknak."]
-    }},
+    }
+  },
   {
     id: "blue-mountain-peak-north-relief-v2",
     type: "mountain",
     parent: "JM-PO",
     coords: [-76.58, 18.1],
-    name: { de: "Blue Mountain Peak Nord", hu: "Blue Mountain Peak északi rész", ro: "Blue Mountain Peak Nord", en: "Blue Mountain Peak North" },
+    name: { de: "Blue Mountain Peak Nord", hu: "Blue Mountain Peak északi rész", ro: "Blue Mountain Peak Nord", en: "Blue Mountain Peak North",
+image: "/poi-images/blue-mountain-peak-north-relief-v2.webp"
+},
     description: { de: "Die Nordseite des Blue Mountain Peak ist durch extrem steile Hänge und eine nahezu undurchdringliche, feuchte Bergvegetation gekennzeichnet.", hu: "A Blue Mountain Peak északi része.", ro: "Versantul nordic al Blue Mountain Peak este zona cea mai sălbatică și mai umedă a masivului, acoperită de păduri de nori.", en: "The northern slopes of Jamaica's highest peak, characterized by dense rainforest and high annual rainfall." },
     facts: {
       de: ["Steile Nordflanken", "Unberührter Nebelwald", "Teil des UNESCO-Welterbes"],
@@ -467,13 +537,16 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Northern face of Jamaica's highest peak, located in Portland.", "Receives some of the highest rainfall in the Caribbean (6,000mm+).", "Home to untouched primary cloud forest and giant tree ferns.", "Stronghold for the endangered Jamaican Blackbird and Giant Swallowtail.", "Features extremely steep and unstable shale topography.", "Part of the UNESCO Blue and John Crow Mountains National Park.", "Accessible only through arduous and often unmapped forest trails.", "Vital watershed for the Rio Grande and Buff Bay rivers."], de: ["Die Nordseite erhält jährlich bis zu 5.000 mm Niederschlag.", "Das Gelände ist so steil, dass es für den konventionellen Kaffeeanbau ungeeignet ist.", "Hier finden sich einige der letzten Bestände des primären Bergregenwaldes Jamaikas.", "Die Region beherbergt zahlreiche unentdeckte Höhlen und unterirdische Wasserläufe.", "Die kühlen Temperaturen begünstigen das Wachstum von Gebirgsorchideen.", "In diesem Gebiet entspringen wasserreiche Flüsse wie der Swift River und der Rio Grande.", "Die Nordhänge sind ein wichtiger Lebensraum für die seltene jamaikanische Baumratte (Hutia).", "Aufgrund der Abgeschiedenheit ist die Lichtverschmutzung hier gleich null."], ro: ["Versantul cel mai umed și mai sălbatic al Munților Albaștri.", "Altitudini care pornesc de la 1.000 m până la 2.256 m.", "Izvor pentru râurile care se varsă pe coasta de nord-est.", "Zonă dominată de păduri de ceață primare intacte.", "Include cele mai abrupte creșteri de nivel din Caraibe.", "Habitat protejat în cadrul Patrimoniului Mondial UNESCO.", "Relief extrem de accidentat, limitând prezența umană.", "Centru global de endemism pentru plantele de munte înalt."],
       hu: ["Az északi lejtők kapják Jamaica legmagasabb évi csapadékmennyiségét (akár 7000 mm).", "A terület a Blue and John Crow Mountains UNESCO világörökségi helyszín központi része.", "Itt ered Jamaica legtöbb és legtisztább hegyi folyója.", "Az északi lejtőkön található az ország egyik leggazdagabb páfrány- és orchidea-lelőhelye.", "A terület fontos menedéke volt a maron közösségeknek a gyarmati küzdelmek idején.", "Híres a 'Silver Hill' és más látványos kilátópontjairól Portland felé.", "Az északi lejtők erdei kritikus szerepet játszanak a globális klímavédelemben.", "A területen számos olyan növényfaj él, amely csak a 1500 méter feletti zónában marad életben."]
-    }},
+    }
+  },
   {
     id: "mocho-mountains-relief-v2",
     type: "mountain",
     parent: "JM-CL",
     coords: [-77.3, 18.05],
-    name: { de: "Mocho Mountains", hu: "Mocho-hegység", ro: "Munții Mocho", en: "Mocho Mountains" },
+    name: { de: "Mocho Mountains", hu: "Mocho-hegység", ro: "Munții Mocho", en: "Mocho Mountains",
+image: "/poi-images/mocho-mountains-relief-v2.webp"
+},
     description: { de: "Die Mocho Mountains im Zentrum Jamaikas sind geprägt von tiefen Tälern und sanften Bergkuppen, die für den Bergbau und die Landwirtschaft genutzt werden.", hu: "Egy hegylánc Clarendon északi részén.", ro: "Munții Mocho sunt un lanț muntos central mai puțin cunoscut, esențial pentru captarea apei în inima parohiei Clarendon.", en: "A central mountain range in Clarendon, known for its rugged limestone terrain and bauxite deposits." },
     facts: {
       de: ["Zentrales Bergland", "Wichtige Bauxitlagerstätten", "Hügelige Agrarlandschaft"],
@@ -487,6 +560,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     },
     factsAdvanced: { en: ["Central limestone range in the parish of Clarendon.", "Average elevation ranges between 400 and 600 meters.", "A major center for bauxite mining and citrus production.", "Features classic karst topography with numerous sinkholes.", "Vital watershed for the Rio Minho and local aquifers.", "Historically a refuge for people seeking independence from plantations.", "Known for its traditional 'Mocho' culture and rural hospitality.", "Home to several significant and unexplored limestone caves."], de: ["Die Mocho Mountains erreichen Höhen von etwa 600 bis 700 Metern.", "Das Gebirge besteht hauptsächlich aus tertiärem 'White Limestone'.", "Hier befinden sich einige der ergiebigsten Bauxitminen der Insel.", "Die Region ist bekannt für ihre traditionellen Gemeinschaften von Korbflechtern.", "Die Berge wirken als Klimascheide für die Clarendon Plains im Süden.", "Zahlreiche kleine Höhlen in den Mocho Mountains wurden früher als Kultstätten genutzt.", "Die Flora umfasst seltene endemische Arten des jamaikanischen Ebenholzes.", "In der Trockenzeit können die Temperaturen in den Tälern der Mocho Mountains sehr hoch ansteigen."], ro: ["Lanț muntos central cu orientare Est-Vest.", "Altitudine medie de aproximativ 600 de metri.", "Zonă majoră pentru extracția și procesarea bauxitei.", "Include numeroase așezări rurale istorice pe culmi.", "Sursă pentru numeroase izvoare și cursuri mici de apă.", "Vegetația cuprinde arbori de cedru și mahon jamaican.", "Relieful colinar favorizează climatul de deal răcoros.", "Un pilon geografic pentru parohia Clarendon."],
       hu: ["A hegység legmagasabb pontjai meghaladják a 600 métert.", "A Mocho-hegység Jamaica egyik legfontosabb bauxitbányászati körzete.", "A terület barlangrendszereiben fontos prekolumbián régészeti leleteket találtak.", "A hegység vízgyűjtője táplálja a Clarendon-síkság jelentős ivóvíz-készleteit.", "Itt él a ritka jamaicai fekete rigó és több endemikus papagájfaj is.", "A Mocho-hegység híres a különleges, karsztos növénytársulásairól.", "A területen keresztül vezető utak pazar panorámát nyújtanak a központi Jamaica vonulataira.", "A hegység védelme alapvető fontosságú a régió ökológiai egyensúlyának fenntartásához."]
-    }}
+    }
+  }
 ];
 

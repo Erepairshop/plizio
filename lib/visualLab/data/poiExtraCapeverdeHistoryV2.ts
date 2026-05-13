@@ -11,8 +11,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Altstadt von Ribeira Grande (Cidade Velha)",
       hu: "Cidade Velha (Ribeira Grande de Santiago)",
       ro: "Cidade Velha (Ribeira Grande de Santiago)",
-      en: "Cidade Velha (Ribeira Grande de Santiago)"
-    },
+      en: "Cidade Velha (Ribeira Grande de Santiago)",
+image: "/poi-images/cv-cidade-velha-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "Cidade Velha, formerly known as Ribeira Grande, was the first European city founded in the tropics, serving as the colonial capital and a major hub for the transatlantic slave trade. Its rich history is preserved through ruins, colonial architecture, and the imposing fortress that guards the bay against past invaders. Today, the town is a UNESCO World Heritage site, offering profound insights into the colonial era of Cape Verde. History K8 — colonial era and trade routes."
     },
@@ -41,8 +42,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Königliche Festung São Filipe",
       hu: "São Filipe királyi erőd",
       ro: "Fortaleza Real de São Filipe",
-      en: "Royal Fortress of São Filipe"
-    },
+      en: "Royal Fortress of São Filipe",
+image: "/poi-images/cv-fortaleza-real-sao-filipe-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Fortaleza Real de São Filipe dominates the heights above Cidade Velha, standing as a historical sentinel that protected the town from persistent pirate attacks and rival colonial powers during the 16th and 17th centuries. Its strategic location allowed the Portuguese to control maritime activity in the Atlantic. Today, the fortress is restored, offering visitors a unique perspective on the tactical defense mechanisms of that era, alongside panoramic views of the coast. History K8 — defense architecture and naval history."
     },
@@ -71,8 +73,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Pranger von Cidade Velha",
       hu: "Cidade Velha pellengére",
       ro: "Pelourinho din Cidade Velha",
-      en: "Pillory of Cidade Velha"
-    },
+      en: "Pillory of Cidade Velha",
+image: "/poi-images/cv-pelourinho-cidade-velha-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Pillory of Cidade Velha stands as a somber monument in the heart of the historic square, reflecting the complex and often brutal judicial history of the colonial period. It was used as a public site for the punishment of enslaved people and criminals, symbolizing the power dynamics that defined early Atlantic commerce. Today, the monument remains a site of national memory, inviting visitors to reflect on the legacy of slavery and the evolution of human rights in the Cape Verdean society. History K8 — judicial history and human rights."
     },
@@ -101,8 +104,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Ruinen der Sé-Kathedrale",
       hu: "A Sé-székesegyház romjai",
       ro: "Ruinele Catedralei Sé",
-      en: "Ruins of the Sé Cathedral"
-    },
+      en: "Ruins of the Sé Cathedral",
+image: "/poi-images/cv-ruinas-se-catedral-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The ruins of the Sé Catedral in Cidade Velha are the remnants of what was meant to be the first great cathedral in West Africa, representing the early ambitions of the Portuguese church in the tropics. Although the building was never fully finished and later suffered structural damage, its stone remains suggest a grand design typical of the late Renaissance. These ruins serve as an archaeological witness to the religious, political, and cultural aspirations of the colonial administration in the 16th century. History K8 — religious architecture and colonial ambition."
     },
@@ -131,8 +135,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Konzentrationslager Tarrafal",
       hu: "Tarrafali koncentrációs tábor",
       ro: "Lagărul de concentrare de la Tarrafal",
-      en: "Tarrafal Concentration Camp"
-    },
+      en: "Tarrafal Concentration Camp",
+image: "/poi-images/cv-tarrafal-concentration-camp-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The concentration camp in Tarrafal, often called the 'Camp of Slow Death,' was a notorious prison facility established during the authoritarian Estado Novo regime in Portugal. It was primarily used to incarcerate political opponents and anti-colonial activists, becoming a symbol of repression across the Portuguese empire, including Cape Verde. Following the 1974 Carnation Revolution, the camp was closed, and today it serves as a museum and a center for reflection on democracy, human rights, and the liberation struggle. History K8 — 20th-century political history."
     },
@@ -161,8 +166,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Leuchtturm Dona Maria Pia",
       hu: "Dona Maria Pia világítótorony",
       ro: "Farul Dona Maria Pia",
-      en: "Dona Maria Pia Lighthouse"
-    },
+      en: "Dona Maria Pia Lighthouse",
+image: "/poi-images/cv-farol-dona-maria-pia-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Dona Maria Pia Lighthouse, constructed in 1881, stands on a cliff overlooking the coast near Praia. It was a crucial navigational beacon for the Portuguese maritime routes crossing the South Atlantic. Today, the lighthouse represents a significant piece of Cape Verde's industrial and maritime heritage, reflecting the late 19th-century efforts to improve safety for international shipping. It offers a vantage point for understanding the island's historical reliance on Atlantic trade. History K8 — maritime history and industrial development."
     },
@@ -190,8 +196,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Präsidentenpalast (Praia)",
       hu: "Elnöki palota (Praia)",
       ro: "Palatul Prezidențial (Praia)",
-      en: "Presidential Palace (Praia)"
-    },
+      en: "Presidential Palace (Praia)",
+image: "/poi-images/cv-palacio-presidencial-praia-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Presidential Palace in Praia is an iconic colonial-era building that has served as the official residence for various high-ranking officials throughout Cape Verde's history. Its architecture is characterized by elegant late-19th-century features, reflecting the aesthetic preferences of the colonial administration. Since independence, the palace has become a symbol of the nation's sovereignty and political leadership. It stands as a witness to the transition from a colonial outpost to a sovereign, democratic republic. History K8 — political history and architecture."
     },
@@ -219,8 +226,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Jaime Mota Kaserne",
       hu: "Jaime Mota laktanya",
       ro: "Cazarma Jaime Mota",
-      en: "Jaime Mota Barracks"
-    },
+      en: "Jaime Mota Barracks",
+image: "/poi-images/cv-quartel-jaime-mota-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Quartel Jaime Mota is a historic military barracks located in the heart of Praia's Plateau. Built during the colonial period, it was designed to house the military presence responsible for maintaining order and defense across the islands. Following the country's independence, the barracks retained its military function, symbolizing the continuity and evolution of Cape Verde's defense forces. It remains a key landmark of the capital's historical landscape, illustrating the military history within the administrative center. History K8 — military history."
     },
@@ -248,8 +256,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Historisches Zentrum von Mindelo",
       hu: "Mindelo történelmi központja",
       ro: "Centrul istoric din Mindelo",
-      en: "Historic Center of Mindelo"
-    },
+      en: "Historic Center of Mindelo",
+image: "/poi-images/cv-mindelo-historic-center-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The historic center of Mindelo, on São Vicente island, is famous for its well-preserved neoclassical and colonial buildings, often referred to as a 'Little Lisbon' of the archipelago. Mindelo grew rapidly in the 19th century as a key coaling station for ships crossing the Atlantic. Its vibrant streets and squares are the cradle of Cape Verdean culture, music, and literature. The city's rich history and status as a cosmopolitan port make it a vital part of the national identity. History K8 — cultural history and maritime trade."
     },
@@ -277,8 +286,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Turm von Belém (Mindelo)",
       hu: "Belém-torony (Mindelo)",
       ro: "Turnul Belém (Mindelo)",
-      en: "Belém Tower (Mindelo)"
-    },
+      en: "Belém Tower (Mindelo)",
+image: "/poi-images/cv-torre-de-belem-mindelo-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Torre de Belém in Mindelo is an architectural tribute to the famous tower in Lisbon, reflecting the historical connections between Cape Verde and Portugal. Standing as a cultural landmark, the tower is a symbol of the architectural cross-pollination that occurred during the colonial period. It remains a popular point of interest for visitors exploring the harbor area of Mindelo, serving as a reminder of the historical, aesthetic, and cultural ties between the islands and the Portuguese mainland. History K8 — cultural heritage."
     },
@@ -306,8 +316,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Fortim d'El Rei",
       hu: "Fortim d'El Rei erőd",
       ro: "Fortim d'El Rei",
-      en: "Fortim d'El Rei"
-    },
+      en: "Fortim d'El Rei",
+image: "/poi-images/cv-fortim-del-rei-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Fortim del Rei in Mindelo, São Vicente, was built in the 19th century as part of the defensive system for Mindelo's growing port. Its strategic location on the hillside allowed it to oversee the deep-water harbor that became vital for Atlantic shipping and coaling stations. Today, the fort serves as a historical monument that provides visitors with a unique perspective on the island's defense during its rapid colonial expansion, as well as an excellent view over the bay of Mindelo. History K8 — military defense and maritime expansion."
     },
@@ -335,8 +346,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Historische Salinen von Pedra de Lume",
       hu: "Pedra de Lume történelmi sóbányái",
       ro: "Salinele istorice din Pedra de Lume",
-      en: "Historical Salt Pans of Pedra de Lume"
-    },
+      en: "Historical Salt Pans of Pedra de Lume",
+image: "/poi-images/cv-historical-salt-pans-pedra-de-lume-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The historic salt pans of Pedra de Lume, located inside the crater of an extinct volcano on Sal island, have been a significant site for salt production since the 18th century. Salt from these pans was exported internationally, fueling maritime trade routes and the local economy. The site represents a unique combination of geological wonder and industrial history, demonstrating how the archipelago's volcanic nature was harnessed for economic gain. Today, it stands as a testament to Sal's role in the Atlantic salt trade. History K8 — industrial history and geology."
     },
@@ -365,8 +377,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Festung des Herzogs von Bragança",
       hu: "Bragança hercegének erődje",
       ro: "Fortul Ducelui de Bragança",
-      en: "Fort of the Duke of Bragança"
-    },
+      en: "Fort of the Duke of Bragança",
+image: "/poi-images/cv-forte-duque-de-braganca-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Forte Duque de Bragança, also known as the fortification of Sal Rei on Boa Vista, was a 19th-century defensive structure built to protect the town's harbor from pirate attacks and potential European rivals. The fort played a significant role in securing the maritime routes around the island, which were critical for local trade and the export of various products. Today, its ruins offer a glimpse into the colonial-era defense strategies on the island and provide an excellent vantage point over the bay and the nearby Ilhéu de Sal Rei. History K8 — colonial defense architecture."
     },
@@ -394,8 +407,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Kirche Unserer Lieben Frau vom Rosenkranz",
       hu: "Rózsafüzér Királynője templom",
       ro: "Biserica Maica Domnului a Rozariului",
-      en: "Church of Our Lady of the Rosary"
-    },
+      en: "Church of Our Lady of the Rosary",
+image: "/poi-images/cv-igreja-nossa-senhora-rosario-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Church of Nossa Senhora do Rosário in Cidade Velha is one of the oldest colonial-era churches in Cape Verde, representing the influence of the Catholic Church in the early centuries of settlement. It is an architectural jewel from the 15th and 16th centuries, showcasing Manueline and Renaissance styles that were popular during the Portuguese expansion. The church serves as a symbol of the religious, cultural, and political changes that were imposed and adopted during the colonial settlement of the islands. History K8 — religious architecture and cultural history."
     },
@@ -423,8 +437,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Rathaus von São Filipe",
       hu: "São Filipe városháza",
       ro: "Primăria din São Filipe",
-      en: "Town Hall of São Filipe"
-    },
+      en: "Town Hall of São Filipe",
+image: "/poi-images/cv-pacos-concelho-sao-filipe-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Paços do Concelho in São Filipe, Fogo, is a landmark colonial-era town hall that represents the institutional history of the island's municipal administration. Built during the period of Fogo's prosperity through coffee trade, the building features architectural elements typical of the colonial administration's focus on institutional authority. Today, the town hall is the seat of local government, serving as a center for the island's civic life and a point of reference for the rich history of São Filipe. History K8 — institutional and municipal history."
     },
@@ -452,8 +467,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Kirche St. Johann der Täufer",
       hu: "Keresztelő Szent János templom",
       ro: "Biserica Sfântul Ioan Botezătorul",
-      en: "Church of Saint John the Baptist"
-    },
+      en: "Church of Saint John the Baptist",
+image: "/poi-images/cv-igreja-sao-joao-batista-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Church of São João Baptista in São Filipe, Fogo, is a significant colonial-era religious structure that reflects the Catholic heritage of the island. Constructed during the period when the island became an important center for coffee cultivation, the church is characterized by its traditional design and religious significance to the local population. It serves as a spiritual and cultural anchor in the historic town of São Filipe, standing as a reminder of the historical role of the Church in the island's community life. History K8 — religious architecture."
     },
@@ -481,8 +497,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Sobrados von São Filipe",
       hu: "São Filipe sobradói (gyarmati házak)",
       ro: "Sobrados din São Filipe",
-      en: "Sobrados of São Filipe"
-    },
+      en: "Sobrados of São Filipe",
+image: "/poi-images/cv-sobrados-sao-filipe-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The 'Sobrados' in São Filipe are unique colonial-era manor houses, typical of the wealthy class that flourished during the island's coffee-producing boom. These multi-story houses are known for their distinctive colonial architecture, featuring decorative balconies and inner courtyards. They symbolize the social and economic stratification of colonial Fogo, where the elite lived. Today, many of these houses are preserved, offering visitors a glimpse into the opulent lifestyle of the island's historical masters and the intricate architectural heritage they left behind. History K8 — social history and architecture."
     },
@@ -510,8 +527,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Vila do Porto Inglês (Historisches Zentrum)",
       hu: "Vila do Porto Inglês történelmi központja",
       ro: "Centrul istoric Vila do Porto Inglês",
-      en: "Vila do Porto Inglês Historic Center"
-    },
+      en: "Vila do Porto Inglês Historic Center",
+image: "/poi-images/cv-vila-porto-ingles-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "Vila do Porto Inglês on Maio island holds a long history linked to the maritime routes between Europe and the Americas. The town's name, 'Porto Inglês,' reflects the historical influence of English maritime activity in the region during the era of salt trade and naval provisioning. Its historical center remains quiet and authentic, preserving the architectural simplicity of a traditional Cape Verdean port town. It is a site of maritime significance, offering insights into the diverse international connections that shaped the island's history. History K8 — maritime trade."
     },
@@ -540,8 +558,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Kirche der Unbefleckten Empfängnis (Povoação)",
       hu: "Szeplőtelen Fogantatás templom (Povoação)",
       ro: "Biserica Maica Domnului a Zămislirii",
-      en: "Church of Our Lady of the Immaculate Conception"
-    },
+      en: "Church of Our Lady of the Immaculate Conception",
+image: "/poi-images/cv-igreja-nossa-senhora-conceicao-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Church of Nossa Senhora da Conceição, located in the village of Vila das Pombas on Santo Antão, is a historical religious site serving as an anchor for the community. The church represents the long history of religious life in the Paul Valley, reflecting the architectural customs brought by Portuguese settlers. Its presence, set against the dramatic green backdrop of the valley, underscores the integration of faith and daily life in the rural areas of Santo Antão. It is a significant cultural landmark for the island's inhabitants. History K8 — cultural life and architecture."
     },
@@ -569,8 +588,9 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Haus der Erinnerung (Fogo)",
       hu: "Az Emlékezet Háza (Fogo)",
       ro: "Casa da Memória (Fogo)",
-      en: "House of Memory (Fogo)"
-    },
+      en: "House of Memory (Fogo)",
+image: "/poi-images/cv-casa-da-memoria-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Casa da Memória (House of Memory) in Cape Verde serves as a museum and cultural repository dedicated to preserving the local history, heritage, and traditions of the islands. It collects artifacts, photographs, and oral histories that tell the story of the archipelago's colonial past, the struggles for independence, and the everyday lives of its people. This site plays a crucial role in maintaining the national identity and cultural consciousness of the Cape Verdean people, making it an essential visit for understanding the islands' soul. History K8 — cultural history and museology."
     },

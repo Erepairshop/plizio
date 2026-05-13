@@ -4,7 +4,9 @@ export const croatiaEconomicV2: POI[] = [
   {
     id: "croatia-luka-rijeka-brajdica-economic-v2",
     type: "port",
-    name: { de: "Hafen Rijeka - Brajdica", hu: "Fiumei kikötő - Brajdica", ro: "Portul Rijeka - Brajdica", en: "Port of Rijeka - Brajdica" },
+    name: { de: "Hafen Rijeka - Brajdica", hu: "Fiumei kikötő - Brajdica", ro: "Portul Rijeka - Brajdica", en: "Port of Rijeka - Brajdica",
+image: "/poi-images/croatia-luka-rijeka-brajdica-economic-v2.webp"
+},
     coordinates: { lat: 45.326, lng: 14.457 },
     description: {
       de: "Das Brajdica-Containerterminal ist der wichtigste Umschlagplatz des Hafens von Rijeka. Es dient als bedeutendes Tor für den Warenverkehr nach Zentraleuropa.",
@@ -18,11 +20,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cel mai mare port din Croația", "Adâncime de peste 14 metri", "Nod feroviar strategic", "Acces direct la autostradă"],
       en: ["Largest port in Croatia", "Over 14 meters water depth", "Strategic railway junction", "Direct highway connection"],
     },
-    imageHint: "Port of Rijeka container terminal with large cranes", image: "/poi-images/croatia-luka-rijeka-brajdica-economic-v2.webp"},
-  {
+imageHint: "Port of Rijeka container terminal with large cranes",
+    descriptionAdvanced: {
+      de: "Der Containerterminal Brajdica ist der wichtigste Teil des Hafens von Rijeka und fungiert als maritimes Tor für Mitteleuropa mit moderner Bahnanbindung.",
+      hu: "A fiumei kikötő Brajdica konténerterminálja Horvátország legforgalmasabb tengeri kapuja, amely modern vasúti összeköttetéssel szolgálja ki Közép-Európát.",
+      ro: "Terminalul de containere Brajdica din portul Rijeka este principala poartă maritimă a Croației, oferind conexiuni feroviare vitale pentru Europa Centrală.",
+      en: "The Brajdica container terminal in the Port of Rijeka is Croatia's primary maritime gateway, providing essential rail links to markets in Central Europe.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität von 500.000 TEU jährlich", "Kailänge von über 600 Metern", "Teilstück des Mittelmeerkorridors", "Wichtigster Logistikknoten der Adria"],
+      hu: ["Évi 500 000 TEU konténerkapacitás", "Több mint 600 méter hosszú rakpart", "A Mediterrán folyosó kulcsfontosságú pontja", "Horvátország legnagyobb teherkikötője"],
+      ro: ["Capacitate de 500.000 TEU pe an", "Lungime chei de peste 600 metri", "Punct cheie pe Coridorul Mediteranean", "Cel mai mare hub logistic din Croația"],
+      en: ["Annual capacity of 500,000 TEUs", "Quay length exceeding 600 meters", "Key node of the Mediterranean Corridor", "Croatia's largest freight port facility"],
+    },
+    image: "/poi-images/croatia-luka-rijeka-brajdica-economic-v2.webp",
+},  {
     id: "croatia-luka-ploce-economic-v2",
     type: "port",
-    name: { de: "Hafen von Ploče", hu: "Ploče kikötője", ro: "Portul Ploče", en: "Port of Ploče" },
+    name: { de: "Hafen von Ploče", hu: "Ploče kikötője", ro: "Portul Ploče", en: "Port of Ploče",
+image: "/poi-images/croatia-luka-ploce-economic-v2.webp"
+},
     coordinates: { lat: 43.051, lng: 17.433 },
     description: {
       de: "Dieser Tiefwasserhafen an der Adria ist von zentraler Bedeutung für die Wirtschaft von Bosnien und Herzegowina. Er schlägt vor allem Schüttgut und Container um.",
@@ -36,11 +53,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Al doilea port ca mărime din țară", "Poarta coridorului Vc", "Adâncime de până la 18 metri", "Terminal modern de mărfuri în vrac"],
       en: ["Second largest port in the country", "Gateway for Corridor Vc", "Depth up to 18 meters", "Modern bulk cargo terminal"],
     },
-    imageHint: "Aerial view of Port of Ploče with cargo ships", image: "/poi-images/croatia-luka-ploce-economic-v2.webp"},
-  {
+imageHint: "Aerial view of Port of Ploče with cargo ships",
+    descriptionAdvanced: {
+      de: "Der Hafen von Ploče ist der zweitgrößte Hafen Kroatiens und dient als strategischer Umschlagplatz für den Wirtschaftskorridor Vc nach Bosnien-Herzegowina.",
+      hu: "Ploče kikötője Horvátország második legnagyobb tengeri terminálja, amely a boszniai Vc folyosó stratégiai fontosságú áruforgalmi központjaként üzemel.",
+      ro: "Portul Ploče este al doilea ca mărime din Croația, servind ca punct strategic de transbordare pentru coridorul economic Vc către Bosnia și Herțegovina.",
+      en: "The Port of Ploče is Croatia's second largest maritime facility, serving as a strategic transshipment hub for the Vc corridor into Bosnia and Herzegovina.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe von bis zu 18 Metern", "Spezialisierter Terminal für Schüttgut", "Gegründet im Jahr 1945", "Direkte Anbindung an Sarajevo per Bahn"],
+      hu: ["Akár 18 méteres merülési mélység", "Speciális ömlesztettáru-terminál", "Hivatalos alapítási éve 1945", "Közvetlen vasúti kapcsolat Szarajevóval"],
+      ro: ["Adâncime de până la 18 metri", "Terminal specializat pentru mărfuri vrac", "Fondat oficial în anul 1945", "Legătură feroviară directă cu Sarajevo"],
+      en: ["Draft depth of up to 18 meters", "Specialized bulk cargo terminal", "Officially founded in 1945", "Direct railway connection to Sarajevo"],
+    },
+    image: "/poi-images/croatia-luka-ploce-economic-v2.webp",
+},  {
     id: "croatia-uljanik-shipyard-economic-v2",
     type: "industry",
-    name: { de: "Schiffswerft Uljanik", hu: "Uljanik hajógyár", ro: "Șantierul naval Uljanik", en: "Uljanik Shipyard" },
+    name: { de: "Schiffswerft Uljanik", hu: "Uljanik hajógyár", ro: "Șantierul naval Uljanik", en: "Uljanik Shipyard",
+image: "/poi-images/croatia-uljanik-shipyard-economic-v2.webp"
+},
     coordinates: { lat: 44.865, lng: 13.84 },
     description: {
       de: "Die 1856 gegründete Werft in Pula ist eine der ältesten der Welt. Sie ist bekannt für den Bau spezialisierter Schiffe wie Baggerschiffe und Autotransporter.",
@@ -54,11 +86,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1856", "Situat pe o insulă", "A construit nava Berge Istra", "Fost arsenal naval"],
       en: ["Founded in 1856", "Located on an island", "Built the Berge Istra ship", "Former naval arsenal"],
     },
-    imageHint: "Uljanik shipyard cranes in Pula harbor", image: "/poi-images/croatia-uljanik-shipyard-economic-v2.webp"},
-  {
+imageHint: "Uljanik shipyard cranes in Pula harbor",
+    descriptionAdvanced: {
+      de: "Die 1856 gegründete Uljanik-Werft in Pula blickt auf eine lange Tradition im Bau von Spezialschiffen zurück, von Kriegsschiffen bis hin zu Luxuskreuzfahrern.",
+      hu: "Az 1856-ban alapított pulai Uljanik hajógyár évszázados hagyományokkal rendelkezik a speciális célú hajók, hadihajók és luxuscirkálók építése terén.",
+      ro: "Șantierul naval Uljanik din Pula, fondat în 1856, are o lungă tradiție în construcția de nave specializate, de la vase de război la croaziere de lux.",
+      en: "Founded in 1856, the Uljanik Shipyard in Pula has a storied history of building specialized vessels, from historic warships to modern luxury cruisers.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet für die K.u.k. Kriegsmarine", "Befindet sich auf einer kleinen Insel", "Erster Stapellauf im Jahr 1858", "Spezialisierung auf Baggerschiffe"],
+      hu: ["Az osztrák-magyar flotta számára épült", "Egy kis szigeten helyezkedik el Pula öblében", "Az első hajó vízre bocsátása 1858-ban", "Kotróhajók építésére szakosodott üzem"],
+      ro: ["Fondat pentru marina austro-ungară", "Situat pe o mică insulă în golful Pula", "Prima lansare la apă în anul 1858", "Specializat în nave de dragaj complexe"],
+      en: ["Founded for the Austro-Hungarian Navy", "Located on a small island in Pula bay", "First ship launched in 1858", "Specialized in complex dredging vessels"],
+    },
+    image: "/poi-images/croatia-uljanik-shipyard-economic-v2.webp",
+},  {
     id: "croatia-brodosplit-economic-v2",
     type: "industry",
-    name: { de: "Brodosplit Werft", hu: "Brodosplit hajógyár", ro: "Șantierul naval Brodosplit", en: "Brodosplit Shipyard" },
+    name: { de: "Brodosplit Werft", hu: "Brodosplit hajógyár", ro: "Șantierul naval Brodosplit", en: "Brodosplit Shipyard",
+image: "/poi-images/croatia-brodosplit-economic-v2.webp"
+},
     coordinates: { lat: 43.525, lng: 16.438 },
     description: {
       de: "Brodosplit ist die größte Werft in Kroatien und befindet sich in der Bucht von Kaštela. Sie produziert eine breite Palette von Schiffen, von Kreuzfahrtschiffen bis hin zu Militärbooten.",
@@ -72,11 +119,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cel mai mare șantier din țară", "A construit cel mai mare velier", "Structuri metalice pentru poduri", "Peste 100 de ani de tradiție"],
       en: ["Largest shipyard in the country", "Built the largest sailing ship", "Steel structures for bridges", "Over 100 years of tradition"],
     },
-    imageHint: "Brodosplit shipyard with large ships under construction", image: "/poi-images/croatia-brodosplit-economic-v2.webp"},
-  {
+imageHint: "Brodosplit shipyard with large ships under construction",
+    descriptionAdvanced: {
+      de: "Brodosplit in Split ist die größte Werft Kroatiens und bekannt für den Bau komplexer Schiffe wie Polarkreuzfahrer, Megayachten und riesige Containerschiffe.",
+      hu: "A spliti Brodosplit Horvátország legnagyobb hajógyára, amely olyan komplex egységek építéséről híres, mint a sarki expedíciós hajók és megajachtok.",
+      ro: "Brodosplit din Split este cel mai mare șantier naval din Croația, cunoscut pentru construcția de nave complexe, precum nave de croazieră polare și iahturi.",
+      en: "Brodosplit in Split is the largest shipyard in Croatia, renowned for constructing complex vessels like polar expedition ships, megayachts, and tankers.",
+    },
+    factsAdvanced: {
+      de: ["Geländefläche von 560.000 m²", "Baute das größte Segelschiff der Welt", "Gegründet im Jahr 1922 durch Fusion", "Exportiert Schiffe weltweit"],
+      hu: ["560 000 m²-es üzemi terület", "Itt épült a világ legnagyobb vitorlása", "1922-ben jött létre fúzió révén", "Világszerte exportálja modern hajóit"],
+      ro: ["Suprafață industrială de 560.000 m²", "A construit cel mai mare velier din lume", "Fondat în 1922 prin fuziune", "Exportă nave în întreaga lume"],
+      en: ["Industrial area of 560,000 m²", "Built the world's largest sailing ship", "Founded in 1922 through merger", "Exports vessels to global markets"],
+    },
+    image: "/poi-images/croatia-brodosplit-economic-v2.webp",
+},  {
     id: "croatia-viktor-lenac-economic-v2",
     type: "industry",
-    name: { de: "Viktor Lenac Schiffswerft", hu: "Viktor Lenac hajógyár", ro: "Șantierul naval Viktor Lenac", en: "Viktor Lenac Shipyard" },
+    name: { de: "Viktor Lenac Schiffswerft", hu: "Viktor Lenac hajógyár", ro: "Șantierul naval Viktor Lenac", en: "Viktor Lenac Shipyard",
+image: "/poi-images/croatia-viktor-lenac-economic-v2.webp"
+},
     coordinates: { lat: 45.305, lng: 14.502 },
     description: {
       de: "Viktor Lenac ist eine der führenden Reparaturwerften im Mittelmeerraum. Sie ist spezialisiert auf den Umbau komplexer Schiffe und Offshore-Plattformen.",
@@ -90,11 +152,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Specialist în reparații navale", "Deține trei docuri plutitoare", "Bază pentru Marina SUA", "Sediul în Kostrena"],
       en: ["Ship repair specialist", "Owns three floating docks", "US Navy maintenance base", "Located in Kostrena"],
     },
-    imageHint: "Floating docks of Viktor Lenac shipyard", image: "/poi-images/croatia-viktor-lenac-economic-v2.webp"},
-  {
+imageHint: "Floating docks of Viktor Lenac shipyard",
+    descriptionAdvanced: {
+      de: "Die Werft Viktor Lenac in Rijeka ist eine der führenden Reparaturwerften im Mittelmeerraum und ein zertifizierter Partner für die Wartung der US-Marine.",
+      hu: "A fiumei Viktor Lenac hajógyár a Földközi-tenger egyik vezető javítóbázisa, amely az amerikai haditengerészet hivatalos partnere a karbantartásban.",
+      ro: "Șantierul naval Viktor Lenac din Rijeka este unul dintre principalele centre de reparații din Mediterană și partener certificat pentru flota SUA.",
+      en: "The Viktor Lenac Shipyard in Rijeka is a leading repair yard in the Mediterranean and a certified partner for the maintenance of US Navy vessels.",
+    },
+    factsAdvanced: {
+      de: ["Drei Schwimmndocks für Großschiffe", "Gegründet im Jahr 1896", "Spezialisierung auf Schiffsverlängerungen", "Liegt in der Bucht Martinšćica"],
+      hu: ["Három úszódokk nagy hajók számára", "Alapítási éve 1896", "Hajóhosszabbításokra szakosodott üzem", "A Martinšćica-öbölben található"],
+      ro: ["Trei docuri plutitoare mari", "Fondat în anul 1896", "Specializat în conversii și extensii", "Situat în golful Martinšćica"],
+      en: ["Three floating docks for large ships", "Founded in the year 1896", "Specialized in ship conversions", "Located in Martinšćica bay"],
+    },
+    image: "/poi-images/croatia-viktor-lenac-economic-v2.webp",
+},  {
     id: "croatia-pliva-factory-economic-v2",
     type: "factory",
-    name: { de: "Pliva Pharma-Werk", hu: "Pliva gyógyszergyár", ro: "Fabrica Pliva", en: "Pliva Factory" },
+    name: { de: "Pliva Pharma-Werk", hu: "Pliva gyógyszergyár", ro: "Fabrica Pliva", en: "Pliva Factory",
+image: "/poi-images/croatia-pliva-factory-economic-v2.webp"
+},
     coordinates: { lat: 45.811, lng: 15.938 },
     description: {
       de: "Pliva ist das größte Pharmaunternehmen in Kroatien und Teil der Teva-Gruppe. Es ist weltberühmt für die Entdeckung des Antibiotikums Azithromycin.",
@@ -108,11 +185,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["A descoperit Azitromicina", "Fondată în 1921", "Cel mai mare centru de R&D", "Parte a grupului Teva"],
       en: ["Discovered Azithromycin", "Founded in 1921", "Largest R&D center", "Part of Teva Group"],
     },
-    imageHint: "Modern Pliva pharmaceutical research facility", image: "/poi-images/croatia-pliva-factory-economic-v2.webp"},
-  {
+imageHint: "Modern Pliva pharmaceutical research facility",
+    descriptionAdvanced: {
+      de: "Pliva ist das größte Pharmaunternehmen Kroatiens und wurde durch die Entdeckung von Azithromycin, einem weltweit genutzten Antibiotikum, berühmt.",
+      hu: "A Pliva Horvátország legnagyobb gyógyszergyára, amely az azitromicin antibiotikum felfedezésével vált világszerte elismertté és sikeressé.",
+      ro: "Pliva este cea mai mare companie farmaceutică din Croația, devenită faimoasă prin descoperirea azitromicinei, un antibiotic utilizat la nivel mondial.",
+      en: "Pliva is Croatia's largest pharmaceutical company, gaining global fame through the discovery of azithromycin, a widely used antibiotic.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1921 in Zagreb", "Entwickelte das Medikament Sumamed", "Teil der Teva Pharmaceutical Industries", "Größtes F&E-Zentrum in Südosteuropa"],
+      hu: ["1921-ben alapították Zágrábban", "A Sumamed gyógyszer kifejlesztője", "A Teva Pharmaceutical Industries tagja", "Délkelet-Európa legnagyobb kutatóközpontja"],
+      ro: ["Fondată în 1921 la Zagreb", "A dezvoltat medicamentul Sumamed", "Parte a Teva Pharmaceutical Industries", "Cel mai mare centru R&D din regiune"],
+      en: ["Founded in 1921 in Zagreb", "Developed the drug Sumamed", "Part of Teva Pharmaceutical Industries", "Largest R&D center in SE Europe"],
+    },
+    image: "/poi-images/croatia-pliva-factory-economic-v2.webp",
+},  {
     id: "croatia-rimac-campus-economic-v2",
     type: "factory",
-    name: { de: "Rimac Campus", hu: "Rimac Campus", ro: "Campusul Rimac", en: "Rimac Campus" },
+    name: { de: "Rimac Campus", hu: "Rimac Campus", ro: "Campusul Rimac", en: "Rimac Campus",
+image: "/poi-images/croatia-rimac-campus-economic-v2.webp"
+},
     coordinates: { lat: 45.783, lng: 15.795 },
     description: {
       de: "Der Rimac Campus ist das Hauptquartier von Rimac Automobili, einem führenden Hersteller von elektrischen Hypercars. Hier werden Batterietechnologien und der Nevera produziert.",
@@ -126,11 +218,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Producătorul modelului Nevera", "Dezvoltă tehnologie E-auto", "Partener cu Bugatti", "Sediul în Kerestinec"],
       en: ["Manufacturer of Nevera", "E-car technology development", "Partner of Bugatti", "Located in Kerestinec"],
     },
-    imageHint: "Modern architecture of Rimac Automobili headquarters", image: "/poi-images/croatia-rimac-campus-economic-v2.webp"},
-  {
+imageHint: "Modern architecture of Rimac Automobili headquarters",
+    descriptionAdvanced: {
+      de: "Der Rimac Campus bei Zagreb ist das hochmoderne Zentrum für die Entwicklung von elektrischen Hypercars und Batteriesystemen für globale Automobilhersteller.",
+      hu: "A Zágráb melletti Rimac Campus az elektromos hiperautók és akkumulátorrendszerek fejlesztésének ultramodern központja, globális gyártók partnere.",
+      ro: "Campusul Rimac de lângă Zagreb este centrul ultra-modern pentru dezvoltarea hypercar-urilor electrice și a sistemelor de baterii pentru marii producători.",
+      en: "The Rimac Campus near Zagreb is a state-of-the-art facility dedicated to developing electric hypercars and battery systems for global automotive brands.",
+    },
+    factsAdvanced: {
+      de: ["Hauptsitz von Rimac Group", "Entwicklungsort des Rimac Nevera", "Partnerschaften mit Porsche und Bugatti", "Umfasst über 200.000 m² Fläche"],
+      hu: ["A Rimac Csoport központja", "A Rimac Nevera szülőhelye", "Stratégiai partner: Porsche és Bugatti", "Területe meghaladja a 200 000 m²-t"],
+      ro: ["Sediul central al Rimac Group", "Locul unde a fost creat Rimac Nevera", "Parteneriate cu Porsche și Bugatti", "Suprafață de peste 200.000 m²"],
+      en: ["Headquarters of the Rimac Group", "Home of the Rimac Nevera hypercar", "Partnerships with Porsche and Bugatti", "Spans over 200,000 square meters"],
+    },
+    image: "/poi-images/croatia-rimac-campus-economic-v2.webp",
+},  {
     id: "croatia-gavrilovic-meat-economic-v2",
     type: "factory",
-    name: { de: "Gavrilović Fleischfabrik", hu: "Gavrilović húsüzem", ro: "Fabrica de carne Gavrilović", en: "Gavrilović Meat Factory" },
+    name: { de: "Gavrilović Fleischfabrik", hu: "Gavrilović húsüzem", ro: "Fabrica de carne Gavrilović", en: "Gavrilović Meat Factory",
+image: "/poi-images/croatia-gavrilovic-meat-economic-v2.webp"
+},
     coordinates: { lat: 45.441, lng: 16.284 },
     description: {
       de: "Gavrilović ist der älteste Fleischwarenhersteller Kroatiens mit Sitz in Petrinja. Das Unternehmen ist bekannt für seine Winter-Salami und seine lange Familientradition.",
@@ -144,11 +251,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fondată în 1690", "Renumită pentru salam de iarnă", "Sediul în Petrinja", "Fost furnizor al curții"],
       en: ["Founded in 1690", "Famous for winter salami", "Based in Petrinja", "Former court supplier"],
     },
-    imageHint: "Gavrilović factory building in Petrinja", image: "/poi-images/croatia-gavrilovic-meat-economic-v2.webp"},
-  {
+imageHint: "Gavrilović factory building in Petrinja",
+    descriptionAdvanced: {
+      de: "Gavrilović in Petrinja ist der älteste Fleischwarenhersteller Kroatiens und bekannt für seine traditionelle Salami nach Rezepten aus dem 17. Jahrhundert.",
+      hu: "A petrinjai Gavrilović Horvátország legrégebbi húsipari vállalata, amely a 17. századi receptek alapján készült hagyományos szalámijairól híres.",
+      ro: "Gavrilović din Petrinja este cel mai vechi producător de carne din Croația, renumit pentru salamurile tradiționale după rețete din secolul al XVII-lea.",
+      en: "Gavrilović in Petrinja is Croatia's oldest meat processing company, famous for its traditional winter salami based on 17th-century recipes.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1690", "Hoflieferant der Habsburger", "Markenzeichen ist das Mädchen Jelica", "Sitz in der Stadt Petrinja"],
+      hu: ["1690-ben alapították", "A Habsburg-udvar beszállítója volt", "Védjegye a kislány, Jelica", "Központja Petrinja városa"],
+      ro: ["Fondată în anul 1690", "Furnizor al Curții Habsburgice", "Simbolul mărcii este fetița Jelica", "Sediul se află în orașul Petrinja"],
+      en: ["Established in the year 1690", "Former supplier to the Habsburg court", "The trademark features the girl Jelica", "Headquartered in the town of Petrinja"],
+    },
+    image: "/poi-images/croatia-gavrilovic-meat-economic-v2.webp",
+},  {
     id: "croatia-podravka-food-economic-v2",
     type: "factory",
-    name: { de: "Podravka Lebensmittelwerk", hu: "Podravka élelmiszergyár", ro: "Fabrica de alimente Podravka", en: "Podravka Food Factory" },
+    name: { de: "Podravka Lebensmittelwerk", hu: "Podravka élelmiszergyár", ro: "Fabrica de alimente Podravka", en: "Podravka Food Factory",
+image: "/poi-images/croatia-podravka-food-economic-v2.webp"
+},
     coordinates: { lat: 46.164, lng: 16.824 },
     description: {
       de: "Podravka ist eines der bekanntesten Lebensmittelunternehmen in Südosteuropa. Ihr berühmtestes Produkt ist Vegeta, ein Gewürz, das in über 40 Länder exportiert wird.",
@@ -162,11 +284,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Producătorul Vegeta", "Sediul în Koprivnica", "Fondată în 1947", "Exportă la nivel mondial"],
       en: ["Manufacturer of Vegeta", "Based in Koprivnica", "Founded in 1947", "Exports worldwide"],
     },
-    imageHint: "Podravka headquarters with Vegeta logo", image: "/poi-images/croatia-podravka-food-economic-v2.webp"},
-  {
+imageHint: "Podravka headquarters with Vegeta logo",
+    descriptionAdvanced: {
+      de: "Podravka mit Sitz in Koprivnica ist einer der führenden Lebensmittelkonzerne Südosteuropas, weltberühmt für das universelle Würzmittel Vegeta.",
+      hu: "A kaproncai székhelyű Podravka Délkelet-Európa egyik vezető élelmiszeripari óriása, amely a világhírű Vegeta ételízesítő megalkotója.",
+      ro: "Podravka, cu sediul în Koprivnica, este unul dintre principalii giganți alimentari din Europa de Sud-Est, faimos pentru condimentul universal Vegeta.",
+      en: "Podravka, based in Koprivnica, is one of South-East Europe's leading food companies, globally renowned for creating the universal seasoning Vegeta.",
+    },
+    factsAdvanced: {
+      de: ["Vegeta wird in über 40 Länder exportiert", "Gegründet im Jahr 1947", "Marken wie Lino und Čokolino", "Besitzt ein eigenes Museum in Koprivnica"],
+      hu: ["A Vegetát több mint 40 országba exportálják", "Alapítási éve 1947", "Saját márkák: Lino és Čokolino", "Élelmiszeripari múzeummal rendelkezik"],
+      ro: ["Vegeta este exportată în peste 40 de țări", "Fondată în anul 1947", "Deține mărci precum Lino și Čokolino", "Are propriul muzeu în Koprivnica"],
+      en: ["Vegeta is exported to over 40 countries", "Founded in the year 1947", "Brands include Lino and Čokolino", "Maintains its own museum in Koprivnica"],
+    },
+    image: "/poi-images/croatia-podravka-food-economic-v2.webp",
+},  {
     id: "croatia-petrokemija-kutina-economic-v2",
     type: "industry",
-    name: { de: "Düngemittelwerk Petrokemija", hu: "Petrokemija műtrágyagyár", ro: "Combinatul Petrokemija", en: "Petrokemija Fertilizer Plant" },
+    name: { de: "Düngemittelwerk Petrokemija", hu: "Petrokemija műtrágyagyár", ro: "Combinatul Petrokemija", en: "Petrokemija Fertilizer Plant",
+image: "/poi-images/croatia-petrokemija-kutina-economic-v2.webp"
+},
     coordinates: { lat: 45.474, lng: 16.769 },
     description: {
       de: "Petrokemija in Kutina ist die einzige Düngemittelfabrik in Kroatien. Sie spielt eine strategische Rolle für die kroatische Landwirtschaft und den Export.",
@@ -180,11 +317,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Singurul producător de îngrășăminte", "Sediul în Kutina", "Fondată în 1968", "Consumator mare de gaze"],
       en: ["Sole fertilizer producer", "Based in Kutina", "Founded in 1968", "Major natural gas consumer"],
     },
-    imageHint: "Petrokemija industrial facility in Kutina", image: "/poi-images/croatia-petrokemija-kutina-economic-v2.webp"},
-  {
+imageHint: "Petrokemija industrial facility in Kutina",
+    descriptionAdvanced: {
+      de: "Petrokemija in Kutina ist der einzige kroatische Hersteller von Mineraldünger und spielt eine entscheidende Rolle für die Landwirtschaft des Landes.",
+      hu: "A kutinai Petrokemija Horvátország egyetlen műtrágyagyártója, amely alapvető szerepet játszik az ország mezőgazdasági termelésének támogatásában.",
+      ro: "Petrokemija din Kutina este singurul producător de îngrășăminte minerale din Croația, având un rol crucial în susținerea agriculturii naționale.",
+      en: "Petrokemija in Kutina is Croatia's sole manufacturer of mineral fertilizers, playing a critical role in supporting the nation's agricultural sector.",
+    },
+    factsAdvanced: {
+      de: ["Größter Erdgasverbraucher Kroatiens", "Gegründet im Jahr 1968", "Produktionskapazität von 1,2 Mio. Tonnen", "Wichtigster Arbeitgeber in Kutina"],
+      hu: ["Horvátország legnagyobb földgázfogyasztója", "1968-ban alapították", "Évi 1,2 millió tonna gyártási kapacitás", "Kutina városának legfontosabb munkaadója"],
+      ro: ["Cel mai mare consumator de gaz din țară", "Fondată în anul 1968", "Capacitate de 1,2 milioane tone anual", "Principalul angajator din orașul Kutina"],
+      en: ["Croatia's largest natural gas consumer", "Founded in the year 1968", "Production capacity of 1.2 million tons", "Most important employer in Kutina"],
+    },
+    image: "/poi-images/croatia-petrokemija-kutina-economic-v2.webp",
+},  {
     id: "croatia-sisak-refinery-economic-v2",
     type: "industry",
-    name: { de: "Ölraffinerie Sisak", hu: "Sziszeki olajfinomító", ro: "Rafinăria Sisak", en: "Sisak Oil Refinery" },
+    name: { de: "Ölraffinerie Sisak", hu: "Sziszeki olajfinomító", ro: "Rafinăria Sisak", en: "Sisak Oil Refinery",
+image: "/poi-images/croatia-sisak-refinery-economic-v2.webp"
+},
     coordinates: { lat: 45.46, lng: 16.39 },
     description: {
       de: "Die Raffinerie in Sisak ist ein wichtiger Teil der kroatischen Ölindustrie (INA). Sie wurde kürzlich in ein Logistikzentrum und ein industrielles Zentrum umgewandelt.",
@@ -198,11 +350,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Parte a grupului INA", "Fondată în 1923", "Nou centru logistic", "Sit industrial important"],
       en: ["Part of INA Group", "Founded in 1923", "New logistics hub", "Important industrial site"],
     },
-    imageHint: "Sisak oil refinery tanks and towers", image: "/poi-images/croatia-sisak-refinery-economic-v2.webp"},
-  {
+imageHint: "Sisak oil refinery tanks and towers",
+    descriptionAdvanced: {
+      de: "Die Erdölraffinerie in Sisak war historisch ein Pfeiler der kroatischen Energieindustrie und wird derzeit zu einem modernen Logistikzentrum umgewandelt.",
+      hu: "A sziszeki olajfinomító történelmileg a horvát energiaipar egyik tartóoszlopa volt, amely jelenleg modern logisztikai központtá alakul át.",
+      ro: "Rafinăria de petrol din Sisak a fost istoric un pilon al industriei energetice croate, fiind în prezent transformată într-un centru logistic modern.",
+      en: "The Sisak oil refinery was historically a pillar of the Croatian energy industry and is currently being transitioned into a modern logistics hub.",
+    },
+    factsAdvanced: {
+      de: ["Teil des INA-Konzerns", "Erste Verarbeitungsanlage 1923", "Strategische Lage am Fluss Save", "Zentrum der Biobrennstoff-Forschung"],
+      hu: ["Az INA-csoport része", "Első feldolgozóegységét 1923-ban építették", "Stratégiai helyszín a Száva folyónál", "A bioüzemanyag-kutatás új központja"],
+      ro: ["Parte a grupului petrolier INA", "Prima unitate de procesare din 1923", "Locație strategică pe malul râului Sava", "Centru pentru cercetarea biocombustibililor"],
+      en: ["Part of the INA energy group", "First processing unit built in 1923", "Strategic location on the Sava River", "Center for biofuel research and logistics"],
+    },
+    image: "/poi-images/croatia-sisak-refinery-economic-v2.webp",
+},  {
     id: "croatia-urinj-refinery-economic-v2",
     type: "industry",
-    name: { de: "Ölraffinerie Rijeka (Urinj)", hu: "Fiumei olajfinomító (Urinj)", ro: "Rafinăria Rijeka (Urinj)", en: "Rijeka Oil Refinery (Urinj)" },
+    name: { de: "Ölraffinerie Rijeka (Urinj)", hu: "Fiumei olajfinomító (Urinj)", ro: "Rafinăria Rijeka (Urinj)", en: "Rijeka Oil Refinery (Urinj)",
+image: "/poi-images/croatia-urinj-refinery-economic-v2.webp"
+},
     coordinates: { lat: 45.289, lng: 14.516 },
     description: {
       de: "Die Raffinerie in Urinj bei Rijeka ist die modernste Ölverarbeitungsanlage Kroatiens. Sie verfügt über einen eigenen Hafen für Öltanker.",
@@ -217,11 +384,25 @@ export const croatiaEconomicV2: POI[] = [
       en: ["Most modern refinery", "Private oil terminal", "Located in Kostrena", "Major modernization project"],
     },
     imageHint: "Rijeka oil refinery complex by the sea",
+    descriptionAdvanced: {
+      de: "Die Raffinerie Urinj bei Rijeka ist die wichtigste Erdölverarbeitungsanlage Kroatiens mit direktem Meereszugang für den internationalen Export.",
+      hu: "A Fiume melletti Urinj finomító Horvátország legfontosabb kőolajfeldolgozó üzeme, amely közvetlen tengeri hozzáféréssel rendelkezik az exporthoz.",
+      ro: "Rafinăria Urinj de lângă Rijeka este cea mai importantă unitate de procesare a petrolului din Croația, având acces maritim direct pentru export.",
+      en: "The Urinj refinery near Rijeka is Croatia's primary oil processing facility, featuring direct maritime access for international export operations.",
+    },
+    factsAdvanced: {
+      de: ["Verarbeitet bis zu 4,5 Mio. Tonnen Öl", "Tiefseehafen für Öltanker", "Gegründet im Jahr 1965", "Produziert Euro-V Standard Kraftstoffe"],
+      hu: ["Évi 4,5 millió tonna nyersolaj-kapacitás", "Mélyvízi kikötő tankerek számára", "1965-ben kezdte meg működését", "Euro-V szabványú üzemanyagokat gyárt"],
+      ro: ["Procesează 4,5 milioane tone de petrol", "Port de mare adâncime pentru tancuri", "Fondată în anul 1965", "Produce combustibili la standard Euro-V"],
+      en: ["Processes up to 4.5 million tons of oil", "Deep-water port for large oil tankers", "Established in the year 1965", "Produces Euro-V standard fuels"],
+    },
   },
   {
     id: "croatia-plomin-power-plant-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Plomin", hu: "Plomini erőmű", ro: "Termocentrala Plomin", en: "Plomin Power Plant" },
+    name: { de: "Kraftwerk Plomin", hu: "Plomini erőmű", ro: "Termocentrala Plomin", en: "Plomin Power Plant",
+image: "/poi-images/croatia-plomin-power-plant-economic-v2.webp"
+},
     coordinates: { lat: 45.135, lng: 14.162 },
     description: {
       de: "Plomin ist das einzige kohlebefeuerte Wärmekraftwerk in Kroatien. Sein Schornstein ist mit 340 Metern das höchste Bauwerk des Landes.",
@@ -235,11 +416,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cea mai înaltă structură", "Centrală pe cărbune", "Situată în Istria", "Două blocuri energetice"],
       en: ["Tallest structure in Croatia", "Coal-fired power plant", "Located in Istria", "Two power units"],
     },
-    imageHint: "The tall chimney of Plomin power plant", image: "/poi-images/croatia-plomin-power-plant-economic-v2.webp"},
-  {
+imageHint: "The tall chimney of Plomin power plant",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Plomin in Istrien ist Kroatiens einziges Kohlekraftwerk und besitzt den höchsten Schornstein des Landes, ein markantes industrielles Wahrzeichen.",
+      hu: "Az isztriai Plomin hőerőmű Horvátország egyetlen széntüzelésű erőműve, amelynek kéménye az ország legmagasabb építménye és ipari jelképe.",
+      ro: "Centrala termoelectrică Plomin din Istria este singura pe cărbune din Croația și deține cel mai înalt coș de fum din țară, un reper industrial.",
+      en: "The Plomin Power Plant in Istria is Croatia's only coal-fired power station, featuring the country's tallest chimney as a prominent industrial landmark.",
+    },
+    factsAdvanced: {
+      de: ["Schornsteinhöhe beträgt 340 Meter", "Besteht aus zwei Blöcken (I und II)", "Deckt 7% des Strombedarfs", "Liegt in einer tiefen Bucht"],
+      hu: ["Kéményének magassága 340 méter", "Két blokkból áll (Plomin I és II)", "Az országos áramigény 7%-át fedezi", "Egy mély tengeröböl partján fekszik"],
+      ro: ["Coș de fum cu înălțimea de 340 metri", "Formată din două blocuri (I și II)", "Asigură circa 7% din consumul de curent", "Situată într-un golf marin adânc"],
+      en: ["The chimney stands 340 meters tall", "Consists of two blocks (Plomin I and II)", "Supplies 7% of national electricity", "Located at the end of a deep sea bay"],
+    },
+    image: "/poi-images/croatia-plomin-power-plant-economic-v2.webp",
+},  {
     id: "croatia-zakucac-hydroelectric-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Zakučac", hu: "Zakučac vízerőmű", ro: "Hidrocentrala Zakučac", en: "Zakučac Hydroelectric Plant" },
+    name: { de: "Wasserkraftwerk Zakučac", hu: "Zakučac vízerőmű", ro: "Hidrocentrala Zakučac", en: "Zakučac Hydroelectric Plant",
+image: "/poi-images/croatia-zakucac-hydroelectric-economic-v2.webp"
+},
     coordinates: { lat: 43.45, lng: 16.687 },
     description: {
       de: "Zakučac ist das größte Wasserkraftwerk in Kroatien und nutzt das Wasser des Flusses Cetina. Es liefert einen erheblichen Teil der elektrischen Energie des Landes.",
@@ -253,11 +449,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cea mai mare hidrocentrală", "Utilizează râul Cetina", "Situată lângă Omiš", "Peste 500 MW putere"],
       en: ["Largest hydro plant", "Uses the Cetina River", "Located near Omiš", "Over 500 MW capacity"],
     },
-    imageHint: "Large hydroelectric turbines at Zakučac", image: "/poi-images/croatia-zakucac-hydroelectric-economic-v2.webp"},
-  {
+imageHint: "Large hydroelectric turbines at Zakučac",
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Zakučac an der Mündung des Flusses Cetina ist das größte Kraftwerk Kroatiens und ein Schlüsselobjekt der nationalen Stromversorgung.",
+      hu: "A Cetina folyó torkolatánál fekvő Zakučac vízerőmű Horvátország legnagyobb teljesítményű erőműve, az országos áramellátás kulcsfontosságú eleme.",
+      ro: "Hidrocentrala Zakučac de la gura de vărsare a râului Cetina este cea mai mare centrală din Croația și un obiectiv cheie pentru rețeaua națională.",
+      en: "The Zakučac hydroelectric plant at the mouth of the Cetina River is Croatia's largest power facility and a key asset for national energy security.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung von 486 MW", "Nutzt das Wasser des Flusses Cetina", "In Betrieb genommen im Jahr 1961", "Größter Stromproduzent des Landes"],
+      hu: ["486 MW beépített teljesítmény", "A Cetina folyó vízerejét hasznosítja", "1961-ben helyezték üzembe", "Az ország legnagyobb áramtermelője"],
+      ro: ["Putere instalată de 486 MW", "Utilizează apele râului Cetina", "Pusă în funcțiune în anul 1961", "Cel mai mare producător de curent din țară"],
+      en: ["Installed capacity of 486 MW", "Utilizes the flow of the Cetina River", "Commissioned in the year 1961", "Largest single electricity producer"],
+    },
+    image: "/poi-images/croatia-zakucac-hydroelectric-economic-v2.webp",
+},  {
     id: "croatia-senj-hydroelectric-economic-v2",
     type: "industry",
-    name: { de: "Wasserkraftwerk Senj", hu: "Zenggi vízerőmű", ro: "Hidrocentrala Senj", en: "Senj Hydroelectric Plant" },
+    name: { de: "Wasserkraftwerk Senj", hu: "Zenggi vízerőmű", ro: "Hidrocentrala Senj", en: "Senj Hydroelectric Plant",
+image: "/poi-images/croatia-senj-hydroelectric-economic-v2.webp"
+},
     coordinates: { lat: 44.93, lng: 14.931 },
     description: {
       de: "Dieses Kraftwerk nutzt die Gewässer der Flüsse Lika und Gacka. Es ist ein komplexes System von Tunneln und Kanälen, das Wasser zum Meer leitet.",
@@ -271,11 +482,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Utilizează Lika și Gacka", "Apa curge spre mare", "Fondată în 1965", "Cădere mare de apă"],
       en: ["Uses Lika and Gacka rivers", "Water flows to the sea", "Founded in 1965", "High water head"],
     },
-    imageHint: "Hydroelectric power plant facility near the coast", image: "/poi-images/croatia-senj-hydroelectric-economic-v2.webp"},
-  {
+imageHint: "Hydroelectric power plant facility near the coast",
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Senj nutzt die enormen Höhenunterschiede der Lika-Flüsse zum Meer und ist ein ingenieurtechnisches Meisterwerk im Karstgebirge.",
+      hu: "A zenggi (Senj) vízerőmű a likai folyók és a tenger közötti nagy szintkülönbséget használja ki, a karsztvidék mérnöki mesterműveként működik.",
+      ro: "Hidrocentrala Senj utilizează diferența de nivel dintre râurile din Lika și mare, fiind o capodoperă inginerească în relieful carstic.",
+      en: "The Senj hydroelectric plant exploits the significant elevation drop from the Lika plateau to the sea, representing an engineering feat in karst terrain.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe von 412 Metern", "Nutzt Wasser der Flüsse Lika und Gacka", "Gegründet im Jahr 1965", "Produziert jährlich ca. 1,1 TWh"],
+      hu: ["412 méteres esési magasság", "A Lika és Gacka folyók vizét használja", "1965-ben adták át", "Évi kb. 1,1 TWh áramot termel"],
+      ro: ["Înălțime de cădere de 412 metri", "Folosește râurile Lika și Gacka", "Inaugurată în anul 1965", "Produce anual circa 1,1 TWh"],
+      en: ["Features a drop height of 412 meters", "Uses waters from Lika and Gacka rivers", "Opened in the year 1965", "Annual production of approx. 1.1 TWh"],
+    },
+    image: "/poi-images/croatia-senj-hydroelectric-economic-v2.webp",
+},  {
     id: "croatia-vrbnik-vineyards-economic-v2",
     type: "industry",
-    name: { de: "Vrbnik Weinbaugebiet", hu: "Vrbniki borvidék", ro: "Vindeyard-ul Vrbnik", en: "Vrbnik Vineyards" },
+    name: { de: "Vrbnik Weinbaugebiet", hu: "Vrbniki borvidék", ro: "Vindeyard-ul Vrbnik", en: "Vrbnik Vineyards",
+image: "/poi-images/croatia-vrbnik-vineyards-economic-v2.webp"
+},
     coordinates: { lat: 45.077, lng: 14.672 },
     description: {
       de: "Das Vrbnik-Feld auf der Insel Krk ist das Zentrum für die Produktion der Žlahtina-Traube. Es ist eine der wichtigsten landwirtschaftlichen Zonen der Insel.",
@@ -289,11 +515,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Casa strugurilor Žlahtina", "Pe insula Krk", "Vinificație tradițională", "Vin alb exportat"],
       en: ["Home of Žlahtina grape", "On Krk island", "Traditional winemaking", "Exported white wine"],
     },
-    imageHint: "Vineyards in the Vrbnik field on Krk island", image: "/poi-images/croatia-vrbnik-vineyards-economic-v2.webp"},
-  {
+imageHint: "Vineyards in the Vrbnik field on Krk island",
+    descriptionAdvanced: {
+      de: "Die Weinberge von Vrbnik auf der Insel Krk sind die exklusive Heimat der Žlahtina-Traube, die auf dem fruchtbaren Feld oberhalb des Meeres gedeiht.",
+      hu: "A Krk-szigeti vrbniki szőlőültetvények a Žlahtina szőlőfajta kizárólagos otthona, amely a tenger feletti termékeny völgyben terem.",
+      ro: "Podgoriile din Vrbnik, pe insula Krk, sunt casa exclusivă a soiului de struguri Žlahtina, care prosperă în câmpia fertilă de deasupra mării.",
+      en: "The vineyards of Vrbnik on Krk Island are the exclusive home of the Žlahtina grape variety, flourishing in the fertile field above the Adriatic coast.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisierung auf Vrbnička Žlahtina", "Anbaufläche von ca. 210 Hektar", "Weinbau seit der Antike", "Produktion von Sekt im Meer"],
+      hu: ["A Vrbnička Žlahtina fajtára épül", "Körülbelül 210 hektárnyi terület", "Az ókor óta folyik itt bortermelés", "Tenger alatti pezsgőérlelés"],
+      ro: ["Specializare pe Vrbnička Žlahtina", "Suprafață de circa 210 hectare", "Viticultură practicată din antichitate", "Producție de spumant maturat în mare"],
+      en: ["Specialized in Vrbnička Žlahtina", "Cultivation area of approx. 210 hectares", "Winemaking since ancient times", "Produces sea-matured sparkling wine"],
+    },
+    image: "/poi-images/croatia-vrbnik-vineyards-economic-v2.webp",
+},  {
     id: "croatia-dingac-vineyards-economic-v2",
     type: "industry",
-    name: { de: "Dingač Weinberge", hu: "Dingač borvidék", ro: "Podgoriile Dingač", en: "Dingač Vineyards" },
+    name: { de: "Dingač Weinberge", hu: "Dingač borvidék", ro: "Podgoriile Dingač", en: "Dingač Vineyards",
+image: "/poi-images/croatia-dingac-vineyards-economic-v2.webp"
+},
     coordinates: { lat: 42.924, lng: 17.375 },
     description: {
       de: "Dingač auf der Halbinsel Pelješac ist das berühmteste Weinbaugebiet für Plavac Mali. Die steilen Hänge bieten ideale Bedingungen für erstklassigen Rotwein.",
@@ -307,11 +548,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Primul vin protejat", "Pante sudice abrupte", "Soiul Plavac Mali", "Conținut ridicat de alcool"],
       en: ["First protected wine", "Steep southern slopes", "Plavac Mali variety", "High alcohol content"],
     },
-    imageHint: "Steep vineyards overlooking the sea in Dingač", image: "/poi-images/croatia-dingac-vineyards-economic-v2.webp"},
-  {
+imageHint: "Steep vineyards overlooking the sea in Dingač",
+    descriptionAdvanced: {
+      de: "Dingač auf der Halbinsel Pelješac ist Kroatiens berühmteste Weinlage, bekannt für extrem steile Hänge und erstklassigen Plavac Mali Rotwein.",
+      hu: "A Pelješac-félszigeten található Dingač Horvátország leghíresebb borvidéke, amely meredek lejtőiről és kiváló Plavac Mali vörösboráról ismert.",
+      ro: "Dingač, pe peninsula Pelješac, este cea mai faimoasă podgorie din Croația, renumită pentru pantele abrupte și vinul roșu Plavac Mali de elită.",
+      en: "Dingač on the Pelješac Peninsula is Croatia's most prestigious vineyard site, famous for its steep slopes and world-class Plavac Mali red wine.",
+    },
+    factsAdvanced: {
+      de: ["Erste geschützte Weinregion (1961)", "Hänge mit bis zu 45 Grad Neigung", "Dreifache Reflexion der Sonne", "Tunnelbau für leichteren Zugang 1973"],
+      hu: ["Első védett borvidék (1961)", "Akár 45 fokos dőlésszögű lejtők", "Háromszoros napsugár-visszaverődés", "Alagút épült a dűlőhöz 1973-ban"],
+      ro: ["Prima regiune protejată (1961)", "Pante cu înclinație de până la 45 grade", "Triple reflexie a razelor solare", "Tunel construit în 1973 pentru acces"],
+      en: ["First protected wine region (1961)", "Slopes reach up to 45-degree angles", "Triple reflection of solar rays", "Tunnel built in 1973 for easier access"],
+    },
+    image: "/poi-images/croatia-dingac-vineyards-economic-v2.webp",
+},  {
     id: "croatia-neretva-tangerine-orchards-economic-v2",
     type: "industry",
-    name: { de: "Neretva Mandarinenplantagen", hu: "Neretvai mandarinligetek", ro: "Livezile de mandarine Neretva", en: "Neretva Tangerine Orchards" },
+    name: { de: "Neretva Mandarinenplantagen", hu: "Neretvai mandarinligetek", ro: "Livezile de mandarine Neretva", en: "Neretva Tangerine Orchards",
+image: "/poi-images/croatia-neretva-tangerine-orchards-economic-v2.webp"
+},
     coordinates: { lat: 43.016, lng: 17.561 },
     description: {
       de: "Das Neretva-Delta ist der 'Obstgarten Kroatiens'. Hier werden jährlich Millionen von Mandarinen geerntet, was die Region wirtschaftlich prägt.",
@@ -325,11 +581,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Milioane de pomi", "Recoltă de toamnă", "Export în Europa", "Sol foarte fertil"],
       en: ["Millions of fruit trees", "Autumn harvest", "Exports to Europe", "Very fertile soil"],
     },
-    imageHint: "Tangerine trees laden with orange fruit", image: "/poi-images/croatia-neretva-tangerine-orchards-economic-v2.webp"},
-  {
+imageHint: "Tangerine trees laden with orange fruit",
+    descriptionAdvanced: {
+      de: "Das Neretva-Delta ist als „kroatisches Kalifornien“ bekannt und beherbergt Millionen von Mandarinenbäumen, die den nationalen Markt dominieren.",
+      hu: "A Neretva-delta „horvát Kalifornia” néven ismert, ahol mandarin fák milliói teremnek, meghatározva a régió és az ország gyümölcspiacát.",
+      ro: "Delta Neretvei este cunoscută drept „California croată”, adăpostind milioane de mandarini care domină piața națională de fructe.",
+      en: "The Neretva Delta is known as the \"Croatian California,\" hosting millions of tangerine trees that dominate the national fruit market.",
+    },
+    factsAdvanced: {
+      de: ["Über 1,4 Millionen Obstbäume", "Ernte von bis zu 60.000 Tonnen", "Melioration des Sumpflandes ab 1960", "Hauptexportgut der Region"],
+      hu: ["Több mint 1,4 millió gyümölcsfa", "Akár 60 000 tonnás éves termés", "A mocsárvidék lecsapolása 1960-tól", "A régió legfontosabb exportcikke"],
+      ro: ["Peste 1,4 milioane de pomi fructiferi", "Recoltă de până la 60.000 de tone", "Desecarea mlaștinilor începută în 1960", "Principalul produs de export al zonei"],
+      en: ["Over 1.4 million fruit trees planted", "Harvest reaches up to 60,000 tons", "Swamp reclamation started in the 1960s", "Region's primary export commodity"],
+    },
+    image: "/poi-images/croatia-neretva-tangerine-orchards-economic-v2.webp",
+},  {
     id: "croatia-belje-agro-complex-economic-v2",
     type: "industry",
-    name: { de: "Agrarkomplex Belje", hu: "Belje agrárkomplexum", ro: "Complexul agroindustrial Belje", en: "Belje Agro-Industrial Complex" },
+    name: { de: "Agrarkomplex Belje", hu: "Belje agrárkomplexum", ro: "Complexul agroindustrial Belje", en: "Belje Agro-Industrial Complex",
+image: "/poi-images/croatia-belje-agro-complex-economic-v2.webp"
+},
     coordinates: { lat: 45.772, lng: 18.73 },
     description: {
       de: "Belje ist einer der größten Agrarkonzerne in der Baranja. Er umfasst Ackerbau, Viehzucht und eine berühmte Weinkellerei mit langer Geschichte.",
@@ -343,11 +614,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fondat în 1697", "Situat în Baranja", "Cramă uriașă", "Parte a grupului Fortenova"],
       en: ["Founded in 1697", "Located in Baranja", "Huge wine cellar", "Part of Fortenova Group"],
     },
-    imageHint: "Large vineyard and modern farm of Belje", image: "/poi-images/croatia-belje-agro-complex-economic-v2.webp"},
-  {
+imageHint: "Large vineyard and modern farm of Belje",
+    descriptionAdvanced: {
+      de: "Belje in der Baranja ist einer der größten Agrarkonzerne Europas und vereint moderne Landwirtschaft mit einer über 300-jährigen Weinbautradition.",
+      hu: "A baranyai Belje Európa egyik legnagyobb agrár-ipari komplexuma, amely a modern mezőgazdaságot ötvözi a 300 éves borászati hagyományokkal.",
+      ro: "Belje din Baranja este unul dintre cele mai mari complexe agroindustriale din Europa, îmbinând agricultura modernă cu tradiția viticolă de 300 de ani.",
+      en: "Belje in Baranja is one of Europe's largest agro-industrial complexes, combining modern farming with a winemaking tradition spanning over 300 years.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1697", "Bewirtschaftet 20.000 Hektar Land", "Besitzt den größten Weinkeller Kroatiens", "Teil der Fortenova-Gruppe"],
+      hu: ["1697-ben alapították", "20 000 hektáron gazdálkodik", "Itt található az ország legnagyobb pincéje", "A Fortenova csoport tagja"],
+      ro: ["Fondat în anul 1697", "Administrează 20.000 hectare de teren", "Deține cea mai mare cramă din țară", "Parte a grupului Fortenova"],
+      en: ["Founded in the year 1697", "Cultivates 20,000 hectares of land", "Home to Croatia's largest wine cellar", "Part of the Fortenova Group"],
+    },
+    image: "/poi-images/croatia-belje-agro-complex-economic-v2.webp",
+},  {
     id: "croatia-rasa-mining-town-economic-v2",
     type: "town",
-    name: { de: "Raša Bergbaustadt", hu: "Raša bányászváros", ro: "Orașul minier Raša", en: "Raša Mining Town" },
+    name: { de: "Raša Bergbaustadt", hu: "Raša bányászváros", ro: "Orașul minier Raša", en: "Raša Mining Town",
+image: "/poi-images/croatia-rasa-mining-town-economic-v2.webp"
+},
     coordinates: { lat: 45.08, lng: 14.048 },
     description: {
       de: "Raša wurde in den 1930er Jahren als Planstadt für den Kohlebergbau erbaut. Heute ist sie ein bedeutendes Denkmal der industriellen Architektur.",
@@ -361,11 +647,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fost centru carbonifer", "Construit în 547 de zile", "Design modernist", "Situat în Istria"],
       en: ["Former coal center", "Built in 547 days", "Modernist design", "Located in Istria"],
     },
-    imageHint: "Modernist church and square of Raša town", image: "/poi-images/croatia-rasa-mining-town-economic-v2.webp"},
-  {
+imageHint: "Modernist church and square of Raša town",
+    descriptionAdvanced: {
+      de: "Raša wurde in den 1930er Jahren als idealisierte Bergbaustadt erbaut und zeugt heute von der einst blühenden Kohleindustrie in Istrien.",
+      hu: "Raša az 1930-as években épült idealizált bányászvárosként, amely ma az egykor virágzó isztriai szénbányászat emlékét őrzi.",
+      ro: "Raša a fost construit în anii 1930 ca un oraș minier idealizat, fiind astăzi o mărturie a industriei cărbunelui din Istria, odinioară prosperă.",
+      en: "Raša was built in the 1930s as an idealized mining town and stands today as a testament to the once-thriving coal industry in Istria.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in nur 547 Tagen", "Modernistische Architektur von Pulitzer", "Kohleabbau endete im Jahr 1999", "Jüngste Stadt in Istrien"],
+      hu: ["Mindössze 547 nap alatt épült fel", "Modernista stílusú építészet", "A szénbányászat 1999-ben szűnt meg", "Isztria legfiatalabb városa"],
+      ro: ["Construit în doar 547 de zile", "Arhitectură modernistă de Pulitzer", "Exploatarea s-a încheiat în 1999", "Cel mai tânăr oraș din Istria"],
+      en: ["Constructed in just 547 days", "Modernist architecture by G. Pulitzer", "Coal mining ceased in the year 1999", "The youngest town in Istria"],
+    },
+    image: "/poi-images/croatia-rasa-mining-town-economic-v2.webp",
+},  {
     id: "croatia-djuro-djakovic-factory-economic-v2",
     type: "factory",
-    name: { de: "Đuro Đaković Gruppe", hu: "Đuro Đaković Csoport", ro: "Grupul Đuro Đaković", en: "Đuro Đaković Group" },
+    name: { de: "Đuro Đaković Gruppe", hu: "Đuro Đaković Csoport", ro: "Grupul Đuro Đaković", en: "Đuro Đaković Group",
+image: "/poi-images/croatia-djuro-djakovic-factory-economic-v2.webp"
+},
     coordinates: { lat: 45.163, lng: 18.001 },
     description: {
       de: "Dieses Unternehmen in Slavonski Brod ist auf den Bau von Schienenfahrzeugen, Panzern und Industrieanlagen spezialisiert. Es ist ein Pfeiler der kroatischen Schwerindustrie.",
@@ -380,11 +681,25 @@ export const croatiaEconomicV2: POI[] = [
       en: ["Locomotive manufacturing", "Tank production", "Based in Slavonski Brod", "Founded in 1921"],
     },
     imageHint: "Heavy machinery factory of Đuro Đaković",
+    descriptionAdvanced: {
+      de: "Die Đuro Đaković Gruppe in Slavonski Brod ist ein Gigant der Metallindustrie, spezialisiert auf die Produktion von Lokomotiven, Panzern und Güterwaggons.",
+      hu: "A bródi Đuro Đaković csoport a fémipar óriása, amely mozdonyok, harckocsik és teherkocsik gyártására szakosodott évtizedek óta.",
+      ro: "Grupul Đuro Đaković din Slavonski Brod este un gigant al industriei metalurgice, specializat în locomotive, tancuri și vagoane de marfă.",
+      en: "The Đuro Đaković Group in Slavonski Brod is a heavy industry giant, specializing in the production of locomotives, tanks, and freight wagons.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1921", "Produzent des Panzers M-84", "Wichtigster Industriekomplex Slawoniens", "Exportiert Waggons in die gesamte EU"],
+      hu: ["1921-ben alapították", "Az M-84-es harckocsi gyártója", "Szlavónia legfontosabb ipari üzeme", "Vagonokat exportál az egész EU-ba"],
+      ro: ["Fondat în anul 1921", "Producător al tancului M-84", "Cel mai important complex din Slavonia", "Exportă vagoane în toată Uniunea Europeană"],
+      en: ["Founded in the year 1921", "Manufacturer of the M-84 battle tank", "Slavonia's most important industrial site", "Exports wagons across the European Union"],
+    },
   },
   {
     id: "croatia-borovo-vukovar-economic-v2",
     type: "factory",
-    name: { de: "Borovo Schuhfabrik", hu: "Borovo cipőgyár", ro: "Fabrica Borovo", en: "Borovo Footwear Factory" },
+    name: { de: "Borovo Schuhfabrik", hu: "Borovo cipőgyár", ro: "Fabrica Borovo", en: "Borovo Footwear Factory",
+image: "/poi-images/croatia-borovo-vukovar-economic-v2.webp"
+},
     coordinates: { lat: 45.378, lng: 18.955 },
     description: {
       de: "Borovo in Vukovar ist der bekannteste Schuhhersteller Kroatiens. Das Unternehmen wurde 1931 von Tomáš Baťa gegründet und ist ein Symbol für die Stadt.",
@@ -399,11 +714,25 @@ export const croatiaEconomicV2: POI[] = [
       en: ["Founded by Baťa", "Famous Borosana shoes", "Based in Vukovar", "In operation since 1931"],
     },
     imageHint: "Borovo factory logo and industrial building",
+    descriptionAdvanced: {
+      de: "Borovo in Vukovar ist der bekannteste Schuhhersteller Kroatiens und ein Symbol für Widerstandsfähigkeit und industrielle Tradition in Ostslawonien.",
+      hu: "A vukovári Borovo Horvátország legismertebb cipőgyára, amely a kelet-szlavóniai ipari hagyományok és az újrakezdés szimbóluma.",
+      ro: "Borovo din Vukovar este cel mai cunoscut producător de încălțăminte din Croația, un simbol al rezilienței și tradiției industriale din Slavonia.",
+      en: "Borovo in Vukovar is Croatia's most famous footwear manufacturer, serving as a symbol of industrial tradition and resilience in East Slavonia.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1931 von Tomáš Baťa", "Hersteller der Startas-Sneaker", "Wichtigster Arbeitgeber in Vukovar", "Besitzt ein eigenes Filialnetz"],
+      hu: ["1931-ben alapította Tomáš Baťa", "A Startas tornacipők gyártója", "Vukovár legjelentősebb munkaadója", "Saját országos üzlethálózattal bír"],
+      ro: ["Fondată în 1931 de Tomáš Baťa", "Producător al tenișilor Startas", "Cel mai mare angajator din Vukovar", "Deține o rețea proprie de magazine"],
+      en: ["Founded in 1931 by Tomáš Baťa", "Manufacturer of Startas sneakers", "Most significant employer in Vukovar", "Operates its own retail store network"],
+    },
   },
   {
     id: "croatia-kras-chocolate-factory-economic-v2",
     type: "factory",
-    name: { de: "Kraš Süßwarenfabrik", hu: "Kraš édességgyár", ro: "Fabrica de dulciuri Kraš", en: "Kraš Confectionery Factory" },
+    name: { de: "Kraš Süßwarenfabrik", hu: "Kraš édességgyár", ro: "Fabrica de dulciuri Kraš", en: "Kraš Confectionery Factory",
+image: "/poi-images/croatia-kras-chocolate-factory-economic-v2.webp"
+},
     coordinates: { lat: 45.824, lng: 16.035 },
     description: {
       de: "Kraš ist der führende Hersteller von Schokolade und Keksen in Kroatien. Das Unternehmen hat seinen Sitz in Zagreb und blickt auf eine über 100-jährige Geschichte zurück.",
@@ -418,11 +747,25 @@ export const croatiaEconomicV2: POI[] = [
       en: ["Famous for Bajadera", "Founded in 1911", "Largest in SE Europe", "Based in Zagreb"],
     },
     imageHint: "Modern chocolate production line at Kraš",
+    descriptionAdvanced: {
+      de: "Kraš in Zagreb ist der führende Süßwarenhersteller Südosteuropas, berühmt für die Praline Bajadera und eine Geschichte, die bis 1911 zurückreicht.",
+      hu: "A zágrábi Kraš Délkelet-Európa vezető édességgyártója, amely a Bajadera pralinéról és 1911-ig visszanyúló történelméről híres.",
+      ro: "Kraš din Zagreb este principalul producător de dulciuri din regiune, faimos pentru pralinele Bajadera și o istorie ce începe în 1911.",
+      en: "Kraš in Zagreb is South-East Europe's leading confectionery manufacturer, famous for its Bajadera pralines and a history dating back to 1911.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Union im Jahr 1911", "Bajadera ist ein geschütztes Produkt", "Exportiert in alle Kontinente", "Betreibt das Choco & Café Konzept"],
+      hu: ["Union néven alapították 1911-ben", "A Bajadera védett eredetű termék", "Minden kontinensre exportál édességet", "Choco & Café üzlethálózatot üzemeltet"],
+      ro: ["Fondată ca Union în anul 1911", "Bajadera este produs cu origine protejată", "Exportă dulciuri pe toate continentele", "Operează conceptul Choco & Café"],
+      en: ["Founded as Union in 1911", "Bajadera is a protected brand product", "Exports products to every continent", "Operates the Choco & Café retail concept"],
+    },
   },
   {
     id: "croatia-tdr-kanfanar-economic-v2",
     type: "factory",
-    name: { de: "TDR Kanfanar Fabrik", hu: "TDR Kanfanar gyár", ro: "Fabrica TDR Kanfanar", en: "TDR Kanfanar Factory" },
+    name: { de: "TDR Kanfanar Fabrik", hu: "TDR Kanfanar gyár", ro: "Fabrica TDR Kanfanar", en: "TDR Kanfanar Factory",
+image: "/poi-images/croatia-tdr-kanfanar-economic-v2.webp"
+},
     coordinates: { lat: 45.12, lng: 13.834 },
     description: {
       de: "Die Tabakfabrik in Kanfanar ist eine der modernsten Anlagen ihrer Art in Europa. Sie wurde von Rovinj hierher verlegt und ist Teil von British American Tobacco.",
@@ -436,11 +779,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cea mai modernă fabrică", "Parte a grupului BAT", "Situată în Istria", "Exportator major"],
       en: ["Most modern tobacco plant", "Part of BAT Group", "Located in Istria", "Major exporter"],
     },
-    imageHint: "Modern industrial building of TDR in Kanfanar", image: "/poi-images/croatia-tdr-kanfanar-economic-v2.webp"},
-  {
+imageHint: "Modern industrial building of TDR in Kanfanar",
+    descriptionAdvanced: {
+      de: "Die TDR-Fabrik in Kanfanar ist eine der modernsten Tabakverarbeitungsanlagen Europas und führt die lange Tradition der Tabakindustrie aus Rovinj fort.",
+      hu: "A kanfanari TDR gyár Európa egyik legmodernebb dohányfeldolgozó üzeme, amely a rovinji dohányipar évszázados hagyományait viszi tovább.",
+      ro: "Fabrica TDR din Kanfanar este una dintre cele mai moderne unități de procesare a tutunului din Europa, continuând tradiția din Rovinj.",
+      en: "The TDR factory in Kanfanar is one of Europe's most modern tobacco processing facilities, continuing the long industrial tradition started in Rovinj.",
+    },
+    factsAdvanced: {
+      de: ["Umzug von Rovinj nach Kanfanar 2006", "Teil von British American Tobacco", "Produktionskapazität von 20 Mrd. Stück", "Wichtigster Exporteur Istriens"],
+      hu: ["2006-ban költözött át Rovinjból", "A British American Tobacco része", "Évi 20 milliárd darabos kapacitás", "Isztria egyik legnagyobb exportőre"],
+      ro: ["Mutată din Rovinj în Kanfanar în 2006", "Parte a British American Tobacco", "Capacitate de 20 miliarde de unități", "Cel mai mare exportator din Istria"],
+      en: ["Moved from Rovinj to Kanfanar in 2006", "Part of British American Tobacco", "Capacity of 20 billion units per year", "One of Istria's leading exporters"],
+    },
+    image: "/poi-images/croatia-tdr-kanfanar-economic-v2.webp",
+},  {
     id: "croatia-hs-produkt-factory-economic-v2",
     type: "factory",
-    name: { de: "HS Produkt Fabrik", hu: "HS Produkt gyár", ro: "Fabrica HS Produkt", en: "HS Produkt Factory" },
+    name: { de: "HS Produkt Fabrik", hu: "HS Produkt gyár", ro: "Fabrica HS Produkt", en: "HS Produkt Factory",
+image: "/poi-images/croatia-hs-produkt-factory-economic-v2.webp"
+},
     coordinates: { lat: 45.494, lng: 15.548 },
     description: {
       de: "HS Produkt in Karlovac ist ein weltweit erfolgreicher Hersteller von Handfeuerwaffen. Ihre Pistolen werden in großen Mengen in die USA exportiert.",
@@ -454,11 +812,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Producătorul puștii VHS", "Exportator major în SUA", "Sediul în Karlovac", "Peste 1000 de angajați"],
       en: ["Maker of the VHS rifle", "Major US exporter", "Based in Karlovac", "Over 1000 employees"],
     },
-    imageHint: "Modern manufacturing facility of HS Produkt", image: "/poi-images/croatia-hs-produkt-factory-economic-v2.webp"},
-  {
+imageHint: "Modern manufacturing facility of HS Produkt",
+    descriptionAdvanced: {
+      de: "HS Produkt in Karlovac ist ein weltweit führender Hersteller von Feuerwaffen, bekannt für die HS2000-Pistole, die unter dem Namen Springfield Armory in den USA boomt.",
+      hu: "A károlyvárosi HS Produkt a világ egyik vezető lőfegyvergyártója, az USA-ban Springfield Armory néven forgalmazott HS2000 pisztolyok hazája.",
+      ro: "HS Produkt din Karlovac este un lider mondial în fabricarea armelor de foc, renumit pentru pistolul HS2000, popular în SUA sub marca Springfield.",
+      en: "HS Produkt in Karlovac is a world-leading firearms manufacturer, famous for the HS2000 pistol, marketed in the US as Springfield Armory.",
+    },
+    factsAdvanced: {
+      de: ["Produziert über 500.000 Waffen jährlich", "Entwickler des VHS-Sturmgewehrs", "Gewinner zahlreicher US-Preise", "Besitzt eine der modernsten Fabriken"],
+      hu: ["Évente több mint 500 000 fegyvert gyárt", "A VHS gépkarabély fejlesztője", "Számos amerikai szakmai díj nyertese", "A világ egyik legmodernebb fegyvergyára"],
+      ro: ["Produce peste 500.000 de arme anual", "Dezvoltatorul puștii de asalt VHS", "Câștigător a numeroase premii în SUA", "Deține una dintre cele mai moderne fabrici"],
+      en: ["Produces over 500,000 units annually", "Developer of the VHS assault rifle", "Winner of multiple US industry awards", "Operates a highly automated factory"],
+    },
+    image: "/poi-images/croatia-hs-produkt-factory-economic-v2.webp",
+},  {
     id: "croatia-kandit-osijek-economic-v2",
     type: "factory",
-    name: { de: "Kandit Süßwaren", hu: "Kandit édességgyár", ro: "Fabrica Kandit", en: "Kandit Confectionery" },
+    name: { de: "Kandit Süßwaren", hu: "Kandit édességgyár", ro: "Fabrica Kandit", en: "Kandit Confectionery",
+image: "/poi-images/croatia-kandit-osijek-economic-v2.webp"
+},
     coordinates: { lat: 45.544, lng: 18.667 },
     description: {
       de: "Kandit ist ein traditionsreiches Süßwarenunternehmen in Osijek. Es ist bekannt für seine Schokoladenprodukte und wurde kürzlich in eine neue, moderne Fabrik verlegt.",
@@ -472,11 +845,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Sediul în Osijek", "Fabrică nouă din 2014", "Fondată în 1920", "Al doilea producător de cioco"],
       en: ["Based in Osijek", "New factory since 2014", "Founded in 1920", "Second largest chocolate maker"],
     },
-    imageHint: "New Kandit factory building in Osijek", image: "/poi-images/croatia-kandit-osijek-economic-v2.webp"},
-  {
+imageHint: "New Kandit factory building in Osijek",
+    descriptionAdvanced: {
+      de: "Kandit in Osijek ist ein traditionsreicher Süßwarenhersteller, der seit über einem Jahrhundert für seine Schokoladen und Bonbons in Slawonien bekannt ist.",
+      hu: "Az eszéki Kandit patinás édességgyártó vállalat, amely több mint egy évszázada látja el Szlavóniát és a régiót csokoládéval és cukorkával.",
+      ro: "Kandit din Osijek este un producător de dulciuri cu tradiție, renumit de peste un secol pentru ciocolata și bomboanele produse în Slavonia.",
+      en: "Kandit in Osijek is a confectionery producer with a rich heritage, known for over a century for its chocolates and candies made in Slavonia.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1920", "Neue Fabrik im Jahr 2014 eröffnet", "Marktführer bei Kochend-Bonbons", "Exportiert in 20 Länder weltweit"],
+      hu: ["1920-ban alapították", "2014-ben nyílt meg az új gyára", "Piacvezető a töltött cukorkák terén", "A világ 20 országába exportál"],
+      ro: ["Fondată în anul 1920", "Fabrică nouă inaugurată în 2014", "Lider de piață la bomboane fierte", "Exportă în peste 20 de țări din lume"],
+      en: ["Established in the year 1920", "Opened a new factory in 2014", "Market leader in hard-boiled candies", "Exports products to 20 countries"],
+    },
+    image: "/poi-images/croatia-kandit-osijek-economic-v2.webp",
+},  {
     id: "croatia-mirna-rovinj-economic-v2",
     type: "factory",
-    name: { de: "Mirna Fischkonserven", hu: "Mirna halkonzervgyár", ro: "Fabrica Mirna", en: "Mirna Fish Processing" },
+    name: { de: "Mirna Fischkonserven", hu: "Mirna halkonzervgyár", ro: "Fabrica Mirna", en: "Mirna Fish Processing",
+image: "/poi-images/croatia-mirna-rovinj-economic-v2.webp"
+},
     coordinates: { lat: 45.088, lng: 13.639 },
     description: {
       de: "Mirna in Rovinj ist eine der ältesten Fischkonservenfabriken an der Adria. Sie verarbeitet hauptsächlich Sardinen und Makrelen aus lokalem Fang.",
@@ -491,11 +879,25 @@ export const croatiaEconomicV2: POI[] = [
       en: ["Founded in 1877", "Based in Rovinj", "Traditional fish cans", "Part of Podravka Group"],
     },
     imageHint: "Industrial fish processing facility in Rovinj",
+    descriptionAdvanced: {
+      de: "Mirna in Rovinj ist einer der ältesten Fischverarbeiter an der Adria und spezialisiert auf die Konservierung von hochwertigen Sardinen und Makrelen.",
+      hu: "A rovinji Mirna az Adria egyik legrégebbi halfeldolgozója, amely kiváló minőségű szardínia- és makrélakonzervjeiről ismert szerte Európában.",
+      ro: "Mirna din Rovinj este unul dintre cei mai vechi procesatori de pește de la Adriatică, specializat în conserve de sardine și macrou de calitate.",
+      en: "Mirna in Rovinj is one of the oldest fish processing facilities on the Adriatic, specialized in canning high-quality sardines and mackerel.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1877", "Verarbeitet frischen Adria-Fisch", "Teil der Podravka-Gruppe", "Spezielle blaue Fischdosen-Tradition"],
+      hu: ["1877-ben alapították", "Friss adriai halat dolgoznak fel", "A Podravka Csoport tagja", "Hagyományos kék dobozos szardíniák"],
+      ro: ["Fondată în anul 1877", "Procesează pește proaspăt adriatic", "Parte a grupului Podravka", "Tradiție în conserve de pește albastru"],
+      en: ["Founded in the year 1877", "Processes fresh Adriatic-caught fish", "Part of the Podravka Group", "Tradition of blue-fish canning"],
+    },
   },
   {
     id: "croatia-sardina-postira-economic-v2",
     type: "factory",
-    name: { de: "Sardina Postira", hu: "Sardina Postira", ro: "Fabrica Sardina", en: "Sardina Postira" },
+    name: { de: "Sardina Postira", hu: "Sardina Postira", ro: "Fabrica Sardina", en: "Sardina Postira",
+image: "/poi-images/croatia-sardina-postira-economic-v2.webp"
+},
     coordinates: { lat: 43.376, lng: 16.631 },
     description: {
       de: "Diese moderne Fabrik auf der Insel Brač ist auf Fischverarbeitung und Fischzucht spezialisiert. Sie ist ein wichtiger Arbeitgeber für die lokale Inselbevölkerung.",
@@ -509,11 +911,26 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Situată pe insula Brač", "Fabrică modernă din 2013", "Acvacultură și conserve", "Accent puternic pe export"],
       en: ["Located on Brač island", "Modern plant since 2013", "Fish farming and canning", "Strong export focus"],
     },
-    imageHint: "Modern industrial plant in Postira on Brač", image: "/poi-images/croatia-sardina-postira-economic-v2.webp"},
-  {
+imageHint: "Modern industrial plant in Postira on Brač",
+    descriptionAdvanced: {
+      de: "Sardina in Postira auf der Insel Brač ist ein moderner Industriekomplex für Fischfang und -verarbeitung, der tief in der Inseltradition verwurzelt ist.",
+      hu: "A Brač-szigeti Postirán működő Sardina modern halászati és feldolgozó komplexum, amely mélyen gyökerezik a sziget tengeri hagyományaiban.",
+      ro: "Sardina din Postira, pe insula Brač, este un complex industrial modern pentru pescuit și procesare, ancorat în tradiția maritimă a insulei.",
+      en: "Sardina in Postira on Brač Island is a modern industrial complex for fishing and processing, deeply rooted in the island's maritime traditions.",
+    },
+    factsAdvanced: {
+      de: ["In Betrieb seit 1907", "Neue Fabrik eröffnet 2013", "Eigene Fischfangflotte", "Exportiert bis nach Japan"],
+      hu: ["1907 óta működik", "Új üzemét 2013-ban adták át", "Saját halászflottával rendelkezik", "Akár Japánba is exportál halat"],
+      ro: ["În funcțiune din anul 1907", "Fabrică nouă deschisă în 2013", "Deține propria flotă de pescuit", "Exportă produse până în Japonia"],
+      en: ["In operation since 1907", "Opened a new factory in 2013", "Operates its own fishing fleet", "Exports products as far as Japan"],
+    },
+    image: "/poi-images/croatia-sardina-postira-economic-v2.webp",
+},  {
     id: "croatia-vindija-dairy-economic-v2",
     type: "factory",
-    name: { de: "Vindija Lebensmittelgruppe", hu: "Vindija élelmiszergyár", ro: "Grupul Vindija", en: "Vindija Food Group" },
+    name: { de: "Vindija Lebensmittelgruppe", hu: "Vindija élelmiszergyár", ro: "Grupul Vindija", en: "Vindija Food Group",
+image: "/poi-images/croatia-vindija-dairy-economic-v2.webp"
+},
     coordinates: { lat: 46.311, lng: 16.326 },
     description: {
       de: "Vindija mit Sitz in Varaždin ist einer der größten Lebensmittelproduzenten Kroatiens. Das Unternehmen ist Marktführer bei Milchprodukten und Geflügelfleisch.",
@@ -528,5 +945,17 @@ export const croatiaEconomicV2: POI[] = [
       en: ["Based in Varaždin", "Known for 'z bregov' brand", "Founded in 1959", "Diverse product range"],
     },
     imageHint: "Large dairy production facility in Varaždin",
+    descriptionAdvanced: {
+      de: "Vindija in Varaždin ist Kroatiens größter Lebensmittelkonzern für Milchprodukte und Geflügel, bekannt für höchste Qualitätsstandards und Innovationen.",
+      hu: "A varasdi Vindija Horvátország legnagyobb tejipari és húsipari élelmiszer-csoportja, amely magas minőségéről és folyamatos innovációiról ismert.",
+      ro: "Vindija din Varaždin este cel mai mare grup alimentar de lactate și carne din Croația, renumit pentru standardele înalte și inovație.",
+      en: "Vindija in Varaždin is Croatia's largest food group for dairy and poultry, recognized for its high quality standards and constant innovation.",
+    },
+    factsAdvanced: {
+      de: ["Besitzt die Marke 'z bregov", "Gegründet im Jahr 1959", "Beschäftigt über 4.000 Mitarbeiter", "Produzent der Cekin-Hähnchen"],
+      hu: ["A 'z bregov márka tulajdonosa", "1959-ben alapították", "Több mint 4000 alkalmazottat foglalkoztat", "A Cekin csirkehús-márka gyártója"],
+      ro: ["Deține marca 'z bregov", "Fondată în anul 1959", "Are peste 4.000 de angajați", "Producător al mărcii de pui Cekin"],
+      en: ["Owner of the 'z bregov brand", "Founded in the year 1959", "Employs over 4,000 workers", "Manufacturer of Cekin poultry products"],
+    },
   }
 ];

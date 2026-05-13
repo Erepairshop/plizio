@@ -4,7 +4,9 @@ export const luxembourgReliefV2: POI[] = [
   {
     id: "luxembourg-kneiff-relief-v2",
     type: "peak",
-    name: { de: "Kneiff", hu: "Kneiff", ro: "Kneiff", en: "Kneiff" },
+    name: { de: "Kneiff", hu: "Kneiff", ro: "Kneiff", en: "Kneiff",
+image: "/poi-images/luxembourg-kneiff-relief-v2.webp"
+},
     coords: [6.037, 50.157],
     coordinates: { lat: 50.157, lng: 6.037 },
     description: {
@@ -19,11 +21,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 560 metri", "Parte a masivului Ardeni", "Cel mai înalt punct din 1997", "Situat în comuna Troisvierges"],
       en: ["Elevation of 560 meters", "Part of the Ardennes massif", "Official highest point since 1997", "Located in Troisvierges commune"],
     },
-    imageHint: "Kneiff summit stone marker Luxembourg", image: "/poi-images/luxembourg-kneiff-relief-v2.webp"},
-  {
+imageHint: "Kneiff summit stone marker Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Kneiff ist mit 560 Metern die höchste Erhebung Luxemburgs. Er liegt im Ösling bei Wilwerdingen und überragt die bekanntere Buurgplaatz um etwa zwei Meter.",
+      hu: "A Kneiff Luxemburg legmagasabb pontja, 560 méteres tengerszint feletti magassággal. Az Ösling régióban, Wilwerdingen közelében található, a belga határ mentén.",
+      ro: "Vârful Kneiff este cel mai înalt punct din Luxemburg, având o altitudine de 560 de metri. Situat în regiunea Oesling, acesta depășește cu puțin dealul Buurgplaatz.",
+      en: "Kneiff is the highest point in Luxembourg at 560 meters. Located in the northern Oesling region near Wilwerdingen, it officially surpasses the nearby Buurgplaatz.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 560 Meter", "Lage: Gemeinde Ulflingen", "Region: Ösling (Ardennen)", "Gipfelmarkierung vorhanden"],
+      hu: ["Magasság: 560 méter", "Település: Troisvierges", "Régió: Ösling (Ardennek)", "Hivatalos mérőpont"],
+      ro: ["Altitudine: 560 metri", "Comună: Troisvierges", "Regiune: Oesling", "Punct culminant oficial"],
+      en: ["Height: 560 meters", "Location: Troisvierges", "Region: Oesling", "Highest peak in the country"],
+    },
+    image: "/poi-images/luxembourg-kneiff-relief-v2.webp",
+},  {
     id: "luxembourg-buurgplaatz-relief-v2",
     type: "peak",
-    name: { de: "Buurgplaatz", hu: "Buurgplaatz", ro: "Buurgplaatz", en: "Buurgplaatz" },
+    name: { de: "Buurgplaatz", hu: "Buurgplaatz", ro: "Buurgplaatz", en: "Buurgplaatz",
+image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp"
+},
     coords: [6.027, 50.163],
     coordinates: { lat: 50.163, lng: 6.027 },
     description: {
@@ -38,11 +55,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 559 metri", "Turn de apă pe vârf", "Al doilea cel mai înalt punct", "Structură geologică din gresie"],
       en: ["Elevation of 559 meters", "Water tower at the summit", "Second highest point in the country", "Sandstone geological formation"],
     },
-    imageHint: "Buurgplaatz water tower and summit Luxembourg", image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp"},
-  {
+imageHint: "Buurgplaatz water tower and summit Luxembourg",
+    descriptionAdvanced: {
+      de: "Die Buurgplaatz in Huldange galt lange als höchster Berg Luxemburgs. Mit 558,35 Metern ist sie heute der zweithöchste Punkt und beherbergt einen Wasserturm.",
+      hu: "A Huldange-ban található Buurgplaatz-ot sokáig Luxemburg legmagasabb pontjának hitték. 558,35 méteres magasságával valójában a második helyen áll.",
+      ro: "Buurgplaatz, situat în Huldange, a fost considerat mult timp cel mai înalt punct al țării. Are 558,35 metri și găzduiește un turn de apă distinctiv.",
+      en: "Buurgplaatz in Huldange was long considered the highest point in Luxembourg. At 558.35 meters, it is the second highest elevation and features a water tower.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 558,35 Meter", "Lage: Huldange", "Markantes Wasserturm-Gebäude", "Ehemaliger Erstplatzierter"],
+      hu: ["Magasság: 558,35 méter", "Helyszín: Huldange", "Jellegzetes víztorony", "Korábbi rekordtartó"],
+      ro: ["Altitudine: 558,35 metri", "Locație: Huldange", "Turn de apă pe vârf", "Al doilea punct cel mai înalt"],
+      en: ["Height: 558.35 meters", "Location: Huldange", "Distinctive water tower", "Formerly ranked highest"],
+    },
+    image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp",
+},  {
     id: "luxembourg-napoleonsgaart-relief-v2",
     type: "peak",
-    name: { de: "Napoléonsgaart", hu: "Napoléonsgaart", ro: "Napoléonsgaart", en: "Napoléonsgaart" },
+    name: { de: "Napoléonsgaart", hu: "Napoléonsgaart", ro: "Napoléonsgaart", en: "Napoléonsgaart",
+image: "/poi-images/luxembourg-napoleonsgaart-relief-v2.webp"
+},
     coords: [5.889, 49.816],
     coordinates: { lat: 49.816, lng: 5.889 },
     description: {
@@ -57,11 +89,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 548 metri", "Găzduiește un turn de transmisie", "Cel mai înalt punct din cantonul Redange", "Numele îl onorează pe Napoleon I"],
       en: ["Elevation of 548 meters", "Site of a radio transmitter", "Highest point in Redange canton", "Named in honor of Napoleon I"],
     },
-    imageHint: "Napoléonsgaart viewpoint and tower Luxembourg", image: "/poi-images/luxembourg-napoleonsgaart-relief-v2.webp"},
-  {
+imageHint: "Napoléonsgaart viewpoint and tower Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Napoléonsgaart ist mit 554 Metern die dritthöchste Erhebung des Landes. Er liegt bei Schwiedelbruch und bietet weite Ausblicke über das luxemburgische Gutland.",
+      hu: "A Napoléonsgaart 554 méteres magasságával az ország harmadik legmagasabb pontja. Schwiedelbruch közelében fekszik, és pazar kilátást nyújt a Gutlandra.",
+      ro: "Napoléonsgaart este al treilea cel mai înalt punct din Luxemburg, atingând 554 metri. Se află lângă Schwiedelbruch și oferă panorame extinse asupra Gutland.",
+      en: "Napoléonsgaart is the third-highest elevation in Luxembourg at 554 meters. Located near Schwiedelbruch, it offers vast views over the Gutland plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 554 Meter", "Lage: Gemeinde Rambruch", "Funkturm-Standort", "Drittplatzierte Erhebung"],
+      hu: ["Magasság: 554 méter", "Helyszín: Rambrouch", "Rádiótorony található itt", "Harmadik legmagasabb csúcs"],
+      ro: ["Altitudine: 554 metri", "Comună: Rambrouch", "Turn de comunicații", "Top 3 puncte de altitudine"],
+      en: ["Height: 554 meters", "Location: Rambrouch", "Radio tower site", "Third highest elevation"],
+    },
+    image: "/poi-images/luxembourg-napoleonsgaart-relief-v2.webp",
+},  {
     id: "luxembourg-wolfsschlucht-relief-v2",
     type: "landmark",
-    name: { de: "Wolfsschlucht", hu: "Wolfsschlucht", ro: "Wolfsschlucht", en: "Wolfsschlucht" },
+    name: { de: "Wolfsschlucht", hu: "Wolfsschlucht", ro: "Wolfsschlucht", en: "Wolfsschlucht",
+image: "/poi-images/luxembourg-wolfsschlucht-relief-v2.webp"
+},
     coords: [6.41, 49.815],
     coordinates: { lat: 49.815, lng: 6.41 },
     description: {
@@ -76,11 +123,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Pereți de gresie de 50m", "Format prin falii tectonice", "Parte a traseului Müllerthal", "Fost adăpost pentru lupi"],
       en: ["Sandstone walls up to 50m", "Formed by tectonic fissures", "Part of the Müllerthal Trail", "Former refuge for wolves"],
     },
-    imageHint: "Wolfsschlucht rock gorge Echternach Luxembourg", image: "/poi-images/luxembourg-wolfsschlucht-relief-v2.webp"},
-  {
+imageHint: "Wolfsschlucht rock gorge Echternach Luxembourg",
+    descriptionAdvanced: {
+      de: "Die Wolfsschlucht bei Echternach ist eine spektakuläre Felsspalte im Luxemburger Sandstein. Steile Wände ragen bis zu 50 Meter hoch über den Wanderweg empor.",
+      hu: "Az Echternach közelében fekvő Wolfsschlucht egy látványos szurdok a luxemburgi homokkőben. A meredek sziklafalak helyenként az 50 méteres magasságot is elérik.",
+      ro: "Wolfsschlucht de lângă Echternach este un defileu spectaculos în gresie luxemburgheză. Pereții abrupți se ridică până la 50 de metri deasupra traseului.",
+      en: "Wolfsschlucht near Echternach is a spectacular rock crevice in the Luxembourg sandstone. Steep walls rise up to 50 meters high along the hiking trail.",
+    },
+    factsAdvanced: {
+      de: ["Wandhöhe: bis 50 Meter", "Gestein: Luxemburger Sandstein", "Lage: Müllerthal Trail", "Nahe der Abtei Echternach"],
+      hu: ["Falfalmagasság: 50 méter", "Kőzet: Luxemburgi homokkő", "Helyszín: Müllerthal Trail", "Echternach közelében"],
+      ro: ["Înălțime pereți: 50 metri", "Roci: Gresie luxemburgheză", "Traseu: Müllerthal Trail", "Lângă Echternach"],
+      en: ["Wall height: 50 meters", "Rock type: Sandstone", "Route: Mullerthal Trail", "Near Echternach Abbey"],
+    },
+    image: "/poi-images/luxembourg-wolfsschlucht-relief-v2.webp",
+},  {
     id: "luxembourg-priedegtstull-relief-v2",
     type: "landmark",
-    name: { de: "Priedegtstull", hu: "Priedegtstull", ro: "Priedegtstull", en: "Priedegtstull" },
+    name: { de: "Priedegtstull", hu: "Priedegtstull", ro: "Priedegtstull", en: "Priedegtstull",
+image: "/poi-images/luxembourg-priedegtstull-relief-v2.webp"
+},
     coords: [6.335, 49.812],
     coordinates: { lat: 49.812, lng: 6.335 },
     description: {
@@ -95,11 +157,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Structură de stâncă suspendată", "Geologie de gresie Lias", "Punct de belvedere popular", "Numele înseamnă 'Amvon'"],
       en: ["Overhanging rock structure", "Lias sandstone geology", "Popular lookout point", "Name translates to 'Pulpit'"],
     },
-    imageHint: "Priedegtstull rock formation Müllerthal Luxembourg", image: "/poi-images/luxembourg-priedegtstull-relief-v2.webp"},
-  {
+imageHint: "Priedegtstull rock formation Müllerthal Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Priedegtstull ist eine markante Felsformation bei Berdorf. Die erodierte Sandsteinstruktur erinnert an eine Kanzel und ragt weit über das Tal der Schwarzen Ernz.",
+      hu: "A Berdorf melletti Priedegtstull (Prédikálószék) egy jellegzetes sziklaalakzat. Az erodált homokkő egy szószékre emlékeztet, magasan a Fekete-Ernz völgye felett.",
+      ro: "Priedegtstull este o formațiune stâncoasă proeminentă lângă Berdorf. Structura de gresie erodată seamănă cu o amvon și domină valea Ernz Neagră.",
+      en: "Priedegtstull is a prominent rock formation near Berdorf. The eroded sandstone structure resembles a pulpit and towers high above the Black Ernz valley.",
+    },
+    factsAdvanced: {
+      de: ["Name: Predigtstuhl", "Ort: Berdorf", "Formation: Sandsteinfelsen", "Panoramablick ins Ernz-Tal"],
+      hu: ["Név: Prédikálószék", "Helyszín: Berdorf", "Kőzet: Homokkő", "Kilátás az Ernz-völgyre"],
+      ro: ["Nume: Amvonul", "Localitate: Berdorf", "Material: Gresie", "Panoramă asupra văii Ernz"],
+      en: ["Name: Preacher's Chair", "Location: Berdorf", "Type: Sandstone pillar", "View over Ernz valley"],
+    },
+    image: "/poi-images/luxembourg-priedegtstull-relief-v2.webp",
+},  {
     id: "luxembourg-huel-lee-relief-v2",
     type: "landmark",
-    name: { de: "Huel Lee", hu: "Huel Lee", ro: "Huel Lee", en: "Huel Lee" },
+    name: { de: "Huel Lee", hu: "Huel Lee", ro: "Huel Lee", en: "Huel Lee",
+image: "/poi-images/luxembourg-huel-lee-relief-v2.webp"
+},
     coords: [6.353, 49.824],
     coordinates: { lat: 49.824, lng: 6.353 },
     description: {
@@ -114,11 +191,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Fostă carieră de pietre de moară", "Indentații rotunde vizibile", "Parte a stâncilor din Berdorf", "Numele înseamnă 'Piatră goală'"],
       en: ["Former millstone quarry", "Round indentations visible", "Part of the Berdorf rocks", "Name means 'Hollow Stone'"],
     },
-    imageHint: "Huel Lee cave Berdorf Luxembourg", image: "/poi-images/luxembourg-huel-lee-relief-v2.webp"},
-  {
+imageHint: "Huel Lee cave Berdorf Luxembourg",
+    descriptionAdvanced: {
+      de: "Huel Lee ist eine von Menschenhand geschaffene Höhle, die durch den Abbau von Mühlsteinen entstand. Die kreisförmigen Abbauspuren sind heute noch deutlich sichtbar.",
+      hu: "A Huel Lee egy mesterséges barlang, amely malomkövek bányászata során keletkezett. A kör alakú vágatok nyomai ma is tisztán látszanak a homokkő falakon.",
+      ro: "Huel Lee este o peșteră creată de om prin extragerea pietrelor de moară. Urmele circulare ale exploatării sunt încă vizibile în pereții de gresie.",
+      en: "Huel Lee is a man-made cave created by the extraction of millstones. The circular marks of the quarrying are still clearly visible in the sandstone walls.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Künstliche Felsenhöhle", "Zweck: Mühlsteinbruch", "Lage: Müllerthal", "Römische Ursprünge möglich"],
+      hu: ["Típus: Mesterséges barlang", "Funkció: Malomkőbánya", "Helyszín: Müllerthal", "Római kori eredet"],
+      ro: ["Tip: Peșteră artificială", "Scop: Carieră de mori", "Locație: Müllerthal", "Origini din era romană"],
+      en: ["Type: Man-made cave", "Usage: Millstone quarry", "Location: Mullerthal", "Roman era origins"],
+    },
+    image: "/poi-images/luxembourg-huel-lee-relief-v2.webp",
+},  {
     id: "luxembourg-schiessentuempel-relief-v2",
     type: "landmark",
-    name: { de: "Schiessentümpel", hu: "Schiessentümpel", ro: "Schiessentümpel", en: "Schiessentümpel" },
+    name: { de: "Schiessentümpel", hu: "Schiessentümpel", ro: "Schiessentümpel", en: "Schiessentümpel",
+image: "/poi-images/luxembourg-schiessentuempel-relief-v2.webp"
+},
     coords: [6.287, 49.789],
     coordinates: { lat: 49.789, lng: 6.287 },
     description: {
@@ -133,11 +225,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Cascadă cu trei jeturi", "Râul Ernz Neagră", "Relief în trepte de gresie", "Simbol al regiunii Müllerthal"],
       en: ["Triple waterfall streams", "River: Black Ernz", "Sandstone step relief", "Symbol of the Müllerthal"],
     },
-    imageHint: "Schiessentümpel waterfall and bridge Luxembourg", image: "/poi-images/luxembourg-schiessentuempel-relief-v2.webp"},
-  {
+imageHint: "Schiessentümpel waterfall and bridge Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Schiessentümpel ist ein kleiner, dreigeteilter Wasserfall an der Schwarzen Ernz. Bekannt ist er vor allem für seine malerische Steinbrücke mit Holzgeländer.",
+      hu: "A Schiessentümpel egy kis, háromágú vízesés a Fekete-Ernz patakon. Leginkább a felette ívelő festői kőhídról és a környező mohás sziklákról ismert.",
+      ro: "Schiessentümpel este o cascadă mică cu trei jeturi pe râul Ernz Neagră. Este celebră pentru podul său pitoresc de piatră cu balustradă de lemn.",
+      en: "Schiessentümpel is a small, three-part waterfall on the Black Ernz river. It is best known for its picturesque stone bridge with wooden railings.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr Brücke: 1879", "Fluss: Schwarze Ernz", "Ort: Müllerthal", "Wahrzeichen der Region"],
+      hu: ["Híd építése: 1879", "Folyó: Fekete-Ernz", "Helyszín: Müllerthal", "A régió jelképe"],
+      ro: ["Pod construit în: 1879", "Râu: Ernz Neagră", "Localitate: Müllerthal", "Simbol al Elveției Lux."],
+      en: ["Bridge built: 1879", "River: Black Ernz", "Location: Mullerthal", "Iconic regional landmark"],
+    },
+    image: "/poi-images/luxembourg-schiessentuempel-relief-v2.webp",
+},  {
     id: "luxembourg-alzette-valley-relief-v2",
     type: "valley",
-    name: { de: "Alzette-Tal", hu: "Alzette-völgy", ro: "Valea Alzette", en: "Alzette Valley" },
+    name: { de: "Alzette-Tal", hu: "Alzette-völgy", ro: "Valea Alzette", en: "Alzette Valley",
+image: "/poi-images/luxembourg-alzette-valley-relief-v2.webp"
+},
     coords: [6.136, 49.61],
     coordinates: { lat: 49.61, lng: 6.136 },
     description: {
@@ -152,11 +259,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Săpat în gresie locală", "Centrul capitalei", "Versanți abrupți", "Diferență de nivel de 70m"],
       en: ["Carved into local sandstone", "Center of the capital city", "Steep river embankments", "70m elevation difference"],
     },
-    imageHint: "Alzette Valley Luxembourg City Grund", image: "/poi-images/luxembourg-alzette-valley-relief-v2.webp"},
-  {
+imageHint: "Alzette Valley Luxembourg City Grund",
+    descriptionAdvanced: {
+      de: "Das Alzette-Tal prägt mit seinen tiefen Schluchten das Stadtbild von Luxemburg. Die steilen Kalksteinfelsen bildeten die natürliche Basis für die Festung.",
+      hu: "Az Alzette-völgy mély szurdokaival meghatározza Luxemburg városképét. A meredek mészkősziklák természetes védelmet nyújtottak az egykori erődnek.",
+      ro: "Valea Alzette modelează peisajul orașului Luxemburg prin cheile sale adânci. Stâncile abrupte de calcar au format baza naturală a fortificațiilor.",
+      en: "The Alzette Valley defines the cityscape of Luxembourg with its deep gorges. The steep limestone cliffs provided the natural basis for the historic fortress.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: bis 50 Meter", "Fluss: Alzette", "Stadtteile: Grund und Pfaffenthal", "UNESCO-Weltkulturerbe"],
+      hu: ["Mélység: 50 méter", "Folyó: Alzette", "Városrészek: Grund, Pfaffenthal", "UNESCO Világörökség része"],
+      ro: ["Adâncime: 50 metri", "Râu: Alzette", "Cartiere: Grund, Pfaffenthal", "Patrimoniu UNESCO"],
+      en: ["Depth: up to 50 meters", "River: Alzette", "Districts: Grund, Pfaffenthal", "UNESCO World Heritage site"],
+    },
+    image: "/poi-images/luxembourg-alzette-valley-relief-v2.webp",
+},  {
     id: "luxembourg-petrusse-valley-relief-v2",
     type: "valley",
-    name: { de: "Petruss-Tal", hu: "Pétrusse-völgy", ro: "Valea Pétrusse", en: "Pétrusse Valley" },
+    name: { de: "Petruss-Tal", hu: "Pétrusse-völgy", ro: "Valea Pétrusse", en: "Pétrusse Valley",
+image: "/poi-images/luxembourg-petrusse-valley-relief-v2.webp"
+},
     coords: [6.132, 49.606],
     coordinates: { lat: 49.606, lng: 6.132 },
     description: {
@@ -171,11 +293,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Șanț de apărare natural", "Traversat de podul Adolphe", "Cazemate săpate în stâncă", "Râul Pétrusse"],
       en: ["Natural defense ditch", "Spanned by Adolphe Bridge", "Casemates carved into rock", "River: Pétrusse"],
     },
-    imageHint: "Pétrusse Valley Luxembourg City park", image: "/poi-images/luxembourg-petrusse-valley-relief-v2.webp"},
-  {
+imageHint: "Pétrusse Valley Luxembourg City park",
+    descriptionAdvanced: {
+      de: "Das Pétrusse-Tal trennt die Oberstadt vom Bahnhofsviertel. Heute ist die tiefe Schlucht eine grüne Oase mit Parks, die unter den massiven Festungsmauern liegt.",
+      hu: "A Pétrusse-völgy választja el a felsővárost a vasútállomás környékétől. A mély völgy ma egy zöld oázis parkokkal, az erődrendszer hatalmas falai alatt.",
+      ro: "Valea Pétrusse separă Orașul de Sus de cartierul gării. Astăzi, valea adâncă este o oază verde cu parcuri, situată sub zidurile masive ale cetății.",
+      en: "The Pétrusse Valley separates the Upper Town from the station district. Today, the deep gorge is a green oasis with parks beneath the massive fortress walls.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Pétrusse", "Überquerung: Adolphe-Brücke", "Nutzung: Stadtpark", "Kasematten in den Felswänden"],
+      hu: ["Folyó: Pétrusse", "Híd: Adolphe-híd", "Funkció: Városi park", "Kazamaták a falakban"],
+      ro: ["Râu: Pétrusse", "Pod: Podul Adolphe", "Funcție: Parc urban", "Cazemate în pereți"],
+      en: ["River: Pétrusse", "Bridge: Adolphe Bridge", "Usage: City park", "Casemates in the cliffs"],
+    },
+    image: "/poi-images/luxembourg-petrusse-valley-relief-v2.webp",
+},  {
     id: "luxembourg-moselle-valley-relief-v2",
     type: "valley",
-    name: { de: "Moseltal", hu: "Mosel-völgy", ro: "Valea Moselle", en: "Moselle Valley" },
+    name: { de: "Moseltal", hu: "Mosel-völgy", ro: "Valea Moselle", en: "Moselle Valley",
+image: "/poi-images/luxembourg-moselle-valley-relief-v2.webp"
+},
     coords: [6.36, 49.52],
     coordinates: { lat: 49.52, lng: 6.36 },
     description: {
@@ -190,11 +327,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Formațiune de calcar cochilifer", "Versanți însoriți de sud-vest", "Altitudine de 140-200m", "Câmpie riverană"],
       en: ["Shell limestone formation", "Sunny southwest slopes", "140-200m altitude", "Riverine lowland area"],
     },
-    imageHint: "Moselle Valley Luxembourg vineyards", image: "/poi-images/luxembourg-moselle-valley-relief-v2.webp"},
-  {
+imageHint: "Moselle Valley Luxembourg vineyards",
+    descriptionAdvanced: {
+      de: "Das Moseltal bildet die südöstliche Grenze zu Deutschland. Das milde Klima und die steilen Muschelkalkhänge machen es zum wichtigsten Weinbaugebiet des Landes.",
+      hu: "A Mosel-völgy alkotja Luxemburg délkeleti határát Németországgal. Az enyhe éghajlat és a mészköves domboldalak az ország fő bortermelő vidékévé teszik.",
+      ro: "Valea Mozelei formează granița sud-estică cu Germania. Climatul blând și pantele calcaroase o fac cea mai importantă regiune viticolă a țării.",
+      en: "The Moselle Valley forms the southeastern border with Germany. Its mild climate and steep limestone slopes make it the country's primary wine-growing region.",
+    },
+    factsAdvanced: {
+      de: ["Grenzfluss: Mosel", "Länge in LUX: 39 km", "Wirtschaft: Weinbau", "Niedrigster Punkt Luxemburgs"],
+      hu: ["Határfolyó: Mosel", "Luxemburgi szakasz: 39 km", "Ipar: Borászat", "Az ország legmélyebb pontja"],
+      ro: ["Râu de graniță: Moselle", "Lungime LUX: 39 km", "Industrie: Viticultură", "Cel mai jos punct din LUX"],
+      en: ["Border river: Moselle", "Length in LUX: 39 km", "Primary use: Viticulture", "Lowest point in Luxembourg"],
+    },
+    image: "/poi-images/luxembourg-moselle-valley-relief-v2.webp",
+},  {
     id: "luxembourg-upper-sure-valley-relief-v2",
     type: "valley",
-    name: { de: "Obersauer-Tal", hu: "Felső-Sauer-völgy", ro: "Valea Sauer Superioară", en: "Upper Sûre Valley" },
+    name: { de: "Obersauer-Tal", hu: "Felső-Sauer-völgy", ro: "Valea Sauer Superioară", en: "Upper Sûre Valley",
+image: "/poi-images/luxembourg-upper-sure-valley-relief-v2.webp"
+},
     coords: [5.912, 49.911],
     coordinates: { lat: 49.911, lng: 5.912 },
     description: {
@@ -209,11 +361,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Relief de ardezie", "Curs de râu sinuos", "Centrul parcului natural", "Situat în regiunea Oesling"],
       en: ["Slate rock relief", "Winding river sections", "Heart of the nature park", "Embedded in the Oesling"],
     },
-    imageHint: "Upper Sûre Valley Luxembourg aerial", image: "/poi-images/luxembourg-upper-sure-valley-relief-v2.webp"},
-  {
+imageHint: "Upper Sûre Valley Luxembourg aerial",
+    descriptionAdvanced: {
+      de: "Das Obere Sauer-Tal im Norden ist geprägt durch den großen Stausee und tief eingeschnittene Mäander. Es ist das Herzstück des gleichnamigen Naturparks.",
+      hu: "A Felső-Sauer völgye északon a hatalmas víztározóról és a mélyen bevágott folyókanyarulatokról ismert. Ez a terület az azonos nevű natúrpark szíve.",
+      ro: "Valea Superioară a Sûre din nord este marcată de marele lac de acumulare și meandre adânci. Este piesa centrală a parcului natural omonim.",
+      en: "The Upper Sûre Valley in the north is defined by its large reservoir lake and deeply cut meanders. It serves as the heart of the namesake nature park.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigstes Merkmal: Stausee", "Fläche See: 3,8 km²", "Zweck: Trinkwasserreservoir", "Region: Ösling"],
+      hu: ["Fő jellemző: Víztározó", "Tó felszíne: 3,8 km²", "Cél: Ivóvíz-ellátás", "Régió: Ösling"],
+      ro: ["Caracteristică: Lac de baraj", "Suprafață lac: 3,8 km²", "Scop: Rezervor de apă", "Regiune: Oesling"],
+      en: ["Feature: Reservoir lake", "Lake area: 3.8 km²", "Purpose: Drinking water", "Region: Oesling"],
+    },
+    image: "/poi-images/luxembourg-upper-sure-valley-relief-v2.webp",
+},  {
     id: "luxembourg-our-valley-relief-v2",
     type: "valley",
-    name: { de: "Our-Tal", hu: "Our-völgy", ro: "Valea Our", en: "Our Valley" },
+    name: { de: "Our-Tal", hu: "Our-völgy", ro: "Valea Our", en: "Our Valley",
+image: "/poi-images/luxembourg-our-valley-relief-v2.webp"
+},
     coords: [6.155, 49.932],
     coordinates: { lat: 49.932, lng: 6.155 },
     description: {
@@ -228,11 +395,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Valea de eroziune în V", "Substrat de ardezie argiloasă", "Graniță de stat naturală", "Contrast de relief puternic"],
       en: ["V-shaped erosion valley", "Clay slate substrate", "Natural state border", "Strong relief contrast"],
     },
-    imageHint: "Our Valley Luxembourg Vianden", image: "/poi-images/luxembourg-our-valley-relief-v2.webp"},
-  {
+imageHint: "Our Valley Luxembourg Vianden",
+    descriptionAdvanced: {
+      de: "Das Our-Tal verläuft entlang der deutsch-luxemburgischen Grenze durch das Ösling. Es ist bekannt für seine unberührte Natur und die Burg Vianden.",
+      hu: "Az Our-völgy a német-luxemburgi határ mentén húzódik az Ösling régión keresztül. Érintetlen természetéről és a völgy felett magasodó viandeni várról híres.",
+      ro: "Valea Our se întinde de-a lungul graniței germano-luxemburgheze prin Oesling. Este cunoscută pentru natura neatinsă și castelul Vianden.",
+      en: "The Our Valley runs along the German-Luxembourgish border through the Oesling region. It is famous for its pristine nature and the Vianden Castle.",
+    },
+    factsAdvanced: {
+      de: ["Grenzfluss: Our", "Wichtigster Ort: Vianden", "Pumpspeicherwerk: Vianden", "Naturpark Our"],
+      hu: ["Határfolyó: Our", "Fő település: Vianden", "Szivattyús erőmű: Vianden", "Our Natúrpark"],
+      ro: ["Râu de graniță: Our", "Oraș principal: Vianden", "Hidrocentrală: Vianden", "Parcul Natural Our"],
+      en: ["Border river: Our", "Main town: Vianden", "Pumped-storage plant site", "Our Nature Park"],
+    },
+    image: "/poi-images/luxembourg-our-valley-relief-v2.webp",
+},  {
     id: "luxembourg-giele-botter-relief-v2",
     type: "mine",
-    name: { de: "Giele Botter", hu: "Giele Botter", ro: "Giele Botter", en: "Giele Botter" },
+    name: { de: "Giele Botter", hu: "Giele Botter", ro: "Giele Botter", en: "Giele Botter",
+image: "/poi-images/luxembourg-giele-botter-relief-v2.webp"
+},
     coords: [5.901, 49.492],
     coordinates: { lat: 49.492, lng: 5.901 },
     description: {
@@ -247,11 +429,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Peisaj terasat artificial", "Geologie de minereu de fier", "Astăzi rezervație naturală", "Relief tipic pentru sud"],
       en: ["Artificial terraced landscape", "Iron ore geology", "Now a nature reserve", "Typical southern relief"],
     },
-    imageHint: "Giele Botter red earth Luxembourg", image: "/poi-images/luxembourg-giele-botter-relief-v2.webp"},
-  {
+imageHint: "Giele Botter red earth Luxembourg",
+    descriptionAdvanced: {
+      de: "Giele Botter ist ein ehemaliges Tagebaugebiet bei Differdingen. Wo früher Eisenerz abgebaut wurde, hat sich heute ein wertvolles Naturschutzgebiet entwickelt.",
+      hu: "A Giele Botter egy egykori külszíni vasércbánya Differdange közelében. Ahol régen bányászat folyt, ma értékes természetvédelmi terület található.",
+      ro: "Giele Botter este o fostă exploatare minieră de suprafață lângă Differdange. Unde se extrăgea minereu de fier, astăzi există o rezervație naturală.",
+      en: "Giele Botter is a former open-pit iron ore mine near Differdange. Today, it has transformed into a valuable nature reserve with unique flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Naturschutzgebiet", "Frühere Nutzung: Eisenerzabbau", "Lage: Differdingen", "Region: Land der Roten Erde"],
+      hu: ["Típus: Természetvédelmi terület", "Korábbi használat: Vasércbánya", "Helyszín: Differdange", "Régió: Vörös Föld"],
+      ro: ["Tip: Rezervație naturală", "Fostă utilizare: Mină de fier", "Locație: Differdange", "Regiune: Terres Rouges"],
+      en: ["Type: Nature reserve", "Former use: Iron ore mining", "Location: Differdange", "Region: Red Lands"],
+    },
+    image: "/poi-images/luxembourg-giele-botter-relief-v2.webp",
+},  {
     id: "luxembourg-widdebierg-relief-v2",
     type: "mountain",
-    name: { de: "Widdebierg", hu: "Widdebierg", ro: "Widdebierg", en: "Widdebierg" },
+    name: { de: "Widdebierg", hu: "Widdebierg", ro: "Widdebierg", en: "Widdebierg",
+image: "/poi-images/luxembourg-widdebierg-relief-v2.webp"
+},
     coords: [6.338, 49.68],
     coordinates: { lat: 49.68, lng: 6.338 },
     description: {
@@ -266,11 +463,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 387 metri", "Martor de eroziune geologic", "Platou de calcar", "Zonă de drumeție populară"],
       en: ["Elevation of 387 meters", "Geological outlier hill", "Limestone plateau", "Popular hiking area"],
     },
-    imageHint: "Widdebierg hill Luxembourg landscape", image: "/poi-images/luxembourg-widdebierg-relief-v2.webp"},
-  {
+imageHint: "Widdebierg hill Luxembourg landscape",
+    descriptionAdvanced: {
+      de: "Der Widdebierg ist ein markanter Zeugenberg im Osten Luxemburgs. Mit 387 Metern Höhe überragt er das Umland und ist geologisch durch Feuersteinfunde bekannt.",
+      hu: "A Widdebierg egy jellegzetes tanúhegy Kelet-Luxemburgban. 387 méteres magasságával kiemelkedik környezetéből; geológiailag tűzkő-leleteiről ismert.",
+      ro: "Widdebierg este un deal martor proeminent în estul Luxemburgului. Cu o înălțime de 387 de metri, este cunoscut geologic pentru descoperirile de silex.",
+      en: "Widdebierg is a prominent witness hill in eastern Luxembourg. Rising to 387 meters, it stands out from the landscape and is geologically noted for flint finds.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 387 Meter", "Typ: Zeugenberg", "Lage: Betzdorf / Flaxweiler", "Archäologische Funde: Feuerstein"],
+      hu: ["Magasság: 387 méter", "Típus: Tanúhegy", "Helyszín: Betzdorf / Flaxweiler", "Régészeti lelet: Tűzkő"],
+      ro: ["Altitudine: 387 metri", "Tip: Deal martor", "Locație: Betzdorf / Flaxweiler", "Descoperiri: Silex (cremene)"],
+      en: ["Height: 387 meters", "Type: Witness hill", "Location: Betzdorf / Flaxweiler", "Archaeological finds: Flint"],
+    },
+    image: "/poi-images/luxembourg-widdebierg-relief-v2.webp",
+},  {
     id: "luxembourg-galgenberg-relief-v2",
     type: "mountain",
-    name: { de: "Galgenberg", hu: "Galgenberg", ro: "Galgenberg", en: "Galgenberg" },
+    name: { de: "Galgenberg", hu: "Galgenberg", ro: "Galgenberg", en: "Galgenberg",
+image: "/poi-images/luxembourg-galgenberg-relief-v2.webp"
+},
     coords: [5.981, 49.488],
     coordinates: { lat: 49.488, lng: 5.981 },
     description: {
@@ -285,11 +497,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Înălțime de aproximativ 400m", "Rocă bogată în fier", "Parc urban pe platou", "Vedere peste regiunea industrială"],
       en: ["Elevation of approx. 400m", "Iron-bearing rock", "City park on the plateau", "View over the industrial region"],
     },
-    imageHint: "Galgenberg Esch-sur-Alzette Luxembourg", image: "/poi-images/luxembourg-galgenberg-relief-v2.webp"},
-  {
+imageHint: "Galgenberg Esch-sur-Alzette Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Galgenberg ist der Hausberg von Esch-sur-Alzette. Er bietet einen weitläufigen Park mit Tiergehege und Ausblicke auf die industrielle Vergangenheit der Stadt.",
+      hu: "A Galgenberg Esch-sur-Alzette „házi hegye”. Kiterjedt parkkal, vadaskerttel és a város ipari múltjára nyíló kilátással várja a látogatókat.",
+      ro: "Galgenberg este dealul emblematic al orașului Esch-sur-Alzette. Acesta oferă un parc vast, un parc zoologic și vederi asupra trecutului industrial al orașului.",
+      en: "Galgenberg is the local hill of Esch-sur-Alzette. It features a sprawling park with a wildlife enclosure and views of the city's industrial heritage.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 412 Meter", "Stadt: Esch-sur-Alzette", "Attraktion: Gaalgebierg Park", "Tiergehege vorhanden"],
+      hu: ["Magasság: 412 méter", "Város: Esch-sur-Alzette", "Látnivaló: Gaalgebierg Park", "Vadaskert található itt"],
+      ro: ["Altitudine: 412 metri", "Oraș: Esch-sur-Alzette", "Atracție: Parcul Gaalgebierg", "Grădină zoologică locală"],
+      en: ["Height: 412 meters", "City: Esch-sur-Alzette", "Attraction: Gaalgebierg Park", "Wildlife park on site"],
+    },
+    image: "/poi-images/luxembourg-galgenberg-relief-v2.webp",
+},  {
     id: "luxembourg-perekop-relief-v2",
     type: "landmark",
-    name: { de: "Perekop", hu: "Perekop", ro: "Perekop", en: "Perekop" },
+    name: { de: "Perekop", hu: "Perekop", ro: "Perekop", en: "Perekop",
+image: "/poi-images/luxembourg-perekop-relief-v2.webp"
+},
     coords: [6.347, 49.82],
     coordinates: { lat: 49.82, lng: 6.347 },
     description: {
@@ -304,11 +531,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Bloc de stâncă izolat", "40m deasupra drumului", "Urcare pe scară spre vârf", "Gresie tipică de tip Lias"],
       en: ["Freestanding rock block", "40m above the road", "Ladder ascent to summit", "Typical Lias sandstone"],
     },
-    imageHint: "Perekop rock Berdorf Luxembourg", image: "/poi-images/luxembourg-perekop-relief-v2.webp"},
-  {
+imageHint: "Perekop rock Berdorf Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Perekop ist ein imposanter, freistehender Sandsteinfelsen direkt an der Straße zwischen Berdorf und Echternach. Eine schmale Leiter führt auf sein Gipfelplateau.",
+      hu: "A Perekop egy impozáns, különálló homokkőszikla a Berdorf és Echternach közötti út mentén. Egy keskeny létra vezet fel a szikla tetején lévő fennsíkra.",
+      ro: "Perekop este o stâncă de gresie impunătoare, situată chiar lângă drumul dintre Berdorf și Echternach. O scară îngustă duce la platoul din vârf.",
+      en: "Perekop is an imposing, free-standing sandstone rock right by the road between Berdorf and Echternach. A narrow ladder leads up to its summit plateau.",
+    },
+    factsAdvanced: {
+      de: ["Felsart: Sandstein", "Höhe: ca. 40 Meter", "Zugang: Eisenleitern", "Lage: Müllerthal Trail Route 2"],
+      hu: ["Kőzet: Homokkő", "Magasság: kb. 40 méter", "Feljutás: Vaslétrákon", "Helyszín: Müllerthal Trail 2. szakasz"],
+      ro: ["Rocă: Gresie", "Înălțime: aprox. 40 metri", "Acces: Scări metalice", "Traseu: Müllerthal Trail R2"],
+      en: ["Rock type: Sandstone", "Height: approx. 40 meters", "Access: Iron ladders", "Location: Mullerthal Trail Route 2"],
+    },
+    image: "/poi-images/luxembourg-perekop-relief-v2.webp",
+},  {
     id: "luxembourg-haard-nature-relief-v2",
     type: "landmark",
-    name: { de: "Haard", hu: "Haard", ro: "Haard", en: "Haard" },
+    name: { de: "Haard", hu: "Haard", ro: "Haard", en: "Haard",
+image: "/poi-images/luxembourg-haard-nature-relief-v2.webp"
+},
     coords: [6.096, 49.471],
     coordinates: { lat: 49.471, lng: 6.096 },
     description: {
@@ -323,11 +565,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Fostă mină de fier", "Cea mai mare rezervație", "Straturi de rocă Minette", "Pereți de stâncă artificiali"],
       en: ["Former iron mining site", "Largest nature reserve", "Minette rock layers", "Artificial rock faces"],
     },
-    imageHint: "Haard nature reserve Dudelange Luxembourg", image: "/poi-images/luxembourg-haard-nature-relief-v2.webp"},
-  {
+imageHint: "Haard nature reserve Dudelange Luxembourg",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Haard bei Düdelingen liegt auf einem Plateau der Roten Erde. Es ist geprägt von den Spuren des früheren Eisenerz-Tagebaus.",
+      hu: "A Dudelange melletti Haard természetvédelmi terület a Vörös Föld fennsíkján található. A tájat az egykori külszíni vasércbányászat nyomai formálták.",
+      ro: "Rezervația naturală Haard de lângă Dudelange este situată pe un platou din Regiunea Terres Rouges. Este marcată de urmele fostelor mine de fier.",
+      en: "The Haard nature reserve near Dudelange is situated on a plateau in the Red Lands region. It is characterized by the traces of former open-cast iron mining.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 198 Hektar", "Ort: Düdelingen", "Status: Naturschutzgebiet", "Ehemaliger Bergbau"],
+      hu: ["Terület: 198 hektár", "Település: Dudelange", "Státusz: Természetvédelmi terület", "Egykori bányavidék"],
+      ro: ["Suprafață: 198 hectare", "Oraș: Dudelange", "Statut: Rezervație naturală", "Fostă zonă minieră"],
+      en: ["Area: 198 hectares", "Town: Dudelange", "Status: Nature reserve", "Former mining site"],
+    },
+    image: "/poi-images/luxembourg-haard-nature-relief-v2.webp",
+},  {
     id: "luxembourg-kirchberg-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Kirchberg-Plateau", hu: "Kirchberg-fennsík", ro: "Platoul Kirchberg", en: "Kirchberg Plateau" },
+    name: { de: "Kirchberg-Plateau", hu: "Kirchberg-fennsík", ro: "Platoul Kirchberg", en: "Kirchberg Plateau",
+image: "/poi-images/luxembourg-kirchberg-plateau-relief-v2.webp"
+},
     coords: [6.16, 49.625],
     coordinates: { lat: 49.625, lng: 6.16 },
     description: {
@@ -342,11 +599,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Platou din gresie luxemburgheză", "Altitudine de aprox. 340m", "Izolat prin eroziune", "Sediul instituțiilor UE"],
       en: ["Luxembourg sandstone plateau", "Altitude approx. 340m", "Isolated by erosion", "Site of EU institutions"],
     },
-    imageHint: "Kirchberg Plateau Luxembourg City aerial", image: "/poi-images/luxembourg-kirchberg-plateau-relief-v2.webp"},
-  {
+imageHint: "Kirchberg Plateau Luxembourg City aerial",
+    descriptionAdvanced: {
+      de: "Das Kirchberg-Plateau ist das moderne Zentrum Luxemburgs. Auf dieser Hochfläche nordöstlich der Altstadt befinden sich EU-Institutionen und Kulturzentren.",
+      hu: "A Kirchberg-fennsík Luxemburg modern központja. Az óvárostól északkeletre fekvő magaslaton találhatók az uniós intézmények és kulturális központok.",
+      ro: "Platoul Kirchberg este centrul modern al Luxemburgului. Pe această zonă înaltă de la nord-est de centrul vechi se află instituții UE și centre culturale.",
+      en: "The Kirchberg Plateau is the modern hub of Luxembourg. Situated northeast of the old town, this high ground hosts EU institutions and cultural centers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 365 Meter", "Nutzung: EU-Viertel", "Architektur: Modern", "Lage: Nordosten der Stadt"],
+      hu: ["Magasság: kb. 365 méter", "Funkció: EU-negyed", "Építészet: Modern", "Helyszín: A város északkeleti része"],
+      ro: ["Altitudine: aprox. 365 m", "Funcție: Cartierul UE", "Arhitectură: Modernă", "Locație: Nord-estul orașului"],
+      en: ["Height: approx. 365 meters", "Usage: EU district", "Architecture: Modern", "Location: Northeast of city"],
+    },
+    image: "/poi-images/luxembourg-kirchberg-plateau-relief-v2.webp",
+},  {
     id: "luxembourg-rham-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Rham-Plateau", hu: "Rham-fennsík", ro: "Platoul Rham", en: "Rham Plateau" },
+    name: { de: "Rham-Plateau", hu: "Rham-fennsík", ro: "Platoul Rham", en: "Rham Plateau",
+image: "/poi-images/luxembourg-rham-plateau-relief-v2.webp"
+},
     coords: [6.14, 49.61],
     coordinates: { lat: 49.61, lng: 6.14 },
     description: {
@@ -361,11 +633,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Înconjurat de o buclă de râu", "Stânci abrupte de gresie", "Parte a cetății Luxemburg", "Vizavi de stânca Bock"],
       en: ["Enclosed by a river loop", "Steep sandstone cliffs", "Part of Luxembourg Fortress", "Opposite the Bock rock"],
     },
-    imageHint: "Rham Plateau Luxembourg fortifications", image: "/poi-images/luxembourg-rham-plateau-relief-v2.webp"},
-  {
+imageHint: "Rham Plateau Luxembourg fortifications",
+    descriptionAdvanced: {
+      de: "Das Rham-Plateau liegt gegenüber dem Bock-Felsen. Es war Teil der äußeren Festungsanlagen und beherbergt heute historische Kasernen und Senioreneinrichtungen.",
+      hu: "A Rham-fennsík a Bock-sziklával szemben helyezkedik el. Egykor a külső erődrendszer része volt, ma történelmi laktanyák és idősotthonok találhatók itt.",
+      ro: "Platoul Rham se află vizavi de stânca Bock. A făcut parte din fortificațiile exterioare și găzduiește astăzi cazărmi istorice și facilități pentru vârstnici.",
+      en: "The Rham Plateau is situated opposite the Bock rock. It was part of the outer fortifications and now houses historic barracks and senior care facilities.",
+    },
+    factsAdvanced: {
+      de: ["Teil der Festung", "Lage: gegenüber dem Bock", "Historische Militärgebäude", "UNESCO-Weltkulturerbe"],
+      hu: ["Az erődrendszer része", "Helyszín: a Bock-sziklával szemben", "Történelmi katonai épületek", "UNESCO Világörökség"],
+      ro: ["Parte a fortificațiilor", "Locație: vizavi de Bock", "Clădiri militare istorice", "Patrimoniu UNESCO"],
+      en: ["Part of the fortress", "Location: opposite the Bock", "Historic military buildings", "UNESCO World Heritage site"],
+    },
+    image: "/poi-images/luxembourg-rham-plateau-relief-v2.webp",
+},  {
     id: "luxembourg-kohlscheuer-relief-v2",
     type: "landmark",
-    name: { de: "Kohlscheuer", hu: "Kohlscheuer", ro: "Kohlscheuer", en: "Kohlscheuer" },
+    name: { de: "Kohlscheuer", hu: "Kohlscheuer", ro: "Kohlscheuer", en: "Kohlscheuer",
+image: "/poi-images/luxembourg-kohlscheuer-relief-v2.webp"
+},
     coords: [6.275, 49.786],
     coordinates: { lat: 49.786, lng: 6.275 },
     description: {
@@ -381,11 +668,25 @@ export const luxembourgReliefV2: POI[] = [
       en: ["Extremely narrow passages", "Total darkness inside", "Lias sandstone fissure", "Flashlight required"],
     },
     imageHint: "Kohlscheuer rock crevice Müllerthal",
+    descriptionAdvanced: {
+      de: "Die Kohlscheuer ist ein enges Felslabyrinth bei Consdorf. Die Passage führt durch extrem schmale Spalten im Sandstein, die teils nur mit Taschenlampen begehbar sind.",
+      hu: "A Kohlscheuer egy szűk sziklalabirintus Consdorf közelében. A homokkőben lévő járatok olyan keskenyek, hogy helyenként csak zseblámpával járhatók be.",
+      ro: "Kohlscheuer este un labirint de stânci înguste lângă Consdorf. Pasajul trece prin fisuri extrem de strâmte în gresie, navigabile doar cu lanterna.",
+      en: "Kohlscheuer is a narrow rock labyrinth near Consdorf. The passage leads through extremely tight crevices in the sandstone, some requiring a flashlight.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Consdorf", "Typ: Felsspalte", "Besonderheit: Extrem schmal", "Müllerthal Trail Route 2"],
+      hu: ["Helyszín: Consdorf", "Típus: Sziklahasadék", "Jellemző: Rendkívül szűk", "Müllerthal Trail 2. szakasz"],
+      ro: ["Locație: Consdorf", "Tip: Fisură în stâncă", "Specificație: Foarte îngust", "Traseu: Müllerthal Trail R2"],
+      en: ["Location: Consdorf", "Type: Rock crevice", "Feature: Extremely narrow", "Mullerthal Trail Route 2"],
+    },
   },
   {
     id: "luxembourg-goldkaul-relief-v2",
     type: "landmark",
-    name: { de: "Goldkaul", hu: "Goldkaul", ro: "Goldkaul", en: "Goldkaul" },
+    name: { de: "Goldkaul", hu: "Goldkaul", ro: "Goldkaul", en: "Goldkaul",
+image: "/poi-images/luxembourg-goldkaul-relief-v2.webp"
+},
     coords: [6.351, 49.821],
     coordinates: { lat: 49.821, lng: 6.351 },
     description: {
@@ -401,11 +702,25 @@ export const luxembourgReliefV2: POI[] = [
       en: ["Yellow sandstone layers", "Rugged relief structure", "Part of Berdorf cliffs", "Name means 'Gold Pit'"],
     },
     imageHint: "Goldkaul rock formations Berdorf",
+    descriptionAdvanced: {
+      de: "Die Goldkaul ist eine sagenumwobene Felsformation im Müllerthal. Der Name deutet auf den ockerfarbenen Sandstein hin, der in der Sonne golden schimmern kann.",
+      hu: "A Goldkaul egy legendákkal övezett sziklaalakzat a Müllerthalban. A név az okkersárga homokkőre utal, amely a napsütésben aranyszínben csilloghat.",
+      ro: "Goldkaul este o formațiune stâncoasă legendară în Müllerthal. Numele face referire la gresia ocru care poate străluci auriu în lumina soarelui.",
+      en: "Goldkaul is a legendary rock formation in the Mullerthal. Its name refers to the ochre-colored sandstone that can shimmer golden in the sunlight.",
+    },
+    factsAdvanced: {
+      de: ["Gestein: Sandstein", "Farbe: Gelb-Ocker", "Region: Müllerthal", "Nahe Consdorf"],
+      hu: ["Kőzet: Homokkő", "Szín: Sárga-okker", "Régió: Müllerthal", "Consdorf közelében"],
+      ro: ["Material: Gresie", "Culoare: Galben-ocru", "Regiune: Müllerthal", "Lângă Consdorf"],
+      en: ["Rock type: Sandstone", "Color: Yellow-ochre", "Region: Mullerthal", "Near Consdorf"],
+    },
   },
   {
     id: "luxembourg-rittergang-relief-v2",
     type: "landmark",
-    name: { de: "Rittergang", hu: "Rittergang", ro: "Rittergang", en: "Rittergang" },
+    name: { de: "Rittergang", hu: "Rittergang", ro: "Rittergang", en: "Rittergang",
+image: "/poi-images/luxembourg-rittergang-relief-v2.webp"
+},
     coords: [6.35, 49.822],
     coordinates: { lat: 49.822, lng: 6.35 },
     description: {
@@ -421,11 +736,25 @@ export const luxembourgReliefV2: POI[] = [
       en: ["Narrow rock bottleneck", "Hiking path leads through", "Erosion form in sandstone", "Name means 'Knight's Passage'"],
     },
     imageHint: "Rittergang rock passage Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Rittergang ist eine der spektakulärsten Felsspalten Luxemburgs. Wanderer müssen sich durch die engen, dunklen Gänge im massiven Sandstein zwängen.",
+      hu: "A Rittergang (Lovagjárat) Luxemburg egyik leglátványosabb sziklahasadéka. A túrázóknak szűk és sötét járatokon kell átpréselniük magukat a homokkőben.",
+      ro: "Rittergang este una dintre cele mai spectaculoase fisuri stâncoase din Luxemburg. Drumeții trebuie să se strecoare prin pasaje înguste și întunecate.",
+      en: "Rittergang is one of Luxembourg's most spectacular rock crevices. Hikers must squeeze through narrow, dark passages in the massive sandstone rocks.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Natürliche Felsspalte", "Lage: Müllerthal", "Ausrüstung: Taschenlampe empfohlen", "Teil des 'Abenteuerpfads'"],
+      hu: ["Típus: Természetes sziklahasadék", "Helyszín: Müllerthal", "Ajánlott felszerelés: Zseblámpa", "A 'kalandösvény' része"],
+      ro: ["Tip: Fisură naturală", "Locație: Müllerthal", "Echipament: Lanterna recomandată", "Parte din traseul de aventură"],
+      en: ["Type: Natural crevice", "Location: Mullerthal", "Gear: Flashlight recommended", "Part of adventure trail"],
+    },
   },
   {
     id: "luxembourg-herrenberg-relief-v2",
     type: "mountain",
-    name: { de: "Herrenberg", hu: "Herrenberg", ro: "Herrenberg", en: "Herrenberg" },
+    name: { de: "Herrenberg", hu: "Herrenberg", ro: "Herrenberg", en: "Herrenberg",
+image: "/poi-images/luxembourg-herrenberg-relief-v2.webp"
+},
     coords: [6.162, 49.873],
     coordinates: { lat: 49.873, lng: 6.162 },
     description: {
@@ -440,11 +769,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Înălțime aprox. 395m", "Granița cu regiunea Gutland", "Bază militară localizată aici", "Geologie: ardezie argiloasă"],
       en: ["Elevation approx. 395m", "Edge of the Gutland region", "Military base location", "Geology: clay slate"],
     },
-    imageHint: "Herrenberg hill Diekirch Luxembourg", image: "/poi-images/luxembourg-herrenberg-relief-v2.webp"},
-  {
+imageHint: "Herrenberg hill Diekirch Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Herrenberg ist ein Berg bei Diekirch, der vor allem als Standort des einzigen Militärzentrums der luxemburgischen Armee (Caserne Grand-Duc Jean) bekannt ist.",
+      hu: "A Diekirch melletti Herrenberg leginkább a luxemburgi hadsereg egyetlen katonai központjának (Grand-Duc Jean laktanya) helyszíneként ismert.",
+      ro: "Herrenberg este un deal lângă Diekirch, cunoscut în special ca sediu al singurului centru militar al armatei luxemburgheze (Cazarma Grand-Duc Jean).",
+      en: "Herrenberg is a hill near Diekirch, primarily known as the site of the Luxembourg Army's sole military center (Grand-Duc Jean Barracks).",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 395 Meter", "Ort: Diekirch", "Nutzung: Militärzentrum", "Aussichtspunkt auf Diekirch"],
+      hu: ["Magasság: 395 méter", "Település: Diekirch", "Funkció: Katonai központ", "Kilátópont Diekirchre"],
+      ro: ["Altitudine: 395 metri", "Oraș: Diekirch", "Utilizare: Centru militar", "Panoramă spre Diekirch"],
+      en: ["Height: 395 meters", "Town: Diekirch", "Usage: Military center", "Viewpoint over Diekirch"],
+    },
+    image: "/poi-images/luxembourg-herrenberg-relief-v2.webp",
+},  {
     id: "luxembourg-black-ernz-valley-relief-v2",
     type: "valley",
-    name: { de: "Tal der Schwarzen Ernz", hu: "Fekete-Ernz völgy", ro: "Valea Ernz Neagră", en: "Black Ernz Valley" },
+    name: { de: "Tal der Schwarzen Ernz", hu: "Fekete-Ernz völgy", ro: "Valea Ernz Neagră", en: "Black Ernz Valley",
+image: "/poi-images/luxembourg-black-ernz-valley-relief-v2.webp"
+},
     coords: [6.284, 49.785],
     coordinates: { lat: 49.785, lng: 6.284 },
     description: {
@@ -459,11 +803,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Vale de eroziune adâncă", "Străbate straturi de gresie", "Centrul regiunii Müllerthal", "Numeroase repezișuri de apă"],
       en: ["Deep erosion valley", "Cuts through sandstone", "Center of the Müllerthal", "Numerous water rapids"],
     },
-    imageHint: "Black Ernz Valley river Luxembourg", image: "/poi-images/luxembourg-black-ernz-valley-relief-v2.webp"},
-  {
+imageHint: "Black Ernz Valley river Luxembourg",
+    descriptionAdvanced: {
+      de: "Das Tal der Schwarzen Ernz bildet das Herz der Kleinen Luxemburger Schweiz. Der Fluss hat sich tief in den Sandstein gegraben und bizarre Felswelten geschaffen.",
+      hu: "A Fekete-Ernz völgye a Kis-Luxemburgi-Svájc szíve. A folyó mélyen belevágta magát a homokkőbe, különös sziklavilágokat hozva létre a környéken.",
+      ro: "Valea Ernz Neagră formează inima Elveției Luxenburgheze. Râul a săpat adânc în gresie, creând peisaje stâncoase bizare și spectaculoase.",
+      en: "The Black Ernz Valley forms the heart of Little Luxembourg Switzerland. The river has carved deep into the sandstone, creating bizarre rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Schwarze Ernz", "Länge: ca. 18 km", "Region: Müllerthal", "Hauptsehenswürdigkeit: Schiessentümpel"],
+      hu: ["Folyó: Fekete-Ernz", "Hossz: kb. 18 km", "Régió: Müllerthal", "Fő látnivaló: Schiessentümpel"],
+      ro: ["Râu: Ernz Neagră", "Lungime: aprox. 18 km", "Regiune: Müllerthal", "Atracție: Schiessentümpel"],
+      en: ["River: Black Ernz", "Length: approx. 18 km", "Region: Mullerthal", "Key site: Schiessentümpel"],
+    },
+    image: "/poi-images/luxembourg-black-ernz-valley-relief-v2.webp",
+},  {
     id: "luxembourg-kallektuffquell-relief-v2",
     type: "landmark",
-    name: { de: "Kallektuffquell", hu: "Kallektuffquell", ro: "Kallektuffquell", en: "Kallektuffquell" },
+    name: { de: "Kallektuffquell", hu: "Kallektuffquell", ro: "Kallektuffquell", en: "Kallektuffquell",
+image: "/poi-images/luxembourg-kallektuffquell-relief-v2.webp"
+},
     coords: [6.292, 49.791],
     coordinates: { lat: 49.791, lng: 6.292 },
     description: {
@@ -478,11 +837,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Formare activă de travertin", "Relief acoperit de mușchi", "Apă la constant 8-10 grade", "Formă geologică rară"],
       en: ["Active tuff formation", "Moss-covered relief", "Constant 8-10 degree water", "Rare geological feature"],
     },
-    imageHint: "Kallektuffquell waterfall Müllerthal", image: "/poi-images/luxembourg-kallektuffquell-relief-v2.webp"},
-  {
+imageHint: "Kallektuffquell waterfall Müllerthal",
+    descriptionAdvanced: {
+      de: "Die Kallektuffquell ist eine Kalktuffquelle im Müllerthal. Das kalkhaltige Wasser lagert sich an Moosen ab und bildet so über die Zeit wachsende Felsstrukturen.",
+      hu: "A Kallektuffquell egy mésztufa-forrás a Müllerthalban. A mészben gazdag víz lerakódik a mohákon, így idővel növekvő kőzetstruktúrákat hoz létre.",
+      ro: "Kallektuffquell este o sursă de tuf calcaros în Müllerthal. Apa bogată în calcar se depune pe mușchi, formând structuri de rocă ce cresc în timp.",
+      en: "Kallektuffquell is a lime tuff spring in the Mullerthal. The calcium-rich water deposits onto mosses, creating rock structures that grow over time.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Kalktuffquelle", "Besonderheit: Kristallklares Wasser", "Region: Müllerthal", "Phänomen: Kalksinterbildung"],
+      hu: ["Típus: Mésztufa-forrás", "Jellemző: Kristálytiszta víz", "Régió: Müllerthal", "Jelenség: Mészszinter képződés"],
+      ro: ["Tip: Izvor de tuf calcaros", "Aspect: Apă cristalină", "Regiune: Müllerthal", "Fenomen: Depuneri calcaroase"],
+      en: ["Type: Lime tuff spring", "Feature: Crystal clear water", "Region: Mullerthal", "Process: Sinter formation"],
+    },
+    image: "/poi-images/luxembourg-kallektuffquell-relief-v2.webp",
+},  {
     id: "luxembourg-kuelscheier-relief-v2",
     type: "landmark",
-    name: { de: "Kuelscheier", hu: "Kuelscheier", ro: "Kuelscheier", en: "Kuelscheier" },
+    name: { de: "Kuelscheier", hu: "Kuelscheier", ro: "Kuelscheier", en: "Kuelscheier",
+image: "/poi-images/luxembourg-kuelscheier-relief-v2.webp"
+},
     coords: [6.274, 49.784],
     coordinates: { lat: 49.784, lng: 6.274 },
     description: {
@@ -497,11 +871,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Labirint de stâncă întunecat", "Fante sub 50cm lățime", "Formațiune de gresie", "Traseu de drumeție aventuros"],
       en: ["Dark rock labyrinth", "Crevices under 50cm wide", "Sandstone formation", "Adventurous hiking trail"],
     },
-    imageHint: "Kuelscheier rock labyrinth Luxembourg", image: "/poi-images/luxembourg-kuelscheier-relief-v2.webp"},
-  {
+imageHint: "Kuelscheier rock labyrinth Luxembourg",
+    descriptionAdvanced: {
+      de: "Die Kuelscheier ist ein finsterer Felsspalt bei Consdorf. Die Durchquerung des engen, etwa 100 Meter langen Stollens erfordert zwingend eine Taschenlampe.",
+      hu: "A Kuelscheier egy sötét sziklahasadék Consdorf közelében. A szűk, mintegy 100 méter hosszú folyosón való áthaladáshoz feltétlenül zseblámpára van szükség.",
+      ro: "Kuelscheier este o fisură stâncoasă întunecată lângă Consdorf. Traversarea acestui pasaj îngust de circa 100 de metri necesită neapărat o lanternă.",
+      en: "Kuelscheier is a dark rock crevice near Consdorf. Traversing the narrow, approximately 100-meter-long tunnel absolutely requires a flashlight.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 100 Meter", "Ort: Consdorf", "Name: Kohlescheune", "Zustand: Völlig dunkel"],
+      hu: ["Hossz: kb. 100 méter", "Település: Consdorf", "Név jelentése: Széncsűr", "Állapot: Teljesen sötét"],
+      ro: ["Lungime: aprox. 100 metri", "Localitate: Consdorf", "Însemnătate: Șura de cărbuni", "Condiții: Întuneric total"],
+      en: ["Length: approx. 100 meters", "Town: Consdorf", "Name meaning: Coal barn", "Conditions: Completely dark"],
+    },
+    image: "/poi-images/luxembourg-kuelscheier-relief-v2.webp",
+},  {
     id: "luxembourg-oesling-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Ösling-Plateau", hu: "Ösling-fennsík", ro: "Platoul Oesling", en: "Oesling Plateau" },
+    name: { de: "Ösling-Plateau", hu: "Ösling-fennsík", ro: "Platoul Oesling", en: "Oesling Plateau",
+image: "/poi-images/luxembourg-oesling-plateau-relief-v2.webp"
+},
     coords: [6.0, 50.0],
     coordinates: { lat: 50.0, lng: 6.0 },
     description: {
@@ -517,11 +906,25 @@ export const luxembourgReliefV2: POI[] = [
       en: ["Average height 450-500m", "Geology: clay slate", "Part of the Rhenish Massif", "Wooded highland area"],
     },
     imageHint: "Oesling landscape Luxembourg hills",
+    descriptionAdvanced: {
+      de: "Das Ösling-Plateau im Norden Luxemburgs ist Teil der Ardennen. Es zeichnet sich durch seine Hochflächen auf ca. 450-500 Metern und tief eingeschnittene Täler aus.",
+      hu: "Az Észak-Luxemburgban fekvő Ösling-fennsík az Ardennek része. Jellemzői a 450-500 méter magasan elterülő fennsíkok és a mélyen bevágott folyóvölgyek.",
+      ro: "Platoul Oesling din nordul Luxemburgului face parte din Ardeni. Se caracterizează prin suprafețe înalte la 450-500 metri și văi adânc tăiate.",
+      en: "The Oesling Plateau in northern Luxembourg is part of the Ardennes. It is characterized by high plateaus at 450-500 meters and deeply incised valleys.",
+    },
+    factsAdvanced: {
+      de: ["Region: Luxemburgische Ardennen", "Durchschnittshöhe: 450 m", "Anteil an LUX: ca. 32%", "Gestein: Schiefer"],
+      hu: ["Régió: Luxemburgi Ardennek", "Átlagmagasság: 450 m", "Arány: az ország 32%-a", "Kőzet: Pala"],
+      ro: ["Regiune: Ardenii luxemburghezi", "Altitudine medie: 450 m", "Procent din LUX: aprox. 32%", "Rocă dominantă: Ardezie"],
+      en: ["Region: Luxembourgish Ardennes", "Average height: 450 meters", "LUX area share: approx. 32%", "Rock type: Slate"],
+    },
   },
   {
     id: "luxembourg-stafelter-relief-v2",
     type: "landmark",
-    name: { de: "Stafelter", hu: "Stafelter", ro: "Stafelter", en: "Stafelter" },
+    name: { de: "Stafelter", hu: "Stafelter", ro: "Stafelter", en: "Stafelter",
+image: "/poi-images/luxembourg-stafelter-relief-v2.webp"
+},
     coords: [6.183, 49.664],
     coordinates: { lat: 49.664, lng: 6.183 },
     description: {
@@ -536,11 +939,26 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Gresie luxemburgheză", "Înălțimea platoului aprox. 380m", "Punct de intersecție istoric", "Cumpăna apelor Alzette/Sauer"],
       en: ["Luxembourg sandstone", "Plateau height approx. 380m", "Historical junction point", "Alzette/Sauer watershed"],
     },
-    imageHint: "Stafelter forest plateau Luxembourg", image: "/poi-images/luxembourg-stafelter-relief-v2.webp"},
-  {
+imageHint: "Stafelter forest plateau Luxembourg",
+    descriptionAdvanced: {
+      de: "Der Stafelter ist ein historischer Knotenpunkt auf einem Hochplateau im Grünewald. Hier kreuzten sich wichtige Wege bereits in römischer und mittelalterlicher Zeit.",
+      hu: "A Stafelter egy történelmi csomópont a Grünewald erdő egyik fennsíkján. Itt már a római korban és a középkorban is fontos útvonalak keresztezték egymást.",
+      ro: "Stafelter este un nod istoric pe un platou înalt din pădurea Grünewald. Aici se intersectau drumuri importante încă din epoca romană și medievală.",
+      en: "Stafelter is a historical crossroads on a high plateau in the Grünewald forest. Important routes crossed here as far back as Roman and medieval times.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 413 Meter", "Lage: Grünewald Wald", "Bedeutung: Wegekreuzung", "Nahe Luxemburg-Stadt"],
+      hu: ["Magasság: 413 méter", "Helyszín: Grünewald erdő", "Jelentőség: Útkereszteződés", "Luxemburg város közelében"],
+      ro: ["Altitudine: 413 metri", "Locație: Pădurea Grünewald", "Semnificație: Intersecție istorică", "Lângă capitală"],
+      en: ["Height: 413 meters", "Location: Grünewald forest", "Significance: Ancient crossroads", "Near Luxembourg City"],
+    },
+    image: "/poi-images/luxembourg-stafelter-relief-v2.webp",
+},  {
     id: "luxembourg-bourbon-plateau-relief-v2",
     type: "landmark",
-    name: { de: "Plateau Bourbon", hu: "Bourbon-fennsík", ro: "Platoul Bourbon", en: "Bourbon Plateau" },
+    name: { de: "Plateau Bourbon", hu: "Bourbon-fennsík", ro: "Platoul Bourbon", en: "Bourbon Plateau",
+image: "/poi-images/luxembourg-bourbon-plateau-relief-v2.webp"
+},
     coords: [6.129, 49.602],
     coordinates: { lat: 49.602, lng: 6.129 },
     description: {
@@ -556,11 +974,25 @@ export const luxembourgReliefV2: POI[] = [
       en: ["Opposite the Upper Town", "Bounded by gorges", "Sandstone substrate", "Altitude approx. 310m"],
     },
     imageHint: "Bourbon Plateau Luxembourg City view",
+    descriptionAdvanced: {
+      de: "Das Bourbon-Plateau liegt südlich der Altstadt und bildet den Kern des Bahnhofsviertels. Es wurde Ende des 19. Jahrhunderts nach Schleifung der Festung bebaut.",
+      hu: "A Bourbon-fennsík az óvárostól délre fekszik, és a vasútállomás környékének magvát alkotja. A 19. század végén építették be az erőd lebontása után.",
+      ro: "Platoul Bourbon se află la sud de centrul vechi și constituie nucleul cartierului gării. A fost construit la finele sec. XIX, după demantelarea cetății.",
+      en: "The Bourbon Plateau lies south of the old town and forms the core of the station district. It was developed in the late 19th century after the fortress removal.",
+    },
+    factsAdvanced: {
+      de: ["Stadtteil: Gare", "Epoche: Spätes 19. Jh.", "Architektur: Eklektizismus", "Höhe: Plateau-Niveau"],
+      hu: ["Városrész: Gare (Állomás)", "Korszak: 19. század vége", "Építészet: Eklektika", "Típus: Városi fennsík"],
+      ro: ["Cartier: Gare", "Epocă: Sfârșitul sec. XIX", "Arhitectură: Eclectism", "Relief: Platou urban"],
+      en: ["District: Gare", "Era: Late 19th century", "Architecture: Eclecticism", "Type: Urban plateau"],
+    },
   },
   {
     id: "luxembourg-white-ernz-valley-relief-v2",
     type: "valley",
-    name: { de: "Tal der Weißen Ernz", hu: "Fehér-Ernz völgy", ro: "Valea Ernz Albă", en: "White Ernz Valley" },
+    name: { de: "Tal der Weißen Ernz", hu: "Fehér-Ernz völgy", ro: "Valea Ernz Albă", en: "White Ernz Valley",
+image: "/poi-images/luxembourg-white-ernz-valley-relief-v2.webp"
+},
     coords: [6.195, 49.771],
     coordinates: { lat: 49.771, lng: 6.195 },
     description: {
@@ -576,5 +1008,17 @@ export const luxembourgReliefV2: POI[] = [
       en: ["Marl and limestone soils", "Open valley landscape", "South-north orientation", "Elevation approx. 200-300m"],
     },
     imageHint: "White Ernz Valley Luxembourg landscape",
+    descriptionAdvanced: {
+      de: "Das Tal der Weißen Ernz durchzieht das Zentrum Luxemburgs. Im Gegensatz zur Schwarzen Ernz ist dieses Tal sanfter geformt und wird stark landwirtschaftlich genutzt.",
+      hu: "A Fehér-Ernz völgye Luxemburg központi részén húzódik keresztül. A Fekete-Ernz-zel ellentétben ez a völgy lankásabb, és jelentős mezőgazdasági művelés alatt áll.",
+      ro: "Valea Ernz Albă traversează centrul Luxemburgului. Spre deosebire de Ernz Neagră, această vale are forme mai line și este intens utilizată agricol.",
+      en: "The White Ernz Valley runs through the center of Luxembourg. Unlike the Black Ernz, this valley has gentler slopes and is heavily used for agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Weiße Ernz", "Länge: ca. 30 km", "Region: Gutland", "Mündung: in die Sauer"],
+      hu: ["Folyó: Fehér-Ernz", "Hossz: kb. 30 km", "Régió: Gutland", "Torkolat: Sauer folyó"],
+      ro: ["Râu: Ernz Albă", "Lungime: aprox. 30 km", "Regiune: Gutland", "Vărsare: în râul Sûre"],
+      en: ["River: White Ernz", "Length: approx. 30 km", "Region: Gutland", "Mouth: flows into Sûre"],
+    },
   }
 ];

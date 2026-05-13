@@ -7,7 +7,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-MO",
     coords: [-90.1847, 38.6247],
-    name: { de: "Gateway Arch", hu: "Gateway Arch", ro: "Gateway Arch", en: "Gateway Arch" },
+    name: { de: "Gateway Arch", hu: "Gateway Arch", ro: "Gateway Arch", en: "Gateway Arch",
+image: "/poi-images/gateway-arch-landmarks-v2.webp"
+},
     description: {
       de: "Ein 192 Meter hohes Denkmal in St. Louis, Missouri, das die westliche Expansion der Vereinigten Staaten symbolisiert.",
       hu: "Egy 192 méter magas emlékmű St. Louis-ban, Missouri államban, amely az Egyesült Ãllamok nyugati terjeszkedését szimbolizálja.",
@@ -38,7 +40,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-SD",
     coords: [-103.4591, 43.8791],
-    name: { de: "Mount Rushmore", hu: "Mount Rushmore", ro: "Mount Rushmore", en: "Mount Rushmore" },
+    name: { de: "Mount Rushmore", hu: "Mount Rushmore", ro: "Mount Rushmore", en: "Mount Rushmore",
+image: "/poi-images/mount-rushmore-landmarks-v2.webp"
+},
     description: {
       de: "Eine massive Skulptur, die in den Granitfelsen der Black Hills in South Dakota gemeißelt wurde und vier US-Präsidenten darstellt.",
       hu: "Egy hatalmas szobor a dél-dakotai Black Hills gránitszikláiba faragva, amely négy amerikai elnököt ábrázol.",
@@ -69,7 +73,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-IL",
     coords: [-87.6233, 41.8827],
-    name: { de: "Cloud Gate", hu: "Cloud Gate", ro: "Cloud Gate", en: "Cloud Gate" },
+    name: { de: "Cloud Gate", hu: "Cloud Gate", ro: "Cloud Gate", en: "Cloud Gate",
+image: "/poi-images/cloud-gate-landmarks-v2.webp"
+},
     description: {
       de: "Eine öffentliche Skulptur des britischen Künstlers Anish Kapoor im Millennium Park in Chicago, Illinois. Spitzname 'The Bean'.",
       hu: "Anish Kapoor brit művész köztéri szobra az illinois-i Chicagóban, a Millennium Parkban. Beceneve 'A Bab'.",
@@ -100,7 +106,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-WA",
     coords: [-122.3493, 47.6205],
-    name: { de: "Space Needle", hu: "Space Needle", ro: "Space Needle", en: "Space Needle" },
+    name: { de: "Space Needle", hu: "Space Needle", ro: "Space Needle", en: "Space Needle",
+image: "/poi-images/space-needle-landmarks-v2.webp"
+},
     description: {
       de: "Ein Aussichtsturm in Seattle, Washington, der für die Weltausstellung 1962 gebaut wurde.",
       hu: "Egy kilátótorony Seattle-ben, Washington államban, amelyet az 1962-es világkiállításra építettek.",
@@ -131,7 +139,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-AZ",
     coords: [-114.7377, 36.0162],
-    name: { de: "Hoover-Staudamm", hu: "Hoover-gát", ro: "Barajul Hoover", en: "Hoover Dam" },
+    name: { de: "Hoover-Staudamm", hu: "Hoover-gát", ro: "Barajul Hoover", en: "Hoover Dam",
+image: "/poi-images/hoover-dam-landmarks-v2.webp"
+},
     description: {
       de: "Ein Beton-Bogengewichtsdamm im Black Canyon des Colorado River, an der Grenze zwischen Nevada und Arizona.",
       hu: "Egy beton íves-gát a Colorado-folyó Fekete-kanyonjában, Nevada és Arizona határán.",
@@ -162,7 +172,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-MA",
     coords: [-71.0565, 42.3601],
-    name: { de: "Faneuil Hall", hu: "Faneuil Hall", ro: "Faneuil Hall", en: "Faneuil Hall" },
+    name: { de: "Faneuil Hall", hu: "Faneuil Hall", ro: "Faneuil Hall", en: "Faneuil Hall",
+image: "/poi-images/faneuil-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein Marktplatz und eine Versammlungshalle in der Nähe des Hafens in Boston, Massachusetts. Teil des Freedom Trail.",
       hu: "Egy piactér és gyűlésterem Bostonban, Massachusetts államban, a kikötő közelében. A Freedom Trail része.",
@@ -193,7 +205,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-CA",
     coords: [-118.3215, 34.1341],
-    name: { de: "Hollywood Sign", hu: "Hollywood Felirat", ro: "Semnul Hollywood", en: "Hollywood Sign" },
+    name: { de: "Hollywood Sign", hu: "Hollywood Felirat", ro: "Semnul Hollywood", en: "Hollywood Sign",
+image: "/poi-images/hollywood-sign-landmarks-v2.webp"
+},
     description: {
       de: "Ein berühmtes Wahrzeichen und amerikanisches Kultursymbol in den Hollywood Hills in Los Angeles, Kalifornien.",
       hu: "Egy híres jelkép és amerikai kulturális ikon a Hollywood Hills-ben, Los Angelesben, Kaliforniában.",
@@ -224,7 +238,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-DC",
     coords: [-77.0502, 38.8893],
-    name: { de: "Lincoln Memorial", hu: "Lincoln-emlékmű", ro: "Memorialul Lincoln", en: "Lincoln Memorial" },
+    name: { de: "Lincoln Memorial", hu: "Lincoln-emlékmű", ro: "Memorialul Lincoln", en: "Lincoln Memorial",
+image: "/poi-images/lincoln-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein amerikanisches Nationaldenkmal, das zu Ehren des 16. Präsidenten der Vereinigten Staaten, Abraham Lincoln, errichtet wurde.",
       hu: "Egy amerikai nemzeti emlékmű, amelyet Abraham Lincoln, az Egyesült Ãllamok 16. elnökének tiszteletére emeltek.",
@@ -255,7 +271,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-DC",
     coords: [-77.0353, 38.8895],
-    name: { de: "Washington Monument", hu: "Washington-emlékmű", ro: "Monumentul Washington", en: "Washington Monument" },
+    name: { de: "Washington Monument", hu: "Washington-emlékmű", ro: "Monumentul Washington", en: "Washington Monument",
+image: "/poi-images/washington-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein Obelisk an der National Mall in Washington, D.C., erbaut zu Ehren von George Washington.",
       hu: "Egy obeliszk a washingtoni National Mall-on, amelyet George Washington tiszteletére emeltek.",
@@ -286,7 +304,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9857, 40.7484],
-    name: { de: "Empire State Building", hu: "Empire State Building", ro: "Empire State Building", en: "Empire State Building" },
+    name: { de: "Empire State Building", hu: "Empire State Building", ro: "Empire State Building", en: "Empire State Building",
+image: "/poi-images/empire-state-building-landmarks-v2.webp"
+},
     description: {
       de: "Ein 102-stöckiger Art-Deco-Wolkenkratzer in Midtown Manhattan, New York City.",
       hu: "Egy 102 emeletes Art Deco felhőkarcoló Midtown Manhattanben, New York Cityben.",
@@ -317,7 +337,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-74.0134, 40.7127],
-    name: { de: "One World Trade Center", hu: "One World Trade Center", ro: "One World Trade Center", en: "One World Trade Center" },
+    name: { de: "One World Trade Center", hu: "One World Trade Center", ro: "One World Trade Center", en: "One World Trade Center",
+image: "/poi-images/one-world-trade-center-landmarks-v2.webp"
+},
     description: {
       de: "Das Hauptgebäude des wiederaufgebauten World Trade Center Komplexes in Lower Manhattan, New York City.",
       hu: "Az újjáépített World Trade Center komplexum főépülete Alsó-Manhattanben, New York Cityben.",
@@ -348,7 +370,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9755, 40.7516],
-    name: { de: "Chrysler Building", hu: "Chrysler Building", ro: "Chrysler Building", en: "Chrysler Building" },
+    name: { de: "Chrysler Building", hu: "Chrysler Building", ro: "Chrysler Building", en: "Chrysler Building",
+image: "/poi-images/chrysler-building-landmarks-v2.webp"
+},
     description: {
       de: "Ein Art-Deco-Wolkenkratzer an der East Side von Midtown Manhattan, New York City.",
       hu: "Egy Art Deco felhőkarcoló Midtown Manhattan keleti oldalán, New York Cityben.",
@@ -379,7 +403,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-IL",
     coords: [-87.6359, 41.8789],
-    name: { de: "Willis Tower", hu: "Willis Tower", ro: "Willis Tower", en: "Willis Tower" },
+    name: { de: "Willis Tower", hu: "Willis Tower", ro: "Willis Tower", en: "Willis Tower",
+image: "/poi-images/willis-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein 110-stöckiger Wolkenkratzer in Chicago, Illinois. Ehemals bekannt als Sears Tower.",
       hu: "Egy 110 emeletes felhőkarcoló Chicagóban, Illinois államban. Korábban Sears Tower néven volt ismert.",
@@ -410,7 +436,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-FL",
     coords: [-80.649, 28.5729],
-    name: { de: "Kennedy Space Center", hu: "Kennedy Űrközpont", ro: "Centrul Spațial Kennedy", en: "Kennedy Space Center" },
+    name: { de: "Kennedy Space Center", hu: "Kennedy Űrközpont", ro: "Centrul Spațial Kennedy", en: "Kennedy Space Center",
+image: "/poi-images/kennedy-space-center-landmarks-v2.webp"
+},
     description: {
       de: "Der primäre Startplatz der NASA für menschliche Raumflüge seit 1968.",
       hu: "A NASA elsődleges kilövőállomása az emberes űrrepülésekhez 1968 óta.",
@@ -441,7 +469,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9772, 40.7527],
-    name: { de: "Grand Central Terminal", hu: "Grand Central Terminal", ro: "Grand Central Terminal", en: "Grand Central Terminal" },
+    name: { de: "Grand Central Terminal", hu: "Grand Central Terminal", ro: "Grand Central Terminal", en: "Grand Central Terminal",
+image: "/poi-images/grand-central-terminal-landmarks-v2.webp"
+},
     description: {
       de: "Ein Pendlerbahnhof in Midtown Manhattan, New York City. Bekannt für seine Beaux-Arts-Architektur.",
       hu: "Egy ingázó vasútállomás Midtown Manhattanben, New York Cityben. Híres a Beaux-Arts építészetéről.",
@@ -472,7 +502,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "historical",
     parent: "US-PA",
     coords: [-77.2346, 39.8140],
-    name: { de: "Gettysburg Battlefield", hu: "Gettysburgi csatatér", ro: "Câmpul de luptă de la Gettysburg", en: "Gettysburg Battlefield" },
+    name: { de: "Gettysburg Battlefield", hu: "Gettysburgi csatatér", ro: "Câmpul de luptă de la Gettysburg", en: "Gettysburg Battlefield",
+image: "/poi-images/gettysburg-battlefield-landmarks-v2.webp"
+},
     description: {
       de: "Der Ort der Schlacht von Gettysburg während des Amerikanischen Bürgerkriegs im Juli 1863.",
       hu: "A gettysburgi csata helyszíne az amerikai polgárháború idején, 1863 júliusában.",
@@ -503,7 +535,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "historical",
     parent: "US-TX",
     coords: [-98.4861, 29.4260],
-    name: { de: "Das Alamo", hu: "Az Alamo", ro: "Alamo", en: "The Alamo" },
+    name: { de: "Das Alamo", hu: "Az Alamo", ro: "Alamo", en: "The Alamo",
+image: "/poi-images/the-alamo-landmarks-v2.webp"
+},
     description: {
       de: "Eine ehemalige spanische Mission und Festung in San Antonio, Texas, bekannt für die Schlacht von Alamo 1836.",
       hu: "Egykori spanyol misszió és erőd San Antonióban, Texasban, amely az 1836-os Alamo-i csatáról híres.",
@@ -534,7 +568,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NV",
     coords: [-115.1728, 36.1147],
-    name: { de: "Las Vegas Strip", hu: "Las Vegas Strip", ro: "Las Vegas Strip", en: "Las Vegas Strip" },
+    name: { de: "Las Vegas Strip", hu: "Las Vegas Strip", ro: "Las Vegas Strip", en: "Las Vegas Strip",
+image: "/poi-images/las-vegas-strip-landmarks-v2.webp"
+},
     description: {
       de: "Ein Abschnitt des Las Vegas Boulevard in Nevada, bekannt für seine Konzentration von Luxushotels und Casinos.",
       hu: "A Las Vegas Boulevard egy szakasza Nevadában, amely luxusszállodáiról és kaszinóiról ismert.",
@@ -565,7 +601,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9855, 40.7580],
-    name: { de: "Times Square", hu: "Times Square", ro: "Times Square", en: "Times Square" },
+    name: { de: "Times Square", hu: "Times Square", ro: "Times Square", en: "Times Square",
+image: "/poi-images/times-square-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiger kommerzieller Knotenpunkt, Touristenziel und Unterhaltungszentrum in Midtown Manhattan, New York City.",
       hu: "Egy fontos kereskedelmi csomópont, turisztikai célpont és szórakoztató központ Midtown Manhattanben, New York Cityben.",
@@ -596,7 +634,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-MA",
     coords: [-71.0972, 42.3467],
-    name: { de: "Fenway Park", hu: "Fenway Park", ro: "Fenway Park", en: "Fenway Park" },
+    name: { de: "Fenway Park", hu: "Fenway Park", ro: "Fenway Park", en: "Fenway Park",
+image: "/poi-images/fenway-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein Baseballstadion in Boston, Massachusetts. Heimat der Boston Red Sox seit 1912.",
       hu: "Egy baseball stadion Bostonban, Massachusetts államban. A Boston Red Sox otthona 1912 óta.",
@@ -627,7 +667,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-IL",
     coords: [-87.6553, 41.9484],
-    name: { de: "Wrigley Field", hu: "Wrigley Field", ro: "Wrigley Field", en: "Wrigley Field" },
+    name: { de: "Wrigley Field", hu: "Wrigley Field", ro: "Wrigley Field", en: "Wrigley Field",
+image: "/poi-images/wrigley-field-landmarks-v2.webp"
+},
     description: {
       de: "Ein Baseballstadion auf der Nordseite von Chicago, Illinois. Heimat der Chicago Cubs.",
       hu: "Egy baseball stadion Chicago északi oldalán, Illinois államban. A Chicago Cubs otthona.",
@@ -658,7 +700,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9935, 40.7505],
-    name: { de: "Madison Square Garden", hu: "Madison Square Garden", ro: "Madison Square Garden", en: "Madison Square Garden" },
+    name: { de: "Madison Square Garden", hu: "Madison Square Garden", ro: "Madison Square Garden", en: "Madison Square Garden",
+image: "/poi-images/madison-square-garden-landmarks-v2.webp"
+},
     description: {
       de: "Eine Mehrzweck-Indoor-Arena in Midtown Manhattan, New York City. Oft als 'MSG' oder 'The Garden' bezeichnet.",
       hu: "Egy többcélú fedett aréna Midtown Manhattanben, New York Cityben. Gyakran 'MSG'-ként vagy 'The Garden'-ként emlegetik.",
@@ -689,7 +733,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-74.0125, 40.7115],
-    name: { de: "National September 11 Memorial", hu: "Nemzeti Szeptember 11-i Emlékhely", ro: "Memorialul Național 11 Septembrie", en: "National September 11 Memorial" },
+    name: { de: "National September 11 Memorial", hu: "Nemzeti Szeptember 11-i Emlékhely", ro: "Memorialul Național 11 Septembrie", en: "National September 11 Memorial",
+image: "/poi-images/national-september-11-memorial-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal und Museum in New York City, das an die Anschläge vom 11. September 2001 erinnert.",
       hu: "Egy emlékhely és múzeum New York Cityben, amely a 2001. szeptember 11-i terrortámadásokra emlékezik.",
@@ -720,7 +766,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-DC",
     coords: [-77.0091, 38.8899],
-    name: { de: "Kapitol der Vereinigten Staaten", hu: "Az Amerikai Egyesült Ãllamok Capitoliuma", ro: "Capitoliul Statelor Unite", en: "United States Capitol" },
+    name: { de: "Kapitol der Vereinigten Staaten", hu: "Az Amerikai Egyesült Ãllamok Capitoliuma", ro: "Capitoliul Statelor Unite", en: "United States Capitol",
+image: "/poi-images/us-capitol-landmarks-v2.webp"
+},
     description: {
       de: "Das Parlamentsgebäude des Kongresses der Vereinigten Staaten, auf dem Capitol Hill in Washington, D.C.",
       hu: "Az Amerikai Egyesült Ãllamok Kongresszusának székhelye a Capitol Hillen, Washington D.C.-ben.",
@@ -751,7 +799,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-DC",
     coords: [-77.0365, 38.8977],
-    name: { de: "Weißes Haus", hu: "Fehér Ház", ro: "Casa Albă", en: "White House" },
+    name: { de: "Weißes Haus", hu: "Fehér Ház", ro: "Casa Albă", en: "White House",
+image: "/poi-images/white-house-landmarks-v2.webp"
+},
     description: {
       de: "Die offizielle Residenz und der Hauptarbeitsplatz des Präsidenten der Vereinigten Staaten.",
       hu: "Az Amerikai Egyesült Ãllamok elnökének hivatalos lakóhelye és elsődleges munkahelye.",
@@ -782,7 +832,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "historical",
     parent: "US-PA",
     coords: [-75.1500, 39.9489],
-    name: { de: "Independence Hall", hu: "Independence Hall", ro: "Independence Hall", en: "Independence Hall" },
+    name: { de: "Independence Hall", hu: "Independence Hall", ro: "Independence Hall", en: "Independence Hall",
+image: "/poi-images/independence-hall-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude in Philadelphia, in dem sowohl die Unabhängigkeitserklärung als auch die Verfassung der Vereinigten Staaten debattiert und verabschiedet wurden.",
       hu: "Egy történelmi épület Philadelphiában, ahol a Függetlenségi Nyilatkozatot és az Alkotmányt is megvitatták és elfogadták.",
@@ -813,7 +865,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "historical",
     parent: "US-PA",
     coords: [-75.1503, 39.9496],
-    name: { de: "Liberty Bell", hu: "Szabadság-harang", ro: "Clopotul Libertății", en: "Liberty Bell" },
+    name: { de: "Liberty Bell", hu: "Szabadság-harang", ro: "Clopotul Libertății", en: "Liberty Bell",
+image: "/poi-images/liberty-bell-landmarks-v2.webp"
+},
     description: {
       de: "Eine ikonische Glocke in Philadelphia, Pennsylvania, die ein Symbol der amerikanischen Unabhängigkeit ist.",
       hu: "Egy ikonikus harang Philadelphiában, Pennsylvania államban, amely az amerikai függetlenség szimbóluma.",
@@ -844,7 +898,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9761, 40.7585],
-    name: { de: "St. Patrick's Cathedral", hu: "Szent Patrik-székesegyház", ro: "Catedrala Sf. Patrick", en: "St. Patrick's Cathedral" },
+    name: { de: "St. Patrick's Cathedral", hu: "Szent Patrik-székesegyház", ro: "Catedrala Sf. Patrick", en: "St. Patrick's Cathedral",
+image: "/poi-images/st-patricks-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Eine geschmückte neugotische römisch-katholische Kathedrale in Midtown Manhattan, New York City.",
       hu: "Egy díszes neogótikus római katolikus székesegyház Midtown Manhattanben, New York Cityben.",
@@ -875,7 +931,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-NY",
     coords: [-73.9969, 40.7061],
-    name: { de: "Brooklyn Bridge", hu: "Brooklyn híd", ro: "Podul Brooklyn", en: "Brooklyn Bridge" },
+    name: { de: "Brooklyn Bridge", hu: "Brooklyn híd", ro: "Podul Brooklyn", en: "Brooklyn Bridge",
+image: "/poi-images/brooklyn-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine Hybrid-Schrägseil-/Hängebrücke in New York City, die die Stadtteile Manhattan und Brooklyn verbindet.",
       hu: "Egy hibrid kábel-/függőhíd New York Cityben, amely Manhattan és Brooklyn városrészeket köti össze.",
@@ -906,7 +964,9 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-CA",
     coords: [-118.3392, 34.1128],
-    name: { de: "Hollywood Bowl", hu: "Hollywood Bowl", ro: "Hollywood Bowl", en: "Hollywood Bowl" },
+    name: { de: "Hollywood Bowl", hu: "Hollywood Bowl", ro: "Hollywood Bowl", en: "Hollywood Bowl",
+image: "/poi-images/hollywood-bowl-landmarks-v2.webp"
+},
     description: {
       de: "Ein berühmtes Amphitheater in den Hollywood Hills von Los Angeles, Kalifornien, das für seine markante konzentrische Bogenstruktur bekannt ist.",
       hu: "Egy híres amfiteátrum a kaliforniai Los Angeles Hollywood Hills negyedében, amely jellegzetes koncentrikus ívszerkezetéről ismert.",

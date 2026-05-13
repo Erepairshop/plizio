@@ -6,7 +6,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "port",
     parent: "TM-B",
     coords: [52.98, 40.01],
-    name: { de: "Internationaler Seehafen Türkmenbaşy", hu: "Türkmenbaşy Nemzetközi Tengeri Kikötő", ro: "Portul Maritim Internațional Türkmenbașî", en: "Turkmenbashi International Seaport" },
+    name: { de: "Internationaler Seehafen Türkmenbaşy", hu: "Türkmenbaşy Nemzetközi Tengeri Kikötő", ro: "Portul Maritim Internațional Türkmenbașî", en: "Turkmenbashi International Seaport",
+image: "/poi-images/turkmenbashi-seaport-economic-v2.webp"
+},
     description: {
       de: "Der größte Hafen Turkmenistans am Kaspischen Meer, ein wichtiger Knotenpunkt für den internationalen Handel.",
       hu: "Türkmenisztán legnagyobb kikötője a Kaszpi-tengeren, a nemzetközi kereskedelem fontos csomópontja.",
@@ -24,7 +26,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "energy",
     parent: "TM-M",
     coords: [62.34, 37.03],
-    name: { de: "Galkynysch-Gasfeld", hu: "Galkinis-gázmező", ro: "Câmpul de Gaze Galkînîș", en: "Galkynysh Gas Field" },
+    name: { de: "Galkynysch-Gasfeld", hu: "Galkinis-gázmező", ro: "Câmpul de Gaze Galkînîș", en: "Galkynysh Gas Field",
+image: "/poi-images/galkynysh-gas-field-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Erdgasfelder der Welt, das eine zentrale Rolle in der Energieexportstrategie des Landes spielt.",
       hu: "A világ egyik legnagyobb földgázmezője, amely központi szerepet játszik az ország energiaexport-stratégiájában.",
@@ -42,7 +46,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-B",
     coords: [52.99, 40.03],
-    name: { de: "Erdölraffinerie Türkmenbaşy", hu: "Türkmenbaşy Kőolaj-finomító", ro: "Rafinăria de Petrol Türkmenbașî", en: "Turkmenbashi Oil Refinery" },
+    name: { de: "Erdölraffinerie Türkmenbaşy", hu: "Türkmenbaşy Kőolaj-finomító", ro: "Rafinăria de Petrol Türkmenbașî", en: "Turkmenbashi Oil Refinery",
+image: "/poi-images/turkmenbashi-oil-refinery-economic-v2.webp"
+},
     description: {
       de: "Der größte petrochemische Komplex des Landes, der eine Vielzahl von Öl- und Gasprodukten herstellt.",
       hu: "Az ország legnagyobb petrolkémiai komplexuma, amely kőolaj- és gáztermékek széles skáláját állítja elő.",
@@ -61,7 +67,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-B",
     coords: [52.79, 40.05],
-    name: { de: "Polymerwerk Kiyanly", hu: "Gyýanly Polimergyár", ro: "Uzina de Polimeri Kiyanly", en: "Kiyanly Polymer Plant" },
+    name: { de: "Polymerwerk Kiyanly", hu: "Gyýanly Polimergyár", ro: "Uzina de Polimeri Kiyanly", en: "Kiyanly Polymer Plant",
+image: "/poi-images/kiyanly-polymer-plant-economic-v2.webp"
+},
     description: {
       de: "Eine moderne Industrieanlage an der Küste, die Erdgas in hochwertige Kunststoffe umwandelt.",
       hu: "Modern tengerparti ipari létesítmény, amely földgázt alakít át kiváló minőségű műanyaggá.",
@@ -79,7 +87,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "energy",
     parent: "TM-M",
     coords: [61.85, 37.60],
-    name: { de: "Staatliches Kraftwerk Mary", hu: "Mary Állami Hőerőmű", ro: "Centrala Electrică de Stat Mary", en: "Mary State Power Plant" },
+    name: { de: "Staatliches Kraftwerk Mary", hu: "Mary Állami Hőerőmű", ro: "Centrala Electrică de Stat Mary", en: "Mary State Power Plant",
+image: "/poi-images/mary-state-power-plant-economic-v2.webp"
+},
     description: {
       de: "Das größte Kraftwerk Turkmenistans, das einen Großteil der elektrischen Energie für das Land liefert.",
       hu: "Türkmenisztán legnagyobb erőműve, amely az ország villamos energiájának nagy részét szolgáltatja.",
@@ -97,7 +107,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "energy",
     parent: "TM-L",
     coords: [65.20, 38.30],
-    name: { de: "Bagtyýarlyk-Gasfeld", hu: "Bagtyýarlyk-gázmező", ro: "Câmpul de Gaze Bagtyýarlyk", en: "Bagtyyarlyk Gas Field" },
+    name: { de: "Bagtyýarlyk-Gasfeld", hu: "Bagtyýarlyk-gázmező", ro: "Câmpul de Gaze Bagtyýarlyk", en: "Bagtyyarlyk Gas Field",
+image: "/poi-images/bagtyyarlyk-gas-field-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Gasfeld am rechten Ufer des Amudarja, das Hauptlieferant für die Gaspipeline nach China ist.",
       hu: "Jelentős gázmező az Amu-darja jobb partján, amely a Kínába vezető gázvezeték fő szállítója.",
@@ -115,7 +127,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "mine",
     parent: "TM-L",
     coords: [66.33, 37.53],
-    name: { de: "Kaliumbergwerk Garlyk", hu: "Garlyk Kálisóbánya", ro: "Mina de Potasiu Garlyk", en: "Garlyk Potash Mine" },
+    name: { de: "Kaliumbergwerk Garlyk", hu: "Garlyk Kálisóbánya", ro: "Mina de Potasiu Garlyk", en: "Garlyk Potash Mine",
+image: "/poi-images/garlyk-potash-mine-economic-v2.webp"
+},
     description: {
       de: "Ein großer Bergbaukomplex zur Gewinnung von Kalidüngemitteln, der die landwirtschaftliche Unabhängigkeit stärkt.",
       hu: "Nagy bányászati komplexum káliumműtrágya kitermelésére, amely erősíti a mezőgazdasági függetlenséget.",
@@ -133,7 +147,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-A",
     coords: [58.21, 38.08],
-    name: { de: "Glasfabrik Türkmen aýna önümleri", hu: "Türkmen aýna önümleri Üveggyár", ro: "Fabrica de Sticlă Türkmen aýna önümleri", en: "Türkmen aýna önümleri Glass Factory" },
+    name: { de: "Glasfabrik Türkmen aýna önümleri", hu: "Türkmen aýna önümleri Üveggyár", ro: "Fabrica de Sticlă Türkmen aýna önümleri", en: "Türkmen aýna önümleri Glass Factory",
+image: "/poi-images/ovadandepe-glass-factory-economic-v2.webp"
+},
     description: {
       de: "Ein modernes Werk in Ovadandepe, das Flachglas und Glasbehälter für den Inlands- und Exportmarkt produziert.",
       hu: "Modern gyár Ovadandepében, amely síküveget és üvegedényeket gyárt a hazai és exportpiacokra.",
@@ -151,7 +167,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-A",
     coords: [58.20, 38.09],
-    name: { de: "Gas-to-Liquid-Anlage Ovadandepe", hu: "Ovadandepe Földgáz-üzemanyag Gyár", ro: "Uzina Gas-to-Liquid Ovadandepe", en: "Ovadandepe Gas-to-Liquid Plant" },
+    name: { de: "Gas-to-Liquid-Anlage Ovadandepe", hu: "Ovadandepe Földgáz-üzemanyag Gyár", ro: "Uzina Gas-to-Liquid Ovadandepe", en: "Ovadandepe Gas-to-Liquid Plant",
+image: "/poi-images/ovadandepe-gtg-plant-economic-v2.webp"
+},
     description: {
       de: "Eine weltweit einzigartige Anlage, die Erdgas im industriellen Maßstab direkt in umweltfreundliches Benzin umwandelt.",
       hu: "Világviszonylatban is egyedülálló üzem, amely ipari méretekben alakítja át a földgázt környezetbarát benzinné.",
@@ -169,7 +187,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "energy",
     parent: "TM-A",
     coords: [58.25, 38.10],
-    name: { de: "Staatliches Kraftwerk Ahal", hu: "Ahal Állami Erőmű", ro: "Centrala Electrică de Stat Ahal", en: "Ahal State Power Plant" },
+    name: { de: "Staatliches Kraftwerk Ahal", hu: "Ahal Állami Erőmű", ro: "Centrala Electrică de Stat Ahal", en: "Ahal State Power Plant",
+image: "/poi-images/ahal-state-power-plant-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige Energieerzeugungsanlage, die die Hauptstadt Aschgabat und die umliegende Ahal-Region mit Strom versorgt.",
       hu: "Fontos energiatermelő létesítmény, amely a fővárost, Aşgabatot és a környező Ahal régiót látja el árammal.",
@@ -187,7 +207,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-D",
     coords: [59.97, 41.83],
-    name: { de: "Baumwollspinnerei Daşoguz", hu: "Daşoguz Pamutfonó Üzem", ro: "Filatura de Bumbac din Dașoguz", en: "Dashoguz Cotton Spinning Mill" },
+    name: { de: "Baumwollspinnerei Daşoguz", hu: "Daşoguz Pamutfonó Üzem", ro: "Filatura de Bumbac din Dașoguz", en: "Dashoguz Cotton Spinning Mill",
+image: "/poi-images/dashoguz-cotton-mill-economic-v2.webp"
+},
     description: {
       de: "Eine große Textilfabrik im Norden des Landes, die die lokal angebaute Baumwolle zu hochwertigen Garnen verarbeitet.",
       hu: "Nagy textilgyár az ország északi részén, amely a helyben termesztett pamutot kiváló minőségű fonallá dolgozza fel.",
@@ -205,7 +227,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-B",
     coords: [54.36, 39.51],
-    name: { de: "Jodfabrik Balkanabat", hu: "Balkanabat Jódgyár", ro: "Fabrica de Iod Balkanabat", en: "Balkanabat Iodine Plant" },
+    name: { de: "Jodfabrik Balkanabat", hu: "Balkanabat Jódgyár", ro: "Fabrica de Iod Balkanabat", en: "Balkanabat Iodine Plant",
+image: "/poi-images/balkanabat-iodine-plant-economic-v2.webp"
+},
     description: {
       de: "Ein chemisches Werk, das wertvolles technisches Jod aus dem stark mineralisierten Grundwasser der Wüste extrahiert.",
       hu: "Vegyipari üzem, amely értékes technikai jódot von ki a sivatag erősen mineralizált talajvizéből.",
@@ -223,7 +247,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-B",
     coords: [53.07, 39.43],
-    name: { de: "Chemiewerk Hazar", hu: "Hazar Vegyiművek", ro: "Uzina Chimică Hazar", en: "Hazar Chemical Plant" },
+    name: { de: "Chemiewerk Hazar", hu: "Hazar Vegyiművek", ro: "Uzina Chimică Hazar", en: "Hazar Chemical Plant",
+image: "/poi-images/hazar-chemical-plant-economic-v2.webp"
+},
     description: {
       de: "Eine am Kaspischen Meer gelegene Anlage zur Produktion von chemischen Grundstoffen wie Jod und Brom.",
       hu: "A Kaszpi-tenger partján fekvő üzem, amely alapvető vegyi anyagokat, például jódot és brómot állít elő.",
@@ -241,7 +267,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-S",
     coords: [58.37, 37.95],
-    name: { de: "Textilkomplex Aşgabat", hu: "Aşgabati Textilkomplexum", ro: "Complexul Textil Așgabat", en: "Ashgabat Textile Complex" },
+    name: { de: "Textilkomplex Aşgabat", hu: "Aşgabati Textilkomplexum", ro: "Complexul Textil Așgabat", en: "Ashgabat Textile Complex",
+image: "/poi-images/ashgabat-textile-complex-economic-v2.webp"
+},
     description: {
       de: "Eines der modernsten Textilunternehmen in Zentralasien, das den gesamten Prozess von der Baumwolle bis zur Kleidung abdeckt.",
       hu: "Közép-Ázsia egyik legmodernebb textilipari vállalata, amely a pamuttól a ruházati cikkekig a teljes folyamatot lefedi.",
@@ -259,7 +287,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-L",
     coords: [66.15, 37.62],
-    name: { de: "Zementfabrik Lebap", hu: "Lebap Cementgyár", ro: "Fabrica de Ciment Lebap", en: "Lebap Cement Plant" },
+    name: { de: "Zementfabrik Lebap", hu: "Lebap Cementgyár", ro: "Fabrica de Ciment Lebap", en: "Lebap Cement Plant",
+image: "/poi-images/lebap-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Werk in Koytendag, das Baumaterialien für die rasch wachsende Infrastruktur des Landes liefert.",
       hu: "Jelentős üzem Koytendagban, amely építőanyagokat szállít az ország gyorsan fejlődő infrastruktúrájához.",
@@ -277,7 +307,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "energy",
     parent: "TM-M",
     coords: [61.12, 36.85],
-    name: { de: "Dauletabad-Gasfeld", hu: "Döwletabat-gázmező", ro: "Câmpul de Gaze Döwletabat", en: "Dowletabat Gas Field" },
+    name: { de: "Dauletabad-Gasfeld", hu: "Döwletabat-gázmező", ro: "Câmpul de Gaze Döwletabat", en: "Dowletabat Gas Field",
+image: "/poi-images/dowletabat-gas-field-economic-v2.webp"
+},
     description: {
       de: "Ein großes, historisch bedeutsames Gasfeld in der Mary-Region, das jahrzehntelang den Export nach Norden sicherstellte.",
       hu: "Nagy, történelmi jelentőségű gázmező a Mary régióban, amely évtizedekig biztosította az északi irányú exportot.",
@@ -295,7 +327,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "industry",
     parent: "TM-L",
     coords: [63.56, 39.08],
-    name: { de: "Seidenfabrik Türkmenabat", hu: "Türkmenabat Selyemgyár", ro: "Fabrica de Mătase Türkmenabat", en: "Turkmenabat Silk Factory" },
+    name: { de: "Seidenfabrik Türkmenabat", hu: "Türkmenabat Selyemgyár", ro: "Fabrica de Mătase Türkmenabat", en: "Turkmenabat Silk Factory",
+image: "/poi-images/turkmenabat-silk-factory-economic-v2.webp"
+},
     description: {
       de: "Ein traditionsreiches Unternehmen, das Seidenraupenkokons zu feinen Seidenfäden und traditionellen turkmenischen Stoffen verarbeitet.",
       hu: "Nagy múltú vállalat, amely selyemhernyó-gubókat finom selyemszálakká és hagyományos türkmén szövetekké dolgoz fel.",
@@ -313,7 +347,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "TM-L",
     coords: [63.60, 39.14],
-    name: { de: "Handelszone Serhetýaka", hu: "Serhetýaka Kereskedelmi Zóna", ro: "Zona Comercială Serhetýaka", en: "Serhetyaka Trade Hub" },
+    name: { de: "Handelszone Serhetýaka", hu: "Serhetýaka Kereskedelmi Zóna", ro: "Zona Comercială Serhetýaka", en: "Serhetyaka Trade Hub",
+image: "/poi-images/farap-trade-hub-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Logistik- und Handelszentrum nahe der Grenze zu Iran, das den grenzüberschreitenden Warenaustausch fördert.",
       hu: "Fontos logisztikai és kereskedelmi központ az iráni határ közelében, amely elősegíti a határokon átnyúló árucserét.",
@@ -331,7 +367,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "energy",
     parent: "TM-B",
     coords: [54.12, 38.45],
-    name: { de: "Korpedje-Gasfeld", hu: "Körpeje-gázmező", ro: "Câmpul de Gaze Korpeje", en: "Korpeje Gas Field" },
+    name: { de: "Korpedje-Gasfeld", hu: "Körpeje-gázmező", ro: "Câmpul de Gaze Korpeje", en: "Korpeje Gas Field",
+image: "/poi-images/korpeje-gas-field-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Gas- und Kondensatfeld im Westen Turkmenistans, das auch Erdgas für den Export in den Iran liefert.",
       hu: "Fontos gáz- és kondenzátummező Nyugat-Türkmenisztánban, amely Iránba is exportál földgázt.",
@@ -349,7 +387,9 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     type: "mine",
     parent: "TM-B",
     coords: [52.82, 41.56],
-    name: { de: "Sulfatwerk Garabogazköl", hu: "Garabogazköl Szulfátüzem", ro: "Uzina de Sulfați Garabogazköl", en: "Garabogazkol Sulfate Plant" },
+    name: { de: "Sulfatwerk Garabogazköl", hu: "Garabogazköl Szulfátüzem", ro: "Uzina de Sulfați Garabogazköl", en: "Garabogazkol Sulfate Plant",
+image: "/poi-images/garabogaz-sulfate-plant-economic-v2.webp"
+},
     description: {
       de: "Eine chemische Anlage an der flachen Bucht des Kaspischen Meeres, die große Mengen an Natriumsulfat aus dem salzigen Wasser gewinnt.",
       hu: "Vegyipari üzem a Kaszpi-tenger sekély öblében, amely nagy mennyiségű nátrium-szulfátot nyer ki a sós vízből.",

@@ -10,8 +10,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Königin-Elisabeth-II.-Kai",
       hu: "II. Erzsébet királynő rakpart",
       ro: "Mollul Regina Elisabeta a II-a",
-      en: "Queen Elizabeth II Quay"
-    },
+      en: "Queen Elizabeth II Quay",
+image: "/poi-images/queen-elizabeth-ii-quay-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Seehafen von Sierra Leone in Freetown, der den Großteil des internationalen Handels des Landes abwickelt.",
       hu: "Sierra Leone legfontosabb tengeri kikötője Freetownban, amely az ország nemzetközi kereskedelmének nagy részét bonyolítja.",
@@ -49,8 +50,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Hafen von Pepel",
       hu: "Pepel kikötője",
       ro: "Portul Pepel",
-      en: "Pepel Port"
-    },
+      en: "Pepel Port",
+image: "/poi-images/pepel-port-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Exporthafen am Sierra Leone River, der hauptsächlich für die Verschiffung von Eisenerz aus den Marampa-Minen dient.",
       hu: "Egy speciális exportkikötő a Sierra Leone-folyón, amely főként a Marampa bányákból származó vashérc szállítására szolgál.",
@@ -88,8 +90,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Marampa-Eisenerzmine",
       hu: "Marampa vashércbánya",
       ro: "Mina de minereu de fier Marampa",
-      en: "Marampa Iron Ore Mine"
-    },
+      en: "Marampa Iron Ore Mine",
+image: "/poi-images/marampa-mine-economic-v2.webp"
+},
     description: {
       de: "Eine der ältesten und bedeutendsten Eisenerzminen in Sierra Leone, in der Nähe der Stadt Lunsar gelegen.",
       hu: "Sierra Leone egyik legrégebbi és legjelentősebb vashércbányája, Lunsar városa közelében.",
@@ -127,8 +130,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Tonkolili-Eisenerzmine",
       hu: "Tonkolili vashércbánya",
       ro: "Mina de minereu de fier Tonkolili",
-      en: "Tonkolili Iron Ore Mine"
-    },
+      en: "Tonkolili Iron Ore Mine",
+image: "/poi-images/tonkolili-mine-economic-v2.webp"
+},
     description: {
       de: "Eine riesige Eisenerzlagerstätte im Norden des Landes, die eines der größten Bergbauprojekte in Westafrika darstellt.",
       hu: "Hatalmas vashérclelőhely az ország északi részén, amely Nyugat-Afrika egyik legnagyobb bányászati projektje.",
@@ -166,8 +170,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Koidu-Diamantenmine",
       hu: "Koidu gyémántbánya",
       ro: "Mina de diamante Koidu",
-      en: "Koidu Diamond Mine"
-    },
+      en: "Koidu Diamond Mine",
+image: "/poi-images/koidu-mine-economic-v2.webp"
+},
     description: {
       de: "Die größte Diamantenmine in Sierra Leone, die hochwertige Edelsteine aus Kimberlit-Schloten fördert.",
       hu: "Sierra Leone legnagyobb gyémántbányája, amely kiváló minőségű drágaköveket termel ki kimberlit kürtőkből.",
@@ -206,8 +211,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Tongo-Diamantenmine",
       hu: "Tongo gyémántbánya",
       ro: "Mina de diamante Tongo",
-      en: "Tongo Diamond Mine"
-    },
+      en: "Tongo Diamond Mine",
+image: "/poi-images/tongo-mine-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Abbaugebiet für Industrie- und Schmuckdiamanten im Osten von Sierra Leone.",
       hu: "Jelentős ipari és ékszergyémánt-bányászati terület Sierra Leone keleti részén.",
@@ -245,8 +251,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Sierra-Rutil-Mine",
       hu: "Sierra Rutil bánya",
       ro: "Mina Sierra Rutile",
-      en: "Sierra Rutile Mine"
-    },
+      en: "Sierra Rutile Mine",
+image: "/poi-images/rutile-mine-economic-v2.webp"
+},
     description: {
       de: "Eine der weltweit größten Minen für Rutil, ein Mineral, das hauptsächlich für die Herstellung von Titandioxid-Pigmenten verwendet wird.",
       hu: "A világ egyik legnagyobb rutilbányája; ezt az ásványt főként titán-dioxid pigmentek gyártásához használják.",
@@ -284,8 +291,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Mokanji-Bauxit-Mine",
       hu: "Mokanji bauxitbánya",
       ro: "Mina de bauxită Mokanji",
-      en: "Mokanji Bauxite Mine"
-    },
+      en: "Mokanji Bauxite Mine",
+image: "/poi-images/mokanji-bauxite-mine-economic-v2.webp"
+},
     description: {
       de: "Eine bedeutende Bauxitlagerstätte im Moyamba-Distrikt, die das Rohmaterial für die Aluminiumproduktion liefert.",
       hu: "Jelentős bauxitlelőhely a Moyamba kerületben, amely az alumíniumgyártás alapanyagát szolgáltatja.",
@@ -323,8 +331,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Sunbird-Bioenergie-Anlage",
       hu: "Sunbird Bioenergia üzem",
       ro: "Instalația de bioenergie Sunbird",
-      en: "Sunbird Bioenergy Plant"
-    },
+      en: "Sunbird Bioenergy Plant",
+image: "/poi-images/sunbird-bioenergy-economic-v2.webp"
+},
     description: {
       de: "Ein großes Agroindustrie-Projekt bei Makeni, das Ethanol aus Zuckerrohr für den heimischen und internationalen Markt produziert.",
       hu: "Egy nagy agrár-ipari projekt Makeni közelében, amely cukornádból állít elő etanolt a hazai és nemzetközi piacra.",
@@ -362,8 +371,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Sierra Leone Brauerei",
       hu: "Sierra Leone Sörgyár",
       ro: "Fabrica de bere Sierra Leone",
-      en: "Sierra Leone Brewery Limited"
-    },
+      en: "Sierra Leone Brewery Limited",
+image: "/poi-images/brewery-wellington-economic-v2.webp"
+},
     description: {
       de: "Die führende Brauerei des Landes mit Sitz in Wellington, Freetown, bekannt für die Produktion lokaler Biermarken.",
       hu: "Az ország vezető sörgyára a freetowni Wellingtonban, amely a helyi sörmárkák gyártásáról ismert.",
@@ -401,8 +411,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "LEOCEM Zementwerk",
       hu: "LEOCEM cementgyár",
       ro: "Fabrica de ciment LEOCEM",
-      en: "LEOCEM Cement Factory"
-    },
+      en: "LEOCEM Cement Factory",
+image: "/poi-images/leocem-cement-economic-v2.webp"
+},
     description: {
       de: "Die wichtigste Zementproduktionsstätte in Sierra Leone, die den Bausektor des Landes mit lebenswichtigen Materialien versorgt.",
       hu: "Sierra Leone legfontosabb cementgyártó üzeme, amely létfontosságú anyagokkal látja el az ország építőiparát.",
@@ -440,8 +451,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Bumbuna-Staudamm",
       hu: "Bumbuna-gát",
       ro: "Barajul Bumbuna",
-      en: "Bumbuna Dam"
-    },
+      en: "Bumbuna Dam",
+image: "/poi-images/bumbuna-dam-economic-v2.webp"
+},
     description: {
       de: "Das größte Wasserkraftwerk des Landes, das eine entscheidende Rolle bei der Stromversorgung der Hauptstadt und anderer Städte spielt.",
       hu: "Az ország legnagyobb vízerőműve, amely döntő szerepet játszik a főváros és más városok áramellátásában.",
@@ -479,8 +491,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Hafen von Bonthe",
       hu: "Bonthe kikötője",
       ro: "Portul Bonthe",
-      en: "Bonthe Port"
-    },
+      en: "Bonthe Port",
+image: "/poi-images/bonthe-port-economic-v2.webp"
+},
     description: {
       de: "Ein historischer Hafen auf Sherbro Island, der heute hauptsächlich für den lokalen Handel und die Fischerei genutzt wird.",
       hu: "Egy történelmi kikötő a Sherbro-szigeten, amelyet ma főként helyi kereskedelemre és halászatra használnak.",
@@ -518,8 +531,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Hafen von Nitti",
       hu: "Nitti kikötője",
       ro: "Portul Nitti",
-      en: "Nitti Port"
-    },
+      en: "Nitti Port",
+image: "/poi-images/nitti-port-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Binnenhafen, der für die Verschiffung von Rutil und Bauxit aus den nahegelegenen Minen genutzt wird.",
       hu: "Egy speciális belvízi kikötő, amelyet a közeli bányákból származó rutil és bauxit szállítására használnak.",
@@ -557,8 +571,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Kissy-Ölterminal",
       hu: "Kissy olajterminál",
       ro: "Terminalul petrolier Kissy",
-      en: "Kissy Oil Terminal"
-    },
+      en: "Kissy Oil Terminal",
+image: "/poi-images/kissy-oil-terminal-economic-v2.webp"
+},
     description: {
       de: "Das zentrale Terminal für den Import und die Lagerung von Erdölprodukten in Freetown.",
       hu: "A kőolajtermékek importjának és tárolásának központi terminálja Freetownban.",
@@ -596,8 +611,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Industriegebiet Wellington",
       hu: "Wellington ipari negyed",
       ro: "Zona industrială Wellington",
-      en: "Wellington Industrial Estate"
-    },
+      en: "Wellington Industrial Estate",
+image: "/poi-images/wellington-estate-economic-v2.webp"
+},
     description: {
       de: "Das wichtigste Industriegebiet in Freetown, in dem zahlreiche Fabriken und Werkstätten angesiedelt sind.",
       hu: "Freetown legfontosabb ipari területe, ahol számos gyár és műhely található.",
@@ -635,8 +651,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Wasserkraftwerk Dodo",
       hu: "Dodo vízerőmű",
       ro: "Hidrocentrala Dodo",
-      en: "Dodo Hydroelectric Plant"
-    },
+      en: "Dodo Hydroelectric Plant",
+image: "/poi-images/dodo-hydro-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Wasserkraftwerk im Osten von Sierra Leone, das die Stadt Kenema mit Strom versorgt.",
       hu: "Fontos vízerőmű Sierra Leone keleti részén, amely Kenema városát látja el árammal.",
@@ -675,8 +692,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Wasserkraftwerk Goma",
       hu: "Goma vízerőmű",
       ro: "Hidrocentrala Goma",
-      en: "Goma Hydroelectric Plant"
-    },
+      en: "Goma Hydroelectric Plant",
+image: "/poi-images/goma-hydro-economic-v2.webp"
+},
     description: {
       de: "Eine kleinere Wasserkraftanlage im Osten, die lokale Gemeinschaften und Industrien unterstützt.",
       hu: "Egy kisebb vízerőmű keleten, amely a helyi közösségeket és iparágakat támogatja.",
@@ -714,8 +732,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Hafen von Sulima",
       hu: "Sulima kikötője",
       ro: "Portul Sulima",
-      en: "Sulima Port"
-    },
+      en: "Sulima Port",
+image: "/poi-images/sulima-port-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner Hafen an der Mündung des Moa-Flusses nahe der Grenze zu Liberia, der als lokaler Umschlagplatz dient.",
       hu: "Egy kis kikötő a Moa-folyó torkolatánál, Libéria határához közel, amely helyi rakodóhelyként szolgál.",
@@ -754,8 +773,9 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
       de: "Baomahun-Goldmine",
       hu: "Baomahun aranybánya",
       ro: "Mina de aur Baomahun",
-      en: "Baomahun Gold Mine"
-    },
+      en: "Baomahun Gold Mine",
+image: "/poi-images/baomahun-gold-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Goldabbauprojekt im Südosten, das eines der größten Goldvorkommen des Landes erschließt.",
       hu: "Egy jelentős aranybányászati projekt délkeleten, amely az ország egyik legnagyobb aranylelőhelyét tárja fel.",

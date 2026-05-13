@@ -4,7 +4,9 @@ export const croatiaLifeV2: POI[] = [
   {
     id: "croatia-paklenica-life-v2",
     type: "park",
-    name: { de: "Nationalpark Paklenica", hu: "Paklenica Nemzeti Park", ro: "Parcul Național Paklenica", en: "Paklenica National Park" },
+    name: { de: "Nationalpark Paklenica", hu: "Paklenica Nemzeti Park", ro: "Parcul Național Paklenica", en: "Paklenica National Park",
+image: "/poi-images/croatia-paklenica-life-v2.webp"
+},
     coords: [15.462, 44.32],
     coordinates: { lat: 44.32, lng: 15.462 },
     description: {
@@ -19,11 +21,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Centru important pentru alpinism", "Cel mai înalt perete este Anića Kuk", "Păduri de fag protejate de UNESCO", "Sistem de buncăre din anii 1950"],
       en: ["Major center for rock climbing", "Anića Kuk is the highest rock face", "UNESCO ancient beech forests", "Underground bunkers from the 1950s"],
     },
-    imageHint: "Paklenica canyon cliffs", image: "/poi-images/croatia-paklenica-life-v2.webp"},
-  {
+imageHint: "Paklenica canyon cliffs",
+    descriptionAdvanced: {
+      de: "Der Nationalpark Paklenica im Velebit-Massiv schützt die größte Waldfläche Dalmatiens. Seine bis zu 400 Meter tiefen Schluchten sind ein Zentrum für Alpinkletterer.",
+      hu: "A Paklenica Nemzeti Park a Velebit déli lejtőin terül el. Híres a Velika és Mala Paklenica szurdokvölgyeiről, amelyek a sziklamászók nemzetközi központjai.",
+      ro: "Parcul Național Paklenica protejează cel mai mare complex forestier din Dalmația. Canioanele sale adânci sunt renumite pentru alpinism și fenomene carstice unice.",
+      en: "Paklenica National Park protects the largest forest complex in Dalmatia. Its massive canyons are world-renowned for rock climbing and unique karst formations.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 95 km²", "Gipfel Vaganski Vrh (1757 m)", "Über 150 km Wanderwege", "Gegründet am 19. Oktober 1949"],
+      hu: ["95 négyzetkilométer terület", "Vaganski Vrh csúcs (1757 m)", "150 km jelzett turistaút", "Alapítva 1949. október 19-én"],
+      ro: ["Suprafață de 95 km²", "Vârful Vaganski Vrh (1757 m)", "Peste 150 km de poteci", "Fondat la 19 octombrie 1949"],
+      en: ["Covers 95 square kilometers", "Vaganski Vrh peak (1757 m)", "150 km of marked trails", "Established Oct 19, 1949"],
+    },
+    image: "/poi-images/croatia-paklenica-life-v2.webp",
+},  {
     id: "croatia-mljet-life-v2",
     type: "park",
-    name: { de: "Nationalpark Mljet", hu: "Mljet Nemzeti Park", ro: "Parcul Național Mljet", en: "Mljet National Park" },
+    name: { de: "Nationalpark Mljet", hu: "Mljet Nemzeti Park", ro: "Parcul Național Mljet", en: "Mljet National Park",
+image: "/poi-images/croatia-mljet-life-v2.webp"
+},
     coords: [17.389, 42.785],
     coordinates: { lat: 42.785, lng: 17.389 },
     description: {
@@ -38,11 +55,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Lacurile sărate Malo și Veliko", "Mănăstire pe insula din lac", "Înființat în anul 1960", "Păduri dese de pin de Alep"],
       en: ["Salt lakes Malo and Veliko Jezero", "Monastery on an islet in the lake", "Established in 1960", "Dense Aleppo pine forests"],
     },
-    imageHint: "Mljet island salt lake monastery", image: "/poi-images/croatia-mljet-life-v2.webp"},
-  {
+imageHint: "Mljet island salt lake monastery",
+    descriptionAdvanced: {
+      de: "Der Nationalpark Mljet umfasst den westlichen Teil der gleichnamigen Insel. Er ist bekannt für seine zwei Salzwasserseen und das Benediktinerkloster aus dem 12. Jahrhundert.",
+      hu: "Az Mljet Nemzeti Park a sziget nyugati részét foglalja el. Különlegessége a két sós vizű tó és a Nagy-tó közepén fekvő apró szigeten álló bencés kolostor.",
+      ro: "Parcul Național Mljet acoperă partea de vest a insulei omonime. Este faimos pentru cele două lacuri sărate și mănăstirea benedictină din secolul al XII-lea.",
+      en: "Mljet National Park covers the western part of the island. It features two saltwater lakes and a 12th-century Benedictine monastery on St. Mary's islet.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1960", "Fläche von 54 km²", "Kloster auf der Maria-Insel", "Großer See ist 46 m tief"],
+      hu: ["Alapítva 1960-ban", "Területe 54 km²", "Bencés kolostor a 12. századból", "A Nagy-tó mélysége 46 méter"],
+      ro: ["Înființat în anul 1960", "Suprafață de 54 km²", "Mănăstire pe insula Sf. Maria", "Lacul Mare are 46 m adâncime"],
+      en: ["Established in 1960", "Covers 54 square kilometers", "12th-century monastery", "Great Lake depth of 46 meters"],
+    },
+    image: "/poi-images/croatia-mljet-life-v2.webp",
+},  {
     id: "croatia-sjeverni-velebit-life-v2",
     type: "park",
-    name: { de: "Nationalpark Nord-Velebit", hu: "Észak-Velebit Nemzeti Park", ro: "Parcul Național Velebitul de Nord", en: "Northern Velebit National Park" },
+    name: { de: "Nationalpark Nord-Velebit", hu: "Észak-Velebit Nemzeti Park", ro: "Parcul Național Velebitul de Nord", en: "Northern Velebit National Park",
+image: "/poi-images/croatia-sjeverni-velebit-life-v2.webp"
+},
     coords: [14.981, 44.755],
     coordinates: { lat: 44.755, lng: 14.981 },
     description: {
@@ -57,11 +89,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Înființat în anul 1999", "Peștera adâncă Lukina Jama", "Grădina Botanică Velebit", "Traseul Premužić are 57 km"],
       en: ["Established in 1999", "Home to the deep Lukina Jama pit", "Velebit Botanical Garden on site", "Premužić trail is 57 km long"],
     },
-    imageHint: "Northern Velebit karst peaks", image: "/poi-images/croatia-sjeverni-velebit-life-v2.webp"},
-  {
+imageHint: "Northern Velebit karst peaks",
+    descriptionAdvanced: {
+      de: "Sjeverni Velebit ist der jüngste Nationalpark Kroatiens. Er zeichnet sich durch die bizarren Karstformen der Hajdučki- und Rožanski-Kukovi sowie den Botanischen Garten aus.",
+      hu: "Az Észak-Velebit Horvátország legfiatalabb nemzeti parkja. Területén találhatók a különleges Hajdučki- és Rožanski-sziklák, valamint Európa egyik legmélyebb barlangja.",
+      ro: "Velebitul de Nord este cel mai tânăr parc național croat. Se remarcă prin formele carstice bizare ale stâncilor Hajdučki și grădina botanică montană.",
+      en: "Northern Velebit is Croatia's youngest national park. It features the Hajdučki and Rožanski Kukovi karst reserves and the famous Velebit Botanical Garden.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1999", "Premužić-Pfad (57 km lang)", "Lukina-Höhle (-1431 m tief)", "Höchster Punkt (1676 m)"],
+      hu: ["Alapítva 1999-ben", "Premužić-út (57 km hosszú)", "Lukina-barlang (1431 m mély)", "Legmagasabb pontja 1676 m"],
+      ro: ["Înființat în anul 1999", "Traseul Premužić (57 km)", "Peștera Lukina (-1431 m)", "Altitudine maximă 1676 m"],
+      en: ["Established in 1999", "Premužić Trail is 57 km long", "Lukina Cave is 1431 m deep", "Highest point is 1676 meters"],
+    },
+    image: "/poi-images/croatia-sjeverni-velebit-life-v2.webp",
+},  {
     id: "croatia-kopacki-rit-life-v2",
     type: "wildlife",
-    name: { de: "Naturpark Kopački Rit", hu: "Kopácsi-rét Természetvédelmi Park", ro: "Parcul Natural Kopački Rit", en: "Kopački Rit Nature Park" },
+    name: { de: "Naturpark Kopački Rit", hu: "Kopácsi-rét Természetvédelmi Park", ro: "Parcul Natural Kopački Rit", en: "Kopački Rit Nature Park",
+image: "/poi-images/croatia-kopacki-rit-life-v2.webp"
+},
     coords: [18.791, 45.632],
     coordinates: { lat: 45.632, lng: 18.791 },
     description: {
@@ -76,11 +123,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Peste 260 de specii de păsări", "Zonă majoră de depunere a icrelor", "Cea mai mare deltă interioară", "Situl Ramsar din anul 1993"],
       en: ["Over 260 bird species recorded", "Major fish spawning ground", "Largest inner delta in Europe", "Ramsar wetland site since 1993"],
     },
-    imageHint: "Kopacki rit wetland birds", image: "/poi-images/croatia-kopacki-rit-life-v2.webp"},
-  {
+imageHint: "Kopacki rit wetland birds",
+    descriptionAdvanced: {
+      de: "Kopački Rit ist eines der größten Sumpfgebiete Europas an der Mündung der Drau in die Donau. Es beherbergt über 260 Vogelarten und riesige Auwälder.",
+      hu: "A Kopácsi-rét Európa egyik legnagyobb összefüggő mocsárvidéke a Dráva és a Duna összefolyásánál. Több mint 260 madárfaj fontos fészkelő- és pihenőhelye.",
+      ro: "Kopački Rit este una dintre cele mai mari zone umede din Europa, la confluența Drava-Dunăre. Adăpostește peste 260 de specii de păsări și păduri inundabile.",
+      en: "Kopački Rit is one of Europe's largest wetlands at the confluence of the Drava and Danube. It hosts over 260 bird species and vast alluvial forests.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 177 km²", "Ramsar-Gebiet seit 1993", "Nähe zur Stadt Osijek", "2000 biologische Arten"],
+      hu: ["177 négyzetkilométer terület", "Ramsari terület 1993 óta", "Osijek város közelében", "2000 különböző biológiai faj"],
+      ro: ["Suprafață de 177 km²", "Sit Ramsar din 1993", "Lângă orașul Osijek", "Peste 2000 de specii biologice"],
+      en: ["Area of 177 square kilometers", "Ramsar site since 1993", "Located near Osijek", "2,000 biological species"],
+    },
+    image: "/poi-images/croatia-kopacki-rit-life-v2.webp",
+},  {
     id: "croatia-lonjsko-polje-life-v2",
     type: "wildlife",
-    name: { de: "Naturpark Lonjsko Polje", hu: "Lonjsko Polje Természetvédelmi Park", ro: "Parcul Natural Lonjsko Polje", en: "Lonjsko Polje Nature Park" },
+    name: { de: "Naturpark Lonjsko Polje", hu: "Lonjsko Polje Természetvédelmi Park", ro: "Parcul Natural Lonjsko Polje", en: "Lonjsko Polje Nature Park",
+image: "/poi-images/croatia-lonjsko-polje-life-v2.webp"
+},
     coords: [16.654, 45.385],
     coordinates: { lat: 45.385, lng: 16.654 },
     description: {
@@ -95,11 +157,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Satul Čigoč, satul berzelor", "Conservarea cailor de Posavina", "Case tradiționale din lemn de stejar", "Zonă de popas pentru păsări migratoare"],
       en: ["Čigoč village is a 'Stork Village'", "Preserves the Posavina horse breed", "Traditional oak wooden houses", "Crucial stopover for migratory birds"],
     },
-    imageHint: "Lonjsko polje wooden houses storks", image: "/poi-images/croatia-lonjsko-polje-life-v2.webp"},
-  {
+imageHint: "Lonjsko polje wooden houses storks",
+    descriptionAdvanced: {
+      de: "Lonjsko Polje ist das größte geschützte Feuchtgebiet Kroatiens entlang der Save. Es ist berühmt für das Storchendorf Čigoč und die traditionelle Holzarchitektur.",
+      hu: "A Lonjsko Polje Horvátország legnagyobb védett ártéri területe a Száva mentén. Híres a hagyományos tölgyfából épült házairól és Čigoč gólyafalváról.",
+      ro: "Lonjsko Polje este cea mai mare zonă umedă protejată din Croația, situată de-a lungul râului Sava. Este faimoasă pentru satul berzelor, Čigoč.",
+      en: "Lonjsko Polje is Croatia's largest protected wetland along the Sava River. It is famous for the village of Čigoč and traditional wooden architecture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 506 km²", "239 Vogelarten gesichtet", "Dorf Čigoč (Europas Storchendorf)", "Posavina-Pferderasse"],
+      hu: ["506 négyzetkilométer terület", "239 megfigyelt madárfaj", "Čigoč az európai gólyafalu", "Posavinai lófajta őshazája"],
+      ro: ["Suprafață de 506 km²", "239 de specii de păsări", "Satul Čigoč (satul berzelor)", "Rasă de cai Posavina"],
+      en: ["Covers 506 square kilometers", "239 bird species recorded", "Čigoč (European Stork Village)", "Posavina horse breed habitat"],
+    },
+    image: "/poi-images/croatia-lonjsko-polje-life-v2.webp",
+},  {
     id: "croatia-velebit-nature-park-life-v2",
     type: "park",
-    name: { de: "Naturpark Velebit", hu: "Velebit Természetvédelmi Park", ro: "Parcul Natural Velebit", en: "Velebit Nature Park" },
+    name: { de: "Naturpark Velebit", hu: "Velebit Természetvédelmi Park", ro: "Parcul Natural Velebit", en: "Velebit Nature Park",
+image: "/poi-images/croatia-velebit-nature-park-life-v2.webp"
+},
     coords: [15.127, 44.532],
     coordinates: { lat: 44.532, lng: 15.127 },
     description: {
@@ -114,11 +191,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cea mai mare zonă protejată", "Planta endemică Degenia velebitica", "Rezervație a biosferei UNESCO", "Include două parcuri naționale"],
       en: ["Largest protected area in Croatia", "Home to endemic Velebit Degenia", "UNESCO Biosphere Reserve", "Includes two national parks"],
     },
-    imageHint: "Velebit mountain range view", image: "/poi-images/croatia-velebit-nature-park-life-v2.webp"},
-  {
+imageHint: "Velebit mountain range view",
+    descriptionAdvanced: {
+      de: "Der Naturpark Velebit ist das größte Naturschutzgebiet Kroatiens und ein UNESCO-Biosphärenreservat. Er umfasst das gesamte gleichnamige Gebirgsmassiv.",
+      hu: "A Velebit Természetvédelmi Park Horvátország legnagyobb védett területe és UNESCO bioszféra-rezervátum. Magában foglalja a teljes Velebit-hegységet.",
+      ro: "Parcul Natural Velebit este cea mai mare zonă protejată din Croația și rezervație UNESCO. Cuprinde întregul masiv muntos cu același nume.",
+      en: "Velebit Nature Park is Croatia's largest protected area and a UNESCO Biosphere Reserve. It encompasses the entire Velebit mountain range.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 2200 km²", "UNESCO-Biosphäre seit 1978", "Meteorologische Station Zavižan", "Zentrum des kroatischen Karsts"],
+      hu: ["Területe 2200 km²", "UNESCO rezervátum 1978 óta", "Zavižan meteorológiai állomás", "A horvát karszt központja"],
+      ro: ["Suprafață de 2200 km²", "Rezervație UNESCO din 1978", "Stația meteo Zavižan (1594 m)", "Centrul carstului croat"],
+      en: ["Covers 2,200 square kilometers", "UNESCO reserve since 1978", "Zavižan weather station", "Center of Croatian karst"],
+    },
+    image: "/poi-images/croatia-velebit-nature-park-life-v2.webp",
+},  {
     id: "croatia-biokovo-nature-park-life-v2",
     type: "park",
-    name: { de: "Naturpark Biokovo", hu: "Biokovo Természetvédelmi Park", ro: "Parcul Natural Biokovo", en: "Biokovo Nature Park" },
+    name: { de: "Naturpark Biokovo", hu: "Biokovo Természetvédelmi Park", ro: "Parcul Natural Biokovo", en: "Biokovo Nature Park",
+image: "/poi-images/croatia-biokovo-nature-park-life-v2.webp"
+},
     coords: [17.054, 43.332],
     coordinates: { lat: 43.332, lng: 17.054 },
     description: {
@@ -133,11 +225,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Vârful cel mai înalt Sv. Jure", "Punct de belvedere Skywalk", "Peste 1500 specii de plante", "Groapa Amfora adâncă de 788m"],
       en: ["Highest peak is Sveti Jure", "Skywalk Ravna Vlaška viewpoint", "Over 1,500 plant species", "Amfora pit is 788 meters deep"],
     },
-    imageHint: "Biokovo mountain Skywalk", image: "/poi-images/croatia-biokovo-nature-park-life-v2.webp"},
-  {
+imageHint: "Biokovo mountain Skywalk",
+    descriptionAdvanced: {
+      de: "Der Naturpark Biokovo ragt steil über der Makarska-Riviera auf. Er bietet mit dem Skywalk eine spektakuläre Aussichtsplattform über der Adria.",
+      hu: "A Biokovo Természetvédelmi Park meredeken emelkedik a Makarskai Riviéra fölé. Legfőbb vonzereje a Skywalk kilátó és a Szent György-csúcs.",
+      ro: "Parcul Natural Biokovo se ridică abrupt deasupra Rivierei Makarska. Oferă o platformă de observație spectaculoasă, Skywalk, deasupra Adriaticii.",
+      en: "Biokovo Nature Park rises steeply above the Makarska Riviera. It features the Skywalk observation deck and unique Mediterranean karst flora.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt (1762 m)", "Skywalk auf 1228 m Höhe", "Fläche von 196 km²", "Über 1500 Pflanzenarten"],
+      hu: ["Szent György-csúcs (1762 m)", "Skywalk kilátó 1228 méteren", "Területe 196 km²", "Több mint 1500 növényfaj"],
+      ro: ["Vârful Sveti Jure (1762 m)", "Skywalk la 1228 m altitudine", "Suprafață de 196 km²", "Peste 1500 specii de plante"],
+      en: ["Highest peak at 1,762 meters", "Skywalk at 1,228 m altitude", "Area of 196 square kilometers", "Over 1,500 plant species"],
+    },
+    image: "/poi-images/croatia-biokovo-nature-park-life-v2.webp",
+},  {
     id: "croatia-telascica-life-v2",
     type: "park",
-    name: { de: "Naturpark Telašćica", hu: "Telašćica Természetvédelmi Park", ro: "Parcul Natural Telašćica", en: "Telašćica Nature Park" },
+    name: { de: "Naturpark Telašćica", hu: "Telašćica Természetvédelmi Park", ro: "Parcul Natural Telašćica", en: "Telašćica Nature Park",
+image: "/poi-images/croatia-telascica-life-v2.webp"
+},
     coords: [15.163, 43.894],
     coordinates: { lat: 43.894, lng: 15.163 },
     description: {
@@ -152,11 +259,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Lacul sărat Mir cu nămol", "Faleze de până la 161m înălțime", "Rezervație de măgari în parc", "Peste 250 specii de plante marine"],
       en: ["Salt lake Mir with healing mud", "Cliffs rise up to 161 meters", "Donkey sanctuary within the park", "Over 250 marine plant species"],
     },
-    imageHint: "Telascica bay and cliffs", image: "/poi-images/croatia-telascica-life-v2.webp"},
-  {
+imageHint: "Telascica bay and cliffs",
+    descriptionAdvanced: {
+      de: "Der Naturpark Telašćica liegt im Südosten der Insel Dugi Otok. Er umfasst eine tiefe Bucht, hohe Steilklippen und den heilenden Salzwassersee Mir.",
+      hu: "A Telašćica Természetvédelmi Park a Dugi Otok sziget délkeleti részén található. Hatalmas öbléről, meredek sziklafalairól és a sós Mir-tóról ismert.",
+      ro: "Parcul Natural Telašćica este situat în sud-estul insulei Dugi Otok. Include un golf adânc, stânci înalte și lacul sărat curativ Mir.",
+      en: "Telašćica Nature Park is located on the southeastern part of Dugi Otok. it features a deep bay, 160m high cliffs, and the saltwater lake Mir.",
+    },
+    factsAdvanced: {
+      de: ["161 m hohe Klippen", "Salzsee Mir (33% Salzgehalt)", "25 kleine Buchten", "Fläche von 70 km²"],
+      hu: ["161 méter magas sziklafalak", "Mir-tó (33% sótartalom)", "25 kisebb öböl", "Területe 70 km²"],
+      ro: ["Stânci înalte de 161 m", "Lacul Mir (salinitate 33%)", "25 de golfuri mici", "Suprafață de 70 km²"],
+      en: ["161 m high vertical cliffs", "Lake Mir (33% salinity)", "25 small bays and coves", "Total area of 70 sq. km"],
+    },
+    image: "/poi-images/croatia-telascica-life-v2.webp",
+},  {
     id: "croatia-ucka-life-v2",
     type: "park",
-    name: { de: "Naturpark Učka", hu: "Učka Természetvédelmi Park", ro: "Parcul Natural Učka", en: "Učka Nature Park" },
+    name: { de: "Naturpark Učka", hu: "Učka Természetvédelmi Park", ro: "Parcul Natural Učka", en: "Učka Nature Park",
+image: "/poi-images/croatia-ucka-life-v2.webp"
+},
     coords: [14.201, 45.293],
     coordinates: { lat: 45.293, lng: 14.201 },
     description: {
@@ -171,11 +293,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Turn pe vârful Vojak", "Clopoțelul endemic de Učka", "Habitat pentru vulturul pleșuv", "Păduri tradiționale de castan"],
       en: ["Tower on the Vojak peak", "Endemic Učka bellflower", "Habitat for the griffon vulture", "Traditional chestnut forests"],
     },
-    imageHint: "Ucka mountain Vojak tower view", image: "/poi-images/croatia-ucka-life-v2.webp"},
-  {
+imageHint: "Ucka mountain Vojak tower view",
+    descriptionAdvanced: {
+      de: "Der Naturpark Učka verbindet Istrien mit dem Kvarner. Vom Aussichtsturm auf dem Gipfel Vojak reicht der Blick bei klarem Wetter bis nach Venedig.",
+      hu: "Az Učka Természetvédelmi Park Isztriát köti össze a Kvarner-öböllel. A Vojak-csúcson álló kilátóból tiszta időben akár Velencéig is el lehet látni.",
+      ro: "Parcul Natural Učka face legătura între Istria și regiunea Kvarner. De pe vârful Vojak se poate vedea Veneția în zilele foarte senine.",
+      en: "Učka Nature Park connects Istria with the Kvarner region. Its highest point, Vojak, offers views stretching as far as Venice on clear days.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel Vojak (1401 m)", "Fläche von 160 km²", "Turm erbaut im Jahr 1911", "Edelkastanienwälder"],
+      hu: ["Vojak-csúcs (1401 m)", "Területe 160 km²", "A kilátótorony 1911-es", "Szelídgesztenye erdők"],
+      ro: ["Vârful Vojak (1401 m)", "Suprafață de 160 km²", "Turn construit în 1911", "Păduri de castan comestibil"],
+      en: ["Vojak peak (1,401 meters)", "Area of 160 square kilometers", "Tower built in 1911", "Edible chestnut forests"],
+    },
+    image: "/poi-images/croatia-ucka-life-v2.webp",
+},  {
     id: "croatia-papuk-life-v2",
     type: "park",
-    name: { de: "Naturpark Papuk", hu: "Papuk Természetvédelmi Park", ro: "Parcul Natural Papuk", en: "Papuk Nature Park" },
+    name: { de: "Naturpark Papuk", hu: "Papuk Természetvédelmi Park", ro: "Parcul Natural Papuk", en: "Papuk Nature Park",
+image: "/poi-images/croatia-papuk-life-v2.webp"
+},
     coords: [17.652, 45.541],
     coordinates: { lat: 45.541, lng: 17.652 },
     description: {
@@ -190,11 +327,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Primul geoparc din Croația", "Cascada Skakavac în Jankovac", "Vestigii ale Mării Panonice", "Roci vulcanice la Rupnica"],
       en: ["First Geopark in Croatia", "Skakavac waterfall in Jankovac", "Remnants of the Pannonian Sea", "Volcanic rocks at Rupnica site"],
     },
-    imageHint: "Papuk nature park forest waterfall", image: "/poi-images/croatia-papuk-life-v2.webp"},
-  {
+imageHint: "Papuk nature park forest waterfall",
+    descriptionAdvanced: {
+      de: "Papuk ist der erste UNESCO-Geopark Kroatiens in Slawonien. Er bietet vulkanische Gesteinsformationen, dichte Wälder und die mittelalterliche Burg Ružica grad.",
+      hu: "A Papuk Horvátország első UNESCO Geoparkja Szlavóniában. Vulkáni kőzetek, sűrű erdők és Ružica grad középkori várának romjai jellemzik.",
+      ro: "Papuk este primul Geoparc UNESCO din Croația, situat în Slavonia. Oferă formațiuni vulcanice, păduri dese și cetatea medievală Ružica grad.",
+      en: "Papuk is Croatia's first UNESCO Geopark, located in Slavonia. It features volcanic rock formations, dense forests, and the Ružica grad fortress.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO Geopark seit 2007", "Parkwald Jankovac", "Ružica grad aus dem 14. Jh.", "Fläche von 336 km²"],
+      hu: ["UNESCO Geopark 2007 óta", "Jankovac parkerdő", "Ružica grad (14. század)", "Területe 336 km²"],
+      ro: ["Geoparc UNESCO din 2007", "Pădurea-parc Jankovac", "Cetatea Ružica grad (sec. XIV)", "Suprafață de 336 km²"],
+      en: ["UNESCO Geopark since 2007", "Jankovac park forest", "14th-century Ružica grad", "Covers 336 square kilometers"],
+    },
+    image: "/poi-images/croatia-papuk-life-v2.webp",
+},  {
     id: "croatia-medvednica-life-v2",
     type: "park",
-    name: { de: "Naturpark Medvednica", hu: "Medvednica Természetvédelmi Park", ro: "Parcul Natural Medvednica", en: "Medvednica Nature Park" },
+    name: { de: "Naturpark Medvednica", hu: "Medvednica Természetvédelmi Park", ro: "Parcul Natural Medvednica", en: "Medvednica Nature Park",
+image: "/poi-images/croatia-medvednica-life-v2.webp"
+},
     coords: [15.952, 45.911],
     coordinates: { lat: 45.911, lng: 15.952 },
     description: {
@@ -209,11 +361,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cel mai înalt punct este Sljeme", "Peștera Veternica cu lilieci", "Cetatea Medvedgrad din sec. XIII", "Gazdă a Cupei Mondiale de schi"],
       en: ["Highest point is Sljeme", "Veternica cave with bat colonies", "13th-century Medvedgrad castle", "Host of alpine ski world cup"],
     },
-    imageHint: "Medvednica mountain Zagreb view", image: "/poi-images/croatia-medvednica-life-v2.webp"},
-  {
+imageHint: "Medvednica mountain Zagreb view",
+    descriptionAdvanced: {
+      de: "Der Naturpark Medvednica liegt direkt oberhalb von Zagreb. Neben dem Skizentrum Sljeme beherbergt er die Veternica-Höhle und die Burg Medvedgrad.",
+      hu: "A Medvednica Természetvédelmi Park Zágráb fölé magasodik. Népszerű kirándulóhely a Sljeme-csúccsal, a Veternica-barlanggal és Medvedgrad várával.",
+      ro: "Parcul Natural Medvednica este situat chiar deasupra Zagrebului. Include centrul de schi Sljeme, peștera Veternica și cetatea Medvedgrad.",
+      en: "Medvednica Nature Park rises above Zagreb. It hosts the Sljeme ski center, the Veternica cave system, and the 13th-century Medvedgrad fortress.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt Sljeme (1033 m)", "Veternica-Höhle (7 km lang)", "Burg Medvedgrad (1252 erbaut)", "Fläche von 179 km²"],
+      hu: ["Sljeme-csúcs (1033 m)", "Veternica-barlang (7 km hosszú)", "Medvedgrad vára (1252)", "Területe 179 km²"],
+      ro: ["Vârful Sljeme (1033 m)", "Peștera Veternica (7 km)", "Cetatea Medvedgrad (anul 1252)", "Suprafață de 179 km²"],
+      en: ["Sljeme peak (1,033 meters)", "Veternica cave is 7 km long", "Medvedgrad built in 1252", "Covers 179 square kilometers"],
+    },
+    image: "/poi-images/croatia-medvednica-life-v2.webp",
+},  {
     id: "croatia-zumberak-life-v2",
     type: "park",
-    name: { de: "Naturpark Žumberak-Samoborsko gorje", hu: "Žumberak-Samobori-hegység Park", ro: "Parcul Žumberak-Samoborsko gorje", en: "Žumberak-Samoborsko gorje Nature Park" },
+    name: { de: "Naturpark Žumberak-Samoborsko gorje", hu: "Žumberak-Samobori-hegység Park", ro: "Parcul Žumberak-Samoborsko gorje", en: "Žumberak-Samoborsko gorje Nature Park",
+image: "/poi-images/croatia-zumberak-life-v2.webp"
+},
     coords: [15.482, 45.753],
     coordinates: { lat: 45.753, lng: 15.482 },
     description: {
@@ -228,11 +395,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cascada Sopote de 40m", "Morminte celtice în Budinjak", "Habitat pentru pisica sălbatică", "Vârful cel mai înalt Sveta Gera"],
       en: ["Sopote waterfall is 40m high", "Celtic graves in Budinjak", "Habitat for wild cats", "Highest peak is Sveta Gera"],
     },
-    imageHint: "Zumberak green hills landscape", image: "/poi-images/croatia-zumberak-life-v2.webp"},
-  {
+imageHint: "Zumberak green hills landscape",
+    descriptionAdvanced: {
+      de: "Der Naturpark Žumberak-Samoborsko gorje erstreckt sich entlang der Grenze zu Slowenien. Die Region ist bekannt für Karstphänomene und kleine Bergdörfer.",
+      hu: "A Žumberak-Samoborsko gorje Természetvédelmi Park a szlovén határ mentén húzódik. Karsztjelenségekben, patakokban és vízesésekben gazdag vidék.",
+      ro: "Parcul Natural Žumberak-Samoborsko gorje se întinde de-a lungul graniței cu Slovenia. Regiunea este cunoscută pentru fenomene carstice și sate montane.",
+      en: "Žumberak-Samoborsko gorje Nature Park stretches along the Slovenian border. It is a hilly region known for karst springs and traditional villages.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 342 km²", "Gipfel Sveta Gera (1178 m)", "Sopote-Wasserfall (40 m)", "Gegründet im Jahr 1999"],
+      hu: ["Területe 342 km²", "Sveta Gera csúcs (1178 m)", "Sopote-vízesés (40 m)", "Alapítva 1999-ben"],
+      ro: ["Suprafață de 342 km²", "Vârful Sveta Gera (1178 m)", "Cascada Sopote (40 m)", "Înființat în anul 1999"],
+      en: ["Covers 342 square kilometers", "Sveta Gera peak (1,178 m)", "Sopote waterfall (40 m high)", "Established in 1999"],
+    },
+    image: "/poi-images/croatia-zumberak-life-v2.webp",
+},  {
     id: "croatia-lastovo-life-v2",
     type: "park",
-    name: { de: "Naturpark Lastovo-Archipel", hu: "Lastovo-szigetcsoport Park", ro: "Parcul Arhipelagul Lastovo", en: "Lastovo Archipelago Nature Park" },
+    name: { de: "Naturpark Lastovo-Archipel", hu: "Lastovo-szigetcsoport Park", ro: "Parcul Arhipelagul Lastovo", en: "Lastovo Archipelago Nature Park",
+image: "/poi-images/croatia-lastovo-life-v2.webp"
+},
     coords: [16.891, 42.762],
     coordinates: { lat: 42.762, lng: 16.891 },
     description: {
@@ -247,11 +429,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cel mai întunecat cer nocturn", "Coșuri de fum tradiționale", "Habitat rar de corali", "Carnavalul tradițional 'Poklad'"],
       en: ["Darkest skies in Croatia", "Famous unique Lastovo chimneys", "Rare coral reef habitats", "Traditional 'Poklad' carnival"],
     },
-    imageHint: "Lastovo island village and sea", image: "/poi-images/croatia-lastovo-life-v2.webp"},
-  {
+imageHint: "Lastovo island village and sea",
+    descriptionAdvanced: {
+      de: "Der Naturpark Lastovo-Archipel umfasst 44 Inseln in der südlichen Adria. Er ist eines der am besten erhaltenen Meeresgebiete des Mittelmeers.",
+      hu: "A Lastovo-szigetcsoport Természetvédelmi Park 44 szigetet foglal magában az Adria déli részén. Az egyik legérintetlenebb tengeri terület Horvátországban.",
+      ro: "Parcul Natural Arhipelagul Lastovo cuprinde 44 de insule în sudul Adriaticii. Este una dintre cele mai bine conservate zone marine din Mediterană.",
+      en: "Lastovo Archipelago Nature Park includes 44 islands in the southern Adriatic. It is one of the Mediterranean's most pristine marine environments.",
+    },
+    factsAdvanced: {
+      de: ["44 Inseln und Inselchen", "Leuchtturm Struga (1839)", "70% der Fläche bewaldet", "Fläche von 196 km²"],
+      hu: ["44 sziget és szigetecske", "Struga világítótorony (1839)", "A terület 70%-a erdő", "Összterület 196 km²"],
+      ro: ["44 de insule și insulițe", "Farul Struga (anul 1839)", "70% din suprafață e pădure", "Suprafață de 196 km²"],
+      en: ["44 islands and islets", "Struga lighthouse (built 1839)", "70% of land is forested", "Total area of 196 sq. km"],
+    },
+    image: "/poi-images/croatia-lastovo-life-v2.webp",
+},  {
     id: "croatia-vransko-jezero-life-v2",
     type: "lake",
-    name: { de: "Naturpark Vransko Jezero", hu: "Vransko-tó Természetvédelmi Park", ro: "Parcul Natural Lacul Vrana", en: "Vransko Jezero Nature Park" },
+    name: { de: "Naturpark Vransko Jezero", hu: "Vransko-tó Természetvédelmi Park", ro: "Parcul Natural Lacul Vrana", en: "Vransko Jezero Nature Park",
+image: "/poi-images/croatia-vransko-jezero-life-v2.webp"
+},
     coords: [15.582, 43.901],
     coordinates: { lat: 43.901, lng: 15.582 },
     description: {
@@ -266,11 +463,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cel mai mare lac natural", "Peste 250 de specii de păsări", "Pești de apă dulce și anghile", "Punctul de belvedere Kamenjak"],
       en: ["Largest natural lake in Croatia", "Home to over 250 bird species", "Freshwater fish and eels", "Kamenjak viewpoint overlooking sea"],
     },
-    imageHint: "Vransko jezero lake birds view", image: "/poi-images/croatia-vransko-jezero-life-v2.webp"},
-  {
+imageHint: "Vransko jezero lake birds view",
+    descriptionAdvanced: {
+      de: "Der Naturpark Vransko Jezero umfasst den größten natürlichen See Kroatiens. Er ist ein bedeutendes ornithologisches Reservat für seltene Vögel.",
+      hu: "A Vransko-tó Természetvédelmi Park Horvátország legnagyobb természetes tavát öleli fel. Nemzetközi jelentőségű madárrezervátum az Adria mentén.",
+      ro: "Parcul Natural Vransko Jezero cuprinde cel mai mare lac natural din Croația. Este o rezervație ornitologică vitală pentru păsările rare.",
+      en: "Vransko Jezero Nature Park features Croatia's largest natural lake. It is a significant ornithological reserve for rare and migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Seeoberfläche ca. 30 km²", "Über 250 Vogelarten", "Kryptodepression (Seeboden)", "Ramsar-Gebiet seit 2013"],
+      hu: ["A tó felülete kb. 30 km²", "Több mint 250 madárfaj", "Kriptodepresszió (mélypont)", "Ramsari terület 2013 óta"],
+      ro: ["Suprafață lac de cca. 30 km²", "Peste 250 de specii de păsări", "Criptodepresiune", "Sit Ramsar din anul 2013"],
+      en: ["Lake surface is approx. 30 km²", "Over 250 bird species recorded", "Cryptodepression phenomenon", "Ramsar site since 2013"],
+    },
+    image: "/poi-images/croatia-vransko-jezero-life-v2.webp",
+},  {
     id: "croatia-zagreb-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoologischer Garten Zagreb", hu: "Zágrábi Állatkert", ro: "Grădina Zoologică din Zagreb", en: "Zagreb Zoo" },
+    name: { de: "Zoologischer Garten Zagreb", hu: "Zágrábi Állatkert", ro: "Grădina Zoologică din Zagreb", en: "Zagreb Zoo",
+image: "/poi-images/croatia-zagreb-zoo-life-v2.webp"
+},
     coords: [16.021, 45.824],
     coordinates: { lat: 45.824, lng: 16.021 },
     description: {
@@ -285,11 +497,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Fondată la 27 iunie 1925", "Găzduiește panda roșii", "Situată în parcul Maksimir", "Participă la programe de conservare"],
       en: ["Founded on June 27, 1925", "Home to Red Pandas", "Part of the historic Maksimir Park", "Participates in breeding programs"],
     },
-    imageHint: "Zagreb zoo entrance and red panda", image: "/poi-images/croatia-zagreb-zoo-life-v2.webp"},
-  {
+imageHint: "Zagreb zoo entrance and red panda",
+    descriptionAdvanced: {
+      de: "Der Zoo Zagreb befindet sich im historischen Maksimir-Park. Er wurde 1925 gegründet und legt einen Schwerpunkt auf den Erhalt bedrohter Arten.",
+      hu: "A Zágrábi Állatkert a történelmi Maksimir-park déli részén található. 1925-ben nyílt meg, és elkötelezett a veszélyeztetett fajok megőrzése mellett.",
+      ro: "Grădina Zoologică din Zagreb este situată în parcul istoric Maksimir. Fondată în 1925, se concentrează pe conservarea speciilor pe cale de dispariție.",
+      en: "Zagreb Zoo is located within the historic Maksimir Park. Founded in 1925, it focuses on conservation and education regarding endangered species.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 27. Juni 1925", "Fläche von 7 Hektar", "Über 350 Tierarten", "Im Maksimir-Park gelegen"],
+      hu: ["Megnyílt 1925. június 27-én", "7 hektár terület", "Több mint 350 állatfaj", "A Maksimir-parkban található"],
+      ro: ["Fondată pe 27 iunie 1925", "Suprafață de 7 hectare", "Peste 350 de specii", "Situată în parcul Maksimir"],
+      en: ["Opened June 27, 1925", "Area of 7 hectares", "Over 350 animal species", "Inside historic Maksimir Park"],
+    },
+    image: "/poi-images/croatia-zagreb-zoo-life-v2.webp",
+},  {
     id: "croatia-botanical-garden-zagreb-life-v2",
     type: "park",
-    name: { de: "Botanischer Garten Zagreb", hu: "Zágrábi Botanikus Kert", ro: "Grădina Botanică din Zagreb", en: "Zagreb Botanical Garden" },
+    name: { de: "Botanischer Garten Zagreb", hu: "Zágrábi Botanikus Kert", ro: "Grădina Botanică din Zagreb", en: "Zagreb Botanical Garden",
+image: "/poi-images/croatia-botanical-garden-zagreb-life-v2.webp"
+},
     coords: [15.972, 45.805],
     coordinates: { lat: 45.805, lng: 15.972 },
     description: {
@@ -304,11 +531,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Înființată în anul 1889", "Peste 10.000 de specii de plante", "Pod istoric în stil victorian", "Parte a 'Potcoavei Verzi'"],
       en: ["Founded in 1889", "Houses over 10,000 plant species", "Features a Victorian wooden bridge", "Part of the Zagreb 'Green Horseshoe'"],
     },
-    imageHint: "Zagreb botanical garden flowers bridge", image: "/poi-images/croatia-botanical-garden-zagreb-life-v2.webp"},
-  {
+imageHint: "Zagreb botanical garden flowers bridge",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten in Zagreb ist Teil des „Grünen Hufeisens“. Er beherbergt über 10.000 Pflanzenarten in einer Anlage im englischen Landschaftsstil.",
+      hu: "A zágrábi Botanikus Kert az úgynevezett „Zöld Patkó” része. Több mint 10 000 növényfajnak ad otthont az angol tájképi kert stílusában épült parkban.",
+      ro: "Grădina Botanică din Zagreb face parte din „Potcoava Verde”. Găzduiește peste 10.000 de specii de plante într-un peisaj în stil englezesc.",
+      en: "The Zagreb Botanical Garden is part of the city's 'Green Horseshoe.' It hosts over 10,000 plant species in an English-style landscape garden.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1889", "Fläche von 4,7 Hektar", "10.000 Pflanzenarten", "Arboretum und Teiche"],
+      hu: ["Alapítva 1889-ben", "Területe 4,7 hektár", "10 000 növényfaj", "Arborétum és tavak"],
+      ro: ["Fondată în anul 1889", "Suprafață de 4,7 hectare", "10.000 de specii de plante", "Cuprinde arbori și iazuri"],
+      en: ["Founded in 1889", "Area of 4.7 hectares", "10,000 plant species", "Arboretum and ponds"],
+    },
+    image: "/poi-images/croatia-botanical-garden-zagreb-life-v2.webp",
+},  {
     id: "croatia-arboretum-trsteno-life-v2",
     type: "park",
-    name: { de: "Arboretum Trsteno", hu: "Trstenói Arborétum", ro: "Arboretul Trsteno", en: "Arboretum Trsteno" },
+    name: { de: "Arboretum Trsteno", hu: "Trstenói Arborétum", ro: "Arboretul Trsteno", en: "Arboretum Trsteno",
+image: "/poi-images/croatia-arboretum-trsteno-life-v2.webp"
+},
     coords: [17.977, 42.713],
     coordinates: { lat: 42.713, lng: 17.977 },
     description: {
@@ -323,11 +565,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1492", "Platani uriași de 500 de ani", "Loc de filmare pentru 'Game of Thrones'", "Reședință de vară renascentistă"],
       en: ["Established in 1492", "500-year-old giant plane trees", "Filming location for 'Game of Thrones'", "Renaissance-style summer residence"],
     },
-    imageHint: "Arboretum Trsteno fountain garden", image: "/poi-images/croatia-arboretum-trsteno-life-v2.webp"},
-  {
+imageHint: "Arboretum Trsteno fountain garden",
+    descriptionAdvanced: {
+      de: "Das Arboretum Trsteno ist eine der ältesten Gartenanlagen der Welt. Es ist berühmt für seine riesigen Platanen und die Renaissance-Architektur.",
+      hu: "Az Trsteno Arborétum a világ egyik legrégebbi reneszánsz kertje. Híres az 500 éves platánfáiról és a tengerre néző kilátásáról.",
+      ro: "Arboretumul Trsteno este una dintre cele mai vechi grădini din lume. Este faimos pentru platanii giganți și arhitectura renascentistă.",
+      en: "Arboretum Trsteno is one of the world's oldest arboretums. It is famous for its massive 500-year-old plane trees and Renaissance garden design.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1494", "Zwei 500 Jahre alte Platanen", "Renaissance-Villa", "Fläche von 25 Hektar"],
+      hu: ["Alapítva 1494-ben", "Két 500 éves platánfa", "Reneszánsz nyári villa", "Területe 25 hektár"],
+      ro: ["Fondat în anul 1494", "Doi platani de 500 de ani", "Vilă renascentistă", "Suprafață de 25 hectare"],
+      en: ["Founded in 1494", "Two 500-year-old plane trees", "Renaissance summer villa", "Area of 25 hectares"],
+    },
+    image: "/poi-images/croatia-arboretum-trsteno-life-v2.webp",
+},  {
     id: "croatia-lokrum-life-v2",
     type: "wildlife",
-    name: { de: "Insel Lokrum", hu: "Lokrum-sziget", ro: "Insula Lokrum", en: "Lokrum Island" },
+    name: { de: "Insel Lokrum", hu: "Lokrum-sziget", ro: "Insula Lokrum", en: "Lokrum Island",
+image: "/poi-images/croatia-lokrum-life-v2.webp"
+},
     coords: [18.12, 42.627],
     coordinates: { lat: 42.627, lng: 18.12 },
     description: {
@@ -342,11 +599,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Lac sărat numit 'Marea Moartă'", "Grădină botanică exotică", "Păuni care umblă liberi", "Nu are locuitori permanenți"],
       en: ["'Dead Sea' salt lake on the island", "Exotic botanical garden", "Populated by free-roaming peacocks", "No permanent residents allowed"],
     },
-    imageHint: "Lokrum island peacocks and sea", image: "/poi-images/croatia-lokrum-life-v2.webp"},
-  {
+imageHint: "Lokrum island peacocks and sea",
+    descriptionAdvanced: {
+      de: "Die Insel Lokrum liegt direkt vor Dubrovnik. Sie ist bekannt für ihren Botanischen Garten, ein Benediktinerkloster und frei laufende Pfauen.",
+      hu: "Lokrum szigete Dubrovnik közvetlen közelében fekszik. Botanikus kertjéről, bencés kolostoráról és a szabadon kószáló pávákról ismert.",
+      ro: "Insula Lokrum este situată chiar lângă Dubrovnik. Este cunoscută pentru grădina sa botanică, mănăstirea benedictină și păunii liberi.",
+      en: "Lokrum Island is located just off the coast of Dubrovnik. It features a botanical garden, a Benedictine monastery, and free-roaming peacocks.",
+    },
+    factsAdvanced: {
+      de: ["Maximilans Botanischer Garten", "Salzsee 'Totes Meer'", "Benediktinerkloster (11. Jh.)", "0,7 km² Inselfläche"],
+      hu: ["Miksa császár botanikus kertje", "Holt-tenger nevű sós tó", "Bencés kolostor (11. század)", "0,7 km² terület"],
+      ro: ["Grădina Botanică a lui Maximilian", "Lacul sărat 'Marea Moartă'", "Mănăstire benedictină (sec. XI)", "Suprafață de 0,7 km²"],
+      en: ["Maximilian's botanical garden", "Dead Sea saltwater lake", "11th-century monastery", "Area of 0.7 square kilometers"],
+    },
+    image: "/poi-images/croatia-lokrum-life-v2.webp",
+},  {
     id: "croatia-palud-life-v2",
     type: "wildlife",
-    name: { de: "Ornithologisches Reservat Palud", hu: "Palud Madárrezervátum", ro: "Rezervația Ornitologică Palud", en: "Palud Ornithological Reserve" },
+    name: { de: "Ornithologisches Reservat Palud", hu: "Palud Madárrezervátum", ro: "Rezervația Ornitologică Palud", en: "Palud Ornithological Reserve",
+image: "/poi-images/croatia-palud-life-v2.webp"
+},
     coords: [13.681, 45.025],
     coordinates: { lat: 45.025, lng: 13.681 },
     description: {
@@ -361,11 +633,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Singura rezervație din Istria", "Peste 219 specii observate", "Amestec de apă dulce și sărată", "Zonă importantă de cuibărit"],
       en: ["Only such reserve in Istria", "Over 219 bird species recorded", "Mix of fresh and salt water", "Crucial nesting ground"],
     },
-    imageHint: "Palud birdwatching swamp", image: "/poi-images/croatia-palud-life-v2.webp"},
-  {
+imageHint: "Palud birdwatching swamp",
+    descriptionAdvanced: {
+      de: "Palud bei Rovinj ist das erste ornithologische Reservat Istriens. Das brackwasserhaltige Sumpfgebiet ist ein wichtiger Rastplatz für Zugvögel.",
+      hu: "A Rovinj közelében fekvő Palud Isztria első madárrezervátuma. A sós-édes mocsárvilág fontos pihenőhely a vándormadarak számára.",
+      ro: "Palud, lângă Rovinj, este prima rezervație ornitologică din Istria. Zona mlăștinoasă cu apă salmastră este vitală pentru păsările migratoare.",
+      en: "Palud near Rovinj is the first ornithological reserve in Istria. This brackish wetland is a crucial stopover for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Reservat seit 1901", "220 verschiedene Vogelarten", "Sumpfgebiet (20 Hektar)", "Nähe zur Stadt Rovinj"],
+      hu: ["Rezervátum 1901 óta", "220 különböző madárfaj", "20 hektár mocsaras terület", "Rovinj város közelében"],
+      ro: ["Rezervație din anul 1901", "220 de specii de păsări", "Zonă umedă de 20 hectare", "Situat lângă Rovinj"],
+      en: ["Reserve since 1901", "220 different bird species", "20 hectares of wetlands", "Located near Rovinj"],
+    },
+    image: "/poi-images/croatia-palud-life-v2.webp",
+},  {
     id: "croatia-crna-mlaka-life-v2",
     type: "wildlife",
-    name: { de: "Ornithologisches Reservat Crna Mlaka", hu: "Crna Mlaka Madárrezervátum", ro: "Rezervația Ornitologică Crna Mlaka", en: "Crna Mlaka Ornithological Reserve" },
+    name: { de: "Ornithologisches Reservat Crna Mlaka", hu: "Crna Mlaka Madárrezervátum", ro: "Rezervația Ornitologică Crna Mlaka", en: "Crna Mlaka Ornithological Reserve",
+image: "/poi-images/croatia-crna-mlaka-life-v2.webp"
+},
     coords: [15.742, 45.615],
     coordinates: { lat: 45.615, lng: 15.742 },
     description: {
@@ -380,11 +667,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Situl Ramsar din anul 1993", "Centru de creștere a crapului", "Loc de cuibărit pentru codalb", "Proprietate privată protejată"],
       en: ["Ramsar site since 1993", "Center for carp fish farming", "White-tailed eagle nesting site", "Private property under protection"],
     },
-    imageHint: "Crna mlaka ponds birds", image: "/poi-images/croatia-crna-mlaka-life-v2.webp"},
-  {
+imageHint: "Crna mlaka ponds birds",
+    descriptionAdvanced: {
+      de: "Crna Mlaka bei Jastrebarsko ist ein bedeutendes Vogelschutzgebiet mit künstlichen Teichen. Es ist Teil der Ramsar-Liste internationaler Feuchtgebiete.",
+      hu: "A Jastrebarsko közelében található Crna Mlaka egy nemzetközi jelentőségű madárvédelmi terület. Halastavai számos ritka madárfaj otthonai.",
+      ro: "Crna Mlaka, lângă Jastrebarsko, este o zonă ornitologică importantă cu iazuri artificiale. Este pe lista Ramsar a zonelor umede.",
+      en: "Crna Mlaka near Jastrebarsko is an important bird reserve featuring artificial ponds. It is listed as a Ramsar wetland of international importance.",
+    },
+    factsAdvanced: {
+      de: ["Ramsar-Gebiet seit 1993", "Seeadler-Brutgebiet", "Fläche von 6,8 km²", "Künstliche Fischteiche"],
+      hu: ["Ramsari terület 1993 óta", "Rétisasok fészkelőhelye", "Területe 6,8 km²", "Mesterséges halastavak"],
+      ro: ["Sit Ramsar din anul 1993", "Cuib de vulturi codalb", "Suprafață de 6,8 km²", "Iazuri piscicole artificiale"],
+      en: ["Ramsar site since 1993", "White-tailed eagle habitat", "Covers 6.8 square kilometers", "Artificial fish ponds system"],
+    },
+    image: "/poi-images/croatia-crna-mlaka-life-v2.webp",
+},  {
     id: "croatia-lim-channel-life-v2",
     type: "wildlife",
-    name: { de: "Lim-Kanal", hu: "Lim-csatorna", ro: "Canalul Lim", en: "Lim Channel" },
+    name: { de: "Lim-Kanal", hu: "Lim-csatorna", ro: "Canalul Lim", en: "Lim Channel",
+image: "/poi-images/croatia-lim-channel-life-v2.webp"
+},
     coords: [13.731, 45.132],
     coordinates: { lat: 45.132, lng: 13.731 },
     description: {
@@ -399,11 +701,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Golf asemănător unui fjord", "Ferme de stridii și midii", "Peștera lui Romuald la capăt", "Pereți stâncoși de peste 100m"],
       en: ["Fjord-like sunken canyon", "Famous for oyster/mussel farming", "Romuald's Cave is nearby", "Cliffs rise over 100 meters high"],
     },
-    imageHint: "Lim channel Istria fjord", image: "/poi-images/croatia-lim-channel-life-v2.webp"},
-  {
+imageHint: "Lim channel Istria fjord",
+    descriptionAdvanced: {
+      de: "Der Lim-Kanal ist ein fjordähnlicher Meeresarm in Istrien. Das nährstoffreiche Brackwasser ist ideal für die Zucht von Austern und Miesmuscheln.",
+      hu: "A Lim-csatorna egy fjordhoz hasonló tengeröböl Isztrián. A tápanyagban gazdag félsós víz kiválóan alkalmas az osztriga- és kagylótenyésztésre.",
+      ro: "Canalul Lim este un braț marin asemănător unui fjord din Istria. Apa salmastră este ideală pentru creșterea scoicilor și a stridiilor.",
+      en: "Lim Channel is a fjord-like marine inlet in Istria. Its nutrient-rich brackish water is perfect for oyster and mussel farming.",
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 10 km", "Wassertiefe bis 30 m", "Romualdo-Höhle am Ufer", "Bedeutende Austernzucht"],
+      hu: ["Kb. 10 km hosszú", "A víz mélysége 30 m", "Szent Romuald-barlang", "Jelentős osztrigatelepek"],
+      ro: ["Lungime de cca. 10 km", "Adâncimea apei de 30 m", "Peștera Sf. Romuald", "Cultură de stridii renumită"],
+      en: ["Approx. 10 km long inlet", "Water depth up to 30 meters", "St. Romuald's Cave nearby", "Famous for oyster farming"],
+    },
+    image: "/poi-images/croatia-lim-channel-life-v2.webp",
+},  {
     id: "croatia-arboretum-opeka-life-v2",
     type: "park",
-    name: { de: "Arboretum Opeka", hu: "Opeka Arborétum", ro: "Arboretul Opeka", en: "Arboretum Opeka" },
+    name: { de: "Arboretum Opeka", hu: "Opeka Arborétum", ro: "Arboretul Opeka", en: "Arboretum Opeka",
+image: "/poi-images/croatia-arboretum-opeka-life-v2.webp"
+},
     coords: [16.143, 46.312],
     coordinates: { lat: 46.312, lng: 16.143 },
     description: {
@@ -418,11 +735,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Înființat în anul 1860", "Creat în jurul castelului Opeka", "Arbori exotici din toată lumea", "Suprafață de circa 65 hectare"],
       en: ["Established in 1860", "Surrounds the Opeka Castle", "Exotic trees from all over the world", "Covers about 65 hectares"],
     },
-    imageHint: "Arboretum Opeka trees castle", image: "/poi-images/croatia-arboretum-opeka-life-v2.webp"},
-  {
+imageHint: "Arboretum Opeka trees castle",
+    descriptionAdvanced: {
+      de: "Das Arboretum Opeka bei Varaždin ist der größte Park seiner Art in Kroatien. Es beherbergt zahlreiche exotische Bäume, die ab 1860 gepflanzt wurden.",
+      hu: "A Varaždin közelében fekvő Opeka Arborétum Horvátország legnagyobb ilyen jellegű parkja. Számos egzotikus fafajtát telepítettek ide 1860-tól kezdve.",
+      ro: "Arboretumul Opeka, lângă Varaždin, este cel mai mare parc de acest tip din Croația. Găzduiește arbori exotici plantați începând cu 1860.",
+      en: "Arboretum Opeka near Varaždin is Croatia's largest park of its kind. It features exotic trees and shrubs planted by the Bombelles family since 1860.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 64 Hektar", "Bombelles-Familie (1860)", "Schloss Opeka-Ruine", "Exotische Baumarten"],
+      hu: ["Területe 64 hektár", "Bombelles család (1860)", "Opeka-kastély romjai", "Egzotikus fafajok"],
+      ro: ["Suprafață de 64 hectare", "Familia Bombelles (1860)", "Ruinele castelului Opeka", "Specii de arbori exotici"],
+      en: ["Covers 64 hectares", "Bombelles family (1860)", "Ruins of Opeka Castle", "Rare exotic tree species"],
+    },
+    image: "/poi-images/croatia-arboretum-opeka-life-v2.webp",
+},  {
     id: "croatia-osijek-zoo-life-v2",
     type: "wildlife",
-    name: { de: "Zoo Osijek", hu: "Eszéki Állatkert", ro: "Grădina Zoologică din Osijek", en: "Osijek Zoo" },
+    name: { de: "Zoo Osijek", hu: "Eszéki Állatkert", ro: "Grădina Zoologică din Osijek", en: "Osijek Zoo",
+image: "/poi-images/croatia-osijek-zoo-life-v2.webp"
+},
     coords: [18.662, 45.565],
     coordinates: { lat: 45.565, lng: 18.662 },
     description: {
@@ -437,11 +769,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cea mai mare grădină zoologică", "Înființată în anul 1955", "Situată pe malul râului Drava", "Peste 100 de specii de animale"],
       en: ["Largest zoo in HR by area", "Established in 1955", "Located on the Drava riverbank", "Over 100 animal species"],
     },
-    imageHint: "Osijek zoo tiger or lion", image: "/poi-images/croatia-osijek-zoo-life-v2.webp"},
-  {
+imageHint: "Osijek zoo tiger or lion",
+    descriptionAdvanced: {
+      de: "Der Zoo Osijek erstreckt sich am Ufer der Drau. Mit seiner großzügigen Fläche bietet er den Tieren viel Freiraum und ist der größte Zoo des Landes.",
+      hu: "Az Eszéki Állatkert a Dráva partján terül el. Nagy alapterülete révén tágas kifutókat biztosít az állatoknak, területileg a legnagyobb az országban.",
+      ro: "Grădina Zoologică din Osijek se întinde pe malul râului Drava. Cu o suprafață generoasă, este cea mai mare grădină zoologică din țară.",
+      en: "Osijek Zoo is situated on the left bank of the Drava River. It is Croatia's largest zoo by land area, providing spacious animal enclosures.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1955", "Fläche von 11 Hektar", "Über 100 Tierarten", "Lage direkt an der Drau"],
+      hu: ["Alapítva 1955-ben", "Területe 11 hektár", "Több mint 100 állatfaj", "A Dráva partján fekszik"],
+      ro: ["Fondată în anul 1955", "Suprafață de 11 hectare", "Peste 100 de specii", "Situată pe malul Dravei"],
+      en: ["Established in 1955", "Area of 11 hectares", "Over 100 animal species", "Located along the Drava River"],
+    },
+    image: "/poi-images/croatia-osijek-zoo-life-v2.webp",
+},  {
     id: "croatia-kuterevo-bear-sanctuary-life-v2",
     type: "wildlife",
-    name: { de: "Bärenrefugium Kuterevo", hu: "Kuterevói Medvemenhely", ro: "Sanctuarul de urși Kuterevo", en: "Kuterevo Bear Sanctuary" },
+    name: { de: "Bärenrefugium Kuterevo", hu: "Kuterevói Medvemenhely", ro: "Sanctuarul de urși Kuterevo", en: "Kuterevo Bear Sanctuary",
+image: "/poi-images/croatia-kuterevo-bear-sanctuary-life-v2.webp"
+},
     coords: [15.142, 44.821],
     coordinates: { lat: 44.821, lng: 15.142 },
     description: {
@@ -456,11 +803,26 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Refugiu pentru urșii bruni", "Fondat în anul 2002", "Administrat de voluntari", "Educație despre protecția urșilor"],
       en: ["Sanctuary for brown bears", "Established in 2002", "Run by international volunteers", "Focuses on bear conservation education"],
     },
-    imageHint: "Kuterevo brown bear sanctuary", image: "/poi-images/croatia-kuterevo-bear-sanctuary-life-v2.webp"},
-  {
+imageHint: "Kuterevo brown bear sanctuary",
+    descriptionAdvanced: {
+      de: "Das Bärenrefugium Kuterevo in der Lika widmet sich dem Schutz verwaister Braunbären. Es wird fast ausschließlich von internationalen Freiwilligen betrieben.",
+      hu: "A Kuterevói Medvemenhely a Lika régióban az árva barna medvék védelmére jött létre. A projektet nemzetközi önkéntesek működtetik.",
+      ro: "Sanctuarul de urși din Kuterevo, Lika, protejează urșii bruni orfani. Este operat aproape exclusiv de către voluntari internaționali.",
+      en: "Kuterevo Bear Sanctuary in the Lika region protects orphaned brown bears. It is operated primarily by international volunteers and local enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2002", "Schutz für Braunbären", "Internationales Freiwilligenteam", "In der Region Lika"],
+      hu: ["Alapítva 2002-ben", "Barna medvék menedéke", "Nemzetközi önkéntes bázis", "Lika régió hegyeiben"],
+      ro: ["Înființat în anul 2002", "Refugiu pentru urși bruni", "Echipă de voluntari externi", "În regiunea montană Lika"],
+      en: ["Founded in 2002", "Habitat for brown bears", "International volunteer base", "Located in the Lika region"],
+    },
+    image: "/poi-images/croatia-kuterevo-bear-sanctuary-life-v2.webp",
+},  {
     id: "croatia-golubinjak-forest-life-v2",
     type: "forest",
-    name: { de: "Waldpark Golubinjak", hu: "Golubinjak Erdei Park", ro: "Parcul Forestier Golubinjak", en: "Golubinjak Forest Park" },
+    name: { de: "Waldpark Golubinjak", hu: "Golubinjak Erdei Park", ro: "Parcul Forestier Golubinjak", en: "Golubinjak Forest Park",
+image: "/poi-images/croatia-golubinjak-forest-life-v2.webp"
+},
     coords: [14.773, 45.362],
     coordinates: { lat: 45.362, lng: 14.773 },
     description: {
@@ -476,5 +838,17 @@ export const croatiaLifeV2: POI[] = [
       en: ["Massive fir and spruce trees", "'Queen of the Forest' cave", "Ice and Pigeon caves on site", "Protected park-forest area"],
     },
     imageHint: "Golubinjak forest park trees rocks",
+    descriptionAdvanced: {
+      de: "Der Waldpark Golubinjak im Gorski Kotar ist bekannt für seine majestätischen Tannen und Felsformationen. Er bietet Wanderwege durch dichte Karstwälder.",
+      hu: "A Golubinjak-erdőpark Gorski Kotarban fekszik, hatalmas fenyőiről és sziklaalakzatairól ismert. Kedvelt kirándulóhely barlangokkal és karsztformákkal.",
+      ro: "Parcul forestier Golubinjak din Gorski Kotar este renumit pentru brazii săi maiestuoși. Oferă trasee prin păduri dese și formațiuni stâncoase.",
+      en: "Golubinjak Forest Park in Gorski Kotar is known for its majestic fir trees and rock formations. It features hiking trails through dense karst forests.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 51 Hektar", "Riesentanne 'Königin des Waldes'", "Eishöhle (Ledena pećina)", "Region Gorski Kotar"],
+      hu: ["Területe 51 hektár", "Az 'Erdő Királynője' óriásfenyő", "Jeges-barlang (Ledena pećina)", "Gorski Kotar régióban"],
+      ro: ["Suprafață de 51 hectare", "Bradul 'Regina Pădurii'", "Peștera de Gheață", "Regiunea Gorski Kotar"],
+      en: ["Covers 51 hectares", "'Queen of the Forest' fir", "Ice Cave (Ledena pećina)", "Located in Gorski Kotar"],
+    },
   }
 ];

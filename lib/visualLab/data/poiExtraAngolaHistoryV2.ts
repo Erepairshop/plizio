@@ -10,8 +10,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung São Miguel",
       hu: "São Miguel erőd",
       ro: "Fortăreața São Miguel",
-      en: "Fortaleza de São Miguel"
-    },
+      en: "Fortaleza de São Miguel",
+image: "/poi-images/fortaleza-sao-miguel-history-v2.webp"
+},
     description: {
       de: "Eine 1576 erbaute portugiesische Festung in Luanda, die während der Kolonialzeit als administratives und militärisches Zentrum diente.",
       hu: "Egy 1576-ban épült portugál erőd Luandában, amely a gyarmati időkben adminisztratív és katonai központként szolgált.",
@@ -45,8 +46,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "M'banza Kongo",
       hu: "M'banza Kongo",
       ro: "M'banza Kongo",
-      en: "M'banza Kongo"
-    },
+      en: "M'banza Kongo",
+image: "/poi-images/mbanza-kongo-ruins-history-v2.webp"
+},
     description: {
       de: "Die ehemalige Hauptstadt des historischen Königreichs Kongo, die vom 14. bis 19. Jahrhundert eines der größten Reiche im südlichen Afrika war.",
       hu: "A történelmi Kongói Királyság egykori fővárosa, amely a 14. és 19. század között Dél-Afrika egyik legnagyobb birodalma volt.",
@@ -80,8 +82,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung Massangano",
       hu: "Massangano erőd",
       ro: "Fortăreața Massangano",
-      en: "Fort of Massangano"
-    },
+      en: "Fort of Massangano",
+image: "/poi-images/massangano-fort-history-v2.webp"
+},
     description: {
       de: "Eine historische portugiesische Festung am Fluss Kwanza, die 1583 erbaut wurde und eine Schlüsselrolle bei der Kolonisierung des Landesinneren spielte.",
       hu: "Egy történelmi portugál erőd a Kwanza folyó mentén, amely 1583-ban épült, és kulcsszerepet játszott a szárazföld gyarmatosításában.",
@@ -115,8 +118,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Eisenpalast",
       hu: "Vaspalota",
       ro: "Palatul de Fier",
-      en: "Iron Palace"
-    },
+      en: "Iron Palace",
+image: "/poi-images/palacio-de-ferro-history-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude in Luanda, von dem angenommen wird, dass es von Gustave Eiffel entworfen und Ende des 19. Jahrhunderts errichtet wurde.",
       hu: "Egy történelmi épület Luandában, amelyet feltételezések szerint Gustave Eiffel tervezett, és a 19. század végén épült.",
@@ -150,8 +154,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Schwarze Felsen von Pungo Andongo",
       hu: "Pungo Andongo fekete sziklái",
       ro: "Pietrele Negre din Pungo Andongo",
-      en: "Black Stones of Pungo Andongo"
-    },
+      en: "Black Stones of Pungo Andongo",
+image: "/poi-images/pungo-andongo-history-v2.webp"
+},
     description: {
       de: "Eine beeindruckende geologische Formation und der historische Sitz des Königreichs Ndongo unter der berühmten Königin Nzinga im 17. Jahrhundert.",
       hu: "Látványos geológiai képződmény és a Ndongo Királyság történelmi központja a híres Nzinga királynő uralma alatt a 17. században.",
@@ -185,8 +190,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung Muxima",
       hu: "Muxima erőd",
       ro: "Fortăreața Muxima",
-      en: "Fort of Muxima"
-    },
+      en: "Fort of Muxima",
+image: "/poi-images/muxima-fort-history-v2.webp"
+},
     description: {
       de: "Eine 1599 erbaute Festung, die den portugiesischen Handel auf dem Kwanza-Fluss schützte und nahe einer der wichtigsten Pilgerstätten des Landes liegt.",
       hu: "Egy 1599-ben épült erőd, amely a portugál kereskedelmet védte a Kwanza folyón, és az ország egyik legfontosabb zarándokhelye közelében található.",
@@ -220,8 +226,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Schlachtfeld von Cuito Cuanavale",
       hu: "Cuito Cuanavale-i csatatér",
       ro: "Câmpul de luptă Cuito Cuanavale",
-      en: "Cuito Cuanavale Battlefield"
-    },
+      en: "Cuito Cuanavale Battlefield",
+image: "/poi-images/cuito-cuanavale-battlefield-history-v2.webp"
+},
     description: {
       de: "Der historische Ort der größten Landschlacht in Afrika seit dem Zweiten Weltkrieg, die zwischen 1987 und 1988 während des angolanischen Bürgerkriegs stattfand.",
       hu: "Afrika legnagyobb szárazföldi csatájának történelmi helyszíne a második világháború óta, amely 1987 és 1988 között zajlott az angolai polgárháború idején.",
@@ -255,8 +262,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung Cambambe",
       hu: "Cambambe erőd",
       ro: "Fortăreața Cambambe",
-      en: "Fort of Cambambe"
-    },
+      en: "Fort of Cambambe",
+image: "/poi-images/cambambe-fort-history-v2.webp"
+},
     description: {
       de: "Ruinen einer portugiesischen Festung aus dem Jahr 1604, die erbaut wurde, um die angeblichen Silberminen in der Region zu kontrollieren.",
       hu: "Egy 1604-ből származó portugál erőd romjai, amelyet a régió feltételezett ezüstbányáinak ellenőrzésére építettek.",
@@ -290,8 +298,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Ruinen der Kathedrale São Salvador",
       hu: "São Salvador katedrális romjai",
       ro: "Ruinele Catedralei São Salvador",
-      en: "Ruins of São Salvador Cathedral"
-    },
+      en: "Ruins of São Salvador Cathedral",
+image: "/poi-images/sao-salvador-church-history-v2.webp"
+},
     description: {
       de: "Die Überreste dessen, was viele für die älteste katholische Kirche südlich der Sahara halten, erbaut Ende des 15. Jahrhunderts im Königreich Kongo.",
       hu: "A feltételezések szerint a Szaharától délre fekvő legrégebbi katolikus templom maradványai, amely a 15. század végén épült a Kongói Királyságban.",
@@ -325,8 +334,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Simulambuco-Vertragsdenkmal",
       hu: "Simulambuco-szerződés emlékműve",
       ro: "Monumentul Tratatului de la Simulambuco",
-      en: "Simulambuco Treaty Monument"
-    },
+      en: "Simulambuco Treaty Monument",
+image: "/poi-images/simulambuco-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal zur Erinnerung an den Vertrag von Simulambuco aus dem Jahr 1885, der Cabinda zu einem portugiesischen Protektorat machte.",
       hu: "Az 1885-ös simulambucói szerződés emlékműve, amely Cabindát portugál protektorátussá tette.",
@@ -360,8 +370,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung Caconda",
       hu: "Caconda erőd",
       ro: "Fortăreața Caconda",
-      en: "Fort of Caconda"
-    },
+      en: "Fort of Caconda",
+image: "/poi-images/caconda-fort-history-v2.webp"
+},
     description: {
       de: "Die Überreste eines historischen portugiesischen Militärvorpostens, der 1682 im Hochland von Huíla gegründet wurde.",
       hu: "Egy történelmi portugál katonai előőrs maradványai, amelyet 1682-ben alapítottak a Huíla-fennsíkon.",
@@ -395,8 +406,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Kleine Festung von Kikombo",
       hu: "Kikombo kis erőd",
       ro: "Micul Fort Kikombo",
-      en: "Little Fort of Kikombo"
-    },
+      en: "Little Fort of Kikombo",
+image: "/poi-images/kikombo-fort-history-v2.webp"
+},
     description: {
       de: "Eine kleine Küstenfestung aus dem 17. Jahrhundert, die mit dem Sklavenhandel und dem Widerstand gegen die niederländische Besatzung verbunden ist.",
       hu: "Egy 17. századi kis tengerparti erőd, amely a rabszolga-kereskedelemhez és a holland megszállás elleni ellenálláshoz kötődik.",
@@ -432,8 +444,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung São Francisco do Penedo",
       hu: "São Francisco do Penedo erőd",
       ro: "Fortăreața São Francisco do Penedo",
-      en: "Fort of São Francisco do Penedo"
-    },
+      en: "Fort of São Francisco do Penedo",
+image: "/poi-images/sao-francisco-penedo-history-v2.webp"
+},
     description: {
       de: "Eine im 18. Jahrhundert in Luanda errichtete Festung zur Verteidigung der Bucht und als Gefängnis für politische Häftlinge in der Spätkolonialzeit.",
       hu: "A 18. században épült erőd Luandában az öböl védelmére, a késő gyarmati korszakban pedig politikai foglyok börtöneként szolgált.",
@@ -469,8 +482,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Geisterstadt Baía dos Tigres",
       hu: "Baía dos Tigres szellemváros",
       ro: "Orașul fantomă Baía dos Tigres",
-      en: "Baía dos Tigres Ghost Town"
-    },
+      en: "Baía dos Tigres Ghost Town",
+image: "/poi-images/baia-dos-tigres-ghost-town-history-v2.webp"
+},
     description: {
       de: "Die verlassenen Ruinen einer einst blühenden portugiesischen Fischereisiedlung, die zur Insel wurde, als der Ozean 1962 die Halbinsel durchbrach.",
       hu: "Egy egykor virágzó portugál halásztelepülés elhagyott romjai, amely szigetté vált, amikor az óceán 1962-ben átszakította a félszigetet.",
@@ -504,8 +518,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Schlachtfeld von Cassinga",
       hu: "Cassinga csatatér",
       ro: "Câmpul de luptă Cassinga",
-      en: "Cassinga Battlefield"
-    },
+      en: "Cassinga Battlefield",
+image: "/poi-images/cassinga-monument-history-v2.webp"
+},
     description: {
       de: "Der historische Ort eines südafrikanischen Luftwaffenangriffs 1978 auf ein SWAPO-Lager, ein tragisches und bedeutendes Ereignis des Grenzkrieges.",
       hu: "Egy 1978-as dél-afrikai légitámadás történelmi helyszíne egy SWAPO tábor ellen, amely a határháború tragikus és jelentős eseménye volt.",
@@ -539,8 +554,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung São Pedro da Barra",
       hu: "São Pedro da Barra erőd",
       ro: "Fortăreața São Pedro da Barra",
-      en: "Fort of São Pedro da Barra"
-    },
+      en: "Fort of São Pedro da Barra",
+image: "/poi-images/sao-pedro-barra-fort-history-v2.webp"
+},
     description: {
       de: "Eine Verteidigungsanlage aus dem 17. Jahrhundert in Luanda, die von den Portugiesen nach der Rückeroberung der Stadt von den Niederländern erbaut wurde.",
       hu: "Egy 17. századi védmű Luandában, amelyet a portugálok építettek, miután visszafoglalták a várost a hollandoktól.",
@@ -574,8 +590,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Felsbilder von Ndalambiri",
       hu: "Ndalambiri sziklarajzai",
       ro: "Arta rupestră de la Ndalambiri",
-      en: "Ndalambiri Rock Art"
-    },
+      en: "Ndalambiri Rock Art",
+image: "/poi-images/kwanza-sul-rock-art-history-v2.webp"
+},
     description: {
       de: "Historische prähistorische Felsmalereien und Gravuren in der Provinz Cuanza Sul, die das Leben früherer Jäger und Sammler dokumentieren.",
       hu: "Történelmi őskori sziklafestmények és gravírozások Cuanza Sul tartományban, amelyek a korai vadászó-gyűjtögetők életét dokumentálják.",
@@ -609,8 +626,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Sé Catedral de Luanda",
       hu: "Luandai katedrális",
       ro: "Catedrala din Luanda",
-      en: "Cathedral of Luanda"
-    },
+      en: "Cathedral of Luanda",
+image: "/poi-images/cathedral-of-luanda-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende römisch-katholische Kathedrale aus dem 17. Jahrhundert, die als eines der wichtigsten kolonialen Architekturdenkmäler der Stadt gilt.",
       hu: "Egy jelentős 17. századi római katolikus katedrális, amely a város egyik legfontosabb gyarmati építészeti műemléke.",
@@ -644,8 +662,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Friedhof Alto das Cruzes",
       hu: "Alto das Cruzes temető",
       ro: "Cimitirul Alto das Cruzes",
-      en: "Alto das Cruzes Cemetery"
-    },
+      en: "Alto das Cruzes Cemetery",
+image: "/poi-images/alto-das-cruzes-cemetery-history-v2.webp"
+},
     description: {
       de: "Der bekannteste historische Friedhof in Luanda, letzte Ruhestätte zahlreicher prominenter Persönlichkeiten aus der Kolonialzeit und Unabhängigkeit.",
       hu: "Luanda legismertebb történelmi temetője, amely számos kiemelkedő gyarmati és függetlenségi kori személyiség végső nyughelye.",
@@ -679,8 +698,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Historisches Zentrum Moçâmedes",
       hu: "Moçâmedes történelmi központja",
       ro: "Centrul Istoric Moçâmedes",
-      en: "Moçâmedes Historic Center"
-    },
+      en: "Moçâmedes Historic Center",
+image: "/poi-images/mocamedes-historic-center-history-v2.webp"
+},
     description: {
       de: "Ein gut erhaltenes koloniales Küstenzentrum in Namibe, das die portugiesische Architektur des 19. und frühen 20. Jahrhunderts widerspiegelt.",
       hu: "Egy jól megőrzött gyarmati tengerparti központ Namibében, amely a 19. és a kora 20. századi portugál építészetet tükrözi.",
@@ -716,8 +736,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Historisches Kalandula",
       hu: "Történelmi Kalandula",
       ro: "Kalandula Istorică",
-      en: "Historical Kalandula"
-    },
+      en: "Historical Kalandula",
+image: "/poi-images/kalandula-battle-site-history-v2.webp"
+},
     description: {
       de: "Das Gebiet um Duque de Bragança (heute Kalandula), das während der portugiesischen Kolonialkriege im 19. Jahrhundert heftig umkämpft war.",
       hu: "Duque de Bragança (ma Kalandula) környéke, amelyért heves harcok folytak a 19. századi portugál gyarmati háborúk során.",
@@ -753,8 +774,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Historischer Hafen Dondo",
       hu: "Dondo történelmi kikötő",
       ro: "Portul Istoric Dondo",
-      en: "Dondo Historic Port"
-    },
+      en: "Dondo Historic Port",
+image: "/poi-images/dondo-river-port-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende historische Handelsstadt am Fluss Kwanza, die in der Kolonialzeit ein Knotenpunkt für den Handel zwischen Küste und Inland war.",
       hu: "Jelentős történelmi kereskedőváros a Kwanza folyónál, amely a gyarmati korban a partvidék és a belföld közötti kereskedelem csomópontja volt.",
@@ -788,8 +810,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Historisches Quibaxe",
       hu: "Történelmi Quibaxe",
       ro: "Quibaxe Istoric",
-      en: "Historic Quibaxe"
-    },
+      en: "Historic Quibaxe",
+image: "/poi-images/quibaxe-resistance-history-v2.webp"
+},
     description: {
       de: "Ein historisches Zentrum der Kaffeeproduktion und einer der ersten Schauplätze des antokolonialen Aufstands von 1961.",
       hu: "A kávétermelés történelmi központja és az 1961-es gyarmatellenes felkelés egyik első helyszíne.",
@@ -823,8 +846,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Historisches Dombe Grande",
       hu: "Történelmi Dombe Grande",
       ro: "Dombe Grande Istoric",
-      en: "Historic Dombe Grande"
-    },
+      en: "Historic Dombe Grande",
+image: "/poi-images/dombe-grande-history-v2.webp"
+},
     description: {
       de: "Ein altes landwirtschaftliches Zentrum, das für seine historischen Zuckerrohrplantagen und Kolonialarchitektur aus dem 19. Jahrhundert bekannt ist.",
       hu: "Régi mezőgazdasági központ, amely történelmi cukornádültetvényeiről és 19. századi gyarmati építészetéről ismert.",
@@ -858,8 +882,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Königsgräber von Ngola Kiluanje",
       hu: "Ngola Kiluanje királysírok",
       ro: "Mormintele Regale din Ngola Kiluanje",
-      en: "Royal Tombs of Ngola Kiluanje"
-    },
+      en: "Royal Tombs of Ngola Kiluanje",
+image: "/poi-images/ngola-kiluanje-tombs-history-v2.webp"
+},
     description: {
       de: "Historische Grabstätten traditioneller afrikanischer Könige des Ndongo-Reiches, ein wichtiger Ort des vorkolonialen Erbes.",
       hu: "A Ndongo Birodalom hagyományos afrikai királyainak történelmi sírhelyei, a gyarmatosítás előtti örökség fontos helyszíne.",
@@ -893,8 +918,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Grenzposten Cuangar",
       hu: "Cuangar határállomás",
       ro: "Punctul de frontieră Cuangar",
-      en: "Cuangar Border Post"
-    },
+      en: "Cuangar Border Post",
+image: "/poi-images/cuangar-fort-history-v2.webp"
+},
     description: {
       de: "Ein historischer portugiesischer Militärposten am Fluss Okavango, der 1914 Schauplatz eines frühen Gefechts im Ersten Weltkrieg in Afrika war.",
       hu: "Egy történelmi portugál katonai állomás az Okavango folyónál, amely az első világháború egyik korai afrikai ütközetének helyszíne volt 1914-ben.",
@@ -928,8 +954,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung Roçadas",
       hu: "Roçadas erőd",
       ro: "Fortăreața Roçadas",
-      en: "Fort Roçadas"
-    },
+      en: "Fort Roçadas",
+image: "/poi-images/fort-rocadas-xangongo-history-v2.webp"
+},
     description: {
       de: "Ein koloniales Fort in Xangongo, benannt nach General Alves Roçadas, erbaut zur Festigung der portugiesischen Kontrolle im Süden Angolas.",
       hu: "Gyarmati erőd Xangongóban, amelyet Alves Roçadas tábornokról neveztek el, a portugál uralom megerősítésére épült Dél-Angolában.",
@@ -963,8 +990,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Lobito-Eisenbahndenkmal",
       hu: "Lobito vasúti emlékmű",
       ro: "Monumentul Căii Ferate Lobito",
-      en: "Lobito Railway Monument"
-    },
+      en: "Lobito Railway Monument",
+image: "/poi-images/benguela-railway-monument-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal in Lobito, das den Beginn der historischen Benguelabahn feiert, eines der wichtigsten Infrastrukturprojekte der Kolonialzeit.",
       hu: "Lobitóban található emlékmű, amely a történelmi Benguela-vasút kezdetét ünnepli, ami a gyarmati kor egyik legfontosabb infrastrukturális projektje volt.",
@@ -998,8 +1026,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Märtyrerdenkmal Kuito",
       hu: "Kuito mártíremlékmű",
       ro: "Monumentul Martirilor Kuito",
-      en: "Kuito Martyrs' Monument"
-    },
+      en: "Kuito Martyrs' Monument",
+image: "/poi-images/iron-palace-kuito-history-v2.webp"
+},
     description: {
       de: "Ein Gedenkort in der schwer zerstörten Stadt Kuito, gewidmet den tausenden Zivilisten, die während der Belagerung von Kuito in den 1990er Jahren starben.",
       hu: "Emlékhely a súlyosan elpusztult Kuito városában, azon több ezer civil emlékére, akik az 1990-es években a város ostroma során haltak meg.",
@@ -1033,8 +1062,9 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       de: "Festung Santa Maria de Cabinda",
       hu: "Santa Maria de Cabinda erőd",
       ro: "Fortăreața Santa Maria de Cabinda",
-      en: "Fort of Santa Maria de Cabinda"
-    },
+      en: "Fort of Santa Maria de Cabinda",
+image: "/poi-images/cabinda-fort-history-v2.webp"
+},
     description: {
       de: "Die Überreste portugiesischer Befestigungsanlagen in der Exklave Cabinda, die während der kolonialen Expansion zum Schutz des Seehandels errichtet wurden.",
       hu: "A portugál erődítmények maradványai a Cabinda exklávéban, amelyeket a gyarmati terjeszkedés során a tengeri kereskedelem védelmére építettek.",

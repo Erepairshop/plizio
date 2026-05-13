@@ -10,8 +10,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Chöwsgöl-See",
       hu: "Khövsgöl-tó",
       ro: "Lacul Khövsgöl",
-      en: "Lake Khövsgöl"
-    },
+      en: "Lake Khövsgöl",
+image: "/poi-images/khovsgol-lake-nature-v2.webp"
+},
     description: {
       de: "Er wird oft als die 'dunkelblaue Perle' der Mongolei bezeichnet und ist der größte Süßwassersee des Landes.",
       hu: "Gyakran Mongólia 'sötétkék gyöngyszemeként' emlegetik, és ez az ország legnagyobb édesvizű tava.",
@@ -33,8 +34,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Orchon-Fluss",
       hu: "Orhon-folyó",
       ro: "Râul Orkhon",
-      en: "Orkhon River"
-    },
+      en: "Orkhon River",
+image: "/poi-images/orkhon-river-nature-v2.webp"
+},
     description: {
       de: "Der längste Fluss der Mongolei fließt durch ein historisch reiches Tal, das einst das Zentrum großer Nomadenreiche war.",
       hu: "Mongólia leghosszabb folyója egy történelmileg gazdag völgyön folyik keresztül, amely egykor nagy nomád birodalmak központja volt.",
@@ -56,8 +58,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Gobi-Gurwansaichan-Nationalpark",
       hu: "Góbi Gurvanszajhan Nemzeti Park",
       ro: "Parcul Național Gobi Gurvansaikhan",
-      en: "Gobi Gurvansaikhan National Park"
-    },
+      en: "Gobi Gurvansaikhan National Park",
+image: "/poi-images/gobi-gurvansaikhan-nature-v2.webp"
+},
     description: {
       de: "Der größte Nationalpark der Mongolei schützt eine einzigartige Wüsten- und Berglandschaft, in der seltene Tierarten wie der Schneeleopard heimisch sind.",
       hu: "Mongólia legnagyobb nemzeti parkja egyedülálló sivatagi és hegyvidéki tájat véd, ahol ritka állatfajok, például a hópárduc élnek.",
@@ -79,8 +82,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Uws-Nuur",
       hu: "Uvsz-tó",
       ro: "Lacul Uvs",
-      en: "Uvs Lake"
-    },
+      en: "Uvs Lake",
+image: "/poi-images/uvs-lake-nature-v2.webp"
+},
     description: {
       de: "Dieser riesige, flache Salzsee im Nordwesten der Mongolei ist das Zentrum eines abflusslosen Beckens von extremer klimatischer Bedeutung.",
       hu: "Ez a hatalmas, sekély sós tó Mongólia északnyugati részén egy szélsőséges éghajlati jelentőségű, lefolyástalan medence központja.",
@@ -102,8 +106,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Tuul-Fluss",
       hu: "Túl-folyó",
       ro: "Râul Tuul",
-      en: "Tuul River"
-    },
+      en: "Tuul River",
+image: "/poi-images/tuul-river-nature-v2.webp"
+},
     description: {
       de: "Dieser heilige Fluss schlängelt sich durch den Khentii-Gebirgszug und fließt direkt durch die Hauptstadt Ulaanbaatar.",
       hu: "Ez a szent folyó a Hentij-hegységen kanyarog keresztül, és egyenesen a fővároson, Ulánbátoron folyik át.",
@@ -125,8 +130,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Charchiraa-Berg",
       hu: "Harhiraa-hegy",
       ro: "Muntele Kharkhiraa",
-      en: "Kharkhiraa Mountain"
-    },
+      en: "Kharkhiraa Mountain",
+image: "/poi-images/kharkhiraa-mountain-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Doppelgipfel im Altai-Gebirge, der von ausgedehnten Gletschern und tiefen Tälern geprägt ist.",
       hu: "Az Altaj-hegység egyik jellegzetes ikercsúcsa, amelyet kiterjedt gleccserek és mély völgyek jellemeznek.",
@@ -148,8 +154,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Otgontenger",
       hu: "Otgontenger",
       ro: "Otgontenger",
-      en: "Otgontenger"
-    },
+      en: "Otgontenger",
+image: "/poi-images/otgontenger-mountain-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg im Changai-Gebirge ist ein verehrter, heiliger Gipfel, dessen schneebedeckte Kuppe schon von weitem sichtbar ist.",
       hu: "A Hangáj-hegység legmagasabb hegye egy tisztelt, szent csúcs, amelynek hóval borított teteje már messziről látható.",
@@ -171,8 +178,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Khar-Us-See",
       hu: "Har-Usz-tó",
       ro: "Lacul Khar-Us",
-      en: "Khar-Us Lake"
-    },
+      en: "Khar-Us Lake",
+image: "/poi-images/khar-us-lake-nature-v2.webp"
+},
     description: {
       de: "Dieser 'Schwarze Wassersee' im Westen der Mongolei ist durch eine große Schilfinsel in zwei Teile geteilt und ein Paradies für Wasservögel.",
       hu: "Ezt a nyugat-mongóliai 'Fekete vizű tavat' egy nagy nádassziget osztja ketté, és igazi paradicsom a vízimadarak számára.",
@@ -194,8 +202,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Onon-Fluss",
       hu: "Onon-folyó",
       ro: "Râul Onon",
-      en: "Onon River"
-    },
+      en: "Onon River",
+image: "/poi-images/onon-river-nature-v2.webp"
+},
     description: {
       de: "Der Fluss entspringt im Khentii-Gebirge und ist eng mit der Legende von Dschingis Khan verbunden, der an seinen Ufern geboren sein soll.",
       hu: "A folyó a Hentij-hegységben ered, és szorosan kötődik Dzsingisz kán legendájához, aki a mondák szerint a partján született.",
@@ -217,8 +226,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Khar-Nuur (Zavkhan)",
       hu: "Har-tó (Zavhan)",
       ro: "Lacul Khar (Zavkhan)",
-      en: "Khar Lake (Zavkhan)"
-    },
+      en: "Khar Lake (Zavkhan)",
+image: "/poi-images/khar-lake-zavkhan-nature-v2.webp"
+},
     description: {
       de: "Eingebettet in massive Sanddünen, bietet dieser magische blaue See einen dramatischen Kontrast zur trockenen Wüstenlandschaft.",
       hu: "A hatalmas homokdűnék közé ékelődő varázslatos kék tó drámai kontrasztot alkot a száraz sivatagi tájjal.",
@@ -240,8 +250,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Selenge-Fluss",
       hu: "Szelenga-folyó",
       ro: "Râul Selenga",
-      en: "Selenge River"
-    },
+      en: "Selenge River",
+image: "/poi-images/selenge-river-nature-v2.webp"
+},
     description: {
       de: "Ein mächtiger Wasserlauf, der den größten Teil der nördlichen Mongolei entwässert und entscheidend für das Ökosystem des Baikalsees ist.",
       hu: "Egy hatalmas vízfolyás, amely Észak-Mongólia nagy részét lecsapolja, és kulcsfontosságú a Bajkál-tó ökoszisztémája szempontjából.",
@@ -263,8 +274,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Changai-Gebirge",
       hu: "Hangáj-hegység",
       ro: "Munții Khangai",
-      en: "Khangai Mountains"
-    },
+      en: "Khangai Mountains",
+image: "/poi-images/khangai-mountains-nature-v2.webp"
+},
     description: {
       de: "Dieses grüne und wasserreiche Gebirgsmassiv im Zentrum des Landes zeichnet sich durch weite Almwiesen und dichte Lärchenwälder aus.",
       hu: "Az ország közepén fekvő zöld és vízben gazdag hegyvidéket kiterjedt alpesi rétek és sűrű vörösfenyőerdők jellemzik.",
@@ -286,8 +298,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Khentii-Gebirge",
       hu: "Hentij-hegység",
       ro: "Munții Khentii",
-      en: "Khentii Mountains"
-    },
+      en: "Khentii Mountains",
+image: "/poi-images/khentii-mountains-nature-v2.webp"
+},
     description: {
       de: "Eine raue, schwer zugängliche Bergkette im Nordosten, die als natürliche Barriere zwischen der sibirischen Taiga und der asiatischen Steppe wirkt.",
       hu: "Zord, nehezen megközelíthető hegység északkeleten, amely természetes határként szolgál a szibériai tajga és az ázsiai sztyeppe között.",
@@ -309,8 +322,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Buir-See",
       hu: "Bujr-tó",
       ro: "Lacul Buir",
-      en: "Buir Lake"
-    },
+      en: "Buir Lake",
+image: "/poi-images/buir-lake-nature-v2.webp"
+},
     description: {
       de: "Ein großer Süßwassersee im äußersten Osten der Mongolei, der sich über die Grenze nach China erstreckt und reich an Fischbeständen ist.",
       hu: "Nagy édesvizű tó Mongólia legkeletibb részén, amely átnyúlik a kínai határon, és rendkívül gazdag halállománnyal rendelkezik.",
@@ -332,8 +346,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Ikh-Bogd-Uul",
       hu: "Ih-Bogd-hegy",
       ro: "Muntele Ikh Bogd",
-      en: "Ikh Bogd Mountain"
-    },
+      en: "Ikh Bogd Mountain",
+image: "/poi-images/ikh-bogd-mountain-nature-v2.webp"
+},
     description: {
       de: "Der höchste Gipfel des Gobi-Altai-Gebirges erhebt sich majestätisch aus der umliegenden Halbwüste und bietet spektakuläre Ausblicke.",
       hu: "A Góbi-Altaj hegység legmagasabb csúcsa fenségesen emelkedik ki a környező félsivatagból, és látványos kilátást nyújt.",
@@ -355,8 +370,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Mongolischer Altai",
       hu: "Mongol-Altaj",
       ro: "Altaiul Mongol",
-      en: "Mongolian Altai"
-    },
+      en: "Mongolian Altai",
+image: "/poi-images/mongolian-altai-nature-v2.webp"
+},
     description: {
       de: "Ein massives, vergletschertes Gebirgssystem, das die westliche Grenze der Mongolei prägt und von extremen Temperaturschwankungen dominiert wird.",
       hu: "Hatalmas, eljegesedett hegyrendszer, amely Mongólia nyugati határát alkotja, és extrém hőmérséklet-ingadozások jellemzik.",
@@ -378,8 +394,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Cherlen-Fluss",
       hu: "Kerülen-folyó",
       ro: "Râul Kherlen",
-      en: "Kherlen River"
-    },
+      en: "Kherlen River",
+image: "/poi-images/kherlen-river-nature-v2.webp"
+},
     description: {
       de: "Einer der drei großen Flüsse der Ostmongolei, der durch weite Steppenlandschaften mäandert und wichtig für die nomadische Viehzucht ist.",
       hu: "Kelet-Mongólia három nagy folyójának egyike, amely kiterjedt sztyeppéken kanyarog, és létfontosságú a nomád állattartás számára.",
@@ -401,8 +418,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Chan-Chentii-Wald",
       hu: "Han-Hentij Erdő",
       ro: "Pădurea Khan Khentii",
-      en: "Khan Khentii Forest"
-    },
+      en: "Khan Khentii Forest",
+image: "/poi-images/khan-khentii-forest-nature-v2.webp"
+},
     description: {
       de: "Ein dichtes, naturbelassenes Nadelwaldgebiet im Norden der Mongolei, das den Übergang von der mongolischen Steppe zur sibirischen Taiga markiert.",
       hu: "Sűrű, érintetlen tűlevelű erdőség Észak-Mongóliában, amely a mongol sztyeppe és a szibériai tajga közötti átmenetet jelzi.",
@@ -424,8 +442,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Egiin-Gol",
       hu: "Egiin-Gol",
       ro: "Râul Egiin",
-      en: "Egiin Gol"
-    },
+      en: "Egiin Gol",
+image: "/poi-images/egiin-gol-nature-v2.webp"
+},
     description: {
       de: "Der einzige Abfluss des Chöwsgöl-Sees ist ein kristallklarer, reißender Fluss, der sich durch malerische, bewaldete Täler windet.",
       hu: "A Khövsgöl-tó egyetlen lefolyása egy kristálytiszta, sebes vizű folyó, amely festői, erdős völgyeken kanyarog keresztül.",
@@ -447,8 +466,9 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       de: "Bogd-Khan-Uul-Wald",
       hu: "Bogd-Kán-Uul Erdő",
       ro: "Pădurea Bogd Khan Uul",
-      en: "Bogd Khan Uul Forest"
-    },
+      en: "Bogd Khan Uul Forest",
+image: "/poi-images/bogd-khan-uul-forest-nature-v2.webp"
+},
     description: {
       de: "Das weltweit älteste offiziell anerkannte Naturschutzgebiet bietet ein dichtes Mosaik aus sibirischen Zedern und Lärchen direkt südlich der Hauptstadt.",
       hu: "A világ legrégebbi hivatalosan elismert természetvédelmi területe szibériai cédrusok és vörösfenyők sűrű mozaikját kínálja közvetlenül a fővárostól délre.",

@@ -7,7 +7,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "GM-B",
     coords: [-16.5775, 13.4531],
-    name: { de: "Banjul", hu: "Banjul", ro: "Banjul", en: "Banjul" },
+    name: { de: "Banjul", hu: "Banjul", ro: "Banjul", en: "Banjul",
+image: "/poi-images/banjul-cities-v2.webp"
+},
     description: {
       de: "Banjul ist die Hauptstadt von Gambia und liegt auf der Insel St. Mary, wo der Gambia-Fluss in den Atlantik mündet.",
       hu: "Banjul Gambia fővárosa, amely a Szent Mária-szigeten fekszik, ott, ahol a Gambia-folyó az Atlanti-óceánba torkollik.",
@@ -39,7 +41,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6781, 13.4383],
-    name: { de: "Serekunda", hu: "Serekunda", ro: "Serekunda", en: "Serekunda" },
+    name: { de: "Serekunda", hu: "Serekunda", ro: "Serekunda", en: "Serekunda",
+image: "/poi-images/serekunda-cities-v2.webp"
+},
     description: {
       de: "Serekunda ist die größte Stadt in Gambia und ein bedeutendes Handelszentrum, das für seine lebhaften Märkte bekannt ist.",
       hu: "Serekunda Gambia legnagyobb városa és egy jelentős kereskedelmi központ, amely élénk piacairól ismert.",
@@ -71,7 +75,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6497, 13.2722],
-    name: { de: "Brikama", hu: "Brikama", ro: "Brikama", en: "Brikama" },
+    name: { de: "Brikama", hu: "Brikama", ro: "Brikama", en: "Brikama",
+image: "/poi-images/brikama-cities-v2.webp"
+},
     description: {
       de: "Brikama ist eine der größten Städte Gambias und berühmt für seine Holzschnitzereien und Musiktraditionen.",
       hu: "Brikama Gambia egyik legnagyobb városa, amely híres fafaragásairól és zenei hagyományairól.",
@@ -103,7 +109,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6819, 13.4781],
-    name: { de: "Bakau", hu: "Bakau", ro: "Bakau", en: "Bakau" },
+    name: { de: "Bakau", hu: "Bakau", ro: "Bakau", en: "Bakau",
+image: "/poi-images/bakau-cities-v2.webp"
+},
     description: {
       de: "Bakau ist eine Küstenstadt, die für ihren botanischen Garten und das heilige Krokodilbecken von Kachikally bekannt ist.",
       hu: "Bakau egy tengerparti város, amely botanikus kertjéről és a Kachikally szent krokodilmedencéről ismert.",
@@ -135,7 +143,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-N",
     coords: [-15.5983, 13.5728],
-    name: { de: "Farafenni", hu: "Farafenni", ro: "Farafenni", en: "Farafenni" },
+    name: { de: "Farafenni", hu: "Farafenni", ro: "Farafenni", en: "Farafenni",
+image: "/poi-images/farafenni-cities-v2.webp"
+},
     description: {
       de: "Farafenni ist eine wichtige Handelsstadt am North Bank, strategisch günstig an der Trans-Gambia-Autobahn gelegen.",
       hu: "Farafenni egy fontos kereskedelmi város az északi parton, stratégiai helyen a Trans-Gambia autópálya mentén.",
@@ -167,7 +177,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-L",
     coords: [-15.5333, 13.4333],
-    name: { de: "Soma", hu: "Soma", ro: "Soma", en: "Soma" },
+    name: { de: "Soma", hu: "Soma", ro: "Soma", en: "Soma",
+image: "/poi-images/soma-cities-v2.webp"
+},
     description: {
       de: "Soma ist ein wichtiger Verkehrsknotenpunkt in der Lower River Region, an der Kreuzung der Trans-Gambia-Autobahn.",
       hu: "Soma egy fontos közlekedési csomópont az Alsó-folyó régióban, a Trans-Gambia autópálya kereszteződésében.",
@@ -199,7 +211,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-U",
     coords: [-14.2133, 13.3156],
-    name: { de: "Basse Santa Su", hu: "Basse Santa Su", ro: "Basse Santa Su", en: "Basse Santa Su" },
+    name: { de: "Basse Santa Su", hu: "Basse Santa Su", ro: "Basse Santa Su", en: "Basse Santa Su",
+image: "/poi-images/basse-santa-su-cities-v2.webp"
+},
     description: {
       de: "Basse Santa Su ist das administrative Zentrum der Upper River Region und die östlichste Stadt des Landes.",
       hu: "Basse Santa Su a Felső-folyó régió adminisztratív központja és az ország legkeletibb városa.",
@@ -231,7 +245,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-M",
     coords: [-14.7644, 13.5917],
-    name: { de: "Janjanbureh", hu: "Janjanbureh", ro: "Janjanbureh", en: "Janjanbureh" },
+    name: { de: "Janjanbureh", hu: "Janjanbureh", ro: "Janjanbureh", en: "Janjanbureh",
+image: "/poi-images/janjanbureh-cities-v2.webp"
+},
     description: {
       de: "Janjanbureh, früher Georgetown, ist eine historische Inselstadt im Gambia-Fluss und bekannt für ihre koloniale Vergangenheit.",
       hu: "Janjanbureh, korábban Georgetown, egy történelmi szigetváros a Gambia-folyóban, koloniális múltjáról híres.",
@@ -263,7 +279,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-M",
     coords: [-14.65, 13.4333],
-    name: { de: "Bansang", hu: "Bansang", ro: "Bansang", en: "Bansang" },
+    name: { de: "Bansang", hu: "Bansang", ro: "Bansang", en: "Bansang",
+image: "/poi-images/bansang-cities-v2.webp"
+},
     description: {
       de: "Bansang ist eine Marktstadt am Südufer des Gambia-Flusses und beherbergt das einzige Krankenhaus im Landesinneren.",
       hu: "Bansang egy mezőváros a Gambia-folyó déli partján, ahol az ország egyetlen belső kórháza található.",
@@ -295,7 +313,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-N",
     coords: [-16.545, 13.4833],
-    name: { de: "Barra", hu: "Barra", ro: "Barra", en: "Barra" },
+    name: { de: "Barra", hu: "Barra", ro: "Barra", en: "Barra",
+image: "/poi-images/barra-cities-v2.webp"
+},
     description: {
       de: "Barra ist eine wichtige Hafenstadt gegenüber von Banjul, die als Endpunkt für die Fähre über die Mündung des Gambia-Flusses dient.",
       hu: "Barra egy fontos kikötőváros Banjullal szemben, amely a Gambia-folyó torkolatán átkelő komp végállomásaként szolgál.",
@@ -327,7 +347,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7644, 13.2019],
-    name: { de: "Gunjur", hu: "Gunjur", ro: "Gunjur", en: "Gunjur" },
+    name: { de: "Gunjur", hu: "Gunjur", ro: "Gunjur", en: "Gunjur",
+image: "/poi-images/gunjur-cities-v2.webp"
+},
     description: {
       de: "Gunjur ist eine Küstenstadt, die für ihre florierende Fischereiindustrie und ihre ökologischen Schutzgebiete bekannt ist.",
       hu: "Gunjur egy tengerparti város, amely virágzó halászatáról és ökológiai védett területeiről ismert.",
@@ -359,7 +381,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7081, 13.4117],
-    name: { de: "Sukuta", hu: "Sukuta", ro: "Sukuta", en: "Sukuta" },
+    name: { de: "Sukuta", hu: "Sukuta", ro: "Sukuta", en: "Sukuta",
+image: "/poi-images/sukuta-cities-v2.webp"
+},
     description: {
       de: "Sukuta ist eine schnell wachsende Stadt in der West Coast Region, die eng mit der Metropolregion Serekunda verbunden ist.",
       hu: "Sukuta egy gyorsan növekvő város a Nyugati Part régióban, amely szorosan kapcsolódik Serekunda metropoliszához.",
@@ -391,7 +415,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7583, 13.3833],
-    name: { de: "Brufut", hu: "Brufut", ro: "Brufut", en: "Brufut" },
+    name: { de: "Brufut", hu: "Brufut", ro: "Brufut", en: "Brufut",
+image: "/poi-images/brufut-cities-v2.webp"
+},
     description: {
       de: "Brufut ist eine Küstenstadt, die für ihre unberührten Strände und die Brufut Woods, ein Paradies für Vogelbeobachter, bekannt ist.",
       hu: "Brufut egy tengerparti város, amely érintetlen strandjairól és a madármegfigyelők paradicsomáról, a Brufut-erdőről ismert.",
@@ -422,7 +448,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7833, 13.35],
-    name: { de: "Tanji", hu: "Tanji", ro: "Tanji", en: "Tanji" },
+    name: { de: "Tanji", hu: "Tanji", ro: "Tanji", en: "Tanji",
+image: "/poi-images/tanji-cities-v2.webp"
+},
     description: {
       de: "Tanji ist ein malerisches Fischerdorf, das für seine bunten Boote und das Tanji Village Museum bekannt ist.",
       hu: "Tanji egy festői halászfalu, amely színes csónakjairól és a Tanji Falumúzeumról ismert.",
@@ -454,7 +482,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-N",
     coords: [-16.0883, 13.4892],
-    name: { de: "Kerewan", hu: "Kerewan", ro: "Kerewan", en: "Kerewan" },
+    name: { de: "Kerewan", hu: "Kerewan", ro: "Kerewan", en: "Kerewan",
+image: "/poi-images/kerewan-cities-v2.webp"
+},
     description: {
       de: "Kerewan ist die administrative Hauptstadt der North Bank Region und liegt an einem Bach des Gambia-Flusses.",
       hu: "Kerewan az északi parti régió adminisztratív fővárosa, amely a Gambia-folyó egyik ága mentén fekszik.",
@@ -485,7 +515,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-L",
     coords: [-15.5408, 13.4653],
-    name: { de: "Mansa Konko", hu: "Mansa Konko", ro: "Mansa Konko", en: "Mansa Konko" },
+    name: { de: "Mansa Konko", hu: "Mansa Konko", ro: "Mansa Konko", en: "Mansa Konko",
+image: "/poi-images/mansa-konko-cities-v2.webp"
+},
     description: {
       de: "Mansa Konko ist der Verwaltungssitz der Lower River Region und liegt auf einem Hügel mit Blick auf den Gambia-Fluss.",
       hu: "Mansa Konko az Alsó-folyó régió adminisztratív székhelye, amely egy dombon fekszik, kilátással a Gambia-folyóra.",
@@ -516,7 +548,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7558, 13.085],
-    name: { de: "Kartong", hu: "Kartong", ro: "Kartong", en: "Kartong" },
+    name: { de: "Kartong", hu: "Kartong", ro: "Kartong", en: "Kartong",
+image: "/poi-images/kartong-cities-v2.webp"
+},
     description: {
       de: "Kartong ist das südlichste Dorf Gambias, direkt an der Grenze zum Senegal, und bekannt für seinen Ökotourismus.",
       hu: "Kartong Gambia legdélibb faluja, közvetlenül a szenegáli határon, amely ökoturizmusáról ismert.",
@@ -548,7 +582,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-M",
     coords: [-15.3333, 13.6833],
-    name: { de: "Kaur", hu: "Kaur", ro: "Kaur", en: "Kaur" },
+    name: { de: "Kaur", hu: "Kaur", ro: "Kaur", en: "Kaur",
+image: "/poi-images/kaur-cities-v2.webp"
+},
     description: {
       de: "Kaur ist eine historische Handelsstadt am Nordufer des Gambia-Flusses, bekannt für ihren einst blühenden Erdnusshandel.",
       hu: "Kaur egy történelmi kereskedelmi város a Gambia-folyó északi partján, amely egykor virágzó földimogyoró-kereskedelméről volt ismert.",
@@ -580,7 +616,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-M",
     coords: [-14.8833, 13.6667],
-    name: { de: "Kuntaur", hu: "Kuntaur", ro: "Kuntaur", en: "Kuntaur" },
+    name: { de: "Kuntaur", hu: "Kuntaur", ro: "Kuntaur", en: "Kuntaur",
+image: "/poi-images/kuntaur-cities-v2.webp"
+},
     description: {
       de: "Kuntaur ist eine wichtige Handelsstadt am Gambia-Fluss und das Tor zum River Gambia National Park.",
       hu: "Kuntaur egy fontos kereskedelmi város a Gambia-folyó mentén, és a Gambia-folyó Nemzeti Park kapuja.",
@@ -611,7 +649,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.0833, 13.2333],
-    name: { de: "Bwiam", hu: "Bwiam", ro: "Bwiam", en: "Bwiam" },
+    name: { de: "Bwiam", hu: "Bwiam", ro: "Bwiam", en: "Bwiam",
+image: "/poi-images/bwiam-cities-v2.webp"
+},
     description: {
       de: "Bwiam ist eine Stadt in der West Coast Region, bekannt für ihr Krankenhaus und als regionales Zentrum für Bildung.",
       hu: "Bwiam egy város a Nyugati Part régióban, amely kórházáról és regionális oktatási központjáról ismert.",
@@ -643,7 +683,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.0333, 13.2167],
-    name: { de: "Sibanor", hu: "Sibanor", ro: "Sibanor", en: "Sibanor" },
+    name: { de: "Sibanor", hu: "Sibanor", ro: "Sibanor", en: "Sibanor",
+image: "/poi-images/sibanor-cities-v2.webp"
+},
     description: {
       de: "Sibanor ist ein wichtiges Handelszentrum an der South Bank Road, das für seine medizinischen Einrichtungen bekannt ist.",
       hu: "Sibanor egy fontos kereskedelmi központ a South Bank Road mentén, amely orvosi intézményeiről ismert.",
@@ -674,7 +716,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7833, 13.2667],
-    name: { de: "Sanyang", hu: "Sanyang", ro: "Sanyang", en: "Sanyang" },
+    name: { de: "Sanyang", hu: "Sanyang", ro: "Sanyang", en: "Sanyang",
+image: "/poi-images/sanyang-cities-v2.webp"
+},
     description: {
       de: "Sanyang ist eine Küstenstadt, die für einen der schönsten Strände Gambias und ihren lebhaften Fischmarkt bekannt ist.",
       hu: "Sanyang egy tengerparti város, amely Gambia egyik legszebb strandjáról és élénk halpiacáról ismert.",
@@ -706,7 +750,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6333, 13.35],
-    name: { de: "Busumbala", hu: "Busumbala", ro: "Busumbala", en: "Busumbala" },
+    name: { de: "Busumbala", hu: "Busumbala", ro: "Busumbala", en: "Busumbala",
+image: "/poi-images/busumbala-cities-v2.webp"
+},
     description: {
       de: "Busumbala ist eine wachsende Siedlung in der West Coast Region, verkehrsgünstig an der Hauptstraße nach Brikama gelegen.",
       hu: "Busumbala egy növekvő település a Nyugati Part régióban, kedvező helyen a Brikamába vezető főút mentén.",
@@ -737,7 +783,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7167, 13.4333],
-    name: { de: "Bijilo", hu: "Bijilo", ro: "Bijilo", en: "Bijilo" },
+    name: { de: "Bijilo", hu: "Bijilo", ro: "Bijilo", en: "Bijilo",
+image: "/poi-images/bijilo-cities-v2.webp"
+},
     description: {
       de: "Bijilo ist ein Küstenort, der für seinen Waldpark bekannt ist, in dem viele Affenarten heimisch sind.",
       hu: "Bijilo egy tengerparti település, amely erdőparkjáról ismert, ahol számos majomfaj él.",
@@ -769,7 +817,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7167, 13.45],
-    name: { de: "Kololi", hu: "Kololi", ro: "Kololi", en: "Kololi" },
+    name: { de: "Kololi", hu: "Kololi", ro: "Kololi", en: "Kololi",
+image: "/poi-images/kololi-cities-v2.webp"
+},
     description: {
       de: "Kololi ist das Herz des Tourismus in Gambia, bekannt für den 'Senegambia Strip' mit seinen vielen Restaurants und Hotels.",
       hu: "Kololi Gambia turizmusának szíve, amely a 'Senegambia Strip'-ről ismert, ahol számos étterem és szálloda található.",
@@ -801,7 +851,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6667, 13.45],
-    name: { de: "Kanifing", hu: "Kanifing", ro: "Kanifing", en: "Kanifing" },
+    name: { de: "Kanifing", hu: "Kanifing", ro: "Kanifing", en: "Kanifing",
+image: "/poi-images/kanifing-cities-v2.webp"
+},
     description: {
       de: "Kanifing ist ein bedeutendes Industrie- und Wohngebiet innerhalb der Metropolregion Serekunda.",
       hu: "Kanifing egy jelentős ipari és lakóövezet Serekunda metropolisz területén belül.",
@@ -833,7 +885,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6667, 13.4167],
-    name: { de: "Bundung", hu: "Bundung", ro: "Bundung", en: "Bundung" },
+    name: { de: "Bundung", hu: "Bundung", ro: "Bundung", en: "Bundung",
+image: "/poi-images/bundung-cities-v2.webp"
+},
     description: {
       de: "Bundung ist ein dicht besiedeltes Wohnviertel in der Kanifing Municipality, bekannt für seine lebendige Gemeinschaft.",
       hu: "Bundung egy sűrűn lakott lakónegyed Kanifing önkormányzatában, amely élénk közösségéről ismert.",
@@ -865,7 +919,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.65, 13.4333],
-    name: { de: "Tallinding", hu: "Tallinding", ro: "Tallinding", en: "Tallinding" },
+    name: { de: "Tallinding", hu: "Tallinding", ro: "Tallinding", en: "Tallinding",
+image: "/poi-images/tallinding-cities-v2.webp"
+},
     description: {
       de: "Tallinding ist ein Stadtteil von Serekunda, der für seine Märkte und als wichtiges Wohngebiet bekannt ist.",
       hu: "Tallinding Serekunda egyik városrésze, amely piacairól és fontos lakóövezeteként ismert.",
@@ -897,7 +953,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6333, 13.4],
-    name: { de: "Fajikunda", hu: "Fajikunda", ro: "Fajikunda", en: "Fajikunda" },
+    name: { de: "Fajikunda", hu: "Fajikunda", ro: "Fajikunda", en: "Fajikunda",
+image: "/poi-images/fajikunda-cities-v2.webp"
+},
     description: {
       de: "Fajikunda ist ein Wohngebiet in der Metropolregion Serekunda, das in den letzten Jahren ein starkes Wachstum verzeichnete.",
       hu: "Fajikunda egy lakóövezet Serekunda metropolisz területén, amely az elmúlt években erős növekedést mutatott.",
@@ -929,7 +987,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.4333],
-    name: { de: "Dippa Kunda", hu: "Dippa Kunda", ro: "Dippa Kunda", en: "Dippa Kunda" },
+    name: { de: "Dippa Kunda", hu: "Dippa Kunda", ro: "Dippa Kunda", en: "Dippa Kunda",
+image: "/poi-images/dippa-kunda-cities-v2.webp"
+},
     description: {
       de: "Dippa Kunda ist ein lebhaftes Viertel von Serekunda, das für seinen großen Markt und seine geschäftigen Straßen bekannt ist.",
       hu: "Dippa Kunda Serekunda egyik élénk negyede, amely nagy piacáról és nyüzsgő utcáiról ismert.",
@@ -961,7 +1021,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.65, 13.4],
-    name: { de: "Abuko", hu: "Abuko", ro: "Abuko", en: "Abuko" },
+    name: { de: "Abuko", hu: "Abuko", ro: "Abuko", en: "Abuko",
+image: "/poi-images/abuko-cities-v2.webp"
+},
     description: {
       de: "Abuko ist bekannt für sein Naturschutzgebiet, das erste Reservat Gambias, das eine reiche Tierwelt beherbergt.",
       hu: "Abuko természetvédelmi területéről ismert, amely Gambia első rezervátuma és gazdag élővilágnak ad otthont.",
@@ -993,7 +1055,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.8, 13.3167],
-    name: { de: "Batokunku", hu: "Batokunku", ro: "Batokunku", en: "Batokunku" },
+    name: { de: "Batokunku", hu: "Batokunku", ro: "Batokunku", en: "Batokunku",
+image: "/poi-images/batokunku-cities-v2.webp"
+},
     description: {
       de: "Batokunku ist ein ruhiges Küstendorf, das für seine Windkraftanlage und seine schönen, friedlichen Strände bekannt ist.",
       hu: "Batokunku egy csendes tengerparti falu, amely szélerőművéről és gyönyörű, békés strandjairól ismert.",
@@ -1024,7 +1088,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.8, 13.3333],
-    name: { de: "Tujereng", hu: "Tujereng", ro: "Tujereng", en: "Tujereng" },
+    name: { de: "Tujereng", hu: "Tujereng", ro: "Tujereng", en: "Tujereng",
+image: "/poi-images/tujereng-cities-v2.webp"
+},
     description: {
       de: "Tujereng ist eine Küstenstadt in der West Coast Region, die für ihre Landwirtschaft und ihre wachsende Beliebtheit bei Touristen bekannt ist.",
       hu: "Tujereng egy tengerparti város a Nyugati Part régióban, amely mezőgazdaságáról és a turisták körében növekvő népszerűségéről ismert.",
@@ -1055,7 +1121,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-15.8333, 13.3],
-    name: { de: "Kalagi", hu: "Kalagi", ro: "Kalagi", en: "Kalagi" },
+    name: { de: "Kalagi", hu: "Kalagi", ro: "Kalagi", en: "Kalagi",
+image: "/poi-images/kalagi-cities-v2.webp"
+},
     description: {
       de: "Kalagi ist eine Stadt im Distrikt Foni Jarrol, die strategisch an der South Bank Road liegt und ein wichtiges lokales Zentrum ist.",
       hu: "Kalagi egy város Foni Jarrol körzetében, amely stratégiai helyen, a South Bank Road mentén fekszik, és fontos helyi központ.",
@@ -1087,7 +1155,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.5167, 13.25],
-    name: { de: "Faraba Banta", hu: "Faraba Banta", ro: "Faraba Banta", en: "Faraba Banta" },
+    name: { de: "Faraba Banta", hu: "Faraba Banta", ro: "Faraba Banta", en: "Faraba Banta",
+image: "/poi-images/faraba-banta-cities-v2.webp"
+},
     description: {
       de: "Faraba Banta ist eine Stadt in der West Coast Region, bekannt für ihre Landwirtschaft und den nahe gelegenen Sandsteinabbau.",
       hu: "Faraba Banta egy város a Nyugati Part régióban, amely mezőgazdaságáról és a közelben található homokkőbányászatról ismert.",
@@ -1118,7 +1188,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6333, 13.3667],
-    name: { de: "Yundum", hu: "Yundum", ro: "Yundum", en: "Yundum" },
+    name: { de: "Yundum", hu: "Yundum", ro: "Yundum", en: "Yundum",
+image: "/poi-images/yundum-cities-v2.webp"
+},
     description: {
       de: "Yundum ist am besten als Standort des internationalen Flughafens von Gambia bekannt, der das Land mit der Welt verbindet.",
       hu: "Yundum leginkább Gambia nemzetközi repülőterének helyszíneként ismert, amely összeköti az országot a világgal.",
@@ -1149,7 +1221,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7, 13.4667],
-    name: { de: "Kotu", hu: "Kotu", ro: "Kotu", en: "Kotu" },
+    name: { de: "Kotu", hu: "Kotu", ro: "Kotu", en: "Kotu",
+image: "/poi-images/kotu-cities-v2.webp"
+},
     description: {
       de: "Kotu ist ein wichtiges Touristenzentrum, bekannt für seinen Strand und den Kotu Stream, der ideal für die Vogelbeobachtung ist.",
       hu: "Kotu egy fontos turisztikai központ, amely strandjáról és a madármegfigyelésre ideális Kotu-patakról ismert.",
@@ -1181,7 +1255,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.7, 13.4333],
-    name: { de: "Manjai Kunda", hu: "Manjai Kunda", ro: "Manjai Kunda", en: "Manjai Kunda" },
+    name: { de: "Manjai Kunda", hu: "Manjai Kunda", ro: "Manjai Kunda", en: "Manjai Kunda",
+image: "/poi-images/manjai-kunda-cities-v2.webp"
+},
     description: {
       de: "Manjai Kunda ist ein schnell wachsendes Wohngebiet in der Kanifing Municipality, nahe den wichtigsten Touristengebieten.",
       hu: "Manjai Kunda egy gyorsan növekvő lakóövezet Kanifing önkormányzatában, a főbb turisztikai területek közelében.",
@@ -1213,7 +1289,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.4167],
-    name: { de: "Bakoteh", hu: "Bakoteh", ro: "Bakoteh", en: "Bakoteh" },
+    name: { de: "Bakoteh", hu: "Bakoteh", ro: "Bakoteh", en: "Bakoteh",
+image: "/poi-images/bakoteh-cities-v2.webp"
+},
     description: {
       de: "Bakoteh ist ein Stadtviertel von Serekunda, bekannt für seine Wohngebiete und das SOS-Kinderdorf.",
       hu: "Bakoteh Serekunda egyik városnegyede, amely lakóövezeteiről és az SOS Gyermekfaluról ismert.",
@@ -1245,7 +1323,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.65, 13.4667],
-    name: { de: "Old Jeshwang", hu: "Old Jeshwang", ro: "Old Jeshwang", en: "Old Jeshwang" },
+    name: { de: "Old Jeshwang", hu: "Old Jeshwang", ro: "Old Jeshwang", en: "Old Jeshwang",
+image: "/poi-images/old-jeshwang-cities-v2.webp"
+},
     description: {
       de: "Old Jeshwang ist ein historischer Stadtteil von Serekunda, bekannt für seinen großen Friedhof und seine Nähe zu den Mangroven.",
       hu: "Old Jeshwang Serekunda egyik történelmi városrésze, amely nagy temetőjéről és a mangroveerdőkhöz való közelségéről ismert.",
@@ -1277,7 +1357,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6667, 13.4667],
-    name: { de: "New Jeshwang", hu: "New Jeshwang", ro: "New Jeshwang", en: "New Jeshwang" },
+    name: { de: "New Jeshwang", hu: "New Jeshwang", ro: "New Jeshwang", en: "New Jeshwang",
+image: "/poi-images/new-jeshwang-cities-v2.webp"
+},
     description: {
       de: "New Jeshwang ist ein dicht besiedeltes Wohnviertel, das sich aus der Expansion von Serekunda entwickelt hat.",
       hu: "New Jeshwang egy sűrűn lakott lakónegyed, amely Serekunda terjeszkedéséből jött létre.",
@@ -1309,7 +1391,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.65, 13.4333],
-    name: { de: "Ebo Town", hu: "Ebo Town", ro: "Ebo Town", en: "Ebo Town" },
+    name: { de: "Ebo Town", hu: "Ebo Town", ro: "Ebo Town", en: "Ebo Town",
+image: "/poi-images/ebo-town-cities-v2.webp"
+},
     description: {
       de: "Ebo Town ist ein lebhaftes Viertel in der Kanifing Municipality, das am Rande der Mangrovensümpfe liegt.",
       hu: "Ebo Town egy élénk negyed Kanifing önkormányzatában, amely a mangrove mocsarak szélén fekszik.",
@@ -1341,7 +1425,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.45],
-    name: { de: "Latri Kunda", hu: "Latri Kunda", ro: "Latri Kunda", en: "Latri Kunda" },
+    name: { de: "Latri Kunda", hu: "Latri Kunda", ro: "Latri Kunda", en: "Latri Kunda",
+image: "/poi-images/latri-kunda-cities-v2.webp"
+},
     description: {
       de: "Latri Kunda ist ein bedeutender Stadtteil von Serekunda, bekannt für seine geschäftigen Märkte und als wichtiges Handelszentrum.",
       hu: "Latri Kunda Serekunda egyik jelentős városrésze, amely nyüzsgő piacairól és fontos kereskedelmi központjáról ismert.",
@@ -1373,7 +1459,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-N",
     coords: [-16.3833, 13.3333],
-    name: { de: "Albreda", hu: "Albreda", ro: "Albreda", en: "Albreda" },
+    name: { de: "Albreda", hu: "Albreda", ro: "Albreda", en: "Albreda",
+image: "/poi-images/albreda-cities-v2.webp"
+},
     description: {
       de: "Albreda ist ein historischer Handelsposten am Nordufer des Gambia-Flusses, bekannt für seine Verbindungen zum Sklavenhandel.",
       hu: "Albreda egy történelmi kereskedelmi állomás a Gambia-folyó északi partján, amely a rabszolga-kereskedelemhez kötődik.",
@@ -1405,7 +1493,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-N",
     coords: [-16.3833, 13.3333],
-    name: { de: "Juffureh", hu: "Juffureh", ro: "Juffureh", en: "Juffureh" },
+    name: { de: "Juffureh", hu: "Juffureh", ro: "Juffureh", en: "Juffureh",
+image: "/poi-images/juffureh-cities-v2.webp"
+},
     description: {
       de: "Juffureh ist ein weltbekanntes Dorf, das durch Alex Haleys Buch 'Roots' als Heimat von Kunta Kinte berühmt wurde.",
       hu: "Juffureh egy világszerte ismert falu, amely Alex Haley 'Gyökerek' című könyve révén vált híressé mint Kunta Kinte szülőhelye.",
@@ -1437,7 +1527,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-U",
     coords: [-14.0333, 13.4333],
-    name: { de: "Garowol", hu: "Garowol", ro: "Garowol", en: "Garowol" },
+    name: { de: "Garowol", hu: "Garowol", ro: "Garowol", en: "Garowol",
+image: "/poi-images/garowol-cities-v2.webp"
+},
     description: {
       de: "Garowol ist eine bedeutende Siedlung in der Upper River Region, bekannt für ihre Landwirtschaft und ihre traditionelle Kultur.",
       hu: "Garowol egy jelentős település a Felső-folyó régióban, amely mezőgazdaságáról és hagyományos kultúrájáról ismert.",
@@ -1468,7 +1560,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-U",
     coords: [-13.9, 13.4833],
-    name: { de: "Koina", hu: "Koina", ro: "Koina", en: "Koina" },
+    name: { de: "Koina", hu: "Koina", ro: "Koina", en: "Koina",
+image: "/poi-images/koina-cities-v2.webp"
+},
     description: {
       de: "Koina ist das östlichste Dorf Gambias und liegt am Ufer des Gambia-Flusses nahe der Grenze zum Senegal.",
       hu: "Koina Gambia legkeletibb faluja, amely a Gambia-folyó partján fekszik, a szenegáli határ közelében.",
@@ -1500,7 +1594,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-U",
     coords: [-14.2167, 13.2167],
-    name: { de: "Sabi", hu: "Sabi", ro: "Sabi", en: "Sabi" },
+    name: { de: "Sabi", hu: "Sabi", ro: "Sabi", en: "Sabi",
+image: "/poi-images/sabi-cities-v2.webp"
+},
     description: {
       de: "Sabi ist eine wichtige Handelsstadt in der Upper River Region, direkt an der Grenze zum Senegal gelegen.",
       hu: "Sabi egy fontos kereskedelmi város a Felső-folyó régióban, közvetlenül a szenegáli határon.",
@@ -1532,7 +1628,9 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     type: "city",
     parent: "GM-U",
     coords: [-14.2333, 13.25],
-    name: { de: "Gambissara", hu: "Gambissara", ro: "Gambissara", en: "Gambissara" },
+    name: { de: "Gambissara", hu: "Gambissara", ro: "Gambissara", en: "Gambissara",
+image: "/poi-images/gambissara-cities-v2.webp"
+},
     description: {
       de: "Gambissara ist eine große Siedlung in der Upper River Region, bekannt für ihre starke religiöse Tradition und Landwirtschaft.",
       hu: "Gambissara egy nagy település a Felső-folyó régióban, amely erős vallási hagyományairól és mezőgazdaságáról ismert.",

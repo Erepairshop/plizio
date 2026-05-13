@@ -4,7 +4,9 @@ export const sloveniaHistoryV2: POI[] = [
   {
     id: "slovenia-emona-history-v2",
     type: "ruins",
-    name: { de: "Römisches Emona", hu: "Emona római romjai", ro: "Emona Romană", en: "Emona Roman Ruins" },
+    name: { de: "Römisches Emona", hu: "Emona római romjai", ro: "Emona Romană", en: "Emona Roman Ruins",
+image: "/poi-images/slovenia-emona-history-v2.webp"
+},
     coords: [14.5028, 46.0461],
     coordinates: { lat: 46.0461, lng: 14.5028 },
     description: {
@@ -20,11 +22,25 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["Founded in 14 AD as a Roman colony", "Important base for the XV Legion Apollinaris", "Destroyed by the Huns under Attila in 452", "Features a well-preserved Roman sewage system"],
     },
     imageHint: "Ancient Roman stone walls and ruins in Ljubljana",
+    descriptionAdvanced: {
+      de: "Die antike Siedlung Emona wurde im Jahr 14 n. Chr. als römische Kolonie gegründet. Sie bildete die Grundlage für das heutige Ljubljana und besaß eine Stadtmauer mit 29 Türmen.",
+      hu: "Emona római kolóniáját Kr. u. 14-ben alapították a mai Ljubljana területén. A városfalakkal és 29 toronnyal övezett település fontos katonai és kereskedelmi csomópont volt.",
+      ro: "Colonia romană Emona a fost fondată în anul 14 d.Hr. pe locul actualului Ljubljana. Orașul era fortificat cu ziduri groase și 29 de turnuri, fiind un centru strategic esențial.",
+      en: "The Roman colony of Emona was established in 14 AD on the site of modern-day Ljubljana. It featured a rectangular grid, robust walls, and 29 towers for strategic defense.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 14 n. Chr.", "Länge der Stadtmauer: 2,4 km", "29 Verteidigungstürme vorhanden", "Zentrum der Provinz Pannonia"],
+      hu: ["Kr. u. 14-ben alapították", "A városfal hossza 2,4 km volt", "29 védművel rendelkezett", "Pannónia provincia része"],
+      ro: ["Fondată în anul 14 d.Hr.", "Ziduri de 2,4 km lungime", "Dispunea de 29 de turnuri", "Parte a provinciei Pannonia"],
+      en: ["Founded in 14 AD", "City walls 2.4 km long", "Equipped with 29 towers", "Part of Pannonia province"],
+    },
   },
   {
     id: "slovenia-ptuj-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Ptuj", hu: "Ptuji vár", ro: "Castelul Ptuj", en: "Ptuj Castle" },
+    name: { de: "Schloss Ptuj", hu: "Ptuji vár", ro: "Castelul Ptuj", en: "Ptuj Castle",
+image: "/poi-images/slovenia-ptuj-castle-history-v2.webp"
+},
     coords: [15.8675, 46.4211],
     coordinates: { lat: 46.4211, lng: 15.8675 },
     description: {
@@ -39,11 +55,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Forma actuală datează în principal din secolul al XVII-lea", "Găzduiește o faimoasă colecție de măști Kurenti", "Punct strategic de apărare împotriva otomanilor", "Deține o curte cu arcade magnifică în stil renascentist"],
       en: ["Present form dates mainly from the 17th century", "Houses a famous collection of Kurenti masks", "Strategic point for defense against the Ottomans", "Features a magnificent Renaissance-style arcaded courtyard"],
     },
-    imageHint: "Ptuj Castle on a hill overlooking the town and Drava river", image: "/poi-images/slovenia-ptuj-castle-history-v2.webp"},
-  {
+imageHint: "Ptuj Castle on a hill overlooking the town and Drava river",
+    descriptionAdvanced: {
+      de: "Die Burg Ptuj thront über der ältesten Stadt Sloweniens und blickt auf eine Geschichte seit dem 11. Jahrhundert zurück. Sie beherbergt heute bedeutende Museumssammlungen.",
+      hu: "A Ptuji vár Szlovénia legrégebbi városa felett magasodik, története a 11. századig nyúlik vissza. Ma gazdag múzeumi gyűjteményeknek, köztük hangszerkiállításnak ad otthont.",
+      ro: "Castelul Ptuj domină cel mai vechi oraș din Slovenia, având o istorie ce începe în secolul al XI-lea. Găzduiește colecții muzeale vaste, inclusiv măști tradiționale Kurent.",
+      en: "Ptuj Castle overlooks Slovenia oldest town, with origins dating back to the 11th century. It now serves as a museum showcasing historical instruments and carnival masks.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im 12. Jahrhundert", "Besitz der Salzburger Erzbischöfe", "Sammlung von 300 Musikinstrumenten", "Ausblick auf die Drau"],
+      hu: ["12. századi első említés", "Salzburgi érsekek tulajdona volt", "300 darabos hangszergyűjtemény", "Kilátás a Dráva folyóra"],
+      ro: ["Atestat în secolul al XII-lea", "Proprietatea arhiepiscopilor", "Colecție de 300 instrumente", "Vedere spre râul Drava"],
+      en: ["First mentioned in 12th century", "Owned by Salzburg archbishops", "Collection of 300 instruments", "Views over the Drava river"],
+    },
+    image: "/poi-images/slovenia-ptuj-castle-history-v2.webp",
+},  {
     id: "slovenia-celje-castle-history-v2",
     type: "castle",
-    name: { de: "Alte Burg von Celje", hu: "Celjei óvár", ro: "Vechiul Castel Celje", en: "Old Castle of Celje" },
+    name: { de: "Alte Burg von Celje", hu: "Celjei óvár", ro: "Vechiul Castel Celje", en: "Old Castle of Celje",
+image: "/poi-images/slovenia-celje-castle-history-v2.webp"
+},
     coords: [15.2714, 46.2201],
     coordinates: { lat: 46.2201, lng: 15.2714 },
     description: {
@@ -59,11 +90,25 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["First mentioned in documents in 1322", "Features the mighty four-story Frederick's Tower", "Residence of Barbara of Cilli in the 15th century", "Has been undergoing gradual restoration since 1846"],
     },
     imageHint: "Large medieval castle ruins on a hill above Celje",
+    descriptionAdvanced: {
+      de: "Das Alte Schloss von Celje war der Stammsitz der Grafen von Celje, der einflussreichsten Adelsfamilie des Landes. Es ist die flächenmäßig größte Burganlage Sloweniens.",
+      hu: "A celjei óvár a Cillei grófok, Szlovénia legbefolyásosabb nemesi családjának székhelye volt. Területét tekintve ez az ország legnagyobb erődítményrendszere.",
+      ro: "Vechiul Castel din Celje a fost reședința conților de Celje, cea mai puternică familie nobiliară locală. Este cea mai mare fortificație medievală din Slovenia.",
+      en: "The Old Castle of Celje was the seat of the Counts of Celje, the most influential noble family. It remains the largest medieval fortification complex in Slovenia.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 5500 m²", "Sitz der Grafen von Celje", "Friedrichsturm mit 23 m Höhe", "Bauphase im 14. Jahrhundert"],
+      hu: ["Kb. 5500 m² alapterület", "A Cillei grófok székhelye", "A Frigyes-torony 23 m magas", "14. századi virágkor"],
+      ro: ["Suprafață de cca. 5500 m²", "Sediul conților de Celje", "Turnul Friedrich are 23 m", "Extins în secolul al XIV-lea"],
+      en: ["Area of approx. 5,500 m²", "Seat of the Counts of Celje", "Frederick Tower is 23 m high", "Major 14th-century expansion"],
+    },
   },
   {
     id: "slovenia-predjama-castle-history-v2",
     type: "castle",
-    name: { de: "Höhlenburg Predjama", hu: "Predjama vára", ro: "Castelul Predjama", en: "Predjama Castle" },
+    name: { de: "Höhlenburg Predjama", hu: "Predjama vára", ro: "Castelul Predjama", en: "Predjama Castle",
+image: "/poi-images/slovenia-predjama-castle-history-v2.webp"
+},
     coords: [14.1267, 45.8158],
     coordinates: { lat: 45.8158, lng: 14.1267 },
     description: {
@@ -78,11 +123,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Aspectul actual renascentist datează din 1570", "Un pasaj secret trece prin sistemul de peșteri carstice", "A supraviețuit unui asediu de un an în secolul al XV-lea", "Înscris în Guinness Book of World Records"],
       en: ["Present Renaissance appearance dates from 1570", "A secret passage leads through the karst cave system", "Survived a year-long siege in the 15th century", "Listed in the Guinness World Records"],
     },
-    imageHint: "Renaissance castle built into a massive cliff face cave", image: "/poi-images/slovenia-predjama-castle-history-v2.webp"},
-  {
+imageHint: "Renaissance castle built into a massive cliff face cave",
+    descriptionAdvanced: {
+      de: "Diese weltweit einzigartige Höhlenburg wurde in eine 123 Meter hohe Felswand gebaut. Sie ist bekannt für den rebellischen Ritter Erasmus von Lueg und ihre Geheimgänge.",
+      hu: "A világ legnagyobb barlangvára egy 123 méter magas sziklafal közepébe épült. Legendás lakója, rablólovagként ismert luegi Erasmus, titkos járatokon át kapott utánpótlást.",
+      ro: "Acest castel unic în lume a fost construit în gura unei peșteri, pe o stâncă de 123 metri. Este faimos pentru cavalerul Erasmus și pasajele sale secrete prin munte.",
+      en: "Built into a 123-meter high cliff, this is the world largest cave castle. It is famous for the legendary knight Erasmus of Lueg and its hidden cave passages.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Felswand: 123 m", "Bauzeit ab dem 12. Jahrhundert", "Guinness-Weltrekord als Höhlenburg", "Erasmus von Lueg verstarb 1484"],
+      hu: ["123 méter magas sziklafal", "12. századi alapítás", "Guinness-világrekorder barlangvár", "Luegi Erasmus 1484-ben halt meg"],
+      ro: ["Stâncă înaltă de 123 m", "Origini în secolul al XII-lea", "Record Guinness pentru peșteră", "Erasmus a murit în 1484"],
+      en: ["123-meter high cliff", "Origins from the 12th century", "Guinness World Record cave castle", "Erasmus of Lueg died in 1484"],
+    },
+    image: "/poi-images/slovenia-predjama-castle-history-v2.webp",
+},  {
     id: "slovenia-bled-castle-history-v2",
     type: "castle",
-    name: { de: "Burg von Bled", hu: "Bledi vár", ro: "Castelul Bled", en: "Bled Castle" },
+    name: { de: "Burg von Bled", hu: "Bledi vár", ro: "Castelul Bled", en: "Bled Castle",
+image: "/poi-images/slovenia-bled-castle-history-v2.webp"
+},
     coords: [14.1008, 46.3698],
     coordinates: { lat: 46.3698, lng: 14.1008 },
     description: {
@@ -97,11 +157,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Menționat documentar pentru prima dată în 1011", "Deține o tipografie Gutenberg reconstruită", "Capela castelului are fresce baroce din jurul anului 1700", "A servit ca sediu german în timpul celui de-al Doilea Război Mondial"],
       en: ["First mentioned in documents in 1011", "Features a reconstructed Gutenberg printing press", "The castle chapel has Baroque frescoes from 1700", "Served as a German headquarters during WWII"],
     },
-    imageHint: "Medieval castle on a cliff overlooking a blue lake", image: "/poi-images/slovenia-bled-castle-history-v2.webp"},
-  {
+imageHint: "Medieval castle on a cliff overlooking a blue lake",
+    descriptionAdvanced: {
+      de: "Die Burg Bled gilt als die älteste Burg Sloweniens und wurde 1011 erstmals urkundlich erwähnt. Sie thront auf einem 130 Meter hohen Felsen direkt über dem Bleder See.",
+      hu: "A bledi vár Szlovénia legrégebbi vára, melyet először 1011-ben említenek. Egy 130 méter magas sziklaszirten áll, közvetlenül a festői Bledi-tó felett.",
+      ro: "Castelul Bled este cea mai veche cetate din Slovenia, atestată documentar în 1011. Este situat pe o stâncă de 130 de metri, oferind o panoramă superbă asupra lacului.",
+      en: "Bled Castle is considered the oldest in Slovenia, first mentioned in 1011. It sits atop a 130-meter cliff, providing iconic views over Lake Bled below.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals erwähnt im Jahr 1011", "Höhe über dem See: 130 m", "Schenkung an das Bistum Brixen", "Museum in den Barockflügeln"],
+      hu: ["1011-es első írásos említés", "130 méterrel a tó felett áll", "A brixeni püspökség kapta meg", "Barokk szárnyban lévő múzeum"],
+      ro: ["Prima mențiune în anul 1011", "Înălțime peste lac: 130 m", "Donat Episcopiei de Brixen", "Muzeu situat în aripa barocă"],
+      en: ["First mentioned in 1011", "130 m above the lake", "Gift to the Bishops of Brixen", "Museum in the Baroque wings"],
+    },
+    image: "/poi-images/slovenia-bled-castle-history-v2.webp",
+},  {
     id: "slovenia-sticna-abbey-history-v2",
     type: "monument",
-    name: { de: "Kloster Stična", hu: "Stičnai apátság", ro: "Abbația Stična", en: "Stična Abbey" },
+    name: { de: "Kloster Stična", hu: "Stičnai apátság", ro: "Abbația Stična", en: "Stična Abbey",
+image: "/poi-images/slovenia-sticna-abbey-history-v2.webp"
+},
     coords: [14.8033, 45.9564],
     coordinates: { lat: 45.9564, lng: 14.8033 },
     description: {
@@ -116,11 +191,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fondată în 1132 de patriarhul de Aquileia", "Găzduiește astăzi Muzeul Sloven al Religiei", "Deține un claustru gotic cu motive florale", "Fortificată în secolul al XV-lea împotriva atacurilor otomane"],
       en: ["Founded in 1132 by the Patriarch of Aquileia", "Currently houses the Slovenian Museum of Religion", "Features a Gothic cloister with floral motifs", "Fortified in the 15th century against Ottoman raids"],
     },
-    imageHint: "Ancient monastery complex with a large stone church", image: "/poi-images/slovenia-sticna-abbey-history-v2.webp"},
-  {
+imageHint: "Ancient monastery complex with a large stone church",
+    descriptionAdvanced: {
+      de: "Das Kloster Stična ist das älteste Kloster Sloweniens und wurde 1136 von Zisterziensern gegründet. Es war über Jahrhunderte ein religiöses und kulturelles Zentrum.",
+      hu: "A stičnai apátság Szlovénia legrégebbi kolostora, melyet 1136-ban alapítottak a ciszterciek. Évszázadokon át fontos vallási és kulturális központként működött.",
+      ro: "Abatia Stična este cea mai veche mănăstire din Slovenia, fondată de cistercieni în 1136. A servit timp de secole ca un centru religios și cultural major.",
+      en: "Stična Abbey is the oldest monastery in Slovenia, founded by Cistercians in 1136. It has been a significant religious and cultural hub for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1136", "Ältestes Kloster des Landes", "Zentrum der Zisterzienser", "Heimat des Stična-Manuskripts"],
+      hu: ["1136-ban alapították", "Az ország legrégebbi kolostora", "Ciszterci szerzetesek központja", "A Stičnai kézirat lelőhelye"],
+      ro: ["Fondată în anul 1136", "Cea mai veche mănăstire", "Centru al ordinului cistercian", "Găzduiește manuscrisul Stična"],
+      en: ["Founded in 1136", "Oldest monastery in Slovenia", "Cistercian order headquarters", "Home of the Stična Manuscript"],
+    },
+    image: "/poi-images/slovenia-sticna-abbey-history-v2.webp",
+},  {
     id: "slovenia-zice-charterhouse-history-v2",
     type: "ruins",
-    name: { de: "Kartause Žiče", hu: "Zicsei karthauzi kolostor", ro: "Cartusia Žiče", en: "Žiče Charterhouse" },
+    name: { de: "Kartause Žiče", hu: "Zicsei karthauzi kolostor", ro: "Cartusia Žiče", en: "Žiče Charterhouse",
+image: "/poi-images/slovenia-zice-charterhouse-history-v2.webp"
+},
     coords: [15.3908, 46.3117],
     coordinates: { lat: 46.3117, lng: 15.3908 },
     description: {
@@ -135,11 +225,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fondată în jurul anului 1160 de Ottokar al III-lea de Stiria", "A găzduit cândva a doua cea mai mare bibliotecă din Europa", "Deține cel mai vechi han încă activ din Slovenia", "Dizolvată în 1782 de împăratul Iosif al II-lea"],
       en: ["Founded around 1160 by Ottokar III of Styria", "Once home to the second largest library in Europe", "Features the oldest continuously operating inn in Slovenia", "Dissolved in 1782 by Emperor Joseph II"],
     },
-    imageHint: "Ruins of a medieval Carthusian monastery in a green valley", image: "/poi-images/slovenia-zice-charterhouse-history-v2.webp"},
-  {
+imageHint: "Ruins of a medieval Carthusian monastery in a green valley",
+    descriptionAdvanced: {
+      de: "Die Kartause Žiče, gegründet um 1160, liegt in einem abgelegenen Tal und war das erste Kartäuserkloster im deutschsprachigen Raum außerhalb Frankreichs und Italiens.",
+      hu: "Az 1160 körül alapított zičei karthauzi kolostor egy eldugott völgyben fekszik. Ez volt az első karthauzi rendház a német nyelvterületen kívül Közép-Európában.",
+      ro: "Mănăstirea Žiče, fondată în jurul anului 1160, se află într-o vale izolată. A fost prima cartuzia din regiune, remarcându-se prin farmacia sa medievală.",
+      en: "The Žiče Charterhouse, founded around 1160, is located in a remote valley. It was the first Carthusian monastery in the region, known for its historic pharmacy.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um das Jahr 1160", "Erste Kartause in Mitteleuropa", "Berühmte mittelalterliche Apotheke", "Zentrum für Kräutermedizin"],
+      hu: ["1160 körül alapították", "Első karthauzi ház a régióban", "Híres középkori patika", "Gyógynövényes orvoslás központja"],
+      ro: ["Fondată în jurul anului 1160", "Prima cartuzia din regiune", "Farmacie medievală celebră", "Centru de medicină naturistă"],
+      en: ["Founded around 1160", "First Carthusian house locally", "Famous medieval pharmacy", "Center for herbal medicine"],
+    },
+    image: "/poi-images/slovenia-zice-charterhouse-history-v2.webp",
+},  {
     id: "slovenia-idrija-anthony-shaft-history-v2",
     type: "mine",
-    name: { de: "Antonius-Stollen Idrija", hu: "Idrijai Antal-tárna", ro: "Galeria lui Anton Idrija", en: "Anthony's Main Road Shaft" },
+    name: { de: "Antonius-Stollen Idrija", hu: "Idrijai Antal-tárna", ro: "Galeria lui Anton Idrija", en: "Anthony's Main Road Shaft",
+image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp"
+},
     coords: [14.0208, 46.0019],
     coordinates: { lat: 46.0019, lng: 14.0208 },
     description: {
@@ -154,11 +259,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Săpăturile în Galeria lui Anton au început în 1500", "Parte a Patrimoniului Mondial UNESCO din 2012", "Mercurul a fost extras aici până în 1995", "Găzduiește o capelă subterană pentru mineri"],
       en: ["Excavation of Anthony's Shaft began in 1500", "Part of the UNESCO World Heritage list since 2012", "Mercury was mined here until 1995", "Houses an underground chapel for miners"],
     },
-    imageHint: "Historical entrance to a mercury mine in Idrija", image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp"},
-  {
+imageHint: "Historical entrance to a mercury mine in Idrija",
+    descriptionAdvanced: {
+      de: "Der Antonius-Stollen in Idrija ist einer der ältesten Quecksilberstollen Europas. Er wurde um 1500 erschlossen und ist Teil des UNESCO-Welterbes.",
+      hu: "Az idrijai Antal-tárna Európa egyik legrégebbi higanybányája. Az 1500-as évek elején nyitották meg, és ma az UNESCO Világörökség részét képezi.",
+      ro: "Galeria lui Anton din Idrija este una dintre cele mai vechi mine de mercur din Europa. Deschisă în jurul anului 1500, este inclusă în patrimoniul UNESCO.",
+      en: "Anthony Shaft in Idrija is one of Europe oldest mercury mines. Opened around 1500, it is now part of the UNESCO World Heritage list.",
+    },
+    factsAdvanced: {
+      de: ["Erschlossen um das Jahr 1500", "UNESCO-Welterbe seit 2012", "Zweitgrößte Quecksilbermine", "Besichtigung in 300 m Tiefe"],
+      hu: ["1500 körül nyitották meg", "UNESCO Világörökség 2012-től", "Második legnagyobb higanybánya", "Látogatható 300 m mélyen"],
+      ro: ["Deschisă în jurul anului 1500", "Patrimoniu UNESCO din 2012", "A doua mină de mercur din lume", "Vizitabilă la 300 m adâncime"],
+      en: ["Opened around 1500", "UNESCO site since 2012", "Second largest mercury mine", "Visit at 300 m depth"],
+    },
+    image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp",
+},  {
     id: "slovenia-franja-hospital-history-v2",
     type: "museum",
-    name: { de: "Partisanenlazarett Franja", hu: "Franja partizánkórház", ro: "Spitalul Partizanii Franja", en: "Franja Partisan Hospital" },
+    name: { de: "Partisanenlazarett Franja", hu: "Franja partizánkórház", ro: "Spitalul Partizanii Franja", en: "Franja Partisan Hospital",
+image: "/poi-images/slovenia-franja-hospital-history-v2.webp"
+},
     coords: [14.0272, 46.1517],
     coordinates: { lat: 46.1517, lng: 14.0272 },
     description: {
@@ -173,11 +293,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Numit după doctorița Franja Bojc Bidovec", "Format din 14 barăci de lemn adânc în strâmtoare", "A îngrijit peste 500 de răniți de diverse naționalități", "Deține Marca Patrimoniului European"],
       en: ["Named after the physician Dr. Franja Bojc Bidovec", "Consists of 14 wooden barracks deep in the gorge", "Treated over 500 wounded of various nationalities", "Holds the European Heritage Label"],
     },
-    imageHint: "Wooden barracks of a secret hospital in a rocky gorge", image: "/poi-images/slovenia-franja-hospital-history-v2.webp"},
-  {
+imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
+    descriptionAdvanced: {
+      de: "Das Partisanenkrankenhaus Franja war ein geheimes Lazarett im Zweiten Weltkrieg. Versteckt in einer Schlucht, wurde es von den Besatzern nie entdeckt.",
+      hu: "A Franja partizánkórház a második világháború alatt titkos hadikórházként működött. A Pasica-szurdokban elrejtett épületeket sosem találták meg a megszállók.",
+      ro: "Spitalul partizan Franja a fost un spital secret în Al Doilea Război Mondial. Ascuns în defileul Pasica, acesta nu a fost niciodată descoperit de inamic.",
+      en: "Franja Partisan Hospital was a secret WWII medical facility. Hidden deep within the Pasica gorge, it remained undetected by occupying forces throughout the war.",
+    },
+    factsAdvanced: {
+      de: ["Betrieb von 1943 bis 1945", "Behandlung von 522 Verwundeten", "Versteckt in der Pasica-Schlucht", "UNESCO-Weltkulturerbe-Kandidat"],
+      hu: ["1943 és 1945 között működött", "522 sebesültet ápoltak itt", "A Pasica-szurdokban rejtőzik", "UNESCO jelölt helyszín"],
+      ro: ["Funcțional între 1943-1945", "522 de răniți tratați", "Ascuns în defileul Pasica", "Candidat la patrimoniul UNESCO"],
+      en: ["Operated from 1943 to 1945", "Treated 522 wounded soldiers", "Hidden in the Pasica Gorge", "UNESCO tentative list site"],
+    },
+    image: "/poi-images/slovenia-franja-hospital-history-v2.webp",
+},  {
     id: "slovenia-kobarid-ossuary-history-v2",
     type: "monument",
-    name: { de: "Beinhaus von Kobarid", hu: "Kobaridi osszárium", ro: "Osuarul din Kobarid", en: "Kobarid Ossuary" },
+    name: { de: "Beinhaus von Kobarid", hu: "Kobaridi osszárium", ro: "Osuarul din Kobarid", en: "Kobarid Ossuary",
+image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp"
+},
     coords: [13.5828, 46.2464],
     coordinates: { lat: 46.2464, lng: 13.5828 },
     description: {
@@ -192,11 +327,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Găzduiește rămășițele a 7.014 soldați italieni", "Inaugurat personal de Benito Mussolini", "Singurul monument funerar italian de acest tip din Slovenia", "Numele celor identificați sunt gravate în marmură"],
       en: ["Houses the remains of 7,014 Italian soldiers", "Inaugurated personally by Benito Mussolini", "Only Italian memorial of this kind in Slovenia", "The names of identified soldiers are engraved in marble"],
     },
-    imageHint: "Large stone monument with circular terraces on a hill", image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp"},
-  {
+imageHint: "Large stone monument with circular terraces on a hill",
+    descriptionAdvanced: {
+      de: "Das Beinhaus von Kobarid erinnert an die gefallenen italienischen Soldaten der Isonzo-Front. Es wurde 1938 auf dem Hügel Gradič um die Kirche St. Anton errichtet.",
+      hu: "A kobaridi csontkamra az Isonzó-fronton elesett olasz katonáknak állít emléket. 1938-ban épült a Szent Antal-templom körül, a Gradič-dombon.",
+      ro: "Osuarul din Kobarid comemorează soldații italieni căzuți pe frontul de la Isonzo. A fost inaugurat în 1938 pe dealul Gradič, în jurul bisericii Sf. Anton.",
+      en: "The Kobarid Ossuary commemorates Italian soldiers killed on the Soča Front during WWI. It was completed in 1938 on Gradič Hill, surrounding St. Anthony Church.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht im Jahr 1938", "Ruhestätte für 7014 Soldaten", "Architekt: Giovanni Greppi", "Lage auf dem Gradič-Hügel"],
+      hu: ["1938-ban avatták fel", "7014 katona nyughelye", "Giovanni Greppi tervezte", "A Gradič-domb tetején áll"],
+      ro: ["Inaugurat în anul 1938", "Adăpostește 7014 soldați", "Arhitect: Giovanni Greppi", "Situat pe dealul Gradič"],
+      en: ["Inaugurated in 1938", "Resting place for 7,014 soldiers", "Architect: Giovanni Greppi", "Located on Gradič Hill"],
+    },
+    image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp",
+},  {
     id: "slovenia-russian-chapel-vrsic-history-v2",
     type: "church",
-    name: { de: "Russische Kapelle am Vršič-Pass", hu: "Orosz kápolna a Vršič-hágónál", ro: "Capela Rusă de la Pasul Vršič", en: "Russian Chapel on the Vršič Pass" },
+    name: { de: "Russische Kapelle am Vršič-Pass", hu: "Orosz kápolna a Vršič-hágónál", ro: "Capela Rusă de la Pasul Vršič", en: "Russian Chapel on the Vršič Pass",
+image: "/poi-images/slovenia-russian-chapel-vrsic-history-v2.webp"
+},
     coords: [13.7719, 46.4428],
     coordinates: { lat: 46.4428, lng: 13.7719 },
     description: {
@@ -211,11 +361,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Construită în 1916 în stil ortodox rus", "Comemorează peste 300 de victime ale avalanșei", "Deține două turnuri caracteristice în formă de ceapă", "Locul ceremoniilor anuale de comemorare a prieteniei sloveno-ruse"],
       en: ["Built in 1916 in Russian Orthodox style", "Commemorates over 300 victims of the avalanche", "Features two characteristic onion-shaped towers", "Site of annual memorial services for Slovenian-Russian friendship"],
     },
-    imageHint: "Small wooden Orthodox chapel in a forest setting", image: "/poi-images/slovenia-russian-chapel-vrsic-history-v2.webp"},
-  {
+imageHint: "Small wooden Orthodox chapel in a forest setting",
+    descriptionAdvanced: {
+      de: "Die Russische Kapelle am Vršič-Pass wurde 1916 von russischen Kriegsgefangenen erbaut. Sie erinnert an ihre Kameraden, die bei einem Lawinenabgang ums Leben kamen.",
+      hu: "A Vršič-hágónál található Orosz kápolnát 1916-ban építették orosz hadifoglyok. Az útépítés közben, egy lavinában elhunyt társaik emlékét őrzi.",
+      ro: "Capela Rusă de pe pasul Vršič a fost construită în 1916 de prizonieri de război ruși. Comemorează colegii lor uciși de o avalanșă în timpul construcției drumului.",
+      en: "The Russian Chapel on the Vršič Pass was built in 1916 by Russian POWs. It honors their comrades who died in an avalanche while constructing the mountain road.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1916", "Erinnert an Lawinenopfer", "Höhenlage: ca. 1100 m", "Ort für jährliche Gedenkfeiern"],
+      hu: ["1916-ban épült", "Lavinaáldozatok emlékére", "Kb. 1100 m magasságban", "Éves megemlékezések helyszíne"],
+      ro: ["Construită în anul 1916", "Memoria victimelor avalanșei", "Altitudine de cca. 1100 m", "Loc de comemorare anuală"],
+      en: ["Built in 1916", "Honors avalanche victims", "Elevation: approx. 1,100 m", "Site of annual memorial events"],
+    },
+    image: "/poi-images/slovenia-russian-chapel-vrsic-history-v2.webp",
+},  {
     id: "slovenia-hrastovlje-church-history-v2",
     type: "church",
-    name: { de: "Wehrkirche Hrastovlje", hu: "Hrastovljei erődtemplom", ro: "Biserica fortificată Hrastovlje", en: "Holy Trinity Church in Hrastovlje" },
+    name: { de: "Wehrkirche Hrastovlje", hu: "Hrastovljei erődtemplom", ro: "Biserica fortificată Hrastovlje", en: "Holy Trinity Church in Hrastovlje",
+image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp"
+},
     coords: [13.9017, 45.5108],
     coordinates: { lat: 45.5108, lng: 13.9017 },
     description: {
@@ -230,11 +395,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Biserica datează din secolul al XII-lea sau al XIII-lea", "Ciclul Dansul Morții a fost pictat în 1490 de Johannes de Castua", "Zidul de apărare servea protecției împotriva incursiunilor otomane", "Frescele au fost redescoperite abia în 1949"],
       en: ["The church dates back to the 12th or 13th century", "The Dance of Death cycle was painted in 1490 by Johannes de Castua", "The defensive wall protected against Ottoman raids", "The frescoes were rediscovered only in 1949"],
     },
-    imageHint: "Small fortified church with ancient stone wall and tower", image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp"},
-  {
+imageHint: "Small fortified church with ancient stone wall and tower",
+    descriptionAdvanced: {
+      de: "Die Wehrkirche in Hrastovlje ist berühmt für ihr spätgotisches Fresko des Totentanzes aus dem Jahr 1490. Es zeigt die Gleichheit aller Menschen vor dem Tod.",
+      hu: "A hrastovljei erődtemplom az 1490-ben készült Haláltánc-freskója miatt világhírű. A falfestmény emlékeztet, hogy a halál előtt mindenki egyenlő.",
+      ro: "Biserica fortificată din Hrastovlje este celebră pentru fresca Dansul Morții din 1490. Aceasta ilustrează egalitatea tuturor oamenilor în fața morții.",
+      en: "The fortified church in Hrastovlje is famous for its 1490 late-Gothic Dance of Death fresco. The painting depicts that everyone is equal before death.",
+    },
+    factsAdvanced: {
+      de: ["Fresko datiert auf 1490", "Künstler: Johannes de Castua", "7 Meter langes Wandbild", "Befestigte Wehrmauer um 1550"],
+      hu: ["1490-es freskó dátuma", "Alkotó: Johannes de Castua", "7 méter hosszú falfestmény", "Védőfalak 1550 körül épültek"],
+      ro: ["Frescă datată în 1490", "Artist: Johannes de Castua", "Pictură de 7 metri lungime", "Zid de apărare din cca. 1550"],
+      en: ["Fresco dated to 1490", "Artist: Johannes de Castua", "7-meter long mural", "Fortified walls from approx. 1550"],
+    },
+    image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp",
+},  {
     id: "slovenia-piran-walls-history-v2",
     type: "landmark",
-    name: { de: "Stadtmauer von Piran", hu: "Pirani városfal", ro: "Zidurile orașului Piran", en: "Piran City Walls" },
+    name: { de: "Stadtmauer von Piran", hu: "Pirani városfal", ro: "Zidurile orașului Piran", en: "Piran City Walls",
+image: "/poi-images/slovenia-piran-walls-history-v2.webp"
+},
     coords: [13.5717, 45.5283],
     coordinates: { lat: 45.5283, lng: 13.5717 },
     description: {
@@ -250,11 +430,25 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["The oldest parts date back to the 7th century", "The main part was built between 1470 and 1533", "Served primarily for protection against Ottoman attacks", "Seven historical city gates are preserved to this day"],
     },
     imageHint: "Medieval stone city walls and towers overlooking a seaside town",
+    descriptionAdvanced: {
+      de: "Die Stadtmauern von Piran wurden zwischen dem 7. und 15. Jahrhundert errichtet. Sie schützten die venezianische Hafenstadt vor Angriffen vom Festland.",
+      hu: "Piran városfalai a 7. és 15. század között épültek ki. A velencei stílusú kikötővárost védték a szárazföld felől érkező támadások ellen.",
+      ro: "Zidurile orașului Piran au fost construite între secolele VII și XV. Acestea au protejat portul venețian împotriva atacurilor de pe uscat.",
+      en: "Piran City Walls were constructed between the 7th and 15th centuries. They protected the Venetian port town from potential inland invasions.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 7. bis 15. Jahrhundert", "Sieben erhaltene Stadttore", "Bester Blick auf die Adria", "Venezianischer Baustil"],
+      hu: ["7-15. század között épült", "Hét fennmaradt városkapu", "Legjobb kilátás az Adriára", "Velencei építészeti stílus"],
+      ro: ["Construite în secolele VII-XV", "Șapte porți conservate", "Cea mai bună vedere la Adriatică", "Stil arhitectural venețian"],
+      en: ["Built between 7th-15th century", "Seven preserved city gates", "Best views of the Adriatic Sea", "Venetian architectural style"],
+    },
   },
   {
     id: "slovenia-skofja-loka-town-history-v2",
     type: "city",
-    name: { de: "Mittelalterliche Stadt Škofja Loka", hu: "Škofja Loka középkori városközpont", ro: "Orașul medieval Škofja Loka", en: "Škofja Loka Medieval Town" },
+    name: { de: "Mittelalterliche Stadt Škofja Loka", hu: "Škofja Loka középkori városközpont", ro: "Orașul medieval Škofja Loka", en: "Škofja Loka Medieval Town",
+image: "/poi-images/slovenia-skofja-loka-town-history-v2.webp"
+},
     coords: [14.3061, 46.1658],
     coordinates: { lat: 46.1658, lng: 14.3061 },
     description: {
@@ -270,11 +464,25 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["First mentioned in 973 as Loka", "Under the rule of the Bishops of Freising for over 800 years", "Home to the Škofja Loka Passion Play, a UNESCO Heritage", "Rebuilt in Renaissance style after the 1511 earthquake"],
     },
     imageHint: "Old town square with colorful medieval houses and a bridge",
+    descriptionAdvanced: {
+      de: "Škofja Loka gilt als eine der besterhaltenen mittelalterlichen Städte Sloweniens. Sie wurde 973 erstmals erwähnt und war jahrhundertelang im Besitz der Bischöfe von Freising.",
+      hu: "Škofja Loka Szlovénia egyik legjobb állapotban fennmaradt középkori városa. 973-ban említik először, és évszázadokon át a freisingi püspökök birtoka volt.",
+      ro: "Škofja Loka este unul dintre cele mai bine conservate orașe medievale din Slovenia. Atestat în 973, a fost sub stăpânirea episcopilor de Freising timp de secole.",
+      en: "Škofja Loka is one of the best-preserved medieval towns in Slovenia. First mentioned in 973, it was owned by the Bishops of Freising for over 800 years.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 973", "830 Jahre Freisinger Besitz", "Ort der Lokaer Passion", "Zentrum der Zünfte"],
+      hu: ["973-as első említés", "830 év freisingi tulajdon", "A Loka-passió helyszíne", "Céhek egykori központja"],
+      ro: ["Prima mențiune în anul 973", "830 de ani sub Freising", "Locul Pasiunii din Loka", "Fost centru al breaslelor"],
+      en: ["First mentioned in 973", "830 years of Freising rule", "Home of the Loka Passion Play", "Former center of guilds"],
+    },
   },
   {
     id: "slovenia-radovljica-manor-history-v2",
     type: "palace",
-    name: { de: "Herrenhaus Radovljica", hu: "Radovljicai kastély", ro: "Conacul Radovljica", en: "Radovljica Manor" },
+    name: { de: "Herrenhaus Radovljica", hu: "Radovljicai kastély", ro: "Conacul Radovljica", en: "Radovljica Manor",
+image: "/poi-images/slovenia-radovljica-manor-history-v2.webp"
+},
     coords: [14.175, 46.3408],
     coordinates: { lat: 46.3408, lng: 14.175 },
     description: {
@@ -289,11 +497,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Aspectul actual datează în principal din secolul al XVIII-lea", "Deține o sală a cavalerilor magnifică cu picturi pe tavan", "Clădirea găzduiește și muzeul turtelor dulci", "Cândva reședința conților de Thurn-Valsassina"],
       en: ["Present appearance dates mainly from the 18th century", "Features a grand Knight's Hall with ceiling paintings", "The building also houses a gingerbread museum", "Once the residence of the Counts of Thurn-Valsassina"],
     },
-    imageHint: "Baroque manor house in a medieval town square", image: "/poi-images/slovenia-radovljica-manor-history-v2.webp"},
-  {
+imageHint: "Baroque manor house in a medieval town square",
+    descriptionAdvanced: {
+      de: "Das Herrenhaus von Radovljica ist ein prachtvoller Barockbau im Herzen der Altstadt. Es beherbergt heute das berühmte Imkereimuseum und erinnert an die lokale Bienenzucht.",
+      hu: "A radovljicai kúria a történelmi városközpont pompás barokk épülete. Ma a híres Méhészeti Múzeumnak ad otthont, bemutatva a környék gazdag hagyományait.",
+      ro: "Conacul din Radovljica este o clădire barocă superbă în centrul vechi. Găzduiește Muzeul Apiculturii, celebrând tradiția locală a creșterii albinelor.",
+      en: "Radovljica Manor is a magnificent Baroque building in the heart of the old town. It houses the Beekeeping Museum, showcasing the region rich apiary heritage.",
+    },
+    factsAdvanced: {
+      de: ["Barockbau aus dem 18. Jh.", "Sitz des Imkereimuseums", "Lage am Linde-Platz", "Prachtvolle Stuckdecken"],
+      hu: ["18. századi barokk épület", "Méhészeti Múzeum székhelye", "A Linde téren található", "Pompás stukkódíszítés"],
+      ro: ["Clădire barocă din sec. XVIII", "Sediul Muzeului Apiculturii", "Situat în piața Linde", "Plafoane cu stucaturi superbe"],
+      en: ["18th-century Baroque manor", "Home to the Beekeeping Museum", "Located on Linde Square", "Ornate stucco ceilings"],
+    },
+    image: "/poi-images/slovenia-radovljica-manor-history-v2.webp",
+},  {
     id: "slovenia-kamnik-mali-grad-history-v2",
     type: "ruins",
-    name: { de: "Mali Grad Kamnik", hu: "Kamniki Mali grad", ro: "Mali Grad Kamnik", en: "Kamnik Mali Grad" },
+    name: { de: "Mali Grad Kamnik", hu: "Kamniki Mali grad", ro: "Mali Grad Kamnik", en: "Kamnik Mali Grad",
+image: "/poi-images/slovenia-kamnik-mali-grad-history-v2.webp"
+},
     coords: [14.6117, 46.2253],
     coordinates: { lat: 46.2253, lng: 14.6117 },
     description: {
@@ -309,11 +532,25 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["The chapel was built in the 11th or 12th century", "Once the seat of the Counts of Andechs", "Legend of the cursed Countess Veronika with a fish tail", "Offers panoramic views of the Kamnik-Savinja Alps"],
     },
     imageHint: "Small medieval chapel and ruins on a hill in a town",
+    descriptionAdvanced: {
+      de: "Die Burg Mali Grad in Kamnik ist bekannt für ihre zweistöckige romanische Kapelle mit Krypta. Sie ist einer der bedeutendsten romanischen Sakralbauten des Landes.",
+      hu: "A kamniki Mali Grad (Kisvár) kétszintes román stílusú kápolnájáról és kriptájáról nevezetes. Az ország egyik legfontosabb román kori egyházi műemléke.",
+      ro: "Castelul Mali Grad din Kamnik este cunoscut pentru capela sa romanică pe două niveluri. Este unul dintre cele mai importante monumente sacrale romanice locale.",
+      en: "Kamnik Mali Grad is famous for its rare two-story Romanesque chapel with a crypt. It stands as one of the most significant Romanesque sacral sites in Slovenia.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit im 11. Jahrhundert", "Seltene Doppelkapelle", "Sitz der Grafen von Andechs", "Ausblick auf die Steiner Alpen"],
+      hu: ["11. századi alapítás", "Ritka kétszintes kápolna", "Az Andechs grófok székhelye", "Kilátás a Kamniki-Alpokra"],
+      ro: ["Origini în secolul al XI-lea", "Capelă dublă rară", "Sediul conților de Andechs", "Vedere spre Alpii Kamnik"],
+      en: ["Origins in the 11th century", "Rare double-story chapel", "Seat of the Counts of Andechs", "Views of the Kamnik Alps"],
+    },
   },
   {
     id: "slovenia-rihemberk-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Rihemberk", hu: "Rihemberk vára", ro: "Castelul Rihemberk", en: "Rihemberk Castle" },
+    name: { de: "Burg Rihemberk", hu: "Rihemberk vára", ro: "Castelul Rihemberk", en: "Rihemberk Castle",
+image: "/poi-images/slovenia-rihemberk-castle-history-v2.webp"
+},
     coords: [13.7917, 45.8828],
     coordinates: { lat: 45.8828, lng: 13.7917 },
     description: {
@@ -328,11 +565,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Deține unul dintre cele mai înalte turnuri de castel din Slovenia", "Menționat în scris pentru prima dată în 1230", "A fost aproape complet distrus în al Doilea Război Mondial", "A servit conților de Gorizia ca bază strategică"],
       en: ["Features one of the highest castle towers in Slovenia", "First mentioned in writing in 1230", "Was almost completely destroyed during World War II", "Served as a strategic base for the Counts of Gorizia"],
     },
-    imageHint: "Large medieval castle with a high stone tower and walls", image: "/poi-images/slovenia-rihemberk-castle-history-v2.webp"},
-  {
+imageHint: "Large medieval castle with a high stone tower and walls",
+    descriptionAdvanced: {
+      de: "Die Burg Rihemberk, auch Burg Branik genannt, ist eine der mächtigsten Burganlagen in der Region Primorska. Sie besticht durch ihren hohen gotischen Wehrturm.",
+      hu: "A Rihemberk vár (más néven Branik vára) a Tengermellék egyik leghatalmasabb erődítménye. Kiemelkedő látványossága a magas, gótikus védőtorony.",
+      ro: "Castelul Rihemberk, cunoscut și sub numele de Branik, este una dintre cele mai mari cetăți din Primorska. Se remarcă prin turnul său gotic masiv.",
+      en: "Rihemberk Castle, also known as Branik, is one of the mightiest fortresses in the Primorska region. It is characterized by its tall, dominant Gothic tower.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit ab dem 13. Jahrhundert", "Besitz der Familie Lanthieri", "Höchster Wehrturm der Region", "Kulturdenkmal von nationaler Bedeutung"],
+      hu: ["13. századi alapítás", "A Lanthieri család birtoka", "A régió legmagasabb tornya", "Nemzeti jelentőségű műemlék"],
+      ro: ["Origini în secolul al XIII-lea", "Proprietatea familiei Lanthieri", "Cel mai înalt turn din regiune", "Monument cultural național"],
+      en: ["Origins in the 13th century", "Owned by the Lanthieri family", "Tallest tower in the region", "National cultural monument"],
+    },
+    image: "/poi-images/slovenia-rihemberk-castle-history-v2.webp",
+},  {
     id: "slovenia-turjak-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Turjak", hu: "Turjaki vár", ro: "Castelul Turjak", en: "Turjak Castle" },
+    name: { de: "Burg Turjak", hu: "Turjaki vár", ro: "Castelul Turjak", en: "Turjak Castle",
+image: "/poi-images/slovenia-turjak-castle-history-v2.webp"
+},
     coords: [14.6083, 45.8775],
     coordinates: { lat: 45.8775, lng: 14.6083 },
     description: {
@@ -347,11 +599,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Are forma unui triunghi neregulat", "Centrul protestantismului în Slovenia în secolul al XVI-lea", "Locul unui asediu faimos în anul 1943", "Găzduiește arsenalul familiei Auersperg"],
       en: ["Has the shape of an irregular triangle", "Center of Protestantism in Slovenia in the 16th century", "Site of a famous siege in 1943", "Houses the Auersperg armory"],
     },
-    imageHint: "Strong stone castle with round towers and thick walls", image: "/poi-images/slovenia-turjak-castle-history-v2.webp"},
-  {
+imageHint: "Strong stone castle with round towers and thick walls",
+    descriptionAdvanced: {
+      de: "Burg Turjak war der Stammsitz der Familie Auersperg und spielte eine zentrale Rolle während der Reformation. Hier wirkten wichtige slowenische Reformatoren.",
+      hu: "A turjaki vár az Auersperg család székhelye volt, és központi szerepet játszott a reformáció idején. Fontos szlovén reformátorok munkásságának helyszíne.",
+      ro: "Castelul Turjak a fost sediul familiei Auersperg și a jucat un rol cheie în timpul Reformei. Aici au activat importanți reformatori sloveni.",
+      en: "Turjak Castle was the ancestral seat of the Auersperg family and a key center during the Reformation. It hosted major Slovenian Protestant reformers.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit ab dem 11. Jahrhundert", "Zentrum der Reformation", "Dalmatin-Bibel wurde hier genutzt", "Sitz der Fürsten Auersperg"],
+      hu: ["11. századi eredet", "A reformáció központja", "Dalmatin bibliáját itt használták", "Az Auersperg hercegek székhelye"],
+      ro: ["Origini în secolul al XI-lea", "Centru al Reformei", "Biblia lui Dalmatin folosită aici", "Sediul prinților Auersperg"],
+      en: ["Origins in the 11th century", "Center of the Reformation", "Dalmatin Bible used here", "Seat of the Princes Auersperg"],
+    },
+    image: "/poi-images/slovenia-turjak-castle-history-v2.webp",
+},  {
     id: "slovenia-sneznik-castle-history-v2",
     type: "palace",
-    name: { de: "Schloss Snežnik", hu: "Snežnik vára", ro: "Castelul Snežnik", en: "Snežnik Castle" },
+    name: { de: "Schloss Snežnik", hu: "Snežnik vára", ro: "Castelul Snežnik", en: "Snežnik Castle",
+image: "/poi-images/slovenia-sneznik-castle-history-v2.webp"
+},
     coords: [14.4683, 45.6817],
     coordinates: { lat: 45.6817, lng: 14.4683 },
     description: {
@@ -366,11 +633,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Menționat documentar pentru prima dată în 1269", "Fost castel de vânătoare al familiei Schönburg-Waldenburg", "Unul dintre puținele castele din Slovenia cu mobilier original", "În mijlocul unui vast parc peisagistic englezesc"],
       en: ["First mentioned in documents in 1269", "Former hunting lodge of the Schönburg-Waldenburg family", "One of the few castles in Slovenia with original furniture", "Surrounded by an extensive English landscape park"],
     },
-    imageHint: "White Renaissance-style castle with a bridge and a pond", image: "/poi-images/slovenia-sneznik-castle-history-v2.webp"},
-  {
+imageHint: "White Renaissance-style castle with a bridge and a pond",
+    descriptionAdvanced: {
+      de: "Burg Snežnik ist eines der wenigen Schlösser Sloweniens mit vollständig erhaltener Innenausstattung aus dem 19. Jahrhundert. Es diente als Jagdschloss.",
+      hu: "A snežniki vár azon kevés szlovén kastélyok egyike, amelynek 19. századi belső berendezése teljesen épen maradt. Egykor népszerű vadászkastély volt.",
+      ro: "Castelul Snežnik este unul dintre puținele din Slovenia cu interioare din secolul al XIX-lea complet conservate. A servit drept conac de vânătoare.",
+      en: "Snežnik Castle is one of the few in Slovenia with fully preserved 19th-century interiors. It was historically used as a prominent hunting lodge.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit ab dem 13. Jahrhundert", "Originalmöbel des 19. Jh.", "Besitz der Schönburg-Waldenburg", "Inmitten von Buchenwäldern"],
+      hu: ["13. századi alapítás", "Eredeti 19. századi bútorok", "Schönburg-Waldenburg birtok", "Bükkerdők övezik"],
+      ro: ["Origini în secolul al XIII-lea", "Mobilier original din sec. XIX", "Proprietate Schönburg-Waldenburg", "Înconjurat de păduri de fag"],
+      en: ["Origins in the 13th century", "Original 19th-century furniture", "Owned by Schönburg-Waldenburg", "Surrounded by beech forests"],
+    },
+    image: "/poi-images/slovenia-sneznik-castle-history-v2.webp",
+},  {
     id: "slovenia-bogensperk-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Bogenšperk", hu: "Bogenšperk-kastély", ro: "Castelul Bogenšperk", en: "Bogenšperk Castle" },
+    name: { de: "Schloss Bogenšperk", hu: "Bogenšperk-kastély", ro: "Castelul Bogenšperk", en: "Bogenšperk Castle",
+image: "/poi-images/slovenia-bogensperk-castle-history-v2.webp"
+},
     coords: [14.8622, 46.0228],
     coordinates: { lat: 46.0228, lng: 14.8622 },
     description: {
@@ -385,11 +667,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Clădire renascentistă din secolul al XVI-lea", "Valvasor a operat aici propriul atelier de gravură în cupru", "Găzduiește un muzeu de topografie și geografie", "Loc popular pentru nunți și evenimente culturale"],
       en: ["16th-century Renaissance building", "Valvasor operated his own copper engraving workshop here", "Houses a museum of surveying and geography", "Popular venue for weddings and cultural events"],
     },
-    imageHint: "Renaissance castle with four corner towers in a forest", image: "/poi-images/slovenia-bogensperk-castle-history-v2.webp"},
-  {
+imageHint: "Renaissance castle with four corner towers in a forest",
+    descriptionAdvanced: {
+      de: "Schloss Bogenšperk ist eng mit dem Universalgelehrten Janez Vajkard Valvasor verbunden. Er schrieb hier sein berühmtes Werk 'Die Ehre des Herzogtums Krain'.",
+      hu: "A Bogenšperk-vár szorosan kapcsolódik Janez Vajkard Valvasor polihisztorhoz. Itt írta meg híres művét, 'Az Krajnai Hercegség dicsőségét'.",
+      ro: "Castelul Bogenšperk este strâns legat de polimatul Janez Vajkard Valvasor. Aici a scris celebra sa lucrare 'Slava Ducatului Carniola'.",
+      en: "Bogenšperk Castle is famous as the residence of polymath Janez Vajkard Valvasor. He wrote his masterpiece, 'The Glory of the Duchy of Carniola', here.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit im 16. Jahrhundert", "Wirkungsstätte von Valvasor", "Berühmte Kupferstichwerkstatt", "Renaissance-Architektur"],
+      hu: ["16. században épült", "Valvasor itt élt és alkotott", "Híres rézmetsző műhely", "Reneszánsz építészeti stílus"],
+      ro: ["Construit în secolul al XVI-lea", "Reședința lui Valvasor", "Atelier de gravură celebru", "Arhitectură renascentistă"],
+      en: ["Built in the 16th century", "Valvasor lived and worked here", "Famous copper engraving workshop", "Renaissance architecture"],
+    },
+    image: "/poi-images/slovenia-bogensperk-castle-history-v2.webp",
+},  {
     id: "slovenia-maribor-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Maribor", hu: "Maribori vár", ro: "Castelul Maribor", en: "Maribor Castle" },
+    name: { de: "Schloss Maribor", hu: "Maribori vár", ro: "Castelul Maribor", en: "Maribor Castle",
+image: "/poi-images/slovenia-maribor-castle-history-v2.webp"
+},
     coords: [15.6483, 46.5608],
     coordinates: { lat: 46.5608, lng: 15.6483 },
     description: {
@@ -404,11 +701,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea de împăratul Frederic al III-lea", "Deține o scară rococo somptuoasă", "Capela castelului este dedicată Fecioarei Maria", "Cunoscut pentru sala cavalerilor barocă cu picturi pe tavan"],
       en: ["Built in the 15th century by Emperor Frederick III", "Features a magnificent Rococo staircase", "The castle chapel is dedicated to the Virgin Mary", "Famous for its Baroque Knight's Hall with ceiling paintings"],
     },
-    imageHint: "Historical castle building in the city center of Maribor", image: "/poi-images/slovenia-maribor-castle-history-v2.webp"},
-  {
+imageHint: "Historical castle building in the city center of Maribor",
+    descriptionAdvanced: {
+      de: "Das Schloss Maribor liegt mitten im Stadtzentrum und vereint verschiedene Baustile von der Gotik bis zum Barock. Es beherbergt heute das Regionalmuseum.",
+      hu: "A maribori vár a városközpont szívében található, gótikus, reneszánsz és barokk stílusjegyeket is hordoz. Ma a Regionális Múzeumnak ad otthont.",
+      ro: "Castelul Maribor este situat chiar în centrul orașului, îmbinând stilurile gotic, renascentist și baroc. Găzduiește în prezent Muzeul Regional.",
+      en: "Maribor Castle is located in the city center, blending Gothic, Renaissance, and Baroque styles. It now houses the comprehensive Regional Museum.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut ab dem 15. Jahrhundert", "Prachtvolle barocke Treppe", "Sitz des Regionalmuseums", "Lage am Burgplatz (Grajski trg)"],
+      hu: ["15. században kezdték építeni", "Pompás barokk lépcsőház", "Regionális Múzeum székhelye", "A Vár téren (Grajski trg) áll"],
+      ro: ["Construit din secolul al XV-lea", "Scară barocă monumentală", "Sediul Muzeului Regional", "Situat în piața Grajski trg"],
+      en: ["Construction started in 15th c.", "Magnificent Baroque staircase", "Home of the Regional Museum", "Located on Grajski trg square"],
+    },
+    image: "/poi-images/slovenia-maribor-castle-history-v2.webp",
+},  {
     id: "slovenia-stanjel-history-v2",
     type: "village",
-    name: { de: "Štanjel", hu: "Štanjel", ro: "Štanjel", en: "Štanjel" },
+    name: { de: "Štanjel", hu: "Štanjel", ro: "Štanjel", en: "Štanjel",
+image: "/poi-images/slovenia-stanjel-history-v2.webp"
+},
     coords: [13.8453, 45.8239],
     coordinates: { lat: 45.8239, lng: 13.8453 },
     description: {
@@ -423,11 +735,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fortificat în secolul al XV-lea împotriva atacurilor otomane", "Deține o poartă medievală a orașului cu turn de apărare", "Grădina Ferrari a fost proiectată de Max Fabiani", "Găzduiește un muzeu etnografic în 'Kraška hiša'"],
       en: ["Fortified in the 15th century against Ottoman attacks", "Features a medieval city gate with a defensive tower", "The Ferrari Garden was designed by Max Fabiani", "Houses an ethnological museum in the 'Kraška hiša' house"],
     },
-    imageHint: "Stone village on a hill with a castle and a scenic garden", image: "/poi-images/slovenia-stanjel-history-v2.webp"},
-  {
+imageHint: "Stone village on a hill with a castle and a scenic garden",
+    descriptionAdvanced: {
+      de: "Štanjel ist eines der ältesten Karstdörfer und bekannt für seine charakteristische Steinarchitektur. Die Burg und der Ferrari-Garten prägen das Ortsbild.",
+      hu: "Štanjel az egyik legrégebbi karsztvidéki település, híres jellegzetes kőépítészetéről. A vár és a Ferrari-kert határozza meg a falu arculatát.",
+      ro: "Štanjel este unul dintre cele mai vechi sate din regiunea Karst, faimos pentru arhitectura sa în piatră. Castelul și Grădina Ferrari domină peisajul.",
+      en: "Štanjel is one of the oldest settlements in the Karst region, renowned for its stone architecture. The castle and Ferrari Garden are its main landmarks.",
+    },
+    factsAdvanced: {
+      de: ["Altes befestigtes Karstdorf", "Ferrari-Garten von Max Fabiani", "Besiedelt seit der Eisenzeit", "Kirche St. Daniel mit Turm"],
+      hu: ["Régi erődített karszti falu", "Ferrari-kert (Max Fabiani)", "A vaskor óta lakott hely", "Szent Dániel-templom tornya"],
+      ro: ["Sat fortificat vechi în Karst", "Grădina Ferrari (Max Fabiani)", "Locuit din Epoca Fierului", "Biserica Sf. Daniel cu turn"],
+      en: ["Ancient fortified Karst village", "Ferrari Garden by Max Fabiani", "Inhabited since the Iron Age", "St. Daniel Church with tower"],
+    },
+    image: "/poi-images/slovenia-stanjel-history-v2.webp",
+},  {
     id: "slovenia-sempeter-necropolis-history-v2",
     type: "ruins",
-    name: { de: "Römische Nekropole Šempeter", hu: "Šempeteri római nekropolisz", ro: "Necropola Romană Šempeter", en: "Roman Necropolis Šempeter" },
+    name: { de: "Römische Nekropole Šempeter", hu: "Šempeteri római nekropolisz", ro: "Necropola Romană Šempeter", en: "Roman Necropolis Šempeter",
+image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp"
+},
     coords: [15.1158, 46.2494],
     coordinates: { lat: 46.2494, lng: 15.1158 },
     description: {
@@ -442,11 +769,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Monumentele datează din secolele II și III d.Hr.", "Descoperite accidental în 1952 în timpul unor lucrări în grădină", "Cel mai mare mormânt este monumentul familiei Ennier", "Prezintă scene din mitologia greco-romană"],
       en: ["The monuments date from the 2nd and 3rd centuries AD", "Discovered by chance in 1952 during gardening work", "The largest tomb is the monument of the Ennier family", "Displays scenes from Greco-Roman mythology"],
     },
-    imageHint: "Ornate Roman stone tomb monuments in an outdoor park", image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp"},
-  {
+imageHint: "Ornate Roman stone tomb monuments in an outdoor park",
+    descriptionAdvanced: {
+      de: "Die römische Nekropole in Šempeter ist eine der besterhaltenen antiken Stätten Sloweniens. Sie zeigt prächtige Grabdenkmäler aus weißem Marmor.",
+      hu: "A šempeteri római nekropolisz Szlovénia egyik legjobb állapotban maradt ókori lelőhelye. Pompás fehér márvány síremlékeket mutat be az 1-3. századból.",
+      ro: "Necropola romană din Šempeter este unul dintre cele mai bine conservate situri antice. Expune monumente funerare magnifice din marmură albă.",
+      en: "The Roman Necropolis in Šempeter is one of the best-preserved ancient sites in Slovenia. It features magnificent marble tombs from the 1st-3rd centuries AD.",
+    },
+    factsAdvanced: {
+      de: ["Gräber aus dem 1.-3. Jh. n. Chr.", "Denkmäler aus weißem Marmor", "Wiederentdeckt im Jahr 1952", "Gehörte zur Siedlung Celeia"],
+      hu: ["1-3. századi síremlékek", "Fehér márványból készültek", "1952-ben fedezték fel újra", "Celeia településhez tartozott"],
+      ro: ["Morminte din sec. I-III d.Hr.", "Monumente din marmură albă", "Redescoperit în anul 1952", "Parte a așezării Celeia"],
+      en: ["Tombs from 1st-3rd c. AD", "Monuments made of white marble", "Rediscovered in 1952", "Belonged to Celeia settlement"],
+    },
+    image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp",
+},  {
     id: "slovenia-divje-babe-history-v2",
     type: "ruins",
-    name: { de: "Archäologischer Park Divje Babe", hu: "Divje Babe régészeti park", ro: "Parcul arheologic Divje Babe", en: "Divje Babe Archaeological Park" },
+    name: { de: "Archäologischer Park Divje Babe", hu: "Divje Babe régészeti park", ro: "Parcul arheologic Divje Babe", en: "Divje Babe Archaeological Park",
+image: "/poi-images/slovenia-divje-babe-history-v2.webp"
+},
     coords: [13.9189, 46.1136],
     coordinates: { lat: 46.1136, lng: 13.9189 },
     description: {
@@ -461,11 +803,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["'Flautul Neandertalian' are o vechime de aproximativ 60.000 de ani", "Fabricat din femurul unui urs de peșteră", "Descoperit în 1995 de arheologul Ivan Turk", "Situat pe un platou abrupt deasupra văii Idrijca"],
       en: ["The 'Neanderthal flute' is approximately 60,000 years old", "Made from the femur of a cave bear", "Discovered in 1995 by archaeologist Ivan Turk", "Located on a steep plateau above the Idrijca Valley"],
     },
-    imageHint: "Entrance to a prehistoric cave in a rocky cliff", image: "/poi-images/slovenia-divje-babe-history-v2.webp"},
-  {
+imageHint: "Entrance to a prehistoric cave in a rocky cliff",
+    descriptionAdvanced: {
+      de: "Divje Babe ist eine bedeutende paläolithische Höhle, in der die weltweit älteste Flöte gefunden wurde. Sie wurde vor etwa 43.000 Jahren aus einem Bärenknochen gefertigt.",
+      hu: "Divje Babe egy fontos paleolit barlang, ahol a világ legrégebbi furulyáját találták meg. A barlangi medve csontjából készült hangszer kb. 43 000 éves.",
+      ro: "Divje Babe este o peșteră paleolitică importantă unde s-a găsit cel mai vechi fluier din lume. Confecționat din os de urs, are o vechime de cca. 43.000 ani.",
+      en: "Divje Babe is a key Paleolithic cave site where the world oldest flute was discovered. Made from a cave bear bone, it is approximately 43,000 years old.",
+    },
+    factsAdvanced: {
+      de: ["Fund der Neandertaler-Flöte", "Alter des Fundstücks: 43.000 J.", "Knochen eines Höhlenbären", "Lage über dem Idrijca-Tal"],
+      hu: ["Neandervölgyi furulya lelőhely", "A lelet kora 43 000 év", "Barlangi medve csontjából", "Az Idrijca-völgy felett"],
+      ro: ["Descoperirea fluierului vechi", "Vechime de 43.000 de ani", "Fabricat din os de urs", "Deasupra văii Idrijca"],
+      en: ["Neanderthal flute discovery", "Age: approx. 43,000 years", "Made of cave bear bone", "Located above the Idrijca valley"],
+    },
+    image: "/poi-images/slovenia-divje-babe-history-v2.webp",
+},  {
     id: "slovenia-loka-castle-history-v2",
     type: "castle",
-    name: { de: "Burg von Loka", hu: "Loka vára", ro: "Castelul Loka", en: "Loka Castle" },
+    name: { de: "Burg von Loka", hu: "Loka vára", ro: "Castelul Loka", en: "Loka Castle",
+image: "/poi-images/slovenia-loka-castle-history-v2.webp"
+},
     coords: [14.305, 46.165],
     coordinates: { lat: 46.165, lng: 14.305 },
     description: {
@@ -481,11 +838,25 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["First mentioned in 1202", "Extensively rebuilt after the 1511 earthquake", "Features a scenic castle garden with an open-air museum", "Served as barracks and a prison in the 19th century"],
     },
     imageHint: "Large medieval castle complex on a hill overlooking a town",
+    descriptionAdvanced: {
+      de: "Burg Loka thront über Škofja Loka und beherbergt heute ein Museum. Sie wurde nach dem Erdbeben von 1511 auf den Grundmauern der älteren Bischofsburg neu errichtet.",
+      hu: "A Loka-vár Škofja Loka városa felett áll, és ma múzeumnak ad otthont. Az 1511-es földrengés után építették újjá a korábbi püspöki vár alapjain.",
+      ro: "Castelul Loka domină orașul Škofja Loka și găzduiește un muzeu bogat. A fost reconstruit după cutremurul din 1511 pe locul vechii cetăți episcopale.",
+      en: "Loka Castle overlooks Škofja Loka and currently houses the Loka Museum. It was rebuilt after the 1511 earthquake on the foundations of a 13th-century fort.",
+    },
+    factsAdvanced: {
+      de: ["Neubau nach Erdbeben 1511", "Sitz der Bischöfe von Freising", "Heute Museum von Škofja Loka", "Rundturm aus dem 16. Jh."],
+      hu: ["Az 1511-es földrengés után épült", "Freisingi püspökök székhelye", "Ma a Loka Múzeum otthona", "16. századi körtorony"],
+      ro: ["Reconstruit după seismul din 1511", "Sediul episcopilor de Freising", "Găzduiește Muzeul Loka", "Turn rotund din secolul XVI"],
+      en: ["Rebuilt after 1511 earthquake", "Seat of Freising Bishops", "Home to the Loka Museum", "Round tower from 16th century"],
+    },
   },
   {
     id: "slovenia-gornji-grad-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Gornji Grad", hu: "Gornji Grad-i katedrális", ro: "Catedrala din Gornji Grad", en: "Gornji Grad Cathedral" },
+    name: { de: "Kathedrale von Gornji Grad", hu: "Gornji Grad-i katedrális", ro: "Catedrala din Gornji Grad", en: "Gornji Grad Cathedral",
+image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp"
+},
     coords: [14.8058, 46.2958],
     coordinates: { lat: 46.2958, lng: 14.8058 },
     description: {
@@ -500,11 +871,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Construită între 1752 și 1761 în stil baroc", "Cândva reședința episcopilor de Ljubljana", "Deține picturi valoroase de Fortunat Bergant", "Cupola atinge o înălțime de peste 50 de metri"],
       en: ["Built between 1752 and 1761 in Baroque style", "Once the residence of the Bishops of Ljubljana", "Contains valuable paintings by Fortunat Bergant", "The dome reaches a height of over 50 meters"],
     },
-    imageHint: "Massive Baroque cathedral with a large dome in a small town", image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp"},
-  {
+imageHint: "Massive Baroque cathedral with a large dome in a small town",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Gornji Grad ist flächenmäßig die größte Kirche Sloweniens. Der barocke Bau wurde im 18. Jahrhundert an der Stelle eines ehemaligen Klosters errichtet.",
+      hu: "A gornji gradi székesegyház Szlovénia legnagyobb alapterületű temploma. A barokk épület a 18. században épült egy korábbi bencés kolostor helyén.",
+      ro: "Catedrala din Gornji Grad este cea mai mare biserică din Slovenia ca suprafață. Edificiul baroc a fost construit în sec. XVIII pe locul unei mănăstiri vechi.",
+      en: "Gornji Grad Cathedral is the largest church in Slovenia by floor area. The Baroque structure was built in the 18th century on the site of a Benedictine abbey.",
+    },
+    factsAdvanced: {
+      de: ["Größte Kirche des Landes", "Barockbau ab 1752", "Länge: 58 Meter", "Sitz des Bistums Ljubljana (früher)"],
+      hu: ["Az ország legnagyobb temploma", "1752-től épült barokk stílusban", "Hossza 58 méter", "Ljubljanai püspökség korábbi székhelye"],
+      ro: ["Cea mai mare biserică locală", "Stil baroc din anul 1752", "Lungime de 58 de metri", "Fost sediu al episcopiei"],
+      en: ["Largest church in the country", "Baroque style from 1752", "Length of 58 meters", "Former seat of Ljubljana diocese"],
+    },
+    image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp",
+},  {
     id: "slovenia-kostanjevica-monastery-history-v2",
     type: "monument",
-    name: { de: "Kloster Kostanjevica na Krki", hu: "Kostanjevica na Krki kolostor", ro: "Mănăstirea Kostanjevica na Krki", en: "Kostanjevica na Krki Monastery" },
+    name: { de: "Kloster Kostanjevica na Krki", hu: "Kostanjevica na Krki kolostor", ro: "Mănăstirea Kostanjevica na Krki", en: "Kostanjevica na Krki Monastery",
+image: "/poi-images/slovenia-kostanjevica-monastery-history-v2.webp"
+},
     coords: [15.4219, 45.8456],
     coordinates: { lat: 45.8456, lng: 15.4219 },
     description: {
@@ -519,11 +905,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fondată în 1234 de Bernhard von Spanheim", "Deține o curte cu arcade cu 82 de piloni de piatră", "Locul simpozionului internațional de sculptură Forma Viva", "Biserica mănăstirii este o capodoperă a goticului timpuriu"],
       en: ["Founded in 1234 by Bernhard von Spanheim", "Features an arcaded courtyard with 82 stone pillars", "Host to the Forma Viva international sculpture symposium", "The monastery church is a masterpiece of early Gothic"],
     },
-    imageHint: "Large monastery complex with a huge inner courtyard and arches", image: "/poi-images/slovenia-kostanjevica-monastery-history-v2.webp"},
-  {
+imageHint: "Large monastery complex with a huge inner courtyard and arches",
+    descriptionAdvanced: {
+      de: "Das Kloster Kostanjevica na Krki, ein ehemaliges Zisterzienserkloster, ist heute Sitz der Božidar-Jakac-Galerie. Es ist bekannt für seine Arkadenhöfe und Kunstausstellungen.",
+      hu: "A Kostanjevica na Krki-i ciszterci kolostor ma a Božidar Jakac Galériának ad otthont. Híres árkádos udvaráról és a szabadtéri Forma Viva szoborparkról.",
+      ro: "Mănăstirea Kostanjevica na Krki, fost lăcaș cistercian, găzduiește acum Galeria Božidar Jakac. Este renumită pentru curtea sa cu arcade și sculpturi.",
+      en: "Kostanjevica na Krki Monastery, a former Cistercian abbey, now houses the Božidar Jakac Art Gallery. It is known for its arcade courtyard and sculpture park.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1234", "Sitz der Galerie Božidar Jakac", "Eines der größten Arkadenhöfe", "Zisterziensische Architektur"],
+      hu: ["1234-ben alapították", "Božidar Jakac Galéria székhelye", "Az egyik legnagyobb árkádos udvar", "Ciszterci építészeti stílus"],
+      ro: ["Fondată în anul 1234", "Sediul Galeriei Božidar Jakac", "Una dintre cele mai mari curți", "Arhitectură cisterciană"],
+      en: ["Founded in 1234", "Home of the Božidar Jakac Gallery", "One of the largest arcade courts", "Cistercian architectural style"],
+    },
+    image: "/poi-images/slovenia-kostanjevica-monastery-history-v2.webp",
+},  {
     id: "slovenia-otocec-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Otočec", hu: "Otočeci vár", ro: "Castelul Otočec", en: "Otočec Castle" },
+    name: { de: "Schloss Otočec", hu: "Otočeci vár", ro: "Castelul Otočec", en: "Otočec Castle",
+image: "/poi-images/slovenia-otocec-castle-history-v2.webp"
+},
     coords: [15.2344, 45.8378],
     coordinates: { lat: 45.8378, lng: 15.2344 },
     description: {
@@ -538,11 +939,26 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Inițial o cetate medievală", "Grav avariat de un incendiu în al Doilea Război Mondial", "Restaurat fidel în stilul Renașterii", "Găzduiește astăzi un hotel exclusivist"],
       en: ["Originally a medieval fortress", "Severely damaged by fire during World War II", "Restored to its original state in Renaissance style", "Currently houses an exclusive hotel"],
     },
-    imageHint: "Medieval castle on a small island surrounded by a river", image: "/poi-images/slovenia-otocec-castle-history-v2.webp"},
-  {
+imageHint: "Medieval castle on a small island surrounded by a river",
+    descriptionAdvanced: {
+      de: "Burg Otočec ist die einzige Wasserburg Sloweniens und liegt auf einer kleinen Insel im Fluss Krka. Sie wurde erstmals im 13. Jahrhundert erwähnt und später barockisiert.",
+      hu: "Az otočeci vár Szlovénia egyetlen vízi vára, mely a Krka folyó egy kis szigetén fekszik. Először a 13. században említik, később barokk stílusban építették át.",
+      ro: "Castelul Otočec este singura cetate pe apă din Slovenia, situată pe o insulă a râului Krka. Atestată în sec. XIII, a fost transformată ulterior în stil baroc.",
+      en: "Otočec Castle is the only water castle in Slovenia, uniquely situated on an island in the Krka River. First mentioned in the 13th century, it was later baroquized.",
+    },
+    factsAdvanced: {
+      de: ["Einzige Wasserburg des Landes", "Lage auf einer Insel der Krka", "Erwähnt im 13. Jahrhundert", "Heute ein Luxushotel"],
+      hu: ["Az ország egyetlen vízi vára", "Szigeten fekszik a Krkán", "13. századi első említés", "Ma luxusszálloda"],
+      ro: ["Singurul castel pe apă", "Situat pe o insulă în râul Krka", "Menționat în secolul al XIII-lea", "În prezent hotel de lux"],
+      en: ["Slovenia only water castle", "Located on an island in the Krka", "Mentioned in the 13th century", "Now a luxury hotel"],
+    },
+    image: "/poi-images/slovenia-otocec-castle-history-v2.webp",
+},  {
     id: "slovenia-ljubljana-castle-history-v2",
     type: "castle",
-    name: { de: "Ljubljaner Burg", hu: "Ljubljanai vár", ro: "Castelul Ljubljana", en: "Ljubljana Castle" },
+    name: { de: "Ljubljaner Burg", hu: "Ljubljanai vár", ro: "Castelul Ljubljana", en: "Ljubljana Castle",
+image: "/poi-images/slovenia-ljubljana-castle-history-v2.webp"
+},
     coords: [14.5083, 46.0489],
     coordinates: { lat: 46.0489, lng: 14.5083 },
     description: {
@@ -558,5 +974,17 @@ export const sloveniaHistoryV2: POI[] = [
       en: ["Site of a prehistoric and later Roman fortification", "Features a St. George's Chapel dating from 1489", "From the lookout tower, one can see a third of Slovenia", "Accessible by a modern funicular railway"],
     },
     imageHint: "Medieval castle on a green hill overlooking Ljubljana city",
+    descriptionAdvanced: {
+      de: "Die Burg von Ljubljana thront seit dem Mittelalter über der Hauptstadt. Sie diente als Festung, Kaserne und sogar als Gefängnis, bevor sie zum Kulturzentrum wurde.",
+      hu: "A ljubljanai vár a középkor óta magasodik a főváros fölé. Szolgált erődként, laktanyaként és börtönként is, mielőtt a város kulturális központjává vált volna.",
+      ro: "Castelul Ljubljana domină capitala încă din epoca medievală. A servit drept fortăreață, cazarmă și închisoare, fiind astăzi un centru cultural vibrant.",
+      en: "Ljubljana Castle has stood over the capital since the Middle Ages. It functioned as a fortress, barracks, and prison before becoming a major cultural landmark.",
+    },
+    factsAdvanced: {
+      de: ["Bau der heutigen Burg ab 15. Jh.", "Aussichtsturm von 1848", "Erreichbar per Standseilbahn", "Historisches Gefängnis im Schloss"],
+      hu: ["Mai formája a 15. századból ered", "1848-as kilátótorony", "Siklóval is megközelíthető", "Egykori börtön cellákkal"],
+      ro: ["Forma actuală din sec. XV", "Turn de observație din 1848", "Accesibil cu funicularul", "Fostă închisoare istorică"],
+      en: ["Current structure from 15th c.", "Outlook tower built in 1848", "Accessible by funicular railway", "Former historical prison site"],
+    },
   }
 ];

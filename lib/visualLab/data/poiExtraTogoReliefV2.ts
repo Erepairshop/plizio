@@ -10,8 +10,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Alédjo-Verwerfung",
       hu: "Alédjo-hasadék",
       ro: "Falia Alédjo",
-      en: "Alédjo Fault"
-    },
+      en: "Alédjo Fault",
+image: "/poi-images/aledjo-fault-relief-v2.webp"
+},
     description: {
       de: "Die Alédjo-Verwerfung ist eine spektakuläre geologische Formation, bei der die Nationalstraße direkt durch eine schmale Felsspalte führt.",
       hu: "Az Alédjo-hasadék egy látványos geológiai képződmény, ahol az országút közvetlenül egy keskeny sziklahasadékon halad keresztül.",
@@ -53,8 +54,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Danyi-Plateau",
       hu: "Danyi-fennsík",
       ro: "Podișul Danyi",
-      en: "Danyi Plateau"
-    },
+      en: "Danyi Plateau",
+image: "/poi-images/danyi-plateau-relief-v2.webp"
+},
     description: {
       de: "Das Danyi-Plateau ist eine hochebene Region in Togo, die für ihr kühles Klima und ihre fruchtbaren Böden bekannt ist.",
       hu: "A Danyi-fennsík egy magaslati régió Togóban, amely hűvös éghajlatáról és termékeny talajáról ismert.",
@@ -96,8 +98,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Akposso-Plateau",
       hu: "Akposso-fennsík",
       ro: "Podișul Akposso",
-      en: "Akposso Plateau"
-    },
+      en: "Akposso Plateau",
+image: "/poi-images/akposso-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Plateau in der Plateaux-Region, das von dichten Wäldern und Kaffeeplantagen geprägt ist.",
       hu: "Kiterjedt fennsík a Plateaux régióban, amelyet sűrű erdők és kávéültetvények jellemeznek.",
@@ -140,8 +143,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Kabyè-Berge",
       hu: "Kabyè-hegyek",
       ro: "Munții Kabyè",
-      en: "Kabyè Mountains"
-    },
+      en: "Kabyè Mountains",
+image: "/poi-images/kabye-mountains-relief-v2.webp"
+},
     description: {
       de: "Die Kabyè-Berge sind berühmt für ihren kunstvollen Terrassenfeldbau, der eine einzigartige Kulturlandschaft geschaffen hat.",
       hu: "A Kabyè-hegyek híresek művészi teraszos földművelésükről, amely egyedülálló kultúrtájat hozott létre.",
@@ -183,8 +187,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Bassar-Berge",
       hu: "Bassar-hegység",
       ro: "Munții Bassar",
-      en: "Bassar Mountains"
-    },
+      en: "Bassar Mountains",
+image: "/poi-images/bassar-mountains-relief-v2.webp"
+},
     description: {
       de: "Diese Gebirgskette im Westen Zentraltogos ist bekannt für ihre Eisenerzvorkommen und historische Eisenverhüttung.",
       hu: "Ez a Közép-Togo nyugati részén található hegylánc vasérclelőhelyeiről és történelmi vaskohászatáról ismert.",
@@ -226,8 +231,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Dayes-Plateau",
       hu: "Dayes-fennsík",
       ro: "Podișul Dayes",
-      en: "Dayes Plateau"
-    },
+      en: "Dayes Plateau",
+image: "/poi-images/dayes-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein fruchtbares Plateau in der Nähe von Kpalimé, das für die Produktion von Tropenfrüchten und Blumen bekannt ist.",
       hu: "Termékeny fennsík Kpalimé közelében, amely trópusi gyümölcsök és virágok termeléséről ismert.",
@@ -270,8 +276,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mono-Ebene",
       hu: "Mono-síkság",
       ro: "Câmpia Mono",
-      en: "Mono Plain"
-    },
+      en: "Mono Plain",
+image: "/poi-images/mono-plain-relief-v2.webp"
+},
     description: {
       de: "Die ausgedehnte Schwemmlandebene des Mono-Flusses im Süden Togos, geprägt von landwirtschaftlicher Nutzung.",
       hu: "A Mono-folyó kiterjedt ártéri síksága Togo déli részén, amelyet mezőgazdasági hasznosítás jellemez.",
@@ -313,8 +320,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Oti-Becken",
       hu: "Oti-medence",
       ro: "Bazinul Oti",
-      en: "Oti Basin"
-    },
+      en: "Oti Basin",
+image: "/poi-images/oti-basin-relief-v2.webp"
+},
     description: {
       de: "Eine weite Beckenlandschaft im Norden Togos, die vom Oti-Fluss durchflossen wird und von Savannen dominiert wird.",
       hu: "Hatalmas medencevidék Togo északi részén, amelyen az Oti-folyó folyik keresztül, és szavannák uralják.",
@@ -356,8 +364,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mount Torogbani",
       hu: "Torogbani-hegy",
       ro: "Muntele Torogbani",
-      en: "Mount Torogbani"
-    },
+      en: "Mount Torogbani",
+image: "/poi-images/mount-torogbani-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berg in der Centrale-Region, der einen beeindruckenden Blick über die umliegende Savanne bietet.",
       hu: "Kiemelkedő hegy a Centrale régióban, amely lenyűgöző kilátást nyújt a környező szavannára.",
@@ -399,8 +408,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mount Sourou",
       hu: "Sourou-hegy",
       ro: "Muntele Sourou",
-      en: "Mount Sourou"
-    },
+      en: "Mount Sourou",
+image: "/poi-images/mount-sourou-relief-v2.webp"
+},
     description: {
       de: "Einer der höheren Gipfel in Zentraltogo, bekannt für seine unberührte Natur und steilen Abhänge.",
       hu: "Közép-Togo egyik magasabb csúcsa, amely érintetlen természetéről és meredek lejtőiről ismert.",
@@ -442,8 +452,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mount Djebobo",
       hu: "Djebobo-hegy",
       ro: "Muntele Djebobo",
-      en: "Mount Djebobo"
-    },
+      en: "Mount Djebobo",
+image: "/poi-images/mount-djebobo-relief-v2.webp"
+},
     description: {
       de: "Ein bedeutender Berg an der Grenze zwischen den Plateaux- und Centrale-Regionen, umgeben von Wald.",
       hu: "Jelentős hegy a Plateaux és a Centrale régiók határán, erdőkkel körülvéve.",
@@ -485,8 +496,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mount Tado",
       hu: "Tado-hegy",
       ro: "Muntele Tado",
-      en: "Mount Tado"
-    },
+      en: "Mount Tado",
+image: "/poi-images/mount-tado-relief-v2.webp"
+},
     description: {
       de: "Ein historisch und geografisch bedeutender Berg im Osten Togos, nahe der Stadt Tado.",
       hu: "Történelmileg és földrajzilag jelentős hegy Kelet-Togóban, Tado városa közelében.",
@@ -528,8 +540,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Kloto-Wald",
       hu: "Kloto-erdő",
       ro: "Pădurea Kloto",
-      en: "Kloto Forest"
-    },
+      en: "Kloto Forest",
+image: "/poi-images/kloto-forest-relief-v2.webp"
+},
     description: {
       de: "Ein dicht bewaldetes Gebiet in der Nähe von Kpalimé, bekannt für seine biologische Vielfalt und das Institut für Botanik.",
       hu: "Sűrűn erdős terület Kpalimé közelében, amely biológiai sokféleségéről és botanikai intézetéről ismert.",
@@ -571,8 +584,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Galangashie-Wald",
       hu: "Galangashie-erdő",
       ro: "Pădurea Galangashie",
-      en: "Galangashie Forest"
-    },
+      en: "Galangashie Forest",
+image: "/poi-images/galangashie-forest-relief-v2.webp"
+},
     description: {
       de: "Ein wichtiges Waldreservat im Norden Togos, das den Übergang zwischen Savanne und Wald bildet.",
       hu: "Fontos erdőrezervátum Togo északi részén, amely átmenetet képez a szavanna és az erdő között.",
@@ -614,8 +628,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mount Afi",
       hu: "Afi-hegy",
       ro: "Muntele Afi",
-      en: "Mount Afi"
-    },
+      en: "Mount Afi",
+image: "/poi-images/mount-afi-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Gipfel in der Nähe des Agou-Massivs, der für seine üppige Vegetation und Nebelwälder bekannt ist.",
       hu: "Jellegzetes csúcs az Agou-masszívum közelében, amely dús növényzetéről és köderdeiről ismert.",
@@ -658,8 +673,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Mount Atilakoutsé",
       hu: "Atilakoutsé-hegy",
       ro: "Muntele Atilakoutsé",
-      en: "Mount Atilakoutsé"
-    },
+      en: "Mount Atilakoutsé",
+image: "/poi-images/mount-atilakoutse-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Punkte in der Plateaux-Region, bekannt für seine steilen Felswände.",
       hu: "A Plateaux régió egyik legmagasabb pontja, amely meredek sziklafalairól ismert.",
@@ -701,8 +717,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Djogbévi-Berg",
       hu: "Djogbévi-hegy",
       ro: "Muntele Djogbévi",
-      en: "Djogbévi Mountain"
-    },
+      en: "Djogbévi Mountain",
+image: "/poi-images/djogbevi-mountain-relief-v2.webp"
+},
     description: {
       de: "Ein Berg im Südwesten Togos, der für seine dichten Bergregenwälder und Schmetterlingsvorkommen bekannt ist.",
       hu: "Hegy Togo délnyugati részén, amely sűrű hegyi esőerdőiről és pillangóiról ismert.",
@@ -744,8 +761,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Notsé-Ebene",
       hu: "Notsé-síkság",
       ro: "Câmpia Notsé",
-      en: "Notsé Plain"
-    },
+      en: "Notsé Plain",
+image: "/poi-images/notse-plain-relief-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutsame Ebene um die Stadt Notsé, die als Wiege des Ewe-Volkes gilt.",
       hu: "Történelmileg jelentős síkság Notsé városa körül, amelyet az ewe nép bölcsőjének tekintenek.",
@@ -787,8 +805,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Atakora-Gebirgskette",
       hu: "Atakora-hegység",
       ro: "Munții Atakora",
-      en: "Atakora Range"
-    },
+      en: "Atakora Range",
+image: "/poi-images/atakora-range-togo-relief-v2.webp"
+},
     description: {
       de: "Die Atakora-Kette ist das Rückgrat Togos und erstreckt sich vom Südwesten bis in den Nordosten des Landes.",
       hu: "Az Atakora-lánc Togo gerince, amely az ország délnyugati részétől az északkeleti részig húzódik.",
@@ -830,8 +849,9 @@ export const poiExtraTogoReliefV2: POI[] = [
       de: "Tado-Hügel",
       hu: "Tado-dombság",
       ro: "Dealurile Tado",
-      en: "Tado Hills"
-    },
+      en: "Tado Hills",
+image: "/poi-images/tado-hills-relief-v2.webp"
+},
     description: {
       de: "Eine sanfte Hügellandschaft im Osten Togos, die eine wichtige geologische Barriere darstellt.",
       hu: "Lankás dombvidék Kelet-Togóban, amely fontos geológiai gátat képez.",

@@ -11,8 +11,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Festung Bahrain",
       hu: "Bahreini erőd",
       ro: "Fortul Bahrain",
-      en: "Bahrain Fort"
-    },
+      en: "Bahrain Fort",
+image: "/poi-images/bahrain-fort-history-v2.webp"
+},
     description: {
       de: "Ehemalige Hauptstadt der Dilmun-Kultur und portugiesische Festung aus dem 16. Jahrhundert.",
       hu: "A Dilmun kultúra egykori fővárosa és a 16. századi portugál erőd.",
@@ -102,8 +103,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Festung Arad",
       hu: "Arád erőd",
       ro: "Fortul Arad",
-      en: "Arad Fort"
-    },
+      en: "Arad Fort",
+image: "/poi-images/arad-fort-history-v2.webp"
+},
     description: {
       de: "Eine im 15. Jahrhundert im typisch arabischen Stil erbaute Festung, die vor der Küste Muharraqs lag.",
       hu: "A 15. századból származó erőd, amely stratégiai védelmi pontot jelentett az ország történelme során. Az építmény a tradicionális bahreini építészet ékes példája.",
@@ -179,8 +181,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Festung Riffa",
       hu: "Riffa erőd",
       ro: "Fortul Riffa",
-      en: "Riffa Fort"
-    },
+      en: "Riffa Fort",
+image: "/poi-images/riffa-fort-history-v2.webp"
+},
     description: {
       de: "Erbaut im 19. Jahrhundert auf einer Klippe, diente sie als strategischer Aussichtspunkt und königliche Residenz.",
       hu: "A 19. században egy sziklán épült erőd, amely stratégiai kilátóként és királyi rezidenciaként szolgált.",
@@ -270,8 +273,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Barbar-Tempel",
       hu: "Barbar templom",
       ro: "Templul Barbar",
-      en: "Barbar Temple"
-    },
+      en: "Barbar Temple",
+image: "/poi-images/barbar-temple-history-v2.webp"
+},
     description: {
       de: "Der Barbar-Tempel ist eine archäologische Stätte aus der Dilmun-Kultur, die aus drei aufeinanderfolgenden Tempelbauten besteht. Er stammt aus dem 3. Jahrtausend v. Chr.",
       hu: "Régészeti komplexum a Dilmun korszakból származó három egymásra épült templommal, amelyet Enki istennek szenteltek.",
@@ -338,8 +342,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Dilmun-Hügelgräber",
       hu: "Dilmun halomsírok",
       ro: "Mormintele Dilmun",
-      en: "Dilmun Burial Mounds"
-    },
+      en: "Dilmun Burial Mounds",
+image: "/poi-images/dilmun-burial-mounds-history-v2.webp"
+},
     description: {
       de: "Eines der größten prähistorischen Gräberfelder der Welt mit Zehntausenden von Hügeln.",
       hu: "A világ egyik legnagyobb őskori temetője több tízezer halomsírral.",
@@ -430,8 +435,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Al-Khamis-Moschee",
       hu: "Al-Khamis mecset",
       ro: "Moscheea Al Khamis",
-      en: "Al Khamis Mosque"
-    },
+      en: "Al Khamis Mosque",
+image: "/poi-images/al-khamis-mosque-history-v2.webp"
+},
     description: {
       de: "Eines der ältesten islamischen Bauwerke in der Region, berühmt für seine Zwillingsminarette.",
       hu: "A régió egyik legrégebbi iszlám építménye, amely ikerminaretjeiről híres.",
@@ -521,8 +527,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Bab Al Bahrain",
       hu: "Bab Al Bahrain",
       ro: "Bab Al Bahrain",
-      en: "Bab Al Bahrain"
-    },
+      en: "Bab Al Bahrain",
+image: "/poi-images/bab-al-bahrain-history-v2.webp"
+},
     description: {
       de: "Das historische Zolltor und der Haupteingang zum traditionellen Manama-Souq, erbaut im Jahr 1949.",
       hu: "A történelmi vámkapu és a hagyományos manámai piac főbejárata, amely 1949-ben épült.",
@@ -612,8 +619,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Beit Al Quran",
       hu: "Beit Al Quran",
       ro: "Beit Al Quran",
-      en: "Beit Al Quran"
-    },
+      en: "Beit Al Quran",
+image: "/poi-images/beit-al-quran-history-v2.webp"
+},
     description: {
       de: "Ein Museumkomplex, der eine der bedeutendsten Sammlungen von historischen Koranen beherbergt.",
       hu: "Egy múzeumkomplexum, amely az egyik legjelentősebb történelmi Korán-gyűjteménynek ad otthont.",
@@ -703,8 +711,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Perlenfischerpfad",
       hu: "Gyöngyhalász ösvény",
       ro: "Calea pescuitorilor de perle",
-      en: "Pearling Path"
-    },
+      en: "Pearling Path",
+image: "/poi-images/muharraq-pearling-path-history-v2.webp"
+},
     description: {
       de: "Ein historischer Weg in Muharraq, der die Geschichte der bahrainischen Perlenindustrie erzählt.",
       hu: "Egy történelmi út Muharrakban, amely a bahreini gyöngyipar történetét meséli el.",
@@ -794,8 +803,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Shaikh-Isa-Haus",
       hu: "Shaikh Isa ház",
       ro: "Casa Shaikh Isa",
-      en: "Shaikh Isa House"
-    },
+      en: "Shaikh Isa House",
+image: "/poi-images/shaikh-isa-house-history-v2.webp"
+},
     description: {
       de: "Ein herausragendes Beispiel der Golfarchitektur und ehemalige Residenz des Herrschers Shaikh Isa.",
       hu: "Az öböl menti építészet kiemelkedő példája és Shaikh Isa uralkodó egykori rezidenciája.",
@@ -885,8 +895,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Siyadi-Haus",
       hu: "Siyadi ház",
       ro: "Casa Siyadi",
-      en: "Siyadi House"
-    },
+      en: "Siyadi House",
+image: "/poi-images/siyadi-house-history-v2.webp"
+},
     description: {
       de: "Das Haus eines wohlhabenden Perlenhändlers, das durch seine prächtigen Stuckarbeiten besticht.",
       hu: "Egy gazdag gyöngykereskedő háza, amely pompás stukkómunkáival nyűgöz le.",
@@ -977,8 +988,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Diraz-Tempel",
       hu: "Diraz templom",
       ro: "Templul Diraz",
-      en: "Diraz Temple"
-    },
+      en: "Diraz Temple",
+image: "/poi-images/diraz-temple-history-v2.webp"
+},
     description: {
       de: "Eine antike Stätte im Nordwesten Bahrains, die von massiven zylindrischen Säulen geprägt ist.",
       hu: "Ősi helyszín Bahrein északnyugati részén, amelyet hatalmas henger alakú oszlopok jellemeznek.",
@@ -1069,8 +1081,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Ain Umm Sujoor",
       hu: "Ain Umm Sujoor",
       ro: "Ain Umm Sujoor",
-      en: "Ain Umm Sujoor"
-    },
+      en: "Ain Umm Sujoor",
+image: "/poi-images/ain-umm-sujoor-history-v2.webp"
+},
     description: {
       de: "Eine alte Quelle im Dorf Diraz, die in der Dilmun-Zeit als heiliger Ort genutzt wurde.",
       hu: "Régi forrás Diráz faluban, amelyet a Dilmun korszakban szent helyként használtak.",
@@ -1160,8 +1173,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Saar-Siedlung",
       hu: "Saar település",
       ro: "Așezarea Saar",
-      en: "Saar Settlement"
-    },
+      en: "Saar Settlement",
+image: "/poi-images/saar-settlement-history-v2.webp"
+},
     description: {
       de: "Eine gut erhaltene frühgeschichtliche Siedlung der Dilmun-Kultur mit klarem Straßenraster.",
       hu: "A Dilmun kultúra jól karbantartott korai történelmi települése világos utcahálózattal.",
@@ -1251,8 +1265,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Abu-Mahir-Festung",
       hu: "Abu Mahir erőd",
       ro: "Fortul Abu Mahir",
-      en: "Abu Mahir Fort"
-    },
+      en: "Abu Mahir Fort",
+image: "/poi-images/abu-mahir-fort-history-v2.webp"
+},
     description: {
       de: "Das Abu-Mahir-Fort ist ein historisches Verteidigungsbauwerk auf der Insel Muharraq, das den Hafen schützte. Es ist heute Teil des Pearling-Path-Wanderwegs.",
       hu: "Történelmi erőd Muharrak szigetén, amely egykor a gyöngyhalászkikötő felé vezető tengeri utat őrizte.",
@@ -1337,8 +1352,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Al-Jasra-Haus",
       hu: "Al-Jasra ház",
       ro: "Casa Al Jasra",
-      en: "Al Jasra House"
-    },
+      en: "Al Jasra House",
+image: "/poi-images/al-jasra-house-history-v2.webp"
+},
     description: {
       de: "Der Geburtsort des ehemaligen Emirs Scheich Isa bin Salman Al Chalifa, ein traditionelles Herrenhaus.",
       hu: "Isa bin Salman Al Khalifa volt emír szülőhelye, egy hagyományos kúria.",
@@ -1428,8 +1444,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Ibrahim-Al-Arrayed-Haus",
       hu: "Ibrahim Al Arrayed ház",
       ro: "Casa Ibrahim Al Arrayed",
-      en: "Ibrahim Al Arrayed House"
-    },
+      en: "Ibrahim Al Arrayed House",
+image: "/poi-images/ibrahim-al-arrayed-house-history-v2.webp"
+},
     description: {
       de: "Das ehemalige Wohnhaus eines der bekanntesten bahrainischen Dichter und ein Zentrum der Literatur.",
       hu: "Az egyik legismertebb bahreini költő egykori lakóháza és az irodalom központja.",
@@ -1519,8 +1536,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Qaisariya-Markt",
       hu: "Qaisariya piac",
       ro: "Piața Qaisariya",
-      en: "Qaisariya Market"
-    },
+      en: "Qaisariya Market",
+image: "/poi-images/qaisariya-market-history-v2.webp"
+},
     description: {
       de: "Einer der ältesten Teile des historischen Marktes von Muharraq, der traditionelle Architektur bewahrt hat.",
       hu: "A muharraki történelmi piac egyik legrégebbi része, amely megőrizte a hagyományos építészetet.",
@@ -1610,8 +1628,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "Kurar-Haus",
       hu: "Kurar ház",
       ro: "Casa Kurar",
-      en: "Kurar House"
-    },
+      en: "Kurar House",
+image: "/poi-images/kurar-house-history-v2.webp"
+},
     description: {
       de: "Ein Museum, das der traditionellen bahrainischen Kurar-Stickerei gewidmet ist, um diese Kunst zu erhalten.",
       hu: "A hagyományos bahreini Kurar hímzésnek szentelt múzeum, amely e művészet megőrzésére jött létre.",
@@ -1702,8 +1721,9 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       de: "A'ali-Hügelgräber",
       hu: "A'ali halomsírok",
       ro: "Mormintele A'ali",
-      en: "A'ali Burial Mounds"
-    },
+      en: "A'ali Burial Mounds",
+image: "/poi-images/a-ali-burial-mounds-history-v2.webp"
+},
     description: {
       de: "Ein riesiges Feld antiker Grabhügel, das sich über mehrere Kilometer im Dorf A'ali erstreckt.",
       hu: "Egy hatalmas, ősi halomsírokból álló mező, amely több kilométeren át húzódik A'ali falujában.",

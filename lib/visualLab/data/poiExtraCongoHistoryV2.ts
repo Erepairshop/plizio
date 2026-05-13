@@ -14,8 +14,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Loango Slave Trade Port"
     ,
     descriptionAdvanced: {
-      en: "The Loango slave port was one of the most significant sites of human suffering during the transatlantic slave trade. From the 17th to the 19th century, this coastal harbor witnessed the forced departure of millions of Africans destined for the Americas. Today, the site serves as a solemn place of remembrance, acknowledging its dark role in history while educating visitors on the legacy of the slave trade. History K8 — colonial impacts and human rights."
-    },
+      en: "The Loango slave port was one of the most significant sites of human suffering during the transatlantic slave trade. From the 17th to the 19th century, this coastal harbor witnessed the forced departure of millions of Africans destined for the Americas. Today, the site serves as a solemn place of remembrance, acknowledging its dark role in history while educating visitors on the legacy of the slave trade. History K8 — colonial impacts and human rights.",
+image: "/poi-images/cg-loango-slave-port-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Major historical site of the slave trade.", " millions of people shipped across the Atlantic.", "UNESCO tentative World Heritage status.", "Reflects a painful era in Central African history.", "Site provides educational context on human rights.", "Features remnants of the historical port structure."]
     }
@@ -44,8 +45,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Ma-Loango Royal Palace"
     ,
     descriptionAdvanced: {
-      en: "The royal palace of the Loango Kingdom in Diosso stands as a testament to the sophisticated political structures of pre-colonial African societies. As the traditional seat of the Mâ Loango (King), it governed a vast coastal region and managed complex diplomatic and trade relationships. Now an important museum, it preserves the cultural heritage and regal history of the Loango Kingdom. History K7 — pre-colonial African kingdoms and governance."
-    },
+      en: "The royal palace of the Loango Kingdom in Diosso stands as a testament to the sophisticated political structures of pre-colonial African societies. As the traditional seat of the Mâ Loango (King), it governed a vast coastal region and managed complex diplomatic and trade relationships. Now an important museum, it preserves the cultural heritage and regal history of the Loango Kingdom. History K7 — pre-colonial African kingdoms and governance.",
+image: "/poi-images/cg-diosso-royal-palace-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Former seat of the Kingdom of Loango.", "Traditional power center of the Mâ Loango.", "Houses a museum of historical regal artifacts.", "Architecturally reflects regional royal styles.", "Key site for preserving Téké/Loango culture.", "Historical importance in regional trade."]
     }
@@ -74,8 +76,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Linzolo Catholic Mission"
     ,
     descriptionAdvanced: {
-      en: "Established in 1883, the Linzolo Mission Station marked a turning point in the religious and social landscape of the region, being the first Catholic mission in the Congo. The arrival of missionaries brought new educational systems and health services, fundamentally altering the traditional community structure. Today, it remains a historical site reflecting the dawn of the colonial and religious era. History K6 — missionary work and early colonial social impact."
-    },
+      en: "Established in 1883, the Linzolo Mission Station marked a turning point in the religious and social landscape of the region, being the first Catholic mission in the Congo. The arrival of missionaries brought new educational systems and health services, fundamentally altering the traditional community structure. Today, it remains a historical site reflecting the dawn of the colonial and religious era. History K6 — missionary work and early colonial social impact.",
+image: "/poi-images/cg-linzolo-mission-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Founded by Catholic missionaries in 1883.", "First Catholic mission in current-day Congo.", "Introduced formal Western education to the area.", "Served as a cornerstone for colonial-era infrastructure.", "Architecturally preserves colonial mission style.", "Historical focal point of religious conversion."]
     }
@@ -104,8 +107,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Basilica of St. Anne of the Congo"
     ,
     descriptionAdvanced: {
-      en: "The Basilica of St. Anne in Brazzaville is a masterpiece of architectural fusion, blending European Catholic design with African artistry and materials. Built during the mid-20th century under the guidance of architect Roger Erell, its iconic green-tiled roof and unique structure make it a landmark of the capital. It stands as a testament to the evolution of religious identity in post-colonial Central Africa. History K7 — cultural syncretism in architecture."
-    },
+      en: "The Basilica of St. Anne in Brazzaville is a masterpiece of architectural fusion, blending European Catholic design with African artistry and materials. Built during the mid-20th century under the guidance of architect Roger Erell, its iconic green-tiled roof and unique structure make it a landmark of the capital. It stands as a testament to the evolution of religious identity in post-colonial Central Africa. History K7 — cultural syncretism in architecture.",
+image: "/poi-images/cg-sainte-anne-basilica-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Constructed by architect Roger Erell.", "Building began during World War II (1943).", "Renowned for distinctive green ceramic roof tiles.", "Architectural synthesis of European and African styles.", "Major landmark of Brazzaville's skyline.", "Important religious center for the national community."]
     }
@@ -134,8 +138,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Pierre Savorgnan de Brazza Mausoleum"
     ,
     descriptionAdvanced: {
-      en: "The Mausoleum of Pierre Savorgnan de Brazza in Brazzaville serves as the final resting place of the city's founder, whose explorations paved the way for French colonial rule. The site reflects the complex historical legacy of colonialism, as his remains were repatriated from Algiers to Brazzaville in 2006. It is a controversial but significant structure that commemorates a central figure of Congolese history. History K8 — colonial legacies and historical memory."
-    },
+      en: "The Mausoleum of Pierre Savorgnan de Brazza in Brazzaville serves as the final resting place of the city's founder, whose explorations paved the way for French colonial rule. The site reflects the complex historical legacy of colonialism, as his remains were repatriated from Algiers to Brazzaville in 2006. It is a controversial but significant structure that commemorates a central figure of Congolese history. History K8 — colonial legacies and historical memory.",
+image: "/poi-images/cg-brazza-mausoleum-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Inaugurated to house the founder's remains.", "Remains moved from Algiers in 2006.", "Architectural monument built on the riverbank.", "Memorial to the founder of Brazzaville.", "Reflects complex national historical debate.", "Central to the debate on colonial memory."]
     }
@@ -164,8 +169,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "M'bé Historic Site"
     ,
     descriptionAdvanced: {
-      en: "M'bé was the historical political heart of the Téké Kingdom, serving as the residence of the Makoko (King) for centuries. The site is imbued with profound traditional significance, representing the historical resistance and sovereign identity of the Téké people against encroaching colonial powers. Efforts to protect it as a site of historical memory continue to emphasize its legacy. History K7 — sovereign African kingdoms and resistance."
-    },
+      en: "M'bé was the historical political heart of the Téké Kingdom, serving as the residence of the Makoko (King) for centuries. The site is imbued with profound traditional significance, representing the historical resistance and sovereign identity of the Téké people against encroaching colonial powers. Efforts to protect it as a site of historical memory continue to emphasize its legacy. History K7 — sovereign African kingdoms and resistance.",
+image: "/poi-images/cg-mbe-historic-site-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Historical capital of the Téké Kingdom.", "Long-standing residence of the Makoko (King).", "Center for traditional Téké governance.", "Significant cultural and symbolic heritage site.", "Central to Téké historical narrative.", "Candidate site for UNESCO protection."]
     }
@@ -195,8 +201,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Case de Gaulle"
     ,
     descriptionAdvanced: {
-      en: "The Case de Gaulle in Brazzaville provided residence to General Charles de Gaulle when he established the city as the capital of 'Free France' during World War II. This period saw Brazzaville become a crucial headquarters for the Allied effort in Africa, lending it immense historical importance on the global stage. The building remains a preserved structure that narrates the city's unique role in global warfare. History K8 — WWII and the capital of Free France."
-    },
+      en: "The Case de Gaulle in Brazzaville provided residence to General Charles de Gaulle when he established the city as the capital of 'Free France' during World War II. This period saw Brazzaville become a crucial headquarters for the Allied effort in Africa, lending it immense historical importance on the global stage. The building remains a preserved structure that narrates the city's unique role in global warfare. History K8 — WWII and the capital of Free France.",
+image: "/poi-images/cg-case-de-gaulle-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Headquarters of Free France during WWII.", "Historical residence of Charles de Gaulle.", "Brazzaville declared capital of Free France in 1940.", "Key site in global Allied military history.", "Symbolizes Congo's role in the fight against fascism.", "Well-preserved colonial architectural site."]
     }
@@ -225,8 +232,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Sacré-Cœur Cathedral of Brazzaville"
     ,
     descriptionAdvanced: {
-      en: "The Sacré-Cœur Cathedral in Brazzaville is recognized as the oldest cathedral in Central Africa, dating back to the late 19th century. Its construction marked a significant chapter in the introduction of religious institutions and colonial administrative structures into the region. It stands as a surviving monument of early colonial architecture and development in the Congo River valley. History K7 — religious history and colonial architecture."
-    },
+      en: "The Sacré-Cœur Cathedral in Brazzaville is recognized as the oldest cathedral in Central Africa, dating back to the late 19th century. Its construction marked a significant chapter in the introduction of religious institutions and colonial administrative structures into the region. It stands as a surviving monument of early colonial architecture and development in the Congo River valley. History K7 — religious history and colonial architecture.",
+image: "/poi-images/cg-sacre-coeur-cathedral-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Oldest cathedral in the Central African region.", "Construction initiated in 1892.", "Prime example of early colonial architecture.", "Focal point for early Catholic missions.", "Survived over a century of regional changes.", "Essential religious historical monument."]
     }
@@ -255,8 +263,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Pointe-Noire Lighthouse"
     ,
     descriptionAdvanced: {
-      en: "The lighthouse of Pointe-Noire has been a beacon of safety for maritime traffic navigating the treacherous Atlantic waters since the development of the city as a major port. As one of the earliest modern structures built for the city's maritime safety, it has guided countless vessels into the harbor, serving as a symbol of the port's enduring economic importance. Sachkunde K6 — maritime navigation and port safety."
-    },
+      en: "The lighthouse of Pointe-Noire has been a beacon of safety for maritime traffic navigating the treacherous Atlantic waters since the development of the city as a major port. As one of the earliest modern structures built for the city's maritime safety, it has guided countless vessels into the harbor, serving as a symbol of the port's enduring economic importance. Sachkunde K6 — maritime navigation and port safety.",
+image: "/poi-images/cg-pointe-noire-lighthouse-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Historical beacon for Atlantic shipping.", "Key landmark for the port of Pointe-Noire.", "Essential maritime navigation aid since port opening.", "Symbolizes the city's coastal maritime heritage.", "Panoramic landmark of the coastal region.", "Represents early twentieth-century engineering."]
     }
@@ -285,8 +294,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Old Brazzaville Railway Station"
     ,
     descriptionAdvanced: {
-      en: "The old train station of Brazzaville was the prestigious terminus of the Congo-Ocean Railway, an ambitious and costly construction project completed in the early 20th century. The station signifies the era of industrial expansion and resource extraction, serving as the primary gateway for goods traveling to the coast. It remains a historical structure that chronicles the development of internal logistics in Congo. Geography K8 — railway infrastructure and industrial history."
-    },
+      en: "The old train station of Brazzaville was the prestigious terminus of the Congo-Ocean Railway, an ambitious and costly construction project completed in the early 20th century. The station signifies the era of industrial expansion and resource extraction, serving as the primary gateway for goods traveling to the coast. It remains a historical structure that chronicles the development of internal logistics in Congo. Geography K8 — railway infrastructure and industrial history.",
+image: "/poi-images/cg-brazzaville-train-station-history-v2.webp"
+},
     factsAdvanced: {
       en: ["Terminus of the historic Congo-Ocean Railway.", "Symbol of 20th-century industrial development.", "Focal point for early regional resource trade.", "Architectural heritage of the colonial era.", "Central node for national transport networks.", "Preserves the history of the CFCO line."]
     }
@@ -313,8 +323,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Alte Mission von Boundji",
       hu: "Boundji régi missziója",
       ro: "Vechea misiune din Boundji",
-      en: "Old Boundji Mission"
-    },
+      en: "Old Boundji Mission",
+image: "/poi-images/cg-boundji-old-mission-history-v2.webp"
+},
     description: {
       de: "Die alte Mission von Boundji erinnert an die frühe kirchliche Präsenz im nördlichen Inland. Sie ist ein stilles Zeugnis der Missionsgeschichte in der Cuvette.",
       hu: "A Boundji-i r?gi misszi? a korai kereszt?ny jelenl?t egyik eml?ke ?szak-Kong?ban. Az ?p?let a vall?si ?s oktat?si terjeszked?s korszak?t id?zi.",
@@ -337,8 +348,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Felsenhöhlen von Lékana",
       hu: "Lékanai sziklabarlangok",
       ro: "Peșterile rupestre din Lékana",
-      en: "Lékana Rock Caves"
-    },
+      en: "Lékana Rock Caves",
+image: "/poi-images/cg-lekana-caves-history-v2.webp"
+},
     description: {
       de: "Antike Felsenhöhlen in der Plateaux-Region, die Zeugnisse früherer Besiedlung und Riten beherbergen.",
       hu: "A Lekana-barlangok term?szetes barlangrendszert jelentenek a Plateaux t?rs?gben. A k?pz?dm?ny a helyi k?zetek ?s er?zi? nyomait ?rzi.",
@@ -360,8 +372,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Marien-Ngouabi-Mausoleum",
       hu: "Marien Ngouabi mauzóleum",
       ro: "Mausoleul Marien Ngouabi",
-      en: "Marien Ngouabi Mausoleum"
-    },
+      en: "Marien Ngouabi Mausoleum",
+image: "/poi-images/cg-ngouabi-mausoleum-history-v2.webp"
+},
     description: {
       de: "Das Mausoleum für den ermordeten Präsidenten Marien Ngouabi, eine wichtige nationale Gedenkstätte.",
       hu: "A Ngouabi-mauz?leum Marien Ngouabi eln?k eml?khelye Brazzaville-ben. A hely a modern kong?i t?rt?nelem egyik fontos politikai pontja.",
@@ -383,8 +396,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Historisches Rathaus von Brazzaville",
       hu: "Brazzaville történelmi városházája",
       ro: "Primăria istorică din Brazzaville",
-      en: "Historic Brazzaville City Hall"
-    },
+      en: "Historic Brazzaville City Hall",
+image: "/poi-images/cg-brazzaville-city-hall-history-v2.webp"
+},
     description: {
       de: "Ein bedeutendes koloniales Verwaltungsgebäude im Herzen der Stadt, das noch heute genutzt wird.",
       hu: "A Brazzaville-i v?rosh?za a f?v?ros ?nkorm?nyzati k?zpontja. Az ?p?let a v?rosi igazgat?s mindennapi m?k?d?s?t szolg?lja.",
@@ -406,8 +420,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Poste de l'Alima",
       hu: "Alima-állomás",
       ro: "Postul Alima",
-      en: "Poste de l'Alima"
-    },
+      en: "Poste de l'Alima",
+image: "/poi-images/cg-poste-alima-history-v2.webp"
+},
     description: {
       de: "Der alte Posten an der Alima war ein früher Stützpunkt am Fluss. Er verweist auf die Kolonialgeschichte der Wasserwege im Zentrum des Landes.",
       hu: "Történelmi állomás az Alima-folyó partján, amelyet Kongó korai felfedezése során alapítottak.",
@@ -429,8 +444,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Historisches Zentrum von Ngabé",
       hu: "Ngabé történelmi központja",
       ro: "Centrul istoric din Ngabé",
-      en: "Ngabé Historic Center"
-    },
+      en: "Ngabé Historic Center",
+image: "/poi-images/cg-ngabe-historic-site-history-v2.webp"
+},
     description: {
       de: "Ngabé ist ein historischer Ort am Kongo-Fluss mit alten Herrschafts- und Handelsbezügen. Die Stätte erinnert an die frühe regionale Machtgeschichte.",
       hu: "Ngab? t?rt?nelmi helysz?ne a T?k? m?lt egyik eml?ke a Kong? k?z?ps? r?sz?n. A telep?l?s a hagyom?nyos kir?lyi ?s region?lis eml?kezethez kapcsol?dik.",
@@ -453,8 +469,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Anhaltiner Tribunal von Brazzaville",
       hu: "Brazzaville régi bírósági épülete",
       ro: "Vechiul tribunal din Brazzaville",
-      en: "Old Court of Brazzaville"
-    },
+      en: "Old Court of Brazzaville",
+image: "/poi-images/cg-old-court-brazzaville-history-v2.webp"
+},
     description: {
       de: "Das alte Gerichtshaus in Brazzaville stammt aus der Kolonialzeit. Es zeigt die frühe Verwaltungsarchitektur der Hauptstadt.",
       hu: "A város régi bírósági épülete, a gyarmati igazságügyi építészet klasszikus példája.",
@@ -477,8 +494,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Historischer Kern von Fort-Rousset",
       hu: "Fort-Rousset történelmi magja",
       ro: "Nucleul istoric din Fort-Rousset",
-      en: "Historic Fort-Rousset Core"
-    },
+      en: "Historic Fort-Rousset Core",
+image: "/poi-images/cg-fort-rousset-old-fort-history-v2.webp"
+},
     description: {
       de: "Der alte Fortkern von Fort-Rousset erinnert an die frühe militärische Präsenz im Zentrum des Landes. Der Ort ist ein wichtiges Zeugnis der kolonialen Grenzsicherung.",
       hu: "A r?gi Fort Rousset egy gyarmati id?szakb?l sz?rmaz? er?dhely a f?v?ros t?rs?g?ben. A katonai ?s igazgat?si m?lt eml?k?t ?rzi.",
@@ -500,8 +518,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Missionsstation von Kindamba",
       hu: "Kindambai missziós állomás",
       ro: "Stația de misiune din Kindamba",
-      en: "Kindamba Mission Station"
-    },
+      en: "Kindamba Mission Station",
+image: "/poi-images/cg-kindamba-old-mission-history-v2.webp"
+},
     description: {
       de: "Die alte Mission von Kindamba gehört zu den frühen christlichen Stützpunkten im Pool. Sie ist ein Zeugnis der Missionsgeschichte im Süden.",
       hu: "A Kindamba-i r?gi misszi? a vall?si jelenl?t korai nyoma a Pool t?rs?gben. A hely a r?gi? misszi?s ?s oktat?si m?ltj?t id?zi.",
@@ -523,8 +542,9 @@ export const poiExtraCongoHistoryV2: POI[] = [
       de: "Brücke des 15. August 1960",
       hu: "1960. augusztus 15. híd",
       ro: "Podul 15 August 1960",
-      en: "Independence Bridge"
-    },
+      en: "Independence Bridge",
+image: "/poi-images/cg-independence-bridge-history-v2.webp"
+},
     description: {
       de: "Die Brücke des 15. August 1960 in Brazzaville erinnert an den Unabhängigkeitstag des Landes. Sie verbindet wichtige Teile der Hauptstadt.",
       hu: "A F?ggetlens?g h?dja Brazzaville egyik jelk?pes k?z?ti ?tkel?je. A n?v a kong?i ?llamis?g ?s a f?v?ros moderniz?ci?j?nak korszak?ra utal.",

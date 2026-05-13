@@ -6,7 +6,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "mountain",
     parent: "AE-RK",
     coords: [56.14, 25.93],
-    name: { de: "Dschabal Dschais", hu: "Dzsebel Dzsaisz", ro: "Jebel Jais", en: "Jebel Jais" },
+    name: { de: "Dschabal Dschais", hu: "Dzsebel Dzsaisz", ro: "Jebel Jais", en: "Jebel Jais",
+image: "/poi-images/jebel-jais-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg der Vereinigten Arabischen Emirate bietet spektakuläre Ausblicke und die längste Zipline der Welt.",
       hu: "Az Egyesült Arab Emírségek legmagasabb hegye látványos kilátást és a világ leghosszabb drótkötélpályáját kínálja.",
@@ -40,7 +42,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "mountain",
     parent: "AE-AZ",
     coords: [55.77, 24.06],
-    name: { de: "Dschabal Hafit", hu: "Dzsebel Hafít", ro: "Jebel Hafeet", en: "Jebel Hafeet" },
+    name: { de: "Dschabal Hafit", hu: "Dzsebel Hafít", ro: "Jebel Hafeet", en: "Jebel Hafeet",
+image: "/poi-images/jebel-hafeet-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Kalksteinberg an der Grenze zu Oman, bekannt für seine kurvenreiche Panoramastraße und heißen Quellen an seinem Fuß.",
       hu: "Kiemelkedő mészkőhegy az ománi határon, amely híres kanyargós panorámaútjáról és a lábánál fakadó hőforrásokról.",
@@ -74,7 +78,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-FU",
     coords: [56.26, 25.39],
-    name: { de: "Wadi Wurayah Nationalpark", hu: "Vadi Vuraja Nemzeti Park", ro: "Parcul Național Wadi Wurayah", en: "Wadi Wurayah National Park" },
+    name: { de: "Wadi Wurayah Nationalpark", hu: "Vadi Vuraja Nemzeti Park", ro: "Parcul Național Wadi Wurayah", en: "Wadi Wurayah National Park",
+image: "/poi-images/wadi-wurayah-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein geschütztes Gebirgstal in Fujairah, das für seine seltenen Süßwasserquellen, Wasserfälle und vielfältige Tierwelt bekannt ist.",
       hu: "Védett hegyi völgy Fudzsejrában, amely ritka édesvizű forrásairól, vízeséseiről és változatos élővilágáról ismert.",
@@ -109,7 +115,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-AZ",
     coords: [54.43, 24.44],
-    name: { de: "Mangroven-Nationalpark", hu: "Mangrove Nemzeti Park", ro: "Parcul Național al Mangrovelor", en: "Mangrove National Park" },
+    name: { de: "Mangroven-Nationalpark", hu: "Mangrove Nemzeti Park", ro: "Parcul Național al Mangrovelor", en: "Mangrove National Park",
+image: "/poi-images/mangrove-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Schutzgebiet in Abu Dhabi, das einen wichtigen Lebensraum für Vögel, Fische und Schildkröten inmitten der städtischen Umgebung bietet.",
       hu: "Kiterjedt védett terület Abu-Dzabiban, amely fontos élőhelyet biztosít madarak, halak és teknősök számára a városi környezet közepén.",
@@ -143,7 +151,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "lake",
     parent: "AE-DU",
     coords: [56.11, 24.78],
-    name: { de: "Hatta-Stausee", hu: "Hatta-gát tava", ro: "Lacul Hatta", en: "Hatta Dam Lake" },
+    name: { de: "Hatta-Stausee", hu: "Hatta-gát tava", ro: "Lacul Hatta", en: "Hatta Dam Lake",
+image: "/poi-images/hatta-dam-nature-v2.webp"
+},
     description: {
       de: "Ein ruhiger Stausee, umgeben von den schroffen Gipfeln des Hadschar-Gebirges, ideal für Wassersport und Naturbeobachtungen.",
       hu: "Csendes víztározó a Hadzsar-hegység zord csúcsai között, amely ideális vízi sportokhoz és természetmegfigyeléshez.",
@@ -177,7 +187,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-DU",
     coords: [55.65, 24.81],
-    name: { de: "Dubai Wüstenschutzgebiet", hu: "Dubaji Sivatagi Természetvédelmi Terület", ro: "Rezervația de Conservare a Deșertului Dubai", en: "Dubai Desert Conservation Reserve" },
+    name: { de: "Dubai Wüstenschutzgebiet", hu: "Dubaji Sivatagi Természetvédelmi Terület", ro: "Rezervația de Conservare a Deșertului Dubai", en: "Dubai Desert Conservation Reserve",
+image: "/poi-images/dubai-desert-conservation-reserve-nature-v2.webp"
+},
     description: {
       de: "Das größte Naturschutzgebiet in Dubai schützt die einzigartige Wüstenlandschaft und fördert die Wiederansiedlung einheimischer Tierarten.",
       hu: "Dubaj legnagyobb természetvédelmi területe az egyedülálló sivatagi tájat védi, és elősegíti az őshonos állatfajok visszatelepítését.",
@@ -211,7 +223,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-AZ",
     coords: [54.60, 24.26],
-    name: { de: "Al Wathba Feuchtgebiet", hu: "Al Vathba Vizesélőhely-rezervátum", ro: "Rezervația de Zone Umede Al Wathba", en: "Al Wathba Wetland Reserve" },
+    name: { de: "Al Wathba Feuchtgebiet", hu: "Al Vathba Vizesélőhely-rezervátum", ro: "Rezervația de Zone Umede Al Wathba", en: "Al Wathba Wetland Reserve",
+image: "/poi-images/al-wathba-wetland-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein künstlich geschaffenes Feuchtgebiet, das sich zu einem wichtigen Zufluchtsort für Zugvögel und einer vielfältigen Flora entwickelt hat.",
       hu: "Mesterségesen létrehozott vizesélőhely, amely a vándormadarak és a változatos növényvilág fontos menedékévé fejlődött.",
@@ -245,7 +259,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-DU",
     coords: [55.31, 25.19],
-    name: { de: "Ras Al Khor Wildschutzgebiet", hu: "Rász al-Kór Vadvédelmi Terület", ro: "Sanctuarul Faunei Sălbatice Ras Al Khor", en: "Ras Al Khor Wildlife Sanctuary" },
+    name: { de: "Ras Al Khor Wildschutzgebiet", hu: "Rász al-Kór Vadvédelmi Terület", ro: "Sanctuarul Faunei Sălbatice Ras Al Khor", en: "Ras Al Khor Wildlife Sanctuary",
+image: "/poi-images/ras-al-khor-wildlife-sanctuary-nature-v2.webp"
+},
     description: {
       de: "Ein geschütztes Feuchtgebiet mitten in Dubai, in dem Tausende von Zugvögeln überwintern und das für seine dichten Mangrovenwälder bekannt ist.",
       hu: "Védett vizesélőhely Dubaj szívében, ahol több ezer vándormadár telel, és amely sűrű mangroveerdeiről ismert.",
@@ -279,7 +295,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "forest",
     parent: "AE-AZ",
     coords: [54.48, 24.52],
-    name: { de: "Jubail Mangrovenpark", hu: "Jubail Mangrove Park", ro: "Parcul de Mangrove Jubail", en: "Jubail Mangrove Park" },
+    name: { de: "Jubail Mangrovenpark", hu: "Jubail Mangrove Park", ro: "Parcul de Mangrove Jubail", en: "Jubail Mangrove Park",
+image: "/poi-images/jubail-mangrove-park-nature-v2.webp"
+},
     description: {
       de: "Ein wunderschöner Mangrovenwald mit Holzstegen, der Besuchern ermöglicht, die empfindliche Meeresökologie von Abu Dhabi hautnah zu erleben.",
       hu: "Gyönyörű mangroveerdő fapallókkal, amely lehetővé teszi a látogatók számára, hogy testközelből tapasztalják meg Abu-Dzabi érzékeny tengeri ökológiáját.",
@@ -313,7 +331,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-DU",
     coords: [55.33, 24.83],
-    name: { de: "Al Marmoom Wüstenschutzgebiet", hu: "Al Marmúm Sivatagi Rezervátum", ro: "Rezervația Deșertului Al Marmoom", en: "Al Marmoom Desert Conservation Reserve" },
+    name: { de: "Al Marmoom Wüstenschutzgebiet", hu: "Al Marmúm Sivatagi Rezervátum", ro: "Rezervația Deșertului Al Marmoom", en: "Al Marmoom Desert Conservation Reserve",
+image: "/poi-images/al-marmoom-desert-conservation-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein ungeschütztes, aber verwaltetes Wüstengebiet, das mehrere künstliche Seen umfasst und einen wichtigen Lebensraum für Wüstentiere bietet.",
       hu: "Nem bekerített, de felügyelt sivatagi terület, amely több mesterséges tavat foglal magában, és fontos élőhelyet biztosít a sivatagi állatoknak.",
@@ -347,7 +367,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "mountain",
     parent: "AE-SH",
     coords: [55.82, 25.11],
-    name: { de: "Dschabal Faya", hu: "Dzsebel Faja", ro: "Jebel Faya", en: "Jebel Faya" },
+    name: { de: "Dschabal Faya", hu: "Dzsebel Faja", ro: "Jebel Faya", en: "Jebel Faya",
+image: "/poi-images/jebel-faya-nature-v2.webp"
+},
     description: {
       de: "Ein zerklüfteter Kalksteinberg in der Wüste von Sharjah, der sowohl geologisch als auch archäologisch von großer Bedeutung ist.",
       hu: "Zord mészkőhegy Sardzsa sivatagában, amely geológiai és régészeti szempontból egyaránt nagy jelentőséggel bír.",
@@ -382,7 +404,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-SH",
     coords: [56.36, 25.01],
-    name: { de: "Kalba-Schutzgebiet", hu: "Kalba Természetvédelmi Terület", ro: "Rezervația Kalba", en: "Kalba Conservation Reserve" },
+    name: { de: "Kalba-Schutzgebiet", hu: "Kalba Természetvédelmi Terület", ro: "Rezervația Kalba", en: "Kalba Conservation Reserve",
+image: "/poi-images/kalba-conservation-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein vielseitiges Schutzgebiet an der Ostküste, das Mangroven, Sümpfe und Gebirgslandschaften umfasst und seltenen Vögeln Schutz bietet.",
       hu: "Sokoldalú természetvédelmi terület a keleti parton, amely mangrovékat, mocsarakat és hegyvidéki tájakat foglal magában, és ritka madaraknak nyújt menedéket.",
@@ -417,7 +441,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "river",
     parent: "AE-RK",
     coords: [56.03, 25.10],
-    name: { de: "Wadi Shawka", hu: "Vadi Savka", ro: "Wadi Shawka", en: "Wadi Shawka" },
+    name: { de: "Wadi Shawka", hu: "Vadi Savka", ro: "Wadi Shawka", en: "Wadi Shawka",
+image: "/poi-images/wadi-shawka-nature-v2.webp"
+},
     description: {
       de: "Ein beliebtes Outdoor-Ziel in Ras Al Khaimah, das für seine natürlichen Pools, Dämme und malerischen Wanderwege bekannt ist.",
       hu: "Népszerű szabadtéri úti cél Rász el-Haimában, amely természetes medencéiről, gátjairól és festői túraútvonalairól ismert.",
@@ -451,7 +477,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "lake",
     parent: "AE-DU",
     coords: [55.39, 24.83],
-    name: { de: "Love Lake Dubai", hu: "Szerelem-tó", ro: "Lacul Iubirii Dubai", en: "Love Lake Dubai" },
+    name: { de: "Love Lake Dubai", hu: "Szerelem-tó", ro: "Lacul Iubirii Dubai", en: "Love Lake Dubai",
+image: "/poi-images/love-lake-dubai-nature-v2.webp"
+},
     description: {
       de: "Zwei miteinander verbundene, herzförmige künstliche Seen mitten in der Wüste, umgeben von Wüstengräsern und Ghaf-Bäumen.",
       hu: "Két egymáshoz kapcsolódó, szív alakú mesterséges tó a sivatag közepén, sivatagi füvekkel és Ghaf-fákkal körülvéve.",
@@ -485,7 +513,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-AJ",
     coords: [55.46, 25.43],
-    name: { de: "Al Zorah Naturschutzgebiet", hu: "Al Zorah Természetvédelmi Terület", ro: "Rezervația Naturală Al Zorah", en: "Al Zorah Nature Reserve" },
+    name: { de: "Al Zorah Naturschutzgebiet", hu: "Al Zorah Természetvédelmi Terület", ro: "Rezervația Naturală Al Zorah", en: "Al Zorah Nature Reserve",
+image: "/poi-images/al-zorah-nature-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein unberührtes Ökosystem mit Mangroven und Lagunen in Ajman, das einen friedlichen Rückzugsort für Naturliebhaber bietet.",
       hu: "Érintetlen ökoszisztéma mangrovékkal és lagúnákkal Adzsmánban, amely békés menedéket nyújt a természet szerelmeseinek.",
@@ -520,7 +550,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-SH",
     coords: [55.47, 25.36],
-    name: { de: "Wasit Feuchtgebietszentrum", hu: "Vászit Vizesélőhely", ro: "Centrul de Zone Umede Wasit", en: "Wasit Wetland Centre" },
+    name: { de: "Wasit Feuchtgebietszentrum", hu: "Vászit Vizesélőhely", ro: "Centrul de Zone Umede Wasit", en: "Wasit Wetland Centre",
+image: "/poi-images/wasit-wetland-centre-nature-v2.webp"
+},
     description: {
       de: "Ein preisgekröntes Naturschutzgebiet in Sharjah, das eine ehemalige Mülldeponie in ein blühendes Feuchtgebiet verwandelte.",
       hu: "Díjnyertes természetvédelmi terület Sardzsában, amely egykori szeméttelepből virágzó vizesélőhellyé alakult.",
@@ -554,7 +586,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "river",
     parent: "AE-RK",
     coords: [56.12, 25.80],
-    name: { de: "Wadi Bih", hu: "Vadi Bih", ro: "Wadi Bih", en: "Wadi Bih" },
+    name: { de: "Wadi Bih", hu: "Vadi Bih", ro: "Wadi Bih", en: "Wadi Bih",
+image: "/poi-images/wadi-bih-nature-v2.webp"
+},
     description: {
       de: "Bekannt als der Grand Canyon der VAE, ist diese tiefe Schlucht ein atemberaubendes Naturwunder mit spektakulären Felsformationen.",
       hu: "Az Egyesült Arab Emírségek Grand Canyonjaként is ismert mély szurdok lélegzetelállító természeti csoda, látványos sziklaképződményekkel.",
@@ -588,7 +622,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "mountain",
     parent: "AE-RK",
     coords: [56.13, 25.64],
-    name: { de: "Dschabal Yibir", hu: "Dzsebel Jibir", ro: "Jebel Yibir", en: "Jebel Yibir" },
+    name: { de: "Dschabal Yibir", hu: "Dzsebel Jibir", ro: "Jebel Yibir", en: "Jebel Yibir",
+image: "/poi-images/jebel-yibir-nature-v2.webp"
+},
     description: {
       de: "Einer der höchsten Gipfel der VAE, der sich durch unberührte, raue Landschaften und eine militärische Präsenz in der Nähe des Gipfels auszeichnet.",
       hu: "Az Egyesült Arab Emírségek egyik legmagasabb csúcsa, amelyet érintetlen, zord tájak és a csúcs közelében lévő katonai jelenlét jellemez.",
@@ -622,7 +658,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "lake",
     parent: "AE-AZ",
     coords: [54.55, 24.15],
-    name: { de: "Al Wathba Salzsee", hu: "Al Vathba Sóstó", ro: "Lacul Sărat Al Wathba", en: "Al Wathba Salt Lake" },
+    name: { de: "Al Wathba Salzsee", hu: "Al Vathba Sóstó", ro: "Lacul Sărat Al Wathba", en: "Al Wathba Salt Lake",
+image: "/poi-images/al-wathba-salt-lake-nature-v2.webp"
+},
     description: {
       de: "Ein faszinierender smaragdgrüner künstlicher See, der von markanten weißen Salzformationen umgeben ist, die wie Eisblöcke aussehen.",
       hu: "Lenyűgöző smaragdzöld mesterséges tó, amelyet jellegzetes fehér sóképződmények vesznek körül, amik jégtömböknek tűnnek.",
@@ -656,7 +694,9 @@ export const poiExtraUaeNatureV2: POI[] = [
     type: "national-park",
     parent: "AE-DU",
     coords: [55.44, 25.21],
-    name: { de: "Mushrif-Nationalpark", hu: "Musrif Nemzeti Park", ro: "Parcul Național Mushrif", en: "Mushrif National Park" },
+    name: { de: "Mushrif-Nationalpark", hu: "Musrif Nemzeti Park", ro: "Parcul Național Mushrif", en: "Mushrif National Park",
+image: "/poi-images/mushrif-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein historischer Familienpark in Dubai, der in einen ausgedehnten Naturpark mit natürlichen Ghaf-Wäldern übergeht.",
       hu: "Történelmi családi park Dubajban, amely egy hatalmas természeti parkká alakul át természetes Ghaf-erdőkkel.",

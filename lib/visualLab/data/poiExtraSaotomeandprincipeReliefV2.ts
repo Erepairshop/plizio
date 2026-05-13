@@ -10,8 +10,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico Cabumbé",
       hu: "Pico Cabumbé",
       ro: "Pico Cabumbé",
-      en: "Pico Cabumbé"
-    },
+      en: "Pico Cabumbé",
+image: "/poi-images/pico-cabumbe-relief-v2.webp"
+},
     description: {
       de: "Der Pico Cabumbé ist eine markante Erhebung im Süden von São Tomé, die aus dem dichten Regenwald hervorragt. Die steilen Hänge sind oft in Nebel gehüllt, was dem Berg eine mystische Atmosphäre verleiht. Geologisch gesehen ist er Teil des vulkanischen Rückgrats der Insel und bietet Lebensraum für seltene Vogelarten.",
       hu: "A Pico Cabumbé egy jellegzetes magaslat São Tomé déli részén, amely kiemelkedik a sűrű esőerdőből. Meredek lejtőit gyakran köd borítja, ami misztikus hangulatot kölcsönöz a hegynek. Földtanilag a sziget vulkanikus gerincének része, és ritka madárfajoknak nyújt élőhelyet.",
@@ -62,8 +63,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico de Ana Chaves",
       hu: "Pico de Ana Chaves",
       ro: "Pico de Ana Chaves",
-      en: "Pico de Ana Chaves"
-    },
+      en: "Pico de Ana Chaves",
+image: "/poi-images/pico-ana-chaves-relief-v2.webp"
+},
     description: {
       de: "Dieser Berg im Zentrum der Insel São Tomé ist nach der legendären Ana Chaves benannt. Die Region ist bekannt für ihre üppige Vegetation und die tiefen Täler, die den Gipfel umgeben. Er ist ein wichtiger Teil des hydrologischen Systems der Insel, da viele Flüsse in seinen Hängen entspringen.",
       hu: "Ez a hegy São Tomé szigetének közepén a legendás Ana Chavesről kapta a nevét. A régió buja növényzetéről és a csúcsot körülvevő mély völgyekről ismert. Fontos része a sziget hidrológiai rendszerének, mivel sok folyó ered a lejtőin.",
@@ -114,8 +116,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico do Fogo",
       hu: "Pico do Fogo",
       ro: "Pico do Fogo",
-      en: "Pico do Fogo"
-    },
+      en: "Pico do Fogo",
+image: "/poi-images/pico-do-fogo-relief-v2.webp"
+},
     description: {
       de: "Trotz seines Namens ist der Pico do Fogo ein erloschener Vulkankegel, der heute dicht mit tropischem Wald bewachsen ist. Er zeugt von der feurigen geologischen Vergangenheit São Tomés. Die Wanderpfade zum Gipfel führen durch unberührte Natur, in der die Geräusche des Dschungels allgegenwärtig sind.",
       hu: "Neve ellenére a Pico do Fogo egy kialudt vulkáni kúp, amelyet ma sűrű trópusi erdő borít. São Tomé tüzes geológiai múltjáról tanúskodik. A csúcsra vezető túraútvonalak érintetlen természeten vezetnek keresztül, ahol a dzsungel hangjai mindenütt jelen vannak.",
@@ -166,8 +169,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico Maria Amélia",
       hu: "Pico Maria Amélia",
       ro: "Pico Maria Amélia",
-      en: "Pico Maria Amélia"
-    },
+      en: "Pico Maria Amélia",
+image: "/poi-images/pico-maria-amelia-relief-v2.webp"
+},
     description: {
       de: "Der Pico Maria Amélia ist ein weiterer imposanter Gipfel im südlichen Hochland von São Tomé. Er ist bekannt für seine steilen Felswände und die reiche Artenvielfalt in seinen Wäldern. Die Region um den Berg ist oft von Passatwolken eingehüllt, die für konstante Feuchtigkeit sorgen.",
       hu: "A Pico Maria Amélia egy másik impozáns csúcs São Tomé déli felföldjén. Meredek sziklafalairól és erdőinek gazdag élővilágáról ismert. A hegy környékét gyakran borítják passzátszelek által hozott felhők, amelyek folyamatos nedvességet biztosítanak.",
@@ -218,8 +222,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico Bastião",
       hu: "Pico Bastião",
       ro: "Pico Bastião",
-      en: "Pico Bastião"
-    },
+      en: "Pico Bastião",
+image: "/poi-images/pico-bastiao-relief-v2.webp"
+},
     description: {
       de: "Der Pico Bastião ist eine markante geologische Formation auf der Insel Príncipe. Er ragt steil aus der umgebenden Ebene empor und ist ein Überrest der intensiven vulkanischen Aktivität, die die Insel geformt hat. Der Berg ist fast vollständig von dichtem Urwald bedeckt.",
       hu: "A Pico Bastião egy jellegzetes geológiai képződmény Príncipe szigetén. Meredeken emelkedik ki a környező síkságból, és a szigetet formáló intenzív vulkáni tevékenység maradványa. A hegyet szinte teljesen sűrű őserdő borítja.",
@@ -270,8 +275,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico Carvalhal",
       hu: "Pico Carvalhal",
       ro: "Pico Carvalhal",
-      en: "Pico Carvalhal"
-    },
+      en: "Pico Carvalhal",
+image: "/poi-images/pico-carvalhal-relief-v2.webp"
+},
     description: {
       de: "Im Herzen des Distrikts Mé-Zóchi gelegen, ist der Pico Carvalhal ein Symbol für die gebirgige Landschaft Zentral-São Tomés. Seine Hänge werden teilweise für den Kaffeeanbau genutzt, während die höheren Lagen naturbelassen bleiben. Der Berg ist ein wichtiger Wasserspeicher für die tiefer gelegenen Regionen.",
       hu: "A Mé-Zóchi körzet szívében található Pico Carvalhal Közép-São Tomé hegyvidéki tájának szimbóluma. Lejtőit részben kávétermesztésre használják, míg a magasabb részek érintetlenek maradnak. A hegy fontos víztározó az alacsonyabban fekvő régiók számára.",
@@ -322,8 +328,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico Vinte e Cinco",
       hu: "Pico Vinte e Cinco",
       ro: "Pico Vinte e Cinco",
-      en: "Pico Vinte e Cinco"
-    },
+      en: "Pico Vinte e Cinco",
+image: "/poi-images/pico-vinte-e-cinco-relief-v2.webp"
+},
     description: {
       de: "Dieser Berg im äußersten Südwesten von São Tomé markiert eine wilde und unzugängliche Region. Sein Name erinnert an ein wichtiges Datum der Geschichte, doch seine Natur ist zeitlos. Die dichten Wälder an seinen Flanken beherbergen eine Vielzahl von Insekten und Reptilien, die nirgendwo sonst vorkommen.",
       hu: "Ez a hegy São Tomé távoli délnyugati részén egy vad és megközelíthetetlen régiót jelöl. Neve egy fontos történelmi dátumra emlékeztet, de természete időtlen. Oldalainak sűrű erdői számos olyan rovarnak és hüllőnek adnak otthont, amelyek sehol máshol nem fordulnak elő.",
@@ -374,8 +381,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico de Formoso",
       hu: "Pico de Formoso",
       ro: "Pico de Formoso",
-      en: "Pico de Formoso"
-    },
+      en: "Pico de Formoso",
+image: "/poi-images/pico-formoso-relief-v2.webp"
+},
     description: {
       de: "Der Pico de Formoso, dessen Name 'Schöner Gipfel' bedeutet, macht seiner Bezeichnung alle Ehre. Er ist Teil des zentralen Gebirgsmassivs und zeichnet sich durch seine elegante Silhouette aus. Die Hänge sind mit Farnen und Moosen bedeckt, die in der feuchten Bergluft gedeihen.",
       hu: "A Pico de Formoso, amelynek neve 'Szép Csúcsot' jelent, hű marad elnevezéséhez. A központi hegység része, és elegáns sziluettje jellemzi. Lejtőit páfrányok és mohák borítják, amelyek a nedves hegyi levegőben fejlődnek.",
@@ -426,8 +434,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Morro de Fundão",
       hu: "Morro de Fundão",
       ro: "Morro de Fundão",
-      en: "Morro de Fundão"
-    },
+      en: "Morro de Fundão",
+image: "/poi-images/morro-fundao-relief-v2.webp"
+},
     description: {
       de: "Der Morro de Fundão ist ein markanter Hügel im Norden von São Tomé, der die Landschaft des Distrikts Lobata prägt. Im Gegensatz zu den schroffen Bergen im Süden ist dieses Gebiet durch sanftere Erhebungen gekennzeichnet. Von hier aus hat man einen weiten Blick über die Nordküste und die Kakaoplantagen.",
       hu: "A Morro de Fundão egy jellegzetes domb São Tomé északi részén, amely Lobata körzet tájképét határozza meg. A déli sziklás hegyekkel ellentétben ezt a területet lankásabb magaslatok jellemzik. Innen tágas kilátás nyílik az északi partra és a kakaóültetvényekre.",
@@ -478,8 +487,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Morro Vilela",
       hu: "Morro Vilela",
       ro: "Morro Vilela",
-      en: "Morro Vilela"
-    },
+      en: "Morro Vilela",
+image: "/poi-images/morro-vilela-relief-v2.webp"
+},
     description: {
       de: "Der Morro Vilela ist eine bedeutende Erhebung an der zerklüfteten Westküste von São Tomé. Die Felsen fallen hier steil zum Atlantik ab und erzeugen ein dramatisches Landschaftsbild. Die Brandung hat im Laufe der Jahrtausende Höhlen und Nischen in den vulkanischen Untergrund gegraben.",
       hu: "A Morro Vilela egy jelentős magaslat São Tomé tagolt nyugati partján. A sziklák itt meredeken szakadnak le az Atlanti-óceán felé, drámai tájat hozva létre. A hullámverés az évezredek során barlangokat és fülkéket vájt a vulkanikus alapkőzetbe.",
@@ -530,8 +540,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico de Palmira",
       hu: "Pico de Palmira",
       ro: "Pico de Palmira",
-      en: "Pico de Palmira"
-    },
+      en: "Pico de Palmira",
+image: "/poi-images/pico-palmira-relief-v2.webp"
+},
     description: {
       de: "Der Pico de Palmira ist ein Berg im Herzen der Kaffeeanbauregion von São Tomé. Seine fruchtbaren Hänge sind ein Zeugnis der vulkanischen Geschichte und bieten ideale Bedingungen für hochwertige Arabica-Sorten. Der Gipfel selbst ist oft von einem dichten Waldkragen umgeben.",
       hu: "A Pico de Palmira egy hegy São Tomé kávétermesztő régiójának szívében. Termékeny lejtői a vulkanikus múlt tanúi, és ideális feltételeket biztosítanak a kiváló minőségű Arabica fajták számára. Magát a csúcsot gyakran sűrű erdőgyűrű veszi körül.",
@@ -582,8 +593,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico Gago Coutinho",
       hu: "Pico Gago Coutinho",
       ro: "Pico Gago Coutinho",
-      en: "Pico Gago Coutinho"
-    },
+      en: "Pico Gago Coutinho",
+image: "/poi-images/pico-gago-coutinho-relief-v2.webp"
+},
     description: {
       de: "Benannt nach dem berühmten portugiesischen Navigator, ist dieser Berg ein wichtiger Vermessungspunkt im Süden der Insel. Die Gipfelregion ist geprägt von Flechten und Moosen, die der ständigen Feuchtigkeit trotzen. Von hier aus lässt sich die raue Schönheit des südlichen Regenwaldes überblicken.",
       hu: "A híres portugál navigátorról elnevezett hegy fontos mérőpont a sziget déli részén. A csúcsrégiót zúzmók és mohák jellemzik, amelyek dacolnak a folyamatos nedvességgel. Innen belátható a déli esőerdő vad szépsége.",
@@ -634,8 +646,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico da Esperança",
       hu: "Pico da Esperança",
       ro: "Pico da Esperança",
-      en: "Pico da Esperança"
-    },
+      en: "Pico da Esperança",
+image: "/poi-images/pico-esperanca-relief-v2.webp"
+},
     description: {
       de: "Der Pico da Esperança ist eine Erhebung im Osten von São Tomé, die für ihre landschaftliche Vielfalt bekannt ist. Die Hänge bieten eine Mischung aus Waldgebieten und kleinen landwirtschaftlichen Flächen. Er ist ein Symbol für den Optimismus und die Naturverbundenheit der Bewohner des Distrikts Cantagalo.",
       hu: "A Pico da Esperança egy magaslat São Tomé keleti részén, amely táji változatosságáról ismert. Lejtői erdős területek és kis mezőgazdasági parcellák keverékét kínálják. Cantagalo körzet lakóinak optimizmusát és természetközeliségét jelképezi.",
@@ -686,8 +699,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico de São João",
       hu: "Pico de São João",
       ro: "Pico de São João",
-      en: "Pico de São João"
-    },
+      en: "Pico de São João",
+image: "/poi-images/pico-sao-joao-relief-v2.webp"
+},
     description: {
       de: "Dieser Berg im Osten von São Tomé überragt die gleichnamige Bucht und die umliegenden Täler. Er ist ein markantes Merkmal des Küstenreliefs und bietet Schutz vor den starken Seewinden. Die Vegetation ist hier besonders üppig und beherbergt viele endemische Insektenarten.",
       hu: "Ez a hegy São Tomé keleti részén a hasonló nevű öböl és a környező völgyek fölé magasodik. A parti domborzat jellegzetes vonása, és védelmet nyújt az erős tengeri szelek ellen. A növényzet itt különösen buja, és számos endemikus rovarfajnak ad otthont.",
@@ -738,8 +752,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Morro de Estrela",
       hu: "Morro de Estrela",
       ro: "Morro de Estrela",
-      en: "Morro de Estrela"
-    },
+      en: "Morro de Estrela",
+image: "/poi-images/morro-estrela-relief-v2.webp"
+},
     description: {
       de: "Der Morro de Estrela ist eine steile Klippenformation an der Nordwestküste von São Tomé. Er ist bekannt für seine dramatischen Abstürze zum Meer und die wilden Wellen, die gegen den Basalt schlagen. Die Region ist ein Zeugnis der Erosionskraft des Atlantiks.",
       hu: "A Morro de Estrela egy meredek sziklaképződmény São Tomé északnyugati partján. Ismert a tengerbe szakadó drámai sziklafalairól és a bazalthoz csapódó vad hullámokról. A régió az Atlanti-óceán eróziós erejének tanúja.",
@@ -790,8 +805,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Pico de São Pedro",
       hu: "Pico de São Pedro",
       ro: "Pico de São Pedro",
-      en: "Pico de São Pedro"
-    },
+      en: "Pico de São Pedro",
+image: "/poi-images/pico-sao-pedro-relief-v2.webp"
+},
     description: {
       de: "Der Pico de São Pedro ist eine markante Erhebung nahe der Hauptstadt, die das zentrale Bergland einleitet. Er ist oft das erste Bergmassiv, das Seefahrer bei der Annäherung an die Insel sehen. Seine Hänge sind dicht bewaldet und beherbergen eine reiche Vogelwelt.",
       hu: "A Pico de São Pedro a főváros közelében található jellegzetes magaslat, amely a központi hegyvidék kezdetét jelzi. Gyakran ez az első hegység, amelyet a tengerészek megpillantanak a szigethez közeledve. Lejtői sűrűn erdőzöttek, és gazdag madárvilágnak adnak otthont.",
@@ -842,8 +858,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Regenwald von Príncipe",
       hu: "Príncipe esőerdő",
       ro: "Pădurea tropicală din Príncipe",
-      en: "Príncipe Rainforest"
-    },
+      en: "Príncipe Rainforest",
+image: "/poi-images/principe-rainforest-relief-v2.webp"
+},
     description: {
       de: "Der Regenwald von Príncipe gehört zum UNESCO-Biosphärenreservat und gilt als eines der besterhaltenen Ökosysteme Afrikas. Gigantische Bäume und Lianen bilden ein grünes Dach, das seltenen endemischen Arten Schutz bietet. Hier scheint die Zeit seit Jahrtausenden stillzustehen.",
       hu: "Príncipe esőerdője az UNESCO bioszféra-rezervátum része, és Afrika egyik legjobb állapotban megőrzött ökoszisztémájának tartják. Óriási fák és liánok alkotnak zöld tetőt, amely ritka endemikus fajoknak nyújt védelmet. Itt az idő évezredek óta állni látszik.",
@@ -894,8 +911,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Nebelwald von Mé-Zóchi",
       hu: "Mé-Zóchi köderdő",
       ro: "Pădurea de ceață din Mé-Zóchi",
-      en: "Mé-Zóchi Cloud Forest"
-    },
+      en: "Mé-Zóchi Cloud Forest",
+image: "/poi-images/me-zochi-cloudforest-relief-v2.webp"
+},
     description: {
       de: "In den höheren Lagen des Mé-Zóchi-Distrikts erstreckt sich der geheimnisvolle Nebelwald. Die ständige Wolkenbedeckung sorgt für eine kühle und feuchte Umgebung, in der Moose und Farne jeden Zentimeter bedecken. Dieser Wald ist entscheidend für das Mikroklima und den Wasserhaushalt der gesamten Insel.",
       hu: "Mé-Zóchi körzet magasabb vidékein terül el a titokzatos köderdő. A folyamatos felhőborítottság hűvös és nedves környezetet biztosít, ahol mohák és páfrányok borítanak be minden centimétert. Ez az erdő döntő jelentőségű az egész sziget mikroklímája és vízháztartása szempontjából.",
@@ -946,8 +964,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Mangrovenwald von Porto Alegre",
       hu: "Porto Alegre mangrovéja",
       ro: "Mangrova din Porto Alegre",
-      en: "Porto Alegre Mangrove"
-    },
+      en: "Porto Alegre Mangrove",
+image: "/poi-images/porto-alegre-mangrove-relief-v2.webp"
+},
     description: {
       de: "Im äußersten Süden von São Tomé, nahe Porto Alegre, erstrecken sich ausgedehnte Mangrovensümpfe. Dieses einzigartige Ökosystem bildet die Grenze zwischen Land und Meer und schützt die Küste vor Erosion. Das Wurzelgeflecht ist ein sicherer Hafen für unzählige Fischarten und Krebse.",
       hu: "São Tomé legdélebbi részén, Porto Alegre közelében kiterjedt mocsári mangrovék terülnek el. Ez az egyedülálló ökoszisztéma képezi a határt a szárazföld és a tenger között, és védi a partot az eróziótól. A gyökerek szövevénye biztonságos menedék számtalan halfaj és rák számára.",
@@ -998,8 +1017,9 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
       de: "Vulkanmassiv von São Tomé",
       hu: "São Tomé vulkáni masszívum",
       ro: "Masivul vulcanic din São Tomé",
-      en: "São Tomé Volcanic Massif"
-    },
+      en: "São Tomé Volcanic Massif",
+image: "/poi-images/sao-tome-volcanic-massif-relief-v2.webp"
+},
     description: {
       de: "Das zentrale Vulkanmassiv ist das geologische Rückgrat der Insel São Tomé. Es besteht aus einer Reihe von erloschenen Vulkanen, schroffen Graten und tiefen Schluchten, die durch Jahrmillionen der Erosion geformt wurden. Dieses Relief ist verantwortlich für die spektakuläre Topographie und das feuchte Klima der Insel.",
       hu: "A központi vulkáni masszívum São Tomé szigetének geológiai gerince. Kialudt vulkánok sorozatából, sziklás gerincekből és mély szurdokokból áll, amelyeket évmilliók eróziója formált. Ez a domborzat felelős a sziget látványos topográfiájáért és nedves éghajlatáért.",

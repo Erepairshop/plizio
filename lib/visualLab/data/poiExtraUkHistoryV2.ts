@@ -4,7 +4,9 @@ export const ukHistoryV2: POI[] = [
   {
     id: "uk-stonehenge-history-v2",
     type: "ruins",
-    name: { de: "Stonehenge", hu: "Stonehenge", ro: "Stonehenge", en: "Stonehenge" },
+    name: { de: "Stonehenge", hu: "Stonehenge", ro: "Stonehenge", en: "Stonehenge",
+image: "/poi-images/uk-stonehenge-history-v2.webp"
+},
     coords: [-1.8262, 51.1789],
     coordinates: { lat: 51.1789, lng: -1.8262 },
     description: {
@@ -19,11 +21,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construit între 3000 și 2000 î.Hr.", "Cele mai mari pietre cântăresc peste 25 de tone", "Sit UNESCO din anul 1986", "Aliniat cu solstițiul de vară"],
       en: ["Built between 3000 BC and 2000 BC", "Largest stones weigh over 25 tons", "UNESCO World Heritage site since 1986", "Aligned with the summer solstice sunrise"],
     },
-    imageHint: "Stonehenge monoliths at sunrise", image: "/poi-images/uk-stonehenge-history-v2.webp"},
-  {
+imageHint: "Stonehenge monoliths at sunrise",
+    descriptionAdvanced: {
+      de: "Stonehenge ist eine prähistorische Megalithstruktur in Wiltshire. Sie wurde etwa zwischen 3000 und 2000 v. Chr. errichtet und zählt zu den berühmtesten archäologischen Stätten weltweit.",
+      hu: "A Stonehenge egy monumentális újkőkorszaki építmény Wiltshire-ben. Kr. e. 3000 és 2000 között épült több szakaszban, és a világ egyik legrejtélyesebb őskori emlékműveként ismert.",
+      ro: "Stonehenge este o structură megalitică preistorică situată în comitatul Wiltshire. Construită între 3000 și 2000 î.Hr., aceasta rămâne unul dintre cele mai faimoase situri din lume.",
+      en: "Stonehenge is a legendary prehistoric megalithic structure in Wiltshire. Built between 3000 BC and 2000 BC, it remains one of the world's most recognizable and mysterious ancient sites.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 3000 bis 2000 v. Chr.", "Größte Steine wiegen über 25 Tonnen", "UNESCO-Welterbe seit 1986", "Ausrichtung auf die Sommersonnenwende"],
+      hu: ["Kr. e. 3000 és 2000 között épült", "A legnagyobb kövek súlya meghaladja a 25 tonnát", "1986 óta az UNESCO Világörökség része", "A nyári napfordulóhoz van tájolva"],
+      ro: ["Construit între 3000 și 2000 î.Hr.", "Cele mai mari pietre cântăresc peste 25 de tone", "Sit UNESCO din anul 1986", "Aliniat cu solstițiul de vară"],
+      en: ["Built between 3000 BC and 2000 BC", "Largest stones weigh over 25 tons", "UNESCO World Heritage site since 1986", "Aligned with the summer solstice sunrise"],
+    },
+    image: "/poi-images/uk-stonehenge-history-v2.webp",
+},  {
     id: "uk-hadrians-wall-history-v2",
     type: "ruins",
-    name: { de: "Hadrianswall", hu: "Hadrianus fala", ro: "Zidul lui Hadrian", en: "Hadrian's Wall" },
+    name: { de: "Hadrianswall", hu: "Hadrianus fala", ro: "Zidul lui Hadrian", en: "Hadrian's Wall",
+image: "/poi-images/uk-hadrians-wall-history-v2.webp"
+},
     coords: [-2.3306, 55.0125],
     coordinates: { lat: 55.0125, lng: -2.3306 },
     description: {
@@ -38,11 +55,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construit de împăratul Hadrian din 122 d.Hr.", "Lungime totală de 117 kilometri", "Includea 80 de forturi mici și numeroase turnuri", "Marca granița de nord a Imperiului Roman"],
       en: ["Built by Emperor Hadrian from AD 122", "Total length of 73 miles (117 km)", "Featured 80 milecastles and numerous towers", "Marked the northern limit of the Roman Empire"],
     },
-    imageHint: "Hadrian's Wall ruins in Northumberland landscape", image: "/poi-images/uk-hadrians-wall-history-v2.webp"},
-  {
+imageHint: "Hadrian's Wall ruins in Northumberland landscape",
+    descriptionAdvanced: {
+      de: "Der Hadrianswall war die nördlichste Grenze des Römischen Reiches in Britannien. Er erstreckte sich über 117 km quer durch Nordengland und diente zur Sicherung gegen die Stämme des Nordens.",
+      hu: "Hadrianus fala a Római Birodalom legészakibb határvonala volt Britanniában. A 117 km hosszú védmű észak-angliai területeken húzódott keresztül a tengerpartok között.",
+      ro: "Zidul lui Hadrian a fost cea mai nordică frontieră a Imperiului Roman în Britania. Întinzându-se pe 117 km, fortificația proteja provincia de triburile din nordul insulei.",
+      en: "Hadrian's Wall was the northernmost frontier of the Roman Empire in Britain. Stretching 73 miles across Northern England, it defended the province from northern tribes.",
+    },
+    factsAdvanced: {
+      de: ["Bau unter Kaiser Hadrian ab 122 n. Chr.", "Gesamtlänge von 117 Kilometern", "80 Meilenkastelle schützten die Mauer", "Breite der Mauer betrug bis zu 3 Meter"],
+      hu: ["Hadrianus császár építtette 122-től", "Teljes hossza 117 kilométer", "80 mérföldvár védte a határvonalat", "A fal szélessége elérte a 3 métert"],
+      ro: ["Construcție începută de Hadrian în 122 d.Hr.", "Lungime totală de 117 kilometri", "Includea 80 de forturi mici la fiecare milă", "Grosimea zidului atingea până la 3 metri"],
+      en: ["Construction began in AD 122 under Hadrian", "Total length of 73 miles (117 km)", "Featured 80 milecastles for defense", "The wall was up to 3 meters thick"],
+    },
+    image: "/poi-images/uk-hadrians-wall-history-v2.webp",
+},  {
     id: "uk-tower-of-london-history-v2",
     type: "castle",
-    name: { de: "Tower von London", hu: "Tower of London", ro: "Turnul Londrei", en: "Tower of London" },
+    name: { de: "Tower von London", hu: "Tower of London", ro: "Turnul Londrei", en: "Tower of London",
+image: "/poi-images/uk-tower-of-london-history-v2.webp"
+},
     coords: [-0.0759, 51.5081],
     coordinates: { lat: 51.5081, lng: -0.0759 },
     description: {
@@ -57,11 +89,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondat în anul 1066", "Găzduiește Bijuteriile Coroanei britanice", "Turnul Alb a fost construit în jurul anului 1078", "Prizonieri celebri: Anne Boleyn și Guy Fawkes"],
       en: ["Founded in 1066 by William the Conqueror", "Home to the British Crown Jewels", "The White Tower was built around 1078", "Famous prisoners included Anne Boleyn and Guy Fawkes"],
     },
-    imageHint: "Tower of London White Tower view", image: "/poi-images/uk-tower-of-london-history-v2.webp"},
-  {
+imageHint: "Tower of London White Tower view",
+    descriptionAdvanced: {
+      de: "Diese Festung am Ufer der Themse diente als Palast, Waffenkammer und Gefängnis. Der zentrale White Tower wurde von Wilhelm dem Eroberer errichtet, um Macht über London zu demonstrieren.",
+      hu: "Ez a Temze-parti erőd palotaként, fegyvertárként és börtönként is szolgált. A központi Fehér Tornyot Hódító Vilmos építtette, hogy demonstrálja hatalmát London felett.",
+      ro: "Această fortăreață de pe malul Tamisei a servit ca palat, armurărie și închisoare. Turnul Alb central a fost ridicat de William Cuceritorul pentru a domina orașul Londra.",
+      en: "This fortress on the Thames served as a palace, armory, and prison. The central White Tower was built by William the Conqueror to demonstrate his power over London.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1066", "Beherbergt die britischen Kronjuwelen", "Ältester Teil ist der White Tower (1078)", "Fläche der Gesamtanlage: 4,8 Hektar"],
+      hu: ["1066-ban alapították", "Itt őrzik a brit koronázási ékszereket", "Legrégebbi része az 1078-as Fehér Torony", "A vár teljes területe 4,8 hektár"],
+      ro: ["Fondat în anul 1066", "Găzduiește Bijuteriile Coroanei britanice", "Cea mai veche parte este Turnul Alb (1078)", "Suprafața totală a complexului: 4,8 hectare"],
+      en: ["Founded in 1066 by William the Conqueror", "Home to the British Crown Jewels", "White Tower construction dates to 1078", "The complex covers 12 acres (4.8 hectares)"],
+    },
+    image: "/poi-images/uk-tower-of-london-history-v2.webp",
+},  {
     id: "uk-hastings-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Hastings", hu: "Hastingsi csatatér", ro: "Câmpul de luptă de la Hastings", en: "Hastings Battlefield" },
+    name: { de: "Schlachtfeld von Hastings", hu: "Hastingsi csatatér", ro: "Câmpul de luptă de la Hastings", en: "Hastings Battlefield",
+image: "/poi-images/uk-hastings-battlefield-history-v2.webp"
+},
     coords: [0.485, 50.915],
     coordinates: { lat: 50.915, lng: 0.485 },
     description: {
@@ -76,11 +123,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 14 octombrie 1066", "Victoria lui William Cuceritorul", "Fondarea Abației Battle în 1070", "Localitatea se numește astăzi simplu Battle"],
       en: ["Date of battle: 14 October 1066", "Victory of William the Conqueror", "Battle Abbey founded in 1070", "The site is located in the town now called Battle"],
     },
-    imageHint: "Battle Abbey ruins and Hastings battlefield", image: "/poi-images/uk-hastings-battlefield-history-v2.webp"},
-  {
+imageHint: "Battle Abbey ruins and Hastings battlefield",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld bei Battle in East Sussex ist der Schauplatz des Sieges der Normannen im Jahr 1066. Die Abtei Battle wurde direkt auf dem Hügelkamm als Sühne für die Toten errichtet.",
+      hu: "Az East Sussex-i Battle melletti csatatér az 1066-os normann győzelem helyszíne. A Battle Abbey-t közvetlenül a dombtetőn építették fel engesztelésül az elesettekért.",
+      ro: "Câmpul de luptă de lângă orașul Battle din East Sussex este locul victoriei normande din 1066. Abația Battle a fost ridicată pe creastă ca penitență pentru morții bătăliei.",
+      en: "The battlefield near Battle in East Sussex is the site of the 1066 Norman victory. Battle Abbey was built directly on the ridge as penance for the lives lost during the conflict.",
+    },
+    factsAdvanced: {
+      de: ["Ort der Battle Abbey, gegründet 1070", "Höchster Punkt ist der Senlac Hill", "Gelände umfasst heute ca. 40 Hektar", "Jedes Jahr findet hier ein Reenactment statt"],
+      hu: ["Az 1070-ben alapított Battle Abbey helyszíne", "Legmagasabb pontja a Senlac-domb", "A terület ma kb. 40 hektáron fekszik", "Évente nagyszabású hagyományőrző játékok helye"],
+      ro: ["Locul Abației Battle, fondată în 1070", "Cel mai înalt punct este dealul Senlac", "Situl se întinde pe aproximativ 40 de hectare", "Găzduiește anual reconstituiri istorice"],
+      en: ["Site of Battle Abbey, founded in 1070", "Highest point is Senlac Hill", "The grounds cover about 100 acres", "Hosts a massive annual battle reenactment"],
+    },
+    image: "/poi-images/uk-hastings-battlefield-history-v2.webp",
+},  {
     id: "uk-roman-baths-history-v2",
     type: "museum",
-    name: { de: "Römische Bäder von Bath", hu: "Római fürdők (Bath)", ro: "Băile Romane din Bath", en: "Roman Baths" },
+    name: { de: "Römische Bäder von Bath", hu: "Római fürdők (Bath)", ro: "Băile Romane din Bath", en: "Roman Baths",
+image: "/poi-images/uk-roman-baths-history-v2.webp"
+},
     coords: [-2.3595, 51.3809],
     coordinates: { lat: 51.3809, lng: -2.3595 },
     description: {
@@ -95,11 +157,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construite în jurul anului 70 d.Hr.", "Singurele izvoare termale din Marea Britanie", "Peste 1 milion de litri de apă curg zilnic", "Marea Baie este situată sub cerul liber"],
       en: ["Built around AD 70", "Britain's only natural hot springs", "1.17 million liters of spring water flow daily", "The Great Bath is an open-air pool"],
     },
-    imageHint: "Roman Baths Great Bath and Bath Abbey", image: "/poi-images/uk-roman-baths-history-v2.webp"},
-  {
+imageHint: "Roman Baths Great Bath and Bath Abbey",
+    descriptionAdvanced: {
+      de: "Die antiken Thermen in Bath nutzen die einzigen heißen Quellen Großbritanniens. Über Jahrhunderte war dieser Ort ein Zentrum für Gesundheit und religiöse Verehrung der Sulis Minerva.",
+      hu: "Bath ókori termálfürdői Nagy-Britannia egyetlen melegvizes forrását hasznosítják. Évszázadokon át az egészség és Sulis Minerva vallási tiszteletének központja volt.",
+      ro: "Băile antice din Bath utilizează singurele izvoare termale din Marea Britanie. Timp de secole, locul a fost un centru de sănătate și venerație pentru Sulis Minerva.",
+      en: "The ancient baths in Bath utilize Britain's only natural hot springs. For centuries, this site was a center for health and religious worship of the goddess Sulis Minerva.",
+    },
+    factsAdvanced: {
+      de: ["Temperatur der Quellen beträgt konstant 46 °C", "Großes Bad ist 1,6 Meter tief", "Täglich fließen 1,17 Millionen Liter Wasser", "Badekomplex umfasst Tempel und Saunen"],
+      hu: ["A források hőmérséklete állandó 46 °C", "A Nagy Fürdő mélysége 1,6 méter", "Naponta 1,17 millió liter forró víz tör fel", "A komplexum templomot és szaunákat is tartalmaz"],
+      ro: ["Temperatura izvoarelor este constantă la 46 °C", "Marea Baie are o adâncime de 1,6 metri", "Debitul zilnic este de 1,17 milioane litri", "Complexul include un templu și băi de aburi"],
+      en: ["Spring temperature is a constant 46°C", "The Great Bath is 1.6 meters deep", "1.17 million liters of water flow daily", "Complex features temples and steam rooms"],
+    },
+    image: "/poi-images/uk-roman-baths-history-v2.webp",
+},  {
     id: "uk-canterbury-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Canterbury", hu: "Canterburyi katedrális", ro: "Catedrala din Canterbury", en: "Canterbury Cathedral" },
+    name: { de: "Kathedrale von Canterbury", hu: "Canterburyi katedrális", ro: "Catedrala din Canterbury", en: "Canterbury Cathedral",
+image: "/poi-images/uk-canterbury-cathedral-history-v2.webp"
+},
     coords: [1.0828, 51.2798],
     coordinates: { lat: 51.2798, lng: 1.0828 },
     description: {
@@ -114,11 +191,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondată în anul 597", "Locul asasinării lui Thomas Becket în 1170", "Sit UNESCO din anul 1988", "Centrul Comuniunii Anglicane"],
       en: ["Founded in 597 by St Augustine", "Site of Thomas Becket's murder in 1170", "UNESCO World Heritage site since 1988", "Mother church of the Anglican Communion"],
     },
-    imageHint: "Canterbury Cathedral gothic architecture", image: "/poi-images/uk-canterbury-cathedral-history-v2.webp"},
-  {
+imageHint: "Canterbury Cathedral gothic architecture",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Canterbury ist das geistliche Zentrum der anglikanischen Kirche. Nach der Ermordung von Thomas Becket im Jahr 1170 wurde sie zu einem der wichtigsten Pilgerziele Europas.",
+      hu: "A canterburyi katedrális az anglikán egyház szellemi központja. Thomas Becket 1170-es meggyilkolása után Európa egyik legfontosabb zarándokhelyévé vált.",
+      ro: "Catedrala din Canterbury este centrul spiritual al Bisericii Anglicane. După asasinarea lui Thomas Becket în 1170, a devenit una dintre principalele destinații de pelerinaj.",
+      en: "Canterbury Cathedral is the spiritual heart of the Anglican Church. After Thomas Becket's murder in 1170, it became one of Europe's primary pilgrimage destinations.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 597 n. Chr.", "Sitz des Erzbischofs von Canterbury", "Baukunst reicht von Romanik bis Gotik", "Beherbergt das Grab von Heinrich IV."],
+      hu: ["I. sz. 597-ben alapították", "A canterburyi érsek székhelye", "Stílusa a romántól a gótikusig terjed", "Itt található IV. Henrik király sírja"],
+      ro: ["Fondată în anul 597 d.Hr.", "Sediul Arhiepiscopului de Canterbury", "Arhitectură de la romanic la gotic", "Găzduiește mormântul regelui Henric al IV-lea"],
+      en: ["Founded in 597 AD by St Augustine", "Seat of the Archbishop of Canterbury", "Architecture spans Romanesque to Gothic", "Contains the tomb of King Henry IV"],
+    },
+    image: "/poi-images/uk-canterbury-cathedral-history-v2.webp",
+},  {
     id: "uk-culloden-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Culloden", hu: "Cullodeni csatatér", ro: "Câmpul de luptă de la Culloden", en: "Culloden Battlefield" },
+    name: { de: "Schlachtfeld von Culloden", hu: "Cullodeni csatatér", ro: "Câmpul de luptă de la Culloden", en: "Culloden Battlefield",
+image: "/poi-images/uk-culloden-battlefield-history-v2.webp"
+},
     coords: [-4.131, 57.478],
     coordinates: { lat: 57.478, lng: -4.131 },
     description: {
@@ -133,11 +225,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 16 aprilie 1746", "A durat mai puțin de o oră", "Ultima bătălie terestră în Marea Britanie", "Pietre funerare marchează mormintele clanurilor"],
       en: ["Date of battle: 16 April 1746", "Battle lasted less than one hour", "Final pitched battle on British soil", "Memorial stones mark the graves of the clans"],
     },
-    imageHint: "Culloden Battlefield memorial cairn", image: "/poi-images/uk-culloden-battlefield-history-v2.webp"},
-  {
+imageHint: "Culloden Battlefield memorial cairn",
+    descriptionAdvanced: {
+      de: "Das Moor von Culloden in den schottischen Highlands bewahrt die Erinnerung an die letzte Feldschlacht auf britischem Boden. Heute dient das Gelände als mahnendes Denkmal für das Clan-System.",
+      hu: "A skót felföldi Culloden-mocsár az utolsó brit földön vívott nyílt csata emlékét őrzi. Ma a terület a klánrendszer bukásának mementójaként szolgál.",
+      ro: "Câmpia Culloden din Scoția păstrează memoria ultimei bătălii pe pământ britanic. Astăzi, situl servește ca un monument solemn dedicat sistemului de clanuri.",
+      en: "Culloden Moor in the Scottish Highlands preserves the memory of the last pitched battle on British soil. Today, the site serves as a somber memorial to the clan system.",
+    },
+    factsAdvanced: {
+      de: ["Gedenksteine markieren die Gräber der Clans", "Besteht aus Heideland und Sumpfgebieten", "Besucherzentrum wurde 2007 eröffnet", "Lage: 8 Kilometer östlich von Inverness"],
+      hu: ["Emlékkövek jelzik a klánok tömegsírjait", "Hangafüves és mocsaras terület alkotja", "A látogatóközpont 2007-ben nyílt meg", "Invernesstől 8 kilométerre keletre fekszik"],
+      ro: ["Pietrele funerare marchează mormintele clanurilor", "Terrenul constă în landă și mlaștină", "Centrul pentru vizitatori s-a deschis în 2007", "Situat la 8 kilometri est de Inverness"],
+      en: ["Clan stones mark the communal graves", "Terrain consists of moorland and bog", "New visitor center opened in 2007", "Located 5 miles east of Inverness"],
+    },
+    image: "/poi-images/uk-culloden-battlefield-history-v2.webp",
+},  {
     id: "uk-iron-bridge-history-v2",
     type: "bridge",
-    name: { de: "Iron Bridge", hu: "Vashíd (Ironbridge)", ro: "Podul de Fier", en: "Iron Bridge" },
+    name: { de: "Iron Bridge", hu: "Vashíd (Ironbridge)", ro: "Podul de Fier", en: "Iron Bridge",
+image: "/poi-images/uk-iron-bridge-history-v2.webp"
+},
     coords: [-2.4855, 52.6273],
     coordinates: { lat: 52.6273, lng: -2.4855 },
     description: {
@@ -152,11 +259,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Deschis în anul 1779", "Primul pod de fontă din lume", "Costul construcției a fost de cca. 6.000 de lire", "Parte a sitului UNESCO Ironbridge Gorge"],
       en: ["Opened in 1779", "First cast-iron bridge in the world", "Construction cost was approximately £6,000", "Part of the Ironbridge Gorge UNESCO site"],
     },
-    imageHint: "Iron Bridge Shropshire across River Severn", image: "/poi-images/uk-iron-bridge-history-v2.webp"},
-  {
+imageHint: "Iron Bridge Shropshire across River Severn",
+    descriptionAdvanced: {
+      de: "Dieses Wunderwerk der Technik in Shropshire überspannt den Fluss Severn. Als weltweit erste Brücke aus Gusseisen markiert sie den Beginn der modernen Ingenieurskunst und Industrieära.",
+      hu: "Ez a shropshire-i technikai csoda a Severn folyót íveli át. A világ első öntöttvas hídjaként a modern mérnöki tudomány és az ipari korszak kezdetét jelzi.",
+      ro: "Această minune a ingineriei din Shropshire traversează râul Severn. Fiind primul pod de fontă din lume, marchează începutul erei industriale și al ingineriei moderne.",
+      en: "This engineering marvel in Shropshire spans the River Severn. As the world's first cast-iron bridge, it marks the beginning of modern engineering and the industrial era.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit betrug ca. drei Monate im Jahr 1779", "Spannweite des Hauptbogens: 30,5 Meter", "Gegossen aus über 378 Tonnen Eisen", "UNESCO-Welterbe seit dem Jahr 1986"],
+      hu: ["Az építés három hónapig tartott 1779-ben", "A főív fesztávolsága 30,5 méter", "Több mint 378 tonna vasból öntötték", "1986 óta az UNESCO Világörökség része"],
+      ro: ["Construcția a durat trei luni în anul 1779", "Deschiderea arcului principal: 30,5 metri", "Turnat din peste 378 de tone de fier", "Sit UNESCO din anul 1986"],
+      en: ["Construction took three months in 1779", "The main arch span is 100 feet (30.5 m)", "Cast using over 378 tons of iron", "UNESCO World Heritage site since 1986"],
+    },
+    image: "/poi-images/uk-iron-bridge-history-v2.webp",
+},  {
     id: "uk-skara-brae-history-v2",
     type: "ruins",
-    name: { de: "Skara Brae", hu: "Skara Brae", ro: "Skara Brae", en: "Skara Brae" },
+    name: { de: "Skara Brae", hu: "Skara Brae", ro: "Skara Brae", en: "Skara Brae",
+image: "/poi-images/uk-skara-brae-history-v2.webp"
+},
     coords: [-3.3431, 59.0486],
     coordinates: { lat: 59.0486, lng: -3.3431 },
     description: {
@@ -171,11 +293,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Locuit între 3180 și 2500 î.Hr.", "Mai vechi decât Stonehenge și piramidele", "Descoperit în 1850 după o furtună puternică", "Sit UNESCO din anul 1999"],
       en: ["Inhabited between 3180 BC and 2500 BC", "Older than Stonehenge and the Pyramids", "Uncovered by a storm in 1850", "UNESCO World Heritage site since 1999"],
     },
-    imageHint: "Skara Brae Neolithic village ruins", image: "/poi-images/uk-skara-brae-history-v2.webp"},
-  {
+imageHint: "Skara Brae Neolithic village ruins",
+    descriptionAdvanced: {
+      de: "Skara Brae ist das besterhaltene neolithische Dorf in Europa. Die Steinhäuser auf den Orkney-Inseln bieten einzigartige Einblicke in das häusliche Leben vor über 5000 Jahren.",
+      hu: "Skara Brae Európa legjobb állapotban fennmaradt újkőkorszaki faluja. Az Orkney-szigeteki kőházak egyedülálló betekintést nyújtanak a több mint 5000 évvel ezelőtti életbe.",
+      ro: "Skara Brae este cel mai bine conservat sat neolitic din Europa. Casele de piatră din insulele Orkney oferă o perspectivă unică asupra vieții de acum 5000 de ani.",
+      en: "Skara Brae is the best-preserved Neolithic village in Europe. These stone houses on the Orkney Islands provide a unique insight into domestic life over 5,000 years ago.",
+    },
+    factsAdvanced: {
+      de: ["Siedlung besteht aus acht Steinhäusern", "Älter als Stonehenge und die Pyramiden", "Entdeckung im Jahr 1850 nach einem Sturm", "Enthält steinerne Betten und Regale"],
+      hu: ["A település nyolc kőházból áll", "Idősebb a Stonehenge-nél és a piramisoknál", "1850-ben egy vihar után fedezték fel", "Kőágyakat és polcokat is tartalmaz"],
+      ro: ["Așezarea cuprinde opt case de piatră", "Mai veche decât Stonehenge și piramidele", "Descoperit în 1850 în urma unei furtuni", "Conține paturi și rafturi cioplite în piatră"],
+      en: ["Settlement consists of eight stone houses", "Older than Stonehenge and the Pyramids", "Discovered in 1850 after a massive storm", "Features stone beds and cupboards"],
+    },
+    image: "/poi-images/uk-skara-brae-history-v2.webp",
+},  {
     id: "uk-old-sarum-history-v2",
     type: "ruins",
-    name: { de: "Old Sarum", hu: "Old Sarum", ro: "Old Sarum", en: "Old Sarum" },
+    name: { de: "Old Sarum", hu: "Old Sarum", ro: "Old Sarum", en: "Old Sarum",
+image: "/poi-images/uk-old-sarum-history-v2.webp"
+},
     coords: [-1.8051, 51.0931],
     coordinates: { lat: 51.0931, lng: -1.8051 },
     description: {
@@ -190,12 +327,27 @@ export const ukHistoryV2: POI[] = [
       ro: ["Prima locuire în jurul anului 3000 î.Hr.", "Locul primei catedrale din Salisbury", "Abandonat în secolul al XIII-lea", "Faimos ca fiind un 'rotten borough' politic"],
       en: ["First inhabited around 3000 BC", "Site of Salisbury's first cathedral", "Abandoned in the 13th century for New Salisbury", "Infamous as a 'rotten borough' in political history"],
     },
-    imageHint: "Old Sarum hillfort and castle ruins", image: "/poi-images/uk-old-sarum-history-v2.webp"}
-,
+imageHint: "Old Sarum hillfort and castle ruins",
+    descriptionAdvanced: {
+      de: "Old Sarum vereint Schichten der Geschichte von der Eisenzeit bis ins Mittelalter. Innerhalb gewaltiger Wälle befinden sich die Ruinen einer Burg und der Fundamente der ersten Kathedrale.",
+      hu: "Old Sarum a történelem rétegeit ötvözi a vaskortól a középkorig. A hatalmas sáncok között egy vár romjai és az első katedrális alapjai találhatók.",
+      ro: "Old Sarum reunește straturi de istorie din Epoca Fierului până în Evul Mediu. Între valuri de pământ uriașe se află ruinele unui castel și fundația primei catedrale.",
+      en: "Old Sarum combines layers of history from the Iron Age to the Middle Ages. Within massive earthworks lie the ruins of a castle and the foundations of the first cathedral.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich eine Wallburg um 400 v. Chr.", "Sitz der ersten Kathedrale von Salisbury", "Wurde im 13. Jahrhundert verlassen", "Hügel bietet weite Sicht über Wiltshire"],
+      hu: ["Eredetileg vaskori földvár Kr. e. 400 körül", "Salisbury első székesegyházának székhelye", "A 13. században hagyták el végleg", "A dombról belátni egész Wiltshire-t"],
+      ro: ["Inițial un fort din cca. 400 î.Hr.", "Sediul primei catedrale din Salisbury", "Abandonat complet în secolul al XIII-lea", "Dealul oferă vederi ample asupra Wiltshire"],
+      en: ["Originally an Iron Age fort c. 400 BC", "Site of Salisbury's first cathedral", "Abandoned in the 13th century", "Hill offers panoramic views of Wiltshire"],
+    },
+    image: "/poi-images/uk-old-sarum-history-v2.webp",
+},
   {
     id: "uk-battle-of-hastings-history-v2",
     type: "battlefield",
-    name: { de: "Schlacht von Hastings", hu: "Hastingsi csata", ro: "Bătălia de la Hastings", en: "Battle of Hastings" },
+    name: { de: "Schlacht von Hastings", hu: "Hastingsi csata", ro: "Bătălia de la Hastings", en: "Battle of Hastings",
+image: "/poi-images/uk-battle-of-hastings-history-v2.webp"
+},
     coords: [0.485, 50.912],
     coordinates: { lat: 50.912, lng: 0.485 },
     description: {
@@ -211,11 +363,25 @@ export const ukHistoryV2: POI[] = [
       en: ["Battle date: 14 October 1066", "Death of Anglo-Saxon King Harold II", "Battle Abbey founded on the site", "Beginning of Norman rule in England"],
     },
     imageHint: "Battle Abbey and battlefield at Hastings",
+    descriptionAdvanced: {
+      de: "Die Schlacht von Hastings am 14. Oktober 1066 ist das folgenreichste Ereignis der englischen Geschichte. Der Tod König Haralds besiegelte das Ende der angelsächsischen Herrschaft.",
+      hu: "Az 1066. október 14-i hastingsi csata az angol történelem legmeghatározóbb eseménye. Harold király halála megpecsételte az angolszász uralom végét.",
+      ro: "Bătălia de la Hastings din 14 octombrie 1066 este cel mai influent eveniment din istoria Angliei. Moartea regelui Harold a pus capăt domniei anglo-saxone.",
+      en: "The Battle of Hastings on 14 October 1066 is the most consequential event in English history. King Harold's death marked the end of Anglo-Saxon rule.",
+    },
+    factsAdvanced: {
+      de: ["Dauerte von Sonnenaufgang bis Sonnenuntergang", "Normannische Kavallerie gegen Schildwall", "Herzog Wilhelm wurde daraufhin König", "Verlustreichste Schlacht des 11. Jahrhunderts"],
+      hu: ["Napfelkeltétől napnyugtáig tartott", "Normann lovasság az angolszász pajzsfal ellen", "Vilmos herceget ezt követően királlyá koronázták", "A 11. század legvéresebb ütközete volt"],
+      ro: ["A durat de la răsărit până la apus", "Cavalerie normandă contra zid de scuturi", "Ducele William a fost încoronat rege", "Cea mai sângeroasă bătălie a secolului XI"],
+      en: ["Lasted from sunrise to sunset", "Norman cavalry vs the Saxon shield wall", "Duke William was subsequently crowned king", "Deadliest battle of the 11th century"],
+    },
   },
   {
     id: "uk-fountains-abbey-history-v2",
     type: "ruins",
-    name: { de: "Fountains Abbey", hu: "Fountains-apátság", ro: "Abația Fountains", en: "Fountains Abbey" },
+    name: { de: "Fountains Abbey", hu: "Fountains-apátság", ro: "Abația Fountains", en: "Fountains Abbey",
+image: "/poi-images/uk-fountains-abbey-history-v2.webp"
+},
     coords: [-1.573, 54.11],
     coordinates: { lat: 54.11, lng: -1.573 },
     description: {
@@ -230,11 +396,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondată de 13 călugări benedictini", "Dizolvată de Henric al VIII-lea în 1539", "Inclusă în Patrimoniul Mondial UNESCO", "Parte a grădinilor de apă Studley Royal"],
       en: ["Founded by 13 Benedictine monks", "Dissolved by Henry VIII in 1539", "Designated as a UNESCO World Heritage site", "Part of the Studley Royal Water Gardens"],
     },
-    imageHint: "Ruins of Fountains Abbey in North Yorkshire", image: "/poi-images/uk-fountains-abbey-history-v2.webp"},
-  {
+imageHint: "Ruins of Fountains Abbey in North Yorkshire",
+    descriptionAdvanced: {
+      de: "Fountains Abbey ist die eindrucksvollste Klosterruine der Zisterzienser in Nordengland. Ihr Reichtum beruhte auf Schafzucht, bis sie unter Heinrich VIII. im Jahr 1539 aufgelöst wurde.",
+      hu: "A Fountains-apátság Észak-Anglia legimpozánsabb ciszterci kolostorromja. Gazdagsága a juhtenyésztésen alapult, míg VIII. Henrik 1539-ben fel nem számolta.",
+      ro: "Abația Fountains este cea mai impresionantă ruină cisterciană din nordul Angliei. Bogăția sa s-a bazat pe lână până la dizolvarea din 1539 sub Henric al VIII-lea.",
+      en: "Fountains Abbey is Northern England's most impressive Cistercian ruin. Its wealth was built on sheep farming until its dissolution in 1539 under Henry VIII.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1132 von 13 Mönchen", "Ruinen ragen über 50 Meter in die Höhe", "Teil eines UNESCO-Welterbes seit 1986", "Liegt im Tal des Flusses Skell"],
+      hu: ["1132-ben alapította 13 szerzetes", "A romok magassága meghaladja az 50 métert", "1986 óta az UNESCO Világörökség része", "A Skell folyó völgyében fekszik"],
+      ro: ["Fondată în 1132 de către 13 călugări", "Ruinele au o înălțime de peste 50 de metri", "Patrimoniu Mondial UNESCO din 1986", "Situată în valea râului Skell"],
+      en: ["Founded in 1132 by 13 monks", "Ruins stand over 50 meters high", "UNESCO World Heritage site since 1986", "Located in the valley of the River Skell"],
+    },
+    image: "/poi-images/uk-fountains-abbey-history-v2.webp",
+},  {
     id: "uk-tintagel-castle-history-v2",
     type: "castle",
-    name: { de: "Tintagel Castle", hu: "Tintagel vára", ro: "Castelul Tintagel", en: "Tintagel Castle" },
+    name: { de: "Tintagel Castle", hu: "Tintagel vára", ro: "Castelul Tintagel", en: "Tintagel Castle",
+image: "/poi-images/uk-tintagel-castle-history-v2.webp"
+},
     coords: [-4.761, 50.667],
     coordinates: { lat: 50.667, lng: -4.761 },
     description: {
@@ -249,11 +430,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Ruinele actuale construite de Richard de Cornwall", "Centru comercial important în secolele V și VI", "Menționat de Geoffrey de Monmouth în 1136", "Locația faimoasei peșteri a lui Merlin"],
       en: ["Current ruins built by Richard, Earl of Cornwall", "Major trading post in the 5th and 6th centuries", "Mentioned by Geoffrey of Monmouth around 1136", "Location of the famous Merlin's Cave"],
     },
-    imageHint: "Tintagel Castle ruins on Cornwall coast", image: "/poi-images/uk-tintagel-castle-history-v2.webp"},
-  {
+imageHint: "Tintagel Castle ruins on Cornwall coast",
+    descriptionAdvanced: {
+      de: "Tintagel Castle verbindet dramatische Küstenlandschaft mit Arthurianischer Legende. Die Ruinen aus dem 13. Jahrhundert thronen auf einer Klippe, die nur über eine Brücke erreichbar ist.",
+      hu: "Tintagel vára drámai tengerparti környezetben fekszik. A 13. századi romok egy sziklaszirten trónolnak, amely ma már csak egy modern hídon keresztül érhető el.",
+      ro: "Castelul Tintagel îmbină peisajul de coastă dramatic cu legenda arthuriană. Ruinele din secolul XIII domină faleza, accesibilă acum printr-un pod spectaculos.",
+      en: "Tintagel Castle blends dramatic coastal scenery with Arthurian legend. The 13th-century ruins perch on a cliffside, now connected by a spectacular modern footbridge.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Earls of Cornwall im Mittelalter", "Verbunden mit den Sagen um König Artus", "Bedeutender spätrömischer Handelsplatz", "Neue Brücke überspannt 58 Meter Schlucht"],
+      hu: ["A cornwalli grófok székhelye volt", "Artúr király legendáihoz kötődik", "Fontos késő római kereskedelmi központ", "Az új híd 58 méteres szurdokot ível át"],
+      ro: ["Sediul conților de Cornwall în Evul Mediu", "Asociat cu legendele Regelui Arthur", "Centru comercial important în epoca romană", "Podul nou traversează o prăpastie de 58m"],
+      en: ["Seat of the Earls of Cornwall in Middle Ages", "Linked to the legends of King Arthur", "Important late Roman trading center", "The new bridge spans a 58-meter gorge"],
+    },
+    image: "/poi-images/uk-tintagel-castle-history-v2.webp",
+},  {
     id: "uk-warwick-castle-history-v2",
     type: "castle",
-    name: { de: "Warwick Castle", hu: "Warwick vára", ro: "Castelul Warwick", en: "Warwick Castle" },
+    name: { de: "Warwick Castle", hu: "Warwick vára", ro: "Castelul Warwick", en: "Warwick Castle",
+image: "/poi-images/uk-warwick-castle-history-v2.webp"
+},
     coords: [-1.585, 52.28],
     coordinates: { lat: 52.28, lng: -1.585 },
     description: {
@@ -268,11 +464,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Sediul conților de Warwick timp de secole", "Deține unul dintre cele mai mari trebuchete din lume", "Grădini proiectate de Capability Brown", "Conține armurării medievale originale"],
       en: ["Seat of the Earls of Warwick for centuries", "Home to one of the world's largest trebuchets", "Parkland designed by Capability Brown", "Contains original medieval armouries"],
     },
-    imageHint: "Warwick Castle and River Avon", image: "/poi-images/uk-warwick-castle-history-v2.webp"},
-  {
+imageHint: "Warwick Castle and River Avon",
+    descriptionAdvanced: {
+      de: "Warwick Castle gilt als Inbegriff der englischen Ritterburg. Von der hölzernen Festung 1068 entwickelte sie sich zu einem prächtigen Adelssitz mit massiven Verteidigungstürmen.",
+      hu: "A Warwicki vár az angol lovagvár mintaképe. Az 1068-as faerődtől kezdve fejlődött pompás nemesi rezidenciává, hatalmas védelmi tornyokkal kiegészülve.",
+      ro: "Castelul Warwick este simbolul castelului medieval englezesc. De la fortul de lemn din 1068, a evoluat într-o reședință nobiliară cu turnuri masive de apărare.",
+      en: "Warwick Castle is the epitome of the English knight's castle. From a wooden fort in 1068, it developed into a magnificent noble seat with massive defensive towers.",
+    },
+    factsAdvanced: {
+      de: ["Besitzt den 39 Meter hohen Guy's Tower", "Gartenanlage von Capability Brown gestaltet", "Größte funktionsfähige Steinschleuder", "War über 900 Jahre bewohnt"],
+      hu: ["A 39 méter magas Guy-torony jellemzi", "A kerteket Capability Brown tervezte", "Itt van a legnagyobb működő ostromgép", "Több mint 900 éven át lakott volt"],
+      ro: ["Deține Turnul Guy, înalt de 39 de metri", "Grădini amenajate de Capability Brown", "Cea mai mare catapultă funcțională din lume", "A fost locuit timp de peste 900 de ani"],
+      en: ["Features the 128-foot high Guy's Tower", "Gardens landscaped by Capability Brown", "Largest working trebuchet in the world", "Was inhabited for over 900 years"],
+    },
+    image: "/poi-images/uk-warwick-castle-history-v2.webp",
+},  {
     id: "uk-hampton-court-palace-history-v2",
     type: "palace",
-    name: { de: "Hampton Court Palast", hu: "Hampton Court-palota", ro: "Palatul Hampton Court", en: "Hampton Court Palace" },
+    name: { de: "Hampton Court Palast", hu: "Hampton Court-palota", ro: "Palatul Hampton Court", en: "Hampton Court Palace",
+image: "/poi-images/uk-hampton-court-palace-history-v2.webp"
+},
     coords: [-0.336, 51.403],
     coordinates: { lat: 51.403, lng: -0.336 },
     description: {
@@ -287,11 +498,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construit inițial pentru Cardinalul Wolsey în 1514", "Faimos labirint de gard viu în grădină", "Găzduiește un ceas astronomic din 1540", "Include un domeniu de 241 de hectare"],
       en: ["Originally built for Cardinal Wolsey from 1514", "Famous hedge maze located in the gardens", "Home to an astronomical clock from 1540", "Covers an area of 241 hectares"],
     },
-    imageHint: "Hampton Court Palace Tudor architecture", image: "/poi-images/uk-hampton-court-palace-history-v2.webp"},
-  {
+imageHint: "Hampton Court Palace Tudor architecture",
+    descriptionAdvanced: {
+      de: "Hampton Court zeigt die Pracht der Tudor-Zeit und den Glanz des Barock. Es war der Machtstützpunkt von Kardinal Wolsey, bevor Heinrich VIII. den Palast für sich beanspruchte.",
+      hu: "Hampton Court a Tudor-kor pompáját és a barokk ragyogását mutatja be. Wolsey bíboros hatalmi központja volt, mielőtt VIII. Henrik kisajátította volna magának.",
+      ro: "Hampton Court reflectă splendoarea epocii Tudor și gloria barocului. A fost centrul puterii cardinalului Wolsey înainte ca Henric al VIII-lea să-l confiște.",
+      en: "Hampton Court reflects the splendor of the Tudor era and the glory of the Baroque. It was Cardinal Wolsey's power base before Henry VIII claimed it for himself.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst 60 Hektar Gartenlandschaft", "Heimat der Astronomischen Uhr (1540)", "Große Halle hat eine Hammerbalken-Decke", "Berühmter Heckenirrgarten von 1700"],
+      hu: ["60 hektáros kertterület veszi körül", "Itt látható az 1540-es csillagászati óra", "A Nagyterem kalapácsgerendás mennyezetű", "Híres sövénylabirintusa 1700 körül készült"],
+      ro: ["Cuprinde 60 de hectare de grădini", "Găzduiește Ceasul Astronomic din 1540", "Marea Sală are un tavan spectaculos din lemn", "Faimosul labirint datează din anul 1700"],
+      en: ["Covers 60 acres of formal gardens", "Home to the 1540 Astronomical Clock", "Great Hall features a hammerbeam roof", "Famous hedge maze created around 1700"],
+    },
+    image: "/poi-images/uk-hampton-court-palace-history-v2.webp",
+},  {
     id: "uk-battle-of-culloden-history-v2",
     type: "battlefield",
-    name: { de: "Schlacht von Culloden", hu: "Cullodeni csata", ro: "Bătălia de la Culloden", en: "Battle of Culloden" },
+    name: { de: "Schlacht von Culloden", hu: "Cullodeni csata", ro: "Bătălia de la Culloden", en: "Battle of Culloden",
+image: "/poi-images/uk-battle-of-culloden-history-v2.webp"
+},
     coords: [-4.097, 57.478],
     coordinates: { lat: 57.478, lng: -4.097 },
     description: {
@@ -306,11 +532,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 16 aprilie 1746", "Sfârșitul revoltei lui Bonnie Prince Charlie", "Pietre memoriale pentru clanurile scoțiene", "Durata bătăliei propriu-zise: doar 40 de minute"],
       en: ["Battle date: 16 April 1746", "End of the Bonnie Prince Charlie uprising", "Memorial cairns mark the graves of Scottish clans", "The actual battle lasted only 40 minutes"],
     },
-    imageHint: "Culloden Moor battlefield memorial cairn", image: "/poi-images/uk-battle-of-culloden-history-v2.webp"},
-  {
+imageHint: "Culloden Moor battlefield memorial cairn",
+    descriptionAdvanced: {
+      de: "Die Schlacht von Culloden am 16. April 1746 war die letzte kriegerische Auseinandersetzung auf der britischen Hauptinsel. Sie besiegelte das Ende des Hauses Stuart und der Jakobiten.",
+      hu: "Az 1746. április 16-i cullodeni csata volt az utolsó fegyveres összecsapás a brit szigeten. A Stuart-ház és a jakobiták végleges vereségét hozta el.",
+      ro: "Bătălia de la Culloden din 16 aprilie 1746 a fost ultima confruntare militară de pe insula britanică. A pus capăt speranțelor casei Stuart și iacobiților.",
+      en: "The Battle of Culloden on 16 April 1746 was the last major battle on the British mainland. it sealed the fate of the House of Stuart and the Jacobite cause.",
+    },
+    factsAdvanced: {
+      de: ["Dauerte nur etwa 40 bis 60 Minuten", "Truppenstärke: 8.000 gegen 7.000 Mann", "Sieg der Regierungsarmee (Duke of Cumberland)", "Bonnie Prince Charlie floh nach Frankreich"],
+      hu: ["Mindössze 40-60 percig tartott a harc", "Létszám: 8000 fő a 7000 jakobita ellen", "Cumberland herceg kormányerőinek győzelme", "Bonnie Prince Charlie Franciaországba menekült"],
+      ro: ["Lupta a durat între 40 și 60 de minute", "Efective: 8.000 contra 7.000 de iacobiți", "Victoria armatei guvernamentale (Cumberland)", "Bonnie Prince Charlie a fugit în Franța"],
+      en: ["Battle lasted between 40 and 60 minutes", "Forces: 8,000 govt. vs 7,000 Jacobites", "Victory for the Duke of Cumberland", "Bonnie Prince Charlie escaped to France"],
+    },
+    image: "/poi-images/uk-battle-of-culloden-history-v2.webp",
+},  {
     id: "uk-jarrow-monastery-history-v2",
     type: "ruins",
-    name: { de: "Kloster Jarrow", hu: "Jarrow-i kolostor", ro: "Mănăstirea Jarrow", en: "Jarrow Monastery" },
+    name: { de: "Kloster Jarrow", hu: "Jarrow-i kolostor", ro: "Mănăstirea Jarrow", en: "Jarrow Monastery",
+image: "/poi-images/uk-jarrow-monastery-history-v2.webp"
+},
     coords: [-1.474, 54.981],
     coordinates: { lat: 54.981, lng: -1.474 },
     description: {
@@ -325,11 +566,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondată în anul 681 d.Hr.", "Locul de reședință al istoricului Beda Venerabilul", "Deține cele mai vechi vitralii din Anglia", "Parte a mănăstirii duble Monkwearmouth-Jarrow"],
       en: ["Founded in 681 AD", "Home of the historian Venerable Bede", "Contains the oldest stained glass in England", "Part of the Monkwearmouth-Jarrow twin monastery"],
     },
-    imageHint: "St Paul's Church and Jarrow monastery ruins", image: "/poi-images/uk-jarrow-monastery-history-v2.webp"},
-  {
+imageHint: "St Paul's Church and Jarrow monastery ruins",
+    descriptionAdvanced: {
+      de: "Das Kloster Jarrow war im 7. Jahrhundert ein Leuchtturm der Gelehrsamkeit. Als Heimat des Beda Venerabilis gilt es als einer der Geburtsorte der englischen Geschichtsschreibung.",
+      hu: "A jarrow-i kolostor a 7. században a tudomány világítótornya volt. Béda Venerabilis otthonaként az angol történetírás egyik bölcsőjének tekintik.",
+      ro: "Mănăstirea Jarrow a fost un far al cunoașterii în secolul al VII-lea. Casa lui Beda Venerabilul este considerată locul de naștere al istoriografiei engleze.",
+      en: "Jarrow Monastery was a beacon of scholarship in the 7th century. As the home of the Venerable Bede, it is seen as one of the birthplaces of English history writing.",
+    },
+    factsAdvanced: {
+      de: ["St. Paul's Church enthält Steine von 681", "Wurde 794 von Wikingern überfallen", "Ältestes farbiges Fensterglas Englands", "Beda vollendete hier sein Hauptwerk 731"],
+      hu: ["A Szent Pál templom 681-es köveket őriz", "794-ben vikingek támadták meg", "Itt van Anglia legősibb színes üvegablaka", "Béda itt fejezte be fő művét 731-ben"],
+      ro: ["Biserica Sf. Paul conține pietre din 681", "Atacată de vikingi în anul 794", "Cele mai vechi vitralii din Anglia", "Beda și-a terminat opera majoră aici în 731"],
+      en: ["St Paul's Church contains 681 AD stones", "Raided by Vikings in the year 794", "Features the oldest stained glass in England", "Bede finished his major work here in 731"],
+    },
+    image: "/poi-images/uk-jarrow-monastery-history-v2.webp",
+},  {
     id: "uk-caernarfon-castle-history-v2",
     type: "castle",
-    name: { de: "Burg Caernarfon", hu: "Caernarfoni vár", ro: "Castelul Caernarfon", en: "Caernarfon Castle" },
+    name: { de: "Burg Caernarfon", hu: "Caernarfoni vár", ro: "Castelul Caernarfon", en: "Caernarfon Castle",
+image: "/poi-images/uk-caernarfon-castle-history-v2.webp"
+},
     coords: [-4.276, 53.139],
     coordinates: { lat: 53.139, lng: -4.276 },
     description: {
@@ -344,12 +600,27 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construcția a început în anul 1283", "Patrimoniu Mondial UNESCO din 1986", "Locul investiturii Prințului de Wales", "Include impresionantul Turn al Vulturului"],
       en: ["Construction started in 1283", "UNESCO World Heritage site since 1986", "Site of the investiture of the Prince of Wales", "Features the distinctive Eagle Tower"],
     },
-    imageHint: "Caernarfon Castle fortress in Wales", image: "/poi-images/uk-caernarfon-castle-history-v2.webp"}
-,
+imageHint: "Caernarfon Castle fortress in Wales",
+    descriptionAdvanced: {
+      de: "Caernarfon Castle ist ein Symbol der königlichen Autorität in Wales. Die polygonalen Türme und farbigen Steinschichten erinnern bewusst an die Mauern des antiken Konstantinopels.",
+      hu: "A Caernarfoni vár a királyi tekintély szimbóluma Walesben. Sokszögletű tornyai és színes kőrétegei tudatosan az ókori Konstantinápoly falait idézik.",
+      ro: "Castelul Caernarfon este un simbol al autorității regale în Țara Galilor. Turnurile sale poligonale amintesc de zidurile anticului Constantinopol.",
+      en: "Caernarfon Castle is a symbol of royal authority in Wales. Its polygonal towers and banded masonry were consciously modeled on the walls of ancient Constantinople.",
+    },
+    factsAdvanced: {
+      de: ["Umfang der Stadtmauer beträgt 734 Meter", "Sitz des Prince of Wales seit 1911", "Besitzt zwei prachtvolle Fallgitter-Tore", "Architekt war James of Saint George"],
+      hu: ["A várfal hossza összesen 734 méter", "A walesi herceg beiktatási helye 1911 óta", "Két monumentális csapórácsos kapuja van", "Építésze James of Saint George volt"],
+      ro: ["Circumferința zidurilor este de 734 metri", "Locul investiturii Prințului de Wales din 1911", "Include două porți monumentale cu hersă", "Arhitect: James of Saint George"],
+      en: ["Town wall circuit measures 734 meters", "Site of Prince of Wales investiture since 1911", "Features two grand gatehouses with portcullises", "Architect: Master James of Saint George"],
+    },
+    image: "/poi-images/uk-caernarfon-castle-history-v2.webp",
+},
   {
     id: "uk-blenheim-palace-history-v2",
     type: "palace",
-    name: { de: "Blenheim Palace", hu: "Blenheim-kastély", ro: "Palatul Blenheim", en: "Blenheim Palace" },
+    name: { de: "Blenheim Palace", hu: "Blenheim-kastély", ro: "Palatul Blenheim", en: "Blenheim Palace",
+image: "/poi-images/uk-blenheim-palace-history-v2.webp"
+},
     coords: [-1.361, 51.841],
     coordinates: { lat: 51.841, lng: -1.361 },
     description: {
@@ -365,11 +636,25 @@ export const ukHistoryV2: POI[] = [
       en: ["Birthplace of Winston Churchill (1874)", "Built between 1705 and 1722", "Only non-royal, non-episcopal palace in England", "Architect: Sir John Vanbrugh"],
     },
     imageHint: "Blenheim Palace Woodstock aerial view",
+    descriptionAdvanced: {
+      de: "Blenheim Palace ist das einzige private, nicht-königliche Wohnhaus in England, das den Titel Palast trägt. Es ist ein Meisterwerk des englischen Barock in den Cotswolds.",
+      hu: "Blenheim az egyetlen nem királyi magánrezidencia Angliában, amely viselheti a palota címet. Az angol barokk mesterműve a Cotswolds szélén fekszik.",
+      ro: "Palatul Blenheim este singura reședință privată non-regală din Anglia care poartă titlul de palat. Este o capodoperă a barocului englez din Cotswolds.",
+      en: "Blenheim Palace is the only private, non-royal residence in England to carry the title of Palace. It is a masterpiece of English Baroque architecture.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltkulturerbe seit dem Jahr 1987", "Zimmeranzahl: über 180 Räume", "Zentrum der Marlborough-Herzogsfamilie", "Park umfasst einen 16 Hektar großen See"],
+      hu: ["1987-ben lett az UNESCO Világörökség része", "Több mint 180 szobával rendelkezik", "A Marlborough hercegi család székhelye", "A parkban egy 16 hektáros tó található"],
+      ro: ["Patrimoniu Mondial UNESCO din anul 1987", "Conține peste 180 de camere", "Sediul familiei ducale de Marlborough", "Parcul include un lac de 16 hectare"],
+      en: ["UNESCO World Heritage site since 1987", "Contains over 180 individual rooms", "Seat of the Dukes of Marlborough", "The park features a 40-acre lake"],
+    },
   },
   {
     id: "uk-vindolanda-history-v2",
     type: "ruins",
-    name: { de: "Vindolanda", hu: "Vindolanda", ro: "Vindolanda", en: "Vindolanda" },
+    name: { de: "Vindolanda", hu: "Vindolanda", ro: "Vindolanda", en: "Vindolanda",
+image: "/poi-images/uk-vindolanda-history-v2.webp"
+},
     coords: [-2.36, 54.991],
     coordinates: { lat: 54.991, lng: -2.36 },
     description: {
@@ -384,11 +669,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Primul castru construit în jurul anului 85 d.Hr.", "Locul unde au fost găsite 'Tăblițele de la Vindolanda'", "A avut nouă faze diferite de ocupație", "Conține cele mai vechi scrisori cunoscute de la femei"],
       en: ["First fort built around 85 AD", "Site of the discovery of 'Vindolanda Tablets'", "Had nine different phases of occupation", "Contains the oldest known handwriting by a woman"],
     },
-    imageHint: "Vindolanda Roman fort archaeological ruins", image: "/poi-images/uk-vindolanda-history-v2.webp"},
-  {
+imageHint: "Vindolanda Roman fort archaeological ruins",
+    descriptionAdvanced: {
+      de: "Vindolanda liefert die besten schriftlichen Zeugnisse aus dem römischen Britannien. Die feuchten Bodenbedingungen konservierten hunderte Alltagsnotizen auf hauchdünnem Holz.",
+      hu: "Vindolanda szolgáltatja a legjobb írásos emlékeket a római Britanniáról. A nedves talaj több száz, vékony fára írt mindennapi feljegyzést konzervált az utókor számára.",
+      ro: "Vindolanda oferă cele mai bune dovezi scrise din Britania romană. Solul umed a conservat sute de note cotidiene scrise pe foițe de lemn subțiri.",
+      en: "Vindolanda provides the best written evidence from Roman Britain. The anaerobic soil conditions preserved hundreds of everyday notes written on thin wooden tablets.",
+    },
+    factsAdvanced: {
+      de: ["Älteste Schrifttafeln stammen von 90 n. Chr.", "Fundort der ersten römischen Einladung", "Besatzung bestand aus Hilfstruppen (Gallier)", "Ausgrabungen finden seit über 50 Jahren statt"],
+      hu: ["A legősibb táblák i.sz. 90-ből származnak", "Itt találták az első római meghívót", "A helyőrséget gall kisegítő csapatok adták", "Az ásatások több mint 50 éve folynak"],
+      ro: ["Cele mai vechi tăblițe datează din 90 d.Hr.", "Locul primei invitații romane descoperite", "Garnizoana era formată din auxiliari gali", "Săpăturile arheologice continuă de 50 de ani"],
+      en: ["Oldest tablets date back to 90 AD", "Site of the first known Roman invitation", "Garrisoned by Gallic auxiliary troops", "Excavations have continued for over 50 years"],
+    },
+    image: "/poi-images/uk-vindolanda-history-v2.webp",
+},  {
     id: "uk-bannockburn-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Bannockburn", hu: "Bannockburni csatatér", ro: "Câmpul de luptă Bannockburn", en: "Bannockburn Battlefield" },
+    name: { de: "Schlachtfeld von Bannockburn", hu: "Bannockburni csatatér", ro: "Câmpul de luptă Bannockburn", en: "Bannockburn Battlefield",
+image: "/poi-images/uk-bannockburn-battlefield-history-v2.webp"
+},
     coords: [-3.935, 56.091],
     coordinates: { lat: 56.091, lng: -3.935 },
     description: {
@@ -403,11 +703,26 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 23-24 iunie 1314", "A asigurat independența Scoției", "Statuie ecvestră de bronz a lui Robert the Bruce", "Punct de cotitură în Primul Război de Independență"],
       en: ["Battle dates: June 23–24, 1314", "Secured Scottish independence", "Features a bronze equestrian statue of Robert the Bruce", "Key turning point in the First War of Scottish Independence"],
     },
-    imageHint: "Bannockburn monument Robert the Bruce statue", image: "/poi-images/uk-bannockburn-battlefield-history-v2.webp"},
-  {
+imageHint: "Bannockburn monument Robert the Bruce statue",
+    descriptionAdvanced: {
+      de: "Bannockburn ist das Symbol für den schottischen Widerstand gegen die englische Krone. Der Sieg im Jahr 1314 ebnete den Weg für die Anerkennung Schottlands als souveräner Staat.",
+      hu: "Bannockburn az angol korona elleni skót ellenállás szimbóluma. Az 1314-es győzelem megnyitotta az utat Skócia szuverén államként való elismerése felé.",
+      ro: "Bannockburn este simbolul rezistenței scoțiene împotriva coroanei engleze. Victoria din 1314 a deschis calea recunoașterii Scoției ca stat suveran.",
+      en: "Bannockburn is the ultimate symbol of Scottish resistance against the English crown. The 1314 victory paved the way for Scotland's recognition as a sovereign state.",
+    },
+    factsAdvanced: {
+      de: ["Stirling Castle war das Ziel der Engländer", "Robert the Bruce besiegte Edward II.", "Denkmal umfasst die Borestone-Rotunde", "Gegend ist heute ein geschütztes Denkmal"],
+      hu: ["A vár felmentése volt az angolok célja", "Robert the Bruce legyőzte II. Eduárdot", "Az emlékmű magában foglalja a Borestone-t", "A terület ma védett történelmi helyszín"],
+      ro: ["Castelul Stirling era obiectivul englezilor", "Robert the Bruce l-a învins pe Eduard II", "Monumentul include rotunda Borestone", "Zona este acum un sit istoric protejat"],
+      en: ["Stirling Castle was the English objective", "Robert the Bruce defeated Edward II", "The monument includes the Borestone Rotunda", "The site is a protected scheduled monument"],
+    },
+    image: "/poi-images/uk-bannockburn-battlefield-history-v2.webp",
+},  {
     id: "uk-sutton-hoo-history-v2",
     type: "ruins",
-    name: { de: "Sutton Hoo", hu: "Sutton Hoo", ro: "Sutton Hoo", en: "Sutton Hoo" },
+    name: { de: "Sutton Hoo", hu: "Sutton Hoo", ro: "Sutton Hoo", en: "Sutton Hoo",
+image: "/poi-images/uk-sutton-hoo-history-v2.webp"
+},
     coords: [1.336, 52.091],
     coordinates: { lat: 52.091, lng: 1.336 },
     description: {
@@ -423,5 +738,17 @@ export const ukHistoryV2: POI[] = [
       en: ["Ship burial date: circa 625 AD", "Discovery site of the iconic Sutton Hoo helmet", "Likely burial site of King Rædwald", "Most significant Anglo-Saxon find in England"],
     },
     imageHint: "Sutton Hoo burial mounds landscape Suffolk",
+    descriptionAdvanced: {
+      de: "Sutton Hoo ist die bedeutendste angelsächsische Fundstätte Englands. Das prachtvolle Schiffsgrab zeugt von einer hoch entwickelten Kultur mit weitreichenden Handelskontakten.",
+      hu: "Sutton Hoo Anglia legjelentősebb angolszász lelőhelye. A pompás hajósír egy magas szintű kultúráról tanúskodik, amely kiterjedt kereskedelmi kapcsolatokkal rendelkezett.",
+      ro: "Sutton Hoo este cel mai important sit anglo-saxon din Anglia. Mormântul-navă fastuos atestă o cultură avansată, cu legături comerciale vaste.",
+      en: "Sutton Hoo is the most significant Anglo-Saxon site in England. The lavish ship burial reveals a sophisticated culture with extensive international trade links.",
+    },
+    factsAdvanced: {
+      de: ["Schiff war ursprünglich 27 Meter lang", "Skelett des Bestatteten wurde nie gefunden", "Beigaben enthielten Gold aus Byzanz", "Liegt auf einer Anhöhe über dem Fluss Deben"],
+      hu: ["A hajó eredetileg 27 méter hosszú volt", "A holttest maradványait sosem találták meg", "A leletek bizánci aranyat is tartalmaztak", "A Deben folyó feletti magaslaton fekszik"],
+      ro: ["Nava avea inițial o lungime de 27 de metri", "Nu s-au găsit rămășițe umane în mormânt", "Tezaurul includea aur din Bizanț", "Situat pe o înălțime deasupra râului Deben"],
+      en: ["The ship was originally 27 meters long", "No human remains were ever found inside", "Treasures included gold from Byzantium", "Sits on a ridge overlooking the River Deben"],
+    },
   }
 ];

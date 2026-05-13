@@ -10,8 +10,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Kawasaki",
       hu: "Kavaszaki",
       ro: "Kawasaki",
-      en: "Kawasaki"
-    },
+      en: "Kawasaki",
+image: "/poi-images/kawasaki-cities-v2.webp"
+},
     description: {
       de: "Kawasaki liegt zwischen Tokio und Yokohama und ist eine der am dichtesten besiedelten Industriestädte Japans. Die Stadt ist ein Zentrum für Hochtechnologie und berühmt für ihr Kanamara-Matsuri-Festival.",
       hu: "Kavaszaki Tokió és Jokohama között fekszik, és Japán egyik legsűrűbben lakott iparvárosa. A csúcstechnológiai vállalatok központja, és híres a tavaszi Kanamara Macuri fesztiválról.",
@@ -45,8 +46,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Saitama",
       hu: "Szaitama",
       ro: "Saitama",
-      en: "Saitama"
-    },
+      en: "Saitama",
+image: "/poi-images/saitama-cities-v2.webp"
+},
     description: {
       de: "Saitama ist die Hauptstadt der gleichnamigen Präfektur und ein wichtiger Verkehrsknotenpunkt nördlich von Tokio. Das Eisenbahnmuseum in Omiya und das moderne Saitama Super Arena Stadion prägen das Stadtbild.",
       hu: "Szaitama a hasonló nevű prefektúra fővárosa, és egy fontos közlekedési csomópont Tokiótól északra. Az omijai Vasúti Múzeum és a modern Saitama Super Arena stadion határozza meg a városképet.",
@@ -80,8 +82,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Chiba",
       hu: "Csiba",
       ro: "Chiba",
-      en: "Chiba"
-    },
+      en: "Chiba",
+image: "/poi-images/chiba-cities-v2.webp"
+},
     description: {
       de: "Chiba liegt an der Ostseite der Bucht von Tokio und ist berühmt für das Messezentrum Makuhari Messe. Die Stadt verfügt über die längste hängende Einschienenbahn der Welt, die das Stadtzentrum durchquert.",
       hu: "Csiba a Tokiói-öböl keleti oldalán fekszik, és a Makuhari Messe kiállítási központról ismert. A városban található a világ leghosszabb függő egysínű vasútja, amely átszeli a belvárost.",
@@ -115,8 +118,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Kitakyushu",
       hu: "Kitakjúsú",
       ro: "Kitakyushu",
-      en: "Kitakyushu"
-    },
+      en: "Kitakyushu",
+image: "/poi-images/kitakyushu-cities-v2.webp"
+},
     description: {
       de: "Kitakyushu ist die nördlichste Stadt auf der Insel Kyushu und war historisch ein wichtiges Zentrum der Stahlindustrie. Heute ist das Hafenviertel Mojiko Retro mit seinen gut erhaltenen Backsteingebäuden aus der Meiji-Zeit eine beliebte Sehenswürdigkeit.",
       hu: "Kitakjúsú a legészakibb város Kjúsú szigetén, és történelmileg az acélipar fontos központja volt. Ma a Mojiko Retro kikötői negyed a Meidzsi-korból származó, jól megőrzött téglaépületeivel népszerű látványosság.",
@@ -150,8 +154,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Niigata",
       hu: "Niigata",
       ro: "Niigata",
-      en: "Niigata"
-    },
+      en: "Niigata",
+image: "/poi-images/niigata-cities-v2.webp"
+},
     description: {
       de: "Niigata ist die größte Hafenstadt an der Küste des Japanischen Meeres in der Region Chubu. Die Gegend ist landesweit bekannt für den hochwertigen Koshihikari-Reis und die exzellenten Sake-Brauereien, die von den reinen Schneeschmelzwassern profitieren.",
       hu: "Niigata a legnagyobb kikötőváros a Japán-tenger partján a Csúbu régióban. A térség országszerte ismert a kiváló minőségű Kosihikari rizsről és a tiszta hóolvadékvizet használó szakéfőzdékről.",
@@ -185,8 +190,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Kumamoto",
       hu: "Kumamoto",
       ro: "Kumamoto",
-      en: "Kumamoto"
-    },
+      en: "Kumamoto",
+image: "/poi-images/kumamoto-cities-v2.webp"
+},
     description: {
       de: "Kumamoto ist eine historische Festungsstadt auf Kyushu, deren schwarze Burg zu den eindrucksvollsten Japans zählt. Neben dem Suizenji-Garten ist die Stadt auch für ihr Maskottchen Kumamon berühmt, das weltweit Bekanntheit erlangte.",
       hu: "Kumamoto történelmi erődváros Kjúsú szigetén, fekete kastélya Japán egyik leglenyűgözőbb építménye. A Szuizendzsi kert mellett a város híres kabalafigurájáról, Kumamonról is, aki világszerte ismertséget szerzett.",
@@ -220,8 +226,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Okayama",
       hu: "Okajama",
       ro: "Okayama",
-      en: "Okayama"
-    },
+      en: "Okayama",
+image: "/poi-images/okayama-cities-v2.webp"
+},
     description: {
       de: "Okayama wird wegen seines milden Klimas oft als das 'Land des Sonnenscheins' bezeichnet. Die Stadt beherbergt den Korakuen, einen der drei berühmtesten Landschaftsgärten Japans, der direkt neben der schwarzen Krähenburg liegt.",
       hu: "Okajamát enyhe éghajlata miatt gyakran a 'Napfény földjének' is nevezik. A városban található a Korakuen, Japán három leghíresebb tájkertjének egyike, amely közvetlenül a fekete Varjúvár mellett fekszik.",
@@ -255,8 +262,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Kagoshima",
       hu: "Kagosima",
       ro: "Kagoshima",
-      en: "Kagoshima"
-    },
+      en: "Kagoshima",
+image: "/poi-images/kagoshima-cities-v2.webp"
+},
     description: {
       de: "Aufgrund des warmen Klimas und der Lage an einer weiten Bucht wird Kagoshima oft als das 'Neapel des Ostens' bezeichnet. Das Stadtbild wird vom Sakurajima dominiert, einem sehr aktiven Vulkan, der regelmäßig Aschewolken ausstößt.",
       hu: "Meleg éghajlata és a széles öböl menti fekvése miatt Kagosimát gyakran a 'Kelet Nápolyának' nevezik. A városképet a Szakuradzsima uralja, egy rendkívül aktív vulkán, amely rendszeresen hamufelhőket bocsát ki.",
@@ -290,8 +298,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Himeji",
       hu: "Himedzsi",
       ro: "Himeji",
-      en: "Himeji"
-    },
+      en: "Himeji",
+image: "/poi-images/himeji-cities-v2.webp"
+},
     description: {
       de: "Himeji in der Präfektur Hyogo ist vor allem für seine strahlend weiße Burg Himeji bekannt, die zum UNESCO-Weltkulturerbe gehört. Sie ist die größte und am besten erhaltene feudale Festung des Landes und wird wegen ihrer Eleganz 'Burg des weißen Reihers' genannt.",
       hu: "A Hjógó prefektúrában található Himedzsi elsősorban a hófehér Himedzsi kastélyról ismert, amely az UNESCO világörökség része. Ez az ország legnagyobb és legépebben fennmaradt hűbéri erődje, melyet 'Fehér Kócsag' kastélynak is neveznek.",
@@ -325,8 +334,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Matsuyama",
       hu: "Macujama",
       ro: "Matsuyama",
-      en: "Matsuyama"
-    },
+      en: "Matsuyama",
+image: "/poi-images/matsuyama-cities-v2.webp"
+},
     description: {
       de: "Matsuyama ist die größte Stadt auf der Insel Shikoku und berühmt für das Dogo Onsen, eines der ältesten Thermalbäder Japans. Die ursprüngliche Burganlage der Stadt thront auf einem Hügel und dominiert das Stadtbild.",
       hu: "Macujama Sikoku szigetének legnagyobb városa, és a Dogo Onsenről ismert, amely Japán egyik legrégebbi termálfürdője. A város eredeti állapotban megőrzött kastélya egy dombon áll, és uralja a városképet.",
@@ -360,8 +370,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Utsunomiya",
       hu: "Ucunomija",
       ro: "Utsunomiya",
-      en: "Utsunomiya"
-    },
+      en: "Utsunomiya",
+image: "/poi-images/utsunomiya-cities-v2.webp"
+},
     description: {
       de: "Utsunomiya liegt in der Präfektur Tochigi und gilt in ganz Japan als die Stadt der Gyoza. Neben der berühmten Teigtaschenkultur beherbergt die Gegend die Oya-Steinbrüche, deren gewaltige unterirdische Höhlen für Kunstausstellungen und Filme genutzt werden.",
       hu: "Ucunomija Tocsigi prefektúrában található, és Japán-szerte a gjoza városaként ismert. A híres húsos táska kultúrája mellett a környéken találhatók az Oja kőbányák, amelyek hatalmas föld alatti barlangjait kiállításokhoz és filmekhez használják.",
@@ -395,8 +406,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Oita",
       hu: "Óita",
       ro: "Oita",
-      en: "Oita"
-    },
+      en: "Oita",
+image: "/poi-images/oita-cities-v2.webp"
+},
     description: {
       de: "Oita ist eine Küstenstadt auf Kyushu und das Tor zu den berühmten Thermalquellen von Beppu und Yufuin. Die Stadt kombiniert moderne Hafenindustrie mit dem Zugang zu einigen der beeindruckendsten Berglandschaften der Insel, wie dem Affenpark am Berg Takasaki.",
       hu: "Óita egy parti város Kjúsú szigetén, amely kapuként szolgál Beppu és Jufuin híres hőforrásaihoz. A város ötvözi a modern kikötői ipart a sziget leglátványosabb hegyvidékeivel, mint például a Takaszaki-hegyi majompark.",
@@ -430,8 +442,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Nagasaki",
       hu: "Nagaszaki",
       ro: "Nagasaki",
-      en: "Nagasaki"
-    },
+      en: "Nagasaki",
+image: "/poi-images/nagasaki-cities-v2.webp"
+},
     description: {
       de: "Nagasaki hat eine einzigartige Geschichte, da es während der Isolation Japans der einzige für den Westen geöffnete Hafen war. Die steilen Hügel, katholischen Kirchen wie Oura und der Friedenspark, der an den Atombombenabwurf 1945 erinnert, verleihen der Stadt ein vielschichtiges Profil.",
       hu: "Nagaszaki egyedülálló történelemmel bír, mivel Japán elszigeteltsége idején ez volt az egyetlen nyitott kikötő a Nyugat felé. A meredek dombok, az Oura-hoz hasonló katolikus templomok és az 1945-ös atomtámadásra emlékeztető Békepark összetett profilt kölcsönöznek a városnak.",
@@ -465,8 +478,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Kanazawa",
       hu: "Kanazava",
       ro: "Kanazawa",
-      en: "Kanazawa"
-    },
+      en: "Kanazawa",
+image: "/poi-images/kanazawa-cities-v2.webp"
+},
     description: {
       de: "Kanazawa in der Präfektur Ishikawa entging den Zerstörungen des Zweiten Weltkriegs und bewahrt historische Geisha- und Samurai-Viertel. Das Zentrum der Stadt bildet der Kenrokuen, einer der schönsten traditionellen Wandelgärten Japans, zusammen mit dem Museum für zeitgenössische Kunst des 21. Jahrhunderts.",
       hu: "Az Isikava prefektúrában található Kanazava megmenekült a második világháború pusztításaitól, így megőrizte történelmi gésa- és szamurájnegyedeit. A város központja a Kenrokuen, Japán egyik legszebb hagyományos sétakertje, valamint a 21. századi kortárs művészeti múzeum.",
@@ -500,8 +514,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Takamatsu",
       hu: "Takamacu",
       ro: "Takamatsu",
-      en: "Takamatsu"
-    },
+      en: "Takamatsu",
+image: "/poi-images/takamatsu-cities-v2.webp"
+},
     description: {
       de: "Takamatsu ist das wichtigste Tor zur Insel Shikoku am Seto-Binnenmeer. Die Küstenstadt ist vor allem für den weitläufigen Ritsurin-Garten bekannt, einen historischen Wandelgarten, der geschickt die bewaldeten Berge im Hintergrund in seine Gestaltung einbezieht.",
       hu: "Takamacu a Szeto-beltengeren fekvő Sikoku szigetének legfőbb kapuja. A tengerparti város leginkább a hatalmas Ricurin-kertről ismert, egy történelmi sétakertről, amely ügyesen bevonja a háttérben lévő erdős hegyeket a tervezésébe.",
@@ -535,8 +550,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Toyama",
       hu: "Tojama",
       ro: "Toyama",
-      en: "Toyama"
-    },
+      en: "Toyama",
+image: "/poi-images/toyama-cities-v2.webp"
+},
     description: {
       de: "Toyama liegt an der gleichnamigen Bucht und ist der Ausgangspunkt für die spektakuläre Tateyama Kurobe Alpenroute, die tief durch das Hida-Gebirge führt. Die Stadt selbst hat eine lange Tradition in der Pharmazie und ist heute auch als Zentrum für moderne Glaskunst bekannt.",
       hu: "Tojama az azonos nevű öböl partján fekszik, és a Hida-hegységen átvezető látványos Tatejama Kurobe alpesi útvonal kiindulópontja. Maga a város hosszú gyógyszerészeti hagyományokkal rendelkezik, ma pedig a modern üvegművészet központjaként is ismert.",
@@ -570,8 +586,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Wakayama",
       hu: "Vakajama",
       ro: "Wakayama",
-      en: "Wakayama"
-    },
+      en: "Wakayama",
+image: "/poi-images/wakayama-cities-v2.webp"
+},
     description: {
       de: "Südlich von Osaka gelegen, war Wakayama einst der Sitz eines der wichtigsten Zweige der Tokugawa-Familie. Die rekonstruierte Burg Wakayama steht im Zentrum der Stadt, die heute vor allem für ihre intensive, sojabasierten Ramen und als Ausgangspunkt für Reisen zum Berg Koya bekannt ist.",
       hu: "Az Oszakától délre fekvő Vakajama egykor a Tokugava-család egyik legfontosabb ágának székhelye volt. A város központjában a rekonstruált Vakajama-kastély áll; ma leginkább az intenzív, szójaalapú ramenjéről és a Kója-hegy felé induló utazások kiindulópontjaként ismert.",
@@ -605,8 +622,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Miyazaki",
       hu: "Mijazaki",
       ro: "Miyazaki",
-      en: "Miyazaki"
-    },
+      en: "Miyazaki",
+image: "/poi-images/miyazaki-cities-v2.webp"
+},
     description: {
       de: "Miyazaki liegt an der sonnigen Südostküste von Kyushu und ist berühmt für sein subtropisches Klima und von Palmen gesäumte Straßen. Die nahe gelegene Aoshima-Insel mit ihrem Schrein und dem Felsphänomen der 'Waschbretter des Teufels' zieht viele Besucher und Surfer an.",
       hu: "Mijazaki Kjúsú napos délkeleti partján fekszik, híres szubtrópusi éghajlatáról és pálmafákkal szegélyezett utcáiról. A közeli Aosima szigete, annak szentélye és az 'Ördög mosódeszkája' sziklaalakzatok sok látogatót és szörföst vonzanak.",
@@ -640,8 +658,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Nagano",
       hu: "Nagano",
       ro: "Nagano",
-      en: "Nagano"
-    },
+      en: "Nagano",
+image: "/poi-images/nagano-cities-v2.webp"
+},
     description: {
       de: "Nagano entwickelte sich historisch als Tempelstadt rund um den Zenko-ji, einen der wichtigsten und ältesten buddhistischen Tempel Japans. Globale Bekanntheit erlangte die Stadt in den Bergen als Austragungsort der Olympischen Winterspiele 1998, wodurch sie heute ein Paradies für Wintersportler ist.",
       hu: "Nagano történelmileg a Zenkó-dzsi, Japán egyik legfontosabb és legrégebbi buddhista temploma körüli településként fejlődött ki. A hegyvidéki város az 1998-as téli olimpiai játékok helyszíneként szerzett világhírnevet, így ma a téli sportok szerelmeseinek paradicsoma.",
@@ -675,8 +694,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Gifu",
       hu: "Gifu",
       ro: "Gifu",
-      en: "Gifu"
-    },
+      en: "Gifu",
+image: "/poi-images/gifu-cities-v2.webp"
+},
     description: {
       de: "Gifu liegt zentral im Land und wird von dem Kinka-Berg überragt, auf dem die Burg Gifu thront, von der aus Oda Nobunaga einst seine Feldzüge plante. Die Stadt ist zudem berühmt für die Ukai, die traditionelle Kormoranfischerei auf dem klaren Nagara-Fluss, die im Sommer stattfindet.",
       hu: "A központi fekvésű Gifut a Kinka-hegy uralja, amelyen a Gifu-kastély magasodik, ahonnan egykor Oda Nobunaga tervezte hadjáratait. A város emellett híres az ukairól, a tiszta Nagara-folyón nyaranta megrendezett hagyományos kormorános halászatról.",
@@ -710,8 +730,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Fukui",
       hu: "Fukui",
       ro: "Fukui",
-      en: "Fukui"
-    },
+      en: "Fukui",
+image: "/poi-images/fukui-cities-v2.webp"
+},
     description: {
       de: "Fukui an der Westküste ist historisch bedeutsam durch die Ausgrabungsstätte des Asakura-Clans aus der Sengoku-Zeit. In der modernen Zeit ist die Stadt vor allem durch das nahe gelegene Präfekturmuseum für Dinosaurier berühmt, eine der weltweit führenden paläontologischen Einrichtungen.",
       hu: "A nyugati parton fekvő Fukui történelmi jelentőségű a Szengoku-kori Aszakura-klán ásatási területe révén. A modern időkben a város leginkább a közeli prefekturális Dinoszaurusz Múzeumról ismert, amely a világ egyik vezető őslénytani intézménye.",
@@ -745,8 +766,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Aomori",
       hu: "Aomori",
       ro: "Aomori",
-      en: "Aomori"
-    },
+      en: "Aomori",
+image: "/poi-images/aomori-cities-v2.webp"
+},
     description: {
       de: "Aomori liegt an der nördlichsten Spitze von Honshu und ist das kulturelle Zentrum der Tohoku-Region. Die Hafenstadt ist international bekannt für das leuchtende Nebuta-Matsuri-Festival im August und ihre hervorragenden Äpfel, die landesweit exportiert werden.",
       hu: "Aomori Honsú legészakibb csücskén fekszik, és a Tóhoku régió kulturális központja. A kikötőváros nemzetközileg ismert az augusztusi látványos Nebuta Macuri fesztiválról és az országszerte exportált kiváló almájáról.",
@@ -780,8 +802,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Akita",
       hu: "Akita",
       ro: "Akita",
-      en: "Akita"
-    },
+      en: "Akita",
+image: "/poi-images/akita-cities-v2.webp"
+},
     description: {
       de: "Akita an der Westküste von Tohoku ist eingebettet in eine Landschaft aus Reisfeldern und bewaldeten Bergen. Die Stadt ist stolz auf das Kanto-Matsuri, bei dem riesige Laternenstangen balanciert werden, sowie auf die berühmte japanische Hunderasse, die ihren Namen trägt.",
       hu: "A Tóhoku nyugati partján fekvő Akita rizsföldekkel és erdős hegyekkel övezett tájban fekszik. A város büszke a Kanto Macuri fesztiválra, ahol hatalmas lámpásrudakat egyensúlyoznak, valamint a híres japán kutyafajtára, amely a város nevét viseli.",
@@ -815,8 +838,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Morioka",
       hu: "Morioka",
       ro: "Morioka",
-      en: "Morioka"
-    },
+      en: "Morioka",
+image: "/poi-images/morioka-cities-v2.webp"
+},
     description: {
       de: "Morioka liegt in einem weiten Tal, das vom vulkanischen Berg Iwate überragt wird. Die Stadt im Norden Honshus ist ein architektonischer Mix aus alten Samurai-Häusern und Gebäuden der Meiji-Ära, aber ihre größte Berühmtheit verdankt sie ihren drei charakteristischen Nudelgerichten.",
       hu: "Morioka egy széles völgyben fekszik, amelyet az Ivate hegy ural. Az észak-honsúi város a régi szamurájházak és a Meidzsi-kori épületek építészeti keveréke, de leginkább három jellegzetes tésztaételéről híres.",
@@ -850,8 +874,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Yamagata",
       hu: "Jamagata",
       ro: "Yamagata",
-      en: "Yamagata"
-    },
+      en: "Yamagata",
+image: "/poi-images/yamagata-cities-v2.webp"
+},
     description: {
       de: "Umgeben von majestätischen Bergen ist Yamagata eine Basis für Naturliebhaber und Onsen-Besucher. Nur eine kurze Fahrt entfernt liegt das Bergkloster Yamadera und das Zao-Gebirge, das im Winter für seine kuriosen vereisten Bäume ('Schneemonster') berühmt ist.",
       hu: "A fenséges hegyekkel körülvett Jamagata a természetkedvelők és az onsenek látogatóinak központja. Csak egy rövid útra található a Jamadera hegyi kolostor és a Zaó-hegység, amely télen a különös jéggel borított fáiról ('hószörnyek') híres.",
@@ -885,8 +910,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Fukushima",
       hu: "Fukusima",
       ro: "Fukushima",
-      en: "Fukushima"
-    },
+      en: "Fukushima",
+image: "/poi-images/fukushima-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt der gleichnamigen Präfektur ist umgeben von tiefen Wäldern und heißen Quellen wie dem Iizaka Onsen. Im Frühling erblüht der Hanamiyama-Park in spektakulären Farben, was die Stadt, die weitab der Küste liegt, zu einem Symbol der landwirtschaftlichen und kulturellen Resilienz macht.",
       hu: "Az azonos nevű prefektúra fővárosát sűrű erdők és hőforrások veszik körül, mint például az Iizaka Onsen. Tavasszal a Hanamijama park látványos színekben pompázik, ami a parttól távol fekvő várost a mezőgazdasági és kulturális rugalmasság szimbólumává teszi.",
@@ -920,8 +946,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Mito",
       hu: "Mito",
       ro: "Mito",
-      en: "Mito"
-    },
+      en: "Mito",
+image: "/poi-images/mito-cities-v2.webp"
+},
     description: {
       de: "Mito ist die historische Machtbasis des Mito-Zweiges der Tokugawa-Familie. Die Hauptattraktion der Stadt ist der Kairakuen, der für seine weitläufigen Pflaumenblütenhaine bekannt ist und als einer der drei großen Landschaftsgärten Japans gilt.",
       hu: "Mito a Tokugava-család mitói ágának történelmi bázisa. A város fő látványossága a Kairakuen, amely hatalmas szilvavirág ligeteiről ismert, és Japán három nagy tájkertjének egyikeként tartják számon.",
@@ -955,8 +982,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Nara",
       hu: "Nara",
       ro: "Nara",
-      en: "Nara"
-    },
+      en: "Nara",
+image: "/poi-images/nara-cities-v2.webp"
+},
     description: {
       de: "Vor Kyoto war Nara im 8. Jahrhundert die erste dauerhafte Hauptstadt Japans. Der Nara-Park ist weltberühmt für seine hunderten frei herumlaufenden Sika-Hirsche sowie für den Todai-ji-Tempel, dessen Haupthalle die massive Bronzestatue des Großen Buddha beherbergt.",
       hu: "Kiotó előtt Nara volt Japán első állandó fővárosa a 8. században. A Nara Park világhírű az ott szabadon kószáló több száz szikaszarvasról, valamint a Tódai-dzsi templomról, amelynek főcsarnokában áll a Nagy Buddha hatalmas bronzszobra.",
@@ -990,8 +1018,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Kochi",
       hu: "Kócsi",
       ro: "Kochi",
-      en: "Kochi"
-    },
+      en: "Kochi",
+image: "/poi-images/kochi-cities-v2.webp"
+},
     description: {
       de: "Abgeschirmt durch tiefe Berge im Süden von Shikoku, hat Kochi eine unabhängige, lebhafte Kultur entwickelt. Das unberührte Originalschloss der Stadt und der Strand von Katsurahama sind Ikonen der Region, die auch für das energiegeladene Yosakoi-Sommerfestival bekannt ist.",
       hu: "A Sikoku déli részén lévő mély hegyek által elszigetelt Kócsi független, élénk kultúrát fejlesztett ki. A város érintetlen eredeti kastélya és a Kacurahama strand a régió ikonjai, amely az energikus Juszakoj nyári fesztiválról is ismert.",
@@ -1025,8 +1054,9 @@ export const poiExtraJapanCitiesV2: POI[] = [
       de: "Naha",
       hu: "Naha",
       ro: "Naha",
-      en: "Naha"
-    },
+      en: "Naha",
+image: "/poi-images/naha-cities-v2.webp"
+},
     description: {
       de: "Als politisches und kommerzielles Zentrum von Okinawa spiegelt Naha das reiche Erbe des Ryukyu-Königreichs wider. Die belebte Kokusai-Dori ('Internationale Straße') und das historische, wenn auch durch Brände beschädigte Shuri-Schloss sind die zentralen kulturellen Ankerpunkte der tropischen Stadt.",
       hu: "Okinava politikai és kereskedelmi központjaként Naha a Rjúkjú Királyság gazdag örökségét tükrözi. A nyüzsgő Kokuszai Dori ('Nemzetközi Utca') és a történelmi, bár tűzvészek által megrongálódott Szuri kastély a trópusi város központi kulturális támpontjai.",

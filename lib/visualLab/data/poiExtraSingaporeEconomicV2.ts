@@ -12,8 +12,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Petrochemie-Zentrum Jurong-Insel",
       hu: "Jurong-szigeti Petrolkémiai Központ",
       ro: "Centrul Petrochimic Insula Jurong",
-      en: "Jurong Island Petrochemical Hub"
-    },
+      en: "Jurong Island Petrochemical Hub",
+image: "/poi-images/jurong-island-petrochemical-hub-economic-v2.webp"
+},
     description: {
       de: "Ein künstlich geschaffenes Industriegebiet, das das Herzstück der singapurischen Chemie- und Energieindustrie bildet.",
       hu: "Egy mesterségesen létrehozott ipari terület, amely Szingapúr vegyipari és energiaiparának központja.",
@@ -48,8 +49,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Hafen von Singapur",
       hu: "Szingapúri Kikötő",
       ro: "Portul Singapore",
-      en: "Port of Singapore"
-    },
+      en: "Port of Singapore",
+image: "/poi-images/port-of-singapore-economic-v2.webp"
+},
     description: {
       de: "Einer der verkehrsreichsten Häfen der Welt, der für seine Effizienz und Konnektivität bekannt ist und eine entscheidende Rolle im globalen Seehandel spielt.",
       hu: "A világ egyik legforgalmasabb kikötője, amely hatékonyságáról és összeköttetéseiről ismert, és kulcsfontosságú szerepet játszik a globális tengeri kereskedelemben.",
@@ -84,8 +86,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Marina Bay Finanzzentrum",
       hu: "Marina Bay Pénzügyi Központ",
       ro: "Centrul Financiar Marina Bay",
-      en: "Marina Bay Financial Centre"
-    },
+      en: "Marina Bay Financial Centre",
+image: "/poi-images/marina-bay-financial-centre-economic-v2.webp"
+},
     description: {
       de: "Ein prestigeträchtiges Geschäftsviertel, das multinationale Banken, Finanzinstitute und große Unternehmen beherbergt.",
       hu: "Egy presztízsértékű üzleti negyed, amely multinacionális bankoknak, pénzügyi intézményeknek és nagyvállalatoknak ad otthont.",
@@ -120,8 +123,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Tuas Biomedical Park",
       hu: "Tuas Orvosbiológiai Park",
       ro: "Parcul Biomedical Tuas",
-      en: "Tuas Biomedical Park"
-    },
+      en: "Tuas Biomedical Park",
+image: "/poi-images/tuas-biomedical-park-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Industriepark, der sich auf die biomedizinische Fertigung konzentriert und führende Pharma- und Biotechnologieunternehmen anzieht.",
       hu: "Egy specializált ipari park, amely az orvosbiológiai gyártásra összpontosít, és vonzza a vezető gyógyszeripari és biotechnológiai vállalatokat.",
@@ -156,8 +160,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Sembcorp Marine Werft Tuas Boulevard",
       hu: "Sembcorp Marine Tuas Boulevard Hajógyár",
       ro: "Șantierul Naval Sembcorp Marine Tuas Boulevard",
-      en: "Sembcorp Marine Tuas Boulevard Yard"
-    },
+      en: "Sembcorp Marine Tuas Boulevard Yard",
+image: "/poi-images/sembcorp-marine-tuas-boulevard-yard-economic-v2.webp"
+},
     description: {
       de: "Eine hochmoderne Werft, die Offshore-Plattformen, Spezialschiffe und Schiffsreparaturen anbietet und ein wichtiger Akteur in der globalen maritimen Industrie ist.",
       hu: "Egy csúcstechnológiás hajógyár, amely tengeri platformokat, speciális hajókat és hajójavítási szolgáltatásokat kínál, és a globális tengeri ipar egyik kulcsszereplője.",
@@ -192,8 +197,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Changi Business Park",
       hu: "Changi Üzleti Park",
       ro: "Parcul de Afaceri Changi",
-      en: "Changi Business Park"
-    },
+      en: "Changi Business Park",
+image: "/poi-images/changi-business-park-economic-v2.webp"
+},
     description: {
       de: "Ein großes Geschäftszentrum, das Technologieunternehmen, Forschungs- und Entwicklungsabteilungen sowie Finanzdienstleister beherbergt.",
       hu: "Egy nagy üzleti központ, amely technológiai vállalatoknak, kutatási és fejlesztési részlegeknek, valamint pénzügyi szolgáltatóknak ad otthont.",
@@ -228,8 +234,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Börse Singapur (SGX)",
       hu: "Szingapúri Tőzsde (SGX)",
       ro: "Bursa din Singapore (SGX)",
-      en: "Singapore Exchange (SGX)"
-    },
+      en: "Singapore Exchange (SGX)",
+image: "/poi-images/singapore-exchange-sgx-economic-v2.webp"
+},
     description: {
       de: "Asiens führende internationale Multi-Asset-Börse, die Aktien-, Anleihen- und Derivatehandel anbietet.",
       hu: "Ázsia vezető nemzetközi, több eszközosztályt kezelő tőzsdéje, amely részvény-, kötvény- és származtatott termékek kereskedelmét kínálja.",
@@ -264,8 +271,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Tuas Kraftwerk",
       hu: "Tuas Erőmű",
       ro: "Centrala Electrică Tuas",
-      en: "Tuas Power Station"
-    },
+      en: "Tuas Power Station",
+image: "/poi-images/tuas-power-station-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Kraftwerke in Singapur, das eine entscheidende Rolle bei der Gewährleistung einer stabilen Stromversorgung für das Land spielt.",
       hu: "Szingapúr egyik legnagyobb erőműve, amely kulcsfontosságú szerepet játszik az ország stabil áramellátásának biztosításában.",
@@ -300,8 +308,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Keppel Werft",
       hu: "Keppel Hajógyár",
       ro: "Șantierul Naval Keppel",
-      en: "Keppel Shipyard"
-    },
+      en: "Keppel Shipyard",
+image: "/poi-images/keppel-shipyard-economic-v2.webp"
+},
     description: {
       de: "Eine der weltweit führenden Werften für Schiffsreparatur, -umrüstung und -umbau, bekannt für ihre Zuverlässigkeit und ihren schnellen Service.",
       hu: "A világ egyik vezető hajógyára a hajójavítás, -átalakítás és -átépítés területén, amely megbízhatóságáról és gyors szolgáltatásairól ismert.",
@@ -336,8 +345,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "one-north Business Park",
       hu: "one-north Üzleti Park",
       ro: "Parcul de Afaceri one-north",
-      en: "one-north Business Park"
-    },
+      en: "one-north Business Park",
+image: "/poi-images/one-north-business-park-economic-v2.webp"
+},
     description: {
       de: "Ein pulsierendes Forschungs- und Geschäftszentrum, das sich auf Schlüsselindustrien wie Biomedizin, Infocomm-Technologie und Medien konzentriert.",
       hu: "Egy pezsgő kutatási és üzleti központ, amely olyan kulcsfontosságú iparágakra összpontosít, mint a biomedicina, az infokommunikációs technológia és a média.",
@@ -372,8 +382,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Der Singapur Freeport",
       hu: "A Szingapúri Szabadkikötő",
       ro: "Portul Liber Singapore",
-      en: "The Singapore Freeport"
-    },
+      en: "The Singapore Freeport",
+image: "/poi-images/singapore-freeport-economic-v2.webp"
+},
     description: {
       de: "Eine Hochsicherheits-Lagereinrichtung für wertvolle Güter wie Kunst, Edelmetalle und Wein, die steuerliche Vorteile bietet.",
       hu: "Egy magas biztonságú tároló létesítmény értékes javak, például műalkotások, nemesfémek és bor számára, amely adózási előnyöket kínál.",
@@ -395,8 +406,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Senoko Kraftwerk",
       hu: "Senoko Erőmű",
       ro: "Centrala Electrică Senoko",
-      en: "Senoko Power Station"
-    },
+      en: "Senoko Power Station",
+image: "/poi-images/senoko-power-station-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Stromerzeuger in Singapur, der einen erheblichen Teil des Strombedarfs des Landes deckt.",
       hu: "Szingapúr egyik fontos áramtermelője, amely az ország villamosenergia-szükségletének jelentős részét fedezi.",
@@ -418,8 +430,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Seletar Aerospace Park",
       hu: "Seletar Repülőgépipari Park",
       ro: "Parcul Aerospațial Seletar",
-      en: "Seletar Aerospace Park"
-    },
+      en: "Seletar Aerospace Park",
+image: "/poi-images/seletar-aerospace-park-economic-v2.webp"
+},
     description: {
       de: "Ein integriertes Luft- und Raumfahrtzentrum, das Flugzeugwartung, -reparatur und -überholung (MRO) sowie Forschung und Entwicklung beherbergt.",
       hu: "Egy integrált repülőgépipari központ, amely repülőgép-karbantartásnak, -javításnak és -nagyjavításnak (MRO), valamint kutatásnak és fejlesztésnek ad otthont.",
@@ -441,8 +454,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Pasir Panjang Terminal",
       hu: "Pasir Panjang Terminál",
       ro: "Terminalul Pasir Panjang",
-      en: "Pasir Panjang Terminal"
-    },
+      en: "Pasir Panjang Terminal",
+image: "/poi-images/pasir-panjang-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein fortschrittlicher Containerterminal innerhalb des Hafens von Singapur, der für seine automatisierten Technologien und hohe Effizienz bekannt ist.",
       hu: "Egy fejlett konténerterminál a szingapúri kikötőn belül, amely automatizált technológiáiról és nagy hatékonyságáról ismert.",
@@ -464,8 +478,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Micron Halbleiterfabrik",
       hu: "Micron Félvezetőgyár",
       ro: "Fabrica de Semiconductori Micron",
-      en: "Micron Semiconductor Fab"
-    },
+      en: "Micron Semiconductor Fab",
+image: "/poi-images/micron-semiconductor-fab-economic-v2.webp"
+},
     description: {
       de: "Eine der größten und fortschrittlichsten Halbleiterfabriken in Singapur, die Speicherchips für den globalen Markt herstellt.",
       hu: "Szingapúr egyik legnagyobb és legfejlettebb félvezetőgyára, amely memóriachipeket gyárt a globális piacra.",
@@ -487,8 +502,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Singapur LNG-Terminal",
       hu: "Szingapúri LNG Terminál",
       ro: "Terminalul GNL Singapore",
-      en: "Singapore LNG Terminal"
-    },
+      en: "Singapore LNG Terminal",
+image: "/poi-images/singapore-lng-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein Terminal für verflüssigtes Erdgas (LNG), das die Energiesicherheit Singapurs durch die Diversifizierung der Gasquellen erhöht.",
       hu: "Egy cseppfolyósított földgáz (LNG) terminál, amely Szingapúr energiabiztonságát növeli a gázforrások diverzifikálásával.",
@@ -510,8 +526,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Google Rechenzentrum Jurong West",
       hu: "Google Adatközpont Jurong West",
       ro: "Centrul de Date Google Jurong West",
-      en: "Google Data Center Jurong West"
-    },
+      en: "Google Data Center Jurong West",
+image: "/poi-images/google-data-center-jurong-west-economic-v2.webp"
+},
     description: {
       de: "Eines der Rechenzentren von Google in Südostasien, das die digitalen Dienste der Region antreibt und ein wichtiger Teil der globalen Cloud-Infrastruktur ist.",
       hu: "A Google egyik délkelet-ázsiai adatközpontja, amely a régió digitális szolgáltatásait működteti, és a globális felhőinfrastruktúra fontos része.",
@@ -533,8 +550,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Raffles Place",
       hu: "Raffles Place",
       ro: "Raffles Place",
-      en: "Raffles Place"
-    },
+      en: "Raffles Place",
+image: "/poi-images/raffles-place-economic-v2.webp"
+},
     description: {
       de: "Das historische Herz des Finanzdistrikts von Singapur, Heimat vieler Banken, Versicherungsgesellschaften und Anwaltskanzleien.",
       hu: "Szingapúr pénzügyi negyedének történelmi szíve, számos banknak, biztosítótársaságnak és ügyvédi irodának ad otthont.",
@@ -556,8 +574,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Tuas Mega-Hafen",
       hu: "Tuas Mega Kikötő",
       ro: "Mega Portul Tuas",
-      en: "Tuas Mega Port"
-    },
+      en: "Tuas Mega Port",
+image: "/poi-images/tuas-mega-port-economic-v2.webp"
+},
     description: {
       de: "Ein in Entwicklung befindlicher massiver Hafen, der alle Containeraktivitäten Singapurs an einem Ort konsolidieren wird und der größte vollautomatische Terminal der Welt sein wird.",
       hu: "Egy fejlesztés alatt álló hatalmas kikötő, amely Szingapúr összes konténertevékenységét egy helyen fogja összevonni, és a világ legnagyobb teljesen automatizált terminálja lesz.",
@@ -579,8 +598,9 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: "Shell Bukom Raffinerie",
       hu: "Shell Bukom Finomító",
       ro: "Rafinăria Shell Bukom",
-      en: "Shell Bukom Refinery"
-    },
+      en: "Shell Bukom Refinery",
+image: "/poi-images/shell-bukom-refinery-economic-v2.webp"
+},
     description: {
       de: "Die größte und älteste Raffinerie von Shell in Asien, ein integrierter Öl- und Petrochemie-Standort auf der Insel Pulau Bukom.",
       hu: "A Shell legnagyobb és legrégebbi finomítója Ázsiában, egy integrált olaj- és petrolkémiai komplexum a Pulau Bukom szigeten.",

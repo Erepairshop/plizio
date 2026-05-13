@@ -7,7 +7,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-SP",
     coords: [-46.2952, -23.9619],
-    name: { en: "Port of Santos", de: "Hafen von Santos", hu: "Santos kikötője", ro: "Portul Santos" },
+    name: { en: "Port of Santos", de: "Hafen von Santos", hu: "Santos kikötője", ro: "Portul Santos",
+image: "/poi-images/santos-port-economic-v2.webp"
+},
     description: {
       en: "The Port of Santos is the largest and busiest container port in South America.",
       de: "Der Hafen von Santos ist der wichtigste Seehafen Brasiliens und ein zentraler Umschlagplatz für Exportgüter. Er verbindet die industrielle Herzregion von São Paulo mit internationalen Marken.",
@@ -37,7 +39,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-PR",
     coords: [-48.5086, -25.5033],
-    name: { en: "Port of Paranaguá", de: "Hafen von Paranaguá", hu: "Paranaguá kikötője", ro: "Portul Paranaguá" },
+    name: { en: "Port of Paranaguá", de: "Hafen von Paranaguá", hu: "Paranaguá kikötője", ro: "Portul Paranaguá",
+image: "/poi-images/paranagua-port-economic-v2.webp"
+},
     description: {
       en: "Paranaguá is one of the most important ports in Brazil for agricultural exports.",
       de: "Der Hafen von Paranaguá gehört zu den wichtigsten Exporthäfen für Agrarprodukte in Brasilien. Vor allem Soja, Mais und andere Massengüter aus dem Süden werden hier abgefertigt.",
@@ -67,7 +71,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-RS",
     coords: [-52.0911, -32.0333],
-    name: { en: "Port of Rio Grande", de: "Hafen von Rio Grande", hu: "Rio Grande kikötője", ro: "Portul Rio Grande" },
+    name: { en: "Port of Rio Grande", de: "Hafen von Rio Grande", hu: "Rio Grande kikötője", ro: "Portul Rio Grande",
+image: "/poi-images/rio-grande-port-economic-v2.webp"
+},
     description: {
       en: "This port serves as a crucial maritime gateway for the southern region of Brazil.",
       de: "Der Hafen von Rio Grande ist der Hauptseehafen des Bundesstaates Rio Grande do Sul. Er dient als wichtiges maritimes Tor für die Industrie- und Agrarprodukte der südlichsten Region Brasiliens.",
@@ -98,7 +104,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-ES",
     coords: [-40.3200, -20.3200],
-    name: { en: "Port of Vitória", de: "Hafen von Vitória", hu: "Vitória kikötője", ro: "Portul Vitória" },
+    name: { en: "Port of Vitória", de: "Hafen von Vitória", hu: "Vitória kikötője", ro: "Portul Vitória",
+image: "/poi-images/vitoria-port-economic-v2.webp"
+},
     description: {
       en: "The Port of Vitória is a vital complex for iron ore and steel exports from Espírito Santo.",
       de: "Der Hafen von Vitória ist ein bedeutender Industriehafen im Bundesstaat Espírito Santo. Er ist eng mit dem Umschlag von Eisenerz, Stahlprodukten und Zellulose verbunden.",
@@ -128,7 +136,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-MA",
     coords: [-44.3639, -2.5739],
-    name: { en: "Port of Itaqui", de: "Hafen von Itaqui", hu: "Itaqui kikötője", ro: "Portul Itaqui" },
+    name: { en: "Port of Itaqui", de: "Hafen von Itaqui", hu: "Itaqui kikötője", ro: "Portul Itaqui",
+image: "/poi-images/itaqui-port-economic-v2.webp"
+},
     description: {
       en: "Itaqui is a deep-water port located in the state of Maranhão, specializing in bulk cargo.",
       de: "Der Hafen von Itaqui in der Nähe von São Luís ist einer der tiefsten Seehäfen Brasiliens. Er dient als strategischer Exportpunkt für Mineralien, Getreide und Treibstoffe aus dem Landesinneren.",
@@ -159,7 +169,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-PE",
     coords: [-34.9650, -8.3967],
-    name: { en: "Port of Suape", de: "Hafen von Suape", hu: "Suape kikötője", ro: "Portul Suape" },
+    name: { en: "Port of Suape", de: "Hafen von Suape", hu: "Suape kikötője", ro: "Portul Suape",
+image: "/poi-images/suape-port-economic-v2.webp"
+},
     description: {
       en: "Suape is a major industrial and logistics hub in Northeastern Brazil.",
       de: "Der Hafen von Suape ist ein großer Industrie- und Hafenkomplex im Bundesstaat Pernambuco. Er kombiniert maritime Logistik mit Aktivitäten in den Bereichen Erdölraffination und Schiffbau.",
@@ -189,7 +201,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-CE",
     coords: [-38.8317, -3.5511],
-    name: { en: "Port of Pecém", de: "Hafen von Pecém", hu: "Pecém kikötője", ro: "Portul Pecém" },
+    name: { en: "Port of Pecém", de: "Hafen von Pecém", hu: "Pecém kikötője", ro: "Portul Pecém",
+image: "/poi-images/pecem-port-economic-v2.webp"
+},
     description: {
       en: "The Port of Pecém is an modern deep-water port serving the industrial complex of Ceará.",
       de: "Der Hafen von Pecém ist ein moderner Offshore-Industriehafen im Bundesstaat Ceará. Er gewinnt an Bedeutung durch Stahlproduktion, Logistik und zukunftsweisende Projekte für grünen Wasserstoff.",
@@ -219,7 +233,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-RJ",
     coords: [-43.1950, -22.8933],
-    name: { en: "Port of Rio de Janeiro", de: "Hafen von Rio de Janeiro", hu: "Rio de Janeiro kikötője", ro: "Portul Rio de Janeiro" },
+    name: { en: "Port of Rio de Janeiro", de: "Hafen von Rio de Janeiro", hu: "Rio de Janeiro kikötője", ro: "Portul Rio de Janeiro",
+image: "/poi-images/rio-de-janeiro-port-economic-v2.webp"
+},
     description: {
       en: "The Port of Rio de Janeiro is historically and economically significant for regional trade.",
       de: "Der Hafen von Rio de Janeiro liegt in der Guanabara-Bucht und ist ein historisch bedeutender Handelspunkt. Er bleibt wichtig für den Umschlag von Containern, Automobilen und den Tourismus.",
@@ -249,7 +265,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-SC",
     coords: [-48.6533, -26.9069],
-    name: { en: "Port of Itajaí", de: "Hafen von Itajaí", hu: "Itajaí kikötője", ro: "Portul Itajaí" },
+    name: { en: "Port of Itajaí", de: "Hafen von Itajaí", hu: "Itajaí kikötője", ro: "Portul Itajaí",
+image: "/poi-images/itajai-port-economic-v2.webp"
+},
     description: {
       en: "Itajaí is a major container port in the southern state of Santa Catarina.",
       de: "Der Hafen von Itajaí ist einer der wichtigsten Containerhäfen Brasiliens im Bundesstaat Santa Catarina. Er unterstützt die exportorientierte Industrie und die regionalen Lieferketten im Süden.",
@@ -280,7 +298,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-SC",
     coords: [-48.6369, -26.2403],
-    name: { en: "Port of São Francisco do Sul", de: "Hafen von São Francisco do Sul", hu: "São Francisco do Sul kikötője", ro: "Portul São Francisco do Sul" },
+    name: { en: "Port of São Francisco do Sul", de: "Hafen von São Francisco do Sul", hu: "São Francisco do Sul kikötője", ro: "Portul São Francisco do Sul",
+image: "/poi-images/sao-francisco-do-sul-port-economic-v2.webp"
+},
     description: {
       en: "This port is a key logistical center for the northern region of Santa Catarina.",
       de: "Der Hafen von São Francisco do Sul ist ein historisch wichtiger Umschlagplatz im Bundesstaat Santa Catarina. Er ist spezialisiert auf den Export von Getreide und Industrieprodukten aus der Region.",
@@ -310,7 +330,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-BA",
     coords: [-38.5139, -12.9644],
-    name: { en: "Port of Salvador", de: "Hafen von Salvador", hu: "Salvador kikötője", ro: "Portul Salvador" },
+    name: { en: "Port of Salvador", de: "Hafen von Salvador", hu: "Salvador kikötője", ro: "Portul Salvador",
+image: "/poi-images/salvador-port-economic-v2.webp"
+},
     description: {
       en: "A versatile port in Bahia, important for both passenger cruises and cargo, including petrochemicals and fruits.",
       de: "Ein vielseitiger Hafen in Bahia, wichtig sowohl für Passagierkreuzfahrten als auch für Fracht, einschließlich Petrochemikalien und Früchten.",
@@ -340,7 +362,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-AM",
     coords: [-60.0217, -3.1383],
-    name: { en: "Port of Manaus", de: "Hafen von Manaus", hu: "Manaus kikötője", ro: "Portul Manaus" },
+    name: { en: "Port of Manaus", de: "Hafen von Manaus", hu: "Manaus kikötője", ro: "Portul Manaus",
+image: "/poi-images/manaus-port-economic-v2.webp"
+},
     description: {
       en: "A major inland river port on the Rio Negro, crucial for the logistics of the Manaus Free Trade Zone.",
       de: "Ein großer Binnenhafen am Rio Negro, entscheidend für die Logistik der Freihandelszone von Manaus.",
@@ -370,7 +394,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-PA",
     coords: [-48.4972, -1.4397],
-    name: { en: "Port of Belém", de: "Hafen von Belém", hu: "Belém kikötője", ro: "Portul Belém" },
+    name: { en: "Port of Belém", de: "Hafen von Belém", hu: "Belém kikötője", ro: "Portul Belém",
+image: "/poi-images/belem-port-economic-v2.webp"
+},
     description: {
       en: "An important river-marine port serving the Amazon estuary, facilitating regional trade and passenger transport.",
       de: "Ein wichtiger Fluss-Meeres-Hafen im Amazonasästuar, der den regionalen Handel und den Personenverkehr erleichtert.",
@@ -400,7 +426,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-PA",
     coords: [-48.7458, -1.5478],
-    name: { en: "Port of Vila do Conde", de: "Hafen von Vila do Conde", hu: "Vila do Conde kikötője", ro: "Portul Vila do Conde" },
+    name: { en: "Port of Vila do Conde", de: "Hafen von Vila do Conde", hu: "Vila do Conde kikötője", ro: "Portul Vila do Conde",
+image: "/poi-images/vila-do-conde-port-economic-v2.webp"
+},
     description: {
       en: "A major port in Barcarena, Pará, focused heavily on the export of aluminum, alumina, and other bulk minerals.",
       de: "Ein großer Hafen in Barcarena, Pará, der stark auf den Export von Aluminium, Tonerde und anderen Massenmineralien ausgerichtet ist.",
@@ -430,7 +458,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "port",
     parent: "BR-AP",
     coords: [-51.0500, -0.0150],
-    name: { en: "Port of Macapá", de: "Hafen von Macapá", hu: "Macapá kikötője", ro: "Portul Macapá" },
+    name: { en: "Port of Macapá", de: "Hafen von Macapá", hu: "Macapá kikötője", ro: "Portul Macapá",
+image: "/poi-images/macapa-port-economic-v2.webp"
+},
     description: {
       en: "Also known as Porto de Santana, it connects Amapá to international markets, primarily exporting wood and minerals.",
       de: "Auch bekannt als Porto de Santana, verbindet er Amapá mit den internationalen Märkten und exportiert hauptsächlich Holz und Mineralien.",
@@ -460,7 +490,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-PA",
     coords: [-50.1500, -6.0500],
-    name: { en: "Carajás Mine", de: "Carajás-Mine", hu: "Carajás-bánya", ro: "Mina Carajás" },
+    name: { en: "Carajás Mine", de: "Carajás-Mine", hu: "Carajás-bánya", ro: "Mina Carajás",
+image: "/poi-images/carajas-mine-economic-v2.webp"
+},
     description: {
       en: "The largest open-pit iron ore mine in the world, serving as a pillar of the Brazilian mining sector.",
       de: "Die größte Eisenerz-Tagebaumine der Welt, die als Säule des brasilianischen Bergbausektors dient.",
@@ -490,7 +522,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-PR",
     coords: [-54.5886, -25.4097],
-    name: { en: "Itaipu Dam", de: "Itaipu-Staudamm", hu: "Itaipu-gát", ro: "Barajul Itaipu" },
+    name: { en: "Itaipu Dam", de: "Itaipu-Staudamm", hu: "Itaipu-gát", ro: "Barajul Itaipu",
+image: "/poi-images/itaipu-dam-economic-v2.webp"
+},
     description: {
       en: "A monumental hydroelectric dam on the Paraná River, supplying a massive amount of electricity to both Brazil and Paraguay.",
       de: "Ein monumentaler Wasserkraftdamm am Paraná-Fluss, der sowohl Brasilien als auch Paraguay mit einer riesigen Menge an Strom versorgt.",
@@ -520,7 +554,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-BA",
     coords: [-38.3289, -12.6361],
-    name: { en: "Camaçari Petrochemical Complex", de: "Petrochemischer Komplex Camaçari", hu: "Camaçari Petrolkémiai Komplexum", ro: "Complexul Petrochimic Camaçari" },
+    name: { en: "Camaçari Petrochemical Complex", de: "Petrochemischer Komplex Camaçari", hu: "Camaçari Petrolkémiai Komplexum", ro: "Complexul Petrochimic Camaçari",
+image: "/poi-images/camacari-petrochemical-economic-v2.webp"
+},
     description: {
       en: "The largest integrated industrial complex in the Southern Hemisphere, housing chemical, automotive, and manufacturing plants.",
       de: "Der größte integrierte Industriekomplex auf der Südhalbkugel, der Chemie-, Automobil- und Produktionsanlagen beherbergt.",
@@ -551,7 +587,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-AM",
     coords: [-59.9700, -3.1100],
-    name: { en: "Manaus Free Trade Zone", de: "Freihandelszone Manaus", hu: "Manaus Szabadkereskedelmi Övezet", ro: "Zona de Liber Schimb Manaus" },
+    name: { en: "Manaus Free Trade Zone", de: "Freihandelszone Manaus", hu: "Manaus Szabadkereskedelmi Övezet", ro: "Zona de Liber Schimb Manaus",
+image: "/poi-images/manaus-free-trade-zone-economic-v2.webp"
+},
     description: {
       en: "An industrial park heavily supported by tax incentives, attracting major multinational electronics and automotive companies.",
       de: "Ein durch Steueranreize stark unterstützter Industriepark, der große multinationale Elektronik- und Automobilunternehmen anzieht.",
@@ -581,7 +619,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-SP",
     coords: [-45.8833, -23.2194],
-    name: { en: "São José dos Campos Aerospace Industry", de: "Luftfahrtindustrie São José dos Campos", hu: "São José dos Campos repülőgépipar", ro: "Industria Aerospațială São José dos Campos" },
+    name: { en: "São José dos Campos Aerospace Industry", de: "Luftfahrtindustrie São José dos Campos", hu: "São José dos Campos repülőgépipar", ro: "Industria Aerospațială São José dos Campos",
+image: "/poi-images/sao-jose-dos-campos-aerospace-economic-v2.webp"
+},
     description: {
       en: "The technological and aerospace capital of Brazil, home to Embraer's headquarters and main manufacturing facilities.",
       de: "Die Technologie- und Luftfahrthauptstadt Brasiliens, Heimat des Hauptsitzes und der wichtigsten Produktionsstätten von Embraer.",
@@ -611,7 +651,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-MG",
     coords: [-44.1983, -19.9678],
-    name: { en: "Betim Automotive Plant", de: "Automobilwerk Betim", hu: "Betim autógyár", ro: "Uzina Auto Betim" },
+    name: { en: "Betim Automotive Plant", de: "Automobilwerk Betim", hu: "Betim autógyár", ro: "Uzina Auto Betim",
+image: "/poi-images/betim-automotive-economic-v2.webp"
+},
     description: {
       en: "One of the largest automotive manufacturing plants in the world, playing a crucial role in Brazil's industrial sector.",
       de: "Eines der größten Automobilwerke der Welt, das eine entscheidende Rolle im brasilianischen Industriesektor spielt.",
@@ -641,7 +683,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-SP",
     coords: [-46.5500, -23.6939],
-    name: { en: "São Bernardo do Campo Industrial Zone", de: "Industriegebiet São Bernardo do Campo", hu: "São Bernardo do Campo ipari övezet", ro: "Zona Industrială São Bernardo do Campo" },
+    name: { en: "São Bernardo do Campo Industrial Zone", de: "Industriegebiet São Bernardo do Campo", hu: "São Bernardo do Campo ipari övezet", ro: "Zona Industrială São Bernardo do Campo",
+image: "/poi-images/sao-bernardo-industrial-economic-v2.webp"
+},
     description: {
       en: "Historically the heart of the Brazilian automotive industry, known for its vast concentration of manufacturing plants and labor movements.",
       de: "Historisch das Herz der brasilianischen Automobilindustrie, bekannt für seine große Konzentration an Produktionsstätten und Arbeiterbewegungen.",
@@ -672,7 +716,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-SP",
     coords: [-46.4250, -23.8950],
-    name: { en: "Cubatão Industrial Park", de: "Industriepark Cubatão", hu: "Cubatão ipari park", ro: "Parcul Industrial Cubatão" },
+    name: { en: "Cubatão Industrial Park", de: "Industriepark Cubatão", hu: "Cubatão ipari park", ro: "Parcul Industrial Cubatão",
+image: "/poi-images/cubatao-industrial-economic-v2.webp"
+},
     description: {
       en: "A major center for chemical, petrochemical, and steel industries, strategically located near the Port of Santos.",
       de: "Ein bedeutendes Zentrum für die Chemie-, Petrochemie- und Stahlindustrie, strategisch günstig in der Nähe des Hafens von Santos gelegen.",
@@ -702,7 +748,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-RJ",
     coords: [-44.1042, -22.5231],
-    name: { en: "Volta Redonda Steelworks", de: "Stahlwerk Volta Redonda", hu: "Volta Redonda acélmű", ro: "Oțelăria Volta Redonda" },
+    name: { en: "Volta Redonda Steelworks", de: "Stahlwerk Volta Redonda", hu: "Volta Redonda acélmű", ro: "Oțelăria Volta Redonda",
+image: "/poi-images/volta-redonda-steelworks-economic-v2.webp"
+},
     description: {
       en: "Home to the Companhia Siderúrgica Nacional, this massive steel mill was fundamental to Brazil's industrialization.",
       de: "Die Heimat der Companhia Siderúrgica Nacional; dieses riesige Stahlwerk war von grundlegender Bedeutung für die Industrialisierung Brasiliens.",
@@ -733,7 +781,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-RJ",
     coords: [-41.7869, -22.3789],
-    name: { en: "Macaé Oil Base", de: "Erdölbasis Macaé", hu: "Macaé kőolajbázis", ro: "Baza Petrolieră Macaé" },
+    name: { en: "Macaé Oil Base", de: "Erdölbasis Macaé", hu: "Macaé kőolajbázis", ro: "Baza Petrolieră Macaé",
+image: "/poi-images/macae-oil-base-economic-v2.webp"
+},
     description: {
       en: "The operational base for offshore oil exploration in the Campos Basin, driving the Brazilian petroleum economy.",
       de: "Die operative Basis für die Offshore-Ölexploration im Campos-Becken, die die brasilianische Erdölwirtschaft antreibt.",
@@ -763,7 +813,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-MG",
     coords: [-43.2272, -19.6192],
-    name: { en: "Itabira Iron Ore Mine", de: "Eisenerzmine Itabira", hu: "Itabira vasércbánya", ro: "Mina de Minereu de Fier Itabira" },
+    name: { en: "Itabira Iron Ore Mine", de: "Eisenerzmine Itabira", hu: "Itabira vasércbánya", ro: "Mina de Minereu de Fier Itabira",
+image: "/poi-images/itabira-iron-mine-economic-v2.webp"
+},
     description: {
       en: "The birthplace of Vale company, this historic mining area is central to iron ore extraction in Minas Gerais.",
       de: "Der Geburtsort des Unternehmens Vale, dieses historische Bergbaugebiet ist zentral für den Eisenerzabbau in Minas Gerais.",
@@ -794,7 +846,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-MG",
     coords: [-43.6842, -20.5186],
-    name: { en: "Ouro Branco Steelworks", de: "Stahlwerk Ouro Branco", hu: "Ouro Branco acélmű", ro: "Oțelăria Ouro Branco" },
+    name: { en: "Ouro Branco Steelworks", de: "Stahlwerk Ouro Branco", hu: "Ouro Branco acélmű", ro: "Oțelăria Ouro Branco",
+image: "/poi-images/ouro-branco-steelworks-economic-v2.webp"
+},
     description: {
       en: "A massive steel manufacturing complex operated by Gerdau, strategically placed near abundant mineral resources.",
       de: "Ein riesiger Stahlerzeugungskomplex, der von Gerdau betrieben wird und strategisch günstig in der Nähe reichhaltiger Bodenschätze liegt.",
@@ -824,7 +878,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-PA",
     coords: [-56.3986, -1.4883],
-    name: { en: "Trombetas Bauxite Mine", de: "Bauxitmine Trombetas", hu: "Trombetas bauxitbánya", ro: "Mina de Bauxită Trombetas" },
+    name: { en: "Trombetas Bauxite Mine", de: "Bauxitmine Trombetas", hu: "Trombetas bauxitbánya", ro: "Mina de Bauxită Trombetas",
+image: "/poi-images/trombetas-bauxite-mine-economic-v2.webp"
+},
     description: {
       en: "The largest bauxite mine in Brazil, located deep in the Amazon and pivotal for the global aluminum supply chain.",
       de: "Die größte Bauxitmine Brasiliens liegt tief im Amazonasgebiet und ist von zentraler Bedeutung für die globale Aluminium-Lieferkette.",
@@ -855,7 +911,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-MS",
     coords: [-51.7006, -20.7511],
-    name: { en: "Três Lagoas Pulp Industry", de: "Zellstoffindustrie Três Lagoas", hu: "Três Lagoas cellulózipar", ro: "Industria Celulozei Três Lagoas" },
+    name: { en: "Três Lagoas Pulp Industry", de: "Zellstoffindustrie Três Lagoas", hu: "Três Lagoas cellulózipar", ro: "Industria Celulozei Três Lagoas",
+image: "/poi-images/tres-lagoas-pulp-economic-v2.webp"
+},
     description: {
       en: "Known as the 'World Capital of Cellulose', housing gigantic pulp and paper mills fueled by extensive eucalyptus plantations.",
       de: "Bekannt als die 'Welthauptstadt der Zellulose', beherbergt sie gigantische Zellstoff- und Papierfabriken, die durch ausgedehnte Eukalyptusplantagen versorgt werden.",
@@ -885,7 +943,9 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     type: "industry",
     parent: "BR-RS",
     coords: [-53.6769, -31.5647],
-    name: { en: "Candiota Coal Mine", de: "Kohlemine Candiota", hu: "Candiota szénbánya", ro: "Mina de Cărbune Candiota" },
+    name: { en: "Candiota Coal Mine", de: "Kohlemine Candiota", hu: "Candiota szénbánya", ro: "Mina de Cărbune Candiota",
+image: "/poi-images/candiota-coal-mine-economic-v2.webp"
+},
     description: {
       en: "Home to the largest proven coal reserves in Brazil, supplying fossil fuel for regional thermoelectric power generation.",
       de: "Heimat der größten nachgewiesenen Kohlereserven in Brasilien, die fossile Brennstoffe für die regionale thermoelektrische Stromerzeugung liefert.",

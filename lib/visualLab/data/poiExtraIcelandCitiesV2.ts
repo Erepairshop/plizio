@@ -4,7 +4,9 @@ export const icelandCitiesV2: POI[] = [
   {
     id: "iceland-reykjavik-cities-v2",
     type: "capital",
-    name: { de: "Reykjavík", hu: "Reykjavík", ro: "Reykjavík", en: "Reykjavík" },
+    name: { de: "Reykjavík", hu: "Reykjavík", ro: "Reykjavík", en: "Reykjavík",
+image: "/poi-images/iceland-reykjavik-cities-v2.webp"
+},
     coords: [-21.9426, 64.1466],
     coordinates: { lat: 64.1466, lng: -21.9426 },
     description: {
@@ -19,11 +21,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Fondat în anul 874 d.Hr.", "Sediul parlamentului Alþingi", "Încălzit integral prin geotermie", "Populație de aprox. 131.000 loc."],
       en: ["Founded in 874 AD", "Seat of the Alþingi parliament", "Heated entirely by geothermal energy", "Population approx. 131,000"],
     },
-    imageHint: "Reykjavik skyline with Hallgrimskirkja church", image: "/poi-images/iceland-reykjavik-cities-v2.webp"},
-  {
+imageHint: "Reykjavik skyline with Hallgrimskirkja church",
+    descriptionAdvanced: {
+      de: "Die nördlichste Hauptstadt der Welt dient als pulsierendes Herz Islands. Sie verbindet moderne Architektur wie die Harpa-Konzerthalle mit einer nachhaltigen geothermischen Energieversorgung.",
+      hu: "A világ legészakibb fővárosa Izland gazdasági és kulturális központja. A város szinte teljes egészében megújuló geotermikus energiával működik, jelképe a monumentális Hallgrímskirkja.",
+      ro: "Cea mai nordică capitală a lumii este inima economică a Islandei. Orașul îmbină arhitectura modernă cu sustenabilitatea, fiind alimentat aproape integral de resurse geotermale locale.",
+      en: "The world's northernmost capital is the vibrant heart of Iceland. It blends modern architecture like Harpa with sustainable living, powered almost entirely by geothermal energy sources.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 874", "Ca. 135.000 Einwohner", "Sitz des Parlaments Althing", "Nördlichster Breitengrad: 64°N"],
+      hu: ["Alapítva 874-ben", "Népessége kb. 135 000 fő", "Itt található az Althingi", "64° északon fekszik"],
+      ro: ["Fondat în anul 874", "Populație de circa 135.000", "Sediul Parlamentului Althing", "Latitudine nordică: 64°N"],
+      en: ["Founded in 874 AD", "Population approx. 135,000", "Home to Althing parliament", "Located at 64°N latitude"],
+    },
+    image: "/poi-images/iceland-reykjavik-cities-v2.webp",
+},  {
     id: "iceland-kopavogur-cities-v2",
     type: "city",
-    name: { de: "Kópavogur", hu: "Kópavogur", ro: "Kópavogur", en: "Kópavogur" },
+    name: { de: "Kópavogur", hu: "Kópavogur", ro: "Kópavogur", en: "Kópavogur",
+image: "/poi-images/iceland-kopavogur-cities-v2.webp"
+},
     coords: [-21.9056, 64.1111],
     coordinates: { lat: 64.1111, lng: -21.9056 },
     description: {
@@ -38,11 +55,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Al doilea oraș ca populație", "Găzduiește cea mai înaltă clădire din țară", "Municipiu separat din 1948", "Centrul comercial Smáralind este aici"],
       en: ["Second largest city in Iceland", "Home to Smáratorn, Iceland's tallest building", "Established as a municipality in 1948", "Location of Smáralind shopping mall"],
     },
-    imageHint: "Kopavogur city view with modern church", image: "/poi-images/iceland-kopavogur-cities-v2.webp"},
-  {
+imageHint: "Kopavogur city view with modern church",
+    descriptionAdvanced: {
+      de: "Als zweitgrößte Stadt Islands ist Kópavogur ein bedeutendes Handelszentrum. Die Stadt beherbergt das höchste Gebäude des Landes und beeindruckende kulturelle Einrichtungen im Zentrum.",
+      hu: "Izland második legnépesebb városa fontos kereskedelmi és kulturális csomópont. Itt található az ország legmagasabb épülete és a modern Kópavogskirkja, mely a város jelképe.",
+      ro: "Al doilea cel mai mare oraș al țării este un centru comercial vital. Găzduiește cea mai înaltă clădire din Islanda și oferă o vedere panoramică superbă asupra zonei metropolitane.",
+      en: "As Iceland's second-largest city, Kópavogur is a vital commercial hub. It features the country's tallest building and the striking Kópavogskirkja church overlooking the bay.",
+    },
+    factsAdvanced: {
+      de: ["Gemeindestatus seit 1955", "Höchstes Haus: Smáratorg 20", "Fläche: 80 Quadratkilometer", "Sitz der Smáralind Mall"],
+      hu: ["1955-ben kapott városi rangot", "Smáratorg 20 a legmagasabb ház", "Területe 80 négyzetkilométer", "Itt van a Smáralind bevásárlóközpont"],
+      ro: ["Statut de oraș din 1955", "Cea mai înaltă clădire: Smáratorg 20", "Suprafață: 80 km pătrați", "Găzduiește mall-ul Smáralind"],
+      en: ["Municipality status in 1955", "Tallest building: Smáratorg 20", "Area: 80 square kilometers", "Home to Smáralind Mall"],
+    },
+    image: "/poi-images/iceland-kopavogur-cities-v2.webp",
+},  {
     id: "iceland-hafnarfjordur-cities-v2",
     type: "city",
-    name: { de: "Hafnarfjörður", hu: "Hafnarfjörður", ro: "Hafnarfjörður", en: "Hafnarfjörður" },
+    name: { de: "Hafnarfjörður", hu: "Hafnarfjörður", ro: "Hafnarfjörður", en: "Hafnarfjörður",
+image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp"
+},
     coords: [-21.95, 64.0667],
     coordinates: { lat: 64.0667, lng: -21.95 },
     description: {
@@ -57,11 +89,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime", "Gazda unui festival viking anual", "Port situat într-un golf de lavă", "Centru important al industriei aluminiului"],
       en: ["Third most populous city in Iceland", "Hosts an annual Viking Festival", "Port located in a natural lava bay", "Hub for the aluminum industry"],
     },
-    imageHint: "Hafnarfjordur harbor and colorful houses", image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp"},
-  {
+imageHint: "Hafnarfjordur harbor and colorful houses",
+    descriptionAdvanced: {
+      de: "Diese Hafenstadt wurde auf einem alten Lavafeld errichtet und gilt als Zentrum des isländischen Elfenglaubens. Sie ist bekannt für ihr jährliches Wikingerfestival und den Hafen.",
+      hu: "A lávamezőkre épült kikötőváros az izlandi tündérhiedelmek központja. Fontos ipari és kereskedelmi kikötő, valamint otthont ad a népszerű éves nemzetközi viking fesztiválnak.",
+      ro: "Acest oraș portuar a fost construit pe un câmp de lavă vechi și este centrul folclorului despre elfi. Este renumit pentru festivalul său anual viking și portul industrial activ.",
+      en: "Built on an ancient lava field, this port town is the center of Icelandic elf folklore. It is famous for its annual Viking festival and its significant industrial harbor.",
+    },
+    factsAdvanced: {
+      de: ["Drittgrößte Stadt des Landes", "Wikingerfestival seit 1995", "Bedeutendes Aluminiumwerk", "Gegründet auf Lavafeldern"],
+      hu: ["Harmadik legnagyobb város", "Viking fesztivál 1995 óta", "Fontos alumíniumkohó", "Lávaföldekre épült"],
+      ro: ["Al treilea oraș ca mărime", "Festival viking din 1995", "Topitorie majoră de aluminiu", "Construit pe câmpuri de lavă"],
+      en: ["Third largest city in Iceland", "Viking Festival since 1995", "Major aluminium smelter site", "Built on rugged lava fields"],
+    },
+    image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp",
+},  {
     id: "iceland-akureyri-cities-v2",
     type: "city",
-    name: { de: "Akureyri", hu: "Akureyri", ro: "Akureyri", en: "Akureyri" },
+    name: { de: "Akureyri", hu: "Akureyri", ro: "Akureyri", en: "Akureyri",
+image: "/poi-images/iceland-akureyri-cities-v2.webp"
+},
     coords: [-18.1, 65.6833],
     coordinates: { lat: 65.6833, lng: -18.1 },
     description: {
@@ -76,11 +123,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Centru comercial major în nord", "Deține cea mai nordică grădină botanică", "Port fără gheață pe tot parcursul anului", "Principalul centru de sporturi de iarnă"],
       en: ["Major trading center in North Iceland", "Home to the world's northernmost botanical garden", "Ice-free harbor year-round", "Hub for winter sports in Iceland"],
     },
-    imageHint: "Akureyri church and fjord view", image: "/poi-images/iceland-akureyri-cities-v2.webp"},
-  {
+imageHint: "Akureyri church and fjord view",
+    descriptionAdvanced: {
+      de: "Die Hauptstadt des Nordens liegt am Fuße schneebedeckter Berge am Eyjafjörður. Trotz der Nähe zum Polarkreis begünstigt das Mikroklima das Wachstum in einem botanischen Garten.",
+      hu: "Az északi régió központja az Eyjafjörður partján fekszik. A sarkkör közelsége ellenére enyhe mikroklímával rendelkezik, amely lehetővé teszi egy gazdag botanikus kert fenntartását.",
+      ro: "Capitala nordului este situată pe malul fiordului Eyjafjörður. În ciuda proximității față de Cercul Polar, microclimatul permite existența unei grădini botanice impresionante.",
+      en: "The Capital of the North sits at the base of snow-capped mountains on Eyjafjörður. Its unique microclimate allows for a lush botanical garden despite the high latitude.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1786", "Nördlichster botanischer Garten", "Sitz der Universität Akureyri", "Hafen am Eyjafjörður"],
+      hu: ["Alapítva 1786-ban", "A világ legészakibb botanikus kertje", "Az Akureyri Egyetem székhelye", "Kikötő az Eyjafjörður-nál"],
+      ro: ["Fondat în 1786", "Cea mai nordică grădină botanică", "Sediul Universității Akureyri", "Port la fiordul Eyjafjörður"],
+      en: ["Founded in 1786", "Northernmost botanical garden", "Home to University of Akureyri", "Harbor on Eyjafjörður fjord"],
+    },
+    image: "/poi-images/iceland-akureyri-cities-v2.webp",
+},  {
     id: "iceland-keflavik-cities-v2",
     type: "city",
-    name: { de: "Keflavík", hu: "Keflavík", ro: "Keflavík", en: "Keflavík" },
+    name: { de: "Keflavík", hu: "Keflavík", ro: "Keflavík", en: "Keflavík",
+image: "/poi-images/iceland-keflavik-cities-v2.webp"
+},
     coords: [-22.56, 63.9997],
     coordinates: { lat: 63.9997, lng: -22.56 },
     description: {
@@ -95,11 +157,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Locația Aeroportului Internațional Keflavík", "Fostă bază militară americană", "Cunoscut pentru scena sa muzicală", "Port pescăresc activ"],
       en: ["Home to Keflavík International Airport (KEF)", "Former site of a US military base", "Known for its 1960s music scene", "Significant fishing port"],
     },
-    imageHint: "Keflavik harbor and rocky coastline", image: "/poi-images/iceland-keflavik-cities-v2.webp"},
-  {
+imageHint: "Keflavik harbor and rocky coastline",
+    descriptionAdvanced: {
+      de: "Keflavík ist das Tor zu Island und historisch eng mit der US-Militärpräsenz verbunden. Heute ist die Stadt ein Zentrum für die Fischerei und dient als Basis für den Flughafen.",
+      hu: "Keflavík Izland kapuja, amely történelmileg szorosan kötődik az amerikai katonai jelenléthez. Ma a halászat mellett a nemzetközi repülőtér logisztikai központjaként funkcionál.",
+      ro: "Poarta de intrare în Islanda, Keflavík are o istorie legată de prezența militară americană. Astăzi este un centru pescăresc și baza logistică a aeroportului internațional.",
+      en: "Keflavík is Iceland's gateway, historically shaped by the US military presence. Today, it serves as a fishing hub and the primary logistical base for the international airport.",
+    },
+    factsAdvanced: {
+      de: ["US-Luftwaffenstützpunkt bis 2006", "Internationaler Flughafen (KEF)", "Zentrum der Rockmusik-Geschichte", "Teil der Gemeinde Reykjanesbær"],
+      hu: ["USA katonai bázis 2006-ig", "Nemzetközi repülőtér (KEF)", "Az izlandi rockzene bölcsője", "Reykjanesbær község része"],
+      ro: ["Bază militară SUA până în 2006", "Aeroport internațional (KEF)", "Centru al istoriei muzicii rock", "Parte din Reykjanesbær"],
+      en: ["US Air Base until 2006", "International Airport (KEF)", "Hub of Icelandic rock history", "Part of Reykjanesbær district"],
+    },
+    image: "/poi-images/iceland-keflavik-cities-v2.webp",
+},  {
     id: "iceland-gardabaer-cities-v2",
     type: "town",
-    name: { de: "Garðabær", hu: "Garðabær", ro: "Garðabær", en: "Garðabær" },
+    name: { de: "Garðabær", hu: "Garðabær", ro: "Garðabær", en: "Garðabær",
+image: "/poi-images/iceland-gardabaer-cities-v2.webp"
+},
     coords: [-21.9214, 64.0886],
     coordinates: { lat: 64.0886, lng: -21.9214 },
     description: {
@@ -114,11 +191,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["A șasea cea mai populată municipalitate", "Locația studiourilor pentru serialul 'LazyTown'", "Găzduiește Muzeul de Design și Artă Aplicată", "Prima așezare atestată în secolul IX"],
       en: ["Sixth most populous municipality in Iceland", "Location of the 'LazyTown' TV studios", "Home to the Museum of Design and Applied Art", "Settled as early as the 9th century"],
     },
-    imageHint: "Gardabaer residential area and nature scenery", image: "/poi-images/iceland-gardabaer-cities-v2.webp"},
-  {
+imageHint: "Gardabaer residential area and nature scenery",
+    descriptionAdvanced: {
+      de: "Diese wohlhabende Vorstadt von Reykjavík bietet eine hohe Lebensqualität und ist für ihre Naturschutzgebiete bekannt. Sie beherbergt das nationale Designmuseum Islands.",
+      hu: "Reykjavík elegáns elővárosa magas életszínvonalat és kiterjedt természetvédelmi területeket kínál. Itt található az izlandi Design és Iparművészeti Múzeum is.",
+      ro: "Această suburbie prosperă a capitalei oferă o calitate ridicată a vieții și rezervații naturale. Găzduiește Muzeul Național de Design și Arte Aplicate al Islandei.",
+      en: "A prosperous suburb of Reykjavík, Garðabær offers high living standards and extensive nature reserves. It is home to the Museum of Design and Applied Art.",
+    },
+    factsAdvanced: {
+      de: ["Besiedelt seit dem 9. Jahrhundert", "Designmuseum Hönnunarsafn Íslands", "Nachbarstadt von Hafnarfjörður", "Wohnsitz vieler Diplomaten"],
+      hu: ["A 9. század óta lakott", "Hönnunarsafn Íslands dizájnmúzeum", "Hafnarfjörður szomszédja", "Sok diplomata lakóhelye"],
+      ro: ["Locuit din secolul al IX-lea", "Muzeul de design Hönnunarsafn", "Oraș vecin cu Hafnarfjörður", "Reședința multor diplomați"],
+      en: ["Inhabited since 9th century", "Design Museum Hönnunarsafn", "Neighboring city of Hafnarfjörður", "Home to many diplomats"],
+    },
+    image: "/poi-images/iceland-gardabaer-cities-v2.webp",
+},  {
     id: "iceland-mosfellsbaer-cities-v2",
     type: "town",
-    name: { de: "Mosfellsbær", hu: "Mosfellsbær", ro: "Mosfellsbær", en: "Mosfellsbær" },
+    name: { de: "Mosfellsbær", hu: "Mosfellsbær", ro: "Mosfellsbær", en: "Mosfellsbær",
+image: "/poi-images/iceland-mosfellsbaer-cities-v2.webp"
+},
     coords: [-21.7167, 64.1667],
     coordinates: { lat: 64.1667, lng: -21.7167 },
     description: {
@@ -133,11 +225,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Găzduiește muzeul Gljúfrasteinn (Halldór Laxness)", "Centru de horticultură datorită geotermiei", "Punct de plecare pentru trasee spre muntele Esja", "Suburbie în plină expansiune a capitalei"],
       en: ["Home to the Gljúfrasteinn museum of Halldór Laxness", "Center for greenhouse horticulture", "Surrounded by trails leading to Mount Esja", "Rapidly growing suburb of Reykjavík"],
     },
-    imageHint: "Mosfellsbaer landscape with mountains", image: "/poi-images/iceland-mosfellsbaer-cities-v2.webp"},
-  {
+imageHint: "Mosfellsbaer landscape with mountains",
+    descriptionAdvanced: {
+      de: "Umgeben von Bergen bietet Mosfellsbær eine ländliche Atmosphäre nahe der Hauptstadt. Die Stadt ist eng mit dem Nobelpreisträger Halldór Laxness verbunden, der hier lebte.",
+      hu: "Hegyekkel körülvett város Reykjavík közelében, mely megőrizte vidékies hangulatát. Szorosan kötődik Halldór Laxness Nobel-díjas íróhoz, akinek egykori háza ma múzeum.",
+      ro: "Înconjurat de munți, Mosfellsbær oferă o atmosferă rurală aproape de capitală. Orașul este legat de scriitorul Halldór Laxness, laureat al Premiului Nobel, care a locuit aici.",
+      en: "Surrounded by mountains, Mosfellsbær offers a rural atmosphere near the capital. It is closely linked to Nobel laureate Halldór Laxness, whose former home is now a museum.",
+    },
+    factsAdvanced: {
+      de: ["Heimat von Halldór Laxness", "Zentrum für Gewächshäuser", "Berg Esja in direkter Nähe", "Grüne Stadt mit vielen Wanderwegen"],
+      hu: ["Halldór Laxness otthona", "Üvegházas kertészetek központja", "Az Esja-hegy lábánál fekszik", "Számos túraútvonal központja"],
+      ro: ["Casa lui Halldór Laxness", "Centru de sere legumicole", "Muntele Esja în apropiere", "Oraș verde cu multe trasee"],
+      en: ["Home of Halldór Laxness", "Center for geothermal greenhouses", "Near Mount Esja", "Known for extensive hiking paths"],
+    },
+    image: "/poi-images/iceland-mosfellsbaer-cities-v2.webp",
+},  {
     id: "iceland-selfoss-cities-v2",
     type: "town",
-    name: { de: "Selfoss", hu: "Selfoss", ro: "Selfoss", en: "Selfoss" },
+    name: { de: "Selfoss", hu: "Selfoss", ro: "Selfoss", en: "Selfoss",
+image: "/poi-images/iceland-selfoss-cities-v2.webp"
+},
     coords: [-20.9833, 63.9333],
     coordinates: { lat: 63.9333, lng: -20.9833 },
     description: {
@@ -152,11 +259,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș interior din Islanda", "Situat pe Șoseaua de Centură (Ruta 1)", "Locul unde este înmormântat șahistul Bobby Fischer", "Inima industriei lactatelor din țară"],
       en: ["Largest inland town in Iceland", "Located on the Ring Road (Route 1)", "Burial place of chess champion Bobby Fischer", "Center of the Icelandic dairy industry"],
     },
-    imageHint: "Selfoss bridge over Olfusa river", image: "/poi-images/iceland-selfoss-cities-v2.webp"},
-  {
+imageHint: "Selfoss bridge over Olfusa river",
+    descriptionAdvanced: {
+      de: "Selfoss ist das größte Handels- und Industriezentrum Südislands. Die Stadt liegt am Ufer des mächtigen Flusses Ölfusá und bildet den Einstieg in den Golden Circle.",
+      hu: "Dél-Izland legnagyobb kereskedelmi és ipari központja az Ölfusá folyó partján. Fontos közlekedési csomópont, mely kaput nyit az ország legnépszerűbb túraútvonalai felé.",
+      ro: "Cel mai mare centru comercial și industrial din sudul Islandei este situat pe malul râului Ölfusá. Este un nod de transport vital și poarta către Cercul de Aur.",
+      en: "The largest commercial and industrial hub in South Iceland sits on the banks of the Ölfusá river. It serves as a vital transit point and gateway to the Golden Circle.",
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt in Südisland", "Brücke über Ölfusá seit 1891", "Sitz der Molkerei MS", "Bobby Fischer ist hier begraben"],
+      hu: ["Dél-Izland legnagyobb városa", "Az Ölfusá-híd 1891-ben épült", "Az MS tejüzem székhelye", "Bobby Fischer itt nyugszik"],
+      ro: ["Cel mai mare oraș din sud", "Pod peste Ölfusá din 1891", "Sediul lăptăriei MS", "Bobby Fischer este înmormântat aici"],
+      en: ["Largest town in South Iceland", "Bridge over Ölfusá built 1891", "Home to MS dairy factory", "Bobby Fischer is buried here"],
+    },
+    image: "/poi-images/iceland-selfoss-cities-v2.webp",
+},  {
     id: "iceland-akranes-cities-v2",
     type: "town",
-    name: { de: "Akranes", hu: "Akranes", ro: "Akranes", en: "Akranes" },
+    name: { de: "Akranes", hu: "Akranes", ro: "Akranes", en: "Akranes",
+image: "/poi-images/iceland-akranes-cities-v2.webp"
+},
     coords: [-22.0667, 64.3167],
     coordinates: { lat: 64.3167, lng: -22.0667 },
     description: {
@@ -171,11 +293,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Dispune de două faruri deschise publicului", "Conectat de Reykjavík prin tunelul Hvalfjörður", "Renumit pentru echipa locală de fotbal", "Găzduiește o fabrică majoră de ciment"],
       en: ["Features two lighthouses open to visitors", "Connected to Reykjavík via the Hvalfjörður tunnel", "Known for its successful football club", "Home to a large cement factory"],
     },
-    imageHint: "Akranes lighthouse at the coast", image: "/poi-images/iceland-akranes-cities-v2.webp"},
-  {
+imageHint: "Akranes lighthouse at the coast",
+    descriptionAdvanced: {
+      de: "Bekannt für seine lange Fischereitradition und zwei fotogene Leuchttürme am Kap, ist Akranes auch ein Industriestandort mit einem bedeutenden Zementwerk.",
+      hu: "Hosszú halászati hagyományairól és a fokon álló két fotogén világítótornyáról ismert város. Fontos ipari központ, ahol az ország egyik legjelentősebb cementgyára működik.",
+      ro: "Cunoscut pentru tradiția sa pescărească și cele două faruri fotogenice de la capătul falezei, Akranes este și un centru industrial cu o fabrică de ciment majoră.",
+      en: "Known for its long fishing tradition and two photogenic lighthouses on the cape, Akranes is also an industrial hub with a significant cement factory.",
+    },
+    factsAdvanced: {
+      de: ["Zwei markante Leuchttürme", "Hafen am Fuße des Akrafjall", "Hvalfjarðargöng-Tunnel seit 1998", "Wichtiges Zementwerk"],
+      hu: ["Két jellegzetes világítótorony", "Az Akrafjall-hegy lábánál fekszik", "Hvalfjarðargöng alagút 1998 óta", "Jelentős cementgyár"],
+      ro: ["Două faruri emblematice", "Port la baza muntelui Akrafjall", "Tunelul Hvalfjarðargöng din 1998", "Fabrică de ciment majoră"],
+      en: ["Two iconic lighthouses", "Located by Mount Akrafjall", "Hvalfjarðargöng tunnel since 1998", "Major cement production site"],
+    },
+    image: "/poi-images/iceland-akranes-cities-v2.webp",
+},  {
     id: "iceland-seltjarnarnes-cities-v2",
     type: "town",
-    name: { de: "Seltjarnarnes", hu: "Seltjarnarnes", ro: "Seltjarnarnes", en: "Seltjarnarnes" },
+    name: { de: "Seltjarnarnes", hu: "Seltjarnarnes", ro: "Seltjarnarnes", en: "Seltjarnarnes",
+image: "/poi-images/iceland-seltjarnarnes-cities-v2.webp"
+},
     coords: [-21.9958, 64.1539],
     coordinates: { lat: 64.1539, lng: -21.9958 },
     description: {
@@ -190,11 +327,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cea mai mică municipalitate ca suprafață", "Locația farului Grótta", "Găzduiește un muzeu de medicină", "Loc popular pentru observarea păsărilor"],
       en: ["Smallest municipality in Iceland by area", "Location of the Grótta lighthouse", "Home to a medical history museum", "Important spot for birdwatching"],
     },
-    imageHint: "Grotta lighthouse in Seltjarnarnes at sunset", image: "/poi-images/iceland-seltjarnarnes-cities-v2.webp"},
-  {
+imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
+    descriptionAdvanced: {
+      de: "Diese kleine Gemeinde auf der Spitze der Halbinsel bei Reykjavík ist berühmt für ihr Vogelschutzgebiet und den Grótta-Leuchtturm, der ein beliebter Ort für Nordlichter ist.",
+      hu: "A Reykjavík melletti félsziget csúcsán fekvő kis település madárrezervátumáról és a Grótta-világítótoronyról híres, mely az északi fény megfigyelésének kedvelt helyszíne.",
+      ro: "Această mică municipalitate din vârful peninsulei de lângă Reykjavik este celebră pentru rezervația de păsări și farul Grótta, un loc ideal pentru aurora boreală.",
+      en: "This small municipality at the tip of the peninsula near Reykjavík is famous for its bird sanctuary and the Grótta lighthouse, a prime spot for Northern Lights.",
+    },
+    factsAdvanced: {
+      de: ["Grótta-Leuchtturm am Ende", "Wichtiges Vogelschutzgebiet", "Medizinhistorisches Museum", "Kleinstes Gebiet aller Gemeinden"],
+      hu: ["Grótta-világítótorony a csúcson", "Fontos madárvédelmi terület", "Orvostörténeti Múzeum", "Izland legkisebb területű községe"],
+      ro: ["Farul Grótta în extremitate", "Rezervație importantă de păsări", "Muzeul de Istorie a Medicinei", "Cea mai mică suprafață comunală"],
+      en: ["Grótta lighthouse at the tip", "Important bird sanctuary", "Medical History Museum", "Smallest municipality by area"],
+    },
+    image: "/poi-images/iceland-seltjarnarnes-cities-v2.webp",
+},  {
     id: "iceland-vestmannaeyjar-cities-v2",
     type: "town",
-    name: { de: "Vestmannaeyjar", hu: "Vestmannaeyjar", ro: "Vestmannaeyjar", en: "Vestmannaeyjar" },
+    name: { de: "Vestmannaeyjar", hu: "Vestmannaeyjar", ro: "Vestmannaeyjar", en: "Vestmannaeyjar",
+image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp"
+},
     coords: [-20.27, 63.44],
     coordinates: { lat: 63.44, lng: -20.27 },
     description: {
@@ -209,11 +361,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cea mai mare colonie de puffini din lume", "Vulcanul Eldfell a erupt chiar lângă oraș în 1973", "Gazda festivalului Þjóðhátíð în august", "Centru major de procesare a peștelui"],
       en: ["Largest puffin colony in the world", "Eldfell volcano formed within the town area in 1973", "Hosts the famous Þjóðhátíð festival in August", "Major hub for Iceland's fishing industry"],
     },
-    imageHint: "Vestmannaeyjar harbor and steep cliffs", image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp"},
-  {
+imageHint: "Vestmannaeyjar harbor and steep cliffs",
+    descriptionAdvanced: {
+      de: "Die Westmännerinseln sind für den Vulkanausbruch von 1973 bekannt, der die Stadt fast zerstörte. Heute beherbergen sie eine der weltweit größten Papageitaucher-Kolonien.",
+      hu: "A Vestmann-szigetek az 1973-as vulkánkitörésről híres, amely majdnem elpusztította a várost. Ma a világ egyik legnagyobb lunda-kolóniájának ad otthont.",
+      ro: "Insulele Westman sunt cunoscute pentru erupția vulcanică din 1973 care aproape a distrus orașul. Astăzi găzduiesc una dintre cele mai mari colonii de pufini din lume.",
+      en: "The Westman Islands are famous for the 1973 volcanic eruption that nearly destroyed the town. Today, they host one of the world's largest puffin colonies.",
+    },
+    factsAdvanced: {
+      de: ["Vulkanausbruch des Eldfell 1973", "Größte Papageitaucher-Kolonie", "Jährliches Festival Þjóðhátíð", "Nur eine bewohnte Insel (Heimaey)"],
+      hu: ["Az Eldfell 1973-as kitörése", "A legnagyobb lunda-kolónia", "Þjóðhátíð fesztivál helyszíne", "Csak Heimaey lakott"],
+      ro: ["Erupția Eldfell din 1973", "Cea mai mare colonie de pufini", "Festivalul anual Þjóðhátíð", "O singură insulă locuită (Heimaey)"],
+      en: ["1973 Eldfell eruption", "Largest puffin colony in the world", "Home to Þjóðhátíð festival", "Only Heimaey island is inhabited"],
+    },
+    image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp",
+},  {
     id: "iceland-grindavik-cities-v2",
     type: "town",
-    name: { de: "Grindavík", hu: "Grindavík", ro: "Grindavík", en: "Grindavík" },
+    name: { de: "Grindavík", hu: "Grindavík", ro: "Grindavík", en: "Grindavík",
+image: "/poi-images/iceland-grindavik-cities-v2.webp"
+},
     coords: [-22.4358, 63.8425],
     coordinates: { lat: 63.8425, lng: -22.4358 },
     description: {
@@ -228,11 +395,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cel mai apropiat oraș de Laguna Albastră", "Găzduiește un muzeu al peștelui sărat", "Zonă afectată frecvent de activitate vulcanică", "Port important pentru exportul de cod"],
       en: ["Nearest town to the Blue Lagoon", "Home to the Icelandic Salted Fish Museum", "Frequently affected by volcanic activity", "Significant port for salt fish exports"],
     },
-    imageHint: "Grindavik harbor with fishing boats", image: "/poi-images/iceland-grindavik-cities-v2.webp"},
-  {
+imageHint: "Grindavik harbor with fishing boats",
+    descriptionAdvanced: {
+      de: "Diese Hafenstadt an der Südküste der Halbinsel Reykjanes liegt direkt neben der berühmten Blauen Lagune. Sie ist ein bedeutendes Zentrum für die Fischverarbeitung.",
+      hu: "A Reykjanes-félsziget déli partján fekvő kikötőváros közvetlenül a híres Kék Lagúna mellett található. Fontos halászati és halfeldolgozó központ.",
+      ro: "Acest oraș portuar de pe coasta de sud a peninsulei Reykjanes este situat lângă faimoasa Lagună Albastră. Este un centru major pentru procesarea peștelui.",
+      en: "This fishing town on the south coast of the Reykjanes Peninsula is located right next to the famous Blue Lagoon. It is a major hub for fish processing.",
+    },
+    factsAdvanced: {
+      de: ["Nahe der Blauen Lagune", "Stark betroffen von Eruptionen 2024", "Wichtiger Fischereihafen", "Isländisches Salzfischmuseum"],
+      hu: ["A Kék Lagúna szomszédja", "A 2024-es kitörések érintették", "Fontos halászkikötő", "Izlandi Sós-hal Múzeum"],
+      ro: ["Lângă Laguna Albastră", "Afectat de erupțiile din 2024", "Port pescăresc important", "Muzeul Peștelui Sărat"],
+      en: ["Near the Blue Lagoon", "Impacted by 2024 eruptions", "Key fishing harbor", "Icelandic Saltfish Museum"],
+    },
+    image: "/poi-images/iceland-grindavik-cities-v2.webp",
+},  {
     id: "iceland-isafjordur-cities-v2",
     type: "town",
-    name: { de: "Ísafjörður", hu: "Ísafjörður", ro: "Ísafjörður", en: "Ísafjörður" },
+    name: { de: "Ísafjörður", hu: "Ísafjörður", ro: "Ísafjörður", en: "Ísafjörður",
+image: "/poi-images/iceland-isafjordur-cities-v2.webp"
+},
     coords: [-23.1347, 66.0747],
     coordinates: { lat: 66.0747, lng: -23.1347 },
     description: {
@@ -247,11 +429,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din Fiordurile de Vest", "Cunoscut pentru casele sale vechi din lemn", "Gazda festivalului muzical 'Aldrei fór ég suður'", "Punct major pentru turismul în zona arctică"],
       en: ["Largest town in the Westfjords", "Known for its historic wooden houses", "Hosts the 'Aldrei fór ég suður' music festival", "Major base for Arctic tourism"],
     },
-    imageHint: "Isafjordur town view from above the fjord", image: "/poi-images/iceland-isafjordur-cities-v2.webp"},
-  {
+imageHint: "Isafjordur town view from above the fjord",
+    descriptionAdvanced: {
+      de: "Ísafjörður ist das kulturelle und administrative Zentrum der Westfjorde. Die Stadt ist von steilen Bergen umgeben und für ihre historische Holzarchitektur bekannt.",
+      hu: "Ísafjörður a Nyugati-fjordok kulturális és közigazgatási központja. A meredek hegyekkel körülvett város híres történelmi faépületeiről és zenei életéről.",
+      ro: "Ísafjörður este centrul cultural și administrativ al fiordurilor de vest. Orașul este înconjurat de munți abrupți și este renumit pentru arhitectura sa istorică din lemn.",
+      en: "Ísafjörður is the cultural and administrative hub of the Westfjords. Surrounded by steep mountains, the town is famous for its historic wooden architecture.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Westfjorde", "Ältestes erhaltenes Haus (1734)", "Austragungsort von 'Aldrei fór ég suður'", "Steile Berge schützen den Fjord"],
+      hu: ["A Nyugati-fjordok központja", "Legrégebbi háza 1734-ből való", "'Aldrei fór ég suður' fesztivál", "Meredek hegyek övezik"],
+      ro: ["Centrul fiordurilor de vest", "Cea mai veche casă din 1734", "Găzduiește festivalul de rock local", "Înconjurat de munți abrupți"],
+      en: ["Capital of the Westfjords", "Oldest house built in 1734", "Home to 'Aldrei fór ég suður' fest", "Flanked by steep mountain walls"],
+    },
+    image: "/poi-images/iceland-isafjordur-cities-v2.webp",
+},  {
     id: "iceland-saudarkrokur-cities-v2",
     type: "town",
-    name: { de: "Sauðárkrókur", hu: "Sauðárkrókur", ro: "Sauðárkrókur", en: "Sauðárkrókur" },
+    name: { de: "Sauðárkrókur", hu: "Sauðárkrókur", ro: "Sauðárkrókur", en: "Sauðárkrókur",
+image: "/poi-images/iceland-saudarkrokur-cities-v2.webp"
+},
     coords: [-19.6394, 65.7461],
     coordinates: { lat: 65.7461, lng: -19.6394 },
     description: {
@@ -266,11 +463,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Centru pentru sporturile ecvestre islandeze", "Deține o tăbăcărie renumită", "Aproape de insula istorică Drangey", "Port major pentru exportul de pește"],
       en: ["Center for Icelandic horse riding", "Home to a well-known tannery", "Near the historic island of Drangey", "Significant port for fish exports"],
     },
-    imageHint: "Saudarkrokur town and the fjord", image: "/poi-images/iceland-saudarkrokur-cities-v2.webp"},
-  {
+imageHint: "Saudarkrokur town and the fjord",
+    descriptionAdvanced: {
+      de: "Sauðárkrókur ist die größte Stadt am Skagafjörður und bekannt für seine Verbindung zur isländischen Pferdezucht sowie für die Gerberei von Fischleder.",
+      hu: "A Skagafjörður partján fekvő város az izlandi lótartás és lovassportok központja. Különlegessége az ország egyetlen halkikészítő üzeme és tímárműhelye.",
+      ro: "Sauðárkrókur este cel mai mare oraș de la fiordul Skagafjörður, renumit pentru creșterea cailor islandezi și pentru tăbăcăria sa unică de piele de pește.",
+      en: "Sauðárkrókur is the largest town in Skagafjörður, famous for its ties to Icelandic horse breeding and its unique fish leather tannery.",
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt im Skagafjörður", "Einzige Fischleder-Gerberei", "Wichtiger Ort für Pferdesport", "Nahe der Insel Drangey"],
+      hu: ["Skagafjörður legnagyobb városa", "Egyetlen halkikészítő üzem", "Lovassportok központja", "Drangey-sziget közelében"],
+      ro: ["Cel mai mare oraș din Skagafjörður", "Singura tăbăcărie de pește", "Centru pentru sporturi ecvestre", "Lângă insula Drangey"],
+      en: ["Largest town in Skagafjörður", "Only fish leather tannery", "Hub for horse-related activities", "Near the island of Drangey"],
+    },
+    image: "/poi-images/iceland-saudarkrokur-cities-v2.webp",
+},  {
     id: "iceland-hveragerdi-cities-v2",
     type: "town",
-    name: { de: "Hveragerði", hu: "Hveragerði", ro: "Hveragerði", en: "Hveragerði" },
+    name: { de: "Hveragerði", hu: "Hveragerði", ro: "Hveragerði", en: "Hveragerði",
+image: "/poi-images/iceland-hveragerdi-cities-v2.webp"
+},
     coords: [-21.1883, 63.9972],
     coordinates: { lat: 63.9972, lng: -21.1883 },
     description: {
@@ -285,11 +497,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Supranumit 'Orașul Florilor'", "Situat deasupra unei zone termale active", "Expoziție despre cutremure în centru", "Punct de start pentru valea Reykjadalur"],
       en: ["Known as the 'Flower Town' of Iceland", "Built directly over a geothermal field", "Features an earthquake exhibition", "Starting point for Reykjadalur hot river hike"],
     },
-    imageHint: "Hveragerdi greenhouses and steam vents", image: "/poi-images/iceland-hveragerdi-cities-v2.webp"},
-  {
+imageHint: "Hveragerdi greenhouses and steam vents",
+    descriptionAdvanced: {
+      de: "Hveragerði liegt auf einem aktiven Thermalgebiet und nutzt die Erdwärme für den Betrieb zahlreicher Gewächshäuser. Die Stadt ist ein Zentrum für Gartenbau.",
+      hu: "Az aktív geotermikus területen fekvő Hveragerði az ország kertészeti központja. Az üvegházakat a földhő fűti, így itt akár trópusi növényeket is termesztenek.",
+      ro: "Situat pe un câmp geotermal activ, Hveragerði folosește căldura pământului pentru numeroasele sale sere. Este centrul horticol al Islandei.",
+      en: "Located on an active geothermal field, Hveragerði uses earth's heat to power numerous greenhouses. It is the horticultural center of Iceland.",
+    },
+    factsAdvanced: {
+      de: ["Gewächshaus-Hauptstadt", "Erdbeben von 2008 spürbar", "Brotbacken im heißen Boden", "Wanderweg ins Reykjadalur"],
+      hu: ["Az üvegházak fővárosa", "A 2008-as földrengés központja", "Hőforrásban sült kenyér", "Reykjadalur túraútvonal kezdete"],
+      ro: ["Capitala serelor geotermale", "Epicentrul cutremurului din 2008", "Pâine coaptă în pământ fierbinte", "Traseu către valea Reykjadalur"],
+      en: ["The greenhouse capital", "2008 earthquake epicenter nearby", "Bread baked in hot ground", "Gateway to Reykjadalur valley"],
+    },
+    image: "/poi-images/iceland-hveragerdi-cities-v2.webp",
+},  {
     id: "iceland-husavik-cities-v2",
     type: "town",
-    name: { de: "Húsavík", hu: "Húsavík", ro: "Húsavík", en: "Húsavík" },
+    name: { de: "Húsavík", hu: "Húsavík", ro: "Húsavík", en: "Húsavík",
+image: "/poi-images/iceland-husavik-cities-v2.webp"
+},
     coords: [-17.3383, 66.0447],
     coordinates: { lat: 66.0447, lng: -17.3383 },
     description: {
@@ -304,11 +531,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cea mai veche așezare conform Landnámabók", "Găzduiește Muzeul Balenelor din Húsavík", "Renumit prin filmul 'Eurovision Song Contest'", "Băi geotermale GeoSea pe malul mării"],
       en: ["First settled site in Iceland per Landnámabók", "Home to the Húsavík Whale Museum", "Featured in the 'Eurovision Song Contest' film", "Location of GeoSea geothermal sea baths"],
     },
-    imageHint: "Husavik harbor with traditional wooden boats", image: "/poi-images/iceland-husavik-cities-v2.webp"},
-  {
+imageHint: "Husavik harbor with traditional wooden boats",
+    descriptionAdvanced: {
+      de: "Húsavík gilt als europäische Hauptstadt der Walbeobachtung. Das charmante Hafenstädtchen im Norden beherbergt ein Walmuseum und das Erkundungsmuseum.",
+      hu: "Húsavík Európa bálnales-fővárosa az északi parton. A hangulatos kikötőváros bálnamúzeummal és az űrhajósok kiképzését bemutató felfedezőmúzeummal is várja a látogatókat.",
+      ro: "Húsavík este considerată capitala europeană a observării balenelor. Acest oraș portuar pitoresc din nord găzduiește un muzeu al balenelor și Muzeul Explorării.",
+      en: "Húsavík is widely regarded as the whale-watching capital of Europe. This charming northern port town features a whale museum and the Exploration Museum.",
+    },
+    factsAdvanced: {
+      de: ["Walbeobachtungshauptstadt", "Älteste Siedlung (Garðar Svavarsson)", "Walmuseum mit Blauwal-Skelett", "Kulisse für Eurovision-Film"],
+      hu: ["Bálnales-főváros", "Izland legrégebbi települése", "Kék bálna csontváz a múzeumban", "Eurovíziós film forgatási helyszíne"],
+      ro: ["Capitala observării balenelor", "Cea mai veche așezare (Svavarsson)", "Scelet de balenă albastră în muzeu", "Locație de film pentru Eurovision"],
+      en: ["Whale watching capital of Europe", "Oldest settlement site", "Whale museum with blue whale skeleton", "Setting for Eurovision movie"],
+    },
+    image: "/poi-images/iceland-husavik-cities-v2.webp",
+},  {
     id: "iceland-borgarnes-cities-v2",
     type: "town",
-    name: { de: "Borgarnes", hu: "Borgarnes", ro: "Borgarnes", en: "Borgarnes" },
+    name: { de: "Borgarnes", hu: "Borgarnes", ro: "Borgarnes", en: "Borgarnes",
+image: "/poi-images/iceland-borgarnes-cities-v2.webp"
+},
     coords: [-21.9108, 64.5383],
     coordinates: { lat: 64.5383, lng: -21.9108 },
     description: {
@@ -323,11 +565,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Găzduiește Centrul Colonizării (Settlement Center)", "Lângă cel mai lung pod din Islanda", "Punct de oprire major pe Șoseaua de Centură", "Cadru pentru multe evenimente din Saga lui Egill"],
       en: ["Home to the Settlement Center museum", "Located by one of Iceland's longest bridges", "Major transport hub on the Ring Road", "Setting for many events in the Egils Saga"],
     },
-    imageHint: "Borgarnes town view with mountains in background", image: "/poi-images/iceland-borgarnes-cities-v2.webp"},
-  {
+imageHint: "Borgarnes town view with mountains in background",
+    descriptionAdvanced: {
+      de: "Borgarnes liegt auf einer Halbinsel im Borgarfjörður und ist eng mit den isländischen Sagas verbunden. Das Siedlungszentrum dokumentiert die Geschichte der ersten Siedler.",
+      hu: "A Borgarfjörður partján fekvő város az izlandi sagák és az első telepesek történetének központja. Itt található a népszerű Honfoglalási Központ kiállítás.",
+      ro: "Situat pe o peninsulă în Borgarfjörður, Borgarnes este strâns legat de sagele islandeze. Centrul de colonizare documentează istoria primilor coloniști.",
+      en: "Located on a peninsula in Borgarfjörður, Borgarnes is deeply tied to the Icelandic Sagas. The Settlement Centre documents the history of the first settlers.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Siedlungszentrums", "Tor zum Westen Islands", "Verbindung zur Egils Saga", "Lange Brücke über den Fjord"],
+      hu: ["A Honfoglalási Központ székhelye", "Kapu Nyugat-Izland felé", "Az Egils Saga helyszíne", "Hosszú híd a fiord felett"],
+      ro: ["Sediul Centrului de Colonizare", "Poarta către vestul Islandei", "Legat de Saga lui Egil", "Pod lung peste fiord"],
+      en: ["Home to the Settlement Centre", "Gateway to West Iceland", "Linked to Egil's Saga", "Features a long fjord bridge"],
+    },
+    image: "/poi-images/iceland-borgarnes-cities-v2.webp",
+},  {
     id: "iceland-sandgerdi-cities-v2",
     type: "town",
-    name: { de: "Sandgerði", hu: "Sandgerði", ro: "Sandgerði", en: "Sandgerði" },
+    name: { de: "Sandgerði", hu: "Sandgerði", ro: "Sandgerði", en: "Sandgerði",
+image: "/poi-images/iceland-sandgerdi-cities-v2.webp"
+},
     coords: [-22.7072, 64.0375],
     coordinates: { lat: 64.0375, lng: -22.7072 },
     description: {
@@ -342,11 +599,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai mari porturi pescărești", "Găzduiește Centrul Științific Sudurnes", "Aproape de farul Garðskagi", "Zonă crucială pentru păsările migratoare"],
       en: ["One of Iceland's largest fishing ports", "Home to the Sudurnes Science and Learning Center", "Near the Garðskagi lighthouse", "Major site for migratory birds"],
     },
-    imageHint: "Sandgerdi harbor with coastal scenery", image: "/poi-images/iceland-sandgerdi-cities-v2.webp"},
-  {
+imageHint: "Sandgerdi harbor with coastal scenery",
+    descriptionAdvanced: {
+      de: "Sandgerði ist ein bedeutender Fischereihafen an der Westküste von Reykjanes. Das Naturzentrum bietet Einblicke in die maritime Biodiversität der Region.",
+      hu: "Sandgerði jelentős halászkikötő a Reykjanes-félsziget nyugati partján. A város természetvédelmi központja a régió tengeri élővilágát és madárvilágát mutatja be.",
+      ro: "Sandgerði este un port pescăresc important pe coasta de vest a peninsulei Reykjanes. Centrul naturii oferă detalii despre biodiversitatea marină a regiunii.",
+      en: "Sandgerði is a major fishing port on the west coast of the Reykjanes Peninsula. Its nature center provides insights into the region's marine biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Bedeutender Fischereihafen", "Nahe dem Flughafen Keflavík", "Suðurnes-Naturzentrum", "Teil der Gemeinde Suðurnesjabær"],
+      hu: ["Jelentős halászkikötő", "Keflavík repülőtér közelében", "Suðurnes Természetvédelmi Központ", "Suðurnesjabær község része"],
+      ro: ["Port pescăresc major", "Lângă aeroportul Keflavík", "Centrul Naturii Suðurnes", "Parte din Suðurnesjabær"],
+      en: ["Significant fishing harbor", "Close to Keflavík Airport", "Suðurnes Nature Centre site", "Part of Suðurnesjabær district"],
+    },
+    image: "/poi-images/iceland-sandgerdi-cities-v2.webp",
+},  {
     id: "iceland-hofn-cities-v2",
     type: "town",
-    name: { de: "Höfn", hu: "Höfn", ro: "Höfn", en: "Höfn" },
+    name: { de: "Höfn", hu: "Höfn", ro: "Höfn", en: "Höfn",
+image: "/poi-images/iceland-hofn-cities-v2.webp"
+},
     coords: [-15.2081, 64.2539],
     coordinates: { lat: 64.2539, lng: -15.2081 },
     description: {
@@ -361,11 +633,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cunoscut drept 'Capitala homarului' în Islanda", "Oferă vederi spre ghețarul Vatnajökull", "Cel mai important port din sud-est", "Gazda unui festival anual al homarului"],
       en: ["Known as the 'Lobster Capital' of Iceland", "Offers views of the Vatnajökull glacier tongues", "Main fishing port in the southeast", "Hosts an annual Lobster Festival"],
     },
-    imageHint: "Hofn town with Vatnajokull glacier in background", image: "/poi-images/iceland-hofn-cities-v2.webp"},
-  {
+imageHint: "Hofn town with Vatnajokull glacier in background",
+    descriptionAdvanced: {
+      de: "Höfn ist das Tor zum Südosten und liegt in unmittelbarer Nähe des Vatnajökull-Gletschers. Die Stadt ist besonders für ihren Hummerfang bekannt.",
+      hu: "Höfn a délkeleti régió kapuja, mely a Vatnajökull-gleccser közvetlen közelében fekszik. A város gasztronómiai hírnevét a kiváló minőségű homárnak köszönheti.",
+      ro: "Höfn este poarta către sud-est, situată în imediata apropiere a ghețarului Vatnajökull. Orașul este faimos în special pentru pescuitul de homari.",
+      en: "Höfn is the gateway to the southeast, located in close proximity to the Vatnajökull glacier. The town is especially renowned for its lobster fishing.",
+    },
+    factsAdvanced: {
+      de: ["Tor zum Vatnajökull", "Hummer-Hauptstadt Islands", "Hafen in einer Lagune", "Jährliches Hummerfestival"],
+      hu: ["A Vatnajökull kapuja", "Izland homár-fővárosa", "Lagúnában fekvő kikötő", "Éves homárfesztivál"],
+      ro: ["Poarta către Vatnajökull", "Capitala homarului din Islanda", "Port situat într-o lagună", "Festival anual al homarului"],
+      en: ["Gateway to Vatnajökull", "Lobster capital of Iceland", "Harbor located in a lagoon", "Annual Lobster Festival site"],
+    },
+    image: "/poi-images/iceland-hofn-cities-v2.webp",
+},  {
     id: "iceland-thorlakshofn-cities-v2",
     type: "town",
-    name: { de: "Þorlákshöfn", hu: "Þorlákshöfn", ro: "Þorlákshöfn", en: "Þorlákshöfn" },
+    name: { de: "Þorlákshöfn", hu: "Þorlákshöfn", ro: "Þorlákshöfn", en: "Þorlákshöfn",
+image: "/poi-images/iceland-thorlakshofn-cities-v2.webp"
+},
     coords: [-21.3667, 63.85],
     coordinates: { lat: 63.85, lng: -21.3667 },
     description: {
@@ -380,11 +667,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Principalul port de feribot înainte de Landeyjahöfn", "Centrul extracției de nisip în Islanda", "Cunoscut pentru condițiile de surfing", "Găzduiește unități mari de procesare a peștelui"],
       en: ["Main ferry port before Landeyjahöfn was built", "Center for Iceland's sand mining industry", "Known for its surfing conditions", "Home to large fish processing plants"],
     },
-    imageHint: "Thorlakshofn harbor and black sand beach", image: "/poi-images/iceland-thorlakshofn-cities-v2.webp"},
-  {
+imageHint: "Thorlakshofn harbor and black sand beach",
+    descriptionAdvanced: {
+      de: "Þorlákshöfn ist ein wichtiger Fährhafen an der Südküste und bietet die einzige natürliche Hafenanlage in der weiten Küstenebene. Die Stadt ist bekannt für schwarze Sandstrände.",
+      hu: "Fontos komp- és halászkikötő a déli parton, mely az egyetlen természetes kikötőhely a széles tengerparti síkságon. Fekete homokos strandjai látványosak.",
+      ro: "Þorlákshöfn este un port important pentru feriboturi pe coasta de sud, oferind singurul port natural din câmpia de coastă. Este cunoscut pentru plajele cu nisip negru.",
+      en: "Þorlákshöfn is a vital ferry port on the south coast, featuring the only natural harbor in the vast coastal plain. It is known for its black sand beaches.",
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Fährhafen", "Einziger Naturhafen im Süden", "Zentrum für Wellenreiten", "Export von isländischem Wasser"],
+      hu: ["Fontos kompkikötő", "Dél egyetlen természetes kikötője", "Hullámlovas központ", "Izlandi víz exportjának helyszíne"],
+      ro: ["Port vital de feribot", "Singurul port natural din sud", "Centru pentru surfing", "Export de apă islandeză"],
+      en: ["Major ferry terminal", "Only natural harbor in the south", "Surfing destination", "Icelandic water export hub"],
+    },
+    image: "/poi-images/iceland-thorlakshofn-cities-v2.webp",
+},  {
     id: "iceland-dalvik-cities-v2",
     type: "town",
-    name: { de: "Dalvík", hu: "Dalvík", ro: "Dalvík", en: "Dalvík" },
+    name: { de: "Dalvík", hu: "Dalvík", ro: "Dalvík", en: "Dalvík",
+image: "/poi-images/iceland-dalvik-cities-v2.webp"
+},
     coords: [-18.5286, 65.9702],
     coordinates: { lat: 65.9702, lng: -18.5286 },
     description: {
@@ -399,11 +701,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Terminal de feribot pentru cercul polar (Grímsey)", "Gazda festivalului anual 'Ziua Peștelui'", "Centru important de schi (Böðvarsholt)", "Tradiție puternică în pescuitul oceanic"],
       en: ["Ferry link to the Arctic Circle (Grímsey)", "Hosts the annual 'Fish Day' festival in August", "Major skiing area at Böðvarsholt", "Strong deep-sea fishing tradition"],
     },
-    imageHint: "Dalvik harbor with snow-capped mountains", image: "/poi-images/iceland-dalvik-cities-v2.webp"},
-  {
+imageHint: "Dalvik harbor with snow-capped mountains",
+    descriptionAdvanced: {
+      de: "Dalvík ist ein bedeutender Fischereiort am Eyjafjörður und ein beliebtes Ziel für Wintersportler. Die Fähre zur Insel Grímsey startet von hier aus.",
+      hu: "Jelentős halásztelepülés az Eyjafjörður nyugati partján, mely a téli sportok kedvelőinek népszerű célpontja. Innen indul a komp a sarkkörön fekvő Grímsey-szigetre.",
+      ro: "Dalvík este un centru pescăresc important la fiordul Eyjafjörður și o destinație populară pentru sporturi de iarnă. Feribotul către insula Grímsey pleacă de aici.",
+      en: "Dalvík is a significant fishing village on Eyjafjörður and a popular destination for winter sports. The ferry to Grímsey island departs from its harbor.",
+    },
+    factsAdvanced: {
+      de: ["Fischereifest 'Fiskidagurinn mikli'", "Fähre zur Insel Grímsey", "Bedeutendes Skigebiet", "Bierspa im nahen Árskógssandur"],
+      hu: ["'Nagy Halnap' fesztivál", "Komp Grímsey szigetére", "Jelentős síközpont", "Sörfürdő a közeli Árskógssandurban"],
+      ro: ["Festivalul 'Marea Zi a Peștelui'", "Feribot către insula Grímsey", "Stațiune de schi importantă", "Spa cu bere în Árskógssandur"],
+      en: ["Great Fish Day festival", "Ferry to Grímsey island", "Major skiing destination", "Beer spa in nearby Árskógssandur"],
+    },
+    image: "/poi-images/iceland-dalvik-cities-v2.webp",
+},  {
     id: "iceland-siglufjordur-cities-v2",
     type: "town",
-    name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður" },
+    name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður",
+image: "/poi-images/iceland-siglufjordur-cities-v2.webp"
+},
     coords: [-18.9103, 66.1497],
     coordinates: { lat: 66.1497, lng: -18.9103 },
     description: {
@@ -418,11 +735,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Găzduiește Muzeul Erei Heringului, premiat internațional", "Locul filmării serialului TV 'Trapped'", "Accesibil doar prin mare până la construcția tunelurilor", "Centru pentru muzica populară islandeză"],
       en: ["Home to the award-winning Herring Era Museum", "Filming location for the TV series 'Trapped'", "Once accessible only by sea or mountain pass", "Center for folk music in Iceland"],
     },
-    imageHint: "Siglufjordur colorful houses and harbor", image: "/poi-images/iceland-siglufjordur-cities-v2.webp"},
-  {
+imageHint: "Siglufjordur colorful houses and harbor",
+    descriptionAdvanced: {
+      de: "Siglufjörður war einst das Zentrum der Heringfischerei in Island. Die isolierte Lage in einem tiefen Fjord macht sie heute zu einem malerischen Ziel für Touristen.",
+      hu: "Siglufjörður egykor Izland heringhalászati központja volt. A mély fiordban fekvő, korábban elszigetelt város ma festői turisztikai célpont és múzeumváros.",
+      ro: "Siglufjörður a fost cândva centrul pescuitului de hering din Islanda. Locația izolată într-un fiord adânc îl face astăzi o destinație turistică pitorească.",
+      en: "Siglufjörður was once the herring fishing capital of Iceland. Its isolated location in a deep fjord makes it a picturesque destination for cultural tourism.",
+    },
+    factsAdvanced: {
+      de: ["Ehemalige Heringshauptstadt", "Hering-Ära-Museum", "Erreichbar durch Tunnel seit 2010", "Nördlichste Stadt Islands"],
+      hu: ["Egykori hering-főváros", "Heringkorszak Múzeum", "2010 óta alagúton át elérhető", "Izland legészakibb városa"],
+      ro: ["Fosta capitală a heringului", "Muzeul Erei Heringului", "Accesibil prin tunel din 2010", "Cel mai nordic oraș islandez"],
+      en: ["Former herring capital", "Herring Era Museum", "Connected by tunnel in 2010", "Northernmost town in Iceland"],
+    },
+    image: "/poi-images/iceland-siglufjordur-cities-v2.webp",
+},  {
     id: "iceland-stykkisholmur-cities-v2",
     type: "town",
-    name: { de: "Stykkishólmur", hu: "Stykkishólmur", ro: "Stykkishólmur", en: "Stykkishólmur" },
+    name: { de: "Stykkishólmur", hu: "Stykkishólmur", ro: "Stykkishólmur", en: "Stykkishólmur",
+image: "/poi-images/iceland-stykkisholmur-cities-v2.webp"
+},
     coords: [-22.7297, 65.0744],
     coordinates: { lat: 65.0744, lng: -22.7297 },
     description: {
@@ -437,11 +769,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Poarta către insulele din Breiðafjörður", "Găzduiește instalația artistică 'Biblioteca Apei'", "Port de feribot pentru insula Flatey", "Cea mai veche stație meteo din țară (din 1845)"],
       en: ["Gateway to the Breiðafjörður bay", "Home to the Library of Water art installation", "Ferry terminal for Flatey island", "Oldest weather station in Iceland (since 1845)"],
     },
-    imageHint: "Stykkisholmur harbor and Súgandisey cliff", image: "/poi-images/iceland-stykkisholmur-cities-v2.webp"},
-  {
+imageHint: "Stykkisholmur harbor and Súgandisey cliff",
+    descriptionAdvanced: {
+      de: "Stykkishólmur ist das Tor zum Breiðafjörður und bekannt für seine gut erhaltenen historischen Häuser. Die Stadt dient als Zentrum für die Region Snæfellsnes.",
+      hu: "Stykkishólmur a Breiðafjörður kapuja, mely jól megőrzött történelmi faházairól ismert. A város a Snæfellsnes-félsziget kereskedelmi és közigazgatási központja.",
+      ro: "Stykkishólmur este poarta către Breiðafjörður, cunoscut pentru casele sale istorice bine conservate. Orașul este centrul regional pentru Snæfellsnes.",
+      en: "Stykkishólmur is the gateway to Breiðafjörður, known for its well-preserved historic wooden houses. It serves as the regional hub for the Snæfellsnes area.",
+    },
+    factsAdvanced: {
+      de: ["Fähre über den Breiðafjörður", "Bibliothek des Wassers", "Historische Holzhäuser", "Wichtigster Hafen in Snæfellsnes"],
+      hu: ["Komp a Breiðafjörðurön", "Víz Könyvtára kiállítás", "Történelmi faházak", "Snæfellsnes fő kikötője"],
+      ro: ["Feribot peste Breiðafjörður", "Biblioteca de Apă", "Case istorice din lemn", "Cel mai important port din Snæfellsnes"],
+      en: ["Ferry across Breiðafjörður", "Library of Water installation", "Historic wooden buildings", "Primary harbor in Snæfellsnes"],
+    },
+    image: "/poi-images/iceland-stykkisholmur-cities-v2.webp",
+},  {
     id: "iceland-seydisfjordur-cities-v2",
     type: "town",
-    name: { de: "Seyðisfjörður", hu: "Seyðisfjörður", ro: "Seyðisfjörður", en: "Seyðisfjörður" },
+    name: { de: "Seyðisfjörður", hu: "Seyðisfjörður", ro: "Seyðisfjörður", en: "Seyðisfjörður",
+image: "/poi-images/iceland-seydisfjordur-cities-v2.webp"
+},
     coords: [-14.0103, 65.2597],
     coordinates: { lat: 65.2597, lng: -14.0103 },
     description: {
@@ -456,11 +803,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Punctul de acostare al feribotului Norröna din Danemarca", "Renumit pentru biserica albastră și drumul curcubeului", "Centru creativ major în estul Islandei", "Înconjurat de numeroase cascade spectaculoase"],
       en: ["Docking point for the Norröna ferry from Denmark", "Famous for its blue church and rainbow road", "Creative hub of East Iceland", "Surrounded by numerous mountain waterfalls"],
     },
-    imageHint: "Seydisfjordur rainbow road and blue church", image: "/poi-images/iceland-seydisfjordur-cities-v2.webp"},
-  {
+imageHint: "Seydisfjordur rainbow road and blue church",
+    descriptionAdvanced: {
+      de: "Seyðisfjörður ist für seine bunte Holzarchitektur und die Regenbogenstraße bekannt. Die Stadt ist der Ankunftsort für die internationale Fähre aus Dänemark.",
+      hu: "A színes faházairól és a szivárványos utcájáról híres városka a keleti parton. Ide érkezik a Dániából közlekedő nemzetközi kompjárat, a Norröna.",
+      ro: "Seyðisfjörður este faimos pentru arhitectura sa colorată din lemn și strada curcubeului. Este punctul de sosire pentru feribotul internațional din Danemarca.",
+      en: "Seyðisfjörður is famous for its colorful wooden architecture and rainbow street. It is the arrival point for the international ferry from Denmark.",
+    },
+    factsAdvanced: {
+      de: ["Internationale Fähre Norröna", "Berühmte Regenbogenstraße", "Zentrum der Kunstszene (LungA)", "Umgeben von Wasserfällen"],
+      hu: ["Norröna nemzetközi komp", "Híres szivárványos utca", "LungA művészeti fesztivál", "Vízesésekkel körülvéve"],
+      ro: ["Feribot internațional Norröna", "Faimoasa stradă curcubeu", "Centru artistic (LungA)", "Înconjurat de numeroase cascade"],
+      en: ["International ferry Norröna", "Famous rainbow street", "LungA Art Festival hub", "Ringed by numerous waterfalls"],
+    },
+    image: "/poi-images/iceland-seydisfjordur-cities-v2.webp",
+},  {
     id: "iceland-vogar-cities-v2",
     type: "town",
-    name: { de: "Vogar", hu: "Vogar", ro: "Vogar", en: "Vogar" },
+    name: { de: "Vogar", hu: "Vogar", ro: "Vogar", en: "Vogar",
+image: "/poi-images/iceland-vogar-cities-v2.webp"
+},
     coords: [-22.3847, 63.9822],
     coordinates: { lat: 63.9822, lng: -22.3847 },
     description: {
@@ -475,11 +837,26 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Acces facil către aeroportul Keflavík", "Locație istorică importantă pentru pescuit", "Aproape de muntele conic Keilir", "Loc popular pentru drumeții de coastă"],
       en: ["Easy access to Keflavík Airport", "Historically significant fishing site", "Near the cone-shaped mountain Keilir", "Popular spot for coastal walks"],
     },
-    imageHint: "Vogar coastline and residential houses", image: "/poi-images/iceland-vogar-cities-v2.webp"},
-  {
+imageHint: "Vogar coastline and residential houses",
+    descriptionAdvanced: {
+      de: "Vogar ist eine kleine, wachsende Gemeinde auf der Halbinsel Reykjanes. Sie bietet eine ruhige Wohnlage zwischen der Hauptstadt und dem internationalen Flughafen.",
+      hu: "Vogar egy dinamikusan fejlődő kis közösség a Reykjanes-félszigeten. Nyugodt lakókörnyezetet kínál félúton a főváros és a nemzetközi repülőtér között.",
+      ro: "Vogar este o mică comunitate în creștere de pe peninsula Reykjanes. Oferă o zonă rezidențială liniștită între capitală și aeroportul internațional.",
+      en: "Vogar is a small, growing community on the Reykjanes Peninsula. It offers a quiet residential setting between the capital and the international airport.",
+    },
+    factsAdvanced: {
+      de: ["Gemeinde Vogar", "Ca. 1.300 Einwohner", "Lage am Nordufer von Reykjanes", "Nahe an der Autobahn 41"],
+      hu: ["Vogar község központja", "Kb. 1300 lakos", "Reykjanes északi partján", "A 41-es főút közelében"],
+      ro: ["Municipalitatea Vogar", "Circa 1.300 de locuitori", "Coasta de nord a peninsulei", "Aproape de autostrada 41"],
+      en: ["Vogar municipality", "Approx. 1,300 inhabitants", "Northern Reykjanes coast", "Near the main Highway 41"],
+    },
+    image: "/poi-images/iceland-vogar-cities-v2.webp",
+},  {
     id: "iceland-faskrudsfjordur-cities-v2",
     type: "town",
-    name: { de: "Fáskrúðsfjörður", hu: "Fáskrúðsfjörður", ro: "Fáskrúðsfjörður", en: "Fáskrúðsfjörður" },
+    name: { de: "Fáskrúðsfjörður", hu: "Fáskrúðsfjörður", ro: "Fáskrúðsfjörður", en: "Fáskrúðsfjörður",
+image: "/poi-images/iceland-faskrudsfjordur-cities-v2.webp"
+},
     coords: [-14.0158, 64.9297],
     coordinates: { lat: 64.9297, lng: -14.0158 },
     description: {
@@ -495,5 +872,17 @@ export const icelandCitiesV2: POI[] = [
       en: ["Bilingual street signs (Icelandic/French)", "Home to the French Museum", "Former site of a historic French hospital", "Stunning location on the fjord of the same name"],
     },
     imageHint: "Faskrudsfjordur town with French heritage influence",
+    descriptionAdvanced: {
+      de: "Fáskrúðsfjörður ist historisch eng mit französischen Fischern verbunden. Die Straßennamen sind zweisprachig und ein ehemaliges französisches Krankenhaus dient als Hotel.",
+      hu: "Fáskrúðsfjörður történelme szorosan kötődik a francia halászokhoz. Az utcatáblák kétnyelvűek, az egykori francia kórház pedig ma elegáns szállodaként működik.",
+      ro: "Fáskrúðsfjörður este legat istoric de pescarii francezi. Numele străzilor sunt bilingve, iar fostul spital francez servește acum ca hotel muzeu.",
+      en: "Fáskrúðsfjörður is historically linked to French fishermen. Street names are bilingual, and a former French hospital now serves as a boutique hotel.",
+    },
+    factsAdvanced: {
+      de: ["Französisches Erbe", "Zweisprachige Straßenschilder", "Französisches Krankenhaus-Museum", "Tunnel zum Reyðarfjörður"],
+      hu: ["Francia örökség", "Kétnyelvű utcatáblák", "Francia kórházmúzeum", "Alagút a Reyðarfjörður felé"],
+      ro: ["Moștenire franceză", "Indicatoare stradale bilingve", "Muzeul Spitalului Francez", "Tunel către Reyðarfjörður"],
+      en: ["Strong French heritage", "Bilingual street signs", "French Hospital Museum", "Connected by tunnel to North"],
+    },
   }
 ];

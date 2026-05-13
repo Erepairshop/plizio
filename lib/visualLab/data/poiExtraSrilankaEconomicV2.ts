@@ -6,7 +6,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-1",
     coords: [79.9167, 6.9667],
-    name: { de: "Ceylon Steel Corporation", hu: "Ceylon Acélvállalat", ro: "Corporația de Oțel Ceylon", en: "Ceylon Steel Corporation" },
+    name: { de: "Ceylon Steel Corporation", hu: "Ceylon Acélvállalat", ro: "Corporația de Oțel Ceylon", en: "Ceylon Steel Corporation",
+image: "/poi-images/ceylon-steel-corp-economic-v2.webp"
+},
     description: {
       de: "Ein führender Stahlhersteller in Sri Lanka, ansässig in Oruwala, der eine entscheidende Rolle im Bausektor spielt.",
       hu: "Srí Lanka egyik vezető acélgyártója, amely Oruwalában található, és kulcsszerepet játszik az építőiparban.",
@@ -24,7 +26,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "energy",
     parent: "LK-5",
     coords: [81.2167, 8.5667],
-    name: { de: "Lanka IOC Ölterminal Trincomalee", hu: "Lanka IOC Olajterminál Trincomalee", ro: "Terminalul Petrolier Lanka IOC Trincomalee", en: "Lanka IOC Oil Terminal Trincomalee" },
+    name: { de: "Lanka IOC Ölterminal Trincomalee", hu: "Lanka IOC Olajterminál Trincomalee", ro: "Terminalul Petrolier Lanka IOC Trincomalee", en: "Lanka IOC Oil Terminal Trincomalee",
+image: "/poi-images/lanka-ioc-trinco-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein strategisches Öllagerterminal in Trincomalee, das gemeinsam von Sri Lanka und Indien betrieben wird.",
       hu: "Stratégiai olajtároló terminál Trincomalee-ban, amelyet Srí Lanka és India közösen üzemeltet.",
@@ -42,7 +46,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-6",
     coords: [79.8450, 7.9850],
-    name: { de: "Holcim Zementwerk Puttalam", hu: "Holcim Cementgyár Puttalam", ro: "Fabrica de Ciment Holcim Puttalam", en: "Holcim Cement Plant Puttalam" },
+    name: { de: "Holcim Zementwerk Puttalam", hu: "Holcim Cementgyár Puttalam", ro: "Fabrica de Ciment Holcim Puttalam", en: "Holcim Cement Plant Puttalam",
+image: "/poi-images/holcim-puttalam-plant-economic-v2.webp"
+},
     description: {
       de: "Eine große Zementproduktionsanlage in Puttalam, die die reichen Kalksteinvorkommen der Region nutzt.",
       hu: "Egy nagy cementgyártó üzem Puttalamban, amely a régió gazdag mészkő-erőforrásait használja ki.",
@@ -60,7 +66,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "energy",
     parent: "LK-9",
     coords: [80.7961, 6.6436],
-    name: { de: "Samanalawewa-Talsperre", hu: "Samanalawewa-gát", ro: "Barajul Samanalawewa", en: "Samanalawewa Dam" },
+    name: { de: "Samanalawewa-Talsperre", hu: "Samanalawewa-gát", ro: "Barajul Samanalawewa", en: "Samanalawewa Dam",
+image: "/poi-images/samanalawewa-dam-economic-v2.webp"
+},
     description: {
       de: "Ein großes Wasserkraftwerk am Walawe-Fluss, das erheblich zur nationalen Stromversorgung beiträgt.",
       hu: "A Walawe folyón található nagy vízerőmű, amely jelentősen hozzájárul a nemzeti áramellátáshoz.",
@@ -78,7 +86,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "energy",
     parent: "LK-4",
     coords: [79.8500, 8.9000],
-    name: { de: "Windpark Mannar", hu: "Mannari szélerőműpark", ro: "Parcul Eolian Mannar", en: "Mannar Wind Farm" },
+    name: { de: "Windpark Mannar", hu: "Mannari szélerőműpark", ro: "Parcul Eolian Mannar", en: "Mannar Wind Farm",
+image: "/poi-images/mannar-wind-farm-economic-v2.webp"
+},
     description: {
       de: "Sri Lankas größter Windpark auf der Insel Mannar, der die starken Winde der Region zur Erzeugung erneuerbarer Energie nutzt.",
       hu: "Srí Lanka legnagyobb szélerőműparkja a Mannar-szigeten, amely a régió erős szeleit használja fel a megújuló energia termelésére.",
@@ -96,7 +106,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-3",
     coords: [80.3250, 5.9950],
-    name: { de: "Brandix Essentials Koggala", hu: "Brandix Essentials Koggala", ro: "Brandix Essentials Koggala", en: "Brandix Essentials Koggala" },
+    name: { de: "Brandix Essentials Koggala", hu: "Brandix Essentials Koggala", ro: "Brandix Essentials Koggala", en: "Brandix Essentials Koggala",
+image: "/poi-images/brandix-essentials-koggala-economic-v2.webp"
+},
     description: {
       de: "Eine große Bekleidungsfabrik in der Koggala Export Processing Zone, die für führende globale Marken produziert.",
       hu: "Egy nagy ruhagyár a Koggala exportfeldolgozó zónában, amely vezető globális márkáknak gyárt.",
@@ -114,7 +126,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-1",
     coords: [79.8500, 6.9500],
-    name: { de: "Colombo Dockyard PLC", hu: "Colombo Dokk", ro: "Șantierul Naval Colombo PLC", en: "Colombo Dockyard PLC" },
+    name: { de: "Colombo Dockyard PLC", hu: "Colombo Dokk", ro: "Șantierul Naval Colombo PLC", en: "Colombo Dockyard PLC",
+image: "/poi-images/colombo-dockyard-economic-v2.webp"
+},
     description: {
       de: "Die größte und älteste Schiffbau- und Reparaturwerft in Sri Lanka, strategisch am Hafen von Colombo gelegen.",
       hu: "Srí Lanka legnagyobb és legrégebbi hajóépítő és -javító üzeme, amely stratégiailag a Colombo kikötőjében található.",
@@ -132,7 +146,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-8",
     coords: [81.0167, 6.6667],
-    name: { de: "Sevanagala Zuckerfabrik", hu: "Sevanagala cukorgyár", ro: "Fabrica de Zahăr Sevanagala", en: "Sevanagala Sugar Factory" },
+    name: { de: "Sevanagala Zuckerfabrik", hu: "Sevanagala cukorgyár", ro: "Fabrica de Zahăr Sevanagala", en: "Sevanagala Sugar Factory",
+image: "/poi-images/sevanagala-sugar-factory-economic-v2.webp"
+},
     description: {
       de: "Eine weitere wichtige Zuckerproduktionsanlage in der Südprovinz, die zum lokalen Zuckeranbau beiträgt.",
       hu: "Egy másik fontos cukorgyártó üzem a Déli tartományban, amely hozzájárul a helyi cukornádtermesztéshez.",
@@ -150,7 +166,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "port",
     parent: "LK-4",
     coords: [80.2500, 9.8167],
-    name: { de: "Hafen von Point Pedro", hu: "Point Pedro kikötője", ro: "Portul Point Pedro", en: "Point Pedro Port" },
+    name: { de: "Hafen von Point Pedro", hu: "Point Pedro kikötője", ro: "Portul Point Pedro", en: "Point Pedro Port",
+image: "/poi-images/point-pedro-port-economic-v2.webp"
+},
     description: {
       de: "Ein kleiner Fischerei- und Handelshafen am nördlichsten Punkt Sri Lankas, der für die lokale Wirtschaft wichtig ist.",
       hu: "Egy kis halász- és kereskedelmi kikötő Srí Lanka legészakibb pontján, amely fontos a helyi gazdaság számára.",
@@ -168,7 +186,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-1",
     coords: [79.8694, 6.9461],
-    name: { de: "Ceylon Fischereihafen-Gesellschaft", hu: "Ceylon Halászkikötő Vállalat", ro: "Corporația Portuară de Pescuit Ceylon", en: "Ceylon Fishery Harbours Corporation" },
+    name: { de: "Ceylon Fischereihafen-Gesellschaft", hu: "Ceylon Halászkikötő Vállalat", ro: "Corporația Portuară de Pescuit Ceylon", en: "Ceylon Fishery Harbours Corporation",
+image: "/poi-images/ceylon-fishery-harbours-corp-economic-v2.webp"
+},
     description: {
       de: "Eine staatliche Organisation, die die Fischereihäfen in ganz Sri Lanka verwaltet und entwickelt.",
       hu: "Egy állami szervezet, amely Srí Lanka-szerte a halászkikötők kezelésével és fejlesztésével foglalkozik.",
@@ -186,7 +206,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "energy",
     parent: "LK-2",
     coords: [80.5000, 6.9000],
-    name: { de: "Laxapana-Wasserkraftwerk", hu: "Laxapana vízerőmű", ro: "Centrala Hidroelectrică Laxapana", en: "Laxapana Hydroelectric Power Station" },
+    name: { de: "Laxapana-Wasserkraftwerk", hu: "Laxapana vízerőmű", ro: "Centrala Hidroelectrică Laxapana", en: "Laxapana Hydroelectric Power Station",
+image: "/poi-images/laksapana-falls-power-station-economic-v2.webp"
+},
     description: {
       de: "Eines der ersten und bekanntesten Wasserkraftwerke Sri Lankas, das die Energie der Laxapana-Wasserfälle nutzt.",
       hu: "Srí Lanka egyik első és legismertebb vízerőműve, amely a Laxapana-vízesés energiáját hasznosítja.",
@@ -204,7 +226,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-5",
     coords: [81.2000, 8.6000],
-    name: { de: "Tokyo Cement Werk Trincomalee", hu: "Tokyo Cement Trincomalee gyár", ro: "Fabrica Tokyo Cement Trincomalee", en: "Tokyo Cement Trincomalee Plant" },
+    name: { de: "Tokyo Cement Werk Trincomalee", hu: "Tokyo Cement Trincomalee gyár", ro: "Fabrica Tokyo Cement Trincomalee", en: "Tokyo Cement Trincomalee Plant",
+image: "/poi-images/tokyo-cement-trinco-plant-economic-v2.webp"
+},
     description: {
       de: "Ein großes Zementmahl- und Verpackungswerk in Trincomalee, das vom führenden Zementhersteller des Landes betrieben wird.",
       hu: "Egy nagy cementőrlő és csomagoló üzem Trincomalee-ban, amelyet az ország vezető cementgyártója üzemeltet.",
@@ -222,7 +246,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-1",
     coords: [80.1417, 7.2333],
-    name: { de: "Mirigama Export Processing Zone", hu: "Mirigama exportfeldolgozó zóna", ro: "Zona de Procesare a Exporturilor Mirigama", en: "Mirigama Export Processing Zone" },
+    name: { de: "Mirigama Export Processing Zone", hu: "Mirigama exportfeldolgozó zóna", ro: "Zona de Procesare a Exporturilor Mirigama", en: "Mirigama Export Processing Zone",
+image: "/poi-images/mirigama-epz-economic-v2.webp"
+},
     description: {
       de: "Eine Industriezone im Distrikt Gampaha, die sich auf die Herstellung von Textilien und anderen Exportprodukten konzentriert.",
       hu: "Ipari zóna a Gampaha körzetben, amely textíliák és más exporttermékek gyártására összpontosít.",
@@ -240,7 +266,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "LK-4",
     coords: [80.0167, 9.6667],
-    name: { de: "Zentralmarkt von Jaffna", hu: "Jaffna központi piac", ro: "Piața Centrală din Jaffna", en: "Jaffna Central Market" },
+    name: { de: "Zentralmarkt von Jaffna", hu: "Jaffna központi piac", ro: "Piața Centrală din Jaffna", en: "Jaffna Central Market",
+image: "/poi-images/jaffna-central-market-economic-v2.webp"
+},
     description: {
       de: "Der Hauptmarktplatz in der Stadt Jaffna, ein geschäftiges Zentrum für lokale Produkte, Kunsthandwerk und den täglichen Handel.",
       hu: "Jaffna városának fő piactere, a helyi termékek, kézműves termékek és a napi kereskedelem nyüzsgő központja.",
@@ -259,7 +287,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "port",
     parent: "LK-1",
     coords: [79.9833, 6.4667],
-    name: { de: "Fischereihafen Beruwala", hu: "Beruwala halászkikötő", ro: "Portul de Pescuit Beruwala", en: "Beruwala Fishery Harbour" },
+    name: { de: "Fischereihafen Beruwala", hu: "Beruwala halászkikötő", ro: "Portul de Pescuit Beruwala", en: "Beruwala Fishery Harbour",
+image: "/poi-images/beruwala-fishery-harbour-economic-v2.webp"
+},
     description: {
       de: "Einer der wichtigsten Fischereihäfen an der Südwestküste, der einen bedeutenden Teil des Fischfangs des Landes abwickelt.",
       hu: "A délnyugati part egyik legfontosabb halászkikötője, amely az ország halfogásának jelentős részét bonyolítja le.",
@@ -277,7 +307,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-9",
     coords: [80.2667, 7.3333],
-    name: { de: "MAS Fabric Park Thulhiriya", hu: "MAS Szövetpark Thulhiriya", ro: "Parcul de Textile MAS Thulhiriya", en: "MAS Fabric Park Thulhiriya" },
+    name: { de: "MAS Fabric Park Thulhiriya", hu: "MAS Szövetpark Thulhiriya", ro: "Parcul de Textile MAS Thulhiriya", en: "MAS Fabric Park Thulhiriya",
+image: "/poi-images/mas-fabric-park-thulhiriya-economic-v2.webp"
+},
     description: {
       de: "Ein privater Industriepark, der sich auf die Textilherstellung konzentriert und Lieferkettenlösungen aus einer Hand bietet.",
       hu: "Egy magán ipari park, amely a textilgyártásra összpontosít, és egyablakos ellátási lánc megoldásokat kínál.",
@@ -295,7 +327,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "LK-2",
     coords: [80.6500, 7.8667],
-    name: { de: "Wirtschaftszentrum Dambulla", hu: "Dambulla Gazdasági Központ", ro: "Centrul Economic Dedicat Dambulla", en: "Dambulla Dedicated Economic Centre" },
+    name: { de: "Wirtschaftszentrum Dambulla", hu: "Dambulla Gazdasági Központ", ro: "Centrul Economic Dedicat Dambulla", en: "Dambulla Dedicated Economic Centre",
+image: "/poi-images/dambulla-dedicated-economic-centre-economic-v2.webp"
+},
     description: {
       de: "Der größte Großhandelsmarkt für Gemüse und Obst in Sri Lanka, der Produkte aus dem ganzen Land verteilt.",
       hu: "Srí Lanka legnagyobb zöldség- és gyümölcs-nagykereskedelmi piaca, amely az egész országból származó termékeket forgalmaz.",
@@ -313,7 +347,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "energy",
     parent: "LK-2",
     coords: [80.5333, 6.9000],
-    name: { de: "Canyon-Wasserkraftwerk", hu: "Canyon vízerőmű", ro: "Centrala Hidroelectrică Canyon", en: "Canyon Dam Power Station" },
+    name: { de: "Canyon-Wasserkraftwerk", hu: "Canyon vízerőmű", ro: "Centrala Hidroelectrică Canyon", en: "Canyon Dam Power Station",
+image: "/poi-images/canyon-dam-power-station-economic-v2.webp"
+},
     description: {
       de: "Ein Wasserkraftwerk als Teil des Laxapana-Komplexes, das die Wasserkraft des Kelani-Flusses nutzt.",
       hu: "A Laxapana-komplexum részét képező vízerőmű, amely a Kelani folyó vízierejét hasznosítja.",
@@ -331,7 +367,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-5",
     coords: [81.2167, 8.6000],
-    name: { de: "Prima Ceylon Trincomalee", hu: "Prima Ceylon Trincomalee", ro: "Prima Ceylon Trincomalee", en: "Prima Ceylon Trincomalee" },
+    name: { de: "Prima Ceylon Trincomalee", hu: "Prima Ceylon Trincomalee", ro: "Prima Ceylon Trincomalee", en: "Prima Ceylon Trincomalee",
+image: "/poi-images/prima-ceylon-trincomalee-economic-v2.webp"
+},
     description: {
       de: "Ein großer Mehlmühlen- und Lebensmittelproduktionskomplex im Hafen von Trincomalee, einer der größten der Welt.",
       hu: "Egy hatalmas lisztmalom és élelmiszer-feldolgozó komplexum a trincomalee-i kikötőben, amely a világ egyik legnagyobbja.",
@@ -349,7 +387,9 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     type: "industry",
     parent: "LK-1",
     coords: [79.9500, 6.9833],
-    name: { de: "Lanka Ashok Leyland", hu: "Lanka Ashok Leyland", ro: "Lanka Ashok Leyland", en: "Lanka Ashok Leyland" },
+    name: { de: "Lanka Ashok Leyland", hu: "Lanka Ashok Leyland", ro: "Lanka Ashok Leyland", en: "Lanka Ashok Leyland",
+image: "/poi-images/lanka-ashok-leyland-economic-v2.webp"
+},
     description: {
       de: "Ein Joint Venture, das Busse und Lastwagen für den srilankischen Markt montiert und den öffentlichen Verkehr unterstützt.",
       hu: "Egy vegyesvállalat, amely buszokat és teherautókat szerel össze a srí lankai piacra, és támogatja a tömegközlekedést.",

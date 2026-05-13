@@ -4,7 +4,9 @@ export const spainHistoryV2: POI[] = [
   {
     id: "spain-sagunto-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burg von Sagunto", hu: "Sagunto vára", ro: "Castelul Sagunto", en: "Sagunto Castle" },
+    name: { de: "Burg von Sagunto", hu: "Sagunto vára", ro: "Castelul Sagunto", en: "Sagunto Castle",
+image: "/poi-images/spain-sagunto-ruins-history-v2.webp"
+},
     coords: [-0.278, 39.678],
     coordinates: { lat: 39.678, lng: -0.278 },
     description: {
@@ -19,11 +21,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Inițial o așezare iberică numită Arse", "Zidurile fortăreței se întind pe aproape un kilometru", "Conține ruinele unui forum roman și ale unor temple", "Declarat monument național în anul 1931"],
       en: ["Originally an Iberian settlement known as Arse", "The fortress walls extend for nearly one kilometer", "Contains ruins of a Roman forum and several temples", "Declared a National Monument in 1931"],
     },
-    imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum", image: "/poi-images/spain-sagunto-ruins-history-v2.webp"},
-  {
+imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
+    descriptionAdvanced: {
+      de: "Die Burg von Sagunto, eine ausgedehnte Festungsanlage auf einem Hügelkamm an der Ostküste der Iberischen Halbinsel, ist vor allem als Schauplatz jener folgenschweren Belagerung in die Geschichte eingegangen, die den Zweiten Punischen Krieg im Jahr 219 vor Christus auslöste. Der karthagische Feldherr Hannibal Barkas belagerte die mit Rom verbündete Stadt acht Monate lang, was zu ihrer völligen Zerstörung führte. Im Laufe der Jahrhunderte wurde die Anlage kontinuierlich erweitert, wobei sich heute auf einer Länge von fast einem Kilometer iberische, römische, maurische und mittelalterliche Festungselemente übereinanderlagern. Innerhalb der ausgedehnten Mauern, die in sieben Hauptbereiche unterteilt sind, finden sich Überreste der ursprünglichen iberischen Siedlung Arse, Grundmauern des römischen Forums mit den Resten öffentlicher Basiliken sowie ein in den Hang integriertes römisches Theater. Die strategische Bedeutung dieses langgestreckten Kalksteinhügels, der die Ebene bis zum Mittelmeer überblickt, machte ihn über zweieinhalb Jahrtausende hinweg zu einem zentralen militärischen Stützpunkt in der Region Valencia.",
+      hu: "A Saguntói vár, egy kiterjedt erődítményrendszer az Ibériai-félsziget keleti partjának egyik hegygerincén, leginkább arról az i. e. 219-es végzetes ostromról ismert, amely kirobbantotta a második pun háborút. Hannibál karthágói hadvezér nyolc hónapon át ostromolta a Rómával szövetséges várost, amely a lakók utolsó vérig tartó ellenállása után teljesen elpusztult. Az évszázadok során a védelmi rendszert folyamatosan bővítették, így ma a közel egy kilométer hosszan elnyúló komplexumban ibér, római, mór és középkori építészeti elemek rétegződnek egymásra. A hét fő területre osztott falak között felfedezhetők az eredeti, Arse nevű ibér település nyomai, a római fórum középületeinek alapfalai, valamint a domboldalba vájt római színház. Ennek a Földközi-tengerig nyúló síkságot uraló mészkőhegynek a stratégiai fontossága több mint két és fél évezreden keresztül biztosította Sagunto katonai jelentőségét a Valenciai régióban.",
+      ro: "Castelul Sagunto, o fortăreață extinsă situată pe o creastă montană de pe coasta estică a Peninsulei Iberice, este recunoscut în istorie pentru asediul din anul 219 înainte de Hristos care a declanșat Al Doilea Război Punic. Generalul cartaginez Hannibal a asediat orașul aliat cu Roma timp de opt luni, ceea ce a dus la distrugerea sa completă după o rezistență acerbă. De-a lungul secolelor, sistemul defensiv a fost extins continuu, astfel încât astăzi, pe o lungime de aproape un kilometru, se suprapun elemente arhitecturale iberice, romane, maure și medievale. În interiorul incintei vaste, împărțite în șapte sectoare principale, se găsesc vestigiile așezării iberice originale Arse, fundațiile forumului roman cu bazilici publice, precum și un teatru roman integrat direct în panta dealului. Importanța strategică a acestei înălțimi de calcar, care domină câmpia până la Marea Mediterană, a transformat locul într-un punct militar central pentru mai bine de două milenii și jumătate.",
+      en: "The Castle of Sagunto, an extensive fortification complex stretching along a limestone ridge on the eastern coast of the Iberian Peninsula, is historically renowned for the siege in 219 BC that triggered the Second Punic War. The Carthaginian general Hannibal Barca besieged the Roman-allied city for eight months, culminating in its destruction after a fierce resistance by the local population. Over the centuries, the defensive structures were continually expanded, resulting in a nearly one-kilometer-long site where Iberian, Roman, Moorish, and medieval Christian architectural layers are superimposed. Within its vast perimeter, which is divided into seven main plazas, visitors can find the traces of the original Iberian settlement of Arse, the foundations of the Roman forum including public basilicas, and a Roman theater carved directly into the hillside. The strategic value of this elongated hill overlooking the coastal plain down to the Mediterranean Sea maintained Sagunto as a crucial military stronghold in the Valencia region for over two and a half millennia."
+    },
+    factsAdvanced: {
+      de: ["Hannibal Barkas ostromolta nyolc hónapon át i. e. 219-ben", "A várfalak mintegy 900 méter hosszan húzódnak a gerincen", "Eredetileg egy Arse nevű ibér település állt a hegyen", "Hét különálló, fallal körülvett belső térre (plaza) oszlik", "Magában foglalja a Kr. e. 1. században épült római fórumot", "Suchet tábornok a félszigeti háborúban, 1811-ben is bevette a várat", "Az erődítmény 1931-ben kapott spanyol nemzeti műemléki státuszt"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
+},  {
     id: "spain-numancia-ruins-history-v2",
     type: "ruins",
-    name: { de: "Numancia", hu: "Numancia", ro: "Numancia", en: "Numantia" },
+    name: { de: "Numancia", hu: "Numancia", ro: "Numancia", en: "Numantia",
+image: "/poi-images/spain-numancia-ruins-history-v2.webp"
+},
     coords: [-2.444, 41.81],
     coordinates: { lat: 41.81, lng: -2.444 },
     description: {
@@ -38,11 +55,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Distrus de Scipio Aemilianus după un asediu de opt luni", "Locuitorii au ales sinuciderea colectivă în loc de sclavie", "Situl prezintă două orașe suprapuse: celtiber și roman", "Situat pe dealul Muela de Garray, lângă Soria"],
       en: ["Destroyed by Scipio Aemilianus after an eight-month siege", "Inhabitants chose collective suicide over Roman slavery", "The site shows two superimposed cities: Celtiberian and Roman", "Located on the Muela de Garray hill near Soria"],
     },
-    imageHint: "Archaeological site of Numantia ruins on a hill", image: "/poi-images/spain-numancia-ruins-history-v2.webp"},
+    imageHint: "Archaeological site of Numantia ruins on a hill",
+    image: "/poi-images/spain-numancia-ruins-history-v2.webp"},
   {
     id: "spain-italica-ruins-history-v2",
     type: "ruins",
-    name: { de: "Itálica", hu: "Itálica", ro: "Itálica", en: "Italica" },
+    name: { de: "Itálica", hu: "Itálica", ro: "Itálica", en: "Italica",
+image: "/poi-images/spain-italica-ruins-history-v2.webp"
+},
     coords: [-6.045, 37.444],
     coordinates: { lat: 37.444, lng: -6.045 },
     description: {
@@ -57,11 +77,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondat în 206 î.Hr. de către Publius Cornelius Scipio", "Amfiteatrul avea o capacitate de până la 25.000 de spectatori", "Păstrează podele splendide cu mozaic în casele aristocratice", "A servit ca locație de filmare pentru serialul Game of Thrones"],
       en: ["Founded in 206 BC by Publius Cornelius Scipio", "The amphitheater could hold up to 25,000 spectators", "Features splendid mosaic floors in aristocratic villas", "Used as a filming location for Game of Thrones"],
     },
-    imageHint: "Roman amphitheater ruins of Italica near Seville", image: "/poi-images/spain-italica-ruins-history-v2.webp"},
-  {
+imageHint: "Roman amphitheater ruins of Italica near Seville",
+    descriptionAdvanced: {
+      de: "Itálica, wenige Kilometer außerhalb von Sevilla gelegen, wurde im Jahr 206 vor Christus von Publius Cornelius Scipio nach der Schlacht von Ilipa gegründet und ging als erste römische Siedlung auf der Iberischen Halbinsel in die Geschichte ein. Die Stadt erlebte ihre größte Blütezeit im zweiten Jahrhundert nach Christus als Geburtsort der beiden einflussreichen römischen Kaiser Trajan und Hadrian. Insbesondere Hadrian finanzierte einen massiven Ausbau der Siedlung, die sogenannte Nova Urbs, die mit breiten, gepflasterten Straßen, fortschrittlichen Aquädukten und einem gigantischen Amphitheater ausgestattet wurde. Dieses ovale Theater, das drittgrößte im gesamten Römischen Reich, bot Platz für beachtliche 25.000 Zuschauer und veranschaulicht die damalige Bedeutung der Stadt. In den weitläufigen Ruinen der Patrizierhäuser, wie dem Haus der Vögel oder dem Haus des Planetariums, sind bis heute detailreiche und farbenprächtige Mosaikböden erhalten geblieben, die vom immensen Reichtum der lokalen Olivenöl- und Getreidehändler zeugen.",
+      hu: "Itálica, amely Sevillától mindössze néhány kilométerre fekszik, Publius Cornelius Scipio i. e. 206-os alapításával az első tisztán római településként vonult be az Ibériai-félsziget történelmébe az ilipai csata után. A város legnagyobb virágkorát a Krisztus utáni második században élte, hiszen két rendkívül befolyásos római császár, Traianus és Hadrianus is itt látta meg a napvilágot. Különösen Hadrianus finanszírozta a település hatalmas arányú bővítését, az úgynevezett Nova Urbs építését, amely széles, kikövezett utcákkal, fejlett vízvezetékrendszerrel és egy gigantikus amfiteátrummal büszkélkedhetett. Ez az ovális aréna, a teljes Római Birodalom harmadik legnagyobb ilyen építménye, lenyűgöző 25 000 néző befogadására volt alkalmas. A kiterjedt patríciusházak romjai között – mint amilyen a Madarak háza vagy a Planetárium háza – a mai napig megőrződtek azok a részletgazdag mozaikpadlók, amelyek a helyi olívaolaj- és gabonakereskedők mérhetetlen gazdagságáról árulkodnak.",
+      ro: "Itálica, situată la câțiva kilometri distanță de Sevilla, a fost fondată în anul 206 înainte de Hristos de către Publius Cornelius Scipio după bătălia de la Ilipa, devenind prima așezare romană din Peninsula Iberică. Orașul a cunoscut perioada sa de maximă înflorire în secolul al doilea după Hristos, fiind locul de naștere a doi împărați romani extrem de influenți, Traian și Hadrian. Împăratul Hadrian a finanțat personal o extindere masivă a așezării, cunoscută sub numele de Nova Urbs, dotată cu străzi largi pavate, un sistem avansat de apeducte și un amfiteatru gigantic. Acest teatru oval, al treilea ca mărime din întregul Imperiu Roman, putea găzdui un număr impresionant de 25.000 de spectatori, reflectând importanța orașului în acea epocă. În ruinele vaste ale vilelor patriciene, precum Casa Păsărilor sau Casa Planetariului, s-au păstrat până astăzi podele cu mozaicuri detaliate și colorate, care mărturisesc bogăția imensă a comercianților locali de ulei de măsline și cereale.",
+      en: "Italica, situated just a few kilometers outside modern Seville, was founded in 206 BC by Publius Cornelius Scipio following the Battle of Ilipa, making it the very first Roman settlement on the Iberian Peninsula. The city reached its absolute zenith during the second century AD as the birthplace of two highly influential Roman emperors, Trajan and Hadrian. Emperor Hadrian in particular funded a massive civic expansion known as the Nova Urbs, which featured wide paved grid streets, an advanced aqueduct system, and a gigantic amphitheater. This massive oval arena, ranking as the third largest in the entire Roman Empire, could accommodate an impressive 25,000 spectators and vividly illustrates the city's monumental status. Among the extensive ruins of the aristocratic villas, such as the House of the Birds or the House of the Planetarium, highly detailed and colorful mosaic floors have survived to this day, standing as enduring testaments to the immense wealth of the local olive oil and grain merchants."
+    },
+    factsAdvanced: {
+      de: ["Publius Cornelius Scipio alapította az ilipai csata után, i. e. 206-ban", "Traianus és Hadrianus római császárok szülővárosa", "Amfiteátruma a harmadik legnagyobb volt a Római Birodalomban", "Az aréna 160 méter hosszú és 25 ezer nézőt fogadott be", "A város gazdagságát az olívaolaj és a gabona kereskedelme adta", "Hadrianus idején épült az új városrész, a Nova Urbs", "A Guadalquivir folyó mederváltozása miatt hagyták el a 3. században"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-italica-ruins-history-v2.webp",
+},  {
     id: "spain-merida-theatre-history-v2",
     type: "ruins",
-    name: { de: "Römisches Theater von Mérida", hu: "Méridai római színház", ro: "Teatrul Roman din Mérida", en: "Roman Theatre of Mérida" },
+    name: { de: "Römisches Theater von Mérida", hu: "Méridai római színház", ro: "Teatrul Roman din Mérida", en: "Roman Theatre of Mérida",
+image: "/poi-images/spain-merida-theatre-history-v2.webp"
+},
     coords: [-6.339, 38.915],
     coordinates: { lat: 38.915, lng: -6.339 },
     description: {
@@ -76,11 +111,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Inaugurat între anii 16 și 15 î.Hr. de către Agrippa", "Peretele scenei (Scaenae frons) are două rânduri de coloane", "Parte a Patrimoniului Mondial UNESCO Ansamblul Mérida", "A fost îngropat aproape complet sub pământ timp de secole"],
       en: ["Inaugurated between 16 and 15 BC by Agrippa", "The stage wall (Scaenae frons) features two tiers of columns", "Part of the UNESCO World Heritage Archaeological Ensemble of Mérida", "Was buried almost completely underground for centuries"],
     },
-    imageHint: "The Scaenae frons of the Roman Theatre in Merida", image: "/poi-images/spain-merida-theatre-history-v2.webp"},
-  {
+imageHint: "The Scaenae frons of the Roman Theatre in Merida",
+    descriptionAdvanced: {
+      de: "Das Römische Theater von Mérida ist eines der spektakulärsten architektonischen Vermächtnisse der Kolonie Emerita Augusta, der Hauptstadt der römischen Provinz Lusitania. Das Monument wurde zwischen den Jahren 16 und 15 vor Christus auf Anordnung des Konsuls Marcus Vipsanius Agrippa errichtet und bot ursprünglich auf seiner halbrunden, in den Hügel San Albín gebauten Zuschauertribüne Platz für sechstausend Personen. Das absolute Meisterwerk des Bauwerks ist die rekonstruierte Scaenae frons, eine prunkvolle Bühnenrückwand, die aus zwei Reihen korinthischer Marmorsäulen besteht, durchsetzt mit feinen Skulpturen von Göttern und Kaisern. Nach dem Fall des Römischen Reiches wurde das Theater aufgrund religiöser Vorbehalte aufgegeben, verfiel und wurde unter Tonnen von Erde begraben, sodass jahrhundertelang nur die oberen Ränge, genannt die Sieben Stühle, sichtbar blieben. Seit seiner Freilegung und Restaurierung zu Beginn des 20. Jahrhunderts dient es wieder seinem ursprünglichen Zweck und ist jeden Sommer Austragungsort des renommierten Internationalen Festivals für klassisches Theater.",
+      hu: "A méridai római színház Emerita Augusta kolónia, Lusitania római tartomány egykori fővárosának egyik leglátványosabb építészeti hagyatéka. A monumentális építményt Kr. e. 16 és 15 között emelték Marcus Vipsanius Agrippa konzul utasítására, és eredetileg hatezer néző befogadására volt alkalmas a San Albín dombba vájt félköríves lelátóin. A komplexum abszolút mesterműve a restaurált Scaenae frons, a pompás színpadhátvéd, amely két sor márvány korinthoszi oszlopból áll, istenek és császárok finoman megmunkált szobraival díszítve. A Római Birodalom bukása után az épületet a keresztény egyház színházellenessége miatt elhagyták, így az évszázadok során több tonna föld temette maga alá, és csak a felső üléssor hét tömbje, az úgynevezett Hét Szék (Las Siete Sillas) maradt látható. A 20. század eleji feltárása és gondos helyreállítása óta a színház ismét betölti eredeti funkcióját, és minden nyáron a rangos Nemzetközi Klasszikus Színházi Fesztivál helyszíne.",
+      ro: "Teatrul Roman din Mérida reprezintă una dintre cele mai spectaculoase moșteniri arhitecturale ale coloniei Emerita Augusta, capitala provinciei romane Lusitania. Monumentul a fost construit între anii 16 și 15 înainte de Hristos din ordinul consulului Marcus Vipsanius Agrippa și putea găzdui inițial șase mii de spectatori pe gradenele sale semicirculare, construite parțial în dealul San Albín. Capodopera absolută a edificiului este Scaenae frons restaurată, un perete de fundal al scenei somptuos, format din două rânduri de coloane corintice de marmură, intercalate cu sculpturi fine ale zeilor și împăraților romani. După căderea Imperiului Roman, teatrul a fost abandonat din cauza opoziției religioase față de spectacole, fiind îngropat sub tone de pământ, astfel încât secole la rând au fost vizibile doar blocurile rândurilor superioare, numite Cele Șapte Scaune. De la excavarea și restaurarea sa la începutul secolului al XX-lea, teatrul își îndeplinește din nou funcția originală, găzduind în fiecare vară prestigiosul Festival Internațional de Teatru Clasic.",
+      en: "The Roman Theatre of Mérida stands as one of the most spectacular architectural legacies of the colony of Emerita Augusta, the former capital of the Roman province of Lusitania. The monument was erected between 16 and 15 BC by order of the consul Marcus Vipsanius Agrippa and originally accommodated six thousand spectators on its semicircular seating tiers built directly into the San Albín hill. The absolute masterpiece of the structure is the reconstructed Scaenae frons, a magnificent scenic backdrop consisting of two stacked tiers of Corinthian marble columns, interspersed with fine sculptures of Roman gods and emperors. Following the fall of the Roman Empire, the theater was abandoned due to Christian religious objections to theatrical performances and was eventually buried under tons of earth, leaving only the uppermost seating blocks, known as the Seven Chairs, visible for centuries. Since its excavation and careful restoration at the beginning of the 20th century, the theater has returned to its original purpose, hosting the prestigious International Classical Theatre Festival every summer."
+    },
+    factsAdvanced: {
+      de: ["Marcus Vipsanius Agrippa építtette Kr. e. 16 és 15 között", "Befogadóképessége eredetileg megközelítőleg 6000 fő volt", "A Scaenae frons (színpadfal) márványoszlopai két emelet magasak", "Emerita Augusta, Lusitania provincia fővárosának része volt", "A színház padlózata alatt fejlett vízelvezető rendszert tártak fel", "A 20. század elejéig szinte teljesen föld és törmelék borította", "1933 óta ad otthont a Méridai Klasszikus Színházi Fesztiválnak"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-merida-theatre-history-v2.webp",
+},  {
     id: "spain-tarraco-amphitheatre-history-v2",
     type: "ruins",
-    name: { de: "Amphitheater von Tarraco", hu: "Tarraco amfiteátruma", ro: "Amfiteatrul din Tarraco", en: "Tarraco Amphitheatre" },
+    name: { de: "Amphitheater von Tarraco", hu: "Tarraco amfiteátruma", ro: "Amfiteatrul din Tarraco", en: "Tarraco Amphitheatre",
+image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"
+},
     coords: [1.259, 41.115],
     coordinates: { lat: 41.115, lng: 1.259 },
     description: {
@@ -95,11 +145,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit în secolul al II-lea d.Hr. pentru 14.000 de spectatori", "Locul martiriului Sfântului Fructuosus în anul 259", "Conține ruinele unei basilici vizigote în interiorul arenei", "Parte din Patrimoniul Mondial UNESCO Ansamblul Tarraco"],
       en: ["Built in the 2nd century AD for 14,000 spectators", "Site of the martyrdom of Saint Fructuosus in 259 AD", "Contains ruins of a Visigothic basilica inside the arena", "Part of the UNESCO World Heritage Roman ruins of Tarraco"],
     },
-    imageHint: "Roman amphitheater of Tarragona by the sea", image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"},
+    imageHint: "Roman amphitheater of Tarragona by the sea",
+    image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"},
   {
     id: "spain-medina-azahara-ruins-history-v2",
     type: "ruins",
-    name: { de: "Medina Azahara", hu: "Medina Azahara", ro: "Medina Azahara", en: "Medina Azahara" },
+    name: { de: "Medina Azahara", hu: "Medina Azahara", ro: "Medina Azahara", en: "Medina Azahara",
+image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp"
+},
     coords: [-4.867, 37.886],
     coordinates: { lat: 37.886, lng: -4.867 },
     description: {
@@ -114,11 +167,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit de Abd ar-Rahman al III-lea începând cu 936", "A fost distrus la doar 74 de ani de la fondare", "Renumit pentru somptuoasa Sală a Ambasadorilor (Salón Rico)", "Patrimoniu Mondial UNESCO din anul 2018"],
       en: ["Built by Abd ar-Rahman III starting in 936 AD", "Destroyed only 74 years after its foundation", "Famous for the ornate Hall of Ambassadors (Salón Rico)", "UNESCO World Heritage site since 2018"],
     },
-    imageHint: "Archaeological ruins of Medina Azahara palace halls", image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp"},
-  {
+imageHint: "Archaeological ruins of Medina Azahara palace halls",
+    descriptionAdvanced: {
+      de: "Die weitläufigen Ruinen von Medina Azahara, gelegen am Fuß der Sierra Morena nahe Córdoba, zeugen von der einstigen Pracht der umayyadischen Palaststadt aus dem 10. Jahrhundert. Der erste Kalif von Córdoba, Abd ar-Rahman III., ließ diese repräsentative Anlage ab dem Jahr 936 errichten, um die neugewonnene politische und religiöse Unabhängigkeit seines Reiches gegenüber den rivalisierenden Fatimiden in Nordafrika zu demonstrieren. Die terrassenförmig angelegte Stadt umfasste auf rund 112 Hektar luxuriöse Wohnviertel, ausgedehnte Gärten, militärische Anlagen und prächtige Empfangssäle wie den berühmten Salón Rico. Letzterer diente als Thronsaal für den Kalifen und beeindruckte ausländische Gesandte mit seinen Hufeisenbögen aus rotem und weißem Marmor, kunstvoll geschnitzten Kapitellen und einem großen Wasserbecken im Vorhof. Trotz dieses unermesslichen Reichtums war das Schicksal der Stadt nur von kurzer Dauer, denn bereits 74 Jahre nach ihrer Gründung wurde sie in den Wirren des Bürgerkriegs geplündert, zerstört und für Jahrhunderte vergessen.",
+      hu: "Medina Azahara kiterjedt romjai, amelyek a Sierra Morena lábánál fekszenek Córdoba közelében, a 10. századi Omajjád palotaváros egykori pompájáról tanúskodnak. Córdoba első kalifája, III. Abd ar-Rahman 936-ban kezdte meg e reprezentatív komplexum építését, hogy ezzel is demonstrálja birodalmának újonnan kivívott politikai és vallási függetlenségét az észak-afrikai rivális Fátimidákkal szemben. A teraszos elrendezésű, körülbelül 112 hektáron elterülő város luxus lakónegyedeket, hatalmas kerteket, katonai létesítményeket és olyan pompás fogadótermeket foglalt magában, mint a híres Salón Rico (Gazdag terem). Ez utóbbi a kalifa tróntermeként szolgált, és vörös és fehér márványból készült patkóíveivel, művészien faragott oszlopfőivel, valamint az előudvarban lévő hatalmas medencéjével lenyűgözte a külföldi követeket. A mérhetetlen gazdagság ellenére a város sorsa kérészéletű volt, hiszen alig 74 évvel alapítása után, a polgárháborús zűrzavarban kifosztották, lerombolták, és évszázadokra feledésbe merült.",
+      ro: "Ruinele vaste ale orașului Medina Azahara, situate la poalele munților Sierra Morena lângă Córdoba, stau mărturie a fostei splendori a orașului-palat omeyad din secolul al X-lea. Primul calif de Córdoba, Abd ar-Rahman al III-lea, a dispus construirea acestui complex reprezentativ începând cu anul 936, pentru a demonstra noua independență politică și religioasă a imperiului său față de rivalii fatimizi din Africa de Nord. Orașul amenajat în terase acoperea o suprafață de aproximativ 112 hectare și includea cartiere rezidențiale luxoase, grădini întinse, instalații militare și săli de recepție somptuoase, cum ar fi faimosul Salón Rico. Acesta din urmă servea drept sală a tronului pentru calif și impresiona trimișii străini prin arcurile sale în formă de potcoavă din marmură roșie și albă, capitelurile sculptate artistic și un mare bazin de apă în curtea din față. În ciuda acestei bogății nemăsurate, destinul orașului a fost de scurtă durată, fiind jefuit, distrus și uitat pentru secole la doar 74 de ani de la fondarea sa în timpul războiului civil.",
+      en: "The extensive ruins of Medina Azahara, located at the foot of the Sierra Morena mountains near Córdoba, bear witness to the former splendor of the 10th-century Umayyad palace-city. The first Caliph of Córdoba, Abd ar-Rahman III, ordered the construction of this highly representative complex starting in 936 AD to boldly demonstrate his empire's newly declared political and religious independence from the rival Fatimids in North Africa. Built on a series of descending terraces, the city covered approximately 112 hectares and included luxurious residential quarters, expansive ornamental gardens, military installations, and magnificent reception halls such as the renowned Salón Rico. This particular hall served as the caliph's throne room and deeply impressed foreign emissaries with its red and white marble horseshoe arches, intricately carved capitals, and a large reflecting pool in the front courtyard. Despite its immeasurable wealth, the city's fate was remarkably short-lived, as it was thoroughly sacked, destroyed, and abandoned to history just 74 years after its foundation during the chaos of civil war."
+    },
+    factsAdvanced: {
+      de: ["III. Abd ar-Rahman córdobai kalifa alapította 936-ban", "A 112 hektáros területből eddig csak mintegy 10 százalékot tártak fel", "Teraszos építési móddal alkalmazkodtak a domborzati viszonyokhoz", "Körülbelül tízezer munkás dolgozott naponta az építkezésen", "Az 1010-es berber betörések idején teljesen kifosztották és lerombolták", "1911-ben kezdték meg az első modern régészeti ásatásokat", "A Salón Rico, a nagyköveti terem a helyszín legpompásabb épülete"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
+},  {
     id: "spain-alcazar-segovia-history-v2",
     type: "castle",
-    name: { de: "Alcázar von Segovia", hu: "Segoviai Alcázar", ro: "Alcázar din Segovia", en: "Alcázar of Segovia" },
+    name: { de: "Alcázar von Segovia", hu: "Segoviai Alcázar", ro: "Alcázar din Segovia", en: "Alcázar of Segovia",
+image: "/poi-images/spain-alcazar-segovia-history-v2.webp"
+},
     coords: [-4.132, 40.952],
     coordinates: { lat: 40.952, lng: -4.132 },
     description: {
@@ -133,11 +201,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["A servit drept inspirație pentru castelul Cenușăreasa al lui Disney", "A fost închisoare de stat și sediul Școlii Regale de Artilerie", "Aici Isabela I a fost proclamată regină a Castiliei", "Are un turn distinctiv numit Turnul lui Ioan al II-lea"],
       en: ["Inspiration for Walt Disney's Cinderella Castle", "Served as a state prison and Royal Artillery School", "Isabella I was proclaimed Queen of Castile here", "Features a prominent tower named after John II"],
     },
-    imageHint: "The fairytale-like Alcazar of Segovia on a rocky outcrop", image: "/poi-images/spain-alcazar-segovia-history-v2.webp"},
+    imageHint: "The fairytale-like Alcazar of Segovia on a rocky outcrop",
+    image: "/poi-images/spain-alcazar-segovia-history-v2.webp"},
   {
     id: "spain-el-escorial-palace-history-v2",
     type: "palace",
-    name: { de: "El Escorial", hu: "Escorial", ro: "El Escorial", en: "El Escorial" },
+    name: { de: "El Escorial", hu: "Escorial", ro: "El Escorial", en: "El Escorial",
+image: "/poi-images/spain-el-escorial-palace-history-v2.webp"
+},
     coords: [-4.147, 40.589],
     coordinates: { lat: 40.589, lng: -4.147 },
     description: {
@@ -152,11 +223,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit în stilul auster herrerian în secolul al XVI-lea", "Găzduiește Panteonul Regilor cu mormintele aproape tuturor monarhilor", "Biblioteca conține peste 40.000 de volume istorice", "Planul clădirii ar simboliza grătarul Sfântului Laurențiu"],
       en: ["Built in the austere Herrerian style in the 16th century", "Houses the Pantheon of the Kings with tombs of nearly all monarchs", "The library contains over 40,000 historic volumes", "The floor plan is said to represent Saint Lawrence's gridiron"],
     },
-    imageHint: "The massive grid-shaped building of El Escorial", image: "/poi-images/spain-el-escorial-palace-history-v2.webp"},
+    imageHint: "The massive grid-shaped building of El Escorial",
+    image: "/poi-images/spain-el-escorial-palace-history-v2.webp"},
   {
     id: "spain-royal-palace-madrid-history-v2",
     type: "palace",
-    name: { de: "Königlicher Palast von Madrid", hu: "Madridi királyi palota", ro: "Palatul Regal din Madrid", en: "Royal Palace of Madrid" },
+    name: { de: "Königlicher Palast von Madrid", hu: "Madridi királyi palota", ro: "Palatul Regal din Madrid", en: "Royal Palace of Madrid",
+image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"
+},
     coords: [-3.714, 40.417],
     coordinates: { lat: 40.417, lng: -3.714 },
     description: {
@@ -171,11 +245,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Cel mai mare palat regal din Europa de Vest după suprafață", "Construit pe locul vechiului Alcázar, ars în 1734", "Găzduiește singura colecție completă de cvartet Stradivarius din lume", "Deține o importantă Armurărie Regală (Armería Real)"],
       en: ["Largest royal palace in Western Europe by floor area", "Built on the site of the old Alcázar which burned down in 1734", "Houses the world's only complete Stradivarius string quartet", "Contains an important Royal Armoury (Armería Real)"],
     },
-    imageHint: "Exterior facade of the Royal Palace of Madrid", image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"},
+    imageHint: "Exterior facade of the Royal Palace of Madrid",
+    image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"},
   {
     id: "spain-valley-fallen-monument-history-v2",
     type: "monument",
-    name: { de: "Tal der Gefallenen", hu: "Elesettek Völgye", ro: "Valea celor Căzuți", en: "Valley of the Fallen" },
+    name: { de: "Tal der Gefallenen", hu: "Elesettek Völgye", ro: "Valea celor Căzuți", en: "Valley of the Fallen",
+image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"
+},
     coords: [-4.154, 40.641],
     coordinates: { lat: 40.641, lng: -4.154 },
     description: {
@@ -190,11 +267,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Este dominat de o cruce de piatră înaltă de 150 de metri", "Basilica a fost săpată direct în stânca muntelui", "Peste 33.000 de morți din ambele tabere sunt îngropați aici", "Rămășițele lui Franco au fost exhumate și mutate în 2019"],
       en: ["Dominated by a 150-meter-high stone cross", "The basilica is carved directly into the granite rock", "Over 33,000 victims from both sides are buried here", "Franco's remains were exhumed and moved to a cemetery in 2019"],
     },
-    imageHint: "The giant stone cross of the Valley of the Fallen monument", image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"},
+    imageHint: "The giant stone cross of the Valley of the Fallen monument",
+    image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"},
   {
     id: "spain-belchite-ruins-history-v2",
     type: "ruins",
-    name: { de: "Altes Belchite", hu: "Belchite óvárosa", ro: "Belchite Vechi", en: "Old Belchite" },
+    name: { de: "Altes Belchite", hu: "Belchite óvárosa", ro: "Belchite Vechi", en: "Old Belchite",
+image: "/poi-images/spain-belchite-ruins-history-v2.webp"
+},
     coords: [-0.751, 41.306],
     coordinates: { lat: 41.306, lng: -0.751 },
     description: {
@@ -209,11 +289,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Locul unei bătălii sângeroase în anul 1937", "Franco a ordonat ca orașul să nu fie reconstruit, ca simbol al victoriei", "Ruinele bisericilor și caselor prezintă încă urme de gloanțe", "Folosit frecvent ca locație pentru filme precum 'Labirintul lui Pan'"],
       en: ["Site of a bloody battle in 1937", "Franco ordered the town not to be rebuilt as a symbol of his victory", "Ruins of churches and houses still show bullet holes", "Frequently used as a filming location, including for 'Pan's Labyrinth'"],
     },
-    imageHint: "Skeletal ruins of a church in the ghost town of Belchite", image: "/poi-images/spain-belchite-ruins-history-v2.webp"},
+    imageHint: "Skeletal ruins of a church in the ghost town of Belchite",
+    image: "/poi-images/spain-belchite-ruins-history-v2.webp"},
   {
     id: "spain-castle-loarre-history-v2",
     type: "castle",
-    name: { de: "Burg Loarre", hu: "Loarre vára", ro: "Castelul Loarre", en: "Castle of Loarre" },
+    name: { de: "Burg Loarre", hu: "Loarre vára", ro: "Castelul Loarre", en: "Castle of Loarre",
+image: "/poi-images/spain-castle-loarre-history-v2.webp"
+},
     coords: [-0.612, 42.325],
     coordinates: { lat: 42.325, lng: -0.612 },
     description: {
@@ -228,11 +311,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondat de regele Sancho Garcés al III-lea ca fortăreață de frontieră", "Conține o biserică romanică remarcabilă în interior", "Zidurile sunt adaptate formei neregulate a stâncii", "A fost principala locație de filmare pentru 'Kingdom of Heaven'"],
       en: ["Founded by King Sancho Garcés III as a frontier fortress", "Features a remarkable Romanesque church inside the compound", "The walls are adapted to the irregular shape of the rock outcrop", "Served as the primary filming location for 'Kingdom of Heaven'"],
     },
-    imageHint: "Romanesque Castle of Loarre on a mountain ridge", image: "/poi-images/spain-castle-loarre-history-v2.webp"},
+    imageHint: "Romanesque Castle of Loarre on a mountain ridge",
+    image: "/poi-images/spain-castle-loarre-history-v2.webp"},
   {
     id: "spain-battle-bailen-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Bailén", hu: "Bailéni csatatér", ro: "Câmpul de luptă de la Bailén", en: "Battlefield of Bailén" },
+    name: { de: "Schlachtfeld von Bailén", hu: "Bailéni csatatér", ro: "Câmpul de luptă de la Bailén", en: "Battlefield of Bailén",
+image: "/poi-images/spain-battle-bailen-history-v2.webp"
+},
     coords: [-3.782, 38.103],
     coordinates: { lat: 38.103, lng: -3.782 },
     description: {
@@ -247,11 +333,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Trupele spaniole au fost conduse de generalul Castaños", "Aproximativ 18.000 de soldați francezi sub Dupont au capitulat", "Victoria a spulberat mitul invincibilității lui Napoleon", "Un monument din sat comemorează astăzi acest eveniment istoric"],
       en: ["Spanish forces were led by General Francisco Javier Castaños", "Around 18,000 French soldiers under General Dupont surrendered", "The victory shattered the myth of Napoleonic invincibility", "A monument in the town now commemorates the historic event"],
     },
-    imageHint: "Monument commemorating the Battle of Bailen", image: "/poi-images/spain-battle-bailen-history-v2.webp"},
-  {
+imageHint: "Monument commemorating the Battle of Bailen",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Bailén in der Provinz Jaén markiert einen entscheidenden Wendepunkt in der europäischen Geschichte des 19. Jahrhunderts. Hier, an den heißen und trockenen Hängen Andalusiens, ereignete sich im Juli 1808 während des Spanischen Unabhängigkeitskrieges eine militärische Sensation: Zum ersten Mal in einer offenen Feldschlacht wurde eine scheinbar unbesiegbare Armee des Kaiserreichs von Napoleon Bonaparte vollständig geschlagen. Die spanischen Truppen unter dem brillanten Kommando von General Francisco Javier Castaños nutzten das unwegsame Terrain und die glühende Hitze zu ihrem Vorteil und kesselten die französischen Streitkräfte von General Pierre Dupont geschickt ein. Aus Mangel an Wasser und Nachschub waren rund 18.000 französische Soldaten schließlich gezwungen, zu kapitulieren. Dieser unerwartete Triumph sandte Schockwellen durch ganz Europa, zerstörte den Mythos der napoleonischen Unbesiegbarkeit und ermutigte andere Nationen, den Widerstand gegen die französische Vorherrschaft aufzunehmen. Heute erinnert ein markantes Denkmal im Stadtzentrum von Bailén an diese glorreiche historische Episode.",
+      hu: "A Jaén tartományban található bailéni csatatér a 19. századi európai történelem egyik legfontosabb fordulópontját jelöli. Itt, Andalúzia forró és száraz domboldalain zajlott le egy katonai szenzáció 1808 júliusában a spanyol függetlenségi háború alatt: nyílt mezei csatában itt szenvedett először teljes vereséget Bonaparte Napóleon császárságának addig legyőzhetetlennek hitt hadserege. Francisco Javier Castaños tábornok briliáns parancsnoksága alatt a spanyol csapatok a saját javukra fordították a nehéz terepet és a perzselő hőséget, és ügyesen bekerítették Pierre Dupont tábornok francia erőit. Víz és utánpótlás hiányában végül mintegy 18 000 francia katona kényszerült megadásra. Ez a váratlan diadal sokkhatásként söpört végig egész Európán, szertefoszlatta a napóleoni verhetetlenség mítoszát, és arra bátorított más nemzeteket is, hogy vegyék fel a harcot a francia fensőbbséggel szemben. Ma egy jellegzetes emlékmű őrzi ennek a dicsőséges történelmi epizódnak az emlékét Bailén városközpontjában.",
+      ro: "Câmpul de luptă de la Bailén, din provincia Jaén, marchează un punct de cotitură decisiv în istoria europeană a secolului al XIX-lea. Aici, pe pantele fierbinți și aride ale Andaluziei, a avut loc o senzație militară în iulie 1808, în timpul Războiului de Independență Spaniol: pentru prima dată într-o bătălie în câmp deschis, o armată aparent invincibilă a Imperiului lui Napoleon Bonaparte a fost complet învinsă. Trupele spaniole, sub comanda strălucită a generalului Francisco Javier Castaños, au folosit terenul accidentat și căldura toridă în avantajul lor și au încercuit cu abilitate forțele franceze conduse de generalul Pierre Dupont. Lipsiți de apă și provizii, aproximativ 18.000 de soldați francezi au fost în cele din urmă forțați să capituleze. Acest triumf neașteptat a trimis unde de șoc în întreaga Europă, a distrus mitul invincibilității napoleoniene și a încurajat alte națiuni să se ridice împotriva dominației franceze. Astăzi, un monument impresionant în centrul orașului Bailén amintește de acest episod istoric glorios.",
+      en: "The battlefield of Bailén in the province of Jaén marks a decisive turning point in the European history of the 19th century. Here, on the hot and arid slopes of Andalusia, a military sensation occurred in July 1808 during the Peninsular War: for the first time in an open-field battle, a seemingly invincible army of Napoleon Bonaparte's Empire was completely defeated. The Spanish troops, under the brilliant command of General Francisco Javier Castaños, used the rugged terrain and the scorching heat to their advantage, skillfully encircling the French forces led by General Pierre Dupont. Deprived of water and reinforcements, approximately 18,000 French soldiers were ultimately forced to surrender. This unexpected triumph sent shockwaves throughout Europe, shattering the myth of Napoleonic invincibility and encouraging other nations to take up arms against French domination. Today, a prominent monument in the town center of Bailén commemorates this glorious historical episode."
+    },
+    factsAdvanced: {
+      de: ["Fought between July 16 and 19, 1808 during the Peninsular War", "It was the first open-field defeat of a Napoleonic army", "General Castaños commanded the Spanish Army of Andalusia", "General Dupont's French troops suffered from severe dehydration and lack of supplies", "Around 18,000 French troops surrendered and were taken as prisoners of war", "The victory forced King Joseph Bonaparte to temporarily flee Madrid", "News of the defeat triggered uprisings against Napoleon across Europe"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-battle-bailen-history-v2.webp",
+},  {
     id: "spain-battle-las-navas-tolosa-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Las Navas de Tolosa", hu: "Las Navas de Tolosa-i csatatér", ro: "Câmpul de luptă Las Navas de Tolosa", en: "Battlefield of Las Navas de Tolosa" },
+    name: { de: "Schlachtfeld von Las Navas de Tolosa", hu: "Las Navas de Tolosa-i csatatér", ro: "Câmpul de luptă Las Navas de Tolosa", en: "Battlefield of Las Navas de Tolosa",
+image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp"
+},
     coords: [-3.538, 38.275],
     coordinates: { lat: 38.275, lng: -3.538 },
     description: {
@@ -266,11 +367,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Condusă de regii Castiliei, Aragonului și Navarrei", "A marcat începutul colapsului stăpânirii maure în Spania", "Un muzeu aflat la trecătoarea Despeñaperros expune vestigii", "Victoria este considerată un punct de cotitură în istoria Spaniei"],
       en: ["Led by the Kings of Castile, Aragon, and Navarre", "Marked the beginning of the collapse of Moorish rule", "A museum at the Despeñaperros pass exhibits battle artifacts", "The victory is celebrated as a major turning point in Spanish history"],
     },
-    imageHint: "Landscape of Las Navas de Tolosa with battle memorial", image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp"},
-  {
+imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Las Navas de Tolosa in den Ausläufern der Sierra Morena ist der historische Ort, an dem sich am 16. Juli 1212 das Schicksal der Iberischen Halbinsel für immer veränderte. Angesichts der bedrohlichen Expansion des nordafrikanischen Almohaden-Reiches schlossen sich die christlichen Könige von Kastilien, Aragón und Navarra zu einer beispiellosen Allianz zusammen, die von Papst Innozenz III. zum Kreuzzug erklärt wurde. In einer gewaltigen und blutigen Schlacht trafen die zahlenmäßig überlegenen muslimischen Truppen von Kalif Muhammad an-Nasir auf die vereinigten christlichen Heere. Der entscheidende Moment kam durch den unerwarteten Flankenangriff des kastilischen Königs Alfons VIII. und den tollkühnen Durchbruch des navarresischen Königs Sancho VII. bis zum Zelt des Kalifen. Der überwältigende christliche Sieg brach die militärische Macht der Almohaden endgültig und öffnete den Weg für die schnelle Rückeroberung (Reconquista) Andalusiens. Heute informiert ein modernes Besucherzentrum in Santa Elena detailliert über die Taktiken und den tiefgreifenden Einfluss dieser Schlacht auf die spanische Geschichte.",
+      hu: "A Sierra Morena lábánál fekvő Las Navas de Tolosa-i csatatér az a történelmi helyszín, ahol 1212. július 16-án végérvényesen megpecsételődött az Ibériai-félsziget sorsa. Az észak-afrikai Almohád Birodalom fenyegető terjeszkedésével szemben Kasztília, Aragónia és Navarra keresztény királyai példátlan szövetségre léptek, amelyet III. Ince pápa keresztes hadjáratnak nyilvánított. Egy hatalmas és véres ütközetben a létszámfölényben lévő, Muhammad an-Nászir kalifa vezette muszlim csapatok csaptak össze az egyesült keresztény seregekkel. A döntő pillanat VIII. Alfonz kasztíliai király váratlan szárnytámadásával és VII. Sancho navarrai király vakmerő áttörésével jött el, egészen a kalifa sátráig. A megsemmisítő keresztény győzelem végleg megtörte az almohádok katonai hatalmát, és megnyitotta az utat Andalúzia gyors visszafoglalása (Reconquista) előtt. Ma a Santa Elenában található modern látogatóközpont nyújt részletes tájékoztatást a taktikákról és e csata spanyol történelemre gyakorolt mélyreható hatásáról.",
+      ro: "Câmpul de luptă de la Las Navas de Tolosa, la poalele Sierra Morena, este locul istoric în care, pe 16 iulie 1212, soarta Peninsulei Iberice s-a schimbat pentru totdeauna. Confruntați cu expansiunea amenințătoare a Imperiului nord-african Almohad, regii creștini din Castilia, Aragon și Navarra au format o alianță fără precedent, declarată cruciadă de Papa Inocențiu al III-lea. Într-o bătălie masivă și sângeroasă, trupele musulmane superioare numeric, conduse de califul Muhammad an-Nasir, s-au ciocnit cu armatele creștine unite. Momentul decisiv a survenit prin atacul neașteptat pe flanc al regelui Alfonso al VIII-lea al Castiliei și pătrunderea temerară a regelui Sancho al VII-lea al Navarrei până la cortul califului. Victoria creștină covârșitoare a rupt definitiv puterea militară a almohazilor și a deschis calea pentru rapida recucerire (Reconquista) a Andaluziei. Astăzi, un centru modern de vizitare în Santa Elena oferă informații detaliate despre tactici și impactul profund al acestei bătălii asupra istoriei spaniole.",
+      en: "The battlefield of Las Navas de Tolosa in the foothills of the Sierra Morena is the historic site where the fate of the Iberian Peninsula changed forever on July 16, 1212. Faced with the threatening expansion of the North African Almohad Empire, the Christian kings of Castile, Aragon, and Navarre formed an unprecedented alliance, which Pope Innocent III declared a crusade. In a massive and bloody battle, the numerically superior Muslim forces of Caliph Muhammad an-Nasir clashed with the united Christian armies. The decisive moment came with the unexpected flanking attack by King Alfonso VIII of Castile and the daring breakthrough by King Sancho VII of Navarre directly to the Caliph's tent. The overwhelming Christian victory definitively broke the military power of the Almohads and opened the gateway for the rapid reconquest (Reconquista) of Andalusia. Today, a modern visitor center located in Santa Elena provides detailed insights into the tactics and the profound impact of this battle on Spanish history."
+    },
+    factsAdvanced: {
+      de: ["Fought on July 16, 1212 near the Despeñaperros mountain pass", "Commanded by Alfonso VIII of Castile, Peter II of Aragon, and Sancho VII of Navarre", "Pope Innocent III granted crusade indulgences to participants", "The Caliph's defensive guard was chained together to prevent retreat", "The victory dramatically accelerated the Christian Reconquista of southern Spain", "A modern museum, the Museo de la Batalla, is located nearby in Santa Elena", "It is often referred to in Spanish simply as 'La Batalla' (The Battle)"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
+},  {
     id: "spain-battle-brunete-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Brunete", hu: "Brunetei csatatér", ro: "Câmpul de luptă Brunete", en: "Battlefield of Brunete" },
+    name: { de: "Schlachtfeld von Brunete", hu: "Brunetei csatatér", ro: "Câmpul de luptă Brunete", en: "Battlefield of Brunete",
+image: "/poi-images/spain-battle-brunete-history-v2.webp"
+},
     coords: [-3.998, 40.402],
     coordinates: { lat: 40.402, lng: -3.998 },
     description: {
@@ -285,11 +401,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Implicarea Brigăzilor Internaționale de partea republicană", "Bătălia a cauzat aproximativ 40.000 de victime în total", "S-a desfășurat în condiții de căldură extremă de peste 40 grade", "A fost marcată de utilizarea masivă a aviației și tancurilor"],
       en: ["Involved International Brigades fighting on the Republican side", "The battle resulted in an estimated 40,000 casualties", "Fought during a heatwave with temperatures exceeding 40°C", "Characterized by massive use of aircraft and tanks"],
     },
-    imageHint: "Memorial plaque at the site of the Battle of Brunete", image: "/poi-images/spain-battle-brunete-history-v2.webp"},
+    imageHint: "Memorial plaque at the site of the Battle of Brunete",
+    image: "/poi-images/spain-battle-brunete-history-v2.webp"},
   {
     id: "spain-dolmens-antequera-history-v2",
     type: "ruins",
-    name: { de: "Dolmen von Antequera", hu: "Antequerai dolmenek", ro: "Dolmenele din Antequera", en: "Dolmens of Antequera" },
+    name: { de: "Dolmen von Antequera", hu: "Antequerai dolmenek", ro: "Dolmenele din Antequera", en: "Dolmens of Antequera",
+image: "/poi-images/spain-dolmens-antequera-history-v2.webp"
+},
     coords: [-4.547, 37.024],
     coordinates: { lat: 37.024, lng: -4.547 },
     description: {
@@ -304,11 +423,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Dolmenul Menga este unul dintre cele mai mari din Europa", "Menga este orientat spre muntele Peña de los Enamorados", "Construite acum aproximativ 5.000 până la 6.500 de ani", "Patrimoniu Mondial UNESCO din anul 2016"],
       en: ["The Menga dolmen is one of the largest such structures in Europe", "Menga is oriented towards the Peña de los Enamorados mountain", "Built approximately 5,000 to 6,500 years ago", "UNESCO World Heritage site since 2016"],
     },
-    imageHint: "Entrance to the prehistoric Menga dolmen in Antequera", image: "/poi-images/spain-dolmens-antequera-history-v2.webp"},
+    imageHint: "Entrance to the prehistoric Menga dolmen in Antequera",
+    image: "/poi-images/spain-dolmens-antequera-history-v2.webp"},
   {
     id: "spain-altamira-cave-history-v2",
     type: "ruins",
-    name: { de: "Höhle von Altamira", hu: "Altamira-barlang", ro: "Peștera Altamira", en: "Cave of Altamira" },
+    name: { de: "Höhle von Altamira", hu: "Altamira-barlang", ro: "Peștera Altamira", en: "Cave of Altamira",
+image: "/poi-images/spain-altamira-cave-history-v2.webp"
+},
     coords: [-4.12, 43.376],
     coordinates: { lat: 43.376, lng: -4.12 },
     description: {
@@ -323,11 +445,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Deseori numită 'Capela Sixtină a preistoriei'", "Picturile au o vechime de aproximativ 14.000 până la 35.000 de ani", "Peștera originală este închisă publicului pentru protecție", "O replică exactă (Neocueva) poate fi vizitată la muzeu"],
       en: ["Often called the 'Sistine Chapel of Prehistoric Art'", "The paintings are approximately 14,000 to 35,000 years old", "The original cave is closed to the public to preserve the art", "An exact replica (Neocueva) can be visited in the nearby museum"],
     },
-    imageHint: "Famous bison cave painting from Altamira", image: "/poi-images/spain-altamira-cave-history-v2.webp"},
+    imageHint: "Famous bison cave painting from Altamira",
+    image: "/poi-images/spain-altamira-cave-history-v2.webp"},
   {
     id: "spain-atapuerca-site-history-v2",
     type: "landmark",
-    name: { de: "Atapuerca", hu: "Atapuerca", ro: "Atapuerca", en: "Atapuerca" },
+    name: { de: "Atapuerca", hu: "Atapuerca", ro: "Atapuerca", en: "Atapuerca",
+image: "/poi-images/spain-atapuerca-site-history-v2.webp"
+},
     coords: [-3.518, 42.351],
     coordinates: { lat: 42.351, lng: -3.518 },
     description: {
@@ -342,11 +467,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Locul descoperirii speciei Homo antecessor", "Cele mai vechi fosile au o vechime de peste un milion de ani", "Sima de los Huesos conține mii de oase umane antice", "Patrimoniu Mondial UNESCO din anul 2000"],
       en: ["Discovery site of the hominid species Homo antecessor", "The oldest fossils date back over one million years", "The Sima de los Huesos site contains thousands of human bones", "UNESCO World Heritage site since 2000"],
     },
-    imageHint: "Archaeological excavation site at the Gran Dolina in Atapuerca", image: "/poi-images/spain-atapuerca-site-history-v2.webp"},
+    imageHint: "Archaeological excavation site at the Gran Dolina in Atapuerca",
+    image: "/poi-images/spain-atapuerca-site-history-v2.webp"},
   {
     id: "spain-lugo-walls-ruins-history-v2",
     type: "ruins",
-    name: { de: "Römische Mauern von Lugo", hu: "Lugo római városfala", ro: "Zidurile romane din Lugo", en: "Roman Walls of Lugo" },
+    name: { de: "Römische Mauern von Lugo", hu: "Lugo római városfala", ro: "Zidurile romane din Lugo", en: "Roman Walls of Lugo",
+image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"
+},
     coords: [-7.556, 43.011],
     coordinates: { lat: 43.011, lng: -7.556 },
     description: {
@@ -361,11 +489,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construite la sfârșitul secolului al III-lea pentru apărare", "Zidul are o lungime de peste 2 kilometri și 71 de turnuri", "Partea superioară a zidului este o cale pietonală continuă", "Patrimoniu Mondial UNESCO din noiembrie 2000"],
       en: ["Built in the late 3rd century to defend Lucus Augusti", "The perimeter is over 2 kilometers long with 71 towers", "The top of the wall is a continuous pedestrian walkway", "UNESCO World Heritage site since November 2000"],
     },
-    imageHint: "Intact Roman city walls of Lugo with watchtowers", image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"},
+    imageHint: "Intact Roman city walls of Lugo with watchtowers",
+    image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"},
   {
     id: "spain-tower-hercules-landmark-history-v2",
     type: "tower",
-    name: { de: "Herkulesturm", hu: "Herkules-torony", ro: "Turnul lui Hercule", en: "Tower of Hercules" },
+    name: { de: "Herkulesturm", hu: "Herkules-torony", ro: "Turnul lui Hercule", en: "Tower of Hercules",
+image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp"
+},
     coords: [-8.406, 43.385],
     coordinates: { lat: 43.385, lng: -8.406 },
     description: {
@@ -380,11 +511,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit în secolul I d.Hr. de Gaius Sevius Lupus", "A fost restaurat în stil neoclasic în secolul al XVIII-lea", "Turnul are 55 de metri înălțime și domină Atlanticul", "Patrimoniu Mondial UNESCO din anul 2009"],
       en: ["Built in the 1st century AD by Gaius Sevius Lupus", "Was given a neoclassical facade in the 18th century", "The tower stands 55 meters tall overlooking the Atlantic", "UNESCO World Heritage site since 2009"],
     },
-    imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna", image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp"},
-  {
+imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
+    descriptionAdvanced: {
+      de: "Der Herkulesturm (Torre de Hércules) in der galicischen Hafenstadt A Coruña ist ein spektakuläres architektonisches Wunder, da er der einzige römische Leuchtturm der Welt ist, der noch immer in Betrieb ist. Erbaut im 1. Jahrhundert nach Christus von dem römischen Architekten Gaius Sevius Lupus aus Coimbra, diente der markante Turm den Seeleuten als lebenswichtiger Wegweiser entlang der gefährlichen Atlantikküste, die von den Römern als \"Costa da Morte\" (Todesküste) gefürchtet wurde. Mit einer Höhe von 55 Metern thront das Bauwerk auf einer Klippe und bietet einen dramatischen Blick über die tosenden Wellen des Ozeans. Ursprünglich wies der Turm eine spiralförmige Außenrampe für den Brennstofftransport auf. Im späten 18. Jahrhundert erhielt das Bauwerk auf Befehl von König Karl III. durch den Architekten Eustaquio Giannini eine umfassende klassizistische Umhüllung, welche die antiken Grundmauern elegant verbirgt und gleichzeitig bewahrt. Heute ist der Herkulesturm nicht nur ein aktives Seezeichen, sondern auch ein stolzes Symbol der Stadt und seit 2009 anerkanntes UNESCO-Welterbe.",
+      hu: "A galíciai A Coruña kikötővárosban található Herkules-torony (Torre de Hércules) egy látványos építészeti csoda, hiszen ez a világ egyetlen római kori világítótornya, amely még ma is működik. A Kr. u. 1. században építette a coimbrai római építész, Gaius Sevius Lupus, és a jellegzetes torony létfontosságú iránymutatóként szolgált a tengerészek számára a veszélyes atlanti partvidéken, amelyet a rómaiak \"Costa da Morte\" (Halálpart) néven rettegtek. Az 55 méter magas építmény egy sziklán magasodik, és drámai kilátást nyújt az óceán tomboló hullámaira. Eredetileg a torony külső spirális rámpával rendelkezett a tüzelőanyag szállítására. A 18. század végén, III. Károly király parancsára Eustaquio Giannini építész átfogó klasszicista burkolattal látta el az épületet, amely elegánsan elrejti és egyben meg is óvja az ókori alapfalakat. Ma a Herkules-torony nem csupán aktív tengeri jelzőfény, hanem a város büszke szimbóluma és 2009 óta az UNESCO világörökség része.",
+      ro: "Turnul lui Hercule (Torre de Hércules) din orașul-port galician A Coruña este o minune arhitecturală spectaculoasă, fiind singurul far roman din lume care este încă în funcțiune. Construit în secolul I d.Hr. de către arhitectul roman Gaius Sevius Lupus din Coimbra, turnul impunător a servit marinarilor ca un reper vital de-a lungul coastei atlantice periculoase, de care romanii se temeau, numind-o \"Costa da Morte\" (Coasta Morții). Cu o înălțime de 55 de metri, structura tronează pe o stâncă și oferă o vedere dramatică asupra valurilor zbuciumate ale oceanului. Inițial, turnul avea o rampă exterioară în spirală pentru transportul combustibilului. La sfârșitul secolului al XVIII-lea, la ordinul regelui Carol al III-lea, arhitectul Eustaquio Giannini a adăugat clădirii o fațadă neoclasică cuprinzătoare, care ascunde cu eleganță și protejează simultan fundațiile antice. Astăzi, Turnul lui Hercule nu este doar un semnal maritim activ, ci și un simbol mândru al orașului și un sit al Patrimoniului Mondial UNESCO din 2009.",
+      en: "The Tower of Hercules (Torre de Hércules) in the Galician port city of A Coruña is a spectacular architectural marvel, as it is the only Roman lighthouse in the world that is still in operation. Built in the 1st century AD by the Roman architect Gaius Sevius Lupus from Coimbra, the striking tower served as a vital beacon for sailors navigating the treacherous Atlantic coastline, famously feared by the Romans as the \"Costa da Morte\" (Coast of Death). Standing 55 meters tall, the structure rests on a rocky cliff, offering a dramatic view over the crashing waves of the ocean. Originally, the tower featured an external spiral ramp for transporting fuel to the beacon. In the late 18th century, by order of King Charles III, the architect Eustaquio Giannini wrapped the building in a comprehensive neoclassical facade, which elegantly conceals and simultaneously preserves the ancient core structure. Today, the Tower of Hercules is not merely an active maritime signal, but also a proud symbol of the city and a recognized UNESCO World Heritage site since 2009."
+    },
+    factsAdvanced: {
+      de: ["Built in the late 1st century AD, likely under Emperor Trajan", "The original architect was Gaius Sevius Lupus from Aeminium (modern Coimbra)", "It is the oldest extant lighthouse in the world still in use", "The tower measures 55 meters in height", "In 1791, Eustaquio Giannini designed the neoclassical facade that encases the Roman core", "The name 'Tower of Hercules' comes from an ancient myth involving the Greek hero", "Inscribed as a UNESCO World Heritage Site in 2009"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
+},  {
     id: "spain-palace-olite-history-v2",
     type: "palace",
-    name: { de: "Palast der Könige von Navarra in Olite", hu: "Olitei királyi palota", ro: "Palatul Regilor Navarei din Olite", en: "Palace of the Kings of Navarre of Olite" },
+    name: { de: "Palast der Könige von Navarra in Olite", hu: "Olitei királyi palota", ro: "Palatul Regilor Navarei din Olite", en: "Palace of the Kings of Navarre of Olite",
+image: "/poi-images/spain-palace-olite-history-v2.webp"
+},
     coords: [-1.648, 42.481],
     coordinates: { lat: 42.481, lng: -1.648 },
     description: {
@@ -399,11 +545,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Extins în secolul al XV-lea sub Carol al III-lea", "A fost considerat unul dintre cele mai luxoase palate europene", "Are o structură de răcire a gheții în formă de ou uriaș", "Restaurat în secolul XX după un incendiu grav în 1813"],
       en: ["Expanded in the 15th century under Charles III", "Was considered one of the most luxurious palaces in Europe", "Features a distinctive giant egg-shaped ice chamber", "Restored in the 20th century after a massive fire in 1813"],
     },
-    imageHint: "The ornate towers of the Palace of Olite", image: "/poi-images/spain-palace-olite-history-v2.webp"},
+    imageHint: "The ornate towers of the Palace of Olite",
+    image: "/poi-images/spain-palace-olite-history-v2.webp"},
   {
     id: "spain-poblet-monastery-history-v2",
     type: "landmark",
-    name: { de: "Kloster von Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Poblet Monastery" },
+    name: { de: "Kloster von Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Poblet Monastery",
+image: "/poi-images/spain-poblet-monastery-history-v2.webp"
+},
     coords: [1.076, 41.381],
     coordinates: { lat: 41.381, lng: 1.076 },
     description: {
@@ -418,11 +567,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondată în 1151 de către Ramon Berenguer al IV-lea", "Găzduiește mormintele somptuoase ale lui Iacob I și Petru al IV-lea", "Una dintre cele mai mari mănăstiri cisterciene locuite din lume", "Patrimoniu Mondial UNESCO din anul 1991"],
       en: ["Founded in 1151 by Ramon Berenguer IV", "Houses the ornate tombs of James I and Peter IV", "One of the largest inhabited Cistercian monasteries in the world", "UNESCO World Heritage site since 1991"],
     },
-    imageHint: "The fortified walls and church of Poblet Monastery", image: "/poi-images/spain-poblet-monastery-history-v2.webp"},
+    imageHint: "The fortified walls and church of Poblet Monastery",
+    image: "/poi-images/spain-poblet-monastery-history-v2.webp"},
   {
     id: "spain-yuste-monastery-history-v2",
     type: "landmark",
-    name: { de: "Kloster von Yuste", hu: "Yuste-kolostor", ro: "Mănăstirea Yuste", en: "Monastery of Yuste" },
+    name: { de: "Kloster von Yuste", hu: "Yuste-kolostor", ro: "Mănăstirea Yuste", en: "Monastery of Yuste",
+image: "/poi-images/spain-yuste-monastery-history-v2.webp"
+},
     coords: [-5.738, 40.113],
     coordinates: { lat: 40.113, lng: -5.738 },
     description: {
@@ -437,11 +589,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Compusă din două părți: mănăstirea și palatul împăratului", "Carol al V-lea a murit aici în anul 1558", "Situată în regiunea pitorească La Vera din Extremadura", "Deține titlul de Marcă a Patrimoniului European"],
       en: ["Composed of two complexes: the monastery and the Emperor's palace", "Charles V died here in 1558", "Located in the scenic La Vera region of Extremadura", "Designated as a European Heritage site"],
     },
-    imageHint: "Monastery of Yuste and the Emperor's residence", image: "/poi-images/spain-yuste-monastery-history-v2.webp"},
+    imageHint: "Monastery of Yuste and the Emperor's residence",
+    image: "/poi-images/spain-yuste-monastery-history-v2.webp"},
   {
     id: "spain-san-juan-pena-history-v2",
     type: "landmark",
-    name: { de: "San Juan de la Peña", hu: "San Juan de la Peña", ro: "San Juan de la Peña", en: "San Juan de la Peña" },
+    name: { de: "San Juan de la Peña", hu: "San Juan de la Peña", ro: "San Juan de la Peña", en: "San Juan de la Peña",
+image: "/poi-images/spain-san-juan-pena-history-v2.webp"
+},
     coords: [-0.71, 42.508],
     coordinates: { lat: 42.508, lng: -0.71 },
     description: {
@@ -456,11 +611,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Găzduiește panteonul primilor regi ai Aragonului", "Cloastrul romanic are capiteluri sculptate cu mare măiestrie", "Legenda spune că aici a fost păstrat Sfântul Graal", "A fost abandonată parțial după un incendiu în 1675"],
       en: ["Houses the pantheon of the first Kings of Aragon", "The Romanesque cloister features masterfully carved capitals", "Legend says it once housed the Holy Grail", "Partially abandoned after a fire in 1675"],
     },
-    imageHint: "Monastery of San Juan de la Peña tucked under a rock cliff", image: "/poi-images/spain-san-juan-pena-history-v2.webp"},
+    imageHint: "Monastery of San Juan de la Peña tucked under a rock cliff",
+    image: "/poi-images/spain-san-juan-pena-history-v2.webp"},
   {
     id: "spain-baelo-claudia-ruins-history-v2",
     type: "ruins",
-    name: { de: "Baelo Claudia", hu: "Baelo Claudia", ro: "Baelo Claudia", en: "Baelo Claudia" },
+    name: { de: "Baelo Claudia", hu: "Baelo Claudia", ro: "Baelo Claudia", en: "Baelo Claudia",
+image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"
+},
     coords: [-5.774, 36.089],
     coordinates: { lat: 36.089, lng: -5.774 },
     description: {
@@ -475,11 +633,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Considerat cel mai complet plan de oraș roman din Spania", "Are un teatru bine conservat și un forum lângă mare", "Fondat în secolul al II-lea î.Hr.", "Abandonat în secolul al IV-lea după cutremure și atacuri de pirați"],
       en: ["Considered the most complete Roman town plan in Spain", "Features a well-preserved theater and a forum next to the beach", "Founded in the 2nd century BC", "Abandoned in the 4th century AD after earthquakes and pirate raids"],
     },
-    imageHint: "Roman ruins of Baelo Claudia with Bolonia beach in the background", image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"},
+    imageHint: "Roman ruins of Baelo Claudia with Bolonia beach in the background",
+    image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"},
   {
     id: "spain-empuries-ruins-history-v2",
     type: "ruins",
-    name: { de: "Empúries", hu: "Empúries", ro: "Empúries", en: "Empuries" },
+    name: { de: "Empúries", hu: "Empúries", ro: "Empúries", en: "Empuries",
+image: "/poi-images/spain-empuries-ruins-history-v2.webp"
+},
     coords: [3.12, 42.134],
     coordinates: { lat: 42.134, lng: 3.12 },
     description: {
@@ -494,11 +655,26 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondat de grecii din Phocaea în secolul al VI-lea î.Hr.", "Locul unde a debarcat Scipio Africanul în 218 î.Hr.", "Conține un sanctuar important dedicat lui Asclepios", "Situat direct pe malul Golfului Roses, pe Costa Brava"],
       en: ["Founded by Greeks from Phocaea in the 6th century BC", "Site where Scipio Africanus landed in 218 BC to conquer Hispania", "Features an important sanctuary dedicated to Asclepius", "Located directly on the Gulf of Roses in Costa Brava"],
     },
-    imageHint: "Greek and Roman ruins of Empuries overlooking the sea", image: "/poi-images/spain-empuries-ruins-history-v2.webp"},
-  {
+imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
+    descriptionAdvanced: {
+      de: "Die faszinierenden Ruinen von Empúries, gelegen an der wunderschönen Bucht von Roses an der katalanischen Costa Brava, bilden die einzige archäologische Stätte auf der gesamten Iberischen Halbinsel, an der eine griechische und eine römische Stadt direkt nebeneinander existieren. Im 6. Jahrhundert vor Christus gründeten Seefahrer aus der kleinasiatischen Stadt Phokaia hier die Handelskolonie Emporion (griechisch für \"Marktplatz\"), die sich zu einem blühenden kommerziellen Knotenpunkt zwischen dem Mittelmeer und dem iberischen Hinterland entwickelte. Im Jahr 218 vor Christus betrat an genau dieser Stelle der römische Feldherr Scipio Africanus den Boden Hispaniens, was den Beginn der jahrhundertelangen römischen Eroberung und Herrschaft auf der Halbinsel markierte. Die Römer errichteten neben der griechischen Siedlung eine eigene, deutlich größere Militär- und Zivilstadt. Besucher können heute die Überreste prachtvoller römischer Villen mit erhaltenen Bodenmosaiken, ein ausgedehntes römisches Forum sowie die griechische Hafenanlage und ein Heiligtum bewundern, das dem Heilgott Asklepios gewidmet war.",
+      hu: "A festői szépségű Roses-öbölben, a katalóniai Costa Braván fekvő Empúries lenyűgöző romjai az egyetlen olyan régészeti lelőhelyet alkotják az egész Ibériai-félszigeten, ahol egy ókori görög és egy római város közvetlenül egymás mellett létezett. A Kr. e. 6. században a kis-ázsiai Phókaia városából érkező tengerészek alapították itt az Emporion (görögül \"Piac\") nevű kereskedelmi kolóniát, amely a Földközi-tenger és az ibériai szárazföld közötti virágzó kereskedelmi csomóponttá fejlődött. Kr. e. 218-ban pontosan ezen a helyen lépett Hispánia földjére a római hadvezér, Scipio Africanus, ami a félsziget évszázadokon át tartó római meghódításának és uralmának kezdetét jelentette. A rómaiak a görög település mellett egy saját, sokkal nagyobb katonai és polgári várost építettek. A látogatók ma egyaránt megcsodálhatják a pompás római villák maradványait – amelyekben lenyűgöző padlómozaikok is fennmaradtak –, a hatalmas római fórumot, valamint a görög kikötői negyedet és az Aszklépiosz gyógyító istennek szentelt szentélyt.",
+      ro: "Ruinele fascinante de la Empúries, situate în frumosul golf Roses de pe Costa Brava din Catalonia, constituie singurul sit arheologic din întreaga Peninsulă Iberică unde un oraș grecesc și unul roman coexistă unul lângă celălalt. În secolul al VI-lea î.Hr., navigatorii din orașul Phocaea din Asia Mică au fondat aici colonia comercială Emporion (în greacă \"Piață\"), care s-a dezvoltat într-un nod comercial înfloritor între Marea Mediterană și interiorul iberic. În anul 218 î.Hr., exact în acest loc, generalul roman Scipio Africanul a debarcat pe pământul Hispaniei, marcând începutul cuceririi și dominației romane de secole asupra peninsulei. Lângă așezarea grecească, romanii au construit propriul lor oraș militar și civil, mult mai mare. Astăzi, vizitatorii pot admira rămășițele unor vile romane somptuoase cu mozaicuri conservate pe podea, un forum roman extins, precum și portul grecesc și un sanctuar dedicat zeului vindecării, Asclepios.",
+      en: "The fascinating ruins of Empúries, situated on the beautiful Gulf of Roses on the Catalan Costa Brava, constitute the only archaeological site on the entire Iberian Peninsula where a Greek and a Roman city exist side by side. In the 6th century BC, seafarers from the Asia Minor city of Phocaea founded the trading colony of Emporion (Greek for \"Marketplace\") here, which developed into a thriving commercial hub between the Mediterranean and the Iberian hinterland. In 218 BC, the Roman general Scipio Africanus landed exactly at this spot, marking the beginning of the centuries-long Roman conquest and domination of the peninsula. The Romans established their own, significantly larger military and civilian city right next to the Greek settlement. Today, visitors can admire the remains of magnificent Roman villas with intact floor mosaics, an extensive Roman forum, as well as the Greek harbor facilities and a sanctuary dedicated to Asclepius, the god of medicine and healing."
+    },
+    factsAdvanced: {
+      de: ["Founded as Emporion by Greek colonists from Phocaea in 575 BC", "The Romans landed here in 218 BC under Scipio Africanus to cut off Hannibal's supply lines", "It is the only site in Spain with overlapping Greek and Roman urban remains", "The Roman city was established slightly inland by Julius Caesar's veterans", "Features a prominent sanctuary to Asclepius, with a replica of his statue standing on-site", "Contains well-preserved Roman floor mosaics depicting the sacrifice of Iphigenia", "The site was mostly abandoned in the Early Middle Ages due to its vulnerable coastal position"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+    , image: "/poi-images/spain-empuries-ruins-history-v2.webp",
+},  {
     id: "spain-castle-coca-history-v2",
     type: "castle",
-    name: { de: "Burg von Coca", hu: "Cocai vár", ro: "Castelul Coca", en: "Castle of Coca" },
+    name: { de: "Burg von Coca", hu: "Cocai vár", ro: "Castelul Coca", en: "Castle of Coca",
+image: "/poi-images/spain-castle-coca-history-v2.webp"
+},
     coords: [-4.524, 41.215],
     coordinates: { lat: 41.215, lng: -4.524 },
     description: {
@@ -513,11 +689,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit de Alonso de Fonseca, arhiepiscop de Sevilla", "Are un sistem defensiv complex cu trei rânduri de ziduri", "Spre deosebire de alte castele, nu a servit niciodată drept reședință", "Considerat unul dintre cele mai frumoase castele din cărămidă"],
       en: ["Built by Alonso de Fonseca, Archbishop of Seville", "Features a complex defensive system with three wall rings", "Unlike many other castles, it never served as a royal residence", "Considered one of the finest brick castles in the world"],
     },
-    imageHint: "Ornate Mudejar brickwork of Coca Castle", image: "/poi-images/spain-castle-coca-history-v2.webp"},
+    imageHint: "Ornate Mudejar brickwork of Coca Castle",
+    image: "/poi-images/spain-castle-coca-history-v2.webp"},
   {
     id: "spain-castle-butron-history-v2",
     type: "castle",
-    name: { de: "Burg Butrón", hu: "Butrón-vár", ro: "Castelul Butrón", en: "Butron Castle" },
+    name: { de: "Burg Butrón", hu: "Butrón-vár", ro: "Castelul Butrón", en: "Butron Castle",
+image: "/poi-images/spain-castle-butron-history-v2.webp"
+},
     coords: [-2.912, 43.381],
     coordinates: { lat: 43.381, lng: -2.912 },
     description: {
@@ -532,11 +711,14 @@ export const spainHistoryV2: POI[] = [
       ro: ["Inițial sediul familiei nobiliare Butrón în secolul al XI-lea", "Clădirea actuală a fost proiectată de Marchizul de Cubas", "Are un donjon impunător și turnuri circulare la colțuri", "Înconjurat de un parc vast cu palmieri exotici"],
       en: ["Originally the seat of the Butrón noble family in the 11th century", "The current structure was designed by the Marquis of Cubas", "Features a prominent keep and round corner towers", "Surrounded by a vast park with exotic palm trees"],
     },
-    imageHint: "Neo-Gothic fantasy style of Butron Castle", image: "/poi-images/spain-castle-butron-history-v2.webp"},
+    imageHint: "Neo-Gothic fantasy style of Butron Castle",
+    image: "/poi-images/spain-castle-butron-history-v2.webp"},
   {
     id: "spain-corbera-ebre-ruins-history-v2",
     type: "ruins",
-    name: { de: "Corbera d'Ebre", hu: "Corbera d'Ebre", ro: "Corbera d'Ebre", en: "Corbera d'Ebre" },
+    name: { de: "Corbera d'Ebre", hu: "Corbera d'Ebre", ro: "Corbera d'Ebre", en: "Corbera d'Ebre",
+image: "/poi-images/spain-corbera-ebre-ruins-history-v2.webp"
+},
     coords: [0.475, 41.157],
     coordinates: { lat: 41.157, lng: 0.475 },
     description: {
@@ -552,5 +734,17 @@ export const spainHistoryV2: POI[] = [
       en: ["Almost completely leveled by air raids in 1938", "The Sant Pere church was preserved as a memorial with a glass roof", "Residents built a new village at the foot of the hill", "Part of the Network of Memory Sites of the Spanish Civil War"],
     },
     imageHint: "Ruined church of Corbera d'Ebre memorial site",
+    descriptionAdvanced: {
+      de: "Das zerstörte Dorf Corbera d'Ebre in der Provinz Tarragona ist ein ergreifendes, unbebautes Mahnmal für die Grausamkeiten des Spanischen Bürgerkriegs. Im Juli 1938 wurde der Ort zum Epizentrum der blutigsten und längsten militärischen Auseinandersetzung des Krieges: der Schlacht am Ebro. Über 115 Tage hinweg tobten hier erbitterte Kämpfe zwischen den Truppen der Republik und den nationalistischen Kräften Francos. Die ständigen Artilleriebeschüsse und die brutalen Bombardements der deutschen Legion Condor und der italienischen Luftwaffe legten fast das gesamte Dorf in Schutt und Asche. Nach dem Krieg wurde beschlossen, das zerstörte historische Zentrum auf dem Hügel, den \"Poble Vell\" (Altes Dorf), nicht wieder aufzubauen, sondern es als stumme Anklage gegen den Krieg so zu belassen, wie es 1938 zerstört wurde. Die überlebenden Bewohner errichteten am Fuße des Hügels eine völlig neue Siedlung. Die skeletthaften Ruinen der Häuser und die notdürftig mit einem modernen Glasdach gesicherte Kirche Sant Pere vermitteln heute den Besuchern eine tief bewegende Lektion über die zerstörerische Kraft ideologischer Konflikte.",
+      hu: "Tarragona tartományban található Corbera d'Ebre lerombolt faluja a spanyol polgárháború kegyetlenségeinek megrendítő, érintetlenül hagyott emlékműve. 1938 júliusában a település a háború legvéresebb és leghosszabb katonai összecsapásának, az ebrói csatának az epicentrumává vált. A köztársasági csapatok és Franco nacionalista erői között több mint 115 napon át dühöngtek a heves harcok. A folyamatos tüzérségi ágyúzás, valamint a német Condor Légió és az olasz légierő brutális bombázásai a falu szinte egészét hamuvá tették. A háború után megszületett a döntés, hogy a hegyen lévő elpusztult történelmi központot, a \"Poble Vell\"-t (Öreg falu) nem építik újjá, hanem úgy hagyják meg, ahogyan 1938-ban romba dőlt, mintegy csendes vádiratként a háború ellen. A túlélő lakosok a domb lábánál építettek fel egy teljesen új települést. A házak csontvázszerű romjai és a ma már modern üvegtetővel védett Sant Pere templom mélyen megrendítő leckét adnak a látogatóknak az ideológiai konfliktusok pusztító erejéről.",
+      ro: "Satul distrus Corbera d'Ebre din provincia Tarragona este un memorial emoționant și neconstruit al atrocităților Războiului Civil Spaniol. În iulie 1938, satul a devenit epicentrul celei mai sângeroase și mai lungi confruntări militare a războiului: Bătălia de pe Ebru. Timp de peste 115 zile, aici au făcut ravagii lupte crâncene între trupele republicane și forțele naționaliste ale lui Franco. Bombardamentele constante de artilerie și raidurile aeriene brutale ale Legiunii Condor germane și ale aviației italiene au redus aproape întregul sat la ruine. După război, s-a decis ca centrul istoric distrus de pe deal, \"Poble Vell\" (Satul Vechi), să nu fie reconstruit, ci să fie lăsat exact așa cum a fost distrus în 1938, ca un rechizitoriu tăcut împotriva războiului. Locuitorii supraviețuitori au construit o așezare complet nouă la poalele dealului. Ruinele scheletice ale caselor și biserica Sant Pere, protejată acum provizoriu cu un acoperiș modern din sticlă, oferă astăzi vizitatorilor o lecție profund emoționantă despre forța distructivă a conflictelor ideologice.",
+      en: "The ruined village of Corbera d'Ebre in the province of Tarragona serves as a poignant, unbuilt memorial to the atrocities of the Spanish Civil War. In July 1938, the town became the epicenter of the bloodiest and longest military engagement of the war: the Battle of the Ebro. For over 115 days, fierce fighting raged here between the troops of the Republic and Franco's Nationalist forces. The constant artillery shelling and brutal aerial bombardments by the German Condor Legion and the Italian Air Force reduced almost the entire village to rubble. After the war, the decision was made not to rebuild the destroyed historical center on the hill, known as the \"Poble Vell\" (Old Village), but rather to leave it exactly as it was destroyed in 1938 as a silent indictment of war. The surviving residents built a completely new settlement at the foot of the hill. Today, the skeletal ruins of the houses and the Church of Sant Pere, now protected by a modern glass roof, provide visitors with a deeply moving lesson on the destructive power of ideological conflict."
+    },
+    factsAdvanced: {
+      de: ["Corbera d'Ebre was on the front lines of the 115-day Battle of the Ebro in 1938", "The town was systematically destroyed by aerial bombing from the German Condor Legion", "The ruins on the hill are known in Catalan as the 'Poble Vell' (Old Village)", "The surviving inhabitants were forced to build a new town in the valley below", "The Baroque-style Church of Sant Pere was left in ruins but recently stabilized with a transparent roof", "In 1992, it was declared a 'Place of Historical Interest' by the Generalitat of Catalonia", "The site now features a peace monument consisting of letters from the alphabet forming the word 'Pau' (Peace)"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

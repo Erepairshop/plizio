@@ -7,7 +7,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "river",
     parent: "MZ-MZ",
     coords: [35.5, -18.5],
-    name: { de: "Sambesi", hu: "Zambézi", ro: "Zambezi", en: "Zambezi River" },
+    name: { de: "Sambesi", hu: "Zambézi", ro: "Zambezi", en: "Zambezi River",
+image: "/poi-images/zambezi-river-nature-v2.webp"
+},
     description: { de: "Der viertlängste Fluss Afrikas, der in den Indischen Ozean mündet.", hu: "Afrika negyedik leghosszabb folyója, amely az Indiai-óceánba ömlik.", ro: "Al patrulea cel mai lung fluviu din Africa, care se varsă în Oceanul Indian.", en: "The fourth-longest river in Africa, flowing into the Indian Ocean." },
     facts: {
       de: ["Entspringt in Sambia", "Mündet in den Indischen Ozean", "Bekannt für die Victoriafälle", "Wichtige Wasserstraße für Mosambik"],
@@ -33,7 +35,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-NI",
     coords: [34.7, -12.5],
-    name: { de: "Malawisee", hu: "Malawi-tó", ro: "Lacul Malawi", en: "Lake Malawi" },
+    name: { de: "Malawisee", hu: "Malawi-tó", ro: "Lacul Malawi", en: "Lake Malawi",
+image: "/poi-images/lake-niassa-nature-v2.webp"
+},
     description: { de: "Ein großer afrikanischer See mit einer enormen Artenvielfalt an Fischen.", hu: "Egy hatalmas afrikai tó, amely rengeteg halfajnak ad otthont.", ro: "Un lac african mare, cu o biodiversitate imensă de pești.", en: "A large African lake with an immense biodiversity of fish." },
     facts: {
       de: ["Drittgrößter See Afrikas", "Sehr tief", "Bekannt als Malawisee", "Hoher endemischer Fischreichtum"],
@@ -59,7 +63,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "island",
     parent: "MZ-IN",
     coords: [35.5, -21.7],
-    name: { de: "Bazaruto-Insel", hu: "Bazaruto-sziget", ro: "Insula Bazaruto", en: "Bazaruto Island" },
+    name: { de: "Bazaruto-Insel", hu: "Bazaruto-sziget", ro: "Insula Bazaruto", en: "Bazaruto Island",
+image: "/poi-images/bazaruto-island-nature-v2.webp"
+},
     description: { de: "Die größte Insel des Bazaruto-Archipels mit atemberaubenden weißen Sandstränden.", hu: "A Bazaruto-szigetcsoport legnagyobb szigete lenyűgöző fehér homokos strandokkal.", ro: "Cea mai mare insulă din arhipelagul Bazaruto, cu plaje superbe de nisip alb.", en: "The largest island of the Bazaruto Archipelago, with stunning white sand beaches." },
     facts: {
       de: ["Teil eines Nationalparks", "Beliebt bei Tauchern", "Heimat seltener Seekühe", "Sanddünen-Landschaften"],
@@ -85,7 +91,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "mountain",
     parent: "MZ-SO",
     coords: [34.4, -18.5],
-    name: { de: "Mount Gorongosa", hu: "Gorongosa-hegy", ro: "Muntele Gorongosa", en: "Mount Gorongosa" },
+    name: { de: "Mount Gorongosa", hu: "Gorongosa-hegy", ro: "Muntele Gorongosa", en: "Mount Gorongosa",
+image: "/poi-images/gorongosa-mountain-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Berg im Gorongosa-Nationalpark mit reicher Vegetation.", hu: "Egy jelentős hegy a Gorongosa Nemzeti Parkban, gazdag növényzettel.", ro: "Un munte important în Parcul Național Gorongosa, cu vegetație bogată.", en: "An important mountain in Gorongosa National Park, with rich vegetation." },
     facts: {
       de: ["Wichtige Wasserquelle", "Regenwaldgebiete", "Schutzgebiet", "Biodiversitäts-Hotspot"],
@@ -111,7 +119,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "river",
     parent: "MZ-GA",
     coords: [33.5, -25.2],
-    name: { de: "Limpopo", hu: "Limpopo", ro: "Limpopo", en: "Limpopo River" },
+    name: { de: "Limpopo", hu: "Limpopo", ro: "Limpopo", en: "Limpopo River",
+image: "/poi-images/limpopo-river-nature-v2.webp"
+},
     description: { de: "Ein großer Fluss im südlichen Afrika, der durch Mosambik fließt.", hu: "Egy nagy folyó Dél-Afrikában, amely átfolyik Mozambikon.", ro: "Un fluviu mare din sudul Africii, care traversează Mozambicul.", en: "A major river in southern Africa that flows through Mozambique." },
     facts: {
       de: ["Zweitgrößter ostwärts fließender Fluss", "Grenzfluss", "Mündet in den Indischen Ozean", "Wichtig für die Landwirtschaft"],
@@ -137,7 +147,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "island",
     parent: "MZ-ZA",
     coords: [40.1, -17.0],
-    name: { de: "Primeiras- und Segundas-Inseln", hu: "Primeiras- és Segundas-szigetek", ro: "Insulele Primeiras și Segundas", en: "Primeiras and Segundas Islands" },
+    name: { de: "Primeiras- und Segundas-Inseln", hu: "Primeiras- és Segundas-szigetek", ro: "Insulele Primeiras și Segundas", en: "Primeiras and Segundas Islands",
+image: "/poi-images/primeiras-and-segundas-nature-v2.webp"
+},
     description: { de: "Eine Kette von Koralleninseln vor der Küste von Mosambik.", hu: "Korallzátonyokból álló szigetcsoport Mozambik partjainál.", ro: "Un lanț de insule de corali în largul coastelor Mozambicului.", en: "A chain of coral islands off the coast of Mozambique." },
     facts: {
       de: ["Korallenarchipel", "Schutzgebiet", "Wichtig für Meeresschildkröten", "Unbewohnt"],
@@ -163,7 +175,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "sea",
     parent: "MZ-MP",
     coords: [32.8, -26.0],
-    name: { de: "Maputo-Bucht", hu: "Maputo-öböl", ro: "Golful Maputo", en: "Maputo Bay" },
+    name: { de: "Maputo-Bucht", hu: "Maputo-öböl", ro: "Golful Maputo", en: "Maputo Bay",
+image: "/poi-images/maputo-bay-nature-v2.webp"
+},
     description: { de: "Eine große Bucht an der Küste von Mosambik bei der Hauptstadt Maputo.", hu: "Egy nagy öböl Mozambik partjainál, Maputo főváros közelében.", ro: "Un golf mare pe coasta Mozambicului, lângă capitala Maputo.", en: "A large bay on the coast of Mozambique near the capital, Maputo." },
     facts: {
       de: ["Wichtiger Hafenstandort", "Marine Biodiversität", "Flaches Gewässer", "Lagunenlandschaften"],
@@ -189,7 +203,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-TE",
     coords: [32.6, -15.6],
-    name: { de: "Cahora-Bassa-Stausee", hu: "Cahora Bassa-víztározó", ro: "Lacul de acumulare Cahora Bassa", en: "Cahora Bassa Reservoir" },
+    name: { de: "Cahora-Bassa-Stausee", hu: "Cahora Bassa-víztározó", ro: "Lacul de acumulare Cahora Bassa", en: "Cahora Bassa Reservoir",
+image: "/poi-images/cahora-bassa-lake-nature-v2.webp"
+},
     description: { de: "Einer der größten Stauseen Afrikas am Sambesi-Fluss.", hu: "Afrika egyik legnagyobb víztározója a Zambézi folyón.", ro: "Unul dintre cele mai mari lacuri de acumulare din Africa, pe fluviul Zambezi.", en: "One of Africa's largest reservoirs on the Zambezi River." },
     facts: {
       de: ["Stausee am Sambesi", "Wichtige Energiegewinnung", "Sehr großes Wasservolumen", "Wichtige Fischereiquelle"],
@@ -215,7 +231,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "island",
     parent: "MZ-CD",
     coords: [40.5, -12.2],
-    name: { de: "Quirimbas-Archipel", hu: "Quirimbas-szigetcsoport", ro: "Arhipelagul Quirimbas", en: "Quirimbas Archipelago" },
+    name: { de: "Quirimbas-Archipel", hu: "Quirimbas-szigetcsoport", ro: "Arhipelagul Quirimbas", en: "Quirimbas Archipelago",
+image: "/poi-images/quirimbas-archipelago-nature-v2.webp"
+},
     description: { de: "Eine Gruppe malerischer Koralleninseln im Norden von Mosambik.", hu: "Festői korall-szigetcsoport Mozambik északi részén.", ro: "Un grup de insule de corali pitorești în nordul Mozambicului.", en: "A group of picturesque coral islands in northern Mozambique." },
     facts: {
       de: ["Korallenriffe", "Nationalpark", "Paradies für Taucher", "Historische Einflüsse"],
@@ -241,7 +259,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "mountain",
     parent: "MZ-NI",
     coords: [36.0, -14.0],
-    name: { de: "Mount Romue", hu: "Romue-hegy", ro: "Muntele Romue", en: "Mount Romue" },
+    name: { de: "Mount Romue", hu: "Romue-hegy", ro: "Muntele Romue", en: "Mount Romue",
+image: "/poi-images/romue-mountain-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Bergmassiv in der Provinz Niassa.", hu: "Jelentős hegyvonulat Niassa tartományban.", ro: "Un masiv muntos important în provincia Niassa.", en: "A significant mountain massif in the Niassa province." },
     facts: {
       de: ["Bergige Region", "Kaum erforscht", "Wichtiger Lebensraum", "Wildnis"],
@@ -267,7 +287,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "river",
     parent: "MZ-CD",
     coords: [40.3, -11.4],
-    name: { de: "Rovuma", hu: "Rovuma", ro: "Rovuma", en: "Rovuma River" },
+    name: { de: "Rovuma", hu: "Rovuma", ro: "Rovuma", en: "Rovuma River",
+image: "/poi-images/rovuma-river-nature-v2.webp"
+},
     description: { de: "Ein Grenzfluss zwischen Mosambik und Tansania.", hu: "Határfolyó Mozambik és Tanzánia között.", ro: "Fluviu de frontieră între Mozambic și Tanzania.", en: "A border river between Mozambique and Tanzania." },
     facts: {
       de: ["Grenzfluss", "Mündet in den Indischen Ozean", "Wichtige Flusslandschaft", "Ökologisch wertvoll"],
@@ -293,7 +315,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "island",
     parent: "MZ-IN",
     coords: [35.4, -21.8],
-    name: { de: "Ilha do Inda", hu: "Inda-sziget", ro: "Insula Inda", en: "Inda Island" },
+    name: { de: "Ilha do Inda", hu: "Inda-sziget", ro: "Insula Inda", en: "Inda Island",
+image: "/poi-images/inda-island-nature-v2.webp"
+},
     description: { de: "Eine kleine, unbewohnte Insel im Bazaruto-Archipel.", hu: "Egy kicsi, lakatlan sziget a Bazaruto-szigetcsoportban.", ro: "O mică insulă nelocuită din arhipelagul Bazaruto.", en: "A small, uninhabited island in the Bazaruto Archipelago." },
     facts: {
       de: ["Teil des Archipels", "Unbewohnt", "Naturschutzgebiet", "Rückzugsort für Vögel"],
@@ -319,7 +343,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-NI",
     coords: [35.8, -14.8],
-    name: { de: "Chiuta-See", hu: "Chiuta-tó", ro: "Lacul Chiuta", en: "Lake Chiuta" },
+    name: { de: "Chiuta-See", hu: "Chiuta-tó", ro: "Lacul Chiuta", en: "Lake Chiuta",
+image: "/poi-images/lake-chiuta-nature-v2.webp"
+},
     description: { de: "Ein See an der Grenze zu Malawi.", hu: "Egy tó a Malawi határ közelében.", ro: "Un lac în apropierea graniței cu Malawi.", en: "A lake near the border with Malawi." },
     facts: {
       de: ["Grenznah", "Flacher See", "Wichtig für die lokale Fischerei", "Feuchtgebiet"],
@@ -345,7 +371,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "mountain",
     parent: "MZ-ZA",
     coords: [37.5, -16.5],
-    name: { de: "Mount Pungo", hu: "Pungo-hegy", ro: "Muntele Pungo", en: "Mount Pungo" },
+    name: { de: "Mount Pungo", hu: "Pungo-hegy", ro: "Muntele Pungo", en: "Mount Pungo",
+image: "/poi-images/pungo-mountain-nature-v2.webp"
+},
     description: { de: "Ein markanter Berg in Zentralmosambik.", hu: "Jellegzetes hegy Közép-Mozambikban.", ro: "Un munte marcant în centrul Mozambicului.", en: "A prominent mountain in central Mozambique." },
     facts: {
       de: ["Zentralmosambik", "Wandergebiet", "Bergregion", "Schöne Aussicht"],
@@ -371,7 +399,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "river",
     parent: "MZ-SO",
     coords: [34.7, -19.9],
-    name: { de: "Buzi", hu: "Buzi", ro: "Buzi", en: "Buzi River" },
+    name: { de: "Buzi", hu: "Buzi", ro: "Buzi", en: "Buzi River",
+image: "/poi-images/buzi-river-nature-v2.webp"
+},
     description: { de: "Ein Fluss in Zentralmosambik, der in den Indischen Ozean mündet.", hu: "Egy folyó Közép-Mozambikban, amely az Indiai-óceánba ömlik.", ro: "Un fluviu în centrul Mozambicului, care se varsă în Oceanul Indian.", en: "A river in central Mozambique flowing into the Indian Ocean." },
     facts: {
       de: ["Flusslandschaft", "Mündung in den Indischen Ozean", "Wichtig für die Region", "Ökologisch wichtig"],
@@ -397,7 +427,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-GA",
     coords: [33.2, -24.5],
-    name: { de: "Lagoa de Gaza", hu: "Gaza-tó", ro: "Lacul Gaza", en: "Gaza Lake" },
+    name: { de: "Lagoa de Gaza", hu: "Gaza-tó", ro: "Lacul Gaza", en: "Gaza Lake",
+image: "/poi-images/gaza-lake-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Gewässer in der Provinz Gaza.", hu: "Fontos vízfelület Gaza tartományban.", ro: "O importantă întindere de apă în provincia Gaza.", en: "An important body of water in Gaza province." },
     facts: {
       de: ["Provinz Gaza", "Vogelbeobachtung", "Ruhegebiet", "Natur pur"],
@@ -423,7 +455,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "island",
     parent: "MZ-IN",
     coords: [35.4, -21.9],
-    name: { de: "Bangue-Insel", hu: "Bangue-sziget", ro: "Insula Bangue", en: "Bangue Island" },
+    name: { de: "Bangue-Insel", hu: "Bangue-sziget", ro: "Insula Bangue", en: "Bangue Island",
+image: "/poi-images/bangue-island-nature-v2.webp"
+},
     description: { de: "Eine malerische, kleine Insel im Süden von Mosambik.", hu: "Festői, kis sziget Mozambik déli részén.", ro: "O mică insulă pitorească în sudul Mozambicului.", en: "A picturesque, small island in southern Mozambique." },
     facts: {
       de: ["Süden von Mosambik", "Strandparadies", "Tourismus", "Natur pur"],
@@ -449,7 +483,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "forest",
     parent: "MZ-NA",
     coords: [39.0, -15.0],
-    name: { de: "Nampula-Wald", hu: "Nampula-erdő", ro: "Pădurea Nampula", en: "Nampula Forest" },
+    name: { de: "Nampula-Wald", hu: "Nampula-erdő", ro: "Pădurea Nampula", en: "Nampula Forest",
+image: "/poi-images/nampula-forest-nature-v2.webp"
+},
     description: { de: "Ein ausgedehntes Waldgebiet in der Provinz Nampula.", hu: "Kiterjedt erdőterület Nampula tartományban.", ro: "O zonă forestieră extinsă în provincia Nampula.", en: "An extensive forest area in the Nampula province." },
     facts: {
       de: ["Waldregion", "Biodiversität", "Flora und Fauna", "Geschütztes Gebiet"],
@@ -475,7 +511,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "mountain",
     parent: "MZ-TE",
     coords: [32.7, -15.5],
-    name: { de: "Mount Songo", hu: "Songo-hegy", ro: "Muntele Songo", en: "Mount Songo" },
+    name: { de: "Mount Songo", hu: "Songo-hegy", ro: "Muntele Songo", en: "Mount Songo",
+image: "/poi-images/songo-mountain-nature-v2.webp"
+},
     description: { de: "Ein bekannter Berg in der Nähe von Cahora Bassa.", hu: "Ismert hegy a Cahora Bassa közelében.", ro: "Un munte cunoscut în apropierea de Cahora Bassa.", en: "A well-known mountain near Cahora Bassa." },
     facts: {
       de: ["Nähe Stausee", "Wanderziel", "Hügelige Landschaft", "Aussicht"],
@@ -501,7 +539,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "river",
     parent: "MZ-TE",
     coords: [33.8, -17.0],
-    name: { de: "Lupata-Schlucht", hu: "Lupata-szurdok", ro: "Cheile Lupata", en: "Lupata Gorge" },
+    name: { de: "Lupata-Schlucht", hu: "Lupata-szurdok", ro: "Cheile Lupata", en: "Lupata Gorge",
+image: "/poi-images/lupata-gorge-nature-v2.webp"
+},
     description: { de: "Eine spektakuläre Schlucht des Sambesi-Flusses.", hu: "A Zambézi folyó látványos szurdoka.", ro: "Un defileu spectaculos al fluviului Zambezi.", en: "A spectacular gorge of the Zambezi River." },
     facts: {
       de: ["Sambesi-Schlucht", "Naturschönheit", "Engstelle", "Beeindruckend"],
@@ -527,7 +567,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "forest",
     parent: "MZ-MA",
     coords: [34.0, -18.0],
-    name: { de: "Macossa-Wald", hu: "Macossa-erdő", ro: "Pădurea Macossa", en: "Macossa Forest" },
+    name: { de: "Macossa-Wald", hu: "Macossa-erdő", ro: "Pădurea Macossa", en: "Macossa Forest",
+image: "/poi-images/macossa-forest-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Wald im Zentrum von Mosambik.", hu: "Jelentős erdő Mozambik központjában.", ro: "O pădure importantă în centrul Mozambicului.", en: "An important forest in the center of Mozambique." },
     facts: {
       de: ["Zentrum Mosambiks", "Dichte Vegetation", "Flora", "Schutz"],
@@ -553,7 +595,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-GA",
     coords: [32.1, -23.9],
-    name: { de: "Massingir-See", hu: "Massingir-tó", ro: "Lacul Massingir", en: "Massingir Lake" },
+    name: { de: "Massingir-See", hu: "Massingir-tó", ro: "Lacul Massingir", en: "Massingir Lake",
+image: "/poi-images/massingir-lake-nature-v2.webp"
+},
     description: { de: "Ein großer Stausee in der Provinz Gaza.", hu: "Nagy víztározó Gaza tartományban.", ro: "Un mare lac de acumulare în provincia Gaza.", en: "A large reservoir in Gaza province." },
     facts: {
       de: ["Gaza-Provinz", "Wasserspeicher", "Fischerei", "Naherholungsgebiet"],
@@ -579,7 +623,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "mountain",
     parent: "MZ-MP",
     coords: [32.2, -25.5],
-    name: { de: "Mount Moamba", hu: "Moamba-hegy", ro: "Muntele Moamba", en: "Mount Moamba" },
+    name: { de: "Mount Moamba", hu: "Moamba-hegy", ro: "Muntele Moamba", en: "Mount Moamba",
+image: "/poi-images/moamba-mountain-nature-v2.webp"
+},
     description: { de: "Ein markanter Berg nahe Maputo.", hu: "Jellegzetes hegy Maputo közelében.", ro: "Un munte marcant aproape de Maputo.", en: "A prominent mountain near Maputo." },
     facts: {
       de: ["Nahe Maputo", "Aussichtspunkt", "Wanderungen", "Hügelig"],
@@ -605,7 +651,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-SO",
     coords: [34.5, -19.5],
-    name: { de: "Savane-See", hu: "Savane-tó", ro: "Lacul Savane", en: "Savane Lake" },
+    name: { de: "Savane-See", hu: "Savane-tó", ro: "Lacul Savane", en: "Savane Lake",
+image: "/poi-images/savane-lake-nature-v2.webp"
+},
     description: { de: "Ein ruhiges Gewässer im Küstenbereich von Sofala.", hu: "Csendes vízfelület Sofala partvidékén.", ro: "O întindere de apă liniștită în zona de coastă a Sofalei.", en: "A quiet body of water in the coastal area of Sofala." },
     facts: {
       de: ["Sofala-Küste", "Ruhe", "Vogelwelt", "Lagunen"],
@@ -631,7 +679,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "river",
     parent: "MZ-ZA",
     coords: [36.5, -18.5],
-    name: { de: "Chinde", hu: "Chinde", ro: "Chinde", en: "Chinde River" },
+    name: { de: "Chinde", hu: "Chinde", ro: "Chinde", en: "Chinde River",
+image: "/poi-images/chinde-river-nature-v2.webp"
+},
     description: { de: "Ein Mündungsarm des Sambesi-Flusses.", hu: "A Zambézi folyó torkolati ága.", ro: "Un braț al deltei fluviului Zambezi.", en: "A distributary of the Zambezi River." },
     facts: {
       de: ["Sambesi-Delta", "Mündungsgebiet", "Wasserreich", "Ökologisch"],
@@ -657,7 +707,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "forest",
     parent: "MZ-TE",
     coords: [33.8, -17.1],
-    name: { de: "Lupata-Wald", hu: "Lupata-erdő", ro: "Pădurea Lupata", en: "Lupata Forest" },
+    name: { de: "Lupata-Wald", hu: "Lupata-erdő", ro: "Pădurea Lupata", en: "Lupata Forest",
+image: "/poi-images/lupata-forest-nature-v2.webp"
+},
     description: { de: "Ein Waldgebiet nahe der Lupata-Schlucht.", hu: "Erdőterület a Lupata-szurdok közelében.", ro: "O zonă forestieră lângă defileul Lupata.", en: "A forest area near the Lupata Gorge." },
     facts: {
       de: ["Nähe Sambesi", "Dichte Vegetation", "Schutzwald", "Biodiversität"],
@@ -683,7 +735,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "lake",
     parent: "MZ-TE",
     coords: [31.5, -15.5],
-    name: { de: "Magoe-See", hu: "Magoe-tó", ro: "Lacul Magoe", en: "Magoe Lake" },
+    name: { de: "Magoe-See", hu: "Magoe-tó", ro: "Lacul Magoe", en: "Magoe Lake",
+image: "/poi-images/magoe-lake-nature-v2.webp"
+},
     description: { de: "Ein kleineres Gewässer in der Provinz Tete.", hu: "Kisebb vízfelület Tete tartományban.", ro: "O întindere de apă mai mică în provincia Tete.", en: "A smaller body of water in the Tete province." },
     facts: {
       de: ["Provinz Tete", "Fischerei", "Ländlich", "Natur"],
@@ -709,7 +763,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "forest",
     parent: "MZ-ZA",
     coords: [37.8, -16.0],
-    name: { de: "Gilé-Wald", hu: "Gilé-erdő", ro: "Pădurea Gilé", en: "Gilé Forest" },
+    name: { de: "Gilé-Wald", hu: "Gilé-erdő", ro: "Pădurea Gilé", en: "Gilé Forest",
+image: "/poi-images/gile-forest-nature-v2.webp"
+},
     description: { de: "Ein Teil des Gilé-Nationalreservats.", hu: "A Gilé Nemzeti Rezervátum része.", ro: "O parte a rezervației naționale Gilé.", en: "A part of the Gilé National Reserve." },
     facts: {
       de: ["Nationalreservat", "Waldschutz", "Wildtiere", "Ökosystem"],
@@ -735,7 +791,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "sea",
     parent: "MZ-IN",
     coords: [35.6, -22.0],
-    name: { de: "Gorgon-Meeresgebiet", hu: "Gorgon-tengeri terület", ro: "Zona marină Gorgon", en: "Gorgon Marine Area" },
+    name: { de: "Gorgon-Meeresgebiet", hu: "Gorgon-tengeri terület", ro: "Zona marină Gorgon", en: "Gorgon Marine Area",
+image: "/poi-images/gorgon-sea-nature-v2.webp"
+},
     description: { de: "Ein geschützter Meeresbereich vor der Küste.", hu: "Védett tengeri terület a partok közelében.", ro: "O zonă marină protejată în largul coastei.", en: "A protected marine area off the coast." },
     facts: {
       de: ["Geschütztes Meer", "Korallen", "Marine Fauna", "Tauchen"],
@@ -761,7 +819,9 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     type: "mountain",
     parent: "MZ-NA",
     coords: [38.5, -14.5],
-    name: { de: "Mount Chiu", hu: "Chiu-hegy", ro: "Muntele Chiu", en: "Mount Chiu" },
+    name: { de: "Mount Chiu", hu: "Chiu-hegy", ro: "Muntele Chiu", en: "Mount Chiu",
+image: "/poi-images/chiu-mountain-nature-v2.webp"
+},
     description: { de: "Ein kleinerer Berg in der Nampula-Region.", hu: "Kisebb hegy a Nampula régióban.", ro: "Un munte mai mic în regiunea Nampula.", en: "A smaller mountain in the Nampula region." },
     facts: {
       de: ["Nampula", "Hügel", "Wandern", "Aussicht"],

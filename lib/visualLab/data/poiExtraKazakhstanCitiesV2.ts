@@ -6,7 +6,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "KZ-71",
     coords: [71.4304, 51.1282],
-    name: { de: "Astana", hu: "Asztana", ro: "Astana", en: "Astana" },
+    name: { de: "Astana", hu: "Asztana", ro: "Astana", en: "Astana",
+image: "/poi-images/astana-cities-v2.webp"
+},
     description: {
       de: "Die windige Hauptstadt besticht durch kühne, futuristische Architektur, die sich direkt aus der weiten asiatischen Steppe erhebt.",
       hu: "A szeles főváros merész, futurisztikus építészetével hívja fel magára a figyelmet, amely egyenesen az ázsiai sztyeppéből nőtt ki.",
@@ -24,7 +26,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-75",
     coords: [76.8512, 43.2220],
-    name: { de: "Almaty", hu: "Almati", ro: "Almatî", en: "Almaty" },
+    name: { de: "Almaty", hu: "Almati", ro: "Almatî", en: "Almaty",
+image: "/poi-images/almaty-cities-v2.webp"
+},
     description: {
       de: "Eingebettet am Fuße der schneebedeckten Transili-Alatau-Berge ist diese grüne Metropole das kulturelle Herz Kasachstans.",
       hu: "A hófedte Transzili-Alatau lábánál fekvő zöld metropolisz Kazahsztán kulturális szíve.",
@@ -42,7 +46,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-79",
     coords: [69.5983, 42.3155],
-    name: { de: "Schymkent", hu: "Simkent", ro: "Shymkent", en: "Shymkent" },
+    name: { de: "Schymkent", hu: "Simkent", ro: "Shymkent", en: "Shymkent",
+image: "/poi-images/shymkent-cities-v2.webp"
+},
     description: {
       de: "Als pulsierendes Handelszentrum im sonnigen Süden verbindet die Stadt eine lange Seidenstraßen-Historie mit modernem Wachstum.",
       hu: "A napfényes dél lüktető kereskedelmi központjaként a város a selyemút hosszú történelmét ötvözi a modern fejlődéssel.",
@@ -60,7 +66,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-35",
     coords: [73.1111, 49.8018],
-    name: { de: "Qaraghandy", hu: "Karaganda", ro: "Karaganda", en: "Karaganda" },
+    name: { de: "Qaraghandy", hu: "Karaganda", ro: "Karaganda", en: "Karaganda",
+image: "/poi-images/karaganda-cities-v2.webp"
+},
     description: {
       de: "Entstanden aus dem industriellen Kohlebergbau, prägen noch heute monumentale sowjetische Architektur und weite Alleen das Stadtbild.",
       hu: "Az ipari szénbányászatból született várost ma is monumentális szovjet építészet és széles sugárutak jellemzik.",
@@ -78,7 +86,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-15",
     coords: [57.1669, 50.2839],
-    name: { de: "Aqtöbe", hu: "Aktöbe", ro: "Aktobe", en: "Aktobe" },
+    name: { de: "Aqtöbe", hu: "Aktöbe", ro: "Aktobe", en: "Aktobe",
+image: "/poi-images/aktobe-cities-v2.webp"
+},
     description: {
       de: "Als Tor zum Westen Kasachstans wächst diese Industriestadt rasant an den Ufern des Flusses Ilek.",
       hu: "Nyugat-Kazahsztán kapujaként ez az iparváros gyorsan növekszik az Ilek folyó partján.",
@@ -96,7 +106,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-31",
     coords: [71.3667, 42.9000],
-    name: { de: "Tarasan", hu: "Taraz", ro: "Taraz", en: "Taraz" },
+    name: { de: "Tarasan", hu: "Taraz", ro: "Taraz", en: "Taraz",
+image: "/poi-images/taraz-cities-v2.webp"
+},
     description: {
       de: "Mit über 2000 Jahren Geschichte atmet diese antike Oase noch immer den Geist wandernder Karawanen.",
       hu: "Több mint 2000 éves történelmével ez az ősi oázis még mindig a vándorló karavánok szellemét idézi.",
@@ -114,7 +126,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-55",
     coords: [76.9565, 52.3000],
-    name: { de: "Pawlodar", hu: "Pavlodar", ro: "Pavlodar", en: "Pavlodar" },
+    name: { de: "Pawlodar", hu: "Pavlodar", ro: "Pavlodar", en: "Pavlodar",
+image: "/poi-images/pavlodar-cities-v2.webp"
+},
     description: {
       de: "Am Ufer des mächtigen Irtysch gelegen, ist die Stadt ein industrielles Schwergewicht mit einer belebten Uferpromenade.",
       hu: "A hatalmas Irtis folyó partján fekvő város egy ipari nehézsúlyú település, nyüzsgő folyóparti sétánnyal.",
@@ -132,7 +146,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-63",
     coords: [82.6250, 49.9458],
-    name: { de: "Öskemen", hu: "Öszkemen", ro: "Oskemen", en: "Oskemen" },
+    name: { de: "Öskemen", hu: "Öszkemen", ro: "Oskemen", en: "Oskemen",
+image: "/poi-images/oskemen-cities-v2.webp"
+},
     description: {
       de: "Eingeschlossen im wilden Altai-Gebirge, lebt die Stadt von Metallurgie und der wilden Natur des Ostens.",
       hu: "A vad Altaj-hegységbe zárva, a város a kohászatból és a kelet vad természetéből él.",
@@ -150,7 +166,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-10",
     coords: [80.2275, 50.4111],
-    name: { de: "Semei", hu: "Szemey", ro: "Semei", en: "Semey" },
+    name: { de: "Semei", hu: "Szemey", ro: "Semei", en: "Semey",
+image: "/poi-images/semey-cities-v2.webp"
+},
     description: {
       de: "Trotz ihrer tragischen Geschichte durch sowjetische Atomtests ist die Stadt ein wichtiges kulturelles Zentrum an den Ufern des Irtysch.",
       hu: "A szovjet atomtesztek miatti tragikus történelme ellenére a város fontos kulturális központ az Irtis partján.",
@@ -168,7 +186,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-23",
     coords: [51.9238, 47.0945],
-    name: { de: "Atyrau", hu: "Atirau", ro: "Atyrau", en: "Atyrau" },
+    name: { de: "Atyrau", hu: "Atirau", ro: "Atyrau", en: "Atyrau",
+image: "/poi-images/atyrau-cities-v2.webp"
+},
     description: {
       de: "Zweitausend Kilometer von der Hauptstadt entfernt, teilt der Fluss Ural diese reiche Ölstadt offiziell in einen europäischen und einen asiatischen Teil.",
       hu: "A fővárostól kétezer kilométerre az Ural folyó ezt a gazdag olajvárost hivatalosan is egy európai és egy ázsiai részre osztja.",
@@ -186,7 +206,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-39",
     coords: [63.6246, 53.2144],
-    name: { de: "Qostanai", hu: "Kosztanaj", ro: "Kostanay", en: "Kostanay" },
+    name: { de: "Qostanai", hu: "Kosztanaj", ro: "Kostanay", en: "Kostanay",
+image: "/poi-images/kostanay-cities-v2.webp"
+},
     description: {
       de: "Umgeben von endlosen Weizenfeldern, ist die Stadt die landwirtschaftliche Kornkammer des Nordens und bewahrt viel ihrer alten Architektur.",
       hu: "A végtelen búzamezőkkel körülvett város észak mezőgazdasági magtára, és sokat megőrzött régi építészetéből.",
@@ -204,7 +226,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-43",
     coords: [65.5092, 44.8486],
-    name: { de: "Qysylorda", hu: "Kizilorda", ro: "Kîzîlorda", en: "Kyzylorda" },
+    name: { de: "Qysylorda", hu: "Kizilorda", ro: "Kîzîlorda", en: "Kyzylorda",
+image: "/poi-images/kyzylorda-cities-v2.webp"
+},
     description: {
       de: "Am Ufer des Flusses Syrdarja gelegen, ist es ein Zentrum des Reisanbaus und ein wichtiges Tor zum Raumfahrtzentrum Baikonur.",
       hu: "A Szir-darja folyó partján fekszik, a rizstermesztés központja és a bajkonuri űrközpont egyik fontos kapuja.",
@@ -222,7 +246,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-27",
     coords: [51.3619, 51.2333],
-    name: { de: "Oral", hu: "Oral", ro: "Oral", en: "Oral" },
+    name: { de: "Oral", hu: "Oral", ro: "Oral", en: "Oral",
+image: "/poi-images/oral-cities-v2.webp"
+},
     description: {
       de: "Als historische Hochburg der Kosaken spiegelt die Architektur der Stadt einen starken russischen Einfluss aus dem 18. Jahrhundert wider.",
       hu: "A kozákok történelmi fellegváraként a város építészete erős 18. századi orosz hatást tükröz.",
@@ -240,7 +266,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-59",
     coords: [69.1291, 54.8754],
-    name: { de: "Petropawl", hu: "Petropavl", ro: "Petropavl", en: "Petropavl" },
+    name: { de: "Petropawl", hu: "Petropavl", ro: "Petropavl", en: "Petropavl",
+image: "/poi-images/petropavl-cities-v2.webp"
+},
     description: {
       de: "Mit harten Wintern und starken historischen Bindungen an die Transsibirische Eisenbahn sichert diese nördliche Festungsstadt die Region.",
       hu: "Kemény telekkel és a transzszibériai vasúthoz fűződő erős történelmi szálakkal ez az északi erődváros biztosítja a régiót.",
@@ -258,7 +286,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-47",
     coords: [51.1600, 43.6500],
-    name: { de: "Aqtau", hu: "Aktau", ro: "Aktau", en: "Aktau" },
+    name: { de: "Aqtau", hu: "Aktau", ro: "Aktau", en: "Aktau",
+image: "/poi-images/aktau-cities-v2.webp"
+},
     description: {
       de: "Inmitten einer unwirtlichen Wüste gebaut, blickt diese junge Stadt direkt auf die endlosen Gewässer des Kaspischen Meeres.",
       hu: "A kietlen sivatag közepén épült fiatal város egyenesen a Kaszpi-tenger végtelen vizeire néz.",
@@ -276,7 +306,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-35",
     coords: [72.9667, 50.0667],
-    name: { de: "Temirtau", hu: "Temirtau", ro: "Temirtau", en: "Temirtau" },
+    name: { de: "Temirtau", hu: "Temirtau", ro: "Temirtau", en: "Temirtau",
+image: "/poi-images/temirtau-cities-v2.webp"
+},
     description: {
       de: "Riesige Stahlwerke dominieren die Skyline dieser Stadt, in der das Echo sowjetischer Industrialisierung in jedem Gebäude widerhallt.",
       hu: "Hatalmas acélművek uralják e város egét, ahol a szovjet iparosítás visszhangja minden épületben tetten érhető.",
@@ -294,7 +326,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-61",
     coords: [68.2707, 43.2973],
-    name: { de: "Turkestan", hu: "Turkesztán", ro: "Turkistan", en: "Turkistan" },
+    name: { de: "Turkestan", hu: "Turkesztán", ro: "Turkistan", en: "Turkistan",
+image: "/poi-images/turkistan-cities-v2.webp"
+},
     description: {
       de: "Als spirituelles Zentrum mit prachtvollen Mausoleen atmet diese heilige Stadt die islamische Mystik der alten Sufi-Meister.",
       hu: "Pompás mauzóleumokkal teli spirituális központként ez a szent város az ősi szufi mesterek iszlám misztikáját lélegzi.",
@@ -312,7 +346,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-11",
     coords: [69.3833, 53.2833],
-    name: { de: "Kökschetau", hu: "Koksetau", ro: "Kokshetau", en: "Kokshetau" },
+    name: { de: "Kökschetau", hu: "Koksetau", ro: "Kokshetau", en: "Kokshetau",
+image: "/poi-images/kokshetau-cities-v2.webp"
+},
     description: {
       de: "Umgeben von malerischen Seen und bewaldeten Hügeln, gilt dieser ruhige Ort oft als die grüne Lunge Nordkasachstans.",
       hu: "A festői tavakkal és erdős dombokkal körülvett csendes települést gyakran Észak-Kazahsztán zöld tüdejének tartják.",
@@ -330,7 +366,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-33",
     coords: [78.3667, 45.0167],
-    name: { de: "Taldyqorghan", hu: "Taldikorgan", ro: "Taldîkorgan", en: "Taldykorgan" },
+    name: { de: "Taldyqorghan", hu: "Taldikorgan", ro: "Taldîkorgan", en: "Taldykorgan",
+image: "/poi-images/taldykorgan-cities-v2.webp"
+},
     description: {
       de: "Im fruchtbaren Tal des Flusses Qaratal wächst diese Stadt an der Schnittstelle zwischen Bergen und endloser Steppe.",
       hu: "A Karatal folyó termékeny völgyében ez a város a hegyek és a végtelen sztyeppe határán fekszik.",
@@ -348,7 +386,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-55",
     coords: [75.3266, 51.7289],
-    name: { de: "Ekibastus", hu: "Ekibasztuz", ro: "Ekibastuz", en: "Ekibastuz" },
+    name: { de: "Ekibastus", hu: "Ekibasztuz", ro: "Ekibastuz", en: "Ekibastuz",
+image: "/poi-images/ekibastuz-cities-v2.webp"
+},
     description: {
       de: "Bekannt für den gigantischen Tagebau, versorgen die monströsen Kohlekraftwerke dieser Stadt weite Teile des Landes mit Strom.",
       hu: "A gigantikus külszíni fejtésről ismert város szénköbművei az ország nagy részét ellátják árammal.",
@@ -366,7 +406,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-39",
     coords: [63.0232, 52.9625],
-    name: { de: "Rudny", hu: "Rudnij", ro: "Rudnîi", en: "Rudny" },
+    name: { de: "Rudny", hu: "Rudnij", ro: "Rudnîi", en: "Rudny",
+image: "/poi-images/rudny-cities-v2.webp"
+},
     description: {
       de: "Als klassische Monostadt um gigantische Eisenerzminen gebaut, zieht dieser Ort stetig Bergarbeiter in die weiten Ebenen.",
       hu: "A gigantikus vasércbányák köré épült klasszikus monováros folyamatosan vonzza a bányászokat a végtelen síkságra.",
@@ -384,7 +426,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-47",
     coords: [52.8000, 43.3000],
-    name: { de: "Schangaözen", hu: "Zsanözen", ro: "Janaozen", en: "Zhanaozen" },
+    name: { de: "Schangaözen", hu: "Zsanözen", ro: "Janaozen", en: "Zhanaozen",
+image: "/poi-images/zhanaozen-cities-v2.webp"
+},
     description: {
       de: "Mitten in der harschen Mangischlak-Halbinsel pulsiert hier die Gas- und Ölförderung, welche die Region wirtschaftlich antreibt.",
       hu: "A zord Mangislak-félsziget közepén itt lüktet a gáz- és olajkitermelés, amely gazdaságilag hajtja a régiót.",
@@ -403,7 +447,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-62",
     coords: [67.7144, 47.7833],
-    name: { de: "Schesqasghan", hu: "Zsezkazgan", ro: "Jezkazgan", en: "Jezkazgan" },
+    name: { de: "Schesqasghan", hu: "Zsezkazgan", ro: "Jezkazgan", en: "Jezkazgan",
+image: "/poi-images/jezkazgan-cities-v2.webp"
+},
     description: {
       de: "Tief im Herzen der kasachischen Steppe verwaltet diese Bergbaustadt reiche Kupfervorkommen unter der endlosen Sonne.",
       hu: "Mélyen a kazah sztyeppe szívében ez a bányászváros gazdag rézlelőhelyeket kezel a végtelen napfény alatt.",
@@ -421,7 +467,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-35",
     coords: [74.9833, 46.8333],
-    name: { de: "Balchasch", hu: "Balkas", ro: "Balhaș", en: "Balkhash" },
+    name: { de: "Balchasch", hu: "Balkas", ro: "Balhaș", en: "Balkhash",
+image: "/poi-images/balkhash-cities-v2.webp"
+},
     description: {
       de: "Eingeklemmt zwischen einer kargen Wüste und einem der größten Seen Asiens, lebt die Stadt von der Fischerei und den riesigen Kupferhütten.",
       hu: "A kietlen sivatag és Ázsia egyik legnagyobb tava közé szorult város a halászatból és a hatalmas rézkohókból él.",
@@ -439,7 +487,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-62",
     coords: [67.5333, 47.9000],
-    name: { de: "Sätbajew", hu: "Szatpajev", ro: "Satpaev", en: "Satpayev" },
+    name: { de: "Sätbajew", hu: "Szatpajev", ro: "Satpaev", en: "Satpayev",
+image: "/poi-images/satpayev-cities-v2.webp"
+},
     description: {
       de: "Benannt nach einem berühmten Geologen, treibt hier der Abbau seltener Metalle die unaufhörliche Expansion der Mienen voran.",
       hu: "Egy híres geológusról nevezték el, ahol a ritkafémek bányászata hajtja a bányák folyamatos bővülését.",
@@ -457,7 +507,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-19",
     coords: [76.6214, 43.2000],
-    name: { de: "Qaskelen", hu: "Kaszkölen", ro: "Kaskelen", en: "Kaskelen" },
+    name: { de: "Qaskelen", hu: "Kaszkölen", ro: "Kaskelen", en: "Kaskelen",
+image: "/poi-images/kaskelen-cities-v2.webp"
+},
     description: {
       de: "Als rasch wachsende Satellitenstadt von Almaty profitiert dieser Vorort vom milden Klima und den nahen Apfelplantagen.",
       hu: "Almati gyorsan növekvő szatellitvárosaként ez az előváros az enyhe éghajlatból és a közeli almaültetvényekből profitál.",
@@ -475,7 +527,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-63",
     coords: [83.5114, 50.3547],
-    name: { de: "Ridder", hu: "Ridder", ro: "Ridder", en: "Ridder" },
+    name: { de: "Ridder", hu: "Ridder", ro: "Ridder", en: "Ridder",
+image: "/poi-images/ridder-cities-v2.webp"
+},
     description: {
       de: "Verborgen in den dichten Wäldern des Altaigebirges, war dieser Ort einst eines der abgelegensten Minenlager des russischen Reiches.",
       hu: "Az Altaj-hegység sűrű erdeiben megbújva ez a hely egykor az Orosz Birodalom egyik legelszigeteltebb bányásztábora volt.",
@@ -493,7 +547,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-11",
     coords: [71.8833, 52.3500],
-    name: { de: "Stepnogorsk", hu: "Sztyepnogorszk", ro: "Stepnogorsk", en: "Stepnogorsk" },
+    name: { de: "Stepnogorsk", hu: "Sztyepnogorszk", ro: "Stepnogorsk", en: "Stepnogorsk",
+image: "/poi-images/stepnogorsk-cities-v2.webp"
+},
     description: {
       de: "Einst eine geheime, geschlossene Stadt der Sowjetunion, versucht sich der Ort heute in einer offenen Marktwirtschaft neu zu erfinden.",
       hu: "A Szovjetunió egykori titkos, zárt városa, ma a település a nyitott piacgazdaságban próbálja újra feltalálni magát.",
@@ -511,7 +567,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-55",
     coords: [76.9333, 52.0333],
-    name: { de: "Aqsu", hu: "Akszu", ro: "Aksu", en: "Aksu" },
+    name: { de: "Aqsu", hu: "Akszu", ro: "Aksu", en: "Aksu",
+image: "/poi-images/aksu-cities-v2.webp"
+},
     description: {
       de: "Mit gewaltigen rauchenden Schornsteinen ist die Stadt stolz auf eine der weltweit größten Anlagen zur Herstellung von Ferrolegierungen.",
       hu: "A hatalmas füstölgő kéményekkel rendelkező város büszke arra, hogy itt található a világ egyik legnagyobb ötvözetgyártó üzeme.",
@@ -529,7 +587,9 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     type: "city",
     parent: "KZ-19",
     coords: [77.0667, 43.8833],
-    name: { de: "Qonajew", hu: "Konajev", ro: "Konaev", en: "Konayev" },
+    name: { de: "Qonajew", hu: "Konajev", ro: "Konaev", en: "Konayev",
+image: "/poi-images/konayev-cities-v2.webp"
+},
     description: {
       de: "Als Glitzermetropole für Glücksspieler und Urlauber wächst die Stadt an den Sandstränden des künstlichen Kaptschagaj-Stausees.",
       hu: "A szerencsejátékosok és a nyaralók csillogó metropoliszaként a város a mesterséges Kapcsagaj-víztározó homokos partjainál növekszik.",

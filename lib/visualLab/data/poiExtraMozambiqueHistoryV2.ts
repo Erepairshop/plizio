@@ -7,7 +7,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5714, -25.9753],
-    name: { de: "Festung Maputo", hu: "Maputo Erőd", ro: "Fortăreața Maputo", en: "Maputo Fortress" },
+    name: { de: "Festung Maputo", hu: "Maputo Erőd", ro: "Fortăreața Maputo", en: "Maputo Fortress",
+image: "/poi-images/mz-maputo-fortress-history-v2.webp"
+},
     description: { de: "Eine historische portugiesische Festung im Zentrum der Hauptstadt.", hu: "Egy történelmi portugál erőd a főváros központjában.", ro: "O fortăreață istorică portugheză în centrul capitalei.", en: "A historic Portuguese fortress in the center of the capital." },
     facts: {
       de: ["Erbaut im 19. Jahrhundert.", "Beherbergt heute ein Militärmuseum."],
@@ -33,7 +35,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5765, -25.9701],
-    name: { de: "Eisernes Haus (Casa de Ferro)", hu: "Vasház (Casa de Ferro)", ro: "Casa de Fier (Casa de Ferro)", en: "Iron House (Casa de Ferro)" },
+    name: { de: "Eisernes Haus (Casa de Ferro)", hu: "Vasház (Casa de Ferro)", ro: "Casa de Fier (Casa de Ferro)", en: "Iron House (Casa de Ferro)",
+image: "/poi-images/mz-casa-de-ferro-history-v2.webp"
+},
     description: { de: "Ein komplett aus Eisen erbautes Gebäude aus dem späten 19. Jahrhundert.", hu: "Egy teljesen vasból épült épület a 19. század végéről.", ro: "O clădire construită în întregime din fier la sfârșitul secolului al XIX-lea.", en: "A building constructed entirely of iron from the late 19th century." },
     facts: {
       de: ["Entworfen von einem Schüler von Gustave Eiffel.", "War als Residenz für den Gouverneur gedacht."],
@@ -59,7 +63,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5645, -25.9712],
-    name: { de: "Bahnhof Maputo", hu: "Maputo Vasútállomás", ro: "Gara Maputo", en: "Maputo Railway Station" },
+    name: { de: "Bahnhof Maputo", hu: "Maputo Vasútállomás", ro: "Gara Maputo", en: "Maputo Railway Station",
+image: "/poi-images/mz-maputo-railway-station-history-v2.webp"
+},
     description: { de: "Ein prächtiger historischer Bahnhof, der oft zu den schönsten der Welt gezählt wird.", hu: "Egy pompás történelmi vasútállomás, amelyet gyakran a világ legszebbjének tartanak.", ro: "O gară istorică magnifică, considerată adesea una dintre cele mai frumoase din lume.", en: "A magnificent historic railway station, often considered one of the most beautiful in the world." },
     facts: {
       de: ["Erbaut zwischen 1908 und 1916.", "Verfügt über eine auffällige Kupferkuppel."],
@@ -85,7 +91,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [40.7326, -15.0298],
-    name: { de: "Fort São Sebastião", hu: "São Sebastião Erőd", ro: "Fortul São Sebastião", en: "Fort of São Sebastião" },
+    name: { de: "Fort São Sebastião", hu: "São Sebastião Erőd", ro: "Fortul São Sebastião", en: "Fort of São Sebastião",
+image: "/poi-images/mz-fort-sao-sebastiao-history-v2.webp"
+},
     description: { de: "Die älteste vollständige Festung im subsaharischen Afrika auf der Insel Mosambik.", hu: "A Szaharától délre fekvő Afrika legrégebbi, épen maradt erődje a Mozambik-szigeten.", ro: "Cea mai veche fortăreață completă din Africa Subsahariană, pe Insula Mozambic.", en: "The oldest complete fort in sub-Saharan Africa, on the Island of Mozambique." },
     facts: {
       de: ["Fertiggestellt im Jahr 1608.", "Teil des UNESCO-Weltkulturerbes."],
@@ -111,7 +119,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [40.7351, -15.0274],
-    name: { de: "Kapelle Nossa Senhora de Baluarte", hu: "Nossa Senhora de Baluarte-kápolna", ro: "Capela Nossa Senhora de Baluarte", en: "Chapel of Nossa Senhora de Baluarte" },
+    name: { de: "Kapelle Nossa Senhora de Baluarte", hu: "Nossa Senhora de Baluarte-kápolna", ro: "Capela Nossa Senhora de Baluarte", en: "Chapel of Nossa Senhora de Baluarte",
+image: "/poi-images/mz-chapel-nossa-senhora-de-baluarte-history-v2.webp"
+},
     description: { de: "Gilt als das älteste europäische Gebäude auf der südlichen Hemisphäre.", hu: "A déli félteke legrégebbi európai épületének tartják.", ro: "Considerată cea mai veche clădire europeană din emisfera sudică.", en: "Considered the oldest European building in the Southern Hemisphere." },
     facts: {
       de: ["Erbaut im Jahr 1522.", "Befindet sich am Rande des Forts São Sebastião."],
@@ -137,7 +147,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [40.7335, -15.0345],
-    name: { de: "Palast São Paulo", hu: "São Paulo-palota", ro: "Palatul São Paulo", en: "Palace of São Paulo" },
+    name: { de: "Palast São Paulo", hu: "São Paulo-palota", ro: "Palatul São Paulo", en: "Palace of São Paulo",
+image: "/poi-images/mz-palacio-de-sao-paulo-history-v2.webp"
+},
     description: { de: "Die ehemalige Residenz der Gouverneure von Mosambik auf der Insel Mosambik.", hu: "Mozambik kormányzóinak egykori rezidenciája a Mozambik-szigeten.", ro: "Fosta reședință a guvernatorilor Mozambicului pe Insula Mozambic.", en: "The former residence of the governors of Mozambique on the Island of Mozambique." },
     facts: {
       de: ["Wurde ursprünglich 1610 als Jesuitenkolleg erbaut.", "Beherbergt heute ein Museum für dekorative Künste."],
@@ -163,7 +175,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-I",
     coords: [34.8211, -22.1866],
-    name: { de: "Ruinen von Manyikeni", hu: "Manyikeni Romjai", ro: "Ruinele din Manyikeni", en: "Manyikeni Ruins" },
+    name: { de: "Ruinen von Manyikeni", hu: "Manyikeni Romjai", ro: "Ruinele din Manyikeni", en: "Manyikeni Ruins",
+image: "/poi-images/mz-manyikeni-ruins-history-v2.webp"
+},
     description: { de: "Eine archäologische Stätte, die mit der Great-Zimbabwe-Tradition verbunden ist.", hu: "Egy régészeti lelőhely, amely a Nagy Zimbabwe-hagyományhoz kapcsolódik.", ro: "Un sit arheologic asociat cu tradiția Marelui Zimbabwe.", en: "An archaeological site associated with the Great Zimbabwe tradition." },
     facts: {
       de: ["War zwischen 1200 und 1700 besiedelt.", "Zeigt die einzige steinerne Einfriedungstradition in Mosambik."],
@@ -189,7 +203,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-I",
     coords: [35.3188, -22.0294],
-    name: { de: "Chibuene", hu: "Chibuene", ro: "Chibuene", en: "Chibuene" },
+    name: { de: "Chibuene", hu: "Chibuene", ro: "Chibuene", en: "Chibuene",
+image: "/poi-images/mz-chibuene-history-v2.webp"
+},
     description: { de: "Eine antike islamische Handelsstation an der Küste Mosambiks.", hu: "Egy ősi iszlám kereskedelmi állomás Mozambik partjainál.", ro: "O veche stație comercială islamică pe coasta Mozambicului.", en: "An ancient Islamic trading station on the coast of Mozambique." },
     facts: {
       de: ["Beweise für Handel mit dem Indischen Ozean aus dem 7. Jahrhundert.", "Wichtiger Ort für afrikanische Handelsrouten."],
@@ -215,7 +231,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MN",
     coords: [32.9667, -19.0833],
-    name: { de: "Felszeichnungen von Vumba", hu: "Vumba Sziklarajzok", ro: "Picturile Rupestre din Vumba", en: "Vumba Rock Paintings" },
+    name: { de: "Felszeichnungen von Vumba", hu: "Vumba Sziklarajzok", ro: "Picturile Rupestre din Vumba", en: "Vumba Rock Paintings",
+image: "/poi-images/mz-vumba-rock-paintings-history-v2.webp"
+},
     description: { de: "Uralte Felsmalereien in der Manica-Provinz an der Grenze zu Simbabwe.", hu: "Ősi sziklafestmények a Manica tartományban, Zimbabwe határán.", ro: "Picturi rupestre antice în provincia Manica, la granița cu Zimbabwe.", en: "Ancient rock paintings in the Manica Province on the border with Zimbabwe." },
     facts: {
       de: ["Zeigen Jagdszenen und Tiere.", "Tausende von Jahren alt."],
@@ -241,7 +259,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MN",
     coords: [33.1558, -18.9953],
-    name: { de: "Felskunst von Chinhamapere", hu: "Chinhamapere Sziklaművészet", ro: "Arta Rupestră din Chinhamapere", en: "Chinhamapere Rock Art" },
+    name: { de: "Felskunst von Chinhamapere", hu: "Chinhamapere Sziklaművészet", ro: "Arta Rupestră din Chinhamapere", en: "Chinhamapere Rock Art",
+image: "/poi-images/mz-chinhamapere-rock-art-history-v2.webp"
+},
     description: { de: "Heilige Stätte für die lokale Bevölkerung mit gut erhaltenen Felsmalereien.", hu: "Szent hely a helyi lakosság számára, jól megőrzött sziklafestményekkel.", ro: "Loc sacru pentru populația locală, cu picturi rupestre bine conservate.", en: "Sacred site for the local population with well-preserved rock paintings." },
     facts: {
       de: ["Befindet sich im Vumba-Gebirge.", "Wird heute noch für Rituale genutzt."],
@@ -267,7 +287,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-SO",
     coords: [35.0345, -17.4526],
-    name: { de: "Historische Stadt Sena", hu: "Sena Történelmi Városa", ro: "Orașul Istoric Sena", en: "Historic Town of Sena" },
+    name: { de: "Historische Stadt Sena", hu: "Sena Történelmi Városa", ro: "Orașul Istoric Sena", en: "Historic Town of Sena",
+image: "/poi-images/mz-sena-historic-town-history-v2.webp"
+},
     description: { de: "Eine der ältesten Siedlungen am Sambesi und ein wichtiges portugiesisches Handelszentrum.", hu: "A Zambézi egyik legrégebbi települése és fontos portugál kereskedelmi központ.", ro: "Una dintre cele mai vechi așezări de pe Zambezi și un important centru comercial portughez.", en: "One of the oldest settlements on the Zambezi and an important Portuguese trading center." },
     facts: {
       de: ["Wurde 1531 von den Portugiesen erobert.", "Bekannt für den Handel mit Gold und Elfenbein."],
@@ -293,7 +315,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-T",
     coords: [30.4456, -15.6151],
-    name: { de: "Handelsposten Zumbo", hu: "Zumbo Kereskedelmi Állomás", ro: "Postul Comercial Zumbo", en: "Zumbo Trading Post" },
+    name: { de: "Handelsposten Zumbo", hu: "Zumbo Kereskedelmi Állomás", ro: "Postul Comercial Zumbo", en: "Zumbo Trading Post",
+image: "/poi-images/mz-zumbo-trading-post-history-v2.webp"
+},
     description: { de: "Der am weitesten landeinwärts gelegene portugiesische Handelsposten am Sambesi.", hu: "A legbeljebb fekvő portugál kereskedelmi állomás a Zambézi mentén.", ro: "Cel mai îndepărtat post comercial portughez în interior pe Zambezi.", en: "The furthest inland Portuguese trading post on the Zambezi." },
     facts: {
       de: ["Gegründet im frühen 18. Jahrhundert.", "Grenzt an Simbabwe und Sambia."],
@@ -319,7 +343,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-T",
     coords: [33.5855, -16.1558],
-    name: { de: "Samora-Machel-Brücke", hu: "Samora Machel Híd", ro: "Podul Samora Machel", en: "Samora Machel Bridge" },
+    name: { de: "Samora-Machel-Brücke", hu: "Samora Machel Híd", ro: "Podul Samora Machel", en: "Samora Machel Bridge",
+image: "/poi-images/mz-samora-machel-bridge-history-v2.webp"
+},
     description: { de: "Eine historische Hängebrücke über den Sambesi in Tete.", hu: "Történelmi függőhíd a Zambézi felett Tetében.", ro: "Un pod suspendat istoric peste Zambezi în Tete.", en: "A historic suspension bridge over the Zambezi in Tete." },
     facts: {
       de: ["Erbaut in den 1970er Jahren.", "Benannt nach dem ersten Präsidenten Mosambiks."],
@@ -345,7 +371,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-SO",
     coords: [34.7214, -20.1481],
-    name: { de: "Altes Sofala (Nova Sofala)", hu: "Régi Sofala (Nova Sofala)", ro: "Vechiul Sofala (Nova Sofala)", en: "Old Sofala (Nova Sofala)" },
+    name: { de: "Altes Sofala (Nova Sofala)", hu: "Régi Sofala (Nova Sofala)", ro: "Vechiul Sofala (Nova Sofala)", en: "Old Sofala (Nova Sofala)",
+image: "/poi-images/mz-old-sofala-history-v2.webp"
+},
     description: { de: "Die Überreste des antiken Seehandelshafens von Sofala.", hu: "Sofala ősi tengeri kereskedelmi kikötőjének maradványai.", ro: "Rămășițele anticului port comercial maritim din Sofala.", en: "The remains of the ancient maritime trading port of Sofala." },
     facts: {
       de: ["War ein wichtiges Zentrum des Munhumutapa-Reiches.", "Einer der ältesten dokumentierten Häfen in Südafrika."],
@@ -371,7 +399,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5732, -25.9687],
-    name: { de: "Kathedrale von Maputo", hu: "Maputói Katedrális", ro: "Catedrala din Maputo", en: "Maputo Cathedral" },
+    name: { de: "Kathedrale von Maputo", hu: "Maputói Katedrális", ro: "Catedrala din Maputo", en: "Maputo Cathedral",
+image: "/poi-images/mz-maputo-cathedral-history-v2.webp"
+},
     description: { de: "Ein markantes weißes Art-Déco-Gebäude aus der Kolonialzeit.", hu: "Jellegzetes fehér art deco épület a gyarmati időszakból.", ro: "O clădire albă impresionantă în stil Art Deco din perioada colonială.", en: "A striking white Art Deco building from the colonial era." },
     facts: {
       de: ["Erbaut 1944.", "Dem Kreuz förmig nachempfunden."],
@@ -397,7 +427,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5681, -25.9734],
-    name: { de: "Denkmal des Großen Krieges", hu: "A Nagy Háború Emlékműve", ro: "Monumentul Marelui Război", en: "Monument to the Great War" },
+    name: { de: "Denkmal des Großen Krieges", hu: "A Nagy Háború Emlékműve", ro: "Monumentul Marelui Război", en: "Monument to the Great War",
+image: "/poi-images/mz-monument-great-war-history-v2.webp"
+},
     description: { de: "Ein beeindruckendes Monument in Maputo, das an den Ersten Weltkrieg erinnert.", hu: "Lenyűgöző emlékmű Maputóban, amely az első világháborúra emlékeztet.", ro: "Un monument impresionant în Maputo, care comemorează Primul Război Mondial.", en: "An impressive monument in Maputo commemorating the First World War." },
     facts: {
       de: ["Erbaut zur Erinnerung an die gefallenen portugiesischen und afrikanischen Soldaten.", "Liegt vor dem Bahnhof Maputo."],
@@ -423,7 +455,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5852, -25.9667],
-    name: { de: "Vila Algarve", hu: "Vila Algarve", ro: "Vila Algarve", en: "Vila Algarve" },
+    name: { de: "Vila Algarve", hu: "Vila Algarve", ro: "Vila Algarve", en: "Vila Algarve",
+image: "/poi-images/mz-vila-algarve-history-v2.webp"
+},
     description: { de: "Ein historisches Gebäude in Maputo mit einer dunklen Vergangenheit als PIDE-Hauptquartier.", hu: "Történelmi épület Maputóban, sötét múlttal, a PIDE egykori főhadiszállásaként.", ro: "O clădire istorică în Maputo, cu un trecut întunecat ca sediu PIDE.", en: "A historic building in Maputo with a dark past as the PIDE headquarters." },
     facts: {
       de: ["Erbaut im Jahr 1934.", "War das Zentrum der portugiesischen Geheimpolizei."],
@@ -449,7 +483,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5985, -25.9731],
-    name: { de: "Kirche Santo António da Polana", hu: "Polanai Szent Antal Templom", ro: "Biserica Santo António da Polana", en: "Church of Santo António da Polana" },
+    name: { de: "Kirche Santo António da Polana", hu: "Polanai Szent Antal Templom", ro: "Biserica Santo António da Polana", en: "Church of Santo António da Polana",
+image: "/poi-images/mz-polana-church-history-v2.webp"
+},
     description: { de: "Einzigartige Kirche aus der Moderne in Form einer Zitronenpresse.", hu: "Egyedülálló modernista templom citromfacsaró alakban.", ro: "O biserică modernistă unică, în formă de storcător de lămâie.", en: "Unique modernist church in the shape of a lemon squeezer." },
     facts: {
       de: ["Erbaut 1962.", "Ein Meisterwerk der modernen Architektur in Mosambik."],
@@ -475,7 +511,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-I",
     coords: [35.3811, -23.8651],
-    name: { de: "Zentralmoschee Inhambane", hu: "Inhambane Központi Mecset", ro: "Moscheea Centrală din Inhambane", en: "Inhambane Central Mosque" },
+    name: { de: "Zentralmoschee Inhambane", hu: "Inhambane Központi Mecset", ro: "Moscheea Centrală din Inhambane", en: "Inhambane Central Mosque",
+image: "/poi-images/mz-inhambane-mosque-history-v2.webp"
+},
     description: { de: "Eine historische Moschee aus dem Jahr 1840, die die islamische Geschichte der Region zeigt.", hu: "Történelmi mecset 1840-ből, amely a régió iszlám történelmét mutatja be.", ro: "O moschee istorică din 1840, care prezintă istoria islamică a regiunii.", en: "A historic mosque dating back to 1840, showing the Islamic history of the region." },
     facts: {
       de: ["Erbaut im Jahr 1840.", "Eine der ältesten Moscheen im südlichen Afrika."],
@@ -501,7 +539,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-I",
     coords: [35.3855, -23.8672],
-    name: { de: "Kathedrale von Inhambane", hu: "Inhambane Katedrálisa", ro: "Catedrala din Inhambane", en: "Cathedral of Our Lady of the Conception, Inhambane" },
+    name: { de: "Kathedrale von Inhambane", hu: "Inhambane Katedrálisa", ro: "Catedrala din Inhambane", en: "Cathedral of Our Lady of the Conception, Inhambane",
+image: "/poi-images/mz-cathedral-our-lady-inhambane-history-v2.webp"
+},
     description: { de: "Eine 200 Jahre alte Kathedrale und ein bedeutendes Wahrzeichen in Inhambane.", hu: "Egy 200 éves katedrális és jelentős nevezetesség Inhambanéban.", ro: "O catedrală veche de 200 de ani și un punct de reper important în Inhambane.", en: "A 200-year-old cathedral and a significant landmark in Inhambane." },
     facts: {
       de: ["Ihre Uhr soll angeblich eine seltene Antiquität sein.", "Prägt die Skyline der Stadt Inhambane."],
@@ -527,7 +567,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-ZA",
     coords: [36.8833, -17.8764],
-    name: { de: "Alte Kathedrale von Quelimane", hu: "Quelimane Régi Katedrálisa", ro: "Vechea Catedrală din Quelimane", en: "Quelimane Old Cathedral" },
+    name: { de: "Alte Kathedrale von Quelimane", hu: "Quelimane Régi Katedrálisa", ro: "Vechea Catedrală din Quelimane", en: "Quelimane Old Cathedral",
+image: "/poi-images/mz-quelimane-old-cathedral-history-v2.webp"
+},
     description: { de: "Eine der ältesten Kirchen Mosambiks mit prächtiger kolonialer Architektur.", hu: "Mozambik egyik legrégebbi temploma pompás gyarmati építészettel.", ro: "Una dintre cele mai vechi biserici din Mozambic, cu o arhitectură colonială magnifică.", en: "One of the oldest churches in Mozambique with magnificent colonial architecture." },
     facts: {
       de: ["Erbaut in den späten 1700er Jahren.", "Ein Symbol der portugiesischen Kolonialgeschichte in der Zambezia-Region."],
@@ -553,7 +595,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-SO",
     coords: [34.7225, -20.15],
-    name: { de: "Fort von Sofala", hu: "Sofala Erődje", ro: "Fortul din Sofala", en: "Fort of Sofala" },
+    name: { de: "Fort von Sofala", hu: "Sofala Erődje", ro: "Fortul din Sofala", en: "Fort of Sofala",
+image: "/poi-images/mz-fort-sao-caetano-sofala-history-v2.webp"
+},
     description: { de: "Die Überreste des ältesten portugiesischen Forts an der ostafrikanischen Küste.", hu: "A kelet-afrikai partvidék legrégebbi portugál erődjének maradványai.", ro: "Rămășițele celui mai vechi fort portughez de pe coasta Africii de Est.", en: "The remains of the oldest Portuguese fort on the East African coast." },
     facts: {
       de: ["Gegründet im Jahr 1505 von Pêro de Anaia.", "Das Baumaterial wurde aus Portugal herbeigeschafft."],
@@ -579,7 +623,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5583, -25.9264],
-    name: { de: "Platz der Helden (Praça dos Heróis)", hu: "Hősök Tere (Praça dos Heróis)", ro: "Piața Eroilor (Praça dos Heróis)", en: "Heroes' Square (Praça dos Heróis)" },
+    name: { de: "Platz der Helden (Praça dos Heróis)", hu: "Hősök Tere (Praça dos Heróis)", ro: "Piața Eroilor (Praça dos Heróis)", en: "Heroes' Square (Praça dos Heróis)",
+image: "/poi-images/mz-heroes-square-history-v2.webp"
+},
     description: { de: "Ein wichtiges Denkmal in Maputo, das den Freiheitskämpfern Mosambiks gewidmet ist.", hu: "Fontos emlékmű Maputóban, amelyet Mozambik szabadságharcosainak szenteltek.", ro: "Un monument important din Maputo, dedicat luptătorilor pentru libertate din Mozambic.", en: "An important monument in Maputo dedicated to the freedom fighters of Mozambique." },
     facts: {
       de: ["Enthält ein großes Wandbild über den Unabhängigkeitskampf.", "Hier ist Eduardo Mondlane beigesetzt."],
@@ -605,7 +651,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [39.9042, -16.2301],
-    name: { de: "Ruinen des Angoche-Sultanats", hu: "Az Angoche-szultanátus Romjai", ro: "Ruinele Sultanatului Angoche", en: "Ruins of the Angoche Sultanate" },
+    name: { de: "Ruinen des Angoche-Sultanats", hu: "Az Angoche-szultanátus Romjai", ro: "Ruinele Sultanatului Angoche", en: "Ruins of the Angoche Sultanate",
+image: "/poi-images/mz-angoche-sultanate-history-v2.webp"
+},
     description: { de: "Die verbliebenen Spuren eines unabhängigen afro-islamischen Sultanats, das bis 1910 bestand.", hu: "Egy független afro-iszlám szultanátus fennmaradt nyomai, amely 1910-ig létezett.", ro: "Urmele rămase ale unui sultanat afro-islamic independent, care a existat până în 1910.", en: "The remaining traces of an independent Afro-Islamic sultanate that existed until 1910." },
     facts: {
       de: ["Angoche wehrte sich jahrhundertelang gegen die portugiesische Kontrolle.", "Wichtiger Ort für die Geschichte des Swahili-Handels."],
@@ -631,7 +679,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-SO",
     coords: [34.8967, -19.8456],
-    name: { de: "Macuti-Leuchtturm", hu: "Macuti Világítótorony", ro: "Farul Macuti", en: "Macuti Lighthouse" },
+    name: { de: "Macuti-Leuchtturm", hu: "Macuti Világítótorony", ro: "Farul Macuti", en: "Macuti Lighthouse",
+image: "/poi-images/mz-macuti-lighthouse-history-v2.webp"
+},
     description: { de: "Ein historischer Leuchtturm in der Stadt Beira mit markantem Design.", hu: "Történelmi világítótorony Beira városában, jellegzetes dizájnnal.", ro: "Un far istoric din orașul Beira, cu un design distinctiv.", en: "A historic lighthouse in the city of Beira with a striking design." },
     facts: {
       de: ["Erbaut im Jahr 1904.", "Zeigt rote und weiße Streifen."],
@@ -657,7 +707,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [40.7811, -15.0522],
-    name: { de: "Leuchtturm von Goa-Insel", hu: "Goa-szigeti Világítótorony", ro: "Farul Insulei Goa", en: "Goa Island Lighthouse" },
+    name: { de: "Leuchtturm von Goa-Insel", hu: "Goa-szigeti Világítótorony", ro: "Farul Insulei Goa", en: "Goa Island Lighthouse",
+image: "/poi-images/mz-goa-island-lighthouse-history-v2.webp"
+},
     description: { de: "Ein malerischer Leuchtturm auf einer kleinen Insel nahe der Insel Mosambik.", hu: "Festői világítótorony egy kis szigeten a Mozambik-sziget közelében.", ro: "Un far pitoresc pe o mică insulă din apropierea Insulei Mozambic.", en: "A picturesque lighthouse on a small island near the Island of Mozambique." },
     facts: {
       de: ["Seit 1876 in Betrieb.", "Hilft der Schifffahrt um die historische Inselhauptstadt."],
@@ -683,7 +735,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-CD",
     coords: [39.5333, -11.6333],
-    name: { de: "Mueda-Massaker-Denkmal", hu: "Muedai Mészárlás Emlékműve", ro: "Monumentul Masacrului de la Mueda", en: "Massacre of Mueda Monument" },
+    name: { de: "Mueda-Massaker-Denkmal", hu: "Muedai Mészárlás Emlékműve", ro: "Monumentul Masacrului de la Mueda", en: "Massacre of Mueda Monument",
+image: "/poi-images/mz-massacre-mueda-history-v2.webp"
+},
     description: { de: "Erinnert an das Massaker von 1960, das den mosambikanischen Unabhängigkeitskrieg auslöste.", hu: "Az 1960-as mészárlásra emlékeztet, amely kirobbantotta a mozambiki függetlenségi háborút.", ro: "Comemorează masacrul din 1960, care a declanșat războiul de independență mozambican.", en: "Commemorates the 1960 massacre that sparked the Mozambican War of Independence." },
     facts: {
       de: ["Ereignete sich am 16. Juni 1960.", "Ein Wendepunkt in der mosambikanischen Geschichte."],
@@ -709,7 +763,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [39.2667, -15.1167],
-    name: { de: "Kathedrale von Nampula", hu: "Nampula Katedrálisa", ro: "Catedrala din Nampula", en: "Nampula Cathedral" },
+    name: { de: "Kathedrale von Nampula", hu: "Nampula Katedrálisa", ro: "Catedrala din Nampula", en: "Nampula Cathedral",
+image: "/poi-images/mz-nampula-cathedral-history-v2.webp"
+},
     description: { de: "Eine beeindruckende moderne Kathedrale im Norden Mosambiks mit markanten Zwillingstürmen.", hu: "Lenyűgöző modern katedrális Észak-Mozambikban, jellegzetes ikertornyokkal.", ro: "O impresionantă catedrală modernă în nordul Mozambicului, cu turnuri gemene distincte.", en: "An impressive modern cathedral in northern Mozambique with striking twin towers." },
     facts: {
       de: ["Offiziell 1956 eingeweiht.", "Auch bekannt als Catedral de Nossa Senhora da Fátima."],
@@ -735,7 +791,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-G",
     coords: [33.8824, -24.7118],
-    name: { de: "Historisches Mandlakazi (Manjacaze)", hu: "Történelmi Mandlakazi (Manjacaze)", ro: "Istoricul Mandlakazi (Manjacaze)", en: "Historic Mandlakazi (Manjacaze)" },
+    name: { de: "Historisches Mandlakazi (Manjacaze)", hu: "Történelmi Mandlakazi (Manjacaze)", ro: "Istoricul Mandlakazi (Manjacaze)", en: "Historic Mandlakazi (Manjacaze)",
+image: "/poi-images/mz-mandlakazi-history-v2.webp"
+},
     description: { de: "Die einstige Hauptstadt von Kaiser Gungunhana, dem letzten Herrscher des Gaza-Reiches.", hu: "Gungunhana császár, a Gáza Birodalom utolsó uralkodójának egykori fővárosa.", ro: "Fosta capitală a împăratului Gungunhana, ultimul conducător al Imperiului Gaza.", en: "The former capital of Emperor Gungunhana, the last ruler of the Gaza Empire." },
     facts: {
       de: ["Das Zentrum des Widerstands gegen die Portugiesen 1895.", "Gungunhana wurde hier gefangen genommen."],
@@ -761,7 +819,9 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     type: "historical",
     parent: "MZ-N",
     coords: [40.732, -15.044],
-    name: { de: "Fort São Lourenço", hu: "São Lourenço Erőd", ro: "Fortul São Lourenço", en: "Fort of São Lourenço" },
+    name: { de: "Fort São Lourenço", hu: "São Lourenço Erőd", ro: "Fortul São Lourenço", en: "Fort of São Lourenço",
+image: "/poi-images/mz-fort-sao-lourenco-history-v2.webp"
+},
     description: { de: "Ein kleines Fort auf einer winzigen Insel südlich der Insel Mosambik, das zur Verteidigung gebaut wurde.", hu: "Egy kis erőd a Mozambik-szigettől délre fekvő apró szigeten, amelyet védelemre építettek.", ro: "Un mic fort pe o insulă minusculă la sud de Insula Mozambic, construit pentru apărare.", en: "A small fort on a tiny island south of the Island of Mozambique, built for defense." },
     facts: {
       de: ["Erbaut im 16. Jahrhundert.", "Kann bei Ebbe zu Fuß erreicht werden."],

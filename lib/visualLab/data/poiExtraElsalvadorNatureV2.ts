@@ -7,7 +7,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-SM",
     coords: [-88.33, 13.24],
-    name: { de: "Río Grande de San Miguel", hu: "Río Grande de San Miguel", ro: "Râul Grande de San Miguel", en: "Río Grande de San Miguel" },
+    name: { de: "Río Grande de San Miguel", hu: "Río Grande de San Miguel", ro: "Râul Grande de San Miguel", en: "Río Grande de San Miguel",
+image: "/poi-images/rio-grande-de-san-miguel-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss, der durch den Osten El Salvadors fließt und in den Pazifik mündet.", hu: "Jelentős folyó, amely Kelet-El Salvadoron keresztül folyik és a Csendes-óceánba ömlik.", ro: "Un râu important care curge prin estul El Salvadorului și se varsă în Pacific.", en: "A major river flowing through eastern El Salvador and emptying into the Pacific." },
     
     facts: {
@@ -35,7 +37,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "lake",
     parent: "SV-SA",
     coords: [-89.53, 14.26],
-    name: { de: "Güija-See", hu: "Güija-tó", ro: "Lacul Güija", en: "Lake Güija" },
+    name: { de: "Güija-See", hu: "Güija-tó", ro: "Lacul Güija", en: "Lake Güija",
+image: "/poi-images/lago-de-guija-nature-v2.webp"
+},
     description: { de: "Ein großer See an der Grenze zwischen El Salvador und Guatemala mit reicher Vogelwelt.", hu: "Nagy tó El Salvador és Guatemala határán, gazdag madárvilággal.", ro: "Un lac mare la granița dintre El Salvador și Guatemala, cu o avifaună bogată.", en: "A large lake on the border of El Salvador and Guatemala, with rich birdlife." },
     
     facts: {
@@ -63,7 +67,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-US",
     coords: [-88.54, 13.22],
-    name: { de: "Bucht von Jiquilisco", hu: "Jiquilisco-öböl", ro: "Golful Jiquilisco", en: "Jiquilisco Bay" },
+    name: { de: "Bucht von Jiquilisco", hu: "Jiquilisco-öböl", ro: "Golful Jiquilisco", en: "Jiquilisco Bay",
+image: "/poi-images/bahia-de-jiquilisco-nature-v2.webp"
+},
     description: { de: "Das größte Küsten-Mangrovengebiet in El Salvador, ein UNESCO-Biosphärenreservat.", hu: "El Salvador legnagyobb parti mangrove területe, UNESCO bioszféra-rezervátum.", ro: "Cea mai mare zonă de mangrove de coastă din El Salvador, o rezervație a biosferei UNESCO.", en: "The largest coastal mangrove area in El Salvador, a UNESCO Biosphere Reserve." },
     
     facts: {
@@ -91,7 +97,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-LU",
     coords: [-87.85, 13.22],
-    name: { de: "Conchagua-Vulkan", hu: "Conchagua-vulkán", ro: "Vulcanul Conchagua", en: "Conchagua Volcano" },
+    name: { de: "Conchagua-Vulkan", hu: "Conchagua-vulkán", ro: "Vulcanul Conchagua", en: "Conchagua Volcano",
+image: "/poi-images/volcan-conchagua-nature-v2.webp"
+},
     description: { de: "Ein strategisch gelegener Vulkan mit Panoramablick auf den Golf von Fonseca.", hu: "Az ország keleti végén található vulkán, ahonnan páratlan kilátás nyílik a Fonsecai-öböl szigeteire.", ro: "Un vulcan situat strategic, cu vederi panoramice ale Golfului Fonseca.", en: "A strategically located volcano offering panoramic views of the Gulf of Fonseca." },
     
     facts: {
@@ -119,7 +127,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "forest",
     parent: "SV-CA",
     coords: [-88.97, 13.90],
-    name: { de: "Cinquera-Wald", hu: "Cinquera-erdő", ro: "Pădurea Cinquera", en: "Cinquera Forest" },
+    name: { de: "Cinquera-Wald", hu: "Cinquera-erdő", ro: "Pădurea Cinquera", en: "Cinquera Forest",
+image: "/poi-images/bosque-de-cinquera-nature-v2.webp"
+},
     description: { de: "Ein wiederaufgeforsteter Wald, der ein Symbol für den Frieden und die ökologische Erholung nach dem Bürgerkrieg ist.", hu: "Újraerdősített erdő, amely a béke és az ökológiai helyreállítás szimbóluma a polgárháború után.", ro: "O pădure reîmpădurită care este un simbol al păcii și al recuperării ecologice după războiul civil.", en: "A reforested forest that is a symbol of peace and ecological recovery after the civil war." },
     
     facts: {
@@ -147,7 +157,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "island",
     parent: "SV-LU",
     coords: [-87.71, 13.20],
-    name: { de: "Insel Meanguera", hu: "Meanguera-sziget", ro: "Insula Meanguera", en: "Meanguera Island" },
+    name: { de: "Insel Meanguera", hu: "Meanguera-sziget", ro: "Insula Meanguera", en: "Meanguera Island",
+image: "/poi-images/isla-meanguera-nature-v2.webp"
+},
     description: { de: "Eine bewohnte Vulkaninsel im Golf von Fonseca mit schönen Stränden.", hu: "Lakott vulkáni sziget a Fonseca-öbölben, gyönyörű strandokkal.", ro: "O insulă vulcanică locuită în Golful Fonseca, cu plaje frumoase.", en: "An inhabited volcanic island in the Gulf of Fonseca with beautiful beaches." },
     
     facts: {
@@ -175,7 +187,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-AH",
     coords: [-90.13, 13.75],
-    name: { de: "Río Paz", hu: "Paz-folyó", ro: "Râul Paz", en: "Paz River" },
+    name: { de: "Río Paz", hu: "Paz-folyó", ro: "Râul Paz", en: "Paz River",
+image: "/poi-images/rio-paz-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der einen Großteil der Grenze zwischen El Salvador und Guatemala bildet.", hu: "Folyó, amely El Salvador és Guatemala határának nagy részét alkotja.", ro: "Un râu care formează o mare parte a graniței dintre El Salvador și Guatemala.", en: "A river that forms a large part of the border between El Salvador and Guatemala." },
     
     facts: {
@@ -203,7 +217,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-SA",
     coords: [-89.55, 13.87],
-    name: { de: "Coatepeque Caldera", hu: "Coatepeque-kaldera", ro: "Caldera Coatepeque", en: "Coatepeque Caldera" },
+    name: { de: "Coatepeque Caldera", hu: "Coatepeque-kaldera", ro: "Caldera Coatepeque", en: "Coatepeque Caldera",
+image: "/poi-images/caldera-de-coatepeque-nature-v2.webp"
+},
     description: { de: "Eine riesige vulkanische Caldera, die den wunderschönen Coatepeque-See umschließt.", hu: "Hatalmas vulkáni kaldera, amely a gyönyörű Coatepeque-tavat öleli körbe.", ro: "O calderă vulcanică imensă care înconjoară frumosul lac Coatepeque.", en: "A huge volcanic caldera that encloses the beautiful Lake Coatepeque." },
     
     facts: {
@@ -231,7 +247,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "lake",
     parent: "SV-US",
     coords: [-88.48, 13.52],
-    name: { de: "Laguna de Alegría", hu: "Laguna de Alegría", ro: "Laguna de Alegría", en: "Laguna de Alegría" },
+    name: { de: "Laguna de Alegría", hu: "Laguna de Alegría", ro: "Laguna de Alegría", en: "Laguna de Alegría",
+image: "/poi-images/laguna-de-alegria-nature-v2.webp"
+},
     description: { de: "Ein kleiner, smaragdgrüner Kratersee im Vulkan Tecapa, bekannt für seine Schönheit.", hu: "Kicsi, smaragdzöld krátertó a Tecapa vulkánban, szépségéről ismert.", ro: "Această lagună spectaculoasă este situată în craterul vulcanului Tecapa, în departamentul Usulután. Este faimoasă pentru nuanțele sale verzi de smarald datorate conținutului ridicat de sulf.", en: "A small, emerald-green crater lake in the Tecapa volcano, known for its beauty." },
     
     facts: {
@@ -259,7 +277,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-SO",
     coords: [-89.73, 13.84],
-    name: { de: "Chorros de la Calera", hu: "Chorros de la Calera vízesések", ro: "Cascadele Chorros de la Calera", en: "Chorros de la Calera Waterfalls" },
+    name: { de: "Chorros de la Calera", hu: "Chorros de la Calera vízesések", ro: "Cascadele Chorros de la Calera", en: "Chorros de la Calera Waterfalls",
+image: "/poi-images/chorros-de-la-calera-nature-v2.webp"
+},
     description: { de: "Eine Reihe von Wasserfällen und natürlichen Becken in der Nähe von Juayúa.", hu: "Vízesések és természetes medencék sorozata Juayúa közelében.", ro: "Chorros de la Calera reprezintă o serie de cascade naturale impresionante situate în apropierea orașului Juayúa. Apa izvorăște direct din pereții stâncoși, formând bazine naturale răcoroase.", en: "A series of waterfalls and natural pools near Juayúa." },
     
     facts: {
@@ -287,7 +307,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "island",
     parent: "SV-LU",
     coords: [-87.76, 13.34],
-    name: { de: "Insel Conejo", hu: "Conejo-sziget", ro: "Insula Conejo", en: "Conejo Island" },
+    name: { de: "Insel Conejo", hu: "Conejo-sziget", ro: "Insula Conejo", en: "Conejo Island",
+image: "/poi-images/isla-conejo-nature-v2.webp"
+},
     description: { de: "Eine kleine, unbewohnte Insel im Golf von Fonseca, deren Souveränität umstritten ist.", hu: "Apró sziget a Fonsecai-öbölben, amely stratégiai elhelyezkedése miatt fontos pont El Salvador és Honduras határán.", ro: "O mică insulă nelocuită în Golful Fonseca, a cărei suveranitate este disputată.", en: "A small, uninhabited island in the Gulf of Fonseca whose sovereignty is disputed." },
     
     facts: {
@@ -315,7 +337,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-CU",
     coords: [-89.12, 13.90],
-    name: { de: "Guazapa-Vulkan", hu: "Guazapa-vulkán", ro: "Vulcanul Guazapa", en: "Guazapa Volcano" },
+    name: { de: "Guazapa-Vulkan", hu: "Guazapa-vulkán", ro: "Vulcanul Guazapa", en: "Guazapa Volcano",
+image: "/poi-images/cerro-guazapa-nature-v2.webp"
+},
     description: { de: "Ein erodierter Vulkan und ehemaliges Schlachtfeld des Bürgerkriegs, heute ein Waldreservat.", hu: "Eródált vulkán és egykori polgárháborús csatatér, ma erdőrezervátum.", ro: "Un vulcan erodat și fost câmp de luptă al războiului civil, acum o rezervație forestieră.", en: "An eroded volcano and former civil war battlefield, now a forest reserve." },
     
     facts: {
@@ -343,7 +367,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-AH",
     coords: [-89.78, 13.95],
-    name: { de: "Salto de Malacatiupán", hu: "Salto de Malacatiupán vízesés", ro: "Cascada Salto de Malacatiupán", en: "Salto de Malacatiupán Waterfall" },
+    name: { de: "Salto de Malacatiupán", hu: "Salto de Malacatiupán vízesés", ro: "Cascada Salto de Malacatiupán", en: "Salto de Malacatiupán Waterfall",
+image: "/poi-images/salto-de-malacatiupan-nature-v2.webp"
+},
     description: { de: "Ein geothermischer Wasserfall mit heißen Quellen, der ein natürliches Spa bildet.", hu: "Különleges termálvizes vízesés Ahuachapán közelében, ahol a meleg forrásvíz látványos zuhatagokat alkot.", ro: "O cascadă geotermală cu izvoare termale, formând un spa natural.", en: "A geothermal waterfall with hot springs, forming a natural spa." },
     
     facts: {
@@ -371,7 +397,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-PA",
     coords: [-88.95, 13.31],
-    name: { de: "Jaltepeque-Mündung", hu: "Jaltepeque-torkolat", ro: "Estuarul Jaltepeque", en: "Jaltepeque Estuary" },
+    name: { de: "Jaltepeque-Mündung", hu: "Jaltepeque-torkolat", ro: "Estuarul Jaltepeque", en: "Jaltepeque Estuary",
+image: "/poi-images/estero-de-jaltepeque-nature-v2.webp"
+},
     description: { de: "Eine große Küstenmündung mit Mangrovenwäldern und Sandbänken, wichtig für die Fischerei.", hu: "Nagy parti torkolat mangroveerdőkkel és homokpadokkal, fontos a halászat szempontjából.", ro: "Un estuar mare de coastă cu păduri de mangrove și bancuri de nisip, important pentru pescuit.", en: "A large coastal estuary with mangrove forests and sandbars, important for fishing." },
     
     facts: {
@@ -399,7 +427,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-SM",
     coords: [-88.36, 13.49],
-    name: { de: "Chinameca-Vulkan", hu: "Chinameca-vulkán", ro: "Vulcanul Chinameca", en: "Chinameca Volcano" },
+    name: { de: "Chinameca-Vulkan", hu: "Chinameca-vulkán", ro: "Vulcanul Chinameca", en: "Chinameca Volcano",
+image: "/poi-images/cerro-chinameca-nature-v2.webp"
+},
     description: { de: "Ein Vulkan im Osten des Landes, auch bekannt als Volcán de Pacayal.", hu: "Más néven El Pacayal vulkán, amely San Miguel megyében magasodik, és lankáin intenzív kávétermesztés folyik.", ro: "Un vulcan în estul țării, cunoscut și sub numele de Volcán de Pacayal.", en: "A volcano in the east of the country, also known as Volcán de Pacayal." },
     
     facts: {
@@ -427,7 +457,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-MO",
     coords: [-88.25, 13.65],
-    name: { de: "Río Torola", hu: "Torola-folyó", ro: "Râul Torola", en: "Río Torola" },
+    name: { de: "Río Torola", hu: "Torola-folyó", ro: "Râul Torola", en: "Río Torola",
+image: "/poi-images/rio-torola-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der durch das historisch bedeutsame Departement Morazán fließt.", hu: "Folyó, amely a történelmileg jelentős Morazán megyén folyik keresztül.", ro: "Un râu care curge prin departamentul istoric Morazán.", en: "A river that flows through the historically significant department of Morazán." },
     
     facts: {
@@ -455,7 +487,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "forest",
     parent: "SV-US",
     coords: [-88.65, 13.30],
-    name: { de: "Nancuchiname-Wald", hu: "Nancuchiname-erdő", ro: "Pădurea Nancuchiname", en: "Nancuchiname Forest" },
+    name: { de: "Nancuchiname-Wald", hu: "Nancuchiname-erdő", ro: "Pădurea Nancuchiname", en: "Nancuchiname Forest",
+image: "/poi-images/bosque-nancuchiname-nature-v2.webp"
+},
     description: { de: "Ein wichtiges tropisches Trockenwaldreservat im Osten El Salvadors.", hu: "Fontos trópusi száraz erdőrezervátum Kelet-El Salvadorban.", ro: "O importantă rezervație de pădure uscată tropicală în estul El Salvadorului.", en: "An important tropical dry forest reserve in eastern El Salvador." },
     
     facts: {
@@ -483,7 +517,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "island",
     parent: "SV-LU",
     coords: [-87.80, 13.31],
-    name: { de: "Insel Zacatillo", hu: "Zacatillo-sziget", ro: "Insula Zacatillo", en: "Zacatillo Island" },
+    name: { de: "Insel Zacatillo", hu: "Zacatillo-sziget", ro: "Insula Zacatillo", en: "Zacatillo Island",
+image: "/poi-images/isla-zacatillo-nature-v2.webp"
+},
     description: { de: "Eine bewohnte Insel im Golf von Fonseca, bekannt für ihre Fischereigemeinden.", hu: "Lakott sziget a Fonseca-öbölben, halászközösségeiről ismert.", ro: "O insulă locuită în Golful Fonseca, cunoscută pentru comunitățile sale de pescari.", en: "An inhabited island in the Gulf of Fonseca known for its fishing communities." },
     
     facts: {
@@ -511,7 +547,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-SM",
     coords: [-88.10, 13.18],
-    name: { de: "El Cuco Strand", hu: "El Cuco strand", ro: "Plaja El Cuco", en: "El Cuco Beach" },
+    name: { de: "El Cuco Strand", hu: "El Cuco strand", ro: "Plaja El Cuco", en: "El Cuco Beach",
+image: "/poi-images/playa-el-cuco-nature-v2.webp"
+},
     description: { de: "Ein langer, ruhiger Strand mit dunklem Sand im Osten des Landes.", hu: "Hosszú, csendes strand sötét homokkal az ország keleti részén.", ro: "O plajă lungă și liniștită cu nisip închis la culoare în estul țării.", en: "A long, tranquil beach with dark sand in the east of the country." },
     
     facts: {
@@ -539,7 +577,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-SM",
     coords: [-88.16, 13.20],
-    name: { de: "Las Flores Strand", hu: "Las Flores strand", ro: "Plaja Las Flores", en: "Las Flores Beach" },
+    name: { de: "Las Flores Strand", hu: "Las Flores strand", ro: "Plaja Las Flores", en: "Las Flores Beach",
+image: "/poi-images/playa-las-flores-nature-v2.webp"
+},
     description: { de: "Ein weltbekannter Surfspot mit einer perfekten rechten Welle.", hu: "Világhírű szörfhely, tökéletes jobb oldali hullámmal.", ro: "Un spot de surf de renume mondial, cu un val perfect de dreapta.", en: "A world-renowned surf spot with a perfect right-hand point break." },
     
     facts: {
@@ -567,7 +607,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-SA",
     coords: [-89.47, 14.27],
-    name: { de: "San Diego Vulkan", hu: "San Diego vulkán", ro: "Vulcanul San Diego", en: "San Diego Volcano" },
+    name: { de: "San Diego Vulkan", hu: "San Diego vulkán", ro: "Vulcanul San Diego", en: "San Diego Volcano",
+image: "/poi-images/volcan-de-san-diego-nature-v2.webp"
+},
     description: { de: "Ein erloschener Vulkan in der Nähe des Güija-Sees.", hu: "Santa Ana megyében található kisebb vulkán, amely a Güija-tó közelében fekvő bazaltmezőiről ismert.", ro: "Un vulcan stins lângă Lacul Güija.", en: "A extinct volcano near Lake Guija." },
     
     facts: {
@@ -595,7 +637,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-PA",
     coords: [-88.98, 13.40],
-    name: { de: "Río Jiboa", hu: "Jiboa-folyó", ro: "Râul Jiboa", en: "Jiboa River" },
+    name: { de: "Río Jiboa", hu: "Jiboa-folyó", ro: "Râul Jiboa", en: "Jiboa River",
+image: "/poi-images/rio-jiboa-nature-v2.webp"
+},
     description: { de: "Ein Fluss, der in der Nähe des San Vicente-Vulkans entspringt und in den Pazifik mündet.", hu: "Folyó, amely a San Vicente-vulkán közelében ered és a Csendes-óceánba ömlik.", ro: "Un râu care izvorăște lângă vulcanul San Vicente și se varsă în Pacific.", en: "A river that originates near the San Vicente volcano and flows to the Pacific." },
     
     facts: {
@@ -623,7 +667,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-AH",
     coords: [-89.98, 13.75],
-    name: { de: "Barra de Santiago", hu: "Barra de Santiago", ro: "Barra de Santiago", en: "Barra de Santiago" },
+    name: { de: "Barra de Santiago", hu: "Barra de Santiago", ro: "Barra de Santiago", en: "Barra de Santiago",
+image: "/poi-images/barra-de-santiago-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Feuchtgebiet und Mangrovenreservat an der Westküste.", hu: "Jelentős vizes élőhely és mangrove rezervátum a nyugati parton.", ro: "O importantă zonă umedă și rezervație de mangrove pe coasta de vest.", en: "An important wetland and mangrove reserve on the west coast." },
     
     facts: {
@@ -651,7 +697,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-US",
     coords: [-88.59, 13.34],
-    name: { de: "Cerro El Mono", hu: "Cerro El Mono", ro: "Cerro El Mono", en: "Cerro El Mono" },
+    name: { de: "Cerro El Mono", hu: "Cerro El Mono", ro: "Cerro El Mono", en: "Cerro El Mono",
+image: "/poi-images/cerro-el-mono-nature-v2.webp"
+},
     description: { de: "Ein Hügel in der Nähe der Jiquilisco-Bucht mit guter Aussicht auf die Küste.", hu: "Domb a Jiquilisco-öböl közelében, jó kilátással a partvidékre.", ro: "Un deal lângă Golful Jiquilisco, cu vederi bune ale coastei.", en: "A hill near Jiquilisco Bay with good views of the coast." },
     
     facts: {
@@ -679,7 +727,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "river",
     parent: "SV-SO",
     coords: [-89.73, 13.67],
-    name: { de: "Río Sensunapán", hu: "Sensunapán-folyó", ro: "Râul Sensunapán", en: "Sensunapán River" },
+    name: { de: "Río Sensunapán", hu: "Sensunapán-folyó", ro: "Râul Sensunapán", en: "Sensunapán River",
+image: "/poi-images/rio-sensunapan-nature-v2.webp"
+},
     description: { de: "Ein wichtiger Fluss im Departement Sonsonate, der die Stadt Sonsonate durchfließt.", hu: "Fontos folyó Sonsonate megyében, amely áthalad Sonsonate városán.", ro: "Un râu important în departamentul Sonsonate, care trece prin orașul Sonsonate.", en: "An important river in the Sonsonate department that flows through the city of Sonsonate." },
     
     facts: {
@@ -707,7 +757,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-LU",
     coords: [-87.75, 13.25],
-    name: { de: "Golf von Fonseca", hu: "Fonseca-öböl", ro: "Golful Fonseca", en: "Gulf of Fonseca" },
+    name: { de: "Golf von Fonseca", hu: "Fonseca-öböl", ro: "Golful Fonseca", en: "Gulf of Fonseca",
+image: "/poi-images/golfo-de-fonseca-nature-v2.webp"
+},
     description: { de: "Ein geschützter Golf, den sich El Salvador, Honduras und Nicaragua teilen, reich an Inseln.", hu: "Hatalmas tengeröböl a Csendes-óceán partján, amelynek partjain három közép-amerikai ország osztozik.", ro: "Un golf adăpostit, împărțit de El Salvador, Honduras și Nicaragua, bogat în insule.", en: "A sheltered gulf shared by El Salvador, Honduras, and Nicaragua, rich in islands." },
     
     facts: {
@@ -735,7 +787,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "island",
     parent: "SV-US",
     coords: [-88.52, 13.24],
-    name: { de: "Insel La Pirraya", hu: "La Pirraya-sziget", ro: "Insula La Pirraya", en: "La Pirraya Island" },
+    name: { de: "Insel La Pirraya", hu: "La Pirraya-sziget", ro: "Insula La Pirraya", en: "La Pirraya Island",
+image: "/poi-images/isla-la-pirraya-nature-v2.webp"
+},
     description: { de: "Eine Insel in der Bucht von Jiquilisco, die für ihre Strandfußball-Tradition bekannt ist.", hu: "Sziget a Jiquilisco-öbölben, strandfoci hagyományáról ismert.", ro: "O insulă în Golful Jiquilisco, cunoscută pentru tradiția sa de fotbal pe plajă.", en: "An island in the Bay of Jiquilisco known for its beach soccer tradition." },
     
     facts: {
@@ -763,7 +817,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "mountain",
     parent: "SV-SO",
     coords: [-89.70, 13.88],
-    name: { de: "Cerro Nanahuatzin", hu: "Cerro Nanahuatzin", ro: "Cerro Nanahuatzin", en: "Cerro Nanahuatzin" },
+    name: { de: "Cerro Nanahuatzin", hu: "Cerro Nanahuatzin", ro: "Cerro Nanahuatzin", en: "Cerro Nanahuatzin",
+image: "/poi-images/cerro-nanahuatzin-nature-v2.webp"
+},
     description: { de: "Ein Berg in der Apaneca-Ilamatepec-Kette, Teil der Ruta de las Flores.", hu: "Hegy az Apaneca-Ilamatepec hegyláncban, a Ruta de las Flores része.", ro: "Un munte în lanțul Apaneca-Ilamatepec, parte a Rutei Florilor.", en: "A mountain in the Apaneca-Ilamatepec range, part of the Ruta de las Flores." },
     
     facts: {
@@ -791,7 +847,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-LI",
     coords: [-89.33, 13.48],
-    name: { de: "El Majahual Strand", hu: "El Majahual strand", ro: "Plaja El Majahual", en: "El Majahual Beach" },
+    name: { de: "El Majahual Strand", hu: "El Majahual strand", ro: "Plaja El Majahual", en: "El Majahual Beach",
+image: "/poi-images/playa-el-majahual-nature-v2.webp"
+},
     description: { de: "Ein sehr beliebter öffentlicher Strand in der Nähe von La Libertad.", hu: "Nagyon népszerű nyilvános strand La Libertad közelében.", ro: "O plajă publică foarte populară lângă La Libertad.", en: "A very popular public beach near La Libertad." },
     
     facts: {
@@ -819,7 +877,9 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     type: "sea",
     parent: "SV-LI",
     coords: [-89.30, 13.47],
-    name: { de: "San Diego Strand", hu: "San Diego strand", ro: "Plaja San Diego", en: "San Diego Beach" },
+    name: { de: "San Diego Strand", hu: "San Diego strand", ro: "Plaja San Diego", en: "San Diego Beach",
+image: "/poi-images/playa-san-diego-nature-v2.webp"
+},
     description: { de: "Ein langer und breiter Strand mit hellem Sand, ideal für Spaziergänge.", hu: "Hosszú és széles strand világos homokkal, ideális sétákhoz.", ro: "O plajă lungă și largă cu nisip deschis la culoare, ideală pentru plimbări.", en: "A long and wide beach with light-colored sand, ideal for walking." },
     
     facts: {

@@ -7,7 +7,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-SW",
     coords: [9.1706, 4.2045],
-    name: { de: "Kamerunberg", hu: "Kamerun-hegy", ro: "Muntele Camerun", en: "Mount Cameroon" },
+    name: { de: "Kamerunberg", hu: "Kamerun-hegy", ro: "Muntele Camerun", en: "Mount Cameroon",
+image: "/poi-images/mount-cameroon-relief-v2.webp"
+},
     description: { de: "Der Mount Cameroon ist der höchste Berg Kameruns und ein aktiver Vulkan an der Atlantikküste. Er prägt das Relief des Südwestens deutlich.", hu: "Aktív vulkán, Közép-Afrika legmagasabb hegye.", ro: "Un vulcan activ și cel mai înalt munte din Africa Centrală.", en: "Mount Cameroon is a steep volcanic massif on the coast of southwestern Cameroon. It rises sharply above the Atlantic lowlands." },
     facts: {
       de: ["höchster Berg Kameruns", "aktiver Vulkan", "an der Küste"],
@@ -26,7 +28,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-AD",
     coords: [13.0, 7.0],
-    name: { de: "Adamaua-Plateau", hu: "Adamaua-fennsík", ro: "Podișul Adamawa", en: "Adamawa Plateau" },
+    name: { de: "Adamaua-Plateau", hu: "Adamaua-fennsík", ro: "Podișul Adamawa", en: "Adamawa Plateau",
+image: "/poi-images/adamaoua-plateau-relief-v2.webp"
+},
     description: { de: "Ein großes Hochplateau, das den Norden vom Süden Kameruns trennt.", hu: "Az Adamaoua-fennsík Kamerun középső részének magas, hullámos térszíne. A szavanna és az erdős öv közötti átmeneti zóna.", ro: "Un podiș înalt care separă nordul de sudul Camerunului.", en: "A large high plateau that separates the north from the south of Cameroon." },
     facts: {
       de: ["Durchschnittshöhe: 1000 m", "Wichtige Wasserscheide", "Savannenlandschaft"],
@@ -45,7 +49,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-EN",
     coords: [13.8, 10.8],
-    name: { de: "Mandara-Gebirge", hu: "Mandara-hegység", ro: "Munții Mandara", en: "Mandara Mountains" },
+    name: { de: "Mandara-Gebirge", hu: "Mandara-hegység", ro: "Munții Mandara", en: "Mandara Mountains",
+image: "/poi-images/mandara-mountains-relief-v2.webp"
+},
     description: { de: "Die Mandara-Berge bilden eine raue Höhenzone im Norden Kameruns. Ihr zerfurchtes Gelände prägt die Landschaft an der Grenze zu Nigeria.", hu: "A Mandara-hegység az északi határvidék tagolt vonulata. A dombos, vulkanikus táj sok helyen meredek.", ro: "Un lanț muntos vulcanic la granița cu Nigeria.", en: "The Mandara Mountains are a dramatic volcanic range in the Far North, known for their rugged beauty and unique terrace farming." },
     facts: {
       de: ["Gebirge im Norden", "Grenzraum zu Nigeria", "zerklüftetes Relief"],
@@ -64,7 +70,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-NW",
     coords: [10.1, 6.0],
-    name: { de: "Bamenda-Hochland", hu: "Bamenda-felföld", ro: "Podișul Bamenda", en: "Bamenda Highlands" },
+    name: { de: "Bamenda-Hochland", hu: "Bamenda-felföld", ro: "Podișul Bamenda", en: "Bamenda Highlands",
+image: "/poi-images/bamenda-highlands-relief-v2.webp"
+},
     description: { de: "Das Bamenda-Hochland gehört zu den markanten Hochlandräumen des Nordwestens. Es ist durch Hügel, Täler und ein kühleres Klima geprägt.", hu: "A Bamenda-fennsík Nyugat-Kamerun magasabb, hűvösebb tája. Sűrű településhálózat és termékeny földek jellemzik.", ro: "Platoul Bamenda este o zonă înaltă din nord-vestul Camerunului. Relieful său vulcanic și clima mai răcoroasă îl fac diferit de câmpiile din jur.", en: "The Bamenda Highlands are a cool, elevated region in northwest Cameroon. Their plateau terrain shapes settlement and farming." },
     facts: {
       de: ["Hochland im Nordwesten", "Hügel und Täler", "kühleres Klima"],
@@ -84,7 +92,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-CE",
     coords: [11.5, 4.0],
-    name: { de: "Sanaga-Becken", hu: "Sanaga-medence", ro: "Bazinul Sanaga", en: "Sanaga Basin" },
+    name: { de: "Sanaga-Becken", hu: "Sanaga-medence", ro: "Bazinul Sanaga", en: "Sanaga Basin",
+image: "/poi-images/sanaga-basin-relief-v2.webp"
+},
     description: { de: "Das Sanaga-Becken ist eines der wichtigsten Flusssysteme Kameruns. Es verbindet weite Niederungen mit den zentralen Wasserläufen des Landes.", hu: "A Sanaga-medence a fő folyó vízgyűjtő területe. A középső régió domborzatát és vízrendszerét szervezi.", ro: "Cel mai mare bazin hidrografic din Camerun.", en: "The Sanaga basin covers a vast central drainage area. It is one of the main structural landscapes of Cameroon." },
     facts: {
       de: ["großes Flusssystem", "zentrale Niederungen", "wichtiger Landschaftsraum"],
@@ -104,7 +114,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-LT",
     coords: [9.8, 5.0],
-    name: { de: "Manengouba-Gebirge", hu: "Manengouba-hegység", ro: "Munții Manengouba", en: "Mount Manengouba" },
+    name: { de: "Manengouba-Gebirge", hu: "Manengouba-hegység", ro: "Munții Manengouba", en: "Mount Manengouba",
+image: "/poi-images/mount-manengouba-relief-v2.webp"
+},
     description: { de: "Der Mount Manengouba ist ein bekanntes Vulkanmassiv im Westen Kameruns. Krater und Höhenzüge machen ihn zu einem auffälligen Reliefgebiet.", hu: "A Manengouba-hegy vulkáni tömbje tavakkal és meredek lejtőkkel ismert. A Nyugat-Kamerun egyik látványos magaslata.", ro: "Muntele Manengouba este un masiv vulcanic cunoscut pentru conurile sale și pentru peisajul de crater. Este una dintre cele mai clare forme de relief din sud-vest.", en: "The relief of Mount Manengouba is defined by its massive caldera and the lush, rolling grasslands of the highland plateau." },
     facts: {
       de: ["vulkanisches Massiv", "im Westen Kameruns", "Kraterlandschaft"],
@@ -123,7 +135,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-SW",
     coords: [9.7, 4.8],
-    name: { de: "Kupe-Berg", hu: "Kupe-hegy", ro: "Muntele Kupe", en: "Mount Kupe" },
+    name: { de: "Kupe-Berg", hu: "Kupe-hegy", ro: "Muntele Kupe", en: "Mount Kupe",
+image: "/poi-images/mount-kupe-relief-v2.webp"
+},
     description: { de: "Der Mount Kupe ist ein markanter Berg im Südwesten Kameruns. Er erhebt sich deutlich über die umgebenden Regenwaldhänge.", hu: "A Kupe-hegy a délnyugati vulkáni hegyvidék része. Esőerdő borítja a lejtőit.", ro: "Un munte sacru pentru populația locală.", en: "Mount Kupe is a significant peak in the Bakossi mountain range, rising steeply from the surrounding tropical forests." },
     facts: {
       de: ["Berg im Südwesten", "über Regenwaldhängen", "markantes Relief"],
@@ -143,7 +157,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-SW",
     coords: [9.2, 4.5],
-    name: { de: "Mount Oissa", hu: "Oissa-hegy", ro: "Muntele Oissa", en: "Mount Oissa" },
+    name: { de: "Mount Oissa", hu: "Oissa-hegy", ro: "Muntele Oissa", en: "Mount Oissa",
+image: "/poi-images/mount-oissa-relief-v2.webp"
+},
     description: { de: "Der Mount Ossa liegt im Küstenraum Kameruns und gehört zu den lokalen Höhenzügen. Er formt ein eher sanftes, aber klares Reliefprofil.", hu: "Az Oissa-hegy kisebb, tagolt magaslati tömb a középső kameruni dombvidéken. A környező lefolyási rendszert is befolyásolja.", ro: "Muntele Oissa este o ridicare de relief din zona centrală a Camerunului. Culoarea verde a versanților arată un mediu tropical dens.", en: "Mount Oissa is a notable elevation in central Cameroon, contributing to the varied and hilly topography of the region." },
     facts: {
       de: ["im Küstenraum", "lokaler Höhenzug", "prägt die Umgebung"],
@@ -156,7 +172,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-LT",
     coords: [9.9, 4.9],
-    name: { de: "Nlonako-Gebirge", hu: "Nlonako-hegység", ro: "Munții Nlonako", en: "Nlonako Mountains" },
+    name: { de: "Nlonako-Gebirge", hu: "Nlonako-hegység", ro: "Munții Nlonako", en: "Nlonako Mountains",
+image: "/poi-images/nlonako-mountains-relief-v2.webp"
+},
     description: { de: "Die Nlonako-Berge gehören zu den Hügel- und Bergformen des westkamerunischen Küstenhinterlands. Sie sind Teil eines abwechslungsreichen Reliefs.", hu: "A Nlonako-hegység a nyugati vulkáni domborzathoz tartozik. Hegyvidéki erdők és meredek lejtők jellemzik.", ro: "Un lanț muntos în ținuturile înalte de vest.", en: "The Nlonako Mountains are part of Cameroon's western volcanic line, featuring dense forests and significant biodiversity." },
     facts: {
       de: ["im Westen Kameruns", "Hügel- und Bergland", "Teil des Küstenhinterlands"],
@@ -169,7 +187,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-NW",
     coords: [10.1, 5.6],
-    name: { de: "Bambouto-Berge", hu: "Bambouto-hegység", ro: "Munții Bambouto", en: "Bambouto Mountains" },
+    name: { de: "Bambouto-Berge", hu: "Bambouto-hegység", ro: "Munții Bambouto", en: "Bambouto Mountains",
+image: "/poi-images/mount-bambouto-relief-v2.webp"
+},
     description: { de: "Die Bamboutos bilden ein hohes Vulkan- und Hochlandgebiet im Westen Kameruns. Die Landschaft ist durch Kegel, Plateaus und Täler gegliedert.", hu: "A Bambouto-fennsík vulkáni hegyvidék Nyugat-Kamerunban. Magas domborzata hűvösebb klímát hoz.", ro: "Muntele Bambouto face parte din lanțul vulcanic din vestul Camerunului. Versanții săi sunt legați de un relief înalt și de soluri fertile.", en: "Mount Bambouto is a massive volcanic complex in the West Region, forming part of the Cameroon Highlands." },
     facts: {
       de: ["Hochland im Westen", "vulkanische Formen", "Plateaus und Täler"],
@@ -183,7 +203,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-AD",
     coords: [11.8, 7.3],
-    name: { de: "Tchabal Mbabo", hu: "Tchabal Mbabo-hegy", ro: "Muntele Tchabal Mbabo", en: "Tchabal Mbabo" },
+    name: { de: "Tchabal Mbabo", hu: "Tchabal Mbabo-hegy", ro: "Muntele Tchabal Mbabo", en: "Tchabal Mbabo",
+image: "/poi-images/mount-tchabal-mbabo-relief-v2.webp"
+},
     description: { de: "Der Tchabal-Mbabo ist ein hohes Bergmassiv im Norden des Landes. Er gehört zu den wichtigsten Höhenzügen an der Grenze zu Nigeria.", hu: "Magas csúcs az Adamaua-fennsíkon.", ro: "Un vârf înalt pe podișul Adamawa.", en: "Mount Tchabal Mbabo is one of the highest peaks in the Adamawa Region, offering rugged terrain and panoramic views of the plateau." },
     facts: {
       de: ["hohes Bergmassiv", "im Norden Kameruns", "Grenzraum zu Nigeria"],
@@ -196,7 +218,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-NW",
     coords: [10.3, 6.2],
-    name: { de: "Mount Oko", hu: "Oko-hegy", ro: "Muntele Oko", en: "Mount Oko" },
+    name: { de: "Mount Oko", hu: "Oko-hegy", ro: "Muntele Oko", en: "Mount Oko",
+image: "/poi-images/mount-oko-relief-v2.webp"
+},
     description: { de: "Der Berg Oku liegt im Nordwesten Kameruns und ist Teil der vulkanischen Hochländer. Er bildet eine markante Erhebung in der Region.", hu: "Az Oku-hegy a Bamenda-fennsík magas vulkáni tömbje. A környező krátertavakhoz is kapcsolódik.", ro: "Un vârf important în ținuturile Bamenda.", en: "A significant peak in the Bamenda Highlands." },
     facts: {
       de: ["im Nordwesten", "vulkanische Hochländer", "markante Erhebung"],
@@ -209,7 +233,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-NW",
     coords: [10.5, 6.2],
-    name: { de: "Mount Oku", hu: "Oku-hegy", ro: "Muntele Oku", en: "Mount Oku" },
+    name: { de: "Mount Oku", hu: "Oku-hegy", ro: "Muntele Oku", en: "Mount Oku",
+image: "/poi-images/mount-o-ku-relief-v2.webp"
+},
     description: { de: "Der O-Ku-Berg gehört zu den lokalen Höhenformen im Westen Kameruns. Er ergänzt das Relief der umliegenden Hochland- und Waldgebiete.", hu: "Az O-Ku-hegy a közép-nyugati hegyvidéki térség egyik magas pontja. Az erdős vulkáni táj része.", ro: "Al doilea cel mai înalt munte din ținuturile înalte de vest.", en: "Mount Oku is a high mountain in northwest Cameroon. It belongs to the volcanic chain that shapes the Bamenda highlands." },
     facts: {
       de: ["lokaler Berg", "im Westen Kameruns", "Teil des Hochlands"],
@@ -222,7 +248,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-SW",
     coords: [9.1, 4.8],
-    name: { de: "Rumpi-Hills", hu: "Rumpi-dombság", ro: "Dealurile Rumpi", en: "Rumpi Hills" },
+    name: { de: "Rumpi-Hills", hu: "Rumpi-dombság", ro: "Dealurile Rumpi", en: "Rumpi Hills",
+image: "/poi-images/mount-rumpi-relief-v2.webp"
+},
     description: { de: "Die Rumpi-Berge liegen im Südwesten Kameruns und steigen aus dem Küstenraum auf. Ihr steiles Relief trennt Küste und Hinterland.", hu: "A Rumpi-hegység a délnyugati partvidék fölé magasodik. Erdős lejtők és meredek terep jellemzi.", ro: "Masivul Rumpi se află în sud-vestul Camerunului și domină zona de coastă. Relieful său abrupt face tranziția spre pădurea tropicală.", en: "The Rumpi Hills are a volcanic mountain range in the Southwest Region, known for their steep slopes and dense tropical forests." },
     facts: {
       de: ["im Südwesten", "steiles Küstenrelief", "Übergang zum Hinterland"],
@@ -235,7 +263,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-SW",
     coords: [9.7, 4.9],
-    name: { de: "Bakossi-Berge", hu: "Bakossi-hegység", ro: "Munții Bakossi", en: "Bakossi Mountains" },
+    name: { de: "Bakossi-Berge", hu: "Bakossi-hegység", ro: "Munții Bakossi", en: "Bakossi Mountains",
+image: "/poi-images/mount-bakossi-relief-v2.webp"
+},
     description: { de: "Die Bakossi-Berge bilden ein bewaldetes Höhengebiet im Westen des Landes. Sie sind durch stark gegliedertes Relief und feuchte Hänge geprägt.", hu: "A Bakossi-hegység a délnyugati magasvidék része. Erdős lejtők és tagolt vulkáni forma jellemzi.", ro: "O zonă muntoasă importantă pentru conservarea naturii.", en: "The Bakossi Mountains form a forested highland in western Cameroon. They are known for steep slopes and a wet mountain climate." },
     facts: {
       de: ["bewaldetes Höhengebiet", "im Westen Kameruns", "feuchte Berghänge"],
@@ -248,7 +278,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "mountain",
     parent: "CM-SW",
     coords: [9.7, 4.7],
-    name: { de: "Koupe-Massiv", hu: "Koupe-masszívum", ro: "Masivul Koupe", en: "Koupe Massif" },
+    name: { de: "Koupe-Massiv", hu: "Koupe-masszívum", ro: "Masivul Koupe", en: "Koupe Massif",
+image: "/poi-images/mount-koupe-relief-v2.webp"
+},
     description: { de: "Ein beeindruckendes Bergmassiv mit steilen Hängen.", hu: "A Koupé-hegy a délnyugati vulkáni csúcsok egyike. A környező hegyvidéki táj fontos eleme.", ro: "Muntele Kupe este o altă formă vulcanică importantă din sud-vestul țării. Este cunoscut pentru pantele sale împădurite și pentru altitudinea locală.", en: "Mount Koupe is a steep forest mountain in southwestern Cameroon. It overlooks the coastal lowlands with a sharp rise in elevation." },
     facts: {
       de: ["Vulkanischer Ursprung", "Vielfältige Flora", "Nebliger Gipfel"],
@@ -262,7 +294,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-SU",
     coords: [11.0, 2.5],
-    name: { de: "Ntem-Hügelland", hu: "Ntem-dombság", ro: "Dealurile Ntem", en: "Ntem Hills" },
+    name: { de: "Ntem-Hügelland", hu: "Ntem-dombság", ro: "Dealurile Ntem", en: "Ntem Hills",
+image: "/poi-images/mount-ntem-relief-v2.webp"
+},
     description: { de: "Der Ntem-Raum im Süden Kameruns besteht aus tieferen, wasserreichen Landschaften. Flüsse und Wald prägen dort das Relief deutlich.", hu: "Az Ntem vidéke enyhén hullámos, erdős felszínű délies táj. A folyóvölgyek formálják.", ro: "Relieful Ntem aparține sudului camerunez și se leagă de bazinul aceluiași râu. Zona are forme domoale, acoperite de vegetație densă.", en: "Mount Ntem is a prominent elevation in the South Region, characterized by its dense rainforest cover and rolling hills." },
     facts: {
       de: ["südlicher Flussraum", "wasserreiche Landschaft", "von Wald geprägt"],
@@ -275,7 +309,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-SU",
     coords: [13.0, 3.0],
-    name: { de: "Dja-Becken", hu: "Dja-medence", ro: "Bazinul Dja", en: "Dja Basin" },
+    name: { de: "Dja-Becken", hu: "Dja-medence", ro: "Bazinul Dja", en: "Dja Basin",
+image: "/poi-images/mount-dja-relief-v2.webp"
+},
     description: { de: "Der Dja-Raum gehört zu den weitläufigen Wald- und Flusslandschaften im Südosten Kameruns. Das Relief ist dort eher sanft und stark bewaldet.", hu: "A Dja térsége alacsony dombok és erdős fennsíkok vidéke. A középső-déli átmeneti öv része.", ro: "Un bazin de câmpie plat, dar puternic împădurit.", en: "The Dja area in southeastern Cameroon is made up of low hills and dense forest terrain. It belongs to the country's southern upland zone." },
     facts: {
       de: ["im Südosten Kameruns", "sanftes Relief", "dichter Waldraum"],
@@ -288,7 +324,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-SU",
     coords: [9.9, 2.9],
-    name: { de: "Kribi-Küstenebene", hu: "Kribi-parti síkság", ro: "Câmpia de coastă Kribi", en: "Kribi Coastal Plain" },
+    name: { de: "Kribi-Küstenebene", hu: "Kribi-parti síkság", ro: "Câmpia de coastă Kribi", en: "Kribi Coastal Plain",
+image: "/poi-images/mount-kribi-relief-v2.webp"
+},
     description: { de: "Der Kribi-Raum verbindet Küste, Dünen und flache Hügellandschaften. Er gehört zu den niedrigeren Reliefzonen an Kameruns Atlantikfront.", hu: "A Kribi környéki magaslatok a parti síkság fölé emelkednek. A tengerparti és a szárazföldi táj határát adják.", ro: "Relieful de la Kribi este joas și se apropie de linia coastei atlantice. Aici se întâlnesc dune, terenuri plate și vegetație litorală.", en: "Mount Kribi is a coastal elevation in the South Region, providing a dramatic backdrop to the sandy beaches of the Atlantic shoreline." },
     facts: {
       de: ["Atlantikküste", "flache Hügellandschaft", "niedrige Reliefzone"],
@@ -302,7 +340,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-NO",
     coords: [14.0, 8.5],
-    name: { de: "Bouba-Ndjidda-Hochland", hu: "Bouba-Ndjidda-fennsík", ro: "Podișul Bouba-Ndjidda", en: "Bouba-Ndjidda Plateau" },
+    name: { de: "Bouba-Ndjidda-Hochland", hu: "Bouba-Ndjidda-fennsík", ro: "Podișul Bouba-Ndjidda", en: "Bouba-Ndjidda Plateau",
+image: "/poi-images/mount-bouba-relief-v2.webp"
+},
     description: { de: "Der Bouba-Raum im Norden gehört zu den offenen Savannen- und Ebenenlandschaften Kameruns. Er ist Teil des trockeneren Reliefs im nördlichen Landesteil.", hu: "A Bouba térsége az északi száraz szavannás síkságokhoz tartozik. A lapos felszín dominál.", ro: "Relieful Bouba este asociat cu nordul Camerunului și cu zone mai deschise de savană. Formele sale sunt mai line decât în zona montană din vest.", en: "Mount Bouba is a significant relief feature in the northern plains, rising above the surrounding savanna landscape." },
     facts: {
       de: ["nördliche Savannenlandschaft", "weite Ebenen", "trockenes Relief"],
@@ -315,7 +355,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-EN",
     coords: [14.5, 11.5],
-    name: { de: "Waza-Ebene", hu: "Waza-síkság", ro: "Câmpia Waza", en: "Waza Plain" },
+    name: { de: "Waza-Ebene", hu: "Waza-síkság", ro: "Câmpia Waza", en: "Waza Plain",
+image: "/poi-images/mount-waza-relief-v2.webp"
+},
     description: { de: "Der Waza-Raum ist eine flache, offene Landschaft im äußersten Norden. Die weiten Ebenen gehen dort in den Sahel über.", hu: "A Waza térsége lapos, száraz síkság. Az északi alföldek jellegét mutatja.", ro: "Zona Waza este un relief plat și arid din extremitatea nordică. Este influențată de clima saheliană și de lipsa apei permanente.", en: "The Waza area lies in the dry far north with flat terrain and Sahel conditions. Its relief is shaped by open plains and seasonal watercourses." },
     facts: {
       de: ["flache Nordlandschaft", "am Sahelrand", "weite Ebenen"],
@@ -329,7 +371,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-EN",
     coords: [15.2, 12.0],
-    name: { de: "Logone-Tal", hu: "Logone-völgy", ro: "Valea Logone", en: "Logone Valley" },
+    name: { de: "Logone-Tal", hu: "Logone-völgy", ro: "Valea Logone", en: "Logone Valley",
+image: "/poi-images/mount-logone-relief-v2.webp"
+},
     description: { de: "Das Logone-Gebiet liegt in einer tiefen Fluss- und Schwemmebene im Norden Kameruns. Wasserläufe und saisonale Überflutung bestimmen das Relief.", hu: "A Logone vidéke folyókkal tagolt alföld. A határ menti sík táj egyik fő példája.", ro: "Relieful Logone este legat de câmpiile și luncile din nordul extrem al Camerunului. Apa și sedimentul modelează aici peisajul de joasă altitudine.", en: "The Mount Logone area features unique geological formations and elevations along the river basin in the Far North Region." },
     facts: {
       de: ["Fluss- und Schwemmebene", "im Norden Kameruns", "zeitweise Überschwemmungen"],
@@ -342,7 +386,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-ES",
     coords: [14.5, 4.0],
-    name: { de: "Kadey-Hügelland", hu: "Kadey-dombság", ro: "Dealurile Kadey", en: "Kadey Hills" },
+    name: { de: "Kadey-Hügelland", hu: "Kadey-dombság", ro: "Dealurile Kadey", en: "Kadey Hills",
+image: "/poi-images/mount-kadey-relief-v2.webp"
+},
     description: { de: "Der Kadey-Raum im Osten Kameruns ist von Flüssen, Hügeln und Waldflächen geprägt. Das Relief wechselt hier zwischen Tiefland und sanften Erhebungen.", hu: "A Kadey térsége enyhén hullámos keleti dombvidék. Erdős és folyóvölgyes részek váltakoznak.", ro: "Relieful Kadey se află în estul Camerunului și se leagă de un bazin hidrografic important. Este un peisaj de tranziție între coline și zone împădurite.", en: "The Kadey area in the east combines rolling terrain and river basins. It belongs to the broader forested upland zone." },
     facts: {
       de: ["im Osten Kameruns", "Flüsse und Hügel", "wechselndes Relief"],
@@ -356,7 +402,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-CE",
     coords: [11.0, 3.5],
-    name: { de: "Nyong-Tiefland", hu: "Nyong-alföld", ro: "Câmpia Nyong", en: "Nyong Lowland" },
+    name: { de: "Nyong-Tiefland", hu: "Nyong-alföld", ro: "Câmpia Nyong", en: "Nyong Lowland",
+image: "/poi-images/mount-nyong-relief-v2.webp"
+},
     description: { de: "Das Nyong-Gebiet gehört zu den feuchten Flusslandschaften im Süden des Landes. Es ist durch breite Täler und dichten Wald gekennzeichnet.", hu: "A Nyong vidéke erdős, alacsony dombokból áll. A középső és déli Kamerun átmeneti tája.", ro: "Relieful Nyong urmărește valea unui râu important din centrul-sud al țării. Forma terenului este domoală și puternic legată de pădure.", en: "The Nyong area is a forested river landscape in southern Cameroon. Its relief is shaped by humid lowlands and drainage basins." },
     facts: {
       de: ["südlicher Flussraum", "breite Täler", "dichter Wald"],
@@ -369,7 +417,9 @@ export const poiExtraCameroonReliefV2: POI[] = [
     type: "relief",
     parent: "CM-ES",
     coords: [15.5, 2.5],
-    name: { de: "Sangha-Senke", hu: "Sangha-mélyedés", ro: "Depresiunea Sangha", en: "Sangha Depression" },
+    name: { de: "Sangha-Senke", hu: "Sangha-mélyedés", ro: "Depresiunea Sangha", en: "Sangha Depression",
+image: "/poi-images/mount-sangha-relief-v2.webp"
+},
     description: { de: "Der Sangha-Raum im Südosten Kameruns ist eine weite Wald- und Flusslandschaft. Das Relief bleibt dort niedrig und von Regenwald umgeben.", hu: "A Sangha vidéke mélyen erdős, alacsonyan fekvő táj. A déli határvidék természetes része.", ro: "Relieful Sangha aparține sud-estului Camerunului, aproape de marile păduri ecuatoriale. Zona este joasă, umedă și puternic împădurită.", en: "The Sangha area in the southeast is a low forested basin with broad river corridors. It belongs to Cameroon's southern rainforest zone." },
     facts: {
       de: ["im Südosten", "niedriges Relief", "Wald- und Flussraum"],

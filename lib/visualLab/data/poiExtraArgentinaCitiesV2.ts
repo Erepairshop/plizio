@@ -1,4 +1,4 @@
-﻿import type { POI } from "./poi";
+import type { POI } from "./poi";
 
 export const poiExtraArgentinaCitiesV2: POI[] = [
   {
@@ -6,8 +6,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital and largest city of Argentina, known for its European-style architecture and vibrant tango scene.",
       de: "Die Hauptstadt Argentiniens am Rio de la Plata ist das politische, wirtschaftliche und kulturelle Zentrum des Landes.",
       ro: "Buenos Aires este capitala Argentinei și un centru cultural vibrant, cunoscut pentru arhitectura sa europeană și viața de noapte intensă.",
-      hu: "Argentína fővárosa, az ország gazdasági és kulturális központja, amely a Río de la Plata torkolatánál fekszik. A város építészetére az európai, különösen a párizsi hatások a jellemzőek."
-    },
+      hu: "Argentína fővárosa, az ország gazdasági és kulturális központja, amely a Río de la Plata torkolatánál fekszik. A város építészetére az európai, különösen a párizsi hatások a jellemzőek.",
+image: "/poi-images/ar-c-buenos-aires-cities-v2.webp"
+},
     facts: { en: ["National capital",
       "Major port city",
       "Tango birthplace",
@@ -42,8 +43,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Buenos Aires Province, La Plata is a planned city famous for its unique grid layout and neo-Gothic cathedral.",
       de: "Die Hauptstadt der Provinz Buenos Aires ist bekannt für ihr streng schachbrettartiges Layout und ihre Parks.",
       ro: "La Plata este capitala provinciei Buenos Aires, faimoasă pentru planificarea sa urbană geometrică și universitatea de prestigiu.",
-      hu: "Buenos Aires tartomány székhelye, amelyet 1882-ben tervezett várossként alapítottak, sakktábla alaprajzzal és sugárutakkal. A város központjában található a monumentális neogótikus katedrális."
-    },
+      hu: "Buenos Aires tartomány székhelye, amelyet 1882-ben tervezett várossként alapítottak, sakktábla alaprajzzal és sugárutakkal. A város központjában található a monumentális neogótikus katedrális.",
+image: "/poi-images/ar-b-la-plata-cities-v2.webp"
+},
     facts: { en: ["Planned city founded in 1882", "Home to the Curutchet House by Le Corbusier", "Features one of the largest cathedrals in South America"],
       de: ["Hauptstadt der Provinz Buenos Aires", "Bedeutendes Zentrum für Wissenschaft", "Sitz einer renommierten Universität", "Geplante Stadt des 19. Jahrhunderts"],
       ro: ["Oraș planificat în formă de grilă", "Fondat la 19 noiembrie 1882", "Găzduiește un important muzeu de științe naturale", "Centru administrativ major"],
@@ -75,8 +77,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Argentina's premier seaside resort on the Atlantic coast, known for its beautiful beaches, vibrant nightlife, and grand casino.",
       de: "Das wichtigste Seebad Argentiniens an der Atlantikküste ist ein Zentrum des Tourismus und der Fischerei.",
       ro: "Mar del Plata este cea mai cunoscută stațiune de pe litoralul argentinian, oferind plaje extinse și o arhitectură istorică remarcabilă.",
-      hu: "Argentína legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján, amely egész évben aktív kikötővel rendelkezik. Híres a kaszinóiról és a széles homokos strandjairól."
-    },
+      hu: "Argentína legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján, amely egész évben aktív kikötővel rendelkezik. Híres a kaszinóiról és a széles homokos strandjairól.",
+image: "/poi-images/ar-b-mar-del-plata-cities-v2.webp"
+},
     facts: { en: ["Major fishing port on the Atlantic", "Host of an international film festival", "Known for its distinctive Belle Époque architecture"],
       de: ["Größter Badeort des Landes", "Wichtiger Fischereihafen", "Bekannt für Kasinos und Theater", "Ziel von Millionen Sommertouristen"],
       ro: ["Principalul oraș balnear al țării", "Peste 600.000 de locuitori permanenți", "Cunoscut pentru cazinoul său emblematic", "Centru important pentru pescuit"],
@@ -108,8 +111,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "An important port city and industrial hub in the south of Buenos Aires Province, acting as a gateway to the Patagonian region.",
       de: "Die Hafenstadt im Süden der Provinz Buenos Aires ist ein bedeutendes Tor zum Atlantik und Industriezentrum.",
       ro: "Bahía Blanca este un oraș portuar strategic din sudul provinciei Buenos Aires, fiind un centru comercial și industrial esențial.",
-      hu: "Fontos kikötőváros Argentína déli részén, Buenos Aires tartományban, amely a mezőgazdasági termékek exportjának egyik központja. A várostól nem messze található a mélyvízi Ingeniero White kikötő."
-    },
+      hu: "Fontos kikötőváros Argentína déli részén, Buenos Aires tartományban, amely a mezőgazdasági termékek exportjának egyik központja. A várostól nem messze található a mélyvízi Ingeniero White kikötő.",
+image: "/poi-images/ar-b-bahia-blanca-cities-v2.webp"
+},
     facts: { en: ["Deep-water port on the Atlantic Ocean", "Major center for the petrochemical industry", "Known for its strong basketball tradition"],
       de: ["Bedeutender Seehafen", "Zentrum der petrochemischen Industrie", "Wichtiger Eisenbahnknotenpunkt", "Sitz der Nationalen Universität des Südens"],
       ro: ["Port maritim natural adânc", "Nod feroviar și rutier major", "Fondat ca fortăreață în 1828", "Pol industrial petrochimic"],
@@ -141,8 +145,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A charming city located in the ancient Tandilia hills, famous for its scenic landscapes and the historic 'moving stone'.",
       de: "Diese Stadt im Landesinneren ist berühmt für ihre umliegenden Hügelketten und handwerkliche Lebensmittelproduktion.",
       ro: "Tandil este un oraș situat într-o zonă deluroasă pitorească, renumit pentru peisajele sale naturale și produsele lactate artizanale.",
-      hu: "A Tandilia-hegység lábánál fekvő város, amely a mezőgazdaságáról és a minőségi kézműves élelmiszereiről, különösen a kolbászféléiről ismert. Népszerű célpont a természetkedvelők számára."
-    },
+      hu: "A Tandilia-hegység lábánál fekvő város, amely a mezőgazdaságáról és a minőségi kézműves élelmiszereiről, különösen a kolbászféléiről ismert. Népszerű célpont a természetkedvelők számára.",
+image: "/poi-images/ar-b-tandil-cities-v2.webp"
+},
     facts: { en: ["Surrounded by one of the world's oldest mountain ranges", "Renowned for its production of artisanal cheeses and salamis", "Popular destination for trekking and outdoor activities"],
       de: ["Bekannt für Wurst- und Käsespezialitäten", "Umgeben von den Tandilia-Hügeln", "Beliebtes Ziel für Trekking", "Standort der Universidad del Centro"],
       ro: ["Faimos pentru „Piatra Mișcătoare”", "Destinație populară pentru turism rural", "Situat în sistemul muntos Tandilia", "Fondat în anul 1823"],
@@ -174,8 +179,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A historic industrial city located within the Greater Buenos Aires metropolitan area.",
       de: "Ein bedeutendes Industrie- und Wohnzentrum im Ballungsraum Gran Buenos Aires mit langer Brautradition.",
       ro: "Quilmes este un oraș istoric din zona metropolitană Buenos Aires, cunoscut la nivel mondial pentru marca de bere care îi poartă numele.",
-      hu: "Buenos Aires nagyvárosi területének része, amely az azonos nevű híres sörgyárról ismert. Történelmileg egy őshonos közösség települése volt, mielőtt modern ipari várossá vált."
-    },
+      hu: "Buenos Aires nagyvárosi területének része, amely az azonos nevű híres sörgyárról ismert. Történelmileg egy őshonos közösség települése volt, mielőtt modern ipari várossá vált.",
+image: "/poi-images/ar-b-quilmes-cities-v2.webp"
+},
     facts: { en: ["Historic settlement",
       "Major brewery center",
       "River Plate access",
@@ -210,8 +216,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A large residential and commercial city within the Greater Buenos Aires metropolitan area, featuring historic architecture and parks.",
       de: "Ein dicht besiedeltes Wohn- und Handelszentrum südlich der Hauptstadt Buenos Aires.",
       ro: "Lomas de Zamora este un centru urban important la sud de capitală, servind ca nod comercial și administrativ regional.",
-      hu: "Sűrűn lakott lakóövezet Buenos Aires déli részén, amely számos zöld területtel és jelentős kereskedelmi központtal rendelkezik. A város a régió egyik leggyorsabban fejlődő adminisztratív központja."
-    },
+      hu: "Sűrűn lakott lakóövezet Buenos Aires déli részén, amely számos zöld területtel és jelentős kereskedelmi központtal rendelkezik. A város a régió egyik leggyorsabban fejlődő adminisztratív központja.",
+image: "/poi-images/ar-b-lomas-de-zamora-cities-v2.webp"
+},
     facts: { en: ["Significant railway hub in the southern suburbs", "Home to the historic Lomas Athletic Club", "Part of a key industrial corridor"],
       de: ["Großes Handelszentrum", "Teil des Ballungsraums Gran Buenos Aires", "Wichtiger Verkehrsknotenpunkt", "Sitz zahlreicher Bildungseinrichtungen"],
       ro: ["Parte din zona Marelui Buenos Aires", "Găzduiește o universitate națională", "Zonă rezidențială și comercială dezvoltată", "Fondat oficial în 1861"],
@@ -243,8 +250,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "An affluent northern suburb of Buenos Aires, known for its colonial heritage and riverside mansions.",
       de: "Ein eleganter Vorort von Buenos Aires, der für seinen historischen Charme und seine exklusiven Wohngebiete bekannt ist.",
       ro: "San Isidro este unul dintre cele mai elegante cartiere din nordul zonei metropolitane, renumit pentru centrul său istoric și hipodrom.",
-      hu: "Előkelő lakóövezet Buenos Aires északi részén, amely a Río de la Plata partja mentén terül el. A várost történelmi épületei és a folyóparti kikötői jellemzik."
-    },
+      hu: "Előkelő lakóövezet Buenos Aires északi részén, amely a Río de la Plata partja mentén terül el. A várost történelmi épületei és a folyóparti kikötői jellemzik.",
+image: "/poi-images/ar-b-san-isidro-cities-v2.webp"
+},
     facts: { en: ["Colonial architecture",
       "Riverside location",
       "Affluent suburb",
@@ -279,8 +287,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Located on the banks of the Paraná River, this city is a major industrial center and a significant religious pilgrimage site.",
       de: "Eine wichtige Industriestadt am Ufer des Paraná-Flusses, bekannt für ihre Stahlproduktion und religiöse Bedeutung.",
       ro: "San Nicolás este un oraș industrial și religios pe malul râului Paraná, fiind un punct important de pelerinaj catolic.",
-      hu: "Fontos ipari és kikötőváros a Paraná-folyó partján, amely történelmi jelentőséggel bír az argentin alkotmányozás folyamatában. Az ipar mellett a folyami hajózás is meghatározó szerepet tölt be."
-    },
+      hu: "Fontos ipari és kikötőváros a Paraná-folyó partján, amely történelmi jelentőséggel bír az argentin alkotmányozás folyamatában. Az ipar mellett a folyami hajózás is meghatározó szerepet tölt be.",
+image: "/poi-images/ar-b-san-nicolas-de-los-arroyos-cities-v2.webp"
+},
     facts: { en: ["Home to the Sanctuary of Our Lady of the Rosary", "Site of a major steel manufacturing plant", "Played a key role in the 1853 Constitution agreement"],
       de: ["Bedeutendes Zentrum der Stahlindustrie", "Wichtiger Hafen am Rio Paraná", "Religiöser Wallfahrtsort", "Strategische Lage zwischen Buenos Aires und Rosario"],
       ro: ["Locul semnării Acordului San Nicolás în 1852", "Centru siderurgic major", "Găzduiește Sanctuarul Fecioarei din San Nicolás", "Port fluvial activ pe Paraná"],
@@ -312,8 +321,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A bustling industrial and residential city in Greater Buenos Aires, known for its strong community identity and sports passion.",
       de: "Ein dynamisches Industrie- und Wohngebiet im Süden des Großraums Buenos Aires.",
       ro: "Lanús este un oraș industrial și rezidențial dens populat, situat la sud de Buenos Aires, cu o puternică tradiție sportivă.",
-      hu: "Ipari és lakóváros a Buenos Aires-i agglomeráció déli övezetében. A terület a 20. század során fejlődött nagyvárosi központtá, és ma jelentős népességgel bír."
-    },
+      hu: "Ipari és lakóváros a Buenos Aires-i agglomeráció déli övezetében. A terület a 20. század során fejlődött nagyvárosi központtá, és ma jelentős népességgel bír.",
+image: "/poi-images/ar-b-lanus-cities-v2.webp"
+},
     facts: { en: ["Major center for the leather and textile industries", "Home to the prominent Club Atlético Lanús", "Densely populated urban area near the capital"],
       de: ["Starker industrieller Sektor", "Dicht besiedeltes Stadtgebiet", "Teil des Ballungsraums Buenos Aires", "Bekannter lokaler Fußballclub"],
       ro: ["Inimă industrială a regiunii", "Orașul natal al multor fotbaliști celebri", "Populație numeroasă și diversă", "Nod de transport feroviar important"],
@@ -345,8 +355,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Formally San Fernando del Valle de Catamarca, this city sits in a mountain valley and is known for its colonial architecture and weaving.",
       de: "Die Hauptstadt der Provinz Catamarca liegt in einem Gebirgstal und ist für ihre Textiltradition bekannt.",
       ro: "San Fernando del Valle de Catamarca este situat într-o vale montană și este renumit pentru prelucrarea artizanală a lânii de vicuña.",
-      hu: "San Fernando del Valle de Catamarca tartományi székhely az Andok lábánál, amely a gyarmati korból megőrzött vallási épületeiről ismert. A régió fontos kulturális és közigazgatási centruma."
-    },
+      hu: "San Fernando del Valle de Catamarca tartományi székhely az Andok lábánál, amely a gyarmati korból megőrzött vallási épületeiről ismert. A régió fontos kulturális és közigazgatási centruma.",
+image: "/poi-images/ar-k-catamarca-cities-v2.webp"
+},
     facts: { en: ["Capital of the Catamarca Province", "Famed for the Virgin of the Valley sanctuary", "Center for traditional hand-woven poncho production"],
       de: ["Hauptstadt der Provinz Catamarca", "Berühmt für handgewebte Ponchos", "Umgeben von den Andenausläufern", "Bedeutendes Bergbauzentrum in der Region"],
       ro: ["Capitala provinciei Catamarca", "Fondat în 1683 de Fernando de Mendoza", "Cunoscut pentru Catedrala Basilică", "Centru agricol și minier regional"],
@@ -378,8 +389,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Known as the 'Cradle of the Poncho', Belén is a historic town in Catamarca surrounded by rugged mountain scenery.",
       de: "Eine historische Stadt in der Provinz Catamarca, die als Wiege des Ponchos gilt.",
       ro: "Belén este considerat capitala argentiniană a țesutului artizanal, fiind un oraș cu rădăcini istorice adânci în provincia Catamarca.",
-      hu: "Catamarca tartomány egyik történelmi városa, amelyet a helyi kézműves szőttesek és a prekolumbián örökség tesz különlegessé. Az Andok lábánál található település nyugodt hangulatú."
-    },
+      hu: "Catamarca tartomány egyik történelmi városa, amelyet a helyi kézműves szőttesek és a prekolumbián örökség tesz különlegessé. Az Andok lábánál található település nyugodt hangulatú.",
+image: "/poi-images/ar-k-belen-cities-v2.webp"
+},
     facts: { en: ["Famous for high-quality vicuña and llama wool textiles", "Founded in 1681 in the Belén Valley", "Strategic stop on the legendary Route 40"],
       de: ["Zentrum der traditionellen Webkunst", "Tor zur Hochebene (Puna)", "Historischer Siedlungsort", "Umgeben von Weinbergen und Bergen"],
       ro: ["Supranumit Cuna del Poncho (Leagănul Poncho-ului)", "Cel mai vechi oraș din provincie", "Situat pe faimoasa rută 40", "Poartă de acces către situri arheologice"],
@@ -411,8 +423,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A picturesque town located at the foot of the Aconquija mountains, known for its mining history and agricultural production.",
       de: "Eine Bergbaustadt am Fuße der Aconquija-Berge, bekannt für den Abbau von Rhodochrosit.",
       ro: "Andalgalá este un oraș situat la poalele munților Aconquija, cunoscut pentru activitățile miniere și producția de măsline.",
-      hu: "Kisebb város Catamarca tartományban, amely a környező völgyek mezőgazdasági termeléséről és az ásványi forrásokról ismert. Fontos szerepet játszik a helyi bortermelésben."
-    },
+      hu: "Kisebb város Catamarca tartományban, amely a környező völgyek mezőgazdasági termeléséről és az ásványi forrásokról ismert. Fontos szerepet játszik a helyi bortermelésben.",
+image: "/poi-images/ar-k-andalgala-cities-v2.webp"
+},
     facts: { en: ["Center for rhodochrosite gemstone mining", "Major producer of walnuts and olives", "Located near the scenic Cuesta de la Chilca"],
       de: ["Zentrum des Rhodochrosit-Abbaus", "Gelegen in einem fruchtbaren Tal", "Ausgangspunkt für Andenexpeditionen", "Wichtige Agrarproduktion"],
       ro: ["Al doilea oraș ca mărime din Catamarca", "Important centru de extracție a rodocrozitului", "Climat arid cu sol fertil pentru fructe", "Fondat în 1658 ca fort militar"],
@@ -444,8 +457,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Chaco Province, Resistencia is celebrated as the 'City of Sculptures' with hundreds of artworks displayed on its streets.",
       de: "Die Hauptstadt der Provinz Chaco ist als 'Stadt der Skulpturen' bekannt und liegt am Rio Paraná.",
       ro: "Resistencia este capitala provinciei Chaco, fiind celebră pentru sutele de sculpturi expuse pe străzile sale publice.",
-      hu: "Chaco tartomány székhelye, amelyet 'a szobrok városának' neveznek a köztereken kiállított számos alkotás miatt. Fontos gazdasági és kereskedelmi központ Észak-Argentínában."
-    },
+      hu: "Chaco tartomány székhelye, amelyet 'a szobrok városának' neveznek a köztereken kiállított számos alkotás miatt. Fontos gazdasági és kereskedelmi központ Észak-Argentínában.",
+image: "/poi-images/ar-h-resistencia-cities-v2.webp"
+},
     facts: { en: ["Hosts the International Sculpture Biennial", "Major cultural and economic hub of the Chaco region", "Known for its extensive urban forest and parks"],
       de: ["Über 600 Skulpturen im Stadtbild", "Hauptstadt der Provinz Chaco", "Wirtschaftliches Zentrum im Nordosten", "Heißes, subtropisches Klima"],
       ro: ["Cunoscut drept Orașul Sculpturilor", "Capitala provinciei Chaco", "Centru comercial major în nord-est", "Găzduiește Bienala Internațională de Sculptură"],
@@ -477,8 +491,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The second-largest city in Chaco, known for its thermal baths and as a central hub for the regional cotton industry.",
       de: "Die zweitgrößte Stadt der Provinz Chaco ist ein wichtiges Zentrum für Thermalbäder und Landwirtschaft.",
       ro: "Sáenz Peña este al doilea oraș ca mărime din Chaco, fiind recunoscut pentru apele sale termale și producția de bumbac.",
-      hu: "Chaco tartomány második legnagyobb városa, amely a környékbeli mezőgazdasági termelés központja. A városról a híres termálvizes fürdője is ismert."
-    },
+      hu: "Chaco tartomány második legnagyobb városa, amely a környékbeli mezőgazdasági termelés központja. A városról a híres termálvizes fürdője is ismert.",
+image: "/poi-images/ar-h-presidencia-roque-saenz-pena-cities-v2.webp"
+},
     facts: { en: ["Home to the popular Termas de Sáenz Peña", "Nicknamed the 'Cotton Capital' of Argentina", "Features a prominent zoo and botanical garden"],
       de: ["Zentrum des Baumwollanbaus", "Bekannt für heiße Thermalquellen", "Zentraler Verkehrsknotenpunkt im Chaco", "Wirtschaftlicher Motor der Region"],
       ro: ["Centru al regiunii bumbacului", "Găzduiește complexe termale moderne", "Nod rutier strategic în regiune", "Fondat în 1912"],
@@ -510,8 +525,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A key commercial city in the southwest of Chaco Province, known for its agriculture and vibrant carnival celebrations.",
       de: "Die drittgrößte Stadt der Provinz Chaco, bekannt für ihre lebendige Gemeinschaft und landwirtschaftliche Bedeutung.",
       hu: "Chaco tartomány délnyugati részének központja, amely jelentős gyapotfeldolgozó iparral és mezőgazdasággal rendelkezik. A város kulturális életének kiemelkedő eseménye a helyi karnevál.",
-      ro: "Villa Ángela este un centru agricol și industrial important în provincia Chaco, cunoscut pentru diversitatea sa culturală."
-    },
+      ro: "Villa Ángela este un centru agricol și industrial important în provincia Chaco, cunoscut pentru diversitatea sa culturală.",
+image: "/poi-images/ar-h-villa-angela-cities-v2.webp"
+},
     facts: { en: ["Major center for sunflower and cotton production", "Famous for its energetic annual carnival parades", "Important logistical hub for the southern Chaco"],
       de: ["Wirtschaftszentrum im Südwesten des Chaco", "Bekannt für den 'Karneval der Skulpturen'", "Zentrum der Agrar- und Viehwirtschaft", "Vielseitige kulturelle Einflüsse"],
       hu: ["Gyapottermelés központja", "Híres tartományi karnevál", "Kezdetben mezőgazdasági kolónia", "Sokszínű bevándorló közösség"],
@@ -543,8 +559,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The administrative capital of Chubut Province, located near the Atlantic coast where the Chubut River meets the sea.",
       de: "Die Hauptstadt der Provinz Chubut an der Atlantikküste, bekannt für ihren Fischereihafen und Regierungsgebäude.",
       hu: "Chubut tartomány székhelye, amely az Atlanti-óceán partján, a Chubut-folyó torkolatánál fekszik. Fontos közigazgatási központ és halászkikötővel rendelkezik.",
-      ro: "Rawson este capitala administrativă a provinciei Chubut, situată aproape de coasta atlantică și gura de vărsare a râului Chubut."
-    },
+      ro: "Rawson este capitala administrativă a provinciei Chubut, situată aproape de coasta atlantică și gura de vărsare a râului Chubut.",
+image: "/poi-images/ar-u-rawson-cities-v2.webp"
+},
     facts: { en: ["Founded by Welsh settlers in 1865", "Home to the provincial government offices", "Located near the Playa Unión beach resort"],
       de: ["Hauptstadt der Provinz Chubut", "Bedeutender Hafen (Puerto Rawson)", "Gegründet von walisischen Siedlern", "Verwaltungszentrum der Region"],
       hu: ["Chubut tartomány fővárosa", "Híres tengeri elefánt kolónia a közelben", "Walesi telepesek alapították", "Jelentős garnélarák-halászat"],
@@ -576,8 +593,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The largest city in Chubut, Comodoro Rivadavia is a vital industrial center known for its oil production and coastal winds.",
       de: "Die größte Stadt in Zentralpatagonien und das wichtigste Zentrum der argentinischen Erdölindustrie.",
       hu: "Patagónia egyik legnagyobb városa, amely az ország olajfővárosaként ismert. Az Atlanti-óceán partján, a San Jorge-öbölben fekszik, hegyekkel körülvéve.",
-      ro: "Comodoro Rivadavia este cel mai mare oraș din provincia Chubut și capitala națională a petrolului în Argentina."
-    },
+      ro: "Comodoro Rivadavia este cel mai mare oraș din provincia Chubut și capitala națională a petrolului în Argentina.",
+image: "/poi-images/ar-u-comodoro-rivadavia-cities-v2.webp"
+},
     facts: { en: ["The birthplace of the Argentine oil industry", "Strategic port on the San Jorge Gulf", "Surrounded by the iconic Chenque Hill"],
       de: ["Hauptstadt des argentinischen Erdöls", "Größte Stadt der Provinz Chubut", "Wichtiger Seehafen am Atlantik", "Gelegen am Fuße des Chenque-Berges"],
       hu: ["Argentína kőolajiparának központja", "Fontos egyetemi város", "Szeles, mérsékelt éghajlat", "Híres a szélenergiaparkjáról"],
@@ -609,8 +627,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A major city in the Chubut Valley founded by Welsh settlers, known for its paleontological museum and commercial importance.",
       de: "Ein bedeutendes kulturelles und kommerzielles Zentrum im Chubut-Tal, geprägt von walisischen Einflüssen.",
       hu: "Fontos kereskedelmi és ipari központ Patagóniában, a Chubut-völgyben. A város híres paleontológiai múzeumáról és walesi gyökereiről.",
-      ro: "Trelew este un oraș comercial și industrial important în valea inferioară a râului Chubut, cu o puternică moștenire galeză."
-    },
+      ro: "Trelew este un oraș comercial și industrial important în valea inferioară a râului Chubut, cu o puternică moștenire galeză.",
+image: "/poi-images/ar-u-trelew-cities-v2.webp"
+},
     facts: { en: ["Home to the MEF Paleontological Museum", "Founded as a railhead for the Central Chubut Railway", "Key hub for the region's textile industry"],
       de: ["Zentrum der walisischen Kolonisation", "Heimat des Paläontologischen Museums Egidio Feruglio", "Wichtiger Verkehrsknotenpunkt in Patagonien", "Bedeutende Textilindustrie"],
       hu: ["Egidio Feruglio Paleontológiai Múzeum", "Walesi kulturális örökség", "Fontos textilipari központ", "Közel fekszik a tengerparthoz"],
@@ -642,8 +661,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A popular coastal city on the Golfo Nuevo, famous as a gateway to Peninsula Valdés for whale watching and wildlife tourism.",
       de: "Eine Küstenstadt am Golfo Nuevo, weltberühmt für Walbeobachtungen und maritimes Leben.",
       hu: "Népszerű turisztikai célpont az Atlanti-óceán partján, a Valdés-félsziget kapuja. A város leginkább a part mentén megfigyelhető bálnákról híres.",
-      ro: "Puerto Madryn este poarta de acces către Peninsula Valdés și o destinație de top pentru observarea balenelor în Argentina."
-    },
+      ro: "Puerto Madryn este poarta de acces către Peninsula Valdés și o destinație de top pentru observarea balenelor în Argentina.",
+image: "/poi-images/ar-u-puerto-madryn-cities-v2.webp"
+},
     facts: { en: ["One of the world's best spots for Southern Right Whale watching", "Founded by Welsh immigrants in 1865", "Major center for scuba diving and marine activities"],
       de: ["Tor zur Halbinsel Valdés", "Weltzentrum für Walbeobachtungen", "Tauchhauptstadt Argentiniens", "Wichtiger Aluminiumproduktionsstandort"],
       hu: ["Bálnaleső túrák központja", "UNESCO világörökségi helyszín közelében", "Walesi telepesek alapították 1865-ben", "Kiváló búvárhelyek"],
@@ -675,8 +695,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A picturesque town in the foothills of the Andes, serving as a base for exploring the Los Alerces National Park and skiing.",
       de: "Eine malerische Bergstadt in den Anden, bekannt als Ausgangspunkt für den historischen Dampfzug 'La Trochita'.",
       hu: "Az Andok lábánál fekvő város Chubut tartomány nyugati részén. Fontos turisztikai központ, különösen a síelés és a közeli Los Alerces Nemzeti Park miatt.",
-      ro: "Esquel este un oraș pitoresc situat la poalele Anzilor, fiind un centru turistic important pentru sporturile de iarnă și natură."
-    },
+      ro: "Esquel este un oraș pitoresc situat la poalele Anzilor, fiind un centru turistic important pentru sporturile de iarnă și natură.",
+image: "/poi-images/ar-u-esquel-cities-v2.webp"
+},
     facts: { en: ["Home to the historic 'La Trochita' steam train", "Gateway to the UNESCO-listed Los Alerces National Park", "Popular winter sports destination at La Hoya"],
       de: ["Endstation des Zugs 'La Trochita'", "Nähe zum Nationalpark Los Alerces", "Beliebtes Wintersportgebiet (La Hoya)", "Umgeben von Bergen und Seen"],
       hu: ["La Trochita nosztalgiavonat végállomása", "Közeli La Hoya síközpont", "Los Alerces Nemzeti Park kapuja", "Hegyvidéki klíma"],
@@ -708,8 +729,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Argentina's second-largest city, Córdoba is a vibrant cultural hub known for its colonial history, universities, and surrounding hills.",
       de: "Die zweitgrößte Stadt Argentiniens, ein bedeutendes Zentrum für Bildung, Industrie und Kultur mit reichem Erbe.",
       hu: "Argentína második legnagyobb városa, gazdag gyarmati múlttal és élénk egyetemi élettel. Itt található az ország legrégebbi egyeteme és számos jezsuita épület.",
-      ro: "Córdoba este al doilea oraș ca mărime din Argentina, un amestec vibrant de arhitectură colonială și viață studențească energică."
-    },
+      ro: "Córdoba este al doilea oraș ca mărime din Argentina, un amestec vibrant de arhitectură colonială și viață studențească energică.",
+image: "/poi-images/ar-x-cordoba-cities-v2.webp"
+},
     facts: { en: ["Home to the oldest university in Argentina", "Features the UNESCO-listed Jesuit Block", "Known for its lively 'cuarteto' music and nightlife"],
       de: ["Heimat der ältesten Universität des Landes", "Wichtiges Zentrum der Automobilindustrie", "Bekannt für den Jesuitenblock (Weltkulturerbe)", "Lebendige Studentenstadt"],
       hu: ["1573-ban alapították", "Az ország kulturális és oktatási központja", "Híres jezsuita negyed (Világörökség)", "A Cuarteto zenei stílus szülőhelye"],
@@ -741,8 +763,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "An important commercial and agricultural city in the south of Córdoba Province, often referred to as the 'Empire of the South'.",
       de: "Ein wichtiges kommerzielles und landwirtschaftliches Zentrum im Süden der Provinz Córdoba.",
       hu: "Córdoba tartomány déli részének gazdasági központja, amelyet a 'Birodalom' néven is emlegetnek. Jelentős mezőgazdasági kereskedelmi és oktatási centrum.",
-      ro: "Río Cuarto este un centru agricol și comercial vital în sudul provinciei Córdoba, fiind supranumit Imperiul Sudului."
-    },
+      ro: "Río Cuarto este un centru agricol și comercial vital în sudul provinciei Córdoba, fiind supranumit Imperiul Sudului.",
+image: "/poi-images/ar-x-rio-cuarto-cities-v2.webp"
+},
     facts: { en: ["Major center for corn and soy production", "Home to the National University of Río Cuarto", "Strategic transport hub in central Argentina"],
       de: ["Handelsknotenpunkt für Agrarprodukte", "Sitz einer bedeutenden Nationaluniversität", "Wichtigste Stadt im Süden der Provinz", "Zentrum der Rinderzucht"],
       hu: ["Fontos agrár-ipari terület", "Saját állami egyetem", "A Rio Cuarto folyó partján fekszik", "Dél-Córdoba kereskedelmi kapuja"],
@@ -774,8 +797,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A modern and thriving city in central Córdoba, known for its dairy industry and the popular Festival of Festivals.",
       de: "Eine dynamische Stadt am Ufer des Rio Tercero, bekannt für ihre Milchindustrie und ihr internationales Musikfestival.",
       hu: "Dinamikusan fejlődő város Córdoba tartomány központjában, amely mezőgazdasági és élelmiszeripari jelentősége mellett nagyszabású zenei fesztiváljáról ismert.",
-      ro: "Villa María este unul dintre cele mai prospere orașe din Córdoba, cunoscut pentru industria sa lactată și festivalurile de muzică."
-    },
+      ro: "Villa María este unul dintre cele mai prospere orașe din Córdoba, cunoscut pentru industria sa lactată și festivalurile de muzică.",
+image: "/poi-images/ar-x-villa-maria-cities-v2.webp"
+},
     facts: { en: ["Hosts the massive National Festival of Peñas", "One of the most important dairy basins in the country", "Located along the vital CTalamochita River"],
       de: ["Bedeutendes Zentrum der Milchproduktion", "Bekannt für das 'Festival Internacional de Peñas'", "Wichtiger Bildungsstandort", "Strategische Lage an der Route nach Rosario"],
       hu: ["Országos Népművészeti Fesztivál", "Tejipar egyik központja", "Modern infrastruktúra", "Fontos közlekedési csomópont"],
@@ -807,8 +831,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A premier tourist destination on the shores of Lake San Roque, famous for its summer theater and scenic mountain landscapes.",
       de: "Einer der beliebtesten Touristenorte Argentiniens am San-Roque-See, bekannt für sein Unterhaltungsangebot.",
       hu: "Argentína egyik legnépszerűbb belföldi turisztikai központja a San Roque-tó partján. Híres színházi életéről és vízi sportolási lehetőségeiről.",
-      ro: "Villa Carlos Paz este principala destinație turistică a provinciei Córdoba, situată pe malul lacului de acumulare San Roque."
-    },
+      ro: "Villa Carlos Paz este principala destinație turistică a provinciei Córdoba, situată pe malul lacului de acumulare San Roque.",
+image: "/poi-images/ar-x-villa-carlos-paz-cities-v2.webp"
+},
     facts: { en: ["Famous for its iconic Cuckoo Clock monument", "Major hub for summer theater and entertainment", "Gateway to the beautiful Punilla Valley"],
       de: ["Wichtigstes Touristenzentrum der Sierras de Córdoba", "Bekannt für Theateraufführungen und Nachtleben", "Wassersport am San-Roque-See", "Heimat des berühmten Kuckucksuhr-Denkmals"],
       hu: ["Intenzív nyári színházi szezon", "Hatalmas kakukkos óra a főtéren", "A Punilla-völgy bejárata", "San Roque-gát és víztározó"],
@@ -840,8 +865,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A productive city on the border between Córdoba and Santa Fe, known for its diverse industries and agricultural strength.",
       de: "Eine Industriestadt an der Grenze zur Provinz Santa Fe, bekannt für ihre Maschinenbauproduktion.",
       hu: "Córdoba tartomány keleti határán fekvő város, amely fontos ipari és mezőgazdasági központ. A környék tejtermeléséről és gépgyártásáról nevezetes.",
-      ro: "San Francisco este un oraș industrial situat la granița dintre provinciile Córdoba și Santa Fe, în inima regiunii de producție a laptelui."
-    },
+      ro: "San Francisco este un oraș industrial situat la granița dintre provinciile Córdoba și Santa Fe, în inima regiunii de producție a laptelui.",
+image: "/poi-images/ar-x-san-francisco-cities-v2.webp"
+},
     facts: { en: ["Founded as an agricultural colony in 1886", "Key center for metalworking and food industries", "Located on a major national highway crossroads"],
       de: ["Wichtiges Zentrum der Metallindustrie", "Knotenpunkt des Landwirtschaftshandels", "Geprägt durch italienische Einwanderung", "Strategische Lage im Osten der Provinz"],
       hu: ["Tejipari övezet központja", "Erős olasz bevándorló gyökerek", "Határváros Santa Fe tartománnyal", "Műszaki egyetemi kar"],
@@ -873,8 +899,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Corrientes Province, located on the banks of the Paraná River and known for its colonial charm and carnivals.",
       de: "Die älteste Stadt im Nordosten Argentiniens, bekannt für ihren Karneval und die Lage am Rio Paraná.",
       hu: "Corrientes tartomány székhelye a Paraná folyó partján, amely gyarmati stílusú építészetéről és nagyszabású karneváljáról híres. Az ország egyik legrégebbi városa.",
-      ro: "Corrientes este unul dintre cele mai vechi orașe din Argentina, situat pe malul înalt al râului Paraná, faimos pentru carnavalul său."
-    },
+      ro: "Corrientes este unul dintre cele mai vechi orașe din Argentina, situat pe malul înalt al râului Paraná, faimos pentru carnavalul său.",
+image: "/poi-images/ar-w-corrientes-cities-v2.webp"
+},
     facts: { en: ["One of the oldest cities in Argentina", "Famous for its elaborate and colorful carnival celebrations", "Features a scenic waterfront 'costanera' walkway"],
       de: ["Karnevalshauptstadt Argentiniens", "Gegründet im Jahr 1588", "Wichtigster Hafen am oberen Rio Paraná", "Zentrum der Chamamé-Musik"],
       hu: ["A Karnevál Nemzeti Fővárosa", "1588-ban alapították", "Hosszú folyóparti sétány (Costanera)", "Jelentős egyetemi központ"],
@@ -906,8 +933,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The second-largest city in Corrientes, Goya is a river port famous for its tobacco industry and sport fishing.",
       de: "Die zweitgrößte Stadt der Provinz Corrientes, bekannt für ihre Tabakindustrie und den Fischfang.",
       hu: "Corrientes tartomány második legnagyobb városa, amely dohánytermesztéséről és a Paraná folyón rendezett horgászversenyeiről ismert.",
-      ro: "Goya este al doilea oraș ca mărime din provincia Corrientes, renumit pentru industria tutunului și pescuitul sportiv."
-    },
+      ro: "Goya este al doilea oraș ca mărime din provincia Corrientes, renumit pentru industria tutunului și pescuitul sportiv.",
+image: "/poi-images/ar-w-goya-cities-v2.webp"
+},
     facts: { en: ["Hosts the prestigious Surubí National Festival", "Major center for the tobacco processing industry", "Founded in the late 18th century as a river port"],
       de: ["Zentrum der Tabakproduktion", "Heimat des internationalen Surubí-Angelwettbewerbs", "Bedeutende Flusshafenstadt", "Historische Architektur am Flussufer"],
       hu: ["Országos Surubí (hal) Fesztivál", "Fontos dohányipar", "Gyarmati építészeti emlékek", "Folyami kikötő"],
@@ -939,8 +967,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A strategic border city on the Uruguay River, connected by an international bridge to the Brazilian city of Uruguaiana.",
       de: "Eine wichtige Grenzstadt zu Brasilien am Rio Uruguay mit intensiven Handelsbeziehungen.",
       hu: "Határváros Corrientes tartományban, az Uruguay folyó partján, közvetlenül Brazíliával szemben. Fontos közúti és vasúti átkelőhely a két ország között.",
-      ro: "Paso de los Libres este un oraș de frontieră strategic pe râul Uruguay, conectând Argentina de Brazilia prin podul internațional."
-    },
+      ro: "Paso de los Libres este un oraș de frontieră strategic pe râul Uruguay, conectând Argentina de Brazilia prin podul internațional.",
+image: "/poi-images/ar-w-paso-de-los-libres-cities-v2.webp"
+},
     facts: { en: ["Major international trade hub with Brazil", "Birthplace of President Arturo Frondizi", "Home to the oldest carnival in Argentina"],
       de: ["Wichtiger Grenzübergang nach Brasilien", "Strategischer Handelsstandort", "Bekannt für grenzüberschreitenden Karneval", "Lage am Ufer des Rio Uruguay"],
       hu: ["Nemzetközi híd Brazíliába", "Kereskedelmi és vámközpont", "Élénk határmenti kultúra", "Karneváli hagyományok"],
@@ -972,8 +1001,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A historic city in southern Corrientes, founded by Manuel Belgrano and known as the 'Cradle of the Chamamé'.",
       de: "Eine historische Stadt im Süden der Provinz Corrientes, bekannt als 'Stadt des Rechts'.",
       hu: "A 'Belső Corrientes' központja, amelyet Manuel Belgrano tábornok alapított. A város híres zenei hagyományairól és mezőgazdasági vásárairól.",
-      ro: "Curuzú Cuatiá este un oraș cu o istorie bogată în provincia Corrientes, fiind primul oraș fondat de guvernul național după revoluție."
-    },
+      ro: "Curuzú Cuatiá este un oraș cu o istorie bogată în provincia Corrientes, fiind primul oraș fondat de guvernul național după revoluție.",
+image: "/poi-images/ar-w-curuzu-cuatia-cities-v2.webp"
+},
     facts: { en: ["First city founded by a native Argentine government", "Important center for the regional cattle industry", "Strong traditions in Chamamé folk music"],
       de: ["Gegründet von General Manuel Belgrano", "Bedeutendes Zentrum der Schafzucht", "Wichtiger Eisenbahn- und Straßenknotenpunkt", "Reiches kulturelles und musikalisches Erbe"],
       hu: ["Belgrano tábornok alapította 1810-ben", "A Chamamé zene egyik központja", "Jelentős állattenyésztési övezet", "Történelmi jelentőségű helyszín"],
@@ -1005,8 +1035,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Entre Ríos Province, Paraná is a scenic city perched on high cliffs overlooking the majestic Paraná River.",
       de: "Die Hauptstadt der Provinz Entre Ríos liegt am majestätischen Paraná-Fluss und ist für ihre Parks und Klippen bekannt.",
       hu: "Entre Ríos tartomány székhelye a Paraná folyó partján. A város fontos történelmi jelentőséggel bír, mivel rövid ideig az Argentin Konföderáció fővárosa volt.",
-      ro: "Paraná este capitala provinciei Entre Ríos, situată pe malul înalt al râului Paraná și cunoscută pentru peisajele sale fluviale senine."
-    },
+      ro: "Paraná este capitala provinciei Entre Ríos, situată pe malul înalt al râului Paraná și cunoscută pentru peisajele sale fluviale senine.",
+image: "/poi-images/ar-e-parana-cities-v2.webp"
+},
     facts: { en: ["Served as the capital of the Argentine Confederation", "Known for its beautiful Urquiza Park", "Connected to Santa Fe via an underwater tunnel"],
       de: ["Hauptstadt der Provinz Entre Ríos", "Ehemalige Hauptstadt des Argentinischen Bundes", "Wichtiger Binnenhafen", "Bekannt für den Parque Urquiza"],
       hu: ["A Paraná folyó magas partján fekszik", "Fontos közigazgatási központ", "Több mint 200 éves katedrális", "Víz alatti alagút köti össze Santa Fe-vel"],
@@ -1038,8 +1069,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A thriving city on the Uruguay River, known for its citrus production, thermal springs, and the nearby Salto Grande dam.",
       de: "Eine wichtige Stadt am Rio Uruguay, bekannt für ihre Zitrusproduktion und die Nähe zum Salto-Grande-Staudamm.",
       hu: "Jelentős város az Uruguay folyó partján, amely citrusfélék termesztéséről és termálfürdőiről ismert. Fontos kereskedelmi kapu Uruguay felé.",
-      ro: "Concordia este un oraș important pe malul râului Uruguay, renumit pentru producția de citrice și complexele sale termale."
-    },
+      ro: "Concordia este un oraș important pe malul râului Uruguay, renumit pentru producția de citrice și complexele sale termale.",
+image: "/poi-images/ar-e-concordia-cities-v2.webp"
+},
     facts: { en: ["Major center for orange and lemon exports", "Home to popular thermal water resorts", "Strategic point for hydroelectric power generation"],
       de: ["Zentrum der Zitrusfruchtproduktion", "Wichtiger Grenzübergang nach Uruguay", "Bekannt für Thermalbäder", "Lage am Rio Uruguay"],
       hu: ["A Salto Grande gát közelében", "Híres termálvizes parkok", "Citrusfélék országos fővárosa", "Határátkelőhely Uruguayba"],
@@ -1071,8 +1103,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Located in southeastern Entre Ríos, Gualeguaychú is world-famous for hosting the largest and most spectacular carnival in Argentina.",
       de: "Berühmt für den größten Karneval Argentiniens und ihre Thermalbäder am Ufer des Rio Gualeguaychú.",
       hu: "Az ország egyik leghíresebb karneváli városa az Uruguay folyó közelében. Népszerű turisztikai célpont strandjai és ökoturisztikai lehetőségei miatt.",
-      ro: "Gualeguaychú este faimos pentru cel mai mare carnaval din Argentina și pentru plajele sale pe râul Uruguay."
-    },
+      ro: "Gualeguaychú este faimos pentru cel mai mare carnaval din Argentina și pentru plajele sale pe râul Uruguay.",
+image: "/poi-images/ar-e-gualeguaychu-cities-v2.webp"
+},
     facts: { en: ["Home to the massive 'Carnival of the Country'", "Popular river beach and camping destination", "Known for its environmental activism and parks"],
       de: ["Heimat des 'Carnaval del País'", "Beliebtes Ziel für Wochenendtouristen", "Wichtige Thermalzentren", "Zentrum des Agrarhandels"],
       hu: ["Az ország legnagyobb karneválja", "Közeli termálfürdők", "Fontos folyóparti turizmus", "Számos természetvédelmi terület a közelben"],
@@ -1104,8 +1137,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A historic port city on the Uruguay River, featuring significant architectural landmarks and colonial history.",
       de: "Eine historische Stadt in Entre Ríos mit reichem kulturellem Erbe und bedeutenden Bildungseinrichtungen.",
       hu: "Történelmi város az Uruguay folyó partján, amelyet 'La Histórica' néven is emlegetnek. Számos nemzeti műemlék és fontos oktatási intézmény otthona.",
-      ro: "Concepción del Uruguay este un oraș istoric supranumit „Orașul Istoric”, având un rol crucial în formarea națiunii argentiniene."
-    },
+      ro: "Concepción del Uruguay este un oraș istoric supranumit „Orașul Istoric”, având un rol crucial în formarea națiunii argentiniene.",
+image: "/poi-images/ar-e-concepcion-del-uruguay-cities-v2.webp"
+},
     facts: { en: ["Historic port",
       "Uruguay River",
       "Colonial past",
@@ -1140,8 +1174,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Formosa province, located on the Paraguay River, known for its tropical climate and subtropical setting.",
       de: "Die Hauptstadt der Provinz Formosa im subtropischen Norden, bekannt für ihre moderne Uferpromenade.",
       hu: "Formosa tartomány székhelye a Paraguay folyó partján, az ország északi részén. Trópusi éghajlatú város, amely kapuként szolgál a szomszédos Paraguay felé.",
-      ro: "Formosa este capitala provinciei cu același nume, situată la granița cu Paraguay, pe malul râului Paraguay."
-    },
+      ro: "Formosa este capitala provinciei cu același nume, situată la granița cu Paraguay, pe malul râului Paraguay.",
+image: "/poi-images/ar-p-formosa-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Paraguay River",
       "Subtropical climate",
@@ -1176,8 +1211,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A border city near Paraguay, serving as a significant trade and transit hub in the northern region.",
       de: "Eine strategische Grenzstadt zu Paraguay, die ein wichtiges Handelszentrum im Norden Argentiniens darstellt.",
       hu: "Fontos határváros Formosa tartományban, közvetlenül a paraguayi Asunción szomszédságában. Jelentős kereskedelmi és vámügyi központ.",
-      ro: "Clorinda este al doilea oraș ca mărime din provincia Formosa, fiind un punct de trecere strategic către Asunción, Paraguay."
-    },
+      ro: "Clorinda este al doilea oraș ca mărime din provincia Formosa, fiind un punct de trecere strategic către Asunción, Paraguay.",
+image: "/poi-images/ar-p-clorinda-cities-v2.webp"
+},
     facts: { en: ["Border city",
       "Trade hub",
       "Formosa region",
@@ -1212,8 +1248,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Jujuy province, a high-altitude city surrounded by colorful Andean mountains and indigenous culture.",
       de: "Die Hauptstadt der Provinz Jujuy liegt am Eingang der Quebrada de Humahuaca in den Anden.",
       hu: "Jujuy tartomány székhelye az Andok lábánál, amelyet 'Ezüst csészének' is neveznek. A város kapuként szolgál a látványos Humahuaca-völgy felé.",
-      ro: "San Salvador de Jujuy, supranumit „Ceașca de Argint”, este capitala provinciei Jujuy și poarta către Quebrada de Humahuaca."
-    },
+      ro: "San Salvador de Jujuy, supranumit „Ceașca de Argint”, este capitala provinciei Jujuy și poarta către Quebrada de Humahuaca.",
+image: "/poi-images/ar-y-san-salvador-de-jujuy-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Andean region",
       "High altitude",
@@ -1248,8 +1285,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A key industrial city in Jujuy province, known for its sugar cane production and agricultural industry.",
       de: "Ein wichtiges Agrarzentrum im Osten der Provinz Jujuy, bekannt für den Anbau von Zuckerrohr.",
       hu: "Jujuy tartomány második legfontosabb városa, amely mezőgazdaságáról, különösen a cukornádtermesztésről ismert. A San Francisco-folyó völgyében fekszik.",
-      ro: "San Pedro de Jujuy este un centru agricol vital în estul provinciei Jujuy, fiind inima producției de trestie de zahăr."
-    },
+      ro: "San Pedro de Jujuy este un centru agricol vital în estul provinciei Jujuy, fiind inima producției de trestie de zahăr.",
+image: "/poi-images/ar-y-san-pedro-de-jujuy-cities-v2.webp"
+},
     facts: { en: ["Sugar cane industry",
       "Industrial city",
       "Jujuy province",
@@ -1284,8 +1322,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A city known for its historical iron and steel industrial activity in the Jujuy valley.",
       de: "Bekannt als die 'Mutter der Industrien' in Jujuy, geprägt durch die Stahlproduktion.",
       hu: "Ipari város Jujuy tartományban, amelyet 'Acélvárosnak' neveznek az ott található jelentős kohászati üzemek miatt. San Salvador de Jujuy közelében található.",
-      ro: "Palpalá este un oraș industrial situat lângă San Salvador de Jujuy, fiind centrul siderurgic al regiunii de nord-vest."
-    },
+      ro: "Palpalá este un oraș industrial situat lângă San Salvador de Jujuy, fiind centrul siderurgic al regiunii de nord-vest.",
+image: "/poi-images/ar-y-palpala-cities-v2.webp"
+},
     facts: { en: ["Industrial site",
       "Steel industry",
       "Jujuy valley",
@@ -1320,8 +1359,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital city of La Pampa province, located in a vast plain area known for cattle ranching and agriculture.",
       de: "Die Hauptstadt der Provinz La Pampa, ein ruhiges Zentrum inmitten der fruchtbaren Pampa-Ebene.",
       hu: "La Pampa tartomány székhelye a pampa vidék szívében. Fontos közigazgatási, kulturális és oktatási központ, modern építészeti emlékekkel.",
-      ro: "Santa Rosa este capitala provinciei La Pampa, servind ca punct de legătură între regiunea Pampa și Patagonia."
-    },
+      ro: "Santa Rosa este capitala provinciei La Pampa, servind ca punct de legătură între regiunea Pampa și Patagonia.",
+image: "/poi-images/ar-l-santa-rosa-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Cattle ranching",
       "Pampa plains",
@@ -1356,8 +1396,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "An important commercial and agricultural city in the north of La Pampa province.",
       de: "Die zweitwichtigste Stadt in La Pampa, bekannt für ihre industrielle Entwicklung und Agrarwirtschaft.",
       hu: "La Pampa tartomány második legnagyobb városa, amely fontos ipari és mezőgazdasági centrum. A város jól tervezett parkjairól és széles utcáiról ismert.",
-      ro: "General Pico este al doilea oraș ca mărime din La Pampa, fiind un nod feroviar și industrial cheie în nordul provinciei."
-    },
+      ro: "General Pico este al doilea oraș ca mărime din La Pampa, fiind un nod feroviar și industrial cheie în nordul provinciei.",
+image: "/poi-images/ar-l-general-pico-cities-v2.webp"
+},
     facts: { en: ["Commercial center",
       "Agricultural hub",
       "La Pampa region",
@@ -1392,8 +1433,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of La Rioja province, known for its warm climate, olive plantations, and wine production.",
       de: "Die Hauptstadt der gleichnamigen Provinz am Fuße der Sierras de Velasco, bekannt für Wein und Oliven.",
       hu: "La Rioja tartomány székhelye a Velasco-hegység lábánál. Száraz klímájáról, olivatermesztéséről és gyarmati eredetű vallási hagyományairól nevezetes.",
-      ro: "La Rioja este capitala provinciei omonime, un oraș cu o istorie bogată situat la poalele munților Sierra de Velasco."
-    },
+      ro: "La Rioja este capitala provinciei omonime, un oraș cu o istorie bogată situat la poalele munților Sierra de Velasco.",
+image: "/poi-images/ar-f-la-rioja-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Olive production",
       "Wine region",
@@ -1428,8 +1470,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A town in La Rioja, famous for its mining history, especially the Cable Carril, and high-altitude vineyards.",
       de: "Die zweitgrößte Stadt der Provinz La Rioja, berühmt für ihren Bergbau und ihre Weinberge.",
       hu: "A Famatina-hegység völgyében fekvő város, amely bányászati múltjáról és bortermeléséről híres. Itt található a világ egyik legmagasabb drótkötélpályája.",
-      ro: "Chilecito este al doilea oraș din provincia La Rioja, renumit pentru producția sa viticolă și istoria minieră impresionantă."
-    },
+      ro: "Chilecito este al doilea oraș din provincia La Rioja, renumit pentru producția sa viticolă și istoria minieră impresionantă.",
+image: "/poi-images/ar-f-chilecito-cities-v2.webp"
+},
     facts: { en: ["Mining heritage",
       "Cable Carril",
       "Vineyards",
@@ -1464,8 +1507,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The heart of Argentina's wine country, known for its Malbec production, tree-lined streets, and mountain vistas.",
       de: "Die Welthauptstadt des Malbec-Weins am Fuße der Anden, bekannt für ihre Alleen und Parks.",
       hu: "Az argentin bortermelés világközpontja az Andok lábánál. A város modern öntözőrendszeréről, széles sugárútjairól és parkjairól híres.",
-      ro: "Mendoza este inima regiunii viticole a Argentinei și o bază ideală pentru explorarea munților Anzi și a vârfului Aconcagua."
-    },
+      ro: "Mendoza este inima regiunii viticole a Argentinei și o bază ideală pentru explorarea munților Anzi și a vârfului Aconcagua.",
+image: "/poi-images/ar-m-mendoza-cities-v2.webp"
+},
     facts: { en: ["Wine country",
       "Malbec capital",
       "Andean foothills",
@@ -1500,8 +1544,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A major city in Mendoza province, known for adventure tourism, water reservoirs, and agricultural exports.",
       de: "Eine malerische Stadt im Süden der Provinz Mendoza, bekannt für Abenteuertourismus und Wein.",
       hu: "Mendoza tartomány déli részének fontos turisztikai és mezőgazdasági központja. A város környéke híres kanyonjairól, gátjairól és vízi sportjairól.",
-      ro: "San Rafael este o destinație turistică majoră în sudul provinciei Mendoza, cunoscută pentru canioanele sale și sporturile de aventură."
-    },
+      ro: "San Rafael este o destinație turistică majoră în sudul provinciei Mendoza, cunoscută pentru canioanele sale și sporturile de aventură.",
+image: "/poi-images/ar-m-san-rafael-cities-v2.webp"
+},
     facts: { en: ["Adventure tourism",
       "Agricultural center",
       "Canyon landscapes",
@@ -1536,8 +1581,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Part of the Mendoza Greater Area, known for its urban development and close proximity to downtown Mendoza.",
       hu: "Mendoza agglomerációjának szerves része, amely fontos kereskedelmi és ipari központ. A város híres borászatairól és aktív kulturális életéről.",
       ro: "Godoy Cruz este o parte vibrantă a zonei metropolitane Mendoza, cunoscută pentru centrele sale comerciale și parcurile industriale.",
-      de: "Godoy Cruz ist eine bedeutende Stadt im Großraum Mendoza, bekannt für ihre lebendige Weinkultur und Industrie."
-    },
+      de: "Godoy Cruz ist eine bedeutende Stadt im Großraum Mendoza, bekannt für ihre lebendige Weinkultur und Industrie.",
+image: "/poi-images/ar-m-godoy-cruz-cities-v2.webp"
+},
     facts: { en: ["Urban development",
       "Mendoza area",
       "Close to capital",
@@ -1572,8 +1618,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Famous for its premium vineyards, making it a critical region for Mendoza's high-quality wine industry.",
       hu: "Az argentin Malbec bor hazájaként ismert város Mendoza tartományban. Az Andok lábánál fekvő település a borászat és a turizmus kiemelkedő központja.",
       ro: "Luján de Cuyo este inima regiunii viticole Malbec, fiind situat la poalele munților Cordón del Plata în provincia Mendoza.",
-      de: "Luján de Cuyo gilt als das Herz der argentinischen Malbec-Produktion und liegt am Fuße der majestätischen Anden."
-    },
+      de: "Luján de Cuyo gilt als das Herz der argentinischen Malbec-Produktion und liegt am Fuße der majestätischen Anden.",
+image: "/poi-images/ar-m-lujan-de-cuyo-cities-v2.webp"
+},
     facts: { en: ["Premium vineyards",
       "Wine industry",
       "Mendoza region",
@@ -1608,8 +1655,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Misiones province, sitting on the Paraná River, with a blend of regional culture and modern life.",
       hu: "Misiones tartomány székhelye a Paraná folyó partján, közvetlenül Paraguay szomszédságában. Fontos kereskedelmi és kulturális kapu a régióban.",
       ro: "Posadas este capitala provinciei Misiones, un oraș portuar modern pe râul Paraná, servind ca nod comercial către Paraguay.",
-      de: "Posadas ist die Hauptstadt der Provinz Misiones und ein wichtiges Tor zur Region am Ufer des mächtigen Paraná-Flusses."
-    },
+      de: "Posadas ist die Hauptstadt der Provinz Misiones und ein wichtiges Tor zur Region am Ufer des mächtigen Paraná-Flusses.",
+image: "/poi-images/ar-n-posadas-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Paraná River",
       "Regional culture",
@@ -1644,8 +1692,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Known as the city of immigrants, reflecting diverse cultural traditions in Misiones province.",
       hu: "Misiones tartomány szívében fekvő város, amely sokszínű bevándorló közösségeiről és a mate tea termesztéséről nevezetes.",
       ro: "Oberá este al doilea oraș din Misiones, faimos pentru amestecul său de culturi europene și Festivalul Național al Imigranților.",
-      de: "Oberá ist berühmt für seine kulturelle Vielfalt und beherbergt jährlich das große Nationalfest der Einwanderer."
-    },
+      de: "Oberá ist berühmt für seine kulturelle Vielfalt und beherbergt jährlich das große Nationalfest der Einwanderer.",
+image: "/poi-images/ar-n-obera-cities-v2.webp"
+},
     facts: { en: ["Immigrant heritage",
       "Diverse culture",
       "Misiones region",
@@ -1680,8 +1729,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A city in Misiones province, characterized by its natural environment and forestry industry.",
       hu: "Város Misiones tartomány északi részén, amelyet német telepesek alapítottak a Paraná folyó partján. Fontos faipari és mezőgazdasági központ.",
       ro: "Eldorado este un oraș situat în nordul provinciei Misiones, cunoscut pentru industria sa forestieră și frumusețea naturală densă.",
-      de: "Eldorado wurde von deutschen Einwanderern gegründet und ist heute ein Zentrum der Forstwirtschaft im Norden von Misiones."
-    },
+      de: "Eldorado wurde von deutschen Einwanderern gegründet und ist heute ein Zentrum der Forstwirtschaft im Norden von Misiones.",
+image: "/poi-images/ar-n-eldorado-cities-v2.webp"
+},
     facts: { en: ["Forestry industry",
       "Misiones region",
       "Natural setting",
@@ -1716,8 +1766,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The gateway to the world-famous Iguazu Falls, located on the border with Brazil and Paraguay.",
       hu: "Az Iguazú-vízesés kapuja, amely a hármas határnál (Argentína, Brazília, Paraguay) fekszik. Világhírű turisztikai célpont Misiones tartományban.",
       ro: "Puerto Iguazú este orașul de frontieră care găzduiește spectaculoasele Cascade Iguazú, una dintre minunile naturale ale lumii.",
-      de: "Puerto Iguazú ist der ideale Ausgangspunkt für den Besuch der weltberühmten Iguazú-Wasserfälle im Dreiländereck."
-    },
+      de: "Puerto Iguazú ist der ideale Ausgangspunkt für den Besuch der weltberühmten Iguazú-Wasserfälle im Dreiländereck.",
+image: "/poi-images/ar-n-puerto-iguazu-cities-v2.webp"
+},
     facts: { en: ["Iguazu Falls gateway",
       "Border city",
       "Tourism hub",
@@ -1752,8 +1803,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Neuquén province, a center of the oil and gas industry in Northern Patagonia.",
       hu: "Patagónia legnépesebb városa és Neuquén tartomány székhelye a Limay és Neuquén folyók találkozásánál. A régió kereskedelmi és energiaipari központja.",
       ro: "Neuquén este cel mai mare oraș din Patagonia, un centru economic efervescent datorită industriei energetice și agricole.",
-      de: "Neuquén ist die größte Stadt Patagoniens und das wirtschaftliche Zentrum der gleichnamigen Provinz, geprägt durch die Ölindustrie."
-    },
+      de: "Neuquén ist die größte Stadt Patagoniens und das wirtschaftliche Zentrum der gleichnamigen Provinz, geprägt durch die Ölindustrie.",
+image: "/poi-images/ar-q-neuquen-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Oil and gas hub",
       "Patagonia gateway",
@@ -1788,8 +1840,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A picturesque mountain resort in the Andes, known for its scenic lakes and ski resort, Chapelco.",
       hu: "Látványos hegyvidéki üdülőváros a Lácar-tó partján, az Andok ölelésében. A város híres alpesi stílusú építészetéről és a Lanín Nemzeti Parkról.",
       ro: "San Martín de los Andes este un oraș montan de poveste pe malul lacului Lácar, fiind o destinație turistică de lux pe tot parcursul anului.",
-      de: "Diese malerische Stadt am Ufer des Lácar-Sees ist eines der exklusivsten Reiseziele in den patagonischen Anden."
-    },
+      de: "Diese malerische Stadt am Ufer des Lácar-Sees ist eines der exklusivsten Reiseziele in den patagonischen Anden.",
+image: "/poi-images/ar-q-san-martin-de-los-andes-cities-v2.webp"
+},
     facts: { en: ["Mountain resort",
       "Lakeside setting",
       "Chapelco ski center",
@@ -1824,8 +1877,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A major logistics and transportation hub in Neuquén province, central to Patagonian travel.",
       hu: "Fontos közlekedési csomópont és bányászati központ Neuquén tartomány szívében. A város stratégiai helyen fekszik az Andok és a pampák között.",
       ro: "Zapala este un oraș situat în centrul provinciei Neuquén, fiind un punct strategic de tranzit între munți și stepă.",
-      de: "Zapala ist ein strategischer Verkehrsknotenpunkt in Zentral-Neuquén und bekannt für seine lange Bergbautradition."
-    },
+      de: "Zapala ist ein strategischer Verkehrsknotenpunkt in Zentral-Neuquén und bekannt für seine lange Bergbautradition.",
+image: "/poi-images/ar-q-zapala-cities-v2.webp"
+},
     facts: { en: ["Logistics hub",
       "Neuquén province",
       "Patagonia transit",
@@ -1860,8 +1914,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A key oil-producing city in Neuquén province, contributing significantly to the region's energy economy.",
       hu: "Neuquén tartomány közepén fekvő város, amelynek gazdasága szinte teljes egészében a kőolaj- és földgázkitermelésen alapul.",
       ro: "Cutral Co este un oraș industrial în stepa Neuquén, a cărui istorie și dezvoltare sunt strâns legate de descoperirea petrolului.",
-      de: "Cutral Có entstand mitten in der Wüste durch die Entdeckung von Erdöl und ist eng mit der argentinischen Energiegeschichte verbunden."
-    },
+      de: "Cutral Có entstand mitten in der Wüste durch die Entdeckung von Erdöl und ist eng mit der argentinischen Energiegeschichte verbunden.",
+image: "/poi-images/ar-q-cutral-co-cities-v2.webp"
+},
     facts: { en: ["Oil-producing city",
       "Neuquén province",
       "Energy economy",
@@ -1896,8 +1951,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Río Negro province, situated at the mouth of the Negro River on the Atlantic coast.",
       hu: "Río Negro tartomány székhelye a Negro folyó partján, közel az Atlanti-óceánhoz. A város fontos közigazgatási és mezőgazdasági centrum.",
       ro: "Viedma este capitala provinciei Río Negro, un oraș liniștit situat pe malul râului Río Negro, aproape de coasta atlantică.",
-      de: "Viedma ist die historische Hauptstadt der Provinz Río Negro und bildet zusammen mit Patagones ein bedeutendes urbanes Zentrum am Fluss."
-    },
+      de: "Viedma ist die historische Hauptstadt der Provinz Río Negro und bildet zusammen mit Patagones ein bedeutendes urbanes Zentrum am Fluss.",
+image: "/poi-images/ar-r-viedma-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Negro River",
       "Atlantic coast",
@@ -1932,8 +1988,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A world-renowned ski and tourism destination, famous for its Alpine architecture and chocolate production.",
       hu: "Világhírű turisztikai központ az Andok lábánál, a Nahuel Huapi-tó partján. Alpesi stílusáról, csokoládéjáról és sípályáiról nevezetes.",
       ro: "Bariloche este cea mai faimoasă destinație turistică din Patagonia, renumită pentru lacurile glaciare, munții spectaculoși și ciocolată.",
-      de: "Bariloche ist weltbekannt für seine Schokolade, die wunderschöne Seenlandschaft und als bedeutendstes Skigebiet Südamerikas."
-    },
+      de: "Bariloche ist weltbekannt für seine Schokolade, die wunderschöne Seenlandschaft und als bedeutendstes Skigebiet Südamerikas.",
+image: "/poi-images/ar-r-san-carlos-de-bariloche-cities-v2.webp"
+},
     facts: { en: ["Ski destination",
       "Alpine style",
       "Chocolate industry",
@@ -1968,8 +2025,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "An important city in the Upper Valley, central to the region's fruit and wine industry.",
       hu: "Río Negro tartomány egyik legfontosabb városa, az Alto Valle gyümölcstermesztő vidék központja. A város híres almaterméséről.",
       ro: "General Roca este un centru agricol vital în Valea Superioară a râului Río Negro, inima producției de mere și pere a Argentinei.",
-      de: "General Roca ist das Herz des oberen Tals des Río Negro und das wichtigste Zentrum für den Anbau von Äpfeln und Birnen."
-    },
+      de: "General Roca ist das Herz des oberen Tals des Río Negro und das wichtigste Zentrum für den Anbau von Äpfeln und Birnen.",
+image: "/poi-images/ar-r-general-roca-cities-v2.webp"
+},
     facts: { en: ["Upper Valley hub",
       "Fruit production",
       "Wine industry",
@@ -2004,8 +2062,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "Located at the confluence of the Neuquén and Limay rivers, known for its agro-industrial activity.",
       hu: "Río Negro tartomány nyugati szélén fekvő város, amely Neuquén szomszédságában található. Fontos gyümölcstermesztő és ipari központ.",
       ro: "Cipolletti este un oraș dinamic situat la granița cu provincia Neuquén, fiind un pilon al dezvoltării agricole și industriale din regiune.",
-      de: "Cipolletti ist eine dynamische Stadt in Río Negro, die für ihre Obstgärten und ihre enge Verbindung zum benachbarten Neuquén bekannt ist."
-    },
+      de: "Cipolletti ist eine dynamische Stadt in Río Negro, die für ihre Obstgärten und ihre enge Verbindung zum benachbarten Neuquén bekannt ist.",
+image: "/poi-images/ar-r-cipolletti-cities-v2.webp"
+},
     facts: { en: ["Agro-industrial",
       "River confluence",
       "Río Negro region",
@@ -2040,8 +2099,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Salta province, celebrated for its well-preserved colonial architecture and vibrant Andean traditions.",
       hu: "Északnyugat-Argentína gyarmati gyöngyszeme, amelyet 'Salta la Linda' (A szépséges Salta) néven ismernek. Gazdag spanyol örökséggel és lenyűgöző hegyi tájakkal rendelkezik.",
       ro: "Salta, supranumit „Salta la Linda”, este capitala provinciei omonime și cel mai bine conservat oraș colonial din Argentina.",
-      de: "Salta, die Schöne, besticht durch ihre außergewöhnlich gut erhaltene Kolonialarchitektur und ihre Lage in den grünen Lerma-Tälern."
-    },
+      de: "Salta, die Schöne, besticht durch ihre außergewöhnlich gut erhaltene Kolonialarchitektur und ihre Lage in den grünen Lerma-Tälern.",
+image: "/poi-images/ar-a-salta-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Colonial heritage",
       "Andean culture",
@@ -2076,8 +2136,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A major city in northern Salta, known for its agro-industrial importance and jungle surroundings.",
       de: "Eine wichtige subtropische Stadt im Norden von Salta, bekannt für ihre Zucker- und Zitrusproduktion.",
       hu: "Salta tartomány északi részén, a trópusi erdők övezetében fekvő város. Fontos mezőgazdasági központ, ahol cukornádat, citrusféléket és dohányt termesztenek.",
-      ro: "San Ramón de la Nueva Orán este un oraș tropical situat în nordul provinciei Salta, fiind un centru agricol major lângă granița cu Bolivia."
-    },
+      ro: "San Ramón de la Nueva Orán este un oraș tropical situat în nordul provinciei Salta, fiind un centru agricol major lângă granița cu Bolivia.",
+image: "/poi-images/ar-a-san-ramon-de-la-nueva-oran-cities-v2.webp"
+},
     facts: { en: ["Agro-industrial",
       "Northern Salta",
       "Jungle setting",
@@ -2112,8 +2173,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A city in northern Salta province, known for its strategic location and regional oil/gas activity.",
       de: "Ein bedeutendes Energiezentrum im Norden Argentiniens mit einer starken Erdöl- und Erdgaswirtschaft.",
       hu: "Jelentős város Salta tartomány északi részén, amely kőolaj- és földgázkitermeléséről ismert. Gazdag kulturális sokszínűséggel és erős őslakos jelenléttel bír.",
-      ro: "Tartagal este un oraș situat în inima regiunii petroliere și forestiere din nordul Argentinei, având o populație multiculturală diversă."
-    },
+      ro: "Tartagal este un oraș situat în inima regiunii petroliere și forestiere din nordul Argentinei, având o populație multiculturală diversă.",
+image: "/poi-images/ar-a-tartagal-cities-v2.webp"
+},
     facts: { en: ["Strategic location",
       "Oil and gas",
       "Salta province",
@@ -2148,8 +2210,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of San Juan province, known for its modern architecture and prominent wine and olive industries.",
       de: "Die Hauptstadt der Provinz San Juan liegt in einem Oasental und ist ein bedeutendes Weinbauzentrum.",
       hu: "San Juan tartomány székhelye a Tulum-völgyben. A várost egy pusztító földrengés után szinte teljesen újjáépítették, ma modern, ligetes utcáiról és bortermeléséről nevezetes.",
-      ro: "San Juan este un oraș modern reconstruit după cutremurul din 1944, fiind centrul unei regiuni viticole și miniere prospere."
-    },
+      ro: "San Juan este un oraș modern reconstruit după cutremurul din 1944, fiind centrul unei regiuni viticole și miniere prospere.",
+image: "/poi-images/ar-j-san-juan-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Modern architecture",
       "Wine and olives",
@@ -2184,8 +2247,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of San Luis province, a historic city situated at the foot of the San Luis mountain range.",
       de: "Die Hauptstadt der Provinz San Luis am Fuße der Sierra de San Luis, bekannt für ihre landschaftliche Schönheit.",
       hu: "San Luis tartomány székhelye a Sierras Grandes lábánál. Dinamikusan fejlődő város, amely fejlett technológiai infrastruktúrájáról és ipari parkjairól ismert.",
-      ro: "San Luis este un oraș situat la poalele munților Sierras de San Luis, fiind un centru administrativ cu o creștere industrială rapidă."
-    },
+      ro: "San Luis este un oraș situat la poalele munților Sierras de San Luis, fiind un centru administrativ cu o creștere industrială rapidă.",
+image: "/poi-images/ar-d-san-luis-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Mountain range",
       "Historic city",
@@ -2220,8 +2284,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A major industrial city in San Luis, known for its manufacturing and central location in the region.",
       de: "Die zweitgrößte Stadt der Provinz San Luis und ein bedeutendes Industrie- und Eisenbahnzentrum.",
       hu: "San Luis tartomány második legfontosabb városa, jelentős ipari és kereskedelmi központ. A város híres kulturális eseményeiről és sportlétesítményeiről.",
-      ro: "Villa Mercedes este al doilea oraș din provincia San Luis, fiind un nod de transport și un centru industrial esențial."
-    },
+      ro: "Villa Mercedes este al doilea oraș din provincia San Luis, fiind un nod de transport și un centru industrial esențial.",
+image: "/poi-images/ar-d-villa-mercedes-cities-v2.webp"
+},
     facts: { en: ["Industrial city",
       "Manufacturing",
       "San Luis province",
@@ -2256,8 +2321,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Santa Cruz province, a windswept city located near the Atlantic coast in Southern Patagonia.",
       de: "Die Hauptstadt der Provinz Santa Cruz im tiefen Süden, ein wichtiges Tor nach Südpatagonien.",
       hu: "Santa Cruz tartomány székhelye és Patagónia déli részének fontos kikötővárosa. A Gallegos-folyó torkolatánál fekszik, és kapuként szolgál a jégmezők felé.",
-      ro: "Río Gallegos este capitala provinciei Santa Cruz, un oraș situat pe estuarul râului omonim, aproape de strâmtoarea Magellan."
-    },
+      ro: "Río Gallegos este capitala provinciei Santa Cruz, un oraș situat pe estuarul râului omonim, aproape de strâmtoarea Magellan.",
+image: "/poi-images/ar-z-rio-gallegos-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Southern Patagonia",
       "Atlantic coast",
@@ -2292,8 +2358,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The capital of Santa Fe province, situated near the Paraná and Salado rivers, with rich colonial heritage.",
       de: "Die Hauptstadt der Provinz Santa Fe liegt am Rio Salado und ist ein bedeutendes Bildungs- und Handelszentrum.",
       hu: "Santa Fe tartomány székhelye, amely gazdag történelmi múlttal és jelentős folyami kikötővel rendelkezik. A város az argentin alkotmányozás bölcsőjeként ismert.",
-      ro: "Santa Fe este un oraș istoric și portuar situat la confluența râurilor Salado și Paraná, fiind locul unde a fost semnată Constituția."
-    },
+      ro: "Santa Fe este un oraș istoric și portuar situat la confluența râurilor Salado și Paraná, fiind locul unde a fost semnată Constituția.",
+image: "/poi-images/ar-s-santa-fe-cities-v2.webp"
+},
     facts: { en: ["Provincial capital",
       "Riverside city",
       "Colonial heritage",
@@ -2328,8 +2395,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "A major port city on the Paraná River, known as the birthplace of the Argentine flag and home to Che Guevara.",
       de: "Die drittgrößte Stadt Argentiniens und ein gewaltiges Industrie- und Hafenzentrum am Rio Paraná.",
       hu: "Argentína harmadik legnépesebb városa a Paraná folyó partján. Fontos ipari, kereskedelmi és kulturális centrum, a nemzeti zászló bölcsője.",
-      ro: "Rosario este un oraș portuar vibrant pe râul Paraná, fiind locul unde a fost creat steagul național al Argentinei."
-    },
+      ro: "Rosario este un oraș portuar vibrant pe râul Paraná, fiind locul unde a fost creat steagul național al Argentinei.",
+image: "/poi-images/ar-s-rosario-cities-v2.webp"
+},
     facts: { en: ["Port city",
       "Birthplace of flag",
       "Cultural hub",
@@ -2364,8 +2432,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The oldest city in Argentina, known for its rich colonial history and ancient architecture.",
       de: "Die älteste kontinuierlich besiedelte Stadt Argentiniens, oft als 'Mutter der Städte' bezeichnet.",
       hu: "Argentína legrégebbi, folyamatosan lakott városa, amelyet 'A városok anyjaként' ismernek. A Dulce-folyó partján fekszik, és a folklór egyik központja.",
-      ro: "Santiago del Estero este cel mai vechi oraș fondat de spanioli pe teritoriul actual al Argentinei, păstrând tradiții folclorice vii."
-    },
+      ro: "Santiago del Estero este cel mai vechi oraș fondat de spanioli pe teritoriul actual al Argentinei, păstrând tradiții folclorice vii.",
+image: "/poi-images/ar-g-santiago-del-estero-cities-v2.webp"
+},
     facts: { en: ["Oldest city",
       "Colonial history",
       "Historic site",
@@ -2400,8 +2469,9 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     description: { en: "The southernmost city in the world, located in Tierra del Fuego, known as the gateway to Antarctica.",
       de: "Die südlichste Stadt der Welt liegt auf Feuerland zwischen den Bergen und dem Beagle-Kanal.",
       hu: "A világ legdélebbi városa a Tűzföldön, a Beagle-csatorna partján. Lenyűgöző hegyek és gleccserek veszik körül, az antarktiszi expedíciók fő kiindulópontja.",
-      ro: "Ushuaia este cel mai sudic oraș al lumii, situat între munții Anzi și Canalul Beagle, fiind poarta de acces către Antarctica."
-    },
+      ro: "Ushuaia este cel mai sudic oraș al lumii, situat între munții Anzi și Canalul Beagle, fiind poarta de acces către Antarctica.",
+image: "/poi-images/ar-v-ushuaia-cities-v2.webp"
+},
     facts: { en: ["Southernmost city",
       "Tierra del Fuego",
       "Antarctica gateway",

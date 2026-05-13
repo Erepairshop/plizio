@@ -15,8 +15,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding maroni river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding maroni river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/maroni-river-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -50,8 +51,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding oyapock river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding oyapock river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/oyapock-river-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -84,8 +86,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding approuague river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding approuague river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/approuague-river-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -118,8 +121,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding lac de petit saut nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding lac de petit saut nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/lac-de-petit-saut-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -152,8 +156,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding bellevue de l inini nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding bellevue de l inini nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/bellevue-de-l-inini-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -187,8 +192,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding montagne des singes nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding montagne des singes nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/montagne-des-singes-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -221,8 +227,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding montagne de kaw nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding montagne de kaw nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/montagne-de-kaw-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -255,8 +262,9 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding sommet tabulaire nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding sommet tabulaire nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/sommet-tabulaire-nature-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },

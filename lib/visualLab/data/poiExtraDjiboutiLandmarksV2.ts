@@ -14,8 +14,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       en: "People's Palace"
     ,
     descriptionAdvanced: {
-      ro: "Palatul Poporului (Palais du Peuple) din Djibouti este principala clădire guvernamentală și simbol al suveranității naționale. Construit într-un stil modern, impunător, acesta găzduiește Adunarea Națională și diverse evenimente oficiale ale statului. Designul său reflectă aspirațiile moderne ale țării post-independență și reprezintă centrul decizional politic al Djibouti. Edificiul este un reper arhitectural major în peisajul urban al capitalei. Educație civică K8 — structura și funcționarea instituțiilor statului."
-    },
+      ro: "Palatul Poporului (Palais du Peuple) din Djibouti este principala clădire guvernamentală și simbol al suveranității naționale. Construit într-un stil modern, impunător, acesta găzduiește Adunarea Națională și diverse evenimente oficiale ale statului. Designul său reflectă aspirațiile moderne ale țării post-independență și reprezintă centrul decizional politic al Djibouti. Edificiul este un reper arhitectural major în peisajul urban al capitalei. Educație civică K8 — structura și funcționarea instituțiilor statului.",
+image: "/poi-images/palais-du-peuple-landmarks-v2.webp"
+},
     factsAdvanced: {
       ro: ["Centrul administrativ și politic al statului Djibouti.", "Găzduiește sesiunile parlamentare ale țării.", "Construcție modernă cu elemente de design guvernamental.", "Simbol al unității și suveranității naționale.", "Utilizat pentru evenimente oficiale la nivel înalt.", "Situat într-o zonă strategică a capitalei."]
     }
@@ -41,8 +42,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Hamoudi-Moschee",
       hu: "Hamoudi-mecset",
       ro: "Moscheea Hamoudi",
-      en: "Hamoudi Mosque"
-    },
+      en: "Hamoudi Mosque",
+image: "/poi-images/hamoudi-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine der ältesten und bekanntesten Moscheen der Stadt, gelegen im Herzen des belebten Marktes.",
       hu: "A város egyik legrégebbi és legismertebb mecsete, a nyüzsgő piac szívében található.",
@@ -64,8 +66,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Kathedrale unserer lieben Frau vom guten Hirten",
       hu: "Jó Pásztor Miasszonyunk-székesegyház",
       ro: "Catedrala Maicii Domnului a Bunului Păstor",
-      en: "Cathedral of Our Lady of the Good Shepherd"
-    },
+      en: "Cathedral of Our Lady of the Good Shepherd",
+image: "/poi-images/djibouti-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Die römisch-katholische Kathedrale von Dschibuti besticht durch ihre moderne und dennoch schlichte Architektur.",
       hu: "Dzsibuti római katolikus székesegyháza modern, mégis letisztult építészetével tűnik ki.",
@@ -87,8 +90,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Präsidentenpalast",
       hu: "Elnöki Palota",
       ro: "Palatul Prezidențial",
-      en: "Presidential Palace"
-    },
+      en: "Presidential Palace",
+image: "/poi-images/presidential-palace-landmarks-v2.webp"
+},
     description: {
       de: "Der Amtssitz des Präsidenten von Dschibuti, gelegen an der Spitze einer Halbinsel mit Blick auf das Meer.",
       hu: "Dzsibuti elnökének hivatalos rezidenciája, egy félsziget csúcsán, tengerre néző kilátással.",
@@ -110,8 +114,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Nagad-Bahnhof",
       hu: "Nagad vasútállomás",
       ro: "Gara Nagad",
-      en: "Nagad Station"
-    },
+      en: "Nagad Station",
+image: "/poi-images/nagad-station-landmarks-v2.webp"
+},
     description: {
       de: "Der Hauptbahnhof der neuen elektrifizierten Eisenbahnstrecke zwischen Dschibuti und Addis Abeba.",
       hu: "A Dzsibuti és Addisz-Abeba közötti új, villamosított vasútvonal főállomása.",
@@ -133,8 +138,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Stade El Hadj Hassan Gouled Aptidon",
       hu: "El Hadj Hassan Gouled Aptidon Stadion",
       ro: "Stadionul El Hadj Hassan Gouled Aptidon",
-      en: "Stade El Hadj Hassan Gouled Aptidon"
-    },
+      en: "Stade El Hadj Hassan Gouled Aptidon",
+image: "/poi-images/national-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Stadion des Landes, benannt nach dem ersten Präsidenten Dschibutis, ist Austragungsort wichtiger Sportereignisse.",
       hu: "Az ország legnagyobb stadionja, amely Dzsibuti első elnökéről kapta a nevét, fontos sportesemények helyszíne.",
@@ -156,8 +162,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Hafen von Dschibuti",
       hu: "Dzsibuti kikötője",
       ro: "Portul Djibouti",
-      en: "Port of Djibouti"
-    },
+      en: "Port of Djibouti",
+image: "/poi-images/port-of-djibouti-landmarks-v2.webp"
+},
     description: {
       de: "Der historische und strategisch wichtige Tiefwasserhafen am Eingang zum Roten Meer.",
       hu: "A történelmi és stratégiai fontosságú mélyvízi kikötő a Vörös-tenger bejáratánál.",
@@ -179,8 +186,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Doraleh Mehrzweckhafen",
       hu: "Doraleh többcélú kikötő",
       ro: "Portul Multifuncțional Doraleh",
-      en: "Doraleh Multi-Purpose Port"
-    },
+      en: "Doraleh Multi-Purpose Port",
+image: "/poi-images/doraleh-port-landmarks-v2.webp"
+},
     description: {
       de: "Ein hochmoderner Erweiterungshafen westlich der Stadt, der riesige Containerschiffe abfertigen kann.",
       hu: "Egy ultramodern bővített kikötő a várostól nyugatra, amely hatalmas konténerszállító hajókat fogad.",
@@ -202,8 +210,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Universität von Dschibuti",
       hu: "Dzsibuti Egyetem",
       ro: "Universitatea din Djibouti",
-      en: "University of Djibouti"
-    },
+      en: "University of Djibouti",
+image: "/poi-images/university-of-djibouti-landmarks-v2.webp"
+},
     description: {
       de: "Das Bildungszentrum des Landes mit mehreren Fakultäten und einem weitläufigen Campus.",
       hu: "Az ország oktatási központja több karral és kiterjedt campusszal.",
@@ -225,8 +234,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Phare de Ras Bir",
       hu: "Ras Bir világítótorony",
       ro: "Farul Ras Bir",
-      en: "Ras Bir Lighthouse"
-    },
+      en: "Ras Bir Lighthouse",
+image: "/poi-images/ras-bir-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Leuchtturm an der Küste von Obock, der die Einfahrt zum Roten Meer markiert.",
       hu: "Jellegzetes világítótorony Obock partján, amely a Vörös-tenger bejáratát jelzi.",
@@ -248,8 +258,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Place Menelik",
       hu: "Menelik tér",
       ro: "Piața Menelik",
-      en: "Place Menelik"
-    },
+      en: "Place Menelik",
+image: "/poi-images/place-menelik-landmarks-v2.webp"
+},
     description: {
       de: "Der zentrale Platz der Stadt, umgeben von Gebäuden aus der Kolonialzeit, Cafés und Geschäften.",
       hu: "A város központi tere, gyarmati korabeli épületekkel, kávézókkal és üzletekkel körülvéve.",
@@ -271,8 +282,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Nationalversammlung",
       hu: "Nemzetgyűlés",
       ro: "Adunarea Națională",
-      en: "National Assembly"
-    },
+      en: "National Assembly",
+image: "/poi-images/national-assembly-landmarks-v2.webp"
+},
     description: {
       de: "Das Gebäude der Legislative von Dschibuti, in dem politische Entscheidungen getroffen werden.",
       hu: "Dzsibuti törvényhozásának épülete, ahol a politikai döntések születnek.",
@@ -294,8 +306,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Kempinski Palace Djibouti",
       hu: "Kempinski Palace Djibouti",
       ro: "Kempinski Palace Djibouti",
-      en: "Kempinski Palace Djibouti"
-    },
+      en: "Kempinski Palace Djibouti",
+image: "/poi-images/kempinski-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein luxuriöses Hotelresort, das als eines der architektonischen Aushängeschilder der modernen Stadt gilt.",
       hu: "Luxus szállodakomplexum, amely a modern város egyik építészeti védjegye.",
@@ -317,8 +330,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Marché Central",
       hu: "Központi Piac",
       ro: "Piața Centrală",
-      en: "Central Market"
-    },
+      en: "Central Market",
+image: "/poi-images/central-market-landmarks-v2.webp"
+},
     description: {
       de: "Ein pulsierender Marktplatz, der einen tiefen Einblick in das tägliche Leben und die Kultur Dschibutis bietet.",
       hu: "Lüktető piactér, amely mély betekintést nyújt Dzsibuti mindennapi életébe és kultúrájába.",
@@ -340,8 +354,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Monument der Einheit",
       hu: "Egység emlékmű",
       ro: "Monumentul Unității",
-      en: "Unity Monument"
-    },
+      en: "Unity Monument",
+image: "/poi-images/unity-monument-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Denkmal, das die Zusammengehörigkeit der verschiedenen ethnischen Gruppen des Landes symbolisiert.",
       hu: "Jellegzetes emlékmű, amely az ország különböző etnikai csoportjainak összetartozását szimbolizálja.",
@@ -363,8 +378,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Alter Bahnhof von Dschibuti",
       hu: "Dzsibuti régi vasútállomása",
       ro: "Vechea Gară din Djibouti",
-      en: "Old Djibouti Train Station"
-    },
+      en: "Old Djibouti Train Station",
+image: "/poi-images/old-train-station-landmarks-v2.webp"
+},
     description: {
       de: "Das historische Bahnhofsgebäude der ehemaligen französisch-äthiopischen Eisenbahnlinie.",
       hu: "Az egykori francia-etióp vasútvonal történelmi állomásépülete.",
@@ -387,8 +403,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Al-Sada-Moschee",
       hu: "Al-Sada mecset",
       ro: "Moscheea Al-Sada",
-      en: "Al-Sada Mosque"
-    },
+      en: "Al-Sada Mosque",
+image: "/poi-images/al-sada-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Moschee in der Nähe des Hafens, bekannt für ihre elegante Bauweise.",
       hu: "Lenyűgöző mecset a kikötő közelében, elegáns építési stílusáról ismert.",
@@ -410,8 +427,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Maison de la Culture",
       hu: "Kultúra Háza",
       ro: "Casa Culturii",
-      en: "Culture House"
-    },
+      en: "Culture House",
+image: "/poi-images/culture-house-landmarks-v2.webp"
+},
     description: {
       de: "Ein Zentrum für Kunst und Kultur, das Ausstellungen, Konzerte und Workshops beherbergt.",
       hu: "Művészeti és kulturális központ, amely kiállításoknak, koncerteknek és workshopoknak ad otthont.",
@@ -433,8 +451,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Französische Botschaft",
       hu: "Francia Nagykövetség",
       ro: "Ambasada Franței",
-      en: "French Embassy"
-    },
+      en: "French Embassy",
+image: "/poi-images/french-embassy-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Gebäude, das die langjährigen Beziehungen zwischen Frankreich und Dschibuti repräsentiert.",
       hu: "Történelmi épület, amely Franciaország és Dzsibuti régóta fennálló kapcsolatait jelképezi.",
@@ -456,8 +475,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Hafen von Tadjourah",
       hu: "Tadjoura kikötője",
       ro: "Portul Tadjourah",
-      en: "Tadjourah Port"
-    },
+      en: "Tadjourah Port",
+image: "/poi-images/tadjourah-port-landmarks-v2.webp"
+},
     description: {
       de: "Ein moderner Exporthafen, der speziell für den Umschlag von Kali aus Äthiopien konzipiert wurde.",
       hu: "Modern exportkikötő, amelyet kifejezetten az Etiópiából származó kálium átrakodására terveztek.",
@@ -479,8 +499,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Fort von Sagallou",
       hu: "Sagallou erőd",
       ro: "Fortăreața Sagallou",
-      en: "Fort of Sagallou"
-    },
+      en: "Fort of Sagallou",
+image: "/poi-images/sagallou-fort-landmarks-v2.webp"
+},
     description: {
       de: "Die Ruinen einer alten Festung, die Zeugnis von der kurzen russischen Präsenz in der Region ablegen.",
       hu: "Egy régi erőd romjai, amelyek a rövid ideig tartó orosz jelenlétről tanúskodnak a régióban.",
@@ -503,8 +524,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Institut Français de Djibouti",
       hu: "Francia Intézet - Dzsibuti",
       ro: "Institutul Francez din Djibouti",
-      en: "Institut Français de Djibouti"
-    },
+      en: "Institut Français de Djibouti",
+image: "/poi-images/french-institute-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges kulturelles Zentrum, das die französische Sprache und Kultur fördert.",
       hu: "Fontos kulturális központ, amely a francia nyelvet és kultúrát népszerűsíti.",
@@ -526,8 +548,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Gebäude der Freihandelszone",
       hu: "Szabadkereskedelmi Övezet épülete",
       ro: "Clădirea Zonei Libere",
-      en: "Djibouti Free Zone Building"
-    },
+      en: "Djibouti Free Zone Building",
+image: "/poi-images/free-zone-building-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Verwaltungsgebäude, das das wirtschaftliche Wachstum Dschibutis symbolisiert.",
       hu: "Modern közigazgatási épület, amely Dzsibuti gazdasági növekedését jelképezi.",
@@ -550,8 +573,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Bank of Africa Tower",
       hu: "Bank of Africa Tower",
       ro: "Bank of Africa Tower",
-      en: "Bank of Africa Tower"
-    },
+      en: "Bank of Africa Tower",
+image: "/poi-images/boa-tower-landmarks-v2.webp"
+},
     description: {
       de: "Eines der höchsten und modernsten Gebäude der Stadt, das die Skyline von Dschibuti prägt.",
       hu: "A város egyik legmagasabb és legmodernebb épülete, amely meghatározza Dzsibuti sziluettjét.",
@@ -573,8 +597,9 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       de: "Théâtre des Salines",
       hu: "Salines Színház",
       ro: "Teatrul Salines",
-      en: "Théâtre des Salines"
-    },
+      en: "Théâtre des Salines",
+image: "/poi-images/theatre-des-salines-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Freilufttheater, das für kulturelle Veranstaltungen und Konzerte genutzt wird.",
       hu: "Jellegzetes szabadtéri színház, amelyet kulturális rendezvényekre és koncertekre használnak.",

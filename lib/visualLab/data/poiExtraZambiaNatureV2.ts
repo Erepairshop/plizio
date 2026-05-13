@@ -7,7 +7,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-10",
     coords: [23.5833, -15.1167],
-    name: { de: "Sambesi", hu: "Zambézi", ro: "Zambezi", en: "Zambezi River" },
+    name: { de: "Sambesi", hu: "Zambézi", ro: "Zambezi", en: "Zambezi River",
+image: "/poi-images/zambezi-river-nature-v2.webp"
+},
     description: { de: "Afrikas viertgrößter Fluss, der durch Sambia fließt.", hu: "Afrika negyedik leghosszabb folyója, amely keresztülfolyik Zambián, táplálva a Viktória-vízesést és a Kariba-tavat.", ro: "Al patrulea cel mai lung fluviu din Africa, care curge prin Zambia.", en: "The fourth longest river in Africa, providing vital resources and habitats across its course through Zambia." },
     facts: {
       de: ["Länge ca. 2574 km", "Mündet in den Indischen Ozean", "Wichtigster Lebensraum", "Bildet Victoriafälle"],
@@ -20,7 +22,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-10",
     coords: [25.8567, -17.9244],
-    name: { de: "Victoriafälle", hu: "Viktória-vízesés", ro: "Cascada Victoria", en: "Victoria Falls" },
+    name: { de: "Victoriafälle", hu: "Viktória-vízesés", ro: "Cascada Victoria", en: "Victoria Falls",
+image: "/poi-images/victoria-falls-nature-v2.webp"
+},
     description: { de: "Die Victoriafälle, lokal als 'Mosi-oa-Tunya' bekannt, sind einer der größten und spektakulärsten Wasserfälle der Erde.", hu: "A világ egyik legnagyobb és leglátványosabb vízesése.", ro: "Una dintre cele mai mari și spectaculoase cascade din lume.", en: "One of the world's largest and most spectacular waterfalls." },
     facts: {
       de: ["UNESCO-Weltnaturerbe", "Breite von über 1.700 Metern", "Grenzfluss zwischen Sambia und Simbabwe"],
@@ -33,7 +37,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-05",
     coords: [28.0, -16.5],
-    name: { de: "Kariba-Stausee", hu: "Kariba-tó", ro: "Lacul Kariba", en: "Lake Kariba" },
+    name: { de: "Kariba-Stausee", hu: "Kariba-tó", ro: "Lacul Kariba", en: "Lake Kariba",
+image: "/poi-images/lake-kariba-nature-v2.webp"
+},
     description: { de: "Der größte von Menschenhand geschaffene Stausee der Welt.", hu: "A világ legnagyobb mesterséges víztározója.", ro: "Cel mai mare lac de acumulare artificial din lume.", en: "The world's largest man-made reservoir." },
     facts: {
       de: ["Fläche ca. 5580 km²", "An der Grenze zu Simbabwe", "Dient der Energiegewinnung", "Wichtige Fischereiquelle"],
@@ -46,7 +52,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-10",
     coords: [24.0, -17.0],
-    name: { de: "Kalahari", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari Desert" },
+    name: { de: "Kalahari", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari Desert",
+image: "/poi-images/kalahari-desert-nature-v2.webp"
+},
     description: { de: "Ausläufer der Kalahari-Wüste erstrecken sich bis in den Westen Sambias und prägen dort die landscape mit sandigen Ebenen.", hu: "A dél-afrikai sivatag legészakibb nyúlványai Zambia nyugati részén, ahol a homokos síkságok határozzák meg a tájat.", ro: "O zonă extinsă de semideșert în sudul Africii.", en: "A large semi-arid sandy savanna in southern Africa that extends into parts of western Zambia." },
     facts: {
       de: ["Halbwüste mit reicher Flora", "Prägt den Westen des Landes", "Wichtiger Lebensraum für Wildtiere"],
@@ -59,7 +67,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-01",
     coords: [30.1667, -11.25],
-    name: { de: "Bangweulusümpfe", hu: "Bangweulu-mocsár", ro: "Mlaștinile Bangweulu", en: "Bangweulu Swamps" },
+    name: { de: "Bangweulusümpfe", hu: "Bangweulu-mocsár", ro: "Mlaștinile Bangweulu", en: "Bangweulu Swamps",
+image: "/poi-images/bangweulu-swamp-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Feuchtgebiet im Norden Sambias.", hu: "Jelentős vizes élőhely Zambia északi részén.", ro: "O zonă umedă importantă în nordul Zambiei.", en: "A significant wetland area in northern Zambia." },
     facts: {
       de: ["Reich an Tierwelt", "Heimat des Schuhschnabels", "Saisonale Überschwemmungen", "Große Artenvielfalt"],
@@ -79,7 +89,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-04",
     coords: [30.4167, -15.6],
-    name: { de: "Luangwa", hu: "Luangwa folyó", ro: "Râul Luangwa", en: "Luangwa River" },
+    name: { de: "Luangwa", hu: "Luangwa folyó", ro: "Râul Luangwa", en: "Luangwa River",
+image: "/poi-images/luangwa-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Nebenfluss des Sambesi in Sambia.", hu: "A Zambézi jelentős mellékfolyója Zambiában.", ro: "Un afluent important al Zambezilor în Zambia.", en: "A major tributary of the Zambezi in Zambia." },
     facts: {
       de: ["Länge ca. 770 km", "Wichtige Lebensader", "Bekannt für Nationalparks", "Große Elefantenpopulation"],
@@ -92,7 +104,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-01",
     coords: [29.3333, -9.0],
-    name: { de: "Mwerusee", hu: "Mweru-tó", ro: "Lacul Mweru", en: "Lake Mweru" },
+    name: { de: "Mwerusee", hu: "Mweru-tó", ro: "Lacul Mweru", en: "Lake Mweru",
+image: "/poi-images/lake-mweru-nature-v2.webp"
+},
     description: { de: "Ein Süßwassersee an der Grenze zwischen Sambia und der DR Kongo.", hu: "Édesvízi tó Zambia és a Kongói DK határán.", ro: "Un lac cu apă dulce la granița dintre Zambia și RD Congo.", en: "A freshwater lake on the border between Zambia and DR Congo." },
     facts: {
       de: ["Wichtige Fischerei", "Länge ca. 131 km", "Breite ca. 56 km", "Zufluss: Luapula"],
@@ -105,7 +119,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-03",
     coords: [28.25, -15.75],
-    name: { de: "Kafue", hu: "Kafue folyó", ro: "Râul Kafue", en: "Kafue River" },
+    name: { de: "Kafue", hu: "Kafue folyó", ro: "Râul Kafue", en: "Kafue River",
+image: "/poi-images/kafue-river-nature-v2.webp"
+},
     description: { de: "Der längste Fluss, der vollständig in Sambia fließt.", hu: "A leghosszabb folyó, amely teljes egészében Zambiában folyik.", ro: "Cel mai lung râu care curge integral în Zambia.", en: "The longest river flowing entirely within Zambia." },
     facts: {
       de: ["Länge ca. 1576 km", "Speist den Kafue-Nationalpark", "Wichtig für Bewässerung", "Mündet in den Sambesi"],
@@ -118,7 +134,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-09",
     coords: [31.0, -8.5],
-    name: { de: "Tanganjikasee", hu: "Tanganyika-tó", ro: "Lacul Tanganyika", en: "Lake Tanganyika" },
+    name: { de: "Tanganjikasee", hu: "Tanganyika-tó", ro: "Lacul Tanganyika", en: "Lake Tanganyika",
+image: "/poi-images/lake-tanganyika-zambia-nature-v2.webp"
+},
     description: { de: "Der Tanganjikasee ist der zweittiefste See der Welt und bildet im Norden die Grenze Sambias zu Tansania.", hu: "A világ második legmélyebb édesvízi tava, amelynek déli partvidéke Zambiához tartozik, kristálytiszta vizéről híres.", ro: "Lacul Tanganyika este unul dintre cele mai mari și mai adânci lacuri de apă dulce din lume, formând granița de nord a Zambiei.", en: "An immense, ancient freshwater lake in Africa, bordering Zambia and known for its extraordinary biodiversity." },
     facts: {
       de: ["Enorme Artenvielfalt an Fischen", "Einer der ältesten Seen der Welt", "Wichtiger Transportweg"],
@@ -131,7 +149,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "mountain",
     parent: "ZM-04",
     coords: [32.0, -11.0],
-    name: { de: "Muchinga-Gebirge", hu: "Muchinga-hegység", ro: "Munții Muchinga", en: "Muchinga Mountains" },
+    name: { de: "Muchinga-Gebirge", hu: "Muchinga-hegység", ro: "Munții Muchinga", en: "Muchinga Mountains",
+image: "/poi-images/muchinga-mountains-nature-v2.webp"
+},
     description: { de: "Das Muchinga-Gebirge bildet eine markante Wasserscheide im Nordosten Sambias und trennt das Luangwa- vom Kongo-Becken.", hu: "Északkelet-Zambia meghatározó hegylánca, amely vízválasztóként szolgál a Kongó és a Zambézi folyórendszerei között.", ro: "Munții Muchinga formează o creastă spectaculoasă care separă bazinele râurilor Zambezi și Congo.", en: "A rugged mountain range in north-eastern Zambia known for its scenic views and diverse ecosystems." },
     facts: {
       de: ["Markante Bergkette", "Wasserscheide zwischen zwei Becken", "Unberührte Berglandschaften"],
@@ -144,7 +164,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-01",
     coords: [29.0, -10.0],
-    name: { de: "Luapula", hu: "Luapula folyó", ro: "Râul Luapula", en: "Luapula River" },
+    name: { de: "Luapula", hu: "Luapula folyó", ro: "Râul Luapula", en: "Luapula River",
+image: "/poi-images/luapula-river-nature-v2.webp"
+},
     description: { de: "Der Luapula-Fluss bildet einen Teil des Kongo-Flusssystems und markiert die Grenze zwischen Sambia und der DR Kongo.", hu: "Zambia és a Kongói Demokratikus Köztársaság határfolyója, amely hatalmas mocsárvidékeken és zuhatagokon folyik keresztül.", ro: "Râul Luapula face parte din sistemul fluviului Congo și marchează o porțiune lungă din granița dintre Zambia și RD Congo.", en: "A significant river in northern Zambia that flows into Lake Mweru." },
     facts: {
       de: ["Wichtiger Grenzfluss", "Reich an Fischgründen", "Teil des oberen Kongo-Systems"],
@@ -157,7 +179,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-07",
     coords: [23.0, -15.0],
-    name: { de: "Sambesi-Überschwemmungsgebiete", hu: "Zambézi-ártér", ro: "Câmpiile inundabile ale Zambezilor", en: "Zambezi Floodplains" },
+    name: { de: "Sambesi-Überschwemmungsgebiete", hu: "Zambézi-ártér", ro: "Câmpiile inundabile ale Zambezilor", en: "Zambezi Floodplains",
+image: "/poi-images/zambezi-floodplains-nature-v2.webp"
+},
     description: { de: "Weite Gebiete, die periodisch vom Sambesi überflutet werden.", hu: "Kiterjedt területek, amelyeket időszakosan elönt a Zambézi.", ro: "Zone extinse inundate periodic de fluviul Zambezi.", en: "Vast areas periodically flooded by the Zambezi river." },
     facts: {
       de: ["Große Artenvielfalt", "Saisonale Dynamik", "Wichtig für Vögel", "Traditionelle Landnutzung"],
@@ -171,7 +195,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-02",
     coords: [28.45, -14.45],
-    name: { de: "Kabwe-Region", hu: "Kabwe régió", ro: "Regiunea Kabwe", en: "Kabwe Region" },
+    name: { de: "Kabwe-Region", hu: "Kabwe régió", ro: "Regiunea Kabwe", en: "Kabwe Region",
+image: "/poi-images/kabwe-region-nature-v2.webp"
+},
     description: { de: "Die Region um Kabwe ist geologisch für ihre reichen Vorkommen an Blei- und Zinkerzen bekannt.", hu: "Zambia központi területe, amely geológiai szempontból gazdag ásványkincsekben, és bányászati múltjáról ismert.", ro: "Regiunea Kabwe este cunoscută istoric pentru resursele sale minerale, dar și pentru peisajele de platou din provincia Centrală.", en: "A region in central Zambia known for its unique geological and biological features." },
     facts: {
       de: ["Bedeutende Mineralvorkommen", "Historisches Bergbaugebiet", "Zentrum der Zentralprovinz"],
@@ -184,7 +210,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-04",
     coords: [31.5, -10.5],
-    name: { de: "Chambeshi", hu: "Chambeshi folyó", ro: "Râul Chambeshi", en: "Chambeshi River" },
+    name: { de: "Chambeshi", hu: "Chambeshi folyó", ro: "Râul Chambeshi", en: "Chambeshi River",
+image: "/poi-images/lake-chambeshi-nature-v2.webp"
+},
     description: { de: "Der am weitesten entfernte Quellfluss des Kongobeckens.", hu: "A Chambeshi folyó mentén elhelyezkedő vizes élőhely, amely fontos szerepet játszik a helyi ökoszisztémában és a vízi madarak életében.", ro: "Lacul Chambeshi este o zonă umedă importantă alimentată de râul cu același nume, în nord-estul Zambiei.", en: "A lake associated with the Chambeshi River system, supporting local wetland biodiversity." },
     facts: {
       de: ["Länge ca. 480 km", "Wichtiger Zufluss", "Labyrinth aus Sümpfen", "Einzigartiges Ökosystem"],
@@ -197,7 +225,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-04",
     coords: [33.5, -12.5],
-    name: { de: "Malawisee-Rand", hu: "Malawi-tó menti vidék", ro: "Regiunea Lacului Malawi", en: "Lake Malawi region" },
+    name: { de: "Malawisee-Rand", hu: "Malawi-tó menti vidék", ro: "Regiunea Lacului Malawi", en: "Lake Malawi region",
+image: "/poi-images/malawi-lake-zambia-nature-v2.webp"
+},
     description: { de: "Ein kleiner Teil des Malawisees, auch Malombesee genannt, berührt das sambische Staatsgebiet im Osten.", hu: "Bár a tó legnagyobb része Malawiban van, Zambia keleti határánál is találhatók a vízgyűjtőjéhez tartozó területek.", ro: "Lacul Malawi, cunoscut și sub numele de Lacul Nyasa, se învecinează cu estul Zambiei, fiind renumit pentru biodiversitatea sa.", en: "The eastern fringe areas near Lake Malawi." },
     facts: {
       de: ["Grenzregion zu Malawi", "Vogelreiches Feuchtgebiet", "Fischreicher Süßwassersee"],
@@ -210,7 +240,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-06",
     coords: [22.0, -13.5],
-    name: { de: "Lungwebungu", hu: "Lungwebungu folyó", ro: "Râul Lungwebungu", en: "Lungwebungu River" },
+    name: { de: "Lungwebungu", hu: "Lungwebungu folyó", ro: "Râul Lungwebungu", en: "Lungwebungu River",
+image: "/poi-images/lungwebungu-river-nature-v2.webp"
+},
     description: { de: "Der Lungwebungu ist der größte Nebenfluss des oberen Sambesi und fließt durch die abgelegenen Gebiete im Westen.", hu: "A Zambézi jelentős mellékfolyója Nyugat-Zambiában.", ro: "Râul Lungwebungu este cel mai lung afluent al cursului superior al râului Zambezi, izvorând din Angola.", en: "A major tributary of the Zambezi River flowing through western Zambia." },
     facts: {
       de: ["Bedeutender Nebenfluss des Sambesi", "Fließt durch sandige Ebenen", "Wichtiger Wasserweg im Westen"],
@@ -224,7 +256,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-06",
     coords: [24.5, -13.5],
-    name: { de: "Kabompo", hu: "Kabompo folyó", ro: "Râul Kabompo", en: "Kabompo River" },
+    name: { de: "Kabompo", hu: "Kabompo folyó", ro: "Râul Kabompo", en: "Kabompo River",
+image: "/poi-images/kabompo-river-nature-v2.webp"
+},
     description: { de: "Der Kabompo-Fluss ist einer der tiefsten Flüsse Afrikas und durchquert dichte Miombo-Wälder im Nordwesten Sambias.", hu: "A Zambézi egyik legmélyebb és legtisztább mellékfolyója, amely az ország északnyugati sűrű erdőségein halad át.", ro: "Râul Kabompo este un afluent important al Zambeziului superior, cunoscut pentru apele sale adânci și limpezi.", en: "A large river in the North-Western province, serving as a significant Zambezi tributary." },
     facts: {
       de: ["Tiefster Fluss in Sambia", "Hauptzufluss des Sambesi", "Fließt durch die Nordwestprovinz"],
@@ -237,7 +271,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-04",
     coords: [31.0, -12.5],
-    name: { de: "Luangwa-Tal", hu: "Luangwa-völgy", ro: "Valea Luangwa", en: "Luangwa Valley" },
+    name: { de: "Luangwa-Tal", hu: "Luangwa-völgy", ro: "Valea Luangwa", en: "Luangwa Valley",
+image: "/poi-images/luangwa-valley-nature-v2.webp"
+},
     description: { de: "Ein tiefes Tal, bekannt für eine der höchsten Wildtierkonzentrationen Afrikas.", hu: "Mély völgy, amely Afrika egyik legmagasabb vadvilág-koncentrációjáról ismert.", ro: "O vale adâncă, cunoscută pentru una dintre cele mai mari concentrații de animale sălbatice din Africa.", en: "An extensive valley in eastern Zambia, famous for its abundant wildlife and national parks." },
     facts: {
       de: ["Heimat von Leoparden", "Naturschutzgebiet", "Vielfältige Landschaften", "Wichtiges Ökosystem"],
@@ -251,7 +287,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-04",
     coords: [30.5, -13.0],
-    name: { de: "Lusiwashi-See", hu: "Lusiwashi-tó", ro: "Lacul Lusiwashi", en: "Lusiwashi Lake" },
+    name: { de: "Lusiwashi-See", hu: "Lusiwashi-tó", ro: "Lacul Lusiwashi", en: "Lusiwashi Lake",
+image: "/poi-images/lusiwashi-lake-nature-v2.webp"
+},
     description: { de: "Der Lusiwashi-See ist ein kleiner, aber wichtiger Binnensee in der Zentralprovinz, der zur lokalen Stromerzeugung genutzt wird.", hu: "A Központi tartományban található kisebb tó, amely mellett vízerőmű is üzemel, ellátva a környéket energiával.", ro: "Lacul Lusiwashi este un lac de baraj situat în provincia Centrală, utilizat în principal pentru producția de energie hidroelectrică.", en: "A scenic lake in central Zambia providing local water and supporting fishing activities." },
     facts: {
       de: ["Wichtig für Wasserkraft", "Umgeben von Feuchtgebieten", "In der Zentralprovinz gelegen"],
@@ -264,7 +302,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-01",
     coords: [31.0, -10.2],
-    name: { de: "Chishimba-Fälle", hu: "Chishimba-vízesés", ro: "Cascada Chishimba", en: "Chishimba Falls" },
+    name: { de: "Chishimba-Fälle", hu: "Chishimba-vízesés", ro: "Cascada Chishimba", en: "Chishimba Falls",
+image: "/poi-images/chishimba-falls-nature-v2.webp"
+},
     description: { de: "Die Chishimba-Fälle bestehen aus drei aufeinanderfolgenden Wasserfällen und gelten als heilige Stätte der Bemba.", hu: "Az Északi tartományban, Kasama közelében található gyönyörű vízeséssorozat, amely fontos spirituális hely a helyi bemba nép számára.", ro: "Cascadele Chishimba sunt un complex de trei căderi de apă spectaculoase situate pe râul Luombe, lângă Kasama.", en: "A series of impressive waterfalls on the Luombe River in northern Zambia." },
     facts: {
       de: ["Drei separate Fallstufen", "Heiliger Ort der Einheimischen", "Nahe der Stadt Kasama"],
@@ -284,7 +324,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-09",
     coords: [31.25, -8.6],
-    name: { de: "Kalambo-Fälle", hu: "Kalambo-vízesés", ro: "Cascada Kalambo", en: "Kalambo Falls" },
+    name: { de: "Kalambo-Fälle", hu: "Kalambo-vízesés", ro: "Cascada Kalambo", en: "Kalambo Falls",
+image: "/poi-images/kalambo-falls-nature-v2.webp"
+},
     description: { de: "Die Kalambo-Fälle an der Grenze zu Tansania gehören zu den höchsten einstufigen Wasserfällen Afrikas.", hu: "Afrika egyik legmagasabb egylépcsős vízesése a Tanganyika-tó közelében, amely fontos régészeti lelőhely is egyben.", ro: "Cascada Kalambo este una dintre cele mai înalte căderi de apă neîntrerupte din Africa, situată la granița cu Tanzania.", en: "A spectacular waterfall on the Kalambo River, marking the border between Zambia and Tanzania." },
     facts: {
       de: ["221 Meter Fallhöhe", "Bedeutende archäologische Fundstätte", "Zweithöchster freier Fall Afrikas"],
@@ -297,7 +339,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-07",
     coords: [23.5, -16.6],
-    name: { de: "Ngonye-Fälle", hu: "Ngonye-vízesés", ro: "Cascada Ngonye", en: "Ngonye Falls" },
+    name: { de: "Ngonye-Fälle", hu: "Ngonye-vízesés", ro: "Cascada Ngonye", en: "Ngonye Falls",
+image: "/poi-images/ngonye-falls-nature-v2.webp"
+},
     description: { de: "Die Ngonye-Fälle, auch Sioma-Fälle genannt, sind hufeisenförmige Wasserfälle im Oberlauf des Sambesi.", hu: "A Zambézi folyó felső szakaszán található széles, látványos vízeséssorozat, amely Sioma közelében fekszik.", ro: "Cascadele Ngonye, cunoscute și sub numele de Sioma Falls, sunt o serie impresionantă de căderi de apă pe cursul râului Zambezi.", en: "Powerful falls on the Zambezi River in western Zambia, noted for their width and scenic beauty." },
     facts: {
       de: ["Breite Hufeisenform", "Im Sioma-Ngwezi-Nationalpark", "Beeindruckende Wassermassen"],
@@ -310,7 +354,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-01",
     coords: [30.0, -9.5],
-    name: { de: "Lupupa-Sumpf", hu: "Lupupa-mocsár", ro: "Mlaștina Lupupa", en: "Lupupa Swamp" },
+    name: { de: "Lupupa-Sumpf", hu: "Lupupa-mocsár", ro: "Mlaștina Lupupa", en: "Lupupa Swamp",
+image: "/poi-images/lupupa-swamp-nature-v2.webp"
+},
     description: { de: "Der Lupupa-Sumpf ist ein ausgedehntes Feuchtgebiet in der Nordprovinz, das eine reiche Vogelwelt beherbergt.", hu: "Zambia egyik kevésbé ismert mocsárvidéke, amely gazdag biodiverzitásáról és fontos vizes élőhelyi funkciójáról nevezetes.", ro: "Mlaștina Lupupa este o zonă umedă protejată situată în provincia de Nord, esențială pentru păsările migratoare.", en: "A wetland area in Zambia supporting diverse flora and fauna." },
     facts: {
       de: ["Wichtiges Ökosystem", "Lebensraum für seltene Vögel", "Sumpflandschaft im Norden"],
@@ -323,7 +369,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-09",
     coords: [29.8, -8.7],
-    name: { de: "Mweru-Wantipa-See", hu: "Mweru-Wantipa-tó", ro: "Lacul Mweru-Wantipa", en: "Mweru-Wantipa Lake" },
+    name: { de: "Mweru-Wantipa-See", hu: "Mweru-Wantipa-tó", ro: "Lacul Mweru-Wantipa", en: "Mweru-Wantipa Lake",
+image: "/poi-images/mweru-wantipa-lake-nature-v2.webp"
+},
     description: { de: "Der Mweru-Wantipa-See ist ein abflussloser See in einem Nationalpark, bekannt für seine schwankenden Wasserstände.", hu: "Az Északi tartományban található tó és mocsárvidék, amely időszakosan változtatja méretét és sós víztartalmát.", ro: "Lacul Mweru Wantipa este un sistem complex de lacuri și mlaștini situat într-o depresiune din nordul Zambiei.", en: "A lake in northern Zambia characterized by its variable water levels and surrounding swamps." },
     facts: {
       de: ["Innerhalb eines Nationalparks", "Große Fischbestände", "Isoliertes Seebecken"],
@@ -336,7 +384,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-04",
     coords: [32.5, -10.0],
-    name: { de: "Luangwa-Quellregion", hu: "Luangwa-forrásvidék", ro: "Regiunea sursei Luangwa", en: "Luangwa Headwaters" },
+    name: { de: "Luangwa-Quellregion", hu: "Luangwa-forrásvidék", ro: "Regiunea sursei Luangwa", en: "Luangwa Headwaters",
+image: "/poi-images/luangwa-river-head-nature-v2.webp"
+},
     description: { de: "Das Quellgebiet des Luangwa-Flusses liegt im Mafinga-Gebirge nahe der Grenze zu Malawi.", hu: "A Luangwa folyó forrásvidéke az északkeleti hegyekben, ahonnan Zambia egyik legvadregényesebb folyója útjára indul.", ro: "Izvoarele râului Luangwa se află în Munții Mafinga, la granița cu Malawi, într-o zonă montană spectaculoasă.", en: "The headwaters of the Luangwa River, located in the mountainous north-eastern region." },
     facts: {
       de: ["Ursprung eines großen Flusses", "Im Mafinga-Hochland", "Wichtige hydrologische Zone"],
@@ -349,7 +399,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "river",
     parent: "ZM-02",
     coords: [28.8, -14.8],
-    name: { de: "Mulungushi", hu: "Mulungushi folyó", ro: "Râul Mulungushi", en: "Mulungushi River" },
+    name: { de: "Mulungushi", hu: "Mulungushi folyó", ro: "Râul Mulungushi", en: "Mulungushi River",
+image: "/poi-images/mulungushi-river-nature-v2.webp"
+},
     description: { de: "Der Mulungushi-Fluss ist ein Nebenfluss des Lunsemfwa und historisch bedeutsam für die erste Talsperre des Landes.", hu: "Központi-Zambia fontos folyója, amelyen az ország egyik első vízerőművét építették meg a bányák áramellátására.", ro: "Râul Mulungushi este renumit pentru barajul și centrala sa hidroelectrică, fiind unul dintre pilonii dezvoltării industriale timpurii.", en: "A river in central Zambia, important for local irrigation and hydro-power potential." },
     facts: {
       de: ["Standort des ersten Staudamms", "Wichtiger Nebenfluss", "Nahe der Stadt Kabwe"],
@@ -362,7 +414,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-01",
     coords: [29.2, -9.5],
-    name: { de: "Luapula-Tal", hu: "Luapula-völgy", ro: "Valea Luapula", en: "Luapula Valley" },
+    name: { de: "Luapula-Tal", hu: "Luapula-völgy", ro: "Valea Luapula", en: "Luapula Valley",
+image: "/poi-images/luapula-valley-nature-v2.webp"
+},
     description: { de: "Ein üppiges Tal in der Luapula-Region.", hu: "A Luapula folyó menti termékeny völgy, amely sűrűn lakott mezőgazdasági és halászati terület a kongói határ mentén.", ro: "Valea Luapula este o regiune fertilă și dens populată, situată de-a lungul râului Luapula la granița cu RD Congo.", en: "A lush valley in the Luapula region." },
     facts: {
       de: ["Reiche Vegetation", "Große Artenvielfalt", "Wichtiges Habitat", "Flusslandschaft"],
@@ -375,7 +429,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "lake",
     parent: "ZM-03",
     coords: [26.0, -15.8],
-    name: { de: "Itezhi-Tezhi-Stausee", hu: "Itezhi-Tezhi-tó", ro: "Lacul Itezhi-Tezhi", en: "Itezhi-Tezhi Lake" },
+    name: { de: "Itezhi-Tezhi-Stausee", hu: "Itezhi-Tezhi-tó", ro: "Lacul Itezhi-Tezhi", en: "Itezhi-Tezhi Lake",
+image: "/poi-images/iitezhi-tezhi-lake-nature-v2.webp"
+},
     description: { de: "Der Itezhi-Tezhi-See entstand durch eine Talsperre am Kafue-Fluss und grenzt an den Kafue-Nationalpark.", hu: "Jelentős mesterséges tó a Kafue Nemzeti Parkban.", ro: "Un lac artificial important în Parcul Național Kafue.", en: "A reservoir created by the Itezhi-Tezhi Dam on the Kafue River, supporting regional wildlife." },
     facts: {
       de: ["Großer Stausee am Kafue", "Reguliert den Wasserfluss", "Reich an Flusspferden und Krokodilen"],
@@ -388,7 +444,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-02",
     coords: [28.2, -14.9],
-    name: { de: "Chisamba-Wälder", hu: "Chisamba-erdők", ro: "Pădurile Chisamba", en: "Chisamba Forests" },
+    name: { de: "Chisamba-Wälder", hu: "Chisamba-erdők", ro: "Pădurile Chisamba", en: "Chisamba Forests",
+image: "/poi-images/chisamba-forest-nature-v2.webp"
+},
     description: { de: "Der Chisamba-Wald ist ein geschütztes Waldgebiet in der Nähe von Lusaka, das für seine Miombo-Vegetation bekannt ist.", hu: "Lusaka közelében található erdős terület, amely fontos szerepet játszik a helyi fakitermelésben és a természetvédelemben.", ro: "Pădurea Chisamba este o rezervație forestieră situată la nord de Lusaka, protejând vegetația nativă de tip miombo.", en: "A forested area in central Zambia, valued for its biodiversity and timber resources." },
     facts: {
       de: ["Typische Miombo-Wälder", "Wichtige grüne Lunge", "Nahe der Hauptstadt"],
@@ -408,7 +466,9 @@ export const poiExtraZambiaNatureV2: POI[] = [
     type: "forest",
     parent: "ZM-04",
     coords: [31.5, -12.0],
-    name: { de: "Luangwa-Sümpfe", hu: "Luangwa-mocsarak", ro: "Mlaștinile Luangwa", en: "Luangwa Swamps" },
+    name: { de: "Luangwa-Sümpfe", hu: "Luangwa-mocsarak", ro: "Mlaștinile Luangwa", en: "Luangwa Swamps",
+image: "/poi-images/luangwa-swamps-nature-v2.webp"
+},
     description: { de: "Periodisch überflutete Sumpfgebiete entlang des Luangwa.", hu: "Időszakosan elöntött mocsárterületek a Luangwa mentén.", ro: "Mlaștinile Luangwa reprezintă o vastă zonă inundabilă situată în valea inferioară a râului Luangwa.", en: "A swampy region associated with the Luangwa River, rich in diverse bird species." },
     facts: {
       de: ["Hohe Vogelkonzentration", "Saisonale Dynamik", "Einzigartige Flora", "Wichtiges Ökosystem"],

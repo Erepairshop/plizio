@@ -4,7 +4,9 @@ export const sloveniaReliefV2: POI[] = [
   {
     id: "slovenia-skrlatica-relief-v2",
     type: "peak",
-    name: { de: "Škrlatica", hu: "Škrlatica", ro: "Škrlatica", en: "Škrlatica" },
+    name: { de: "Škrlatica", hu: "Škrlatica", ro: "Škrlatica", en: "Škrlatica",
+image: "/poi-images/slovenia-skrlatica-relief-v2.webp"
+},
     coords: [13.8217, 46.4322],
     coordinates: { lat: 46.4322, lng: 13.8217 },
     description: {
@@ -19,11 +21,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2740 metri", "Al doilea vârf ca înălțime", "Munții Alpii Julieni", "Numele înseamnă Muntele Stacojiu"],
       en: ["Elevation: 2,740 meters", "Second highest peak", "Julian Alps range", "Name means Scarlet Mountain"],
     },
-    imageHint: "Skrlatica mountain summit Julian Alps", image: "/poi-images/slovenia-skrlatica-relief-v2.webp"},
-  {
+imageHint: "Skrlatica mountain summit Julian Alps",
+    descriptionAdvanced: {
+      de: "Die Škrlatica ist mit 2740 Metern der zweithöchste Gipfel Sloweniens. Sie dominiert die nördliche Gruppe der Julischen Alpen und gilt als technisch anspruchsvoll zu besteigen.",
+      hu: "A Škrlatica 2740 méteres magasságával Szlovénia második legmagasabb csúcsa. A Júliai-Alpok északi részén található, tekintélyes sziklafalaival a tapasztalt hegymászók kedvelt célpontja.",
+      ro: "Škrlatica este al doilea cel mai înalt vârf din Slovenia, atingând 2740 de metri. Situat în Alpii Iulieni, muntele este cunoscut pentru traseele sale dificile și pereții stâncoși impunători.",
+      en: "At 2740 meters, Škrlatica is the second highest peak in Slovenia. Located in the Julian Alps, it is renowned for its rugged terrain and is a challenging objective for experienced climbers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2740 m n.m.", "Zweithöchster Berg des Landes", "Erstbesteigung durch Julius Kugy 1880", "Zugehörigkeit: Julische Alpen"],
+      hu: ["Magasság: 2740 méter", "Szlovénia 2. legmagasabb pontja", "Első megmászás: Julius Kugy, 1880", "Hegység: Júliai-Alpok"],
+      ro: ["Altitudine: 2740 metri", "Al doilea vârf ca înălțime din țară", "Prima ascensiune: Julius Kugy în 1880", "Lanț muntos: Alpii Iulieni"],
+      en: ["Elevation: 2740 m", "Second highest peak in Slovenia", "First ascent by Julius Kugy in 1880", "Mountain range: Julian Alps"],
+    },
+    image: "/poi-images/slovenia-skrlatica-relief-v2.webp",
+},  {
     id: "slovenia-mangart-relief-v2",
     type: "peak",
-    name: { de: "Mangart", hu: "Mangart", ro: "Mangart", en: "Mangart" },
+    name: { de: "Mangart", hu: "Mangart", ro: "Mangart", en: "Mangart",
+image: "/poi-images/slovenia-mangart-relief-v2.webp"
+},
     coords: [13.6542, 46.4406],
     coordinates: { lat: 46.4406, lng: 13.6542 },
     description: {
@@ -38,11 +55,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2679 metri", "Cea mai înaltă șosea din țară", "Munte de frontieră cu Italia", "Al treilea vârf ca înălțime"],
       en: ["Elevation: 2,679 meters", "Highest road in Slovenia", "Border peak with Italy", "Third highest peak"],
     },
-    imageHint: "Mangart mountain peak and saddle", image: "/poi-images/slovenia-mangart-relief-v2.webp"},
-  {
+imageHint: "Mangart mountain peak and saddle",
+    descriptionAdvanced: {
+      de: "Der Mangart ist ein markanter Grenzberg zwischen Slowenien und Italien. Er ist über die höchste Bergstraße Sloweniens zugänglich und bietet einen Panoramablick auf die Westalpen.",
+      hu: "A Mangart egy látványos határhegy Szlovénia és Olaszország között. Itt található az ország legmagasabb hegyi útja, amely a túrázókat egészen a Mangart-nyeregig repíti.",
+      ro: "Mangart este un munte proeminent situat la granița dintre Slovenia și Italia. Este accesibil prin cea mai înaltă șosea montană din Slovenia, oferind panorame spectaculoase.",
+      en: "Mangart is a prominent peak on the border between Slovenia and Italy. It is famous for the Mangart Road, the highest mountain road in Slovenia, reaching up to 2055 meters.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2679 m", "Mangartstraße erreicht 2055 m", "Dritthöchster Berg Sloweniens", "Lage: Grenze zu Italien"],
+      hu: ["Magasság: 2679 méter", "Mangart-út magassága: 2055 m", "Szlovénia 3. legmagasabb csúcsa", "Helyszín: Szlovén-olasz határ"],
+      ro: ["Altitudine: 2679 metri", "Șoseaua Mangart ajunge la 2055 m", "Al treilea vârf ca înălțime", "Locație: Granița cu Italia"],
+      en: ["Elevation: 2679 m", "Mangart Road peaks at 2055 m", "Third highest peak in Slovenia", "Location: Slovenia-Italy border"],
+    },
+    image: "/poi-images/slovenia-mangart-relief-v2.webp",
+},  {
     id: "slovenia-jalovec-relief-v2",
     type: "peak",
-    name: { de: "Jalovec", hu: "Jalovec", ro: "Jalovec", en: "Jalovec" },
+    name: { de: "Jalovec", hu: "Jalovec", ro: "Jalovec", en: "Jalovec",
+image: "/poi-images/slovenia-jalovec-relief-v2.webp"
+},
     coords: [13.6822, 46.4186],
     coordinates: { lat: 46.4186, lng: 13.6822 },
     description: {
@@ -57,11 +89,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2645 metri", "Simbolul asociației montane", "Formă de piramidă cristalină", "Munții Alpii Julieni"],
       en: ["Elevation: 2,645 meters", "Alpine Association symbol", "Crystalline pyramid shape", "Julian Alps"],
     },
-    imageHint: "Jalovec mountain peak Slovenia", image: "/poi-images/slovenia-jalovec-relief-v2.webp"},
-  {
+imageHint: "Jalovec mountain peak Slovenia",
+    descriptionAdvanced: {
+      de: "Der Jalovec gilt aufgrund seiner markanten Kristallform als einer der schönsten Berge der Julischen Alpen. Er ist das Symbol des Slowenischen Alpenvereins und ein Alpinisten-Ziel.",
+      hu: "A Jalovec jellegzetes kristályformája miatt a Júliai-Alpok egyik legszebb csúcsának számít. A Szlovén Hegymászó Szövetség jelképévé vált, megmászása komoly felkészültséget igényel.",
+      ro: "Jalovec este adesea considerat cel mai frumos munte din Alpii Iulieni datorită formei sale de cristal. Este simbolul Asociației Alpine Slovene și o destinație de elită.",
+      en: "Jalovec is often called the most beautiful mountain in the Julian Alps due to its crystalline shape. It is the symbol of the Slovenian Alpine Association and a top climbing goal.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2645 m", "Symbol des Alpenvereins (PZS)", "Zentraler Gipfel der Julischen Alpen", "Drei-Täler-Blick: Tamar, Trenta, Koritnica"],
+      hu: ["Magasság: 2645 méter", "A PZS hegymászó szövetség jelképe", "Hegység: Júliai-Alpok", "Kilátás: Tamar, Trenta és Koritnica völgyek"],
+      ro: ["Altitudine: 2645 metri", "Simbolul asociației PZS", "Localizare: Alpii Iulieni", "Vederi spre văile Tamar și Trenta"],
+      en: ["Elevation: 2645 m", "Symbol of the Alpine Association (PZS)", "Range: Julian Alps", "Views over Tamar, Trenta, and Koritnica valleys"],
+    },
+    image: "/poi-images/slovenia-jalovec-relief-v2.webp",
+},  {
     id: "slovenia-grintovec-relief-v2",
     type: "peak",
-    name: { de: "Grintovec", hu: "Grintovec", ro: "Grintovec", en: "Grintovec" },
+    name: { de: "Grintovec", hu: "Grintovec", ro: "Grintovec", en: "Grintovec",
+image: "/poi-images/slovenia-grintovec-relief-v2.webp"
+},
     coords: [14.535, 46.3533],
     coordinates: { lat: 46.3533, lng: 14.535 },
     description: {
@@ -76,11 +123,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2558 metri", "Cel mai înalt din Alpii Kamnik", "Trasee populare de drumeție", "La nord de Ljubljana"],
       en: ["Elevation: 2,558 meters", "Highest in Kamnik Alps", "Popular hiking destination", "North of Ljubljana"],
     },
-    imageHint: "Grintovec mountain peak Kamnik Alps", image: "/poi-images/slovenia-grintovec-relief-v2.webp"},
-  {
+imageHint: "Grintovec mountain peak Kamnik Alps",
+    descriptionAdvanced: {
+      de: "Der Grintovec ist der höchste Gipfel der Steiner Alpen. Sein kegelförmiges Erscheinungsbild dominiert das Panorama von Ljubljana aus und bietet eine klassische Hochgebirgswanderung.",
+      hu: "A Grintovec a Kamniki-Alpok legmagasabb csúcsa. Kúp alakú tömbje uralja a Ljubljana felőli panorámát, és népszerű célpont a magashegyi túrázók körében a Zois-ház felől.",
+      ro: "Grintovec este cel mai înalt vârf din Alpii Kamnik-Savinja. Forma sa piramidală este vizibilă de departe, fiind o destinație clasică pentru drumeții montane de vară.",
+      en: "Grintovec is the highest peak of the Kamnik-Savinja Alps. Its pyramid-like shape is a dominant feature of the horizon and is a popular destination for hikers from the Zois Hut.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2558 m", "Höchster Berg der Steiner Alpen", "Prominenz: 1706 m", "Berghütte: Cojzova koča (1793 m)"],
+      hu: ["Magasság: 2558 méter", "A Kamniki-Alpok legmagasabb pontja", "Relatív magasság: 1706 m", "Menedékház: Cojzova koča"],
+      ro: ["Altitudine: 2558 metri", "Cel mai înalt din Alpii Kamnik-Savinja", "Prominență: 1706 m", "Cabana Zois (Cojzova koča) la 1793 m"],
+      en: ["Elevation: 2558 m", "Highest peak of Kamnik-Savinja Alps", "Prominence: 1706 m", "Base hut: Zois Hut (1793 m)"],
+    },
+    image: "/poi-images/slovenia-grintovec-relief-v2.webp",
+},  {
     id: "slovenia-stol-relief-v2",
     type: "peak",
-    name: { de: "Stol", hu: "Stol", ro: "Stol", en: "Stol" },
+    name: { de: "Stol", hu: "Stol", ro: "Stol", en: "Stol",
+image: "/poi-images/slovenia-stol-relief-v2.webp"
+},
     coords: [14.175, 46.4339],
     coordinates: { lat: 46.4339, lng: 14.175 },
     description: {
@@ -95,11 +157,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2236 metri", "Cel mai înalt din Karawanks", "Munte de frontieră cu Austria", "Cabana Prešeren lângă vârf"],
       en: ["Elevation: 2,236 meters", "Highest in Karawanks", "Border peak with Austria", "Preseren Hut near summit"],
     },
-    imageHint: "Stol mountain Karawanks", image: "/poi-images/slovenia-stol-relief-v2.webp"},
-  {
+imageHint: "Stol mountain Karawanks",
+    descriptionAdvanced: {
+      de: "Der Stol, auch Hochstuhl genannt, ist der höchste Gipfel der Karawanken. Er liegt an der Grenze zu Österreich und bietet weite Ausblicke über Oberkrain und das Kärntner Becken.",
+      hu: "A Stol (németül Hochstuhl) a Karavankák legmagasabb csúcsa a szlovén-osztrák határon. Kettős csúcsa messziről felismerhető, és pazar kilátást nyújt a Bledi-tóra.",
+      ro: "Vârful Stol este cel mai înalt punct din lanțul muntos Karawanks, situat pe granița cu Austria. Este renumit pentru vederile asupra lacului Bled și a bazinului Klagenfurt.",
+      en: "Stol, also known as Hochstuhl, is the highest peak of the Karawanks range on the border with Austria. It offers exceptional views of Lake Bled and the Gorenjska region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2236 m", "Höchster Berg der Karawanken", "Grenzberg Slowenien-Österreich", "Hütte: Prešernova koča na Stolu"],
+      hu: ["Magasság: 2236 méter", "A Karavankák legmagasabb csúcsa", "Szlovén-osztrák határhegy", "Menedékház: Prešernova koča"],
+      ro: ["Altitudine: 2236 metri", "Cel mai înalt vârf din Karawanks", "Situat pe granița cu Austria", "Cabana Prešeren sub vârf"],
+      en: ["Elevation: 2236 m", "Highest peak of the Karawanks", "Border peak (Slovenia/Austria)", "Hut: Prešeren Hut near the summit"],
+    },
+    image: "/poi-images/slovenia-stol-relief-v2.webp",
+},  {
     id: "slovenia-vogel-relief-v2",
     type: "peak",
-    name: { de: "Vogel", hu: "Vogel", ro: "Vogel", en: "Vogel" },
+    name: { de: "Vogel", hu: "Vogel", ro: "Vogel", en: "Vogel",
+image: "/poi-images/slovenia-vogel-relief-v2.webp"
+},
     coords: [13.8378, 46.2503],
     coordinates: { lat: 46.2503, lng: 13.8378 },
     description: {
@@ -114,11 +191,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1922 metri", "Stațiune de schi la Bohinj", "Parte din Parcul Triglav", "Vedere spre vârful Triglav"],
       en: ["Elevation: 1,922 meters", "Ski resort above Bohinj", "Part of Triglav National Park", "View of Mount Triglav"],
     },
-    imageHint: "Vogel mountain ski resort Slovenia", image: "/poi-images/slovenia-vogel-relief-v2.webp"},
-  {
+imageHint: "Vogel mountain ski resort Slovenia",
+    descriptionAdvanced: {
+      de: "Der Vogel ist ein bekanntes Skigebiet und Aussichtspunkt oberhalb des Wocheiner Sees. Er gehört zu den südlichen Julischen Alpen und bietet spektakuläre Blicke auf den Triglav.",
+      hu: "A Vogel egy népszerű síközpont és kilátópont a Bohinji-tó felett. A Júliai-Alpok déli részén fekszik, és az egyik legjobb panorámát nyújtja a Triglav északi falára.",
+      ro: "Vogel este o stațiune de schi renumită și un punct de observație situat deasupra lacului Bohinj. Oferă una dintre cele mai bune priveliști către muntele Triglav.",
+      en: "Vogel is a major ski resort and a panoramic viewpoint located above Lake Bohinj. It is part of the southern Julian Alps and offers stunning views of Mount Triglav.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1922 m", "Erreichbar per Seilbahn (1535 m)", "Skizentrum seit 1964", "Lage: Triglav Nationalpark"],
+      hu: ["Magasság: 1922 méter", "Kabinos felvonó 1535 méterre", "Síparadicsom 1964 óta", "Helyszín: Triglav Nemzeti Park"],
+      ro: ["Altitudine: 1922 metri", "Accesibil cu telecabina la 1535 m", "Centru de schi din 1964", "Inclus în Parcul Național Triglav"],
+      en: ["Elevation: 1922 m", "Accessible by cable car to 1535 m", "Ski center established in 1964", "Located in Triglav National Park"],
+    },
+    image: "/poi-images/slovenia-vogel-relief-v2.webp",
+},  {
     id: "slovenia-krn-relief-v2",
     type: "peak",
-    name: { de: "Krn", hu: "Krn", ro: "Krn", en: "Krn" },
+    name: { de: "Krn", hu: "Krn", ro: "Krn", en: "Krn",
+image: "/poi-images/slovenia-krn-relief-v2.webp"
+},
     coords: [13.6575, 46.2594],
     coordinates: { lat: 46.2594, lng: 13.6575 },
     description: {
@@ -133,11 +225,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2244 metri", "Câmp de luptă în WWI", "Deasupra văii Soča", "Versant sud-vestic abrupt"],
       en: ["Elevation: 2,244 meters", "WWI battlefield site", "Above the Soča Valley", "Distinctive southwest flank"],
     },
-    imageHint: "Krn mountain peak Soca valley", image: "/poi-images/slovenia-krn-relief-v2.webp"},
-  {
+imageHint: "Krn mountain peak Soca valley",
+    descriptionAdvanced: {
+      de: "Der Krn ist ein geschichtsträchtiger Berg oberhalb des Soča-Tals. Während des Ersten Weltkriegs war er Schauplatz heftiger Kämpfe an der Isonzo-Front, woran heute Denkmäler erinnern.",
+      hu: "A Krn az Isonzó-völgy felett magasodó, történelmi jelentőségű hegycsúcs. Az első világháborúban az isonzói csaták egyik legfontosabb stratégiai pontja volt.",
+      ro: "Krn este un vârf încărcat de istorie situat deasupra văii Soča. A fost scena unor bătălii sângeroase în timpul Primului Război Mondial, pe Frontul de la Isonzo.",
+      en: "Krn is a mountain of great historical significance overlooking the Soča Valley. It was a site of major battles on the Isonzo Front during World War I.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2244 m", "Schauplatz der Isonzo-Schlachten", "Gipfelerstürmung durch Alpini 1915", "Krn-See (Krnsko jezero) in der Nähe"],
+      hu: ["Magasság: 2244 méter", "Az isonzói front helyszíne", "Az olasz Alpini egységek 1915-ös ostroma", "Krn-tó a közelben (1391 m)"],
+      ro: ["Altitudine: 2244 metri", "Câmp de luptă în Frontul de la Isonzo", "Cucerit de trupele italiene în 1915", "Lacul Krn situat în apropiere"],
+      en: ["Elevation: 2244 m", "Key site of the Isonzo Front", "Captured by Alpini troops in 1915", "Lake Krn is nearby at 1391 m"],
+    },
+    image: "/poi-images/slovenia-krn-relief-v2.webp",
+},  {
     id: "slovenia-smarna-gora-relief-v2",
     type: "peak",
-    name: { de: "Šmarna gora", hu: "Šmarna gora", ro: "Šmarna gora", en: "Šmarna gora" },
+    name: { de: "Šmarna gora", hu: "Šmarna gora", ro: "Šmarna gora", en: "Šmarna gora",
+image: "/poi-images/slovenia-smarna-gora-relief-v2.webp"
+},
     coords: [14.4539, 46.1308],
     coordinates: { lat: 46.1308, lng: 14.4539 },
     description: {
@@ -152,11 +259,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 669 metri", "Muntele local al Ljubljana", "Biserică barocă pe vârf", "Clopotul sună la 11:30"],
       en: ["Elevation: 669 meters", "Ljubljana's local mountain", "Baroque church on summit", "Bell rings at 11:30 AM"],
     },
-    imageHint: "Smarna gora mountain Ljubljana view", image: "/poi-images/slovenia-smarna-gora-relief-v2.webp"},
-  {
+imageHint: "Smarna gora mountain Ljubljana view",
+    descriptionAdvanced: {
+      de: "Die Šmarna gora ist der beliebteste Ausflugsberg der Einwohner von Ljubljana. Auf dem Gipfel steht eine barocke Wallfahrtskirche, und die Glocke läutet traditionell um 11:30 Uhr.",
+      hu: "A Šmarna gora Ljubljana lakóinak legkedveltebb kirándulóhelye. A csúcson egy barokk zarándoktemplom áll, melynek harangja minden nap 11:30-kor kondul meg.",
+      ro: "Šmarna gora este cea mai populară destinație de drumeție pentru locuitorii din Ljubljana. Pe vârf se află o biserică barocă și un clopot care sună la ora 11:30.",
+      en: "Šmarna gora is the most popular hiking destination for residents of Ljubljana. It features a Baroque pilgrimage church and a bell that rings daily at 11:30 AM.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 669 m", "Kirche der Muttergottes (18. Jh.)", "Traditionelles Mittagsläuten um 11:30", "Über 15 markierte Wanderwege"],
+      hu: ["Magasság: 669 méter", "Mária-templom (18. század)", "Hagyományos harangszó: 11:30", "Több mint 15 jelzett túraútvonal"],
+      ro: ["Altitudine: 669 metri", "Biserica Sf. Maria (sec. XVIII)", "Tradiția clopotului la ora 11:30", "Peste 15 trasee marcate"],
+      en: ["Elevation: 669 m", "St. Mary's Church (18th century)", "Traditional 11:30 AM bell ringing", "Over 15 marked hiking trails"],
+    },
+    image: "/poi-images/slovenia-smarna-gora-relief-v2.webp",
+},  {
     id: "slovenia-pokljuka-relief-v2",
     type: "mountain",
-    name: { de: "Pokljuka", hu: "Pokljuka", ro: "Pokljuka", en: "Pokljuka" },
+    name: { de: "Pokljuka", hu: "Pokljuka", ro: "Pokljuka", en: "Pokljuka",
+image: "/poi-images/slovenia-pokljuka-relief-v2.webp"
+},
     coords: [13.91, 46.34],
     coordinates: { lat: 46.34, lng: 13.91 },
     description: {
@@ -171,11 +293,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1100–1400 m", "Centru de biatlon", "Păduri de molid și mlaștini", "Poarta către Triglav"],
       en: ["Elevation: 1,100–1,400 m", "Biathlon center", "Spruce forests and bogs", "Gateway to Mount Triglav"],
     },
-    imageHint: "Pokljuka plateau forest snow", image: "/poi-images/slovenia-pokljuka-relief-v2.webp"},
-  {
+imageHint: "Pokljuka plateau forest snow",
+    descriptionAdvanced: {
+      de: "Pokljuka ist ein weitläufiges Waldplateau in den Julischen Alpen. Es ist bekannt für seine Moore, Fichtenwälder und als Austragungsort internationaler Biathlon-Wettkämpfe.",
+      hu: "A Pokljuka egy kiterjedt erdős fennsík a Júliai-Alpokban. Híres tőzeglápjairól, hatalmas fenyveseiről és a rendszeresen megrendezett biatlon világkupa-versenyekről.",
+      ro: "Pokljuka este un platou împădurit vast situat în Alpii Iulieni. Este renumit pentru mlaștinile sale, pădurile de molid și competițiile internaționale de biatlon.",
+      en: "Pokljuka is a vast forested plateau in the Julian Alps. It is famous for its peat bogs, spruce forests, and as a major venue for international biathlon competitions.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1100–1400 m", "Fläche: ca. 100 km²", "Biathlon-Weltcupzentrum Rudno polje", "Größtes Waldgebiet im Triglav-Park"],
+      hu: ["Magasság: 1100–1400 méter", "Terület: kb. 100 km²", "Rudno polje biatlon központ", "A Triglav Park legnagyobb erdősége"],
+      ro: ["Altitudine: 1100–1400 m", "Suprafață: aprox. 100 km²", "Centru de biatlon la Rudno polje", "Cea mai mare pădure din Parcul Triglav"],
+      en: ["Elevation: 1100–1400 m", "Area: approx. 100 sq km", "Rudno polje biathlon center", "Largest forest area in Triglav Park"],
+    },
+    image: "/poi-images/slovenia-pokljuka-relief-v2.webp",
+},  {
     id: "slovenia-jelovica-relief-v2",
     type: "mountain",
-    name: { de: "Jelovica", hu: "Jelovica", ro: "Jelovica", en: "Jelovica" },
+    name: { de: "Jelovica", hu: "Jelovica", ro: "Jelovica", en: "Jelovica",
+image: "/poi-images/slovenia-jelovica-relief-v2.webp"
+},
     coords: [14.11, 46.28],
     coordinates: { lat: 46.28, lng: 14.11 },
     description: {
@@ -190,11 +327,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: cca. 1100 m", "Platou carstic împădurit", "La sud de Bled", "Zonă de protecție a păsărilor"],
       en: ["Elevation: approx. 1,100 m", "Wooded karst plateau", "South of Bled", "Special protection area for birds"],
     },
-    imageHint: "Jelovica plateau forest landscape", image: "/poi-images/slovenia-jelovica-relief-v2.webp"},
-  {
+imageHint: "Jelovica plateau forest landscape",
+    descriptionAdvanced: {
+      de: "Jelovica ist ein bewaldetes Karstplateau, das den Süden von Oberkrain begrenzt. Es ist ein wichtiges ökologisches Schutzgebiet und bekannt für seine reiche Vogelwelt und Höhlen.",
+      hu: "A Jelovica egy erdős karsztfennsík Felső-Krajna déli részén. Fontos ökológiai védett terület, amely gazdag madárvilágáról és mély barlangjairól ismert.",
+      ro: "Jelovica este un platou carstic împădurit care delimitează sudul regiunii Gorenjska. Este o zonă protejată importantă pentru biodiversitate, în special pentru păsări.",
+      en: "Jelovica is a forested karst plateau bordering the Gorenjska region. It is a vital ecological protected area known for its diverse bird species and deep caves.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: bis 1411 m (Partizanski vrh)", "Natura 2000 Schutzgebiet", "Wichtiges Habitat für den Auerhahn", "Früher Zentrum der Holzkohleproduktion"],
+      hu: ["Legmagasabb pont: 1411 m", "Natura 2000 védett terület", "A siketfajd fontos élőhelye", "Egykori faszénégető központ"],
+      ro: ["Altitudine maximă: 1411 m", "Arie protejată Natura 2000", "Habitat crucial pentru cocoșul de munte", "Vechi centru de producție a cărbunelui"],
+      en: ["Elevation: up to 1411 m", "Natura 2000 protected area", "Important habitat for the Capercaillie", "Former charcoal production center"],
+    },
+    image: "/poi-images/slovenia-jelovica-relief-v2.webp",
+},  {
     id: "slovenia-nanos-relief-v2",
     type: "mountain",
-    name: { de: "Nanos", hu: "Nanos", ro: "Nanos", en: "Nanos" },
+    name: { de: "Nanos", hu: "Nanos", ro: "Nanos", en: "Nanos",
+image: "/poi-images/slovenia-nanos-relief-v2.webp"
+},
     coords: [14.0531, 45.7725],
     coordinates: { lat: 45.7725, lng: 14.0531 },
     description: {
@@ -209,11 +361,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Punct maxim: 1313 metri", "Releu de televiziune pe vârf", "Cunoscut pentru vântul Burja", "Formațiune de calcar"],
       en: ["Highest point: 1,313 meters", "Prominent TV transmitter", "Known for Burja winds", "Limestone formation"],
     },
-    imageHint: "Nanos plateau steep slopes Slovenia", image: "/poi-images/slovenia-nanos-relief-v2.webp"},
-  {
+imageHint: "Nanos plateau steep slopes Slovenia",
+    descriptionAdvanced: {
+      de: "Der Nanos ist ein markantes Kalksteinplateau, das die Wasserscheide zwischen Adria und Schwarzem Meer bildet. Seine steilen Hänge sind ein Wahrzeichen auf dem Weg zur Küste.",
+      hu: "A Nanos egy látványos mészkőfennsík, amely az Adriai-tenger és a Fekete-tenger közötti vízválasztót alkotja. Meredek falai az autópályáról is jól láthatóak.",
+      ro: "Nanos este un platou calcaros proeminent care formează cumpăna apelor între Marea Adriatică și Marea Neagră. Este un simbol al peisajului din zona Karst.",
+      en: "Nanos is a prominent limestone plateau forming a drainage divide between the Adriatic and Black Seas. Its steep slopes are a landmark for travelers to the coast.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1313 m (Suhi vrh)", "Länge des Plateaus: 12 km", "Fernsehturm auf dem Pleša-Gipfel", "Berüchtigt für starke Bora-Winde"],
+      hu: ["Magasság: 1313 m (Suhi vrh)", "A fennsík hossza: 12 km", "TV-torony a Pleša-csúcson", "Híres az erős bóra szélről"],
+      ro: ["Altitudine: 1313 m (Suhi vrh)", "Lungimea platoului: 12 km", "Turn de televiziune pe vârful Pleša", "Zonă afectată de vântul puternic Bora"],
+      en: ["Elevation: 1313 m (Suhi vrh)", "Plateau length: 12 km", "TV transmitter on Pleša peak", "Known for strong Bora wind gusts"],
+    },
+    image: "/poi-images/slovenia-nanos-relief-v2.webp",
+},  {
     id: "slovenia-slavnik-relief-v2",
     type: "peak",
-    name: { de: "Slavnik", hu: "Slavnik", ro: "Slavnik", en: "Slavnik" },
+    name: { de: "Slavnik", hu: "Slavnik", ro: "Slavnik", en: "Slavnik",
+image: "/poi-images/slovenia-slavnik-relief-v2.webp"
+},
     coords: [13.9767, 45.5342],
     coordinates: { lat: 45.5342, lng: 13.9767 },
     description: {
@@ -228,11 +395,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1028 metri", "Vedere spre Marea Mediterană", "Popular pentru cicliști", "Parte din Munții Čičarija"],
       en: ["Elevation: 1,028 meters", "View of the Mediterranean", "Popular with mountain bikers", "Part of the Cicarija range"],
     },
-    imageHint: "Slavnik mountain summit view", image: "/poi-images/slovenia-slavnik-relief-v2.webp"},
-  {
+imageHint: "Slavnik mountain summit view",
+    descriptionAdvanced: {
+      de: "Der Slavnik ist einer der höchsten Gipfel im slowenischen Istrien. Aufgrund seiner isolierten Lage bietet er einen Rundumblick von den Alpen bis zur Adria und Venedig.",
+      hu: "A Slavnik a szlovén Isztria egyik legmagasabb pontja. Izolált helyzete miatt körpanorámát nyújt az Alpoktól az Adriai-tengerig, tiszta időben akár Velencéig is.",
+      ro: "Slavnik este unul dintre cele mai înalte vârfuri din Istria slovenă. Oferă o vedere circulară unică, de la Alpi până la Marea Adriatică și uneori Veneția.",
+      en: "Slavnik is one of the highest peaks in Slovenian Istria. Its isolated position provides a panoramic view stretching from the Alps to the Adriatic Sea and Venice.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1028 m", "Berghütte: Tumova koča", "Naturdenkmal seit 1992", "Beliebtes Ziel für Mountainbiker"],
+      hu: ["Magasság: 1028 méter", "Menedékház: Tumova koča", "1992 óta természeti műemlék", "Népszerű mountain bike célpont"],
+      ro: ["Altitudine: 1028 metri", "Cabana Tumova pe vârf", "Monument al naturii din 1992", "Destinație populară pentru MTB"],
+      en: ["Elevation: 1028 m", "Tuma Hut (Tumova koča) at top", "Natural monument since 1992", "Popular mountain biking destination"],
+    },
+    image: "/poi-images/slovenia-slavnik-relief-v2.webp",
+},  {
     id: "slovenia-ojstrica-relief-v2",
     type: "peak",
-    name: { de: "Ojstrica", hu: "Ojstrica", ro: "Ojstrica", en: "Ojstrica" },
+    name: { de: "Ojstrica", hu: "Ojstrica", ro: "Ojstrica", en: "Ojstrica",
+image: "/poi-images/slovenia-ojstrica-relief-v2.webp"
+},
     coords: [14.5956, 46.3606],
     coordinates: { lat: 46.3606, lng: 14.5956 },
     description: {
@@ -247,11 +429,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2350 metri", "Deasupra văii Logar", "Formă de piramidă", "Destinație pentru alpiniști"],
       en: ["Elevation: 2,350 meters", "Above the Logar Valley", "Pyramidal shape", "Popular alpine destination"],
     },
-    imageHint: "Ojstrica mountain peak Logar Valley", image: "/poi-images/slovenia-ojstrica-relief-v2.webp"},
-  {
+imageHint: "Ojstrica mountain peak Logar Valley",
+    descriptionAdvanced: {
+      de: "Die Ojstrica ist ein spitzer, pyramidenförmiger Berg in den Steiner Alpen. Er dominiert das Ende des Logar-Tals und gilt als einer der markantesten Gipfel der Region.",
+      hu: "Az Ojstrica egy éles, piramis alakú csúcs a Kamniki-Alpokban. A Logar-völgy zárlatát uralja, és látványos formája miatt a hegymászók egyik kedvenc célpontja.",
+      ro: "Ojstrica este un vârf ascuțit în formă de piramidă din Alpii Kamnik-Savinja. Domină peisajul de la capătul văii Logar și este un simbol al regiunii.",
+      en: "Ojstrica is a sharp, pyramid-shaped peak in the Kamnik-Savinja Alps. It dominates the head of the Logar Valley and is one of the range's most iconic summits.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2350 m", "Lage: Östliche Steiner Alpen", "Namensherkunft: 'ojster' (scharf)", "Aussichtspunkt auf das Logar-Tal"],
+      hu: ["Magasság: 2350 méter", "Helyszín: Kelet-Kamniki-Alpok", "Név jelentése: 'ojster' (éles)", "Panoráma a Logar-völgyre"],
+      ro: ["Altitudine: 2350 metri", "Locație: Alpii Kamnik de Est", "Etimologie: 'ojster' înseamnă ascuțit", "Vedere panoramică spre Valea Logar"],
+      en: ["Elevation: 2350 m", "Location: Eastern Kamnik Alps", "Etymology: 'ojster' means sharp", "Viewpoint over the Logar Valley"],
+    },
+    image: "/poi-images/slovenia-ojstrica-relief-v2.webp",
+},  {
     id: "slovenia-raduha-relief-v2",
     type: "peak",
-    name: { de: "Raduha", hu: "Raduha", ro: "Raduha", en: "Raduha" },
+    name: { de: "Raduha", hu: "Raduha", ro: "Raduha", en: "Raduha",
+image: "/poi-images/slovenia-raduha-relief-v2.webp"
+},
     coords: [14.7431, 46.4136],
     coordinates: { lat: 46.4136, lng: 14.7431 },
     description: {
@@ -266,11 +463,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2062 metri", "Peștera de Zăpadă situată aici", "Munții Alpii Kamnik", "Vedere spre Valea Savinja"],
       en: ["Elevation: 2,062 meters", "Snow Cave on its slope", "Kamnik–Savinja Alps", "Panoramic view of Savinja"],
     },
-    imageHint: "Raduha mountain peak Slovenia", image: "/poi-images/slovenia-raduha-relief-v2.webp"},
-  {
+imageHint: "Raduha mountain peak Slovenia",
+    descriptionAdvanced: {
+      de: "Die Raduha ist ein isolierter Bergstock in den Steiner Alpen. Er ist bekannt für seine steile Nordwand und die 'Schneehöhle', die höchstgelegene Schauhöhle Sloweniens.",
+      hu: "A Raduha a Kamniki-Alpok egy elkülönült tömbje. Híres meredek északi faláról és a 'Hó-barlangról' (Snežna jama), amely Szlovénia legmagasabban fekvő látogatható barlangja.",
+      ro: "Raduha este un masiv izolat în Alpii Kamnik-Savinja. Este cunoscut pentru peretele nordic abrupt și Peștera de Gheață (Snežna jama), cea mai înaltă peșteră turistică.",
+      en: "Raduha is an isolated mountain massif in the Kamnik-Savinja Alps. It is famous for its steep north face and the 'Snow Cave', Slovenia's highest tourist cave.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2062 m", "Snežna jama Höhle (1556 m)", "Beliebtes Klettergebiet (Nordwand)", "Berghütte: Koča na Loki"],
+      hu: ["Magasság: 2062 méter", "Hó-barlang magassága: 1556 m", "Népszerű sziklamászó hely", "Menedékház: Koča na Loki"],
+      ro: ["Altitudine: 2062 metri", "Peștera Snežna jama la 1556 m", "Zonă majoră de alpinism", "Cabana Koča na Loki"],
+      en: ["Elevation: 2062 m", "Snow Cave located at 1556 m", "Popular climbing spot (North face)", "Base hut: Loka Hut (Koča na Loki)"],
+    },
+    image: "/poi-images/slovenia-raduha-relief-v2.webp",
+},  {
     id: "slovenia-gorjanci-relief-v2",
     type: "mountain",
-    name: { de: "Gorjanci", hu: "Gorjanci", ro: "Gorjanci", en: "Gorjanci" },
+    name: { de: "Gorjanci", hu: "Gorjanci", ro: "Gorjanci", en: "Gorjanci",
+image: "/poi-images/slovenia-gorjanci-relief-v2.webp"
+},
     coords: [15.33, 45.78],
     coordinates: { lat: 45.78, lng: 15.33 },
     description: {
@@ -285,11 +497,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Punct maxim: 1178 metri", "Munte de frontieră", "Păduri dese de fag", "Vârful Trdinov"],
       en: ["Highest point: 1,178 meters", "Border range with Croatia", "Dense beech forests", "Trdinov vrh summit"],
     },
-    imageHint: "Gorjanci mountains forest trail", image: "/poi-images/slovenia-gorjanci-relief-v2.webp"},
-  {
+imageHint: "Gorjanci mountains forest trail",
+    descriptionAdvanced: {
+      de: "Die Gorjanci sind ein bewaldeter Gebirgszug an der Grenze zu Kroatien. Sie sind tief in der slowenischen Folklore verwurzelt und bekannt für ihre Urwälder und Quellen.",
+      hu: "A Gorjanci egy erdős hegylánc a horvát határon (horvát neve Žumberak). Gazdag népi legendákban, és híres érintetlen bükköseiről, valamint karsztforrásairól.",
+      ro: "Gorjanci este un lanț muntos împădurit situat la granița cu Croația. Munții sunt prezenți în folclorul local și sunt renumiți pentru pădurile virgine de fagi.",
+      en: "Gorjanci is a forested mountain range on the border with Croatia (known there as Žumberak). It is rich in folklore and famous for its primeval forests and springs.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Trdinov vrh (1178 m)", "Grenzgebirge zu Kroatien", "Urwald-Reservat Ravna gora", "Thema in Janez Trdinas Märchen"],
+      hu: ["Legmagasabb pont: Trdinov vrh (1178 m)", "Szlovén-horvát határhegység", "Ravna gora őserdő-rezervátum", "Janez Trdina meséinek helyszíne"],
+      ro: ["Vârful maxim: Trdinov vrh (1178 m)", "Lanț muntos transfrontalier", "Rezervația forestieră Ravna gora", "Inspirat de scriitorul Janez Trdina"],
+      en: ["Highest peak: Trdinov vrh (1178 m)", "Border range with Croatia", "Ravna gora primeval forest", "Setting for Janez Trdina's tales"],
+    },
+    image: "/poi-images/slovenia-gorjanci-relief-v2.webp",
+},  {
     id: "slovenia-haloze-relief-v2",
     type: "mountain",
-    name: { de: "Haloze", hu: "Haloze", ro: "Haloze", en: "Haloze" },
+    name: { de: "Haloze", hu: "Haloze", ro: "Haloze", en: "Haloze",
+image: "/poi-images/slovenia-haloze-relief-v2.webp"
+},
     coords: [15.83, 46.33],
     coordinates: { lat: 46.33, lng: 15.83 },
     description: {
@@ -304,11 +531,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Relief deluros", "Regiune viticolă celebră", "Podgorii abrupte", "Slovenia de Est"],
       en: ["Hilly relief", "Famous wine region", "Steep vineyards", "Eastern Slovenia"],
     },
-    imageHint: "Haloze hills vineyards Slovenia", image: "/poi-images/slovenia-haloze-relief-v2.webp"},
-  {
+imageHint: "Haloze hills vineyards Slovenia",
+    descriptionAdvanced: {
+      de: "Haloze ist eine hügelige Weinbauregion im Osten Sloweniens. Die steilen Hänge und schmalen Kämme sind geprägt von kleinen Weinbergen und weiß getünchten Kirchen.",
+      hu: "A Haloze egy dombsági borvidék Kelet-Szlovéniában. Meredek dombjai és keskeny gerincei apró szőlőültetvényekkel és fehérre meszelt templomokkal tarkítottak.",
+      ro: "Haloze este o regiune deluroasă viticolă din estul Sloveniei. Versanții abrupți și crestele înguste sunt marcate de podgorii mici și biserici albe pitorești.",
+      en: "Haloze is a hilly wine-growing region in eastern Slovenia. Its steep slopes and narrow ridges are characterized by small vineyards and whitewashed churches.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Donačka gora (884 m)", "Traditionelles Weinbaugebiet", "Länge der Hügelkette: ca. 40 km", "Bodenart: Mergel und Kalkstein"],
+      hu: ["Legmagasabb pont: Donačka gora (884 m)", "Hagyományos bortermelő vidék", "A dombság hossza: kb. 40 km", "Talajtípus: márga és mészkő"],
+      ro: ["Punctul maxim: Donačka gora (884 m)", "Regiune viticolă tradițională", "Lungimea lanțului: aprox. 40 km", "Sol compus din marnă și calcar"],
+      en: ["Highest point: Donačka gora (884 m)", "Traditional viticulture area", "Length of the hills: approx. 40 km", "Soil type: marl and limestone"],
+    },
+    image: "/poi-images/slovenia-haloze-relief-v2.webp",
+},  {
     id: "slovenia-slovenske-gorice-relief-v2",
     type: "mountain",
-    name: { de: "Slovenske gorice", hu: "Slovenske gorice", ro: "Slovenske gorice", en: "Slovenske gorice" },
+    name: { de: "Slovenske gorice", hu: "Slovenske gorice", ro: "Slovenske gorice", en: "Slovenske gorice",
+image: "/poi-images/slovenia-slovenske-gorice-relief-v2.webp"
+},
     coords: [15.83, 46.58],
     coordinates: { lat: 46.58, lng: 15.83 },
     description: {
@@ -323,11 +565,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Cea mai întinsă zonă deluroasă", "Între Mura și Drava", "Regiune agricolă", "Lanțuri de dealuri joase"],
       en: ["Largest hilly area", "Between Mura and Drava", "Agricultural landscape", "Low hill chains"],
     },
-    imageHint: "Slovenske gorice hills landscape", image: "/poi-images/slovenia-slovenske-gorice-relief-v2.webp"},
-  {
+imageHint: "Slovenske gorice hills landscape",
+    descriptionAdvanced: {
+      de: "Die Slovenske gorice sind das größte Hügelland Sloweniens. Die Region zwischen den Flüssen Mur und Drau ist für ihren Weinanbau und die charakteristischen Streusiedlungen bekannt.",
+      hu: "A Slovenske gorice Szlovénia legnagyobb dombsága. A Mura és a Dráva folyók között elterülő vidék híres borairól és a jellegzetes szórványtelepüléseiről.",
+      ro: "Slovenske gorice este cea mai mare regiune deluroasă din Slovenia. Situată între râurile Mura și Drava, este celebră pentru vinurile sale și așezările dispersate.",
+      en: "Slovenske gorice is the largest hilly region in Slovenia. Nestled between the Mura and Drava rivers, it is renowned for its wine production and scattered settlements.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1000 km²", "Höchster Gipfel: Grmada (462 m)", "Hauptwirtschaftszweig: Weinbau", "Lage: Nordostslowenien"],
+      hu: ["Terület: kb. 1000 km²", "Legmagasabb pont: Grmada (462 m)", "Fő bevételi forrás: szőlőművelés", "Elhelyezkedés: Északkelet-Szlovénia"],
+      ro: ["Suprafață: aprox. 1000 km²", "Altitudine maximă: Grmada (462 m)", "Economie bazată pe viticultură", "Locație: Nord-estul Sloveniei"],
+      en: ["Area: approx. 1000 sq km", "Highest peak: Grmada (462 m)", "Key industry: Viticulture", "Location: Northeastern Slovenia"],
+    },
+    image: "/poi-images/slovenia-slovenske-gorice-relief-v2.webp",
+},  {
     id: "slovenia-cerknisko-polje-relief-v2",
     type: "valley",
-    name: { de: "Cerknica-Feld", hu: "Cerkniško polje", ro: "Câmpia Cerknica", en: "Cerknica Plain" },
+    name: { de: "Cerknica-Feld", hu: "Cerkniško polje", ro: "Câmpia Cerknica", en: "Cerknica Plain",
+image: "/poi-images/slovenia-cerknisko-polje-relief-v2.webp"
+},
     coords: [14.35, 45.75],
     coordinates: { lat: 45.75, lng: 14.35 },
     description: {
@@ -342,11 +599,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Polje carstic", "Lac intermitent", "Carstul dinaric", "Hidrologie unică"],
       en: ["Karst polje", "Intermittent lake", "Dinaric karst region", "Unique hydrology"],
     },
-    imageHint: "Cerknica plain karst landscape", image: "/poi-images/slovenia-cerknisko-polje-relief-v2.webp"},
-  {
+imageHint: "Cerknica plain karst landscape",
+    descriptionAdvanced: {
+      de: "Das Cerknica-Feld ist ein klassisches Beispiel für ein Karstbecken. Es beherbergt den Zirknitzer See, den größten intermittierenden See der Welt, der periodisch verschwindet.",
+      hu: "A Cerknica-mező egy klasszikus karsztmező. Itt található a Cerknica-tó, a világ legnagyobb időszakos tava, amely évente többször is kiszárad, majd újra megtelik.",
+      ro: "Câmpia Cerknica este un exemplu clasic de polje carstic. Găzduiește Lacul Cerknica, cel mai mare lac intermitent din lume, care dispare și reapare periodic.",
+      en: "Cerknica Plain is a classic example of a karst polje. It contains Lake Cerknica, the world's largest intermittent lake, which periodically disappears into underground caves.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des Poljes: 38 km²", "Intermittierender See (Cerknica)", "Teil des regionalen Notranjska-Parks", "Beschrieben von Valvasor im 17. Jh."],
+      hu: ["A mező területe: 38 km²", "Időszakos tó (Cerknicai-tó)", "A Notranjska Regionális Park része", "Valvasor írta le a 17. században"],
+      ro: ["Suprafața polje-ului: 38 km²", "Lac intermitent unic", "Parte a Parcului Regional Notranjska", "Descris de Valvasor în sec. XVII"],
+      en: ["Polje area: 38 sq km", "World's largest intermittent lake", "Part of Notranjska Regional Park", "Studied by Valvasor in the 1600s"],
+    },
+    image: "/poi-images/slovenia-cerknisko-polje-relief-v2.webp",
+},  {
     id: "slovenia-planinsko-polje-relief-v2",
     type: "valley",
-    name: { de: "Planina-Feld", hu: "Planinsko polje", ro: "Câmpia Planina", en: "Planina Plain" },
+    name: { de: "Planina-Feld", hu: "Planinsko polje", ro: "Câmpia Planina", en: "Planina Plain",
+image: "/poi-images/slovenia-planinsko-polje-relief-v2.webp"
+},
     coords: [14.25, 45.85],
     coordinates: { lat: 45.85, lng: 14.25 },
     description: {
@@ -361,11 +633,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Polje carstic", "Râul Unica cu meandre", "Inundații regulate", "Sit Natura 2000"],
       en: ["Karst polje", "Meandering Unica river", "Regular flooding", "Natura 2000 site"],
     },
-    imageHint: "Planina plain karst field Unica river", image: "/poi-images/slovenia-planinsko-polje-relief-v2.webp"},
-  {
+imageHint: "Planina plain karst field Unica river",
+    descriptionAdvanced: {
+      de: "Das Planina-Feld ist das letzte der klassischen Karstfelder von Innerkrain. Der Fluss Unica mäandriert hier spektakulär, bevor er im Untergrund der Planina-Höhle verschwindet.",
+      hu: "A Planina-mező Belső-Krajna utolsó nagy karsztmezője. Az Unica folyó látványos kanyarulatokat ír le a mezőn, mielőtt a Planina-barlang mélyén eltűnik a föld alatt.",
+      ro: "Câmpia Planina este ultima dintre marile polje carstice din Notranjska. Râul Unica șerpuiește spectaculos înainte de a intra în Peștera Planina.",
+      en: "Planina Plain is the last of the major karst poljes in Inner Carniola. The Unica River meanders through the field before disappearing into the Planina Cave system.",
+    },
+    factsAdvanced: {
+      de: ["Länge des Poljes: 6 km", "Fluss: Unica (Karstfluss)", "Planina-Höhle am Rande des Feldes", "Häufige saisonale Überschwemmungen"],
+      hu: ["A mező hossza: 6 km", "Fő folyó: Unica", "A mező szélén áll a Planina-barlang", "Gyakoriak az időszakos áradások"],
+      ro: ["Lungimea polje-ului: 6 km", "Râul principal: Unica", "Găzduiește intrarea în Peștera Planina", "Zonă cu inundații sezoniere frecvente"],
+      en: ["Polje length: 6 km", "River: Unica (karst river)", "Features the famous Planina Cave", "Prone to seasonal flash flooding"],
+    },
+    image: "/poi-images/slovenia-planinsko-polje-relief-v2.webp",
+},  {
     id: "slovenia-prisojnik-relief-v2",
     type: "peak",
-    name: { de: "Prisojnik", hu: "Prisojnik", ro: "Prisojnik", en: "Prisojnik" },
+    name: { de: "Prisojnik", hu: "Prisojnik", ro: "Prisojnik", en: "Prisojnik",
+image: "/poi-images/slovenia-prisojnik-relief-v2.webp"
+},
     coords: [13.7742, 46.425],
     coordinates: { lat: 46.425, lng: 13.7742 },
     description: {
@@ -380,11 +667,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2547 metri", "Chipul Fetei Păgâne", "Fereastră naturală în stâncă", "Munții Alpii Julieni"],
       en: ["Elevation: 2,547 meters", "Heathen Maiden rock face", "Natural rock window", "Julian Alps"],
     },
-    imageHint: "Prisojnik mountain Heathen Maiden face", image: "/poi-images/slovenia-prisojnik-relief-v2.webp"},
-  {
+imageHint: "Prisojnik mountain Heathen Maiden face",
+    descriptionAdvanced: {
+      de: "Der Prisojnik (auch Prisank) ist ein mächtiger Berg oberhalb des Vršič-Passes. Er ist berühmt für sein natürliches Felsenfenster und das 'Heidnische Mädchen' in der Felswand.",
+      hu: "A Prisojnik (más néven Prisank) egy hatalmas hegy a Vršič-hágó felett. Híres óriási természetes kőablakáról és a sziklafalban kirajzolódó 'Pogány lány' (Ajdovska deklica) arcáról.",
+      ro: "Prisojnik este un munte masiv situat deasupra trecătorii Vršič. Este celebru pentru fereastra sa naturală de piatră și chipul stâncos numit 'Fata Păgână'.",
+      en: "Prisojnik (or Prisank) is a massive mountain overlooking the Vršič Pass. It is famous for its large natural window and the 'Heathen Maiden' face formation in the rock.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2547 m", "Prisojnik-Fenster: 80 m hoch", "Felsformation: Ajdovska deklica", "Lage: Direkt am Vršič-Pass"],
+      hu: ["Magasság: 2547 méter", "Prisojnik-ablak: 80 m magas", "Sziklaarc: Ajdovska deklica", "Helyszín: A Vršič-hágó mellett"],
+      ro: ["Altitudine: 2547 metri", "Fereastra Prisojnik are 80 m înălțime", "Formațiune: Fata Păgână (Ajdovska deklica)", "Acces facil din Pasul Vršič"],
+      en: ["Elevation: 2547 m", "Prisojnik Window: 80 m high", "Rock feature: Heathen Maiden", "Location: Above the Vršič Pass"],
+    },
+    image: "/poi-images/slovenia-prisojnik-relief-v2.webp",
+},  {
     id: "slovenia-razor-relief-v2",
     type: "peak",
-    name: { de: "Razor", hu: "Razor", ro: "Razor", en: "Razor" },
+    name: { de: "Razor", hu: "Razor", ro: "Razor", en: "Razor",
+image: "/poi-images/slovenia-razor-relief-v2.webp"
+},
     coords: [13.7892, 46.4117],
     coordinates: { lat: 46.4117, lng: 13.7892 },
     description: {
@@ -399,11 +701,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2601 metri", "Vârf central", "Munții Alpii Julieni", "Deasupra văii Trenta"],
       en: ["Elevation: 2,601 meters", "Central mountain peak", "Julian Alps range", "Above the Trenta Valley"],
     },
-    imageHint: "Razor mountain peak Julian Alps", image: "/poi-images/slovenia-razor-relief-v2.webp"},
-  {
+imageHint: "Razor mountain peak Julian Alps",
+    descriptionAdvanced: {
+      de: "Der Razor ist einer der höchsten Gipfel der Julischen Alpen. Sein massives Erscheinungsbild dominiert das Ende des Trenta-Tals und bietet anspruchsvolle hochalpine Touren.",
+      hu: "A Razor a Júliai-Alpok egyik legmagasabb csúcsa. Hatalmas tömbje a Trenta-völgy felett magasodik, és nehéz, magashegyi túrák célpontja a Pogačnik-ház felől.",
+      ro: "Razor este unul dintre giganții Alpilor Iulieni. Masivul său domină valea Trenta și este o destinație majoră pentru alpiniști, cu plecare de la cabana Pogačnik.",
+      en: "Razor is one of the highest giants of the Julian Alps. Its massive presence dominates the Trenta Valley and is a challenging high-alpine destination for hikers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2601 m", "Sechsthöchster Berg Sloweniens", "Berghütte: Pogačnikov dom (2050 m)", "Gestein: Dachsteinkalk"],
+      hu: ["Magasság: 2601 méter", "Szlovénia 6. legmagasabb csúcsa", "Menedékház: Pogačnikov dom", "Kőzet: Dachstein-mészkő"],
+      ro: ["Altitudine: 2601 metri", "Al șaselea vârf din Slovenia", "Cabana Pogačnik la 2050 m", "Compoziție: Calcar de Dachstein"],
+      en: ["Elevation: 2601 m", "Sixth highest peak in Slovenia", "Hut: Pogačnik Hut (2050 m)", "Rock type: Dachstein limestone"],
+    },
+    image: "/poi-images/slovenia-razor-relief-v2.webp",
+},  {
     id: "slovenia-krim-relief-v2",
     type: "peak",
-    name: { de: "Krim", hu: "Krim", ro: "Krim", en: "Krim" },
+    name: { de: "Krim", hu: "Krim", ro: "Krim", en: "Krim",
+image: "/poi-images/slovenia-krim-relief-v2.webp"
+},
     coords: [14.4739, 45.9286],
     coordinates: { lat: 45.9286, lng: 14.4739 },
     description: {
@@ -418,11 +735,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1107 metri", "La sud de Ljubljana", "Releu important de emisie", "Vedere spre mlaștină"],
       en: ["Elevation: 1,107 meters", "South of Ljubljana", "Important transmitter site", "View of the marshes"],
     },
-    imageHint: "Krim mountain peak Ljubljana", image: "/poi-images/slovenia-krim-relief-v2.webp"},
-  {
+imageHint: "Krim mountain peak Ljubljana",
+    descriptionAdvanced: {
+      de: "Der Krim ist ein markanter Berg südlich von Ljubljana, der oft als 'Wetterprophet' der Stadt gilt. Auf seinem Gipfel befindet sich ein wichtiger Sendeturm.",
+      hu: "A Krim egy jellegzetes hegycsúcs Ljubljanától délre, amelyet gyakran a város 'időjárás-jósának' neveznek. Tetején egy fontos távközlési torony található.",
+      ro: "Krim este un munte proeminent situat la sud de Ljubljana, adesea numit 'prezicătorul vremii' pentru oraș. Vârful găzduiește un turn de transmisie important.",
+      en: "Krim is a prominent peak south of Ljubljana, often called the city's 'weather prophet'. It is crowned by a major telecommunications transmitter.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1107 m", "Spitzname: Ljubljanski Triglav", "Wichtiger TV- und Funksender", "Sichtweite bis zur Adria (bei Klarheit)"],
+      hu: ["Magasság: 1107 méter", "Beceneve: 'Ljubljanai Triglav'", "Fontos TV- és rádióadó torony", "Kilátás az Adriáig (tiszta időben)"],
+      ro: ["Altitudine: 1107 metri", "Poreclă: Triglav-ul din Ljubljana", "Releu TV și radio major", "Vizibilitate până la Marea Adriatică"],
+      en: ["Elevation: 1107 m", "Nickname: Ljubljana's Triglav", "Major TV and radio transmitter", "Visible from the Adriatic on clear days"],
+    },
+    image: "/poi-images/slovenia-krim-relief-v2.webp",
+},  {
     id: "slovenia-menina-planina-relief-v2",
     type: "mountain",
-    name: { de: "Menina planina", hu: "Menina planina", ro: "Menina planina", en: "Menina planina" },
+    name: { de: "Menina planina", hu: "Menina planina", ro: "Menina planina", en: "Menina planina",
+image: "/poi-images/slovenia-menina-planina-relief-v2.webp"
+},
     coords: [14.8167, 46.2333],
     coordinates: { lat: 46.2333, lng: 14.8167 },
     description: {
@@ -437,11 +769,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: cca. 1500 m", "Platou carstic", "Vârful Vivodnik", "Economie pastorală"],
       en: ["Elevation: approx. 1,500 m", "Karst plateau", "Vivodnik peak", "Alpine farming"],
     },
-    imageHint: "Menina planina plateau landscape", image: "/poi-images/slovenia-menina-planina-relief-v2.webp"},
-  {
+imageHint: "Menina planina plateau landscape",
+    descriptionAdvanced: {
+      de: "Menina planina ist ein ausgedehntes voralpines Karstplateau. Es ist geprägt von Almwirtschaft, Wäldern und Dolinen und ist ein beliebtes Ziel für einfache Familienwanderungen.",
+      hu: "A Menina planina egy kiterjedt előalpi karsztfennsík. Legelőiről, fenyveseiről és töbreiről ismert, és népszerű célpont a könnyű családi kirándulásokhoz.",
+      ro: "Menina planina este un platou carstic prealpin extins. Caracterizat prin pășuni alpine și păduri de conifere, este ideal pentru drumeții ușoare de familie.",
+      en: "Menina planina is an extensive pre-alpine karst plateau. It is defined by alpine pastures, spruce forests, and sinkholes, making it a popular family hiking spot.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Vivodnik (1508 m)", "Länge des Plateaus: ca. 20 km", "Berghütte: Dom na Menini planini", "Lage: Zwischen Savinja- und Tuhinj-Tal"],
+      hu: ["Legmagasabb pont: Vivodnik (1508 m)", "A fennsík hossza: kb. 20 km", "Menedékház: Dom na Menini planini", "Elhelyezkedés: Savinja- és Tuhinj-völgy közt"],
+      ro: ["Vârful maxim: Vivodnik (1508 m)", "Lungimea platoului: aprox. 20 km", "Cabana Dom na Menini planini", "Situat între văile Savinja și Tuhinj"],
+      en: ["Highest peak: Vivodnik (1508 m)", "Plateau length: approx. 20 km", "Hut: Menina Planina Hut", "Location: Between Savinja and Tuhinj valleys"],
+    },
+    image: "/poi-images/slovenia-menina-planina-relief-v2.webp",
+},  {
     id: "slovenia-goricko-relief-v2",
     type: "mountain",
-    name: { de: "Goričko", hu: "Goričko", ro: "Goričko", en: "Goričko" },
+    name: { de: "Goričko", hu: "Goričko", ro: "Goričko", en: "Goričko",
+image: "/poi-images/slovenia-goricko-relief-v2.webp"
+},
     coords: [16.17, 46.83],
     coordinates: { lat: 46.83, lng: 16.17 },
     description: {
@@ -456,11 +803,26 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Peisaj deluros", "Nord-estul Sloveniei", "Parc natural", "Punct maxim: 418 metri"],
       en: ["Hilly landscape", "Northeastern Slovenia", "Landscape park", "Highest point: 418 meters"],
     },
-    imageHint: "Goricko hills landscape Slovenia", image: "/poi-images/slovenia-goricko-relief-v2.webp"},
-  {
+imageHint: "Goricko hills landscape Slovenia",
+    descriptionAdvanced: {
+      de: "Goričko ist eine hügelige Region im äußersten Nordosten Sloweniens. Das Gebiet ist Teil eines trilateralen Naturparks und bekannt für seine sanfte Landschaft und Schlösser.",
+      hu: "A Goričko egy dombos tájegység Szlovénia legészakkeletibb csücskében. Egy háromoldalú natúrpark része, szelíd lankáiról, bazalttufa templomairól és várairól híres.",
+      ro: "Goričko este o regiune deluroasă în extremitatea de nord-est a Sloveniei. Face parte dintr-un parc natural trilateral și este renumită pentru peisajul blând.",
+      en: "Goričko is a hilly region in the far northeast of Slovenia. It is part of a trilateral nature park and is known for its gentle landscape, castles, and basalt rock.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Sotinski breg (418 m)", "Landschaftspark Goričko seit 2003", "Größtes Barockschloss (Grad)", "Trilateraler Park (HU-AT-SI)"],
+      hu: ["Legmagasabb pont: Sotinski breg (418 m)", "Goričko Tájvédelmi Park (2003)", "Itt van Szlovénia legnagyobb vára (Grad)", "Hármashatár park (HU-AT-SI)"],
+      ro: ["Cea mai mare altitudine: 418 m", "Parc peisagistic din 2003", "Găzduiește castelul Grad", "Parc trilateral (Slovenia-Ungaria-Austria)"],
+      en: ["Highest point: Sotinski breg (418 m)", "Goričko Landscape Park (2003)", "Home to Slovenia's largest castle (Grad)", "Trilateral park (SI-HU-AT)"],
+    },
+    image: "/poi-images/slovenia-goricko-relief-v2.webp",
+},  {
     id: "slovenia-kolovrat-relief-v2",
     type: "mountain",
-    name: { de: "Kolovrat", hu: "Kolovrat", ro: "Kolovrat", en: "Kolovrat" },
+    name: { de: "Kolovrat", hu: "Kolovrat", ro: "Kolovrat", en: "Kolovrat",
+image: "/poi-images/slovenia-kolovrat-relief-v2.webp"
+},
     coords: [13.6, 46.18],
     coordinates: { lat: 46.18, lng: 13.6 },
     description: {
@@ -476,5 +838,17 @@ export const sloveniaReliefV2: POI[] = [
       en: ["Elevation: 1,115 meters", "Border ridge with Italy", "WWI open-air museum", "View of the Soča Valley"],
     },
     imageHint: "Kolovrat ridge mountain view",
+    descriptionAdvanced: {
+      de: "Der Kolovrat ist ein Kammrücken über dem Soča-Tal mit bedeutender Geschichte. Heute dient er als Freilichtmuseum, das die Schützengräben und Kavernen des Ersten Weltkriegs zeigt.",
+      hu: "A Kolovrat egy gerinc az Isonzó-völgy felett, amely fontos történelmi helyszín. Ma szabadtéri múzeumként működik, bemutatva az első világháborús lövészárkokat.",
+      ro: "Kolovrat este o creastă deasupra văii Soča, cu o importanță istorică majoră. Astăzi este un muzeu în aer liber ce păstrează tranșeele din Primul Război Mondial.",
+      en: "Kolovrat is a ridge overlooking the Soča Valley with deep historical roots. Today it serves as an outdoor museum showcasing WWI trenches and fortifications.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Kuk (1243 m)", "Freilichtmuseum des 1. Weltkriegs", "Teil des 'Wegs des Friedens'", "Blick auf das Soča-Tal und die Adria"],
+      hu: ["Legmagasabb pont: Kuk (1243 m)", "I. világháborús szabadtéri múzeum", "A 'Béke útja' túraútvonal része", "Kilátás az Isonzóra és az Adriára"],
+      ro: ["Vârful maxim: Kuk (1243 m)", "Muzeu în aer liber al Marelui Război", "Parte din 'Drumul Păcii'", "Vederi panoramice spre Valea Soča"],
+      en: ["Highest peak: Kuk (1243 m)", "Outdoor museum of WWI", "Part of the 'Walk of Peace' trail", "Views of the Soča Valley and Adriatic"],
+    },
   }
 ];

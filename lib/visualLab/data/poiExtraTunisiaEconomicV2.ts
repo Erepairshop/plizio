@@ -11,8 +11,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von Radès",
       hu: "Radès Kikötője",
       ro: "Portul Radès",
-      en: "Port of Rades"
-    },
+      en: "Port of Rades",
+image: "/poi-images/rades-commercial-port-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Handelshafen Tunesiens, der den Großteil des Containerverkehrs des Landes abwickelt.",
       hu: "Tunézia legfontosabb kereskedelmi kikötője, amely az ország konténerforgalmának nagy részét kezeli.",
@@ -43,8 +44,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von Bizerte",
       hu: "Bizerte Kikötője",
       ro: "Portul Bizerte",
-      en: "Port of Bizerte"
-    },
+      en: "Port of Bizerte",
+image: "/poi-images/bizerte-commercial-port-economic-v2.webp"
+},
     description: {
       de: "Ein strategischer Tiefwasserhafen, der auf Kohlenwasserstoffimporte und metallurgische Exporte spezialisiert ist.",
       hu: "Stratégiai mélyvízi kikötő, amely szénhidrogén-importra és kohászati exportra specializálódott.",
@@ -75,8 +77,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von Sousse",
       hu: "Sousse Kikötője",
       ro: "Portul Sousse",
-      en: "Port of Sousse"
-    },
+      en: "Port of Sousse",
+image: "/poi-images/sousse-port-economic-v2.webp"
+},
     description: {
       de: "Ein Handelshafen im Herzen der Stadt, der den Export von landwirtschaftlichen Produkten und Textilien erleichtert.",
       hu: "Kereskedelmi kikötő a város szívében, amely megkönnyíti a mezőgazdasági termékek és textíliák exportját.",
@@ -107,8 +110,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von Sfax",
       hu: "Sfax Kikötője",
       ro: "Portul Sfax",
-      en: "Port of Sfax"
-    },
+      en: "Port of Sfax",
+image: "/poi-images/sfax-port-economic-v2.webp"
+},
     description: {
       de: "Ein großer Mehrzweckhafen, der den industriellen und kommerziellen Bedarf von Zentral- und Südtunesien bedient.",
       hu: "Nagy többcélú kikötő, amely Közép- és Dél-Tunézia ipari és kereskedelmi igényeit szolgálja ki.",
@@ -137,8 +141,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von Gabès",
       hu: "Gabès Kikötője",
       ro: "Portul Gabès",
-      en: "Port of Gabes"
-    },
+      en: "Port of Gabes",
+image: "/poi-images/gabes-port-economic-v2.webp"
+},
     description: {
       de: "Ein Industriehafen, der hauptsächlich dem Transport von chemischen Produkten und Rohphosphaten gewidmet ist.",
       hu: "Ipari kikötő, amely elsősorban vegyipari termékek és nyers foszfátok szállítására szolgál.",
@@ -167,8 +172,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von Zarzis",
       hu: "Zarzis Kikötője",
       ro: "Portul Zarzis",
-      en: "Port of Zarzis"
-    },
+      en: "Port of Zarzis",
+image: "/poi-images/zarzis-port-economic-v2.webp"
+},
     description: {
       de: "Ein wachsender Handelshafen und eine Freihandelszone im Süden, die die regionale Wirtschaftsentwicklung ankurbeln.",
       hu: "Növekvő déli kereskedelmi kikötő és szabadkereskedelmi övezet, amely fellendíti a regionális gazdaságfejlesztést.",
@@ -190,8 +196,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Hafen von La Goulette",
       hu: "La Goulette Kikötője",
       ro: "Portul La Goulette",
-      en: "Port of La Goulette"
-    },
+      en: "Port of La Goulette",
+image: "/poi-images/la-goulette-port-economic-v2.webp"
+},
     description: {
       de: "Historisch bedeutend, dient dieser Hafen heute hauptsächlich Passagierfähren und Kreuzfahrtschiffen, die in Tunis ankommen.",
       hu: "Történelmileg jelentős kikötő, amely ma főleg a Tuniszba érkező személykompokat és tengerjáró hajókat szolgálja ki.",
@@ -213,8 +220,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Ölterminal Skhira",
       hu: "Skhira Olajterminál",
       ro: "Terminalul Petrolier Skhira",
-      en: "Skhira Oil Terminal"
-    },
+      en: "Skhira Oil Terminal",
+image: "/poi-images/skhira-oil-terminal-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges maritimes Terminal, das ausschließlich der Lagerung und dem Export von Rohöl und raffinierten Erdölprodukten gewidmet ist.",
       hu: "Létfontosságú tengeri terminál, amely kizárólag nyersolaj és finomított kőolajtermékek tárolására és exportjára szolgál.",
@@ -236,8 +244,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Phosphatminen von Gafsa",
       hu: "Gafsa Foszfátbányák",
       ro: "Minele de Fosfat Gafsa",
-      en: "Gafsa Phosphate Mines"
-    },
+      en: "Gafsa Phosphate Mines",
+image: "/poi-images/gafsa-phosphate-mines-economic-v2.webp"
+},
     description: {
       de: "Ein riesiges Bergbaugebiet, das zu den weltweit führenden Quellen für natürliches Phosphatgestein gehört.",
       hu: "Hatalmas bányászati terület, amely a természetes foszfátkőzet egyik vezető forrása a világon.",
@@ -259,8 +268,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Chemiekomplex Ghannouch",
       hu: "Ghannouch Vegyipari Komplexum",
       ro: "Complexul Chimic Ghannouch",
-      en: "Ghannouch Chemical Complex"
-    },
+      en: "Ghannouch Chemical Complex",
+image: "/poi-images/ghannouch-chemical-complex-economic-v2.webp"
+},
     description: {
       de: "Eine große Industrieanlage, die Rohphosphat zu Phosphorsäure und verschiedenen landwirtschaftlichen Düngemitteln verarbeitet.",
       hu: "Nagy ipari létesítmény, amely nyers foszfátot dolgoz fel foszforsavvá és különböző mezőgazdasági műtrágyákká.",
@@ -282,8 +292,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Erdölraffinerie Bizerte",
       hu: "Bizerte Olajfinomító",
       ro: "Rafinăria de Petrol Bizerte",
-      en: "Bizerte Oil Refinery"
-    },
+      en: "Bizerte Oil Refinery",
+image: "/poi-images/bizerte-oil-refinery-economic-v2.webp"
+},
     description: {
       de: "Die einzige in Betrieb befindliche Erdölraffinerie in Tunesien, die den Inlandsmarkt mit wichtigen Kraftstoffen versorgt.",
       hu: "Az egyetlen működő kőolajfinomító Tunéziában, amely alapvető üzemanyagokkal látja el a hazai piacot.",
@@ -305,8 +316,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Ölfeld El Borma",
       hu: "El Borma Olajmező",
       ro: "Câmpul Petrolier El Borma",
-      en: "El Borma Oil Field"
-    },
+      en: "El Borma Oil Field",
+image: "/poi-images/el-borma-oil-field-economic-v2.webp"
+},
     description: {
       de: "Das größte Onshore-Ölfeld Tunesiens, tief im Süden nahe der algerischen Grenze gelegen.",
       hu: "Tunézia legnagyobb szárazföldi olajmezője, amely mélyen délen, az algériai határ közelében található.",
@@ -328,8 +340,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Gasaufbereitungsanlage Nawara",
       hu: "Nawara Gázfeldolgozó",
       ro: "Uzina de Gaz Nawara",
-      en: "Nawara Gas Processing Plant"
-    },
+      en: "Nawara Gas Processing Plant",
+image: "/poi-images/nawara-gas-plant-economic-v2.webp"
+},
     description: {
       de: "Ein großes Infrastrukturprojekt zur Aufbereitung von Erdgas, das in den südlichen Wüstenregionen gefördert wird.",
       hu: "Nagy infrastrukturális projekt, amelyet a déli sivatagi régiókban kitermelt földgáz feldolgozására terveztek.",
@@ -351,8 +364,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Stahlwerk El Fouladh",
       hu: "El Fouladh Acélmű",
       ro: "Oțelăria El Fouladh",
-      en: "El Fouladh Steel Plant"
-    },
+      en: "El Fouladh Steel Plant",
+image: "/poi-images/menzel-bourguiba-steel-economic-v2.webp"
+},
     description: {
       de: "Der historische nationale Metallurgiekomplex, der Betonstahl und Draht für den Bausektor produziert.",
       hu: "A történelmi nemzeti kohászati komplexum, amely betonacélt és huzalt gyárt az építőipar számára.",
@@ -374,8 +388,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Zink- und Bleimine Bougrine",
       hu: "Bougrine Cink- és Ólombánya",
       ro: "Mina de Zinc și Plumb Bougrine",
-      en: "Bougrine Zinc and Lead Mine"
-    },
+      en: "Bougrine Zinc and Lead Mine",
+image: "/poi-images/bougrine-mine-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige aktive Untertagemine, in der in der bergigen Nordwestregion unedle Metalle abgebaut werden.",
       hu: "Fontos aktív földalatti bánya, amely nemesfémeket termel ki a hegyvidéki északnyugati régióban.",
@@ -397,8 +412,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Zementwerk Carthage",
       hu: "Carthage Cementgyár",
       ro: "Fabrica de Ciment Carthage",
-      en: "Carthage Cement Plant"
-    },
+      en: "Carthage Cement Plant",
+image: "/poi-images/carthage-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Eines der größten und modernsten Zementwerke in Nordafrika, in der Nähe von Tunis gelegen.",
       hu: "Észak-Afrika egyik legnagyobb és legmodernebb cementgyára, Tunisz közelében.",
@@ -420,8 +436,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Zementwerk Enfidha",
       hu: "Enfidha Cementgyár",
       ro: "Fabrica de Ciment Enfidha",
-      en: "Enfidha Cement Plant"
-    },
+      en: "Enfidha Cement Plant",
+image: "/poi-images/enfidha-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Hersteller von Zement und Baustoffen, strategisch günstig gelegen, um die Küstenmärkte zu bedienen.",
       hu: "A cement és építőanyagok jelentős gyártója, amely stratégiailag a parti piacok kiszolgálására helyezkedik el.",
@@ -443,8 +460,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Industriezone Mghira",
       hu: "Mghira Ipari Zóna",
       ro: "Zona Industrială Mghira",
-      en: "Mghira Industrial Zone"
-    },
+      en: "Mghira Industrial Zone",
+image: "/poi-images/mghira-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Ein moderner Industriepark, der auf die Herstellung von Luftfahrtkomponenten und Automobilteilen spezialisiert ist.",
       hu: "Modern ipari park, amely repülőgépipari alkatrészek és autóipari elemek gyártására szakosodott.",
@@ -466,8 +484,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Industriezone Sidi Abdelhamid",
       hu: "Sidi Abdelhamid Ipari Zóna",
       ro: "Zona Industrială Sidi Abdelhamid",
-      en: "Sidi Abdelhamid Industrial Zone"
-    },
+      en: "Sidi Abdelhamid Industrial Zone",
+image: "/poi-images/sidi-abdelhamid-industrial-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Fertigungszentrum in Sousse, das sich auf Mechanik, Elektronik und die Textilindustrie konzentriert.",
       hu: "Sousse egyik kiemelkedő gyártóközpontja, amely a mechanikára, elektronikára és a textiliparra összpontosít.",
@@ -489,8 +508,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Industriezone Thyna",
       hu: "Thyna Ipari Zóna",
       ro: "Zona Industrială Thyna",
-      en: "Thyna Industrial Zone"
-    },
+      en: "Thyna Industrial Zone",
+image: "/poi-images/thyna-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Industriegebiet in der Nähe von Sfax, das eine Vielzahl von leichten und schweren Produktionsunternehmen beherbergt.",
       hu: "Kiterjedt ipari terület Sfax közelében, amely könnyű- és nehézipari vállalatok sokaságának ad otthont.",
@@ -512,8 +532,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Wirtschaftspark Zarzis",
       hu: "Zarzis Szabadkereskedelmi Zóna",
       ro: "Parcul Economic Zarzis",
-      en: "Zarzis Free Trade Park"
-    },
+      en: "Zarzis Free Trade Park",
+image: "/poi-images/zarzis-economic-park-economic-v2.webp"
+},
     description: {
       de: "Eine ausgewiesene Wirtschaftszone, die steuerliche Anreize bietet, um ausländische Investitionen und exportorientierte Unternehmen zu fördern.",
       hu: "Kijelölt gazdasági övezet, amely adókedvezményeket kínál a külföldi befektetések és az exportorientált vállalkozások ösztönzésére.",
@@ -535,8 +556,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Eisenmine Jebel Djerissa",
       hu: "Jebel Djerissa Vasércbánya",
       ro: "Mina de Fier Jebel Djerissa",
-      en: "Jebel Djerissa Iron Mine"
-    },
+      en: "Jebel Djerissa Iron Mine",
+image: "/poi-images/jebel-djerissa-iron-mine-economic-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutsame Bergbaustätte, die viele Jahrzehnte lang hochwertiges Eisenerz lieferte.",
       hu: "Történelmileg jelentős bányászati helyszín, amely évtizedeken át kiváló minőségű vasércet biztosított.",
@@ -558,8 +580,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Offshore-Gasfeld Miskar",
       hu: "Miskar Tengeri Gázmező",
       ro: "Câmpul de Gaz Miskar",
-      en: "Miskar Offshore Gas Field"
-    },
+      en: "Miskar Offshore Gas Field",
+image: "/poi-images/miskar-gas-field-economic-v2.webp"
+},
     description: {
       de: "Eine große Offshore-Erdgasproduktionsanlage im Golf von Gabès, die inländische Kraftwerke versorgt.",
       hu: "Nagy tengeri földgáztermelő létesítmény a Gabèsi-öbölben, amely a hazai erőműveket látja el.",
@@ -581,8 +604,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Offshore-Ölfeld Ashtart",
       hu: "Ashtart Tengeri Olajmező",
       ro: "Câmpul Petrolier Ashtart",
-      en: "Ashtart Offshore Oil Field"
-    },
+      en: "Ashtart Offshore Oil Field",
+image: "/poi-images/ashtart-oil-field-economic-v2.webp"
+},
     description: {
       de: "Eines der ältesten und produktivsten Offshore-Ölfelder im Golf von Gabès.",
       hu: "Az egyik legrégebbi és legtermékenyebb tengeri olajmező a Gabèsi-öbölben.",
@@ -604,8 +628,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Zementwerk Bizerte",
       hu: "Bizerte Cementgyár",
       ro: "Fabrica de Ciment Bizerte",
-      en: "Bizerte Cement Plant"
-    },
+      en: "Bizerte Cement Plant",
+image: "/poi-images/bizerte-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Eine große Zementproduktionsanlage an der Küste, die sowohl den Inlandsmarkt als auch den Export in den Mittelmeerraum bedient.",
       hu: "Nagy part menti cementgyár, amely a hazai piacot és a mediterrán exportot is kiszolgálja.",
@@ -627,8 +652,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Zementwerk Gabès",
       hu: "Gabès Cementgyár",
       ro: "Fabrica de Ciment Gabès",
-      en: "Gabes Cement Plant"
-    },
+      en: "Gabes Cement Plant",
+image: "/poi-images/gabes-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Ein regionales Produktionswerk, das wesentliche Baustoffe für Entwicklungsprojekte im Süden liefert.",
       hu: "Regionális gyártóüzem, amely alapvető építőanyagokat biztosít a déli fejlesztési projektekhez.",
@@ -650,8 +676,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Chemiekomplex Mdhilla",
       hu: "Mdhilla Vegyipari Komplexum",
       ro: "Complexul Chimic Mdhilla",
-      en: "Mdhilla Chemical Complex"
-    },
+      en: "Mdhilla Chemical Complex",
+image: "/poi-images/mdhilla-chemical-complex-economic-v2.webp"
+},
     description: {
       de: "Eine spezialisierte Industrieanlage, die sich auf die Produktion von Tripelsuperphosphat und anderen fortschrittlichen Düngemitteln konzentriert.",
       hu: "Speciális ipari létesítmény, amely a hármas szuperfoszfát és más fejlett műtrágyák gyártására összpontosít.",
@@ -673,8 +700,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Industriezone Utique",
       hu: "Utique Ipari Zóna",
       ro: "Zona Industrială Utique",
-      en: "Utique Industrial Zone"
-    },
+      en: "Utique Industrial Zone",
+image: "/poi-images/utique-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Ein wachsendes Produktionsgebiet in der Nähe von Bizerte, in dem Textil-, Lebensmittel- und Maschinenbauunternehmen ansässig sind.",
       hu: "Növekvő gyártási terület Bizerte közelében, ahol textilipari, élelmiszer-feldolgozó és gépgyártó cégek működnek.",
@@ -696,8 +724,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Industriezone Zriba",
       hu: "Zriba Ipari Zóna",
       ro: "Zona Industrială Zriba",
-      en: "Zriba Industrial Zone"
-    },
+      en: "Zriba Industrial Zone",
+image: "/poi-images/zriba-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Ein aktiver Wirtschaftspark in der Region Zaghouan, bekannt für die Produktion von elektrischen Komponenten und Automobilkabeln.",
       hu: "Aktív gazdasági park Zaghouan régióban, amely az elektromos alkatrészek és autóipari kábelek gyártásáról ismert.",
@@ -719,8 +748,9 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       de: "Phosphatmine Sra Ouertane",
       hu: "Sra Ouertane Foszfátbánya",
       ro: "Mina de Fosfat Sra Ouertane",
-      en: "Sra Ouertane Phosphate Mine"
-    },
+      en: "Sra Ouertane Phosphate Mine",
+image: "/poi-images/sra-ouertane-mine-economic-v2.webp"
+},
     description: {
       de: "Ein großes unerschlossenes Phosphatvorkommen im Nordwesten, das zukünftiges Bergbaupotenzial darstellt.",
       hu: "Egy nagy, még kiaknázatlan foszfátlelőhely északnyugaton, amely a jövő bányászati potenciálját jelenti.",

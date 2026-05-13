@@ -4,7 +4,9 @@ export const vaticanHistoryV2: POI[] = [
   {
     id: "vatican-st-peters-basilica-history-v2",
     type: "cathedral",
-    name: { de: "Petersdom", hu: "Szent Péter-bazilika", ro: "Bazilica Sfântul Petru", en: "St. Peter's Basilica" },
+    name: { de: "Petersdom", hu: "Szent Péter-bazilika", ro: "Bazilica Sfântul Petru", en: "St. Peter's Basilica",
+image: "/poi-images/vatican-st-peters-basilica-history-v2.webp"
+},
     coords: [12.4539, 41.9021],
     coordinates: { lat: 41.9021, lng: 12.4539 },
     description: {
@@ -19,11 +21,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construcție desfășurată între 1506 și 1626", "Cupola lui Michelangelo atinge 136,5 metri", "Cea mai mare biserică creștină din lume", "Se sprijină pe fundațiile bazilicii constantiniene"],
       en: ["Construction lasted from 1506 to 1626", "Michelangelo's dome reaches 136.5 meters", "Largest Christian church building in the world", "Rests on the foundations of the Constantinian basilica"],
     },
-    imageHint: "St. Peter's Basilica exterior facade and dome", image: "/poi-images/vatican-st-peters-basilica-history-v2.webp"},
-  {
+imageHint: "St. Peter's Basilica exterior facade and dome",
+    descriptionAdvanced: {
+      de: "Die heutige Basilika wurde zwischen 1506 und 1626 über der Grabstätte des Apostels Petrus errichtet. Sie gilt als Meisterwerk der Renaissance und Barockarchitektur.",
+      hu: "A mai bazilika 1506 és 1626 között épült Szent Péter apostol sírja fölé. A reneszánsz és barokk építészet egyik legkiemelkedőbb alkotása a világon.",
+      ro: "Bazilica actuală a fost construită între 1506 și 1626 pe locul mormântului Sfântului Petru. Este o capodoperă a arhitecturii Renașterii și Barocului.",
+      en: "Built between 1506 and 1626, the current basilica stands over the burial site of St. Peter. It represents a pinnacle of Renaissance and Baroque architecture.",
+    },
+    factsAdvanced: {
+      de: ["120 Jahre Bauzeit", "211 Meter Länge", "136 Meter Kuppelhöhe", "1506 Grundsteinlegung"],
+      hu: ["120 évig tartó építkezés", "211 méter hosszú belső", "136 méter magas kupola", "1506-os alapkőletétel"],
+      ro: ["120 de ani de construcție", "211 metri lungime", "136 metri înălțimea cupolei", "1506 punerea pietrei de temelie"],
+      en: ["120 years of construction", "211 meters total length", "136 meters dome height", "1506 foundation stone laid"],
+    },
+    image: "/poi-images/vatican-st-peters-basilica-history-v2.webp",
+},  {
     id: "vatican-st-peters-square-history-v2",
     type: "landmark",
-    name: { de: "Petersplatz", hu: "Szent Péter tér", ro: "Piața Sfântul Petru", en: "St. Peter's Square" },
+    name: { de: "Petersplatz", hu: "Szent Péter tér", ro: "Piața Sfântul Petru", en: "St. Peter's Square",
+image: "/poi-images/vatican-st-peters-square-history-v2.webp"
+},
     coords: [12.4572, 41.9022],
     coordinates: { lat: 41.9022, lng: 12.4572 },
     description: {
@@ -38,11 +55,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construită între 1656 și 1667", "Include 284 de coloane dorice", "Centrul este marcat de un obelisc egiptean antic", "Capacitate de până la 300.000 de persoane"],
       en: ["Built between 1656 and 1667", "Features 284 Doric columns", "Center holds an ancient Egyptian obelisk", "Capacity for up to 300,000 people"],
     },
-    imageHint: "St. Peter's Square aerial view with colonnades", image: "/poi-images/vatican-st-peters-square-history-v2.webp"},
-  {
+imageHint: "St. Peter's Square aerial view with colonnades",
+    descriptionAdvanced: {
+      de: "Gian Lorenzo Bernini gestaltete den Platz zwischen 1656 und 1667 im Auftrag von Papst Alexander VII. Die elliptische Form symbolisiert die mütterlichen Arme der Kirche.",
+      hu: "Gian Lorenzo Bernini tervezte a teret 1656 és 1667 között VII. Sándor pápa megbízásából. Az elliptikus forma az egyház átölelő karjait szimbolizálja.",
+      ro: "Gian Lorenzo Bernini a proiectat piața între 1656 și 1667 la comanda Papei Alexandru al VII-lea. Forma eliptică simbolizează brațele materne ale Bisericii.",
+      en: "Gian Lorenzo Bernini designed the square between 1656 and 1667 for Pope Alexander VII. Its elliptical shape symbolizes the welcoming arms of the Church.",
+    },
+    factsAdvanced: {
+      de: ["284 dorische Säulen", "140 Heiligenstatuen", "1656 Baubeginn", "320 Meter Breite"],
+      hu: ["284 dór oszlop", "140 szent szobra", "1656-os kezdési év", "320 méter szélesség"],
+      ro: ["284 de coloane dorice", "140 de statui de sfinți", "1656 începerea lucrărilor", "320 metri lățime"],
+      en: ["284 Doric columns", "140 statues of saints", "1656 start of work", "320 meters width"],
+    },
+    image: "/poi-images/vatican-st-peters-square-history-v2.webp",
+},  {
     id: "vatican-raphael-rooms-history-v2",
     type: "museum",
-    name: { de: "Stanze des Raffael", hu: "Raffaello-termek", ro: "Stanzele lui Rafael", en: "Raphael Rooms" },
+    name: { de: "Stanze des Raffael", hu: "Raffaello-termek", ro: "Stanzele lui Rafael", en: "Raphael Rooms",
+image: "/poi-images/vatican-raphael-rooms-history-v2.webp"
+},
     coords: [12.4546, 41.9031],
     coordinates: { lat: 41.9031, lng: 12.4546 },
     description: {
@@ -57,11 +89,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Include celebra frescă 'Școala din Atena'", "Frescele au fost realizate începând cu 1508", "Constă în patru încăperi distincte", "Considerate culmea Înaltei Renașteri"],
       en: ["Includes the famous 'School of Athens'", "Frescoes were created starting in 1508", "Consists of four distinct rooms", "Considered a peak of the High Renaissance"],
     },
-    imageHint: "Raphael Rooms School of Athens fresco", image: "/poi-images/vatican-raphael-rooms-history-v2.webp"},
-  {
+imageHint: "Raphael Rooms School of Athens fresco",
+    descriptionAdvanced: {
+      de: "Diese vier Räume wurden ab 1508 von Raffael und seiner Schule mit Fresken ausgestattet. Sie dienten als Privatgemächer für Papst Julius II. und dessen Nachfolger.",
+      hu: "Ezt a négy termet 1508-tól kezdődően Raffaello és iskolája díszítette freskókkal. II. Gyula pápa és utódai magánlakosztályaként szolgáltak.",
+      ro: "Aceste patru camere au fost decorate cu fresce de Rafael și școala sa începând cu 1508. Au servit drept apartamente private pentru Papa Iuliu al II-lea.",
+      en: "These four rooms were decorated with frescoes by Raphael and his school starting in 1508. They served as private apartments for Pope Julius II.",
+    },
+    factsAdvanced: {
+      de: ["1508 Beginn der Arbeiten", "4 verbundene Säle", "500 qm Wandfläche", "1524 Fertigstellung"],
+      hu: ["1508-as munka kezdete", "4 összekötött terem", "500 m2 falfelület", "1524-es befejezés"],
+      ro: ["1508 începutul lucrărilor", "4 săli conectate", "500 mp suprafață pictată", "1524 finalizarea"],
+      en: ["1508 start of decoration", "4 interconnected rooms", "500 sqm of wall surface", "1524 completion"],
+    },
+    image: "/poi-images/vatican-raphael-rooms-history-v2.webp",
+},  {
     id: "vatican-vatican-necropolis-history-v2",
     type: "ruins",
-    name: { de: "Vatikanische Nekropole", hu: "Vatikáni nekropolisz", ro: "Necropola Vaticană", en: "Vatican Necropolis" },
+    name: { de: "Vatikanische Nekropole", hu: "Vatikáni nekropolisz", ro: "Necropola Vaticană", en: "Vatican Necropolis",
+image: "/poi-images/vatican-vatican-necropolis-history-v2.webp"
+},
     coords: [12.453, 41.902],
     coordinates: { lat: 41.902, lng: 12.453 },
     description: {
@@ -76,11 +123,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Descoperită în timpul săpăturilor din 1940–1949", "Conține Trofeul lui Gaius", "A fost cândva parte a Circului lui Caligula", "Accesibilă doar cu permisiune specială"],
       en: ["Discovered during excavations in 1940–1949", "Contains the Trophy of Gaius", "Once part of the Circus of Caligula", "Accessible only with special permission"],
     },
-    imageHint: "Vatican Necropolis ancient tombs underground", image: "/poi-images/vatican-vatican-necropolis-history-v2.webp"},
-  {
+imageHint: "Vatican Necropolis ancient tombs underground",
+    descriptionAdvanced: {
+      de: "Die antike Nekropole unter dem Petersdom beherbergt Gräber aus dem 1. bis 4. Jahrhundert. Hier wurde in den 1940er Jahren das vermutete Grab des Petrus entdeckt.",
+      hu: "A Szent Péter-bazilika alatti ókori nekropolisz az 1–4. századból származó sírokat rejt. Itt fedezték fel az 1940-es években Szent Péter feltételezett sírját.",
+      ro: "Necropola antică de sub Bazilica Sfântul Petru adăpostește morminte din secolele I-IV. Aici a fost descoperit în anii 1940 presupusul mormânt al lui Petru.",
+      en: "The ancient necropolis beneath St. Peter's Basilica contains tombs from the 1st to 4th centuries. St. Peter's suspected grave was discovered here in the 1940s.",
+    },
+    factsAdvanced: {
+      de: ["10 Meter unter der Grotte", "22 Mausoleen entdeckt", "1940 Beginn der Ausgrabung", "2. Jahrhundert Gaian-Grab"],
+      hu: ["10 méterrel a barlangok alatt", "22 feltárt mauzóleum", "1940-es ásatások kezdete", "2. századi Gaius-emlékmű"],
+      ro: ["10 metri sub grote", "22 de mausolee descoperite", "1940 debutul excavărilor", "Secolul II mormântul lui Gaius"],
+      en: ["10 meters below the grottoes", "22 mausoleums discovered", "1940 excavation start", "2nd century Gaius trophy"],
+    },
+    image: "/poi-images/vatican-vatican-necropolis-history-v2.webp",
+},  {
     id: "vatican-casino-pius-iv-history-v2",
     type: "palace",
-    name: { de: "Casina di Pio IV", hu: "IV. Piusz nyaralója", ro: "Vila lui Pius al IV-lea", en: "Casino of Pius IV" },
+    name: { de: "Casina di Pio IV", hu: "IV. Piusz nyaralója", ro: "Vila lui Pius al IV-lea", en: "Casino of Pius IV",
+image: "/poi-images/vatican-casino-pius-iv-history-v2.webp"
+},
     coords: [12.4516, 41.9036],
     coordinates: { lat: 41.9036, lng: 12.4516 },
     description: {
@@ -95,11 +157,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Proiectată de Pirro Ligorio în 1558", "Constă în două clădiri opuse", "Fațade bogat decorate cu reliefuri", "Situată în mijlocul grădinilor vaticane"],
       en: ["Designed by Pirro Ligorio in 1558", "Consists of two opposing buildings", "Richly decorated facades with reliefs", "Located in the heart of the Vatican Gardens"],
     },
-    imageHint: "Casina di Pio IV vatican gardens", image: "/poi-images/vatican-casino-pius-iv-history-v2.webp"},
-  {
+imageHint: "Casina di Pio IV vatican gardens",
+    descriptionAdvanced: {
+      de: "Dieses Gartenhaus wurde 1558 von Pirro Ligorio fertiggestellt. Es gilt als Juwel der späten Renaissance und beherbergt heute die Päpstliche Akademie der Wissenschaften.",
+      hu: "Ezt a kerti házat 1558-ban fejezte be Pirro Ligorio. A késő reneszánsz ékszerdobozának tartják, ma a Pápai Tudományos Akadémia székhelye.",
+      ro: "Această casă de grădină a fost finalizată în 1558 de Pirro Ligorio. Este o bijuterie a Renașterii târzii și găzduiește Academia Pontificală de Științe.",
+      en: "Completed in 1558 by Pirro Ligorio, this garden house is a gem of late Renaissance architecture. It now houses the Pontifical Academy of Sciences.",
+    },
+    factsAdvanced: {
+      de: ["1558 Baujahr", "Pirro Ligorio Architekt", "Stuck von Federico Zuccari", "Sitz der Wissensakademie"],
+      hu: ["1558-as építési év", "Pirro Ligorio építész", "Federico Zuccari stukkói", "Tudományos Akadémia székhelye"],
+      ro: ["1558 anul construcției", "Pirro Ligorio arhitect", "Stucaturi de Federico Zuccari", "Sediul Academiei de Științe"],
+      en: ["1558 construction year", "Pirro Ligorio architect", "Stuccoes by Federico Zuccari", "Pontifical Academy seat"],
+    },
+    image: "/poi-images/vatican-casino-pius-iv-history-v2.webp",
+},  {
     id: "vatican-st-peters-obelisk-history-v2",
     type: "monument",
-    name: { de: "Vatikanischer Obelisk", hu: "Vatikáni obeliszk", ro: "Obeliscul Vatican", en: "Vatican Obelisk" },
+    name: { de: "Vatikanischer Obelisk", hu: "Vatikáni obeliszk", ro: "Obeliscul Vatican", en: "Vatican Obelisk",
+image: "/poi-images/vatican-st-peters-obelisk-history-v2.webp"
+},
     coords: [12.4572, 41.9022],
     coordinates: { lat: 41.9022, lng: 12.4572 },
     description: {
@@ -114,11 +191,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Adus la Roma de Caligula în anul 37 d.Hr.", "Mutat în 1586 de Domenico Fontana", "Înălțime de 25,5 metri fără piedestal", "A servit drept marcaj în Circul lui Nero"],
       en: ["Brought to Rome by Caligula in 37 AD", "Moved in 1586 by Domenico Fontana", "Height of 25.5 meters without pedestal", "Served as a turning post in Nero's Circus"],
     },
-    imageHint: "Vatican Obelisk center of St Peter Square", image: "/poi-images/vatican-st-peters-obelisk-history-v2.webp"},
-  {
+imageHint: "Vatican Obelisk center of St Peter Square",
+    descriptionAdvanced: {
+      de: "Der ägyptische Obelisk stammt aus dem 13. Jahrhundert v. Chr. und wurde 1586 unter Domenico Fontana an seinen heutigen Platz im Zentrum des Petersplatzes versetzt.",
+      hu: "Az egyiptomi obeliszk az i. e. 13. századból származik. 1586-ban helyezték át mai helyére, a Szent Péter tér közepére Domenico Fontana vezetésével.",
+      ro: "Obeliscul egiptean datează din secolul al XIII-lea î.Hr. A fost mutat în centrul Pieței Sfântul Petru în 1586, sub îndrumarea lui Domenico Fontana.",
+      en: "This Egyptian obelisk dates back to the 13th century BC. It was moved to its current location in St. Peter's Square in 1586 by Domenico Fontana.",
+    },
+    factsAdvanced: {
+      de: ["25,5 Meter Höhe", "327 Tonnen Gewicht", "1586 Aufstellung am Platz", "Keine Hieroglyphen"],
+      hu: ["25,5 méter magasság", "327 tonna súly", "1586-os felállítás", "Nincsenek rajta hieroglifák"],
+      ro: ["25,5 metri înălțime", "327 tone greutate", "1586 instalarea în piață", "Fără hieroglife"],
+      en: ["25.5 meters height", "327 tons weight", "1586 relocation date", "No hieroglyphs"],
+    },
+    image: "/poi-images/vatican-st-peters-obelisk-history-v2.webp",
+},  {
     id: "vatican-sala-regia-history-v2",
     type: "palace",
-    name: { de: "Sala Regia", hu: "Sala Regia", ro: "Sala Regia", en: "Sala Regia" },
+    name: { de: "Sala Regia", hu: "Sala Regia", ro: "Sala Regia", en: "Sala Regia",
+image: "/poi-images/vatican-sala-regia-history-v2.webp"
+},
     coords: [12.4548, 41.9028],
     coordinates: { lat: 41.9028, lng: 12.4548 },
     description: {
@@ -133,11 +225,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Începută în 1538 sub Paul al III-lea", "Fresce de Vasari și Zuccari", "Conectată direct cu Capela Sixtină", "Folosită pentru audiențe papale solemne"],
       en: ["Started in 1538 under Paul III", "Frescoes by Vasari and Zuccari", "Connection to the Sistine Chapel", "Used for solemn papal audiences"],
     },
-    imageHint: "Sala Regia Vatican hall frescoes", image: "/poi-images/vatican-sala-regia-history-v2.webp"},
-  {
+imageHint: "Sala Regia Vatican hall frescoes",
+    descriptionAdvanced: {
+      de: "Dieser prächtige Saal wurde von Antonio da Sangallo dem Jüngeren entworfen. Er diente für feierliche Empfänge von Fürsten und die Unterzeichnung wichtiger Verträge.",
+      hu: "Ezt a pompás termet ifjabb Antonio da Sangallo tervezte. Fejedelmek ünnepélyes fogadására és fontos szerződések aláírására szolgált.",
+      ro: "Această sală somptuoasă a fost proiectată de Antonio da Sangallo cel Tânăr. Servea pentru primirea solemnă a prinților și semnarea tratatelor.",
+      en: "This magnificent hall was designed by Antonio da Sangallo the Younger. It was used for the solemn reception of princes and signing important treaties.",
+    },
+    factsAdvanced: {
+      de: ["1538 Baubeginn", "Fresken von Vasari", "40 Meter Länge", "Verbindung zur Sixtina"],
+      hu: ["1538-as építés kezdete", "Vasari freskói", "40 méter hosszúság", "Kapcsolat a Sixtus-kápolnával"],
+      ro: ["1538 începerea construcției", "Fresce de Vasari", "40 metri lungime", "Conexiune cu Capela Sixtină"],
+      en: ["1538 construction start", "Frescoes by Vasari", "40 meters length", "Link to Sistine Chapel"],
+    },
+    image: "/poi-images/vatican-sala-regia-history-v2.webp",
+},  {
     id: "vatican-scala-regia-history-v2",
     type: "landmark",
-    name: { de: "Scala Regia", hu: "Scala Regia", ro: "Scala Regia", en: "Scala Regia" },
+    name: { de: "Scala Regia", hu: "Scala Regia", ro: "Scala Regia", en: "Scala Regia",
+image: "/poi-images/vatican-scala-regia-history-v2.webp"
+},
     coords: [12.4548, 41.9027],
     coordinates: { lat: 41.9027, lng: 12.4548 },
     description: {
@@ -152,11 +259,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construită între 1663 și 1666", "Folosește colonade convergente", "Statuia lui Constantin cel Mare la bază", "Intrarea oficială pentru vizite de stat"],
       en: ["Built between 1663 and 1666", "Uses converging colonnades", "Statue of Constantine the Great at the foot", "Entrance area for state visits"],
     },
-    imageHint: "Scala Regia Bernini staircase perspective", image: "/poi-images/vatican-scala-regia-history-v2.webp"},
-  {
+imageHint: "Scala Regia Bernini staircase perspective",
+    descriptionAdvanced: {
+      de: "Bernini baute diese monumentale Treppe zwischen 1663 und 1666 um. Durch perspektivische Tricks wirkt der Aufstieg länger und majestätischer als er tatsächlich ist.",
+      hu: "Bernini 1663 és 1666 között építette át ezt a monumentális lépcsőt. A perspektivikus trükkök révén a feljárat hosszabbnak és fenségesebbnek tűnik.",
+      ro: "Bernini a reconstruit această scară monumentală între 1663 și 1666. Prin trucuri de perspectivă, urcarea pare mai lungă și mai maiestoasă.",
+      en: "Bernini reconstructed this monumental staircase between 1663 and 1666. Using perspective tricks, he made the ascent appear longer and more majestic.",
+    },
+    factsAdvanced: {
+      de: ["1663 Umbau durch Bernini", "Konische Säulenreihen", "Reiterstatue Konstantins", "Eingang zum Palast"],
+      hu: ["1663-as Bernini-átépítés", "Kónikus oszlopsorok", "Konstantin lovas szobra", "Bejárat a palotába"],
+      ro: ["1663 reconstrucția lui Bernini", "Șiruri de coloane conice", "Statuia ecvestră a lui Constantin", "Intrarea în palat"],
+      en: ["1663 Bernini redesign", "Converging colonnades", "Statue of Constantine", "Apostolic Palace entrance"],
+    },
+    image: "/poi-images/vatican-scala-regia-history-v2.webp",
+},  {
     id: "vatican-borgia-apartments-history-v2",
     type: "palace",
-    name: { de: "Borgia-Appartement", hu: "Borgia-apartman", ro: "Apartamentul Borgia", en: "Borgia Apartments" },
+    name: { de: "Borgia-Appartement", hu: "Borgia-apartman", ro: "Apartamentul Borgia", en: "Borgia Apartments",
+image: "/poi-images/vatican-borgia-apartments-history-v2.webp"
+},
     coords: [12.4546, 41.9031],
     coordinates: { lat: 41.9031, lng: 12.4546 },
     description: {
@@ -171,11 +293,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Frescele au fost realizate între 1492 și 1494", "Complexul cuprinde șase săli principale", "A fost puțin utilizat de papii de mai târziu", "Astăzi face parte din colecția de artă religioasă modernă"],
       en: ["Frescoes were painted between 1492 and 1494", "Six main rooms comprise the complex", "Hardly used by later popes", "Now part of the Collection of Modern Religious Art"],
     },
-    imageHint: "Borgia Apartments Pinturicchio frescoes", image: "/poi-images/vatican-borgia-apartments-history-v2.webp"},
-  {
+imageHint: "Borgia Apartments Pinturicchio frescoes",
+    descriptionAdvanced: {
+      de: "Diese Räume waren die Privatgemächer von Papst Alexander VI. Pinturicchio schuf hier am Ende des 15. Jahrhunderts einen der bedeutendsten Freskenzyklen Roms.",
+      hu: "Ezek a termek VI. Sándor pápa magánlakosztályai voltak. Pinturicchio a 15. század végén itt alkotta meg Róma egyik legjelentősebb freskóciklusát.",
+      ro: "Aceste camere au fost apartamentele private ale Papei Alexandru al VI-lea. Pinturicchio a creat aici, la finele secolului XV, fresce remarcabile.",
+      en: "These rooms were the private apartments of Pope Alexander VI. Pinturicchio created one of Rome's most significant fresco cycles here in the late 1400s.",
+    },
+    factsAdvanced: {
+      de: ["1492–1494 Ausmalung", "6 miteinander verbundene Säle", "Wappen der Familie Borgia", "Sammlung moderner Kunst"],
+      hu: ["1492–1494 közötti festés", "6 összekapcsolt terem", "Borgia-család címere", "Modern művészeti gyűjtemény"],
+      ro: ["1492–1494 execuția picturii", "6 săli interconectate", "Blazonul familiei Borgia", "Colecție de artă modernă"],
+      en: ["1492–1494 decoration period", "6 interconnected rooms", "Borgia family crests", "Modern Art Collection seat"],
+    },
+    image: "/poi-images/vatican-borgia-apartments-history-v2.webp",
+},  {
     id: "vatican-niccoline-chapel-history-v2",
     type: "church",
-    name: { de: "Nikolaus-Kapelle", hu: "Niccolina-kápolna", ro: "Capela Niccolina", en: "Niccoline Chapel" },
+    name: { de: "Nikolaus-Kapelle", hu: "Niccolina-kápolna", ro: "Capela Niccolina", en: "Niccoline Chapel",
+image: "/poi-images/vatican-niccoline-chapel-history-v2.webp"
+},
     coords: [12.4549, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4549 },
     description: {
@@ -190,11 +327,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Frescele prezintă viața Sf. Ștefan și a Sf. Laurențiu", "Realizată între 1447 și 1449", "Situată în cea mai veche parte a palatului", "Fra Angelico a fost un călugăr dominican"],
       en: ["Frescoes depict the lives of St. Stephen and St. Lawrence", "Created between 1447 and 1449", "Located in the oldest part of the palace", "Fra Angelico was a Dominican friar"],
     },
-    imageHint: "Niccoline Chapel Fra Angelico frescoes", image: "/poi-images/vatican-niccoline-chapel-history-v2.webp"},
-  {
+imageHint: "Niccoline Chapel Fra Angelico frescoes",
+    descriptionAdvanced: {
+      de: "Die Kapelle im Apostolischen Palast wurde für Papst Nikolaus V. errichtet. Fra Angelico schmückte sie zwischen 1447 und 1451 mit Szenen aus dem Leben der Heiligen.",
+      hu: "Az Apostoli Palotában található kápolna V. Miklós pápa számára épült. Fra Angelico 1447 és 1451 között díszítette szentek életét bemutató freskókkal.",
+      ro: "Capela din Palatul Apostolic a fost construită pentru Papa Nicolae al V-lea. Fra Angelico a decorat-o între 1447 și 1451 cu scene din viața sfinților.",
+      en: "This chapel in the Apostolic Palace was built for Pope Nicholas V. Fra Angelico decorated it between 1447 and 1451 with scenes from saints' lives.",
+    },
+    factsAdvanced: {
+      de: ["1447 Baubeginn", "Fresken von Fra Angelico", "Szenen von Stephanus & Laurentius", "Privatkapelle des Papstes"],
+      hu: ["1447-es építés kezdete", "Fra Angelico freskói", "István és Lőrinc vértanúk", "A pápa magánkápolnája"],
+      ro: ["1447 începutul construcției", "Fresce de Fra Angelico", "Scene cu Ștefan și Laurențiu", "Capelă privată papală"],
+      en: ["1447 construction start", "Fra Angelico frescoes", "Stephen and Lawrence scenes", "Private papal chapel"],
+    },
+    image: "/poi-images/vatican-niccoline-chapel-history-v2.webp",
+},  {
     id: "vatican-tower-of-st-john-history-v2",
     type: "tower",
-    name: { de: "Turm des Heiligen Johannes", hu: "Szent János-torony", ro: "Turnul Sfântul Ioan", en: "Tower of Saint John" },
+    name: { de: "Turm des Heiligen Johannes", hu: "Szent János-torony", ro: "Turnul Sfântul Ioan", en: "Tower of Saint John",
+image: "/poi-images/vatican-tower-of-st-john-history-v2.webp"
+},
     coords: [12.4485, 41.9021],
     coordinates: { lat: 41.9021, lng: 12.4485 },
     description: {
@@ -209,11 +361,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construit în secolul al IX-lea sub Leon al IV-lea", "Renovat în secolul al XVI-lea sub Nicolae al V-lea", "Locul întâlnirii dintre Papa Benedict al XVI-lea și George W. Bush", "Oferă vederi panoramice asupra Vaticanului"],
       en: ["Built in the 9th century under Leo IV", "Renewed in the 16th century under Nicholas V", "Site of the meeting between Pope Benedict XVI and George W. Bush", "Offers expansive views over the Vatican"],
     },
-    imageHint: "Tower of St John vatican gardens medieval", image: "/poi-images/vatican-tower-of-st-john-history-v2.webp"},
-  {
+imageHint: "Tower of St John vatican gardens medieval",
+    descriptionAdvanced: {
+      de: "Dieser mittelalterliche Turm ist Teil der Leoninischen Mauer aus dem 9. Jahrhundert. Er wurde im 20. Jahrhundert als Residenz für Ehrengäste des Vatikans modernisiert.",
+      hu: "Ez a középkori torony a 9. századi leoninus fal része. A 20. században modernizálták, hogy a Vatikán díszvendégeinek szálláshelyéül szolgáljon.",
+      ro: "Acest turn medieval face parte din Zidul Leonin din secolul al IX-lea. A fost modernizat în secolul XX pentru a găzdui oaspeți de onoare ai Vaticanului.",
+      en: "This medieval tower is part of the 9th-century Leonine Wall. It was modernized in the 20th century to serve as a residence for Vatican's honored guests.",
+    },
+    factsAdvanced: {
+      de: ["9. Jahrhundert Ursprung", "Teil der Leoninischen Mauer", "Restaurierung 1962", "Gästehaus für Staatsoberhäupter"],
+      hu: ["9. századi eredet", "A Leoninus-fal része", "1962-es restaurálás", "Államfők vendégháza"],
+      ro: ["Secolul IX originea", "Parte a Zidului Leonin", "Restaurare în 1962", "Casă de oaspeți oficială"],
+      en: ["9th century origin", "Part of Leonine Wall", "1962 restoration", "Guesthouse for heads of state"],
+    },
+    image: "/poi-images/vatican-tower-of-st-john-history-v2.webp",
+},  {
     id: "vatican-pauline-chapel-history-v2",
     type: "church",
-    name: { de: "Cappella Paolina", hu: "Paolina-kápolna", ro: "Capela Paulină", en: "Pauline Chapel" },
+    name: { de: "Cappella Paolina", hu: "Paolina-kápolna", ro: "Capela Paulină", en: "Pauline Chapel",
+image: "/poi-images/vatican-pauline-chapel-history-v2.webp"
+},
     coords: [12.4547, 41.9027],
     coordinates: { lat: 41.9027, lng: 12.4547 },
     description: {
@@ -228,11 +395,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Michelangelo a pictat aici între 1542–1550", "Frescele prezintă convertirea Sfântului Paul", "Numită după Papa Paul al III-lea", "Nu este deschisă publicului larg"],
       en: ["Michelangelo painted here between 1542–1550", "Frescoes depict the Conversion of St. Paul", "Named after Pope Paul III", "Not open to the general public"],
     },
-    imageHint: "Pauline Chapel Vatican frescoes Michelangelo", image: "/poi-images/vatican-pauline-chapel-history-v2.webp"},
-  {
+imageHint: "Pauline Chapel Vatican frescoes Michelangelo",
+    descriptionAdvanced: {
+      de: "Die Cappella Paolina wurde 1537 von Antonio da Sangallo dem Jüngeren erbaut. Sie beherbergt die letzten beiden Monumentalfresken Michelangelos.",
+      hu: "A Cappella Paolinát 1537-ben építette ifjabb Antonio da Sangallo. Itt található Michelangelo utolsó két nagyszabású freskója.",
+      ro: "Cappella Paolina a fost construită în 1537 de Antonio da Sangallo cel Tânăr. Adăpostește ultimele două fresce monumentale ale lui Michelangelo.",
+      en: "The Pauline Chapel was built in 1537 by Antonio da Sangallo the Younger. It houses the final two monumental frescoes painted by Michelangelo.",
+    },
+    factsAdvanced: {
+      de: ["1537 Baubeginn", "Fresken: Bekehrung Pauli", "Michelangelos Spätwerk", "Nicht öffentlich zugänglich"],
+      hu: ["1537-es építés kezdete", "Freskó: Szent Pál megtérése", "Michelangelo utolsó művei", "Nem látogatható"],
+      ro: ["1537 începutul construcției", "Fresca: Conversia lui Pavel", "Opera târzie a lui Michelangelo", "Nu este deschisă publicului"],
+      en: ["1537 construction start", "Conversion of Paul fresco", "Michelangelo's last paintings", "Private papal chapel"],
+    },
+    image: "/poi-images/vatican-pauline-chapel-history-v2.webp",
+},  {
     id: "vatican-cortile-del-belvedere-history-v2",
     type: "palace",
-    name: { de: "Belvedere-Hof", hu: "Belvedere-udvar", ro: "Curtea Belvedere", en: "Cortile del Belvedere" },
+    name: { de: "Belvedere-Hof", hu: "Belvedere-udvar", ro: "Curtea Belvedere", en: "Cortile del Belvedere",
+image: "/poi-images/vatican-cortile-del-belvedere-history-v2.webp"
+},
     coords: [12.4548, 41.9054],
     coordinates: { lat: 41.9054, lng: 12.4548 },
     description: {
@@ -247,11 +429,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Proiectată de Bramante începând cu 1506", "Lungime de aproximativ 300 de metri", "Servește astăzi Muzeelor Vaticane", "Include celebra nișă a conului de pin"],
       en: ["Designed by Bramante starting in 1506", "Length of approximately 300 meters", "Now serves the Vatican Museums", "Contains the famous Pinecone Nicchia"],
     },
-    imageHint: "Cortile del Belvedere Pinecone courtyard Vatican", image: "/poi-images/vatican-cortile-del-belvedere-history-v2.webp"},
-  {
+imageHint: "Cortile del Belvedere Pinecone courtyard Vatican",
+    descriptionAdvanced: {
+      de: "Bramante entwarf diesen Hof 1506, um den Apostolischen Palast mit der Villa Belvedere zu verbinden. Er markiert den Beginn der großen vatikanischen Museen.",
+      hu: "Bramante 1506-ban tervezte ezt az udvart, hogy összekösse az Apostoli Palotát a Belvedere-villával. Ez jelzi a nagy vatikáni múzeumok kezdetét.",
+      ro: "Bramante a proiectat această curte în 1506 pentru a lega Palatul Apostolic de Vila Belvedere. Marchează începutul marilor muzee vaticane.",
+      en: "Bramante designed this courtyard in 1506 to link the Apostolic Palace with the Belvedere Villa. It marks the start of the great Vatican Museums.",
+    },
+    factsAdvanced: {
+      de: ["1506 Entwurf von Bramante", "300 Meter Länge ursprünglich", "Terrassierte Anlage", "Verbindung der Paläste"],
+      hu: ["1506-os Bramante-terv", "300 méter eredeti hossz", "Teraszos kialakítás", "Paloták összekötése"],
+      ro: ["1506 proiectul lui Bramante", "300 metri lungime inițială", "Structură în terase", "Conectarea palatelor"],
+      en: ["1506 Bramine design", "300 meters original length", "Terraced garden layout", "Linking of palaces"],
+    },
+    image: "/poi-images/vatican-cortile-del-belvedere-history-v2.webp",
+},  {
     id: "vatican-bramante-staircase-history-v2",
     type: "landmark",
-    name: { de: "Bramante-Treppe (Original)", hu: "Bramante-lépcső (eredeti)", ro: "Scara lui Bramante (originală)", en: "Bramante Staircase (Original)" },
+    name: { de: "Bramante-Treppe (Original)", hu: "Bramante-lépcső (eredeti)", ro: "Scara lui Bramante (originală)", en: "Bramante Staircase (Original)",
+image: "/poi-images/vatican-bramante-staircase-history-v2.webp"
+},
     coords: [12.454, 41.9069],
     coordinates: { lat: 41.9069, lng: 12.454 },
     description: {
@@ -266,11 +463,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construită în anul 1505", "Folosește coloane dorice ca sprijin", "A servit drept model pentru scările în spirală moderne", "Situată în Muzeul Pio-Clementino"],
       en: ["Built in the year 1505", "Uses Doric columns for support", "Served as a model for modern spiral staircases", "Located in the Pio-Clementine Museum"],
     },
-    imageHint: "Original Bramante staircase Vatican 1505", image: "/poi-images/vatican-bramante-staircase-history-v2.webp"},
-  {
+imageHint: "Original Bramante staircase Vatican 1505",
+    descriptionAdvanced: {
+      de: "Die originale Wendeltreppe wurde 1505 von Bramante ohne Stufen erbaut, damit Pferde sie begehen konnten. Sie gilt als bahnbrechendes Werk der Renaissance-Ingenieurskunst.",
+      hu: "Az eredeti csigalépcsőt 1505-ben építette Bramante lépcsőfokok nélkül, hogy lovak is használhassák. A reneszánsz mérnöki művészet úttörő alkotása.",
+      ro: "Scara originală în spirală a fost construită în 1505 de Bramante fără trepte, pentru a fi urcată de cai. Este o operă de pionierat a ingineriei Renașterii.",
+      en: "The original helical staircase was built in 1505 by Bramante without steps, allowing horses to ascend. It is a pioneering work of Renaissance engineering.",
+    },
+    factsAdvanced: {
+      de: ["1505 Baujahr", "Stufenlose Rampe", "Toskanische Säulenordnung", "Originales Belvedere-Projekt"],
+      hu: ["1505-ös építési év", "Lépcsőfok nélküli rámpa", "Toszkán oszloprend", "Eredeti Belvedere-projekt"],
+      ro: ["1505 anul construcției", "Rampă fără trepte", "Ordin toscan de coloane", "Proiectul original Belvedere"],
+      en: ["1505 construction year", "Stepless ramp design", "Tuscan column order", "Part of Belvedere project"],
+    },
+    image: "/poi-images/vatican-bramante-staircase-history-v2.webp",
+},  {
     id: "vatican-vatican-secret-archives-history-v2",
     type: "ruins",
-    name: { de: "Vatikanisches Apostolisches Archiv", hu: "Vatikáni Apostoli Archívum", ro: "Arhiva Apostolică Vaticană", en: "Vatican Apostolic Archive" },
+    name: { de: "Vatikanisches Apostolisches Archiv", hu: "Vatikáni Apostoli Archívum", ro: "Arhiva Apostolică Vaticană", en: "Vatican Apostolic Archive",
+image: "/poi-images/vatican-vatican-secret-archives-history-v2.webp"
+},
     coords: [12.4542, 41.9052],
     coordinates: { lat: 41.9052, lng: 12.4542 },
     description: {
@@ -285,11 +497,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Cuprinde 85 de kilometri de rafturi", "Conține protocolul procesului lui Galileo", "Numită anterior 'Arhiva Secretă'", "Accesibilă doar cercetătorilor acreditați"],
       en: ["Comprises 85 kilometers of shelving", "Contains the minutes of Galileo's trial", "Formerly called the 'Secret Archive'", "Accessible only to accredited researchers"],
     },
-    imageHint: "Vatican Apostolic Archive documents shelves", image: "/poi-images/vatican-vatican-secret-archives-history-v2.webp"},
-  {
+imageHint: "Vatican Apostolic Archive documents shelves",
+    descriptionAdvanced: {
+      de: "Papst Paul V. trennte das Archiv 1612 von der Bibliothek. Es bewahrt die zentralen Dokumente des Heiligen Stuhls über Jahrhunderte der Weltgeschichte auf.",
+      hu: "V. Pál pápa 1612-ben választotta el az archívumot a könyvtártól. A Szentszék központi dokumentumait őrzi a világtörténelem évszázadaiból.",
+      ro: "Papa Paul al V-lea a separat arhiva de bibliotecă în 1612. Păstrează documentele centrale ale Sfântului Scaun de-a lungul secolelor de istorie mondială.",
+      en: "Pope Paul V separated the archive from the library in 1612. It preserves the central documents of the Holy See spanning centuries of world history.",
+    },
+    factsAdvanced: {
+      de: ["1612 Gründung", "85 km Regallänge", "35.000 Bände Kataloge", "Umbenannt in Apostolisches Archiv"],
+      hu: ["1612-es alapítás", "85 km polchosszúság", "35 000 kötetnyi katalógus", "Új név: Apostoli Archívum"],
+      ro: ["1612 anul fondării", "85 km de rafturi", "35.000 de volume catalog", "Redenumită Arhiva Apostolică"],
+      en: ["1612 official founding", "85 km of shelving", "35,000 volumes of catalogs", "Renamed Apostolic Archive"],
+    },
+    image: "/poi-images/vatican-vatican-secret-archives-history-v2.webp",
+},  {
     id: "vatican-gregorian-egyptian-museum-history-v2",
     type: "museum",
-    name: { de: "Gregorianisch-ägyptisches Museum", hu: "Gergely-féle Egyiptomi Múzeum", ro: "Muzeul Gregorian Egiptean", en: "Gregorian Egyptian Museum" },
+    name: { de: "Gregorianisch-ägyptisches Museum", hu: "Gergely-féle Egyiptomi Múzeum", ro: "Muzeul Gregorian Egiptean", en: "Gregorian Egyptian Museum",
+image: "/poi-images/vatican-gregorian-egyptian-museum-history-v2.webp"
+},
     coords: [12.4543, 41.9064],
     coordinates: { lat: 41.9064, lng: 12.4543 },
     description: {
@@ -304,11 +531,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Nouă săli prezintă evoluția artei", "Găzduiește piese din Vila lui Hadrian", "Amenajat în Palatul Belvedere", "Prezintă statui monumentale ale regilor"],
       en: ["Nine rooms show the development of art", "Houses pieces from Hadrian's Villa", "Set up in the Belvedere Palace", "Presents monumental statues of kings"],
     },
-    imageHint: "Gregorian Egyptian Museum Vatican statues", image: "/poi-images/vatican-gregorian-egyptian-museum-history-v2.webp"},
-  {
+imageHint: "Gregorian Egyptian Museum Vatican statues",
+    descriptionAdvanced: {
+      de: "Das Museum wurde 1839 von Papst Gregor XVI. gegründet. Es beherbergt eine bedeutende Sammlung altägyptischer Kunstwerke, die teils aus dem antiken Rom stammen.",
+      hu: "A múzeumot 1839-ben alapította XVI. Gergely pápa. Az ókori egyiptomi művészet jelentős gyűjteményét őrzi, melyek részben az ókori Rómából származnak.",
+      ro: "Muzeul a fost fondat în 1839 de Papa Grigore al XVI-lea. Adăpostește o colecție importantă de artă egipteană antică, adusă parțial din Roma antică.",
+      en: "Founded in 1839 by Pope Gregory XVI, this museum houses an important collection of ancient Egyptian artifacts, some brought from ancient Rome.",
+    },
+    factsAdvanced: {
+      de: ["1839 Eröffnungsjahr", "9 Ausstellungsräume", "Antike römische Kopien", "Hieroglyphische Inschriften"],
+      hu: ["1839-es megnyitás", "9 kiállítóterem", "Ókori római másolatok", "Hieroglif feliratok"],
+      ro: ["1839 anul deschiderii", "9 săli de expoziție", "Copii romane antice", "Inscripții hieroglifice"],
+      en: ["1839 opening year", "9 exhibition rooms", "Ancient Roman copies", "Hieroglyphic inscriptions"],
+    },
+    image: "/poi-images/vatican-gregorian-egyptian-museum-history-v2.webp",
+},  {
     id: "vatican-braccio-nuovo-history-v2",
     type: "museum",
-    name: { de: "Braccio Nuovo", hu: "Braccio Nuovo", ro: "Braccio Nuovo", en: "Braccio Nuovo" },
+    name: { de: "Braccio Nuovo", hu: "Braccio Nuovo", ro: "Braccio Nuovo", en: "Braccio Nuovo",
+image: "/poi-images/vatican-braccio-nuovo-history-v2.webp"
+},
     coords: [12.4549, 41.9052],
     coordinates: { lat: 41.9052, lng: 12.4549 },
     description: {
@@ -323,11 +565,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Finalizată în anul 1822", "Găzduiește statuia Augustus din Primaporta", "Proiectată de Raffaele Stern", "Mozaicurile de pe podea provin din vile romane"],
       en: ["Completed in 1822", "Houses the Augustus of Primaporta", "Designed by Raffaele Stern", "Floor mosaics come from Roman villas"],
     },
-    imageHint: "Braccio Nuovo Vatican Museum neoclassical gallery", image: "/poi-images/vatican-braccio-nuovo-history-v2.webp"},
-  {
+imageHint: "Braccio Nuovo Vatican Museum neoclassical gallery",
+    descriptionAdvanced: {
+      de: "Dieser 'Neue Flügel' wurde zwischen 1817 und 1822 im Auftrag von Papst Pius VII. erbaut. Er sollte die nach den Napoleonischen Kriegen zurückgekehrten Kunstwerke aufnehmen.",
+      hu: "Ezt az 'Új Szárnyat' 1817 és 1822 között építették VII. Pius pápa megbízásából. A napóleoni háborúk után visszatért műkincsek elhelyezésére szolgált.",
+      ro: "Această 'Aripă Nouă' a fost construită între 1817 și 1822 la comanda Papei Pius al VII-lea. Trebuia să adăpostească operele returnate după războaiele napoleoniene.",
+      en: "This 'New Wing' was built between 1817 and 1822 for Pope Pius VII. it was designed to house artworks returned after the Napoleonic Wars.",
+    },
+    factsAdvanced: {
+      de: ["1817 Baubeginn", "Raffaele Stern Architekt", "68 Meter Länge", "Klassizistischer Stil"],
+      hu: ["1817-es építés kezdete", "Raffaele Stern építész", "68 méter hosszúság", "Klasszicista stílus"],
+      ro: ["1817 începerea construcției", "Raffaele Stern arhitect", "68 metri lungime", "Stil neoclasic"],
+      en: ["1817 construction start", "Raffaele Stern architect", "68 meters length", "Neoclassical style"],
+    },
+    image: "/poi-images/vatican-braccio-nuovo-history-v2.webp",
+},  {
     id: "vatican-sala-clementina-history-v2",
     type: "palace",
-    name: { de: "Sala Clementina", hu: "Kelemen-terem", ro: "Sala Clementină", en: "Clementine Hall" },
+    name: { de: "Sala Clementina", hu: "Kelemen-terem", ro: "Sala Clementină", en: "Clementine Hall",
+image: "/poi-images/vatican-sala-clementina-history-v2.webp"
+},
     coords: [12.4552, 41.9034],
     coordinates: { lat: 41.9034, lng: 12.4552 },
     description: {
@@ -342,12 +599,27 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Numită după Papa Clement al VIII-lea", "Frescă de tavan de Giovanni Alberti", "Aici este depus corpul papei decedat", "Situată la al doilea etaj al palatului"],
       en: ["Named after Pope Clement VIII", "Ceiling fresco by Giovanni Alberti", "Site where the deceased Pope lies in state", "Located on the second floor of the palace"],
     },
-    imageHint: "Sala Clementina Vatican hall interior", image: "/poi-images/vatican-sala-clementina-history-v2.webp"}
-,
+imageHint: "Sala Clementina Vatican hall interior",
+    descriptionAdvanced: {
+      de: "Dieser nach Papst Clemens VIII. benannte Saal entstand Ende des 16. Jahrhunderts. Er ist bekannt für seine prächtige Illusionsmalerei und dient als Vorzimmer des Papstes.",
+      hu: "A VIII. Kelemen pápáról elnevezett terem a 16. század végén készült el. Pompás illuzionista festményeiről ismert, és a pápa előszobájaként szolgál.",
+      ro: "Această sală, numită după Papa Clement al VIII-lea, a fost creată la finele secolului XVI. Este celebră pentru pictura iluzionistă și servește ca anticameră.",
+      en: "Named after Pope Clement VIII, this hall was created in the late 16th century. It is famous for its illusionistic paintings and serves as a papal antechamber.",
+    },
+    factsAdvanced: {
+      de: ["16. Jahrhundert Entstehung", "Fresken von Giovanni Alberti", "Sitz der Schweizergarde-Wache", "Illusionsmalerei"],
+      hu: ["16. századi kialakítás", "Giovanni Alberti freskói", "Svájci Gárda őrhelye", "Illuzionista mennyezet"],
+      ro: ["Secolul XVI creația", "Fresce de Giovanni Alberti", "Post de gardă elvețiană", "Pictură iluzionistă"],
+      en: ["16th century creation", "Giovanni Alberti frescoes", "Swiss Guard post station", "Trompe-l'œil ceiling"],
+    },
+    image: "/poi-images/vatican-sala-clementina-history-v2.webp",
+},
   {
     id: "vatican-gallery-of-the-candelabra-history-v2",
     type: "museum",
-    name: { de: "Galerie der Kandelaber", hu: "Kandeláberek galériája", ro: "Galeria Candelabrelor", en: "Gallery of the Candelabra" },
+    name: { de: "Galerie der Kandelaber", hu: "Kandeláberek galériája", ro: "Galeria Candelabrelor", en: "Gallery of the Candelabra",
+image: "/poi-images/vatican-gallery-of-the-candelabra-history-v2.webp"
+},
     coordinates: { lat: 41.9038, lng: 12.4535 },
     description: {
       de: "Diese 80 Meter lange Galerie wurde 1761 unter Papst Pius VI. eingerichtet und zeigt antike Marmorskulpturen. Die Deckenfresken wurden im 19. Jahrhundert unter Leo XIII. hinzugefügt und stellen die Geschichte der Kirche dar.",
@@ -362,11 +634,25 @@ export const vaticanHistoryV2: POI[] = [
       en: ["Founded in the year 1761", "Houses Roman marble candelabra", "Ceiling frescoes by Ludwig Seitz", "80-meter long exhibition space"],
     },
     imageHint: "Vatican Gallery of the Candelabra ceiling",
+    descriptionAdvanced: {
+      de: "Papst Pius VI. ließ diese Galerie 1785 einrichten. Die prunkvolle Ausgestaltung mit antiken Kandelabern und Marmorsäulen unterstreicht die klassische Eleganz.",
+      hu: "VI. Pius pápa 1785-ben rendeztette be ezt a galériát. Az antik kandeláberekkel és márványoszlopokkal díszített folyosó a klasszikus eleganciát tükrözi.",
+      ro: "Papa Pius al VI-lea a amenajat această galerie în 1785. Decorul somptuos cu candelabre antice și coloane de marmură subliniază eleganța clasică.",
+      en: "Pope Pius VI established this gallery in 1785. Its magnificent decoration with ancient candelabra and marble columns highlights classical elegance.",
+    },
+    factsAdvanced: {
+      de: ["1785 Einrichtung", "80 Meter Länge", "6 Marmorbögen", "Antike Kandelaber"],
+      hu: ["1785-ös berendezés", "80 méter hosszúság", "6 márványív", "Antik kandeláberek"],
+      ro: ["1785 anul amenajării", "80 metri lungime", "6 arcuri de marmură", "Candelabre antice"],
+      en: ["1785 establishment", "80 meters length", "6 marble arches", "Ancient candelabra"],
+    },
   },
   {
     id: "vatican-gallery-of-tapestries-history-v2",
     type: "museum",
-    name: { de: "Galerie der Wandteppiche", hu: "Gobelinek galériája", ro: "Galeria Tapițeriilor", en: "Gallery of Tapestries" },
+    name: { de: "Galerie der Wandteppiche", hu: "Gobelinek galériája", ro: "Galeria Tapițeriilor", en: "Gallery of Tapestries",
+image: "/poi-images/vatican-gallery-of-tapestries-history-v2.webp"
+},
     coordinates: { lat: 41.9036, lng: 12.4536 },
     description: {
       de: "Die Galerie beherbergt zwei Serien flämischer Wandteppiche, darunter solche, die Szenen aus dem Leben Christi nach Entwürfen der Raphael-Schule zeigen. Sie wurden im 16. Jahrhundert in Brüssel gewebt und 1838 hier installiert.",
@@ -380,11 +666,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Tapițerii din secolul al XVI-lea", "Desene de elevii lui Rafael", "Realizate în ateliere din Bruxelles", "Expuse în galerie din 1838"],
       en: ["16th-century tapestries", "Designs by Raphael's pupils", "Made in Brussels workshops", "Displayed in the gallery since 1838"],
     },
-    imageHint: "Vatican Gallery of Tapestries interior", image: "/poi-images/vatican-gallery-of-tapestries-history-v2.webp"},
-  {
+imageHint: "Vatican Gallery of Tapestries interior",
+    descriptionAdvanced: {
+      de: "Die Galerie wurde 1838 zur Ausstellung wertvoller flämischer Wandteppiche eröffnet. Viele der Stücke basieren auf Entwürfen aus der Raffael-Schule.",
+      hu: "A galériát 1838-ban nyitották meg értékes flamand faliszőnyegek bemutatására. Számos darab Raffaello iskolájának tervei alapján készült.",
+      ro: "Galeria a fost deschisă în 1838 pentru expunerea tapiseriilor flamande valoroase. Multe piese se bazează pe schițe din școala lui Rafael.",
+      en: "Opened in 1838, this gallery displays valuable Flemish tapestries. Many pieces were created based on designs from the Raphael school.",
+    },
+    factsAdvanced: {
+      de: ["1838 Eröffnung", "Flämische Manufakturen", "Wolle und Seide", "75 Meter Länge"],
+      hu: ["1838-as megnyitás", "Flamand manufaktúrák", "Gyapjú és selyem", "75 méter hosszúság"],
+      ro: ["1838 anul deschiderii", "Manufacturi flamande", "Lână și mătase", "75 metri lungime"],
+      en: ["1838 opening year", "Flemish workshops", "Wool and silk materials", "75 meters length"],
+    },
+    image: "/poi-images/vatican-gallery-of-tapestries-history-v2.webp",
+},  {
     id: "vatican-sala-rotonda-history-v2",
     type: "landmark",
-    name: { de: "Sala Rotonda", hu: "Sala Rotonda", ro: "Sala Rotonda", en: "Sala Rotonda" },
+    name: { de: "Sala Rotonda", hu: "Sala Rotonda", ro: "Sala Rotonda", en: "Sala Rotonda",
+image: "/poi-images/vatican-sala-rotonda-history-v2.webp"
+},
     coordinates: { lat: 41.9032, lng: 12.454 },
     description: {
       de: "Dieser kreisförmige Saal wurde am Ende des 18. Jahrhunderts von Michelangelo Simonetti nach dem Vorbild des Pantheons entworfen. Er beherbergt ein antikes römisches Mosaik und eine monumentale Porphyrschale aus dem Domus Aurea.",
@@ -398,11 +699,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Modelată după Pantheon", "Mozaic central din secolul al II-lea", "Bazin de porfir de 13 metri circumferință", "Conține statuia de bronz a lui Hercule"],
       en: ["Modeled after the Pantheon", "Central mosaic from the 2nd century", "Porphyry basin of 13 meters circumference", "Contains the bronze statue of Hercules"],
     },
-    imageHint: "Vatican Museum Sala Rotonda mosaic and basin", image: "/poi-images/vatican-sala-rotonda-history-v2.webp"},
-  {
+imageHint: "Vatican Museum Sala Rotonda mosaic and basin",
+    descriptionAdvanced: {
+      de: "Dieser von Michelangelo Simonetti 1779 entworfene Saal ist dem Pantheon nachempfunden. Er beherbergt die riesige Porphyrschale aus Neros Goldenem Haus.",
+      hu: "Ezt a termet Michelangelo Simonetti tervezte 1779-ben a Pantheon mintájára. Itt található Néró Aranyházának hatalmas porfír medencéje.",
+      ro: "Această sală proiectată de Michelangelo Simonetti în 1779 imită Panteonul. Găzduiește uriașul bazin de porfir din Casa de Aur a lui Nero.",
+      en: "Designed by Michelangelo Simonetti in 1779, this hall is modeled after the Pantheon. it houses the massive porphyry basin from Nero's Golden House.",
+    },
+    factsAdvanced: {
+      de: ["1779 Entwurf", "13 Meter Durchmesser Schale", "Bodenmosaike aus Otricoli", "Kuppelbau"],
+      hu: ["1779-es tervezés", "13 méter átmérőjű medence", "Otricoli padlómozaikok", "Kupolás szerkezet"],
+      ro: ["1779 anul proiectării", "13 metri diametru bazin", "Mozaicuri din Otricoli", "Structură cu cupolă"],
+      en: ["1779 design year", "13 meters basin diameter", "Otricoli floor mosaics", "Domed ceiling"],
+    },
+    image: "/poi-images/vatican-sala-rotonda-history-v2.webp",
+},  {
     id: "vatican-greek-cross-hall-history-v2",
     type: "museum",
-    name: { de: "Griechisches Kreuz Saal", hu: "Görög kereszt terem", ro: "Sala în Formă de Cruce Greacă", en: "Greek Cross Hall" },
+    name: { de: "Griechisches Kreuz Saal", hu: "Görög kereszt terem", ro: "Sala în Formă de Cruce Greacă", en: "Greek Cross Hall",
+image: "/poi-images/vatican-greek-cross-hall-history-v2.webp"
+},
     coordinates: { lat: 41.9031, lng: 12.4541 },
     description: {
       de: "Der Saal dient als monumentaler Zugang zu den Vatikanischen Museen und wurde im neoklassizistischen Stil erbaut. Er beherbergt die prächtigen Porphyrsarkophage der Heiligen Helena und Constantia aus dem 4. Jahrhundert.",
@@ -416,11 +732,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Sarcofagul Sfintei Elena", "Sarcofagul Constanției", "Mozaic central cu Atena", "Statui egiptizante la intrare"],
       en: ["Sarcophagus of Saint Helena", "Sarcophagus of Constantia", "Central mosaic of Athena", "Egyptian-style statues at the entrance"],
     },
-    imageHint: "Vatican Greek Cross Hall Helena sarcophagus", image: "/poi-images/vatican-greek-cross-hall-history-v2.webp"},
-  {
+imageHint: "Vatican Greek Cross Hall Helena sarcophagus",
+    descriptionAdvanced: {
+      de: "Der Saal wurde im späten 18. Jahrhundert als monumentaler Eingang zu den Museen konzipiert. Er ist nach seinem Grundriss in Form eines griechischen Kreuzes benannt.",
+      hu: "A termet a 18. század végén a múzeumok monumentális bejárataként alakították ki. Nevét a görög kereszt alakú alaprajzáról kapta.",
+      ro: "Sala a fost concepută la finele secolului XVIII ca intrare monumentală în muzee. Este numită după planul său în formă de cruce grecească.",
+      en: "Conceived in the late 18th century as a monumental museum entrance, this hall is named after its floor plan in the shape of a Greek cross.",
+    },
+    factsAdvanced: {
+      de: ["18. Jahrhundert Bauzeit", "Porphyrsarkophage der Helena", "Mosaik der Minerva", "Griechisches Kreuz Form"],
+      hu: ["18. századi építés", "Szent Heléna szarkofágja", "Minerva-mozaik", "Görög kereszt forma"],
+      ro: ["Secolul XVIII construcția", "Sarcofage de porfir", "Mozaicul Minervei", "Formă de cruce grecească"],
+      en: ["Late 18th century build", "Helena porphyry sarcophagus", "Minerva floor mosaic", "Greek cross layout"],
+    },
+    image: "/poi-images/vatican-greek-cross-hall-history-v2.webp",
+},  {
     id: "vatican-porta-pertusa-history-v2",
     type: "landmark",
-    name: { de: "Porta Pertusa", hu: "Porta Pertusa", ro: "Porta Pertusa", en: "Porta Pertusa" },
+    name: { de: "Porta Pertusa", hu: "Porta Pertusa", ro: "Porta Pertusa", en: "Porta Pertusa",
+image: "/poi-images/vatican-porta-pertusa-history-v2.webp"
+},
     coordinates: { lat: 41.9025, lng: 12.4485 },
     description: {
       de: "Dieses historische Tor in der Leoninischen Mauer stammt aus dem 16. Jahrhundert und liegt in der Nähe des vatikanischen Hubschrauberlandeplatzes. Es besteht aus drei Bögen und diente einst als privater Zugang für den Papst zu den Gärten.",
@@ -434,11 +765,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Parte a zidului Leonin", "Formată din trei arcade", "Reconstruită sub Papa Pius al IV-lea", "Astăzi închisă permanent"],
       en: ["Part of the Leonine City Wall", "Consists of three gateways", "Rebuilt under Pope Pius IV", "Permanently closed today"],
     },
-    imageHint: "Vatican Porta Pertusa Leonine Wall", image: "/poi-images/vatican-porta-pertusa-history-v2.webp"},
-  {
+imageHint: "Vatican Porta Pertusa Leonine Wall",
+    descriptionAdvanced: {
+      de: "Dieses historische Stadttor in der Leoninischen Mauer wurde 1544 wiederaufgebaut. Es diente ursprünglich als Verteidigungsanlage und Zugang zum Vatikanhügel.",
+      hu: "A Leoninus-falban található történelmi városkaput 1544-ben építették újjá. Eredetileg védelmi célokat szolgált és a Vatikán-dombra biztosított bejutást.",
+      ro: "Această poartă istorică din Zidul Leonin a fost reconstruită în 1544. Servea inițial ca structură defensivă și punct de acces pe colina Vaticanului.",
+      en: "This historical gate in the Leonine Wall was rebuilt in 1544. It originally served as a defensive structure and access point to the Vatican Hill.",
+    },
+    factsAdvanced: {
+      de: ["1544 Wiederaufbau", "Teil der Leoninischen Mauer", "Drei Bögen", "Verteidigungsfunktion"],
+      hu: ["1544-es újjáépítés", "A Leoninus-fal része", "Három íves nyílás", "Védelmi funkció"],
+      ro: ["1544 reconstrucția", "Parte a Zidului Leonin", "Trei arcade", "Funcție defensivă"],
+      en: ["1544 reconstruction", "Part of Leonine Wall", "Three archways", "Defensive function"],
+    },
+    image: "/poi-images/vatican-porta-pertusa-history-v2.webp",
+},  {
     id: "vatican-parrot-courtyard-history-v2",
     type: "palace",
-    name: { de: "Papageienhof", hu: "Papagáj-udvar", ro: "Curtea Papagalului", en: "Parrot Courtyard" },
+    name: { de: "Papageienhof", hu: "Papagáj-udvar", ro: "Curtea Papagalului", en: "Parrot Courtyard",
+image: "/poi-images/vatican-parrot-courtyard-history-v2.webp"
+},
     coordinates: { lat: 41.9036, lng: 12.456 },
     description: {
       de: "Der Cortile del Pappagallo ist ein kleiner, historischer Innenhof im Zentrum des Apostolischen Palastes. Sein Name geht auf die im Mittelalter dort gehaltenen Papageien zurück, die ein beliebtes Geschenk für die Päpste waren.",
@@ -452,11 +798,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Nucleul medieval al palatului", "Fost loc de ședere pentru păsări exotice", "Adiacent apartamentelor papale", "A găzduit cândva garderoba papală"],
       en: ["Medieval core of the palace", "Former residence of exotic birds", "Adjacent to the papal apartments", "Once housed the papal wardrobe"],
     },
-    imageHint: "Vatican Cortile del Pappagallo courtyard", image: "/poi-images/vatican-parrot-courtyard-history-v2.webp"},
-  {
+imageHint: "Vatican Cortile del Pappagallo courtyard",
+    descriptionAdvanced: {
+      de: "Der im 15. Jahrhundert gestaltete Hof erhielt seinen Namen von Papageien, die dort gehalten wurden oder auf Fresken zu sehen waren. Er ist ein ruhiges Herzstück des Palastes.",
+      hu: "A 15. században kialakított udvar a nevét az ott tartott papagájokról vagy a freskókon látható madarakról kapta. A palota egyik nyugodt, belső magja.",
+      ro: "Curtea amenajată în secolul XV și-a primit numele de la papagalii ținuți aici sau reprezentați în fresce. Este un nucleu liniștit al palatului.",
+      en: "Designed in the 15th century, this courtyard was named after parrots kept there or depicted in frescoes. It is a quiet heart of the Apostolic Palace.",
+    },
+    factsAdvanced: {
+      de: ["15. Jahrhundert Anlage", "Privater Palasthof", "Freskenreste erhalten", "Namensgebung durch Vögel"],
+      hu: ["15. századi kialakítás", "Privát palotaudvar", "Fennmaradt freskótöredékek", "Madarakról kapta nevét"],
+      ro: ["Secolul XV amenajarea", "Curte privată de palat", "Fragmente de frescă", "Nume derivat de la păsări"],
+      en: ["15th century layout", "Private palace courtyard", "Fresco fragments remains", "Named after exotic birds"],
+    },
+    image: "/poi-images/vatican-parrot-courtyard-history-v2.webp",
+},  {
     id: "vatican-hall-of-animals-history-v2",
     type: "museum",
-    name: { de: "Saal der Tiere", hu: "Állatok terme", ro: "Sala Animalelor", en: "Hall of Animals" },
+    name: { de: "Saal der Tiere", hu: "Állatok terme", ro: "Sala Animalelor", en: "Hall of Animals",
+image: "/poi-images/vatican-hall-of-animals-history-v2.webp"
+},
     coordinates: { lat: 41.9035, lng: 12.4538 },
     description: {
       de: "Dieser Teil der Vatikanischen Museen wurde von Papst Pius VI. als 'steinerner Zoo' konzipiert. Er zeigt eine einzigartige Sammlung antiker Tierskulpturen aus seltenen, farbigen Marmorsorten, die im 18. Jahrhundert restauriert wurden.",
@@ -470,11 +831,26 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Concepută de Papa Pius al VI-lea", "Sculpturi din marmură colorată", "Reprezentări de animale mitologice", "Restaurată de Francesco Antonio Franzoni"],
       en: ["Conceived by Pope Pius VI", "Sculptures made of colored marble", "Depicts mythological animals", "Restored by Francesco Antonio Franzoni"],
     },
-    imageHint: "Vatican Museum Sala degli Animali sculptures", image: "/poi-images/vatican-hall-of-animals-history-v2.webp"},
-  {
+imageHint: "Vatican Museum Sala degli Animali sculptures",
+    descriptionAdvanced: {
+      de: "Papst Pius VI. ließ diesen Saal Ende des 18. Jahrhunderts als 'steinerne Menagerie' einrichten. Er präsentiert meisterhafte Tierskulpturen aus der Antike.",
+      hu: "VI. Pius pápa a 18. század végén alakíttatta ki ezt a termet 'kő-állatkertként'. Kiváló ókori állatszobrokat mutat be a látogatóknak.",
+      ro: "Papa Pius al VI-lea a amenajat această sală la finele secolului XVIII ca o 'menajerie de piatră'. Prezintă sculpturi antice magistrale de animale.",
+      en: "Pope Pius VI established this hall in the late 18th century as a 'stone menagerie'. it displays masterful ancient sculptures of animals.",
+    },
+    factsAdvanced: {
+      de: ["18. Jahrhundert Gründung", "Über 150 Skulpturen", "Farbiger Marmor verwendet", "Antike Tierdarstellungen"],
+      hu: ["18. századi alapítás", "Több mint 150 szobor", "Színes márvány használata", "Ókori állatábrázolások"],
+      ro: ["Secolul XVIII fondarea", "Peste 150 de sculpturi", "Marmură colorată utilizată", "Reprezentări antice"],
+      en: ["Late 18th century setup", "Over 150 sculptures", "Colored marble usage", "Ancient animal themes"],
+    },
+    image: "/poi-images/vatican-hall-of-animals-history-v2.webp",
+},  {
     id: "vatican-scala-pia-history-v2",
     type: "monument",
-    name: { de: "Scala Pia", hu: "Scala Pia", ro: "Scala Pia", en: "Scala Pia" },
+    name: { de: "Scala Pia", hu: "Scala Pia", ro: "Scala Pia", en: "Scala Pia",
+image: "/poi-images/vatican-scala-pia-history-v2.webp"
+},
     coordinates: { lat: 41.903, lng: 12.4568 },
     description: {
       de: "Diese monumentale Treppe wurde im 16. Jahrhundert von Papst Pius IV. in Auftrag gegeben und von Gaetano Koch im 19. Jahrhundert erweitert. Sie verbindet den Innenhof von San Damaso mit den oberen Stockwerken des Palastes.",
@@ -489,5 +865,17 @@ export const vaticanHistoryV2: POI[] = [
       en: ["Commissioned by Pope Pius IV", "Renovated in the year 1860", "Part of the ceremonial ascent", "Connection to the papal apartment"],
     },
     imageHint: "Vatican Scala Pia staircase Apostolic Palace",
+    descriptionAdvanced: {
+      de: "Papst Pius IX. beauftragte in den 1860er Jahren den Bau dieser Treppe, um einen direkten Zugang zum Apostolischen Palast vom Petersplatz aus zu schaffen.",
+      hu: "IX. Pius pápa az 1860-as években rendelte el ennek a lépcsőnek az építését, hogy közvetlen feljáratot biztosítson a Szent Péter térről az Apostoli Palotába.",
+      ro: "Papa Pius al IX-lea a comandat construcția acestei scări în anii 1860 pentru a crea un acces direct la Palatul Apostolic din Piața Sfântul Petru.",
+      en: "Pope Pius IX commissioned this staircase in the 1860s to provide direct access to the Apostolic Palace from St. Peter's Square.",
+    },
+    factsAdvanced: {
+      de: ["1860er Jahre Bauzeit", "Verbindung zum Palast", "Monumentaler Aufgang", "Auftrag durch Pius IX."],
+      hu: ["1860-as években épült", "Palotai kapcsolat", "Monumentális feljárat", "IX. Pius rendelése"],
+      ro: ["Anii 1860 construcția", "Acces spre palat", "Urcare monumentală", "Comandă de la Pius IX"],
+      en: ["1860s construction", "Palace access link", "Monumental stairway", "Ordered by Pius IX"],
+    },
   }
 ];

@@ -6,7 +6,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "mountain",
     parent: "TM-A",
     coords: [57.5, 38.0],
-    name: { de: "Kopet-Dag", hu: "Kopet-dag", ro: "Kopet-Dag", en: "Kopet Dag" },
+    name: { de: "Kopet-Dag", hu: "Kopet-dag", ro: "Kopet-Dag", en: "Kopet Dag",
+image: "/poi-images/kopet-dag-nature-v2.webp"
+},
     description: {
       de: "Ein markantes Gebirge, das die südliche Grenze Turkmenistans bildet.",
       hu: "Jellegzetes hegylánc, amely Türkmenisztán déli határát alkotja.",
@@ -44,7 +46,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "river",
     parent: "TM-L",
     coords: [63.5, 39.0],
-    name: { de: "Amudarja", hu: "Amu-darja", ro: "Amu Daria", en: "Amu Darya" },
+    name: { de: "Amudarja", hu: "Amu-darja", ro: "Amu Daria", en: "Amu Darya",
+image: "/poi-images/amu-darya-nature-v2.webp"
+},
     description: {
       de: "Ein historischer Fluss in Zentralasien, der die östliche Region prägt.",
       hu: "Történelmi folyó Közép-Ázsiában, amely a keleti régiót formálja.",
@@ -82,7 +86,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "river",
     parent: "TM-M",
     coords: [61.97, 37.6],
-    name: { de: "Murgab", hu: "Murgáb", ro: "Murghab", en: "Murghab River" },
+    name: { de: "Murgab", hu: "Murgáb", ro: "Murghab", en: "Murghab River",
+image: "/poi-images/murghab-river-nature-v2.webp"
+},
     description: {
       de: "Ein bedeutender Fluss, der in der Karakum-Wüste versickert.",
       hu: "Jelentős folyó, amely a Karakum-sivatagban vész el.",
@@ -120,7 +126,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "river",
     parent: "TM-A",
     coords: [60.5, 37.38],
-    name: { de: "Heri Rud", hu: "Tejen-folyó", ro: "Râul Tejen", en: "Tejen River" },
+    name: { de: "Heri Rud", hu: "Tejen-folyó", ro: "Râul Tejen", en: "Tejen River",
+image: "/poi-images/tejen-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der eine fruchtbare Oase in der trockenen Landschaft bildet.",
       hu: "Folyó, amely termékeny oázist hoz létre a száraz tájon.",
@@ -158,7 +166,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "river",
     parent: "TM-B",
     coords: [54.08, 37.95],
-    name: { de: "Atrak", hu: "Atrek-folyó", ro: "Râul Atrek", en: "Atrek River" },
+    name: { de: "Atrak", hu: "Atrek-folyó", ro: "Râul Atrek", en: "Atrek River",
+image: "/poi-images/atrek-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Südwesten, der in das Kaspische Meer mündet.",
       hu: "Folyó a délnyugati régióban, amely a Kaszpi-tengerbe ömlik.",
@@ -196,7 +206,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "lake",
     parent: "TM-D",
     coords: [57.38, 41.93],
-    name: { de: "Sarykamysch-See", hu: "Szarikamis-tó", ro: "Lacul Sarîgamîș", en: "Sarygamysh Lake" },
+    name: { de: "Sarykamysch-See", hu: "Szarikamis-tó", ro: "Lacul Sarîgamîș", en: "Sarygamysh Lake",
+image: "/poi-images/sarygamysh-lake-nature-v2.webp"
+},
     description: {
       de: "Ein großer See an der Grenze zu Usbekistan in einer tiefen Senke.",
       hu: "Nagy tó az üzbég határon, egy mély sivatagi medencében.",
@@ -234,7 +246,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-L",
     coords: [63.18, 38.56],
-    name: { de: "Repetek-Reservat", hu: "Repetek Bioszféra-rezervátum", ro: "Rezervația Repetek", en: "Repetek Biosphere Reserve" },
+    name: { de: "Repetek-Reservat", hu: "Repetek Bioszféra-rezervátum", ro: "Rezervația Repetek", en: "Repetek Biosphere Reserve",
+image: "/poi-images/repetek-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein einzigartiges Wüstenschutzgebiet im Herzen der Karakum.",
       hu: "Egyedülálló sivatagi védett terület a Karakum szívében.",
@@ -272,7 +286,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-L",
     coords: [66.5, 37.8],
-    name: { de: "Köýtendag-Naturreservat", hu: "Kugitang Természetvédelmi Terület", ro: "Rezervația Köýtendag", en: "Köýtendag Nature Reserve" },
+    name: { de: "Köýtendag-Naturreservat", hu: "Kugitang Természetvédelmi Terület", ro: "Rezervația Köýtendag", en: "Köýtendag Nature Reserve",
+image: "/poi-images/koytendag-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgsreservat, das für seine markanten Dinosaurier-Fußabdrücke bekannt ist.",
       hu: "Hegyvidéki rezervátum, amely a dinoszaurusz-lábnyomokról is ismert.",
@@ -310,7 +326,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-D",
     coords: [57.5, 41.4],
-    name: { de: "Kaplankyr-Reservat", hu: "Kaplankir Rezervátum", ro: "Rezervația Kaplankîr", en: "Kaplankyr Nature Reserve" },
+    name: { de: "Kaplankyr-Reservat", hu: "Kaplankir Rezervátum", ro: "Rezervația Kaplankîr", en: "Kaplankyr Nature Reserve",
+image: "/poi-images/kaplankyr-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Nordwesten, das wichtige Wüsten- und Steppenarten bewahrt.",
       hu: "Északnyugati védett terület, amely fontos sivatagi és sztyeppei fajokat óv.",
@@ -348,7 +366,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-B",
     coords: [56.4, 38.5],
-    name: { de: "Sünt-Hasardag-Reservat", hu: "Szünt-Haszardag Rezervátum", ro: "Rezervația Sünt-Hasardag", en: "Syunt-Hasardag Nature Reserve" },
+    name: { de: "Sünt-Hasardag-Reservat", hu: "Szünt-Haszardag Rezervátum", ro: "Rezervația Sünt-Hasardag", en: "Syunt-Hasardag Nature Reserve",
+image: "/poi-images/syunt-hasardag-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Naturreservat im südwestlichen Kopet-Dag-Gebirge mit reicher Flora.",
       hu: "Természetvédelmi terület a délnyugati Kopet-dag-hegységben, gazdag flórával.",
@@ -387,7 +407,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-L",
     coords: [62.5, 39.5],
-    name: { de: "Amudarja-Naturreservat", hu: "Amu-darja Rezervátum", ro: "Rezervația Amu Daria", en: "Amudarya State Nature Reserve" },
+    name: { de: "Amudarja-Naturreservat", hu: "Amu-darja Rezervátum", ro: "Rezervația Amu Daria", en: "Amudarya State Nature Reserve",
+image: "/poi-images/amudarya-reserve-nature-v2.webp"
+},
     description: {
       de: "Schützt die Auenwälder und das empfindliche Ökosystem entlang des Flusses.",
       hu: "Az ártéri erdőket és az érzékeny ökoszisztémát védi a folyó mentén.",
@@ -426,7 +448,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-B",
     coords: [53.1, 39.8],
-    name: { de: "Hazar-Naturreservat", hu: "Hazar Természetvédelmi Terület", ro: "Rezervația Hazar", en: "Hazar State Nature Reserve" },
+    name: { de: "Hazar-Naturreservat", hu: "Hazar Természetvédelmi Terület", ro: "Rezervația Hazar", en: "Hazar State Nature Reserve",
+image: "/poi-images/hazar-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet an der Küste des Kaspischen Meeres, ideal für Wasservögel.",
       hu: "Védett terület a Kaszpi-tenger partján, amely vízimadarak számára ideális.",
@@ -464,7 +488,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-M",
     coords: [61.8, 35.8],
-    name: { de: "Badchys-Naturreservat", hu: "Badhiz Rezervátum", ro: "Rezervația Badhîz", en: "Badhyz State Nature Reserve" },
+    name: { de: "Badchys-Naturreservat", hu: "Badhiz Rezervátum", ro: "Rezervația Badhîz", en: "Badhyz State Nature Reserve",
+image: "/poi-images/badhyz-reserve-nature-v2.webp"
+},
     description: {
       de: "Eine hügelige Landschaft im Süden, bekannt für wilde Pistazienbäume.",
       hu: "Dombvidéki táj délen, amely vadpisztácia-fáiról ismert.",
@@ -502,7 +528,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "national-park",
     parent: "TM-A",
     coords: [57.9, 37.9],
-    name: { de: "Köpetdag-Schutzgebiet", hu: "Kopet-dag Rezervátum", ro: "Rezervația Köpetdag", en: "Köpetdag Nature Reserve" },
+    name: { de: "Köpetdag-Schutzgebiet", hu: "Kopet-dag Rezervátum", ro: "Rezervația Köpetdag", en: "Köpetdag Nature Reserve",
+image: "/poi-images/kopetdag-reserve-nature-v2.webp"
+},
     description: {
       de: "Ein alpines Naturschutzgebiet unweit der Hauptstadt Aşgabat.",
       hu: "Alpesi természetvédelmi terület a főváros, Aşgabat közelében.",
@@ -540,7 +568,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "mountain",
     parent: "TM-L",
     coords: [66.55, 37.78],
-    name: { de: "Aýrybaba", hu: "Aýrybaba", ro: "Aýrybaba", en: "Mount Aýrybaba" },
+    name: { de: "Aýrybaba", hu: "Aýrybaba", ro: "Aýrybaba", en: "Mount Aýrybaba",
+image: "/poi-images/mount-ayrybaba-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg Turkmenistans, gelegen an der usbekischen Grenze.",
       hu: "Türkmenisztán legmagasabb hegye, az üzbég határ közelében.",
@@ -578,7 +608,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "mountain",
     parent: "TM-B",
     coords: [54.55, 39.66],
-    name: { de: "Berg Arlan", hu: "Arlan-hegy", ro: "Muntele Arlan", en: "Mount Arlan" },
+    name: { de: "Berg Arlan", hu: "Arlan-hegy", ro: "Muntele Arlan", en: "Mount Arlan",
+image: "/poi-images/mount-arlan-nature-v2.webp"
+},
     description: {
       de: "Die höchste Erhebung des Großen Balkan-Gebirges im Westen des Landes.",
       hu: "A Nagy-Balkán-hegység legmagasabb pontja az ország nyugati részén.",
@@ -616,7 +648,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "lake",
     parent: "TM-A",
     coords: [57.55, 38.35],
-    name: { de: "Köw-Ata-See", hu: "Köw Ata földalatti tó", ro: "Lacul Köw Ata", en: "Köw Ata Underground Lake" },
+    name: { de: "Köw-Ata-See", hu: "Köw Ata földalatti tó", ro: "Lacul Köw Ata", en: "Köw Ata Underground Lake",
+image: "/poi-images/kow-ata-lake-nature-v2.webp"
+},
     description: {
       de: "Ein beeindruckender unterirdischer See mit konstant warmem Thermalwasser.",
       hu: "Lenyűgöző földalatti tó állandóan meleg termálvízzel.",
@@ -654,7 +688,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "river",
     parent: "TM-B",
     coords: [55.45, 38.45],
-    name: { de: "Sumbar", hu: "Szumbar-folyó", ro: "Râul Sumbar", en: "Sumbar River" },
+    name: { de: "Sumbar", hu: "Szumbar-folyó", ro: "Râul Sumbar", en: "Sumbar River",
+image: "/poi-images/sumbar-river-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer Fluss im Südwesten, der durch eine grüne Schlucht fließt.",
       hu: "Festői folyó délnyugaton, amely egy zöldellő szurdokon folyik keresztül.",
@@ -692,7 +728,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "river",
     parent: "TM-B",
     coords: [55.22, 38.25],
-    name: { de: "Tschandyr", hu: "Csandir-folyó", ro: "Râul Cihandîr", en: "Chandyr River" },
+    name: { de: "Tschandyr", hu: "Csandir-folyó", ro: "Râul Cihandîr", en: "Chandyr River",
+image: "/poi-images/chandyr-river-nature-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber landschaftlich sehr reizvoller Fluss im westlichen Kopet-Dag.",
       hu: "Kicsi, de festői szépségű hegyi folyó a nyugati Kopet-dag völgyeiben.",
@@ -730,7 +768,9 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     type: "mountain",
     parent: "TM-A",
     coords: [57.92, 37.94],
-    name: { de: "Duschakerekdag", hu: "Dusakerekdag", ro: "Muntele Dușakerekdag", en: "Mount Dushakeredag" },
+    name: { de: "Duschakerekdag", hu: "Dusakerekdag", ro: "Muntele Dușakerekdag", en: "Mount Dushakeredag",
+image: "/poi-images/mount-dushakeredag-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Berggipfel in der Nähe von Aşgabat mit einem Observatorium.",
       hu: "Jelentős hegycsúcs Aşgabat közelében, amelyen egy csillagvizsgáló is áll.",

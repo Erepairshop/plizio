@@ -11,8 +11,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Fuji",
       hu: "Fudzsi",
       ro: "Muntele Fuji",
-      en: "Mount Fuji"
-    },
+      en: "Mount Fuji",
+image: "/poi-images/fuji-mountain-relief-v2.webp"
+},
     description: {
       de: "Der Fuji ist der höchste Berg Japans und ein aktiver Vulkan. Er ist bekannt für seine symmetrische Form und gilt als heiliger Berg.",
       hu: "A Fudzsi Japán legmagasabb hegye és egy aktív vulkán. Szimmetrikus formájáról ismert és szent hegyként tisztelik.",
@@ -46,8 +47,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Aso-Caldera",
       hu: "Aso-kaldera",
       ro: "Caldera Aso",
-      en: "Aso Caldera"
-    },
+      en: "Aso Caldera",
+image: "/poi-images/aso-caldera-relief-v2.webp"
+},
     description: {
       de: "Die Aso-Caldera ist eine der größten der Welt und enthält mehrere aktive Vulkankegel, einschließlich des Berges Nakadake.",
       hu: "Az Aso-kaldera a világ egyik legnagyobbja, és több aktív vulkáni kúpot tartalmaz, köztük a Nakadake-hegyet.",
@@ -81,8 +83,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Kiso-Tal",
       hu: "Kiso-völgy",
       ro: "Valea Kiso",
-      en: "Kiso Valley"
-    },
+      en: "Kiso Valley",
+image: "/poi-images/kiso-valley-relief-v2.webp"
+},
     description: {
       de: "Das Kiso-Tal ist bekannt für seine malerischen Poststädte und die alte Nakasendō-Handelsroute, die durch das Tal führt.",
       hu: "A Kiso-völgy festői postvárosairól és a völgyön áthaladó régi Nakasendō kereskedelmi útvonalról ismert.",
@@ -116,8 +119,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Japanische Alpen",
       hu: "Japán Alpok",
       ro: "Alpii Japonezi",
-      en: "Japanese Alps"
-    },
+      en: "Japanese Alps",
+image: "/poi-images/japan-alps-relief-v2.webp"
+},
     description: {
       de: "Eine Reihe von Gebirgszügen in Zentral-Honshū, die Hida-, Kiso- und Akaishi-Gebirge umfassen. Ein beliebtes Ziel zum Wandern und Skifahren.",
       hu: "Hegyláncok sorozata Közép-Honsúban, amely magában foglalja a Hida-, Kiso- és Akaishi-hegységeket. Népszerű túrázó és síelő célpont.",
@@ -151,8 +155,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Tottori-Dünen",
       hu: "Tottori-homokdűnék",
       ro: "Dunele Tottori",
-      en: "Tottori Sand Dunes"
-    },
+      en: "Tottori Sand Dunes",
+image: "/poi-images/tottori-dunes-relief-v2.webp"
+},
     description: {
       de: "Die größten Sanddünen Japans, die sich entlang der Küste des Japanischen Meeres erstrecken. Sie sind Teil des San'in-Kaigan-Nationalparks.",
       hu: "Japán legnagyobb homokdűnéi, amelyek a Japán-tenger partja mentén terülnek el. A San'in Kaigan Nemzeti Park részét képezik.",
@@ -186,8 +191,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Daisetsuzan-Vulkanplateau",
       hu: "Daisetsuzan vulkáni fennsík",
       ro: "Platoul Vulcanic Daisetsuzan",
-      en: "Daisetsuzan Volcanic Plateau"
-    },
+      en: "Daisetsuzan Volcanic Plateau",
+image: "/poi-images/daisetsuzan-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein ausgedehntes vulkanisches Plateau in Hokkaido, das oft als 'Dach von Hokkaido' bezeichnet wird. Es ist Teil des größten Nationalparks Japans.",
       hu: "Egy kiterjedt vulkáni fennsík Hokkaidóban, amelyet gyakran 'Hokkaidó tetejének' is neveznek. Japán legnagyobb nemzeti parkjának része.",
@@ -221,8 +227,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Sanriku-Küste",
       hu: "Sanriku-part",
       ro: "Coasta Sanriku",
-      en: "Sanriku Coast"
-    },
+      en: "Sanriku Coast",
+image: "/poi-images/sanriku-coast-relief-v2.webp"
+},
     description: {
       de: "Eine Ria-Küste mit unzähligen Buchten, Kaps und Klippen. Die Region wurde 2011 von einem schweren Tsunami getroffen.",
       hu: "Egy ria partvidék, számtalan öböllel, fokkal és sziklával. A régiót 2011-ben súlyos szökőár sújtotta.",
@@ -256,8 +263,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Hidaka-Gebirge",
       hu: "Hidaka-hegység",
       ro: "Munții Hidaka",
-      en: "Hidaka Mountains"
-    },
+      en: "Hidaka Mountains",
+image: "/poi-images/hidaka-mountains-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug im südlichen Zentrum von Hokkaido, der für seine steilen, zerklüfteten Gipfel bekannt ist, die durch Gletscher geformt wurden.",
       hu: "Hegylánc Hokkaido déli-középső részén, amely a gleccserek által formált meredek, sziklás csúcsairól ismert.",
@@ -291,8 +299,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Iya-Tal",
       hu: "Ija-völgy",
       ro: "Valea Iya",
-      en: "Iya Valley"
-    },
+      en: "Iya Valley",
+image: "/poi-images/iya-valley-relief-v2.webp"
+},
     description: {
       de: "Ein abgelegenes und bergiges Tal in Shikoku, bekannt für seine tiefen Schluchten, traditionellen Bauernhäuser und malerischen Hängebrücken aus Weinreben.",
       hu: "Egy távoli és hegyvidéki völgy Sikokun, amely mély szurdokairól, hagyományos parasztházairól és festői, indákból készült függőhídjairól ismert.",
@@ -326,8 +335,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Kantō-Ebene",
       hu: "Kantó-síkság",
       ro: "Câmpia Kantō",
-      en: "Kantō Plain"
-    },
+      en: "Kantō Plain",
+image: "/poi-images/kanto-plain-relief-v2.webp"
+},
     description: {
       de: "Die größte Ebene in Japan, ein dicht besiedeltes Gebiet, das Tokio und mehrere andere große Städte umfasst.",
       hu: "Japán legnagyobb síksága, egy sűrűn lakott terület, amely magában foglalja Tokiót és több más nagyvárost.",
@@ -361,8 +371,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Noto-Halbinsel Küste",
       hu: "Noto-félsziget partvidéke",
       ro: "Coasta Peninsulei Noto",
-      en: "Noto Peninsula Coast"
-    },
+      en: "Noto Peninsula Coast",
+image: "/poi-images/noto-peninsula-coast-relief-v2.webp"
+},
     description: {
       de: "Die Küste der Noto-Halbinsel ist bekannt für ihre raue, zerklüftete Landschaft, malerischen Fischerdörfer und einzigartigen terrassierten Reisfelder.",
       hu: "A Noto-félsziget partvidéke vad, sziklás tájairól, festői halászfalvairól és egyedülálló, teraszos rizsföldjeiről ismert.",
@@ -396,8 +407,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Berg Zaō",
       hu: "Zaó-hegy",
       ro: "Muntele Zaō",
-      en: "Mount Zaō"
-    },
+      en: "Mount Zaō",
+image: "/poi-images/mount-zao-relief-v2.webp"
+},
     description: {
       de: "Ein Komplexvulkan an der Grenze zwischen den Präfekturen Yamagata und Miyagi, berühmt für seine 'Schneemonster' im Winter und den Okama-Kratersee.",
       hu: "Egy komplex vulkán a Jamagata és Mijagi prefektúrák határán, amely a téli 'hószörnyekről' és az Okama-krátertóról híres.",
@@ -431,8 +443,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Kujūkushima-Inseln Küste",
       hu: "Kujūkushima-szigetek partvidéke",
       ro: "Coasta Insulelor Kujūkushima",
-      en: "Kujūkushima Islands Coast"
-    },
+      en: "Kujūkushima Islands Coast",
+image: "/poi-images/kujukushima-islands-coast-relief-v2.webp"
+},
     description: {
       de: "Eine Ansammlung von 208 kleinen Inseln vor der Küste von Sasebo. Der Name bedeutet 'neunundneunzig Inseln', was eine große Anzahl symbolisiert.",
       hu: "Egy 208 kis szigetből álló szigetcsoport Sasebo partjainál. A név 'kilencvenkilenc szigetet' jelent, ami a nagy számot szimbolizálja.",
@@ -466,8 +479,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Shikotsu-Tōya Plateau",
       hu: "Shikotsu-Tōya fennsík",
       ro: "Platoul Shikotsu-Tōya",
-      en: "Shikotsu-Tōya Plateau"
-    },
+      en: "Shikotsu-Tōya Plateau",
+image: "/poi-images/shikotsu-toya-plateau-relief-v2.webp"
+},
     description: {
       de: "Ein vulkanisches Plateau, das die Caldera-Seen Shikotsu und Tōya sowie mehrere aktive Vulkane wie den Berg Usu und den Shōwa-shinzan umfasst.",
       hu: "Vulkáni fennsík, amely a Shikotsu és Tōya kaldera-tavakat, valamint több aktív vulkánt, például az Usu-hegyet és a Shōwa-shinzant foglalja magában.",
@@ -501,8 +515,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Berg Asama",
       hu: "Aszama-hegy",
       ro: "Muntele Asama",
-      en: "Mount Asama"
-    },
+      en: "Mount Asama",
+image: "/poi-images/mount-asama-relief-v2.webp"
+},
     description: {
       de: "Einer der aktivsten Vulkane in Honshū. Der Vulkan ist für seine häufigen, kleinen Eruptionen bekannt.",
       hu: "Honsú egyik legaktívabb vulkánja. A vulkán a gyakori, kisebb kitöréseiről ismert.",
@@ -536,8 +551,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Yatsugatake-Gebirge",
       hu: "Jacugatake-hegység",
       ro: "Munții Yatsugatake",
-      en: "Yatsugatake Mountains"
-    },
+      en: "Yatsugatake Mountains",
+image: "/poi-images/yatsugatake-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine vulkanische Gebirgskette, die sich über die Präfekturen Nagano und Yamanashi erstreckt. Sie ist in nördliche und südliche Gruppen unterteilt.",
       hu: "Vulkáni hegylánc, amely Nagano és Jamanasi prefektúrákon húzódik. Északi és déli csoportra oszlik.",
@@ -571,8 +587,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Kamikōchi-Tal",
       hu: "Kamikócsi-völgy",
       ro: "Valea Kamikōchi",
-      en: "Kamikōchi Valley"
-    },
+      en: "Kamikōchi Valley",
+image: "/poi-images/kamikochi-valley-relief-v2.webp"
+},
     description: {
       de: "Ein abgelegenes Hochgebirgstal in den Japanischen Alpen, bekannt für seine spektakuläre Landschaft entlang des Azusa-Flusses.",
       hu: "Egy távoli, magasan fekvő hegyi völgy a Japán Alpokban, amely az Azusa folyó menti látványos tájáról ismert.",
@@ -606,8 +623,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Shimokita-Halbinsel Küste",
       hu: "Simokita-félsziget partvidéke",
       ro: "Coasta Peninsulei Shimokita",
-      en: "Shimokita Peninsula Coast"
-    },
+      en: "Shimokita Peninsula Coast",
+image: "/poi-images/shimokita-peninsula-coast-relief-v2.webp"
+},
     description: {
       de: "Der nordöstlichste Punkt von Honshū, geformt wie eine Axt. Bekannt für seine raue Landschaft und die Felsformationen von Hotokegaura.",
       hu: "Honsú legészakkeletibb pontja, fejsze alakú. Vad tájáról és a Hotokegaura sziklaalakzatairól ismert.",
@@ -641,8 +659,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Kirishima-Gebirge",
       hu: "Kirisima-hegység",
       ro: "Munții Kirishima",
-      en: "Kirishima Mountains"
-    },
+      en: "Kirishima Mountains",
+image: "/poi-images/kirishima-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine Gruppe aktiver Vulkane an der Grenze der Präfekturen Kagoshima und Miyazaki. Wichtiger Ort in der japanischen Mythologie.",
       hu: "Aktív vulkánok csoportja Kagosima és Mijazaki prefektúrák határán. Fontos hely a japán mitológiában.",
@@ -676,8 +695,9 @@ export const poiExtraJapanReliefV2: POI[] = [
       de: "Echigo-Ebene",
       hu: "Echigo-síkság",
       ro: "Câmpia Echigo",
-      en: "Echigo Plain"
-    },
+      en: "Echigo Plain",
+image: "/poi-images/echigo-plain-plateau-v2.webp"
+},
     description: {
       de: "Die größte Ebene an der Küste des Japanischen Meeres, bekannt für die Produktion von hochwertigem Koshihikari-Reis.",
       hu: "A Japán-tenger partjának legnagyobb síksága, amely a kiváló minőségű Koshihikari rizs termeléséről ismert.",

@@ -4,7 +4,9 @@ export const greeceHistoryV2: POI[] = [
   {
     id: "greece-knossos-history-v2",
     type: "ruins",
-    name: { de: "Palast von Knossos", hu: "Knósszoszi palota", ro: "Palatul din Knossos", en: "Palace of Knossos" },
+    name: { de: "Palast von Knossos", hu: "Knósszoszi palota", ro: "Palatul din Knossos", en: "Palace of Knossos",
+image: "/poi-images/greece-knossos-history-v2.webp"
+},
     coords: [25.1631, 35.298],
     coordinates: { lat: 35.298, lng: 25.1631 },
     description: {
@@ -19,11 +21,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1900 î.Hr.", "Suprafață de peste 20.000 m²", "Descoperit de Arthur Evans în 1900", "Fresce colorate precum Săritorul peste taur"],
       en: ["Built around 1900 BC", "Size of over 20,000 square meters", "Discovered by Arthur Evans in 1900", "Famous for bull-leaping frescoes"],
     },
-    imageHint: "Ancient ruins of the Palace of Knossos with red columns", image: "/poi-images/greece-knossos-history-v2.webp"},
-  {
+imageHint: "Ancient ruins of the Palace of Knossos with red columns",
+    descriptionAdvanced: {
+      de: "Der Palast von Knossos war das religiöse und politische Zentrum der minoischen Kultur. Sir Arthur Evans rekonstruierte ab 1900 Teile der über 1000 Räume umfassenden Anlage auf Kreta.",
+      hu: "Knósszosz a minószi civilizáció vallási és politikai központja volt Kr. e. 2000 körül. Sir Arthur Evans 1900-tól tárta fel a labirintusszerű, 20 000 m²-es épületegyüttest Krétán.",
+      ro: "Palatul din Knossos a fost centrul religios și politic al civilizației minoice. Sir Arthur Evans a început excavările în 1900, reconstruind secțiuni din cele peste 1000 de încăperi.",
+      en: "The Palace of Knossos served as the ritual and political heart of Minoan Crete. Excavated by Arthur Evans from 1900, the complex features a labyrinthine layout across 20,000 square meters.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: ca. 1900 v. Chr.", "Fläche: 20.000 m²", "Räume: Über 1000", "Entdeckung: 1900 durch Evans"],
+      hu: ["Építés: Kr. e. 1900 körül", "Terület: 20 000 m²", "Termek száma: több mint 1000", "Feltárás: 1900, Arthur Evans"],
+      ro: ["Datare: cca. 1900 î.Hr.", "Suprafață: 20.000 m²", "Camere: peste 1000", "Săpături: din anul 1900"],
+      en: ["Built: c. 1900 BC", "Area: 20,000 sqm", "Rooms: Over 1,000", "Excavation start: 1900"],
+    },
+    image: "/poi-images/greece-knossos-history-v2.webp",
+},  {
     id: "greece-parthenon-history-v2",
     type: "monument",
-    name: { de: "Parthenon", hu: "Parthenón", ro: "Partenon", en: "Parthenon" },
+    name: { de: "Parthenon", hu: "Parthenón", ro: "Partenon", en: "Parthenon",
+image: "/poi-images/greece-parthenon-history-v2.webp"
+},
     coords: [23.7267, 37.9715],
     coordinates: { lat: 37.9715, lng: 23.7267 },
     description: {
@@ -38,11 +55,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit între 447 și 432 î.Hr.", "Arhitecții au fost Ictinos și Callicrate", "Utilizarea marmurei pentelice", "Deteriorat grav de o explozie în 1687"],
       en: ["Built between 447 and 432 BC", "Architects were Ictinus and Callicrates", "Constructed using Pentelic marble", "Severely damaged by an explosion in 1687"],
     },
-    imageHint: "The Parthenon temple on the Acropolis of Athens", image: "/poi-images/greece-parthenon-history-v2.webp"},
-  {
+imageHint: "The Parthenon temple on the Acropolis of Athens",
+    descriptionAdvanced: {
+      de: "Der Parthenon wurde zwischen 447 und 432 v. Chr. als Tempel für Athene Parthenos errichtet. Er gilt als Höhepunkt der dorischen Architektur und ist das Wahrzeichen des antiken Athens.",
+      hu: "A Parthenónt Kr. e. 447 és 432 között építették Athéné istennő tiszteletére. A dór stílusú templom az Akropolisz ékköve, amely a görög klasszikus kor építészetének csúcsát jelenti.",
+      ro: "Partenonul a fost construit între 447 și 432 î.Hr. ca templu dedicat zeiței Atena. Este considerat apogeul ordinului doric și simbolul democrației ateniene pe stânca Acropole.",
+      en: "Constructed between 447 and 432 BC, the Parthenon is a Doric temple dedicated to Athena. It represents the height of Greek architectural precision and the Periclean building program.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 447–432 v. Chr.", "Säulen: 46 dorische Außensäulen", "Länge: 69,5 Meter", "Architekten: Iktinos und Kallikrates"],
+      hu: ["Építési idő: Kr. e. 447–432", "Oszlopok: 46 dór külső oszlop", "Hosszúság: 69,5 méter", "Építészek: Iktinosz és Kallikratész"],
+      ro: ["Construcție: 447–432 î.Hr.", "Coloane: 46 exterioare dorice", "Lungime: 69,5 metri", "Arhitecți: Ictinos și Callicrate"],
+      en: ["Built: 447–432 BC", "Columns: 46 Doric outer", "Length: 69.5 meters", "Architects: Ictinos, Callicrates"],
+    },
+    image: "/poi-images/greece-parthenon-history-v2.webp",
+},  {
     id: "greece-delphi-history-v2",
     type: "ruins",
-    name: { de: "Orakel von Delphi", hu: "Delphoi jósda", ro: "Oracolul din Delphi", en: "Oracle of Delphi" },
+    name: { de: "Orakel von Delphi", hu: "Delphoi jósda", ro: "Oracolul din Delphi", en: "Oracle of Delphi",
+image: "/poi-images/greece-delphi-history-v2.webp"
+},
     coords: [22.501, 38.4824],
     coordinates: { lat: 38.4824, lng: 22.501 },
     description: {
@@ -57,11 +89,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sediul lui Omphalos, centrul lumii", "Gazda Jocurilor Pythice", "Templul lui Apollo din sec. IV î.Hr.", "Patrimoniu UNESCO din 1987"],
       en: ["Home of the Omphalos, navel of the world", "Host of the Pythian Games", "Temple of Apollo dates to 4th century BC", "UNESCO World Heritage site since 1987"],
     },
-    imageHint: "Ancient ruins of Delphi with the Tholos of Athena", image: "/poi-images/greece-delphi-history-v2.webp"},
-  {
+imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
+    descriptionAdvanced: {
+      de: "Delphi galt in der Antike als das Zentrum der Welt. Das Orakel der Pythia im Apollon-Tempel beeinflusste jahrhundertelang politische Entscheidungen im gesamten Mittelmeerraum.",
+      hu: "Delphoi az ókori görögök szerint a világ közepe volt. Az Apollón-templomban jósoló Püthia szavai évszázadokon át meghatározták a görög városállamok politikai és hadi döntéseit.",
+      ro: "Delfi a fost considerat centrul lumii în antichitate. Oracolul Pythiei din templul lui Apollo a influențat deciziile politice majore ale lumii grecești timp de peste un mileniu.",
+      en: "Delphi was revered as the 'omphalos' or center of the ancient world. The Pythia oracle within the Temple of Apollo provided prophecies that shaped Mediterranean history for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Parnassos-Gebirge", "Wichtigster Bau: Apollon-Tempel", "Wettkampf: Pythische Spiele", "Höhe: ca. 500 Meter ü. d. M."],
+      hu: ["Helyszín: Parnasszosz-hegy", "Főtemplom: Apollón-szentély", "Játékok: Püthiai játékok", "Magasság: 500 m tszf."],
+      ro: ["Locație: muntele Parnassos", "Edificiu: Templul lui Apollo", "Competiție: Jocurile Pythice", "Altitudine: 500 m"],
+      en: ["Location: Mount Parnassus", "Main temple: Temple of Apollo", "Festival: Pythian Games", "Altitude: 500m above sea"],
+    },
+    image: "/poi-images/greece-delphi-history-v2.webp",
+},  {
     id: "greece-olympia-history-v2",
     type: "ruins",
-    name: { de: "Antikes Olympia", hu: "Ókori Olümpia", ro: "Olimpia Antică", en: "Ancient Olympia" },
+    name: { de: "Antikes Olympia", hu: "Ókori Olümpia", ro: "Olimpia Antică", en: "Ancient Olympia",
+image: "/poi-images/greece-olympia-history-v2.webp"
+},
     coords: [21.63, 37.6382],
     coordinates: { lat: 37.6382, lng: 21.63 },
     description: {
@@ -76,11 +123,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Primele jocuri în 776 î.Hr.", "Locația statuii lui Zeus de Phidias", "Locul aprinderii torței olimpice", "Stadionul avea 45.000 de locuri"],
       en: ["First games held in 776 BC", "Site of Phidias's Statue of Zeus", "Location for lighting the Olympic torch", "Stadium capacity of 45,000 spectators"],
     },
-    imageHint: "Archaeological site of Ancient Olympia stadium entrance", image: "/poi-images/greece-olympia-history-v2.webp"},
-  {
+imageHint: "Archaeological site of Ancient Olympia stadium entrance",
+    descriptionAdvanced: {
+      de: "Olympia war der Austragungsort der antiken Olympischen Spiele, die 776 v. Chr. begannen. Das Heiligtum Altis beherbergte die Gold-Elfenbein-Statue des Zeus, eines der Weltwunder.",
+      hu: "Olümpia az ókori olimpiai játékok helyszíne volt Kr. e. 776-tól kezdve. A szentélyben állt Zeusz arany-elefántcsont szobra, amely az ókori világ hét csodájának egyike volt.",
+      ro: "Olympia a găzduit jocurile olimpice antice începând cu 776 î.Hr. Sanctuarul Altis includea templul lui Zeus, unde se afla celebra statuie din aur și fildeș creată de Fidias.",
+      en: "Olympia was the sanctuary where the Olympic Games were held every four years starting in 776 BC. It housed the Statue of Zeus, one of the Seven Wonders of the Ancient World.",
+    },
+    factsAdvanced: {
+      de: ["Erste Spiele: 776 v. Chr.", "Haupttempel: Zeus-Tempel", "Stadionkapazität: 45.000 Zuschauer", "Ende der Spiele: 393 n. Chr."],
+      hu: ["Első játékok: Kr. e. 776", "Fő szentély: Zeusz-templom", "Stadion befogadás: 45 000 fő", "Játékok vége: Kr. u. 393"],
+      ro: ["Primele jocuri: 776 î.Hr.", "Sanctuar: Templul lui Zeus", "Capacitate stadion: 45.000 loc.", "Interzicere: 393 d.Hr."],
+      en: [],
+    },
+    image: "/poi-images/greece-olympia-history-v2.webp",
+},  {
     id: "greece-epidaurus-theater-history-v2",
     type: "theater",
-    name: { de: "Theater von Epidaurus", hu: "Epidauroszi színház", ro: "Teatrul din Epidaur", en: "Theater of Epidaurus" },
+    name: { de: "Theater von Epidaurus", hu: "Epidauroszi színház", ro: "Teatrul din Epidaur", en: "Theater of Epidaurus",
+image: "/poi-images/greece-epidaurus-theater-history-v2.webp"
+},
     coords: [23.0792, 37.5961],
     coordinates: { lat: 37.5961, lng: 23.0792 },
     description: {
@@ -95,11 +157,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Capacitate de până la 14.000 spectatori", "Auzibilitate excelentă în fiecare rând", "Proiectat de Polykleitos cel Tânăr", "Redescoperit în anul 1881"],
       en: ["Capacity for up to 14,000 spectators", "Superb audibility in every row", "Designed by Polykleitos the Younger", "Rediscovered in 1881"],
     },
-    imageHint: "Aerial view of the ancient theater of Epidaurus", image: "/poi-images/greece-epidaurus-theater-history-v2.webp"},
-  {
+imageHint: "Aerial view of the ancient theater of Epidaurus",
+    descriptionAdvanced: {
+      de: "Das Theater von Epidaurus aus dem 4. Jh. v. Chr. ist berühmt für seine perfekte Akustik. Es war Teil des Heiligtums des Asklepios und bot bis zu 14.000 Zuschauern Platz.",
+      hu: "Az epidauroszi színház Kr. e. 4. században épült, és világhírű a tökéletes akusztikájáról. Az Aszklépiosz-szentély részeként épült, és akár 14 000 néző befogadására is alkalmas volt.",
+      ro: "Teatrul din Epidaurus, construit în secolul IV î.Hr., este renumit pentru acustica sa perfectă. Parte a sanctuarului lui Asclepios, arena putea găzdui până la 14.000 de spectatori.",
+      en: "The 4th-century BC Theater of Epidaurus is world-renowned for its mathematical precision and acoustics. Built for the healing sanctuary of Asclepius, it seats roughly 14,000 people.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 14.000 Zuschauer", "Bauzeit: Ende 4. Jh. v. Chr.", "Material: Kalkstein", "Zustand: Bestes antikes Theater"],
+      hu: ["Befogadóképesség: 14 000 fő", "Építés: Kr. e. 4. század", "Anyag: mészkő", "Állapot: legépebb ókori színház"],
+      ro: ["Capacitate: 14.000 spectatori", "Datare: sec. IV î.Hr.", "Material: calcar", "Stare: excepțional conservat"],
+      en: ["Capacity: 14,000 spectators", "Date: Late 4th century BC", "Material: Limestone", "Status: Best preserved theater"],
+    },
+    image: "/poi-images/greece-epidaurus-theater-history-v2.webp",
+},  {
     id: "greece-mycenae-history-v2",
     type: "ruins",
-    name: { de: "Mykene", hu: "Mükéné", ro: "Micene", en: "Mycenae" },
+    name: { de: "Mykene", hu: "Mükéné", ro: "Micene", en: "Mycenae",
+image: "/poi-images/greece-mycenae-history-v2.webp"
+},
     coords: [22.7561, 37.7308],
     coordinates: { lat: 37.7308, lng: 22.7561 },
     description: {
@@ -114,11 +191,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sediul legendarului rege Agamemnon", "Locul 'Măștii de aur a lui Agamemnon'", "Tezaurul lui Atreus (mormânt cu cupolă)", "Patrimoniu UNESCO din 1999"],
       en: ["Seat of the legendary King Agamemnon", "Site of the 'Gold Mask of Agamemnon'", "Treasury of Atreus (tholos tomb)", "UNESCO World Heritage site since 1999"],
     },
-    imageHint: "The Lion Gate at the entrance of Mycenae", image: "/poi-images/greece-mycenae-history-v2.webp"},
-  {
+imageHint: "The Lion Gate at the entrance of Mycenae",
+    descriptionAdvanced: {
+      de: "Mykene war das Zentrum der mykenischen Kultur im 2. Jahrtausend v. Chr. Bekannt sind das Löwentor und das Schatzhaus des Atreus, ein monumentales Kuppelgrab aus der Bronzezeit.",
+      hu: "Mükéné a mükénéi görög civilizáció központja volt Kr. e. 1600 és 1100 között. Híres az oroszlános kapuról és Atreusz kincsesházáról, amely az ókor legnagyobb kupolás sírja.",
+      ro: "Micene a fost centrul civilizației miceniene în mileniul II î.Hr. Situl este celebru pentru Poarta Leilor și mormântul tip tholos cunoscut drept Tezaurul lui Atreus.",
+      en: "Mycenae was the military stronghold of the Mycenaean civilization during the late Bronze Age. It is famous for the Lion Gate and the Treasury of Atreus, a massive tholos tomb.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit: 1350–1200 v. Chr.", "Befestigung: Kyklopenmauern", "Grabtyp: Tholos-Gräber", "Wichtigster Bau: Löwentor"],
+      hu: ["Fénykor: Kr. e. 1350–1200", "Falak: küklopszi falazat", "Sír típus: tholosz (kupolás)", "Főbejárat: Oroszlános kapu"],
+      ro: ["Apogeu: 1350–1200 î.Hr.", "Fortificații: ziduri ciclopice", "Tip mormânt: tholos", "Simbol: Poarta Leilor"],
+      en: ["Peak: 1350–1200 BC", "Walls: Cyclopean masonry", "Tomb type: Tholos tomb", "Main gate: Lion Gate"],
+    },
+    image: "/poi-images/greece-mycenae-history-v2.webp",
+},  {
     id: "greece-meteora-history-v2",
     type: "landmark",
-    name: { de: "Meteora-Klöster", hu: "Metéora-kolostorok", ro: "Mănăstirile de la Meteora", en: "Meteora Monasteries" },
+    name: { de: "Meteora-Klöster", hu: "Metéora-kolostorok", ro: "Mănăstirile de la Meteora", en: "Meteora Monasteries",
+image: "/poi-images/greece-meteora-history-v2.webp"
+},
     coords: [21.6322, 39.7217],
     coordinates: { lat: 39.7217, lng: 21.6322 },
     description: {
@@ -133,11 +225,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Inițial au fost construite 24 mănăstiri", "Astăzi mai sunt locuite 6", "Patrimoniu UNESCO din 1988", "Accesul se făcea doar prin scări de frânghie"],
       en: ["Originally 24 monasteries were built", "Only 6 are still inhabited today", "UNESCO World Heritage site since 1988", "Access was once via rope ladders only"],
     },
-    imageHint: "Monasteries perched on high rocks in Meteora", image: "/poi-images/greece-meteora-history-v2.webp"},
-  {
+imageHint: "Monasteries perched on high rocks in Meteora",
+    descriptionAdvanced: {
+      de: "Die Meteora-Klöster wurden ab dem 14. Jh. auf steilen Sandsteinfelsen errichtet. Von den ursprünglich 24 Klöstern sind heute noch sechs aktiv und als UNESCO-Welterbe geschützt.",
+      hu: "A Meteora-kolostorok a 14. századtól épültek meredek homokkő oszlopok tetejére. Az eredeti 24 kolostorból mára hat maradt lakott, amelyek az UNESCO világörökség részét képezik.",
+      ro: "Mănăstirile de la Meteora au fost ridicate începând cu secolul XIV pe stânci abrupte de gresie. Din cele 24 de mănăstiri inițiale, șase sunt active astăzi, fiind incluse în UNESCO.",
+      en: "Meteora features Eastern Orthodox monasteries perched atop towering sandstone rock pillars. Established in the 14th century, six of the original 24 monasteries remain active today.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl aktiv: 6 Klöster", "Erstes Kloster: Megalo Meteoro", "Material: Sandstein", "Bauzeit: ab dem 14. Jh."],
+      hu: ["Aktív kolostorok: 6", "Legrégebbi: Megalo Meteoro", "Anyag: homokkő", "Építés kezdete: 14. század"],
+      ro: ["Mănăstiri active: 6", "Prima fondată: Marele Meteor", "Material: gresie", "Secolul construcției: XIV"],
+      en: ["Active monasteries: 6", "Earliest: Great Meteoron", "Rock type: Sandstone", "Founding: 14th century"],
+    },
+    image: "/poi-images/greece-meteora-history-v2.webp",
+},  {
     id: "greece-thermopylae-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Thermopylen", hu: "Thermopülai csatatér", ro: "Câmpul de luptă de la Termopile", en: "Thermopylae Battlefield" },
+    name: { de: "Schlachtfeld von Thermopylen", hu: "Thermopülai csatatér", ro: "Câmpul de luptă de la Termopile", en: "Thermopylae Battlefield",
+image: "/poi-images/greece-thermopylae-history-v2.webp"
+},
     coords: [22.5364, 38.7966],
     coordinates: { lat: 38.7966, lng: 22.5364 },
     description: {
@@ -152,11 +259,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Leonidas a condus 300 de spartani", "Un monument onorează pe cei căzuți", "Linia țărmului s-a schimbat semnificativ", "Placă memorială cu inscripția lui Simonide"],
       en: ["Leonidas led 300 Spartans", "A monument honors the fallen", "The coastline has shifted significantly since antiquity", "Commemorative plaque with Simonides's inscription"],
     },
-    imageHint: "Statue of King Leonidas at Thermopylae", image: "/poi-images/greece-thermopylae-history-v2.webp"},
-  {
+imageHint: "Statue of King Leonidas at Thermopylae",
+    descriptionAdvanced: {
+      de: "An den Thermopylen hielten 480 v. Chr. König Leonidas und 300 Spartaner ein riesiges persisches Heer auf. Das Schlachtfeld symbolisiert bis heute unerschütterlichen Widerstand.",
+      hu: "A Thermopülai-szorosnál Kr. e. 480-ban Leónidasz király és 300 spártai harcosa feltartóztatta a hatalmas perzsa sereget. A csatatér az önfeláldozó görög ellenállás jelképe.",
+      ro: "La Termopile, în 480 î.Hr., regele Leonidas și cei 300 de spartani au rezistat unei armate persane vaste. Locul este un simbol universal al curajului și sacrificiului eroic.",
+      en: "Thermopylae is the site of the 480 BC battle where King Leonidas and 300 Spartans stalled the Persian invasion. The narrow pass remains a symbol of heroic resistance against odds.",
+    },
+    factsAdvanced: {
+      de: ["Jahr der Schlacht: 480 v. Chr.", "Beteiligte: Spartaner vs. Perser", "Anführer: König Leonidas", "Denkmal: Leonidas-Monument"],
+      hu: ["Csata éve: Kr. e. 480", "Szemben állók: görögök és perzsák", "Görög vezér: Leónidasz király", "Emlékmű: Leónidasz-szobor"],
+      ro: ["Anul bătăliei: 480 î.Hr.", "Combatanți: greci vs. perși", "Lider grec: Regele Leonidas", "Monument: Statuia lui Leonidas"],
+      en: ["Battle year: 480 BC", "Combatants: Greeks vs. Persians", "Greek leader: King Leonidas", "Monument: Leonidas statue"],
+    },
+    image: "/poi-images/greece-thermopylae-history-v2.webp",
+},  {
     id: "greece-marathon-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Marathon", hu: "Marathóni csatatér", ro: "Câmpul de luptă de la Maraton", en: "Marathon Battlefield" },
+    name: { de: "Schlachtfeld von Marathon", hu: "Marathóni csatatér", ro: "Câmpul de luptă de la Maraton", en: "Marathon Battlefield",
+image: "/poi-images/greece-marathon-history-v2.webp"
+},
     coords: [23.9783, 38.1176],
     coordinates: { lat: 38.1176, lng: 23.9783 },
     description: {
@@ -171,11 +293,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Mormântul celor 192 de atenieni căzuți", "Victorie sub generalul Miltiade", "Legenda alergătorului Pheidippides", "Coloana victoriei la locul bătăliei"],
       en: ["Tumulus of the 192 fallen Athenians", "Victory under General Miltiades", "Legend of the runner Pheidippides", "Victory trophy column at the site"],
     },
-    imageHint: "Burial mound of the Athenians at Marathon", image: "/poi-images/greece-marathon-history-v2.webp"},
-  {
+imageHint: "Burial mound of the Athenians at Marathon",
+    descriptionAdvanced: {
+      de: "Bei Marathon besiegten die Athener 490 v. Chr. das persische Heer ohne Hilfe. Der Legende nach lief ein Bote die 42 km nach Athen, um den Sieg zu verkünden, bevor er starb.",
+      hu: "Kr. e. 490-ben a marathóni síkságon az athéniak váratlan győzelmet arattak a perzsa túlerő felett. A csata utáni hírvivő útja adta az alapját a mai 42 kilométeres maratoni futásnak.",
+      ro: "La Maraton, în 490 î.Hr., atenienii au învins armata persană, marcând prima victorie grecească majoră. Legenda mesagerului care a alergat până la Atena a inspirat cursa modernă.",
+      en: "The Battle of Marathon in 490 BC saw the Athenians defeat the first Persian invasion. The legend of the messenger running to Athens inspired the modern 42.195 km marathon race.",
+    },
+    factsAdvanced: {
+      de: ["Jahr: 490 v. Chr.", "Distanz nach Athen: ca. 42 km", "Sieger: Athener (Miltiades)", "Grabmal: Soros-Grabhügel"],
+      hu: ["Évszám: Kr. e. 490", "Távolság Athénig: kb. 42 km", "Győztes: Athén (Miltiadész)", "Sírhely: marathóni sírhalom"],
+      ro: ["Anul: 490 î.Hr.", "Distanța până la Atena: 42 km", "Învingător: Miltiade", "Sit funerar: Tumulul atenienilor"],
+      en: ["Year: 490 BC", "Distance to Athens: ~42 km", "Winner: Athens (Miltiades)", "Tomb: The Soros tumulus"],
+    },
+    image: "/poi-images/greece-marathon-history-v2.webp",
+},  {
     id: "greece-mystras-history-v2",
     type: "ruins",
-    name: { de: "Mystras", hu: "Misztra", ro: "Mistra", en: "Mystras" },
+    name: { de: "Mystras", hu: "Misztra", ro: "Mistra", en: "Mystras",
+image: "/poi-images/greece-mystras-history-v2.webp"
+},
     coords: [22.3683, 37.0761],
     coordinates: { lat: 37.0761, lng: 22.3683 },
     description: {
@@ -190,11 +327,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Fondat de franci în 1249", "Patrimoniu UNESCO din 1989", "Locul încoronării lui Constantin XI", "Rămășițele palatului despotului"],
       en: ["Founded by Franks in 1249", "UNESCO World Heritage site since 1989", "Coronation site of Constantine XI", "Remains of the Despot's Palace"],
     },
-    imageHint: "Byzantine church and ruins in Mystras", image: "/poi-images/greece-mystras-history-v2.webp"},
-  {
+imageHint: "Byzantine church and ruins in Mystras",
+    descriptionAdvanced: {
+      de: "Mystras war im 14. und 15. Jh. das kulturelle Zentrum des Despotats Morea. Die verlassene byzantinische Stadt beherbergt prachtvolle Klöster und Kirchen mit Fresken.",
+      hu: "Misztra a Moreai Despotátus fővárosa és a bizánci kultúra kései fellegvára volt a 14-15. században. A romváros ma lenyűgöző templomairól és falfestményeiről híres.",
+      ro: "Mystras a fost capitala Despotatului Moreei și un centru major al culturii bizantine în secolele XIV-XV. Orașul-cetate conservă biserici cu fresce remarcabile și un castel.",
+      en: "Mystras was the capital of the Byzantine Despotate of the Morea in the 14th and 15th centuries. This fortified hill town features churches with some of the finest Byzantine frescoes.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1249", "UNESCO-Status: seit 1989", "Lage: Nahe Sparta", "Letzter Kaiser: Konstantin XI."],
+      hu: ["Alapítás éve: 1249", "UNESCO védelem: 1989-től", "Helyszín: Spárta mellett", "Utolsó császár: XI. Konstantin"],
+      ro: ["Fondare: 1249", "Statut UNESCO: din 1989", "Locație: lângă Sparta", "Ultimul împărat: Constantin XI"],
+      en: ["Founded: 1249", "UNESCO status: Since 1989", "Location: Near Sparta", "Key figure: Constantine XI"],
+    },
+    image: "/poi-images/greece-mystras-history-v2.webp",
+},  {
     id: "greece-delos-history-v2",
     type: "ruins",
-    name: { de: "Insel Delos", hu: "Délosz szigete", ro: "Insula Delos", en: "Delos Island" },
+    name: { de: "Insel Delos", hu: "Délosz szigete", ro: "Insula Delos", en: "Delos Island",
+image: "/poi-images/greece-delos-history-v2.webp"
+},
     coords: [25.2711, 37.3992],
     coordinates: { lat: 37.3992, lng: 25.2711 },
     description: {
@@ -209,11 +361,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sediul Ligii de la Delos", "Faimoasa Terasă a Leilor", "Teatru pentru 5.500 spectatori", "Muzeu arheologic în aer liber complet"],
       en: ["Seat of the Delian League", "Famous Terrace of the Lions", "Theater for 5,500 spectators", "Entirely an archaeological open-air museum"],
     },
-    imageHint: "Terrace of the Lions on Delos island", image: "/poi-images/greece-delos-history-v2.webp"},
-  {
+imageHint: "Terrace of the Lions on Delos island",
+    descriptionAdvanced: {
+      de: "Delos gilt als Geburtsort von Apollon und Artemis. Die Insel war in der Antike ein heiliges Zentrum und ein wohlhabender Handelshafen der Kykladen mit prachtvollen Villen.",
+      hu: "Délosz szigete Apollón és Artemisz szülőhelyeként a görög világ egyik legszentebb helye volt. A sziget ókori városa és kereskedelmi kikötője mára hatalmas rommezővé vált.",
+      ro: "Insula Delos este considerată locul de naștere al zeilor gemeni Apollo și Artemis. A fost centrul religios și comercial al Cicladelor, păstrând terase cu lei și mozaicuri.",
+      en: "Delos is the mythological birthplace of Apollo and Artemis. As a Panhellenic sanctuary and major commercial port, the island features extensive ruins, including the Terrace of the Lions.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Kykladen", "Wahrzeichen: Löwenterrasse", "Inselgröße: ca. 3,4 km²", "Bedeutung: Sitz des Delischen Bundes"],
+      hu: ["Szigetcsoport: Kükládok", "Fő látványosság: Oroszlán-terasz", "Terület: 3,4 km²", "Történelmi szerep: Déloszi Szövetség"],
+      ro: ["Arhipelag: Ciclade", "Simbol: Terasa Leilor", "Suprafață: 3,4 km²", "Rol istoric: sediul Ligii Deliene"],
+      en: ["Group: Cyclades", "Key site: Terrace of the Lions", "Area: 3.4 sq km", "Historical role: Delian League"],
+    },
+    image: "/poi-images/greece-delos-history-v2.webp",
+},  {
     id: "greece-vergina-history-v2",
     type: "ruins",
-    name: { de: "Königsgräber von Vergina", hu: "Verginai királysírok", ro: "Mormintele regale de la Vergina", en: "Royal Tombs of Vergina" },
+    name: { de: "Königsgräber von Vergina", hu: "Verginai királysírok", ro: "Mormintele regale de la Vergina", en: "Royal Tombs of Vergina",
+image: "/poi-images/greece-vergina-history-v2.webp"
+},
     coords: [22.3197, 40.4875],
     coordinates: { lat: 40.4875, lng: 22.3197 },
     description: {
@@ -228,11 +395,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Mormântul lui Filip II (tatăl lui Alexandru)", "Larnax de aur cu simbolul stelei", "Patrimoniu UNESCO din 1996", "Muzeu în interiorul unui tumul"],
       en: ["Tomb of Philip II (Alexander's father)", "Golden larnax with star symbol", "UNESCO World Heritage site since 1996", "Museum located inside a burial mound"],
     },
-    imageHint: "The golden larnax of Philip II of Macedon", image: "/poi-images/greece-vergina-history-v2.webp"},
-  {
+imageHint: "The golden larnax of Philip II of Macedon",
+    descriptionAdvanced: {
+      de: "Vergina ist der Fundort der unversehrten Königsgräber von Makedonien. 1977 entdeckte Manolis Andronikos hier das Grab von Philipp II., dem Vater Alexanders des Großen.",
+      hu: "Vergina a makedón királyok nyughelye, ahol 1977-ben Manolisz Andronikosz érintetlenül találta meg II. Philipposz, Nagy Sándor apjának monumentális, aranykincsekkel teli sírját.",
+      ro: "Vergina, antica Aigai, adăpostește mormintele regale ale Macedoniei. În 1977, a fost descoperit aici mormântul intact al lui Filip al II-lea, tatăl lui Alexandru cel Mare.",
+      en: "Vergina is the site of Aigai, the first capital of Macedon. In 1977, the unlooted tomb of Philip II, father of Alexander the Great, was discovered here inside a massive tumulus.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1977", "Besonderheit: Grab Philipps II.", "Region: Zentralmakedonien", "Museum: Museum der Königsgräber"],
+      hu: ["Feltárás éve: 1977", "Fő sír: II. Philipposz", "Régió: Közép-Makedónia", "Múzeum: Föld alatti sírmúzeum"],
+      ro: ["Descoperire: 1977", "Mormânt principal: Filip II", "Regiune: Macedonia Centrală", "Tip muzeu: subteran, in situ"],
+      en: ["Discovery year: 1977", "Key tomb: Philip II", "Region: Central Macedonia", "Museum: Royal Tombs Museum"],
+    },
+    image: "/poi-images/greece-vergina-history-v2.webp",
+},  {
     id: "greece-pella-history-v2",
     type: "ruins",
-    name: { de: "Antikes Pella", hu: "Ókori Pella", ro: "Pella Antică", en: "Ancient Pella" },
+    name: { de: "Antikes Pella", hu: "Ókori Pella", ro: "Pella Antică", en: "Ancient Pella",
+image: "/poi-images/greece-pella-history-v2.webp"
+},
     coords: [22.5204, 40.761],
     coordinates: { lat: 40.761, lng: 22.5204 },
     description: {
@@ -248,11 +430,25 @@ export const greeceHistoryV2: POI[] = [
       en: ["Founded around 400 BC by Archelaus", "Mosaic of the Stag Hunt", "Once a coastal port city", "Extensive on-site museum"],
     },
     imageHint: "Ancient pebble mosaic floor in Pella",
+    descriptionAdvanced: {
+      de: "Pella ersetzte Aigai als Hauptstadt des makedonischen Reiches und war Geburtsort Alexanders des Großen. Die Stadt ist berühmt für ihre detailreichen Kieselstein-Mosaike.",
+      hu: "Pella a Makedón Királyság fővárosa volt Kr. e. 400 körül, valamint Nagy Sándor szülőhelye. A város romjai között talált finom kavicsmozaikok az ókori művészet remekművei.",
+      ro: "Pella a devenit capitala regatului macedonean la sfârșitul secolului V î.Hr. și este locul unde s-a născut Alexandru cel Mare, fiind celebră pentru mozaicurile sale din prundis.",
+      en: "Pella replaced Aigai as the capital of the Macedonian Kingdom in the late 5th century BC. As Alexander the Great's birthplace, it is noted for its sophisticated pebble mosaics.",
+    },
+    factsAdvanced: {
+      de: ["Gründungszeit: ca. 400 v. Chr.", "Kunstform: Kieselsteinmosaike", "Person: Alexander der Große", "Lage: Nordgriechenland"],
+      hu: ["Fővárossá válás: Kr. e. 400 körül", "Díszítés: kavicsmozaikok", "Híres szülött: Nagy Sándor", "Helyszín: Észak-Görögország"],
+      ro: ["Capitală din: cca. 400 î.Hr.", "Artă: mozaicuri din pietriș", "Personalitate: Alexandru cel Mare", "Statut: capitală regală"],
+      en: ["Capital from: c. 400 BC", "Art: Pebble mosaics", "Birthplace: Alexander the Great", "Location: Northern Greece"],
+    },
   },
   {
     id: "greece-lindos-acropolis-history-v2",
     type: "castle",
-    name: { de: "Akropolis von Lindos", hu: "Lindoszi akropolisz", ro: "Acropola din Lindos", en: "Acropolis of Lindos" },
+    name: { de: "Akropolis von Lindos", hu: "Lindoszi akropolisz", ro: "Acropola din Lindos", en: "Acropolis of Lindos",
+image: "/poi-images/greece-lindos-acropolis-history-v2.webp"
+},
     coords: [28.0867, 36.0917],
     coordinates: { lat: 36.0917, lng: 28.0867 },
     description: {
@@ -267,11 +463,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Templul Atenei Lindia (sec. IV î.Hr.)", "Castel ioanit din secolul XIV", "Gravură antică a unei nave în stâncă", "Cel mai important sit arheologic din Rodos"],
       en: ["Temple of Athena Lindia (4th century BC)", "14th-century fortress of the Knights", "Ancient ship engraving in the rock", "Most important archaeological site on Rhodes"],
     },
-    imageHint: "Ancient columns and medieval walls of Lindos Acropolis", image: "/poi-images/greece-lindos-acropolis-history-v2.webp"},
-  {
+imageHint: "Ancient columns and medieval walls of Lindos Acropolis",
+    descriptionAdvanced: {
+      de: "Die Akropolis von Lindos auf Rhodos vereint antike Tempel mit einer mächtigen Johanniterfestung. Der Athena-Lindia-Tempel thront 116 Meter über der Bucht von Lindos.",
+      hu: "Lindosz akropolisza Rodosz szigetén az ókori templomok és a középkori johannita erőd különleges egyvelege. Az Athéné-templom egy 116 méter magas sziklaszirten magasodik.",
+      ro: "Acropola din Lindos, situată pe Rodos, îmbină templele antice cu o cetate medievală a Cavalerilor Ioaniți. Templul Atenei Lindia oferă o panoramă spectaculoasă asupra mării.",
+      en: "The Acropolis of Lindos on Rhodes features the 4th-century BC Temple of Athena Lindia surrounded by a medieval fortress built by the Knights of St. John on a 116m cliff.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 116 Meter", "Hauptbau: Athena-Lindia-Tempel", "Insel: Rhodos", "Befestigung: Johanniter-Orden"],
+      hu: ["Szikla magassága: 116 méter", "Főtemplom: Athéné Lindia", "Sziget: Rodosz", "Erőd: Johannita lovagok"],
+      ro: ["Înălțime stâncă: 116 metri", "Templu principal: Atena Lindia", "Insulă: Rodos", "Ziduri: fortificații medievale"],
+      en: ["Rock height: 116 meters", "Main temple: Athena Lindia", "Island: Rhodes", "Fortress: Knights Hospitaller"],
+    },
+    image: "/poi-images/greece-lindos-acropolis-history-v2.webp",
+},  {
     id: "greece-grand-master-palace-history-v2",
     type: "palace",
-    name: { de: "Großmeisterpalast von Rhodos", hu: "Nagymesteri palota (Rodosz)", ro: "Palatul Marelui Maestru din Rodos", en: "Palace of the Grand Master" },
+    name: { de: "Großmeisterpalast von Rhodos", hu: "Nagymesteri palota (Rodosz)", ro: "Palatul Marelui Maestru din Rodos", en: "Palace of the Grand Master",
+image: "/poi-images/greece-grand-master-palace-history-v2.webp"
+},
     coords: [28.2233, 36.4461],
     coordinates: { lat: 36.4461, lng: 28.2233 },
     description: {
@@ -286,11 +497,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în secolul XIV", "Distrus de o explozie în 1856", "Reconstruit de italieni în 1937", "Găzduiește mozaicuri antice din Kos"],
       en: ["Built in the 14th century", "Destroyed by an explosion in 1856", "Rebuilt by the Italians in 1937", "Houses ancient mosaics from Kos"],
     },
-    imageHint: "The medieval Palace of the Grand Master in Rhodes", image: "/poi-images/greece-grand-master-palace-history-v2.webp"},
-  {
+imageHint: "The medieval Palace of the Grand Master in Rhodes",
+    descriptionAdvanced: {
+      de: "Der Palast des Großmeisters in Rhodos-Stadt war die Residenz des Johanniterordens. Das im 14. Jh. erbaute Kastell wurde im 20. Jh. von den Italienern aufwendig restauriert.",
+      hu: "A Nagymesteri Palota a johannita lovagrend központja volt Rodosz városában. A 14. századi erődöt az 1930-as években az olaszok építették újjá monumentális stílusban.",
+      ro: "Palatul Marelui Maestru din orașul Rodos a fost sediul Cavalerilor Ioaniți. Construit în secolul XIV, palatul a fost restaurat masiv în anii 1930 în timpul administrației italiene.",
+      en: "The Palace of the Grand Master in Rhodes Town was the administrative center of the Knights Hospitaller. Originally 14th-century, it was extensively rebuilt in the 1930s.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 14. Jahrhundert", "Orden: Johanniter (Hospitaller)", "UNESCO-Status: Altstadt Rhodos", "Räume: Über 150 Zimmer"],
+      hu: ["Építés ideje: 14. század", "Lovagrend: Johanniták", "UNESCO helyszín: Rodosz óvárosa", "Termek száma: több mint 150"],
+      ro: ["Secol: XIV", "Ordin: Cavalerii Ioaniți", "Statut: Patrimoniu UNESCO", "Interior: peste 150 de încăperi"],
+      en: ["Century: 14th", "Order: Knights Hospitaller", "UNESCO status: Rhodes Old Town", "Rooms: Over 150"],
+    },
+    image: "/poi-images/greece-grand-master-palace-history-v2.webp",
+},  {
     id: "greece-spinalonga-history-v2",
     type: "castle",
-    name: { de: "Spinalonga", hu: "Szpinalónga", ro: "Spinalonga", en: "Spinalonga" },
+    name: { de: "Spinalonga", hu: "Szpinalónga", ro: "Spinalonga", en: "Spinalonga",
+image: "/poi-images/greece-spinalonga-history-v2.webp"
+},
     coords: [25.7483, 35.2975],
     coordinates: { lat: 35.2975, lng: 25.7483 },
     description: {
@@ -305,11 +531,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Cetate venețiană din 1579", "Colonie de leproși între 1903 și 1957", "Protecția strategică a portului Elounda", "Invincibilă în fața otomanilor până în 1715"],
       en: ["Venetian fortress built in 1579", "Leper colony from 1903 to 1957", "Strategic protection for Elounda harbor", "Impregnable to Ottomans until 1715"],
     },
-    imageHint: "The fortified island of Spinalonga in Crete", image: "/poi-images/greece-spinalonga-history-v2.webp"},
-  {
+imageHint: "The fortified island of Spinalonga in Crete",
+    descriptionAdvanced: {
+      de: "Die Insel Spinalonga war eine venezianische Festung und später die letzte Leprakolonie Europas (1903–1957). Die Mauern zeugen von jahrhundertelanger Isolation und Abwehr.",
+      hu: "Szpinalónga szigete velencei erődként indult, majd 1903 és 1957 között Európa utolsó leperatelepeként működött. A krétai partoknál fekvő sziget ma népszerű történelmi emlékhely.",
+      ro: "Insula Spinalonga a fost o fortăreață venețiană strategică, devenind ulterior ultima colonie de leproși din Europa între 1903 și 1957, situată în golful Elounda din Creta.",
+      en: "Spinalonga was a formidable Venetian fortress before serving as one of Europe's last leper colonies from 1903 to 1957. It stands in the Gulf of Elounda off Crete's coast.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Kreta (Bucht von Elounda)", "Leprakolonie: 1903–1957", "Festungsbau: Venezianer (1579)", "Status: Museumsinsel"],
+      hu: ["Helyszín: Kréta (Elounda-öböl)", "Leperatelep ideje: 1903–1957", "Erődépítés: velenceiek (1579)", "Típus: romsziget"],
+      ro: ["Locație: Creta (Golful Elounda)", "Colonie leproși: 1903–1957", "Fortăreață: Venețiană (1579)", "Funcție actuală: sit istoric"],
+      en: ["Location: Crete (Elounda Bay)", "Leper colony: 1903–1957", "Fortress: Venetian (1579)", "Status: Historical site"],
+    },
+    image: "/poi-images/greece-spinalonga-history-v2.webp",
+},  {
     id: "greece-tiryns-history-v2",
     type: "ruins",
-    name: { de: "Tiryns", hu: "Tirünsz", ro: "Tirint", en: "Tiryns" },
+    name: { de: "Tiryns", hu: "Tirünsz", ro: "Tirint", en: "Tiryns",
+image: "/poi-images/greece-tiryns-history-v2.webp"
+},
     coords: [22.7997, 37.5994],
     coordinates: { lat: 37.5994, lng: 22.7997 },
     description: {
@@ -324,11 +565,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Perioada de glorie în sec. XIII î.Hr.", "Ziduri de până la 8 metri grosime", "Patrimoniu UNESCO din 1999", "Faimos pentru galeriile subterane"],
       en: ["Peak of importance in 13th century BC", "Walls up to 8 meters thick", "UNESCO World Heritage site since 1999", "Famous for its vaulted galleries"],
     },
-    imageHint: "Massive Cyclopean walls of ancient Tiryns", image: "/poi-images/greece-tiryns-history-v2.webp"},
-  {
+imageHint: "Massive Cyclopean walls of ancient Tiryns",
+    descriptionAdvanced: {
+      de: "Tiryns ist berühmt für seine bis zu 8 Meter dicken Kyklopenmauern. Die mykenische Burgstadt aus der Bronzezeit wird bei Homer als 'mauerumgürtetes Tiryns' gerühmt.",
+      hu: "Tirünsz vára a mükénéi kultúra egyik legfontosabb erődítménye, amely akár 8 méter vastag küklopszi falairól híres. Homérosz az 'erős falú' városként emlegette eposzaiban.",
+      ro: "Tiryns este renumit pentru zidurile sale ciclopice, care ating grosimi de până la 8 metri. Fortăreața miceniană a fost menționată de Homer pentru sistemul său defensiv masiv.",
+      en: "Tiryns is a Mycenaean hill fort famous for its massive Cyclopean walls, some up to 8 meters thick. Homer celebrated it in the Iliad for its formidable fortifications.",
+    },
+    factsAdvanced: {
+      de: ["Wandstärke: bis zu 8 Meter", "UNESCO-Status: seit 1999", "Region: Argolis", "Bedeutung: Mykenische Residenz"],
+      hu: ["Falvastagság: max. 8 méter", "UNESCO védelem: 1999 óta", "Régió: Argolisz", "Kultúra: mükénéi"],
+      ro: ["Grosime ziduri: până la 8 m", "Statut UNESCO: din 1999", "Regiune: Argolida", "Epocă: Epoca Bronzului"],
+      en: ["Wall thickness: Up to 8m", "UNESCO status: Since 1999", "Region: Argolis", "Culture: Mycenaean"],
+    },
+    image: "/poi-images/greece-tiryns-history-v2.webp",
+},  {
     id: "greece-sounion-poseidon-history-v2",
     type: "monument",
-    name: { de: "Tempel des Poseidon (Sounion)", hu: "Poszeidón-templom (Szoúnion)", ro: "Templul lui Poseidon (Sounion)", en: "Temple of Poseidon (Sounion)" },
+    name: { de: "Tempel des Poseidon (Sounion)", hu: "Poszeidón-templom (Szoúnion)", ro: "Templul lui Poseidon (Sounion)", en: "Temple of Poseidon (Sounion)",
+image: "/poi-images/greece-sounion-poseidon-history-v2.webp"
+},
     coords: [24.0244, 37.6503],
     coordinates: { lat: 37.6503, lng: 24.0244 },
     description: {
@@ -343,11 +599,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Coloane dorice din marmură albă", "Lord Byron și-a gravat numele aici", "Locul legendei regelui Egeu", "60 de metri deasupra nivelului mării"],
       en: ["Doric columns of white marble", "Lord Byron carved his name into a pillar", "Site of the legend of King Aegeus", "Located 60 meters above sea level"],
     },
-    imageHint: "Temple of Poseidon at Cape Sounion during sunset", image: "/poi-images/greece-sounion-poseidon-history-v2.webp"},
-  {
+imageHint: "Temple of Poseidon at Cape Sounion during sunset",
+    descriptionAdvanced: {
+      de: "Der Poseidon-Tempel am Kap Sounion thront 60 Meter über dem Meer an der südlichsten Spitze Attikas. Er wurde um 444 v. Chr. während der Regierungszeit des Perikles erbaut.",
+      hu: "A szunióni Poszeidón-templom Attika legdélebbi fokán, 60 méterrel a tenger felett magasodik. A fehér márványoszlopok Kr. e. 444 körül épültek, Periklész uralkodása idején.",
+      ro: "Templul lui Poseidon de la Capul Sounion este situat pe o stâncă la 60 de metri deasupra mării. Construit în jurul anului 444 î.Hr., marca limita sudică a regiunii Attica.",
+      en: "The Temple of Poseidon at Cape Sounion stands on a 60m cliff at the southern tip of Attica. Built around 444 BC, it served as a landmark for sailors returning to Athens.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 444–440 v. Chr.", "Standort: Kap Sounion", "Höhe ü. d. M.: 60 Meter", "Material: Lokaler Marmor"],
+      hu: ["Építés: Kr. e. 444–440", "Helyszín: Szunión-fok", "Magasság: 60 m a tenger felett", "Oszlopok: dór stílus"],
+      ro: ["Anul construcției: 444 î.Hr.", "Locație: Capul Sounion", "Înălțime faleză: 60 metri", "Dedicație: Poseidon"],
+      en: ["Date: 444–440 BC", "Location: Cape Sounion", "Cliff height: 60 meters", "Dedication: Poseidon"],
+    },
+    image: "/poi-images/greece-sounion-poseidon-history-v2.webp",
+},  {
     id: "greece-ancient-corinth-history-v2",
     type: "ruins",
-    name: { de: "Antikes Korinth", hu: "Ókori Korinthosz", ro: "Corintul Antic", en: "Ancient Corinth" },
+    name: { de: "Antikes Korinth", hu: "Ókori Korinthosz", ro: "Corintul Antic", en: "Ancient Corinth",
+image: "/poi-images/greece-ancient-corinth-history-v2.webp"
+},
     coords: [22.8797, 37.9058],
     coordinates: { lat: 37.9058, lng: 22.8797 },
     description: {
@@ -362,11 +633,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Templul lui Apollo (cca. 540 î.Hr.)", "Centrul Ligii Corintiene", "Vizitat de Apostolul Pavel", "Acrocorintul ca fortăreață deasupra orașului"],
       en: ["Temple of Apollo (c. 540 BC)", "Center of the League of Corinth", "Visited by Apostle Paul", "Acrocorinth fortress overlooks the city"],
     },
-    imageHint: "Columns of the Temple of Apollo in Ancient Corinth", image: "/poi-images/greece-ancient-corinth-history-v2.webp"},
-  {
+imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
+    descriptionAdvanced: {
+      de: "Das antike Korinth war eine der wichtigsten Handelsstädte der Antike. Berühmt sind der archaische Apollon-Tempel und die Akrokorinth-Festung, die die Stadt überragt.",
+      hu: "Korinthosz az ókori Görögország egyik legforgalmasabb kereskedővárosa volt. Legfontosabb emlékei a dór Apollón-templom és az 575 méter magas sziklán álló Akrokorinthosz erődje.",
+      ro: "Corintul antic a fost una dintre cele mai prospere cetăți comerciale. Situl conservă Templul lui Apollo și Acrocorintul, o fortăreață situată pe o stâncă de 575 metri.",
+      en: "Ancient Corinth was a leading commercial power connecting the Peloponnese to Attica. Key ruins include the archaic Temple of Apollo and the high Acrocorinth citadel.",
+    },
+    factsAdvanced: {
+      de: ["Haupttempel: Apollon-Tempel", "Festungshöhe: 575 Meter (Acrocorinth)", "Bedeutung: Panhellenisches Zentrum", "Lage: Isthmus von Korinth"],
+      hu: ["Főtemplom: Apollón-szentély", "Erőd magassága: 575 m (Akrokorinthosz)", "Jelentőség: kereskedelmi központ", "Helyszín: Korinthoszi-földszoros"],
+      ro: ["Templu: Apollo (stil arhaic)", "Înălțime fortăreață: 575 metri", "Importanță: centru comercial", "Regiune: Istmul Corint"],
+      en: ["Main temple: Temple of Apollo", "Citadel height: 575m (Acrocorinth)", "Significance: Trade hub", "Location: Isthmus of Corinth"],
+    },
+    image: "/poi-images/greece-ancient-corinth-history-v2.webp",
+},  {
     id: "greece-messene-history-v2",
     type: "ruins",
-    name: { de: "Antikes Messene", hu: "Ókori Messzéné", ro: "Messene Antică", en: "Ancient Messene" },
+    name: { de: "Antikes Messene", hu: "Ókori Messzéné", ro: "Messene Antică", en: "Ancient Messene",
+image: "/poi-images/greece-messene-history-v2.webp"
+},
     coords: [21.9214, 37.175],
     coordinates: { lat: 37.175, lng: 21.9214 },
     description: {
@@ -381,11 +667,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Zid de incintă enorm (9 km lungime)", "Stadion și teatru superbe", "Fondat de Epaminondas", "Sanctuarul lui Artemis pe sit"],
       en: ["Enormous city wall (9 km long)", "Superb stadium and theater ruins", "Founded by Epaminondas", "Sanctuary of Artemis on site"],
     },
-    imageHint: "Ruins of the stadium and agora in Ancient Messene", image: "/poi-images/greece-messene-history-v2.webp"},
-  {
+imageHint: "Ruins of the stadium and agora in Ancient Messene",
+    descriptionAdvanced: {
+      de: "Das antike Messene wurde 369 v. Chr. von Epaminondas gegründet. Die weitläufige Ausgrabungsstätte auf dem Peloponnes umfasst ein Theater, ein Stadion und eine 9 km lange Mauer.",
+      hu: "Messzéné városát Kr. e. 369-ben alapította Epameinóndasz a spártai uralom megtörése után. A hatalmas területen fekvő romvárost egy 9 kilométer hosszú, épen maradt várfal veszi körül.",
+      ro: "Messene antică a fost fondată în 369 î.Hr. de Epaminonda. Situl este remarcabil pentru zidurile sale de fortificație de 9 km și pentru stadionul antic excelent conservat.",
+      en: "Ancient Messene was founded in 369 BC by Epaminondas after defeating Sparta. The vast site includes a theater, an agora, and one of the best-preserved ancient stadiums.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 369 v. Chr.", "Mauerlänge: 9 Kilometer", "Hauptbauwerk: Antikes Stadion", "Lage: Peloponnes (Messonien)"],
+      hu: ["Alapítás éve: Kr. e. 369", "Várfal hossza: 9 kilométer", "Fő látványosság: stadion", "Régió: Peloponnészosz"],
+      ro: ["Anul fondării: 369 î.Hr.", "Lungime ziduri: 9 km", "Edificiu: Stadionul antic", "Regiune: Mesenia"],
+      en: ["Founded: 369 BC", "Wall length: 9 km", "Main feature: Ancient stadium", "Region: Peloponnese"],
+    },
+    image: "/poi-images/greece-messene-history-v2.webp",
+},  {
     id: "greece-bassae-apollo-history-v2",
     type: "monument",
-    name: { de: "Tempel des Apollo (Bassae)", hu: "Apollón-templom (Basszai)", ro: "Templul lui Apollo (Bassae)", en: "Temple of Apollo Epicurius" },
+    name: { de: "Tempel des Apollo (Bassae)", hu: "Apollón-templom (Basszai)", ro: "Templul lui Apollo (Bassae)", en: "Temple of Apollo Epicurius",
+image: "/poi-images/greece-bassae-apollo-history-v2.webp"
+},
     coords: [21.9003, 37.4297],
     coordinates: { lat: 37.4297, lng: 21.9003 },
     description: {
@@ -400,11 +701,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Primul sit UNESCO din Grecia", "Combină toate cele trei ordine antice", "Construit între 420-400 î.Hr.", "Situat la 1131 m altitudine"],
       en: ["First UNESCO World Heritage site in Greece", "Combines all three ancient orders of columns", "Built around 420-400 BC", "Located at 1131 meters altitude"],
     },
-    imageHint: "The Temple of Apollo Epicurius under its protective tent", image: "/poi-images/greece-bassae-apollo-history-v2.webp"},
-  {
+imageHint: "The Temple of Apollo Epicurius under its protective tent",
+    descriptionAdvanced: {
+      de: "Der Apollon-Epikurios-Tempel bei Bassae thront auf 1131 Metern Höhe. Er wurde von Iktinos entworfen und beherbergt die älteste korinthische Säule der Architekturgeschichte.",
+      hu: "Az Apollón Epikuriosz-templom Basszaiban, 1131 méteres magasságban található. Iktinosz tervezte, és itt találták meg az építészettörténet legkorábbi korinthoszi oszlopfőjét.",
+      ro: "Templul lui Apollo Epicurius de la Bassae se află la o altitudine de 1131 m. Proiectat de Ictinos, este primul sit grec inclus în patrimoniul UNESCO, datorită designului unic.",
+      en: "The Temple of Apollo Epicurius at Bassae is situated at an altitude of 1,131m. Designed by Ictinos, it features the earliest known Corinthian column in Greek architecture.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1131 Meter ü. d. M.", "Architekt: Iktinos (Parthenon-Bauer)", "UNESCO-Status: seit 1986", "Besonderheit: Korinthische Säule"],
+      hu: ["Magasság: 1131 m tszf.", "Építész: Iktinosz", "UNESCO védelem: 1986 óta", "Oszloprend: dór, jón és korinthoszi"],
+      ro: ["Altitudine: 1131 metri", "Arhitect: Ictinos", "Statut UNESCO: din 1986", "Inovație: prima coloană corintică"],
+      en: ["Altitude: 1,131 meters", "Architect: Ictinos", "UNESCO status: Since 1986", "Key feature: Corinthian column"],
+    },
+    image: "/poi-images/greece-bassae-apollo-history-v2.webp",
+},  {
     id: "greece-dodona-history-v2",
     type: "ruins",
-    name: { de: "Orakel von Dodona", hu: "Dodona jósdája", ro: "Oracolul din Dodona", en: "Oracle of Dodona" },
+    name: { de: "Orakel von Dodona", hu: "Dodona jósdája", ro: "Oracolul din Dodona", en: "Oracle of Dodona",
+image: "/poi-images/greece-dodona-history-v2.webp"
+},
     coords: [20.7881, 39.5461],
     coordinates: { lat: 39.5461, lng: 20.7881 },
     description: {
@@ -419,11 +735,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Menționat în Iliada lui Homer", "Teatru antic impresionant", "Centrul molosienilor", "Întrebările erau gravate pe tăblițe de plumb"],
       en: ["Mentioned in Homer's Iliad", "Impressive ancient theater", "Center of the Molossians", "Inquiries were carved onto lead tablets"],
     },
-    imageHint: "Ruins of the ancient theater of Dodona", image: "/poi-images/greece-dodona-history-v2.webp"},
-  {
+imageHint: "Ruins of the ancient theater of Dodona",
+    descriptionAdvanced: {
+      de: "Dodona gilt als das älteste Orakel Griechenlands, gewidmet dem Zeus. Priester deuteten hier das Rauschen der Blätter einer heiligen Eiche, um den Willen der Götter zu erfahren.",
+      hu: "Dodona a legősibb görög jóshely, amelyet Zeusznak szenteltek. A papok egy szent tölgyfa leveleinek zizegéséből olvasták ki az istenek akaratát az epiruszi hegyek között.",
+      ro: "Dodona este cel mai vechi oracol grec, dedicat lui Zeus. Preoții interpretau aici foșnetul frunzelor unui stejar sacru pentru a oferi profeții pelerinilor veniți din Epir.",
+      en: "Dodona is recognized as the oldest oracle in Greece, dedicated to Zeus. Priests interpreted the rustling of a sacred oak tree's leaves to deliver divine prophecies.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Ältestes Orakel", "Gottheit: Zeus", "Theaterkapazität: 18.000 Zuschauer", "Region: Epirus"],
+      hu: ["Típus: legősibb jóshely", "Isten: Zeusz", "Színház mérete: 18 000 néző", "Régió: Epírosz"],
+      ro: ["Funcție: oracol arhaic", "Divinitate: Zeus", "Capacitate teatru: 18.000 loc.", "Regiune: Epir"],
+      en: ["Type: Oldest oracle", "Deity: Zeus", "Theater capacity: 18,000", "Region: Epirus"],
+    },
+    image: "/poi-images/greece-dodona-history-v2.webp",
+},  {
     id: "greece-philippi-history-v2",
     type: "ruins",
-    name: { de: "Philippi", hu: "Philippi", ro: "Filipi", en: "Philippi" },
+    name: { de: "Philippi", hu: "Philippi", ro: "Filipi", en: "Philippi",
+image: "/poi-images/greece-philippi-history-v2.webp"
+},
     coords: [24.2831, 41.0125],
     coordinates: { lat: 41.0125, lng: 24.2831 },
     description: {
@@ -438,11 +769,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Bătălia de la Filipi (42 î.Hr.)", "Patrimoniu UNESCO din 2016", "Bazilici creștine timpurii conservate", "Situat pe Via Egnatia"],
       en: ["Battle of Philippi (42 BC)", "UNESCO World Heritage site since 2016", "Early Christian basilicas preserved", "Located along the Via Egnatia"],
     },
-    imageHint: "Archaeological ruins and basilicas of Philippi", image: "/poi-images/greece-philippi-history-v2.webp"},
-  {
+imageHint: "Archaeological ruins and basilicas of Philippi",
+    descriptionAdvanced: {
+      de: "Philippi wurde 356 v. Chr. von Philipp II. gegründet und war Ort der entscheidenden Schlacht zwischen Octavian und den Mördern Caesars. Hier entstand die erste christliche Gemeinde Europas.",
+      hu: "Philippit II. Philipposz alapította Kr. e. 356-ban. Itt zajlott a római polgárháború döntő csatája Kr. e. 42-ben, majd Pál apostol itt alapította az első európai keresztény közösséget.",
+      ro: "Philippi a fost fondat în 356 î.Hr. de Filip al II-lea. A fost locul bătăliei decisive din 42 î.Hr. și prima comunitate creștină din Europa, întemeiată de Apostolul Pavel.",
+      en: "Founded in 356 BC by Philip II, Philippi was the site of the 42 BC battle that ended the Roman Republic. It also hosted Europe's first Christian church founded by Paul.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 356 v. Chr.", "UNESCO-Status: seit 2016", "Schlachtjahr: 42 v. Chr.", "Bedeutung: Frühchristliches Zentrum"],
+      hu: ["Alapítás éve: Kr. e. 356", "UNESCO védelem: 2016 óta", "Csata éve: Kr. e. 42", "Történelmi szerep: kereszténység terjedése"],
+      ro: ["Fondare: 356 î.Hr.", "Statut UNESCO: din 2016", "Bătălie celebră: 42 î.Hr.", "Punct cheie: Via Egnatia"],
+      en: ["Founded: 356 BC", "UNESCO status: Since 2016", "Battle year: 42 BC", "Key road: Via Egnatia"],
+    },
+    image: "/poi-images/greece-philippi-history-v2.webp",
+},  {
     id: "greece-monemvasia-history-v2",
     type: "town",
-    name: { de: "Monemvasia", hu: "Monemvaszia", ro: "Monemvasia", en: "Monemvasia" },
+    name: { de: "Monemvasia", hu: "Monemvaszia", ro: "Monemvasia", en: "Monemvasia",
+image: "/poi-images/greece-monemvasia-history-v2.webp"
+},
     coords: [23.0561, 36.6875],
     coordinates: { lat: 36.6875, lng: 23.0561 },
     description: {
@@ -457,11 +803,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Fondat în secolul VI", "Fost port de export pentru vinul Malvasia", "Orașul de sus și de jos sunt separate", "Ziduri venețiene bine conservate"],
       en: ["Founded in the 6th century", "Former export port for Malvasia wine", "Separate upper and lower towns", "Well-preserved Venetian walls"],
     },
-    imageHint: "The rock of Monemvasia with the medieval town", image: "/poi-images/greece-monemvasia-history-v2.webp"},
-  {
+imageHint: "The rock of Monemvasia with the medieval town",
+    descriptionAdvanced: {
+      de: "Monemvasia ist eine mittelalterliche Festungsstadt auf einem gewaltigen Felsen im Meer. Der Name bedeutet 'einziger Zugang' und bezieht sich auf den schmalen Damm zum Festland.",
+      hu: "Monemvaszia egy középkori sziklaváros Lacónia partjainál, amelyet egy keskeny gát köt össze a szárazfölddel. A 'Kelet Gibraltárjaként' is emlegetett hely ma is lakott romváros.",
+      ro: "Monemvasia este o cetate medievală situată pe o stâncă masivă în mare. Numele său înseamnă 'singura intrare', referindu-se la calea îngustă de acces care o leagă de Peloponez.",
+      en: "Monemvasia is a medieval fortress town carved into a sea rock off the Peloponnese. Its name means 'single entrance', referencing the narrow causeway linking it to the mainland.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 6. Jahrhundert", "Beiname: Gibraltar des Ostens", "Region: Lakonien", "Bauwerke: Byzantinische Kirchen"],
+      hu: ["Alapítás: 6. század", "Becenév: Kelet Gibraltárja", "Régió: Lakónia", "Típus: középkori várváros"],
+      ro: ["Fondare: secolul VI", "Supranume: Gibraltarul Estului", "Regiune: Laconia", "Stil: bizantin și venețian"],
+      en: ["Founded: 6th century", "Nickname: Gibraltar of the East", "Region: Laconia", "Style: Byzantine-Venetian"],
+    },
+    image: "/poi-images/greece-monemvasia-history-v2.webp",
+},  {
     id: "greece-white-tower-history-v2",
     type: "tower",
-    name: { de: "Weißer Turm von Thessaloniki", hu: "Fehér torony (Thesszaloniki)", ro: "Turnul Alb din Salonic", en: "White Tower of Thessaloniki" },
+    name: { de: "Weißer Turm von Thessaloniki", hu: "Fehér torony (Thesszaloniki)", ro: "Turnul Alb din Salonic", en: "White Tower of Thessaloniki",
+image: "/poi-images/greece-white-tower-history-v2.webp"
+},
     coords: [22.9483, 40.6264],
     coordinates: { lat: 40.6264, lng: 22.9483 },
     description: {
@@ -476,11 +837,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în secolul XV", "Numit anterior 'Turnul Însângerat'", "Înălțime de 33,9 metri", "Astăzi muzeu de istorie a orașului"],
       en: ["Built in the 15th century", "Formerly known as the 'Bloody Tower'", "Height of 33.9 meters", "Now a museum of city history"],
     },
-    imageHint: "The White Tower of Thessaloniki by the sea", image: "/poi-images/greece-white-tower-history-v2.webp"},
-  {
+imageHint: "The White Tower of Thessaloniki by the sea",
+    descriptionAdvanced: {
+      de: "Der Weiße Turm ist das Wahrzeichen von Thessaloniki. Im 16. Jh. von den Osmanen auf byzantinischen Fundamenten errichtet, diente er lange Zeit als berüchtigtes Gefängnis.",
+      hu: "A Fehér torony Szaloniki jelképe, amelyet a 16. században építettek az oszmánok védelmi célokra. Később börtönként használták, mai fehér nevét egy 19. századi meszelés után kapta.",
+      ro: "Turnul Alb este simbolul orașului Salonic. Construit de otomani în secolul XVI pe fundații bizantine, a servit drept fortăreață și închisoare înainte de a deveni muzeu.",
+      en: "The White Tower is the landmark of Thessaloniki, built by the Ottomans in the 16th century. Originally a defensive fort and later a prison, it now houses a city museum.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 34 Meter", "Bauzeit: um 1535", "Zweck: Osmanisches Gefängnis", "Lage: Uferpromenande Thessaloniki"],
+      hu: ["Magasság: 34 méter", "Építés éve: 1535 körül", "Funkció: oszmán börtön", "Helyszín: Szaloniki tengerpart"],
+      ro: ["Înălțime: 34 metri", "Datare: cca. 1535", "Funcție istorică: închisoare", "Locație: faleza Salonicului"],
+      en: ["Height: 34 meters", "Built: c. 1535", "Historical use: Ottoman prison", "Location: Thessaloniki waterfront"],
+    },
+    image: "/poi-images/greece-white-tower-history-v2.webp",
+},  {
     id: "greece-akrotiri-history-v2",
     type: "ruins",
-    name: { de: "Akrotiri (Santorin)", hu: "Akrotíri (Szantorini)", ro: "Akrotiri (Santorini)", en: "Akrotiri (Santorini)" },
+    name: { de: "Akrotiri (Santorin)", hu: "Akrotíri (Szantorini)", ro: "Akrotiri (Santorini)", en: "Akrotiri (Santorini)",
+image: "/poi-images/greece-akrotiri-history-v2.webp"
+},
     coords: [25.4039, 36.3514],
     coordinates: { lat: 36.3514, lng: 25.4039 },
     description: {
@@ -495,11 +871,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sistem de canalizare sofisticat", "Picturi murale magnifice (fresce)", "Nu s-au găsit schelete (evacuare)", "Așezare din epoca bronzului"],
       en: ["Highly advanced drainage system", "Magnificent wall paintings (frescoes)", "No skeletons found (successful evacuation)", "Bronze Age settlement"],
     },
-    imageHint: "Archaeological excavation of the ancient town of Akrotiri", image: "/poi-images/greece-akrotiri-history-v2.webp"},
-  {
+imageHint: "Archaeological excavation of the ancient town of Akrotiri",
+    descriptionAdvanced: {
+      de: "Akrotiri auf Santorin war eine hochentwickelte bronzezeitliche Stadt, die um 1627 v. Chr. durch einen Vulkanausbruch unter Asche begraben und so für die Nachwelt konserviert wurde.",
+      hu: "Akrotiri egy virágzó bronzkori település volt Szantorini szigetén, amelyet egy hatalmas vulkánkitörés temetett hamu alá Kr. e. 1627 körül. A leletek miatt 'görög Pompejinek' hívják.",
+      ro: "Akrotiri, situat pe Santorini, a fost un oraș din Epoca Bronzului îngropat de cenușă vulcanică în jurul anului 1627 î.Hr. Conservarea excepțională i-a adus numele de 'Pompeiul Egeei'.",
+      en: "Akrotiri was a Minoan-influenced settlement on Santorini buried by a massive volcanic eruption around 1627 BC. The ash preserved multi-story buildings and vibrant frescoes.",
+    },
+    factsAdvanced: {
+      de: ["Ereignis: Minoische Eruption", "Zeitraum: ca. 1627 v. Chr.", "Spitzname: Pompeji der Ägäis", "Insel: Santorin (Thera)"],
+      hu: ["Esemény: minószi kitörés", "Dátum: Kr. e. 1627 körül", "Becenév: Az Égei-tenger Pompejije", "Sziget: Szantorini"],
+      ro: ["Eveniment: Erupția minoică", "Datare: cca. 1627 î.Hr.", "Supranume: Pompeiul Egeei", "Locație: Insula Thera"],
+      en: ["Event: Minoan eruption", "Date: c. 1627 BC", "Nickname: Pompeii of the Aegean", "Island: Santorini (Thera)"],
+    },
+    image: "/poi-images/greece-akrotiri-history-v2.webp",
+},  {
     id: "greece-arch-galerius-history-v2",
     type: "monument",
-    name: { de: "Galeriusbogen", hu: "Galériusz-diadalív", ro: "Arcul lui Galerius", en: "Arch of Galerius" },
+    name: { de: "Galeriusbogen", hu: "Galériusz-diadalív", ro: "Arcul lui Galerius", en: "Arch of Galerius",
+image: "/poi-images/greece-arch-galerius-history-v2.webp"
+},
     coords: [22.9525, 40.6331],
     coordinates: { lat: 40.6331, lng: 22.9525 },
     description: {
@@ -514,11 +905,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 300 d.Hr.", "Parte a cartierului palatului imperial", "Reliefurile arată scene de luptă", "Cunoscut local sub numele de 'Kamara'"],
       en: ["Built around 300 AD", "Part of the imperial palace complex", "Reliefs depict battle scenes", "Locally known as 'Kamara'"],
     },
-    imageHint: "The Arch of Galerius in Thessaloniki with stone reliefs", image: "/poi-images/greece-arch-galerius-history-v2.webp"},
-  {
+imageHint: "The Arch of Galerius in Thessaloniki with stone reliefs",
+    descriptionAdvanced: {
+      de: "Der Galeriusbogen in Thessaloniki wurde um 300 n. Chr. zur Feier des Sieges über die Perser errichtet. Die kunstvollen Reliefs zeigen Szenen des römischen Feldzugs gegen die Sassaniden.",
+      hu: "Galériusz diadalíve Szaloniki egyik legfontosabb római kori műemléke a 4. század elejéről. A kőfaragványok a császár perzsák feletti győzelmét és hadjáratait örökítik meg.",
+      ro: "Arcul lui Galerius din Salonic a fost ridicat în jurul anului 300 d.Hr. pentru a celebra victoria împăratului asupra perșilor sasanizi, fiind decorat cu reliefuri sculptate.",
+      en: "The Arch of Galerius in Thessaloniki was built around 300 AD to commemorate the Emperor's victory over the Sassanid Persians. Its pillars feature intricate narrative reliefs.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 298–303 n. Chr.", "Anlass: Sieg über Persien", "Standort: Thessaloniki", "Baumaterial: Ziegel und Marmor"],
+      hu: ["Építés ideje: Kr. u. 298–303", "Alkalom: perzsa győzelem", "Város: Szaloniki", "Anyag: tégla és márvány"],
+      ro: ["Datare: 298–303 d.Hr.", "Eveniment: victoria împotriva perșilor", "Locație: Salonic", "Material: cărămidă și marmură"],
+      en: ["Date: 298–303 AD", "Occasion: Sassanid victory", "City: Thessaloniki", "Material: Brick and marble"],
+    },
+    image: "/poi-images/greece-arch-galerius-history-v2.webp",
+},  {
     id: "greece-palamidi-fortress-history-v2",
     type: "castle",
-    name: { de: "Festung Palamidi", hu: "Palamídi erőd", ro: "Cetatea Palamidi", en: "Palamidi Fortress" },
+    name: { de: "Festung Palamidi", hu: "Palamídi erőd", ro: "Cetatea Palamidi", en: "Palamidi Fortress",
+image: "/poi-images/greece-palamidi-fortress-history-v2.webp"
+},
     coords: [22.8053, 37.5622],
     coordinates: { lat: 37.5622, lng: 22.8053 },
     description: {
@@ -533,11 +939,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["857 de trepte duc sus", "Construită între 1711 și 1714", "Formată din 8 bastioane", "A servit ca închisoare pentru Kolokotronis"],
       en: ["857 steps lead up to the top", "Built between 1711 and 1714", "Consists of 8 bastions", "Served as a prison for Greek hero Kolokotronis"],
     },
-    imageHint: "Bastions of the Palamidi fortress overlooking the sea", image: "/poi-images/greece-palamidi-fortress-history-v2.webp"},
-  {
+imageHint: "Bastions of the Palamidi fortress overlooking the sea",
+    descriptionAdvanced: {
+      de: "Die Palamidi-Festung thront 216 Meter über Nafplio. Sie wurde von den Venezianern in nur drei Jahren (1711–1714) erbaut und gilt als Meisterwerk des barocken Festungsbaus.",
+      hu: "A Palamidi erőd Nafplio városa felett, egy 216 méter magas sziklán áll. A velenceiek építették rekordidő alatt, 1711 és 1714 között, és híres a városból felvezető 999 lépcsőfokáról.",
+      ro: "Cetatea Palamidi domină orașul Nafplio de la o înălțime de 216 metri. Construită de venețieni între 1711 și 1714, este una dintre cele mai mari și bine conservate fortărețe baroce.",
+      en: "Palamidi Fortress towers 216m above Nafplio. Built by the Venetians between 1711 and 1714, it features eight bastions and is accessed via a famous staircase of nearly 1,000 steps.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 216 Meter", "Treppenstufen: ca. 999", "Bauzeit: 1711–1714", "Erbauer: Venezianer"],
+      hu: ["Szikla magassága: 216 méter", "Lépcsőfokok száma: kb. 999", "Építés ideje: 1711–1714", "Tervezők: velenceiek"],
+      ro: ["Înălțime: 216 metri", "Trepte: cca. 999", "Datare: 1711–1714", "Stil: baroc venețian"],
+      en: ["Altitude: 216 meters", "Steps: ~999", "Built: 1711–1714", "Architect: Venetian"],
+    },
+    image: "/poi-images/greece-palamidi-fortress-history-v2.webp",
+},  {
     id: "greece-salamis-battle-history-v2",
     type: "battlefield",
-    name: { de: "Schauplatz der Seeschlacht von Salamis", hu: "Szalamiszi tengeri csata helyszíne", ro: "Locul bătăliei de la Salamina", en: "Salamis Battlefield" },
+    name: { de: "Schauplatz der Seeschlacht von Salamis", hu: "Szalamiszi tengeri csata helyszíne", ro: "Locul bătăliei de la Salamina", en: "Salamis Battlefield",
+image: "/poi-images/greece-salamis-battle-history-v2.webp"
+},
     coords: [23.535, 37.9547],
     coordinates: { lat: 37.9547, lng: 23.535 },
     description: {
@@ -552,11 +973,26 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Victorie sub Temistocle", "Regele persan Xerxes a privit lupta", "Asigurarea libertății grecești", "Monument modern pe insulă"],
       en: ["Victory under Themistocles", "Persian King Xerxes watched the battle", "Secured Greek independence", "Modern monument on the island"],
     },
-    imageHint: "Monument of the battle of Salamis near the coast", image: "/poi-images/greece-salamis-battle-history-v2.webp"},
-  {
+imageHint: "Monument of the battle of Salamis near the coast",
+    descriptionAdvanced: {
+      de: "In der Seeschlacht von Salamis besiegten die Griechen 480 v. Chr. die persische Flotte. Der Sieg sicherte das Überleben der griechischen Kultur und legte den Grundstein für Attikas Macht.",
+      hu: "Kr. e. 480-ban a szalamiszi tengeri csatában a görög flotta Themisztoklész vezetésével tönverte a perzsa hajóhadat. Ez a győzelem mentette meg a görög demokráciát a perzsa hódítástól.",
+      ro: "Bătălia de la Salamina, din 480 î.Hr., a fost o confruntare navală decisivă în care flota greacă a învins-o pe cea persană, asigurând independența orașelor-stat grecești.",
+      en: "The Battle of Salamis in 480 BC was a naval conflict where the outnumbered Greek fleet defeated the Persian navy. This victory halted Xerxes' conquest of mainland Greece.",
+    },
+    factsAdvanced: {
+      de: ["Jahr der Schlacht: 480 v. Chr.", "Griechischer Führer: Themistokles", "Schiffstyp: Triremen", "Bedeutung: Rettung des Abendlandes"],
+      hu: ["Csata éve: Kr. e. 480", "Görög parancsnok: Themisztoklész", "Hajótípus: triérész", "Helyszín: Szalamisz-szoros"],
+      ro: ["Anul bătăliei: 480 î.Hr.", "Lider grec: Temistocle", "Tip navă: trirémă", "Urmare: retragerea perșilor"],
+      en: ["Battle year: 480 BC", "Greek strategist: Themistocles", "Ship type: Trireme", "Outcome: Persian retreat"],
+    },
+    image: "/poi-images/greece-salamis-battle-history-v2.webp",
+},  {
     id: "greece-samothrace-temple-history-v2",
     type: "ruins",
-    name: { de: "Heiligtum der Großen Götter (Samothrake)", hu: "Nagy Istenek szentélye (Szamothraké)", ro: "Sanctuarul Marilor Zei (Samothraki)", en: "Sanctuary of the Great Gods" },
+    name: { de: "Heiligtum der Großen Götter (Samothrake)", hu: "Nagy Istenek szentélye (Szamothraké)", ro: "Sanctuarul Marilor Zei (Samothraki)", en: "Sanctuary of the Great Gods",
+image: "/poi-images/greece-samothrace-temple-history-v2.webp"
+},
     coords: [25.5333, 40.4833],
     coordinates: { lat: 40.4833, lng: 25.5333 },
     description: {
@@ -572,5 +1008,17 @@ export const greeceHistoryV2: POI[] = [
       en: ["Finding place of the Nike (now in Louvre)", "Magnificent Arsinoeion building", "Cult important for seafarers", "Impressive location on a mountain slope"],
     },
     imageHint: "Ruins of the Sanctuary of the Great Gods in Samothrace",
+    descriptionAdvanced: {
+      de: "Das Heiligtum der Großen Götter auf Samothraki war das Zentrum eines mysteriösen Kults der Antike. Hier wurde die berühmte Statue der Nike von Samothrake gefunden.",
+      hu: "A Nagy Istenek szentélye Szamothraké szigetén az ókori világ egyik legfontosabb misztériumvallási központja volt. Innen származik a világhírű Szamothrakéi Niké szobra is.",
+      ro: "Sanctuarul Marilor Zei de pe insula Samothrace a fost centrul unui cult al misterelor antic. Aici a fost descoperită celebra statuie Nike din Samothrace, expusă acum la Luvru.",
+      en: "The Sanctuary of the Great Gods on Samothrace hosted a major Hellenistic mystery cult. It is the original site of the Winged Victory of Samothrace, now in the Louvre Museum.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Insel Samothraki", "Wichtigster Fund: Nike von Samothrake", "Kulttyp: Mysterienkult", "Blütezeit: Hellenismus"],
+      hu: ["Helyszín: Szamothraké szigete", "Híres lelet: Szamothrakéi Niké", "Vallás: misztériumkultusz", "Fénykor: hellenisztikus kor"],
+      ro: ["Locație: Insula Samothrace", "Descoperire: Nike din Samothrace", "Tip sit: sanctuar panelenic", "Epocă: Elenistică"],
+      en: ["Location: Samothrace Island", "Key find: Winged Victory", "Cult type: Mystery cult", "Era: Hellenistic peak"],
+    },
   }
 ];

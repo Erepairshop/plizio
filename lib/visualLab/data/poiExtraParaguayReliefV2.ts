@@ -10,8 +10,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Corá",
       hu: "Cerro Corá",
       ro: "Cerro Corá",
-      en: "Cerro Corá"
-    },
+      en: "Cerro Corá",
+image: "/poi-images/cerro-cora-relief-v2.webp"
+},
     description: {
       de: "Eine markante Hügelformation im Norden Paraguays, bekannt für ihre natürliche Schönheit und historische Bedeutung.",
       hu: "Jellegzetes dombképződmény Észak-Paraguayban, amely természeti szépségéről és történelmi jelentőségéről ismert.",
@@ -76,8 +77,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Peró",
       hu: "Cerro Peró",
       ro: "Cerro Peró",
-      en: "Cerro Peró"
-    },
+      en: "Cerro Peró",
+image: "/poi-images/cerro-pero-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Gipfel in Paraguay, Teil des Ybytyruzú-Gebirges.",
       hu: "Paraguay egyik legmagasabb csúcsa, az Ybytyruzú-hegység része.",
@@ -142,8 +144,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Tres Kandú",
       hu: "Cerro Tres Kandú",
       ro: "Cerro Tres Kandú",
-      en: "Cerro Tres Kandú"
-    },
+      en: "Cerro Tres Kandú",
+image: "/poi-images/cerro-tres-kandu-relief-v2.webp"
+},
     description: {
       de: "Der höchste Punkt in der Republik Paraguay, ein bedeutendes Ziel für Abenteurer.",
       hu: "A Paraguayi Köztársaság legmagasabb pontja, a kalandvágyók jelentős célpontja.",
@@ -208,8 +211,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Amambay-Gebirge",
       hu: "Amambay-hegység",
       ro: "Munții Amambay",
-      en: "Amambay Mountains"
-    },
+      en: "Amambay Mountains",
+image: "/poi-images/cordillera-de-amambay-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette im Nordosten Paraguays, die die Grenze zu Brasilien markiert.",
       hu: "Hegylánc Északkelet-Paraguayban, amely a Brazíliával közös határt jelöli.",
@@ -274,8 +278,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Caaguazú-Gebirge",
       hu: "Caaguazú-hegység",
       ro: "Munții Caaguazú",
-      en: "Caaguazú Mountains"
-    },
+      en: "Caaguazú Mountains",
+image: "/poi-images/cordillera-de-caaguazu-relief-v2.webp"
+},
     description: {
       de: "Ein zentrales Gebirgssystem in Paraguay, das als Wasserscheide zwischen verschiedenen Flussbecken fungiert.",
       hu: "Központi hegyrendszer Paraguayban, amely vízválasztóként szolgál a különböző folyómedencék között.",
@@ -341,8 +346,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Ybytyruzú-Gebirge",
       hu: "Ybytyruzú-hegység",
       ro: "Munții Ybytyruzú",
-      en: "Ybytyruzú Mountains"
-    },
+      en: "Ybytyruzú Mountains",
+image: "/poi-images/cordillera-del-ybytyruzu-relief-v2.webp"
+},
     description: {
       de: "Eine der markantesten Gebirgsketten Paraguays, Heimat der höchsten Gipfel des Landes.",
       hu: "Paraguay egyik legjellegzetesebb hegylánca, az ország legmagasabb csúcsainak otthona.",
@@ -407,8 +413,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "San-Rafael-Hügelland",
       hu: "San Rafael-dombság",
       ro: "Dealurile San Rafael",
-      en: "San Rafael Hills"
-    },
+      en: "San Rafael Hills",
+image: "/poi-images/serrania-de-san-rafael-relief-v2.webp"
+},
     description: {
       de: "Ein welliges Hügelgebiet im Süden Paraguays, Teil eines wichtigen ökologischen Korridors.",
       hu: "Hullámos dombvidék Dél-Paraguayban, egy fontos ökológiai folyosó része.",
@@ -474,8 +481,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Lambaré",
       hu: "Cerro Lambaré",
       ro: "Cerro Lambaré",
-      en: "Cerro Lambaré"
-    },
+      en: "Cerro Lambaré",
+image: "/poi-images/cerro-lambare-relief-v2.webp"
+},
     description: {
       de: "Ein historisch bedeutsamer Hügel am Ufer des Río Paraguay, südlich von Asunción.",
       hu: "Történelmi jelentőségű domb a Paraguay folyó partján, Asuncióntól délre.",
@@ -540,8 +548,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Amambay-Hügelland",
       hu: "Amambay-dombság",
       ro: "Serranía de Amambay",
-      en: "Amambay Hills"
-    },
+      en: "Amambay Hills",
+image: "/poi-images/serrania-de-amambay-relief-v2.webp"
+},
     description: {
       de: "Eine ausgedehnte Gebirgskette im Nordosten, bekannt für ihre charakteristischen Sandstein-Plateaus.",
       hu: "Kiterjedt hegylánc északkeleten, jellegzetes homokkő-fennsíkjairól ismert.",
@@ -607,8 +616,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Yaguarón",
       hu: "Cerro Yaguarón",
       ro: "Cerro Yaguarón",
-      en: "Cerro Yaguarón"
-    },
+      en: "Cerro Yaguarón",
+image: "/poi-images/cerro-yaguaron-relief-v2.webp"
+},
     description: {
       de: "Ein mystischer Hügel in der Region Paraguarí, tief verwurzelt in der Guaraní-Mythologie.",
       hu: "Misztikus domb Paraguarí régióban, amely mélyen gyökerezik a guarani mitológiában.",
@@ -674,8 +684,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Acahay",
       hu: "Cerro Acahay",
       ro: "Cerro Acahay",
-      en: "Cerro Acahay"
-    },
+      en: "Cerro Acahay",
+image: "/poi-images/cerro-acahay-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Hügel, der als erloschener Vulkan gilt und das Landschaftsbild von Paraguarí dominiert.",
       hu: "Jellegzetes domb, amelyet kialudt vulkánnak tartanak, és uralja Paraguarí tájképét.",
@@ -740,8 +751,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Memby",
       hu: "Cerro Memby",
       ro: "Cerro Memby",
-      en: "Cerro Memby"
-    },
+      en: "Cerro Memby",
+image: "/poi-images/cerro-memby-relief-v2.webp"
+},
     description: {
       de: "Ein markanter kegelförmiger Hügel im Norden, der als Orientierungspunkt für Reisende dient.",
       hu: "Jellegzetes kúp alakú domb északon, amely tájékozódási pontként szolgál az utazók számára.",
@@ -806,8 +818,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "San-Joaquín-Gebirge",
       hu: "San Joaquín-hegység",
       ro: "Munții San Joaquín",
-      en: "San Joaquín Mountains"
-    },
+      en: "San Joaquín Mountains",
+image: "/poi-images/serrania-de-san-joaquin-relief-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette im Departement Caaguazú, bekannt für ihre sanften Kurven und fruchtbaren Hänge.",
       hu: "Hegylánc Caaguazú megyében, amely lágy kanyarulatairól és termékeny lejtőiről ismert.",
@@ -873,8 +886,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Altos-Gebirge",
       hu: "Altos-hegység",
       ro: "Munții Altos",
-      en: "Altos Mountains"
-    },
+      en: "Altos Mountains",
+image: "/poi-images/cordillera-de-los-altos-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug in der Nähe von Asunción, der den Übergang zur Cordillera-Region markiert.",
       hu: "Hegylánc Asunción közelében, amely a Cordillera régióba való átmenetet jelöli.",
@@ -939,8 +953,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro León",
       hu: "Cerro León",
       ro: "Cerro León",
-      en: "Cerro León"
-    },
+      en: "Cerro León",
+image: "/poi-images/cerro-leon-relief-v2.webp"
+},
     description: {
       de: "Ein Gebirgsmassiv im tiefen Chaco, ein wahrer Gigant in der flachen Savanne.",
       hu: "Hegymasszívum a Chaco mélyén, igazi óriás a sík szavannán.",
@@ -1005,8 +1020,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Cerro Mbatoví",
       hu: "Cerro Mbatoví",
       ro: "Cerro Mbatoví",
-      en: "Cerro Mbatoví"
-    },
+      en: "Cerro Mbatoví",
+image: "/poi-images/cerro-mbatovi-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Hügel in Paraguarí, bekannt for sein Öko-Abenteuer-Reservat.",
       hu: "Jellegzetes domb Paraguaríban, öko-kaland rezervátumáról ismert.",
@@ -1071,8 +1087,9 @@ export const poiExtraParaguayReliefV2: POI[] = [
       de: "Caapucú-Hügelland",
       hu: "Caapucú-dombság",
       ro: "Dealurile Caapucú",
-      en: "Caapucú Hills"
-    },
+      en: "Caapucú Hills",
+image: "/poi-images/serrania-de-caapucu-relief-v2.webp"
+},
     description: {
       de: "Ein zerklüftetes Hügelgebiet im Süden von Paraguarí, reich an Granit-Formationen.",
       hu: "Tagolt dombvidék Paraguarí déli részén, gránitképződményekben gazdag.",

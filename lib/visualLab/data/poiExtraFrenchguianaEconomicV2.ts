@@ -16,8 +16,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Hafen Larivot bei Matoury ist einer der bedeutendsten Umschlagplätze für Fischerei und maritime Logistik in Französisch-Guayana. Er spielt eine zentrale Rolle für die Versorgung der lokalen Märkte mit frischen Meeresfrüchten und unterstützt die maritime Infrastruktur der Region. Die Anlage zeichnet sich durch moderne Hafenanlagen aus, die speziell auf die Anforderungen der tropischen Küstengewässer und der intensiven Fischereiaktivitäten ausgelegt sind. Neben der logistischen Bedeutung dient der Hafen auch als Basis für kleine und mittlere maritime Unternehmen, die die lokale Wirtschaft stärken. Durch seine strategische Lage unweit der Hauptstadt Cayenne ist der Hafen optimal in das Verkehrsnetz eingebunden. Wirtschaft K8 — maritime Logistik und regionale Fischereiwirtschaft.",
       hu: "A matoury-i Larivot halászkikötő Francia Guyana tengeri gazdaságának és logisztikájának egyik legfontosabb központja. A létesítmény alapvető szerepet játszik a helyi piacok friss tengeri élelmiszerrel való ellátásában, miközben modern infrastruktúrájával támogatja a régió tengeri iparágait. A kikötő különösen a garnélarák-halászatban játszik meghatározó szerepet, a fogásokat itt dolgozzák fel és készítik elő a nemzetközi exportra. A Cayenne-hez való közelsége révén optimálisan illeszkedik a régió közlekedési hálózatába, biztosítva a gyors és hatékony áruforgalmat. Gazdaság K8 — tengeri logisztika és regionális halászat.",
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-port-larivot-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     },
@@ -52,8 +53,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Hafen Pariacabo in Kourou ist ein strategisch unverzichtbarer Standort, der primär der Logistik für das Raumfahrtzentrum CSG (Centre Spatial Guyanais) dient. Da Kourou das Hauptzentrum für europäische Raketenstarts ist, fungiert dieser Hafen als Anlaufstelle für den Import riesiger Komponenten und spezialisierter Ausrüstung. Die logistische Präzision in Pariacabo ist ein entscheidender Faktor für den Erfolg internationaler Raumfahrtmissionen von europäischem Boden in Südamerika. Die gesamte Infrastruktur ist auf Schwerguttransporte und die Sicherheit hochsensibler Fracht ausgelegt. Er ist somit nicht nur ein gewerblicher Hafen, sondern ein technisches Rückgrat der globalen Raumfahrtindustrie. Wirtschaft K9 — Raumfahrtlogistik und internationale Exportwirtschaft.",
       hu: "A kourou-i Pariacabo kikötő Francia Guyana gazdaságának egyik legmeghatározóbb, stratégiai jelentőségű infrastruktúrája, amely elsősorban a Kourou Űrközpont (Centre Spatial Guyanais) logisztikai igényeit szolgálja. Mivel innen indulnak az európai űrkutatási missziók, a kikötő kulcsfontosságú az óriási rakétaalkatrészek és speciális eszközök fogadásában és biztonságos továbbításában. A létesítmény teljes egészében a nehézgép-szállításra és a rendkívül érzékeny rakományok kezelésére lett tervezve. Pariacabo így nem csupán egy kereskedelmi kikötő, hanem a globális űripar technikai és logisztikai bázisa is. Gazdaság K9 — űrlogisztika és nemzetközi exportgazdaság.",
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-port-pariacabo-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     },
@@ -87,8 +89,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       de: "Die Industriezone Pariacabo (Zone Industrielle Pariacabo) in Kourou ist das wirtschaftliche Herz der Stadt und eng mit der Präsenz des Raumfahrtzentrums verbunden. Hier finden zahlreiche Unternehmen Platz, die Wartungs-, Ingenieurs- und Logistikdienstleistungen für die umliegende Industrie erbringen. Die Ansiedlung von spezialisierten Betrieben fördert die lokale Beschäftigung und sorgt für einen regen technologischen Austausch in der Region. Als Zentrum der gewerblichen Tätigkeit in Kourou zieht die Zone Unternehmen an, die von der Nähe zur globalen Raumfahrttechnologie profitieren wollen. Durch ihre infrastrukturelle Erschließung bildet sie die Basis für viele Dienstleistungen, die den reibungslosen Betrieb in der gesamten Gemeinde ermöglichen. Wirtschaft K8 — technologische Gewerbeansiedlung und lokale Arbeitsplätze.",
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-zi-pariacabo-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     },
@@ -120,8 +123,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Collery Industrial Park"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-zi-collery-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -152,8 +156,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Dégrad des Cannes Industrial Zone"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-zi-degrad-cannes-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -184,8 +189,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Saint-Laurent River Port"
     ,
     descriptionAdvanced: {
-      ro: "Saint-Laurent-du-Maroni este un oraș istoric situat pe malul stâng al râului Maroni, care marchează granița naturală cu Suriname. Orașul este celebru în întreaga lume pentru situl \"Camp de la Transportation\", o fostă colonie penală impresionant de bine conservată, care atestă o perioadă dificilă din istoria colonială franceză. Astăzi, localitatea este un centru multicultural vibrant, unde diverse comunități etnice, inclusiv maronii și populațiile indigene, trăiesc într-o armonie dinamică. Arhitectura colonială se împletește perfect cu vegetația tropicală luxuriantă, oferind vizitatorilor o experiență autentică la marginea pădurii amazoniene. Istorie K8 — sisteme coloniale de închisoare și regiuni de frontieră."
-    },
+      ro: "Saint-Laurent-du-Maroni este un oraș istoric situat pe malul stâng al râului Maroni, care marchează granița naturală cu Suriname. Orașul este celebru în întreaga lume pentru situl \"Camp de la Transportation\", o fostă colonie penală impresionant de bine conservată, care atestă o perioadă dificilă din istoria colonială franceză. Astăzi, localitatea este un centru multicultural vibrant, unde diverse comunități etnice, inclusiv maronii și populațiile indigene, trăiesc într-o armonie dinamică. Arhitectura colonială se împletește perfect cu vegetația tropicală luxuriantă, oferind vizitatorilor o experiență autentică la marginea pădurii amazoniene. Istorie K8 — sisteme coloniale de închisoare și regiuni de frontieră.",
+image: "/poi-images/gf-port-saint-laurent-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["A servit drept centru principal de primire pentru sistemul penitenciar francez.", "Camp de la Transportation este una dintre cele mai bine conservate închisori coloniale.", "Poziția sa pe râul Maroni îl face un nod important de schimburi comerciale transfrontaliere.", "Comunitatea locală prezintă o diversitate etnică remarcabilă.", "Saint-Laurent este al doilea oraș ca mărime din Guyana Franceză.", "Arhitectura sa păstrează amprenta administrativă colonială a secolului al XIX-lea."]
     }
@@ -216,8 +222,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Saint-Laurent Timber Industry"
     ,
     descriptionAdvanced: {
-      ro: "Saint-Laurent-du-Maroni este un oraș istoric situat pe malul stâng al râului Maroni, care marchează granița naturală cu Suriname. Orașul este celebru în întreaga lume pentru situl \"Camp de la Transportation\", o fostă colonie penală impresionant de bine conservată, care atestă o perioadă dificilă din istoria colonială franceză. Astăzi, localitatea este un centru multicultural vibrant, unde diverse comunități etnice, inclusiv maronii și populațiile indigene, trăiesc într-o armonie dinamică. Arhitectura colonială se împletește perfect cu vegetația tropicală luxuriantă, oferind vizitatorilor o experiență autentică la marginea pădurii amazoniene. Istorie K8 — sisteme coloniale de închisoare și regiuni de frontieră."
-    },
+      ro: "Saint-Laurent-du-Maroni este un oraș istoric situat pe malul stâng al râului Maroni, care marchează granița naturală cu Suriname. Orașul este celebru în întreaga lume pentru situl \"Camp de la Transportation\", o fostă colonie penală impresionant de bine conservată, care atestă o perioadă dificilă din istoria colonială franceză. Astăzi, localitatea este un centru multicultural vibrant, unde diverse comunități etnice, inclusiv maronii și populațiile indigene, trăiesc într-o armonie dinamică. Arhitectura colonială se împletește perfect cu vegetația tropicală luxuriantă, oferind vizitatorilor o experiență autentică la marginea pădurii amazoniene. Istorie K8 — sisteme coloniale de închisoare și regiuni de frontieră.",
+image: "/poi-images/gf-sawmills-saint-laurent-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["A servit drept centru principal de primire pentru sistemul penitenciar francez.", "Camp de la Transportation este una dintre cele mai bine conservate închisori coloniale.", "Poziția sa pe râul Maroni îl face un nod important de schimburi comerciale transfrontaliere.", "Comunitatea locală prezintă o diversitate etnică remarcabilă.", "Saint-Laurent este al doilea oraș ca mărime din Guyana Franceză.", "Arhitectura sa păstrează amprenta administrativă colonială a secolului al XIX-lea."]
     }
@@ -248,8 +255,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Montagne d'Or Gold Project"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-montagne-dor-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -280,8 +288,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Espérance Gold Mine"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-mine-esperance-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -312,8 +321,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Dieu Merci Mine"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-mine-dieu-merci-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -344,8 +354,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Yaou Gold Mine"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-mine-yaou-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -376,8 +387,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Dorlin Gold Field"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-mine-dorlin-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -408,8 +420,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Ariane Final Assembly Building"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-csg-baf-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -440,8 +453,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Ariane 5 Launch Pad (ELA-3)"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-ela3-launchpad-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -472,8 +486,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Ariane 6 Launch Complex (ELA-4)"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-ela4-launchpad-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -504,8 +519,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Vega Launch Pad (ELV)"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-elv-launchpad-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -536,8 +552,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Soyuz Launch Facility (ELS)"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-els-launchpad-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -568,8 +585,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Air Liquide Plant Kourou"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă."
-    },
+      ro: "Acest obiectiv este parte integrantă a infrastructurii economice din Guyana Franceză, contribuind la dezvoltarea regiunii prin activități specifice sectorului maritim sau industrial. Locația sa strategică și dotările tehnice moderne subliniază importanța sa în cadrul departamentului. Gazdă a unor operațiuni esențiale, facilitează schimburile și producția necesară sustenabilității locale. Infrastructura sa este adaptată condițiilor tropicale și rigorilor franceze, fiind un punct cheie în economia Guyanei. Economie K8 — infrastructură regională și logistică maritimă.",
+image: "/poi-images/gf-air-liquide-kourou-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Contribuie direct la dezvoltarea economică a departamentului Guyana Franceză.", "Infrastructură adaptată pentru operațiuni în mediu tropical.", "Punct cheie în rețeaua logistică locală sau regională.", "Respectă standardele de funcționare franceze.", "Facilitează operațiuni industriale esențiale pentru zonă.", "Rol activ în susținerea forței de muncă locale."]
     }
@@ -600,8 +618,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Solid Propellant Plant (UPG)"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională."
-    },
+      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
+image: "/poi-images/gf-upg-propellant-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Jucător esențial în dezvoltarea economică a Guyanei Franceze.", "Infrastructură modernă adaptată rigorilor climatice tropicale.", "Punct strategic în rețeaua logistică sau industrială a regiunii.", "Respectă normele franceze de siguranță și eficiență.", "Contribuie la modernizarea sectorului industrial local.", "Susține dezvoltarea forței de muncă calificate în departament."]
     }
@@ -632,8 +651,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Kourou Biomass Power Plant"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională."
-    },
+      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
+image: "/poi-images/gf-kourou-biomass-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Jucător esențial în dezvoltarea economică a Guyanei Franceze.", "Infrastructură modernă adaptată rigorilor climatice tropicale.", "Punct strategic în rețeaua logistică sau industrială a regiunii.", "Respectă normele franceze de siguranță și eficiență.", "Contribuie la modernizarea sectorului industrial local.", "Susține dezvoltarea forței de muncă calificate în departament."]
     }
@@ -664,8 +684,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Cacao Energy Facility"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională."
-    },
+      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
+image: "/poi-images/gf-cacao-biomass-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Jucător esențial în dezvoltarea economică a Guyanei Franceze.", "Infrastructură modernă adaptată rigorilor climatice tropicale.", "Punct strategic în rețeaua logistică sau industrială a regiunii.", "Respectă normele franceze de siguranță și eficiență.", "Contribuie la modernizarea sectorului industrial local.", "Susține dezvoltarea forței de muncă calificate în departament."]
     }
@@ -696,8 +717,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Saint-Georges River Port"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională."
-    },
+      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
+image: "/poi-images/gf-port-saint-georges-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Jucător esențial în dezvoltarea economică a Guyanei Franceze.", "Infrastructură modernă adaptată rigorilor climatice tropicale.", "Punct strategic în rețeaua logistică sau industrială a regiunii.", "Respectă normele franceze de siguranță și eficiență.", "Contribuie la modernizarea sectorului industrial local.", "Susține dezvoltarea forței de muncă calificate în departament."]
     }
@@ -728,8 +750,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       en: "Port of Maripasoula"
     ,
     descriptionAdvanced: {
-      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională."
-    },
+      ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
+image: "/poi-images/gf-port-maripasoula-economic-v2.webp"
+},
     factsAdvanced: {
       ro: ["Jucător esențial în dezvoltarea economică a Guyanei Franceze.", "Infrastructură modernă adaptată rigorilor climatice tropicale.", "Punct strategic în rețeaua logistică sau industrială a regiunii.", "Respectă normele franceze de siguranță și eficiență.", "Contribuie la modernizarea sectorului industrial local.", "Susține dezvoltarea forței de muncă calificate în departament."]
     }
@@ -761,8 +784,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf port grand santi economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf port grand santi economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-port-grand-santi-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -795,8 +819,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf port sinnamary economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf port sinnamary economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-port-sinnamary-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -829,8 +854,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf ecoparc matoury economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf ecoparc matoury economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-ecoparc-matoury-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -864,8 +890,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf mana rice mills economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf mana rice mills economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-mana-rice-mills-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -898,8 +925,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf roura logging economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf roura logging economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-roura-logging-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -932,8 +960,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf gold refinery cayenne economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf gold refinery cayenne economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-gold-refinery-cayenne-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },
@@ -966,8 +995,9 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv reprezintă o componentă vitală a peisajului economic și industrial din Guyana Franceză. Prin activitățile sale, joacă un rol esențial în consolidarea sectorului maritim sau tehnologic, adaptându-se la condițiile unice ale regiunii amazonice. Infrastructura sa modernă, aliniată la standardele franceze, asigură eficiența necesară în procesele logistice sau de producție, susținând totodată creșterea economică și crearea de oportunități pentru comunitatea locală. Impactul său asupra economiei regionale subliniază importanța investițiilor în sectoare cheie pentru viitorul departamentului. Economie K8 — dezvoltare industrială și logistică regională.",
-      en: "The region surrounding gf zi macouria economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
-    },
+      en: "The region surrounding gf zi macouria economic v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
+image: "/poi-images/gf-zi-macouria-economic-v2.webp"
+},
     factsAdvanced: {
       en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
     },

@@ -8,7 +8,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-11",
     coords: [-68.7080, 18.6152],
-    name: { de: "Higüey", hu: "Higüey", ro: "Higüey", en: "Higüey" },
+    name: { de: "Higüey", hu: "Higüey", ro: "Higüey", en: "Higüey",
+image: "/poi-images/do-higuey-cities-v2.webp"
+},
     description: {
       de: "Eine geschäftige Stadt im Osten, bekannt für die Basílica de Higüey.",
       hu: "Forgalmas keleti város, amely a Higüey-i bazilikáról ismert.",
@@ -38,7 +40,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-21",
     coords: [-70.1035, 18.4217],
-    name: { de: "San Cristóbal", hu: "San Cristóbal", ro: "San Cristóbal", en: "San Cristóbal" },
+    name: { de: "San Cristóbal", hu: "San Cristóbal", ro: "San Cristóbal", en: "San Cristóbal",
+image: "/poi-images/do-san-cristobal-cities-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutsame Stadt, Geburtsort des Diktators Trujillo.",
       hu: "Történelmileg jelentős város, Trujillo diktátor szülőhelye.",
@@ -56,7 +60,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-06",
     coords: [-70.2528, 19.3008],
-    name: { de: "San Francisco de Macorís", hu: "San Francisco de Macorís", ro: "San Francisco de Macorís", en: "San Francisco de Macorís" },
+    name: { de: "San Francisco de Macorís", hu: "San Francisco de Macorís", ro: "San Francisco de Macorís", en: "San Francisco de Macorís",
+image: "/poi-images/do-san-francisco-de-macoris-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Stadt im Cibao-Tal, Zentrum für Landwirtschaft und Handel.",
       hu: "Fontos város a Cibao-völgyben, a mezőgazdaság és a kereskedelem központja.",
@@ -74,7 +80,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-13",
     coords: [-70.5292, 19.2239],
-    name: { de: "Concepción de La Vega", hu: "Concepción de La Vega", ro: "Concepción de La Vega", en: "Concepción de La Vega" },
+    name: { de: "Concepción de La Vega", hu: "Concepción de La Vega", ro: "Concepción de La Vega", en: "Concepción de La Vega",
+image: "/poi-images/do-concepcion-de-la-vega-cities-v2.webp"
+},
     description: {
       de: "Berühmt für seinen farbenprächtigen und lebhaften jährlichen Karneval.",
       hu: "Híres a színes és élénk éves karneváljáról.",
@@ -92,7 +100,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-23",
     coords: [-69.3087, 18.4552],
-    name: { de: "San Pedro de Macorís", hu: "San Pedro de Macorís", ro: "San Pedro de Macorís", en: "San Pedro de Macorís" },
+    name: { de: "San Pedro de Macorís", hu: "San Pedro de Macorís", ro: "San Pedro de Macorís", en: "San Pedro de Macorís",
+image: "/poi-images/do-san-pedro-de-macoris-cities-v2.webp"
+},
     description: {
       de: "Bekannt als 'Die Sultana des Ostens' und Wiege vieler Baseballspieler.",
       hu: "A 'Kelet szultánájaként' ismert, és számos baseballjátékos bölcsője.",
@@ -110,7 +120,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-09",
     coords: [-70.5250, 19.3953],
-    name: { de: "Moca", hu: "Moca", ro: "Moca", en: "Moca" },
+    name: { de: "Moca", hu: "Moca", ro: "Moca", en: "Moca",
+image: "/poi-images/do-moca-cities-v2.webp"
+},
     description: {
       de: "Bekannt als 'La Villa Heroica' wegen seiner Rolle in der dominikanischen Geschichte.",
       hu: "A 'La Villa Heroica'-ként ismert a dominikai történelemben betöltött szerepe miatt.",
@@ -128,7 +140,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-18",
     coords: [-70.4074, 18.9363],
-    name: { de: "Bonao", hu: "Bonao", ro: "Bonao", en: "Bonao" },
+    name: { de: "Bonao", hu: "Bonao", ro: "Bonao", en: "Bonao",
+image: "/poi-images/do-bonao-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Herzen des Landes, umgeben von Bergen.",
       hu: "Város az ország szívében, hegyekkel körülvéve.",
@@ -146,7 +160,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-01",
     coords: [-70.7333, 18.4500],
-    name: { de: "Azua de Compostela", hu: "Azua de Compostela", ro: "Azua de Compostela", en: "Azua de Compostela" },
+    name: { de: "Azua de Compostela", hu: "Azua de Compostela", ro: "Azua de Compostela", en: "Azua de Compostela",
+image: "/poi-images/do-azua-de-compostela-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte des Landes, gegründet von Diego Velázquez.",
       hu: "Az ország egyik legrégebbi városa, amelyet Diego Velázquez alapított.",
@@ -164,7 +180,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-26",
     coords: [-71.0783, 19.5519],
-    name: { de: "Mao", hu: "Mao", ro: "Mao", en: "Mao" },
+    name: { de: "Mao", hu: "Mao", ro: "Mao", en: "Mao",
+image: "/poi-images/do-mao-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Stadt der schönen Sonnenuntergänge'.",
       hu: "A 'gyönyörű naplementék városaként' ismert.",
@@ -182,7 +200,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-24",
     coords: [-70.1495, 19.0527],
-    name: { de: "Cotuí", hu: "Cotuí", ro: "Cotuí", en: "Cotuí" },
+    name: { de: "Cotuí", hu: "Cotuí", ro: "Cotuí", en: "Cotuí",
+image: "/poi-images/do-cotui-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte Amerikas, bekannt für ihre Goldminen.",
       hu: "Amerika egyik legrégebbi városa, amely aranybányáiról ismert.",
@@ -200,7 +220,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-14",
     coords: [-69.8475, 19.3835],
-    name: { de: "Nagua", hu: "Nagua", ro: "Nagua", en: "Nagua" },
+    name: { de: "Nagua", hu: "Nagua", ro: "Nagua", en: "Nagua",
+image: "/poi-images/do-nagua-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt an der Nordostküste des Landes.",
       hu: "Part menti város az ország északkeleti partján.",
@@ -218,7 +240,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-10",
     coords: [-69.2555, 18.7656],
-    name: { de: "Hato Mayor del Rey", hu: "Hato Mayor del Rey", ro: "Hato Mayor del Rey", en: "Hato Mayor del Rey" },
+    name: { de: "Hato Mayor del Rey", hu: "Hato Mayor del Rey", ro: "Hato Mayor del Rey", en: "Hato Mayor del Rey",
+image: "/poi-images/do-hato-mayor-del-rey-cities-v2.webp"
+},
     description: {
       de: "Bekannt für seine Viehzucht und Orangenproduktion.",
       hu: "Ismert a szarvasmarha-tenyésztéséről és narancstermeléséről.",
@@ -236,7 +260,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-13",
     coords: [-70.6385, 19.0858],
-    name: { de: "Jarabacoa", hu: "Jarabacoa", ro: "Jarabacoa", en: "Jarabacoa" },
+    name: { de: "Jarabacoa", hu: "Jarabacoa", ro: "Jarabacoa", en: "Jarabacoa",
+image: "/poi-images/do-jarabacoa-cities-v2.webp"
+},
     description: {
       de: "Bekannt als die 'Stadt des ewigen Frühlings' in den Bergen.",
       hu: "Az 'örök tavasz városaként' ismert a hegyekben.",
@@ -254,7 +280,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-22",
     coords: [-71.2294, 18.8058],
-    name: { de: "San Juan de la Maguana", hu: "San Juan de la Maguana", ro: "San Juan de la Maguana", en: "San Juan de la Maguana" },
+    name: { de: "San Juan de la Maguana", hu: "San Juan de la Maguana", ro: "San Juan de la Maguana", en: "San Juan de la Maguana",
+image: "/poi-images/do-san-juan-de-la-maguana-cities-v2.webp"
+},
     description: {
       de: "Wichtiges landwirtschaftliches Zentrum im Westen des Landes.",
       hu: "Fontos mezőgazdasági központ az ország nyugati részén.",
@@ -272,7 +300,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-03",
     coords: [-71.1008, 18.2085],
-    name: { de: "Barahona", hu: "Barahona", ro: "Barahona", en: "Barahona" },
+    name: { de: "Barahona", hu: "Barahona", ro: "Barahona", en: "Barahona",
+image: "/poi-images/do-barahona-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt im Südwesten, bekannt als 'Die Perle des Südens'.",
       hu: "Part menti város délnyugaton, a 'dél gyöngyeként' ismert.",
@@ -290,7 +320,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-05",
     coords: [-71.7088, 19.5492],
-    name: { de: "Dajabón", hu: "Dajabón", ro: "Dajabón", en: "Dajabón" },
+    name: { de: "Dajabón", hu: "Dajabón", ro: "Dajabón", en: "Dajabón",
+image: "/poi-images/do-dajabon-cities-v2.webp"
+},
     description: {
       de: "Eine Grenzstadt zu Haiti mit einem wichtigen binationalen Markt.",
       hu: "Határváros Haitival, fontos kétnemzeti piaccal.",
@@ -308,7 +340,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-15",
     coords: [-71.6467, 19.8525],
-    name: { de: "San Fernando de Monte Cristi", hu: "San Fernando de Monte Cristi", ro: "San Fernando de Monte Cristi", en: "San Fernando de Monte Cristi" },
+    name: { de: "San Fernando de Monte Cristi", hu: "San Fernando de Monte Cristi", ro: "San Fernando de Monte Cristi", en: "San Fernando de Monte Cristi",
+image: "/poi-images/do-monte-cristi-cities-v2.webp"
+},
     description: {
       de: "Eine historische Stadt im Nordwesten mit viktorianischer Architektur.",
       hu: "Történelmi város északnyugaton, viktoriánus építészettel.",
@@ -326,7 +360,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-02",
     coords: [-71.4217, 18.4852],
-    name: { de: "Neiba", hu: "Neiba", ro: "Neiba", en: "Neiba" },
+    name: { de: "Neiba", hu: "Neiba", ro: "Neiba", en: "Neiba",
+image: "/poi-images/do-neiba-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Hoya de Enriquillo Tal, bekannt für Weinanbau.",
       hu: "Város a Hoya de Enriquillo-völgyben, amely szőlőtermesztéséről ismert.",
@@ -344,7 +380,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-08",
     coords: [-69.0401, 18.7656],
-    name: { de: "Santa Cruz de El Seibo", hu: "Santa Cruz de El Seibo", ro: "Santa Cruz de El Seibo", en: "Santa Cruz de El Seibo" },
+    name: { de: "Santa Cruz de El Seibo", hu: "Santa Cruz de El Seibo", ro: "Santa Cruz de El Seibo", en: "Santa Cruz de El Seibo",
+image: "/poi-images/do-el-seibo-cities-v2.webp"
+},
     description: {
       de: "Eine der ältesten Städte des Landes mit einer langen Tradition im Stierkampf.",
       hu: "Az ország egyik legrégebbi városa, amely hosszú bikaviadal-hagyományokkal rendelkezik.",
@@ -362,7 +400,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-16",
     coords: [-71.7445, 18.0375],
-    name: { de: "Pedernales", hu: "Pedernales", ro: "Pedernales", en: "Pedernales" },
+    name: { de: "Pedernales", hu: "Pedernales", ro: "Pedernales", en: "Pedernales",
+image: "/poi-images/do-pedernales-cities-v2.webp"
+},
     description: {
       de: "Eine Grenzstadt im äußersten Südwesten, nahe unberührter Strände.",
       hu: "Határváros a legdélnyugatibb csücsökben, érintetlen strandok közelében.",
@@ -380,7 +420,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-12",
     coords: [-71.8518, 18.4907],
-    name: { de: "Jimaní", hu: "Jimaní", ro: "Jimaní", en: "Jimaní" },
+    name: { de: "Jimaní", hu: "Jimaní", ro: "Jimaní", en: "Jimaní",
+image: "/poi-images/do-jimani-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Grenzstadt am Ufer des Enriquillo-Sees.",
       hu: "Fontos határváros az Enriquillo-tó partján.",
@@ -398,7 +440,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-20",
     coords: [-69.5429, 19.3130],
-    name: { de: "Las Terrenas", hu: "Las Terrenas", ro: "Las Terrenas", en: "Las Terrenas" },
+    name: { de: "Las Terrenas", hu: "Las Terrenas", ro: "Las Terrenas", en: "Las Terrenas",
+image: "/poi-images/do-las-terrenas-cities-v2.webp"
+},
     description: {
       de: "Ein ehemaliges Fischerdorf, das sich zu einem kosmopolitischen Touristenzentrum entwickelt hat.",
       hu: "Egykori halászfalu, amely kozmopolita turisztikai központtá fejlődött.",
@@ -416,7 +460,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-21",
     coords: [-70.0333, 18.4167],
-    name: { de: "Bajos de Haina", hu: "Bajos de Haina", ro: "Bajos de Haina", en: "Bajos de Haina" },
+    name: { de: "Bajos de Haina", hu: "Bajos de Haina", ro: "Bajos de Haina", en: "Bajos de Haina",
+image: "/poi-images/do-bajos-de-haina-cities-v2.webp"
+},
     description: {
       de: "Eine wichtige Hafen- und Industriestadt westlich von Santo Domingo.",
       hu: "Fontos kikötő- és iparváros Santo Domingótól nyugatra.",
@@ -434,7 +480,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-21",
     coords: [-70.1733, 18.6744],
-    name: { de: "Villa Altagracia", hu: "Villa Altagracia", ro: "Villa Altagracia", en: "Villa Altagracia" },
+    name: { de: "Villa Altagracia", hu: "Villa Altagracia", ro: "Villa Altagracia", en: "Villa Altagracia",
+image: "/poi-images/do-villa-altagracia-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt zwischen Santo Domingo und Bonao, umgeben von Hügeln.",
       hu: "Város Santo Domingo és Bonao között, dombokkal körülvéve.",
@@ -452,7 +500,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-19",
     coords: [-70.4183, 19.3775],
-    name: { de: "Salcedo", hu: "Salcedo", ro: "Salcedo", en: "Salcedo" },
+    name: { de: "Salcedo", hu: "Salcedo", ro: "Salcedo", en: "Salcedo",
+image: "/poi-images/do-salcedo-cities-v2.webp"
+},
     description: {
       de: "Heimatstadt der Mirabal-Schwestern, Symbole des Widerstands.",
       hu: "A Mirabal nővérek szülővárosa, az ellenállás szimbólumai.",
@@ -470,7 +520,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-17",
     coords: [-70.5058, 18.5445],
-    name: { de: "San José de Ocoa", hu: "San José de Ocoa", ro: "San José de Ocoa", en: "San José de Ocoa" },
+    name: { de: "San José de Ocoa", hu: "San José de Ocoa", ro: "San José de Ocoa", en: "San José de Ocoa",
+image: "/poi-images/do-san-jose-de-ocoa-cities-v2.webp"
+},
     description: {
       de: "Eine Bergstadt, bekannt für ihr kühles Klima und ihre Landwirtschaft.",
       hu: "Hegyvidéki város, amely hűvös éghajlatáról és mezőgazdaságáról ismert.",
@@ -488,7 +540,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-10",
     coords: [-69.3888, 19.0567],
-    name: { de: "Sabana de la Mar", hu: "Sabana de la Mar", ro: "Sabana de la Mar", en: "Sabana de la Mar" },
+    name: { de: "Sabana de la Mar", hu: "Sabana de la Mar", ro: "Sabana de la Mar", en: "Sabana de la Mar",
+image: "/poi-images/do-sabana-de-la-mar-cities-v2.webp"
+},
     description: {
       de: "Eine Hafenstadt an der Bucht von Samaná, Tor zum Nationalpark Los Haitises.",
       hu: "Kikötőváros a Samaná-öbölben, a Los Haitises Nemzeti Park kapuja.",
@@ -506,7 +560,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-28",
     coords: [-69.7850, 18.8050],
-    name: { de: "Monte Plata", hu: "Monte Plata", ro: "Monte Plata", en: "Monte Plata" },
+    name: { de: "Monte Plata", hu: "Monte Plata", ro: "Monte Plata", en: "Monte Plata",
+image: "/poi-images/do-monte-plata-cities-v2.webp"
+},
     description: {
       de: "Hauptstadt der gleichnamigen Provinz, gegründet durch Umsiedlung.",
       hu: "Az azonos nevű tartomány fővárosa, amelyet áttelepítéssel alapítottak.",
@@ -524,7 +580,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-32",
     coords: [-69.6000, 18.4500],
-    name: { de: "Boca Chica", hu: "Boca Chica", ro: "Boca Chica", en: "Boca Chica" },
+    name: { de: "Boca Chica", hu: "Boca Chica", ro: "Boca Chica", en: "Boca Chica",
+image: "/poi-images/do-boca-chica-cities-v2.webp"
+},
     description: {
       de: "Ein beliebter Strandort in der Nähe von Santo Domingo mit einem großen Korallenriff.",
       hu: "Népszerű tengerparti üdülőhely Santo Domingo közelében, nagy korallzátonnyal.",
@@ -542,7 +600,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-14",
     coords: [-69.9042, 19.6417],
-    name: { de: "Cabrera", hu: "Cabrera", ro: "Cabrera", en: "Cabrera" },
+    name: { de: "Cabrera", hu: "Cabrera", ro: "Cabrera", en: "Cabrera",
+image: "/poi-images/do-cabrera-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Küstenstadt an der Nordküste, bekannt für ihre Klippen.",
       hu: "Festői tengerparti város az északi parton, szikláiról ismert.",
@@ -560,7 +620,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-14",
     coords: [-70.0783, 19.6444],
-    name: { de: "Río San Juan", hu: "Río San Juan", ro: "Río San Juan", en: "Río San Juan" },
+    name: { de: "Río San Juan", hu: "Río San Juan", ro: "Río San Juan", en: "Río San Juan",
+image: "/poi-images/do-rio-san-juan-cities-v2.webp"
+},
     description: {
       de: "Ein charmantes Küstenstädtchen, berühmt für die Laguna Gri-Gri.",
       hu: "Bájos tengerparti városka, amely a Gri-Gri lagúnáról híres.",
@@ -578,7 +640,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-26",
     coords: [-70.9908, 19.5936],
-    name: { de: "Esperanza", hu: "Esperanza", ro: "Esperanza", en: "Esperanza" },
+    name: { de: "Esperanza", hu: "Esperanza", ro: "Esperanza", en: "Esperanza",
+image: "/poi-images/do-esperanza-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt im Nordwesten, die für ihre Landwirtschaft, insbesondere Bananen, bekannt ist.",
       hu: "Város északnyugaton, amely mezőgazdaságáról, különösen a banánról ismert.",
@@ -596,7 +660,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-32",
     coords: [-70.0767, 18.5253],
-    name: { de: "Los Alcarrizos", hu: "Los Alcarrizos", ro: "Los Alcarrizos", en: "Los Alcarrizos" },
+    name: { de: "Los Alcarrizos", hu: "Los Alcarrizos", ro: "Los Alcarrizos", en: "Los Alcarrizos",
+image: "/poi-images/do-los-alcarrizos-cities-v2.webp"
+},
     description: {
       de: "Eine dicht besiedelte Gemeinde in der Provinz Santo Domingo.",
       hu: "Sűrűn lakott település Santo Domingo tartományban.",
@@ -614,7 +680,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-32",
     coords: [-69.8400, 18.5000],
-    name: { de: "Santo Domingo Este", hu: "Santo Domingo Este", ro: "Santo Domingo Este", en: "Santo Domingo Este" },
+    name: { de: "Santo Domingo Este", hu: "Santo Domingo Este", ro: "Santo Domingo Este", en: "Santo Domingo Este",
+image: "/poi-images/do-santo-domingo-este-cities-v2.webp"
+},
     description: {
       de: "Eine der größten und bevölkerungsreichsten Gemeinden des Landes.",
       hu: "Az ország egyik legnagyobb és legnépesebb települése.",
@@ -632,7 +700,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-32",
     coords: [-69.9333, 18.5667],
-    name: { de: "Santo Domingo Norte", hu: "Santo Domingo Norte", ro: "Santo Domingo Norte", en: "Santo Domingo Norte" },
+    name: { de: "Santo Domingo Norte", hu: "Santo Domingo Norte", ro: "Santo Domingo Norte", en: "Santo Domingo Norte",
+image: "/poi-images/do-santo-domingo-norte-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde nördlich des Stadtzentrums von Santo Domingo.",
       hu: "Település Santo Domingo városközpontjától északra.",
@@ -650,7 +720,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-32",
     coords: [-70.0167, 18.4833],
-    name: { de: "Santo Domingo Oeste", hu: "Santo Domingo Oeste", ro: "Santo Domingo Oeste", en: "Santo Domingo Oeste" },
+    name: { de: "Santo Domingo Oeste", hu: "Santo Domingo Oeste", ro: "Santo Domingo Oeste", en: "Santo Domingo Oeste",
+image: "/poi-images/do-santo-domingo-oeste-cities-v2.webp"
+},
     description: {
       de: "Eine Gemeinde westlich des Stadtzentrums von Santo Domingo.",
       hu: "Település Santo Domingo városközpontjától nyugatra.",
@@ -668,7 +740,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-09",
     coords: [-70.2803, 19.6272],
-    name: { de: "Gaspar Hernández", hu: "Gaspar Hernández", ro: "Gaspar Hernández", en: "Gaspar Hernández" },
+    name: { de: "Gaspar Hernández", hu: "Gaspar Hernández", ro: "Gaspar Hernández", en: "Gaspar Hernández",
+image: "/poi-images/do-gaspar-hernandez-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt in der Provinz Espaillat an der Nordküste.",
       hu: "Tengerparti város Espaillat tartományban, az északi parton.",
@@ -686,7 +760,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-06",
     coords: [-70.1083, 19.1833],
-    name: { de: "Pimentel", hu: "Pimentel", ro: "Pimentel", en: "Pimentel" },
+    name: { de: "Pimentel", hu: "Pimentel", ro: "Pimentel", en: "Pimentel",
+image: "/poi-images/do-pimentel-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Duarte, bekannt für ihre Reisproduktion.",
       hu: "Város Duarte tartományban, amely rizstermeléséről ismert.",
@@ -704,7 +780,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "DO-15",
     coords: [-71.4917, 19.7833],
-    name: { de: "Villa Vásquez", hu: "Villa Vásquez", ro: "Villa Vásquez", en: "Villa Vásquez" },
+    name: { de: "Villa Vásquez", hu: "Villa Vásquez", ro: "Villa Vásquez", en: "Villa Vásquez",
+image: "/poi-images/do-villa-vasquez-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt in der Provinz Monte Cristi, bekannt für Bananenplantagen.",
       hu: "Város Monte Cristi tartományban, amely banánültetvényeiről ismert.",
@@ -723,7 +801,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-07",
       coords: [-71.7000, 18.8833],
-      name: { de: "Comendador", hu: "Comendador", ro: "Comendador", en: "Comendador" },
+      name: { de: "Comendador", hu: "Comendador", ro: "Comendador", en: "Comendador",
+image: "/poi-images/do-comendador-cities-v2.webp"
+},
       description: {
         de: "Die Hauptstadt der Provinz Elías Piña an der Grenze zu Haiti.",
         hu: "Elías Piña tartomány fővárosa a haiti határon.",
@@ -741,7 +821,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-21",
       coords: [-70.0783, 18.3931],
-      name: { de: "San Gregorio de Nigua", hu: "San Gregorio de Nigua", ro: "San Gregorio de Nigua", en: "San Gregorio de Nigua" },
+      name: { de: "San Gregorio de Nigua", hu: "San Gregorio de Nigua", ro: "San Gregorio de Nigua", en: "San Gregorio de Nigua",
+image: "/poi-images/do-san-gregorio-de-nigua-cities-v2.webp"
+},
       description: {
         de: "Eine Stadt in der Provinz San Cristóbal mit historischen Zuckermühlen.",
         hu: "Város San Cristóbal tartományban, történelmi cukormalmokkal.",
@@ -759,7 +841,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-21",
       coords: [-70.1469, 18.2611],
-      name: { de: "Palenque", hu: "Palenque", ro: "Palenque", en: "Palenque" },
+      name: { de: "Palenque", hu: "Palenque", ro: "Palenque", en: "Palenque",
+image: "/poi-images/do-palenque-cities-v2.webp"
+},
       description: {
         de: "Ein Küstenort in der Provinz San Cristóbal, bekannt für seine Strände.",
         hu: "Tengerparti üdülőhely San Cristóbal tartományban, strandjairól ismert.",
@@ -777,7 +861,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-21",
       coords: [-70.2117, 18.5281],
-      name: { de: "Cambita Garabitos", hu: "Cambita Garabitos", ro: "Cambita Garabitos", en: "Cambita Garabitos" },
+      name: { de: "Cambita Garabitos", hu: "Cambita Garabitos", ro: "Cambita Garabitos", en: "Cambita Garabitos",
+image: "/poi-images/do-cambita-garabitos-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in den Hügeln der Provinz San Cristóbal.",
         hu: "Település San Cristóbal tartomány dombjain.",
@@ -796,7 +882,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-02",
       coords: [-71.5039, 18.5133],
-      name: { de: "Villa Jaragua", hu: "Villa Jaragua", ro: "Villa Jaragua", en: "Villa Jaragua" },
+      name: { de: "Villa Jaragua", hu: "Villa Jaragua", ro: "Villa Jaragua", en: "Villa Jaragua",
+image: "/poi-images/do-villa-jaragua-cities-v2.webp"
+},
       description: {
         de: "Eine Stadt in der Provinz Baoruco, in der Nähe des Enriquillo-Sees.",
         hu: "Város Baoruco tartományban, az Enriquillo-tó közelében.",
@@ -814,7 +902,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-10",
       coords: [-69.4939, 18.9669],
-      name: { de: "El Valle", hu: "El Valle", ro: "El Valle", en: "El Valle" },
+      name: { de: "El Valle", hu: "El Valle", ro: "El Valle", en: "El Valle",
+image: "/poi-images/do-el-valle-cities-v2.webp"
+},
       description: {
         de: "Eine kleine Stadt in einem Tal, umgeben von Bergen der Cordillera Oriental.",
         hu: "Kisváros egy völgyben, a Cordillera Oriental hegyei által körülvéve.",
@@ -832,7 +922,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-07",
       coords: [-71.7456, 18.7308],
-      name: { de: "Hondo Valle", hu: "Hondo Valle", ro: "Hondo Valle", en: "Hondo Valle" },
+      name: { de: "Hondo Valle", hu: "Hondo Valle", ro: "Hondo Valle", en: "Hondo Valle",
+image: "/poi-images/do-hondo-valle-cities-v2.webp"
+},
       description: {
         de: "Eine Berggemeinde in der Provinz Elías Piña.",
         hu: "Hegyi község Elías Piña tartományban.",
@@ -850,7 +942,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-07",
       coords: [-71.6167, 19.0500],
-      name: { de: "Pedro Santana", hu: "Pedro Santana", ro: "Pedro Santana", en: "Pedro Santana" },
+      name: { de: "Pedro Santana", hu: "Pedro Santana", ro: "Pedro Santana", en: "Pedro Santana",
+image: "/poi-images/do-pedro-santana-cities-v2.webp"
+},
       description: {
         de: "Eine Grenzgemeinde in der Provinz Elías Piña.",
         hu: "Határ menti település Elías Piña tartományban.",
@@ -868,7 +962,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-07",
       coords: [-71.5333, 19.0833],
-      name: { de: "Bánica", hu: "Bánica", ro: "Bánica", en: "Bánica" },
+      name: { de: "Bánica", hu: "Bánica", ro: "Bánica", en: "Bánica",
+image: "/poi-images/do-banica-cities-v2.webp"
+},
       description: {
         de: "Eine der ältesten Städte des Landes mit einer historischen Kirche.",
         hu: "Az ország egyik legrégebbi városa, történelmi templommal.",
@@ -886,7 +982,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-05",
       coords: [-71.5833, 19.3333],
-      name: { de: "Restauración", hu: "Restauración", ro: "Restauración", en: "Restauración" },
+      name: { de: "Restauración", hu: "Restauración", ro: "Restauración", en: "Restauración",
+image: "/poi-images/do-restauracion-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Dajabón in den Bergen.",
         hu: "Település Dajabón tartományban, a hegyekben.",
@@ -904,7 +1002,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-05",
       coords: [-71.6231, 19.4319],
-      name: { de: "Loma de Cabrera", hu: "Loma de Cabrera", ro: "Loma de Cabrera", en: "Loma de Cabrera" },
+      name: { de: "Loma de Cabrera", hu: "Loma de Cabrera", ro: "Loma de Cabrera", en: "Loma de Cabrera",
+image: "/poi-images/do-loma-de-cabrera-cities-v2.webp"
+},
       description: {
         de: "Eine Stadt in der Provinz Dajabón, nahe der haitianischen Grenze.",
         hu: "Város Dajabón tartományban, a haiti határ közelében.",
@@ -922,7 +1022,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-25",
       coords: [-71.3417, 19.4769],
-      name: { de: "San Ignacio de Sabaneta", hu: "San Ignacio de Sabaneta", ro: "San Ignacio de Sabaneta", en: "San Ignacio de Sabaneta" },
+      name: { de: "San Ignacio de Sabaneta", hu: "San Ignacio de Sabaneta", ro: "San Ignacio de Sabaneta", en: "San Ignacio de Sabaneta",
+image: "/poi-images/do-san-ignacio-de-sabaneta-cities-v2.webp"
+},
       description: {
         de: "Hauptstadt der Provinz Santiago Rodríguez in der Nordwestregion.",
         hu: "Santiago Rodríguez tartomány fővárosa az északnyugati régióban.",
@@ -940,7 +1042,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-25",
       coords: [-71.1833, 19.3333],
-      name: { de: "Monción", hu: "Monción", ro: "Monción", en: "Monción" },
+      name: { de: "Monción", hu: "Monción", ro: "Monción", en: "Monción",
+image: "/poi-images/do-moncion-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Santiago Rodríguez, bekannt für ihren Staudamm.",
         hu: "Település Santiago Rodríguez tartományban, amely a gátjáról ismert.",
@@ -959,7 +1063,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-15",
       coords: [-71.5333, 19.7167],
-      name: { de: "Castañuelas", hu: "Castañuelas", ro: "Castañuelas", en: "Castañuelas" },
+      name: { de: "Castañuelas", hu: "Castañuelas", ro: "Castañuelas", en: "Castañuelas",
+image: "/poi-images/do-castanuelas-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Monte Cristi, die von Reisfeldern umgeben ist.",
         hu: "Település Monte Cristi tartományban, rizsföldekkel körülvéve.",
@@ -977,7 +1083,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-15",
       coords: [-71.3500, 19.6500],
-      name: { de: "Guayubín", hu: "Guayubín", ro: "Guayubín", en: "Guayubín" },
+      name: { de: "Guayubín", hu: "Guayubín", ro: "Guayubín", en: "Guayubín",
+image: "/poi-images/do-guayubin-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Monte Cristi, bekannt für Viehzucht.",
         hu: "Település Monte Cristi tartományban, amely szarvasmarha-tenyésztéséről ismert.",
@@ -995,7 +1103,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-15",
       coords: [-71.5000, 19.7167],
-      name: { de: "Las Matas de Santa Cruz", hu: "Las Matas de Santa Cruz", ro: "Las Matas de Santa Cruz", en: "Las Matas de Santa Cruz" },
+      name: { de: "Las Matas de Santa Cruz", hu: "Las Matas de Santa Cruz", ro: "Las Matas de Santa Cruz", en: "Las Matas de Santa Cruz",
+image: "/poi-images/do-las-matas-de-santa-cruz-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Monte Cristi, die sich der Landwirtschaft widmet.",
         hu: "Település Monte Cristi tartományban, amely mezőgazdasággal foglalkozik.",
@@ -1013,7 +1123,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-15",
       coords: [-71.7417, 19.7000],
-      name: { de: "Pepillo Salcedo", hu: "Pepillo Salcedo", ro: "Pepillo Salcedo", en: "Pepillo Salcedo" },
+      name: { de: "Pepillo Salcedo", hu: "Pepillo Salcedo", ro: "Pepillo Salcedo", en: "Pepillo Salcedo",
+image: "/poi-images/do-pepillo-salcedo-cities-v2.webp"
+},
       description: {
         de: "Eine Hafenstadt in der Bucht von Manzanillo, wichtig für den Export.",
         hu: "Kikötőváros a Manzanillo-öbölben, fontos az export szempontjából.",
@@ -1031,7 +1143,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-18",
       coords: [-70.8333, 19.7500],
-      name: { de: "Imbert", hu: "Imbert", ro: "Imbert", en: "Imbert" },
+      name: { de: "Imbert", hu: "Imbert", ro: "Imbert", en: "Imbert",
+image: "/poi-images/do-imbert-cities-v2.webp"
+},
       description: {
         de: "Eine Stadt in der Provinz Puerto Plata, bekannt für die Wasserfälle von Damajagua.",
         hu: "Város Puerto Plata tartományban, amely a Damajagua-vízesésről ismert.",
@@ -1049,7 +1163,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-18",
       coords: [-70.9500, 19.8833],
-      name: { de: "Luperón", hu: "Luperón", ro: "Luperón", en: "Luperón" },
+      name: { de: "Luperón", hu: "Luperón", ro: "Luperón", en: "Luperón",
+image: "/poi-images/do-luperon-cities-v2.webp"
+},
       description: {
         de: "Eine Küstenstadt mit einer großen, geschützten Bucht, beliebt bei Seglern.",
         hu: "Tengerparti város nagy, védett öböllel, népszerű a vitorlázók körében.",
@@ -1067,7 +1183,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-14",
       coords: [-69.8878, 19.3308],
-      name: { de: "El Factor", hu: "El Factor", ro: "El Factor", en: "El Factor" },
+      name: { de: "El Factor", hu: "El Factor", ro: "El Factor", en: "El Factor",
+image: "/poi-images/do-el-factor-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz María Trinidad Sánchez, die sich dem Reisanbau widmet.",
         hu: "Település María Trinidad Sánchez tartományban, amely rizstermesztéssel foglalkozik.",
@@ -1085,7 +1203,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-06",
       coords: [-70.2167, 19.1667],
-      name: { de: "Las Guáranas", hu: "Las Guáranas", ro: "Las Guáranas", en: "Las Guáranas" },
+      name: { de: "Las Guáranas", hu: "Las Guáranas", ro: "Las Guáranas", en: "Las Guáranas",
+image: "/poi-images/do-las-guaranas-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Duarte, in der fruchtbaren Cibao-Region.",
         hu: "Település Duarte tartományban, a termékeny Cibao régióban.",
@@ -1103,7 +1223,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-06",
       coords: [-69.9500, 19.2500],
-      name: { de: "Castillo", hu: "Castillo", ro: "Castillo", en: "Castillo" },
+      name: { de: "Castillo", hu: "Castillo", ro: "Castillo", en: "Castillo",
+image: "/poi-images/do-castillo-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Duarte, benannt nach einem General.",
         hu: "Település Duarte tartományban, egy tábornokról elnevezve.",
@@ -1121,7 +1243,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       type: "city",
       parent: "DO-06",
       coords: [-69.9167, 19.1667],
-      name: { de: "Villa Riva", hu: "Villa Riva", ro: "Villa Riva", en: "Villa Riva" },
+      name: { de: "Villa Riva", hu: "Villa Riva", ro: "Villa Riva", en: "Villa Riva",
+image: "/poi-images/do-villa-riva-cities-v2.webp"
+},
       description: {
         de: "Eine Gemeinde in der Provinz Duarte, in der Nähe des Yuna-Flusses.",
         hu: "Település Duarte tartományban, a Yuna folyó közelében.",
@@ -1140,7 +1264,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-24",
         coords: [-70.0167, 19.0000],
-        name: { de: "Cevicos", hu: "Cevicos", ro: "Cevicos", en: "Cevicos" },
+        name: { de: "Cevicos", hu: "Cevicos", ro: "Cevicos", en: "Cevicos",
+image: "/poi-images/do-cevicos-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Sánchez Ramírez, umgeben von Hügeln.",
           hu: "Település Sánchez Ramírez tartományban, dombokkal körülvéve.",
@@ -1159,7 +1285,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-18",
         coords: [-70.8500, 19.6833],
-        name: { de: "Altamira", hu: "Altamira", ro: "Altamira", en: "Altamira" },
+        name: { de: "Altamira", hu: "Altamira", ro: "Altamira", en: "Altamira",
+image: "/poi-images/do-altamira-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Puerto Plata, bekannt für ihre üppige Natur.",
           hu: "Település Puerto Plata tartományban, buja természetéről ismert.",
@@ -1177,7 +1305,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-09",
         coords: [-70.4333, 19.5333],
-        name: { de: "Jamao al Norte", hu: "Jamao al Norte", ro: "Jamao al Norte", en: "Jamao al Norte" },
+        name: { de: "Jamao al Norte", hu: "Jamao al Norte", ro: "Jamao al Norte", en: "Jamao al Norte",
+image: "/poi-images/do-jamao-al-norte-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Espaillat mit Flüssen und Bergen.",
           hu: "Település Espaillat tartományban, folyókkal és hegyekkel.",
@@ -1195,7 +1325,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-09",
         coords: [-70.5500, 19.4667],
-        name: { de: "San Víctor", hu: "San Víctor", ro: "San Víctor", en: "San Víctor" },
+        name: { de: "San Víctor", hu: "San Víctor", ro: "San Víctor", en: "San Víctor",
+image: "/poi-images/do-san-victor-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Espaillat, nahe bei Moca.",
           hu: "Település Espaillat tartományban, Moca közelében.",
@@ -1213,7 +1345,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-06",
         coords: [-69.8667, 19.1167],
-        name: { de: "Arenoso", hu: "Arenoso", ro: "Arenoso", en: "Arenoso" },
+        name: { de: "Arenoso", hu: "Arenoso", ro: "Arenoso", en: "Arenoso",
+image: "/poi-images/do-arenoso-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Duarte, bekannt für ihre ausgedehnten Reisfelder.",
           hu: "Település Duarte tartományban, amely kiterjedt rizsföldjeiről ismert.",
@@ -1231,7 +1365,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-27",
         coords: [-70.7833, 19.5667],
-        name: { de: "Villa González", hu: "Villa González", ro: "Villa González", en: "Villa González" },
+        name: { de: "Villa González", hu: "Villa González", ro: "Villa González", en: "Villa González",
+image: "/poi-images/do-villa-gonzalez-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Santiago, bekannt für Tabak und Zigarren.",
           hu: "Település Santiago tartományban, amely dohányáról és szivarjairól ismert.",
@@ -1249,7 +1385,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-27",
         coords: [-70.6108, 19.4883],
-        name: { de: "Tamboril", hu: "Tamboril", ro: "Tamboril", en: "Tamboril" },
+        name: { de: "Tamboril", hu: "Tamboril", ro: "Tamboril", en: "Tamboril",
+image: "/poi-images/do-tamboril-cities-v2.webp"
+},
         description: {
           de: "Bekannt als die 'Welthauptstadt der Zigarre'.",
           hu: "A 'szivar világfővárosaként' ismert.",
@@ -1267,7 +1405,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-27",
         coords: [-70.6333, 19.4333],
-        name: { de: "Licey al Medio", hu: "Licey al Medio", ro: "Licey al Medio", en: "Licey al Medio" },
+        name: { de: "Licey al Medio", hu: "Licey al Medio", ro: "Licey al Medio", en: "Licey al Medio",
+image: "/poi-images/do-licey-al-medio-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde zwischen Santiago und Moca, in der Nähe des Flughafens.",
           hu: "Település Santiago és Moca között, a repülőtér közelében.",
@@ -1285,7 +1425,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-27",
         coords: [-70.7667, 19.3000],
-        name: { de: "Sabana Iglesia", hu: "Sabana Iglesia", ro: "Sabana Iglesia", en: "Sabana Iglesia" },
+        name: { de: "Sabana Iglesia", hu: "Sabana Iglesia", ro: "Sabana Iglesia", en: "Sabana Iglesia",
+image: "/poi-images/do-sabana-iglesia-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in den Bergen südlich von Santiago.",
           hu: "Település a hegyekben, Santiagótól délre.",
@@ -1304,7 +1446,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-27",
         coords: [-70.8833, 19.3333],
-        name: { de: "Jánico", hu: "Jánico", ro: "Jánico", en: "Jánico" },
+        name: { de: "Jánico", hu: "Jánico", ro: "Jánico", en: "Jánico",
+image: "/poi-images/do-janico-cities-v2.webp"
+},
         description: {
           de: "Eine der ältesten Gemeinden in den Bergen der Provinz Santiago.",
           hu: "Az egyik legrégebbi település Santiago tartomány hegyeiben.",
@@ -1322,7 +1466,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-27",
         coords: [-70.6667, 19.3333],
-        name: { de: "Baitoa", hu: "Baitoa", ro: "Baitoa", en: "Baitoa" },
+        name: { de: "Baitoa", hu: "Baitoa", ro: "Baitoa", en: "Baitoa",
+image: "/poi-images/do-baitoa-cities-v2.webp"
+},
         description: {
           de: "Eine kleine Gemeinde am Ufer des Yaque del Norte Flusses.",
           hu: "Kis település a Yaque del Norte folyó partján.",
@@ -1340,7 +1486,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-12",
         coords: [-71.5500, 18.6333],
-        name: { de: "Guayabal", hu: "Guayabal", ro: "Guayabal", en: "Guayabal" },
+        name: { de: "Guayabal", hu: "Guayabal", ro: "Guayabal", en: "Guayabal",
+image: "/poi-images/do-guayabal-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Independencia, umgeben von Bergen.",
           hu: "Település Independencia tartományban, hegyekkel körülvéve.",
@@ -1359,7 +1507,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-01",
         coords: [-70.6167, 18.4500],
-        name: { de: "Las Charcas", hu: "Las Charcas", ro: "Las Charcas", en: "Las Charcas" },
+        name: { de: "Las Charcas", hu: "Las Charcas", ro: "Las Charcas", en: "Las Charcas",
+image: "/poi-images/do-las-charcas-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Azua, nahe der Küste.",
           hu: "Település Azua tartományban, a part közelében.",
@@ -1377,7 +1527,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-01",
         coords: [-70.6667, 18.4833],
-        name: { de: "Estebanía", hu: "Estebanía", ro: "Estebanía", en: "Estebanía" },
+        name: { de: "Estebanía", hu: "Estebanía", ro: "Estebanía", en: "Estebanía",
+image: "/poi-images/do-estebania-cities-v2.webp"
+},
         description: {
           de: "Eine kleine Gemeinde in der Provinz Azua, die für ihre Landwirtschaft bekannt ist.",
           hu: "Kis település Azua tartományban, amely mezőgazdaságáról ismert.",
@@ -1396,7 +1548,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-01",
         coords: [-70.8000, 18.4667],
-        name: { de: "Pueblo Viejo", hu: "Pueblo Viejo", ro: "Pueblo Viejo", en: "Pueblo Viejo" },
+        name: { de: "Pueblo Viejo", hu: "Pueblo Viejo", ro: "Pueblo Viejo", en: "Pueblo Viejo",
+image: "/poi-images/do-pueblo-viejo-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in Azua, Standort einer der größten Goldminen der Welt.",
           hu: "Település Azuában, a világ egyik legnagyobb aranybányájának helyszíne.",
@@ -1414,7 +1568,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-01",
         coords: [-70.8167, 18.6333],
-        name: { de: "Tábara Arriba", hu: "Tábara Arriba", ro: "Tábara Arriba", en: "Tábara Arriba" },
+        name: { de: "Tábara Arriba", hu: "Tábara Arriba", ro: "Tábara Arriba", en: "Tábara Arriba",
+image: "/poi-images/do-tabara-arriba-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Azua mit starker landwirtschaftlicher Ausrichtung.",
           hu: "Település Azua tartományban, erős mezőgazdasági irányultsággal.",
@@ -1432,7 +1588,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-01",
         coords: [-70.9833, 18.5167],
-        name: { de: "Sabana Yegua", hu: "Sabana Yegua", ro: "Sabana Yegua", en: "Sabana Yegua" },
+        name: { de: "Sabana Yegua", hu: "Sabana Yegua", ro: "Sabana Yegua", en: "Sabana Yegua",
+image: "/poi-images/do-sabana-yegua-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in Azua, in der Nähe des Sabana-Yegua-Staudamms.",
           hu: "Település Azuában, a Sabana-Yegua-gát közelében.",
@@ -1450,7 +1608,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-02",
         coords: [-71.6167, 18.5333],
-        name: { de: "Los Ríos", hu: "Los Ríos", ro: "Los Ríos", en: "Los Ríos" },
+        name: { de: "Los Ríos", hu: "Los Ríos", ro: "Los Ríos", en: "Los Ríos",
+image: "/poi-images/do-los-rios-cities-v2.webp"
+},
         description: {
           de: "Eine Gemeinde in der Provinz Baoruco, am Fuße der Sierra de Neiba.",
           hu: "Település Baoruco tartományban, a Sierra de Neiba lábánál.",
@@ -1468,7 +1628,9 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         type: "city",
         parent: "DO-12",
         coords: [-71.7167, 18.5667],
-        name: { de: "Postrer Río", hu: "Postrer Río", ro: "Postrer Río", en: "Postrer Río" },
+        name: { de: "Postrer Río", hu: "Postrer Río", ro: "Postrer Río", en: "Postrer Río",
+image: "/poi-images/do-postrer-rio-cities-v2.webp"
+},
         description: {
           de: "Eine Berggemeinde in der Provinz Independencia.",
           hu: "Hegyi község Independencia tartományban.",

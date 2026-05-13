@@ -14,8 +14,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       en: "Asmara Brewery"
     ,
     descriptionAdvanced: {
-      de: "Die Asmara-Brauerei wurde 1939 während der italienischen Kolonialzeit gegründet und ist eines der ältesten Industrieunternehmen Eritreas. Sie produziert bis heute das beliebte lokale Bier und Softdrinks nach traditionellen Rezepten, die über Generationen hinweg gepflegt wurden. Die architektonische Gestaltung der Anlage spiegelt den rationalistischen Stil wider, der für das moderne Asmara so charakteristisch ist. Die Brauerei spielt eine zentrale Rolle in der lokalen Wirtschaft und stellt einen wichtigen Arbeitgeber in der Hauptstadt dar. Erdkunde K7 – Industrie und lokale Produktion."
-    },
+      de: "Die Asmara-Brauerei wurde 1939 während der italienischen Kolonialzeit gegründet und ist eines der ältesten Industrieunternehmen Eritreas. Sie produziert bis heute das beliebte lokale Bier und Softdrinks nach traditionellen Rezepten, die über Generationen hinweg gepflegt wurden. Die architektonische Gestaltung der Anlage spiegelt den rationalistischen Stil wider, der für das moderne Asmara so charakteristisch ist. Die Brauerei spielt eine zentrale Rolle in der lokalen Wirtschaft und stellt einen wichtigen Arbeitgeber in der Hauptstadt dar. Erdkunde K7 – Industrie und lokale Produktion.",
+image: "/poi-images/er-maekel-asmara-brewery-economic-v2.webp"
+},
     factsAdvanced: {
       de: ["Gegründet im Jahr 1939 durch italienische Investoren.", "Stilistisch geprägt durch die italienische Rationalismus-Architektur.", "Produktionsstätte für lokales Bier und Erfrischungsgetränke.", "Wichtiger historischer Industriebetrieb im Zentrum von Asmara.", "Die Anlagen wurden nach der Unabhängigkeit modernisiert.", "Symbol für die industrielle Kontinuität Eritreas."]
     }
@@ -44,8 +45,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       en: "Bisha Mine"
     ,
     descriptionAdvanced: {
-      de: "Die Bisha-Mine im Gash-Barka-Gebiet ist das bedeutendste Bergbauprojekt Eritreas und ein entscheidender Treiber für das nationale Wirtschaftswachstum. Der Tagebau konzentriert sich primär auf die Gewinnung von Kupfer, Gold und Zink, die in großem Umfang exportiert werden. Die Erschließung der Lagerstätte hat moderne Infrastrukturen in dieser entlegenen Region des Landes gefördert. Die Einnahmen aus dem Bergbau tragen maßgeblich zum Staatshaushalt bei und unterstützen die Entwicklung nationaler Projekte. Geografie K8 – Rohstoffe und wirtschaftliche Globalisierung."
-    },
+      de: "Die Bisha-Mine im Gash-Barka-Gebiet ist das bedeutendste Bergbauprojekt Eritreas und ein entscheidender Treiber für das nationale Wirtschaftswachstum. Der Tagebau konzentriert sich primär auf die Gewinnung von Kupfer, Gold und Zink, die in großem Umfang exportiert werden. Die Erschließung der Lagerstätte hat moderne Infrastrukturen in dieser entlegenen Region des Landes gefördert. Die Einnahmen aus dem Bergbau tragen maßgeblich zum Staatshaushalt bei und unterstützen die Entwicklung nationaler Projekte. Geografie K8 – Rohstoffe und wirtschaftliche Globalisierung.",
+image: "/poi-images/er-gash-barka-bisha-mine-economic-v2.webp"
+},
     factsAdvanced: {
       de: ["Hauptlagerstätte für Kupfer, Gold und Zink.", "Bedeutendstes Bergbauprojekt des Landes seit der Unabhängigkeit.", "Tagebau-Anlage in der Region Gash-Barka.", "Wichtiger Exportfaktor für die eritreische Wirtschaft.", "Erhöhte Infrastrukturentwicklung durch Bergbauaktivitäten.", "Großer Arbeitgeber für die lokale Bevölkerung in der Region."]
     }
@@ -74,8 +76,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       en: "Hirgigo Power Plant"
     ,
     descriptionAdvanced: {
-      de: "Das Hirgigo-Kraftwerk in der Nähe der Hafenstadt Massawa ist das größte Wärmekraftwerk Eritreas und sichert die Energieversorgung für weite Teile des Landes, einschließlich der Hauptstadt Asmara. Es nutzt schwere Heizöle zur Stromerzeugung und ist für die Aufrechterhaltung der industriellen und privaten Kapazitäten von lebenswichtiger Bedeutung. Die Anlage wurde mit internationaler Unterstützung erbaut und unterliegt ständigen Modernisierungsprozessen, um die Effizienz zu steigern. Energiefragen sind ein zentraler Aspekt der nationalen Infrastrukturplanung. Sachkunde K6 – Energieerzeugung und Infrastruktur."
-    },
+      de: "Das Hirgigo-Kraftwerk in der Nähe der Hafenstadt Massawa ist das größte Wärmekraftwerk Eritreas und sichert die Energieversorgung für weite Teile des Landes, einschließlich der Hauptstadt Asmara. Es nutzt schwere Heizöle zur Stromerzeugung und ist für die Aufrechterhaltung der industriellen und privaten Kapazitäten von lebenswichtiger Bedeutung. Die Anlage wurde mit internationaler Unterstützung erbaut und unterliegt ständigen Modernisierungsprozessen, um die Effizienz zu steigern. Energiefragen sind ein zentraler Aspekt der nationalen Infrastrukturplanung. Sachkunde K6 – Energieerzeugung und Infrastruktur.",
+image: "/poi-images/er-sem-kei-bahri-hirgigo-power-economic-v2.webp"
+},
     factsAdvanced: {
       de: ["Größtes Wärmekraftwerk Eritreas.", "Strategisch gelegen nahe der Küstenstadt Massawa.", "Primäre Energiequelle für den Großraum Asmara.", "Versorgungssicherheit als wirtschaftlicher Grundpfeiler.", "Betrieb mittels schwerer Heizöle zur Stromerzeugung.", "Wichtiger Bestandteil der nationalen Energieinfrastruktur."]
     }
@@ -104,8 +107,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       en: "Colluli Potash Project"
     ,
     descriptionAdvanced: {
-      de: "Das Colluli-Projekt im Danakil-Senken-Gebiet ist eine der weltweit bedeutendsten und kostengünstigsten Potash-Lagerstätten, die kurz vor der groß angelegten Erschließung steht. Der Kalisalzabbau bietet enormes Potenzial zur Diversifizierung der eritreischen Wirtschaft und könnte eine neue Ära im Agrarsektor einleiten, da Kali ein essenzieller Düngestoff ist. Die geologische Lage im äthiopisch-eritreischen Grenzraum stellt sowohl eine technische Herausforderung als auch eine wirtschaftliche Chance dar. Das Projekt soll langfristig Tausende Arbeitsplätze schaffen. Wirtschaftslehre K8 – Zukunftsbranchen und Welthandel."
-    },
+      de: "Das Colluli-Projekt im Danakil-Senken-Gebiet ist eine der weltweit bedeutendsten und kostengünstigsten Potash-Lagerstätten, die kurz vor der groß angelegten Erschließung steht. Der Kalisalzabbau bietet enormes Potenzial zur Diversifizierung der eritreischen Wirtschaft und könnte eine neue Ära im Agrarsektor einleiten, da Kali ein essenzieller Düngestoff ist. Die geologische Lage im äthiopisch-eritreischen Grenzraum stellt sowohl eine technische Herausforderung als auch eine wirtschaftliche Chance dar. Das Projekt soll langfristig Tausende Arbeitsplätze schaffen. Wirtschaftslehre K8 – Zukunftsbranchen und Welthandel.",
+image: "/poi-images/er-sem-kei-bahri-colluli-potash-economic-v2.webp"
+},
     factsAdvanced: {
       de: ["Eine der weltweit größten Potash-Lagerstätten.", "Standort im geologisch einzigartigen Danakil-Senken-Gebiet.", "Potenziell kostengünstigste Förderung von Kalisalzen.", "Wichtige Säule für die künftige industrielle Entwicklung.", "Große Bedeutung als Düngemittellieferant für die Landwirtschaft.", "Erwartete Schaffung zahlreicher Arbeitsplätze in der Region."]
     }
@@ -134,8 +138,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       en: "Zara Gold Mine"
     ,
     descriptionAdvanced: {
-      de: "Die Zara-Mine ist eine bedeutende Goldlagerstätte in der Anseba-Region und unterstreicht Eritreas wachsendes Potenzial im Sektor der Edelmetallgewinnung. Die Mine nutzt moderne Extraktionstechnologien, um den hohen Anforderungen an Effizienz und Umweltstandards gerecht zu werden. Neben der wirtschaftlichen Wertschöpfung durch den Goldexport leistet der Betrieb einen Beitrag zur Ausbildung der lokalen Arbeitskräfte in technischen Berufen. Die Erschließung solcher entlegener Standorte ist ein Beweis für die strategische Ausrichtung des Landes auf den Bergbau als Motor des Wirtschaftswachstums. Geografie K7 – Bergbau und regionale Entwicklung."
-    },
+      de: "Die Zara-Mine ist eine bedeutende Goldlagerstätte in der Anseba-Region und unterstreicht Eritreas wachsendes Potenzial im Sektor der Edelmetallgewinnung. Die Mine nutzt moderne Extraktionstechnologien, um den hohen Anforderungen an Effizienz und Umweltstandards gerecht zu werden. Neben der wirtschaftlichen Wertschöpfung durch den Goldexport leistet der Betrieb einen Beitrag zur Ausbildung der lokalen Arbeitskräfte in technischen Berufen. Die Erschließung solcher entlegener Standorte ist ein Beweis für die strategische Ausrichtung des Landes auf den Bergbau als Motor des Wirtschaftswachstums. Geografie K7 – Bergbau und regionale Entwicklung.",
+image: "/poi-images/er-anseba-zara-mining-economic-v2.webp"
+},
     factsAdvanced: {
       de: ["Wichtige Gold-Extraktionsanlage im Anseba-Gebiet.", "Einsatz moderner technischer Extraktionsmethoden.", "Zentraler Bestandteil des eritreischen Gold-Exports.", "Förderung der beruflichen Bildung durch Fachkräftekurse.", "Strategische Entwicklung ländlicher Regionen durch Bergbau.", "Nachhaltige Rohstoffförderung als langfristiges Ziel."]
     }
@@ -161,8 +166,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Hafen von Massaua",
       hu: "Masszava Kikötője",
       ro: "Portul Massawa",
-      en: "Port of Massawa"
-    },
+      en: "Port of Massawa",
+image: "/poi-images/er-sem-kei-bahri-massawa-port-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste Seehafen Eritreas am Roten Meer, der den Großteil des internationalen Handels des Landes abwickelt.",
       hu: "Eritrea legfontosabb tengeri kikötője a Vörös-tengeren, amely az ország nemzetközi kereskedelmének nagy részét bonyolítja le.",
@@ -184,8 +190,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Hafen von Assab",
       hu: "Assab Kikötője",
       ro: "Portul Assab",
-      en: "Port of Assab"
-    },
+      en: "Port of Assab",
+image: "/poi-images/er-deb-kei-bahri-assab-port-economic-v2.webp"
+},
     description: {
       de: "Ein strategisch gelegener Hafen im Süden Eritreas nahe der Meerenge Bab al-Mandab.",
       hu: "Stratégiai fekvésű kikötő Eritrea déli részén, a Bab el-Mandeb szoros közelében.",
@@ -207,8 +214,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Ölraffinerie Assab",
       hu: "Assab Olajfinomító",
       ro: "Rafinăria de petrol Assab",
-      en: "Assab Oil Refinery"
-    },
+      en: "Assab Oil Refinery",
+image: "/poi-images/er-deb-kei-bahri-assab-refinery-economic-v2.webp"
+},
     description: {
       de: "Eine historische industrielle Einrichtung an der Küste, die einst zur Verarbeitung von importiertem Rohöl diente.",
       hu: "Történelmi ipari létesítmény a parton, amely egykor az importált kőolaj feldolgozására szolgált.",
@@ -230,8 +238,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Salinen von Massaua",
       hu: "Masszavai Sólepárló",
       ro: "Salina din Massawa",
-      en: "Massawa Salt Works"
-    },
+      en: "Massawa Salt Works",
+image: "/poi-images/er-sem-kei-bahri-massawa-salt-works-economic-v2.webp"
+},
     description: {
       de: "Ausgedehnte Anlagen zur Meersalzgewinnung durch Verdunstung entlang der heißen Küste des Roten Meeres.",
       hu: "Kiterjedt létesítmények tengeri só lepárlására a Vörös-tenger forró partvidékén.",
@@ -253,8 +262,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Asmara Textilfabrik",
       hu: "Aszmara Textilgyár",
       ro: "Fabrica de textile Asmara",
-      en: "Asmara Textile Factory"
-    },
+      en: "Asmara Textile Factory",
+image: "/poi-images/er-maekel-asmara-textile-economic-v2.webp"
+},
     description: {
       de: "Eine etablierte Produktionsstätte für Kleidung und Stoffe, die Baumwolle aus dem eritreischen Tiefland verarbeitet.",
       hu: "Ruházati és szövetgyártó üzem, amely az eritreai alföldről származó pamutot dolgozza fel.",
@@ -276,8 +286,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Kraftwerk Asmara",
       hu: "Aszmara Erőmű",
       ro: "Centrala electrică Asmara",
-      en: "Asmara Power Plant"
-    },
+      en: "Asmara Power Plant",
+image: "/poi-images/er-maekel-asmara-power-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Dieselkraftwerk in der Hauptstadtregion, das die lokale Energieversorgung unterstützt.",
       hu: "Fontos dízelüzemű erőmű a fővárosi régióban, amely a helyi energiaellátást támogatja.",
@@ -299,8 +310,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Dbarwa Keramikfabrik",
       hu: "Dbarwa Kerámiagyár",
       ro: "Fabrica de ceramică Dbarwa",
-      en: "Dbarwa Ceramics Plant"
-    },
+      en: "Dbarwa Ceramics Plant",
+image: "/poi-images/er-debub-dbarwa-ceramics-economic-v2.webp"
+},
     description: {
       de: "Ein Produktionsbetrieb im südlichen Hochland, der Haushaltskeramik und Fliesen herstellt.",
       hu: "A déli felföldön található üzem, amely háztartási kerámiákat és csempéket gyárt.",
@@ -322,8 +334,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Aligidir Agrarindustrie",
       hu: "Aligidir Agráripari Központ",
       ro: "Industria agricolă Aligidir",
-      en: "Aligidir Agro-Industry"
-    },
+      en: "Aligidir Agro-Industry",
+image: "/poi-images/er-gash-barka-aligidir-agro-economic-v2.webp"
+},
     description: {
       de: "Ein großes landwirtschaftliches Projekt zur Baumwoll- und Zuckerrohrverarbeitung in der westlichen Region.",
       hu: "Nagy mezőgazdasági projekt pamut- és cukornádfeldolgozásra a nyugati régióban.",
@@ -345,8 +358,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Eritrea Zementfabrik",
       hu: "Eritrea Cementgyár",
       ro: "Fabrica de ciment Eritreea",
-      en: "Eritrea Cement Factory"
-    },
+      en: "Eritrea Cement Factory",
+image: "/poi-images/er-sem-kei-bahri-eritrea-cement-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges Zementwerk in der Nähe von Massaua, das Baumaterial für die Infrastrukturentwicklung liefert.",
       hu: "Fontos cementgyár Masszava közelében, amely építőanyagot biztosít az infrastruktúra fejlesztéséhez.",
@@ -368,8 +382,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Mai Aini Marmorsteinbruch",
       hu: "Mai Aini Márványbánya",
       ro: "Cariera de marmură Mai Aini",
-      en: "Mai Aini Marble Quarry"
-    },
+      en: "Mai Aini Marble Quarry",
+image: "/poi-images/er-debub-mai-aini-marble-economic-v2.webp"
+},
     description: {
       de: "Ein bekannter Steinbruch, der hochwertigen Marmor für den Inlandsmarkt und den Export liefert.",
       hu: "Egy jól ismert kőfejtő, amely kiváló minőségű márványt szállít a hazai piacra és exportra.",
@@ -391,8 +406,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Barentu Steinbruch",
       hu: "Barentu Kőfejtő",
       ro: "Cariera Barentu",
-      en: "Barentu Quarry"
-    },
+      en: "Barentu Quarry",
+image: "/poi-images/er-gash-barka-barentu-quarry-economic-v2.webp"
+},
     description: {
       de: "Ein Abbaugebiet für Baumaterialien in der Gash-Barka-Region zur Unterstützung der regionalen Entwicklung.",
       hu: "Építőanyag-bányászati terület a Gash-Barka régióban a regionális fejlődés támogatására.",
@@ -414,8 +430,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Halhal Granitwerk",
       hu: "Halhal Gránitüzem",
       ro: "Fabrica de granit Halhal",
-      en: "Halhal Granite Works"
-    },
+      en: "Halhal Granite Works",
+image: "/poi-images/er-anseba-halhal-granite-economic-v2.webp"
+},
     description: {
       de: "Ein industrieller Standort zur Gewinnung und Verarbeitung von hartem Granitstein.",
       hu: "Kemény gránitkő kitermelésére és feldolgozására szolgáló ipari telephely.",
@@ -437,8 +454,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Keren Textilwerke",
       hu: "Keren Textilművek",
       ro: "Fabrica de textile Keren",
-      en: "Keren Textile Works"
-    },
+      en: "Keren Textile Works",
+image: "/poi-images/er-anseba-keren-textile-economic-v2.webp"
+},
     description: {
       de: "Ein weiteres Zentrum der Bekleidungsindustrie in der zweitgrößten Stadt des Landes.",
       hu: "A ruhaipar másik központja az ország második legnagyobb városában.",
@@ -460,8 +478,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Dongollo Mineralwasserfabrik",
       hu: "Dongollo Ásványvízgyár",
       ro: "Fabrica de apă minerală Dongollo",
-      en: "Dongollo Mineral Water Factory"
-    },
+      en: "Dongollo Mineral Water Factory",
+image: "/poi-images/er-sem-kei-bahri-dongollo-water-economic-v2.webp"
+},
     description: {
       de: "Eine bekannte Abfüllanlage für natürlich kohlensäurehaltiges Mineralwasser aus einer lokalen Quelle.",
       hu: "Egy helyi forrásból származó, természetesen szénsavas ásványvíz jól ismert palackozóüzeme.",
@@ -483,8 +502,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Ghinda Abfüllanlage",
       hu: "Ghinda Palackozóüzem",
       ro: "Uzina de îmbuteliere Ghinda",
-      en: "Ghinda Bottling Plant"
-    },
+      en: "Ghinda Bottling Plant",
+image: "/poi-images/er-sem-kei-bahri-ghinda-water-economic-v2.webp"
+},
     description: {
       de: "Ein Werk zur Verarbeitung von landwirtschaftlichen Produkten und zur Getränkeabfüllung in der fruchtbaren Ghinda-Region.",
       hu: "Mezőgazdasági termékeket feldolgozó és italokat palackozó üzem a termékeny Ghinda régióban.",
@@ -506,8 +526,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Akordat Agrarverarbeitung",
       hu: "Akordat Agrárfeldolgozó",
       ro: "Procesarea agricolă Akordat",
-      en: "Akordat Agro-Processing"
-    },
+      en: "Akordat Agro-Processing",
+image: "/poi-images/er-gash-barka-akordat-processing-economic-v2.webp"
+},
     description: {
       de: "Eine industrielle Anlage im westlichen Tiefland, die sich auf die Verarbeitung von Ölsaaten und Getreide konzentriert.",
       hu: "Ipari létesítmény a nyugati alföldön, amely olajos magvak és gabonafélék feldolgozására összpontosít.",
@@ -529,8 +550,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Hafen von Beylul",
       hu: "Beylul Kikötője",
       ro: "Portul Beylul",
-      en: "Port of Beylul"
-    },
+      en: "Port of Beylul",
+image: "/poi-images/er-deb-kei-bahri-beylul-port-economic-v2.webp"
+},
     description: {
       de: "Ein kleinerer, aber regional bedeutsamer Hafen an der südlichen Küste des Roten Meeres.",
       hu: "Kisebb, de regionális jelentőségű kikötő a Vörös-tenger déli partján.",
@@ -552,8 +574,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Hafen von Tio",
       hu: "Tio Kikötője",
       ro: "Portul Tio",
-      en: "Port of Tio"
-    },
+      en: "Port of Tio",
+image: "/poi-images/er-deb-kei-bahri-tio-port-economic-v2.webp"
+},
     description: {
       de: "Ein natürlicher Hafen und eine Fischersiedlung an der unwirtlichen Küste der Danakil-Wüste.",
       hu: "Természetes kikötő és halásztelepülés a Danakil-sivatag zord partján.",
@@ -575,8 +598,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Hafen von Edd",
       hu: "Edd Kikötője",
       ro: "Portul Edd",
-      en: "Port of Edd"
-    },
+      en: "Port of Edd",
+image: "/poi-images/er-deb-kei-bahri-edd-port-economic-v2.webp"
+},
     description: {
       de: "Eine historische Hafenstadt, die einst ein wichtiger Stützpunkt für den Handel mit dem arabischen Raum war.",
       hu: "Történelmi kikötőváros, amely egykor az arab világgal folytatott kereskedelem fontos bázisa volt.",
@@ -598,8 +622,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Zula Bucht Hafen",
       hu: "Zula-öböl Kikötője",
       ro: "Portul Golfului Zula",
-      en: "Zula Bay Port"
-    },
+      en: "Zula Bay Port",
+image: "/poi-images/er-sem-kei-bahri-zula-port-economic-v2.webp"
+},
     description: {
       de: "Ein natürlicher Tiefwasserhafen in der Nähe der antiken Stadt Adulis, der geschichtlich große Bedeutung hatte.",
       hu: "Természetes mélyvízi kikötő az ókori Adulisz város közelében, amely történelmileg nagy jelentőséggel bírt.",
@@ -621,8 +646,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Mersa Fatma",
       hu: "Mersa Fatma",
       ro: "Mersa Fatma",
-      en: "Mersa Fatma"
-    },
+      en: "Mersa Fatma",
+image: "/poi-images/er-sem-kei-bahri-mersa-fatma-economic-v2.webp"
+},
     description: {
       de: "Ein Küstenort, der früher als wichtiger Umschlagplatz für das in der Danakil-Senke abgebaute Kalisalz diente.",
       hu: "Egy tengerparti város, amely korábban a Danakil-mélyföldön bányászott káliumsó fontos átrakodóhelyeként szolgált.",
@@ -644,8 +670,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Eritrean Airlines Wartungszentrum",
       hu: "Eritrean Airlines Karbantartó Központ",
       ro: "Centrul de întreținere Eritrean Airlines",
-      en: "Eritrean Airlines Maintenance Center"
-    },
+      en: "Eritrean Airlines Maintenance Center",
+image: "/poi-images/er-maekel-airlines-hq-economic-v2.webp"
+},
     description: {
       de: "Die zentrale technische Einrichtung der nationalen Fluggesellschaft am internationalen Flughafen Asmara.",
       hu: "A nemzeti légitársaság központi műszaki létesítménye az Aszmarai Nemzetközi Repülőtéren.",
@@ -667,8 +694,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Mendefera Metallverarbeitung",
       hu: "Mendefera Fémfeldolgozó",
       ro: "Prelucrarea metalelor Mendefera",
-      en: "Mendefera Metal Works"
-    },
+      en: "Mendefera Metal Works",
+image: "/poi-images/er-debub-mendefera-metal-economic-v2.webp"
+},
     description: {
       de: "Ein mittelständischer Industriebetrieb in der Stadt Mendefera, der Basis-Metallprodukte herstellt.",
       hu: "Közepes méretű ipari vállalat Mendefera városában, amely alapvető fémtermékeket gyárt.",
@@ -690,8 +718,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Hagaz Agrar-Technikzentrum",
       hu: "Hagaz Agrártechnikai Központ",
       ro: "Centrul tehnic agricol Hagaz",
-      en: "Hagaz Agro-Technical Center"
-    },
+      en: "Hagaz Agro-Technical Center",
+image: "/poi-images/er-anseba-hagaz-agro-economic-v2.webp"
+},
     description: {
       de: "Ein Ausbildungs- und Produktionszentrum, das sich auf landwirtschaftliche Maschinen und Weinbau in Eritrea spezialisiert hat.",
       hu: "Oktatási és termelési központ, amely mezőgazdasági gépekre és a szőlőtermesztésre specializálódott Eritreában.",
@@ -713,8 +742,9 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       de: "Gash Flussbett Sandgewinnung",
       hu: "Gash Folyómeder Homokbánya",
       ro: "Extracția nisipului din albia râului Gash",
-      en: "Gash Riverbed Sand Extraction"
-    },
+      en: "Gash Riverbed Sand Extraction",
+image: "/poi-images/er-gash-barka-gash-river-quarry-economic-v2.webp"
+},
     description: {
       de: "Eine ausgedehnte industrielle Zone im trockenen Flussbett des Gash zur Gewinnung von Bausand.",
       hu: "Kiterjedt ipari övezet a Gash kiszáradt folyómedrében építési homok kinyerésére.",

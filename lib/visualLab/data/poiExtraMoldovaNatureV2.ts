@@ -4,7 +4,9 @@ export const moldovaNatureV2: POI[] = [
   {
     id: "moldova-padurea-domneasca-reserve-nature-v2",
     type: "wildlife",
-    name: { de: "Reservat Pădurea Domnească", hu: "Pădurea Domnească Rezervátum", ro: "Rezervația Pădurea Domnească", en: "Royal Forest Reserve" },
+    name: { de: "Reservat Pădurea Domnească", hu: "Pădurea Domnească Rezervátum", ro: "Rezervația Pădurea Domnească", en: "Royal Forest Reserve",
+image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp"
+},
     coords: [27.215, 47.608],
     coordinates: { lat: 47.608, lng: 27.215 },
     description: {
@@ -19,11 +21,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Fondată în anul 1993", "Găzduiește o crescătorie de zimbri", "Cea mai mare rezervație de luncă din țară", "Include recife de corali din Miocen"],
       en: ["Founded in the year 1993", "Home to a European bison breeding station", "Largest floodplain forest reserve in the country", "Includes coral reefs from the Miocene"],
     },
-    imageHint: "European bison in a forest clearing in Moldova", image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp"},
+    imageHint: "European bison in a forest clearing in Moldova",
+    image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das 1993 gegründete Reservat am Pruth-Ufer beherbergt Moldaus größte Graureiher-Kolonie und uralte Eichenwälder auf einer Fläche von über 6.000 Hektar.",
+      hu: "Az 1993-ban alapított Prut-menti rezervátum Moldova legnagyobb szürke gém kolóniájának ad otthont, több mint 6000 hektáros területén ősi tölgyesek találhatók.",
+      ro: "Rezervația fondată în 1993 pe malul Prutului adăpostește cea mai mare colonie de stârci cenușii din Moldova, având stejari seculari pe peste 6.000 de hectare.",
+      en: "Founded in 1993 along the Prut, this reserve hosts Moldova's largest grey heron colony and ancient oak forests across a protected area of over 6,000 hectares.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1993", "Fläche von 6.032 Hektar", "Über 500 Jahre alte Eichen", "Größte Graureiher-Kolonie"],
+      hu: ["1993-as alapítási év", "6032 hektáros terület", "500 évesnél idősebb tölgyek", "Legnagyobb szürke gém telep"],
+      ro: ["Fondată în anul 1993", "Suprafață de 6.032 hectare", "Stejari de peste 500 ani", "Cea mai mare colonie de stârci"],
+      en: ["Founded in 1993", "Area of 6,032 hectares", "Oaks over 500 years old", "Largest grey heron colony"],
+    },
+  },
   {
     id: "moldova-plaiul-fagului-reserve-nature-v2",
     type: "forest",
-    name: { de: "Reservat Plaiul Fagului", hu: "Plaiul Fagului Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Beech Land Reserve" },
+    name: { de: "Reservat Plaiul Fagului", hu: "Plaiul Fagului Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Beech Land Reserve",
+image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp"
+},
     coords: [28.016, 47.283],
     coordinates: { lat: 47.283, lng: 28.016 },
     description: {
@@ -38,11 +56,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5.642 hectare", "Fondată în anul 1992", "Protejează fagi rari de tip central-european", "Loc important pentru cercetare științifică"],
       en: ["Area is about 5,642 hectares", "Founded in the year 1992", "Protects rare Central European beech trees", "Important site for scientific research"],
     },
-    imageHint: "Dense beech forest canopy in autumn colors", image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp"},
+    imageHint: "Dense beech forest canopy in autumn colors",
+    image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses 1992 eingerichtete Schutzgebiet in den Codru-Hügeln ist für seine Buchenwälder bekannt, die hier ihre östliche Verbreitungsgrenze in Europa erreichen.",
+      hu: "Az 1992-ben létrehozott Codru-hátsági természetvédelmi terület bükköseiről nevezetes, amelyek itt érik el európai elterjedésük legkeletibb határát.",
+      ro: "Înființată în 1992 în regiunea Codrilor, această rezervație este renumită pentru pădurile de fag care ating aici limita estică de răspândire în Europa.",
+      en: "Established in 1992 in the Codru hills, this reserve is famous for its beech forests, which mark the easternmost limit of the species' range in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Mai 1992", "Fläche von 5.642 Hektar", "900 verschiedene Pflanzenarten", "Höhenlage bis zu 400 Meter"],
+      hu: ["1992 májusában alapították", "5642 hektáros védett terület", "900 különböző növényfaj", "400 méteres tengerszint feletti magasság"],
+      ro: ["Fondată în mai 1992", "Suprafață de 5.642 hectare", "Peste 900 specii de plante", "Altitudine de până la 400 m"],
+      en: ["Founded in May 1992", "Area of 5,642 hectares", "900 different plant species", "Elevation up to 400 meters"],
+    },
+  },
   {
     id: "moldova-suta-de-movile-nature-v2",
     type: "valley",
-    name: { de: "Hundert Hügel", hu: "Száz domb vidéke", ro: "Suta de Movile", en: "Hundred Knolls" },
+    name: { de: "Hundert Hügel", hu: "Száz domb vidéke", ro: "Suta de Movile", en: "Hundred Knolls",
+image: "/poi-images/moldova-suta-de-movile-nature-v2.webp"
+},
     coords: [27.233, 47.816],
     coordinates: { lat: 47.816, lng: 27.233 },
     description: {
@@ -57,11 +91,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Se întinde pe 1.600 de hectare", "Movilele ating înălțimi de până la 30 metri", "Situat între satele Braniște și Cobani", "Parte a rezervației Pădurea Domnească"],
       en: ["Covers 1,600 hectares", "Knolls reach heights up to 30 meters", "Located between Braniște and Cobani villages", "Part of the Royal Forest Reserve"],
     },
-    imageHint: "Green landscape with many small symmetrical hills", image: "/poi-images/moldova-suta-de-movile-nature-v2.webp"},
+    imageHint: "Green landscape with many small symmetrical hills",
+    image: "/poi-images/moldova-suta-de-movile-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Einzigartige geologische Formation am Pruth mit über 3.500 Hügeln, die sich über 1.600 Hektar erstrecken und deren Ursprung bis heute wissenschaftlich umstritten ist.",
+      hu: "Egyedülálló geológiai képződmény a Prut mentén, több mint 3500 halommal 1600 hektáron, melyek pontos kialakulása máig tudományos viták tárgya.",
+      ro: "Formațiune geologică unică pe malul Prutului, cuprinzând peste 3.500 de movile dispuse pe 1.600 de hectare, a căror origine rămâne intens dezbătută.",
+      en: "A unique geological formation along the Prut featuring over 3,500 mounds across 1,600 hectares, whose exact origin remains a subject of scientific debate.",
+    },
+    factsAdvanced: {
+      de: ["Über 3.500 einzelne Hügel", "Erstreckt sich über 1.600 Hektar", "Maximale Hügelhöhe von 30m", "Gelegen auf der Pruth-Terrasse"],
+      hu: ["Több mint 3500 egyedi halom", "1600 hektáros kiterjedés", "30 méteres maximális magasság", "A Prut folyó teraszán található"],
+      ro: ["Peste 3.500 de movile", "Întindere de 1.600 hectare", "Înălțime maximă de 30 metri", "Situată pe terasa râului Prut"],
+      en: ["Over 3,500 individual mounds", "Spans over 1,600 hectares", "Maximum mound height of 30m", "Located on the Prut terrace"],
+    },
+  },
   {
     id: "moldova-balanesti-hill-nature-v2",
     type: "peak",
-    name: { de: "Bălănești-Hügel", hu: "Bălănești-domb", ro: "Dealul Bălănești", en: "Balanesti Hill" },
+    name: { de: "Bălănești-Hügel", hu: "Bălănești-domb", ro: "Dealul Bălănești", en: "Balanesti Hill",
+image: "/poi-images/moldova-balanesti-hill-nature-v2.webp"
+},
     coords: [28.083, 47.216],
     coordinates: { lat: 47.216, lng: 28.083 },
     description: {
@@ -76,11 +126,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Altitudine maximă de 430 metri", "Cea mai înaltă culme dintre Carpați și Urali", "Compus din calcare sarmațiene", "Destinație populară pentru drumeții locale"],
       en: ["Maximum height of 430 meters", "Highest peak between the Carpathians and the Urals", "Composed of Sarmatian limestone", "Popular destination for local hiking"],
     },
-    imageHint: "Green hilltop with panoramic views of the Moldovan countryside", image: "/poi-images/moldova-balanesti-hill-nature-v2.webp"},
+    imageHint: "Green hilltop with panoramic views of the Moldovan countryside",
+    image: "/poi-images/moldova-balanesti-hill-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Mit 429 Metern ist der Dealul Bălănești der höchste Punkt Moldaus und bietet einen weiten Blick über die hügelige Landschaft des zentralen moldauischen Plateaus.",
+      hu: "A 429 méter magas Bălănești-domb Moldova legmagasabb pontja, ahonnan pazar kilátás nyílik a közép-moldovai fennsík dimbes-dombos tájaira.",
+      ro: "Cu o înălțime de 429 de metri, Dealul Bălănești reprezintă cel mai înalt punct din Moldova, oferind panorame vaste asupra podișului central moldovenesc.",
+      en: "Standing at 429 meters, Balanesti Hill is the highest point in Moldova, offering expansive views over the rolling landscapes of the Central Moldavian Plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 429,1 Metern", "Höchster Gipfel Moldaus", "Gelegen im Bezirk Nisporeni", "Teil des Codru-Hügellands"],
+      hu: ["429,1 méteres magasság", "Moldova legmagasabb pontja", "A Nisporeni járásban fekszik", "A Codru-dombság része"],
+      ro: ["Altitudine de 429,1 metri", "Cel mai înalt vârf din Moldova", "Situat în raionul Nisporeni", "Parte a colinelor Codrilor"],
+      en: ["Elevation of 429.1 meters", "Highest peak in Moldova", "Located in Nisporeni district", "Part of the Codru hills"],
+    },
+  },
   {
     id: "moldova-duruitoarea-gorge-nature-v2",
     type: "valley",
-    name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Gorge" },
+    name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Gorge",
+image: "/poi-images/moldova-duruitoarea-gorge-nature-v2.webp"
+},
     coords: [27.266, 47.883],
     coordinates: { lat: 47.883, lng: 27.266 },
     description: {
@@ -96,11 +162,25 @@ export const moldovaNatureV2: POI[] = [
       en: ["Composed of ancient reef limestones", "The cave has three chambers", "Finds date back to the Paleolithic", "Located near the Stinca-Costesti reservoir"],
     },
     imageHint: "Steep limestone gorge with a cave entrance on the side",
+    descriptionAdvanced: {
+      de: "Diese Kalksteinschlucht bei Duruitoarea ist berühmt für ihre prähistorischen Höhlen, in denen Siedlungsspuren aus der Steinzeit sowie fossile Tierknochen gefunden wurden.",
+      hu: "A duruitoarea-i mészkőszurdok híres őskori barlangjairól, ahol kőkorszaki településnyomokat és fosszilis állati csontokat tártak fel a kutatók.",
+      ro: "Defileul de calcar de lângă Duruitoarea este faimos pentru peșterile sale preistorice, unde au fost găsite așezări din epoca de piatră și oase de animale fosile.",
+      en: "This limestone gorge near Duruitoarea is famous for its prehistoric caves, where Stone Age settlements and fossilized animal bones have been unearthed.",
+    },
+    factsAdvanced: {
+      de: ["Klippenhöhe von 70 Metern", "Paläolithische Fundstätten", "Sarmatisches Kalksteinriff", "Nahe dem Costesti-Stausee"],
+      hu: ["70 méteres sziklafalak", "Paleolitikumi lelőhelyek", "Szarmata mészkőzátony", "A Costesti-víztározó mellett"],
+      ro: ["Înălțimea stâncilor de 70m", "Saituri din paleolitic", "Recif de calcar sarmatic", "Lângă lacul Costești"],
+      en: ["Cliff height of 70 meters", "Paleolithic archaeological sites", "Sarmatian limestone reef", "Near Costesti reservoir"],
+    },
   },
   {
     id: "moldova-nistru-river-nature-v2",
     type: "river",
-    name: { de: "Fluss Dnjestr", hu: "Dnyeszter-folyó", ro: "Fluviul Nistru", en: "Dniester River" },
+    name: { de: "Fluss Dnjestr", hu: "Dnyeszter-folyó", ro: "Fluviul Nistru", en: "Dniester River",
+image: "/poi-images/moldova-nistru-river-nature-v2.webp"
+},
     coords: [29.1, 47.4],
     coordinates: { lat: 47.4, lng: 29.1 },
     description: {
@@ -115,11 +195,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 1.352 kilometri", "Principala sursă de apă potabilă a Moldovei", "Formează granița cu regiunea transnistreană", "Izvorăște din Carpații ucraineni"],
       en: ["Total length of 1,352 kilometers", "Primary source of drinking water for Moldova", "Forms the boundary with the Transnistrian region", "Originates in the Ukrainian Carpathians"],
     },
-    imageHint: "Wide river winding through a valley with green hills", image: "/poi-images/moldova-nistru-river-nature-v2.webp"},
+    imageHint: "Wide river winding through a valley with green hills",
+    image: "/poi-images/moldova-nistru-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dnister entspringt in den Karpaten und fließt über 1.350 Kilometer bis zum Schwarzen Meer, wobei er das wichtigste Oberflächengewässer für Moldau darstellt.",
+      hu: "A Dnyeszter a Kárpátokban ered és 1350 kilométeren át kanyarog a Fekete-tengerig, Moldova legfontosabb felszíni vízforrását és ökológiai folyosóját alkotva.",
+      ro: "Nistrul izvorăște în Carpați și curge pe o lungime de 1.350 km până la Marea Neagră, fiind principala arteră hidrografică și sursă de apă a Republicii Moldova.",
+      en: "The Dniester rises in the Carpathians and flows 1,350 km to the Black Sea, serving as Moldova's vital water source and a key ecological corridor.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 1.352 km", "650 km innerhalb Moldaus", "Einzugsgebiet von 72.100 km2", "Wichtigste Trinkwasserquelle"],
+      hu: ["1352 km teljes hossz", "650 km Moldován belül", "72 100 km2 vízgyűjtő terület", "Fő ivóvízforrás az országban"],
+      ro: ["Lungime totală de 1.352 km", "650 km pe teritoriul Moldovei", "Bazin de 72.100 km2", "Principală sursă de apă potabilă"],
+      en: ["Total length of 1,352 km", "650 km within Moldova", "Basin area of 72,100 km2", "Primary source of drinking water"],
+    },
+  },
   {
     id: "moldova-stinca-costesti-reservoir-nature-v2",
     type: "lake",
-    name: { de: "Stausee Stînca-Costești", hu: "Stînca-Costești víztározó", ro: "Lacul de acumulare Stînca-Costești", en: "Stinca-Costesti Reservoir" },
+    name: { de: "Stausee Stînca-Costești", hu: "Stînca-Costești víztározó", ro: "Lacul de acumulare Stînca-Costești", en: "Stinca-Costesti Reservoir",
+image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp"
+},
     coords: [27.216, 47.833],
     coordinates: { lat: 47.833, lng: 27.216 },
     description: {
@@ -134,11 +230,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Suprafață maximă de cca. 59 km²", "Proiect comun al Moldovei și României", "Adâncimea medie este de 24 de metri", "Important pentru controlul inundațiilor"],
       en: ["Maximum area of about 59 km²", "Joint project between Moldova and Romania", "Average depth is 24 meters", "Crucial for flood control"],
     },
-    imageHint: "Large expanse of blue water with a dam in the distance", image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp"},
+    imageHint: "Large expanse of blue water with a dam in the distance",
+    image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser riesige Stausee am Pruth wurde in den 1970ern erbaut und dient der Stromerzeugung sowie dem Hochwasserschutz an der moldauisch-rumänischen Grenze.",
+      hu: "Ez a hatalmas Prut-menti víztározó az 1970-es években épült áramtermelés és árvízvédelem céljából a moldovai-román határ mentén.",
+      ro: "Acest vast lac de acumulare pe Prut a fost construit în anii 1970 pentru producția de energie și controlul inundațiilor la granița moldo-română.",
+      en: "This massive reservoir on the Prut was built in the 1970s for hydroelectric power and flood control along the Moldovan-Romanian border.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung im Jahr 1978", "735 Millionen m3 Volumen", "Länge von etwa 47 km", "Gemeinsames MD-RO Projekt"],
+      hu: ["1978-ban fejezték be", "735 millió m3 víztérfogat", "Mintegy 47 km-es hosszúság", "Közös moldáv-román projekt"],
+      ro: ["Finalizat în anul 1978", "Volum de 735 milioane m3", "Lungime de aproximativ 47 km", "Proiect comun MD-RO"],
+      en: ["Completed in 1978", "735 million m3 volume", "Length of about 47 km", "Joint MD-RO infrastructure"],
+    },
+  },
   {
     id: "moldova-naslavcea-hills-nature-v2",
     type: "peak",
-    name: { de: "Naslavcea-Hügel", hu: "Naslavcea-dombok", ro: "Dealurile Naslavcea", en: "Naslavcea Hills" },
+    name: { de: "Naslavcea-Hügel", hu: "Naslavcea-dombok", ro: "Dealurile Naslavcea", en: "Naslavcea Hills",
+image: "/poi-images/moldova-naslavcea-hills-nature-v2.webp"
+},
     coords: [27.583, 48.466],
     coordinates: { lat: 48.466, lng: 27.583 },
     description: {
@@ -154,11 +266,25 @@ export const moldovaNatureV2: POI[] = [
       en: ["Northernmost point of the country", "Contains Cretaceous era deposits", "Offers a view of a heart-shaped island in the Dniester", "Known for rich fossil deposits"],
     },
     imageHint: "Steep chalk hills overlooking a river island",
+    descriptionAdvanced: {
+      de: "Die Hügel bei Naslavcea im Norden Moldaus sind bekannt für ihre Schiefervorkommen und bieten einen spektakulären Blick auf den markanten Dnister-Bogen.",
+      hu: "Az észak-moldovai Naslavcea környéki dombok palalelőhelyeikről ismertek, és lenyűgöző kilátást nyújtanak a Dnyeszter látványos kanyarulatára.",
+      ro: "Dealurile de lângă Naslavcea, în nordul Moldovei, sunt cunoscute pentru zăcămintele de șist și oferă vederi spectaculoase asupra cotului fluviului Nistru.",
+      en: "The Naslavcea hills in northern Moldova are known for its shale deposits and offer spectacular views over a prominent bend in the Dniester River.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt Moldaus", "Vorkommen von Tonschiefer", "150m tiefe Steilufer", "Panoramablick auf den Dnister"],
+      hu: ["Moldova legészakibb pontja", "Agyagpala lelőhelyek", "150 méteres meredek partok", "Panoráma a Dnyeszter-kanyarra"],
+      ro: ["Cel mai nordic punct al țării", "Zăcăminte de șist argilos", "Maluri abrupte de 150m", "Vedere panoramică spre Nistru"],
+      en: ["Northernmost point of Moldova", "Rich in clay shale deposits", "150m high steep banks", "Panoramic view of Dniester bend"],
+    },
   },
   {
     id: "moldova-dubasari-reservoir-nature-v2",
     type: "lake",
-    name: { de: "Dubăsari-Stausee", hu: "Dubăsari-víztározó", ro: "Lacul de acumulare Dubăsari", en: "Dubasari Reservoir" },
+    name: { de: "Dubăsari-Stausee", hu: "Dubăsari-víztározó", ro: "Lacul de acumulare Dubăsari", en: "Dubasari Reservoir",
+image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp"
+},
     coords: [29.133, 47.333],
     coordinates: { lat: 47.333, lng: 29.133 },
     description: {
@@ -173,11 +299,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 128 kilometri", "Cel mai vechi lac de acumulare mare din Moldova", "Volum maxim de apă de 0,48 km³", "Utilizat și pentru irigații"],
       en: ["Length of about 128 kilometers", "Oldest large reservoir in Moldova", "Maximum water volume of 0.48 km³", "Also used for irrigation purposes"],
     },
-    imageHint: "Long river reservoir reflecting the sky", image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp"},
+    imageHint: "Long river reservoir reflecting the sky",
+    image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1954 fertiggestellte Stausee von Dubăsari ist das größte künstliche Gewässer Moldaus und ein zentraler Ort für die Energiegewinnung und Naherholung am Dnister.",
+      hu: "Az 1954-ben elkészült Dubăsari-víztározó Moldova legnagyobb mesterséges tava, a Dnyeszter menti energiatermelés és pihenés fontos központja.",
+      ro: "Finalizat în 1954, lacul de acumulare Dubăsari este cel mai mare corp de apă artificial din Moldova, fiind esențial pentru energie și recreere pe Nistru.",
+      en: "Completed in 1954, the Dubasari reservoir is Moldova's largest man-made body of water, vital for power generation and recreation along the Dniester.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 1954", "Länge von 128 Kilometern", "Wasseroberfläche von 67 km2", "Wasserkraftwerk Dubăsari"],
+      hu: ["1954-ben helyezték üzembe", "128 kilométeres hosszúság", "67 km2-es vízfelület", "Dubăsari vízerőmű"],
+      ro: ["Dat în exploatare în 1954", "Lungime de 128 kilometri", "Suprafață de 67 km2", "Hidrocentrala Dubăsari"],
+      en: ["Commissioned in 1954", "Length of 128 kilometers", "Surface area of 67 km2", "Dubasari hydroelectric plant"],
+    },
+  },
   {
     id: "moldova-trebujeni-gorge-nature-v2",
     type: "valley",
-    name: { de: "Schlucht von Trebujeni", hu: "Trebujeni-szurdok", ro: "Defileul Trebujeni", en: "Trebujeni Gorge" },
+    name: { de: "Schlucht von Trebujeni", hu: "Trebujeni-szurdok", ro: "Defileul Trebujeni", en: "Trebujeni Gorge",
+image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp"
+},
     coords: [28.966, 47.316],
     coordinates: { lat: 47.316, lng: 28.966 },
     description: {
@@ -192,11 +334,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Parte a Parcului Național Orhei", "Pereții stâncoși au până la 100 metri înălțime", "Conține urme de așezări antice", "Cunoscut pentru curenții termici ascendenți"],
       en: ["Part of the Orhei National Park", "Rock walls are up to 100 meters high", "Contains traces of ancient settlements", "Known for its thermal updrafts"],
     },
-    imageHint: "Dramatic river bend inside a deep limestone canyon", image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp"},
+    imageHint: "Dramatic river bend inside a deep limestone canyon",
+    image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Trebujeni-Tal ist Teil des Orheiul Vechi-Komplexes, wo der Fluss Răut tiefe Schluchten in den sarmatischen Kalkstein der moldauischen Steppe gegraben hat.",
+      hu: "A Trebujeni-szurdok az Orheiul Vechi komplexum része, ahol a Răut folyó mély kanyonokat vájt a moldovai sztyeppe szarmata mészkőrétegeibe.",
+      ro: "Defileul Trebujeni face parte din complexul Orheiul Vechi, unde râul Răut a săpat canioane adânci în calcarul sarmatic al stepei moldovenești.",
+      en: "Trebujeni Gorge is part of the Orheiul Vechi complex, where the Raut River carved deep canyons into the Sarmatian limestone of the Moldovan steppe.",
+    },
+    factsAdvanced: {
+      de: ["Markante Răut-Flussschleife", "Steile Kalksteinfelsen", "Teil von Orheiul Vechi", "Beliebte Wanderwege"],
+      hu: ["Látványos Răut-folyókanyar", "Meredek mészkősziklák", "Orheiul Vechi része", "Népszerű túraútvonalak"],
+      ro: ["Cot spectaculos al Răutului", "Stânci calcaroase abrupte", "Parte din Orheiul Vechi", "Trasee pitorești de drumeție"],
+      en: ["Prominent Raut river bend", "Steep limestone cliffs", "Part of Orheiul Vechi complex", "Scenic hiking trails"],
+    },
+  },
   {
     id: "moldova-tigheci-hills-nature-v2",
     type: "forest",
-    name: { de: "Tigheci-Hügel", hu: "Tigheci-dombság", ro: "Codrii Tigheciului", en: "Tigheci Hills" },
+    name: { de: "Tigheci-Hügel", hu: "Tigheci-dombság", ro: "Codrii Tigheciului", en: "Tigheci Hills",
+image: "/poi-images/moldova-tigheci-hills-nature-v2.webp"
+},
     coords: [28.366, 46.416],
     coordinates: { lat: 46.416, lng: 28.366 },
     description: {
@@ -211,11 +369,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Altitudinea maximă este de 301 metri", "Arie protejată importantă în sud", "Dominat de păduri de stejar și carpen", "Habitat pentru plante rare de stepă"],
       en: ["Highest point is at 301 meters", "Important nature reserve in the south", "Dominated by oak and hornbeam forests", "Habitat for rare steppe plants"],
     },
-    imageHint: "Rolling hills covered with dense green forest in southern Moldova", image: "/poi-images/moldova-tigheci-hills-nature-v2.webp"},
+    imageHint: "Rolling hills covered with dense green forest in southern Moldova",
+    image: "/poi-images/moldova-tigheci-hills-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tigheci-Hügel im Süden Moldaus beherbergen eines der bedeutendsten Waldgebiete der Region mit einer reichen Vielfalt an wärmeliebenden Pflanzenarten.",
+      hu: "A dél-moldovai Tigheci-dombság a régió egyik legfontosabb erdőterületének ad otthont, ahol számos melegkedvelő növényfaj talál menedéket.",
+      ro: "Dealurile Tigheci din sudul Moldovei adăpostesc unul dintre cele mai importante masive forestiere din zonă, cu o bogată diversitate de specii termofile.",
+      en: "The Tigheci Hills in southern Moldova host one of the region's most significant forest massifs, featuring a rich diversity of thermophilic plant species.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe von 301 Metern", "Mix aus Wald und Steppe", "Gelegen im Bezirk Cantemir", "Seltene Pflanzenvorkommen"],
+      hu: ["301 méteres csúcsmagasság", "Erdő és sztyeppe keveréke", "A Cantemir járásban található", "Ritka növényfajok élőhelye"],
+      ro: ["Înălțime maximă de 301m", "Mix de pădure și stepă", "Situat în raionul Cantemir", "Specii rare de plante"],
+      en: ["Peak height of 301 meters", "Mix of forest and steppe", "Located in Cantemir district", "Rare plant species habitat"],
+    },
+  },
   {
     id: "moldova-cobani-reef-nature-v2",
     type: "landmark",
-    name: { de: "Cobani-Riff", hu: "Cobani-zátony", ro: "Reciful Cobani", en: "Cobani Reef" },
+    name: { de: "Cobani-Riff", hu: "Cobani-zátony", ro: "Reciful Cobani", en: "Cobani Reef",
+image: "/poi-images/moldova-cobani-reef-nature-v2.webp"
+},
     coords: [27.24, 47.77],
     coordinates: { lat: 47.77, lng: 27.24 },
     description: {
@@ -230,11 +404,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Format din calcare de corali și alge", "Înălțime de cca. 60 metri deasupra Prutului", "Vârsta estimată la 15-20 milioane de ani", "Loc de cuibărit popular pentru păsări răpitoare"],
       en: ["Composed of coral and algal limestones", "Height of about 60 meters above the Prut", "Estimated age is 15-20 million years", "Popular nesting site for birds of prey"],
     },
-    imageHint: "Rugged limestone cliffs rising above a flat river plain", image: "/poi-images/moldova-cobani-reef-nature-v2.webp"},
+    imageHint: "Rugged limestone cliffs rising above a flat river plain",
+    image: "/poi-images/moldova-cobani-reef-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Ein fossiles Korallenriff bei Cobani, das vor Millionen Jahren im warmen Meer entstand und heute als monumentale Kalksteinformation aus der Landschaft ragt.",
+      hu: "Fosszilis korallzátony Cobani mellett, amely évmilliókkal ezelőtt meleg tengerben keletkezett, ma pedig monumentális mészkőképződményként emelkedik ki.",
+      ro: "Un recif de corali fosil lângă Cobani, format acum milioane de ani într-o mare caldă, care astăzi se înalță ca o formațiune monumentală de calcar.",
+      en: "A fossilized coral reef near Cobani, formed millions of years ago in a warm sea, now standing as a monumental limestone formation in the landscape.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung im Sarmat-Meer", "Etwa 100m langes Riff", "Prähistorische Fossilien", "Markante Kalksteingipfel"],
+      hu: ["A Szarmata-tengerből ered", "Kb. 100m hosszú zátony", "Őskori fosszíliák", "Látványos mészkőcsúcsok"],
+      ro: ["Origine în marea Sarmatică", "Recif lung de cca 100m", "Fosile preistorice", "Vârfuri calcaroase marcante"],
+      en: ["Sarmatian sea origin", "Approx. 100m long reef", "Prehistoric fossil remains", "Striking limestone peaks"],
+    },
+  },
   {
     id: "moldova-trinca-gorge-nature-v2",
     type: "valley",
-    name: { de: "Trinca-Schlucht", hu: "Trinca-szurdok", ro: "Defileul Trinca", en: "Trinca Gorge" },
+    name: { de: "Trinca-Schlucht", hu: "Trinca-szurdok", ro: "Defileul Trinca", en: "Trinca Gorge",
+image: "/poi-images/moldova-trinca-gorge-nature-v2.webp"
+},
     coords: [27.116, 48.216],
     coordinates: { lat: 48.216, lng: 27.116 },
     description: {
@@ -249,11 +439,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lățimea defileului este de până la 250 metri", "Lungime de aproximativ 500 de metri", "Protejează plante calcicole rare", "Situat în raionul Edineț"],
       en: ["Width of the gorge is up to 250 meters", "Length of about 500 meters", "Protects rare lime-loving plants", "Located in the Edinet district"],
     },
-    imageHint: "Wide rocky gorge with steep limestone walls and a small river", image: "/poi-images/moldova-trinca-gorge-nature-v2.webp"},
+    imageHint: "Wide rocky gorge with steep limestone walls and a small river",
+    image: "/poi-images/moldova-trinca-gorge-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Trinca-Schlucht besticht durch ihre steilen Kalksteinwände und ist ein wichtiges geologisches Denkmal, das Einblicke in die maritime Vergangenheit Moldaus bietet.",
+      hu: "A Trinca-szurdok meredek mészkőfalaival nyűgöz le, fontos geológiai emlékhely, amely bepillantást enged Moldova egykori tengeri múltjába.",
+      ro: "Defileul Trinca impresionează prin pereții săi abrupți de calcar și este un monument geologic important ce oferă date despre trecutul marin al Moldovei.",
+      en: "Trinca Gorge stands out with its steep limestone walls and serves as an important geological monument providing insights into Moldova's maritime past.",
+    },
+    factsAdvanced: {
+      de: ["Breite von etwa 400 Metern", "Fluss Draghiște im Tal", "Tiefe von bis zu 120m", "Kalksteinhöhlen in den Wänden"],
+      hu: ["Körülbelül 400 méter széles", "A Draghiște folyó vájta", "Max. 120 méteres mélység", "Mészkőbarlangok a falakban"],
+      ro: ["Lățime de cca 400 metri", "Străbătut de râul Draghiște", "Adâncime de până la 120m", "Peșteri în pereții de calcar"],
+      en: ["Width of about 400 meters", "Draghiște river flow", "Depth of up to 120 meters", "Limestone caves in cliffs"],
+    },
+  },
   {
     id: "moldova-varatic-gorge-nature-v2",
     type: "valley",
-    name: { de: "Văratic-Schlucht", hu: "Văratic-szurdok", ro: "Defileul Văratic", en: "Varatic Gorge" },
+    name: { de: "Văratic-Schlucht", hu: "Văratic-szurdok", ro: "Defileul Văratic", en: "Varatic Gorge",
+image: "/poi-images/moldova-varatic-gorge-nature-v2.webp"
+},
     coords: [27.266, 47.916],
     coordinates: { lat: 47.916, lng: 27.266 },
     description: {
@@ -269,11 +475,25 @@ export const moldovaNatureV2: POI[] = [
       en: ["Includes a small waterfall", "Popular destination for nature photography", "Belongs to the Prut Toltry system", "Located near Varatic village"],
     },
     imageHint: "Narrow rocky canyon with lush vegetation and a small waterfall",
+    descriptionAdvanced: {
+      de: "Eine malerische Schlucht bei Văratic, bekannt für ihre bizarren Felsformationen und Wasserfälle, die in den weichen Kalkstein der Region gegraben wurden.",
+      hu: "Gleccser és víz által formált festői szurdok Văratic mellett, amely bizarr sziklaalakzatairól és a mészkőbe vájt apró vízeséseiről ismert.",
+      ro: "Un defileu pitoresc lângă Văratic, cunoscut pentru formațiunile stâncoase bizare și cascadele săpate în calcarul moale al regiunii.",
+      en: "A picturesque gorge near Varatic, known for its bizarre rock formations and waterfalls carved into the region's soft limestone.",
+    },
+    factsAdvanced: {
+      de: ["Fluss Văratic im Zentrum", "Kleine Kalksteinwasserfälle", "Felswände bis 100m Höhe", "Ideales Wandergebiet"],
+      hu: ["Közepén a Văratic patak folyik", "Apró mészkő vízesések", "100m magas sziklafalak", "Kedvelt túrahelyszín"],
+      ro: ["Străbătut de râul Văratic", "Mici cascade în calcar", "Pereți de până la 100m", "Zonă ideală de drumeție"],
+      en: ["Varatic river flow", "Small limestone waterfalls", "Cliffs up to 100m high", "Popular hiking area"],
+    },
   },
   {
     id: "moldova-molovata-cliffs-nature-v2",
     type: "landmark",
-    name: { de: "Molovata-Felsen", hu: "Molovata-sziklák", ro: "Stâncile de la Molovata", en: "Molovata Cliffs" },
+    name: { de: "Molovata-Felsen", hu: "Molovata-sziklák", ro: "Stâncile de la Molovata", en: "Molovata Cliffs",
+image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp"
+},
     coords: [29.116, 47.35],
     coordinates: { lat: 47.35, lng: 29.116 },
     description: {
@@ -288,11 +508,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Vedere panoramică spre lacul Dubăsari", "Pereții de calcar sunt bogați în fosile", "Loc popular pentru camping și pescuit", "Parte a platoului sarmațian"],
       en: ["View overlooking the Dubasari reservoir", "Limestone walls are rich in fossils", "Popular spot for camping and fishing", "Part of the Sarmatian plateau"],
     },
-    imageHint: "White limestone cliffs overlooking a wide blue river", image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp"},
+    imageHint: "White limestone cliffs overlooking a wide blue river",
+    image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die markanten Felsen von Molovata am Ufer des Dnister bieten beeindruckende geologische Profile und sind ein beliebtes Ziel für Wanderer und Geologen.",
+      hu: "A Dnyeszter partján magasodó Molovata-sziklák lenyűgöző geológiai rétegeket mutatnak be, a túrázók és geológusok kedvelt célpontjai.",
+      ro: "Stâncile marcante de la Molovata, pe malul Nistrului, oferă profiluri geologice impresionante, fiind o destinație populară pentru turiști și geologi.",
+      en: "The striking Molovata cliffs on the banks of the Dniester offer impressive geological profiles and are a popular destination for hikers and geologists.",
+    },
+    factsAdvanced: {
+      de: ["Direkt am Dnister-Ufer", "Sichtbare Kalksteinschichten", "Panoramablick vom Plateau", "Region Dubăsari"],
+      hu: ["Közvetlen a Dnyeszter partján", "Látható mészkőrétegek", "Panoráma a fennsíkról", "Dubăsari régió része"],
+      ro: ["Direct pe malul Nistrului", "Straturi de calcar vizibile", "Vedere panoramică de pe podiș", "Situat în zona Dubăsari"],
+      en: ["On the Dniester river bank", "Visible limestone layers", "Panoramic plateau view", "Dubasari district area"],
+    },
+  },
   {
     id: "moldova-giurgiulesti-point-nature-v2",
     type: "river",
-    name: { de: "Giurgiulești-Punkt", hu: "Giurgiulești-pont", ro: "Confluența Prut-Dunăre", en: "Giurgiulesti Confluence" },
+    name: { de: "Giurgiulești-Punkt", hu: "Giurgiulești-pont", ro: "Confluența Prut-Dunăre", en: "Giurgiulesti Confluence",
+image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp"
+},
     coords: [28.2, 45.466],
     coordinates: { lat: 45.466, lng: 28.2 },
     description: {
@@ -307,11 +543,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Singurul acces al Moldovei la Dunăre", "Cel mai sudic punct al țării", "Granița între Moldova, România și Ucraina", "Zonă protejată importantă pentru pești"],
       en: ["Moldova's only access to the Danube", "Southernmost point of the country", "Border between Moldova, Romania, and Ukraine", "Important protected area for fish"],
     },
-    imageHint: "River confluence with muddy water meeting clearer river water", image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp"},
+    imageHint: "River confluence with muddy water meeting clearer river water",
+    image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der südlichste Punkt Moldaus markiert den Zusammenfluss von Pruth und Donau und gewährt dem Land über einen kurzen Küstenabschnitt Zugang zum Welthandel.",
+      hu: "Moldova legdélebbi pontja, ahol a Prut a Dunába torkollik, biztosítva az ország számára a kijáratot a nemzetközi vízi utakra és a világkereskedelemre.",
+      ro: "Cel mai sudic punct al Moldovei marchează confluența Prutului cu Dunărea, oferind țării acces la comerțul mondial printr-un scurt segment de mal.",
+      en: "Moldova's southernmost point marks the confluence of the Prut and Danube rivers, granting the country access to global trade via a short shoreline.",
+    },
+    factsAdvanced: {
+      de: ["Zusammenfluss von Pruth/Donau", "480m Uferlänge an der Donau", "Einziger moldauischer Hafen", "Dreiländereck MD-RO-UA"],
+      hu: ["Prut és Duna torkolata", "480m hosszú dunai part szakasz", "Moldova egyetlen kikötője", "MD-RO-UA hármashatár"],
+      ro: ["Confluența Prut cu Dunăre", "480m deschidere la Dunăre", "Singurul port al Moldovei", "Triplex confinium MD-RO-UA"],
+      en: ["Prut and Danube confluence", "480m of Danube shoreline", "Moldova's only river port", "Triple border MD-RO-UA"],
+    },
+  },
   {
     id: "moldova-bic-river-nature-v2",
     type: "river",
-    name: { de: "Fluss Bîc", hu: "Bîc-folyó", ro: "Râul Bîc", en: "Bic River" },
+    name: { de: "Fluss Bîc", hu: "Bîc-folyó", ro: "Râul Bîc", en: "Bic River",
+image: "/poi-images/moldova-bic-river-nature-v2.webp"
+},
     coords: [28.8, 47.0],
     coordinates: { lat: 47.0, lng: 28.8 },
     description: {
@@ -326,11 +578,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 155 kilometri", "Curge prin inima Codrilor", "Afluent al Nistrului", "Formează lacul Ghidighici"],
       en: ["Total length of 155 kilometers", "Flows through the heart of the Codrii", "Tributary of the Dniester", "Forms the Ghidighici reservoir"],
     },
-    imageHint: "Small river winding through a wooded valley", image: "/poi-images/moldova-bic-river-nature-v2.webp"},
+    imageHint: "Small river winding through a wooded valley",
+    image: "/poi-images/moldova-bic-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bîc ist ein rechter Nebenfluss des Dnister, der durch die Hauptstadt Chișinău fließt und eine zentrale, wenn auch ökologisch belastete Wasserader darstellt.",
+      hu: "A Bîc a Dnyeszter jobb oldali mellékfolyója, amely keresztülfolyik a fővároson, Chișinăun, fontos, bár ökológiailag terhelt vízfolyást alkotva.",
+      ro: "Bîcul este un afluent de dreapta al Nistrului care traversează capitala Chișinău, fiind o arteră hidrografică centrală, deși puternic afectată ecologic.",
+      en: "The Bic is a right tributary of the Dniester that flows through the capital, Chisinau, serving as a central though ecologically stressed waterway.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 155 Kilometern", "Fließt durch Chișinău", "Nebenfluss des Dnister", "Einzugsgebiet von 2.150 km2"],
+      hu: ["155 kilométeres hosszúság", "Keresztülfolyik Chișinăun", "A Dnyeszter mellékfolyója", "2150 km2 vízgyűjtő terület"],
+      ro: ["Lungime de 155 kilometri", "Traversează orașul Chișinău", "Afluent al fluviului Nistru", "Bazin de 2.150 km2"],
+      en: ["Length of 155 kilometers", "Flows through Chisinau", "Dniester river tributary", "Basin area of 2,150 km2"],
+    },
+  },
   {
     id: "moldova-cogilnic-river-nature-v2",
     type: "river",
-    name: { de: "Fluss Cogîlnic", hu: "Cogîlnic-folyó", ro: "Râul Cogîlnic", en: "Cogilnic River" },
+    name: { de: "Fluss Cogîlnic", hu: "Cogîlnic-folyó", ro: "Râul Cogîlnic", en: "Cogilnic River",
+image: "/poi-images/moldova-cogilnic-river-nature-v2.webp"
+},
     coords: [28.7, 46.5],
     coordinates: { lat: 46.5, lng: 28.7 },
     description: {
@@ -345,11 +613,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 243 kilometri", "Se varsă în limanul Sasîk de la Marea Neagră", "Important pentru irigațiile locale", "Traversează orașul Hîncești"],
       en: ["Total length of 243 kilometers", "Flows into the Sasyk Liman at the Black Sea", "Crucial for local irrigation systems", "Flows through the town of Hincesti"],
     },
-    imageHint: "River channel through a dry steppe landscape", image: "/poi-images/moldova-cogilnic-river-nature-v2.webp"},
+    imageHint: "River channel through a dry steppe landscape",
+    image: "/poi-images/moldova-cogilnic-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieser Steppenfluss entspringt im moldauischen Hügelland und fließt nach Süden in die Ukraine, wo er schließlich in den Sassyksee und das Schwarze Meer mündet.",
+      hu: "Ez a sztyeppei folyó a moldovai dombságban ered és dél felé, Ukrajnába tart, ahol végül a Szaszik-limánba és a Fekete-tengerbe torkollik.",
+      ro: "Acest râu de stepă izvorăște din dealurile Moldovei și curge spre sud în Ucraina, unde se varsă în limanul Sasic și apoi în Marea Neagră.",
+      en: "This steppe river originates in the Moldovan hills and flows south into Ukraine, eventually emptying into the Sasyk Lagoon and the Black Sea.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 243 km", "125 km auf moldauischem Boden", "Mündet in den Sassyk-Liman", "Typischer Steppenfluss"],
+      hu: ["243 km teljes hosszúság", "125 km Moldova területén", "A Szaszik-limánba torkollik", "Jellemző sztyeppei folyó"],
+      ro: ["Lungime totală de 243 km", "125 km pe teritoriul Moldovei", "Se varsă în limanul Sasic", "Râu tipic de stepă"],
+      en: ["Total length of 243 km", "125 km within Moldova", "Empties into Sasyk Lagoon", "Classic steppe river"],
+    },
+  },
   {
     id: "moldova-ichel-river-nature-v2",
     type: "river",
-    name: { de: "Fluss Ichel", hu: "Ichel-folyó", ro: "Râul Ichel", en: "Ichel River" },
+    name: { de: "Fluss Ichel", hu: "Ichel-folyó", ro: "Râul Ichel", en: "Ichel River",
+image: "/poi-images/moldova-ichel-river-nature-v2.webp"
+},
     coords: [28.866, 47.166],
     coordinates: { lat: 47.166, lng: 28.866 },
     description: {
@@ -364,11 +648,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 101 kilometri", "Izvorăște în raionul Telenești", "Modelează peisajul în zona Criuleni", "Habitat pentru diverse specii de amfibieni"],
       en: ["Length of about 101 kilometers", "Originates in the Telenesti district", "Shapes the landscape near Criuleni", "Home to various amphibian species"],
     },
-    imageHint: "Small river flowing through a rocky valley with shrubs", image: "/poi-images/moldova-ichel-river-nature-v2.webp"},
+    imageHint: "Small river flowing through a rocky valley with shrubs",
+    image: "/poi-images/moldova-ichel-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ichel ist ein gewundener Nebenfluss des Dnister, der sich durch malerische Täler im Zentrum Moldaus zieht und für seine Kalksteinformationen bekannt ist.",
+      hu: "Az Ichel a Dnyeszter kanyargós mellékfolyója, amely Közép-Moldova festői völgyein vág át, és mészkőképződményeiről is jól ismert.",
+      ro: "Ichel este un afluent sinuos al Nistrului, care străbate văi pitorești în centrul Moldovei, fiind cunoscut pentru formațiunile sale de calcar.",
+      en: "The Ichel is a winding tributary of the Dniester that flows through picturesque valleys in central Moldova, known for its limestone formations.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 101 Kilometern", "Teil des Dnister-Beckens", "Tiefe Kalksteintäler", "Bezirk Criuleni"],
+      hu: ["101 kilométeres hosszúság", "A Dnyeszter-medence része", "Mély mészkővölgyek", "Criuleni járáshoz tartozik"],
+      ro: ["Lungime de 101 kilometri", "Parte a bazinului Nistrului", "Văi adânci în calcar", "Situat în raionul Criuleni"],
+      en: ["Length of 101 kilometers", "Part of Dniester basin", "Deep limestone valleys", "Located in Criuleni district"],
+    },
+  },
   {
     id: "moldova-botna-river-nature-v2",
     type: "river",
-    name: { de: "Fluss Botna", hu: "Botna-folyó", ro: "Râul Botna", en: "Botna River" },
+    name: { de: "Fluss Botna", hu: "Botna-folyó", ro: "Râul Botna", en: "Botna River",
+image: "/poi-images/moldova-botna-river-nature-v2.webp"
+},
     coords: [28.9, 46.8],
     coordinates: { lat: 46.8, lng: 28.9 },
     description: {
@@ -384,11 +684,25 @@ export const moldovaNatureV2: POI[] = [
       en: ["Length is 152 kilometers", "Flows into the Dniester below Bender", "Important for agricultural water supply", "Originates near Vasieni"],
     },
     imageHint: "River winding through a rural landscape with vineyards",
+    descriptionAdvanced: {
+      de: "Die Botna entspringt in den dichten Wäldern der Codru-Region und fließt nach Osten, wobei sie fruchtbare Täler bewässert, bevor sie in den Dnister mündet.",
+      hu: "A Botna a Codru sűrű erdőiben ered és kelet felé folyik, termékeny völgyeket öntözve, mielőtt a Dnyeszterbe torkollna.",
+      ro: "Botna izvorăște în codrii deși ai regiunii Codru și curge spre est, irigând văi fertile înainte de a se vărsa în fluviul Nistru.",
+      en: "The Botna rises in the dense forests of the Codru region and flows east, irrigating fertile valleys before joining the Dniester River.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 152 Kilometern", "Quelle im Codru-Hochland", "Fließt nahe Căușeni", "Dnister-Nebenfluss"],
+      hu: ["152 kilométeres hosszúság", "A Codru-hátságon ered", "Căușeni közelében folyik", "A Dnyeszter mellékfolyója"],
+      ro: ["Lungime de 152 kilometri", "Izvorăște în Podișul Codru", "Curge pe lângă Căușeni", "Afluent al fluviului Nistru"],
+      en: ["Length of 152 kilometers", "Codru plateau origin", "Flows near Causeni city", "Dniester river tributary"],
+    },
   },
   {
     id: "moldova-telenesti-forest-nature-v2",
     type: "forest",
-    name: { de: "Telenești-Wald", hu: "Telenești-erdő", ro: "Pădurea Telenești", en: "Telenesti Forest" },
+    name: { de: "Telenești-Wald", hu: "Telenești-erdő", ro: "Pădurea Telenești", en: "Telenesti Forest",
+image: "/poi-images/moldova-telenesti-forest-nature-v2.webp"
+},
     coords: [28.4, 47.5],
     coordinates: { lat: 47.5, lng: 28.4 },
     description: {
@@ -404,11 +718,25 @@ export const moldovaNatureV2: POI[] = [
       en: ["Part of the Central Moldovan Plateau", "Dominated by downy oak and pedunculate oak", "Crucial habitat for birds of prey", "Includes several protected natural monuments"],
     },
     imageHint: "Old oak trees in a sunny forest clearing",
+    descriptionAdvanced: {
+      de: "Das Waldgebiet von Telenești im Herzen Moldaus ist ein wichtiger Lebensraum für Rotwild und Wildschweine und besteht primär aus Eichen und Eschen.",
+      hu: "A Telenești-erdő Moldova szívében fontos élőhely a gímszarvasok és vaddisznók számára; növényzetét főként tölgy- és kőriserdők alkotják.",
+      ro: "Masivul forestier Telenești din centrul Moldovei este un habitat important pentru cerbi și mistreți, fiind compus în principal din stejari și frasini.",
+      en: "The Telenesti forest in the heart of Moldova is an important habitat for red deer and wild boar, consisting primarily of oak and ash trees.",
+    },
+    factsAdvanced: {
+      de: ["Zentrales moldauisches Plateau", "Dominanz von Eichenbestand", "Alte Jagdtradition", "Hohe Artenvielfalt"],
+      hu: ["Közép-moldovai fennsík", "Domináns tölgyállomány", "Régi vadászati hagyományok", "Gazdag biodiverzitás"],
+      ro: ["Podișul central moldovenesc", "Dominanță a stejarului", "Vechi tradiții de vânătoare", "Biodiversitate ridicată"],
+      en: ["Central Moldavian Plateau", "Oak tree dominance", "Historic hunting reserve", "High species biodiversity"],
+    },
   },
   {
     id: "moldova-hincesti-forest-nature-v2",
     type: "forest",
-    name: { de: "Hîncești-Wald", hu: "Hîncești-erdő", ro: "Pădurea Hîncești", en: "Hincesti Forest" },
+    name: { de: "Hîncești-Wald", hu: "Hîncești-erdő", ro: "Pădurea Hîncești", en: "Hincesti Forest",
+image: "/poi-images/moldova-hincesti-forest-nature-v2.webp"
+},
     coords: [28.55, 46.85],
     coordinates: { lat: 46.85, lng: 28.55 },
     description: {
@@ -424,12 +752,26 @@ export const moldovaNatureV2: POI[] = [
       en: ["Includes the 'Sarata-Galbena' reserve", "Known for its rich mushroom flora", "Hiking trails through hilly terrain", "Protects rare fern species"],
     },
     imageHint: "Lush deciduous forest with rolling terrain",
+    descriptionAdvanced: {
+      de: "Der Wald von Hîncești ist Teil der historischen Codru-Region und bekannt für seine vielfältige Flora, darunter seltene Orchideenarten und mächtige Eichen.",
+      hu: "A hîncești-i erdő a történelmi Codru-régió része, híres változatos flórájáról, beleértve a ritka orchideafajokat és a hatalmas tölgyfákat.",
+      ro: "Pădurea Hîncești face parte din regiunea istorică a Codrilor, fiind cunoscută pentru flora sa diversă, incluzând specii rare de orhidee și stejari.",
+      en: "The Hincesti forest is part of the historic Codru region and is known for its diverse flora, including rare orchid species and mighty oak trees.",
+    },
+    factsAdvanced: {
+      de: ["Nahe der Stadt Hîncești", "Typischer Codru-Mischwald", "Vorkommen seltener Orchideen", "Fläche über 5.000 Hektar"],
+      hu: ["Hîncești városa mellett", "Jellemző Codru-típusú erdő", "Ritka orchideák lelőhelye", "Több mint 5000 hektár"],
+      ro: ["Lângă orașul Hîncești", "Pădure tipică de Codru", "Prezența orhideelor rare", "Suprafață de peste 5000 ha"],
+      en: ["Near Hincesti city", "Classic Codru forest type", "Presence of rare orchids", "Over 5,000 hectares area"],
+    },
   }
 ,
   {
     id: "moldova-raut-river-nature-v2",
     type: "river",
-    name: { de: "Răut", hu: "Răut", ro: "Râul Răut", en: "Răut River" },
+    name: { de: "Răut", hu: "Răut", ro: "Râul Răut", en: "Răut River",
+image: "/poi-images/moldova-raut-river-nature-v2.webp"
+},
     coordinates: { lat: 47.2833, lng: 28.85 },
     description: {
       de: "Der Răut ist der längste Fluss, der vollständig innerhalb der moldauischen Landesgrenzen verläuft. Er ist bekannt für seine spektakulären Mäander und tiefen Kalksteinschluchten, besonders im Bereich von Orheiul Vechi.",
@@ -444,11 +786,25 @@ export const moldovaNatureV2: POI[] = [
       en: ["Length of approximately 286 kilometers", "Tributary of the Dniester (Nistru)", "Flows through the cities of Bălți and Orhei", "Most important internal river of Moldova"],
     },
     imageHint: "Răut river winding through limestone cliffs near Orhei",
+    descriptionAdvanced: {
+      de: "Der Räut ist der längste ausschließlich in Moldau fließende Fluss und hat spektakuläre Mäander und tiefe Schluchten in das nordmoldauische Plateau gegraben.",
+      hu: "A Răut a leghosszabb, kizárólag Moldova területén folyó folyó, amely látványos kanyarulatokat és mély szurdokokat vájt az észak-moldovai fennsíkba.",
+      ro: "Răutul este cel mai lung râu care curge în întregime pe teritoriul Moldovei, săpând meandre spectaculoase și defilee adânci în podișul de nord.",
+      en: "The Raut is the longest river flowing entirely within Moldova, having carved spectacular meanders and deep gorges into the North Moldavian Plateau.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 286 Kilometern", "Fließt durch die Stadt Orhei", "Quelle bei Rediu Mare", "Größter Dnister-Nebenfluss"],
+      hu: ["286 kilométeres hosszúság", "Keresztülfolyik Orhei városán", "Rediu Mare környékén ered", "A Dnyeszter fő mellékfolyója"],
+      ro: ["Lungime de 286 kilometri", "Traversează orașul Orhei", "Izvor lângă Rediu Mare", "Afluent major al Nistrului"],
+      en: ["Length of 286 kilometers", "Flows through Orhei city", "Source near Rediu Mare", "Major Dniester tributary"],
+    },
   },
   {
     id: "moldova-ghidighici-lake-nature-v2",
     type: "lake",
-    name: { de: "Ghidighici-Stausee", hu: "Ghidighici-víztározó", ro: "Lacul Ghidighici", en: "Ghidighici Reservoir" },
+    name: { de: "Ghidighici-Stausee", hu: "Ghidighici-víztározó", ro: "Lacul Ghidighici", en: "Ghidighici Reservoir",
+image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp"
+},
     coordinates: { lat: 47.0911, lng: 28.7186 },
     description: {
       de: "Der Ghidighici-Stausee nordwestlich von Chișinău ist eines der größten künstlichen Gewässer des Landes. Er wurde in den 1960er Jahren am Fluss Bîc angelegt und dient heute als wichtiges Naherholungsgebiet für die Hauptstadt.",
@@ -462,11 +818,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Suprafața apei de cca. 8,8 km²", "Finalizat în anul 1963", "Adâncime maximă de 13 metri", "Loc popular pentru sporturi nautice"],
       en: ["Water surface area of approx. 8.8 km²", "Completed in 1963", "Maximum depth of 13 meters", "Popular location for sailing"],
     },
-    imageHint: "Large reservoir lake Ghidighici with small boats near Chisinau", image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp"},
+    imageHint: "Large reservoir lake Ghidighici with small boats near Chisinau",
+    image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der in den 1960ern am Fluss Bîc angelegte Ghidighici-Stausee ist ein bedeutendes Erholungsgebiet nahe Chișinău und dient zudem dem Hochwasserschutz.",
+      hu: "A Bîc folyón az 1960-as években létrehozott Ghidighici-víztározó Chișinău közelében fontos üdülőövezet, emellett árvízvédelmi szerepet is betölt.",
+      ro: "Lacul Ghidighici, creat în anii 1960 pe râul Bîc, este o zonă de agrement majoră lângă Chișinău, servind totodată pentru protecția împotriva inundațiilor.",
+      en: "Created in the 1960s on the Bic River, the Ghidighici reservoir is a major recreational area near Chisinau and also serves for flood protection.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung im Jahr 1963", "Wasseroberfläche von 8 km2", "40 Millionen m3 Volumen", "Wird 'Meer von Chișinău' genannt"],
+      hu: ["1963-ban készült el", "8 km2-es vízfelület", "40 millió m3 víztérfogat", "A 'Chișinău-i tengernek' hívják"],
+      ro: ["Finalizat în anul 1963", "Suprafață de 8 km2", "Volum de 40 milioane m3", "Supranumit 'Marea Chișinăului'"],
+      en: ["Completed in 1963", "Surface area of 8 km2", "40 million m3 volume", "Called 'Chisinau Sea'"],
+    },
+  },
   {
     id: "moldova-silver-forest-nature-v2",
     type: "forest",
-    name: { de: "Silberwald", hu: "Ezüsterdő", ro: "Pădurea de Argint", en: "Silver Forest" },
+    name: { de: "Silberwald", hu: "Ezüsterdő", ro: "Pădurea de Argint", en: "Silver Forest",
+image: "/poi-images/moldova-silver-forest-nature-v2.webp"
+},
     coordinates: { lat: 47.7944, lng: 27.2722 },
     description: {
       de: "Die Pădurea de Argint ist ein geschütztes Waldgebiet in der Flussaue des Prut im Rajon Glodeni. Der Name leitet sich von den dort dominierenden Silber-Pappeln ab, deren helle Rinde dem Wald ein silbriges Aussehen verleiht.",
@@ -480,11 +852,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Situată lângă Moara Domnească", "Suprafață de aproximativ 50 hectare", "Formată predominant din plopi albi", "Parte importantă a Pădurii Domnești"],
       en: ["Located near Moara Domnească", "Area of approx. 50 hectares", "Consists primarily of white poplars", "Key part of the Royal Forest reserve"],
     },
-    imageHint: "White poplar forest Silver Forest in the Prut valley", image: "/poi-images/moldova-silver-forest-nature-v2.webp"},
+    imageHint: "White poplar forest Silver Forest in the Prut valley",
+    image: "/poi-images/moldova-silver-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Silberwald bei Schinoasa ist für seine charakteristischen, silbrig schimmernden Pappeln und Weiden bekannt, die eine märchenhafte Atmosphäre schaffen.",
+      hu: "A Schinoasa melletti Ezüsterdő jellegzetes, ezüstösen csillogó nyár- és fűzfáiról ismert, amelyek meseszerű hangulatot árasztanak a tájban.",
+      ro: "Pădurea de Argint de lângă Schinoasa este cunoscută pentru plopii și sălciile sale cu reflexii argintii, care creează o atmosferă de basm în peisaj.",
+      en: "The Silver Forest near Schinoasa is known for its characteristic silvery poplars and willows, which create a fairytale atmosphere in the landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen nahe Schinoasa", "Vorkommen von Silberpappeln", "Geschützter Naturpark", "Einzigartige Lichteffekte"],
+      hu: ["Schinoasa közelében fekszik", "Ezüstnyárfa állomány", "Védett természeti terület", "Egyedi fényhatások"],
+      ro: ["Situată lângă Schinoasa", "Populație de plop alb", "Arie naturală protejată", "Efecte vizuale unice"],
+      en: ["Located near Schinoasa", "White/silver poplar grove", "Protected nature area", "Unique visual light effects"],
+    },
+  },
   {
     id: "moldova-ialpug-river-nature-v2",
     type: "river",
-    name: { de: "Ialpug", hu: "Ialpug", ro: "Râul Ialpug", en: "Ialpug River" },
+    name: { de: "Ialpug", hu: "Ialpug", ro: "Râul Ialpug", en: "Ialpug River",
+image: "/poi-images/moldova-ialpug-river-nature-v2.webp"
+},
     coordinates: { lat: 46.3083, lng: 28.6042 },
     description: {
       de: "Der Ialpug ist der wichtigste Fluss im Süden der Republik Moldau und durchquert die autonome Region Gagausien. Er entspringt im moldauischen Zentralhochland und fließt in südlicher Richtung zum Ialpug-See in der Ukraine.",
@@ -498,11 +886,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 142 kilometri", "Principalul râu al stepei Bugeac", "Se varsă în cel mai mare lac din Ucraina", "Debitul variază mult în funcție de sezon"],
       en: ["Total length of 142 kilometers", "Primary river of the Bugeac Steppe", "Flows into Ukraine's largest lake", "Water level fluctuates seasonally"],
     },
-    imageHint: "Ialpug river flowing through the dry Bugeac steppe landscape", image: "/poi-images/moldova-ialpug-river-nature-v2.webp"},
+    imageHint: "Ialpug river flowing through the dry Bugeac steppe landscape",
+    image: "/poi-images/moldova-ialpug-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ialpug fließt durch den Süden Moldaus und die Autonome Region Gagausien, wobei er im Sommer oft austrocknet und schließlich in den ukrainischen Ialpugsee mündet.",
+      hu: "Az Ialpug Dél-Moldován és Gagauzián folyik keresztül; nyáron gyakran kiszárad, végül pedig az ukrajnai Jalpug-tóba torkollik.",
+      ro: "Ialpug traversează sudul Moldovei și regiunea Găgăuzia, secând adesea în timpul verii, și se varsă în final în lacul Ialpug din Ucraina.",
+      en: "The Ialpug flows through southern Moldova and the Gagauzia region, often drying up in summer, and eventually empties into Lake Ialpug in Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 142 Kilometern", "Fließt durch Gagausien", "Mündung in den Ialpugsee", "Saisonale Wasserführung"],
+      hu: ["142 kilométeres hosszúság", "Gagauzián keresztül folyik", "A Jalpug-tóba torkollik", "Időszakos vízjárás"],
+      ro: ["Lungime de 142 kilometri", "Traversează Găgăuzia", "Vărsare în lacul Ialpug", "Debit sezonier variabil"],
+      en: ["Length of 142 kilometers", "Flows through Gagauzia", "Empties into Lake Ialpug", "Highly seasonal flow"],
+    },
+  },
   {
     id: "moldova-cimislia-paleontological-nature-v2",
     type: "landmark",
-    name: { de: "Paläontologische Stätte Cimișlia", hu: "Cimișliai őslénytani lelőhely", ro: "Situl paleontologic Cimișlia", en: "Cimișlia Paleontological Site" },
+    name: { de: "Paläontologische Stätte Cimișlia", hu: "Cimișliai őslénytani lelőhely", ro: "Situl paleontologic Cimișlia", en: "Cimișlia Paleontological Site",
+image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp"
+},
     coordinates: { lat: 46.5222, lng: 28.7583 },
     description: {
       de: "Diese international bedeutende Fossilienstätte bei Cimișlia enthält Ablagerungen aus dem späten Miozän. Sie ist weltberühmt für die Entdeckung zahlreicher Skelette prähistorischer Hipparion-Pferde und anderer Urzeitsäuger.",
@@ -516,11 +920,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Fosile din Miocenul târziu", "Rămășițe ale faunei Hipparion", "Protejat de stat din anul 1962", "Loc crucial pentru cercetări evolutive"],
       en: ["Late Miocene epoch fossils", "Remains of Hipparion fauna", "State protected since 1962", "Crucial site for evolutionary research"],
     },
-    imageHint: "Archaeological excavation of prehistoric fossils in Cimișlia", image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp"},
+    imageHint: "Archaeological excavation of prehistoric fossils in Cimișlia",
+    image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese bedeutende paläontologische Fundstelle bei Cimișlia hat fossile Überreste von Tieren aus dem Miozän geliefert, darunter Urpferde und Mastodonten.",
+      hu: "Ez a jelentős cimișliai őslénytani lelőhely miocén kori állatok fosszilis maradványait őrizte meg, köztük ősló- és masztodonleleteket.",
+      ro: "Acest sit paleontologic important de lângă Cimișlia a oferit resturi fosile de animale din Miocen, inclusiv de cai primitivi și mastodonți.",
+      en: "This significant paleontological site near Cimislia has yielded fossil remains of Miocene animals, including primitive horses and mastodons.",
+    },
+    factsAdvanced: {
+      de: ["Fossilien aus dem Miozän", "Bedeutende Hipparion-Fauna", "Im 20. Jhd. entdeckt", "Weltweit anerkannte Fundstelle"],
+      hu: ["Miocén kori fosszíliák", "Fontos Hipparion-fauna", "20. századi felfedezés", "Világhírű lelőhely"],
+      ro: ["Fosile din perioada Miocen", "Faună importantă de Hipparion", "Descoperit în secolul XX", "Sit de renume mondial"],
+      en: ["Miocene epoch fossils", "Important Hipparion fauna", "Discovered in 20th century", "World-renowned site"],
+    },
+  },
   {
     id: "moldova-cuconestii-vechi-gorge-nature-v2",
     type: "valley",
-    name: { de: "Cuconeștii Vechi Schlucht", hu: "Cuconeștii Vechi szurdok", ro: "Defileul Cuconeștii Vechi", en: "Cuconeștii Vechi Gorge" },
+    name: { de: "Cuconeștii Vechi Schlucht", hu: "Cuconeștii Vechi szurdok", ro: "Defileul Cuconeștii Vechi", en: "Cuconeștii Vechi Gorge",
+image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp"
+},
     coordinates: { lat: 48.125, lng: 27.0583 },
     description: {
       de: "Die Cuconeștii Vechi Schlucht am Ufer des Prut zeichnet sich durch imposante Kalksteinfelsen aus dem Miozän aus. Sie gehört zu den Prut-Toltry, einem fossilen Korallenriffsystem, das die Landschaft im Norden Moldaus prägt.",
@@ -534,11 +954,27 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Parte a toltrelor moldovenești", "Format din recife fosile", "Situat în raionul Edineț", "Formațiuni carstice spectaculoase"],
       en: ["Part of the Moldavian Toltry", "Formed from fossilized reefs", "Located in the Edineț District", "Impressive karst formations"],
     },
-    imageHint: "Limestone cliffs of Cuconeștii Vechi gorge near the river", image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp"},
+    imageHint: "Limestone cliffs of Cuconeștii Vechi gorge near the river",
+    image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Cuconeștii Vechi-Schlucht am Pruth beeindruckt mit ihren massiven Kalksteinwänden und beherbergt eine seltene flora sowie archäologische Fundplätze.",
+      hu: "A Prut menti Cuconeștii Vechi-szurdok masszív mészkőfalaival nyűgöz le, ritka flórának és fontos régészeti lelőhelyeknek adva otthont.",
+      ro: "Defileul Cuconeștii Vechi de pe Prut impresionează prin pereții săi masivi de calcar, adăpostind o floră rară și situri arheologice valoroase.",
+      en: "The Cuconestii Vechi gorge on the Prut impresses with its massive limestone walls and hosts rare flora as well as archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Schlucht am Fluss Pruth", "Massives Kalksteinriff", "Archäologische Artefakte", "Standort seltener Pflanzen"],
+      hu: ["A Prut folyó menti szurdok", "Masszív mészkőzátony", "Régészeti leletek", "Ritka növények termőhelye"],
+      ro: ["Defileu pe râul Prut", "Recif masiv de calcar", "Vestigii arheologice", "Specii de plante rare"],
+      en: ["Gorge on the Prut river", "Massive limestone reef", "Archaeological artifacts", "Rare plant biodiversity"],
+    },
+  },
   {
     id: "moldova-zloti-forest-nature-v2",
     type: "forest",
-    name: { de: "Waldreservat Zloți", hu: "Zloți erdőrezervátum", ro: "Rezervația forestieră Zloți", en: "Zloți Nature Reserve" },
+    name: { de: "Waldreservat Zloți", hu: "Zloți erdőrezervátum", ro: "Rezervația forestieră Zloți", en: "Zloți Nature Reserve",
+image: "/poi-images/moldova-zloti-forest-nature-v2.webp"
+},
     coordinates: { lat: 46.7028, lng: 28.9222 },
     description: {
       de: "Das Waldreservat Zloți schützt ein naturnahes Ökosystem im Übergangsbereich zwischen Wald und Steppe im Süden Moldaus. Es beherbergt eine Vielzahl seltener krautiger Pflanzen und ist für seine alten Eichenbestände bekannt.",
@@ -553,5 +989,17 @@ export const moldovaNatureV2: POI[] = [
       en: ["Area of approx. 320 hectares", "Rich in steppe vegetation", "Important habitat for birds of prey", "Located near the Zloți Monastery"],
     },
     imageHint: "Oak forest and steppe landscape in Zloți reserve",
+    descriptionAdvanced: {
+      de: "Das Zloți-Reservat schützt ein wertvolles Waldökosystem im Süden Moldaus, das durch eine Mischung aus Eichenwäldern und Steppenelementen geprägt ist.",
+      hu: "A Zloți rezervátum Dél-Moldova értékes erdőökoszisztémáját védi, amelyet tölgyesek és sztyeppei növényzeti elemek keveredése jellemez.",
+      ro: "Rezervația Zloți protejează un ecosistem forestier valoros din sudul Moldovei, caracterizat printr-un amestec de păduri de stejar și elemente de stepă.",
+      en: "The Zloti reserve protects a valuable forest ecosystem in southern Moldova, characterized by a mix of oak forests and steppe elements.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen im Bezirk Cimișlia", "Mix aus Eiche und Steppe", "Seit den 1970ern geschützt", "Wichtiger Vogel-Lebensraum"],
+      hu: ["Cimișlia járásban fekszik", "Tölgy és sztyeppe keveréke", "1970-es évek óta védett", "Fontos madár élőhely"],
+      ro: ["Situată în raionul Cimișlia", "Mix de stejar și stepă", "Protejată din anii 1970", "Habitat avifaunistic major"],
+      en: ["Located in Cimislia district", "Oak and steppe blend", "Protected since the 1970s", "Important bird habitat"],
+    },
   }
 ];

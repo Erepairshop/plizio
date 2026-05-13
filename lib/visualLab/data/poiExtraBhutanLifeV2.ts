@@ -6,7 +6,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "BT-24",
     coords: [90.1764, 27.4439],
-    name: { de: "Phobjikha-Tal", hu: "Phobjikha-völgy", ro: "Valea Phobjikha", en: "Phobjikha Valley" },
+    name: { de: "Phobjikha-Tal", hu: "Phobjikha-völgy", ro: "Valea Phobjikha", en: "Phobjikha Valley",
+image: "/poi-images/phobjikha-valley-life-v2.webp"
+},
     description: {
       de: "Ein weites Gletschertal, das als wichtigstes Winterquartier für die stark gefährdeten Schwarzhalskraniche aus Tibet bekannt ist.",
       hu: "Széles gleccservölgy, amely a Tibetből érkező, veszélyeztetett feketenyakú darvak legfontosabb telelőhelyeként ismert.",
@@ -27,7 +29,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "BT-11",
     coords: [89.6158, 27.4811],
-    name: { de: "Motithang-Takin-Reservat", hu: "Motithang Takin Rezervátum", ro: "Rezervația de Takini Motithang", en: "Motithang Takin Preserve" },
+    name: { de: "Motithang-Takin-Reservat", hu: "Motithang Takin Rezervátum", ro: "Rezervația de Takini Motithang", en: "Motithang Takin Preserve",
+image: "/poi-images/motithang-takin-preserve-life-v2.webp"
+},
     description: {
       de: "Ein Wildgehege in Thimphu, das den Takin, das Nationaltier Bhutans, schützt, welches halb Ziege und halb Rind zu sein scheint.",
       hu: "Vadaspark Thimphuban, amely a takint, Bhután nemzeti állatát védi, ami félig kecskének, félig szarvasmarhának tűnik.",
@@ -48,7 +52,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "park",
     parent: "BT-11",
     coords: [89.7547, 27.5058],
-    name: { de: "Königlicher Botanischer Park Lampelri", hu: "Lampelri Királyi Botanikus Kert", ro: "Parcul Botanic Regal Lampelri", en: "Royal Botanical Park Lampelri" },
+    name: { de: "Königlicher Botanischer Park Lampelri", hu: "Lampelri Királyi Botanikus Kert", ro: "Parcul Botanic Regal Lampelri", en: "Royal Botanical Park Lampelri",
+image: "/poi-images/royal-botanical-park-lampelri-life-v2.webp"
+},
     description: {
       de: "Der erste botanische Park Bhutans, der eine reiche Artenvielfalt mit über 46 Rhododendronarten und vielen heimischen Vögeln bietet.",
       hu: "Bhután első botanikus kertje, amely gazdag biológiai sokféleséget kínál több mint 46 rododendronfajjal és sok őshonos madárral.",
@@ -69,7 +75,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "BT-13",
     coords: [89.1500, 27.2500],
-    name: { de: "Torsa-Naturreservat", hu: "Torsa Szigorú Természetvédelmi Terület", ro: "Rezervația Naturală Torsa", en: "Torsa Strict Nature Reserve" },
+    name: { de: "Torsa-Naturreservat", hu: "Torsa Szigorú Természetvédelmi Terület", ro: "Rezervația Naturală Torsa", en: "Torsa Strict Nature Reserve",
+image: "/poi-images/torsa-strict-nature-reserve-life-v2.webp"
+},
     description: {
       de: "Das einzige Naturreservat in Bhutan, das nicht von menschlichen Siedlungen bewohnt wird, und wichtige alpine Ökosysteme schützt.",
       hu: "Az egyetlen természetvédelmi terület Bhutánban, amelyet nem laknak emberek, és fontos alpesi ökoszisztémákat véd.",
@@ -90,7 +98,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "BT-31",
     coords: [90.0000, 26.8333],
-    name: { de: "Phipsoo-Wildschutzgebiet", hu: "Phipsoo Vadvédelmi Terület", ro: "Rezervația Naturală Phipsoo", en: "Phipsoo Wildlife Sanctuary" },
+    name: { de: "Phipsoo-Wildschutzgebiet", hu: "Phipsoo Vadvédelmi Terület", ro: "Rezervația Naturală Phipsoo", en: "Phipsoo Wildlife Sanctuary",
+image: "/poi-images/phipsoo-wildlife-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Süden Bhutans, das für seine Bestände an Axishirschen und als Lebensraum für asiatische Elefanten und Tiger bekannt ist.",
       hu: "Dél-Bhután egyik védett területe, amely pettyes szarvas állományáról, valamint az ázsiai elefántok és tigrisek élőhelyeként ismert.",
@@ -111,7 +121,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "park",
     parent: "BT-11",
     coords: [89.6433, 27.4689],
-    name: { de: "Krönungspark Thimphu", hu: "Thimphu Koronázási Park", ro: "Parcul Încoronării Thimphu", en: "Coronation Park Thimphu" },
+    name: { de: "Krönungspark Thimphu", hu: "Thimphu Koronázási Park", ro: "Parcul Încoronării Thimphu", en: "Coronation Park Thimphu",
+image: "/poi-images/coronation-park-thimphu-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiger Park am Ufer des Wang Chhu in Thimphu, der oft von Familien und spielenden Kindern besucht wird.",
       hu: "Egy tágas park a Wang Chhu partján Thimphuban, amelyet gyakran látogatnak családok és játszó gyerekek.",
@@ -132,7 +144,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-15",
     coords: [89.4147, 27.4294],
-    name: { de: "Paro-Reisterrassen", hu: "Paro rizsteraszai", ro: "Terasele de orez din Paro", en: "Paro Rice Terraces" },
+    name: { de: "Paro-Reisterrassen", hu: "Paro rizsteraszai", ro: "Terasele de orez din Paro", en: "Paro Rice Terraces",
+image: "/poi-images/paro-rice-terraces-life-v2.webp"
+},
     description: {
       de: "Die fruchtbaren Hänge des Paro-Tals sind von kunstvollen Reisterrassen geprägt, die im Herbst eine goldene Landschaft schaffen.",
       hu: "A Paro-völgy termékeny lejtőit művészi rizsteraszok jellemzik, amelyek ősszel aranyszínű tájat varázsolnak.",
@@ -153,7 +167,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-32",
     coords: [90.5106, 27.3917],
-    name: { de: "Samcholing-Teeplantage", hu: "Samcholing Teaültetvény", ro: "Plantația de ceai Samcholing", en: "Samcholing Tea Estate" },
+    name: { de: "Samcholing-Teeplantage", hu: "Samcholing Teaültetvény", ro: "Plantația de ceai Samcholing", en: "Samcholing Tea Estate",
+image: "/poi-images/samcholing-tea-estate-life-v2.webp"
+},
     description: {
       de: "Eine malerische Teeplantage in Trongsa, die hochwertigen bhutanischen grünen Tee produziert und lokale Gemeinden unterstützt.",
       hu: "Festői teaültetvény Trongsában, amely kiváló minőségű bhutáni zöld teát termel és támogatja a helyi közösségeket.",
@@ -174,7 +190,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "park",
     parent: "BT-11",
     coords: [89.6444, 27.4428],
-    name: { de: "Kuensel-Phodrang-Naturpark", hu: "Kuensel Phodrang Természetvédelmi Park", ro: "Parcul Natural Kuensel Phodrang", en: "Kuensel Phodrang Nature Park" },
+    name: { de: "Kuensel-Phodrang-Naturpark", hu: "Kuensel Phodrang Természetvédelmi Park", ro: "Parcul Natural Kuensel Phodrang", en: "Kuensel Phodrang Nature Park",
+image: "/poi-images/kuensel-phodrang-nature-park-life-v2.webp"
+},
     description: {
       de: "Ein großer bewaldeter Park rund um die Buddha Dordenma Statue, der Wanderwege und herrliche Ausblicke auf Thimphu bietet.",
       hu: "Nagy erdős park a Buddha Dordenma szobor körül, amely túraútvonalakat és lenyűgöző kilátást kínál Thimphura.",
@@ -195,7 +213,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "park",
     parent: "BT-11",
     coords: [89.6389, 27.4850],
-    name: { de: "Ludrong-Gedächtnisgarten", hu: "Ludrong Emlékkert", ro: "Grădina Memorială Ludrong", en: "Ludrong Memorial Garden" },
+    name: { de: "Ludrong-Gedächtnisgarten", hu: "Ludrong Emlékkert", ro: "Grădina Memorială Ludrong", en: "Ludrong Memorial Garden",
+image: "/poi-images/ludrong-memorial-garden-life-v2.webp"
+},
     description: {
       de: "Ein friedlicher Garten in Thimphu, der zum Gedenken an den verstorbenen Premierminister Jigme Dorji Wangchuck angelegt wurde.",
       hu: "Békés kert Thimphuban, amelyet Jigme Dorji Wangchuck néhai miniszterelnök emlékére hoztak létre.",
@@ -216,7 +236,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "park",
     parent: "BT-12",
     coords: [89.3833, 26.8611],
-    name: { de: "Zangtopelri-Park", hu: "Zangtopelri Park", ro: "Parcul Zangtopelri", en: "Zangtopelri Park" },
+    name: { de: "Zangtopelri-Park", hu: "Zangtopelri Park", ro: "Parcul Zangtopelri", en: "Zangtopelri Park",
+image: "/poi-images/zangtopelri-park-life-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber gepflegter Park im Zentrum von Phuentsholing, der als sozialer Treffpunkt für Einheimische und Reisende dient.",
       hu: "Egy kis, de gondozott park Phuentsholing központjában, amely közösségi találkozóhelyként szolgál a helyiek és az utazók számára.",
@@ -237,7 +259,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-33",
     coords: [90.7267, 27.5494],
-    name: { de: "Bumthang-Apfelgärten", hu: "Bumthang almaültetvényei", ro: "Livezile de meri din Bumthang", en: "Bumthang Apple Orchards" },
+    name: { de: "Bumthang-Apfelgärten", hu: "Bumthang almaültetvényei", ro: "Livezile de meri din Bumthang", en: "Bumthang Apple Orchards",
+image: "/poi-images/bumthang-apple-orchards-life-v2.webp"
+},
     description: {
       de: "Die kühlen Täler von Bumthang sind berühmt für ihre fruchtbaren Apfelplantagen, die köstlichen Saft und Cider hervorbringen.",
       hu: "Bumthang hűvös völgyei híresek termékeny almaültetvényeikről, amelyek finom gyümölcslevet és cidert adnak.",
@@ -258,7 +282,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-23",
     coords: [89.8550, 27.5850],
-    name: { de: "Punakha-Senffelder", hu: "Punakha mustármezői", ro: "Câmpurile de muștar din Punakha", en: "Punakha Mustard Fields" },
+    name: { de: "Punakha-Senffelder", hu: "Punakha mustármezői", ro: "Câmpurile de muștar din Punakha", en: "Punakha Mustard Fields",
+image: "/poi-images/punakha-mustard-fields-life-v2.webp"
+},
     description: {
       de: "Im Frühling verwandeln blühende Senffelder die Landschaft von Punakha in ein leuchtend gelbes Meer aus Farben.",
       hu: "Tavasszal a virágzó mustármezők ragyogó sárga színtengerré varázsolják Punakha táját.",
@@ -279,7 +305,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-15",
     coords: [89.4281, 27.3889],
-    name: { de: "Nationales Saatgutzentrum Paro", hu: "Paro Nemzeti Vetőmagközpont", ro: "Centrul Național de Semințe Paro", en: "National Seed Centre Paro" },
+    name: { de: "Nationales Saatgutzentrum Paro", hu: "Paro Nemzeti Vetőmagközpont", ro: "Centrul Național de Semințe Paro", en: "National Seed Centre Paro",
+image: "/poi-images/national-seed-centre-paro-life-v2.webp"
+},
     description: {
       de: "Eine wichtige Einrichtung zur Erhaltung der landwirtschaftlichen Vielfalt und zur Bereitstellung von hochwertigem Saatgut für bhutanische Bauern.",
       hu: "Fontos létesítmény a mezőgazdasági sokféleség megőrzésére és kiváló minőségű vetőmag biztosítására a bhutáni gazdák számára.",
@@ -300,7 +328,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "BT-24",
     coords: [90.1783, 27.4522],
-    name: { de: "RSPN Besucherzentrum für Schwarzhalskraniche", hu: "RSPN Feketenyakú Daru Látogatóközpont", ro: "Centrul de vizitatori pentru cocorii cu gât negru RSPN", en: "RSPN Black-Necked Crane Visitor Centre" },
+    name: { de: "RSPN Besucherzentrum für Schwarzhalskraniche", hu: "RSPN Feketenyakú Daru Látogatóközpont", ro: "Centrul de vizitatori pentru cocorii cu gât negru RSPN", en: "RSPN Black-Necked Crane Visitor Centre",
+image: "/poi-images/rspn-crane-visitor-centre-life-v2.webp"
+},
     description: {
       de: "Ein interaktives und lehrreiches Zentrum für Kinder und Erwachsene, das die Biologie und den Schutz der Schwarzhalskraniche vermittelt.",
       hu: "Interaktív és oktatási központ gyerekeknek és felnőtteknek, amely a feketenyakú darvak biológiáját és védelmét mutatja be.",
@@ -321,7 +351,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-11",
     coords: [89.6744, 27.4789],
-    name: { de: "Landwirtschaftliches Forschungszentrum Yusipang", hu: "Yusipang Mezőgazdasági Kutatóközpont", ro: "Centrul de Cercetare Agricolă Yusipang", en: "Yusipang Agricultural Research Center" },
+    name: { de: "Landwirtschaftliches Forschungszentrum Yusipang", hu: "Yusipang Mezőgazdasági Kutatóközpont", ro: "Centrul de Cercetare Agricolă Yusipang", en: "Yusipang Agricultural Research Center",
+image: "/poi-images/yusipang-agricultural-center-life-v2.webp"
+},
     description: {
       de: "Ein Kompetenzzentrum nahe Thimphu, das sich auf forst- und landwirtschaftliche Forschung zur Verbesserung der Ernteerträge konzentriert.",
       hu: "Kiválósági központ Thimphu közelében, amely az erdészeti és mezőgazdasági kutatásokra összpontosít a terméshozamok javítása érdekében.",
@@ -342,7 +374,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-13",
     coords: [89.2806, 27.3867],
-    name: { de: "Haa-Tal Yak-Weiden", hu: "Haa-völgy jaklegelői", ro: "Pășunile de iaci din Valea Haa", en: "Haa Valley Yak Pastures" },
+    name: { de: "Haa-Tal Yak-Weiden", hu: "Haa-völgy jaklegelői", ro: "Pășunile de iaci din Valea Haa", en: "Haa Valley Yak Pastures",
+image: "/poi-images/haa-valley-yak-pastures-life-v2.webp"
+},
     description: {
       de: "Die unberührten hochalpinen Weiden des Haa-Tals werden traditionell von Nomaden für die Aufzucht von Yaks genutzt.",
       hu: "A Haa-völgy érintetlen magashegyi legelőit hagyományosan nomádok használják jakok tenyésztésére.",
@@ -363,7 +397,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-33",
     coords: [90.7492, 27.5483],
-    name: { de: "Chamkhar-Milchfarmen", hu: "Chamkhar tejgazdaságai", ro: "Fermele de lactate Chamkhar", en: "Chamkhar Dairy Farms" },
+    name: { de: "Chamkhar-Milchfarmen", hu: "Chamkhar tejgazdaságai", ro: "Fermele de lactate Chamkhar", en: "Chamkhar Dairy Farms",
+image: "/poi-images/chamkhar-dairy-farms-life-v2.webp"
+},
     description: {
       de: "In der Region Bumthang produzieren kleine Milchviehbetriebe den weithin bekannten Schweizer Käse Bhutans, inspiriert durch Entwicklungshilfe.",
       hu: "A Bumthang régióban a kis tejgazdaságok a Bhután-szerte ismert svájci sajtot állítják elő, fejlesztési támogatások ihletésére.",
@@ -384,7 +420,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "BT-11",
     coords: [89.6386, 27.4642],
-    name: { de: "Lebendiges Museum Simply Bhutan", hu: "Simply Bhutan Élő Múzeum", ro: "Muzeul Viu Simply Bhutan", en: "Simply Bhutan Living Museum" },
+    name: { de: "Lebendiges Museum Simply Bhutan", hu: "Simply Bhutan Élő Múzeum", ro: "Muzeul Viu Simply Bhutan", en: "Simply Bhutan Living Museum",
+image: "/poi-images/simply-bhutan-living-museum-life-v2.webp"
+},
     description: {
       de: "Ein interaktives „lebendes“ Museum, das Besuchern und besonders Kindern die reiche Kultur, Handwerkskunst und Bogenschießen Bhutans näherbringt.",
       hu: "Interaktív „élő” múzeum, amely a látogatókat és különösen a gyerekeket ismerteti meg Bhután gazdag kultúrájával, kézművességével és az íjászattal.",
@@ -405,7 +443,9 @@ export const poiExtraBhutanLifeV2: POI[] = [
     type: "agriculture",
     parent: "BT-11",
     coords: [89.6419, 27.4725],
-    name: { de: "Centennial-Bauernmarkt", hu: "Centenáriumi Termelői Piac", ro: "Piața Fermierilor Centenar", en: "Centennial Farmers Market" },
+    name: { de: "Centennial-Bauernmarkt", hu: "Centenáriumi Termelői Piac", ro: "Piața Fermierilor Centenar", en: "Centennial Farmers Market",
+image: "/poi-images/centennial-farmers-market-life-v2.webp"
+},
     description: {
       de: "Der größte inländische Markt für bhutanische Bauern in Thimphu, wo frisches Gemüse, roter Reis und Yak-Käse gehandelt werden.",
       hu: "A legnagyobb hazai piac a bhutáni gazdák számára Thimphuban, ahol friss zöldségekkel, vörös rizzsel és jaksajttal kereskednek.",

@@ -7,7 +7,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.7, -19.0],
-    name: { de: "Östliches Hochland", hu: "Keleti-felföld", ro: "Munții din Est", en: "Eastern Highlands" },
+    name: { de: "Östliches Hochland", hu: "Keleti-felföld", ro: "Munții din Est", en: "Eastern Highlands",
+image: "/poi-images/eastern-highlands-relief-v2.webp"
+},
     description: {
       de: "Eine gebirgige Region an der Grenze zu Mosambik mit kühlem Klima.",
       hu: "Hegyvidéki régió a mozambiki határ közelében, hűvös éghajlattal.",
@@ -38,7 +40,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-HA",
     coords: [30.5, -18.5],
-    name: { de: "Highveld", hu: "Highveld", ro: "Highveld", en: "Highveld" },
+    name: { de: "Highveld", hu: "Highveld", ro: "Highveld", en: "Highveld",
+image: "/poi-images/highveld-relief-v2.webp"
+},
     description: {
       de: "Das zentrale Hochplateau, das den Großteil Zimbabwes bildet.",
       hu: "A központi magasföld, amely Zimbabwe nagy részét alkotja.",
@@ -69,7 +73,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MV",
     coords: [31.5, -21.0],
-    name: { de: "Lowveld", hu: "Lowveld", ro: "Lowveld", en: "Lowveld" },
+    name: { de: "Lowveld", hu: "Lowveld", ro: "Lowveld", en: "Lowveld",
+image: "/poi-images/lowveld-relief-v2.webp"
+},
     description: {
       de: "Die tiefer gelegenen Regionen im Südosten des Landes.",
       hu: "Az ország délkeleti részén található alacsonyabban fekvő régiók.",
@@ -100,7 +106,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [29.5, -16.0],
-    name: { de: "Sambesi-Steilstufe", hu: "Zambézi-lépcső", ro: "Escarpamentul Zambezi", en: "Zambezi Escarpment" },
+    name: { de: "Sambesi-Steilstufe", hu: "Zambézi-lépcső", ro: "Escarpamentul Zambezi", en: "Zambezi Escarpment",
+image: "/poi-images/zambezi-escarpment-relief-v2.webp"
+},
     description: {
       de: "Eine markante Geländestufe nördlich des Hochplateaus.",
       hu: "Jellegzetes tereplépcső a magasföldtől északra.",
@@ -131,7 +139,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.9, -19.8],
-    name: { de: "Chimanimani-Berge", hu: "Chimanimani-hegység", ro: "Munții Chimanimani", en: "Chimanimani Mountains" },
+    name: { de: "Chimanimani-Berge", hu: "Chimanimani-hegység", ro: "Munții Chimanimani", en: "Chimanimani Mountains",
+image: "/poi-images/chimanimani-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine spektakuläre Bergkette mit quarzitischen Felsformationen.",
       hu: "Látványos hegylánc kvarcitos sziklaformációkkal.",
@@ -162,7 +172,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.7, -18.2],
-    name: { de: "Nyanga-Berge", hu: "Nyanga-hegység", ro: "Munții Nyanga", en: "Nyanga Mountains" },
+    name: { de: "Nyanga-Berge", hu: "Nyanga-hegység", ro: "Munții Nyanga", en: "Nyanga Mountains",
+image: "/poi-images/nyanga-mountains-relief-v2.webp"
+},
     description: {
       de: "Eine zerklüftete Berglandschaft im Osten.",
       hu: "Tagolt hegyvidéki táj keleten.",
@@ -193,7 +205,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.7, -19.1],
-    name: { de: "Vumba-Berge", hu: "Vumba-hegység", ro: "Munții Vumba", en: "Vumba Mountains" },
+    name: { de: "Vumba-Berge", hu: "Vumba-hegység", ro: "Munții Vumba", en: "Vumba Mountains",
+image: "/poi-images/vumba-mountains-relief-v2.webp"
+},
     description: {
       de: "Bergregion bekannt für ihre üppige Vegetation und Nebelwälder.",
       hu: "Hegyvidéki régió, amely buja növényzetéről és köderdőiről ismert.",
@@ -224,7 +238,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MN",
     coords: [28.5, -20.5],
-    name: { de: "Matobo-Berge", hu: "Matobo-hegyek", ro: "Munții Matobo", en: "Matobo Hills" },
+    name: { de: "Matobo-Berge", hu: "Matobo-hegyek", ro: "Munții Matobo", en: "Matobo Hills",
+image: "/poi-images/matobo-hills-relief-v2.webp"
+},
     description: {
       de: "Einzigartige Hügellandschaft geprägt von riesigen Granitblöcken.",
       hu: "Egyedi dombvidék, amelyet hatalmas gránittömbök jellemeznek.",
@@ -255,7 +271,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MA",
     coords: [29.5, -16.2],
-    name: { de: "Sambesi-Tal", hu: "Zambézi-völgy", ro: "Valea Zambezi", en: "Zambezi Valley" },
+    name: { de: "Sambesi-Tal", hu: "Zambézi-völgy", ro: "Valea Zambezi", en: "Zambezi Valley",
+image: "/poi-images/zambezi-valley-relief-v2.webp"
+},
     description: {
       de: "Das tiefe Tal entlang des Sambesi-Flusses im Norden.",
       hu: "A mély völgy a Zambézi-folyó mentén, északon.",
@@ -286,7 +304,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MV",
     coords: [31.8, -21.5],
-    name: { de: "Lowveld-Ebene", hu: "Lowveld-síkság", ro: "Câmpia Lowveld", en: "Lowveld Plains" },
+    name: { de: "Lowveld-Ebene", hu: "Lowveld-síkság", ro: "Câmpia Lowveld", en: "Lowveld Plains",
+image: "/poi-images/lowveld-plains-relief-v2.webp"
+},
     description: {
       de: "Die ausgedehnten Ebenen im südöstlichen Zimbabwe.",
       hu: "A kiterjedt síkságok Zimbabwe délkeleti részén.",
@@ -317,7 +337,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MN",
     coords: [28.6, -20.1],
-    name: { de: "Bulawayo-Plateau", hu: "Bulawayo-fennsík", ro: "Platoul Bulawayo", en: "Bulawayo Plateau" },
+    name: { de: "Bulawayo-Plateau", hu: "Bulawayo-fennsík", ro: "Platoul Bulawayo", en: "Bulawayo Plateau",
+image: "/poi-images/bulawayo-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine erhöhte Region um Bulawayo im Westen.",
       hu: "Egy emelkedett régió Bulawayo körül, nyugaton.",
@@ -348,7 +370,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MN",
     coords: [27.2, -18.5],
-    name: { de: "Gwayi-Tal", hu: "Gwayi-völgy", ro: "Valea Gwayi", en: "Gwayi Valley" },
+    name: { de: "Gwayi-Tal", hu: "Gwayi-völgy", ro: "Valea Gwayi", en: "Gwayi Valley",
+image: "/poi-images/gwayi-valley-relief-v2.webp"
+},
     description: {
       de: "Eine Flussniederung im westlichen Zimbabwe.",
       hu: "Folyómenti alföld Zimbabwe nyugati részén.",
@@ -379,7 +403,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MC",
     coords: [31.5, -17.0],
-    name: { de: "Mazowe-Tal", hu: "Mazowe-völgy", ro: "Valea Mazowe", en: "Mazowe Valley" },
+    name: { de: "Mazowe-Tal", hu: "Mazowe-völgy", ro: "Valea Mazowe", en: "Mazowe Valley",
+image: "/poi-images/mazowe-valley-relief-v2.webp"
+},
     description: {
       de: "Ein fruchtbares Flusstal nördlich von Harare.",
       hu: "Termékeny folyóvölgy Hararetől északra.",
@@ -410,7 +436,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MN",
     coords: [29.0, -17.5],
-    name: { de: "Sanyati-Tal", hu: "Sanyati-völgy", ro: "Valea Sanyati", en: "Sanyati Valley" },
+    name: { de: "Sanyati-Tal", hu: "Sanyati-völgy", ro: "Valea Sanyati", en: "Sanyati Valley",
+image: "/poi-images/sanyati-valley-relief-v2.webp"
+},
     description: {
       de: "Ein Tal in Richtung Kariba-Stausee.",
       hu: "Völgy a Kariba-tó irányában.",
@@ -441,7 +469,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MA",
     coords: [32.4, -20.8],
-    name: { de: "Save-Ebene", hu: "Save-síkság", ro: "Câmpia Save", en: "Save Plains" },
+    name: { de: "Save-Ebene", hu: "Save-síkság", ro: "Câmpia Save", en: "Save Plains",
+image: "/poi-images/save-plains-relief-v2.webp"
+},
     description: {
       de: "Flache Landschaft entlang des Save-Flusses.",
       hu: "Síkság a Save-folyó mentén.",
@@ -472,7 +502,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.5, -19.0],
-    name: { de: "Manicaland-Hochland", hu: "Manicaland-felföld", ro: "Platoul Manicaland", en: "Manicaland Highlands" },
+    name: { de: "Manicaland-Hochland", hu: "Manicaland-felföld", ro: "Platoul Manicaland", en: "Manicaland Highlands",
+image: "/poi-images/manicaland-highlands-relief-v2.webp"
+},
     description: {
       de: "Bergige Provinz im Osten Zimbabwes.",
       hu: "Hegyvidéki tartomány Zimbabwe keleti részén.",
@@ -503,7 +535,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MI",
     coords: [29.5, -19.0],
-    name: { de: "Midlands-Plateau", hu: "Midlands-fennsík", ro: "Platoul Midlands", en: "Midlands Plateau" },
+    name: { de: "Midlands-Plateau", hu: "Midlands-fennsík", ro: "Platoul Midlands", en: "Midlands Plateau",
+image: "/poi-images/midlands-plateau-relief-v2.webp"
+},
     description: {
       de: "Die zentral gelegene Hochebene zwischen Harare und Bulawayo.",
       hu: "A központi elhelyezkedésű fennsík Harare és Bulawayo között.",
@@ -534,7 +568,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MN",
     coords: [30.0, -22.0],
-    name: { de: "Limpopo-Becken", hu: "Limpopo-medence", ro: "Bazinul Limpopo", en: "Limpopo Basin" },
+    name: { de: "Limpopo-Becken", hu: "Limpopo-medence", ro: "Bazinul Limpopo", en: "Limpopo Basin",
+image: "/poi-images/limpopo-basin-relief-v2.webp"
+},
     description: {
       de: "Das Einzugsgebiet des Limpopo im äußersten Süden.",
       hu: "A Limpopo vízgyűjtő területe a legdélebbi részen.",
@@ -565,7 +601,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MC",
     coords: [31.5, -17.5],
-    name: { de: "Mashonaland-Hochland", hu: "Mashonaland-felföld", ro: "Platoul Mashonaland", en: "Mashonaland Plateau" },
+    name: { de: "Mashonaland-Hochland", hu: "Mashonaland-felföld", ro: "Platoul Mashonaland", en: "Mashonaland Plateau",
+image: "/poi-images/mashonaland-plateau-relief-v2.webp"
+},
     description: {
       de: "Das nördliche Hochplateau um Harare.",
       hu: "Az északi magasföld Harare körül.",
@@ -596,7 +634,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "mountain",
     parent: "ZW-MN",
     coords: [27.8, -17.8],
-    name: { de: "Chizarira-Berge", hu: "Chizarira-hegyek", ro: "Munții Chizarira", en: "Chizarira Hills" },
+    name: { de: "Chizarira-Berge", hu: "Chizarira-hegyek", ro: "Munții Chizarira", en: "Chizarira Hills",
+image: "/poi-images/chizarira-hills-relief-v2.webp"
+},
     description: {
       de: "Eine zerklüftete Gebirgsregion im Nordwesten.",
       hu: "Tagolt hegyvidéki régió északnyugaton.",
@@ -627,7 +667,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MN",
     coords: [29.6, -21.9],
-    name: { de: "Tuli-Becken", hu: "Tuli-medence", ro: "Bazinul Tuli", en: "Tuli Basin" },
+    name: { de: "Tuli-Becken", hu: "Tuli-medence", ro: "Bazinul Tuli", en: "Tuli Basin",
+image: "/poi-images/tuli-basin-relief-v2.webp"
+},
     description: {
       de: "Ein trockenes Becken im Südwesten Zimbabwes.",
       hu: "Száraz medence Zimbabwe délnyugati részén.",
@@ -658,7 +700,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MN",
     coords: [30.1, -21.8],
-    name: { de: "Mzingwane-Tal", hu: "Mzingwane-völgy", ro: "Valea Mzingwane", en: "Mzingwane Valley" },
+    name: { de: "Mzingwane-Tal", hu: "Mzingwane-völgy", ro: "Valea Mzingwane", en: "Mzingwane Valley",
+image: "/poi-images/mzingwane-valley-relief-v2.webp"
+},
     description: {
       de: "Ein Flusstal im südlichen Matabeleland.",
       hu: "Folyóvölgy a déli Matabelelandban.",
@@ -689,7 +733,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MA",
     coords: [32.8, -18.2],
-    name: { de: "Nyanga-Tal", hu: "Nyanga-völgy", ro: "Valea Nyanga", en: "Nyanga Valley" },
+    name: { de: "Nyanga-Tal", hu: "Nyanga-völgy", ro: "Valea Nyanga", en: "Nyanga Valley",
+image: "/poi-images/nyanga-valley-relief-v2.webp"
+},
     description: {
       de: "Ein Tal in den östlichen Highlands.",
       hu: "Völgy a keleti felföldön.",
@@ -720,7 +766,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MA",
     coords: [33.0, -20.0],
-    name: { de: "Buzi-Becken", hu: "Buzi-medence", ro: "Bazinul Buzi", en: "Buzi Basin" },
+    name: { de: "Buzi-Becken", hu: "Buzi-medence", ro: "Bazinul Buzi", en: "Buzi Basin",
+image: "/poi-images/buzi-basin-relief-v2.webp"
+},
     description: {
       de: "Ein Becken im östlichen Grenzgebiet.",
       hu: "Medence a keleti határvidéken.",
@@ -751,7 +799,9 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     type: "relief",
     parent: "ZW-MV",
     coords: [31.5, -22.0],
-    name: { de: "Nuanetsi-Becken", hu: "Nuanetsi-medence", ro: "Bazinul Nuanetsi", en: "Nuanetsi Basin" },
+    name: { de: "Nuanetsi-Becken", hu: "Nuanetsi-medence", ro: "Bazinul Nuanetsi", en: "Nuanetsi Basin",
+image: "/poi-images/nuanetsi-basin-relief-v2.webp"
+},
     description: {
       de: "Ein Becken im südlichen Teil Zimbabwes.",
       hu: "Medence Zimbabwe déli részén.",

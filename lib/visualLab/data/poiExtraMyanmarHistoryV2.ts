@@ -10,8 +10,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Shwedagon-Pagode",
       hu: "Shwedagon pagoda",
       ro: "Pagoda Shwedagon",
-      en: "Shwedagon Pagoda"
-    },
+      en: "Shwedagon Pagoda",
+image: "/poi-images/shwedagon-pagoda-history-v2.webp"
+},
     description: {
       de: "Ein massiver goldener Stupa in Yangon, der als der heiligste buddhistische Schrein in Myanmar gilt und Reliquien von vier Buddhas enthält.",
       hu: "Egy hatalmas arany sztúpa Yangonban, amelyet Mianmar legszentebb buddhista szentélyeként tartanak számon, és négy Buddha ereklyéit őrzi.",
@@ -33,8 +34,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Archäologische Zone von Bagan",
       hu: "Bagan régészeti övezet",
       ro: "Zona Arheologică Bagan",
-      en: "Bagan Archaeological Zone"
-    },
+      en: "Bagan Archaeological Zone",
+image: "/poi-images/bagan-archaeological-zone-history-v2.webp"
+},
     description: {
       de: "Eine alte Stadt in der Mandalay-Region mit über 2.000 erhaltenen buddhistischen Tempeln und Pagoden aus dem 9. bis 13. Jahrhundert.",
       hu: "Egy ősi város a Mandalay régióban, ahol több mint 2000 fennmaradt buddhista templom és pagoda található a 9-13. századból.",
@@ -56,8 +58,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Mrauk U",
       hu: "Mrauk U",
       ro: "Mrauk U",
-      en: "Mrauk U"
-    },
+      en: "Mrauk U",
+image: "/poi-images/mrauk-u-ruins-history-v2.webp"
+},
     description: {
       de: "Die ehemalige Hauptstadt des Arakan-Reiches, bekannt für ihre einzigartigen, festungsähnlichen Steintempel.",
       hu: "Az Arakan Birodalom egykori fővárosa, amely egyedi, erődszerű kőtemplomairól híres.",
@@ -79,8 +82,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Shwenandaw-Kloster",
       hu: "Shwenandaw kolostor",
       ro: "Mănăstirea Shwenandaw",
-      en: "Shwenandaw Monastery"
-    },
+      en: "Shwenandaw Monastery",
+image: "/poi-images/shwenandaw-monastery-history-v2.webp"
+},
     description: {
       de: "Ein historisches buddhistisches Kloster in Mandalay, das für seine exquisiten Teakholz-Schnitzereien und traditionelle Architektur berühmt ist.",
       hu: "Egy történelmi buddhista kolostor Mandalayban, amely gyönyörű tíkfa faragásairól és hagyományos építészetéről híres.",
@@ -102,8 +106,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Königspalast von Mandalay",
       hu: "Mandalay királyi palota",
       ro: "Palatul Mandalay",
-      en: "Mandalay Palace"
-    },
+      en: "Mandalay Palace",
+image: "/poi-images/mandalay-palace-history-v2.webp"
+},
     description: {
       de: "Der letzte königliche Palast der birmanischen Monarchie, der als ummauerte Festung mit einem breiten Wassergraben im Zentrum von Mandalay errichtet wurde.",
       hu: "A burmai monarchia utolsó királyi palotája, amely egy fallal körülvett, széles várárokkal védett erődítményként épült Mandalay központjában.",
@@ -125,8 +130,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Mahamuni-Buddha-Tempel",
       hu: "Mahamuni Buddha-templom",
       ro: "Templul Mahamuni Buddha",
-      en: "Mahamuni Buddha Temple"
-    },
+      en: "Mahamuni Buddha Temple",
+image: "/poi-images/mahamuni-buddha-temple-history-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten buddhistischen Pilgerstätten in Myanmar, die eine hoch verehrte Buddha-Statue beherbergt.",
       hu: "Mianmar egyik legfontosabb buddhista zarándokhelye, amely egy nagyon tisztelt Buddha-szobornak ad otthont.",
@@ -148,8 +154,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Sule-Pagode",
       hu: "Sule pagoda",
       ro: "Pagoda Sule",
-      en: "Sule Pagoda"
-    },
+      en: "Sule Pagoda",
+image: "/poi-images/sule-pagoda-history-v2.webp"
+},
     description: {
       de: "Eine historische Stupa, die sich im Herzen der Innenstadt von Yangon befindet und als Zentrum der Stadtplanung der britischen Kolonialzeit diente.",
       hu: "Egy történelmi sztúpa, amely Yangon belvárosának szívében található, és a brit gyarmati korszak várostervezésének középpontjaként szolgált.",
@@ -171,8 +178,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Ruinen von Inwa",
       hu: "Inwa (Ava) romjai",
       ro: "Ruinele din Inwa",
-      en: "Inwa Ruins"
-    },
+      en: "Inwa Ruins",
+image: "/poi-images/inwa-ruins-history-v2.webp"
+},
     description: {
       de: "Die Überreste der alten Reichshauptstadt, die vom 14. bis zum 19. Jahrhundert das Zentrum vieler birmanischer Königreiche war.",
       hu: "Az ősi birodalmi főváros maradványai, amely a 14. és a 19. század között számos burmai királyság központja volt.",
@@ -194,8 +202,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Mingun-Pahtodawgyi",
       hu: "Mingun Pahtodawgyi",
       ro: "Mingun Pahtodawgyi",
-      en: "Mingun Pahtodawgyi"
-    },
+      en: "Mingun Pahtodawgyi",
+image: "/poi-images/mingun-pahtodawgyi-history-v2.webp"
+},
     description: {
       de: "Die Ruine einer gigantischen Pagode, die, wäre sie vollendet worden, die größte der Welt gewesen wäre.",
       hu: "Egy gigantikus pagoda romja, amely, ha befejezik, a világ legnagyobbja lett volna.",
@@ -217,8 +226,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Kyaiktiyo-Pagode",
       hu: "Kyaiktiyo pagoda",
       ro: "Pagoda Kyaiktiyo",
-      en: "Kyaiktiyo Pagoda"
-    },
+      en: "Kyaiktiyo Pagoda",
+image: "/poi-images/kyaiktiyo-pagoda-history-v2.webp"
+},
     description: {
       de: "Besser bekannt als der Goldene Fels, ist diese kleine Pagode auf einem vergoldeten Granitblock erbaut, der prekär an der Kante einer Klippe balanciert.",
       hu: "Ismertebb nevén az Arany Szikla, ez a kis pagoda egy aranyozott gránittömbön épült, amely egy szikla szélén egyensúlyoz.",
@@ -240,8 +250,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Bogyoke-Aung-San-Museum",
       hu: "Bogyoke Aung San Múzeum",
       ro: "Muzeul Bogyoke Aung San",
-      en: "Bogyoke Aung San Museum"
-    },
+      en: "Bogyoke Aung San Museum",
+image: "/poi-images/bogyoke-aung-san-museum-history-v2.webp"
+},
     description: {
       de: "Das ehemalige Wohnhaus von General Aung San, dem Gründer des modernen Myanmar, das heute als historisches Museum dient.",
       hu: "Aung San tábornok, a modern Mianmar alapítójának egykori otthona, amely ma történelmi múzeumként működik.",
@@ -263,8 +274,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Kriegsfriedhof Taukkyan",
       hu: "Taukkyan háborús temető",
       ro: "Cimitirul de Război Taukkyan",
-      en: "Taukkyan War Cemetery"
-    },
+      en: "Taukkyan War Cemetery",
+image: "/poi-images/taukkyan-war-cemetery-history-v2.webp"
+},
     description: {
       de: "Ein Gedenkfriedhof für die alliierten Soldaten, die während des Zweiten Weltkriegs in den Schlachten von Burma gefallen sind.",
       hu: "Emléktemető a szövetséges katonák számára, akik a burmai harcokban estek el a második világháború alatt.",
@@ -286,8 +298,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Historische Stadt Amarapura",
       hu: "Amarapura történelmi városa",
       ro: "Orașul istoric Amarapura",
-      en: "Amarapura Historical City"
-    },
+      en: "Amarapura Historical City",
+image: "/poi-images/amarapura-historical-city-history-v2.webp"
+},
     description: {
       de: "Eine ehemalige Hauptstadt Myanmars, die für ihre Seidenweberei und die berühmte U-Bein-Brücke aus Teakholz bekannt ist.",
       hu: "Mianmar egyik egykori fővárosa, amely selyemszövéséről és a híres tíkfa U Bein hídról ismert.",
@@ -309,8 +322,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Kuthodaw-Pagode",
       hu: "Kuthodaw pagoda",
       ro: "Pagoda Kuthodaw",
-      en: "Kuthodaw Pagoda"
-    },
+      en: "Kuthodaw Pagoda",
+image: "/poi-images/kuthodaw-pagoda-history-v2.webp"
+},
     description: {
       de: "Eine buddhistische Stupa in Mandalay, die das \"größte Buch der Welt\" enthält, bestehend aus Hunderten von Marmorplatten mit buddhistischen Texten.",
       hu: "Egy buddhista sztúpa Mandalayban, amely a \"világ legnagyobb könyvét\" rejti, több száz márványtáblára vésett buddhista szövegekkel.",
@@ -332,8 +346,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Botahtaung-Pagode",
       hu: "Botahtaung pagoda",
       ro: "Pagoda Botahtaung",
-      en: "Botahtaung Pagoda"
-    },
+      en: "Botahtaung Pagoda",
+image: "/poi-images/botahtaung-pagoda-history-v2.webp"
+},
     description: {
       de: "Eine historische Pagode am Flussufer von Yangon, die im Gegensatz zu den meisten anderen Stupas von innen hohl und begehbar ist.",
       hu: "Egy történelmi pagoda Yangon folyópartján, amely a legtöbb sztúpával ellentétben belül üreges és bejárható.",
@@ -355,8 +370,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Hsinbyume-Pagode",
       hu: "Hsinbyume pagoda",
       ro: "Pagoda Hsinbyume",
-      en: "Hsinbyume Pagoda"
-    },
+      en: "Hsinbyume Pagoda",
+image: "/poi-images/hsinbyume-pagoda-history-v2.webp"
+},
     description: {
       de: "Eine markante weiße Pagode in Mingun, die architektonisch den mythologischen Berg Meru darstellt.",
       hu: "Egy feltűnő hófehér pagoda Mingunban, amely építészetileg a mitológiai Meru-hegyet ábrázolja.",
@@ -378,8 +394,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Kanbawzathadi-Palast",
       hu: "Kanbawzathadi palota",
       ro: "Palatul Kanbawzathadi",
-      en: "Kanbawzathadi Palace"
-    },
+      en: "Kanbawzathadi Palace",
+image: "/poi-images/kanbawzathadi-palace-history-v2.webp"
+},
     description: {
       de: "Ein rekonstruierter Palast in Bago, der die Pracht des birmanischen Reiches im 16. Jahrhundert unter König Bayinnaung zeigt.",
       hu: "Egy újjáépített palota Bagóban, amely a 16. századi burmai birodalom pompáját mutatja be Bayinnaung király uralkodása idején.",
@@ -401,8 +418,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Shwezigon-Pagode",
       hu: "Shwezigon pagoda",
       ro: "Pagoda Shwezigon",
-      en: "Shwezigon Pagoda"
-    },
+      en: "Shwezigon Pagoda",
+image: "/poi-images/shwezigon-pagoda-history-v2.webp"
+},
     description: {
       de: "Ein bedeutender buddhistischer Schrein in Nyaung-U nahe Bagan, der als Prototyp für viele spätere burmesische Stupas diente.",
       hu: "Egy jelentős buddhista szentély Nyaung-U-ban, Bagan közelében, amely számos későbbi burmai sztúpa prototípusaként szolgált.",
@@ -424,8 +442,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Ananda-Tempel",
       hu: "Ananda-templom",
       ro: "Templul Ananda",
-      en: "Ananda Temple"
-    },
+      en: "Ananda Temple",
+image: "/poi-images/ananda-temple-history-v2.webp"
+},
     description: {
       de: "Einer der schönsten und am besten erhaltenen Tempel in Bagan, bekannt für seine beeindruckende Architektur mit einem kreuzförmigen Grundriss.",
       hu: "Bagan egyik legszebb és legépebben fennmaradt temploma, amely lenyűgöző kereszt alaprajzú építészetéről ismert.",
@@ -447,8 +466,9 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       de: "Kakku-Pagoden",
       hu: "Kakku pagodák",
       ro: "Pagodele Kakku",
-      en: "Kakku Pagodas"
-    },
+      en: "Kakku Pagodas",
+image: "/poi-images/kakku-pagodas-history-v2.webp"
+},
     description: {
       de: "Ein abgelegener religiöser Komplex im Shan-Staat, der aus Tausenden dicht aneinander gedrängten alten Stupas besteht.",
       hu: "Egy félreeső vallási komplexum a Shan államban, amely több ezer, szorosan egymás mellé épült ősi sztúpából áll.",

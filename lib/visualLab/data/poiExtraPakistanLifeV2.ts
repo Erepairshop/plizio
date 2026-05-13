@@ -11,8 +11,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Kirthar-Nationalpark",
       hu: "Kirthar Nemzeti Park",
       ro: "Parcul Național Kirthar",
-      en: "Kirthar National Park"
-    },
+      en: "Kirthar National Park",
+image: "/poi-images/pk-kirthar-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein großes Schutzgebiet in der Provinz Sindh, Heimat der Sindh-Wildziege.",
       hu: "Egy hatalmas védett terület Sindh tartományban, a szindhi vadkecske otthona.",
@@ -67,8 +68,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Ayubia-Nationalpark",
       hu: "Ayubia Nemzeti Park",
       ro: "Parcul Național Ayubia",
-      en: "Ayubia National Park"
-    },
+      en: "Ayubia National Park",
+image: "/poi-images/pk-ayubia-nationalpark-life-v2.webp"
+},
     description: {
       de: "Ein Waldpark in den Ausläufern des Himalaya, bekannt für seine Wanderwege und Affen.",
       hu: "Egy erdei park a Himalája lábánál, amely túraútvonalairól és majmairól ismert.",
@@ -124,8 +126,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Changa-Manga-Waldpark",
       hu: "Changa Manga Erdőpark",
       ro: "Parcul Forestier Changa Manga",
-      en: "Changa Manga Forest Park"
-    },
+      en: "Changa Manga Forest Park",
+image: "/poi-images/pk-changa-manga-life-v2.webp"
+},
     description: {
       de: "Einer der ältesten und größten von Menschenhand geschaffenen Wälder der Welt.",
       hu: "A világ egyik legrégebbi és legnagyobb ember által ültetett erdeje.",
@@ -180,8 +183,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Safari-Park Lahore",
       hu: "Lahore Szafari Park",
       ro: "Parcul Safari Lahore",
-      en: "Lahore Safari Park"
-    },
+      en: "Lahore Safari Park",
+image: "/poi-images/pk-lahore-safari-life-v2.webp"
+},
     description: {
       de: "Ein großer Wildpark, der Löwen, Tiger und viele Vogelarten beherbergt.",
       hu: "Egy nagy vadaspark, amely oroszlánoknak, tigriseknek és számos madárfajnak ad otthont.",
@@ -236,8 +240,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Lal-Suhanra-Nationalpark",
       hu: "Lal Suhanra Nemzeti Park",
       ro: "Parcul Național Lal Suhanra",
-      en: "Lal Suhanra National Park"
-    },
+      en: "Lal Suhanra National Park",
+image: "/poi-images/pk-lal-suhanra-life-v2.webp"
+},
     description: {
       de: "Ein Biosphärenreservat, das Wüsten- und Waldökosysteme vereint.",
       hu: "Egy bioszféra-rezervátum, amely sivatagi és erdei ökoszisztémákat ötvöz.",
@@ -292,8 +297,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Margalla-Hills-Nationalpark",
       hu: "Margalla Hills Nemzeti Park",
       ro: "Parcul Național Margalla Hills",
-      en: "Margalla Hills National Park"
-    },
+      en: "Margalla Hills National Park",
+image: "/poi-images/pk-margalla-hills-life-v2.webp"
+},
     description: {
       de: "Ein Nationalpark am Rande von Islamabad, beliebt zum Wandern und zur Vogelbeobachtung.",
       hu: "Nemzeti park Iszlámábád szélén, amely népszerű túrázó és madármegfigyelő hely.",
@@ -348,8 +354,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Machiara-Nationalpark",
       hu: "Machiara Nemzeti Park",
       ro: "Parcul Național Machiara",
-      en: "Machiara National Park"
-    },
+      en: "Machiara National Park",
+image: "/poi-images/pk-machiara-park-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Neelum-Tal, das den bedrohten Schneeleoparden schützt.",
       hu: "Egy védett terület a Neelum-völgyben, amely a veszélyeztetett hópárducot óvja.",
@@ -404,8 +411,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Jallo-Park",
       hu: "Jallo Park",
       ro: "Parcul Jallo",
-      en: "Jallo Park"
-    },
+      en: "Jallo Park",
+image: "/poi-images/pk-jallo-park-life-v2.webp"
+},
     description: {
       de: "Ein riesiger Erholungspark in Lahore mit Seen, Wäldern und einem kleinen Zoo.",
       hu: "Egy hatalmas rekreációs park Lahorban, tavakkal, erdőkkel és egy kis állatkerttel.",
@@ -460,8 +468,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Joyland Lahore",
       hu: "Joyland Lahore",
       ro: "Joyland Lahore",
-      en: "Joyland Lahore"
-    },
+      en: "Joyland Lahore",
+image: "/poi-images/pk-joyland-lahore-life-v2.webp"
+},
     description: {
       de: "Einer der größten Vergnügungsparks Pakistans, der Familien und Kinder anzieht.",
       hu: "Pakisztán egyik legnagyobb vidámparkja, amely családokat és gyerekeket vonz.",
@@ -516,8 +525,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Weizenfelder von Punjab",
       hu: "Pandzsáb Búzamezői",
       ro: "Câmpurile de Grâu din Punjab",
-      en: "Punjab Wheat Fields"
-    },
+      en: "Punjab Wheat Fields",
+image: "/poi-images/pk-punjab-wheat-life-v2.webp"
+},
     description: {
       de: "Die endlosen Weizenfelder des Punjab, der Kornkammer Pakistans, sind das Rückgrat der Landwirtschaft.",
       hu: "Pandzsáb, Pakisztán magtárának végtelen búzamezői adják a mezőgazdaság gerincét.",
@@ -572,8 +582,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Mangoplantagen von Multan",
       hu: "Multán Mangóültetvényei",
       ro: "Plantațiile de Mango din Multan",
-      en: "Multan Mango Orchards"
-    },
+      en: "Multan Mango Orchards",
+image: "/poi-images/pk-multan-mango-life-v2.webp"
+},
     description: {
       de: "Diese Region produziert einige der süßesten Mangos der Welt, darunter die berühmte Sorte Chaunsa.",
       hu: "Ez a régió termeli a világ legédesebb mangóit, köztük a híres Chaunsa fajtát.",
@@ -628,8 +639,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Hazarganji-Chiltan-Nationalpark",
       hu: "Hazarganji-Chiltan Nemzeti Park",
       ro: "Parcul Național Hazarganji-Chiltan",
-      en: "Hazarganji-Chiltan National Park"
-    },
+      en: "Hazarganji-Chiltan National Park",
+image: "/poi-images/pk-hazarganji-chiltan-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet in Belutschistan, gegründet zur Erhaltung der seltenen Chiltan-Wildziege.",
       hu: "Egy védett terület Beludzsisztánban, amelyet a ritka chiltan vadkecske megőrzésére hoztak létre.",
@@ -684,8 +696,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Aprikosenplantagen im Hunza-Tal",
       hu: "Hunza-völgyi Kajszibarack-ültetvények",
       ro: "Livezile de Cais din Valea Hunza",
-      en: "Hunza Valley Apricot Orchards"
-    },
+      en: "Hunza Valley Apricot Orchards",
+image: "/poi-images/pk-hunza-apricot-life-v2.webp"
+},
     description: {
       de: "Die Terrassenfelder des Hunza-Tals, die im Frühling durch blühende Aprikosenbäume rosa leuchten.",
       hu: "A Hunza-völgy teraszos földjei, amelyek tavasszal a virágzó sárgabarackfáktól rózsaszínben pompáznak.",
@@ -740,8 +753,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Baumwollfelder von Sindh",
       hu: "Szindhi Pamutmezők",
       ro: "Câmpurile de Bumbac din Sindh",
-      en: "Sindh Cotton Fields"
-    },
+      en: "Sindh Cotton Fields",
+image: "/poi-images/pk-sindh-cotton-life-v2.webp"
+},
     description: {
       de: "Große landwirtschaftliche Flächen am Unterlauf des Indus, die hochwertige Baumwolle anbauen.",
       hu: "Hatalmas mezőgazdasági területek az Indus alsó folyásánál, ahol kiváló minőségű pamutot termesztenek.",
@@ -796,8 +810,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Daman-e-Koh-Park",
       hu: "Daman-e-Koh Park",
       ro: "Parcul Daman-e-Koh",
-      en: "Daman-e-Koh Park"
-    },
+      en: "Daman-e-Koh Park",
+image: "/poi-images/pk-daman-e-koh-life-v2.webp"
+},
     description: {
       de: "Ein terrassenförmig angelegter Park in den Hügeln von Islamabad mit Panoramablick auf die Stadt.",
       hu: "Egy teraszos kialakítású park Iszlámábád dombjain, panorámás kilátással a városra.",
@@ -852,8 +867,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Danzoo Karachi",
       hu: "Danzoo Karacsi",
       ro: "Danzoo Karachi",
-      en: "Danzoo Karachi"
-    },
+      en: "Danzoo Karachi",
+image: "/poi-images/pk-danzoo-karachi-life-v2.webp"
+},
     description: {
       de: "Der erste Tag- und Nachtzoo in Pakistan, der Familien eine sichere Umgebung für Tierbeobachtungen bietet.",
       hu: "Pakisztán első nappali és éjszakai állatkertje, amely biztonságos környezetet nyújt az állatok megfigyeléséhez.",
@@ -908,8 +924,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Haleji-See-Vogelreservat",
       hu: "Haleji-tó Madárrezervátum",
       ro: "Rezervația de Păsări Lacul Haleji",
-      en: "Haleji Lake Bird Sanctuary"
-    },
+      en: "Haleji Lake Bird Sanctuary",
+image: "/poi-images/pk-haleji-birds-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Feuchtgebiet, das Tausenden von Zugvögeln aus Sibirien im Winter Schutz bietet.",
       hu: "Fontos vizesélőhely, amely télen több ezer Szibériából érkező vándormadárnak nyújt menedéket.",
@@ -964,8 +981,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Soan-Tal-Obstgärten",
       hu: "Soan-völgyi Gyümölcsösök",
       ro: "Livezile din Valea Soan",
-      en: "Soan Valley Orchards"
-    },
+      en: "Soan Valley Orchards",
+image: "/poi-images/pk-soan-valley-farms-life-v2.webp"
+},
     description: {
       de: "Eine fruchtbare Region, bekannt für den Anbau von Zitrusfrüchten, Erdnüssen und Blumenkohl.",
       hu: "Egy termékeny régió, amely citrusfélék, földimogyoró és karfiol termesztéséről ismert.",
@@ -1021,8 +1039,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Taunsa-Staudamm-Wildreservat",
       hu: "Taunsa-gát Vadrezervátum",
       ro: "Rezervația de Faună Taunsa Barrage",
-      en: "Taunsa Barrage Wildlife Sanctuary"
-    },
+      en: "Taunsa Barrage Wildlife Sanctuary",
+image: "/poi-images/pk-taunsa-barrage-wildlife-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet am Indus-Fluss, das den seltenen und blinden Indus-Delfin beheimatet.",
       hu: "Védett terület az Indus-folyó mentén, amely a ritka és vak indusi kúposfogúdelfin otthona.",
@@ -1077,8 +1096,9 @@ export const poiExtraPakistanLifeV2: POI[] = [
       de: "Bagh-e-Jinnah",
       hu: "Bagh-e-Jinnah",
       ro: "Bagh-e-Jinnah",
-      en: "Bagh-e-Jinnah"
-    },
+      en: "Bagh-e-Jinnah",
+image: "/poi-images/pk-bagh-e-jinnah-life-v2.webp"
+},
     description: {
       de: "Ein historischer botanischer Garten im Herzen von Lahore, der ausgedehnte Rasenflächen und eine reiche Flora bietet.",
       hu: "Történelmi botanikus kert Lahore szívében, amely kiterjedt pázsitokat és gazdag növényvilágot kínál.",

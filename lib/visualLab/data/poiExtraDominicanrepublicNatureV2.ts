@@ -7,7 +7,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "river",
     parent: "DO-06",
     coords: [-69.8333, 19.1667],
-    name: { de: "Río Yuna", hu: "Yuna-folyó", ro: "Râul Yuna", en: "Yuna River" },
+    name: { de: "Río Yuna", hu: "Yuna-folyó", ro: "Râul Yuna", en: "Yuna River",
+image: "/poi-images/do-rio-yuna-nature-v2.webp"
+},
     description: {
       de: "Einer der wichtigsten Flüsse, der in die Bucht von Samaná mündet und große Reisanbaugebiete bewässert.",
       hu: "Az egyik legfontosabb folyó, amely a Samaná-öbölbe ömlik és hatalmas rizsföldeket öntöz.",
@@ -25,7 +27,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "island",
     parent: "DO-02",
     coords: [-71.55, 18.5],
-    name: { de: "Isla Cabritos", hu: "Cabritos-sziget", ro: "Insula Cabritos", en: "Cabritos Island" },
+    name: { de: "Isla Cabritos", hu: "Cabritos-sziget", ro: "Insula Cabritos", en: "Cabritos Island",
+image: "/poi-images/do-isla-cabritos-nature-v2.webp"
+},
     description: {
       de: "Eine trockene Insel im Herzen des Enriquillo-Sees, Heimat von Krokodilen und Leguanen.",
       hu: "Száraz sziget az Enriquillo-tó szívében, krokodilok és leguánok otthona.",
@@ -43,7 +47,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-01",
     coords: [-70.6667, 18.25],
-    name: { de: "Bucht von Ocoa", hu: "Ocoa-öböl", ro: "Golful Ocoa", en: "Ocoa Bay" },
+    name: { de: "Bucht von Ocoa", hu: "Ocoa-öböl", ro: "Golful Ocoa", en: "Ocoa Bay",
+image: "/poi-images/do-bahia-de-ocoa-nature-v2.webp"
+},
     description: {
       de: "Eine große Bucht an der Südküste, bekannt für ihre ruhigen Gewässer und Fischerei.",
       hu: "Nagy öböl a déli parton, nyugodt vizeiről és halászatáról ismert.",
@@ -61,7 +67,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "mountain",
     parent: "DO-18",
     coords: [-70.7167, 19.7667],
-    name: { de: "Loma Isabel de Torres", hu: "Isabel de Torres-hegy", ro: "Muntele Isabel de Torres", en: "Mount Isabel de Torres" },
+    name: { de: "Loma Isabel de Torres", hu: "Isabel de Torres-hegy", ro: "Muntele Isabel de Torres", en: "Mount Isabel de Torres",
+image: "/poi-images/do-loma-isabel-de-torres-nature-v2.webp"
+},
     description: {
       de: "Ein Berg bei Puerto Plata mit einer Christusstatue und einer Seilbahn zum Gipfel.",
       hu: "Hegy Puerto Plata közelében, egy Krisztus-szoborral és egy felvonóval a csúcsra.",
@@ -79,7 +87,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "forest",
     parent: "DO-11",
     coords: [-68.6667, 18.25],
-    name: { de: "Nationalpark Cotubanamá", hu: "Cotubanamá Nemzeti Park", ro: "Parcul Național Cotubanamá", en: "Cotubanamá National Park" },
+    name: { de: "Nationalpark Cotubanamá", hu: "Cotubanamá Nemzeti Park", ro: "Parcul Național Cotubanamá", en: "Cotubanamá National Park",
+image: "/poi-images/do-parque-nacional-del-este-nature-v2.webp"
+},
     description: {
       de: "Ein Nationalpark im Südosten, der die Insel Saona und reiche Korallenriffe umfasst.",
       hu: "Nemzeti park délkeleten, amely magában foglalja a Saona-szigetet és gazdag korallzátonyokat.",
@@ -97,7 +107,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "lake",
     parent: "DO-16",
     coords: [-71.4, 17.75],
-    name: { de: "Laguna de Oviedo", hu: "Oviedo-lagúna", ro: "Laguna Oviedo", en: "Oviedo Lagoon" },
+    name: { de: "Laguna de Oviedo", hu: "Oviedo-lagúna", ro: "Laguna Oviedo", en: "Oviedo Lagoon",
+image: "/poi-images/do-laguna-de-oviedo-nature-v2.webp"
+},
     description: {
       de: "Eine große Salzwasserlagune im Jaragua-Nationalpark, bekannt für ihre Flamingos.",
       hu: "Nagy sósvízi lagúna a Jaragua Nemzeti Parkban, flamingóiról ismert.",
@@ -115,7 +127,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "river",
     parent: "DO-12",
     coords: [-68.9, 18.4167],
-    name: { de: "Río Chavón", hu: "Chavón-folyó", ro: "Râul Chavón", en: "Chavón River" },
+    name: { de: "Río Chavón", hu: "Chavón-folyó", ro: "Râul Chavón", en: "Chavón River",
+image: "/poi-images/do-rio-chavon-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der bei La Romana ins Meer mündet, bekannt durch das Dorf Altos de Chavón an seinen Ufern.",
       hu: "Folyó, amely La Romana közelében ömlik a tengerbe, és az Altos de Chavón falu partjairól ismert.",
@@ -133,7 +147,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "lake",
     parent: "DO-24",
     coords: [-70.0833, 19.0333],
-    name: { de: "Presa de Hatillo", hu: "Hatillo-víztározó", ro: "Lacul de acumulare Hatillo", en: "Hatillo Dam" },
+    name: { de: "Presa de Hatillo", hu: "Hatillo-víztározó", ro: "Lacul de acumulare Hatillo", en: "Hatillo Dam",
+image: "/poi-images/do-lago-hatillo-nature-v2.webp"
+},
     description: {
       de: "Der größte Stausee der Karibik, der zur Stromerzeugung und Bewässerung genutzt wird.",
       hu: "A Karib-térség legnagyobb víztározója, amelyet energiatermelésre és öntözésre használnak.",
@@ -151,7 +167,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-14",
     coords: [-69.9, 19.65],
-    name: { de: "Cabo Francés Viejo", hu: "Cabo Francés Viejo", ro: "Cabo Francés Viejo", en: "Cabo Francés Viejo" },
+    name: { de: "Cabo Francés Viejo", hu: "Cabo Francés Viejo", ro: "Cabo Francés Viejo", en: "Cabo Francés Viejo",
+image: "/poi-images/do-monumento-natural-cabo-frances-viejo-nature-v2.webp"
+},
     description: {
       de: "Ein geschütztes Kap an der Nordküste mit Klippen, Stränden und einem Leuchtturm.",
       hu: "Védett fok az északi parton sziklákkal, strandokkal és világítótoronnyal.",
@@ -169,7 +187,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "forest",
     parent: "DO-02",
     coords: [-71.5, 18.2],
-    name: { de: "Sierra de Bahoruco Nationalpark", hu: "Sierra de Bahoruco Nemzeti Park", ro: "Parcul Național Sierra de Bahoruco", en: "Sierra de Bahoruco National Park" },
+    name: { de: "Sierra de Bahoruco Nationalpark", hu: "Sierra de Bahoruco Nemzeti Park", ro: "Parcul Național Sierra de Bahoruco", en: "Sierra de Bahoruco National Park",
+image: "/poi-images/do-parque-nacional-sierra-de-bahoruco-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgs-Nationalpark im Südwesten mit einer unglaublichen Vielfalt an Ökosystemen.",
       hu: "Hegyi nemzeti park délnyugaton, hihetetlen ökoszisztéma-változatossággal.",
@@ -187,7 +207,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-17",
     coords: [-70.5, 18.2],
-    name: { de: "Bucht von Las Calderas", hu: "Las Calderas-öböl", ro: "Golful Las Calderas", en: "Las Calderas Bay" },
+    name: { de: "Bucht von Las Calderas", hu: "Las Calderas-öböl", ro: "Golful Las Calderas", en: "Las Calderas Bay",
+image: "/poi-images/do-bahia-de-las-calderas-nature-v2.webp"
+},
     description: {
       de: "Eine geschützte Bucht im Süden, Standort eines Marinestützpunktes und der Dünen von Baní.",
       hu: "Védett öböl délen, egy haditengerészeti támaszpont és a Baní-dűnék helyszíne.",
@@ -205,7 +227,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "island",
     parent: "DO-11",
     coords: [-68.6333, 18.2],
-    name: { de: "Insel Catalinita", hu: "Catalinita-sziget", ro: "Insula Catalinita", en: "Catalinita Island" },
+    name: { de: "Insel Catalinita", hu: "Catalinita-sziget", ro: "Insula Catalinita", en: "Catalinita Island",
+image: "/poi-images/do-isla-catalinita-nature-v2.webp"
+},
     description: {
       de: "Eine kleine, unbewohnte Insel zwischen dem Festland und der Insel Saona, bekannt für ihre Seesterne.",
       hu: "Kicsi, lakatlan sziget a szárazföld és a Saona-sziget között, tengeri csillagairól ismert.",
@@ -223,7 +247,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "mountain",
     parent: "DO-22",
     coords: [-71.0167, 19.0333],
-    name: { de: "Pico La Pelona", hu: "Pico La Pelona", ro: "Vârful La Pelona", en: "La Pelona Peak" },
+    name: { de: "Pico La Pelona", hu: "Pico La Pelona", ro: "Vârful La Pelona", en: "La Pelona Peak",
+image: "/poi-images/do-pico-la-pelona-nature-v2.webp"
+},
     description: {
       de: "Der Zwillingsgipfel des Pico Duarte und der zweithöchste Berg der Karibik.",
       hu: "A Pico Duarte ikercsúcsa és a Karib-térség második legmagasabb hegye.",
@@ -241,7 +267,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-20",
     coords: [-69.4167, 19.1667],
-    name: { de: "Bucht von Samaná", hu: "Samaná-öböl", ro: "Golful Samaná", en: "Samaná Bay" },
+    name: { de: "Bucht von Samaná", hu: "Samaná-öböl", ro: "Golful Samaná", en: "Samaná Bay",
+image: "/poi-images/do-bahia-de-samana-nature-v2.webp"
+},
     description: {
       de: "Eine riesige Bucht im Nordosten, die jedes Jahr Tausenden von Buckelwalen als Paarungs- und Kalbungsgebiet dient.",
       hu: "Hatalmas öböl északkeleten, amely évente több ezer púpos bálnának ad otthont párzási és borjadzási területként.",
@@ -259,7 +287,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "forest",
     parent: "DO-07",
     coords: [-71.5, 19.2],
-    name: { de: "Nationalpark Nalga de Maco", hu: "Nalga de Maco Nemzeti Park", ro: "Parcul Național Nalga de Maco", en: "Nalga de Maco National Park" },
+    name: { de: "Nationalpark Nalga de Maco", hu: "Nalga de Maco Nemzeti Park", ro: "Parcul Național Nalga de Maco", en: "Nalga de Maco National Park",
+image: "/poi-images/do-parque-nacional-nalga-de-maco-nature-v2.webp"
+},
     description: {
       de: "Ein abgelegener Nationalpark in der Cordillera Central mit Nebelwäldern und hoher Biodiversität.",
       hu: "Elszigetelt nemzeti park a Cordillera Centralban, köderdőkkel és magas biodiverzitással.",
@@ -277,7 +307,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "mountain",
     parent: "DO-15",
     coords: [-71.6667, 19.8833],
-    name: { de: "El Morro de Monte Cristi", hu: "El Morro de Monte Cristi", ro: "El Morro de Monte Cristi", en: "El Morro de Monte Cristi" },
+    name: { de: "El Morro de Monte Cristi", hu: "El Morro de Monte Cristi", ro: "El Morro de Monte Cristi", en: "El Morro de Monte Cristi",
+image: "/poi-images/do-el-morro-de-monte-cristi-nature-v2.webp"
+},
     description: {
       de: "Eine markante, kamelförmige Karstformation, die am Meer bei Monte Cristi emporragt.",
       hu: "Jellegzetes, teve alakú karsztképződmény, amely a tenger mellett emelkedik Monte Cristi közelében.",
@@ -296,7 +328,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "forest",
     parent: "DO-13",
     coords: [-70.55, 19.0667],
-    name: { de: "Wissenschaftliches Reservat Ébano Verde", hu: "Ébano Verde Tudományos Rezervátum", ro: "Rezervația Științifică Ébano Verde", en: "Ébano Verde Scientific Reserve" },
+    name: { de: "Wissenschaftliches Reservat Ébano Verde", hu: "Ébano Verde Tudományos Rezervátum", ro: "Rezervația Științifică Ébano Verde", en: "Ébano Verde Scientific Reserve",
+image: "/poi-images/do-reserva-cientifica-ebano-verde-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet, das dem Erhalt des endemischen Magnolienbaums Ébano Verde gewidmet ist.",
       hu: "Védett terület, amely az endemikus Ébano Verde magnóliafa megőrzésére szolgál.",
@@ -314,7 +348,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "lake",
     parent: "DO-08",
     coords: [-68.95, 19.05],
-    name: { de: "Lagunen Redonda und Limón", hu: "Redonda és Limón lagúnák", ro: "Lagunele Redonda și Limón", en: "Redonda and Limón Lagoons" },
+    name: { de: "Lagunen Redonda und Limón", hu: "Redonda és Limón lagúnák", ro: "Lagunele Redonda și Limón", en: "Redonda and Limón Lagoons",
+image: "/poi-images/do-laguna-redonda-y-limon-nature-v2.webp"
+},
     description: {
       de: "Zwei Küstenlagunen im Nordosten, die als wissenschaftliches Reservat geschützt sind.",
       hu: "Két part menti lagúna északkeleten, amelyek tudományos rezervátumként védettek.",
@@ -332,7 +368,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "island",
     parent: "DO-20",
     coords: [-69.2667, 19.1667],
-    name: { de: "Cayo Levantado", hu: "Cayo Levantado", ro: "Cayo Levantado", en: "Cayo Levantado" },
+    name: { de: "Cayo Levantado", hu: "Cayo Levantado", ro: "Cayo Levantado", en: "Cayo Levantado",
+image: "/poi-images/do-cayo-levantado-nature-v2.webp"
+},
     description: {
       de: "Eine kleine Insel in der Bucht von Samaná mit öffentlichen und privaten Stränden.",
       hu: "Kis sziget a Samaná-öbölben, nyilvános és magánstrandokkal.",
@@ -350,7 +388,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-20",
     coords: [-69.1833, 19.3],
-    name: { de: "Playa Rincón", hu: "Rincón strand", ro: "Plaja Rincón", en: "Rincón Beach" },
+    name: { de: "Playa Rincón", hu: "Rincón strand", ro: "Plaja Rincón", en: "Rincón Beach",
+image: "/poi-images/do-playa-rincon-nature-v2.webp"
+},
     description: {
       de: "Ein abgelegener, sichelförmiger Strand auf der Halbinsel Samaná, der als einer der schönsten der Welt gilt.",
       hu: "Elhagyatott, sarló alakú strand a Samaná-félszigeten, amelyet a világ egyik legszebbjének tartanak.",
@@ -368,7 +408,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "island",
     parent: "DO-16",
     coords: [-71.5167, 17.5833],
-    name: { de: "Isla Beata", hu: "Beata-sziget", ro: "Insula Beata", en: "Beata Island" },
+    name: { de: "Isla Beata", hu: "Beata-sziget", ro: "Insula Beata", en: "Beata Island",
+image: "/poi-images/do-isla-beata-nature-v2.webp"
+},
     description: {
       de: "Eine unbewohnte Insel südlich von Pedernales, Teil des Jaragua-Nationalparks.",
       hu: "Lakatlan sziget Pedernalestől délre, a Jaragua Nemzeti Park része.",
@@ -386,7 +428,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-32",
     coords: [-69.75, 18.4167],
-    name: { de: "Unterwasser-Nationalpark La Caleta", hu: "La Caleta Víz alatti Nemzeti Park", ro: "Parcul Național Subacvatic La Caleta", en: "La Caleta Underwater National Park" },
+    name: { de: "Unterwasser-Nationalpark La Caleta", hu: "La Caleta Víz alatti Nemzeti Park", ro: "Parcul Național Subacvatic La Caleta", en: "La Caleta Underwater National Park",
+image: "/poi-images/do-parque-nacional-submarino-la-caleta-nature-v2.webp"
+},
     description: {
       de: "Einer der ersten Unterwasserparks Amerikas mit mehreren Schiffswracks zum Tauchen.",
       hu: "Amerika egyik első víz alatti parkja, több hajóronccsal a búvárkodáshoz.",
@@ -404,7 +448,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "river",
     parent: "DO-01",
     coords: [-71.1, 18.2333],
-    name: { de: "Yaque del Sur", hu: "Yaque del Sur", ro: "Yaque del Sur", en: "Yaque del Sur" },
+    name: { de: "Yaque del Sur", hu: "Yaque del Sur", ro: "Yaque del Sur", en: "Yaque del Sur",
+image: "/poi-images/do-rio-yaque-del-sur-nature-v2.webp"
+},
     description: {
       de: "Der zweitwichtigste Fluss im Süden, der für die Bewässerung der trockenen Regionen entscheidend ist.",
       hu: "A második legfontosabb folyó délen, amely a száraz régiók öntözéséhez elengedhetetlen.",
@@ -422,7 +468,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "forest",
     parent: "DO-27",
     coords: [-71.05, 19.1],
-    name: { de: "Nationalpark Armando Bermúdez", hu: "Armando Bermúdez Nemzeti Park", ro: "Parcul Național Armando Bermúdez", en: "Armando Bermúdez National Park" },
+    name: { de: "Nationalpark Armando Bermúdez", hu: "Armando Bermúdez Nemzeti Park", ro: "Parcul Național Armando Bermúdez", en: "Armando Bermúdez National Park",
+image: "/poi-images/do-parque-nacional-armando-bermudez-nature-v2.webp"
+},
     description: {
       de: "Ein riesiger Nationalpark in der Cordillera Central, der den Pico Duarte schützt.",
       hu: "Hatalmas nemzeti park a Cordillera Centralban, amely a Pico Duartét védi.",
@@ -440,7 +488,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "sea",
     parent: "DO-20",
     coords: [-69.5, 19.1],
-    name: { de: "Küste von Los Haitises", hu: "Los Haitises partvidéke", ro: "Coasta Los Haitises", en: "Los Haitises Coast" },
+    name: { de: "Küste von Los Haitises", hu: "Los Haitises partvidéke", ro: "Coasta Los Haitises", en: "Los Haitises Coast",
+image: "/poi-images/do-los-haitises-coast-nature-v2.webp"
+},
     description: {
       de: "Die einzigartige Küstenlinie des Los Haitises Nationalparks mit aus dem Wasser ragenden Karsthügeln.",
       hu: "A Los Haitises Nemzeti Park egyedülálló partvonala, vízből kiemelkedő karsztdombokkal.",
@@ -458,7 +508,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "lake",
     parent: "DO-11",
     coords: [-68.3667, 18.6667],
-    name: { de: "Laguna de Bávaro", hu: "Bávaro-lagúna", ro: "Laguna Bávaro", en: "Bávaro Lagoon" },
+    name: { de: "Laguna de Bávaro", hu: "Bávaro-lagúna", ro: "Laguna Bávaro", en: "Bávaro Lagoon",
+image: "/poi-images/do-laguna-bavaro-nature-v2.webp"
+},
     description: {
       de: "Ein geschütztes Feuchtgebiet und eine Lagune hinter den Stränden von Punta Cana.",
       hu: "Védett vizes élőhely és lagúna Punta Cana strandjai mögött.",
@@ -476,7 +528,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "island",
     parent: "DO-16",
     coords: [-71.65, 17.4833],
-    name: { de: "Isla Alto Velo", hu: "Alto Velo-sziget", ro: "Insula Alto Velo", en: "Alto Velo Island" },
+    name: { de: "Isla Alto Velo", hu: "Alto Velo-sziget", ro: "Insula Alto Velo", en: "Alto Velo Island",
+image: "/poi-images/do-isla-alto-velo-nature-v2.webp"
+},
     description: {
       de: "Die südlichste Insel der Dominikanischen Republik, ein wichtiges Vogelschutzgebiet.",
       hu: "A Dominikai Köztársaság legdélibb szigete, fontos madárvédelmi terület.",
@@ -494,7 +548,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "river",
     parent: "DO-13",
     coords: [-70.6167, 19.1],
-    name: { de: "Salto de Jimenoa", hu: "Jimenoa-vízesés", ro: "Cascada Jimenoa", en: "Jimenoa Waterfall" },
+    name: { de: "Salto de Jimenoa", hu: "Jimenoa-vízesés", ro: "Cascada Jimenoa", en: "Jimenoa Waterfall",
+image: "/poi-images/do-salto-de-jimenoa-nature-v2.webp"
+},
     description: {
       de: "Ein beeindruckender Wasserfall bei Jarabacoa, der über Hängebrücken erreichbar ist.",
       hu: "Lenyűgöző vízesés Jarabacoa közelében, amely függőhidakon keresztül érhető el.",
@@ -512,7 +568,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "mountain",
     parent: "DO-18",
     coords: [-70.5, 19.6667],
-    name: { de: "Cordillera Septentrional", hu: "Cordillera Septentrional", ro: "Cordillera Septentrional", en: "Cordillera Septentrional" },
+    name: { de: "Cordillera Septentrional", hu: "Cordillera Septentrional", ro: "Cordillera Septentrional", en: "Cordillera Septentrional",
+image: "/poi-images/do-cordillera-septentrional-nature-v2.webp"
+},
     description: {
       de: "Eine Gebirgskette, die parallel zur Nordküste verläuft und für ihre Bernsteinminen bekannt ist.",
       hu: "Hegylánc, amely párhuzamosan fut az északi parttal, és borostyánbányáiról ismert.",
@@ -530,7 +588,9 @@ export const poiExtraDominicanrepublicNatureV2: POI[] = [
     type: "island",
     parent: "DO-18",
     coords: [-71.35, 19.8667],
-    name: { de: "Cayo Arena", hu: "Cayo Arena", ro: "Cayo Arena", en: "Cayo Arena" },
+    name: { de: "Cayo Arena", hu: "Cayo Arena", ro: "Cayo Arena", en: "Cayo Arena",
+image: "/poi-images/do-cayo-arena-nature-v2.webp"
+},
     description: {
       de: "Eine winzige Sandbank mitten im Meer vor der Küste von Punta Rucia, ideal zum Schnorcheln.",
       hu: "Apró homokpad a tenger közepén Punta Rucia partjainál, ideális snorkelezéshez.",

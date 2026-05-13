@@ -11,8 +11,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Kathedrale Notre-Dame des Victoires",
       hu: "Győzedelmes Miasszonyunk Katedrális",
       ro: "Catedrala Notre-Dame des Victoires",
-      en: "Our Lady of Victories Cathedral"
-    },
+      en: "Our Lady of Victories Cathedral",
+image: "/poi-images/yaounde-notre-dame-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale Notre-Dame-des-Victoires in Yaoundé ist ein architektonisches Wahrzeichen und das spirituelle Zentrum der katholischen Kirche in der Hauptstadt. Sie ist bekannt für ihre markante Kuppel und ihre zentrale Rolle im gesellschaftlichen Leben der Stadt. Religion K7 — Architektur."
     },
@@ -41,8 +42,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Basilika Maria Königin der Apostel",
       hu: "Apostolok Királynője Bazilika",
       ro: "Bazilica Maria Regina Apostolilor",
-      en: "Mary Queen of the Apostles Basilica"
-    },
+      en: "Mary Queen of the Apostles Basilica",
+image: "/poi-images/mvolye-basilica-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Basilika von Mvolyé in Yaoundé ist ein eindrucksvolles religiöses Denkmal, das auf einem Hügel thront und einen weiten Blick über die Hauptstadt bietet. Sie ist ein bedeutender Wallfahrtsort und ein architektonisches Highlight. Religion K7 — Architektur."
     },
@@ -71,8 +73,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Paul-Biya-Stadion",
       hu: "Paul Biya Stadion",
       ro: "Stadionul Paul Biya",
-      en: "Paul Biya Stadium"
-    },
+      en: "Paul Biya Stadium",
+image: "/poi-images/olembe-stadium-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Paul-Biya-Stadion im Stadtteil Olembé ist das modernste und größte Sportstadion Kameruns. Es ist ein Symbol für die sportlichen Ambitionen des Landes und ein architektonisches Aushängeschild moderner Infrastruktur. Sport K7 — Infrastruktur."
     },
@@ -101,8 +104,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Wiedervereinigungsdenkmal",
       hu: "Újraegyesítési Emlékmű",
       ro: "Monumentul Reunificării",
-      en: "Reunification Monument"
-    },
+      en: "Reunification Monument",
+image: "/poi-images/reunification-monument-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Wiedervereinigungsdenkmal ist ein zentrales nationales Wahrzeichen in Yaoundé, das an den Zusammenschluss der beiden Regionen erinnert. Die spiralförmige Architektur ist ein markantes Symbol für die Geschichte und Einheit Kameruns. Geschichte K8 — Nationalstaat."
     },
@@ -131,8 +135,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Nationalmuseum von Kamerun",
       hu: "Kamerun Nemzeti Múzeuma",
       ro: "Muzeul Național al Camerunului",
-      en: "National Museum of Cameroon"
-    },
+      en: "National Museum of Cameroon",
+image: "/poi-images/national-museum-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Nationalmuseum in Yaoundé, untergebracht im ehemaligen Palast des Präsidenten, ist das Zentrum für die Bewahrung des kamerunischen Kulturerbes. Es bietet einen umfassenden Einblick in die Geschichte und Kunst der verschiedenen Regionen. Kunst/Kultur K7 — Geschichte."
     },
@@ -161,8 +166,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Kathedrale St. Peter und Paul",
       hu: "Szent Péter és Pál Katedrális",
       ro: "Catedrala Sf. Petru și Pavel",
-      en: "St. Peter and Paul Cathedral"
-    },
+      en: "St. Peter and Paul Cathedral",
+image: "/poi-images/douala-cathedral-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Kathedrale von Douala ist ein bedeutendes religiöses und historisches Bauwerk in der Metropole Douala. Mit ihrer markanten Fassade und ihrem zentralen Standort ist sie ein Ankerpunkt im kulturellen und religiösen Leben der Stadt. Religion K7 — Architektur."
     },
@@ -191,8 +197,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Japoma-Stadion",
       hu: "Japoma Stadion",
       ro: "Stadionul Japoma",
-      en: "Japoma Stadium"
-    },
+      en: "Japoma Stadium",
+image: "/poi-images/japoma-stadium-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Japoma-Stadion in Douala ist eines der modernsten Sportarenen des Landes und ein Symbol für die sportliche Modernisierung Kameruns. Das architektonisch anspruchsvolle Stadion ist ein bedeutender Austragungsort für Großevents. Sport K7 — Infrastruktur."
     },
@@ -221,8 +228,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Statue der Neuen Freiheit",
       hu: "Az Új Szabadság Szobra",
       ro: "Statuia Noii Libertăți",
-      en: "Statue of New Liberty"
-    },
+      en: "Statue of New Liberty",
+image: "/poi-images/nouvelle-liberte-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Skulptur 'La Nouvelle Liberté' in Douala ist eines der bekanntesten modernen Kunstwerke im öffentlichen Raum. Das aus Schrottteilen errichtete Monument ist ein Symbol für die Kreativität und den Wandel in Douala. Kunst/Kultur K7 — Öffentliche Kunst."
     },
@@ -251,8 +259,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Wouri-Brücke",
       hu: "Wouri híd",
       ro: "Podul Wouri",
-      en: "Wouri Bridge"
-    },
+      en: "Wouri Bridge",
+image: "/poi-images/wouri-bridge-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Wouri-Brücke ist die entscheidende Lebensader Doualas und verbindet die Stadt mit der westlichen Region des Landes. Als architektonisch bedeutendes Bauwerk über den Wouri-Fluss ist sie eines der meistgenutzten Infrastrukturprojekte Kameruns. Geografie K7 — Logistik."
     },
@@ -281,8 +290,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Palast der Bamoun-Könige",
       hu: "A Bamoun Királyok Palotája",
       ro: "Palatul Regilor Bamoun",
-      en: "Palace of the Bamoun Kings"
-    },
+      en: "Palace of the Bamoun Kings",
+image: "/poi-images/foumban-palace-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Palast von Foumban ist nicht nur ein historisches Machtzentrum, sondern auch ein architektonisches Wahrzeichen und ein wichtiges Kulturzentrum für das Bamoun-Volk. Die einzigartige Verbindung von Tradition und Architektur macht ihn landesweit bekannt. Kunst/Kultur K7 — Architektur."
     },
@@ -311,8 +321,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Zentralmoschee von Yaoundé",
       hu: "Yaoundéi Központi Mecset",
       ro: "Marea Moschee din Yaoundé",
-      en: "Central Mosque of Yaoundé"
-    },
+      en: "Central Mosque of Yaoundé",
+image: "/poi-images/yaounde-central-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Die größte Moschee in Yaoundé, die sich im Viertel Briqueterie befindet, zeichnet sich durch ihre grünen Minarette und lebendiges Gemeindeumfeld aus.",
       hu: "Yaoundé legnagyobb mecsete a Briqueterie negyedben található, és zöld minaretjeiről, valamint élénk közösségi életéről ismert.",
@@ -334,8 +345,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Sainte-Thérèse Kathedrale Garoua",
       hu: "Szent Teréz Katedrális (Garoua)",
       ro: "Catedrala Sfânta Tereza din Garoua",
-      en: "Sainte-Thérèse Cathedral of Garoua"
-    },
+      en: "Sainte-Thérèse Cathedral of Garoua",
+image: "/poi-images/garoua-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Diese auffällige Kathedrale im Norden Kameruns ist ein bedeutendes christliches Zentrum in einer überwiegend muslimisch geprägten Region.",
       hu: "Ez a feltűnő katedrális Észak-Kamerunban fontos keresztény központ egy túlnyomórészt muszlimok lakta régióban.",
@@ -357,8 +369,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Roumdé-Adjia-Stadion",
       hu: "Roumdé Adjia Stadion",
       ro: "Stadionul Roumdé Adjia",
-      en: "Roumdé Adjia Stadium"
-    },
+      en: "Roumdé Adjia Stadium",
+image: "/poi-images/roumde-adjia-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das wichtigste Sportstadion in Garoua wurde für den Afrika-Cup aufwendig renoviert und ist die Heimat des lokalen Erfolgsvereins Coton Sport.",
       hu: "Garoua legfontosabb sportstadionját az Afrika Kupára jelentősen felújították, és a sikeres helyi klub, a Coton Sport otthona.",
@@ -380,8 +393,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Limbe Omnisport Stadion",
       hu: "Limbe Omnisport Stadion",
       ro: "Stadionul Limbe Omnisport",
-      en: "Limbe Omnisport Stadium"
-    },
+      en: "Limbe Omnisport Stadium",
+image: "/poi-images/limbe-omnisport-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Dieses malerisch gelegene Stadion bietet einen atemberaubenden Blick auf den Atlantischen Ozean und ist eine der schönsten Sportstätten Kameruns.",
       hu: "Ez a festői környezetben fekvő stadion lélegzetelállító kilátást nyújt az Atlanti-óceánra, és Kamerun egyik legszebb sportlétesítménye.",
@@ -403,8 +417,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Bismarck-Brunnen Buea",
       hu: "Bismarck-kút (Buea)",
       ro: "Fântâna Bismarck din Buea",
-      en: "Bismarck Fountain Buea"
-    },
+      en: "Bismarck Fountain Buea",
+image: "/poi-images/bismark-fountain-landmarks-v2.webp"
+},
     description: {
       de: "Ein historischer Brunnen aus der deutschen Kolonialzeit am Fuße des Kamerunbergs, der an die frühere deutsche Präsenz erinnert.",
       hu: "Egy történelmi szökőkút a német gyarmati időkből a Kamerun-hegy lábánál, amely a korábbi német jelenlétre emlékeztet.",
@@ -426,8 +441,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Palast des Fon von Bafut",
       hu: "Bafut Fonjának Palotája",
       ro: "Palatul Fonului din Bafut",
-      en: "Palace of the Fon of Bafut"
-    },
+      en: "Palace of the Fon of Bafut",
+image: "/poi-images/bafut-palace-landmarks-v2.webp"
+},
     description: {
       de: "Dieser traditionelle Königspalast ist das kulturelle Zentrum des Bafut-Königreichs und berühmt für seinen einzigartigen Schrein aus Bambus und Holz.",
       hu: "Ez a hagyományos királyi palota a Bafut Királyság kulturális központja, amely egyedülálló bambusz és fa szentélyéről híres.",
@@ -449,8 +465,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Häuptlingstum von Bandjoun",
       hu: "Bandjoun Törzsi Központja",
       ro: "Căpitănia din Bandjoun",
-      en: "Chiefdom of Bandjoun"
-    },
+      en: "Chiefdom of Bandjoun",
+image: "/poi-images/bandjoun-chiefdom-landmarks-v2.webp"
+},
     description: {
       de: "Eine der beeindruckendsten traditionellen Chefferien des Bamileke-Volkes, bekannt für ihre reich verzierten Holzschnitzereien und strohgedeckten Dächer.",
       hu: "A Bamileke nép egyik leglenyűgözőbb hagyományos törzsfőnöki központja, amely gazdagon díszített fafaragásairól és zsúpfedeles épületeiről ismert.",
@@ -472,8 +489,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Leuchtturm von Kribi",
       hu: "Kribi Világítótorony",
       ro: "Farul din Kribi",
-      en: "Kribi Lighthouse"
-    },
+      en: "Kribi Lighthouse",
+image: "/poi-images/kribi-lighthouse-landmarks-v2.webp"
+},
     description: {
       de: "Dieser historische weiße Leuchtturm steht malerisch an der Atlantikküste von Kribi und ist ein Relikt der deutschen Kolonialzeit.",
       hu: "Ez a történelmi fehér világítótorony festőien magasodik Kribi atlanti partvidékén, a német gyarmati korszak emlékeként.",
@@ -495,8 +513,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Schloss Jesko von Puttkamer (Prime Minister's Lodge)",
       hu: "Puttkamer Kastély (Miniszterelnöki Rezidencia)",
       ro: "Castelul von Puttkamer (Reședința Primului Ministru)",
-      en: "Puttkamer Castle (Prime Minister's Lodge)"
-    },
+      en: "Puttkamer Castle (Prime Minister's Lodge)",
+image: "/poi-images/prime-minister-lodge-landmarks-v2.webp"
+},
     description: {
       de: "Ein schlossähnliches Gebäude in Buea, das einst vom deutschen Gouverneur erbaut wurde und später englischen Verwaltern diente.",
       hu: "Egy kastélyszerű épület Bueában, amelyet egykor a német kormányzó építtetett, később pedig angol adminisztrátorokat szolgált.",
@@ -518,8 +537,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Charles-Atangana-Denkmal",
       hu: "Charles Atangana Szobor",
       ro: "Statuia lui Charles Atangana",
-      en: "Charles Atangana Statue"
-    },
+      en: "Charles Atangana Statue",
+image: "/poi-images/charles-atangana-statue-landmarks-v2.webp"
+},
     description: {
       de: "Eine Statue im Zentrum von Yaoundé, die dem berühmtesten Paramount-Chief des Ewondo-Volkes gewidmet ist.",
       hu: "Egy szobor Yaoundé központjában, amelyet az Ewondo nép leghíresebb főkirályának szenteltek.",
@@ -541,8 +561,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Ahmadou-Ahidjo-Stadion",
       hu: "Ahmadou Ahidjo Stadion",
       ro: "Stadionul Ahmadou Ahidjo",
-      en: "Ahmadou Ahidjo Stadium"
-    },
+      en: "Ahmadou Ahidjo Stadium",
+image: "/poi-images/ahmadou-ahidjo-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das traditionelle Nationalstadion im Viertel Mfandena in Yaoundé ist seit Jahrzehnten das Zentrum des kamerunischen Fußballs.",
       hu: "A Yaoundé Mfandena negyedében található hagyományos nemzeti stadion évtizedek óta a kameruni futball központja.",
@@ -564,8 +585,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Kongresspalast von Yaoundé",
       hu: "Yaoundé Kongresszusi Palota",
       ro: "Palatul Congreselor din Yaoundé",
-      en: "Yaoundé Congress Palace"
-    },
+      en: "Yaoundé Congress Palace",
+image: "/poi-images/palais-des-congres-landmarks-v2.webp"
+},
     description: {
       de: "Auf dem Nkol-Nyada-Hügel thront dieses riesige Kongresszentrum, das ein Meisterwerk moderner Architektur mit afrikanischen Einflüssen ist.",
       hu: "A Nkol-Nyada dombon magasodó hatalmas kongresszusi központ a modern építészet és az afrikai hatások mesterműve.",
@@ -587,8 +609,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Blackitude-Museum",
       hu: "Blackitude Múzeum",
       ro: "Muzeul Blackitude",
-      en: "Blackitude Museum"
-    },
+      en: "Blackitude Museum",
+image: "/poi-images/blackitude-museum-landmarks-v2.webp"
+},
     description: {
       de: "Ein privates ethnografisches Museum in Yaoundé, das sich dem Erhalt der traditionellen afrikanischen Kunst und insbesondere des Bamileke-Erbes verschrieben hat.",
       hu: "Egy privát néprajzi múzeum Yaoundéban, amely a hagyományos afrikai művészet, különösen a Bamileke örökség megőrzésének szentelte magát.",
@@ -610,8 +633,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Kathedrale St. Joseph von Bafoussam",
       hu: "Szent József Katedrális (Bafoussam)",
       ro: "Catedrala Sf. Iosif din Bafoussam",
-      en: "St. Joseph Cathedral of Bafoussam"
-    },
+      en: "St. Joseph Cathedral of Bafoussam",
+image: "/poi-images/bafoussam-cathedral-landmarks-v2.webp"
+},
     description: {
       de: "Das wichtigste katholische Bauwerk in Bafoussam beeindruckt mit einer schlichten, aber imposanten Ziegelarchitektur und einem markanten Glockenturm.",
       hu: "Bafoussam legfontosabb katolikus építménye egyszerű, de lenyűgöző téglaépítészetével és egy markáns harangtoronnyal hódít.",
@@ -633,8 +657,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Zentralmoschee Douala",
       hu: "Doualai Központi Mecset",
       ro: "Marea Moschee din Douala",
-      en: "Central Mosque of Douala"
-    },
+      en: "Central Mosque of Douala",
+image: "/poi-images/douala-central-mosque-landmarks-v2.webp"
+},
     description: {
       de: "Ein prächtiges islamisches Gotteshaus im Herzen von Douala, das die wachsende und vielfältige muslimische Gemeinschaft der Hafenstadt repräsentiert.",
       hu: "Egy pompás iszlám imaház Douala szívében, amely a kikötőváros növekvő és sokszínű muszlim közösségét képviseli.",
@@ -656,8 +681,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Kouekong-Stadion Bafoussam",
       hu: "Kouekong Stadion (Bafoussam)",
       ro: "Stadionul Kouekong din Bafoussam",
-      en: "Kouekong Stadium Bafoussam"
-    },
+      en: "Kouekong Stadium Bafoussam",
+image: "/poi-images/kouekong-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Stadion, das anlässlich des Afrika-Cups erbaut wurde und in die hügelige Landschaft der Westregion eingebettet ist.",
       hu: "Egy modern stadion, amely az Afrika Kupa alkalmából épült, és a nyugati régió dombos vidékébe ékelődik.",
@@ -679,8 +705,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Sanaga-Brücke von Edéa",
       hu: "Edéa Sanaga hídja",
       ro: "Podul Sanaga din Edéa",
-      en: "Edéa Sanaga Bridge"
-    },
+      en: "Edéa Sanaga Bridge",
+image: "/poi-images/edea-sanaga-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Diese alte Eisenbahn- und Straßenbrücke überquert den längsten Fluss Kameruns in der Industriestadt Edéa.",
       hu: "Ez a régi vasúti és közúti híd Kamerun leghosszabb folyóját szeli át Edéa iparvárosában.",
@@ -702,8 +729,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Museum der Zivilisationen in Dschang",
       hu: "Civilizációk Múzeuma Dschangban",
       ro: "Muzeul Civilizațiilor din Dschang",
-      en: "Museum of Civilizations in Dschang"
-    },
+      en: "Museum of Civilizations in Dschang",
+image: "/poi-images/dschang-museum-landmarks-v2.webp"
+},
     description: {
       de: "Dieses moderne Museum direkt an einem malerischen See widmet sich der Geschichte und den Kulturen aller großen ethnischen Gruppen Kameruns.",
       hu: "Ez a modern, egy festői tó partján fekvő múzeum Kamerun minden jelentős etnikai csoportjának történelmének és kultúrájának van szentelve.",
@@ -725,8 +753,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Multisportkomplex von Yaoundé (Wando)",
       hu: "Yaoundé Multisport Komplexum",
       ro: "Complexul Multisport din Yaoundé",
-      en: "Yaoundé Multipurpose Sports Complex"
-    },
+      en: "Yaoundé Multipurpose Sports Complex",
+image: "/poi-images/palais-des-sports-wando-landmarks-v2.webp"
+},
     description: {
       de: "Eine moderne Indoor-Arena im Zentrum der Hauptstadt, die durch ihre geschwungene, raumschiffartige Architektur ins Auge fällt.",
       hu: "Egy modern beltéri aréna a főváros központjában, amely ívelt, űrhajószerű építészetével vonzza a tekintetet.",
@@ -748,8 +777,9 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Stadion der Wiedervereinigung",
       hu: "Az Újraegyesítés Stadionja",
       ro: "Stadionul Reunificării",
-      en: "Reunification Stadium"
-    },
+      en: "Reunification Stadium",
+image: "/poi-images/stade-reunification-douala-landmarks-v2.webp"
+},
     description: {
       de: "Dieses historische Stadion in Douala ist eine Bastion des lokalen Fußballs und wurde zu Ehren der Einheit des Landes erbaut.",
       hu: "Ez a történelmi stadion Doualában a helyi futball bástyája, és az ország egységének tiszteletére épült.",

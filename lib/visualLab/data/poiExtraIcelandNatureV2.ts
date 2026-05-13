@@ -4,7 +4,9 @@ export const icelandNatureV2: POI[] = [
   {
     id: "iceland-gullfoss-nature-v2",
     type: "landmark",
-    name: { de: "Gullfoss", hu: "Gullfoss", ro: "Gullfoss", en: "Gullfoss" },
+    name: { de: "Gullfoss", hu: "Gullfoss", ro: "Gullfoss", en: "Gullfoss",
+image: "/poi-images/iceland-gullfoss-nature-v2.webp"
+},
     coords: [-20.1199, 64.3271],
     coordinates: { lat: 64.3271, lng: -20.1199 },
     description: {
@@ -19,11 +21,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime totală de 32 de metri", "Două trepte de 11 și 21 de metri", "Debit mediu de 140 m³/s vara", "Parte a circuitului Cercul de Aur"],
       en: ["Total height of 32 meters", "Two stages of 11 and 21 meters", "Average flow rate of 140 m³/s in summer", "Part of the Golden Circle tourist route"],
     },
-    imageHint: "Gullfoss waterfall Iceland rainbow", image: "/poi-images/iceland-gullfoss-nature-v2.webp"},
-  {
+imageHint: "Gullfoss waterfall Iceland rainbow",
+    descriptionAdvanced: {
+      de: "Der Gullfoss ist ein markanter Wasserfall im Fluss Hvítá im Südwesten Islands. Er stürzt über zwei Kaskaden von 11 und 21 Metern Höhe in eine schmale, 70 Meter tiefe Schlucht.",
+      hu: "A Gullfoss Izland egyik legnépszerűbb vízesése a Hvítá folyón. Két lépcsőben, összesen 32 méter magasságból zúdul egy mély szurdokba, amely a kanyon falai között kanyarog.",
+      ro: "Gullfoss este o cascadă spectaculoasă situată pe râul Hvítá. Apa cade în două trepte de 11 și 21 de metri într-un canion îngust, oferind un peisaj vulcanic impresionant.",
+      en: "Gullfoss is a iconic waterfall located in the Hvítá river canyon. It features two distinct drops of 11 and 21 meters, plunging into a crevice that is 32 meters deep in total.",
+    },
+    factsAdvanced: {
+      de: ["Gesamthöhe von 32 Metern", "Mittlere Abflussmenge 140 m³/s", "Teil des Golden Circle", "Rettung durch Sigríður Tómasdóttir"],
+      hu: ["32 méteres teljes magasság", "Átlagos vízhozama 140 m³/s", "Az Arany Körút része", "Kétlépcsős zuhatagrendszer"],
+      ro: ["Înălțime totală de 32 metri", "Debit mediu de 140 m³/s", "Parte a traseului Cercul de Aur", "Două căderi distincte de apă"],
+      en: ["Total height of 32 meters", "Average flow rate of 140 m³/s", "Part of the Golden Circle route", "Two-tiered waterfall structure"],
+    },
+    image: "/poi-images/iceland-gullfoss-nature-v2.webp",
+},  {
     id: "iceland-skogafoss-nature-v2",
     type: "landmark",
-    name: { de: "Skógafoss", hu: "Skógafoss", ro: "Skógafoss", en: "Skógafoss" },
+    name: { de: "Skógafoss", hu: "Skógafoss", ro: "Skógafoss", en: "Skógafoss",
+image: "/poi-images/iceland-skogafoss-nature-v2.webp"
+},
     coords: [-19.5112, 63.5321],
     coordinates: { lat: 63.5321, lng: -19.5112 },
     description: {
@@ -38,11 +55,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Cădere de apă de fix 60 de metri", "Lățime de 25 de metri", "Produce frecvent curcubee duble", "Punct de plecare pentru traseul Fimmvörðuháls"],
       en: ["Drop height of exactly 60 meters", "Width of 25 meters", "Often produces double rainbows", "Starting point for the Fimmvörðuháls trail"],
     },
-    imageHint: "Skogafoss waterfall South Iceland", image: "/poi-images/iceland-skogafoss-nature-v2.webp"},
-  {
+imageHint: "Skogafoss waterfall South Iceland",
+    descriptionAdvanced: {
+      de: "Der Skógafoss liegt am Fluss Skógá und markiert die ehemalige Küstenlinie Islands. Mit einer Breite von 25 Metern stürzt er 60 Meter in die Tiefe und erzeugt oft Regenbögen.",
+      hu: "A Skógafoss a Skógá folyó egyik leglátványosabb zuhataga. A 25 méter széles víztömeg 60 métert zuhan a mélybe, a felszálló permetben pedig gyakran kettős szivárvány látható.",
+      ro: "Skógafoss este una dintre cele mai mari cascade din Islanda, având o lățime de 25 de metri. Apa cade de la 60 de metri înălțime peste o fostă faleză marină abruptă.",
+      en: "Skógafoss is a massive waterfall on the Skógá River with a width of 25 meters. It falls 60 meters from former sea cliffs, creating a persistent mist and frequent rainbows.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe von 60 Metern", "Breite von ca. 25 Metern", "Startpunkt des Fimmvörðuháls", "Legende um einen Wikingerschatz"],
+      hu: ["60 méteres esési magasság", "25 méter széles zuhatag", "A Fimmvörðuháls túra kezdőpontja", "Gyakori kettős szivárványok"],
+      ro: ["Înălțime de cădere de 60 metri", "Lățime de aproximativ 25 metri", "Situată pe fosta linie a coastei", "Punct de acces pentru Fimmvörðuháls"],
+      en: ["Drop height of 60 meters", "Width of 25 meters", "Starting point of Fimmvörðuháls trail", "Legendary hidden Viking treasure"],
+    },
+    image: "/poi-images/iceland-skogafoss-nature-v2.webp",
+},  {
     id: "iceland-seljalandsfoss-nature-v2",
     type: "landmark",
-    name: { de: "Seljalandsfoss", hu: "Seljalandsfoss", ro: "Seljalandsfoss", en: "Seljalandsfoss" },
+    name: { de: "Seljalandsfoss", hu: "Seljalandsfoss", ro: "Seljalandsfoss", en: "Seljalandsfoss",
+image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp"
+},
     coords: [-19.9886, 63.6156],
     coordinates: { lat: 63.6156, lng: -19.9886 },
     description: {
@@ -57,11 +89,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 60 de metri", "Face parte din râul Seljalandsá", "Accesibil în spatele perdelei de apă", "Iluminat pe timp de noapte"],
       en: ["Height of 60 meters", "Part of the Seljalandsá river", "Path behind the waterfall is accessible", "Illuminated by floodlights at night"],
     },
-    imageHint: "Seljalandsfoss waterfall from behind", image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp"},
-  {
+imageHint: "Seljalandsfoss waterfall from behind",
+    descriptionAdvanced: {
+      de: "Dieser 60 Meter hohe Wasserfall ist für den Pfad bekannt, der direkt hinter den Wasserschleier führt. Er ist Teil des Seljalandsá-Flusses und bietet eine einzigartige Perspektive.",
+      hu: "A Seljalandsfoss 60 méter magas vízesése arról nevezetes, hogy a sziklafal ürege révén a látogatók besétálhatnak a vízsugár mögé, különleges kilátást élvezve a partvidékre.",
+      ro: "Seljalandsfoss este o cascadă de 60 de metri înălțime, faimoasă pentru poteca ce permite accesul în spatele căderii de apă, oferind o panoramă unică asupra câmpiei sudice.",
+      en: "Seljalandsfoss is a 60-meter high waterfall famous for the cavern behind it. Visitors can walk behind the cascading water of the Seljalandsá river for a panoramic view.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe exakt 60 Meter", "Begehbarer Pfad hinter dem Wasser", "Nahe der Ringstraße gelegen", "Ursprung im Eyjafjallajökull"],
+      hu: ["60 méteres zuhanási magasság", "Körbejárható vízsugár", "Az Eyjafjallajökull gleccser táplálja", "Közvetlen közel a gyűrűs úthoz"],
+      ro: ["Înălțime de 60 de metri", "Accesibil pe jos în spatele apei", "Alimentată de ghețarul Eyjafjallajökull", "Luminată pe timp de noapte"],
+      en: ["Precise height of 60 meters", "Walking path behind the fall", "Fed by Eyjafjallajökull glacier", "Located near the Ring Road"],
+    },
+    image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp",
+},  {
     id: "iceland-dettifoss-nature-v2",
     type: "landmark",
-    name: { de: "Dettifoss", hu: "Dettifoss", ro: "Dettifoss", en: "Dettifoss" },
+    name: { de: "Dettifoss", hu: "Dettifoss", ro: "Dettifoss", en: "Dettifoss",
+image: "/poi-images/iceland-dettifoss-nature-v2.webp"
+},
     coords: [-16.3846, 65.8147],
     coordinates: { lat: 65.8147, lng: -16.3846 },
     description: {
@@ -76,11 +123,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Lățime de 100 de metri", "Înălțime de 44 de metri", "Debit de până la 500 m³/s", "Alimentată de râul glaciar Jökulsá á Fjöllum"],
       en: ["Width of 100 meters", "Height of 44 meters", "Water flow up to 500 m³/s", "Fed by the glacial river Jökulsá á Fjöllum"],
     },
-    imageHint: "Dettifoss waterfall North Iceland powerful", image: "/poi-images/iceland-dettifoss-nature-v2.webp"},
-  {
+imageHint: "Dettifoss waterfall North Iceland powerful",
+    descriptionAdvanced: {
+      de: "Im Vatnajökull-Nationalpark gelegen, gilt der Dettifoss als mächtigster Wasserfall Europas. Auf 100 Metern Breite stürzen gewaltige Sedimentmassen in die Jökulsárgljúfur-Schlucht.",
+      hu: "A Dettifoss Európa legnagyobb vízhozamú vízesése a Jökulsá á Fjöllum folyón. A 100 méter széles zuhatag szürke, üledékes vize 44 méteres mélységbe zúdul a kanyonban.",
+      ro: "Dettifoss este considerată cea mai puternică cascadă din Europa după volumul de apă. Are o lățime de 100 de metri și o cădere de 44 de metri în canionul Jökulsárgljúfur.",
+      en: "Situated in Vatnajökull National Park, Dettifoss is Europe's most powerful waterfall. It spans 100 meters in width and drops 44 meters into the Jökulsárgljúfur canyon.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe von 44 Metern", "Breite von 100 Metern", "Durchfluss bis zu 500 m³/s", "Teil des Diamond Circle"],
+      hu: ["44 méteres esési magasság", "100 méter széles sziklaperem", "Akár 500 m³/s vízhozam", "A Gyémánt Körút állomása"],
+      ro: ["Cădere de apă de 44 metri", "Lățime de 100 de metri", "Debit maxim de 500 m³/s", "Parte a Cercului de Diamant"],
+      en: ["Drop height of 44 meters", "Width of 100 meters", "Flow rate up to 500 m³/s", "Feature of the Diamond Circle"],
+    },
+    image: "/poi-images/iceland-dettifoss-nature-v2.webp",
+},  {
     id: "iceland-godafoss-nature-v2",
     type: "landmark",
-    name: { de: "Goðafoss", hu: "Goðafoss", ro: "Goðafoss", en: "Goðafoss" },
+    name: { de: "Goðafoss", hu: "Goðafoss", ro: "Goðafoss", en: "Goðafoss",
+image: "/poi-images/iceland-godafoss-nature-v2.webp"
+},
     coords: [-17.5502, 65.6828],
     coordinates: { lat: 65.6828, lng: -17.5502 },
     description: {
@@ -95,11 +157,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Lățime de 30 de metri", "Înălțime de 12 metri", "Locul unde au fost aruncate statuile zeilor păgâni în anul 1000", "Face parte din râul Skjálfandafljót"],
       en: ["Width of 30 meters", "Height of 12 meters", "Site where pagan idols were cast around 1000 AD", "Part of the Skjálfandafljót river"],
     },
-    imageHint: "Godafoss waterfall Iceland horseshoe shape", image: "/poi-images/iceland-godafoss-nature-v2.webp"},
-  {
+imageHint: "Godafoss waterfall Iceland horseshoe shape",
+    descriptionAdvanced: {
+      de: "Der Wasserfall der Götter hat eine markante Hufeisenform. Laut Saga warf der Gesetzessprecher Þorgeir hier im Jahr 1000 n. Chr. seine heidnischen Götterstatuen in die Fluten.",
+      hu: "A 'Istenek vízesése' egy patkó alakú zuhatag a Skjálfandafljót folyón. Nevét onnan kapta, hogy a legenda szerint ide dobták a pogány istenek szobrait a kereszténység felvételekor.",
+      ro: "Goðafoss, sau 'Cascada Zeilor', are o formă de semilună și o lățime de 30 de metri. Este legată istoric de trecerea Islandei la creștinism în jurul anului 1000 d.Hr.",
+      en: "Goðafoss, the 'Waterfall of the Gods', is a horseshoe-shaped fall on the Skjálfandafljót river. Historically, pagan idols were reportedly thrown here during the conversion to Christianity.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 12 Metern", "Breite von 30 Metern", "Ort der Christianisierung im Jahr 1000", "Lage an der Ringstraße"],
+      hu: ["12 méteres magasság", "30 méteres szélesség", "Történelmi helyszín (1000 körül)", "Észak-Izland legszebb vízesése"],
+      ro: ["Înălțime de 12 metri", "Lățime de 30 metri", "Eveniment istoric în anul 1000", "Situată pe râul Skjálfandafljót"],
+      en: ["Height of 12 meters", "Width of 30 meters", "Site of religious shift in 1000 AD", "Located on Skjálfandafljót river"],
+    },
+    image: "/poi-images/iceland-godafoss-nature-v2.webp",
+},  {
     id: "iceland-kirkjufell-nature-v2",
     type: "mountain",
-    name: { de: "Kirkjufell", hu: "Kirkjufell", ro: "Kirkjufell", en: "Kirkjufell" },
+    name: { de: "Kirkjufell", hu: "Kirkjufell", ro: "Kirkjufell", en: "Kirkjufell",
+image: "/poi-images/iceland-kirkjufell-nature-v2.webp"
+},
     coords: [-23.3114, 64.9417],
     coordinates: { lat: 64.9417, lng: -23.3114 },
     description: {
@@ -114,11 +191,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 463 de metri", "Cel mai fotografiat munte din Islanda", "Compus din straturi vulcanice și sedimentare", "Locație de filmare pentru Urzeala Tronurilor"],
       en: ["Elevation of 463 meters", "Most photographed mountain in Iceland", "Composed of volcanic and sedimentary layers", "Filming location for Game of Thrones"],
     },
-    imageHint: "Kirkjufell mountain Snaefellsnes peninsula", image: "/poi-images/iceland-kirkjufell-nature-v2.webp"},
-  {
+imageHint: "Kirkjufell mountain Snaefellsnes peninsula",
+    descriptionAdvanced: {
+      de: "Der 463 Meter hohe Kirkjufell ist der meistfotografierte Berg Islands. Seine markante, spitze Form auf der Halbinsel Snæfellsnes erinnert an eine Kirche oder einen Hut.",
+      hu: "A 463 méter magas Kirkjufell ('Templom-hegy') a Snæfellsnes-félsziget jelképe. Különleges, rétegzett vulkáni kőzete és piramisra emlékeztető alakja miatt világszerte ismert.",
+      ro: "Kirkjufell este un munte de 463 de metri situat în peninsula Snæfellsnes. Forma sa distinctivă de piramidă l-a transformat în cel mai fotografiat munte din întreaga Islandă.",
+      en: "Kirkjufell is a 463-meter high mountain on the Snæfellsnes Peninsula. Its unique conical shape, composed of volcanic layers, makes it the most photographed peak in the country.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 463 Meter", "Besteht aus vulkanischen Schichten", "Drehort für Game of Thrones", "Lage bei Grundarfjörður"],
+      hu: ["463 méteres tengerszint feletti magasság", "Vulkáni rétegekből épül fel", "A Trónok harca forgatási helyszíne", "Grundarfjörður mellett található"],
+      ro: ["Altitudine de 463 metri", "Compus din roci vulcanice stratificate", "Locație de filmare 'Game of Thrones'", "Lângă orașul Grundarfjörður"],
+      en: ["Elevation of 463 meters", "Stratified volcanic rock layers", "Featured in Game of Thrones", "Near the town of Grundarfjörður"],
+    },
+    image: "/poi-images/iceland-kirkjufell-nature-v2.webp",
+},  {
     id: "iceland-hekla-nature-v2",
     type: "peak",
-    name: { de: "Hekla", hu: "Hekla", ro: "Hekla", en: "Hekla" },
+    name: { de: "Hekla", hu: "Hekla", ro: "Hekla", en: "Hekla",
+image: "/poi-images/iceland-hekla-nature-v2.webp"
+},
     coords: [-19.6658, 63.9923],
     coordinates: { lat: 63.9923, lng: -19.6658 },
     description: {
@@ -133,11 +225,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Altitudine de 1.491 de metri", "Peste 20 de erupții din anul 874", "Parte a unui sistem vulcanic lung de 40 km", "Ultima erupție a avut loc în anul 2000"],
       en: ["Elevation of 1,491 meters", "Over 20 eruptions recorded since 874 AD", "Part of a 40 km long volcanic ridge", "Last eruption occurred in the year 2000"],
     },
-    imageHint: "Hekla volcano Iceland snowy peak", image: "/poi-images/iceland-hekla-nature-v2.webp"},
-  {
+imageHint: "Hekla volcano Iceland snowy peak",
+    descriptionAdvanced: {
+      de: "Die Hekla ist einer der aktivsten Vulkane Islands und wurde im Mittelalter als Tor zur Hölle bezeichnet. Sie ist ein 1491 Meter hoher Stratovulkan im Süden der Insel.",
+      hu: "A Hekla Izland egyik legaktívabb rétegvulkánja, amelyet a középkorban a 'pokol kapujának' hittek. A 1491 méter magas hegy gyakori és heves kitöréseiről ismert.",
+      ro: "Hekla este unul dintre cei mai activi vulcani din Islanda, atingând 1491 metri. În Evul Mediu, era considerată poarta către iad din cauza erupțiilor sale frecvente.",
+      en: "Hekla is one of Iceland's most active stratovolcanoes, reaching a height of 1,491 meters. Known as the 'Gateway to Hell' in medieval times, it has erupted over 20 times.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1491 Metern", "Über 20 Eruptionen seit 874", "Letzter Ausbruch im Jahr 2000", "Länge des Vulkarrückens 40 km"],
+      hu: ["1491 méteres tengerszint feletti magasság", "Több mint 20 kitörés a honfoglalás óta", "Utolsó kitörés éve: 2000", "40 kilométer hosszú vulkáni gerinc"],
+      ro: ["Altitudine de 1491 metri", "Peste 20 de erupții din anul 874", "Cea mai recentă erupție în 2000", "Creastă vulcanică de 40 km"],
+      en: ["Peak height 1,491 meters", "Over 20 eruptions since 874 AD", "Last major eruption in 2000", "Volcanic ridge spans 40 km"],
+    },
+    image: "/poi-images/iceland-hekla-nature-v2.webp",
+},  {
     id: "iceland-katla-nature-v2",
     type: "peak",
-    name: { de: "Katla", hu: "Katla", ro: "Katla", en: "Katla" },
+    name: { de: "Katla", hu: "Katla", ro: "Katla", en: "Katla",
+image: "/poi-images/iceland-katla-nature-v2.webp"
+},
     coords: [-19.1303, 63.6467],
     coordinates: { lat: 63.6467, lng: -19.1303 },
     description: {
@@ -152,11 +259,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Caldera are un diametru de 10 km", "Situat sub 200-700 metri de gheață", "Erupțiile cauzează inundații glaciare masive", "Ultima erupție majoră a fost în 1918"],
       en: ["Caldera diameter of 10 km", "Located under 200 to 700 meters of ice", "Eruptions trigger catastrophic glacial floods", "Last major eruption occurred in 1918"],
     },
-    imageHint: "Katla volcano Myrdalsjokull glacier", image: "/poi-images/iceland-katla-nature-v2.webp"},
-  {
+imageHint: "Katla volcano Myrdalsjokull glacier",
+    descriptionAdvanced: {
+      de: "Katla ist ein mächtiger Subglazialvulkan unter dem Mýrdalsjökull-Gletscher. Ihre gewaltigen Ausbrüche lösen verheerende Gletscherläufe aus, die ganze Landstriche überfluten können.",
+      hu: "A Katla egy hatalmas szubglaciális vulkán a Mýrdalsjökull gleccser alatt. Kitörései katasztrofális jökulhlaupokat (gleccseráradásokat) okoznak a déli partvidéken.",
+      ro: "Katla este un vulcan subglacial masiv situat sub ghețarul Mýrdalsjökull. Erupțiile sale provoacă inundații glaciare devastatoare cunoscute sub numele de jökulhlaup.",
+      en: "Katla is a powerful subglacial volcano hidden beneath the Mýrdalsjökull ice cap. Its eruptions cause massive glacial floods, or jökulhlaups, impacting the southern coast.",
+    },
+    factsAdvanced: {
+      de: ["Kraterdurchmesser von 10 km", "Lage unter dem Mýrdalsjökull", "Ausbrüche alle 40 bis 80 Jahre", "Gefahr durch Jökulhlaups"],
+      hu: ["10 kilométeres kaldera átmérő", "A Mýrdalsjökull jégmező alatt fekszik", "Átlagosan 40-80 évente tör ki", "Veszélyes gleccseráradások forrása"],
+      ro: ["Calderă cu diametru de 10 km", "Situat sub gheața Mýrdalsjökull", "Erupții la fiecare 40-80 de ani", "Risc major de inundații glaciare"],
+      en: ["Caldera diameter of 10 km", "Located under Mýrdalsjökull glacier", "Eruptions every 40-80 years", "Source of dangerous jökulhlaups"],
+    },
+    image: "/poi-images/iceland-katla-nature-v2.webp",
+},  {
     id: "iceland-snaefellsjokull-nature-v2",
     type: "peak",
-    name: { de: "Snæfellsjökull", hu: "Snæfellsjökull", ro: "Snæfellsjökull", en: "Snæfellsjökull" },
+    name: { de: "Snæfellsjökull", hu: "Snæfellsjökull", ro: "Snæfellsjökull", en: "Snæfellsjökull",
+image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp"
+},
     coords: [-23.7731, 64.8078],
     coordinates: { lat: 64.8078, lng: -23.7731 },
     description: {
@@ -171,11 +293,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Altitudine de 1.446 de metri", "Decorul cărții 'Călătorie spre centrul Pământului'", "Ultima erupție a avut loc acum aproximativ 1.800 ani", "Piesă centrală a unui parc național"],
       en: ["Elevation of 1,446 meters", "Setting for 'Journey to the Center of the Earth'", "Last eruption occurred about 1,800 years ago", "Centerpiece of a National Park"],
     },
-    imageHint: "Snaefellsjokull glacier volcano Iceland", image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp"},
-  {
+imageHint: "Snaefellsjokull glacier volcano Iceland",
+    descriptionAdvanced: {
+      de: "Der Snæfellsjökull ist ein gletscherbedeckter Stratovulkan, der Weltruhm durch Jules Vernes Roman 'Reise zum Mittelpunkt der Erde' erlangte. Er krönt die Spitze der Halbinsel.",
+      hu: "A Snæfellsjökull egy gleccserrel borított rétegvulkán a Snæfellsnes-félsziget végén. Jules Verne regénye tette híressé, mint a Föld középpontja felé vezető út bejáratát.",
+      ro: "Snæfellsjökull este un stratovulcan acoperit de un ghețar, celebru pentru rolul său în romanul lui Jules Verne. Este considerat unul dintre punctele energetice ale Terrei.",
+      en: "Snæfellsjökull is a glacier-capped stratovolcano famous for Jules Verne's 'Journey to the Center of the Earth'. It dominates the tip of the Snæfellsnes Peninsula.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe 1446 Meter", "Alter ca. 700.000 Jahre", "Nationalpark seit 2001", "Letzter Ausbruch ca. 200 n. Chr."],
+      hu: ["1446 méteres csúcsmagasság", "Kb. 700 000 éves vulkáni kúp", "Nemzeti park alapítva 2001-ben", "Utolsó kitörés: i.sz. 200 körül"],
+      ro: ["Altitudine de 1446 metri", "Vârstă de aproximativ 700.000 ani", "Parc Național înființat în 2001", "Ultima erupție în jurul anului 200 d.Hr."],
+      en: ["Peak elevation 1,446 meters", "Age approximately 700,000 years", "National Park status since 2001", "Last eruption around 200 AD"],
+    },
+    image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp",
+},  {
     id: "iceland-myvatn-nature-v2",
     type: "lake",
-    name: { de: "Mývatn", hu: "Mývatn", ro: "Mývatn", en: "Mývatn" },
+    name: { de: "Mývatn", hu: "Mývatn", ro: "Mývatn", en: "Mývatn",
+image: "/poi-images/iceland-myvatn-nature-v2.webp"
+},
     coords: [-17.0003, 65.6039],
     coordinates: { lat: 65.6039, lng: -17.0003 },
     description: {
@@ -190,11 +327,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 37 km²", "Cunoscut pentru pseudocraterere și formațiunile de lavă", "Loc important de cuibărit pentru rațe", "Numele se traduce prin 'Lacul Musculițelor'"],
       en: ["Surface area of about 37 km²", "Known for pseudocraters and lava formations", "Major breeding ground for various duck species", "Name translates to 'Midge Lake'"],
     },
-    imageHint: "Lake Myvatn Iceland volcanic landscape", image: "/poi-images/iceland-myvatn-nature-v2.webp"},
-  {
+imageHint: "Lake Myvatn Iceland volcanic landscape",
+    descriptionAdvanced: {
+      de: "Der Mývatn ist ein flacher See in einem Gebiet mit hoher vulkanischer Aktivität. Er ist berühmt für seine bizarren Lavaformationen, Pseudokrater und die reiche Vogelwelt.",
+      hu: "A Mývatn egy sekély tó Észak-Izlandon, rendkívül aktív vulkáni övezetben. Különleges lávaalakzatairól, álkrātereiről és gazdag madárvilágáról nevezetes tájegység.",
+      ro: "Mývatn este un lac puțin adânc situat într-o zonă vulcanică activă. Este faimos pentru formațiunile bizare de lavă, pseudocraterul Skútustaðagígar și biodiversitate.",
+      en: "Mývatn is a shallow lake located in an area of active volcanism. It is renowned for its unique lava formations, pseudocraters, and diverse bird populations.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 37 km²", "Viertgrößter See Islands", "Mittlere Tiefe nur 2,5 Meter", "Zentrum der Krafla-Vulkansysteme"],
+      hu: ["37 km²-es felszíni terület", "Izland negyedik legnagyobb tava", "Átlagos mélysége mindössze 2,5 méter", "A Krafla vulkáni rendszer része"],
+      ro: ["Suprafață de aproximativ 37 km²", "Al patrulea lac ca mărime din țară", "Adâncime medie de 2,5 metri", "Format în urma unei erupții masive"],
+      en: ["Surface area of 37 km²", "Iceland's 4th largest lake", "Average depth only 2.5 meters", "Created by a large basaltic eruption"],
+    },
+    image: "/poi-images/iceland-myvatn-nature-v2.webp",
+},  {
     id: "iceland-thingvallavatn-nature-v2",
     type: "lake",
-    name: { de: "Þingvallavatn", hu: "Þingvallavatn", ro: "Þingvallavatn", en: "Þingvallavatn" },
+    name: { de: "Þingvallavatn", hu: "Þingvallavatn", ro: "Þingvallavatn", en: "Þingvallavatn",
+image: "/poi-images/iceland-thingvallavatn-nature-v2.webp"
+},
     coords: [-21.1278, 64.1855],
     coordinates: { lat: 64.1855, lng: -21.1278 },
     description: {
@@ -209,11 +361,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de 84 km²", "Adâncime maximă de 114 metri", "Găzduiește patru varietăți de păstrăv arctic", "Parte a Parcului Național Þingvellir"],
       en: ["Surface area of 84 km²", "Maximum depth of 114 meters", "Home to four distinct varieties of Arctic char", "Part of the Þingvellir National Park"],
     },
-    imageHint: "Thingvallavatn lake Iceland aerial view", image: "/poi-images/iceland-thingvallavatn-nature-v2.webp"},
-  {
+imageHint: "Thingvallavatn lake Iceland aerial view",
+    descriptionAdvanced: {
+      de: "Der Þingvallavatn ist der größte natürliche See Islands und liegt im Þingvellir-Nationalpark. Er füllt den Grabenbruch zwischen der eurasischen und nordamerikanischen Platte.",
+      hu: "A Þingvallavatn Izland legnagyobb természetes tava, amely a tektonikus lemezek közötti árokban fekszik. Kristálytiszta vize és geológiai jelentősége miatt védett terület.",
+      ro: "Þingvallavatn este cel mai mare lac natural din Islanda, situat într-o vale de rift tectonic. Apa sa extrem de limpede provine din izvoare subterane glaciare.",
+      en: "Þingvallavatn is the largest natural lake in Iceland, situated in a rift valley. It marks the boundary between the North American and Eurasian tectonic plates.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 84 km²", "Maximale Tiefe von 114 Metern", "Größter natürlicher See des Landes", "Teil des UNESCO-Welterbes"],
+      hu: ["84 km²-es vízfelület", "Maximális mélysége 114 méter", "Izland legnagyobb édesvízi tava", "Az UNESCO Világörökség része"],
+      ro: ["Suprafață de 84 km²", "Adâncime maximă de 114 metri", "Cel mai mare lac natural din țară", "Inclus în patrimoniul UNESCO"],
+      en: ["Surface area of 84 km²", "Maximum depth of 114 meters", "Largest natural lake in Iceland", "Part of UNESCO World Heritage"],
+    },
+    image: "/poi-images/iceland-thingvallavatn-nature-v2.webp",
+},  {
     id: "iceland-jokulsarlon-nature-v2",
     type: "lake",
-    name: { de: "Jökulsárlón", hu: "Jökulsárlón", ro: "Jökulsárlón", en: "Jökulsárlón" },
+    name: { de: "Jökulsárlón", hu: "Jökulsárlón", ro: "Jökulsárlón", en: "Jökulsárlón",
+image: "/poi-images/iceland-jokulsarlon-nature-v2.webp"
+},
     coords: [-16.1794, 64.0484],
     coordinates: { lat: 64.0484, lng: -16.1794 },
     description: {
@@ -228,11 +395,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Cel mai adânc lac din Islanda (cca. 248 m)", "S-a format începând cu 1934 prin retragerea ghețarului", "Faimos pentru 'Plaja de Diamant' din apropiere", "Locație frecventă pentru filme de la Hollywood"],
       en: ["Deepest lake in Iceland (approx. 248 m)", "Started forming around 1934 as the glacier retreated", "Famous for the adjacent 'Diamond Beach'", "Popular filming location for Hollywood movies"],
     },
-    imageHint: "Jokulsarlon glacier lagoon icebergs", image: "/poi-images/iceland-jokulsarlon-nature-v2.webp"},
-  {
+imageHint: "Jokulsarlon glacier lagoon icebergs",
+    descriptionAdvanced: {
+      de: "Jökulsárlón ist eine Gletscherlagune am Rande des Vatnajökull. Blaue Eisberge brechen vom Breiðamerkurjökull ab und treiben durch die Lagune in den Atlantischen Ozean.",
+      hu: "A Jökulsárlón egy gleccserlagúta a Vatnajökull peremén. A Breiðamerkurjökullról leváló jéghegyek itt úsznak a tenger felé, különleges kék árnyalatokban tündökölve.",
+      ro: "Jökulsárlón este o lagună glaciară spectaculoasă la marginea ghețarului Vatnajökull. Aisberguri desprinse plutesc spre ocean, creând un peisaj arctic de neuitat.",
+      en: "Jökulsárlón is a large glacial lagoon bordering Vatnajökull National Park. Blue icebergs calve from the Breiðamerkurjökull glacier and float out toward the Atlantic Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe von bis zu 248 Metern", "Tiefster See Islands", "Fläche von etwa 18 km²", "Eisberge sind über 1000 Jahre alt"],
+      hu: ["Akár 248 méteres mélység", "Izland legmélyebb tava", "Területe kb. 18 km²", "1000 évesnél idősebb jégtömbök"],
+      ro: ["Adâncime de până la 248 metri", "Cel mai adânc lac din Islanda", "Suprafață de aproximativ 18 km²", "Gheață veche de peste 1000 de ani"],
+      en: ["Depth up to 248 meters", "Deepest lake in Iceland", "Area of approximately 18 km²", "Ice is over 1,000 years old"],
+    },
+    image: "/poi-images/iceland-jokulsarlon-nature-v2.webp",
+},  {
     id: "iceland-reynisfjara-nature-v2",
     type: "landmark",
-    name: { de: "Reynisfjara", hu: "Reynisfjara", ro: "Reynisfjara", en: "Reynisfjara" },
+    name: { de: "Reynisfjara", hu: "Reynisfjara", ro: "Reynisfjara", en: "Reynisfjara",
+image: "/poi-images/iceland-reynisfjara-nature-v2.webp"
+},
     coords: [-19.0447, 63.4028],
     coordinates: { lat: 63.4028, lng: -19.0447 },
     description: {
@@ -247,11 +429,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Compusă din nisip negru vulcanic", "Coloane de bazalt spectaculoase la muntele Reynisfjall", "Periculoasă din cauza valurilor 'sneaker' bruște", "Aleasă în 1991 printre cele mai frumoase 10 plaje"],
       en: ["Composed of volcanic black sand", "Distinctive basalt columns at Mount Reynisfjall", "Dangerous due to powerful 'sneaker waves'", "Voted one of the 10 most beautiful beaches in 1991"],
     },
-    imageHint: "Reynisfjara black sand beach basalt columns", image: "/poi-images/iceland-reynisfjara-nature-v2.webp"},
-  {
+imageHint: "Reynisfjara black sand beach basalt columns",
+    descriptionAdvanced: {
+      de: "Reynisfjara ist ein weltberühmter schwarzer Lavastrand bei Vík. Er besticht durch seine markanten Basaltsäulen (Garðar) und die spitzen Reynisdrangar-Felsnadeln im Meer.",
+      hu: "A Reynisfjara a világ egyik legszebb fekete homokos tengerpartja Vík mellett. Jellegzetes bazaltoszlopai, barlangjai és a tengerből kiemelkedő sziklatűi egyedülállóak.",
+      ro: "Reynisfjara este o plajă faimoasă cu nisip negru vulcanic lângă Vík. Este cunoscută pentru coloanele de bazalt Garðar și stâncile ascuțite Reynisdrangar din larg.",
+      en: "Reynisfjara is a world-renowned black sand beach near Vík. It features stunning basalt columns called Garðar and the jagged Reynisdrangar sea stacks in the ocean.",
+    },
+    factsAdvanced: {
+      de: ["Schwarzer Vulkansand", "Garðar-Basaltsäulen", "Gefährliche Sneaker-Waves", "Nistplatz für Papageitaucher"],
+      hu: ["Fekete vulkáni homok", "Garðar bazaltoszlopok", "Veszélyes 'alattomos' hullámok", "Lunda fészkelőhely a sziklákon"],
+      ro: ["Nisip negru de origine vulcanică", "Coloane de bazalt hexagonale", "Valuri tip 'sneaker' periculoase", "Habitat pentru pufini (papagali de mare)"],
+      en: ["Black volcanic sand", "Hexagonal basalt columns", "Dangerous sneaker waves", "Nesting site for puffins"],
+    },
+    image: "/poi-images/iceland-reynisfjara-nature-v2.webp",
+},  {
     id: "iceland-dyrholaey-nature-v2",
     type: "landmark",
-    name: { de: "Dyrhólaey", hu: "Dyrhólaey", ro: "Dyrhólaey", en: "Dyrhólaey" },
+    name: { de: "Dyrhólaey", hu: "Dyrhólaey", ro: "Dyrhólaey", en: "Dyrhólaey",
+image: "/poi-images/iceland-dyrholaey-nature-v2.webp"
+},
     coords: [-19.1269, 63.3996],
     coordinates: { lat: 63.3996, lng: -19.1269 },
     description: {
@@ -266,11 +463,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Numele se traduce prin 'insula dealului cu ușă'", "Loc important de cuibărit pentru pufini", "Fostă insulă vulcanică transformată în promontoriu", "Găzduiește un far construit în 1927"],
       en: ["Name translates to 'door-hill-island'", "Major nesting ground for puffins", "Former volcanic island now connected to the coast", "Home to a lighthouse built in 1927"],
     },
-    imageHint: "Dyrholaey rock arch puffins Iceland", image: "/poi-images/iceland-dyrholaey-nature-v2.webp"},
-  {
+imageHint: "Dyrholaey rock arch puffins Iceland",
+    descriptionAdvanced: {
+      de: "Dyrhólaey ist eine 120 Meter hohe Halbinsel vulkanischen Ursprungs. Ihr Name bedeutet 'Türloch-Insel' und bezieht sich auf den gewaltigen Felsbogen, der ins Meer ragt.",
+      hu: "A Dyrhólaey egy 120 méter magas vulkáni félsziget Izland déli partján. Neve 'ajtónyílást' jelent, utalva a tenger felett átívelő hatalmas, természetes kőkapura.",
+      ro: "Dyrhólaey este un promontoriu vulcanic de 120 de metri înălțime. Numele său înseamnă 'insula cu gaură în ușă', datorită arcului masiv de piatră format prin eroziune.",
+      en: "Dyrhólaey is a 120-meter high volcanic promontory on Iceland's south coast. Its name means 'door hole island', referring to the massive natural arch carved by the sea.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 120 Metern", "Ehemalige Insel vulkanischen Ursprungs", "Leuchtturm aus dem Jahr 1927", "Natürlicher Felsbogen"],
+      hu: ["120 méteres sziklafalak", "Egykori vulkáni sziget", "Világítótorony 1927-ből", "Hatalmas természetes kőív"],
+      ro: ["Înălțime de 120 metri", "Fostă insulă de origine vulcanică", "Far construit în anul 1927", "Arc natural de piatră masiv"],
+      en: ["Height of 120 meters", "Former volcanic island", "Lighthouse built in 1927", "Massive natural rock arch"],
+    },
+    image: "/poi-images/iceland-dyrholaey-nature-v2.webp",
+},  {
     id: "iceland-landmannalaugar-nature-v2",
     type: "valley",
-    name: { de: "Landmannalaugar", hu: "Landmannalaugar", ro: "Landmannalaugar", en: "Landmannalaugar" },
+    name: { de: "Landmannalaugar", hu: "Landmannalaugar", ro: "Landmannalaugar", en: "Landmannalaugar",
+image: "/poi-images/iceland-landmannalaugar-nature-v2.webp"
+},
     coords: [-19.067, 63.983],
     coordinates: { lat: 63.983, lng: -19.067 },
     description: {
@@ -285,11 +497,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Faimoasă pentru izvoarele termale naturale", "Roca de riolit creează nuanțe de galben, roz și albastru", "Punctul de pornire al traseului Laugavegur", "Accesibilă doar vara prin drumuri montane"],
       en: ["Famous for natural hot springs", "Rhyolite rock creates yellow, pink, and blue hues", "Starting point of the Laugavegur trekking trail", "Accessible only in summer via F-roads"],
     },
-    imageHint: "Landmannalaugar colorful rhyolite mountains", image: "/poi-images/iceland-landmannalaugar-nature-v2.webp"},
-  {
+imageHint: "Landmannalaugar colorful rhyolite mountains",
+    descriptionAdvanced: {
+      de: "Landmannalaugar im Hochland ist bekannt für seine farbenprächtigen Rhyolithberge und natürlichen heißen Quellen. Es ist das Tor zum berühmten Laugavegur-Wanderweg.",
+      hu: "A Landmannalaugar a felföld színes riolit-hegyeiről és természetes melegvizes forrásairól híres. A vidék a népszerű Laugavegur túraútvonal északi kiindulópontja.",
+      ro: "Landmannalaugar este o zonă din podișul central renumită pentru munții de riolit multicolori. Găzduiește izvoare termale naturale și traseul montan Laugavegur.",
+      en: "Landmannalaugar is a highland area famous for its colorful rhyolite mountains and natural hot springs. It serves as the starting point for the iconic Laugavegur trail.",
+    },
+    factsAdvanced: {
+      de: ["Bunte Rhyolith-Berge", "Natürliche heiße Quellen zum Baden", "Teil des Fjallabak-Reservats", "Start des Laugavegur-Wegs"],
+      hu: ["Színes riolit hegyláncok", "Fürdésre alkalmas hőforrások", "A Fjallabak természetvédelmi terület", "A Laugavegur túra kezdőpontja"],
+      ro: ["Munți de riolit în culori variate", "Izvoare termale naturale", "Situat în rezervația Fjallabak", "Punct de start pentru Laugavegur"],
+      en: ["Colorful rhyolite mountain peaks", "Natural geothermal hot springs", "Part of Fjallabak Nature Reserve", "Start of the Laugavegur trail"],
+    },
+    image: "/poi-images/iceland-landmannalaugar-nature-v2.webp",
+},  {
     id: "iceland-asbyrgi-nature-v2",
     type: "valley",
-    name: { de: "Ásbyrgi", hu: "Ásbyrgi", ro: "Ásbyrgi", en: "Ásbyrgi" },
+    name: { de: "Ásbyrgi", hu: "Ásbyrgi", ro: "Ásbyrgi", en: "Ásbyrgi",
+image: "/poi-images/iceland-asbyrgi-nature-v2.webp"
+},
     coords: [-16.0305, 66.0175],
     coordinates: { lat: 66.0175, lng: -16.0305 },
     description: {
@@ -304,11 +531,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Cca. 3,5 km lungime și 1,1 km lățime", "Pereții stâncoși au până la 100 de metri înălțime", "Format de inundații glaciare catastrofale", "Adăpostește o pădure neobișnuit de densă"],
       en: ["Approx. 3.5 km long and 1.1 km wide", "Cliffs reach up to 100 meters in height", "Formed by catastrophic glacial floods", "Home to an unusually dense forest"],
     },
-    imageHint: "Asbyrgi canyon horseshoe shape aerial", image: "/poi-images/iceland-asbyrgi-nature-v2.webp"},
-  {
+imageHint: "Asbyrgi canyon horseshoe shape aerial",
+    descriptionAdvanced: {
+      de: "Ásbyrgi ist eine gewaltige, hufeisenförmige Schlucht im Norden Islands. Die Legende besagt, dass Odins achtbeiniges Pferd Sleipnir hier einen Hufabdruck hinterlassen hat.",
+      hu: "Az Ásbyrgi egy hatalmas, patkó alakú kanyon Észak-Izlandon. A legenda szerint Odin nyolclábú lova, Sleipnir lépett ide, kialakítva a szurdok különleges formáját.",
+      ro: "Ásbyrgi este un canion masiv în formă de potcoavă situat în nordul Islandei. Legenda spune că este amprenta lăsată de calul cu opt picioare al zeului Odin, Sleipnir.",
+      en: "Ásbyrgi is a massive, horseshoe-shaped canyon in North Iceland. Legend claims it was formed by the hoofprint of Odin’s eight-legged horse, Sleipnir, as it stepped.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 3,5 Kilometern", "Felswände bis 100 Meter hoch", "Zentralfelsen Eyjan", "Entstanden durch Flutkatastrophen"],
+      hu: ["3,5 kilométer hosszú kanyon", "100 méter magas sziklafalak", "Az Eyjan nevű központi szikla", "Gleccseráradások formálták"],
+      ro: ["Lungime de 3,5 kilometri", "Pereți de stâncă de 100 metri", "Formațiune centrală numită Eyjan", "Creat de inundații glaciare catastrofale"],
+      en: ["Length of 3.5 kilometers", "Rock walls up to 100 meters high", "Central rock formation 'Eyjan'", "Formed by catastrophic glacial floods"],
+    },
+    image: "/poi-images/iceland-asbyrgi-nature-v2.webp",
+},  {
     id: "iceland-fjadrargljufur-nature-v2",
     type: "valley",
-    name: { de: "Fjaðrárgljúfur", hu: "Fjaðrárgljúfur", ro: "Fjaðrárgljúfur", en: "Fjaðrárgljúfur" },
+    name: { de: "Fjaðrárgljúfur", hu: "Fjaðrárgljúfur", ro: "Fjaðrárgljúfur", en: "Fjaðrárgljúfur",
+image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp"
+},
     coords: [-18.1717, 63.7711],
     coordinates: { lat: 63.7711, lng: -18.1717 },
     description: {
@@ -323,11 +565,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Format acum aproximativ două milioane de ani", "Adâncime de până la 100 de metri", "Săpat de apele glaciare la sfârșitul epocii de gheață", "Devenit faimos după un videoclip al lui Justin Bieber"],
       en: ["Formed about two million years ago", "Depth of up to 100 meters", "Carved by glacial meltwater at the end of the last ice age", "Became world-famous after a Justin Bieber music video"],
     },
-    imageHint: "Fjadrargljufur canyon Iceland green cliffs", image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp"},
-  {
+imageHint: "Fjadrargljufur canyon Iceland green cliffs",
+    descriptionAdvanced: {
+      de: "Fjaðrárgljúfur ist eine märchenhafte, etwa zwei Kilometer lange Schlucht. Ihre steilen Wände sind mit grünem Moos bedeckt und werden vom Fluss Fjaðrá durchflossen.",
+      hu: "A Fjaðrárgljúfur egy festői, közel két kilométer hosszú szurdok Dél-Izlandon. Meredek falait zöld moha borítja, mélyén pedig a Fjaðrá folyó kanyarog látványosan.",
+      ro: "Fjaðrárgljúfur este un canion pitoresc de aproximativ doi kilometri lungime. Pereții săi abrupți, acoperiți cu mușchi verde, sunt traversați de râul Fjaðrá.",
+      en: "Fjaðrárgljúfur is a picturesque, two-kilometer long canyon in South Iceland. Its steep, moss-covered walls drop 100 meters to the serpentine Fjaðrá river below.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe von bis zu 100 Metern", "Länge etwa 2 Kilometer", "Alter ca. 2 Millionen Jahre", "Bekannt aus Musikvideos"],
+      hu: ["Akár 100 méteres mélység", "Körülbelül 2 kilométer hosszú", "Mintegy 2 millió éves képződmény", "Népszerű forgatási helyszín"],
+      ro: ["Adâncime de până la 100 metri", "Lungime de circa 2 kilometri", "Vechime de aproximativ 2 milioane ani", "Apare în videoclipuri muzicale celebre"],
+      en: ["Depth up to 100 meters", "Length approximately 2 kilometers", "Age of about 2 million years", "Featured in famous music videos"],
+    },
+    image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp",
+},  {
     id: "iceland-askja-nature-v2",
     type: "peak",
-    name: { de: "Askja", hu: "Askja", ro: "Askja", en: "Askja" },
+    name: { de: "Askja", hu: "Askja", ro: "Askja", en: "Askja",
+image: "/poi-images/iceland-askja-nature-v2.webp"
+},
     coords: [-16.75, 65.0333],
     coordinates: { lat: 65.0333, lng: -16.75 },
     description: {
@@ -342,11 +599,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Include lacul adânc Öskjuvatn", "Craterul Víti conține apă caldă albastru-lăptos", "Loc de antrenament NASA pentru misiunile pe Lună", "Erupție masivă în anul 1875"],
       en: ["Contains the deep Öskjuvatn lake", "Víti crater contains milky blue geothermal water", "NASA training site for Apollo moon missions", "Site of a massive eruption in 1875"],
     },
-    imageHint: "Askja caldera Viti crater blue water", image: "/poi-images/iceland-askja-nature-v2.webp"},
-  {
+imageHint: "Askja caldera Viti crater blue water",
+    descriptionAdvanced: {
+      de: "Askja ist eine abgelegene Caldera im Dyngjufjöll-Gebirge. Der Kratersee Öskjuvatn ist der tiefste See Islands, daneben liegt der milchig-blaue, warme Kratersee Víti.",
+      hu: "Az Askja egy távoli vulkáni kaldera a felföldön. Itt található az Öskjuvatn, Izland egyik legmélyebb tava, és a Víti-kráter, amelynek kénes vizében fürdeni is lehet.",
+      ro: "Askja este o calderă izolată situată în munții Dyngjufjöll. Include lacul Öskjuvatn și craterul Víti, renumit pentru apele sale termale albastre și lăptoase.",
+      en: "Askja is a remote volcanic caldera in the Dyngjufjöll mountains. It contains Öskjuvatn, one of Iceland's deepest lakes, and the warm, milky-blue Víti crater lake.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Caldera 50 km²", "Víti-See hat ca. 25 °C", "Öskjuvatn ist 220 Meter tief", "Astronautentraining der NASA"],
+      hu: ["50 km²-es kaldera terület", "A Víti-tó hőmérséklete kb. 25 °C", "Az Öskjuvatn 220 méter mély", "NASA űrhajósok kiképzőhelye volt"],
+      ro: ["Suprafața calderei de 50 km²", "Temperatura lacului Víti este de 25°C", "Lacul Öskjuvatn are 220 m adâncime", "Loc de antrenament pentru astronauții NASA"],
+      en: ["Caldera area of 50 km²", "Víti lake temperature around 25°C", "Öskjuvatn is 220 meters deep", "NASA Apollo astronaut training site"],
+    },
+    image: "/poi-images/iceland-askja-nature-v2.webp",
+},  {
     id: "iceland-krafla-nature-v2",
     type: "peak",
-    name: { de: "Krafla", hu: "Krafla", ro: "Krafla", en: "Krafla" },
+    name: { de: "Krafla", hu: "Krafla", ro: "Krafla", en: "Krafla",
+image: "/poi-images/iceland-krafla-nature-v2.webp"
+},
     coords: [-16.7236, 65.7171],
     coordinates: { lat: 65.7171, lng: -16.7236 },
     description: {
@@ -361,11 +633,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Caldera are un diametru de cca. 10 km", "Include lacul de crater Víti", "Locul 'Focurilor Krafla' (1975–1984)", "Sursă pentru o mare centrală geotermală"],
       en: ["Caldera diameter of about 10 km", "Home to the Víti crater lake (distinct from Askja's)", "Site of the 'Krafla Fires' (1975–1984)", "Utilized by a major geothermal power plant"],
     },
-    imageHint: "Krafla Viti crater lake North Iceland", image: "/poi-images/iceland-krafla-nature-v2.webp"},
-  {
+imageHint: "Krafla Viti crater lake North Iceland",
+    descriptionAdvanced: {
+      de: "Krafla ist ein hocheffektives Vulkansystem im Norden. Zur Anlage gehören eine 10 km große Caldera, der Viti-Kratersee und ein geothermisches Kraftwerk am Fuße des Berges.",
+      hu: "A Krafla egy kiterjedt vulkáni rendszer Észak-Izlandon. Magában foglal egy 10 km-es kalderát, az azúr kék Víti-krátertavat és egy jelentős geotermikus erőművet.",
+      ro: "Krafla este un sistem vulcanic complex în nordul țării. Cuprinde o calderă de 10 km, craterul Víti și una dintre cele mai mari centrale geotermale din Islanda.",
+      en: "Krafla is a massive volcanic system in North Iceland. It features a 10 km wide caldera, the turquoise Víti crater lake, and a major geothermal power station.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt 818 Meter", "Caldera-Durchmesser 10 km", "Krafla-Feuer (1975–1984)", "Víti-Krater entstand 1724"],
+      hu: ["818 méteres legmagasabb pont", "10 kilométeres kaldera átmérő", "Krafla-tüzek (1975–1984)", "A Víti-kráter 1724-ben keletkezett"],
+      ro: ["Altitudine maximă de 818 metri", "Diametrul calderei de 10 km", "Erupțiile 'Krafla Fires' (1975-1984)", "Craterul Víti format în 1724"],
+      en: ["Highest peak 818 meters", "Caldera diameter of 10 km", "Krafla Fires eruption (1975–1984)", "Víti crater formed in 1724"],
+    },
+    image: "/poi-images/iceland-krafla-nature-v2.webp",
+},  {
     id: "iceland-dynjandi-nature-v2",
     type: "landmark",
-    name: { de: "Dynjandi", hu: "Dynjandi", ro: "Dynjandi", en: "Dynjandi" },
+    name: { de: "Dynjandi", hu: "Dynjandi", ro: "Dynjandi", en: "Dynjandi",
+image: "/poi-images/iceland-dynjandi-nature-v2.webp"
+},
     coords: [-23.1997, 65.7328],
     coordinates: { lat: 65.7328, lng: -23.1997 },
     description: {
@@ -380,11 +667,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime totală de 100 de metri", "Lățime de 30 m sus și 60 m jos", "Cunoscută și sub numele de 'Fjallfoss'", "Cea mai mare cascadă din Fiordurile de Vest"],
       en: ["Total height of 100 meters", "Width of 30 m at the top and 60 m at the bottom", "Also known as 'Fjallfoss'", "Largest waterfall in the Westfjords"],
     },
-    imageHint: "Dynjandi waterfall Westfjords fan shape", image: "/poi-images/iceland-dynjandi-nature-v2.webp"},
-  {
+imageHint: "Dynjandi waterfall Westfjords fan shape",
+    descriptionAdvanced: {
+      de: "Dynjandi, auch Fjallfoss genannt, ist das Juwel der Westfjorde. Er fächert sich wie ein Brautschleier auf und besteht aus sieben aufeinanderfolgenden Wasserfällen.",
+      hu: "A Dynjandi, más néven Fjallfoss, a Nyugati-fjordok legszebb zuhataga. Egy hatalmas, legyezőszerűen kiszélesedő főágat és hat kisebb alsó lépcsőt foglal magában.",
+      ro: "Dynjandi, supranumită 'Cascada Tunetului', este mândria fiordurilor de vest. Se ramifică sub formă de evantai, având o lățime ce crește spre bază.",
+      en: "Dynjandi, also known as Fjallfoss, is the jewel of the Westfjords. It resembles a bridal veil, cascading down seven tiers and widening at the bottom.",
+    },
+    factsAdvanced: {
+      de: ["Gesamthöhe von 100 Metern", "Obere Breite 30m, unten 60m", "Besteht aus 7 Wasserfällen", "Geschützt seit 1981"],
+      hu: ["Összesen 100 méter magas", "Fent 30, lent 60 méter széles", "7 különböző zuhatagból áll", "Természetvédelmi terület 1981 óta"],
+      ro: ["Înălțime totală de 100 metri", "Lățime la bază de 60 metri", "Formată din 7 cascade succesive", "Arie protejată din 1981"],
+      en: ["Total height of 100 meters", "Widening from 30m to 60m", "Series of 7 tiered waterfalls", "Protected nature site since 1981"],
+    },
+    image: "/poi-images/iceland-dynjandi-nature-v2.webp",
+},  {
     id: "iceland-glymur-nature-v2",
     type: "landmark",
-    name: { de: "Glymur", hu: "Glymur", ro: "Glymur", en: "Glymur" },
+    name: { de: "Glymur", hu: "Glymur", ro: "Glymur", en: "Glymur",
+image: "/poi-images/iceland-glymur-nature-v2.webp"
+},
     coords: [-21.2503, 64.3914],
     coordinates: { lat: 64.3914, lng: -21.2503 },
     description: {
@@ -399,11 +701,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 198 de metri", "Accesibilă doar printr-o drumeție dificilă", "Situată pe râul Botnsá", "A deținut recordul de înălțime în Islanda până în 2011"],
       en: ["Drop height of 198 meters", "Accessible only via a challenging hike", "Located on the river Botnsá", "Highest in Iceland until surpassed by Morsárfoss in 2011"],
     },
-    imageHint: "Glymur waterfall Iceland high canyon", image: "/poi-images/iceland-glymur-nature-v2.webp"},
-  {
+imageHint: "Glymur waterfall Iceland high canyon",
+    descriptionAdvanced: {
+      de: "Glymur war lange Zeit als höchster Wasserfall Islands bekannt. Er stürzt 198 Meter tief in eine enge Schlucht am Ende des malerischen Hvalfjörður-Fjords.",
+      hu: "A Glymur sokáig Izland legmagasabb vízeséseként volt ismert. A 198 méteres zuhatag a Hvalfjörður-fjord végén, egy szűk és mély kanyonba hullik alá.",
+      ro: "Glymur a fost mult timp considerată cea mai înaltă cascadă din Islanda. Apa cade de la 198 de metri într-un canion îngust la capătul fiordului Hvalfjörður.",
+      en: "Glymur was long considered Iceland's tallest waterfall. It drops 198 meters into a narrow, deep canyon located at the end of the scenic Hvalfjörður fjord.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe von 198 Metern", "Lage im Hvalfjörður", "Zweithöchster Wasserfall Islands", "Anspruchsvolle Wanderung"],
+      hu: ["198 méteres esési magasság", "A Hvalfjörður-fjord végén található", "Izland második legmagasabb vízesése", "Nehéz túraúton érhető el"],
+      ro: ["Înălțime de cădere de 198 metri", "Situată în fiordul Hvalfjörður", "A doua cea mai înaltă din țară", "Accesibilă prin drumeție dificilă"],
+      en: ["Drop height of 198 meters", "Located in Hvalfjörður fjord", "Second tallest waterfall in Iceland", "Requires a challenging hike to reach"],
+    },
+    image: "/poi-images/iceland-glymur-nature-v2.webp",
+},  {
     id: "iceland-svartifoss-nature-v2",
     type: "landmark",
-    name: { de: "Svartifoss", hu: "Svartifoss", ro: "Svartifoss", en: "Svartifoss" },
+    name: { de: "Svartifoss", hu: "Svartifoss", ro: "Svartifoss", en: "Svartifoss",
+image: "/poi-images/iceland-svartifoss-nature-v2.webp"
+},
     coords: [-16.9753, 64.0275],
     coordinates: { lat: 64.0275, lng: -16.9753 },
     description: {
@@ -418,11 +735,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 20 de metri", "A inspirat arhitectura bisericii Hallgrímskirkja", "Coloanele s-au format prin răcirea lentă a lavei", "Ușor accesibilă printr-un traseu de drumeție"],
       en: ["Drop height of 20 meters", "Inspired the architecture of Hallgrímskirkja church", "Columns formed by slow cooling of lava", "Easily accessible via a hiking trail"],
     },
-    imageHint: "Svartifoss waterfall basalt columns black", image: "/poi-images/iceland-svartifoss-nature-v2.webp"},
-  {
+imageHint: "Svartifoss waterfall basalt columns black",
+    descriptionAdvanced: {
+      de: "Svartifoss, der schwarze Wasserfall, ist berühmt für seine dunklen, hängenden Basaltsäulen. Diese inspirierten das Design der Hallgrímskirkja in Reykjavík.",
+      hu: "A Svartifoss (Fekete-vízesés) sötét, orgonákhoz hasonló bazaltoszlopairól nevezetes. Ez a látvány ihlette a reykjavíki Hallgrímskirkja templom építészeti formáját.",
+      ro: "Svartifoss, sau 'Cascada Neagră', este renumită pentru coloanele sale geometrice de bazalt negru. Acestea au inspirat arhitectura catedralei Hallgrímskirkja.",
+      en: "Svartifoss, the Black Fall, is famous for its surrounding columns of dark basalt. These formations inspired the architectural design of Reykjavík's Hallgrímskirkja.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe ca. 20 Meter", "Hexagonale Basaltsäulen", "Teil des Skaftafell-Nationalparks", "Design-Inspiration für Kirchen"],
+      hu: ["Kb. 20 méteres magasság", "Hatszögletű bazaltoszlopok", "A Skaftafell Nemzeti Park része", "Építészeti inspiráció forrása"],
+      ro: ["Înălțime de aproximativ 20 metri", "Coloane de bazalt hexagonale", "Situată în Parcul Național Skaftafell", "Sursă de inspirație arhitecturală"],
+      en: ["Height of roughly 20 meters", "Hexagonal basalt columns", "Part of Skaftafell National Park", "Inspiration for Icelandic architecture"],
+    },
+    image: "/poi-images/iceland-svartifoss-nature-v2.webp",
+},  {
     id: "iceland-eldgja-nature-v2",
     type: "valley",
-    name: { de: "Eldgjá", hu: "Eldgjá", ro: "Eldgjá", en: "Eldgjá" },
+    name: { de: "Eldgjá", hu: "Eldgjá", ro: "Eldgjá", en: "Eldgjá",
+image: "/poi-images/iceland-eldgja-nature-v2.webp"
+},
     coords: [-18.6144, 63.965],
     coordinates: { lat: 63.965, lng: -18.6144 },
     description: {
@@ -437,11 +769,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Formată în timpul unei erupții masive în anul 934", "Adâncime de până la 270 de metri", "Numele înseamnă 'Canionul de Foc'", "Parte a sistemului vulcanic Katla"],
       en: ["Formed during a massive eruption in 934 AD", "Depth of up to 270 meters", "Name translates to 'Fire Canyon'", "Part of the Katla volcanic system"],
     },
-    imageHint: "Eldgja canyon volcanic fissure Iceland", image: "/poi-images/iceland-eldgja-nature-v2.webp"},
-  {
+imageHint: "Eldgja canyon volcanic fissure Iceland",
+    descriptionAdvanced: {
+      de: "Eldgjá ist die größte Vulkanspalte der Welt. Die gewaltige Schlucht entstand bei einem massiven Ausbruch im 10. Jahrhundert und beherbergt den Wasserfall Ófærufoss.",
+      hu: "Az Eldgjá ('Tűz-szakadék') a világ legnagyobb vulkáni repedése. A 10. századi hatalmas kitörés során keletkezett kanyonban található a többlépcsős Ófærufoss vízesés.",
+      ro: "Eldgjá este cea mai mare fisură vulcanică din lume, având o lungime de 40 km. S-a format în secolul al X-lea în urma unei erupții colosale și include cascada Ófærufoss.",
+      en: "Eldgjá is the largest volcanic canyon in the world. Formed during a massive 10th-century eruption, this 40 km long fissure contains the multi-tiered Ófærufoss waterfall.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 40 Kilometern", "Tiefe bis zu 270 Meter", "Ausbruch im Jahr 934 n. Chr.", "Beherbergt den Ófærufoss"],
+      hu: ["40 kilométeres hosszúság", "Akár 270 méteres mélység", "i.sz. 934-es kitörés emléke", "Az Ófærufoss vízesés otthona"],
+      ro: ["Lungime de 40 kilometri", "Adâncime de până la 270 metri", "Erupție majoră în anul 934 d.Hr.", "Găzduiește cascada Ófærufoss"],
+      en: ["Total length of 40 kilometers", "Depth up to 270 meters", "Formed by 934 AD eruption", "Home to Ófærufoss waterfall"],
+    },
+    image: "/poi-images/iceland-eldgja-nature-v2.webp",
+},  {
     id: "iceland-heimaey-nature-v2",
     type: "landmark",
-    name: { de: "Heimaey", hu: "Heimaey", ro: "Heimaey", en: "Heimaey" },
+    name: { de: "Heimaey", hu: "Heimaey", ro: "Heimaey", en: "Heimaey",
+image: "/poi-images/iceland-heimaey-nature-v2.webp"
+},
     coords: [-20.2771, 63.4377],
     coordinates: { lat: 63.4377, lng: -20.2771 },
     description: {
@@ -456,11 +803,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de 13,4 km²", "Găzduiește una dintre cele mai mari colonii de pufini", "Vulcanul Eldfell s-a format în timpul erupției din 1973", "Centru important al industriei pescuitului"],
       en: ["Surface area of 13.4 km²", "Home to one of the world's largest puffin colonies", "Mount Eldfell was formed during the 1973 eruption", "Major hub for the Icelandic fishing industry"],
     },
-    imageHint: "Heimaey island Eldfell volcano puffins", image: "/poi-images/iceland-heimaey-nature-v2.webp"},
-  {
+imageHint: "Heimaey island Eldfell volcano puffins",
+    descriptionAdvanced: {
+      de: "Heimaey ist die größte und einzig bewohnte Insel der Westmännerinseln. 1973 wurde sie durch den Ausbruch des Eldfell fast zerstört und ihre Fläche deutlich vergrößert.",
+      hu: "A Heimaey a Vestmannaeyjar-szigetek legnagyobb és egyetlen lakott tagja. Az 1973-as Eldfell-kitörés során a láva majdnem elpusztította a várost és a kikötőt.",
+      ro: "Heimaey este cea mai mare și singura insulă locuită din arhipelagul Vestmannaeyjar. Erupția vulcanului Eldfell din 1973 a schimbat radical relieful și mărimea insulei.",
+      en: "Heimaey is the largest and only inhabited island of the Westman Islands. In 1973, the eruption of Eldfell nearly destroyed the town and significantly expanded the island.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 13,4 km²", "Bevölkerung ca. 4500 Menschen", "Ausbruch des Eldfell 1973", "Wichtigster Fischereihafen"],
+      hu: ["13,4 km²-es terület", "Kb. 4500 fős lakosság", "Az Eldfell 1973-as kitörése", "Fontos halászkikötő"],
+      ro: ["Suprafață de 13,4 km²", "Populație de circa 4500 locuitori", "Erupția Eldfell în 1973", "Principal port de pescuit islandez"],
+      en: ["Surface area of 13.4 km²", "Population of approx. 4,500", "Eldfell eruption in 1973", "Key Icelandic fishing port"],
+    },
+    image: "/poi-images/iceland-heimaey-nature-v2.webp",
+},  {
     id: "iceland-surtsey-nature-v2",
     type: "landmark",
-    name: { de: "Surtsey", hu: "Surtsey", ro: "Surtsey", en: "Surtsey" },
+    name: { de: "Surtsey", hu: "Surtsey", ro: "Surtsey", en: "Surtsey",
+image: "/poi-images/iceland-surtsey-nature-v2.webp"
+},
     coords: [-20.6011, 63.3028],
     coordinates: { lat: 63.3028, lng: -20.6011 },
     description: {
@@ -475,11 +837,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Inclusă în patrimoniul UNESCO din 2008", "Numită după uriașul de foc Surtur", "Accesul turiștilor este strict interzis", "Eroziunea reduce treptat suprafața insulei"],
       en: ["UNESCO World Heritage site since 2008", "Named after the fire giant Surtur", "Access for tourists is strictly prohibited", "Island surface is shrinking due to erosion"],
     },
-    imageHint: "Surtsey island volcanic eruption 1963", image: "/poi-images/iceland-surtsey-nature-v2.webp"},
-  {
+imageHint: "Surtsey island volcanic eruption 1963",
+    descriptionAdvanced: {
+      de: "Surtsey ist eine vulkanische Insel, die zwischen 1963 und 1967 durch submarine Ausbrüche entstand. Sie dient der Wissenschaft als einzigartiges Labor für Primärsukzession.",
+      hu: "A Surtsey egy vulkáni sziget, amely 1963 és 1967 között emelkedett ki az óceánból. A sziget szigorúan védett kutatási terület az élet megtelepedésének vizsgálatára.",
+      ro: "Surtsey este o insulă vulcanică formată între 1963 și 1967 în urma unor erupții submarine. Este un laborator natural unic pentru studiul colonizării speciilor.",
+      en: "Surtsey is a volcanic island formed between 1963 and 1967 by submarine eruptions. It is a strictly protected UNESCO site used to study how life colonizes new land.",
+    },
+    factsAdvanced: {
+      de: ["Entstehung 1963–1967", "UNESCO-Weltnaturerbe", "Betreten streng verboten", "Benannt nach dem Riesen Surtur"],
+      hu: ["1963-1967 között keletkezett", "UNESCO Világörökségi helyszín", "Látogatása szigorúan tilos", "Surtur tűzóriásról kapta nevét"],
+      ro: ["Formată între 1963 și 1967", "Patrimoniu Mondial UNESCO", "Acces strict interzis publicului", "Numită după uriașul de foc Surtur"],
+      en: ["Formed between 1963 and 1967", "UNESCO World Heritage Site", "Public access strictly prohibited", "Named after fire giant Surtur"],
+    },
+    image: "/poi-images/iceland-surtsey-nature-v2.webp",
+},  {
     id: "iceland-grimsey-nature-v2",
     type: "landmark",
-    name: { de: "Grímsey", hu: "Grímsey", ro: "Grímsey", en: "Grímsey" },
+    name: { de: "Grímsey", hu: "Grímsey", ro: "Grímsey", en: "Grímsey",
+image: "/poi-images/iceland-grimsey-nature-v2.webp"
+},
     coords: [-18.0, 66.5444],
     coordinates: { lat: 66.5444, lng: -18.0 },
     description: {
@@ -494,11 +871,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5,3 km²", "Punctul maxim este la 105 metri altitudine", "Faimoasă pentru pufini și păsări marine", "Locuitorii trăiesc în principal din pescuit"],
       en: ["Surface area of approx. 5.3 km²", "Highest point is 105 meters above sea level", "Famous for puffins and other seabirds", "Inhabitants live mainly on fishing"],
     },
-    imageHint: "Grimsey island Arctic Circle marker", image: "/poi-images/iceland-grimsey-nature-v2.webp"},
-  {
+imageHint: "Grimsey island Arctic Circle marker",
+    descriptionAdvanced: {
+      de: "Grímsey ist die einzige bewohnte Insel Islands, die vom Polarkreis durchschnitten wird. Sie ist bekannt für ihre steilen Klippen und die riesigen Seevogelkolonien.",
+      hu: "A Grímsey Izland legészakibb lakott szigete, amelyen áthalad az északi sarkkör. Hatalmas bazaltszikláiról és a milliónyi tengeri madárról, főként a lundákról ismert.",
+      ro: "Grímsey este singura insulă locuită a Islandei traversată de Cercul Polar Arctic. Este renumită pentru faleza sa abruptă și coloniile imense de păsări marine.",
+      en: "Grímsey is the only inhabited part of Iceland crossed by the Arctic Circle. It is famous for its dramatic basalt cliffs and massive colonies of nesting seabirds.",
+    },
+    factsAdvanced: {
+      de: ["Lage am Polarkreis", "Fläche von 5,3 km²", "Höchste Erhebung 105 Meter", "Papageitaucher-Hotspot"],
+      hu: ["Az északi sarkkör mentén fekszik", "5,3 km²-es terület", "Legmagasabb pontja 105 méter", "Lundák kedvelt fészkelőhelye"],
+      ro: ["Traversată de Cercul Polar", "Suprafață de 5,3 km²", "Altitudine maximă de 105 metri", "Sanctuar pentru pufini"],
+      en: ["Situated on the Arctic Circle", "Surface area of 5.3 km²", "Highest point 105 meters", "Major hotspot for puffins"],
+    },
+    image: "/poi-images/iceland-grimsey-nature-v2.webp",
+},  {
     id: "iceland-hornbjarg-nature-v2",
     type: "landmark",
-    name: { de: "Hornbjarg", hu: "Hornbjarg", ro: "Hornbjarg", en: "Hornbjarg" },
+    name: { de: "Hornbjarg", hu: "Hornbjarg", ro: "Hornbjarg", en: "Hornbjarg",
+image: "/poi-images/iceland-hornbjarg-nature-v2.webp"
+},
     coords: [-22.4286, 66.4117],
     coordinates: { lat: 66.4117, lng: -22.4286 },
     description: {
@@ -513,11 +905,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime maximă de 534 de metri", "Una dintre cele mai mari colonii de păsări marine", "Accesibilă doar cu barca sau prin drumeții lungi", "Cel mai nordic punct al Fiordurilor de Vest"],
       en: ["Maximum height of 534 meters", "One of the largest seabird colonies in the world", "Accessible only by boat or long-distance hiking", "Northernmost point of the Westfjords"],
     },
-    imageHint: "Hornbjarg sea cliffs Westfjords Iceland", image: "/poi-images/iceland-hornbjarg-nature-v2.webp"},
-  {
+imageHint: "Hornbjarg sea cliffs Westfjords Iceland",
+    descriptionAdvanced: {
+      de: "Hornbjarg ist eine der beeindruckendsten Vogelklippen in den entlegenen Westfjorden. Die fast senkrechten Felswände fallen über 500 Meter tief in den Arktischen Ozean ab.",
+      hu: "A Hornbjarg a Nyugati-fjordok legészakibb, lenyűgöző sziklafala. A több mint 500 méter magas, függőleges perem a Hornstrandir természetvédelmi terület legszebb pontja.",
+      ro: "Hornbjarg este o faleză marină spectaculoasă situată în fiordurile de vest. Pereții săi verticali se prăbușesc de la peste 500 de metri direct în Oceanul Arctic.",
+      en: "Hornbjarg is one of the most dramatic bird cliffs in the remote Westfjords. Its sheer vertical walls drop over 500 meters into the icy waters of the Arctic Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 534 Metern", "Teil von Hornstrandir", "Nistplatz für Tausende Seevögel", "Nur per Boot oder zu Fuß erreichbar"],
+      hu: ["534 méteres sziklamagasság", "A Hornstrandir területén található", "Több ezer tengeri madár otthona", "Csak hajóval vagy gyalog érhető el"],
+      ro: ["Înălțime de 534 metri", "Parte a rezervației Hornstrandir", "Adăpostește mii de păsări marine", "Accesibil doar prin barcă sau mers pe jos"],
+      en: ["Peak height of 534 meters", "Located in Hornstrandir Reserve", "Nesting site for thousands of birds", "Accessible only by boat or foot"],
+    },
+    image: "/poi-images/iceland-hornbjarg-nature-v2.webp",
+},  {
     id: "iceland-raudasandur-nature-v2",
     type: "landmark",
-    name: { de: "Rauðasandur", hu: "Rauðasandur", ro: "Rauðasandur", en: "Rauðasandur" },
+    name: { de: "Rauðasandur", hu: "Rauðasandur", ro: "Rauðasandur", en: "Rauðasandur",
+image: "/poi-images/iceland-raudasandur-nature-v2.webp"
+},
     coords: [-23.9531, 65.4744],
     coordinates: { lat: 65.4744, lng: -23.9531 },
     description: {
@@ -532,11 +939,26 @@ export const icelandNatureV2: POI[] = [
       ro: ["Numele se traduce prin 'Nisip Roșu'", "Culoarea provine de la cochiliile zdrobite de scoici", "Loc popular pentru observarea focilor", "Se întinde pe o lungime de 10 kilometri"],
       en: ["Name translates to 'Red Sand'", "Color originates from pulverized scallop shells", "Popular spot for seal watching", "Extends over 10 kilometers in length"],
     },
-    imageHint: "Raudasandur red sand beach Westfjords", image: "/poi-images/iceland-raudasandur-nature-v2.webp"},
-  {
+imageHint: "Raudasandur red sand beach Westfjords",
+    descriptionAdvanced: {
+      de: "Rauðasandur, der rote Strand, erstreckt sich über 10 Kilometer in den Westfjorden. Sein Sand schimmert je nach Licht in Nuancen von Gold über Gelb bis hin zu tiefem Rot.",
+      hu: "A Rauðasandur a Nyugati-fjordok 10 kilométer hosszú, különleges homokos tengerpartja. Színe a fényviszonyoktól függően az aranytól a vörösig terjed a kagylótörmelék miatt.",
+      ro: "Rauðasandur, sau 'Nisipul Roșu', este o plajă vastă de 10 km în fiordurile de vest. Culoarea sa variază de la auriu la roșu intens datorită scoicilor mărunțite.",
+      en: "Rauðasandur, or Red Sand beach, stretches for 10 kilometers in the Westfjords. Its unique color shifts from gold to deep red depending on the sunlight and tide.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 10 Kilometern", "Farbe durch Muschelschalen", "Heimat einer großen Robbenkolonie", "Abgelegene Lage in den Westfjorden"],
+      hu: ["10 kilométeres tengerpart", "Zúzott kagylóhéj adja a színét", "Nagy fóka-kolónia él itt", "Izolált fekvés a Nyugati-fjordokban"],
+      ro: ["Lungime de 10 kilometri", "Culoare dată de scoici zdrobite", "Găzduiește o colonie de foci", "Locație izolată în Westfjords"],
+      en: ["Length of 10 kilometers", "Color from crushed seashells", "Home to a large seal colony", "Remote location in the Westfjords"],
+    },
+    image: "/poi-images/iceland-raudasandur-nature-v2.webp",
+},  {
     id: "iceland-lakagigar-nature-v2",
     type: "landmark",
-    name: { de: "Lakagígar", hu: "Lakagígar", ro: "Lakagígar", en: "Lakagígar" },
+    name: { de: "Lakagígar", hu: "Lakagígar", ro: "Lakagígar", en: "Lakagígar",
+image: "/poi-images/iceland-lakagigar-nature-v2.webp"
+},
     coords: [-18.2233, 64.0708],
     coordinates: { lat: 64.0708, lng: -18.2233 },
     description: {
@@ -552,5 +974,17 @@ export const icelandNatureV2: POI[] = [
       en: ["Eruptive fissure is 25 km long", "Caused the 'Laki Fires' (1783–1784)", "Led to global climate cooling and crop failures", "Produced 14 km³ of basaltic lava"],
     },
     imageHint: "Lakagigar craters row aerial Iceland",
+    descriptionAdvanced: {
+      de: "Lakagígar ist eine 25 km lange Kette von über 100 Kratern. Der verheerende Laki-Ausbruch von 1783 veränderte das Weltklima und löste Hungersnöte in ganz Europa aus.",
+      hu: "A Lakagígar egy 25 kilométer hosszú, több mint 100 kráterből álló lánc. Az 1783-as Laki-kitörés globális éghajlati változást és katasztrofális éhínséget okozott.",
+      ro: "Lakagígar este un șir de peste 100 de cratere vulcanice întins pe 25 km. Erupția Laki din 1783 a avut un impact climatic global, provocând foamete în Europa.",
+      en: "Lakagígar is a 25 km long row of over 100 volcanic craters. The catastrophic 1783 Laki eruption altered global climates and caused widespread famine in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Kraterkette von 25 km Länge", "Über 100 einzelne Krater", "Ausbruch 1783–1784", "Ausstoß von 14 km³ Lava"],
+      hu: ["25 kilométer hosszú krátersor", "Több mint 100 egyedi kráter", "1783–1784 közötti kitörés", "14 km³ láva ömlött ki"],
+      ro: ["Lanț de cratere de 25 km", "Peste 100 de cratere individuale", "Erupție majoră între 1783–1784", "Volum de lavă de 14 km³"],
+      en: ["Crater row spans 25 kilometers", "Over 100 distinct craters", "Major eruption in 1783–1784", "Emitted 14 cubic km of lava"],
+    },
   }
 ];

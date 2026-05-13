@@ -4,7 +4,9 @@ export const greeceCitiesV2: POI[] = [
   {
     id: "greece-patras-cities-v2",
     type: "port",
-    name: { de: "Patras", hu: "Pátra", ro: "Patras", en: "Patras" },
+    name: { de: "Patras", hu: "Pátra", ro: "Patras", en: "Patras",
+image: "/poi-images/greece-patras-cities-v2.webp"
+},
     coords: [21.7346, 38.2466],
     coordinates: { lat: 38.2466, lng: 21.7346 },
     description: {
@@ -19,11 +21,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Al treilea cel mai populat oraș elen", "Port principal pentru feriboturi spre Italia", "Găzduiește Catedrala Sfântul Andrei", "Cunoscut pentru Carnavalul de la Patras"],
       en: ["Third largest city in Greece", "Major ferry hub to Italy", "Home to the University of Patras", "Site of the Saint Andrew Basilica"],
     },
-    imageHint: "Patras port view with Rio-Antirrio bridge in background", image: "/poi-images/greece-patras-cities-v2.webp"},
-  {
+imageHint: "Patras port view with Rio-Antirrio bridge in background",
+    descriptionAdvanced: {
+      de: "Patras ist das Tor Griechenlands zum Westen und ein bedeutender Handelsknotenpunkt am Golf von Patras. Die Stadt ist für den größten Karneval des Landes und ihre Universität bekannt.",
+      hu: "Patrasz Görögország harmadik legnagyobb városa és fontos kikötő az Jón-tenger felé. Híres a minden évben megrendezett nagyszúrású karneváljáról és a hatalmas Szent András-bazilikáról.",
+      ro: "Patras este cel mai mare oraș din Peloponez și un port vital care leagă Grecia de Italia. Orașul găzduiește cel mai faimos carnaval grecesc și are o universitate de prestigiu.",
+      en: "Patras serves as Greece's gateway to the West, being a major port city on the Gulf of Patras. It is famous for hosting the country's largest carnival and its vibrant student life.",
+    },
+    factsAdvanced: {
+      de: ["Die Rio-Antirrio-Brücke ist mit 2880 Metern eine der längsten Schrägseilbrücken.", "Die St.-Andreas-Basilika ist das größte Kirchengebäude in Griechenland.", "Der Karneval von Patras blickt auf eine über 180-jährige Tradition zurück.", "Die Universität von Patras wurde im Jahr 1964 gegründet."],
+      hu: ["A Rio-Antirrio híd 2880 méteres hosszával a világ egyik leghosszabb ferdekábeles hídja.", "A Szent András-bazilika az ország legnagyobb görög ortodox temploma.", "A patraszi karnevál több mint 180 éves múltra tekint vissza.", "A város egyeteme 1964 óta az ország egyik legfontosabb oktatási intézménye."],
+      ro: ["Podul Rio-Antirrio are o lungime totală de 2880 de metri peste Golful Corint.", "Bazilica Sfântul Andrei este cea mai mare biserică din Grecia și din Balcani.", "Carnavalul din Patras are o tradiție continuă de peste 180 de ani.", "Universitatea din Patras a fost înființată în anul 1964."],
+      en: ["The Rio-Antirrio Bridge is 2,880 meters long, spanning the Gulf of Corinth.", "Saint Andrew Basilica is the largest church building in all of Greece.", "The Patras Carnival has a history spanning more than 180 years.", "The University of Patras was established in 1964."],
+    },
+    image: "/poi-images/greece-patras-cities-v2.webp",
+},  {
     id: "greece-heraklion-cities-v2",
     type: "capital",
-    name: { de: "Iraklio", hu: "Iráklio", ro: "Heraklion", en: "Heraklion" },
+    name: { de: "Iraklio", hu: "Iráklio", ro: "Heraklion", en: "Heraklion",
+image: "/poi-images/greece-heraklion-cities-v2.webp"
+},
     coords: [25.1442, 35.3387],
     coordinates: { lat: 35.3387, lng: 25.1442 },
     description: {
@@ -38,11 +55,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din Creta", "Situat lângă Palatul din Knossos", "Găzduiește un muzeu arheologic celebru", "Fortăreața venețiană Koules"],
       en: ["Largest city on the island of Crete", "Gateway to the Palace of Knossos", "Home to a world-class archaeological museum", "Features the Venetian Koules fortress"],
     },
-    imageHint: "Heraklion Venetian harbor and Koules fortress", image: "/poi-images/greece-heraklion-cities-v2.webp"},
-  {
+imageHint: "Heraklion Venetian harbor and Koules fortress",
+    descriptionAdvanced: {
+      de: "Heraklion ist das wirtschaftliche Zentrum Kretas und beherbergt das Archäologische Museum mit bedeutenden minoischen Funden. Die Stadtmauern stammen aus der venezianischen Zeit.",
+      hu: "Iráklio Kréta legnagyobb városa és közigazgatási központja. A velencei kikötő és az erőd uralja a városképet, míg a közelben fekszik a híres knósszoszi palota romja.",
+      ro: "Heraklion este capitala insulei Creta și un centru economic major. Orașul este renumit pentru Muzeul Arheologic și pentru fortificațiile venețiene care înconjoară centrul vechi.",
+      en: "Heraklion is Crete's administrative capital and a key Mediterranean hub. It is best known for the nearby Palace of Knossos and its impressive Venetian Koules fortress.",
+    },
+    factsAdvanced: {
+      de: ["Die venezianische Festung Koules wurde zwischen 1523 und 1540 erbaut.", "Das Archäologische Museum von Heraklion wurde bereits 1883 gegründet.", "Die minoische Palastanlage von Knossos liegt nur etwa 5 km südlich der Stadt.", "Die Stadt hat heute eine Bevölkerung von etwa 170.000 Einwohnern."],
+      hu: ["A Koules-erődöt a velenceiek építették 1523 és 1540 között.", "Az Iráklioi Régészeti Múzeumot 1883-ban alapították a minószi leletek számára.", "Knósszosz világhírű palotája mindössze 5 kilométerre található a várostól.", "A város lakossága napjainkban megközelíti a 170 000 főt."],
+      ro: ["Fortăreața venețiană Koules a fost construită între anii 1523 și 1540.", "Muzeul Arheologic din Heraklion a fost fondat inițial în anul 1883.", "Palatul minoic din Knossos este situat la doar 5 kilometri de oraș.", "Orașul are o populație de aproximativ 170.000 de locuitori."],
+      en: ["The Venetian Koules fortress was constructed between 1523 and 1540.", "The Archaeological Museum of Heraklion was founded in 1883.", "The ancient Palace of Knossos is located just 5 kilometers from the city center.", "Heraklion has a metropolitan population of approximately 170,000 people."],
+    },
+    image: "/poi-images/greece-heraklion-cities-v2.webp",
+},  {
     id: "greece-larissa-cities-v2",
     type: "city",
-    name: { de: "Larissa", hu: "Lárisza", ro: "Larissa", en: "Larissa" },
+    name: { de: "Larissa", hu: "Lárisza", ro: "Larissa", en: "Larissa",
+image: "/poi-images/greece-larissa-cities-v2.webp"
+},
     coords: [22.4191, 39.639],
     coordinates: { lat: 39.639, lng: 22.4191 },
     description: {
@@ -57,11 +89,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala regiunii Tesalia", "Deține două teatre antice", "Nod feroviar strategic", "Oraș cu istorie de peste 4000 ani"],
       en: ["Capital of the Thessaly region", "Home to two ancient theaters", "Major railway junction in Greece", "Continuous habitation for 4,000 years"],
     },
-    imageHint: "Ancient Theater of Larissa in city center", image: "/poi-images/greece-larissa-cities-v2.webp"},
-  {
+imageHint: "Ancient Theater of Larissa in city center",
+    descriptionAdvanced: {
+      de: "Larissa liegt am Fluss Pineios im Herzen Thessaliens und ist ein wichtiges Agrar- und Bildungszentrum. Die Stadt verfügt über zwei antike Theater und eine lange Siedlungsgeschichte.",
+      hu: "Lárisza a Thesszáliai-síkság központja és a Pineiosz folyó partján fekszik. Fontos közlekedési csomópont, ahol két ókori színház is emlékeztet a város több évezredes múltjára.",
+      ro: "Larissa este inima agricolă a Tesaliei, situată pe malurile râului Pineios. Orașul are o istorie de 8.000 de ani și este un centru vital pentru educație și transport în centrul Greciei.",
+      en: "Larissa is the capital of Thessaly and sits along the Pineios River. It is a major agricultural and transportation hub, home to two ancient theaters and a rich Neolithic heritage.",
+    },
+    factsAdvanced: {
+      de: ["Die Siedlungsgeschichte von Larissa reicht über 8000 Jahre zurück.", "Das Erste Antike Theater bot in der Antike Platz für etwa 10.000 Zuschauer.", "Larissa ist die viertgrößte Stadt in Griechenland.", "Der Fluss Pineios durchfließt die Stadt mit einer Gesamtlänge von 216 km."],
+      hu: ["Lárisza területén már 8000 évvel ezelőtt is létezett emberi település.", "Az első ókori színház befogadóképessége fénykorában 10 000 fő volt.", "Lárisza Görögország negyedik legnépesebb városa.", "A várost átszelő Pineiosz folyó teljes hossza 216 kilométer."],
+      ro: ["Istoria așezării din Larissa datează de peste 8.000 de ani.", "Primul Teatru Antic avea o capacitate de aproximativ 10.000 de spectatori.", "Larissa este al patrulea cel mai mare oraș ca populație din Grecia.", "Râul Pineios, care traversează orașul, are o lungime totală de 216 km."],
+      en: ["The history of continuous settlement in Larissa dates back over 8,000 years.", "The First Ancient Theater could accommodate approximately 10,000 spectators.", "Larissa is ranked as the 4th largest city in Greece by population.", "The Pineios River, flowing through the city, has a total length of 216 km."],
+    },
+    image: "/poi-images/greece-larissa-cities-v2.webp",
+},  {
     id: "greece-volos-cities-v2",
     type: "port",
-    name: { de: "Volos", hu: "Vólosz", ro: "Volos", en: "Volos" },
+    name: { de: "Volos", hu: "Vólosz", ro: "Volos", en: "Volos",
+image: "/poi-images/greece-volos-cities-v2.webp"
+},
     coords: [22.9432, 39.3621],
     coordinates: { lat: 39.3621, lng: 22.9432 },
     description: {
@@ -76,11 +123,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Poarta către Muntele Pelion", "Renumit pentru tavernele cu tsipouro", "Port industrial important", "Locul de plecare al argonauților"],
       en: ["Gateway to Mount Pelion", "Famous for its Tsipouradika taverns", "Significant industrial port", "Legendary home of Jason and the Argonauts"],
     },
-    imageHint: "Volos port promenade and Pagasetic Gulf", image: "/poi-images/greece-volos-cities-v2.webp"},
-  {
+imageHint: "Volos port promenade and Pagasetic Gulf",
+    descriptionAdvanced: {
+      de: "Volos ist eine bedeutende Hafenstadt am Pagasitischen Golf am Fuße des Pilion-Gebirges. Die Stadt ist bekannt für ihre Tsipouradika-Lokale und als Ausgangspunkt der Argonautensage.",
+      hu: "Volosz a Pagaszitikosz-öböl partján, a Pelion-hegység lábánál fekvő kikötőváros. Híres a tradicionális cipurádika éttermeiről és az argonauták legendás indulási helyszínéről.",
+      ro: "Volos este un oraș portuar pitoresc situat la poalele Muntelui Pelion, pe Golful Pagasetic. Este faimos pentru gastronomia locală de tip \"tsipouradika\" și ca port de plecare al argonauților.",
+      en: "Volos is a major port city located at the foot of Mount Pelion on the Pagasetic Gulf. It is renowned for its traditional tsipouradika eateries and its links to the legend of Jason.",
+    },
+    factsAdvanced: {
+      de: ["Der moderne Hafen von Volos wurde Mitte des 19. Jahrhunderts gegründet.", "Es gibt über 600 traditionelle Tsipouradika-Lokale in der Stadt.", "Das Archäologische Museum von Volos wurde im Jahr 1909 gegründet.", "Die Pilion-Bahn hat eine seltene Spurweite von nur 600 Millimetern."],
+      hu: ["A modern voloszi kikötőt a 19. század közepén hozták létre.", "A városban több mint 600 tradicionális cipurádika étterem található.", "A Voloszi Régészeti Múzeumot 1909-ben nyitották meg a nagyközönség előtt.", "A Pelion-vasút nyomtávja mindössze 600 milliméter, ami ritkaságnak számít."],
+      ro: ["Portul modern din Volos a fost înființat la mijlocul secolului al XIX-lea.", "Orașul găzduiește peste 600 de localuri tradiționale de tip tsipouradika.", "Muzeul Arheologic din Volos a fost fondat în anul 1909.", "Calea ferată din Pelion are un ecartament îngust de doar 600 mm."],
+      en: ["The modern port of Volos was officially established in the mid-19th century.", "There are over 600 traditional tsipouradika eateries across the city.", "The Archaeological Museum of Volos was founded in 1909.", "The famous Pelion railway uses a very narrow 600mm track gauge."],
+    },
+    image: "/poi-images/greece-volos-cities-v2.webp",
+},  {
     id: "greece-ioannina-cities-v2",
     type: "city",
-    name: { de: "Ioannina", hu: "Joánina", ro: "Ioannina", en: "Ioannina" },
+    name: { de: "Ioannina", hu: "Joánina", ro: "Ioannina", en: "Ioannina",
+image: "/poi-images/greece-ioannina-cities-v2.webp"
+},
     coords: [20.8537, 39.665],
     coordinates: { lat: 39.665, lng: 20.8537 },
     description: {
@@ -95,11 +157,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Situat pe malul lacului Pamvotis", "Centru faimos pentru argintărie", "Are o insulă locuită pe lac", "Cetatea Kastro din secolul VI"],
       en: ["Located on the banks of Lake Pamvotis", "Famous center for silver craftsmanship", "Features an inhabited island in the lake", "Home to a well-preserved historic castle"],
     },
-    imageHint: "Ioannina lakefront and castle walls", image: "/poi-images/greece-ioannina-cities-v2.webp"},
-  {
+imageHint: "Ioannina lakefront and castle walls",
+    descriptionAdvanced: {
+      de: "Ioannina liegt am Pamvotida-See in Epirus und war einst das Zentrum von Ali Pascha. Die Stadt ist für ihre Silberschmiedekunst, die historische Burg und die Insel im See berühmt.",
+      hu: "Joánina az Épeirosz régió központja, amely a Pamvótida-tó partján fekszik. Híres az ezüstművességéről, az oszmán kori várról és Ali pasa egykori uralkodásának emlékeiről.",
+      ro: "Ioannina este capitala regiunii Epir, așezată pe malul lacului Pamvotida. Orașul este celebru pentru prelucrarea argintului, cetatea sa istorică și moștenirea lăsată de Ali Pașa.",
+      en: "Ioannina is the capital of Epirus, beautifully situated on the shores of Lake Pamvotida. It is famous for its silver craftsmanship, Byzantine castle, and the legendary Ali Pasha.",
+    },
+    factsAdvanced: {
+      de: ["Der Pamvotida-See ist flach und hat eine Tiefe zwischen 3 und 11 Metern.", "Die Burg von Ioannina wurde ursprünglich im Jahr 527 n. Chr. errichtet.", "Die Tradition der Silberschmiedekunst besteht seit dem 15. Jahrhundert.", "Die Insel im See ist eine der wenigen bewohnten Binnenseeinseln ohne Namen."],
+      hu: ["A Pamvótida-tó átlagos mélysége mindössze 3 és 11 méter között mozog.", "A joáninai várat eredetileg 527-ben építtette Justinianus császár.", "Az ezüstművesség helyi hagyománya egészen a 15. századig nyúlik vissza.", "A tavon található szigetnek nincs saját neve, egyszerűen csak Szigetnek hívják."],
+      ro: ["Lacul Pamvotida este relativ puțin adânc, având între 3 și 11 metri.", "Cetatea din Ioannina a fost construită inițial în anul 527 d.Hr.", "Tradiția prelucrării argintului în oraș datează din secolul al XV-lea.", "Insula de pe lac este una dintre puținele insule lacustre locuite din Grecia."],
+      en: ["Lake Pamvotida is shallow, with depths ranging from 3 to 11 meters.", "The Castle of Ioannina was originally established in 527 AD.", "The city's silversmithing tradition has flourished since the 15th century.", "The island in the lake is one of the few inhabited lake islands without a name."],
+    },
+    image: "/poi-images/greece-ioannina-cities-v2.webp",
+},  {
     id: "greece-trikala-cities-v2",
     type: "city",
-    name: { de: "Trikala", hu: "Tríkala", ro: "Trikala", en: "Trikala" },
+    name: { de: "Trikala", hu: "Tríkala", ro: "Trikala", en: "Trikala",
+image: "/poi-images/greece-trikala-cities-v2.webp"
+},
     coords: [21.7679, 39.5557],
     coordinates: { lat: 39.5557, lng: 21.7679 },
     description: {
@@ -114,11 +191,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Primul oraș digital din Grecia", "Poartă către Meteora", "Traversat de râul Lithaios", "Găzduiește Moscheea Kursum"],
       en: ["First smart city in Greece", "Close to the Meteora monasteries", "Bisected by the Lithaios River", "Features the historic Kursum Mosque"],
     },
-    imageHint: "Trikala river Lithaios and central bridge", image: "/poi-images/greece-trikala-cities-v2.webp"},
-  {
+imageHint: "Trikala river Lithaios and central bridge",
+    descriptionAdvanced: {
+      de: "Trikala liegt in Thessalien und ist als erste \"Smart City\" Griechenlands bekannt. Die Stadt am Fluss Lithaios besticht durch ihr byzantinisches Kastell und das historische Viertel Varousi.",
+      hu: "Tríkala a Thesszáliai-síkság északnyugati részén fekszik a Lithéosz folyó partján. Modern okosvárosként ismert, de óvárosa és bizánci vára őrzi a település történelmi hangulatát.",
+      ro: "Trikala este un oraș modern din Tesalia, situat pe râul Lithaios, fiind primul \"Smart City\" din Grecia. Orașul păstrează un cartier vechi numit Varousi și o fortăreață bizantină.",
+      en: "Trikala is a dynamic city in Thessaly, known as Greece's first \"Smart City\". It is built along the Lithaios River and features a Byzantine castle and the scenic Varousi old district.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss Lithaios ist ein wichtiger Nebenfluss des Pineios.", "Die Koursoum-Moschee wurde im 16. Jahrhundert vom Architekten Sinan erbaut.", "Das byzantinische Kastell beherbergt einen markanten Uhrturm.", "Moderne Smart-City-Technologien wurden ab 2004 schrittweise eingeführt."],
+      hu: ["A várost átszelő Lithéosz folyó a Pineiosz egyik jelentős mellékfolyója.", "A Kurszum-mecsetet a híres oszmán építész, Szinán tervezte a 16. században.", "A bizánci vár egyik legfőbb látványossága a magas óratorony.", "Tríkala 2004-ben kezdte meg az okosváros-technológiák bevezetését."],
+      ro: ["Râul Lithaios este un afluent important al fluviului Pineios.", "Moscheea Koursoum a fost construită în secolul al XVI-lea de arhitectul Sinan.", "Cetatea bizantină din Trikala include un turn cu ceas emblematic.", "Tehnologiile de tip Smart City au fost introduse în premieră în 2004."],
+      en: ["The Lithaios River flowing through Trikala is a tributary of the Pineios.", "The Koursoum Mosque was designed by the famous architect Sinan in the 16th century.", "The Byzantine Castle features a distinctive Ottoman-era clock tower.", "Trikala introduced its first Smart City technologies in 2004."],
+    },
+    image: "/poi-images/greece-trikala-cities-v2.webp",
+},  {
     id: "greece-serres-cities-v2",
     type: "city",
-    name: { de: "Serres", hu: "Szerresz", ro: "Serres", en: "Serres" },
+    name: { de: "Serres", hu: "Szerresz", ro: "Serres", en: "Serres",
+image: "/poi-images/greece-serres-cities-v2.webp"
+},
     coords: [23.5476, 41.0849],
     coordinates: { lat: 41.0849, lng: 23.5476 },
     description: {
@@ -133,11 +225,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru comercial regional", "Faimos pentru plăcinta bougatsa", "Are un circuit de viteză moto", "Aproape de Parcul Național Kerkini"],
       en: ["Regional trade and business hub", "Famous for the Bougatsa pastry", "Home to a professional racing circuit", "Near Lake Kerkini National Park"],
     },
-    imageHint: "Serres city panorama with Koulas fortress", image: "/poi-images/greece-serres-cities-v2.webp"},
-  {
+imageHint: "Serres city panorama with Koulas fortress",
+    descriptionAdvanced: {
+      de: "Serres ist ein wichtiges Handelszentrum in Zentralmakedonien, umgeben von fruchtbaren Ebenen. Die Stadt ist bekannt für ihre traditionellen Teigwaren und die Ruinen der alten Akropolis.",
+      hu: "Szerresz Közép-Makedónia fontos mezőgazdasági és kereskedelmi városa. A települést a bizánci vár romjai és a környék híres gasztronómiai különlegességei teszik vonzóvá.",
+      ro: "Serres este un centru administrativ în Macedonia Centrală, situat într-o câmpie fertilă. Orașul este cunoscut pentru produsele de patiserie \"bougatsa\" și fortăreața bizantină Koulas.",
+      en: "Serres is a significant city in Central Macedonia, serving as a hub for trade and agriculture. It is famous for its bougatsa pastry and the medieval ruins of the Koulas fortress.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt Serres hat eine Bevölkerung von etwa 58.000 Einwohnern.", "Die Festung Koulas stammt ursprünglich aus dem 9. Jahrhundert.", "Jährlich findet in der Stadt ein bekanntes Bougatsa-Festival statt.", "Das Skizentrum Lailias liegt nur 26 Kilometer vom Stadtzentrum entfernt."],
+      hu: ["Szerresz városának lakossága megközelítőleg 58 000 fő.", "A Koulas-erőd falai eredetileg a 9. századból származnak.", "A városban minden évben megrendezik a híres Bugaca-fesztivált.", "A Lailiasz síközpont mindössze 26 kilométerre található a várostól."],
+      ro: ["Orașul Serres are o populație urbană de aproximativ 58.000 de locuitori.", "Fortăreața Koulas datează din secolul al IX-lea, fiind de origine bizantină.", "În oraș se organizează anual un festival dedicat plăcintei bougatsa.", "Centrul de schi Lailias este situat la o distanță de 26 km de oraș."],
+      en: ["The city of Serres has a population of approximately 58,000 residents.", "The Koulas fortress dates back to the 9th century Byzantine era.", "Serres hosts an annual festival celebrating its famous bougatsa pastry.", "The Lailias ski center is located just 26 kilometers from the city."],
+    },
+    image: "/poi-images/greece-serres-cities-v2.webp",
+},  {
     id: "greece-alexandroupoli-cities-v2",
     type: "port",
-    name: { de: "Alexandroupoli", hu: "Alexandrúpoli", ro: "Alexandroupoli", en: "Alexandroupoli" },
+    name: { de: "Alexandroupoli", hu: "Alexandrúpoli", ro: "Alexandroupoli", en: "Alexandroupoli",
+image: "/poi-images/greece-alexandroupoli-cities-v2.webp"
+},
     coords: [25.8739, 40.8476],
     coordinates: { lat: 40.8476, lng: 25.8739 },
     description: {
@@ -152,11 +259,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Port principal spre Samothraki", "Far istoric înalt de 27 de metri", "Poartă către Delta Evros", "Nod energetic strategic în Balcani"],
       en: ["Major port for Samothraki ferries", "Iconic 27-meter tall lighthouse", "Gateway to the Evros Delta", "Strategic energy hub for the region"],
     },
-    imageHint: "Alexandroupoli lighthouse at sunset", image: "/poi-images/greece-alexandroupoli-cities-v2.webp"},
-  {
+imageHint: "Alexandroupoli lighthouse at sunset",
+    descriptionAdvanced: {
+      de: "Alexandroupoli ist das Tor zum Nordosten Griechenlands und ein wichtiger Hafen nahe der Grenze zur Türkei. Das Wahrzeichen der Stadt ist der markante Leuchtturm am Ufer des Meeres.",
+      hu: "Alexandrúpoli az Északkelet-Görögország kapuja, fontos kikötőváros a török határ közelében. Legismertebb jelképe a tengerparti világítótorony, amely 1880 óta mutatja az utat.",
+      ro: "Alexandroupoli este poarta de est a Greciei, un port strategic situat aproape de granița cu Turcia. Simbolul orașului este farul maritim construit la sfârșitul secolului al XIX-lea.",
+      en: "Alexandroupoli is a strategic port city in northeastern Greece, near the Turkish border. Its most iconic landmark is the tall lighthouse that has dominated the coast since 1880.",
+    },
+    factsAdvanced: {
+      de: ["Der markante Leuchtturm der Stadt ist 27 Meter hoch.", "Die Stadt wurde im 19. Jahrhundert unter dem Namen Dedeagach gegründet.", "Der Nationalpark Evros-Delta liegt in unmittelbarer Nähe der Stadt.", "Der Hafen ist ein wichtiger Umschlagplatz für Schüttgut und Flüssigerdgas."],
+      hu: ["A város jelképének számító világítótorony magassága 27 méter.", "A települést a 19. században alapították Dedeagacs néven.", "Az Evrosz-delta Nemzeti Park közvetlenül a város szomszédságában található.", "Kikötője fontos központ az ömlesztett áruk és az LNG-szállítás számára."],
+      ro: ["Farul emblematic al orașului are o înălțime de 27 de metri.", "Orașul a fost fondat în secolul al XIX-lea sub numele de Dedeagaci.", "Parcul Național Delta Evros este situat în imediata apropiere a orașului.", "Portul este un nod important pentru transportul de mărfuri și GNL."],
+      en: ["The city's landmark lighthouse stands at a height of 27 meters.", "The town was founded in the 19th century under the name Dedeagach.", "The Evros Delta National Park is located very close to the city limits.", "The port serves as a key hub for bulk cargo and LNG infrastructure."],
+    },
+    image: "/poi-images/greece-alexandroupoli-cities-v2.webp",
+},  {
     id: "greece-xanthi-cities-v2",
     type: "city",
-    name: { de: "Xanthi", hu: "Xánthi", ro: "Xanthi", en: "Xanthi" },
+    name: { de: "Xanthi", hu: "Xánthi", ro: "Xanthi", en: "Xanthi",
+image: "/poi-images/greece-xanthi-cities-v2.webp"
+},
     coords: [24.888, 41.1349],
     coordinates: { lat: 41.1349, lng: 24.888 },
     description: {
@@ -171,11 +293,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Fost centru al comerțului cu tutun", "Centru Vechi cu arhitectură rară", "Găzduiește un carnaval faimos", "Poartă spre defileul râului Nestos"],
       en: ["Former center of the tobacco trade", "Preserved historic Old Town", "Famous for the annual Xanthi Carnival", "Gateway to the Nestos River valley"],
     },
-    imageHint: "Xanthi Old Town mansions and narrow streets", image: "/poi-images/greece-xanthi-cities-v2.webp"},
-  {
+imageHint: "Xanthi Old Town mansions and narrow streets",
+    descriptionAdvanced: {
+      de: "Xanthi liegt am Fuße der Rhodopen und ist für seine gut erhaltene Altstadt und den Tabakanbau bekannt. Die Stadt ist ein kultureller Schmelzpunkt mit einem berühmten Karneval.",
+      hu: "Xanthi a Rodopé-hegység lábánál fekszik, és híres a dohánytermesztéséről, valamint kiváló állapotban maradt óvárosáról. Évente megrendezett karneválja vonzza a látogatókat.",
+      ro: "Xanthi este situat la poalele Munților Rodopi, fiind renumit pentru cartierul său vechi conservat și pentru industria tutunului. Orașul găzduiește un festival de carnaval faimos.",
+      en: "Xanthi is nestled at the foot of the Rhodope Mountains, celebrated for its well-preserved Old Town and tobacco heritage. It is a cultural crossroads known for its grand carnival.",
+    },
+    factsAdvanced: {
+      de: ["Die Architektur der Altstadt stammt überwiegend aus dem 19. Jahrhundert.", "Der Karneval von Xanthi wurde erstmals im Jahr 1926 veranstaltet.", "Das Tabakmuseum dokumentiert die industrielle Geschichte der Region.", "Der Fluss Nestos fließt in der Nähe der Stadt durch eine spektakuläre Schlucht."],
+      hu: ["Az óváros építészeti öröksége nagyrészt a 19. századból származik.", "A xanthisi karnevált legelőször 1926-ban rendezték meg a városban.", "A helyi Dohánymúzeum a régió ipartörténeti emlékeit mutatja be.", "A Nesztosz folyó a város közelében halad át egy látványos szurdokon."],
+      ro: ["Arhitectura centrului vechi datează în mare parte din secolul al XIX-lea.", "Carnavalul din Xanthi a fost organizat pentru prima dată în anul 1926.", "Muzeul Tutunului prezintă istoria industrială și economică a regiunii.", "Râul Nestos curge în apropierea orașului printr-un defileu spectaculos."],
+      en: ["The Old Town architecture dates primarily from the 19th century.", "The Xanthi Carnival was officially established in the year 1926.", "The Tobacco Museum showcases the region's significant industrial history.", "The Nestos River flows nearby through a scenic and protected gorge."],
+    },
+    image: "/poi-images/greece-xanthi-cities-v2.webp",
+},  {
     id: "greece-kavala-cities-v2",
     type: "port",
-    name: { de: "Kavala", hu: "Kavála", ro: "Kavala", en: "Kavala" },
+    name: { de: "Kavala", hu: "Kavála", ro: "Kavala", en: "Kavala",
+image: "/poi-images/greece-kavala-cities-v2.webp"
+},
     coords: [24.4069, 40.9396],
     coordinates: { lat: 40.9396, lng: 24.4069 },
     description: {
@@ -190,11 +327,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Deține apeductul istoric Kamares", "Centru vechi situat în cartierul Panagia", "Port important pentru pescuit", "Aproape de situl UNESCO Philippi"],
       en: ["Features the massive Kamares Aqueduct", "Historic Panagia district with castle", "Significant commercial and fishing port", "Located near the ancient site of Philippi"],
     },
-    imageHint: "Kavala Ottoman aqueduct Kamares", image: "/poi-images/greece-kavala-cities-v2.webp"},
-  {
+imageHint: "Kavala Ottoman aqueduct Kamares",
+    descriptionAdvanced: {
+      de: "Kavala ist eine terrassenförmig angelegte Hafenstadt am Golf von Thasos. Sie besticht durch ihr imposantes Aquädukt, die osmanische Architektur und die byzantinische Festung.",
+      hu: "Kavála egy amfiteátrumszerűen épült kikötőváros az Égei-tenger északi partján. Híres a Kamaresz vízvezetékről, a várról és a város felett magasodó Panagia óvárosról.",
+      ro: "Kavala este un oraș portuar spectaculos, construit în amfiteatru pe malul Mării Egee. Este renumit pentru apeductul Kamares, cetatea bizantină și centrul vechi de pe peninsula Panagia.",
+      en: "Kavala is a stunning port city built amphitheatrically overlooking the northern Aegean Sea. It features a massive Ottoman aqueduct, a Byzantine castle, and narrow historic streets.",
+    },
+    factsAdvanced: {
+      de: ["Das Kamares-Aquädukt hat eine beeindruckende Gesamtlänge von 280 Metern.", "Das Imaret wurde im Jahr 1817 als religiöse und soziale Einrichtung erbaut.", "Die antike Stätte Philippi liegt nur 15 Kilometer westlich der Stadt.", "Der Hafen wurde bereits im 7. Jahrhundert v. Chr. als Neapolis gegründet."],
+      hu: ["A Kamaresz vízvezeték lenyűgöző hossza összesen 280 méter.", "Az Imaret épületkomplexumát 1817-ben emelték vallási célokra.", "Philippi ókori romvárosa mindössze 15 kilométerre fekszik a várostól.", "A kikötőt az i. e. 7. században alapították Neapolisz néven."],
+      ro: ["Apeductul Kamares are o lungime totală impresionantă de 280 de metri.", "Imaretul a fost construit în anul 1817 ca instituție caritabilă și de învățământ.", "Situl antic Filippi este situat la doar 15 km spre vest de Kavala.", "Portul a fost fondat în secolul al VII-lea î.Hr. sub numele de Neapolis."],
+      en: ["The Kamares aqueduct has a total length of 280 meters.", "The Imaret was built in 1817 as a religious and educational complex.", "The ancient archaeological site of Philippi is located 15 km away.", "The port was founded in the 7th century BC as Neapolis."],
+    },
+    image: "/poi-images/greece-kavala-cities-v2.webp",
+},  {
     id: "greece-veria-cities-v2",
     type: "city",
-    name: { de: "Veria", hu: "Véroia", ro: "Veria", en: "Veria" },
+    name: { de: "Veria", hu: "Véroia", ro: "Veria", en: "Veria",
+image: "/poi-images/greece-veria-cities-v2.webp"
+},
     coords: [22.2045, 40.5204],
     coordinates: { lat: 40.5204, lng: 22.2045 },
     description: {
@@ -209,11 +361,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Are peste 40 de biserici bizantine", "Loc unde a predicat Sfântul Pavel", "Cartier evreiesc istoric Barbouta", "Lângă situl arheologic Vergina"],
       en: ["Home to over 40 Byzantine churches", "Site of Saint Paul's preachings", "Contains the Barbouta Jewish quarter", "Near the Royal Tombs of Vergina"],
     },
-    imageHint: "Veria Saint Paul's Altar monument", image: "/poi-images/greece-veria-cities-v2.webp"},
-  {
+imageHint: "Veria Saint Paul's Altar monument",
+    descriptionAdvanced: {
+      de: "Veria ist eine geschichtsträchtige Stadt in Zentralmakedonien, bekannt für ihre zahlreichen byzantinischen Kirchen und das jüdische Viertel Barbouta am Ufer des Flusses Tripotamos.",
+      hu: "Veria Közép-Makedónia egyik legősibb városa, amely számos bizánci templomáról és a Tripotamosz folyó mentén fekvő zsidó negyedéről, a Barboutáról híres.",
+      ro: "Veria este un oraș istoric din Macedonia Centrală, faimos pentru zeci de biserici bizantine și cartierul evreiesc Barbouta. Orașul a fost un centru religios important în antichitate.",
+      en: "Veria is a historic city in Central Macedonia, renowned for its dozens of Byzantine churches and the Barbouta Jewish quarter. It sits on the slopes of Mount Vermio.",
+    },
+    factsAdvanced: {
+      de: ["In der Stadt sind über 48 byzantinische Kirchen bis heute erhalten geblieben.", "Der Apostel Paulus predigte im Jahr 50 n. Chr. in den Straßen von Veria.", "Das Viertel Barbouta hat seine Wurzeln in der römischen Epoche.", "Die berühmte Ausgrabungsstätte Vergina liegt nur 12 Kilometer entfernt."],
+      hu: ["A városban napjainkban is több mint 48 bizánci templom maradt fenn.", "Pál apostol i. sz. 50 körül látogatott el a városba és prédikált itt.", "A Barbouta negyed eredete egészen a római korig vezethető vissza.", "Vergina (Aigai) híres királysírjai mindössze 12 kilométerre fekszenek."],
+      ro: ["Peste 48 de biserici bizantine și post-bizantine s-au păstrat în oraș.", "Apostolul Pavel a predicat în Veria în jurul anului 50 d.Hr.", "Cartierul Barbouta are rădăcini care coboară până în perioada romană.", "Situl arheologic Vergina (Aigai) se află la o distanță de 12 km."],
+      en: ["More than 48 Byzantine and post-Byzantine churches survive in the city today.", "Apostle Paul preached in the streets of Veria around 50 AD.", "The Barbouta Jewish quarter has roots dating back to the Roman era.", "The UNESCO site of Vergina (Aigai) is located just 12 km from the city."],
+    },
+    image: "/poi-images/greece-veria-cities-v2.webp",
+},  {
     id: "greece-rhodes-cities-v2",
     type: "capital",
-    name: { de: "Rhodos-Stadt", hu: "Rodosz város", ro: "Orașul Rodos", en: "Rhodes Town" },
+    name: { de: "Rhodos-Stadt", hu: "Rodosz város", ro: "Orașul Rodos", en: "Rhodes Town",
+image: "/poi-images/greece-rhodes-cities-v2.webp"
+},
     coords: [28.222, 36.4452],
     coordinates: { lat: 36.4452, lng: 28.222 },
     description: {
@@ -228,11 +395,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Oraș vechi inclus în UNESCO", "Găzduiește Palatul Marilor Maeștri", "Locul probabil al Colosului din Rodos", "Ziduri medievale impresionante"],
       en: ["UNESCO World Heritage medieval city", "Site of the Palace of the Grand Master", "Legendary location of the Colossus", "Surrounded by massive medieval walls"],
     },
-    imageHint: "Rhodes Palace of the Grand Master", image: "/poi-images/greece-rhodes-cities-v2.webp"},
-  {
+imageHint: "Rhodes Palace of the Grand Master",
+    descriptionAdvanced: {
+      de: "Die Stadt Rhodos beherbergt eine der am besten erhaltenen mittelalterlichen Siedlungen Europas. Der Großmeisterpalast und die Ritterstraße zeugen von der Zeit des Johanniterordens.",
+      hu: "Rodosz városa Európa egyik legjobb állapotban fennmaradt középkori települése. A Nagymesteri Palota és a Lovagok utcája a Johannita lovagrend örökségét őrzi a falak között.",
+      ro: "Orașul Rodos găzduiește una dintre cele mai bine conservate cetăți medievale din Europa. Palatul Marilor Maeștri și Strada Cavalerilor sunt simboluri ale Ordinului Ioaniților.",
+      en: "Rhodes Town features one of the best-preserved medieval settlements in Europe. The Palace of the Grand Master and the Street of the Knights reflect the legacy of the Crusader knights.",
+    },
+    factsAdvanced: {
+      de: ["Die mittelalterliche Altstadt ist seit 1988 UNESCO-Weltkulturerbe.", "Die massiven Stadtmauern haben eine Gesamtlänge von etwa 4 Kilometern.", "Der Großmeisterpalast wurde in den 1930er Jahren umfassend rekonstruiert.", "Der antike Koloss von Rhodos war ursprünglich etwa 33 Meter hoch."],
+      hu: ["A középkori óváros 1988 óta az UNESCO Világörökség részét képezi.", "A várost övező monumentális falak hossza összesen 4 kilométer.", "A Nagymesteri Palotát az 1930-as években jelentősen újjáépítették.", "Az ókori Rodoszi Kolosszus magassága körülbelül 33 méter volt."],
+      ro: ["Centrul medieval al orașului este sit UNESCO din anul 1988.", "Zidurile masive de apărare ale cetății au o lungime de 4 kilometri.", "Palatul Marilor Maeștri a fost reconstruit substanțial în anii 1930.", "Colosul din Rodos, minune a lumii antice, avea o înălțime de 33 de metri."],
+      en: ["The medieval city has been a UNESCO World Heritage site since 1988.", "The impressive fortification walls have a total length of 4 kilometers.", "The Palace of the Grand Master was extensively rebuilt in the 1930s.", "The ancient Colossus of Rhodes was approximately 33 meters tall."],
+    },
+    image: "/poi-images/greece-rhodes-cities-v2.webp",
+},  {
     id: "greece-agrinio-cities-v2",
     type: "city",
-    name: { de: "Agrinio", hu: "Agrínio", ro: "Agrinio", en: "Agrinio" },
+    name: { de: "Agrinio", hu: "Agrínio", ro: "Agrinio", en: "Agrinio",
+image: "/poi-images/greece-agrinio-cities-v2.webp"
+},
     coords: [21.4087, 38.6251],
     coordinates: { lat: 38.6251, lng: 21.4087 },
     description: {
@@ -247,11 +429,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din unitate", "Fost centru al industriei tutunului", "Lângă cel mai mare lac natural (Trichonida)", "Oraș modern cu rădăcini antice"],
       en: ["Largest city in its prefecture", "Historic hub for tobacco production", "Close to Lake Trichonida", "Modern urban and commercial center"],
     },
-    imageHint: "Agrinio central square and public buildings", image: "/poi-images/greece-agrinio-cities-v2.webp"},
-  {
+imageHint: "Agrinio central square and public buildings",
+    descriptionAdvanced: {
+      de: "Agrinio ist das wirtschaftliche Zentrum von Ätolien-Akarnanien und war historisch für den Tabakanbau bedeutend. Die Stadt liegt in der Nähe des Trichonida-Sees, dem größten See des Landes.",
+      hu: "Agrinio Aitólia-Akarnania régió legnagyobb városa és gazdasági központja. A település múltja szorosan összefonódott a dohánytermesztéssel és a közeli Trihonida-tó ökoszisztémájával.",
+      ro: "Agrinio este cel mai mare oraș din regiunea Etolia-Acarnania, fiind istoric un centru major al producției de tutun. Se află în apropierea lacului Trichonida, cel mai mare din Grecia.",
+      en: "Agrinio is the economic heart of Aetolia-Acarnania, historically famous for its flourishing tobacco industry. It is located near Lake Trichonida, the largest natural lake in Greece.",
+    },
+    factsAdvanced: {
+      de: ["Der nahegelegene Trichonida-See hat eine Fläche von etwa 96 km2.", "Alte Tabaklagerhäuser prägen bis heute das architektonische Bild der Stadt.", "Die gesamte Gemeinde Agrinio hat eine Bevölkerung von etwa 94.000 Menschen.", "Die Stadt wurde in der Nähe des antiken Agrinium neu gegründet."],
+      hu: ["A közeli Trihonida-tó felszíne megközelítőleg 96 négyzetkilométer.", "A régi dohányraktárak ma is a város építészeti örökségének részei.", "Agrinio önkormányzati területén körülbelül 94 000 ember él.", "A modern várost az ókori Agrinium romjainak közelében alapították."],
+      ro: ["Lacul Trichonida din apropiere are o suprafață de circa 96 km pătrați.", "Vechile depozite de tutun sunt puncte de reper arhitecturale ale orașului.", "Municipalitatea Agrinio are o populație de aproximativ 94.000 de locuitori.", "Orașul a fost refondat în apropierea sitului anticului Agrinium."],
+      en: ["Nearby Lake Trichonida has a surface area of approximately 96 km2.", "Historic tobacco warehouses remain iconic landmarks of the city center.", "The municipality of Agrinio has a population of around 94,000 people.", "The modern city was established near the site of ancient Agrinium."],
+    },
+    image: "/poi-images/greece-agrinio-cities-v2.webp",
+},  {
     id: "greece-katerini-cities-v2",
     type: "city",
-    name: { de: "Katerini", hu: "Kateríni", ro: "Katerini", en: "Katerini" },
+    name: { de: "Katerini", hu: "Kateríni", ro: "Katerini", en: "Katerini",
+image: "/poi-images/greece-katerini-cities-v2.webp"
+},
     coords: [22.5061, 40.2696],
     coordinates: { lat: 40.2696, lng: 22.5061 },
     description: {
@@ -266,11 +463,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala unității Pieria", "Situat la baza Muntelui Olimp", "Aproape de stațiunea Paralia", "Centru agricol și turistic"],
       en: ["Capital of the Pieria region", "Situated at the base of Mt. Olympus", "Near the beaches of Paralia", "Important agricultural and transit center"],
     },
-    imageHint: "Katerini city park and Olympus in background", image: "/poi-images/greece-katerini-cities-v2.webp"},
-  {
+imageHint: "Katerini city park and Olympus in background",
+    descriptionAdvanced: {
+      de: "Katerini liegt in der Ebene von Pieria zwischen dem Thermaischen Golf und dem Olymp. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und ein Tor zur beliebten olympischen Riviera.",
+      hu: "Katerini a Pieriai-síkságon fekszik, az Olümposz-hegység és a Thermai-öböl között. Fontos kereskedelmi központ, és az \"olümposzi riviéra\" strandjainak fő kiszolgáló városa.",
+      ro: "Katerini este situat în câmpia Pieria, între Muntele Olimp și Golful Thermaic. Orașul este un nod de transport vital și poarta de acces către stațiunile de pe Riviera Olimpului.",
+      en: "Katerini is situated in the Pierian plain, between Mount Olympus and the Thermaic Gulf. It serves as a major transport hub and the gateway to the popular Olympic Riviera beaches.",
+    },
+    factsAdvanced: {
+      de: ["Die Entfernung zum Gipfel des Olymps beträgt nur etwa 20 Kilometer.", "Der beliebte Strand von Paralia liegt nur 6 Kilometer vom Zentrum entfernt.", "Katerini wurde in seiner heutigen Form im späten 19. Jahrhundert gefestigt.", "Die Stadt hat eine Bevölkerung von ungefähr 85.000 Einwohnern."],
+      hu: ["Az Olümposz-hegység csúcsai mindössze 20 kilométerre találhatók.", "Paralia népszerű tengerparti strandja csupán 6 kilométerre fekszik.", "Katerini városa jelenlegi formájában a 19. század végén alakult ki.", "A város lakossága napjainkban megközelítőleg 85 000 fő."],
+      ro: ["Distanța până la poalele Muntelui Olimp este de aproximativ 20 km.", "Plaja populară din Paralia se află la doar 6 km de centrul orașului.", "Orașul modern Katerini s-a consolidat la sfârșitul secolului al XIX-lea.", "Populația orașului este de aproximativ 85.000 de locuitori."],
+      en: ["The distance from the city to Mount Olympus is approximately 20 kilometers.", "The popular beach resort of Paralia is located 6 kilometers from the center.", "Katerini was established in its modern form during the late 19th century.", "The city has a total population of approximately 85,000 residents."],
+    },
+    image: "/poi-images/greece-katerini-cities-v2.webp",
+},  {
     id: "greece-chania-cities-v2",
     type: "city",
-    name: { de: "Chania", hu: "Haniá", ro: "Chania", en: "Chania" },
+    name: { de: "Chania", hu: "Haniá", ro: "Chania", en: "Chania",
+image: "/poi-images/greece-chania-cities-v2.webp"
+},
     coords: [24.018, 35.5138],
     coordinates: { lat: 35.5138, lng: 24.018 },
     description: {
@@ -285,11 +497,26 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Port venețian spectaculos", "Fostă capitală a Cretei", "Far istoric la intrarea în port", "Piață centrală acoperită celebră"],
       en: ["Famous for its Venetian harbor", "Former capital of Crete", "Features an iconic lighthouse", "Home to a historic cross-shaped market"],
     },
-    imageHint: "Chania Venetian harbor and lighthouse", image: "/poi-images/greece-chania-cities-v2.webp"},
-  {
+imageHint: "Chania Venetian harbor and lighthouse",
+    descriptionAdvanced: {
+      de: "Chania besticht durch seinen malerischen venezianischen Hafen und die verwinkelten Gassen der Altstadt. Die Stadt auf Kreta vereint minoische, venezianische und osmanische Einflüsse.",
+      hu: "Haniá Kréta egyik legszebb városa, amely híres a velencei kikötőjéről és a világítótornyáról. Az óvárosban egymást érik a velencei paloták és az oszmán kori emlékek.",
+      ro: "Chania este renumit pentru portul său venețian pitoresc și farul iconic. Orașul din vestul Cretei îmbină armonios arhitectura venețiană, otomană și elemente bizantine.",
+      en: "Chania is famous for its stunning Venetian harbor, lighthouse, and the narrow alleys of its Old Town. It preserves a unique mix of Minoan, Venetian, and Ottoman architectural styles.",
+    },
+    factsAdvanced: {
+      de: ["Der venezianische Leuchtturm wurde ursprünglich um 1595 erbaut.", "Das Schifffahrtsmuseum von Kreta wurde im Jahr 1973 eröffnet.", "Die Markthalle (Agora) der Stadt wurde im Jahr 1913 eingeweiht.", "Die berühmte Samaria-Schlucht liegt etwa 40 Kilometer von Chania entfernt."],
+      hu: ["A velencei világítótorony eredeti formájában 1595 körül épült.", "Kréta Tengerészeti Múzeumát 1973-ban alapították a kikötőben.", "A városi piac (Agora) épületét 1913-ban adták át a forgalomnak.", "A híres Szamaria-szurdok bejárata 40 kilométerre található a várostól."],
+      ro: ["Farul venețian a fost construit inițial în jurul anului 1595.", "Muzeul Maritim al Cretei a fost inaugurat oficial în anul 1973.", "Piața Municipală (Agora) din Chania a fost deschisă în anul 1913.", "Defileul Samaria este situat la o distanță de 40 km de oraș."],
+      en: ["The iconic Venetian lighthouse was originally constructed around 1595.", "The Maritime Museum of Crete was established in the harbor in 1973.", "The Municipal Market (Agora) of Chania was inaugurated in 1913.", "The famous Samaria Gorge is located 40 kilometers from the city center."],
+    },
+    image: "/poi-images/greece-chania-cities-v2.webp",
+},  {
     id: "greece-kalamata-cities-v2",
     type: "port",
-    name: { de: "Kalamata", hu: "Kalamáta", ro: "Kalamata", en: "Kalamata" },
+    name: { de: "Kalamata", hu: "Kalamáta", ro: "Kalamata", en: "Kalamata",
+image: "/poi-images/greece-kalamata-cities-v2.webp"
+},
     coords: [22.1125, 37.0391],
     coordinates: { lat: 37.0391, lng: 22.1125 },
     description: {
@@ -304,11 +531,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Faimos pentru măslinele Kalamata", "Deține un castel franc din secolul XIII", "Port principal în sudul Peloponezului", "Gazdă a unui festival de dans"],
       en: ["World-famous for Kalamata olives", "Features a 13th-century Frankish castle", "Main port for the Messenia region", "Host of an international dance festival"],
     },
-    imageHint: "Kalamata castle and city view", image: "/poi-images/greece-kalamata-cities-v2.webp"},
+    imageHint: "Kalamata castle and city view",
+    image: "/poi-images/greece-kalamata-cities-v2.webp"},
   {
     id: "greece-rethymno-cities-v2",
     type: "city",
-    name: { de: "Rethymno", hu: "Réthimno", ro: "Rethymno", en: "Rethymno" },
+    name: { de: "Rethymno", hu: "Réthimno", ro: "Rethymno", en: "Rethymno",
+image: "/poi-images/greece-rethymno-cities-v2.webp"
+},
     coords: [24.4748, 35.3678],
     coordinates: { lat: 35.3678, lng: 24.4748 },
     description: {
@@ -323,11 +553,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Găzduiește cetatea Fortezza", "Port venețian pitoresc", "Centru universitar important", "Arhitectură de influență venețiană"],
       en: ["Home to the Venetian Fortezza", "Features a picturesque Venetian harbor", "A major seat of the University of Crete", "Known for its Renaissance architecture"],
     },
-    imageHint: "Rethymno Fortezza fortress and city wall", image: "/poi-images/greece-rethymno-cities-v2.webp"},
+    imageHint: "Rethymno Fortezza fortress and city wall",
+    image: "/poi-images/greece-rethymno-cities-v2.webp"},
   {
     id: "greece-kozani-cities-v2",
     type: "city",
-    name: { de: "Kozani", hu: "Kozáni", ro: "Kozani", en: "Kozani" },
+    name: { de: "Kozani", hu: "Kozáni", ro: "Kozani", en: "Kozani",
+image: "/poi-images/greece-kozani-cities-v2.webp"
+},
     coords: [21.7885, 40.3006],
     coordinates: { lat: 40.3006, lng: 21.7885 },
     description: {
@@ -342,11 +575,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru mondial pentru șofran", "A doua bibliotecă din Grecia", "Inima energetică a țării", "Cunoscut pentru carnavalul local"],
       en: ["Global center for saffron production", "Home to the second-largest library in Greece", "Strategic center for energy production", "Known for its unique carnival customs"],
     },
-    imageHint: "Kozani clock tower in central square", image: "/poi-images/greece-kozani-cities-v2.webp"},
+    imageHint: "Kozani clock tower in central square",
+    image: "/poi-images/greece-kozani-cities-v2.webp"},
   {
     id: "greece-komotini-cities-v2",
     type: "city",
-    name: { de: "Komotini", hu: "Komotiní", ro: "Komotini", en: "Komotini" },
+    name: { de: "Komotini", hu: "Komotiní", ro: "Komotini", en: "Komotini",
+image: "/poi-images/greece-komotini-cities-v2.webp"
+},
     coords: [25.4053, 41.1189],
     coordinates: { lat: 41.1189, lng: 25.4053 },
     description: {
@@ -361,11 +597,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru administrativ multicultural", "Are un turn cu ceas otoman", "Găzduiește Universitatea Democritus", "Faimos pentru cafea și dulciuri"],
       en: ["Multicultural administrative hub", "Features a historic Ottoman clock tower", "Main campus of Democritus University", "Famous for its traditional roasted chickpeas"],
     },
-    imageHint: "Komotini Ottoman clock tower", image: "/poi-images/greece-komotini-cities-v2.webp"},
+    imageHint: "Komotini Ottoman clock tower",
+    image: "/poi-images/greece-komotini-cities-v2.webp"},
   {
     id: "greece-corfu-town-cities-v2",
     type: "capital",
-    name: { de: "Korfu-Stadt", hu: "Korfu város", ro: "Orașul Corfu", en: "Corfu Town" },
+    name: { de: "Korfu-Stadt", hu: "Korfu város", ro: "Orașul Corfu", en: "Corfu Town",
+image: "/poi-images/greece-corfu-town-cities-v2.webp"
+},
     coords: [19.9217, 39.6243],
     coordinates: { lat: 39.6243, lng: 19.9217 },
     description: {
@@ -380,11 +619,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Oraș vechi inclus în UNESCO", "Are două cetăți venețiene", "Promenada Liston în stil francez", "Influențe britanice și venețiene"],
       en: ["UNESCO World Heritage historic center", "Features two massive Venetian fortresses", "Elegant Liston square and promenade", "Home to the Ionian University"],
     },
-    imageHint: "Corfu Old Town and Old Fortress", image: "/poi-images/greece-corfu-town-cities-v2.webp"},
+    imageHint: "Corfu Old Town and Old Fortress",
+    image: "/poi-images/greece-corfu-town-cities-v2.webp"},
   {
     id: "greece-sparta-cities-v2",
     type: "city",
-    name: { de: "Sparta", hu: "Spárta", ro: "Sparta", en: "Sparta" },
+    name: { de: "Sparta", hu: "Spárta", ro: "Sparta", en: "Sparta",
+image: "/poi-images/greece-sparta-cities-v2.webp"
+},
     coords: [22.4303, 37.0734],
     coordinates: { lat: 37.0734, lng: 22.4303 },
     description: {
@@ -399,11 +641,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala regiunii Laconia", "Situat lângă ruinele Spartei antice", "Găzduiește Muzeul Măslinelor", "Poartă spre orașul bizantin Mystras"],
       en: ["Capital of the Laconia region", "Located near the ruins of ancient Sparta", "Home to the Museum of the Olive", "Gateway to the Byzantine city of Mystras"],
     },
-    imageHint: "Sparta statue of King Leonidas", image: "/poi-images/greece-sparta-cities-v2.webp"},
+    imageHint: "Sparta statue of King Leonidas",
+    image: "/poi-images/greece-sparta-cities-v2.webp"},
   {
     id: "greece-edessa-cities-v2",
     type: "city",
-    name: { de: "Edessa", hu: "Édessza", ro: "Edessa", en: "Edessa" },
+    name: { de: "Edessa", hu: "Édessza", ro: "Edessa", en: "Edessa",
+image: "/poi-images/greece-edessa-cities-v2.webp"
+},
     coords: [22.0469, 40.8016],
     coordinates: { lat: 40.8016, lng: 22.0469 },
     description: {
@@ -418,11 +663,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Supranumit Orașul Apelor", "Cascada Karanos are 70m înălțime", "Cartier istoric Varosi", "Situat pe o stâncă panoramică"],
       en: ["Known as the City of Water", "The Karanos waterfall drops 70 meters", "Historic Varosi district with old houses", "Built on the edge of a plateau"],
     },
-    imageHint: "Edessa waterfall Karanos", image: "/poi-images/greece-edessa-cities-v2.webp"},
+    imageHint: "Edessa waterfall Karanos",
+    image: "/poi-images/greece-edessa-cities-v2.webp"},
   {
     id: "greece-florina-cities-v2",
     type: "city",
-    name: { de: "Florina", hu: "Flórina", ro: "Florina", en: "Florina" },
+    name: { de: "Florina", hu: "Flórina", ro: "Florina", en: "Florina",
+image: "/poi-images/greece-florina-cities-v2.webp"
+},
     coords: [21.4098, 40.7819],
     coordinates: { lat: 40.7819, lng: 21.4098 },
     description: {
@@ -437,11 +685,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Traversat de râul Sakoulevas", "Renumit pentru ardeii de Florina", "Unul dintre cele mai reci orașe elene", "Aproape de lacurile Prespa"],
       en: ["Situated along the Sakoulevas River", "Famous for its Florina red peppers", "One of the coldest cities in Greece", "Gateway to the Prespa Lakes"],
     },
-    imageHint: "Florina neoclassical houses along the river", image: "/poi-images/greece-florina-cities-v2.webp"},
+    imageHint: "Florina neoclassical houses along the river",
+    image: "/poi-images/greece-florina-cities-v2.webp"},
   {
     id: "greece-kastoria-cities-v2",
     type: "city",
-    name: { de: "Kastoria", hu: "Kasztoriá", ro: "Kastoria", en: "Kastoria" },
+    name: { de: "Kastoria", hu: "Kasztoriá", ro: "Kastoria", en: "Kastoria",
+image: "/poi-images/greece-kastoria-cities-v2.webp"
+},
     coords: [21.2684, 40.5186],
     coordinates: { lat: 40.5186, lng: 21.2684 },
     description: {
@@ -456,11 +707,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Situat pe malul lacului Orestiada", "Centru istoric al blănăriei", "Peste 70 de biserici medievale", "Deține Peștera Dragonului"],
       en: ["Built on a peninsula in Lake Orestiada", "Traditional hub for the fur industry", "Home to more than 70 Byzantine churches", "Features the scenic Dragon's Cave"],
     },
-    imageHint: "Kastoria lakefront and Byzantine church", image: "/poi-images/greece-kastoria-cities-v2.webp"},
+    imageHint: "Kastoria lakefront and Byzantine church",
+    image: "/poi-images/greece-kastoria-cities-v2.webp"},
   {
     id: "greece-grevena-cities-v2",
     type: "city",
-    name: { de: "Grevena", hu: "Grevená", ro: "Grevena", en: "Grevena" },
+    name: { de: "Grevena", hu: "Grevená", ro: "Grevena", en: "Grevena",
+image: "/poi-images/greece-grevena-cities-v2.webp"
+},
     coords: [21.4277, 40.0845],
     coordinates: { lat: 40.0845, lng: 21.4277 },
     description: {
@@ -475,11 +729,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala ciupercilor din Grecia", "Lângă Parcul Național Pind", "Centru pentru ecoturism", "Regiune cu poduri vechi din piatră"],
       en: ["Mushroom capital of Greece", "Gateway to the Pindos National Park", "Center for ecotourism and hiking", "Region famous for historic stone bridges"],
     },
-    imageHint: "Grevena mushroom monument in park", image: "/poi-images/greece-grevena-cities-v2.webp"},
+    imageHint: "Grevena mushroom monument in park",
+    image: "/poi-images/greece-grevena-cities-v2.webp"},
   {
     id: "greece-nafplio-cities-v2",
     type: "capital",
-    name: { de: "Nafplio", hu: "Návplio", ro: "Nafplio", en: "Nafplio" },
+    name: { de: "Nafplio", hu: "Návplio", ro: "Nafplio", en: "Nafplio",
+image: "/poi-images/greece-nafplio-cities-v2.webp"
+},
     coords: [22.8016, 37.5673],
     coordinates: { lat: 37.5673, lng: 22.8016 },
     description: {
@@ -494,11 +751,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Prima capitală a Greciei (1829)", "Cetatea Palamidi are 999 trepte", "Castelul Bourtzi situat pe insulă", "Arhitectură neoclasică rafinată"],
       en: ["First capital of modern Greece (1829)", "Palamidi fortress with 999 steps", "Bourtzi island castle in the bay", "Elegant neoclassical historic center"],
     },
-    imageHint: "Nafplio Palamidi fortress and Bourtzi castle", image: "/poi-images/greece-nafplio-cities-v2.webp"},
+    imageHint: "Nafplio Palamidi fortress and Bourtzi castle",
+    image: "/poi-images/greece-nafplio-cities-v2.webp"},
   {
     id: "greece-argos-cities-v2",
     type: "city",
-    name: { de: "Argos", hu: "Árgosz", ro: "Argos", en: "Argos" },
+    name: { de: "Argos", hu: "Árgosz", ro: "Argos", en: "Argos",
+image: "/poi-images/greece-argos-cities-v2.webp"
+},
     coords: [22.7276, 37.6334],
     coordinates: { lat: 37.6334, lng: 22.7276 },
     description: {
@@ -513,11 +773,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș locuit din Europa", "Teatru antic cu 20.000 locuri", "Cetatea Larissa pe vârful dealului", "Centru agricol și arheologic major"],
       en: ["One of the oldest cities in Europe", "Ancient theater held 20,000 people", "Larissa Fortress overlooks the city", "Major historical center of Argolis"],
     },
-    imageHint: "Argos Ancient Theater carved in rock", image: "/poi-images/greece-argos-cities-v2.webp"},
+    imageHint: "Argos Ancient Theater carved in rock",
+    image: "/poi-images/greece-argos-cities-v2.webp"},
   {
     id: "greece-mesolonghi-cities-v2",
     type: "city",
-    name: { de: "Messolongi", hu: "Meszolóngi", ro: "Mesolonghi", en: "Mesolonghi" },
+    name: { de: "Messolongi", hu: "Meszolóngi", ro: "Mesolonghi", en: "Mesolonghi",
+image: "/poi-images/greece-mesolonghi-cities-v2.webp"
+},
     coords: [21.4287, 38.3677],
     coordinates: { lat: 38.3677, lng: 21.4287 },
     description: {
@@ -532,11 +795,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Oraș Sfânt al Greciei", "Lagună unică cu case pe piloni", "Locul unde a murit Lord Byron", "Faimos pentru icrele de chefal"],
       en: ["Sacred City of Greece", "Located in a unique lagoon ecosystem", "Lord Byron died here in 1824", "World-famous for its grey mullet roe"],
     },
-    imageHint: "Mesolonghi lagoon houses on stilts", image: "/poi-images/greece-mesolonghi-cities-v2.webp"},
+    imageHint: "Mesolonghi lagoon houses on stilts",
+    image: "/poi-images/greece-mesolonghi-cities-v2.webp"},
   {
     id: "greece-amfissa-cities-v2",
     type: "city",
-    name: { de: "Amfissa", hu: "Ámfissza", ro: "Amfissa", en: "Amfissa" },
+    name: { de: "Amfissa", hu: "Ámfissza", ro: "Amfissa", en: "Amfissa",
+image: "/poi-images/greece-amfissa-cities-v2.webp"
+},
     coords: [22.3776, 38.5284],
     coordinates: { lat: 38.5284, lng: 22.3776 },
     description: {
@@ -551,11 +817,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Poartă spre Muntele Parnas", "Centru major al livezilor de măslini", "Găzduiește Castelul Salona", "Situat foarte aproape de Delfi"],
       en: ["Gateway to Mount Parnassus", "Center of a massive olive grove", "Home to the medieval Castle of Salona", "Located near the ancient site of Delphi"],
     },
-    imageHint: "Amfissa castle of Salona and olive trees", image: "/poi-images/greece-amfissa-cities-v2.webp"},
+    imageHint: "Amfissa castle of Salona and olive trees",
+    image: "/poi-images/greece-amfissa-cities-v2.webp"},
   {
     id: "greece-karpenisi-cities-v2",
     type: "city",
-    name: { de: "Karpenisi", hu: "Karpeníszi", ro: "Karpenisi", en: "Karpenisi" },
+    name: { de: "Karpenisi", hu: "Karpeníszi", ro: "Karpenisi", en: "Karpenisi",
+image: "/poi-images/greece-karpenisi-cities-v2.webp"
+},
     coords: [21.7944, 38.9122],
     coordinates: { lat: 38.9122, lng: 21.7944 },
     description: {
@@ -570,11 +839,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru major pentru sporturi de iarnă", "Situat la baza muntelui Velouchi", "Aer extrem de curat (UNESCO)", "Înconjurat de păduri dense de brad"],
       en: ["Major Greek winter sports destination", "Located at the foot of Mt. Velouchi", "Known for its exceptionally clean air", "Surrounded by dense fir forests"],
     },
-    imageHint: "Karpenisi mountain town and snowy peaks", image: "/poi-images/greece-karpenisi-cities-v2.webp"},
+    imageHint: "Karpenisi mountain town and snowy peaks",
+    image: "/poi-images/greece-karpenisi-cities-v2.webp"},
   {
     id: "greece-agios-nikolaos-cities-v2",
     type: "city",
-    name: { de: "Agios Nikolaos", hu: "Ágiosz Nikólaosz", ro: "Agios Nikolaos", en: "Agios Nikolaos" },
+    name: { de: "Agios Nikolaos", hu: "Ágiosz Nikólaosz", ro: "Agios Nikolaos", en: "Agios Nikolaos",
+image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"
+},
     coords: [25.7151, 35.1912],
     coordinates: { lat: 35.1912, lng: 25.7151 },
     description: {
@@ -589,11 +861,14 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Lacul Voulismeni în centrul orașului", "Centru turistic de lux în Creta", "Situat în Golful Mirabello", "Poartă spre insula Spinalonga"],
       en: ["Features Lake Voulismeni in its center", "Major luxury tourism destination", "Located on the scenic Mirabello Bay", "Gateway to the island of Spinalonga"],
     },
-    imageHint: "Agios Nikolaos Lake Voulismeni and cafes", image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"},
+    imageHint: "Agios Nikolaos Lake Voulismeni and cafes",
+    image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"},
   {
     id: "greece-ierapetra-cities-v2",
     type: "city",
-    name: { de: "Ierapetra", hu: "Ierápetra", ro: "Ierapetra", en: "Ierapetra" },
+    name: { de: "Ierapetra", hu: "Ierápetra", ro: "Ierapetra", en: "Ierapetra",
+image: "/poi-images/greece-ierapetra-cities-v2.webp"
+},
     coords: [25.7412, 35.0113],
     coordinates: { lat: 35.0113, lng: 25.7412 },
     description: {

@@ -11,8 +11,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Hafen von Tanjung Priok",
       hu: "Tanjung Priok kikötő",
       ro: "Portul Tanjung Priok",
-      en: "Tanjung Priok Port"
-    },
+      en: "Tanjung Priok Port",
+image: "/poi-images/tanjung-priok-port-economic-v2.webp"
+},
     description: {
       de: "Indonesiens verkehrsreichster und fortschrittlichster Seehafen, der über 50% des gesamten Güterverkehrs des Landes abwickelt.",
       hu: "Indonézia legforgalmasabb és legfejlettebb tengeri kikötője, amely az ország teljes áruforgalmának több mint 50%-át bonyolítja.",
@@ -47,8 +48,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Grasberg-Mine",
       hu: "Grasberg bánya",
       ro: "Mina Grasberg",
-      en: "Grasberg Mine"
-    },
+      en: "Grasberg Mine",
+image: "/poi-images/grasberg-mine-economic-v2.webp"
+},
     description: {
       de: "Die größte Goldmine und die zweitgrößte Kupfermine der Welt, gelegen in der Provinz Papua in West-Neuguinea.",
       hu: "A világ legnagyobb aranybányája és második legnagyobb rézbányája, amely Pápua tartományban, Nyugat-Új-Guineában található.",
@@ -83,8 +85,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Industriegebiet Bekasi",
       hu: "Bekasi ipari park",
       ro: "Zona Industrială Bekasi",
-      en: "Bekasi Industrial Estate"
-    },
+      en: "Bekasi Industrial Estate",
+image: "/poi-images/bekasi-industrial-estate-economic-v2.webp"
+},
     description: {
       de: "Eines der größten Industriegebiete Südostasiens, Heimat zahlreicher multinationaler Fertigungsunternehmen.",
       hu: "Délkelet-Ázsia egyik legnagyobb ipari parkja, amely számos multinacionális gyártó vállalatnak ad otthont.",
@@ -119,8 +122,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Kraftwerk Paiton",
       hu: "Paiton erőmű",
       ro: "Centrala Electrică Paiton",
-      en: "Paiton Power Station"
-    },
+      en: "Paiton Power Station",
+image: "/poi-images/paiton-power-station-economic-v2.webp"
+},
     description: {
       de: "Ein großer Kohlekraftwerkskomplex in Ost-Java, der einen erheblichen Teil des Stroms für Java und Bali liefert.",
       hu: "Egy hatalmas széntüzelésű erőműkomplexum Kelet-Jáván, amely jelentős részét biztosítja Jáva és Bali villamosenergia-ellátásának.",
@@ -155,8 +159,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Freihandelszone Batam",
       hu: "Batami szabadkereskedelmi övezet",
       ro: "Zona de Liber Schimb Batam",
-      en: "Batam Free Trade Zone"
-    },
+      en: "Batam Free Trade Zone",
+image: "/poi-images/batam-free-trade-zone-economic-v2.webp"
+},
     description: {
       de: "Eine strategisch günstig gelegene Insel in der Nähe von Singapur, die sich zu einem Industrie-, Handels- und Umschlagzentrum entwickelt hat.",
       hu: "Stratégiai helyzetű sziget Szingapúr közelében, amelyet ipari, kereskedelmi és átrakodási központtá fejlesztettek.",
@@ -191,8 +196,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Kohlemine Kaltim Prima",
       hu: "Kaltim Prima szénbánya",
       ro: "Mina de Cărbune Kaltim Prima",
-      en: "Kaltim Prima Coal Mine"
-    },
+      en: "Kaltim Prima Coal Mine",
+image: "/poi-images/kaltim-prima-coal-mine-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Tagebau-Kohleminen der Welt, gelegen in Sangatta, Ost-Kalimantan.",
       hu: "A világ egyik legnagyobb külszíni szénbányája, amely Sangattában, Kelet-Kalimantan tartományban található.",
@@ -227,8 +233,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Hafen von Surabaya (Tanjung Perak)",
       hu: "Surabaya kikötő (Tanjung Perak)",
       ro: "Portul Surabaya (Tanjung Perak)",
-      en: "Port of Surabaya (Tanjung Perak)"
-    },
+      en: "Port of Surabaya (Tanjung Perak)",
+image: "/poi-images/surabaya-port-tanjung-perak-economic-v2.webp"
+},
     description: {
       de: "Der zweitgrößte Hafen Indonesiens, der als Haupttor für Ost-Indonesien dient.",
       hu: "Indonézia második legforgalmasabb kikötője, amely Kelet-Indonézia fő kapujaként szolgál.",
@@ -263,8 +270,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Industriezone Cilegon",
       hu: "Cilegoni ipari zóna",
       ro: "Zona Industrială Cilegon",
-      en: "Cilegon Industrial Zone"
-    },
+      en: "Cilegon Industrial Zone",
+image: "/poi-images/cilegon-industrial-zone-economic-v2.webp"
+},
     description: {
       de: "Bekannt als das 'Stahlzentrum' Indonesiens, beherbergt es große Stahl- und Chemieanlagen.",
       hu: "Indonézia 'acélközpontjaként' ismert, otthont ad nagy acél- és vegyipari üzemeknek.",
@@ -299,8 +307,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Tangguh LNG-Anlage",
       hu: "Tangguh cseppfolyósított földgáz (LNG) üzem",
       ro: "Instalația GNL Tangguh",
-      en: "Tangguh LNG Plant"
-    },
+      en: "Tangguh LNG Plant",
+image: "/poi-images/tanggguh-lng-plant-economic-v2.webp"
+},
     description: {
       de: "Eine große Anlage zur Verflüssigung von Erdgas in der Bucht von Bintuni, West-Papua, die LNG auf asiatische Märkte exportiert.",
       hu: "Egy hatalmas cseppfolyósított földgáz (LNG) üzem a Bintuni-öbölben, Nyugat-Pápuán, amely LNG-t exportál az ázsiai piacokra.",
@@ -335,8 +344,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Hafen von Makassar",
       hu: "Makassari kikötő",
       ro: "Portul Makassar",
-      en: "Makassar Port"
-    },
+      en: "Makassar Port",
+image: "/poi-images/makassar-port-economic-v2.webp"
+},
     description: {
       de: "Der größte Hafen auf der Insel Sulawesi und ein wichtiger Handelsknotenpunkt für den Osten Indonesiens.",
       hu: "Sulawesi szigetének legnagyobb kikötője és Kelet-Indonézia kulcsfontosságú kereskedelmi csomópontja.",
@@ -371,8 +381,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Handelsknotenpunkt Palembang",
       hu: "Palembang kereskedelmi csomópont",
       ro: "Nod Comercial Palembang",
-      en: "Palembang Trade Hub"
-    },
+      en: "Palembang Trade Hub",
+image: "/poi-images/palembang-trade-hub-economic-v2.webp"
+},
     description: {
       de: "Eine historische Hafenstadt am Fluss Musi, die als wichtiger Handels- und Wirtschaftsknotenpunkt auf Sumatra dient.",
       hu: "Történelmi kikötőváros a Musi folyó partján, amely Szumátra fontos kereskedelmi és gazdasági központja.",
@@ -407,8 +418,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Werk PT Semen Gresik",
       hu: "PT Semen Gresik gyár",
       ro: "Fabrica PT Semen Gresik",
-      en: "PT Semen Gresik Plant"
-    },
+      en: "PT Semen Gresik Plant",
+image: "/poi-images/pt-semen-gresik-plant-economic-v2.webp"
+},
     description: {
       de: "Einer der größten Zementhersteller in Indonesien, mit strategisch günstig gelegenen Werken, um den nationalen Bedarf zu decken.",
       hu: "Indonézia egyik legnagyobb cementgyártója, stratégiailag elhelyezett gyárakkal a belföldi igények kielégítésére.",
@@ -443,8 +455,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Jatiluhur-Staudamm",
       hu: "Jatiluhur-gát",
       ro: "Barajul Jatiluhur",
-      en: "Jatiluhur Dam"
-    },
+      en: "Jatiluhur Dam",
+image: "/poi-images/jatiluhur-dam-economic-v2.webp"
+},
     description: {
       de: "Ein Mehrzweck-Steinschüttdamm am Citarum-Fluss in West-Java, der Wasserkraft, Bewässerung und Wasserversorgung bereitstellt.",
       hu: "Többcélú kőgát a Citarum folyón Nyugat-Jáván, amely vízenergiát, öntözést és vízellátást biztosít.",
@@ -479,8 +492,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Hafen und Raffinerie von Dumai",
       hu: "Dumai kikötő és finomító",
       ro: "Portul și Rafinăria Dumai",
-      en: "Dumai Port and Refinery"
-    },
+      en: "Dumai Port and Refinery",
+image: "/poi-images/dumai-port-and-refinery-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Hafen und Standort einer großen Ölraffinerie in Riau, Sumatra, spezialisiert auf den Export von Palmöl und Erdölprodukten.",
       hu: "Fontos kikötő és egy nagy olajfinomító helyszíne Riau tartományban, Szumátrán, amely pálmaolaj és kőolajtermékek exportjára szakosodott.",
@@ -515,8 +529,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Nickelmine Sorowako",
       hu: "Sorowakói nikkelbánya",
       ro: "Mina de Nichel Sorowako",
-      en: "Sorowako Nickel Mine"
-    },
+      en: "Sorowako Nickel Mine",
+image: "/poi-images/sorowako-nickel-mine-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Tagebau-Nickellateritminen der Welt in Süd-Sulawesi, betrieben von PT Vale Indonesia.",
       hu: "A világ egyik legnagyobb külszíni nikkel-laterit bányája Dél-Sulawesiben, amelyet a PT Vale Indonesia üzemeltet.",
@@ -551,8 +566,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Automobilindustrie Karawang",
       hu: "Karawangi autóipar",
       ro: "Industria Auto Karawang",
-      en: "Karawang Automotive Industry"
-    },
+      en: "Karawang Automotive Industry",
+image: "/poi-images/karawang-automotive-industry-economic-v2.webp"
+},
     description: {
       de: "Ein Hauptzentrum der indonesischen Automobilindustrie mit großen Montagewerken japanischer Marken wie Toyota und Honda.",
       hu: "Az indonéz autóipar egyik fő központja, ahol japán márkák, mint a Toyota és a Honda, nagy összeszerelő üzemei találhatók.",
@@ -587,8 +603,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Hafen von Belawan",
       hu: "Belawani kikötő",
       ro: "Portul Belawan",
-      en: "Belawan Port"
-    },
+      en: "Belawan Port",
+image: "/poi-images/belawan-port-economic-v2.webp"
+},
     description: {
       de: "Der verkehrsreichste Hafen Indonesiens außerhalb von Java, der als Haupthandelsplatz für Sumatra und die Straße von Malakka dient.",
       hu: "Indonézia legforgalmasabb kikötője Jáván kívül, amely Szumátra és a Malaka-szoros fő kereskedelmi kapuja.",
@@ -623,8 +640,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Dairi-Zink-Blei-Mine",
       hu: "Dairi cink-ólom bánya",
       ro: "Mina de zinc-plumb Dairi",
-      en: "Dairi Zinc-Lead Mine"
-    },
+      en: "Dairi Zinc-Lead Mine",
+image: "/poi-images/ompu-sunggu-mine-economic-v2.webp"
+},
     description: {
       de: "Ein geplantes Untertagebergbauprojekt in Nord-Sumatra zur Erschließung einer der reichsten unentwickelten Zinklagerstätten der Welt.",
       hu: "Tervezett mélyművelésű bányászati projekt Észak-Szumátrán, amely a világ egyik leggazdagabb, még kiaknázatlan cinklelőhelyét célozza.",
@@ -659,8 +677,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Finanzviertel Jakarta",
       hu: "Jakartai pénzügyi negyed",
       ro: "Districtul Financiar Jakarta",
-      en: "Jakarta Financial District"
-    },
+      en: "Jakarta Financial District",
+image: "/poi-images/jakarta-financial-district-economic-v2.webp"
+},
     description: {
       de: "Das zentrale Nervensystem der indonesischen Wirtschaft, das den Sudirman Central Business District (SCBD) und die umliegenden Gebiete umfasst.",
       hu: "Az indonéz gazdaság központi idegrendszere, amely magában foglalja a Sudirman központi üzleti negyedet (SCBD) és a környező területeket.",
@@ -695,8 +714,9 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       de: "Kraftwerk Cirata",
       hu: "Cirata erőmű",
       ro: "Centrala Electrică Cirata",
-      en: "Cirata Power Plant"
-    },
+      en: "Cirata Power Plant",
+image: "/poi-images/cirata-power-plant-economic-v2.webp"
+},
     description: {
       de: "Das größte Wasserkraftwerk in Südostasien, gelegen am Citarum-Fluss in West-Java.",
       hu: "Délkelet-Ázsia legnagyobb vízerőműve, a Citarum folyón, Nyugat-Jáván.",

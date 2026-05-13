@@ -4,7 +4,9 @@ export const czechrepublicNatureV2: POI[] = [
   {
     id: "czechrepublic-sumava-nature-v2",
     type: "forest",
-    name: { de: "Böhmerwald", hu: "Šumava", ro: "Munții Šumava", en: "Bohemian Forest" },
+    name: { de: "Böhmerwald", hu: "Šumava", ro: "Munții Šumava", en: "Bohemian Forest",
+image: "/poi-images/czechrepublic-sumava-nature-v2.webp"
+},
     coords: [13.5, 49.0],
     coordinates: { lat: 49.0, lng: 13.5 },
     description: {
@@ -19,11 +21,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 1.673 km²", "Fondat ca parc național în 1991", "Cel mai înalt vârf ceh este Plechý", "Face parte din 'Acoperișul Verde' al Europei"],
       en: ["Area of approximately 1,673 km²", "Founded as a national park in 1991", "Highest Czech peak is Plechý", "Part of the Green Roof of Europe"],
     },
-    imageHint: "Bohemian Forest Sumava misty spruce trees", image: "/poi-images/czechrepublic-sumava-nature-v2.webp"},
+    imageHint: "Bohemian Forest Sumava misty spruce trees",
+    image: "/poi-images/czechrepublic-sumava-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nationalpark Šumava schützt das größte zusammenhängende Waldgebiet Mitteleuropas und bildet mit dem Bayerischen Wald das grüne Dach Europas.",
+      hu: "A Šumava Nemzeti Park Közép-Európa legnagyobb összefüggő erdősége, amely a Bajor-erdővel együtt alkotja a kontinens zöld szívét.",
+      ro: "Parcul Național Šumava protejează cea mai mare zonă forestieră continuă din Europa Centrală, fiind numit și acoperișul verde al continentului.",
+      en: "The Šumava National Park protects the largest continuous forest area in Central Europe, forming the Green Roof of Europe with the Bavarian Forest.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 680 km²", "Gegründet im Jahr 1991", "Höchster Berg ist Plechý (1378 m)", "UNESCO-Biosphärenreservat"],
+      hu: ["Területe 680 négyzetkilométer", "1991-ben alapították", "Legmagasabb pontja a Plechý (1378 m)", "UNESCO bioszféra-rezervátum"],
+      ro: ["Suprafață de 680 km²", "Fondat în anul 1991", "Cel mai înalt vârf este Plechý (1378 m)", "Rezervație a Biosferei UNESCO"],
+      en: ["Area of 680 square kilometers", "Established in 1991", "Highest peak is Plechý (1,378 m)", "UNESCO Biosphere Reserve"],
+    },
+  },
   {
     id: "czechrepublic-pravcicka-brana-nature-v2",
     type: "landmark",
-    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravčická", en: "Pravcice Gate" },
+    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravčická", en: "Pravcice Gate",
+image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp"
+},
     coords: [14.2817, 50.8839],
     coordinates: { lat: 50.8839, lng: 14.2817 },
     description: {
@@ -38,11 +56,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Deschiderea arcului este de 26,5 metri", "Înălțimea liberă este de 16 metri", "Loc de filmare pentru 'Cronicile din Narnia'", "Accesul pe arc este interzis din 1982"],
       en: ["Arch span of 26.5 meters", "Clear height of 16 meters", "Filming location for 'The Chronicles of Narnia'", "Stepping on the arch forbidden since 1982"],
     },
-    imageHint: "Pravcice Gate sandstone arch Czech Switzerland", image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp"},
+    imageHint: "Pravcice Gate sandstone arch Czech Switzerland",
+    image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Prebischtor ist das größte natürliche Sandsteinfelsentor in Europa und ein monumentales Symbol der Böhmischen Schweiz.",
+      hu: "A Pravčice-kapu Európa legnagyobb természetes homokkő sziklakapuja, a Cseh Svájc nemzeti park monumentális jelképe.",
+      ro: "Poarta Pravčice este cea mai mare poartă naturală de gresie din Europa, fiind un simbol monumental al Elveției Boeme.",
+      en: "The Pravčice Gate is the largest natural sandstone arch in Europe and a monumental symbol of the Bohemian Switzerland region.",
+    },
+    factsAdvanced: {
+      de: ["Spannweite von 26,5 Metern", "Höhe der Öffnung beträgt 16 Meter", "Breite des Bogens bis zu 8 Meter", "Seit 1881 steht das Hotel Sokolí hnízdo"],
+      hu: ["Fesztávolsága 26,5 méter", "A nyílás magassága 16 méter", "Az ív szélessége akár 8 méter", "1881-ben épült mellette a Sólyomfészek hotel"],
+      ro: ["Deschiderea arcului de 26,5 metri", "Înălțimea deschiderii este de 16 metri", "Lățimea boltei de până la 8 metri", "Hotelul Sokolí hnízdo datează din 1881"],
+      en: ["Span of 26.5 meters", "Height of the opening is 16 meters", "Arch width up to 8 meters", "Falcon's Nest hotel built in 1881"],
+    },
+  },
   {
     id: "czechrepublic-macocha-abyss-nature-v2",
     type: "valley",
-    name: { de: "Macocha-Abgrund", hu: "Macocha-szakadék", ro: "Prăpastia Macocha", en: "Macocha Abyss" },
+    name: { de: "Macocha-Abgrund", hu: "Macocha-szakadék", ro: "Prăpastia Macocha", en: "Macocha Abyss",
+image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp"
+},
     coords: [16.729, 49.373],
     coordinates: { lat: 49.373, lng: 16.729 },
     description: {
@@ -57,11 +91,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Adâncimea este de 138,5 metri", "Formată prin prăbușirea tavanului", "Punct de observare superior din 1882", "Parte a sistemului de peșteri Punkva"],
       en: ["Depth is 138.5 meters", "Formed by a ceiling collapse", "Upper observation point since 1882", "Part of the Punkva cave system"],
     },
-    imageHint: "Macocha Abyss sinkhole Moravian Karst", image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp"},
+    imageHint: "Macocha Abyss sinkhole Moravian Karst",
+    image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Macocha-Schlucht ist die tiefste Einsturzdoline dieser Art in Mitteleuropa und Teil des komplexen Punkva-Höhlensystems.",
+      hu: "A Macocha-szakadék Közép-Európa legmélyebb ilyen típusú beszakadt dolinája, a Punkva-barlangrendszer lenyűgöző része.",
+      ro: "Abisul Macocha este cea mai adâncă dolină de prăbușire de acest tip din Europa Centrală, parte a sistemului de peșteri Punkva.",
+      en: "The Macocha Abyss is the deepest light-hole type abyss in Central Europe, forming a spectacular part of the Punkva cave system.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe von 138,5 Metern", "Länge beträgt 174 Meter", "Entstanden durch Einsturz einer Höhlendecke", "Am Boden fließen die Punkva-Seen"],
+      hu: ["Mélysége 138,5 méter", "Hosszúsága 174 méter", "Egy barlang mennyezetének beomlásával keletkezett", "Alján folynak a Punkva-tavak"],
+      ro: ["Adâncime de 138,5 metri", "Lungime de 174 metri", "Formată prin prăbușirea tavanului unei peșteri", "Râul Punkva formează lacuri în bază"],
+      en: ["Depth of 138.5 meters", "Length of 174 meters", "Formed by a cave ceiling collapse", "Punkva lakes flow at the bottom"],
+    },
+  },
   {
     id: "czechrepublic-vltava-river-nature-v2",
     type: "river",
-    name: { de: "Moldau", hu: "Vltava", ro: "Râul Vltava", en: "Vltava River" },
+    name: { de: "Moldau", hu: "Vltava", ro: "Râul Vltava", en: "Vltava River",
+image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp"
+},
     coords: [14.3, 49.5],
     coordinates: { lat: 49.5, lng: 14.3 },
     description: {
@@ -76,11 +126,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime totală de 430 kilometri", "Are 9 baraje mari", "A inspirat simfonia lui Smetana 'Vltava'", "Gura de vărsare la Mělník în Elba"],
       en: ["Total length of 430 kilometers", "Features 9 large dams", "Inspired Smetana's symphony 'Vltava'", "Confluence with Elbe near Mělník"],
     },
-    imageHint: "Vltava river bend Czech landscape", image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp"},
+    imageHint: "Vltava river bend Czech landscape",
+    image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Moldau ist der längste Fluss in der Tschechischen Republik und gilt als der nationale Strom, der das Land von Süd nach Nord durchfließt.",
+      hu: "A Moldva Csehország leghosszabb folyója és nemzeti jelképe, amely délről észak felé szeli át az országot a Dunától az Elbáig.",
+      ro: "Vltava este cel mai lung râu din Republica Cehă, fiind considerat fluviul național care străbate țara de la sud la nord.",
+      en: "The Vltava is the longest river in the Czech Republic, often called the national river, flowing through the country from south to north.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 430 Kilometern", "Quelle im Böhmerwald auf 1172 m", "Mündung in die Elbe bei Mělník", "Kaskade von 9 Talsperren (Moldau-Kaskade)"],
+      hu: ["Teljes hossza 430 kilométer", "Forrása a Šumavában, 1172 méteren van", "Mělníknél torkollik az Elbába", "9 gátból álló vízlépcsőrendszer védi"],
+      ro: ["Lungime totală de 430 kilometri", "Izvorăște în Šumava la 1172 m", "Se varsă în Elba lângă Mělník", "Cascadă de 9 baraje pe parcursul său"],
+      en: ["Total length of 430 kilometers", "Source in Bohemian Forest at 1,172 m", "Flows into the Elbe near Mělník", "Cascade of 9 dams and reservoirs"],
+    },
+  },
   {
     id: "czechrepublic-punkva-caves-nature-v2",
     type: "landmark",
-    name: { de: "Punkva-Höhlen", hu: "Punkva-barlang", ro: "Peșterile Punkva", en: "Punkva Caves" },
+    name: { de: "Punkva-Höhlen", hu: "Punkva-barlang", ro: "Peșterile Punkva", en: "Punkva Caves",
+image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp"
+},
     coords: [16.71, 49.37],
     coordinates: { lat: 49.37, lng: 16.71 },
     description: {
@@ -95,11 +161,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Descoperite de Karel Absolon din 1909", "Conține 'Domul Imperiului'", "Lungimea plimbării cu barca: cca. 450 m", "Deschise vizitatorilor tot anul"],
       en: ["Discovered by Karel Absolon from 1909", "Contains the 'Dome of the Realm'", "Length of boat ride: approx. 450 m", "Open to visitors year-round"],
     },
-    imageHint: "Punkva caves underground boat river", image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp"},
+    imageHint: "Punkva caves underground boat river",
+    image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Punkva-Höhlen bieten eine einzigartige Kombination aus riesigen Domen und einer unterirdischen Bootsfahrt auf dem gleichnamigen Fluss.",
+      hu: "A Punkva-barlangok egyedülálló élményt nyújtanak hatalmas termeikkel és a névadó folyón zajló föld alatti csónakázással.",
+      ro: "Peșterile Punkva oferă o combinație unică de domuri uriașe și o plimbare subterană cu barca pe râul cu același nume.",
+      en: "The Punkva Caves offer a unique combination of massive domes and an underground boat tour on the subterranean Punkva River.",
+    },
+    factsAdvanced: {
+      de: ["Besuchereröffnung im Jahr 1909", "Teil des Mährischen Karsts", "Unterirdische Strecke von 1250 Metern", "Bootsfahrt ist ca. 440 Meter lang"],
+      hu: ["1909-ben nyitották meg a látogatóknak", "A Morva-karszt része", "A látogatható szakasz 1250 méter hosszú", "A vízi út hossza kb. 440 méter"],
+      ro: ["Deschisă vizitatorilor în 1909", "Parte a Carstului Morav", "Traseu vizitabil de 1250 metri", "Plimbarea cu barca are cca. 440 metri"],
+      en: ["Opened to the public in 1909", "Part of the Moravian Karst", "Tour route length is 1,250 meters", "Boat ride covers approx. 440 meters"],
+    },
+  },
   {
     id: "czechrepublic-elbe-river-nature-v2",
     type: "river",
-    name: { de: "Elbe", hu: "Elba", ro: "Râul Elba", en: "Elbe River" },
+    name: { de: "Elbe", hu: "Elba", ro: "Râul Elba", en: "Elbe River",
+image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp"
+},
     coords: [14.1, 50.5],
     coordinates: { lat: 50.5, lng: 14.1 },
     description: {
@@ -114,11 +196,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Izvorăște la 1386 m altitudine", "Lungimea în Cehia: 370 km", "Se varsă în Marea Nordului la Cuxhaven", "Port fluvial important la Děčín"],
       en: ["Source at 1386 m altitude", "Length in Czechia: 370 km", "Flows into the North Sea at Cuxhaven", "Important inland port in Děčín"],
     },
-    imageHint: "Elbe river landscape Czech Republic", image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp"},
+    imageHint: "Elbe river landscape Czech Republic",
+    image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Elbe ist einer der bedeutendsten Ströme Mitteleuropas und entspringt im tschechischen Riesengebirge in einer Höhe von fast 1400 Metern.",
+      hu: "Az Elba Közép-Európa egyik legfontosabb folyója, amely a csehországi Óriás-hegységben ered, közel 1400 méteres magasságban.",
+      ro: "Elba este unul dintre cele mai importante fluvii din Europa Centrală, izvorând în Munții Uriași la o altitudine de aproape 1400 metri.",
+      en: "The Elbe is one of the major rivers of Central Europe, originating in the Czech Giant Mountains at an altitude of nearly 1,400 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 1094 Kilometern", "Quelle auf der Elbwiese (1386 m)", "370 Kilometer fließen durch Tschechien", "Einzugsgebiet von 148.268 km²"],
+      hu: ["Teljes hossza 1094 kilométer", "Forrása az Elba-réten van (1386 m)", "370 kilométeren folyik Csehországban", "Vízgyűjtő területe 148 268 km²"],
+      ro: ["Lungime totală de 1094 kilometri", "Izvor la Labská louka (1386 m)", "370 kilometri parcurși în Cehia", "Bazin hidrografic de 148.268 km²"],
+      en: ["Total length of 1,094 kilometers", "Source at Labská louka (1,386 m)", "370 kilometers within Czech borders", "Drainage basin of 148,268 km²"],
+    },
+  },
   {
     id: "czechrepublic-prachov-rocks-nature-v2",
     type: "landmark",
-    name: { de: "Prachauer Felsen", hu: "Prachovské skály", ro: "Stâncile Prachov", en: "Prachov Rocks" },
+    name: { de: "Prachauer Felsen", hu: "Prachovské skály", ro: "Stâncile Prachov", en: "Prachov Rocks",
+image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp"
+},
     coords: [15.285, 50.468],
     coordinates: { lat: 50.468, lng: 15.285 },
     description: {
@@ -133,11 +231,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Una dintre cele mai vechi zone de escaladă", "Rezervație naturală din 1933", "Locație pentru producții de la Hollywood", "Situl unei așezări preistorice fortificate"],
       en: ["One of the oldest climbing areas in CZ", "Nature reserve since 1933", "Location for Hollywood productions", "Site of a prehistoric hillfort"],
     },
-    imageHint: "Prachov rocks sandstone towers", image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp"},
+    imageHint: "Prachov rocks sandstone towers",
+    image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Prachover Felsen sind eine markante Sandsteinfelsenstadt im Böhmischen Paradies, bekannt für ihre engen Klüfte und Aussichtspunkte.",
+      hu: "A Prachov-sziklák a Cseh Paradicsom egyik leglátványosabb homokkő sziklavárosa, híres szűk hasadékairól és panorámás kilátóiról.",
+      ro: "Stâncile Prachov reprezintă un oraș de gresie distinctiv în Paradisul Boem, faimos pentru crevasele înguste și punctele de belvedere.",
+      en: "The Prachov Rocks are a prominent sandstone rock city in the Bohemian Paradise, known for its narrow crevices and panoramic viewpoints.",
+    },
+    factsAdvanced: {
+      de: ["Entstanden in der Kreidezeit", "Naturschutzgebiet seit 1933", "Höchster Punkt liegt auf 462 m", "Erste Kletterwege seit 1907"],
+      hu: ["A kréta időszakban keletkeztek", "1933 óta természetvédelmi terület", "Legmagasabb pontja 462 méteren van", "Az első mászóutak 1907-ben nyíltak"],
+      ro: ["Formate în perioada cretacică", "Rezervație naturală din 1933", "Punctul cel mai înalt la 462 m", "Primele trasee de alpinism din 1907"],
+      en: ["Formed during the Cretaceous period", "Nature reserve since 1933", "Highest point at 462 meters", "First climbing routes established in 1907"],
+    },
+  },
   {
     id: "czechrepublic-boubin-forest-nature-v2",
     type: "forest",
-    name: { de: "Boubín-Urwald", hu: "Boubín-őserdő", ro: "Pădurea Virgină Boubín", en: "Boubin Virgin Forest" },
+    name: { de: "Boubín-Urwald", hu: "Boubín-őserdő", ro: "Pădurea Virgină Boubín", en: "Boubin Virgin Forest",
+image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp"
+},
     coords: [13.82, 48.98],
     coordinates: { lat: 48.98, lng: 13.82 },
     description: {
@@ -152,11 +266,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Rezervație fondată în anul 1858", "Unii arbori au peste 400 de ani", "Element central al Munților Šumava", "Traseu educativ în jurul zonei centrale"],
       en: ["Reserve founded in 1858", "Some trees are over 400 years old", "Core element of the Bohemian Forest", "Educational trail around the core area"],
     },
-    imageHint: "Boubin forest primeval trees moss", image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp"},
+    imageHint: "Boubin forest primeval trees moss",
+    image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Boubín-Urwald ist eines der ältesten Naturschutzgebiete Europas und bewahrt einen ursprünglichen Fichten-Tannen-Buchen-Bestand.",
+      hu: "A Boubín-őserdő Európa egyik legrégebbi természetvédelmi területe, amely megőrizte az eredeti luc-, jegenyefenyő- és bükkállományt.",
+      ro: "Pădurea Virgină Boubín este una dintre cele mai vechi rezervații din Europa, păstrând un ecosistem original de molid, brad și fag.",
+      en: "The Boubín Virgin Forest is one of Europe's oldest nature reserves, preserving an original ecosystem of spruce, fir, and beech trees.",
+    },
+    factsAdvanced: {
+      de: ["Unter Schutz seit 1858", "Kernzone umfasst 92 Hektar", "Einige Bäume sind über 400 Jahre alt", "Höhe des Boubín-Gipfels ist 1362 m"],
+      hu: ["1858 óta áll védelem alatt", "A magterület 92 hektáros", "Némelyik fa kora meghaladja a 400 évet", "A Boubín-csúcs magassága 1362 méter"],
+      ro: ["Protejată din anul 1858", "Zona centrală are 92 de hectare", "Unii arbori au peste 400 de ani", "Vârful Boubín are 1362 metri"],
+      en: ["Under protection since 1858", "Core zone covers 92 hectares", "Some trees are over 400 years old", "Boubín summit reaches 1,362 meters"],
+    },
+  },
   {
     id: "czechrepublic-macha-lake-nature-v2",
     type: "lake",
-    name: { de: "Mácha-See", hu: "Máchovo jezero", ro: "Lacul Mácha", en: "Macha Lake" },
+    name: { de: "Mácha-See", hu: "Máchovo jezero", ro: "Lacul Mácha", en: "Macha Lake",
+image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp"
+},
     coords: [14.65, 50.58],
     coordinates: { lat: 50.58, lng: 14.65 },
     description: {
@@ -171,11 +301,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Creat în anul 1366", "Suprafață de aproximativ 284 hectare", "Numit după poetul K. H. Mácha", "Patru plaje principale pentru turiști"],
       en: ["Established in 1366", "Area of approx. 284 hectares", "Named after the poet K. H. Mácha", "Four main beaches for visitors"],
     },
-    imageHint: "Macha lake beach pine forest", image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp"},
+    imageHint: "Macha lake beach pine forest",
+    image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mácha-See ist eigentlich ein großer künstlicher Teich, der im 14. Jahrhundert von Kaiser Karl IV. zur Fischzucht angelegt wurde.",
+      hu: "A Mácha-tó valójában egy hatalmas mesterséges tó, amelyet IV. Károly császár alapított a 14. században haltenyésztés céljából.",
+      ro: "Lacul Mácha este de fapt un iaz artificial de mari dimensiuni, fondat în secolul al XIV-lea de împăratul Carol al IV-lea.",
+      en: "Macha Lake is actually a large artificial pond commissioned by Emperor Charles IV in the 14th century for fish farming.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1366", "Wasserfläche von 284 Hektar", "Maximale Tiefe beträgt 12 Meter", "Benannt nach dem Dichter K. H. Mácha"],
+      hu: ["1366-ban hozták létre", "Vízfelülete 284 hektár", "Maximális mélysége 12 méter", "K. H. Mácha költőről nevezték el"],
+      ro: ["Fondat în anul 1366", "Suprafață de apă de 284 hectare", "Adâncime maximă de 12 metri", "Numit după poetul K. H. Mácha"],
+      en: ["Established in 1366", "Water surface area of 284 hectares", "Maximum depth is 12 meters", "Named after the poet K. H. Mácha"],
+    },
+  },
   {
     id: "czechrepublic-hranice-abyss-nature-v2",
     type: "valley",
-    name: { de: "Abgrund von Hranice", hu: "Hranicei-szakadék", ro: "Abisul Hranice", en: "Hranice Abyss" },
+    name: { de: "Abgrund von Hranice", hu: "Hranicei-szakadék", ro: "Abisul Hranice", en: "Hranice Abyss",
+image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp"
+},
     coords: [17.751, 49.531],
     coordinates: { lat: 49.531, lng: 17.751 },
     description: {
@@ -190,11 +336,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Adâncime confirmată a apei: 450 m", "Adâncime totală estimată: peste 1 km", "Peștera are origine hidrotermală", "Situat în rezervația Hůrka"],
       en: ["Confirmed water depth: 450 m", "Estimated total depth: over 1 km", "Cave is of hydrothermal origin", "Located in the Hůrka reserve"],
     },
-    imageHint: "Hranice abyss water hole cave", image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp"},
+    imageHint: "Hranice abyss water hole cave",
+    image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hranice-Abyss ist die tiefste überflutete Höhle der Welt und fasziniert Forscher durch ihre bisher unerreichte Bodentiefe.",
+      hu: "A Hranice-szakadék a világ legmélyebb elárasztott barlangja, amely eddig el nem ért mélységeivel nyűgözi le a kutatókat.",
+      ro: "Abisul Hranice este cea mai adâncă peșteră inundată din lume, fascinând cercetătorii prin profunzimea sa încă nedescoperită complet.",
+      en: "The Hranice Abyss is the deepest flooded pit cave in the world, fascinating researchers with its yet-to-be-reached bottom.",
+    },
+    factsAdvanced: {
+      de: ["Bestätigte Tiefe über 450 Meter", "Geologische Tiefe auf 1 km geschätzt", "Trockener Teil ist 69,5 m tief", "Besteht aus devonischem Kalkstein"],
+      hu: ["Mért mélysége meghaladja a 450 métert", "Becsült geológiai mélysége 1 km", "Száraz részének mélysége 69,5 méter", "Devon időszaki mészkőből áll"],
+      ro: ["Adâncime confirmată de peste 450 m", "Adâncime geologică estimată la 1 km", "Partea uscată are 69,5 m adâncime", "Formată din calcar devonian"],
+      en: ["Confirmed depth over 450 meters", "Estimated geological depth of 1 km", "Dry part is 69.5 meters deep", "Composed of Devonian limestone"],
+    },
+  },
   {
     id: "czechrepublic-jizera-mountains-nature-v2",
     type: "mountain",
-    name: { de: "Isergebirge", hu: "Jizera-hegység", ro: "Munții Jizera", en: "Jizera Mountains" },
+    name: { de: "Isergebirge", hu: "Jizera-hegység", ro: "Munții Jizera", en: "Jizera Mountains",
+image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp"
+},
     coords: [15.25, 50.84],
     coordinates: { lat: 50.84, lng: 15.25 },
     description: {
@@ -209,11 +371,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf: Smrk (1124 m)", "Păduri de fag UNESCO din 2021", "Locul cursei de schi Jizerská padesátka", "Deține numeroase turnuri de observație"],
       en: ["Highest peak: Smrk (1124 m)", "UNESCO beech forests since 2021", "Host of the Jizerská padesátka race", "Features numerous lookout towers"],
     },
-    imageHint: "Jizera mountains peat bog landscape", image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp"},
+    imageHint: "Jizera mountains peat bog landscape",
+    image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Isergebirge ist der westlichste Teil der Sudeten und bekannt für seine ausgedehnten Moore und markanten Granitfelsen.",
+      hu: "A Jizera-hegység a Szudéták legnyugatibb része, amely kiterjedt tőzeglápjairól és jellegzetes gránitszikláiról ismert.",
+      ro: "Munții Jizera reprezintă partea cea mai vestică a Sudeților, fiind cunoscuți pentru mlaștinile întinse și stâncile de granit.",
+      en: "The Jizera Mountains are the westernmost part of the Sudetes, known for their extensive peat bogs and distinctive granite rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg ist Smrk (1124 m)", "Naturschutzgebiet seit 1968", "Hunderte Kilometer an Langlaufloipen", "Quelle des Flusses Jizera"],
+      hu: ["Legmagasabb csúcsa a Smrk (1124 m)", "1968 óta természetvédelmi terület", "Több száz kilométernyi sífutóút", "Itt ered a Jizera folyó"],
+      ro: ["Cel mai înalt vârf este Smrk (1124 m)", "Rezervație naturală din 1968", "Sute de kilometri de pârtii de schi", "Sursă a râului Jizera"],
+      en: ["Highest peak is Smrk (1,124 m)", "Nature reserve since 1968", "Hundreds of km of cross-country trails", "Source of the Jizera River"],
+    },
+  },
   {
     id: "czechrepublic-soos-reserve-nature-v2",
     type: "park",
-    name: { de: "Nationales Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos Nature Reserve" },
+    name: { de: "Nationales Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos Nature Reserve",
+image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp"
+},
     coords: [12.404, 50.147],
     coordinates: { lat: 50.147, lng: 12.404 },
     description: {
@@ -228,11 +406,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Rezervație din 1964", "Prezența straturilor de diatomit", "Traseu educativ pe punți de lemn", "Numeroase izvoare minerale la fața locului"],
       en: ["Reserve since 1964", "Presence of diatomaceous earth", "Educational trail on wooden boardwalks", "Numerous mineral springs on site"],
     },
-    imageHint: "Soos reserve mud volcanoes bubbles", image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp"},
+    imageHint: "Soos reserve mud volcanoes bubbles",
+    image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Reservat Soos ist ein einzigartiges Moor- und Sumpfgebiet mit Mofetten, aus denen kohlensäurehaltiges Gas aus der Erde sprudelt.",
+      hu: "A Soos-rezervátum egyedülálló lápi terület, ahol mofettákból szén-dioxid tör fel a föld alól, különleges holdbéli tájat alkotva.",
+      ro: "Rezervația Soos este o zonă unică de mlaștină și turbărie cu mofete, din care se degajă dioxid de carbon de origine vulcanică.",
+      en: "The Soos Reserve is a unique peat bog and fen area featuring mofettas, where volcanic carbon dioxide bubbles up from the ground.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 221 Hektar", "Naturschutzgebiet seit 1964", "Lehrpfad auf Holzstegen (1,2 km)", "Vorkommen von Kieselgur-Schildern"],
+      hu: ["Területe 221 hektár", "1964 óta védett terület", "1,2 km hosszú pallóút vezet át rajta", "Kovaföld lerakódások jellemzik"],
+      ro: ["Suprafață de 221 hectare", "Rezervație naturală din 1964", "Traseu educativ pe poduri (1,2 km)", "Prezența sedimentelor de diatomit"],
+      en: ["Area of 221 hectares", "Nature reserve since 1964", "1.2 km nature trail on wooden piers", "Deposits of diatomaceous earth"],
+    },
+  },
   {
     id: "czechrepublic-ohre-river-nature-v2",
     type: "river",
-    name: { de: "Eger", hu: "Ohře", ro: "Râul Ohře", en: "Ohre River" },
+    name: { de: "Eger", hu: "Ohře", ro: "Râul Ohře", en: "Ohre River",
+image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp"
+},
     coords: [13.0, 50.2],
     coordinates: { lat: 50.2, lng: 13.0 },
     description: {
@@ -247,11 +441,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime totală de 316 km", "Gura de vărsare în Elba la Litoměřice", "Curge prin valea Ohře", "Faimoasa formațiune 'Stâncile Svatoš'"],
       en: ["Total length of 316 km", "Confluence with Elbe at Litoměřice", "Flows through the Ohre valley", "Famous 'Svatoš Rocks' formation"],
     },
-    imageHint: "Ohre river Karlovy Vary landscape", image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp"},
+    imageHint: "Ohre river Karlovy Vary landscape",
+    image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Eger ist der zweitgrößte Nebenfluss der Elbe in Tschechien und schlängelt sich durch malerische Täler und historische Städte im Westen.",
+      hu: "Az Ohře az Elba második legnagyobb mellékfolyója Csehországban, amely festői völgyeken és történelmi városokon kanyarog át nyugaton.",
+      ro: "Râul Ohře este al doilea celul mai mare afluent al Elbei în Cehia, șerpuind prin văi pitorești și orașe istorice din vest.",
+      en: "The Ohře River is the second largest tributary of the Elbe in the Czech Republic, winding through scenic valleys and historic western towns.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 316 Kilometern", "Quelle im Fichtelgebirge (Deutschland)", "Mündung in die Elbe bei Litoměřice", "Sehr beliebt bei tschechischen Paddlern"],
+      hu: ["Teljes hossza 316 kilométer", "Németországban, a Fichtel-hegységben ered", "Litoměřicénél torkollik az Elbába", "A vízi túrázók egyik kedvenc folyója"],
+      ro: ["Lungime totală de 316 kilometri", "Izvorăște în Fichtelgebirge (Germania)", "Vărsare în Elba la Litoměřice", "Foarte popular pentru canotaj"],
+      en: ["Total length of 316 kilometers", "Source in Fichtelgebirge (Germany)", "Confluence with Elbe at Litoměřice", "Highly popular for canoeing"],
+    },
+  },
   {
     id: "czechrepublic-cerne-jezero-nature-v2",
     type: "lake",
-    name: { de: "Schwarzer See", hu: "Černé jezero", ro: "Lacul Negru", en: "Black Lake" },
+    name: { de: "Schwarzer See", hu: "Černé jezero", ro: "Lacul Negru", en: "Black Lake",
+image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp"
+},
     coords: [13.18, 49.18],
     coordinates: { lat: 49.18, lng: 13.18 },
     description: {
@@ -266,11 +476,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Suprafață de 18,4 hectare", "Adâncime maximă: 40 metri", "Situat la 1008 m altitudine", "Rezervație naturală strictă"],
       en: ["Area of 18.4 hectares", "Maximum depth: 40 meters", "Located at 1008 m above sea level", "Strict nature reserve"],
     },
-    imageHint: "Black Lake Sumava glacial mountain", image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp"},
+    imageHint: "Black Lake Sumava glacial mountain",
+    image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Schwarze See ist der größte und tiefste natürliche See in Tschechien und liegt in einem majestätischen Kar unter dem Berg Jezerní hora.",
+      hu: "A Fekete-tó Csehország legnagyobb és legmélyebb természetes tava, amely a Jezerní hora alatti fenséges gleccservölgyben fekszik.",
+      ro: "Lacul Negru este cel mai mare și cel mai adânc lac natural din Republica Cehă, situat într-un circ glaciar sub muntele Jezerní hora.",
+      en: "Black Lake is the largest and deepest natural lake in the Czech Republic, located in a majestic glacial cirque below Jezerní hora.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 18,4 Hektar", "Maximale Tiefe von 39,8 Metern", "Liegt auf einer Höhe von 1008 m", "Entstand durch einen Gletscher"],
+      hu: ["Területe 18,4 hektár", "Maximális mélysége 39,8 méter", "1008 méteres tengerszint feletti magasság", "Gleccsertevékenység hozta létre"],
+      ro: ["Suprafață de 18,4 hectare", "Adâncime maximă de 39,8 metri", "Situat la o altitudine de 1008 m", "Origine glaciară"],
+      en: ["Surface area of 18.4 hectares", "Maximum depth of 39.8 meters", "Elevation of 1,008 meters", "Formed by glacial activity"],
+    },
+  },
   {
     id: "czechrepublic-kralicky-sneznik-nature-v2",
     type: "mountain",
-    name: { de: "Glatzer Schneeberg", hu: "Králický Sněžník", ro: "Muntele Králický Sněžník", en: "Kralicky Sneznik" },
+    name: { de: "Glatzer Schneeberg", hu: "Králický Sněžník", ro: "Muntele Králický Sněžník", en: "Kralicky Sneznik",
+image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp"
+},
     coords: [16.848, 50.207],
     coordinates: { lat: 50.207, lng: 16.848 },
     description: {
@@ -285,11 +511,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Înălțime: 1423 m", "Izvorul râului Morava", "Simbol: Sculptura unui elefant", "Cumpăna apelor: M. Nordului, Baltică, Neagră"],
       en: ["Height: 1423 m", "Source of the Morava River", "Symbol: Sculpture of an elephant", "Watershed of North, Baltic, and Black Seas"],
     },
-    imageHint: "Kralicky Sneznik mountain elephant statue", image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp"},
+    imageHint: "Kralicky Sneznik mountain elephant statue",
+    image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Glatzer Schneeberg ist das dritthöchste Gebirge Tschechiens und bildet einen wichtigen hydrologischen Knotenpunkt Mitteleuropas.",
+      hu: "A Králický Sněžník Csehország harmadik legmagasabb hegysége, amely Európa egyik fontos hidrológiai csomópontja.",
+      ro: "Masivul Králický Sněžník este al treilea cel mai înalt lanț muntos din Cehia, fiind un nod hidrologic major al Europei Centrale.",
+      en: "Kralicky Sneznik is the third highest mountain range in the Czech Republic, serving as a major hydrological divide in Central Europe.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel auf 1424 m", "Quelle der March (Morava)", "Wasserscheide von drei Meeren", "Symbol ist die Skulptur eines Elefanten"],
+      hu: ["Legmagasabb csúcsa 1424 méter", "Itt ered a Morva folyó", "Három tenger vízválasztója", "Jelképe egy kőből faragott elefánt"],
+      ro: ["Vârful principal la 1424 metri", "Izvorul râului Morava", "Diviziune a trei mări europene", "Simbolul muntelui este un pui de elefant"],
+      en: ["Highest summit at 1,424 meters", "Source of the Morava River", "Triple watershed of three seas", "Symbolized by a stone elephant statue"],
+    },
+  },
   {
     id: "czechrepublic-lusatian-mountains-nature-v2",
     type: "mountain",
-    name: { de: "Lausitzer Gebirge", hu: "Luzsicei-hegység", ro: "Munții Lužické", en: "Lusatian Mountains" },
+    name: { de: "Lausitzer Gebirge", hu: "Luzsicei-hegység", ro: "Munții Lužické", en: "Lusatian Mountains",
+image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp"
+},
     coords: [14.65, 50.84],
     coordinates: { lat: 50.84, lng: 14.65 },
     description: {
@@ -304,11 +546,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf: Luž (793 m)", "Case tradiționale specifice zonei", "Zăcăminte de cristal de stâncă", "Zonă de drumeție populară"],
       en: ["Highest peak: Luž (793 m)", "Characteristic traditional folk houses", "Significant occurrences of rock crystal", "Popular hiking area"],
     },
-    imageHint: "Lusatian mountains volcanic peak Czech", image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp"},
+    imageHint: "Lusatian mountains volcanic peak Czech",
+    image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Lausitzer Gebirge ist ein Grenzgebirge zwischen Tschechien und Deutschland, geprägt durch vulkanische Kuppen und Sandsteinfelsen.",
+      hu: "A Lausitzi-hegység Csehország és Németország határán fekvő tájegység, amelyet vulkáni kúpok és homokkő sziklák jellemeznek.",
+      ro: "Munții Luzaciei reprezintă un lanț muntos de graniță între Cehia și Germania, marcat de cupole vulcanice și formațiuni de gresie.",
+      en: "The Lusatian Mountains are a border range between the Czech Republic and Germany, characterized by volcanic peaks and sandstone formations.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg ist die Lausche (793 m)", "Naturschutzgebiet seit 1976", "Typische Architektur von Umgebindehäusern", "Ehemalige vulkanische Aktivität"],
+      hu: ["Legmagasabb pontja a Luž (793 m)", "1976 óta természetvédelmi terület", "Jellemzőek a népi gerendaházak", "Vulkáni eredetű kőzetek"],
+      ro: ["Cel mai înalt vârf este Luž (793 m)", "Rezervație naturală din 1976", "Arhitectură tradițională specifică", "Origine vulcanică a multor culmi"],
+      en: ["Highest peak is Luž (793 m)", "Nature reserve since 1976", "Traditional timber-framed architecture", "Evidence of ancient volcanic activity"],
+    },
+  },
   {
     id: "czechrepublic-berounka-river-nature-v2",
     type: "river",
-    name: { de: "Berounka", hu: "Berounka", ro: "Râul Berounka", en: "Berounka River" },
+    name: { de: "Berounka", hu: "Berounka", ro: "Râul Berounka", en: "Berounka River",
+image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp"
+},
     coords: [13.9, 49.9],
     coordinates: { lat: 49.9, lng: 13.9 },
     description: {
@@ -323,11 +581,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 139 kilometri", "Trece pe lângă castelul Karlštejn", "Niciun baraj pe cursul inferior", "Parte a rezervației biosferei Křivoklátsko"],
       en: ["Length of approx. 139 kilometers", "Flows past Karlštejn Castle", "No dams on the lower course", "Part of Křivoklátsko Biosphere Reserve"],
     },
-    imageHint: "Berounka river valley canoe", image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp"},
+    imageHint: "Berounka river valley canoe",
+    image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Berounka entsteht durch den Zusammenfluss von vier Flüssen in Pilsen und fließt ruhig durch das geschützte Gebiet von Křivoklátsko.",
+      hu: "A Berounka négy folyó összefolyásával keletkezik Plzeňnél, majd nyugodtan kanyarog át a Křivoklátsko tájvédelmi körzeten.",
+      ro: "Râul Berounka se formează prin confluența a patru râuri în Plzeň, curgând liniștit prin zona protejată Křivoklátsko.",
+      en: "The Berounka River is formed by the confluence of four rivers in Plzeň and flows gently through the protected Křivoklátsko area.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 139 Kilometern", "Durchfließt den böhmischen Karst", "Mündet bei Prag in die Moldau", "Sehr beliebt für Kanuwanderungen"],
+      hu: ["Hosszúsága 139 kilométer", "Átszeli a Cseh-karszt területét", "Prága közelében torkollik a Moldvába", "Kedvelt folyó a vízi túrázók körében"],
+      ro: ["Lungime de 139 kilometri", "Străbate regiunea Carstului Boem", "Se varsă în Vltava lângă Praga", "Foarte apreciat pentru turismul nautic"],
+      en: ["Length of 139 kilometers", "Flows through the Bohemian Karst", "Joins the Vltava near Prague", "Popular for multi-day canoe trips"],
+    },
+  },
   {
     id: "czechrepublic-sazava-river-nature-v2",
     type: "river",
-    name: { de: "Sázava", hu: "Sázava", ro: "Râul Sázava", en: "Sazava River" },
+    name: { de: "Sázava", hu: "Sázava", ro: "Râul Sázava", en: "Sazava River",
+image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp"
+},
     coords: [14.7, 49.8],
     coordinates: { lat: 49.8, lng: 14.7 },
     description: {
@@ -342,11 +616,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 225 kilometri", "Râu important pentru mișcarea 'tramping'", "Deține faimoasa secțiune Stvořidla", "Se varsă în Vltava la Davle"],
       en: ["Length of approx. 225 kilometers", "Important river for Czech 'tramping'", "Features the famous Stvořidla section", "Confluence with Vltava at Davle"],
     },
-    imageHint: "Sazava river rapids forest", image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp"},
+    imageHint: "Sazava river rapids forest",
+    image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sázava ist bekannt für ihre romantischen Schluchten und Granitblöcke im Flussbett, was sie zu einem der beliebtesten Flüsse Tschechiens macht.",
+      hu: "A Sázava híres romantikus szurdokairól és a mederben heverő hatalmas gránitsziklákról, Csehország egyik legnépszerűbb folyója.",
+      ro: "Râul Sázava este cunoscut pentru defileele sale romantice și blocurile de granit din albie, fiind unul dintre cele mai populare râuri din Cehia.",
+      en: "The Sázava River is famous for its romantic gorges and granite boulders in the riverbed, making it one of the most beloved rivers in the country.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 225 Kilometern", "Quelle bei den Teichen von Žďár", "Mündung in die Moldau bei Davle", "Bekannt als \"Goldener Fluss\""],
+      hu: ["Hosszúsága 225 kilométer", "A Žďár-tavak közelében ered", "Davle városánál torkollik a Moldvába", "Az arany folyóként is emlegetik"],
+      ro: ["Lungime de 225 kilometri", "Sursă lângă iazurile din Žďár", "Vărsare în Vltava la Davle", "Cunoscut sub numele de râul de aur"],
+      en: ["Length of 225 kilometers", "Source near Žďár ponds", "Confluence with Vltava at Davle", "Nicknamed the \"Golden River\""],
+    },
+  },
   {
     id: "czechrepublic-certovo-jezero-nature-v2",
     type: "lake",
-    name: { de: "Teufelssee", hu: "Ördög-tó", ro: "Lacul Diavolului", en: "Devil's Lake" },
+    name: { de: "Teufelssee", hu: "Ördög-tó", ro: "Lacul Diavolului", en: "Devil's Lake",
+image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp"
+},
     coords: [13.203, 49.165],
     coordinates: { lat: 49.165, lng: 13.203 },
     description: {
@@ -361,11 +651,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Adâncime: cca. 37 metri", "Format în era glaciară Würm", "Suprafață: 10,3 hectare", "Relicvă glaciară"],
       en: ["Depth: approx. 37 meters", "Formed during the Würm glaciation", "Area: 10.3 hectares", "Glacial relic"],
     },
-    imageHint: "Devils lake Sumava forest dark water", image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp"},
+    imageHint: "Devils lake Sumava forest dark water",
+    image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Teufelssee ist der zweitgrößte Gletschersee im Böhmerwald und liegt am steilen Abhang der Seewand, umgeben von dichten Wäldern.",
+      hu: "Az Ördög-tó a Šumava második legnagyobb gleccsertava, amely a Jezerní hora meredek északi lejtője alatt, sűrű erdőben rejtőzik.",
+      ro: "Lacul Diavolului este al doilea cel mai mare lac glaciar din Šumava, situat pe panta abruptă a muntelui, înconjurat de păduri dense.",
+      en: "Devil's Lake is the second largest glacial lake in the Bohemian Forest, nestled under the steep slope of Jezerní hora in dense woods.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 10,3 Hektar", "Maximale Tiefe von 37 Metern", "Liegt auf einer Höhe von 1030 m", "Teil der europäischen Wasserscheide"],
+      hu: ["Területe 10,3 hektár", "Maximális mélysége 37 méter", "1030 méteres tengerszint feletti magasság", "Az európai vízválasztó része"],
+      ro: ["Suprafață de 10,3 hectare", "Adâncime maximă de 37 metri", "Situat la o altitudine de 1030 m", "Aparține cumpenei apelor europene"],
+      en: ["Surface area of 10.3 hectares", "Maximum depth of 37 meters", "Elevation of 1,030 meters", "Located on the European watershed"],
+    },
+  },
   {
     id: "czechrepublic-rejviz-lake-nature-v2",
     type: "lake",
-    name: { de: "Rejvíz-Moossee", hu: "Rejvízi-lápitó", ro: "Lacul de turbă Rejvíz", en: "Rejviz Moss Lake" },
+    name: { de: "Rejvíz-Moossee", hu: "Rejvízi-lápitó", ro: "Lacul de turbă Rejvíz", en: "Rejviz Moss Lake",
+image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp"
+},
     coords: [17.301, 50.228],
     coordinates: { lat: 50.228, lng: 17.301 },
     description: {
@@ -380,11 +686,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cea mai mare mlaștină din Moravia", "Traseu pe scânduri de lemn", "Prezența plantelor carnivore", "Altitudine: 769 m"],
       en: ["Largest mountain bog in Moravia", "Educational trail on wooden boards", "Presence of carnivorous plants", "Elevation: 769 m above sea level"],
     },
-    imageHint: "Rejviz moss lake wooden path", image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp"},
+    imageHint: "Rejviz moss lake wooden path",
+    image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Rejvíz ist das größte Moorgebiet in Mähren und Schlesien, bekannt für seine Großen und Kleinen Moosseen inmitten des Altvatergebirges.",
+      hu: "Rejvíz Morvaország és Szilézia legnagyobb tőzeglápja, amely a Jeseníky-hegység szívében fekvő Nagy-mohostaváról híres.",
+      ro: "Rejvíz este cea mai mare zonă de turbărie din Moravia și Silezia, faimoasă pentru lacurile sale de mușchi situate în Munții Jeseníky.",
+      en: "Rejvíz is the largest peat bog in Moravia and Silesia, famous for its Great Moss Lake located in the heart of the Jeseníky Mountains.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzgebiet seit 1955", "Tiefe der Torfschicht bis zu 3 m", "Lehrpfad auf Holzstegen", "Vorkommen fleischfressender Pflanzen"],
+      hu: ["1955 óta természetvédelmi terület", "A tőzegréteg vastagsága elérheti a 3 métert", "Fapallós tanösvény vezet rajta", "Húsevő növények élőhelye"],
+      ro: ["Rezervație naturală din 1955", "Strat de turbă de până la 3 m", "Potecă pe platforme de lemn", "Prezența plantelor carnivore"],
+      en: ["Nature reserve since 1955", "Peat layer depth up to 3 meters", "Educational trail on wooden piers", "Home to carnivorous plant species"],
+    },
+  },
   {
     id: "czechrepublic-bohemian-switzerland-nature-v2",
     type: "park",
-    name: { de: "Böhmische Schweiz", hu: "Cseh Svájc", ro: "Elveția Boemă", en: "Bohemian Switzerland" },
+    name: { de: "Böhmische Schweiz", hu: "Cseh Svájc", ro: "Elveția Boemă", en: "Bohemian Switzerland",
+image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp"
+},
     coords: [14.3, 50.9],
     coordinates: { lat: 50.9, lng: 14.3 },
     description: {
@@ -399,12 +721,28 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Fondat în anul 2000", "Se învecinează cu Elveția Saxonă", "Cel mai important râu: Elba", "Habitat pentru șoimul călător"],
       en: ["Founded in 2000", "Borders Saxon Switzerland in Germany", "Major river: Elbe", "Habitat for peregrine falcons"],
     },
-    imageHint: "Bohemian Switzerland mountains fog", image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp"}
+    imageHint: "Bohemian Switzerland mountains fog",
+    image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Böhmische Schweiz ist ein Nationalpark im Elbsandsteingebirge, der für seine bizarren Felsformationen und tiefen Schluchten bekannt ist.",
+      hu: "A Cseh Svájc nemzeti park az Elbai-homokkő-hegység része, amely bizarr sziklaalakzatairól, kapuiról és mély szurdokairól ismert.",
+      ro: "Elveția Boemă este un parc național în Munții de Gresie ai Elbei, renumit pentru formațiunile stâncoase bizare și cheile adânci.",
+      en: "Bohemian Switzerland is a national park in the Elbe Sandstone Mountains, renowned for its bizarre rock formations and deep gorges.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2000", "Fläche von 79 km²", "Höchster Punkt ist der Děčínský Sněžník", "Beherbergt das berühmte Prebischtor"],
+      hu: ["2000-ben alapították", "Területe 79 négyzetkilométer", "Legmagasabb pontja a Děčínský Sněžník", "Itt található a Pravčice-kapu"],
+      ro: ["Înființat în anul 2000", "Suprafață de 79 km²", "Cel mai înalt punct la Děčínský Sněžník", "Găzduiește celebra Poartă Pravčice"],
+      en: ["Established in 2000", "Area of 79 square kilometers", "Highest point at Děčínský Sněžník", "Home to the famous Pravčice Gate"],
+    },
+  }
 ,
   {
     id: "czechrepublic-mumlava-waterfall-nature-v2",
     type: "river",
-    name: { de: "Mumlavský vodopád", hu: "Mumlava-vízesés", ro: "Cascada Mumlava", en: "Mumlava Waterfall" },
+    name: { de: "Mumlavský vodopád", hu: "Mumlava-vízesés", ro: "Cascada Mumlava", en: "Mumlava Waterfall",
+image: "/poi-images/czechrepublic-mumlava-waterfall-nature-v2.webp"
+},
     coordinates: { lat: 50.761, lng: 15.451 },
     description: {
       de: "Der Mumlavský vodopád ist ein wasserreicher Wasserfall in der Nähe von Harrachov im Riesengebirge. Er stürzt über Granitfelsen etwa 10 Meter tief in das Flussbett der Mumlava.",
@@ -419,11 +757,25 @@ export const czechrepublicNatureV2: POI[] = [
       en: ["Total drop height of about 10 meters", "Famous for unique Giant's Kettles potholes", "Located within the Krkonoše National Park", "Accessible year-round via easy hiking trails"],
     },
     imageHint: "Mumlava Waterfall Harrachov granite steps",
+    descriptionAdvanced: {
+      de: "Der Mumlava-Wasserfall ist einer der wasserreichsten Kaskadenfälle im Riesengebirge und bekannt für seine riesigen Erosionskessel im Granit.",
+      hu: "A Mumlava-vízesés az Óriás-hegység egyik legbővizűbb vízesése, amely a medrében kialakult hatalmas gránit üstökről (óriásedények) híres.",
+      ro: "Cascada Mumlava este una dintre cele mai bogate în debit cascade din Munții Uriași, faimoasă pentru \"oalele uriașe\" excavate în granit.",
+      en: "The Mumlava Waterfall is one of the most powerful cascades in the Giant Mountains, famous for its large granite erosion pots.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe von ca. 10 Metern", "Ganzjährig zugänglich", "Liegt in der Nähe von Harrachov", "Geformt durch den Fluss Mumlava"],
+      hu: ["Magassága körülbelül 10 méter", "Egész évben látogatható", "Harrachov városa mellett található", "A Mumlava folyó alakította ki"],
+      ro: ["Înălțime de aproximativ 10 metri", "Accesibilă tot timpul anului", "Situată lângă orașul Harrachov", "Formată de râul Mumlava"],
+      en: ["Drop height of approx. 10 meters", "Accessible all year round", "Located near the town of Harrachov", "Formed by the Mumlava River"],
+    },
   },
   {
     id: "czechrepublic-broumov-walls-nature-v2",
     type: "mountain",
-    name: { de: "Broumovské stěny", hu: "Broumov-falak", ro: "Pereții Broumov", en: "Broumov Walls" },
+    name: { de: "Broumovské stěny", hu: "Broumov-falak", ro: "Pereții Broumov", en: "Broumov Walls",
+image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp"
+},
     coordinates: { lat: 50.55, lng: 16.283 },
     description: {
       de: "Die Broumovské stěny sind ein markanter Sandsteinrücken im Nordosten Böhmens. Das Gebiet zeichnet sich durch bizarre Felsformationen, tiefe Schluchten und weite Aussichtspunkte aus.",
@@ -437,11 +789,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Rezervație naturală națională din 1956", "Formațiuni unice de tip ciuperci de piatră", "Acoperă o suprafață de 638 de hectare", "Cel mai înalt punct este Koruna la 769 m"],
       en: ["National nature reserve since 1956", "Unique Stone Mushrooms rock formations", "Covers an area of 638 hectares", "Highest point is Koruna at 769 meters"],
     },
-    imageHint: "Broumov Walls sandstone rock formations", image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp"},
+    imageHint: "Broumov Walls sandstone rock formations",
+    image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Braunauer Wände sind ein markanter Sandsteinkamm mit bizarren Felsgebilden, tiefen Schluchten und weiten Ausblicken über das Becken.",
+      hu: "A Broumov-falak egy látványos homokkő gerinc, amelyet bizarr sziklaalakzatok, mély szakadékok és tágas panorámák jellemeznek.",
+      ro: "Pereții Broumov reprezintă o creastă de gresie distinctivă, cu formațiuni bizare, defilee adânci și vederi panoramice largi.",
+      en: "The Broumov Walls are a striking sandstone ridge featuring bizarre rock formations, deep ravines, and wide views over the basin.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzgebiet seit 1956", "Höchster Punkt ist Koruna (769 m)", "Länge des Kamms beträgt 12 km", "Barockkapelle auf dem Stern (Hvězda)"],
+      hu: ["1956 óta védett terület", "Legmagasabb pontja a Koruna (769 m)", "A gerinc hossza 12 kilométer", "Barokk kápolna áll a Hvězda-csúcson"],
+      ro: ["Rezervație naturală din 1956", "Vârful Koruna are 769 m", "Lungimea crestei este de 12 km", "Capelă barocă pe muntele Hvězda"],
+      en: ["Nature reserve since 1956", "Highest point is Koruna (769 m)", "Length of the ridge is 12 km", "Baroque chapel on the Hvězda peak"],
+    },
+  },
   {
     id: "czechrepublic-velka-amerika-nature-v2",
     type: "valley",
-    name: { de: "Velká Amerika", hu: "Velká Amerika", ro: "Velká Amerika", en: "Velká Amerika Canyon" },
+    name: { de: "Velká Amerika", hu: "Velká Amerika", ro: "Velká Amerika", en: "Velká Amerika Canyon",
+image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp"
+},
     coordinates: { lat: 49.955, lng: 14.194 },
     description: {
       de: "Velká Amerika ist ein ehemaliger Kalksteinbruch in der Nähe der Burg Karlštejn, der oft als tschechischer Grand Canyon bezeichnet wird. Der tiefe Canyon ist teilweise mit einem blauen See gefüllt.",
@@ -455,11 +823,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Circa 800 metri lungime și 100 metri adâncime", "Locație populară de filmare pentru cinema", "Conectată cu alte cariere prin tuneluri", "Exploatarea calcarului s-a încheiat în 1963"],
       en: ["About 800 meters long and 100 meters deep", "Popular filming location for various movies", "Interconnected with other quarries by tunnels", "Limestone mining ended here in 1963"],
     },
-    imageHint: "Velka Amerika quarry canyon blue lake", image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp"},
+    imageHint: "Velka Amerika quarry canyon blue lake",
+    image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Velká Amerika ist ein malerischer ehemaliger Kalksteinbruch, der wegen seines kristallklaren Sees oft als tschechischer Grand Canyon bezeichnet wird.",
+      hu: "A Velká Amerika egy festői egykori mészkőbánya, amelyet kristálytiszta tava miatt gyakran a cseh Grand Canyonként emlegetnek.",
+      ro: "Velká Amerika este o fostă carieră de calcar pitorească, supranumită adesea Marele Canyon ceh datorită lacului său turcoaz.",
+      en: "Velká Amerika is a picturesque former limestone quarry often called the Czech Grand Canyon due to its crystal-clear turquoise lake.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe des Steinbruchs ca. 100 m", "Länge beträgt etwa 800 Meter", "Bekannter Drehort für Filme", "Verbunden durch unterirdische Gänge"],
+      hu: ["A bánya mélysége kb. 100 méter", "Hosszúsága mintegy 800 méter", "Népszerű filmforgatási helyszín", "Föld alatti folyosók kötik össze"],
+      ro: ["Adâncime de aproximativ 100 m", "Lungime de circa 800 metri", "Locație celebră pentru filmări", "Conectat prin galerii subterane"],
+      en: ["Quarry depth approx. 100 meters", "Length is about 800 meters", "Famous filming location for movies", "Connected by underground tunnels"],
+    },
+  },
   {
     id: "czechrepublic-bila-opava-valley-nature-v2",
     type: "valley",
-    name: { de: "Bílá Opava Tal", hu: "Bílá Opava-völgy", ro: "Valea Bílá Opava", en: "Bílá Opava Valley" },
+    name: { de: "Bílá Opava Tal", hu: "Bílá Opava-völgy", ro: "Valea Bílá Opava", en: "Bílá Opava Valley",
+image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp"
+},
     coordinates: { lat: 50.076, lng: 17.26 },
     description: {
       de: "Das Tal der Weißen Oppa ist einer der schönsten Naturpfade im Altvatergebirge. Der Gebirgsfluss stürzt über zahlreiche Kaskaden und Wasserfälle durch eine wilde Felsschlucht.",
@@ -473,11 +857,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Situată pe pantele muntelui Praděd", "Cea mai înaltă cascadă are 8 metri", "Parte a Rezervației Naturale Naționale Praděd", "Păduri virgine de molid de munte"],
       en: ["Located on the slopes of Praděd mountain", "The highest waterfall is 8 meters tall", "Part of the Praděd National Nature Reserve", "Home to rare mountain spruce forests"],
     },
-    imageHint: "Bila Opava river cascades mountain gorge", image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp"},
+    imageHint: "Bila Opava river cascades mountain gorge",
+    image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tal der Weißen Oppa ist einer der schönsten Naturpfade im Altvatergebirge, geprägt von Kaskaden, Wasserfällen und wilder Natur.",
+      hu: "A Bílá Opava völgye a Jeseníky-hegység egyik legszebb túraútvonala, amelyet vízesések, zúgók és érintetlen vadon jellemez.",
+      ro: "Valea Bílá Opava este unul dintre cele mai frumoase trasee din Munții Jeseníky, marcat de cascade, praguri și natură sălbatică.",
+      en: "The Bílá Opava Valley is one of the most beautiful trails in the Jeseníky Mountains, featuring waterfalls, rapids, and wild nature.",
+    },
+    factsAdvanced: {
+      de: ["Höhenunterschied von 500 Metern", "Höchster Wasserfall ist 7,9 m hoch", "Teil des Naturschutzgebiets Praděd", "Zahlreiche Leitern und Brücken"],
+      hu: ["A szintkülönbség 500 méter", "Legmagasabb vízesése 7,9 méteres", "A Praděd természetvédelmi terület része", "Számos létra és híd segíti az utat"],
+      ro: ["Diferență de nivel de 500 metri", "Cea mai mare cascadă are 7,9 m", "Parte a rezervației naturale Praděd", "Numeroase scări și poduri de lemn"],
+      en: ["Elevation gain of 500 meters", "Highest waterfall is 7.9 meters", "Part of the Praděd Nature Reserve", "Numerous ladders and footbridges"],
+    },
+  },
   {
     id: "czechrepublic-doupov-mountains-nature-v2",
     type: "mountain",
-    name: { de: "Duppauer Gebirge", hu: "Doupov-hegység", ro: "Munții Doupov", en: "Doupov Mountains" },
+    name: { de: "Duppauer Gebirge", hu: "Doupov-hegység", ro: "Munții Doupov", en: "Doupov Mountains",
+image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp"
+},
     coordinates: { lat: 50.25, lng: 13.15 },
     description: {
       de: "Die Duppauer Gebirge sind eine ausgedehnte vulkanische Gebirgskette im Nordwesten Böhmens. Das Gebiet ist weitgehend unbewohnt und bietet eine wilde, unberührte Naturlandschaft.",
@@ -491,11 +891,27 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cea mai mare acumulare de bazalt din Europa Centrală", "Utilizat în principal ca zonă de antrenament militar", "Arie importantă de protecție a păsărilor", "Cel mai înalt vârf este Hradiště la 934 m"],
       en: ["Largest basalt accumulation in Central Europe", "Mostly used as a military training area", "Important bird protection area", "Highest peak is Hradiště at 934 meters"],
     },
-    imageHint: "Doupov Mountains volcanic landscape forest", image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp"},
+    imageHint: "Doupov Mountains volcanic landscape forest",
+    image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Duppauer Gebirge ist ein kreisförmiges Gebirge vulkanischen Ursprungs, das heute weitgehend als Truppenübungsplatz dient.",
+      hu: "A Doupov-hegység egy vulkáni eredetű, kör alakú hegység, amely ma nagyrészt katonai kiképzőterületként szolgál.",
+      ro: "Munții Doupov reprezintă un masiv circular de origine vulcanică, fiind în prezent în mare parte zonă de antrenament militar.",
+      en: "The Doupov Mountains are a circular range of volcanic origin, currently serving largely as a military training area.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel ist Hradiště (934 m)", "Einst größter Stratovulkan Böhmens", "Unbewohntes und wildes Gebiet", "Wertvolle Steppenbiotope"],
+      hu: ["Legmagasabb csúcsa a Hradiště (934 m)", "Egykor Csehország legnagyobb vulkánja", "Lakatlan és vadregényes táj", "Értékes sztyeppei élőhelyek"],
+      ro: ["Cel mai înalt vârf este Hradiště (934 m)", "Fostul cel mai mare stratovulcan boem", "Zonă nelocuită și sălbatică", "Biotipe de stepă valoroase"],
+      en: ["Highest peak is Hradiště (934 m)", "Once Bohemia's largest stratovolcano", "Uninhabited and wild territory", "Valuable steppe-like habitats"],
+    },
+  },
   {
     id: "czechrepublic-luznice-river-nature-v2",
     type: "river",
-    name: { de: "Lužnice", hu: "Lužnice", ro: "Lužnice", en: "Lužnice River" },
+    name: { de: "Lužnice", hu: "Lužnice", ro: "Lužnice", en: "Lužnice River",
+image: "/poi-images/czechrepublic-luznice-river-nature-v2.webp"
+},
     coordinates: { lat: 49.23, lng: 14.43 },
     description: {
       de: "Die Lainsitz ist ein bedeutender Fluss in Südböhmen, der für seine Mäander und seine Bedeutung für den Kanusport bekannt ist. Sie fließt durch eine abwechslungsreiche Teichlandschaft.",
@@ -510,5 +926,17 @@ export const czechrepublicNatureV2: POI[] = [
       en: ["Total length is 208 kilometers", "Forms part of the Třeboňsko Biosphere Reserve", "Popular destination for river rafting", "Passes through the historic town of Tábor"],
     },
     imageHint: "Luznice river meanders canoe landscape",
+    descriptionAdvanced: {
+      de: "Die Lainsitz ist ein typischer südböhmischer Fluss, der durch flache Becken mit vielen Teichen und tiefe Schluchten im Unterlauf fließt.",
+      hu: "A Lužnice tipikus dél-csehországi folyó, amely tavakkal teli lapályokon és az alsó szakaszán mély szurdokokon kanyarog át.",
+      ro: "Râul Lužnice este un curs de apă tipic pentru Boemia de Sud, străbătând câmpii cu iazuri și defilee adânce în cursul inferior.",
+      en: "The Lužnice River is a typical South Bohemian river, flowing through flat basins with many ponds and deep gorges in its lower reaches.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 208 Kilometern", "Quelle in Niederösterreich", "Durchfließt das Gebiet Třeboňsko", "Mündet bei Týn in die Moldau"],
+      hu: ["Hosszúsága 208 kilométer", "Ausztriában, Alsó-Ausztriában ered", "Átszeli a Třeboň-medencét", "Týn városa mellett torkollik a Moldvába"],
+      ro: ["Lungime de 208 kilometri", "Sursă în Austria Inferioară", "Străbate regiunea Třeboňsko", "Se varsă în Vltava la Týn"],
+      en: ["Length of 208 kilometers", "Source in Lower Austria", "Flows through the Třeboňsko area", "Joins the Vltava near Týn nad Vltavou"],
+    },
   }
 ];

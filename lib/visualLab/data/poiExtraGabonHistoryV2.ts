@@ -7,7 +7,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-6",
     coords: [11.5833, -0.4833],
-    name: { de: "Lopé Archäologische Stätten", hu: "Lopé régészeti lelőhelyek", ro: "Situl arheologic Lopé", en: "Lopé Archaeological Sites" },
+    name: { de: "Lopé Archäologische Stätten", hu: "Lopé régészeti lelőhelyek", ro: "Situl arheologic Lopé", en: "Lopé Archaeological Sites",
+image: "/poi-images/lope-archaeology-history-v2.webp"
+},
     description: {
       de: "Teil des UNESCO-Welterbes, bekannt für prähistorische Felsgravuren und antike Eisenverhüttungsstätten.",
       hu: "Az UNESCO Világörökség része, amely prehisztorikus sziklavésetekről és ősi vasskohókról nevezetes.",
@@ -65,7 +67,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-1",
     coords: [9.4447, 0.3831],
-    name: { de: "St. Peter Kathedrale Libreville", hu: "Szent Péter-székesegyház, Libreville", ro: "Catedrala Sfântul Petru din Libreville", en: "St. Peter's Cathedral Libreville" },
+    name: { de: "St. Peter Kathedrale Libreville", hu: "Szent Péter-székesegyház, Libreville", ro: "Catedrala Sfântul Petru din Libreville", en: "St. Peter's Cathedral Libreville",
+image: "/poi-images/st-peter-cathedral-history-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten religiösen Stätten in der Hauptstadt, bekannt für ihre Architektur und Glasmalerei.",
       hu: "A főváros egyik legfontosabb vallási helyszíne, amely építészetéről és üvegablakairól ismert.",
@@ -123,7 +127,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-8",
     coords: [9.2083, -1.4583],
-    name: { de: "Mission Sainte-Anne du Fernan Vaz", hu: "Szent Anna misszió", ro: "Misiunea Sfânta Ana din Fernan Vaz", en: "Mission Sainte-Anne du Fernan Vaz" },
+    name: { de: "Mission Sainte-Anne du Fernan Vaz", hu: "Szent Anna misszió", ro: "Misiunea Sfânta Ana din Fernan Vaz", en: "Mission Sainte-Anne du Fernan Vaz",
+image: "/poi-images/mission-ste-anne-history-v2.webp"
+},
     description: {
       de: "Eine historische Eisenkirche, die Ende des 19. Jahrhunderts in den Werkstätten von Gustave Eiffel entworfen wurde.",
       hu: "Történelmi vasból készült templom, amelyet a 19. század végén Gustave Eiffel műhelyében terveztek.",
@@ -181,7 +187,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-1",
     coords: [9.4420, 0.3890],
-    name: { de: "Stätte des Fort d'Aumale", hu: "Fort d'Aumale helyszíne", ro: "Situl Fort d'Aumale", en: "Fort d'Aumale Site" },
+    name: { de: "Stätte des Fort d'Aumale", hu: "Fort d'Aumale helyszíne", ro: "Situl Fort d'Aumale", en: "Fort d'Aumale Site",
+image: "/poi-images/fort-aumale-history-v2.webp"
+},
     description: {
       de: "Der Standort des ersten französischen Forts in Gabun, das den Grundstein für die Gründung von Libreville legte.",
       hu: "Az első francia erőd helyszíne Gabonban, amely alapul szolgált Libreville megalapításához.",
@@ -208,7 +216,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-1",
     coords: [9.7500, 0.2200],
-    name: { de: "Mission von Donguila", hu: "Donguila misszió", ro: "Misiunea din Donguila", en: "Mission de Donguila" },
+    name: { de: "Mission von Donguila", hu: "Donguila misszió", ro: "Misiunea din Donguila", en: "Mission de Donguila",
+image: "/poi-images/donguila-mission-history-v2.webp"
+},
     description: {
       de: "Einer der ältesten Missionsposten am Komo-Fluss, ein Symbol der christlichen Geschichte in Gabun.",
       hu: "Az egyik legrégebbi missziós állomás a Komo folyó mentén, a gaboni keresztény történelem szimbóluma.",
@@ -235,7 +245,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-8",
     coords: [8.7000, -0.6400],
-    name: { de: "Historischer Hafen von Cap Lopez", hu: "Cap Lopez történelmi kikötője", ro: "Portul istoric Cap Lopez", en: "Historic Port of Cap Lopez" },
+    name: { de: "Historischer Hafen von Cap Lopez", hu: "Cap Lopez történelmi kikötője", ro: "Portul istoric Cap Lopez", en: "Historic Port of Cap Lopez",
+image: "/poi-images/cap-lopez-slave-port-history-v2.webp"
+},
     description: {
       de: "Ein bedeutsamer Ort des transatlantischen Sklavenhandels an der Westküste Afrikas.",
       hu: "A transzatlanti rabszolga-kereskedelem egyik jelentős helyszíne Afrika nyugati partján.",
@@ -260,7 +272,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-3",
     coords: [10.2300, -0.6900],
-    name: { de: "Albert-Schweitzer-Museum", hu: "Albert Schweitzer Múzeum", ro: "Muzeul Albert Schweitzer", en: "Albert Schweitzer Museum" },
+    name: { de: "Albert-Schweitzer-Museum", hu: "Albert Schweitzer Múzeum", ro: "Muzeul Albert Schweitzer", en: "Albert Schweitzer Museum",
+image: "/poi-images/schweitzer-museum-history-v2.webp"
+},
     description: {
       de: "Die originalen Gebäude des Krankenhauses, das vom Friedensnobelpreisträger Albert Schweitzer gegründet wurde.",
       hu: "A Nobel-békedíjas Albert Schweitzer által alapított kórház eredeti épületei.",
@@ -278,7 +292,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-4",
     coords: [10.7500, -1.2500],
-    name: { de: "Mission von Sindara", hu: "Sindara misszió", ro: "Misiunea din Sindara", en: "Sindara Mission" },
+    name: { de: "Mission von Sindara", hu: "Sindara misszió", ro: "Misiunea din Sindara", en: "Sindara Mission",
+image: "/poi-images/sindara-mission-history-v2.webp"
+},
     description: {
       de: "Eine historische katholische Mission am Ngounié-Fluss, die eine wichtige Rolle bei der Erschließung des Landesinneren spielte.",
       hu: "Történelmi katolikus misszió a Ngounié folyó mentén, amely fontos szerepet játszott a belső területek feltárásában.",
@@ -297,7 +313,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-7",
     coords: [12.7167, -0.8167],
-    name: { de: "Höhlen von Lastoursville", hu: "Lastoursville-i barlangok", ro: "Peșterile din Lastoursville", en: "Lastoursville Caves" },
+    name: { de: "Höhlen von Lastoursville", hu: "Lastoursville-i barlangok", ro: "Peșterile din Lastoursville", en: "Lastoursville Caves",
+image: "/poi-images/lastoursville-caves-history-v2.webp"
+},
     description: {
       de: "Archäologisch bedeutsame Höhlen, die Spuren menschlicher Besiedlung aus prähistorischen Zeiten beherbergen.",
       hu: "Régészetileg jelentős barlangok, amelyek prehisztorikus emberi jelenlét nyomait őrzik.",
@@ -322,7 +340,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-8",
     coords: [8.8000, -0.7000],
-    name: { de: "Königliche Gräber der Orungu", hu: "Orungu királyi sírok", ro: "Mormintele regale Orungu", en: "Orungu Royal Tombs" },
+    name: { de: "Königliche Gräber der Orungu", hu: "Orungu királyi sírok", ro: "Mormintele regale Orungu", en: "Orungu Royal Tombs",
+image: "/poi-images/orungu-royal-tombs-history-v2.webp"
+},
     description: {
       de: "Traditionelle Begräbnisstätten der Könige des Orungu-Königreichs, das die Region Ogooué-Maritime kontrollierte.",
       hu: "Az Ogooué-Maritime régiót uraló Orungu-királyság uralkodóinak hagyományos temetkezési helye.",
@@ -340,7 +360,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-2",
     coords: [13.5833, -1.6333],
-    name: { de: "Kolonialverwaltung von Franceville", hu: "Franceville gyarmati közigazgatás", ro: "Administrația colonială din Franceville", en: "Franceville Colonial Administration" },
+    name: { de: "Kolonialverwaltung von Franceville", hu: "Franceville gyarmati közigazgatás", ro: "Administrația colonială din Franceville", en: "Franceville Colonial Administration",
+image: "/poi-images/franceville-colonial-history-v2.webp"
+},
     description: {
       de: "Historische Verwaltungsgebäude aus der Zeit des französischen Kongo im Osten Gabuns.",
       hu: "Francia-Kongó idejéből származó történelmi közigazgatási épületek Gabon keleti részén.",
@@ -365,7 +387,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-5",
     coords: [10.6500, -3.4200],
-    name: { de: "Sklavendenkmal von Mayumba", hu: "Mayumba rabszolga-emlékmű", ro: "Memorialul sclavilor din Mayumba", en: "Mayumba Slave Memorial" },
+    name: { de: "Sklavendenkmal von Mayumba", hu: "Mayumba rabszolga-emlékmű", ro: "Memorialul sclavilor din Mayumba", en: "Mayumba Slave Memorial",
+image: "/poi-images/mayumba-slave-memorial-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal zur Erinnerung an die Opfer des transatlantischen Sklavenhandels in diesem ehemaligen Hafen.",
       hu: "Emlékmű a transzatlanti rabszolga-kereskedelem áldozatainak emlékére ebben az egykori kikötőben.",
@@ -383,7 +407,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-1",
     coords: [9.4410, 0.3850],
-    name: { de: "Baraka-Missionsstation", hu: "Baraka misszió", ro: "Misiunea Baraka", en: "Baraka Mission Station" },
+    name: { de: "Baraka-Missionsstation", hu: "Baraka misszió", ro: "Misiunea Baraka", en: "Baraka Mission Station",
+image: "/poi-images/baraka-mission-history-v2.webp"
+},
     description: {
       de: "Eine der ersten protestantischen Missionen in Äquatorialafrika, heute ein historisches Viertel von Libreville.",
       hu: "Egyenlítői-Afrika egyik első protestáns missziója, ma Libreville egyik történelmi negyede.",
@@ -409,7 +435,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-3",
     coords: [10.7667, -0.1833],
-    name: { de: "Historischer Posten Ndjolé", hu: "Ndjolé történelmi őrhely", ro: "Postul istoric Ndjolé", en: "Ndjolé Historical Post" },
+    name: { de: "Historischer Posten Ndjolé", hu: "Ndjolé történelmi őrhely", ro: "Postul istoric Ndjolé", en: "Ndjolé Historical Post",
+image: "/poi-images/ndjole-historical-post-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliger französischer Militär- und Handelsaußenposten am Ogooué-Fluss.",
       hu: "Egykori francia katonai és kereskedelmi külbirtok az Ogooué folyó partján.",
@@ -428,7 +456,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-3",
     coords: [10.2333, -0.7000],
-    name: { de: "Altstadt von Lambaréné", hu: "Lambaréné óváros", ro: "Orașul vechi Lambaréné", en: "Lambaréné Old Quarter" },
+    name: { de: "Altstadt von Lambaréné", hu: "Lambaréné óváros", ro: "Orașul vechi Lambaréné", en: "Lambaréné Old Quarter",
+image: "/poi-images/lambarene-old-quarter-history-v2.webp"
+},
     description: {
       de: "Historische Viertel mit Gebäuden aus der Handelszeit des 19. Jahrhunderts am Ogooué-Fluss.",
       hu: "Történelmi negyedek a 19. századi kereskedelmi korszak épületeivel az Ogooué folyó mentén.",
@@ -453,7 +483,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-7",
     coords: [12.7200, -0.8200],
-    name: { de: "Lastour-Denkmal", hu: "Lastour-emlékmű", ro: "Monumentul Lastour", en: "Lastour Memorial" },
+    name: { de: "Lastour-Denkmal", hu: "Lastour-emlékmű", ro: "Monumentul Lastour", en: "Lastour Memorial",
+image: "/poi-images/lastour-memorial-history-v2.webp"
+},
     description: {
       de: "Ein Denkmal zu Ehren von Jacques de Lastours, einem französischen Forscher in Zentralgabun.",
       hu: "Emlékmű Jacques de Lastours tiszteletére, aki francia kutató volt Közép-Gabonban.",
@@ -478,7 +510,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-2",
     coords: [13.5850, -1.6350],
-    name: { de: "Pierre Savorgnan de Brazza Stätte", hu: "Pierre Savorgnan de Brazza emlékhely", ro: "Situl Pierre Savorgnan de Brazza", en: "Pierre Savorgnan de Brazza Site" },
+    name: { de: "Pierre Savorgnan de Brazza Stätte", hu: "Pierre Savorgnan de Brazza emlékhely", ro: "Situl Pierre Savorgnan de Brazza", en: "Pierre Savorgnan de Brazza Site",
+image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp"
+},
     description: {
       de: "Historischer Ort im Zusammenhang mit dem berühmten Entdecker, der die Grundlagen für das heutige Gabon legte.",
       hu: "A híres felfedezőhöz kötődő történelmi helyszín, aki lefektette a mai Gabon alapjait.",
@@ -496,7 +530,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-8",
     coords: [9.2000, -1.5000],
-    name: { de: "Fernand-Vaz Koloniale Stätte", hu: "Fernand-Vaz gyarmati emlékhely", ro: "Situl colonial Fernand Vaz", en: "Fernand Vaz Colonial Site" },
+    name: { de: "Fernand-Vaz Koloniale Stätte", hu: "Fernand-Vaz gyarmati emlékhely", ro: "Situl colonial Fernand Vaz", en: "Fernand Vaz Colonial Site",
+image: "/poi-images/fernand-vaz-colonial-site-history-v2.webp"
+},
     description: {
       de: "Eine ehemalige Handelsstation und Missionsgebiet an der Küstenlagune.",
       hu: "Egykori kereskedelmi állomás és missziós terület a tengerparti lagúnánál.",
@@ -521,7 +557,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-1",
     coords: [9.4500, 0.3900],
-    name: { de: "Alter Hafen von Libreville", hu: "Libreville régi kikötője", ro: "Portul vechi din Libreville", en: "Libreville Old Harbor" },
+    name: { de: "Alter Hafen von Libreville", hu: "Libreville régi kikötője", ro: "Portul vechi din Libreville", en: "Libreville Old Harbor",
+image: "/poi-images/libreville-old-harbor-history-v2.webp"
+},
     description: {
       de: "Das historische Zentrum des Seehandels in Libreville, wo die Stadtentwicklung begann.",
       hu: "A tengeri kereskedelem történelmi központja Libreville-ben, ahol a városfejlődés megkezdődött.",
@@ -539,7 +577,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-6",
     coords: [11.6000, -0.5000],
-    name: { de: "Prähistorische Eisenschmelzstätten", hu: "Prehisztorikus vasskohók", ro: "Situl antic de topire a fierului", en: "Ancient Iron Smelting Sites" },
+    name: { de: "Prähistorische Eisenschmelzstätten", hu: "Prehisztorikus vasskohók", ro: "Situl antic de topire a fierului", en: "Ancient Iron Smelting Sites",
+image: "/poi-images/ancient-iron-smelting-ogooue-history-v2.webp"
+},
     description: {
       de: "Archäologische Stätten am Ogooué-Fluss, die frühe Eisenverarbeitungstechniken in Zentralafrika belegen.",
       hu: "Régészeti lelőhelyek az Ogooué folyó mentén, amelyek a korai közép-afrikai vasmegmunkálási technikákat bizonyítják.",

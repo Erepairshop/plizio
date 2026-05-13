@@ -6,7 +6,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "port",
     parent: "OM-BS",
     coords: [56.6214, 24.4019],
-    name: { de: "Hafen von Sohar", hu: "Szohar kikötője", ro: "Portul Sohar", en: "Port of Sohar" },
+    name: { de: "Hafen von Sohar", hu: "Szohar kikötője", ro: "Portul Sohar", en: "Port of Sohar",
+image: "/poi-images/port-sohar-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Sohar ist ein bedeutender Tiefseehafen und ein zentraler industrieller Knotenpunkt im Norden Omans. Er wird als Joint Venture zwischen dem Sultanat Oman und dem Hafen von Rotterdam betrieben.",
       hu: "Szohar kikötője egy jelentős mélyvízi kikötő és központi ipari csomópont Omán északi részén. Az Ománi Szultanátus és a Rotterdami Kikötő közös vállalkozásaként működik.",
@@ -53,7 +55,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "port",
     parent: "OM-ZU",
     coords: [54.0042, 16.9458],
-    name: { de: "Hafen von Salala", hu: "Szalála kikötője", ro: "Portul Salalah", en: "Port of Salalah" },
+    name: { de: "Hafen von Salala", hu: "Szalála kikötője", ro: "Portul Salalah", en: "Port of Salalah",
+image: "/poi-images/port-salalah-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Salala ist der größte Hafen Omans und ein wichtiger Container-Umschlagplatz am Arabischen Meer. Seine strategische Lage nahe der internationalen Schifffahrtsrouten zwischen Asien und Europa macht ihn zu einem globalen Handelszentrum.",
       hu: "Szalála kikötője Omán legnagyobb kikötője és fontos konténer-átrakodó állomás az Arab-tengernél. Stratégiai elhelyezkedése az Ázsia és Európa közötti nemzetközi hajózási útvonalak közelében globális kereskedelmi központtá teszi.",
@@ -100,7 +104,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "port",
     parent: "OM-WU",
     coords: [57.7013, 19.6705],
-    name: { de: "Hafen von Duqm", hu: "Dukm kikötője", ro: "Portul Duqm", en: "Port of Duqm" },
+    name: { de: "Hafen von Duqm", hu: "Dukm kikötője", ro: "Portul Duqm", en: "Port of Duqm",
+image: "/poi-images/port-duqm-economic-v2.webp"
+},
     description: {
       de: "Der Hafen von Duqm ist ein aufstrebendes maritimes Zentrum in der Sonderwirtschaftszone Duqm. Mit seinem riesigen Trockendock und modernen Anlagen entwickelt sich der Hafen zu einem der größten Schifffahrts- und Logistikzentren im Nahen Osten.",
       hu: "Dukm kikötője egy feltörekvő tengerészeti központ a Dukmi Különleges Gazdasági Zónában. Hatalmas szárazdokkjával és modern létesítményeivel a kikötő a Közel-Kelet egyik legnagyobb hajózási és logisztikai központjává fejlődik.",
@@ -147,7 +153,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "port",
     parent: "OM-MA",
     coords: [58.5630, 23.6300],
-    name: { de: "Hafen Sultan Qaboos", hu: "Szultán Kábúsz kikötő", ro: "Portul Sultan Qaboos", en: "Port Sultan Qaboos" },
+    name: { de: "Hafen Sultan Qaboos", hu: "Szultán Kábúsz kikötő", ro: "Portul Sultan Qaboos", en: "Port Sultan Qaboos",
+image: "/poi-images/port-sultan-qaboos-economic-v2.webp"
+},
     description: {
       de: "Der Hafen Sultan Qaboos in Matrah war einst der wichtigste Handelshafen Omans und wurde in den letzten Jahren in ein führendes Ziel für Kreuzfahrtschiffe und Yachten umgewandelt. Er bildet das maritime Tor zur Hauptstadt Maskat.",
       hu: "A Matrahban található Szultán Kábúsz kikötő egykor Omán legfontosabb kereskedelmi kikötője volt, az elmúlt években pedig a tengerjáró hajók és jachtok vezető célpontjává alakították át. Ez jelenti a tengeri kaput a főváros, Maszkat felé.",
@@ -194,7 +202,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "port",
     parent: "OM-MA",
     coords: [58.5080, 23.6330],
-    name: { de: "Ölterminal Mina Al Fahal", hu: "Mina Al Fahal olajterminál", ro: "Terminalul petrolier Mina Al Fahal", en: "Mina Al Fahal Oil Terminal" },
+    name: { de: "Ölterminal Mina Al Fahal", hu: "Mina Al Fahal olajterminál", ro: "Terminalul petrolier Mina Al Fahal", en: "Mina Al Fahal Oil Terminal",
+image: "/poi-images/mina-al-fahal-economic-v2.webp"
+},
     description: {
       de: "Mina Al Fahal ist das zentrale Terminal für den Export von Rohöl im Oman. In der Nähe von Maskat gelegen, dient es als Endpunkt eines riesigen Pipelinenetzes und beherbergt die landesweit wichtigste Erdölraffinerie.",
       hu: "A Mina Al Fahal Omán központi kőolaj-exportterminálja. Maszkat közelében található, egy hatalmas csővezeték-hálózat végpontjaként szolgál, és az ország legfontosabb kőolaj-finomítójának is otthont ad.",
@@ -241,7 +251,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "industry",
     parent: "OM-SJ",
     coords: [59.4500, 22.6000],
-    name: { de: "Industriegebiet Sur", hu: "Szúr Ipari Zóna", ro: "Zona Industrială Sur", en: "Sur Industrial City" },
+    name: { de: "Industriegebiet Sur", hu: "Szúr Ipari Zóna", ro: "Zona Industrială Sur", en: "Sur Industrial City",
+image: "/poi-images/sur-industrial-city-economic-v2.webp"
+},
     description: {
       de: "Das Industriegebiet Sur in der Region Ash Sharqiyah South ist ein wichtiger Standort für Schwerindustrie und petrochemische Anlagen. Die Stadt profitiert von ihrer Küstenlage und einer hervorragenden Infrastruktur für den Export.",
       hu: "Az Ash Sharqiyah South régióban található Szúr Ipari Zóna a nehézipar és a petrolkémiai létesítmények fontos helyszíne. A város sokat profitál part menti fekvéséből és az exporthoz szükséges kiváló infrastruktúrából.",
@@ -288,7 +300,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-SJ",
     coords: [59.4167, 22.6667],
-    name: { de: "Oman LNG-Anlage", hu: "Omán LNG-üzem", ro: "Uzina LNG Oman", en: "Oman LNG Plant" },
+    name: { de: "Oman LNG-Anlage", hu: "Omán LNG-üzem", ro: "Uzina LNG Oman", en: "Oman LNG Plant",
+image: "/poi-images/oman-lng-plant-economic-v2.webp"
+},
     description: {
       de: "Die Anlage von Oman LNG in Sur ist verantwortlich für die Verflüssigung und den Export von omanischem Erdgas. Sie ist ein Eckpfeiler der nationalen Wirtschaft und versorgt Kunden in Asien und auf der ganzen Welt mit sauberer Energie.",
       hu: "A Szúrban található Oman LNG üzem felelős az ománi földgáz cseppfolyósításáért és exportjáért. A nemzeti gazdaság egyik sarokköve, tiszta energiával látva el a vásárlókat Ázsiában és szerte a világon.",
@@ -335,7 +349,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "industry",
     parent: "OM-MA",
     coords: [58.1750, 23.5410],
-    name: { de: "Industriegebiet Rusayl", hu: "Ruszajl Ipari Zóna", ro: "Zona Industrială Rusayl", en: "Rusayl Industrial City" },
+    name: { de: "Industriegebiet Rusayl", hu: "Ruszajl Ipari Zóna", ro: "Zona Industrială Rusayl", en: "Rusayl Industrial City",
+image: "/poi-images/rusayl-industrial-city-economic-v2.webp"
+},
     description: {
       de: "Rusayl ist das erste und älteste Industriegebiet im Oman und liegt vor den Toren der Hauptstadt Maskat. Seit seiner Gründung im Jahr 1983 hat es sich zu einem vielfältigen Zentrum für die Produktion von Konsum- und Industriegütern entwickelt.",
       hu: "Ruszajl Omán első és legrégebbi ipari területe, amely a főváros, Maszkat kapujában fekszik. 1983-as alapítása óta a fogyasztási és ipari cikkek gyártásának sokszínű központjává fejlődött.",
@@ -382,7 +398,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "industry",
     parent: "OM-DA",
     coords: [57.5450, 22.8600],
-    name: { de: "Industriegebiet Nizwa", hu: "Nizva Ipari Zóna", ro: "Zona Industrială Nizwa", en: "Nizwa Industrial City" },
+    name: { de: "Industriegebiet Nizwa", hu: "Nizva Ipari Zóna", ro: "Zona Industrială Nizwa", en: "Nizwa Industrial City",
+image: "/poi-images/nizwa-industrial-city-economic-v2.webp"
+},
     description: {
       de: "Das Industriegebiet Nizwa in der Region Ad Dakhiliyah fördert die wirtschaftliche Entwicklung im Landesinneren Omans. Es konzentriert sich auf die Herstellung von Baumaterialien, Keramik und die Verarbeitung von Lebensmitteln.",
       hu: "Az Ad Dakhiliyah régióban fekvő Nizva Ipari Zóna az ománi belső területek gazdasági fejlődését ösztönzi. Elsősorban építőanyagok, kerámiák gyártására és élelmiszer-feldolgozásra összpontosít.",
@@ -429,7 +447,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "industry",
     parent: "OM-BS",
     coords: [56.5950, 24.3980],
-    name: { de: "Sohar Aluminiumwerk", hu: "Szohar Alumíniumkohó", ro: "Fabrica de Aluminiu Sohar", en: "Sohar Aluminium Plant" },
+    name: { de: "Sohar Aluminiumwerk", hu: "Szohar Alumíniumkohó", ro: "Fabrica de Aluminiu Sohar", en: "Sohar Aluminium Plant",
+image: "/poi-images/sohar-aluminium-economic-v2.webp"
+},
     description: {
       de: "Sohar Aluminium ist ein massiver Industriekomplex, der eine hochmoderne Schmelzhütte mit einem eigenen Kraftwerk kombiniert. Es spielt eine Schlüsselrolle in Omans Bemühungen, die Wirtschaft über den Export von Kohlenwasserstoffen hinaus zu diversifizieren.",
       hu: "A Sohar Aluminium egy hatalmas ipari komplexum, amely egy csúcstechnológiás kohót és egy saját erőművet foglal magában. Kulcsszerepet játszik Omán azon törekvésében, hogy a szénhidrogének exportján túl diverzifikálja a gazdaságot.",
@@ -476,7 +496,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "OM-ZU",
     coords: [53.9650, 16.9600],
-    name: { de: "Freihandelszone Salala", hu: "Szalála Szabadkereskedelmi Zóna", ro: "Zona Liberă Salalah", en: "Salalah Free Zone" },
+    name: { de: "Freihandelszone Salala", hu: "Szalála Szabadkereskedelmi Zóna", ro: "Zona Liberă Salalah", en: "Salalah Free Zone",
+image: "/poi-images/salalah-free-zone-economic-v2.webp"
+},
     description: {
       de: "Die Freihandelszone Salala bietet ausländischen Investoren enorme Steueranreize und liegt in unmittelbarer Nähe zum Hafen von Salala. Sie zieht vor allem Unternehmen aus den Bereichen Petrochemie, Logistik und Materialverarbeitung an.",
       hu: "A Szalála Szabadkereskedelmi Zóna hatalmas adókedvezményeket kínál a külföldi befektetőknek, és közvetlenül Szalála kikötője mellett található. Különösen a petrolkémiai, logisztikai és anyagfeldolgozó vállalatokat vonzza.",
@@ -523,7 +545,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "OM-ZU",
     coords: [52.8100, 17.6500],
-    name: { de: "Freihandelszone Al Mazunah", hu: "Al Mazunah Szabadkereskedelmi Zóna", ro: "Zona Liberă Al Mazunah", en: "Al Mazunah Free Zone" },
+    name: { de: "Freihandelszone Al Mazunah", hu: "Al Mazunah Szabadkereskedelmi Zóna", ro: "Zona Liberă Al Mazunah", en: "Al Mazunah Free Zone",
+image: "/poi-images/al-mazunah-free-zone-economic-v2.webp"
+},
     description: {
       de: "Die Freihandelszone Al Mazunah liegt im Süden Omans direkt an der Grenze zum Jemen. Sie dient als wichtiges wirtschaftliches Tor, das den bilateralen Handel erleichtert und als Transitpunkt für Waren auf die jemenitische Halbinsel fungiert.",
       hu: "Az Al Mazunah Szabadkereskedelmi Zóna Omán déli részén, közvetlenül a jemeni határon található. Fontos gazdasági kapuként szolgál, amely megkönnyíti a kétoldalú kereskedelmet, és tranzitpontként működik a Jemeni-félszigetre irányuló áruk számára.",
@@ -570,7 +594,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-DA",
     coords: [56.6500, 21.3000],
-    name: { de: "Khazzan-Gasfeld", hu: "Khazzan gázmező", ro: "Câmpul de gaze Khazzan", en: "Khazzan Gas Field" },
+    name: { de: "Khazzan-Gasfeld", hu: "Khazzan gázmező", ro: "Câmpul de gaze Khazzan", en: "Khazzan Gas Field",
+image: "/poi-images/khazzan-gas-field-economic-v2.webp"
+},
     description: {
       de: "Das Khazzan-Gasfeld ist eines der größten Projekte zur Gewinnung von unkonventionellem Gas (Tight Gas) im Nahen Osten. Betrieben von BP in Partnerschaft mit Oman, stellt es eine immense technologische Leistung dar und sichert die Energieunabhängigkeit des Landes.",
       hu: "A Khazzan gázmező a Közel-Kelet egyik legnagyobb nem hagyományos gáz (tight gas) kitermelési projektje. A BP által az ománi állammal partnerségben üzemeltetett mező hatalmas technológiai teljesítmény, amely biztosítja az ország energiafüggetlenségét.",
@@ -617,7 +643,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-ZA",
     coords: [56.4900, 22.3100],
-    name: { de: "Fahud-Ölfeld", hu: "Fahud olajmező", ro: "Câmpul petrolier Fahud", en: "Fahud Oil Field" },
+    name: { de: "Fahud-Ölfeld", hu: "Fahud olajmező", ro: "Câmpul petrolier Fahud", en: "Fahud Oil Field",
+image: "/poi-images/fahud-oil-field-economic-v2.webp"
+},
     description: {
       de: "Das Fahud-Ölfeld ist historisch von größter Bedeutung, da hier in den 1960er Jahren die ersten kommerziellen Ölfunde Omans gemacht wurden. Es markiert den Beginn der modernen wirtschaftlichen Transformation des Landes.",
       hu: "A Fahud olajmező történelmi jelentőségű, mivel itt fedezték fel az 1960-as években Omán első kereskedelmi mennyiségű kőolajkészleteit. Ez jelzi az ország modern gazdasági átalakulásának kezdetét.",
@@ -664,7 +692,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-DA",
     coords: [56.9100, 22.1800],
-    name: { de: "Yibal-Ölfeld", hu: "Jibal olajmező", ro: "Câmpul petrolier Yibal", en: "Yibal Oil Field" },
+    name: { de: "Yibal-Ölfeld", hu: "Jibal olajmező", ro: "Câmpul petrolier Yibal", en: "Yibal Oil Field",
+image: "/poi-images/yibal-oil-field-economic-v2.webp"
+},
     description: {
       de: "Yibal ist das größte Erdöl- und Erdgasfeld im Oman gemessen an der kumulierten Produktion. Es ist ein komplexes und vielschichtiges Feld, das mit modernster Technologie zur Maximierung der Ausbeute verwaltet wird.",
       hu: "A Jibal a kumulatív termelés alapján Omán legnagyobb kőolaj- és földgázmezője. Összetett és többrétegű mező, amelyet a kitermelés maximalizálása érdekében a legmodernebb technológiával kezelnek.",
@@ -711,7 +741,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-ZU",
     coords: [55.1900, 18.1500],
-    name: { de: "Marmul-Ölfeld", hu: "Marmul olajmező", ro: "Câmpul petrolier Marmul", en: "Marmul Oil Field" },
+    name: { de: "Marmul-Ölfeld", hu: "Marmul olajmező", ro: "Câmpul petrolier Marmul", en: "Marmul Oil Field",
+image: "/poi-images/marmul-oil-field-economic-v2.webp"
+},
     description: {
       de: "Das Marmul-Ölfeld im Süden Omans ist bekannt für sein schweres Rohöl. Um dieses effizient zu fördern, betreibt der Oman hier eines der weltweit größten Polymer-Flutungsprojekte zur verbesserten Ölausbeute.",
       hu: "A dél-ománi Marmul olajmező a nehézolajáról ismert. Ennek hatékony kitermelése érdekében Omán itt működteti a világ egyik legnagyobb, polimeres besajtolást alkalmazó (fokozott olajkihozatali) projektjét.",
@@ -758,7 +790,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-WU",
     coords: [56.6200, 20.6500],
-    name: { de: "Mukhaizna-Ölfeld", hu: "Mukhaizna olajmező", ro: "Câmpul petrolier Mukhaizna", en: "Mukhaizna Oil Field" },
+    name: { de: "Mukhaizna-Ölfeld", hu: "Mukhaizna olajmező", ro: "Câmpul petrolier Mukhaizna", en: "Mukhaizna Oil Field",
+image: "/poi-images/mukhaizna-oil-field-economic-v2.webp"
+},
     description: {
       de: "Das Mukhaizna-Feld ist eines der weltweit ambitioniertesten Projekte zur Förderung von Schweröl. Es wird von Occidental Petroleum (Oxy) betrieben und nutzt massiv die Dampfinjektionstechnologie, um das viskose Öl an die Oberfläche zu pumpen.",
       hu: "A Mukhaizna a világ egyik legambiciózusabb nehézolaj-kitermelési projektje. Az Occidental Petroleum (Oxy) üzemelteti, és hatalmas mértékben támaszkodik a gőzinjektálásos technológiára a viszkózus olaj felszínre hozásához.",
@@ -805,7 +839,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "mine",
     parent: "OM-ZA",
     coords: [56.5400, 23.6200],
-    name: { de: "Kupfermine Yanqul", hu: "Jankul rézbánya", ro: "Mina de cupru Yanqul", en: "Yanqul Copper Mine" },
+    name: { de: "Kupfermine Yanqul", hu: "Jankul rézbánya", ro: "Mina de cupru Yanqul", en: "Yanqul Copper Mine",
+image: "/poi-images/yanqul-copper-mine-economic-v2.webp"
+},
     description: {
       de: "Die Kupfermine bei Yanqul steht für die Wiederbelebung von Omans alter Bergbautradition. Das Sultanat, einst im Altertum als Magan (Land des Kupfers) bekannt, investiert stark in den Bergbau, um die Wirtschaft zu stärken und zu diversifizieren.",
       hu: "A Jankul melletti rézbánya Omán ősi bányászati hagyományainak újjáélesztését szimbolizálja. A Szultanátus, amelyet az ókorban Magan (a réz földje) néven ismertek, erőteljesen fektet be a bányászatba a gazdaság erősítése és diverzifikálása érdekében.",
@@ -852,7 +888,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "industry",
     parent: "OM-WU",
     coords: [57.7300, 19.6500],
-    name: { de: "Raffinerie Duqm", hu: "Dukm finomító", ro: "Rafinăria Duqm", en: "Duqm Refinery" },
+    name: { de: "Raffinerie Duqm", hu: "Dukm finomító", ro: "Rafinăria Duqm", en: "Duqm Refinery",
+image: "/poi-images/duqm-refinery-economic-v2.webp"
+},
     description: {
       de: "Die Raffinerie von Duqm (OQ8) ist ein hochmodernes Joint Venture zwischen Oman und Kuwait. Als Kernstück der Sonderwirtschaftszone in Duqm positioniert sie den Oman als führenden Akteur in der globalen petrochemischen Industrie.",
       hu: "A Dukm finomító (OQ8) egy ultramodern közös vállalkozás Omán és Kuvait között. A dukmi Különleges Gazdasági Zóna központi elemeként Ománt a globális petrolkémiai ipar vezető szereplőjeként pozicionálja.",
@@ -899,7 +937,9 @@ export const poiExtraOmanEconomicV2: POI[] = [
     type: "energy",
     parent: "OM-ZA",
     coords: [56.5000, 23.2300],
-    name: { de: "Solarkraftwerk Ibri", hu: "Ibri naperőmű", ro: "Centrala solară Ibri", en: "Ibri Solar Power Plant" },
+    name: { de: "Solarkraftwerk Ibri", hu: "Ibri naperőmű", ro: "Centrala solară Ibri", en: "Ibri Solar Power Plant",
+image: "/poi-images/ibri-solar-power-plant-economic-v2.webp"
+},
     description: {
       de: "Das Ibri II Solarkraftwerk ist Omans größtes Photovoltaikprojekt. Es erstreckt sich über eine gewaltige Fläche in der sonnenreichen Wüste der Region Ad Dhahirah und liefert genug saubere Energie, um Zehntausende von Haushalten zu versorgen.",
       hu: "Az Ibri II naperőmű Omán legnagyobb fotovoltaikus projektje. Hatalmas területen fekszik az Ad Dhahirah régió napsütötte sivatagában, és elegendő tiszta energiát szolgáltat több tízezer háztartás ellátásához.",

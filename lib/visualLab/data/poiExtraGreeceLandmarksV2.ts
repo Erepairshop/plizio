@@ -4,7 +4,9 @@ export const greeceLandmarksV2: POI[] = [
   {
     id: "greece-acropolis-athens-landmarks-v2",
     type: "ruins",
-    name: { de: "Akropolis von Athen", hu: "Athéni Akropolisz", ro: "Acropola din Atena", en: "Acropolis of Athens" },
+    name: { de: "Akropolis von Athen", hu: "Athéni Akropolisz", ro: "Acropola din Atena", en: "Acropolis of Athens",
+image: "/poi-images/greece-acropolis-athens-landmarks-v2.webp"
+},
     coords: [23.7257, 37.9715],
     coordinates: { lat: 37.9715, lng: 23.7257 },
     description: {
@@ -19,11 +21,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Inclusă în Patrimoniul Mondial UNESCO în 1987", "Situată la aproximativ 150 de metri deasupra nivelului mării", "Majoritatea structurilor au fost ridicate sub conducerea lui Pericle", "A suferit daune majore în timpul Războiului Peloponesiac"],
       en: ["Designated as a UNESCO World Heritage site in 1987", "Situated approximately 150 meters above sea level", "Most structures were built under the leadership of Pericles", "Damaged significantly during the Peloponnesian War"],
     },
-    imageHint: "Aerial view of the Acropolis hill in Athens at sunset", image: "/poi-images/greece-acropolis-athens-landmarks-v2.webp"},
-  {
+imageHint: "Aerial view of the Acropolis hill in Athens at sunset",
+    descriptionAdvanced: {
+      de: "Die Akropolis von Athen, ein Symbol der antiken Demokratie, beherbergt Meisterwerke wie das Parthenon. Die Kalksteinfelsen erheben sich 156 Meter über dem Meeresspiegel.",
+      hu: "Az athéni Akropolisz az ókori Görögország legfontosabb épületegyüttese, mely a demokrácia és a civilizáció jelképe. A mészkőszikla 156 méterrel magasodik a tengerszint fölé.",
+      ro: "Acropola din Atena este cel mai important complex arhitectural al Greciei antice, simbol al democrației. Stânca de calcar se ridică la 156 de metri deasupra nivelului mării.",
+      en: "The Acropolis of Athens is an ancient citadel located on a rocky outcrop 156 meters above sea level. It contains the remains of several ancient buildings of great significance.",
+    },
+    factsAdvanced: {
+      de: ["Bau des Parthenon begann 447 v. Chr.", "Höhe des Parthenon: 13,72 Meter.", "UNESCO-Welterbe seit 1987.", "Verwendeter Marmor: Pentelischer Marmor."],
+      hu: ["A Parthenón építése i.e. 447-ben kezdődött.", "A Parthenón magassága: 13,72 méter.", "1987 óta UNESCO Világörökség.", "Pentelikoni márványból épült."],
+      ro: ["Construcția Partenonului a început în 447 î.Hr.", "Înălțimea Partenonului: 13,72 metri.", "Patrimoniu UNESCO din 1987.", "Construit din marmură pentelică."],
+      en: ["Parthenon construction began in 447 BC.", "Height of the Parthenon: 13.72 meters.", "UNESCO World Heritage site since 1987.", "Built using Pentelic marble."],
+    },
+    image: "/poi-images/greece-acropolis-athens-landmarks-v2.webp",
+},  {
     id: "greece-temple-hephaestus-landmarks-v2",
     type: "landmark",
-    name: { de: "Tempel des Hephaistos", hu: "Héphaisztosz temploma", ro: "Templul lui Hefaistos", en: "Temple of Hephaestus" },
+    name: { de: "Tempel des Hephaistos", hu: "Héphaisztosz temploma", ro: "Templul lui Hefaistos", en: "Temple of Hephaestus",
+image: "/poi-images/greece-temple-hephaestus-landmarks-v2.webp"
+},
     coords: [23.7214, 37.9756],
     coordinates: { lat: 37.9756, lng: 23.7214 },
     description: {
@@ -38,11 +55,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construcția a început în jurul anului 449 î.Hr.", "A servit drept biserică creștină începând cu secolul al VII-lea", "Hefaistos era zeul meșteșugului metalelor și al focului", "Templul are un număr total de 34 de coloane dorice"],
       en: ["Construction began around 449 BC", "Served as a Christian church starting in the 7th century", "Hephaestus was the god of metalworking and fire", "The temple features a total of 34 Doric columns"],
     },
-    imageHint: "The Temple of Hephaestus in Athens surrounded by trees", image: "/poi-images/greece-temple-hephaestus-landmarks-v2.webp"},
-  {
+imageHint: "The Temple of Hephaestus in Athens surrounded by trees",
+    descriptionAdvanced: {
+      de: "Dieser dorische Tempel auf dem Agoraios Kolonos ist einer der am besten erhaltenen der Antike. Er wurde Hephaistos, dem Gott der Schmiedekunst, geweiht.",
+      hu: "Ez a dór stílusú templom az Agoraios Kolonos dombon az egyik legjobb állapotban fennmaradt ókori épület. Héphaisztosznak, a kovácsmesterség istenének szentelték.",
+      ro: "Acest templu doric de pe colina Agoraios Kolonos este unul dintre cele mai bine conservate din antichitate. A fost dedicat lui Hefaistos, zeul meșteșugurilor.",
+      en: "This Doric temple on the Agoraios Kolonos hill is one of the best-preserved ancient Greek temples. It was dedicated to Hephaestus, the god of metalworking.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 449 und 415 v. Chr.", "Anzahl der Säulen: 34 dorische Säulen.", "Länge des Tempels: 31,77 Meter.", "Breite des Tempels: 13,71 Meter."],
+      hu: ["I.e. 449 és 415 között épült.", "Oszlopok száma: 34 dór oszlop.", "A templom hossza: 31,77 méter.", "A templom szélessége: 13,71 méter."],
+      ro: ["Construit între 449 și 415 î.Hr.", "Numărul coloanelor: 34 de coloane dorice.", "Lungimea templului: 31,77 metri.", "Lățimea templului: 13,71 metri."],
+      en: ["Built between 449 and 415 BC.", "Number of columns: 34 Doric columns.", "Length of the temple: 31.77 meters.", "Width of the temple: 13.71 meters."],
+    },
+    image: "/poi-images/greece-temple-hephaestus-landmarks-v2.webp",
+},  {
     id: "greece-panathenaic-stadium-landmarks-v2",
     type: "landmark",
-    name: { de: "Panathinaiko-Stadion", hu: "Panathinaiko Stadion", ro: "Stadionul Panathenaic", en: "Panathenaic Stadium" },
+    name: { de: "Panathinaiko-Stadion", hu: "Panathinaiko Stadion", ro: "Stadionul Panathenaic", en: "Panathenaic Stadium",
+image: "/poi-images/greece-panathenaic-stadium-landmarks-v2.webp"
+},
     coords: [23.7411, 37.9683],
     coordinates: { lat: 37.9683, lng: 23.7411 },
     description: {
@@ -57,11 +89,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit inițial în secolul al IV-lea î.Hr.", "Are o capacitate de aproximativ 50.000 de spectatori", "Renovat complet pentru Jocurile Olimpice din 1896", "Găzduiește tradițional ceremonia de predare a flăcării olimpice"],
       en: ["Originally built in the 4th century BC", "Capacity of approximately 50,000 spectators", "Fully reconstructed for the 1896 Olympic Games", "Traditional site of the Olympic flame handover ceremony"],
     },
-    imageHint: "Wide view of the marble Panathenaic Stadium in Athens", image: "/poi-images/greece-panathenaic-stadium-landmarks-v2.webp"},
-  {
+imageHint: "Wide view of the marble Panathenaic Stadium in Athens",
+    descriptionAdvanced: {
+      de: "Das Panathinaiko-Stadion ist das einzige Stadion weltweit, das vollständig aus Marmor erbaut wurde. Hier fanden 1896 die ersten Olympischen Spiele der Neuzeit statt.",
+      hu: "A Panathinaiko Stadion a világ egyetlen stadionja, amely teljes egészében márványból épült. Itt rendezték meg 1896-ban az első újkori olimpiai játékokat.",
+      ro: "Stadionul Panathenaic este singurul stadion din lume construit integral din marmură. Aici au avut loc primele Jocuri Olimpice moderne în anul 1896.",
+      en: "The Panathenaic Stadium is the only stadium in the world built entirely of marble. It hosted the first modern Olympic Games in 1896.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: ca. 50.000 Zuschauer.", "Länge der Rennbahn: 204,07 Meter.", "Baujahr der Rekonstruktion: 1895.", "Ursprünglicher Bau: 330 v. Chr."],
+      hu: ["Befogadóképesség: kb. 50 000 néző.", "A pálya hossza: 204,07 méter.", "Az újjáépítés éve: 1895.", "Eredeti építés: i.e. 330."],
+      ro: ["Capacitate: aprox. 50.000 de spectatori.", "Lungimea pistei: 204,07 metri.", "Anul reconstrucției: 1895.", "Construcția originală: 330 î.Hr."],
+      en: ["Capacity: approx. 50,000 spectators.", "Track length: 204.07 meters.", "Reconstruction year: 1895.", "Original construction: 330 BC."],
+    },
+    image: "/poi-images/greece-panathenaic-stadium-landmarks-v2.webp",
+},  {
     id: "greece-temple-olympian-zeus-landmarks-v2",
     type: "ruins",
-    name: { de: "Tempel des Olympischen Zeus", hu: "Olümpiai Zeusz temploma", ro: "Templul lui Zeus din Atena", en: "Temple of Olympian Zeus" },
+    name: { de: "Tempel des Olympischen Zeus", hu: "Olümpiai Zeusz temploma", ro: "Templul lui Zeus din Atena", en: "Temple of Olympian Zeus",
+image: "/poi-images/greece-temple-olympian-zeus-landmarks-v2.webp"
+},
     coords: [23.7331, 37.9693],
     coordinates: { lat: 37.9693, lng: 23.7331 },
     description: {
@@ -76,11 +123,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construcția a început în secolul al VI-lea î.Hr.", "Din cele 104 coloane corintice originale, mai stau în picioare 15", "Coloanele au o înălțime de aproximativ 17 metri", "A fost cândva cel mai mare templu din întreaga Grecie"],
       en: ["Construction began in the 6th century BC", "Only 15 of the original 104 Corinthian columns remain standing", "The columns are approximately 17 meters high", "Once the largest temple in all of Greece"],
     },
-    imageHint: "Standing Corinthian columns of the Temple of Olympian Zeus", image: "/poi-images/greece-temple-olympian-zeus-landmarks-v2.webp"},
-  {
+imageHint: "Standing Corinthian columns of the Temple of Olympian Zeus",
+    descriptionAdvanced: {
+      de: "Der Tempel des olympischen Zeus war einst der größte Tempel Griechenlands. Sein Bau dauerte über 600 Jahre und wurde erst unter Kaiser Hadrian im 2. Jhd. vollendet.",
+      hu: "Az olimpiai Zeusz-templom egykor Görögország legnagyobb temploma volt. Építése több mint 600 évig tartott, és csak Hadrianus császár fejezte be az i.sz. 2. században.",
+      ro: "Templul lui Zeus Olimpianul a fost odinioară cel mai mare templu din Grecia. Construcția sa a durat peste 600 de ani, fiind finalizată sub împăratul Hadrian.",
+      en: "The Temple of Olympian Zeus was once the largest temple in Greece. Its construction spanned over 600 years, finalized by Emperor Hadrian in the 2nd century AD.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der korinthischen Säulen: 104.", "Höhe der Säulen: 17,25 Meter.", "Baubeginn: 6. Jhd. v. Chr.", "Erhaltene Säulen: 15 (plus 1 liegende)."],
+      hu: ["Korinthoszi oszlopok száma: 104.", "Az oszlopok magassága: 17,25 méter.", "Építés kezdete: i.e. 6. század.", "Fennmaradt oszlopok: 15 (plusz 1 ledőlt)."],
+      ro: ["Numărul coloanelor corintice: 104.", "Înălțimea coloanelor: 17,25 metri.", "Începutul construcției: sec. VI î.Hr.", "Coloane rămase: 15 (plus 1 căzută)."],
+      en: ["Number of Corinthian columns: 104.", "Height of columns: 17.25 meters.", "Start of construction: 6th century BC.", "Remaining columns: 15 (plus 1 fallen)."],
+    },
+    image: "/poi-images/greece-temple-olympian-zeus-landmarks-v2.webp",
+},  {
     id: "greece-odeon-herodes-atticus-landmarks-v2",
     type: "theater",
-    name: { de: "Odeon des Herodes Atticus", hu: "Herodes Atticus Odeonja", ro: "Odeonul lui Herodes Atticus", en: "Odeon of Herodes Atticus" },
+    name: { de: "Odeon des Herodes Atticus", hu: "Herodes Atticus Odeonja", ro: "Odeonul lui Herodes Atticus", en: "Odeon of Herodes Atticus",
+image: "/poi-images/greece-odeon-herodes-atticus-landmarks-v2.webp"
+},
     coords: [23.7247, 37.9708],
     coordinates: { lat: 37.9708, lng: 23.7247 },
     description: {
@@ -95,11 +157,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 161 d.Hr.", "Are o capacitate de aproximativ 5.000 de locuri", "Restaurat parțial în anii 1950", "Este folosit și astăzi ca loc de desfășurare pentru Festivalul Atenei"],
       en: ["Completed in 161 AD", "Has a seating capacity of about 5,000 people", "Underwent significant restoration in the 1950s", "Still used today as a venue for the Athens Festival"],
     },
-    imageHint: "Stone theater of Herodes Atticus seen from above", image: "/poi-images/greece-odeon-herodes-atticus-landmarks-v2.webp"},
-  {
+imageHint: "Stone theater of Herodes Atticus seen from above",
+    descriptionAdvanced: {
+      de: "Das Odeon des Herodes Atticus ist ein antikes Steintheater am Südhang der Akropolis. Es wurde von Herodes Atticus zum Gedenken an seine Frau Regilla erbaut.",
+      hu: "A Herodes Atticus odeonja egy ókori kőszínház az Akropolisz déli lejtőjén. Herodes Atticus építtette felesége, Regilla emlékére i.sz. 161-ben.",
+      ro: "Odeonul lui Herodes Atticus este un teatru antic din piatră situat pe panta sudică a Acropolei. A fost construit în memoria soției sale, Regilla.",
+      en: "The Odeon of Herodes Atticus is an ancient stone theater on the southern slope of the Acropolis. It was built by Herodes Atticus in memory of his wife.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 161 n. Chr.", "Kapazität: 5.000 Zuschauer.", "Restaurierung: 1950er Jahre.", "Veranstaltungsort des Athener Festivals."],
+      hu: ["Építés éve: i.sz. 161.", "Befogadóképesség: 5000 néző.", "Restaurálás: 1950-es évek.", "Az Athéni Fesztivál fő helyszíne."],
+      ro: ["Anul construcției: 161 d.Hr.", "Capacitate: 5.000 de spectatori.", "Restaurare: anii 1950.", "Locul de desfășurare al Festivalului Atenei."],
+      en: ["Year of construction: 161 AD.", "Capacity: 5,000 spectators.", "Restoration: 1950s.", "Main venue for the Athens Festival."],
+    },
+    image: "/poi-images/greece-odeon-herodes-atticus-landmarks-v2.webp",
+},  {
     id: "greece-tower-winds-landmarks-v2",
     type: "tower",
-    name: { de: "Turm der Winde", hu: "Szelek toronya", ro: "Turnul Vânturilor", en: "Tower of the Winds" },
+    name: { de: "Turm der Winde", hu: "Szelek toronya", ro: "Turnul Vânturilor", en: "Tower of the Winds",
+image: "/poi-images/greece-tower-winds-landmarks-v2.webp"
+},
     coords: [23.727, 37.9742],
     coordinates: { lat: 37.9742, lng: 23.727 },
     description: {
@@ -114,11 +191,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit în secolul al II-lea sau I î.Hr.", "A servit drept cadran solar, ceas cu apă și giruetă", "Turnul are o înălțime de aproximativ 12 metri", "Fiecare latură are un relief reprezentând una dintre cele opt zeități ale vântului"],
       en: ["Built in the 2nd or 1st century BC", "Served as a sundial, water clock, and wind vane", "The tower stands approximately 12 meters high", "Each side features a relief of one of the eight wind deities"],
     },
-    imageHint: "Octagonal structure of the Tower of the Winds in Athens", image: "/poi-images/greece-tower-winds-landmarks-v2.webp"},
-  {
+imageHint: "Octagonal structure of the Tower of the Winds in Athens",
+    descriptionAdvanced: {
+      de: "Der Turm der Winde in der römischen Agora diente als kombinierte Sonnen- und Wasseruhr sowie als Wetterfahne. Er gilt als die erste meteorologische Station der Welt.",
+      hu: "A Szelek tornya a római agorán napóra, vízióra és szélkakas kombinációjaként szolgált. A világ első meteorológiai állomásaként tartják számon.",
+      ro: "Turnul Vânturilor din agora romană a servit drept ceas solar, ceas cu apă și giruetă. Este considerată prima stație meteorologică din lume.",
+      en: "The Tower of the Winds in the Roman Agora functioned as a combined sundial, water clock, and weathervane. It is often cited as the world's first meteorological station.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 50 v. Chr.", "Höhe: 12 Meter.", "Material: Pentelischer Marmor.", "Achteckige Grundform."],
+      hu: ["I.e. 50 körül épült.", "Magasság: 12 méter.", "Anyaga: Pentelikoni márvány.", "Nyolcszögletű alaprajz."],
+      ro: ["Construit în jurul anului 50 î.Hr.", "Înălțime: 12 metri.", "Material: marmură pentelică.", "Formă octogonală."],
+      en: ["Built around 50 BC.", "Height: 12 meters.", "Material: Pentelic marble.", "Octagonal ground plan."],
+    },
+    image: "/poi-images/greece-tower-winds-landmarks-v2.webp",
+},  {
     id: "greece-rotunda-thessaloniki-landmarks-v2",
     type: "landmark",
-    name: { de: "Rotunde von Thessaloniki", hu: "Szaloniki Rotunda", ro: "Rotonda din Salonic", en: "Rotunda of Thessaloniki" },
+    name: { de: "Rotunde von Thessaloniki", hu: "Szaloniki Rotunda", ro: "Rotonda din Salonic", en: "Rotunda of Thessaloniki",
+image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp"
+},
     coords: [22.9529, 40.6333],
     coordinates: { lat: 40.6333, lng: 22.9529 },
     description: {
@@ -133,11 +225,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită în anul 306 d.Hr.", "Zidurile au o grosime de peste 6 metri", "Face parte din Patrimoniul Mondial UNESCO", "Găzduiește mozaicuri impresionante din secolul al IV-lea"],
       en: ["Constructed in 306 AD", "The walls are over 6 meters thick", "Part of the UNESCO World Heritage early Christian monuments", "Contains impressive mosaics dating back to the 4th century"],
     },
-    imageHint: "Circular Roman Rotunda building in Thessaloniki", image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp"},
-  {
+imageHint: "Circular Roman Rotunda building in Thessaloniki",
+    descriptionAdvanced: {
+      de: "Die Rotunde von Thessaloniki wurde ursprünglich als Mausoleum für Kaiser Galerius erbaut. Später diente sie als christliche Kirche und danach als Moschee.",
+      hu: "A thesszaloniki Rotunda eredetileg Galerius császár mauzóleumának épült. Később keresztény templomként, majd mecsetként is funkcionált.",
+      ro: "Rotunda din Salonic a fost construită inițial ca mausoleu pentru împăratul Galerius. Mai târziu a servit ca biserică creștină și apoi ca moschee.",
+      en: "The Rotunda of Thessaloniki was originally built as a mausoleum for Emperor Galerius. It later served as a Christian church and then as a mosque.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 306 n. Chr.", "Innendurchmesser: 24,5 Meter.", "Wanddicke: 6,3 Meter.", "UNESCO-Welterbe seit 1988."],
+      hu: ["Építés éve: i.sz. 306.", "Belső átmérő: 24,5 méter.", "Falvastagság: 6,3 méter.", "1988 óta UNESCO Világörökség."],
+      ro: ["Anul construcției: 306 d.Hr.", "Diametru interior: 24,5 metri.", "Grosimea peretelui: 6,3 metri.", "Patrimoniu UNESCO din 1988."],
+      en: ["Year of construction: 306 AD.", "Internal diameter: 24.5 meters.", "Wall thickness: 6.3 meters.", "UNESCO World Heritage site since 1988."],
+    },
+    image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp",
+},  {
     id: "greece-lindos-acropolis-landmarks-v2",
     type: "ruins",
-    name: { de: "Akropolis von Lindos", hu: "Lindoszi Akropolisz", ro: "Acropola din Lindos", en: "Lindos Acropolis" },
+    name: { de: "Akropolis von Lindos", hu: "Lindoszi Akropolisz", ro: "Acropola din Lindos", en: "Lindos Acropolis",
+image: "/poi-images/greece-lindos-acropolis-landmarks-v2.webp"
+},
     coords: [28.0883, 36.0913],
     coordinates: { lat: 36.0913, lng: 28.0883 },
     description: {
@@ -152,11 +259,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Adăpostește templul doric al Atenei Lindia", "Fortificația actuală datează din secolul al XIV-lea", "Situată pe o stâncă înaltă de 116 metri", "Cea mai vizitată acropolă din Grecia după cea din Atena"],
       en: ["Features the Doric Temple of Athena Lindia", "The current fortress dates back to the 14th century", "Situated on a 116-meter high rock cliff", "Second most visited acropolis in Greece after Athens"],
     },
-    imageHint: "Acropolis of Lindos ruins on top of a hill by the sea", image: "/poi-images/greece-lindos-acropolis-landmarks-v2.webp"},
-  {
+imageHint: "Acropolis of Lindos ruins on top of a hill by the sea",
+    descriptionAdvanced: {
+      de: "Die Akropolis von Lindos auf Rhodos thront auf einem 116 Meter hohen Felsen. Sie vereint antike Tempelruinen mit einer imposanten mittelalterlichen Johanniterfestung.",
+      hu: "A rodoszi Lindosz akropolisza egy 116 méter magas sziklán trónol. Az ókori templomromok és a johannita lovagrend középkori erődítményének különleges ötvözete.",
+      ro: "Acropola din Lindos, pe insula Rodos, este cocoțată pe o stâncă de 116 metri înălțime. Îmbină ruinele antice cu o fortăreață medievală a cavalerilor ioaniți.",
+      en: "The Acropolis of Lindos on Rhodes sits on a 116-meter-high cliff. It combines ancient temple ruins with an imposing medieval fortress of the Knights of St. John.",
+    },
+    factsAdvanced: {
+      de: ["Tempel der Athena Lindia: 300 v. Chr.", "Höhe über dem Meer: 116 Meter.", "Säulen des hellenistischen Bogengangs: 20.", "Einer der meistbesuchten Orte auf Rhodos."],
+      hu: ["Athena Lindia temploma: i.e. 300.", "Tengerszint feletti magasság: 116 méter.", "Hellenisztikus sztoa oszlopai: 20 db.", "Rodosz egyik leglátogatottabb helyszíne."],
+      ro: ["Templul Atenei Lindia: 300 î.Hr.", "Înălțime deasupra mării: 116 metri.", "Coloanele porticului elenistic: 20.", "Unul dintre cele mai vizitate locuri din Rodos."],
+      en: ["Temple of Athena Lindia: 300 BC.", "Height above sea: 116 meters.", "Hellenistic stoa columns: 20.", "One of the most visited sites on Rhodes."],
+    },
+    image: "/poi-images/greece-lindos-acropolis-landmarks-v2.webp",
+},  {
     id: "greece-fortezza-rethymno-landmarks-v2",
     type: "castle",
-    name: { de: "Fortezza von Rethymno", hu: "Rethymno erőd", ro: "Fortăreața din Rethymno", en: "Fortezza of Rethymno" },
+    name: { de: "Fortezza von Rethymno", hu: "Rethymno erőd", ro: "Fortăreața din Rethymno", en: "Fortezza of Rethymno",
+image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp"
+},
     coords: [24.4715, 35.3725],
     coordinates: { lat: 35.3725, lng: 24.4715 },
     description: {
@@ -171,11 +293,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construcția a durat din 1573 până în 1580", "În interiorul zidurilor se află Moscheea Ibrahim Han", "Situată pe dealul Paleokastro", "Una dintre cele mai bine conservate fortificații venețiene"],
       en: ["Construction lasted from 1573 to 1580", "Features the Ibrahim Han Mosque inside the walls", "Located on the Paleokastro hill", "One of the best preserved Venetian fortifications"],
     },
-    imageHint: "Venetian fortress walls of Rethymno overlooking the city", image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp"},
-  {
+imageHint: "Venetian fortress walls of Rethymno overlooking the city",
+    descriptionAdvanced: {
+      de: "Die Fortezza von Rethymno ist eine venezianische Festung auf Kreta. Sie wurde auf dem Paleokastro-Hügel errichtet, um die Stadt vor Piratenangriffen zu schützen.",
+      hu: "A rethimnói Fortezza egy velencei erőd Kréta szigetén. A Paleokasztro-dombon épült, hogy megvédje a várost a kalóztámadásoktól és az oszmán fenyegetéstől.",
+      ro: "Fortezza din Rethymno este o fortăreață venețiană din Creta. A fost construită pe dealul Paleokastro pentru a proteja orașul de atacurile piraților.",
+      en: "The Fortezza of Rethymno is a Venetian fortress on the island of Crete. It was built on Paleokastro hill to protect the city from pirate raids and Ottoman threats.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1573–1580.", "Umfang der Mauern: 1.307 Meter.", "Fläche: ca. 120.000 m².", "Anzahl der Bastionen: 4."],
+      hu: ["Építési idő: 1573–1580.", "A falak kerülete: 1307 méter.", "Területe: kb. 120 000 m².", "Bástyák száma: 4."],
+      ro: ["Perioada de construcție: 1573–1580.", "Perimetrul zidurilor: 1.307 metri.", "Suprafață: aprox. 120.000 m².", "Număr de bastioane: 4."],
+      en: ["Construction period: 1573–1580.", "Wall perimeter: 1,307 meters.", "Area: approx. 120,000 m².", "Number of bastions: 4."],
+    },
+    image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp",
+},  {
     id: "greece-temple-apollo-delphi-landmarks-v2",
     type: "ruins",
-    name: { de: "Apollon-Tempel von Delphi", hu: "Delphoi Apollón-templom", ro: "Templul lui Apollo din Delfi", en: "Temple of Apollo (Delphi)" },
+    name: { de: "Apollon-Tempel von Delphi", hu: "Delphoi Apollón-templom", ro: "Templul lui Apollo din Delfi", en: "Temple of Apollo (Delphi)",
+image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp"
+},
     coords: [22.501, 38.4824],
     coordinates: { lat: 38.4824, lng: 22.501 },
     description: {
@@ -190,11 +327,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Ruinele actuale datează din secolul al IV-lea î.Hr.", "Construit în stil arhitectural doric", "Aici Pythia își rostea profețiile", "Face parte din situl UNESCO de la Delfi"],
       en: ["The visible ruins date mostly from the 4th century BC", "Built in the Doric architectural style", "Where the Pythia delivered her famous oracles", "Part of the Delphi UNESCO World Heritage site"],
     },
-    imageHint: "Doric columns of the Temple of Apollo in Delphi", image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp"},
-  {
+imageHint: "Doric columns of the Temple of Apollo in Delphi",
+    descriptionAdvanced: {
+      de: "Der Apollon-Tempel in Delphi war das Zentrum des berühmten Orakels. In seinem Allerheiligsten, dem Adyton, verkündete die Pythia die Weissagungen des Gottes.",
+      hu: "A delphoi Apollón-templom a híres jósda központja volt. A belső szentélyben, az adütonban hirdette ki a Püthia az isten jövendöléseit.",
+      ro: "Templul lui Apollo din Delphi a fost centrul celebrului oracol. În sanctuarul interior, Pythia rostea profețiile zeului către pelerini.",
+      en: "The Temple of Apollo in Delphi was the center of the famous oracle. In its inner sanctuary, the Pythia delivered prophecies to those seeking guidance.",
+    },
+    factsAdvanced: {
+      de: ["Heutige Ruinen: 4. Jhd. v. Chr.", "Architekturstil: Peripteros-Dorik.", "Länge: 60 Meter.", "Anzahl der Frontsäulen: 6."],
+      hu: ["A mai romok kora: i.e. 4. század.", "Építészeti stílus: dór peripterosz.", "Hosszúság: 60 méter.", "Homlokzati oszlopok száma: 6."],
+      ro: ["Ruinele actuale: sec. IV î.Hr.", "Stil arhitectural: doric peripter.", "Lungime: 60 metri.", "Număr de coloane frontale: 6."],
+      en: ["Current ruins date to: 4th century BC.", "Architectural style: Doric peripteral.", "Length: 60 meters.", "Number of front columns: 6."],
+    },
+    image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp",
+},  {
     id: "greece-tholos-delphi-landmarks-v2",
     type: "landmark",
-    name: { de: "Tholos von Delphi", hu: "Delphoi Tholosz", ro: "Tholos din Delfi", en: "Tholos of Delphi" },
+    name: { de: "Tholos von Delphi", hu: "Delphoi Tholosz", ro: "Tholos din Delfi", en: "Tholos of Delphi",
+image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp"
+},
     coords: [22.5065, 38.4805],
     coordinates: { lat: 38.4805, lng: 22.5065 },
     description: {
@@ -209,11 +361,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit între anii 380 și 360 î.Hr.", "Templul avea inițial 20 de coloane dorice exterioare", "Doar trei coloane au fost restaurate și stau acum în picioare", "Arhitectul a fost probabil Theodoros din Phocaea"],
       en: ["Built between 380 and 360 BC", "The temple originally had 20 outer Doric columns", "Only three columns have been restored and stand today", "The architect was likely Theodoros of Phocaea"],
     },
-    imageHint: "The circular Tholos structure at Delphi Sanctuary", image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp"},
-  {
+imageHint: "The circular Tholos structure at Delphi Sanctuary",
+    descriptionAdvanced: {
+      de: "Die Tholos von Delphi ist ein kreisförmiger Bau im Heiligtum der Athena Pronaia. Ihre präzise geometrische Form macht sie zu einem Wahrzeichen der griechischen Architektur.",
+      hu: "A delphoi Tholosz egy kör alakú építmény Athéna Pronaia szentélyében. Precíz geometriai formája a görög építészet egyik legismertebb jelképévé teszi.",
+      ro: "Tholosul din Delphi este o construcție circulară situată în sanctuarul Atenei Pronaia. Forma sa geometrică precisă îl face un simbol al arhitecturii grecești.",
+      en: "The Tholos of Delphi is a circular building within the Sanctuary of Athena Pronaia. Its precise geometric design makes it a landmark of Greek architecture.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 380–360 v. Chr.", "Äußere Säulen: 20 dorische Säulen.", "Innere Säulen: 10 korinthische Säulen.", "Außendurchmesser: 13,5 Meter."],
+      hu: ["Építési idő: i.e. 380–360.", "Külső oszlopok: 20 dór oszlop.", "Belső oszlopok: 10 korinthoszi oszlop.", "Külső átmérő: 13,5 méter."],
+      ro: ["Perioada de construcție: 380–360 î.Hr.", "Coloane exterioare: 20 dorice.", "Coloane interioare: 10 corintice.", "Diametru exterior: 13,5 metri."],
+      en: ["Construction period: 380–360 BC.", "Outer columns: 20 Doric columns.", "Inner columns: 10 Corinthian columns.", "Outer diameter: 13.5 meters."],
+    },
+    image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp",
+},  {
     id: "greece-epidaurus-theatre-landmarks-v2",
     type: "theater",
-    name: { de: "Theater von Epidaurus", hu: "Epidauroszi színház", ro: "Teatrul din Epidaur", en: "Great Theatre of Epidaurus" },
+    name: { de: "Theater von Epidaurus", hu: "Epidauroszi színház", ro: "Teatrul din Epidaur", en: "Great Theatre of Epidaurus",
+image: "/poi-images/greece-epidaurus-theatre-landmarks-v2.webp"
+},
     coords: [23.0792, 37.5961],
     coordinates: { lat: 37.5961, lng: 23.0792 },
     description: {
@@ -228,11 +395,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit în secolul al IV-lea î.Hr.", "Poate găzdui până la 14.000 de spectatori", "O monedă scăpată se aude până în ultimul rând", "Este folosit și astăzi pentru spectacole de teatru antic"],
       en: ["Built in the 4th century BC", "Can accommodate up to 14,000 spectators", "A dropped coin can be heard even in the last row", "Still used today for performances of ancient drama"],
     },
-    imageHint: "Ancient semicircular stone theater of Epidaurus", image: "/poi-images/greece-epidaurus-theatre-landmarks-v2.webp"},
-  {
+imageHint: "Ancient semicircular stone theater of Epidaurus",
+    descriptionAdvanced: {
+      de: "Das Große Theater von Epidaurus ist für seine perfekte Akustik weltberühmt. Selbst in der obersten Reihe kann man das Fallen einer Münze auf der Bühne hören.",
+      hu: "Az epidauroszi nagy színház tökéletes akusztikájáról világhírű. Még a legfelső sorokban is tisztán hallani a színpadon leeső pénzérme hangját.",
+      ro: "Marele Teatru din Epidaurus este celebru în întreaga lume pentru acustica sa perfectă. Chiar și din ultimul rând se poate auzi căderea unei monede pe scenă.",
+      en: "The Great Theatre of Epidaurus is world-famous for its perfect acoustics. Even from the highest seats, the sound of a coin dropping on stage remains audible.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: ca. 340 v. Chr.", "Kapazität: 14.000 Zuschauer.", "Anzahl der Sitzreihen: 55.", "Durchmesser der Orchestra: 20,3 Meter."],
+      hu: ["Építés éve: kb. i.e. 340.", "Befogadóképesség: 14 000 néző.", "Ülősorok száma: 55.", "Orkhesztra átmérője: 20,3 méter."],
+      ro: ["Anul construcției: aprox. 340 î.Hr.", "Capacitate: 14.000 de spectatori.", "Număr de rânduri: 55.", "Diametrul orchestrei: 20,3 metri."],
+      en: ["Year of construction: approx. 340 BC.", "Capacity: 14,000 spectators.", "Number of rows: 55.", "Diameter of the orchestra: 20.3 meters."],
+    },
+    image: "/poi-images/greece-epidaurus-theatre-landmarks-v2.webp",
+},  {
     id: "greece-lion-gate-mycenae-landmarks-v2",
     type: "monument",
-    name: { de: "Löwentor von Mykene", hu: "Oroszlános kapu", ro: "Poarta Leilor din Micene", en: "Lion Gate (Mycenae)" },
+    name: { de: "Löwentor von Mykene", hu: "Oroszlános kapu", ro: "Poarta Leilor din Micene", en: "Lion Gate (Mycenae)",
+image: "/poi-images/greece-lion-gate-mycenae-landmarks-v2.webp"
+},
     coords: [22.7561, 37.7302],
     coordinates: { lat: 37.7302, lng: 22.7561 },
     description: {
@@ -247,11 +429,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită în jurul anului 1250 î.Hr.", "Cea mai veche operă monumentală de sculptură din Europa", "Figurile leilor au o înălțime de aproximativ 3 metri", "Poarta este realizată din blocuri masive de piatră ciclopiană"],
       en: ["Erected around 1250 BC", "Oldest monumental sculpture work in Europe", "The lion figures stand about 3 meters tall", "The gate is built of massive cyclopean stone blocks"],
     },
-    imageHint: "The ancient Lion Gate entrance at Mycenae", image: "/poi-images/greece-lion-gate-mycenae-landmarks-v2.webp"},
-  {
+imageHint: "The ancient Lion Gate entrance at Mycenae",
+    descriptionAdvanced: {
+      de: "Das Löwentor ist der Haupteingang zur bronzezeitlichen Zitadelle von Mykene. Es zeigt das älteste bekannte monumentale Skulpturwerk in Europa.",
+      hu: "Az oroszlános kapu a bronzkori Mükéné citadellájának főbejárata. Európa legrégebbi ismert monumentális szobrászati alkotását láthatjuk rajta.",
+      ro: "Poarta Leilor este intrarea principală în cetatea miceniană din epoca bronzului. Reprezintă cea mai veche sculptură monumentală cunoscută din Europa.",
+      en: "The Lion Gate is the main entrance to the Bronze Age citadel of Mycenae. It features the oldest known monumental relief sculpture in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: ca. 1250 v. Chr.", "Höhe der Öffnung: 3,10 Meter.", "Gewicht des Türsturzes: ca. 20 Tonnen.", "Material: Konglomeratgestein."],
+      hu: ["Építés éve: kb. i.e. 1250.", "A kapunyílás magassága: 3,10 méter.", "A szemöldökkő súlya: kb. 20 tonna.", "Anyaga: konglomerátum kőzet."],
+      ro: ["Anul construcției: aprox. 1250 î.Hr.", "Înălțimea deschiderii: 3,10 metri.", "Greutatea buiandrugului: aprox. 20 tone.", "Material: conglomerat."],
+      en: ["Year of construction: approx. 1250 BC.", "Height of the opening: 3.10 meters.", "Weight of the lintel: approx. 20 tons.", "Material: conglomerate rock."],
+    },
+    image: "/poi-images/greece-lion-gate-mycenae-landmarks-v2.webp",
+},  {
     id: "greece-great-meteoron-landmarks-v2",
     type: "church",
-    name: { de: "Kloster Metamorphosis (Groß-Meteora)", hu: "Nagy Meteoron-kolostor", ro: "Mănăstirea Marele Meteor", en: "Great Meteoron Monastery" },
+    name: { de: "Kloster Metamorphosis (Groß-Meteora)", hu: "Nagy Meteoron-kolostor", ro: "Mănăstirea Marele Meteor", en: "Great Meteoron Monastery",
+image: "/poi-images/greece-great-meteoron-landmarks-v2.webp"
+},
     coords: [21.6267, 39.7264],
     coordinates: { lat: 39.7264, lng: 21.6267 },
     description: {
@@ -266,11 +463,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea", "Situată la o altitudine de 613 metri", "Adăpostește manuscrise și icoane valoroase", "În trecut era accesibilă doar prin scări de frânghie sau plase"],
       en: ["Founded in the 14th century", "Situated at an altitude of 613 meters", "Houses valuable manuscripts and religious icons", "Used to be accessible only via rope ladders or nets"],
     },
-    imageHint: "Monastery built on top of a giant rock pillar in Meteora", image: "/poi-images/greece-great-meteoron-landmarks-v2.webp"},
-  {
+imageHint: "Monastery built on top of a giant rock pillar in Meteora",
+    descriptionAdvanced: {
+      de: "Das Kloster Megalo Meteoro ist das größte und älteste der Meteora-Klöster. Es wurde auf dem „Platys Lithos“ Felsen in über 600 Metern Höhe gegründet.",
+      hu: "A Nagy Meteoron-kolostor a Meteora-kolostorok közül a legnagyobb és a legrégebbi. A „Platüsz Lithosz” sziklán alapították, több mint 600 méter magasságban.",
+      ro: "Mănăstirea Marele Meteor este cea mai mare și mai veche dintre mănăstirile de la Meteora. A fost fondată pe stânca „Platys Lithos” la peste 600 de metri.",
+      en: "The Great Meteoron Monastery is the largest and oldest of the Meteora monasteries. It was founded on the 'Platys Lithos' rock at an altitude of over 600 meters.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: ca. 1340.", "Höhe des Felsens: 613 Meter.", "Fläche des Plateaus: ca. 50.000 m².", "Patron: Heiliger Athanasios."],
+      hu: ["Alapítás éve: kb. 1340.", "A szikla magassága: 613 méter.", "A fennsík területe: kb. 50 000 m².", "Alapítója: Szent Atanáz."],
+      ro: ["Anul fondării: aprox. 1340.", "Înălțimea stâncii: 613 metri.", "Suprafața platoului: aprox. 50.000 m².", "Fondator: Sfântul Atanasie."],
+      en: ["Year of foundation: approx. 1340.", "Rock height: 613 meters.", "Plateau area: approx. 50,000 m².", "Patron: Saint Athanasios."],
+    },
+    image: "/poi-images/greece-great-meteoron-landmarks-v2.webp",
+},  {
     id: "greece-rousanou-monastery-landmarks-v2",
     type: "church",
-    name: { de: "Kloster Rousanou", hu: "Ruszanu-kolostor", ro: "Mănăstirea Rousanou", en: "Monastery of Rousanou" },
+    name: { de: "Kloster Rousanou", hu: "Ruszanu-kolostor", ro: "Mănăstirea Rousanou", en: "Monastery of Rousanou",
+image: "/poi-images/greece-rousanou-monastery-landmarks-v2.webp"
+},
     coords: [21.6322, 39.7216],
     coordinates: { lat: 39.7216, lng: 21.6322 },
     description: {
@@ -285,11 +497,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită în forma actuală în secolul al XVI-lea", "Dedicată Sfintei Varvara", "A devenit mănăstire de maici în anul 1988", "Conectată de stâncile învecinate prin poduri"],
       en: ["Built in its current form in the 16th century", "Dedicated to Saint Barbara", "Became a nunnery in 1988", "Connected to neighboring rocks by bridges"],
     },
-    imageHint: "The Monastery of Rousanou perched on a steep rock in Meteora", image: "/poi-images/greece-rousanou-monastery-landmarks-v2.webp"},
-  {
+imageHint: "The Monastery of Rousanou perched on a steep rock in Meteora",
+    descriptionAdvanced: {
+      de: "Das Kloster Rousanou besticht durch seine vertikale Lage auf einem schmalen Felsen. Es ist der Heiligen Barbara gewidmet und wird heute als Nonnenkloster geführt.",
+      hu: "A Ruszanu-kolostor lenyűgöző elhelyezkedésével tűnik ki egy keskeny sziklafalon. Szent Borbálának szentelték, ma apácazárdaként működik.",
+      ro: "Mănăstirea Rousanou impresionează prin poziția sa verticală pe o stâncă îngustă. Este dedicată Sfintei Varvara și funcționează astăzi ca mănăstire de maici.",
+      en: "The Monastery of Rousanou stands out for its vertical position on a narrow cliff. Dedicated to Saint Barbara, it currently functions as a nunnery.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit (heutige Form): 16. Jhd.", "Ebenen des Klosters: 3 Stockwerke.", "Zugang: über zwei feste Brücken.", "Wandmalereien von 1560."],
+      hu: ["Mai formájának építése: 16. század.", "A kolostor szintjei: 3 emelet.", "Megközelítés: két fix hídon keresztül.", "Falfestmények kora: 1560."],
+      ro: ["Construcția (forma actuală): sec. XVI.", "Nivelurile mănăstirii: 3 etaje.", "Acces: prin două poduri fixe.", "Picturi murale din 1560."],
+      en: ["Construction (current form): 16th century.", "Levels of the monastery: 3 floors.", "Access: via two fixed bridges.", "Wall paintings date to: 1560."],
+    },
+    image: "/poi-images/greece-rousanou-monastery-landmarks-v2.webp",
+},  {
     id: "greece-castle-monemvasia-landmarks-v2",
     type: "castle",
-    name: { de: "Burg von Monemvasia", hu: "Monemvaszia vára", ro: "Cetatea Monemvasia", en: "Castle of Monemvasia" },
+    name: { de: "Burg von Monemvasia", hu: "Monemvaszia vára", ro: "Cetatea Monemvasia", en: "Castle of Monemvasia",
+image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp"
+},
     coords: [23.056, 36.6892],
     coordinates: { lat: 36.6892, lng: 23.056 },
     description: {
@@ -304,11 +531,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al VI-lea de către bizantini", "Are un oraș de jos și un oraș de sus inexpugnabil", "Cunoscută sub numele de 'Gibraltarul Estului'", "Biserica Agia Sophia este situată în cel mai înalt punct"],
       en: ["Founded in the 6th century by the Byzantines", "Features a lower town and an impregnable upper town", "Known as the 'Gibraltar of the East'", "The church of Agia Sophia sits at the highest point"],
     },
-    imageHint: "Medieval town of Monemvasia on a rock island", image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp"},
-  {
+imageHint: "Medieval town of Monemvasia on a rock island",
+    descriptionAdvanced: {
+      de: "Monemvasia ist eine mittelalterliche Festungsstadt auf einem gewaltigen Inselfelsen. Der Name bedeutet „einziger Zugang“, da sie nur über einen Damm erreichbar ist.",
+      hu: "Monemvaszia egy középkori erődváros egy hatalmas sziklaszigeten. Neve „egyetlen bejáratot” jelent, mivel csak egyetlen gáton keresztül közelíthető meg.",
+      ro: "Monemvasia este un oraș-cetate medieval situat pe o stâncă uriașă în mare. Numele său înseamnă „singura intrare”, fiind legat de uscat printr-un dig.",
+      en: "Monemvasia is a medieval fortress town located on a massive island rock. Its name means 'single entrance', referring to the causeway that links it to the mainland.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 583 n. Chr.", "Länge des Felsens: 1.500 Meter.", "Höhe des Plateaus: 300 Meter.", "Zitadelle in der Oberstadt."],
+      hu: ["Alapítás éve: i.sz. 583.", "A szikla hossza: 1500 méter.", "A fennsík magassága: 300 méter.", "Citadella a felsővárosban."],
+      ro: ["Anul fondării: 583 d.Hr.", "Lungimea stâncii: 1.500 metri.", "Înălțimea platoului: 300 metri.", "Citadela în orașul de sus."],
+      en: ["Year of foundation: 583 AD.", "Rock length: 1,500 meters.", "Plateau height: 300 meters.", "Citadel located in the upper town."],
+    },
+    image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp",
+},  {
     id: "greece-achilleion-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Achilleion", hu: "Achilleion-palota", ro: "Palatul Achilleion", en: "Achilleion Palace" },
+    name: { de: "Achilleion", hu: "Achilleion-palota", ro: "Palatul Achilleion", en: "Achilleion Palace",
+image: "/poi-images/greece-achilleion-palace-landmarks-v2.webp"
+},
     coords: [19.9042, 39.5624],
     coordinates: { lat: 39.5624, lng: 19.9042 },
     description: {
@@ -323,11 +565,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 1890", "Grădina conține celebra statuie a lui 'Ahile murind'", "Cumpărat ulterior de împăratul german Wilhelm al II-lea", "A servit drept spital militar în Primul Război Mondial"],
       en: ["Completed in 1890", "The gardens feature the famous 'Dying Achilles' statue", "Later purchased by German Kaiser Wilhelm II", "Served as a military hospital during World War I"],
     },
-    imageHint: "Neoclassical Achilleion Palace and statues on Corfu", image: "/poi-images/greece-achilleion-palace-landmarks-v2.webp"},
-  {
+imageHint: "Neoclassical Achilleion Palace and statues on Corfu",
+    descriptionAdvanced: {
+      de: "Das Achilleion auf Korfu wurde für Kaiserin Elisabeth von Österreich als Zufluchtsort erbaut. Der neoklassizistische Palast ist dem griechischen Helden Achilles gewidmet.",
+      hu: "A korfui Achilleion palota Erzsébet osztrák császárné (Sisi) számára épült menedékhelyként. A neoklasszicista palotát Akhilleusznak szentelték.",
+      ro: "Palatul Achilleion din Corfu a fost construit pentru împărăteasa Elisabeta a Austriei (Sisi). Palatul neoclasic este dedicat eroului grec Ahile.",
+      en: "The Achilleion on Corfu was built for Empress Elisabeth of Austria (Sisi) as a retreat. The neoclassical palace is dedicated to the Greek hero Achilles.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1890.", "Architekt: Raffaele Caritto.", "Berühmte Statue: Sterbender Achilles.", "Besitzer nach 1907: Wilhelm II."],
+      hu: ["Építés éve: 1890.", "Építész: Raffaele Caritto.", "Híres szobor: Haldokló Akhilleusz.", "1907 utáni tulajdonos: II. Vilmos."],
+      ro: ["Anul construcției: 1890.", "Arhitect: Raffaele Caritto.", "Statuia celebră: Ahile murind.", "Proprietar după 1907: Wilhelm al II-lea."],
+      en: ["Year of construction: 1890.", "Architect: Raffaele Caritto.", "Famous statue: Dying Achilles.", "Owner after 1907: Kaiser Wilhelm II."],
+    },
+    image: "/poi-images/greece-achilleion-palace-landmarks-v2.webp",
+},  {
     id: "greece-old-fortress-corfu-landmarks-v2",
     type: "castle",
-    name: { de: "Alte Festung (Korfu)", hu: "Régi erőd (Korfu)", ro: "Vechea Cetate din Corfu", en: "Old Fortress (Corfu)" },
+    name: { de: "Alte Festung (Korfu)", hu: "Régi erőd (Korfu)", ro: "Vechea Cetate din Corfu", en: "Old Fortress (Corfu)",
+image: "/poi-images/greece-old-fortress-corfu-landmarks-v2.webp"
+},
     coords: [19.9288, 39.6234],
     coordinates: { lat: 39.6234, lng: 19.9288 },
     description: {
@@ -342,11 +599,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Extinsă de venețieni în secolul al XV-lea", "Separată de uscat printr-un canal artificial (Contrafossa)", "Adăpostește biserica Sfântul Gheorghe în stil doric", "A rezistat cu succes mai multor asedii otomane"],
       en: ["Expanded by the Venetians in the 15th century", "Separated from the mainland by a sea-water moat (Contrafossa)", "Houses the Church of Saint George built in Doric style", "Successfully withstood several Ottoman sieges"],
     },
-    imageHint: "Venetian Old Fortress of Corfu on a peninsula", image: "/poi-images/greece-old-fortress-corfu-landmarks-v2.webp"},
-  {
+imageHint: "Venetian Old Fortress of Corfu on a peninsula",
+    descriptionAdvanced: {
+      de: "Die Alte Festung von Korfu liegt auf einer Halbinsel und ist durch einen Kanal vom Festland getrennt. Sie wurde von den Venezianern auf byzantinischen Ruinen errichtet.",
+      hu: "Korfu régi erődje egy félszigeten fekszik, melyet csatorna választ el a szárazföldtől. A velenceiek építették bizánci alapokra a 16. században.",
+      ro: "Vechea Cetate din Corfu este situată pe o peninsulă separată de oraș printr-un canal. A fost reconstruită de venețieni pe fundații bizantine.",
+      en: "The Old Fortress of Corfu sits on a peninsula separated from the town by a sea moat. It was built by the Venetians over earlier Byzantine fortifications.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit der Mauern: ab 1546.", "Höhe der Gipfel: 65 Meter.", "Kanalname: Contrafossa.", "Kirche im Areal: St. George (1840)."],
+      hu: ["A falak építése: 1546-tól.", "A csúcsok magassága: 65 méter.", "A csatorna neve: Contrafossa.", "Szent György-templom (1840)."],
+      ro: ["Construcția zidurilor: din 1546.", "Înălțimea vârfurilor: 65 metri.", "Numele canalului: Contrafossa.", "Biserica Sf. Gheorghe (1840)."],
+      en: ["Wall construction: from 1546.", "Height of the peaks: 65 meters.", "Moat name: Contrafossa.", "St. George's Church built: 1840."],
+    },
+    image: "/poi-images/greece-old-fortress-corfu-landmarks-v2.webp",
+},  {
     id: "greece-rio-antirrio-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Rio-Andirrio-Brücke", hu: "Rió-Antírió híd", ro: "Podul Rio-Antirrio", en: "Rio-Antirrio Bridge" },
+    name: { de: "Rio-Andirrio-Brücke", hu: "Rió-Antírió híd", ro: "Podul Rio-Antirrio", en: "Rio-Antirrio Bridge",
+image: "/poi-images/greece-rio-antirrio-bridge-landmarks-v2.webp"
+},
     coords: [21.7853, 38.3197],
     coordinates: { lat: 38.3197, lng: 21.7853 },
     description: {
@@ -361,11 +633,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Deschis în anul 2004, chiar înainte de Jocurile Olimpice", "Are o lungime totală de 2.880 de metri", "Proiectat să reziste la cutremure puternice", "Susținut de patru piloni masivi"],
       en: ["Opened in 2004, just before the Olympic Games", "Total length of the bridge is 2,880 meters", "Engineered to withstand powerful earthquakes", "Supported by four massive pylons"],
     },
-    imageHint: "The modern Rio-Antirrio cable-stayed bridge over the sea", image: "/poi-images/greece-rio-antirrio-bridge-landmarks-v2.webp"},
-  {
+imageHint: "The modern Rio-Antirrio cable-stayed bridge over the sea",
+    descriptionAdvanced: {
+      de: "Die Rio-Andirrio-Brücke verbindet den Peloponnes mit dem griechischen Festland. Sie ist eine der längsten Schrägseilbrücken der Welt mit einer mehrfeldrigen Konstruktion.",
+      hu: "A Rio-Antirrio híd a Peloponnészoszt köti össze a görög szárazfölddel. A világ egyik leghosszabb többnyílású ferdekábeles hídja, modern mérnöki csoda.",
+      ro: "Podul Rio-Antirrio leagă Peloponezul de Grecia continentală. Este unul dintre cele mai lungi poduri suspendate pe cabluri din lume.",
+      en: "The Rio-Antirrio Bridge connects the Peloponnese with mainland Greece. It is one of the world's longest multi-span cable-stayed bridges, a modern engineering feat.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 2.880 Meter.", "Eröffnung: 7. August 2004.", "Anzahl der Pylone: 4.", "Wassertiefe unter Pylonen: bis 65 m."],
+      hu: ["Teljes hossz: 2880 méter.", "Megnyitás: 2004. augusztus 7.", "Pilonok száma: 4 db.", "Vízmélység a pilonoknál: 65 m."],
+      ro: ["Lungime totală: 2.880 metri.", "Inaugurare: 7 august 2004.", "Număr de piloni: 4.", "Adâncimea apei la piloni: 65 m."],
+      en: ["Total length: 2,880 meters.", "Opening date: August 7, 2004.", "Number of pylons: 4.", "Water depth at pylons: up to 65 m."],
+    },
+    image: "/poi-images/greece-rio-antirrio-bridge-landmarks-v2.webp",
+},  {
     id: "greece-mystras-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Palast der Despoten (Mystras)", hu: "Deszpoták palotája (Misztra)", ro: "Palatul Despoților (Mystras)", en: "Mystras Palace" },
+    name: { de: "Palast der Despoten (Mystras)", hu: "Deszpoták palotája (Misztra)", ro: "Palatul Despoților (Mystras)", en: "Mystras Palace",
+image: "/poi-images/greece-mystras-palace-landmarks-v2.webp"
+},
     coords: [22.3686, 37.0761],
     coordinates: { lat: 37.0761, lng: 22.3686 },
     description: {
@@ -380,11 +667,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit între secolele XIII și XV", "Situat pe pantele munților Taygetos", "Face parte din situl UNESCO de la Mystras", "A beneficiat de restaurări majore în ultimele decenii"],
       en: ["Constructed between the 13th and 15th centuries", "Located on the slopes of Mount Taygetos", "Part of the UNESCO World Heritage site of Mystras", "Has undergone extensive restoration recently"],
     },
-    imageHint: "Byzantine palace ruins of Mystras on a hillside", image: "/poi-images/greece-mystras-palace-landmarks-v2.webp"},
-  {
+imageHint: "Byzantine palace ruins of Mystras on a hillside",
+    descriptionAdvanced: {
+      de: "Der Palast der Despoten in Mystras war das Machtzentrum des Despotats Morea. Er liegt in der Oberstadt und zeigt die architektonische Pracht der späten Byzanz.",
+      hu: "Misztra deszpótáinak palotája a Moreai Deszpotátus hatalmi központja volt. A felsővárosban található, és a késő bizánci építészet pompáját hirdeti.",
+      ro: "Palatul Despoților din Mystras a fost centrul puterii Despotatului Moreei. Situat în orașul de sus, reflectă splendoarea arhitecturii bizantine târzii.",
+      en: "The Palace of the Despots in Mystras was the administrative center of the Despotate of the Morea. It showcases the grandeur of late Byzantine architecture.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 13. bis 15. Jahrhundert.", "UNESCO-Welterbe seit 1989.", "Sitz der Palaiologen-Dynastie.", "Fläche des Thronsaals: 360 m²."],
+      hu: ["Építési idő: 13–15. század.", "1989 óta UNESCO Világörökség.", "A Palaiologosz-dinasztia székhelye.", "A trónterem területe: 360 m²."],
+      ro: ["Perioada: sec. XIII–XV.", "Patrimoniu UNESCO din 1989.", "Reședința dinastiei Paleolog.", "Suprafața sălii tronului: 360 m²."],
+      en: ["Construction: 13th to 15th century.", "UNESCO World Heritage site since 1989.", "Seat of the Palaiologos dynasty.", "Throne room area: 360 m²."],
+    },
+    image: "/poi-images/greece-mystras-palace-landmarks-v2.webp",
+},  {
     id: "greece-academy-athens-landmarks-v2",
     type: "university",
-    name: { de: "Akademie von Athen", hu: "Athéni Akadémia", ro: "Academia din Atena", en: "Academy of Athens" },
+    name: { de: "Akademie von Athen", hu: "Athéni Akadémia", ro: "Academia din Atena", en: "Academy of Athens",
+image: "/poi-images/greece-academy-athens-landmarks-v2.webp"
+},
     coords: [23.7336, 37.9806],
     coordinates: { lat: 37.9806, lng: 23.7336 },
     description: {
@@ -399,11 +701,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Finalizată în anul 1885", "Proiectată de arhitectul danez Theophil Hansen", "Două coloane înalte susțin statuile Atenei și lui Apollo", "Construită după principiile clasice ale Erechtheionului"],
       en: ["Completed in the year 1885", "Designed by the Danish architect Theophil Hansen", "Two high columns feature statues of Athena and Apollo", "Built according to the principles of the classical Erechtheion"],
     },
-    imageHint: "Neoclassical building of the Academy of Athens with statues", image: "/poi-images/greece-academy-athens-landmarks-v2.webp"},
-  {
+imageHint: "Neoclassical building of the Academy of Athens with statues",
+    descriptionAdvanced: {
+      de: "Die Akademie von Athen ist Teil der neoklassizistischen „Trilogie“. Das Gebäude ist von der Architektur des Erechtheion auf der Akropolis inspiriert.",
+      hu: "Az Athéni Akadémia a neoklasszicista „trilógia” része. Az épületet az Akropoliszon található Erekhtheion építészeti megoldásai ihlették.",
+      ro: "Academia din Atena face parte din „trilogia” neoclasică a orașului. Clădirea este inspirată de arhitectura Erechtheionului de pe Acropolă.",
+      en: "The Academy of Athens is part of the neoclassical 'Trilogy' of the city. Its design is heavily inspired by the architecture of the Erechtheion on the Acropolis.",
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung: 1859.", "Architekt: Theophil Hansen.", "Statuen: Athena und Apollon.", "Sitz der obersten Gelehrtengesellschaft."],
+      hu: ["Alapkőletétel: 1859.", "Építész: Theophil Hansen.", "Szobrok: Athéné és Apollón.", "Görögország legfőbb tudományos intézete."],
+      ro: ["Piatra de temelie: 1859.", "Arhitect: Theophil Hansen.", "Statuile exterioare: Atena și Apollo.", "Sediul celei mai înalte instituții științifice."],
+      en: ["Foundation stone laid: 1859.", "Architect: Theophil Hansen.", "Statues: Athena and Apollo.", "Seat of Greece's highest research institution."],
+    },
+    image: "/poi-images/greece-academy-athens-landmarks-v2.webp",
+},  {
     id: "greece-zappeion-hall-landmarks-v2",
     type: "landmark",
-    name: { de: "Zappeion", hu: "Zappeion", ro: "Zappeion", en: "Zappeion Hall" },
+    name: { de: "Zappeion", hu: "Zappeion", ro: "Zappeion", en: "Zappeion Hall",
+image: "/poi-images/greece-zappeion-hall-landmarks-v2.webp"
+},
     coords: [23.7366, 37.9691],
     coordinates: { lat: 37.9691, lng: 23.7366 },
     description: {
@@ -418,12 +735,27 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Inaugurată oficial în anul 1888", "Prima clădire din lume ridicată special pentru Jocurile Olimpice", "A găzduit competițiile de scrimă la olimpiada din 1896", "Construcția a fost finanțată de Evangelos Zappas"],
       en: ["Officially opened in 1888", "First building in the world erected specifically for Olympic Games", "Hosted fencing events during the 1896 Olympics", "Financed by the philanthropist Evangelos Zappas"],
     },
-    imageHint: "Yellow neoclassical Zappeion Hall in Athens", image: "/poi-images/greece-zappeion-hall-landmarks-v2.webp"}
-,
+imageHint: "Yellow neoclassical Zappeion Hall in Athens",
+    descriptionAdvanced: {
+      de: "Das Zappeion im Nationalgarten von Athen war das erste Gebäude weltweit, das speziell für moderne Olympische Spiele errichtet wurde.",
+      hu: "Az athéni Nemzeti Kertben található Zappeion volt a világ első olyan épülete, amelyet kifejezetten a modern olimpiai játékok céljára emeltek.",
+      ro: "Zappeion, situat în Grădinile Naționale din Atena, a fost prima clădire din lume construită special pentru Jocurile Olimpice moderne.",
+      en: "The Zappeion, located in the National Gardens of Athens, was the first building in the world specifically erected for the modern Olympic Games.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1888.", "Stifter: Evangelos Zappas.", "Durchmesser des Atriums: 24 Meter.", "Nutzung als olympisches Dorf 1896."],
+      hu: ["Építés éve: 1888.", "Adományozó: Evangelos Zappas.", "Az átrium átmérője: 24 méter.", "Olimpiai faluként szolgált 1896-ban."],
+      ro: ["Anul construcției: 1888.", "Ctitor: Evangelos Zappas.", "Diametrul atriumului: 24 metri.", "Folosit ca sat olimpic în 1896."],
+      en: ["Year of construction: 1888.", "Benefactor: Evangelos Zappas.", "Atrium diameter: 24 meters.", "Used as an Olympic village in 1896."],
+    },
+    image: "/poi-images/greece-zappeion-hall-landmarks-v2.webp",
+},
   {
     id: "greece-national-archaeological-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Nationales Archäologisches Museum", hu: "Nemzeti Régészeti Múzeum", ro: "Muzeul Național de Arheologie", en: "National Archaeological Museum" },
+    name: { de: "Nationales Archäologisches Museum", hu: "Nemzeti Régészeti Múzeum", ro: "Muzeul Național de Arheologie", en: "National Archaeological Museum",
+image: "/poi-images/greece-national-archaeological-museum-landmarks-v2.webp"
+},
     coordinates: { lat: 37.9891, lng: 23.7328 },
     description: {
       de: "Das größte archäologische Museum Griechenlands beherbergt Funde von der Vorgeschichte bis zur Spätantike. Es gilt weltweit als eines der bedeutendsten Museen für antike griechische Kunst.",
@@ -438,11 +770,25 @@ export const greeceLandmarksV2: POI[] = [
       en: ["Founded in 1829 on the island of Aegina", "Neoclassical building designed by Ludwig Lange", "Houses the golden Mask of Agamemnon", "Contains the Antikythera mechanism"],
     },
     imageHint: "National Archaeological Museum Athens facade",
+    descriptionAdvanced: {
+      de: "Das Archäologische Nationalmuseum in Athen ist das größte Museum Griechenlands. Es beherbergt Funde von der Vorgeschichte bis zur Spätantike aus dem ganzen Land.",
+      hu: "Az athéni Nemzeti Régészeti Múzeum Görögország legnagyobb múzeuma. Az ország egész területéről származó leleteket őriz az őskortól a késő antikvitásig.",
+      ro: "Muzeul Național de Arheologie din Atena este cel mai mare muzeu din Grecia. Adăpostește descoperiri din toată țara, din preistorie până în antichitatea târzie.",
+      en: "The National Archaeological Museum in Athens is the largest museum in Greece. It houses artifacts from all over the country, dating from prehistory to late antiquity.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1889.", "Anzahl der Exponate: über 11.000.", "Berühmtestes Stück: Goldmaske des Agamemnon.", "Fläche: ca. 8.000 m²."],
+      hu: ["Megnyitás: 1889.", "Kiállított tárgyak száma: több mint 11 000.", "Híres lelet: Agamemnón arany maszkja.", "Terület: kb. 8000 m²."],
+      ro: ["Inaugurare: 1889.", "Număr de exponate: peste 11.000.", "Piesă celebră: Masca lui Agamemnon.", "Suprafață: aprox. 8.000 m²."],
+      en: ["Opening year: 1889.", "Number of exhibits: over 11,000.", "Famous piece: Gold Mask of Agamemnon.", "Area: approx. 8,000 m²."],
+    },
   },
   {
     id: "greece-saint-demetrius-church-landmarks-v2",
     type: "church",
-    name: { de: "Hagios Demetrios Kirche", hu: "Szent Demeter-bazilika", ro: "Biserica Sfântul Dumitru", en: "Saint Demetrius Church" },
+    name: { de: "Hagios Demetrios Kirche", hu: "Szent Demeter-bazilika", ro: "Biserica Sfântul Dumitru", en: "Saint Demetrius Church",
+image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp"
+},
     coordinates: { lat: 40.6391, lng: 22.9478 },
     description: {
       de: "Das wichtigste Heiligtum, das dem Heiligen Demetrios, dem Schutzpatron von Thessaloniki, gewidmet ist. Die Kirche gehört zum UNESCO-Weltkulturerbe der frühchristlichen und byzantinischen Monumente.",
@@ -456,11 +802,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită inițial în secolul al IV-lea", "Grav avariată de un incendiu în 1917", "Adăpostește moaștele Sfântului Dumitru", "Faimoasă pentru mozaicurile bizantine din sec. VII"],
       en: ["Originally built in the 4th century AD", "Heavily damaged by fire in 1917", "Houses the relics of Saint Demetrius", "Famous for 7th-century Byzantine mosaics"],
     },
-    imageHint: "Saint Demetrius Church Thessaloniki interior", image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp"},
-  {
+imageHint: "Saint Demetrius Church Thessaloniki interior",
+    descriptionAdvanced: {
+      de: "Die Kirche des Heiligen Demetrios ist das wichtigste Gotteshaus in Thessaloniki. Sie wurde über der antiken Therme errichtet, in der der Heilige das Martyrium erlitt.",
+      hu: "A Szent Demeter-templom Thesszaloniki legfontosabb keresztény temploma. Az ókori római fürdő felett épült, ahol a szent vértanúhalált halt.",
+      ro: "Biserica Sfântul Dumitru este cel mai important lăcaș de cult din Salonic. A fost construită deasupra băilor romane unde sfântul a suferit martiriul.",
+      en: "The Church of Saint Demetrius is the primary sanctuary dedicated to the patron saint of Thessaloniki. It was built over the Roman baths where the saint was martyred.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1988.", "Länge: 43,5 Meter.", "Breite: 33 Meter.", "Wiederaufbau nach Brand: 1917–1948."],
+      hu: ["1988 óta UNESCO Világörökség.", "Hosszúság: 43,5 méter.", "Szélesség: 33 méter.", "Újjáépítés tűzvész után: 1917–1948."],
+      ro: ["Patrimoniu UNESCO din 1988.", "Lungime: 43,5 metri.", "Lățime: 33 metri.", "Reconstrucție după incendiu: 1917–1948."],
+      en: ["UNESCO World Heritage site since 1988.", "Length: 43.5 meters.", "Width: 33 meters.", "Reconstruction after fire: 1917–1948."],
+    },
+    image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp",
+},  {
     id: "greece-methoni-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Burg von Methoni", hu: "Methóni vára", ro: "Castelul Methoni", en: "Methoni Castle" },
+    name: { de: "Burg von Methoni", hu: "Methóni vára", ro: "Castelul Methoni", en: "Methoni Castle",
+image: "/poi-images/greece-methoni-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 36.8145, lng: 21.7052 },
     description: {
       de: "Eine mittelalterliche Festung auf dem Peloponnes, die im 13. Jahrhundert von den Venezianern erbaut wurde. Sie verfügt über eine Steinbrücke mit 14 Bögen und einen markanten achteckigen Turm.",
@@ -475,11 +836,25 @@ export const greeceLandmarksV2: POI[] = [
       en: ["Strategic trade point on the Mediterranean", "Includes the Bourtzi tower in the sea", "Known by Venetians as 'Modon'", "Covers an area of nearly 10 hectares"],
     },
     imageHint: "Methoni Castle Bourtzi tower at sea",
+    descriptionAdvanced: {
+      de: "Die Festung von Methoni im Südwesten des Peloponnes ist eine der größten im Mittelmeerraum. Sie ist bekannt für den achteckigen Turm „Bourtzi“ am Meer.",
+      hu: "A Peloponnészosz délnyugati részén található Methoni-erőd a Földközi-tenger egyik legnagyobbja. Híres a tengerbe nyúló nyolcszögletű Bourtzi-tornyáról.",
+      ro: "Cetatea Methoni din sud-vestul Peloponezului este una dintre cele mai mari din Mediterana. Este celebră pentru turnul octogonal „Bourtzi” situat pe mare.",
+      en: "The fortress of Methoni in the southwest Peloponnese is one of the largest in the Mediterranean. It is famous for its octagonal Bourtzi tower extending into the sea.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit (Venezianer): ab 1209.", "Fläche: ca. 93.000 m².", "Anzahl der Brückenbögen: 14.", "Grabenbreite: 20 Meter."],
+      hu: ["Velencei építés: 1209-től.", "Terület: kb. 93 000 m².", "A híd íveinek száma: 14 db.", "A várárok szélessége: 20 méter."],
+      ro: ["Construcție venețiană: din 1209.", "Suprafață: aprox. 93.000 m².", "Număr de arcuri ale podului: 14.", "Lățimea șanțului de apă: 20 metri."],
+      en: ["Venetian construction: from 1209.", "Area: approx. 93,000 m².", "Number of bridge arches: 14.", "Moat width: 20 meters."],
+    },
   },
   {
     id: "greece-hosios-loukas-monastery-landmarks-v2",
     type: "church",
-    name: { de: "Kloster Hosios Loukas", hu: "Hosziosz Lukasz-kolostor", ro: "Mănăstirea Hosios Loukas", en: "Hosios Loukas Monastery" },
+    name: { de: "Kloster Hosios Loukas", hu: "Hosziosz Lukasz-kolostor", ro: "Mănăstirea Hosios Loukas", en: "Hosios Loukas Monastery",
+image: "/poi-images/greece-hosios-loukas-monastery-landmarks-v2.webp"
+},
     coordinates: { lat: 38.3951, lng: 22.7473 },
     description: {
       de: "Ein historisches Kloster in der Nähe der Stadt Distomo. Es ist ein Meisterwerk der mittelbyzantinischen Architektur und berühmt für seine umfangreichen Goldmosaike aus dem 11. Jahrhundert.",
@@ -493,11 +868,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1990", "Fondată de eremitul Luca din Steiris", "Deține două biserici interconectate", "Situată pe pantele Muntelui Helikon"],
       en: ["UNESCO World Heritage site since 1990", "Founded by the hermit Saint Luke of Steiris", "Features two interconnected church buildings", "Located on the slopes of Mount Helikon"],
     },
-    imageHint: "Hosios Loukas Monastery gold mosaics", image: "/poi-images/greece-hosios-loukas-monastery-landmarks-v2.webp"},
-  {
+imageHint: "Hosios Loukas Monastery gold mosaics",
+    descriptionAdvanced: {
+      de: "Das Kloster Hosios Loukas ist eines der bedeutendsten Denkmäler der mittelbyzantinischen Kunst. Die Mosaiken aus dem 11. Jahrhundert zählen zu den besterhaltenen weltweit.",
+      hu: "A Hosziosz Lukasz-kolostor a középső bizánci művészet egyik legjelentősebb emléke. A 11. századi mozaikok a világ legjobban megőrzött alkotásai közé tartoznak.",
+      ro: "Mănăstirea Hosios Loukas este unul dintre cele mai importante monumente ale artei bizantine mijlocii. Mozaicurile sale din secolul XI sunt excepționale.",
+      en: "The Monastery of Hosios Loukas is a premier monument of Middle Byzantine art and architecture. Its 11th-century mosaics are among the best-preserved in the world.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1990.", "Gründungszeit: 10. Jahrhundert.", "Anzahl der Kirchen: 2 (Katholikon & Theotokos).", "Höhe: 430 m am Helikon."],
+      hu: ["1990 óta UNESCO Világörökség.", "Alapítás ideje: 10. század.", "Templomok száma: 2 (Katholikon és Theotokos).", "Magasság: 430 m a Helikon-hegyen."],
+      ro: ["Patrimoniu UNESCO din 1990.", "Fondată în secolul X.", "Număr de biserici: 2 (Katholikon și Theotokos).", "Altitudine: 430 m pe muntele Helicon."],
+      en: ["UNESCO World Heritage site since 1990.", "Founded in: 10th century.", "Number of churches: 2 (Katholikon & Theotokos).", "Altitude: 430 m on Mount Helicon."],
+    },
+    image: "/poi-images/greece-hosios-loukas-monastery-landmarks-v2.webp",
+},  {
     id: "greece-bourtzi-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Festung Bourtzi", hu: "Bourtzi-erőd", ro: "Castelul Bourtzi", en: "Bourtzi Castle" },
+    name: { de: "Festung Bourtzi", hu: "Bourtzi-erőd", ro: "Castelul Bourtzi", en: "Bourtzi Castle",
+image: "/poi-images/greece-bourtzi-castle-landmarks-v2.webp"
+},
     coordinates: { lat: 37.5694, lng: 22.7897 },
     description: {
       de: "Eine venezianische Festung auf der kleinen Insel Agioi Theodoroi im Hafen von Nafplio. Ursprünglich zum Schutz vor Piraten erbaut, diente sie später als Scharfrichterresidenz und Hotel.",
@@ -511,11 +901,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit în 1473 de către venețieni", "Proiectat de inginerul Antonio Gambello", "A fost hotel de lux între 1930 și 1970", "Accesibil doar cu barca din Nafplio"],
       en: ["Built in 1473 by the Venetians", "Designed by engineer Antonio Gambello", "Served as a luxury hotel from 1930 to 1970", "Accessible only by boat from Nafplio"],
     },
-    imageHint: "Bourtzi Castle Nafplio islet in harbor", image: "/poi-images/greece-bourtzi-castle-landmarks-v2.webp"},
-  {
+imageHint: "Bourtzi Castle Nafplio islet in harbor",
+    descriptionAdvanced: {
+      de: "Das Bourtzi ist eine kleine venezianische Inselfestung vor dem Hafen von Nafplio. Es diente einst als Verteidigungsanlage, später als Residenz des Henkers.",
+      hu: "A Bourtzi egy kis velencei erőd Nafplio kikötőjének bejáratánál. Egykor védelmi célokat szolgált, később a város hóhérának rezidenciája volt.",
+      ro: "Bourtzi este o mică fortăreață venețiană situată pe o insulă în fața portului Nafplio. A servit drept fortificație, apoi ca reședință pentru călău.",
+      en: "Bourtzi is a small Venetian island fortress located at the entrance of Nafplio's harbor. It served as a defense fortification and later as a residence for executioners.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1473.", "Architekt: Antonio Gambello.", "Nutzung als Hotel: 1930–1970.", "Entfernung zur Stadt: 400 Meter."],
+      hu: ["Építés éve: 1473.", "Építész: Antonio Gambello.", "Szállodaként működött: 1930–1970.", "Távolság a várostól: 400 méter."],
+      ro: ["Anul construcției: 1473.", "Arhitect: Antonio Gambello.", "Funcționat ca hotel: 1930–1970.", "Distanța față de oraș: 400 metri."],
+      en: ["Year of construction: 1473.", "Architect: Antonio Gambello.", "Used as a hotel: 1930–1970.", "Distance from the town: 400 meters."],
+    },
+    image: "/poi-images/greece-bourtzi-castle-landmarks-v2.webp",
+},  {
     id: "greece-st-michael-george-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Palast von St. Michael und St. Georg", hu: "Szent Mihály és Szent György-palota", ro: "Palatul Sf. Mihail și Sf. Gheorghe", en: "Palace of St. Michael and St. George" },
+    name: { de: "Palast von St. Michael und St. Georg", hu: "Szent Mihály és Szent György-palota", ro: "Palatul Sf. Mihail și Sf. Gheorghe", en: "Palace of St. Michael and St. George",
+image: "/poi-images/greece-st-michael-george-palace-landmarks-v2.webp"
+},
     coordinates: { lat: 39.6262, lng: 19.9238 },
     description: {
       de: "Ein neoklassizistischer Palast in Korfu-Stadt, erbaut während des britischen Protektorats. Er beherbergt heute das Museum für Asiatische Kunst und die Städtische Kunstgalerie.",
@@ -530,11 +935,25 @@ export const greeceLandmarksV2: POI[] = [
       en: ["Built between 1819 and 1824", "Designed by Sir George Whitmore", "Former residence of British High Commissioners", "Largest building in Corfu city center"],
     },
     imageHint: "Palace of St. Michael and St. George Corfu facade",
+    descriptionAdvanced: {
+      de: "Der Palast von St. Michael und St. George in Korfu wurde während des britischen Protektorats erbaut. Er beherbergt heute das Museum für Asiatische Kunst.",
+      hu: "A korfui Szent Mihály és Szent György palota a brit protektorátus idején épült. Ma az Ázsiai Művészetek Múzeumának ad otthont a város szívében.",
+      ro: "Palatul Sf. Mihail și Sf. Gheorghe din Corfu a fost construit în timpul protectoratului britanic. Astăzi găzduiește Muzeul de Artă Asiatică.",
+      en: "The Palace of St. Michael and St. George in Corfu was built during the British Protectorate. It currently houses the Museum of Asian Art.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1819–1824.", "Baustil: Regency-Stil.", "Material: Kalkstein aus Malta.", "Ehemaliger Sitz des Senats."],
+      hu: ["Építési idő: 1819–1824.", "Építészeti stílus: régens stílus.", "Anyaga: máltai mészkő.", "A jón szenátus egykori székhelye."],
+      ro: ["Perioada construcției: 1819–1824.", "Stil arhitectural: stil Regency.", "Material: calcar de Malta.", "Fostul sediu al senatului ionian."],
+      en: ["Construction period: 1819–1824.", "Architectural style: Regency style.", "Material: Maltese limestone.", "Former seat of the Ionian Senate."],
+    },
   },
   {
     id: "greece-heraklion-archaeological-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Archäologisches Museum Iraklio", hu: "Irákliói Régészeti Múzeum", ro: "Muzeul de Arheologie din Heraklion", en: "Heraklion Archaeological Museum" },
+    name: { de: "Archäologisches Museum Iraklio", hu: "Irákliói Régészeti Múzeum", ro: "Muzeul de Arheologie din Heraklion", en: "Heraklion Archaeological Museum",
+image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp"
+},
     coordinates: { lat: 35.3394, lng: 25.1371 },
     description: {
       de: "Eines der bedeutendsten Museen Europas, das die weltweit wichtigste Sammlung minoischer Altertümer beherbergt. Es befindet sich im Zentrum von Iraklio auf der Insel Kreta.",
@@ -548,11 +967,26 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1883", "Găzduiește faimosul disc din Phaistos", "Expune frescele originale de la Knossos", "Cuprinde 27 de săli de expoziție"],
       en: ["Founded in the year 1883", "Houses the famous Phaistos Disc", "Displays frescoes from the Palace of Knossos", "Contains 27 rooms of exhibits"],
     },
-    imageHint: "Heraklion Archaeological Museum Minoan frescoes", image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp"},
-  {
+imageHint: "Heraklion Archaeological Museum Minoan frescoes",
+    descriptionAdvanced: {
+      de: "Dieses Museum gilt als eines der wichtigsten für die minoische Kultur weltweit. Es beherbergt die bedeutendste Sammlung minoischer Antiquitäten aus ganz Kreta.",
+      hu: "Ez a múzeum világszinten a legfontosabb a minószi kultúra kutatásában. Itt található a legjelentősebb minószi régészeti gyűjtemény egész Krétáról.",
+      ro: "Acest muzeu este considerat unul dintre cele mai importante pentru cultura minoică la nivel mondial. Deține cea mai bogată colecție de antichități minoice.",
+      en: "This museum is considered one of the most important in the world for Minoan culture. It houses the most significant collection of Minoan antiquities from Crete.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Gebäudes: 1937.", "Berühmte Artefakte: Diskos von Phaistos.", "Anzahl der Galerien: 27 Säle.", "Standort: Zentrum von Heraklion."],
+      hu: ["Az épület építési éve: 1937.", "Híres lelet: Phaisztoszi korong.", "Galériák száma: 27 terem.", "Helyszín: Iráklio központja."],
+      ro: ["Anul clădirii actuale: 1937.", "Artefact faimos: Discul din Phaistos.", "Număr de galerii: 27 de săli.", "Locație: Centrul orașului Heraklion."],
+      en: ["Building construction year: 1937.", "Famous artifact: Phaistos Disc.", "Number of galleries: 27 rooms.", "Location: Center of Heraklion."],
+    },
+    image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp",
+},  {
     id: "greece-bridge-arta-landmarks-v2",
     type: "bridge",
-    name: { de: "Brücke von Arta", hu: "Ártai híd", ro: "Podul din Arta", en: "Bridge of Arta" },
+    name: { de: "Brücke von Arta", hu: "Ártai híd", ro: "Podul din Arta", en: "Bridge of Arta",
+image: "/poi-images/greece-bridge-arta-landmarks-v2.webp"
+},
     coordinates: { lat: 39.1518, lng: 20.9751 },
     description: {
       de: "Eine historische Steinbrücke über den Fluss Arachthos in der Stadt Arta. Sie ist berühmt für die Volkssage um das Opfer der Frau des Baumeisters während ihres Baus.",
@@ -567,5 +1001,17 @@ export const greeceLandmarksV2: POI[] = [
       en: ["Consists of four large arches", "Total length of 142 meters", "Current structure dates to the Ottoman era", "The foundations are of Roman origin"],
     },
     imageHint: "Stone Bridge of Arta Arachthos river",
+    descriptionAdvanced: {
+      de: "Die Brücke von Arta ist eine berühmte osmanische Steinbrücke über den Fluss Arachthos. Sie ist Gegenstand einer bekannten Volkssage über Selbstopferung.",
+      hu: "Az artasz-i híd egy híres oszmán kőhíd az Arachthos folyón. Egy közismert népi ballada fűződik hozzá az építőmester feleségének feláldozásáról.",
+      ro: "Podul din Arta este un celebru pod otoman din piatră peste râul Arachthos. Este subiectul unei balade populare despre sacrificiul soției constructorului.",
+      en: "The Bridge of Arta is a famous Ottoman stone bridge crossing the Arachthos river. It is the subject of a well-known folk ballad about human sacrifice during construction.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr (heutige Form): 1612.", "Länge: 142 Meter.", "Anzahl der Bögen: 4 Hauptbögen.", "Höhe des höchsten Bogens: 20 Meter."],
+      hu: ["Mai formájának építése: 1612.", "Hosszúság: 142 méter.", "Ívek száma: 4 főív.", "Legmagasabb ív magassága: 20 méter."],
+      ro: ["Anul construcției actuale: 1612.", "Lungime: 142 metri.", "Număr de arcuri: 4 principale.", "Înălțimea celui mai mare arc: 20 metri."],
+      en: ["Year of current form: 1612.", "Length: 142 meters.", "Number of arches: 4 main arches.", "Highest arch height: 20 meters."],
+    },
   }
 ];

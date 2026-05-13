@@ -4,7 +4,9 @@ export const vaticanEconomicV2: POI[] = [
   {
     id: "vatican-philatelic-numismatic-office-economic-v2",
     type: "industry",
-    name: { de: "Amt für Philatelie und Numismatik", hu: "Bélyeg- és Érmehivatal", ro: "Biroul Filatelic și Numismatic", en: "Philatelic and Numismatic Office" },
+    name: { de: "Amt für Philatelie und Numismatik", hu: "Bélyeg- és Érmehivatal", ro: "Biroul Filatelic și Numismatic", en: "Philatelic and Numismatic Office",
+image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp"
+},
     coords: [12.4534, 41.9056],
     coordinates: { lat: 41.9056, lng: 12.4534 },
     description: {
@@ -19,11 +21,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în anul 1929", "Emite monede euro proprii", "Timbrele sunt celebre printre colecționari", "Sediul în Palatul Guvernatoratului"],
       en: ["Founded in 1929", "Issues its own Euro coins", "Stamps are famous among collectors", "Located in the Governorate Palace"],
     },
-    imageHint: "Vatican coins and stamps display", image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp"},
-  {
+imageHint: "Vatican coins and stamps display",
+    descriptionAdvanced: {
+      de: "Diese Behörde verwaltet die Ausgabe von vatikanischen Briefmarken und Münzen, die weltweit für ihre Qualität und Seltenheit bei Sammlern hoch geschätzt werden.",
+      hu: "Ez a hivatal kezeli a vatikáni bélyegek és érmék kibocsátását, amelyek világszerte ismertek minőségükről és a gyűjtők körében élvezett ritkaságukról.",
+      ro: "Această instituție gestionează emiterea timbrelor și monedelor vaticane, fiind renumită la nivel mondial pentru calitatea și raritatea pieselor de colecție.",
+      en: "This office manages the issuance of Vatican stamps and coins, which are globally renowned for their quality and high demand among numismatic collectors.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1929", "Gibt vatikanische Euro-Münzen heraus", "Sitz im Gouverneurspalast", "Limitierte jährliche Auflagen"],
+      hu: ["1929-ben alapították", "Vatikáni euróérméket bocsát ki", "A Kormányzósági Palotában székel", "Limitált éves példányszámok"],
+      ro: ["Fondat în anul 1929", "Emite monede euro vaticane", "Sediul în Palatul Guvernoratului", "Ediții anuale limitate"],
+      en: ["Founded in 1929", "Issues Vatican Euro coins", "Based in the Governorate Palace", "Limited annual mintage"],
+    },
+    image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp",
+},  {
     id: "vatican-supermarket-annona-economic-v2",
     type: "landmark",
-    name: { de: "Vatikan-Supermarkt (Annona)", hu: "Vatikáni Szupermarket (Annona)", ro: "Supermarketul Vatican (Annona)", en: "Vatican Supermarket (Annona)" },
+    name: { de: "Vatikan-Supermarkt (Annona)", hu: "Vatikáni Szupermarket (Annona)", ro: "Supermarketul Vatican (Annona)", en: "Vatican Supermarket (Annona)",
+image: "/poi-images/vatican-supermarket-annona-economic-v2.webp"
+},
     coords: [12.4552, 41.9055],
     coordinates: { lat: 41.9055, lng: 12.4552 },
     description: {
@@ -39,11 +56,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Accessible only with a permit", "Tax-free Italian specialties", "Located on the ground floor of Belvedere", "Key supply center for the enclave"],
     },
     imageHint: "Vatican supermarket interior Annona",
+    descriptionAdvanced: {
+      de: "Der Annona-Supermarkt bietet vatikanischen Angestellten und Klerikern Waren des täglichen Bedarfs zu steuerbegünstigten Preisen innerhalb der Mauern an.",
+      hu: "Az Annona szupermarket a vatikáni alkalmazottak és a papság számára kínál mindennapi cikkeket adómentes áron a városállam falain belül.",
+      ro: "Supermarketul Annona oferă angajaților și clerului de la Vatican bunuri de consum zilnic la prețuri fără taxe în interiorul zidurilor cetății.",
+      en: "The Annona supermarket provides Vatican employees and clergy with daily goods at duty-free prices within the city-state's walls.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 1929", "Nur für Inhaber einer Spezialkarte", "In der Nähe des St. Anna-Tors", "Steuerfreie italienische Produkte"],
+      hu: ["1929-ben nyílt meg", "Csak kártyabirtokosoknak elérhető", "A Szent Anna-kapu közelében van", "Adómentes olasz termékek"],
+      ro: ["Deschis în anul 1929", "Acces limitat posesorilor de card", "Lângă Poarta Sfânta Ana", "Produse italiene fără taxe"],
+      en: ["Opened in 1929", "Access only for cardholders", "Located near St. Anne's Gate", "Duty-free Italian products"],
+    },
   },
   {
     id: "vatican-printing-press-economic-v2",
     type: "factory",
-    name: { de: "Vatikanische Druckerei", hu: "Vatikáni Nyomda", ro: "Tipografia Vaticană", en: "Vatican Printing Press" },
+    name: { de: "Vatikanische Druckerei", hu: "Vatikáni Nyomda", ro: "Tipografia Vaticană", en: "Vatican Printing Press",
+image: "/poi-images/vatican-printing-press-economic-v2.webp"
+},
     coords: [12.4538, 41.9058],
     coordinates: { lat: 41.9058, lng: 12.4538 },
     description: {
@@ -58,11 +89,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondată în anul 1587", "Utilizează tehnologie de ultimă oră", "Tipărește în peste 15 limbi", "Produce 'Acta Apostolicae Sedis'"],
       en: ["Founded in 1587", "Uses state-of-the-art technology", "Prints in over 15 languages", "Produces the 'Acta Apostolicae Sedis'"],
     },
-    imageHint: "Vatican printing press machinery", image: "/poi-images/vatican-printing-press-economic-v2.webp"},
-  {
+imageHint: "Vatican printing press machinery",
+    descriptionAdvanced: {
+      de: "Die Vatikanische Druckerei ist für die Herstellung offizieller Dokumente, päpstlicher Bullen und der Tageszeitung L'Osservatore Romano verantwortlich.",
+      hu: "A Vatikáni Nyomda felelős a hivatalos dokumentumok, pápai bullák és a L'Osservatore Romano napilap előállításáért a városállam területén.",
+      ro: "Tipografia Vaticanului este responsabilă pentru producția documentelor oficiale, a bulelor papale și a ziarului L'Osservatore Romano.",
+      en: "The Vatican Printing Press is responsible for producing official documents, papal bulls, and the daily L'Osservatore Romano newspaper.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet von Sixtus V. 1587", "Druckt in fast 15 Sprachen", "Verwendet modernste Digitaltechnik", "Produziert das Acta Apostolicae Sedis"],
+      hu: ["V. Szixtusz alapította 1587-ben", "Közel 15 nyelven nyomtatnak", "Modern digitális technológiát használ", "Az Acta Apostolicae Sedist készíti"],
+      ro: ["Fondată de Sixt al V-lea în 1587", "Tipărește în aproape 15 limbi", "Folosește tehnologie digitală modernă", "Produce Acta Apostolicae Sedis"],
+      en: ["Founded by Sixtus V in 1587", "Prints in nearly 15 languages", "Uses modern digital technology", "Produces the Acta Apostolicae Sedis"],
+    },
+    image: "/poi-images/vatican-printing-press-economic-v2.webp",
+},  {
     id: "vatican-publishing-house-economic-v2",
     type: "industry",
-    name: { de: "Vatikanischer Buchverlag (LEV)", hu: "Vatikáni Könyvkiadó (LEV)", ro: "Editura Vaticană (LEV)", en: "Vatican Publishing House (LEV)" },
+    name: { de: "Vatikanischer Buchverlag (LEV)", hu: "Vatikáni Könyvkiadó (LEV)", ro: "Editura Vaticană (LEV)", en: "Vatican Publishing House (LEV)",
+image: "/poi-images/vatican-publishing-house-economic-v2.webp"
+},
     coords: [12.4571, 41.9024],
     coordinates: { lat: 41.9024, lng: 12.4571 },
     description: {
@@ -78,11 +124,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Founded in 1926", "Publishes encyclicals and teachings", "Located near St. Peter's Square", "Global distribution network"],
     },
     imageHint: "Vatican Publishing House bookstore",
+    descriptionAdvanced: {
+      de: "Die Libreria Editrice Vaticana besitzt die exklusiven Urheberrechte an allen Schriften des Papstes und verbreitet kirchliche Lehren weltweit.",
+      hu: "A Libreria Editrice Vaticana rendelkezik a pápa összes írásának exkluzív szerzői jogával, és terjeszti az egyházi tanításokat világszerte.",
+      ro: "Libreria Editrice Vaticana deține drepturile de autor exclusive asupra tuturor scrierilor Papei și distribuie învățăturile bisericești în lume.",
+      en: "The Libreria Editrice Vaticana holds the exclusive copyright for all the Pope's writings and distributes Church teachings globally.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1926", "Verwaltet päpstliche Urheberrechte", "Sitz nahe der Via della Conciliazione", "Verlegt das Jahrbuch Annuario Pontificio"],
+      hu: ["1926-ban alapították", "Kezeli a pápai szerzői jogokat", "Via della Conciliazione közelében", "Kiadja az Annuario Pontificiót"],
+      ro: ["Fondată în anul 1926", "Gestionează drepturile de autor papale", "Sediul lângă Via della Conciliazione", "Publică anuarul Annuario Pontificio"],
+      en: ["Founded in 1926", "Manages papal copyrights", "Located near Via della Conciliazione", "Publishes the Annuario Pontificio"],
+    },
   },
   {
     id: "vatican-paul-vi-hall-solar-economic-v2",
     type: "industry",
-    name: { de: "Solaranlage der Aula Paolo VI", hu: "VI. Pál terem napelemei", ro: "Panourile solare de pe Aula Paul al VI-lea", en: "Paul VI Hall Solar Panels" },
+    name: { de: "Solaranlage der Aula Paolo VI", hu: "VI. Pál terem napelemei", ro: "Panourile solare de pe Aula Paul al VI-lea", en: "Paul VI Hall Solar Panels",
+image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp"
+},
     coords: [12.4535, 41.9006],
     coordinates: { lat: 41.9006, lng: 12.4535 },
     description: {
@@ -97,11 +157,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Instalate în anul 2008", "Înlocuiesc 2.400 de țigle cu azbest", "Economisesc 200 tone de CO2 anual", "Unul dintre cele mai verzi proiecte din Roma"],
       en: ["Installed in 2008", "Replaced 2,400 asbestos tiles", "Saves 200 tons of CO2 annually", "One of the greenest projects in Rome"],
     },
-    imageHint: "Paul VI Hall solar panels roof view", image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp"},
-  {
+imageHint: "Paul VI Hall solar panels roof view",
+    descriptionAdvanced: {
+      de: "Auf dem Dach der Audienzhalle Paul VI. befinden sich 2.400 Solarmodule, die saubere Energie für die Klimatisierung und Beleuchtung des Gebäudes liefern.",
+      hu: "A VI. Pál kihallgatási terem tetején 2400 napelem található, amelyek tiszta energiát biztosítanak az épület hűtéséhez és világításához.",
+      ro: "Pe acoperișul Aulei Paul al VI-lea se află 2.400 de panouri solare care furnizează energie curată pentru climatizarea și iluminatul clădirii.",
+      en: "The roof of the Paul VI Audience Hall features 2,400 solar modules, providing clean energy for the building's climate control and lighting.",
+    },
+    factsAdvanced: {
+      de: ["Installiert im Jahr 2008", "Insgesamt 2.400 Photovoltaik-Module", "Geschenk einer deutschen Firma", "Spart ca. 225 Tonnen CO2 jährlich"],
+      hu: ["2008-ban telepítették", "Összesen 2400 fotovoltaikus modul", "Egy német cég ajándéka volt", "Évente kb. 225 tonna CO2-t spórol"],
+      ro: ["Instalat în anul 2008", "Total de 2.400 module fotovoltaice", "Cadou din partea unei firme germane", "Economisește 225 tone CO2 anual"],
+      en: ["Installed in 2008", "Total of 2,400 photovoltaic modules", "Gift from a German company", "Saves approx. 225 tons of CO2 yearly"],
+    },
+    image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp",
+},  {
     id: "vatican-post-office-main-economic-v2",
     type: "landmark",
-    name: { de: "Vatikanische Post (Hauptsitz)", hu: "Vatikáni Posta (Főépület)", ro: "Poșta Vaticană (Sediu Central)", en: "Vatican Post Office (Main)" },
+    name: { de: "Vatikanische Post (Hauptsitz)", hu: "Vatikáni Posta (Főépület)", ro: "Poșta Vaticană (Sediu Central)", en: "Vatican Post Office (Main)",
+image: "/poi-images/vatican-post-office-main-economic-v2.webp"
+},
     coords: [12.4541, 41.9054],
     coordinates: { lat: 41.9054, lng: 12.4541 },
     description: {
@@ -116,11 +191,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondată în anul 1929", "Circa 2,5 milioane de scrisori anual", "Cutii poștale galbene proprii", "Membră a Uniunii Poștale Universale"],
       en: ["Founded in 1929", "Handles approx. 2.5 million letters per year", "Features its own yellow mailboxes", "UPU member since 1929"],
     },
-    imageHint: "Vatican Post Office yellow mailbox", image: "/poi-images/vatican-post-office-main-economic-v2.webp"},
-  {
+imageHint: "Vatican Post Office yellow mailbox",
+    descriptionAdvanced: {
+      de: "Die vatikanische Post gilt als eine der effizientesten der Welt und wickelt jährlich Millionen von Postsendungen mit eigenen Briefmarken ab.",
+      hu: "A vatikáni posta a világ egyik leghatékonyabbjaként ismert, évente több millió küldeményt kezel saját bélyegek felhasználásával.",
+      ro: "Poșta Vaticanului este considerată una dintre cele mai eficiente din lume, gestionând anual milioane de trimiteri cu timbre proprii.",
+      en: "Vatican Post is regarded as one of the world's most efficient, handling millions of postal items annually using its own stamps.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1929", "Mitglied des Weltpostvereins", "Eigene Postleitzahl: V-00120", "Mehr Post pro Einwohner als überall sonst"],
+      hu: ["1929-ben alapították", "Az Egyetemes Postaegyesület tagja", "Saját irányítószáma: V-00120", "Lakosonként a legtöbb posta a világon"],
+      ro: ["Fondată în 1929", "Membră a Uniunii Poștale Universale", "Cod poștal propriu: V-00120", "Mai multă poștă per cap de locuitor"],
+      en: ["Founded in 1929", "Member of Universal Postal Union", "Own postal code: V-00120", "More mail per capita than anywhere else"],
+    },
+    image: "/poi-images/vatican-post-office-main-economic-v2.webp",
+},  {
     id: "vatican-gas-station-economic-v2",
     type: "landmark",
-    name: { de: "Vatikanische Tankstelle", hu: "Vatikáni Benzinkút", ro: "Benzinăria Vatican", en: "Vatican Gas Station" },
+    name: { de: "Vatikanische Tankstelle", hu: "Vatikáni Benzinkút", ro: "Benzinăria Vatican", en: "Vatican Gas Station",
+image: "/poi-images/vatican-gas-station-economic-v2.webp"
+},
     coords: [12.4502, 41.9029],
     coordinates: { lat: 41.9029, lng: 12.4502 },
     description: {
@@ -136,11 +226,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Cheapest fuel in Rome", "Only for cardholders", "Also sells car accessories", "Located near the heliport"],
     },
     imageHint: "Vatican gas station service pump",
+    descriptionAdvanced: {
+      de: "Die Tankstelle im Vatikan bietet steuerfreies Benzin für die Dienstfahrzeuge des Staates sowie für berechtigte Angestellte und Diplomaten an.",
+      hu: "A vatikáni benzinkút adómentes üzemanyagot kínál az állami járművek, valamint a jogosult alkalmazottak és diplomaták számára.",
+      ro: "Benzinăria din Vatican oferă combustibil fără taxe pentru vehiculele oficiale ale statului, angajații autorizați și diplomați.",
+      en: "The Vatican gas station provides duty-free fuel for state vehicles as well as authorized employees and diplomats.",
+    },
+    factsAdvanced: {
+      de: ["Nur für Inhaber einer Tankkarte", "Befindet sich im nördlichen Bereich", "Steuerfreier Treibstoffpreis", "Verwaltet vom Gouverneurat"],
+      hu: ["Csak üzemanyagkártyával használható", "A várostól északra található", "Adómentes üzemanyagárak", "A Kormányzóság kezeli"],
+      ro: ["Accesibil doar cu card de combustibil", "Situată în zona de nord", "Prețuri la carburant fără taxe", "Administrată de Guvernorat"],
+      en: ["Access only via fuel card", "Located in the northern sector", "Duty-free fuel prices", "Managed by the Governorate"],
+    },
   },
   {
     id: "vatican-apsa-headquarters-economic-v2",
     type: "industry",
-    name: { de: "Verwaltung des Erbes des Apostolischen Stuhls (APSA)", hu: "Az Apostoli Szék Vagyonkezelősége (APSA)", ro: "Administrarea Patrimoniului Scaunului Apostolic (APSA)", en: "Administration of the Patrimony of the Apostolic See (APSA)" },
+    name: { de: "Verwaltung des Erbes des Apostolischen Stuhls (APSA)", hu: "Az Apostoli Szék Vagyonkezelősége (APSA)", ro: "Administrarea Patrimoniului Scaunului Apostolic (APSA)", en: "Administration of the Patrimony of the Apostolic See (APSA)",
+image: "/poi-images/vatican-apsa-headquarters-economic-v2.webp"
+},
     coords: [12.4525, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.4525 },
     description: {
@@ -156,11 +260,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Founded by Paul VI in 1967", "Manages thousands of properties", "Responsible for staff salaries", "Oversees the state budget"],
     },
     imageHint: "APSA office building Vatican",
+    descriptionAdvanced: {
+      de: "Die APSA verwaltet das umfangreiche Immobilienvermögen und die Finanzen des Heiligen Stuhls und fungiert faktisch als dessen Zentralbank.",
+      hu: "Az APSA kezeli a Szentszék kiterjedt ingatlanvagyonát és pénzügyeit, és gyakorlatilag annak központi bankjaként működik.",
+      ro: "APSA administrează patrimoniul imobiliar extins și finanțele Sfântului Scaun, funcționând practic ca banca sa centrală.",
+      en: "APSA manages the extensive real estate assets and finances of the Holy See, acting effectively as its central bank.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet von Paul VI. 1967", "Verwaltet über 5.000 Immobilien", "Sitz im Apostolischen Palast", "Zuständig für staatliche Ausgaben"],
+      hu: ["VI. Pál alapította 1967-ben", "Több mint 5000 ingatlant kezel", "Az Apostoli Palotában található", "Felelős az állami kiadásokért"],
+      ro: ["Fondată de Paul al VI-lea în 1967", "Administrează peste 5.000 imobile", "Sediul în Palatul Apostolic", "Responsabilă pentru cheltuieli de stat"],
+      en: ["Founded by Paul VI in 1967", "Manages over 5,000 properties", "Located in the Apostolic Palace", "Responsible for state expenditures"],
+    },
   },
   {
     id: "vatican-museum-ticket-office-economic-v2",
     type: "landmark",
-    name: { de: "Kasse der Vatikanischen Museen", hu: "Vatikáni Múzeumok jegypénztára", ro: "Casieria Muzeelor Vaticane", en: "Vatican Museums Ticket Office" },
+    name: { de: "Kasse der Vatikanischen Museen", hu: "Vatikáni Múzeumok jegypénztára", ro: "Casieria Muzeelor Vaticane", en: "Vatican Museums Ticket Office",
+image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp"
+},
     coords: [12.4536, 41.9068],
     coordinates: { lat: 41.9068, lng: 12.4536 },
     description: {
@@ -175,11 +293,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Peste 6 milioane de vizitatori anual", "Principala sursă de venit a statului", "Biletele costă de la 20 de euro", "Situată pe Viale Vaticano"],
       en: ["Over 6 million visitors per year", "Primary source of state income", "Tickets start from 20 euros", "Located on Viale Vaticano"],
     },
-    imageHint: "Vatican Museums entrance queue", image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp"},
-  {
+imageHint: "Vatican Museums entrance queue",
+    descriptionAdvanced: {
+      de: "Dieses Büro ist die Haupteinnahmequelle des Staates und bewältigt den Zugang für Millionen von Besuchern zu den Vatikanischen Museen.",
+      hu: "Ez az iroda az állam fő bevételi forrása, amely látogatók millióinak belépését kezeli a Vatikáni Múzeumokba.",
+      ro: "Acest birou reprezintă principala sursă de venit a statului, gestionând accesul pentru milioane de vizitatori la Muzeele Vaticane.",
+      en: "This office is the state's primary source of revenue, managing access for millions of visitors to the Vatican Museums.",
+    },
+    factsAdvanced: {
+      de: ["Viale Vaticano Eingang", "Über 6 Millionen Besucher jährlich", "Online-Reservierungssystem", "Hauptertrag für den Staatshaushalt"],
+      hu: ["Viale Vaticano bejárat", "Évi több mint 6 millió látogató", "Online foglalási rendszer", "Az állami költségvetés fő bevétele"],
+      ro: ["Intrare pe Viale Vaticano", "Peste 6 milioane de vizitatori anual", "Sistem de rezervări online", "Sursă majoră pentru bugetul de stat"],
+      en: ["Viale Vaticano entrance", "Over 6 million visitors annually", "Online reservation system", "Primary revenue for state budget"],
+    },
+    image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp",
+},  {
     id: "vatican-mosaic-studio-economic-v2",
     type: "factory",
-    name: { de: "Vatikanisches Mosaikstudio", hu: "Vatikáni Mozaikstúdió", ro: "Studioul de Mozaic al Vaticanului", en: "Vatican Mosaic Studio" },
+    name: { de: "Vatikanisches Mosaikstudio", hu: "Vatikáni Mozaikstúdió", ro: "Studioul de Mozaic al Vaticanului", en: "Vatican Mosaic Studio",
+image: "/poi-images/vatican-mosaic-studio-economic-v2.webp"
+},
     coords: [12.4515, 41.9028],
     coordinates: { lat: 41.9028, lng: 12.4515 },
     description: {
@@ -194,11 +327,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Folosește 28.000 de nuanțe diferite", "Vinde opere către colecționari", "Restaurează mozaicurile bazilicii"],
       en: ["Founded in the 16th century", "Uses 28,000 different colors", "Sells works to private collectors", "Restores mosaics in St. Peter's Basilica"],
     },
-    imageHint: "Vatican Mosaic Studio workshop", image: "/poi-images/vatican-mosaic-studio-economic-v2.webp"},
-  {
+imageHint: "Vatican Mosaic Studio workshop",
+    descriptionAdvanced: {
+      de: "Das Mosaikstudio restauriert die Mosaike des Petersdoms und fertigt hochwertige Kunstwerke für den Verkauf an die Öffentlichkeit an.",
+      hu: "A Mozaikműhely restaurálja a Szent Péter-bazilika mozaikjait, és kiváló minőségű műalkotásokat készít a nagyközönség számára.",
+      ro: "Studioul de Mozaic restaurează mozaicurile Bazilicii Sfântul Petru și creează opere de artă de înaltă calitate pentru vânzare.",
+      en: "The Mosaic Studio restores the mosaics of St. Peter's Basilica and creates high-quality artworks for sale to the general public.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1727", "Hüter der antiken Techniken", "Hunderte verschiedener Farbtöne", "Aufträge von Klöstern weltweit"],
+      hu: ["1727-ben alapították", "Az ősi technikák őrzője", "Több száz különböző színárnyalat", "Megrendelések a világ kolostoraiból"],
+      ro: ["Fondat în anul 1727", "Păstrător al tehnicilor antice", "Sute de nuanțe diferite de culori", "Comenzi de la mănăstiri din lume"],
+      en: ["Founded in 1727", "Guardian of ancient techniques", "Hundreds of different color shades", "Orders from monasteries worldwide"],
+    },
+    image: "/poi-images/vatican-mosaic-studio-economic-v2.webp",
+},  {
     id: "vatican-central-heating-plant-economic-v2",
     type: "industry",
-    name: { de: "Zentrale Heizanlage", hu: "Központi Fűtőmű", ro: "Centrala Termică Centrală", en: "Central Heating Plant" },
+    name: { de: "Zentrale Heizanlage", hu: "Központi Fűtőmű", ro: "Centrala Termică Centrală", en: "Central Heating Plant",
+image: "/poi-images/vatican-central-heating-plant-economic-v2.webp"
+},
     coords: [12.452, 41.9045],
     coordinates: { lat: 41.9045, lng: 12.452 },
     description: {
@@ -213,11 +361,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Modernizată complet în 1990", "Controlează climatul în muzee", "Utilizează tehnologie pe gaz natural", "Esențială pentru conservarea artei"],
       en: ["Extensively modernized in 1990", "Controls museum climate settings", "Uses efficient natural gas tech", "Vital for art preservation"],
     },
-    imageHint: "Vatican central heating industrial pipes", image: "/poi-images/vatican-central-heating-plant-economic-v2.webp"},
-  {
+imageHint: "Vatican central heating industrial pipes",
+    descriptionAdvanced: {
+      de: "Die Heizzentrale versorgt die Gebäude des Vatikans mit Wärme und Energie, wobei moderne Technik zur Effizienzsteigerung eingesetzt wird.",
+      hu: "A fűtőközpont hőt és energiát biztosít a Vatikán épületei számára, modern technológiát alkalmazva a hatékonyság növelése érdekében.",
+      ro: "Centrala termică furnizează căldură și energie clădirilor din Vatican, utilizând tehnologie modernă pentru creșterea eficienței.",
+      en: "The central heating plant provides heat and energy to Vatican buildings, employing modern technology to increase efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr in den 1930er Jahren", "Modernisierung für Umweltschutz", "Versorgt Museen und Paläste", "Unterirdische Leitungssysteme"],
+      hu: ["Az 1930-as években épült", "Környezetvédelmi modernizáció", "Múzeumokat és palotákat lát el", "Földalatti vezetékrendszerek"],
+      ro: ["Construită în anii 1930", "Modernizată pentru mediu", "Desevește muzee și palate", "Sisteme de conducte subterane"],
+      en: ["Built in the 1930s", "Modernized for environmental care", "Supplies museums and palaces", "Underground piping systems"],
+    },
+    image: "/poi-images/vatican-central-heating-plant-economic-v2.webp",
+},  {
     id: "vatican-governorate-palace-admin-economic-v2",
     type: "palace",
-    name: { de: "Palast des Governatorats", hu: "Kormányzói Palota", ro: "Palatul Guvernatoratului", en: "Governorate Palace" },
+    name: { de: "Palast des Governatorats", hu: "Kormányzói Palota", ro: "Palatul Guvernatoratului", en: "Governorate Palace",
+image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp"
+},
     coords: [12.4522, 41.9037],
     coordinates: { lat: 41.9037, lng: 12.4522 },
     description: {
@@ -232,11 +395,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Sediul guvernului vatican", "Gestionează protecția civilă", "Responsabil de infrastructură", "Situat în spatele bazilicii"],
       en: ["Seat of the Vatican government", "Manages civil protection", "Responsible for infrastructure", "Located behind St. Peter's Basilica"],
     },
-    imageHint: "Vatican Governorate Palace facade", image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp"},
-  {
+imageHint: "Vatican Governorate Palace facade",
+    descriptionAdvanced: {
+      de: "Der Gouverneurspalast ist das administrative Herz des Staates, in dem die Exekutive und verschiedene technische Dienste ihren Sitz haben.",
+      hu: "A Kormányzósági Palota az állam adminisztratív szíve, ahol a végrehajtó hatalom és különböző műszaki szolgáltatások székelnek.",
+      ro: "Palatul Guvernoratului este inima administrativă a statului, găzduind puterea executivă și diverse servicii tehnice.",
+      en: "The Governorate Palace is the administrative heart of the state, housing the executive power and various technical services.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Pontifikalkommission", "Hinter dem Petersdom gelegen", "Prachtvolle Gärten in der Nähe", "Zuständig für Zivilverwaltung"],
+      hu: ["A Pápai Bizottság székhelye", "A Szent Péter-bazilika mögött", "Pompás kertek a szomszédságában", "A polgári közigazgatásért felel"],
+      ro: ["Sediul Comisiei Pontificale", "Situat în spatele Bazilicii", "Grădini splendide în apropiere", "Responsabil de administrația civilă"],
+      en: ["Seat of the Pontifical Commission", "Located behind St. Peter's", "Splendid gardens nearby", "Responsible for civil administration"],
+    },
+    image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp",
+},  {
     id: "vatican-mint-building-economic-v2",
     type: "industry",
-    name: { de: "Vatikanische Münze (Palazzo della Zecca)", hu: "Vatikáni Pénzverde", ro: "Monetăria Vaticanului", en: "Vatican Mint (Palazzo della Zecca)" },
+    name: { de: "Vatikanische Münze (Palazzo della Zecca)", hu: "Vatikáni Pénzverde", ro: "Monetăria Vaticanului", en: "Vatican Mint (Palazzo della Zecca)",
+image: "/poi-images/vatican-mint-building-economic-v2.webp"
+},
     coords: [12.453, 41.9048],
     coordinates: { lat: 41.9048, lng: 12.453 },
     description: {
@@ -251,11 +429,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["S-au bătut monede aici până în 1970", "Azi monedele sunt bătute în Roma", "Depozit pentru rezerve de aur", "Protocol special de securitate"],
       en: ["Minting occurred here until 1970", "Coins are now minted in Rome", "Warehouse for gold and silver reserves", "Special security protocols apply"],
     },
-    imageHint: "Palazzo della Zecca Vatican exterior", image: "/poi-images/vatican-mint-building-economic-v2.webp"},
-  {
+imageHint: "Palazzo della Zecca Vatican exterior",
+    descriptionAdvanced: {
+      de: "Das Gebäude der ehemaligen Münzprägestätte zeugt von der fiskalischen Unabhängigkeit des Vatikans, auch wenn Münzen heute extern geprägt werden.",
+      hu: "Az egykori pénzverde épülete a Vatikán pénzügyi függetlenségét jelképezi, bár az érméket ma már külső helyszínen verik.",
+      ro: "Clădirea fostei monetării atestă independența fiscală a Vaticanului, chiar dacă monedele sunt bătute astăzi extern.",
+      en: "The former mint building stands as a testament to Vatican's fiscal independence, though coins are now minted externally.",
+    },
+    factsAdvanced: {
+      de: ["Palazzo della Zecca genannt", "Prägte früher die Vatikan-Lira", "Heute administrative Nutzung", "Grenzt an italienisches Gebiet"],
+      hu: ["Palazzo della Zecca a neve", "Korábban vatikáni lírát vert", "Ma adminisztratív célokat szolgál", "Olasz területtel határos"],
+      ro: ["Numit Palazzo della Zecca", "Bătea anterior lira vaticană", "Astăzi utilizare administrativă", "Se învecinează cu teritoriul italian"],
+      en: ["Called Palazzo della Zecca", "Formerly minted Vatican Lira", "Current administrative use", "Borders Italian territory"],
+    },
+    image: "/poi-images/vatican-mint-building-economic-v2.webp",
+},  {
     id: "vatican-garage-autoparco-economic-v2",
     type: "landmark",
-    name: { de: "Zentralgarage (Autoparco)", hu: "Központi Autópark (Autoparco)", ro: "Garajul Central (Autoparco)", en: "Central Garage (Autoparco)" },
+    name: { de: "Zentralgarage (Autoparco)", hu: "Központi Autópark (Autoparco)", ro: "Garajul Central (Autoparco)", en: "Central Garage (Autoparco)",
+image: "/poi-images/vatican-garage-autoparco-economic-v2.webp"
+},
     coords: [12.4505, 41.903],
     coordinates: { lat: 41.903, lng: 12.4505 },
     description: {
@@ -271,11 +464,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Features its own repair shop", "Stores exclusive gift vehicles", "Manages 'SCV' license plates", "Equipped with EV charging stations"],
     },
     imageHint: "Vatican Popemobile in garage",
+    descriptionAdvanced: {
+      de: "Der Fuhrpark des Vatikans wartet und verwaltet alle offiziellen Fahrzeuge des Staates, einschließlich der berühmten Papamobile.",
+      hu: "A vatikáni gépjárműpark karbantartja és kezeli az állam összes hivatalos járművét, beleértve a híres pápamobilokat is.",
+      ro: "Parcul auto al Vaticanului întreține și gestionează toate vehiculele oficiale ale statului, inclusiv celebrele papamobile.",
+      en: "The Vatican garage maintains and manages all official state vehicles, including the famous Popemobiles.",
+    },
+    factsAdvanced: {
+      de: ["Wartet die Papamobile", "Unterirdische Parkflächen", "Eigene Mechanikerwerkstatt", "Verwaltet vatikanische Kennzeichen"],
+      hu: ["A pápamobilokat szervizeli", "Földalatti parkolóhelyek", "Saját szerelőműhelye van", "Vatikáni rendszámokat kezeli"],
+      ro: ["Întreține papamobilele", "Zone de parcare subterane", "Atelier mecanic propriu", "Gestionează plăcuțele vaticane"],
+      en: ["Maintains the Popemobiles", "Underground parking areas", "Own mechanical workshop", "Manages Vatican license plates"],
+    },
   },
   {
     id: "vatican-osserrvatore-romano-office-economic-v2",
     type: "industry",
-    name: { de: "Redaktion L'Osservatore Romano", hu: "L'Osservatore Romano szerkesztősége", ro: "Redacția L'Osservatore Romano", en: "L'Osservatore Romano Editorial Office" },
+    name: { de: "Redaktion L'Osservatore Romano", hu: "L'Osservatore Romano szerkesztősége", ro: "Redacția L'Osservatore Romano", en: "L'Osservatore Romano Editorial Office",
+image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp"
+},
     coords: [12.4543, 41.9057],
     coordinates: { lat: 41.9057, lng: 12.4543 },
     description: {
@@ -290,11 +497,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în anul 1861", "Apare în șapte limbi", "Finanțat privat prin abonamente", "Sediul lângă poarta Sfânta Ana"],
       en: ["Founded in 1861", "Published in seven languages", "Financed via private subscriptions", "Located near St. Anne's Gate"],
     },
-    imageHint: "L'Osservatore Romano newspaper office", image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp"},
-  {
+imageHint: "L'Osservatore Romano newspaper office",
+    descriptionAdvanced: {
+      de: "Die Redaktion der offiziellen Zeitung des Vatikans berichtet täglich über päpstliche Aktivitäten und globale kirchliche Angelegenheiten.",
+      hu: "A Vatikán hivatalos lapjának szerkesztősége naponta tudósít a pápai tevékenységekről és a globális egyházi ügyekről.",
+      ro: "Redacția ziarului oficial al Vaticanului relatează zilnic despre activitățile papale și afacerile bisericești globale.",
+      en: "The editorial office of Vatican's official newspaper reports daily on papal activities and global Church affairs.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1861", "Erscheint in mehreren Sprachen", "Offizielles Sprachrohr des Papstes", "Wöchentliche Sonderausgaben"],
+      hu: ["1861-ben alapították", "Több nyelven jelenik meg", "A pápa hivatalos szócsöve", "Heti különkiadások"],
+      ro: ["Fondat în anul 1861", "Apare în mai multe limbi", "Vocea oficială a Papei", "Ediții săptămânale speciale"],
+      en: ["Founded in 1861", "Published in several languages", "Official mouthpiece of the Pope", "Weekly special editions"],
+    },
+    image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp",
+},  {
     id: "vatican-radio-management-economic-v2",
     type: "industry",
-    name: { de: "Vatikan Radio (Verwaltung)", hu: "Vatikáni Rádió (Központ)", ro: "Radio Vatican (Administrație)", en: "Vatican Radio (Management)" },
+    name: { de: "Vatikan Radio (Verwaltung)", hu: "Vatikáni Rádió (Központ)", ro: "Radio Vatican (Administrație)", en: "Vatican Radio (Management)",
+image: "/poi-images/vatican-radio-management-economic-v2.webp"
+},
     coords: [12.4518, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4518 },
     description: {
@@ -310,11 +532,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Founded by Guglielmo Marconi", "Broadcasts in 45 languages", "First broadcast in 1931", "Now part of Vatican News"],
     },
     imageHint: "Vatican Radio antenna and building",
+    descriptionAdvanced: {
+      de: "Die Leitung von Radio Vatikan koordiniert Sendungen in Dutzenden von Sprachen, um die christliche Botschaft weltweit über Funk zu verbreiten.",
+      hu: "A Vatikáni Rádió vezetése több tucat nyelven koordinálja az adásokat, hogy a keresztény üzenetet világszerte közvetítse.",
+      ro: "Conducerea Radio Vatican coordonează emisiuni în zeci de limbi pentru a transmite mesajul creștin în întreaga lume.",
+      en: "Vatican Radio management coordinates broadcasts in dozens of languages to spread the Christian message worldwide via radio waves.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet von Marconi 1931", "Sendet in ca. 40 Sprachen", "Teil des Dikasteriums für Komm.", "Weltweite Kurzwellensender"],
+      hu: ["Marconi alapította 1931-ben", "Kb. 40 nyelven sugároz", "A Kommunikációs Dikasztérium része", "Világméretű rövidhullámú adók"],
+      ro: ["Fondat de Marconi în 1931", "Emite în aproximativ 40 limbi", "Parte a Dicasterului Comunicării", "Emițătoare globale pe unde scurte"],
+      en: ["Founded by Marconi in 1931", "Broadcasts in approx. 40 languages", "Part of Dept. of Communication", "Global shortwave transmitters"],
+    },
   },
   {
     id: "vatican-museum-bookstore-economic-v2",
     type: "landmark",
-    name: { de: "Hauptbuchhandlung der Museen", hu: "Múzeumi Főkönyvesbolt", ro: "Librăria Principală a Muzeelor", en: "Museum Main Bookstore" },
+    name: { de: "Hauptbuchhandlung der Museen", hu: "Múzeumi Főkönyvesbolt", ro: "Librăria Principală a Muzeelor", en: "Museum Main Bookstore",
+image: "/poi-images/vatican-museum-bookstore-economic-v2.webp"
+},
     coords: [12.454, 41.9065],
     coordinates: { lat: 41.9065, lng: 12.454 },
     description: {
@@ -329,11 +565,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Cea mai mare librărie din stat", "Oferă cataloage în 10 limbi", "Venituri majore din merchandising", "Proiectată de arhitecți moderni"],
       en: ["Largest bookstore in the state", "Offers catalogs in 10 languages", "Significant merchandising revenue", "Designed by modern architects"],
     },
-    imageHint: "Vatican Museums bookstore interior", image: "/poi-images/vatican-museum-bookstore-economic-v2.webp"},
-  {
+imageHint: "Vatican Museums bookstore interior",
+    descriptionAdvanced: {
+      de: "Die Hauptbuchhandlung der Museen bietet eine enorme Auswahl an Kunstkatalogen, religiöser Literatur und exklusiven Nachbildungen an.",
+      hu: "A múzeumi főkönyvesbolt művészeti katalógusok, vallási irodalom és exkluzív másolatok hatalmas választékát kínálja.",
+      ro: "Librăria principală a muzeelor oferă o selecție vastă de cataloage de artă, literatură religioasă și replici exclusive.",
+      en: "The museums' main bookstore offers a vast selection of art catalogs, religious literature, and exclusive reproductions.",
+    },
+    factsAdvanced: {
+      de: ["Fachliteratur in vielen Sprachen", "Verkauft offizielle Museumskopien", "Einnahmen fließen in Museen", "In der Nähe des Ausgangs"],
+      hu: ["Szakirodalom számos nyelven", "Hivatalos múzeumi másolatok", "Bevétele a múzeumokat támogatja", "A kijárat közelében található"],
+      ro: ["Literatură în multe limbi", "Vinde copii oficiale de muzeu", "Veniturile susțin muzeele", "Situată în apropierea ieșirii"],
+      en: ["Literature in many languages", "Sells official museum copies", "Revenue supports the museums", "Located near the exit"],
+    },
+    image: "/poi-images/vatican-museum-bookstore-economic-v2.webp",
+},  {
     id: "vatican-floreria-apostolica-economic-v2",
     type: "industry",
-    name: { de: "Floreria Apostolica (Möbelmagazin)", hu: "Floreria Apostolica (Logisztika)", ro: "Floreria Apostolica (Logistică)", en: "Floreria Apostolica (Logistics)" },
+    name: { de: "Floreria Apostolica (Möbelmagazin)", hu: "Floreria Apostolica (Logisztika)", ro: "Floreria Apostolica (Logistică)", en: "Floreria Apostolica (Logistics)",
+image: "/poi-images/vatican-floreria-apostolica-economic-v2.webp"
+},
     coords: [12.455, 41.905],
     coordinates: { lat: 41.905, lng: 12.455 },
     description: {
@@ -349,11 +600,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Storage for thousands of velvet chairs", "Responsible for St. Peter's Square decor", "Manages historical stage assets", "Located near the barracks"],
     },
     imageHint: "Vatican chairs storage Floreria",
+    descriptionAdvanced: {
+      de: "Die Floreria Apostolica kümmert sich um die logistische Ausstattung der päpstlichen Zeremonien und die Verwaltung des Mobiliars.",
+      hu: "A Floreria Apostolica gondoskodik a pápai szertartások logisztikai berendezéséről és a bútorzat kezeléséről.",
+      ro: "Floreria Apostolica se ocupă de dotarea logistică a ceremoniilor papale și de administrarea mobilierului.",
+      en: "The Floreria Apostolica handles the logistical preparation for papal ceremonies and manages the apostolic furniture.",
+    },
+    factsAdvanced: {
+      de: ["Verantwortlich für Blumen", "Verwaltet päpstliche Throne", "Organisiert Audienzbestuhlung", "Logistisches Zentrum des Vatikans"],
+      hu: ["Felelős a virágdíszítésért", "Kezeli a pápai trónokat", "Szervezi a kihallgatási székezést", "Vatikáni logisztikai központ"],
+      ro: ["Responsabilă pentru flori", "Gestionează tronurile papale", "Organizează scaunele la audiențe", "Centru logistic al Vaticanului"],
+      en: ["Responsible for floral decor", "Manages papal thrones", "Organizes audience seating", "Vatican's logistical center"],
+    },
   },
   {
     id: "vatican-st-peters-dome-shop-economic-v2",
     type: "landmark",
-    name: { de: "Souvenirshop der Kuppel", hu: "Kupolabolt", ro: "Magazinul Cupolei", en: "St. Peter's Dome Gift Shop" },
+    name: { de: "Souvenirshop der Kuppel", hu: "Kupolabolt", ro: "Magazinul Cupolei", en: "St. Peter's Dome Gift Shop",
+image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp"
+},
     coords: [12.4545, 41.902],
     coordinates: { lat: 41.902, lng: 12.4545 },
     description: {
@@ -368,11 +633,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Vinde mătănii binecuvântate", "Administrat de călugărițe", "Accesibil doar după urcarea pe cupolă", "Punct poștal propriu pe acoperiș"],
       en: ["Sells blessed rosaries", "Run by religious sisters", "Accessible only after climbing the dome", "Features its own rooftop post station"],
     },
-    imageHint: "St Peter's Basilica roof gift shop", image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp"},
-  {
+imageHint: "St Peter's Basilica roof gift shop",
+    descriptionAdvanced: {
+      de: "Das Geschäft auf dem Dach des Petersdoms bietet Besuchern nach dem Aufstieg zur Kuppel religiöse Andenken und Erfrischungen an.",
+      hu: "A Szent Péter-bazilika tetején található bolt vallási emlékeket és frissítőket kínál a kupolába felkapaszkodó látogatóknak.",
+      ro: "Magazinul de pe acoperișul Bazilicii Sfântul Petru oferă vizitatorilor suveniruri religioase și răcoritoare după urcarea pe cupolă.",
+      en: "The shop on the roof of St. Peter's Basilica offers religious souvenirs and refreshments to visitors after climbing the dome.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf der Dachterrasse", "Verkauf von Rosenkränzen", "Einzigartige Aussicht beim Kauf", "Exklusive Postkarten vor Ort"],
+      hu: ["A tetőteraszon található", "Rózsafüzéreket is árulnak", "Egyedülálló kilátás vásárláskor", "Exkluzív helyi képeslapok"],
+      ro: ["Situat pe terasa de pe acoperiș", "Vânzare de rozarii", "Vedere unică în timpul cumpărăturii", "Cărți poștale exclusive locale"],
+      en: ["Located on the roof terrace", "Sells rosaries", "Unique view while shopping", "Exclusive local postcards"],
+    },
+    image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp",
+},  {
     id: "vatican-library-bookshop-economic-v2",
     type: "landmark",
-    name: { de: "Shop der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár boltja", ro: "Magazinul Bibliotecii Vaticane", en: "Vatican Library Bookshop" },
+    name: { de: "Shop der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár boltja", ro: "Magazinul Bibliotecii Vaticane", en: "Vatican Library Bookshop",
+image: "/poi-images/vatican-library-bookshop-economic-v2.webp"
+},
     coords: [12.4544, 41.9046],
     coordinates: { lat: 41.9046, lng: 12.4544 },
     description: {
@@ -387,11 +667,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Oferă printuri de artă de calitate", "Produse în ediție limitată", "Veniturile susțin restaurările", "Situat în Cortile del Belvedere"],
       en: ["Offers high-quality art prints", "Products in limited editions", "Revenue supports restoration work", "Located in the Belvedere Courtyard"],
     },
-    imageHint: "Vatican Library shop display", image: "/poi-images/vatican-library-bookshop-economic-v2.webp"},
-  {
+imageHint: "Vatican Library shop display",
+    descriptionAdvanced: {
+      de: "Der Buchladen der Vatikanischen Bibliothek bietet exklusive Publikationen und Reproduktionen aus den historischen Archiven des Vatikans an.",
+      hu: "A Vatikáni Könyvtár könyvesboltja exkluzív kiadványokat és másolatokat kínál a Vatikán történelmi archívumaiból.",
+      ro: "Librăria Bibliotecii Vaticane oferă publicații exclusive și reproduceri din arhivele istorice ale Vaticanului.",
+      en: "The Vatican Library bookshop offers exclusive publications and reproductions from the Vatican's historical archives.",
+    },
+    factsAdvanced: {
+      de: ["Wissenschaftliche Publikationen", "Faksimile-Editionen alter Werke", "Spezialisierte Kunstbücher", "Sitz im Bibliotheksgebäude"],
+      hu: ["Tudományos kiadványok", "Régi művek fakszimile kiadásai", "Speciális művészeti könyvek", "A könyvtár épületében található"],
+      ro: ["Publicații științifice", "Ediții facsimil ale operelor vechi", "Cărți de artă specializate", "Sediul în clădirea bibliotecii"],
+      en: ["Scientific publications", "Facsimile editions of old works", "Specialized art books", "Located in the library building"],
+    },
+    image: "/poi-images/vatican-library-bookshop-economic-v2.webp",
+},  {
     id: "vatican-telephone-service-economic-v2",
     type: "industry",
-    name: { de: "Vatikanischer Telefonservice", hu: "Vatikáni Telefonszolgálat", ro: "Serviciul Telefonic Vatican", en: "Vatican Telephone Service" },
+    name: { de: "Vatikanischer Telefonservice", hu: "Vatikáni Telefonszolgálat", ro: "Serviciul Telefonic Vatican", en: "Vatican Telephone Service",
+image: "/poi-images/vatican-telephone-service-economic-v2.webp"
+},
     coords: [12.4539, 41.9051],
     coordinates: { lat: 41.9051, lng: 12.4539 },
     description: {
@@ -406,11 +701,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Cod de țară propriu: +379", "Fondat în anul 1930", "Gestionează peste 2.000 de linii", "Vinde cartele de colecție"],
       en: ["Has its own country code +379", "Founded in 1930", "Manages over 2,000 lines", "Offers exclusive collector cards"],
     },
-    imageHint: "Vatican telephone service cards", image: "/poi-images/vatican-telephone-service-economic-v2.webp"},
-  {
+imageHint: "Vatican telephone service cards",
+    descriptionAdvanced: {
+      de: "Der vatikanische Telefondienst verwaltet ein hochmodernes Kommunikationsnetzwerk, das die interne und externe Konnektivität des Staates sichert.",
+      hu: "A vatikáni telefonszolgáltató egy korszerű kommunikációs hálózatot kezel, amely biztosítja az állam belső és külső összeköttetését.",
+      ro: "Serviciul de telefonie din Vatican gestionează o rețea de comunicații modernă, asigurând conectivitatea internă și externă a statului.",
+      en: "The Vatican telephone service manages a state-of-the-art communication network ensuring internal and external connectivity for the state.",
+    },
+    factsAdvanced: {
+      de: ["Internationale Vorwahl +379", "Eigener Telefondienst SCV", "Gegründet im Jahr 1929", "Verwaltet vom Gouverneurat"],
+      hu: ["Nemzetközi előhívó: +379", "Saját SCV telefonszolgáltatás", "1929-ben alapították", "A Kormányzóság kezeli"],
+      ro: ["Prefix internațional +379", "Serviciu telefonic propriu SCV", "Fondat în anul 1929", "Administrat de Guvernorat"],
+      en: ["International prefix +379", "Own SCV telephone service", "Founded in 1929", "Managed by the Governorate"],
+    },
+    image: "/poi-images/vatican-telephone-service-economic-v2.webp",
+},  {
     id: "vatican-secretariat-for-economy-economic-v2",
     type: "industry",
-    name: { de: "Sekretariat für die Wirtschaft", hu: "Gazdasági Titkárság", ro: "Secretariatul pentru Economie", en: "Secretariat for the Economy" },
+    name: { de: "Sekretariat für die Wirtschaft", hu: "Gazdasági Titkárság", ro: "Secretariatul pentru Economie", en: "Secretariat for the Economy",
+image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp"
+},
     coords: [12.4528, 41.9038],
     coordinates: { lat: 41.9038, lng: 12.4528 },
     description: {
@@ -425,11 +735,26 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în anul 2014", "Controlează toate cheltuielile", "Sediul în Turnul lui Ioan al XXIII-lea", "Parte a reformei curiei"],
       en: ["Founded in 2014", "Controls all expenditures", "Located in the Tower of John XXIII", "Part of the Curia reform"],
     },
-    imageHint: "Tower of John XXIII Vatican", image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp"},
-  {
+imageHint: "Tower of John XXIII Vatican",
+    descriptionAdvanced: {
+      de: "Das Wirtschaftssekretariat ist die zentrale Kontrollinstanz für alle wirtschaftlichen und finanziellen Aktivitäten des Heiligen Stuhls.",
+      hu: "A Gazdasági Titkárság a Szentszék összes gazdasági és pénzügyi tevékenységének központi ellenőrző hatósága.",
+      ro: "Secretariatul pentru Economie este autoritatea centrală de control pentru toate activitățile economice și financiare ale Sfântului Scaun.",
+      en: "The Secretariat for the Economy is the central control authority for all economic and financial activities of the Holy See.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet von Franziskus 2014", "Überwacht vatikanische Finanzen", "Verantwortlich für Budgetplanung", "Sitz im Palazzo Apostolico"],
+      hu: ["Ferenc pápa alapította 2014-ben", "Felügyeli a vatikáni pénzügyeket", "Felelős a költségvetésért", "Az Apostoli Palotában található"],
+      ro: ["Fondat de Francisc în 2014", "Supraveghează finanțele vaticane", "Responsabil de planificarea bugetară", "Sediul în Palatul Apostolic"],
+      en: ["Founded by Francis in 2014", "Oversees Vatican finances", "Responsible for budget planning", "Based in the Apostolic Palace"],
+    },
+    image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp",
+},  {
     id: "vatican-clothing-service-economic-v2",
     type: "industry",
-    name: { de: "Vatikanischer Bekleidungsservice", hu: "Vatikáni Ruházati Szolgálat", ro: "Serviciul de Îmbrăcăminte al Vaticanului", en: "Vatican Clothing Service" },
+    name: { de: "Vatikanischer Bekleidungsservice", hu: "Vatikáni Ruházati Szolgálat", ro: "Serviciul de Îmbrăcăminte al Vaticanului", en: "Vatican Clothing Service",
+image: "/poi-images/vatican-clothing-service-economic-v2.webp"
+},
     coords: [12.4555, 41.9053],
     coordinates: { lat: 41.9053, lng: 12.4555 },
     description: {
@@ -445,11 +770,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Responsible for custom tailoring", "Stores historical armors", "Manages thousands of outfits", "Located near Via di Porta Angelica"],
     },
     imageHint: "Swiss Guard uniforms tailor",
+    descriptionAdvanced: {
+      de: "Dieser Dienst ist für die Beschaffung und Verteilung offizieller Kleidung und Uniformen für das vatikanische Personal verantwortlich.",
+      hu: "Ez a szolgálat felelős a vatikáni személyzet hivatalos ruházatának és egyenruháinak beszerzéséért és elosztásáért.",
+      ro: "Acest serviciu este responsabil pentru achiziționarea și distribuirea îmbrăcămintei oficiale și a uniformelor pentru personalul vatican.",
+      en: "This service is responsible for the procurement and distribution of official clothing and uniforms for Vatican personnel.",
+    },
+    factsAdvanced: {
+      de: ["Kleidung für Gendarmen", "Uniformen der Schweizergarde", "Spezialkleidung für Kleriker", "Zuständig für Textillogistik"],
+      hu: ["Gendarm ruházat beszerzése", "Svájci Gárda egyenruhái", "Speciális papi öltözékek", "Textillogisztikáért felel"],
+      ro: ["Haine pentru jandarmi", "Uniformele Gărzii Elvețiene", "Îmbrăcăminte specială clericală", "Responsabil de logistica textilă"],
+      en: ["Clothing for Gendarmes", "Swiss Guard uniforms", "Special clerical attire", "Responsible for textile logistics"],
+    },
   },
   {
     id: "vatican-caritas-office-economic-v2",
     type: "industry",
-    name: { de: "Caritas Internationalis (Zentrale)", hu: "Caritas Internationalis Központ", ro: "Caritas Internationalis (Sediu)", en: "Caritas Internationalis (Headquarters)" },
+    name: { de: "Caritas Internationalis (Zentrale)", hu: "Caritas Internationalis Központ", ro: "Caritas Internationalis (Sediu)", en: "Caritas Internationalis (Headquarters)",
+image: "/poi-images/vatican-caritas-office-economic-v2.webp"
+},
     coords: [12.4558, 41.9025],
     coordinates: { lat: 41.9025, lng: 12.4558 },
     description: {
@@ -465,11 +804,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Confederation of 165 members", "Manages millions in donations", "Key player in global aid economy", "Headquartered in Palazzo San Calisto"],
     },
     imageHint: "Caritas Internationalis office Vatican",
+    descriptionAdvanced: {
+      de: "Der Hauptsitz von Caritas Internationalis koordiniert humanitäre Hilfe und soziale Projekte in über 160 Ländern weltweit.",
+      hu: "A Caritas Internationalis székhelye a világ több mint 160 országában koordinálja a humanitárius segélyeket és szociális projekteket.",
+      ro: "Sediul Caritas Internationalis coordonează ajutorul umanitar și proiectele sociale în peste 160 de țări din lume.",
+      en: "The headquarters of Caritas Internationalis coordinates humanitarian aid and social projects in over 160 countries worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Verbund von 162 Mitgliedern", "Gegründet im Jahr 1951", "Sitz im Palazzo San Calisto", "Hilfe bei Naturkatastrophen"],
+      hu: ["162 tagszervezet szövetsége", "1951-ben alapították", "Palazzo San Calisto a székhelye", "Segítség természeti katasztrófáknál"],
+      ro: ["Confederație de 162 membri", "Fondată în anul 1951", "Sediul în Palazzo San Calisto", "Ajutor în caz de dezastre"],
+      en: ["Confederation of 162 members", "Founded in 1951", "Based in Palazzo San Calisto", "Aid during natural disasters"],
+    },
   },
   {
     id: "vatican-gendarmerie-logistics-economic-v2",
     type: "industry",
-    name: { de: "Logistikzentrum der Gendarmerie", hu: "Csendőrségi Logisztikai Központ", ro: "Centrul Logistic al Jandarmeriei", en: "Gendarmerie Logistics Center" },
+    name: { de: "Logistikzentrum der Gendarmerie", hu: "Csendőrségi Logisztikai Központ", ro: "Centrul Logistic al Jandarmeriei", en: "Gendarmerie Logistics Center",
+image: "/poi-images/vatican-gendarmerie-logistics-economic-v2.webp"
+},
     coords: [12.4555, 41.9053],
     coordinates: { lat: 41.9053, lng: 12.4555 },
     description: {
@@ -485,11 +838,25 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Monitors 400 surveillance cameras", "Manages the IT infrastructure", "Responsible for security checkpoints", "Features a state-of-the-art control room"],
     },
     imageHint: "Vatican Gendarmerie control room",
+    descriptionAdvanced: {
+      de: "Das Logistikzentrum der Gendarmerie verwaltet die Ausrüstung und technischen Ressourcen, die für die Sicherheit des Vatikans notwendig sind.",
+      hu: "A Csendőrség logisztikai központja kezeli a Vatikán biztonságához szükséges felszereléseket és technikai erőforrásokat.",
+      ro: "Centrul logistic al Jandarmeriei gestionează echipamentele și resursele tehnice necesare pentru securitatea Vaticanului.",
+      en: "The Gendarmerie logistics center manages the equipment and technical resources necessary for Vatican's security.",
+    },
+    factsAdvanced: {
+      de: ["Zuständig für Überwachungstechnik", "Verwaltet Funkressourcen", "Logistik für Personenschutz", "Modernes Kontrollzentrum"],
+      hu: ["Felelős a megfigyelési technikáért", "Rádióerőforrásokat kezeli", "Személyi védelem logisztikája", "Modern ellenőrző központ"],
+      ro: ["Responsabil de tehnica video", "Gestionează resursele radio", "Logistica protecției VIP", "Centru de control modern"],
+      en: ["Responsible for surveillance tech", "Manages radio resources", "Logistics for VIP protection", "Modern control center"],
+    },
   },
   {
     id: "vatican-academy-social-sciences-economic-v2",
     type: "university",
-    name: { de: "Päpstliche Akademie der Sozialwissenschaften", hu: "Pápai Társadalomtudományi Akadémia", ro: "Academia Pontificală de Științe Sociale", en: "Pontifical Academy of Social Sciences" },
+    name: { de: "Päpstliche Akademie der Sozialwissenschaften", hu: "Pápai Társadalomtudományi Akadémia", ro: "Academia Pontificală de Științe Sociale", en: "Pontifical Academy of Social Sciences",
+image: "/poi-images/vatican-academy-social-sciences-economic-v2.webp"
+},
     coords: [12.4516, 41.904],
     coordinates: { lat: 41.904, lng: 12.4516 },
     description: {
@@ -505,5 +872,17 @@ export const vaticanEconomicV2: POI[] = [
       en: ["Based in the Casina Pio IV", "Leading economists are members", "Analyzes social market economy", "Founded by John Paul II"],
     },
     imageHint: "Casina Pio IV Vatican Academy",
+    descriptionAdvanced: {
+      de: "Diese Päpstliche Akademie erforscht soziale, ökonomische und rechtliche Fragen, um die Kirche bei ihrer Soziallehre zu beraten.",
+      hu: "Ez a Pápai Akadémia társadalmi, gazdasági és jogi kérdéseket kutat, hogy tanácsot adjon az Egyháznak a társadalmi tanításban.",
+      ro: "Această Academie Pontificală cercetează probleme sociale, economice și juridice pentru a consilia Biserica în doctrina socială.",
+      en: "This Pontifical Academy researches social, economic, and legal issues to advise the Church on its social doctrine.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet von Johannes Paul II.", "Sitz in der Casina Pio IV", "Internationale Expertenrunde", "Fokus auf Ethik und Wirtschaft"],
+      hu: ["II. János Pál alapította", "A Casina Pio IV-ben székel", "Nemzetközi szakértői kör", "Etika és gazdaság fókusza"],
+      ro: ["Fondată de Ioan Paul al II-lea", "Sediul în Casina Pio IV", "Grup de experți internaționali", "Focus pe etică și economie"],
+      en: ["Founded by John Paul II", "Based in Casina Pio IV", "International expert panel", "Focus on ethics and economy"],
+    },
   }
 ];

@@ -4,7 +4,9 @@ export const ukLandmarksV2: POI[] = [
   {
     id: "uk-big-ben-landmarks-v2",
     type: "tower",
-    name: { de: "Big Ben (Elizabeth Tower)", hu: "Big Ben (Erzsébet-torony)", ro: "Big Ben (Turnul Elizabeth)", en: "Big Ben (Elizabeth Tower)" },
+    name: { de: "Big Ben (Elizabeth Tower)", hu: "Big Ben (Erzsébet-torony)", ro: "Big Ben (Turnul Elizabeth)", en: "Big Ben (Elizabeth Tower)",
+image: "/poi-images/uk-big-ben-landmarks-v2.webp"
+},
     coords: [-0.1246, 51.5007],
     coordinates: { lat: 51.5007, lng: -0.1246 },
     description: {
@@ -19,11 +21,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1859", "Înălțimea turnului: 96 metri", "Diametrul cadranului ceasului: 7 metri", "Redenumire oficială: 2012"],
       en: ["Completed in 1859", "Tower height: 96 meters", "Clock face diameter: 7 meters", "Officially renamed in 2012"],
     },
-    imageHint: "Big Ben and Palace of Westminster at sunset", image: "/poi-images/uk-big-ben-landmarks-v2.webp"},
-  {
+imageHint: "Big Ben and Palace of Westminster at sunset",
+    descriptionAdvanced: {
+      de: "Der Elizabeth Tower beherbergt die 13,5 Tonnen schwere Big Ben Glocke. Der 96 Meter hohe Turm wurde 1859 im neugotischen Stil als Teil des Palace of Westminster vollendet.",
+      hu: "Az Erzsébet-torony 1859-ben készült el neogótikus stílusban. A 96 méter magas építmény a világ egyik legismertebb óraszerkezetét és a 13,5 tonnás Big Ben harangot rejti.",
+      ro: "Turnul Elizabeth, finalizat în 1859, găzduiește celebrul clopot Big Ben de 13,5 tone. Structura neogotică de 96 de metri este simbolul Parlamentului britanic din Londra.",
+      en: "The Elizabeth Tower was completed in 1859 in Neo-Gothic style. Standing 96 meters tall, it houses the 13.5-ton Great Bell, famously known worldwide as Big Ben.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 96 Meter", "Glockengewicht: 13,5 Tonnen", "Fertigstellung: 1859", "Stufe: 334 Stufen"],
+      hu: ["Magasság: 96 méter", "Harang súlya: 13,5 tonna", "Építés éve: 1859", "Lépcsők száma: 334"],
+      ro: ["Înălțime: 96 metri", "Greutate clopot: 13,5 tone", "An finalizare: 1859", "Număr trepte: 334"],
+      en: ["Height: 96 meters", "Bell weight: 13.5 tons", "Completed: 1859", "Steps: 334 steps"],
+    },
+    image: "/poi-images/uk-big-ben-landmarks-v2.webp",
+},  {
     id: "uk-tower-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Tower Bridge", hu: "Tower híd", ro: "Tower Bridge", en: "Tower Bridge" },
+    name: { de: "Tower Bridge", hu: "Tower híd", ro: "Tower Bridge", en: "Tower Bridge",
+image: "/poi-images/uk-tower-bridge-landmarks-v2.webp"
+},
     coords: [-0.0754, 51.5055],
     coordinates: { lat: 51.5055, lng: -0.0754 },
     description: {
@@ -38,11 +55,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Inaugurat: 30 iunie 1894", "Lungime totală: 244 metri", "Durata construcției: 8 ani", "Arhitect: Horace Jones"],
       en: ["Opened: June 30, 1894", "Total length: 244 meters", "Construction time: 8 years", "Architect: Horace Jones"],
     },
-    imageHint: "Tower Bridge open with the Thames river", image: "/poi-images/uk-tower-bridge-landmarks-v2.webp"},
-  {
+imageHint: "Tower Bridge open with the Thames river",
+    descriptionAdvanced: {
+      de: "Diese kombinierte Hänge- und Klappbrücke wurde zwischen 1886 und 1894 errichtet. Die markanten Türme sind 65 Meter hoch und bieten einen weiten Blick über die Themse.",
+      hu: "Az 1886 és 1894 között épült különleges billenő- és függőhíd London jelképe. A 65 méter magas tornyokat összekötő gyalogoshidakról páratlan kilátás nyílik a Temzére.",
+      ro: "Construit între 1886 și 1894, acest pod basculant combinat cu unul suspendat traversează Tamisa. Turnurile sale de 65 de metri oferă o panoramă spectaculoasă a Londrei.",
+      en: "Built between 1886 and 1894, this combined bascule and suspension bridge is a London icon. Its 65-meter towers provide stunning views over the River Thames.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1886–1894", "Turmhöhe: 65 Meter", "Länge: 244 Meter", "Baukosten: 1,1 Mio. £"],
+      hu: ["Építés: 1886–1894", "Torony magassága: 65 méter", "Hossz: 244 méter", "Költség: 1,1 millió font"],
+      ro: ["Construcție: 1886–1894", "Înălțime turnuri: 65 metri", "Lungime: 244 metri", "Cost: 1,1 milioane £"],
+      en: ["Built: 1886–1894", "Tower height: 65 meters", "Length: 244 meters", "Cost: £1.1 million"],
+    },
+    image: "/poi-images/uk-tower-bridge-landmarks-v2.webp",
+},  {
     id: "uk-buckingham-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Buckingham Palace", hu: "Buckingham-palota", ro: "Palatul Buckingham", en: "Buckingham Palace" },
+    name: { de: "Buckingham Palace", hu: "Buckingham-palota", ro: "Palatul Buckingham", en: "Buckingham Palace",
+image: "/poi-images/uk-buckingham-palace-landmarks-v2.webp"
+},
     coords: [-0.1419, 51.5014],
     coordinates: { lat: 51.5014, lng: -0.1419 },
     description: {
@@ -57,11 +89,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Anul construcției inițiale: 1703", "Număr de camere: 775", "Cea mai mare grădină privată din Londra", "Schimbarea gărzii are loc zilnic"],
       en: ["Original core built: 1703", "Number of rooms: 775", "Largest private garden in London", "Changing of the Guard occurs daily"],
     },
-    imageHint: "Buckingham Palace front facade with guards", image: "/poi-images/uk-buckingham-palace-landmarks-v2.webp"},
-  {
+imageHint: "Buckingham Palace front facade with guards",
+    descriptionAdvanced: {
+      de: "Seit 1837 dient der Palast als offizielle Londoner Residenz der britischen Monarchen. Das Gebäude umfasst 775 Zimmer und verfügt über den größten Privatgarten Londons.",
+      hu: "A palota 1837 óta a brit uralkodók hivatalos londoni rezidenciája. A 775 szobával rendelkező épületegyütteshez London legnagyobb magánkertje is hozzátartozik.",
+      ro: "Din 1837, palatul servește drept reședință oficială a monarhilor britanici în Londra. Clădirea are 775 de camere și deține cea mai mare grădină privată din oraș.",
+      en: "Since 1837, the palace has been the official London residence of British monarchs. It contains 775 rooms and features the largest private garden in the city.",
+    },
+    factsAdvanced: {
+      de: ["Zimmeranzahl: 775", "Baujahr: ab 1703", "Gartenfläche: 17 Hektar", "Fensteranzahl: 760"],
+      hu: ["Szobák száma: 775", "Építés kezdete: 1703", "Kert mérete: 17 hektár", "Ablakok száma: 760"],
+      ro: ["Număr camere: 775", "An construcție: din 1703", "Suprafață grădină: 17 hectare", "Număr ferestre: 760"],
+      en: ["Number of rooms: 775", "Built: from 1703", "Garden size: 17 hectares", "Number of windows: 760"],
+    },
+    image: "/poi-images/uk-buckingham-palace-landmarks-v2.webp",
+},  {
     id: "uk-edinburgh-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Edinburgh Castle", hu: "Edinburgh-i vár", ro: "Castelul Edinburgh", en: "Edinburgh Castle" },
+    name: { de: "Edinburgh Castle", hu: "Edinburgh-i vár", ro: "Castelul Edinburgh", en: "Edinburgh Castle",
+image: "/poi-images/uk-edinburgh-castle-landmarks-v2.webp"
+},
     coords: [-3.1999, 55.9486],
     coordinates: { lat: 55.9486, lng: -3.1999 },
     description: {
@@ -76,11 +123,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Locație: Un vulcan stins", "Cea mai veche parte: Capela Sf. Margareta (sec. 12)", "Tunul de la ora unu trage zilnic", "Asedii: Peste 26 de-a lungul istoriei"],
       en: ["Location: An extinct volcano", "Oldest part: St Margaret's Chapel (12th C)", "The One O'Clock Gun fires daily", "Sieges: Over 26 in its history"],
     },
-    imageHint: "Edinburgh Castle on Castle Rock", image: "/poi-images/uk-edinburgh-castle-landmarks-v2.webp"},
-  {
+imageHint: "Edinburgh Castle on Castle Rock",
+    descriptionAdvanced: {
+      de: "Die Festung thront auf dem Castle Rock über Edinburgh und blickt auf eine Besiedlung seit der Eisenzeit zurück. Sie beherbergt die schottischen Kronjuwelen.",
+      hu: "Az Edinburgh látképét uraló vár a kialudt vulkáni sziklán, a Castle Rockon áll. A 12. század óta fontos erődítmény ma a skót koronaékszerek otthona.",
+      ro: "Situat pe Castle Rock, acest castel domină orizontul orașului Edinburgh din secolul al XII-lea. Fortăreața adăpostește bijuteriile coroanei scoțiene.",
+      en: "Dominating the Edinburgh skyline from Castle Rock, this fortress has historical roots since the 12th century. It houses the Honours of Scotland (Crown Jewels).",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 130 Meter ü. NN", "Gegründet: 12. Jahrhundert", "Besucher: ca. 2 Mio./Jahr", "Kanonenschuss: One O'Clock Gun"],
+      hu: ["Magasság: 130 m tszf.", "Alapítás: 12. század", "Látogatók: ~2 millió/év", "Hagyomány: One O'Clock Gun"],
+      ro: ["Înălțime: 130 m", "Fondat: secolul XII", "Vizitatori: ~2 milioane/an", "Tradiție: One O'Clock Gun"],
+      en: ["Elevation: 130 meters", "Founded: 12th century", "Visitors: ~2 million/year", "Tradition: One O'Clock Gun"],
+    },
+    image: "/poi-images/uk-edinburgh-castle-landmarks-v2.webp",
+},  {
     id: "uk-windsor-castle-landmarks-v2",
     type: "castle",
-    name: { de: "Windsor Castle", hu: "Windsori kastély", ro: "Castelul Windsor", en: "Windsor Castle" },
+    name: { de: "Windsor Castle", hu: "Windsori kastély", ro: "Castelul Windsor", en: "Windsor Castle",
+image: "/poi-images/uk-windsor-castle-landmarks-v2.webp"
+},
     coords: [-0.6044, 51.4839],
     coordinates: { lat: 51.4839, lng: -0.6044 },
     description: {
@@ -95,11 +157,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondat de William Cuceritorul", "Suprafața complexului: aprox. 5 hectare", "Găzduiește Capela Sfântului Gheorghe", "Reședința preferată a Reginei Elisabeta a II-a"],
       en: ["Founded by William the Conqueror", "Grounds cover about 13 acres", "Home to St George's Chapel", "Primary residence of Queen Elizabeth II"],
     },
-    imageHint: "Windsor Castle aerial view", image: "/poi-images/uk-windsor-castle-landmarks-v2.webp"},
-  {
+imageHint: "Windsor Castle aerial view",
+    descriptionAdvanced: {
+      de: "Windsor Castle ist das älteste und größte bewohnte Schloss der Welt. Es wurde im 11. Jahrhundert von Wilhelm dem Eroberer gegründet und umfasst etwa 5 Hektar Land.",
+      hu: "Ez a világ legrégebbi és legnagyobb lakott kastélya, amelyet Hódító Vilmos alapított a 11. században. Az 5 hektáros birtok a brit királyi család kedvenc rezidenciája.",
+      ro: "Castelul Windsor este cel mai vechi și mai mare castel locuit din lume. Fondat de William Cuceritorul în secolul al XI-lea, complexul ocupă aproximativ 5 hectare.",
+      en: "Windsor Castle is the oldest and largest inhabited castle in the world. Founded by William the Conqueror in the 11th century, it covers around 5 hectares of land.",
+    },
+    factsAdvanced: {
+      de: ["Grundfläche: 52.609 m²", "Gründungsjahr: ca. 1070", "Mitarbeiter: über 500", "Zimmer: ca. 1.000"],
+      hu: ["Alapterület: 52 609 m²", "Alapítás: kb. 1070", "Személyzet: 500+ fő", "Szobák száma: kb. 1000"],
+      ro: ["Suprafață: 52.609 m²", "Fondat: cca. 1070", "Angajați: peste 500", "Număr camere: cca. 1.000"],
+      en: ["Floor area: 52,609 m²", "Founded: c. 1070", "Staff: 500+ people", "Number of rooms: c. 1,000"],
+    },
+    image: "/poi-images/uk-windsor-castle-landmarks-v2.webp",
+},  {
     id: "uk-westminster-abbey-landmarks-v2",
     type: "church",
-    name: { de: "Westminster Abbey", hu: "Westminsteri apátság", ro: "Abatia Westminster", en: "Westminster Abbey" },
+    name: { de: "Westminster Abbey", hu: "Westminsteri apátság", ro: "Abatia Westminster", en: "Westminster Abbey",
+image: "/poi-images/uk-westminster-abbey-landmarks-v2.webp"
+},
     coords: [-0.1273, 51.4994],
     coordinates: { lat: 51.4994, lng: -0.1273 },
     description: {
@@ -114,11 +191,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 960 d.Hr.", "Locul tuturor încoronărilor din 1066", "Găzduiește Colțul Poeților", "Patrimoniu UNESCO din 1987"],
       en: ["Founded around 960 AD", "Site of all coronations since 1066", "Contains the Poets' Corner", "UNESCO World Heritage since 1987"],
     },
-    imageHint: "Westminster Abbey facade London", image: "/poi-images/uk-westminster-abbey-landmarks-v2.webp"},
-  {
+imageHint: "Westminster Abbey facade London",
+    descriptionAdvanced: {
+      de: "Diese gotische Kirche ist seit 1066 die Krönungsstätte der britischen Monarchen. Sie dient zudem als letzte Ruhestätte für über 3.300 bedeutende Persönlichkeiten.",
+      hu: "Az 1066 óta az angol és brit uralkodók koronázási helyszínéül szolgáló gótikus templom több mint 3300 híresség, köztük királyok és tudósok végső nyughelye.",
+      ro: "Această biserică gotică este locul de încoronare a monarhilor britanici încă din 1066. Abatia este și locul de odihnă pentru peste 3.300 de figuri istorice.",
+      en: "This Gothic abbey has been the coronation site of British monarchs since 1066. It serves as the burial place for more than 3,300 notable historical figures.",
+    },
+    factsAdvanced: {
+      de: ["Krönungen seit: 1066", "Grabstätten: über 3.300", "UNESCO-Welterbe: seit 1987", "Höhe der Türme: 68 Meter"],
+      hu: ["Koronázások kezdete: 1066", "Sírok száma: 3300+", "Világörökség: 1987 óta", "Tornyok magassága: 68 méter"],
+      ro: ["Încoronări din: 1066", "Morminte: peste 3.300", "Patrimoniu UNESCO: din 1987", "Înălțime turnuri: 68 metri"],
+      en: ["Coronations since: 1066", "Burials: over 3,300", "UNESCO site: since 1987", "Tower height: 68 meters"],
+    },
+    image: "/poi-images/uk-westminster-abbey-landmarks-v2.webp",
+},  {
     id: "uk-british-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Britisches Museum", hu: "Brit Múzeum", ro: "British Museum", en: "British Museum" },
+    name: { de: "Britisches Museum", hu: "Brit Múzeum", ro: "British Museum", en: "British Museum",
+image: "/poi-images/uk-british-museum-landmarks-v2.webp"
+},
     coords: [-0.127, 51.5194],
     coordinates: { lat: 51.5194, lng: -0.127 },
     description: {
@@ -133,12 +225,27 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1753", "Găzduiește Piatra din Rosetta", "Vizitatori anual: aprox. 6 milioane", "Curtea Mare are un acoperiș de sticlă celebru"],
       en: ["Founded in 1753", "Home to the Rosetta Stone", "Annual visitors: approx. 6 million", "Features the famous Great Court glass roof"],
     },
-    imageHint: "British Museum Great Court glass roof", image: "/poi-images/uk-british-museum-landmarks-v2.webp"}
-,
+imageHint: "British Museum Great Court glass roof",
+    descriptionAdvanced: {
+      de: "Das 1753 gegründete Museum beherbergt über 8 Millionen Objekte zur menschlichen Geschichte. Zu den berühmtesten Exponaten gehören der Stein von Rosette und der Parthenon-Fries.",
+      hu: "Az 1753-ban alapított múzeum több mint 8 millió műtárgyat őriz az emberiség történetéből. Leghíresebb kincsei a Rosette-i kő és a Parthenón-márványok.",
+      ro: "Fondat în 1753, muzeul găzduiește peste 8 milioane de obiecte ce ilustrează istoria umană. Printre cele mai faimoase piese se numără Piatra Rosetta și marmurele Elgin.",
+      en: "Founded in 1753, the museum houses over 8 million objects documenting human history. Famous exhibits include the Rosetta Stone and the Parthenon Sculptures.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1753", "Objekte: 8 Millionen", "Besucher: 6 Mio./Jahr", "Ausstellungsfläche: 92.000 m²"],
+      hu: ["Alapítás éve: 1753", "Műtárgyak száma: 8 millió", "Látogatók: 6 millió/év", "Kiállítótér: 92 000 m²"],
+      ro: ["An fondare: 1753", "Obiecte: 8 milioane", "Vizitatori: 6 milioane/an", "Suprafață expoziție: 92.000 m²"],
+      en: ["Founded: 1753", "Objects: 8 million", "Visitors: 6 million/year", "Gallery space: 92,000 m²"],
+    },
+    image: "/poi-images/uk-british-museum-landmarks-v2.webp",
+},
   {
     id: "uk-york-minster-landmarks-v2",
     type: "cathedral",
-    name: { de: "York Minster", hu: "Yorki székesegyház", ro: "York Minster", en: "York Minster" },
+    name: { de: "York Minster", hu: "Yorki székesegyház", ro: "York Minster", en: "York Minster",
+image: "/poi-images/uk-york-minster-landmarks-v2.webp"
+},
     coords: [-1.0819, 53.9623],
     coordinates: { lat: 53.9623, lng: -1.0819 },
     description: {
@@ -154,11 +261,25 @@ export const ukLandmarksV2: POI[] = [
       en: ["Completed in 1472 after 250 years of construction.", "Home to the Great East Window, the largest medieval stained glass.", "The central tower is 71 meters high.", "Contains the Rose Window, commemorating the end of the Wars of the Roses."],
     },
     imageHint: "York Minster cathedral front view",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von York ist eine der größten gotischen Kirchen Nordeuropas. Sie ist berühmt für das Great East Window, das weltweit größte mittelalterliche Buntglasfenster.",
+      hu: "Észak-Európa egyik legnagyobb gótikus katedrálisa Yorkban található. Világhírű a Nagy Keleti Ablaka, amely a világ legnagyobb középkori színes üvegablaka.",
+      ro: "Catedrala din York este una dintre cele mai mari structuri gotice din nordul Europei. Este celebră pentru Marea Fereastră de Est, cea mai mare fereastră medievală din lume.",
+      en: "York Minster is one of the largest Gothic cathedrals in Northern Europe. It is famed for its Great East Window, the largest expanse of medieval stained glass in the world.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 160 Meter", "Bauzeit: 1220–1472", "Turmhöhe: 71 Meter", "Fensterfläche: 2.000 m²"],
+      hu: ["Hossz: 160 méter", "Építés: 1220–1472", "Torony magassága: 71 méter", "Üvegfelület: 2000 m²"],
+      ro: ["Lungime: 160 metri", "Construcție: 1220–1472", "Înălțime turnuri: 71 metri", "Suprafață vitralii: 2.000 m²"],
+      en: ["Length: 160 meters", "Built: 1220–1472", "Tower height: 71 meters", "Glass area: 2,000 m²"],
+    },
   },
   {
     id: "uk-st-pauls-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "St. Paul's Cathedral", hu: "Szent Pál-székesegyház", ro: "Catedrala Sfântul Paul", en: "St Paul's Cathedral" },
+    name: { de: "St. Paul's Cathedral", hu: "Szent Pál-székesegyház", ro: "Catedrala Sfântul Paul", en: "St Paul's Cathedral",
+image: "/poi-images/uk-st-pauls-cathedral-landmarks-v2.webp"
+},
     coords: [-0.0984, 51.5138],
     coordinates: { lat: 51.5138, lng: -0.0984 },
     description: {
@@ -173,11 +294,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Construită între anii 1675 și 1710.", "Cupola atinge o înălțime de 111 metri.", "Locul nunții Prințului Charles cu Lady Diana Spencer.", "Găzduiește celebra Galerie a Șoaptelor."],
       en: ["Built between 1675 and 1710.", "The dome reaches a height of 111 meters.", "Site of the wedding of Prince Charles and Lady Diana.", "Home to the Whispering Gallery."],
     },
-    imageHint: "St Paul's Cathedral London dome view", image: "/poi-images/uk-st-pauls-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "St Paul's Cathedral London dome view",
+    descriptionAdvanced: {
+      de: "Die von Sir Christopher Wren entworfene Kathedrale wurde nach dem Großen Brand von London 1666 erbaut. Ihre Kuppel erreicht eine imposante Höhe von 111 Metern.",
+      hu: "A Sir Christopher Wren által tervezett székesegyház az 1666-os nagy londoni tűzvész után épült újjá. 111 méter magas kupolája London egyik meghatározó jelképe.",
+      ro: "Proiectată de Sir Christopher Wren, catedrala a fost construită după Marele Incendiu din 1666. Domul său impunător atinge o înălțime de 111 metri.",
+      en: "Designed by Sir Christopher Wren, this cathedral was rebuilt after the Great Fire of London in 1666. Its iconic dome reaches a height of 111 meters.",
+    },
+    factsAdvanced: {
+      de: ["Kuppelhöhe: 111 Meter", "Bauzeit: 1675–1710", "Glocken: 12 Glocken", "Stufen zur Kuppel: 528"],
+      hu: ["Kupola magassága: 111 méter", "Építés: 1675–1710", "Harangok száma: 12", "Lépcsők száma: 528"],
+      ro: ["Înălțime dom: 111 metri", "Construcție: 1675–1710", "Număr clopote: 12", "Trepte spre dom: 528"],
+      en: ["Dome height: 111 meters", "Built: 1675–1710", "Number of bells: 12", "Steps to dome: 528"],
+    },
+    image: "/poi-images/uk-st-pauls-cathedral-landmarks-v2.webp",
+},  {
     id: "uk-roman-baths-landmarks-v2",
     type: "landmark",
-    name: { de: "Römische Bäder (Bath)", hu: "Római fürdők (Bath)", ro: "Băile Romane (Bath)", en: "The Roman Baths" },
+    name: { de: "Römische Bäder (Bath)", hu: "Római fürdők (Bath)", ro: "Băile Romane (Bath)", en: "The Roman Baths",
+image: "/poi-images/uk-roman-baths-landmarks-v2.webp"
+},
     coords: [-2.3598, 51.3811],
     coordinates: { lat: 51.3811, lng: -2.3598 },
     description: {
@@ -192,11 +328,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Construite în jurul anului 70 d.Hr. în timpul ocupației romane.", "Temperatura apei este constant în jur de 46 de grade Celsius.", "Zilnic, peste 1 milion de litri de apă curg în băi.", "Desemnat ca sit al Patrimoniului Mondial UNESCO."],
       en: ["Built around 70 AD during the Roman occupation.", "The water temperature is consistently around 46 degrees Celsius.", "Over 1 million liters of water flow into the baths daily.", "Designated as a UNESCO World Heritage site."],
     },
-    imageHint: "The Roman Baths in Bath England green water", image: "/poi-images/uk-roman-baths-landmarks-v2.webp"},
-  {
+imageHint: "The Roman Baths in Bath England green water",
+    descriptionAdvanced: {
+      de: "Diese außergewöhnlich gut erhaltene antike Badeanlage wurde um 70 n. Chr. über natürlichen Thermalquellen errichtet. Das Wasser sprudelt mit 46 Grad aus der Erde.",
+      hu: "A Bath városában található, kiváló állapotban fennmaradt római fürdőkomplexumot kr. u. 70 körül építették. A forrásokból naponta 1 millió liter 46 fokos víz tör fel.",
+      ro: "Acest complex termal antic excepțional de bine conservat a fost construit în jurul anului 70 d.Hr. Izvoarele naturale furnizează apă la o temperatură de 46 de grade.",
+      en: "This remarkably preserved ancient spa complex was built around 70 AD over natural thermal springs. The water flows from the ground at a temperature of 46°C.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: ca. 70 n. Chr.", "Wassertemperatur: 46 °C", "Schüttung: 1,17 Mio. l/Tag", "UNESCO-Welterbe: seit 1987"],
+      hu: ["Építés éve: kb. kr. u. 70", "Vízhőmérséklet: 46 °C", "Vízhozam: 1,17 millió l/nap", "Világörökség: 1987 óta"],
+      ro: ["Construcție: cca. 70 d.Hr.", "Temperatură apă: 46 °C", "Debit apă: 1,17 mil. l/zi", "Patrimoniu UNESCO: din 1987"],
+      en: ["Built: c. 70 AD", "Water temp: 46°C", "Flow rate: 1.17M liters/day", "UNESCO site: since 1987"],
+    },
+    image: "/poi-images/uk-roman-baths-landmarks-v2.webp",
+},  {
     id: "uk-durham-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Durham", hu: "Durhami székesegyház", ro: "Catedrala Durham", en: "Durham Cathedral" },
+    name: { de: "Kathedrale von Durham", hu: "Durhami székesegyház", ro: "Catedrala Durham", en: "Durham Cathedral",
+image: "/poi-images/uk-durham-cathedral-landmarks-v2.webp"
+},
     coords: [-1.576, 54.7733],
     coordinates: { lat: 54.7733, lng: -1.576 },
     description: {
@@ -211,11 +362,26 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondată în 1093 pentru a adăposti moaștele Sfântului Cuthbert.", "Cunoscută pentru bolțile sale cu nervuri peste naos.", "Turnul central are o înălțime de 66 de metri.", "A servit ca locație de filmare pentru filmele Harry Potter."],
       en: ["Founded in 1093 to house the shrine of Saint Cuthbert.", "Known for its ribbed vaulting over the nave.", "The central tower is 66 meters high.", "Served as a filming location for the Harry Potter movies."],
     },
-    imageHint: "Durham Cathedral Romanesque architecture exterior", image: "/poi-images/uk-durham-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Durham Cathedral Romanesque architecture exterior",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Durham gilt als herausragendes Beispiel normannischer Architektur. Sie wurde ab 1093 zur Beherbergung der Reliquien des Heiligen Cuthbert errichtet.",
+      hu: "A normann építészet egyik legszebb példája Durham katedrálisa. Az 1093-ban alapított templom Szent Cuthbert és Beda Venerabilis ereklyéinek végső nyughelye.",
+      ro: "Catedrala din Durham este un exemplu remarcabil de arhitectură normandă. Fondată în 1093, biserica adăpostește moaștele Sfântului Cuthbert și ale lui Beda Venerabilul.",
+      en: "Durham Cathedral is a masterpiece of Norman architecture. Founded in 1093, it was built to house the shrines of Saint Cuthbert and the Venerable Bede.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: ab 1093", "Turmhöhe: 66 Meter", "Länge: 143 Meter", "UNESCO-Welterbe: seit 1986"],
+      hu: ["Építés kezdete: 1093", "Torony magassága: 66 méter", "Hossz: 143 méter", "Világörökség: 1986 óta"],
+      ro: ["An fondare: 1093", "Înălțime turn: 66 metri", "Lungime: 143 metri", "Patrimoniu UNESCO: din 1986"],
+      en: ["Founded: 1093", "Tower height: 66 meters", "Length: 143 meters", "UNESCO site: since 1986"],
+    },
+    image: "/poi-images/uk-durham-cathedral-landmarks-v2.webp",
+},  {
     id: "uk-forth-bridge-landmarks-v2",
     type: "bridge",
-    name: { de: "Forth Bridge", hu: "Forth Bridge", ro: "Podul Forth", en: "Forth Bridge" },
+    name: { de: "Forth Bridge", hu: "Forth Bridge", ro: "Podul Forth", en: "Forth Bridge",
+image: "/poi-images/uk-forth-bridge-landmarks-v2.webp"
+},
     coords: [-3.3887, 56.0004],
     coordinates: { lat: 56.0004, lng: -3.3887 },
     description: {
@@ -231,5 +397,17 @@ export const ukLandmarksV2: POI[] = [
       en: ["Opened on March 4, 1890.", "It spans a total length of 2,467 meters.", "Built using approximately 53,000 tons of steel.", "The first major structure in the UK to be built from steel."],
     },
     imageHint: "Forth Bridge Scotland red railway bridge",
+    descriptionAdvanced: {
+      de: "Die 1890 eröffnete Eisenbahnbrücke ist ein Pionierwerk der Stahlbaukunst. Die Auslegerkonstruktion überspannt den Firth of Forth bei Edinburgh auf 2.467 Metern.",
+      hu: "Az 1890-ben átadott vasúti híd az acélszerkezetű építészet úttörője. A 2467 méter hosszú konzolos szerkezet az Edinburgh melletti Firth of Forth öblöt íveli át.",
+      ro: "Inaugurat în 1890, acest pod feroviar este o capodoperă a ingineriei din oțel. Structura în consolă traversează Firth of Forth lângă Edinburgh pe o lungime de 2.467 metri.",
+      en: "Opened in 1890, this railway bridge is a landmark of steel engineering. The cantilever structure spans the Firth of Forth near Edinburgh with a length of 2,467 meters.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 2.467 Meter", "Eröffnung: 1890", "Stahlgewicht: 53.000 Tonnen", "UNESCO-Welterbe: seit 2015"],
+      hu: ["Hossz: 2467 méter", "Megnyitás: 1890", "Acél súlya: 53 000 tonna", "Világörökség: 2015 óta"],
+      ro: ["Lungime: 2.467 metri", "Inaugurare: 1890", "Greutate oțel: 53.000 tone", "Patrimoniu UNESCO: din 2015"],
+      en: ["Length: 2,467 meters", "Opened: 1890", "Steel weight: 53,000 tons", "UNESCO site: since 2015"],
+    },
   }
 ];

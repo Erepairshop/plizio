@@ -6,260 +6,559 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "historical-site",
     parent: "TR-63",
     coords: [38.922, 37.223],
-    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe" },
+    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe",
+image: "/poi-images/gobekli-tepe-history-v2.webp"
+},
     description: { de: "Göbekli Tepe ist eine der ältesten bekannten Tempelanlagen der Welt, erbaut vor etwa 12.000 Jahren.", hu: "A Göbekli Tepe a világ egyik legrégebbi ismert templomkomplexuma, amelyet mintegy 12 000 évvel ezelőtt építettek.", ro: "Göbekli Tepe este unul dintre cele mai vechi complexe de temple cunoscute din lume, construit acum aproximativ 12.000 de ani.", en: "Göbekli Tepe is one of the oldest known temple complexes in the world, built around 12,000 years ago." },
     facts: {
       de: ["Gilt als der erste Tempel der Menschheit.", "Besteht aus massiven, T-förmigen Kalksteinpfeilern."],
       hu: ["Az emberiség első templomának tartják.", "Hatalmas, T alakú mészkőoszlopokból áll."],
       ro: ["Considerat primul templu al omenirii.", "Este format din stâlpi masivi de calcar în formă de T."],
       en: ["Considered the first temple of humanity.", "Consists of massive, T-shaped limestone pillars."]
-    }, image: "/poi-images/gobekli-tepe-history-v2.webp"},
+    }, image: "/poi-images/gobekli-tepe-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese prähistorische Fundstätte gilt als der älteste bekannte Tempelkomplex der Welt. Die monumentalen T-förmigen Pfeiler stammen aus dem 10. Jahrtausend v. Chr.",
+      hu: "A világ legrégebbi ismert templomkomplexuma a 10. évezredből származik. A monumentális T-alakú kőoszlopok vallási rituálék központjaként szolgáltak az újkőkorban.",
+      ro: "Considerat cel mai vechi templu din lume, situl datează din mileniul 10 î.Hr. Pilonii monumentali în formă de T sunt decorați cu reliefuri complexe de animale sălbatice.",
+      en: "Dating back to the 10th millennium BCE, this prehistoric site is considered the world's oldest known temple. Its massive T-shaped pillars feature intricate animal reliefs.",
+    },
+    factsAdvanced: {
+      de: ["Etwa 12.000 Jahre alt", "20 kreisförmige Anlagen", "Bis zu 6 Meter hohe Pfeiler", "UNESCO-Welterbe seit 2018"],
+      hu: ["Kb. 12 000 éves lelet", "20 kör alakú építmény", "6 méter magas kőoszlopok", "UNESCO Világörökség 2018 óta"],
+      ro: ["Vechime de circa 12.000 ani", "20 de structuri circulare", "Piloni de până la 6 metri", "Sit UNESCO din anul 2018"],
+      en: ["Roughly 12,000 years old", "20 circular structures", "6-meter high stone pillars", "UNESCO World Heritage since 2018"],
+    },
+  },
   {
     id: "ephesus-history-v2",
     type: "ruin",
     parent: "TR-35",
     coords: [27.341, 37.939],
-    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus" },
+    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus",
+image: "/poi-images/ephesus-history-v2.webp"
+},
     description: { de: "Ephesos war eine der bedeutendsten und ältesten griechischen Städte Kleinasiens und später eine große römische Metropole.", hu: "Epheszosz Kis-Ázsia egyik legjelentősebb és legrégebbi görög városa volt, később pedig egy hatalmas római metropolisz.", ro: "Efes a fost unul dintre cele mai importante și vechi orașe grecești din Asia Mică și, mai târziu, o mare metropolă romană.", en: "Ephesus was one of the most important and oldest Greek cities in Asia Minor and later a major Roman metropolis." },
     facts: {
       de: ["Heimat des Artemis-Tempels, eines der sieben Weltwunder.", "Die Celsus-Bibliothek ist ein berühmtes Wahrzeichen."],
       hu: ["Az ókori világ hét csodája közé tartozó Artemisz-templom otthona.", "A Celsus-könyvtár egy híres nevezetesség."],
       ro: ["Găzduia Templul lui Artemis, una dintre cele șapte minuni ale lumii.", "Biblioteca lui Celsus este un punct de reper faimos."],
       en: ["Home to the Temple of Artemis, one of the Seven Wonders of the World.", "The Library of Celsus is a famous landmark."]
-    }, image: "/poi-images/ephesus-history-v2.webp"},
+    }, image: "/poi-images/ephesus-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die antike griechische Stadt war ein bedeutendes Handelszentrum und Standort des Artemistempels. Die Celsus-Bibliothek zeugt von der römischen Pracht des 2. Jahrhunderts.",
+      hu: "Az ókori görög és római metropolisz az Artemisz-templomnak adott otthont. A Celsus-könyvtár homlokzata a 2. századi építészeti tudás egyik legszebb fennmaradt példája.",
+      ro: "Acest oraș antic a fost un centru comercial major și locul Templului Artemisei. Biblioteca lui Celsus reflectă gloria romană din secolul al II-lea în Asia Mică.",
+      en: "A major Greek and Roman metropolis, Ephesus was home to the Temple of Artemis. The 2nd-century Celsus Library stands as a testament to its ancient cultural prominence.",
+    },
+    factsAdvanced: {
+      de: ["Theater mit 25.000 Plätzen", "Sitz des Artemistempels", "Gegründet im 10. Jh. v. Chr.", "UNESCO-Welterbe seit 2015"],
+      hu: ["25 000 férőhelyes színház", "Artemisz-templom helyszíne", "Alapítva i.e. 10. században", "UNESCO Világörökség 2015 óta"],
+      ro: ["Teatru de 25.000 locuri", "Locul Templului Artemisei", "Fondat în sec. X î.Hr.", "Sit UNESCO din anul 2015"],
+      en: ["25,000 seat theater", "Site of Temple of Artemis", "Founded 10th century BCE", "UNESCO World Heritage since 2015"],
+    },
+  },
   {
     id: "troy-history-v2",
     type: "ruin",
     parent: "TR-17",
     coords: [26.238, 39.957],
-    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy" },
+    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy",
+image: "/poi-images/troy-history-v2.webp"
+},
     description: { de: "Troja ist eine historische Stadt, die durch Homers Ilias als Schauplatz des Trojanischen Krieges weltberühmt wurde.", hu: "Trója egy történelmi város, amely Homérosz Iliászának köszönhetően a trójai háború helyszíneként vált világhírűvé.", ro: "Troia este un oraș istoric devenit faimos în întreaga lume prin Iliada lui Homer, ca loc al Războiului Troian.", en: "Troy is a historical city made world-famous by Homer's Iliad as the setting of the Trojan War." },
     facts: {
       de: ["Entdeckt im 19. Jahrhundert von Heinrich Schliemann.", "Besteht aus mehreren Siedlungsschichten."],
       hu: ["Heinrich Schliemann fedezte fel a 19. században.", "Több településrétegből áll."],
       ro: ["Descoperit în secolul al XIX-lea de Heinrich Schliemann.", "Este format din mai multe straturi de așezări."],
       en: ["Discovered in the 19th century by Heinrich Schliemann.", "Consists of multiple settlement layers."]
-    }, image: "/poi-images/troy-history-v2.webp"},
+    }, image: "/poi-images/troy-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die legendäre Stadt der homerischen Ilias umfasst neun archäologische Schichten aus über 3.000 Jahren. Sie war ein strategischer Kontrollpunkt an den Dardanellen.",
+      hu: "Homérosz Iliászának helyszíne kilenc egymásra épült városréteget tartalmaz. A Trójai háború legendás városa fontos stratégiai pont volt a Dardanellák bejáratánál.",
+      ro: "Orașul legendar descris în Iliada lui Homer cuprinde nouă straturi arheologice succesive. A fost un punct strategic de control la intrarea în strâmtoarea Dardanele.",
+      en: "The legendary setting of Homer's Iliad, Troy features nine archaeological layers spanning 3,000 years. It served as a vital strategic gate to the Dardanelles.",
+    },
+    factsAdvanced: {
+      de: ["9 Siedlungsschichten", "Gegründet ca. 3000 v. Chr.", "UNESCO-Welterbe seit 1998", "Ausgrabung durch Schliemann"],
+      hu: ["9 települési réteg", "Alapítva i.e. 3000 körül", "UNESCO Világörökség 1998 óta", "Schliemann általi feltárás"],
+      ro: ["9 straturi de așezări", "Fondat circa 3000 î.Hr.", "Sit UNESCO din anul 1998", "Excavat de Heinrich Schliemann"],
+      en: ["9 settlement layers", "Founded circa 3000 BCE", "UNESCO World Heritage since 1998", "Excavated by Schliemann"],
+    },
+  },
   {
     id: "hattusa-history-v2",
     type: "historical-site",
     parent: "TR-19",
     coords: [34.615, 40.019],
-    name: { de: "Hattuša", hu: "Hattusa", ro: "Hattușa", en: "Hattusa" },
+    name: { de: "Hattuša", hu: "Hattusa", ro: "Hattușa", en: "Hattusa",
+image: "/poi-images/hattusa-history-v2.webp"
+},
     description: { de: "Hattuša war die Hauptstadt des hethitischen Großreiches und besticht durch monumentale Stadttore und Tempelanlagen.", hu: "Hattusa a Hettita Birodalom fővárosa volt, amely monumentális városkapuival és templomkomplexumaival nyűgöz le.", ro: "Hattușa a fost capitala Imperiului Hitit și impresionează prin porțile sale monumentale și complexele de temple.", en: "Hattusa was the capital of the Hittite Empire and impresses with its monumental city gates and temple complexes." },
     facts: {
       de: ["Bekannt für das Löwentor und das Königstor.", "Hier wurde der älteste bekannte Friedensvertrag gefunden."],
       hu: ["Az Oroszlános kapuról és a Királykapuról ismert.", "Itt találták meg a legrégebbi ismert békeszerződést."],
       ro: ["Cunoscut pentru Poarta Leilor și Poarta Regelui.", "Aici a fost găsit cel mai vechi tratat de pace cunoscut."],
       en: ["Known for the Lion Gate and the King's Gate.", "The oldest known peace treaty was found here."]
-    }, image: "/poi-images/hattusa-history-v2.webp"},
+    }, image: "/poi-images/hattusa-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die befestigte Hauptstadt des Hethiterreiches beeindruckt durch ihre monumentalen Tore und Felsreliefs. Sie war im 2. Jahrtausend v. Chr. ein Machtzentrum Altorients.",
+      hu: "A Hettita Birodalom erődített fővárosa monumentális kapuiról és szikladomborműveiről ismert. Az i.e. 2. évezredben az ókori Kelet egyik legfontosabb hatalmi központja volt.",
+      ro: "Capitala fortificată a Imperiului Hitit impresionează prin porțile sale monumentale și reliefurile în stâncă. A fost un centru major de putere în mileniul 2 î.Hr.",
+      en: "The fortified capital of the Hittite Empire is famous for its monumental gates and rock reliefs. It was a dominant power center in the Near East during the 2nd millennium BCE.",
+    },
+    factsAdvanced: {
+      de: ["6 km lange Stadtmauer", "Heiligtum von Yazılıkaya", "Löwentor aus Stein", "UNESCO-Welterbe seit 1986"],
+      hu: ["6 km hosszú városfal", "Yazılıkaya sziklaszentély", "Oroszlános kapu", "UNESCO Világörökség 1986 óta"],
+      ro: ["Ziduri de 6 km lungime", "Sanctuarul Yazılıkaya", "Poarta Leilor din piatră", "Sit UNESCO din anul 1986"],
+      en: ["6 km of city walls", "Yazılıkaya sanctuary", "Lions' Gate monument", "UNESCO World Heritage since 1986"],
+    },
+  },
   {
     id: "gallipoli-history-v2",
     type: "battlefield",
     parent: "TR-17",
     coords: [26.277, 40.245],
-    name: { de: "Gallipoli", hu: "Gallipoli", ro: "Gallipoli", en: "Gallipoli" },
+    name: { de: "Gallipoli", hu: "Gallipoli", ro: "Gallipoli", en: "Gallipoli",
+image: "/poi-images/gallipoli-history-v2.webp"
+},
     description: { de: "Die Halbinsel Gallipoli war im Ersten Weltkrieg Schauplatz erbitterter Kämpfe zwischen den Alliierten und dem Osmanischen Reich.", hu: "A Gallipoli-félsziget az első világháborúban az antant és az Oszmán Birodalom közötti heves harcok helyszíne volt.", ro: "Peninsula Gallipoli a fost locul unor bătălii aprige între Aliați și Imperiul Otoman în Primul Război Mondial.", en: "The Gallipoli Peninsula was the site of fierce fighting between the Allies and the Ottoman Empire during World War I." },
     facts: {
       de: ["Die Schlacht fand 1915 statt.", "Ein bedeutender Gedenkort für Australien und Neuseeland (ANZAC)."],
       hu: ["A csata 1915-ben zajlott.", "Jelentős emlékhely Ausztrália és Új-Zéland (ANZAC) számára."],
       ro: ["Bătălia a avut loc în 1915.", "Un important loc de comemorare pentru Australia și Noua Zeelandă (ANZAC)."],
       en: ["The battle took place in 1915.", "A major memorial site for Australia and New Zealand (ANZAC)."]
-    }, image: "/poi-images/gallipoli-history-v2.webp"},
+    }, image: "/poi-images/gallipoli-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Halbinsel war 1915 Schauplatz einer der blutigsten Schlachten des Ersten Weltkriegs. Heute ist sie ein bedeutender Gedenkort für türkische und alliierte Opfer.",
+      hu: "A félsziget az első világháború egyik legvéresebb csatájának helyszíne volt 1915-ben. Ma fontos emlékhely a török, ausztrál és brit áldozatok tiszteletére.",
+      ro: "Peninsula a fost scena uneia dintre cele mai sângeroase bătălii din Primul Război Mondial în 1915. Astăzi este un loc solemn de comemorare pentru soldații căzuți.",
+      en: "The peninsula was the site of a major WWI campaign in 1915. Today, it serves as a solemn memorial for the Turkish, Australian, New Zealand, and British forces.",
+    },
+    factsAdvanced: {
+      de: ["Kampagne 1915-1916", "Über 130.000 Tote", "Bucht von ANZAC Cove", "Märtyrerdenkmal Çanakkale"],
+      hu: ["1915-1916-os hadjárat", "Több mint 130 000 halott", "ANZAC-öböl partraszállás", "Çanakkale Mártírok Emlékműve"],
+      ro: ["Campania 1915-1916", "Peste 130.000 de morți", "Golful ANZAC Cove", "Memorialul Martirilor Çanakkale"],
+      en: ["1915-1916 campaign", "Over 130,000 fatalities", "ANZAC Cove landing site", "Çanakkale Martyrs' Memorial"],
+    },
+  },
   {
     id: "mount-nemrut-history-v2",
     type: "monument",
     parent: "TR-02",
     coords: [38.761, 38.051],
-    name: { de: "Nemrut Dağı", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut" },
+    name: { de: "Nemrut Dağı", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut",
+image: "/poi-images/mount-nemrut-history-v2.webp"
+},
     description: { de: "Der Nemrut Dağı ist berühmt für seine gewaltigen Götterstatuen, die König Antiochos I. auf dem Gipfel errichten ließ.", hu: "A Nemrut-hegy híres hatalmas istenszobrairól, amelyeket I. Antiokhosz király emeltetett a csúcson.", ro: "Muntele Nemrut este faimos pentru statuile uriașe ale zeilor, ridicate de regele Antioh I pe vârf.", en: "Mount Nemrut is famous for its massive statues of gods, erected by King Antiochus I on the summit." },
     facts: {
       de: ["Der Berg ist 2150 Meter hoch.", "Die Statuenköpfe sind heute vom Rumpf getrennt."],
       hu: ["A hegy 2150 méter magas.", "A szobrok feje ma már le van választva a törzsükről."],
       ro: ["Muntele are 2150 de metri înălțime.", "Capetele statuilor sunt acum separate de trup."],
       en: ["The mountain is 2150 meters high.", "The statue heads are now separated from their bodies."]
-    }, image: "/poi-images/mount-nemrut-history-v2.webp"},
+    }, image: "/poi-images/mount-nemrut-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Auf dem Gipfel errichtete König Antiochos I. im 1. Jahrhundert v. Chr. ein monumentales Grabmal mit riesigen Götterstatuen, die hellenistische und persische Einflüsse vereinen.",
+      hu: "I. Antiokhosz király az i.e. 1. században építtetett itt monumentális síremléket. Az óriási istenszobrok a hellenisztikus és perzsa művészet egyedi ötvözetei.",
+      ro: "Regele Antioh I al Comagenei a ridicat aici în secolul I î.Hr. un mormânt monumental. Statuile uriașe ale zeilor îmbină armonios influențele elenistice și persane.",
+      en: "King Antiochus I of Commagene built this monumental tomb in the 1st century BCE. The massive stone heads represent a unique fusion of Greek and Persian traditions.",
+    },
+    factsAdvanced: {
+      de: ["2.134 Meter Gipfelhöhe", "8-9 Meter hohe Statuen", "UNESCO-Welterbe seit 1987", "West- und Ostterrassen"],
+      hu: ["2134 méteres magasság", "8-9 méteres szobrok", "UNESCO Világörökség 1987 óta", "Nyugati és keleti teraszok"],
+      ro: ["Altitudine 2.134 metri", "Statui de 8-9 metri", "Sit UNESCO din anul 1987", "Terasele de vest și est"],
+      en: ["2,134 meters elevation", "8-9 meter tall statues", "UNESCO World Heritage since 1987", "West and East terraces"],
+    },
+  },
   {
     id: "sumela-monastery-history-v2",
     type: "historical-site",
     parent: "TR-61",
     coords: [39.658, 40.690],
-    name: { de: "Sumela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery" },
+    name: { de: "Sumela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery",
+image: "/poi-images/sumela-monastery-history-v2.webp"
+},
     description: { de: "Das Sumela-Kloster ist ein beeindruckendes griechisch-orthodoxes Kloster, das spektakulär in eine steile Felswand gebaut wurde.", hu: "A Sümela-kolostor egy lenyűgöző görögkeleti kolostor, amely látványosan egy meredek sziklafalba épült.", ro: "Mănăstirea Sumela este o mănăstire greco-ortodoxă impresionantă, construită spectaculos pe o stâncă abruptă.", en: "The Sumela Monastery is an impressive Greek Orthodox monastery spectacularly built into a steep cliff face." },
     facts: {
       de: ["Gegründet im späten 4. Jahrhundert.", "Befindet sich auf 1200 Metern Höhe im Altındere-Nationalpark."],
       hu: ["A 4. század végén alapították.", "Az Altındere Nemzeti Parkban, 1200 méteres magasságban található."],
       ro: ["Fondată la sfârșitul secolului al IV-lea.", "Situată la o altitudine de 1200 de metri în Parcul Național Altındere."],
       en: ["Founded in the late 4th century.", "Located at an altitude of 1200 meters in the Altındere National Park."]
-    }, image: "/poi-images/sumela-monastery-history-v2.webp"},
+    }, image: "/poi-images/sumela-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses griechisch-orthodoxe Kloster wurde im 4. Jahrhundert in eine steile Felswand über dem Altındere-Tal geschlagen. Es beherbergt wertvolle Fresken aus dem 18. Jahrhundert.",
+      hu: "Ez a 4. században alapított görögkeleti kolostor az Altındere-völgy feletti meredek sziklafalba épült. Híres a 18. századi, bibliai jeleneteket ábrázoló freskóiról.",
+      ro: "Această mănăstire ortodoxă a fost construită în secolul IV într-o stâncă abruptă deasupra văii Altındere. Adăpostește fresce valoroase ce datează din secolul al XVIII-lea.",
+      en: "Founded in the 4th century, this Greek Orthodox monastery is perched on a steep cliff above the Altındere Valley. It is renowned for its vibrant 18th-century biblical frescoes.",
+    },
+    factsAdvanced: {
+      de: ["1.200 Meter Meereshöhe", "Gegründet ca. 386 n. Chr.", "72 Klosterzimmer", "Verlassen seit 1923"],
+      hu: ["1200 méter magasságban", "Alapítva i.sz. 386 körül", "72 kolostorszoba", "1923 óta elhagyatott"],
+      ro: ["Altitudine 1.200 metri", "Fondată circa 386 d.Hr.", "72 de chilii monahale", "Abandonată în anul 1923"],
+      en: ["1,200 meters elevation", "Founded circa 386 AD", "72 monastery rooms", "Abandoned since 1923"],
+    },
+  },
   {
     id: "hierapolis-history-v2",
     type: "ruin",
     parent: "TR-20",
     coords: [29.126, 37.925],
-    name: { de: "Hierapolis", hu: "Hierapolisz", ro: "Hierapolis", en: "Hierapolis" },
+    name: { de: "Hierapolis", hu: "Hierapolisz", ro: "Hierapolis", en: "Hierapolis",
+image: "/poi-images/hierapolis-history-v2.webp"
+},
     description: { de: "Hierapolis war eine antike griechische Stadt, die sich nahe den Thermalquellen von Pamukkale befand.", hu: "Hierapolisz egy ókori görög város volt, amely Pamukkale hőforrásainak közelében helyezkedett el.", ro: "Hierapolis a fost un oraș grecesc antic situat lângă izvoarele termale din Pamukkale.", en: "Hierapolis was an ancient Greek city located near the thermal springs of Pamukkale." },
     facts: {
       de: ["Verfügt über ein sehr gut erhaltenes römisches Theater.", "Galt in der Antike als bedeutendes Heilzentrum."],
       hu: ["Nagyon jól megőrzött római színházzal rendelkezik.", "Az ókorban jelentős gyógyközpontnak számított."],
       ro: ["Are un teatru roman foarte bine conservat.", "A fost considerat un important centru de vindecare în antichitate."],
       en: ["Features a very well-preserved Roman theater.", "Considered a major healing center in antiquity."]
-    }, image: "/poi-images/hierapolis-history-v2.webp"},
+    }, image: "/poi-images/hierapolis-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die antike Kurstadt wurde im 2. Jahrhundert v. Chr. über thermalen Quellen errichtet. Die Ruinen umfassen eine riesige Nekropole, ein Theater und den Apollon-Tempel.",
+      hu: "Az ókori gyógyfürdővárost az i.e. 2. században alapították a termálforrások mellett. Romjai között hatalmas nekropolisz, színház és Apollón-templom is található.",
+      ro: "Orașul balnear antic a fost întemeiat în secolul II î.Hr. lângă izvoarele termale. Ruinele cuprind o necropolă vastă, un teatru bine conservat și templul lui Apollo.",
+      en: "This ancient spa city was established in the 2nd century BCE near thermal springs. Its ruins include a vast necropolis, a grand theater, and the Temple of Apollo.",
+    },
+    factsAdvanced: {
+      de: ["Nekropole mit 1.200 Gräbern", "12.000 Sitzplätze im Theater", "UNESCO-Welterbe seit 1988", "Heiliges Plutonium-Tor"],
+      hu: ["1200 sírból álló nekropolisz", "12 000 férőhelyes színház", "UNESCO Világörökség 1988 óta", "Szent Plutonium-kapu"],
+      ro: ["Necropolă cu 1.200 morminte", "Teatru de 12.000 locuri", "Sit UNESCO din anul 1988", "Poarta sacră Plutonium"],
+      en: ["Necropolis with 1,200 tombs", "12,000 seat theater", "UNESCO World Heritage since 1988", "Sacred Plutonium gateway"],
+    },
+  },
   {
     id: "topkapi-palace-history-v2",
     type: "historical-site",
     parent: "TR-34",
     coords: [28.983, 41.011],
-    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace" },
+    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace",
+image: "/poi-images/topkapi-palace-history-v2.webp"
+},
     description: { de: "Der Topkapı-Palast war jahrhundertelang der Wohn- und Regierungssitz der Sultane des Osmanischen Reiches.", hu: "A Topkapı palota évszázadokon át az Oszmán Birodalom szultánjainak lakóhelye és kormányzati központja volt.", ro: "Palatul Topkapı a fost timp de secole reședința și centrul administrativ al sultanilor Imperiului Otoman.", en: "The Topkapı Palace was the residence and administrative center of the sultans of the Ottoman Empire for centuries." },
     facts: {
       de: ["Erbaut nach der Eroberung Istanbuls im Jahr 1453.", "Beherbergt heilige islamische Reliquien."],
       hu: ["Isztambul 1453-as elfoglalása után épült.", "Szent iszlám ereklyéknek ad otthont."],
       ro: ["Construit după cucerirea Istanbulului în 1453.", "Găzduiește relicve sacre islamice."],
       en: ["Built after the conquest of Istanbul in 1453.", "Houses sacred Islamic relics."]
-    }, image: "/poi-images/topkapi-palace-history-v2.webp"},
+    }, image: "/poi-images/topkapi-palace-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fast 400 Jahre lang war dieser Palast das Zentrum der osmanischen Sultane. Er beherbergt heute unschätzbare Schätze wie den Löffelmacher-Diamanten und heilige Reliquien.",
+      hu: "Közel 400 évig ez a palota volt az oszmán szultánok közigazgatási és magánlakhelye. Ma felbecsülhetetlen kincseket őriz, köztük a híres Kanalas-gyémántot is.",
+      ro: "Timp de aproape 400 de ani, acest palat a fost centrul administrativ și reședința sultanilor otomani. Găzduiește astăzi comori neprețuite, inclusiv faimosul Diamant al Lingurarului.",
+      en: "For nearly 400 years, this palace served as the administrative hub and residence of Ottoman sultans. Today, it houses priceless treasures like the Spoonmaker's Diamond.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1459 durch Mehmed II.", "700.000 Quadratmeter Fläche", "4 große Innenhöfe", "Berühmte Haremsabteilung"],
+      hu: ["Épült 1459-ben II. Mehmed által", "700 000 négyzetméter terület", "4 nagy belső udvar", "Híres Hárem részleg"],
+      ro: ["Construit în 1459 de Mahomed II", "700.000 metri pătrați", "4 curți principale", "Secțiunea faimoasă a haremului"],
+      en: ["Built 1459 by Mehmed II", "700,000 square meters", "4 main courtyards", "Famous Harem section"],
+    },
+  },
   {
     id: "hagia-sophia-history-v2",
     type: "monument",
     parent: "TR-34",
     coords: [28.979, 41.008],
-    name: { de: "Hagia Sophia", hu: "Hagia Sophia", ro: "Hagia Sofia", en: "Hagia Sophia" },
+    name: { de: "Hagia Sophia", hu: "Hagia Sophia", ro: "Hagia Sofia", en: "Hagia Sophia",
+image: "/poi-images/hagia-sophia-history-v2.webp"
+},
     description: { de: "Die Hagia Sophia, ursprünglich eine byzantinische Kirche, war für fast tausend Jahre das größte Gebäude der Welt.", hu: "A Hagia Sophia, eredetileg bizánci templom, majdnem ezer évig a világ legnagyobb épülete volt.", ro: "Hagia Sofia, inițial o biserică bizantină, a fost cea mai mare clădire din lume pentru aproape o mie de ani.", en: "Hagia Sophia, originally a Byzantine church, was the largest building in the world for almost a thousand years." },
     facts: {
       de: ["Erbaut im 6. Jahrhundert unter Kaiser Justinian.", "Wurde später als Moschee und Museum genutzt."],
       hu: ["A 6. században épült I. Justinianus császár alatt.", "Később mecsetként és múzeumként is használták."],
       ro: ["Construită în secolul al VI-lea sub împăratul Iustinian.", "A fost folosită mai târziu ca moschee și muzeu."],
       en: ["Built in the 6th century under Emperor Justinian.", "Was later used as a mosque and a museum."]
-    }, image: "/poi-images/hagia-sophia-history-v2.webp"},
+    }, image: "/poi-images/hagia-sophia-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Als Meisterwerk byzantinischer Architektur wurde sie im 6. Jahrhundert als Kirche geweiht. Ihre riesige Kuppel prägt seit 1.500 Jahren Istanbuls Skyline.",
+      hu: "A bizánci építészet remekműve a 6. században épült templomként, majd mecsetté alakították. Hatalmas kupolája immár 1500 éve meghatározza Isztambul látképét.",
+      ro: "O capodoperă a arhitecturii bizantine, a fost sfințită în secolul VI ca biserică și ulterior transformată în moschee. Cupola sa uriașă domină orizontul Istanbulului de 1.500 de ani.",
+      en: "A masterpiece of Byzantine architecture, it was consecrated in the 6th century as a church. Its massive dome has defined Istanbul's skyline for 1,500 years.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 532-537 n. Chr.", "55 Meter Kuppelhöhe", "107 Marmorsäulen", "UNESCO-Welterbe seit 1985"],
+      hu: ["Épült i.sz. 532-537 között", "55 méter kupolamagasság", "107 márványoszlop", "UNESCO Világörökség 1985 óta"],
+      ro: ["Construită 532-537 d.Hr.", "Înălțime cupolă 55 metri", "107 coloane de marmură", "Sit UNESCO din anul 1985"],
+      en: ["Built 532-537 AD", "55 meters dome height", "107 marble columns", "UNESCO World Heritage since 1985"],
+    },
+  },
   {
     id: "ani-history-v2",
     type: "ruin",
     parent: "TR-36",
     coords: [43.640, 40.507],
-    name: { de: "Ani", hu: "Ani", ro: "Ani", en: "Ani" },
+    name: { de: "Ani", hu: "Ani", ro: "Ani", en: "Ani",
+image: "/poi-images/ani-history-v2.webp"
+},
     description: { de: "Ani war einst eine prächtige armenische Hauptstadt, die heute als verlassene Ruinenstadt an der türkisch-armenischen Grenze liegt.", hu: "Ani egykor pompás örmény főváros volt, amely ma elhagyatott romvárosként fekszik a török-örmény határon.", ro: "Ani a fost odată o capitală armeană magnifică, situată astăzi ca un oraș în ruine la granița turco-armeană.", en: "Ani was once a magnificent Armenian capital, now lying as an abandoned ruined city on the Turkish-Armenian border." },
     facts: {
       de: ["Bekannt als die Stadt der 1001 Kirchen.", "War ein wichtiger Knotenpunkt der Seidenstraße."],
       hu: ["Az 1001 templom városaként ismert.", "A selyemút egyik fontos csomópontja volt."],
       ro: ["Cunoscut sub numele de Orașul celor 1001 de Biserici.", "A fost un punct cheie pe Drumul Mătăsii."],
       en: ["Known as the City of 1001 Churches.", "Was a key hub on the Silk Road."]
-    }, image: "/poi-images/ani-history-v2.webp"},
+    }, image: "/poi-images/ani-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die mittelalterliche armenische Hauptstadt an der Seidenstraße war als Stadt der 1.001 Kirchen bekannt. Ihre Ruinen liegen heute verlassen an der Grenze zu Armenien.",
+      hu: "A Selyemút mentén fekvő középkori örmény főváros az 1001 templom városaként volt ismert. Monumentális romjai ma elhagyatottan állnak az örmény határ közelében.",
+      ro: "Capitala armeană medievală de pe Drumul Mătăsii era cunoscută drept orașul celor 1.001 de biserici. Ruinele sale monumentale zac astăzi abandonate la granița cu Armenia.",
+      en: "This medieval Armenian capital on the Silk Road was once known as the City of 1,001 Churches. Its grand ruins now stand abandoned near the modern border with Armenia.",
+    },
+    factsAdvanced: {
+      de: ["Über 100.000 Einwohner (Peak)", "UNESCO-Welterbe seit 2016", "Kathedrale von Ani", "Einstige Hauptstadt (961 n. Chr.)"],
+      hu: ["Csúcson 100 000+ lakos", "UNESCO Világörökség 2016 óta", "Ani katedrális romjai", "Főváros i.sz. 961-től"],
+      ro: ["Peste 100.000 locuitori (vârf)", "Sit UNESCO din anul 2016", "Catedrala din Ani", "Capitală din anul 961 d.Hr."],
+      en: ["Peak population 100,000+", "UNESCO World Heritage since 2016", "Cathedral of Ani", "Capital city from 961 AD"],
+    },
+  },
   {
     id: "catalhoyuk-history-v2",
     type: "historical-site",
     parent: "TR-42",
     coords: [32.827, 37.667],
-    name: { de: "Çatalhöyük", hu: "Çatalhöyük", ro: "Çatalhöyük", en: "Çatalhöyük" },
+    name: { de: "Çatalhöyük", hu: "Çatalhöyük", ro: "Çatalhöyük", en: "Çatalhöyük",
+image: "/poi-images/catalhoyuk-history-v2.webp"
+},
     description: { de: "Çatalhöyük ist eine der ältesten und größten stadtähnlichen Siedlungen der Jungsteinzeit.", hu: "Çatalhöyük az újkőkorszak egyik legrégebbi és legnagyobb városszerű települése.", ro: "Çatalhöyük este una dintre cele mai vechi și mai mari așezări de tip urban din perioada neolitică.", en: "Çatalhöyük is one of the oldest and largest urban-like settlements of the Neolithic period." },
     facts: {
       de: ["Die Häuser hatten keine Türen und wurden über das Dach betreten.", "Bewohnt zwischen 7100 und 5700 vor Christus."],
       hu: ["A házaknak nem voltak ajtajuk, a tetőn keresztül jutottak be.", "Kr. e. 7100 és 5700 között lakták."],
       ro: ["Casele nu aveau uși și se intra prin acoperiș.", "Locuit între anii 7100 și 5700 î.Hr."],
       en: ["The houses had no doors and were entered through the roof.", "Inhabited between 7100 and 5700 BC."]
-    }, image: "/poi-images/catalhoyuk-history-v2.webp"},
+    }, image: "/poi-images/catalhoyuk-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese neolithische Siedlung gilt als eine der ältesten Städte der Welt. Die Häuser wurden dicht aneinander ohne Straßen gebaut, wobei der Zugang über die Dächer erfolgte.",
+      hu: "Ez az újkőkori település a világ egyik legrégebbi városának számít. A házak szorosan egymás mellé, utcák nélkül épültek, a lakók a tetőkön keresztül közlekedtek.",
+      ro: "Această așezare neolitică este considerată unul dintre primele orașe din lume. Casele erau construite lipite, fără străzi, accesul realizându-se prin trape în acoperiș.",
+      en: "This Neolithic settlement is considered one of the world's oldest urban centers. Houses were built tightly together without streets, with access gained through roof hatches.",
+    },
+    factsAdvanced: {
+      de: ["Bewohnt 7100-5700 v. Chr.", "Bis zu 10.000 Einwohner", "UNESCO-Welterbe seit 2012", "Zentrum des Obsidianhandels"],
+      hu: ["Lakott i.e. 7100-5700 között", "Akár 10 000 lakos", "UNESCO Világörökség 2012 óta", "Obszidiánkereskedelem központja"],
+      ro: ["Locuit 7100-5700 î.Hr.", "Până la 10.000 locuitori", "Sit UNESCO din anul 2012", "Centru de comerț cu obsidian"],
+      en: ["Inhabited 7100-5700 BCE", "Up to 10,000 residents", "UNESCO World Heritage since 2012", "Obsidian trade center"],
+    },
+  },
   {
     id: "pergamon-history-v2",
     type: "ruin",
     parent: "TR-35",
     coords: [27.184, 39.131],
-    name: { de: "Pergamon", hu: "Pergamon", ro: "Pergam", en: "Pergamon" },
+    name: { de: "Pergamon", hu: "Pergamon", ro: "Pergam", en: "Pergamon",
+image: "/poi-images/pergamon-history-v2.webp"
+},
     description: { de: "Pergamon war eine bedeutende antike Stadt und ein kulturelles Zentrum in Kleinasien, berühmt für seinen Altar.", hu: "Pergamon egy jelentős ókori város és kulturális központ volt Kis-Ázsiában, oltáráról volt híres.", ro: "Pergam a fost un oraș antic important și un centru cultural în Asia Mică, faimos pentru altarul său.", en: "Pergamon was a major ancient city and a cultural center in Asia Minor, famous for its altar." },
     facts: {
       de: ["Besaß die zweitgrößte Bibliothek der antiken Welt.", "Der originale Pergamonaltar befindet sich heute in Berlin."],
       hu: ["Az ókori világ második legnagyobb könyvtárával rendelkezett.", "Az eredeti Pergamon-oltár ma Berlinben található."],
       ro: ["Deținea a doua cea mai mare bibliotecă din lumea antică.", "Altarul original de la Pergam se află astăzi la Berlin."],
       en: ["Housed the second-largest library in the ancient world.", "The original Pergamon Altar is now located in Berlin."]
-    }, image: "/poi-images/pergamon-history-v2.webp"},
+    }, image: "/poi-images/pergamon-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hauptstadt der Attaliden beherbergte eine der größten Bibliotheken der Antike. Das steilste Theater der Welt schmiegt sich dramatisch an den Hang der Akropolis.",
+      hu: "Az Attalida-dinasztia fővárosa az ókor egyik legnagyobb könyvtárának adott otthont. A világ legmeredekebb színháza drámai módon simul az akropolisz domboldalához.",
+      ro: "Capitala dinastiei Attalide a găzduit una dintre cele mai mari biblioteci ale antichității. Teatrul său, cel mai abrupt din lume, este situat spectaculos pe coasta acropolei.",
+      en: "The capital of the Attalid dynasty once housed one of the largest libraries in antiquity. Its theater, the steepest in the world, is dramatically set into the acropolis hillside.",
+    },
+    factsAdvanced: {
+      de: ["200.000 Schriftrollen (Bibliothek)", "Altar des Zeus (Pergamonaltar)", "80 Grad Theaterneigung", "UNESCO-Welterbe seit 2014"],
+      hu: ["200 000 tekercs a könyvtárban", "Zeusz-oltár helyszíne", "80 fokos dőlésszögű színház", "UNESCO Világörökség 2014 óta"],
+      ro: ["200.000 de manuscrise", "Altarul lui Zeus", "Înclinație teatru de 80 grade", "Sit UNESCO din anul 2014"],
+      en: ["200,000 scrolls in library", "Site of Altar of Zeus", "80-degree theater slope", "UNESCO World Heritage since 2014"],
+    },
+  },
   {
     id: "aphrodisias-history-v2",
     type: "ruin",
     parent: "TR-09",
     coords: [28.724, 37.708],
-    name: { de: "Aphrodisias", hu: "Aphrodisias", ro: "Aphrodisias", en: "Aphrodisias" },
+    name: { de: "Aphrodisias", hu: "Aphrodisias", ro: "Aphrodisias", en: "Aphrodisias",
+image: "/poi-images/aphrodisias-history-v2.webp"
+},
     description: { de: "Aphrodisias war eine kleine antike griechische Stadt in der historischen Region Karien, berühmt für ihren Aphrodite-Kult.", hu: "Aphrodisias egy kis ókori görög város volt a történelmi Kária régióban, híres volt Aphrodité-kultuszáról.", ro: "Aphrodisias a fost un mic oraș grecesc antic în regiunea istorică Caria, faimos pentru cultul său dedicat Afroditei.", en: "Aphrodisias was a small ancient Greek city in the historic region of Caria, famous for its cult of Aphrodite." },
     facts: {
       de: ["Die Stadt hatte eine hoch angesehene Bildhauerschule.", "Das antike Stadion ist eines der am besten erhaltenen weltweit."],
       hu: ["A városnak nagyra becsült szobrásziskolája volt.", "Az ókori stadion a világ egyik legjobb állapotban fennmaradt stadionja."],
       ro: ["Orașul avea o școală de sculptură foarte apreciată.", "Stadionul antic este unul dintre cele mai bine conservate din lume."],
       en: ["The city had a highly regarded school of sculpture.", "The ancient stadium is one of the best-preserved in the world."]
-    }, image: "/poi-images/aphrodisias-history-v2.webp"},
+    }, image: "/poi-images/aphrodisias-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Benannt nach der Liebesgöttin Aphrodite, war diese Stadt ein bedeutendes Zentrum für Bildhauerei. Der Tempel der Aphrodite und das Stadion sind beeindruckend erhalten.",
+      hu: "Aphrodité istennő után elnevezett város az ókori szobrászat egyik legfontosabb központja volt. Aphrodité temploma és a hatalmas stadion kiváló állapotban maradt fenn.",
+      ro: "Numit după zeița Afrodita, acest oraș a fost un centru major al sculpturii antice. Templul Afroditei și stadionul imens sunt remarcabil conservate până în prezent.",
+      en: "Named after the goddess of love, Aphrodite, this city was a renowned center for sculpture. The Temple of Aphrodite and its massive stadium remain remarkably well-preserved.",
+    },
+    factsAdvanced: {
+      de: ["Stadion für 30.000 Personen", "Tempel aus dem 1. Jh. v. Chr.", "UNESCO-Welterbe seit 2017", "Monumentales Tetrapylon-Tor"],
+      hu: ["30 000 férőhelyes stadion", "Templom az i.e. 1. századból", "UNESCO Világörökség 2017 óta", "Monumentális Tetrapylon-kapu"],
+      ro: ["Stadion de 30.000 persoane", "Templu din sec. I î.Hr.", "Sit UNESCO din anul 2017", "Poarta monumentală Tetrapylon"],
+      en: ["Stadium for 30,000 people", "Temple from 1st century BCE", "UNESCO World Heritage since 2017", "Monumental Tetrapylon gate"],
+    },
+  },
   {
     id: "termessos-history-v2",
     type: "ruin",
     parent: "TR-07",
     coords: [30.464, 36.982],
-    name: { de: "Termessos", hu: "Termesszosz", ro: "Termessos", en: "Termessos" },
+    name: { de: "Termessos", hu: "Termesszosz", ro: "Termessos", en: "Termessos",
+image: "/poi-images/termessos-history-v2.webp"
+},
     description: { de: "Termessos ist eine der am besten erhaltenen antiken Städte der Türkei, dramatisch in einem steilen Tal gelegen.", hu: "Termesszosz Törökország egyik legjobb állapotban fennmaradt ókori városa, drámai módon egy meredek völgyben helyezkedik el.", ro: "Termessos este unul dintre cele mai bine conservate orașe antice din Turcia, situat dramatic într-o vale abruptă.", en: "Termessos is one of the best-preserved ancient cities in Turkey, dramatically located in a steep valley." },
     facts: {
       de: ["Sogar Alexander der Große scheiterte bei dem Versuch, die Stadt zu erobern.", "Befindet sich auf einer Höhe von über 1000 Metern."],
       hu: ["Még Nagy Sándor is kudarcot vallott a város meghódítási kísérleténél.", "Több mint 1000 méteres magasságban található."],
       ro: ["Chiar și Alexandru cel Mare a eșuat în încercarea de a cuceri orașul.", "Se află la o altitudine de peste 1000 de metri."],
       en: ["Even Alexander the Great failed in his attempt to conquer the city.", "Located at an altitude of over 1000 meters."]
-    }, image: "/poi-images/termessos-history-v2.webp"},
+    }, image: "/poi-images/termessos-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese unbezwingbare pisidische Stadt liegt hoch im Taurusgebirge. Selbst Alexander der Große scheiterte 333 v. Chr. an der Einnahme dieser in wilde Natur eingebetteten Festung.",
+      hu: "Ez a bevehetetlen piszidiai város magasan a Toros-hegységben fekszik. Még Nagy Sándor sem tudta elfoglalni i.e. 333-ban ezt a vad természeti környezetbe épült erődöt.",
+      ro: "Acest oraș pisidian inexpugnabil este situat sus în Munții Taurus. Chiar și Alexandru cel Mare a eșuat în cucerirea sa în 333 î.Hr. datorită poziției sale naturale.",
+      en: "This unconquerable Pisidian city is perched high in the Taurus Mountains. Even Alexander the Great failed to capture this fortress in 333 BCE due to its rugged defenses.",
+    },
+    factsAdvanced: {
+      de: ["1.050 Meter Höhenlage", "Theater für 4.200 Zuschauer", "Gegründet durch Pisidier", "Verlassen nach Erdbeben"],
+      hu: ["1050 méteres magasság", "4200 férőhelyes színház", "Piszidiai alapítás", "Földrengés után elhagyva"],
+      ro: ["Altitudine 1.050 metri", "Teatru de 4.200 locuri", "Origini pisidiene", "Abandonat după cutremur"],
+      en: ["1,050 meters elevation", "Theater for 4,200 spectators", "Pisidian ethnic origins", "Abandoned after earthquake"],
+    },
+  },
   {
     id: "derinkuyu-history-v2",
     type: "historical-site",
     parent: "TR-50",
     coords: [34.735, 38.373],
-    name: { de: "Derinkuyu", hu: "Derinkuyu", ro: "Derinkuyu", en: "Derinkuyu" },
+    name: { de: "Derinkuyu", hu: "Derinkuyu", ro: "Derinkuyu", en: "Derinkuyu",
+image: "/poi-images/derinkuyu-history-v2.webp"
+},
     description: { de: "Derinkuyu ist eine antike unterirdische Stadt, die bis zu 20.000 Menschen mit ihrem Vieh und ihren Vorräten Schutz bot.", hu: "Derinkuyu egy ókori földalatti város, amely akár 20 000 ember számára is menedéket nyújtott állataikkal és készleteikkel együtt.", ro: "Derinkuyu este un oraș subteran antic care oferea adăpost pentru până la 20.000 de oameni, cu vitele și proviziile lor.", en: "Derinkuyu is an ancient underground city that provided shelter for up to 20,000 people along with their livestock and supplies." },
     facts: {
       de: ["Erreicht eine Tiefe von etwa 85 Metern.", "Besteht aus mehreren durch Tunnel verbundenen Ebenen."],
       hu: ["Körülbelül 85 méteres mélységet ér el.", "Több, alagutakkal összekötött szintből áll."],
       ro: ["Atinge o adâncime de aproximativ 85 de metri.", "Este format din mai multe niveluri conectate prin tuneluri."],
       en: ["Reaches a depth of about 85 meters.", "Consists of multiple levels connected by tunnels."]
-    }, image: "/poi-images/derinkuyu-history-v2.webp"},
+    }, image: "/poi-images/derinkuyu-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Diese mehrstöckige unterirdische Stadt bot einst bis zu 20.000 Menschen Schutz vor Angreifern. Sie verfügte über komplexe Belüftungssysteme, Kirchen und Viehställe.",
+      hu: "Ez a többszintes föld alatti város egykor akár 20 000 embernek is menedéket nyújtott. Összetett szellőzőrendszerrel, templomokkal és istállókkal is rendelkezett.",
+      ro: "Acest oraș subteran cu mai multe niveluri a oferit adăpost pentru până la 20.000 de oameni. Dispunea de sisteme complexe de ventilație, biserici și grajduri.",
+      en: "This multi-level underground city once sheltered up to 20,000 people from invaders. It featured complex ventilation systems, churches, and even livestock stables.",
+    },
+    factsAdvanced: {
+      de: ["85 Meter Tiefe", "18 Stockwerke entdeckt", "Bau im 8.-7. Jh. v. Chr.", "Rollsteintüren zum Schutz"],
+      hu: ["85 méter mély", "18 felfedezett szint", "Épült i.e. 8-7. században", "Kőkerék-ajtók a védelemhez"],
+      ro: ["Adâncime de 85 metri", "18 niveluri descoperite", "Construit în sec. VIII-VII î.Hr.", "Uși din roți de piatră"],
+      en: ["85 meters deep", "18 levels discovered", "Built 8th-7th century BCE", "Stone wheel security doors"],
+    },
+  },
   {
     id: "myra-history-v2",
     type: "ruin",
     parent: "TR-07",
     coords: [29.980, 36.258],
-    name: { de: "Myra", hu: "Müra", ro: "Myra", en: "Myra" },
+    name: { de: "Myra", hu: "Müra", ro: "Myra", en: "Myra",
+image: "/poi-images/myra-history-v2.webp"
+},
     description: { de: "Myra war eine bedeutende lykische Stadt und ist bekannt für ihre in Felsen gehauenen Gräber und das antike Theater.", hu: "Müra egy jelentős lükiai város volt, amely sziklába vájt sírjairól és ókori színházáról ismert.", ro: "Myra a fost un important oraș lician și este cunoscut pentru mormintele sale tăiate în stâncă și teatrul antic.", en: "Myra was a major Lycian city and is known for its rock-cut tombs and ancient theater." },
     facts: {
       de: ["Nikolaus von Myra war hier im 4. Jahrhundert Bischof.", "Die lykischen Felsengräber sind in die Klippen eingemeißelt."],
       hu: ["Myrai Szent Miklós itt volt püspök a 4. században.", "A lükiai sziklasírok a sziklafalba vannak vésve."],
       ro: ["Nicolae de Myra a fost episcop aici în secolul al IV-lea.", "Mormintele rupestre liciene sunt sculptate în stânci."],
       en: ["Nicholas of Myra was bishop here in the 4th century.", "The Lycian rock tombs are carved into the cliffs."]
-    }, image: "/poi-images/myra-history-v2.webp"},
+    }, image: "/poi-images/myra-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die antike lykische Stadt ist berühmt für ihre beeindruckenden Felsengräber und das römische Theater. Sie war die Heimat von St. Nikolaus, dem Vorbild für den Weihnachtsmann.",
+      hu: "Az ókori lükiai város lenyűgöző sziklasírjairól és római színházáról híres. Itt élt Szent Miklós püspök, aki a későbbi Mikulás-alak és a karácsonyi hagyományok alapja lett.",
+      ro: "Orașul antic lician este faimos pentru mormintele sale rupestre impresionante și teatrul roman. A fost casa Sfântului Nicolae, cel care a inspirat legenda lui Moș Crăciun.",
+      en: "This ancient Lycian city is famous for its stunning rock-cut tombs and Roman theater. It was the home of Saint Nicholas, the historical inspiration for Santa Claus.",
+    },
+    factsAdvanced: {
+      de: ["Lykische Felsengräber", "Kirche des Hl. Nikolaus", "Gegründet im 5. Jh. v. Chr.", "Wichtige Hafenstadt am Fluss"],
+      hu: ["Lükiai sziklasírok", "Szent Miklós-templom", "Alapítva i.e. 5. században", "Fontos folyami kikötőváros"],
+      ro: ["Morminte rupestre liciene", "Biserica Sfântului Nicolae", "Fondat în sec. V î.Hr.", "Oraș portuar pe râu"],
+      en: ["Lycian rock-cut tombs", "St. Nicholas Church", "Founded 5th century BCE", "Major river port city"],
+    },
+  },
   {
     id: "anitkabir-history-v2",
     type: "monument",
     parent: "TR-06",
     coords: [32.836, 39.925],
-    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir" },
+    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir",
+image: "/poi-images/anitkabir-history-v2.webp"
+},
     description: { de: "Anıtkabir ist das monumentale Mausoleum von Mustafa Kemal Atatürk, dem Gründer der modernen Türkischen Republik.", hu: "Az Anıtkabir Mustafa Kemal Atatürknek, a modern Török Köztársaság alapítójának monumentális mauzóleuma.", ro: "Anıtkabir este mausoleul monumental al lui Mustafa Kemal Atatürk, fondatorul Republicii Turce moderne.", en: "Anıtkabir is the monumental mausoleum of Mustafa Kemal Atatürk, the founder of the modern Turkish Republic." },
     facts: {
       de: ["Der Bau dauerte fast zehn Jahre von 1944 bis 1953.", "Zieht jährlich Millionen von Besuchern an."],
       hu: ["Az építkezés majdnem tíz évig tartott, 1944-től 1953-ig.", "Évente látogatók millióit vonzza."],
       ro: ["Construcția a durat aproape zece ani, din 1944 până în 1953.", "Atrage milioane de vizitatori anual."],
       en: ["Construction took nearly ten years from 1944 to 1953.", "Attracts millions of visitors annually."]
-    }, image: "/poi-images/anitkabir-history-v2.webp"},
+    }, image: "/poi-images/anitkabir-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mausoleum von Mustafa Kemal Atatürk, dem Gründer der modernen Türkei, ist ein monumentales Beispiel nationaler Architektur mit hethitischen und modernen Elementen.",
+      hu: "Mustafa Kemal Atatürknek, a modern Törökország alapítójának mauzóleuma a nemzeti építészet monumentális példája. Hettita, szeldzsuk és modern stílusjegyeket ötvöz.",
+      ro: "Mausoleul lui Mustafa Kemal Atatürk, fondatorul Turciei moderne, este un exemplu monumental de arhitectură națională. Îmbină elemente hitite, selgiucide și moderne.",
+      en: "The mausoleum of Mustafa Kemal Atatürk, founder of modern Turkey, is a monumental feat of architecture. It blends Hittite, Seljuk, and modern Turkish design elements.",
+    },
+    factsAdvanced: {
+      de: ["Fertiggestellt 1953", "Halle der Ehre", "Straße der Löwen", "750.000 Quadratmeter Gelände"],
+      hu: ["1953-ban fejezték be", "Dicsőség Csarnoka", "Oroszlános út", "750 000 négyzetméteres terület"],
+      ro: ["Finalizat în anul 1953", "Sala de Onoare", "Drumul Leilor", "Suprafață de 750.000 mp"],
+      en: ["Completed in 1953", "Hall of Honor", "Lion Road promenade", "750,000 square meter site"],
+    },
+  },
   {
     id: "zeugma-history-v2",
     type: "ruin",
     parent: "TR-27",
     coords: [37.868, 37.058],
-    name: { de: "Zeugma", hu: "Zeugma", ro: "Zeugma", en: "Zeugma" },
+    name: { de: "Zeugma", hu: "Zeugma", ro: "Zeugma", en: "Zeugma",
+image: "/poi-images/zeugma-history-v2.webp"
+},
     description: { de: "Zeugma war eine antike Stadt am Euphrat, deren unglaubliche römische Mosaike heute Weltruhm genießen.", hu: "Zeugma egy ókori város volt az Eufrátesz mentén, amelynek hihetetlen római mozaikjai ma világhírűek.", ro: "Zeugma a fost un oraș antic pe Eufrat, ale cărui incredibile mozaicuri romane se bucură astăzi de faimă mondială.", en: "Zeugma was an ancient city on the Euphrates, whose incredible Roman mosaics now enjoy world fame." },
     facts: {
       de: ["Ein Großteil der Stadt wurde durch einen Staudamm überflutet.", "Das Zeugma-Mosaik-Museum in Gaziantep beherbergt die Funde."],
       hu: ["A város nagy részét egy gát elárasztotta.", "A gaziantepi Zeugma Mozaikmúzeum ad otthont a leleteknek."],
       ro: ["O mare parte a orașului a fost inundată de un baraj.", "Muzeul Mozaicurilor din Zeugma din Gaziantep găzduiește descoperirile."],
       en: ["A large part of the city was flooded by a dam.", "The Zeugma Mosaic Museum in Gaziantep houses the finds."]
-    }, image: "/poi-images/zeugma-history-v2.webp"},
+    }, image: "/poi-images/zeugma-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die antike Stadt am Euphrat war berühmt für ihre luxuriösen Villen und exquisiten Mosaike. Das Mosaik-Museum in Gaziantep zeigt die vor der Flutung geretteten Schätze.",
+      hu: "Az Eufrátesz partján fekvő ókori város luxusvilláiról és gyönyörű mozaikjairól volt híres. A gaziantepi múzeumban láthatók a gátépítés előtt kimentett kincsek.",
+      ro: "Orașul antic de pe Eufrat era faimos pentru vilele sale luxoase și mozaicurile rafinate. Muzeul din Gaziantep expune astăzi comorile salvate înainte de inundarea sitului.",
+      en: "This ancient city on the Euphrates was renowned for its luxurious villas and exquisite mosaics. The Gaziantep Museum now displays the treasures rescued before flooding.",
+    },
+    factsAdvanced: {
+      de: ["Mosaik der 'Zigeunerin'", "Gegründet ca. 300 v. Chr.", "1.700 qm Mosaikfläche", "Lage am Euphrat-Fluss"],
+      hu: ["'Cigánylány' mozaik", "Alapítva i.e. 300 körül", "1700 m2 mozaikfelület", "Az Eufrátesz partján"],
+      ro: ["Mozaicul 'Fata Țigancă'", "Fondat circa 300 î.Hr.", "1.700 mp de mozaicuri", "Situat pe râul Eufrat"],
+      en: ["'Gypsy Girl' mosaic", "Founded circa 300 BCE", "1,700 square meters of mosaics", "Located on Euphrates River"],
+    },
+  },
   {
     id: "aspendos-history-v2",
     type: "historical-site",
     parent: "TR-07",
     coords: [31.172, 36.938],
-    name: { de: "Aspendos", hu: "Aszpendosz", ro: "Aspendos", en: "Aspendos" },
+    name: { de: "Aspendos", hu: "Aszpendosz", ro: "Aspendos", en: "Aspendos",
+image: "/poi-images/aspendos-history-v2.webp"
+},
     description: { de: "Aspendos ist eine antike Stadt, die für ihr außergewöhnlich gut erhaltenes römisches Theater bekannt ist.", hu: "Aszpendosz egy ókori város, amely kivételesen jó állapotban fennmaradt római színházáról ismert.", ro: "Aspendos este un oraș antic cunoscut pentru teatrul său roman excepțional de bine conservat.", en: "Aspendos is an ancient city known for its exceptionally well-preserved Roman theater." },
     facts: {
       de: ["Das Theater fasste in der Antike bis zu 15.000 Zuschauer.", "Es wird auch heute noch für Aufführungen genutzt."],
       hu: ["A színház az ókorban akár 15 000 néző befogadására is alkalmas volt.", "Ma is használják előadásokra."],
       ro: ["Teatrul putea găzdui până la 15.000 de spectatori în antichitate.", "Este folosit și astăzi pentru spectacole."],
       en: ["The theater accommodated up to 15,000 spectators in antiquity.", "It is still used today for performances."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das römische Theater von Aspendos gilt als eines der am besten erhaltenen der Welt. Die beeindruckende Akustik wird noch heute für Opern- und Ballettaufführungen genutzt.",
+      hu: "Az aszpendoszi római színház a világ egyik legjobb állapotban fennmaradt ókori építménye. Kiváló akusztikáját ma is használják opera- és balettelőadások megtartására.",
+      ro: "Teatrul roman din Aspendos este considerat unul dintre cele mai bine conservate din lume. Acustica sa impresionantă este utilizată și astăzi pentru spectacole de operă.",
+      en: "The Roman theater of Aspendos is widely considered one of the best-preserved in the world. Its exceptional acoustics are still utilized today for opera and ballet festivals.",
+    },
+    factsAdvanced: {
+      de: ["15.000 Sitzplätze", "Erbaut 155 n. Chr.", "Architekt Zenon", "96 Meter lange Fassade"],
+      hu: ["15 000 férőhelyes", "Épült i.sz. 155-ben", "Zenón építész műve", "96 méter hosszú homlokzat"],
+      ro: ["Capacitate 15.000 locuri", "Construit în 155 d.Hr.", "Arhitectul Zenon", "Fațadă de 96 metri lungime"],
+      en: ["15,000 seating capacity", "Built 155 AD", "Designed by architect Zenon", "96-meter long facade"],
+    },
   }
 ];

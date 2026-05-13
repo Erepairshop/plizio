@@ -7,7 +7,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-CAL",
     coords: [-77.14, -12.05],
-    name: { de: "Hafen von Callao", hu: "Callao kikötője", ro: "Portul Callao", en: "Port of Callao" },
+    name: { de: "Hafen von Callao", hu: "Callao kikötője", ro: "Portul Callao", en: "Port of Callao",
+image: "/poi-images/port-callao-economic-v2.webp"
+},
     description: {
       de: "Der wichtigste und größte Hafen Perus, der den Großteil des internationalen Handels des Landes abwickelt.",
       hu: "Peru legfontosabb és legnagyobb kikötője, amely az ország nemzetközi kereskedelmének nagy részét bonyolítja.",
@@ -39,7 +41,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-ARE",
     coords: [-72.1, -16.99],
-    name: { de: "Hafen von Matarani", hu: "Matarani kikötője", ro: "Portul Matarani", en: "Port of Matarani" },
+    name: { de: "Hafen von Matarani", hu: "Matarani kikötője", ro: "Portul Matarani", en: "Port of Matarani",
+image: "/poi-images/port-matarani-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutender Seehafen im Süden Perus, der hauptsächlich für den Export von Mineralien aus den nahegelegenen Minen genutzt wird.",
       hu: "Jelentős tengeri kikötő Dél-Peruban, amelyet főként a közeli bányák ásványkincseinek exportjára használnak.",
@@ -71,7 +75,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-LAL",
     coords: [-78.98, -8.22],
-    name: { de: "Hafen von Salaverry", hu: "Salaverry kikötője", ro: "Portul Salaverry", en: "Port of Salaverry" },
+    name: { de: "Hafen von Salaverry", hu: "Salaverry kikötője", ro: "Portul Salaverry", en: "Port of Salaverry",
+image: "/poi-images/port-salaverry-economic-v2.webp"
+},
     description: {
       de: "Ein strategisch wichtiger Hafen für die Region La Libertad, der landwirtschaftliche Produkte und Mineralien exportiert.",
       hu: "Stratégiailag fontos kikötő a La Libertad régió számára, amely mezőgazdasági termékeket és ásványkincseket exportál.",
@@ -103,7 +109,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-ICA",
     coords: [-75.16, -15.35],
-    name: { de: "Hafen von San Juan de Marcona", hu: "San Juan de Marcona kikötője", ro: "Portul San Juan de Marcona", en: "Port of San Juan de Marcona" },
+    name: { de: "Hafen von San Juan de Marcona", hu: "San Juan de Marcona kikötője", ro: "Portul San Juan de Marcona", en: "Port of San Juan de Marcona",
+image: "/poi-images/port-marcona-economic-v2.webp"
+},
     description: {
       de: "Dieser Hafen in der Region Ica wird hauptsächlich für den Export von Eisenerz aus den nahegelegenen Minen genutzt.",
       hu: "Ezt az Ica régióban található kikötőt főként a közeli bányákból származó vasérc exportjára használják.",
@@ -135,7 +143,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-PIU",
     coords: [-81.03, -5.79],
-    name: { de: "Terminal Portuario de Bayóvar", hu: "Bayóvar kikötői terminál", ro: "Terminalul Portuar Bayóvar", en: "Bayóvar Port Terminal" },
+    name: { de: "Terminal Portuario de Bayóvar", hu: "Bayóvar kikötői terminál", ro: "Terminalul Portuar Bayóvar", en: "Bayóvar Port Terminal",
+image: "/poi-images/port-bayovar-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisiertes Hafenterminal in der Region Piura, das hauptsächlich für den Export von Phosphat genutzt wird.",
       hu: "Egy speciális kikötői terminál a Piura régióban, amelyet főként foszfát exportálására használnak.",
@@ -167,7 +177,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-LMA",
     coords: [-77.27, -11.58],
-    name: { de: "Megapuerto de Chancay", hu: "Chancay megakikötő", ro: "Megaportul Chancay", en: "Chancay Megaport" },
+    name: { de: "Megapuerto de Chancay", hu: "Chancay megakikötő", ro: "Megaportul Chancay", en: "Chancay Megaport",
+image: "/poi-images/port-chancay-economic-v2.webp"
+},
     description: {
       de: "Ein großes Tiefwasserhafenprojekt, das den Handel zwischen Südamerika und Asien erheblich steigern soll.",
       hu: "Egy nagy mélyvízi kikötői projekt, amelynek célja a Dél-Amerika és Ázsia közötti kereskedelem jelentős növelése.",
@@ -199,7 +211,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-LOR",
     coords: [-73.25, -3.74],
-    name: { de: "Hafen von Iquitos", hu: "Iquitos kikötője", ro: "Portul Iquitos", en: "Port of Iquitos" },
+    name: { de: "Hafen von Iquitos", hu: "Iquitos kikötője", ro: "Portul Iquitos", en: "Port of Iquitos",
+image: "/poi-images/port-iquitos-economic-v2.webp"
+},
     description: {
       de: "Ein entscheidender Flusshafen am Amazonas, der von hochseetauglichen Schiffen vom Atlantik aus erreicht werden kann.",
       hu: "Döntő fontosságú folyami kikötő az Amazonason, amely tengerjáró hajókkal is elérhető az Atlanti-óceán felől.",
@@ -230,7 +244,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-UCA",
     coords: [-74.53, -8.38],
-    name: { de: "Hafen von Pucallpa", hu: "Pucallpa kikötője", ro: "Portul Pucallpa", en: "Port of Pucallpa" },
+    name: { de: "Hafen von Pucallpa", hu: "Pucallpa kikötője", ro: "Portul Pucallpa", en: "Port of Pucallpa",
+image: "/poi-images/port-pucallpa-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Flusshafen am Río Ucayali, der für den Transport und Handel in der Amazonasregion unerlässlich ist.",
       hu: "Fontos folyami kikötő az Ucayali folyón, amely elengedhetetlen az amazonasi régió közlekedéséhez és kereskedelméhez.",
@@ -261,7 +277,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "port",
     parent: "PE-LOR",
     coords: [-76.11, -5.9],
-    name: { de: "Hafen von Yurimaguas", hu: "Yurimaguas kikötője", ro: "Portul Yurimaguas", en: "Port of Yurimaguas" },
+    name: { de: "Hafen von Yurimaguas", hu: "Yurimaguas kikötője", ro: "Portul Yurimaguas", en: "Port of Yurimaguas",
+image: "/poi-images/port-yurimaguas-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiger Flusshafen am Río Huallaga, der als Knotenpunkt zwischen dem Amazonasgebiet und den Anden dient.",
       hu: "Fontos folyami kikötő a Huallaga folyón, amely csomópontként szolgál az Amazonas és az Andok között.",
@@ -293,7 +311,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-ANC",
     coords: [-77.05, -9.53],
-    name: { de: "Antamina-Mine", hu: "Antamina bánya", ro: "Mina Antamina", en: "Antamina Mine" },
+    name: { de: "Antamina-Mine", hu: "Antamina bánya", ro: "Mina Antamina", en: "Antamina Mine",
+image: "/poi-images/ind-antamina-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Kupfer- und Zinkminen der Welt, die hoch in den Anden liegt.",
       hu: "A világ egyik legnagyobb réz- és cinkbányája, amely magasan az Andok hegységben található.",
@@ -325,7 +345,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-ARE",
     coords: [-71.59, -16.53],
-    name: { de: "Cerro Verde-Mine", hu: "Cerro Verde bánya", ro: "Mina Cerro Verde", en: "Cerro Verde Mine" },
+    name: { de: "Cerro Verde-Mine", hu: "Cerro Verde bánya", ro: "Mina Cerro Verde", en: "Cerro Verde Mine",
+image: "/poi-images/ind-cerroverde-economic-v2.webp"
+},
     description: {
       de: "Eine riesige Kupfermine im Tagebau, die sich in der Nähe der Stadt Arequipa befindet.",
       hu: "Hatalmas külszíni rézbánya, amely Arequipa városának közelében található.",
@@ -357,7 +379,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-APU",
     coords: [-72.33, -14.1],
-    name: { de: "Las Bambas-Mine", hu: "Las Bambas bánya", ro: "Mina Las Bambas", en: "Las Bambas Mine" },
+    name: { de: "Las Bambas-Mine", hu: "Las Bambas bánya", ro: "Mina Las Bambas", en: "Las Bambas Mine",
+image: "/poi-images/ind-lasbambas-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Kupferbergbauprojekt in der Region Apurímac, das zu den größten des Landes zählt.",
       hu: "Jelentős rézbányászati projekt az Apurímac régióban, amely az ország egyik legnagyobbja.",
@@ -389,7 +413,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-MOQ",
     coords: [-70.73, -17.04],
-    name: { de: "Cuajone-Mine", hu: "Cuajone bánya", ro: "Mina Cuajone", en: "Cuajone Mine" },
+    name: { de: "Cuajone-Mine", hu: "Cuajone bánya", ro: "Mina Cuajone", en: "Cuajone Mine",
+image: "/poi-images/ind-cuajone-economic-v2.webp"
+},
     description: {
       de: "Eine bedeutende Kupfermine im Süden Perus, die Teil eines großen Bergbaukomplexes ist.",
       hu: "Jelentős rézbánya Dél-Peruban, amely egy nagy bányászati komplexum része.",
@@ -421,7 +447,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-TAC",
     coords: [-70.61, -17.25],
-    name: { de: "Toquepala-Mine", hu: "Toquepala bánya", ro: "Mina Toquepala", en: "Toquepala Mine" },
+    name: { de: "Toquepala-Mine", hu: "Toquepala bánya", ro: "Mina Toquepala", en: "Toquepala Mine",
+image: "/poi-images/ind-toquepala-economic-v2.webp"
+},
     description: {
       de: "Bekannt für ihren großen Kupferabbau im Tagebau und verfügt über eine eigene Eisenbahnlinie zur Küste.",
       hu: "Nagy külszíni rézkitermeléséről ismert, és saját vasútvonallal rendelkezik a part felé.",
@@ -453,7 +481,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-CAJ",
     coords: [-78.5, -6.97],
-    name: { de: "Yanacocha-Mine", hu: "Yanacocha bánya", ro: "Mina Yanacocha", en: "Yanacocha Mine" },
+    name: { de: "Yanacocha-Mine", hu: "Yanacocha bánya", ro: "Mina Yanacocha", en: "Yanacocha Mine",
+image: "/poi-images/ind-yanacocha-economic-v2.webp"
+},
     description: {
       de: "War einst die größte Goldmine in Südamerika und befindet sich in der Region Cajamarca.",
       hu: "Egykor Dél-Amerika legnagyobb aranybányája volt, amely a Cajamarca régióban található.",
@@ -485,7 +515,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-JUN",
     coords: [-76.17, -11.61],
-    name: { de: "Toromocho-Mine", hu: "Toromocho bánya", ro: "Mina Toromocho", en: "Toromocho Mine" },
+    name: { de: "Toromocho-Mine", hu: "Toromocho bánya", ro: "Mina Toromocho", en: "Toromocho Mine",
+image: "/poi-images/ind-toromocho-economic-v2.webp"
+},
     description: {
       de: "Eine große Kupfer- und Molybdänmine im Tagebau, die auf großer Höhe in der Region Junín liegt.",
       hu: "Nagy külszíni réz- és molibdénbánya, amely nagy magasságban található a Junín régióban.",
@@ -517,7 +549,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-MOQ",
     coords: [-70.61, -17.11],
-    name: { de: "Quellaveco-Mine", hu: "Quellaveco bánya", ro: "Mina Quellaveco", en: "Quellaveco Mine" },
+    name: { de: "Quellaveco-Mine", hu: "Quellaveco bánya", ro: "Mina Quellaveco", en: "Quellaveco Mine",
+image: "/poi-images/ind-quellaveco-economic-v2.webp"
+},
     description: {
       de: "Ein wichtiges und modernes Kupferbergbauprojekt in der Region Moquegua, das hochgradig automatisiert ist.",
       hu: "Fontos és modern rézbányászati projekt a Moquegua régióban, amely nagymértékben automatizált.",
@@ -549,7 +583,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-CUS",
     coords: [-71.78, -14.44],
-    name: { de: "Constancia-Mine", hu: "Constancia bánya", ro: "Mina Constancia", en: "Constancia Mine" },
+    name: { de: "Constancia-Mine", hu: "Constancia bánya", ro: "Mina Constancia", en: "Constancia Mine",
+image: "/poi-images/ind-constancia-economic-v2.webp"
+},
     description: {
       de: "Eine Kupfer- und Molybdänmine im Tagebau in der Provinz Chumbivilcas in Cusco.",
       hu: "Külszíni réz- és molibdénbánya Cusco Chumbivilcas tartományában.",
@@ -581,7 +617,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-LAL",
     coords: [-78.23, -7.94],
-    name: { de: "Lagunas Norte-Mine", hu: "Lagunas Norte bánya", ro: "Mina Lagunas Norte", en: "Lagunas Norte Mine" },
+    name: { de: "Lagunas Norte-Mine", hu: "Lagunas Norte bánya", ro: "Mina Lagunas Norte", en: "Lagunas Norte Mine",
+image: "/poi-images/ind-lagunasnorte-economic-v2.webp"
+},
     description: {
       de: "Eine wichtige Goldmine in den Anden, die sich in der Region La Libertad befindet.",
       hu: "Fontos aranybánya az Andokban, amely a La Libertad régióban található.",
@@ -613,7 +651,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-LAL",
     coords: [-77.85, -7.83],
-    name: { de: "La Arena-Mine", hu: "La Arena bánya", ro: "Mina La Arena", en: "La Arena Mine" },
+    name: { de: "La Arena-Mine", hu: "La Arena bánya", ro: "Mina La Arena", en: "La Arena Mine",
+image: "/poi-images/ind-laarena-economic-v2.webp"
+},
     description: {
       de: "Ein Gold- und Kupferbergbaubetrieb, der zu den regionalen Mineralexporten beiträgt.",
       hu: "Arany- és rézbányászati művelet, amely hozzájárul a regionális ásványkincs-exportokhoz.",
@@ -644,7 +684,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-ICA",
     coords: [-75.1, -15.2],
-    name: { de: "Marcona-Mine", hu: "Marcona bánya", ro: "Mina Marcona", en: "Marcona Mine" },
+    name: { de: "Marcona-Mine", hu: "Marcona bánya", ro: "Mina Marcona", en: "Marcona Mine",
+image: "/poi-images/ind-marcona-economic-v2.webp"
+},
     description: {
       de: "Die einzige große Eisenerzmine in Peru, die sich nahe der Küste in der Region Ica befindet.",
       hu: "Az egyetlen nagy vasércbánya Peruban, amely a tengerpart közelében, az Ica régióban található.",
@@ -676,7 +718,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-PIU",
     coords: [-80.82, -6.08],
-    name: { de: "Phosphatmine von Bayóvar", hu: "Bayóvar foszfátbánya", ro: "Mina de fosfați Bayóvar", en: "Bayóvar Phosphate Mine" },
+    name: { de: "Phosphatmine von Bayóvar", hu: "Bayóvar foszfátbánya", ro: "Mina de fosfați Bayóvar", en: "Bayóvar Phosphate Mine",
+image: "/poi-images/ind-bayovarmine-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Phosphatlagerstätten in Südamerika, die für die Düngemittelproduktion von entscheidender Bedeutung ist.",
       hu: "Dél-Amerika egyik legnagyobb foszfátlelőhelye, amely elengedhetetlen a műtrágyagyártáshoz.",
@@ -708,7 +752,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-CUS",
     coords: [-73.0, -11.75],
-    name: { de: "Camisea-Gasprojekt", hu: "Camisea gázprojekt", ro: "Proiectul de gaze Camisea", en: "Camisea Gas Project" },
+    name: { de: "Camisea-Gasprojekt", hu: "Camisea gázprojekt", ro: "Proiectul de gaze Camisea", en: "Camisea Gas Project",
+image: "/poi-images/ind-camisea-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Erdgasförderprojekt im Amazonas-Regenwald der Region Cusco.",
       hu: "Jelentős földgázkitermelési projekt a Cusco régió amazóniai esőerdejében.",
@@ -739,7 +785,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-PIU",
     coords: [-81.27, -4.57],
-    name: { de: "Raffinerie von Talara", hu: "Talara finomító", ro: "Rafinăria Talara", en: "Talara Refinery" },
+    name: { de: "Raffinerie von Talara", hu: "Talara finomító", ro: "Rafinăria Talara", en: "Talara Refinery",
+image: "/poi-images/ind-talara-economic-v2.webp"
+},
     description: {
       de: "Eine der wichtigsten Ölraffinerien in Peru, die kürzlich umfassend modernisiert wurde.",
       hu: "Peru egyik legfontosabb olajfinomítója, amelyet nemrégiben jelentősen korszerűsítettek.",
@@ -771,7 +819,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-CAL",
     coords: [-77.13, -11.92],
-    name: { de: "Raffinerie La Pampilla", hu: "La Pampilla finomító", ro: "Rafinăria La Pampilla", en: "La Pampilla Refinery" },
+    name: { de: "Raffinerie La Pampilla", hu: "La Pampilla finomító", ro: "Rafinăria La Pampilla", en: "La Pampilla Refinery",
+image: "/poi-images/ind-lapampilla-economic-v2.webp"
+},
     description: {
       de: "Die größte Ölraffinerie in Peru, die sich in der Küstenregion von Callao befindet.",
       hu: "A legnagyobb olajfinomító Peruban, amely a tengerparti Callao régióban található.",
@@ -803,7 +853,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-ANC",
     coords: [-78.59, -9.06],
-    name: { de: "Stahlwerk Siderperu", hu: "Siderperu acélmű", ro: "Oțelăria Siderperu", en: "Siderperu Steelworks" },
+    name: { de: "Stahlwerk Siderperu", hu: "Siderperu acélmű", ro: "Oțelăria Siderperu", en: "Siderperu Steelworks",
+image: "/poi-images/ind-siderperu-economic-v2.webp"
+},
     description: {
       de: "Das erste Stahlwerk, das in Peru gegründet wurde, gelegen in der Küstenstadt Chimbote.",
       hu: "Az első acélgyár, amelyet Peruban alapítottak, a tengerparti Chimbote városában található.",
@@ -835,7 +887,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-MOQ",
     coords: [-71.36, -17.5],
-    name: { de: "Kupferhütte von Ilo", hu: "Ilo rézkohó", ro: "Topitoria de cupru Ilo", en: "Ilo Copper Smelter" },
+    name: { de: "Kupferhütte von Ilo", hu: "Ilo rézkohó", ro: "Topitoria de cupru Ilo", en: "Ilo Copper Smelter",
+image: "/poi-images/ind-ilosmelter-economic-v2.webp"
+},
     description: {
       de: "Verarbeitet Kupfererze aus nahegelegenen Minen und umfasst eine Raffinerie sowie eine Schwefelsäureanlage.",
       hu: "Feldolgozza a közeli bányákból származó rézércet, és tartalmaz egy finomítót, valamint egy kénsavgyárat.",
@@ -867,7 +921,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-LMA",
     coords: [-76.89, -11.98],
-    name: { de: "Zinkraffinerie Cajamarquilla", hu: "Cajamarquilla cinkfinomító", ro: "Rafinăria de zinc Cajamarquilla", en: "Cajamarquilla Zinc Refinery" },
+    name: { de: "Zinkraffinerie Cajamarquilla", hu: "Cajamarquilla cinkfinomító", ro: "Rafinăria de zinc Cajamarquilla", en: "Cajamarquilla Zinc Refinery",
+image: "/poi-images/ind-cajamarquilla-economic-v2.webp"
+},
     description: {
       de: "Eine der größten Zinkraffinerien der Welt, die sich in der Nähe der Hauptstadt Lima befindet.",
       hu: "A világ egyik legnagyobb cinkfinomítója, amely a főváros, Lima közelében található.",
@@ -899,7 +955,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-ARE",
     coords: [-72.32, -15.26],
-    name: { de: "Orcopampa-Mine", hu: "Orcopampa bánya", ro: "Mina Orcopampa", en: "Orcopampa Mine" },
+    name: { de: "Orcopampa-Mine", hu: "Orcopampa bánya", ro: "Mina Orcopampa", en: "Orcopampa Mine",
+image: "/poi-images/ind-orcopampa-economic-v2.webp"
+},
     description: {
       de: "Eine unterirdische Gold- und Silbermine, die in großer Höhe in der Region Arequipa liegt.",
       hu: "Föld alatti arany- és ezüstbánya, amely nagy magasságban, az Arequipa régióban található.",
@@ -931,7 +989,9 @@ export const poiExtraPeruEconomicV2: POI[] = [
     type: "industry",
     parent: "PE-CUS",
     coords: [-71.29, -14.9],
-    name: { de: "Tintaya-Mine", hu: "Tintaya bánya", ro: "Mina Tintaya", en: "Tintaya Mine" },
+    name: { de: "Tintaya-Mine", hu: "Tintaya bánya", ro: "Mina Tintaya", en: "Tintaya Mine",
+image: "/poi-images/ind-tintaya-economic-v2.webp"
+},
     description: {
       de: "Eine historisch bedeutende Kupfermine in der südlichen Andenregion von Cusco.",
       hu: "Történelmileg jelentős rézbánya a dél-andoki Cusco régióban.",

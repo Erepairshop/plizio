@@ -4,7 +4,9 @@ export const czechrepublicEconomicV2: POI[] = [
   {
     id: "czechrepublic-temelin-nuclear-plant-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Temelín", hu: "Temelíni atomerőmű", ro: "Centrala nucleară de la Temelín", en: "Temelín Nuclear Power Station" },
+    name: { de: "Kernkraftwerk Temelín", hu: "Temelíni atomerőmű", ro: "Centrala nucleară de la Temelín", en: "Temelín Nuclear Power Station",
+image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp"
+},
     coords: [14.3752, 49.1802],
     coordinates: { lat: 49.1802, lng: 14.3752 },
     description: {
@@ -19,11 +21,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în anul 2002", "Turnuri de răcire cu înălțimea de 155 de metri", "Operată de compania energetică ČEZ", "Principalul exportator de energie al țării"],
       en: ["Commissioned in 2002", "Cooling towers stand 155 meters tall", "Operated by the ČEZ Group", "Largest electricity exporter in the country"],
     },
-    imageHint: "Temelin Nuclear Power Plant cooling towers and reactor buildings", image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp"},
+    imageHint: "Temelin Nuclear Power Plant cooling towers and reactor buildings",
+    image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Temelín ist der größte Stromerzeuger Tschechiens und nutzt zwei WWER-1000-Reaktoren zur Deckung von etwa 20 Prozent des nationalen Energiebedarfs.",
+      hu: "A temelíni atomerőmű Csehország legnagyobb energiatermelő egysége, amely két VVER-1000 típusú blokkjával az országos áramszükséglet mintegy ötödét biztosítja.",
+      ro: "Centrala nucleară de la Temelín este cel mai mare producător de energie din Cehia, utilizând două reactoare VVER-1000 pentru a acoperi 20% din consumul național.",
+      en: "Temelín is the largest power station in the Czech Republic, using two VVER-1000 pressurized water reactors to generate about 20% of the national electricity.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1987", "Zwei Blöcke mit je 1082 MW", "Höhe der Kühltürme beträgt 155 m", "Inbetriebnahme des ersten Blocks 2000"],
+      hu: ["Az építkezés 1987-ben kezdődött", "Két darab 1082 MW-os blokk üzemel", "A hűtőtornyok magassága 155 méter", "Az első blokkot 2000-ben indították"],
+      ro: ["Construcția a început în anul 1987", "Două unități de câte 1082 MW fiecare", "Turnurile de răcire au 155 m înălțime", "Punerea în funcțiune a primei unități: 2000"],
+      en: ["Construction started in 1987", "Two units with 1,082 MW capacity each", "Cooling towers stand 155 meters tall", "First unit commissioned in 2000"],
+    },
+  },
   {
     id: "czechrepublic-pilsner-urquell-brewery-economic-v2",
     type: "factory",
-    name: { de: "Pilsner Urquell Brauerei", hu: "Plzeňský Prazdroj sörgyár", ro: "Berăria Pilsner Urquell", en: "Pilsner Urquell Brewery" },
+    name: { de: "Pilsner Urquell Brauerei", hu: "Plzeňský Prazdroj sörgyár", ro: "Berăria Pilsner Urquell", en: "Pilsner Urquell Brewery",
+image: "/poi-images/czechrepublic-pilsner-urquell-brewery-economic-v2.webp"
+},
     coords: [13.3888, 49.7475],
     coordinates: { lat: 49.7475, lng: 13.3888 },
     description: {
@@ -39,11 +57,25 @@ export const czechrepublicEconomicV2: POI[] = [
       en: ["Founded by brewer Josef Groll", "Produced the world's first pale lager", "9 kilometers of historic cellars", "Largest brewery in Central Europe"],
     },
     imageHint: "Pilsner Urquell brewery gate in Plzen",
+    descriptionAdvanced: {
+      de: "Die Brauerei Plzeňský Prazdroj in Pilsen ist die Geburtsstätte des ersten hellen, untergärigen Lagerbiers der Welt, das seit 1842 international Maßstäbe setzt.",
+      hu: "A plzeňi sörgyár a világ első aranyszínű, alsó erjesztésű lágerének bölcsője, ahol 1842 óta főzik a nemzetközi mintává vált Pilsner Urquell sört.",
+      ro: "Berăria Plzeňský Prazdroj din Plzeň este locul unde a fost creată prima bere lager blondă din lume în 1842, devenind un etalon global pentru stilul pilsner.",
+      en: "The Pilsner Urquell brewery is the birthplace of the world's first pale lager, produced in Pilsen since 1842 and serving as the model for 70% of global beers.",
+    },
+    factsAdvanced: {
+      de: ["Gründung am 5. Oktober 1842", "Historische Kellertunnel sind 9 km lang", "Jahresproduktion über 11 Mio. Hektoliter", "Export in mehr als 50 Länder weltweit"],
+      hu: ["Alapítási dátum: 1842. október 5.", "A történelmi pincerendszer 9 km hosszú", "Évi 11 millió hektoliter feletti gyártás", "Export a világ több mint 50 országába"],
+      ro: ["Fondată la 5 octombrie 1842", "Tunelele pivniței au 9 km lungime", "Producție anuală de peste 11 mln hectolitri", "Export în peste 50 de țări din lume"],
+      en: ["Founded on October 5, 1842", "Historic cellars span 9 km in length", "Annual production exceeds 11 million hl", "Exported to more than 50 countries"],
+    },
   },
   {
     id: "czechrepublic-hyundai-nosovice-economic-v2",
     type: "factory",
-    name: { de: "Hyundai Werk Nošovice", hu: "Hyundai Nošovice autógyár", ro: "Fabrica Hyundai Nošovice", en: "Hyundai Motor Manufacturing Czech" },
+    name: { de: "Hyundai Werk Nošovice", hu: "Hyundai Nošovice autógyár", ro: "Fabrica Hyundai Nošovice", en: "Hyundai Motor Manufacturing Czech",
+image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp"
+},
     coords: [18.4514, 49.6582],
     coordinates: { lat: 49.6582, lng: 18.4514 },
     description: {
@@ -58,11 +90,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Investiție de peste 1 miliard de euro", "Producția a început în noiembrie 2008", "Exportă în peste 70 de țări", "Peste 3000 de angajați direcți"],
       en: ["Investment of over 1 billion Euros", "Production started in November 2008", "Exports to more than 70 countries", "Over 3,000 direct employees"],
     },
-    imageHint: "Hyundai car factory assembly line or exterior", image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp"},
+    imageHint: "Hyundai car factory assembly line or exterior",
+    image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das hochmoderne Hyundai-Werk in Nošovice ist die einzige Produktionsstätte der Marke in der EU und zeichnet sich durch einen extrem hohen Automatisierungsgrad aus.",
+      hu: "A nošovicei Hyundai gyár a márka egyetlen európai uniós termelőegysége, amely kiemelkedő automatizáltsággal gyártja a népszerű Tucson és i30 modelleket.",
+      ro: "Uzina Hyundai din Nošovice este singura facilitate de producție a mărcii în UE, fiind una dintre cele mai moderne fabrici auto de pe continent.",
+      en: "The Hyundai plant in Nošovice is the brand's only production site in the EU, representing a 1.1 billion euro investment with a high level of automation.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsstart im November 2008", "Kapazität von 350.000 Autos pro Jahr", "Investitionswert rund 1,1 Mrd. Euro", "Über 500 Industrieroboter im Einsatz"],
+      hu: ["A termelés 2008 novemberében indult", "Évi 350 000 gépkocsi gyártási kapacitás", "Beruházási érték: kb. 1,1 milliárd euró", "Több mint 500 ipari robot dolgozik itt"],
+      ro: ["Producția a început în noiembrie 2008", "Capacitate de 350.000 mașini anual", "Investiție de aproximativ 1,1 mld. euro", "Peste 500 de roboți industriali utilizați"],
+      en: ["Production started in November 2008", "Capacity of 350,000 cars per year", "Investment value approx. 1.1 billion EUR", "Over 500 industrial robots in operation"],
+    },
+  },
   {
     id: "czechrepublic-dukovany-nuclear-plant-economic-v2",
     type: "industry",
-    name: { de: "Kernkraftwerk Dukovany", hu: "Dukovanyi atomerőmű", ro: "Centrala nucleară de la Dukovany", en: "Dukovany Nuclear Power Station" },
+    name: { de: "Kernkraftwerk Dukovany", hu: "Dukovanyi atomerőmű", ro: "Centrala nucleară de la Dukovany", en: "Dukovany Nuclear Power Station",
+image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp"
+},
     coords: [16.1504, 49.0851],
     coordinates: { lat: 49.0851, lng: 16.1504 },
     description: {
@@ -77,11 +125,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Primul bloc conectat la rețea în 1985", "Producție anuală de aproximativ 14 TWh", "8 turnuri de răcire de 125 de metri", "Situată în sud-estul Moraviei"],
       en: ["First unit connected to grid in 1985", "Annual production of approx 14 TWh", "8 cooling towers at 125 meters tall", "Located in southeastern Moravia"],
     },
-    imageHint: "Dukovany nuclear power plant with cooling towers", image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp"},
+    imageHint: "Dukovany nuclear power plant with cooling towers",
+    image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Dukovany ist das älteste in Betrieb befindliche Atomkraftwerk Tschechiens und liefert mit seinen vier Reaktoren zuverlässig Grundlaststrom für den Süden Mährens.",
+      hu: "A dukovanyi atomerőmű Csehország legrégebbi működő nukleáris létesítménye, amely négy blokkjával Dél-Morvaország és az ország stabil energiaellátását szolgálja.",
+      ro: "Centrala nucleară de la Dukovany este cea mai veche unitate funcțională din Cehia, furnizând energie de bază prin cele patru reactoare ale sale.",
+      en: "Dukovany is the oldest operating nuclear power plant in the Czech Republic, consisting of four VVER-440 reactors that provide stable base-load electricity.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme zwischen 1985 und 1987", "Gesamtleistung beträgt ca. 2040 MW", "8 Kühltürme mit 125 m Höhe", "Deckung von 13% des tschechischen Bedarfs"],
+      hu: ["Üzembe helyezés 1985 és 1987 között", "Összteljesítménye kb. 2040 MW", "8 darab 125 méter magas hűtőtorony", "A cseh áramigény 13%-át fedezi"],
+      ro: ["Punere în funcțiune între 1985 și 1987", "Capacitate totală de aproximativ 2040 MW", "8 turnuri de răcire de 125 m înălțime", "Acoperă 13% din consumul de energie"],
+      en: ["Commissioned between 1985 and 1987", "Total capacity is approx. 2,040 MW", "8 cooling towers at 125 meters height", "Supplies 13% of Czech electricity needs"],
+    },
+  },
   {
     id: "czechrepublic-tatra-trucks-factory-economic-v2",
     type: "factory",
-    name: { de: "Tatra Lastwagenwerk", hu: "Tatra teherautógyár", ro: "Fabrica de camioane Tatra", en: "Tatra Trucks Factory" },
+    name: { de: "Tatra Lastwagenwerk", hu: "Tatra teherautógyár", ro: "Fabrica de camioane Tatra", en: "Tatra Trucks Factory",
+image: "/poi-images/czechrepublic-tatra-trucks-factory-economic-v2.webp"
+},
     coords: [18.1447, 49.5938],
     coordinates: { lat: 49.5938, lng: 18.1447 },
     description: {
@@ -97,11 +161,25 @@ export const czechrepublicEconomicV2: POI[] = [
       en: ["Founded in 1850 as a wagon factory", "Built Central Europe's first car in 1897", "Famous for air-cooled engines", "Supplier for military and mining sectors"],
     },
     imageHint: "Tatra heavy off-road truck in a factory or testing field",
+    descriptionAdvanced: {
+      de: "Tatra in Kopřivnice gehört zu den ältesten Fahrzeugherstellern der Welt und ist berühmt für sein einzigartiges Fahrgestellkonzept mit Zentralrohrrahmen.",
+      hu: "A kopřivnicei Tatra a világ egyik legrégebbi járműgyártója, amely az egyedülálló, központi csővázas alvázkoncepciójáról és léghűtéses motorjairól ismert.",
+      ro: "Tatra din Kopřivnice este unul dintre cei mai vechi producători de vehicule din lume, faimos pentru conceptul unic de șasiu cu cadru tubular central.",
+      en: "Tatra Trucks in Kopřivnice is one of the world's oldest vehicle manufacturers, renowned for its unique chassis design with a central load-carrying tube.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1850", "Erstes Automobil (Präsident) im Jahr 1897", "Spezialisierung auf schwere Allrad-LKW", "Mehrfache Siege bei der Rallye Dakar"],
+      hu: ["Alapítva 1850-ben", "Első személyautó (Präsident): 1897", "Speciális nehéz tehergépjárművek gyártása", "Többszörös győzelem a Dakar-ralin"],
+      ro: ["Companie fondată în anul 1850", "Prima mașină (Präsident) produsă în 1897", "Specializare în camioane grele 4x4/6x6", "Victorii multiple în Raliul Dakar"],
+      en: ["Founded in 1850", "First automobile (Präsident) built in 1897", "Specializes in heavy off-road trucks", "Multiple victories in the Dakar Rally"],
+    },
   },
   {
     id: "czechrepublic-bata-zlin-complex-economic-v2",
     type: "industry",
-    name: { de: "Bata-Industriekomplex Zlín", hu: "Bata ipari komplexum Zlín", ro: "Complexul industrial Bata Zlín", en: "Bata Industrial Complex Zlín" },
+    name: { de: "Bata-Industriekomplex Zlín", hu: "Bata ipari komplexum Zlín", ro: "Complexul industrial Bata Zlín", en: "Bata Industrial Complex Zlín",
+image: "/poi-images/czechrepublic-bata-zlin-complex-economic-v2.webp"
+},
     coords: [17.6591, 49.2248],
     coordinates: { lat: 49.2248, lng: 17.6591 },
     description: {
@@ -117,11 +195,25 @@ export const czechrepublicEconomicV2: POI[] = [
       en: ["First Czech skyscraper (Building 21)", "Introduction of the assembly line system", "Built satellite factory towns globally", "Former global corporate headquarters"],
     },
     imageHint: "Bata skyscraper Building 21 in Zlin",
+    descriptionAdvanced: {
+      de: "Der Baťa-Industriekomplex in Zlín ist ein herausragendes Beispiel für funktionalistische Architektur und soziale Stadtplanung des frühen 20. Jahrhunderts.",
+      hu: "A zlini Baťa-iparnegyed a 20. század eleji funkcionalista építészet és a modern szociális várostervezés egyik legjelentősebb világörökségi jelöltje.",
+      ro: "Complexul industrial Baťa din Zlín este un exemplu remarcabil de arhitectură funcționalistă și planificare urbană socială din secolul al XX-lea.",
+      en: "The Bata Industrial Complex in Zlín is a prime example of functionalist architecture and corporate urbanism, defining the city's modern identity.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Tomáš Baťa 1894", "Berühmtes Hochhaus 21 ist 77,5 m hoch", "Zlín wurde zur idealen Industriestadt", "Weltweite Einführung der Fließbandarbeit"],
+      hu: ["Tomáš Baťa alapította 1894-ben", "A 21-es épület magassága 77,5 méter", "Zlín az ideális iparváros mintája lett", "Világszintű futószalagos gyártás bevezetése"],
+      ro: ["Fondat de Tomáš Baťa în 1894", "Clădirea 21 are o înălțime de 77,5 m", "Zlín a devenit modelul orașului industrial", "Implementarea globală a benzii de lucru"],
+      en: ["Founded by Tomáš Baťa in 1894", "Building No. 21 is 77.5 meters high", "Zlín was designed as a model factory town", "Pioneered mass assembly line production"],
+    },
   },
   {
     id: "czechrepublic-orlen-unipetrol-litvinov-economic-v2",
     type: "factory",
-    name: { de: "ORLEN Unipetrol Raffinerie Litvínov", hu: "ORLEN Unipetrol finomító Litvínov", ro: "Rafinăria ORLEN Unipetrol Litvínov", en: "ORLEN Unipetrol Refinery Litvínov" },
+    name: { de: "ORLEN Unipetrol Raffinerie Litvínov", hu: "ORLEN Unipetrol finomító Litvínov", ro: "Rafinăria ORLEN Unipetrol Litvínov", en: "ORLEN Unipetrol Refinery Litvínov",
+image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp"
+},
     coords: [13.6134, 50.5958],
     coordinates: { lat: 50.5958, lng: 13.6134 },
     description: {
@@ -136,11 +228,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Capacitate de 5,4 milioane de tone pe an", "Fondată în 1939 ca uzină de hidrogenare", "Conectată la conducta Drujba", "Parte a grupului polonez ORLEN"],
       en: ["Processing capacity of 5.4 million tons", "Founded in 1939 as a hydrogenation plant", "Connected to the Druzhba pipeline", "Part of the Polish ORLEN Group"],
     },
-    imageHint: "Large industrial oil refinery in Litvinov", image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp"},
+    imageHint: "Large industrial oil refinery in Litvinov",
+    image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Raffinerie in Litvínov ist das Herzstück der tschechischen Petrochemie, in der Erdöl zu Kraftstoffen und hochwertigen chemischen Rohstoffen verarbeitet wird.",
+      hu: "A litvínovi finomító a cseh petrolkémiai ipar központja, ahol a kőolajat üzemanyaggá és különféle vegyipari alapanyagokká dolgozzák fel.",
+      ro: "Rafinăria ORLEN Unipetrol din Litvínov este nucleul industriei petrochimice cehe, procesând țiței pentru combustibili și materii prime chimice.",
+      en: "The ORLEN Unipetrol refinery in Litvínov is the hub of the Czech petrochemical industry, processing crude oil into fuels and chemical feedstocks.",
+    },
+    factsAdvanced: {
+      de: ["Verarbeitungskapazität von 5,4 Mio. t/Jahr", "Gründung der Anlage im Jahr 1939", "Größte Raffinerie in der Tschechischen Rep.", "Produktion von Ethylen und Polyethylen"],
+      hu: ["Évi 5,4 millió tonna kőolaj feldolgozása", "A létesítmény alapítása: 1939", "Csehország legnagyobb kőolajfinomítója", "Etilén és polietilén gyártási bázis"],
+      ro: ["Capacitate de 5,4 mln tone pe an", "Fondarea facilității în anul 1939", "Cea mai mare rafinărie din Cehia", "Producție de etilenă și polietilenă"],
+      en: ["Processing capacity of 5.4 million t/year", "The facility was established in 1939", "Largest refinery in the Czech Republic", "Major producer of ethylene and polymers"],
+    },
+  },
   {
     id: "czechrepublic-tpca-toyota-kolin-economic-v2",
     type: "factory",
-    name: { de: "Toyota Werk Kolín", hu: "Toyota gyár Kolín", ro: "Fabrica Toyota Kolín", en: "Toyota Motor Manufacturing Czech Kolín" },
+    name: { de: "Toyota Werk Kolín", hu: "Toyota gyár Kolín", ro: "Fabrica Toyota Kolín", en: "Toyota Motor Manufacturing Czech Kolín",
+image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp"
+},
     coords: [15.2281, 50.0769],
     coordinates: { lat: 50.0769, lng: 15.2281 },
     description: {
@@ -155,11 +263,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Capacitate de 300.000 de mașini pe an", "Producția de serie a început în 2005", "Produce modelele Toyota Aygo X și Yaris", "Cel mai mare angajator din regiunea Kolín"],
       en: ["Production capacity of 300,000 cars", "Serial production started in 2005", "Builds Toyota Aygo X and Yaris models", "Key employer in the Kolín region"],
     },
-    imageHint: "Modern automotive factory exterior in Kolin", image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp"},
+    imageHint: "Modern automotive factory exterior in Kolin",
+    image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Werk in Kolín, ehemals TPCA, ist nun vollständig im Besitz von Toyota und produziert Kleinwagen für den europäischen Markt mit modernster japanischer Effizienz.",
+      hu: "A kolíni autógyár, a korábbi TPCA, ma már teljes egészében a Toyota tulajdona, ahol japán precizitással gyártják az európai piacra szánt kiskocsikat.",
+      ro: "Uzina din Kolín, fosta TPCA, este acum deținută integral de Toyota, producând mașini compacte pentru piața europeană cu eficiență japoneză.",
+      en: "The Kolín plant, formerly TPCA, is now a fully owned Toyota subsidiary, manufacturing small passenger cars using the Toyota Production System.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsbeginn im Februar 2005", "Bau der Modelle Aygo und Yaris", "Investitionsvolumen von 1,3 Mrd. Euro", "Über 3.000 Mitarbeiter am Standort"],
+      hu: ["A gyártás 2005 februárjában indult", "Aygo és Yaris modellek készülnek itt", "1,3 milliárd eurós beruházási érték", "Több mint 3000 munkavállalót foglalkoztat"],
+      ro: ["Producția a început în februarie 2005", "Produce modelele Aygo și Yaris", "Investiție totală de 1,3 mld. euro", "Peste 3.000 de angajați la locație"],
+      en: ["Production started in February 2005", "Manufactures Aygo and Yaris models", "Investment volume of 1.3 billion EUR", "Over 3,000 employees on site"],
+    },
+  },
   {
     id: "czechrepublic-bilina-coal-mine-economic-v2",
     type: "mine",
-    name: { de: "Tagebau Bílina", hu: "Bílina külszíni fejtés", ro: "Mina de cărbune Bílina", en: "Bílina Open-Cast Coal Mine" },
+    name: { de: "Tagebau Bílina", hu: "Bílina külszíni fejtés", ro: "Mina de cărbune Bílina", en: "Bílina Open-Cast Coal Mine",
+image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp"
+},
     coords: [13.7314, 50.5511],
     coordinates: { lat: 50.5511, lng: 13.7314 },
     description: {
@@ -174,11 +298,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Adâncime de peste 200 de metri", "Extracție de lignit de înaltă calitate", "Utilizarea excavatoarelor gigantice", "Alimentează centrala termică Ledvice"],
       en: ["Depth of over 200 meters", "High-quality brown coal extraction", "Uses giant bucket-wheel excavators", "Supplies the Ledvice power plant"],
     },
-    imageHint: "Giant bucket-wheel excavator in an open coal mine", image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp"},
+    imageHint: "Giant bucket-wheel excavator in an open coal mine",
+    image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tagebau Bílina ist das tiefste Braunkohlebergwerk Tschechiens und versorgt das nahegelegene Kraftwerk Ledvice mit dem für die Stromerzeugung notwendigen Brennstoff.",
+      hu: "A bílinai külszíni fejtés Csehország legmélyebb barnakőszén-bányája, amely közvetlenül látja el fűtőanyaggal a szomszédos Ledvice erőművet.",
+      ro: "Mina de cărbune Bílina este cea mai adâncă exploatare la suprafață din Cehia, furnizând lignit pentru centrala electrică din apropiere, Ledvice.",
+      en: "The Bílina open-cast mine is the deepest brown coal mine in the Czech Republic, supplying fuel primarily to the nearby Ledvice power plant.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Tiefe erreicht über 200 Meter", "Förderung von rund 9 Mio. Tonnen jährlich", "Einsatz von Schaufelradbaggern (RK5000)", "Abbaugebiet erstreckt sich über 44 km²"],
+      hu: ["A maximális mélység meghaladja a 200 métert", "Évi kb. 9 millió tonna szén kitermelése", "Óriási RK5000-es marótárcsás kotrók", "A bányaterület 44 négyzetkilométeres"],
+      ro: ["Adâncime maximă de peste 200 m", "Producție de cca 9 mln tone anual", "Utilizează excavatoare gigant RK5000", "Aria minei se întinde pe 44 km²"],
+      en: ["Maximum depth exceeds 200 meters", "Produces about 9 million tons per year", "Uses massive RK5000 bucket-wheel excavators", "Mining area covers 44 square km"],
+    },
+  },
   {
     id: "czechrepublic-kohinoor-hardtmuth-economic-v2",
     type: "factory",
-    name: { de: "Koh-i-Noor Hardtmuth Fabrik", hu: "Koh-i-Noor Hardtmuth gyár", ro: "Fabrica Koh-i-Noor Hardtmuth", en: "Koh-i-Noor Hardtmuth Factory" },
+    name: { de: "Koh-i-Noor Hardtmuth Fabrik", hu: "Koh-i-Noor Hardtmuth gyár", ro: "Fabrica Koh-i-Noor Hardtmuth", en: "Koh-i-Noor Hardtmuth Factory",
+image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp"
+},
     coords: [14.4714, 48.9739],
     coordinates: { lat: 48.9739, lng: 14.4714 },
     description: {
@@ -193,11 +333,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Inventarea minei de creion în 1802", "Exportă în peste 80 de țări", "Numele provine de la faimosul diamant", "Producția celebrelor creioane galbene '1500'"],
       en: ["Invention of the pencil lead in 1802", "Exporting to over 80 countries", "Named after the famous diamond", "Producer of the iconic '1500' yellow pencil"],
     },
-    imageHint: "Koh-i-Noor Hardtmuth factory building or pencils", image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp"},
+    imageHint: "Koh-i-Noor Hardtmuth factory building or pencils",
+    image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Koh-i-Noor Hardtmuth in Budweis ist einer der weltweit ältesten Hersteller von Künstlerbedarf und erfand die moderne Graphitstiftmine mit Tonmischung.",
+      hu: "A České Budějovice-i Koh-i-Noor Hardtmuth a világ egyik legrégebbi írószergyártója, ahol feltalálták a modern grafitceruzák agyaggal kevert belsejét.",
+      ro: "Koh-i-Noor Hardtmuth din České Budějovice este unul dintre cei mai vechi producători de rechizite, inventând mina de creion modernă din grafit și argilă.",
+      en: "Koh-i-Noor Hardtmuth is one of the world's oldest stationery manufacturers, famous for inventing the modern graphite pencil lead mixed with clay.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1790 von Joseph Hardtmuth", "Umzug nach Budweis im Jahr 1848", "Erfindung der Härtegrad-Skala (H, B)", "Produktion von über 4.500 Warenarten"],
+      hu: ["Joseph Hardtmuth alapította 1790-ben", "1848-ban költözött České Budějovicébe", "A keménységi skála feltalálása (H, B)", "Több mint 4500 féle terméket gyártanak"],
+      ro: ["Fondată în 1790 de Joseph Hardtmuth", "Mutată la Budweis în anul 1848", "Inventarea scalei de duritate (H, B)", "Producție de peste 4.500 tipuri de articole"],
+      en: ["Founded in 1790 by Joseph Hardtmuth", "Moved to České Budějovice in 1848", "Inventor of the H/B hardness grading scale", "Produces over 4,500 types of products"],
+    },
+  },
   {
     id: "czechrepublic-petrof-pianos-economic-v2",
     type: "factory",
-    name: { de: "Petrof Klavierfabrik", hu: "Petrof zongoragyár", ro: "Fabrica de piane Petrof", en: "Petrof Pianos Factory" },
+    name: { de: "Petrof Klavierfabrik", hu: "Petrof zongoragyár", ro: "Fabrica de piane Petrof", en: "Petrof Pianos Factory",
+image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp"
+},
     coords: [15.8564, 50.1914],
     coordinates: { lat: 50.1914, lng: 15.8564 },
     description: {
@@ -212,11 +368,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondată de Antonín Petrof", "Exportă în 65 de țări din lume", "Afacere de familie la a 5-a generație", "Centru propriu de cercetare și dezvoltare"],
       en: ["Founded by Antonín Petrof", "Exports to 65 countries worldwide", "5th generation family business", "In-house research and development"],
     },
-    imageHint: "Grand piano production in Petrof factory", image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp"},
+    imageHint: "Grand piano production in Petrof factory",
+    image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Petrof in Hradec Králové ist der größte europäische Hersteller von Flügeln und Klavieren, bekannt für seinen charakteristischen, romantisch-weichen Klang.",
+      hu: "A Hradec Králové-i Petrof Európa legnagyobb zongoragyára, amely világszerte ismert a hangszerei jellegzetes, romantikusan lágy hangzásáról.",
+      ro: "Petrof din Hradec Králové este cel mai mare producător european de piane, renumit pentru sunetul său caracteristic, cald și romantic.",
+      en: "Petrof in Hradec Králové is the largest producer of acoustic grand and upright pianos in Europe, exported to over 65 countries worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1864 von Antonín Petrof", "Handgefertigte Instrumente seit 160 Jahren", "Jährliche Produktion von ca. 2.000 Pianos", "Besitz der Familie Petrof in 5. Generation"],
+      hu: ["Antonín Petrof alapította 1864-ben", "Kézzel készült hangszerek 160 éve", "Évente kb. 2000 zongorát gyártanak", "A Petrof család 5. generációja vezeti"],
+      ro: ["Fondată în 1864 de Antonín Petrof", "Instrumente lucrate manual de 160 de ani", "Producție anuală de cca 2.000 piane", "Deținută de familia Petrof la a 5-a generație"],
+      en: ["Founded in 1864 by Antonín Petrof", "Hand-crafted instruments for 160 years", "Annual production of approx. 2,000 pianos", "Led by the 5th generation of the family"],
+    },
+  },
   {
     id: "czechrepublic-zentiva-prague-economic-v2",
     type: "factory",
-    name: { de: "Zentiva Pharmawerk", hu: "Zentiva gyógyszergyár", ro: "Fabrica de farmaceutice Zentiva", en: "Zentiva Pharmaceutical Plant" },
+    name: { de: "Zentiva Pharmawerk", hu: "Zentiva gyógyszergyár", ro: "Fabrica de farmaceutice Zentiva", en: "Zentiva Pharmaceutical Plant",
+image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp"
+},
     coords: [14.5441, 50.0632],
     coordinates: { lat: 50.0632, lng: 14.5441 },
     description: {
@@ -231,11 +403,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Producție de 120 milioane de cutii", "Prezență în peste 50 de piețe", "Rădăcini ce datează din secolul XV", "Centru de dezvoltare a genericelor"],
       en: ["Production of 120 million packs", "Presence in over 50 markets", "Roots dating back to the 15th century", "Hub for generic drug development"],
     },
-    imageHint: "Modern pharmaceutical laboratory or factory exterior", image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp"},
+    imageHint: "Modern pharmaceutical laboratory or factory exterior",
+    image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Zentiva mit Sitz in Prag ist ein führendes Pharmaunternehmen in Mittel- und Osteuropa, das sich auf die Entwicklung und Produktion hochwertiger Generika spezialisiert hat.",
+      hu: "A prágai székhelyű Zentiva Kelet-Közép-Európa egyik vezető gyógyszergyártója, amely kiváló minőségű generikus készítmények fejlesztésére és gyártására szakosodott.",
+      ro: "Zentiva, cu sediul în Praga, este un lider farmaceutic în Europa Centrală și de Est, specializat în producția de medicamente generice accesibile.",
+      en: "Zentiva is a leading pharmaceutical company in Central and Eastern Europe, based in Prague and specializing in the production of high-quality generics.",
+    },
+    factsAdvanced: {
+      de: ["Wurzeln reichen bis ins Jahr 1488 zurück", "Modernes Werk in Dolní Měcholupy", "Präsenz in über 30 internationalen Märkten", "Über 100 Mio. Packungen jährlich"],
+      hu: ["Gyökerei 1488-ig nyúlnak vissza", "Modern gyár Dolní Měcholupy negyedben", "Jelenlét több mint 30 külföldi piacon", "Évi 100 millió feletti doboz gyógyszer"],
+      ro: ["Rădăcini ce datează din anul 1488", "Fabrică modernă în Dolní Měcholupy", "Prezență pe peste 30 de piețe externe", "Peste 100 mln de cutii produse anual"],
+      en: ["Roots trace back to the year 1488", "Modern plant in Dolní Měcholupy, Prague", "Active in over 30 international markets", "Produces over 100 million packs per year"],
+    },
+  },
   {
     id: "czechrepublic-unipetrol-spolana-economic-v2",
     type: "factory",
-    name: { de: "Spolana Neratovice Chemiewerk", hu: "Spolana Neratovice vegyianyaggyár", ro: "Combinatul chimic Spolana Neratovice", en: "Spolana Neratovice Chemical Plant" },
+    name: { de: "Spolana Neratovice Chemiewerk", hu: "Spolana Neratovice vegyianyaggyár", ro: "Combinatul chimic Spolana Neratovice", en: "Spolana Neratovice Chemical Plant",
+image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp"
+},
     coords: [14.5022, 50.2741],
     coordinates: { lat: 50.2741, lng: 14.5022 },
     description: {
@@ -250,11 +438,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondat în 1898", "Singurul producător ceh de PVC", "Suprafață de peste 250 de hectare", "Peste 80% din producție merge la export"],
       en: ["Founded in 1898", "Only Czech producer of PVC", "Area of over 250 hectares", "Export share exceeding 80%"],
     },
-    imageHint: "Industrial chemical plant with pipes and chimneys", image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp"},
+    imageHint: "Industrial chemical plant with pipes and chimneys",
+    image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Spolana Neratovice ist ein bedeutendes tschechisches Chemieunternehmen, das PVC, Caprolactam und Düngemittel für den heimischen und internationalen Markt produziert.",
+      hu: "A neratovicei Spolana egy jelentős vegyipari komplexum, amely PVC-t, kaprolaktámot és műtrágyát állít elő a hazai és nemzetközi piacok számára.",
+      ro: "Spolana Neratovice este o companie chimică majoră din Cehia, producând PVC, caprolactamă și îngrășăminte pentru piețele interne și externe.",
+      en: "Spolana Neratovice is a major Czech chemical plant specializing in the production of PVC, caprolactam, and inorganic fertilizers for various industries.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Anlage im Jahr 1898", "Gelände umfasst etwa 260 Hektar", "Gehört zur ORLEN Unipetrol Gruppe", "Einziger tschechischer Hersteller von PVC"],
+      hu: ["A létesítményt 1898-ban alapították", "A gyárterület kb. 260 hektáron fekszik", "Az ORLEN Unipetrol csoport tagja", "Csehország egyetlen PVC-gyártója"],
+      ro: ["Uzina a fost fondată în anul 1898", "Platforma industrială ocupă 260 hectare", "Parte a grupului ORLEN Unipetrol", "Singurul producător de PVC din Cehia"],
+      en: ["The facility was founded in 1898", "Industrial site covers about 260 hectares", "Part of the ORLEN Unipetrol group", "The only producer of PVC in the country"],
+    },
+  },
   {
     id: "czechrepublic-continental-barum-economic-v2",
     type: "factory",
-    name: { de: "Continental Barum Reifenwerk", hu: "Continental Barum gumiabroncsgyár", ro: "Fabrica de anvelope Continental Barum", en: "Continental Barum Tire Plant" },
+    name: { de: "Continental Barum Reifenwerk", hu: "Continental Barum gumiabroncsgyár", ro: "Fabrica de anvelope Continental Barum", en: "Continental Barum Tire Plant",
+image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp"
+},
     coords: [17.5364, 49.2074],
     coordinates: { lat: 49.2074, lng: 17.5364 },
     description: {
@@ -269,11 +473,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Producție de 20 milioane anvelope pe an", "Fondată în 1948 prin fuziune", "Peste 4500 de angajați la locație", "Parte a Continental AG din 1993"],
       en: ["Produces 20 million tires annually", "Founded in 1948 through fusion", "Over 4,500 employees on site", "Part of Continental AG since 1993"],
     },
-    imageHint: "Industrial tire manufacturing facility in Otrokovice", image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp"},
+    imageHint: "Industrial tire manufacturing facility in Otrokovice",
+    image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Continental Barum in Otrokovice ist eine der größten Reifenfabriken Europas und ein wichtiger Arbeitgeber in der Region Zlín mit modernsten Fertigungslinien.",
+      hu: "Az otrokovicei Continental Barum Európa egyik legnagyobb gumiabroncsgyára, amely a zlini régió meghatározó ipari központja és munkáltatója.",
+      ro: "Continental Barum din Otrokovice este una dintre cele mai mari fabrici de anvelope din Europa, fiind un pilon economic major al regiunii Zlín.",
+      en: "Continental Barum in Otrokovice is one of Europe's largest tire manufacturing plants, supplying global markets with high-performance rubber products.",
+    },
+    factsAdvanced: {
+      de: ["Marke Barum gegründet im Jahr 1948", "Teil der Continental AG seit 1993", "Produktion von ca. 21 Mio. Reifen/Jahr", "Größte PKW-Reifenfabrik im Konzern"],
+      hu: ["A Barum márkát 1848-ban alapították", "1993 óta a Continental AG tagja", "Évi kb. 21 millió abroncs gyártása", "A konszern legnagyobb gumiabroncsgyára"],
+      ro: ["Marca Barum a fost creată în 1948", "Parte a Continental AG din anul 1993", "Producție de cca 21 mln anvelope/an", "Cea mai mare fabrică de anvelope din grup"],
+      en: ["Barum brand was established in 1948", "Part of Continental AG since 1993", "Produces approx. 21 million tires yearly", "The group's largest car tire factory"],
+    },
+  },
   {
     id: "czechrepublic-prague-stock-exchange-economic-v2",
     type: "landmark",
-    name: { de: "Prager Börse", hu: "Prágai Értéktőzsde", ro: "Bursa de Valori din Praga", en: "Prague Stock Exchange" },
+    name: { de: "Prager Börse", hu: "Prágai Értéktőzsde", ro: "Bursa de Valori din Praga", en: "Prague Stock Exchange",
+image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp"
+},
     coords: [14.4264, 50.0894],
     coordinates: { lat: 50.0894, lng: 14.4264 },
     description: {
@@ -288,11 +508,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Principalul indice este PX", "Membru al Vienna Stock Exchange Group", "Sistem electronic de tranzacționare", "Fondată inițial în 1871"],
       en: ["Main index is the PX", "Member of the Vienna Stock Exchange Group", "Electronic trading system", "Originally founded in 1871"],
     },
-    imageHint: "Modern financial building exterior in Prague", image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp"},
+    imageHint: "Modern financial building exterior in Prague",
+    image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Prager Börse (BCPP) ist der wichtigste Handelsplatz für Wertpapiere in Tschechien und spielt eine zentrale Rolle im Kapitalmarkt der gesamten Region Mitteleuropa.",
+      hu: "A Prágai Értéktőzsde (BCPP) Csehország legfontosabb tőkepiaci intézménye, amely központi szerepet játszik a közép-európai régió értékpapír-kereskedelmében.",
+      ro: "Bursa de Valori din Praga (BCPP) este principala piață de capital din Cehia, fiind un nod financiar esențial pentru regiunea Europei Centrale.",
+      en: "The Prague Stock Exchange (BCPP) is the leading securities market organizer in the Czech Republic and a key financial hub in Central Europe.",
+    },
+    factsAdvanced: {
+      de: ["Ursprüngliche Gründung im Jahr 1871", "Wiedereröffnung nach der Wende 1993", "Leitindex ist der PX-Index", "Gehört zur Gruppe CEESEG"],
+      hu: ["Eredeti alapítása 1871-ben történt", "Újranyitás a rendszerváltás után, 1993", "Fő mutatója a PX-index", "A CEESEG tőzsdecsoport tagja"],
+      ro: ["Fondată inițial în anul 1871", "Redeschisă în 1993 după comunism", "Principalul indice este indicele PX", "Parte a grupului bursier CEESEG"],
+      en: ["Originally established in 1871", "Reopened in 1993 after the revolution", "The main benchmark is the PX index", "Part of the CEESEG exchange group"],
+    },
+  },
   {
     id: "czechrepublic-port-of-decin-economic-v2",
     type: "port",
-    name: { de: "Hafen von Děčín", hu: "Děčíni kikötő", ro: "Portul Děčín", en: "Port of Děčín" },
+    name: { de: "Hafen von Děčín", hu: "Děčíni kikötő", ro: "Portul Děčín", en: "Port of Děčín",
+image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp"
+},
     coords: [14.2188, 50.7741],
     coordinates: { lat: 50.7741, lng: 14.2188 },
     description: {
@@ -307,11 +543,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Cel mai nordic port ceh pe Elba", "Manipulare de mărfuri grele și containere", "Operare tot anul (funcție de nivel)", "Conexiune feroviară directă"],
       en: ["Northernmost Czech port on the Elbe", "Handles heavy cargo and containers", "Year-round operation (level dependent)", "Direct rail connection"],
     },
-    imageHint: "River port with cranes and cargo ships in Decin", image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp"},
+    imageHint: "River port with cranes and cargo ships in Decin",
+    image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Děčín ist der bedeutendste Binnenhafen an der Elbe in Tschechien und dient als wichtiges logistisches Tor für den Güterverkehr nach Norddeutschland.",
+      hu: "Děčín kikötője az Elba legjelentősebb csehországi folyami kikötője, amely fontos logisztikai kapuként szolgál az Észak-Németország felé irányuló áruszállításban.",
+      ro: "Portul Děčín este cel mai important port fluvial de pe Elba din Cehia, servind drept poartă logistică majoră pentru transportul către Germania.",
+      en: "The Port of Děčín is the most significant inland port on the Elbe River in the Czech Republic, acting as a gateway for waterborne cargo to Germany.",
+    },
+    factsAdvanced: {
+      de: ["Letzter schiffbarer Hafen vor der Grenze", "Umschlag von Schwergut und Containern", "Anbindung an das europäische Wasserstraßennetz", "Hafenbecken Loubí mit Krananlagen"],
+      hu: ["Az utolsó hajózható kikötő a határ előtt", "Nehézáruk és konténerek rakodása", "Kapcsolat az európai vízi úthálózattal", "Loubí rakodópart darurendszerekkel"],
+      ro: ["Ultimul port navigabil înainte de graniță", "Manipulează mărfuri grele și containere", "Conectat la rețeaua fluvială europeană", "Terminalul Loubí dotat cu macarale"],
+      en: ["Last navigable port before the border", "Handles heavy cargo and containers", "Connected to European inland waterways", "Loubí terminal features heavy cranes"],
+    },
+  },
   {
     id: "czechrepublic-aero-vodochody-economic-v2",
     type: "factory",
-    name: { de: "Aero Vodochody Flugzeugwerk", hu: "Aero Vodochody repülőgépgyár", ro: "Fabrica de avioane Aero Vodochody", en: "Aero Vodochody Aerospace Plant" },
+    name: { de: "Aero Vodochody Flugzeugwerk", hu: "Aero Vodochody repülőgépgyár", ro: "Fabrica de avioane Aero Vodochody", en: "Aero Vodochody Aerospace Plant",
+image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp"
+},
     coords: [14.3941, 50.2164],
     coordinates: { lat: 50.2164, lng: 14.3941 },
     description: {
@@ -326,11 +578,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondată în 1919", "Producătorul avionului L-39 Albatros", "Dispune de propriul aerodrom", "Peste 6500 de avioane produse"],
       en: ["Founded in 1919", "Producer of the L-39 Albatros", "Operates its own private airfield", "Over 6,500 aircraft produced"],
     },
-    imageHint: "Aero L-39 Albatros aircraft at a factory", image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp"},
+    imageHint: "Aero L-39 Albatros aircraft at a factory",
+    image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Aero Vodochody ist der größte tschechische Flugzeughersteller und weltweit führend im Segment der leichten Jet-Trainer und taktischen Militärflugzeuge.",
+      hu: "Az Aero Vodochody a legnagyobb cseh repülőgépgyártó, amely világszinten is meghatározó a könnyű sugárhajtású kiképzőgépek és katonai repülők piacán.",
+      ro: "Aero Vodochody este cel mai mare producător aeronautic din Cehia, fiind un lider mondial în segmentul avioanelor de antrenament cu reacție.",
+      en: "Aero Vodochody is the largest Czech aerospace manufacturer, renowned globally for its light jet trainers and tactical military aircraft like the L-39.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1919", "Entwickler des legendären L-39 Albatros", "Produktion des neuen L-39NG Jets", "Über 6.700 produzierte Flugzeuge"],
+      hu: ["Alapítva 1919-ben", "A legendás L-39 Albatros fejlesztője", "Az új L-39NG sugárhajtású gép gyártása", "Összesen több mint 6700 repülőgép"],
+      ro: ["Companie fondată în anul 1919", "Dezvoltatorul legendarului L-39 Albatros", "Produce noul avion cu reacție L-39NG", "Peste 6.700 de aeronave produse total"],
+      en: ["Founded in 1919", "Developer of the legendary L-39 Albatros", "Production of the new L-39NG jet", "Over 6,700 aircraft produced to date"],
+    },
+  },
   {
     id: "czechrepublic-amazon-fulfillment-dobroviz-economic-v2",
     type: "industry",
-    name: { de: "Amazon Logistikzentrum Dobrovíz", hu: "Amazon logisztikai központ Dobrovíz", ro: "Centrul logistic Amazon Dobrovíz", en: "Amazon Fulfillment Center Dobrovíz" },
+    name: { de: "Amazon Logistikzentrum Dobrovíz", hu: "Amazon logisztikai központ Dobrovíz", ro: "Centrul logistic Amazon Dobrovíz", en: "Amazon Fulfillment Center Dobrovíz",
+image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp"
+},
     coords: [14.2214, 50.1064],
     coordinates: { lat: 50.1064, lng: 14.2214 },
     description: {
@@ -345,11 +613,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Suprafață de 95.000 de metri pătrați", "Deschis în anul 2015", "Peste 3000 de angajați permanenți", "Tehnologie de sortare de ultimă oră"],
       en: ["Area of 95,000 square meters", "Opened in 2015", "Over 3,000 permanent employees", "State-of-the-art sorting technology"],
     },
-    imageHint: "Huge modern warehouse building exterior", image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp"},
+    imageHint: "Huge modern warehouse building exterior",
+    image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Amazon-Logistikzentrum in Dobrovíz bei Prag ist eine der modernsten Anlagen des Unternehmens in Europa und bewältigt riesige Mengen an internationalen Sendungen.",
+      hu: "A Prága melletti Dobrovízben található Amazon logisztikai központ a vállalat egyik legmodernebb európai létesítménye, amely hatalmas csomagforgalmat bonyolít.",
+      ro: "Centrul logistic Amazon din Dobrovíz, lângă Praga, este una dintre cele mai avansate facilități ale companiei în Europa, gestionând volume uriașe.",
+      en: "The Amazon fulfillment center in Dobrovíz near Prague is one of the company's most advanced logistics hubs in Europe, handling massive international shipments.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 2015", "Fläche von etwa 95.000 Quadratmetern", "Beschäftigung von ca. 3.000 Mitarbeitern", "In der Nähe des Prager Flughafens"],
+      hu: ["A központ 2015-ben nyílt meg", "Mintegy 95 000 négyzetméteres terület", "Kb. 3000 állandó alkalmazottat foglalkoztat", "A prágai repülőtér közvetlen közelében"],
+      ro: ["Deschis în anul 2015", "Suprafață de aproximativ 95.000 mp", "Angajează cca 3.000 de lucrători", "Localizat lângă Aeroportul Praga"],
+      en: ["Opened in 2015", "Floor area of approx. 95,000 square meters", "Employs about 3,000 permanent staff", "Located near Prague Vaclav Havel Airport"],
+    },
+  },
   {
     id: "czechrepublic-liberty-ostrava-steel-economic-v2",
     type: "industry",
-    name: { de: "Liberty Ostrava Stahlwerk", hu: "Liberty Ostrava acélmű", ro: "Combinatul siderurgic Liberty Ostrava", en: "Liberty Ostrava Steelworks" },
+    name: { de: "Liberty Ostrava Stahlwerk", hu: "Liberty Ostrava acélmű", ro: "Combinatul siderurgic Liberty Ostrava", en: "Liberty Ostrava Steelworks",
+image: "/poi-images/czechrepublic-liberty-ostrava-steel-economic-v2.webp"
+},
     coords: [18.3114, 49.7914],
     coordinates: { lat: 49.7914, lng: 18.3114 },
     description: {
@@ -365,11 +649,25 @@ export const czechrepublicEconomicV2: POI[] = [
       en: ["Formerly known as Nová Huť", "Produces mining sections", "2.2 million tons of steel annually", "Own coke plant and blast furnaces"],
     },
     imageHint: "Heavy industrial steel plant with smoke stacks",
+    descriptionAdvanced: {
+      de: "Liberty Ostrava ist ein integriertes Hüttenwerk und der größte Stahlproduzent Tschechiens, der eine Schlüsselrolle in der Industriegeschichte von Nordmähren spielt.",
+      hu: "A Liberty Ostrava egy integrált kohászati üzem és Csehország legnagyobb acélgyártója, amely kulcsszerepet játszik Észak-Morvaország ipari életében.",
+      ro: "Liberty Ostrava este un combinat siderurgic integrat și cel mai mare producător de oțel din Cehia, fiind vital pentru industria regiunii Moravia.",
+      en: "Liberty Ostrava is an integrated steel business and the largest steel producer in the Czech Republic, defining the industrial landscape of Ostrava.",
+    },
+    factsAdvanced: {
+      de: ["Produktionskapazität 3,6 Mio. t Stahl", "Gelände umfasst über 500 Hektar", "Spezialisierung auf Rohr- und Langprodukte", "Beschäftigung von rund 6.000 Menschen"],
+      hu: ["Évi 3,6 millió tonna acélkapacitás", "A gyárterület több mint 500 hektáros", "Csövek és hosszú termékek gyártása", "Mintegy 6000 munkavállalót foglalkoztat"],
+      ro: ["Capacitate de 3,6 mln tone oțel anual", "Platforma ocupă peste 500 hectare", "Specializat în țevi și produse lungi", "Angajează aproximativ 6.000 de persoane"],
+      en: ["Annual capacity of 3.6 million tons of steel", "The site covers over 500 hectares", "Specializes in pipes and long products", "Employs approximately 6,000 people"],
+    },
   },
   {
     id: "czechrepublic-lovochemie-lovosice-economic-v2",
     type: "factory",
-    name: { de: "Lovochemie Düngemittelwerk", hu: "Lovochemie műtrágyagyár", ro: "Combinatul chimic Lovochemie", en: "Lovochemie Fertilizer Plant" },
+    name: { de: "Lovochemie Düngemittelwerk", hu: "Lovochemie műtrágyagyár", ro: "Combinatul chimic Lovochemie", en: "Lovochemie Fertilizer Plant",
+image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp"
+},
     coords: [14.0714, 50.5182],
     coordinates: { lat: 50.5182, lng: 14.0714 },
     description: {
@@ -384,11 +682,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondată în 1904", "Produsul principal: îngrășăminte cu azot", "Parte a grupului Agrofert", "Situată direct pe malul Elbei"],
       en: ["Founded in 1904", "Main products are nitrogen fertilizers", "Part of the Agrofert Group", "Located directly on the Elbe river"],
     },
-    imageHint: "Large chemical factory complex next to a river", image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp"},
+    imageHint: "Large chemical factory complex next to a river",
+    image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Lovochemie in Lovosice ist der größte tschechische Hersteller von Mineraldüngern und ein bedeutendes Unternehmen der Agrarchemie in Mitteleuropa.",
+      hu: "A lovosicei Lovochemie Csehország legnagyobb műtrágyagyártó vállalata, amely meghatározó szerepet tölt be a közép-európai agrárkémiai piacon.",
+      ro: "Lovochemie din Lovosice este cel mai mare producător de îngrășăminte minerale din Cehia, fiind un jucător cheie în sectorul agrochimic european.",
+      en: "Lovochemie in Lovosice is the largest Czech producer of mineral fertilizers, playing a vital role in Central European agricultural production.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1904", "Gehört zur Agrofert-Gruppe", "Produktion von Stickstoffdüngemitteln", "Über 900.000 Tonnen Dünger jährlich"],
+      hu: ["Alapítva 1904-ben", "Az Agrofert-csoport része", "Fő profilja a nitrogénműtrágya-gyártás", "Évente több mint 900 000 tonna termék"],
+      ro: ["Fondată în anul 1904", "Parte a grupului Agrofert", "Specializată în îngrășăminte cu azot", "Produce peste 900.000 de tone anual"],
+      en: ["Founded in 1904", "Member of the Agrofert group", "Focuses on nitrogen-based fertilizers", "Produces over 900,000 tons per year"],
+    },
+  },
   {
     id: "czechrepublic-crystalex-novy-bor-economic-v2",
     type: "factory",
-    name: { de: "Crystalex Glaswerk", hu: "Crystalex üveggyár", ro: "Fabrica de sticlă Crystalex", en: "Crystalex Glassworks" },
+    name: { de: "Crystalex Glaswerk", hu: "Crystalex üveggyár", ro: "Fabrica de sticlă Crystalex", en: "Crystalex Glassworks",
+image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp"
+},
     coords: [14.5564, 50.7514],
     coordinates: { lat: 50.7514, lng: 14.5564 },
     description: {
@@ -403,11 +717,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Lider mondial în pahare cu picior", "Exportă în peste 70 de țări", "Utilizează cristal fără plumb", "Centrul industriei sticlei boemiene"],
       en: ["World leader in stemware production", "Exports to over 70 countries", "Uses lead-free crystal glass", "Hub of the Bohemian glass industry"],
     },
-    imageHint: "Elegant crystal wine glasses in a factory showroom", image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp"},
+    imageHint: "Elegant crystal wine glasses in a factory showroom",
+    image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Crystalex in Nový Bor ist der führende tschechische Hersteller von Trinkglas und setzt die jahrhundertealte Tradition der böhmischen Glasmacherkunst fort.",
+      hu: "A Nový Bor-i Crystalex Csehország vezető pohárgyártója, amely a világhírű cseh üvegművesség évszázados hagyományait viszi tovább modern formában.",
+      ro: "Crystalex din Nový Bor este principalul producător ceh de articole de sticlărie, continuând tradiția seculară a sticlei de Boemia.",
+      en: "Crystalex in Nový Bor is the leading Czech producer of drinkware, continuing the world-renowned tradition of Bohemian glassmaking.",
+    },
+    factsAdvanced: {
+      de: ["Marke Bohemia Crystal weltweit bekannt", "Größter Kelchglasproduzent Tschechiens", "Export in mehr als 80 Länder", "Automatisierte Glasbläsertechnologie"],
+      hu: ["A Bohemia Crystal márka tulajdonosa", "Csehország legnagyobb pohárgyártója", "Export a világ több mint 80 országába", "Automata üvegfúvó technológia"],
+      ro: ["Deține marca Bohemia Crystal", "Cel mai mare producător de pahare din Cehia", "Exportă în peste 80 de țări din lume", "Tehnologie automatizată de suflare a sticlei"],
+      en: ["Owner of the Bohemia Crystal brand", "Largest Czech producer of stemware", "Exports to more than 80 countries", "Features automated glass-blowing lines"],
+    },
+  },
   {
     id: "czechrepublic-becherovka-distillery-economic-v2",
     type: "factory",
-    name: { de: "Becherovka Destillerie", hu: "Becherovka lepárló", ro: "Distileria Becherovka", en: "Becherovka Distillery" },
+    name: { de: "Becherovka Destillerie", hu: "Becherovka lepárló", ro: "Distileria Becherovka", en: "Becherovka Distillery",
+image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp"
+},
     coords: [12.8682, 50.2302],
     coordinates: { lat: 50.2302, lng: 12.8682 },
     description: {
@@ -422,11 +752,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Inventat de Josef Vitus Becher", "Peste 20 de plante secrete", "Exportă în peste 40 de țări", "Fabrică modernă în Bohatice"],
       en: ["Invented by Josef Vitus Becher", "Over 20 secret herbs", "Exports to more than 40 countries", "Modern production facility in Bohatice"],
     },
-    imageHint: "Becherovka bottles and production facility", image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp"},
+    imageHint: "Becherovka bottles and production facility",
+    image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Becherovka-Destillerie in Karlsbad produziert den berühmten Kräuterbitter nach einem Geheimrezept, das seit 1807 von Generation zu Generation weitergegeben wird.",
+      hu: "A Karlovy Vary-i Becherovka lepárló készíti a híres gyógynövénylikőrt egy titkos recept alapján, amelyet 1807 óta őriznek és használnak.",
+      ro: "Distileria Becherovka din Karlovy Vary produce celebrul lichior de ierburi după o rețetă secretă, păstrată cu sfințenie încă din anul 1807.",
+      en: "The Becherovka distillery in Karlovy Vary produces the famous herbal liqueur based on a secret recipe of 20 herbs and spices since 1807.",
+    },
+    factsAdvanced: {
+      de: ["Erfunden von Josef Vitus Becher 1807", "Nur zwei Personen kennen das Rezept", "Produktion ausschließlich in Karlsbad", "Über 8 Mio. Liter Jahresabsatz"],
+      hu: ["Josef Vitus Becher alkotta meg 1807-ben", "Csak két ember ismeri a pontos receptet", "Gyártás kizárólag Karlovy Varyban", "Évente több mint 8 millió litert adnak el"],
+      ro: ["Creat de Josef Vitus Becher în 1807", "Doar două persoane cunosc rețeta exactă", "Produs exclusiv în Karlovy Vary", "Vânzări anuale de peste 8 mln litri"],
+      en: ["Created by Josef Vitus Becher in 1807", "Only two people know the full recipe", "Produced exclusively in Karlovy Vary", "Annual sales exceed 8 million liters"],
+    },
+  },
   {
     id: "czechrepublic-okd-mining-karvina-economic-v2",
     type: "mine",
-    name: { de: "OKD Steinkohlebergbau Karviná", hu: "OKD feketekőszén-bányászat Karviná", ro: "Mina de huilă OKD Karviná", en: "OKD Hard Coal Mining Karviná" },
+    name: { de: "OKD Steinkohlebergbau Karviná", hu: "OKD feketekőszén-bányászat Karviná", ro: "Mina de huilă OKD Karviná", en: "OKD Hard Coal Mining Karviná",
+image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp"
+},
     coords: [18.4814, 49.8514],
     coordinates: { lat: 49.8514, lng: 18.4814 },
     description: {
@@ -441,11 +787,27 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Minerit la peste 1000 m adâncime", "Operator de stat", "Esențial pentru producția de oțel", "Sediul în Karviná"],
       en: ["Deep mining at over 1,000 meters", "State-owned operator", "Crucial for steel production", "Headquartered in Karviná"],
     },
-    imageHint: "Hard coal mine shaft tower", image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp"},
+    imageHint: "Hard coal mine shaft tower",
+    image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Reviere von OKD in der Region Karviná sind die letzten Standorte für den Untertageabbau von Steinkohle in Tschechien, wichtig für die regionale Industrie.",
+      hu: "Az OKD karvinái bányái Csehország utolsó feketekőszén-lelőhelyei, amelyek évtizedek óta alapvető fontosságúak a helyi nehézipar és energiatermelés számára.",
+      ro: "Exploatările OKD din regiunea Karviná sunt ultimele locații de extracție a cărbunelui din Cehia, fiind esențiale pentru industria metalurgică.",
+      en: "The OKD mines in the Karviná region are the last active hard coal underground mining sites in the Czech Republic, crucial for heavy industry.",
+    },
+    factsAdvanced: {
+      de: ["Abbau in Tiefen von bis zu 1.000 m", "Förderung hochwertiger Kokskohle", "Oberschlesisches Kohlebecken (Teilstück)", "Umstrukturierung und schrittweise Schließung"],
+      hu: ["Akár 1000 méteres mélységben folyó munka", "Kiváló minőségű kokszolható szén", "A felső-sziléziai szénmedence része", "Folyamatban lévő szerkezetváltás"],
+      ro: ["Extracție la adâncimi de până la 1.000 m", "Produce cărbune cocsificabil de calitate", "Parte a bazinului carbonifer silezian", "În proces de restructurare și închidere"],
+      en: ["Mining at depths of up to 1,000 meters", "Produces high-quality coking coal", "Part of the Upper Silesian Coal Basin", "Currently undergoing phased closure"],
+    },
+  },
   {
     id: "czechrepublic-kofola-factory-krnov-economic-v2",
     type: "factory",
-    name: { de: "Kofola Fabrik Krnov", hu: "Kofola gyár Krnov", ro: "Fabrica Kofola Krnov", en: "Kofola Factory Krnov" },
+    name: { de: "Kofola Fabrik Krnov", hu: "Kofola gyár Krnov", ro: "Fabrica Kofola Krnov", en: "Kofola Factory Krnov",
+image: "/poi-images/czechrepublic-kofola-factory-krnov-economic-v2.webp"
+},
     coords: [17.7014, 50.0914],
     coordinates: { lat: 50.0914, lng: 17.7014 },
     description: {
@@ -461,11 +823,25 @@ export const czechrepublicEconomicV2: POI[] = [
       en: ["Invented in 1960", "Headquartered in Ostrava", "Over 14 herbal ingredients", "Lower sugar than traditional cola"],
     },
     imageHint: "Kofola soft drink production line",
+    descriptionAdvanced: {
+      de: "Das Kofola-Werk in Krnov produziert das beliebte tschechoslowakische Kultgetränk, das in der Region eine starke Alternative zu globalen Cola-Marken darstellt.",
+      hu: "A krnovi Kofola-gyár állítja elő a kultikus csehszlovák üdítőt, amely a mai napig a globális kólamárkák egyik legsikeresebb helyi konkurense.",
+      ro: "Fabrica Kofola din Krnov produce celebra băutură răcoritoare cehoslovacă, fiind un simbol cultural și un concurent major pentru brandurile globale.",
+      en: "The Kofola factory in Krnov produces the iconic Czechoslovak herbal-cola drink, which remains a leading competitor to global soft drink brands.",
+    },
+    factsAdvanced: {
+      de: ["Getränk wurde im Jahr 1960 erfunden", "Rezeptur basiert auf Kofo-Sirup", "14 natürliche Inhaltsstoffe (Kräuter)", "Weniger Zucker als klassische Cola"],
+      hu: ["Az üdítőitalt 1960-ban fejlesztették ki", "A receptúra alapja a Kofo-szirup", "14-féle természetes gyógynövény-összetevő", "Kevesebb cukrot tartalmaz, mint a kóla"],
+      ro: ["Băutura a fost inventată în anul 1960", "Rețeta are la bază siropul Kofo", "Conține 14 ingrediente naturale (ierburi)", "Are mai puțin zahăr decât cola clasică"],
+      en: ["The drink was invented in 1960", "Recipe is based on the Kofo syrup", "Contains 14 natural herbal ingredients", "Features lower sugar content than colas"],
+    },
   },
   {
     id: "czechrepublic-prim-watches-factory-economic-v2",
     type: "factory",
-    name: { de: "Prim Uhrenmanufaktur", hu: "Prim óramanufaktúra", ro: "Manufactura de ceasuri Prim", en: "Prim Watches Factory" },
+    name: { de: "Prim Uhrenmanufaktur", hu: "Prim óramanufaktúra", ro: "Manufactura de ceasuri Prim", en: "Prim Watches Factory",
+image: "/poi-images/czechrepublic-prim-watches-factory-economic-v2.webp"
+},
     coords: [16.1414, 50.3614],
     coordinates: { lat: 50.3614, lng: 16.1414 },
     description: {
@@ -481,5 +857,17 @@ export const czechrepublicEconomicV2: POI[] = [
       en: ["Founded in 1949", "Produces in-house mechanical movements", "Supplier to the Czech Army", "Precision mechanics tradition"],
     },
     imageHint: "Close-up of a mechanical watch movement or watchmaker",
+    descriptionAdvanced: {
+      de: "Prim in Nové Město nad Metují ist der traditionsreiche tschechische Uhrenhersteller, der für seine präzisen mechanischen Zeitmesser und Manufakturwerke bekannt ist.",
+      hu: "A Nové Město nad Metují-ben működő Prim a nagy múltú cseh óragyártó, amely precíz mechanikus óráiról és saját gyártású szerkezeteiről híres.",
+      ro: "Prim din Nové Město nad Metují este legendarul producător de ceasuri ceh, cunoscut pentru mecanismele sale de înaltă precizie realizate intern.",
+      en: "Prim in Nové Město nad Metují is the traditional Czech watchmaker, known for producing high-quality mechanical watches with in-house movements.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsbeginn im Jahr 1949", "Herstellung eigener mechanischer Werke", "Spezialeditionen für Sammler", "Marke unter dem Namen ELTON hodinářská"],
+      hu: ["A gyártás 1949-ben kezdődött", "Saját mechanikus szerkezetek készítése", "Limitált szériák gyűjtők számára", "ELTON hodinářská néven üzemel"],
+      ro: ["Producția a început în anul 1949", "Realizează propriile mecanisme mecanice", "Ediții speciale pentru colecționari", "Operată de compania ELTON hodinářská"],
+      en: ["Production started in 1949", "Manufactures in-house mechanical movements", "Produces limited editions for collectors", "Operated under the ELTON hodinářská name"],
+    },
   }
 ];

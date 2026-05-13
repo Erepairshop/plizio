@@ -11,8 +11,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Essakane Gold Mine",
       hu: "Essakane Gold Mine",
       ro: "Essakane Gold Mine",
-      en: "Essakane Gold Mine"
-    },
+      en: "Essakane Gold Mine",
+image: "/poi-images/essakane-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Essakane-Goldmine ist eine der bedeutendsten Goldminen in Burkina Faso und ein entscheidender Faktor für die lokale Wirtschaft. Gelegen in der Sahel-Region, hat die Mine zur Entwicklung der Infrastruktur in den umliegenden Gemeinden beigetragen. Geografie K7 — Rohstoffgewinnung."
     },
@@ -41,8 +42,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Houndé Gold Mine",
       hu: "Houndé Gold Mine",
       ro: "Houndé Gold Mine",
-      en: "Houndé Gold Mine"
-    },
+      en: "Houndé Gold Mine",
+image: "/poi-images/houndé-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Houndé-Goldmine im Südwesten des Landes ist ein modernes Bergbauprojekt, das signifikante Arbeitsplätze in der Region Hauts-Bassins schafft. Der Abbau erfolgt in einem geologisch reichen Gebiet, das auch landwirtschaftlich intensiv genutzt wird. Geografie K7 — Wirtschaftszweige."
     },
@@ -71,8 +73,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Boungou Gold Mine",
       hu: "Boungou Gold Mine",
       ro: "Boungou Gold Mine",
-      en: "Boungou Gold Mine"
-    },
+      en: "Boungou Gold Mine",
+image: "/poi-images/boungou-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Die Boungou-Mine ist ein bedeutendes Goldabbauprojekt im Osten Burkina Fasos, das trotz logistischer Herausforderungen eine wichtige Rolle in der regionalen Ökonomie spielt. Die Region ist von trockenen Savannen geprägt, was den Bergbau zur Lebensgrundlage für viele Bewohner macht. Sachkunde K5 — Leben vom Rohstoffabbau."
     },
@@ -101,8 +104,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Perkoa Zinc Mine",
       hu: "Perkoa Zinc Mine",
       ro: "Perkoa Zinc Mine",
-      en: "Perkoa Zinc Mine"
-    },
+      en: "Perkoa Zinc Mine",
+image: "/poi-images/perkoa-zinc-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Perkoa ist die einzige Zinkmine in Burkina Faso und nimmt eine Sonderstellung im Bergbausektor ein. Gelegen in der Region Centre-Ouest, hat sie den Exportsektor des Landes um ein wichtiges Industriemetall diversifiziert. Sachkunde K5 — Industrie und Bergbau."
     },
@@ -131,8 +135,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Bobointer Dry Port",
       hu: "Bobointer Dry Port",
       ro: "Bobointer Dry Port",
-      en: "Bobointer Dry Port"
-    },
+      en: "Bobointer Dry Port",
+image: "/poi-images/bobointer-dry-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Bobo-Dioulasso Intermodal Dry Port ist eine logistische Drehscheibe für den Import und Export von Waren in Burkina Faso. Durch die Anbindung an die Eisenbahnlinie ist er für den Warenverkehr mit der Elfenbeinküste von essenzieller Bedeutung. Geografie K7 — Logistik."
     },
@@ -161,8 +166,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Ouagarinter Dry Port",
       hu: "Ouagarinter Dry Port",
       ro: "Ouagarinter Dry Port",
-      en: "Ouagarinter Dry Port"
-    },
+      en: "Ouagarinter Dry Port",
+image: "/poi-images/ouagarinter-dry-port-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Der Trockenhafen in Ouagadougou fungiert als Hauptzentrum für die Warenabfertigung der Hauptstadt. Er ist ein zentraler Punkt für den Handel zwischen den Küstenländern und dem Landesinneren Burkina Fasos. Sachkunde K5 — Handel und Verkehr."
     },
@@ -191,8 +197,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Tambao Manganese Mine",
       hu: "Tambao Manganese Mine",
       ro: "Tambao Manganese Mine",
-      en: "Tambao Manganese Mine"
-    },
+      en: "Tambao Manganese Mine",
+image: "/poi-images/tambao-manganese-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Manganprojekt von Tambao im äußersten Nordosten gilt als eines der größten unerschlossenen Reserven weltweit. Die logistische Herausforderung des Transports durch den Sahel hat die Entwicklung bisher verzögert, dennoch ist es ein zentrales Zukunftsthema für die nationale Wirtschaft. Geografie K8 — Rohstoffpotenzial."
     },
@@ -221,8 +228,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "SOFITEX Bobo-Dioulasso",
       hu: "SOFITEX Bobo-Dioulasso",
       ro: "SOFITEX Bobo-Dioulasso",
-      en: "SOFITEX Bobo-Dioulasso"
-    },
+      en: "SOFITEX Bobo-Dioulasso",
+image: "/poi-images/sofitex-bobo-dioulasso-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "SOFITEX ist das führende Unternehmen in der Baumwollbranche in Burkina Faso. Das Hauptwerk in Bobo-Dioulasso verarbeitet die Baumwolle aus den umliegenden Anbaugebieten, die für das 'weiße Gold' des Landes bekannt sind. Sachkunde K4 — Textilindustrie."
     },
@@ -251,8 +259,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "SN-SOSUCO Banfora",
       hu: "SN-SOSUCO Banfora",
       ro: "SN-SOSUCO Banfora",
-      en: "SN-SOSUCO Banfora"
-    },
+      en: "SN-SOSUCO Banfora",
+image: "/poi-images/sn-sosuco-banfora-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "SN-SOSUCO in Banfora ist der größte Zuckerproduzent des Landes. Die Fabrik verarbeitet das auf den nahegelegenen Plantagen angebaute Zuckerrohr und ist ein Schlüsselunternehmen für die regionale Wirtschaft in den Kaskaden. Sachkunde K3 — Nahrungsmittelindustrie."
     },
@@ -281,8 +290,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "CIMBURKINA Ouagadougou",
       hu: "CIMBURKINA Ouagadougou",
       ro: "CIMBURKINA Ouagadougou",
-      en: "CIMBURKINA Ouagadougou"
-    },
+      en: "CIMBURKINA Ouagadougou",
+image: "/poi-images/cimburkina-ouagadougou-economic-v2.webp"
+},
     descriptionAdvanced: {
       de: "CimBurkina ist ein führender Hersteller von Zement in Burkina Faso. Mit ihrem Werk in Ouagadougou unterstützen sie den starken Bauboom in der wachsenden Hauptstadt des Landes. Sachkunde K5 — Baugewerbe und Industrie."
     },
@@ -311,8 +321,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Zagtouli Solar Plant",
       hu: "Zagtouli Solar Plant",
       ro: "Zagtouli Solar Plant",
-      en: "Zagtouli Solar Plant"
-    },
+      en: "Zagtouli Solar Plant",
+image: "/poi-images/zagtouli-solar-plant-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Zagtouli solar power station is the largest photovoltaic plant in West Africa. It is a critical component of Burkina Faso's energy strategy, significantly reducing reliance on imported electricity and fostering sustainable development in the region. Geography K7 — renewable energy."
     },
@@ -341,8 +352,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "SONABHY Bingo Depot",
       hu: "SONABHY Bingo Depot",
       ro: "SONABHY Bingo Depot",
-      en: "SONABHY Bingo Depot"
-    },
+      en: "SONABHY Bingo Depot",
+image: "/poi-images/sonabhy-bingo-depot-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The SONABHY Bingo depot is a major fuel storage facility essential for maintaining the country's energy supply. It plays a central role in the logistical chain of petroleum products for the central region of Burkina Faso. Geography K7 — energy infrastructure."
     },
@@ -371,8 +383,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "BRAKINA Ouagadougou",
       hu: "BRAKINA Ouagadougou",
       ro: "BRAKINA Ouagadougou",
-      en: "BRAKINA Ouagadougou"
-    },
+      en: "BRAKINA Ouagadougou",
+image: "/poi-images/brakina-ouagadougou-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "BRAKINA is the leading beverage company in Burkina Faso, operating a large production plant in Ouagadougou. It is an industrial heavyweight that supports thousands of jobs and maintains a significant share of the local market in beer and soft drinks. Geography K7 — food and beverage industry."
     },
@@ -401,8 +414,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Sanbrado Gold Mine",
       hu: "Sanbrado Gold Mine",
       ro: "Sanbrado Gold Mine",
-      en: "Sanbrado Gold Mine"
-    },
+      en: "Sanbrado Gold Mine",
+image: "/poi-images/sanbrado-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "Sanbrado is one of Burkina Faso's key gold mining operations, contributing substantially to the country's export revenue and regional development. It utilizes modern mining techniques to extract high-value minerals in the central part of the nation. Geography K7 — extractive industries."
     },
@@ -431,8 +445,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "FILSAH Textile Mill",
       hu: "FILSAH Textile Mill",
       ro: "FILSAH Textile Mill",
-      en: "FILSAH Textile Mill"
-    },
+      en: "FILSAH Textile Mill",
+image: "/poi-images/filsah-textile-mill-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "FILSAH is a prominent textile mill in Koudougou, dedicated to the processing of cotton into yarn. It is a vital part of Burkina Faso's push to add value to its primary agricultural exports locally rather than importing finished textiles. Geography K7 — industrial cotton processing."
     },
@@ -461,8 +476,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Mana Gold Mine",
       hu: "Mana Gold Mine",
       ro: "Mana Gold Mine",
-      en: "Mana Gold Mine"
-    },
+      en: "Mana Gold Mine",
+image: "/poi-images/mana-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Mana gold mine, located in the Boucle du Mouhoun region, is an important gold producer. It has played a consistent role in maintaining the country's position as a major gold exporter in Africa. Geography K7 — extractive industries."
     },
@@ -491,8 +507,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Taparko Gold Mine",
       hu: "Taparko Gold Mine",
       ro: "Taparko Gold Mine",
-      en: "Taparko Gold Mine"
-    },
+      en: "Taparko Gold Mine",
+image: "/poi-images/taparko-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Taparko gold mine was one of the first modern gold mines in Burkina Faso, serving as a model for the country's expansion into the mining sector. It remains a key economic contributor in the north-central region. Geography K7 — mining history and industry."
     },
@@ -521,8 +538,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Bissa Gold Mine",
       hu: "Bissa Gold Mine",
       ro: "Bissa Gold Mine",
-      en: "Bissa Gold Mine"
-    },
+      en: "Bissa Gold Mine",
+image: "/poi-images/bissa-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Bissa gold mine is a major production site in the central region, contributing heavily to the national GDP. It uses large-scale processing technology to manage complex gold ore deposits efficiently. Geography K7 — industrial gold mining."
     },
@@ -551,8 +569,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Karma Gold Mine",
       hu: "Karma Gold Mine",
       ro: "Karma Gold Mine",
-      en: "Karma Gold Mine"
-    },
+      en: "Karma Gold Mine",
+image: "/poi-images/karma-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Karma gold mine is situated in the north and plays a critical role in regional economic activity. It has successfully integrated modern heap-leach technology to produce significant amounts of gold from its site. Geography K7 — extractive technology."
     },
@@ -581,8 +600,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Yaramoko Gold Mine",
       hu: "Yaramoko Gold Mine",
       ro: "Yaramoko Gold Mine",
-      en: "Yaramoko Gold Mine"
-    },
+      en: "Yaramoko Gold Mine",
+image: "/poi-images/yaramoko-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Yaramoko gold mine is recognized for its high-grade gold deposits and sophisticated underground mining operations. It represents the modernization of the industry in the central-western region. Geography K7 — high-value mineral extraction."
     },
@@ -611,8 +631,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Ziga Water Treatment",
       hu: "Ziga Water Treatment",
       ro: "Ziga Water Treatment",
-      en: "Ziga Water Treatment"
-    },
+      en: "Ziga Water Treatment",
+image: "/poi-images/ziga-water-treatment-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Ziga water treatment facility is the primary source of clean drinking water for Ouagadougou. This infrastructure is essential for the city's health, sanitation, and continued urban expansion. Geography K7 — urban infrastructure."
     },
@@ -641,8 +662,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "CIMFASO Cement Plant",
       hu: "CIMFASO Cement Plant",
       ro: "CIMFASO Cement Plant",
-      en: "CIMFASO Cement Plant"
-    },
+      en: "CIMFASO Cement Plant",
+image: "/poi-images/cimfaso-cement-plant-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "CIMFASO is a major cement manufacturing plant situated near Ouagadougou. It provides the building materials needed to support the construction industry across Burkina Faso, fueling urban growth and infrastructure development. Geography K7 — construction industry."
     },
@@ -671,8 +693,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "SOFITEX Koudougou",
       hu: "SOFITEX Koudougou",
       ro: "SOFITEX Koudougou",
-      en: "SOFITEX Koudougou"
-    },
+      en: "SOFITEX Koudougou",
+image: "/poi-images/sofitex-koudougou-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "SOFITEX manages major cotton ginning operations in Koudougou, as part of its network across the country. This facility is central to Burkina Faso's cotton industry, processing harvest from local farmers for the global market. Geography K7 — agricultural industry."
     },
@@ -701,8 +724,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Wahgnion Gold Mine",
       hu: "Wahgnion Gold Mine",
       ro: "Wahgnion Gold Mine",
-      en: "Wahgnion Gold Mine"
-    },
+      en: "Wahgnion Gold Mine",
+image: "/poi-images/wahgnion-gold-mine-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Wahgnion gold mine is a major operation in the southwest, bringing significant economic investment to the region. It operates several processing units and is a vital contributor to national gold output. Geography K7 — southwest extractive industries."
     },
@@ -731,8 +755,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Pouytenga Cattle Market",
       hu: "Pouytenga Cattle Market",
       ro: "Pouytenga Cattle Market",
-      en: "Pouytenga Cattle Market"
-    },
+      en: "Pouytenga Cattle Market",
+image: "/poi-images/pouytenga-cattle-market-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Pouytenga cattle market is one of the largest livestock trading hubs in West Africa. It is a central economic node that influences regional meat prices and supports thousands of traders. Geography K7 — regional market hubs."
     },
@@ -761,8 +786,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "SONABHY Péni Depot",
       hu: "SONABHY Péni Depot",
       ro: "SONABHY Péni Depot",
-      en: "SONABHY Péni Depot"
-    },
+      en: "SONABHY Péni Depot",
+image: "/poi-images/sonabhy-péni-depot-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The SONABHY Péni depot is an essential petroleum storage and distribution facility near Bobo-Dioulasso. It is key for the southwest, ensuring the supply of fuel and energy products to the country's second-largest city. Geography K7 — energy logistics."
     },
@@ -791,8 +817,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "CIMASSO Bobo-Dioulasso",
       hu: "CIMASSO Bobo-Dioulasso",
       ro: "CIMASSO Bobo-Dioulasso",
-      en: "CIMASSO Bobo-Dioulasso"
-    },
+      en: "CIMASSO Bobo-Dioulasso",
+image: "/poi-images/cimasso-bobo-dioulasso-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "CIMASSO is a key cement production and bagging plant in Bobo-Dioulasso. It services the western part of Burkina Faso, providing the materials required for construction projects in the country's cultural capital. Geography K7 — industrial construction materials."
     },
@@ -821,8 +848,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Zina Solar Power Station",
       hu: "Zina Solar Power Station",
       ro: "Zina Solar Power Station",
-      en: "Zina Solar Power Station"
-    },
+      en: "Zina Solar Power Station",
+image: "/poi-images/zina-solar-power-station-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Zina solar power station is a significant renewable energy project in Burkina Faso, contributing to the nation's energy diversification. It highlights the shift towards cleaner power generation for decentralized regions. Geography K7 — clean energy infrastructure."
     },
@@ -851,8 +879,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Dédougou Cotton Gin",
       hu: "Dédougou Cotton Gin",
       ro: "Dédougou Cotton Gin",
-      en: "Dédougou Cotton Gin"
-    },
+      en: "Dédougou Cotton Gin",
+image: "/poi-images/dédougou-cotton-gin-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The cotton ginning facility in Dédougou is an essential component of the cotton value chain in the Boucle du Mouhoun region. It processes local harvests, turning raw cotton into marketable products for the global trade. Geography K7 — regional agricultural industry."
     },
@@ -881,8 +910,9 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       de: "Kou Valley Rice Mills",
       hu: "Kou Valley Rice Mills",
       ro: "Kou Valley Rice Mills",
-      en: "Kou Valley Rice Mills"
-    },
+      en: "Kou Valley Rice Mills",
+image: "/poi-images/kou-valley-rice-mills-economic-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Kou Valley is famous for its intensive rice cultivation projects and processing mills. These facilities are fundamental to domestic food production, providing a significant share of the rice consumed in the western provinces. Geography K7 — intensive food production."
     },

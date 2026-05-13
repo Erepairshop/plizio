@@ -302,7 +302,8 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }
+  },
   {
     id: "pier-21-halifax-history-v2",
     type: "historical",
@@ -517,7 +518,8 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }
+  },
   {
     id: "distillery-district-toronto-history-v2",
     type: "historical",
@@ -689,7 +691,8 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }
+  },
   {
     id: "craigdarroch-castle-victoria-history-v2",
     type: "historical",
@@ -1291,6 +1294,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }}
+    }
+  }
 ];
 

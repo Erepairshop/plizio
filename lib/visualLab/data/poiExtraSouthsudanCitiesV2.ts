@@ -11,8 +11,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Juba",
       hu: "Juba",
       ro: "Juba",
-      en: "Juba"
-    },
+      en: "Juba",
+image: "/poi-images/juba-cities-v2.webp"
+},
     description: {
       de: "Juba ist die Hauptstadt und größte Stadt des Südsudans und liegt am Ufer des Weißen Nils.",
       hu: "Juba Dél-Szudán fővárosa és legnagyobb városa, amely a Fehér-Nílus partján fekszik.",
@@ -46,8 +47,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Malakal",
       hu: "Malakal",
       ro: "Malakal",
-      en: "Malakal"
-    },
+      en: "Malakal",
+image: "/poi-images/malakal-cities-v2.webp"
+},
     description: {
       de: "Malakal ist die Hauptstadt des Bundesstaates Upper Nile und ein wichtiges Handelszentrum am Weißen Nil.",
       hu: "Malakal az Upper Nile állam fővárosa és egy fontos kereskedelmi központ a Fehér-Nílus mentén.",
@@ -81,8 +83,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Wau",
       hu: "Wau",
       ro: "Wau",
-      en: "Wau"
-    },
+      en: "Wau",
+image: "/poi-images/wau-cities-v2.webp"
+},
     description: {
       de: "Wau ist eine kulturell vielfältige Stadt im Nordwesten des Südsudans und Hauptstadt von Western Bahr el Ghazal.",
       hu: "Wau egy kulturálisan sokszínű város Dél-Szudán északnyugati részén, Western Bahr el Ghazal fővárosa.",
@@ -116,8 +119,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Yei",
       hu: "Yei",
       ro: "Yei",
-      en: "Yei"
-    },
+      en: "Yei",
+image: "/poi-images/yei-cities-v2.webp"
+},
     description: {
       de: "Yei ist eine blühende Handelsstadt im Südwesten, bekannt für ihre Landwirtschaft und die Nähe zu Uganda und der DR Kongo.",
       hu: "Yei egy virágzó kereskedelmi város délnyugaton, mezőgazdaságáról és Uganda, valamint a Kongói DK közelségéről ismert.",
@@ -151,8 +155,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Yambio",
       hu: "Yambio",
       ro: "Yambio",
-      en: "Yambio"
-    },
+      en: "Yambio",
+image: "/poi-images/yambio-cities-v2.webp"
+},
     description: {
       de: "Yambio ist die Hauptstadt von Western Equatoria und liegt in einer der fruchtbarsten Regionen des Landes.",
       hu: "Yambio Western Equatoria fővárosa, az ország egyik legtermékenyebb régiójában található.",
@@ -186,8 +191,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Renk",
       hu: "Renk",
       ro: "Renk",
-      en: "Renk"
-    },
+      en: "Renk",
+image: "/poi-images/renk-cities-v2.webp"
+},
     description: {
       de: "Renk ist die nördlichste Stadt des Südsudans und ein entscheidendes Tor für den Handel mit dem Sudan.",
       hu: "Renk Dél-Szudán legészakibb városa, és döntő fontosságú kapu a Szudánnal folytatott kereskedelemben.",
@@ -209,8 +215,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Bor",
       hu: "Bor",
       ro: "Bor",
-      en: "Bor"
-    },
+      en: "Bor",
+image: "/poi-images/bor-cities-v2.webp"
+},
     description: {
       de: "Bor ist die Hauptstadt des Bundesstaates Jonglei und hat eine große historische Bedeutung für die Unabhängigkeitsbewegung.",
       hu: "Bor Jonglei állam fővárosa, és nagy történelmi jelentőséggel bír a függetlenségi mozgalom számára.",
@@ -232,8 +239,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Aweil",
       hu: "Aweil",
       ro: "Aweil",
-      en: "Aweil"
-    },
+      en: "Aweil",
+image: "/poi-images/aweil-cities-v2.webp"
+},
     description: {
       de: "Aweil ist die Hauptstadt von Northern Bahr el Ghazal und ein bedeutendes Zentrum für Reis- und Getreidehandel.",
       hu: "Aweil Northern Bahr el Ghazal fővárosa, valamint a rizs- és gabonakereskedelem jelentős központja.",
@@ -255,8 +263,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Torit",
       hu: "Torit",
       ro: "Torit",
-      en: "Torit"
-    },
+      en: "Torit",
+image: "/poi-images/torit-cities-v2.webp"
+},
     description: {
       de: "Torit ist die Hauptstadt von Eastern Equatoria und historisch bekannt für den Beginn des ersten sudanesischen Bürgerkriegs.",
       hu: "Torit Eastern Equatoria fővárosa, történelmileg az első szudáni polgárháború kezdetéről ismert.",
@@ -278,8 +287,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Bentiu",
       hu: "Bentiu",
       ro: "Bentiu",
-      en: "Bentiu"
-    },
+      en: "Bentiu",
+image: "/poi-images/bentiu-cities-v2.webp"
+},
     description: {
       de: "Bentiu ist die Hauptstadt des ölreichen Bundesstaates Unity und ein wichtiges wirtschaftliches Zentrum im Norden.",
       hu: "Bentiu az olajban gazdag Unity állam fővárosa és egy fontos gazdasági központ északon.",
@@ -301,8 +311,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Rumbek",
       hu: "Rumbek",
       ro: "Rumbek",
-      en: "Rumbek"
-    },
+      en: "Rumbek",
+image: "/poi-images/rumbek-cities-v2.webp"
+},
     description: {
       de: "Rumbek ist die Hauptstadt des Bundesstaates Lakes und diente während des Krieges als wichtige administrative Basis.",
       hu: "Rumbek a Lakes állam fővárosa, és a háború alatt fontos adminisztratív bázisként szolgált.",
@@ -324,8 +335,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Kuajok",
       hu: "Kuajok",
       ro: "Kuajok",
-      en: "Kuajok"
-    },
+      en: "Kuajok",
+image: "/poi-images/kuajok-cities-v2.webp"
+},
     description: {
       de: "Kuajok ist die Hauptstadt des Bundesstaates Warrap und ein wichtiges administratives Zentrum im Westen des Landes.",
       hu: "Kuajok Warrap állam fővárosa és egy fontos adminisztratív központ az ország nyugati részén.",
@@ -348,8 +360,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Nimule",
       hu: "Nimule",
       ro: "Nimule",
-      en: "Nimule"
-    },
+      en: "Nimule",
+image: "/poi-images/nimule-cities-v2.webp"
+},
     description: {
       de: "Nimule ist die wichtigste Grenzstadt zu Uganda und ein zentraler Punkt für den internationalen Handel des Südsudans.",
       hu: "Nimule a legfontosabb határváros Uganda felé, és Dél-Szudán nemzetközi kereskedelmének központi pontja.",
@@ -372,8 +385,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Kapoeta",
       hu: "Kapoeta",
       ro: "Kapoeta",
-      en: "Kapoeta"
-    },
+      en: "Kapoeta",
+image: "/poi-images/kapoeta-cities-v2.webp"
+},
     description: {
       de: "Kapoeta ist eine Stadt im Osten, bekannt für den Goldabbau und als Zentrum der Toposa-Gemeinschaft.",
       hu: "Kapoeta egy keleti város, amely az aranybányászatáról és a Toposa közösség központjaként ismert.",
@@ -395,8 +409,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Maridi",
       hu: "Maridi",
       ro: "Maridi",
-      en: "Maridi"
-    },
+      en: "Maridi",
+image: "/poi-images/maridi-cities-v2.webp"
+},
     description: {
       de: "Maridi ist eine wichtige Stadt in Western Equatoria, umgeben von dichten Wäldern und fruchtbarem Land.",
       hu: "Maridi egy fontos város Western Equatoriában, sűrű erdőkkel és termékeny földekkel körülvéve.",
@@ -418,8 +433,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Kajo Keji",
       hu: "Kajo Keji",
       ro: "Kajo Keji",
-      en: "Kajo Keji"
-    },
+      en: "Kajo Keji",
+image: "/poi-images/kajokeji-cities-v2.webp"
+},
     description: {
       de: "Kajo Keji ist eine Stadt nahe der ugandischen Grenze, bekannt für ihre Landwirtschaft und Bildungseinrichtungen.",
       hu: "Kajo Keji egy város az ugandai határ közelében, mezőgazdaságáról és oktatási intézményeiről ismert.",
@@ -441,8 +457,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Tonj",
       hu: "Tonj",
       ro: "Tonj",
-      en: "Tonj"
-    },
+      en: "Tonj",
+image: "/poi-images/tonj-cities-v2.webp"
+},
     description: {
       de: "Tonj ist eine bedeutende Stadt im Bundesstaat Warrap und ein Zentrum für die Viehzucht der Region.",
       hu: "Tonj egy jelentős város Warrap államban, a régió állattenyésztésének központja.",
@@ -464,8 +481,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Yirol",
       hu: "Yirol",
       ro: "Yirol",
-      en: "Yirol"
-    },
+      en: "Yirol",
+image: "/poi-images/yirol-cities-v2.webp"
+},
     description: {
       de: "Yirol liegt malerisch am Yirol-See und ist ein wichtiges Handelszentrum für Fisch und landwirtschaftliche Produkte.",
       hu: "Yirol festői helyen, a Yirol-tó partján fekszik, és a halak, valamint a mezőgazdasági termékek fontos kereskedelmi központja.",
@@ -487,8 +505,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Akobo",
       hu: "Akobo",
       ro: "Akobo",
-      en: "Akobo"
-    },
+      en: "Akobo",
+image: "/poi-images/akobo-cities-v2.webp"
+},
     description: {
       de: "Akobo ist eine Grenzstadt zu Äthiopien und ein wichtiger Außenposten im Osten des Bundesstaates Jonglei.",
       hu: "Akobo egy határváros Etiópia felé, és Jonglei állam keleti részének fontos őrhelye.",
@@ -510,8 +529,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Kodok",
       hu: "Kodok",
       ro: "Kodok",
-      en: "Kodok"
-    },
+      en: "Kodok",
+image: "/poi-images/kodok-cities-v2.webp"
+},
     description: {
       de: "Kodok, historisch als Faschoda bekannt, ist der Sitz des Königs der Shilluk und ein Ort von großer kultureller Bedeutung.",
       hu: "Kodok, történelmileg Faschoda néven ismert, a Shilluk király székhelye és nagy kulturális jelentőségű hely.",
@@ -533,8 +553,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Nasir",
       hu: "Nasir",
       ro: "Nasir",
-      en: "Nasir"
-    },
+      en: "Nasir",
+image: "/poi-images/nasir-cities-v2.webp"
+},
     description: {
       de: "Nasir ist eine strategisch wichtige Stadt am Sobat-Fluss, nahe der äthiopischen Grenze.",
       hu: "Nasir egy stratégiailag fontos város a Sobat-folyó mentén, az etióp határ közelében.",
@@ -556,8 +577,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Leer",
       hu: "Leer",
       ro: "Leer",
-      en: "Leer"
-    },
+      en: "Leer",
+image: "/poi-images/leer-cities-v2.webp"
+},
     description: {
       de: "Leer ist eine bedeutende Stadt im Bundesstaat Unity und ein historisches Zentrum der Nuer-Gemeinschaft.",
       hu: "Leer egy jelentős város Unity államban, a Nuer közösség történelmi központja.",
@@ -579,8 +601,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Magwi",
       hu: "Magwi",
       ro: "Magwi",
-      en: "Magwi"
-    },
+      en: "Magwi",
+image: "/poi-images/magwi-cities-v2.webp"
+},
     description: {
       de: "Magwi ist eine Agrarstadt in Eastern Equatoria, bekannt für ihre fruchtbaren Böden und als Flüchtlingsaufnahmezentrum.",
       hu: "Magwi egy mezőgazdasági város Eastern Equatoriában, termékeny talajáról és menekültbefogadó központjáról ismert.",
@@ -602,8 +625,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Mundri",
       hu: "Mundri",
       ro: "Mundri",
-      en: "Mundri"
-    },
+      en: "Mundri",
+image: "/poi-images/mundri-cities-v2.webp"
+},
     description: {
       de: "Mundri ist eine strategische Stadt in Western Equatoria an der Hauptstraße nach Juba.",
       hu: "Mundri egy stratégiai város Western Equatoriában, a Jubába vezető főút mentén.",
@@ -626,8 +650,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Tambura",
       hu: "Tambura",
       ro: "Tambura",
-      en: "Tambura"
-    },
+      en: "Tambura",
+image: "/poi-images/tambura-cities-v2.webp"
+},
     description: {
       de: "Tambura liegt im äußersten Westen des Landes nahe der Zentralafrikanischen Republik.",
       hu: "Tambura az ország távoli nyugati részén, a Közép-afrikai Köztársaság közelében található.",
@@ -649,8 +674,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Gogrial",
       hu: "Gogrial",
       ro: "Gogrial",
-      en: "Gogrial"
-    },
+      en: "Gogrial",
+image: "/poi-images/gogrial-cities-v2.webp"
+},
     description: {
       de: "Gogrial ist eine historische Stadt im Bundesstaat Warrap und ein bedeutendes Zentrum der Dinka.",
       hu: "Gogrial egy történelmi város Warrap államban, a dinkák jelentős központja.",
@@ -672,8 +698,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Turalei",
       hu: "Turalei",
       ro: "Turalei",
-      en: "Turalei"
-    },
+      en: "Turalei",
+image: "/poi-images/turalei-cities-v2.webp"
+},
     description: {
       de: "Turalei ist ein wichtiges regionales Zentrum im nördlichen Teil des Bundesstaates Warrap.",
       hu: "Turalei egy fontos regionális központ Warrap állam északi részén.",
@@ -696,8 +723,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Rubkona",
       hu: "Rubkona",
       ro: "Rubkona",
-      en: "Rubkona"
-    },
+      en: "Rubkona",
+image: "/poi-images/rubkona-cities-v2.webp"
+},
     description: {
       de: "Rubkona ist die Zwillingsstadt von Bentiu und ein wichtiger Verkehrsknotenpunkt mit einem aktiven Flughafen.",
       hu: "Rubkona Bentiu ikervárosa és egy fontos közlekedési csomópont aktív repülőtérrel.",
@@ -719,8 +747,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Mayom",
       hu: "Mayom",
       ro: "Mayom",
-      en: "Mayom"
-    },
+      en: "Mayom",
+image: "/poi-images/mayom-cities-v2.webp"
+},
     description: {
       de: "Mayom ist eine strategisch gelegene Stadt im westlichen Teil des Bundesstaates Unity.",
       hu: "Mayom egy stratégiailag elhelyezkedő város Unity állam nyugati részén.",
@@ -742,8 +771,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Pariang",
       hu: "Pariang",
       ro: "Pariang",
-      en: "Pariang"
-    },
+      en: "Pariang",
+image: "/poi-images/pariang-cities-v2.webp"
+},
     description: {
       de: "Pariang ist das administrative Zentrum des Ruweng Administrative Area und liegt im Zentrum der Ölförderung.",
       hu: "Pariang a Ruweng adminisztratív terület központja, az olajkitermelés szívében található.",
@@ -765,8 +795,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Pibor",
       hu: "Pibor",
       ro: "Pibor",
-      en: "Pibor"
-    },
+      en: "Pibor",
+image: "/poi-images/pibor-cities-v2.webp"
+},
     description: {
       de: "Pibor ist das administrative Zentrum des Greater Pibor Administrative Area im abgelegenen Osten des Landes.",
       hu: "Pibor a Greater Pibor adminisztratív terület központja az ország távoli keleti részén.",
@@ -788,8 +819,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Pochalla",
       hu: "Pochalla",
       ro: "Pochalla",
-      en: "Pochalla"
-    },
+      en: "Pochalla",
+image: "/poi-images/pochalla-cities-v2.webp"
+},
     description: {
       de: "Pochalla ist eine isolierte Stadt an der äthiopischen Grenze, bewohnt hauptsächlich vom Volk der Anyuak.",
       hu: "Pochalla egy elszigetelt város az etióp határon, főként az anyuak nép lakja.",
@@ -812,8 +844,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Raja",
       hu: "Raja",
       ro: "Raja",
-      en: "Raja"
-    },
+      en: "Raja",
+image: "/poi-images/raja-cities-v2.webp"
+},
     description: {
       de: "Raja ist die westlichste Stadt des Südsudans, nahe der Grenze zum Sudan und zur Zentralafrikanischen Republik.",
       hu: "Raja Dél-Szudán legnyugatibb városa, a szudáni és a közép-afrikai határ közelében.",
@@ -835,8 +868,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Deim Zubeir",
       hu: "Deim Zubeir",
       ro: "Deim Zubeir",
-      en: "Deim Zubeir"
-    },
+      en: "Deim Zubeir",
+image: "/poi-images/deim-zubeir-cities-v2.webp"
+},
     description: {
       de: "Deim Zubeir ist eine historische Stadt im Westen, die einst ein wichtiger Stützpunkt für den Sklavenhandel war.",
       hu: "Deim Zubeir egy történelmi város nyugaton, amely egykor a rabszolga-kereskedelem fontos bázisa volt.",
@@ -858,8 +892,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Terekeka",
       hu: "Terekeka",
       ro: "Terekeka",
-      en: "Terekeka"
-    },
+      en: "Terekeka",
+image: "/poi-images/terekeka-cities-v2.webp"
+},
     description: {
       de: "Terekeka ist die Hauptstadt des Mundari-Volkes am Weißen Nil, nördlich von Juba.",
       hu: "Terekeka a Mundari nép központja a Fehér-Nílus partján, Jubától északra.",
@@ -882,8 +917,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Lainya",
       hu: "Lainya",
       ro: "Lainya",
-      en: "Lainya"
-    },
+      en: "Lainya",
+image: "/poi-images/lainya-cities-v2.webp"
+},
     description: {
       de: "Lainya ist eine Agrarstadt an der Straße zwischen Juba und Yei in Central Equatoria.",
       hu: "Lainya egy mezőgazdasági város a Juba és Yei közötti út mentén, Central Equatoriában.",
@@ -905,8 +941,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Morobo",
       hu: "Morobo",
       ro: "Morobo",
-      en: "Morobo"
-    },
+      en: "Morobo",
+image: "/poi-images/morobo-cities-v2.webp"
+},
     description: {
       de: "Morobo liegt im Dreiländereck Südsudan, Uganda und DR Kongo und ist ein wichtiger Handelspunkt.",
       hu: "Morobo Dél-Szudán, Uganda és a Kongói DK hármashatáránál fekszik, és fontos kereskedelmi pont.",
@@ -929,8 +966,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Ezo",
       hu: "Ezo",
       ro: "Ezo",
-      en: "Ezo"
-    },
+      en: "Ezo",
+image: "/poi-images/ezo-cities-v2.webp"
+},
     description: {
       de: "Ezo liegt im Südwesten an der Grenze zur Zentralafrikanischen Republik und der DR Kongo.",
       hu: "Ezo délnyugaton fekszik a Közép-afrikai Köztársaság és a Kongói DK határán.",
@@ -952,8 +990,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Nagero",
       hu: "Nagero",
       ro: "Nagero",
-      en: "Nagero"
-    },
+      en: "Nagero",
+image: "/poi-images/nagero-cities-v2.webp"
+},
     description: {
       de: "Nagero ist eine kleine, aber strategisch wichtige Stadt im Bundesstaat Western Equatoria.",
       hu: "Nagero egy kicsi, de stratégiailag fontos város Western Equatoria államban.",
@@ -976,8 +1015,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Nzara",
       hu: "Nzara",
       ro: "Nzara",
-      en: "Nzara"
-    },
+      en: "Nzara",
+image: "/poi-images/nzara-cities-v2.webp"
+},
     description: {
       de: "Nzara ist ein industrielles und landwirtschaftliches Zentrum in Western Equatoria, bekannt für Baumwolle.",
       hu: "Nzara egy ipari és mezőgazdasági központ Western Equatoriában, a gyapotról ismert.",
@@ -999,8 +1039,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Ibba",
       hu: "Ibba",
       ro: "Ibba",
-      en: "Ibba"
-    },
+      en: "Ibba",
+image: "/poi-images/ibba-cities-v2.webp"
+},
     description: {
       de: "Ibba ist eine Stadt in Western Equatoria, bekannt für ihre Bildungsprojekte und die Landwirtschaft.",
       hu: "Ibba egy város Western Equatoriában, oktatási projektjeiről és mezőgazdaságáról ismert.",
@@ -1022,8 +1063,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Mvolo",
       hu: "Mvolo",
       ro: "Mvolo",
-      en: "Mvolo"
-    },
+      en: "Mvolo",
+image: "/poi-images/mvolo-cities-v2.webp"
+},
     description: {
       de: "Mvolo liegt im nordöstlichen Teil von Western Equatoria und ist ein wichtiger Punkt für den Handel mit Honig.",
       hu: "Mvolo Western Equatoria északkeleti részén fekszik, és a mézkereskedelem fontos pontja.",
@@ -1046,8 +1088,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Lui",
       hu: "Lui",
       ro: "Lui",
-      en: "Lui"
-    },
+      en: "Lui",
+image: "/poi-images/lui-cities-v2.webp"
+},
     description: {
       de: "Lui ist eine historische Missionsstadt in Western Equatoria, bekannt für ihr Krankenhaus und ihre Schulen.",
       hu: "Lui egy történelmi missziós város Western Equatoriában, kórházáról és iskoláiról ismert.",
@@ -1069,8 +1112,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Amadi",
       hu: "Amadi",
       ro: "Amadi",
-      en: "Amadi"
-    },
+      en: "Amadi",
+image: "/poi-images/amadi-cities-v2.webp"
+},
     description: {
       de: "Amadi ist eine kleine Stadt in Western Equatoria, die als lokales Verwaltungs- und Handelszentrum dient.",
       hu: "Amadi egy kisváros Western Equatoriában, amely helyi közigazgatási és kereskedelmi központként szolgál.",
@@ -1092,8 +1136,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Kotobi",
       hu: "Kotobi",
       ro: "Kotobi",
-      en: "Kotobi"
-    },
+      en: "Kotobi",
+image: "/poi-images/kotobi-cities-v2.webp"
+},
     description: {
       de: "Kotobi ist eine landwirtschaftlich geprägte Siedlung im Bundesstaat Western Equatoria.",
       hu: "Kotobi egy mezőgazdasági jellegű település Western Equatoria államban.",
@@ -1115,8 +1160,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Ganyliel",
       hu: "Ganyliel",
       ro: "Ganyliel",
-      en: "Ganyliel"
-    },
+      en: "Ganyliel",
+image: "/poi-images/ganyliel-cities-v2.webp"
+},
     description: {
       de: "Ganyliel ist eine isolierte Stadt in den Sudd-Sümpfen, die hauptsächlich per Boot erreichbar ist.",
       hu: "Ganyliel egy elszigetelt város a Sudd-mocsarakban, amely főként hajóval érhető el.",
@@ -1139,8 +1185,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Panyijar",
       hu: "Panyijar",
       ro: "Panyijar",
-      en: "Panyijar"
-    },
+      en: "Panyijar",
+image: "/poi-images/panyijar-cities-v2.webp"
+},
     description: {
       de: "Panyijar liegt im Süden des Bundesstaates Unity in einer wasserreichen Sumpflandschaft.",
       hu: "Panyijar Unity állam déli részén, egy vizekben gazdag mocsaras tájon található.",
@@ -1163,8 +1210,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Fangak",
       hu: "Fangak",
       ro: "Fangak",
-      en: "Fangak"
-    },
+      en: "Fangak",
+image: "/poi-images/fangak-cities-v2.webp"
+},
     description: {
       de: "Fangak ist eine abgelegene Stadt in Jonglei, umgeben von den weiten Sudd-Sümpfen.",
       hu: "Fangak egy távoli város Jonglei-ben, a hatalmas Sudd-mocsarakkal körülvéve.",
@@ -1187,8 +1235,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Ayod",
       hu: "Ayod",
       ro: "Ayod",
-      en: "Ayod"
-    },
+      en: "Ayod",
+image: "/poi-images/ayod-cities-v2.webp"
+},
     description: {
       de: "Ayod ist eine zentrale Stadt im Bundesstaat Jonglei, bekannt für ihre pastoralistische Lebensweise.",
       hu: "Ayod Jonglei állam egyik központi városa, pasztoralista életmódjáról ismert.",
@@ -1210,8 +1259,9 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: "Uror",
       hu: "Uror",
       ro: "Uror",
-      en: "Uror"
-    },
+      en: "Uror",
+image: "/poi-images/uror-cities-v2.webp"
+},
     description: {
       de: "Uror ist ein administratives Zentrum in Jonglei, geprägt durch die traditionelle Viehwirtschaft der Nuer.",
       hu: "Uror Jonglei egyik adminisztratív központja, amelyet a nuer nép hagyományos állattenyésztése határoz meg.",

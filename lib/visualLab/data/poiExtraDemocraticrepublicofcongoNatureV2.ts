@@ -7,7 +7,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [22.2, -6.0],
-    name: { de: "Lulua", hu: "Lulua", ro: "Lulua", en: "Lulua River" },
+    name: { de: "Lulua", hu: "Lulua", ro: "Lulua", en: "Lulua River",
+image: "/poi-images/lulua-river-nature-v2.webp"
+},
     description: {
       de: "Ein bedeutender Nebenfluss des Kasai im Süden der DR Kongo.",
       hu: "A Kasai jelentős mellékfolyója a Kongói DK déli részén.",
@@ -25,7 +27,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [18.5, -3.2],
-    name: { de: "Fimi", hu: "Fimi", ro: "Fimi", en: "Fimi River" },
+    name: { de: "Fimi", hu: "Fimi", ro: "Fimi", en: "Fimi River",
+image: "/poi-images/fimi-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der den Mai-Ndombe-See mit dem Kasai verbindet.",
       hu: "A Mai-Ndombe-tavat a Kasaival összekötő folyó.",
@@ -44,7 +48,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "lake",
     parent: "CD-XX",
     coords: [18.3, -2.0],
-    name: { de: "Mai-Ndombe-See", hu: "Mai-Ndombe-tó", ro: "Lacul Mai-Ndombe", en: "Lake Mai-Ndombe" },
+    name: { de: "Mai-Ndombe-See", hu: "Mai-Ndombe-tó", ro: "Lacul Mai-Ndombe", en: "Lake Mai-Ndombe",
+image: "/poi-images/mai-ndombe-lake-nature-v2.webp"
+},
     description: {
       de: "Ein großer Süßwassersee, dessen Name 'Schwarzes Wasser' bedeutet.",
       hu: "Nagy édesvízi tó, melynek neve 'fekete vizet' jelent.",
@@ -62,7 +68,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "lake",
     parent: "CD-XX",
     coords: [18.0, -0.8],
-    name: { de: "Tumbasee", hu: "Tumba-tó", ro: "Lacul Tumba", en: "Lake Tumba" },
+    name: { de: "Tumbasee", hu: "Tumba-tó", ro: "Lacul Tumba", en: "Lake Tumba",
+image: "/poi-images/tumba-lake-nature-v2.webp"
+},
     description: {
       de: "Ein flacher See im Äquatorbecken des Kongos.",
       hu: "Sekély tó a Kongó egyenlítői medencéjében.",
@@ -80,7 +88,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "forest",
     parent: "CD-XX",
     coords: [28.5, 2.0],
-    name: { de: "Okapi-Wildtierreservat", hu: "Okapi Vadrezervátum", ro: "Rezervația de Faună Okapi", en: "Okapi Wildlife Reserve" },
+    name: { de: "Okapi-Wildtierreservat", hu: "Okapi Vadrezervátum", ro: "Rezervația de Faună Okapi", en: "Okapi Wildlife Reserve",
+image: "/poi-images/okapi-wildlife-nature-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet im Ituri-Regenwald, bekannt für das seltene Okapi.",
       hu: "Védett terület az Ituri-esőerdőben, a ritka okapiról ismert.",
@@ -98,7 +108,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "mountain",
     parent: "CD-XX",
     coords: [27.8, -10.0],
-    name: { de: "Kundelungu-Berge", hu: "Kundelungu-hegység", ro: "Munții Kundelungu", en: "Kundelungu Mountains" },
+    name: { de: "Kundelungu-Berge", hu: "Kundelungu-hegység", ro: "Munții Kundelungu", en: "Kundelungu Mountains",
+image: "/poi-images/kundelungu-mountains-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug in Katanga mit spektakulären Wasserfällen.",
       hu: "Hegység Katangában, látványos vízesésekkel.",
@@ -116,7 +128,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [18.5, 0.0],
-    name: { de: "Ruki", hu: "Ruki", ro: "Ruki", en: "Ruki River" },
+    name: { de: "Ruki", hu: "Ruki", ro: "Ruki", en: "Ruki River",
+image: "/poi-images/ruki-river-nature-v2.webp"
+},
     description: {
       de: "Ein linker Nebenfluss des Kongos, bekannt für sein dunkles Wasser.",
       hu: "A Kongó bal oldali mellékfolyója, sötét vizéről ismert.",
@@ -134,7 +148,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [15.1, -4.7],
-    name: { de: "Inkisi", hu: "Inkisi", ro: "Inkisi", en: "Inkisi River" },
+    name: { de: "Inkisi", hu: "Inkisi", ro: "Inkisi", en: "Inkisi River",
+image: "/poi-images/inkisi-river-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger Fluss in der Provinz Kongo Central.",
       hu: "Fontos folyó Kongo Central tartományban.",
@@ -152,7 +168,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "lake",
     parent: "CD-XX",
     coords: [27.0, -10.9],
-    name: { de: "Tshangalele-See", hu: "Tshangalele-tó", ro: "Lacul Tshangalele", en: "Lake Tshangalele" },
+    name: { de: "Tshangalele-See", hu: "Tshangalele-tó", ro: "Lacul Tshangalele", en: "Lake Tshangalele",
+image: "/poi-images/tshangalele-lake-nature-v2.webp"
+},
     description: {
       de: "Ein künstlicher See, der durch den Lufira-Damm entstanden ist.",
       hu: "A Lufira-gát által létrehozott mesterséges tó.",
@@ -170,7 +188,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "island",
     parent: "CD-XX",
     coords: [29.0, -2.1],
-    name: { de: "Idjwi-Insel", hu: "Idjwi-sziget", ro: "Insula Idjwi", en: "Idjwi Island" },
+    name: { de: "Idjwi-Insel", hu: "Idjwi-sziget", ro: "Insula Idjwi", en: "Idjwi Island",
+image: "/poi-images/idjwi-island-nature-v2.webp"
+},
     description: {
       de: "Die größte Binneninsel Afrikas, gelegen im Kivusee.",
       hu: "Afrika legnagyobb szárazföldi szigete a Kivu-tóban.",
@@ -188,7 +208,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "island",
     parent: "CD-XX",
     coords: [12.8, -5.9],
-    name: { de: "Mateba-Insel", hu: "Mateba-sziget", ro: "Insula Mateba", en: "Mateba Island" },
+    name: { de: "Mateba-Insel", hu: "Mateba-sziget", ro: "Insula Mateba", en: "Mateba Island",
+image: "/poi-images/mateba-island-nature-v2.webp"
+},
     description: {
       de: "Eine große Insel im Mündungsdelta des Kongo-Flusses.",
       hu: "Nagy sziget a Kongó-folyó torkolati deltájában.",
@@ -206,7 +228,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "sea",
     parent: "CD-XX",
     coords: [12.3, -5.9],
-    name: { de: "Muanda-Küste", hu: "Muanda-part", ro: "Coasta Muanda", en: "Muanda Coast" },
+    name: { de: "Muanda-Küste", hu: "Muanda-part", ro: "Coasta Muanda", en: "Muanda Coast",
+image: "/poi-images/muanda-coast-nature-v2.webp"
+},
     description: {
       de: "Der einzige Küstenabschnitt der DR Kongo am Atlantik.",
       hu: "A Kongói DK egyetlen tengerparti szakasza az Atlanti-óceánnál.",
@@ -224,7 +248,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [28.6, 1.4],
-    name: { de: "Epulu", hu: "Epulu", ro: "Epulu", en: "Epulu River" },
+    name: { de: "Epulu", hu: "Epulu", ro: "Epulu", en: "Epulu River",
+image: "/poi-images/epulu-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Nordosten, bekannt für das Okapi-Zentrum.",
       hu: "Folyó északkeleten, az Okapi-központról ismert.",
@@ -242,7 +268,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [23.0, 4.0],
-    name: { de: "Mbomou", hu: "Mbomou", ro: "Mbomou", en: "Mbomou River" },
+    name: { de: "Mbomou", hu: "Mbomou", ro: "Mbomou", en: "Mbomou River",
+image: "/poi-images/mbomou-river-nature-v2.webp"
+},
     description: {
       de: "Ein Grenzfluss zwischen der DR Kongo und Zentralafrika.",
       hu: "Határfolyó a Kongói DK és Közép-Afrika között.",
@@ -260,7 +288,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [26.0, 3.5],
-    name: { de: "Uele", hu: "Uele", ro: "Uele", en: "Uele River" },
+    name: { de: "Uele", hu: "Uele", ro: "Uele", en: "Uele River",
+image: "/poi-images/uele-river-nature-v2.webp"
+},
     description: {
       de: "Ein großer Fluss im Norden, ein Hauptquellfluss des Ubangi.",
       hu: "Nagy folyó északon, az Ubangi egyik fő forrásfolyója.",
@@ -278,7 +308,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [25.0, 1.2],
-    name: { de: "Aruwimi", hu: "Aruwimi", ro: "Aruwimi", en: "Aruwimi River" },
+    name: { de: "Aruwimi", hu: "Aruwimi", ro: "Aruwimi", en: "Aruwimi River",
+image: "/poi-images/aruwimi-river-nature-v2.webp"
+},
     description: {
       de: "Ein bedeutender Nebenfluss des Kongos im Norden.",
       hu: "A Kongó jelentős északi mellékfolyója.",
@@ -296,7 +328,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "lake",
     parent: "CD-XX",
     coords: [15.5, -4.3],
-    name: { de: "Pool Malebo", hu: "Malebo-medence", ro: "Pool Malebo", en: "Pool Malebo" },
+    name: { de: "Pool Malebo", hu: "Malebo-medence", ro: "Pool Malebo", en: "Pool Malebo",
+image: "/poi-images/pool-malebo-nature-v2.webp"
+},
     description: {
       de: "Eine seeartige Ausweitung des Kongo-Flusses bei Kinshasa.",
       hu: "A Kongó-folyó tószerű kiszélesedése Kinshasa közelében.",
@@ -314,7 +348,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [14.0, -5.0],
-    name: { de: "Livingstone-Fälle", hu: "Livingstone-vízesés", ro: "Cascadele Livingstone", en: "Livingstone Falls" },
+    name: { de: "Livingstone-Fälle", hu: "Livingstone-vízesés", ro: "Cascadele Livingstone", en: "Livingstone Falls",
+image: "/poi-images/livingstone-falls-nature-v2.webp"
+},
     description: {
       de: "Eine gewaltige Serie von Stromschnellen im Unterlauf des Kongos.",
       hu: "Hatalmas zuhatagsorozat a Kongó alsó szakaszán.",
@@ -332,7 +368,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "forest",
     parent: "CD-XX",
     coords: [29.5, 4.0],
-    name: { de: "Garamba-Regenwald", hu: "Garamba-esőerdő", ro: "Pădurea Garamba", en: "Garamba Forest" },
+    name: { de: "Garamba-Regenwald", hu: "Garamba-esőerdő", ro: "Pădurea Garamba", en: "Garamba Forest",
+image: "/poi-images/garamba-forest-nature-v2.webp"
+},
     description: {
       de: "Ein vielfältiges Wald- und Savannengebiet im Nordosten.",
       hu: "Változatos erdő- és szavannaterület északkeleten.",
@@ -350,7 +388,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [27.0, -3.0],
-    name: { de: "Elila", hu: "Elila", ro: "Elila", en: "Elila River" },
+    name: { de: "Elila", hu: "Elila", ro: "Elila", en: "Elila River",
+image: "/poi-images/elila-river-nature-v2.webp"
+},
     description: {
       de: "Ein rechter Nebenfluss des Lualaba im Osten der DR Kongo.",
       hu: "A Lualaba jobb oldali mellékfolyója a Kongói DK keleti részén.",
@@ -368,7 +408,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "river",
     parent: "CD-XX",
     coords: [28.0, -2.5],
-    name: { de: "Ulindi", hu: "Ulindi", ro: "Ulindi", en: "Ulindi River" },
+    name: { de: "Ulindi", hu: "Ulindi", ro: "Ulindi", en: "Ulindi River",
+image: "/poi-images/ulindi-river-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgsfluss, der in den Lualaba mündet.",
       hu: "A Lualabába torkolló hegyi folyó.",
@@ -386,7 +428,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "lake",
     parent: "CD-XX",
     coords: [22.5, -6.5],
-    name: { de: "Lake Mukamba", hu: "Mukamba-tó", ro: "Lacul Mukamba", en: "Lake Mukamba" },
+    name: { de: "Lake Mukamba", hu: "Mukamba-tó", ro: "Lacul Mukamba", en: "Lake Mukamba",
+image: "/poi-images/mukamba-lake-nature-v2.webp"
+},
     description: {
       de: "Ein wunderschöner See in der Provinz Kasaï-Central.",
       hu: "Gyönyörű tó Kasaï-Central tartományban.",
@@ -404,7 +448,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "mountain",
     parent: "CD-XX",
     coords: [15.5, -4.4],
-    name: { de: "Mount Mangengenge", hu: "Mangengenge-hegy", ro: "Muntele Mangengenge", en: "Mount Mangengenge" },
+    name: { de: "Mount Mangengenge", hu: "Mangengenge-hegy", ro: "Muntele Mangengenge", en: "Mount Mangengenge",
+image: "/poi-images/mangengenge-mountain-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Berg in der Nähe von Kinshasa, ein Ziel für Pilger.",
       hu: "Jellegzetes hegy Kinshasa közelében, zarándokhely.",
@@ -422,7 +468,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "forest",
     parent: "CD-XX",
     coords: [24.0, -1.0],
-    name: { de: "Lomami-Regenwald", hu: "Lomami-esőerdő", ro: "Pădurea Lomami", en: "Lomami Rainforest" },
+    name: { de: "Lomami-Regenwald", hu: "Lomami-esőerdő", ro: "Pădurea Lomami", en: "Lomami Rainforest",
+image: "/poi-images/lomami-forest-nature-v2.webp"
+},
     description: {
       de: "Ein unberührtes Regenwaldgebiet im Herzen des Kongos.",
       hu: "Érintetlen esőerdő terület Kongó szívében.",
@@ -441,7 +489,9 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     type: "forest",
     parent: "CD-XX",
     coords: [12.4, -6.0],
-    name: { de: "Mangroven-Wald", hu: "Mangrove-erdő", ro: "Pădurea de Mangrove", en: "Mangrove Forest" },
+    name: { de: "Mangroven-Wald", hu: "Mangrove-erdő", ro: "Pădurea de Mangrove", en: "Mangrove Forest",
+image: "/poi-images/mangrove-forest-nature-v2.webp"
+},
     description: {
       de: "Einzigartige Mangrovenwälder an der Meeresmündung des Kongos.",
       hu: "Egyedülálló mangroveerdők a Kongó torkolatánál.",

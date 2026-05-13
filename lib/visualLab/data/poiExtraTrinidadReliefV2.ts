@@ -7,7 +7,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "mountain",
     parent: "TT-XX",
     coords: [-61.2500, 10.7500],
-    name: { de: "Northern Range", hu: "Északi-hegység", ro: "Northern Range", en: "Northern Range" },
+    name: { de: "Northern Range", hu: "Északi-hegység", ro: "Northern Range", en: "Northern Range",
+image: "/poi-images/tt-northern-range-relief-v2.webp"
+},
     description: { de: "Die höchste Gebirgskette auf Trinidad.", hu: "Trinidad legmagasabb hegylánca.", ro: "Cel mai înalt lanț muntos din Trinidad.", en: "The highest mountain range in Trinidad." },
     facts: {
       de: ["Erstreckt sich über den Norden der Insel", "Beherbergt den El Cerro del Aripo", "Bedecktes tropisches Regenwaldgebiet", "Wichtige Wasserscheide"],
@@ -33,7 +35,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "mountain",
     parent: "TT-XX",
     coords: [-61.2333, 10.7333],
-    name: { de: "El Cerro del Aripo", hu: "El Cerro del Aripo", ro: "El Cerro del Aripo", en: "El Cerro del Aripo" },
+    name: { de: "El Cerro del Aripo", hu: "El Cerro del Aripo", ro: "El Cerro del Aripo", en: "El Cerro del Aripo",
+image: "/poi-images/tt-el-cerro-del-aripo-relief-v2.webp"
+},
     description: { de: "Der höchste Punkt von Trinidad.", hu: "Trinidad legmagasabb pontja.", ro: "Cel mai înalt punct din Trinidad.", en: "The highest point in Trinidad." },
     facts: {
       de: ["Höhe von 940 Metern", "Teil der Northern Range", "Von dichtem Wald umgeben", "Geografisch markant"],
@@ -59,7 +63,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "mountain",
     parent: "TT-XX",
     coords: [-61.4167, 10.7333],
-    name: { de: "El Tucuche", hu: "El Tucuche", ro: "El Tucuche", en: "El Tucuche" },
+    name: { de: "El Tucuche", hu: "El Tucuche", ro: "El Tucuche", en: "El Tucuche",
+image: "/poi-images/tt-el-tucuche-relief-v2.webp"
+},
     description: { de: "Der zweithöchste Berg auf Trinidad.", hu: "Trinidad második legmagasabb hegye.", ro: "Al doilea cel mai înalt munte din Trinidad.", en: "The second highest mountain in Trinidad." },
     facts: {
       de: ["Höhe von 936 Metern", "Beliebtes Wanderziel", "Bietet einen Panoramablick", "Heimat endemischer Pflanzen"],
@@ -85,7 +91,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.3500, 10.4500],
-    name: { de: "Central Range", hu: "Központi-hegység", ro: "Central Range", en: "Central Range" },
+    name: { de: "Central Range", hu: "Központi-hegység", ro: "Central Range", en: "Central Range",
+image: "/poi-images/tt-central-range-relief-v2.webp"
+},
     description: { de: "Die zentrale Gebirgskette von Trinidad.", hu: "Trinidad központi hegylánca.", ro: "Lanțul muntos central al Trinidadului.", en: "The central mountain range of Trinidad." },
     facts: {
       de: ["Durchquert die Insel von West nach Ost", "Weniger schroff als die Northern Range", "Viel landwirtschaftliche Nutzung", "Wichtiger Lebensraum"],
@@ -111,7 +119,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.1500, 10.1500],
-    name: { de: "Southeastern Hills", hu: "Délkeleti-dombság", ro: "Dealurile de Sud-Est", en: "Southeastern Hills" },
+    name: { de: "Southeastern Hills", hu: "Délkeleti-dombság", ro: "Dealurile de Sud-Est", en: "Southeastern Hills",
+image: "/poi-images/tt-southeastern-hills-relief-v2.webp"
+},
     description: { de: "Hügellandschaft im Südosten von Trinidad.", hu: "Dombság Trinidad délkeleti részén.", ro: "Zona deluroasă în sud-estul Trinidadului.", en: "Hilly area in southeastern Trinidad." },
     facts: {
       de: ["Geringere Höhe", "Sanfte Erhebungen", "Teilweise bewaldet", "Ländlich geprägt"],
@@ -137,7 +147,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.2000, 10.7000],
-    name: { de: "Aripo Valley", hu: "Aripo-völgy", ro: "Valea Aripo", en: "Aripo Valley" },
+    name: { de: "Aripo Valley", hu: "Aripo-völgy", ro: "Valea Aripo", en: "Aripo Valley",
+image: "/poi-images/tt-arippo-valley-relief-v2.webp"
+},
     description: { de: "Ein Tal in der Nähe des höchsten Berges von Trinidad.", hu: "Völgy Trinidad legmagasabb hegyének közelében.", ro: "O vale lângă cel mai înalt munte din Trinidad.", en: "A valley near the highest mountain of Trinidad." },
     facts: {
       de: ["Tiefer gelegenes Gebiet", "Fruchtbarer Boden", "Umliegende Waldgebiete", "Naturbelassen"],
@@ -163,7 +175,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.4000, 10.5500],
-    name: { de: "Caroni Plain", hu: "Caroni-síkság", ro: "Câmpia Caroni", en: "Caroni Plain" },
+    name: { de: "Caroni Plain", hu: "Caroni-síkság", ro: "Câmpia Caroni", en: "Caroni Plain",
+image: "/poi-images/tt-caroni-plain-relief-v2.webp"
+},
     description: { de: "Das ausgedehnte Flachland im Westen von Trinidad.", hu: "Trinidad nyugati részének kiterjedt síksága.", ro: "Câmpia extinsă din vestul Trinidadului.", en: "The extensive flatland in western Trinidad." },
     facts: {
       de: ["Wichtigstes Anbaugebiet", "Durchflossen vom Caroni River", "Flaches Relief", "Dicht besiedelt"],
@@ -189,7 +203,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.0500, 10.3500],
-    name: { de: "Nariva Swamp", hu: "Nariva-mocsár", ro: "Mlaștina Nariva", en: "Nariva Swamp" },
+    name: { de: "Nariva Swamp", hu: "Nariva-mocsár", ro: "Mlaștina Nariva", en: "Nariva Swamp",
+image: "/poi-images/tt-nariva-swamp-relief-v2.webp"
+},
     description: { de: "Großes Feuchtgebiet an der Ostküste.", hu: "Hatalmas vizes élőhely a keleti parton.", ro: "Zonă umedă mare pe coasta de est.", en: "Large wetland on the east coast." },
     facts: {
       de: ["Wichtiges Naturschutzgebiet", "Vielfältige Flora und Fauna", "Marschland und Sumpf", "Geringe Erhebung"],
@@ -215,7 +231,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.5000, 10.2500],
-    name: { de: "Oropouche Lagoon", hu: "Oropouche-lagúna", ro: "Laguna Oropouche", en: "Oropouche Lagoon" },
+    name: { de: "Oropouche Lagoon", hu: "Oropouche-lagúna", ro: "Laguna Oropouche", en: "Oropouche Lagoon",
+image: "/poi-images/tt-oropouche-lagoon-relief-v2.webp"
+},
     description: { de: "Ein bedeutendes Feuchtgebiet im Südwesten.", hu: "Jelentős vizes élőhely délnyugaton.", ro: "O zonă umedă importantă în sud-vest.", en: "A significant wetland in the southwest." },
     facts: {
       de: ["Küstennahes Tiefland", "Reich an Vogelarten", "Sumpfige Umgebung", "Wichtig für die lokale Ökologie"],
@@ -241,7 +259,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.6000, 10.0500],
-    name: { de: "Columbus Channel", hu: "Kolumbusz-csatorna", ro: "Canalul lui Columb", en: "Columbus Channel" },
+    name: { de: "Columbus Channel", hu: "Kolumbusz-csatorna", ro: "Canalul lui Columb", en: "Columbus Channel",
+image: "/poi-images/tt-columbus-channel-relief-v2.webp"
+},
     description: { de: "Das Gewässer zwischen Trinidad und Venezuela.", hu: "A Trinidad és Venezuela közötti vízterület.", ro: "Apa dintre Trinidad și Venezuela.", en: "The body of water between Trinidad and Venezuela." },
     facts: {
       de: ["Flaches Schelfgebiet", "Historisch bedeutend", "Meeresboden relief", "Reiches Meeresleben"],
@@ -267,7 +287,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.0000, 10.1333],
-    name: { de: "Guayaguayare Lowlands", hu: "Guayaguayare-alföld", ro: "Câmpiile Guayaguayare", en: "Guayaguayare Lowlands" },
+    name: { de: "Guayaguayare Lowlands", hu: "Guayaguayare-alföld", ro: "Câmpiile Guayaguayare", en: "Guayaguayare Lowlands",
+image: "/poi-images/tt-guayaguayare-lowlands-relief-v2.webp"
+},
     description: { de: "Tiefland im äußersten Südosten.", hu: "Alföld a legdélibb-keleti részen.", ro: "Câmpie în extremitatea de sud-est.", en: "Lowland in the far southeast." },
     facts: {
       de: ["Flaches Terrain", "Tropisches Klima", "Küstennah", "Viel Vegetation"],
@@ -293,7 +315,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.8000, 10.1000],
-    name: { de: "Cedros Peninsula", hu: "Cedros-félsziget", ro: "Peninsula Cedros", en: "Cedros Peninsula" },
+    name: { de: "Cedros Peninsula", hu: "Cedros-félsziget", ro: "Peninsula Cedros", en: "Cedros Peninsula",
+image: "/poi-images/tt-cedros-peninsula-relief-v2.webp"
+},
     description: { de: "Die lange Halbinsel im Südwesten von Trinidad.", hu: "A hosszú félsziget Trinidad délnyugati részén.", ro: "Peninsula lungă din sud-vestul Trinidadului.", en: "The long peninsula in the southwest of Trinidad." },
     facts: {
       de: ["Längliche Erhebung", "Küstenlinie mit Stränden", "Wenig besiedelt", "Geografisch abgesetzt"],
@@ -319,7 +343,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.5000, 10.7500],
-    name: { de: "Paria Coast Cliffs", hu: "Paria-parti sziklák", ro: "Stâncile coastei Paria", en: "Paria Coast Cliffs" },
+    name: { de: "Paria Coast Cliffs", hu: "Paria-parti sziklák", ro: "Stâncile coastei Paria", en: "Paria Coast Cliffs",
+image: "/poi-images/tt-paria-coast-cliffs-relief-v2.webp"
+},
     description: { de: "Steile Klippen entlang der Nordküste.", hu: "Meredek sziklák az északi part mentén.", ro: "Stânci abrupte de-a lungul coastei de nord.", en: "Steep cliffs along the north coast." },
     facts: {
       de: ["Beeindruckende Felswände", "Direkter Meerzugang", "Gefährliches Terrain", "Hohe Erhebung"],
@@ -345,7 +371,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.1667, 10.7333],
-    name: { de: "Madamas Valley", hu: "Madamas-völgy", ro: "Valea Madamas", en: "Madamas Valley" },
+    name: { de: "Madamas Valley", hu: "Madamas-völgy", ro: "Valea Madamas", en: "Madamas Valley",
+image: "/poi-images/tt-madamas-valley-relief-v2.webp"
+},
     description: { de: "Ein abgeschiedenes Tal in der Northern Range.", hu: "Elszigetelt völgy az Északi-hegységben.", ro: "O vale izolată în Northern Range.", en: "A secluded valley in the Northern Range." },
     facts: {
       de: ["Tiefe Talsohle", "Umgeben von Berggipfeln", "Unberührte Natur", "Schwer zugänglich"],
@@ -371,7 +399,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.1833, 10.7167],
-    name: { de: "Cumaca Caves", hu: "Cumaca-barlangok", ro: "Peșterile Cumaca", en: "Cumaca Caves" },
+    name: { de: "Cumaca Caves", hu: "Cumaca-barlangok", ro: "Peșterile Cumaca", en: "Cumaca Caves",
+image: "/poi-images/tt-cumaca-caves-relief-v2.webp"
+},
     description: { de: "Ein Höhlensystem in den Bergen.", hu: "Barlangrendszer a hegyekben.", ro: "Un sistem de peșteri în munți.", en: "A cave system in the mountains." },
     facts: {
       de: ["Unterirdisches Relief", "Kalksteinformationen", "Heimat von Oilbirds", "Natürliches Abenteuer"],
@@ -397,7 +427,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.3000, 10.7667],
-    name: { de: "Blanchisseuse Slopes", hu: "Blanchisseuse-i lejtők", ro: "Pantele Blanchisseuse", en: "Blanchisseuse Slopes" },
+    name: { de: "Blanchisseuse Slopes", hu: "Blanchisseuse-i lejtők", ro: "Pantele Blanchisseuse", en: "Blanchisseuse Slopes",
+image: "/poi-images/tt-blanchisseuse-slopes-relief-v2.webp"
+},
     description: { de: "Hänge an der Nordküste.", hu: "Lejtők az északi parton.", ro: "Pante pe coasta de nord.", en: "Slopes on the north coast." },
     facts: {
       de: ["Abfallendes Gelände", "Tropisch bewaldet", "Gute Aussicht", "Natürliche Entwässerung"],
@@ -423,7 +455,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.3667, 10.4333],
-    name: { de: "Gran Couva Highlands", hu: "Gran Couva-i felföld", ro: "Munții Gran Couva", en: "Gran Couva Highlands" },
+    name: { de: "Gran Couva Highlands", hu: "Gran Couva-i felföld", ro: "Munții Gran Couva", en: "Gran Couva Highlands",
+image: "/poi-images/tt-gran-couva-highlands-relief-v2.webp"
+},
     description: { de: "Höher gelegenes Gebiet in Zentral-Trinidad.", hu: "Magasabban fekvő terület Közép-Trinidadban.", ro: "Zonă de altitudine în Trinidadul central.", en: "Highland area in central Trinidad." },
     facts: {
       de: ["Sanfte Hügel", "Kakaoanbaugebiet", "Kühlere Temperaturen", "Schöne Landschaften"],
@@ -449,7 +483,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-60.9500, 10.8333],
-    name: { de: "Toco Cliffside", hu: "Toco-i sziklapart", ro: "Coasta stâncoasă Toco", en: "Toco Cliffside" },
+    name: { de: "Toco Cliffside", hu: "Toco-i sziklapart", ro: "Coasta stâncoasă Toco", en: "Toco Cliffside",
+image: "/poi-images/tt-toco-cliffside-relief-v2.webp"
+},
     description: { de: "Die felsige Nordostspitze von Trinidad.", hu: "Trinidad sziklás északkeleti csücske.", ro: "Vârful stâncos de nord-est al Trinidadului.", en: "The rocky northeast tip of Trinidad." },
     facts: {
       de: ["Windige Küste", "Robuste Felsformationen", "Blick auf den Atlantik", "Geografischer Grenzpunkt"],
@@ -475,7 +511,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.0500, 10.5167],
-    name: { de: "Manzanilla Beach Ridges", hu: "Manzanilla-i tengerparti gerincek", ro: "Crestele de coastă Manzanilla", en: "Manzanilla Beach Ridges" },
+    name: { de: "Manzanilla Beach Ridges", hu: "Manzanilla-i tengerparti gerincek", ro: "Crestele de coastă Manzanilla", en: "Manzanilla Beach Ridges",
+image: "/poi-images/tt-manzanilla-beach-ridges-relief-v2.webp"
+},
     description: { de: "Sandige Dünen und Kämme an der Ostküste.", hu: "Homokos dűnék és gerincek a keleti parton.", ro: "Dune de nisip și creste pe coasta de est.", en: "Sandy dunes and ridges on the east coast." },
     facts: {
       de: ["Flache Sandstrukturen", "Geringe Erhöhung", "Küstenökosystem", "Natürlicher Wellenbrecher"],
@@ -501,7 +539,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.2000, 10.6500],
-    name: { de: "Valencia Plateau", hu: "Valencia-fennsík", ro: "Platoul Valencia", en: "Valencia Plateau" },
+    name: { de: "Valencia Plateau", hu: "Valencia-fennsík", ro: "Platoul Valencia", en: "Valencia Plateau",
+image: "/poi-images/tt-valencia-plateau-relief-v2.webp"
+},
     description: { de: "Eine erhöht liegende Fläche bei Valencia.", hu: "Egy magasan fekvő sík terület Valencia közelében.", ro: "O zonă plată ridicată lângă Valencia.", en: "A raised flat area near Valencia." },
     facts: {
       de: ["Ebener Boden", "Umliegende Wälder", "Mäßige Erhebung", "Ländlich"],
@@ -527,7 +567,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.1333, 10.5833],
-    name: { de: "Sangre Grande Hills", hu: "Sangre Grande-i dombság", ro: "Dealurile Sangre Grande", en: "Sangre Grande Hills" },
+    name: { de: "Sangre Grande Hills", hu: "Sangre Grande-i dombság", ro: "Dealurile Sangre Grande", en: "Sangre Grande Hills",
+image: "/poi-images/tt-sangre-grande-hills-relief-v2.webp"
+},
     description: { de: "Hügelige Region um Sangre Grande.", hu: "Dombos régió Sangre Grande körül.", ro: "Regiune deluroasă în jurul Sangre Grande.", en: "Hilly region around Sangre Grande." },
     facts: {
       de: ["Sanft gewellt", "Teilweise landwirtschaftlich", "Grünbewachsen", "Lokales Relief"],
@@ -553,7 +595,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.0167, 10.2333],
-    name: { de: "Mayaro Coast Lowlands", hu: "Mayaro-parti alföld", ro: "Câmpiile de coastă Mayaro", en: "Mayaro Coast Lowlands" },
+    name: { de: "Mayaro Coast Lowlands", hu: "Mayaro-parti alföld", ro: "Câmpiile de coastă Mayaro", en: "Mayaro Coast Lowlands",
+image: "/poi-images/tt-mayaro-coast-lowlands-relief-v2.webp"
+},
     description: { de: "Flachland entlang der Mayaro-Küste.", hu: "Alföld a Mayaro-part mentén.", ro: "Câmpie de-a lungul coastei Mayaro.", en: "Lowland along the Mayaro coast." },
     facts: {
       de: ["Sandige Küste", "Flaches Hinterland", "Tropisch", "Lange Strände"],
@@ -579,7 +623,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.3167, 10.4000],
-    name: { de: "Brasso Valleys", hu: "Brasso-völgyek", ro: "Văile Brasso", en: "Brasso Valleys" },
+    name: { de: "Brasso Valleys", hu: "Brasso-völgyek", ro: "Văile Brasso", en: "Brasso Valleys",
+image: "/poi-images/tt-brasso-valleys-relief-v2.webp"
+},
     description: { de: "Ein System von Tälern in Zentral-Trinidad.", hu: "Völgyrendszer Közép-Trinidadban.", ro: "Un sistem de văi în Trinidadul central.", en: "A system of valleys in central Trinidad." },
     facts: {
       de: ["Zerklüftetes Relief", "Flüsse", "Bewaldet", "Landwirtschaft"],
@@ -605,7 +651,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-60.9833, 10.8167],
-    name: { de: "Matelot Rugged Coast", hu: "Matelot-i sziklás part", ro: "Coasta stâncoasă Matelot", en: "Matelot Rugged Coast" },
+    name: { de: "Matelot Rugged Coast", hu: "Matelot-i sziklás part", ro: "Coasta stâncoasă Matelot", en: "Matelot Rugged Coast",
+image: "/poi-images/tt-matelot-rugged-coast-relief-v2.webp"
+},
     description: { de: "Ein extrem zerklüfteter Küstenabschnitt.", hu: "Egy rendkívül sziklás partvidék.", ro: "O secțiune de coastă extrem de stâncoasă.", en: "An extremely rugged stretch of coast." },
     facts: {
       de: ["Steilküste", "Atlantikbrandung", "Abgeschieden", "Spektakulär"],
@@ -631,7 +679,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     type: "relief",
     parent: "TT-XX",
     coords: [-61.2667, 10.4000],
-    name: { de: "Tabaquite Hills", hu: "Tabaquite-i dombság", ro: "Dealurile Tabaquite", en: "Tabaquite Hills" },
+    name: { de: "Tabaquite Hills", hu: "Tabaquite-i dombság", ro: "Dealurile Tabaquite", en: "Tabaquite Hills",
+image: "/poi-images/tt-tabaquite-hills-relief-v2.webp"
+},
     description: { de: "Hügellandschaft im zentralen Trinidad.", hu: "Dombos táj Közép-Trinidadban.", ro: "Peisaj deluros în Trinidadul central.", en: "Hilly landscape in central Trinidad." },
     facts: {
       de: ["Welliges Relief", "Grüne Hügel", "Landwirtschaftlich", "Inland"],

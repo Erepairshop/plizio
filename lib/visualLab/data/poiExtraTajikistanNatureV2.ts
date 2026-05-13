@@ -10,8 +10,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Pamir-Gebirge",
       hu: "Pamír-hegység",
       ro: "Munții Pamir",
-      en: "Pamir Mountains"
-    },
+      en: "Pamir Mountains",
+image: "/poi-images/pamir-mountains-nature-v2.webp"
+},
     description: {
       de: "Das Dach der Welt bietet gewaltige Gletscher und tief eingeschnittene Täler, die Bergsteiger aus aller Welt anziehen.",
       hu: "A világ tetejeként is ismert régió hatalmas gleccsereket és mély völgyeket rejt, vonzva a hegymászókat.",
@@ -45,8 +46,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Iskanderkul",
       hu: "Iszkander-tó",
       ro: "Lacul Iskanderkul",
-      en: "Iskanderkul"
-    },
+      en: "Iskanderkul",
+image: "/poi-images/iskanderkul-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer Bergsee im Fann-Gebirge, benannt nach Alexander dem Großen, der hier auf seinen Feldzügen gerastet haben soll.",
       hu: "Festői hegyi tó a Fan-hegységben, amely Nagy Sándor nevét viseli a legenda szerinti itteni táborozása után.",
@@ -80,8 +82,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Karakul-See",
       hu: "Karakul-tó",
       ro: "Lacul Karakul",
-      en: "Karakul Lake"
-    },
+      en: "Karakul Lake",
+image: "/poi-images/karakul-lake-nature-v2.webp"
+},
     description: {
       de: "Ein tiefer Kratersee im Pamir, der durch einen Meteoriteneinschlag vor Millionen von Jahren entstanden ist.",
       hu: "Mély krátertó a Pamírban, amelyet évmilliókkal ezelőtt egy meteoritbecsapódás hozott létre.",
@@ -115,8 +118,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Saressee",
       hu: "Szarez-tó",
       ro: "Lacul Sarez",
-      en: "Sarez Lake"
-    },
+      en: "Sarez Lake",
+image: "/poi-images/sarez-lake-nature-v2.webp"
+},
     description: {
       de: "Dieser See entstand 1911 durch ein massives Erdbeben, das den Fluss Murgab durch einen riesigen Erdrutsch blockierte.",
       hu: "A tó egy 1911-es hatalmas földrengés során keletkezett, amely egy kőomlással elzárta a Murgab folyót.",
@@ -150,8 +154,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Pik Ismoil Somoni",
       hu: "Iszmoil Szomoni-csúcs",
       ro: "Vârful Ismoil Somoni",
-      en: "Peak Ismoil Somoni"
-    },
+      en: "Peak Ismoil Somoni",
+image: "/poi-images/peak-ismoil-somoni-nature-v2.webp"
+},
     description: {
       de: "Der höchste Berg Tadschikistans war einst der höchste Punkt der gesamten Sowjetunion und zieht heute Profi-Alpinisten an.",
       hu: "Tádzsikisztán legmagasabb hegye egykor az egész Szovjetunió legmagasabb pontja volt, ma profi alpinistákat vonz.",
@@ -185,8 +190,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Pik Ibn Sina",
       hu: "Ibn Szína-csúcs",
       ro: "Vârful Ibn Sina",
-      en: "Peak Ibn Sina"
-    },
+      en: "Peak Ibn Sina",
+image: "/poi-images/peak-ibn-sina-nature-v2.webp"
+},
     description: {
       de: "Ein massiver schneebedeckter Gipfel, der auf der Grenze zu Kirgisistan liegt und nach dem berühmten persischen Gelehrten Avicenna benannt ist.",
       hu: "Egy hatalmas hófedte csúcs a kirgiz határon, amely a híres perzsa tudós, Avicenna nevét viseli.",
@@ -220,8 +226,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Pandsch",
       hu: "Pandzs",
       ro: "Râul Pyanj",
-      en: "Pyanj River"
-    },
+      en: "Pyanj River",
+image: "/poi-images/pyanj-river-nature-v2.webp"
+},
     description: {
       de: "Dieser wilde Fluss bildet die natürliche und historische Grenze zwischen Tadschikistan und Afghanistan durch den Pamir.",
       hu: "Ez a vad folyó alkotja a természetes és történelmi határt Tádzsikisztán és Afganisztán között a Pamíron keresztül.",
@@ -256,8 +263,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Wachsch",
       hu: "Vahs",
       ro: "Râul Vakhsh",
-      en: "Vakhsh River"
-    },
+      en: "Vakhsh River",
+image: "/poi-images/vakhsh-river-nature-v2.webp"
+},
     description: {
       de: "Einer der wichtigsten Flüsse für die Wasserkraft in Zentralasien, der durch tiefe Schluchten im Südwesten fließt.",
       hu: "Közép-Ázsia egyik legfontosabb folyója a vízenergia szempontjából, amely mély szurdokokon folyik keresztül délnyugaton.",
@@ -291,8 +299,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Serafschan",
       hu: "Zarafson",
       ro: "Râul Zeravshan",
-      en: "Zeravshan River"
-    },
+      en: "Zeravshan River",
+image: "/poi-images/zeravshan-river-nature-v2.webp"
+},
     description: {
       de: "Ein antiker Fluss, dessen Name 'Goldsprüher' bedeutet und der die grünen Täler Nordtadschikistans bewässert.",
       hu: "Egy ősi folyó, amelynek neve 'aranyhintőt' jelent, és Észak-Tádzsikisztán zöld völgyeit öntözi.",
@@ -326,8 +335,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Jaschilkul",
       hu: "Jasilkul",
       ro: "Lacul Yashilkul",
-      en: "Yashilkul"
-    },
+      en: "Yashilkul",
+image: "/poi-images/yashilkul-nature-v2.webp"
+},
     description: {
       de: "Ein Süßwassersee im südlichen Pamir, bekannt für sein ungewöhnlich tiefgrünes Wasser in der sonst kargen Landschaft.",
       hu: "Édesvizű tó a déli Pamírban, amely szokatlanul mélyzöld vizéről ismert a különben kopár tájon.",
@@ -361,8 +371,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Sorkulsee",
       hu: "Zorkul-tó",
       ro: "Lacul Zorkul",
-      en: "Zorkul"
-    },
+      en: "Zorkul",
+image: "/poi-images/zorkul-nature-v2.webp"
+},
     description: {
       de: "Dieser grenzüberschreitende See liegt auf der Grenze zu Afghanistan und ist ein streng geschütztes Naturreservat.",
       hu: "Ez a határon átnyúló tó az afgán határon fekszik, és szigorúan védett természetvédelmi terület.",
@@ -396,8 +407,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Fann-Gebirge",
       hu: "Fan-hegység",
       ro: "Munții Fann",
-      en: "Fann Mountains"
-    },
+      en: "Fann Mountains",
+image: "/poi-images/fann-mountains-nature-v2.webp"
+},
     description: {
       de: "Ein Gebirgszug, der für seine unzähligen türkisfarbenen Bergseen und zerklüfteten Gipfel bei Wanderern beliebt ist.",
       hu: "A túrázók körében népszerű hegylánc, amely számtalan türkizkék hegyi taváról és csipkézett csúcsairól ismert.",
@@ -431,8 +443,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Pik Korschenewskaja",
       hu: "Korzsenyevszkaja-csúcs",
       ro: "Vârful Korzhenevskaya",
-      en: "Peak Korzhenevskaya"
-    },
+      en: "Peak Korzhenevskaya",
+image: "/poi-images/peak-korzhenevskaya-nature-v2.webp"
+},
     description: {
       de: "Einer der fünf 'Schneeleoparden'-Gipfel der ehemaligen Sowjetunion, benannt nach der Frau eines russischen Geografen.",
       hu: "A volt Szovjetunió öt 'Hópárduc' csúcsának egyike, amelyet egy orosz geográfus feleségéről neveztek el.",
@@ -466,8 +479,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Bartang",
       hu: "Bartang",
       ro: "Râul Bartang",
-      en: "Bartang River"
-    },
+      en: "Bartang River",
+image: "/poi-images/bartang-river-nature-v2.webp"
+},
     description: {
       de: "Ein ungestümer Gebirgsfluss, der das Saressee-System entwässert und sich durch eines der wildesten Täler des Pamir schneidet.",
       hu: "Szilaj hegyi folyó, amely a Szarez-tó rendszerét vezeti le, és a Pamír egyik legvadabb völgyén vág keresztül.",
@@ -501,8 +515,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Gunt",
       hu: "Gunt",
       ro: "Râul Gunt",
-      en: "Gunt River"
-    },
+      en: "Gunt River",
+image: "/poi-images/gunt-river-nature-v2.webp"
+},
     description: {
       de: "Dieser Gletscherfluss fließt durch tiefe Schluchten im Shugnan-Gebirge, bevor er in der Stadt Chorugh mündet.",
       hu: "Ez a gleccserfolyó a Sugnan-hegység mély szurdokain folyik keresztül, mielőtt Horog városában a Pandzsba ömlik.",
@@ -536,8 +551,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Bulunkul-See",
       hu: "Bulunkul-tó",
       ro: "Lacul Bulunkul",
-      en: "Bulunkul Lake"
-    },
+      en: "Bulunkul Lake",
+image: "/poi-images/bulunkul-lake-nature-v2.webp"
+},
     description: {
       de: "Ein kleiner, flacher Süßwassersee im Pamir, der für die kältesten jemals in Tadschikistan gemessenen Temperaturen bekannt ist.",
       hu: "Egy kis sekély édesvizű tó a Pamírban, amely a Tádzsikisztánban valaha mért leghidegebb hőmérsékletekről ismert.",
@@ -571,8 +587,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Haft Kul",
       hu: "Haft Kul (Hét tó)",
       ro: "Haft Kul (Șapte Lacuri)",
-      en: "Haft Kul (Seven Lakes)"
-    },
+      en: "Haft Kul (Seven Lakes)",
+image: "/poi-images/haft-kul-nature-v2.webp"
+},
     description: {
       de: "Eine Kette von sieben stufenförmig angeordneten Seen im Shing-Tal, die in verschiedenen Farbtönen von Blau bis Türkis leuchten.",
       hu: "Hét lépcsőzetesen elhelyezkedő tó láncolata a Sing-völgyben, amelyek a kék és türkiz különböző árnyalataiban pompáznak.",
@@ -606,8 +623,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Tigrowaja-Balka-Naturreservat",
       hu: "Tigrovaja Balka Természetvédelmi Terület",
       ro: "Rezervația Naturală Tigrovaya Balka",
-      en: "Tigrovaya Balka Nature Reserve"
-    },
+      en: "Tigrovaya Balka Nature Reserve",
+image: "/poi-images/tigrovaya-balka-nature-v2.webp"
+},
     description: {
       de: "Eines der letzten großen Tugai-Auwälder-Ökosysteme der Welt, in dem einst der Kaspische Tiger beheimatet war.",
       hu: "A világ egyik utolsó nagy ártéri 'tugai' erdei ökoszisztémája, ahol egykor a kaszpi tigris honos volt.",
@@ -641,8 +659,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Tadschikischer Nationalpark",
       hu: "Tádzsik Nemzeti Park",
       ro: "Parcul Național Tadjic",
-      en: "Tajik National Park"
-    },
+      en: "Tajik National Park",
+image: "/poi-images/tajik-national-park-nature-v2.webp"
+},
     description: {
       de: "Dieses gigantische Schutzgebiet bedeckt fast 18 Prozent des tadschikischen Territoriums und schützt das Herz des Pamir-Gebirges.",
       hu: "Ez a gigantikus védett terület Tádzsikisztán területének majdnem 18 százalékát fedi le, megóvva a Pamír-hegység szívét.",
@@ -676,8 +695,9 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       de: "Shirkent-Nationalpark",
       hu: "Sirkent Nemzeti Park",
       ro: "Parcul Național Shirkent",
-      en: "Shirkent National Park"
-    },
+      en: "Shirkent National Park",
+image: "/poi-images/shirkent-national-park-nature-v2.webp"
+},
     description: {
       de: "Ein historischer Naturpark im Hissar-Gebirge, der berühmt für seine fossilen Dinosaurier-Fußabdrücke aus der Jurazeit ist.",
       hu: "Történelmi natúrpark a Hisszár-hegységben, amely a jura időszakból származó megkövesedett dinoszaurusz-lábnyomairól híres.",

@@ -10,8 +10,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Somhlolo-Nationalstadion",
       hu: "Somhlolo Nemzeti Stadion",
       ro: "Stadionul Național Somhlolo",
-      en: "Somhlolo National Stadium"
-    },
+      en: "Somhlolo National Stadium",
+image: "/poi-images/somhlolo-national-stadium-landmarks-v2.webp"
+},
     description: {
       de: "Das in Lobamba gelegene Nationalstadion ist der Hauptveranstaltungsort für Sport und große nationale Feierlichkeiten in Eswatini.",
       hu: "A Lobambában található nemzeti stadion az ország legfőbb sportlétesítménye és a nagy nemzeti ünnepségek helyszíne.",
@@ -33,8 +34,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Parlamentsgebäude von Eswatini",
       hu: "Eswatini Parlamentje",
       ro: "Clădirea Parlamentului Eswatini",
-      en: "Parliament Building of Eswatini"
-    },
+      en: "Parliament Building of Eswatini",
+image: "/poi-images/parliament-building-swaziland-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes Gebäude in Lobamba, in dem die gesetzgebende Versammlung des Landes tagt und das die politische Souveränität symbolisiert.",
       hu: "Lobamba egyik kiemelkedő épülete, ahol az ország törvényhozó gyűlése ülésezik, és amely a politikai szuverenitást jelképezi.",
@@ -57,8 +59,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "King Sobhuza II Memorial Park",
       hu: "II. Sobhuza Király Emlékpark",
       ro: "Parcul Memorial Regele Sobhuza al II-lea",
-      en: "King Sobhuza II Memorial Park"
-    },
+      en: "King Sobhuza II Memorial Park",
+image: "/poi-images/king-sobhuza-ii-memorial-park-landmarks-v2.webp"
+},
     description: {
       de: "Ein Denkmal zu Ehren des am längsten regierenden Monarchen Eswatinis, das Einblicke in sein Leben und Erbe bietet.",
       hu: "Emlékmű Eswatini leghosszabb ideig uralkodó monarchájának tiszteletére, amely betekintést nyújt életébe és örökségébe.",
@@ -80,8 +83,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Königliches Dorf Ludzidzini",
       hu: "Ludzidzini királyi falu",
       ro: "Satul Regal Ludzidzini",
-      en: "Ludzidzini Royal Village"
-    },
+      en: "Ludzidzini Royal Village",
+image: "/poi-images/ludzidzini-royal-village-landmarks-v2.webp"
+},
     description: {
       de: "Der traditionelle Sitz der Königinmutter und der Ort, an dem die wichtigsten kulturellen Zeremonien wie der Incwala stattfinden.",
       hu: "Az anyakirálynő tradicionális székhelye és a legfontosabb kulturális ceremóniák, mint az Incwala helyszíne.",
@@ -103,8 +107,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Lozitha-Königspalast",
       hu: "Lozitha királyi palota",
       ro: "Palatul Regal Lozitha",
-      en: "Lozitha Royal Palace"
-    },
+      en: "Lozitha Royal Palace",
+image: "/poi-images/lozitha-royal-palace-landmarks-v2.webp"
+},
     description: {
       de: "Die offizielle Residenz von König Mswati III., die für Staatsbesuche und offizielle königliche Angelegenheiten genutzt wird.",
       hu: "III. Mswati király hivatalos rezidenciája, amelyet állami látogatásokra és hivatalos királyi ügyekre használnak.",
@@ -126,8 +131,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Kathedrale Unserer Lieben Frau von der Himmelfahrt",
       hu: "Nagyboldogasszony-székesegyház",
       ro: "Catedrala Adormirea Maicii Domnului",
-      en: "Cathedral of Our Lady of Assumption"
-    },
+      en: "Cathedral of Our Lady of Assumption",
+image: "/poi-images/cathedral-lady-assumption-manzini-landmarks-v2.webp"
+},
     description: {
       de: "Die Hauptkirche der Diözese Manzini, ein bedeutendes religiöses Wahrzeichen mit moderner Architektur.",
       hu: "A Manzini egyházmegye főtemploma, egy modern építészeti stílusú, jelentős vallási jelkép.",
@@ -149,8 +155,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "King Mswati III. Internationaler Flughafen",
       hu: "III. Mswati Király Nemzetközi Repülőtér",
       ro: "Aeroportul Internațional Regele Mswati al III-lea",
-      en: "King Mswati III International Airport"
-    },
+      en: "King Mswati III International Airport",
+image: "/poi-images/king-mswati-iii-international-airport-landmarks-v2.webp"
+},
     description: {
       de: "Der modernste Flughafen des Landes, der als wichtigstes Tor für den internationalen Flugverkehr nach Eswatini dient.",
       hu: "Az ország legmodernebb repülőtere, amely Eswatini nemzetközi légi közlekedésének fő kapujaként szolgál.",
@@ -172,8 +179,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Nationalmuseum von Eswatini",
       hu: "Eswatini Nemzeti Múzeum",
       ro: "Muzeul Național Eswatini",
-      en: "Eswatini National Museum"
-    },
+      en: "Eswatini National Museum",
+image: "/poi-images/swaziland-national-museum-landmarks-v2.webp"
+},
     description: {
       de: "Das Museum bewahrt das reiche kulturelle Erbe der Swazi-Nation durch Ausstellungen zu Geschichte, Kunst und Tradition.",
       hu: "A múzeum a szvázi nemzet gazdag kulturális örökségét őrzi a történelemmel, művészettel és hagyományokkal foglalkozó kiállításain keresztül.",
@@ -196,8 +204,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "House on Fire",
       hu: "House on Fire",
       ro: "House on Fire",
-      en: "House on Fire"
-    },
+      en: "House on Fire",
+image: "/poi-images/house-on-fire-malkerns-landmarks-v2.webp"
+},
     description: {
       de: "Ein einzigartiger Veranstaltungsort für Kunst und Kultur, bekannt für sein exzentrisches Design und das jährliche Bushfire Festival.",
       hu: "Egyedülálló művészeti és kulturális helyszín, amely különc dizájnjáról és az évente megrendezett Bushfire Fesztiválról ismert.",
@@ -219,8 +228,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Royal Swazi Spa",
       hu: "Royal Swazi Spa",
       ro: "Royal Swazi Spa",
-      en: "Royal Swazi Spa"
-    },
+      en: "Royal Swazi Spa",
+image: "/poi-images/royal-swazi-spa-ezulwini-landmarks-v2.webp"
+},
     description: {
       de: "Eines der berühmtesten Luxushotels und Casinos des Landes, gelegen im malerischen Ezulwini-Tal.",
       hu: "Az ország egyik leghíresebb luxusszállodája és kaszinója, amely a festői Ezulwini-völgyben található.",
@@ -242,8 +252,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Zentraler Markt von Mbabane",
       hu: "Mbabane központi piac",
       ro: "Piața Centrală din Mbabane",
-      en: "Mbabane Central Market"
-    },
+      en: "Mbabane Central Market",
+image: "/poi-images/mbabane-central-market-landmarks-v2.webp"
+},
     description: {
       de: "Ein lebendiger Marktplatz im Herzen der Hauptstadt, bekannt für frische Produkte, traditionelles Handwerk und authentische Swazi-Küche.",
       hu: "Nyüzsgő piactér a főváros szívében, amely friss termékeiről, hagyományos kézműves termékeiről és autentikus szvázi konyhájáról ismert.",
@@ -265,8 +276,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "All Saints Cathedral",
       hu: "Mindenszentek-székesegyház",
       ro: "Catedrala Tuturor Sfinților",
-      en: "All Saints Cathedral"
-    },
+      en: "All Saints Cathedral",
+image: "/poi-images/all-saints-cathedral-mbabane-landmarks-v2.webp"
+},
     description: {
       de: "Eine bedeutende anglikanische Kathedrale in Mbabane, die eine zentrale Rolle im religiösen Leben der Hauptstadt spielt.",
       hu: "Jelentős anglikán székesegyház Mbabanéban, amely központi szerepet játszik a főváros vallási életében.",
@@ -288,8 +300,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Central Bank of Eswatini Gebäude",
       hu: "Eswatini Központi Bank épülete",
       ro: "Clădirea Băncii Centrale a Eswatini",
-      en: "Central Bank of Eswatini Building"
-    },
+      en: "Central Bank of Eswatini Building",
+image: "/poi-images/central-bank-eswatini-building-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Hochhaus in Mbabane, das den Sitz der Finanzverwaltung des Landes beherbergt.",
       hu: "Modern toronyépület Mbabanéban, amely az ország pénzügyi irányításának székhelye.",
@@ -312,8 +325,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "High Court of Eswatini",
       hu: "Eswatini Legfelsőbb Bírósága",
       ro: "Înalta Curte a Eswatini",
-      en: "High Court of Eswatini"
-    },
+      en: "High Court of Eswatini",
+image: "/poi-images/high-court-eswatini-landmarks-v2.webp"
+},
     description: {
       de: "Das höchste Gericht des Landes, ein beeindruckendes Gebäude, das die Justiz und das Rechtssystem von Eswatini repräsentiert.",
       hu: "Az ország legfelsőbb bírósági szerve, egy impozáns épület, amely Eswatini igazságszolgáltatását és jogrendszerét képviseli.",
@@ -336,8 +350,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Gables Shopping Centre",
       hu: "Gables bevásárlóközpont",
       ro: "Centrul Comercial Gables",
-      en: "Gables Shopping Centre"
-    },
+      en: "Gables Shopping Centre",
+image: "/poi-images/gables-shopping-centre-landmarks-v2.webp"
+},
     description: {
       de: "Ein beliebtes Einkaufs- und Freizeitzentrum im Ezulwini-Tal, das eine Mischung aus Geschäften, Kinos und Restaurants bietet.",
       hu: "Népszerű bevásárló- és szabadidőközpont az Ezulwini-völgyben, amely üzletek, mozik és éttermek széles választékát kínálja.",
@@ -359,8 +374,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Mavuso Trade and Exhibition Centre",
       hu: "Mavuso Kereskedelmi és Kiállítási Központ",
       ro: "Centrul de Comerț și Expoziții Mavuso",
-      en: "Mavuso Trade and Exhibition Centre"
-    },
+      en: "Mavuso Trade and Exhibition Centre",
+image: "/poi-images/mavuso-trade-exhibition-centre-landmarks-v2.webp"
+},
     description: {
       de: "Ein weitläufiges Gelände in Manzini, das für Messen, Ausstellungen und große geschäftliche Veranstaltungen genutzt wird.",
       hu: "Egy kiterjedt létesítmény Manziniben, amelyet vásárokra, kiállításokra és jelentős üzleti eseményekre használnak.",
@@ -382,8 +398,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Mbabane Clock Tower",
       hu: "Mbabane óratorony",
       ro: "Turnul cu Ceas din Mbabane",
-      en: "Mbabane Clock Tower"
-    },
+      en: "Mbabane Clock Tower",
+image: "/poi-images/mbabane-clock-tower-landmarks-v2.webp"
+},
     description: {
       de: "Ein markanter Uhrturm im Zentrum von Mbabane, der als Orientierungspunkt und Wahrzeichen der Hauptstadt dient.",
       hu: "Kiemelkedő óratorony Mbabane központjában, amely tájékozódási pontként és a főváros jelképeként szolgál.",
@@ -405,8 +422,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Big-Bend-Brücke",
       hu: "Big Bend híd",
       ro: "Podul Big Bend",
-      en: "Big Bend Bridge"
-    },
+      en: "Big Bend Bridge",
+image: "/poi-images/big-bend-bridge-landmarks-v2.webp"
+},
     description: {
       de: "Eine beeindruckende Brücke über den Lusutfu-Fluss, die für den Transport von Zuckerrohr und den regionalen Verkehr entscheidend ist.",
       hu: "Impozáns híd a Lusutfu-folyón, amely kulcsfontosságú a cukornád szállítása és a regionális forgalom szempontjából.",
@@ -428,8 +446,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Maguga-Staudammwand",
       hu: "Maguga-gát fala",
       ro: "Zidul barajului Maguga",
-      en: "Maguga Dam Wall"
-    },
+      en: "Maguga Dam Wall",
+image: "/poi-images/maguga-dam-wall-landmarks-v2.webp"
+},
     description: {
       de: "Ein gigantisches technisches Bauwerk, das eine der höchsten Staudammwände im südlichen Afrika darstellt.",
       hu: "Hatalmas mérnöki létesítmény, amely Afrika déli részének egyik legmagasabb gátfala.",
@@ -451,8 +470,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Waterford Kamhlaba United World College",
       hu: "Waterford Kamhlaba United World College",
       ro: "Colegiul Waterford Kamhlaba",
-      en: "Waterford Kamhlaba United World College"
-    },
+      en: "Waterford Kamhlaba United World College",
+image: "/poi-images/waterford-kamhlaba-college-landmarks-v2.webp"
+},
     description: {
       de: "Eine weltweit renommierte Bildungseinrichtung in den Hügeln über Mbabane, bekannt für ihren Einsatz gegen Apartheid.",
       hu: "Világszerte elismert oktatási intézmény a Mbabane feletti dombokon, amely az apartheid elleni küzdelméről ismert.",
@@ -474,8 +494,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Salesian-High-School",
       hu: "Szalézi Gimnázium",
       ro: "Liceul Salezian",
-      en: "Salesian High School"
-    },
+      en: "Salesian High School",
+image: "/poi-images/salesian-high-school-manzini-landmarks-v2.webp"
+},
     description: {
       de: "Eine der ältesten und angesehensten Schulen in Manzini, betrieben von der salesianischen Gemeinschaft.",
       hu: "Manzini egyik legrégebbi és legtekintélyesebb iskolája, amelyet a szalézi rend működtet.",
@@ -497,8 +518,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Swazi Plaza",
       hu: "Swazi Plaza",
       ro: "Swazi Plaza",
-      en: "Swazi Plaza"
-    },
+      en: "Swazi Plaza",
+image: "/poi-images/swazi-plaza-mbabane-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Einkaufszentrum in der Hauptstadt Mbabane, ein zentraler Ort für Handel und tägliches Leben.",
       hu: "A legnagyobb bevásárlóközpont a fővárosban, Mbabanéban, a kereskedelem és a mindennapi élet központja.",
@@ -520,8 +542,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "UN House Eswatini",
       hu: "ENSZ-ház Eswatini",
       ro: "Casa ONU Eswatini",
-      en: "UN House Eswatini"
-    },
+      en: "UN House Eswatini",
+image: "/poi-images/un-house-eswatini-landmarks-v2.webp"
+},
     description: {
       de: "Der Hauptsitz der verschiedenen Organisationen der Vereinten Nationen in Eswatini, ein Symbol für internationale Zusammenarbeit.",
       hu: "Az ENSZ különböző szervezeteinek székhelye Eswatiniben, a nemzetközi együttműködés szimbóluma.",
@@ -544,8 +567,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Happy Valley Casino",
       hu: "Happy Valley kaszinó",
       ro: "Cazinoul Happy Valley",
-      en: "Happy Valley Casino"
-    },
+      en: "Happy Valley Casino",
+image: "/poi-images/happy-valley-casino-ezulwini-landmarks-v2.webp"
+},
     description: {
       de: "Ein beliebtes Unterhaltungszentrum im Ezulwini-Tal, das sowohl bei Touristen als auch bei Einheimischen für sein Glücksspielangebot bekannt ist.",
       hu: "Népszerű szórakoztató központ az Ezulwini-völgyben, amely szerencsejáték-kínálatáról ismert a turisták és a helyiek körében.",
@@ -567,8 +591,9 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       de: "Mhlume-Club-Gebäude",
       hu: "Mhlume Klub épülete",
       ro: "Clădirea Clubului Mhlume",
-      en: "Mhlume Club Building"
-    },
+      en: "Mhlume Club Building",
+image: "/poi-images/mhlume-club-building-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Clubgebäude in Mhlume, das als soziales Zentrum für die Mitarbeiter der Zuckerrohrindustrie dient.",
       hu: "Történelmi klubépület Mhlumében, amely a cukornádipari dolgozók társadalmi központjaként szolgál.",

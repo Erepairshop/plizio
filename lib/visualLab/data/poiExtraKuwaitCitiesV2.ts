@@ -6,7 +6,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "state-capital",
     parent: "KW-KU",
     coords: [47.9774, 29.3759],
-    name: { de: "Kuwait-Stadt", hu: "Kuvaitváros", ro: "Kuweit", en: "Kuwait City" },
+    name: { de: "Kuwait-Stadt", hu: "Kuvaitváros", ro: "Kuweit", en: "Kuwait City",
+image: "/poi-images/kw-kuwait-city-cities-v2.webp"
+},
     description: {
       de: "Die Hauptstadt von Kuwait, bekannt für ihre moderne Architektur und die ikonischen Kuwait Towers.",
       hu: "Kuvait fővárosa, amely modern építészetéről és az ikonikus Kuvait-tornyokról ismert.",
@@ -37,7 +39,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.0772, 29.0769],
-    name: { de: "Al Ahmadi", hu: "Al-Ahmadi", ro: "Al Ahmadi", en: "Al Ahmadi" },
+    name: { de: "Al Ahmadi", hu: "Al-Ahmadi", ro: "Al Ahmadi", en: "Al Ahmadi",
+image: "/poi-images/kw-al-ahmadi-cities-v2.webp"
+},
     description: {
       de: "Eine im Süden gelegene Stadt, die das Zentrum der kuwaitischen Ölindustrie bildet.",
       hu: "Déli fekvésű város, amely a kuvaiti olajipar központja.",
@@ -68,7 +72,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-JA",
     coords: [47.6581, 29.3375],
-    name: { de: "Al Jahra", hu: "Al-Dzsahra", ro: "Al Jahra", en: "Al Jahra" },
+    name: { de: "Al Jahra", hu: "Al-Dzsahra", ro: "Al Jahra", en: "Al Jahra",
+image: "/poi-images/kw-al-jahra-cities-v2.webp"
+},
     description: {
       de: "Historische Stadt im Westen Kuwaits, berühmt für das Rote Fort.",
       hu: "Történelmi város Kuvait nyugati részén, a Vörös Erődről híres.",
@@ -99,7 +105,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-HA",
     coords: [48.0267, 29.3353],
-    name: { de: "Hawally", hu: "Hawally", ro: "Hawally", en: "Hawally" },
+    name: { de: "Hawally", hu: "Hawally", ro: "Hawally", en: "Hawally",
+image: "/poi-images/kw-hawally-cities-v2.webp"
+},
     description: {
       de: "Dicht besiedeltes Viertel, bekannt als Handelszentrum für Elektronik und Computer.",
       hu: "Sűrűn lakott negyed, amely elektronikai és számítástechnikai kereskedelmi központként ismert.",
@@ -130,7 +138,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-FA",
     coords: [47.9542, 29.2775],
-    name: { de: "Farwaniya", hu: "Farwaníja", ro: "Farwaniya", en: "Farwaniya" },
+    name: { de: "Farwaniya", hu: "Farwaníja", ro: "Farwaniya", en: "Farwaniya",
+image: "/poi-images/kw-farwaniya-cities-v2.webp"
+},
     description: {
       de: "Ein lebhaftes Wohn- und Geschäftsviertel in der Nähe des internationalen Flughafens.",
       hu: "Nyüzsgő lakó- és üzleti negyed a nemzetközi repülőtér közelében.",
@@ -161,7 +171,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-MU",
     coords: [48.0931, 29.2078],
-    name: { de: "Mubarak Al-Kabeer", hu: "Mubarak Al-Kabeer", ro: "Mubarak Al-Kabeer", en: "Mubarak Al-Kabeer" },
+    name: { de: "Mubarak Al-Kabeer", hu: "Mubarak Al-Kabeer", ro: "Mubarak Al-Kabeer", en: "Mubarak Al-Kabeer",
+image: "/poi-images/kw-mubarak-al-kabeer-cities-v2.webp"
+},
     description: {
       de: "Ein modernes Wohngebiet, benannt nach dem siebten Herrscher von Kuwait.",
       hu: "Modern lakóövezet, amelyet Kuvait hetedik uralkodójáról neveztek el.",
@@ -192,7 +204,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-HA",
     coords: [48.0767, 29.3364],
-    name: { de: "Salmiya", hu: "Szálmija", ro: "Salmiya", en: "Salmiya" },
+    name: { de: "Salmiya", hu: "Szálmija", ro: "Salmiya", en: "Salmiya",
+image: "/poi-images/kw-salmiya-cities-v2.webp"
+},
     description: {
       de: "Ein beliebtes Einkaufs- und Küstenviertel mit der berühmten Salem Al-Mubarak Straße.",
       hu: "Népszerű tengerparti és bevásárlónegyed, ahol a híres Salem Al-Mubarak utca található.",
@@ -223,7 +237,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1364, 29.0833],
-    name: { de: "Fahaheel", hu: "Fahaheel", ro: "Fahaheel", en: "Fahaheel" },
+    name: { de: "Fahaheel", hu: "Fahaheel", ro: "Fahaheel", en: "Fahaheel",
+image: "/poi-images/kw-fahaheel-cities-v2.webp"
+},
     description: {
       de: "Ein geschäftiges Handelszentrum im Süden, bekannt für seinen Fischmarkt und Al Kout Mall.",
       hu: "Nyüzsgő déli kereskedelmi központ, amely a halpiacáról és az Al Kout Mallról ismert.",
@@ -254,7 +270,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-FA",
     coords: [47.9350, 29.2611],
-    name: { de: "Jleeb Al-Shuyoukh", hu: "Jleeb Al-Shuyoukh", ro: "Jleeb Al-Shuyoukh", en: "Jleeb Al-Shuyoukh" },
+    name: { de: "Jleeb Al-Shuyoukh", hu: "Jleeb Al-Shuyoukh", ro: "Jleeb Al-Shuyoukh", en: "Jleeb Al-Shuyoukh",
+image: "/poi-images/kw-jleeb-al-shuyoukh-cities-v2.webp"
+},
     description: {
       de: "Ein großer Vorort, der hauptsächlich von südasiatischen und arabischen Auswanderern bewohnt wird.",
       hu: "Egy nagy külváros, amelyet főként dél-ázsiai és arab bevándorlók laknak.",
@@ -285,7 +303,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-FA",
     coords: [47.9658, 29.2889],
-    name: { de: "Khaitan", hu: "Hajtán", ro: "Khaitan", en: "Khaitan" },
+    name: { de: "Khaitan", hu: "Hajtán", ro: "Khaitan", en: "Khaitan",
+image: "/poi-images/kw-khaitan-cities-v2.webp"
+},
     description: {
       de: "Ein dicht besiedeltes Viertel im Gouvernement Farwaniya, das für seine kulturelle Vielfalt bekannt ist.",
       hu: "Sűrűn lakott negyed a Farwaníja tartományban, amely kulturális sokszínűségéről ismert.",
@@ -316,7 +336,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1367, 29.0983],
-    name: { de: "Mangaf", hu: "Mangaf", ro: "Mangaf", en: "Mangaf" },
+    name: { de: "Mangaf", hu: "Mangaf", ro: "Mangaf", en: "Mangaf",
+image: "/poi-images/kw-mangaf-cities-v2.webp"
+},
     description: {
       de: "Eine Küstenstadt mit beliebten Resorts und Wohnkomplexen für Auswanderer.",
       hu: "Tengerparti város, ahol népszerű üdülőhelyek és bevándorlók számára épült lakóparkok találhatók.",
@@ -347,7 +369,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1292, 29.1361],
-    name: { de: "Abu Halifa", hu: "Abu Halifa", ro: "Abu Halifa", en: "Abu Halifa" },
+    name: { de: "Abu Halifa", hu: "Abu Halifa", ro: "Abu Halifa", en: "Abu Halifa",
+image: "/poi-images/kw-abu-halifa-cities-v2.webp"
+},
     description: {
       de: "Bekannt für die große Kuwait Magic Mall und seine schöne Lage direkt am Persischen Golf.",
       hu: "A nagy Kuwait Magic Mallról és a Perzsa-öböl partján fekvő gyönyörű elhelyezkedéséről ismert.",
@@ -378,7 +402,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-HA",
     coords: [48.0683, 29.3131],
-    name: { de: "Rumaithiya", hu: "Rumaithiya", ro: "Rumaithiya", en: "Rumaithiya" },
+    name: { de: "Rumaithiya", hu: "Rumaithiya", ro: "Rumaithiya", en: "Rumaithiya",
+image: "/poi-images/kw-rumaithiya-cities-v2.webp"
+},
     description: {
       de: "Ein großes Wohngebiet, das in verschiedene Sektoren unterteilt ist und viele Schulen beherbergt.",
       hu: "Egy nagy lakóövezet, amely különböző szektorokra oszlik, és számos iskolának ad otthont.",
@@ -409,7 +435,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-MU",
     coords: [48.0558, 29.2558],
-    name: { de: "Sabah Al-Salem", hu: "Sabah Al-Salem", ro: "Sabah Al-Salem", en: "Sabah Al-Salem" },
+    name: { de: "Sabah Al-Salem", hu: "Sabah Al-Salem", ro: "Sabah Al-Salem", en: "Sabah Al-Salem",
+image: "/poi-images/kw-sabah-al-salem-cities-v2.webp"
+},
     description: {
       de: "Ein nach dem ehemaligen Emir benannter Vorort, der sich durch ein klares Straßenraster auszeichnet.",
       hu: "A volt emírről elnevezett külváros, amelyet a világos utcarendszer jellemez.",
@@ -440,7 +468,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-HA",
     coords: [48.0381, 29.3156],
-    name: { de: "Jabriya", hu: "Dzsabrija", ro: "Jabriya", en: "Jabriya" },
+    name: { de: "Jabriya", hu: "Dzsabrija", ro: "Jabriya", en: "Jabriya",
+image: "/poi-images/kw-jabriya-cities-v2.webp"
+},
     description: {
       de: "Ein lebendiges Viertel, das für das große Mubarak Al-Kabeer Krankenhaus und viele Botschaften bekannt ist.",
       hu: "Nyüzsgő negyed, amely a nagy Mubarak Al-Kabeer Kórházról és számos nagykövetségről ismert.",
@@ -471,7 +501,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-HA",
     coords: [48.0781, 29.2942],
-    name: { de: "Salwa", hu: "Szálva", ro: "Salwa", en: "Salwa" },
+    name: { de: "Salwa", hu: "Szálva", ro: "Salwa", en: "Salwa",
+image: "/poi-images/kw-salwa-cities-v2.webp"
+},
     description: {
       de: "Ein Wohngebiet zwischen Hawally und Salmiya, in dem sich britische und amerikanische Schulen befinden.",
       hu: "Lakóövezet Hawally és Salmiya között, ahol brit és amerikai iskolák találhatók.",
@@ -502,7 +534,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-HA",
     coords: [48.0494, 29.3006],
-    name: { de: "Bayan", hu: "Bayan", ro: "Bayan", en: "Bayan" },
+    name: { de: "Bayan", hu: "Bayan", ro: "Bayan", en: "Bayan",
+image: "/poi-images/kw-bayan-cities-v2.webp"
+},
     description: {
       de: "Ein nobles Wohngebiet, in dem sich der Bayan Palast befindet, die Residenz des Emirs für Staatsgäste.",
       hu: "Előkelő lakónegyed, ahol a Bayan-palota, az emír állami vendégek számára fenntartott rezidenciája található.",
@@ -533,7 +567,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-FA",
     coords: [47.9150, 29.2847],
-    name: { de: "Ardhiya", hu: "Ardhiya", ro: "Ardhiya", en: "Ardhiya" },
+    name: { de: "Ardhiya", hu: "Ardhiya", ro: "Ardhiya", en: "Ardhiya",
+image: "/poi-images/kw-ardhiya-cities-v2.webp"
+},
     description: {
       de: "Ein Industrie- und Wohngebiet, bekannt für das riesige Jaber Al-Ahmad Nationalstadion.",
       hu: "Ipari és lakóövezet, amely a hatalmas Jaber Al-Ahmad Nemzeti Stadionról ismert.",
@@ -564,7 +600,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1258, 29.1469],
-    name: { de: "Mahboula", hu: "Mahboula", ro: "Mahboula", en: "Mahboula" },
+    name: { de: "Mahboula", hu: "Mahboula", ro: "Mahboula", en: "Mahboula",
+image: "/poi-images/kw-mahboula-cities-v2.webp"
+},
     description: {
       de: "Ein schnell wachsendes Küstengebiet mit zahlreichen Hochhäusern und internationalen Restaurants.",
       hu: "Gyorsan növekvő tengerparti terület számos toronyházzal és nemzetközi étteremmel.",
@@ -595,7 +633,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1172, 29.1717],
-    name: { de: "Fintas", hu: "Fintas", ro: "Fintas", en: "Fintas" },
+    name: { de: "Fintas", hu: "Fintas", ro: "Fintas", en: "Fintas",
+image: "/poi-images/kw-fintas-cities-v2.webp"
+},
     description: {
       de: "Historisch ein Fischerdorf, heute ein städtischer Vorort mit schönen Parks und dem Agaila Beach Club.",
       hu: "Történelmileg egy halászfalu, ma városi külváros gyönyörű parkokkal és az Agaila Beach Clubbal.",
@@ -626,7 +666,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1114, 29.0917],
-    name: { de: "Sabahiya", hu: "Sabahiya", ro: "Sabahiya", en: "Sabahiya" },
+    name: { de: "Sabahiya", hu: "Sabahiya", ro: "Sabahiya", en: "Sabahiya",
+image: "/poi-images/kw-sabahiya-cities-v2.webp"
+},
     description: {
       de: "Ein traditionelles Viertel im südlichen Gouvernement Ahmadi mit dicht besiedelten Wohnblöcken.",
       hu: "Hagyományos negyed a déli Ahmadi tartományban, sűrűn lakott háztömbökkel.",
@@ -657,7 +699,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-MU",
     coords: [48.0833, 29.2208],
-    name: { de: "Al-Qusour", hu: "Al-Qusour", ro: "Al-Qusour", en: "Al-Qusour" },
+    name: { de: "Al-Qusour", hu: "Al-Qusour", ro: "Al-Qusour", en: "Al-Qusour",
+image: "/poi-images/kw-al-qusour-cities-v2.webp"
+},
     description: {
       de: "Ein großer Wohnvorort, der sich durch ruhige Straßen und weitläufige Einfamilienhäuser auszeichnet.",
       hu: "Egy nagy lakóövezet, amelyet csendes utcák és tágas családi házak jellemeznek.",
@@ -688,7 +732,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-MU",
     coords: [48.0789, 29.2133],
-    name: { de: "Al-Qurain", hu: "Al-Qurain", ro: "Al-Qurain", en: "Al-Qurain" },
+    name: { de: "Al-Qurain", hu: "Al-Qurain", ro: "Al-Qurain", en: "Al-Qurain",
+image: "/poi-images/kw-al-qurain-cities-v2.webp"
+},
     description: {
       de: "Bekannt für das Al-Qurain Martyrs Museum, das an den Golfkrieg von 1990 erinnert.",
       hu: "Az Al-Qurain Mártírok Múzeumáról ismert, amely az 1990-es öbölháborúnak állít emléket.",
@@ -719,7 +765,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-AH",
     coords: [48.1561, 28.9483],
-    name: { de: "Ali Sabah Al-Salem", hu: "Ali Sabah Al-Salem", ro: "Ali Sabah Al-Salem", en: "Ali Sabah Al-Salem" },
+    name: { de: "Ali Sabah Al-Salem", hu: "Ali Sabah Al-Salem", ro: "Ali Sabah Al-Salem", en: "Ali Sabah Al-Salem",
+image: "/poi-images/kw-ali-sabah-al-salem-cities-v2.webp"
+},
     description: {
       de: "Ein Wohngebiet im Süden Kuwaits, das früher unter dem Namen Umm Al Hayman bekannt war.",
       hu: "Lakóövezet Kuvait déli részén, amely korábban Umm Al Hayman néven volt ismert.",
@@ -750,7 +798,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-KU",
     coords: [47.8867, 29.3242],
-    name: { de: "Sulaibikhat", hu: "Sulaibikhat", ro: "Sulaibikhat", en: "Sulaibikhat" },
+    name: { de: "Sulaibikhat", hu: "Sulaibikhat", ro: "Sulaibikhat", en: "Sulaibikhat",
+image: "/poi-images/kw-sulaibikhat-cities-v2.webp"
+},
     description: {
       de: "Ein Gebiet an der Kuwait-Bucht, das für den Sulaibikhat Sporting Club und medizinische Einrichtungen bekannt ist.",
       hu: "A Kuvait-öböl mentén fekvő terület, amely a Sulaibikhat sportklubról és orvosi létesítményeiről ismert.",
@@ -781,7 +831,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-KU",
     coords: [47.9308, 29.3497],
-    name: { de: "Shuwaikh", hu: "Shuwaikh", ro: "Shuwaikh", en: "Shuwaikh" },
+    name: { de: "Shuwaikh", hu: "Shuwaikh", ro: "Shuwaikh", en: "Shuwaikh",
+image: "/poi-images/kw-shuwaikh-cities-v2.webp"
+},
     description: {
       de: "Das wichtigste Industriegebiet und Hafengebiet in Kuwait, das auch den Universitätscampus beherbergt.",
       hu: "Kuvait legfontosabb ipari- és kikötőnegyede, amely az egyetemi kampusznak is otthont ad.",
@@ -812,7 +864,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-MU",
     coords: [48.0694, 29.2319],
-    name: { de: "Al-Adan", hu: "Al-Adan", ro: "Al-Adan", en: "Al-Adan" },
+    name: { de: "Al-Adan", hu: "Al-Adan", ro: "Al-Adan", en: "Al-Adan",
+image: "/poi-images/kw-al-adan-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiges, gut geplantes Wohnviertel im Gouvernement Mubarak Al-Kabeer mit zahlreichen Parks.",
       hu: "Csendes, jól megtervezett lakónegyed a Mubarak Al-Kabeer tartományban, számos parkkal.",
@@ -843,7 +897,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-KU",
     coords: [48.0161, 29.3133],
-    name: { de: "Surra", hu: "Szurra", ro: "Surra", en: "Surra" },
+    name: { de: "Surra", hu: "Szurra", ro: "Surra", en: "Surra",
+image: "/poi-images/kw-surra-cities-v2.webp"
+},
     description: {
       de: "Ein zentral gelegenenes, gehobenes Wohnviertel in der Hauptstadtprovinz, in dem viele Diplomaten leben.",
       hu: "Központi fekvésű, elegáns lakónegyed a fővárosi tartományban, ahol sok diplomata él.",
@@ -874,7 +930,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-KU",
     coords: [48.0064, 29.3056],
-    name: { de: "Qurtuba", hu: "Kortuba", ro: "Qurtuba", en: "Qurtuba" },
+    name: { de: "Qurtuba", hu: "Kortuba", ro: "Qurtuba", en: "Qurtuba",
+image: "/poi-images/kw-qurtuba-cities-v2.webp"
+},
     description: {
       de: "Ein ruhiges und exklusives Wohngebiet, benannt nach der historischen spanischen Stadt Córdoba.",
       hu: "Csendes és exkluzív lakóövezet, amelyet a történelmi spanyol városról, Córdobáról neveztek el.",
@@ -905,7 +963,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     type: "city",
     parent: "KW-KU",
     coords: [47.9942, 29.3308],
-    name: { de: "Rawda", hu: "Rávda", ro: "Rawda", en: "Rawda" },
+    name: { de: "Rawda", hu: "Rávda", ro: "Rawda", en: "Rawda",
+image: "/poi-images/kw-rawda-cities-v2.webp"
+},
     description: {
       de: "Ein kleiner, wohlhabender Vorort in der Nähe des Stadtzentrums. Der Name bedeutet übersetzt Garten.",
       hu: "Kicsi, jómódú külváros a városközpont közelében. A neve kertet jelent.",

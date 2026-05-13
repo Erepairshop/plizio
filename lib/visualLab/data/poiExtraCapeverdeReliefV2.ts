@@ -11,8 +11,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Verde",
       hu: "Monte Verde",
       ro: "Monte Verde",
-      en: "Monte Verde"
-    },
+      en: "Monte Verde",
+image: "/poi-images/monte-verde-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Verde este cel mai înalt punct de pe insula São Vicente, atingând o altitudine de 744 de metri. Muntele oferă o vedere panoramică spectaculoasă asupra întregii insule și a oceanului Atlantic din jur, fiind un punct strategic pentru observațiile meteorologice. Rezervația naturală protejează vegetația endemică și microclimatele unice care s-au dezvoltat pe versanții săi. Geografia sa aridă și formațiunile vulcanice sunt esențiale pentru studiul geologiei insulelor Capului Verde. Földrajz K7 — relief și formațiuni vulcanice."
     },
@@ -41,8 +42,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Cova de Paúl",
       hu: "Cova de Paúl",
       ro: "Cova de Paúl",
-      en: "Cova de Paúl"
-    },
+      en: "Cova de Paúl",
+image: "/poi-images/cova-de-paul-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Cova de Paul este un crater vulcanic antic situat pe insula Santo Antão, transformat într-o zonă agricolă luxuriantă și fertilă. Craterul este înconjurat de munți înalți, creând un microclimat unic care permite cultivarea cafelei, trestiei de zahăr și a unei varietăți de fructe tropicale. Această vale este un exemplu remarcabil al modului în care agricultura capverdiană se adaptează la topografia accidentată. Traseele montane care traversează craterul sunt populare printre turiștii care caută experiențe autentice în natură. Földrajz K7 — relief și agricultură montană."
     },
@@ -71,8 +73,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Bordeira do Fogo",
       hu: "Bordeira do Fogo",
       ro: "Bordeira do Fogo",
-      en: "Bordeira do Fogo"
-    },
+      en: "Bordeira do Fogo",
+image: "/poi-images/bordeira-do-fogo-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Bordeira do Fogo reprezintă marginea craterului uriaș care înconjoară vulcanul activ Pico do Fogo pe insula cu același nume. Această structură geologică fascinantă oferă pereți verticali impunători și un contrast vizual puternic între stâncile întunecate de lavă și cerul albastru. Regiunea Cha das Caldeiras, situată în interiorul craterului, este renumită pentru viile sale plantate în solul vulcanic fertil, care produc un vin distinctiv. Geologia bordurii este un subiect constant de studiu pentru vulcanologi. Földrajz K7 — vulcanism și relief vulcanic."
     },
@@ -101,8 +104,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Trigo",
       hu: "Monte Trigo",
       ro: "Monte Trigo",
-      en: "Monte Trigo"
-    },
+      en: "Monte Trigo",
+image: "/poi-images/monte-trigo-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Trigo este un munte situat în extremitatea vestică a insulei Santo Antão, dominând un sat pescăresc izolat cu același nume. Terenul din jurul muntelui este extrem de abrupt, creând un relief dramatic unde munții se întâlnissent direct cu apele adânci ale oceanului. Această zonă este accesibilă în principal pe mare sau prin trasee dificile de drumeție montană, păstrând astfel un stil de viață tradițional. Monte Trigo oferă o perspectivă asupra izolării geografice și a modului în care relieful dictează accesibilitatea. Földrajz K7 — forme de relief de coastă."
     },
@@ -131,8 +135,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Grande",
       hu: "Monte Grande",
       ro: "Monte Grande",
-      en: "Monte Grande"
-    },
+      en: "Monte Grande",
+image: "/poi-images/monte-grande-sal-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Grande este cel mai înalt punct de pe insula Sal, o insulă în mare parte plată și aridă. Deși are o altitudine modestă comparativ cu alți munți din arhipelag, Monte Grande reprezintă o proeminență geologică importantă pentru peisajul insulei Sal. Acesta oferă o vedere clară asupra deșertului care ocupă cea mai mare parte a insulei. Importanța sa este legată de navigația istorică și de monitorizarea meteorologică locală, fiind un punct de orientare pentru cei care călătoresc prin zonele interioare. Földrajz K7 — insule aride și relief montan."
     },
@@ -161,8 +166,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Penoso",
       hu: "Monte Penoso",
       ro: "Monte Penoso",
-      en: "Monte Penoso"
-    },
+      en: "Monte Penoso",
+image: "/poi-images/monte-penoso-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Penoso este un munte proeminent pe insula Maio, renumit pentru relieful său arid și formațiunile geologice de rocă sedimentară. Deși nu atinge altitudini montane spectaculoase ca în alte insule, Monte Penoso domină peisajul insulei Maio, oferind priveliști asupra platourilor din jur și a oceanului. Este o zonă importantă pentru conservarea diversității botanice adaptate la condiții de secetă extremă. Traseele din jurul muntelui sunt utilizate frecvent pentru turismul de aventură și studiul geologiei locale. Földrajz K7 — relief și biodiversitate aridă."
     },
@@ -191,8 +197,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Batalha",
       hu: "Monte Batalha",
       ro: "Monte Batalha",
-      en: "Monte Batalha"
-    },
+      en: "Monte Batalha",
+image: "/poi-images/monte-batalha-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Batalha este un munte situat pe insula Santiago, care servește drept punct de reper natural important în regiunea centrală a insulei. Cu pante abrupte și formațiuni bazaltice, acest munte contribuie la topografia complexă a insulei Santiago. Zona din jurul muntelui este utilizată pentru pășunat și agricultură tradițională la scară mică, demonstrând utilizarea umană a terenului montan dificil. Monte Batalha oferă un punct de observație excelent pentru studierea peisajelor vulcanice din Santiago. Földrajz K7 — relief și geografie insulară."
     },
@@ -221,8 +228,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Sobrado",
       hu: "Monte Sobrado",
       ro: "Monte Sobrado",
-      en: "Monte Sobrado"
-    },
+      en: "Monte Sobrado",
+image: "/poi-images/monte-sobrado-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Sobrado este o formațiune muntoasă situată pe insula Sal, fiind parte din relieful diversificat, dar arid, al acestei insule turistice. Deși Sal este cunoscută pentru plajele sale, zonele interioare montane precum Monte Sobrado oferă o perspectivă asupra istoriei vulcanice a insulei. Muntele este înconjurat de câmpii întinse acoperite de nisip și rocă, creând un contrast vizual izbitor. Este un loc explorat frecvent de amatorii de drumeții în teren deșertic. Földrajz K7 — relief deșertic și vulcanism."
     },
@@ -251,8 +259,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Duarte",
       hu: "Monte Duarte",
       ro: "Monte Duarte",
-      en: "Monte Duarte"
-    },
+      en: "Monte Duarte",
+image: "/poi-images/monte-duarte-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Monte Duarte este un munte notabil pe insula Brava, insula cea mai sudică și mai mică din arhipelagul Capului Verde, renumită pentru climatul său mai temperat și verdeață. Monte Duarte se înalță peste peisajul insulei, oferind priveliști asupra coastei abrupte și a oceanului Atlantic. Datorită umidității ridicate, versanții muntelui găzduiesc o vegetație bogată, contrastând cu insulele mai aride din nordul arhipelagului. Această zonă este un exemplu al diversității climatice în cadrul arhipelagului capverdian. Földrajz K7 — relief și diversitate climatică."
     },
@@ -281,8 +290,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Pico da Antónia",
       hu: "Pico da Antónia",
       ro: "Pico da Antónia",
-      en: "Pico da Antónia"
-    },
+      en: "Pico da Antónia",
+image: "/poi-images/pico-da-antonia-relief-v2.webp"
+},
     descriptionAdvanced: {
       ro: "Pico da Antonia este cel mai înalt munte de pe insula Santiago, având o altitudine de 1394 de metri. Acest munte domină lanțul muntos central al insulei și reprezintă un centru hidrologic important, colectând precipitațiile care alimentează bazinele hidrografice ale insulei. Pico da Antonia este înconjurat de zone protejate cu vegetație endemică și este un traseu preferat pentru drumeții montane serioase. Din vârful său, vizibilitatea asupra întregii insule Santiago este spectaculoasă. Földrajz K7 — relief montan și bazine hidrografice."
     },
@@ -311,8 +321,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Tchota",
       hu: "Monte Tchota",
       ro: "Monte Tchota",
-      en: "Monte Tchota"
-    },
+      en: "Monte Tchota",
+image: "/poi-images/monte-tchota-relief-v2.webp"
+},
     description: {
       de: "Ein bewaldeter Berg im zentralen Hochland von Santiago, bekannt für seine kühleren Temperaturen und die reiche Vogelwelt.",
       hu: "Egy erdős hegy Santiago központi fennsíkján, amely hűvösebb hőmérsékletéről és gazdag madárvilágáról ismert.",
@@ -334,8 +345,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Morro de Areia",
       hu: "Morro de Areia",
       ro: "Morro de Areia",
-      en: "Morro de Areia"
-    },
+      en: "Morro de Areia",
+image: "/poi-images/morro-de-areia-relief-v2.webp"
+},
     description: {
       de: "Ein ausgedehntes Gebiet mit Wanderdünen an der Westküste von Boa Vista, das eine beeindruckende Wüstenlandschaft direkt am Atlantik bildet.",
       hu: "Boa Vista nyugati partján fekvő kiterjedt vándordűnés terület, amely lenyűgöző sivatagi tájat alkot közvetlenül az Atlanti-óceán partján.",
@@ -357,8 +369,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Semedo",
       hu: "Monte Semedo",
       ro: "Monte Semedo",
-      en: "Monte Semedo"
-    },
+      en: "Monte Semedo",
+image: "/poi-images/monte-semedo-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Gipfel im Norden von Santiago, der durch seine steilen Felswände und die karge, felsige Umgebung beeindruckt.",
       hu: "Egy jellegzetes csúcs Santiago északi részén, amely meredek sziklafalaival és kopár, sziklás környezetével nyűgöz le.",
@@ -380,8 +393,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Cintinha",
       hu: "Monte Cintinha",
       ro: "Monte Cintinha",
-      en: "Monte Cintinha"
-    },
+      en: "Monte Cintinha",
+image: "/poi-images/monte-cintinha-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berg auf São Nicolau, der die Silhouette der Insel prägt und ein wichtiges Wandergebiet im Zentrum darstellt.",
       hu: "Egy jellegzetes hegy São Nicolau szigetén, amely meghatározza a sziget sziluettjét, és fontos túrázóhely a központi részen.",
@@ -403,8 +417,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Biao",
       hu: "Monte Biao",
       ro: "Monte Biao",
-      en: "Monte Biao"
-    },
+      en: "Monte Biao",
+image: "/poi-images/monte-biao-relief-v2.webp"
+},
     description: {
       de: "Einer der höchsten Punkte von São Nicolau, umgeben von zerklüfteten Tälern und kleinen Bergdörfern.",
       hu: "São Nicolau egyik legmagasabb pontja, amelyet tagolt völgyek és kis hegyi falvak vesznek körül.",
@@ -426,8 +441,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Tortolho",
       hu: "Monte Tortolho",
       ro: "Monte Tortolho",
-      en: "Monte Tortolho"
-    },
+      en: "Monte Tortolho",
+image: "/poi-images/monte-tortolho-relief-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber markanter vulkanischer Hügel im Süden von Sal, der sich aus der ansonsten völlig flachen Landschaft erhebt.",
       hu: "Egy kicsi, de jellegzetes vulkáni domb Sal déli részén, amely kiemelkedik az egyébként teljesen sík tájból.",
@@ -450,8 +466,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Curral",
       hu: "Monte Curral",
       ro: "Monte Curral",
-      en: "Monte Curral"
-    },
+      en: "Monte Curral",
+image: "/poi-images/monte-curral-relief-v2.webp"
+},
     description: {
       de: "Ein Berg im Herzen der Stadt Espargos auf Sal, der heute als Standort für Kommunikationseinrichtungen dient.",
       hu: "Egy hegy Espargos városának szívében, Sal-szigeten, amely ma kommunikációs létesítmények helyszínéül szolgál.",
@@ -473,8 +490,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Arruda",
       hu: "Monte Arruda",
       ro: "Monte Arruda",
-      en: "Monte Arruda"
-    },
+      en: "Monte Arruda",
+image: "/poi-images/monte-arruda-relief-v2.webp"
+},
     description: {
       de: "Der höchste Gipfel der unbewohnten Insel Santa Luzia, der eine spektakuläre Aussicht auf die Nachbarinseln bietet.",
       hu: "A lakatlan Santa Luzia-sziget legmagasabb csúcsa, ahonnan látványos kilátás nyílik a szomszédos szigetekre.",
@@ -496,8 +514,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Monte Joaquim",
       hu: "Monte Joaquim",
       ro: "Monte Joaquim",
-      en: "Monte Joaquim"
-    },
+      en: "Monte Joaquim",
+image: "/poi-images/monte-joaquim-relief-v2.webp"
+},
     description: {
       de: "Ein Hügel im Norden von Boa Vista, der aus der flachen Küstenebene ragt und ein wichtiger Brutplatz für Seevögel ist.",
       hu: "Egy domb Boa Vista északi részén, amely kiemelkedik a lapos tengerparti síkságból, és fontos fészkelőhely a tengeri madarak számára.",
@@ -519,8 +538,9 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       de: "Serra da Garça",
       hu: "Serra da Garça",
       ro: "Serra da Garça",
-      en: "Serra da Garça"
-    },
+      en: "Serra da Garça",
+image: "/poi-images/serra-da-garca-relief-v2.webp"
+},
     description: {
       de: "Ein zerklüfteter Gebirgszug im Norden von Santo Antão, der durch tiefe Schluchten und steile Abhänge zum Meer hin gekennzeichnet ist.",
       hu: "Egy tagolt hegylánc Santo Antão északi részén, amelyet mély szurdokok és a tenger felé néző meredek lejtők jellemeznek.",

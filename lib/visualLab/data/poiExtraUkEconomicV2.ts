@@ -4,7 +4,9 @@ export const ukEconomicV2: POI[] = [
   {
     id: "uk-port-of-felixstowe-economic-v2",
     type: "port",
-    name: { de: "Hafen von Felixstowe", hu: "Felixstowe kikötője", ro: "Portul Felixstowe", en: "Port of Felixstowe" },
+    name: { de: "Hafen von Felixstowe", hu: "Felixstowe kikötője", ro: "Portul Felixstowe", en: "Port of Felixstowe",
+image: "/poi-images/uk-port-of-felixstowe-economic-v2.webp"
+},
     coords: [1.312, 51.954],
     coordinates: { lat: 51.954, lng: 1.312 },
     description: {
@@ -19,11 +21,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Cel mai mare port de containere din Marea Britanie", "Manipulează peste 4 milioane de unități TEU anual", "Dispune de 9 dane pentru nave de containere", "Angajează aproximativ 2.500 de persoane direct"],
       en: ["Largest container port in Great Britain", "Handles over 4 million TEUs annually", "Features 9 berths for container vessels", "Employs approximately 2,500 people directly"],
     },
-    imageHint: "Aerial view of Felixstowe container port terminal", image: "/poi-images/uk-port-of-felixstowe-economic-v2.webp"},
-  {
+imageHint: "Aerial view of Felixstowe container port terminal",
+    descriptionAdvanced: {
+      de: "Der Port of Felixstowe in Suffolk ist der größte und verkehrsreichste Containerhafen des Vereinigten Königreichs. Er wickelt fast die Hälfte des britischen Containerhandels ab und dient als entscheidendes Tor für den Welthandel zwischen Europa und Asien. Mit seinen hochmodernen Tiefwasserliegeplätzen und einer effizienten Bahnanbindung ist er ein zentraler Knotenpunkt für die nationale Logistik und die Just-in-time-Lieferketten der britischen Wirtschaft.",
+      hu: "A suffolki Felixstowe kikötője az Egyesült Királyság legnagyobb és legforgalmasabb konténerkikötője, amely a brit konténeres kereskedelem mintegy 40%-át kezeli. Stratégiai elhelyezkedése az Északi-tenger partján kulcsfontosságú kapuvá teszi az Európa és Ázsia közötti globális útvonalakon. A kikötő mélyvízi termináljai a világ legnagyobb konténerszállító hajóit is képesek fogadni, miközben az ország legfejlettebb vasúti áruszállítási hálózatával rendelkezik.",
+      ro: "Portul Felixstowe din Suffolk este cel mai mare și cel mai aglomerat port de containere din Regatul Unit, gestionând aproape jumătate din traficul de containere al țării. Situat strategic pe coasta de est, acesta servește ca un nod vital pentru rutele comerciale globale, legând Marea Britanie de piețele din Europa și Asia. Facilitățile sale moderne includ dane de adâncime capabile să primească cele mai mari nave de transport din lume, susținute de o rețea feroviară extinsă.",
+      en: "The Port of Felixstowe in Suffolk is the United Kingdom's largest and busiest container port, handling approximately 40% of the nation's containerized trade. It serves as a vital gateway for global commerce, connecting British markets with major shipping routes from Europe and Asia. The port features state-of-the-art deep-water berths and the UK's most advanced rail freight terminal, ensuring the efficient movement of goods into the national supply chain.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des ersten kommerziellen Docks im Jahr 1875.", "Umschlag von über 4 Millionen TEU (Containereinheiten) pro Jahr.", "Besitzt den größten Schienengüterverkehrsknotenpunkt des Landes.", "Bietet Liegeplätze für Schiffe mit bis zu 18 Metern Tiefgang."],
+      hu: ["Az első kereskedelmi dokkot 1875-ben nyitották meg.", "Évente több mint 4 millió TEU konténeregységet forgalmaz.", "Itt található az ország legnagyobb vasúti áruforgalmi csomópontja.", "Akár 18 méteres merülésű óriáshajókat is képes fogadni."],
+      ro: ["Primul doc comercial a fost deschis în anul 1875.", "Gestionează peste 4 milioane de unități TEU anual.", "Deține cel mai mare terminal feroviar de marfă din țară.", "Dispune de dane cu o adâncime de până la 18 metri."],
+      en: ["Opened its first commercial dock in 1875.", "Handles over 4 million TEU (container units) annually.", "Home to the UK's largest intermodal rail freight terminal.", "Accommodates vessels with a draft of up to 18 meters."],
+    },
+    image: "/poi-images/uk-port-of-felixstowe-economic-v2.webp",
+},  {
     id: "uk-canary-wharf-economic-v2",
     type: "landmark",
-    name: { de: "Canary Wharf", hu: "Canary Wharf", ro: "Canary Wharf", en: "Canary Wharf" },
+    name: { de: "Canary Wharf", hu: "Canary Wharf", ro: "Canary Wharf", en: "Canary Wharf",
+image: "/poi-images/uk-canary-wharf-economic-v2.webp"
+},
     coords: [-0.02, 51.505],
     coordinates: { lat: 51.505, lng: -0.02 },
     description: {
@@ -38,11 +55,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Peste 100.000 de oameni lucrează aici", "Sediul zgârie-norului One Canada Square", "Fostă zonă portuară a Docklands", "Centru pentru servicii financiare globale"],
       en: ["Over 100,000 people work in the district", "Home to the One Canada Square skyscraper", "Formerly the heart of the London Docklands", "Hub for global financial services"],
     },
-    imageHint: "Canary Wharf skyline with skyscrapers at twilight", image: "/poi-images/uk-canary-wharf-economic-v2.webp"},
-  {
+imageHint: "Canary Wharf skyline with skyscrapers at twilight",
+    descriptionAdvanced: {
+      de: "Canary Wharf ist eines der weltweit führenden Finanzzentren und prägt die Skyline von East London maßgeblich. Auf dem Gelände der ehemaligen West India Docks entstanden ab den 1980er Jahren riesige Wolkenkratzer, die heute Hauptsitze globaler Banken und Technologieunternehmen beherbergen. Das Viertel ist ein Symbol für den Strukturwandel Londons von einem industriellen Hafenstandort zu einem modernen Dienstleistungs- und Hochtechnologie-Hub.",
+      hu: "Canary Wharf a világ egyik legjelentősebb pénzügyi központja, amely Kelet-London látképét határozza meg. Az egykori West India Docks területén az 1980-as években indult meg a fejlesztés, mára pedig globális bankok és technológiai óriások székhelyévé vált. A negyed London gazdasági átalakulásának szimbóluma, ahol a régi kikötői raktárak helyét ultramodern felhőkarcolók és pezsgő üzleti negyed vette át.",
+      ro: "Canary Wharf este unul dintre principalele centre financiare ale lumii, dominând orizontul estic al Londrei. Dezvoltat pe locul fostelor docuri West India începând cu anii 1980, districtul găzduiește sediile centrale ale unor bănci globale și firme de tehnologie. Reprezintă un simbol al regenerării urbane, transformând o zonă industrială declinată într-un hub economic modern, dotat cu infrastructură de transport de ultimă generație.",
+      en: "Canary Wharf is one of the world's most prominent financial districts, significantly defining the skyline of East London. Developed on the site of the former West India Docks since the 1980s, it now serves as a global headquarters for major investment banks and professional service firms. The area is a prime example of urban regeneration, transitioning from a derelict dockland into a high-density economic powerhouse and retail hub.",
+    },
+    factsAdvanced: {
+      de: ["One Canada Square war bis 2012 das höchste Gebäude Großbritanniens.", "Täglich arbeiten hier über 120.000 Menschen im Finanzsektor.", "Umfasst eine Bürofläche von mehr als 1,5 Millionen Quadratmetern.", "Besitzt ein eigenes unterirdisches Einkaufszentrum mit 300 Läden."],
+      hu: ["A One Canada Square 2012-ig az Egyesült Királyság legmagasabb épülete volt.", "Naponta több mint 120 000 ember dolgozik a negyedben.", "Több mint 1,5 millió négyzetméternyi irodaterülettel rendelkezik.", "Saját földalatti bevásárlóközpontjában 300 üzlet található."],
+      ro: ["One Canada Square a fost cea mai înaltă clădire din UK până în 2012.", "Peste 120.000 de angajați lucrează zilnic în acest district.", "Include peste 1,5 milioane de metri pătrați de spații de birouri.", "Găzduiește un centru comercial subteran cu peste 300 de magazine."],
+      en: ["One Canada Square was the UK's tallest building until 2012.", "Over 120,000 people work in the district every day.", "Contains more than 16 million square feet of office and retail space.", "Features an extensive underground shopping mall with 300 shops."],
+    },
+    image: "/poi-images/uk-canary-wharf-economic-v2.webp",
+},  {
     id: "uk-mediacityuk-economic-v2",
     type: "industry",
-    name: { de: "MediaCityUK", hu: "MediaCityUK", ro: "MediaCityUK", en: "MediaCityUK" },
+    name: { de: "MediaCityUK", hu: "MediaCityUK", ro: "MediaCityUK", en: "MediaCityUK",
+image: "/poi-images/uk-mediacityuk-economic-v2.webp"
+},
     coords: [-2.298, 53.472],
     coordinates: { lat: 53.472, lng: -2.298 },
     description: {
@@ -57,11 +89,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Sediul central al BBC North", "Inaugurat oficial în anul 2011", "Dispune de 13 studiouri TV de înaltă definiție", "Campus dedicat al Universității din Salford"],
       en: ["Main headquarters of BBC North", "Officially opened in 2011", "Features 13 high-definition TV studios", "Hosts a dedicated University of Salford campus"],
     },
-    imageHint: "Modern architecture of MediaCityUK buildings in Salford Quays", image: "/poi-images/uk-mediacityuk-economic-v2.webp"},
-  {
+imageHint: "Modern architecture of MediaCityUK buildings in Salford Quays",
+    descriptionAdvanced: {
+      de: "MediaCityUK in Salford ist ein international bedeutender Standort für die Kreativ- und Digitalwirtschaft. Das am Manchester Ship Canal gelegene Areal beherbergt wichtige Sendezentren der BBC und ITV sowie zahlreiche Produktionsfirmen. Als spezialisierter Wirtschaftsknotenpunkt fördert es die regionale Entwicklung im Norden Englands und dient als Campus für Medieninnovationen, moderne Studiotechnik und akademische Forschung.",
+      hu: "A salfordi MediaCityUK a kreatív és digitális ipar nemzetközi jelentőségű központja. A Manchester-csatorna partján fekvő terület a BBC és az ITV fontos bázisa, valamint számos médiavállalat otthona. Ez a speciális gazdasági csomópont Észak-Anglia fejlődésének motorja, amely modern stúdióival, kutatóközpontjaival és innovatív technológiai megoldásaival a jövő médiaiparának egyik legfontosabb európai helyszíne.",
+      ro: "MediaCityUK din Salford este un hub internațional dedicat industriilor creative și digitale. Situat pe malul Canalului de Nave din Manchester, acesta găzduiește sedii importante ale BBC și ITV, precum și numeroase companii de producție. Proiectul reprezintă un motor de creștere economică pentru nordul Angliei, oferind un mediu colaborativ pentru inovație în media, educație universitară și tehnologie digitală.",
+      en: "MediaCityUK in Salford is an internationally recognized hub for the creative and digital industries. Located on the banks of the Manchester Ship Canal, it serves as a major base for the BBC and ITV, alongside numerous independent production companies. The development is a cornerstone of Northern England's economic strategy, fostering innovation through state-of-the-art studios, tech incubators, and university campuses.",
+    },
+    factsAdvanced: {
+      de: ["Erster Bauabschnitt wurde im Jahr 2011 offiziell eröffnet.", "Beherbergt das größte HD-Studiozentrum in ganz Europa.", "Die BBC betreibt hier über 2.300 Mitarbeiter in verschiedenen Abteilungen.", "Das Areal umfasst eine Fläche von rund 200 Hektar am Wasser."],
+      hu: ["Az első ütem hivatalos megnyitójára 2011-ben került sor.", "Itt található Európa legnagyobb nagyfelbontású (HD) stúdióközpontja.", "A BBC több mint 2300 munkatársa dolgozik a helyszínen.", "A fejlesztés mintegy 200 hektáros vízparti területet ölel fel."],
+      ro: ["Prima fază a proiectului a fost deschisă oficial în 2011.", "Găzduiește cel mai mare centru de studiouri HD din Europa.", "BBC are peste 2.300 de angajați care lucrează în acest complex.", "Complexul se întinde pe o suprafață de aproximativ 200 de hectare."],
+      en: ["The first phase was officially opened in 2011.", "Home to the largest high-definition studio facility in Europe.", "BBC employs over 2,300 staff members across multiple departments here.", "The development covers an area of approximately 200 hectares."],
+    },
+    image: "/poi-images/uk-mediacityuk-economic-v2.webp",
+},  {
     id: "uk-drax-power-station-economic-v2",
     type: "industry",
-    name: { de: "Kraftwerk Drax", hu: "Drax erőmű", ro: "Centrala electrică Drax", en: "Drax Power Station" },
+    name: { de: "Kraftwerk Drax", hu: "Drax erőmű", ro: "Centrala electrică Drax", en: "Drax Power Station",
+image: "/poi-images/uk-drax-power-station-economic-v2.webp"
+},
     coords: [-0.997, 53.737],
     coordinates: { lat: 53.737, lng: -0.997 },
     description: {
@@ -76,11 +123,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Furnizează aproximativ 6% din electricitatea britanică", "Cea mai mare centrală electrică din Regatul Unit", "Dispune de 12 turnuri de răcire gigantice", "Emisii reduse prin conversia la biomasă"],
       en: ["Supplies about 6% of UK's electricity", "Largest power station in the United Kingdom", "Features 12 massive cooling towers", "Reduced carbon emissions through biomass conversion"],
     },
-    imageHint: "Drax Power Station with cooling towers and chimneys", image: "/poi-images/uk-drax-power-station-economic-v2.webp"},
-  {
+imageHint: "Drax Power Station with cooling towers and chimneys",
+    descriptionAdvanced: {
+      de: "Drax Power Station in North Yorkshire ist das größte Kraftwerk des Vereinigten Königreichs und ein zentraler Akteur in der nationalen Energiewende. Ursprünglich als Kohlekraftwerk konzipiert, wurde es weitgehend auf die Verbrennung von Biomassepellets umgestellt. Es deckt einen erheblichen Teil des britischen Strombedarfs und ist führend in der Erforschung von Bioenergie mit CO2-Abscheidung und -Speicherung (BECCS), um negative Emissionen zu erzielen.",
+      hu: "A North Yorkshire-ban található Drax erőmű az Egyesült Királyság legnagyobb villamosenergia-termelő létesítménye. Az eredetileg széntüzelésű erőművet mára nagyrészt biomassza-felhasználásra állították át, így a fenntartható energiagazdálkodás egyik legfontosabb szereplőjévé vált. Az ország áramszükségletének jelentős részét biztosítja, miközben úttörő szerepet játszik a szén-dioxid-leválasztási technológiák (BECCS) fejlesztésében.",
+      ro: "Centrala electrică Drax din North Yorkshire este cea mai mare unitate de producție de energie din Regatul Unit. Convertită de la cărbune la biomasă, centrala joacă un rol crucial în strategia de decarbonizare a țării. Aceasta furnizează o parte semnificativă din necesarul de electricitate al Marii Britanii și este un sit pilot pentru tehnologiile de captare și stocare a carbonului din bioenergie (BECCS).",
+      en: "Drax Power Station in North Yorkshire is the UK's largest power station and a critical component of the national energy grid. Having transitioned from coal to biomass, it is now one of Europe's largest renewable energy projects. The facility provides a significant percentage of the country's renewable electricity and is a global leader in developing bioenergy with carbon capture and storage (BECCS) technology.",
+    },
+    factsAdvanced: {
+      de: ["Hat eine installierte Gesamtkapazität von rund 3.900 Megawatt.", "Versorgt etwa 4 Millionen Haushalte mit Strom.", "Verwendet jährlich Millionen Tonnen nachhaltig gewonnener Holzpellets.", "Die Kühltürme sind mit 114 Metern Höhe weithin sichtbar."],
+      hu: ["Beépített összteljesítménye megközelíti a 3900 megawattot.", "Körülbelül 4 millió háztartás áramellátását biztosítja.", "Évente több millió tonna fenntartható fapelletet használnak fel.", "A hűtőtornyok 114 méteres magasságukkal uralják a tájat."],
+      ro: ["Capacitatea totală instalată este de aproximativ 3.900 megawați.", "Alimentează cu energie electrică circa 4 milioane de locuințe.", "Consumă anual milioane de tone de pelete din lemn sustenabil.", "Turnurile de răcire au o înălțime impresionantă de 114 metri."],
+      en: ["Has a total installed capacity of approximately 3,900 megawatts.", "Supplies enough electricity for around 4 million households.", "Utilizes millions of tonnes of sustainable wood pellets each year.", "The cooling towers stand 114 meters tall, a local landmark."],
+    },
+    image: "/poi-images/uk-drax-power-station-economic-v2.webp",
+},  {
     id: "uk-aberdeen-energy-hub-economic-v2",
     type: "port",
-    name: { de: "Energiezentrum Aberdeen", hu: "Aberdeen energia-központ", ro: "Centrul energetic Aberdeen", en: "Aberdeen Energy Hub" },
+    name: { de: "Energiezentrum Aberdeen", hu: "Aberdeen energia-központ", ro: "Centrul energetic Aberdeen", en: "Aberdeen Energy Hub",
+image: "/poi-images/uk-aberdeen-energy-hub-economic-v2.webp"
+},
     coords: [-2.074, 57.144],
     coordinates: { lat: 57.144, lng: -2.074 },
     description: {
@@ -95,11 +157,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Peste 900 de companii energetice au sediul aici", "Portul a fost fondat în anul 1136", "Cel mai aglomerat heliport din lume", "Centru important pentru energia eoliană offshore"],
       en: ["Over 900 energy companies are based here", "The port was established as early as 1136", "Home to the world's busiest commercial heliport", "Major hub for offshore wind energy development"],
     },
-    imageHint: "Industrial supply vessels in Aberdeen Harbour", image: "/poi-images/uk-aberdeen-energy-hub-economic-v2.webp"},
-  {
+imageHint: "Industrial supply vessels in Aberdeen Harbour",
+    descriptionAdvanced: {
+      de: "Aberdeen ist historisch als Energiehauptstadt Europas bekannt und wandelt sich derzeit von einem Zentrum für Öl und Gas zu einem führenden Hub für erneuerbare Energien. Die Stadt nutzt ihre jahrzehntelange Erfahrung im Offshore-Sektor, um Innovationen im Bereich Windkraft, Wasserstoff und CO2-Speicherung voranzutreiben. Dieser Übergang ist entscheidend für die schottische Wirtschaft und die Erreichung der britischen Net-Zero-Ziele.",
+      hu: "Aberdeen, amelyet régóta Európa energiahivatalaként ismernek, jelenleg az olaj- és gázipari központból a megújuló energiaforrások vezető csomópontjává alakul át. A város évtizedes offshore tapasztalatait felhasználva élen jár a tengeri szélenergia, a hidrogéntechnológia és a szén-dioxid-tárolás fejlesztésében. Ez az átmenet létfontosságú Skócia gazdasága és az Egyesült Királyság klímavédelmi céljainak elérése szempontjából.",
+      ro: "Aberdeen este recunoscut istoric drept capitala energiei din Europa, fiind în plină tranziție de la petrol și gaze către energiile regenerabile. Orașul își folosește expertiza vastă în sectorul offshore pentru a deveni un lider în energia eoliană marină și tehnologia hidrogenului. Această evoluție economică este esențială pentru prosperitatea Scoției și pentru atingerea obiectivelor de neutralitate a carbonului.",
+      en: "Aberdeen, historically known as the energy capital of Europe, is currently evolving from a global oil and gas hub into a leader in renewable energy. Leveraging decades of offshore expertise, the city is at the forefront of offshore wind innovation, hydrogen production, and carbon capture technology. This strategic transition is vital for the Scottish economy and the UK's long-term net-zero ambitions.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt über 900 Unternehmen im Bereich Energietechnik.", "Der Hafen von Aberdeen ist der älteste bestehende Betrieb im UK.", "Sitz von über 20 weltweit tätigen Energiekonzernen.", "Zentrum für das 'Energy Transition Zone' (ETZ) Innovationsprojekt."],
+      hu: ["Több mint 900 energetikai technológiai vállalat székhelye.", "Aberdeen kikötője az Egyesült Királyság legrégebbi vállalkozása.", "Több mint 20 globális energiacég tart fenn itt központot.", "Az 'Energy Transition Zone' (ETZ) innovációs projekt központja."],
+      ro: ["Găzduiește peste 900 de companii de tehnologie energetică.", "Portul Aberdeen este cea mai veche afacere activă din UK.", "Sediul a peste 20 de corporații energetice multinaționale.", "Centrul proiectului de inovație 'Energy Transition Zone' (ETZ)."],
+      en: ["Home to over 900 energy-related technology companies.", "Aberdeen Harbour is the oldest surviving business in the UK.", "Host to over 20 major global energy corporate headquarters.", "Center of the 'Energy Transition Zone' (ETZ) innovation project."],
+    },
+    image: "/poi-images/uk-aberdeen-energy-hub-economic-v2.webp",
+},  {
     id: "uk-scunthorpe-steelworks-economic-v2",
     type: "factory",
-    name: { de: "Stahlwerk Scunthorpe", hu: "Scunthorpe-i acélmű", ro: "Combinatul siderurgic Scunthorpe", en: "Scunthorpe Steelworks" },
+    name: { de: "Stahlwerk Scunthorpe", hu: "Scunthorpe-i acélmű", ro: "Combinatul siderurgic Scunthorpe", en: "Scunthorpe Steelworks",
+image: "/poi-images/uk-scunthorpe-steelworks-economic-v2.webp"
+},
     coords: [-0.635, 53.585],
     coordinates: { lat: 53.585, lng: -0.635 },
     description: {
@@ -114,11 +191,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Produce șine pentru întreaga rețea britanică", "Situl se întinde pe aproximativ 2.000 de acri", "Dispune de furnale proprii și laminoare", "Fondat în anii 1860"],
       en: ["Produces rails for the entire UK rail network", "The site spans approximately 2,000 acres", "Features integrated blast furnaces and rolling mills", "Established in the 1860s"],
     },
-    imageHint: "Blast furnaces and industrial structures of Scunthorpe Steelworks", image: "/poi-images/uk-scunthorpe-steelworks-economic-v2.webp"},
-  {
+imageHint: "Blast furnaces and industrial structures of Scunthorpe Steelworks",
+    descriptionAdvanced: {
+      de: "Das Stahlwerk in Scunthorpe ist einer der bedeutendsten Industriestandorte im Norden von Lincolnshire und das größte integrierte Stahlwerk Großbritanniens. Es spielt eine fundamentale Rolle für die britische Bau- und Infrastrukturbranche, indem es hochwertigen Stahl für Schienen, Träger und Spezialprofile liefert. Trotz wirtschaftlicher Herausforderungen bleibt der Standort ein Rückgrat der regionalen Beschäftigung und ein Symbol britischer Schwerindustrie.",
+      hu: "A scunthorpe-i acélmű Észak-Lincolnshire legjelentősebb ipari létesítménye, egyben az Egyesült Királyság legnagyobb integrált acélgyára. Meghatározó szerepet játszik a brit építőiparban és infrastruktúra-fejlesztésben, kiváló minőségű vasúti síneket és tartószerkezeteket gyártva. A gyár a regionális foglalkoztatás tartóoszlopa és a brit nehézipar évszázados hagyományainak őrzője.",
+      ro: "Oțelăria din Scunthorpe este unul dintre cele mai importante situri industriale din North Lincolnshire și cea mai mare unitate integrată de producție a oțelului din UK. Aceasta joacă un rol vital în furnizarea de oțel structural și șine pentru proiectele de infrastructură națională. În ciuda schimbărilor economice, rămâne un pilon al ocupării forței de muncă în regiune și un simbol al industriei grele britanice.",
+      en: "Scunthorpe Steelworks is the largest integrated steel manufacturing site in the United Kingdom, located in North Lincolnshire. It is a critical supplier of high-quality steel for the nation's rail, construction, and infrastructure sectors. Despite economic shifts, the plant remains a primary driver of regional employment and a key asset for British industrial independence.",
+    },
+    factsAdvanced: {
+      de: ["Erstreckt sich über eine Fläche von rund 800 Hektar.", "Produziert jährlich Millionen Tonnen Rohstahl.", "Haupthersteller für Schienen der britischen Network Rail.", "Verfügt über vier riesige Hochöfen namens 'Queen Anne' etc."],
+      hu: ["A gyárterület mintegy 800 hektáron terül el.", "Évente több millió tonna nyersacélt állít elő.", "A brit Network Rail vasúti sínjeinek fő beszállítója.", "Négy hatalmas nagyolvasztóval rendelkezik (pl. Queen Anne)."],
+      ro: ["Situl se întinde pe o suprafață de aproximativ 800 de hectare.", "Produce anual milioane de tone de oțel brut.", "Principal furnizor de șine pentru rețeaua feroviară britanică.", "Dispune de patru furnale uriașe, numite simbolic 'Queen Anne' etc."],
+      en: ["The site spans an area of approximately 2,000 acres.", "Produces millions of tonnes of liquid steel annually.", "Primary manufacturer of rails for the UK's Network Rail.", "Features four massive blast furnaces known as the 'Four Queens'."],
+    },
+    image: "/poi-images/uk-scunthorpe-steelworks-economic-v2.webp",
+},  {
     id: "uk-port-of-immingham-economic-v2",
     type: "port",
-    name: { de: "Hafen von Immingham", hu: "Immingham kikötője", ro: "Portul Immingham", en: "Port of Immingham" },
+    name: { de: "Hafen von Immingham", hu: "Immingham kikötője", ro: "Portul Immingham", en: "Port of Immingham",
+image: "/poi-images/uk-port-of-immingham-economic-v2.webp"
+},
     coords: [-0.19, 53.628],
     coordinates: { lat: 53.628, lng: -0.19 },
     description: {
@@ -133,11 +225,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Manipulează 46 de milioane de tone anual", "Cel mai important port pentru cărbune și biomasă", "Dispune de terminale auto extinse", "Parte a complexului portuar Humber"],
       en: ["Handles 46 million tonnes of cargo annually", "UK's busiest port for coal and biomass imports", "Features extensive automotive terminals", "Part of the larger Humber Ports complex"],
     },
-    imageHint: "Cargo ships and docks at the Port of Immingham", image: "/poi-images/uk-port-of-immingham-economic-v2.webp"},
-  {
+imageHint: "Cargo ships and docks at the Port of Immingham",
+    descriptionAdvanced: {
+      de: "Der Hafen von Immingham am Humber-Ästuar ist nach Tonnage gemessen der größte Hafen des Vereinigten Königreichs. Er ist ein kritischer Knotenpunkt für den Energie- und Rohstoffsektor, spezialisiert auf den Umschlag von Biomasse, Kohle, Öl und Eisenbahnfracht. Seine Kapazität zur Abwicklung riesiger Mengen an Massengütern macht ihn unverzichtbar für die Versorgungssicherheit der britischen Industrie und Kraftwerke.",
+      hu: "Az Immingham kikötő a Humber-torkolatnál található, és tonnatartalom alapján az Egyesült Királyság legnagyobb kikötője. Meghatározó szerepet tölt be az energia- és nyersanyagszektorban, különösen a biomassza, a szén és a kőolaj kezelésében. Hatalmas áruforgalmi kapacitása nélkülözhetetlenné teszi a brit ipar és az erőművek folyamatos ellátása szempontjából.",
+      ro: "Portul Immingham, situat pe estuarul Humber, este cel mai mare port din Regatul Unit în ceea ce privește tonajul manipulat. Acesta servește drept un nod logistic critic pentru sectorul energetic și de materii prime, specializându-se în biomasă, cărbune și petrol. Capacitatea sa vastă de manipulare a mărfurilor vrac este esențială pentru securitatea aprovizionării industriei britanice.",
+      en: "The Port of Immingham, situated on the Humber Estuary, is the UK's largest port by tonnage handled. It is a vital logistics hub for the energy and raw materials sectors, specializing in the transit of biomass, coal, and oil. The port's immense capacity for dry and liquid bulk cargo makes it indispensable for the UK's industrial supply chain and national energy security.",
+    },
+    factsAdvanced: {
+      de: ["Umschlag von jährlich über 50 Millionen Tonnen Fracht.", "Wichtigster Hafen für den Import von Biomasse für Kraftwerke.", "Wurde im Jahr 1912 offiziell durch König Georg V. eröffnet.", "Verfügt über modernste Terminals für den kombinierten Verkehr."],
+      hu: ["Évente több mint 50 millió tonna árut kezel.", "A biomassza-import legfontosabb kapuja az erőművek számára.", "1912-ben V. György király nyitotta meg hivatalosan.", "Modern termináljai alkalmasak a kombinált áruszállításra."],
+      ro: ["Gestionează peste 50 de milioane de tone de marfă pe an.", "Principalul punct de intrare pentru biomasa destinată centralelor.", "Inaugurat oficial în anul 1912 de către Regele George al V-lea.", "Dispune de terminale avansate pentru transportul intermodal."],
+      en: ["Handles over 50 million tonnes of cargo every year.", "Major port for the import of biomass for UK power stations.", "Officially opened in 1912 by King George V.", "Features cutting-edge terminals for deep-sea bulk vessels."],
+    },
+    image: "/poi-images/uk-port-of-immingham-economic-v2.webp",
+},  {
     id: "uk-milton-keynes-economic-v2",
     type: "city",
-    name: { de: "Milton Keynes", hu: "Milton Keynes", ro: "Milton Keynes", en: "Milton Keynes" },
+    name: { de: "Milton Keynes", hu: "Milton Keynes", ro: "Milton Keynes", en: "Milton Keynes",
+image: "/poi-images/uk-milton-keynes-economic-v2.webp"
+},
     coords: [-0.759, 52.04],
     coordinates: { lat: 52.04, lng: -0.759 },
     description: {
@@ -152,11 +259,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Cea mai mare rată de startup-uri pe cap de locuitor", "Sediul echipei de Formula 1 Red Bull Racing", "Centru pentru testarea vehiculelor autonome", "Nod logistic crucial pe coridorul M1"],
       en: ["Highest number of business startups per capita", "Home to Red Bull Racing Formula 1 team", "Center for autonomous vehicle testing trials", "Key distribution hub on the M1 motorway corridor"],
     },
-    imageHint: "Modern office buildings and street layout in Milton Keynes", image: "/poi-images/uk-milton-keynes-economic-v2.webp"},
-  {
+imageHint: "Modern office buildings and street layout in Milton Keynes",
+    descriptionAdvanced: {
+      de: "Milton Keynes ist eine der erfolgreichsten Planstädte Großbritanniens und ein bedeutender Wirtschaftsmotor im Südosten Englands. Bekannt für sein markantes Rasternetz und zahlreiche Grünflächen, hat sich die Stadt zu einem Hub für Logistik, Technologie und professionelle Dienstleistungen entwickelt. Ihre strategische Lage zwischen London, Birmingham, Oxford und Cambridge macht sie zu einem bevorzugten Standort für globale Unternehmen.",
+      hu: "Milton Keynes az Egyesült Királyság legsikeresebb tervezett városa és Délkelet-Anglia egyik legfontosabb gazdasági motorja. Jellegzetes négyzethálós úthálózatáról és zöldterületeiről ismert, mára pedig a logisztika, a technológia és az üzleti szolgáltatások központjává vált. Stratégiai elhelyezkedése a London-Birmingham-Oxford-Cambridge négyszögben vonzóvá teszi a globális vállalatok számára.",
+      ro: "Milton Keynes este unul dintre cele mai de succes 'orașe noi' din Regatul Unit, fiind un motor economic major în sud-estul Angliei. Cunoscut pentru rețeaua sa stradală în grilă și spațiile verzi vaste, orașul a devenit un centru pentru logistică, tehnologie și servicii profesionale. Poziția sa strategică între mari centre urbane îl face un sediu preferat pentru numeroase corporații multinaționale.",
+      en: "Milton Keynes is the UK's most successful 'New Town' and a significant economic driver in South East England. Renowned for its unique grid road system and extensive parklands, the city has evolved into a premier hub for logistics, high-tech engineering, and professional services. Its strategic location between London and Birmingham makes it a prime destination for global business investment.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1967 als geplante Entlastungsstadt.", "Beherbergt das Team von Red Bull Racing (Formel 1).", "Über 10.000 Unternehmen haben hier ihren Sitz.", "Erreicht regelmäßig Spitzenwerte beim Wirtschaftswachstum im UK."],
+      hu: ["1967-ben alapították tervezett 'új városként'.", "Itt található a Red Bull Racing Forma-1-es csapat központja.", "Több mint 10 000 bejegyzett vállalat székhelye.", "Rendszeresen az élen végez az Egyesült Királyság növekedési listáin."],
+      ro: ["Fondat în 1967 ca un oraș planificat pentru a reduce presiunea urbană.", "Găzduiește sediul echipei de Formula 1 Red Bull Racing.", "Peste 10.000 de companii activează în acest oraș.", "Clasat constant în topul orașelor cu cea mai rapidă creștere din UK."],
+      en: ["Founded in 1967 as a planned urban development.", "Home to the Red Bull Racing Formula One team headquarters.", "Host to over 10,000 active business enterprises.", "Consistently ranks among the top UK cities for economic growth."],
+    },
+    image: "/poi-images/uk-milton-keynes-economic-v2.webp",
+},  {
     id: "uk-port-talbot-steelworks-economic-v2",
     type: "factory",
-    name: { de: "Stahlwerk Port Talbot", hu: "Port Talbot acélmű", ro: "Combinatul siderurgic Port Talbot", en: "Port Talbot Steelworks" },
+    name: { de: "Stahlwerk Port Talbot", hu: "Port Talbot acélmű", ro: "Combinatul siderurgic Port Talbot", en: "Port Talbot Steelworks",
+image: "/poi-images/uk-port-talbot-steelworks-economic-v2.webp"
+},
     coords: [-3.768, 51.583],
     coordinates: { lat: 51.583, lng: -3.768 },
     description: {
@@ -171,11 +293,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Fondat în anul 1901", "Unul dintre ultimele situri cu furnale din MB", "Produce peste 4 milioane de tone de oțel anual", "Acces direct la terminale de minereu de mare adâncime"],
       en: ["Established in 1901", "One of only two blast furnace sites remaining in UK", "Produces over 4 million tonnes of steel annually", "Features direct access to deep-water ore terminals"],
     },
-    imageHint: "Massive steel production facility at Port Talbot on the coast", image: "/poi-images/uk-port-talbot-steelworks-economic-v2.webp"},
-  {
+imageHint: "Massive steel production facility at Port Talbot on the coast",
+    descriptionAdvanced: {
+      de: "Das Stahlwerk in Port Talbot ist ein Eckpfeiler der walisischen Wirtschaft und einer der größten integrierten Stahlproduktionsstandorte in Europa. Es liefert lebenswichtige Werkstoffe für die Automobil-, Verpackungs- und Bauindustrie weltweit. Das Werk ist ein Symbol industrieller Stärke und steht heute im Zentrum der Bemühungen um eine umweltfreundlichere Stahlproduktion durch den Einsatz von Elektrolichtbogenöfen.",
+      hu: "A Port Talbot-i acélmű Wales gazdaságának egyik sarokköve és Európa egyik legnagyobb integrált acélgyártó központja. Alapvető nyersanyagokat biztosít a globális autóipar, csomagolástechnika és építőipar számára. A gyár az ipari erő szimbóluma, amely jelenleg a zöld acélgyártásra való átállás és az elektromos ívkemencék bevezetésének középpontjában áll.",
+      ro: "Oțelăria din Port Talbot este o componentă vitală a economiei galeze și unul dintre cele mai mari situri integrate de producție a oțelului din Europa. Aceasta furnizează materiale esențiale pentru industria auto și de construcții la nivel global. Situl reprezintă un simbol al identității industriale, fiind în prezent într-un proces de modernizare către tehnologii de producție sustenabile.",
+      en: "Port Talbot Steelworks is a cornerstone of the Welsh economy and one of the largest integrated steelmaking sites in Europe. It produces high-quality steel for the global automotive, packaging, and construction sectors. As a vital industrial asset, the plant is currently at the heart of a major transition towards sustainable, green steel production through electric arc furnace technology.",
+    },
+    factsAdvanced: {
+      de: ["Produziert jährlich etwa 5 Millionen Tonnen Stahl.", "Beschäftigt direkt rund 4.000 Fachkräfte in der Region.", "Verfügt über einen eigenen Tiefwasserhafen für Rohstoffe.", "Größter privater Arbeitgeber im Süden von Wales."],
+      hu: ["Évente körülbelül 5 millió tonna acélt állít elő.", "Közvetlenül mintegy 4000 szakembert foglalkoztat a régióban.", "Saját mélyvízi kikötővel rendelkezik a nyersanyagok fogadásához.", "Dél-Wales legnagyobb magánszektorbeli munkaadója."],
+      ro: ["Capacitate de producție de circa 5 milioane de tone de oțel anual.", "Oferă locuri de muncă directe pentru aproximativ 4.000 de persoane.", "Deține propriul port de adâncime pentru importul materiilor prime.", "Cel mai mare angajator din sectorul privat din sudul Țării Galilor."],
+      en: ["Produces approximately 5 million tonnes of steel per year.", "Employs around 4,000 people directly at the site.", "Features its own deep-water tidal harbour for raw materials.", "The largest private sector employer in South Wales."],
+    },
+    image: "/poi-images/uk-port-talbot-steelworks-economic-v2.webp",
+},  {
     id: "uk-london-gateway-economic-v2",
     type: "port",
-    name: { de: "London Gateway", hu: "London Gateway", ro: "London Gateway", en: "London Gateway" },
+    name: { de: "London Gateway", hu: "London Gateway", ro: "London Gateway", en: "London Gateway",
+image: "/poi-images/uk-london-gateway-economic-v2.webp"
+},
     coords: [0.465, 51.512],
     coordinates: { lat: 51.512, lng: 0.465 },
     description: {
@@ -191,12 +328,26 @@ export const ukEconomicV2: POI[] = [
       en: ["Opened in November 2013", "Includes an integrated massive logistics park", "Uses automated stacking cranes for efficiency", "Capable of handling vessels over 18,000 TEUs"],
     },
     imageHint: "Automated cranes at London Gateway container terminal",
+    descriptionAdvanced: {
+      de: "London Gateway ist der modernste Tiefwasserhafen Großbritanniens und kombiniert ein riesiges Containerterminal mit dem größten Logistikpark Europas. An der Themse in Essex gelegen, nutzt er fortschrittliche Automatisierungstechnik, um die effiziente Abwicklung der weltweit größten Schiffe zu gewährleisten. Seine Nähe zum Londoner Markt reduziert Transportwege und CO2-Emissionen in der britischen Lieferkette erheblich.",
+      hu: "A London Gateway az Egyesült Királyság legmodernebb mélyvízi kikötője, amely egy óriási konténerterminált ötvöz Európa legnagyobb logisztikai parkjával. Az essexi Temze-parton fekvő létesítmény fejlett automatizálást alkalmaz a világ legnagyobb hajóinak kiszolgálására. London közelsége jelentősen csökkenti a szállítási költségeket és a károsanyag-kibocsátást a brit ellátási láncban.",
+      ro: "London Gateway este cel mai modern port de adâncime din UK, integrând un terminal de containere masiv cu cel mai mare parc logistic din Europa. Situat pe Tamisa în Essex, acesta utilizează tehnologii avansate de automatizare pentru a procesa cele mai mari nave comerciale. Proximitatea sa față de piața londoneză optimizează lanțul de aprovizionare și reduce amprenta de carbon.",
+      en: "London Gateway is the UK's most technologically advanced deep-sea port, integrating a major container terminal with Europe's largest logistics park. Located on the Thames Estuary in Essex, it utilizes state-of-the-art automation to handle the world's largest container vessels. Its proximity to London significantly reduces inland transport distances and carbon emissions for the UK supply chain.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Terminals im November 2013.", "Besitzt einige der größten Kaikräne der Welt.", "Kann Schiffe mit einer Kapazität von über 24.000 TEU entladen.", "Integrierter Logistikpark bietet 850.000 m² Nutzfläche."],
+      hu: ["A terminált 2013 novemberében nyitották meg.", "Itt találhatók a világ legnagyobb kikötői darui közül néhány.", "Képes a 24 000 TEU feletti kapacitású hajók fogadására is.", "A logisztikai park 850 000 négyzetméternyi területet kínál."],
+      ro: ["Terminalul a fost deschis oficial în noiembrie 2013.", "Dispune de unele dintre cele mai mari macarale portuare din lume.", "Capabil să descarce nave cu o capacitate de peste 24.000 TEU.", "Parcul logistic integrat oferă 850.000 mp de spațiu util."],
+      en: ["Opened for commercial operations in November 2013.", "Features some of the tallest quay cranes in the world.", "Accommodates ultra-large container vessels of 24,000+ TEU capacity.", "The logistics park offers 9 million square feet of development space."],
+    },
   }
 ,
   {
     id: "uk-aberdeen-harbour-economic-v2",
     type: "port",
-    name: { de: "Hafen von Aberdeen", hu: "Aberdeeni kikötő", ro: "Portul Aberdeen", en: "Aberdeen Harbour" },
+    name: { de: "Hafen von Aberdeen", hu: "Aberdeeni kikötő", ro: "Portul Aberdeen", en: "Aberdeen Harbour",
+image: "/poi-images/uk-aberdeen-harbour-economic-v2.webp"
+},
     coords: [-2.083, 57.144],
     coordinates: { lat: 57.144, lng: -2.083 },
     description: {
@@ -212,11 +363,25 @@ export const ukEconomicV2: POI[] = [
       en: ["Established in 1136", "Europe's premier offshore port", "New South Harbour opened in 2022", "Supports 15,000 local jobs"],
     },
     imageHint: "Supply ships and oil infrastructure in Aberdeen Harbour",
+    descriptionAdvanced: {
+      de: "Der Hafen von Aberdeen ist ein zentraler maritim-ökonomischer Knotenpunkt und gilt als der älteste bestehende Betrieb im Vereinigten Königreich. Mit der massiven Erweiterung um den 'South Harbour' in Nigg Bay hat der Hafen seine Kapazitäten für größere Kreuzfahrtschiffe und Offshore-Windprojekte drastisch ausgebaut. Er bleibt das pulsierende Herz der schottischen maritimen Industrie und der Energiewende im Nordseeraum.",
+      hu: "Aberdeen kikötője központi tengeri és gazdasági csomópont, amelyet az Egyesült Királyság legrégebbi, ma is működő vállalkozásaként tartanak számon. A Nigg-öbölnél történt masszív bővítés (South Harbour) révén a kikötő képessé vált a legnagyobb luxushajók és tengeri szélenergia-projekteket kiszolgáló járművek fogadására. Ez a fejlesztés megerősíti szerepét a skót tengeri ipar és az energiaátmenet központjaként.",
+      ro: "Portul Aberdeen este un centru vital al economiei maritime, fiind considerat cea mai veche afacere activă din Regatul Unit. Odată cu extinderea masivă prin proiectul 'South Harbour', portul și-a mărit capacitatea de a găzdui nave de croazieră mari și suport pentru parcuri eoliene offshore. Acesta rămâne nucleul industriei maritime scoțiene și un pilon pentru viitorul energetic al regiunii.",
+      en: "Aberdeen Harbour is a premier maritime logistics hub and holds the distinction of being the UK's oldest existing business. The significant expansion into 'South Harbour' at Nigg Bay has transformed its capacity to accommodate larger cruise ships and offshore wind installation vessels. It remains the strategic heart of Scotland's maritime sector and a key enabler for the North Sea energy transition.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1136 durch eine Charta von König David I.", "Der South Harbour bietet eine Kailänge von 1,4 Kilometern.", "Wichtigster Versorgungshafen für die Nordsee-Energieindustrie.", "Kann nun Kreuzfahrtschiffe mit einer Länge von 300 Metern aufnehmen."],
+      hu: ["1136-ban alapította I. Dávid király egy oklevéllel.", "A South Harbour 1,4 kilométernyi rakpartot kínál.", "Az északi-tengeri energiaipar legfontosabb ellátó kikötője.", "Már 300 méter hosszú luxusüdülőhajók fogadására is alkalmas."],
+      ro: ["Fondat în 1136 printr-o cartă de la Regele David I.", "South Harbour oferă o lungime a danei de 1,4 kilometri.", "Principalul port de aprovizionare pentru industria energetică din Marea Nordului.", "Capabil să primească nave de croazieră cu lungimea de până la 300 metri."],
+      en: ["Established in 1136 by a charter from King David I.", "The South Harbour expansion adds 1.4 kilometers of quay walls.", "Primary support hub for the North Sea energy and subsea sectors.", "Can now accommodate cruise vessels up to 300 meters in length."],
+    },
   },
   {
     id: "uk-hinkley-point-c-economic-v2",
     type: "industry",
-    name: { de: "Hinkley Point C", hu: "Hinkley Point C", ro: "Hinkley Point C", en: "Hinkley Point C" },
+    name: { de: "Hinkley Point C", hu: "Hinkley Point C", ro: "Hinkley Point C", en: "Hinkley Point C",
+image: "/poi-images/uk-hinkley-point-c-economic-v2.webp"
+},
     coords: [-3.129, 51.207],
     coordinates: { lat: 51.207, lng: -3.129 },
     description: {
@@ -232,11 +397,25 @@ export const ukEconomicV2: POI[] = [
       en: ["Construction started in 2016", "Features two EPR reactors", "Largest construction site in Europe", "Planned 60-year lifespan"],
     },
     imageHint: "Construction site of the Hinkley Point C nuclear power station",
+    descriptionAdvanced: {
+      de: "Hinkley Point C in Somerset ist das erste Kernkraftwerk einer neuen Generation im Vereinigten Königreich seit Jahrzehnten. Das gigantische Infrastrukturprojekt nutzt moderne EPR-Reaktoren, um nach Fertigstellung eine zuverlässige Grundlast an CO2-armem Strom zu liefern. Es spielt eine entscheidende Rolle bei der Sicherung der britischen Energieunabhängigkeit und der Reduzierung der Abhängigkeit von fossilen Brennstoffen.",
+      hu: "A somerseti Hinkley Point C az első új generációs atomerőmű az Egyesült Királyságban az elmúlt évtizedekben. Ez a gigantikus infrastrukturális projekt modern EPR-reaktorokat használ, hogy elkészülte után megbízható, alacsony szén-dioxid-kibocsátású alaperőművi áramot biztosítson. Meghatározó szerepe van a brit energiafüggetlenség megteremtésében és a fosszilis tüzelőanyagoktól való függőség csökkentésében.",
+      ro: "Hinkley Point C din Somerset este prima centrală nucleară din noua generație construită în Regatul Unit în ultimele decenii. Acest proiect masiv de infrastructură utilizează reactoare moderne de tip EPR pentru a furniza o sursă constantă de energie cu emisii scăzute de carbon. Este esențială pentru securitatea energetică națională și pentru atingerea obiectivelor climatice pe termen lung.",
+      en: "Hinkley Point C in Somerset is the first of a new generation of nuclear power stations to be built in the UK in decades. This massive infrastructure project utilizes advanced EPR reactors to provide a reliable source of low-carbon baseload electricity. Once operational, it will be a cornerstone of the UK's energy security strategy, significantly reducing reliance on fossil fuels.",
+    },
+    factsAdvanced: {
+      de: ["Wird etwa 7 % des gesamten britischen Strombedarfs decken.", "Beherbergt zwei Reaktoren mit einer Leistung von je 1.600 MW.", "Größte Baustelle in ganz Europa während der Hochphase.", "Versorgt schätzungsweise 6 Millionen Haushalte mit Energie."],
+      hu: ["A brit áramszükséglet mintegy 7%-át fogja fedezni.", "Két darab, egyenként 1600 MW teljesítményű reaktort tartalmaz.", "Európa legnagyobb építési területe volt a csúcsidőszakban.", "Körülbelül 6 millió háztartás energiaellátását biztosítja."],
+      ro: ["Va furniza aproximativ 7% din necesarul de electricitate al UK.", "Găzduiește două reactoare cu o capacitate de 1.600 MW fiecare.", "Cel mai mare șantier de construcții din Europa în faza de vârf.", "Va alimenta cu energie circa 6 milioane de locuințe."],
+      en: ["Expected to provide 7% of the UK's total electricity demand.", "Features two EPR reactors with 1,600 MW capacity each.", "The largest construction site in Europe during its peak phase.", "Will supply low-carbon power to approximately 6 million homes."],
+    },
   },
   {
     id: "uk-port-of-dover-economic-v2",
     type: "port",
-    name: { de: "Hafen von Dover", hu: "Doveri kikötő", ro: "Portul Dover", en: "Port of Dover" },
+    name: { de: "Hafen von Dover", hu: "Doveri kikötő", ro: "Portul Dover", en: "Port of Dover",
+image: "/poi-images/uk-port-of-dover-economic-v2.webp"
+},
     coords: [1.332, 51.127],
     coordinates: { lat: 51.127, lng: 1.332 },
     description: {
@@ -251,11 +430,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Peste 2 milioane de camioane anual", "Cea mai scurtă rută spre Franța", "Fondat prin Cartă Regală în 1606", "Gestionează 33% din comerțul UK-UE"],
       en: ["Over 2 million trucks annually", "Shortest crossing to France", "Established by Royal Charter in 1606", "Handles 33% of UK-EU trade traffic"],
     },
-    imageHint: "Ferries at the terminals in the Port of Dover with white cliffs", image: "/poi-images/uk-port-of-dover-economic-v2.webp"},
-  {
+imageHint: "Ferries at the terminals in the Port of Dover with white cliffs",
+    descriptionAdvanced: {
+      de: "Der Hafen von Dover ist der verkehrsreichste Fährhafen der Welt und die wichtigste Verbindung für den Waren- und Personenverkehr zwischen Großbritannien und Kontinentaleuropa. Gelegen an der engsten Stelle des Ärmelkanals, fertigt er jährlich Millionen von Lastkraftwagen und PKW ab. Seine Effizienz ist von zentraler Bedeutung für den Handel, den Tourismus und die Just-in-time-Logistik der britischen Industrie.",
+      hu: "Dover kikötője a világ legforgalmasabb kompkikötője, és a legfontosabb összeköttetés az Egyesült Királyság és az európai kontinens között. A Csatorna legkeskenyebb pontján fekvő kikötő évente több millió teherautót és személyautót kezel. Hatékonysága kulcsfontosságú a kereskedelem, a turizmus és a brit ipar 'just-in-time' logisztikai folyamatainak fenntartása szempontjából.",
+      ro: "Portul Dover este cel mai aglomerat port de feribot din lume și principala poartă de legătură între Marea Britanie și Europa continentală. Situat în cel mai îngust punct al Canalului Mânecii, acesta gestionează anual milioane de vehicule grele de marfă și pasageri. Eficiența sa operațională este vitală pentru comerțul internațional și turismul trans-canal.",
+      en: "The Port of Dover is the world's busiest ferry port and the most vital maritime link between Great Britain and mainland Europe. Located at the narrowest point of the English Channel, it handles millions of heavy goods vehicles and passengers annually. Its operational efficiency is critical for international trade, tourism, and the UK's interconnected manufacturing supply chains.",
+    },
+    factsAdvanced: {
+      de: ["Wickelt jährlich Waren im Wert von rund 122 Milliarden Pfund ab.", "Über 2 Millionen Lastkraftwagen passieren den Hafen pro Jahr.", "Kürzeste Seeverbindung nach Frankreich (nur 34 Kilometer).", "Dient als Basishafen für zahlreiche internationale Kreuzfahrtschiffe."],
+      hu: ["Évente mintegy 122 milliárd font értékű áru halad át itt.", "Évente több mint 2 millió teherautó veszi igénybe a kikötőt.", "A legrövidebb tengeri út Franciaországba (mindössze 34 km).", "Számos nemzetközi luxushajó kiindulópontjaként is szolgál."],
+      ro: ["Gestionează mărfuri în valoare de circa 122 miliarde de lire anual.", "Peste 2 milioane de camioane tranzitează portul în fiecare an.", "Cea mai scurtă rută maritimă către Franța (doar 34 km).", "Servește ca punct de plecare pentru numeroase nave de croazieră."],
+      en: ["Handles goods worth approximately £122 billion every year.", "Over 2 million HGVs pass through the port annually.", "Features the shortest crossing to France, only 21 miles wide.", "A major hub for international cruise liners and logistics."],
+    },
+    image: "/poi-images/uk-port-of-dover-economic-v2.webp",
+},  {
     id: "uk-milford-haven-energy-economic-v2",
     type: "port",
-    name: { de: "Milford Haven Energiehafen", hu: "Milford Haven energiakikötő", ro: "Portul energetic Milford Haven", en: "Milford Haven Energy Port" },
+    name: { de: "Milford Haven Energiehafen", hu: "Milford Haven energiakikötő", ro: "Portul energetic Milford Haven", en: "Milford Haven Energy Port",
+image: "/poi-images/uk-milford-haven-energy-economic-v2.webp"
+},
     coords: [-5.035, 51.714],
     coordinates: { lat: 51.714, lng: -5.035 },
     description: {
@@ -270,11 +464,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Furnizează 25% din benzina britanică", "Cel mai mare port din Țara Galilor", "Găzduiește terminalul GNL South Hook", "Port natural de mare adâncime"],
       en: ["Supplies 25% of UK motor fuel", "Largest port in Wales", "Home to South Hook LNG terminal", "Deep-water natural harbour"],
     },
-    imageHint: "Oil refineries and LNG terminals at Milford Haven waterway", image: "/poi-images/uk-milford-haven-energy-economic-v2.webp"},
-  {
+imageHint: "Oil refineries and LNG terminals at Milford Haven waterway",
+    descriptionAdvanced: {
+      de: "Der Hafen von Milford Haven in Pembrokeshire ist der größte Energiehafen des Vereinigten Königreichs. Er beherbergt wichtige Terminals für Flüssigerdgas (LNG) und Ölraffinerien, die einen erheblichen Teil der nationalen Gas- und Kraftstoffversorgung sicherstellen. Die geschützte Lage des tiefen Naturhafens erlaubt den Umschlag riesiger Tankschiffe und macht ihn zu einem strategischen Rückgrat der britischen Energiesicherheit.",
+      hu: "A pembrokeshire-i Milford Haven az Egyesült Királyság legnagyobb energiakikötője. Fontos cseppfolyósított földgáz (LNG) termináloknak és olajfinomítóknak ad otthont, amelyek az ország gáz- és üzemanyag-ellátásának jelentős részét biztosítják. A mélyvízi természetes kikötő védett fekvése lehetővé teszi a legnagyobb tankhajók fogadását, így a brit energiabiztonság stratégiai pillére.",
+      ro: "Portul Milford Haven din Pembrokeshire este cel mai mare port energetic din Regatul Unit. Acesta găzduiește terminale vitale de gaz natural lichefiat (GNL) și rafinării de petrol, asigurând o parte substanțială din necesarul național de combustibil. Portul natural de adâncime permite accesul tancurilor petroliere uriașe, fiind un pilon strategic al securității energetice britanice.",
+      en: "Milford Haven Energy Port in Pembrokeshire is the UK's leading energy gateway. It houses critical liquefied natural gas (LNG) terminals and refineries that supply a significant portion of the nation's gas and liquid fuel needs. The port's deep-water natural harbour allows it to accommodate the world's largest tankers, making it a strategic asset for national energy resilience.",
+    },
+    factsAdvanced: {
+      de: ["Liefert bis zu 25 % des gesamten britischen Gasbedarfs.", "Einer der tiefsten natürlichen Häfen der Welt.", "Beherbergt die South Hook und Dragon LNG-Terminals.", "Wichtigster Standort für die petrochemische Industrie in Wales."],
+      hu: ["A teljes brit gázszükséglet akár 25%-át is képes biztosítani.", "A világ egyik legmélyebb természetes kikötője.", "Itt található a South Hook és a Dragon LNG-terminál.", "Wales petrolkémiai iparának legfontosabb központja."],
+      ro: ["Furnizează până la 25% din necesarul de gaz al Regatului Unit.", "Unul dintre cele mai adânci porturi naturale din lume.", "Găzduiește terminalele de GNL South Hook și Dragon.", "Principalul sit pentru industria petrochimică din Țara Galilor."],
+      en: ["Supplies up to 25% of the UK's total natural gas demand.", "Ranked as one of the deepest natural harbours in the world.", "Home to the South Hook and Dragon LNG import terminals.", "A critical location for the Welsh petrochemical industry."],
+    },
+    image: "/poi-images/uk-milford-haven-energy-economic-v2.webp",
+},  {
     id: "uk-grangemouth-refinery-economic-v2",
     type: "factory",
-    name: { de: "Grangemouth Raffinerie", hu: "Grangemouth finomító", ro: "Rafinăria Grangemouth", en: "Grangemouth Refinery" },
+    name: { de: "Grangemouth Raffinerie", hu: "Grangemouth finomító", ro: "Rafinăria Grangemouth", en: "Grangemouth Refinery",
+image: "/poi-images/uk-grangemouth-refinery-economic-v2.webp"
+},
     coords: [-3.708, 56.015],
     coordinates: { lat: 56.015, lng: -3.708 },
     description: {
@@ -289,11 +498,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Funcționează din 1924", "Procesează 200.000 de barili zilnic", "Conectată la conducta Forties", "Exportator major de mase plastice"],
       en: ["Operating since 1924", "Processes 200,000 barrels per day", "Connected to the Forties pipeline", "Major exporter of polymers"],
     },
-    imageHint: "Industrial skyline of Grangemouth oil refinery and chemical plant", image: "/poi-images/uk-grangemouth-refinery-economic-v2.webp"},
-  {
+imageHint: "Industrial skyline of Grangemouth oil refinery and chemical plant",
+    descriptionAdvanced: {
+      de: "Die Raffinerie Grangemouth am Firth of Forth ist das industrielle Herz Schottlands und die einzige Rohölraffinerie des Landes. Als Teil eines riesigen petrochemischen Komplexes produziert sie den Großteil des in Schottland verbrauchten Kraftstoffs und liefert Rohstoffe für die Kunststoffherstellung. Die Anlage ist direkt mit dem Forties-Pipelinesystem verbunden und spielt eine Schlüsselrolle für die regionale Wirtschaftskraft.",
+      hu: "A Firth of Forth partján fekvő grangemouth-i finomító Skócia ipari szíve és az ország egyetlen kőolajfinomítója. Egy hatalmas petrolkémiai komplexum részeként itt állítják elő a Skóciában felhasznált üzemanyagok döntő többségét, és alapanyagokat biztosítanak a műanyaggyártáshoz. A létesítmény közvetlen összeköttetésben áll a Forties-vezetékrendszerrel, meghatározva a régió gazdasági erejét.",
+      ro: "Rafinăria Grangemouth, situată pe Firth of Forth, este inima industrială a Scoției și singura rafinărie de petrol din țară. Parte a unui vast complex petrochimic, aceasta produce majoritatea combustibilului utilizat în Scoția și furnizează materii prime pentru industria plasticului. Instalația este conectată direct la sistemul de conducte Forties, fiind esențială pentru economia regională.",
+      en: "Grangemouth Refinery, located on the Firth of Forth, is the industrial heart of Scotland and the nation's only crude oil refinery. As part of a major petrochemical complex, it produces the majority of fuel used in Scotland and provides essential raw materials for the plastics industry. The site is directly linked to the Forties Pipeline System, making it central to the regional economy.",
+    },
+    factsAdvanced: {
+      de: ["Verarbeitet täglich rund 200.000 Barrel Rohöl.", "Versorgt den Flughafen Edinburgh mit Kerosin.", "Wurde im Jahr 1924 als eine der ersten modernen Raffinerien erbaut.", "Integrierter Standort für die Produktion von Polymeren."],
+      hu: ["Naponta mintegy 200 000 hordó kőolajat dolgoz fel.", "Ez a létesítmény látja el kerozinnal az edinburgh-i repülőteret.", "1924-ben épült az egyik első modern finomítóként.", "Integrált központ a polimerek és műanyagok gyártásához."],
+      ro: ["Procesează aproximativ 200.000 de barili de petrol pe zi.", "Furnizează kerosen pentru Aeroportul din Edinburgh.", "Construită în 1924, fiind una dintre primele rafinării moderne.", "Sursă majoră pentru producția de polimeri din regiune."],
+      en: ["Processes approximately 200,000 barrels of crude oil per day.", "Supplies aviation fuel directly to Edinburgh Airport.", "Established in 1924, one of the UK's oldest refining sites.", "An integrated hub for chemical and polymer manufacturing."],
+    },
+    image: "/poi-images/uk-grangemouth-refinery-economic-v2.webp",
+},  {
     id: "uk-east-midlands-airport-cargo-economic-v2",
     type: "industry",
-    name: { de: "Frachtzentrum East Midlands", hu: "East Midlands teherforgalmi központ", ro: "Hub cargo East Midlands", en: "East Midlands Cargo Hub" },
+    name: { de: "Frachtzentrum East Midlands", hu: "East Midlands teherforgalmi központ", ro: "Hub cargo East Midlands", en: "East Midlands Cargo Hub",
+image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp"
+},
     coords: [-1.328, 52.831],
     coordinates: { lat: 52.831, lng: -1.328 },
     description: {
@@ -308,11 +532,26 @@ export const ukEconomicV2: POI[] = [
       ro: ["Principalul aeroport pentru marfă de noapte", "Gestionează 440.000 de tone anual", "Locație centrală lângă autostrada M1", "Parte din zona liberă East Midlands"],
       en: ["UK's number one airport for night freight", "Handles 440,000 tonnes annually", "Central location near the M1 motorway", "Part of the East Midlands Freeport zone"],
     },
-    imageHint: "Cargo aircraft and logistics warehouses at East Midlands Airport", image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp"},
-  {
+imageHint: "Cargo aircraft and logistics warehouses at East Midlands Airport",
+    descriptionAdvanced: {
+      de: "Der East Midlands Airport ist das bedeutendste Luftfrachtdrehkreuz des Vereinigten Königreichs für reine Frachtflüge. Durch seine zentrale Lage im Herzen Englands dient er als Hauptbasis für Express-Logistikunternehmen wie DHL und UPS. Der Flughafen ermöglicht schnelle internationale Lieferverbindungen und ist ein entscheidender Faktor für den E-Commerce und die verarbeitende Industrie in der gesamten Region.",
+      hu: "Az East Midlands repülőtér az Egyesült Királyság legfontosabb légi áruszállítási csomópontja. Központi elhelyezkedése révén Anglia szívében bázisul szolgál olyan expressz logisztikai cégeknek, mint a DHL és az UPS. A repülőtér gyors nemzetközi szállítási összeköttetést biztosít, és meghatározó szerepet játszik az e-kereskedelem, valamint a régió feldolgozóiparának kiszolgálásában.",
+      ro: "Aeroportul East Midlands este cel mai important hub de transport aerian de marfă din Regatul Unit. Datorită locației sale centrale în inima Angliei, acesta servește ca bază principală pentru companii de logistică expres precum DHL și UPS. Aeroportul facilitează conexiuni rapide de transport internațional, fiind vital pentru e-commerce și industria manufacturieră regională.",
+      en: "East Midlands Airport is the UK's most important hub for pure air freight operations. Its central location in the heart of England makes it the primary base for express logistics giants such as DHL and UPS. The airport facilitates rapid international delivery connections and is a critical driver for the e-commerce sector and regional manufacturing industries.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößter Frachtflughafen des Landes nach Heathrow.", "Wickelt jährlich über 400.000 Tonnen Luftfracht ab.", "Besitzt das größte DHL-Sortierzentrum außerhalb der USA.", "Rund 90 % der britischen Bevölkerung sind in 4 Stunden erreichbar."],
+      hu: ["Heathrow után az ország második legnagyobb áruforgalmi reptere.", "Évente több mint 400 000 tonna légi árut kezel.", "Itt található a DHL legnagyobb válogatóközpontja az USA-n kívül.", "A brit lakosság 90%-a 4 órás autóúton belül elérhető innen."],
+      ro: ["Al doilea cel mai mare aeroport de marfă din țară după Heathrow.", "Gestionează peste 400.000 de tone de marfă aeriană anual.", "Găzduiește cel mai mare centru de sortare DHL din afara SUA.", "90% din populația UK poate fi accesată în 4 ore de condus."],
+      en: ["The UK's second busiest airport for cargo after Heathrow.", "Handles over 400,000 tonnes of air freight annually.", "Home to DHL's largest sorting hub outside of the United States.", "90% of the UK population is within a 4-hour drive of the site."],
+    },
+    image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp",
+},  {
     id: "uk-sullom-voe-terminal-economic-v2",
     type: "industry",
-    name: { de: "Sullom Voe Terminal", hu: "Sullom Voe terminál", ro: "Terminalul Sullom Voe", en: "Sullom Voe Terminal" },
+    name: { de: "Sullom Voe Terminal", hu: "Sullom Voe terminál", ro: "Terminalul Sullom Voe", en: "Sullom Voe Terminal",
+image: "/poi-images/uk-sullom-voe-terminal-economic-v2.webp"
+},
     coords: [-1.282, 60.465],
     coordinates: { lat: 60.465, lng: -1.282 },
     description: {
@@ -328,5 +567,17 @@ export const ukEconomicV2: POI[] = [
       en: ["Opened by the Queen in 1981", "Receives oil via undersea pipelines", "Features 4 tanker berths", "Backbone of the Shetland economy"],
     },
     imageHint: "Aerial view of the Sullom Voe oil and gas terminal in Shetland",
+    descriptionAdvanced: {
+      de: "Das Sullom Voe Terminal auf den Shetland-Inseln ist eines der größten Öl- und Gasterminals in Europa. Es wurde in den 1970er Jahren erbaut, um die riesigen Vorkommen in der Nordsee und im Nordatlantik zu erschließen. Das Terminal dient als Sammelpunkt für Pipelines und spielt eine Schlüsselrolle beim Export britischer Energie Ressourcen auf den Weltmarkt, während es gleichzeitig die lokale Wirtschaft der Inseln stützt.",
+      hu: "A Shetland-szigeteken található Sullom Voe terminál Európa egyik legnagyobb kőolaj- és gázterminálja. Az 1970-es években épült, hogy kiszolgálja az északi-tengeri és az észak-atlanti mezők kitermelését. A terminál gyűjtőpontként szolgál a csővezetékek számára, és kulcsszerepet játszik a brit energiaforrások világpiaci exportjában, miközben a szigetek gazdaságának motorja.",
+      ro: "Terminalul Sullom Voe din Insulele Shetland este unul dintre cele mai mari terminale de petrol și gaze din Europa. Construit în anii 1970, acesta a fost esențial pentru exploatarea zăcămintelor din Marea Nordului și Atlanticul de Nord. Terminalul servește ca punct de colectare pentru conducte și joacă un rol vital în exportul resurselor energetice britanice pe piața globală.",
+      en: "Sullom Voe Terminal in the Shetland Islands is one of the largest oil and gas terminals in Europe. Established in the 1970s, it was built to handle production from the massive North Sea and North Atlantic offshore fields. The terminal acts as a critical gathering point for major pipelines and is a key facility for exporting UK energy resources to the global market.",
+    },
+    factsAdvanced: {
+      de: ["Kann bis zu 2 Millionen Barrel Öl pro Tag verarbeiten.", "Empfängt Öl über die Brent- und Ninian-Pipelinesysteme.", "Einer der größten Arbeitgeber auf den Shetland-Inseln.", "Wurde 1981 offiziell durch Königin Elisabeth II. eröffnet."],
+      hu: ["Naponta akár 2 millió hordó olaj feldolgozására is képes.", "A Brent és Ninian vezetékrendszereken keresztül fogadja az olajat.", "A Shetland-szigetek egyik legjelentősebb munkaadója.", "II. Erzsébet királynő nyitotta meg hivatalosan 1981-ben."],
+      ro: ["Capacitate de procesare de până la 2 milioane de barili pe zi.", "Primește petrol prin sistemele de conducte Brent și Ninian.", "Unul dintre cei mai mari angajatori din Insulele Shetland.", "Inaugurat oficial în 1981 de către Regina Elisabeta a II-a."],
+      en: ["Capable of handling up to 2 million barrels of oil per day.", "Receives oil via the Brent and Ninian pipeline systems.", "One of the primary employers in the Shetland Islands.", "Officially opened in 1981 by Queen Elizabeth II."],
+    },
   }
 ];

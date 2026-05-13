@@ -4,7 +4,9 @@ export const swedenReliefV2: POI[] = [
   {
     id: "sweden-kebnekaise-sydtopp-relief-v2",
     type: "peak",
-    name: { de: "Kebnekaise Sydtopp", hu: "Kebnekaise déli csúcs", ro: "Kebnekaise Vârful Sud", en: "Kebnekaise Southern Peak" },
+    name: { de: "Kebnekaise Sydtopp", hu: "Kebnekaise déli csúcs", ro: "Kebnekaise Vârful Sud", en: "Kebnekaise Southern Peak",
+image: "/poi-images/sweden-kebnekaise-sydtopp-relief-v2.webp"
+},
     coords: [18.5111, 67.9025],
     coordinates: { lat: 67.9025, lng: 18.5111 },
     description: {
@@ -19,11 +21,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime de aprox. 2096 metri", "Parte a Alpilor Scandinavi", "Ghețarul se micșorează constant", "Destinație populară pentru alpiniști"],
       en: ["Height approx. 2096 meters", "Part of the Scandinavian Mountains", "Glacier is steadily shrinking", "Popular destination for climbers"],
     },
-    imageHint: "Kebnekaise mountain peak with snow and glacier", image: "/poi-images/sweden-kebnekaise-sydtopp-relief-v2.webp"},
-  {
+imageHint: "Kebnekaise mountain peak with snow and glacier",
+    descriptionAdvanced: {
+      de: "Der südliche Gipfel des Kebnekaise ist der höchste Punkt Schwedens, dessen Höhe aufgrund der dicken Gletscherschicht je nach Jahreszeit und Klima schwankt.",
+      hu: "A Kebnekaise déli csúcsa Svédország legmagasabb pontja, melynek magassága a rajta lévő gleccser vastagságától függően évszakonként jelentősen változik.",
+      ro: "Vârful sudic al muntelui Kebnekaise este cel mai înalt punct din Suedia, altitudinea sa variind sezonier în funcție de grosimea stratului de gheață.",
+      en: "The southern peak of Kebnekaise is Sweden's highest point, with its elevation fluctuating seasonally based on the thickness of the crowning glacier.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 2097 m", "Region: Lappland", "Gletschergipfel", "Erstbesteigung: 1883"],
+      hu: ["Magasság: kb. 2097 m", "Régió: Lappföld", "Gleccsercsúcs", "Első megmászás: 1883"],
+      ro: ["Altitudine: cca. 2097 m", "Regiune: Laponia", "Vârf glaciar", "Prima ascensiune: 1883"],
+      en: ["Elevation: ~2097 m", "Region: Lapland", "Glacial peak", "First ascent: 1883"],
+    },
+    image: "/poi-images/sweden-kebnekaise-sydtopp-relief-v2.webp",
+},  {
     id: "sweden-kebnekaise-nordtopp-relief-v2",
     type: "peak",
-    name: { de: "Kebnekaise Nordtopp", hu: "Kebnekaise északi csúcs", ro: "Kebnekaise Vârful Nord", en: "Kebnekaise Northern Peak" },
+    name: { de: "Kebnekaise Nordtopp", hu: "Kebnekaise északi csúcs", ro: "Kebnekaise Vârful Nord", en: "Kebnekaise Northern Peak",
+image: "/poi-images/sweden-kebnekaise-nordtopp-relief-v2.webp"
+},
     coords: [18.5208, 67.9122],
     coordinates: { lat: 67.9122, lng: 18.5208 },
     description: {
@@ -38,11 +55,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2097 metri", "Cel mai înalt punct fix din Suedia", "Compus din rocă de gabro", "Situat la nord de vârful sudic"],
       en: ["Height 2097 meters", "Sweden's highest solid rock point", "Composed of gabbro rock", "Located north of the southern peak"],
     },
-    imageHint: "Kebnekaise Northern peak rocky summit", image: "/poi-images/sweden-kebnekaise-nordtopp-relief-v2.webp"},
-  {
+imageHint: "Kebnekaise Northern peak rocky summit",
+    descriptionAdvanced: {
+      de: "Der Nordgipfel des Kebnekaise besteht aus festem Gestein und ist dauerhaft der zweithöchste Punkt des Landes, direkt neben dem vergletscherten Südgipfel.",
+      hu: "A Kebnekaise északi csúcsa szilárd kőzetből áll, és tartósan az ország második legmagasabb pontja a gleccserrel borított déli szomszédja mellett.",
+      ro: "Vârful nordic al Kebnekaise este format din rocă solidă și reprezintă permanent al doilea cel mai înalt punct al țării, lângă vârful sudic.",
+      en: "The northern peak of Kebnekaise consists of solid rock and remains the second highest point in Sweden, adjacent to the glaciated south peak.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2096,8 m", "Felsgipfel", "Massiv: Kebnekaise", "Lage: Nordschweden"],
+      hu: ["Magasság: 2096,8 m", "Kőzetcsúcs", "Masszívum: Kebnekaise", "Helyszín: Észak-Svédország"],
+      ro: ["Altitudine: 2096,8 m", "Vârf stâncos", "Masiv: Kebnekaise", "Locație: Nordul Suediei"],
+      en: ["Elevation: 2096.8 m", "Rock peak", "Massif: Kebnekaise", "Location: North Sweden"],
+    },
+    image: "/poi-images/sweden-kebnekaise-nordtopp-relief-v2.webp",
+},  {
     id: "sweden-sarektjakka-relief-v2",
     type: "mountain",
-    name: { de: "Sarektjåkkå", hu: "Sarektjåkkå", ro: "Sarektjåkkå", en: "Sarektjåkkå" },
+    name: { de: "Sarektjåkkå", hu: "Sarektjåkkå", ro: "Sarektjåkkå", en: "Sarektjåkkå",
+image: "/poi-images/sweden-sarektjakka-relief-v2.webp"
+},
     coords: [17.6533, 67.4308],
     coordinates: { lat: 67.4308, lng: 17.6533 },
     description: {
@@ -57,11 +89,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2089 metri", "Situat în Parcul Național Sarek", "Al doilea cel mai înalt munte din Suedia", "Nu există trasee marcate"],
       en: ["Height 2089 meters", "Located in Sarek National Park", "Sweden's second highest mountain", "No marked trails available"],
     },
-    imageHint: "Sarektjakka mountain massif in Sarek National Park", image: "/poi-images/sweden-sarektjakka-relief-v2.webp"},
-  {
+imageHint: "Sarektjakka mountain massif in Sarek National Park",
+    descriptionAdvanced: {
+      de: "Das Sarektjåkkå-Massiv liegt tief im Sarek-Nationalpark und beherbergt einige der entlegensten und anspruchsvollsten Gipfel der skandinavischen Alpen.",
+      hu: "A Sarektjåkkå-masszívum a Sarek Nemzeti Park szívében fekszik, és a skandináv Alpok néhány legtávolabbi és legnehezebb csúcsának ad otthont.",
+      ro: "Masivul Sarektjåkkå este situat în inima Parcului Național Sarek, adăpostind unele dintre cele mai izolate și dificile vârfuri din Alpii Scandinavi.",
+      en: "The Sarektjåkkå massif lies deep within Sarek National Park, hosting some of the most remote and challenging peaks in the Scandinavian Alps.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2089 m", "Nationalpark Sarek", "Zweithöchstes Massiv", "Entlegene Wildnis"],
+      hu: ["Magasság: 2089 m", "Sarek Nemzeti Park", "Második legmagasabb", "Lakatlan vadon"],
+      ro: ["Altitudine: 2089 m", "Parcul Național Sarek", "Al doilea masiv înalt", "Sălbăticie izolată"],
+      en: ["Elevation: 2089 m", "Sarek National Park", "Second highest massif", "Remote wilderness"],
+    },
+    image: "/poi-images/sweden-sarektjakka-relief-v2.webp",
+},  {
     id: "sweden-akka-relief-v2",
     type: "mountain",
-    name: { de: "Akka", hu: "Akka", ro: "Akka", en: "Akka" },
+    name: { de: "Akka", hu: "Akka", ro: "Akka", en: "Akka",
+image: "/poi-images/sweden-akka-relief-v2.webp"
+},
     coords: [17.4844, 67.5811],
     coordinates: { lat: 67.5811, lng: 17.4844 },
     description: {
@@ -76,11 +123,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2015 metri", "Munte sfânt pentru sami", "Format din douăsprezece vârfuri", "Situat în parcul Stora Sjöfallet"],
       en: ["Height 2015 meters", "Sacred mountain for the Sami", "Consists of twelve peaks", "Located in Stora Sjöfallet park"],
     },
-    imageHint: "Akka mountain massif above lake Akkajaure", image: "/poi-images/sweden-akka-relief-v2.webp"},
-  {
+imageHint: "Akka mountain massif above lake Akkajaure",
+    descriptionAdvanced: {
+      de: "Bekannt als die Königin von Lappland, dominiert das Akka-Massiv mit seinen markanten schneebedeckten Gipfeln die Landschaft am großen See Akkajaure.",
+      hu: "Lappföld királynőjeként ismert Akka-masszívum jellegzetes havas csúcsaival uralja az Akkajaure-tó körüli monumentális tájat.",
+      ro: "Cunoscut drept Regina Laponiei, masivul Akka domină peisajul de lângă lacul Akkajaure prin vârfurile sale proeminente acoperite de zăpadă.",
+      en: "Known as the Queen of Lapland, the Akka massif dominates the landscape by Lake Akkajaure with its striking and prominent snow-capped peaks.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2015 m", "Spitzname: Königin", "12 Gipfel im Massiv", "Lage: Norrbotten"],
+      hu: ["Magasság: 2015 m", "Becenév: Királynő", "12 csúcs a tömbben", "Helyszín: Norrbotten"],
+      ro: ["Altitudine: 2015 m", "Poreclă: Regina", "12 vârfuri în masiv", "Locație: Norrbotten"],
+      en: ["Elevation: 2015 m", "Nickname: Queen", "12 peaks in massif", "Location: Norrbotten"],
+    },
+    image: "/poi-images/sweden-akka-relief-v2.webp",
+},  {
     id: "sweden-sylarna-relief-v2",
     type: "mountain",
-    name: { de: "Sylarna", hu: "Sylarna", ro: "Sylarna", en: "Sylarna" },
+    name: { de: "Sylarna", hu: "Sylarna", ro: "Sylarna", en: "Sylarna",
+image: "/poi-images/sweden-sylarna-relief-v2.webp"
+},
     coords: [12.1936, 63.0167],
     coordinates: { lat: 63.0167, lng: 12.1936 },
     description: {
@@ -95,11 +157,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1762 metri (Storsylen)", "La granița cu Norvegia", "Zonă de drumeție populară", "Topografie alpină distinctă"],
       en: ["Height 1762 meters (Storsylen)", "On the border with Norway", "Popular hiking area", "Distinct alpine topography"],
     },
-    imageHint: "Sylarna mountain massif peaks", image: "/poi-images/sweden-sylarna-relief-v2.webp"},
-  {
+imageHint: "Sylarna mountain massif peaks",
+    descriptionAdvanced: {
+      de: "Sylarna ist ein markantes Gebirgsmassiv an der Grenze zu Norwegen, das für seine alpinen Kare und die charakteristischen, spitzen Gipfelformen bekannt ist.",
+      hu: "A Sylarna egy jellegzetes hegység a norvég határon, amely alpesi cirkuszvölgyeiről és karakteres, éles csúcsformáiról vált híressé.",
+      ro: "Sylarna este un masiv muntos proeminent la granița cu Norvegia, cunoscut pentru circurile sale alpine și formele ascuțite ale vârfurilor.",
+      en: "Sylarna is a prominent mountain massif on the Norwegian border, famous for its alpine cirques and characteristic, sharp peak formations.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1762 m", "Grenze: Schweden-Norwegen", "Gletschertäler", "Jämtland"],
+      hu: ["Magasság: 1762 m", "Határ: Svéd-Norvég", "Gleccservölgyek", "Jämtland"],
+      ro: ["Altitudine: 1762 m", "Graniță: Suedia-Norvegia", "Văi glaciare", "Jämtland"],
+      en: ["Elevation: 1762 m", "Border: Sweden-Norway", "Glacial cirques", "Jämtland"],
+    },
+    image: "/poi-images/sweden-sylarna-relief-v2.webp",
+},  {
     id: "sweden-areskutan-relief-v2",
     type: "mountain",
-    name: { de: "Åreskutan", hu: "Åreskutan", ro: "Åreskutan", en: "Åreskutan" },
+    name: { de: "Åreskutan", hu: "Åreskutan", ro: "Åreskutan", en: "Åreskutan",
+image: "/poi-images/sweden-areskutan-relief-v2.webp"
+},
     coords: [13.0903, 63.4314],
     coordinates: { lat: 63.4314, lng: 13.0903 },
     description: {
@@ -114,11 +191,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1420 metri", "Cea mai importantă zonă de schi din Suedia", "Vârf accesibil cu telecabina", "Gazda Campionatelor Mondiale de Schi Alpin"],
       en: ["Height 1420 meters", "Sweden's most important ski area", "Summit accessible by cable car", "Host of Alpine Ski World Championships"],
     },
-    imageHint: "Areskutan mountain with ski slopes", image: "/poi-images/sweden-areskutan-relief-v2.webp"},
-  {
+imageHint: "Areskutan mountain with ski slopes",
+    descriptionAdvanced: {
+      de: "Åreskutan ist einer der bekanntesten Berge Jämtlands und ein Zentrum für alpinen Skisport, das weite Ausblicke über den See Åresjön bietet.",
+      hu: "Åreskutan Jämtland egyik legismertebb hegye és az alpesi síelés központja, ahonnan lenyűgöző kilátás nyílik az Åresjön-tóra.",
+      ro: "Åreskutan este unul dintre cei mai cunoscuți munți din Jämtland și un centru al schiului alpin, oferind panorame asupra lacului Åresjön.",
+      en: "Åreskutan is one of Jämtland's most famous mountains and a hub for alpine skiing, offering expansive views over Lake Åresjön.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1420 m", "Skigebiet: Åre", "Kabinenbahn zum Gipfel", "Gestein: Gneis"],
+      hu: ["Magasság: 1420 m", "Síparadicsom: Åre", "Felvonó a csúcsig", "Kőzet: Gneisz"],
+      ro: ["Altitudine: 1420 m", "Stațiune: Åre", "Telecabină până la vârf", "Rocă: Gnais"],
+      en: ["Elevation: 1420 m", "Ski resort: Åre", "Cable car to summit", "Rock: Gneiss"],
+    },
+    image: "/poi-images/sweden-areskutan-relief-v2.webp",
+},  {
     id: "sweden-dundret-relief-v2",
     type: "mountain",
-    name: { de: "Dundret", hu: "Dundret", ro: "Dundret", en: "Dundret" },
+    name: { de: "Dundret", hu: "Dundret", ro: "Dundret", en: "Dundret",
+image: "/poi-images/sweden-dundret-relief-v2.webp"
+},
     coords: [20.6231, 67.1147],
     coordinates: { lat: 67.1147, lng: 20.6231 },
     description: {
@@ -133,11 +225,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 823 metri", "Vedere spre Sarek și Kebnekaise", "Stațiune de schi cunoscută", "Numele înseamnă „tunet” în limba sami"],
       en: ["Height 823 meters", "View of Sarek and Kebnekaise possible", "Well-known ski area", "Name means 'thunder' in Sami"],
     },
-    imageHint: "Dundret mountain near Gallivare", image: "/poi-images/sweden-dundret-relief-v2.webp"},
-  {
+imageHint: "Dundret mountain near Gallivare",
+    descriptionAdvanced: {
+      de: "Dundret bei Gällivare ist ein weithin sichtbarer Berg, von dessen Gipfel man bei klarem Wetter ein Elftel der gesamten Fläche Schwedens überblicken kann.",
+      hu: "A Gällivare melletti Dundret egy messziről látható hegy, amelynek csúcsáról tiszta időben Svédország területének egytizenötödét be lehet látni.",
+      ro: "Dundret, lângă Gällivare, este un munte vizibil de la distanță, de unde se poate vedea o unsprezecea parte din suprafața Suediei pe timp senin.",
+      en: "Dundret near Gällivare is a widely visible mountain from whose summit one can overlook one-eleventh of Sweden's total area in clear weather.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 823 m", "Ort: Gällivare", "Mitternachtssonne", "Naturschutzgebiet"],
+      hu: ["Magasság: 823 m", "Város: Gällivare", "Éjféli nap", "Természetvédelmi terület"],
+      ro: ["Altitudine: 823 m", "Oraș: Gällivare", "Soarele de miezul nopții", "Rezervație naturală"],
+      en: ["Elevation: 823 m", "Town: Gällivare", "Midnight sun", "Nature reserve"],
+    },
+    image: "/poi-images/sweden-dundret-relief-v2.webp",
+},  {
     id: "sweden-marsfjallet-relief-v2",
     type: "mountain",
-    name: { de: "Marsfjället", hu: "Marsfjället", ro: "Marsfjället", en: "Marsfjället" },
+    name: { de: "Marsfjället", hu: "Marsfjället", ro: "Marsfjället", en: "Marsfjället",
+image: "/poi-images/sweden-marsfjallet-relief-v2.webp"
+},
     coords: [15.3489, 65.0456],
     coordinates: { lat: 65.0456, lng: 15.3489 },
     description: {
@@ -152,11 +259,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1589 metri", "Cel mai înalt munte din sudul Laponiei", "Parte a unei rezervații de 86.000 hectare", "Compus din cuarțit și micasist"],
       en: ["Height 1589 meters", "Highest mountain in southern Lapland", "Part of an 86,000-hectare reserve", "Composed of quartzite and mica schist"],
     },
-    imageHint: "Marsfjallet mountain landscape Lapland", image: "/poi-images/sweden-marsfjallet-relief-v2.webp"},
-  {
+imageHint: "Marsfjallet mountain landscape Lapland",
+    descriptionAdvanced: {
+      de: "Das Marsfjället ist der höchste Gipfel im südlichen Lappland und bildet das Herzstück eines weitläufigen Naturschutzgebiets mit alpiner Flora.",
+      hu: "A Marsfjället Dél-Lappföld legmagasabb csúcsa, amely egy kiterjedt, alpesi flórájáról híres természetvédelmi terület központját alkotja.",
+      ro: "Marsfjället este cel mai înalt vârf din sudul Laponiei, formând nucleul unei vaste rezervații naturale cu floră alpină specifică.",
+      en: "Marsfjället is the highest peak in southern Lapland, forming the centerpiece of an extensive nature reserve rich in alpine flora.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1589 m", "Region: Västerbotten", "Höchster im Süden", "Naturschutzgebiet"],
+      hu: ["Magasság: 1589 m", "Régió: Västerbotten", "Dél-Lappföld legmagasabbja", "Természetvédelmi terület"],
+      ro: ["Altitudine: 1589 m", "Regiune: Västerbotten", "Cel mai înalt din sud", "Rezervație naturală"],
+      en: ["Elevation: 1589 m", "Region: Västerbotten", "Highest in South Lapland", "Nature reserve"],
+    },
+    image: "/poi-images/sweden-marsfjallet-relief-v2.webp",
+},  {
     id: "sweden-stadjan-relief-v2",
     type: "mountain",
-    name: { de: "Städjan", hu: "Städjan", ro: "Städjan", en: "Städjan" },
+    name: { de: "Städjan", hu: "Städjan", ro: "Städjan", en: "Städjan",
+image: "/poi-images/sweden-stadjan-relief-v2.webp"
+},
     coords: [12.8258, 61.8953],
     coordinates: { lat: 61.8953, lng: 12.8258 },
     description: {
@@ -171,11 +293,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1131 metri", "Numele înseamnă „ilău”", "Parte a munților Idre", "Cel mai sudic munte din regiunea fjäll"],
       en: ["Height 1131 meters", "Name means 'anvil'", "Part of the Idre mountains", "Southernmost mountain of the Swedish fjälls"],
     },
-    imageHint: "Stadjan mountain conical peak Dalarna", image: "/poi-images/sweden-stadjan-relief-v2.webp"},
-  {
+imageHint: "Stadjan mountain conical peak Dalarna",
+    descriptionAdvanced: {
+      de: "Städjan ist bekannt für seine markante Kegelform und ist der südlichste Ausläufer des schwedischen Fjälls in der Provinz Dalarna.",
+      hu: "Städjan jellegzetes kúp alakjáról ismert, és a svédországi hegyvidék (fjäll) legdélebbi nyúlványa Dalarna tartományban.",
+      ro: "Städjan este cunoscut pentru forma sa conică distinctivă, fiind cel mai sudic punct al munților înalți (fjäll) din provincia Dalarna.",
+      en: "Städjan is known for its distinctive conical shape and serves as the southernmost outpost of the Swedish fells in Dalarna province.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1131 m", "Form: Vulkankegel-ähnlich", "Lage: Idre", "Südlichstes Fjäll"],
+      hu: ["Magasság: 1131 m", "Alak: Vulkáni kúphoz hasonló", "Helyszín: Idre", "Legdélebbi fjäll"],
+      ro: ["Altitudine: 1131 m", "Formă: Conică", "Locație: Idre", "Cel mai sudic fjäll"],
+      en: ["Elevation: 1131 m", "Shape: Conical", "Location: Idre", "Southernmost fell"],
+    },
+    image: "/poi-images/sweden-stadjan-relief-v2.webp",
+},  {
     id: "sweden-fulufjallet-relief-v2",
     type: "mountain",
-    name: { de: "Fulufjället", hu: "Fulufjället", ro: "Fulufjället", en: "Fulufjället" },
+    name: { de: "Fulufjället", hu: "Fulufjället", ro: "Fulufjället", en: "Fulufjället",
+image: "/poi-images/sweden-fulufjallet-relief-v2.webp"
+},
     coords: [12.7233, 61.5833],
     coordinates: { lat: 61.5833, lng: 12.7233 },
     description: {
@@ -190,11 +327,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime aprox. 1040 metri", "Găzduiește cel mai bătrân copac din lume", "Cascada Njupeskär (93m) se află aici", "Parc național din 2002"],
       en: ["Height approx. 1040 meters", "Home to the world's oldest tree", "Njupeskär waterfall (93m) is located here", "National park since 2002"],
     },
-    imageHint: "Fulufjallet plateau mountain landscape", image: "/poi-images/sweden-fulufjallet-relief-v2.webp"},
-  {
+imageHint: "Fulufjallet plateau mountain landscape",
+    descriptionAdvanced: {
+      de: "Fulufjället ist ein großes Sandsteinplateau, das einen Nationalpark beherbergt und für den höchsten Wasserfall Schwedens berühmt ist.",
+      hu: "A Fulufjället egy hatalmas homokkő fennsík, amely nemzeti parknak ad otthont, és Svédország legmagasabb vízeséséről híres.",
+      ro: "Fulufjället este un platou masiv de gresie care găzduiește un parc național, faimos pentru cea mai înaltă cascadă din Suedia.",
+      en: "Fulufjället is a large sandstone plateau hosting a national park, famous for being home to Sweden's highest waterfall.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1044 m", "Wasserfall: Njupeskär", "Ältester Baum: Old Tjikko", "NP gegründet: 2002"],
+      hu: ["Magasság: 1044 m", "Vízesés: Njupeskär", "Legidősebb fa: Old Tjikko", "NP alapítás: 2002"],
+      ro: ["Altitudine: 1044 m", "Cascadă: Njupeskär", "Cel mai bătrân arbore: Old Tjikko", "NP fondat: 2002"],
+      en: ["Elevation: 1044 m", "Waterfall: Njupeskär", "Oldest tree: Old Tjikko", "NP founded: 2002"],
+    },
+    image: "/poi-images/sweden-fulufjallet-relief-v2.webp",
+},  {
     id: "sweden-kinnekulle-relief-v2",
     type: "mountain",
-    name: { de: "Kinnekulle", hu: "Kinnekulle", ro: "Kinnekulle", en: "Kinnekulle" },
+    name: { de: "Kinnekulle", hu: "Kinnekulle", ro: "Kinnekulle", en: "Kinnekulle",
+image: "/poi-images/sweden-kinnekulle-relief-v2.webp"
+},
     coords: [13.4, 58.6],
     coordinates: { lat: 58.6, lng: 13.4 },
     description: {
@@ -209,11 +361,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 306 metri", "Format din gresie, calcar și diabaz", "Vedere panoramică asupra lacului Vänern", "Faimos pentru populațiile de leurdă"],
       en: ["Height 306 meters", "Consists of sandstone, limestone, and diabase", "View over Lake Vänern", "Famous for wild garlic fields"],
     },
-    imageHint: "Kinnekulle table mountain Vänern lake", image: "/poi-images/sweden-kinnekulle-relief-v2.webp"},
-  {
+imageHint: "Kinnekulle table mountain Vänern lake",
+    descriptionAdvanced: {
+      de: "Kinnekulle am Ufer des Vänersees ist ein klassischer Tafelberg, der durch seine vielfältigen Gesteinsschichten und reiche Flora besticht.",
+      hu: "A Vänern-tó partján fekvő Kinnekulle egy klasszikus táblahegy, amely változatos kőzetrétegeivel és gazdag növényvilágával emelkedik ki.",
+      ro: "Kinnekulle, pe malul lacului Vänern, este un munte tabular clasic, remarcabil prin straturile sale geologice variate și flora bogată.",
+      en: "Kinnekulle on the shores of Lake Vänern is a classic table mountain, notable for its diverse geological layers and rich flora.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 306 m", "See: Vänern", "Gestein: Kalkstein", "Blütenberg"],
+      hu: ["Magasság: 306 m", "Tó: Vänern", "Kőzet: Mészkő", "Virágos hegy"],
+      ro: ["Altitudine: 306 m", "Lac: Vänern", "Rocă: Calcar", "Muntele florilor"],
+      en: ["Elevation: 306 m", "Lake: Vänern", "Rock: Limestone", "Flowery mountain"],
+    },
+    image: "/poi-images/sweden-kinnekulle-relief-v2.webp",
+},  {
     id: "sweden-billingen-relief-v2",
     type: "mountain",
-    name: { de: "Billingen", hu: "Billingen", ro: "Billingen", en: "Billingen" },
+    name: { de: "Billingen", hu: "Billingen", ro: "Billingen", en: "Billingen",
+image: "/poi-images/sweden-billingen-relief-v2.webp"
+},
     coords: [13.78, 58.42],
     coordinates: { lat: 58.42, lng: 13.78 },
     description: {
@@ -228,11 +395,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 304 metri", "Cel mai mare munte tabular din regiune", "Format din roci sedimentare cu vârf de diabaz", "Orașul Skövde este situat la poalele sale"],
       en: ["Height 304 meters", "Largest table mountain in the region", "Consists of sedimentary rock with a diabase cap", "The city of Skövde lies at its foot"],
     },
-    imageHint: "Billingen table mountain forest Skovde", image: "/poi-images/sweden-billingen-relief-v2.webp"},
-  {
+imageHint: "Billingen table mountain forest Skovde",
+    descriptionAdvanced: {
+      de: "Billingen ist der größte der westgothischen Tafelberge und ein wichtiges Naherholungsgebiet mit einer charakteristischen Diabas-Kappe.",
+      hu: "Billingen a legnagyobb a västgötai táblahegyek közül, amely jellegzetes diabáz sapkájával fontos rekreációs terület Skövde mellett.",
+      ro: "Billingen este cel mai mare dintre munții tabulari din West Gothland, fiind o zonă importantă de recreere cu un strat de diabaz.",
+      en: "Billingen is the largest of the West Gothland table mountains and a significant recreational area with a characteristic diabase cap.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 304 m", "Ort: Skövde", "Gestein: Diabas", "Tafelberg-Plateau"],
+      hu: ["Magasság: 304 m", "Város: Skövde", "Kőzet: Diabáz", "Táblahegy-fennsík"],
+      ro: ["Altitudine: 304 m", "Oraș: Skövde", "Rocă: Diabaz", "Platou tabular"],
+      en: ["Elevation: 304 m", "Town: Skövde", "Rock: Diabase", "Table mountain plateau"],
+    },
+    image: "/poi-images/sweden-billingen-relief-v2.webp",
+},  {
     id: "sweden-omberg-relief-v2",
     type: "mountain",
-    name: { de: "Omberg", hu: "Omberg", ro: "Omberg", en: "Omberg" },
+    name: { de: "Omberg", hu: "Omberg", ro: "Omberg", en: "Omberg",
+image: "/poi-images/sweden-omberg-relief-v2.webp"
+},
     coords: [14.65, 58.33],
     coordinates: { lat: 58.33, lng: 14.65 },
     description: {
@@ -247,11 +429,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 263 metri", "Cea mai înaltă cotă de pe malul lacului Vättern", "Compus din granit și porfir", "Rezervație naturală importantă"],
       en: ["Height 263 meters", "Highest point along Lake Vättern", "Composed of granite and porphyry", "Important nature reserve"],
     },
-    imageHint: "Omberg mountain cliff Lake Vattern", image: "/poi-images/sweden-omberg-relief-v2.webp"},
-  {
+imageHint: "Omberg mountain cliff Lake Vattern",
+    descriptionAdvanced: {
+      de: "Omberg erhebt sich dramatisch über den Vätternsee und ist bekannt für seine steilen Klippen, alte Buchenwälder und archäologische Stätten.",
+      hu: "Az Omberg drámai módon emelkedik a Vättern-tó fölé, meredek szikláiról, ősi bükköseiről és régészeti lelőhelyeiről nevezetes.",
+      ro: "Omberg se înalță dramatic deasupra lacului Vättern, fiind cunoscut pentru falezele abrupte, pădurile vechi de fag și siturile arheologice.",
+      en: "Omberg rises dramatically above Lake Vättern, known for its steep cliffs, ancient beech forests, and significant archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 263 m", "See: Vättern", "Naturschutzgebiet", "Kloster Alvastra"],
+      hu: ["Magasság: 263 m", "Tó: Vättern", "Természetvédelmi terület", "Alvastra kolostor"],
+      ro: ["Altitudine: 263 m", "Lac: Vättern", "Rezervație naturală", "Mănăstirea Alvastra"],
+      en: ["Elevation: 263 m", "Lake: Vättern", "Nature reserve", "Alvastra Abbey"],
+    },
+    image: "/poi-images/sweden-omberg-relief-v2.webp",
+},  {
     id: "sweden-taberg-relief-v2",
     type: "mountain",
-    name: { de: "Taberg", hu: "Taberg", ro: "Taberg", en: "Taberg" },
+    name: { de: "Taberg", hu: "Taberg", ro: "Taberg", en: "Taberg",
+image: "/poi-images/sweden-taberg-relief-v2.webp"
+},
     coords: [14.085, 57.6744],
     coordinates: { lat: 57.6744, lng: 14.085 },
     description: {
@@ -266,11 +463,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 343 metri", "Format din titan-vanadiu-magnetit", "Descris de Carl von Linné", "Găzduiește specii rare de ferigi"],
       en: ["Height 343 meters", "Composed of titaniferous vanadium magnetite", "Described by Carl von Linné", "Home to rare fern species"],
     },
-    imageHint: "Taberg mountain peak near Jonkoping", image: "/poi-images/sweden-taberg-relief-v2.webp"},
-  {
+imageHint: "Taberg mountain peak near Jonkoping",
+    descriptionAdvanced: {
+      de: "Der Taberg bei Jönköping ist ein geologisches Unikat aus Titanomagnetit-Olivinit und wurde früher als Eisenmine genutzt.",
+      hu: "A Jönköping melletti Taberg egyedülálló geológiai képződmény titán-magnetitből, amelyet korábban vasércként bányásztak.",
+      ro: "Taberg, lângă Jönköping, este o raritate geologică formată din titanomagnetit-olivinit, fiind exploatat în trecut ca mină de fier.",
+      en: "Taberg near Jönköping is a geological rarity made of titaniferous magnetite-olivinite, historically exploited as an iron mine.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 343 m", "Gestein: Magnetit", "Spitzname: Himmelsspiegel", "Lage: Småland"],
+      hu: ["Magasság: 343 m", "Kőzet: Magnetit", "Becenév: Ég tükre", "Helyszín: Småland"],
+      ro: ["Altitudine: 343 m", "Rocă: Magnetit", "Poreclă: Oglinda cerului", "Locație: Småland"],
+      en: ["Elevation: 343 m", "Rock: Magnetite", "Nickname: Sky Mirror", "Location: Småland"],
+    },
+    image: "/poi-images/sweden-taberg-relief-v2.webp",
+},  {
     id: "sweden-skierfe-relief-v2",
     type: "peak",
-    name: { de: "Skierfe", hu: "Skierfe", ro: "Skierfe", en: "Skierfe" },
+    name: { de: "Skierfe", hu: "Skierfe", ro: "Skierfe", en: "Skierfe",
+image: "/poi-images/sweden-skierfe-relief-v2.webp"
+},
     coords: [18.25, 67.2],
     coordinates: { lat: 67.2, lng: 18.25 },
     description: {
@@ -285,11 +497,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1179 metri", "Vedere asupra deltei Rapadalen", "Loc sfânt pentru sami", "Perete stâncos abrupt (cădere de aprox. 700m)"],
       en: ["Height 1179 meters", "View of the Rapadalen delta", "Sacred site for the Sami", "Steep rock face (approx. 700m drop)"],
     },
-    imageHint: "Skierfe mountain cliff view Rapadalen delta", image: "/poi-images/sweden-skierfe-relief-v2.webp"},
-  {
+imageHint: "Skierfe mountain cliff view Rapadalen delta",
+    descriptionAdvanced: {
+      de: "Der Skierfe bietet eine der spektakulärsten Aussichten Schwedens über das Rapadalen-Delta im Sarek-Nationalpark von einer fast senkrechten Felswand.",
+      hu: "A Skierfe Svédország egyik leglátványosabb kilátását nyújtja a Sarek Nemzeti Park Rapadalen-deltájára egy szinte függőleges sziklafalról.",
+      ro: "Skierfe oferă una dintre cele mai spectaculoase priveliști din Suedia asupra deltei Rapadalen din Parcul Național Sarek, de pe un perete vertical.",
+      en: "Skierfe offers one of Sweden's most spectacular views over the Rapadalen delta in Sarek National Park from a nearly vertical cliff face.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1179 m", "Blick: Rapadalen", "Nationalpark Sarek", "Lappland"],
+      hu: ["Magasság: 1179 m", "Kilátás: Rapadalen", "Sarek Nemzeti Park", "Lappföld"],
+      ro: ["Altitudine: 1179 m", "Vedere: Rapadalen", "Parcul Național Sarek", "Laponia"],
+      en: ["Elevation: 1179 m", "View: Rapadalen", "Sarek National Park", "Lapland"],
+    },
+    image: "/poi-images/sweden-skierfe-relief-v2.webp",
+},  {
     id: "sweden-kullaberg-relief-v2",
     type: "mountain",
-    name: { de: "Kullaberg", hu: "Kullaberg", ro: "Kullaberg", en: "Kullaberg" },
+    name: { de: "Kullaberg", hu: "Kullaberg", ro: "Kullaberg", en: "Kullaberg",
+image: "/poi-images/sweden-kullaberg-relief-v2.webp"
+},
     coords: [12.47, 56.3],
     coordinates: { lat: 56.3, lng: 12.47 },
     description: {
@@ -304,11 +531,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 188 metri", "Compus din gnais", "Numeroase peșteri marine pe coastă", "Locația farului Kullen"],
       en: ["Height 188 meters", "Composed of gneiss", "Numerous sea caves along the coast", "Location of the Kullen lighthouse"],
     },
-    imageHint: "Kullaberg rocky cliffs and sea", image: "/poi-images/sweden-kullaberg-relief-v2.webp"},
-  {
+imageHint: "Kullaberg rocky cliffs and sea",
+    descriptionAdvanced: {
+      de: "Kullaberg in Schonen ist ein dramatischer Küstenrücken mit steilen Klippen, Höhlen und einer einzigartigen marinen Flora und Fauna.",
+      hu: "A skånei Kullaberg egy drámai tengerparti gerinc meredek sziklákkal, barlangokkal és egyedülálló tengeri növény- és állatvilággal.",
+      ro: "Kullaberg în Scania este o creastă costieră dramatică, cu faleze abrupte, peșteri și o floră și faună marină unice.",
+      en: "Kullaberg in Skåne is a dramatic coastal ridge with steep cliffs, caves, and a unique marine flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 188 m", "Lage: Schonen", "Naturschutzgebiet", "Bekannte Höhlen"],
+      hu: ["Magasság: 188 m", "Helyszín: Skåne", "Természetvédelmi terület", "Híres barlangok"],
+      ro: ["Altitudine: 188 m", "Locație: Scania", "Rezervație naturală", "Peșteri celebre"],
+      en: ["Elevation: 188 m", "Location: Skåne", "Nature reserve", "Famous caves"],
+    },
+    image: "/poi-images/sweden-kullaberg-relief-v2.webp",
+},  {
     id: "sweden-soderasen-relief-v2",
     type: "mountain",
-    name: { de: "Söderåsen", hu: "Söderåsen", ro: "Söderåsen", en: "Söderåsen" },
+    name: { de: "Söderåsen", hu: "Söderåsen", ro: "Söderåsen", en: "Söderåsen",
+image: "/poi-images/sweden-soderasen-relief-v2.webp"
+},
     coords: [13.25, 56.03],
     coordinates: { lat: 56.03, lng: 13.25 },
     description: {
@@ -323,11 +565,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 212 metri (Kopparhatten)", "Parc național din 2001", "Cea mai mare pădure de foioase din Europa de Nord", "Canion spectaculos la Odensjön"],
       en: ["Height 212 meters (Kopparhatten)", "National park since 2001", "North Europe's largest contiguous deciduous forest", "Spectacular Odensjön gorge"],
     },
-    imageHint: "Soderasen national park valley forest", image: "/poi-images/sweden-soderasen-relief-v2.webp"},
-  {
+imageHint: "Soderasen national park valley forest",
+    descriptionAdvanced: {
+      de: "Söderåsen ist ein Nationalpark in Südschweden, der durch seine tiefen Schluchten und Laubwälder auf einem markanten Horstrücken besticht.",
+      hu: "Söderåsen egy dél-svédországi nemzeti park, amely mély szurdokaival és lombhullató erdőivel emelkedik ki egy jellegzetes röghegységen.",
+      ro: "Söderåsen este un parc național din sudul Suediei, remarcabil prin văile sale adânci și pădurile de foioase pe o creastă de tip horst.",
+      en: "Söderåsen is a national park in southern Sweden, notable for its deep canyons and deciduous forests on a prominent horst ridge.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 212 m", "NP gegründet: 2001", "Ort: Kopparhatten", "Lage: Schonen"],
+      hu: ["Magasság: 212 m", "NP alapítás: 2001", "Hely: Kopparhatten", "Helyszín: Skåne"],
+      ro: ["Altitudine: 212 m", "NP fondat: 2001", "Punct: Kopparhatten", "Locație: Scania"],
+      en: ["Elevation: 212 m", "NP founded: 2001", "Point: Kopparhatten", "Location: Skåne"],
+    },
+    image: "/poi-images/sweden-soderasen-relief-v2.webp",
+},  {
     id: "sweden-hovs-hallar-relief-v2",
     type: "landmark",
-    name: { de: "Hovs Hallar", hu: "Hovs Hallar", ro: "Hovs Hallar", en: "Hovs Hallar" },
+    name: { de: "Hovs Hallar", hu: "Hovs Hallar", ro: "Hovs Hallar", en: "Hovs Hallar",
+image: "/poi-images/sweden-hovs-hallar-relief-v2.webp"
+},
     coords: [12.7, 56.45],
     coordinates: { lat: 56.45, lng: 12.7 },
     description: {
@@ -342,11 +599,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime de până la 30 metri", "Format din gnais roșu", "Loc de filmare pentru „A șaptea pecete”", "Parte a horstului Hallandsåsen"],
       en: ["Height up to 30 meters", "Composed of red gneiss", "Filming location for 'The Seventh Seal'", "Part of the Hallandsåsen horst"],
     },
-    imageHint: "Hovs Hallar rocky coast cliffs", image: "/poi-images/sweden-hovs-hallar-relief-v2.webp"},
-  {
+imageHint: "Hovs Hallar rocky coast cliffs",
+    descriptionAdvanced: {
+      de: "Hovs Hallar ist ein rauer Küstenabschnitt mit dramatischen Gneisformationen, der als Drehort für Ingmar Bergmanns 'Das siebente Siegel' Weltruhm erlangte.",
+      hu: "Hovs Hallar egy vad tengerparti szakasz drámai gneisz képződményekkel, amely Ingmar Bergman 'A hetedik pecsét' című filmje révén vált világhírűvé.",
+      ro: "Hovs Hallar este o secțiune de coastă aspră cu formațiuni de gnais, celebră ca loc de filmare pentru 'A șaptea pecete' a lui Ingmar Bergman.",
+      en: "Hovs Hallar is a rugged coastal area with dramatic gneiss formations, internationally famous as a filming location for Ingmar Bergman's films.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Båstad", "Gestein: Gneis", "Küste: Kattegat", "Naturschutzgebiet"],
+      hu: ["Helyszín: Båstad", "Kőzet: Gneisz", "Part: Kattegat", "Természetvédelmi terület"],
+      ro: ["Locație: Båstad", "Rocă: Gnais", "Țărm: Kattegat", "Rezervație naturală"],
+      en: ["Location: Båstad", "Rock: Gneiss", "Coast: Kattegat", "Nature reserve"],
+    },
+    image: "/poi-images/sweden-hovs-hallar-relief-v2.webp",
+},  {
     id: "sweden-slattdalsberget-relief-v2",
     type: "mountain",
-    name: { de: "Slåttdalsberget", hu: "Slåttdalsberget", ro: "Slåttdalsberget", en: "Slåttdalsberget" },
+    name: { de: "Slåttdalsberget", hu: "Slåttdalsberget", ro: "Slåttdalsberget", en: "Slåttdalsberget",
+image: "/poi-images/sweden-slattdalsberget-relief-v2.webp"
+},
     coords: [18.33, 63.07],
     coordinates: { lat: 63.07, lng: 18.33 },
     description: {
@@ -361,11 +633,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 280 metri", "Situat în Parcul Național Skuleskogen", "Faimoasă crăpătură stâncoasă de 200m lungime", "Parte a Patrimoniului UNESCO Coasta Înaltă"],
       en: ["Height 280 meters", "Located in Skuleskogen National Park", "Famous 200m long rock crevice", "Part of the High Coast UNESCO site"],
     },
-    imageHint: "Slattdalsberget mountain and rock crevice", image: "/poi-images/sweden-slattdalsberget-relief-v2.webp"},
-  {
+imageHint: "Slattdalsberget mountain and rock crevice",
+    descriptionAdvanced: {
+      de: "Der Slåttdalsberget an der Hohen Küste ist berühmt für die Slåttdalsskrevan, eine tiefe Felsspalte, die den Berg markant teilt.",
+      hu: "A Magas-parton található Slåttdalsberget a Slåttdalsskrevan nevű mély sziklahasadékról híres, amely látványosan kettévágja a hegyet.",
+      ro: "Slåttdalsberget de pe Coasta Înaltă este faimos pentru Slåttdalsskrevan, o crepătură adâncă în stâncă ce divide muntele în mod spectaculos.",
+      en: "Slåttdalsberget on the High Coast is famous for Slåttdalsskrevan, a deep rock crevice that strikingly divides the mountain.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 214 m", "Spalte: 200 m lang", "UNESCO-Weltkulturerbe", "Skuleskogen NP"],
+      hu: ["Magasság: 214 m", "Hasadék: 200 m hosszú", "UNESCO Világörökség", "Skuleskogen NP"],
+      ro: ["Altitudine: 214 m", "Crepătură: 200 m lungime", "Patrimoniu UNESCO", "NP Skuleskogen"],
+      en: ["Elevation: 214 m", "Crevice: 200 m long", "UNESCO World Heritage", "Skuleskogen NP"],
+    },
+    image: "/poi-images/sweden-slattdalsberget-relief-v2.webp",
+},  {
     id: "sweden-luossavaara-relief-v2",
     type: "mountain",
-    name: { de: "Luossavaara", hu: "Luossavaara", ro: "Luossavaara", en: "Luossavaara" },
+    name: { de: "Luossavaara", hu: "Luossavaara", ro: "Luossavaara", en: "Luossavaara",
+image: "/poi-images/sweden-luossavaara-relief-v2.webp"
+},
     coords: [20.19, 67.87],
     coordinates: { lat: 67.87, lng: 20.19 },
     description: {
@@ -380,11 +667,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 724 metri", "Vedere spre masivul Kebnekaise", "Fostă zonă de mină de suprafață", "Destinație populară pentru schiori"],
       en: ["Height 724 meters", "View of the Kebnekaise massif", "Former open-pit mining area", "Popular destination for skiers"],
     },
-    imageHint: "Luossavaara mountain Kiruna", image: "/poi-images/sweden-luossavaara-relief-v2.webp"},
-  {
+imageHint: "Luossavaara mountain Kiruna",
+    descriptionAdvanced: {
+      de: "Luossavaara in Kiruna ist ein ehemaliger Eisenerzberg, der heute als Naherholungsgebiet mit Skipiste und Wanderwegen genutzt wird.",
+      hu: "A kirunai Luossavaara egy egykori vasércbánya-hegy, amely ma sípályával és túraútvonalakkal várja a kikapcsolódni vágyókat.",
+      ro: "Luossavaara din Kiruna este un fost munte de minereu de fier, transformat astăzi în zonă de recreere cu pârtie de schi și trasee.",
+      en: "Luossavaara in Kiruna is a former iron ore mountain that now serves as a recreational area featuring a ski slope and hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 724 m", "Ort: Kiruna", "Ehemalige Mine", "Blick auf Kirunavaara"],
+      hu: ["Magasság: 724 m", "Város: Kiruna", "Egykori bánya", "Kilátás a Kirunavaarára"],
+      ro: ["Altitudine: 724 m", "Oraș: Kiruna", "Fostă mină", "Vedere spre Kirunavaara"],
+      en: ["Elevation: 724 m", "Town: Kiruna", "Former mine", "View of Kirunavaara"],
+    },
+    image: "/poi-images/sweden-luossavaara-relief-v2.webp",
+},  {
     id: "sweden-kirunavaara-relief-v2",
     type: "mountain",
-    name: { de: "Kirunavaara", hu: "Kirunavaara", ro: "Kirunavaara", en: "Kirunavaara" },
+    name: { de: "Kirunavaara", hu: "Kirunavaara", ro: "Kirunavaara", en: "Kirunavaara",
+image: "/poi-images/sweden-kirunavaara-relief-v2.webp"
+},
     coords: [20.18, 67.84],
     coordinates: { lat: 67.84, lng: 20.18 },
     description: {
@@ -399,11 +701,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 749 metri", "Cel mai mare zăcământ de magnetit", "Exploatare la peste 1300m adâncime", "Cauzează deformări ale solului"],
       en: ["Height 749 meters", "Largest magnetite iron ore deposit", "Mining occurs at over 1300m depth", "Causes ground deformation"],
     },
-    imageHint: "Kirunavaara iron ore mine mountain", image: "/poi-images/sweden-kirunavaara-relief-v2.webp"},
-  {
+imageHint: "Kirunavaara iron ore mine mountain",
+    descriptionAdvanced: {
+      de: "Kirunavaara beherbergt das größte unterirdische Eisenerzbergwerk der Welt, dessen Abbau die schrittweise Verlegung der Stadt Kiruna erforderlich macht.",
+      hu: "A Kirunavaara ad otthont a világ legnagyobb földalatti vasércbányájának, amelynek kitermelése miatt Kiruna városát fokozatosan át kell helyezni.",
+      ro: "Kirunavaara găzduiește cea mai mare mină subterană de fier din lume, a cărei exploatare necesită mutarea treptată a orașului Kiruna.",
+      en: "Kirunavaara hosts the world's largest underground iron ore mine, whose extraction requires the gradual relocation of the town of Kiruna.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 749 m", "Größte Eisenerzmine", "Betreiber: LKAB", "Stadtsiedlung verlegt"],
+      hu: ["Magasság: 749 m", "Legnagyobb vasércbánya", "Üzemeltető: LKAB", "Városáthelyezés"],
+      ro: ["Altitudine: 749 m", "Cea mai mare mină de fier", "Operator: LKAB", "Oraș relocat"],
+      en: ["Elevation: 749 m", "Largest iron ore mine", "Operator: LKAB", "Town relocation"],
+    },
+    image: "/poi-images/sweden-kirunavaara-relief-v2.webp",
+},  {
     id: "sweden-pieljekaise-relief-v2",
     type: "mountain",
-    name: { de: "Pieljekaise", hu: "Pieljekaise", ro: "Pieljekaise", en: "Pieljekaise" },
+    name: { de: "Pieljekaise", hu: "Pieljekaise", ro: "Pieljekaise", en: "Pieljekaise",
+image: "/poi-images/sweden-pieljekaise-relief-v2.webp"
+},
     coords: [18.56, 66.34],
     coordinates: { lat: 66.34, lng: 18.56 },
     description: {
@@ -418,11 +735,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1138 metri", "Parc național din 1909", "Numele se referă la forma vârfurilor", "Parte a rutei de drumeție Kungsleden"],
       en: ["Height 1138 meters", "National park since 1909", "Name refers to the shape of the peaks", "Part of the Kungsleden hiking trail"],
     },
-    imageHint: "Pieljekaise mountain summit Lapland", image: "/poi-images/sweden-pieljekaise-relief-v2.webp"},
-  {
+imageHint: "Pieljekaise mountain summit Lapland",
+    descriptionAdvanced: {
+      de: "Pieljekaise ist ein Nationalpark in Lappland, der vor allem für seine unberührten Birkenwälder und den gleichnamigen, weithin sichtbaren Berg bekannt ist.",
+      hu: "Pieljekaise egy lappföldi nemzeti park, amely elsősorban érintetlen nyírerdeiről és az azonos nevű, messziről látható hegyéről ismert.",
+      ro: "Pieljekaise este un parc național în Laponia, cunoscut pentru pădurile sale virgine de mesteacăn și muntele omonim vizibil de departe.",
+      en: "Pieljekaise is a national park in Lapland, primarily known for its pristine birch forests and the namesake, widely visible mountain.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1138 m", "NP gegründet: 1909", "Lage: Arjeplog", "Birken-Urwald"],
+      hu: ["Magasság: 1138 m", "NP alapítás: 1909", "Helyszín: Arjeplog", "Nyírfa-őserdő"],
+      ro: ["Altitudine: 1138 m", "NP fondat: 1909", "Locație: Arjeplog", "Codru de mesteacăn"],
+      en: ["Elevation: 1138 m", "NP founded: 1909", "Location: Arjeplog", "Virgin birch forest"],
+    },
+    image: "/poi-images/sweden-pieljekaise-relief-v2.webp",
+},  {
     id: "sweden-sonfjallet-relief-v2",
     type: "mountain",
-    name: { de: "Sonfjället", hu: "Sonfjället", ro: "Sonfjället", en: "Sonfjället" },
+    name: { de: "Sonfjället", hu: "Sonfjället", ro: "Sonfjället", en: "Sonfjället",
+image: "/poi-images/sweden-sonfjallet-relief-v2.webp"
+},
     coords: [13.53, 62.33],
     coordinates: { lat: 62.33, lng: 13.53 },
     description: {
@@ -437,11 +769,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1278 metri", "Unul dintre cele mai vechi parcuri naționale din Europa", "Cunoscut pentru populația mare de urși bruni", "Format din cuarțit dur"],
       en: ["Height 1278 meters", "One of the oldest national parks in Europe", "Known for a large brown bear population", "Composed of hard quartzite"],
     },
-    imageHint: "Sonfjallet mountain silhouette", image: "/poi-images/sweden-sonfjallet-relief-v2.webp"},
-  {
+imageHint: "Sonfjallet mountain silhouette",
+    descriptionAdvanced: {
+      de: "Sonfjället in Härjedalen ist ein markantes Bergmassiv und einer der ältesten Nationalparks Europas, berühmt als wichtiges Bärenrevier.",
+      hu: "A härjedaleni Sonfjället egy jellegzetes hegytömb és Európa egyik legrégebbi nemzeti parkja, amely híres medve-élőhelyként ismert.",
+      ro: "Sonfjället din Härjedalen este un masiv muntos proeminent și unul dintre cele mai vechi parcuri naționale din Europa, faimos ca habitat al urșilor.",
+      en: "Sonfjället in Härjedalen is a prominent mountain massif and one of Europe's oldest national parks, famous as a key brown bear habitat.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1278 m", "NP gegründet: 1909", "Region: Härjedalen", "Bärenschutzgebiet"],
+      hu: ["Magasság: 1278 m", "NP alapítás: 1909", "Régió: Härjedalen", "Medve-rezervátum"],
+      ro: ["Altitudine: 1278 m", "NP fondat: 1909", "Regiune: Härjedalen", "Habitat pentru urși"],
+      en: ["Elevation: 1278 m", "NP founded: 1909", "Region: Härjedalen", "Bear habitat"],
+    },
+    image: "/poi-images/sweden-sonfjallet-relief-v2.webp",
+},  {
     id: "sweden-hovarken-relief-v2",
     type: "mountain",
-    name: { de: "Hovärken", hu: "Hovärken", ro: "Hovärken", en: "Hovärken" },
+    name: { de: "Hovärken", hu: "Hovärken", ro: "Hovärken", en: "Hovärken",
+image: "/poi-images/sweden-hovarken-relief-v2.webp"
+},
     coords: [13.23, 62.15],
     coordinates: { lat: 62.15, lng: 13.23 },
     description: {
@@ -456,11 +803,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1125 metri", "Se pot vedea peste 200 de vârfuri muntoase", "Centrul zonei de schi Lofsdalen", "Cunoscut pentru cabana sa panoramică"],
       en: ["Height 1125 meters", "View of over 200 mountain peaks possible", "Center of the Lofsdalen ski area", "Known for its panoramic hut"],
     },
-    imageHint: "Hovarken mountain Lofsdalen view", image: "/poi-images/sweden-hovarken-relief-v2.webp"},
-  {
+imageHint: "Hovarken mountain Lofsdalen view",
+    descriptionAdvanced: {
+      de: "Der Hovärken bei Lofsdalen bietet ein weites Panorama über das Härjedaler Fjäll und ist ein beliebtes Ziel für Wanderer und Skifahrer.",
+      hu: "A Lofsdalen melletti Hovärken pazar panorámát kínál a härjedaleni hegyvidékre, és a túrázók, valamint a síelők kedvelt célpontja.",
+      ro: "Hovärken, lângă Lofsdalen, oferă o panoramă vastă asupra munților Härjedalen și este o destinație populară pentru drumeții și schi.",
+      en: "Hovärken near Lofsdalen offers a broad panorama over the Härjedalen fells and is a popular destination for hikers and skiers alike.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1105 m", "Ort: Lofsdalen", "Panoramablick", "Härjedalen"],
+      hu: ["Magasság: 1105 m", "Város: Lofsdalen", "Panoráma", "Härjedalen"],
+      ro: ["Altitudine: 1105 m", "Oraș: Lofsdalen", "Vedere panoramică", "Härjedalen"],
+      en: ["Elevation: 1105 m", "Town: Lofsdalen", "Panoramic view", "Härjedalen"],
+    },
+    image: "/poi-images/sweden-hovarken-relief-v2.webp",
+},  {
     id: "sweden-kaskasatjakka-relief-v2",
     type: "peak",
-    name: { de: "Kaskasatjåkka", hu: "Kaskasatjåkka", ro: "Kaskasatjåkka", en: "Kaskasatjåkka" },
+    name: { de: "Kaskasatjåkka", hu: "Kaskasatjåkka", ro: "Kaskasatjåkka", en: "Kaskasatjåkka",
+image: "/poi-images/sweden-kaskasatjakka-relief-v2.webp"
+},
     coords: [18.58, 67.94],
     coordinates: { lat: 67.94, lng: 18.58 },
     description: {
@@ -475,11 +837,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2076 metri", "Al patrulea cel mai înalt munte din Suedia", "Destinație provocatoare pentru alpiniști", "Vedere asupra văii Tarfala"],
       en: ["Height 2076 meters", "Fourth highest mountain in Sweden", "Challenging destination for climbers", "View of the Tarfala valley"],
     },
-    imageHint: "Kaskasatjakka rocky mountain peak", image: "/poi-images/sweden-kaskasatjakka-relief-v2.webp"},
-  {
+imageHint: "Kaskasatjakka rocky mountain peak",
+    descriptionAdvanced: {
+      de: "Der Kaskasatjåkka ist ein hoher, alpiner Gipfel nördlich der Tarfala-Hütte, bekannt für seine beeindruckenden Gletscherflanken und steilen Grate.",
+      hu: "A Kaskasatjåkka egy magas, alpesi csúcs a Tarfala-menedékháztól északra, amely lenyűgöző gleccseroldalairól és meredek gerinceiről ismert.",
+      ro: "Kaskasatjåkka este un vârf alpin înalt la nord de cabana Tarfala, cunoscut pentru flancurile sale glaciare impresionante și crestele abrupte.",
+      en: "Kaskasatjåkka is a high, alpine peak north of the Tarfala hut, known for its impressive glacial flanks and steep ridges.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2076 m", "Lage: Nördlich Kebnekaise", "Alpines Gelände", "Gletschernähe"],
+      hu: ["Magasság: 2076 m", "Hely: Kebnekaisétól északra", "Alpesi terep", "Gleccserközeliség"],
+      ro: ["Altitudine: 2076 m", "Locație: Nord de Kebnekaise", "Teren alpin", "Lângă ghețari"],
+      en: ["Elevation: 2076 m", "Location: North of Kebnekaise", "Alpine terrain", "Near glaciers"],
+    },
+    image: "/poi-images/sweden-kaskasatjakka-relief-v2.webp",
+},  {
     id: "sweden-nallo-relief-v2",
     type: "peak",
-    name: { de: "Nallo", hu: "Nallo", ro: "Nallo", en: "Nallo" },
+    name: { de: "Nallo", hu: "Nallo", ro: "Nallo", en: "Nallo",
+image: "/poi-images/sweden-nallo-relief-v2.webp"
+},
     coords: [18.396, 68.016],
     coordinates: { lat: 68.016, lng: 18.396 },
     description: {
@@ -494,11 +871,26 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1585 metri", "Siluetă ascuțită foarte distinctă", "Popular printre alpiniști", "Situat în valea Stuor Reaiddávággi"],
       en: ["Height 1585 meters", "Very prominent, pointed silhouette", "Popular among climbers", "Located in the Stuor Reaiddávággi valley"],
     },
-    imageHint: "Nallo mountain peak Needle Lapland", image: "/poi-images/sweden-nallo-relief-v2.webp"},
-  {
+imageHint: "Nallo mountain peak Needle Lapland",
+    descriptionAdvanced: {
+      de: "Der Nallo ist ein markanter, nadelartiger Gipfel im Vistas-Tal, der durch seine steile pyramidale Form eines der bekanntesten Fotomotive Lapplands ist.",
+      hu: "A Nallo egy jellegzetes, tűszerű csúcs a Vistas-völgyben, amely meredek piramis alakjával Lappföld egyik legismertebb fotótémája.",
+      ro: "Nallo este un vârf proeminent sub formă de ac în valea Vistas, faimos în Laponia pentru forma sa piramidală abruptă și spectaculoasă.",
+      en: "Nallo is a striking, needle-like peak in the Vistas valley, famous in Lapland for its steep pyramidal shape and photographic appeal.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1585 m", "Tal: Vistasvagge", "Form: Pyramidal", "Lappland"],
+      hu: ["Magasság: 1585 m", "Völgy: Vistasvagge", "Alak: Piramis", "Lappföld"],
+      ro: ["Altitudine: 1585 m", "Vale: Vistasvagge", "Formă: Piramidală", "Laponia"],
+      en: ["Elevation: 1585 m", "Valley: Vistasvagge", "Shape: Pyramidal", "Lapland"],
+    },
+    image: "/poi-images/sweden-nallo-relief-v2.webp",
+},  {
     id: "sweden-tjamuhas-relief-v2",
     type: "mountain",
-    name: { de: "Tjåmuhas", hu: "Tjåmuhas", ro: "Tjåmuhas", en: "Tjåmuhas" },
+    name: { de: "Tjåmuhas", hu: "Tjåmuhas", ro: "Tjåmuhas", en: "Tjåmuhas",
+image: "/poi-images/sweden-tjamuhas-relief-v2.webp"
+},
     coords: [18.67, 68.2],
     coordinates: { lat: 68.2, lng: 18.67 },
     description: {
@@ -514,11 +906,25 @@ export const swedenReliefV2: POI[] = [
       en: ["Height 1743 meters", "View of Lapporten and Torneträsk", "Popular destination for ski touring", "Composed of quartzite and mica schist"],
     },
     imageHint: "Tjamuhas mountain near Abisko",
+    descriptionAdvanced: {
+      de: "Der Tjåmuhas ist ein runderer Berg in der Nähe von Abisko, der oft für Wintertouren genutzt wird und weite Ausblicke auf das Kårsavagge-Tal bietet.",
+      hu: "A Tjåmuhas egy lekerekítettebb hegy Abisko közelében, amelyet gyakran választanak téli túrákhoz a Kårsavagge-völgyre nyíló kilátás miatt.",
+      ro: "Tjåmuhas este un munte mai rotunjit lângă Abisko, popular pentru tururile de iarnă, oferind panorame asupra văii Kårsavagge.",
+      en: "Tjåmuhas is a rounder mountain near Abisko, frequently visited during winter tours and offering broad views of the Kårsavagge valley.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1745 m", "Lage: Nahe Abisko", "Beliebt für Skitouren", "Lappland"],
+      hu: ["Magasság: 1745 m", "Hely: Abisko közelében", "Sítúrák kedvelt helye", "Lappföld"],
+      ro: ["Altitudine: 1745 m", "Locație: Lângă Abisko", "Popular pentru schi", "Laponia"],
+      en: ["Elevation: 1745 m", "Location: Near Abisko", "Ski touring spot", "Lapland"],
+    },
   },
   {
     id: "sweden-getryggen-relief-v2",
     type: "mountain",
-    name: { de: "Getryggen", hu: "Getryggen", ro: "Getryggen", en: "Getryggen" },
+    name: { de: "Getryggen", hu: "Getryggen", ro: "Getryggen", en: "Getryggen",
+image: "/poi-images/sweden-getryggen-relief-v2.webp"
+},
     coords: [12.35, 63.22],
     coordinates: { lat: 63.22, lng: 12.35 },
     description: {
@@ -534,5 +940,17 @@ export const swedenReliefV2: POI[] = [
       en: ["Height 1382 meters", "Name means 'Goat's Back'", "Well-known ski touring area", "Easily accessible from the Storulvån hut"],
     },
     imageHint: "Getryggen mountain ridge Storulvan",
+    descriptionAdvanced: {
+      de: "Der Getryggen ist ein leicht zugänglicher Berg bei Storulvån in Jämtland, der als einer der besten Orte für klassisches Skitourengehen in Schweden gilt.",
+      hu: "A Getryggen egy könnyen elérhető hegy Jämtlandban, Storulvån közelében, amely Svédország egyik legjobb klasszikus sítúra-helyszíne.",
+      ro: "Getryggen este un munte ușor accesibil lângă Storulvån în Jämtland, considerat unul dintre cele mai bune locuri de schi de tura din Suedia.",
+      en: "Getryggen is an easily accessible mountain near Storulvån in Jämtland, regarded as one of Sweden's premier locations for classic ski touring.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1382 m", "Lage: Jämtland", "Start: Storulvån", "Skitouren-Klassiker"],
+      hu: ["Magasság: 1382 m", "Helyszín: Jämtland", "Indulás: Storulvån", "Sítúra klasszikus"],
+      ro: ["Altitudine: 1382 m", "Locație: Jämtland", "Punct: Storulvån", "Clasic pentru schi"],
+      en: ["Elevation: 1382 m", "Location: Jämtland", "Start: Storulvån", "Ski touring classic"],
+    },
   }
 ];

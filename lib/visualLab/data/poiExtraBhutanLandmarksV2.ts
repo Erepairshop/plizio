@@ -6,7 +6,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-15",
     coords: [89.6465, 27.4415],
-    name: { de: "Buddha Dordenma", hu: "Buddha Dordenma", ro: "Buddha Dordenma", en: "Buddha Dordenma" },
+    name: { de: "Buddha Dordenma", hu: "Buddha Dordenma", ro: "Buddha Dordenma", en: "Buddha Dordenma",
+image: "/poi-images/buddha-dordenma-landmarks-v2.webp"
+},
     description: {
       de: "Eine gigantische Buddha-Statue, die über Thimphu thront. Sie beherbergt im Inneren 125.000 kleinere Buddha-Statuen und strahlt Frieden aus.",
       hu: "Thimphu fölé magasodó gigantikus Buddha-szobor. Belsejében 125 000 kisebb Buddha-szobrot őriz, és békét sugároz.",
@@ -28,7 +30,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-11",
     coords: [89.3633, 27.4919],
-    name: { de: "Taktsang-Kloster", hu: "Taktsang kolostor", ro: "Mănăstirea Taktsang", en: "Taktsang Monastery" },
+    name: { de: "Taktsang-Kloster", hu: "Taktsang kolostor", ro: "Mănăstirea Taktsang", en: "Taktsang Monastery",
+image: "/poi-images/taktsang-palphug-landmarks-v2.webp"
+},
     description: {
       de: "Das als Tigernest bekannte Kloster klammert sich an eine steile Klippe über dem Paro-Tal. Es ist das ikonischste Wahrzeichen und heiligste Stätte Bhutans.",
       hu: "A Tigrisfészekként ismert kolostor egy meredek sziklafalba kapaszkodik a Paro-völgy felett. Bhután legikonikusabb nevezetessége és legszentebb helye.",
@@ -49,7 +53,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-15",
     coords: [89.7497, 27.4833],
-    name: { de: "Dochula-Pass", hu: "Dochula-hágó", ro: "Pasul Dochula", en: "Dochula Pass" },
+    name: { de: "Dochula-Pass", hu: "Dochula-hágó", ro: "Pasul Dochula", en: "Dochula Pass",
+image: "/poi-images/dochula-pass-landmarks-v2.webp"
+},
     description: {
       de: "Ein malerischer Gebirgspass mit 108 Gedenk-Chortens. Bei klarem Wetter bietet er einen atemberaubenden Blick auf den schneebedeckten Himalaya.",
       hu: "Festői hegyi hágó 108 emlék-chortennel. Tiszta időben lélegzetelállító kilátást nyújt a hóval borított Himalájára.",
@@ -70,7 +76,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-11",
     coords: [89.3167, 27.3667],
-    name: { de: "Chele-La-Pass", hu: "Chele La-hágó", ro: "Pasul Chele La", en: "Chele La Pass" },
+    name: { de: "Chele-La-Pass", hu: "Chele La-hágó", ro: "Pasul Chele La", en: "Chele La Pass",
+image: "/poi-images/chele-la-pass-landmarks-v2.webp"
+},
     description: {
       de: "Der höchste befahrbare Pass in Bhutan. Er ist berühmt für seine wehenden Gebetsfahnen und bietet spektakuläre Ausblicke auf das Paro- und Haa-Tal.",
       hu: "Bhután legmagasabb autózható hágója. Híres lobogó imazászlóiról, és lenyűgöző kilátást nyújt a Paro- és a Haa-völgyre.",
@@ -91,7 +99,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-15",
     coords: [89.6385, 27.5750],
-    name: { de: "Tango-Kloster", hu: "Tango kolostor", ro: "Mănăstirea Tango", en: "Tango Monastery" },
+    name: { de: "Tango-Kloster", hu: "Tango kolostor", ro: "Mănăstirea Tango", en: "Tango Monastery",
+image: "/poi-images/tango-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Ein hoch gelegenes buddhistisches Zentrum, das im 15. Jahrhundert gegründet wurde. Es dient heute als wichtige Hochschule für buddhistische Studien.",
       hu: "A Tango kolostor egy 13. században alapított buddhista oktatási központ, amely Thimphu völgyének egyik domboldalán helyezkedik el. A kolostor híres a buddhista tanulmányokról és a mély spirituális légköréről.",
@@ -112,7 +122,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-15",
     coords: [89.6358, 27.5855],
-    name: { de: "Cheri-Kloster", hu: "Cheri kolostor", ro: "Mănăstirea Cheri", en: "Cheri Monastery" },
+    name: { de: "Cheri-Kloster", hu: "Cheri kolostor", ro: "Mănăstirea Cheri", en: "Cheri Monastery",
+image: "/poi-images/cheri-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Das erste Kloster in Bhutan, das 1620 erbaut wurde. Es ist ein wichtiger Meditationsort und wird oft von Mönchen für lange Rückzüge genutzt.",
       hu: "Bhután első kolostora, amelyet 1620-ban építettek. Fontos meditációs hely, a szerzetesek gyakran használják hosszú elvonulásokra.",
@@ -133,7 +145,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-23",
     coords: [89.8488, 27.5516],
-    name: { de: "Sangchhen-Dorji-Lhuendrup-Nonnenkloster", hu: "Sangchhen Dorji Lhuendrup apácakolostor", ro: "Mănăstirea de maici Sangchhen Dorji Lhuendrup", en: "Sangchhen Dorji Lhuendrup Nunnery" },
+    name: { de: "Sangchhen-Dorji-Lhuendrup-Nonnenkloster", hu: "Sangchhen Dorji Lhuendrup apácakolostor", ro: "Mănăstirea de maici Sangchhen Dorji Lhuendrup", en: "Sangchhen Dorji Lhuendrup Nunnery",
+image: "/poi-images/sangchhen-dorji-lhuendrup-landmarks-v2.webp"
+},
     description: {
       de: "Ein beeindruckender Tempel- und Nonnenklosterkomplex auf einem Bergrücken. Es bietet einen fantastischen Blick auf das Punakha- und Wangdue-Tal.",
       hu: "Lenyűgöző templom- és apácakolostor-komplexum egy hegygerincen. Fantasztikus kilátást nyújt a Punakha- és a Wangdue-völgyre.",
@@ -154,7 +168,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-11",
     coords: [89.3361, 27.3822],
-    name: { de: "Kila-Nonnenkloster", hu: "Kila apácakolostor", ro: "Mănăstirea de maici Kila", en: "Kila Nunnery" },
+    name: { de: "Kila-Nonnenkloster", hu: "Kila apácakolostor", ro: "Mănăstirea de maici Kila", en: "Kila Nunnery",
+image: "/poi-images/kila-nunnery-landmarks-v2.webp"
+},
     description: {
       de: "Das älteste Nonnenkloster Bhutans, das oft als weibliches Tigernest bezeichnet wird. Es besteht aus mehreren Tempeln, die in eine steile Klippe gebaut sind.",
       hu: "Bhután legrégebbi apácakolostora, amelyet gyakran a női Tigrisfészeknek is neveznek. Több templomból áll, amelyeket egy meredek sziklába építettek.",
@@ -175,7 +191,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-31",
     coords: [90.7322, 27.5817],
-    name: { de: "Tamshing Lhakhang", hu: "Tamshing Lhakhang", ro: "Tamshing Lhakhang", en: "Tamshing Lhakhang" },
+    name: { de: "Tamshing Lhakhang", hu: "Tamshing Lhakhang", ro: "Tamshing Lhakhang", en: "Tamshing Lhakhang",
+image: "/poi-images/tamshing-lhakhang-landmarks-v2.webp"
+},
     description: {
       de: "Dieser Tempel im Chokhor-Tal ist für seine alten Wandmalereien bekannt. Er wurde 1501 vom großen Heiligen Pema Lingpa erbaut.",
       hu: "Ez a Chokhor-völgyben található templom ősi falfestményeiről ismert. A nagy szent, Pema Lingpa építette 1501-ben.",
@@ -196,7 +214,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-31",
     coords: [90.7816, 27.5511],
-    name: { de: "Mebar Tsho (Brennender See)", hu: "Mebar Tsho (Égő-tó)", ro: "Mebar Tsho (Lacul arzând)", en: "Mebar Tsho (Burning Lake)" },
+    name: { de: "Mebar Tsho (Brennender See)", hu: "Mebar Tsho (Égő-tó)", ro: "Mebar Tsho (Lacul arzând)", en: "Mebar Tsho (Burning Lake)",
+image: "/poi-images/mebar-tsho-landmarks-v2.webp"
+},
     description: {
       de: "Eine heilige Stätte, die eigentlich eine Schlucht im Fluss Tang Chhu ist. Hier soll Pema Lingpa versteckte Schätze von Guru Rinpoche entdeckt haben.",
       hu: "Szent hely, amely valójában egy szurdok a Tang Chhu folyóban. Állítólag Pema Lingpa itt fedezte fel Guru Rinpoche elrejtett kincseit.",
@@ -218,7 +238,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-12",
     coords: [89.3852, 26.8524],
-    name: { de: "Zangto Pelri Lhakhang", hu: "Zangto Pelri Lhakhang", ro: "Zangto Pelri Lhakhang", en: "Zangto Pelri Lhakhang" },
+    name: { de: "Zangto Pelri Lhakhang", hu: "Zangto Pelri Lhakhang", ro: "Zangto Pelri Lhakhang", en: "Zangto Pelri Lhakhang",
+image: "/poi-images/zangto-pelri-lhakhang-landmarks-v2.webp"
+},
     description: {
       de: "Ein kleiner Tempel im Herzen von Phuntsholing, der den himmlischen Wohnsitz von Guru Rinpoche darstellt. Er ist von einem schönen Park umgeben.",
       hu: "Egy kis templom Phuntsholing szívében, amely Guru Rinpoche égi lakhelyét ábrázolja. Egy gyönyörű park veszi körül.",
@@ -240,7 +262,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-12",
     coords: [89.3865, 26.8700],
-    name: { de: "Karbandi-Kloster", hu: "Karbandi kolostor", ro: "Mănăstirea Karbandi", en: "Karbandi Monastery" },
+    name: { de: "Karbandi-Kloster", hu: "Karbandi kolostor", ro: "Mănăstirea Karbandi", en: "Karbandi Monastery",
+image: "/poi-images/karbandi-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Das Kloster thront auf einem Hügel über Phuntsholing und bietet einen Panoramablick auf die bengalische Ebene und die Stadt.",
       hu: "A kolostor egy dombon áll Phuntsholing felett, és panorámás kilátást nyújt a bengáli síkságra és a városra.",
@@ -261,7 +285,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-46",
     coords: [91.4988, 27.6080],
-    name: { de: "Chorten Kora", hu: "Chorten Kora", ro: "Chorten Kora", en: "Chorten Kora" },
+    name: { de: "Chorten Kora", hu: "Chorten Kora", ro: "Chorten Kora", en: "Chorten Kora",
+image: "/poi-images/chorten-kora-landmarks-v2.webp"
+},
     description: {
       de: "Ein bedeutender Stupa in Ostbhutan, der nach dem Vorbild des Boudhanath-Stupa in Nepal gestaltet wurde. Er zieht jährlich Tausende Pilger an.",
       hu: "Jelentős sztúpa Kelet-Bhutánban, amelyet a nepáli Boudhanath sztúpa mintájára terveztek. Évente zarándokok ezreit vonzza.",
@@ -282,7 +308,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-41",
     coords: [91.4644, 27.2794],
-    name: { de: "Drametse Lhakhang", hu: "Drametse Lhakhang", ro: "Drametse Lhakhang", en: "Drametse Lhakhang" },
+    name: { de: "Drametse Lhakhang", hu: "Drametse Lhakhang", ro: "Drametse Lhakhang", en: "Drametse Lhakhang",
+image: "/poi-images/drametse-lhakhang-landmarks-v2.webp"
+},
     description: {
       de: "Eines der größten und wichtigsten Klöster im Osten Bhutans. Es ist der Ursprungsort des berühmten Trommeltanzes von Drametse.",
       hu: "Kelet-Bhután egyik legnagyobb és legfontosabb kolostora. A híres Drametse dobos tánc szülőhelye.",
@@ -303,7 +331,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-GA",
     coords: [89.7267, 27.9042],
-    name: { de: "Gasa Dzong", hu: "Gasa Dzong", ro: "Gasa Dzong", en: "Gasa Dzong" },
+    name: { de: "Gasa Dzong", hu: "Gasa Dzong", ro: "Gasa Dzong", en: "Gasa Dzong",
+image: "/poi-images/gasa-dzong-landmarks-v2.webp"
+},
     description: {
       de: "Eine historische Bergfestung, die im 17. Jahrhundert zum Schutz vor Angriffen aus dem Norden erbaut wurde. Sie zeichnet sich durch ihre runde Form aus.",
       hu: "Történelmi hegyi erőd, amelyet a 17. században építettek az északról érkező támadások elleni védekezésül. Kerek formája teszi különlegessé.",
@@ -324,7 +354,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-24",
     coords: [90.1706, 27.4642],
-    name: { de: "Gangtey-Kloster", hu: "Gangtey kolostor", ro: "Mănăstirea Gangtey", en: "Gangtey Monastery" },
+    name: { de: "Gangtey-Kloster", hu: "Gangtey kolostor", ro: "Mănăstirea Gangtey", en: "Gangtey Monastery",
+image: "/poi-images/gangtey-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Nyingma-Kloster Bhutans überblickt das malerische Phobjikha-Tal. Es ist ein architektonisches Meisterwerk mit aufwendigen Holzschnitzereien.",
       hu: "Bhután legnagyobb nyingma kolostora a festői Phobjikha-völgyre néz. Építészeti remekmű, bonyolult fafaragásokkal.",
@@ -345,7 +377,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-23",
     coords: [89.8333, 27.5667],
-    name: { de: "Talo Dzong", hu: "Talo Dzong", ro: "Talo Dzong", en: "Talo Dzong" },
+    name: { de: "Talo Dzong", hu: "Talo Dzong", ro: "Talo Dzong", en: "Talo Dzong",
+image: "/poi-images/talo-dzong-landmarks-v2.webp"
+},
     description: {
       de: "Das Talo-Kloster liegt hoch oben in den Hügeln von Punakha. Das Dorf und der Dzong sind für ihre Sauberkeit und die schönen Gärten bekannt.",
       hu: "A Talo kolostor magasan Punakha dombjain fekszik. A falu és a dzong tisztaságáról és gyönyörű kertjeiről ismert.",
@@ -367,7 +401,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-31",
     coords: [90.7214, 27.5186],
-    name: { de: "Tharpaling-Kloster", hu: "Tharpaling kolostor", ro: "Mănăstirea Tharpaling", en: "Tharpaling Monastery" },
+    name: { de: "Tharpaling-Kloster", hu: "Tharpaling kolostor", ro: "Mănăstirea Tharpaling", en: "Tharpaling Monastery",
+image: "/poi-images/tharpaling-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Ein ruhiges Kloster an einem steilen Berghang im Chokhor-Tal. Es war ein wichtiger Meditationsort für den Gelehrten Longchenpa im 14. Jahrhundert.",
       hu: "Csendes kolostor egy meredek hegyoldalban a Chokhor-völgyben. Fontos meditációs hely volt Longchenpa tudós számára a 14. században.",
@@ -388,7 +424,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-31",
     coords: [90.8167, 27.5667],
-    name: { de: "Ogyen-Choling-Palast", hu: "Ogyen Choling palota", ro: "Palatul Ogyen Choling", en: "Ogyen Choling Palace" },
+    name: { de: "Ogyen-Choling-Palast", hu: "Ogyen Choling palota", ro: "Palatul Ogyen Choling", en: "Ogyen Choling Palace",
+image: "/poi-images/ogyen-choling-palace-landmarks-v2.webp"
+},
     description: {
       de: "Ein historisches Herrenhaus im Tang-Tal, das in ein faszinierendes Museum umgewandelt wurde. Es bietet einen Einblick in das Leben der bhutanischen Adligen.",
       hu: "Történelmi kúria a Tang-völgyben, amelyet lenyűgöző múzeummá alakítottak át. Bepillantást enged a bhutáni nemesek életébe.",
@@ -409,7 +447,9 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BT-15",
     coords: [89.5889, 27.4650],
-    name: { de: "Phajoding-Kloster", hu: "Phajoding kolostor", ro: "Mănăstirea Phajoding", en: "Phajoding Monastery" },
+    name: { de: "Phajoding-Kloster", hu: "Phajoding kolostor", ro: "Mănăstirea Phajoding", en: "Phajoding Monastery",
+image: "/poi-images/phajoding-monastery-landmarks-v2.webp"
+},
     description: {
       de: "Ein riesiger Klosterkomplex hoch über Thimphu, der durch eine steile Wanderung erreicht wird. Es war einst eines der reichsten Klöster des Landes.",
       hu: "Hatalmas kolostorkomplexum magasan Thimphu felett, amelyet meredek túrával lehet elérni. Egykor az ország egyik leggazdagabb kolostora volt.",

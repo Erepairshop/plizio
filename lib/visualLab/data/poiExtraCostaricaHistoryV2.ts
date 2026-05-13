@@ -11,8 +11,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Schlachtfeld von Santa Rosa",
       hu: "Santa Rosa-i csatatér",
       ro: "Câmpul de luptă de la Santa Rosa",
-      en: "Santa Rosa Battlefield"
-    },
+      en: "Santa Rosa Battlefield",
+image: "/poi-images/santa-rosa-battlefield-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Santa Rosa Battlefield is the site of the 1856 Battle of Santa Rosa, where Costa Rican forces defeated the filibusters led by William Walker. This event is a foundational pillar of Costa Rican national identity and sovereignty. Geography K8 — historical sovereignty."
     },
@@ -42,8 +43,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Kirche La Merced",
       hu: "La Merced-templom",
       ro: "Biserica La Merced",
-      en: "La Merced Church"
-    },
+      en: "La Merced Church",
+image: "/poi-images/las-mercedes-church-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "Las Mercedes Church is a colonial-era religious structure that reflects the architectural and religious history of the Central Highlands. It serves as a testament to the influence of early Spanish settlement patterns in Costa Rican geography. Geography K7 — colonial influence."
     },
@@ -73,8 +75,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Gefängnis von San Lucas",
       hu: "San Lucas börtön",
       ro: "Închisoarea San Lucas",
-      en: "San Lucas Prison"
-    },
+      en: "San Lucas Prison",
+image: "/poi-images/san-lucas-prison-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "San Lucas Prison, located on San Lucas Island in the Gulf of Nicoya, operated as a notorious penal colony from 1873 to 1991. Today, it is preserved as a historical site that highlights the evolution of Costa Rica's justice and human rights standards. Geography K8 — societal change."
     },
@@ -104,8 +107,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Kirche von Orosi",
       hu: "Orosi-templom",
       ro: "Biserica din Orosi",
-      en: "Orosi Church"
-    },
+      en: "Orosi Church",
+image: "/poi-images/orosi-church-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Orosi Church, built in 1743, is one of the oldest colonial buildings still standing in Costa Rica. Its mud-brick construction and classic layout provide insight into the living conditions and religious practices of the colonial period in the Orosi Valley. Geography K7 — colonial architecture."
     },
@@ -136,8 +140,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Steinkugeln von Finca 6",
       hu: "Finca 6 kőgolyói",
       ro: "Sferele de piatră de la Finca 6",
-      en: "Finca 6 Stone Spheres"
-    },
+      en: "Finca 6 Stone Spheres",
+image: "/poi-images/finca-6-spheres-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "Finca 6 is a UNESCO World Heritage site known for its enigmatic pre-Columbian stone spheres, attributed to the Diquis culture. These artifacts offer unique archaeological evidence of highly organized indigenous societies in the southern Pacific region. Geography K8 — ancient cultures."
     },
@@ -168,8 +173,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "La Casona de Santa Rosa",
       hu: "La Casona (Santa Rosa)",
       ro: "La Casona de la Santa Rosa",
-      en: "La Casona of Santa Rosa"
-    },
+      en: "La Casona of Santa Rosa",
+image: "/poi-images/la-casona-santa-rosa-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "La Casona, a historic farmhouse within Santa Rosa National Park, is the iconic site where the 1856 battle occurred. It stands as a symbol of the struggle for national independence and remains a preserved witness to nineteenth-century rural architecture. Geography K7 — architectural symbolism."
     },
@@ -199,8 +205,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Petroglyphen am Río Negro",
       hu: "Río Negro sziklarajzai",
       ro: "Petroglifele de la Río Negro",
-      en: "Río Negro Petroglyphs"
-    },
+      en: "Río Negro Petroglyphs",
+image: "/poi-images/negro-river-petroglyphs-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Negro River petroglyphs reveal ancient indigenous art and inscriptions carved into volcanic rock. These sites illustrate early human settlement and social organization in the region long before European arrival. Geography K7 — historical geography."
     },
@@ -230,8 +237,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Fledermausinseln (Murciélago)",
       hu: "Denevér-szigetek (Murciélago)",
       ro: "Insulele Liliecilor (Murciélago)",
-      en: "Bat Islands (Murciélago)"
-    },
+      en: "Bat Islands (Murciélago)",
+image: "/poi-images/bat-islands-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Bat Islands were historically utilized by early maritime travelers and fishermen. Today, they are protected areas within Santa Rosa National Park, recognized for their significant marine biodiversity and historical maritime usage patterns. Geography K7 — coastal human geography."
     },
@@ -261,8 +269,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Schlacht von Ochomogo",
       hu: "Ochomogói csata",
       ro: "Bătălia de la Ochomogo",
-      en: "Battle of Ochomogo Site"
-    },
+      en: "Battle of Ochomogo Site",
+image: "/poi-images/ochomogo-war-site-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Ochomogo war site is a key location associated with the 1823 Costa Rican civil war, the first conflict following independence from Spain. It played a defining role in the political stabilization and development of the new nation. Geography K8 — political geography."
     },
@@ -292,8 +301,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Goldminen von Acosta",
       hu: "Acosta aranymezői",
       ro: "Minele de aur din Acosta",
-      en: "Acosta Gold Mines"
-    },
+      en: "Acosta Gold Mines",
+image: "/poi-images/acosta-mines-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Acosta mining sites offer a glimpse into the region's historical efforts to extract precious metals. These locations provide historical context for the early extractive economic ventures in Costa Rica's mountainous central regions. Geography K7 — extractive industry history."
     },
@@ -323,8 +333,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Petroglyphen von Cabuyal",
       hu: "Cabuyal sziklarajzai",
       ro: "Petroglifele din Cabuyal",
-      en: "Cabuyal Petroglyphs"
-    },
+      en: "Cabuyal Petroglyphs",
+image: "/poi-images/cabuyal-petroglyphs-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Cabuyal petroglyphs represent significant indigenous artistic expressions, carved into rocks along the coast. They testify to the historical connectivity and cultural narratives of indigenous communities in the coastal regions of the Pacific. Geography K7 — ancient human presence."
     },
@@ -354,8 +365,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Kreuz von Las Ánimas",
       hu: "Las Ánimas-kereszt",
       ro: "Crucea de la Las Ánimas",
-      en: "Cross of Las Ánimas"
-    },
+      en: "Cross of Las Ánimas",
+image: "/poi-images/las-animas-cross-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Las Animas cross serves as a historical and religious landmark, often marking significant sites in early village settlement histories. It represents the intersection of religious tradition and geographic settlement patterns during the post-colonial period. Geography K7 — cultural geography."
     },
@@ -385,8 +397,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Alte Eisenbahn von La Palma",
       hu: "La Palma régi vasútvonala",
       ro: "Vechea cale ferată din La Palma",
-      en: "Old Railway of La Palma"
-    },
+      en: "Old Railway of La Palma",
+image: "/poi-images/la-palma-railway-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The La Palma railway section marks a vital part of the historic transit network connecting the high-altitude central cities to the coastal plantations. This railway was instrumental in transforming the national economy and population distribution. Geography K8 — transportation economics."
     },
@@ -417,8 +430,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Historisches Gandoca-Manzanillo",
       hu: "Történelmi Gandoca-Manzanillo",
       ro: "Istoricul Gandoca-Manzanillo",
-      en: "Historic Gandoca-Manzanillo"
-    },
+      en: "Historic Gandoca-Manzanillo",
+image: "/poi-images/gandoca-manzanillo-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Gandoca-Manzanillo area has a rich history of coastal settlement and biodiversity management, reflecting the traditional livelihoods of the Caribbean local communities. It is now a critical conservation area that balances human history and nature. Geography K8 — sustainable heritage."
     },
@@ -448,8 +462,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Kirche San Vicente de Moravia",
       hu: "San Vicente de Moravia-templom",
       ro: "Biserica San Vicente de Moravia",
-      en: "San Vicente de Moravia Church"
-    },
+      en: "San Vicente de Moravia Church",
+image: "/poi-images/san-vicente-de-moravia-church-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The church in San Vicente de Moravia stands as a community center and historical witness to the growth of urban settlements near San José. Its architecture reflects the evolution of religious structures during the late 19th and early 20th centuries. Geography K7 — urban history."
     },
@@ -480,8 +495,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Historisches Zentrum von Barva",
       hu: "Barva történelmi központja",
       ro: "Centrul istoric din Barva",
-      en: "Historical Center of Barva"
-    },
+      en: "Historical Center of Barva",
+image: "/poi-images/barva-historical-center-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The historical center of Barva is known for its well-preserved traditional mud-brick houses and its classic town square, offering a clear view into early Central Valley settlement patterns. It is one of the oldest towns in the Heredia province. Geography K7 — settlement geography."
     },
@@ -511,8 +527,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Goldrausch von Las Juntas",
       hu: "Las Juntas-i aranyláz",
       ro: "Goana după aur din Las Juntas",
-      en: "Las Juntas Gold Rush"
-    },
+      en: "Las Juntas Gold Rush",
+image: "/poi-images/las-juntas-gold-rush-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "Las Juntas was the center of a significant gold rush during the late 19th century. This event fundamentally shifted regional demographics and economic development, creating a boomtown culture that shaped the area's history. Geography K8 — mining boomtowns."
     },
@@ -542,8 +559,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "El Salto de Belén",
       hu: "El Salto de Belén",
       ro: "El Salto de Belén",
-      en: "El Salto de Belén"
-    },
+      en: "El Salto de Belén",
+image: "/poi-images/el-salto-de-belen-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "El Salto de Belén has a long history of utilization for local water resources and is a cultural point for the local community. It serves as an example of how natural features shape local settlement and social activity over time. Geography K7 — landscape history."
     },
@@ -573,8 +591,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Kirche von Nicoya",
       hu: "Nicoyai templom",
       ro: "Biserica din Nicoya",
-      en: "Nicoya Church"
-    },
+      en: "Nicoya Church",
+image: "/poi-images/nicoya-church-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The church in Nicoya is one of the most historically significant colonial churches in the country. It is central to the history of the Chorotega people and the Spanish colonial administration, making it a cultural bridge. Geography K7 — cultural history."
     },
@@ -604,8 +623,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Schiffswrack von Puerto Viejo",
       hu: "Puerto Viejo-i hajóroncs",
       ro: "Epava de la Puerto Viejo",
-      en: "Puerto Viejo Shipwreck"
-    },
+      en: "Puerto Viejo Shipwreck",
+image: "/poi-images/puerto-viejo-shipwreck-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The shipwreck near Puerto Viejo is a piece of underwater cultural heritage that tells the story of early maritime commerce along the Caribbean coast. It provides historical context to the perils and opportunities of early international shipping. Geography K7 — underwater history."
     },
@@ -635,8 +655,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Cimarrón-Kultur",
       hu: "Cimarrón-kultúra",
       ro: "Cultura Cimarrón",
-      en: "Cimarron Culture"
-    },
+      en: "Cimarron Culture",
+image: "/poi-images/cimarron-culture-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Cimarron culture refers to the historical groups of escaped enslaved people who lived in isolated areas, maintaining autonomy. Their legacy is a testament to the struggle for freedom and the development of distinct sub-cultures in rural Costa Rica. Geography K8 — sociology of struggle."
     },
@@ -666,8 +687,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Atlantik-Bahnhof",
       hu: "Atlanti pályaudvar",
       ro: "Gara Atlantică",
-      en: "Atlantic Railway Station"
-    },
+      en: "Atlantic Railway Station",
+image: "/poi-images/atlantico-railway-station-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Atlántico Railway Station in San José is an architectural monument representing the era of significant rail development. It served as a critical hub for passengers and cargo, linking the central region to the Caribbean coast for decades. Geography K7 — urban transit."
     },
@@ -697,8 +719,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Ahnenland der Boruca",
       hu: "Boruca ősi föld",
       ro: "Teritoriul ancestral Boruca",
-      en: "Boruca Ancestral Lands"
-    },
+      en: "Boruca Ancestral Lands",
+image: "/poi-images/boruca-ancestral-lands-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "Boruca ancestral lands are central to the culture and history of the Boruca indigenous group. These lands have been preserved for centuries, serving as a bastion for traditional languages, rituals, and craftsmanship, such as famous masks. Geography K8 — indigenous territories."
     },
@@ -728,8 +751,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Ceibo-Baum von La Paz",
       hu: "La Paz-i ceiba fa",
       ro: "Arborele Ceibo din La Paz",
-      en: "Ceibo Tree of La Paz"
-    },
+      en: "Ceibo Tree of La Paz",
+image: "/poi-images/ceibo-tree-of-la-paz-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Ceibo tree of La Paz is a cultural landmark, often used as a historical reference point in landscape geography and oral history. It represents the enduring connection between natural landmarks and the community's narrative over time. Geography K7 — natural heritage."
     },
@@ -759,8 +783,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Nationalarchiv von Costa Rica",
       hu: "Costa Rica-i Nemzeti Levéltár",
       ro: "Arhivele Naționale din Costa Rica",
-      en: "National Archives of Costa Rica"
-    },
+      en: "National Archives of Costa Rica",
+image: "/poi-images/national-archives-history-v2.webp"
+},
     descriptionAdvanced: {
       en: "The National Archives are the repository of all documents concerning Costa Rica's political, legal, and social history. The institution is essential for maintaining the national collective memory and verifying legal records dating back centuries. Geography K8 — knowledge infrastructure."
     },
@@ -790,8 +815,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Kirche von Cot",
       hu: "Coti templom",
       ro: "Biserica din Cot",
-      en: "Church of Cot"
-    },
+      en: "Church of Cot",
+image: "/poi-images/cot-church-history-v2.webp"
+},
     description: {
       de: "Eine weitere historische Kirche in der Nähe von Cartago, bekannt für ihre einfache koloniale Bauweise und ihre Rolle im Gemeindeleben.",
       hu: "Egy másik történelmi templom Cartago közelében, amely egyszerű gyarmati építészetéről és a közösségi életben betöltött szerepéről ismert.",
@@ -834,8 +860,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Hacienda El Viejo",
       hu: "El Viejo Hacienda",
       ro: "Hacienda El Viejo",
-      en: "Hacienda El Viejo"
-    },
+      en: "Hacienda El Viejo",
+image: "/poi-images/hacienda-el-viejo-history-v2.webp"
+},
     description: {
       de: "Eine historische Zuckerrohr-Hacienda in Guanacaste, die Einblicke in die Sabanero-Kultur (costa-ricanische Cowboys) und die Zuckerproduktion gibt.",
       hu: "Történelmi cukornád-hacienda Guanacastében, amely betekintést nyújt a sabanero kultúrába (Costa Rica-i cowboyok) és a cukortermelésbe.",
@@ -878,8 +905,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Haus des Träumers",
       hu: "Az Álmodó Háza",
       ro: "Casa Visătorului",
-      en: "House of the Dreamer"
-    },
+      en: "House of the Dreamer",
+image: "/poi-images/casa-del-sonador-history-v2.webp"
+},
     description: {
       de: "Das ehemalige Haus und Atelier des berühmten costa-ricanischen Bildhauers Macedonio Quesada, das seine skurrilen Holzschnitzereien zeigt.",
       hu: "A híres Costa Rica-i szobrász, Macedonio Quesada egykori háza és műterme, amely bemutatja szeszélyes fafaragásait.",
@@ -922,8 +950,9 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Petroglyphen von Tilarán",
       hu: "Tilaráni sziklarajzok",
       ro: "Petroglifele din Tilarán",
-      en: "Tilarán Petroglyphs"
-    },
+      en: "Tilarán Petroglyphs",
+image: "/poi-images/tilaran-petroglyphs-history-v2.webp"
+},
     description: {
       de: "Eine Reihe von Felsritzungen in der Nähe des Arenal-Sees, die auf die Zeit vor der Vergrößerung des Sees durch den Staudamm zurückgehen.",
       hu: "Sziklavésetek sorozata az Arenal-tó közelében, amelyek a tó gáttal történő megnagyobbítása előtti időkből származnak.",

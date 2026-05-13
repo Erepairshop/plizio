@@ -10,8 +10,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Hukuru Miskiy (Alte Freitagsmoschee)",
       hu: "Hukuru Miskiy (Régi Péntek-mecset)",
       ro: "Hukuru Miskiy (Vechea Moschee de Vineri)",
-      en: "Hukuru Miskiy (Old Friday Mosque)"
-    },
+      en: "Hukuru Miskiy (Old Friday Mosque)",
+image: "/poi-images/mv-hukuru-miskiy-history-v2.webp"
+},
     description: {
       de: "Die 1658 erbaute Moschee in Malé besteht größtenteils aus fein geschnitzten Korallensteinen. Sie ist eine der ältesten und am reichsten verzierten Moscheen der Malediven und zeugt von der handwerklichen Meisterschaft der Inselbewohner.",
       hu: "Az 1658-ban épült Malé-i mecset finoman faragott korallkövekből épült. Ez a Maldív-szigetek egyik legrégebbi és legdíszesebb mecsetje, amely a szigetlakók egyedülálló kézműves mesterségét dicséri.",
@@ -49,8 +50,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Utheemu Ganduvaru",
       hu: "Utheemu Ganduvaru",
       ro: "Utheemu Ganduvaru",
-      en: "Utheemu Ganduvaru"
-    },
+      en: "Utheemu Ganduvaru",
+image: "/poi-images/mv-utheemu-ganduvaru-history-v2.webp"
+},
     description: {
       de: "Dieser historische Palast war die Residenz des Sultans Muhammad Thakurufaanu, der als Nationalheld der Malediven gilt. Er spielte eine Schlüsselrolle im Kampf gegen die portugiesische Besatzung im 16. Jahrhundert.",
       hu: "Ez a történelmi palota Muhammad Thakurufaanu szultán, a Maldív-szigetek nemzeti hősének rezidenciája volt. Kulcsszerepet játszott a 16. századi portugál megszállás elleni küzdelemben.",
@@ -89,8 +91,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Medhu Ziyaaraiy",
       hu: "Medhu Ziyaaraiy síremlék",
       ro: "Mormântul Medhu Ziyaaraiy",
-      en: "Medhu Ziyaaraiy"
-    },
+      en: "Medhu Ziyaaraiy",
+image: "/poi-images/mv-medhu-ziyaaraiy-history-v2.webp"
+},
     description: {
       de: "Das Medhu Ziyaaraiy ist das Grab des marokkanischen Gelehrten Abu al-Barakat Yusuf al-Barbari, der dem Glauben nach den Islam im Jahr 1153 auf die Malediven brachte. Es ist eine bedeutende religiöse und historische Stätte im Herzen von Malé.",
       hu: "A Medhu Ziyaaraiy Abu al-Barakat Yusuf al-Barbari marokkói tudós sírja, aki a hagyomány szerint 1153-ban elhozta az iszlámot a Maldív-szigetekre. Ez egy jelentős vallási és történelmi helyszín Malé szívében.",
@@ -128,8 +131,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Tsunami-Denkmal",
       hu: "Cunami Emlékmű",
       ro: "Monumentul Tsunami",
-      en: "Tsunami Monument"
-    },
+      en: "Tsunami Monument",
+image: "/poi-images/mv-tsunami-monument-history-v2.webp"
+},
     description: {
       de: "Dieses moderne Denkmal in Malé erinnert an die Opfer des verheerenden Erdbebens und Tsunamis im Indischen Ozean 2004. Die Stahlkugeln repräsentieren die betroffenen Atolle, während die Säulen die Opfer symbolisieren.",
       hu: "Ez a modern emlékmű Malé városában a 2004-es pusztító indiai-óceáni földrengés és szökőár áldozatainak állít emléket. Az acélgömbök az érintett atollokat, míg az oszlopok az áldozatokat szimbolizálják.",
@@ -167,8 +171,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Siegesdenkmal",
       hu: "Győzelmi Emlékmű",
       ro: "Monumentul Victoriei",
-      en: "Victory Monument"
-    },
+      en: "Victory Monument",
+image: "/poi-images/mv-victory-monument-history-v2.webp"
+},
     description: {
       de: "Das Siegesdenkmal in Malé erinnert an den Sieg der maledivischen Regierungstruppen über eine Söldnertruppe während des Putschversuchs im Jahr 1988. Es steht als Symbol für die nationale Einheit und Widerstandsfähigkeit.",
       hu: "A maléi Győzelmi Emlékmű a maldív kormánycsapatok győzelmét hirdeti egy zsoldoscsoport felett az 1988-as puccskísérlet során. A nemzeti egység és ellenállóképesség szimbóluma.",
@@ -206,8 +211,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Mulee'aage",
       hu: "Mulee'aage Palota",
       ro: "Palatul Mulee'aage",
-      en: "Mulee'aage"
-    },
+      en: "Mulee'aage",
+image: "/poi-images/mv-muleeaage-history-v2.webp"
+},
     description: {
       de: "Mulee'aage wurde Anfang des 20. Jahrhunderts als Palast für den Sultan erbaut, bevor das Land eine Republik wurde. Das Gebäude zeichnet sich durch seine farbenfrohe Kolonialarchitektur aus und diente lange als offizielle Residenz des Präsidenten.",
       hu: "A Mulee'aage a 20. század elején épült a szultán palotájaként, mielőtt az ország köztársasággá vált volna. Az épületet a színes gyarmati építészet jellemzi, és sokáig a mindenkori elnök hivatalos rezidenciájaként szolgált.",
@@ -245,8 +251,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Buddhistische Ruinen von Isdhoo",
       hu: "Isdhoo buddhista romok",
       ro: "Ruinele budiste de la Isdhoo",
-      en: "Isdhoo Buddhist Ruins"
-    },
+      en: "Isdhoo Buddhist Ruins",
+image: "/poi-images/mv-isdhoo-buddhist-ruins-history-v2.webp"
+},
     description: {
       de: "Auf der Insel Isdhoo befinden sich Überreste antiker buddhistischer Stupas aus der vorislamischen Zeit der Malediven. Diese Ruinen bezeugen die lange religiöse Geschichte des Archipels, bevor der Islam im 12. Jahrhundert vorherrschend wurde.",
       hu: "Isdhoo szigetén a Maldív-szigetek iszlám előtti korszakából származó ősi buddhista sztúpák maradványai találhatók. Ezek a romok a szigetcsoport hosszú vallási történelméről tanúskodnak a 12. századi iszlám térhódítás előttről.",
@@ -284,8 +291,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Kuruhinna Thariagandu",
       hu: "Kuruhinna Thariagandu",
       ro: "Kuruhinna Thariagandu",
-      en: "Kuruhinna Thariagandu"
-    },
+      en: "Kuruhinna Thariagandu",
+image: "/poi-images/mv-kuruhinna-thariagandu-history-v2.webp"
+},
     description: {
       de: "Diese archäologische Stätte auf der Insel Kashidhoo umfasst die freigelegten Überreste eines ausgedehnten buddhistischen Klosters. Sie bietet wertvolle Einblicke in das Leben der frühen Bewohner der Malediven, bevor der Islam eingeführt wurde.",
       hu: "Ez a Kashidhoo szigetén található régészeti lelőhely egy kiterjedt buddhista kolostor feltárt maradványait foglalja magában. Értékes bepillantást nyújt a Maldív-szigetek korai lakóinak életébe az iszlám felvétele előtti időkből.",
@@ -324,8 +332,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Darumavanta Rasgefaanu Moschee",
       hu: "Darumavanta Rasgefaanu Mecset",
       ro: "Moscheea Darumavanta Rasgefaanu",
-      en: "Darumavanta Rasgefaanu Mosque"
-    },
+      en: "Darumavanta Rasgefaanu Mosque",
+image: "/poi-images/mv-darumavanta-rasgefaanu-mosque-history-v2.webp"
+},
     description: {
       de: "Diese Moschee gehört zu den ältesten in Malé und ist nach einem bedeutenden Herrscher der frühen maledivischen Geschichte benannt. Sie ist ein exzellentes Beispiel für die traditionelle Bauweise mit Korallensteinen, die typisch für alte Inselarchitektur ist.",
       hu: "Ez a mecset az egyik legrégebbi Maléban, és a korai maldív történelem egy jelentős uralkodójáról kapta a nevét. Kiváló példája a hagyományos korallkőből készült építészetnek, amely jellemző a szigetek régi épületeire.",
@@ -364,8 +373,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Eid Miskiy",
       hu: "Eid Miskiy",
       ro: "Eid Miskiy",
-      en: "Eid Miskiy"
-    },
+      en: "Eid Miskiy",
+image: "/poi-images/mv-eid-miskiy-history-v2.webp"
+},
     description: {
       de: "Die historische Festtagsmoschee Eid Miskiy in Malé war jahrhundertelang der zentrale Ort für große islamische Gebete an Feiertagen. Ihre Architektur verbindet klassische islamische Elemente mit lokalen maledivischen Handwerkstraditionen.",
       hu: "A történelmi Eid Miskiy ünnepi mecset Maléban évszázadokon át a nagy iszlám ünnepek imáinak központi helyszíne volt. Építészete a klasszikus iszlám elemeket ötvözi a helyi maldív kézműves hagyományokkal.",
@@ -403,8 +413,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Kalhuvakaru Miskiy",
       hu: "Kalhuvakaru Miskiy",
       ro: "Kalhuvakaru Miskiy",
-      en: "Kalhuvakaru Miskiy"
-    },
+      en: "Kalhuvakaru Miskiy",
+image: "/poi-images/mv-kalhuvakaru-miskiy-history-v2.webp"
+},
     description: {
       de: "Auch bekannt als die 'Reisende Moschee', wurde dieses historische Gebäude aus kunstvoll geschnitztem Ebenholz und Korallensteinen errichtet. Sie wurde mehrfach abgebaut und an verschiedenen Orten wieder aufgebaut, heute steht sie im Sultan Park.",
       hu: "Az 'Utazó Mecset' néven is ismert történelmi épületet művészien faragott ébenfából és korallkövekből építették. Többször szétszedték és más helyszíneken újraépítették; ma a Sultan Parkban áll.",
@@ -443,8 +454,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Buddhistische Ruinen von Thoddoo",
       hu: "Thoddoo buddhista romok",
       ro: "Ruinele budiste de la Thoddoo",
-      en: "Thoddoo Buddhist Ruins"
-    },
+      en: "Thoddoo Buddhist Ruins",
+image: "/poi-images/mv-thoddoo-buddhist-ruins-history-v2.webp"
+},
     description: {
       de: "Auf der Insel Thoddoo im Alif Alif Atoll wurden antike Artefakte und die Ruinen eines buddhistischen Tempels entdeckt. Diese Funde dokumentieren eine florierende Zivilisation, die lange vor der Konversion der Malediven zum Islam existierte.",
       hu: "Az Alif Alif atollhoz tartozó Thoddoo szigetén ősi leleteket és egy buddhista templom romjait fedezték fel. Ezek a leletek egy olyan virágzó civilizációt dokumentálnak, amely jóval a Maldív-szigetek iszlamizációja előtt létezett.",
@@ -482,8 +494,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Britische RAF-Basis Gan (Ruinen)",
       hu: "A Gan-szigeti brit RAF légitámaszpont romjai",
       ro: "Ruinele Bazei Britanice RAF Gan",
-      en: "British RAF Base Gan Ruins"
-    },
+      en: "British RAF Base Gan Ruins",
+image: "/poi-images/mv-raf-base-gan-history-v2.webp"
+},
     description: {
       de: "Die strategisch wichtige Insel Gan war im Zweiten Weltkrieg und während des Kalten Krieges eine geheime Militärbasis der Royal Air Force. Heute zeugen verlassene Bunker und historische Denkmäler von dieser bedeutsamen internationalen Vergangenheit der Malediven.",
       hu: "A stratégiai fontosságú Gan szigete a második világháború és a hidegháború alatt a Brit Királyi Légierő titkos katonai bázisa volt. Ma elhagyott bunkerek és történelmi emlékművek tanúskodnak a Maldív-szigetek jelentős nemzetközi múltjáról.",
@@ -521,8 +534,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Fenfushi Freitagsmoschee",
       hu: "Fenfushi Ősi Mecset",
       ro: "Moscheea Antică Fenfushi",
-      en: "Fenfushi Ancient Mosque"
-    },
+      en: "Fenfushi Ancient Mosque",
+image: "/poi-images/mv-fenfushi-mosque-history-v2.webp"
+},
     description: {
       de: "Die historische Moschee auf der Insel Fenfushi ist für ihre außergewöhnlich detaillierten Korallenschnitzereien und lackierten Holzarbeiten bekannt. Sie gehört zum UNESCO-Welterbe-Bewerbungsprogramm für korallsteinerne Moscheen der Malediven.",
       hu: "A Fenfushi szigetén található történelmi mecset kivételesen részletes korallfaragásairól és lakkozott famunkáiról ismert. Része a Maldív-szigetek korallkő mecsetjeinek UNESCO Világörökség-várományos programjának.",
@@ -560,8 +574,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Antike Ruinen von Landhoo",
       hu: "Landhoo ősi romjai",
       ro: "Ruinele Antice de la Landhoo",
-      en: "Landhoo Ancient Ruins"
-    },
+      en: "Landhoo Ancient Ruins",
+image: "/poi-images/mv-landhoo-ruins-history-v2.webp"
+},
     description: {
       de: "Auf Landhoo finden sich die Überreste eines großen, pyramidenähnlichen Hügels, der als Stupa identifiziert wurde und aus der buddhistischen Ära stammt. Der sogenannte 'Maabadhige Haitha' gehört zu den wichtigsten archäologischen Stätten der Region.",
       hu: "Landhoo szigetén egy nagy, piramisszerű domb maradványai találhatók, amelyet a buddhista korszakból származó sztúpaként azonosítottak. Az úgynevezett 'Maabadhige Haitha' a régió egyik legfontosabb régészeti lelőhelye.",
@@ -599,8 +614,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Nilandhoo Aasaari Miskiy",
       hu: "Nilandhoo Aasaari Miskiy",
       ro: "Nilandhoo Aasaari Miskiy",
-      en: "Nilandhoo Aasaari Miskiy"
-    },
+      en: "Nilandhoo Aasaari Miskiy",
+image: "/poi-images/mv-nilandhoo-aasaari-miskiy-history-v2.webp"
+},
     description: {
       de: "Die Aasaari Miskiy auf der Insel Nilandhoo ist die zweitälteste Moschee der Malediven, vermutlich im 12. Jahrhundert erbaut. Sie wurde der Legende nach direkt aus den Steinen eines zuvor zerstörten buddhistischen Tempels an derselben Stelle errichtet.",
       hu: "A Nilandhoo szigetén álló Aasaari Miskiy a Maldív-szigetek második legrégebbi mecsetje, amely valószínűleg a 12. században épült. A legenda szerint közvetlenül az ugyanazon a helyen elpusztított buddhista templom köveiből emelték.",
@@ -639,8 +655,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Grab von Sultan Ibrahim Iskandar I.",
       hu: "I. Ibrahim Iskandar szultán sírja",
       ro: "Mormântul Sultanului Ibrahim Iskandar I",
-      en: "Tomb of Sultan Ibrahim Iskandar I"
-    },
+      en: "Tomb of Sultan Ibrahim Iskandar I",
+image: "/poi-images/mv-tomb-sultan-iskandar-history-v2.webp"
+},
     description: {
       de: "Das Grabmal von Sultan Ibrahim Iskandar I. befindet sich auf dem Friedhof der Alten Freitagsmoschee. Er war ein bedeutender Herrscher des 17. Jahrhunderts, der das Verteidigungssystem der Malediven modernisierte und viele Bildungsstätten gründete.",
       hu: "I. Ibrahim Iskandar szultán sírja a Régi Péntek-mecset temetőjében található. Ő egy jelentős 17. századi uralkodó volt, aki korszerűsítette a Maldív-szigetek védelmi rendszerét és számos oktatási intézményt alapított.",
@@ -678,8 +695,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Antike Ruinen von Vashafaru",
       hu: "Vashafaru ősi romjai",
       ro: "Ruinele Antice de la Vashafaru",
-      en: "Vashafaru Ancient Ruins"
-    },
+      en: "Vashafaru Ancient Ruins",
+image: "/poi-images/mv-vashafaru-ruins-history-v2.webp"
+},
     description: {
       de: "Die historischen Ruinen auf der Insel Vashafaru umfassen Überreste alter korallsteinerner Strukturen, die von frühen muslimischen Siedlern errichtet wurden. Sie sind stumme Zeugen der kulturellen Evolution und traditionellen Inselarchitektur des Haa Alif Atolls.",
       hu: "A Vashafaru szigetén található történelmi romok közé tartoznak azok a régi korallkő szerkezetek, amelyeket korai muszlim telepesek emeltek. A Haa Alif atoll kulturális evolúciójának és hagyományos szigeti építészetének néma tanúi.",
@@ -718,8 +736,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Historische Stätten am Dhadimagi Kilhi",
       hu: "Dhadimagi Kilhi történelmi helyszínek",
       ro: "Siturile Istorice de la Dhadimagi Kilhi",
-      en: "Dhadimagi Kilhi Ancient Sites"
-    },
+      en: "Dhadimagi Kilhi Ancient Sites",
+image: "/poi-images/mv-dhadimagi-kilhi-sites-history-v2.webp"
+},
     description: {
       de: "Rund um den großen Süßwassersee Dhadimagi Kilhi auf der Insel Fuvahmulah finden sich archäologische Relikte. Die isolierte Lage der Insel bewahrte einzigartige Artefakte alter Rituale, die vor der vollständigen Islamisierung praktiziert wurden.",
       hu: "A Fuvahmulah szigetén lévő nagy édesvizű Dhadimagi Kilhi tó körül régészeti emlékek találhatók. A sziget elszigetelt fekvése megőrizte azokat a különleges ősi rituális leleteket, amelyeket a teljes iszlamizáció előtt gyakoroltak.",
@@ -757,8 +776,9 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       de: "Buddhistische Stupa-Ruinen von Kinbidhoo",
       hu: "Kinbidhoo buddhista sztúpa romjai",
       ro: "Ruinele Stubei Budiste de la Kinbidhoo",
-      en: "Kinbidhoo Buddhist Stupa Ruins"
-    },
+      en: "Kinbidhoo Buddhist Stupa Ruins",
+image: "/poi-images/mv-kinbidhoo-ruins-history-v2.webp"
+},
     description: {
       de: "Die Ruine der Veyo auf Kinbidhoo im Thaa Atoll ist ein bedeutendes Überbleibsel einer antiken buddhistischen Stupa. Die vom Dschungel überwucherten Korallensteinstrukturen erzählen die Geschichte einer Zivilisation, die fast tausend Jahre in Vergessenheit geriet.",
       hu: "A Thaa atollhoz tartozó Kinbidhoo szigetén lévő Veyo romja egy ősi buddhista sztúpa jelentős maradványa. A dzsungellel benőtt korallkő szerkezetek egy olyan civilizáció történetét mesélik el, amely majdnem ezer évig feledésbe merült.",

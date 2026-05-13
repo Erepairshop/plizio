@@ -7,7 +7,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-00",
     coords: [33.0, -1.0],
-    name: { de: "Viktoriasee", hu: "Viktória-tó", ro: "Lacul Victoria", en: "Lake Victoria" },
+    name: { de: "Viktoriasee", hu: "Viktória-tó", ro: "Lacul Victoria", en: "Lake Victoria",
+image: "/poi-images/victoria-lake-nature-v2.webp"
+},
     description: {
       de: "Afrikas größter See und die Hauptquelle des Nils.",
       hu: "Afrika legnagyobb tava és a Nílus fő forrása.",
@@ -24,7 +26,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-201",
     coords: [31.68, 2.28],
-    name: { de: "Murchison-Fälle", hu: "Murchison-vízesés", ro: "Cascadele Murchison", en: "Murchison Falls" },
+    name: { de: "Murchison-Fälle", hu: "Murchison-vízesés", ro: "Cascadele Murchison", en: "Murchison Falls",
+image: "/poi-images/murchison-falls-nature-v2.webp"
+},
     description: {
       de: "Ein beeindruckender Wasserfall, an dem sich der Nil durch eine enge Schlucht presst.",
       hu: "Lenyűgöző vízesés, ahol a Nílus egy szűk szurdokon keresztül préselődik át.",
@@ -41,7 +45,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-405",
     coords: [29.87, 0.38],
-    name: { de: "Rwenzori-Gebirge", hu: "Rwenzori-hegység", ro: "Munții Rwenzori", en: "Rwenzori Mountains" },
+    name: { de: "Rwenzori-Gebirge", hu: "Rwenzori-hegység", ro: "Munții Rwenzori", en: "Rwenzori Mountains",
+image: "/poi-images/mount-rwenzori-nature-v2.webp"
+},
     description: {
       de: "Ein äquatoriales Gebirge, das auch als 'Mondberge' bekannt ist.",
       hu: "Egyenlítői hegység, amelyet 'Holdhegyek' néven is ismernek.",
@@ -58,7 +64,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-403",
     coords: [29.9, -0.2],
-    name: { de: "Lake Edward", hu: "Edward-tó", ro: "Lacul Edward", en: "Lake Edward" },
+    name: { de: "Lake Edward", hu: "Edward-tó", ro: "Lacul Edward", en: "Lake Edward",
+image: "/poi-images/queen-elizabeth-lake-nature-v2.webp"
+},
     description: {
       de: "Ein großer See im westlichen Teil des ostafrikanischen Grabenbruchs.",
       hu: "Nagy tó a kelet-afrikai árokrendszer nyugati részén.",
@@ -75,7 +83,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-307",
     coords: [29.95, -1.28],
-    name: { de: "Lake Bunyonyi", hu: "Bunyonyi-tó", ro: "Lacul Bunyonyi", en: "Lake Bunyonyi" },
+    name: { de: "Lake Bunyonyi", hu: "Bunyonyi-tó", ro: "Lacul Bunyonyi", en: "Lake Bunyonyi",
+image: "/poi-images/bunyonyi-lake-nature-v2.webp"
+},
     description: {
       de: "Ein malerischer Kratersee in Südwest-Uganda.",
       hu: "Festői krátertó Délnyugat-Ugandában.",
@@ -92,7 +102,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "forest",
     parent: "UG-201",
     coords: [31.5, 1.7],
-    name: { de: "Budongo-Wald", hu: "Budongo-erdő", ro: "Pădurea Budongo", en: "Budongo Forest" },
+    name: { de: "Budongo-Wald", hu: "Budongo-erdő", ro: "Pădurea Budongo", en: "Budongo Forest",
+image: "/poi-images/budongo-forest-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger tropischer Regenwald, bekannt für seine Schimpansenpopulation.",
       hu: "Fontos trópusi esőerdő, amely csimpánzpopulációjáról híres.",
@@ -109,7 +121,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-102",
     coords: [34.5, 1.1],
-    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon" },
+    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon",
+image: "/poi-images/elgon-mount-nature-v2.webp"
+},
     description: {
       de: "Ein erloschener Schildvulkan an der Grenze zwischen Uganda und Kenia.",
       hu: "Kialudt pajzsvulkán Uganda és Kenya határán.",
@@ -126,7 +140,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "forest",
     parent: "UG-405",
     coords: [30.3, 0.5],
-    name: { de: "Kibale-Wald", hu: "Kibale-erdő", ro: "Pădurea Kibale", en: "Kibale Forest" },
+    name: { de: "Kibale-Wald", hu: "Kibale-erdő", ro: "Pădurea Kibale", en: "Kibale Forest",
+image: "/poi-images/kibale-forest-nature-v2.webp"
+},
     description: {
       de: "Ein Nationalpark, der für seine hohe Primatendichte bekannt ist.",
       hu: "Nemzeti park, amely magas főemlős-sűrűségéről ismert.",
@@ -143,7 +159,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-301",
     coords: [32.8, 1.6],
-    name: { de: "Lake Kyoga", hu: "Kyoga-tó", ro: "Lacul Kyoga", en: "Lake Kyoga" },
+    name: { de: "Lake Kyoga", hu: "Kyoga-tó", ro: "Lacul Kyoga", en: "Lake Kyoga",
+image: "/poi-images/kyoga-lake-nature-v2.webp"
+},
     description: {
       de: "Ein großer flacher See, der vom Weißen Nil durchflossen wird.",
       hu: "Nagy, sekély tó, amelyen átfolyik a Fehér-Nílus.",
@@ -160,7 +178,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "forest",
     parent: "UG-307",
     coords: [29.6, -1.0],
-    name: { de: "Bwindi-Wald", hu: "Bwindi-erdő", ro: "Pădurea Bwindi", en: "Bwindi Forest" },
+    name: { de: "Bwindi-Wald", hu: "Bwindi-erdő", ro: "Pădurea Bwindi", en: "Bwindi Forest",
+image: "/poi-images/bwinidi-forest-nature-v2.webp"
+},
     description: {
       de: "Ein UNESCO-Welterbe-Regenwald, berühmt für seine Berggorillas.",
       hu: "UNESCO világörökség részét képező esőerdő, híres hegyi gorilláiról.",
@@ -177,7 +197,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-403",
     coords: [30.0, 0.0],
-    name: { de: "Lake George", hu: "George-tó", ro: "Lacul George", en: "Lake George" },
+    name: { de: "Lake George", hu: "George-tó", ro: "Lacul George", en: "Lake George",
+image: "/poi-images/george-lake-nature-v2.webp"
+},
     description: {
       de: "Ein kleinerer See, der durch den Kazinga-Kanal mit dem Edward-See verbunden ist.",
       hu: "Kisebb tó, amely a Kazinga-csatornán keresztül kapcsolódik az Edward-tóhoz.",
@@ -194,7 +216,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-405",
     coords: [29.9, 0.8],
-    name: { de: "Semliki-Fluss", hu: "Semliki-folyó", ro: "Râul Semliki", en: "Semliki River" },
+    name: { de: "Semliki-Fluss", hu: "Semliki-folyó", ro: "Râul Semliki", en: "Semliki River",
+image: "/poi-images/semliki-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der den Edward-See mit dem Albert-See verbindet.",
       hu: "Folyó, amely összeköti az Edward-tavat az Albert-tóval.",
@@ -211,7 +235,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-201",
     coords: [31.0, 1.5],
-    name: { de: "Lake Albert", hu: "Albert-tó", ro: "Lacul Albert", en: "Lake Albert" },
+    name: { de: "Lake Albert", hu: "Albert-tó", ro: "Lacul Albert", en: "Lake Albert",
+image: "/poi-images/albert-lake-nature-v2.webp"
+},
     description: {
       de: "Ein großer See im westlichen Zweig des ostafrikanischen Grabenbruchs.",
       hu: "Nagy tó a kelet-afrikai árokrendszer nyugati ágában.",
@@ -228,7 +254,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-403",
     coords: [29.9, -0.2],
-    name: { de: "Kazinga-Kanal", hu: "Kazinga-csatorna", ro: "Canalul Kazinga", en: "Kazinga Channel" },
+    name: { de: "Kazinga-Kanal", hu: "Kazinga-csatorna", ro: "Canalul Kazinga", en: "Kazinga Channel",
+image: "/poi-images/kazinga-channel-nature-v2.webp"
+},
     description: {
       de: "Eine natürliche Wasserstraße, die Lake George und Lake Edward verbindet.",
       hu: "Természetes vízi út, amely összeköti a George-tavat és az Edward-tavat.",
@@ -245,7 +273,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-501",
     coords: [34.7, 2.5],
-    name: { de: "Mount Moroto", hu: "Moroto-hegy", ro: "Muntele Moroto", en: "Mount Moroto" },
+    name: { de: "Mount Moroto", hu: "Moroto-hegy", ro: "Muntele Moroto", en: "Mount Moroto",
+image: "/poi-images/mount-moroto-nature-v2.webp"
+},
     description: {
       de: "Ein vulkanischer Berg im nordöstlichen Teil von Uganda.",
       hu: "Vulkáni hegy Uganda északkeleti részén.",
@@ -262,7 +292,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-501",
     coords: [34.7, 1.8],
-    name: { de: "Mount Kadam", hu: "Kadam-hegy", ro: "Muntele Kadam", en: "Mount Kadam" },
+    name: { de: "Mount Kadam", hu: "Kadam-hegy", ro: "Muntele Kadam", en: "Mount Kadam",
+image: "/poi-images/mount-kadam-nature-v2.webp"
+},
     description: {
       de: "Ein beeindruckender Berg, der aus vulkanischen Überresten besteht.",
       hu: "Lenyűgöző hegy, amely vulkáni maradványokból áll.",
@@ -279,7 +311,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-301",
     coords: [32.5, 2.0],
-    name: { de: "Victoria-Nil", hu: "Viktória-Nílus", ro: "Nilul Victoria", en: "Victoria Nile" },
+    name: { de: "Victoria-Nil", hu: "Viktória-Nílus", ro: "Nilul Victoria", en: "Victoria Nile",
+image: "/poi-images/victoria-nile-nature-v2.webp"
+},
     description: {
       de: "Der Oberlauf des Nils, der vom Viktoriasee zum Kyoga-See fließt.",
       hu: "A Nílus felső folyása, amely a Viktória-tótól a Kyoga-tóig folyik.",
@@ -296,7 +330,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-307",
     coords: [29.6, -1.4],
-    name: { de: "Mount Sabyinyo", hu: "Sabyinyo-hegy", ro: "Muntele Sabyinyo", en: "Mount Sabyinyo" },
+    name: { de: "Mount Sabyinyo", hu: "Sabyinyo-hegy", ro: "Muntele Sabyinyo", en: "Mount Sabyinyo",
+image: "/poi-images/mount-sabyinyo-nature-v2.webp"
+},
     description: {
       de: "Ein erloschener Vulkan in den Virunga-Bergen.",
       hu: "Kialudt vulkán a Virunga-hegységben.",
@@ -313,7 +349,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-307",
     coords: [29.6, -1.3],
-    name: { de: "Mount Gahinga", hu: "Gahinga-hegy", ro: "Muntele Gahinga", en: "Mount Gahinga" },
+    name: { de: "Mount Gahinga", hu: "Gahinga-hegy", ro: "Muntele Gahinga", en: "Mount Gahinga",
+image: "/poi-images/mount-gahinga-nature-v2.webp"
+},
     description: {
       de: "Ein kleinerer Vulkan in den Virunga-Bergen.",
       hu: "Kisebb vulkán a Virunga-hegységben.",
@@ -330,7 +368,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "mountain",
     parent: "UG-307",
     coords: [29.65, -1.35],
-    name: { de: "Mount Muhavura", hu: "Muhavura-hegy", ro: "Muntele Muhavura", en: "Mount Muhavura" },
+    name: { de: "Mount Muhavura", hu: "Muhavura-hegy", ro: "Muntele Muhavura", en: "Mount Muhavura",
+image: "/poi-images/mount-muhavura-nature-v2.webp"
+},
     description: {
       de: "Ein markanter Vulkan in den Virunga-Bergen.",
       hu: "Jellegzetes vulkán a Virunga-hegységben.",
@@ -347,7 +387,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-403",
     coords: [29.6, -0.6],
-    name: { de: "Isasha-Fluss", hu: "Isasha-folyó", ro: "Râul Isasha", en: "Isasha River" },
+    name: { de: "Isasha-Fluss", hu: "Isasha-folyó", ro: "Râul Isasha", en: "Isasha River",
+image: "/poi-images/isasha-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der die Grenze zwischen Uganda und dem Kongo bildet.",
       hu: "Folyó, amely a határt képezi Uganda és Kongó között.",
@@ -364,7 +406,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-302",
     coords: [32.5, 3.2],
-    name: { de: "Achwa-Fluss", hu: "Achwa-folyó", ro: "Râul Achwa", en: "Achwa River" },
+    name: { de: "Achwa-Fluss", hu: "Achwa-folyó", ro: "Râul Achwa", en: "Achwa River",
+image: "/poi-images/achwa-river-nature-v2.webp"
+},
     description: {
       de: "Ein wichtiger Fluss im Norden von Uganda.",
       hu: "Fontos folyó Uganda északi részén.",
@@ -381,7 +425,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-406",
     coords: [31.5, -0.2],
-    name: { de: "Katonga-Fluss", hu: "Katonga-folyó", ro: "Râul Katonga", en: "Katonga River" },
+    name: { de: "Katonga-Fluss", hu: "Katonga-folyó", ro: "Râul Katonga", en: "Katonga River",
+image: "/poi-images/katonga-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss, der die Verbindung zwischen dem Viktoriasee und dem George-See bildet.",
       hu: "Folyó, amely a kapcsolatot képezi a Viktória-tó és a George-tó között.",
@@ -398,7 +444,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-405",
     coords: [30.4, 0.1],
-    name: { de: "Mpanga-Fluss", hu: "Mpanga-folyó", ro: "Râul Mpanga", en: "Mpanga River" },
+    name: { de: "Mpanga-Fluss", hu: "Mpanga-folyó", ro: "Râul Mpanga", en: "Mpanga River",
+image: "/poi-images/mpanga-river-nature-v2.webp"
+},
     description: {
       de: "Ein Fluss im Westen Ugandas, der durch die Kibale-Region fließt.",
       hu: "Folyó Nyugat-Ugandában, amely a Kibale régión keresztül folyik.",
@@ -415,7 +463,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "lake",
     parent: "UG-302",
     coords: [32.3, 2.8],
-    name: { de: "Lake Gulu", hu: "Gulu-tó", ro: "Lacul Gulu", en: "Lake Gulu" },
+    name: { de: "Lake Gulu", hu: "Gulu-tó", ro: "Lacul Gulu", en: "Lake Gulu",
+image: "/poi-images/gulu-lake-nature-v2.webp"
+},
     description: {
       de: "Ein kleiner saisonaler See in der nördlichen Region Ugandas.",
       hu: "Kis szezonális tó Uganda északi régiójában.",
@@ -432,7 +482,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "forest",
     parent: "UG-307",
     coords: [29.7, -1.1],
-    name: { de: "Wambe-Wald", hu: "Wambe-erdő", ro: "Pădurea Wambe", en: "Wambe Forest" },
+    name: { de: "Wambe-Wald", hu: "Wambe-erdő", ro: "Pădurea Wambe", en: "Wambe Forest",
+image: "/poi-images/wambe-forest-nature-v2.webp"
+},
     description: {
       de: "Ein geschütztes Waldgebiet in der Nähe des Bwindi-Nationalparks.",
       hu: "Védett erdőterület a Bwindi Nemzeti Park közelében.",
@@ -449,7 +501,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-301",
     coords: [32.2, 2.2],
-    name: { de: "Karuma-Fälle", hu: "Karuma-vízesés", ro: "Cascadele Karuma", en: "Karuma Falls" },
+    name: { de: "Karuma-Fälle", hu: "Karuma-vízesés", ro: "Cascadele Karuma", en: "Karuma Falls",
+image: "/poi-images/karuma-falls-nature-v2.webp"
+},
     description: {
       de: "Ein mächtiger Wasserfall auf dem Victoria-Nil.",
       hu: "Hatalmas vízesés a Viktória-Níluson.",
@@ -466,7 +520,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "island",
     parent: "UG-305",
     coords: [32.3, -0.3],
-    name: { de: "Ssese-Inseln", hu: "Ssese-szigetek", ro: "Insulele Ssese", en: "Ssese Islands" },
+    name: { de: "Ssese-Inseln", hu: "Ssese-szigetek", ro: "Insulele Ssese", en: "Ssese Islands",
+image: "/poi-images/ssese-islands-nature-v2.webp"
+},
     description: {
       de: "Eine Inselgruppe im nordwestlichen Teil des Viktoriasees.",
       hu: "Szigetcsoport a Viktória-tó északnyugati részén.",
@@ -483,7 +539,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-405",
     coords: [30.4, 0.4],
-    name: { de: "Kibale-Fluss", hu: "Kibale-folyó", ro: "Râul Kibale", en: "Kibale River" },
+    name: { de: "Kibale-Fluss", hu: "Kibale-folyó", ro: "Râul Kibale", en: "Kibale River",
+image: "/poi-images/kibale-river-nature-v2.webp"
+},
     description: {
       de: "Ein kleiner Fluss, der den Kibale-Nationalpark durchfließt.",
       hu: "Kis folyó, amely a Kibale Nemzeti Parkon keresztül folyik.",
@@ -500,7 +558,9 @@ export const poiExtraUgandaNatureV2: POI[] = [
     type: "river",
     parent: "UG-00",
     coords: [32.0, 3.5],
-    name: { de: "Nil", hu: "Nílus", ro: "Nil", en: "Nile" },
+    name: { de: "Nil", hu: "Nílus", ro: "Nil", en: "Nile",
+image: "/poi-images/nile-river-nature-v2.webp"
+},
     description: {
       de: "Der längste Fluss Afrikas, der Uganda durchquert.",
       hu: "Afrika leghosszabb folyója, amely átszeli Ugandát.",

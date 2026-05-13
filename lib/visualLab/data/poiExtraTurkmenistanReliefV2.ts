@@ -6,7 +6,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "desert",
     parent: "TM-A",
     coords: [59.0, 39.0],
-    name: { de: "Karakum-Wüste", hu: "Karakum-sivatag", ro: "Deșertul Karakum", en: "Karakum Desert" },
+    name: { de: "Karakum-Wüste", hu: "Karakum-sivatag", ro: "Deșertul Karakum", en: "Karakum Desert",
+image: "/poi-images/karakum-desert-relief-v2.webp"
+},
     description: {
       de: "Eine riesige Sandwüste, die mehr als siebzig Prozent der Fläche Turkmenistans bedeckt. Sie ist bekannt für ihre extremen Temperaturen und trockenen Landschaften.",
       hu: "Hatalmas homoksivatag, amely Türkmenisztán területének több mint hetven százalékát borítja. Szélsőséges hőmérsékleteiről és száraz tájairól ismert.",
@@ -24,7 +26,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "desert",
     parent: "TM-D",
     coords: [59.5, 40.5],
-    name: { de: "Zaunguz-Karakum", hu: "Zaunguz-Karakum", ro: "Karakumul Zaunguz", en: "Zaunguz Karakum" },
+    name: { de: "Zaunguz-Karakum", hu: "Zaunguz-Karakum", ro: "Karakumul Zaunguz", en: "Zaunguz Karakum",
+image: "/poi-images/zaunguz-karakum-relief-v2.webp"
+},
     description: {
       de: "Der nördlichste Teil der Karakum-Wüste, der durch die Unguz-Senke vom restlichen Wüstengebiet getrennt ist. Diese Region ist durch steile Klippen und raue Landschaften geprägt.",
       hu: "A Karakum-sivatag legészakibb része, amelyet az Unguz-mélyedés választ el a sivatag többi részétől. Ezt a régiót meredek sziklák és zord tájak jellemzik.",
@@ -42,7 +46,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "desert",
     parent: "TM-A",
     coords: [58.5, 39.5],
-    name: { de: "Zentrale Karakum", hu: "Közép-Karakum", ro: "Karakumul Central", en: "Central Karakum" },
+    name: { de: "Zentrale Karakum", hu: "Közép-Karakum", ro: "Karakumul Central", en: "Central Karakum",
+image: "/poi-images/central-karakum-relief-v2.webp"
+},
     description: {
       de: "Das Herzstück der Karakum-Wüste, geprägt von endlosen Sanddünen und spärlicher Vegetation. Es ist eine der lebensfeindlichsten, aber faszinierendsten Regionen des Landes.",
       hu: "A Karakum-sivatag szíve, amelyet végtelen homokdűnék és ritka növényzet jellemez. Az ország egyik legbarátságtalanabb, de leglenyűgözőbb vidéke.",
@@ -61,7 +67,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "desert",
     parent: "TM-M",
     coords: [61.0, 38.0],
-    name: { de: "Südöstliche Karakum", hu: "Délkeleti-Karakum", ro: "Karakumul de Sud-Est", en: "Southeastern Karakum" },
+    name: { de: "Südöstliche Karakum", hu: "Délkeleti-Karakum", ro: "Karakumul de Sud-Est", en: "Southeastern Karakum",
+image: "/poi-images/southeastern-karakum-relief-v2.webp"
+},
     description: {
       de: "Dieser Teil der Wüste liegt in der Nähe der Oasen von Mary und wird vom Murgab-Fluss beeinflusst. Historisch war es ein wichtiges Durchzugsgebiet für Karawanen.",
       hu: "A sivatag ezen része Mary oázisai közelében fekszik, és a Murgáb-folyó befolyása alatt áll. Történelmileg fontos tranzitterület volt a karavánok számára.",
@@ -80,7 +88,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "desert",
     parent: "TM-L",
     coords: [65.0, 37.5],
-    name: { de: "Sundukli-Wüste", hu: "Szundukli-sivatag", ro: "Deșertul Sundukli", en: "Sundukli Desert" },
+    name: { de: "Sundukli-Wüste", hu: "Szundukli-sivatag", ro: "Deșertul Sundukli", en: "Sundukli Desert",
+image: "/poi-images/sundukli-desert-relief-v2.webp"
+},
     description: {
       de: "Eine kleinere Wüstenregion im Osten Turkmenistans, die an den Amudarja-Fluss grenzt. Sie ist bekannt für ihre einzigartigen Sandformationen und Wüstenfauna.",
       hu: "Kisebb sivatagi régió Türkmenisztán keleti részén, amely az Amu-darja folyóval határos. Különleges homokformációiról és sivatagi faunájáról ismert.",
@@ -98,7 +108,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "plateau",
     parent: "TM-D",
     coords: [56.0, 41.5],
-    name: { de: "Üstjurt-Plateau", hu: "Üsztyurt-fennsík", ro: "Podișul Ustiurt", en: "Ustyurt Plateau" },
+    name: { de: "Üstjurt-Plateau", hu: "Üsztyurt-fennsík", ro: "Podișul Ustiurt", en: "Ustyurt Plateau",
+image: "/poi-images/ustyurt-plateau-tm-relief-v2.webp"
+},
     description: {
       de: "Eine riesige, lebensfeindliche Hochebene aus Kalkstein, die sich über den Nordwesten Turkmenistans erstreckt. Das Plateau fällt oft in dramatischen, steilen Klippen ab.",
       hu: "Hatalmas, barátságtalan mészkőfennsík, amely Türkmenisztán északnyugati részén húzódik. A fennsík gyakran drámai, meredek sziklákban végződik.",
@@ -116,7 +128,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "plateau",
     parent: "TM-D",
     coords: [56.5, 40.8],
-    name: { de: "Kaplankyr-Plateau", hu: "Kaplankir-fennsík", ro: "Podișul Kaplankîr", en: "Kaplankyr Plateau" },
+    name: { de: "Kaplankyr-Plateau", hu: "Kaplankir-fennsík", ro: "Podișul Kaplankîr", en: "Kaplankyr Plateau",
+image: "/poi-images/kaplankyr-plateau-relief-v2.webp"
+},
     description: {
       de: "Dieses raue Plateau bildet einen südlichen Ausläufer des Üstjurt-Plateaus. Es ist Heimat seltener Wüstenhuftiere wie der Saiga-Antilope.",
       hu: "Ez a zord fennsík az Üsztyurt-fennsík déli nyúlványa. Ritka sivatagi patások, például a szajga antilop otthona.",
@@ -134,7 +148,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "plateau",
     parent: "TM-B",
     coords: [53.5, 40.2],
-    name: { de: "Krasnowodsk-Plateau", hu: "Krasznovodszk-fennsík", ro: "Podișul Krasnovodsk", en: "Krasnovodsk Plateau" },
+    name: { de: "Krasnowodsk-Plateau", hu: "Krasznovodszk-fennsík", ro: "Podișul Krasnovodsk", en: "Krasnovodsk Plateau",
+image: "/poi-images/krasnovodsk-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine karge Hochebene im Westen des Landes, die an das Kaspische Meer grenzt. Das Plateau bietet atemberaubende Ausblicke auf die Küstenlandschaft.",
       hu: "Kopár fennsík az ország nyugati részén, amely a Kaszpi-tengerrel határos. A fennsík lenyűgöző kilátást nyújt a tengerparti tájra.",
@@ -153,7 +169,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "plateau",
     parent: "TM-M",
     coords: [62.5, 36.5],
-    name: { de: "Garabil-Hochebene", hu: "Garabil-fennsík", ro: "Podișul Garabil", en: "Garabil Plateau" },
+    name: { de: "Garabil-Hochebene", hu: "Garabil-fennsík", ro: "Podișul Garabil", en: "Garabil Plateau",
+image: "/poi-images/karabil-plateau-relief-v2.webp"
+},
     description: {
       de: "Eine sanft abfallende Hochebene im Südosten Turkmenistans, nahe der Grenze zu Afghanistan. Die Region ist von Steppenvegetation bedeckt und wird traditionell als Weideland genutzt.",
       hu: "Enyhén lejtős fennsík Türkmenisztán délkeleti részén, az afgán határ közelében. A régiót sztyeppei növényzet borítja, és hagyományosan legelőként használják.",
@@ -171,7 +189,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "plateau",
     parent: "TM-M",
     coords: [61.5, 35.8],
-    name: { de: "Badchys-Hügelland", hu: "Badhiz-dombság", ro: "Colinele Badhîz", en: "Badhyz Hills" },
+    name: { de: "Badchys-Hügelland", hu: "Badhiz-dombság", ro: "Colinele Badhîz", en: "Badhyz Hills",
+image: "/poi-images/badhyz-hills-relief-v2.webp"
+},
     description: {
       de: "Eine wellige, von Trockenheit geprägte Hügellandschaft im Süden Turkmenistans. Diese einzigartige Hochebene ist für ihre wilden Pistazienwälder bekannt.",
       hu: "Hullámzó, szárazság jellemezte dombság Türkmenisztán déli részén. Ez a különleges fennsík vad pisztáciaerdeiről ismert.",
@@ -189,7 +209,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "mountain",
     parent: "TM-L",
     coords: [66.5, 37.8],
-    name: { de: "Köýtendag-Gebirge", hu: "Kugitangtau-hegység", ro: "Munții Köýtendag", en: "Köýtendag Range" },
+    name: { de: "Köýtendag-Gebirge", hu: "Kugitangtau-hegység", ro: "Munții Köýtendag", en: "Köýtendag Range",
+image: "/poi-images/koytendag-range-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Gebirgszug im äußersten Osten Turkmenistans, der die höchsten Gipfel des Landes beherbergt. Hier finden sich spektakuläre Höhlensysteme und tiefe Schluchten.",
       hu: "Kiemelkedő hegylánc Türkmenisztán legkeletibb részén, amely az ország legmagasabb csúcsainak ad otthont. Látványos barlangrendszerek és mély szurdokok találhatók itt.",
@@ -207,7 +229,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "mountain",
     parent: "TM-B",
     coords: [54.5, 39.6],
-    name: { de: "Großer Balkan", hu: "Nagy-Balkán-hegység", ro: "Munții Balcani Mari", en: "Great Balkan Range" },
+    name: { de: "Großer Balkan", hu: "Nagy-Balkán-hegység", ro: "Munții Balcani Mari", en: "Great Balkan Range",
+image: "/poi-images/uly-balkan-relief-v2.webp"
+},
     description: {
       de: "Ein isoliertes Bergmassiv in der westlichen Wüstenlandschaft Turkmenistans. Die trockenen, felsigen Hänge erheben sich dramatisch aus der umliegenden flachen Steppe.",
       hu: "Elszigetelt hegymasszívum Türkmenisztán nyugati sivatagi táján. A száraz, sziklás lejtők drámaian emelkednek ki a környező lapos sztyeppéből.",
@@ -225,7 +249,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "mountain",
     parent: "TM-B",
     coords: [54.8, 39.3],
-    name: { de: "Kleiner Balkan", hu: "Kis-Balkán-hegység", ro: "Munții Balcani Mici", en: "Little Balkan Range" },
+    name: { de: "Kleiner Balkan", hu: "Kis-Balkán-hegység", ro: "Munții Balcani Mici", en: "Little Balkan Range",
+image: "/poi-images/kici-balkan-relief-v2.webp"
+},
     description: {
       de: "Der kleinere Zwillingsbruder des Großen Balkans liegt südlich davon. Das Gebirge ist für seine komplexen geologischen Faltungen und Fossilienfunde bekannt.",
       hu: "A Nagy-Balkán-hegység kisebb ikertestvére tőle délre található. A hegység összetett geológiai gyűrődéseiről és fosszília leleteiről ismert.",
@@ -243,7 +269,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "mountain",
     parent: "TM-B",
     coords: [56.2, 38.5],
-    name: { de: "Berg Sünt", hu: "Szünt-hegy", ro: "Muntele Sünt", en: "Mount Syunt" },
+    name: { de: "Berg Sünt", hu: "Szünt-hegy", ro: "Muntele Sünt", en: "Mount Syunt",
+image: "/poi-images/syunt-peak-relief-v2.webp"
+},
     description: {
       de: "Ein markanter Berggipfel im westlichen Teil des Kopet-Dag-Gebirges. Diese Region zeichnet sich durch eine erstaunliche Pflanzenvielfalt und raue Bergpanoramen aus.",
       hu: "Jellegzetes hegycsúcs a Kopet-dag hegység nyugati részén. Ezt a régiót lenyűgöző növényi sokféleség és zord hegyi panorámák jellemzik.",
@@ -261,7 +289,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "mountain",
     parent: "TM-B",
     coords: [56.3, 38.4],
-    name: { de: "Hasardag-Gebirge", hu: "Haszardag-hegység", ro: "Muntele Hasardag", en: "Hasardag Range" },
+    name: { de: "Hasardag-Gebirge", hu: "Haszardag-hegység", ro: "Muntele Hasardag", en: "Hasardag Range",
+image: "/poi-images/hasardag-peak-relief-v2.webp"
+},
     description: {
       de: "Ein schroffer Bergkamm, der mit dem Sünt-Gipfel ein wichtiges ökologisches Refugium bildet. Die steilen Hänge bieten Lebensraum für zahlreiche seltene Tier- und Pflanzenarten.",
       hu: "Zord hegygerinc, amely a Szünt-csúccsal együtt fontos ökológiai menedéket alkot. A meredek lejtők számos ritka állat- és növényfajnak adnak otthont.",
@@ -279,7 +309,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "valley",
     parent: "TM-B",
     coords: [54.5, 39.0],
-    name: { de: "Uzboy-Tal", hu: "Uzboj-völgy", ro: "Valea Uzboi", en: "Uzboy Valley" },
+    name: { de: "Uzboy-Tal", hu: "Uzboj-völgy", ro: "Valea Uzboi", en: "Uzboy Valley",
+image: "/poi-images/uzboy-valley-relief-v2.webp"
+},
     description: {
       de: "Das trockene Flussbett eines historischen Wasserlaufs, der einst den Amudarja mit dem Kaspischen Meer verband. Heute schlängelt sich das Tal als dramatische Senke durch die Wüste.",
       hu: "Egy történelmi vízfolyás kiszáradt medre, amely egykor az Amu-darját kötötte össze a Kaszpi-tengerrel. Ma a völgy drámai mélyedésként kanyarog át a sivatagon.",
@@ -297,7 +329,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "valley",
     parent: "TM-B",
     coords: [56.0, 38.3],
-    name: { de: "Sumbar-Tal", hu: "Szumbar-völgy", ro: "Valea Sumbar", en: "Sumbar Valley" },
+    name: { de: "Sumbar-Tal", hu: "Szumbar-völgy", ro: "Valea Sumbar", en: "Sumbar Valley",
+image: "/poi-images/sumbar-valley-relief-v2.webp"
+},
     description: {
       de: "Ein malerisches Flusstal im Südwesten, bekannt für sein mildes Mikroklima. Es wird intensiv für Landwirtschaft und Obstbau, wie Granatapfel- und Feigenhaine, genutzt.",
       hu: "Festői folyóvölgy délnyugaton, amely enyhe mikroklímájáról ismert. Intenzíven használják mezőgazdaságra és gyümölcstermesztésre, például gránátalma- és fügeligetekre.",
@@ -316,7 +350,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "valley",
     parent: "TM-M",
     coords: [61.5, 37.5],
-    name: { de: "Murgab-Tal", hu: "Murgáb-völgy", ro: "Valea Murghab", en: "Murghab Valley" },
+    name: { de: "Murgab-Tal", hu: "Murgáb-völgy", ro: "Valea Murghab", en: "Murghab Valley",
+image: "/poi-images/murghab-valley-relief-v2.webp"
+},
     description: {
       de: "Dieses fruchtbare Flusstal bildet eine wichtige Oase inmitten der trockenen Karakum-Wüste. Historisch war das Tal das Zentrum der mächtigen antiken Stadt Merw.",
       hu: "Ez a termékeny folyóvölgy egy fontos oázist alkot a száraz Karakum-sivatag közepén. Történelmileg a völgy a hatalmas ókori Merv városának központja volt.",
@@ -334,7 +370,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "coast",
     parent: "TM-B",
     coords: [53.0, 41.5],
-    name: { de: "Gara-Bogas-Gol-Küste", hu: "Kara-Bogaz-Gol partvidék", ro: "Coasta Garabogazköl", en: "Garabogazköl Coast" },
+    name: { de: "Gara-Bogas-Gol-Küste", hu: "Kara-Bogaz-Gol partvidék", ro: "Coasta Garabogazköl", en: "Garabogazköl Coast",
+image: "/poi-images/garabogazkol-coast-relief-v2.webp"
+},
     description: {
       de: "Eine isolierte Küstenregion an der flachen Lagune des Kaspischen Meeres. Das Gebiet ist extrem salzhaltig und von weißen, kristallinen Stränden geprägt.",
       hu: "Elszigetelt partvidék a Kaszpi-tenger sekély lagúnájánál. A terület rendkívül sós, és fehér, kristályos strandok jellemzik.",
@@ -352,7 +390,9 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     type: "coast",
     parent: "TM-B",
     coords: [53.0, 39.9],
-    name: { de: "Türkmenbaşy-Küste", hu: "Türkmenbaşy-öböl partvidéke", ro: "Coasta Golfului Türkmenbașî", en: "Türkmenbaşy Gulf Coast" },
+    name: { de: "Türkmenbaşy-Küste", hu: "Türkmenbaşy-öböl partvidéke", ro: "Coasta Golfului Türkmenbașî", en: "Türkmenbaşy Gulf Coast",
+image: "/poi-images/turkmenbashi-gulf-coast-relief-v2.webp"
+},
     description: {
       de: "Dieser Küstenabschnitt am Kaspischen Meer zeichnet sich durch geschützte Buchten und wichtige Feuchtgebiete aus. Er bietet eine Raststätte für Millionen von Zugvögeln.",
       hu: "Ez a Kaszpi-tenger menti partszakasz védett öblökkel és fontos vizes élőhelyekkel rendelkezik. Vonuló madarak millióinak nyújt pihenőhelyet.",

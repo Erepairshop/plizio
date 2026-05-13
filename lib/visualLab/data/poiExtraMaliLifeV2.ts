@@ -11,8 +11,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Boucle du Baoulé Nationalpark",
       hu: "Boucle du Baoulé Nemzeti Park",
       ro: "Parcul Național Boucle du Baoulé",
-      en: "Boucle du Baoulé National Park"
-    },
+      en: "Boucle du Baoulé National Park",
+image: "/poi-images/boucle-du-baoule-life-v2.webp"
+},
     description: {
       de: "Ein Schutzgebiet für verschiedene westafrikanische Wildtiere, darunter Giraffen und Antilopen.",
       hu: "Védett terület számos nyugat-afrikai vadállat, köztük zsiráfok és antilopok számára.",
@@ -41,8 +42,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Office du Niger Reisfelder",
       hu: "Office du Niger rizsföldek",
       ro: "Orezăriile Office du Niger",
-      en: "Office du Niger rice fields"
-    },
+      en: "Office du Niger rice fields",
+image: "/poi-images/office-du-niger-life-v2.webp"
+},
     description: {
       de: "Eines der größten Bewässerungssysteme Afrikas für den intensiven Reisanbau.",
       hu: "Afrika egyik legnagyobb öntözőrendszere az intenzív rizstermesztéshez.",
@@ -71,8 +73,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Zoologischer Garten von Bamako",
       hu: "Bamakói Állatkert",
       ro: "Grădina Zoologică din Bamako",
-      en: "Bamako Zoological Garden"
-    },
+      en: "Bamako Zoological Garden",
+image: "/poi-images/bamako-zoo-life-v2.webp"
+},
     description: {
       de: "Ein beliebtes Ausflugsziel für Familien mit einheimischen Tierarten.",
       hu: "Népszerű kirándulóhely családoknak őshonos állatfajokkal.",
@@ -101,8 +104,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Inneres Nigerdelta",
       hu: "Niger-beltéri delta",
       ro: "Delta interioară a Nigerului",
-      en: "Inner Niger Delta"
-    },
+      en: "Inner Niger Delta",
+image: "/poi-images/delta-interieur-niger-life-v2.webp"
+},
     description: {
       de: "Ein gigantisches Feuchtgebiet, das während der Flutzeit zum Lebensraum für Millionen Zugvögel wird.",
       hu: "Gigantikus vizes élőhely, amely az áradás idején millió költözőmadár otthona lesz.",
@@ -131,8 +135,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Bafing Tierreservat",
       hu: "Bafing állatrezervátum",
       ro: "Rezervația faunistică Bafing",
-      en: "Bafing Faunal Reserve"
-    },
+      en: "Bafing Faunal Reserve",
+image: "/poi-images/bafing-faunal-reserve-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Schutzgebiet für den Westlichen Schimpansen.",
       hu: "Fontos védett terület a nyugati csimpánzok számára.",
@@ -161,8 +166,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Gourma Elefanten-Habitat",
       hu: "Gourma elefánt élőhely",
       ro: "Habitatul elefanților din Gourma",
-      en: "Gourma Elephant Habitat"
-    },
+      en: "Gourma Elephant Habitat",
+image: "/poi-images/gourma-elephant-habitat-life-v2.webp"
+},
     description: {
       de: "Eine der nördlichsten Elefantenpopulationen der Welt, die in einer Wüstenregion überlebt.",
       hu: "A világ egyik legészakibb elefántpopulációja, amely sivatagi környezetben él túl.",
@@ -191,8 +197,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Sibi landwirtschaftliche Zone",
       hu: "Sibi mezőgazdasági övezet",
       ro: "Zona agricolă Sibi",
-      en: "Sibi agricultural zone"
-    },
+      en: "Sibi agricultural zone",
+image: "/poi-images/sibi-agricultural-zone-life-v2.webp"
+},
     description: {
       de: "Ein Gebiet für traditionellen Ackerbau und Gartenbau nahe Bamako.",
       hu: "Hagyományos mezőgazdasági és kertészeti terület Bamakó közelében.",
@@ -214,8 +221,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Djenné Gartenviertel",
       hu: "Djenné kertnegyed",
       ro: "Cartierul grădinilor din Djenné",
-      en: "Djenné Garden District"
-    },
+      en: "Djenné Garden District",
+image: "/poi-images/djenne-garden-district-life-v2.webp"
+},
     description: {
       de: "Ein historisches Gebiet, bekannt für seine fruchtbaren Hausgärten in der Lehmstadt.",
       hu: "Történelmi terület, amely híres termékeny házi kertjeiről a vályogvárosban.",
@@ -237,8 +245,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Mopti Fischereihafen",
       hu: "Mopti halászkikötő",
       ro: "Portul pescăresc Mopti",
-      en: "Mopti fishing port"
-    },
+      en: "Mopti fishing port",
+image: "/poi-images/mopti-fishing-culture-life-v2.webp"
+},
     description: {
       de: "Ein lebendiger Hafen, an dem Boote entladen werden und Kinder die Welt des Fischfangs entdecken können.",
       hu: "Nyüzsgő kikötő, ahol a csónakokat rakodják, és a gyerekek felfedezhetik a halászat világát.",
@@ -260,8 +269,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Ségou Obstmarkt",
       hu: "Ségou gyümölcspiac",
       ro: "Piața de fructe din Ségou",
-      en: "Ségou fruit market"
-    },
+      en: "Ségou fruit market",
+image: "/poi-images/segou-fruit-market-life-v2.webp"
+},
     description: {
       de: "Ein farbenfroher Ort mit einer großen Vielfalt an regionalem Obst.",
       hu: "Színpompás hely, ahol nagy választékban kaphatók regionális gyümölcsök.",
@@ -283,8 +293,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Grenzwald Mali-Guinea",
       hu: "Mali-Guinea határerdeje",
       ro: "Pădurea de frontieră Mali-Guineea",
-      en: "Mali-Guinea border forest"
-    },
+      en: "Mali-Guinea border forest",
+image: "/poi-images/guinean-border-wildlife-life-v2.webp"
+},
     description: {
       de: "Ein dicht bewaldetes Schutzgebiet entlang der Grenze, bekannt für seine Artenvielfalt.",
       hu: "Sűrű erdős védett terület a határ mentén, amely ismert biodiverzitásáról.",
@@ -306,8 +317,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Kayes Obstplantagen",
       hu: "Kayes gyümölcsültetvények",
       ro: "Livezile din Kayes",
-      en: "Kayes orchards"
-    },
+      en: "Kayes orchards",
+image: "/poi-images/kayes-orchards-life-v2.webp"
+},
     description: {
       de: "Kleine landwirtschaftliche Betriebe, die sich auf den Anbau von Mangos und Zitrusfrüchten spezialisiert haben.",
       hu: "Kis mezőgazdasági vállalkozások, amelyek mangó- és citrusfélék termesztésére szakosodtak.",
@@ -329,8 +341,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Sikasso Parkanlagen",
       hu: "Sikasso parkjai",
       ro: "Parcurile din Sikasso",
-      en: "Sikasso parks"
-    },
+      en: "Sikasso parks",
+image: "/poi-images/sikasso-garden-life-v2.webp"
+},
     description: {
       de: "Eine grüne Stadt mit vielen Parks, die für ihre Blumenpracht bekannt ist.",
       hu: "Zöld város, sok parkkal, amely virágpompájáról ismert.",
@@ -353,8 +366,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Niger-Vogelschutzgebiet",
       hu: "Niger madárvédelmi terület",
       ro: "Rezervația de păsări de pe Niger",
-      en: "Niger bird sanctuary"
-    },
+      en: "Niger bird sanctuary",
+image: "/poi-images/niger-river-bird-sanctuary-life-v2.webp"
+},
     description: {
       de: "Ein Uferabschnitt, an dem Wasservögel in großer Zahl beobachtet werden können.",
       hu: "Parti szakasz, ahol nagy számban figyelhetők meg vízimadarak.",
@@ -376,8 +390,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Fatoma Viehmarkt",
       hu: "Fatoma állatvásár",
       ro: "Târgul de animale din Fatoma",
-      en: "Fatoma cattle market"
-    },
+      en: "Fatoma cattle market",
+image: "/poi-images/fatoma-cattle-market-life-v2.webp"
+},
     description: {
       de: "Ein wichtiger Handelsort für Vieh, der die regionale Landwirtschaft prägt.",
       hu: "Fontos kereskedelmi hely az állatállomány számára, amely meghatározza a regionális mezőgazdaságot.",
@@ -400,8 +415,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Goundam Feuchtgebiete",
       hu: "Goundam vizes élőhelyek",
       ro: "Zonele umede din Goundam",
-      en: "Goundam wetlands"
-    },
+      en: "Goundam wetlands",
+image: "/poi-images/goundam-wetlands-life-v2.webp"
+},
     description: {
       de: "Wichtige Wasserquellen am Rande der Sahara, die für lokale Tiere und Vieh essenziell sind.",
       hu: "Fontos vízforrások a Szahara szélén, amelyek alapvetőek a helyi állatok és haszonállatok számára.",
@@ -423,8 +439,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Koulikoro Uferpark",
       hu: "Koulikoro parti park",
       ro: "Parcul de pe malul râului din Koulikoro",
-      en: "Koulikoro riverside park"
-    },
+      en: "Koulikoro riverside park",
+image: "/poi-images/koulikoro-gardens-life-v2.webp"
+},
     description: {
       de: "Ein entspannender Park am Niger für Familien und Kinder.",
       hu: "Pihentető park a Niger folyó mentén családoknak és gyerekeknek.",
@@ -446,8 +463,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "San landwirtschaftliches Zentrum",
       hu: "San mezőgazdasági központ",
       ro: "Centrul agricol San",
-      en: "San agricultural hub"
-    },
+      en: "San agricultural hub",
+image: "/poi-images/san-agricultural-hub-life-v2.webp"
+},
     description: {
       de: "Ein wichtiger Marktort für Getreide und Baumwolle in Mali.",
       hu: "Fontos piactér gabonafélék és gyapot számára Maliban.",
@@ -470,8 +488,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Timbuktu Palmenhaine",
       hu: "Timbuktu pálmaligetek",
       ro: "Pădurile de palmieri din Timbuktu",
-      en: "Timbuktu palm groves"
-    },
+      en: "Timbuktu palm groves",
+image: "/poi-images/timbuktu-palm-groves-life-v2.webp"
+},
     description: {
       de: "Traditionelle Dattelpalmen-Haine am Rande der Wüste, ein faszinierendes Bild.",
       hu: "Hagyományos datolyapálma-ligetek a sivatag szélén, lenyűgöző látvány.",
@@ -493,8 +512,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Goundam Viehhaltung",
       hu: "Goundam állattartás",
       ro: "Creșterea animalelor în Goundam",
-      en: "Goundam livestock"
-    },
+      en: "Goundam livestock",
+image: "/poi-images/goundam-livestock-life-v2.webp"
+},
     description: {
       de: "Regionale Landwirtschaft mit Fokus auf traditionelle Zucht von Rindern und Ziegen.",
       hu: "Regionális mezőgazdaság, fókuszban a szarvasmarha- és kecsketenyésztés.",
@@ -516,8 +536,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Bamako Marktplatz Vielfalt",
       hu: "Bamako piaci sokféleség",
       ro: "Diversitatea pieței din Bamako",
-      en: "Bamako marketplace variety"
-    },
+      en: "Bamako marketplace variety",
+image: "/poi-images/bamako-market-life-v2.webp"
+},
     description: {
       de: "Ein lebendiger Ort, an dem Kinder bunte Waren aus ganz Mali sehen können.",
       hu: "Nyüzsgő hely, ahol a gyerekek színes árukat láthatnak egész Maliból.",
@@ -539,8 +560,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Niger-Ufer Ségou",
       hu: "Niger-part Ségou",
       ro: "Malul Nigerului în Ségou",
-      en: "Niger riverside Ségou"
-    },
+      en: "Niger riverside Ségou",
+image: "/poi-images/segou-river-wildlife-life-v2.webp"
+},
     description: {
       de: "Ein Naturgebiet am Flussufer, perfekt für Vogelbeobachtungen.",
       hu: "Természeti terület a folyóparton, tökéletes madármegfigyeléshez.",
@@ -562,8 +584,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Sikasso Mango-Farm",
       hu: "Sikasso mangófarm",
       ro: "Ferma de mango din Sikasso",
-      en: "Sikasso mango farm"
-    },
+      en: "Sikasso mango farm",
+image: "/poi-images/sikasso-mango-farm-life-v2.webp"
+},
     description: {
       de: "Eine der vielen Farmen, die Sikasso zum 'Obstgarten Malis' machen.",
       hu: "Egy a sok farm közül, amelyek Sikassót 'Mali gyümölcsöskertjévé' teszik.",
@@ -585,8 +608,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Kayes Marktvielfalt",
       hu: "Kayes piaci sokféleség",
       ro: "Diversitatea pieței din Kayes",
-      en: "Kayes market variety"
-    },
+      en: "Kayes market variety",
+image: "/poi-images/kayes-market-life-v2.webp"
+},
     description: {
       de: "Ein geschäftiger Markt mit regionalen Handwerksprodukten.",
       hu: "Nyüzsgő piac regionális kézműves termékekkel.",
@@ -608,8 +632,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Mopti Uferpromenade",
       hu: "Mopti parti sétány",
       ro: "Faleza din Mopti",
-      en: "Mopti promenade"
-    },
+      en: "Mopti promenade",
+image: "/poi-images/mopti-garden-life-v2.webp"
+},
     description: {
       de: "Ein beliebter Spazierweg entlang des Wassers, ideal für Familien.",
       hu: "Népszerű sétaút a víz mentén, ideális családoknak.",
@@ -631,8 +656,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Timbuktu Wüstengarten",
       hu: "Timbuktu sivatagi kert",
       ro: "Grădina deșertică din Timbuktu",
-      en: "Timbuktu desert garden"
-    },
+      en: "Timbuktu desert garden",
+image: "/poi-images/timbuktu-garden-life-v2.webp"
+},
     description: {
       de: "Eine kleine grüne Oase, die zeigt, wie Gartenbau in der Wüste funktioniert.",
       hu: "Kicsi zöld oázis, amely megmutatja, hogyan működik a kertészet a sivatagban.",
@@ -654,8 +680,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "San Marktvielfalt",
       hu: "San piaci sokféleség",
       ro: "Diversitatea pieței din San",
-      en: "San market variety"
-    },
+      en: "San market variety",
+image: "/poi-images/san-market-life-v2.webp"
+},
     description: {
       de: "Ein bunter Markt mit einer Auswahl an lokalen Gütern.",
       hu: "Színes piac választékos helyi árukkal.",
@@ -677,8 +704,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Goundam Hausgärten",
       hu: "Goundam házi kertek",
       ro: "Grădinile casnice din Goundam",
-      en: "Goundam home gardens"
-    },
+      en: "Goundam home gardens",
+image: "/poi-images/goundam-garden-life-v2.webp"
+},
     description: {
       de: "Kleine private Gärten, die das Stadtbild grüner machen.",
       hu: "Kis magánkertek, amelyek zöldebbé teszik a városképet.",
@@ -700,8 +728,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Koulikoro Markttreiben",
       hu: "Koulikoro piaci forgatag",
       ro: "Activitatea pieței din Koulikoro",
-      en: "Koulikoro market activity"
-    },
+      en: "Koulikoro market activity",
+image: "/poi-images/koulikoro-market-life-v2.webp"
+},
     description: {
       de: "Ein lebendiger Markt, der die lokale Kultur widerspiegelt.",
       hu: "Nyüzsgő piac, amely tükrözi a helyi kultúrát.",
@@ -723,8 +752,9 @@ export const poiExtraMaliLifeV2: POI[] = [
       de: "Sikasso Naturpfad",
       hu: "Sikasso tanösvény",
       ro: "Poteca naturală din Sikasso",
-      en: "Sikasso nature trail"
-    },
+      en: "Sikasso nature trail",
+image: "/poi-images/sikasso-nature-life-v2.webp"
+},
     description: {
       de: "Ein Pfad durch die umliegende grüne Landschaft, ideal für Naturfreunde.",
       hu: "Ösvény a környező zöld tájon át, ideális természetbarátoknak.",

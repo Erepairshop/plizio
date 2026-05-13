@@ -11,8 +11,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Basilika Notre-Dame de la Paix",
       hu: "Miasszonyunk a Béke Királynője Bazilika",
       ro: "Bazilica Notre-Dame de la Paix",
-      en: "Basilica of Our Lady of Peace"
-    },
+      en: "Basilica of Our Lady of Peace",
+image: "/poi-images/basilique-notre-dame-de-la-paix-landmarks-v2.webp"
+},
     description: {
       de: "Die Basilika in Yamoussoukro ist eine der größten Kirchen der Welt und wurde nach dem Vorbild des Petersdoms erbaut.",
       hu: "A Yamoussoukróban található bazilika a világ egyik legnagyobb temploma, amelyet a római Szent Péter-bazilika mintájára építettek.",
@@ -62,8 +63,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "St. Pauls Kathedrale",
       hu: "Szent Pál-székesegyház",
       ro: "Catedrala Sfântul Paul",
-      en: "St. Paul's Cathedral"
-    },
+      en: "St. Paul's Cathedral",
+image: "/poi-images/st-paul-cathedral-abidjan-landmarks-v2.webp"
+},
     description: {
       de: "Die römisch-katholische Kathedrale in Abidjan ist bekannt für ihre einzigartige moderne Architektur mit einem markanten Turm.",
       hu: "Az abidjani római katolikus katedrális egyedi, modern építészetéről és jellegzetes tornyáról ismert.",
@@ -113,8 +115,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Große Moschee der Riviera Golf",
       hu: "Riviera Golf Nagy Mecset",
       ro: "Marea Moschee Riviera Golf",
-      en: "Grande Mosquée de la Riviera Golf"
-    },
+      en: "Grande Mosquée de la Riviera Golf",
+image: "/poi-images/grande-mosquee-riviera-golf-landmarks-v2.webp"
+},
     description: {
       de: "Diese große und elegante Moschee in Abidjan ist ein wichtiges religiöses Zentrum für die muslimische Gemeinschaft der Stadt.",
       hu: "Ez a nagy és elegáns abidjani mecset a város muszlim közösségének fontos vallási központja.",
@@ -164,8 +167,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Moschee von Plateau",
       hu: "Plateau Mecset",
       ro: "Moscheea din Plateau",
-      en: "Plateau Mosque"
-    },
+      en: "Plateau Mosque",
+image: "/poi-images/mosquee-du-plateau-landmarks-v2.webp"
+},
     description: {
       de: "Ein herausragendes islamisches Bauwerk im Geschäftsviertel von Abidjan mit einem markanten blauen Dach.",
       hu: "Kiemelkedő iszlám építmény Abidjan üzleti negyedében, amely jellegzetes kék tetővel rendelkezik.",
@@ -212,8 +216,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "La Pyramide",
       hu: "A Piramis",
       ro: "La Pyramide",
-      en: "La Pyramide"
-    },
+      en: "La Pyramide",
+image: "/poi-images/la-pyramide-abidjan-landmarks-v2.webp"
+},
     description: {
       de: "Ein markantes pyramidenförmiges Hochhaus in Abidjan, das in den 1970er Jahren als Symbol des ivorischen Wirtschaftswunders erbaut wurde.",
       hu: "Egy jellegzetes, piramis alakú toronyház Abidjanban, amely az 1970-es években épült az elefántcsontparti gazdasági csoda szimbólumaként.",
@@ -260,8 +265,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Olympiastadion Alassane Ouattara",
       hu: "Alassane Ouattara Olimpiai Stadion",
       ro: "Stadionul Olimpic Alassane Ouattara",
-      en: "Alassane Ouattara Olympic Stadium"
-    },
+      en: "Alassane Ouattara Olympic Stadium",
+image: "/poi-images/stade-olympique-ebimpe-landmarks-v2.webp"
+},
     description: {
       de: "Das größte Stadion der Elfenbeinküste, auch bekannt als Nationalstadion, war der Hauptaustragungsort des Afrika-Cups 2023.",
       hu: "Elefántcsontpart legnagyobb stadionja, más néven Nemzeti Stadion, a 2023-as Afrikai Nemzetek Kupájának fő helyszíne volt.",
@@ -308,8 +314,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Stade Félix Houphouët-Boigny",
       hu: "Félix Houphouët-Boigny Stadion",
       ro: "Stadionul Félix Houphouët-Boigny",
-      en: "Félix Houphouët-Boigny Stadium"
-    },
+      en: "Félix Houphouët-Boigny Stadium",
+image: "/poi-images/stade-felix-houphouet-boigny-landmarks-v2.webp"
+},
     description: {
       de: "Dieses historische Multifunktionsstadion in Abidjan ist nach dem ersten Präsidenten der Elfenbeinküste benannt.",
       hu: "Ez a történelmi, többcélú abidjani stadion Elefántcsontpart első elnökéről kapta a nevét.",
@@ -356,8 +363,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Henri-Konan-Bédié-Brücke",
       hu: "Henri-Konan-Bédié híd",
       ro: "Podul Henri-Konan-Bédié",
-      en: "Henri-Konan-Bédié Bridge"
-    },
+      en: "Henri-Konan-Bédié Bridge",
+image: "/poi-images/pont-henri-konan-bedie-landmarks-v2.webp"
+},
     description: {
       de: "Eine wichtige mautpflichtige Straßenbrücke in Abidjan, die die Stadtteile Riviera und Marcory über die Ébrié-Lagune verbindet.",
       hu: "Egy fontos fizetős közúti híd Abidjanban, amely a Riviera és Marcory negyedeket köti össze az Ébrié-lagúnán keresztül.",
@@ -404,8 +412,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Alassane-Ouattara-Brücke",
       hu: "Alassane-Ouattara híd",
       ro: "Podul Alassane-Ouattara",
-      en: "Alassane Ouattara Bridge"
-    },
+      en: "Alassane Ouattara Bridge",
+image: "/poi-images/pont-alassane-ouattara-landmarks-v2.webp"
+},
     description: {
       de: "Eine spektakuläre Schrägseilbrücke in Abidjan, die die Stadtteile Cocody und Plateau elegant miteinander verbindet.",
       hu: "Látványos ferdekábeles híd Abidjanban, amely elegánsan köti össze a Cocody és a Plateau negyedeket.",
@@ -452,8 +461,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Hôtel Ivoire Turm",
       hu: "Hôtel Ivoire torony",
       ro: "Turnul Hôtel Ivoire",
-      en: "Hôtel Ivoire Tower"
-    },
+      en: "Hôtel Ivoire Tower",
+image: "/poi-images/tour-hotel-ivoire-landmarks-v2.webp"
+},
     description: {
       de: "Das berühmteste Luxushotel in Abidjan, bekannt für seinen hohen Turm und seine umfangreichen Freizeiteinrichtungen.",
       hu: "A leghíresebb luxusszálloda Abidjanban, amely magas tornyáról és kiterjedt szabadidős létesítményeiről ismert.",
@@ -500,8 +510,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Museum der Zivilisationen von Côte d'Ivoire",
       hu: "Elefántcsontparti Civilizációk Múzeuma",
       ro: "Muzeul Civilizațiilor din Côte d'Ivoire",
-      en: "Museum of Civilizations of Côte d'Ivoire"
-    },
+      en: "Museum of Civilizations of Côte d'Ivoire",
+image: "/poi-images/musee-des-civilisations-landmarks-v2.webp"
+},
     description: {
       de: "Das wichtigste Museum in Abidjan, das das reiche kulturelle und historische Erbe der Elfenbeinküste präsentiert.",
       hu: "A legfontosabb múzeum Abidjanban, amely bemutatja Elefántcsontpart gazdag kulturális és történelmi örökségét.",
@@ -548,8 +559,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Félix Houphouët-Boigny Stiftung für Friedensforschung",
       hu: "Félix Houphouët-Boigny Békekutató Alapítvány",
       ro: "Fundația Félix Houphouët-Boigny pentru Cercetarea Păcii",
-      en: "Félix Houphouët-Boigny Foundation for Peace Research"
-    },
+      en: "Félix Houphouët-Boigny Foundation for Peace Research",
+image: "/poi-images/fondation-felix-houphouet-boigny-landmarks-v2.webp"
+},
     description: {
       de: "Ein monumentales Gebäude in Yamoussoukro, das der Friedensforschung und dem Erbe des ersten Präsidenten gewidmet ist.",
       hu: "Egy monumentális épület Yamoussoukróban, amelyet a békekutatásnak és az első elnök örökségének szenteltek.",
@@ -596,8 +608,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Präsidentenpalast Yamoussoukro",
       hu: "Yamoussoukrói Elnöki Palota",
       ro: "Palatul Prezidențial Yamoussoukro",
-      en: "Presidential Palace Yamoussoukro"
-    },
+      en: "Presidential Palace Yamoussoukro",
+image: "/poi-images/palais-presidentiel-yamoussoukro-landmarks-v2.webp"
+},
     description: {
       de: "Der weitläufige Komplex des Präsidentenpalastes ist berühmt für seinen künstlichen See, in dem heilige Krokodile leben.",
       hu: "Az elnöki palota kiterjedt komplexuma híres a mesterséges taváról, amelyben szent krokodilok élnek.",
@@ -644,8 +657,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Große Moschee von Kong",
       hu: "Kongi Nagy Mecset",
       ro: "Marea Moschee din Kong",
-      en: "Great Mosque of Kong"
-    },
+      en: "Great Mosque of Kong",
+image: "/poi-images/grande-mosquee-de-kong-landmarks-v2.webp"
+},
     description: {
       de: "Diese historische Moschee im sudanesischen Architekturstil aus Lehm ist ein Symbol des alten Kong-Reiches.",
       hu: "Ez a történelmi, szudáni stílusú, vályogból épült mecset a régi Kong Birodalom szimbóluma.",
@@ -692,8 +706,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Moschee von Tingréla",
       hu: "Tingréla Mecset",
       ro: "Moscheea din Tingréla",
-      en: "Tingréla Mosque"
-    },
+      en: "Tingréla Mosque",
+image: "/poi-images/mosquee-de-tingrela-landmarks-v2.webp"
+},
     description: {
       de: "Ein weiteres hervorragendes Beispiel für die traditionelle sudanesisch-sahelische Lehmarchitektur im Norden der Elfenbeinküste.",
       hu: "A hagyományos szudáni-szaheli vályogépítészet újabb kiváló példája Elefántcsontpart északi részén.",
@@ -740,8 +755,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "St. Teresa Kathedrale Bouaké",
       hu: "Bouakéi Szent Teréz-katedrális",
       ro: "Catedrala Sfânta Tereza din Bouaké",
-      en: "St. Teresa Cathedral Bouaké"
-    },
+      en: "St. Teresa Cathedral Bouaké",
+image: "/poi-images/cathedrale-sainte-therese-bouake-landmarks-v2.webp"
+},
     description: {
       de: "Eine bedeutende katholische Kathedrale in der zweitgrößten Stadt des Landes, die für ihre auffällige Architektur bekannt ist.",
       hu: "Jelentős katolikus katedrális az ország második legnagyobb városában, amely feltűnő építészetéről ismert.",
@@ -788,8 +804,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Friedensstadion Bouaké",
       hu: "Bouakéi Béke Stadion",
       ro: "Stadionul Păcii din Bouaké",
-      en: "Stadium of Peace Bouaké"
-    },
+      en: "Stadium of Peace Bouaké",
+image: "/poi-images/stade-de-la-paix-bouake-landmarks-v2.webp"
+},
     description: {
       de: "Das große Stadion in Bouaké wurde mehrfach renoviert und ist ein zentraler Austragungsort für wichtige Sportveranstaltungen.",
       hu: "A nagy bouakéi stadiont többször is felújították, és fontos sportesemények központi helyszíne.",
@@ -836,8 +853,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Charles Konan Banny Stadion",
       hu: "Charles Konan Banny Stadion",
       ro: "Stadionul Charles Konan Banny",
-      en: "Charles Konan Banny Stadium"
-    },
+      en: "Charles Konan Banny Stadium",
+image: "/poi-images/stade-charles-konan-banny-landmarks-v2.webp"
+},
     description: {
       de: "Ein modernes Fußballstadion in der politischen Hauptstadt Yamoussoukro, das für internationale Turniere gebaut wurde.",
       hu: "Modern futballstadion a politikai fővárosban, Yamoussoukróban, amelyet nemzetközi tornákra építettek.",
@@ -884,8 +902,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Amadou Gon Coulibaly Stadion",
       hu: "Amadou Gon Coulibaly Stadion",
       ro: "Stadionul Amadou Gon Coulibaly",
-      en: "Amadou Gon Coulibaly Stadium"
-    },
+      en: "Amadou Gon Coulibaly Stadium",
+image: "/poi-images/stade-amadou-gon-coulibaly-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges Stadion in der nördlichen Stadt Korhogo, das nach einem prominenten ivorischen Politiker benannt wurde.",
       hu: "Jelentős stadion az északi Korhogo városában, amelyet egy prominens elefántcsontparti politikusról neveztek el.",
@@ -932,8 +951,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Laurent Pokou Stadion",
       hu: "Laurent Pokou Stadion",
       ro: "Stadionul Laurent Pokou",
-      en: "Laurent Pokou Stadium"
-    },
+      en: "Laurent Pokou Stadium",
+image: "/poi-images/stade-laurent-pokou-landmarks-v2.webp"
+},
     description: {
       de: "Ein kürzlich errichtetes Stadion in der Hafenstadt San Pédro, das zu Ehren des legendären Fußballers Laurent Pokou benannt wurde.",
       hu: "Nemrég épült stadion San Pédro kikötővárosában, amelyet a legendás labdarúgó, Laurent Pokou tiszteletére neveztek el.",
@@ -980,8 +1000,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Kulturpalast Abidjan",
       hu: "Abidjani Kultúrpalota",
       ro: "Palatul Culturii din Abidjan",
-      en: "Palace of Culture Abidjan"
-    },
+      en: "Palace of Culture Abidjan",
+image: "/poi-images/palais-de-la-culture-landmarks-v2.webp"
+},
     description: {
       de: "Das größte kulturelle Veranstaltungszentrum in Abidjan, direkt an der Lagune gelegen, beherbergt Konzerte und Theatervorführungen.",
       hu: "Abidjan legnagyobb kulturális rendezvényközpontja, amely közvetlenül a lagúna partján található, és koncerteknek, valamint színházi előadásoknak ad otthont.",
@@ -1028,8 +1049,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "CCIA-Gebäude",
       hu: "CCIA-épület",
       ro: "Clădirea CCIA",
-      en: "CCIA Building"
-    },
+      en: "CCIA Building",
+image: "/poi-images/ccia-building-landmarks-v2.webp"
+},
     description: {
       de: "Einer der bekanntesten Wolkenkratzer im Geschäftsviertel von Abidjan, der nach seiner umfassenden Renovierung viele Büros beherbergt.",
       hu: "Az abidjani üzleti negyed egyik legismertebb felhőkarcolója, amely átfogó felújítása után számos irodának ad helyet.",
@@ -1076,8 +1098,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Postel 2001 Gebäude",
       hu: "Postel 2001 épület",
       ro: "Clădirea Postel 2001",
-      en: "Postel 2001 Building"
-    },
+      en: "Postel 2001 Building",
+image: "/poi-images/postel-2001-building-landmarks-v2.webp"
+},
     description: {
       de: "Ein weiteres markantes Hochhaus im Herzen von Abidjan, das historisch als Zentrale für Telekommunikation diente.",
       hu: "Egy másik jellegzetes toronyház Abidjan szívében, amely történelmileg a távközlés központjaként szolgált.",
@@ -1124,8 +1147,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Verwaltungsturm A",
       hu: "Közigazgatási Torony A",
       ro: "Turnul Administrativ A",
-      en: "Administrative Tower A"
-    },
+      en: "Administrative Tower A",
+image: "/poi-images/tour-administrative-a-landmarks-v2.webp"
+},
     description: {
       de: "Teil eines bedeutenden Regierungskomplexes im Zentrum von Abidjan, in dem verschiedene Ministerien untergebracht sind.",
       hu: "Egy jelentős kormányzati komplexum része Abidjan központjában, amelyben különböző minisztériumok találhatók.",
@@ -1172,8 +1196,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Gefallenendenkmal Treichville",
       hu: "Treichville-i Hősi Emlékmű",
       ro: "Monumentul Eroilor din Treichville",
-      en: "Treichville War Memorial"
-    },
+      en: "Treichville War Memorial",
+image: "/poi-images/monument-aux-morts-treichville-landmarks-v2.webp"
+},
     description: {
       de: "Ein wichtiges Denkmal in Abidjan, das den Soldaten gewidmet ist, die in den Weltkriegen für Frankreich gekämpft haben und gefallen sind.",
       hu: "Fontos emlékmű Abidjanban, amelyet a világháborúkban Franciaországért harcolt és elesett katonáknak szenteltek.",
@@ -1220,8 +1245,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Justizpalast Abidjan",
       hu: "Abidjani Igazságügyi Palota",
       ro: "Palatul de Justiție din Abidjan",
-      en: "Palace of Justice Abidjan"
-    },
+      en: "Palace of Justice Abidjan",
+image: "/poi-images/palais-de-justice-abidjan-landmarks-v2.webp"
+},
     description: {
       de: "Das Hauptgerichtsgebäude von Abidjan, das sich im Bezirk Plateau befindet und durch seine formelle Architektur besticht.",
       hu: "Abidjan fő bírósági épülete, amely a Plateau negyedben található, és formális építészetével nyűgöz le.",
@@ -1268,8 +1294,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Rathaus von Abidjan",
       hu: "Abidjani Városháza",
       ro: "Primăria din Abidjan",
-      en: "City Hall of Abidjan"
-    },
+      en: "City Hall of Abidjan",
+image: "/poi-images/hotel-de-ville-abidjan-landmarks-v2.webp"
+},
     description: {
       de: "Das administrative Zentrum der Metropole Abidjan, von wo aus der autonome Bezirk regiert wird.",
       hu: "Abidjan metropoliszának közigazgatási központja, ahonnan az autonóm körzetet irányítják.",
@@ -1316,8 +1343,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "St. Johannes der Täufer Kathedrale",
       hu: "Keresztelő Szent János-katedrális",
       ro: "Catedrala Sfântul Ioan Botezătorul",
-      en: "St. John the Baptist Cathedral"
-    },
+      en: "St. John the Baptist Cathedral",
+image: "/poi-images/cathedrale-saint-jean-baptiste-landmarks-v2.webp"
+},
     description: {
       de: "Die römisch-katholische Kathedrale in Korhogo ist ein wichtiges religiöses Zentrum im Norden des Landes.",
       hu: "A legfontosabb katolikus templom Korhogóban, amely az északi régió vallási központjaként szolgál.",
@@ -1360,8 +1388,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Moschee von Nambira",
       hu: "Nambira Mecset",
       ro: "Moscheea din Nambira",
-      en: "Nambira Mosque"
-    },
+      en: "Nambira Mosque",
+image: "/poi-images/mosquee-de-nambira-landmarks-v2.webp"
+},
     description: {
       de: "Eine bemerkenswerte historische Moschee in Nord-Elfenbeinküste, die den sudanesischen Architekturstil der Region repräsentiert.",
       hu: "Egy figyelemre méltó történelmi mecset Észak-Elefántcsontparton, amely a régió szudáni építészeti stílusát képviseli.",
@@ -1406,8 +1435,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       de: "Charles-de-Gaulle-Brücke",
       hu: "Charles-de-Gaulle híd",
       ro: "Podul Charles-de-Gaulle",
-      en: "Charles de Gaulle Bridge"
-    },
+      en: "Charles de Gaulle Bridge",
+image: "/poi-images/pont-charles-de-gaulle-landmarks-v2.webp"
+},
     description: {
       de: "Eine der zentralen Brücken in Abidjan, die das historische Plateau-Viertel mit Treichville über die Lagune verbindet.",
       hu: "Abidjan egyik központi hídja, amely a történelmi Plateau negyedet köti össze Treichville-lel a lagúnán keresztül.",

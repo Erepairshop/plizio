@@ -11,8 +11,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "La Grille Gebirgszug",
       hu: "La Grille-hegység",
       ro: "Lanțul muntos La Grille",
-      en: "La Grille Mountain Range"
-    },
+      en: "La Grille Mountain Range",
+image: "/poi-images/la-grille-relief-v2.webp"
+},
     description: {
       de: "La Grille ist ein vulkanischer Gebirgszug im Norden von Grande Comore, der für seine zahlreichen Aschekegel bekannt ist.",
       hu: "A La Grille egy vulkáni hegylánc Grande Comore északi részén, amely számos hamukúpjáról ismert.",
@@ -50,8 +51,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Mount Sima",
       hu: "Sima-hegy",
       ro: "Muntele Sima",
-      en: "Mount Sima"
-    },
+      en: "Mount Sima",
+image: "/poi-images/mount-sima-relief-v2.webp"
+},
     description: {
       de: "Der Mount Sima ist eine markante Erhebung im Westen der Insel Anjouan mit steilen Hängen.",
       hu: "A Sima-hegy az Anjouan-sziget nyugati részének jellegzetes, meredek lejtőjű magaslata.",
@@ -89,8 +91,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Mutsamudu-Tal",
       hu: "Mutsamudu-völgy",
       ro: "Valea Mutsamudu",
-      en: "Mutsamudu Valley"
-    },
+      en: "Mutsamudu Valley",
+image: "/poi-images/mutsamudu-valley-relief-v2.webp"
+},
     description: {
       de: "Das Mutsamudu-Tal ist ein tief eingeschnittenes Flusstal auf Anjouan, das von üppiger Vegetation umgeben ist.",
       hu: "A Mutsamudu-völgy egy mélyen bevágott folyóvölgy Anjouanon, amelyet buja növényzet vesz körül.",
@@ -128,8 +131,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Djabal-Höhle",
       hu: "Djabal-barlang",
       ro: "Peștera Djabal",
-      en: "Djabal Cave"
-    },
+      en: "Djabal Cave",
+image: "/poi-images/djabal-cave-relief-v2.webp"
+},
     description: {
       de: "Die Djabal-Höhle ist eine geologisch bedeutsame Lavahöhle auf Grande Comore mit prähistorischen Fundspuren.",
       hu: "A Djabal-barlang egy geológiailag jelentős lávabarlang Grande Comore-on, praehisztorikus leletekkel.",
@@ -167,8 +171,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Kap Saint-André",
       hu: "Saint-André-fok",
       ro: "Capul Saint-André",
-      en: "Cape Saint-André"
-    },
+      en: "Cape Saint-André",
+image: "/poi-images/cape-saint-andre-relief-v2.webp"
+},
     description: {
       de: "Das Kap Saint-André ist eine markante Landzunge an der Nordwestküste von Grande Comore.",
       hu: "A Saint-André-fok egy jellegzetes földnyelv Grande Comore északnyugati partján.",
@@ -206,8 +211,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Hamboda-Plateau",
       hu: "Hamboda-fennsík",
       ro: "Podișul Hamboda",
-      en: "Hamboda Plateau"
-    },
+      en: "Hamboda Plateau",
+image: "/poi-images/hamboda-plateau-relief-v2.webp"
+},
     description: {
       de: "Das Hamboda-Plateau ist eine weite Hochebene im Zentrum von Grande Comore, geprägt von vulkanischen Böden.",
       hu: "A Hamboda-fennsík egy tágas magasföld Grande Comore központjában, vulkáni talajjal.",
@@ -245,8 +251,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Pointe de Bangoi",
       hu: "Pointe de Bangoi",
       ro: "Pointe de Bangoi",
-      en: "Pointe de Bangoi"
-    },
+      en: "Pointe de Bangoi",
+image: "/poi-images/pointe-de-bangoi-relief-v2.webp"
+},
     description: {
       de: "Die Pointe de Bangoi ist eine zerklüftete felsige Landzunge, die weit in den Indischen Ozean ragt.",
       hu: "A Pointe de Bangoi egy sziklás földnyelv, amely messze benyúlik az Indiai-óceánba.",
@@ -284,8 +291,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Mount Habakari",
       hu: "Habakari-hegy",
       ro: "Muntele Habakari",
-      en: "Mount Habakari"
-    },
+      en: "Mount Habakari",
+image: "/poi-images/mount-habakari-relief-v2.webp"
+},
     description: {
       de: "Der Mount Habakari ist ein bewaldeter Gipfel auf der Insel Mohéli, der ein wichtiges Wassereinzugsgebiet darstellt.",
       hu: "A Habakari-hegy egy erdős csúcs Mohéli szigetén, amely fontos vízgyűjtő terület.",
@@ -323,8 +331,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Karthala-Caldera",
       hu: "Karthala-kaldera",
       ro: "Caldera Karthala",
-      en: "Karthala Caldera"
-    },
+      en: "Karthala Caldera",
+image: "/poi-images/karthala-caldera-relief-v2.webp"
+},
     description: {
       de: "Die riesige Caldera des Vulkans Karthala ist eine der größten weltweit und zeigt eindrucksvolle Lavaströme.",
       hu: "A Karthala-vulkán hatalmas kalderája a világ egyik legnagyobbja, lenyűgöző lávafolyásokkal.",
@@ -362,8 +371,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Nioumbadjou-Wald",
       hu: "Nioumbadjou-erdő",
       ro: "Pădurea Nioumbadjou",
-      en: "Nioumbadjou Forest"
-    },
+      en: "Nioumbadjou Forest",
+image: "/poi-images/nioumbadjou-forest-relief-v2.webp"
+},
     description: {
       de: "Der Nioumbadjou-Wald ist ein dichter Primärwald an den Hängen des Karthala, reich an endemischen Arten.",
       hu: "A Nioumbadjou-erdő egy sűrű őserdő a Karthala lejtőin, endemikus fajokban gazdag.",
@@ -401,8 +411,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Dzialaoutsou-Wasserfall",
       hu: "Dzialaoutsou-vízesés",
       ro: "Cascada Dzialaoutsou",
-      en: "Dzialaoutsou Waterfall"
-    },
+      en: "Dzialaoutsou Waterfall",
+image: "/poi-images/dzialaoutsou-falls-relief-v2.webp"
+},
     description: {
       de: "Der Dzialaoutsou-Wasserfall stürzt über vulkanische Basaltwände im Herzen der Insel Anjouan herab.",
       hu: "A Dzialaoutsou-vízesés vulkáni bazaltfalakon zúdul le Anjouan szigetének szívében.",
@@ -440,8 +451,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Chissioua Dzaha",
       hu: "Chissioua Dzaha",
       ro: "Chissioua Dzaha",
-      en: "Chissioua Dzaha"
-    },
+      en: "Chissioua Dzaha",
+image: "/poi-images/chissioua-dzaha-relief-v2.webp"
+},
     description: {
       de: "Chissioua Dzaha ist eine kleine, felsige Erhebung vor der Küste, die ein wichtiges Habitat für Meeresvögel ist.",
       hu: "Chissioua Dzaha egy kis sziklás magaslat a part mentén, amely fontos tengeri madár-élőhely.",
@@ -479,8 +491,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Bandasamlini-Hügel",
       hu: "Bandasamlini-domb",
       ro: "Dealul Bandasamlini",
-      en: "Bandasamlini Hill"
-    },
+      en: "Bandasamlini Hill",
+image: "/poi-images/bandasamlini-hill-relief-v2.webp"
+},
     description: {
       de: "Der Bandasamlini ist ein erloschener Vulkankegel, der die umliegende Küstenebene im Süden von Grande Comore überragt.",
       hu: "A Bandasamlini egy kialudt vulkáni kúp, amely Grande Comore déli részén a környező parti síkság fölé magasodik.",
@@ -518,8 +531,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Moya-Klippen",
       hu: "Moyai sziklák",
       ro: "Stâncile din Moya",
-      en: "Moya Cliffs"
-    },
+      en: "Moya Cliffs",
+image: "/poi-images/moya-cliffs-relief-v2.webp"
+},
     description: {
       de: "Die Klippen von Moya bieten spektakuläre vertikale Felswände, die direkt in den türkisfarbenen Ozean abfallen.",
       hu: "A moyai sziklák látványos függőleges falakat alkotnak, amelyek közvetlenül a türkizkék óceánba szakadnak.",
@@ -557,8 +571,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Jimilimé-Hochland",
       hu: "Jimilimé-fennsík",
       ro: "Podișul Jimilimé",
-      en: "Jimilimé Highlands"
-    },
+      en: "Jimilimé Highlands",
+image: "/poi-images/jimilime-highlands-relief-v2.webp"
+},
     description: {
       de: "Das Jimilimé-Hochland ist ein zerklüftetes Plateau auf Anjouan mit einzigartigem Mikroklima und Vegetation.",
       hu: "A Jimilimé-fennsík egy tagolt fennsík Anjouanon, egyedülálló mikroklímával és növényzettel.",
@@ -596,8 +611,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Mount Kibouani",
       hu: "Kibouani-hegy",
       ro: "Muntele Kibouani",
-      en: "Mount Kibouani"
-    },
+      en: "Mount Kibouani",
+image: "/poi-images/mount-kibouani-relief-v2.webp"
+},
     description: {
       de: "Der Mount Kibouani ist eine bedeutende Erhebung im südlichen Gebirgsmassiv von Grande Comore.",
       hu: "A Kibouani-hegy Grande Comore déli hegységének jelentős magaslata.",
@@ -635,8 +651,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Itsamia-Küstenformationen",
       hu: "Itsamiai partmenti képződmények",
       ro: "Formațiunile de coastă Itsamia",
-      en: "Itsamia Coastal Relief"
-    },
+      en: "Itsamia Coastal Relief",
+image: "/poi-images/itsamia-relief-relief-v2.webp"
+},
     description: {
       de: "Die Küstenformationen bei Itsamia sind durch Lavaströme geprägt, die natürliche Buchten geformt haben.",
       hu: "Az itsamiai partmenti képződményeket lávafolyások határozzák meg, amelyek természetes öblöket hoztak létre.",
@@ -674,8 +691,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Maki-Waldgebiet",
       hu: "Maki-erdő",
       ro: "Zona forestieră Maki",
-      en: "Maki Forest Area"
-    },
+      en: "Maki Forest Area",
+image: "/poi-images/maki-forest-relief-v2.webp"
+},
     description: {
       de: "Das Maki-Waldgebiet auf Mohéli ist ein geschütztes Refugium für seltene Lemuren und einheimische Vögel.",
       hu: "A Mohélin található Maki-erdő ritka lemurok és őshonos madarak védett menedékhelye.",
@@ -714,8 +732,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Pointe de Mitsamiouli",
       hu: "Pointe de Mitsamiouli",
       ro: "Pointe de Mitsamiouli",
-      en: "Pointe de Mitsamiouli"
-    },
+      en: "Pointe de Mitsamiouli",
+image: "/poi-images/pointe-de-mitsamiouli-relief-v2.webp"
+},
     description: {
       de: "Die Pointe de Mitsamiouli bildet die nördlichste Spitze von Grande Comore mit bizarren Vulkanfelsen.",
       hu: "A Pointe de Mitsamiouli alkotja Grande Comore legészakibb csücskét, bizarr vulkáni sziklákkal.",
@@ -753,8 +772,9 @@ export const poiExtraComorosReliefV2: POI[] = [
       de: "Tsembehou-Becken",
       hu: "Tsembehou-medence",
       ro: "Bazinul Tsembehou",
-      en: "Tsembehou Basin"
-    },
+      en: "Tsembehou Basin",
+image: "/poi-images/tsembehou-basin-relief-v2.webp"
+},
     description: {
       de: "Das Tsembehou-Becken ist ein fruchtbares, von Bergen umschlossenes Hochtal im Inneren von Anjouan.",
       hu: "A Tsembehou-medence egy termékeny, hegyekkel körülvett magashegyi völgy Anjouan belsejében.",

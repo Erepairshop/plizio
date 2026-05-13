@@ -4,7 +4,9 @@ export const slovakiaHistoryV2: POI[] = [
   {
     id: "slovakia-dukla-pass-history-v2",
     type: "battlefield",
-    name: { de: "Duklapass", hu: "Duklai-szoros", ro: "Pasul Dukla", en: "Dukla Pass" },
+    name: { de: "Duklapass", hu: "Duklai-szoros", ro: "Pasul Dukla", en: "Dukla Pass",
+image: "/poi-images/slovakia-dukla-pass-history-v2.webp"
+},
     coordinates: { lat: 49.414, lng: 21.696 },
     description: {
       de: "Schauplatz einer der blutigsten Operationen des Zweiten Weltkriegs im Jahr 1944. Ein monumentales Denkmal und ein Freilichtmuseum erinnern an die Befreiungskämpfe.",
@@ -18,11 +20,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Pas montan strategic la granița cu Polonia", "Peste 140.000 de soldați au murit în timpul operațiunii", "Găzduiește un cimitir sovietic și unul cehoslovac", "Turnul de observație oferă o vedere spre Valea Morții"],
       en: ["Strategic Carpathian pass on the Polish border", "Over 140,000 soldiers died during the operation", "Houses a Soviet and Czechoslovak military cemetery", "Observation tower overlooks the Valley of Death"],
     },
-    imageHint: "Dukla Pass World War II memorial and tank museum", image: "/poi-images/slovakia-dukla-pass-history-v2.webp"},
-  {
+imageHint: "Dukla Pass World War II memorial and tank museum",
+    descriptionAdvanced: {
+      de: "Schauplatz der blutigen Karpaten-Operation 1944. Das Areal umfasst ein 28 Meter hohes Denkmal und ein Freilichtmuseum mit Panzern und Flugzeugen aus dem Zweiten Weltkrieg.",
+      hu: "A Kárpát-duklai hadművelet helyszíne 1944-ből. A hágónál 28 méteres emlékmű, katonai temető és szabadtéri haditechnikai kiállítás állít emléket a véres harcoknak.",
+      ro: "Locul celei mai sângeroase bătălii din 1944 de pe teritoriul Slovaciei. Complexul include un monument de 28 de metri și un muzeu militar în aer liber cu tancuri și avioane.",
+      en: "Scene of the bloodiest WWII operation in Slovakia (1944). It features a 28-meter high memorial, a military cemetery, and an open-air museum with tanks and aircraft.",
+    },
+    factsAdvanced: {
+      de: ["6. Oktober 1944: Eroberung des Passes", "85.000 Gefallene auf beiden Seiten", "28 Meter hohes zentrales Denkmal", "49 Meter hoher Aussichtsturm im Areal"],
+      hu: ["1944. október 6-án törték át a hágót", "85 000 elesett katona mindkét oldalon", "28 méter magas központi emlékmű", "49 méteres kilátótorony a helyszínen"],
+      ro: ["6 octombrie 1944: cucerirea trecătorii", "85.000 de soldați căzuți de ambele părți", "Monument central de 28 de metri înălțime", "Turn de observație de 49 de metri înălțime"],
+      en: ["October 6, 1944: liberation of the pass", "85,000 casualties on both sides total", "28-meter high central memorial pylon", "49-meter high observation tower on site"],
+    },
+    image: "/poi-images/slovakia-dukla-pass-history-v2.webp",
+},  {
     id: "slovakia-havranok-history-v2",
     type: "ruins",
-    name: { de: "Havránok", hu: "Havránok", ro: "Havránok", en: "Havránok" },
+    name: { de: "Havránok", hu: "Havránok", ro: "Havránok", en: "Havránok",
+image: "/poi-images/slovakia-havranok-history-v2.webp"
+},
     coordinates: { lat: 49.103, lng: 19.479 },
     description: {
       de: "Eine bedeutende archäologische Stätte über der Liptauer Mara mit rekonstruierten keltischen Gebäuden. Sie zeugt von der Besiedlung durch die Kotiner im 1. Jahrhundert v. Chr.",
@@ -36,11 +53,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Cel mai important centru celtic din Slovacia", "Conține rămășițele unui loc de sacrificiu ritualic", "Excavat parțial în timpul construcției barajului", "Include reconstrucția unui castel medieval de lemn"],
       en: ["Most important Celtic center in Slovakia", "Contains remains of a ritual sacrifice site", "Partially excavated during dam construction", "Reconstruction of a medieval wooden castle"],
     },
-    imageHint: "Havranok archaeological site Celtic reconstructions", image: "/poi-images/slovakia-havranok-history-v2.webp"},
-  {
+imageHint: "Havranok archaeological site Celtic reconstructions",
+    descriptionAdvanced: {
+      de: "Keltische Ausgrabungsstätte am Stausee Liptovská Mara. Rekonstruktion einer Siedlung aus dem 1. Jh. v. Chr. mit Opferstätte, Wehranlagen und landwirtschaftlichen Gebäuden.",
+      hu: "Kelta régészeti park a Liptói-tenger partján. Az időszámításunk előtti 1. századi erődítmény, druida áldozati hely és kelta házak hiteles rekonstrukciója látható.",
+      ro: "Sit arheologic celtic pe malul lacului Liptovská Mara. Reconstruiește o fortificație din secolul I î.Hr. cu un sanctuar druidic și locuințe tradiționale ale tribului Cotini.",
+      en: "Important Celtic archaeological site by Liptovská Mara. It reconstructs a 1st-century BC hillfort with a druid shrine, sacrificial pit, and traditional farmsteads.",
+    },
+    factsAdvanced: {
+      de: ["Siedlung des keltischen Stammes der Kotiner", "Blütezeit im 1. Jahrhundert v. Chr.", "Rekonstruierter Opferschacht (druidisch)", "Fundort antiker Münzen (Biatecs)"],
+      hu: ["A kelta kotinusz törzs legfőbb központja", "Virághora az i. e. 1. században volt", "Druida áldozati akna rekonstrukciója", "Ritka kelta érmék (Biatec) lelőhelye"],
+      ro: ["Așezare a tribului celtic al Cotinilor", "Perioada de glorie în secolul I î.Hr.", "Puț de sacrificiu druidic reconstituit", "Loc de descoperire a monedelor Biatec"],
+      en: ["Settlement of the Celtic Cotini tribe", "Peak period in the 1st century BC", "Reconstructed druid sacrificial altar", "Discovery site of ancient Biatec coins"],
+    },
+    image: "/poi-images/slovakia-havranok-history-v2.webp",
+},  {
     id: "slovakia-gerulata-history-v2",
     type: "ruins",
-    name: { de: "Gerulata", hu: "Gerulata", ro: "Gerulata", en: "Gerulata" },
+    name: { de: "Gerulata", hu: "Gerulata", ro: "Gerulata", en: "Gerulata",
+image: "/poi-images/slovakia-gerulata-history-v2.webp"
+},
     coordinates: { lat: 48.055, lng: 17.143 },
     description: {
       de: "Ein römisches Militärlager in Rusovce, das Teil des Limes Romanus an der Donau war. Die Ausgrabungen zeigen Grundmauern von Gebäuden und Grabsteine aus dem 1. bis 4. Jahrhundert.",
@@ -54,11 +86,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Parte a Patrimoniului Mondial UNESCO din 2021", "Fost sediu al unei unități de cavalerie auxiliară", "Muzeul expune monede și ceramică romană", "Cea mai importantă dovadă a prezenței romane lângă Bratislava"],
       en: ["Part of UNESCO World Heritage since 2021", "Former station of an auxiliary cavalry unit", "Museum displays Roman coins and ceramics", "Key evidence of Roman presence near Bratislava"],
     },
-    imageHint: "Gerulata Roman ruins Rusovce", image: "/poi-images/slovakia-gerulata-history-v2.webp"},
-  {
+imageHint: "Gerulata Roman ruins Rusovce",
+    descriptionAdvanced: {
+      de: "Ehemaliges römisches Militärlager am Donaulimes in Rusovce. Das Museum zeigt Fundamente, Grabsteine und Alltagsgegenstände der Garnison aus dem 2. bis 4. Jahrhundert.",
+      hu: "Egykori római katonai tábor a dunai limes mentén Oroszváron. A múzeum 2-4. századi falmaradványokat, katonai sírköveket és a kemping mindennapi tárgyait őrzi.",
+      ro: "Fost castru militar roman pe Limesul Dunărean în Rusovce. Muzeul păstrează fundații din secolele II-IV, stele funerare și obiecte cotidiene ale legiunilor romane.",
+      en: "Former Roman military camp at the Danube Limes in Rusovce. The museum preserves 2nd to 4th-century foundations, soldier tombstones, and archaeological findings.",
+    },
+    factsAdvanced: {
+      de: ["2021: Aufnahme in das UNESCO-Welterbe", "Teil der Grenzbefestigung Danubius Limes", "Standort der Ala I Cannanefatium Einheit", "Militärlager aus dem 2. bis 4. Jahrhundert"],
+      hu: ["2021 óta UNESCO Világörökségi helyszín", "A dunai Limes erődrendszerének része", "Az Ala I Cannanefatium egység állomása", "2. és 4. század közötti katonai tábor"],
+      ro: ["Inclus în patrimoniul UNESCO din 2021", "Parte a sistemului defensiv Limes Danubius", "Baza unității Ala I Cannanefatium", "Castru activ între secolele II și IV"],
+      en: ["UNESCO World Heritage site since 2021", "Part of the Roman Danube Limes system", "Station of the Ala I Cannanefatium unit", "Military camp used from 2nd to 4th century"],
+    },
+    image: "/poi-images/slovakia-gerulata-history-v2.webp",
+},  {
     id: "slovakia-pusty-hrad-history-v2",
     type: "ruins",
-    name: { de: "Pustý hrad", hu: "Pusztavár", ro: "Castelul Pustý", en: "Pustý hrad" },
+    name: { de: "Pustý hrad", hu: "Pusztavár", ro: "Castelul Pustý", en: "Pustý hrad",
+image: "/poi-images/slovakia-pusty-hrad-history-v2.webp"
+},
     coordinates: { lat: 48.552, lng: 19.112 },
     description: {
       de: "Eine riesige mittelalterliche Burganlage bei Zvolen, die flächenmäßig zu den größten in Europa gehört. Sie besteht aus der Ober- und Unterburg auf einem bewaldeten Hügel.",
@@ -72,11 +119,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Suprafața totală este de aproximativ 7,6 hectare", "Cele mai vechi părți datează din secolul al XII-lea", "Distrus în secolul al XV-lea în timpul asediilor", "Săpături arheologice regulate în timpul verii"],
       en: ["Total area spans approximately 7.6 hectares", "Oldest sections date back to the 12th century", "Destroyed in the 15th century during sieges", "Regular archaeological excavations occur in summer"],
     },
-    imageHint: "Pusty hrad Zvolen castle ruins aerial", image: "/poi-images/slovakia-pusty-hrad-history-v2.webp"},
-  {
+imageHint: "Pusty hrad Zvolen castle ruins aerial",
+    descriptionAdvanced: {
+      de: "Eine der größten Burganlagen Europas auf 7,6 Hektar Fläche. Seit dem 12. Jahrhundert war sie der ursprüngliche Sitz der Gespanschaft Sohl und ein strategischer Stützpunkt.",
+      hu: "Európa egyik legnagyobb várkomplexuma 7,6 hektáron. A 12. századtól Zólyom vármegye eredeti székhelyeként, ispáni váraként és királyi rezidenciaként szolgált.",
+      ro: "Unul dintre cele mai mari complexe cetăți din Europa, întins pe 7,6 hectare. A fost sediul original al comitatului Zvolen și punct strategic din secolul XII.",
+      en: "One of Europe's largest castle complexes covering 7.6 hectares. It served as the original seat of Zvolen County and a royal residence since the 12th century.",
+    },
+    factsAdvanced: {
+      de: ["7,6 Hektar Gesamtfläche der Anlage", "Höhenlage von 550 m über dem Meeresspiegel", "Über 2 Kilometer langes Mauerwerk", "Residenz ungarischer Könige im 13. Jh."],
+      hu: ["7,6 hektár a vár teljes alapterülete", "550 méter tengerszint feletti magasság", "Több mint 2 kilométer hosszú várfal", "Magyar királyi rezidencia a 13. században"],
+      ro: ["7,6 hectare suprafață totală a cetății", "Altitudine de 550 metri deasupra mării", "Ziduri de incintă de peste 2 kilometri", "Reședință a regilor maghiari în sec. XIII"],
+      en: ["7.6 hectares total area of the complex", "Elevation of 550 meters above sea level", "Over 2 kilometers of defensive walls", "Royal residence for kings in 13th century"],
+    },
+    image: "/poi-images/slovakia-pusty-hrad-history-v2.webp",
+},  {
     id: "slovakia-snp-museum-history-v2",
     type: "monument",
-    name: { de: "Museum des Slowakischen Nationalaufstands", hu: "SZNF Múzeum", ro: "Muzeul Insurecției Naționale Slovace", en: "Museum of the Slovak National Uprising" },
+    name: { de: "Museum des Slowakischen Nationalaufstands", hu: "SZNF Múzeum", ro: "Muzeul Insurecției Naționale Slovace", en: "Museum of the Slovak National Uprising",
+image: "/poi-images/slovakia-snp-museum-history-v2.webp"
+},
     coordinates: { lat: 48.735, lng: 19.152 },
     description: {
       de: "Ein architektonisch markantes Gebäude in Banská Bystrica, das dem antifaschistischen Aufstand von 1944 gewidmet ist. Das Denkmal beherbergt eine umfangreiche historische Ausstellung.",
@@ -90,11 +152,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Proiectat de arhitectul Dušan Kuzma", "Forma simbolizează o lume divizată", "Muzeu în aer liber cu echipament militar greu", "Banská Bystrica a fost centrul insurecției"],
       en: ["Designed by architect Dušan Kuzma", "The shape symbolizes a divided world", "Open-air museum features heavy military equipment", "Banská Bystrica was the center of the uprising"],
     },
-    imageHint: "SNP Museum Banska Bystrica architecture", image: "/poi-images/slovakia-snp-museum-history-v2.webp"},
-  {
+imageHint: "SNP Museum Banska Bystrica architecture",
+    descriptionAdvanced: {
+      de: "Markantes Rundgebäude in Banská Bystrica zum Gedenken an den Aufstand von 1944. Es zeigt schwere Waffen, Dokumente des Widerstands und eine beeindruckende Gedenkhalle.",
+      hu: "Besztercebányai körépület az 1944-es szlovák nemzeti felkelés emlékére. A tárlat nehézfegyvereket, archív dokumentumokat és egy monumentális emlékcsarnokot foglal magában.",
+      ro: "Clădire circulară emblematică din Banská Bystrica dedicată insurecției din 1944. Găzduiește armament greu, avioane și o sală a memoriei cu flacără eternă.",
+      en: "Unique circular building in Banska Bystrica commemorating the 1944 uprising. It houses heavy weapons, resistance documents, and a monumental memorial hall.",
+    },
+    factsAdvanced: {
+      de: ["1969: Eröffnung des markanten Gebäudes", "Zwei verbundene Halbzylinder-Segmente", "Ausstellung eines Li-2 Transportflugzeugs", "Zentrale der Aufständischen im Jahr 1944"],
+      hu: ["1969-ben nyílt meg a modern épület", "Két összekapcsolt félhenger szegmens", "Egy eredeti Li-2 repülőgép a kertben", "A felkelők főhadiszállása volt 1944-ben"],
+      ro: ["Deschis în 1969 în stil modernist", "Două segmente semicilindrice unite", "Avion de transport Li-2 expus la exterior", "Centrul insurecției armate din 1944"],
+      en: ["Opened in 1969 with modernist design", "Consists of two connected split segments", "Original Li-2 transport plane on display", "Banska Bystrica was the center of the SNP"],
+    },
+    image: "/poi-images/slovakia-snp-museum-history-v2.webp",
+},  {
     id: "slovakia-primatial-palace-history-v2",
     type: "palace",
-    name: { de: "Primatialpalais", hu: "Prímási palota", ro: "Palatul Primatului", en: "Primatial Palace" },
+    name: { de: "Primatialpalais", hu: "Prímási palota", ro: "Palatul Primatului", en: "Primatial Palace",
+image: "/poi-images/slovakia-primatial-palace-history-v2.webp"
+},
     coordinates: { lat: 48.144, lng: 17.109 },
     description: {
       de: "Ein klassizistisches Palais in der Altstadt von Bratislava, erbaut für den Erzbischof von Esztergom. Bekannt für den Spiegelsaal, in dem 1805 der Frieden von Pressburg unterzeichnet wurde.",
@@ -108,11 +185,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Găzduiește tapiserii englezești rare din secolul al XVII-lea", "Sediul primarului orașului Bratislava", "Curtea interioară conține fântâna Sfântul Gheorghe", "A fost construit între 1778 și 1781"],
       en: ["Houses rare 17th-century English tapestries", "Current seat of the Mayor of Bratislava", "The courtyard features the St. George fountain", "Constructed between 1778 and 1781"],
     },
-    imageHint: "Primatial Palace Bratislava pink facade", image: "/poi-images/slovakia-primatial-palace-history-v2.webp"},
-  {
+imageHint: "Primatial Palace Bratislava pink facade",
+    descriptionAdvanced: {
+      de: "Klassizistisches Palais in Bratislava, Ort des Friedens von Pressburg 1805. Berühmt für den Spiegelsaal und die Sammlung seltener englischer Gobelins aus dem 17. Jahrhundert.",
+      hu: "Pozsonyi klasszicista palota, ahol 1805-ben aláírták a pozsonyi békét Napóleon és I. Ferenc között. Itt található a Tükörterem és hat ritka 17. századi angol kárpit.",
+      ro: "Palat neoclasic din Bratislava unde s-a semnat Pacea de la Pressburg în 1805. Este renumit pentru Sala Oglinzilor și o colecție de tapiserii englezești din secolul XVII.",
+      en: "Neoclassical palace in Bratislava where the Peace of Pressburg was signed in 1805. It features the Hall of Mirrors and a unique set of 17th-century English tapestries.",
+    },
+    factsAdvanced: {
+      de: ["1805: Unterzeichnung des Pressburger Friedens", "Erbaut 1777-1781 für Kardinal Batthyány", "6 seltene englische Wandteppiche (Gobelins)", "Sitz des Oberbürgermeisters von Bratislava"],
+      hu: ["1805-ben itt kötötték meg a pozsonyi békét", "Batthyány József érsek építtette 1777-ben", "6 darabból álló angol faliszőnyeg-sorozat", "Jelenleg a pozsonyi főpolgármester székhelye"],
+      ro: ["1805: semnarea păcii cu Napoleon", "Construit între 1777-1781 pentru Batthyány", "6 tapiserii englezești unice descoperite", "Sediul primarului general din Bratislava"],
+      en: ["1805: signing of the Peace of Pressburg", "Built 1777-1781 for Cardinal Batthyány", "6 rare English Mortlake tapestries on site", "Current seat of the Mayor of Bratislava"],
+    },
+    image: "/poi-images/slovakia-primatial-palace-history-v2.webp",
+},  {
     id: "slovakia-svaty-anton-history-v2",
     type: "palace",
-    name: { de: "Schloss Svätý Anton", hu: "Szentantali kastély", ro: "Conacul Sfântul Anton", en: "Svätý Anton Manor House" },
+    name: { de: "Schloss Svätý Anton", hu: "Szentantali kastély", ro: "Conacul Sfântul Anton", en: "Svätý Anton Manor House",
+image: "/poi-images/slovakia-svaty-anton-history-v2.webp"
+},
     coordinates: { lat: 48.423, lng: 18.941 },
     description: {
       de: "Ein prächtiges Barock-Klassizistisches Schloss mit einer symbolischen Architektur, die den Kalender darstellt. Es beherbergt ein bedeutendes Jagdmuseum und historische Interieurs.",
@@ -126,11 +218,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Are 4 porți, 12 coșuri, 52 de camere și 365 de ferestre", "Fostă reședință a familiilor Koháry și Coburg", "Înconjurat de un vast parc englezesc", "Mobilier original din secolele XVIII și XIX"],
       en: ["Features 4 gates, 12 chimneys, 52 rooms, and 365 windows", "Former residence of the Koháry and Coburg families", "Surrounded by an extensive English-style park", "Contains original 18th and 19th-century furniture"],
     },
-    imageHint: "Svaty Anton manor house Slovakia", image: "/poi-images/slovakia-svaty-anton-history-v2.webp"},
-  {
+imageHint: "Svaty Anton manor house Slovakia",
+    descriptionAdvanced: {
+      de: "Barock-klassizistisches Schloss mit einzigartiger Kalendersymbolik. Es besitzt 4 Flügel für die Jahreszeiten, 12 Kamine, 52 Räume und 365 Fenster an der Fassade.",
+      hu: "Barokk-klasszicista kastély naptári szimbolikával építve. 4 szárnya az évszakokat, 12 kéménye a hónapokat, 52 terme a heteket, 365 ablaka a napokat jelképezi.",
+      ro: "Conac baroc-clasic construit conform simbolisticii calendarului. Are 4 aripi pentru anotimpuri, 12 coșuri, 52 de camere și 365 de ferestre la fațadă.",
+      en: "Baroque-Classical manor house built with calendar symbolism. It features 4 wings for seasons, 12 chimneys for months, 52 rooms for weeks, and 365 windows for days.",
+    },
+    factsAdvanced: {
+      de: ["365 Fenster (Tage des Jahres)", "52 Zimmer (Wochen des Jahres)", "Sitz der Familien Koháry und Coburg", "Umfangreiche Jagdausstellung im Inneren"],
+      hu: ["365 ablak az év napjai szerint", "52 szoba az év hetei szerint", "A Koháry és Coburg családok székhelye", "Kiemelkedő vadászati múzeum működik benne"],
+      ro: ["365 de ferestre (zilele anului)", "52 de camere (săptămânile anului)", "Reședința familiilor Koháry și Coburg", "Expoziție cinegetică extinsă în interior"],
+      en: ["365 windows representing days of the year", "52 rooms representing weeks of the year", "Seat of the Koháry and Coburg families", "Extensive hunting museum inside the manor"],
+    },
+    image: "/poi-images/slovakia-svaty-anton-history-v2.webp",
+},  {
     id: "slovakia-hronsky-benadik-history-v2",
     type: "church",
-    name: { de: "Abtei Hronský Beňadik", hu: "Garamszentbenedeki apátság", ro: "Abația Hronský Beňadik", en: "Hronský Beňadik Abbey" },
+    name: { de: "Abtei Hronský Beňadik", hu: "Garamszentbenedeki apátság", ro: "Abația Hronský Beňadik", en: "Hronský Beňadik Abbey",
+image: "/poi-images/slovakia-hronsky-benadik-history-v2.webp"
+},
     coordinates: { lat: 48.344, lng: 18.558 },
     description: {
       de: "Eine monumentale gotische Klosteranlage, die als eine der bedeutendsten kirchlichen Stätten der Slowakei gilt. Sie wurde im 11. Jahrhundert als Benediktinerkloster gegründet.",
@@ -144,11 +251,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Biserica deține o relicvă prețioasă a Sfântului Sânge", "A fost o fortăreață defensivă importantă împotriva turcilor", "Portalul este una dintre cele mai frumoase lucrări gotice din țară", "Sfințită de regele Geza I în anul 1075"],
       en: ["The church holds a precious Holy Blood relic", "Once a key defensive fortress against Ottoman Turks", "The portal is among the finest Gothic works in the country", "Consecrated in 1075 by King Geza I"],
     },
-    imageHint: "Hronsky Benadik abbey monastery", image: "/poi-images/slovakia-hronsky-benadik-history-v2.webp"},
-  {
+imageHint: "Hronsky Benadik abbey monastery",
+    descriptionAdvanced: {
+      de: "Befestigte Benediktinerabtei aus dem Jahr 1075. Die gotische Kirche bewahrt eine Heilig-Blut-Reliquie, die 1483 von König Matthias Corvinus gestiftet wurde.",
+      hu: "1075-ben alapított erődített bencés apátság. Gótikus temploma őrzi a Szent Vér-ereklyét, melyet Hunyadi Mátyás király adományozott a monostornak 1483-ban.",
+      ro: "Abăție benedictină fortificată fondată în 1075. Biserica gotică adăpostește relicva Sfântului Sânge dăruită de regele Matia Corvin în anul 1483.",
+      en: "Fortified Benedictine abbey founded in 1075. The Gothic church holds a relic of the Holy Blood donated by King Matthias Corvinus to the monastery in 1483.",
+    },
+    factsAdvanced: {
+      de: ["1075: Gründung durch König Geza I.", "1483: Spende der Heilig-Blut-Reliquie", "Bau der gotischen Kirche ab 1346", "Ausbau zur Festung gegen die Osmanen"],
+      hu: ["1075-ben I. Géza király alapította", "1483: a Szent Vér-ereklye adományozása", "Gótikus templom építése 1346-tól", "A 16. században erődítménnyé építették át"],
+      ro: ["Fondată în 1075 de regele Géza I", "1483: primirea relicvei Sfântului Sânge", "Biserică gotică construită din 1346", "Transformată în fortăreață anti-otomană"],
+      en: ["Founded in 1075 by King Geza I", "1483: donation of the Holy Blood relic", "Gothic church built starting from 1346", "Fortified in 16th century against Ottomans"],
+    },
+    image: "/poi-images/slovakia-hronsky-benadik-history-v2.webp",
+},  {
     id: "slovakia-rozhanovce-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Rozhanovce", hu: "Rozgonyi csatatér", ro: "Câmpul de luptă Rozhanovce", en: "Battle of Rozhanovce" },
+    name: { de: "Schlachtfeld von Rozhanovce", hu: "Rozgonyi csatatér", ro: "Câmpul de luptă Rozhanovce", en: "Battle of Rozhanovce",
+image: "/poi-images/slovakia-rozhanovce-battlefield-history-v2.webp"
+},
     coordinates: { lat: 48.745, lng: 21.348 },
     description: {
       de: "Ort der entscheidenden Schlacht im Jahr 1312 zwischen König Karl Robert von Anjou und dem Haus Aba. Dieser Sieg festigte die Macht des Königs über das mittelalterliche Ungarn.",
@@ -162,11 +284,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Considerată cea mai importantă bătălie medievală din Slovacia", "A pus capăt domniei oligarhilor în regiune", "O piatră memorială comemorează astăzi evenimentul", "Orașul Košice l-a sprijinit pe rege în bătălie"],
       en: ["Considered the most important medieval battle in Slovakia", "Ended the rule of local oligarchs in the region", "A memorial stone marks the event today", "The city of Košice supported the king in the fight"],
     },
-    imageHint: "Rozhanovce battlefield memorial stone", image: "/poi-images/slovakia-rozhanovce-battlefield-history-v2.webp"},
-  {
+imageHint: "Rozhanovce battlefield memorial stone",
+    descriptionAdvanced: {
+      de: "Ort der Schlacht von 1312, in der Karl Robert das Geschlecht Aba besiegte. Der Sieg sicherte den ungarischen Thron für die Anjou-Dynastie und beendete die Herrschaft der Oligarchen.",
+      hu: "Az 1312-es rozgonyi csata helyszíne, ahol Károly Róbert legyőzte az Aba-nemzetséget. A győzelem megszilárdította az Anjou-házat a magyar trónon és megtörte a kiskirályok hatalmát.",
+      ro: "Locul bătăliei din 1312, unde Carol Robert de Anjou a învins familia Aba. Victoria a consolidat tronul maghiar și a pus capăt erei oligarhilor (regișori locali).",
+      en: "Site of the 1312 battle where Charles Robert defeated the Aba family. This victory secured the Angevin throne and ended the rule of regional oligarchs in Hungary.",
+    },
+    factsAdvanced: {
+      de: ["15. Juni 1312: Datum der Schlacht", "Etwa 10.000 beteiligte Soldaten", "Sieg von Karl Robert von Anjou", "Ende der Macht der Familie Aba"],
+      hu: ["1312. június 15-én zajlott a csata", "Körülbelül 10 000 katona vett részt benne", "I. Károly (Károly Róbert) döntő győzelme", "Az Aba-nemzetség politikai bukása"],
+      ro: ["15 iunie 1312: data desfășurării bătăliei", "Aproximativ 10.000 de soldați implicați", "Victorie decisivă a lui Carol Robert", "Prăbușirea puterii familiei Aba"],
+      en: ["June 15, 1312: date of the battle", "Approximately 10,000 soldiers engaged", "Decisive victory for Charles Robert", "Marked the fall of the Aba dynasty"],
+    },
+    image: "/poi-images/slovakia-rozhanovce-battlefield-history-v2.webp",
+},  {
     id: "slovakia-parkany-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Párkány", hu: "Párkányi csatatér", ro: "Câmpul de luptă Párkány", en: "Battle of Párkány" },
+    name: { de: "Schlachtfeld von Párkány", hu: "Párkányi csatatér", ro: "Câmpul de luptă Párkány", en: "Battle of Párkány",
+image: "/poi-images/slovakia-parkany-battlefield-history-v2.webp"
+},
     coordinates: { lat: 47.798, lng: 18.72 },
     description: {
       de: "Schauplatz einer bedeutenden Schlacht im Jahr 1683, kurz nach der Belagerung von Wien. Die Alliierten unter Jan Sobieski besiegten das osmanische Heer bei Štúrovo.",
@@ -180,11 +317,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A dus la recucerirea fortăreței Esztergom", "Jan Sobieski a scăpat la limită de moarte în prima zi", "Un monument în Štúrovo îl comemorează pe regele polonez", "Punct strategic la traversarea Dunării"],
       en: ["Led to the recapture of the Esztergom fortress", "Jan Sobieski narrowly escaped death on the first day", "A monument in Štúrovo honors the Polish king", "Strategic point for crossing the Danube river"],
     },
-    imageHint: "Sturovo Jan Sobieski monument", image: "/poi-images/slovakia-parkany-battlefield-history-v2.webp"},
-  {
+imageHint: "Sturovo Jan Sobieski monument",
+    descriptionAdvanced: {
+      de: "Schauplatz der Schlacht von 1683, in der polnisch-habsburgische Truppen unter Sobieski die Osmanen besiegten. Ein entscheidender Wendepunkt nach der Befreiung Wiens.",
+      hu: "Az 1683-as párkányi csata helyszíne, ahol a Sobieski vezette lengyel-Habsburg sereg legyőzte a törököket. A győzelem megnyitotta az utat Esztergom felszabadítása előtt.",
+      ro: "Locul bătăliei din 1683, unde forțele polonezo-habsburgice sub Sobieski au învins otomanii. Un punct de cotitură major după despresurarea Vienei.",
+      en: "Location of the 1683 battle where Polish-Habsburg forces led by Jan Sobieski defeated the Ottomans. It was a key turning point following the Siege of Vienna.",
+    },
+    factsAdvanced: {
+      de: ["7.-9. Oktober 1683: Schlachtzeitraum", "Anführung durch Jan III. Sobieski", "Befreiung der Festung Gran (Esztergom)", "Ende der osmanischen Präsenz in Párkány"],
+      hu: ["1683. október 7–9. között zajlott", "Jan III. Sobieski lengyel király vezetése", "Esztergom várának felszabadítása követte", "A törökök kiűzése a párkányi hídfőből"],
+      ro: ["7-9 octombrie 1683: perioada luptei", "Comandant suprem: Jan al III-lea Sobieski", "A dus la eliberarea cetății Esztergom", "Eliminarea capului de pod otoman"],
+      en: ["October 7–9, 1683: dates of the battle", "Led by Polish King Jan III Sobieski", "Led to the liberation of Esztergom", "Ended Ottoman control of the bridgehead"],
+    },
+    image: "/poi-images/slovakia-parkany-battlefield-history-v2.webp",
+},  {
     id: "slovakia-pressburg-907-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlacht von Pressburg", hu: "Pozsonyi csatatér (907)", ro: "Bătălia de la Pressburg", en: "Battle of Pressburg" },
+    name: { de: "Schlacht von Pressburg", hu: "Pozsonyi csatatér (907)", ro: "Bătălia de la Pressburg", en: "Battle of Pressburg",
+image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp"
+},
     coordinates: { lat: 48.141, lng: 17.104 },
     description: {
       de: "Ort der historischen Schlacht im Jahr 907, in der die Ungarn das baierische Heer besiegten. Dieser Sieg sicherte die ungarische Präsenz im Karpatenbecken und schwächte Ostfranken.",
@@ -198,11 +350,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A dus la dispariția Imperiului Moraviei Mari", "Bătălia a avut loc în apropierea castelului Bratislava", "Una dintre cele mai importante bătălii din Evul Mediu timpuriu", "Luitpold de Bavaria a murit în luptă"],
       en: ["Contributed to the downfall of Great Moravia", "The battle took place near the Bratislava Castle", "One of the most significant early medieval battles", "Luitpold of Bavaria fell during the combat"],
     },
-    imageHint: "Bratislava castle and Danube aerial history", image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp"},
-  {
+imageHint: "Bratislava castle and Danube aerial history",
+    descriptionAdvanced: {
+      de: "Historisches Schlachtfeld, auf dem die Magyaren 907 das bayerische Heer besiegten. Der Sieg besiegelte das Ende des Großmährischen Reiches und sicherte die ungarische Landnahme.",
+      hu: "Történelmi csatatér, ahol a magyarok 907-ben tönkreverték a bajor sereget. A győzelem a Nagymorva Birodalom végét és a magyar honfoglalás véglegesítését jelentette.",
+      ro: "Câmp de luptă istoric unde maghiarii au învins armata bavareză în 907. Victoria a dus la prăbușirea Moraviei Mari și a securizat așezarea maghiarilor în bazinul Carpatic.",
+      en: "Historic battlefield where the Magyars defeated the Bavarian army in 907. The victory led to the fall of Great Moravia and secured the Magyar settlement in the region.",
+    },
+    factsAdvanced: {
+      de: ["4.-6. Juli 907: Schlacht von Pressburg", "Vernichtung des bayerischen Heeres", "Sieg unter der Führung von Arpád", "Untergang des Großmährischen Reiches"],
+      hu: ["907. július 4–6. között zajlott a csata", "A bajor sereg teljes megsemmisítése", "Árpád fejedelem seregének győzelme", "A Nagymorva Birodalom bukásának éve"],
+      ro: ["4-6 iulie 907: data bătăliei de la Pressburg", "Distrugerea totală a armatei bavareze", "Victorie sub conducerea lui Arpád", "Sfârșitul politic al Moraviei Mari"],
+      en: ["July 4–6, 907: dates of the battle", "Total destruction of the Bavarian army", "Victory for Grand Prince Arpad's forces", "Marked the end of Great Moravia"],
+    },
+    image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp",
+},  {
     id: "slovakia-cerveny-klastor-history-v2",
     type: "museum",
-    name: { de: "Rotes Kloster", hu: "Vörös kolostor", ro: "Mănăstirea Roșie", en: "Červený Kláštor" },
+    name: { de: "Rotes Kloster", hu: "Vörös kolostor", ro: "Mănăstirea Roșie", en: "Červený Kláštor",
+image: "/poi-images/slovakia-cerveny-klastor-history-v2.webp"
+},
     coordinates: { lat: 49.395, lng: 20.416 },
     description: {
       de: "Ein ehemaliges Kartäuser- und Kamaldulenserkloster im Pieniny-Nationalpark. Es ist bekannt für den legendären Mönch Cyprian und seine botanischen Studien.",
@@ -216,11 +383,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea pe malul râului Dunajec", "Găzduiește cel mai vechi ierbar din Europa Centrală", "Numită după culoarea țiglelor și a cărămizilor", "A servit drept fortăreață împotriva husiților în secolul XV"],
       en: ["Founded in the 14th century on the Dunajec riverbank", "Houses the oldest herbarium in Central Europe", "Named after the red color of its roof tiles and bricks", "Served as a fortress against Hussites in the 15th century"],
     },
-    imageHint: "Cerveny Klastor monastery Pieniny", image: "/poi-images/slovakia-cerveny-klastor-history-v2.webp"},
-  {
+imageHint: "Cerveny Klastor monastery Pieniny",
+    descriptionAdvanced: {
+      de: "Kartäuserkloster aus dem Jahr 1319 im Pieniny-Gebirge. Berühmt durch Bruder Cyprian, der ein Herbarium erstellte, Medizin studierte und laut Legende ein Fluggerät erfand.",
+      hu: "1319-ben alapított karthauzi kolostor a Pieninekben. Híres lakója Ciprián barát volt, aki hatalmas gyógyfüves könyvet írt és a legenda szerint repülő szerkezetet épített.",
+      ro: "Mănăstire cartusiană din 1319 în munții Pieniny. Este faimoasă pentru fratele Cyprian, care a creat un ierbar unic, a studiat medicina și ar fi construit un aparat de zbor.",
+      en: "Carthusian monastery from 1319 in the Pieniny mountains. Famous for Monk Cyprian, who created a unique herbarium, studied medicine, and allegedly built a flying machine.",
+    },
+    factsAdvanced: {
+      de: ["1319: Gründung durch die Kartäuser", "1754: Übernahme durch Kamaldulenser", "Wohnort von Frater Cyprian (Apotheker)", "Lage im Nationalpark Pieniny"],
+      hu: ["1319-ben alapították a karthauziak", "1754-től a kamalduli rendé lett", "Ciprián barát (a repülő barát) otthona", "A Pieninek Nemzeti Park szívében fekszik"],
+      ro: ["Fondată în 1319 de ordinul Cartusian", "1754: preluată de ordinul Camaldulenz", "Locul de activitate al fratelui Cyprian", "Situată în Parcul Național Pieniny"],
+      en: ["Founded in 1319 by Carthusian monks", "1754: taken over by Camaldolese order", "Home of Monk Cyprian (the flying monk)", "Located in the Pieniny National Park"],
+    },
+    image: "/poi-images/slovakia-cerveny-klastor-history-v2.webp",
+},  {
     id: "slovakia-viglas-palace-history-v2",
     type: "palace",
-    name: { de: "Schloss Vígľaš", hu: "Véglesi várkastély", ro: "Castelul Vígľaš", en: "Vígľaš Castle" },
+    name: { de: "Schloss Vígľaš", hu: "Véglesi várkastély", ro: "Castelul Vígľaš", en: "Vígľaš Castle",
+image: "/poi-images/slovakia-viglas-palace-history-v2.webp"
+},
     coordinates: { lat: 48.555, lng: 19.295 },
     description: {
       de: "Ein herrlich rekonstruiertes Schloss, das ursprünglich als Jagdschloss für ungarische Könige diente. Es thront auf einem Felsvorsprung über dem Fluss Slatina.",
@@ -234,11 +416,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIV-lea de regele Ludovic I", "Locul preferat al împăratului Sigismund de Luxemburg", "Grav avariat și ars în al Doilea Război Mondial", "Astăzi este folosit ca hotel istoric și muzeu"],
       en: ["Built in the 14th century by King Louis I", "Favorite residence of Emperor Sigismund of Luxembourg", "Heavily damaged and burned during World War II", "Currently functions as a historic hotel and museum"],
     },
-    imageHint: "Viglas castle Slovakia reconstructed", image: "/poi-images/slovakia-viglas-palace-history-v2.webp"},
-  {
+imageHint: "Viglas castle Slovakia reconstructed",
+    descriptionAdvanced: {
+      de: "Rekonstruierte gotische Burg, die als Jagdsitz für die Könige Ludwig I. und Sigismund diente. Sie besitzt einen prachtvollen Rittersaal und einen historischen Innenhof.",
+      hu: "Felújított gótikus vár, amely I. Lajos és Zsigmond király kedvelt vadászkastélyaként szolgált. Ma luxusszálloda Lovagteremmel és sárkányos díszítésekkel.",
+      ro: "Castel gotic reconstituit care a servit ca reședință de vânătoare pentru regii Ludovic I și Sigismund. Include o sală a cavalerilor și o curte interioară istorică.",
+      en: "Reconstructed Gothic castle that served as a hunting seat for King Louis I and Sigismund of Luxembourg. It features a knights hall and a grand internal courtyard.",
+    },
+    factsAdvanced: {
+      de: ["Bau im 14. Jh. unter Ludwig I.", "Sitz des Drachenordens (Sigismund)", "1945 durch Kriegseinwirkung ausgebrannt", "2013: Abschluss der Gesamtrekonstruktion"],
+      hu: ["I. Lajos építtette a 14. században", "A Sárkány Lovagrend székhelye (Zsigmond)", "1945-ben a háborúban teljesen kiégett", "2013: a teljes műemléki felújítás vége"],
+      ro: ["Construit în sec. XIV sub Ludovic I", "Sediu al Ordinului Dragonului (Sigismund)", "Ars complet în 1945 în timpul războiului", "2013: finalizarea reconstrucției totale"],
+      en: ["Built in 14th century by Louis I", "Seat of the Order of the Dragon", "Burned down in 1945 during WWII", "2013: completion of full reconstruction"],
+    },
+    image: "/poi-images/slovakia-viglas-palace-history-v2.webp",
+},  {
     id: "slovakia-markusovce-mansion-history-v2",
     type: "palace",
-    name: { de: "Herrenhaus Markušovce", hu: "Márkusfalvi kastély", ro: "Conacul Markušovce", en: "Markušovce Mansion" },
+    name: { de: "Herrenhaus Markušovce", hu: "Márkusfalvi kastély", ro: "Conacul Markušovce", en: "Markušovce Mansion",
+image: "/poi-images/slovakia-markusovce-mansion-history-v2.webp"
+},
     coordinates: { lat: 48.914, lng: 20.623 },
     description: {
       de: "Ein Renaissance-Herrenhaus mit barockem Umbau und einem charmanten Gartenpavillon namens Dardanely. Es beherbergt eine bedeutende Sammlung historischer Möbel.",
@@ -252,11 +449,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Pavilionul Dardanely servește azi ca muzeu al instrumentelor cu clape", "Fostul sediu al influentei familii Máriássy", "Clădirea datează inițial din anul 1643", "Cunoscut pentru decorațiunile sale în stuc rococo"],
       en: ["The Dardanely pavilion serves as a museum of keyboard instruments", "Former seat of the influential Máriássy family", "The building originally dates back to 1643", "Famous for its Rococo stucco decorations"],
     },
-    imageHint: "Markusovce mansion Dardanely pavilion", image: "/poi-images/slovakia-markusovce-mansion-history-v2.webp"},
-  {
+imageHint: "Markusovce mansion Dardanely pavilion",
+    descriptionAdvanced: {
+      de: "Renaissance-Barock-Schloss mit dem Rokoko-Pavillon Dardanellen. Es beherbergt ein Museum für historische Tasteninstrumente und Möbel aus verschiedenen Epochen.",
+      hu: "Reneszánsz-barokk kastély rokokó Dardanellák pavilonnal. Történelmi billentyűs hangszerek múzeumának, korabeli bútoroknak és díszes stukkóknak ad otthont.",
+      ro: "Conac renascentist-baroc cu un pavilion rococó numit Dardanely. Găzduiește un muzeu de instrumente muzicale istorice și mobilier de epocă.",
+      en: "Renaissance-Baroque mansion featuring the Rococo Dardanely pavilion. It houses a museum of historical keyboard instruments and period furniture collections.",
+    },
+    factsAdvanced: {
+      de: ["1643: Bau des ursprünglichen Schlosses", "1778: Bau des Pavillons Dardanellen", "Eigentum der Familie Csáky", "Museum für historische Tasteninstrumente"],
+      hu: ["1643-ban épült az eredeti várkastély", "1778: a Dardanellák pavilon építése", "A Csáky család tulajdonában volt", "Történelmi billentyűs hangszerek gyűjteménye"],
+      ro: ["1643: construcția castelului inițial", "1778: adăugarea pavilionului Dardanely", "Proprietate a familiei nobiliare Csáky", "Muzeu de instrumente muzicale cu clape"],
+      en: ["1643: construction of original mansion", "1778: building of Dardanely pavilion", "Owned by the noble Csáky family", "Museum of historical keyboard instruments"],
+    },
+    image: "/poi-images/slovakia-markusovce-mansion-history-v2.webp",
+},  {
     id: "slovakia-topolcianky-palace-history-v2",
     type: "palace",
-    name: { de: "Schloss Topoľčianky", hu: "Kistapolcsányi kastély", ro: "Castelul Topoľčianky", en: "Topoľčianky Manor House" },
+    name: { de: "Schloss Topoľčianky", hu: "Kistapolcsányi kastély", ro: "Castelul Topoľčianky", en: "Topoľčianky Manor House",
+image: "/poi-images/slovakia-topolcianky-palace-history-v2.webp"
+},
     coordinates: { lat: 48.42, lng: 18.412 },
     description: {
       de: "Ein klassizistisches Schloss, das einst als Sommerresidenz der tschechoslowakischen Präsidenten diente. Der monumentale Park beherbergt auch ein Nationalgestüt.",
@@ -270,11 +482,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Deține una dintre cele mai mari biblioteci de castel din Slovacia", "Președintele T. G. Masaryk a petrecut aici multe veri", "Curtea interioară renascentistă este deschisă publicului", "Castelul găzduiește colecții valoroase de porțelan"],
       en: ["Contains one of the largest castle libraries in Slovakia", "President T. G. Masaryk spent many summers here", "The Renaissance courtyard is open to the public", "The manor houses valuable porcelain collections"],
     },
-    imageHint: "Topolcianky manor house facade", image: "/poi-images/slovakia-topolcianky-palace-history-v2.webp"},
-  {
+imageHint: "Topolcianky manor house facade",
+    descriptionAdvanced: {
+      de: "Klassizistisches Herrenhaus, das als Sommerresidenz der tschechoslowakischen Präsidenten diente. Umgeben von einem 16 Hektar großen englischen Park und historischen Stallungen.",
+      hu: "Klasszicista kastély, amely a csehszlovák elnökök nyári rezidenciájaként szolgált. Egy 16 hektáros angolpark és a híres Nemzeti Ménesbirtok övezi.",
+      ro: "Conac neoclasic care a servit drept reședință de vară a președinților Cehoslovaciei. Este înconjurat de un parc englezesc de 16 hectare și grajduri istorice.",
+      en: "Neoclassical manor house that served as the summer residence of Czechoslovak presidents. It is surrounded by a 16-hectare English park and famous national stables.",
+    },
+    factsAdvanced: {
+      de: ["1923: Sommerresidenz für T. G. Masaryk", "16 Hektar großer englischer Park", "Klassizistischer Flügel aus dem Jahr 1818", "Angrenzendes Nationalgestüt Topoľčianky"],
+      hu: ["1923-tól T. G. Masaryk nyári rezidenciája", "16 hektáros gondozott angolpark", "Klasszicista szárny építése: 1818", "A szomszédos Nemzeti Ménesbirtok otthona"],
+      ro: ["1923: reședință de vară pentru Masaryk", "Parc englezesc de 16 hectare", "Aripă neoclasică construită în 1818", "Găzduiește herghelia națională"],
+      en: ["1923: summer residence for T. G. Masaryk", "16 hectares of English landscape park", "Neoclassical wing built in 1818", "Adjacent to the National Stud Farm"],
+    },
+    image: "/poi-images/slovakia-topolcianky-palace-history-v2.webp",
+},  {
     id: "slovakia-sered-holocaust-museum-history-v2",
     type: "museum",
-    name: { de: "Holocaust-Museum Sereď", hu: "Szeredi Holokauszt Múzeum", ro: "Muzeul Holocaustului din Sereď", en: "Sereď Holocaust Museum" },
+    name: { de: "Holocaust-Museum Sereď", hu: "Szeredi Holokauszt Múzeum", ro: "Muzeul Holocaustului din Sereď", en: "Sereď Holocaust Museum",
+image: "/poi-images/slovakia-sered-holocaust-museum-history-v2.webp"
+},
     coordinates: { lat: 48.288, lng: 17.737 },
     description: {
       de: "Das Museum befindet sich am Ort eines ehemaligen Arbeits- und Konzentrationslagers. Es dokumentiert die Deportationen slowakischer Juden während des Zweiten Weltkriegs.",
@@ -288,11 +515,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Singurul lagăr de acest tip conservat în Slovacia", "Include cinci barăci de cazarmă renovate", "A fost deschis ca muzeu în anul 2016", "Un vagon de vite simbolizează transportul spre lagărele de exterminare"],
       en: ["Only preserved camp of its kind in Slovakia", "Comprises five renovated barracks buildings", "Opened as a museum in 2016", "A cattle wagon symbolizes the transport to death camps"],
     },
-    imageHint: "Sered Holocaust Museum barracks", image: "/poi-images/slovakia-sered-holocaust-museum-history-v2.webp"},
-  {
+imageHint: "Sered Holocaust Museum barracks",
+    descriptionAdvanced: {
+      de: "Museum am Standort eines ehemaligen Arbeits- und Konzentrationslagers aus dem Zweiten Weltkrieg. Es zeigt originale Baracken und dokumentiert die Judenverfolgung in der Slowakei.",
+      hu: "Az 1941-ben létrehozott munkatábor és koncentrációs tábor helyszínén működő múzeum. Eredeti barakkokat és a szlovák zsidóság deportálásának dokumentumait mutatja be.",
+      ro: "Muzeu situat pe locul unui fost lagăr de muncă și concentrare din al Doilea Război Mondial. Păstrează barăci originale și documentează soarta evreilor slovaci.",
+      en: "Museum located on the site of a former WWII labor and concentration camp. It preserves original barracks and documents the tragic fate of Slovak Jews during the Holocaust.",
+    },
+    factsAdvanced: {
+      de: ["1941: Einrichtung des Arbeitslagers", "Deportation von ca. 16.000 Juden", "2016: Eröffnung als Holocaust-Museum", "5 erhaltene originale Lagerbaracken"],
+      hu: ["1941-ben létesült munkatáborként", "Kb. 16 000 zsidót deportáltak innen", "2016 óta működik Holocaust múzeumként", "5 eredeti tábori barakk maradt fenn"],
+      ro: ["1941: înființarea lagărului de muncă", "Deportarea a cca. 16.000 de evrei", "2016: deschiderea muzeului oficial", "5 barăci originale conservate"],
+      en: ["1941: established as a labor camp", "Deportation of approx. 16,000 Jews", "2016: opened as a Holocaust Museum", "5 original camp barracks preserved"],
+    },
+    image: "/poi-images/slovakia-sered-holocaust-museum-history-v2.webp",
+},  {
     id: "slovakia-drazovce-church-history-v2",
     type: "church",
-    name: { de: "Kirche von Drážovce", hu: "Drázsóci templom", ro: "Biserica din Drážovce", en: "Drážovce Church" },
+    name: { de: "Kirche von Drážovce", hu: "Drázsóci templom", ro: "Biserica din Drážovce", en: "Drážovce Church",
+image: "/poi-images/slovakia-drazovce-church-history-v2.webp"
+},
     coordinates: { lat: 48.351, lng: 18.056 },
     description: {
       de: "Eine ikonische romanische Kirche des Erzengels Michael aus dem 11. Jahrhundert. Sie thront einsam auf einem steilen Hügel über dem Dorf Drážovce bei Nitra.",
@@ -306,11 +548,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Una dintre cele mai vechi clădiri bisericești din Slovacia", "Reprezentată pe fosta bancnotă de 50 de coroane", "Construită pe fundațiile unei vechi așezări slave", "Un motiv popular pentru fotografi și cineaști"],
       en: ["One of the oldest church buildings in Slovakia", "Depicted on the former 50-koruna banknote", "Built on the foundations of an older Slavic fort", "A popular subject for photographers and filmmakers"],
     },
-    imageHint: "Drazovce Romanesque church on hill", image: "/poi-images/slovakia-drazovce-church-history-v2.webp"},
-  {
+imageHint: "Drazovce Romanesque church on hill",
+    descriptionAdvanced: {
+      de: "Ikonische romanische Kirche aus dem 11. Jahrhundert auf einem Hügel über Nitra. Eines der ältesten und fotogensten sakralen Denkmäler der Slowakei mit schlichter Architektur.",
+      hu: "Ikonikus 11. századi román stílusú templom Nyitra felett egy dombon. Szlovákia egyik legrégebbi és leglátványosabb műemléke, a környék jelképévé vált.",
+      ro: "Biserică romanică iconică din secolul XI situată pe un deal deasupra Nitrei. Este unul dintre cele mai vechi și pitorești monumente sacre din Slovacia.",
+      en: "Iconic Romanesque church from the 11th century standing on a hill above Nitra. It is one of the oldest and most photogenic sacred monuments in Slovakia.",
+    },
+    factsAdvanced: {
+      de: ["Bau im 11. Jahrhundert (Romanik)", "Geweiht dem Heiligen Michael", "Lage auf einem markanten Felshügel", "Einzige erhaltene Kirche dieser Art"],
+      hu: ["11. századi román stílusú építés", "Szent Mihály arkangyal tiszteletére", "Meredek szikladomb tetején fekszik", "Gyakran szerepelt szlovák bankjegyeken"],
+      ro: ["Construită în secolul XI (stil romanic)", "Dedicată Sfântului Arhanghel Mihail", "Situată pe un promontoriu stâncos", "Monument de o simplitate rară"],
+      en: ["Built in the 11th century (Romanesque)", "Dedicated to Saint Michael Archangel", "Situated on a prominent rocky hill", "Most photographed church in Slovakia"],
+    },
+    image: "/poi-images/slovakia-drazovce-church-history-v2.webp",
+},  {
     id: "slovakia-krupina-vartovka-history-v2",
     type: "tower",
-    name: { de: "Vartovka von Krupina", hu: "Korponai Vartovka", ro: "Turnul de veghe Krupina", en: "Krupina Watchtower" },
+    name: { de: "Vartovka von Krupina", hu: "Korponai Vartovka", ro: "Turnul de veghe Krupina", en: "Krupina Watchtower",
+image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp"
+},
     coordinates: { lat: 48.359, lng: 19.066 },
     description: {
       de: "Ein historischer Wachturm aus der Mitte des 16. Jahrhunderts, der zum Schutz vor osmanischen Angriffen errichtet wurde. Er ist ein Symbol für die Verteidigungsgeschichte der Region.",
@@ -324,11 +581,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A servit ca stație de semnalizare într-un sistem de avertizare mai mare", "Are aproximativ 13 metri înălțime, cu o bază pătrată", "Oferă o vedere panoramică asupra munților Krupina", "Și-a pierdut importanța militară în secolul al XVIII-lea"],
       en: ["Served as a signal station within a larger warning system", "Stands about 13 meters tall with a square base", "Offers a broad view over the Krupina Highlands", "Lost its military significance in the 18th century"],
     },
-    imageHint: "Krupina Vartovka watchtower", image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp"},
-  {
+imageHint: "Krupina Vartovka watchtower",
+    descriptionAdvanced: {
+      de: "Um 1564 errichteter Wachturm zum Schutz vor osmanischen Angriffen. Der 13 Meter hohe Turm bietet heute eine weite Sicht über die Krupina-Hochebene und das Stiavnica-Gebirge.",
+      hu: "1564 körül épült kő őrtorony a török veszély jelzésére. A 13 méter magas építmény ma kilátóként szolgál, széles panorámát nyújtva a Korponai-fennsíkra.",
+      ro: "Turn de veghe din piatră construit în jurul anului 1564 pentru a avertiza atacurile otomane. Are 13 metri înălțime și oferă o panoramă asupra platoului Krupina.",
+      en: "Stone watchtower built around 1564 as part of the warning system against Ottoman attacks. The 13-meter high tower offers a wide view of the Krupina plateau.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr ca. 1564 (Türkenkriege)", "13 Meter Höhe des Steinturms", "Signalsystem mit Feuer und Rauch", "550 Meter tengerszint feletti magasság"],
+      hu: ["1564 körül épült a török háborúk alatt", "13 méter magas kőépítmény", "Tűz- és füstjelekkel kommunikáltak", "550 méter tengerszint feletti magasság"],
+      ro: ["Construit cca. 1564 contra otomanilor", "13 metri înălțime a turnului de piatră", "Sistem de semnalizare cu foc și fum", "Altitudine de 550 m deasupra mării"],
+      en: ["Built around 1564 (Turkish wars)", "13 meters height of the stone tower", "Signal system using fire and smoke", "550 meters elevation above sea level"],
+    },
+    image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp",
+},  {
     id: "slovakia-gymes-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Gýmeš", hu: "Gímes vára", ro: "Cetatea Gýmeš", en: "Gýmeš Castle Ruins" },
+    name: { de: "Burgruine Gýmeš", hu: "Gímes vára", ro: "Cetatea Gýmeš", en: "Gýmeš Castle Ruins",
+image: "/poi-images/slovakia-gymes-ruins-history-v2.webp"
+},
     coordinates: { lat: 48.412, lng: 18.221 },
     description: {
       de: "Überreste einer mittelalterlichen Burg im Tribeč-Gebirge, die einst der Familie Forgách gehörte. Sie wurde im 13. Jahrhundert auf einer keltischen Burgstätte errichtet.",
@@ -342,11 +614,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A supraviețuit numeroaselor atacuri turcești", "Are ziduri și turnuri neobișnuit de masive", "A fost abandonată definitiv în secolul al XIX-lea", "Oferă vedere spre câmpia Nitrei"],
       en: ["Survived numerous Ottoman Turk attacks", "Features unusually massive walls and towers", "Finally abandoned in the 19th century", "Overlooks the Nitra river plain"],
     },
-    imageHint: "Gymes castle ruins Slovakia", image: "/poi-images/slovakia-gymes-ruins-history-v2.webp"},
-  {
+imageHint: "Gymes castle ruins Slovakia",
+    descriptionAdvanced: {
+      de: "Massive Ruinen einer Burg aus dem 13. Jahrhundert auf einem Quarzithügel. Über sechs Jahrhunderte war sie der Stammsitz der Familie Forgách und ein wichtiges Verwaltungszentrum.",
+      hu: "Hatalmas 13. századi várrom egy kvarcithegy tetején. Több mint hat évszázadon át a Forgách család ősi fészke és a környék meghatározó uradalmi központja volt.",
+      ro: "Ruine masive ale unui castel din secolul XIII situat pe un deal de cuarțit. A fost sediul familiei Forgách timp de peste șase secole și centru administrativ.",
+      en: "Massive ruins of a 13th-century castle situated on a quartzite hill. It was the ancestral seat of the Forgách family for over six centuries and a regional center.",
+    },
+    factsAdvanced: {
+      de: ["Bau im 13. Jh. nach dem Tatareneinfall", "Sitz der Familie Forgách bis 1918", "514 m Höhe über dem Meeresspiegel", "Wiederaufbau nach Brand im Jahr 1712"],
+      hu: ["A 13. században épült (tatárjárás után)", "A Forgách család birtoka 1918-ig", "514 méteres tengerszint feletti magasság", "1712-es tűzvész utáni újjáépítés"],
+      ro: ["Construit în sec. XIII după tătari", "Sediul familiei Forgách până în 1918", "514 m altitudine pe un deal de cuarțit", "Reconstruit după incendiul din 1712"],
+      en: ["Built in 13th century after Tatar invasion", "Seat of the Forgách family until 1918", "514 m elevation above sea level", "Reconstructed after fire in 1712"],
+    },
+    image: "/poi-images/slovakia-gymes-ruins-history-v2.webp",
+},  {
     id: "slovakia-uhrovec-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Uhrovec", hu: "Ugróc vára", ro: "Cetatea Uhrovec", en: "Uhrovec Castle Ruins" },
+    name: { de: "Burgruine Uhrovec", hu: "Ugróc vára", ro: "Cetatea Uhrovec", en: "Uhrovec Castle Ruins",
+image: "/poi-images/slovakia-uhrovec-ruins-history-v2.webp"
+},
     coordinates: { lat: 48.755, lng: 18.331 },
     description: {
       de: "Eine der besterhaltenen Burgruinen der Slowakei, versteckt im Gebirge Strážovské vrchy. Die Burg ist ein herausragendes Beispiel für die romanische und gotische Architektur.",
@@ -360,11 +647,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Capela castelului deține fragmente originale de frescă", "Nu a fost niciodată cucerit prin forță militară", "Datorită locației izolate, s-a păstrat mult din substanță", "Este în prezent restaurat de voluntari"],
       en: ["The castle chapel contains original fresco fragments", "Never conquered by military force", "Due to its isolated location, much of the structure remains", "Currently undergoing extensive restoration by volunteers"],
     },
-    imageHint: "Uhrovec castle ruins aerial", image: "/poi-images/slovakia-uhrovec-ruins-history-v2.webp"},
-  {
+imageHint: "Uhrovec castle ruins aerial",
+    descriptionAdvanced: {
+      de: "Gut erhaltene romanisch-gotische Burgruine im Gebirge Strážovské vrchy. Sie besitzt eine einzigartige Kapelle aus dem 13. Jahrhundert und einen frühen Wohnpalast.",
+      hu: "Jó állapotban fennmaradt román-gótikus várrom a Sztrázsó-hegységben. Egyedülálló 13. századi kápolnával és korai lakópalotával rendelkezik, elkerülte a barokk átépítéseket.",
+      ro: "Ruinele bine conservate ale unui castel romanic-gotic în munții Strážov. Include o capelă unică din secolul XIII și un palat rezidențial timpuriu.",
+      en: "Well-preserved Romanesque-Gothic castle ruins in the Strazov Mountains. It features a unique 13th-century chapel and an early residential palace, avoiding later reconstructions.",
+    },
+    factsAdvanced: {
+      de: ["Erste schriftliche Erwähnung: 1258", "Seltene romanische Schlosskapelle", "591 Meter tengerszint feletti magasság", "Sitz der Familie Zay ab dem 16. Jh."],
+      hu: ["Első írásos említése 1258-ban történt", "Ritka épségű román stílusú várkápolna", "591 méteres tengerszint feletti magasság", "A Zay család székhelye a 16. századtól"],
+      ro: ["Prima mențiune scrisă în anul 1258", "Capelă romanică de o raritate extremă", "591 m altitudine în munții Strážov", "Sediul familiei Zay din secolul XVI"],
+      en: ["First written mention in 1258", "Rarely preserved Romanesque chapel", "591 meters elevation above sea level", "Owned by the Zay family since 16th c."],
+    },
+    image: "/poi-images/slovakia-uhrovec-ruins-history-v2.webp",
+},  {
     id: "slovakia-sklabina-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Sklabiňa", hu: "Szklabinya vára", ro: "Cetatea Sklabiňa", en: "Sklabiňa Castle Ruins" },
+    name: { de: "Burgruine Sklabiňa", hu: "Szklabinya vára", ro: "Cetatea Sklabiňa", en: "Sklabiňa Castle Ruins",
+image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp"
+},
     coordinates: { lat: 49.043, lng: 19.014 },
     description: {
       de: "Historisches Zentrum der Region Turiec, das als Sitz des Komitats diente. Die Burgruine zeugt von der Macht der Familie Révay, die die Burg jahrhundertelang besaß.",
@@ -378,11 +680,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea pe locul unei fortificații", "Arsă de trupele germane în 1944 ca act de răzbunare", "Găzduiește un mic muzeu despre istoria castelului", "Situată la poalele munților Fatra Mare"],
       en: ["Built in the 13th century on an earlier fort site", "Burned down by German troops in 1944 as an act of revenge", "Houses a small museum dedicated to castle history", "Located at the foothills of the Greater Fatra mountains"],
     },
-    imageHint: "Sklabina castle ruins Turiec", image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp"},
-  {
+imageHint: "Sklabina castle ruins Turiec",
+    descriptionAdvanced: {
+      de: "Ehemaliger Sitz der Gespanschaft Turz ab dem 14. Jahrhundert. Die Burg wurde 1944 von deutschen Truppen als Vergeltung für die Unterstützung von Partisanen zerstört.",
+      hu: "Turóc vármegye egykori székhelye a 14. századtól. A várat 1944-ben a német csapatok bosszúból rombolták le és égették fel, mert a várúr támogatta a partizánokat.",
+      ro: "Fostul sediu al comitatului Turiec din secolul XIV. Castelul a fost distrus de trupele germane în 1944 ca represalii pentru sprijinirea partizanilor.",
+      en: "Former seat of Turiec County from the 14th century. The castle was destroyed by German troops in 1944 as retaliation for its support of partisan activities.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Turzer Gespanschaft (1339)", "1944 durch Brandstiftung zerstört", "Besitz der Familie Révay für Jahrhunderte", "Burgmuseum im Vorburg-Bereich"],
+      hu: ["1339-től Turóc vármegye székhelye", "1944-ben bosszúból felgyújtották", "Évszázadokig a Révay család birtoka", "Vármúzeum található az elővárban"],
+      ro: ["Sediul comitatului Turiec din 1339", "Distrus prin incendiere în 1944", "Proprietate a familiei Révay", "Muzeu al castelului în zona de sud"],
+      en: ["Seat of Turiec County since 1339", "Destroyed by fire in 1944 (WWII)", "Owned by the Révay family for centuries", "Castle museum located in the bailey"],
+    },
+    image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp",
+},  {
     id: "slovakia-tematin-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Tematín", hu: "Temetvény vára", ro: "Cetatea Tematín", en: "Tematín Castle Ruins" },
+    name: { de: "Burgruine Tematín", hu: "Temetvény vára", ro: "Cetatea Tematín", en: "Tematín Castle Ruins",
+image: "/poi-images/slovakia-tematin-ruins-history-v2.webp"
+},
     coordinates: { lat: 48.675, lng: 17.928 },
     description: {
       de: "Eine hochgelegene Burgruine im Gebirge Považský Inovec, die Teil eines mittelalterlichen Signalwarnsystems war. Sie bietet einen der spektakulärsten Ausblicke in der Westslowakei.",
@@ -396,11 +713,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea ca cetate regală", "A aparținut odată faimosului Matei Csák", "Distrusă de trupele imperiale în 1710", "Accesibilă doar pe jos prin trasee montane"],
       en: ["Built in the 13th century as a royal castle", "Once owned by the famous Matthew Csák", "Destroyed by imperial troops in 1710", "Accessible only on foot via hiking trails"],
     },
-    imageHint: "Tematin castle ruins Slovakia aerial", image: "/poi-images/slovakia-tematin-ruins-history-v2.webp"},
-  {
+imageHint: "Tematin castle ruins Slovakia aerial",
+    descriptionAdvanced: {
+      de: "Hochgelegene Festungsruine im Gebirge Považský Inovec (564 m). Im 13. Jahrhundert erbaut, spielte sie eine wichtige strategische Rolle im Rákóczi-Unabhängigkeitsaufstand.",
+      hu: "Magaslati várrom a Vág menti Inóc hegységben (564 m). A 13. században épült, jelentős stratégiai szerepet játszott a Rákóczi-szabadságharc küzdelmeiben.",
+      ro: "Ruinele unei cetăți la altitudine în munții Považský Inovec (564 m). Construită în secolul XIII, a jucat un rol strategic în insurecția lui Rákóczi.",
+      en: "High-altitude fortress ruins in Považský Inovec mountains (564 m). Built in the 13th century, it played a key strategic role during the Rákóczi War of Independence.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: Mitte des 13. Jahrhunderts", "564 m Höhe auf einem Bergkamm", "Schwer beschädigt im Jahr 1710", "Wichtige Festung von Nikolaus Bezdec"],
+      hu: ["A 13. század közepén épült", "564 méteres magasság a hegygerincen", "1710-ben a császáriak lerombolták", "Bezdec Miklós fontos erőssége volt"],
+      ro: ["Construită la mijlocul sec. XIII", "564 m altitudine pe o creastă montană", "Grav avariată de armata austriacă în 1710", "Fortăreață a familiei Bezdec"],
+      en: ["Built in the mid-13th century", "564 m elevation on a mountain ridge", "Heavily damaged by imperial army in 1710", "Strategic fort of Nicholas Bezdec"],
+    },
+    image: "/poi-images/slovakia-tematin-ruins-history-v2.webp",
+},  {
     id: "slovakia-muran-ruins-history-v2",
     type: "ruins",
-    name: { de: "Burgruine Muráň", hu: "Murány vára", ro: "Cetatea Muráň", en: "Muráň Castle Ruins" },
+    name: { de: "Burgruine Muráň", hu: "Murány vára", ro: "Cetatea Muráň", en: "Muráň Castle Ruins",
+image: "/poi-images/slovakia-muran-ruins-history-v2.webp"
+},
     coordinates: { lat: 48.759, lng: 20.046 },
     description: {
       de: "Die dritthöchste Burgruine der Slowakei, gelegen auf dem Plateau des Muráň-Nationalparks. Bekannt durch die Geschichte der 'Venus von Muráň', Maria Széchy.",
@@ -414,11 +746,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Situată la 935 de metri deasupra mării", "Distrusă de un incendiu devastator în anul 1760", "Porțile castelului sunt încă bine conservate", "Cetate importantă în timpul răscoalelor nobiliare"],
       en: ["Situated at 935 meters above sea level", "Destroyed by a devastating fire in 1760", "The castle gates are still well-preserved", "Important fortress during anti-Habsburg uprisings"],
     },
-    imageHint: "Muran castle ruins Slovakia", image: "/poi-images/slovakia-muran-ruins-history-v2.webp"},
-  {
+imageHint: "Muran castle ruins Slovakia",
+    descriptionAdvanced: {
+      de: "Dritthöchste Burg der Slowakei (935 m) auf einer steilen Klippe. Bekannt durch die Legende von Maria Széchy, der \"Venus von Muran\", und ihre Rolle im 17. Jahrhundert.",
+      hu: "Szlovákia harmadik legmagasabban fekvő vára (935 m) egy meredek sziklán. Széchy Mária, a \"Murányi Vénusz\" legendájáról és kalandos várvédelméről híres.",
+      ro: "Al treilea cel mai înalt castel din Slovacia (935 m), situat pe o stâncă abruptă. Este cunoscut pentru legenda Mariei Széchy, supranumită \"Venus din Muran\".",
+      en: "Third highest castle in Slovakia (935 m), located on a steep cliff. It is famous for the legend of Maria Széchy, known as the \"Venus of Muran\".",
+    },
+    factsAdvanced: {
+      de: ["935 Meter Höhe über dem Meeresspiegel", "Baujahr ca. 1241 (nach Tataren)", "2,7 km langer Aufstiegsweg", "Residenz von Maria Széchy"],
+      hu: ["935 méteres tengerszint feletti magasság", "1241 körül épült (tatárjárás után)", "2,7 km hosszú meredek tanösvény vezet fel", "Széchy Mária (a Murányi Vénusz) székhelye"],
+      ro: ["935 m altitudine deasupra mării", "Construit cca. 1241 după invazia tătară", "Traseu de urcare de 2,7 km lungime", "Reședința celebrei Maria Széchy"],
+      en: ["935 meters elevation above sea level", "Built around 1241 after Tatar raids", "2.7 km long steep access trail", "Residence of the famous Maria Széchy"],
+    },
+    image: "/poi-images/slovakia-muran-ruins-history-v2.webp",
+},  {
     id: "slovakia-sitno-archaeology-history-v2",
     type: "ruins",
-    name: { de: "Archäologische Stätte Sitno", hu: "Szitnya régészeti lelőhely", ro: "Situl arheologic Sitno", en: "Sitno Archaeology Site" },
+    name: { de: "Archäologische Stätte Sitno", hu: "Szitnya régészeti lelőhely", ro: "Situl arheologic Sitno", en: "Sitno Archaeology Site",
+image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp"
+},
     coordinates: { lat: 48.404, lng: 18.874 },
     description: {
       de: "Eine bedeutende prähistorische Wallburg auf dem Gipfel des Sitno im Schemnitzer Gebirge. Die Funde reichen von der Bronzezeit bis ins Mittelalter.",
@@ -432,11 +779,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Cea mai înaltă așezare fortificată a culturii Lusaciene", "Ruinele unui castel medieval sunt vizibile în sit", "Locul este înconjurat de numeroase legende", "Parte a zonei UNESCO Banská Štiavnica"],
       en: ["Highest-altitude hillfort of the Lusatian culture", "Medieval castle ruins are visible on the site", "The location is surrounded by numerous legends", "Part of the Banská Štiavnica UNESCO area"],
     },
-    imageHint: "Sitno hill fort ruins", image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp"},
-  {
+imageHint: "Sitno hill fort ruins",
+    descriptionAdvanced: {
+      de: "Antiker Burgwall und mittelalterliche Burgstelle auf dem höchsten Gipfel der Schemnitzer Berge. Mit prähistorischen Wällen und den Ruinen einer Festung aus dem 13. Jh.",
+      hu: "Ősi földvár és középkori várhely a Selmeci-hegység legmagasabb csúcsán. Hatalmas prehisztorikus sáncok és egy 13. századi vár romjai láthatók a hegytetőn.",
+      ro: "Situl unei fortificații antice și al unui castel medieval pe cel mai înalt vârf din munții Štiavnica. Are metereze preistorice și ruine din secolul XIII.",
+      en: "Ancient hillfort and medieval castle site on the highest peak of Stiavnica Mountains. It features massive prehistoric ramparts and ruins of a 13th-century fortress.",
+    },
+    factsAdvanced: {
+      de: ["1009 m Höhe auf dem Gipfel des Sitno", "Prähistorische Wallanlagen (Bronzezeit)", "Bau der mittelalterlichen Burg: 13. Jh.", "Aussichtsturm aus dem 18. Jahrhundert"],
+      hu: ["1009 méteres magasság (Szitnya-csúcs)", "Bronzkori és vaskori sáncrendszerek", "A középkori vár a 13. században épült", "18. századi barokk kilátótorony a tetőn"],
+      ro: ["1009 m altitudine pe vârful Sitno", "Sistem de fortificații din epoca bronzului", "Castel medieval construit în sec. XIII", "Foișor baroc din secolul XVIII"],
+      en: ["1009 m elevation on the Sitno peak", "Prehistoric ramparts (Bronze Age)", "Medieval castle built in 13th century", "18th-century Baroque observation gazebo"],
+    },
+    image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp",
+},  {
     id: "slovakia-molpir-hillfort-history-v2",
     type: "ruins",
-    name: { de: "Wallburg Molpír", hu: "Molpír földvár", ro: "Fortificația Molpír", en: "Molpír Hillfort" },
+    name: { de: "Wallburg Molpír", hu: "Molpír földvár", ro: "Fortificația Molpír", en: "Molpír Hillfort",
+image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp"
+},
     coordinates: { lat: 48.513, lng: 17.426 },
     description: {
       de: "Eine der wichtigsten archäologischen Stätten der Hallstattzeit in Mitteleuropa. Die Wallburg bei Smolenice zeigt eine komplexe Verteidigungsanlage aus dem 7. Jahrhundert v. Chr.",
@@ -450,11 +812,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Are trei curți fortificate pe o suprafață de 12 hectare", "Distrugerea a fost cauzată probabil de atacurile sciților", "Un traseu educațional străbate situl arheologic", "S-au găsit măști ritualice și ofrande"],
       en: ["Features three fortified courtyards over 12 hectares", "Destruction was likely caused by Scythian attacks", "An educational trail leads through the archaeological site", "Finds include ritual masks and offerings"],
     },
-    imageHint: "Molpir archaeological site Smolenice", image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp"},
-  {
+imageHint: "Molpir archaeological site Smolenice",
+    descriptionAdvanced: {
+      de: "Bedeutender hallstattzeitlicher Burgwall (6. Jh. v. Chr.) bei Smolenice. Das 12 Hektar große Areal umfasst drei befestigte Terrassen mit Resten von Wohnhäusern und Zisternen.",
+      hu: "Jelentős hallstatti kori földvár (i.e. 6. század) Szomolány közelében. A 12 hektáros terület három erődített teraszból állt, házmaradványokkal és áldozati hellyel.",
+      ro: "Importantă fortificație din perioada Hallstatt (secolul VI î.Hr.) lângă Smolenice. Situl ocupă 12 hectare și include trei terase fortificate și locuințe antice.",
+      en: "Significant Hallstatt period hillfort (6th century BC) near Smolenice. The 12-hectare site consists of three fortified terraces with remains of dwellings and cisterns.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit im 6. Jahrhundert v. Chr.", "12 Hektar befestigte Gesamtfläche", "Drei künstlich angelegte Terrassen", "Fundort ritueller Opferstätten"],
+      hu: ["Virághora az i. e. 6. században volt", "12 hektár az erődített terület mérete", "Három mesterségesen kialakított terasz", "Rituális áldozati helyek lelőhelye"],
+      ro: ["Perioada de glorie în sec. VI î.Hr.", "12 hectare de așezare fortificată", "Trei terase artificiale succesive", "Descoperire de situri ritualice de sacrificiu"],
+      en: ["Peak period in the 6th century BC", "12 hectares of fortified area", "Three man-made fortified terraces", "Discovery of ritual sacrificial sites"],
+    },
+    image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp",
+},  {
     id: "slovakia-bina-fortifications-history-v2",
     type: "ruins",
-    name: { de: "Erdwälle von Bíňa", hu: "Bényi földsáncok", ro: "Fortificațiile de pământ din Bíňa", en: "Bíňa Earthen Walls" },
+    name: { de: "Erdwälle von Bíňa", hu: "Bényi földsáncok", ro: "Fortificațiile de pământ din Bíňa", en: "Bíňa Earthen Walls",
+image: "/poi-images/slovakia-bina-fortifications-history-v2.webp"
+},
     coordinates: { lat: 47.923, lng: 18.641 },
     description: {
       de: "Ein riesiges System von Erdwällen aus der Zeit der Awaren und des frühen ungarischen Staates. Die Befestigungen umschließen eine Fläche von fast 100 Hektar.",
@@ -468,11 +845,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A servit ca o tabără fortificată uriașă (hring)", "Trei linii concentrice de valuri sunt parțial vizibile", "Loc legendar legat de încoronarea Sfântului Ștefan", "Monument important al tehnicii militare medievale timpurii"],
       en: ["Served as a massive fortified camp (hring)", "Three concentric wall lines are still partially visible", "Legendary site linked to the coronation of St. Stephen", "Significant monument of early medieval military engineering"],
     },
-    imageHint: "Bina earthen walls Slovakia", image: "/poi-images/slovakia-bina-fortifications-history-v2.webp"},
-  {
+imageHint: "Bina earthen walls Slovakia",
+    descriptionAdvanced: {
+      de: "Massive frühmittelalterliche Erdwerke, die 107 Hektar umschließen. Die drei konzentrischen Wälle gehören zu den größten ihrer Art in Europa und schützten eine Siedlung.",
+      hu: "Hatalmas kora középkori földművek, amelyek 107 hektárt kerítenek el. A három koncentrikus sáncrendszer Európa legnagyobb ilyen jellegű erődítései közé tartozik.",
+      ro: "Fortificații masive de pământ din Evul Mediu timpuriu care înconjoară 107 hectare. Cele trei linii concentrice de metereze sunt printre cele mai mari din Europa.",
+      en: "Massive early medieval earthworks enclosing 107 hectares. The three concentric lines of ramparts are among the largest of their kind in Europe, protecting a settlement.",
+    },
+    factsAdvanced: {
+      de: ["107 Hektar umschlossene Fläche", "Drei konzentrische Erdwall-Linien", "Bauzeit: 10. bis 11. Jahrhundert", "Benachbarte romanische Rotunde"],
+      hu: ["107 hektár a védett terület mérete", "Három koncentrikus földtöltés-vonal", "Készült a 10. és 11. század között", "Közelében híres román kori rotunda áll"],
+      ro: ["107 hectare de suprafață protejată", "Trei linii concentrice de valuri de pământ", "Construite în secolele X-XI", "Rotondă romanică valoroasă în apropiere"],
+      en: ["107 hectares of enclosed area", "Three concentric lines of earth ramparts", "Built between 10th and 11th centuries", "Famous Romanesque rotunda nearby"],
+    },
+    image: "/poi-images/slovakia-bina-fortifications-history-v2.webp",
+},  {
     id: "slovakia-velka-maca-archaeology-history-v2",
     type: "ruins",
-    name: { de: "Archäologische Stätte Veľká Mača", hu: "Nagymácsédi régészeti lelőhely", ro: "Situl arheologic Veľká Mača", en: "Veľká Mača Archaeology Site" },
+    name: { de: "Archäologische Stätte Veľká Mača", hu: "Nagymácsédi régészeti lelőhely", ro: "Situl arheologic Veľká Mača", en: "Veľká Mača Archaeology Site",
+image: "/poi-images/slovakia-velka-maca-archaeology-history-v2.webp"
+},
     coordinates: { lat: 48.243, lng: 17.691 },
     description: {
       de: "Ein wichtiger Fundort slawischer Besiedlung aus dem 6. bis 10. Jahrhundert. Ausgrabungen legten zahlreiche Grubenhaus-Siedlungen und Gräberfelder frei.",
@@ -487,11 +879,25 @@ export const slovakiaHistoryV2: POI[] = [
       en: ["Shows the transition from migration to permanent settlement", "Features 'Prague type' handmade pottery finds", "Key evidence for the early settlement of the Váh valley", "Considered one of the most thoroughly researched Slavic sites"],
     },
     imageHint: "Slavic archaeology excavation Slovakia",
+    descriptionAdvanced: {
+      de: "Bedeutende archäologische Stätte mit awarisch-slawischen Gräberfeldern des 8. Jahrhunderts. Ausgrabungen legten Hunderte Gräber mit Schmuck, Waffen und Keramik frei.",
+      hu: "Jelentős régészeti lelőhely 8. századi avar-szláv temetőkkel. A feltárások során több száz sírt találtak gazdag ékszer-, fegyver- és kerámiamellékletekkel.",
+      ro: "Sit arheologic semnificativ cu cimitire avaro-slave din secolul VIII. Săpăturile au scos la iveală sute de morminte cu bijuterii, arme și ceramică specifică.",
+      en: "Significant archaeological site featuring 8th-century Avar-Slavic cemeteries. Excavations revealed hundreds of graves with jewelry, weapons, and pottery findings.",
+    },
+    factsAdvanced: {
+      de: ["Datierung in das 8. Jahrhundert", "Über 300 ausgegrabene Gräber", "Awarisch-slawische Mischkultur", "Fundort bedeutender Bronzegürtel"],
+      hu: ["A 8. századra datált leletek", "Több mint 300 feltárt sírhely", "Avar-szláv vegyes kultúra emlékei", "Díszes bronz övveretek lelőhelye"],
+      ro: ["Datat în secolul VIII d.Hr.", "Peste 300 de morminte cercetate", "Cultură mixtă avaro-slavă", "Descoperire de catarame de bronz"],
+      en: ["Dated to the 8th century AD", "Over 300 excavated grave sites", "Avar-Slavic mixed culture evidence", "Important bronze belt findings"],
+    },
   },
   {
     id: "slovakia-mirbach-palace-history-v2",
     type: "palace",
-    name: { de: "Mirbach-Palais", hu: "Mirbach-palota", ro: "Palatul Mirbach", en: "Mirbach Palace" },
+    name: { de: "Mirbach-Palais", hu: "Mirbach-palota", ro: "Palatul Mirbach", en: "Mirbach Palace",
+image: "/poi-images/slovakia-mirbach-palace-history-v2.webp"
+},
     coordinates: { lat: 48.145, lng: 17.108 },
     description: {
       de: "Eines der schönsten Rokoko-Gebäude in Bratislava, erbaut im 18. Jahrhundert. Es ist bekannt für seine prächtige Stuckfassade und die originale Innenausstattung.",
@@ -505,11 +911,26 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Găzduiește astăzi Galeria Orașului Bratislava", "Deține două cabinete cu lambriuri de lemn prețioase", "A fost construit între 1768 și 1770", "Fostă proprietate a contelui Emil Mirbach"],
       en: ["Currently houses the Bratislava City Gallery", "Features two cabinets with valuable wooden paneling", "Constructed between 1768 and 1770", "Former property of Count Emil Mirbach"],
     },
-    imageHint: "Mirbach Palace Bratislava facade", image: "/poi-images/slovakia-mirbach-palace-history-v2.webp"},
-  {
+imageHint: "Mirbach Palace Bratislava facade",
+    descriptionAdvanced: {
+      de: "Rokoko-Palais, erbaut zwischen 1768-1770 mit originalen Stuckaturen. Heute dient es als Sitz der Städtischen Galerie Bratislava und beherbergt wertvolle Kunstwerke.",
+      hu: "1768-1770 között épült rokokó palota gazdag eredeti stukkódíszítéssel. Ma a Pozsonyi Városi Galéria egyik székhelye és kiállítóhelye a belvárosban.",
+      ro: "Palat rococó construit între 1768-1770 cu decorațiuni originale în stuc. Astăzi servește ca sediu al Galeriei Orașului Bratislava și găzduiește expoziții de artă.",
+      en: "Rococo palace built between 1768-1770 with original stucco decorations. It now serves as the seat of the Bratislava City Gallery, housing valuable artworks.",
+    },
+    factsAdvanced: {
+      de: ["Baufertigstellung im Jahr 1770", "Prachtvolle Rokoko-Fassade", "Sitz der Städtischen Galerie Bratislava", "Letzter Besitzer: Baron Emil Mirbach"],
+      hu: ["1770-ben fejeződött be az építése", "Pompás rokokó homlokzat és belső", "A Pozsonyi Városi Galéria központja", "Utolsó tulajdonosa Mirbach Emil báró"],
+      ro: ["Finalizat în anul 1770", "Fațadă rococó deosebit de bogată", "Sediul Galeriei Orașului Bratislava", "Ultimul proprietar: baronul Emil Mirbach"],
+      en: ["Completion of construction in 1770", "Exquisite Rococo facade and interior", "Seat of the Bratislava City Gallery", "Last owner: Baron Emil Mirbach"],
+    },
+    image: "/poi-images/slovakia-mirbach-palace-history-v2.webp",
+},  {
     id: "slovakia-apponyi-palace-history-v2",
     type: "palace",
-    name: { de: "Apponyi-Palais", hu: "Apponyi-palota", ro: "Palatul Apponyi", en: "Apponyi Palace" },
+    name: { de: "Apponyi-Palais", hu: "Apponyi-palota", ro: "Palatul Apponyi", en: "Apponyi Palace",
+image: "/poi-images/slovakia-apponyi-palace-history-v2.webp"
+},
     coordinates: { lat: 48.144, lng: 17.109 },
     description: {
       de: "Ein repräsentatives Rokoko-Palais in Bratislava, das für Graf Georg Apponyi erbaut wurde. Es beherbergt heute das Museum für historische Interieurs und ein Weinmuseum.",
@@ -524,5 +945,17 @@ export const slovakiaHistoryV2: POI[] = [
       en: ["The Piano Nobile floor is preserved in its original aristocratic style", "Completed in 1761", "Features a significant collection of Bratislava wines", "Integrated into the Old Town Hall complex"],
     },
     imageHint: "Apponyi Palace Bratislava entrance",
+    descriptionAdvanced: {
+      de: "Rokoko-Palais von 1761, das das Weinbaumuseum beherbergt. Es verfügt über prunkvolle repräsentative Räume mit historischen Wandmalereien und kostbaren Holzpaneelen.",
+      hu: "1761-ben épült rokokó palota, amely a Szőlészeti és Borászati Múzeumnak ad otthont. Reprezentatív termeit 18. századi falfestmények és faburkolatok díszítik.",
+      ro: "Palat rococó din 1761 care găzduiește Muzeul Viticulturii. Include săli reprezentative fastuoase cu picturi murale istorice și panouri din lemn prețios.",
+      en: "Rococo palace from 1761 housing the Museum of Viticulture. It features magnificent representative rooms with historical wall paintings and precious wood paneling.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1761-1762 für Graf Apponyi", "Sitz des Museums für Weinbau", "Originale Rokoko-Wandmalereien", "Lage im historischen Stadtzentrum"],
+      hu: ["1761-1762-ben épült Apponyi gróf számára", "A Szőlészeti és Borászati Múzeum helye", "Eredeti 18. századi rokokó falfestmények", "Pozsony óvárosának szívében található"],
+      ro: ["Construit 1761-1762 pentru conte Apponyi", "Găzduiește Muzeul Viticulturii", "Picturi murale rococó originale", "Situat în centrul istoric al orașului"],
+      en: ["Built 1761-1762 for Count Apponyi", "Home to the Museum of Viticulture", "Original 18th-century wall paintings", "Located in the heart of the Old Town"],
+    },
   }
 ];

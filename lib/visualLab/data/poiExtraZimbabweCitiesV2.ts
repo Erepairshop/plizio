@@ -7,7 +7,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-HA",
     coords: [31.053, -17.8216],
-    name: { de: "Harare", hu: "Harare", ro: "Harare", en: "Harare" },
+    name: { de: "Harare", hu: "Harare", ro: "Harare", en: "Harare",
+image: "/poi-images/harare-cities-v2.webp"
+},
     description: {
       "de": "Harare ist die pulsierende Hauptstadt Simbabwes und ein wichtiges wirtschaftliches Zentrum des Landes.",
       "hu": "Zimbabwe fővárosa és legnépesebb városa, amely az ország politikai, gazdasági és kulturális központjaként szolgál.",
@@ -37,7 +39,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-BU",
     coords: [28.5833, -20.15],
-    name: { de: "Bulawayo", hu: "Bulawayo", ro: "Bulawayo", en: "Bulawayo" },
+    name: { de: "Bulawayo", hu: "Bulawayo", ro: "Bulawayo", en: "Bulawayo",
+image: "/poi-images/bulawayo-cities-v2.webp"
+},
     description: {
       "de": "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt für ihre breiten Alleen und industrielle Bedeutung.",
       "hu": "Az ország második legnagyobb városa, amely széles sugárútjairól és gazdag ipari múltjáról ismert.",
@@ -67,7 +71,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-HA",
     coords: [31.0756, -18.0127],
-    name: { de: "Chitungwiza", hu: "Chitungwiza", ro: "Chitungwiza", en: "Chitungwiza" },
+    name: { de: "Chitungwiza", hu: "Chitungwiza", ro: "Chitungwiza", en: "Chitungwiza",
+image: "/poi-images/chitungwiza-cities-v2.webp"
+},
     description: {
       "de": "Chitungwiza ist eine schnell wachsende Satellitenstadt in der Nähe der Hauptstadt Harare.",
       "hu": "Harare közelében fekvő, gyorsan növekvő alvóváros, amely jelentős lakóövezet az ingázók számára.",
@@ -98,7 +104,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MA",
     coords: [32.6695, -18.9743],
-    name: { de: "Mutare", hu: "Mutare", ro: "Mutare", en: "Mutare" },
+    name: { de: "Mutare", hu: "Mutare", ro: "Mutare", en: "Mutare",
+image: "/poi-images/mutare-cities-v2.webp"
+},
     description: {
       "de": "Mutare liegt malerisch in den östlichen Bergen Simbabwes nahe der Grenze zu Mosambik.",
       "hu": "A festői Keleti-felföldön elhelyezkedő város, amely Zimbabwe kapuja a mozambiki kikötők felé.",
@@ -129,7 +137,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MI",
     coords: [29.8153, -19.45],
-    name: { de: "Gweru", hu: "Gweru", ro: "Gweru", en: "Gweru" },
+    name: { de: "Gweru", hu: "Gweru", ro: "Gweru", en: "Gweru",
+image: "/poi-images/gweru-cities-v2.webp"
+},
     description: {
       "de": "Gweru ist ein bedeutender Handelsknotenpunkt und Industriestandort im Zentrum Simbabwes.",
       "hu": "Zimbabwe középső részén fekvő ipari és oktatási központ, a Midlands tartomány fővárosa.",
@@ -160,7 +170,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [29.8142, -18.9281],
-    name: { de: "Kwekwe", hu: "Kwekwe", ro: "Kwekwe", en: "Kwekwe" },
+    name: { de: "Kwekwe", hu: "Kwekwe", ro: "Kwekwe", en: "Kwekwe",
+image: "/poi-images/kwekwe-cities-v2.webp"
+},
     description: {
       "de": "Kwekwe ist eine bedeutende Bergbaustadt, die vor allem für ihre Gold- und Stahlproduktion bekannt ist.",
       "hu": "Egy jelentős bányászváros Zimbabwe szívében, amely történelmileg az arany- és acélgyártásáról híres.",
@@ -191,7 +203,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [29.9153, -18.3333],
-    name: { de: "Kadoma", hu: "Kadoma", ro: "Kadoma", en: "Kadoma" },
+    name: { de: "Kadoma", hu: "Kadoma", ro: "Kadoma", en: "Kadoma",
+image: "/poi-images/kadoma-cities-v2.webp"
+},
     description: {
       "de": "Kadoma ist eine Stadt in Mashonaland West, die durch Goldminen und Textilindustrie geprägt wurde.",
       "hu": "Bányászati és mezőgazdasági központ, amely különösen a gyapotfeldolgozásáról ismert.",
@@ -222,7 +236,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MV",
     coords: [30.8278, -20.0744],
-    name: { de: "Masvingo", hu: "Masvingo", ro: "Masvingo", en: "Masvingo" },
+    name: { de: "Masvingo", hu: "Masvingo", ro: "Masvingo", en: "Masvingo",
+image: "/poi-images/masvingo-cities-v2.webp"
+},
     description: {
       "de": "Masvingo ist die älteste Stadt Simbabwes und das Tor zu den historischen Ruinen von Great Zimbabwe.",
       "hu": "Zimbabwe legrégebbi városa, amely a közeli Nagy-Zimbabwe romváros miatt fontos turisztikai kapu.",
@@ -253,7 +269,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MW",
     coords: [30.1472, -17.3667],
-    name: { de: "Chinhoyi", hu: "Chinhoyi", ro: "Chinhoyi", en: "Chinhoyi" },
+    name: { de: "Chinhoyi", hu: "Chinhoyi", ro: "Chinhoyi", en: "Chinhoyi",
+image: "/poi-images/chinhoyi-cities-v2.webp"
+},
     description: {
       "de": "Chinhoyi ist bekannt für die faszinierenden Chinhoyi-Höhlen mit ihrem tiefblauen See.",
       "hu": "Mezőgazdasági központ, amely a látványos vízzel telt barlangrendszeréről vált világhírűvé.",
@@ -284,7 +302,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [30.7, -17.8833],
-    name: { de: "Norton", hu: "Norton", ro: "Norton", en: "Norton" },
+    name: { de: "Norton", hu: "Norton", ro: "Norton", en: "Norton",
+image: "/poi-images/norton-cities-v2.webp"
+},
     description: {
       "de": "Norton ist eine aufstrebende Stadt westlich von Harare mit wachsender industrieller Bedeutung.",
       "hu": "Harare nyugati vonzáskörzetében található ipari város, amely a Manyame-tó közelében terül el.",
@@ -315,7 +335,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-ME",
     coords: [31.5519, -18.1853],
-    name: { de: "Marondera", hu: "Marondera", ro: "Marondera", en: "Marondera" },
+    name: { de: "Marondera", hu: "Marondera", ro: "Marondera", en: "Marondera",
+image: "/poi-images/marondera-cities-v2.webp"
+},
     description: {
       "de": "Marondera ist ein bedeutendes landwirtschaftliches Zentrum im fruchtbaren Hochland Simbabwes.",
       "hu": "Magaslati mezőgazdasági város, amely a dohánytermesztés és az oktatás egyik központja.",
@@ -333,7 +355,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-ME",
     coords: [31.2447, -17.8897],
-    name: { de: "Ruwa", hu: "Ruwa", ro: "Ruwa", en: "Ruwa" },
+    name: { de: "Ruwa", hu: "Ruwa", ro: "Ruwa", en: "Ruwa",
+image: "/poi-images/ruwa-cities-v2.webp"
+},
     description: {
       "de": "Ruwa ist eine dynamisch wachsende Stadt am östlichen Rand der Metropolregion Harare.",
       "hu": "Harare keleti szélén elhelyezkedő, dinamikusan növekvő település, amely ipari övezeteiről ismert.",
@@ -351,7 +375,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [30.1492, -18.1303],
-    name: { de: "Chegutu", hu: "Chegutu", ro: "Chegutu", en: "Chegutu" },
+    name: { de: "Chegutu", hu: "Chegutu", ro: "Chegutu", en: "Chegutu",
+image: "/poi-images/chegutu-cities-v2.webp"
+},
     description: {
       "de": "Chegutu ist ein Handelszentrum in einer produktiven Agrarregion in Mashonaland West.",
       "hu": "Egykori bányásztelepülésből fejlődött mezőgazdasági várossá, amely a gyapottermesztés egyik pillére.",
@@ -369,7 +395,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [30.0665, -20.3267],
-    name: { de: "Zvishavane", hu: "Zvishavane", ro: "Zvishavane", en: "Zvishavane" },
+    name: { de: "Zvishavane", hu: "Zvishavane", ro: "Zvishavane", en: "Zvishavane",
+image: "/poi-images/zvishavane-cities-v2.webp"
+},
     description: {
       "de": "Zvishavane ist eine bekannte Bergbaustadt im Süden der Provinz Midlands.",
       "hu": "Bányászváros a Midlands tartományban, amely évtizedekig az azbesztbányászat központja volt.",
@@ -387,7 +415,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MC",
     coords: [31.3306, -17.3019],
-    name: { de: "Bindura", hu: "Bindura", ro: "Bindura", en: "Bindura" },
+    name: { de: "Bindura", hu: "Bindura", ro: "Bindura", en: "Bindura",
+image: "/poi-images/bindura-cities-v2.webp"
+},
     description: {
       "de": "Bindura ist das administrative Zentrum von Mashonaland Central und bekannt für seinen Bergbau.",
       "hu": "Mashonaland Central tartomány székhelye, amely nikkel- és aranybányászatáról híres.",
@@ -406,7 +436,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MS",
     coords: [29.9875, -22.2167],
-    name: { de: "Beitbridge", hu: "Beitbridge", ro: "Beitbridge", en: "Beitbridge" },
+    name: { de: "Beitbridge", hu: "Beitbridge", ro: "Beitbridge", en: "Beitbridge",
+image: "/poi-images/beitbridge-cities-v2.webp"
+},
     description: {
       "de": "Beitbridge ist der wichtigste Grenzort zwischen Simbabwe und Südafrika am Limpopo-Fluss.",
       "hu": "Zimbabwe legfontosabb határvárosa a Limpopo-folyónál, a Dél-afrikai Köztársaság kapuja.",
@@ -424,7 +456,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [29.7833, -19.0333],
-    name: { de: "Redcliff", hu: "Redcliff", ro: "Redcliff", en: "Redcliff" },
+    name: { de: "Redcliff", hu: "Redcliff", ro: "Redcliff", en: "Redcliff",
+image: "/poi-images/redcliff-cities-v2.webp"
+},
     description: {
       "de": "Redcliff ist eine spezialisierte Industriestadt, die historisch eng mit der Stahlproduktion verbunden ist.",
       "hu": "Ipari város Kwekwe közelében, amely az ország acélgyártásának központjaként épült ki.",
@@ -442,7 +476,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [25.8333, -17.9333],
-    name: { de: "Victoria Falls", hu: "Victoria Falls", ro: "Victoria Falls", en: "Victoria Falls" },
+    name: { de: "Victoria Falls", hu: "Victoria Falls", ro: "Victoria Falls", en: "Victoria Falls",
+image: "/poi-images/victoria-falls-cities-v2.webp"
+},
     description: {
       "de": "Victoria Falls ist ein weltweit bekanntes Tourismuszentrum an den spektakulären Viktoriafällen.",
       "hu": "Világhírű turisztikai központ a Zambézi-folyó partján, közvetlenül a Viktória-vízesés mellett.",
@@ -460,7 +496,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [26.5, -18.3667],
-    name: { de: "Hwange", hu: "Hwange", ro: "Hwange", en: "Hwange" },
+    name: { de: "Hwange", hu: "Hwange", ro: "Hwange", en: "Hwange",
+image: "/poi-images/hwange-cities-v2.webp"
+},
     description: {
       "de": "Hwange ist das Herz des simbabwischen Kohlebergbaus und liegt nahe dem größten Nationalpark.",
       "hu": "Zimbabwe szénbányászati központja, amely az ország legnagyobb hőerőművének ad otthont.",
@@ -478,7 +516,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MA",
     coords: [32.1284, -18.5278],
-    name: { de: "Rusape", hu: "Rusape", ro: "Rusape", en: "Rusape" },
+    name: { de: "Rusape", hu: "Rusape", ro: "Rusape", en: "Rusape",
+image: "/poi-images/rusape-cities-v2.webp"
+},
     description: {
       "de": "Rusape ist ein wichtiger Handels- und Verkehrsknotenpunkt in der Provinz Manicaland.",
       "hu": "Mezőgazdasági kereskedőváros a Manicaland tartományban, a Harare-Mutare főút mentén.",
@@ -496,7 +536,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MV",
     coords: [31.6667, -21.05],
-    name: { de: "Chiredzi", hu: "Chiredzi", ro: "Chiredzi", en: "Chiredzi" },
+    name: { de: "Chiredzi", hu: "Chiredzi", ro: "Chiredzi", en: "Chiredzi",
+image: "/poi-images/chiredzi-cities-v2.webp"
+},
     description: {
       "de": "Chiredzi ist das Zentrum der Zuckerrohrindustrie im südöstlichen Lowveld Simbabwes.",
       "hu": "A délkeleti Lowveld régió központja, amely hatalmas cukornádültetvényeiről híres.",
@@ -514,7 +556,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [28.8, -16.5167],
-    name: { de: "Kariba", hu: "Kariba", ro: "Kariba", en: "Kariba" },
+    name: { de: "Kariba", hu: "Kariba", ro: "Kariba", en: "Kariba",
+image: "/poi-images/kariba-cities-v2.webp"
+},
     description: {
       "de": "Kariba ist eine Stadt am Ufer des riesigen Kariba-Stausees, bekannt für Wasserkraft und Tourismus.",
       "hu": "A Kariba-tó partján fekvő üdülőváros, amely a hatalmas vízerőmű gátjának építésekor jött létre.",
@@ -532,7 +576,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [29.6925, -16.8099],
-    name: { de: "Karoi", hu: "Karoi", ro: "Karoi", en: "Karoi" },
+    name: { de: "Karoi", hu: "Karoi", ro: "Karoi", en: "Karoi",
+image: "/poi-images/karoi-cities-v2.webp"
+},
     description: {
       "de": "Karoi ist ein bedeutendes landwirtschaftliches Handelszentrum im Nordwesten des Landes.",
       "hu": "Mezőgazdasági központ Mashonaland West tartományban, az ország egyik legjobb dohánytermő vidéke.",
@@ -551,7 +597,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MA",
     coords: [32.6236, -20.1883],
-    name: { de: "Chipinge", hu: "Chipinge", ro: "Chipinge", en: "Chipinge" },
+    name: { de: "Chipinge", hu: "Chipinge", ro: "Chipinge", en: "Chipinge",
+image: "/poi-images/chipinge-cities-v2.webp"
+},
     description: {
       "de": "Chipinge liegt im fruchtbaren Südosten and ist berühmt für seine Tee- und Kaffeeplantagen.",
       "hu": "A Keleti-felföld délkeleti részén fekvő város, amely tea- és kávéültetvényeiről nevezetes.",
@@ -570,7 +618,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [28.9349, -18.2048],
-    name: { de: "Gokwe", hu: "Gokwe", ro: "Gokwe", en: "Gokwe" },
+    name: { de: "Gokwe", hu: "Gokwe", ro: "Gokwe", en: "Gokwe",
+image: "/poi-images/gokwe-cities-v2.webp"
+},
     description: {
       "de": "Gokwe ist ein großes ländliches Handelszentrum, das für seinen Baumwollanbau bekannt ist.",
       "hu": "Hatalmas vidéki központ a Midlands tartományban, a zimbabwei gyapottermesztés szíve.",
@@ -588,7 +638,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [30.0058, -19.6702],
-    name: { de: "Shurugwi", hu: "Shurugwi", ro: "Shurugwi", en: "Shurugwi" },
+    name: { de: "Shurugwi", hu: "Shurugwi", ro: "Shurugwi", en: "Shurugwi",
+image: "/poi-images/shurugwi-cities-v2.webp"
+},
     description: {
       "de": "Shurugwi ist eine malerisch in den Bergen gelegene Stadt mit einer langen Bergbautradition.",
       "hu": "Hegyvidéki bányászváros, amely különösen gazdag króm- és aranylelőhelyeiről ismert.",
@@ -607,7 +659,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MS",
     coords: [29, -20.9333],
-    name: { de: "Gwanda", hu: "Gwanda", ro: "Gwanda", en: "Gwanda" },
+    name: { de: "Gwanda", hu: "Gwanda", ro: "Gwanda", en: "Gwanda",
+image: "/poi-images/gwanda-cities-v2.webp"
+},
     description: {
       "de": "Gwanda ist die Hauptstadt von Matabeleland South und ein Zentrum für Bergbau und Viehzucht.",
       "hu": "Matabeleland South tartomány székhelye, amely az állattenyésztés és az aranybányászat központja.",
@@ -625,7 +679,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MV",
     coords: [30.4667, -20.0333],
-    name: { de: "Mashava", hu: "Mashava", ro: "Mashava", en: "Mashava" },
+    name: { de: "Mashava", hu: "Mashava", ro: "Mashava", en: "Mashava",
+image: "/poi-images/mashava-cities-v2.webp"
+},
     description: {
       "de": "Mashava ist eine traditionelle Bergbausiedlung westlich von Masvingo.",
       "hu": "Masvingo közelében fekvő bányásztelepülés, amely történelmileg azbesztbányáiról volt híres.",
@@ -643,7 +699,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-ME",
     coords: [32.2269, -17.397],
-    name: { de: "Mutoko", hu: "Mutoko", ro: "Mutoko", en: "Mutoko" },
+    name: { de: "Mutoko", hu: "Mutoko", ro: "Mutoko", en: "Mutoko",
+image: "/poi-images/mutoko-cities-v2.webp"
+},
     description: {
       "de": "Mutoko ist ein wichtiger landwirtschaftlicher Versorgungsort im Nordosten Simbabwes.",
       "hu": "Mezőgazdasági kereskedőváros az ország északkeleti részén, a zöldség- és gyümölcstermesztés központja.",
@@ -662,7 +720,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-HA",
     coords: [31.1475, -17.89],
-    name: { de: "Epworth", hu: "Epworth", ro: "Epworth", en: "Epworth" },
+    name: { de: "Epworth", hu: "Epworth", ro: "Epworth", en: "Epworth",
+image: "/poi-images/epworth-cities-v2.webp"
+},
     description: {
       "de": "Epworth ist ein dicht besiedelter Vorort von Harare, bekannt für seine beeindruckenden Felsformationen.",
       "hu": "Harare délkeleti határában fekvő sűrűn lakott település, amely különleges sziklaképződményeiről ismert.",
@@ -680,7 +740,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [30.5283, -19.2792],
-    name: { de: "Mvuma", hu: "Mvuma", ro: "Mvuma", en: "Mvuma" },
+    name: { de: "Mvuma", hu: "Mvuma", ro: "Mvuma", en: "Mvuma",
+image: "/poi-images/mvuma-cities-v2.webp"
+},
     description: {
       "de": "Mvuma ist ein historischer Verkehrsknotenpunkt in den Midlands, strategisch günstig an der Hauptstraße gelegen.",
       "hu": "Kereskedelmi csomópont a Midlands tartományban, a Masvingo és Harare közötti út mentén.",
@@ -699,7 +761,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [31.5667, -17.3167],
-    name: { de: "Shamva", hu: "Shamva", ro: "Shamva", en: "Shamva" },
+    name: { de: "Shamva", hu: "Shamva", ro: "Shamva", en: "Shamva",
+image: "/poi-images/shamva-cities-v2.webp"
+},
     description: {
       "de": "Shamva ist eine bedeutende Bergbaustadt in Mashonaland Central mit einer langen Geschichte der Goldgewinnung.",
       "hu": "Bányászváros Mashonaland Central tartományban, ahol az ország egyik legrégebbi aranybányája működik.",
@@ -717,7 +781,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [31.0667, -17.3833],
-    name: { de: "Glendale", hu: "Glendale", ro: "Glendale", en: "Glendale" },
+    name: { de: "Glendale", hu: "Glendale", ro: "Glendale", en: "Glendale",
+image: "/poi-images/glendale-cities-v2.webp"
+},
     description: {
       "de": "Glendale ist ein landwirtschaftliches Zentrum im fruchtbaren Mazowe-Tal, spezialisiert auf den Ackerbau.",
       "hu": "A termékeny Mazowe-völgyben fekvő mezőgazdasági város, Zimbabwe éléskamrájának része.",
@@ -735,7 +801,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [30.85, -17.0333],
-    name: { de: "Mvurwi", hu: "Mvurwi", ro: "Mvurwi", en: "Mvurwi" },
+    name: { de: "Mvurwi", hu: "Mvurwi", ro: "Mvurwi", en: "Mvurwi",
+image: "/poi-images/mvurwi-cities-v2.webp"
+},
     description: {
       "de": "Mvurwi ist ein wichtiges Handelszentrum für die florierende Tabakindustrie in Mashonaland Central.",
       "hu": "Dinamikusan fejlődő mezőgazdasági település, amely az ország egyik legfontosabb dohánytermő vidéke.",
@@ -754,7 +822,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [31.5833, -16.7833],
-    name: { de: "Mount Darwin", hu: "Mount Darwin", ro: "Mount Darwin", en: "Mount Darwin" },
+    name: { de: "Mount Darwin", hu: "Mount Darwin", ro: "Mount Darwin", en: "Mount Darwin",
+image: "/poi-images/mount-darwin-cities-v2.webp"
+},
     description: {
       "de": "Mount Darwin ist ein administratives Zentrum im Nordosten Simbabwes mit einer reichen Geschichte.",
       "hu": "Történelmi jelentőségű település az ország északkeleti részén, Mashonaland Central tartományban.",
@@ -772,7 +842,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MS",
     coords: [27.8, -20.4833],
-    name: { de: "Plumtree", hu: "Plumtree", ro: "Plumtree", en: "Plumtree" },
+    name: { de: "Plumtree", hu: "Plumtree", ro: "Plumtree", en: "Plumtree",
+image: "/poi-images/plumtree-cities-v2.webp"
+},
     description: {
       "de": "Plumtree ist eine wichtige Grenzstadt zu Botswana und ein zentraler Transitpunkt im Westen Simbabwes.",
       "hu": "Zimbabwe nyugati határvárosa, a Botswanába tartó vasúti és közúti forgalom kapuja.",
@@ -790,7 +862,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-ME",
     coords: [30.8922, -19.0211],
-    name: { de: "Chivhu", hu: "Chivhu", ro: "Chivhu", en: "Chivhu" },
+    name: { de: "Chivhu", hu: "Chivhu", ro: "Chivhu", en: "Chivhu",
+image: "/poi-images/chivhu-cities-v2.webp"
+},
     description: {
       "de": "Chivhu ist ein bedeutender Marktplatz and Verkehrsknotenpunkt im Herzen von Mashonaland East.",
       "hu": "Mezőgazdasági központ Zimbabwe szívében, amely fontos közúti csomópont a főváros felé.",
@@ -808,7 +882,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MV",
     coords: [31.4667, -21.0333],
-    name: { de: "Triangle", hu: "Triangle", ro: "Triangle", en: "Triangle" },
+    name: { de: "Triangle", hu: "Triangle", ro: "Triangle", en: "Triangle",
+image: "/poi-images/triangle-cities-v2.webp"
+},
     description: {
       "de": "Triangle ist eine spezialisierte Stadt im Lowveld, die vollständig um die Zuckerrohrindustrie herum gewachsen ist.",
       "hu": "Kifejezetten a cukoriparra épült vállalati város a Lowveld régióban, hatalmas csatornarendszerekkel.",
@@ -826,7 +902,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [31.1167, -16.7333],
-    name: { de: "Centenary", hu: "Centenary", ro: "Centenary", en: "Centenary" },
+    name: { de: "Centenary", hu: "Centenary", ro: "Centenary", en: "Centenary",
+image: "/poi-images/centenary-cities-v2.webp"
+},
     description: {
       "de": "Centenary ist eine landwirtschaftlich geprägte Siedlung im Norden Simbabwes, bekannt für den Tabakanbau.",
       "hu": "Mezőgazdasági település Zimbabwe északi részén, amely a dohány- és gyapottermesztéséről ismert.",
@@ -844,7 +922,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [30.4, -17.3833],
-    name: { de: "Banket", hu: "Banket", ro: "Banket", en: "Banket" },
+    name: { de: "Banket", hu: "Banket", ro: "Banket", en: "Banket",
+image: "/poi-images/banket-cities-v2.webp"
+},
     description: {
       "de": "Banket ist ein wichtiger Versorgungsort für die umliegenden Farmen in der Provinz Mashonaland West.",
       "hu": "Mezőgazdasági szolgáltató város a termékeny Mashonaland West tartományban, közel Chinhoyi-hoz.",
@@ -862,7 +942,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [26.8667, -18.6167],
-    name: { de: "Dete", hu: "Dete", ro: "Dete", en: "Dete" },
+    name: { de: "Dete", hu: "Dete", ro: "Dete", en: "Dete",
+image: "/poi-images/dete-cities-v2.webp"
+},
     description: {
       "de": "Dete ist eine kleine Siedlung am Rand des Hwange-Nationalparks und ein wichtiger Stopp für Bahnfahrende.",
       "hu": "Kis település a Hwange Nemzeti Park szélén, amely fontos turisztikai és vasúti állomás.",
@@ -880,7 +962,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [28.9, -19],
-    name: { de: "Nkayi", hu: "Nkayi", ro: "Nkayi", en: "Nkayi" },
+    name: { de: "Nkayi", hu: "Nkayi", ro: "Nkayi", en: "Nkayi",
+image: "/poi-images/nkayi-cities-v2.webp"
+},
     description: {
       "de": "Nkayi ist ein ländliches Verwaltungszentrum in der Provinz Matabeleland North.",
       "hu": "Matabeleland North tartomány egyik elszigeteltebb, de fontos közigazgatási és oktatási központja.",
@@ -898,7 +982,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MI",
     coords: [29.9167, -20.4833],
-    name: { de: "Mberengwa", hu: "Mberengwa", ro: "Mberengwa", en: "Mberengwa" },
+    name: { de: "Mberengwa", hu: "Mberengwa", ro: "Mberengwa", en: "Mberengwa",
+image: "/poi-images/mberengwa-cities-v2.webp"
+},
     description: {
       "de": "Mberengwa ist ein mineralreiches Gebiet in der Provinz Midlands mit einer starken Bergbautradition.",
       "hu": "Ásványkincsekben rendkívül gazdag körzet a Midlands tartományban, a kisüzemi bányászat központja.",
@@ -916,7 +1002,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [27.7667, -19.7667],
-    name: { de: "Tsholotsho", hu: "Tsholotsho", ro: "Tsholotsho", en: "Tsholotsho" },
+    name: { de: "Tsholotsho", hu: "Tsholotsho", ro: "Tsholotsho", en: "Tsholotsho",
+image: "/poi-images/tsholotsho-cities-v2.webp"
+},
     description: {
       "de": "Tsholotsho ist ein bedeutendes ländliches Zentrum im Westen Simbabwes mit einer starken lokalen Kultur.",
       "hu": "Matabeleland North tartomány egyik kulturális központja, a Kalahári-homokvidék szélén.",
@@ -934,7 +1022,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [27.3414, -17.6203],
-    name: { de: "Binga", hu: "Binga", ro: "Binga", en: "Binga" },
+    name: { de: "Binga", hu: "Binga", ro: "Binga", en: "Binga",
+image: "/poi-images/binga-cities-v2.webp"
+},
     description: {
       "de": "Binga am Südufer des Kariba-Sees ist das kulturelle Herz des Tonga-Volkes.",
       "hu": "A Kariba-tó partján fekvő város, amely a Tonga nép kulturális és spirituális központja.",
@@ -952,7 +1042,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MS",
     coords: [29.2833, -20.5333],
-    name: { de: "Filabusi", hu: "Filabusi", ro: "Filabusi", en: "Filabusi" },
+    name: { de: "Filabusi", hu: "Filabusi", ro: "Filabusi", en: "Filabusi",
+image: "/poi-images/filabusi-cities-v2.webp"
+},
     description: {
       "de": "Filabusi ist ein kleiner Bergbau- und Agrarort im Herzen der Provinz Matabeleland South.",
       "hu": "Bányászati és mezőgazdasági központ Matabeleland South tartományban, Bulawayótól délkeletre.",
@@ -970,7 +1062,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MN",
     coords: [28.8475, -19.6758],
-    name: { de: "Inyati", hu: "Inyati", ro: "Inyati", en: "Inyati" },
+    name: { de: "Inyati", hu: "Inyati", ro: "Inyati", en: "Inyati",
+image: "/poi-images/inyati-cities-v2.webp"
+},
     description: {
       "de": "Inyati ist eine historisch bedeutende Missionsstation und Siedlung in Matabeleland North.",
       "hu": "Zimbabwe egyik legrégebbi európai települése, amely eredetileg missziós állomásként jött létre.",
@@ -989,7 +1083,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "state-capital",
     parent: "ZW-MN",
     coords: [27.8333, -18.9333],
-    name: { de: "Lupane", hu: "Lupane", ro: "Lupane", en: "Lupane" },
+    name: { de: "Lupane", hu: "Lupane", ro: "Lupane", en: "Lupane",
+image: "/poi-images/lupane-cities-v2.webp"
+},
     description: {
       "de": "Lupane ist die Hauptstadt von Matabeleland North und Sitz der staatlichen Universität der Provinz.",
       "hu": "Matabeleland North tartomány közigazgatási székhelye, amely fontos oktatási központtá fejlődött.",
@@ -1007,7 +1103,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [30.7, -16.65],
-    name: { de: "Guruve", hu: "Guruve", ro: "Guruve", en: "Guruve" },
+    name: { de: "Guruve", hu: "Guruve", ro: "Guruve", en: "Guruve",
+image: "/poi-images/guruve-cities-v2.webp"
+},
     description: {
       "de": "Guruve ist ein fruchtbares landwirtschaftliches Gebiet, das für seine Bildhauerkunst und den Ackerbau bekannt ist.",
       "hu": "Mezőgazdasági központ az ország északi részén, amely különösen a művészetéről híres.",
@@ -1026,7 +1124,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [32.0667, -16.5167],
-    name: { de: "Rushinga", hu: "Rushinga", ro: "Rushinga", en: "Rushinga" },
+    name: { de: "Rushinga", hu: "Rushinga", ro: "Rushinga", en: "Rushinga",
+image: "/poi-images/rushinga-cities-v2.webp"
+},
     description: {
       "de": "Rushinga ist ein ländliches Verwaltungszentrum im äußersten Nordosten Simbabwes.",
       "hu": "Adminisztratív és kereskedelmi központ Zimbabwe északkeleti határvidékén.",
@@ -1044,7 +1144,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MA",
     coords: [32.8667, -19.8],
-    name: { de: "Chimanimani", hu: "Chimanimani", ro: "Chimanimani", en: "Chimanimani" },
+    name: { de: "Chimanimani", hu: "Chimanimani", ro: "Chimanimani", en: "Chimanimani",
+image: "/poi-images/chimanimani-cities-v2.webp"
+},
     description: {
       "de": "Chimanimani ist ein idyllischer Bergort, der als Ausgangspunkt für Wanderungen im Chimanimani-Gebirge dient.",
       "hu": "Festői hegyi város a mozambiki határnál, az ország egyik legszebb túraútvonalának kiindulópontja.",
@@ -1062,7 +1164,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MA",
     coords: [32.7483, -18.2144],
-    name: { de: "Nyanga", hu: "Nyanga", ro: "Nyanga", en: "Nyanga" },
+    name: { de: "Nyanga", hu: "Nyanga", ro: "Nyanga", en: "Nyanga",
+image: "/poi-images/nyanga-cities-v2.webp"
+},
     description: {
       "de": "Nyanga ist ein erstklassiges Touristenziel in den Eastern Highlands, bekannt für seine kühle Luft und Wasserfälle.",
       "hu": "Zimbabwe legnépszerűbb hegyvidéki üdülőhelye, amely vízeséseiről és kőpöttyös tájairól ismert.",
@@ -1080,7 +1184,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MA",
     coords: [32.7, -18.8833],
-    name: { de: "Penhalonga", hu: "Penhalonga", ro: "Penhalonga", en: "Penhalonga" },
+    name: { de: "Penhalonga", hu: "Penhalonga", ro: "Penhalonga", en: "Penhalonga",
+image: "/poi-images/penhalonga-cities-v2.webp"
+},
     description: {
       "de": "Penhalonga ist ein malerisches Tal nahe Mutare mit einer reichen Geschichte des Goldbergbaus.",
       "hu": "Egy festői völgyben elhelyezkedő város Mutare közelében, amely az aranybányászatáról híres.",
@@ -1098,7 +1204,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MA",
     coords: [32.05, -18.2833],
-    name: { de: "Headlands", hu: "Headlands", ro: "Headlands", en: "Headlands" },
+    name: { de: "Headlands", hu: "Headlands", ro: "Headlands", en: "Headlands",
+image: "/poi-images/headlands-cities-v2.webp"
+},
     description: {
       "de": "Headlands ist ein kleiner Handelsort an der strategisch wichtigen Route zwischen Harare und Mutare.",
       "hu": "Kereskedelmi település a Harare-Mutare főút mentén, a Manicaland tartomány kapujában.",
@@ -1116,7 +1224,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MC",
     coords: [30.95, -17.3833],
-    name: { de: "Concession", hu: "Concession", ro: "Concession", en: "Concession" },
+    name: { de: "Concession", hu: "Concession", ro: "Concession", en: "Concession",
+image: "/poi-images/concession-cities-v2.webp"
+},
     description: {
       "de": "Concession ist eine historische Bergbau- und Agrarsiedlung im fruchtbaren Mazowe-Distrikt.",
       "hu": "Mezőgazdasági és bányászati város a Mazowe-völgyben, a fővárostól északra.",
@@ -1134,7 +1244,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-ME",
     coords: [31.7833, -17.65],
-    name: { de: "Murehwa", hu: "Murehwa", ro: "Murehwa", en: "Murehwa" },
+    name: { de: "Murehwa", hu: "Murehwa", ro: "Murehwa", en: "Murehwa",
+image: "/poi-images/murehwa-cities-v2.webp"
+},
     description: {
       "de": "Murehwa ist ein bedeutendes kulturelles und administratives Zentrum im Osten von Mashonaland.",
       "hu": "Kulturális és adminisztratív központ Zimbabwe keleti részén, amely híres sziklarajzairól.",
@@ -1152,7 +1264,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-ME",
     coords: [31.6333, -18.6167],
-    name: { de: "Wedza", hu: "Wedza", ro: "Wedza", en: "Wedza" },
+    name: { de: "Wedza", hu: "Wedza", ro: "Wedza", en: "Wedza",
+image: "/poi-images/wedza-cities-v2.webp"
+},
     description: {
       "de": "Wedza ist ein ländliches Zentrum, das malerisch am Fuß des beeindruckenden Wedza-Berges liegt.",
       "hu": "Egy látványos hegy lábánál fekvő mezőgazdasági település a Mashonaland East tartományban.",
@@ -1171,7 +1285,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-ME",
     coords: [31.3667, -17.8167],
-    name: { de: "Goromonzi", hu: "Goromonzi", ro: "Goromonzi", en: "Goromonzi" },
+    name: { de: "Goromonzi", hu: "Goromonzi", ro: "Goromonzi", en: "Goromonzi",
+image: "/poi-images/goromonzi-cities-v2.webp"
+},
     description: {
       "de": "Goromonzi ist eine wachsende Gemeinde nahe der Hauptstadt, bekannt für ihre Bildungseinrichtungen.",
       "hu": "Harare közeli vidéki körzet központja, amely kiemelkedő oktatási intézményeiről híres.",
@@ -1190,7 +1306,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MW",
     coords: [29.8667, -18.0667],
-    name: { de: "Chakari", hu: "Chakari", ro: "Chakari", en: "Chakari" },
+    name: { de: "Chakari", hu: "Chakari", ro: "Chakari", en: "Chakari",
+image: "/poi-images/chakari-cities-v2.webp"
+},
     description: {
       "de": "Chakari ist eine traditionelle Bergbausiedlung in Mashonaland West, die vom Goldbergbau geprägt ist.",
       "hu": "Hagyományos bányásztelepülés Mashonaland West tartományban, amely ma is az aranyra épül.",
@@ -1208,7 +1326,9 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     type: "city",
     parent: "ZW-MS",
     coords: [29.3667, -19.7833],
-    name: { de: "Shangani", hu: "Shangani", ro: "Shangani", en: "Shangani" },
+    name: { de: "Shangani", hu: "Shangani", ro: "Shangani", en: "Shangani",
+image: "/poi-images/shangani-cities-v2.webp"
+},
     description: {
       "de": "Shangani ist ein kleiner Ort mit großer historischer Bedeutung an der Strecke zwischen Gweru und Bulawayo.",
       "hu": "Történelmi jelentőségű kisváros a Bulawayo és Gweru közötti útvonal mentén.",

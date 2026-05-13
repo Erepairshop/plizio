@@ -4,7 +4,9 @@ export const luxembourgNatureV2: POI[] = [
   {
     id: "luxembourg-lake-upper-sure-nature-v2",
     type: "lake",
-    name: { de: "Obersauer-Stausee", hu: "Felső-Sûre-tó", ro: "Lacul de pe Sûre Superioară", en: "Lake Upper Sûre" },
+    name: { de: "Obersauer-Stausee", hu: "Felső-Sûre-tó", ro: "Lacul de pe Sûre Superioară", en: "Lake Upper Sûre",
+image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp"
+},
     coordinates: { lat: 49.9014, lng: 5.9125 },
     description: {
       de: "Der größte See Luxemburgs entstand in den 1950er Jahren durch den Bau einer Talsperre. Er dient der Trinkwasserversorgung des Landes und ist ein wichtiges Naherholungsgebiet.",
@@ -18,11 +20,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 3,8 km²", "Adâncime maximă: 43 metri", "Construcția barajului: 1955-1958", "Sursă de apă pentru 70% din populație"],
       en: ["Surface area: approx. 3.8 km²", "Maximum depth: 43 meters", "Dam construction: 1955-1958", "Provides water for 70% of population"],
     },
-    imageHint: "Aerial view of Lake Upper Sûre with forested hills", image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp"},
-  {
+imageHint: "Aerial view of Lake Upper Sûre with forested hills",
+    descriptionAdvanced: {
+      de: "Der 1961 geschaffene Stausee ist das größte Trinkwasserreservoir des Landes und liegt im Herzen des Naturparks Obersauer.",
+      hu: "Az 1961-ben létrehozott víztározó Luxemburg legnagyobb ivóvízforrása, a Felső-Sûre Natúrpark szívében terül el.",
+      ro: "Creat în 1961, acest lac de acumulare este principalul rezervor de apă potabilă al țării, situat în Parcul Natural Upper Sûre.",
+      en: "Created in 1961, this reservoir serves as the country's primary drinking water source and is the heart of the Upper Sûre Natural Park.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 3,8 km²", "Maximale Tiefe: 43 m", "Staumauerhöhe: 47 m", "Bauzeit: 1955–1959"],
+      hu: ["Területe: 3,8 km²", "Maximális mélység: 43 m", "Gát magassága: 47 m", "Épült: 1955–1959"],
+      ro: ["Suprafață: 3,8 km²", "Adâncime maximă: 43 m", "Înălțimea barajului: 47 m", "Construit: 1955–1959"],
+      en: ["Surface area: 3.8 km²", "Maximum depth: 43 m", "Dam height: 47 m", "Built: 1955–1959"],
+    },
+    image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp",
+},  {
     id: "luxembourg-sauer-river-nature-v2",
     type: "river",
-    name: { de: "Sauer", hu: "Sûre", ro: "Râul Sûre", en: "Sauer River" },
+    name: { de: "Sauer", hu: "Sûre", ro: "Râul Sûre", en: "Sauer River",
+image: "/poi-images/luxembourg-sauer-river-nature-v2.webp"
+},
     coordinates: { lat: 49.8117, lng: 6.4214 },
     description: {
       de: "Die Sauer ist ein linker Nebenfluss der Mosel und durchfließt den Norden und Osten Luxemburgs. Sie bildet auf weiten Strecken die natürliche Grenze zu Deutschland.",
@@ -36,11 +53,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime totală: 173 kilometri", "Bazin hidrografic: 4.259 km²", "Vărsare în Mosela la Wasserbillig", "Cel mai important râu din Ardenii luxemburghezi"],
       en: ["Total length: 173 kilometers", "Drainage basin: 4,259 km²", "Confluence with Moselle at Wasserbillig", "Most important river of the Luxembourg Ardennes"],
     },
-    imageHint: "The Sauer River winding through a green valley", image: "/poi-images/luxembourg-sauer-river-nature-v2.webp"},
-  {
+imageHint: "The Sauer River winding through a green valley",
+    descriptionAdvanced: {
+      de: "Die Sauer durchquert die luxemburgischen Ardennen und bildet über weite Strecken die natürliche Grenze zu Deutschland.",
+      hu: "A Sauer folyó átszeli a luxemburgi Ardenneket, és hosszú szakaszon természetes határt képez Németországgal.",
+      ro: "Râul Sauer traversează Ardenii luxemburghezi și formează pe o distanță lungă granița naturală cu Germania.",
+      en: "The Sauer river crosses the Luxembourgish Ardennes and forms the natural border with Germany over a long distance.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 173 km", "Einzugsgebiet: 4.259 km²", "Quelle: Vaux-lez-Rosières", "Mündung in die Mosel"],
+      hu: ["Teljes hossz: 173 km", "Vízgyűjtő terület: 4259 km²", "Forrás: Vaux-lez-Rosières", "Torkolat: Mosel folyó"],
+      ro: ["Lungime totală: 173 km", "Bazin hidrografic: 4.259 km²", "Sursă: Vaux-lez-Rosières", "Vărsare: râul Mosela"],
+      en: ["Total length: 173 km", "Basin area: 4,259 km²", "Source: Vaux-lez-Rosières", "Mouth: Moselle River"],
+    },
+    image: "/poi-images/luxembourg-sauer-river-nature-v2.webp",
+},  {
     id: "luxembourg-our-river-nature-v2",
     type: "river",
-    name: { de: "Our", hu: "Our", ro: "Râul Our", en: "Our River" },
+    name: { de: "Our", hu: "Our", ro: "Râul Our", en: "Our River",
+image: "/poi-images/luxembourg-our-river-nature-v2.webp"
+},
     coordinates: { lat: 49.9425, lng: 6.2217 },
     description: {
       de: "Dieser Nebenfluss der Sauer entspringt in den Ardennen und prägt die Landschaft im Nordosten des Landes. Die Our ist bekannt für ihr tief eingeschnittenes Tal und malerische Mäander.",
@@ -54,11 +86,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 78 kilometri", "Râu de frontieră între Luxemburg și Germania", "Traversează rezervația naturală Valea Our", "Alimentează hidrocentrala de la Vianden"],
       en: ["Length: 78 kilometers", "Border river between Luxembourg and Germany", "Flows through the Our Valley nature reserve", "Feeds the Vianden pumped-storage plant"],
     },
-    imageHint: "Our River with rocky banks and forests", image: "/poi-images/luxembourg-our-river-nature-v2.webp"},
-  {
+imageHint: "Our River with rocky banks and forests",
+    descriptionAdvanced: {
+      de: "Die Our schlängelt sich durch ein enges Tal im Norden und ist bekannt für ihre unberührte Natur und historischen Mühlen.",
+      hu: "Az Our folyó egy szűk völgyben kanyarog északon, érintetlen természetéről és történelmi malmairól ismert.",
+      ro: "Râul Our șerpuiește printr-o vale îngustă în nord, fiind cunoscut pentru natura virgină și morile sale istorice.",
+      en: "The Our river winds through a narrow valley in the north, known for its pristine nature and historic mills.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 78 km", "Grenzfluss zu Deutschland", "Naturschutzgebiet Ourtal", "Pumpspeicherwerk Vianden"],
+      hu: ["Hossza: kb. 78 km", "Határfolyó Németországgal", "Ourtal természetvédelmi terület", "Viandeni szivattyús erőmű"],
+      ro: ["Lungime: aprox. 78 km", "Râu de frontieră cu Germania", "Rezervația naturală Ourtal", "Centrala din Vianden"],
+      en: ["Length: approx. 78 km", "Border river with Germany", "Ourtal nature reserve", "Vianden pumped-storage plant"],
+    },
+    image: "/poi-images/luxembourg-our-river-nature-v2.webp",
+},  {
     id: "luxembourg-clerve-river-nature-v2",
     type: "river",
-    name: { de: "Clerf (Fluss)", hu: "Clerve", ro: "Râul Clerve", en: "Clerve River" },
+    name: { de: "Clerf (Fluss)", hu: "Clerve", ro: "Râul Clerve", en: "Clerve River",
+image: "/poi-images/luxembourg-clerve-river-nature-v2.webp"
+},
     coordinates: { lat: 50.0542, lng: 6.0311 },
     description: {
       de: "Die Clerf ist ein Fluss im Norden Luxemburgs, der durch die Stadt Clervaux fließt. Das Tal ist geprägt von dichten Wäldern und steilen Hängen der Ardennen.",
@@ -72,11 +119,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: aprox. 48 kilometri", "Se varsă în râul Wiltz la Kautenbach", "Numele provine din celticul 'Clarus'", "Zonă populară pentru pescuitul de păstrăv"],
       en: ["Length: approx. 48 kilometers", "Flows into the Wiltz at Kautenbach", "Name originates from the Celtic 'Clarus'", "Popular trout fishing area"],
     },
-    imageHint: "River Clerve flowing through Clervaux valley", image: "/poi-images/luxembourg-clerve-river-nature-v2.webp"},
-  {
+imageHint: "River Clerve flowing through Clervaux valley",
+    descriptionAdvanced: {
+      de: "Die Clerve fließt durch das Ösling und prägt mit ihren Windungen die Landschaft um die malerische Stadt Clerf.",
+      hu: "A Clerve folyó az Ösling régión folyik keresztül, kanyarulataival meghatározva Clervaux városának tájképét.",
+      ro: "Râul Clerve curge prin regiunea Ösling, modelând prin meandrele sale peisajul din jurul orașului Clervaux.",
+      en: "The Clerve river flows through the Oesling region, its bends shaping the landscape around the town of Clervaux.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 48 km", "Quelle bei Huldingen", "Nebenfluss der Wiltz", "Verlauf im Kanton Clerf"],
+      hu: ["Hossz: 48 km", "Forrás: Huldingen közelében", "A Wiltz mellékfolyója", "Clervaux kantonon halad át"],
+      ro: ["Lungime: 48 km", "Sursă lângă Huldingen", "Afluent al râului Wiltz", "Traversează cantonul Clervaux"],
+      en: ["Length: 48 km", "Source near Huldingen", "Tributary of the Wiltz", "Flows through Clervaux canton"],
+    },
+    image: "/poi-images/luxembourg-clerve-river-nature-v2.webp",
+},  {
     id: "luxembourg-attert-river-nature-v2",
     type: "river",
-    name: { de: "Attert", hu: "Attert", ro: "Râul Attert", en: "Attert River" },
+    name: { de: "Attert", hu: "Attert", ro: "Râul Attert", en: "Attert River",
+image: "/poi-images/luxembourg-attert-river-nature-v2.webp"
+},
     coordinates: { lat: 49.7625, lng: 5.8917 },
     description: {
       de: "Die Attert fließt durch den Westen des Landes und mündet bei Colmar-Berg in die Alzette. Das Attert-Tal ist bekannt für seine sanften Hügel und landwirtschaftliche Nutzung.",
@@ -90,11 +152,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime în Luxemburg: 33 kilometri", "Origine în Belgia, lângă Arlon", "Considerat unul dintre cele mai curate râuri din țară", "Habitat pentru specii rare de libelule"],
       en: ["Length in Luxembourg: 33 kilometers", "Originates in Belgium near Arlon", "Considered one of the cleanest rivers in the country", "Home to rare dragonfly species"],
     },
-    imageHint: "Attert River in a rural Luxembourg landscape", image: "/poi-images/luxembourg-attert-river-nature-v2.webp"},
-  {
+imageHint: "Attert River in a rural Luxembourg landscape",
+    descriptionAdvanced: {
+      de: "Der Fluss Attert ist Namensgeber für ein weites Tal im Westen Luxemburgs, das für seine landwirtschaftliche Nutzung bekannt ist.",
+      hu: "Az Attert folyó egy tágas völgynek ad nevet Luxemburg nyugati részén, amely mezőgazdasági hasznosításáról ismert.",
+      ro: "Râul Attert dă numele unei văi largi din vestul Luxemburgului, cunoscută pentru utilizarea sa agricolă.",
+      en: "The Attert river gives its name to a wide valley in western Luxembourg, known for its agricultural use.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 38 km", "Quelle in Belgien", "Mündung in die Sauer", "Einzugsgebiet: 299 km²"],
+      hu: ["Hossz: 38 km", "Forrás: Belgiumban", "Torkolat: Sauer folyó", "Vízgyűjtő: 299 km²"],
+      ro: ["Lungime: 38 km", "Sursă în Belgia", "Vărsare: râul Sauer", "Bazin: 299 km²"],
+      en: ["Length: 38 km", "Source in Belgium", "Mouth: Sauer River", "Basin area: 299 km²"],
+    },
+    image: "/poi-images/luxembourg-attert-river-nature-v2.webp",
+},  {
     id: "luxembourg-eisch-river-nature-v2",
     type: "river",
-    name: { de: "Eisch", hu: "Eisch", ro: "Râul Eisch", en: "Eisch River" },
+    name: { de: "Eisch", hu: "Eisch", ro: "Râul Eisch", en: "Eisch River",
+image: "/poi-images/luxembourg-eisch-river-nature-v2.webp"
+},
     coordinates: { lat: 49.6642, lng: 5.9214 },
     description: {
       de: "Die Eisch ist ein Nebenfluss der Alzette und bildet das Zentrum des sogenannten Tals der sieben Schlösser. Die Landschaft ist geprägt von dichten Mischwäldern und historischen Bauten.",
@@ -108,11 +185,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 28 kilometri", "Se varsă în Alzette la Mersch", "Dă numele văii 'Eischtal'", "Un traseu de drumeție important trece pe malul său"],
       en: ["Length: 28 kilometers", "Confluence with Alzette at Mersch", "Gives its name to the 'Eischtal' valley", "Important hiking trail runs along its banks"],
     },
-    imageHint: "Eisch River flowing through a wooded valley", image: "/poi-images/luxembourg-eisch-river-nature-v2.webp"},
-  {
+imageHint: "Eisch River flowing through a wooded valley",
+    descriptionAdvanced: {
+      de: "Die Eisch fließt durch das berühmte \"Tal der sieben Schlösser\" und bietet eine idyllische Kulisse für Wanderungen.",
+      hu: "Az Eisch folyó a híres \"Hét kastély völgyén\" halad át, idilli hátteret nyújtva a túrázáshoz.",
+      ro: "Râul Eisch curge prin celebra \"Vale a celor șapte castele\", oferind un cadru idilic pentru drumeții.",
+      en: "The Eisch river flows through the famous \"Valley of the Seven Castles\", providing an idyllic backdrop for hiking.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 49 km", "Quelle in Ethe (Belgien)", "Mündung bei Mersch", "Durchfließt das Gutland"],
+      hu: ["Hossz: 49 km", "Forrás: Ethe (Belgium)", "Torkolat: Mersch közelében", "A Gutland régión folyik át"],
+      ro: ["Lungime: 49 km", "Sursă în Ethe (Belgia)", "Vărsare: lângă Mersch", "Curge prin Gutland"],
+      en: ["Length: 49 km", "Source in Ethe (Belgium)", "Mouth: near Mersch", "Flows through Gutland"],
+    },
+    image: "/poi-images/luxembourg-eisch-river-nature-v2.webp",
+},  {
     id: "luxembourg-mamer-river-nature-v2",
     type: "river",
-    name: { de: "Mamer (Fluss)", hu: "Mamer", ro: "Râul Mamer", en: "Mamer River" },
+    name: { de: "Mamer (Fluss)", hu: "Mamer", ro: "Râul Mamer", en: "Mamer River",
+image: "/poi-images/luxembourg-mamer-river-nature-v2.webp"
+},
     coordinates: { lat: 49.6314, lng: 6.0317 },
     description: {
       de: "Die Mamer entspringt im Gutland und fließt nach Norden, wo sie bei Mersch in die Alzette mündet. Der Flusslauf ist für seine natürliche Dynamik und kleinen Schluchten bekannt.",
@@ -126,11 +218,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 25,6 kilometri", "Traversează comunele Mamer și Kopstal", "Habitat important pentru pescărușul albastru", "Rezervații naturale de-a lungul cursului inferior"],
       en: ["Length: 25.6 kilometers", "Flows through Mamer and Kopstal municipalities", "Important habitat for the kingfisher", "Nature reserves along its lower course"],
     },
-    imageHint: "Mamer River surrounded by lush greenery", image: "/poi-images/luxembourg-mamer-river-nature-v2.webp"},
-  {
+imageHint: "Mamer River surrounded by lush greenery",
+    descriptionAdvanced: {
+      de: "Die Mamer entspringt im Südwesten und fließt nach Norden, wobei sie wertvolle Biotopflächen für seltene Vogelarten schafft.",
+      hu: "A Mamer délnyugaton ered és észak felé folyik, értékes biotópokat hozva létre ritka madárfajok számára.",
+      ro: "Râul Mamer izvorăște în sud-vest și curge spre nord, creând biotopuri valoroase pentru specii rare de păsări.",
+      en: "The Mamer rises in the southwest and flows north, creating valuable biotopes for rare bird species.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 25 km", "Quelle bei Hivange", "Mündung in die Alzette", "Natura 2000 Schutzgebiet"],
+      hu: ["Hossz: kb. 25 km", "Forrás: Hivange közelében", "Torkolat: Alzette folyó", "Natura 2000 terület"],
+      ro: ["Lungime: aprox. 25 km", "Sursă la Hivange", "Vărsare: râul Alzette", "Sit Natura 2000"],
+      en: ["Length: approx. 25 km", "Source near Hivange", "Mouth: Alzette River", "Natura 2000 protected site"],
+    },
+    image: "/poi-images/luxembourg-mamer-river-nature-v2.webp",
+},  {
     id: "luxembourg-wiltz-river-nature-v2",
     type: "river",
-    name: { de: "Wiltz (Fluss)", hu: "Wiltz", ro: "Râul Wiltz", en: "Wiltz River" },
+    name: { de: "Wiltz (Fluss)", hu: "Wiltz", ro: "Râul Wiltz", en: "Wiltz River",
+image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp"
+},
     coordinates: { lat: 49.9625, lng: 5.9317 },
     description: {
       de: "Die Wiltz ist ein Mittelgebirgsfluss in den Öslinger Ardennen. Sie durchfließt tiefe Täler und bildet eine abwechslungsreiche Flusslandschaft mit kleinen Wehren und Felsformationen.",
@@ -144,11 +251,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 42 kilometri", "Afluent principal al râului Sûre", "Izvorăște în Ardenii belgieni", "Bogat în păstrăv și lipan"],
       en: ["Length: 42 kilometers", "Main tributary of the Sauer", "Originates in the Belgian Ardennes", "Rich in trout and grayling"],
     },
-    imageHint: "Wiltz River in the Oesling region", image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp"},
-  {
+imageHint: "Wiltz River in the Oesling region",
+    descriptionAdvanced: {
+      de: "Die Wiltz ist ein bedeutender Nebenfluss der Sauer im Norden des Landes, bekannt für ihre tief in den Schiefer gegrabenen Täler.",
+      hu: "A Wiltz a Sauer jelentős mellékfolyója az ország északi részén, a palába mélyen bevágódott völgyeiről ismert.",
+      ro: "Wiltz este un afluent important al râului Sauer în nordul țării, cunoscut pentru văile sale săpate adânc în ardezie.",
+      en: "The Wiltz is a significant tributary of the Sauer in the north, known for its valleys carved deep into the slate.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 42 km", "Quelle in Belgien", "Mündung bei Goebelsmühle", "Durchfließt die Stadt Wiltz"],
+      hu: ["Hossz: 42 km", "Forrás: Belgiumban", "Torkolat: Goebelsmühle", "Wiltz városán folyik át"],
+      ro: ["Lungime: 42 km", "Sursă în Belgia", "Vărsare: la Goebelsmühle", "Traversează orașul Wiltz"],
+      en: ["Length: 42 km", "Source in Belgium", "Mouth: at Goebelsmühle", "Flows through Wiltz town"],
+    },
+    image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp",
+},  {
     id: "luxembourg-syre-river-nature-v2",
     type: "river",
-    name: { de: "Syr", hu: "Syre", ro: "Râul Syre", en: "Syre River" },
+    name: { de: "Syr", hu: "Syre", ro: "Râul Syre", en: "Syre River",
+image: "/poi-images/luxembourg-syre-river-nature-v2.webp"
+},
     coordinates: { lat: 49.6342, lng: 6.2617 },
     description: {
       de: "Die Syr fließt durch den Osten Luxemburgs und mündet bei Mertert in die Mosel. Sie ist bekannt für ihre renaturierten Abschnitte und Feuchtwiesen im Syrdall.",
@@ -162,11 +284,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 32 kilometri", "Traversează rezervația naturală Schlammwiss", "Zonă importantă de cuibărit pentru păsările de mlaștină", "Origine lângă Syren, în sud"],
       en: ["Length: 32 kilometers", "Flows through the Schlammwiss nature reserve", "Important breeding ground for marsh birds", "Originates near Syren in the south"],
     },
-    imageHint: "Syre River flowing through wetlands", image: "/poi-images/luxembourg-syre-river-nature-v2.webp"},
-  {
+imageHint: "Syre River flowing through wetlands",
+    descriptionAdvanced: {
+      de: "Die Syre entwässert Teile des Gutlandes und mündet bei Mertert in die Mosel, was sie wirtschaftlich für die Schifffahrt wichtig macht.",
+      hu: "A Syre a Gutland egyes részeit csapolja le, és Merternél torkollik a Moselbe, ami fontos a hajózás szempontjából.",
+      ro: "Râul Syre drenează părți din Gutland și se varsă în Mosela la Mertert, fiind important pentru navigație.",
+      en: "The Syre drains parts of the Gutland and flows into the Moselle at Mertert, making it important for shipping.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 32 km", "Quelle bei Syren", "Mündung in Mertert", "Naturschutzgebiet Schlammwis"],
+      hu: ["Hossz: 32 km", "Forrás: Syren közelében", "Torkolat: Mertert", "Schlammwis természetvédelmi terület"],
+      ro: ["Lungime: 32 km", "Sursă lângă Syren", "Vărsare: la Mertert", "Rezervația Schlammwis"],
+      en: ["Length: 32 km", "Source near Syren", "Mouth: at Mertert", "Schlammwis nature reserve"],
+    },
+    image: "/poi-images/luxembourg-syre-river-nature-v2.webp",
+},  {
     id: "luxembourg-kockelscheuer-park-nature-v2",
     type: "park",
-    name: { de: "Kockelscheuer", hu: "Kockelscheuer park", ro: "Parcul Kockelscheuer", en: "Kockelscheuer Park" },
+    name: { de: "Kockelscheuer", hu: "Kockelscheuer park", ro: "Parcul Kockelscheuer", en: "Kockelscheuer Park",
+image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp"
+},
     coordinates: { lat: 49.5642, lng: 6.1117 },
     description: {
       de: "Kockelscheuer ist ein weitläufiges Naherholungsgebiet im Süden der Stadt Luxemburg. Es umfasst Wälder, Teiche und Sportanlagen und ist bekannt für seine ruhige Atmosphäre.",
@@ -180,11 +317,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Locația patinoarului național", "Mai multe iazuri amenajate artificial", "Popular pentru jogging și nordic walking", "Fosta locație a unei lăptării istorice"],
       en: ["Location of the national ice rink", "Several man-made ponds", "Popular for jogging and Nordic walking", "Former site of a historical dairy farm"],
     },
-    imageHint: "Ponds and paths in Kockelscheuer park", image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp"},
-  {
+imageHint: "Ponds and paths in Kockelscheuer park",
+    descriptionAdvanced: {
+      de: "Dieser weitläufige Park im Süden der Hauptstadt bietet eine Mischung aus Erholungsflächen, Teichen und Sportanlagen.",
+      hu: "Ez a fővárostól délre fekvő kiterjedt park pihenőhelyek, tavak és sportlétesítmények egyvelegét kínálja.",
+      ro: "Acest parc vast din sudul capitalei oferă un amalgama de zone de recreere, iazuri și facilități sportive.",
+      en: "This extensive park south of the capital offers a mix of recreational areas, ponds, and sports facilities.",
+    },
+    factsAdvanced: {
+      de: ["Großes Eissportzentrum", "Mehrere Angelteiche", "Trimm-dich-Pfad", "Haus der Natur vor Ort"],
+      hu: ["Nagy jégsportközpont", "Több horgásztó", "Erdei tornapálya", "Természet Háza a helyszínen"],
+      ro: ["Centru mare de sporturi pe gheață", "Mai multe iazuri de pescuit", "Traseu de fitness", "Casa Naturii la fața locului"],
+      en: ["Large ice skating center", "Several fishing ponds", "Fitness trail", "House of Nature on-site"],
+    },
+    image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp",
+},  {
     id: "luxembourg-remerschen-lakes-nature-v2",
     type: "lake",
-    name: { de: "Baggerweieren Remerschen", hu: "Remerscheni-tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes" },
+    name: { de: "Baggerweieren Remerschen", hu: "Remerscheni-tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes",
+image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp"
+},
     coordinates: { lat: 49.4917, lng: 6.3625 },
     description: {
       de: "Diese durch Kiesabbau entstandenen Seen bei Remerschen sind heute ein wichtiges Naturschutzgebiet und Freizeitzentrum. Sie bieten Lebensraum für zahlreiche Wasservögel.",
@@ -198,11 +350,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Include centrul de vizitare Biodiversum", "Locuri populare de scăldat vara", "Cea mai importantă zonă umedă din regiunea Moselei", "Cabane de observare pentru ornitologi"],
       en: ["Includes the Biodiversum visitor center", "Popular swimming spots in summer", "Most important wetland of the Moselle region", "Observation huts for ornithologists"],
     },
-    imageHint: "Remerschen lakes with birdwatching huts", image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp"},
-  {
+imageHint: "Remerschen lakes with birdwatching huts",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Haff Réimech in Remerschen ist eine ehemalige Kiesgrube, die heute ein Paradies für Wasservögel ist.",
+      hu: "A remerscheni Haff Réimech természetvédelmi terület egy korábbi kavicsbánya, amely ma a vízimadarak paradicsoma.",
+      ro: "Rezervația naturală Haff Réimech din Remerschen este o fostă balastieră, astăzi un paradis pentru păsările acvatice.",
+      en: "The Haff Réimech nature reserve in Remerschen is a former gravel pit that is now a paradise for waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Besucherzentrum Biodiversum", "Über 230 Vogelarten", "Fläche: 80 Hektar", "Ehemalige Baggerweiher"],
+      hu: ["Biodiversum látogatóközpont", "Több mint 230 madárfaj", "Terület: 80 hektár", "Korábbi kavicsbánya-tavak"],
+      ro: ["Centrul Biodiversum", "Peste 230 specii de păsări", "Suprafață: 80 hectare", "Foste cariere de pietriș"],
+      en: ["Biodiversum visitor center", "Over 230 bird species", "Area: 80 hectares", "Former gravel pits"],
+    },
+    image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp",
+},  {
     id: "luxembourg-echternach-lake-nature-v2",
     type: "lake",
-    name: { de: "Echternacher See", hu: "Echternachi-tó", ro: "Lacul Echternach", en: "Echternach Lake" },
+    name: { de: "Echternacher See", hu: "Echternachi-tó", ro: "Lacul Echternach", en: "Echternach Lake",
+image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp"
+},
     coordinates: { lat: 49.8042, lng: 6.4017 },
     description: {
       de: "Der Echternacher See ist ein künstlicher See am Rande der ältesten Stadt Luxemburgs. Er wurde in den 1970er Jahren zur Erholung angelegt und ist von einem Park umgeben.",
@@ -216,11 +383,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Suprafață: 30 hectare", "Traseu circular de 3 kilometri lungime", "Adiacent ruinelor unei vile romane", "Locație pentru concerte și sport"],
       en: ["Surface area: 30 hectares", "3-kilometer long circular path", "Adjacent to the remains of a Roman villa", "Venue for concerts and sports"],
     },
-    imageHint: "Lake Echternach with pedal boats", image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp"},
-  {
+imageHint: "Lake Echternach with pedal boats",
+    descriptionAdvanced: {
+      de: "Der Echternacher See ist ein künstlich angelegtes Gewässer, das als Freizeit- und Erholungszentrum im Osten des Landes dient.",
+      hu: "Az Echternachi-tó egy mesterséges víztározó, amely az ország keleti részének szabadidős és pihenőközpontjaként szolgál.",
+      ro: "Lacul Echternach este un corp de apă artificial care servește drept centru de agrement și recreere în estul țării.",
+      en: "Echternach Lake is a man-made body of water that serves as a leisure and recreation center in the east of the country.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 30 Hektar", "Römische Villa am Ufer", "Eröffnet im Jahr 1975", "Austragungsort von Konzerten"],
+      hu: ["Terület: 30 hektár", "Római villa a parton", "Megnyitás: 1975", "Koncertek helyszíne"],
+      ro: ["Suprafață: 30 hectare", "Vilă romană pe mal", "Deschis în anul 1975", "Loc de desfășurare a concertelor"],
+      en: ["Surface area: 30 hectares", "Roman villa on the shore", "Opened in 1975", "Venue for concerts"],
+    },
+    image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp",
+},  {
     id: "luxembourg-weiswampach-lakes-nature-v2",
     type: "lake",
-    name: { de: "Weiswampacher See", hu: "Weiswampachi-tavak", ro: "Lacurile Weiswampach", en: "Weiswampach Lakes" },
+    name: { de: "Weiswampacher See", hu: "Weiswampachi-tavak", ro: "Lacurile Weiswampach", en: "Weiswampach Lakes",
+image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp"
+},
     coordinates: { lat: 50.1417, lng: 6.0725 },
     description: {
       de: "Zwei künstlich angelegte Seen im hohen Norden Luxemburgs, die als Freizeit- und Wassersportzentrum dienen. Sie liegen eingebettet in die Hügellandschaft der Ardennen.",
@@ -234,11 +416,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Suprafață: 6 hectare per lac", "Posibilități de navigație și canotaj", "Camping mare adiacent", "Popular printre pescarii de crap"],
       en: ["Surface: 6 hectares per lake", "Opportunities for sailing and canoeing", "Large adjacent campsite", "Popular with anglers for carp fishing"],
     },
-    imageHint: "Aerial view of Weiswampach lakes", image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp"},
-  {
+imageHint: "Aerial view of Weiswampach lakes",
+    descriptionAdvanced: {
+      de: "Zwei künstliche Seen in Weiswampach bieten vielfältige Freizeitmöglichkeiten wie Schwimmen und Tretbootfahren im hohen Norden.",
+      hu: "Két mesterséges tó Weiswampachban változatos szabadidős lehetőségeket kínál, például úszást és vízibiciklizést északon.",
+      ro: "Două lacuri artificiale în Weiswampach oferă diverse activități de agrement, cum ar fi înotul și plimbările cu hidrobicicleta.",
+      en: "Two artificial lakes in Weiswampach offer diverse leisure opportunities such as swimming and pedal boating in the far north.",
+    },
+    factsAdvanced: {
+      de: ["Zwei Seen à 6 Hektar", "Campingplatz angrenzend", "Höhe: ca. 500 m ü. NN", "Trinkwasserreservat"],
+      hu: ["Két darab 6 hektáros tó", "Szomszédos kemping", "Tengerszint felett 500 m", "Ivóvíztartalék"],
+      ro: ["Două lacuri de câte 6 ha", "Camping adiacent", "Altitudine: aprox. 500 m", "Rezervă de apă potabilă"],
+      en: ["Two lakes of 6 hectares each", "Adjacent campsite", "Altitude: approx. 500 m", "Drinking water reserve"],
+    },
+    image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp",
+},  {
     id: "luxembourg-siwescheleff-nature-v2",
     type: "landmark",
-    name: { de: "Siweschlëff", hu: "Siweschlëff", ro: "Siweschlëff", en: "Siweschlëff" },
+    name: { de: "Siweschlëff", hu: "Siweschlëff", ro: "Siweschlëff", en: "Siweschlëff",
+image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp"
+},
     coordinates: { lat: 49.7917, lng: 6.3242 },
     description: {
       de: "Die 'Sieben Schlitze' sind eine imposante Felsformation im Müllerthal, bestehend aus sieben schmalen Felsspalten. Sie bieten spektakuläre Durchgänge für Wanderer.",
@@ -252,11 +449,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Fantele au până la 30 de metri adâncime", "Parte a traseului Müllerthal (Ruta 2)", "Formate prin eroziunea gresiei", "Lângă localitatea Berdorf"],
       en: ["Crevices are up to 30 meters deep", "Part of the Müllerthal Trail (Route 2)", "Formed by erosion of the sandstone", "Located near the village of Berdorf"],
     },
-    imageHint: "Narrow rock passages of Siweschlëff", image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp"},
-  {
+imageHint: "Narrow rock passages of Siweschlëff",
+    descriptionAdvanced: {
+      de: "Die Siweschlëff sind eine markante Felsformation bei Berdorf, die durch tiefe Felsspalten und labyrinthartige Gänge besticht.",
+      hu: "A Siweschlëff egy jellegzetes sziklaalakzat Berdorf közelében, amely mély hasadékaival és labirintusszerű járataival nyűgöz le.",
+      ro: "Siweschlëff este o formațiune stâncoasă marcantă lângă Berdorf, care impresionează prin fisurile adânci și coridoarele labirintice.",
+      en: "The Siweschlëff are a striking rock formation near Berdorf, featuring deep crevices and labyrinthine passages.",
+    },
+    factsAdvanced: {
+      de: ["Name bedeutet 'Sieben Schluchten'", "Teil des Mullerthal Trail", "Sandsteinfelsen", "Beliebtes Klettergebiet"],
+      hu: ["Neve 'Hét szakadékot' jelent", "A Mullerthal Trail része", "Homokkő sziklák", "Népszerű mászóhely"],
+      ro: ["Numele înseamnă 'Șapte chei'", "Parte din Mullerthal Trail", "Stânci de gresie", "Zonă populară de escaladă"],
+      en: ["Name means 'Seven Gorges'", "Part of the Mullerthal Trail", "Sandstone rocks", "Popular climbing area"],
+    },
+    image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp",
+},  {
     id: "luxembourg-goldfralay-nature-v2",
     type: "landmark",
-    name: { de: "Goldfralay", hu: "Goldfralay", ro: "Goldfralay", en: "Goldfralay" },
+    name: { de: "Goldfralay", hu: "Goldfralay", ro: "Goldfralay", en: "Goldfralay",
+image: "/poi-images/luxembourg-goldfralay-nature-v2.webp"
+},
     coordinates: { lat: 49.7942, lng: 6.3317 },
     description: {
       de: "Die Goldfralay ist eine markante Sandsteinfelsformation im Herzen der Luxemburger Schweiz. Der Name bezieht sich auf Legenden über vergrabene Schätze in den Höhlen.",
@@ -270,11 +482,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Formată din gresie luxemburgheză", "Subiect popular pentru fotografii de natură", "Accesibilă prin trasee de drumeție ramificate", "Console și crăpături impresionante"],
       en: ["Consists of Luxembourg sandstone", "Popular subject for nature photographers", "Accessible via branched hiking trails", "Impressive overhangs and crevices"],
     },
-    imageHint: "Unique sandstone rock formation Goldfralay", image: "/poi-images/luxembourg-goldfralay-nature-v2.webp"},
-  {
+imageHint: "Unique sandstone rock formation Goldfralay",
+    descriptionAdvanced: {
+      de: "Die Goldfralay ist einer der spektakulärsten Aussichtspunkte in der Kleinen Luxemburger Schweiz, umgeben von bizarren Felsen.",
+      hu: "A Goldfralay a Kis-Luxemburgi Svájc egyik leglátványosabb kilátópontja, bizarr sziklákkal körülvéve.",
+      ro: "Goldfralay este unul dintre cele mai spectaculoase puncte de belvedere din Mica Elveție Luxemburgheză.",
+      en: "Goldfralay is one of the most spectacular viewpoints in Little Luxembourg Switzerland, surrounded by bizarre rocks.",
+    },
+    factsAdvanced: {
+      de: ["Legende vom Goldschatz", "Bizarre Sandsteinformationen", "Blick ins schwarze Ernztal", "Nähe zu Müllerthal"],
+      hu: ["Legenda az aranykincsről", "Bizarr homokkő formák", "Kilátás az Ernz-völgyre", "Müllerthal közelében"],
+      ro: ["Legenda comorii de aur", "Formațiuni de gresie bizare", "Vedere spre valea Ernz", "Aproape de Müllerthal"],
+      en: ["Legend of a gold treasure", "Bizarre sandstone formations", "View of the Ernz valley", "Near Müllerthal"],
+    },
+    image: "/poi-images/luxembourg-goldfralay-nature-v2.webp",
+},  {
     id: "luxembourg-adlerhorst-nature-v2",
     type: "landmark",
-    name: { de: "Adlerhorst", hu: "Adlerhorst szikla", ro: "Adlerhorst", en: "Adlerhorst" },
+    name: { de: "Adlerhorst", hu: "Adlerhorst szikla", ro: "Adlerhorst", en: "Adlerhorst",
+image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp"
+},
     coordinates: { lat: 49.7925, lng: 6.3414 },
     description: {
       de: "Der 'Adlerhorst' ist eine exponierte Felskanzel im Müllerthal, die einen weiten Blick über das Tal der Schwarzen Ernz bietet. Er ist ein Highlight für Kletterer und Wanderer.",
@@ -288,11 +515,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Oferă puncte de belvedere panoramice", "Structură de gresie puternic fragmentată", "Loc de cuibărit pentru diverse specii de păsări", "Accesibil doar pe jos, pe poteci abrupte"],
       en: ["Offers panoramic viewpoints", "Highly fissured sandstone structure", "Nesting site for various bird species", "Accessible only on foot via steep paths"],
     },
-    imageHint: "Rocky viewpoint Adlerhorst overlooking valley", image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp"},
-  {
+imageHint: "Rocky viewpoint Adlerhorst overlooking valley",
+    descriptionAdvanced: {
+      de: "Adlerhorst bezeichnet eine beeindruckende Felsformation im Berdorfer Wald, die Wanderer mit ihrer majestätischen Form anzieht.",
+      hu: "Az Adlerhorst egy lenyűgöző sziklaalakzat a berdorfi erdőben, amely fenséges formájával vonzza a túrázókat.",
+      ro: "Adlerhorst desemnează o formațiune stâncoasă impresionantă în pădurea Berdorf, care atrage turiștii prin forma sa maiestuoasă.",
+      en: "Adlerhorst refers to an impressive rock formation in the Berdorf forest that attracts hikers with its majestic shape.",
+    },
+    factsAdvanced: {
+      de: ["Teil der Berdorfer Felsen", "Luxemburger Sandstein", "Beliebtes Fotomotiv", "Zugang über Wanderweg B1"],
+      hu: ["A berdorfi sziklák része", "Luxemburgi homokkő", "Népszerű fotótéma", "A B1 túraúton elérhető"],
+      ro: ["Parte din stâncile Berdorf", "Gresie luxemburgheză", "Subiect foto popular", "Acces prin traseul B1"],
+      en: ["Part of the Berdorf rocks", "Luxembourg sandstone", "Popular photo spot", "Access via B1 hiking trail"],
+    },
+    image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp",
+},  {
     id: "luxembourg-eulenburg-nature-v2",
     type: "landmark",
-    name: { de: "Eulenburg", hu: "Eulenburg", ro: "Eulenburg", en: "Eulenburg" },
+    name: { de: "Eulenburg", hu: "Eulenburg", ro: "Eulenburg", en: "Eulenburg",
+image: "/poi-images/luxembourg-eulenburg-nature-v2.webp"
+},
     coordinates: { lat: 49.7958, lng: 6.3125 },
     description: {
       de: "Die Eulenburg ist ein labyrinthartiger Felskomplex im Müllerthal. Enge Gänge und kleine Höhlen machen diesen Ort zu einem spannenden Ziel für Entdeckungstouren im Wald.",
@@ -306,11 +548,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Parte a unui sistem stâncos mai mare", "Microclimat răcoros în crăpături", "Creștere rară de ferigi pe pietre", "Adesea acoperit de mușchi și licheni"],
       en: ["Part of a larger rock system", "Cool microclimate in the crevices", "Rare fern growth on the stones", "Often covered with moss and lichens"],
     },
-    imageHint: "Labyrinthine rock corridors of Eulenburg", image: "/poi-images/luxembourg-eulenburg-nature-v2.webp"},
-  {
+imageHint: "Labyrinthine rock corridors of Eulenburg",
+    descriptionAdvanced: {
+      de: "Die Eulenburg ist eine enge Felspassage in der Region Müllerthal, die ihren Namen der dortigen Stille und Abgeschiedenheit verdankt.",
+      hu: "Az Eulenburg egy szűk sziklaátjáró a Müllerthal régióban, amely nevét az ottani csendnek és elszigeteltségnek köszönheti.",
+      ro: "Eulenburg este un pasaj stâncos îngust în regiunea Müllerthal, care își datorează numele liniștii și izolării de acolo.",
+      en: "Eulenburg is a narrow rock passage in the Müllerthal region, which owes its name to the silence and isolation found there.",
+    },
+    factsAdvanced: {
+      de: ["Enge Felsspalte", "Nähe zur Schießentümpel", "Kühles Mikroklima", "Moosbewachsene Wände"],
+      hu: ["Szűk sziklahasadék", "Schießentümpel közelében", "Hűvös mikroklíma", "Mohás sziklafalak"],
+      ro: ["Fisură stâncoasă îngustă", "Aproape de Schießentümpel", "Microclimat răcoros", "Pereți acoperiți de mușchi"],
+      en: ["Narrow rock crevice", "Near Schießentümpel", "Cool microclimate", "Moss-covered walls"],
+    },
+    image: "/poi-images/luxembourg-eulenburg-nature-v2.webp",
+},  {
     id: "luxembourg-binzeltschleff-nature-v2",
     type: "landmark",
-    name: { de: "Binzeltschlëff", hu: "Binzeltschlëff", ro: "Binzeltschlëff", en: "Binzeltschlëff" },
+    name: { de: "Binzeltschlëff", hu: "Binzeltschlëff", ro: "Binzeltschlëff", en: "Binzeltschlëff",
+image: "/poi-images/luxembourg-binzeltschleff-nature-v2.webp"
+},
     coordinates: { lat: 49.8125, lng: 6.3842 },
     description: {
       de: "Eine enge Felsklamm in der Nähe von Echternach, die durch ihre hohen Sandsteinwände beeindruckt. Der Pfad hindurch ist eines der Highlights der Region Mëllerdall.",
@@ -325,11 +582,25 @@ export const luxembourgNatureV2: POI[] = [
       en: ["Belongs to the UNESCO geological heritage", "Sandstone walls are over 20 meters high", "Hiking trail leads directly through the crevice", "Popular destination for school trips"],
     },
     imageHint: "Deep rock gorge Binzeltschlëff with hikers",
+    descriptionAdvanced: {
+      de: "Der Binzeltschlëff ist bekannt für seine monumentalen Felswände und die typische Vegetation der Kleinen Luxemburger Schweiz.",
+      hu: "A Binzeltschlëff monumentális sziklafalairól és a Kis-Luxemburgi Svájc tipikus növényzetéről ismert.",
+      ro: "Binzeltschlëff este cunoscut pentru pereții săi stâncoși monumentali și vegetația tipică Micii Elveții Luxemburgheze.",
+      en: "Binzeltschlëff is known for its monumental rock walls and the typical vegetation of Little Luxembourg Switzerland.",
+    },
+    factsAdvanced: {
+      de: ["Region Müllerthal", "Schattenliebende Farne", "Erosionsformen im Sandstein", "Wanderweg E1"],
+      hu: ["Müllerthal régió", "Árnyékkedvelő páfrányok", "Eróziós formák a homokkőben", "E1 túraútvonal"],
+      ro: ["Regiunea Müllerthal", "Ferigi iubitoare de umbră", "Forme de eroziune în gresie", "Traseul de drumeție E1"],
+      en: ["Müllerthal region", "Shade-loving ferns", "Erosion forms in sandstone", "E1 hiking trail"],
+    },
   },
   {
     id: "luxembourg-champagne-rock-nature-v2",
     type: "landmark",
-    name: { de: "Champagnerfiels", hu: "Champagnerfiels", ro: "Champagnerfiels", en: "Champagne Rock" },
+    name: { de: "Champagnerfiels", hu: "Champagnerfiels", ro: "Champagnerfiels", en: "Champagne Rock",
+image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp"
+},
     coordinates: { lat: 49.8158, lng: 6.3525 },
     description: {
       de: "Dieser markante Felsen im Müllerthal erhielt seinen Namen aufgrund seiner Form, die an einen Champagnerkorken erinnert. Er bietet eine weite Aussicht auf das umliegende Waldgebiet.",
@@ -343,11 +614,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Punct de belvedere la 380 de metri înălțime", "Accesibil prin scări metalice", "Aparține platoului Berdorf", "Oferă vedere până la Echternach"],
       en: ["Viewpoint at 380 meters altitude", "Accessible via metal ladders", "Part of the Berdorf plateau", "Offers views as far as Echternach"],
     },
-    imageHint: "Unique rock formation Champagne Rock", image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp"},
-  {
+imageHint: "Unique rock formation Champagne Rock",
+    descriptionAdvanced: {
+      de: "Der Champagnerley (Champagne Rock) ist eine markante Formation, deren Überhang an einen Sektkorken erinnert.",
+      hu: "A Champagnerley (Pezsgő-szikla) egy jellegzetes alakzat, amelynek túlnyúlása egy pezsgősdugóra emlékeztet.",
+      ro: "Champagnerley (Stânca de Șampanie) este o formațiune marcantă a cărei proeminență amintește de un dop de șampanie.",
+      en: "The Champagnerley (Champagne Rock) is a striking formation whose overhang resembles a champagne cork.",
+    },
+    factsAdvanced: {
+      de: ["Überhängender Felsen", "Nahe Berdorf", "Geologisches Naturdenkmal", "Entstanden durch Erosion"],
+      hu: ["Túlnyúló sziklafal", "Berdorf közelében", "Földtani természeti emlék", "Erózió útján jött létre"],
+      ro: ["Stâncă suspendată", "Lângă Berdorf", "Monument geologic natural", "Creat prin eroziune"],
+      en: ["Overhanging rock", "Near Berdorf", "Geological natural monument", "Formed by erosion"],
+    },
+    image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp",
+},  {
     id: "luxembourg-heringer-millen-nature-v2",
     type: "landmark",
-    name: { de: "Heringer Millen", hu: "Heringer Millen", ro: "Heringer Millen", en: "Heringer Millen" },
+    name: { de: "Heringer Millen", hu: "Heringer Millen", ro: "Heringer Millen", en: "Heringer Millen",
+image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp"
+},
     coordinates: { lat: 49.7925, lng: 6.3017 },
     description: {
       de: "Die Heringer Millen ist eine historische Mühle, die heute als Wanderzentrum des Müllerthals dient. Sie liegt an der Mündung mehrerer Bäche und ist von dichter Natur umgeben.",
@@ -361,11 +647,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Punct de plecare pentru traseul Müllerthal", "Include un muzeu al morii", "Situat pe malul râului Ernz Neagră", "Oferă închiriere de echipament pentru drumeți"],
       en: ["Starting point for the Müllerthal Trail", "Includes a mill museum", "Located on the Black Ernz river", "Offers equipment rental for hikers"],
     },
-    imageHint: "Historical mill building in the forest", image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp"},
-  {
+imageHint: "Historical mill building in the forest",
+    descriptionAdvanced: {
+      de: "Die Heringer Millen ist eine historische Mühle, die heute als Touristenzentrum und Ausgangspunkt für Wanderungen dient.",
+      hu: "A Heringer Millen egy történelmi malom, amely ma turistaközpontként és túrák kiindulópontjaként szolgál.",
+      ro: "Heringer Millen este o moară istorică, servind astăzi drept centru turistic și punct de plecare pentru drumeții.",
+      en: "Heringer Millen is a historic mill that now serves as a tourist center and starting point for hikes.",
+    },
+    factsAdvanced: {
+      de: ["Mühle aus dem 17. Jh.", "Testcenter für Wanderschuhe", "Regionales Restaurant", "Direkt am Mullerthal Trail"],
+      hu: ["17. századi malom", "Túrabakancs tesztközpont", "Regionális étterem", "A Mullerthal Trail mentén"],
+      ro: ["Moară din sec. XVII", "Centru de testare bocanci", "Restaurant regional", "Direct pe Mullerthal Trail"],
+      en: ["17th-century mill", "Hiking boot test center", "Regional restaurant", "Directly on Mullerthal Trail"],
+    },
+    image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp",
+},  {
     id: "luxembourg-mellerdall-nature-park-nature-v2",
     type: "park",
-    name: { de: "Natur- & Geopark Mëllerdall", hu: "Mëllerdall Natúr- és Geopark", ro: "Parcul Natural și Geoparcul Mëllerdall", en: "Mëllerdall Nature & Geopark" },
+    name: { de: "Natur- & Geopark Mëllerdall", hu: "Mëllerdall Natúr- és Geopark", ro: "Parcul Natural și Geoparcul Mëllerdall", en: "Mëllerdall Nature & Geopark",
+image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp"
+},
     coordinates: { lat: 49.8217, lng: 6.3042 },
     description: {
       de: "Dieser UNESCO-Geopark umfasst die Region der Luxemburger Schweiz mit ihren spektakulären Sandsteinfelsen. Er schützt die einzigartige Geologie und Artenvielfalt des Gebiets.",
@@ -379,11 +680,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["UNESCO Global Geopark din 2022", "Suprafață de aprox. 256 km²", "Găzduiește faimosul traseu Müllerthal", "Cuprinde 11 comune din regiune"],
       en: ["UNESCO Global Geopark since 2022", "Area of approx. 256 km²", "Home to the famous Müllerthal Trail", "Encompasses 11 municipalities in the region"],
     },
-    imageHint: "Landscape of Mëllerdall Nature Park", image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp"},
-  {
+imageHint: "Landscape of Mëllerdall Nature Park",
+    descriptionAdvanced: {
+      de: "Der UNESCO Global Geopark Mëllerdall schützt die einzigartige Sandsteinlandschaft und das kulturelle Erbe der Region.",
+      hu: "Az UNESCO Globális Geopark Mëllerdall a régió egyedülálló homokkő táját és kulturális örökségét védi.",
+      ro: "UNESCO Global Geopark Mëllerdall protejează peisajul unic de gresie și moștenirea culturală a regiunii.",
+      en: "The UNESCO Global Geopark Mëllerdall protects the unique sandstone landscape and cultural heritage of the region.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Status seit 2022", "Fläche: 256 km²", "Kleine Luxemburger Schweiz", "11 Mitgliedsgemeinden"],
+      hu: ["UNESCO státusz 2022 óta", "Terület: 256 km²", "Kis-Luxemburgi Svájc", "11 tagönkormányzat"],
+      ro: ["Statut UNESCO din 2022", "Suprafață: 256 km²", "Mica Elveție Luxemburgheză", "11 municipalități membre"],
+      en: ["UNESCO status since 2022", "Area: 256 km²", "Little Luxembourg Switzerland", "11 member municipalities"],
+    },
+    image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp",
+},  {
     id: "luxembourg-prenzebierg-nature-v2",
     type: "wildlife",
-    name: { de: "Prënzebierg", hu: "Prënzebierg", ro: "Prënzebierg", en: "Prënzebierg" },
+    name: { de: "Prënzebierg", hu: "Prënzebierg", ro: "Prënzebierg", en: "Prënzebierg",
+image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp"
+},
     coordinates: { lat: 49.5317, lng: 5.8942 },
     description: {
       de: "Das Naturschutzgebiet Prënzebierg bei Petingen liegt in der ehemaligen Eisenerz-Minenregion. Die Natur hat sich das Gelände zurückerobert und bietet heute eine enorme Artenvielfalt.",
@@ -397,11 +713,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Fostă zonă de carieră", "Pereți stâncoși colorați de reziduurile de minereu", "Habitat important pentru orhidee", "Parte a traseului de drumeție 'Minett Trail'"],
       en: ["Former open-cast mining area", "Colorful rock walls due to ore residues", "Important habitat for orchids", "Part of the 'Minett Trail' hiking path"],
     },
-    imageHint: "Red rock walls and greenery in Prënzebierg", image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp"},
-  {
+imageHint: "Red rock walls and greenery in Prënzebierg",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Prënzebierg bei Differdingen zeigt eindrucksvoll die Regeneration der Natur auf ehemaligem Bergbaugelände.",
+      hu: "A Differdange melletti Prënzebierg természetvédelmi terület a természet regenerálódását mutatja be korábbi bányaterületen.",
+      ro: "Rezervația naturală Prënzebierg de lângă Differdange arată regenerarea naturii pe fostele terenuri miniere.",
+      en: "The Prënzebierg nature reserve near Differdange impressively shows the regeneration of nature on former mining land.",
+    },
+    factsAdvanced: {
+      de: ["Ehemaliger Tagebau", "Rote Minette-Felsen", "Fläche: 255 Hektar", "Lehrpfad zum Bergbau"],
+      hu: ["Korábbi külszíni fejtés", "Vörös 'Minette' sziklák", "Terület: 255 hektár", "Bányászati tanösvény"],
+      ro: ["Fostă mină de suprafață", "Stânci roșii de 'Minette'", "Suprafață: 255 hectare", "Traseu educativ minier"],
+      en: ["Former open-cast mine", "Red 'Minette' rocks", "Area: 255 hectares", "Mining educational trail"],
+    },
+    image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp",
+},  {
     id: "luxembourg-ellergronn-nature-v2",
     type: "wildlife",
-    name: { de: "Ellergronn", hu: "Ellergronn", ro: "Ellergronn", en: "Ellergronn" },
+    name: { de: "Ellergronn", hu: "Ellergronn", ro: "Ellergronn", en: "Ellergronn",
+image: "/poi-images/luxembourg-ellergronn-nature-v2.webp"
+},
     coordinates: { lat: 49.4742, lng: 5.9725 },
     description: {
       de: "Ellergronn ist ein Naturschutzgebiet südlich von Esch-sur-Alzette. Es ist Teil des UNESCO-Biosphärenreservats 'Minett' und bekannt für seine rekultivierten Tagebaulandschaften.",
@@ -415,11 +746,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Găzduiește un centru de protecție a naturii", "Fosta mină de fier 'Katzenberg'", "Zone forestiere și mlaștini diverse", "Punct de plecare pentru tururi transfrontaliere"],
       en: ["Houses a nature conservation center", "Former 'Katzenberg' iron ore mine", "Diverse forest and wetland areas", "Starting point for cross-border tours"],
     },
-    imageHint: "Nature reserve path in Ellergronn", image: "/poi-images/luxembourg-ellergronn-nature-v2.webp"},
-  {
+imageHint: "Nature reserve path in Ellergronn",
+    descriptionAdvanced: {
+      de: "Ellergronn in Esch-sur-Alzette ist ein Naturschutzzentrum in einem ehemaligen Erzabbaugebiet, das heute wertvolle Wälder schützt.",
+      hu: "Az esch-sur-alzette-i Ellergronn egy természetvédelmi központ egy korábbi bányaterületen, amely ma erdőket véd.",
+      ro: "Ellergronn din Esch-sur-Alzette este un centru natural într-o fostă zonă minieră, protejând astăzi păduri valoroase.",
+      en: "Ellergronn in Esch-sur-Alzette is a nature center in a former ore mining area, now protecting valuable forests.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzzentrum", "Teil der Terres Rouges", "Industriegeschichte", "Wald-Erlebnispfad"],
+      hu: ["Természetvédelmi központ", "A Terres Rouges része", "Ipari történelem", "Erdei élményösvény"],
+      ro: ["Centru de conservare", "Parte din Terres Rouges", "Istorie industrială", "Traseu forestier"],
+      en: ["Nature conservation center", "Part of Terres Rouges", "Industrial history", "Forest discovery trail"],
+    },
+    image: "/poi-images/luxembourg-ellergronn-nature-v2.webp",
+},  {
     id: "luxembourg-telpeschholz-nature-v2",
     type: "wildlife",
-    name: { de: "Telpeschholz", hu: "Telpeschholz", ro: "Telpeschholz", en: "Telpeschholz" },
+    name: { de: "Telpeschholz", hu: "Telpeschholz", ro: "Telpeschholz", en: "Telpeschholz",
+image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp"
+},
     coordinates: { lat: 49.6917, lng: 6.0742 },
     description: {
       de: "Die Telpeschholz ist eine Heidelandschaft bei Kehlen. Sie stellt eines der wenigen verbliebenen Heidegebiete Luxemburgs dar und beherbergt spezialisierte Pflanzenarten.",
@@ -433,11 +779,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Zonă protejată din 1971", "Prezența ierbii neagră (Calluna)", "Habitat rar pentru reptile", "Menținută deschisă prin pășunat"],
       en: ["Protected area since 1971", "Presence of common heather", "Rare habitat for reptiles", "Kept open through grazing"],
     },
-    imageHint: "Heathland landscape in Telpeschholz", image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp"},
-  {
+imageHint: "Heathland landscape in Telpeschholz",
+    descriptionAdvanced: {
+      de: "Telpeschholz ist ein Heidegebiet bei Kehlen, das für seine seltene Flora und die charakteristischen Sandböden bekannt ist.",
+      hu: "A Telpeschholz egy fenyér Kehlen közelében, amely ritka flórájáról és jellegzetes homokos talajáról ismert.",
+      ro: "Telpeschholz este o zonă de landă lângă Kehlen, cunoscută pentru flora sa rară și solurile nisipoase caracteristice.",
+      en: "Telpeschholz is a heathland area near Kehlen, known for its rare flora and characteristic sandy soils.",
+    },
+    factsAdvanced: {
+      de: ["Heidelandschaft", "Nähe zu Kehlen", "Vorkommen von Orchideen", "Geologische Sandsteinschicht"],
+      hu: ["Fenyértáj", "Kehlen közelében", "Orchideák előfordulása", "Homokkő földtani réteg"],
+      ro: ["Peisaj de landă", "Lângă Kehlen", "Prezența orhideelor", "Strat geologic de gresie"],
+      en: ["Heathland landscape", "Near Kehlen", "Presence of orchids", "Geological sandstone layer"],
+    },
+    image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp",
+},  {
     id: "luxembourg-am-brill-nature-v2",
     type: "wildlife",
-    name: { de: "Am Brill (Bettange)", hu: "Am Brill", ro: "Am Brill", en: "Am Brill" },
+    name: { de: "Am Brill (Bettange)", hu: "Am Brill", ro: "Am Brill", en: "Am Brill",
+image: "/poi-images/luxembourg-am-brill-nature-v2.webp"
+},
     coordinates: { lat: 49.5617, lng: 5.9925 },
     description: {
       de: "Das Naturschutzgebiet 'Am Brill' liegt im Mess-Tal. Es ist ein wertvolles Feuchtgebiet mit Schilfflächen und Teichen, das vielen bedrohten Vogelarten als Rastplatz dient.",
@@ -451,11 +812,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Parte a rețelei europene Natura 2000", "Important pentru barza albă", "Cursuri de apă renaturate ale râului Mess", "Turn de observare pentru iubitorii de natură"],
       en: ["Part of the European Natura 2000 network", "Important for the white stork", "Renatured sections of the Mess stream", "Observation tower for nature enthusiasts"],
     },
-    imageHint: "Wetlands and reed beds in Am Brill", image: "/poi-images/luxembourg-am-brill-nature-v2.webp"},
-  {
+imageHint: "Wetlands and reed beds in Am Brill",
+    descriptionAdvanced: {
+      de: "Das Feuchtgebiet Am Brill in Schifflingen ist ein wichtiger Rückzugsort für bedrohte Amphibien- und Vogelarten.",
+      hu: "A schifflange-i Am Brill vizes élőhely fontos menedékhely a veszélyeztetett kétéltű- és madárfajok számára.",
+      ro: "Zona umedă Am Brill din Schifflange este un refugiu important pentru specii amenințate de amfibieni și păsări.",
+      en: "The Am Brill wetland in Schifflange is an important refuge for endangered amphibian and bird species.",
+    },
+    factsAdvanced: {
+      de: ["Renaturierte Alzette", "Beobachtungshütten", "Vogelberingungsstation", "Schifflinger Flussaue"],
+      hu: ["Renaturált Alzette folyó", "Madármegfigyelő kunyhók", "Madárgyűrűző állomás", "Schifflange-i ártér"],
+      ro: ["Alzette renaturată", "Colibe de observare", "Stație de inelare păsări", "Lunca râului Schifflange"],
+      en: ["Renatured Alzette river", "Observation bird hides", "Bird ringing station", "Schifflange floodplain"],
+    },
+    image: "/poi-images/luxembourg-am-brill-nature-v2.webp",
+},  {
     id: "luxembourg-leiffrachen-nature-v2",
     type: "wildlife",
-    name: { de: "Léiffrächen", hu: "Léiffrächen", ro: "Léiffrächen", en: "Léiffrächen" },
+    name: { de: "Léiffrächen", hu: "Léiffrächen", ro: "Léiffrächen", en: "Léiffrächen",
+image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp"
+},
     coordinates: { lat: 49.4842, lng: 6.0117 },
     description: {
       de: "Dieses Naturschutzgebiet bei Kayl umfasst ehemalige Tagebauflächen der 'Minett'-Region. Es zeichnet sich durch Trockenrasen und eine hohe Vielfalt an Insekten und Orchideen aus.",
@@ -469,11 +845,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Fostă zonă minieră importantă", "Protecție specială pentru buhaiul de baltă cu burtă galbenă", "Cunoscută pentru un loc de pelerinaj marian", "Găzduiește peste 20 de specii de orhidee"],
       en: ["Formerly an important mining area", "Special protection for the yellow-bellied toad", "Known for a Marian pilgrimage site", "Home to over 20 species of orchids"],
     },
-    imageHint: "Dry grasslands and rocky patches in Léiffrächen", image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp"},
-  {
+imageHint: "Dry grasslands and rocky patches in Léiffrächen",
+    descriptionAdvanced: {
+      de: "Léiffrächen bei Kayl verbindet Naturerlebnis auf dem Bergbaugelände mit einer tief verwurzelten religiösen Tradition.",
+      hu: "A Kayl melletti Léiffrächen ötvözi a természetet a bányaterületen a mélyen gyökerező vallási hagyományokkal.",
+      ro: "Léiffrächen lângă Kayl îmbină natura de pe terenurile miniere cu o tradiție religioasă profund înrădăcinată.",
+      en: "Léiffrächen near Kayl combines nature experience on mining grounds with a deeply rooted religious tradition.",
+    },
+    factsAdvanced: {
+      de: ["Wallfahrtsort", "Schutzpatronin der Bergleute", "Bergbau-Denkmal", "Nationaler Kreuzweg"],
+      hu: ["Zarándokhely", "Bányászok védőszentje", "Bányászati emlékmű", "Nemzeti keresztút"],
+      ro: ["Loc de pelerinaj", "Patroana minerilor", "Monument minier", "Calea Crucii națională"],
+      en: ["Pilgrimage site", "Patron saint of miners", "Mining monument", "National Way of the Cross"],
+    },
+    image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp",
+},  {
     id: "luxembourg-valley-of-seven-castles-nature-v2",
     type: "valley",
-    name: { de: "Tal der sieben Schlösser", hu: "Hét kastély völgye", ro: "Valea celor Șapte Castele", en: "Valley of the Seven Castles" },
+    name: { de: "Tal der sieben Schlösser", hu: "Hét kastély völgye", ro: "Valea celor Șapte Castele", en: "Valley of the Seven Castles",
+image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp"
+},
     coordinates: { lat: 49.6917, lng: 5.9614 },
     description: {
       de: "Das Eischtal im Westen Luxemburgs ist als Tal der sieben Schlösser bekannt. Es bietet eine malerische Kombination aus dichtem Wald, sanften Flusswindungen und historischen Monumenten.",
@@ -487,11 +878,26 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungimea văii: aprox. 24 kilometri", "Liază Mersch de Koerich", "Bogată în izvoare și pârâuri mici", "Coridor ecologic important în vest"],
       en: ["Length of the valley: approx. 24 kilometers", "Connects Mersch with Koerich", "Rich in springs and small streams", "Important ecological corridor in the west"],
     },
-    imageHint: "Panoramic view of the Eisch valley", image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp"},
-  {
+imageHint: "Panoramic view of the Eisch valley",
+    descriptionAdvanced: {
+      de: "Das Eischtal, auch Tal der sieben Schlösser genannt, bietet eine harmonische Verbindung von Natur und mittelalterlicher Architektur.",
+      hu: "Az Eisch-völgy, más néven a hét kastély völgye, a természet és a középkori építészet harmonikus kapcsolatát kínálja.",
+      ro: "Valea Eisch, numită și Valea celor șapte castele, oferă o legătură armonioasă între natură și arhitectură medievală.",
+      en: "The Eisch valley, also known as the Valley of the Seven Castles, offers a harmonious link between nature and medieval architecture.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 27 km", "Schlösser: u.a. Ansemburg", "Nationaler Wanderweg", "Verlauf von Steinfort bis Mersch"],
+      hu: ["Hossz: 27 km", "Kastélyok: pl. Ansembourg", "Nemzeti túraútvonal", "Steinforttól Merschig tart"],
+      ro: ["Lungime: 27 km", "Castele: ex. Ansembourg", "Traseu național", "De la Steinfort la Mersch"],
+      en: ["Length: 27 km", "Castles: e.g. Ansembourg", "National hiking trail", "From Steinfort to Mersch"],
+    },
+    image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp",
+},  {
     id: "luxembourg-mamer-valley-nature-v2",
     type: "valley",
-    name: { de: "Mamertal", hu: "Mamer-völgy", ro: "Valea Mamer", en: "Mamer Valley" },
+    name: { de: "Mamertal", hu: "Mamer-völgy", ro: "Valea Mamer", en: "Mamer Valley",
+image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
+},
     coordinates: { lat: 49.6542, lng: 6.0525 },
     description: {
       de: "Das Tal der Mamer zwischen Mamer und Kopstal ist ein geschütztes Naturgebiet. Es zeichnet sich durch steile Waldhänge, Felsvorsprünge und eine unberührte Flusslandschaft aus.",
@@ -506,5 +912,702 @@ export const luxembourgNatureV2: POI[] = [
       en: ["Contains the 'Mamerleeën' Roman caves", "Popular hiking area near the capital", "Occurrence of rare bat species", "Partially designated as a nature reserve"],
     },
     imageHint: "Wooded hills of the Mamer valley",
+    descriptionAdvanced: {
+      de: "Das Mamertal ist eine grüne Lunge westlich der Stadt Luxemburg, geprägt durch dichte Wälder und sanfte Flussläufe.",
+      hu: "A Mamer-völgy egy zöld tüdő Luxemburg várostól nyugatra, sűrű erdőkkel és szelíd folyókkal tarkítva.",
+      ro: "Valea Mamer este un plămân verde la vest de orașul Luxemburg, caracterizat prin păduri dese și cursuri line.",
+      en: "The Mamer Valley is a green lung west of Luxembourg City, characterized by dense forests and gentle river courses.",
+    },
+    factsAdvanced: {
+      de: ["Naturschutzgebiet", "Römisches Aquädukt Raschpëtzer", "Wanderparadies", "Historische Mühlenreste"],
+      hu: ["Természetvédelmi terület", "Raschpëtzer római vízvezeték", "Túrázók paradicsoma", "Történelmi malommaradványok"],
+      ro: ["Rezervație naturală", "Apeductul roman Raschpëtzer", "Paradisul drumețiilor", "Rămășițe de mori istorice"],
+      en: ["Nature reserve", "Raschpëtzer Roman aqueduct", "Hiking paradise", "Historical mill remains"],
+    },
+  }
+,
+  {
+    id: "luxembourg-mess-river-nature-v2",
+    type: "river",
+    name: { de: "Mess", hu: "Mess-folyó", ro: "Râul Mess", en: "Mess River" },
+    coordinates: { lat: 49.5083, lng: 6.0238 },
+    description: {
+      de: "Die Mess ist ein 11 Kilometer langer Nebenfluss der Alzette im Süden Luxemburgs. Sie fließt durch landwirtschaftlich genutzte Gebiete.",
+      hu: "A Mess egy 11 kilométer hosszú folyó Luxemburg déli részén, az Alzette mellékfolyója. Mezőgazdasági területeken halad keresztül.",
+      ro: "Mess este un râu de 11 kilometri lungime în sudul Luxemburgului, afluent al Alzette. Acesta traversează zone predominant agricole.",
+      en: "The Mess is an 11-kilometer-long river in southern Luxembourg and a tributary of the Alzette. It flows through agricultural landscapes.",
+    },
+    facts: {
+      de: ["Länge von 11 Kilometern", "Mündung in die Alzette", "Fließt durch Reckingen", "Einzugsgebiet im Süden"],
+      hu: ["11 kilométeres hossz", "Az Alzette-be torkollik", "Reckingen-en folyik át", "Déli vízgyűjtő terület"],
+      ro: ["Lungime de 11 kilometri", "Vărsare în râul Alzette", "Trece prin Reckingen", "Bazin hidrografic sudic"],
+      en: ["Length of 11 kilometers", "Mouth in the Alzette", "Flows through Reckingen", "Southern drainage basin"],
+    },
+    imageHint: "small river flowing through green meadows in luxembourg",
+  },
+  {
+    id: "luxembourg-wark-river-nature-v2",
+    type: "river",
+    name: { de: "Wark", hu: "Wark-folyó", ro: "Râul Wark", en: "Wark River" },
+    coordinates: { lat: 49.8472, lng: 6.1056 },
+    description: {
+      de: "Die Wark ist ein 28 Kilometer langer Fluss im Norden Luxemburgs. Sie mündet bei Ettelbrück in die Alzette und durchquert das Ösling.",
+      hu: "A Wark egy 28 kilométer hosszú folyó Luxemburg északi részén. Ettelbrucknál torkollik az Alzette-be, az Ösling régión halad át.",
+      ro: "Wark este un râu de 28 de kilometri lungime în nordul Luxemburgului. Se varsă în Alzette la Ettelbruck, traversând regiunea Ösling.",
+      en: "The Wark is a 28-kilometer-long river in northern Luxembourg. It joins the Alzette at Ettelbruck and traverses the Oesling region.",
+    },
+    facts: {
+      de: ["Länge von 28 Kilometern", "Nebenfluss der Alzette", "Quelle bei Grevels", "Mündung in Ettelbrück"],
+      hu: ["28 kilométeres hossz", "Az Alzette mellékfolyója", "Grevels közelében ered", "Torkolata Ettelbruckban"],
+      ro: ["Lungime de 28 kilometri", "Afluent al râului Alzette", "Izvor lângă Grevels", "Vărsare în Ettelbruck"],
+      en: ["Length of 28 kilometers", "Tributary of the Alzette", "Source near Grevels", "Mouth in Ettelbruck"],
+    },
+    imageHint: "river wark winding through green valley luxembourg",
+  },
+  {
+    id: "luxembourg-woltz-river-nature-v2",
+    type: "river",
+    name: { de: "Woltz", hu: "Woltz-folyó", ro: "Râul Woltz", en: "Woltz River" },
+    coordinates: { lat: 50.0833, lng: 6.0167 },
+    description: {
+      de: "Die Woltz ist der Oberlauf der Klerf im Norden des Landes. Sie fließt durch eine Mittelgebirgslandschaft nahe der belgischen Grenze.",
+      hu: "A Woltz a Clerve-folyó felső szakasza az ország északi részén. Középhegységi tájon halad át a belga határ közelében.",
+      ro: "Woltz este cursul superior al râului Clerve în nordul țării. Acesta curge printr-un peisaj montan jos, aproape de granița belgiană.",
+      en: "The Woltz is the upper course of the Clerve river in the north of the country. It flows through a highland landscape near the Belgian border.",
+    },
+    facts: {
+      de: ["Oberlauf der Klerf", "Fließt durch Clerf", "Nördliches Ösling", "Vorkommen von Bachforellen"],
+      hu: ["A Clerve felső szakasza", "Clervaux-n folyik át", "Északi Ösling régió", "Sebes pisztráng élőhely"],
+      ro: ["Cursul superior al Clerve", "Trece prin Clervaux", "Regiunea de nord Ösling", "Prezența păstrăvului de munte"],
+      en: ["Upper course of the Clerve", "Flows through Clervaux", "Northern Oesling region", "Habitat for brown trout"],
+    },
+    imageHint: "river woltz in the northern luxembourg mountains",
+  },
+  {
+    id: "luxembourg-gander-river-nature-v2",
+    type: "river",
+    name: { de: "Gander", hu: "Gander-folyó", ro: "Râul Gander", en: "Gander River" },
+    coordinates: { lat: 49.4833, lng: 6.2667 },
+    description: {
+      de: "Die Gander ist ein 22 Kilometer langer Nebenfluss der Mosel, der teilweise die Grenze zwischen Luxemburg und Frankreich bildet.",
+      hu: "A Gander egy 22 kilométer hosszú folyó, a Mosel mellékfolyója, amely részben a luxemburgi-francia határt alkotja.",
+      ro: "Gander este un afluent de 22 de kilometri al râului Mosela, formând parțial granița dintre Luxemburg și Franța.",
+      en: "The Gander is a 22-kilometer-long tributary of the Moselle, partly forming the border between Luxembourg and France.",
+    },
+    facts: {
+      de: ["Länge von 22 Kilometern", "Grenzfluss zu Frankreich", "Fließt durch Bad Mondorf", "Mündung in die Mosel"],
+      hu: ["22 kilométeres hossz", "Határfolyó Franciaországgal", "Mondorf-les-Bains-en halad át", "A Mosel-be torkollik"],
+      ro: ["Lungime de 22 kilometri", "Râu de frontieră cu Franța", "Trece prin Mondorf-les-Bains", "Vărsare în râul Mosela"],
+      en: ["Length of 22 kilometers", "Border river with France", "Flows through Mondorf-les-Bains", "Mouth in the Moselle"],
+    },
+    imageHint: "river gander at the border luxembourg france",
+  },
+  {
+    id: "luxembourg-blees-river-nature-v2",
+    type: "river",
+    name: { de: "Blees", hu: "Blees-folyó", ro: "Râul Blees", en: "Blees River" },
+    coordinates: { lat: 49.8833, lng: 6.1833 },
+    description: {
+      de: "Die Blees ist ein 20 Kilometer langer Nebenfluss der Sauer im Nordosten Luxemburgs. Sie durchfließt bewaldete Schluchten des Öslings.",
+      hu: "A Blees egy 20 kilométer hosszú folyó Luxemburg északkeleti részén, a Sauer mellékfolyója. Az Ösling erdős szurdokain halad át.",
+      ro: "Blees este un afluent de 20 de kilometri al râului Sauer, în nord-estul Luxemburgului. Acesta traversează defileele împădurite din Ösling.",
+      en: "The Blees is a 20-kilometer-long tributary of the Sauer in northeastern Luxembourg. It flows through the forested gorges of the Oesling.",
+    },
+    facts: {
+      de: ["Länge von 20 Kilometern", "Nebenfluss der Sauer", "Quelle bei Bastendorf", "Vorkommen von Eisvögeln"],
+      hu: ["20 kilométeres hossz", "A Sauer mellékfolyója", "Bastendorf közelében ered", "Jégmadarak élőhelye"],
+      ro: ["Lungime de 20 kilometri", "Afluent al râului Sauer", "Izvor lângă Bastendorf", "Habitat pentru pespăraș"],
+      en: ["Length of 20 kilometers", "Tributary of the Sauer", "Source near Bastendorf", "Habitat for kingfishers"],
+    },
+    imageHint: "small rocky river blees in luxembourg forest",
+  },
+  {
+    id: "luxembourg-molberlee-nature-v2",
+    type: "peak",
+    name: { de: "Molberlee", hu: "Molberlee-gerinc", ro: "Creasta Molberlee", en: "Molberlee Ridge" },
+    coordinates: { lat: 49.9481, lng: 6.0742 },
+    description: {
+      de: "Die Molberlee ist ein markanter Schieferkamm bei Hoscheid. Er bietet weite Ausblicke über das Tal der Wiltz und ist Teil des Eislek-Trails.",
+      hu: "A Molberlee egy jellegzetes palagerinc Hoscheid közelében. Széles kilátást nyújt a Wiltz völgyére, és az Eislek-ösvény része.",
+      ro: "Molberlee este o creastă de ardezie proeminentă lângă Hoscheid. Oferă vederi panoramice asupra văii Wiltz și face parte din traseul Eislek.",
+      en: "Molberlee is a striking schist ridge near Hoscheid. It offers wide views over the Wiltz valley and is part of the Eislek Trail.",
+    },
+    facts: {
+      de: ["Schiefergesteinsformation", "Teil des Eislek-Trails", "Aussichtspunkt bei Hoscheid", "Einzigartige Felsvegetation"],
+      hu: ["Palakőzet-képződmény", "Az Eislek-ösvény része", "Kilátópont Hoscheidnál", "Egyedi sziklanövényzet"],
+      ro: ["Formațiune de ardezie", "Parte din traseul Eislek", "Punct de belvedere la Hoscheid", "Vegetație rupicolă unică"],
+      en: ["Schist rock formation", "Part of the Eislek Trail", "Viewpoint near Hoscheid", "Unique rock vegetation"],
+    },
+    imageHint: "rocky ridge molberlee luxembourg landscape",
+  },
+  {
+    id: "luxembourg-hockslay-nature-v2",
+    type: "landmark",
+    name: { de: "Hockslay", hu: "Hockslay-szikla", ro: "Stânca Hockslay", en: "Hockslay Rock" },
+    coordinates: { lat: 49.9678, lng: 5.9322 },
+    description: {
+      de: "Die Hockslay ist eine markante Felsformation oberhalb von Wiltz. Sie dient als natürlicher Aussichtspunkt über das obere Wiltz-Tal.",
+      hu: "A Hockslay egy jellegzetes sziklaképződmény Wiltz felett. Természetes kilátópontként szolgál a felső Wiltz-völgyre.",
+      ro: "Hockslay este o formațiune stâncoasă proeminentă deasupra orașului Wiltz. Servește ca punct natural de belvedere asupra văii superioare Wiltz.",
+      en: "Hockslay is a prominent rock formation above Wiltz. It serves as a natural viewpoint overlooking the upper Wiltz valley.",
+    },
+    facts: {
+      de: ["Quarzit-Felsformation", "Aussichtspunkt bei Wiltz", "Umgeben von Eichenwäldern", "Geologisches Denkmal"],
+      hu: ["Kvarcit sziklaképződmény", "Kilátópont Wiltz mellett", "Tölgyerdők veszik körül", "Földtani emlékhely"],
+      ro: ["Formațiune de cuarțit", "Punct de belvedere la Wiltz", "Înconjurată de stejari", "Monument geologic"],
+      en: ["Quartzite rock formation", "Viewpoint near Wiltz", "Surrounded by oak forests", "Geological monument"],
+    },
+    imageHint: "large rock formation hockslay near wiltz luxembourg",
+  },
+  {
+    id: "luxembourg-noumerleeen-nature-v2",
+    type: "landmark",
+    name: { de: "Noumerleeën", hu: "Noumerleeën-sziklák", ro: "Stâncile Noumerleeën", en: "Noumerleeën Rocks" },
+    coordinates: { lat: 49.7839, lng: 6.1642 },
+    description: {
+      de: "Die Noumerleeën sind spektakuläre Sandsteinfelsen bei Nommern. Sie sind bekannt für ihre bizarren Wabenverwitterungen und engen Spalten.",
+      hu: "A Noumerleeën látványos homokkő sziklák Nommern közelében. Bizarr méhsejt-mállásukról és szűk hasadékaikról ismertek.",
+      ro: "Noumerleeën sunt stânci de gresie spectaculoase lângă Nommern. Sunt renumite pentru eroziunea lor bizară în formă de fagure și crăpăturile înguste.",
+      en: "Noumerleeën are spectacular sandstone rocks near Nommern. They are known for their bizarre honeycomb weathering and narrow crevices.",
+    },
+    facts: {
+      de: ["Luxemburger Sandstein", "Wabenverwitterung", "Felsenpfad bei Nommern", "Schluchten und Labyrinthe"],
+      hu: ["Luxemburgi homokkő", "Méhsejtes mállás", "Sziklaösvény Nommern-nél", "Szurdokok és labirintusok"],
+      ro: ["Gresie luxemburgheză", "Eroziune alveolară", "Traseu stâncos la Nommern", "Defilee și labirinturi"],
+      en: ["Luxembourg Sandstone", "Honeycomb weathering", "Rock path near Nommern", "Gorges and labyrinths"],
+    },
+    imageHint: "sandstone rock formations noumerleeen luxembourg",
+  },
+  {
+    id: "luxembourg-kierchbierg-forest-nature-v2",
+    type: "forest",
+    name: { de: "Kirchberg-Wald", hu: "Kirchberg-erdő", ro: "Pădurea Kirchberg", en: "Kirchberg Forest" },
+    coordinates: { lat: 49.6361, lng: 6.1625 },
+    description: {
+      de: "Der Kirchberg-Wald ist ein stadtnahes Waldgebiet in Luxemburg-Stadt, das als Erholungsraum für das angrenzende Europaviertel dient.",
+      hu: "A Kirchberg-erdő egy városközeli erdőterület Luxemburg városában, amely pihenőhelyként szolgál a szomszédos Európa-negyed számára.",
+      ro: "Pădurea Kirchberg este o zonă forestieră urbană din orașul Luxemburg, servind ca spațiu de recreere pentru cartierul european adiacent.",
+      en: "Kirchberg Forest is an urban woodland in Luxembourg City, serving as a recreational space for the adjacent European Quarter.",
+    },
+    facts: {
+      de: ["Stadtwald von Luxemburg", "Erholungsgebiet", "Buchen- und Eichenbestand", "Nähe zum EU-Viertel"],
+      hu: ["Luxemburg városi erdeje", "Rekreációs terület", "Bükk- és tölgyfaállomány", "Az EU-negyed közelében"],
+      ro: ["Pădure urbană în Luxemburg", "Zonă de recreere", "Populație de fag și stejar", "Lângă cartierul european"],
+      en: ["Urban forest in Luxembourg", "Recreational area", "Beech and oak trees", "Near the EU district"],
+    },
+    imageHint: "forest path in kirchberg luxembourg city",
+  },
+  {
+    id: "luxembourg-akelsbech-nature-v2",
+    type: "park",
+    name: { de: "Akelsbech", hu: "Akelsbech-rezervátum", ro: "Rezervația Akelsbech", en: "Akelsbech Reserve" },
+    coordinates: { lat: 49.5211, lng: 6.1158 },
+    description: {
+      de: "Das Naturschutzgebiet Akelsbech liegt zwischen Bettemburg und Roeser. Es umfasst wertvolle Feuchtwiesen und Auwälder entlang des Baches.",
+      hu: "Az Akelsbech természetvédelmi terület Bettembourg és Roeser között található. Értékes nedves réteket és ártéri erdőket foglal magában.",
+      ro: "Rezervația naturală Akelsbech este situată între Bettembourg și Roeser. Cuprinde pajiști umede și păduri riverane de-a lungul pârâului.",
+      en: "The Akelsbech nature reserve is located between Bettembourg and Roeser. It includes valuable wet meadows and alluvial forests along the stream.",
+    },
+    facts: {
+      de: ["Naturschutzgebiet", "Feuchtwiesen-Biotop", "Vorkommen von Orchideen", "Nahe Bettemburg"],
+      hu: ["Természetvédelmi terület", "Nedves réti biotóp", "Orchideák előfordulása", "Bettembourg közelében"],
+      ro: ["Rezervație naturală", "Biotop de pajiște umedă", "Prezența orhideelor", "Lângă Bettembourg"],
+      en: ["Nature reserve", "Wet meadow biotope", "Presence of orchids", "Near Bettembourg"],
+    },
+    imageHint: "wet meadows akelsbech nature reserve luxembourg",
+  },
+  {
+    id: "luxembourg-pallembierg-nature-v2",
+    type: "park",
+    name: { de: "Pällembierg", hu: "Pällembierg-természetvédelmi terület", ro: "Rezervația Pällembierg", en: "Pällembierg Nature Reserve" },
+    coordinates: { lat: 49.5639, lng: 6.3889 },
+    description: {
+      de: "Der Pällembierg bei Wormeldingen ist bekannt für seine Halbtrockenrasen und eine außergewöhnliche Vielfalt an wilden Orchideen.",
+      hu: "A Wormeldange melletti Pällembierg félszáraz gyepjeiről és a vadon élő orchideák rendkívüli változatosságáról ismert.",
+      ro: "Pällembierg de lângă Wormeldange este cunoscut pentru pajiștile sale semi-uscate și o diversitate excepțională de orhidee sălbatice.",
+      en: "The Pällembierg near Wormeldange is known for its semi-dry grasslands and an extraordinary variety of wild orchids.",
+    },
+    facts: {
+      de: ["Kalk-Halbtrockenrasen", "Wilde Orchideen", "Blick auf die Mosel", "Naturschutzgebiet"],
+      hu: ["Mészköves félszáraz gyepek", "Vadon élő orchideák", "Kilátás a Moselre", "Természetvédelmi terület"],
+      ro: ["Pajiști calcaroase uscate", "Orhidee sălbatice", "Vedere spre Mosela", "Rezervație naturală"],
+      en: ["Calcareous dry grasslands", "Wild orchids", "View over the Moselle", "Nature reserve"],
+    },
+    imageHint: "dry grassland with orchids pallembierg luxembourg",
+  },
+  {
+    id: "luxembourg-lallengerbierg-nature-v2",
+    type: "park",
+    name: { de: "Lallengerbierg", hu: "Lallengerbierg-természetvédelmi terület", ro: "Rezervația Lallengerbierg", en: "Lallengerbierg Nature Reserve" },
+    coordinates: { lat: 49.5083, lng: 6.0028 },
+    description: {
+      de: "Der Lallengerbierg ist ein ehemaliges Tagebaugebiet bei Esch, das sich zu einem wertvollen Rückzugsort für bedrohte Pionierarten entwickelt hat.",
+      hu: "A Lallengerbierg egy korábbi külszíni bányaterület Esch mellett, amely értékes búvóhelyévé vált a veszélyeztetett pionír fajoknak.",
+      ro: "Lallengerbierg este o fostă zonă minieră de suprafață lângă Esch, care a devenit un refugiu valoros pentru specii pionier periclitate.",
+      en: "Lallengerbierg is a former open-cast mining area near Esch that has evolved into a valuable sanctuary for endangered pioneer species.",
+    },
+    facts: {
+      de: ["Ehemaliges Tagebaugebiet", "Land der Roten Erde", "Trockenrasen-Biotope", "Industriebrache Natur"],
+      hu: ["Korábbi külszíni bánya", "A Vörös Föld vidéke", "Száraz gyep biotópok", "Ipari területből természet"],
+      ro: ["Fostă mină de suprafață", "Țara Pământului Roșu", "Biotopuri de pajiști uscate", "Natură pe sit industrial"],
+      en: ["Former open-cast mine", "Land of the Red Rocks", "Dry grassland biotopes", "Nature on industrial site"],
+    },
+    imageHint: "red soil landscape lallengerbierg luxembourg",
+  },
+  {
+    id: "luxembourg-strutzbierg-nature-v2",
+    type: "forest",
+    name: { de: "Strutzbierg", hu: "Strutzbierg-erdő", ro: "Pădurea Strutzbierg", en: "Strutzbierg Forest" },
+    coordinates: { lat: 49.5222, lng: 6.0917 },
+    description: {
+      de: "Der Strutzbierg ist ein bewaldeter Hügel bei Bettemburg. Er bietet markierte Naturlehrpfade und ist ein wichtiges lokales Naherholungsgebiet.",
+      hu: "A Strutzbierg egy erdős domb Bettembourg mellett. Jelzett tanösvényeket kínál, és fontos helyi pihenőhely.",
+      ro: "Strutzbierg este un deal împădurit lângă Bettembourg. Oferă poteci tematice marcate și este o importantă zonă locală de recreere.",
+      en: "Strutzbierg is a forested hill near Bettembourg. It features marked nature trails and is an important local recreational area.",
+    },
+    facts: {
+      de: ["Bewaldeter Hügel", "Naturlehrpfad", "Nahe Bettemburg", "Lokale Flora und Fauna"],
+      hu: ["Erdős domb", "Természeti tanösvény", "Bettembourg közelében", "Helyi flóra és fauna"],
+      ro: ["Deal împădurit", "Potecă educativă", "Lângă Bettembourg", "Floră și faună locală"],
+      en: ["Forested hill", "Nature trail", "Near Bettembourg", "Local flora and fauna"],
+    },
+    imageHint: "forest path with educational signs in luxembourg",
+  },
+  {
+    id: "luxembourg-amberkneppchen-nature-v2",
+    type: "peak",
+    name: { de: "Amberkneppchen", hu: "Amberkneppchen-domb", ro: "Dealul Amberkneppchen", en: "Amberkneppchen Hill" },
+    coordinates: { lat: 49.7139, lng: 6.2417 },
+    description: {
+      de: "Der Amberkneppchen ist ein 385 Meter hoher Hügel bei Junglinster. Er ist ein markanter Aussichtspunkt in der hügeligen Landschaft des Gutlandes.",
+      hu: "Az Amberkneppchen egy 385 méter magas domb Junglinster közelében. Jellegzetes kilátópont a Gutland dombos táján.",
+      ro: "Amberkneppchen este un deal de 385 de metri înălțime lângă Junglinster. Este un punct de belvedere proeminent în peisajul deluros din Gutland.",
+      en: "Amberkneppchen is a 385-meter-high hill near Junglinster. It is a prominent viewpoint in the rolling landscape of the Gutland region.",
+    },
+    facts: {
+      de: ["Höhe von 385 Metern", "Aussichtspunkt Gutland", "Nahe Junglinster", "Teilweise bewaldet"],
+      hu: ["385 méteres magasság", "Gutland kilátópont", "Junglinster közelében", "Részben erdős"],
+      ro: ["Înălțime de 385 metri", "Belvedere în Gutland", "Lângă Junglinster", "Parțial împădurit"],
+      en: ["Elevation of 385 meters", "Gutland viewpoint", "Near Junglinster", "Partially forested"],
+    },
+    imageHint: "rolling hills of gutland from amberkneppchen luxembourg",
+  },
+  {
+    id: "luxembourg-helperknapp-nature-v2",
+    type: "peak",
+    name: { de: "Helperknapp", hu: "Helperknapp-domb", ro: "Dealul Helperknapp", en: "Helperknapp Hill" },
+    coordinates: { lat: 49.7542, lng: 6.0153 },
+    description: {
+      de: "Der Helperknapp ist ein bewaldeter Hügel bei Boevange, der für seine historische Kapelle und die heilige Quelle am Fuße bekannt ist.",
+      hu: "A Helperknapp egy erdős domb Boevange mellett, amely történelmi kápolnájáról és a lábánál található szent forrásról ismert.",
+      ro: "Helperknapp este un deal împădurit lângă Boevange, cunoscut pentru capela sa istorică și izvorul sfânt de la poalele sale.",
+      en: "Helperknapp is a forested hill near Boevange, known for its historical chapel and the sacred spring at its foot.",
+    },
+    facts: {
+      de: ["Wallfahrtsort", "Heilige Quelle (Willibrordus)", "Bewaldete Kuppe", "Höhe von 387 Metern"],
+      hu: ["Zarándokhely", "Szent forrás (Willibrordus)", "Erdős dombtető", "387 méteres magasság"],
+      ro: ["Loc de pelerinaj", "Izvor sfânt (Willibrord)", "Vârf împădurit", "Înălțime de 387 metri"],
+      en: ["Pilgrimage site", "Sacred spring (Willibrordus)", "Forested summit", "Elevation of 387 meters"],
+    },
+    imageHint: "wooded hill helperknapp in luxembourg",
+  },
+  {
+    id: "luxembourg-titelberg-nature-v2",
+    type: "peak",
+    name: { de: "Titelberg", hu: "Titelberg-fennsík", ro: "Platoul Titelberg", en: "Titelberg Plateau" },
+    coordinates: { lat: 49.5397, lng: 5.8889 },
+    description: {
+      de: "Der Titelberg ist ein 50 Hektar großes Plateau bei Petingen. Er ist sowohl ein bedeutendes Naturschutzgebiet als auch eine wichtige keltische Ausgrabungsstätte.",
+      hu: "A Titelberg egy 50 hektáros fennsík Pétange mellett. Jelentős természetvédelmi terület és fontos kelta régészeti lelőhely is egyben.",
+      ro: "Titelberg este un platou de 50 de hectare lângă Pétange. Este atât o rezervație naturală importantă, cât și un sit arheologic celtic major.",
+      en: "Titelberg is a 50-hectare plateau near Pétange. It is both a significant nature reserve and an important Celtic archaeological site.",
+    },
+    facts: {
+      de: ["Keltisches Oppidum", "50 Hektar großes Plateau", "Blick auf das Chiers-Tal", "Land der Roten Erde"],
+      hu: ["Kelta oppidum", "50 hektáros fennsík", "Kilátás a Chiers-völgyre", "A Vörös Föld vidéke"],
+      ro: ["Oppidum celtic", "Platou de 50 hectare", "Vedere spre valea Chiers", "Țara Pământului Roșu"],
+      en: ["Celtic oppidum", "50-hectare plateau", "View of the Chiers valley", "Land of the Red Rocks"],
+    },
+    imageHint: "plateau of titelberg with archaeological remains luxembourg",
+  },
+  {
+    id: "luxembourg-zolwerknapp-nature-v2",
+    type: "peak",
+    name: { de: "Zolwerknapp", hu: "Zolwerknapp-domb", ro: "Dealul Zolwerknapp", en: "Zolwerknapp Hill" },
+    coordinates: { lat: 49.5194, lng: 5.9392 },
+    description: {
+      de: "Der Zolwerknapp ist mit 422 Metern die höchste Erhebung der Gemeinde Sanem. Er bietet einen weiten Blick über das südliche Minett-Becken.",
+      hu: "A Zolwerknapp 422 méterrel Sanem község legmagasabb pontja. Széles kilátást nyújt a déli Minett-medencére.",
+      ro: "Zolwerknapp este, la 422 de metri, cea mai înaltă cotă din comuna Sanem. Oferă o vedere panoramică asupra bazinului sudic Minett.",
+      en: "Zolwerknapp is the highest point in the Sanem commune at 422 meters. It offers a wide view over the southern Minett basin.",
+    },
+    facts: {
+      de: ["Höchster Punkt von Sanem", "422 Meter über NN", "Ehemaliger Burgstandort", "Naturnaher Laubwald"],
+      hu: ["Sanem legmagasabb pontja", "422 m tengerszint felett", "Egykori várhelyszín", "Természetközeli lombhullató erdő"],
+      ro: ["Cel mai înalt punct din Sanem", "422 metri altitudine", "Fost amplasament de castel", "Pădure de foioase naturală"],
+      en: ["Highest point in Sanem", "422 meters elevation", "Former castle site", "Natural deciduous forest"],
+    },
+    imageHint: "forested hill zolwerknapp luxembourg",
+  },
+  {
+    id: "luxembourg-gaalgebierg-belvaux-nature-v2",
+    type: "park",
+    name: { de: "Gaalgebierg (Belvaux)", hu: "Gaalgebierg-domb (Belvaux)", ro: "Gaalgebierg (Belvaux)", en: "Gaalgebierg (Belvaux)" },
+    coordinates: { lat: 49.5111, lng: 5.9222 },
+    description: {
+      de: "Der Gaalgebierg in Belvaux ist ein bewaldeter Erholungshügel, der für seine Wanderpfade und den Blick auf die moderne Belval-Entwicklung bekannt ist.",
+      hu: "A belvaux-i Gaalgebierg egy erdős rekreációs domb, amely túraútvonalairól és a modern Belval-negyedre nyíló kilátásáról ismert.",
+      ro: "Gaalgebierg din Belvaux este un deal împădurit de recreere, cunoscut pentru potecile sale și vederea spre dezvoltarea modernă Belval.",
+      en: "Gaalgebierg in Belvaux is a forested recreational hill known for its hiking paths and views over the modern Belval development.",
+    },
+    facts: {
+      de: ["Bewaldeter Erholungshügel", "Wanderwege (Giele Botter)", "Blick auf Belval", "Ehemaliger Erzbergbau"],
+      hu: ["Erdős pihenődomb", "Túraútvonalak", "Kilátás Belvalra", "Egykori ércbányászat"],
+      ro: ["Deal de recreere împădurit", "Poteci de drumeție", "Vedere spre Belval", "Fostă exploatare de minereu"],
+      en: ["Forested recreational hill", "Hiking trails", "View of Belval development", "Former ore mining site"],
+    },
+    imageHint: "forest on a hill overlooking industrial ruins luxembourg",
+  },
+  {
+    id: "luxembourg-reimecherbierg-nature-v2",
+    type: "peak",
+    name: { de: "Réimecherbierg", hu: "Remichi-domb", ro: "Dealul Remich", en: "Réimecherbierg" },
+    coordinates: { lat: 49.5444, lng: 6.3583 },
+    description: {
+      de: "Der Réimecherbierg ist ein sonnenexponierter Hang oberhalb von Remich, der für seine Weinberge und mediterrane Flora bekannt ist.",
+      hu: "A Réimecherbierg egy napos domboldal Remich felett, amely szőlőültetvényeiről és mediterrán flórájáról ismert.",
+      ro: "Réimecherbierg este o pantă însorită deasupra orașului Remich, renumită pentru podgoriile sale și flora mediteraneană.",
+      en: "Réimecherbierg is a sun-exposed slope above Remich, famous for its vineyards and Mediterranean-style flora.",
+    },
+    facts: {
+      de: ["Weinbaugebiet", "Blick auf das Moseltal", "Kalkhaltiger Boden", "Sonnige Südlage"],
+      hu: ["Bortermő vidék", "Kilátás a Mosel-völgyre", "Mészköves talaj", "Napos déli fekvés"],
+      ro: ["Zonă viticolă", "Vedere spre valea Mosela", "Sol calcaros", "Expunere sudică însorită"],
+      en: ["Viticultural area", "View over the Moselle valley", "Calcareous soil", "Sunny southern exposure"],
+    },
+    imageHint: "vineyards on a sunny hill reimecherbierg luxembourg",
+  },
+  {
+    id: "luxembourg-greiveldange-hills-nature-v2",
+    type: "peak",
+    name: { de: "Greiveldinger Höhen", hu: "Greiveldange-i dombok", ro: "Dealurile Greiveldange", en: "Greiveldange Hills" },
+    coordinates: { lat: 49.5889, lng: 6.3472 },
+    description: {
+      de: "Die Höhenzüge um Greiveldange bieten eine abwechslungsreiche Landschaft aus dichten Wäldern, steilen Weinbergen und tiefen Tälern.",
+      hu: "A Greiveldange körüli dombok változatos tájat kínálnak sűrű erdőkkel, meredek szőlőültetvényekkel és mély völgyekkel.",
+      ro: "Dealurile din jurul Greiveldange oferă un peisaj variat format din păduri dese, podgorii abrupte și văi adânci.",
+      en: "The hills around Greiveldange offer a diverse landscape of dense forests, steep vineyards, and deep-cut valleys.",
+    },
+    facts: {
+      de: ["Hügeliges Moselvorland", "Mischwaldgebiete", "Steillagen-Weinbau", "Wanderregion"],
+      hu: ["Dombos Mosel-előhegység", "Vegyes erdős területek", "Meredek szőlőművelés", "Túraövezet"],
+      ro: ["Zonă deluroasă lângă Mosela", "Zone de pădure mixtă", "Viticultură în pantă", "Regiune de drumeție"],
+      en: ["Hilly Moselle hinterland", "Mixed forest areas", "Steep-slope viticulture", "Hiking region"],
+    },
+    imageHint: "hilly landscape with forests and vineyards greiveldange luxembourg",
+  },
+  {
+    id: "luxembourg-ehnen-valley-nature-v2",
+    type: "valley",
+    name: { de: "Ehner Tal", hu: "Ehnen-völgy", ro: "Valea Ehnen", en: "Ehnen Valley" },
+    coordinates: { lat: 49.6014, lng: 6.3847 },
+    description: {
+      de: "Das Ehner Tal ist ein kleines, romantisches Seitental der Mosel, das durch den Ehnerbach geformt wurde und für seine Ruhe bekannt ist.",
+      hu: "Az Ehnen-völgy a Mosel egyik kicsi, romantikus mellékvölgye, amelyet az Ehnerbach formált, és nyugalmáról ismert.",
+      ro: "Valea Ehnen este o mică vale laterală romantică a Moselei, formată de pârâul Ehnerbach și renumită pentru liniștea sa.",
+      en: "The Ehnen Valley is a small, romantic side valley of the Moselle, carved by the Ehnerbach stream and known for its tranquility.",
+    },
+    facts: {
+      de: ["Seitental der Mosel", "Ehnenbach-Lauf", "Bewaldete Hänge", "Idyllische Natur"],
+      hu: ["A Mosel mellékvölgye", "Ehnerbach-patak", "Erdős lejtők", "Idilli természet"],
+      ro: ["Vale laterală a Moselei", "Cursul pârâului Ehnenbach", "Pante împădurite", "Natură idilică"],
+      en: ["Side valley of the Moselle", "Ehnenbach stream", "Forested slopes", "Idyllic natural setting"],
+    },
+    imageHint: "small stream valley near ehnen luxembourg",
+  },
+  {
+    id: "luxembourg-machtum-rocks-nature-v2",
+    type: "landmark",
+    name: { de: "Machtumer Felsen", hu: "Machtumi sziklák", ro: "Stâncile Machtum", en: "Machtum Rocks" },
+    coordinates: { lat: 49.6583, lng: 6.4389 },
+    description: {
+      de: "Die Machtumer Felsen sind markante Kalksteinwände am Ufer der Mosel, die eine beeindruckende geologische Kulisse für den Weinort bilden.",
+      hu: "A Machtumi sziklák jellegzetes mészkőfalak a Mosel partján, amelyek lenyűgöző földtani hátteret biztosítanak a borvidéki falunak.",
+      ro: "Stâncile Machtum sunt pereți de calcar proeminenți pe malul Moselei, formând un fundal geologic impresionant pentru satul viticol.",
+      en: "The Machtum Rocks are prominent limestone cliffs on the banks of the Moselle, forming an impressive geological backdrop for the wine village.",
+    },
+    facts: {
+      de: ["Kalksteinformationen", "Moselufer-Lage", "Geologisches Aufschluss", "Felsige Hangvegetation"],
+      hu: ["Mészkő képződmények", "Mosel-parti fekvés", "Földtani feltárulás", "Sziklás lejtőnövényzet"],
+      ro: ["Formațiuni calcaroase", "Locație pe malul Moselei", "Afloriment geologic", "Vegetație de pantă stâncoasă"],
+      en: ["Limestone formations", "Moselle riverbank location", "Geological exposure", "Rocky slope vegetation"],
+    },
+    imageHint: "limestone cliffs on the river moselle near machtum luxembourg",
+  },
+  {
+    id: "luxembourg-wasserbillig-moselle-bend-nature-v2",
+    type: "river",
+    name: { de: "Moselschleife Wasserbillig", hu: "Wasserbilligi Mosel-kanyar", ro: "Cotul Moselei Wasserbillig", en: "Wasserbillig Moselle Bend" },
+    coordinates: { lat: 49.7139, lng: 6.4917 },
+    description: {
+      de: "Die Moselschleife bei Wasserbillig markiert den Zusammenfluss von Sauer und Mosel am tiefsten Punkt Luxemburgs.",
+      hu: "A Wasserbillig melletti Mosel-kanyar a Sauer és a Mosel összefolyását jelzi Luxemburg legalacsonyabb pontján.",
+      ro: "Cotul Moselei de lângă Wasserbillig marchează confluența dintre Sauer și Mosela în cel mai jos punct al Luxemburgului.",
+      en: "The Moselle bend at Wasserbillig marks the confluence of the Sauer and Moselle rivers at the lowest point of Luxembourg.",
+    },
+    facts: {
+      de: ["Zusammenfluss Sauer/Mosel", "Tiefster Punkt Luxemburgs", "Binnenschifffahrt-Knoten", "Uferpromenade"],
+      hu: ["Sauer/Mosel összefolyás", "Luxemburg legalacsonyabb pontja", "Belvízi hajózási csomópont", "Parti sétány"],
+      ro: ["Confluența Sauer/Mosela", "Cel mai jos punct din țară", "Nod de navigație fluvială", "Promenadă pe mal"],
+      en: ["Sauer/Moselle confluence", "Lowest point of Luxembourg", "Inland navigation hub", "Riverfront promenade"],
+    },
+    imageHint: "confluence of sauer and moselle at wasserbillig luxembourg",
+  },
+  {
+    id: "luxembourg-born-sure-valley-nature-v2",
+    type: "valley",
+    name: { de: "Sauer-Aue bei Born", hu: "Borni Sauer-ártér", ro: "Lunca Sauer la Born", en: "Born Sûre Valley" },
+    coordinates: { lat: 49.7528, lng: 6.5139 },
+    description: {
+      de: "Die Sauer-Aue bei Born ist eine naturbelassene Flusslandschaft, die durch weite Wiesen und einen gemächlichen Flusslauf geprägt ist.",
+      hu: "A Born melletti Sauer-ártér egy természetes folyóparti táj, amelyet széles rétek és lassú folyású víz jellemez.",
+      ro: "Lunca râului Sauer de lângă Born este un peisaj fluvial natural, caracterizat prin pajiști largi și un curs liniștit al apei.",
+      en: "The Sûre valley floor near Born is a natural river landscape characterized by wide meadows and a gentle river flow.",
+    },
+    facts: {
+      de: ["Flussauen der Sauer", "Grenzfluss zu Deutschland", "Wander- und Radwege", "Fischreiches Gewässer"],
+      hu: ["A Sauer ártéri rétjei", "Határfolyó Németországgal", "Túra- és kerékpárutak", "Halakban gazdag víz"],
+      ro: ["Lunci pe râul Sauer", "Râu de graniță cu Germania", "Trasee de drumeție și bicicletă", "Ape bogate în pește"],
+      en: ["Floodplains of the Sûre", "Border river with Germany", "Hiking and cycling paths", "Fish-rich waters"],
+    },
+    imageHint: "river sure flowing through meadows near born luxembourg",
+  },
+  {
+    id: "luxembourg-rosport-sure-valley-nature-v2",
+    type: "valley",
+    name: { de: "Sauer-Schleife Rosport", hu: "Rosporti Sauer-kanyar", ro: "Cotul râului Sauer Rosport", en: "Rosport Sûre Valley" },
+    coordinates: { lat: 49.8056, lng: 6.5028 },
+    description: {
+      de: "Bei Rosport beschreibt die Sauer eine weite Kurve. Die steilen Hänge sind teils bewaldet und bieten Schutz für eine artenreiche Flora.",
+      hu: "Rosportnál a Sauer egy széles kanyart ír le. A meredek lejtők részben erdősek, és fajgazdag flórának adnak otthont.",
+      ro: "La Rosport, râul Sauer descrie o curbă largă. Pantele abrupte sunt parțial împădurite și oferă adăpost unei flore bogate în specii.",
+      en: "At Rosport, the Sûre river follows a wide curve. The steep slopes are partially forested and provide shelter for a species-rich flora.",
+    },
+    facts: {
+      de: ["Flussschleife der Sauer", "Hydroelektrisches Kraftwerk", "Wald- und Wiesenlandschaft", "Grenzverlauf"],
+      hu: ["Sauer folyókanyar", "Hidroelektromos erőmű", "Erdős és réti táj", "Államhatár mentén"],
+      ro: ["Meandru al râului Sauer", "Centrală hidroelectrică", "Peisaj de pădure și luncă", "Traseu de frontieră"],
+      en: ["Sûre river bend", "Hydroelectric power plant", "Forest and meadow scenery", "Border alignment"],
+    },
+    imageHint: "river sure bend in a green valley rosport luxembourg",
+  },
+  {
+    id: "luxembourg-moersdorf-nature-area-nature-v2",
+    type: "park",
+    name: { de: "Naturschutzgebiet Moersdorf", hu: "Moersdorfi természetvédelmi terület", ro: "Rezervația Moersdorf", en: "Moersdorf Nature Area" },
+    coordinates: { lat: 49.7444, lng: 6.5056 },
+    description: {
+      de: "Das Gebiet bei Moersdorf umfasst wertvolle Kalk-Magerrasen und Flaumeichenwälder an den sonnigen Hängen des Sauertals.",
+      hu: "A Moersdorf melletti terület értékes mészkő-gyepeket és molyhos tölgyeseket foglal magában a Sauer-völgy napos lejtőin.",
+      ro: "Zona de la Moersdorf cuprinde pajiști calcaroase valoroase și păduri de stejar pufos pe pantele însorite ale văii Sauer.",
+      en: "The area near Moersdorf includes valuable calcareous grasslands and downy oak forests on the sunny slopes of the Sûre valley.",
+    },
+    facts: {
+      de: ["Kalk-Magerrasen", "Flaumeichenwald", "Artenreiche Insektenwelt", "Blick ins Sauertal"],
+      hu: ["Mészkő-szárazgyepek", "Molyhos tölgyerdő", "Fajgazdag rovarvilág", "Kilátás a Sauer-völgyre"],
+      ro: ["Pajiști calcaroase uscate", "Pădure de stejar pufos", "Lume bogată a insectelor", "Vedere spre valea Sauer"],
+      en: ["Calcareous grasslands", "Downy oak forest", "Rich insect diversity", "View of the Sûre valley"],
+    },
+    imageHint: "dry hillside with orchids near moersdorf luxembourg",
+  },
+  {
+    id: "luxembourg-girsterklaus-hill-nature-v2",
+    type: "peak",
+    name: { de: "Girsterklaus-Höhe", hu: "Girsterklaus-domb", ro: "Dealul Girsterklaus", en: "Girsterklaus Hill" },
+    coordinates: { lat: 49.7792, lng: 6.4972 },
+    description: {
+      de: "Die Girsterklaus-Höhe ist eine markante Erhebung oberhalb der Sauer, die für ihre weiten Panoramablicke und den alten Baumbestand bekannt ist.",
+      hu: "A Girsterklaus-domb egy jellegzetes kiemelkedés a Sauer felett, amely széles panorámájáról és idős faállományáról ismert.",
+      ro: "Dealul Girsterklaus este o elevatie proeminentă deasupra râului Sauer, renumită pentru vederile panoramice și arborii săi bătrâni.",
+      en: "Girsterklaus Hill is a prominent elevation above the Sûre river, known for its sweeping panoramic views and old-growth trees.",
+    },
+    facts: {
+      de: ["Aussichtspunkt über die Sauer", "Älteste Wallfahrtskapelle", "Dolomitfelsen", "Buchenmischwald"],
+      hu: ["Kilátópont a Sauer felett", "Legrégebbi zarándokkápolna", "Dolomitsziklák", "Bükkös vegyes erdő"],
+      ro: ["Belvedere peste râul Sauer", "Cea mai veche capelă de pelerinaj", "Stânci de dolomită", "Pădure mixtă de fag"],
+      en: ["Viewpoint over the Sûre", "Oldest pilgrimage chapel", "Dolomite rock formations", "Beech-mixed woodland"],
+    },
+    imageHint: "ancient chapel on a hill with a view over a river valley luxembourg",
+  },
+  {
+    id: "luxembourg-tretterbaach-nature-v2",
+    type: "river",
+    name: { de: "Trëtterbaach", hu: "Trëtterbaach-patak", ro: "Pârâul Trëtterbaach", en: "Trëtterbaach Stream" },
+    coordinates: { lat: 50.0639, lng: 5.9139 },
+    description: {
+      de: "Die Trëtterbaach ist ein naturnaher Bach im hohen Norden Luxemburgs, der durch einsame Täler der Ardennen fließt.",
+      hu: "A Trëtterbaach egy természetközeli patak Luxemburg távoli északi részén, amely az Ardennek magányos völgyeiben folyik.",
+      ro: "Trëtterbaach este un pârâu natural în nordul îndepărtat al Luxemburgului, care curge prin văile izolate ale Ardenilor.",
+      en: "The Trëtterbaach is a near-natural stream in the far north of Luxembourg, flowing through secluded valleys of the Ardennes.",
+    },
+    facts: {
+      de: ["Naturnaher Bachlauf", "Nord-Luxemburg (Ösling)", "Forellengewässer", "Einsames Waldtal"],
+      hu: ["Természetközeli patakmeder", "Észak-Luxemburg (Ösling)", "Pisztrángos víz", "Magányos erdős völgy"],
+      ro: ["Curs de apă natural", "Nordul Luxemburgului (Ösling)", "Apă cu păstrăv", "Vale forestieră izolată"],
+      en: ["Near-natural stream course", "North Luxembourg (Oesling)", "Trout-inhabited water", "Secluded forest valley"],
+    },
+    imageHint: "clear stream in a northern luxembourg forest valley",
+  },
+  {
+    id: "luxembourg-eltz-river-nature-v2",
+    type: "river",
+    name: { de: "Eltz", hu: "Eltz-patak", ro: "Pârâul Eltz", en: "Eltz Stream" },
+    coordinates: { lat: 49.7917, lng: 5.8833 },
+    description: {
+      de: "Die Eltz ist ein kleiner Nebenfluss der Attert im Westen Luxemburgs, der durch eine ruhige, ländliche Mittelgebirgsregion fließt.",
+      hu: "Az Eltz az Attert egyik kis mellékfolyója Nyugat-Luxemburgban, amely egy csendes, vidéki középhegységi régión halad át.",
+      ro: "Eltz este un mic afluent al Attert în vestul Luxemburgului, curgând printr-o regiune rurală liniștită de munți joși.",
+      en: "The Eltz is a small tributary of the Attert in western Luxembourg, flowing through a quiet, rural highland region.",
+    },
+    facts: {
+      de: ["Nebenfluss der Attert", "West-Luxemburg", "Naturnaher Lauf", "Talwiesen"],
+      hu: ["Az Attert mellékfolyója", "Nyugat-Luxemburg", "Természetes folyás", "Völgyi rétek"],
+      ro: ["Afluent al râului Attert", "Vestul Luxemburgului", "Curs natural", "Pajiști de vale"],
+      en: ["Tributary of the Attert", "Western Luxembourg", "Natural stream course", "Valley meadows"],
+    },
+    imageHint: "small stream eltz in a rural luxembourg valley",
+  },
+  {
+    id: "luxembourg-mont-st-nicolas-nature-v2",
+    type: "peak",
+    name: { de: "Mont Saint-Nicolas", hu: "Szent Miklós-hegy", ro: "Muntele Saint-Nicolas", en: "Mont Saint-Nicolas" },
+    coordinates: { lat: 49.9556, lng: 6.2139 },
+    description: {
+      de: "Der Mont Saint-Nicolas bei Vianden bietet einen der spektakulärsten Ausblicke über das Our-Tal und die mittelalterliche Stadt.",
+      hu: "A Vianden melletti Szent Miklós-hegy az egyik leglátványosabb kilátást nyújtja az Our-völgyre és a középkori városra.",
+      ro: "Muntele Saint-Nicolas de lângă Vianden oferă una dintre cele mai spectaculoase vederi asupra văii Our și a orașului medieval.",
+      en: "Mont Saint-Nicolas near Vianden offers one of the most spectacular views over the Our valley and the medieval town.",
+    },
+    facts: {
+      de: ["Aussichtspunkt bei Vianden", "Über dem Our-Tal", "Oberbecken Pumpspeicherwerk", "Bewaldete Hänge"],
+      hu: ["Kilátópont Viandennél", "Az Our-völgy felett", "Szivattyús-tározós erőmű", "Erdős lejtők"],
+      ro: ["Belvedere la Vianden", "Deasupra văii Our", "Bazin superior hidrocentrallă", "Pante împădurite"],
+      en: ["Viewpoint near Vianden", "Overlooking Our valley", "Pumped-storage upper basin", "Forested slopes"],
+    },
+    imageHint: "scenic view from mont st nicolas over vianden luxembourg",
+  },
+  {
+    id: "luxembourg-wark-valley-nature-v2",
+    type: "valley",
+    name: { de: "Warktal", hu: "Wark-völgy", ro: "Valea Wark", en: "Wark Valley" },
+    coordinates: { lat: 49.8333, lng: 6.05 },
+    description: {
+      de: "Das Warktal ist ein tief eingeschnittenes, bewaldetes Tal im zentralen Norden Luxemburgs, das für seine Abgeschiedenheit bekannt ist.",
+      hu: "A Wark-völgy egy mélyen bevágott, erdős völgy Luxemburg északi-középső részén, amely elszigeteltségéről ismert.",
+      ro: "Valea Wark este o vale adâncă și împădurită în nordul central al Luxemburgului, renumită pentru izolarea sa.",
+      en: "The Wark Valley is a deeply incised, forested valley in north-central Luxembourg, known for its seclusion.",
+    },
+    facts: {
+      de: ["Tiefes Waldtal", "Mäandernder Fluss", "Vorkommen von Hirschen", "Ruhige Wanderwege"],
+      hu: ["Mély erdei völgy", "Kanyargó folyó", "Szarvasok élőhelye", "Csendes túraútvonalak"],
+      ro: ["Vale forestieră adâncă", "Râu cu meandre", "Prezența cerbilor", "Trasee liniștite"],
+      en: ["Deep forest valley", "Meandering river course", "Habitat for red deer", "Quiet hiking trails"],
+    },
+    imageHint: "deep forested valley with a small river luxembourg",
+  },
+  {
+    id: "luxembourg-mess-valley-nature-v2",
+    type: "valley",
+    name: { de: "Messtal", hu: "Mess-völgy", ro: "Valea Mess", en: "Mess Valley" },
+    coordinates: { lat: 49.5222, lng: 6.0528 },
+    description: {
+      de: "Das Messtal im Süden Luxemburgs ist eine sanfte Auenlandschaft, die durch landwirtschaftliche Nutzung und kleine Feuchtgebiete geprägt ist.",
+      hu: "A dél-luxemburgi Mess-völgy egy szelíd ártéri táj, amelyet mezőgazdasági művelés és kisebb vizes élőhelyek jellemeznek.",
+      ro: "Valea Mess din sudul Luxemburgului este un peisaj de luncă domol, marcat de activități agricole și mici zone umede.",
+      en: "The Mess Valley in southern Luxembourg is a gentle floodplain landscape characterized by agricultural use and small wetlands.",
+    },
+    facts: {
+      de: ["Auenlandschaft der Mess", "Südluxemburg (Gutland)", "Vorkommen von Kiebitzen", "Offene Agrarlandschaft"],
+      hu: ["A Mess ártéri tája", "Dél-Luxemburg (Gutland)", "Bíbicel előfordulása", "Nyitott agrárvidék"],
+      ro: ["Peisaj de luncă al râului Mess", "Sudul Luxemburgului (Gutland)", "Prezența nagâțului", "Peisaj agrar deschis"],
+      en: ["Floodplain of the Mess", "South Luxembourg (Gutland)", "Habitat for lapwings", "Open agricultural landscape"],
+    },
+    imageHint: "broad agricultural valley with a small stream luxembourg",
+  },
+  {
+    id: "luxembourg-tretterbaach-valley-nature-v2",
+    type: "valley",
+    name: { de: "Trëtterbaachtal", hu: "Trëtterbaach-völgy", ro: "Valea Trëtterbaach", en: "Trëtterbaach Valley" },
+    coordinates: { lat: 50.05, lng: 5.9 },
+    description: {
+      de: "Das Trëtterbaachtal ist eines der unberührtesten Täler der luxemburgischen Ardennen mit dichten Nadelwäldern und klaren Bächen.",
+      hu: "A Trëtterbaach-völgy a luxemburgi Ardennek egyik legérintetlenebb völgye, sűrű fenyőerdőkkel és tiszta patakokkal.",
+      ro: "Valea Trëtterbaach este una dintre cele mai curate văi din Ardenii luxemburghezi, cu păduri dese de conifere și pârâuri limpezi.",
+      en: "The Trëtterbaach Valley is one of the most pristine valleys in the Luxembourgish Ardennes, featuring dense coniferous forests and clear streams.",
+    },
+    facts: {
+      de: ["Unberührtes Ardennental", "Fichten- und Tannenwälder", "Eisvogel-Revier", "Einsamkeit und Stille"],
+      hu: ["Érintetlen ardenneki völgy", "Luc- és jegenyefenyvesek", "Jégmadár-terület", "Magány és csend"],
+      ro: ["Vale ardenă virgină", "Păduri de molid și brad", "Teritoriul pespărașului", "Izolare și liniște"],
+      en: ["Pristine Ardennes valley", "Spruce and fir forests", "Kingfisher territory", "Solitude and silence"],
+    },
+    imageHint: "dense spruce forest in a narrow northern valley luxembourg",
+  },
+  {
+    id: "luxembourg-blees-valley-nature-v2",
+    type: "valley",
+    name: { de: "Bleestal", hu: "Blees-völgy", ro: "Valea Blees", en: "Blees Valley" },
+    coordinates: { lat: 49.8667, lng: 6.1667 },
+    description: {
+      de: "Das Bleestal ist ein landschaftlich reizvolles Seitental der Sauer, das durch steile Waldhänge und eine natürliche Flussdynamik besticht.",
+      hu: "A Blees-völgy a Sauer egyik tájképileg vonzó mellékvölgye, amely meredek erdős lejtőivel és természetes folyódinamikájával hódít.",
+      ro: "Valea Blees este o vale laterală pitorească a râului Sauer, care impresionează prin pantele sale forestiere abrupte.",
+      en: "The Blees Valley is a scenic side valley of the Sûre, characterized by steep forested slopes and natural river dynamics.",
+    },
+    facts: {
+      de: ["Seitental der Sauer", "Steile Waldhänge", "Eisvogel-Habitat", "Wandergebiet Ösling"],
+      hu: ["A Sauer mellékvölgye", "Meredek erdős lejtők", "Jégmadár-élőhely", "Ösling túraterület"],
+      ro: ["Vale laterală a Sauer", "Pante împădurite abrupte", "Habitat pentru pespăraș", "Zonă de drumeție în Ösling"],
+      en: ["Side valley of the Sûre", "Steep forested slopes", "Kingfisher habitat", "Hiking area in Oesling"],
+    },
+    imageHint: "forested gorge with a rocky stream blees luxembourg",
+  },
+  {
+    id: "luxembourg-gander-valley-nature-v2",
+    type: "valley",
+    name: { de: "Gandertal", hu: "Gander-völgy", ro: "Valea Gander", en: "Gander Valley" },
+    coordinates: { lat: 49.4917, lng: 6.2528 },
+    description: {
+      de: "Das Gandertal im Südosten bildet eine sanfte Hügellandschaft, die teilweise die natürliche Grenze zu Frankreich markiert.",
+      hu: "A délkeleti Gander-völgy szelíd dombos tájat alkot, amely részben a Franciaországgal közös természetes határt jelöli.",
+      ro: "Valea Gander din sud-est formează un peisaj deluros blând, care marchează parțial granița naturală cu Franța.",
+      en: "The Gander Valley in the southeast forms a gentle rolling landscape that partly marks the natural border with France.",
+    },
+    facts: {
+      de: ["Grenzlandschaft", "Kurpark-Umgebung", "Auen-Biotope", "Flache Hügel"],
+      hu: ["Határmenti táj", "Fürdőpark környezete", "Ártéri biotópok", "Lapos dombok"],
+      ro: ["Peisaj de frontieră", "Zona parcului balnear", "Biotopuri de luncă", "Dealuri joase"],
+      en: ["Border landscape", "Spa park surroundings", "Floodplain biotopes", "Gentle hills"],
+    },
+    imageHint: "gentle green valley with a stream gander luxembourg",
+  },
+  {
+    id: "luxembourg-woltz-valley-nature-v2",
+    type: "valley",
+    name: { de: "Woltz-Tal", hu: "Woltz-völgy", ro: "Valea Woltz", en: "Woltz Valley" },
+    coordinates: { lat: 50.1, lng: 6.0 },
+    description: {
+      de: "Das Woltz-Tal im hohen Norden ist geprägt durch ein raues Klima und weite, offene Wiesenlandschaften auf dem Ösling-Plateau.",
+      hu: "A távoli északi Woltz-völgyet zord éghajlat és széles, nyitott réti tájak jellemzik az Ösling-fennsíkon.",
+      ro: "Valea Woltz din nordul îndepărtat este marcată de un climat aspru și peisaje de pajiști deschise pe platoul Ösling.",
+      en: "The Woltz Valley in the far north is characterized by a harsh climate and wide, open meadow landscapes on the Oesling plateau.",
+    },
+    facts: {
+      de: ["Hochplateau-Tal", "Raues Ardennen-Klima", "Vorkommen der Arnika", "Offene Landschaft"],
+      hu: ["Fennsíki völgy", "Zord ardenneki éghajlat", "Hegyi árnika élőhelye", "Nyitott táj"],
+      ro: ["Vale de platou înalt", "Climat arden de munte", "Prezența arnicăi", "Peisaj deschis"],
+      en: ["High plateau valley", "Harsh Ardennes climate", "Habitat of Arnica montana", "Open landscape"],
+    },
+    imageHint: "open meadow valley in northern luxembourg highlands",
   }
 ];

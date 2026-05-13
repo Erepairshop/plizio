@@ -6,7 +6,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "mine",
     parent: "AM-SU",
     coords: [46.1558, 39.1517],
-    name: { de: "Kupfer-Molybdän-Kombinat Sangesur", hu: "Zangezur Réz-Molibdén Kombinát", ro: "Combinatul de Cupru și Molibden Zangezur", en: "Zangezur Copper Molybdenum Combine" },
+    name: { de: "Kupfer-Molybdän-Kombinat Sangesur", hu: "Zangezur Réz-Molibdén Kombinát", ro: "Combinatul de Cupru și Molibden Zangezur", en: "Zangezur Copper Molybdenum Combine",
+image: "/poi-images/zangezur-copper-molybdenum-combine-economic-v2.webp"
+},
     description: { de: "Das Kupfer-Molybdän-Kombinat Sangesur ist das größte Bergbauunternehmen in Armenien und befindet sich in der Stadt Kadscharan. Es spielt eine zentrale Rolle für die Wirtschaft des Landes.", hu: "A Zangezur Réz-Molibdén Kombinát Örményország legnagyobb bányászati vállalata, amely Kadszaran városában található. Kulcsfontosságú szerepet játszik az ország gazdaságában.", ro: "Combinatul de Cupru și Molibden Zangezur este cea mai mare companie minieră din Armenia, situată în orașul Kajaran. Joacă un rol central în economia țării.", en: "The Zangezur Copper Molybdenum Combine is the largest mining company in Armenia, located in the town of Kajaran. It plays a central role in the country's economy." },
     facts: {
       de: ["Größtes Bergbauunternehmen in Armenien.", "Befindet sich in der Stadt Kadscharan.", "Produziert Kupfer- und Molybdänkonzentrate.", "Wichtiger Beitrag zur nationalen Wirtschaft."],
@@ -26,7 +28,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "energy",
     parent: "AM-AV",
     coords: [44.1436, 40.1786],
-    name: { de: "Kernkraftwerk Mezamor", hu: "Mecamori atomerőmű", ro: "Centrala Nucleară Metsamor", en: "Metsamor Nuclear Power Plant" },
+    name: { de: "Kernkraftwerk Mezamor", hu: "Mecamori atomerőmű", ro: "Centrala Nucleară Metsamor", en: "Metsamor Nuclear Power Plant",
+image: "/poi-images/metsamor-nuclear-power-plant-economic-v2.webp"
+},
     description: { de: "Das Kernkraftwerk Mezamor ist das einzige seiner Art im Südkaukasus und liefert einen erheblichen Teil des armenischen Stroms. Es wurde in den 1970er Jahren während der Sowjetzeit erbaut.", hu: "A Mecamori atomerőmű az egyetlen ilyen létesítmény a Dél-Kaukázusban, és az örmény áramellátás jelentős részét biztosítja. Az 1970-es években, a szovjet időszakban épült.", ro: "Centrala Nucleară Metsamor este singura de acest fel din Caucazul de Sud și furnizează o parte semnificativă din electricitatea Armeniei. A fost construită în anii 1970.", en: "The Metsamor Nuclear Power Plant is the only one of its kind in the South Caucasus and provides a significant portion of Armenia's electricity. It was built in the 1970s." },
     facts: {
       de: ["Einziges Kernkraftwerk im Südkaukasus.", "Liefert einen großen Teil des Stroms in Armenien.", "Erbaut während der Sowjetära in den 1970er Jahren.", "Befindet sich in der Nähe der Stadt Mezamor."],
@@ -46,7 +50,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "energy",
     parent: "AM-KT",
     coords: [44.9733, 40.4572],
-    name: { de: "Sewan-Hrasdan-Kaskade", hu: "Szeván-Hrazdan vízerőmű-rendszer", ro: "Cascada Sevan-Hrazdan", en: "Sevan-Hrazdan Cascade" },
+    name: { de: "Sewan-Hrasdan-Kaskade", hu: "Szeván-Hrazdan vízerőmű-rendszer", ro: "Cascada Sevan-Hrazdan", en: "Sevan-Hrazdan Cascade",
+image: "/poi-images/sevan-hrazdan-cascade-economic-v2.webp"
+},
     description: { de: "Die Sewan-Hrasdan-Kaskade ist ein Komplex aus mehreren Wasserkraftwerken am Fluss Hrasdan, die das Wasser des Sewansees nutzen. Sie ist entscheidend für die erneuerbare Energieerzeugung des Landes.", hu: "A Szeván-Hrazdan vízerőmű-rendszer a Hrazdan folyón található erőművek komplexuma, amely a Szeván-tó vizét használja. Döntő fontosságú az ország megújuló energiaellátásában.", ro: "Cascada Sevan-Hrazdan este un complex de hidrocentrale pe râul Hrazdan, care utilizează apa din Lacul Sevan. Este crucială pentru producția de energie regenerabilă a țării.", en: "The Sevan-Hrazdan Cascade is a complex of hydroelectric power plants on the Hrazdan River, utilizing water from Lake Sevan. It is crucial for the country's renewable energy production." },
     facts: {
       de: ["Komplex von Wasserkraftwerken am Fluss Hrasdan.", "Nutzt das Wasser aus dem Sewansee.", "Umfasst Anlagen wie Sewan, Atarbekjan und Gjumusch.", "Entscheidend für die erneuerbare Energieerzeugung."],
@@ -67,7 +73,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "energy",
     parent: "AM-ER",
     coords: [44.5028, 40.0883],
-    name: { de: "Wärmekraftwerk Eriwan", hu: "Jereváni hőerőmű", ro: "Centrala Termoelectrică Erevan", en: "Yerevan Thermal Power Plant" },
+    name: { de: "Wärmekraftwerk Eriwan", hu: "Jereváni hőerőmű", ro: "Centrala Termoelectrică Erevan", en: "Yerevan Thermal Power Plant",
+image: "/poi-images/yerevan-thermal-power-plant-economic-v2.webp"
+},
     description: { de: "Das Wärmekraftwerk Eriwan ist ein großes gasbefeuertes Kraftwerk in der Hauptstadt Armeniens. Es wurde 2010 mit einem neuen Gas-und-Dampf-Kombikraftwerksblock modernisiert und liefert Strom sowie Fernwärme.", hu: "A Jereváni hőerőmű egy nagy gáztüzelésű erőmű Örményország fővárosában. 2010-ben egy új kombinált ciklusú blokkal modernizálták, amely áramot és távhőt is szolgáltat.", ro: "Centrala Termoelectrică Erevan este o mare centrală pe gaz din capitala Armeniei. A fost modernizată cu o nouă unitate cu ciclu combinat în 2010 și furnizează electricitate și termoficare.", en: "The Yerevan Thermal Power Plant is a large gas-fired power station in the capital of Armenia. It was modernized with a new combined-cycle unit in 2010 and provides both electricity and district heating." },
     facts: {
       de: ["Großes gasbefeuertes Kraftwerk in der Hauptstadt.", "2010 mit einem neuen Kombiblock modernisiert.", "Liefert sowohl Strom als auch Fernwärme.", "Befindet sich im südlichen Industriegebiet von Eriwan."],
@@ -88,7 +96,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "energy",
     parent: "AM-KT",
     coords: [44.7558, 40.5694],
-    name: { de: "Wärmekraftwerk Hrasdan", hu: "Hrazdani hőerőmű", ro: "Centrala Termoelectrică Hrazdan", en: "Hrazdan Thermal Power Plant" },
+    name: { de: "Wärmekraftwerk Hrasdan", hu: "Hrazdani hőerőmű", ro: "Centrala Termoelectrică Hrazdan", en: "Hrazdan Thermal Power Plant",
+image: "/poi-images/hrazdan-thermal-power-plant-economic-v2.webp"
+},
     description: { de: "Das Wärmekraftwerk Hrasdan gehört zu den größten Kraftwerken in Armenien und nutzt hauptsächlich Erdgas als Brennstoff. Es spielt eine wichtige Rolle bei der Stabilisierung des nationalen Stromnetzes.", hu: "A Hrazdani hőerőmű Örményország egyik legnagyobb erőműve, amely elsősorban földgázt használ tüzelőanyagként. Fontos szerepet játszik az országos villamosenergia-hálózat stabilizálásában.", ro: "Centrala Termoelectrică Hrazdan este una dintre cele mai mari centrale din Armenia și utilizează în principal gaze naturale ca combustibil. Joacă un rol important în stabilizarea rețelei naționale.", en: "The Hrazdan Thermal Power Plant is one of the largest power plants in Armenia and primarily uses natural gas as fuel. It plays an important role in balancing the national power grid." },
     facts: {
       de: ["Eines der größten Kraftwerke des Landes.", "Befindet sich in der Provinz Kotajk.", "Nutzt Erdgas als primären Brennstoff.", "Spielt eine wichtige Rolle beim Ausgleich des Stromnetzes."],
@@ -108,7 +118,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "mine",
     parent: "AM-VD",
     coords: [45.7178, 39.7214],
-    name: { de: "Amulsar-Goldmine", hu: "Amulszar aranybánya", ro: "Mina de aur Amulsar", en: "Amulsar Gold Mine" },
+    name: { de: "Amulsar-Goldmine", hu: "Amulszar aranybánya", ro: "Mina de aur Amulsar", en: "Amulsar Gold Mine",
+image: "/poi-images/amulsar-gold-mine-economic-v2.webp"
+},
     description: { de: "Die Amulsar-Goldmine ist ein großes Goldbergbauprojekt in der Provinz Wajoz Dsor. Ihre Erschließung war von bedeutenden ökologischen Debatten und lokalen Protesten begleitet.", hu: "Az Amulszar aranybánya egy jelentős bányászati projekt Vajoc Dzor tartományban. Fejlesztését komoly környezetvédelmi viták és helyi tüntetések kísérték.", ro: "Mina de aur Amulsar este un mare proiect de extracție a aurului în provincia Vayots Dzor. Dezvoltarea sa a fost însoțită de dezbateri ecologice semnificative și proteste locale.", en: "The Amulsar Gold Mine is a large gold mining project in the Vayots Dzor Province. Its development has been accompanied by significant environmental debates and local protests." },
     facts: {
       de: ["Großes Goldvorkommen in der Provinz Wajoz Dsor.", "Entwickelt von Lydian International.", "Gegenstand von bedeutenden Umweltdebatten und Protesten.", "Voraussichtlich eine der größten Goldminen des Landes."],
@@ -128,7 +140,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "mine",
     parent: "AM-GR",
     coords: [45.9753, 40.2392],
-    name: { de: "Sotk-Goldmine", hu: "Szotk aranybánya", ro: "Mina de aur Sotk", en: "Sotk Gold Mine" },
+    name: { de: "Sotk-Goldmine", hu: "Szotk aranybánya", ro: "Mina de aur Sotk", en: "Sotk Gold Mine",
+image: "/poi-images/sotk-gold-mine-economic-v2.webp"
+},
     description: { de: "Die Sotk-Goldmine in der Provinz Gegharkunik ist eine der wichtigsten Goldminen Armeniens. Das abgebaute Erz wird traditionell zur Verarbeitung in die Fabrik nach Ararat transportiert.", hu: "A Gegarkunik tartományban található Szotk aranybánya Örményország egyik legfontosabb aranybányája. A kitermelt ércet hagyományosan az araráti feldolgozóüzembe szállítják.", ro: "Mina de aur Sotk, situată în provincia Gegharkunik, este una dintre cele mai importante mine de aur din Armenia. Minereul este transportat în mod tradițional la fabrica din Ararat pentru procesare.", en: "The Sotk Gold Mine, located in the Gegharkunik Province, is one of the most important gold mines in Armenia. The mined ore is traditionally transported to the Ararat factory for processing." },
     facts: {
       de: ["Befindet sich in der Provinz Gegharkunik nahe der Grenze.", "Eine der wichtigsten Goldminen in Armenien.", "Das Erz wird zur Verarbeitungsanlage in Ararat transportiert.", "Wird seit der Sowjetzeit historisch betrieben."],
@@ -148,7 +162,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-LO",
     coords: [44.6567, 41.1042],
-    name: { de: "Kupferhütte Alawerdi", hu: "Alaverdi Rézkohó", ro: "Topitoria de cupru Alaverdi", en: "Alaverdi Copper Smelter" },
+    name: { de: "Kupferhütte Alawerdi", hu: "Alaverdi Rézkohó", ro: "Topitoria de cupru Alaverdi", en: "Alaverdi Copper Smelter",
+image: "/poi-images/alaverdi-copper-smelter-economic-v2.webp"
+},
     description: { de: "Die Kupferhütte Alawerdi in der Provinz Lori ist ein historisches metallurgisches Werk, dessen Ursprünge bis ins 18. Jahrhundert zurückreichen. Sie war maßgeblich an der Industrialisierung der Region beteiligt.", hu: "A Lori tartományban található Alaverdi Rézkohó egy történelmi kohászati üzem, amelynek eredete a 18. századra nyúlik vissza. Meghatározó szerepet játszott a régió iparosításában.", ro: "Topitoria de cupru Alaverdi din provincia Lori este o uzină metalurgică istorică, cu origini care datează din secolul al XVIII-lea. A jucat un rol major în industrializarea regiunii.", en: "The Alaverdi Copper Smelter in the Lori Province is a historic metallurgical plant with origins dating back to the 18th century. It played a major role in the industrialization of the region." },
     facts: {
       de: ["Historisches metallurgisches Werk in der Provinz Lori.", "Die Aktivitäten gehen bis ins 18. Jahrhundert zurück.", "Spielte eine Hauptrolle bei der Industrialisierung der Region.", "Steht derzeit vor betrieblichen und ökologischen Herausforderungen."],
@@ -168,7 +184,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-AR",
     coords: [44.7211, 39.8142],
-    name: { de: "Zementfabrik Ararat", hu: "Ararát Cementgyár", ro: "Fabrica de Ciment Ararat", en: "Ararat Cement Factory" },
+    name: { de: "Zementfabrik Ararat", hu: "Ararát Cementgyár", ro: "Fabrica de Ciment Ararat", en: "Ararat Cement Factory",
+image: "/poi-images/ararat-cement-factory-economic-v2.webp"
+},
     description: { de: "Die Zementfabrik Ararat ist eine große Produktionsanlage, die sowohl den heimischen Markt als auch den Export mit Baumaterialien versorgt. Sie ist von großer Bedeutung für die Bauindustrie des Landes.", hu: "Az Ararát Cementgyár egy nagy termelési létesítmény, amely mind a hazai piacot, mind az exportot ellátja építőanyaggal. Hatalmas jelentőséggel bír az ország építőipara számára.", ro: "Fabrica de Ciment Ararat este o mare unitate de producție care furnizează materiale de construcții pentru piața internă și pentru export. Este de mare importanță pentru industria construcțiilor din țară.", en: "The Ararat Cement Factory is a large production facility that supplies construction materials to both the domestic market and for export. It is of great importance to the country's construction industry." },
     facts: {
       de: ["Großflächige Zementproduktionsanlage in der Provinz Ararat.", "Liefert Baumaterialien für Inlands- und Exportmärkte.", "Im 20. Jahrhundert erbaut, um große Bauprojekte zu unterstützen.", "Vital für die lokale Bauindustrie."],
@@ -188,7 +206,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-ER",
     coords: [44.4975, 40.1758],
-    name: { de: "Weinbrandfabrik Eriwan", hu: "Jereváni Konyakgyár", ro: "Fabrica de Coniac Erevan", en: "Yerevan Brandy Company" },
+    name: { de: "Weinbrandfabrik Eriwan", hu: "Jereváni Konyakgyár", ro: "Fabrica de Coniac Erevan", en: "Yerevan Brandy Company",
+image: "/poi-images/yerevan-brandy-company-economic-v2.webp"
+},
     description: { de: "Die Weinbrandfabrik Eriwan ist der berühmte Hersteller des armenischen Cognacs ArArAt und wurde 1887 gegründet. Sie gehört zu den führenden Exporteuren alkoholischer Getränke in Armenien.", hu: "A Jereváni Konyakgyár a híres ArArAt örmény konyak gyártója, amelyet 1887-ben alapítottak. Örményország egyik vezető alkoholos ital-exportőre.", ro: "Fabrica de Coniac Erevan este celebrul producător al coniacului armean ArArAt și a fost fondată în 1887. Este unul dintre principalii exportatori de băuturi alcoolice din Armenia.", en: "The Yerevan Brandy Company is the famous producer of the Armenian cognac ArArAt and was founded in 1887. It is one of the leading exporters of alcoholic beverages in Armenia." },
     facts: {
       de: ["Berühmter Hersteller von armenischem Cognac, insbesondere der Marke ArArAt.", "Gegründet 1887 von Nerses Tairjan.", "Einer der führenden Exporteure alkoholischer Getränke in Armenien.", "Das Fabrikgebäude ist ein Wahrzeichen in Eriwan."],
@@ -208,7 +228,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "mine",
     parent: "AM-SU",
     coords: [46.1953, 38.8789],
-    name: { de: "Kupfer-Molybdän-Kombinat Agarak", hu: "Agarak Réz-Molibdén Kombinát", ro: "Combinatul de Cupru și Molibden Agarak", en: "Agarak Copper-Molybdenum Mine Complex" },
+    name: { de: "Kupfer-Molybdän-Kombinat Agarak", hu: "Agarak Réz-Molibdén Kombinát", ro: "Combinatul de Cupru și Molibden Agarak", en: "Agarak Copper-Molybdenum Mine Complex",
+image: "/poi-images/agarak-copper-molybdenum-mine-economic-v2.webp"
+},
     description: { de: "Das Kupfer-Molybdän-Kombinat Agarak befindet sich in der Provinz Sjunik nahe der iranischen Grenze. Es ist ein bedeutender Arbeitgeber im Süden Armeniens und baut wichtige Erze ab.", hu: "Az Agarak Réz-Molibdén Kombinát Sjunik tartományban, az iráni határ közelében található. Jelentős munkáltató Dél-Örményországban, és fontos érceket bányász.", ro: "Combinatul de Cupru și Molibden Agarak este situat în provincia Syunik, aproape de granița cu Iranul. Este un angajator important în sudul Armeniei și extrage minereuri importante.", en: "The Agarak Copper-Molybdenum Mine Complex is located in the Syunik Province near the Iranian border. It is a significant employer in southern Armenia and mines important ores." },
     facts: {
       de: ["Befindet sich in der Provinz Sjunik, nahe der iranischen Grenze.", "Baut Kupfer- und Molybdänerze ab und verarbeitet diese.", "Ein wichtiger Arbeitgeber in der südlichen Region Armeniens.", "Verfügt über einen Tagebau und eine Flotationsanlage."],
@@ -228,7 +250,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-KT",
     coords: [44.7511, 40.5283],
-    name: { de: "Zementfabrik Hrasdan", hu: "Hrazdani Cementgyár", ro: "Fabrica de Ciment Hrazdan", en: "Hrazdan Cement Factory" },
+    name: { de: "Zementfabrik Hrasdan", hu: "Hrazdani Cementgyár", ro: "Fabrica de Ciment Hrazdan", en: "Hrazdan Cement Factory",
+image: "/poi-images/hrazdan-cement-factory-economic-v2.webp"
+},
     description: { de: "Die Zementfabrik Hrasdan in der Provinz Kotajk wurde in den 1970er Jahren gegründet, um den wachsenden Baubedarf zu decken. Sie nutzt lokale Kalksteinvorkommen für die Produktion.", hu: "A Kotajk tartományban található Hrazdani Cementgyárat az 1970-es években alapították a növekvő építkezési igények kielégítésére. A termeléshez helyi mészkőlelőhelyeket használ.", ro: "Fabrica de Ciment Hrazdan din provincia Kotayk a fost înființată în anii 1970 pentru a răspunde nevoilor tot mai mari de construcții. Folosește zăcăminte locale de calcar pentru producție.", en: "The Hrazdan Cement Factory in the Kotayk Province was established in the 1970s to meet growing construction needs. It uses local limestone deposits for production." },
     facts: {
       de: ["Ein weiterer großer Zementproduzent in Hrasdan.", "Gegründet 1970, um den wachsenden Baubedarf zu decken.", "Nutzt lokale Kalksteinvorkommen.", "Spielt weiterhin eine Schlüsselrolle in der Region Kotajk."],
@@ -248,7 +272,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AM-AV",
     coords: [44.3986, 40.1472],
-    name: { de: "Frachtterminal Swartnoz", hu: "Zvartnotsz teherterminál", ro: "Terminalul Cargo Zvartnots", en: "Zvartnots Cargo Terminal" },
+    name: { de: "Frachtterminal Swartnoz", hu: "Zvartnotsz teherterminál", ro: "Terminalul Cargo Zvartnots", en: "Zvartnots Cargo Terminal",
+image: "/poi-images/zvartnots-cargo-terminal-economic-v2.webp"
+},
     description: { de: "Das Frachtterminal des internationalen Flughafens Swartnoz ist der wichtigste Luftfrachtknotenpunkt Armeniens. Es ist von entscheidender Bedeutung für den globalen Handel des Binnenlandes.", hu: "A Zvartnotsz nemzetközi repülőtér teherterminálja Örményország legfontosabb légi árufuvarozási központja. Döntő jelentőségű a tengerparttal nem rendelkező ország globális kereskedelme szempontjából.", ro: "Terminalul Cargo al Aeroportului Internațional Zvartnots este principalul hub de transport aerian al Armeniei. Este crucial pentru comerțul global al acestei țări fără ieșire la mare.", en: "The cargo terminal of Zvartnots International Airport is the main air freight hub of Armenia. It is crucial for the global trade of the landlocked country." },
     facts: {
       de: ["Das wichtigste Luftfrachtdrehkreuz für Armenien.", "Bewickelt den internationalen Import und Export von Waren.", "Verfügt über moderne Logistik- und Lagereinrichtungen.", "Entscheidend für die globalen Handelsverbindungen Armeniens."],
@@ -268,7 +294,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AM-SU",
     coords: [46.2425, 38.9022],
-    name: { de: "Freie Wirtschaftszone Meghri", hu: "Meghri Szabadgazdasági Övezet", ro: "Zona Economică Liberă Meghri", en: "Meghri Free Economic Zone" },
+    name: { de: "Freie Wirtschaftszone Meghri", hu: "Meghri Szabadgazdasági Övezet", ro: "Zona Economică Liberă Meghri", en: "Meghri Free Economic Zone",
+image: "/poi-images/meghri-free-economic-zone-economic-v2.webp"
+},
     description: { de: "Die Freie Wirtschaftszone Meghri an der Grenze zum Iran wurde gegründet, um Handel und wirtschaftliche Zusammenarbeit zu fördern. Sie bietet steuerliche Anreize für Hersteller und Unternehmen.", hu: "Az iráni határon fekvő Meghri Szabadgazdasági Övezetet a kereskedelem és a gazdasági együttműködés fellendítése céljából hozták létre. Adókedvezményeket kínál a gyártók és a vállalatok számára.", ro: "Zona Economică Liberă Meghri, la granița cu Iranul, a fost înființată pentru a promova comerțul și cooperarea economică. Oferă stimulente fiscale pentru producători și companii.", en: "The Meghri Free Economic Zone, on the border with Iran, was established to promote trade and economic cooperation. It offers tax incentives for manufacturers and businesses." },
     facts: {
       de: ["Befindet sich an der Grenze zum Iran.", "Gegründet, um Handel und wirtschaftliche Zusammenarbeit zu stärken.", "Bietet steuerliche Anreize für Unternehmen und Hersteller.", "Ein strategisches Tor für den regionalen Transit."],
@@ -288,7 +316,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "trade-hub",
     parent: "AM-SH",
     coords: [43.8592, 40.7508],
-    name: { de: "Frachtzentrum Flughafen Schirak", hu: "Sirak Repülőtér Teherközpontja", ro: "Centrul Cargo al Aeroportului Shirak", en: "Shirak Airport Cargo Center" },
+    name: { de: "Frachtzentrum Flughafen Schirak", hu: "Sirak Repülőtér Teherközpontja", ro: "Centrul Cargo al Aeroportului Shirak", en: "Shirak Airport Cargo Center",
+image: "/poi-images/shirak-airport-cargo-center-economic-v2.webp"
+},
     description: { de: "Das Frachtzentrum des Flughafens Schirak in Gjumri dient als sekundärer Luftfrachtknotenpunkt Armeniens. Es ist wichtig für die Abwicklung landwirtschaftlicher und industrieller Exporte aus dem Norden.", hu: "A Gjumriban található Sirak repülőtér teherközpontja Örményország másodlagos légi teherfuvarozási csomópontjaként szolgál. Fontos az északi mezőgazdasági és ipari export lebonyolításában.", ro: "Centrul Cargo al Aeroportului Shirak din Gyumri servește ca al doilea hub de transport aerian al Armeniei. Este important pentru gestionarea exporturilor agricole și industriale din nord.", en: "The Shirak Airport Cargo Center in Gyumri serves as Armenia's secondary air freight hub. It is important for handling agricultural and industrial exports from the north." },
     facts: {
       de: ["Sekundäre Luftfrachtanlage in Gjumri.", "Bedient die nördlichen Regionen Armeniens.", "Wickelt landwirtschaftliche und industrielle Exporte ab.", "Wichtig für die Dezentralisierung des Frachtverkehrs aus Eriwan."],
@@ -308,7 +338,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-ER",
     coords: [44.4939, 40.1419],
-    name: { de: "Grand Tobacco Fabrik", hu: "Grand Tobacco Gyár", ro: "Fabrica Grand Tobacco", en: "Grand Tobacco Factory" },
+    name: { de: "Grand Tobacco Fabrik", hu: "Grand Tobacco Gyár", ro: "Fabrica Grand Tobacco", en: "Grand Tobacco Factory",
+image: "/poi-images/grand-tobacco-factory-economic-v2.webp"
+},
     description: { de: "Die Grand Tobacco Fabrik in Eriwan ist einer der größten Tabakhersteller im Kaukasus. Sie produziert Zigaretten für den Inlandsmarkt und für den Export und ist ein wichtiger Steuerzahler.", hu: "A jereváni Grand Tobacco Gyár a Kaukázus egyik legnagyobb dohányipari vállalata. Cigarettákat gyárt a hazai piacra és exportra, és fontos adófizető.", ro: "Fabrica Grand Tobacco din Erevan este unul dintre cei mai mari producători de tutun din Caucaz. Produce țigări pentru piața internă și pentru export, fiind un contribuabil important.", en: "The Grand Tobacco Factory in Yerevan is one of the largest tobacco manufacturers in the Caucasus. It produces cigarettes for the domestic market and export, and is a major taxpayer." },
     facts: {
       de: ["Einer der größten Tabakhersteller im Kaukasus.", "Produziert Zigaretten für den Inlandsverbrauch und den Export.", "Teil der größeren Unternehmensgruppe Grand Holding.", "Ein bedeutender Beitragszahler zu den nationalen Steuereinnahmen."],
@@ -329,7 +361,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-AR",
     coords: [44.5519, 39.9547],
-    name: { de: "Spayka Gewächshauskomplex", hu: "Spayka Üvegházkomplexum", ro: "Complexul de sere Spayka", en: "Spayka Greenhouse Complex" },
+    name: { de: "Spayka Gewächshauskomplex", hu: "Spayka Üvegházkomplexum", ro: "Complexul de sere Spayka", en: "Spayka Greenhouse Complex",
+image: "/poi-images/spayka-greenhouse-complex-economic-v2.webp"
+},
     description: { de: "Der Spayka Gewächshauskomplex im Ararat-Tal ist eine riesige landwirtschaftliche High-Tech-Anlage. Das Unternehmen ist einer der führenden Exporteure von frischem Gemüse und Obst aus Armenien.", hu: "Az Ararát-völgyben található Spayka Üvegházkomplexum egy hatalmas, csúcstechnológiás mezőgazdasági létesítmény. A vállalat Örményország egyik vezető friss zöldség- és gyümölcsexportőre.", ro: "Complexul de sere Spayka din Valea Ararat este o instalație agricolă uriașă de înaltă tehnologie. Compania este unul dintre principalii exportatori de legume și fructe proaspete din Armenia.", en: "The Spayka Greenhouse Complex in the Ararat valley is a massive high-tech agricultural facility. The company is one of the leading exporters of fresh vegetables and fruit from Armenia." },
     facts: {
       de: ["Massive landwirtschaftliche High-Tech-Anlage im Ararat-Tal.", "Spezialisiert auf den Anbau von Tomaten und Gurken.", "Nutzt fortschrittliche Hydrokultur- und Klimakontrolltechnologien.", "Ein führender Exporteur von Frischprodukten aus Armenien."],
@@ -349,7 +383,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-VD",
     coords: [45.6706, 39.8406],
-    name: { de: "Mineralwasserfabrik Dschermuk", hu: "Jermuk Ásványvízgyár", ro: "Fabrica de Apă Minerală Jermuk", en: "Jermuk Mineral Water Factory" },
+    name: { de: "Mineralwasserfabrik Dschermuk", hu: "Jermuk Ásványvízgyár", ro: "Fabrica de Apă Minerală Jermuk", en: "Jermuk Mineral Water Factory",
+image: "/poi-images/jermuk-mineral-water-factory-economic-v2.webp"
+},
     description: { de: "Die Mineralwasserfabrik Dschermuk füllt das berühmte, natürlich sprudelnde Wasser aus den Quellen von Dschermuk ab. Die Marke ist weit über die Grenzen Armeniens hinaus bekannt und beliebt.", hu: "A Jermuk Ásványvízgyár a Jermuk forrásaiból származó, híres, természetes szénsavas vizet palackozza. A márka Örményország határain túl is széles körben ismert és népszerű.", ro: "Fabrica de Apă Minerală Jermuk îmbuteliază faimoasa apă minerală naturală din izvoarele din Jermuk. Marca este cunoscută și populară cu mult dincolo de granițele Armeniei.", en: "The Jermuk Mineral Water Factory bottles the famous, naturally sparkling water from the Jermuk springs. The brand is known and popular well beyond the borders of Armenia." },
     facts: {
       de: ["Füllt das berühmte Mineralwasser aus den Dschermuk-Quellen ab.", "Die Marke ist in ganz Osteuropa und darüber hinaus anerkannt.", "Die Fabrik wurde mit europäischer Abfülltechnik modernisiert.", "Unterstützt die lokale Wirtschaft des Kurortes Dschermuk."],
@@ -369,7 +405,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "energy",
     parent: "AM-SU",
     coords: [46.2483, 39.3808],
-    name: { de: "Worotan-Kaskade", hu: "Vorotan vízerőmű-rendszer", ro: "Cascada Vorotan", en: "Vorotan Cascade" },
+    name: { de: "Worotan-Kaskade", hu: "Vorotan vízerőmű-rendszer", ro: "Cascada Vorotan", en: "Vorotan Cascade",
+image: "/poi-images/vorotan-cascade-economic-v2.webp"
+},
     description: { de: "Die Worotan-Kaskade ist ein Komplex aus drei Wasserkraftwerken am Fluss Worotan in der Provinz Sjunik. Sie trägt maßgeblich zur Deckung des armenischen Strombedarfs aus erneuerbaren Quellen bei.", hu: "A Vorotan vízerőmű-rendszer három vízerőmű komplexuma a Vorotan folyón, Sjunik tartományban. Jelentősen hozzájárul az örményországi villamosenergia-igény megújuló forrásokból történő fedezéséhez.", ro: "Cascada Vorotan este un complex de trei hidrocentrale pe râul Vorotan, în provincia Syunik. Contribuie semnificativ la satisfacerea nevoilor de energie electrică ale Armeniei din surse regenerabile.", en: "The Vorotan Cascade is a complex of three hydroelectric power plants on the Vorotan River in the Syunik Province. It contributes significantly to meeting Armenia's electricity needs from renewable sources." },
     facts: {
       de: ["Komplex aus drei Wasserkraftwerken am Fluss Worotan.", "Umfasst die Anlagen Spandarjan, Schamb und Tatew.", "Erzeugt einen erheblichen Teil der erneuerbaren Energie Armeniens.", "Wurde von der amerikanischen Firma ContourGlobal erworben."],
@@ -390,7 +428,9 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     type: "industry",
     parent: "AM-ER",
     coords: [44.4925, 40.1278],
-    name: { de: "Chemiewerk Nairit", hu: "Nairit Vegyiművek", ro: "Uzina Chimică Nairit", en: "Nairit Chemical Plant" },
+    name: { de: "Chemiewerk Nairit", hu: "Nairit Vegyiművek", ro: "Uzina Chimică Nairit", en: "Nairit Chemical Plant",
+image: "/poi-images/nairit-chemical-plant-economic-v2.webp"
+},
     description: { de: "Das Chemiewerk Nairit in Eriwan war einst ein Gigant der sowjetischen chemischen Industrie und produzierte Chloropren-Kautschuk. Heute prägt seine riesige Infrastruktur das südliche Industriegebiet der Hauptstadt.", hu: "A jereváni Nairit Vegyiművek egykor a szovjet vegyipar óriása volt, és kloroprén kaucsukot állított elő. Ma hatalmas infrastruktúrája meghatározza a főváros déli ipari övezetének arculatát.", ro: "Uzina Chimică Nairit din Erevan a fost cândva un gigant al industriei chimice sovietice, producând cauciuc cloroprenic. Astăzi, infrastructura sa masivă domină zona industrială de sud a capitalei.", en: "The Nairit Chemical Plant in Yerevan was once a giant of the Soviet chemical industry, producing chloroprene rubber. Today, its massive infrastructure dominates the southern industrial zone of the capital." },
     facts: {
       de: ["Einst ein Gigant der sowjetischen chemischen Industrie in Eriwan.", "Spezialisiert auf die Herstellung von Chloropren-Kautschuk.", "War im 21. Jahrhundert mit finanziellen Schwierigkeiten konfrontiert.", "Die massive Infrastruktur bleibt ein markantes Merkmal in Eriwan."],

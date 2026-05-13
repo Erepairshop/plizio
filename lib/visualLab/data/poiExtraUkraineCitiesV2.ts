@@ -4,7 +4,9 @@ export const ukraineCitiesV2: POI[] = [
   {
     id: "ukraine-kyiv-cities-v2",
     type: "capital",
-    name: { de: "Kiew", hu: "Kijev", ro: "Kiev", en: "Kyiv" },
+    name: { de: "Kiew", hu: "Kijev", ro: "Kiev", en: "Kyiv",
+image: "/poi-images/ukraine-kyiv-cities-v2.webp"
+},
     coords: [30.5234, 50.4501],
     coordinates: { lat: 50.4501, lng: 30.5234 },
     description: {
@@ -19,11 +21,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în anul 482 d.Hr.", "Populație de aproximativ 2,9 milioane", "Deține cel mai adânc sistem de metrou", "Găzduiește două situri UNESCO"],
       en: ["Founded in the year 482 AD", "Population approximately 2.9 million", "Home to the world's deepest metro station", "Host to two UNESCO World Heritage sites"],
     },
-    imageHint: "Aerial view of Kyiv city center and Dnieper river", image: "/poi-images/ukraine-kyiv-cities-v2.webp"},
-  {
+imageHint: "Aerial view of Kyiv city center and Dnieper river",
+    descriptionAdvanced: {
+      de: "Die am Dnipro gelegene Hauptstadt der Ukraine wurde 482 gegründet. Als Wiege der ostslawischen Zivilisation beherbergt sie das UNESCO-Welterbe der Sophienkathedrale.",
+      hu: "A Dnyeper partján fekvő fővárost 482-ben alapították. Kelet-Európa egyik legrégebbi városa, vallási központja a kijevi Pecserszka Lavra barlangkolostor-együttes.",
+      ro: "Capitala Ucrainei, situată pe malurile Niprului, a fost fondată în anul 482. Este un centru spiritual major, renumit pentru Catedrala Sfânta Sofia și Lavra Pecerska.",
+      en: "Kyiv, founded in 482 on the Dnieper River, is the capital of Ukraine. It serves as a major industrial and cultural hub, featuring the historic Golden Gate of Kyiv.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 482", "Fläche: 839 Quadratkilometer", "Höhe: 179 Meter über dem Meer", "U-Bahn-Station Arsenalna: 105 m tief"],
+      hu: ["Alapítás éve: 482", "Területe: 839 négyzetkilométer", "Legmagasabb pontja: 179 méter", "Arzenalna metróállomás mélysége: 105 m"],
+      ro: ["Fondat în anul 482", "Suprafață: 839 km pătrați", "Altitudine medie: 179 metri", "Stația de metrou Arsenalna: 105 m adâncime"],
+      en: ["Founded in the year 482", "Total area: 839 square kilometers", "Elevation: 179 meters above sea level", "Arsenalna Metro station depth: 105 m"],
+    },
+    image: "/poi-images/ukraine-kyiv-cities-v2.webp",
+},  {
     id: "ukraine-kharkiv-cities-v2",
     type: "city",
-    name: { de: "Charkiw", hu: "Harkiv", ro: "Harkov", en: "Kharkiv" },
+    name: { de: "Charkiw", hu: "Harkiv", ro: "Harkov", en: "Kharkiv",
+image: "/poi-images/ukraine-kharkiv-cities-v2.webp"
+},
     coords: [36.2304, 49.9935],
     coordinates: { lat: 49.9935, lng: 36.2304 },
     description: {
@@ -38,11 +55,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Prima capitală a RSS Ucrainene", "Piața Libertății este una dintre cele mai mari", "Găzduiește peste 60 de universități", "Fondat în anul 1654"],
       en: ["First capital of the Ukrainian SSR", "Freedom Square is one of Europe's largest", "Home to over 60 higher education schools", "Founded in 1654"],
     },
-    imageHint: "Freedom Square and Derzhprom building in Kharkiv", image: "/poi-images/ukraine-kharkiv-cities-v2.webp"},
-  {
+imageHint: "Freedom Square and Derzhprom building in Kharkiv",
+    descriptionAdvanced: {
+      de: "Kharkiv wurde 1654 gegründet und ist das wichtigste Bildungszentrum des Landes. Der Freiheitsplatz gehört mit fast 12 Hektar zu den größten Stadtplätzen Europas.",
+      hu: "Az 1654-ben alapított Harkiv az ország második legnagyobb városa. Központjában található a Szabadság tér, amely Európa egyik legnagyobb városi tere.",
+      ro: "Fondat în 1654, Harkov este al doilea oraș ca mărime din Ucraina. Piața Libertății din centru este una dintre cele mai mari piețe urbane din întreaga Europă.",
+      en: "Founded in 1654, Kharkiv is Ukraine's second-largest city and a key educational hub. Its Freedom Square is one of the largest city squares in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1654", "Freiheitsplatz: ca. 11,9 Hektar", "Über 60 wissenschaftliche Institute", "Erste Universität: gegründet 1804"],
+      hu: ["Alapítás éve: 1654", "Szabadság tér területe: 11,9 hektár", "Több mint 60 tudományos intézet", "Egyetem alapítása: 1804"],
+      ro: ["Fondat în anul 1654", "Piața Libertății: 11,9 hectare", "Peste 60 de institute de cercetare", "Universitatea fondată în 1804"],
+      en: ["Founded in the year 1654", "Freedom Square area: 11.9 hectares", "Home to over 60 research institutes", "University founded in 1804"],
+    },
+    image: "/poi-images/ukraine-kharkiv-cities-v2.webp",
+},  {
     id: "ukraine-odesa-cities-v2",
     type: "city",
-    name: { de: "Odessa", hu: "Odessza", ro: "Odesa", en: "Odesa" },
+    name: { de: "Odessa", hu: "Odessza", ro: "Odesa", en: "Odesa",
+image: "/poi-images/ukraine-odesa-cities-v2.webp"
+},
     coords: [30.7233, 46.4825],
     coordinates: { lat: 46.4825, lng: 30.7233 },
     description: {
@@ -57,11 +89,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de Ecaterina cea Mare în 1794", "Are catacombe subterane vaste", "Centrul comerțului maritim ucrainean", "Găzduiește celebra Scară Potiomkin"],
       en: ["Founded by Catherine the Great in 1794", "Features vast underground catacombs", "Center of Ukrainian maritime trade", "Home to the famous Potemkin Stairs"],
     },
-    imageHint: "Odesa Opera House and city streets", image: "/poi-images/ukraine-odesa-cities-v2.webp"},
-  {
+imageHint: "Odesa Opera House and city streets",
+    descriptionAdvanced: {
+      de: "Die 1794 unter Katharina der Großen gegründete Hafenstadt am Schwarzen Meer ist für ihre Architektur bekannt. Die Potemkinsche Treppe verbindet die Stadt mit dem Hafen.",
+      hu: "Az 1794-ben alapított fekete-tengeri kikötőváros híres eklektikus építészetéről. A Patyomkin-lépcső a város jelképe, amely a központot köti össze a kikötővel.",
+      ro: "Fondat în 1794, acest port de la Marea Neagră este celebru pentru arhitectura sa. Treptele Potemkin reprezintă simbolul orașului și accesul spre zona portuară.",
+      en: "Founded in 1794 on the Black Sea, Odesa is a vital port and cultural center. The iconic Potemkin Stairs serve as a grand entrance from the sea to the city.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 2. September 1794", "Länge der Potemkin-Treppe: 142 m", "Opernhaus: erbaut 1887", "Katakombennetz: über 2.500 km lang"],
+      hu: ["Alapítva: 1794. szeptember 2.", "Patyomkin-lépcső hossza: 142 méter", "Operaház építési éve: 1887", "Katakombarendszer hossza: 2500 km felett"],
+      ro: ["Fondat la 2 septembrie 1794", "Lungimea Treptelor Potemkin: 142 m", "Opera construită în anul 1887", "Rețeaua de catacombe: peste 2.500 km"],
+      en: ["Founded on September 2, 1794", "Potemkin Stairs length: 142 meters", "Opera House built in 1887", "Catacombs network: over 2,500 km long"],
+    },
+    image: "/poi-images/ukraine-odesa-cities-v2.webp",
+},  {
     id: "ukraine-dnipro-cities-v2",
     type: "city",
-    name: { de: "Dnipro", hu: "Dnipro", ro: "Dnipro", en: "Dnipro" },
+    name: { de: "Dnipro", hu: "Dnipro", ro: "Dnipro", en: "Dnipro",
+image: "/poi-images/ukraine-dnipro-cities-v2.webp"
+},
     coords: [35.0462, 48.4647],
     coordinates: { lat: 48.4647, lng: 35.0462 },
     description: {
@@ -76,11 +123,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Cunoscut anterior sub numele de Dnipropetrovsk", "Centrul industriei aerospațiale ucrainene", "Are cea mai lungă faleză din Europa", "Fondat în anul 1776"],
       en: ["Formerly known as Dnipropetrovsk", "Center of Ukrainian aerospace industry", "Features the longest river embankment in Europe", "Founded in 1776"],
     },
-    imageHint: "Dnipro skyline and the Dnieper river", image: "/poi-images/ukraine-dnipro-cities-v2.webp"},
-  {
+imageHint: "Dnipro skyline and the Dnieper river",
+    descriptionAdvanced: {
+      de: "Dnipro, 1776 als Jekaterinoslaw gegründet, entwickelte sich zu einem Zentrum der Raumfahrtindustrie. Die Stadt besitzt eine der längsten Uferpromenaden Europas.",
+      hu: "Az 1776-ban alapított Dnyipro az ország nehézipari és űrkutatási központja. A Dnyeper folyó menti sétánya több mint 23 kilométer hosszú, Európa egyik leghosszabbja.",
+      ro: "Fondat în 1776, Dnipro a devenit un centru major al industriei spațiale. Orașul se mândrește cu una dintre cele mai lungi faleze fluviale din Europa.",
+      en: "Founded in 1776, Dnipro is a major industrial city and a center for aerospace engineering. It features a river embankment over 23 kilometers long.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1776", "Uferpromenade: 23 km lang", "Jewrej-Zentrum Menora: 50.000 m²", "Sitz von Juschmasch (Raumfahrt)"],
+      hu: ["Alapítás éve: 1776", "Duna-parti sétány hossza: 23 km", "Menóra központ: 50 000 négyzetméter", "Juzsmas rakétagyár székhelye"],
+      ro: ["Fondat în anul 1776", "Faleza are o lungime de 23 km", "Centrul Menorah: 50.000 m pătrați", "Sediul uzinei aerospațiale Yuzhmash"],
+      en: ["Founded in the year 1776", "River embankment length: 23 km", "Menorah Center area: 50,000 sq meters", "Headquarters of Yuzhmash aerospace"],
+    },
+    image: "/poi-images/ukraine-dnipro-cities-v2.webp",
+},  {
     id: "ukraine-donetsk-cities-v2",
     type: "city",
-    name: { de: "Donezk", hu: "Doneck", ro: "Donețk", en: "Donetsk" },
+    name: { de: "Donezk", hu: "Doneck", ro: "Donețk", en: "Donetsk",
+image: "/poi-images/ukraine-donetsk-cities-v2.webp"
+},
     coords: [37.8028, 48.0159],
     coordinates: { lat: 48.0159, lng: 37.8028 },
     description: {
@@ -95,11 +157,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de galezul John Hughes în 1869", "Centru major al producției de oțel", "Găzduiește stadionul Donbass Arena", "Numit inițial Iuzovka"],
       en: ["Founded by Welshman John Hughes in 1869", "Major center for steel production", "Home to the Donbass Arena stadium", "Originally named Yuzovka"],
     },
-    imageHint: "Donetsk city skyline and roses in park", image: "/poi-images/ukraine-donetsk-cities-v2.webp"},
-  {
+imageHint: "Donetsk city skyline and roses in park",
+    descriptionAdvanced: {
+      de: "Donetsk wurde 1869 vom Waliser John Hughes als Bergbaustadt gegründet. Es entwickelte sich zum Herzstück des Donezbeckens und ist als Stadt der Millionen Rosen bekannt.",
+      hu: "A várost 1869-ben az első vasgyár alapítója, John Hughes után Juzovkának hívták. A Donyec-medence ipari központja, híres a „millió rózsa városa” jelzőről.",
+      ro: "Fondat în 1869 de galezul John Hughes, Donețk a devenit centrul bazinului carbonifer Donbas. Este supranumit „orașul celor un milion de trandafiri”.",
+      en: "Founded in 1869 by Welshman John Hughes, Donetsk became the industrial heart of the Donbas region. It is famously known as the city of a million roses.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1869", "Höhe: 169 Meter über dem Meer", "Donbass Arena: 52.000 Plätze", "Benannt nach dem Fluss Kalmius"],
+      hu: ["Alapítás éve: 1869", "Tengerszint feletti magasság: 169 m", "Donbasz Aréna: 52 000 férőhely", "A Kalmiusz folyó partján fekszik"],
+      ro: ["Fondat în anul 1869", "Altitudine medie: 169 metri", "Donbass Arena: 52.000 de locuri", "Situat pe râul Kalmius"],
+      en: ["Founded in the year 1869", "Elevation: 169 meters", "Donbass Arena capacity: 52,000", "Located on the Kalmius River"],
+    },
+    image: "/poi-images/ukraine-donetsk-cities-v2.webp",
+},  {
     id: "ukraine-zaporizhzhia-cities-v2",
     type: "city",
-    name: { de: "Saporischschja", hu: "Zaporizzsja", ro: "Zaporijjea", en: "Zaporizhzhia" },
+    name: { de: "Saporischschja", hu: "Zaporizzsja", ro: "Zaporijjea", en: "Zaporizhzhia",
+image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp"
+},
     coords: [35.1396, 47.8388],
     coordinates: { lat: 47.8388, lng: 35.1396 },
     description: {
@@ -114,11 +191,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Situat vizavi de insula Hortîțea", "Locație importantă a industriei auto", "Deține una dintre cele mai mari oțelării", "S-a numit Alexandrovsk până în 1921"],
       en: ["Located opposite Khortytsia Island", "Major site of the automotive industry", "Features one of the largest steel plants", "Known as Alexandrovsk until 1921"],
     },
-    imageHint: "Zaporizhzhia hydroelectric dam and Dnieper river", image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp"},
-  {
+imageHint: "Zaporizhzhia hydroelectric dam and Dnieper river",
+    descriptionAdvanced: {
+      de: "Die Stadt ist berühmt für die Insel Chortyzja, das historische Zentrum der Saporoger Kosaken. Hier befindet sich auch das gewaltige Wasserkraftwerk DniproHES.",
+      hu: "A város a Horticja-szigetről nevezetes, amely a zaporozsjei kozákok történelmi szálláshelye volt. Itt működik a hatalmas DnyiproHESZ vízerőmű is.",
+      ro: "Orașul este renumit pentru insula Hortiția, centrul istoric al cazacilor zaporojeni. Găzduiește complexul hidroenergetic masiv DniproHES.",
+      en: "Zaporizhzhia is famous for Khortytsia Island, the historic heart of the Zaporozhian Cossacks. It is home to the massive Dnieper Hydroelectric Station.",
+    },
+    factsAdvanced: {
+      de: ["DniproHES Staumauer: 760 m lang", "Insel Chortyzja: ca. 12 km lang", "Gründung der Festung: 1770", "Größtes Kernkraftwerk Europas nahebei"],
+      hu: ["DnyiproHESZ gát hossza: 760 méter", "Horticja-sziget hossza: 12 km", "Erőd alapítása: 1770", "Európa legnagyobb atomerőműve közelében"],
+      ro: ["Barajul DniproHES: 760 m lungime", "Insula Hortiția: 12 km lungime", "Cetatea fondată în anul 1770", "Cea mai mare centrală nucleară din Europa"],
+      en: ["DniproHES dam length: 760 meters", "Khortytsia Island length: 12 km", "Fortress established in 1770", "Largest nuclear plant in Europe nearby"],
+    },
+    image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp",
+},  {
     id: "ukraine-lviv-cities-v2",
     type: "city",
-    name: { de: "Lwiw", hu: "Lviv", ro: "Liov", en: "Lviv" },
+    name: { de: "Lwiw", hu: "Lviv", ro: "Liov", en: "Lviv",
+image: "/poi-images/ukraine-lviv-cities-v2.webp"
+},
     coords: [24.0297, 49.8397],
     coordinates: { lat: 49.8397, lng: 24.0297 },
     description: {
@@ -133,11 +225,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul vechi este sit UNESCO", "Renumit pentru cultura cafelei", "S-a numit anterior Lemberg", "Găzduiește peste 60 de muzee"],
       en: ["Old Town is a UNESCO World Heritage site", "Famous for its coffee and chocolate tradition", "Formerly known as Lemberg", "Home to over 60 museums"],
     },
-    imageHint: "Lviv Rynok Square and historical architecture", image: "/poi-images/ukraine-lviv-cities-v2.webp"},
-  {
+imageHint: "Lviv Rynok Square and historical architecture",
+    descriptionAdvanced: {
+      de: "Lemberg wurde 1256 gegründet und war Hauptstadt des Königreichs Galizien. Die historische Altstadt ist UNESCO-Welterbe und besticht durch ihren mitteleuropäischen Flair.",
+      hu: "Az 1256-ban alapított Lviv Galícia történelmi fővárosa volt. UNESCO világörökségi óvárosa közép-európai hangulatával és kávéházi kultúrájával tűnik ki.",
+      ro: "Fondat în 1256, Liov a fost capitala Regatului Galiției. Centrul istoric este inclus în patrimoniul UNESCO, având o arhitectură central-europeană distinctă.",
+      en: "Founded in 1256, Lviv was the capital of the Kingdom of Galicia. Its historic Old Town is a UNESCO World Heritage site known for its Central European charm.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1256", "Marktplatz (Rynok): 44 Häuser", "Über 50 Museen in der Stadt", "Erste Druckerei: eröffnet 1573"],
+      hu: ["Alapítás éve: 1256", "Rynok tér: 44 történelmi épület", "Több mint 50 múzeum található itt", "Első nyomda alapítása: 1573"],
+      ro: ["Fondat în anul 1256", "Piața Rynok: 44 de clădiri istorice", "Peste 50 de muzee în oraș", "Prima tiparniță deschisă în 1573"],
+      en: ["Founded in the year 1256", "Rynok Square: 44 historic buildings", "Home to over 50 museums", "First printing house opened in 1573"],
+    },
+    image: "/poi-images/ukraine-lviv-cities-v2.webp",
+},  {
     id: "ukraine-kryvyi-rih-cities-v2",
     type: "city",
-    name: { de: "Krywyj Rih", hu: "Krivij Rih", ro: "Krîvîi Rih", en: "Kryvyi Rih" },
+    name: { de: "Krywyj Rih", hu: "Krivij Rih", ro: "Krîvîi Rih", en: "Kryvyi Rih",
+image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp"
+},
     coords: [33.3918, 47.9105],
     coordinates: { lat: 47.9105, lng: 33.3918 },
     description: {
@@ -152,11 +259,26 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Orașul se întinde pe o lungime de 120 km", "Cel mai important bazin de fier din Europa", "Are un sistem de metrou ușor (Metrotram)", "Orașul natal al președintelui Zelenski"],
       en: ["Stretches over 120 km in length", "Primary iron ore basin in Europe", "Operates a unique Metrotram system", "Birthplace of President Zelenskyy"],
     },
-    imageHint: "Kryvyi Rih iron ore quarry and industrial landscape", image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp"},
-  {
+imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
+    descriptionAdvanced: {
+      de: "Kryvyi Rih ist mit über 120 Kilometern Länge eine der längsten Städte Europas. Sie ist das wichtigste Zentrum für Eisenerzbergbau und Metallurgie in der Ukraine.",
+      hu: "Krivij Rih több mint 120 kilométeres hosszával Európa egyik legnyúlánkabb városa. Az ország vasércbányászatának és kohászatának legfontosabb központja.",
+      ro: "Cu o lungime de peste 120 km, Krivoi Rog este unul dintre cele mai lungi orașe din Europa. Este principalul centru minier și metalurgic al Ucrainei.",
+      en: "Stretching over 120 kilometers, Kryvyi Rih is one of Europe's longest cities. It is the primary center for iron ore mining and metallurgy in Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Stadtlänge: ca. 126 km", "Gegründet im Jahr 1775", "Größtes Stahlwerk: ArcelorMittal", "Eisenerzreserve: Milliarden Tonnen"],
+      hu: ["Város hossza: kb. 126 km", "Alapítás éve: 1775", "Legnagyobb acélmű: ArcelorMittal", "Vasérckészlet: milliárd tonnák"],
+      ro: ["Lungimea orașului: aprox. 126 km", "Fondat în anul 1775", "Cea mai mare oțelărie: ArcelorMittal", "Rezerve de fier: miliarde de tone"],
+      en: ["City length: approximately 126 km", "Founded in the year 1775", "Largest steel plant: ArcelorMittal", "Iron ore reserves: billions of tons"],
+    },
+    image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp",
+},  {
     id: "ukraine-mykolaiv-cities-v2",
     type: "city",
-    name: { de: "Mykolajiw", hu: "Mikolajiv", ro: "Nikolaev", en: "Mykolaiv" },
+    name: { de: "Mykolajiw", hu: "Mikolajiv", ro: "Nikolaev", en: "Mykolaiv",
+image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"
+},
     coords: [31.9946, 46.975],
     coordinates: { lat: 46.975, lng: 31.9946 },
     description: {
@@ -171,11 +293,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește trei șantiere navale mari", "Fondat în anul 1789", "Bază importantă a marinei militare", "Cunoscut pentru Grădina Zoologică"],
       en: ["Home to three major shipyards", "Founded in the year 1789", "Key naval and military base", "Famous for the Mykolaiv Zoo"],
     },
-    imageHint: "Mykolaiv city view and shipyard cranes", image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"},
+    imageHint: "Mykolaiv city view and shipyard cranes",
+    image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"},
   {
     id: "ukraine-mariupol-cities-v2",
     type: "city",
-    name: { de: "Mariupol", hu: "Mariupol", ro: "Mariupol", en: "Mariupol" },
+    name: { de: "Mariupol", hu: "Mariupol", ro: "Mariupol", en: "Mariupol",
+image: "/poi-images/ukraine-mariupol-cities-v2.webp"
+},
     coords: [37.5413, 47.0951],
     coordinates: { lat: 47.0951, lng: 37.5413 },
     description: {
@@ -190,11 +315,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de greci din Crimeea în 1778", "Port vital pentru exportul de cereale", "S-a numit anterior Jdanov", "Locația oțelăriei Azovstal"],
       en: ["Founded by Crimean Greeks in 1778", "Crucial port for grain exports", "Formerly named Zhdanov", "Site of the massive Azovstal steelworks"],
     },
-    imageHint: "Mariupol port and industrial skyline", image: "/poi-images/ukraine-mariupol-cities-v2.webp"},
+    imageHint: "Mariupol port and industrial skyline",
+    image: "/poi-images/ukraine-mariupol-cities-v2.webp"},
   {
     id: "ukraine-luhansk-cities-v2",
     type: "city",
-    name: { de: "Luhansk", hu: "Luhanszk", ro: "Lugansk", en: "Luhansk" },
+    name: { de: "Luhansk", hu: "Luhanszk", ro: "Lugansk", en: "Luhansk",
+image: "/poi-images/ukraine-luhansk-cities-v2.webp"
+},
     coords: [39.3078, 48.574],
     coordinates: { lat: 48.574, lng: 39.3078 },
     description: {
@@ -209,11 +337,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de Charles Gascoigne în 1795", "Principalul centru de locomotive", "S-a numit temporar Voroșilovgrad", "Găzduiește o universitate importantă"],
       en: ["Founded by Charles Gascoigne in 1795", "Major locomotive manufacturing hub", "Formerly named Voroshilovgrad", "Home to a significant university"],
     },
-    imageHint: "Luhansk city center and monuments", image: "/poi-images/ukraine-luhansk-cities-v2.webp"},
+    imageHint: "Luhansk city center and monuments",
+    image: "/poi-images/ukraine-luhansk-cities-v2.webp"},
   {
     id: "ukraine-vinnytsia-cities-v2",
     type: "city",
-    name: { de: "Winnyzja", hu: "Vinnicja", ro: "Vinița", en: "Vinnytsia" },
+    name: { de: "Winnyzja", hu: "Vinnicja", ro: "Vinița", en: "Vinnytsia",
+image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"
+},
     coords: [28.4682, 49.2331],
     coordinates: { lat: 49.2331, lng: 28.4682 },
     description: {
@@ -228,11 +359,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește cea mai mare fântână plutitoare", "Centru al industriei dulciurilor (Roshen)", "Locația muzeului Pirogov", "Fondat în anul 1363"],
       en: ["Home to Europe's largest floating fountain", "Major confectionery industry hub", "Site of the Pirogov estate and museum", "Founded in the year 1363"],
     },
-    imageHint: "Vinnytsia Roshen fountain show at night", image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"},
+    imageHint: "Vinnytsia Roshen fountain show at night",
+    image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"},
   {
     id: "ukraine-makiivka-cities-v2",
     type: "city",
-    name: { de: "Makijiwka", hu: "Makijivka", ro: "Makievka", en: "Makiivka" },
+    name: { de: "Makijiwka", hu: "Makijivka", ro: "Makievka", en: "Makiivka",
+image: "/poi-images/ukraine-makiivka-cities-v2.webp"
+},
     coords: [37.9611, 48.0556],
     coordinates: { lat: 48.0556, lng: 37.9611 },
     description: {
@@ -247,11 +381,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centru major pentru producția de cocs", "Fondat ca așezare căzăcească în 1690", "S-a numit anterior Dmitrievsk", "Nod feroviar important"],
       en: ["Major center for coke production", "Founded as a Cossack settlement in 1690", "Formerly named Dmitriyevsk", "Key railway transportation hub"],
     },
-    imageHint: "Industrial plants in Makiivka", image: "/poi-images/ukraine-makiivka-cities-v2.webp"},
+    imageHint: "Industrial plants in Makiivka",
+    image: "/poi-images/ukraine-makiivka-cities-v2.webp"},
   {
     id: "ukraine-sevastopol-cities-v2",
     type: "city",
-    name: { de: "Sewastopol", hu: "Szevasztopol", ro: "Sevastopol", en: "Sevastopol" },
+    name: { de: "Sewastopol", hu: "Szevasztopol", ro: "Sevastopol", en: "Sevastopol",
+image: "/poi-images/ukraine-sevastopol-cities-v2.webp"
+},
     coords: [33.525, 44.6167],
     coordinates: { lat: 44.6167, lng: 33.525 },
     description: {
@@ -266,11 +403,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Lângă orașul antic Chersones", "Fondat în anul 1783", "Are un port natural fără gheață", "Renumit pentru asediul din 1854-55"],
       en: ["Located near the ancient ruins of Chersonesus", "Founded in 1783", "Features an ice-free natural harbor", "Famous for the 1854-1855 Siege"],
     },
-    imageHint: "Sevastopol harbor and monument to sunken ships", image: "/poi-images/ukraine-sevastopol-cities-v2.webp"},
+    imageHint: "Sevastopol harbor and monument to sunken ships",
+    image: "/poi-images/ukraine-sevastopol-cities-v2.webp"},
   {
     id: "ukraine-simferopol-cities-v2",
     type: "city",
-    name: { de: "Simferopol", hu: "Szimferopol", ro: "Simferopol", en: "Simferopol" },
+    name: { de: "Simferopol", hu: "Szimferopol", ro: "Simferopol", en: "Simferopol",
+image: "/poi-images/ukraine-simferopol-cities-v2.webp"
+},
     coords: [34.1024, 44.9521],
     coordinates: { lat: 44.9521, lng: 34.1024 },
     description: {
@@ -285,11 +425,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Nod feroviar important", "Fondat în 1784 pe locul orașului Akmechet", "Centru al culturii tătărești din Crimeea", "Are cea mai lungă linie de troleibuz"],
       en: ["Major railway and transit hub", "Founded in 1784 on the site of Akmechet", "Center of Crimean Tatar culture", "Start of the world's longest trolleybus line"],
     },
-    imageHint: "Simferopol railway station tower", image: "/poi-images/ukraine-simferopol-cities-v2.webp"},
+    imageHint: "Simferopol railway station tower",
+    image: "/poi-images/ukraine-simferopol-cities-v2.webp"},
   {
     id: "ukraine-kherson-cities-v2",
     type: "city",
-    name: { de: "Cherson", hu: "Herszon", ro: "Herson", en: "Kherson" },
+    name: { de: "Cherson", hu: "Herszon", ro: "Herson", en: "Kherson",
+image: "/poi-images/ukraine-kherson-cities-v2.webp"
+},
     coords: [32.6169, 46.6354],
     coordinates: { lat: 46.6354, lng: 32.6169 },
     description: {
@@ -304,11 +447,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de Grigori Potiomkin în 1778", "Centru important de construcții navale", "Poarta către peninsula Crimeea", "Găzduiește un port maritim major"],
       en: ["Founded by Grigory Potemkin in 1778", "Major shipbuilding and repair center", "Strategic gateway to the Crimean Peninsula", "Home to a significant maritime port"],
     },
-    imageHint: "Kherson port and Dnieper river view", image: "/poi-images/ukraine-kherson-cities-v2.webp"},
+    imageHint: "Kherson port and Dnieper river view",
+    image: "/poi-images/ukraine-kherson-cities-v2.webp"},
   {
     id: "ukraine-poltava-cities-v2",
     type: "city",
-    name: { de: "Poltawa", hu: "Poltava", ro: "Poltava", en: "Poltava" },
+    name: { de: "Poltawa", hu: "Poltava", ro: "Poltava", en: "Poltava",
+image: "/poi-images/ukraine-poltava-cities-v2.webp"
+},
     coords: [34.5514, 49.5883],
     coordinates: { lat: 49.5883, lng: 34.5514 },
     description: {
@@ -323,11 +469,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centru spiritual al Ucrainei", "Locul de origine al poetului Ivan Kotliarevski", "Faimos pentru găluștele de Poltava", "Fondat în anul 899 d.Hr."],
       en: ["Spiritual and cultural hub of Ukraine", "Birthplace of poet Ivan Kotliarevsky", "Famous for local Poltava dumplings", "Founded in the year 899 AD"],
     },
-    imageHint: "Poltava city center and rotunda", image: "/poi-images/ukraine-poltava-cities-v2.webp"},
+    imageHint: "Poltava city center and rotunda",
+    image: "/poi-images/ukraine-poltava-cities-v2.webp"},
   {
     id: "ukraine-chernihiv-cities-v2",
     type: "city",
-    name: { de: "Tschernihiw", hu: "Csernyihiv", ro: "Cernigău", en: "Chernihiv" },
+    name: { de: "Tschernihiw", hu: "Csernyihiv", ro: "Cernigău", en: "Chernihiv",
+image: "/poi-images/ukraine-chernihiv-cities-v2.webp"
+},
     coords: [31.2893, 51.4982],
     coordinates: { lat: 51.4982, lng: 31.2893 },
     description: {
@@ -342,11 +491,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește clădiri din secolul al XI-lea", "Centrul regiunii Cernigău", "Fosta capitală a principatului", "Cunoscut pentru producția de bere"],
       en: ["Home to 11th-century architectural monuments", "Capital of the Chernihiv region", "Former capital of the Principality of Chernihiv", "Famous for its local brewing traditions"],
     },
-    imageHint: "Chernihiv ancient cathedrals and park", image: "/poi-images/ukraine-chernihiv-cities-v2.webp"},
+    imageHint: "Chernihiv ancient cathedrals and park",
+    image: "/poi-images/ukraine-chernihiv-cities-v2.webp"},
   {
     id: "ukraine-cherkasy-cities-v2",
     type: "city",
-    name: { de: "Tscherkassy", hu: "Cserkaszi", ro: "Cerkasî", en: "Cherkasy" },
+    name: { de: "Tscherkassy", hu: "Cserkaszi", ro: "Cerkasî", en: "Cherkasy",
+image: "/poi-images/ukraine-cherkasy-cities-v2.webp"
+},
     coords: [32.0597, 49.4444],
     coordinates: { lat: 49.4444, lng: 32.0597 },
     description: {
@@ -361,11 +513,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea", "Centru al industriei chimice ucrainene", "Deține unul dintre cele mai lungi baraje", "Cazacii au jucat un rol vital aici"],
       en: ["Founded in the 13th century", "Hub of the Ukrainian chemical industry", "Features one of the longest dams in Ukraine", "Cossacks played a vital role in its history"],
     },
-    imageHint: "Cherkasy bridge over the Dnieper river", image: "/poi-images/ukraine-cherkasy-cities-v2.webp"},
+    imageHint: "Cherkasy bridge over the Dnieper river",
+    image: "/poi-images/ukraine-cherkasy-cities-v2.webp"},
   {
     id: "ukraine-sumy-cities-v2",
     type: "city",
-    name: { de: "Sumy", hu: "Szumi", ro: "Sumî", en: "Sumy" },
+    name: { de: "Sumy", hu: "Szumi", ro: "Sumî", en: "Sumy",
+image: "/poi-images/ukraine-sumy-cities-v2.webp"
+},
     coords: [34.7981, 50.9077],
     coordinates: { lat: 50.9077, lng: 34.7981 },
     description: {
@@ -380,11 +535,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Numele provine de la genți de vânătoare", "Fondat în anul 1652", "Centru educațional important", "Cunoscut pentru parcul din centrul vechi"],
       en: ["Name derives from the word for 'pouches'", "Founded in the year 1652", "Major educational and research center", "Known for its classic 19th-century architecture"],
     },
-    imageHint: "Sumy city center and Altanka gazebo", image: "/poi-images/ukraine-sumy-cities-v2.webp"},
+    imageHint: "Sumy city center and Altanka gazebo",
+    image: "/poi-images/ukraine-sumy-cities-v2.webp"},
   {
     id: "ukraine-zhytomyr-cities-v2",
     type: "city",
-    name: { de: "Schytomyr", hu: "Zsitomir", ro: "Jitomir", en: "Zhytomyr" },
+    name: { de: "Schytomyr", hu: "Zsitomir", ro: "Jitomir", en: "Zhytomyr",
+image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"
+},
     coords: [28.6587, 50.2547],
     coordinates: { lat: 50.2547, lng: 28.6587 },
     description: {
@@ -399,11 +557,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește muzeul cosmonauticii", "Fondat în anul 884 d.Hr.", "Centrul extracției de granit din Ucraina", "Locul de naștere al lui Serghei Koroliov"],
       en: ["Home to the National Museum of Cosmonautics", "Founded in the year 884 AD", "Center of Ukrainian granite quarrying", "Birthplace of space pioneer Sergei Korolev"],
     },
-    imageHint: "Zhytomyr city park and Teteriv river canyon", image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"},
+    imageHint: "Zhytomyr city park and Teteriv river canyon",
+    image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"},
   {
     id: "ukraine-horlivka-cities-v2",
     type: "city",
-    name: { de: "Horliwka", hu: "Horlivka", ro: "Gorlovka", en: "Horlivka" },
+    name: { de: "Horliwka", hu: "Horlivka", ro: "Gorlovka", en: "Horlivka",
+image: "/poi-images/ukraine-horlivka-cities-v2.webp"
+},
     coords: [38.0163, 48.306],
     coordinates: { lat: 48.306, lng: 38.0163 },
     description: {
@@ -418,11 +579,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de inginerul minier Gorlov în 1867", "Are una dintre cele mai mari uzine chimice", "Nod feroviar important", "Centru al industriei grele"],
       en: ["Founded by mining engineer Pyotr Gorlov", "Home to a massive chemical plant (Stirol)", "Key regional railway junction", "Major center for heavy machinery"],
     },
-    imageHint: "Industrial facilities in Horlivka", image: "/poi-images/ukraine-horlivka-cities-v2.webp"},
+    imageHint: "Industrial facilities in Horlivka",
+    image: "/poi-images/ukraine-horlivka-cities-v2.webp"},
   {
     id: "ukraine-rivne-cities-v2",
     type: "city",
-    name: { de: "Riwne", hu: "Rivne", ro: "Rivne", en: "Rivne" },
+    name: { de: "Riwne", hu: "Rivne", ro: "Rivne", en: "Rivne",
+image: "/poi-images/ukraine-rivne-cities-v2.webp"
+},
     coords: [26.2516, 50.6199],
     coordinates: { lat: 50.6199, lng: 26.2516 },
     description: {
@@ -437,11 +601,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul industriei chihlimbarului", "Fondat în anul 1283", "Fosta capitală a Reichskommissariat", "Are un parc municipal superb"],
       en: ["Capital of the Ukrainian amber industry", "First mentioned in the year 1283", "Former headquarters of the Reichskommissariat", "Home to the unique 'Amber Museum'"],
     },
-    imageHint: "Rivne city center and amber museum", image: "/poi-images/ukraine-rivne-cities-v2.webp"},
+    imageHint: "Rivne city center and amber museum",
+    image: "/poi-images/ukraine-rivne-cities-v2.webp"},
   {
     id: "ukraine-kamianske-cities-v2",
     type: "city",
-    name: { de: "Kamjanske", hu: "Kamjanszke", ro: "Kamianske", en: "Kamianske" },
+    name: { de: "Kamjanske", hu: "Kamjanszke", ro: "Kamianske", en: "Kamianske",
+image: "/poi-images/ukraine-kamianske-cities-v2.webp"
+},
     coords: [34.6128, 48.5147],
     coordinates: { lat: 48.5147, lng: 34.6128 },
     description: {
@@ -456,11 +623,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Leonid Brejnev", "Deține un combinat metalurgic uriaș", "Fondat în secolul al XVIII-lea", "Numele a fost schimbat înapoi în 2016"],
       en: ["Birthplace of Soviet leader Leonid Brezhnev", "Home to a massive metallurgical combine", "First mentioned as a settlement in 1750", "Renamed back to Kamianske in 2016"],
     },
-    imageHint: "Industrial plants in Kamianske along the river", image: "/poi-images/ukraine-kamianske-cities-v2.webp"},
+    imageHint: "Industrial plants in Kamianske along the river",
+    image: "/poi-images/ukraine-kamianske-cities-v2.webp"},
   {
     id: "ukraine-kropyvnytskyi-cities-v2",
     type: "city",
-    name: { de: "Kropywnyzkyj", hu: "Kropivnickij", ro: "Kropîvnîțkîi", en: "Kropyvnytskyi" },
+    name: { de: "Kropywnyzkyj", hu: "Kropivnickij", ro: "Kropîvnîțkîi", en: "Kropyvnytskyi",
+image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"
+},
     coords: [32.2623, 48.5076],
     coordinates: { lat: 48.5076, lng: 32.2623 },
     description: {
@@ -475,11 +645,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["S-a numit anterior Kirovohrad", "Leagănul teatrului profesionist ucrainean", "Fondat în anul 1754", "Cunoscut pentru mașini agricole"],
       en: ["Formerly known as Kirovohrad", "The cradle of Ukrainian professional theater", "Founded in 1754 as Elisavetgrad", "Major center for agricultural machinery"],
     },
-    imageHint: "Kropyvnytskyi city center and theater", image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"},
+    imageHint: "Kropyvnytskyi city center and theater",
+    image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"},
   {
     id: "ukraine-chernivtsi-cities-v2",
     type: "city",
-    name: { de: "Tscherniwzi", hu: "Csernyivci", ro: "Cernăuți", en: "Chernivtsi" },
+    name: { de: "Tscherniwzi", hu: "Csernyivci", ro: "Cernăuți", en: "Chernivtsi",
+image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"
+},
     coords: [25.9352, 48.2917],
     coordinates: { lat: 48.2917, lng: 25.9352 },
     description: {
@@ -494,11 +667,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește o universitate UNESCO", "A făcut parte din Austro-Ungaria", "Fost centru al culturii evreiești", "Fondat în secolul al XII-lea"],
       en: ["Home to a UNESCO World Heritage university", "Formerly part of the Austro-Hungarian Empire", "Significant center for Jewish culture", "First mentioned in the 12th century"],
     },
-    imageHint: "Chernivtsi University and city hall", image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"},
+    imageHint: "Chernivtsi University and city hall",
+    image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"},
   {
     id: "ukraine-kremenchuk-cities-v2",
     type: "city",
-    name: { de: "Krementschuk", hu: "Kremencsuk", ro: "Kremenciuk", en: "Kremenchuk" },
+    name: { de: "Krementschuk", hu: "Kremencsuk", ro: "Kremenciuk", en: "Kremenchuk",
+image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"
+},
     coords: [33.4131, 49.0658],
     coordinates: { lat: 49.0658, lng: 33.4131 },
     description: {
@@ -513,11 +689,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Locația fabricii de camioane KrAZ", "Cea mai mare rafinărie de petrol", "Fondat în anul 1571", "Are un pod strategic peste Nipru"],
       en: ["Headquarters of the KrAZ truck plant", "Home to Ukraine's largest oil refinery", "Founded in the year 1571", "Features a strategic dual-level bridge"],
     },
-    imageHint: "Kremenchuk bridge and Dnieper river", image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"},
+    imageHint: "Kremenchuk bridge and Dnieper river",
+    image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"},
   {
     id: "ukraine-ternopil-cities-v2",
     type: "city",
-    name: { de: "Ternopil", hu: "Ternopil", ro: "Ternopil", en: "Ternopil" },
+    name: { de: "Ternopil", hu: "Ternopil", ro: "Ternopil", en: "Ternopil",
+image: "/poi-images/ukraine-ternopil-cities-v2.webp"
+},
     coords: [25.5948, 49.5535],
     coordinates: { lat: 49.5535, lng: 25.5948 },
     description: {
@@ -532,11 +711,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Are un lac chiar în centrul orașului", "Fondat în anul 1540", "Nod feroviar important", "Găzduiește o universitate medicală"],
       en: ["Features a massive lake in the city center", "Founded in the year 1540", "Major railway junction for Western Ukraine", "Home to a prominent medical university"],
     },
-    imageHint: "Ternopil lake and city center park", image: "/poi-images/ukraine-ternopil-cities-v2.webp"},
+    imageHint: "Ternopil lake and city center park",
+    image: "/poi-images/ukraine-ternopil-cities-v2.webp"},
   {
     id: "ukraine-lutsk-cities-v2",
     type: "city",
-    name: { de: "Luzk", hu: "Luck", ro: "Luțk", en: "Lutsk" },
+    name: { de: "Luzk", hu: "Luck", ro: "Luțk", en: "Lutsk",
+image: "/poi-images/ukraine-lutsk-cities-v2.webp"
+},
     coords: [25.3254, 50.7472],
     coordinates: { lat: 50.7472, lng: 25.3254 },
     description: {
@@ -551,11 +733,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Castelul din Luțk este simbolul orașului", "Fondat în anul 1085", "Gazda Congresului Monarhilor din 1429", "Centru industrial important"],
       en: ["Lutsk Castle is the city's main landmark", "First mentioned in the year 1085", "Hosted the Congress of Monarchs in 1429", "Significant center for the automotive industry"],
     },
-    imageHint: "Lutsk Castle tower and old city walls", image: "/poi-images/ukraine-lutsk-cities-v2.webp"},
+    imageHint: "Lutsk Castle tower and old city walls",
+    image: "/poi-images/ukraine-lutsk-cities-v2.webp"},
   {
     id: "ukraine-bila-tserkva-cities-v2",
     type: "city",
-    name: { de: "Bila Zerkwa", hu: "Bila Cerkva", ro: "Bila Țerkva", en: "Bila Tserkva" },
+    name: { de: "Bila Zerkwa", hu: "Bila Cerkva", ro: "Bila Țerkva", en: "Bila Tserkva",
+image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"
+},
     coords: [30.1153, 49.7989],
     coordinates: { lat: 49.7989, lng: 30.1153 },
     description: {
@@ -570,11 +755,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de Iaroslav cel Înțelept în 1032", "Deține unul dintre cele mai mari parcuri", "Centru major al industriei de anvelope", "Numele înseamnă 'Biserica Albă'"],
       en: ["Founded by Yaroslav the Wise in 1032", "Home to the vast Oleksandriya Dendropark", "Major center for the tire industry (Rosava)", "The name literally translates to 'White Church'"],
     },
-    imageHint: "Oleksandrija Dendropark in Bila Tserkva", image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"},
+    imageHint: "Oleksandrija Dendropark in Bila Tserkva",
+    image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"},
   {
     id: "ukraine-kramatorsk-cities-v2",
     type: "city",
-    name: { de: "Kramatorsk", hu: "Kramatorszk", ro: "Kramatorsk", en: "Kramatorsk" },
+    name: { de: "Kramatorsk", hu: "Kramatorszk", ro: "Kramatorsk", en: "Kramatorsk",
+image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"
+},
     coords: [37.5838, 48.739],
     coordinates: { lat: 48.739, lng: 37.5838 },
     description: {
@@ -589,11 +777,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Sediul unor mari uzine de mașini", "Fondat în anul 1868", "Locație industrială de importanță majoră", "Centru administrativ regional"],
       en: ["Headquarters of major heavy machinery plants", "Founded in 1868 around a railway station", "Vital regional industrial powerhouse", "Current administrative center of Donetsk Oblast"],
     },
-    imageHint: "City center of Kramatorsk and industrial plants", image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"},
+    imageHint: "City center of Kramatorsk and industrial plants",
+    image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"},
   {
     id: "ukraine-melitopol-cities-v2",
     type: "city",
-    name: { de: "Melitopol", hu: "Melitopol", ro: "Melitopol", en: "Melitopol" },
+    name: { de: "Melitopol", hu: "Melitopol", ro: "Melitopol", en: "Melitopol",
+image: "/poi-images/ukraine-melitopol-cities-v2.webp"
+},
     coords: [35.3702, 46.8551],
     coordinates: { lat: 46.8551, lng: 35.3702 },
     description: {
@@ -608,11 +799,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Renumit pentru livezile de cireși", "Nod de transport strategic", "Fondat în anul 1784", "Centru industrial pentru motoare"],
       en: ["Famous for its extensive cherry orchards", "Major transit hub for southern Ukraine", "Founded in the year 1784", "Key center for automotive engine production"],
     },
-    imageHint: "Melitopol city streets and cherry trees", image: "/poi-images/ukraine-melitopol-cities-v2.webp"},
+    imageHint: "Melitopol city streets and cherry trees",
+    image: "/poi-images/ukraine-melitopol-cities-v2.webp"},
   {
     id: "ukraine-kerch-cities-v2",
     type: "city",
-    name: { de: "Kertsch", hu: "Kercs", ro: "Kerci", en: "Kerch" },
+    name: { de: "Kertsch", hu: "Kercs", ro: "Kerci", en: "Kerch",
+image: "/poi-images/ukraine-kerch-cities-v2.webp"
+},
     coords: [36.4711, 45.3611],
     coordinates: { lat: 45.3611, lng: 36.4711 },
     description: {
@@ -627,11 +821,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat sub numele de Panticapaeum (600 î.Hr.)", "Port pescăresc important", "Deține movile funerare antice (kurgane)", "Punct strategic între două mări"],
       en: ["Founded as Panticapaeum around 600 BC", "Significant center for the fishing industry", "Home to the Royal Kurgan burial mound", "Strategic bridge between the Black and Azov seas"],
     },
-    imageHint: "Kerch city and the Mithridat hill", image: "/poi-images/ukraine-kerch-cities-v2.webp"},
+    imageHint: "Kerch city and the Mithridat hill",
+    image: "/poi-images/ukraine-kerch-cities-v2.webp"},
   {
     id: "ukraine-nikopol-cities-v2",
     type: "city",
-    name: { de: "Nikopol", hu: "Nyikopol", ro: "Nikopol", en: "Nikopol" },
+    name: { de: "Nikopol", hu: "Nyikopol", ro: "Nikopol", en: "Nikopol",
+image: "/poi-images/ukraine-nikopol-cities-v2.webp"
+},
     coords: [34.3948, 47.5661],
     coordinates: { lat: 47.5661, lng: 34.3948 },
     description: {
@@ -646,11 +843,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Deține o uzină majoră de feroaliaje", "Fosta locație a unei cetăți căzăcești", "Fondat în anul 1782", "Port fluvial important pe Nipru"],
       en: ["Home to one of the world's largest ferroalloy plants", "Former site of a Zaporozhian Cossack Sich", "Founded in the year 1782", "Key river port on the Dnieper"],
     },
-    imageHint: "Nikopol shoreline and industrial area", image: "/poi-images/ukraine-nikopol-cities-v2.webp"},
+    imageHint: "Nikopol shoreline and industrial area",
+    image: "/poi-images/ukraine-nikopol-cities-v2.webp"},
   {
     id: "ukraine-sloviansk-cities-v2",
     type: "city",
-    name: { de: "Slowjansk", hu: "Szlovjanszk", ro: "Sloviansk", en: "Sloviansk" },
+    name: { de: "Slowjansk", hu: "Szlovjanszk", ro: "Sloviansk", en: "Sloviansk",
+image: "/poi-images/ukraine-sloviansk-cities-v2.webp"
+},
     coords: [37.6186, 48.8522],
     coordinates: { lat: 48.8522, lng: 37.6186 },
     description: {
@@ -665,11 +865,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat ca cetate a sării sub numele Tor", "Are lacuri sărate cu proprietăți curative", "Centru al producției de porțelan", "Fondat în anul 1676"],
       en: ["Founded as a salt-mining fortress named Tor", "Features unique therapeutic salt lakes", "Major center for porcelain and ceramics", "Established in the year 1676"],
     },
-    imageHint: "Sloviansk salt lakes and health resort", image: "/poi-images/ukraine-sloviansk-cities-v2.webp"},
+    imageHint: "Sloviansk salt lakes and health resort",
+    image: "/poi-images/ukraine-sloviansk-cities-v2.webp"},
   {
     id: "ukraine-berdiansk-cities-v2",
     type: "city",
-    name: { de: "Berdjansk", hu: "Bergyanszk", ro: "Berdiansk", en: "Berdiansk" },
+    name: { de: "Berdjansk", hu: "Bergyanszk", ro: "Berdiansk", en: "Berdiansk",
+image: "/poi-images/ukraine-berdiansk-cities-v2.webp"
+},
     coords: [36.785, 46.7558],
     coordinates: { lat: 46.7558, lng: 36.785 },
     description: {
@@ -684,11 +887,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Faimos pentru tratamentele cu nămol", "Are un port maritim important", "Fondat în anul 1827", "Centru important pentru pescuit"],
       en: ["Renowned for its therapeutic mud clinics", "Major maritime port on the Sea of Azov", "Founded in the year 1827", "Home to a long sand spit and lighthouse"],
     },
-    imageHint: "Berdiansk lighthouse and sea spit", image: "/poi-images/ukraine-berdiansk-cities-v2.webp"},
+    imageHint: "Berdiansk lighthouse and sea spit",
+    image: "/poi-images/ukraine-berdiansk-cities-v2.webp"},
   {
     id: "ukraine-sieverodonetsk-cities-v2",
     type: "city",
-    name: { de: "Sjewjerodonezk", hu: "Szjevjerodoneck", ro: "Severodonețk", en: "Sievierodonetsk" },
+    name: { de: "Sjewjerodonezk", hu: "Szjevjerodoneck", ro: "Severodonețk", en: "Sievierodonetsk",
+image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"
+},
     coords: [38.4872, 48.9486],
     coordinates: { lat: 48.9486, lng: 38.4872 },
     description: {
@@ -703,11 +909,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește combinatul chimic Azot", "Oraș industrial planificat", "Fondat în anul 1934", "Centru administrativ temporar al reg. Lugansk"],
       en: ["Home to the massive Azot chemical plant", "A planned industrial city", "Founded in the year 1934", "Served as temporary capital of Luhansk Oblast"],
     },
-    imageHint: "Industrial skyline of Sievierodonetsk", image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"},
+    imageHint: "Industrial skyline of Sievierodonetsk",
+    image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"},
   {
     id: "ukraine-alchevsk-cities-v2",
     type: "city",
-    name: { de: "Altschewsk", hu: "Alcsevszk", ro: "Alcevsk", en: "Alchevsk" },
+    name: { de: "Altschewsk", hu: "Alcsevszk", ro: "Alcevsk", en: "Alchevsk",
+image: "/poi-images/ukraine-alchevsk-cities-v2.webp"
+},
     coords: [38.7983, 48.4772],
     coordinates: { lat: 48.4772, lng: 38.7983 },
     description: {
@@ -722,11 +931,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Are una dintre cele mai mari oțelării", "Fondat în anul 1895", "S-a numit anterior Kommunarsk", "Centru al industriei grele"],
       en: ["Home to a massive metallurgical combine", "Founded in the year 1895", "Known as Kommunarsk from 1961 to 1991", "Key center for regional heavy industry"],
     },
-    imageHint: "Iron and steel works in Alchevsk", image: "/poi-images/ukraine-alchevsk-cities-v2.webp"},
+    imageHint: "Iron and steel works in Alchevsk",
+    image: "/poi-images/ukraine-alchevsk-cities-v2.webp"},
   {
     id: "ukraine-pavlohrad-cities-v2",
     type: "city",
-    name: { de: "Pawlohrad", hu: "Pavlohrad", ro: "Pavlohrad", en: "Pavlohrad" },
+    name: { de: "Pawlohrad", hu: "Pavlohrad", ro: "Pavlohrad", en: "Pavlohrad",
+image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"
+},
     coords: [35.8703, 48.5244],
     coordinates: { lat: 48.5244, lng: 35.8703 },
     description: {
@@ -741,11 +953,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul bazinului carbonifer din vestul Donbas", "Fondat în anul 1779", "Cunoscut pentru producția de rachete", "Are o catedrală veche remarcabilă"],
       en: ["Hub of the Western Donbas coal basin", "Founded in 1779 by the Russian Empire", "Significant center for rocket engine production", "Known for its 19th-century architecture"],
     },
-    imageHint: "Pavlohrad coal mines and city skyline", image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"},
+    imageHint: "Pavlohrad coal mines and city skyline",
+    image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"},
   {
     id: "ukraine-uzhhorod-cities-v2",
     type: "city",
-    name: { de: "Uschhorod", hu: "Ungvár", ro: "Ujhorod", en: "Uzhhorod" },
+    name: { de: "Uschhorod", hu: "Ungvár", ro: "Ujhorod", en: "Uzhhorod",
+image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"
+},
     coords: [22.2879, 48.6208],
     coordinates: { lat: 48.6208, lng: 22.2879 },
     description: {
@@ -760,11 +975,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în secolul al IX-lea", "Deține cea mai lungă alee cu tei", "A fost mult timp parte a Regatului Ungariei", "Renumit pentru cireșii înfloriți"],
       en: ["Founded in the late 9th century", "Features the longest linden alley in Europe", "Long historical connection with Hungary", "Famous for spectacular cherry blossoms"],
     },
-    imageHint: "Uzhhorod Castle and cherry blossom trees", image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"},
+    imageHint: "Uzhhorod Castle and cherry blossom trees",
+    image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"},
   {
     id: "ukraine-lysychansk-cities-v2",
     type: "city",
-    name: { de: "Lyssytschansk", hu: "Liszicsanszk", ro: "Lisiciansk", en: "Lysychansk" },
+    name: { de: "Lyssytschansk", hu: "Liszicsanszk", ro: "Lisiciansk", en: "Lysychansk",
+image: "/poi-images/ukraine-lysychansk-cities-v2.webp"
+},
     coords: [38.4239, 48.9114],
     coordinates: { lat: 48.9114, lng: 38.4239 },
     description: {
@@ -779,11 +997,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Prima mină de cărbune din Donbas a fost aici", "Fondat în anul 1710", "Centru al industriei sticlei și petrolului", "Orașul este situat pe coline"],
       en: ["Site of the first coal mine in Donbas", "Established in 1710", "Significant center for glass and oil refining", "Uniquely located on elevated river hills"],
     },
-    imageHint: "Industrial plants in Lysychansk near the river", image: "/poi-images/ukraine-lysychansk-cities-v2.webp"},
+    imageHint: "Industrial plants in Lysychansk near the river",
+    image: "/poi-images/ukraine-lysychansk-cities-v2.webp"},
   {
     id: "ukraine-yevpatoria-cities-v2",
     type: "city",
-    name: { de: "Jewpatorija", hu: "Jevpatorija", ro: "Eupatoria", en: "Yevpatoria" },
+    name: { de: "Jewpatorija", hu: "Jevpatorija", ro: "Eupatoria", en: "Yevpatoria",
+image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"
+},
     coords: [33.3681, 45.1939],
     coordinates: { lat: 45.1939, lng: 33.3681 },
     description: {
@@ -798,11 +1019,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat sub numele de Kerkinitis (sec. V î.Hr.)", "Centru major pentru tratamente pediatrice", "Găzduiește moscheea Juma-Jami", "Cunoscut pentru arhitectura tătărească"],
       en: ["Founded as Kerkinitis in the 5th century BC", "Renowned center for children's balneotherapy", "Home to the magnificent Juma-Jami Mosque", "Features unique Karaite kenesas"],
     },
-    imageHint: "Yevpatoria mosque and old town", image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"},
+    imageHint: "Yevpatoria mosque and old town",
+    image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"},
   {
     id: "ukraine-yenakiieve-cities-v2",
     type: "city",
-    name: { de: "Jenakijewe", hu: "Jenakijeve", ro: "Enakievo", en: "Yenakiieve" },
+    name: { de: "Jenakijewe", hu: "Jenakijeve", ro: "Enakievo", en: "Yenakiieve",
+image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"
+},
     coords: [38.2053, 48.2211],
     coordinates: { lat: 48.2211, lng: 38.2053 },
     description: {
@@ -817,11 +1041,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat de inginerul Enakiev în 1898", "Producție siderurgică de importanță majoră", "Nod industrial în bazinul Donbas", "Centru al mineritului"],
       en: ["Founded by engineer Fyodor Yenakiyev", "Home to one of Ukraine's oldest steel plants", "Formally incorporated in 1925", "Key metallurgical hub in the east"],
     },
-    imageHint: "Yenakiieve steel plant and industrial area", image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"},
+    imageHint: "Yenakiieve steel plant and industrial area",
+    image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"},
   {
     id: "ukraine-kamianets-podilskyi-cities-v2",
     type: "city",
-    name: { de: "Kamjanez-Podilskyj", hu: "Kamjanec-Pogyilszkij", ro: "Kameneț-Podolsk", en: "Kamianets-Podilskyi" },
+    name: { de: "Kamjanez-Podilskyj", hu: "Kamjanec-Pogyilszkij", ro: "Kameneț-Podolsk", en: "Kamianets-Podilskyi",
+image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"
+},
     coords: [26.585, 48.6781],
     coordinates: { lat: 48.6781, lng: 26.585 },
     description: {
@@ -836,11 +1063,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul istoric este într-un canion", "Fondat în secolul al XI-lea", "Capitala Republicii Populare (1919)", "Renumit pentru festivaluri de baloane"],
       en: ["Old Town is isolated by a deep river canyon", "First mentioned in the 11th century", "Temporary capital of Ukraine in 1919", "Famous for annual hot air balloon festivals"],
     },
-    imageHint: "Kamianets-Podilskyi castle at sunset", image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"},
+    imageHint: "Kamianets-Podilskyi castle at sunset",
+    image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"},
   {
     id: "ukraine-kostiantynivka-cities-v2",
     type: "city",
-    name: { de: "Kostjantyniwka", hu: "Kosztyantinyivka", ro: "Kostiantînivka", en: "Kostiantynivka" },
+    name: { de: "Kostjantyniwka", hu: "Kosztyantinyivka", ro: "Kostiantînivka", en: "Kostiantynivka",
+image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"
+},
     coords: [37.7056, 48.5303],
     coordinates: { lat: 48.5303, lng: 37.7056 },
     description: {
@@ -855,11 +1085,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul industriei sticlei din Ucraina", "Fondat în anul 1870", "Nod feroviar important", "Găzduiește unități de industrie chimică"],
       en: ["Hub of the Ukrainian glass industry", "Founded in the year 1870", "Key railway transportation junction", "Major center for non-ferrous metallurgy"],
     },
-    imageHint: "Industrial area of Kostiantynivka", image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"},
+    imageHint: "Industrial area of Kostiantynivka",
+    image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"},
   {
     id: "ukraine-krasnyi-luch-cities-v2",
     type: "city",
-    name: { de: "Chrustalnyj", hu: "Hrusztalnij", ro: "Hrustalnîi", en: "Khrustalnyi" },
+    name: { de: "Chrustalnyj", hu: "Hrusztalnij", ro: "Hrustalnîi", en: "Khrustalnyi",
+image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"
+},
     coords: [38.9372, 48.1386],
     coordinates: { lat: 48.1386, lng: 38.9372 },
     description: {
@@ -874,11 +1107,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centru al extracției de antracit", "Fondat în anul 1895", "Numele a fost schimbat oficial în 2016", "Locație industrială importantă"],
       en: ["Significant center for anthracite coal mining", "Founded in the year 1895", "Renamed to Khrustalnyi in 2016", "Economic pillar of the Luhansk region"],
     },
-    imageHint: "Coal mines near Khrustalnyi", image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"},
+    imageHint: "Coal mines near Khrustalnyi",
+    image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"},
   {
     id: "ukraine-oleksandriia-cities-v2",
     type: "city",
-    name: { de: "Oleksandrija", hu: "Olekszandrija", ro: "Oleksandria", en: "Oleksandriia" },
+    name: { de: "Oleksandrija", hu: "Olekszandrija", ro: "Oleksandria", en: "Oleksandriia",
+image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"
+},
     coords: [33.1111, 48.6692],
     coordinates: { lat: 48.6692, lng: 33.1111 },
     description: {
@@ -893,11 +1129,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul extracției de lignit", "Fondat în anul 1746", "Găzduiește uzine de mașini", "Nod de transport regional"],
       en: ["Primary center for Ukrainian lignite mining", "Founded in 1746 as Usivka", "Home to various electromechanical plants", "Important regional road and rail junction"],
     },
-    imageHint: "City center of Oleksandriia", image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"},
+    imageHint: "City center of Oleksandriia",
+    image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"},
   {
     id: "ukraine-konotop-cities-v2",
     type: "city",
-    name: { de: "Konotop", hu: "Konotop", ro: "Konotop", en: "Konotop" },
+    name: { de: "Konotop", hu: "Konotop", ro: "Konotop", en: "Konotop",
+image: "/poi-images/ukraine-konotop-cities-v2.webp"
+},
     coords: [33.2047, 51.2411],
     coordinates: { lat: 51.2411, lng: 33.2047 },
     description: {
@@ -912,11 +1151,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Nod feroviar de importanță națională", "Fondat la începutul sec. XVII", "Locul unei bătălii istorice celebre", "Centru al construcției de mașini"],
       en: ["Vital national railway transportation hub", "First mentioned in the early 17th century", "Famous site of the 1659 Cossack victory", "Center for locomotive and wagon repair"],
     },
-    imageHint: "Konotop railway station and city park", image: "/poi-images/ukraine-konotop-cities-v2.webp"},
+    imageHint: "Konotop railway station and city park",
+    image: "/poi-images/ukraine-konotop-cities-v2.webp"},
   {
     id: "ukraine-kadiivka-cities-v2",
     type: "city",
-    name: { de: "Kadijiwka", hu: "Kagyiivka", ro: "Kadiivka", en: "Kadiivka" },
+    name: { de: "Kadijiwka", hu: "Kagyiivka", ro: "Kadiivka", en: "Kadiivka",
+image: "/poi-images/ukraine-kadiivka-cities-v2.webp"
+},
     coords: [38.6517, 48.5678],
     coordinates: { lat: 48.5678, lng: 38.6517 },
     description: {
@@ -931,11 +1173,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Originea mișcării stahanoviste", "Fondat în anul 1898", "Centru al construcției de vagoane", "Numele a fost schimbat înapoi în 2016"],
       en: ["Birthplace of the Stakhanovite movement", "Founded in the year 1898", "Center for railcar manufacturing", "Officially renamed back to Kadiivka in 2016"],
     },
-    imageHint: "Mining industry buildings in Kadiivka", image: "/poi-images/ukraine-kadiivka-cities-v2.webp"},
+    imageHint: "Mining industry buildings in Kadiivka",
+    image: "/poi-images/ukraine-kadiivka-cities-v2.webp"},
   {
     id: "ukraine-uman-cities-v2",
     type: "city",
-    name: { de: "Uman", hu: "Umany", ro: "Uman", en: "Uman" },
+    name: { de: "Uman", hu: "Umany", ro: "Uman", en: "Uman",
+image: "/poi-images/ukraine-uman-cities-v2.webp"
+},
     coords: [30.2222, 48.7511],
     coordinates: { lat: 48.7511, lng: 30.2222 },
     description: {
@@ -950,11 +1195,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Mormântul rabinului Nahman din Bratslav", "Fondat în anul 1616", "Centru al pelerinajului de Rosh Hashanah", "Găzduiește un parc dendrologic superb"],
       en: ["Burial site of Rebbe Nachman of Breslov", "First mentioned in the year 1616", "Hosts over 30,000 pilgrims annually", "Home to the historic Sofiyivka Park"],
     },
-    imageHint: "Sofiyivka Park in Uman and Jewish quarter", image: "/poi-images/ukraine-uman-cities-v2.webp"},
+    imageHint: "Sofiyivka Park in Uman and Jewish quarter",
+    image: "/poi-images/ukraine-uman-cities-v2.webp"},
   {
     id: "ukraine-berdychiv-cities-v2",
     type: "city",
-    name: { de: "Berdytschiw", hu: "Bergyicsiv", ro: "Berdicev", en: "Berdychiv" },
+    name: { de: "Berdytschiw", hu: "Bergyicsiv", ro: "Berdicev", en: "Berdychiv",
+image: "/poi-images/ukraine-berdychiv-cities-v2.webp"
+},
     coords: [28.5833, 49.8961],
     coordinates: { lat: 49.8961, lng: 28.5833 },
     description: {
@@ -969,11 +1217,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fostul 'Ierusalim al Volîniei'", "Fondat în anul 1430", "Locul nunții lui Honoré de Balzac", "Găzduiește mănăstirea Carmelitilor"],
       en: ["Once known as the 'Jerusalem of Volhynia'", "First mentioned in the year 1430", "Honoré de Balzac married here in 1850", "Home to the Monastery of Discalced Carmelites"],
     },
-    imageHint: "Fortified Carmelite monastery in Berdychiv", image: "/poi-images/ukraine-berdychiv-cities-v2.webp"},
+    imageHint: "Fortified Carmelite monastery in Berdychiv",
+    image: "/poi-images/ukraine-berdychiv-cities-v2.webp"},
   {
     id: "ukraine-shostka-cities-v2",
     type: "city",
-    name: { de: "Schostka", hu: "Szosztka", ro: "Șostka", en: "Shostka" },
+    name: { de: "Schostka", hu: "Szosztka", ro: "Șostka", en: "Shostka",
+image: "/poi-images/ukraine-shostka-cities-v2.webp"
+},
     coords: [33.4864, 51.8617],
     coordinates: { lat: 51.8617, lng: 33.4864 },
     description: {
@@ -988,11 +1239,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Sediul fostei fabrici Svema", "Fondat la începutul sec. XVIII", "Centru al industriei de apărare", "Important pentru industria lactatelor"],
       en: ["Former home of the Svema film factory", "Founded in the early 18th century", "Major center for the defense industry", "Famous for its dairy and cheese production"],
     },
-    imageHint: "Industrial plants in Shostka", image: "/poi-images/ukraine-shostka-cities-v2.webp"},
+    imageHint: "Industrial plants in Shostka",
+    image: "/poi-images/ukraine-shostka-cities-v2.webp"},
   {
     id: "ukraine-brovary-cities-v2",
     type: "city",
-    name: { de: "Browary", hu: "Brovari", ro: "Brovarî", en: "Brovary" },
+    name: { de: "Browary", hu: "Brovari", ro: "Brovarî", en: "Brovary",
+image: "/poi-images/ukraine-brovary-cities-v2.webp"
+},
     coords: [30.7917, 50.5108],
     coordinates: { lat: 50.5108, lng: 30.7917 },
     description: {
@@ -1007,11 +1261,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centru major al sportului ucrainean", "Fondat în anul 1630", "Centru al industriei alimentare", "Situat foarte aproape de capitală"],
       en: ["Major training center for Olympic athletes", "Founded in the year 1630", "Hub for food processing and logistics", "Located just east of the capital Kyiv"],
     },
-    imageHint: "Brovary city center and modern apartments", image: "/poi-images/ukraine-brovary-cities-v2.webp"},
+    imageHint: "Brovary city center and modern apartments",
+    image: "/poi-images/ukraine-brovary-cities-v2.webp"},
   {
     id: "ukraine-izmail-cities-v2",
     type: "city",
-    name: { de: "Ismajil", hu: "Izmajil", ro: "Ismail", en: "Izmail" },
+    name: { de: "Ismajil", hu: "Izmajil", ro: "Ismail", en: "Izmail",
+image: "/poi-images/ukraine-izmail-cities-v2.webp"
+},
     coords: [28.8392, 45.3508],
     coordinates: { lat: 45.3508, lng: 28.8392 },
     description: {
@@ -1026,11 +1283,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Cel mai important port la Dunăre", "Faimos pentru asediul din 1790", "Fondat în secolul al XVI-lea", "Centru al procesării alimentelor"],
       en: ["Primary Ukrainian hub for Danube trade", "Famous site of Suvorov's 1790 siege", "Founded by the Ottomans in the 16th century", "Home to a major naval base and museum"],
     },
-    imageHint: "Izmail port and Danube river", image: "/poi-images/ukraine-izmail-cities-v2.webp"},
+    imageHint: "Izmail port and Danube river",
+    image: "/poi-images/ukraine-izmail-cities-v2.webp"},
   {
     id: "ukraine-bakhmut-cities-v2",
     type: "city",
-    name: { de: "Bachmut", hu: "Bahmut", ro: "Bahmut", en: "Bakhmut" },
+    name: { de: "Bachmut", hu: "Bahmut", ro: "Bahmut", en: "Bakhmut",
+image: "/poi-images/ukraine-bakhmut-cities-v2.webp"
+},
     coords: [37.998, 48.595],
     coordinates: { lat: 48.595, lng: 37.998 },
     description: {
@@ -1045,11 +1305,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Are mine de sare subterane imense", "Cunoscut pentru vinul spumant 'Artwinery'", "Fondat în anul 1571", "S-a numit anterior Artiomovsk"],
       en: ["Home to massive underground salt caves", "Famous for Artwinery sparkling wines", "Established as a guard point in 1571", "Known as Artemivsk from 1924 to 2016"],
     },
-    imageHint: "Bakhmut salt mines entrance and city center", image: "/poi-images/ukraine-bakhmut-cities-v2.webp"},
+    imageHint: "Bakhmut salt mines entrance and city center",
+    image: "/poi-images/ukraine-bakhmut-cities-v2.webp"},
   {
     id: "ukraine-mukachevo-cities-v2",
     type: "city",
-    name: { de: "Mukatschewo", hu: "Munkács", ro: "Mukacevo", en: "Mukachevo" },
+    name: { de: "Mukatschewo", hu: "Munkács", ro: "Mukacevo", en: "Mukachevo",
+image: "/poi-images/ukraine-mukachevo-cities-v2.webp"
+},
     coords: [22.7189, 48.4411],
     coordinates: { lat: 48.4411, lng: 22.7189 },
     description: {
@@ -1064,11 +1327,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Castelul Palanok este simbolul orașului", "Centru al culturii transcarpatice", "Fondat în secolul al IX-lea", "Nod feroviar regional important"],
       en: ["Home to the iconic Palanok Castle", "A cultural center for Zakarpattia Oblast", "First mentioned in the 9th century", "Key junction for rail traffic to Europe"],
     },
-    imageHint: "Palanok Castle in Mukachevo", image: "/poi-images/ukraine-mukachevo-cities-v2.webp"},
+    imageHint: "Palanok Castle in Mukachevo",
+    image: "/poi-images/ukraine-mukachevo-cities-v2.webp"},
   {
     id: "ukraine-drohobych-cities-v2",
     type: "city",
-    name: { de: "Drohobytsch", hu: "Drohobics", ro: "Drogobîci", en: "Drohobych" },
+    name: { de: "Drohobytsch", hu: "Drohobics", ro: "Drogobîci", en: "Drohobych",
+image: "/poi-images/ukraine-drohobych-cities-v2.webp"
+},
     coords: [23.5042, 49.3514],
     coordinates: { lat: 49.3514, lng: 23.5042 },
     description: {
@@ -1083,11 +1349,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Are o biserică din lemn UNESCO", "Orașul natal al lui Bruno Schulz", "Fondat în secolul al XI-lea", "Cea mai veche salină activă"],
       en: ["Home to the UNESCO-listed St. George Church", "Birthplace of writer Bruno Schulz", "First mentioned in the 11th century", "Features Ukraine's oldest active salt works"],
     },
-    imageHint: "St. George wooden church in Drohobych", image: "/poi-images/ukraine-drohobych-cities-v2.webp"},
+    imageHint: "St. George wooden church in Drohobych",
+    image: "/poi-images/ukraine-drohobych-cities-v2.webp"},
   {
     id: "ukraine-yalta-cities-v2",
     type: "city",
-    name: { de: "Jalta", hu: "Jalta", ro: "Ialta", en: "Yalta" },
+    name: { de: "Jalta", hu: "Jalta", ro: "Ialta", en: "Yalta",
+image: "/poi-images/ukraine-yalta-cities-v2.webp"
+},
     coords: [34.1661, 44.4951],
     coordinates: { lat: 44.4951, lng: 34.1661 },
     description: {
@@ -1102,11 +1371,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Locul conferinței aliaților din 1945", "Stațiune de vacanță preferată a nobilimii", "Înconjurat de munți înalți", "Are o faleză maritimă celebră"],
       en: ["Site of the historic 1945 Allied Conference", "Premier holiday destination since the 19th century", "Sheltered by the Crimean Mountains", "Famous for its seaside promenade and palaces"],
     },
-    imageHint: "Yalta bay view and promenade", image: "/poi-images/ukraine-yalta-cities-v2.webp"},
+    imageHint: "Yalta bay view and promenade",
+    image: "/poi-images/ukraine-yalta-cities-v2.webp"},
   {
     id: "ukraine-nizhyn-cities-v2",
     type: "city",
-    name: { de: "Nischyn", hu: "Nyizsin", ro: "Nijîn", en: "Nizhyn" },
+    name: { de: "Nischyn", hu: "Nyizsin", ro: "Nijîn", en: "Nizhyn",
+image: "/poi-images/ukraine-nizhyn-cities-v2.webp"
+},
     coords: [31.8814, 51.0475],
     coordinates: { lat: 51.0475, lng: 31.8814 },
     description: {
@@ -1121,11 +1393,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Faimos pentru castraveții de Nijîn", "Fondat în anul 1024", "Găzduiește o universitate de prestigiu", "Fost centru al negustorilor greci"],
       en: ["Famous for the Nizhyn pickled cucumbers", "First mentioned in the year 1024", "Home to Gogol State University", "Significant center for the Greek diaspora"],
     },
-    imageHint: "Nizhyn city center and churches", image: "/poi-images/ukraine-nizhyn-cities-v2.webp"},
+    imageHint: "Nizhyn city center and churches",
+    image: "/poi-images/ukraine-nizhyn-cities-v2.webp"},
   {
     id: "ukraine-fastiv-cities-v2",
     type: "city",
-    name: { de: "Fastiw", hu: "Fasztiv", ro: "Fastiv", en: "Fastiv" },
+    name: { de: "Fastiw", hu: "Fasztiv", ro: "Fastiv", en: "Fastiv",
+image: "/poi-images/ukraine-fastiv-cities-v2.webp"
+},
     coords: [29.9153, 50.0789],
     coordinates: { lat: 50.0789, lng: 29.9153 },
     description: {
@@ -1140,11 +1415,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Nod feroviar vital", "Fondat în anul 1390", "Locul semnării Actului Zlukî", "Are o biserică neogotică superbă"],
       en: ["Strategic railway transportation hub", "First mentioned in the year 1390", "Site of the 1918 Unification Act signing", "Home to a notable neo-Gothic Catholic church"],
     },
-    imageHint: "Fastiv railway station and church", image: "/poi-images/ukraine-fastiv-cities-v2.webp"},
+    imageHint: "Fastiv railway station and church",
+    image: "/poi-images/ukraine-fastiv-cities-v2.webp"},
   {
     id: "ukraine-smila-cities-v2",
     type: "city",
-    name: { de: "Smila", hu: "Szmila", ro: "Smila", en: "Smila" },
+    name: { de: "Smila", hu: "Szmila", ro: "Smila", en: "Smila",
+image: "/poi-images/ukraine-smila-cities-v2.webp"
+},
     coords: [31.875, 49.2272],
     coordinates: { lat: 49.2272, lng: 31.875 },
     description: {
@@ -1159,11 +1437,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Nod feroviar strategic", "Fondat în secolul al XVI-lea", "Fost centru al producției de zahăr", "Găzduiește unități de construcții de mașini"],
       en: ["Home to the major T. Shevchenko rail station", "Established in the 16th century", "Historic hub for large-scale sugar refining", "Significant regional industrial center"],
     },
-    imageHint: "Smila railway station and park", image: "/poi-images/ukraine-smila-cities-v2.webp"},
+    imageHint: "Smila railway station and park",
+    image: "/poi-images/ukraine-smila-cities-v2.webp"},
   {
     id: "ukraine-izium-cities-v2",
     type: "city",
-    name: { de: "Isjum", hu: "Izjum", ro: "Izium", en: "Izium" },
+    name: { de: "Isjum", hu: "Izjum", ro: "Izium", en: "Izium",
+image: "/poi-images/ukraine-izium-cities-v2.webp"
+},
     coords: [37.2639, 49.1919],
     coordinates: { lat: 49.1919, lng: 37.2639 },
     description: {
@@ -1178,11 +1459,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește muntele Kremeneț", "Fondat în anul 1681", "Centru al industriei optice", "Deține catedrale baroce remarcabile"],
       en: ["Features the high Mount Kremenets viewpoint", "Founded as a fortress in 1681", "Key center for the optical glass industry", "Home to the 17th-century Transfiguration Cathedral"],
     },
-    imageHint: "Izium city view from Mount Kremenets", image: "/poi-images/ukraine-izium-cities-v2.webp"},
+    imageHint: "Izium city view from Mount Kremenets",
+    image: "/poi-images/ukraine-izium-cities-v2.webp"},
   {
     id: "ukraine-kalush-cities-v2",
     type: "city",
-    name: { de: "Kalusch", hu: "Kalus", ro: "Kaluș", en: "Kalush" },
+    name: { de: "Kalusch", hu: "Kalus", ro: "Kaluș", en: "Kalush",
+image: "/poi-images/ukraine-kalush-cities-v2.webp"
+},
     coords: [24.3669, 49.0275],
     coordinates: { lat: 49.0275, lng: 24.3669 },
     description: {
@@ -1197,11 +1481,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul industriei potasei", "Fondat în anul 1437", "Găzduiește complexe chimice mari", "Oraș industrial cheie în vestul Ucrainei"],
       en: ["Significant center for potassium industry", "First mentioned in the year 1437", "Home to the Kalush Chemical Combine", "Historically known for its salt refineries"],
     },
-    imageHint: "Kalush industrial plants and mountains", image: "/poi-images/ukraine-kalush-cities-v2.webp"},
+    imageHint: "Kalush industrial plants and mountains",
+    image: "/poi-images/ukraine-kalush-cities-v2.webp"},
   {
     id: "ukraine-lubny-cities-v2",
     type: "city",
-    name: { de: "Lubny", hu: "Lubni", ro: "Lubnî", en: "Lubny" },
+    name: { de: "Lubny", hu: "Lubni", ro: "Lubnî", en: "Lubny",
+image: "/poi-images/ukraine-lubny-cities-v2.webp"
+},
     coords: [32.9917, 50.0169],
     coordinates: { lat: 50.0169, lng: 32.9917 },
     description: {
@@ -1216,11 +1503,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în anul 988 d.Hr.", "Centru al industriei farmaceutice", "Fost oraș de reședință nobiliară", "Are o mănăstire istorică în apropiere"],
       en: ["Established by Vladimir the Great in 988 AD", "Modern center for pharmaceutical industry", "Former capital of the Wiśniowiecki lands", "Located near the Mhar Monastery"],
     },
-    imageHint: "Lubny city park and churches", image: "/poi-images/ukraine-lubny-cities-v2.webp"},
+    imageHint: "Lubny city park and churches",
+    image: "/poi-images/ukraine-lubny-cities-v2.webp"},
   {
     id: "ukraine-shovti-vody-cities-v2",
     type: "city",
-    name: { de: "Schowti Wody", hu: "Zsovti Vogyi", ro: "Jovti Vodî", en: "Zhovti Vody" },
+    name: { de: "Schowti Wody", hu: "Zsovti Vogyi", ro: "Jovti Vodî", en: "Zhovti Vody",
+image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"
+},
     coords: [33.5047, 48.3514],
     coordinates: { lat: 48.3514, lng: 33.5047 },
     description: {
@@ -1235,11 +1525,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centrul industriei uraniului", "Locul unei bătălii istorice celebre", "Fondat în anul 1895", "Numele înseamnă 'Ape Galbene'"],
       en: ["Primary center for Ukrainian uranium mining", "Site of the famous 1648 Cossack victory", "Modern town established in 1895", "The name literally means 'Yellow Waters'"],
     },
-    imageHint: "Monument of Zhovti Vody battle and city center", image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"},
+    imageHint: "Monument of Zhovti Vody battle and city center",
+    image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"},
   {
     id: "ukraine-pryluky-cities-v2",
     type: "city",
-    name: { de: "Pryluky", hu: "Priluki", ro: "Prîlukî", en: "Pryluky" },
+    name: { de: "Pryluky", hu: "Priluki", ro: "Prîlukî", en: "Pryluky",
+image: "/poi-images/ukraine-pryluky-cities-v2.webp"
+},
     coords: [32.3917, 50.5897],
     coordinates: { lat: 50.5897, lng: 32.3917 },
     description: {
@@ -1254,11 +1547,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în anul 1085", "Găzduiește o fabrică mare de tutun", "Bogat în biserici baroce", "Fostă locație a unei cetăți"],
       en: ["First mentioned in the year 1085", "Major center for tobacco production (BAT)", "Home to several 18th-century baroque churches", "Strategic historical fortress town"],
     },
-    imageHint: "Pryluky city square and baroque churches", image: "/poi-images/ukraine-pryluky-cities-v2.webp"},
+    imageHint: "Pryluky city square and baroque churches",
+    image: "/poi-images/ukraine-pryluky-cities-v2.webp"},
   {
     id: "ukraine-korsun-shevchenkivskyi-cities-v2",
     type: "city",
-    name: { de: "Korsun-Schewtschenkiwskyj", hu: "Korszun-Sevcsenkivszkij", ro: "Korsun-Șevcenkivskîi", en: "Korsun-Shevchenkivskyi" },
+    name: { de: "Korsun-Schewtschenkiwskyj", hu: "Korszun-Sevcsenkivszkij", ro: "Korsun-Șevcenkivskîi", en: "Korsun-Shevchenkivskyi",
+image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"
+},
     coords: [31.2725, 49.4217],
     coordinates: { lat: 49.4217, lng: 31.2725 },
     description: {
@@ -1273,11 +1569,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește palatul Lopușin", "Fondat în anul 1032", "Locul unei bătălii celebre din WWII", "Situat pitoresc pe insule pe râul Ros"],
       en: ["Home to the beautiful Lopukhin-Demidov Palace", "Founded by Yaroslav the Wise in 1032", "Site of the 1944 Korsun-Cherkassy Pocket", "Picturesquely built on granite islands"],
     },
-    imageHint: "Lopukhin-Demidov Palace and park in Korsun", image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"},
+    imageHint: "Lopukhin-Demidov Palace and park in Korsun",
+    image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"},
   {
     id: "ukraine-lozvaya-cities-v2",
     type: "city",
-    name: { de: "Losowa", hu: "Lozova", ro: "Lozova", en: "Lozova" },
+    name: { de: "Losowa", hu: "Lozova", ro: "Lozova", en: "Lozova",
+image: "/poi-images/ukraine-lozvaya-cities-v2.webp"
+},
     coords: [36.3153, 48.8911],
     coordinates: { lat: 48.8911, lng: 36.3153 },
     description: {
@@ -1292,11 +1591,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Nod feroviar de importanță regională", "Fondat în anul 1869", "Centru al industriei constructoare de mașini", "Leagă estul de sudul Ucrainei"],
       en: ["Vital strategic railway junction", "Established in the year 1869", "Significant center for forging and machinery", "Connects Kharkiv with the Donbas region"],
     },
-    imageHint: "Lozova railway station and city buildings", image: "/poi-images/ukraine-lozvaya-cities-v2.webp"},
+    imageHint: "Lozova railway station and city buildings",
+    image: "/poi-images/ukraine-lozvaya-cities-v2.webp"},
   {
     id: "ukraine-novomoskovsk-cities-v2",
     type: "city",
-    name: { de: "Nowomoskowsk", hu: "Novomoszkivszk", ro: "Novomoskovsk", en: "Novomoskovsk" },
+    name: { de: "Nowomoskowsk", hu: "Novomoszkivszk", ro: "Novomoskovsk", en: "Novomoskovsk",
+image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"
+},
     coords: [35.265, 48.6297],
     coordinates: { lat: 48.6297, lng: 35.265 },
     description: {
@@ -1311,11 +1613,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Deține o catedrală din lemn cu 9 turle", "Fost centru al așezărilor căzăcești", "Fondat în secolul al XVII-lea", "Centru al prelucrării metalelor"],
       en: ["Home to a unique nine-domed wooden cathedral", "Former headquarters of the Samara Cossacks", "Founded in the 17th century", "Significant regional metallurgical center"],
     },
-    imageHint: "Wooden Trinity Cathedral in Novomoskovsk", image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"},
+    imageHint: "Wooden Trinity Cathedral in Novomoskovsk",
+    image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"},
   {
     id: "ukraine-pokrovsk-cities-v2",
     type: "city",
-    name: { de: "Pokrowsk", hu: "Pokrovszk", ro: "Pokrovsk", en: "Pokrovsk" },
+    name: { de: "Pokrowsk", hu: "Pokrovszk", ro: "Pokrovsk", en: "Pokrovsk",
+image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"
+},
     coords: [37.1764, 48.2811],
     coordinates: { lat: 48.2811, lng: 37.1764 },
     description: {
@@ -1330,11 +1635,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Principalul furnizor de cărbune cocsificabil", "Fondat în anul 1875", "S-a numit anterior Krasnoarmiisk", "Nod logistic și feroviar major"],
       en: ["Primary supplier of coking coal in Ukraine", "Established in 1875 near a rail station", "Renamed to Pokrovsk in May 2016", "Vital strategic and logistical rail hub"],
     },
-    imageHint: "Pokrovsk railway station and industrial view", image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"},
+    imageHint: "Pokrovsk railway station and industrial view",
+    image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"},
   {
     id: "ukraine-rubizhne-cities-v2",
     type: "city",
-    name: { de: "Rubischne", hu: "Rubizsne", ro: "Rubijne", en: "Rubizhne" },
+    name: { de: "Rubischne", hu: "Rubizsne", ro: "Rubijne", en: "Rubizhne",
+image: "/poi-images/ukraine-rubizhne-cities-v2.webp"
+},
     coords: [38.375, 49.0069],
     coordinates: { lat: 49.0069, lng: 38.375 },
     description: {
@@ -1349,11 +1657,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centru al producției de coloranți", "Fondat în anul 1895", "Găzduiește fabrici de mase plastice", "Nod industrial în estul țării"],
       en: ["Historically famous for dye production", "Established in 1895 during rail construction", "Home to chemical and plastic factories", "Key component of the Luhansk industrial area"],
     },
-    imageHint: "Chemical plants in Rubizhne", image: "/poi-images/ukraine-rubizhne-cities-v2.webp"},
+    imageHint: "Chemical plants in Rubizhne",
+    image: "/poi-images/ukraine-rubizhne-cities-v2.webp"},
   {
     id: "ukraine-drogobych-salt-cities-v2",
     type: "city",
-    name: { de: "Drohobytsch-Salzstadt", hu: "Drohobics-sóváros", ro: "Drogobîci-Săreni", en: "Drohobych Salt-Town" },
+    name: { de: "Drohobytsch-Salzstadt", hu: "Drohobics-sóváros", ro: "Drogobîci-Săreni", en: "Drohobych Salt-Town",
+image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"
+},
     coords: [23.5042, 49.3514],
     coordinates: { lat: 49.3514, lng: 23.5042 },
     description: {
@@ -1368,11 +1679,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Salina funcționează din 1250", "Sarea apare pe stema orașului", "Centru al comerțului galițian", "Păstrează arhitectură veche din lemn"],
       en: ["Salt refinery active since around 1250", "Salt cones are depicted on city coat of arms", "Historic economic hub of Galicia", "Features unique 15th-century architecture"],
     },
-    imageHint: "Ancient salt works in Drohobych", image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"},
+    imageHint: "Ancient salt works in Drohobych",
+    image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"},
   {
     id: "ukraine-stryi-cities-v2",
     type: "city",
-    name: { de: "Stryj", hu: "Sztrij", ro: "Strîi", en: "Stryi" },
+    name: { de: "Stryj", hu: "Sztrij", ro: "Strîi", en: "Stryi",
+image: "/poi-images/ukraine-stryi-cities-v2.webp"
+},
     coords: [23.8517, 49.2558],
     coordinates: { lat: 49.2558, lng: 23.8517 },
     description: {
@@ -1387,11 +1701,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Centru important de stocare a gazelor", "Fondat în anul 1385", "Nod de transport strategic", "Cunoscut pentru parcurile sale frumoase"],
       en: ["Strategic natural gas storage facility", "First mentioned in the year 1385", "Major railway junction in the west", "Center for woodworking and food industry"],
     },
-    imageHint: "Stryi city center and river view", image: "/poi-images/ukraine-stryi-cities-v2.webp"},
+    imageHint: "Stryi city center and river view",
+    image: "/poi-images/ukraine-stryi-cities-v2.webp"},
   {
     id: "ukraine-kolomyia-cities-v2",
     type: "city",
-    name: { de: "Kolomyja", hu: "Kolomija", ro: "Colomeea", en: "Kolomyia" },
+    name: { de: "Kolomyja", hu: "Kolomija", ro: "Colomeea", en: "Kolomyia",
+image: "/poi-images/ukraine-kolomyia-cities-v2.webp"
+},
     coords: [25.0392, 48.5308],
     coordinates: { lat: 48.5308, lng: 25.0392 },
     description: {
@@ -1406,11 +1723,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Deține un muzeu în formă de ou", "Centru al artei populare huțule", "Fondat în anul 1241", "Cunoscut pentru industria textilă"],
       en: ["Features a museum shaped like a giant egg", "Center of Hutsul folk art and music", "First mentioned in the year 1241", "Significant center for embroidery and crafts"],
     },
-    imageHint: "Pysanka Museum building in Kolomyia", image: "/poi-images/ukraine-kolomyia-cities-v2.webp"},
+    imageHint: "Pysanka Museum building in Kolomyia",
+    image: "/poi-images/ukraine-kolomyia-cities-v2.webp"},
   {
     id: "ukraine-poryv-cities-v2",
     type: "city",
-    name: { de: "Warasch", hu: "Varas", ro: "Varaș", en: "Varash" },
+    name: { de: "Warasch", hu: "Varas", ro: "Varaș", en: "Varash",
+image: "/poi-images/ukraine-poryv-cities-v2.webp"
+},
     coords: [25.8517, 51.3411],
     coordinates: { lat: 51.3411, lng: 25.8517 },
     description: {
@@ -1425,11 +1745,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["S-a numit Kuznețovsk până în 2016", "Locația centralei nucleare Rivne", "Fondat în anul 1973", "Oraș planificat de tip satelit"],
       en: ["Formerly known as Kuznetsovsk", "Satellite city of the Rivne NPP", "Established in 1973 on the site of a village", "Highly specialized energy-sector workforce"],
     },
-    imageHint: "Rivne nuclear power plant near Varash", image: "/poi-images/ukraine-poryv-cities-v2.webp"},
+    imageHint: "Rivne nuclear power plant near Varash",
+    image: "/poi-images/ukraine-poryv-cities-v2.webp"},
   {
     id: "ukraine-shostka-powder-cities-v2",
     type: "city",
-    name: { de: "Schostka-Industriestadt", hu: "Szosztka-iparváros", ro: "Șostka-Industrial", en: "Shostka-Industrial" },
+    name: { de: "Schostka-Industriestadt", hu: "Szosztka-iparváros", ro: "Șostka-Industrial", en: "Shostka-Industrial",
+image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"
+},
     coords: [33.4864, 51.8617],
     coordinates: { lat: 51.8617, lng: 33.4864 },
     description: {
@@ -1444,11 +1767,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fabrică de pulbere din 1739", "Centru de cercetare chimică", "Locație militară strategică", "Găzduiește un muzeu al filmului"],
       en: ["Gunpowder factory established in 1739", "Center for chemical and material science", "Key strategic military industrial site", "Home to the unique Svema Film Museum"],
     },
-    imageHint: "Old industrial buildings in Shostka", image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"},
+    imageHint: "Old industrial buildings in Shostka",
+    image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"},
   {
     id: "ukraine-netishyn-cities-v2",
     type: "city",
-    name: { de: "Netischyn", hu: "Netisin", ro: "Netișîn", en: "Netishyn" },
+    name: { de: "Netischyn", hu: "Netisin", ro: "Netișîn", en: "Netishyn",
+image: "/poi-images/ukraine-netishyn-cities-v2.webp"
+},
     coords: [26.6517, 50.3297],
     coordinates: { lat: 50.3297, lng: 26.6517 },
     description: {
@@ -1463,11 +1789,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Sediul centralei nucleare Hmelnîțkîi", "Fondat în anul 1981", "Populație formată în principal din specialiști", "Infrastructură urbană modernă"],
       en: ["Satellite city for the Khmelnytskyi NPP", "Modern town founded in 1981", "Highly educated workforce specialized in energy", "Located near the historic town of Ostroh"],
     },
-    imageHint: "Khmelnytskyi nuclear power plant and Netishyn", image: "/poi-images/ukraine-netishyn-cities-v2.webp"},
+    imageHint: "Khmelnytskyi nuclear power plant and Netishyn",
+    image: "/poi-images/ukraine-netishyn-cities-v2.webp"},
   {
     id: "ukraine-enerhodar-cities-v2",
     type: "city",
-    name: { de: "Enerhodar", hu: "Enerhodar", ro: "Enerhodar", en: "Enerhodar" },
+    name: { de: "Enerhodar", hu: "Enerhodar", ro: "Enerhodar", en: "Enerhodar",
+image: "/poi-images/ukraine-enerhodar-cities-v2.webp"
+},
     coords: [34.655, 47.4989],
     coordinates: { lat: 47.4989, lng: 34.655 },
     description: {
@@ -1482,11 +1811,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Locația centralei nucleare Zaporojie", "Numele înseamnă 'Dăruitorul de energie'", "Fondat în anul 1970", "Situat pe malul Niprului"],
       en: ["Base for the Zaporizhzhia Nuclear Power Plant", "The name translates to 'Energy Giver'", "Founded specifically as an energy hub in 1970", "Located on the left bank of the Dnieper"],
     },
-    imageHint: "Zaporizhzhia Nuclear Power Plant in Enerhodar", image: "/poi-images/ukraine-enerhodar-cities-v2.webp"},
+    imageHint: "Zaporizhzhia Nuclear Power Plant in Enerhodar",
+    image: "/poi-images/ukraine-enerhodar-cities-v2.webp"},
   {
     id: "ukraine-shuzhhorod-sakura-cities-v2",
     type: "city",
-    name: { de: "Uschhorod-Sakurastadt", hu: "Ungvár-szakuraváros", ro: "Ujhorod-Sakura", en: "Uzhhorod Sakura-Town" },
+    name: { de: "Uschhorod-Sakurastadt", hu: "Ungvár-szakuraváros", ro: "Ujhorod-Sakura", en: "Uzhhorod Sakura-Town",
+image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"
+},
     coords: [22.2879, 48.6208],
     coordinates: { lat: 48.6208, lng: 22.2879 },
     description: {
@@ -1501,11 +1833,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Cea mai mare plantație de Sakura din Europa", "Copacii au fost plantați în 1923", "Atrage mii de turiști anual", "Festivaluri dedicate cireșilor în aprilie"],
       en: ["Largest Sakura plantation in Europe", "Trees originally planted in 1923", "Attracts thousands of visitors annually", "Hosts a unique Sakura festival each spring"],
     },
-    imageHint: "Cherry blossoms in Uzhhorod streets", image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"},
+    imageHint: "Cherry blossoms in Uzhhorod streets",
+    image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"},
   {
     id: "ukraine-morshyn-cities-v2",
     type: "city",
-    name: { de: "Morschyn", hu: "Morsin", ro: "Morșîn", en: "Morshyn" },
+    name: { de: "Morschyn", hu: "Morsin", ro: "Morșîn", en: "Morshyn",
+image: "/poi-images/ukraine-morshyn-cities-v2.webp"
+},
     coords: [23.8717, 49.155],
     coordinates: { lat: 49.155, lng: 23.8717 },
     description: {
@@ -1520,11 +1855,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Faimos pentru apa minerală 'Morshynska'", "Fondat în anul 1469", "Centru al balneologiei ucrainene", "Deține un parc balnear vast"],
       en: ["Source of the famous 'Morshynska' water", "First mentioned in the year 1469", "Major destination for digestive therapy", "Home to numerous historic sanatoriums"],
     },
-    imageHint: "Morshyn mineral water pump room and park", image: "/poi-images/ukraine-morshyn-cities-v2.webp"},
+    imageHint: "Morshyn mineral water pump room and park",
+    image: "/poi-images/ukraine-morshyn-cities-v2.webp"},
   {
     id: "ukraine-truskavets-cities-v2",
     type: "city",
-    name: { de: "Truskawez", hu: "Truszkavec", ro: "Truskaveț", en: "Truskavets" },
+    name: { de: "Truskawez", hu: "Truszkavec", ro: "Truskaveț", en: "Truskavets",
+image: "/poi-images/ukraine-truskavets-cities-v2.webp"
+},
     coords: [23.5047, 49.2789],
     coordinates: { lat: 49.2789, lng: 23.5047 },
     description: {
@@ -1539,11 +1877,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Sursa apei curative Naftusia", "Stațiune balneară din anul 1827", "Găzduiește peste 20 de sanatorii", "Situat pitoresc în Carpați"],
       en: ["Unique source of Naftusia mineral water", "Official resort status since 1827", "Features over 20 major sanatoriums", "Set in a valley of the Carpathian foothills"],
     },
-    imageHint: "Truskavets pump room and landscape", image: "/poi-images/ukraine-truskavets-cities-v2.webp"},
+    imageHint: "Truskavets pump room and landscape",
+    image: "/poi-images/ukraine-truskavets-cities-v2.webp"},
   {
     id: "ukraine-chornomorsk-cities-v2",
     type: "city",
-    name: { de: "Tschornomorsk", hu: "Csornomorszk", ro: "Ciornomorsk", en: "Chornomorsk" },
+    name: { de: "Tschornomorsk", hu: "Csornomorszk", ro: "Ciornomorsk", en: "Chornomorsk",
+image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"
+},
     coords: [30.6517, 46.2989],
     coordinates: { lat: 46.2989, lng: 30.6517 },
     description: {
@@ -1558,11 +1899,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["S-a numit Illicivsk până în 2016", "Are un port maritim de mare adâncime", "Fondat în anul 1952", "Important centru pentru pescuit"],
       en: ["Renamed from Illichivsk in 2016", "Home to a major deep-water trade port", "Founded as a port town in 1952", "Awarded Blue Flag status for its beaches"],
     },
-    imageHint: "Chornomorsk port and lighthouse", image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"},
+    imageHint: "Chornomorsk port and lighthouse",
+    image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"},
   {
     id: "ukraine-bilhorod-dnistrovskyi-cities-v2",
     type: "city",
-    name: { de: "Bilhorod-Dnistrowskyj", hu: "Bilhorod-Dnyisztrovszkij", ro: "Cetatea Albă", en: "Bilhorod-Dnistrovskyi" },
+    name: { de: "Bilhorod-Dnistrowskyj", hu: "Bilhorod-Dnyisztrovszkij", ro: "Cetatea Albă", en: "Bilhorod-Dnistrovskyi",
+image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"
+},
     coords: [30.35, 46.1833],
     coordinates: { lat: 46.1833, lng: 30.35 },
     description: {
@@ -1577,11 +1921,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește Cetatea Akkerman", "Fondat ca Tyras în sec. VI î.Hr.", "Cunoscut istoric sub numele Cetatea Albă", "Unul dintre cele mai vechi orașe locuite"],
       en: ["Home to the vast Akkerman Fortress", "Founded as Tyras in the 6th century BC", "A strategic point for over 2,500 years", "Located on the shore of the Dniester Estuary"],
     },
-    imageHint: "Akkerman Fortress walls in Bilhorod-Dnistrovskyi", image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"},
+    imageHint: "Akkerman Fortress walls in Bilhorod-Dnistrovskyi",
+    image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"},
   {
     id: "ukraine-kaniv-cities-v2",
     type: "city",
-    name: { de: "Kaniw", hu: "Kanyiv", ro: "Kaniv", en: "Kaniv" },
+    name: { de: "Kaniw", hu: "Kanyiv", ro: "Kaniv", en: "Kaniv",
+image: "/poi-images/ukraine-kaniv-cities-v2.webp"
+},
     coords: [31.4667, 49.75],
     coordinates: { lat: 49.75, lng: 31.4667 },
     description: {
@@ -1596,11 +1943,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește Dealul lui Taras", "Fondat în secolul al XI-lea", "Locația hidrocentralei Kaniv", "Rezervație naturală în apropiere"],
       en: ["Home to Taras Hill (Chernecha Hora)", "First mentioned in the 11th century", "Site of the Kaniv Hydroelectric Station", "Center of the Kaniv Nature Reserve"],
     },
-    imageHint: "Taras Shevchenko memorial in Kaniv", image: "/poi-images/ukraine-kaniv-cities-v2.webp"},
+    imageHint: "Taras Shevchenko memorial in Kaniv",
+    image: "/poi-images/ukraine-kaniv-cities-v2.webp"},
   {
     id: "ukraine-hlukhiv-cities-v2",
     type: "city",
-    name: { de: "Hluchiw", hu: "Hluhiv", ro: "Hluhiv", en: "Hlukhiv" },
+    name: { de: "Hluchiw", hu: "Hluhiv", ro: "Hluhiv", en: "Hlukhiv",
+image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"
+},
     coords: [33.9153, 51.6789],
     coordinates: { lat: 51.6789, lng: 33.9153 },
     description: {
@@ -1615,11 +1965,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fosta capitală a hatmanilor", "Fondat în anul 1152", "Centru al culturii de cânepă", "Are numeroase clădiri baroce"],
       en: ["Former capital of the Cossack Hetmanate", "First mentioned in the year 1152", "World center for industrial hemp research", "Home to the Hlukhiv Teachers Institute"],
     },
-    imageHint: "Hlukhiv historical gate and buildings", image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"},
+    imageHint: "Hlukhiv historical gate and buildings",
+    image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"},
   {
     id: "ukraine-vylkove-cities-v2",
     type: "city",
-    name: { de: "Wylkowe", hu: "Vilkovo", ro: "Vâlcov", en: "Vylkove" },
+    name: { de: "Wylkowe", hu: "Vilkovo", ro: "Vâlcov", en: "Vylkove",
+image: "/poi-images/ukraine-vylkove-cities-v2.webp"
+},
     coords: [29.585, 45.4011],
     coordinates: { lat: 45.4011, lng: 29.585 },
     description: {
@@ -1634,11 +1987,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în anul 1746", "Singurul oraș din Delta Dunării", "Faimos pentru struguri și căpșuni", "Canalele servesc drept străzi"],
       en: ["Founded by Lipovan Old Believers in 1746", "Last settlement before the Black Sea", "Famous for 'Novak' grapes and strawberries", "Boats are the primary mode of transport"],
     },
-    imageHint: "Canals and boats in Vylkove", image: "/poi-images/ukraine-vylkove-cities-v2.webp"},
+    imageHint: "Canals and boats in Vylkove",
+    image: "/poi-images/ukraine-vylkove-cities-v2.webp"},
   {
     id: "ukraine-shhovkva-ideal-cities-v2",
     type: "city",
-    name: { de: "Schowkwa-Idealstadt", hu: "Zsovkva-ideális város", ro: "Jovkva-Ideal", en: "Zhovkva Ideal-City" },
+    name: { de: "Schowkwa-Idealstadt", hu: "Zsovkva-ideális város", ro: "Jovkva-Ideal", en: "Zhovkva Ideal-City",
+image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"
+},
     coords: [23.9717, 50.0558],
     coordinates: { lat: 50.0558, lng: 23.9717 },
     description: {
@@ -1653,11 +2009,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Planificat după modelul orașului ideal", "Deține o biserică din lemn UNESCO", "Fondat în anul 1594", "Reședința regelui Ioan III Sobieski"],
       en: ["Modelled on Italian 'ideal city' concepts", "Home to the UNESCO Holy Trinity Church", "Founded by hetman Stanislaw Zolkiewski", "Significant center for the Jewish diaspora"],
     },
-    imageHint: "Zhovkva central square and castle", image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"},
+    imageHint: "Zhovkva central square and castle",
+    image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"},
   {
     id: "ukraine-chuhuiv-cities-v2",
     type: "city",
-    name: { de: "Tschuhujiw", hu: "Csuhujiv", ro: "Ciuhuiv", en: "Chuhuiv" },
+    name: { de: "Tschuhujiw", hu: "Csuhujiv", ro: "Ciuhuiv", en: "Chuhuiv",
+image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"
+},
     coords: [36.685, 49.835],
     coordinates: { lat: 49.835, lng: 36.685 },
     description: {
@@ -1672,11 +2031,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Orașul natal al lui Ilia Repin", "Fondat în anul 1638", "Bază militară aeriană importantă", "Găzduiește muzeul de artă Repin"],
       en: ["Birthplace of artist Ilya Repin", "Founded as a fortress in 1638", "Home to a significant air force base", "Features the Repin Art Memorial Museum"],
     },
-    imageHint: "Chuhuiv city center and Repin monument", image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"},
+    imageHint: "Chuhuiv city center and Repin monument",
+    image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"},
   {
     id: "ukraine-pereiaslav-cities-v2",
     type: "city",
-    name: { de: "Perejaslaw", hu: "Perejaszlav", ro: "Pereiaslav", en: "Pereiaslav" },
+    name: { de: "Perejaslaw", hu: "Perejaszlav", ro: "Pereiaslav", en: "Pereiaslav",
+image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"
+},
     coords: [31.4639, 50.0711],
     coordinates: { lat: 50.0711, lng: 31.4639 },
     description: {
@@ -1691,11 +2053,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Găzduiește peste 20 de muzee", "Locul Consiliului de la Pereiaslav (1654)", "Fondat în anul 907 d.Hr.", "Deține un mare muzeu în aer liber"],
       en: ["Home to over 20 diverse museums", "Site of the 1654 Pereiaslav Council", "First mentioned in the year 907 AD", "Features a vast Open-Air Museum of Folk Life"],
     },
-    imageHint: "Open air museum in Pereiaslav", image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"},
+    imageHint: "Open air museum in Pereiaslav",
+    image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"},
   {
     id: "ukraine-shytomyr-space-cities-v2",
     type: "city",
-    name: { de: "Schytomyr-Raumfahrtstadt", hu: "Zsitomir-űrűrváros", ro: "Jitomir-Cosmos", en: "Zhytomyr Space-Town" },
+    name: { de: "Schytomyr-Raumfahrtstadt", hu: "Zsitomir-űrűrváros", ro: "Jitomir-Cosmos", en: "Zhytomyr Space-Town",
+image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"
+},
     coords: [28.6587, 50.2547],
     coordinates: { lat: 50.2547, lng: 28.6587 },
     description: {
@@ -1710,11 +2075,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Serghei Koroliov", "Găzduiește Muzeul Național al Cosmonauticii", "Centru al mecanicii fine", "Deține capsule spațiale originale"],
       en: ["Birthplace of Sergei Korolev", "Home to the National Cosmonautics Museum", "Exhibits authentic space capsules", "Focus on high-tech and aerospace engineering"],
     },
-    imageHint: "Korolev space museum in Zhytomyr", image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"},
+    imageHint: "Korolev space museum in Zhytomyr",
+    image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"},
   {
     id: "ukraine-boyarka-cities-v2",
     type: "city",
-    name: { de: "Bojarka", hu: "Bojarka", ro: "Boiarka", en: "Boyarka" },
+    name: { de: "Bojarka", hu: "Bojarka", ro: "Boiarka", en: "Boyarka",
+image: "/poi-images/ukraine-boyarka-cities-v2.webp"
+},
     coords: [30.2917, 50.3292],
     coordinates: { lat: 50.3292, lng: 30.2917 },
     description: {
@@ -1729,11 +2097,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Locație literară (Ostrovski)", "Fondat în secolul al XVI-lea", "Centru forestier regional", "Destinație populară de relaxare"],
       en: ["Setting for Nikolai Ostrovsky's famous novel", "First mentioned in the 16th century", "Home to major medical and cardiac centers", "Surrounded by vast pine forests"],
     },
-    imageHint: "Forest and park in Boyarka", image: "/poi-images/ukraine-boyarka-cities-v2.webp"},
+    imageHint: "Forest and park in Boyarka",
+    image: "/poi-images/ukraine-boyarka-cities-v2.webp"},
   {
     id: "ukraine-vasylkiv-cities-v2",
     type: "city",
-    name: { de: "Wasylkiw", hu: "Vaszilkiv", ro: "Vasîlkiv", en: "Vasylkiv" },
+    name: { de: "Wasylkiw", hu: "Vaszilkiv", ro: "Vasîlkiv", en: "Vasylkiv",
+image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"
+},
     coords: [30.3153, 50.1789],
     coordinates: { lat: 50.1789, lng: 30.3153 },
     description: {
@@ -1748,11 +2119,14 @@ export const ukraineCitiesV2: POI[] = [
       ro: ["Fondat în anul 988 d.Hr.", "Bază aeriană militară majoră", "Are biserici istorice valoroase", "Centru al producției de ceramică"],
       en: ["Founded by Vladimir the Great in 988 AD", "Home to a major Ukrainian air base", "Features the 18th-century St. Anthony Cathedral", "Historically known for its pottery crafts"],
     },
-    imageHint: "Vasylkiv city views and cathedral", image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"},
+    imageHint: "Vasylkiv city views and cathedral",
+    image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"},
   {
     id: "ukraine-izmail-danube-cities-v2",
     type: "city",
-    name: { de: "Ismajil-Donaustadt", hu: "Izmajil-dunaváros", ro: "Ismail-Dunăre", en: "Izmail Danube-City" },
+    name: { de: "Ismajil-Donaustadt", hu: "Izmajil-dunaváros", ro: "Ismail-Dunăre", en: "Izmail Danube-City",
+image: "/poi-images/ukraine-izmail-danube-cities-v2.webp"
+},
     coords: [28.8392, 45.3508],
     coordinates: { lat: 45.3508, lng: 28.8392 },
     description: {
@@ -1768,5 +2142,741 @@ export const ukraineCitiesV2: POI[] = [
       en: ["Largest river port on the Danube in Ukraine", "Crucial hub for agricultural exports", "Home to the Museum of Danube Shipping", "Headquarters of the Ukrainian Danube Shipping Company"],
     },
     imageHint: "Ships on the Danube in Izmail",
+  }
+,
+  {
+    id: "ukraine-irpin-cities-v2",
+    type: "city",
+    name: { de: "Irpin", hu: "Irpiny", ro: "Irpin", en: "Irpin",
+image: "/poi-images/ukraine-irpin-cities-v2.webp"
+},
+    coordinates: { lat: 50.5164, lng: 30.2403 },
+    description: {
+      de: "Irpin ist eine grüne Stadt in der Oblast Kiew am gleichnamigen Fluss. Sie dient als wichtiger Vorort und Erholungsgebiet.",
+      hu: "Irpiny egy város a Kijevi területen, az Irpiny-folyó partján. A főváros egyik legfontosabb zöldövezeti elővárosa.",
+      ro: "Irpin este un oraș în regiunea Kiev, situat pe râul Irpin. Este o suburbie importantă, cunoscută pentru parcurile sale.",
+      en: "Irpin is a city in the Kyiv Oblast located on the Irpin River. It serves as a major suburban residential and resort area.",
+    },
+    facts: {
+      de: ["Gründung: 1899", "Einwohner: ca. 60.000", "Region: Oblast Kiew", "Fluss: Irpin"],
+      hu: ["Alapítás: 1899", "Lakosság: kb. 60 000", "Régió: Kijevi terület", "Folyó: Irpiny"],
+      ro: ["Fondat: 1899", "Populație: cca. 60.000", "Regiune: Regiunea Kiev", "Râu: Irpin"],
+      en: ["Founded: 1899", "Population: ~60,000", "Region: Kyiv Oblast", "River: Irpin"],
+    },
+    imageHint: "Irpin central city park with pines",
+  },
+  {
+    id: "ukraine-bucha-cities-v2",
+    type: "city",
+    name: { de: "Butscha", hu: "Bucsa", ro: "Bucea", en: "Bucha",
+image: "/poi-images/ukraine-bucha-cities-v2.webp"
+},
+    coordinates: { lat: 50.5489, lng: 30.2208 },
+    description: {
+      de: "Butscha ist eine Stadt in der Nähe von Kiew, die für ihre Parks und die Glasindustrie bekannt ist. Sie liegt an den Flüssen Butscha und Rokatsch.",
+      hu: "Bucsa egy város Kijev közelében, amely parkjairól és üvegiparáról nevezetes. A Bucsa és Rokacs folyók mentén fekszik.",
+      ro: "Bucea este un oraș lângă Kiev, cunoscut pentru parcurile sale și industria sticlei. Este situat pe râurile Bucea și Rokaci.",
+      en: "Bucha is a city near Kyiv known for its green spaces and glass manufacturing. It is situated along the Bucha and Rokach rivers.",
+    },
+    facts: {
+      de: ["Gegründet: 1898", "Einwohner: ca. 37.000", "Sitz des Rajons Butscha", "Glasfabrik vorhanden"],
+      hu: ["Alapítás: 1898", "Lakosság: kb. 37 000", "A Bucsai járás központja", "Üveggyára jelentős"],
+      ro: ["Fondat: 1898", "Populație: cca. 37.000", "Reședința raionului Bucea", "Deține o fabrică de sticlă"],
+      en: ["Founded: 1898", "Population: ~37,000", "Center of Bucha District", "Home to a major glass factory"],
+    },
+    imageHint: "Bucha City Park entrance with fountain",
+  },
+  {
+    id: "ukraine-boryspil-cities-v2",
+    type: "city",
+    name: { de: "Boryspil", hu: "Boriszpil", ro: "Borispil", en: "Boryspil",
+image: "/poi-images/ukraine-boryspil-cities-v2.webp"
+},
+    coordinates: { lat: 50.3508, lng: 30.9525 },
+    description: {
+      de: "Boryspil ist eine historische Stadt östlich von Kiew, die heute vor allem für den größten internationalen Flughafen der Ukraine bekannt ist.",
+      hu: "Boriszpil egy történelmi város Kijevtől keletre, amely ma leginkább Ukrajna legnagyobb nemzetközi repülőteréről ismert.",
+      ro: "Borispil este un oraș istoric la est de Kiev, cunoscut în prezent în principal pentru cel mai mare aeroport internațional din Ucraina.",
+      en: "Boryspil is a historic city east of Kyiv, best known today for hosting Ukraine's largest international airport.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1154", "Einwohner: ca. 63.000", "Tor zur Ukraine (Flughafen)", "Antikes Siedlungsgebiet"],
+      hu: ["Első említés: 1154", "Lakosság: kb. 63 000", "Ukrajna kapuja (repülőtér)", "Ősi településterület"],
+      ro: ["Prima atestare: 1154", "Populație: cca. 63.000", "Poarta Ucrainei (aeroport)", "Zonă de așezare antică"],
+      en: ["First mentioned: 1154", "Population: ~63,000", "Gateway to Ukraine (airport)", "Ancient settlement area"],
+    },
+    imageHint: "Boryspil airport terminal building exterior",
+  },
+  {
+    id: "ukraine-zviahel-cities-v2",
+    type: "city",
+    name: { de: "Zviahel", hu: "Zviahel", ro: "Zviahel", en: "Zviahel",
+image: "/poi-images/ukraine-zviahel-cities-v2.webp"
+},
+    coordinates: { lat: 50.5936, lng: 27.6258 },
+    description: {
+      de: "Zviahel (früher Nowohrad-Wolynskyj) ist eine historische Stadt am Fluss Slutsch, bekannt als Geburtsort der Dichterin Lesja Ukrajinka.",
+      hu: "Zviahel (korábban Novohrad-Volinszkij) egy történelmi város a Szlucs-folyó mentén, Leszja Ukrajinka költőnő szülőhelye.",
+      ro: "Zviahel (fost Novohrad-Volînski) este un oraș istoric pe râul Sluci, cunoscut drept locul de naștere al poetei Lesia Ukrainka.",
+      en: "Zviahel (formerly Novohrad-Volynskyi) is a historic city on the Sluch River, famous as the birthplace of poet Lesia Ukrainka.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1257", "Einwohner: ca. 55.000", "Region: Oblast Schytomyr", "Namensänderung: 2022"],
+      hu: ["Első említés: 1257", "Lakosság: kb. 55 000", "Régió: Zsitomiri terület", "Névváltoztatás: 2022"],
+      ro: ["Prima atestare: 1257", "Populație: cca. 55.000", "Regiune: Regiunea Jitomir", "Schimbarea numelui: 2022"],
+      en: ["First mentioned: 1257", "Population: ~55,000", "Region: Zhytomyr Oblast", "Name restoration: 2022"],
+    },
+    imageHint: "Zviahel fortress ruins on the river bank",
+  },
+  {
+    id: "ukraine-korosten-cities-v2",
+    type: "city",
+    name: { de: "Korosten", hu: "Koroszteny", ro: "Korosten", en: "Korosten",
+image: "/poi-images/ukraine-korosten-cities-v2.webp"
+},
+    coordinates: { lat: 50.9542, lng: 28.6483 },
+    description: {
+      de: "Korosten ist eine historische Stadt in Polesien am Fluss Usch. Sie war einst die Hauptstadt des slawischen Stammes der Drewljanen.",
+      hu: "Koroszteny egy történelmi város Poléziában, az Uzs-folyó partján. Egykor a szláv drevlján törzs fővárosa volt.",
+      ro: "Korosten este un oraș istoric în Polesie, pe râul Uj. A fost cândva capitala tribului slav al drevleanilor.",
+      en: "Korosten is a historic city in Polesia situated on the Uzh River. It was once the capital of the Slavic Drevlian tribe.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 945", "Einwohner: ca. 62.000", "Zentrum des Granitabbaus", "Wichtiger Bahnknotenpunkt"],
+      hu: ["Első említés: 945", "Lakosság: kb. 62 000", "Gránitbányászat központja", "Fontos vasúti csomópont"],
+      ro: ["Prima atestare: 945", "Populație: cca. 62.000", "Centru de extracție a granitului", "Nod feroviar important"],
+      en: ["First mentioned: 945", "Population: ~62,000", "Center of granite mining", "Major railway junction"],
+    },
+    imageHint: "Korosten Ostrovsky park with granite rocks",
+  },
+  {
+    id: "ukraine-shepetivka-cities-v2",
+    type: "city",
+    name: { de: "Schepetiwka", hu: "Sepetivka", ro: "Șepetivka", en: "Shepetivka",
+image: "/poi-images/ukraine-shepetivka-cities-v2.webp"
+},
+    coordinates: { lat: 50.1856, lng: 27.0622 },
+    description: {
+      de: "Schepetiwka ist ein bedeutender Eisenbahnknotenpunkt in der Oblast Chmelnyzkyj mit einer starken industriellen Basis.",
+      hu: "Sepetivka egy jelentős vasúti csomópont a Hmelnyickiji területen, erős ipari bázissal.",
+      ro: "Șepetivka este un nod feroviar important în regiunea Hmelnițki, având o bază industrială solidă.",
+      en: "Shepetivka is a major railway junction in the Khmelnytskyi Oblast with a strong industrial background.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1594", "Einwohner: ca. 40.000", "Wichtiger Bahnknoten", "Zuckerindustrie"],
+      hu: ["Első említés: 1594", "Lakosság: kb. 40 000", "Fontos vasúti csomópont", "Cukoripar"],
+      ro: ["Prima atestare: 1594", "Populație: cca. 40.000", "Nod feroviar vital", "Industria zahărului"],
+      en: ["First mentioned: 1594", "Population: ~40,000", "Vital railway hub", "Sugar industry center"],
+    },
+    imageHint: "Shepetivka railway station building",
+  },
+  {
+    id: "ukraine-kovel-cities-v2",
+    type: "city",
+    name: { de: "Kowel", hu: "Kovel", ro: "Kovel", en: "Kovel",
+image: "/poi-images/ukraine-kovel-cities-v2.webp"
+},
+    coordinates: { lat: 51.2167, lng: 24.7167 },
+    description: {
+      de: "Kowel ist eine strategische Stadt im Nordwesten der Ukraine und ein zentraler Verkehrsknotenpunkt für den Handel mit Polen.",
+      hu: "Kovel egy stratégiai fontosságú város Északnyugat-Ukrajnában, a Lengyelországgal folytatott kereskedelem központi csomópontja.",
+      ro: "Kovel este un oraș strategic în nord-vestul Ucrainei, fiind un punct central de transport pentru comerțul cu Polonia.",
+      en: "Kovel is a strategic city in northwestern Ukraine and a central transportation hub for trade with Poland.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1310", "Einwohner: ca. 68.000", "Region: Oblast Wolyn", "Großer Bahnknotenpunkt"],
+      hu: ["Első említés: 1310", "Lakosság: kb. 68 000", "Régió: Volinyi terület", "Nagy vasúti csomópont"],
+      ro: ["Prima atestare: 1310", "Populație: cca. 68.000", "Regiune: Regiunea Volîn", "Nod feroviar major"],
+      en: ["First mentioned: 1310", "Population: ~68,000", "Region: Volyn Oblast", "Major railway junction"],
+    },
+    imageHint: "Kovel railway station and tracks",
+  },
+  {
+    id: "ukraine-volodymyr-cities-v2",
+    type: "city",
+    name: { de: "Wolodymyr", hu: "Volodimir", ro: "Volodîmir", en: "Volodymyr",
+image: "/poi-images/ukraine-volodymyr-cities-v2.webp"
+},
+    coordinates: { lat: 50.8481, lng: 24.3222 },
+    description: {
+      de: "Wolodymyr ist eine der ältesten Städte der Ukraine und war einst die Hauptstadt des Fürstentums Halytsch-Wolhynien.",
+      hu: "Volodimir Ukrajna egyik legrégebbi városa, egykor a Halics-Volinyi Fejedelemség fővárosa volt.",
+      ro: "Volodîmir este unul dintre cele mai vechi orașe din Ucraina, fiind cândva capitala Principatului Halici-Volînia.",
+      en: "Volodymyr is one of the oldest cities in Ukraine and was once the capital of the Galicia-Volhynia Principality.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 988", "Einwohner: ca. 38.000", "Historisches Zentrum", "Nahe der Grenze zu Polen"],
+      hu: ["Első említés: 988", "Lakosság: kb. 38 000", "Történelmi központ", "Közel a lengyel határhoz"],
+      ro: ["Prima atestare: 988", "Populație: cca. 38.000", "Centru istoric major", "Aproape de granița cu Polonia"],
+      en: ["First mentioned: 988", "Population: ~38,000", "Major historical center", "Near the border with Poland"],
+    },
+    imageHint: "Volodymyr Assumption Cathedral 12th century",
+  },
+  {
+    id: "ukraine-chervonohrad-cities-v2",
+    type: "city",
+    name: { de: "Tscherwonohrad", hu: "Cservonohrad", ro: "Cervonohrad", en: "Chervonohrad",
+image: "/poi-images/ukraine-chervonohrad-cities-v2.webp"
+},
+    coordinates: { lat: 50.3833, lng: 24.2333 },
+    description: {
+      de: "Tscherwonohrad ist das Zentrum des Kohlebergbaus in der Westukraine, gelegen am Fluss Westlicher Bug.",
+      hu: "Cservonohrad a nyugat-ukrajnai szénbányászat központja a Nyugati-Bug folyó mentén.",
+      ro: "Cervonohrad este centrul mineritului de cărbune din vestul Ucrainei, situat pe râul Bugul de Vest.",
+      en: "Chervonohrad is the center of coal mining in Western Ukraine, located on the Western Bug River.",
+    },
+    facts: {
+      de: ["Gegründet: 1692", "Einwohner: ca. 65.000", "Region: Oblast Lemberg", "Kohleindustrie"],
+      hu: ["Alapítás: 1692", "Lakosság: kb. 65 000", "Régió: Lvivi terület", "Szénbányászat"],
+      ro: ["Fondat: 1692", "Populație: cca. 65.000", "Regiune: Regiunea Liov", "Industria cărbunelui"],
+      en: ["Founded: 1692", "Population: ~65,000", "Region: Lviv Oblast", "Coal industry center"],
+    },
+    imageHint: "Potocki Palace in Chervonohrad",
+  },
+  {
+    id: "ukraine-sambir-cities-v2",
+    type: "city",
+    name: { de: "Sambir", hu: "Szambir", ro: "Sambir", en: "Sambir",
+image: "/poi-images/ukraine-sambir-cities-v2.webp"
+},
+    coordinates: { lat: 49.5167, lng: 23.2 },
+    description: {
+      de: "Sambir ist eine malerische Stadt in den Ausläufern der Karpaten am Ufer des Dnjestr, bekannt für ihren historischen Marktplatz.",
+      hu: "Szambir egy festői város a Kárpátok lábánál, a Dnyeszter partján, híres történelmi főteréről.",
+      ro: "Sambir este un oraș pitoresc la poalele Carpaților, pe malul Nistrului, cunoscut pentru piața sa istorică.",
+      en: "Sambir is a picturesque city in the foothills of the Carpathians on the Dniester River, famous for its historic market square.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1241", "Einwohner: ca. 34.000", "Historisches Rathaus", "Reliquien des Hl. Valentin"],
+      hu: ["Első említés: 1241", "Lakosság: kb. 34 000", "Történelmi városháza", "Szent Valentin ereklyéi"],
+      ro: ["Prima atestare: 1241", "Populație: cca. 34.000", "Primărie istorică", "Moaștele Sfântului Valentin"],
+      en: ["First mentioned: 1241", "Population: ~34,000", "Historic town hall", "Relics of Saint Valentine"],
+    },
+    imageHint: "Sambir city hall with clock tower",
+  },
+  {
+    id: "ukraine-boryslav-cities-v2",
+    type: "city",
+    name: { de: "Boryslaw", hu: "Boriszlav", ro: "Borîslav", en: "Boryslav",
+image: "/poi-images/ukraine-boryslav-cities-v2.webp"
+},
+    coordinates: { lat: 49.2833, lng: 23.4167 },
+    description: {
+      de: "Boryslaw ist eine Industriestadt in der Oblast Lemberg, die historisch als Zentrum der Erdöl- und Ozokeritgewinnung bekannt wurde.",
+      hu: "Boriszlav egy ipari város a Lvivi területen, amely történelmileg a kőolaj- és földiviasz-kitermelés központjaként vált ismertté.",
+      ro: "Borîslav este un oraș industrial în regiunea Liov, cunoscut istoric ca centru al extracției de petrol și ozokerită.",
+      en: "Boryslav is an industrial city in the Lviv Oblast, historically famous as a center for petroleum and ozokerite mining.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1387", "Einwohner: ca. 32.000", "Ozokerit-Abbau", "Region: Galizien"],
+      hu: ["Első említés: 1387", "Lakosság: kb. 32 000", "Földiviasz bányászat", "Régió: Galícia"],
+      ro: ["Prima atestare: 1387", "Populație: cca. 32.000", "Exploatarea ozokeritei", "Regiune: Galiția"],
+      en: ["First mentioned: 1387", "Population: ~32,000", "Ozokerite mining center", "Region: Galicia"],
+    },
+    imageHint: "Boryslav oil pump jack in city park",
+  },
+  {
+    id: "ukraine-dubno-cities-v2",
+    type: "city",
+    name: { de: "Dubno", hu: "Dubno", ro: "Dubno", en: "Dubno",
+image: "/poi-images/ukraine-dubno-cities-v2.webp"
+},
+    coordinates: { lat: 50.4111, lng: 25.75 },
+    description: {
+      de: "Dubno ist eine historische Stadt am Fluss Ikwa, berühmt für ihre mächtige Festung der Familie Ostrogski.",
+      hu: "Dubno egy történelmi város az Ikva-folyó mentén, amely az Osztrogszki család hatalmas erődítményéről híres.",
+      ro: "Dubno este un oraș istoric pe râul Ikva, faimos pentru cetatea sa impunătoare a familiei Ostrogski.",
+      en: "Dubno is a historic city on the Ikva River, famous for its powerful fortress belonging to the Ostrogski family.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1100", "Einwohner: ca. 37.000", "Burg von Dubno", "Region: Oblast Rivne"],
+      hu: ["Első említés: 1100", "Lakosság: kb. 37 000", "Dubnói vár", "Régió: Rivnei terület"],
+      ro: ["Prima atestare: 1100", "Populație: cca. 37.000", "Castelul din Dubno", "Regiune: Regiunea Rivne"],
+      en: ["First mentioned: 1100", "Population: ~37,000", "Dubno Castle", "Region: Rivne Oblast"],
+    },
+    imageHint: "Dubno Castle fortifications and entrance",
+  },
+  {
+    id: "ukraine-khust-cities-v2",
+    type: "city",
+    name: { de: "Chust", hu: "Huszt", ro: "Hust", en: "Khust",
+image: "/poi-images/ukraine-khust-cities-v2.webp"
+},
+    coordinates: { lat: 48.1744, lng: 23.2989 },
+    description: {
+      de: "Chust ist eine historische Stadt in Transkarpatien, am Fuße eines Berges mit den Ruinen einer mittelalterlichen Burg.",
+      hu: "Huszt egy történelmi város Kárpátalján, egy középkori vár romjaival koronázott hegy lábánál.",
+      ro: "Hust este un oraș istoric în Transcarpatia, situat la poalele unui munte cu ruinele unei cetăți medievale.",
+      en: "Khust is a historic city in Transcarpathia, located at the foot of a mountain crowned with medieval castle ruins.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1090", "Einwohner: ca. 28.000", "Region: Transkarpatien", "Ruinen der Burg Chust"],
+      hu: ["Első említés: 1090", "Lakosság: kb. 28 000", "Régió: Kárpátalja", "Huszti vár romjai"],
+      ro: ["Prima atestare: 1090", "Populație: cca. 28.000", "Regiune: Transcarpatia", "Ruinele cetății Hust"],
+      en: ["First mentioned: 1090", "Population: ~28,000", "Region: Transcarpathia", "Ruins of Khust Castle"],
+    },
+    imageHint: "Khust castle ruins on the hill",
+  },
+  {
+    id: "ukraine-berehove-cities-v2",
+    type: "city",
+    name: { de: "Berehowe", hu: "Beregszász", ro: "Beregovo", en: "Berehove",
+image: "/poi-images/ukraine-berehove-cities-v2.webp"
+},
+    coordinates: { lat: 48.2058, lng: 22.645 },
+    description: {
+      de: "Berehowe ist das kulturelle Zentrum der ungarischen Minderheit in Transkarpatien, berühmt für seine Thermalbäder und Weine.",
+      hu: "Beregszász a kárpátaljai magyar kisebbség kulturális központja, híres termálfürdőiről és borairól.",
+      ro: "Beregovo este centrul cultural al minorității maghiare din Transcarpatia, faimos pentru băile termale și vinurile sale.",
+      en: "Berehove is the cultural center of the Hungarian minority in Transcarpathia, famous for its thermal baths and wines.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1063", "Einwohner: ca. 23.000", "Thermalquellen", "Zentrum des Weinbaus"],
+      hu: ["Első említés: 1063", "Lakosság: kb. 23 000", "Termálforrások", "Bortermelés központja"],
+      ro: ["Prima atestare: 1063", "Populație: cca. 23.000", "Izvoare termale", "Centru al viticulturii"],
+      en: ["First mentioned: 1063", "Population: ~23,000", "Thermal springs", "Center of viticulture"],
+    },
+    imageHint: "Berehove thermal pool outdoors",
+  },
+  {
+    id: "ukraine-vynohradiv-cities-v2",
+    type: "city",
+    name: { de: "Wynohradiw", hu: "Nagyszőlős", ro: "Vinogradiv", en: "Vynohradiv",
+image: "/poi-images/ukraine-vynohradiv-cities-v2.webp"
+},
+    coordinates: { lat: 48.1436, lng: 23.0333 },
+    description: {
+      de: "Wynohradiw ist eine sonnige Stadt in Transkarpatien, bekannt für ihren Weinanbau und die Ruinen der Kankiw-Burg am Schwarzen Berg.",
+      hu: "Nagyszőlős egy napsütötte kárpátaljai város, híres bortermeléséről és a Fekete-hegyen álló Kankó-vár romjairól.",
+      ro: "Vinogradiv este un oraș însorit în Transcarpatia, cunoscut pentru viticultură și ruinele cetății Kankiv de pe Muntele Negru.",
+      en: "Vynohradiv is a sunny city in Transcarpathia, known for its viticulture and the ruins of Kankiv Castle on the Black Mountain.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1262", "Einwohner: ca. 25.000", "Region: Transkarpatien", "Zentrum des Weinbaus"],
+      hu: ["Első említés: 1262", "Lakosság: kb. 25 000", "Régió: Kárpátalja", "Bortermelés központja"],
+      ro: ["Prima atestare: 1262", "Populație: cca. 25.000", "Regiune: Transcarpatia", "Centru al viticulturii"],
+      en: ["First mentioned: 1262", "Population: ~25,000", "Region: Transcarpathia", "Viticulture center"],
+    },
+    imageHint: "Perenyi Palace in Vynohradiv",
+  },
+  {
+    id: "ukraine-chortkiv-cities-v2",
+    type: "city",
+    name: { de: "Tschortkiw", hu: "Csortkiv", ro: "Ciortkiv", en: "Chortkiv",
+image: "/poi-images/ukraine-chortkiv-cities-v2.webp"
+},
+    coordinates: { lat: 49.0167, lng: 25.8 },
+    description: {
+      de: "Tschortkiw ist eine historische Stadt in der Oblast Ternopil, bekannt für ihre monumentale Dominikanerkirche und die Burgruine.",
+      hu: "Csortkiv egy történelmi város a Ternopili területen, monumentális dominikánus templomáról és várromjáról nevezetes.",
+      ro: "Ciortkiv este un oraș istoric în regiunea Ternopil, remarcat pentru biserica dominicană monumentală și ruinele cetății.",
+      en: "Chortkiv is a historic city in the Ternopil Oblast, notable for its monumental Dominican church and castle ruins.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1422", "Einwohner: ca. 28.000", "Dominikanerkirche", "Fluss: Seret"],
+      hu: ["Első említés: 1422", "Lakosság: kb. 28 000", "Dominikánus templom", "Folyó: Szeret"],
+      ro: ["Prima atestare: 1422", "Populație: cca. 28.000", "Biserica Dominicană", "Râu: Seret"],
+      en: ["First mentioned: 1422", "Population: ~28,000", "Dominican Church", "River: Seret"],
+    },
+    imageHint: "Chortkiv Dominican Church Neo-Gothic architecture",
+  },
+  {
+    id: "ukraine-berezhany-cities-v2",
+    type: "city",
+    name: { de: "Bereschany", hu: "Berezsany", ro: "Berejanî", en: "Berezhany",
+image: "/poi-images/ukraine-berezhany-cities-v2.webp"
+},
+    coordinates: { lat: 49.4444, lng: 24.9389 },
+    description: {
+      de: "Bereschany ist eine historische Stadt am Fluss Solota Lypa, bekannt für ihre Renaissance-Burg und den Marktplatz.",
+      hu: "Berezsany egy történelmi város az Arany-Lipa folyó mentén, reneszánsz váráról és főteréről nevezetes.",
+      ro: "Berejanî este un oraș istoric pe râul Lipa Aurie, cunoscut pentru cetatea sa renascentistă și piața centrală.",
+      en: "Berezhany is a historic city on the Zolota Lypa River, famous for its Renaissance castle and market square.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1375", "Einwohner: ca. 17.000", "Renaissance-Burg", "Region: Oblast Ternopil"],
+      hu: ["Első említés: 1375", "Lakosság: kb. 17 000", "Reneszánsz vár", "Régió: Ternopili terület"],
+      ro: ["Prima atestare: 1375", "Populație: cca. 17.000", "Cetate renascentistă", "Regiune: Regiunea Ternopil"],
+      en: ["First mentioned: 1375", "Population: ~17,000", "Renaissance Castle", "Region: Ternopil Oblast"],
+    },
+    imageHint: "Berezhany Castle Renaissance courtyard",
+  },
+  {
+    id: "ukraine-kremenets-cities-v2",
+    type: "city",
+    name: { de: "Kremenez", hu: "Kremenyec", ro: "Kremeneț", en: "Kremenets",
+image: "/poi-images/ukraine-kremenets-cities-v2.webp"
+},
+    coordinates: { lat: 50.1, lng: 25.7333 },
+    description: {
+      de: "Kremenez ist eine malerische Stadt in Wolhynien, dominiert von der Ruine der Burg Bona Sforza auf einem hohen Hügel.",
+      hu: "Kremenyec egy festői volhíniai város, amelyet a Bona Sforza-vár romjai uralnak egy magas dombtetőn.",
+      ro: "Kremeneț este un oraș pitoresc în Volînia, dominat de ruinele cetății Bona Sforza pe un deal înalt.",
+      en: "Kremenets is a picturesque city in Volhynia, dominated by the ruins of the Bona Sforza castle on a high hill.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1227", "Einwohner: ca. 20.000", "Burg Bona Sforza", "Jesuitenkollegium"],
+      hu: ["Első említés: 1227", "Lakosság: kb. 20 000", "Bona Sforza vára", "Jezsuita kollégium"],
+      ro: ["Prima atestare: 1227", "Populație: cca. 20.000", "Cetatea Bona Sforza", "Colegiul Iezuit"],
+      en: ["First mentioned: 1227", "Population: ~20,000", "Bona Sforza Castle", "Jesuit Collegium"],
+    },
+    imageHint: "Kremenets Jesuit Collegium and church complex",
+  },
+  {
+    id: "ukraine-zolochiv-cities-v2",
+    type: "city",
+    name: { de: "Solotschiw", hu: "Zolocsiv", ro: "Zolociv", en: "Zolochiv",
+image: "/poi-images/ukraine-zolochiv-cities-v2.webp"
+},
+    coordinates: { lat: 49.8058, lng: 24.9042 },
+    description: {
+      de: "Solotschiw ist eine historische Stadt in der Oblast Lemberg, bekannt für ihre gut erhaltene Burg mit einem einzigartigen Chinesischen Palast.",
+      hu: "Zolocsiv egy történelmi város a Lvivi területen, jól megőrzött váráról és az egyedülálló Kínai palotájáról nevezetes.",
+      ro: "Zolociv este un oraș istoric în regiunea Liov, cunoscut pentru cetatea sa bine conservată și Palatul Chinezesc unic.",
+      en: "Zolochiv is a historic city in the Lviv Oblast, famous for its well-preserved castle featuring a unique Chinese Palace.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1423", "Einwohner: ca. 24.000", "Burg von Solotschiw", "Chinesischer Palast"],
+      hu: ["Első említés: 1423", "Lakosság: kb. 24 000", "Zolocsivi vár", "Kínai palota"],
+      ro: ["Prima atestare: 1423", "Populație: cca. 24.000", "Castelul din Zolociv", "Palatul Chinezesc"],
+      en: ["First mentioned: 1423", "Population: ~24,000", "Zolochiv Castle", "Chinese Palace"],
+    },
+    imageHint: "Zolochiv Castle Chinese Palace pink building",
+  },
+  {
+    id: "ukraine-brody-cities-v2",
+    type: "city",
+    name: { de: "Brody", hu: "Brodi", ro: "Brody", en: "Brody",
+image: "/poi-images/ukraine-brody-cities-v2.webp"
+},
+    coordinates: { lat: 50.0833, lng: 25.15 },
+    description: {
+      de: "Brody ist eine historische Stadt an der Grenze zwischen Galizien und Wolhynien, einst ein bedeutendes Handelszentrum.",
+      hu: "Brodi egy történelmi város Galícia és Volhínia határán, egykor jelentős kereskedelmi központ volt.",
+      ro: "Brody este un oraș istoric la granița dintre Galiția și Volînia, fiind cândva un important centru comercial.",
+      en: "Brody is a historic city on the border of Galicia and Volhynia, once a significant international trade hub.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1084", "Einwohner: ca. 23.000", "Burg von Brody", "Handelsstadt"],
+      hu: ["Első említés: 1084", "Lakosság: kb. 23 000", "Brodi vár", "Kereskedőváros"],
+      ro: ["Prima atestare: 1084", "Populație: cca. 23.000", "Cetatea din Brody", "Oraș comercial"],
+      en: ["First mentioned: 1084", "Population: ~23,000", "Brody Castle", "Merchant city"],
+    },
+    imageHint: "Brody Great Synagogue ruins",
+  },
+  {
+    id: "ukraine-myrhorod-cities-v2",
+    type: "city",
+    name: { de: "Myrhorod", hu: "Mirhorod", ro: "Mirhorod", en: "Myrhorod",
+image: "/poi-images/ukraine-myrhorod-cities-v2.webp"
+},
+    coordinates: { lat: 49.965, lng: 33.6117 },
+    description: {
+      de: "Myrhorod ist einer der bekanntesten Kurorte der Ukraine, berühmt für sein Mineralwasser und die literarischen Bezüge zu Nikolai Gogol.",
+      hu: "Mirhorod Ukrajna egyik legismertebb üdülővárosa, híres ásványvizéről és Nyikolaj Gogol irodalmi műveiről.",
+      ro: "Mirhorod este una dintre cele mai renumite stațiuni din Ucraina, faimoasă pentru apele minerale și referințele la Nikolai Gogol.",
+      en: "Myrhorod is one of Ukraine's most famous spa resorts, renowned for its mineral water and literary connections to Nikolai Gogol.",
+    },
+    facts: {
+      de: ["Gegründet: 1575", "Einwohner: ca. 38.000", "Mineralwasser-Kurort", "Fluss: Chorol"],
+      hu: ["Alapítás: 1575", "Lakosság: kb. 38 000", "Ásványvizes gyógyhely", "Folyó: Horol"],
+      ro: ["Fondat: 1575", "Populație: cca. 38.000", "Stațiune balneară", "Râu: Horol"],
+      en: ["Founded: 1575", "Population: ~38,000", "Mineral water resort", "River: Khorol"],
+    },
+    imageHint: "Myrhorod spa resort park with Gogol sculptures",
+  },
+  {
+    id: "ukraine-hadiach-cities-v2",
+    type: "city",
+    name: { de: "Hadjatsch", hu: "Hagyics", ro: "Hadiaci", en: "Hadiach",
+image: "/poi-images/ukraine-hadiach-cities-v2.webp"
+},
+    coordinates: { lat: 50.3667, lng: 33.9833 },
+    description: {
+      de: "Hadjatsch ist eine historische Kosakenstadt in der Oblast Poltawa und ein bedeutendes Zentrum des Chassidismus.",
+      hu: "Hagyics egy történelmi kozák város a Poltavai területen, a haszidizmus egyik jelentős központja.",
+      ro: "Hadiaci este un oraș istoric al cazacilor în regiunea Poltava și un centru important al hasidismului.",
+      en: "Hadiach is a historic Cossack city in the Poltava Oblast and a major center of Hasidism.",
+    },
+    facts: {
+      de: ["Gegründet: 1533", "Einwohner: ca. 23.000", "Hetman-Residenz", "Grab von Shneur Zalman"],
+      hu: ["Alapítás: 1533", "Lakosság: kb. 23 000", "Hetman-rezidencia", "Sneur Zalman sírja"],
+      ro: ["Fondat: 1533", "Populație: cca. 23.000", "Reședință de hatman", "Mormântul lui Shneur Zalman"],
+      en: ["Founded: 1533", "Population: ~23,000", "Hetman residence", "Tomb of Shneur Zalman"],
+    },
+    imageHint: "Hadiach tomb of Shneur Zalman and synagogue",
+  },
+  {
+    id: "ukraine-okhtyrka-cities-v2",
+    type: "city",
+    name: { de: "Ochtyrka", hu: "Ohtirka", ro: "Ohtîrka", en: "Okhtyrka",
+image: "/poi-images/ukraine-okhtyrka-cities-v2.webp"
+},
+    coordinates: { lat: 50.3117, lng: 34.8989 },
+    description: {
+      de: "Ochtyrka ist eine historische Stadt in der Oblast Sumy, bekannt für ihre prächtige Mariä-Schutz-Kathedrale und ihre militärische Tradition.",
+      hu: "Ohtirka egy történelmi város a Szumi területen, pompás Pokrova-székesegyházáról és katonai hagyományairól nevezetes.",
+      ro: "Ohtîrka este un oraș istoric în regiunea Sumî, cunoscut pentru magnifica sa Catedrală Pokrova și tradiția militară.",
+      en: "Okhtyrka is a historic city in the Sumy Oblast, famous for its magnificent Pokrova Cathedral and military traditions.",
+    },
+    facts: {
+      de: ["Gegründet: 1641", "Einwohner: ca. 47.000", "Mariä-Schutz-Kathedrale", "Region: Oblast Sumy"],
+      hu: ["Alapítás: 1641", "Lakosság: kb. 47 000", "Pokrova-székesegyház", "Régió: Szumi terület"],
+      ro: ["Fondat: 1641", "Populație: cca. 47.000", "Catedrala Pokrova", "Regiune: Regiunea Sumî"],
+      en: ["Founded: 1641", "Population: ~47,000", "Pokrova Cathedral", "Region: Sumy Oblast"],
+    },
+    imageHint: "Okhtyrka Pokrova Cathedral blue architecture",
+  },
+  {
+    id: "ukraine-romny-cities-v2",
+    type: "city",
+    name: { de: "Romny", hu: "Romni", ro: "Romnî", en: "Romny",
+image: "/poi-images/ukraine-romny-cities-v2.webp"
+},
+    coordinates: { lat: 50.75, lng: 33.4833 },
+    description: {
+      de: "Romny ist eine alte Stadt am Fluss Sula, die bereits in der Chronik von Wladimir Monomach erwähnt wurde.",
+      hu: "Romni egy ősi város a Szula-folyó mentén, amelyet már Vlagyimir Monomah krónikáiban is említenek.",
+      ro: "Romnî este un oraș vechi pe râul Sula, menționat deja în cronicile lui Vladimir Monomah.",
+      en: "Romny is an ancient city on the Sula River, already mentioned in the chronicles of Vladimir Monomakh.",
+    },
+    facts: {
+      de: ["Ersterwähnung: 1096", "Einwohner: ca. 38.000", "Region: Oblast Sumy", "Handelsgeschichte"],
+      hu: ["Első említés: 1096", "Lakosság: kb. 38 000", "Régió: Szumi terület", "Kereskedelmi múlt"],
+      ro: ["Prima atestare: 1096", "Populație: cca. 38.000", "Regiune: Regiunea Sumî", "Istorie comercială"],
+      en: ["First mentioned: 1096", "Population: ~38,000", "Region: Sumy Oblast", "History of trade"],
+    },
+    imageHint: "Romny Taras Shevchenko monument 1918",
+  },
+  {
+    id: "ukraine-kupiansk-cities-v2",
+    type: "city",
+    name: { de: "Kupjansk", hu: "Kupjanszk", ro: "Kupeansk", en: "Kupiansk",
+image: "/poi-images/ukraine-kupiansk-cities-v2.webp"
+},
+    coordinates: { lat: 49.7117, lng: 37.6167 },
+    description: {
+      de: "Kupjansk ist eine wichtige Eisenbahnstadt am Fluss Oskil im Osten der Oblast Charkiw.",
+      hu: "Kupjanszk egy fontos vasúti város az Oszkil-folyó mentén, a Harkivi terület keleti részén.",
+      ro: "Kupeansk este un oraș feroviar important pe râul Oskil, în estul regiunii Harkiv.",
+      en: "Kupiansk is a major railway city located on the Oskil River in the eastern part of Kharkiv Oblast.",
+    },
+    facts: {
+      de: ["Gegründet: 1655", "Einwohner: ca. 27.000", "Eisenbahnknotenpunkt", "Fluss: Oskil"],
+      hu: ["Alapítás: 1655", "Lakosság: kb. 27 000", "Vasúti csomópont", "Folyó: Oszkil"],
+      ro: ["Fondat: 1655", "Populație: cca. 27.000", "Nod feroviar", "Râu: Oskil"],
+      en: ["Founded: 1655", "Population: ~27,000", "Railway junction", "River: Oskil"],
+    },
+    imageHint: "Kupiansk railway station aerial view",
+  },
+  {
+    id: "ukraine-balakliia-cities-v2",
+    type: "city",
+    name: { de: "Balaklija", hu: "Balaklija", ro: "Balakliia", en: "Balakliia",
+image: "/poi-images/ukraine-balakliia-cities-v2.webp"
+},
+    coordinates: { lat: 49.45, lng: 36.85 },
+    description: {
+      de: "Balaklija ist eine Industriestadt in der Oblast Charkiw am Zusammenfluss der Flüsse Donez und Balaklijka.",
+      hu: "Balaklija egy ipari város a Harkivi területen, a Donyec és a Balaklijka folyók találkozásánál.",
+      ro: "Balakliia este un oraș industrial în regiunea Harkiv, la confluența râurilor Doneț și Balakliika.",
+      en: "Balakliia is an industrial city in the Kharkiv Oblast located at the confluence of the Donets and Balakliika rivers.",
+    },
+    facts: {
+      de: ["Gegründet: 1663", "Einwohner: ca. 26.000", "Region: Oblast Charkiw", "Zementindustrie"],
+      hu: ["Alapítás: 1663", "Lakosság: kb. 26 000", "Régió: Harkivi terület", "Cementipar"],
+      ro: ["Fondat: 1663", "Populație: cca. 26.000", "Regiune: Regiunea Harkiv", "Industria cimentului"],
+      en: ["Founded: 1663", "Population: ~26,000", "Region: Kharkiv Oblast", "Cement industry center"],
+    },
+    imageHint: "Balakliia city center administration building",
+  },
+  {
+    id: "ukraine-volnovakha-cities-v2",
+    type: "city",
+    name: { de: "Wolnowacha", hu: "Volnovaha", ro: "Volnovaha", en: "Volnovakha",
+image: "/poi-images/ukraine-volnovakha-cities-v2.webp"
+},
+    coordinates: { lat: 47.5983, lng: 37.4917 },
+    description: {
+      de: "Wolnowacha ist eine strategische Stadt in der Oblast Donezk, bekannt als wichtiger Eisenbahnknotenpunkt auf einer Anhöhe.",
+      hu: "Volnovaha egy stratégiai fontosságú város a Donecki területen, jelentős vasúti csomópont egy magaslaton.",
+      ro: "Volnovaha este un oraș strategic în regiunea Donețk, cunoscut ca un nod feroviar important situat pe o înălțime.",
+      en: "Volnovakha is a strategic city in the Donetsk Oblast, known as a major railway junction located on an elevation.",
+    },
+    facts: {
+      de: ["Gegründet: 1881", "Einwohner: ca. 21.000", "Eisenbahnknotenpunkt", "Höchster Punkt im Donbass"],
+      hu: ["Alapítás: 1881", "Lakosság: kb. 21 000", "Vasúti csomópont", "A Donyec-medence legmagasabb pontja"],
+      ro: ["Fondat: 1881", "Populație: cca. 21.000", "Nod feroviar important", "Cel mai înalt punct din Donbas"],
+      en: ["Founded: 1881", "Population: ~21,000", "Major railway hub", "Highest point in the Donbas region"],
+    },
+    imageHint: "Volnovakha railway station building and square",
+  },
+  {
+    id: "ukraine-lyman-cities-v2",
+    type: "city",
+    name: { de: "Lyman", hu: "Liman", ro: "Lîman", en: "Lyman",
+image: "/poi-images/ukraine-lyman-cities-v2.webp"
+},
+    coordinates: { lat: 48.9856, lng: 37.8106 },
+    description: {
+      de: "Lyman ist eine Stadt in der Oblast Donezk, umgeben von dichten Nadelwäldern und zahlreichen Seen.",
+      hu: "Liman egy város a Donecki területen, sűrű fenyőerdőkkel és számos tóval körülvéve.",
+      ro: "Lîman este un oraș în regiunea Donețk, înconjurat de păduri de conifere dese și numeroase lacuri.",
+      en: "Lyman is a city in the Donetsk Oblast, surrounded by dense coniferous forests and numerous lakes.",
+    },
+    facts: {
+      de: ["Gegründet: 1667", "Einwohner: ca. 20.000", "Eisenbahnknotenpunkt", "Blaue Seen in der Nähe"],
+      hu: ["Alapítás: 1667", "Lakosság: kb. 20 000", "Vasúti csomópont", "Kék tavak a közelben"],
+      ro: ["Fondat: 1667", "Populație: cca. 20.000", "Nod feroviar", "Lacurile Albastre în apropiere"],
+      en: ["Founded: 1667", "Population: ~20,000", "Railway junction", "Blue Lakes nearby"],
+    },
+    imageHint: "Lyman pine forests and lakes aerial",
+  },
+  {
+    id: "ukraine-avdiivka-cities-v2",
+    type: "city",
+    name: { de: "Awdijiwka", hu: "Avgyijivka", ro: "Avdiivka", en: "Avdiivka",
+image: "/poi-images/ukraine-avdiivka-cities-v2.webp"
+},
+    coordinates: { lat: 48.1367, lng: 37.75 },
+    description: {
+      de: "Awdijiwka ist eine Industriestadt nördlich von Donezk, Heimat einer der größten Kokereien Europas.",
+      hu: "Avgyijivka egy ipari város Donecktől északra, Európa egyik legnagyobb koxművének otthona.",
+      ro: "Avdiivka este un oraș industrial la nord de Donețk, găzduind una dintre cele mai mari cocserii din Europa.",
+      en: "Avdiivka is an industrial city north of Donetsk, home to one of the largest coke-chemical plants in Europe.",
+    },
+    facts: {
+      de: ["Gegründet: 1778", "Einwohner: ca. 31.000", "Kokerei-Zentrum", "Region: Oblast Donezk"],
+      hu: ["Alapítás: 1778", "Lakosság: kb. 31 000", "Koxgyártási központ", "Régió: Donecki terület"],
+      ro: ["Fondat: 1778", "Populație: cca. 31.000", "Centru al producției de cocs", "Regiune: Regiunea Donețk"],
+      en: ["Founded: 1778", "Population: ~31,000", "Coke industry center", "Region: Donetsk Oblast"],
+    },
+    imageHint: "Avdiivka coke plant industrial facility",
+  },
+  {
+    id: "ukraine-popasna-cities-v2",
+    type: "city",
+    name: { de: "Popasna", hu: "Popaszna", ro: "Popasna", en: "Popasna",
+image: "/poi-images/ukraine-popasna-cities-v2.webp"
+},
+    coordinates: { lat: 48.6333, lng: 38.3667 },
+    description: {
+      de: "Popasna ist eine Industriestadt in der Oblast Luhansk, die als wichtiger Eisenbahnknotenpunkt und Zentrum für Waggonbau bekannt ist.",
+      hu: "Popaszna egy ipari város a Luhanszki területen, fontos vasúti csomópont és vagonépítő központ.",
+      ro: "Popasna este un oraș industrial în regiunea Luhansk, cunoscut ca un nod feroviar important și centru pentru construcția de vagoane.",
+      en: "Popasna is an industrial city in the Luhansk Oblast, known as a major railway junction and center for railway car manufacturing.",
+    },
+    facts: {
+      de: ["Gegründet: 1878", "Einwohner: ca. 20.000", "Region: Oblast Luhansk", "Waggonfabrik"],
+      hu: ["Alapítás: 1878", "Lakosság: kb. 20 000", "Régió: Luhanszki terület", "Vagonjavító üzem"],
+      ro: ["Fondat: 1878", "Populație: cca. 20.000", "Regiune: Regiunea Luhansk", "Fabrică de vagoane"],
+      en: ["Founded: 1878", "Population: ~20,000", "Region: Luhansk Oblast", "Railway car plant"],
+    },
+    imageHint: "Popasna railway station before 2022",
+  },
+  {
+    id: "ukraine-merefa-cities-v2",
+    type: "city",
+    name: { de: "Merefa", hu: "Merefa", ro: "Merefa", en: "Merefa",
+image: "/poi-images/ukraine-merefa-cities-v2.webp"
+},
+    coordinates: { lat: 49.82, lng: 36.05 },
+    description: {
+      de: "Merefa ist eine historische Stadt südlich von Charkiw, berühmt als möglicher Geburtsort des legendären Kosakenführers Iwan Sirko.",
+      hu: "Merefa egy történelmi város Harkivtól délre, a legendás kozák vezér, Ivan Szirko feltételezett szülőhelyeként híres.",
+      ro: "Merefa este un oraș istoric la sud de Harkiv, faimos ca posibil loc de naștere al legendarului lider cazac Ivan Sirko.",
+      en: "Merefa is a historic city south of Kharkiv, famous as the likely birthplace of the legendary Cossack leader Ivan Sirko.",
+    },
+    facts: {
+      de: ["Gegründet: 1595", "Einwohner: ca. 21.000", "Region: Oblast Charkiw", "Glasindustrie"],
+      hu: ["Alapítás: 1595", "Lakosság: kb. 21 000", "Régió: Harkivi terület", "Üvegipar"],
+      ro: ["Fondat: 1595", "Populație: cca. 21.000", "Regiune: Regiunea Harkiv", "Industria sticlei"],
+      en: ["Founded: 1595", "Population: ~21,000", "Region: Kharkiv Oblast", "Glass manufacturing"],
+    },
+    imageHint: "Merefa Ivan Sirko monument in city center",
+  },
+  {
+    id: "ukraine-vilniansk-cities-v2",
+    type: "city",
+    name: { de: "Wilniansk", hu: "Vilnyanszk", ro: "Vilneansk", en: "Vilniansk",
+image: "/poi-images/ukraine-vilniansk-cities-v2.webp"
+},
+    coordinates: { lat: 47.9408, lng: 35.4358 },
+    description: {
+      de: "Wilniansk ist eine Stadt in der Oblast Saporischschja, die im 19. Jahrhundert als Eisenbahnstation gegründet wurde.",
+      hu: "Vilnyanszk egy város a Zaporizzsjai területen, amelyet a 19. században vasútállomásként alapítottak.",
+      ro: "Vilneansk este un oraș în regiunea Zaporojie, înființat în secolul al XIX-lea ca gară feroviară.",
+      en: "Vilniansk is a city in the Zaporizhzhia Oblast, established in the 19th century as a railway station.",
+    },
+    facts: {
+      de: ["Gegründet: 1840", "Einwohner: ca. 14.000", "Region: Oblast Saporischschja", "Maschinenbau"],
+      hu: ["Alapítás: 1840", "Lakosság: kb. 14 000", "Régió: Zaporizzsjai terület", "Gépipar"],
+      ro: ["Fondat: 1840", "Populație: cca. 14.000", "Regiune: Regiunea Zaporojie", "Construcția de mașini"],
+      en: ["Founded: 1840", "Population: ~14,000", "Region: Zaporizhzhia Oblast", "Machinery industry"],
+    },
+    imageHint: "Vilniansk town square and monument",
+  },
+  {
+    id: "ukraine-orikhiv-cities-v2",
+    type: "city",
+    name: { de: "Orichiw", hu: "Orihiv", ro: "Orihiv", en: "Orikhiv",
+image: "/poi-images/ukraine-orikhiv-cities-v2.webp"
+},
+    coordinates: { lat: 47.5667, lng: 35.7833 },
+    description: {
+      de: "Orichiw ist eine Stadt in der Oblast Saporischschja, gelegen am Ufer des Flusses Kinska.",
+      hu: "Orihiv egy város a Zaporizzsjai területen, a Kinszka-folyó partján fekszik.",
+      ro: "Orihiv este un oraș în regiunea Zaporojie, situat pe malul râului Kinska.",
+      en: "Orikhiv is a city in the Zaporizhzhia Oblast, situated on the banks of the Kinska River.",
+    },
+    facts: {
+      de: ["Gegründet: 1783", "Einwohner: ca. 14.000", "Region: Oblast Saporischschja", "Landwirtschaftszentrum"],
+      hu: ["Alapítás: 1783", "Lakosság: kb. 14 000", "Régió: Zaporizzsjai terület", "Mezőgazdasági központ"],
+      ro: ["Fondat: 1783", "Populație: cca. 14.000", "Regiune: Regiunea Zaporojie", "Centru agricol"],
+      en: ["Founded: 1783", "Population: ~14,000", "Region: Zaporizhzhia Oblast", "Agricultural center"],
+    },
+    imageHint: "Orikhiv historic building and town center",
+  },
+  {
+    id: "ukraine-polohy-cities-v2",
+    type: "city",
+    name: { de: "Polohy", hu: "Polohi", ro: "Polohî", en: "Polohy",
+image: "/poi-images/ukraine-polohy-cities-v2.webp"
+},
+    coordinates: { lat: 47.4817, lng: 36.2525 },
+    description: {
+      de: "Polohy ist eine Industriestadt in der Oblast Saporischschja, bekannt für den Abbau von Kaolin und feuerfestem Ton.",
+      hu: "Polohi egy ipari város a Zaporizzsjai területen, kaolinbányászatáról és tűzálló agyagáról ismert.",
+      ro: "Polohî este un oraș industrial în regiunea Zaporojie, cunoscut pentru extracția de caolin și argilă refractară.",
+      en: "Polohy is an industrial city in the Zaporizhzhia Oblast, known for its mining of kaolin and refractory clay.",
+    },
+    facts: {
+      de: ["Gegründet: 1887", "Einwohner: ca. 18.000", "Eisenbahnknotenpunkt", "Kaolin-Bergbau"],
+      hu: ["Alapítás: 1887", "Lakosság: kb. 18 000", "Vasúti csomópont", "Kaolinbányászat"],
+      ro: ["Fondat: 1887", "Populație: cca. 18.000", "Nod feroviar", "Extracția caolinului"],
+      en: ["Founded: 1887", "Population: ~18,000", "Railway junction", "Kaolin mining center"],
+    },
+    imageHint: "Polohy kaolin quarry and mining site",
+  },
+  {
+    id: "ukraine-tokmak-cities-v2",
+    type: "city",
+    name: { de: "Tokmak", hu: "Tokmak", ro: "Tokmak", en: "Tokmak",
+image: "/poi-images/ukraine-tokmak-cities-v2.webp"
+},
+    coordinates: { lat: 47.2483, lng: 35.7033 },
+    description: {
+      de: "Tokmak ist eine Industriestadt in der Oblast Saporischschja am Fluss Molotschna, ein historisches Zentrum des Maschinenbaus.",
+      hu: "Tokmak egy ipari város a Zaporizzsjai területen, a Molocsna-folyó mentén, a gépgyártás történelmi központja.",
+      ro: "Tokmak este un oraș industrial în regiunea Zaporojie, pe râul Molocina, fiind un centru istoric al construcției de mașini.",
+      en: "Tokmak is an industrial city in the Zaporizhzhia Oblast on the Molochna River, a historic center for machinery manufacturing.",
+    },
+    facts: {
+      de: ["Gegründet: 1784", "Einwohner: ca. 30.000", "Region: Oblast Saporischschja", "Dieselmotoren-Produktion"],
+      hu: ["Alapítás: 1784", "Lakosság: kb. 30 000", "Régió: Zaporizzsjai terület", "Dízelmotorgyártás"],
+      ro: ["Fondat: 1784", "Populație: cca. 30.000", "Regiune: Regiunea Zaporojie", "Producția de motoare diesel"],
+      en: ["Founded: 1784", "Population: ~30,000", "Region: Zaporizhzhia Oblast", "Diesel engine production"],
+    },
+    imageHint: "Tokmak city center and industrial monument",
   }
 ];

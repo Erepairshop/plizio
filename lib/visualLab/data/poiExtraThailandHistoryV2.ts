@@ -11,8 +11,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Tempel der Morgenröte (Wat Arun)",
       hu: "A Hajnal Temploma (Wat Arun)",
       ro: "Templul Zorilor (Wat Arun)",
-      en: "Temple of Dawn (Wat Arun)"
-    },
+      en: "Temple of Dawn (Wat Arun)",
+image: "/poi-images/wat-arun-temple-history-v2.webp"
+},
     description: {
       de: "Ein buddhistischer Tempel in Bangkok, dessen zentraler Prang mit Porzellan und Keramikstücken verziert ist, die in der Sonne glänzen.",
       hu: "Egy buddhista templom Bangkokban, melynek központi prangját a napfényben csillogó porcelán- és kerámiadarabok díszítik.",
@@ -46,8 +47,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Großer Palast",
       hu: "Nagy Palota",
       ro: "Marele Palat",
-      en: "Grand Palace"
-    },
+      en: "Grand Palace",
+image: "/poi-images/grand-palace-bangkok-history-v2.webp"
+},
     description: {
       de: "Ein Komplex von Gebäuden im Herzen von Bangkok, der seit 1782 die offizielle Residenz der Könige von Siam (und später Thailand) war.",
       hu: "Épületegyüttes Bangkok szívében, amely 1782 óta a sziámi (később thaiföldi) királyok hivatalos rezidenciája volt.",
@@ -81,8 +83,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Tempel des Liegenden Buddha (Wat Pho)",
       hu: "A Fekvő Buddha Temploma (Wat Pho)",
       ro: "Templul lui Buddha Culcat (Wat Pho)",
-      en: "Temple of the Reclining Buddha (Wat Pho)"
-    },
+      en: "Temple of the Reclining Buddha (Wat Pho)",
+image: "/poi-images/wat-pho-reclining-buddha-history-v2.webp"
+},
     description: {
       de: "Ein Tempelkomplex in Bangkok, berühmt für seine riesige Statue eines liegenden Buddha, die 46 Meter lang ist.",
       hu: "Egy templomkomplexum Bangkokban, amely híres a 46 méter hosszú, hatalmas fekvő Buddha-szobráról.",
@@ -116,8 +119,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Weißer Tempel (Wat Rong Khun)",
       hu: "Fehér Templom (Wat Rong Khun)",
       ro: "Templul Alb (Wat Rong Khun)",
-      en: "White Temple (Wat Rong Khun)"
-    },
+      en: "White Temple (Wat Rong Khun)",
+image: "/poi-images/wat-rong-khun-white-temple-history-v2.webp"
+},
     description: {
       de: "Ein unkonventioneller, zeitgenössischer buddhistischer Tempel in Chiang Rai, der vom Künstler Chalermchai Kositpipat entworfen wurde.",
       hu: "Egy nem szokványos, kortárs buddhista templom Csiangrajban, melyet Chalermchai Kositpipat művész tervezett.",
@@ -151,8 +155,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Heiligtum der Wahrheit",
       hu: "Az Igazság Szentélye",
       ro: "Sanctuarul Adevărului",
-      en: "Sanctuary of Truth"
-    },
+      en: "Sanctuary of Truth",
+image: "/poi-images/sanctuary-of-truth-pattaya-history-v2.webp"
+},
     description: {
       de: "Eine riesige Holzkonstruktion in Pattaya, die vollständig aus Teakholz geschnitzt ist und eine Hommage an alte thailändische Handwerkskunst darstellt.",
       hu: "Egy hatalmas faépítmény Pattayában, teljes egészében tíkfából faragva, amely az ősi thai kézművesség előtt tiszteleg.",
@@ -186,8 +191,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Wat Chetuphon",
       hu: "Wat Chetuphon",
       ro: "Wat Chetuphon",
-      en: "Wat Chetuphon"
-    },
+      en: "Wat Chetuphon",
+image: "/poi-images/wat-chetuphon-wihan-history-v2.webp"
+},
     description: {
       de: "Ein Tempel im Geschichtspark Sukhothai, der für seine vier großen Buddha-Statuen in verschiedenen Haltungen bekannt ist: gehend, stehend, sitzend und liegend.",
       hu: "A Sukhothai Történelmi Park egyik temploma, amely négy, különböző testhelyzetben – sétáló, álló, ülő és fekvő – ábrázolt nagy Buddha-szobráról híres.",
@@ -221,8 +227,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Wat Phra Si Sanphet",
       hu: "Wat Phra Si Sanphet",
       ro: "Wat Phra Si Sanphet",
-      en: "Wat Phra Si Sanphet"
-    },
+      en: "Wat Phra Si Sanphet",
+image: "/poi-images/wat-phra-si-sanphet-history-v2.webp"
+},
     description: {
       de: "Der heiligste Tempel auf dem Gelände des alten Königspalastes in Ayutthaya, der als Vorbild für den Smaragd-Buddha-Tempel in Bangkok diente.",
       hu: "A legszentebb templom az ősi királyi palota területén Ayutthayában, amely a bangkoki Smaragd Buddha templomának mintájául szolgált.",
@@ -256,8 +263,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Wimanmek-Palast",
       hu: "Vimanmek Palota",
       ro: "Palatul Vimanmek",
-      en: "Vimanmek Mansion"
-    },
+      en: "Vimanmek Mansion",
+image: "/poi-images/vimanmek-mansion-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliger königlicher Palast in Bangkok, der als das größte Teakholzgebäude der Welt gilt. Erbaut im Jahr 1900 von König Chulalongkorn (Rama V).",
       hu: "Egykori királyi palota Bangkokban, amelyet a világ legnagyobb tíkfa épületének tartanak. 1900-ban építtette Chulalongkorn király (V. Ráma).",
@@ -291,8 +299,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Wat Sri Chum",
       hu: "Wat Sri Chum",
       ro: "Wat Sri Chum",
-      en: "Wat Sri Chum"
-    },
+      en: "Wat Sri Chum",
+image: "/poi-images/wat-sri-chum-sukhothai-history-v2.webp"
+},
     description: {
       de: "Ein Tempel im Geschichtspark Sukhothai, der eine massive, 15 Meter hohe sitzende Buddha-Statue namens 'Phra Achana' in einem würfelförmigen Mandapa beherbergt.",
       hu: "A Sukhothai Történelmi Park egyik temploma, amely egy hatalmas, 15 méter magas ülő Buddha-szobrot, a 'Phra Achanát' rejti egy kocka alakú mandapában.",
@@ -326,8 +335,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
       de: "Elefantenschlacht von Nong Sarai",
       hu: "A Nong Sarai-i elefántcsata",
       ro: "Bătălia elefanților de la Nong Sarai",
-      en: "Elephant Battle of Nong Sarai"
-    },
+      en: "Elephant Battle of Nong Sarai",
+image: "/poi-images/battle-of-nong-sarai-history-v2.webp"
+},
     description: {
       de: "Eine historische Schlacht im Jahr 1593, bei der König Naresuan von Siam den burmesischen Kronprinzen Mingyi Swa in einem persönlichen Elefantenduell tötete.",
       hu: "Történelmi csata 1593-ban, ahol Naresuan sziámi király egy személyes elefántpárbajban megölte Mingyi Swa burmai trónörököst.",
@@ -361,8 +371,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Wat Kudi Dao",
         hu: "Wat Kudi Dao",
         ro: "Wat Kudi Dao",
-        en: "Wat Kudi Dao"
-    },
+        en: "Wat Kudi Dao",
+image: "/poi-images/wat-cheun-tha-history-v2.webp"
+},
     description: {
         de: "Ein verlassener Tempel in Ayutthaya, bekannt für seine gut erhaltene Architektur im späten Ayutthaya-Stil.",
         hu: "Egy elhagyatott templom Ayutthayában, amely a késői Ayutthaya-stílusú, jó állapotban megmaradt építészetéről ismert.",
@@ -396,8 +407,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Phra Prang Sam Yot",
         hu: "Phra Prang Sam Yot",
         ro: "Phra Prang Sam Yot",
-        en: "Phra Prang Sam Yot"
-    },
+        en: "Phra Prang Sam Yot",
+image: "/poi-images/khmer-ruins-of-lopburi-history-v2.webp"
+},
     description: {
         de: "Ein berühmter Khmer-Tempel in Lopburi, bekannt für seine drei verbundenen Prangs und die große Affenpopulation, die ihn bewohnt.",
         hu: "Egy híres khmer templom Lopburiban, amely három összekapcsolt prangjáról és az azt lakó nagy majompopulációról ismert.",
@@ -431,8 +443,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "König Taksin der Große Denkmal",
         hu: "Nagy Taksin Király Emlékműve",
         ro: "Monumentul Regelui Taksin cel Mare",
-        en: "King Taksin the Great Monument"
-    },
+        en: "King Taksin the Great Monument",
+image: "/poi-images/king-taksin-monument-history-v2.webp"
+},
     description: {
         de: "Ein Denkmal in Chanthaburi, das König Taksin ehrt, der die siamesischen Streitkräfte nach dem Fall von Ayutthaya sammelte und das Königreich Thonburi gründete.",
         hu: "Egy emlékmű Chanthaburiban, amely Taksin király előtt tiszteleg, aki Ayutthaya eleste után összegyűjtötte a sziámi hadakat és megalapította a Thonburi Királyságot.",
@@ -467,8 +480,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Kriegsfriedhof Kanchanaburi",
         hu: "Kanchanaburi Hadifogoly-temető",
         ro: "Cimitirul de Război Kanchanaburi",
-        en: "Kanchanaburi War Cemetery"
-    },
+        en: "Kanchanaburi War Cemetery",
+image: "/poi-images/cemetery-of-allied-prisoners-history-v2.webp"
+},
     description: {
         de: "Der Hauptfriedhof für Opfer des Baus der 'Todesbahn' während des Zweiten Weltkriegs. Er wird von der Commonwealth War Graves Commission unterhalten.",
         hu: "A 'Halálvasút' építése során elhunyt áldozatok fő temetője a második világháború alatt. A Nemzetközösségi Hadisírgondozó Bizottság tartja fenn.",
@@ -502,8 +516,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Wat Phra That Doi Suthep",
         hu: "Wat Phra That Doi Suthep",
         ro: "Wat Phra That Doi Suthep",
-        en: "Wat Phra That Doi Suthep"
-    },
+        en: "Wat Phra That Doi Suthep",
+image: "/poi-images/wat-phra-that-doi-suthep-history-v2.webp"
+},
     description: {
         de: "Ein heiliger buddhistischer Tempel auf dem Berg Doi Suthep bei Chiang Mai. Er ist ein wichtiger Wallfahrtsort für fromme Buddhisten.",
         hu: "Egy szent buddhista templom a Doi Suthep hegyen, Csiangmaj közelében. A hívő buddhisták fontos zarándokhelye.",
@@ -537,8 +552,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Jim-Thompson-Haus",
         hu: "Jim Thompson-ház",
         ro: "Casa Jim Thompson",
-        en: "Jim Thompson House Museum"
-    },
+        en: "Jim Thompson House Museum",
+image: "/poi-images/jim-thompson-house-museum-history-v2.webp"
+},
     description: {
         de: "Ein Museum in Bangkok, das aus einem Komplex von sechs traditionellen thailändischen Teakholzhäusern besteht, die dem amerikanischen Geschäftsmann Jim Thompson gehörten.",
         hu: "Egy múzeum Bangkokban, amely hat hagyományos thai tíkfaház komplexumából áll, és Jim Thompson amerikai üzletember tulajdonában volt.",
@@ -572,8 +588,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Wat Lokayasutharam (Liegender Buddha)",
         hu: "Wat Lokayasutharam (Fekvő Buddha)",
         ro: "Wat Lokayasutharam (Buddha Culcat)",
-        en: "Wat Lokayasutharam (Reclining Buddha)"
-    },
+        en: "Wat Lokayasutharam (Reclining Buddha)",
+image: "/poi-images/wat-lokayasutharam-history-v2.webp"
+},
     description: {
         de: "Die Ruinen eines alten Tempels in Ayutthaya, der für seine riesige, im Freien liegende Buddha-Statue bekannt ist.",
         hu: "Egy ősi templom romjai Ayutthayában, amely a hatalmas, szabadban fekvő Buddha-szobráról ismert.",
@@ -607,8 +624,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Tigerhöhlentempel (Wat Tham Suea)",
         hu: "Tigrisbarlang templom (Wat Tham Suea)",
         ro: "Templul Peșterii Tigrului (Wat Tham Suea)",
-        en: "Tiger Cave Temple (Wat Tham Suea)"
-    },
+        en: "Tiger Cave Temple (Wat Tham Suea)",
+image: "/poi-images/wat-tham-suea-krabi-history-v2.webp"
+},
     description: {
         de: "Ein buddhistischer Tempelkomplex in Krabi, der für seine Tigerpfotenabdrücke in der Höhle, hohe Buddha-Statuen und einen anstrengenden Aufstieg zu einem Gipfelschrein bekannt ist.",
         hu: "Egy buddhista templomkomplexum Krabiban, amely a barlangban található tigris-mancslenyomatokról, magas Buddha-szobrokról és a csúcson lévő szentélyhez vezető megerőltető lépcsősorról ismert.",
@@ -642,8 +660,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Drei-Pagoden-Pass",
         hu: "Három Pagoda-hágó",
         ro: "Trecătoarea celor Trei Pagode",
-        en: "Three Pagodas Pass"
-    },
+        en: "Three Pagodas Pass",
+image: "/poi-images/three-pagodas-pass-history-v2.webp"
+},
     description: {
         de: "Ein Pass im Tenasserim-Gebirge, der Thailand und Myanmar verbindet. Er war historisch eine Hauptroute für burmesische Invasionen nach Siam.",
         hu: "Egy hágó a Tenasserim-hegységben, amely Thaiföldet és Mianmart köti össze. Történelmileg ez volt a burmai inváziók fő útvonala Sziám felé.",
@@ -677,8 +696,9 @@ export const poiExtraThailandHistoryV2: POI[] = [
         de: "Erawan-Museum",
         hu: "Erawan Múzeum",
         ro: "Muzeul Erawan",
-        en: "Erawan Museum"
-    },
+        en: "Erawan Museum",
+image: "/poi-images/erawan-museum-history-v2.webp"
+},
     description: {
         de: "Ein Museum in Samut Prakan, das für seine riesige, dreiköpfige Elefantenstatue bekannt ist. Das Innere enthält Antiquitäten und unbezahlbare religiöse Objekte.",
         hu: "Egy múzeum Szamutprakanban, amely hatalmas, háromfejű elefántszobráról ismert. Belseje régiségeket és felbecsülhetetlen értékű vallási tárgyakat rejt.",

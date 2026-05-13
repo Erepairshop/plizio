@@ -10,8 +10,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Bapco-Raffinerie",
       hu: "Bapco Finomító",
       ro: "Rafinăria Bapco",
-      en: "Bapco Refinery"
-    },
+      en: "Bapco Refinery",
+image: "/poi-images/bahrain-bapco-refinery-economic-v2.webp"
+},
     description: {
       de: "Die Bapco-Raffinerie in Sitra ist eine der ältesten Erdölraffinerien im Nahen Osten und das Rückgrat der bahrainischen Wirtschaft.",
       hu: "A szitrai Bapco finomító a Közel-Kelet egyik legrégebbi olajfinomítója, amely a bahreini gazdaság gerincét alkotja.",
@@ -57,8 +58,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Aluminium Bahrain (ALBA)",
       hu: "Aluminium Bahrain (ALBA)",
       ro: "Aluminium Bahrain (ALBA)",
-      en: "Aluminium Bahrain (ALBA)"
-    },
+      en: "Aluminium Bahrain (ALBA)",
+image: "/poi-images/bahrain-alba-economic-v2.webp"
+},
     description: {
       de: "Alba ist eine der größten Aluminiumhütten der Welt und spielt eine zentrale Rolle im Industriesektor des Landes.",
       hu: "Az Alba a világ egyik legnagyobb alumíniumkohója, amely központi szerepet játszik az ország ipari szektorában.",
@@ -104,8 +106,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Hafen Khalifa Bin Salman",
       hu: "Khalifa Bin Salman Kikötő",
       ro: "Portul Khalifa Bin Salman",
-      en: "Khalifa Bin Salman Port"
-    },
+      en: "Khalifa Bin Salman Port",
+image: "/poi-images/bahrain-kbsp-port-economic-v2.webp"
+},
     description: {
       de: "Der Hafen Khalifa Bin Salman ist der wichtigste Handelshafen Bahrains und ein bedeutendes Logistikdrehkreuz im Persischen Golf.",
       hu: "A Khalifa Bin Salman Kikötő Bahrein legfontosabb kereskedelmi kikötője és a Perzsa-öböl jelentős logisztikai csomópontja.",
@@ -151,8 +154,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Bahrain Financial Harbour",
       hu: "Bahrain Financial Harbour",
       ro: "Bahrain Financial Harbour",
-      en: "Bahrain Financial Harbour"
-    },
+      en: "Bahrain Financial Harbour",
+image: "/poi-images/bahrain-financial-harbour-economic-v2.webp"
+},
     description: {
       de: "Ein markantes Wahrzeichen in Manama, das als primäres Geschäftszentrum und Sitz zahlreicher internationaler Finanzinstitute dient.",
       hu: "Jellegzetes manamai nevezetesség, amely elsődleges üzleti központként és számos nemzetközi pénzintézet székhelyeként szolgál.",
@@ -198,8 +202,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Arab Shipbuilding and Repair Yard",
       hu: "Arab Hajóépítő és Javító Üzem",
       ro: "Arab Shipbuilding and Repair Yard",
-      en: "Arab Shipbuilding and Repair Yard"
-    },
+      en: "Arab Shipbuilding and Repair Yard",
+image: "/poi-images/bahrain-asry-economic-v2.webp"
+},
     description: {
       de: "ASRY ist eine führende Schiffsbau- und Reparaturwerft im Nahen Osten, die eine breite Palette maritimer Dienstleistungen anbietet.",
       hu: "Az ASRY a Közel-Kelet egyik vezető hajóépítő és -javító hajógyára, amely széles körű tengerészeti szolgáltatásokat kínál.",
@@ -245,8 +250,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Mina Salman",
       hu: "Mina Salman",
       ro: "Mina Salman",
-      en: "Mina Salman"
-    },
+      en: "Mina Salman",
+image: "/poi-images/bahrain-mina-salman-economic-v2.webp"
+},
     description: {
       de: "Der alte Haupthafen von Manama, der heute hauptsächlich als Marinestützpunkt und für spezielle Frachtdienste genutzt wird.",
       hu: "Manama régi fő kikötője, amelyet ma már elsősorban haditengerészeti bázisként és speciális teherszállítási szolgáltatásokra használnak.",
@@ -292,8 +298,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Bahrain International Investment Park",
       hu: "Bahrein Nemzetközi Befektetési Park",
       ro: "Bahrain International Investment Park",
-      en: "Bahrain International Investment Park"
-    },
+      en: "Bahrain International Investment Park",
+image: "/poi-images/bahrain-biip-economic-v2.webp"
+},
     description: {
       de: "Ein hochmoderner Industriepark, der steuerliche Anreize und erstklassige Infrastruktur für ausländische Investoren bietet.",
       hu: "Egy ultramodern ipari park, amely adókedvezményeket és kiváló infrastruktúrát kínál a külföldi befektetők számára.",
@@ -340,8 +347,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Bahrain Logistics Zone",
       hu: "Bahrein Logisztikai Zóna",
       ro: "Bahrain Logistics Zone",
-      en: "Bahrain Logistics Zone"
-    },
+      en: "Bahrain Logistics Zone",
+image: "/poi-images/bahrain-logistics-zone-economic-v2.webp"
+},
     description: {
       de: "Die erste maßgeschneiderte Logistikeinrichtung im Nahen Osten, die speziell für Zollfreigutbetriebe entwickelt wurde.",
       hu: "A Közel-Kelet első, kifejezetten vámmentes műveletekhez tervezett logisztikai létesítménye.",
@@ -388,8 +396,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Bahrain Investment Wharf",
       hu: "Bahrain Investment Wharf",
       ro: "Bahrain Investment Wharf",
-      en: "Bahrain Investment Wharf"
-    },
+      en: "Bahrain Investment Wharf",
+image: "/poi-images/bahrain-investment-wharf-economic-v2.webp"
+},
     description: {
       de: "Ein gemischt genutztes Industriegebiet, das Logistik, Fertigung und gewerbliche Einrichtungen auf einem Gelände vereint.",
       hu: "Vegyes felhasználású ipari terület, amely logisztikai, gyártási és kereskedelmi létesítményeket egyesít egy helyen.",
@@ -436,8 +445,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Börse Bahrain",
       hu: "Bahreini Értéktőzsde",
       ro: "Bursa din Bahrain",
-      en: "Bahrain Bourse"
-    },
+      en: "Bahrain Bourse",
+image: "/poi-images/bahrain-bourse-economic-v2.webp"
+},
     description: {
       de: "Die nationale Wertpapierbörse Bahrains, ein wichtiger Pfeiler des Finanzplatzes und Handelszentrum für Aktien und Anleihen.",
       hu: "Bahrein nemzeti értéktőzsdéje, amely a pénzügyi központ egyik fontos pillére, részvények és kötvények kereskedelmi központja.",
@@ -483,8 +493,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Ölfeld Awali",
       hu: "Awali Olajmező",
       ro: "Câmpul Petrolier Awali",
-      en: "Awali Oil Field"
-    },
+      en: "Awali Oil Field",
+image: "/poi-images/bahrain-awali-oilfield-economic-v2.webp"
+},
     description: {
       de: "Das Awali-Ölfeld war der Ort der ersten Ölfunde auf der arabischen Seite des Persischen Golfs.",
       hu: "Az Awali olajmező a Perzsa-öböl arab oldalának legelső olajlelőhelye volt.",
@@ -530,8 +541,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Kraftwerk Al Dur",
       hu: "Al Dur Erőmű",
       ro: "Centrala Electrică Al Dur",
-      en: "Al Dur Power Plant"
-    },
+      en: "Al Dur Power Plant",
+image: "/poi-images/bahrain-aldur-power-economic-v2.webp"
+},
     description: {
       de: "Eine der größten unabhängigen Wasser- und Stromproduktionsanlagen in Bahrain zur Deckung des steigenden Energiebedarfs.",
       hu: "Bahrein egyik legnagyobb független víz- és villamosenergia-termelő létesítménye a növekvő energiaigény kielégítésére.",
@@ -577,8 +589,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Kraftwerk Hidd",
       hu: "Hidd Erőmű",
       ro: "Centrala Electrică Hidd",
-      en: "Hidd Power Company"
-    },
+      en: "Hidd Power Company",
+image: "/poi-images/bahrain-hidd-power-economic-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Kraftwerk und eine Entsalzungsanlage auf der Insel Muharraq, die Trinkwasser und Strom liefert.",
       hu: "Jelentős erőmű és sótalanító üzem Muharraq szigetén, amely ivóvizet és villamos energiát szolgáltat.",
@@ -624,8 +637,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Kraftwerk Sitra",
       hu: "Sitra Erőmű",
       ro: "Centrala Electrică Sitra",
-      en: "Sitra Power Station"
-    },
+      en: "Sitra Power Station",
+image: "/poi-images/bahrain-sitra-power-economic-v2.webp"
+},
     description: {
       de: "Das Kraftwerk Sitra ist eine historische Anlage zur Energie- und Wasserversorgung, die direkt an der Küste betrieben wird.",
       hu: "A Sitra Erőmű egy történelmi energia- és vízellátó létesítmény, amely közvetlenül a tengerparton működik.",
@@ -671,8 +685,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Gulf Petrochemical Industries",
       hu: "Öböl Menti Petrolkémiai Iparágak (GPIC)",
       ro: "Industriile Petrochimice din Golf (GPIC)",
-      en: "Gulf Petrochemical Industries Co"
-    },
+      en: "Gulf Petrochemical Industries Co",
+image: "/poi-images/bahrain-gpic-economic-v2.webp"
+},
     description: {
       de: "Ein Joint Venture zwischen den Regierungen von Bahrain, Kuwait und Saudi-Arabien zur Produktion von Düngemitteln und Petrochemikalien.",
       hu: "Bahrein, Kuvait és Szaúd-Arábia kormányainak közös vállalata műtrágyák és petrolkémiai anyagok gyártására.",
@@ -719,8 +734,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Salman Industrial City",
       hu: "Salman Ipari Város",
       ro: "Orașul Industrial Salman",
-      en: "Salman Industrial City"
-    },
+      en: "Salman Industrial City",
+image: "/poi-images/bahrain-salman-industrial-city-economic-v2.webp"
+},
     description: {
       de: "Ein riesiger Industriekomplex, der die Bereiche BIIP, Bahrain Investment Wharf und die Logistikzone miteinander vereint.",
       hu: "Hatalmas ipari komplexum, amely magában foglalja a BIIP, a Bahrain Investment Wharf és a logisztikai zóna területeit.",
@@ -766,8 +782,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Industriegebiet Ma'ameer",
       hu: "Ma'ameer Ipari Terület",
       ro: "Zona Industrială Ma'ameer",
-      en: "Ma'ameer Industrial Area"
-    },
+      en: "Ma'ameer Industrial Area",
+image: "/poi-images/bahrain-maameer-industrial-economic-v2.webp"
+},
     description: {
       de: "Eine der ältesten Industriezonen Bahrains, die traditionell für Leichtindustrie und verarbeitendes Gewerbe genutzt wird.",
       hu: "Bahrein egyik legrégebbi ipari zónája, amelyet hagyományosan könnyűiparra és feldolgozóiparra használnak.",
@@ -813,8 +830,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Fischereihafen Muharraq",
       hu: "Muharraq Halászkikötő",
       ro: "Portul de Pescuit Muharraq",
-      en: "Muharraq Fishing Port"
-    },
+      en: "Muharraq Fishing Port",
+image: "/poi-images/bahrain-muharraq-fishing-port-economic-v2.webp"
+},
     description: {
       de: "Ein aktiver Fischereihafen, der die lange Seefahrt- und Fischereitradition der Insel Muharraq aufrechterhält.",
       hu: "Aktív halászkikötő, amely fenntartja Muharraq szigetének hosszú tengerészeti és halászati hagyományait.",
@@ -860,8 +878,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Sitra Wharf",
       hu: "Sitra Rakpart",
       ro: "Debarcaderul Sitra",
-      en: "Sitra Wharf"
-    },
+      en: "Sitra Wharf",
+image: "/poi-images/bahrain-sitra-wharf-economic-v2.webp"
+},
     description: {
       de: "Ein spezialisierter Hafenbereich, der primär für den Export von Erdölprodukten und petrochemischen Erzeugnissen genutzt wird.",
       hu: "Speciális kikötőterület, amelyet elsősorban kőolajipari és petrolkémiai termékek exportálására használnak.",
@@ -907,8 +926,9 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Bahrain Bay",
       hu: "Bahrain Bay",
       ro: "Bahrain Bay",
-      en: "Bahrain Bay"
-    },
+      en: "Bahrain Bay",
+image: "/poi-images/bahrain-bay-economic-v2.webp"
+},
     description: {
       de: "Ein hochmodernes Geschäftsviertel, das globale Unternehmen und exklusive Immobilienprojekte am Wasser beherbergt.",
       hu: "Ultramodern üzleti negyed, amely globális vállalatoknak és exkluzív vízparti ingatlanprojekteknek ad otthont.",

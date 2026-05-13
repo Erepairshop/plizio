@@ -4,7 +4,9 @@ export const sloveniaNatureV2: POI[] = [
   {
     id: "slovenia-triglav-nature-v2",
     type: "peak",
-    name: { de: "Triglav", hu: "Triglav", ro: "Triglav", en: "Triglav" },
+    name: { de: "Triglav", hu: "Triglav", ro: "Triglav", en: "Triglav",
+image: "/poi-images/slovenia-triglav-nature-v2.webp"
+},
     coords: [13.8367, 46.3783],
     coordinates: { lat: 46.3783, lng: 13.8367 },
     description: {
@@ -19,11 +21,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Altitudine de 2864 metri", "Piesa centrală a Parcului Național Triglav", "Prima ascensiune înregistrată în 1778", "Simbol național prezent pe steagul Sloveniei"],
       en: ["Elevation of 2,864 meters above sea level", "Centerpiece of Slovenia's only national park", "First recorded ascent took place in 1778", "Featured on the Slovenian coat of arms"],
     },
-    imageHint: "Triglav mountain peak in Julian Alps", image: "/poi-images/slovenia-triglav-nature-v2.webp"},
-  {
+imageHint: "Triglav mountain peak in Julian Alps",
+    descriptionAdvanced: {
+      de: "Der Triglav ist mit 2864 Metern der höchste Gipfel Sloweniens und ein nationales Symbol. Er bildet das Herzstück des einzigen Nationalparks des Landes in den Julischen Alpen.",
+      hu: "A Triglav Szlovénia legmagasabb pontja a maga 2864 méterével, a Júliai-Alpok szívében. Az ország nemzeti jelképe, amely még az állami zászlón és a címerben is megjelenik.",
+      ro: "Vârful Triglav, situat la 2864 de metri, este cel mai înalt munte din Slovenia și un simbol național. Acesta se află în centrul singurului parc național din Alpii Iulieni.",
+      en: "Triglav is Slovenia's highest peak at 2,864 meters and a central national symbol. It lies in the heart of the Julian Alps within the country's only national park.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2864 Meter", "Erstbesteigung: 1778", "Nationalpark seit 1981", "Alpinmuseum in Mojstrana"],
+      hu: ["Magasság: 2864 méter", "Első megmászás: 1778", "Nemzeti park alapítása: 1981", "Alpinista múzeum Mojstranában"],
+      ro: ["Înălțime: 2864 metri", "Prima escaladare: 1778", "Parc național din 1981", "Muzeul Alpin din Mojstrana"],
+      en: ["Elevation: 2,864 meters", "First ascent: 1778", "National Park since 1981", "Alpine Museum in Mojstrana"],
+    },
+    image: "/poi-images/slovenia-triglav-nature-v2.webp",
+},  {
     id: "slovenia-lake-bled-nature-v2",
     type: "lake",
-    name: { de: "Bleder See", hu: "Bledi-tó", ro: "Lacul Bled", en: "Lake Bled" },
+    name: { de: "Bleder See", hu: "Bledi-tó", ro: "Lacul Bled", en: "Lake Bled",
+image: "/poi-images/slovenia-lake-bled-nature-v2.webp"
+},
     coords: [14.0936, 46.3639],
     coordinates: { lat: 46.3639, lng: 14.0936 },
     description: {
@@ -38,11 +55,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 1,45 kilometri pătrați", "Adâncime maximă de 30,6 metri", "Găzduiește singura insulă naturală din Slovenia", "Gazdă frecventă pentru campionate mondiale de canotaj"],
       en: ["Surface area of approximately 1.45 square kilometers", "Maximum depth of 30.6 meters", "Home to the only natural island in Slovenia", "Renowned venue for international rowing regattas"],
     },
-    imageHint: "Lake Bled with island church at sunrise", image: "/poi-images/slovenia-lake-bled-nature-v2.webp"},
-  {
+imageHint: "Lake Bled with island church at sunrise",
+    descriptionAdvanced: {
+      de: "Der Bleder See ist ein tektonisch-glazialer See mit einer malerischen Insel in der Mitte. Er ist weltberühmt für seine Marienkirche und die mittelalterliche Burg auf dem Felsen.",
+      hu: "A Bledi-tó egy gleccser vájta medencében fekvő állóvíz, közepén egy apró szigettel. Híres a Szűz Mária-templomáról és a tó feletti sziklán magasodó középkori váráról.",
+      ro: "Lacul Bled este un lac tectonic-glaciar renumit pentru insula sa pitorească și biserica centrală. Castelul medieval situat pe o stâncă oferă o panoramă spectaculoasă.",
+      en: "Lake Bled is a tectonic-glacial lake famous for its picturesque island and cliff-top castle. It is a world-renowned landmark featuring the 17th-century church.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: 30 Meter", "Inselgröße: 0,82 Hektar", "Wassertemperatur bis 25°C", "99 Stufen zur Kirche"],
+      hu: ["Mélység: 30 méter", "Sziget területe: 0,82 hektár", "Vízhőmérséklet max: 25°C", "99 lépcsőfok a templomig"],
+      ro: ["Adâncime: 30 metri", "Suprafață insulă: 0,82 ha", "Temperatură apă: max 25°C", "99 de trepte spre biserică"],
+      en: ["Max depth: 30 meters", "Island area: 0.82 hectares", "Water temp: up to 25°C", "99 stone steps to church"],
+    },
+    image: "/poi-images/slovenia-lake-bled-nature-v2.webp",
+},  {
     id: "slovenia-lake-bohinj-nature-v2",
     type: "lake",
-    name: { de: "Wocheiner See", hu: "Bohinji-tó", ro: "Lacul Bohinj", en: "Lake Bohinj" },
+    name: { de: "Wocheiner See", hu: "Bohinji-tó", ro: "Lacul Bohinj", en: "Lake Bohinj",
+image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp"
+},
     coords: [13.8858, 46.2778],
     coordinates: { lat: 46.2778, lng: 13.8858 },
     description: {
@@ -57,11 +89,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de 4,1 km și lățime de 1,2 km", "Volum de apă de aproximativ 92,5 milioane metri cubi", "Face parte din bazinul hidrografic al râului Sava", "Habitat pentru păstrăv de lac și mihalț"],
       en: ["Length of 4.1 km and width up to 1.2 km", "Contains approximately 92.5 million cubic meters of water", "Part of the Sava River drainage basin", "Home to native lake trout and arctic char"],
     },
-    imageHint: "Lake Bohinj with Julian Alps reflection", image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp"},
-  {
+imageHint: "Lake Bohinj with Julian Alps reflection",
+    descriptionAdvanced: {
+      de: "Der Bohinjer See ist der größte dauerhafte Natursee Sloweniens, eingebettet im Triglav-Nationalpark. Er besticht durch seine unberührte Natur und das kristallklare Gletscherwasser.",
+      hu: "A Bohinji-tó Szlovénia legnagyobb állandó természetes tava a Triglav Nemzeti Parkban. Kristálytiszta vize és a meredek hegyoldalak vadregényes hangulatot árasztanak.",
+      ro: "Lacul Bohinj este cel mai mare lac natural permanent din Slovenia, situat în Parcul Național Triglav. Apa sa glaciară este înconjurată de versanți muntoși abrupți.",
+      en: "Lake Bohinj is Slovenia's largest permanent natural lake, nestled in the Triglav National Park. It is known for its pristine glacial waters and rugged mountain scenery.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 4,1 Kilometer", "Maximale Tiefe: 45 Meter", "Volumen: 92,5 Mio. m³", "Höhe: 526 Meter"],
+      hu: ["Hosszúság: 4,1 kilométer", "Maximum mélység: 45 méter", "Víztömeg: 92,5 millió m³", "Tengerszint felett: 526 m"],
+      ro: ["Lungime: 4,1 kilometri", "Adâncime maximă: 45 metri", "Volum: 92,5 mil. m³", "Altitudine: 526 metri"],
+      en: ["Length: 4.1 kilometers", "Max depth: 45 meters", "Volume: 92.5 million m³", "Elevation: 526 meters"],
+    },
+    image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp",
+},  {
     id: "slovenia-soca-river-nature-v2",
     type: "river",
-    name: { de: "Soča", hu: "Soča", ro: "Râul Soča", en: "Soča River" },
+    name: { de: "Soča", hu: "Soča", ro: "Râul Soča", en: "Soča River",
+image: "/poi-images/slovenia-soca-river-nature-v2.webp"
+},
     coords: [13.5833, 46.3333],
     coordinates: { lat: 46.3333, lng: 13.5833 },
     description: {
@@ -76,11 +123,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 138 kilometri", "Izvorăște din Valea Trenta la 876 m altitudine", "Cunoscut pentru păstrăvul marmorat endemic", "Teatrul unor bătălii majore în Primul Război Mondial"],
       en: ["Total length of 138 kilometers", "Sources in the Trenta Valley at 876 m altitude", "Home to the endemic Marble Trout", "Site of the major Battles of the Isonzo in WWI"],
     },
-    imageHint: "Emerald green Soca river in Slovenia", image: "/poi-images/slovenia-soca-river-nature-v2.webp"},
-  {
+imageHint: "Emerald green Soca river in Slovenia",
+    descriptionAdvanced: {
+      de: "Die Soča ist für ihre markante smaragdgrüne Farbe und ihre Wildwasserabschnitte bekannt. Sie entspringt in den Julischen Alpen und fließt durch tiefe Kalksteinschluchten.",
+      hu: "Az Isonzó (Soča) smaragdzöld színéről és vadvízi zuhatagairól világhírű folyó. A Júliai-Alpokban ered, és mély mészkőszurdokokon keresztül vág utat az Adria felé.",
+      ro: "Râul Soča este celebru pentru culoarea sa smaraldină și apele repezi. Acesta izvorăște din Alpii Iulieni și traversează canioane spectaculoase spre Marea Adriatică.",
+      en: "The Soča River is famous for its distinct emerald-green color and white-water rapids. It originates in the Julian Alps and carves deep limestone canyons.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 138 km", "Höhenunterschied: 822 m", "Isonzo-Schlachten 1915-17", "Heimat der Marmorata-Forelle"],
+      hu: ["Hossz: 138 kilométer", "Szintkülönbség: 822 méter", "Isonzói csaták: 1915-1917", "A mrványos pisztráng hazája"],
+      ro: ["Lungime totală: 138 km", "Diferență nivel: 822 m", "Bătăliile de pe Isonzo 1915-17", "Habitatul păstrăvului marmorat"],
+      en: ["Total length: 138 km", "Elevation drop: 822 m", "Isonzo Battles 1915-17", "Home of Marble trout"],
+    },
+    image: "/poi-images/slovenia-soca-river-nature-v2.webp",
+},  {
     id: "slovenia-postojna-cave-nature-v2",
     type: "park",
-    name: { de: "Adelsberger Grotte", hu: "Postojnai-cseppkőbarlang", ro: "Peștera Postojna", en: "Postojna Cave" },
+    name: { de: "Adelsberger Grotte", hu: "Postojnai-cseppkőbarlang", ro: "Peștera Postojna", en: "Postojna Cave",
+image: "/poi-images/slovenia-postojna-cave-nature-v2.webp"
+},
     coords: [14.2039, 45.7831],
     coordinates: { lat: 45.7831, lng: 14.2039 },
     description: {
@@ -95,11 +157,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 24,1 kilometri", "Habitatul faimosului salamandru de peșteră", "Prima cale ferată subterană din lume (1872)", "Temperatură constantă între 8 și 10 grade Celsius"],
       en: ["Total length of 24.1 kilometers", "Natural habitat of the Olm (Proteus anguinus)", "World's oldest underground cave railway since 1872", "Constant internal temperature of 8 to 10 degrees Celsius"],
     },
-    imageHint: "Postojna cave stalactites and stalagmites", image: "/poi-images/slovenia-postojna-cave-nature-v2.webp"},
-  {
+imageHint: "Postojna cave stalactites and stalagmites",
+    descriptionAdvanced: {
+      de: "Die Höhle von Postojna ist eine der längsten Karsthöhlen der Welt, die für Besucher zugänglich ist. Eine elektrische Eisenbahn führt durch beeindruckende Hallen voller Stalaktiten.",
+      hu: "A Postojnai-cseppkőbarlang a világ egyik leghosszabb látogatható karsztbarlangja. Elektromos kisvasút viszi a látogatókat a hatalmas cseppkövekkel teli termek között.",
+      ro: "Peștera Postojna este una dintre cele mai mari peșteri carstice din lume accesibile publicului. Dispune de un trenuleț electric ce străbate galerii pline de stalactite.",
+      en: "Postojna Cave is one of the world's longest karst cave systems open to the public. It features a unique underground train traversing massive stalactite halls.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 24,1 Kilometer", "Höhlentrain seit 1872", "Heimat des Grottenolms", "Innentemperatur: 8-10°C"],
+      hu: ["Hosszúság: 24,1 kilométer", "Barlangi vasút: 1872 óta", "A barlangi vakgőte élőhelye", "Belső hőmérséklet: 8-10°C"],
+      ro: ["Lungime: 24,1 kilometri", "Tren subteran din 1872", "Habitatul proteului de peșteră", "Temperatură internă: 8-10°C"],
+      en: ["Length: 24.1 kilometers", "Cave train since 1872", "Home of the Proteus (Olm)", "Internal temp: 8-10°C"],
+    },
+    image: "/poi-images/slovenia-postojna-cave-nature-v2.webp",
+},  {
     id: "slovenia-skocjan-caves-nature-v2",
     type: "park",
-    name: { de: "Höhlen von Škocjan", hu: "Škocjan-barlangrendszer", ro: "Peșterile Škocjan", en: "Škocjan Caves" },
+    name: { de: "Höhlen von Škocjan", hu: "Škocjan-barlangrendszer", ro: "Peșterile Škocjan", en: "Škocjan Caves",
+image: "/poi-images/slovenia-skocjan-caves-nature-v2.webp"
+},
     coords: [13.9892, 45.6631],
     coordinates: { lat: 45.6631, lng: 13.9892 },
     description: {
@@ -114,11 +191,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Sit UNESCO din anul 1986", "Canion subteran cu o adâncime de până la 146 m", "Râul Reka dispare aici în subteran", "Sait arheologic important cu vestigii preistorice"],
       en: ["UNESCO World Heritage site since 1986", "Underground canyon reaches depths of 146 meters", "The Reka River disappears underground at this site", "Important archaeological site for prehistoric findings"],
     },
-    imageHint: "Skocjan caves underground canyon bridge", image: "/poi-images/slovenia-skocjan-caves-nature-v2.webp"},
-  {
+imageHint: "Skocjan caves underground canyon bridge",
+    descriptionAdvanced: {
+      de: "Die Höhlen von Škocjan stehen auf der UNESCO-Welterbeliste und beherbergen einen der größten unterirdischen Canyons der Welt, den der Fluss Reka in den Kalkstein gegraben hat.",
+      hu: "A Škocjan-barlangrendszer az UNESCO világörökség része, amely a világ egyik legnagyobb föld alatti kanyonját rejti. A Reka folyó mélyítette ki a hatalmas csarnokokat.",
+      ro: "Peșterile Škocjan fac parte din patrimoniul UNESCO și adăpostesc unul dintre cele mai mari canioane subterane din lume, sculptat de râul Reka în calcar.",
+      en: "The Škocjan Caves are a UNESCO World Heritage site featuring one of the world's largest underground canyons. The Reka River flows through these massive chambers.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Status seit 1986", "Canyon-Tiefe: 146 Meter", "Martel-Saal: 2,2 Mio. m³", "Brücke Cerkvenik: 47 m hoch"],
+      hu: ["UNESCO világörökség: 1986", "Kanyon mélysége: 146 méter", "Martel-csarnok: 2,2 millió m³", "Cerkvenik-híd: 47 m magas"],
+      ro: ["Statut UNESCO din 1986", "Adâncime canion: 146 metri", "Sala Martel: 2,2 mil. m³", "Podul Cerkvenik: 47 m înălțime"],
+      en: ["UNESCO status since 1986", "Canyon depth: 146 meters", "Martel Chamber: 2.2m m³", "Cerkvenik Bridge: 47m high"],
+    },
+    image: "/poi-images/slovenia-skocjan-caves-nature-v2.webp",
+},  {
     id: "slovenia-vintgar-gorge-nature-v2",
     type: "valley",
-    name: { de: "Vintgar-Klamm", hu: "Vintgar-szurdok", ro: "Cheile Vintgar", en: "Vintgar Gorge" },
+    name: { de: "Vintgar-Klamm", hu: "Vintgar-szurdok", ro: "Cheile Vintgar", en: "Vintgar Gorge",
+image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp"
+},
     coords: [14.0847, 46.3911],
     coordinates: { lat: 46.3911, lng: 14.0847 },
     description: {
@@ -133,11 +225,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 1600 metri", "Găzduiește cascada Šum înaltă de 13 m", "Descoperite accidental în anul 1891", "Traversate de un pod feroviar istoric din piatră"],
       en: ["Approximately 1,600 meters in length", "Ends at the 13-meter high Šum Waterfall", "Accidentally discovered in 1891", "Spanned by a historic stone railway arch bridge"],
     },
-    imageHint: "Vintgar gorge wooden walkway Radovna river", image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp"},
-  {
+imageHint: "Vintgar gorge wooden walkway Radovna river",
+    descriptionAdvanced: {
+      de: "Die Vintgar-Schlucht wurde vom Fluss Radovna geformt und beeindruckt durch ihre Holzstege entlang der Felswände. Sie endet am 13 Meter hohen Šum-Wasserfall.",
+      hu: "A Vintgar-szurdokot a Radovna folyó vájta ki a sziklákban, fapallói közvetlenül a zúgó víz felett vezetnek. A túra végén a 13 méter magas Šum-vízesés látható.",
+      ro: "Cheile Vintgar, sculptate de râul Radovna, oferă un traseu spectaculos pe pasarele de lemn suspendate. Traseul se încheie la cascada Šum, înaltă de 13 metri.",
+      en: "Vintgar Gorge was carved by the Radovna River and features wooden walkways fixed to the limestone walls. It ends at the 13-meter high Šum waterfall.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 1,6 Kilometer", "Entdeckungsjahr: 1891", "Höhe Šum-Fall: 13 Meter", "Eintritt für Besucher"],
+      hu: ["Hosszúság: 1,6 kilométer", "Felfedezés éve: 1891", "Šum-vízesés: 13 méter", "Kiépített tanösvény"],
+      ro: ["Lungime: 1,6 kilometri", "Anul descoperirii: 1891", "Înălțime cascadă Šum: 13 m", "Traseu cu pasarele din lemn"],
+      en: ["Length: 1.6 kilometers", "Discovered in 1891", "Šum waterfall: 13 meters", "Wooden gallery walkways"],
+    },
+    image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp",
+},  {
     id: "slovenia-savica-waterfall-nature-v2",
     type: "river",
-    name: { de: "Savica-Wasserfall", hu: "Savica-vízesés", ro: "Cascada Savica", en: "Savica Waterfall" },
+    name: { de: "Savica-Wasserfall", hu: "Savica-vízesés", ro: "Cascada Savica", en: "Savica Waterfall",
+image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp"
+},
     coords: [13.8025, 46.2894],
     coordinates: { lat: 46.2894, lng: 13.8025 },
     description: {
@@ -152,11 +259,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Înălțime totală de 78 metri", "Formată din două brațe principale", "Sursă de inspirație pentru poezia 'Botezul la Savica'", "Alimentată de un lac subteran ascuns în stâncă"],
       en: ["Total drop height of 78 meters", "Composed of two separate streams forming an 'A'", "Inspiration for the epic poem 'The Baptism on the Savica'", "Fed by an underground lake within the mountain"],
     },
-    imageHint: "Savica waterfall Julian Alps Slovenia", image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp"},
-  {
+imageHint: "Savica waterfall Julian Alps Slovenia",
+    descriptionAdvanced: {
+      de: "Der Savica-Wasserfall ist ein beeindruckender A-förmiger Wasserfall, der aus einer Felswand oberhalb des Bohinjer Sees stürzt. Er ist die Quelle der Sava Bohinjka.",
+      hu: "A Savica-vízesés egy látványos, A-alakú zuhatag, amely egy sziklafal közepéből tör elő a Bohinji-tó felett. Ez a Száva folyó egyik legfontosabb forrása.",
+      ro: "Cascada Savica este o cădere de apă impresionantă în formă de 'A', care izvorăște direct dintr-un perete stâncos. Este sursa principală a râului Sava Bohinjka.",
+      en: "Savica Waterfall is a striking A-shaped waterfall emerging from a rock face above Lake Bohinj. It serves as a major source of the Sava Bohinjka river.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 78 Meter", "A-Form (zwei Strahlen)", "500 Stufen zum Aussichtspunkt", "Thema in Preserens Gedicht"],
+      hu: ["Magasság: 78 méter", "Két ágból áll (A-alak)", "500 lépcsőfok a kilátóig", "Prešeren verseinek ihletője"],
+      ro: ["Înălțime: 78 metri", "Formă de A (două fluxuri)", "500 de trepte până la punct", "Inspirație pentru poezie"],
+      en: ["Height: 78 meters", "A-shaped (two falls)", "500 steps to the viewpoint", "Theme in Preseren's poetry"],
+    },
+    image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp",
+},  {
     id: "slovenia-vrsic-pass-nature-v2",
     type: "mountain",
-    name: { de: "Vršič-Pass", hu: "Vršič-hágó", ro: "Pasul Vršič", en: "Vršič Pass" },
+    name: { de: "Vršič-Pass", hu: "Vršič-hágó", ro: "Pasul Vršič", en: "Vršič Pass",
+image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp"
+},
     coords: [13.7436, 46.4353],
     coordinates: { lat: 46.4353, lng: 13.7436 },
     description: {
@@ -171,11 +293,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Altitudine maximă de 1611 metri", "Drumul are exact 50 de curbe în ac de păr", "Construit de prizonieri ruși în timpul Primului Război Mondial", "Găzduiește Capela Rusă construită în lemn"],
       en: ["Maximum altitude of 1,611 meters", "The road features exactly 50 hairpin turns", "Built by Russian prisoners of war during WWI", "Home to the historic Russian Chapel"],
     },
-    imageHint: "Vrsic pass mountain road Julian Alps", image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp"},
-  {
+imageHint: "Vrsic pass mountain road Julian Alps",
+    descriptionAdvanced: {
+      de: "Der Vršič-Pass ist mit 1611 Metern der höchste befahrbare Gebirgspass Sloweniens. Die Straße mit 50 Kehren verbindet das Obere Save-Tal mit dem Trentatal.",
+      hu: "A Vršič-hágó 1611 méteres magasságával Szlovénia legmagasabb közúti hágója. Az 50 hajtűkanyarból álló út Kranjska Gorát köti össze a Trenta-völggyel.",
+      ro: "Pasul Vršič este cea mai înaltă trecătoare montană din Slovenia, situată la 1611 metri. Drumul cu 50 de serpentine leagă valea Savei de valea Trenta.",
+      en: "Vršič Pass is Slovenia's highest road pass at 1,611 meters. Its road features 50 hairpin bends connecting the Upper Sava Valley with the Trenta Valley.",
+    },
+    factsAdvanced: {
+      de: ["Passhöhe: 1611 Meter", "Anzahl der Kehren: 50", "Baujahr: 1915 (Russische Kapelle)", "Wintersperre möglich"],
+      hu: ["Hágó magassága: 1611 méter", "Hajtűkanyarok száma: 50", "Építés éve: 1915", "Orosz kápolna az úton"],
+      ro: ["Altitudine pas: 1611 metri", "Număr serpentine: 50", "Capela Rusă construită în 1915", "Închis pe timp de iarnă"],
+      en: ["Pass elevation: 1,611 meters", "Hairpin bends: 50", "Built in 1915 by prisoners", "Russian Chapel nearby"],
+    },
+    image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp",
+},  {
     id: "slovenia-logar-valley-nature-v2",
     type: "valley",
-    name: { de: "Logar-Tal", hu: "Logar-völgy", ro: "Valea Logar", en: "Logar Valley" },
+    name: { de: "Logar-Tal", hu: "Logar-völgy", ro: "Valea Logar", en: "Logar Valley",
+image: "/poi-images/slovenia-logar-valley-nature-v2.webp"
+},
     coords: [14.6333, 46.3833],
     coordinates: { lat: 46.3833, lng: 14.6333 },
     description: {
@@ -190,11 +327,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 7 kilometri", "Desemnat parc peisagistic în anul 1987", "Găzduiește cascada Rinka înaltă de 90 m", "Înconjurată de vârfuri ce depășesc 2000 m"],
       en: ["Approximately 7 kilometers in length", "Designated as a landscape park in 1987", "Home to the 90-meter high Rinka Waterfall", "Surrounded by peaks exceeding 2,000 meters"],
     },
-    imageHint: "Logar valley Kamnik Savinja Alps Slovenia", image: "/poi-images/slovenia-logar-valley-nature-v2.webp"},
-  {
+imageHint: "Logar valley Kamnik Savinja Alps Slovenia",
+    descriptionAdvanced: {
+      de: "Das Logartal ist eines der schönsten alpinen Gletschertäler Europas. Es liegt in den Steiner Alpen und ist von über 2000 Meter hohen Gipfeln umgeben.",
+      hu: "A Logar-völgy Európa egyik legszebb gleccservölgye a Kamniki-Alpokban. Hatalmas, 2000 méter feletti csúcsok ölelik körül, végén a Rinka-vízeséssel.",
+      ro: "Valea Logar este una dintre cele mai frumoase văi glaciare alpine din Europa. Este situată în Alpii Kamnik-Savinja și înconjurată de vârfuri de peste 2000 m.",
+      en: "Logar Valley is one of Europe's most beautiful alpine glacial valleys. Located in the Kamnik-Savinja Alps, it is surrounded by peaks exceeding 2,000 meters.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 7 Kilometer", "Durchschnittliche Breite: 250 m", "Rinka-Wasserfall: 90 m", "Landschaftspark seit 1987"],
+      hu: ["Hosszúság: 7 kilométer", "Átlagos szélesség: 250 méter", "Rinka-vízesés magassága: 90 m", "Tájvédelmi park: 1987 óta"],
+      ro: ["Lungime: 7 kilometri", "Lățime medie: 250 metri", "Cascada Rinka: 90 m înălțime", "Parc peisagistic din 1987"],
+      en: ["Length: 7 kilometers", "Average width: 250 meters", "Rinka Waterfall: 90 meters", "Landscape park since 1987"],
+    },
+    image: "/poi-images/slovenia-logar-valley-nature-v2.webp",
+},  {
     id: "slovenia-planica-valley-nature-v2",
     type: "valley",
-    name: { de: "Planica", hu: "Planica-völgy", ro: "Valea Planica", en: "Planica Valley" },
+    name: { de: "Planica", hu: "Planica-völgy", ro: "Valea Planica", en: "Planica Valley",
+image: "/poi-images/slovenia-planica-valley-nature-v2.webp"
+},
     coords: [13.7239, 46.4764],
     coordinates: { lat: 46.4764, lng: 13.7239 },
     description: {
@@ -209,11 +361,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Găzduiește trambulina de zbor Letalnica", "Primul zbor cu schiurile peste 100 m (1936)", "Locul tradițional al finalei Cupei Mondiale", "Parte integrantă a Parcului Național Triglav"],
       en: ["Home to the Letalnica bratov Gorišek flying hill", "Site of the first ski jump over 100 meters (1936)", "Regular venue for the Ski Jumping World Cup finals", "Located within the Triglav National Park"],
     },
-    imageHint: "Planica valley ski flying hills mountains", image: "/poi-images/slovenia-planica-valley-nature-v2.webp"},
-  {
+imageHint: "Planica valley ski flying hills mountains",
+    descriptionAdvanced: {
+      de: "Das Planica-Tal ist weltweit als Wiege des Skifliegens bekannt. Es liegt in den Julischen Alpen und beherbergt eine der größten Skisprungschanzen der Welt.",
+      hu: "A Planica-völgy a sírepülés bölcsőjeként ismert világszerte. A Júliai-Alpokban fekvő völgy ad otthont a világ egyik legnagyobb síugró sáncának.",
+      ro: "Valea Planica este cunoscută la nivel mondial ca leagănul zborului cu schiurile. Situată în Alpii Iulieni, găzduiește una dintre cele mai mari trambuline din lume.",
+      en: "Planica Valley is world-famous as the cradle of ski flying. Located in the Julian Alps, it hosts one of the largest ski jumping hills on the planet.",
+    },
+    factsAdvanced: {
+      de: ["Erster 100m Sprung: 1936", "Erster 200m Sprung: 1994", "Letalnica-Schanze (HS 240)", "Nordic Centre Planica"],
+      hu: ["Első 100m feletti ugrás: 1936", "Első 200m feletti ugrás: 1994", "Letalnica sánc (HS 240)", "Északi Síközpont (Nordic Centre)"],
+      ro: ["Primul salt de 100m: 1936", "Primul salt de 200m: 1994", "Trambulina Letalnica (HS 240)", "Centrul Nordic Planica"],
+      en: ["First 100m jump: 1936", "First 200m jump: 1994", "Letalnica hill size: HS 240", "Planica Nordic Centre"],
+    },
+    image: "/poi-images/slovenia-planica-valley-nature-v2.webp",
+},  {
     id: "slovenia-krka-river-nature-v2",
     type: "river",
-    name: { de: "Krka", hu: "Krka-folyó", ro: "Râul Krka", en: "Krka River" },
+    name: { de: "Krka", hu: "Krka-folyó", ro: "Râul Krka", en: "Krka River",
+image: "/poi-images/slovenia-krka-river-nature-v2.webp"
+},
     coords: [15.0167, 45.8833],
     coordinates: { lat: 45.8833, lng: 15.0167 },
     description: {
@@ -228,11 +395,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 94 kilometri", "Izvorăște din peștera carstică Krška jama", "Cel mai important afluent al Savei în această zonă", "Găzduiește castelul pe apă de la Otočec"],
       en: ["Approximately 94 kilometers in length", "Sources in the Krška jama karst cave", "Major right tributary of the Sava River", "Famous for the Otočec Castle located on an island"],
     },
-    imageHint: "Krka river Slovenia autumn colors", image: "/poi-images/slovenia-krka-river-nature-v2.webp"},
-  {
+imageHint: "Krka river Slovenia autumn colors",
+    descriptionAdvanced: {
+      de: "Die Krka ist der bedeutendste Fluss der Region Dolenjska und bekannt für ihre Kalktuff-Kaskaden. Sie fließt an historischen Städten und dem Schloss Otočec vorbei.",
+      hu: "A Krka folyó Alsó-Krajna (Dolenjska) legfontosabb vize, amely mésztufagátjairól és vízeséseiről nevezetes. Partján történelmi városok és Otočec vára áll.",
+      ro: "Râul Krka este cel mai important curs de apă din regiunea Dolenjska, faimos pentru cascadele sale de tuf calcaros. Trece pe lângă castelul Otočec.",
+      en: "The Krka River is the most significant river in the Dolenjska region, known for its tufa cascades. It flows past historic towns and the unique Otočec Castle.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 95 Kilometer", "Quelle in der Krka-Höhle", "Schloss Otočec auf Flussinsel", "Typische Tuffbarrieren"],
+      hu: ["Hosszúság: 95 kilométer", "Forrás: Krka-barlang", "Otočec vára egy szigeten áll", "Jellegzetes mésztufa gátak"],
+      ro: ["Lungime: 95 kilometri", "Izvor în peștera Krka", "Castelul Otočec pe o insulă", "Bariere naturale de tuf"],
+      en: ["Length: 95 kilometers", "Source in the Krka Cave", "Otočec Castle on an island", "Natural tufa barriers"],
+    },
+    image: "/poi-images/slovenia-krka-river-nature-v2.webp",
+},  {
     id: "slovenia-drava-river-nature-v2",
     type: "river",
-    name: { de: "Drau", hu: "Dráva", ro: "Râul Drava", en: "Drava River" },
+    name: { de: "Drau", hu: "Dráva", ro: "Râul Drava", en: "Drava River",
+image: "/poi-images/slovenia-drava-river-nature-v2.webp"
+},
     coords: [15.6459, 46.5589],
     coordinates: { lat: 46.5589, lng: 15.6459 },
     description: {
@@ -247,11 +429,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 710 kilometri", "Segmentul sloven are aproximativ 117 km", "Cel mai mare debit dintre râurile Sloveniei", "Coridor ecologic important pentru păsări migratoare"],
       en: ["Total length of 710 kilometers", "Slovenian section is roughly 117 km long", "Highest water discharge rate in Slovenia", "Key ecological habitat for migratory birds"],
     },
-    imageHint: "Drava river Maribor Slovenia", image: "/poi-images/slovenia-drava-river-nature-v2.webp"},
-  {
+imageHint: "Drava river Maribor Slovenia",
+    descriptionAdvanced: {
+      de: "Die Drau (Drava) ist ein großer Alpenfluss, der den Norden Sloweniens durchfließt. Sie spielt eine wichtige Rolle für die Wasserkraft und prägt das Stadtbild von Maribor.",
+      hu: "A Dráva egy jelentős alpesi folyó, amely Szlovénia északi részén folyik keresztül. Fontos szerepet játszik az energiatermelésben és meghatározza Maribor látképét.",
+      ro: "Râul Drava este un curs de apă alpin major care traversează nordul Sloveniei. Are un rol vital în producția de energie hidro și trece prin orașul Maribor.",
+      en: "The Drava River is a major Alpine river flowing through northern Slovenia. It plays a key role in hydroelectric power and defines the landscape of Maribor.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 710 Kilometer", "Länge in Slowenien: 117 km", "Älteste Rebe in Maribor (Ufer)", "Mehrere Wasserkraftwerke"],
+      hu: ["Teljes hossz: 710 kilométer", "Szlovén szakasz: 117 km", "Öreg szőlőtőke a partján", "Számos vízerőmű üzemel rajta"],
+      ro: ["Lungime totală: 710 km", "Secțiune slovenă: 117 km", "Cea mai veche viță de vie", "Mai multe hidrocentrale"],
+      en: ["Total length: 710 km", "Length in Slovenia: 117 km", "Oldest vine in Maribor nearby", "Multiple hydroelectric dams"],
+    },
+    image: "/poi-images/slovenia-drava-river-nature-v2.webp",
+},  {
     id: "slovenia-savinja-river-nature-v2",
     type: "river",
-    name: { de: "Sann", hu: "Savinja", ro: "Râul Savinja", en: "Savinja River" },
+    name: { de: "Sann", hu: "Savinja", ro: "Râul Savinja", en: "Savinja River",
+image: "/poi-images/slovenia-savinja-river-nature-v2.webp"
+},
     coords: [15.2631, 46.2289],
     coordinates: { lat: 46.2289, lng: 15.2631 },
     description: {
@@ -266,11 +463,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de 102 kilometri", "Izvorăște de la baza cascadei Rinka", "Traversează orașele Celje și Laško", "Cel mai mare afluent de stânga al râului Sava"],
       en: ["Length of 102 kilometers", "Originates at the Rinka Waterfall", "Flows through the cities of Celje and Laško", "Largest left tributary of the Sava River"],
     },
-    imageHint: "Savinja river Celje Slovenia", image: "/poi-images/slovenia-savinja-river-nature-v2.webp"},
-  {
+imageHint: "Savinja river Celje Slovenia",
+    descriptionAdvanced: {
+      de: "Die Savinja entspringt im Logartal am Rinka-Wasserfall und ist der Hauptfluss der Steiner Alpen. Sie ist ein beliebtes Ziel für Angler und Rafting-Sportler.",
+      hu: "A Savinja folyó a Logar-völgyben, a Rinka-vízesésnél ered, és a Kamniki-Alpok legfőbb vízfolyása. Népszerű a horgászok és a vadvízi evezősök körében.",
+      ro: "Râul Savinja izvorăște în Valea Logar, la cascada Rinka, fiind cursul principal din Alpii Kamnik-Savinja. Este o destinație populară pentru rafting.",
+      en: "The Savinja River originates at the Rinka Waterfall in Logar Valley. As the main river of the Kamnik-Savinja Alps, it is popular for rafting and fishing.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 102 Kilometer", "Einzugsgebiet: 1848 km²", "Mündung in die Save", "Quelle: Rinka-Wasserfall"],
+      hu: ["Hosszúság: 102 kilométer", "Vízgyűjtő terület: 1848 km²", "A Szávába torkollik", "Forrás: Rinka-vízesés"],
+      ro: ["Lungime: 102 kilometri", "Bazin hidrografic: 1848 km²", "Vărsare în râul Sava", "Izvor: Cascada Rinka"],
+      en: ["Length: 102 kilometers", "Basin area: 1,848 km²", "Confluence with Sava River", "Source: Rinka Waterfall"],
+    },
+    image: "/poi-images/slovenia-savinja-river-nature-v2.webp",
+},  {
     id: "slovenia-pohorje-nature-v2",
     type: "forest",
-    name: { de: "Bachergebirge", hu: "Pohorje", ro: "Masivul Pohorje", en: "Pohorje" },
+    name: { de: "Bachergebirge", hu: "Pohorje", ro: "Masivul Pohorje", en: "Pohorje",
+image: "/poi-images/slovenia-pohorje-nature-v2.webp"
+},
     coords: [15.5, 46.5],
     coordinates: { lat: 46.5, lng: 15.5 },
     description: {
@@ -285,11 +497,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Črni vrh (1543 m)", "Acoperă aproximativ 1000 km pătrați de pădure", "Include rezervația de pădure virgină Šumik", "Gazda concursului de schi 'Vulpea de Aur'"],
       en: ["Highest point is Črni vrh at 1,543 meters", "Covers about 1,000 square kilometers of forest", "Contains the Šumik virgin forest reserve", "Famous for the 'Golden Fox' Alpine Ski World Cup"],
     },
-    imageHint: "Pohorje mountains forest Slovenia", image: "/poi-images/slovenia-pohorje-nature-v2.webp"},
-  {
+imageHint: "Pohorje mountains forest Slovenia",
+    descriptionAdvanced: {
+      de: "Das Pohorje-Gebirge ist ein bewaldetes Mittelgebirge im Nordosten Sloweniens. Es ist bekannt für seine Torfmoore, Seen und das größte Skizentrum des Landes bei Maribor.",
+      hu: "A Pohorje egy erdőkkel borított középhegység Szlovénia északkeleti részén. Tőzeglápjairól, tavairól és a Maribor melletti hatalmas síközpontjáról ismert.",
+      ro: "Pohorje este un masiv muntos împădurit situat în nord-estul Sloveniei. Este renumit pentru mlaștinile de turbă, lacuri și cel mai mare domeniu schiabil.",
+      en: "Pohorje is a forested mountain range in northeastern Slovenia. It is known for its peat bogs, lakes, and the country's largest ski resort near Maribor.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Črni vrh (1543 m)", "Fläche: ca. 1000 km²", "Lovrenška jezera (Seen)", "Slalom-Weltcup der Frauen"],
+      hu: ["Legmagasabb csúcs: 1543 m", "Terület: kb. 1000 km²", "Lovrenška-tavak (tőzegláp)", "Női műlesikló világkupa helyszín"],
+      ro: ["Vârful maxim: 1543 metri", "Suprafață: aprox. 1000 km²", "Lacurile Lovrenška", "Cupa Mondială de Schi feminin"],
+      en: ["Highest peak: 1,543 meters", "Area: approx. 1,000 km²", "Lovrenška lakes (peat bogs)", "Women's Slalom World Cup"],
+    },
+    image: "/poi-images/slovenia-pohorje-nature-v2.webp",
+},  {
     id: "slovenia-secovlje-salina-nature-v2",
     type: "park",
-    name: { de: "Salinen von Sečovlje", hu: "Sečovljei sólepárlók", ro: "Salinele Sečovlje", en: "Sečovlje Salina Nature Park" },
+    name: { de: "Salinen von Sečovlje", hu: "Sečovljei sólepárlók", ro: "Salinele Sečovlje", en: "Sečovlje Salina Nature Park",
+image: "/poi-images/slovenia-secovlje-salina-nature-v2.webp"
+},
     coords: [13.5936, 45.4856],
     coordinates: { lat: 45.4856, lng: 13.5936 },
     description: {
@@ -304,11 +531,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 650 hectare", "Habitat crucial pentru peste 270 specii de păsări", "Producție de sare prin tehnici medievale", "Inclus pe lista Ramsar a zonelor umede"],
       en: ["Covers an area of about 650 hectares", "Critical habitat for over 270 bird species", "Salt produced using 700-year-old techniques", "Listed as a Ramsar Wetland of International Importance"],
     },
-    imageHint: "Secovlje salina salt pans Slovenia coast", image: "/poi-images/slovenia-secovlje-salina-nature-v2.webp"},
-  {
+imageHint: "Secovlje salina salt pans Slovenia coast",
+    descriptionAdvanced: {
+      de: "Der Landschaftspark Sečovlje Salina bewahrt eine jahrhundertealte Tradition der Salzgewinnung. Er ist ein wichtiges Feuchtgebiet und Lebensraum für zahlreiche Vogelarten.",
+      hu: "A Sečovljei sólepárló tájvédelmi park évszázados sólepárlási hagyományokat őriz. Fontos vizes élőhely, amely számos ritka madárfajnak nyújt fészkelőhelyet.",
+      ro: "Parcul Peisagistic Salina Sečovlje păstrează o tradiție seculară de extracție a sării. Este o zonă umedă vitală, adăpostind numeroase specii de păsări.",
+      en: "Sečovlje Salina Nature Park preserves a centuries-old tradition of salt harvesting. It is a critical wetland providing a habitat for numerous bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 6,5 km²", "Erste Erwähnung: 13. Jh.", "Über 270 Vogelarten", "Ramsar-Gebiet seit 1993"],
+      hu: ["Terület: 6,5 km²", "Első említés: 13. század", "Több mint 270 madárfaj", "Ramsari terület 1993 óta"],
+      ro: ["Suprafață: 6,5 km²", "Prima atestare: sec. XIII", "Peste 270 specii de păsări", "Sit Ramsar din 1993"],
+      en: ["Area: 6.5 km²", "First mentioned: 13th century", "Over 270 bird species", "Ramsar site since 1993"],
+    },
+    image: "/poi-images/slovenia-secovlje-salina-nature-v2.webp",
+},  {
     id: "slovenia-lake-cerknica-nature-v2",
     type: "lake",
-    name: { de: "Zirknitzer See", hu: "Cerknicai-tó", ro: "Lacul Cerknica", en: "Lake Cerknica" },
+    name: { de: "Zirknitzer See", hu: "Cerknicai-tó", ro: "Lacul Cerknica", en: "Lake Cerknica",
+image: "/poi-images/slovenia-lake-cerknica-nature-v2.webp"
+},
     coords: [14.3667, 45.75],
     coordinates: { lat: 45.75, lng: 14.3667 },
     description: {
@@ -323,11 +565,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Suprafața variază între 0 și 38 km²", "Exemplu clasic de fenomen hidrologic carstic", "Loc de cuibărit pentru buhaiul de baltă", "Descris detaliat de Valvasor în secolul al XVII-lea"],
       en: ["Surface area varies from 0 to 38 km²", "Prime global example of karst hydrology", "Crucial breeding site for the Great Bittern", "Studied and described by Valvasor in 1689"],
     },
-    imageHint: "Lake Cerknica karst intermittent lake", image: "/poi-images/slovenia-lake-cerknica-nature-v2.webp"},
-  {
+imageHint: "Lake Cerknica karst intermittent lake",
+    descriptionAdvanced: {
+      de: "Der Zirknitzer See (Cerknica) ist einer der größten intermittierenden Seen Europas. Je nach Jahreszeit verwandelt er sich von einer weiten Wiese in eine riesige Wasserfläche.",
+      hu: "A Cerknicai-tó Európa egyik legnagyobb időszakos tava. Az évszaktól függően hol hatalmas mezőként, hol pedig Szlovénia legnagyobb vízfelületeként jelenik meg.",
+      ro: "Lacul Cerknica este unul dintre cele mai mari lacuri intermitente din Europa. În funcție de sezon, acesta variază de la o câmpie vastă la un lac uriaș.",
+      en: "Lake Cerknica is one of Europe's largest intermittent lakes. Depending on the season, it transforms from a vast meadow into a massive body of water.",
+    },
+    factsAdvanced: {
+      de: ["Max. Fläche: 38 km²", "UNESCO-Weltkulturerbe", "Erforschung durch Valvasor", "Abfluss durch Schlundlöcher"],
+      hu: ["Max. terület: 38 km²", "UNESCO világörökség", "Valvasor kutatta a 17. sz-ban", "Víznyelőkön át távozik a víz"],
+      ro: ["Suprafață max: 38 km²", "Patrimoniu UNESCO", "Studiat de Valvasor în sec XVII", "Drenaj prin doline"],
+      en: ["Max area: 38 km²", "UNESCO site", "Studied by Valvasor (17th c.)", "Drainage via sinkholes"],
+    },
+    image: "/poi-images/slovenia-lake-cerknica-nature-v2.webp",
+},  {
     id: "slovenia-skofja-loka-hills-nature-v2",
     type: "mountain",
-    name: { de: "Bischoflacker Bergland", hu: "Škofja Loka-hegység", ro: "Munții Škofja Loka", en: "Škofja Loka Hills" },
+    name: { de: "Bischoflacker Bergland", hu: "Škofja Loka-hegység", ro: "Munții Škofja Loka", en: "Škofja Loka Hills",
+image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp"
+},
     coords: [14.3, 46.1667],
     coordinates: { lat: 46.1667, lng: 14.3 },
     description: {
@@ -342,11 +599,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Blegoš (1562 m)", "Cunoscut pentru producția tradițională de brânză", "Zonă populară de drumeții lângă Ljubljana", "Include fortificații din Linia Rupnik (anii 1930)"],
       en: ["Highest peak is Blegoš at 1,562 meters", "Famed for traditional highland cheese making", "Popular hiking destination near Ljubljana", "Contains remains of the Rupnik Line fortifications"],
     },
-    imageHint: "Skofja Loka hills Blegos mountain Slovenia", image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp"},
-  {
+imageHint: "Skofja Loka hills Blegos mountain Slovenia",
+    descriptionAdvanced: {
+      de: "Das Bergland von Škofja Loka bietet eine abwechslungsreiche Landschaft mit steilen Gipfeln und malerischen Tälern. Es ist ein Paradies für Wanderer und Radfahrer.",
+      hu: "A Škofja Loka-i dombság változatos tájat kínál meredek csúcsokkal és festői völgyekkel. A túrázók és kerékpárosok paradicsoma, közel a történelmi városhoz.",
+      ro: "Dealurile Škofja Loka oferă un peisaj variat, cu vârfuri abrupte și văi pitorești. Este un paradis pentru drumeții și ciclism, situat în centrul Sloveniei.",
+      en: "The Škofja Loka Hills offer a diverse landscape of steep peaks and picturesque valleys. It is a haven for hikers and cyclists in central Slovenia.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Ratitovec (1678 m)", "Beliebter Gipfel: Blegoš (1562 m)", "Zahlreiche Bergbauernhöfe", "Nähe zur Stadt Škofja Loka"],
+      hu: ["Legmagasabb pont: 1678 m", "Népszerű csúcs: Blegoš (1562 m)", "Számos hegyi tanya", "Közel Škofja Loka városához"],
+      ro: ["Cel mai înalt punct: 1678 m", "Vârful popular: Blegoš (1562 m)", "Numeroase ferme montane", "Aproape de orașul Škofja Loka"],
+      en: ["Highest point: 1,678 meters", "Popular peak: Blegoš (1,562 m)", "Numerous mountain farms", "Close to historic Škofja Loka"],
+    },
+    image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp",
+},  {
     id: "slovenia-kamnik-alps-nature-v2",
     type: "mountain",
-    name: { de: "Steiner Alpen", hu: "Kamniki-Alpok", ro: "Alpii Kamnik-Savinja", en: "Kamnik-Savinja Alps" },
+    name: { de: "Steiner Alpen", hu: "Kamniki-Alpok", ro: "Alpii Kamnik-Savinja", en: "Kamnik-Savinja Alps",
+image: "/poi-images/slovenia-kamnik-alps-nature-v2.webp"
+},
     coords: [14.5358, 46.3547],
     coordinates: { lat: 46.3547, lng: 14.5358 },
     description: {
@@ -361,11 +633,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt munte este Grintovec (2558 m)", "Adăpostesc cel mai nordic ghețar din Slovenia", "Nucleu al păstoritului montan tradițional", "Destinație majoră pentru alpinism și escaladă"],
       en: ["Highest peak is Grintovec at 2,558 meters", "Contains the northernmost glacier in Slovenia", "Heart of traditional high-altitude pastoralism", "Major destination for mountaineers and climbers"],
     },
-    imageHint: "Kamnik Savinja Alps Grintovec peak", image: "/poi-images/slovenia-kamnik-alps-nature-v2.webp"},
-  {
+imageHint: "Kamnik Savinja Alps Grintovec peak",
+    descriptionAdvanced: {
+      de: "Die Steiner Alpen (Kamnik-Savinja) sind eine Gebirgsgruppe mit schroffen Kalksteinfelsen. Sie beherbergen tiefe Gletschertäler und die Hochebene Velika Planina.",
+      hu: "A Kamniki-Alpok egy meredek mészkősziklákból álló hegység Szlovénia északi részén. Mély gleccservölgyeknek és a Velika Planina-fennsíknak ad otthont.",
+      ro: "Alpii Kamnik-Savinja sunt un grup muntos cu versanți calcaroși abrupți. Aceștia adăpostesc văi glaciare adânci și platoul Velika Planina.",
+      en: "The Kamnik-Savinja Alps are a mountain range of rugged limestone peaks. They feature deep glacial valleys and the expansive Velika Planina plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Grintovec (2558 m)", "Fläche: 900 km²", "Zahlreiche Kletterrouten", "Quelle der Savinja"],
+      hu: ["Legmagasabb csúcs: 2558 m", "Terület: 900 km²", "Számos mászóútvonal", "A Savinja folyó forrásvidéke"],
+      ro: ["Vârful maxim: 2558 m", "Suprafață: 900 km²", "Numeroase trasee de alpinism", "Izvorul râului Savinja"],
+      en: ["Highest peak: 2,558 meters", "Area: 900 km²", "Numerous climbing routes", "Source of Savinja River"],
+    },
+    image: "/poi-images/slovenia-kamnik-alps-nature-v2.webp",
+},  {
     id: "slovenia-karawanks-nature-v2",
     type: "mountain",
-    name: { de: "Karawanken", hu: "Karavankák", ro: "Munții Karawanken", en: "Karawanks" },
+    name: { de: "Karawanken", hu: "Karavankák", ro: "Munții Karawanken", en: "Karawanks",
+image: "/poi-images/slovenia-karawanks-nature-v2.webp"
+},
     coords: [14.1667, 46.4333],
     coordinates: { lat: 46.4333, lng: 14.1667 },
     description: {
@@ -380,11 +667,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Stol (2236 m)", "Coridor de transport vital (Tunelul Karawanken)", "Bogată în diverse resurse minerale", "Parte a Centurii Verzi Europene"],
       en: ["Highest peak is Stol at 2,236 meters", "Strategic transit corridor (Karawanks Tunnel)", "Rich in diverse mineral deposits", "Part of the European Green Belt initiative"],
     },
-    imageHint: "Karawanks mountain range Slovenia border", image: "/poi-images/slovenia-karawanks-nature-v2.webp"},
-  {
+imageHint: "Karawanks mountain range Slovenia border",
+    descriptionAdvanced: {
+      de: "Die Karawanken bilden die natürliche Grenze zwischen Slowenien und Österreich. Mit einer Länge von 120 Kilometern sind sie eine der längsten Gebirgsketten Europas.",
+      hu: "A Karavankák hegylánca alkotja a természetes határt Szlovénia és Ausztria között. 120 kilométeres hosszával Európa egyik leghosszabb hegyvonulata.",
+      ro: "Munții Karawanks formează granița naturală între Slovenia și Austria. Cu o lungime de 120 km, sunt unul dintre cele mai lungi lanțuri muntoase din Europa.",
+      en: "The Karawanks form the natural border between Slovenia and Austria. Stretching 120 kilometers, they are one of the longest mountain ranges in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg: Hochstuhl (2236 m)", "Gesamtlänge: 120 Kilometer", "Karawankentunnel (7,9 km)", "Blüte der Narzissen im Mai"],
+      hu: ["Legmagasabb csúcs: 2236 m", "Hosszúság: 120 kilométer", "Karavankák-alagút: 7,9 km", "Nárciszvirágzás májusban"],
+      ro: ["Vârful maxim: 2236 m", "Lungime: 120 kilometri", "Tunelul Karawanks: 7,9 km", "Înflorirea narciselor în mai"],
+      en: ["Highest peak: 2,236 meters", "Total length: 120 kilometers", "Karawanks Tunnel: 7.9 km", "Narcissus blooms in May"],
+    },
+    image: "/poi-images/slovenia-karawanks-nature-v2.webp",
+},  {
     id: "slovenia-sneznik-nature-v2",
     type: "peak",
-    name: { de: "Schneeberg", hu: "Snežnik", ro: "Muntele Snežnik", en: "Snežnik" },
+    name: { de: "Schneeberg", hu: "Snežnik", ro: "Muntele Snežnik", en: "Snežnik",
+image: "/poi-images/slovenia-sneznik-nature-v2.webp"
+},
     coords: [14.4475, 45.5886],
     coordinates: { lat: 45.5886, lng: 14.4475 },
     description: {
@@ -399,11 +701,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Altitudine de 1796 metri", "Numele său înseamnă 'cel înzăpezit'", "Nucleul unei arii protejate Natura 2000", "Habitat pentru urși, lupi și râși"],
       en: ["Elevation of 1,796 meters", "Its name translates to 'the Snowy One'", "Center of a large Natura 2000 protected area", "Habitat for brown bears, wolves, and lynx"],
     },
-    imageHint: "Sneznik mountain peak Slovenia forest", image: "/poi-images/slovenia-sneznik-nature-v2.webp"},
-  {
+imageHint: "Sneznik mountain peak Slovenia forest",
+    descriptionAdvanced: {
+      de: "Der Snežnik ist der höchste Gipfel im Dinarischen Gebirge Sloweniens außerhalb der Alpen. Er bietet weite Aussichten bis zur Adria und ist von dichten Wäldern umgeben.",
+      hu: "A Snežnik a Dinári-hegység legmagasabb pontja Szlovéniában az Alpokon kívül. Sűrű erdők veszik körül, csúcsáról tiszta időben az Adriai-tengerig is ellátni.",
+      ro: "Muntele Snežnik este cel mai înalt vârf din Alpii Dinari ai Sloveniei, situat în afara Alpilor. Oferă panorame până la Marea Adriatică și păduri dese.",
+      en: "Snežnik is the highest non-Alpine peak in Slovenia, located in the Dinaric Mountains. It offers vast views reaching the Adriatic Sea amid dense forests.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1796 Meter", "Größtes Waldgebiet Sloweniens", "Schloss Snežnik am Fuß", "Vorkommen von Braunbären"],
+      hu: ["Magasság: 1796 méter", "Szlovénia legnagyobb erdősége", "Snežnik-vár a hegy lábánál", "Barnamedvék élőhelye"],
+      ro: ["Înălțime: 1796 metri", "Cea mai mare zonă forestieră", "Castelul Snežnik la bază", "Populație de urși bruni"],
+      en: ["Elevation: 1,796 meters", "Largest forest area in Slovenia", "Snežnik Castle at the foot", "Habitat for brown bears"],
+    },
+    image: "/poi-images/slovenia-sneznik-nature-v2.webp",
+},  {
     id: "slovenia-kolpa-river-nature-v2",
     type: "river",
-    name: { de: "Kulpa", hu: "Kolpa", ro: "Râul Kolpa", en: "Kolpa River" },
+    name: { de: "Kulpa", hu: "Kolpa", ro: "Râul Kolpa", en: "Kolpa River",
+image: "/poi-images/slovenia-kolpa-river-nature-v2.webp"
+},
     coords: [15.3183, 45.6489],
     coordinates: { lat: 45.6489, lng: 15.3183 },
     description: {
@@ -418,11 +735,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 297 kilometri", "Segmentul de graniță sloven are 113 km", "Temperatura apei atinge 28°C în august", "Desemnată destinație europeană de excelență (EDEN)"],
       en: ["Total length of 297 kilometers", "Slovenian border section covers 113 km", "Water temperature reaches up to 28°C in summer", "Awarded as a European Destination of Excellence (EDEN)"],
     },
-    imageHint: "Kolpa river Slovenia Croatia border", image: "/poi-images/slovenia-kolpa-river-nature-v2.webp"},
-  {
+imageHint: "Kolpa river Slovenia Croatia border",
+    descriptionAdvanced: {
+      de: "Die Kolpa ist ein Grenzfluss zu Kroatien und gilt als einer der wärmsten und saubersten Flüsse Sloweniens. Sie ist ein beliebtes Ziel für Camping und Kanufahrten.",
+      hu: "A Kolpa folyó alkotja a határt Szlovénia és Horvátország között, és az ország egyik legmelegebb folyójaként ismert. Kedvelt helyszín kempingezésre és kenuzásra.",
+      ro: "Râul Kolpa formează granița cu Croația și este considerat unul dintre cele mai calde râuri din Slovenia. Este ideal pentru camping și plimbări cu canoe.",
+      en: "The Kolpa River forms the border with Croatia and is known as one of Slovenia's warmest rivers. it is a popular destination for camping and canoeing.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 294 Kilometer", "Wassertemp. bis 30°C", "Grenze zu Kroatien", "Landschaftspark Kolpa"],
+      hu: ["Hosszúság: 294 kilométer", "Vízhőmérséklet: akár 30°C", "Határfolyó Horvátországgal", "Kolpa Tájvédelmi Park"],
+      ro: ["Lungime: 294 kilometri", "Temp. apă: până la 30°C", "Graniță cu Croația", "Parcul Peisagistic Kolpa"],
+      en: ["Length: 294 kilometers", "Water temp: up to 30°C", "Border with Croatia", "Kolpa Landscape Park"],
+    },
+    image: "/poi-images/slovenia-kolpa-river-nature-v2.webp",
+},  {
     id: "slovenia-pericnik-waterfall-nature-v2",
     type: "river",
-    name: { de: "Peričnik-Wasserfall", hu: "Peričnik-vízesés", ro: "Cascada Peričnik", en: "Peričnik Waterfall" },
+    name: { de: "Peričnik-Wasserfall", hu: "Peričnik-vízesés", ro: "Cascada Peričnik", en: "Peričnik Waterfall",
+image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp"
+},
     coords: [13.8964, 46.4386],
     coordinates: { lat: 46.4386, lng: 13.8964 },
     description: {
@@ -437,11 +769,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Formată din două trepte (52 m și 16 m)", "Îngheață spectaculos în timpul iernii", "Situată în Parcul Național Triglav", "Accesibilă printr-o drumeție scurtă dinspre Mojstrana"],
       en: ["Consists of two levels (52 m and 16 m high)", "Freezes into a massive ice wall in winter", "Located within the Triglav National Park", "Easily accessible from the village of Mojstrana"],
     },
-    imageHint: "Pericnik waterfall behind the water curtain", image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp"},
-  {
+imageHint: "Pericnik waterfall behind the water curtain",
+    descriptionAdvanced: {
+      de: "Der Peričnik-Wasserfall im Vrata-Tal ist einzigartig, da man hinter der herabstürzenden Wassermenge hergehen kann. Er besteht aus zwei Stufen in einer Felsgalerie.",
+      hu: "A Vrata-völgyben található Peričnik-vízesés különlegessége, hogy a látogatók besétálhatnak a lezúduló vízfüggöny mögé. Két lépcsőben zúdul le a szikláról.",
+      ro: "Cascada Peričnik din Valea Vrata este unică deoarece vizitatorii pot merge prin spatele perdelei de apă. Este formată din două trepte spectaculoase.",
+      en: "Peričnik Waterfall in the Vrata Valley is unique for allowing visitors to walk behind its falling water. It consists of two stages set in a rock gallery.",
+    },
+    factsAdvanced: {
+      de: ["Untere Fallhöhe: 52 Meter", "Obere Fallhöhe: 16 Meter", "Hintergehen möglich", "Fundort von Eisformationen"],
+      hu: ["Alsó zuhatag: 52 méter", "Felső zuhatag: 16 méter", "Mögésétálás lehetséges", "Télen jégcsap-galéria"],
+      ro: ["Căderea inferioară: 52 m", "Căderea superioară: 16 m", "Accesibil prin spate", "Formațiuni de gheață iarna"],
+      en: ["Lower fall: 52 meters", "Upper fall: 16 meters", "Walk-behind access", "Ice formations in winter"],
+    },
+    image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp",
+},  {
     id: "slovenia-lake-jasna-nature-v2",
     type: "lake",
-    name: { de: "Jasna-See", hu: "Jasna-tó", ro: "Lacul Jasna", en: "Lake Jasna" },
+    name: { de: "Jasna-See", hu: "Jasna-tó", ro: "Lacul Jasna", en: "Lake Jasna",
+image: "/poi-images/slovenia-lake-jasna-nature-v2.webp"
+},
     coords: [13.7844, 46.4764],
     coordinates: { lat: 46.4764, lng: 13.7844 },
     description: {
@@ -456,11 +803,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Păzit de statuia de bronz a lui Zlatorog", "Punct de plecare pentru trasee montane", "Apă atât de limpede încât fundul este vizibil", "Amenajat cu plaje de nisip și pontoane din lemn"],
       en: ["Guarded by the bronze statue of the Goldhorn", "Popular starting point for alpine hikes", "Extremely clear water with high visibility", "Features white sand beaches and walking paths"],
     },
-    imageHint: "Lake Jasna Kranjska Gora goldhorn statue", image: "/poi-images/slovenia-lake-jasna-nature-v2.webp"},
-  {
+imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
+    descriptionAdvanced: {
+      de: "Der Jasna-See bei Kranjska Gora besteht aus zwei miteinander verbundenen künstlichen Seen. Die Statue des Steinbocks Zlatorog ist ein beliebtes Fotomotiv am Ufer.",
+      hu: "A Kranjska Gora melletti Jasna-tó két mesterségesen összekapcsolt tóból áll. A partján álló aranyszarvú zerge, a Zlatorog szobra a környék jelképe.",
+      ro: "Lacul Jasna de lângă Kranjska Gora este format din două lacuri artificiale interconectate. Statuia caprei negre Zlatorog de pe mal este un simbol local.",
+      en: "Lake Jasna near Kranjska Gora consists of two interconnected artificial lakes. The bronze statue of the Zlatorog ibex on the shore is a famous landmark.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 810 Meter", "Zwei künstliche Seen", "Zlatorog-Statue am Ufer", "Blick auf Prisank und Razor"],
+      hu: ["Tengerszint felett: 810 m", "Két mesterséges tó", "Zlatorog (aranyszarvú) szobor", "Kilátás a Razor-csúcsra"],
+      ro: ["Altitudine: 810 metri", "Două lacuri artificiale", "Statuia Zlatorog pe mal", "Panoramă spre masivul Razor"],
+      en: ["Elevation: 810 meters", "Two artificial lakes", "Zlatorog statue on shore", "Views of Prisank and Razor"],
+    },
+    image: "/poi-images/slovenia-lake-jasna-nature-v2.webp",
+},  {
     id: "slovenia-kozjak-waterfall-nature-v2",
     type: "river",
-    name: { de: "Kozjak-Wasserfall", hu: "Kozjak-vízesés", ro: "Cascada Kozjak", en: "Kozjak Waterfall" },
+    name: { de: "Kozjak-Wasserfall", hu: "Kozjak-vízesés", ro: "Cascada Kozjak", en: "Kozjak Waterfall",
+image: "/poi-images/slovenia-kozjak-waterfall-nature-v2.webp"
+},
     coords: [13.5911, 46.2575],
     coordinates: { lat: 46.2575, lng: 13.5911 },
     description: {
@@ -475,11 +837,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Înălțime de 15 metri", "Ascunsă într-o semi-peșteră calcaroasă", "Acces prin poduri suspendate și pasarele", "Considerată una dintre cele mai frumoase cascade"],
       en: ["Drop height of 15 meters", "Located inside a stony half-cave", "Accessible via wooden footbridges and trails", "One of the most photogenic spots in the Soca Valley"],
     },
-    imageHint: "Kozjak waterfall Kobarid Slovenia cave", image: "/poi-images/slovenia-kozjak-waterfall-nature-v2.webp"},
-  {
+imageHint: "Kozjak waterfall Kobarid Slovenia cave",
+    descriptionAdvanced: {
+      de: "Der Kozjak-Wasserfall ist in einer höhlenartigen Felskammer verborgen und stürzt in ein smaragdgrünes Becken. Er gilt als einer der malerischsten Orte Sloweniens.",
+      hu: "A Kozjak-vízesés egy barlangszerű sziklaüregben rejtőzik, ahol smaragdzöld medencébe zúdul a víz. Kobarid közelében található, festői környezetben.",
+      ro: "Cascada Kozjak este ascunsă într-o grotă stâncoasă semicirculară și cade într-un bazin smaraldin. Este considerată una dintre cele mai frumoase cascade.",
+      en: "Kozjak Waterfall is hidden within a cave-like rocky chamber, plunging into an emerald pool. It is located near Kobarid in a highly picturesque setting.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 15 Meter", "Höhlenartige Umgebung", "Eintrittsgebühr im Sommer", "In der Nähe von Kobarid"],
+      hu: ["Magasság: 15 méter", "Barlangszerű katlan", "Belépődíj a szezonban", "Kobarid közelében található"],
+      ro: ["Înălțime: 15 metri", "Cadru natural tip grotă", "Taxă de vizitare vara", "Situată lângă Kobarid"],
+      en: ["Height: 15 meters", "Cave-like amphitheater", "Entry fee in high season", "Located near Kobarid"],
+    },
+    image: "/poi-images/slovenia-kozjak-waterfall-nature-v2.webp",
+},  {
     id: "slovenia-velika-planina-nature-v2",
     type: "mountain",
-    name: { de: "Große Alm", hu: "Velika Planina", ro: "Velika Planina", en: "Velika Planina" },
+    name: { de: "Große Alm", hu: "Velika Planina", ro: "Velika Planina", en: "Velika Planina",
+image: "/poi-images/slovenia-velika-planina-nature-v2.webp"
+},
     coords: [14.6514, 46.2958],
     coordinates: { lat: 46.2958, lng: 14.6514 },
     description: {
@@ -494,11 +871,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Platou situat la aproximativ 1500 m altitudine", "Cuprinde peste 140 de colibe de păstori", "Cunoscută pentru brânza artizanală Trnič", "Acoperită de covoare de brândușe în primăvară"],
       en: ["Plateau altitude of approximately 1,500 meters", "Includes over 140 traditional shepherds' huts", "Famous for the pear-shaped Trnič cheese", "Covered in purple crocuses every spring"],
     },
-    imageHint: "Velika Planina shepherds huts Slovenia", image: "/poi-images/slovenia-velika-planina-nature-v2.webp"},
-  {
+imageHint: "Velika Planina shepherds huts Slovenia",
+    descriptionAdvanced: {
+      de: "Die Velika Planina ist eine der größten Hochalmen Europas. Sie ist bekannt für ihre einzigartige Architektur der Hirtenhütten und die traditionelle Käseherstellung.",
+      hu: "A Velika Planina Európa egyik legnagyobb magashegyi pásztorszállása. Egyedi építészetű kunyhóiról és a hagyományos Trnič sajt készítéséről nevezetes.",
+      ro: "Velika Planina este unul dintre cele mai mari platouri alpine locuite de păstori din Europa. Este faimos pentru colibele sale tradiționale și brânza Trnič.",
+      en: "Velika Planina is one of Europe's largest high-altitude herdsmen settlements. It is famous for its unique hut architecture and traditional cheese making.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 1500 Meter", "Trnič-Käsetradition", "Über 140 Hirtenhütten", "Seilbahn von Kamniška Bistrica"],
+      hu: ["Magasság: kb. 1500 méter", "Trnič sajt készítése", "Több mint 140 kunyhó", "Felvonó Kamniška Bistricából"],
+      ro: ["Altitudine: aprox. 1500 m", "Tradiția brânzei Trnič", "Peste 140 de colibe", "Telecabină din valea Bistrica"],
+      en: ["Elevation: approx. 1,500 m", "Trnič cheese tradition", "Over 140 herdsmen huts", "Cable car from the valley"],
+    },
+    image: "/poi-images/slovenia-velika-planina-nature-v2.webp",
+},  {
     id: "slovenia-dragonja-river-nature-v2",
     type: "river",
-    name: { de: "Dragonja", hu: "Dragonja-folyó", ro: "Râul Dragonja", en: "Dragonja River" },
+    name: { de: "Dragonja", hu: "Dragonja-folyó", ro: "Râul Dragonja", en: "Dragonja River",
+image: "/poi-images/slovenia-dragonja-river-nature-v2.webp"
+},
     coords: [13.6336, 45.4744],
     coordinates: { lat: 45.4744, lng: 13.6336 },
     description: {
@@ -513,11 +905,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 30 kilometri", "Habitat vital pentru amfibieni rari", "Singurul râu sloven fără albie regularizată", "Gura de vărsare este lângă Salinele Sečovlje"],
       en: ["Approximately 30 kilometers in length", "Important habitat for rare amphibian species", "Slovenia's only river with an entirely unregulated bed", "Mouth is located at the Sečovlje Salt Pans"],
     },
-    imageHint: "Dragonja river valley Istria Slovenia", image: "/poi-images/slovenia-dragonja-river-nature-v2.webp"},
-  {
+imageHint: "Dragonja river valley Istria Slovenia",
+    descriptionAdvanced: {
+      de: "Die Dragonja ist ein naturbelassener Fluss im slowenischen Istrien, der durch Flyschlandschaften fließt. Er mündet in die Adria nahe der Salinen von Sečovlje.",
+      hu: "A Dragonja egy természetes állapotában megmaradt folyó a szlovén Isztrián, amely flis-tájakon folyik keresztül. Az Adria-tengerbe torkollik a sólepárlók mellett.",
+      ro: "Râul Dragonja este un curs de apă natural din Istria slovenă, care traversează peisaje de fliș. Se varsă în Marea Adriatică lângă salinele Sečovlje.",
+      en: "The Dragonja River is a pristine river in Slovenian Istria flowing through flysch landscapes. It meets the Adriatic Sea near the Sečovlje salt pans.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 30 Kilometer", "Grenze zu Kroatien (teils)", "Einziger Fluss ohne Dämme", "Flysch-Gesteinsformationen"],
+      hu: ["Hosszúság: 30 kilométer", "Részben határfolyó", "Nincsenek rajta gátak", "Jellegzetes flis-kőzet"],
+      ro: ["Lungime: 30 kilometri", "Graniță parțială cu Croația", "Râu fără baraje", "Formațiuni de fliș"],
+      en: ["Length: 30 kilometers", "Partial border with Croatia", "Unregulated river (no dams)", "Flysch rock formations"],
+    },
+    image: "/poi-images/slovenia-dragonja-river-nature-v2.webp",
+},  {
     id: "slovenia-tolmin-gorges-nature-v2",
     type: "valley",
-    name: { de: "Tolminer Klammen", hu: "Tolmin-szurdok", ro: "Cheile Tolmin", en: "Tolmin Gorges" },
+    name: { de: "Tolminer Klammen", hu: "Tolmin-szurdok", ro: "Cheile Tolmin", en: "Tolmin Gorges",
+image: "/poi-images/slovenia-tolmin-gorges-nature-v2.webp"
+},
     coords: [13.7386, 46.1983],
     coordinates: { lat: 46.1983, lng: 13.7386 },
     description: {
@@ -532,11 +939,26 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai jos punct din Parcul Național Triglav (180 m)", "Traversate de faimosul 'Pod al Diavolului'", "Adăpostește un izvor termal în interiorul cheilor", "Include stânca suspendată numită 'Capul Ursului'"],
       en: ["Lowest point of Triglav National Park (180 m)", "Crossed by the high-altitude 'Devil's Bridge'", "Home to a thermal spring inside the gorge", "Features a large wedged rock called 'Bear's Head'"],
     },
-    imageHint: "Tolmin Gorges Soca valley Devil's bridge", image: "/poi-images/slovenia-tolmin-gorges-nature-v2.webp"},
-  {
+imageHint: "Tolmin Gorges Soca valley Devil's bridge",
+    descriptionAdvanced: {
+      de: "Die Tolminer Schluchten sind der tiefste Eintrittspunkt in den Triglav-Nationalpark. Besonders sehenswert sind die Teufelsbrücke und die Thermalquelle am Flussufer.",
+      hu: "A Tolmini-szurdok a Triglav Nemzeti Park legmélyebb és legdélebbi pontja. Főbb látnivalói az Ördög-híd és a folyóparton feltörő termálforrás.",
+      ro: "Cheile Tolmin reprezintă cel mai jos punct de intrare în Parcul Național Triglav. Atracțiile includ Podul Diavolului și izvorul termal de pe malul râului.",
+      en: "The Tolmin Gorges are the lowest entry point into the Triglav National Park. Key features include the Devil's Bridge and a thermal spring by the river.",
+    },
+    factsAdvanced: {
+      de: ["Höhe am Eingang: 180 Meter", "Teufelsbrücke: 60 m hoch", "Dante-Höhle (Zadlaška)", "Zusammenfluss Tolminka/Zadlaščica"],
+      hu: ["Belépési magasság: 180 méter", "Ördög-híd: 60 m magas", "Dante-barlang (Zadlaška)", "Tolminka és Zadlaščica összefolyása"],
+      ro: ["Altitudine intrare: 180 m", "Podul Diavolului: 60 m înălțime", "Peștera lui Dante", "Confluenta Tolminka/Zadlaščica"],
+      en: ["Entry elevation: 180 meters", "Devil's Bridge: 60m high", "Dante's Cave nearby", "Confluence of two rivers"],
+    },
+    image: "/poi-images/slovenia-tolmin-gorges-nature-v2.webp",
+},  {
     id: "slovenia-zelenci-nature-v2",
     type: "park",
-    name: { de: "Zelenci", hu: "Zelenci Természetvédelmi Terület", ro: "Rezervația Naturală Zelenci", en: "Zelenci Nature Reserve" },
+    name: { de: "Zelenci", hu: "Zelenci Természetvédelmi Terület", ro: "Rezervația Naturală Zelenci", en: "Zelenci Nature Reserve",
+image: "/poi-images/slovenia-zelenci-nature-v2.webp"
+},
     coords: [13.7347, 46.4914],
     coordinates: { lat: 46.4914, lng: 13.7347 },
     description: {
@@ -552,5 +974,17 @@ export const sloveniaNatureV2: POI[] = [
       en: ["Water temperature remains constant at about 6°C", "Name is derived from the Slovenian word for 'green'", "Center of a biodiverse marshland habitat", "Deeply admired by the scientist Sir Humphry Davy"],
     },
     imageHint: "Zelenci nature reserve emerald lake Alps",
+    descriptionAdvanced: {
+      de: "Das Naturreservat Zelenci beherbergt den smaragdgrünen Quellsee der Save Dolinka. Das Wasser sprudelt aus zahlreichen kleinen Quellen am kalkhaltigen Seegrund.",
+      hu: "A Zelenci Természetvédelmi Terület a Száva Dolinka forrásvidéke. A smaragdzöld tó alján apró források bugyognak fel a mészköves mederből.",
+      ro: "Rezervația Naturală Zelenci adăpostește izvorul smaraldin al râului Sava Dolinka. Apa țâșnește din numeroase izvoare mici pe fundul lacului calcaros.",
+      en: "Zelenci Nature Reserve features the emerald-green source of the Sava Dolinka river. Water bubbles up from numerous small springs on the lake's chalky bed.",
+    },
+    factsAdvanced: {
+      de: ["Wassertemp. ganzjährig 6°C", "Fläche des Reservats: 47 ha", "Hölzerne Stege für Besucher", "Blick auf Vitranc und Ponce"],
+      hu: ["Vízhőmérséklet: állandó 6°C", "Rezervátum területe: 47 ha", "Fapallós tanösvény", "Kilátás a Vitranc-hegyre"],
+      ro: ["Temp. apă: constantă 6°C", "Suprafață rezervație: 47 ha", "Pasarele din lemn pentru vizitatori", "Vedere spre masivul Vitranc"],
+      en: ["Water temp: constant 6°C", "Reserve area: 47 hectares", "Wooden observation boardwalk", "Views of Ponce and Vitranc"],
+    },
   }
 ];

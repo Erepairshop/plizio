@@ -11,8 +11,9 @@ export const poiExtraSurinameLifeV2: POI[] = [
       de: "Paramaribo",
       hu: "Paramaribo",
       ro: "Paramaribo",
-      en: "Paramaribo"
-    },
+      en: "Paramaribo",
+image: "/poi-images/paramaribo-life-v2.webp"
+},
     description: {
       de: "Die pulsierende Hauptstadt von Suriname liegt am Ufer des gleichnamigen Flusses. Die historische Innenstadt ist für ihre typisch niederländische Holzarchitektur bekannt.",
       hu: "Suriname nyüzsgő fővárosa az azonos nevű folyó partján fekszik. Történelmi belvárosa a jellegzetes holland faépítészetéről ismert.",

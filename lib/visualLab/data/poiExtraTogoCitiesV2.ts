@@ -6,7 +6,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TG-M",
     coords: [1.2225, 6.1372],
-    name: { de: "Lomé", hu: "Lomé", ro: "Lomé", en: "Lomé" },
+    name: { de: "Lomé", hu: "Lomé", ro: "Lomé", en: "Lomé",
+image: "/poi-images/lome-cities-v2.webp"
+},
     description: {
       de: "Lomé liegt direkt am Golf von Guinea und ist das pulsierende politische und wirtschaftliche Zentrum Togos. Die Stadt ist berühmt für ihren riesigen Zentralmarkt und die entspannte Atmosphäre am Atlantikstrand. Geographie K7 - Urbanisierung.",
       hu: "Lomé közvetlenül a Guineai-öböl partján fekszik, Togo lüktető politikai és gazdasági központjaként. A város híres hatalmas központi piacáról és az atlanti-parti strandok hangulatáról. Földrajz K7 - Urbanizáció.",
@@ -30,7 +32,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TG-P",
     coords: [1.1308, 7.5275],
-    name: { de: "Atakpamé", hu: "Atakpamé", ro: "Atakpamé", en: "Atakpamé" },
+    name: { de: "Atakpamé", hu: "Atakpamé", ro: "Atakpamé", en: "Atakpamé",
+image: "/poi-images/atakpame-cities-v2.webp"
+},
     description: {
       de: "Atakpamé thront auf Hügeln und bietet eine erfrischende Abkühlung zur Küstenhitze. Die Stadt war einst ein wichtiges Verwaltungszentrum während der deutschen Kolonialzeit. Geschichte K8 - Kolonialgeschichte.",
       hu: "Atakpamé dombokon trónol, felfrissülést nyújtva a tengerparti hőség után. A város egykor fontos adminisztratív központ volt a német gyarmati időszakban. Történelem K8 - Gyarmati történelem.",
@@ -54,7 +58,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TG-C",
     coords: [1.1394, 8.9833],
-    name: { de: "Sokodé", hu: "Sokodé", ro: "Sokodé", en: "Sokodé" },
+    name: { de: "Sokodé", hu: "Sokodé", ro: "Sokodé", en: "Sokodé",
+image: "/poi-images/sokode-cities-v2.webp"
+},
     description: {
       de: "Sokodé ist die zweitgrößte Stadt Togos und ein bedeutendes Zentrum des Islam im Land. Die Stadt liegt zwischen den Flüssen Mono und Mo und ist bekannt für ihre reiche Webtradition. Geographie K7 - Regionale Zentren.",
       hu: "Sokodé Togo második legnagyobb városa és az iszlám jelentős központja az országban. A város a Mono és a Mo folyók között fekszik, és híres gazdag szövési hagyományairól. Földrajz K7 - Regionális központok.",
@@ -78,7 +84,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TG-K",
     coords: [1.1914, 9.5511],
-    name: { de: "Kara", hu: "Kara", ro: "Kara", en: "Kara" },
+    name: { de: "Kara", hu: "Kara", ro: "Kara", en: "Kara",
+image: "/poi-images/kara-cities-v2.webp"
+},
     description: {
       de: "Kara ist eine dynamische Stadt im Norden, die stark durch die nahegelegene Heimatregion des ehemaligen Präsidenten geprägt wurde. Sie dient als Tor zur beeindruckenden Koutammakou-Landschaft. Geographie K8 - Kulturlandschaften.",
       hu: "Kara egy dinamikus északi város, amelyet erősen meghatároz a volt elnök közeli szülőrégiója. Kapuként szolgál a lenyűgöző Koutammakou kultúrtáj felé. Földrajz K8 - Kultúrtájak.",
@@ -102,7 +110,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TG-S",
     coords: [0.2075, 10.8608],
-    name: { de: "Dapaong", hu: "Dapaong", ro: "Dapaong", en: "Dapaong" },
+    name: { de: "Dapaong", hu: "Dapaong", ro: "Dapaong", en: "Dapaong",
+image: "/poi-images/dapaong-cities-v2.webp"
+},
     description: {
       de: "Dapaong liegt im äußersten Norden Togos nahe der Grenze zu Burkina Faso und ist von trockener Savannenlandschaft umgeben. Die Stadt ist ein vitaler Handelsplatz für Vieh und Getreide. Geographie K5 - Klimazonen.",
       hu: "Dapaong Togo legészakibb részén, Burkina Faso határához közel fekszik, száraz szavannás tájjal körülvéve. A város az élőállat- és gabonakereskedelem létfontosságú központja. Földrajz K7 - Éghajlati övezetek.",
@@ -126,7 +136,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [1.2133, 6.4258],
-    name: { de: "Tsévié", hu: "Tsévié", ro: "Tsévié", en: "Tsévié" },
+    name: { de: "Tsévié", hu: "Tsévié", ro: "Tsévié", en: "Tsévié",
+image: "/poi-images/tsevie-cities-v2.webp"
+},
     description: {
       de: "Tsévié ist ein bedeutendes Zentrum für die Verarbeitung von Palmöl und liegt verkehrsgünstig an der Hauptstraße nach Norden. Die Stadt feiert jährlich das farbenfrohe Ayiza-Fest. Sachkunde K3 - Landwirtschaft.",
       hu: "Tsévié a pálmaolaj-feldolgozás jelentős központja, amely stratégiai helyen, az északra vezető főút mentén fekszik. A város évente ünnepli a színes Ayiza-fesztivált. Környezetismeret K3 - Mezőgazdaság.",
@@ -150,7 +162,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [1.5964, 6.2275],
-    name: { de: "Aného", hu: "Aného", ro: "Aného", en: "Aného" },
+    name: { de: "Aného", hu: "Aného", ro: "Aného", en: "Aného",
+image: "/poi-images/aneho-cities-v2.webp"
+},
     description: {
       de: "Aného, die ehemalige Hauptstadt Togos, liegt malerisch zwischen einer Lagune und dem Meer. Die Stadt bewahrt ein reiches architektonisches Erbe aus der Kolonialzeit. Geschichte K7 - Ehemalige Hauptstädte.",
       hu: "Aného, Togo korábbi fővárosa, festői helyen, egy lagúna és a tenger között fekszik. A város gazdag építészeti örökséget őriz a gyarmati időkből. Történelem K7 - Korábbi fővárosok.",
@@ -174,7 +188,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [0.6314, 6.9103],
-    name: { de: "Kpalimé", hu: "Kpalimé", ro: "Kpalimé", en: "Kpalimé" },
+    name: { de: "Kpalimé", hu: "Kpalimé", ro: "Kpalimé", en: "Kpalimé",
+image: "/poi-images/kpalime-cities-v2.webp"
+},
     description: {
       de: "Kpalimé ist das touristische Juwel Togos, umgeben von dichten Wäldern und Wasserfällen am Fuße des Mount Agou. Die Stadt ist bekannt für ihr angenehmes Klima und ihr lebendiges Kunsthandwerk. Geographie K6 - Ökotourismus.",
       hu: "Kpalimé Togo turisztikai ékköve, sűrű erdőkkel és vízesésekkel körülvéve az Agou-hegy lábánál. A város kellemes klímájáról és élénk kézművességéről ismert. Földrajz K6 - Ökoturizmus.",
@@ -198,7 +214,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [1.5008, 6.5833],
-    name: { de: "Tabligbo", hu: "Tabligbo", ro: "Tabligbo", en: "Tabligbo" },
+    name: { de: "Tabligbo", hu: "Tabligbo", ro: "Tabligbo", en: "Tabligbo",
+image: "/poi-images/tabligbo-cities-v2.webp"
+},
     description: {
       de: "Tabligbo ist das industrielle Rückgrat der Maritimen Region, geprägt durch große Phosphatvorkommen und Zementwerke. Die Stadt spielt eine zentrale Rolle in der Exportwirtschaft des Landes. Erdkunde K8 - Bodenschätze.",
       hu: "Tabligbo a tengerparti régió ipari gerince, amelyet hatalmas foszfátlelőhelyek és cementgyárak jellemeznek. A város központi szerepet játszik az ország exportgazdaságában. Földrajz K8 - Ásványkincsek.",
@@ -223,7 +241,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [1.5283, 6.3267],
-    name: { de: "Vogan", hu: "Vogan", ro: "Vogan", en: "Vogan" },
+    name: { de: "Vogan", hu: "Vogan", ro: "Vogan", en: "Vogan",
+image: "/poi-images/vogan-cities-v2.webp"
+},
     description: {
       de: "Vogan ist berühmt für seinen großen Wochenmarkt, der Händler aus der gesamten Region anzieht. Die Stadt ist zudem ein tief verwurzeltes Zentrum traditioneller Voodoo-Praktiken. Sachkunde K4 - Regionale Märkte.",
       hu: "Vogan híres hatalmas heti piacáról, amely az egész régióból vonzza a kereskedőket. A város emellett a hagyományos vudu rítusok mélyen gyökerező központja is. Környezetismeret K4 - Regionális piacok.",
@@ -247,7 +267,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [1.1667, 6.9500],
-    name: { de: "Notsé", hu: "Notsé", ro: "Notsé", en: "Notsé" },
+    name: { de: "Notsé", hu: "Notsé", ro: "Notsé", en: "Notsé",
+image: "/poi-images/notse-cities-v2.webp"
+},
     description: {
       de: "Notsé gilt als die spirituelle Wiege des Ewe-Volkes und beherbergt die Überreste historischer Festungsmauern. Die Stadt ist ein Ort tiefer historischer Bedeutung für Westafrika. Geschichte K6 - Migration der Völker.",
       hu: "Notsé az ewe nép szellemi bölcsőjének számít, és történelmi erődítményfalak maradványait őrzi. A város mély történelmi jelentőséggel bír Nyugat-Afrika számára. Történelem K6 - Népvándorlás.",
@@ -271,7 +293,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.4667, 10.3500],
-    name: { de: "Sansanné-Mango", hu: "Sansanné-Mango", ro: "Sansanné-Mango", en: "Sansanné-Mango" },
+    name: { de: "Sansanné-Mango", hu: "Sansanné-Mango", ro: "Sansanné-Mango", en: "Sansanné-Mango",
+image: "/poi-images/sansanne-mango-cities-v2.webp"
+},
     description: {
       de: "Sansanné-Mango liegt am Ufer des Oti-Flusses und ist ein wichtiges Handelszentrum im Norden Togos. Die Stadt hat eine lange Geschichte als Rastplatz für Karawanen. Geschichte K8 - Handelswege.",
       hu: "Sansanné-Mango az Oti-folyó partján fekszik, és Togo északi részének fontos kereskedelmi központja. A város hosszú múltra tekint vissza a karavánok pihenőhelyeként. Történelem K8 - Kereskedelmi utak.",
@@ -295,7 +319,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [0.7833, 9.2500],
-    name: { de: "Bassar", hu: "Bassar", ro: "Bassar", en: "Bassar" },
+    name: { de: "Bassar", hu: "Bassar", ro: "Bassar", en: "Bassar",
+image: "/poi-images/bassar-cities-v2.webp"
+},
     description: {
       de: "Bassar ist in ganz Westafrika für seine traditionelle Eisenverhüttung bekannt, deren Öfen noch heute besichtigt werden können. Die Stadt liegt in einer malerischen Hügellandschaft. Geschichte K8 - Frühe Industrie.",
       hu: "Bassar egész Nyugat-Afrikában híres hagyományos vasolvasztásáról, amelynek kemencéi ma is megtekinthetők. A város festői dombos vidéken fekszik. Történelem K8 - Korai ipar.",
@@ -319,7 +345,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-C",
     coords: [1.4167, 9.0333],
-    name: { de: "Tchamba", hu: "Tchamba", ro: "Tchamba", en: "Tchamba" },
+    name: { de: "Tchamba", hu: "Tchamba", ro: "Tchamba", en: "Tchamba",
+image: "/poi-images/tchamba-cities-v2.webp"
+},
     description: {
       de: "Tchamba liegt nahe der Grenze zu Benin und ist ein Schmelztiegel verschiedener ethnischer Gruppen und Kulturen. Die Stadt ist für ihre Landwirtschaft und den grenzüberschreitenden Handel bekannt. Geographie K6 - Grenzregionen.",
       hu: "Tchamba a benini határ közelében fekszik, különböző etnikai csoportok és kultúrák olvasztótégelye. A város mezőgazdaságáról és a határokon átnyúló kereskedelméről ismert. Földrajz K6 - Határmenti régiók.",
@@ -344,7 +372,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [0.6000, 7.5833],
-    name: { de: "Badou", hu: "Badou", ro: "Badou", en: "Badou" },
+    name: { de: "Badou", hu: "Badou", ro: "Badou", en: "Badou",
+image: "/poi-images/badou-cities-v2.webp"
+},
     description: {
       de: "Badou liegt versteckt in einem üppigen Tal nahe der ghanaischen Grenze und ist ein Hauptzentrum für den Kaffeeanbau. Die umliegende Landschaft ist geprägt von dichten Wäldern und steilen Klippen. Sachkunde K3 - Nutzpflanzen.",
       hu: "Badou egy dús völgyben rejtőzik a ghánai határ közelében, a kávétermesztés egyik fő központjaként. A környező tájat sűrű erdők és meredek sziklák jellemzik. Környezetismeret K3 - Haszonnövények.",
@@ -368,7 +398,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.1042, 9.7681],
-    name: { de: "Niamtougou", hu: "Niamtougou", ro: "Niamtougou", en: "Niamtougou" },
+    name: { de: "Niamtougou", hu: "Niamtougou", ro: "Niamtougou", en: "Niamtougou",
+image: "/poi-images/niamtougou-cities-v2.webp"
+},
     description: {
       de: "Niamtougou beherbergt den zweiten internationalen Flughafen des Landes und ist ein wichtiger logistischer Knotenpunkt im Norden. Die Stadt ist bekannt für ihren lebhaften Markt und ihre strategische Bedeutung. Geographie K8 - Infrastruktur.",
       hu: "Niamtougou ad otthont az ország második nemzetközi repülőterének, és fontos logisztikai csomópont északon. A város híres élénk piacáról és stratégiai jelentőségéről. Földrajz K8 - Infrastruktúra.",
@@ -392,7 +424,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.2667, 9.3500],
-    name: { de: "Bafilo", hu: "Bafilo", ro: "Bafilo", en: "Bafilo" },
+    name: { de: "Bafilo", hu: "Bafilo", ro: "Bafilo", en: "Bafilo",
+image: "/poi-images/bafilo-cities-v2.webp"
+},
     description: {
       de: "Bafilo schmiegt sich an den Fuß der Alédjo-Berge und ist berühmt für seine traditionellen Webereien. Die Stadt liegt an einer landschaftlich reizvollen Passstraße. Geographie K7 - Mittelgebirge.",
       hu: "Bafilo az Alédjo-hegység lábánál fekszik, és híres hagyományos szövőműhelyeiről. A város egy festői szépségű hágóút mentén található. Földrajz K7 - Középhegységek.",
@@ -417,7 +451,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.0500, 9.9500],
-    name: { de: "Kandé", hu: "Kandé", ro: "Kandé", en: "Kandé" },
+    name: { de: "Kandé", hu: "Kandé", ro: "Kandé", en: "Kandé",
+image: "/poi-images/kande-cities-v2.webp"
+},
     description: {
       de: "Kandé ist der wichtigste Ausgangspunkt für Besuche im Koutammakou-Park, dem UNESCO-Weltkulturerbe der Tamberma. Die Stadt ist tief in den Traditionen der nordtogolesischen Völker verwurzelt. Geschichte K6 - Weltkulturerbe.",
       hu: "Kandé a legfontosabb kiindulópont a Koutammakou Park, a Tamberma nép UNESCO világörökségi helyszínének meglátogatásához. A város mélyen gyökerezik az észak-togói népek hagyományaiban. Történelem K6 - Világörökség.",
@@ -441,7 +477,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-C",
     coords: [0.9833, 8.5667],
-    name: { de: "Sotouboua", hu: "Sotouboua", ro: "Sotouboua", en: "Sotouboua" },
+    name: { de: "Sotouboua", hu: "Sotouboua", ro: "Sotouboua", en: "Sotouboua",
+image: "/poi-images/sotouboua-cities-v2.webp"
+},
     description: {
       de: "Sotouboua liegt im Herzen Togos und ist ein wichtiger landwirtschaftlicher Umschlagplatz an der Nord-Süd-Achse. Die Stadt ist von fruchtbaren Ebenen umgeben, die ideal für den Getreideanbau sind. Erdkunde K7 - Landnutzung.",
       hu: "Sotouboua Togo szívében fekszik, és fontos mezőgazdasági csomópont az észak-déli tengely mentén. A várost termékeny síkságok veszik körül, amelyek ideálisak a gabonatermesztéshez. Földrajz K7 - Földhasználat.",
@@ -465,7 +503,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-C",
     coords: [0.9167, 8.3167],
-    name: { de: "Blitta", hu: "Blitta", ro: "Blitta", en: "Blitta" },
+    name: { de: "Blitta", hu: "Blitta", ro: "Blitta", en: "Blitta",
+image: "/poi-images/blitta-cities-v2.webp"
+},
     description: {
       de: "Blitta war lange Zeit der Endpunkt der zentralen Eisenbahnlinie Togos und ein wichtiger Verladepunkt für Waren. Heute ist die Stadt ein pulsierendes Handelszentrum in der Centrale-Region. Geographie K8 - Verkehrsnetze.",
       hu: "Blitta hosszú ideig Togo központi vasútvonalának végállomása volt, és az áruk fontos rakodóhelyeként szolgált. Ma a város a Centrale régió lüktető kereskedelmi központja. Földrajz K8 - Közlekedési hálózatok.",
@@ -489,7 +529,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [0.9167, 6.3167],
-    name: { de: "Kévé", hu: "Kévé", ro: "Kévé", en: "Kévé" },
+    name: { de: "Kévé", hu: "Kévé", ro: "Kévé", en: "Kévé",
+image: "/poi-images/keve-cities-v2.webp"
+},
     description: {
       de: "Kévé liegt nahe der Grenze zu Ghana und ist bekannt für seine fruchtbaren Böden, auf denen vor allem Maniok und Yam angebaut werden. Die Stadt ist ein wichtiger Lieferant für die Märkte in Lomé. Sachkunde K3 - Landwirtschaft.",
       hu: "Kévé a ghánai határ közelében fekszik, és termékeny talajáról ismert, ahol főleg maniokot és jamszgyökeret termesztenek. A város a loméi piacok fontos beszállítója. Környezetismeret K3 - Mezőgazdaság.",
@@ -513,7 +555,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [1.7667, 6.5000],
-    name: { de: "Afagnan", hu: "Afagnan", ro: "Afagnan", en: "Afagnan" },
+    name: { de: "Afagnan", hu: "Afagnan", ro: "Afagnan", en: "Afagnan",
+image: "/poi-images/afagnan-cities-v2.webp"
+},
     description: {
       de: "Afagnan ist weit über die Landesgrenzen hinaus für sein großes Krankenhaus bekannt, das als eines der besten in der Region gilt. Die Stadt liegt im südöstlichen Teil des Landes nahe dem Mono-Fluss. Sachkunde K4 - Öffentliche Dienste.",
       hu: "Afagnan messze az országhatárokon túl is híres nagy kórházáról, amelyet a régió egyik legjobbjának tartanak. A város az ország délkeleti részén, a Mono-folyó közelében fekszik. Környezetismeret K4 - Közszolgáltatások.",
@@ -537,7 +581,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-M",
     coords: [1.4833, 6.2333],
-    name: { de: "Togoville", hu: "Togoville", ro: "Togoville", en: "Togoville" },
+    name: { de: "Togoville", hu: "Togoville", ro: "Togoville", en: "Togoville",
+image: "/poi-images/togoville-cities-v2.webp"
+},
     description: {
       de: "Togoville gab dem ganzen Land seinen Namen und ist ein Ort von immenser historischer und spiritueller Bedeutung. Hier wurde 1884 der Schutzvertrag mit dem Deutschen Reich unterzeichnet. Geschichte K8 - Kolonialgeschichte.",
       hu: "Togoville adta az egész ország nevét, és óriási történelmi és szellemi jelentőségű hely. Itt írták alá 1884-ben a védelmi szerződést a Német Birodalommal. Történelem K8 - Gyarmati történelem.",
@@ -561,7 +607,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [1.2500, 7.8500],
-    name: { de: "Elavagnon", hu: "Elavagnon", ro: "Elavagnon", en: "Elavagnon" },
+    name: { de: "Elavagnon", hu: "Elavagnon", ro: "Elavagnon", en: "Elavagnon",
+image: "/poi-images/elavagnon-cities-v2.webp"
+},
     description: {
       de: "Elavagnon ist ein wichtiges landwirtschaftliches Zentrum in der Plateaux-Region, umgeben von Hügeln und fruchtbarem Ackerland. Die Stadt dient als lokaler Handelsplatz für Kakao und Kaffee. Geographie K7 - Agrarwirtschaft.",
       hu: "Elavagnon a Plateaux régió fontos mezőgazdasági központja, dombokkal és termékeny szántóföldekkel körülvéve. A város a kakaó és a kávé helyi kereskedelmi helyszíneként szolgál. Földrajz K7 - Agrárgazdaság.",
@@ -585,7 +633,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [0.7333, 6.9167],
-    name: { de: "Agou", hu: "Agou", ro: "Agou", en: "Agou" },
+    name: { de: "Agou", hu: "Agou", ro: "Agou", en: "Agou",
+image: "/poi-images/agou-cities-v2.webp"
+},
     description: {
       de: "Agou liegt direkt am Fuße des höchsten Berges Togos, des Mount Agou. Die Stadt ist ein beliebter Ausgangspunkt für Wanderungen und bekannt für ihre üppige tropische Vegetation. Geographie K6 - Gebirgslandschaften.",
       hu: "Agou közvetlenül Togo legmagasabb hegye, az Agou-hegy lábánál fekszik. A város a túrázók népszerű kiindulópontja, és dús trópusi vegetációjáról ismert. Földrajz K6 - Hegyi tájak.",
@@ -609,7 +659,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [0.8500, 7.5167],
-    name: { de: "Amou-Oblo", hu: "Amou-Oblo", ro: "Amou-Oblo", en: "Amou-Oblo" },
+    name: { de: "Amou-Oblo", hu: "Amou-Oblo", ro: "Amou-Oblo", en: "Amou-Oblo",
+image: "/poi-images/amou-oblo-cities-v2.webp"
+},
     description: {
       de: "Amou-Oblo ist bekannt für seine moderne Stadtplanung und saubere Umgebung, was es von vielen anderen Städten der Region abhebt. Es ist ein Zentrum für Bildung und lokale Verwaltung. Geographie K8 - Stadtentwicklung.",
       hu: "Amou-Oblo modern várostervezéséről és tiszta környezetéről ismert, ami megkülönbözteti a régió sok más városától. Az oktatás és a helyi adminisztráció központja. Földrajz K8 - Városfejlesztés.",
@@ -633,7 +685,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [1.2000, 7.7667],
-    name: { de: "Anié", hu: "Anié", ro: "Anié", en: "Anié" },
+    name: { de: "Anié", hu: "Anié", ro: "Anié", en: "Anié",
+image: "/poi-images/anie-cities-v2.webp"
+},
     description: {
       de: "Anié ist ein strategischer Eisenbahn- und Straßenknotenpunkt in der Zentralregion. Die Stadt ist für ihre Textilindustrie und den lebhaften Handel entlang der Hauptverkehrsader bekannt. Geographie K8 - Infrastruktur.",
       hu: "Anié stratégiai vasúti és közúti csomópont a központi régióban. A város textiliparáról és a fő közlekedési útvonal menti élénk kereskedelméről ismert. Földrajz K8 - Infrastruktúra.",
@@ -657,7 +711,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [1.1333, 7.5500],
-    name: { de: "Hiheatro", hu: "Hiheatro", ro: "Hiheatro", en: "Hiheatro" },
+    name: { de: "Hiheatro", hu: "Hiheatro", ro: "Hiheatro", en: "Hiheatro",
+image: "/poi-images/hiheatro-cities-v2.webp"
+},
     description: {
       de: "Hiheatro liegt in der Nähe von Atakpamé und ist ein wichtiges ländliches Zentrum. Die Stadt ist von Kaffee- und Kakaoplantagen umgeben, die das wirtschaftliche Rückgrat der Gemeinde bilden. Sachkunde K3 - Landwirtschaft.",
       hu: "Hiheatro Atakpamé közelében fekszik, és fontos vidéki központ. A várost kávé- és kakaóültetvények veszik körül, amelyek a közösség gazdasági gerincét alkotják. Környezetismeret K3 - Mezőgazdaság.",
@@ -682,7 +738,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [0.7000, 7.6500],
-    name: { de: "Kougnohou", hu: "Kougnohou", ro: "Kougnohou", en: "Kougnohou" },
+    name: { de: "Kougnohou", hu: "Kougnohou", ro: "Kougnohou", en: "Kougnohou",
+image: "/poi-images/kougnohou-cities-v2.webp"
+},
     description: {
       de: "Kougnohou liegt im westlichen Teil der Plateaux-Region nahe der Grenze zu Ghana. Die Stadt ist für ihre malerische Hügellandschaft und die Produktion von hochwertigem Kakao bekannt. Geographie K6 - Agrarlandschaften.",
       hu: "Kougnohou a Plateaux régió nyugati részén fekszik, a ghánai határ közelében. A város festői dombos vidékéről és a kiváló minőségű kakaó termeléséről ismert. Földrajz K6 - Agrártájak.",
@@ -706,7 +764,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [1.6167, 7.0167],
-    name: { de: "Tohoun", hu: "Tohoun", ro: "Tohoun", en: "Tohoun" },
+    name: { de: "Tohoun", hu: "Tohoun", ro: "Tohoun", en: "Tohoun",
+image: "/poi-images/tohoun-cities-v2.webp"
+},
     description: {
       de: "Tohoun liegt direkt an der Grenze zu Benin und ist ein wichtiger Knotenpunkt für den grenzüberschreitenden Handel. Die Stadt ist geprägt von einer Mischung aus togoischen und beninischen Kultureinflüssen. Geschichte K8 - Grenzhandel.",
       hu: "Tohoun közvetlenül a benini határ mellett fekszik, és a határokon átnyúló kereskedelem fontos csomópontja. A várost a togói és a benini kulturális hatások keveredése jellemzi. Történelem K8 - Határmenti kereskedelem.",
@@ -730,7 +790,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-P",
     coords: [1.1333, 7.2000],
-    name: { de: "Wahala", hu: "Wahala", ro: "Wahala", en: "Wahala" },
+    name: { de: "Wahala", hu: "Wahala", ro: "Wahala", en: "Wahala",
+image: "/poi-images/wahala-cities-v2.webp"
+},
     description: {
       de: "Wahala liegt an der Hauptstraße nach Norden und ist ein bekannter Stopp für Reisende. Die Stadt hat eine interessante Geschichte, die mit der deutschen Kolonialverwaltung verbunden ist. Geschichte K8 - Kolonialzeit.",
       hu: "Wahala az északra vezető főút mentén fekszik, és az utazók jól ismert megállóhelye. A város érdekes múlttal rendelkezik, amely a német gyarmati adminisztrációhoz kötődik. Történelem K8 - Gyarmati korszak.",
@@ -755,7 +817,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-C",
     coords: [1.5333, 9.1500],
-    name: { de: "Kambolé", hu: "Kambolé", ro: "Kambolé", en: "Kambolé" },
+    name: { de: "Kambolé", hu: "Kambolé", ro: "Kambolé", en: "Kambolé",
+image: "/poi-images/kambole-cities-v2.webp"
+},
     description: {
       de: "Kambolé liegt in der Centrale-Region nahe der Grenze zu Benin. Die Stadt ist bekannt für ihre traditionellen Lehmbauten und die tief verwurzelten Bräuche der lokalen Bevölkerung. Geschichte K6 - Traditionelle Architektur.",
       hu: "Kambolé a Centrale régióban fekszik, a benini határ közelében. A város hagyományos vályogépületeiről és a helyi lakosság mélyen gyökerező szokásairól ismert. Történelem K6 - Hagyományos építészet.",
@@ -780,7 +844,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-C",
     coords: [0.6667, 8.8333],
-    name: { de: "Mô", hu: "Mô", ro: "Mô", en: "Mô" },
+    name: { de: "Mô", hu: "Mô", ro: "Mô", en: "Mô",
+image: "/poi-images/mo-cities-v2.webp"
+},
     description: {
       de: "Mô liegt in einem abgelegenen Tal und ist bekannt für seine unberührte Natur und die traditionelle Lebensweise seiner Bewohner. Die Stadt ist ein verstecktes Juwel in der Zentralregion Togos. Geographie K5 - Naturschutzgebiete.",
       hu: "Mô egy elszigetelt völgyben fekszik, érintetlen természetéről és lakóinak hagyományos életmódjáról ismert. A város Togo központi régiójának rejtett kincse. Földrajz K5 - Természetvédelmi területek.",
@@ -804,7 +870,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-C",
     coords: [0.9667, 8.1833],
-    name: { de: "Pagala", hu: "Pagala", ro: "Pagala", en: "Pagala" },
+    name: { de: "Pagala", hu: "Pagala", ro: "Pagala", en: "Pagala",
+image: "/poi-images/pagala-cities-v2.webp"
+},
     description: {
       de: "Pagala ist ein wichtiges ländliches Zentrum in der Centrale-Region, bekannt für seine ausgedehnten Reisfelder und die Produktion von Palmöl. Die Stadt spielt eine wichtige Rolle in der lokalen Versorgung. Sachkunde K3 - Landwirtschaft.",
       hu: "Pagala a Centrale régió fontos vidéki központja, amely kiterjedt rizsföldjeiről és pálmaolaj-termeléséről ismert. A város fontos szerepet játszik a helyi ellátásban. Környezetismeret K3 - Mezőgazdaság.",
@@ -828,7 +896,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.3000, 9.7500],
-    name: { de: "Pagouda", hu: "Pagouda", ro: "Pagouda", en: "Pagouda" },
+    name: { de: "Pagouda", hu: "Pagouda", ro: "Pagouda", en: "Pagouda",
+image: "/poi-images/pagouda-cities-v2.webp"
+},
     description: {
       de: "Pagouda liegt im Herzen des Kabyè-Landes und ist bekannt für seine terrassierten Felder und den traditionellen Bergbau. Die Stadt ist ein wichtiges kulturelles Zentrum der Kabyè-Ethnie. Geographie K8 - Terrassenfeldbau.",
       hu: "Pagouda a Kabyè-föld szívében fekszik, teraszos földjeiről és hagyományos bányászatáról ismert. A város a kabyè etnikum fontos kulturális központja. Földrajz K8 - Teraszos gazdálkodás.",
@@ -852,7 +922,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [0.5167, 9.6833],
-    name: { de: "Guérin-Kouka", hu: "Guérin-Kouka", ro: "Guérin-Kouka", en: "Guérin-Kouka" },
+    name: { de: "Guérin-Kouka", hu: "Guérin-Kouka", ro: "Guérin-Kouka", en: "Guérin-Kouka",
+image: "/poi-images/guerin-kouka-cities-v2.webp"
+},
     description: {
       de: "Guérin-Kouka liegt im Nordwesten Togos und ist ein wichtiges landwirtschaftliches Handelszentrum für Yam und Getreide. Die Stadt ist von weiten Savannenflächen umgeben. Geographie K5 - Savannen-Ökosysteme.",
       hu: "Guérin-Kouka Togo északnyugati részén fekszik, a jamszgyökér és a gabonafélék fontos mezőgazdasági kereskedelmi központja. A várost tágas szavannák veszik körül. Földrajz K5 - Szavanna ökoszisztémák.",
@@ -876,7 +948,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.0500, 9.9500],
-    name: { de: "Kanté", hu: "Kanté", ro: "Kanté", en: "Kanté" },
+    name: { de: "Kanté", hu: "Kanté", ro: "Kanté", en: "Kanté",
+image: "/poi-images/kante-cities-v2.webp"
+},
     description: {
       de: "Kanté ist eng mit der Tamberma-Region verbunden und dient als Versorgungszentrum für die Bewohner der berühmten Turmhäuser. Die Stadt liegt an der Nationalstraße nach Norden. Geschichte K6 - Traditionelle Lebensweisen.",
       hu: "Kanté szorosan kapcsolódik a Tamberma régióhoz, és a híres toronyházak lakóinak ellátó központjaként szolgál. A város az északra vezető főút mentén fekszik. Történelem K6 - Hagyományos életmódok.",
@@ -900,7 +974,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.3333, 9.7500],
-    name: { de: "Kpagouda", hu: "Kpagouda", ro: "Kpagouda", en: "Kpagouda" },
+    name: { de: "Kpagouda", hu: "Kpagouda", ro: "Kpagouda", en: "Kpagouda",
+image: "/poi-images/kpagouda-cities-v2.webp"
+},
     description: {
       de: "Kpagouda liegt in der hügeligen Landschaft der Kara-Region und ist bekannt für seine traditionellen Kabyè-Feste und Ringerwettbewerbe. Die Stadt ist ein Zentrum der lokalen Verwaltung. Geschichte K7 - Regionale Bräuche.",
       hu: "Kpagouda a Kara régió dombos vidékén fekszik, híres hagyományos kabyè fesztiváljairól és birkózóversenyeiről. A város a helyi adminisztráció központja. Földrajz K6 - Regionális szokások.",
@@ -925,7 +1001,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.1333, 9.6167],
-    name: { de: "Pya", hu: "Pya", ro: "Pya", en: "Pya" },
+    name: { de: "Pya", hu: "Pya", ro: "Pya", en: "Pya",
+image: "/poi-images/pya-cities-v2.webp"
+},
     description: {
       de: "Pya ist als Geburtsort des langjährigen Präsidenten Gnassingbé Eyadéma bekannt und hat eine große symbolische Bedeutung in Togo. Die Stadt verfügt über moderne Gebäude und Denkmäler. Geschichte K8 - Politische Geschichte.",
       hu: "Pya Gnassingbé Eyadéma hosszú ideig hivatalt viselő elnök szülőhelyeként ismert, és nagy szimbolikus jelentőséggel bír Togóban. A város modern épületekkel és emlékművekkel rendelkezik. Történelem K8 - Politikai történelem.",
@@ -949,7 +1027,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.3833, 9.5333],
-    name: { de: "Sabi Lamba", hu: "Sabi Lamba", ro: "Sabi Lamba", en: "Sabi Lamba" },
+    name: { de: "Sabi Lamba", hu: "Sabi Lamba", ro: "Sabi Lamba", en: "Sabi Lamba",
+image: "/poi-images/sabi-lamba-cities-v2.webp"
+},
     description: {
       de: "Sabi Lamba ist ein ruhiges ländliches Zentrum in der Kara-Region, geprägt von traditioneller Landwirtschaft und kleinen Handwerksbetrieben. Die Stadt bewahrt eine authentische Atmosphäre. Sachkunde K3 - Das Leben auf dem Land.",
       hu: "Sabi Lamba egy csendes vidéki központ a Kara régióban, amelyet hagyományos mezőgazdaság és kis kézműves műhelyek jellemeznek. A város megőrizte hiteles hangulatát. Környezetismeret K3 - Falusi élet.",
@@ -973,7 +1053,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.2500, 9.6667],
-    name: { de: "Sanda-Kagbanda", hu: "Sanda-Kagbanda", ro: "Sanda-Kagbanda", en: "Sanda-Kagbanda" },
+    name: { de: "Sanda-Kagbanda", hu: "Sanda-Kagbanda", ro: "Sanda-Kagbanda", en: "Sanda-Kagbanda",
+image: "/poi-images/sanda-kagbanda-cities-v2.webp"
+},
     description: {
       de: "Sanda-Kagbanda liegt in der Nähe von Kara und ist ein Zentrum für den lokalen Getreide- und Gemüsehandel. Die Stadt ist bekannt für ihre lebhaften Markttage. Geographie K6 - Lokaler Handel.",
       hu: "Sanda-Kagbanda Kara közelében fekszik, a helyi gabona- és zöldségkereskedelem központja. A város élénk piacnapjairól ismert. Földrajz K6 - Helyi kereskedelem.",
@@ -997,7 +1079,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.3167, 9.4833],
-    name: { de: "Sirka", hu: "Sirka", ro: "Sirka", en: "Sirka" },
+    name: { de: "Sirka", hu: "Sirka", ro: "Sirka", en: "Sirka",
+image: "/poi-images/sirka-cities-v2.webp"
+},
     description: {
       de: "Sirka liegt in den Ausläufern der Kabyè-Berge und ist für seine beeindruckenden Aussichten über die Savanne bekannt. Die Stadt ist ein wichtiger ritueller Ort für die lokale Bevölkerung. Geographie K7 - Reliefformen.",
       hu: "Sirka a Kabyè-hegység lábánál fekszik, és a szavannára nyíló lenyűgöző kilátásáról ismert. A város a helyi lakosság fontos rituális helyszíne. Földrajz K7 - Domborzati formák.",
@@ -1021,7 +1105,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-K",
     coords: [1.1833, 9.6500],
-    name: { de: "Yadé", hu: "Yadé", ro: "Yadé", en: "Yadé" },
+    name: { de: "Yadé", hu: "Yadé", ro: "Yadé", en: "Yadé",
+image: "/poi-images/yade-cities-v2.webp"
+},
     description: {
       de: "Yadé ist ein historischer Ort in der Kara-Region, bekannt für seine traditionellen Clan-Strukturen und die Bewahrung alter Legenden. Die Stadt liegt inmitten einer zerklüfteten Hügellandschaft. Geschichte K7 - Oral History.",
       hu: "Yadé történelmi hely a Kara régióban, hagyományos klánszerkezeteiről és régi legendáinak megőrzéséről ismert. A város egy tagolt dombos vidék közepén fekszik. Történelem K7 - Szóbeli történelem.",
@@ -1045,7 +1131,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.1833, 10.7500],
-    name: { de: "Biankouri", hu: "Biankouri", ro: "Biankouri", en: "Biankouri" },
+    name: { de: "Biankouri", hu: "Biankouri", ro: "Biankouri", en: "Biankouri",
+image: "/poi-images/biankouri-cities-v2.webp"
+},
     description: {
       de: "Biankouri liegt im äußersten Norden Togos, unweit der Grenzen zu Ghana und Burkina Faso. Die Stadt ist ein vitales Zentrum für den Viehhandel in der Savannes-Region. Geographie K8 - Handelszentren.",
       hu: "Biankouri Togo legészakibb részén fekszik, nem messze a ghánai és a burkina fasói határtól. A város az élőállat-kereskedelem létfontosságú központja a Savannes régióban. Földrajz K8 - Kereskedelmi központok.",
@@ -1069,7 +1157,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.2167, 10.6500],
-    name: { de: "Tandjouaré", hu: "Tandjouaré", ro: "Tandjouaré", en: "Tandjouaré" },
+    name: { de: "Tandjouaré", hu: "Tandjouaré", ro: "Tandjouaré", en: "Tandjouaré",
+image: "/poi-images/tandjouare-cities-v2.webp"
+},
     description: {
       de: "Tandjouaré ist der Hauptort der gleichnamigen Präfektur und ein wichtiges Verwaltungszentrum im Norden. Die Stadt ist bekannt für ihre strategische Lage an der Hauptverbindungsstraße. Geographie K8 - Verwaltungsstrukturen.",
       hu: "Tandjouaré az azonos nevű prefektúra székhelye és fontos adminisztratív központ északon. A város a fő összekötő út menti stratégiai elhelyezkedéséről ismert. Földrajz K8 - Közigazgatási szerkezetek.",
@@ -1094,7 +1184,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.3833, 10.4500],
-    name: { de: "Barkoissi", hu: "Barkoissi", ro: "Barkoissi", en: "Barkoissi" },
+    name: { de: "Barkoissi", hu: "Barkoissi", ro: "Barkoissi", en: "Barkoissi",
+image: "/poi-images/barkoissi-cities-v2.webp"
+},
     description: {
       de: "Barkoissi liegt in der Savannes-Region und ist für seinen bedeutenden regionalen Viehmarkt bekannt. Die Stadt ist ein wichtiger Treffpunkt für Hirten und Händler aus den Nachbarländern. Geographie K6 - Marktbeziehungen.",
       hu: "Barkoissi a Savannes régióban fekszik, és jelentős regionális állatvásáráról ismert. A város fontos találkozóhely a pásztorok és a szomszédos országok kereskedői számára. Földrajz K6 - Piaci kapcsolatok.",
@@ -1119,7 +1211,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.2333, 10.8333],
-    name: { de: "Bombouaka", hu: "Bombouaka", ro: "Bombouaka", en: "Bombouaka" },
+    name: { de: "Bombouaka", hu: "Bombouaka", ro: "Bombouaka", en: "Bombouaka",
+image: "/poi-images/bombouaka-cities-v2.webp"
+},
     description: {
       de: "Bombouaka ist bekannt für seine humanitären Einrichtungen und Bildungszentren, die die gesamte nördliche Region versorgen. Die Stadt liegt in einer malerischen, halbtrockenen Umgebung. Sachkunde K4 - Gemeinwesen.",
       hu: "Bombouaka humanitárius intézményeiről és oktatási központjairól ismert, amelyek az egész északi régiót kiszolgálják. A város festői, félsivatagi környezetben fekszik. Környezetismeret K4 - Közösség.",
@@ -1143,7 +1237,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.0083, 11.0833],
-    name: { de: "Cinkassé", hu: "Cinkassé", ro: "Cinkassé", en: "Cinkassé" },
+    name: { de: "Cinkassé", hu: "Cinkassé", ro: "Cinkassé", en: "Cinkassé",
+image: "/poi-images/cinkasse-cities-v2.webp"
+},
     description: {
       de: "Cinkassé ist eine pulsierende Grenzstadt im äußersten Nordwesten, die Togo mit Burkina Faso verbindet. Sie ist ein Zentrum des internationalen Handels und Transports. Geographie K8 - Grenzüberschreitender Verkehr.",
       hu: "Cinkassé egy lüktető határváros a távoli északnyugaton, amely Togót Burkina Fasóval köti össze. A nemzetközi kereskedelem és szállítás központja. Földrajz K8 - Határokon átnyúló közlekedés.",
@@ -1168,7 +1264,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.8167, 10.8500],
-    name: { de: "Mandouri", hu: "Mandouri", ro: "Mandouri", en: "Mandouri" },
+    name: { de: "Mandouri", hu: "Mandouri", ro: "Mandouri", en: "Mandouri",
+image: "/poi-images/mandouri-cities-v2.webp"
+},
     description: {
       de: "Mandouri liegt im Osten der Savannes-Region nahe der Grenze zu Benin. Die Stadt ist von weiten Ebenen umgeben und ein Zentrum für den Getreideanbau. Geographie K5 - Klimatische Einflüsse.",
       hu: "Mandouri a Savannes régió keleti részén fekszik, a benini határ közelében. A várost tágas síkságok veszik körül, és a gabonatermesztés központja. Földrajz K5 - Éghajlati hatások.",
@@ -1192,7 +1290,9 @@ export const poiExtraTogoCitiesV2: POI[] = [
     type: "city",
     parent: "TG-S",
     coords: [0.3833, 10.8333],
-    name: { de: "Bogou", hu: "Bogou", ro: "Bogou", en: "Bogou" },
+    name: { de: "Bogou", hu: "Bogou", ro: "Bogou", en: "Bogou",
+image: "/poi-images/bogou-cities-v2.webp"
+},
     description: {
       de: "Bogou liegt in einer dramatischen Landschaft mit Tafelbergen und Höhlen im Norden Togos. Die Stadt ist bekannt für ihre traditionellen Felsmalereien und die einzigartige Geologie. Geographie K7 - Geomorphologie.",
       hu: "Bogou drámai tájon fekszik táblahegyekkel és barlangokkal Togo északi részén. A város híres hagyományos sziklarajzairól és egyedülálló geológiájáról. Földrajz K7 - Geomorfológia.",

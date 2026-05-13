@@ -11,8 +11,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Rotes Fort von Al Jahra",
       hu: "Al-Dzsahra Vörös Erődje",
       ro: "Fortul Roșu din Al Jahra",
-      en: "Al Jahra Red Fort"
-    },
+      en: "Al Jahra Red Fort",
+image: "/poi-images/jahra-red-fort-history-v2.webp"
+},
     description: {
       de: "Ein historisches Lehmfort, das 1920 während der Schlacht von Jahra eine entscheidende Rolle bei der Verteidigung Kuwaits spielte.",
       hu: "Történelmi vályogerőd, amely döntő szerepet játszott Kuvait védelmében az 1920-as dzsahrai csata során.",
@@ -63,8 +64,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Al-Qurain Märtyrermuseum",
       hu: "Al-Qurain Mártírok Múzeuma",
       ro: "Muzeul Martirilor din Al-Qurain",
-      en: "Al-Qurain Martyrs Museum"
-    },
+      en: "Al-Qurain Martyrs Museum",
+image: "/poi-images/qurain-martyrs-museum-history-v2.webp"
+},
     description: {
       de: "Ein Haus, das in ein Museum umgewandelt wurde, um an eine blutige Schlacht zwischen kuwaitischen Widerstandskämpfern und irakischen Truppen im Jahr 1991 zu erinnern.",
       hu: "Egy múzeummá alakított ház, amely a kuvaiti ellenállók és az iraki csapatok közötti 1991-es véres csatának állít emléket.",
@@ -115,8 +117,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Seif-Palast",
       hu: "Szeif-palota",
       ro: "Palatul Seif",
-      en: "Seif Palace"
-    },
+      en: "Seif Palace",
+image: "/poi-images/seif-palace-history-v2.webp"
+},
     description: {
       de: "Der historische Palast ist bekannt für seinen ikonischen Uhrenturm und dient als Sitz des kuwaitischen Emirs.",
       hu: "A történelmi palota ikonikus óratornyáról ismert, és a kuvaiti emír székhelyeként szolgál.",
@@ -167,8 +170,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Dickson-Haus",
       hu: "Dickson Ház",
       ro: "Casa Dickson",
-      en: "Dickson House"
-    },
+      en: "Dickson House",
+image: "/poi-images/dickson-house-history-v2.webp"
+},
     description: {
       de: "Die ehemalige Residenz der britischen politischen Vertreter in Kuwait, heute ein bedeutendes Kulturzentrum.",
       hu: "A brit politikai képviselők egykori kuvaiti rezidenciája, ma jelentős kulturális központ.",
@@ -219,8 +223,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Hellenistische Ruinen von Failaka",
       hu: "Failaka Hellenisztikus Romjai",
       ro: "Ruinele elenistice din Failaka",
-      en: "Failaka Hellenistic Ruins"
-    },
+      en: "Failaka Hellenistic Ruins",
+image: "/poi-images/failaka-hellenistic-ruins-history-v2.webp"
+},
     description: {
       de: "Überreste antiker griechischer Siedlungen auf der Insel Failaka, die einst als Ikaros bekannt war.",
       hu: "Ősi görög települések maradványai a Failaka-szigeten, amelyet egykor Ikaroszként ismertek.",
@@ -268,8 +273,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Schlachtfeld am Mutla Ridge",
       hu: "Mutla-hátság Csatatér",
       ro: "Câmpul de luptă de la Mutla Ridge",
-      en: "Mutla Ridge Battlefield"
-    },
+      en: "Mutla Ridge Battlefield",
+image: "/poi-images/mutla-ridge-battlefield-history-v2.webp"
+},
     description: {
       de: "Der strategische Höhenzug war während des Zweiten Golfkriegs 1991 Schauplatz schwerer Kämpfe entlang des sogenannten Highway of Death.",
       hu: "A stratégiai jelentőségű hátság az 1991-es öbölháború során súlyos harcok színhelye volt az úgynevezett Halál Útja mentén.",
@@ -316,8 +322,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Jahra-Tor",
       hu: "Dzsahra Kapu",
       ro: "Poarta Jahra",
-      en: "Jahra Gate"
-    },
+      en: "Jahra Gate",
+image: "/poi-images/jahra-gate-history-v2.webp"
+},
     description: {
       de: "Eines der wenigen verbliebenen Stadttore der alten Verteidigungsmauer von Kuwait-Stadt.",
       hu: "Kuvaitváros régi védőfalának egyik kevés megmaradt városkapuja.",
@@ -364,8 +371,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Shami-Tor",
       hu: "Sámí Kapu",
       ro: "Poarta Shami",
-      en: "Shami Gate"
-    },
+      en: "Shami Gate",
+image: "/poi-images/shami-gate-history-v2.webp"
+},
     description: {
       de: "Ein historisches Tor, das einst als Hauptzugang zur syrischen Wüste und zu Handelsrouten diente.",
       hu: "Történelmi kapu, amely egykor a szíriai sivatagba és a kereskedelmi útvonalakhoz vezető főbejáratként szolgált.",
@@ -412,8 +420,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Naif-Palast",
       hu: "Náif-palota",
       ro: "Palatul Naif",
-      en: "Naif Palace"
-    },
+      en: "Naif Palace",
+image: "/poi-images/naif-palace-history-v2.webp"
+},
     description: {
       de: "Ein historischer Palastkomplex in Kuwait, der früher das Zentrum für Sicherheit und Polizei war.",
       hu: "Történelmi palotakomplexum Kuvaitban, amely korábban a biztonság és a rendőrség központja volt.",
@@ -460,8 +469,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Beit Al-Badr",
       hu: "Beit Al-Badr Ház",
       ro: "Casa Beit Al-Badr",
-      en: "Beit Al-Badr"
-    },
+      en: "Beit Al-Badr",
+image: "/poi-images/beit-al-badr-history-v2.webp"
+},
     description: {
       de: "Ein wunderschönes, traditionelles kuwaitisches Haus, das heute das Nationalmuseum für kuwaitisches Erbe beherbergt.",
       hu: "Egy gyönyörű, hagyományos kuvaiti ház, amely ma a kuvaiti örökség nemzeti múzeumának ad otthont.",
@@ -509,8 +519,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Ruinen des portugiesischen Forts",
       hu: "Portugál Erőd Romjai",
       ro: "Ruinele Fortului Portughez",
-      en: "Portuguese Fort Ruins"
-    },
+      en: "Portuguese Fort Ruins",
+image: "/poi-images/failaka-portuguese-fort-history-v2.webp"
+},
     description: {
       de: "Überreste einer historischen Festung, die im 16. Jahrhundert von den Portugiesen zur Kontrolle des Persischen Golfs errichtet wurde.",
       hu: "Egy történelmi erőd maradványai, amelyet a 16. században építettek a portugálok a Perzsa-öböl ellenőrzésére.",
@@ -558,8 +569,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Palastruinen von Sheikh Khazal",
       hu: "Sejk Khazal Palotaromok",
       ro: "Ruinele Palatului șeicului Khazal",
-      en: "Sheikh Khazal Palace Ruins"
-    },
+      en: "Sheikh Khazal Palace Ruins",
+image: "/poi-images/sheikh-khazal-palace-ruins-history-v2.webp"
+},
     description: {
       de: "Die Ruinen eines majestätischen Palastes, der einst dem Emir von Mohammerah, Sheikh Khazal, gehörte.",
       hu: "Egy fenséges palota romjai, amely egykor Mohammerah emírjének, Khazal sejknek a tulajdona volt.",
@@ -606,8 +618,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Kuwait-Türme",
       hu: "Kuvait Tornyok",
       ro: "Turnurile din Kuweit",
-      en: "Kuwait Towers"
-    },
+      en: "Kuwait Towers",
+image: "/poi-images/kuwait-towers-monument-history-v2.webp"
+},
     description: {
       de: "Ein Wahrzeichen und ikonisches Denkmal, das das moderne Kuwait und seinen wirtschaftlichen Aufschwung symbolisiert.",
       hu: "Kuvait modernizációját és gazdasági fellendülését szimbolizáló ikonikus műemlék és mérföldkő.",
@@ -654,8 +667,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Schlachtfeld von Kazma",
       hu: "Kazmai Csatatér",
       ro: "Câmpul de luptă din Kazma",
-      en: "Kazma Battlefield"
-    },
+      en: "Kazma Battlefield",
+image: "/poi-images/kazma-battlefield-history-v2.webp"
+},
     description: {
       de: "Der historische Ort einer großen Schlacht im Jahr 633, einer bedeutenden Auseinandersetzung während der islamischen Expansion.",
       hu: "Egy 633-ban lezajlott nagy csata történelmi helyszíne, amely az iszlám terjeszkedés egyik legfontosabb ütközete volt.",
@@ -703,8 +717,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Archäologische Stätte Bahra 1",
       hu: "Bahra 1 Régészeti Lelőhely",
       ro: "Situl arheologic Bahra 1",
-      en: "Bahra 1 Archaeological Site"
-    },
+      en: "Bahra 1 Archaeological Site",
+image: "/poi-images/bahra-1-settlement-history-v2.webp"
+},
     description: {
       de: "Eine der ältesten Siedlungen der Obed-Kultur, die Einblicke in prähistorische Handelsnetzwerke in der Golfregion bietet.",
       hu: "Az Ubaid-kultúra egyik legrégebbi települése, amely betekintést nyújt az öbölmenti térség őskori kereskedelmi hálózataiba.",
@@ -752,8 +767,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Beit Ghaith",
       hu: "Beit Ghaith Ház",
       ro: "Casa Beit Ghaith",
-      en: "Beit Ghaith"
-    },
+      en: "Beit Ghaith",
+image: "/poi-images/beit-ghaith-history-v2.webp"
+},
     description: {
       de: "Ein erhaltenes traditionelles kuwaitisches Haus, das das Leben und die Architektur vor der Entdeckung des Öls veranschaulicht.",
       hu: "Egy megőrzött hagyományos kuvaiti ház, amely az olaj felfedezése előtti életet és építészetet szemlélteti.",
@@ -801,8 +817,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Archäologische Stätte von Shuwaikh",
       hu: "Suvejh Régészeti Lelőhely",
       ro: "Situl arheologic Shuwaikh",
-      en: "Shuwaikh Archaeological Site"
-    },
+      en: "Shuwaikh Archaeological Site",
+image: "/poi-images/shuwaikh-archaeological-site-history-v2.webp"
+},
     description: {
       de: "Antike Ruinen auf der Halbinsel Shuwaikh, die historische christliche Gemeinschaften und Handelsaktivitäten belegen.",
       hu: "Ősi romok a Suvejh-félszigeten, amelyek történelmi keresztény közösségekre és kereskedelmi tevékenységekre utalnak.",
@@ -849,8 +866,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Befreiungsdenkmal von Kuwait",
       hu: "Kuvait Felszabadulási Emlékmű",
       ro: "Monumentul Eliberării din Kuweit",
-      en: "Kuwait Liberation Monument"
-    },
+      en: "Kuwait Liberation Monument",
+image: "/poi-images/liberation-monument-history-v2.webp"
+},
     description: {
       de: "Ein modernes Denkmal, das an die Befreiung Kuwaits von der irakischen Besatzung im Jahr 1991 erinnert.",
       hu: "Egy modern emlékmű, amely Kuvait iraki megszállás alóli, 1991-es felszabadulásának állít emléket.",
@@ -897,8 +915,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Al-Hashemi II",
       hu: "Al-Hashemi II",
       ro: "Al-Hashemi II",
-      en: "Al-Hashemi II"
-    },
+      en: "Al-Hashemi II",
+image: "/poi-images/al-hashemi-ii-monument-history-v2.webp"
+},
     description: {
       de: "Ein monumentales hölzernes Dhau-Schiff, das das reiche maritime Erbe Kuwaits ehrt.",
       hu: "Monumentális fából készült dhow hajó, amely Kuvait gazdag tengeri öröksége előtt tiszteleg.",
@@ -945,8 +964,9 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: "Ruinen des Dorfes Al-Zour",
       hu: "Al-Zour Falu Romjai",
       ro: "Ruinele satului Al-Zour",
-      en: "Al-Zour Village Ruins"
-    },
+      en: "Al-Zour Village Ruins",
+image: "/poi-images/al-zour-village-ruins-history-v2.webp"
+},
     description: {
       de: "Die verlassenen Überreste eines Dorfes auf Failaka, das während des Golfkrieges schwer zerstört wurde.",
       hu: "Egy elhagyatott falu maradványai Failaka szigetén, amely súlyosan megrongálódott az öbölháború során.",

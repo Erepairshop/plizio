@@ -10,8 +10,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Seehafen Batumi",
       hu: "Batumi Tengeri Kikötő",
       ro: "Portul Maritim Batumi",
-      en: "Batumi Sea Port"
-    },
+      en: "Batumi Sea Port",
+image: "/poi-images/batumi-sea-port-economic-v2.webp"
+},
     description: {
       de: "Der Seehafen Batumi ist einer der wichtigsten Häfen Georgiens am Schwarzen Meer und dient als zentraler Knotenpunkt für den Transit von Öl und Fracht.",
       hu: "A Batumi Tengeri Kikötő Grúzia egyik legfontosabb fekete-tengeri kikötője, amely az olaj- és teherforgalom központi csomópontja.",
@@ -34,8 +35,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Seehafen Poti",
       hu: "Poti Tengeri Kikötő",
       ro: "Portul Maritim Poti",
-      en: "Poti Sea Port"
-    },
+      en: "Poti Sea Port",
+image: "/poi-images/poti-sea-port-economic-v2.webp"
+},
     description: {
       de: "Der Seehafen Poti ist ein wichtiger Verkehrsknotenpunkt und der größte Hafen Georgiens für Container- und Massenguttransporte.",
       hu: "A Poti Tengeri Kikötő fontos közlekedési csomópont és Grúzia legnagyobb kikötője a konténer- és ömlesztettáru-szállítás terén.",
@@ -58,8 +60,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Manganbergwerk Tschiatura",
       hu: "Chiatura Mangánbánya",
       ro: "Mina de Mangan Chiatura",
-      en: "Chiatura Manganese Mine"
-    },
+      en: "Chiatura Manganese Mine",
+image: "/poi-images/chiatura-manganese-mine-economic-v2.webp"
+},
     description: {
       de: "Das Manganbergwerk Tschiatura ist eine der weltweit größten Lagerstätten für Manganerz und seit über einem Jahrhundert in Betrieb.",
       hu: "A Chiatura Mangánbánya a világ egyik legnagyobb mangánérc-lelőhelye, amely több mint egy évszázada üzemel.",
@@ -81,8 +84,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Metallurgisches Werk Rustawi",
       hu: "Rusztavi Kohászati Üzem",
       ro: "Uzina Metalurgică Rustavi",
-      en: "Rustavi Metallurgical Plant"
-    },
+      en: "Rustavi Metallurgical Plant",
+image: "/poi-images/rustavi-metallurgical-plant-economic-v2.webp"
+},
     description: {
       de: "Das Metallurgische Werk in Rustawi ist das größte Zentrum der Schwerindustrie in Georgien, spezialisiert auf Stahl- und Eisenproduktion.",
       hu: "A rusztavi kohászati üzem Grúzia legnagyobb nehézipari központja, amely acél- és vastermelésre specializálódott.",
@@ -104,8 +108,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Ferrolegierungswerk Sestaponi",
       hu: "Zesztafoni Vasötvözetgyár",
       ro: "Uzina de Feroaliaje Zestafoni",
-      en: "Zestafoni Ferroalloy Plant"
-    },
+      en: "Zestafoni Ferroalloy Plant",
+image: "/poi-images/zestafoni-ferroalloy-plant-economic-v2.webp"
+},
     description: {
       de: "Das Werk in Sestaponi verarbeitet Manganerz aus Tschiatura und ist einer der größten Produzenten von Silikomangan auf der Welt.",
       hu: "A zesztafoni üzem a chiaturai mangánércet dolgozza fel, és a világ egyik legnagyobb szilikomangán-termelője.",
@@ -127,8 +132,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Ölterminal Kulewi",
       hu: "Kulevi Olajterminál",
       ro: "Terminalul Petrolier Kulevi",
-      en: "Kulevi Oil Terminal"
-    },
+      en: "Kulevi Oil Terminal",
+image: "/poi-images/kulevi-oil-terminal-economic-v2.webp"
+},
     description: {
       de: "Der Ölterminal Kulewi ist eine bedeutende Anlage für die Verladung von kaspischem Erdöl auf Tankschiffe im Schwarzen Meer.",
       hu: "A Kulevi Olajterminál jelentős létesítmény a kaszpi kőolaj fekete-tengeri tartályhajókra történő átrakodására.",
@@ -150,8 +156,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Terminal Supsa",
       hu: "Supsa Tengeri Terminál",
       ro: "Terminalul Maritim Supsa",
-      en: "Supsa Sea Terminal"
-    },
+      en: "Supsa Sea Terminal",
+image: "/poi-images/supsa-sea-terminal-economic-v2.webp"
+},
     description: {
       de: "Der Terminal Supsa ist der Endpunkt der Baku-Supsa-Ölpipeline, wo Erdöl aus Aserbaidschan in Schiffe verladen wird.",
       hu: "A Supsa terminál a Baku-Supsa kőolajvezeték végpontja, ahol az azerbajdzsáni kőolajat hajókra rakodják.",
@@ -173,8 +180,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Kohlebergwerk Tqibuli",
       hu: "Tkibuli Szénbánya",
       ro: "Mina de Cărbune Tkibuli",
-      en: "Tkibuli Coal Mine"
-    },
+      en: "Tkibuli Coal Mine",
+image: "/poi-images/tkibuli-coal-mine-economic-v2.webp"
+},
     description: {
       de: "Tqibuli ist das Zentrum des georgischen Kohlebergbaus, wo Steinkohle hauptsächlich für den Inlandsbedarf abgebaut wird.",
       hu: "Tkibuli a grúz szénbányászat központja, ahol elsősorban belföldi szükségletekre termelnek ki kőszenet.",
@@ -196,8 +204,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Kupfer- und Goldmine Madneuli",
       hu: "Madneuli Réz- és Aranybánya",
       ro: "Mina de Cupru și Aur Madneuli",
-      en: "Madneuli Copper-Gold Mine"
-    },
+      en: "Madneuli Copper-Gold Mine",
+image: "/poi-images/madneuli-mine-economic-v2.webp"
+},
     description: {
       de: "Die Madneuli-Mine in der Nähe von Kasreti ist die wichtigste Quelle für Kupfer und Gold in Georgien und wird im Tagebau betrieben.",
       hu: "A Kaszreti közelében található Madneuli bánya Grúzia legfontosabb réz- és aranyforrása, amelyet külszíni fejtéssel művelnek.",
@@ -219,8 +228,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Freie Industriezone Poti",
       hu: "Poti Szabadipari Zóna",
       ro: "Zona Industrială Liberă Poti",
-      en: "Poti Free Industrial Zone"
-    },
+      en: "Poti Free Industrial Zone",
+image: "/poi-images/poti-fiz-economic-v2.webp"
+},
     description: {
       de: "Die Freie Industriezone Poti bietet Steuervergünstigungen und zieht internationale Unternehmen im produzierenden Gewerbe an.",
       hu: "A Poti Szabadipari Zóna adókedvezményeket kínál, és vonzza a nemzetközi feldolgozóipari vállalatokat.",
@@ -242,8 +252,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Freie Industriezone Kutaissi",
       hu: "Kutaiszi Szabadipari Zóna",
       ro: "Zona Industrială Liberă Kutaisi",
-      en: "Kutaisi Free Industrial Zone"
-    },
+      en: "Kutaisi Free Industrial Zone",
+image: "/poi-images/kutaisi-fiz-economic-v2.webp"
+},
     description: {
       de: "Diese Industriezone in Kutaissi fördert lokale und ausländische Investitionen in Technologie, Textilien und Haushaltsgeräte.",
       hu: "Ez a kutaiszi ipari zóna támogatja a helyi és külföldi befektetéseket a technológia, a textilipar és a háztartási gépek területén.",
@@ -265,8 +276,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Wasserkraftwerk Schinwali",
       hu: "Zsinvali Vízerőmű",
       ro: "Hidrocentrala Zhinvali",
-      en: "Zhinvali Hydroelectric Power Plant"
-    },
+      en: "Zhinvali Hydroelectric Power Plant",
+image: "/poi-images/zhinvali-hpp-economic-v2.webp"
+},
     description: {
       de: "Der Schinwali-Staudamm staut den Aragwi-Fluss und produziert saubere Wasserkraftenergie für die georgische Hauptstadt Tiflis.",
       hu: "A Zsinvali-gát felduzzasztja az Aragvi folyót, és tiszta vízenergiát termel Grúzia fővárosa, Tbiliszi számára.",
@@ -288,8 +300,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Wärmekraftwerk Gardabani",
       hu: "Gardabani Hőerőmű",
       ro: "Termocentrala Gardabani",
-      en: "Gardabani Thermal Power Plant"
-    },
+      en: "Gardabani Thermal Power Plant",
+image: "/poi-images/gardabani-tpp-economic-v2.webp"
+},
     description: {
       de: "Das kombinierte Gas- und Dampfturbinenkraftwerk in Gardabani stellt die Energiesicherheit Georgiens, insbesondere im Winter, sicher.",
       hu: "A gardabani kombinált ciklusú gázturbinás erőmű biztosítja Grúzia energiabiztonságát, különösen télen.",
@@ -311,8 +324,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Grenzübergang Larsi",
       hu: "Larsi Határátkelőhely",
       ro: "Punctul de Trecere a Frontierei Larsi",
-      en: "Larsi Border Crossing"
-    },
+      en: "Larsi Border Crossing",
+image: "/poi-images/larsi-border-crossing-economic-v2.webp"
+},
     description: {
       de: "Der Grenzübergang Larsi in der Darialschlucht ist der wichtigste Landweg für den Handel zwischen Georgien und Russland.",
       hu: "A Darial-szurdokban található Larsi határátkelőhely a Grúzia és Oroszország közötti kereskedelem legfontosabb szárazföldi útvonala.",
@@ -335,8 +349,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Grenzübergang Sarpi",
       hu: "Sarpi Határátkelőhely",
       ro: "Punctul de Trecere a Frontierei Sarpi",
-      en: "Sarpi Border Crossing"
-    },
+      en: "Sarpi Border Crossing",
+image: "/poi-images/sarpi-border-crossing-economic-v2.webp"
+},
     description: {
       de: "Sarpi ist ein stark frequentierter Grenzübergang an der Schwarzmeerküste und spielt eine zentrale Rolle im Handel mit der Türkei.",
       hu: "Sarpi egy forgalmas határátkelő a Fekete-tenger partján, és központi szerepet játszik a Törökországgal folytatott kereskedelemben.",
@@ -358,8 +373,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Lilo-Markt",
       hu: "Lilo Piac",
       ro: "Piața Lilo",
-      en: "Lilo City Market"
-    },
+      en: "Lilo City Market",
+image: "/poi-images/lilo-city-market-economic-v2.webp"
+},
     description: {
       de: "Der Lilo-Markt am Stadtrand von Tiflis ist der größte Groß- und Einzelhandelsmarkt in Transkaukasien für Konsumgüter.",
       hu: "A Tbiliszi szélén található Lilo Piac Transzkaukázia legnagyobb nagy- és kiskereskedelmi piaca a fogyasztási cikkek terén.",
@@ -381,8 +397,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Abfüllanlage Bordschomi",
       hu: "Borzsomi Palackozóüzem",
       ro: "Fabrica de Îmbuteliere Borjomi",
-      en: "Borjomi Bottling Plant"
-    },
+      en: "Borjomi Bottling Plant",
+image: "/poi-images/borjomi-bottling-plant-economic-v2.webp"
+},
     description: {
       de: "In den Fabriken von Bordschomi wird das berühmte vulkanische Mineralwasser abgefüllt und in dutzende Länder weltweit exportiert.",
       hu: "A borzsomi gyárakban a híres vulkáni ásványvizet palackozzák, és a világ több tucat országába exportálják.",
@@ -404,8 +421,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Ölterminal Batumi",
       hu: "Batumi Olajterminál",
       ro: "Terminalul Petrolier Batumi",
-      en: "Batumi Oil Terminal"
-    },
+      en: "Batumi Oil Terminal",
+image: "/poi-images/batumi-oil-terminal-economic-v2.webp"
+},
     description: {
       de: "Der Ölterminal in Batumi verarbeitet und lagert Erdölprodukte aus Zentralasien und dem Kaukasus für den internationalen Seetransport.",
       hu: "A batumi olajterminál közép-ázsiai és kaukázusi kőolajtermékeket dolgoz fel és tárol a nemzetközi tengeri szállítás számára.",
@@ -428,8 +446,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Zementwerk Kaspi",
       hu: "Kaszpi Cementgyár",
       ro: "Fabrica de Ciment Kaspi",
-      en: "Kaspi Cement Plant"
-    },
+      en: "Kaspi Cement Plant",
+image: "/poi-images/kaspi-cement-plant-economic-v2.webp"
+},
     description: {
       de: "Das Zementwerk in Kaspi ist ein Pfeiler der georgischen Baustoffindustrie und versorgt wichtige Infrastrukturprojekte des Landes.",
       hu: "A kaszpi cementgyár a grúz építőanyag-ipar egyik alappillére, amely az ország fontos infrastrukturális projektjeit látja el.",
@@ -451,8 +470,9 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       de: "Ölfeld Samgori",
       hu: "Szamgori Olajmező",
       ro: "Câmpul Petrolier Samgori",
-      en: "Samgori Oil Field"
-    },
+      en: "Samgori Oil Field",
+image: "/poi-images/samgori-oil-field-economic-v2.webp"
+},
     description: {
       de: "Das Ölfeld Samgori nahe Tiflis ist die größte inländische Quelle für die Erdölförderung in Georgien.",
       hu: "A Tbiliszi közelében található Szamgori olajmező a kőolaj-kitermelés legnagyobb hazai forrása Grúziában.",

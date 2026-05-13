@@ -11,8 +11,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Kenyatta International Convention Centre",
       hu: "Kenyatta Nemzetközi Konferenciaközpont",
       ro: "Centrul Internațional de Convenții Kenyatta",
-      en: "Kenyatta International Convention Centre"
-    },
+      en: "Kenyatta International Convention Centre",
+image: "/poi-images/ke-kenyatta-international-convention-centre-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Kenyatta International Convention Centre (KICC) is undeniably the most iconic, highly recognizable architectural landmark in Nairobi's skyline. Commissioned by founding President Jomo Kenyatta and officially opened in 1973, the massive 28-story, 105-meter tower was specifically designed to project a highly modern, deeply independent African identity. Designed by architect Karl Henrik Nøstvik, its highly unique cylindrical tower and massive amphitheater were heavily inspired by the shape of traditional African huts and lotus flowers. For over two decades, it reigned as the absolute tallest building in East Africa. Today, it remains the absolute premier venue for massive international summits and conferences, while its rooftop helipad provides tourists with highly spectacular, 360-degree panoramic views of the entire sprawling metropolis. Landmarks K7 — Post-independence monumental architecture.",
       de: "Das Kenyatta International Convention Centre prägt Nairobis Skyline mit seinem zylindrischen Turm und der breiten Konferenzarena am Fuß. Das Gebäude wurde 1973 eröffnet, als Kenia nach der Unabhängigkeit ein sichtbares Zeichen für internationale Präsenz suchte. Der Entwurf von Karl Henrik Nøstvik verbindet afrikanische Formmotive mit einer klaren, funktionalen Sprache. Besonders markant sind der große Dachlandeplatz und die offene Dachterrasse, die den Blick über das Zentrum freigibt. Das KICC steht damit für die moderne Hauptstadt und für politische wie wirtschaftliche Treffen auf nationaler Ebene. Geografie K7 — ikonische Stadtarchitektur.",
@@ -64,8 +65,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Times Tower",
       hu: "Times Torony",
       ro: "Turnul Times",
-      en: "Times Tower"
-    },
+      en: "Times Tower",
+image: "/poi-images/ke-times-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Times Tower, officially known as the New Central Bank Tower, is a massive, highly imposing skyscraper that heavily dominates the administrative center of Nairobi's central business district. Completed in 2000, the brutalist-inspired structure reaches a staggering height of 140 meters with 38 floors, successfully dethroning the KICC to become the tallest building in East Africa for over a decade. The highly secure tower serves exclusively as the absolute operational headquarters for the Kenya Revenue Authority (KRA), making it the financial nervous center of the national government. Built to withstand massive seismic activity and heavily fortified against potential attacks, the building is a highly stark, deeply utilitarian monument to bureaucratic power, lacking public viewing decks but commanding immense visual gravity in the city's skyline. Landmarks K8 — Bureaucratic skyscrapers.",
       de: "Die Times Tower ist ein nüchterner, sehr markanter Wolkenkratzer im administrativen Kern von Nairobi. Mit ihrer Höhe von 140 Metern und 38 Etagen war sie lange das sichtbarste Symbol der staatlichen Finanzverwaltung in Kenia. Das Gebäude, das im Jahr 2000 fertiggestellt wurde, beherbergt die Kenya Revenue Authority und ist deshalb streng gesichert. Seine klare, brutale Form macht es weniger zu einem Touristenziel als zu einem Machtzeichen der Bürokratie. Im Stadtbild markiert der Turm den Übergang von der alten CBD-Landschaft zu einer vertikalen, modernen Hauptstadt. Geografie K8 — Regierungsviertel und Verwaltungsarchitektur.",
@@ -117,8 +119,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Britam Tower",
       hu: "Britam Torony",
       ro: "Turnul Britam",
-      en: "Britam Tower"
-    },
+      en: "Britam Tower",
+image: "/poi-images/ke-britam-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Britam Tower is an absolute masterpiece of modern skyscraper engineering, currently standing as the second-tallest building in Africa and the absolute tallest in Kenya. Completed in 2017 in the rapidly expanding Upper Hill financial district of Nairobi, the massive structure soars to an astonishing 200 meters, comprising 31 highly advanced commercial floors. The tower's design is highly distinctive, featuring a sleek, prismatic, deeply faceted glass facade that tapers elegantly into a massive, 60-meter-tall architectural spire. Beyond its sheer visual dominance, the building is highly celebrated for its extreme environmental sustainability, utilizing massive wind turbines integrated into the spire and a highly advanced water recycling system. It represents the absolute pinnacle of Nairobi's emergence as a premier, highly modernized global financial hub. Landmarks K8 — Ultra-modern sustainable skyscrapers.",
       de: "Der Britam Tower ist eines der auffälligsten Hochhäuser in Nairobi und steht im Finanzviertel Upper Hill. Mit rund 200 Metern Höhe und 31 Stockwerken ist er ein technisches Statement, das schon aus großer Entfernung ins Auge fällt. Die prismatische Glasfassade verjüngt sich nach oben und läuft in eine hohe Spitze aus, die den Turm fast wie einen geschnittenen Kristall wirken lässt. Zugleich ist das Gebäude auf Energieeffizienz ausgelegt, unter anderem mit Windturbinen und Wassernutzungssystemen. Der Turm zeigt, wie stark Nairobi in den letzten Jahren in die Höhe gewachsen ist. Geografie K8 — nachhaltige Hochhausarchitektur.",
@@ -170,8 +173,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "UAP Old Mutual Tower",
       hu: "UAP Old Mutual Torony",
       ro: "Turnul UAP Old Mutual",
-      en: "UAP Old Mutual Tower"
-    },
+      en: "UAP Old Mutual Tower",
+image: "/poi-images/ke-uap-old-mutual-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The UAP Old Mutual Tower is a massive, highly dominant commercial skyscraper situated at the absolute highest elevation point in Nairobi's Upper Hill financial district. Completed in 2016, the building stands at a staggering 163 meters with 33 floors, briefly holding the title of the tallest building in Kenya before the completion of the Britam Tower. Its highly robust, post-modern architectural design is characterized by massive vertical concrete ribs and highly reflective blue glass, topped with an incredibly prominent, brightly illuminated mast that makes the building visible from virtually anywhere in the city at night. The massive structure is a highly critical node in the local economy, hosting numerous multinational corporations and heavily anchoring Upper Hill's status as the absolute premier corporate address in East Africa. Landmarks K7 — Corporate skyline dominance.",
       de: "Der UAP Old Mutual Tower gehört zu den prägenden Hochhäusern von Upper Hill in Nairobi. Das Gebäude wurde 2016 fertiggestellt und erreichte mit 163 Metern eine Höhe, die es kurzzeitig an die Spitze der kenianischen Skyline brachte. Seine markante Kombination aus blauen Glasflächen und vertikalen Elementen lässt den Turm tagsüber kühl und streng, nachts aber deutlich leuchten. Besonders auffällig ist die hohe Mastspitze, die dem Bau zusätzlich Präsenz gibt. Der Turm steht für die Verlagerung wirtschaftlicher Macht in das moderne Finanzviertel der Stadt. Geografie K8 — urbane Finanzcluster.",
@@ -223,8 +227,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Global Trade Centre Nairobi",
       hu: "Global Trade Centre Nairobi",
       ro: "Global Trade Centre Nairobi",
-      en: "Global Trade Centre Nairobi"
-    },
+      en: "Global Trade Centre Nairobi",
+image: "/poi-images/ke-global-trade-centre-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Global Trade Centre (GTC) Nairobi is an incredibly massive, ultra-modern mixed-use architectural complex that has radically redefined the skyline of the Westlands district. Completed in 2021, this colossal multi-billion-dollar project is the absolute largest single real estate development in East Africa, heavily financed and constructed by massive Chinese state-backed corporations. The complex features six highly imposing towers, the tallest of which is a massive 184-meter, 43-story office skyscraper that currently ranks as the second-tallest building in Kenya. The GTC seamlessly integrates a highly luxurious JW Marriott hotel, massive high-end residential apartments, and a sprawling, highly exclusive retail mall. The sleek, deeply uniform glass facades of the towers represent a massive leap forward in the city's high-density, highly globalized urban planning. Landmarks K8 — Megaproject mixed-use developments.",
       de: "Das Global Trade Centre Nairobi ist ein riesiger gemischt genutzter Gebäudekomplex, der Westlands auf einen Schlag verändert hat. Der 2021 fertiggestellte Standort vereint Büros, Wohnungen, ein Luxushotel und große Handelsflächen in sechs Türmen. Der höchste Turm erreicht 184 Meter und zählt damit zu den dominierenden Punkten der westlichen Skyline. Besonders deutlich wird hier die neue Dichte Nairobis: Arbeiten, Wohnen und Einkaufen liegen in einem einzigen Großprojekt dicht beieinander. Das GTC steht damit für die internationale, kapitalintensive Entwicklung der Stadt. Geografie K8 — Megaprojekte und Mischnutzung.",
@@ -277,8 +282,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Nyayo Nationalstadion",
       hu: "Nyayo Nemzeti Stadion",
       ro: "Stadionul Național Nyayo",
-      en: "Nyayo National Stadium"
-    },
+      en: "Nyayo National Stadium",
+image: "/poi-images/ke-nyayo-national-stadium-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Nyayo National Stadium is a highly iconic, massive multi-purpose sports complex located highly strategically at the major intersection of Mombasa Road and Lang'ata Road in Nairobi. Built in 1983, it serves as a critical national venue, capable of hosting 30,000 spectators for both massive sporting events and massive political rallies, particularly national holiday celebrations like Jamhuri Day. The stadium is intensely associated with Kenyan athletics and football, serving as a frequent home ground for the intensely followed national football team, the Harambee Stars, and major local clubs like AFC Leopards and Gor Mahia. The facility also includes a massive, Olympic-sized swimming pool and an indoor arena, making it an absolute cornerstone of the nation's robust sporting culture. Social Studies K6 — National sporting venues.",
       de: "Das Nyayo Nationalstadion ist ein Schlüsselort für den Sport in Nairobi und liegt an einer der verkehrsreichsten Kreuzungen der Hauptstadt. Es wurde 1983 eröffnet und kann rund 30.000 Zuschauer aufnehmen. Neben Fußball und Leichtathletik dient die Anlage auch als Bühne für nationale Feiern und politische Großveranstaltungen. Zum Komplex gehören außerdem ein olympisches Schwimmbecken und eine Halle für Indoor-Sport. Dadurch ist das Stadion nicht nur Spielort, sondern ein vielseitiger öffentlicher Raum. Sozialkunde K6 — nationale Sportorte.",
@@ -330,8 +336,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Moi International Sports Centre",
       hu: "Moi Nemzetközi Sportközpont",
       ro: "Centrul Sportiv Internațional Moi",
-      en: "Moi International Sports Centre"
-    },
+      en: "Moi International Sports Centre",
+image: "/poi-images/ke-kasarani-stadium-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Moi International Sports Centre in Kasarani is an absolutely colossal, ultra-modern sporting complex that stands as the undisputed largest stadium in Kenya. Constructed in 1987 with massive financial and engineering assistance from the Chinese government, it was built specifically to host the 4th All-Africa Games. The incredibly massive main stadium can accommodate 60,000 seated spectators and is globally renowned for hosting massive international athletics championships, most notably the 2017 World U18 Championships and the 2021 World Athletics U20 Championships. The sprawling complex also includes a massive 5,000-seat indoor arena, a world-class aquatic complex, and a dedicated 108-room hotel, making it a highly integrated, globally competitive sports village. Social Studies K7 — Global athletics hosting.",
       de: "Das Moi International Sports Centre in Kasarani ist die größte Stadionanlage Kenias. Der Komplex wurde 1987 gebaut und wurde mit Blick auf die All-Africa Games als modernes Sportdorf geplant. Im Hauptstadion finden 60.000 Menschen Platz, dazu kommen eine Indoor-Arena, ein Schwimmkomplex und weitere Trainingsflächen. International bekannt wurde die Anlage durch große Leichtathletikmeisterschaften und hochkarätige Fußballspiele. Für Nairobi ist Kasarani ein Gegenbild zum kompakten CBD: weitläufig, funktional und auf Großveranstaltungen ausgelegt. Sozialkunde K7 — globale Sportinfrastruktur.",
@@ -383,8 +390,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Jamia-Moschee Nairobi",
       hu: "Nairobi Jamia Mecset",
       ro: "Moscheea Jamia Nairobi",
-      en: "Jamia Mosque Nairobi"
-    },
+      en: "Jamia Mosque Nairobi",
+image: "/poi-images/ke-jamia-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "Jamia Mosque is an incredibly stunning, highly iconic Islamic sanctuary located in the absolute center of Nairobi's bustling central business district. Constructed between 1925 and 1933, the massive structure is a phenomenal example of classic Arabic-Islamic architectural styling. The mosque is visually dominated by its massive, gleaming silver central domes and twin, highly intricate minarets that pierce the modern skyline. Beyond its undeniable architectural gravity, Jamia Mosque is the absolute nerve center of Islamic religious and cultural life in Kenya, featuring a massive library, a highly advanced training institute, and broadcasting the nation's premier Islamic television station, Horizon TV. Its location amidst the towering corporate skyscrapers creates a highly striking visual contrast of faith and commerce. Social Studies K7 — Religious architecture in modern cities.",
       de: "Die Jamia-Moschee ist eines der wichtigsten islamischen Bauwerke im Zentrum von Nairobi. Zwischen 1925 und 1933 errichtet, verbindet sie klassische arabisch-islamische Formen mit einer extrem sichtbaren Lage mitten im Geschäftsviertel. Ihre silbernen Kuppeln und die beiden Minarette setzen einen starken Kontrast zu den Bürotürmen ringsum. Die Moschee ist aber nicht nur Gebetsort, sondern auch Bildungs- und Medienzentrum der muslimischen Gemeinschaft in Kenia. Damit steht sie für religiöse Kontinuität in einer Stadt, die sich ständig verändert. Gesellschaftslehre K7 — religiöse Architektur in der Großstadt.",
@@ -436,8 +444,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "All Saints' Cathedral Nairobi",
       hu: "Mindenszentek Katedrális",
       ro: "Catedrala Toți Sfinții",
-      en: "All Saints' Cathedral Nairobi"
-    },
+      en: "All Saints' Cathedral Nairobi",
+image: "/poi-images/ke-all-saints-cathedral-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "All Saints' Cathedral in Nairobi is a massive, deeply historic Anglican church that stands as the absolute mother church of the Anglican Church of Kenya. Situated dramatically at the edge of Uhuru Park just outside the CBD, the cathedral is a stunning, meticulously crafted example of British Gothic architectural design. The foundation stone was laid in 1917 by the colonial governor, and the massive stone structure was built in phases, only reaching completion in 1952. Featuring stunning stained-glass windows, massive stone arches, and twin castellated towers, the building is intensely reminiscent of medieval English cathedrals. Beyond its architectural weight, the cathedral has frequently served as a highly vocal, politically significant sanctuary for civil rights activists during times of intense national crisis. History K8 — Colonial ecclesiastical architecture.",
       de: "Die All Saints' Cathedral gehört zu den bedeutendsten anglikanischen Kirchen Kenias und liegt am Rand des CBD nahe dem Uhuru Park. Der Grundstein wurde 1917 gelegt, und erst 1952 war der Bau in seiner heutigen Form abgeschlossen. Der gotische Charakter mit Spitzbögen, Maßwerk und farbigen Fenstern erinnert bewusst an englische Kathedralen, wurde aber in Nairobi zu einem eigenständigen Stadtzeichen. Die Kathedrale war immer wieder auch ein Ort öffentlicher Debatte und politischer Stellungnahmen. Sie verbindet also Liturgie, Geschichte und Stadtgesellschaft auf engem Raum. Geschichte K8 — koloniale Kirchenarchitektur.",
@@ -489,8 +498,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Holy Family Basilica",
       hu: "Szent Család Bazilika",
       ro: "Bazilica Sfânta Familie",
-      en: "Holy Family Minor Basilica"
-    },
+      en: "Holy Family Minor Basilica",
+image: "/poi-images/ke-holy-family-basilica-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Holy Family Minor Basilica is a highly imposing, incredibly significant Roman Catholic sanctuary situated in the very heart of Nairobi's central business district, directly adjacent to City Square. Originally constructed in 1904 as a modest stone building for railway workers, the current, massive modernist structure was consecrated in 1963. It was formally elevated to the prestigious status of a minor basilica by Pope John Paul II in 1982. The building's highly distinctive modernist design features a towering, 98-foot campanile (bell tower) and massive, sweeping, highly unadorned concrete walls that can accommodate roughly 4,000 worshippers. As the seat of the Archbishop of Nairobi, the basilica is the absolute focal point for massive national Catholic celebrations and intensely attended state funerals. Landmarks K7 — Modernist religious structures.",
       de: "Die Holy Family Basilica ist die zentrale katholische Kirche Nairobis und liegt direkt neben dem City Square. Ursprünglich entstand hier 1904 ein kleiner Bau für Eisenbahnarbeiter, bevor die heutige Anlage 1963 geweiht wurde. Papst Johannes Paul II. erhob die Kirche 1982 zur Minor Basilica. Der auffällige Campanile und der großzügige Innenraum mit Platz für mehrere tausend Gläubige geben dem Gebäude eine starke Präsenz im dichten Stadtzentrum. Als Sitz des Erzbischofs verbindet die Basilika Gottesdienst, öffentliche Trauerfeiern und nationale katholische Feste. Geschichte K7 — moderne Sakralarchitektur.",
@@ -542,8 +552,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "BAPS Shri Swaminarayan Mandir",
       hu: "BAPS Shri Swaminarayan Mandir",
       ro: "BAPS Shri Swaminarayan Mandir",
-      en: "BAPS Shri Swaminarayan Mandir"
-    },
+      en: "BAPS Shri Swaminarayan Mandir",
+image: "/poi-images/ke-baps-shri-swaminarayan-mandir-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The BAPS Shri Swaminarayan Mandir in Nairobi is a staggeringly beautiful, deeply spiritual Hindu temple complex that represents an absolute masterpiece of traditional Indian stone carving. Located in the Ngara neighborhood, the Mandir was officially inaugurated in 1999 and holds the incredibly unique distinction of being the first traditional Hindu stone temple built entirely according to ancient Shilpa Shastras guidelines on the African continent. The structure was carved with extreme precision from 350 tonnes of yellow Jaisalmer sandstone from Rajasthan, India, which was then shipped and meticulously assembled in Nairobi like a massive, sacred puzzle. The temple's exterior and interior are completely covered in thousands of incredibly intricate carvings depicting deities, flora, and fauna, standing as a monumental tribute to Kenya's profound Indian heritage. Landmarks K8 — Traditional stone carving and diaspora.",
       de: "Der BAPS Shri Swaminarayan Mandir in Nairobi ist ein außergewöhnlich detailreicher Hindu-Tempel im Viertel Ngara. Er wurde 1999 eingeweiht und gilt als der erste vollständig traditionelle Steintempel dieser Art auf dem afrikanischen Kontinent. Für den Bau wurden 350 Tonnen gelber Jaisalmer-Sandstein aus Indien verwendet, der vor Ort wie ein kunstvolles Puzzle zusammengesetzt wurde. Jede Fläche ist mit feinen Schnitzereien, Säulen und Figuren bedeckt, sodass das Gebäude nicht wie ein einzelner Bau, sondern wie eine Steinbibliothek religiöser Symbole wirkt. Geografie K8 — Diaspora und Steinmetzkunst.",
@@ -595,8 +606,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Kenia Nationaltheater",
       hu: "Kenyai Nemzeti Színház",
       ro: "Teatrul Național din Kenya",
-      en: "Kenya National Theatre"
-    },
+      en: "Kenya National Theatre",
+image: "/poi-images/ke-kenya-national-theatre-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Kenya National Theatre is the absolute premier, historically significant venue for the performing arts in East Africa, located adjacent to the University of Nairobi within the massive Nairobi Cultural Centre complex. Opened in 1952, the venue historically catered primarily to expatriate British dramatic societies before transforming explosively after independence into the primary stage for indigenous African playwrights, famously debuting the works of Ngũgĩ wa Thiong'o. In 2015, the massive, aging facility underwent an incredibly comprehensive, multi-million-shilling modernization funded by the Kenya Breweries. Today, the highly advanced, fully restored auditorium seats over 300 patrons, featuring state-of-the-art acoustic and lighting technology, and stands as the absolute beating heart of Kenya's vibrant theatrical, musical, and spoken-word performances. Social Studies K7 — National arts and cultural revival.",
       de: "Das Kenya National Theatre ist einer der wichtigsten Orte für darstellende Künste in Ostafrika. Es wurde 1952 eröffnet und liegt im Nairobi Cultural Centre nahe der Universität von Nairobi. Nach der Unabhängigkeit wurde der Ort zum zentralen Bühnenraum für kenianische Dramatik, Musik und Spoken Word. Eine umfassende Modernisierung im Jahr 2015 hat den Saal technisch deutlich aufgewertet, ohne den historischen Charakter zu verlieren. Wer die kulturelle Entwicklung Nairobis verstehen will, sieht hier, wie koloniale Institutionen in eine eigenständige nationale Kulturszene umgewandelt wurden. Kunst K7 — Theater und kulturelle Erneuerung.",
@@ -648,8 +660,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Parlamentsgebäude Kenia",
       hu: "Kenyai Parlament",
       ro: "Clădirea Parlamentului din Kenya",
-      en: "Parliament Buildings Kenya"
-    },
+      en: "Parliament Buildings Kenya",
+image: "/poi-images/ke-parliament-buildings-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Parliament Buildings in Nairobi constitute an incredibly massive, highly imposing architectural complex that serves as the absolute legislative heart of the Kenyan republic. The original, highly iconic structure featuring the famous, deeply English-inspired clock tower was completed in 1954, originally intended to house the colonial Legislative Council. Following independence, the complex underwent massive, repeated expansions, most notably the construction of a colossal, highly modern 26-story office tower completed in 2022 to accommodate the massive bicameral legislature created by the 2010 Constitution. The historic chambers feature incredibly rich, highly symbolic interior panelling using local timber, while the sprawling, heavily guarded exterior grounds contain the highly reverent mausoleum of founding President Jomo Kenyatta. History K8 — Legislative architecture.",
       de: "Die Parliament Buildings bilden das gesetzgeberische Zentrum der Republik Kenia. Der ursprüngliche Komplex wurde 1954 fertiggestellt und diente zunächst dem kolonialen Legislativrat, bevor er nach der Unabhängigkeit zum Sitz des National Assembly und des Senats wurde. Der markante Uhrturm prägt das Areal bis heute und verweist bewusst auf britische Vorbilder. Mit dem Erweiterungsbau von 2022 erhielt der Komplex eine neue Höhe und eine stärkere vertikale Präsenz im Regierungsviertel. Zwischen streng bewachten Fassaden und dem Mausoleum Jomo Kenyattas wird hier Politik nicht nur verhandelt, sondern auch symbolisiert. Geschichte K8 — Parlamentsarchitektur.",
@@ -701,8 +714,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Oberster Gerichtshof Kenia",
       hu: "Kenya Legfelsőbb Bírósága",
       ro: "Curtea Supremă din Kenya",
-      en: "Supreme Court of Kenya"
-    },
+      en: "Supreme Court of Kenya",
+image: "/poi-images/ke-supreme-court-kenya-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Supreme Court of Kenya building is a deeply historic, immensely imposing classical structure that serves as the absolute pinnacle of the nation's judicial authority. Located directly adjacent to the massive Kenyatta International Convention Centre in Nairobi's City Square, the deeply colonnaded, heavily neo-classical building was originally constructed in the 1930s to house the colonial High Court. Its massive stone pillars, deep porticos, and highly austere, heavily symmetrical design were explicitly chosen by British architects to project an atmosphere of absolute, unshakeable authority. Today, following the massive judicial reforms embedded in the 2010 Constitution, the building hosts the incredibly powerful Supreme Court, having served as the stage for some of the most historically momentous, deeply contested presidential election petitions in Kenyan history. History K8 — Judicial architecture and authority.",
       de: "Das Gebäude des Supreme Court of Kenya markiert den höchsten Punkt der kenianischen Justiz. Es steht im City Square von Nairobi und entstand in den 1930er-Jahren als koloniales High-Court-Gebäude. Die strenge neoklassische Fassade mit Säulen und Portiken wurde so gestaltet, dass sie Autorität und Dauerhaftigkeit ausstrahlt. Heute tagt hier der siebenköpfige Supreme Court, der vor allem bei Verfassungsfragen und Präsidentschaftswahlen eine zentrale Rolle spielt. Der Bau zeigt, wie stark Architektur in Kenia institutionelle Macht sichtbar macht. Geschichte K8 — Justiz und Staatssymbolik.",
@@ -754,8 +768,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Bahnhof Nairobi",
       hu: "Nairobi Vasútállomás",
       ro: "Gara Nairobi",
-      en: "Nairobi Railway Station"
-    },
+      en: "Nairobi Railway Station",
+image: "/poi-images/ke-nairobi-railway-station-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Nairobi Railway Station is a deeply evocative, historically pivotal landmark that fundamentally marks the absolute birthplace of modern Nairobi. Originally established in 1899 as a massive, deeply chaotic supply depot and shunting yard for the advancing Uganda Railway, the current highly elegant, stone-built passenger terminal was completed in the 1920s. The station's architecture is intensely nostalgic, featuring sweeping verandas, high vaulted ceilings, and a deeply colonial-era aesthetic. For over a century, it served as the absolute logistical heartbeat of the entire East African interior. Today, it remains an incredibly bustling, massive transit hub for commuter trains and operates seamlessly alongside the adjacent, massive Nairobi Railway Museum, which houses highly preserved, incredibly massive steam locomotives from the colonial era. History K7 — The 'Lunatic Express'.",
       de: "Der Bahnhof Nairobi ist einer der Orte, an denen die moderne Stadt überhaupt erst begonnen hat. Bereits 1899 entstand hier ein großer Versorgungshof für die Uganda Railway, aus dem sich das heutige Nairobi entwickelte. Das heutige Passagiergebäude aus den 1920er-Jahren bewahrt den kolonialen Charakter mit breiten Veranden, hohen Decken und massiven Mauern. Heute ist der Bahnhof wieder ein lebendiger Knotenpunkt für Pendlerzüge und ein direkter Nachbar des Railway Museum. Der Ort verbindet Verkehrs-, Stadt- und Migrationsgeschichte auf engem Raum. Geschichte K7 — die Uganda Railway und Stadtentstehung.",
@@ -807,8 +822,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Mombasa Tusks",
       hu: "Mombasa Agyarak",
       ro: "Colții din Mombasa",
-      en: "Mombasa Tusks"
-    },
+      en: "Mombasa Tusks",
+image: "/poi-images/ke-mombasa-tusks-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Mombasa Tusks, known locally as 'Pembe za Ndovu', form an incredibly iconic, globally recognized monument spanning Moi Avenue right in the heart of Mombasa city. Originally constructed in 1952 from massive canvas and wood, the tusks were erected as a deeply symbolic, temporary archway to explicitly welcome Princess Elizabeth (shortly before she became Queen) on her way to the massive Mombasa Yachting Club. Due to massive public popularity, they were later rebuilt using highly durable, massive aluminum structures. The four massive interlocking tusks deliberately form the shape of the letter 'M' for Mombasa. Today, they stand as the absolute, undisputed photographic symbol of the city, representing a highly complex, deeply visual intersection of colonial homage and modern tourism. Landmarks K6 — Iconic urban monuments.",
       de: "Die Mombasa Tusks sind das bekannteste Fotomotiv der Küstenstadt und markieren die Moi Avenue mitten im Zentrum. Ursprünglich wurden sie 1952 aus Holz und Segeltuch für den Besuch von Prinzessin Elizabeth errichtet und später durch stabile Aluminiumstrukturen ersetzt. Die vier Stoßzähne bilden bewusst den Buchstaben M für Mombasa und funktionieren damit zugleich als Stadtlogo und Straßenbogen. Das Denkmal ist weniger ein Museum als ein starkes Bild im Stadtraum, das Kolonialgeschichte, Erinnerung und Tourismus miteinander verknüpft. Geografie K6 — urbane Wahrzeichen.",
@@ -860,8 +876,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Nyali-Brücke",
       hu: "Nyali Híd",
       ro: "Podul Nyali",
-      en: "Nyali Bridge"
-    },
+      en: "Nyali Bridge",
+image: "/poi-images/ke-nyali-bridge-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The New Nyali Bridge is an incredibly massive, absolutely critical concrete box-girder bridge that serves as the primary physical lifeline connecting the dense urban core of Mombasa Island to the rapidly expanding northern mainland suburbs. Completed in 1980 with massive engineering assistance from the Japanese government, the bridge spans an incredibly deep, 330-meter stretch of the Tudor Creek. It replaced an ancient, highly inadequate colonial-era pontoon bridge that had become a massive logistical bottleneck. Today, the massive six-lane structure carries an incredibly staggering volume of daily traffic, including massive freight trucks, tourist vehicles, and thousands of commuters. The bridge is an incredibly prominent feature of the Mombasa skyline, providing highly spectacular, sweeping views of the deep-water harbor and surrounding mangrove creeks. Geography K7 — Estuary engineering and urban chokepoints.",
       de: "Die Nyali Bridge ist eine zentrale Verkehrsader von Mombasa und verbindet die Insel mit dem nördlichen Festland. Die 1980 fertiggestellte Brücke wurde mit japanischer Hilfe gebaut und spannt sich über den Tudor Creek. Für Pendler, Lieferverkehr und Urlauber ist sie der wichtigste Übergang Richtung Nyali und Nordküste. Ihr Bau ersetzte eine ältere Pontonlösung und beseitigte damit einen gravierenden Engpass im Küstenverkehr. Gleichzeitig bietet sie weite Blicke über Wasser, Mangroven und Hafenbereiche. Geografie K7 — Küstenverkehr und Brückenbau.",
@@ -913,8 +930,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Mandhry Moschee",
       hu: "Mandhry Mecset",
       ro: "Moscheea Mandhry",
-      en: "Mandhry Mosque"
-    },
+      en: "Mandhry Mosque",
+image: "/poi-images/ke-mandhry-mosque-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Mandhry Mosque is a profoundly beautiful, incredibly historic Islamic sanctuary nestled deeply within the narrow, highly labyrinthine alleys of Mombasa's Old Town. Founded in 1570, it is widely celebrated as one of the absolute oldest continuously functioning mosques on the East African coast. The structure is a breathtaking, highly preserved example of classical Swahili-Arab architecture, constructed entirely from massive blocks of local coral rag. Its most incredibly striking feature is its highly unique, massive minaret—a square, deeply unadorned tower that contrasts sharply with the rounded minarets typical of later Ottoman designs. The mosque features deeply carved, highly intricate Omani wooden doors and a beautifully serene, highly shaded internal courtyard containing an ancient, deeply dug freshwater well used for ablutions. History K7 — Swahili-Arab antiquity.",
       de: "Die Mandhry Moschee liegt tief in der Altstadt von Mombasa und gehört zu den ältesten noch genutzten Moscheen an der ostafrikanischen Küste. Ihre Wurzeln reichen bis 1570 zurück, und der Bau besteht aus Korallenstein, wie er für die Swahili-Architektur typisch ist. Besonders auffällig ist das quadratische Minarett, das sich deutlich von späteren, runderen Formen unterscheidet. Im Hof liegen ein alter Brunnen und schattige Bereiche für die rituelle Waschung, wodurch der Ort bis heute sehr lebendig wirkt. Geschichte K7 — Swahili-Arabische Frühzeit.",
@@ -966,8 +984,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Kilifi-Brücke",
       hu: "Kilifi Híd",
       ro: "Podul Kilifi",
-      en: "Kilifi Bridge"
-    },
+      en: "Kilifi Bridge",
+image: "/poi-images/ke-kilifi-bridge-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Kilifi Bridge is a spectacular, massive feat of modern civil engineering, standing as the absolute longest bridge in Kenya. Spanning an incredible 420 meters across the incredibly deep, highly scenic Kilifi Creek estuary, the bridge was officially completed in 1991, constructed with massive financial backing from the Japanese government. Prior to its construction, crossing the massive, deeply incised creek required relying on a highly erratic, heavily congested ferry service, which severely bottlenecked the entire coastal transport corridor. The massive, deeply elegant post-tensioned concrete box-girder design gracefully spans the deep blue waters below, seamlessly integrating into the dramatic coastal topography. The bridge fundamentally revolutionized north coast logistics, massively accelerating tourism and economic development in Malindi and Lamu. Geography K7 — Estuarine super-structures.",
       de: "Die Kilifi Bridge überspannt den tief eingeschnittenen Kilifi Creek und gilt als die längste Brücke Kenias. Mit rund 420 Metern Spannweite und der Fertigstellung im Jahr 1991 ersetzte sie eine langsame Fährverbindung, die den Küstenverkehr immer wieder ausbremste. Der Bau verbessert bis heute die Verbindung zwischen der Küstenstraße und den Orten nördlich von Mombasa. Durch ihre Lage über dem Estuar wirkt die Brücke technisch und landschaftlich zugleich eindrucksvoll. Sie ist ein gutes Beispiel dafür, wie Infrastruktur an der Küste direkt wirtschaftliche Entwicklung auslöst. Geografie K7 — Brücken und Küstenlogistik.",
@@ -1019,8 +1038,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Nairobi Terminus (SGR)",
       hu: "Nairobi Terminus (SGR)",
       ro: "Terminalul Nairobi (SGR)",
-      en: "Nairobi Terminus (SGR)"
-    },
+      en: "Nairobi Terminus (SGR)",
+image: "/poi-images/ke-nairobi-terminus-sgr-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Nairobi Terminus is a colossal, ultra-modern railway station that serves as the absolute primary inland hub for Kenya's revolutionary Standard Gauge Railway (SGR). Completed in 2017, the massive structure is located in Syokimau, roughly 20 kilometers from the CBD. The architecture is incredibly futuristic, deliberately designed to heavily resemble two massive locomotives passing each other. The facility is a staggering departure from the highly nostalgic colonial railway stations, featuring massive, high-vaulted glass ceilings, highly automated electronic ticketing, and deep, sweeping platforms capable of handling thousands of highly energetic passengers simultaneously. As the absolute terminus of the multi-billion-dollar 'Madaraka Express' from Mombasa, the incredibly imposing building represents a massive, highly visible leap forward in the nation's 21st-century logistical infrastructure. Landmarks K7 — Ultra-modern transit hubs.",
       de: "Der Nairobi Terminus ist der zentrale Binnenbahnhof der Standard Gauge Railway in Kenia. Seit 2017 dient er in Syokimau als modernes Gegenstück zu den alten kolonialen Stationen und verbindet die Hauptstadt mit Mombasa. Die Architektur ist bewusst futuristisch und erinnert an zwei aneinander vorbeifahrende Lokomotiven. Große Glasdächer, elektronische Ticketsysteme und breite Bahnsteige machen den Bahnhof zum Symbol einer neuen Transportära. Der Terminus ist damit nicht nur ein Bahnhof, sondern ein sichtbares Infrastrukturprojekt des 21. Jahrhunderts. Geografie K7 — moderner Schienenverkehr.",
@@ -1072,8 +1092,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Mombasa Terminus (SGR)",
       hu: "Mombasa Terminus (SGR)",
       ro: "Terminalul Mombasa (SGR)",
-      en: "Mombasa Terminus (SGR)"
-    },
+      en: "Mombasa Terminus (SGR)",
+image: "/poi-images/ke-mombasa-terminus-sgr-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Mombasa Terminus is a breathtaking, highly imposing architectural marvel serving as the absolute coastal anchor for the massive Standard Gauge Railway (SGR) network. Completed in 2017 and located in the Miritini suburb roughly 11 kilometers from the historic Mombasa island, the station's incredibly unique design is heavily inspired by the ripples and highly dynamic waves of the Indian Ocean. The structure features massive, deeply swooping circular roofs arranged in concentric tiers, culminating in a towering, highly prominent central observation mast. The terminal processes thousands of tourists and local travelers daily, operating with highly rigorous, deeply systematic security and boarding protocols. The colossal building is a highly deliberate, intensely modern architectural statement, welcoming passengers to the coast with undeniable futuristic grandeur. Landmarks K7 — Oceanic-inspired architecture.",
       de: "Der Mombasa Terminus ist das maritime Gegenstück des SGR-Netzes und begrüßt Reisende an der Küste. Er wurde 2017 im Vorort Miritini fertiggestellt und liegt bewusst außerhalb der engen Inselstadt, um den Verkehr zu entlasten. Die geschwungenen Dächer greifen Wellenbewegungen des Indischen Ozeans auf und geben dem Bau eine starke lokale Identität. Als Endpunkt des Madaraka Express verarbeitet der Bahnhof täglich Tausende Fahrgäste mit klaren Sicherheits- und Abfertigungsroutinen. Das Gebäude verbindet Küstenlandschaft und moderne Verkehrstechnik sehr direkt. Geografie K7 — Küstenbahnhof und Infrastruktur.",
@@ -1125,8 +1146,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Prism Tower",
       hu: "Prism Torony",
       ro: "Turnul Prism",
-      en: "Prism Tower"
-    },
+      en: "Prism Tower",
+image: "/poi-images/ke-prism-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Prism Tower is an incredibly striking, deeply unconventional skyscraper that has aggressively redefined the skyline of Nairobi's highly affluent Upper Hill district. Completed in 2018, the massive 133-meter, 34-story structure is globally renowned for its highly dramatic, deeply faceted geometric design. Unlike typical rectangular towers, the incredibly innovative building explicitly resembles a massive, brilliantly cut gemstone, with incredibly complex, sharply angled glass facades that spectacularly catch and fracture the intensely bright equatorial sunlight throughout the day. The building is highly acclaimed for its deep integration of massive environmental sustainability features, including highly advanced natural ventilation and deep rainwater harvesting systems. It stands as an incredibly bold, highly visible testament to Nairobi's intensely competitive corporate real estate boom. Landmarks K8 — Geometric skyscraper architecture.",
       de: "Der Prism Tower ist ein auffälliger Büroturm in Upper Hill, der mit seiner facettierten Glasfassade eher wie ein geschliffener Stein als wie ein klassischer Rechteckbau wirkt. Das 2018 fertiggestellte Hochhaus ist 133 Meter hoch und hat 34 Etagen. Seine scharf geschnittenen Flächen brechen das Licht im Tagesverlauf sehr unterschiedlich und machen das Gebäude zu einem starken visuellen Marker in der Skyline. Gleichzeitig wurde das Projekt mit Blick auf Energieeffizienz und natürliche Belüftung entwickelt. Der Turm steht für die neue, experimentierfreudige Hochhausphase Nairobis. Geografie K8 — geometrische Stadtarchitektur.",
@@ -1178,8 +1200,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Le'mac Towers",
       hu: "Le'mac Tornyok",
       ro: "Turnurile Le'mac",
-      en: "Le'mac Towers"
-    },
+      en: "Le'mac Towers",
+image: "/poi-images/ke-lemac-towers-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "Le'mac Towers is an incredibly ambitious, highly luxurious mixed-use skyscraper that absolutely dominates the skyline of Nairobi's intensely wealthy Westlands district. Reaching a staggering height of 126 meters over 26 floors, the massive building was completed in 2019 and holds the unique distinction of being Kenya's tallest purely residential building. The most incredibly striking and deeply thrilling feature of Le'mac is its massive, highly engineered transparent glass floor sky-walk, located precariously on the 24th floor, offering terrifyingly spectacular, plunging views directly down to the street below. The massive structure combines highly elite corporate offices on its lower levels with incredibly exclusive luxury apartments above, topped with a highly sophisticated rooftop restaurant, encapsulating the intense, highly modern opulence of 21st-century Nairobi. Landmarks K7 — Luxury high-rise residential.",
       de: "Le'mac Towers gehören zu den sichtbarsten Luxusadressen in Westlands. Der 2019 fertiggestellte Komplex steigt auf 126 Meter und vereint anspruchsvolle Wohnungen mit Gewerbeflächen und Spitzenkomfort. Berühmt ist vor allem der gläserne Skywalk im 24. Stock, der den Blick senkrecht auf die Straße freigibt und den Turm zu einem Erlebnisbau macht. Mit Restaurant, hochwertigen Wohnungen und einer starken Präsenz im Stadtbild zeigt Le'mac, wie stark sich Nairobi in ein Luxus- und Dienstleistungszentrum verwandelt. Wirtschaft K8 — Wohnen in der vertikalen Stadt.",
@@ -1231,8 +1254,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "CBK Pension Tower",
       hu: "CBK Pension Torony",
       ro: "Turnul CBK Pension",
-      en: "CBK Pension Tower"
-    },
+      en: "CBK Pension Tower",
+image: "/poi-images/ke-cbk-pension-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The CBK Pension Tower is an incredibly striking, highly profound addition to Nairobi's central business district, serving as a massive architectural metaphor for the nation's financial stability. Completed in 2022, the incredibly unique 153-meter, 27-story skyscraper is deeply characterized by its highly unconventional, heavily staggered structural design. The massive building comprises two distinct, leaning glass towers that structurally converge and physically support each other near the summit. The incredibly thoughtful architects designed this massive structure to explicitly represent retired senior citizens leaning on and being heavily supported by the youth. Clad entirely in deeply reflective, highly modern blue glass, the incredibly massive building stands as a highly prominent, deeply symbolic monument to intergenerational financial planning in the capital's intensely dense financial core. Landmarks K8 — Symbolic architectural design.",
       de: "Der CBK Pension Tower ist eines der jüngsten und symbolischsten Hochhäuser in Nairobis CBD. Das 2022 fertiggestellte Gebäude ist 153 Meter hoch und setzt mit zwei leicht geneigten Glastürmen einen ungewöhnlichen Akzent in der Innenstadt. Der Entwurf soll die Unterstützung zwischen Generationen darstellen: Die Jugend trägt die ältere Bevölkerung mit. Damit bekommt ein Finanzgebäude eine sehr klare soziale Botschaft. Die blaue Glashaut und die starke vertikale Form machen den Turm zu einem prägnanten Zeichen des modernen Nairobi. Wirtschaft K8 — Finanzarchitektur mit Symbolgehalt.",
@@ -1284,8 +1308,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "I&M Bank Tower",
       hu: "I&M Bank Torony",
       ro: "Turnul I&M Bank",
-      en: "I&M Bank Tower"
-    },
+      en: "I&M Bank Tower",
+image: "/poi-images/ke-i-m-bank-tower-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The I&M Bank Tower is a deeply iconic, highly prominent commercial skyscraper that has heavily anchored the skyline of Nairobi's central business district since the early 2000s. Completed in 2001, the massive structure stands at roughly 100 meters tall. It is incredibly recognizable due to its highly distinctive, deeply brilliant blue glass facade and its incredibly prominent, highly unique sloped roofline. Beyond its striking visual presence, the massive tower is historically notable as one of the very first highly modern, purely corporate skyscrapers built in the CBD after the political uncertainties of the late 1990s, signaling a massive, deeply confident return of private financial investment. The building serves as the incredibly secure, highly prestigious corporate headquarters for the I&M Bank group. Landmarks K7 — Early 21st-century corporate towers.",
       de: "Der I&M Bank Tower ist ein klassischer Corporate Tower im Zentrum von Nairobi und gehört zu den frühen modernen Hochhäusern des CBD. Das 2001 fertiggestellte Gebäude erreicht rund 100 Meter Höhe und ist wegen seiner tiefblauen Glasfassade und der schrägen Dachlinie sofort erkennbar. Es steht für den Rückzug privater Finanzinvestitionen in die Innenstadt nach einer längeren Phase der Unsicherheit. Als Hauptsitz der I&M Bank verknüpft der Turm Sichtbarkeit, Prestige und Finanzmacht. Er zeigt, wie sich die Skyline von Nairobi Schritt für Schritt verdichtet hat. Wirtschaft K7 — frühe 2000er-Bürohochhäuser.",
@@ -1337,8 +1362,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "City Market Nairobi",
       hu: "Városi Piac Nairobi",
       ro: "Piața Centrală din Nairobi",
-      en: "City Market Nairobi"
-    },
+      en: "City Market Nairobi",
+image: "/poi-images/ke-city-market-nairobi-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The City Market in Nairobi is an incredibly historic, intensely bustling commercial hub located deeply within the central business district. Constructed in the 1930s to replace the earlier Jeevanjee Market, the massive, deeply imposing building features highly distinct, incredibly striking colonial-era architecture, notably its incredibly high, heavily vaulted ceilings supported by massive concrete arches. Initially operating as an incredibly segregated market during the colonial period, today it is a massive, highly chaotic, and deeply vibrant center of indigenous commerce. The market is globally renowned for its incredibly dense labyrinth of vendors selling massive quantities of fresh flowers, incredibly detailed local handicrafts, and highly prized soapstone carvings, alongside a massive, deeply aromatic section dedicated to fresh meat and fish. History K7 — Colonial urban commerce.",
       de: "Die City Market Hall in Nairobi ist eine historische Markthalle im Herzen des CBD und einer der lebendigsten Handelsorte der Stadt. Der Bau aus den 1930er-Jahren ersetzte den früheren Jeevanjee Market und ist mit seinen großen Betonbögen und der hohen Halle sofort erkennbar. Früher war der Markt streng segregiert, heute mischen sich dort Blumenstände, Kunsthandwerk, Holzschnitzereien sowie frische Ware zu einem dichten Stadtbild. Wer Nairobi verstehen will, sieht hier die Verbindung aus Kolonialgeschichte, informellem Handel und täglicher Versorgung. Geografie K7 — städtischer Markt und Handel.",
@@ -1390,8 +1416,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Macmillan Memorial Library",
       hu: "Macmillan Emlékkönyvtár",
       ro: "Biblioteca Memorială Macmillan",
-      en: "Macmillan Memorial Library"
-    },
+      en: "Macmillan Memorial Library",
+image: "/poi-images/ke-macmillan-memorial-library-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Macmillan Memorial Library is an incredibly profound, highly imposing piece of neo-classical architecture located directly in the incredibly busy center of Nairobi. Constructed entirely of incredibly massive, deep-cut stone blocks, the highly solemn building was officially opened in 1931 by Lady Lucy Macmillan in deep, highly devoted memory of her husband, the massive colonial explorer and philanthropist Sir William Northrup Macmillan. The incredibly striking facade is deeply guarded by two massive, highly menacing stone lion statues. Historically, the incredibly exclusive library operated under highly strict racial segregation until independence. Today, the massive, deeply historic interior features incredibly high ceilings, incredibly grand staircases, and massive archives housing incredibly rare, historically priceless books and East African political manuscripts. History K8 — Neo-classical colonial philanthropy.",
       de: "Die Macmillan Memorial Library zählt zu den eindrucksvollsten historischen Bibliotheken Nairobis. Sie wurde 1931 von Lady Lucy Macmillan eröffnet und ist dem Andenken an Sir William Northrup Macmillan gewidmet. Die neoklassizistische Fassade mit ihren massiven Steinblöcken und den beiden Löwenstatuen am Eingang wirkt streng und feierlich zugleich. Im Inneren finden sich hohe Decken, breite Treppen und Archive mit seltenen Büchern und Manuskripten aus Ostafrika. Das Gebäude zeigt, wie eng in Nairobi Bildung, Kolonialgeschichte und öffentliche Erinnerung zusammenhängen. Geschichte K8 — Bibliotheken und koloniale Philanthropie.",
@@ -1443,8 +1470,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Nationalarchiv von Kenia",
       hu: "Kenyai Nemzeti Levéltár",
       ro: "Arhivele Naționale ale Kenyei",
-      en: "Kenya National Archives"
-    },
+      en: "Kenya National Archives",
+image: "/poi-images/ke-kenya-national-archives-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Kenya National Archives building is an incredibly iconic, highly historic landmark situated directly on the extremely busy edge of Tom Mboya Street in Nairobi. The deeply imposing structure was originally completed in 1931 as the highly secure headquarters for the National Bank of India. Its incredibly solid, highly classic colonial architecture features deep, highly shadowed verandas and massive stone pillars designed to project intense financial security. Today, the incredibly massive building serves as the absolute physical memory of the nation. It houses incredibly vast, highly priceless collections of historical government documents, pre-colonial treaties, and an incredibly massive, deeply extensive collection of pan-African cultural artifacts and deeply historical weaponry amassed by the famous collector Joseph Murumbi. History K8 — Archival institutions and memory.",
       de: "Das Kenya National Archives ist mehr als ein Verwaltungsbau: Es ist ein materielles Gedächtnis des Landes. Das Gebäude wurde 1931 für die National Bank of India errichtet und steht bis heute an einer der belebtesten Kanten der Innenstadt. Später zog dort das nationale Archiv ein und ergänzte die Sammlung um Dokumente, Verträge und historische Objekte aus ganz Kenia. Besonders wichtig ist die Murumbi Gallery mit ihren panafrikanischen Kunst- und Kulturschätzen. Zwischen alten Steinfassaden und engem Straßenraum sammelt sich hier die schriftliche und materielle Geschichte des Landes. Geschichte K8 — Archive und nationale Erinnerung.",
@@ -1496,8 +1524,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Dedan-Kimathi-Statue",
       hu: "Dedan Kimathi Szobor",
       ro: "Statuia Dedan Kimathi",
-      en: "Dedan Kimathi Statue"
-    },
+      en: "Dedan Kimathi Statue",
+image: "/poi-images/ke-dedan-kimathi-statue-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Dedan Kimathi Statue is an incredibly powerful, deeply emotive bronze monument located fiercely in the very center of Nairobi, on the highly busy intersection of Kimathi Street. Erected in 2007 on the exact 50th anniversary of his incredibly tragic execution, the massive statue honors Field Marshal Dedan Kimathi, the absolutely legendary, highly fearless supreme commander of the Mau Mau rebellion against British colonial rule. The incredibly striking sculpture depicts Kimathi fiercely holding a massive rifle in one hand and a deeply symbolic dagger in the other, dressed in highly iconic military fatigues. The incredibly prominent monument served as a massive, deeply delayed official state recognition of the incredibly brutal, deeply unacknowledged guerrilla war that fundamentally broke the grip of the British Empire. History K8 — Armed liberation heroes.",
       de: "Die Dedan-Kimathi-Statue steht mitten in Nairobi als bronzenes Zeichen des antikolonialen Widerstands. Aufgestellt 2007, genau fünfzig Jahre nach der Hinrichtung Kimathis, würdigt sie den Mau-Mau-Kommandeur als nationale Freiheitsfigur. Die Figur zeigt ihn in Kampfkleidung mit Gewehr und Machete, also nicht als abstraktes Denkmal, sondern als direkte Erinnerung an den bewaffneten Konflikt gegen die Kolonialmacht. Der Standort an der Kimathi Street macht die Figur im Stadtalltag allgegenwärtig. Damit verbindet das Denkmal Trauer, Rehabilitation und öffentliche Geschichtspolitik. Geschichte K8 — Befreiungskämpfe und Heldenverehrung.",
@@ -1549,8 +1578,9 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       de: "Tom-Mboya-Monument",
       hu: "Tom Mboya Emlékmű",
       ro: "Monumentul Tom Mboya",
-      en: "Tom Mboya Monument"
-    },
+      en: "Tom Mboya Monument",
+image: "/poi-images/ke-tom-mboya-monument-landmarks-v2.webp"
+},
     descriptionAdvanced: {
       en: "The Tom Mboya Monument is an incredibly poignant, deeply revered bronze statue located squarely in the chaotic, incredibly dense heart of Nairobi's central business district, near the National Archives. The highly commanding statue honors Thomas Joseph Mboya, one of Kenya's absolutely most brilliant, highly charismatic founding fathers and a massive pioneer of the national trade union movement. Tragically, the incredibly promising leader was brutally assassinated in 1969 on the exact street where the massive monument now fiercely stands. The incredibly striking bronze sculpture depicts Mboya in highly confident mid-stride, wearing his deeply iconic traditional West African agbada robes. The incredibly prominent monument stands as a massive, deeply tragic reminder of the intense, highly volatile political assassinations that deeply scarred Kenya's post-independence era. History K8 — Post-independence political assassinations.",
       de: "Das Tom-Mboya-Monument erinnert an einen der prägendsten Politiker des unabhängigen Kenia. Die Bronzefigur steht in der Nähe des National Archives an der Moi Avenue und damit fast direkt an dem Ort, an dem Tom Mboya 1969 ermordet wurde. Mboya war nicht nur Gewerkschaftsführer, sondern auch eine Schlüsselfigur der frühen Staatsbildung. Die Statue zeigt ihn im Schritt, mit klarer Haltung und in traditioneller afrikanischer Kleidung, was seine Rolle als moderner Nationalpolitiker betont. Der Standort verwandelt einen Mordschauplatz in einen Ort öffentlicher Erinnerung. Geschichte K8 — politische Gewalt nach der Unabhängigkeit.",

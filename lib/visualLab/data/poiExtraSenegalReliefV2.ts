@@ -11,8 +11,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Fouta-Djallon Ausläufer",
       hu: "Fouta-Djallon nyúlványok",
       ro: "Fouta-Djallon prelungiri",
-      en: "Fouta-Djallon foothills"
-    },
+      en: "Fouta-Djallon foothills",
+image: "/poi-images/fouta-djallon-relief-v2.webp"
+},
     description: {
       de: "Ein hügeliges Gelände im Südosten Senegals, das an das guineische Hochland grenzt.",
       hu: "Szenegál délkeleti részén található dombvidék, amely a guineai felföldhöz kapcsolódik.",
@@ -47,8 +48,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Ferlo Hochebene",
       hu: "Ferlo-fennsík",
       ro: "Podișul Ferlo",
-      en: "Ferlo Plateau"
-    },
+      en: "Ferlo Plateau",
+image: "/poi-images/ferlo-plateau-v2.webp"
+},
     description: {
       de: "Eine ausgedehnte, flache Hochebene im Zentrum Senegals, geprägt durch Trockensavannen.",
       hu: "Kiterjedt, sík fennsík Szenegál központjában, száraz szavannákkal.",
@@ -83,8 +85,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Niayes Senke",
       hu: "Niayes-mélyföld",
       ro: "Depresiunea Niayes",
-      en: "Niayes Depression"
-    },
+      en: "Niayes Depression",
+image: "/poi-images/niayes-relief-v2.webp"
+},
     description: {
       de: "Eine Kette von Senken entlang der Atlantikküste, wichtig für den Gemüseanbau.",
       hu: "Az Atlanti-óceán partja mentén elhelyezkedő mélyföld-láncolat, fontos zöldségtermesztő terület.",
@@ -119,8 +122,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Casamance Talboden",
       hu: "Casamance völgyfenék",
       ro: "Valea Casamance",
-      en: "Casamance valley floor"
-    },
+      en: "Casamance valley floor",
+image: "/poi-images/casamance-tal-v2.webp"
+},
     description: {
       de: "Flaches Schwemmlandgebiet entlang des Casamance-Flusses im Süden des Landes.",
       hu: "Lapos alluviális terület a Casamance folyó mentén az ország déli részén.",
@@ -155,8 +159,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Falémé Hügelland",
       hu: "Falémé dombság",
       ro: "Dealurile Falémé",
-      en: "Falémé hills"
-    },
+      en: "Falémé hills",
+image: "/poi-images/faleme-relief-v2.webp"
+},
     description: {
       de: "Hügelige Grenzregion zwischen Senegal und Mali entlang des Falémé-Flusses.",
       hu: "Szenegál és Mali közötti dombos határvidék a Falémé folyó mentén.",
@@ -191,8 +196,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Saloum Delta Ebenen",
       hu: "Saloum-delta síkság",
       ro: "Câmpiile Deltei Saloum",
-      en: "Saloum Delta plains"
-    },
+      en: "Saloum Delta plains",
+image: "/poi-images/saloum-delta-relief-v2.webp"
+},
     description: {
       de: "Flache, brackwassergeprägte Küstenebenen im Delta des Sine-Saloum.",
       hu: "Lapos, brakkvizes part menti síkság a Sine-Saloum deltájában.",
@@ -227,8 +233,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Kolda Hochebene",
       hu: "Kolda-fennsík",
       ro: "Podișul Kolda",
-      en: "Kolda Plateau"
-    },
+      en: "Kolda Plateau",
+image: "/poi-images/kolda-hochebene-v2.webp"
+},
     description: {
       de: "Ein leicht gewelltes Hochplateau im Süden Senegals.",
       hu: "Enyhén hullámos fennsík Szenegál déli részén.",
@@ -263,8 +270,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Thiès Plateau",
       hu: "Thiès-fennsík",
       ro: "Podișul Thiès",
-      en: "Thiès Plateau"
-    },
+      en: "Thiès Plateau",
+image: "/poi-images/thies-plateau-v2.webp"
+},
     description: {
       de: "Ein markantes Plateau in der Nähe der Küste, das das Hinterland dominiert.",
       hu: "Jellegzetes fennsík a part közelében, amely uralja a hátországot.",
@@ -299,8 +307,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Sine Ebene",
       hu: "Sine-síkság",
       ro: "Câmpia Sine",
-      en: "Sine plain"
-    },
+      en: "Sine plain",
+image: "/poi-images/sine-ebene-v2.webp"
+},
     description: {
       de: "Weite, landwirtschaftlich genutzte Ebene entlang des Sine-Flusses.",
       hu: "Széles, mezőgazdaságilag hasznosított síkság a Sine folyó mentén.",
@@ -335,8 +344,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Gambia Flussniederung",
       hu: "Gambia folyómenti alföld",
       ro: "Lunca râului Gambia",
-      en: "Gambia river lowlands"
-    },
+      en: "Gambia river lowlands",
+image: "/poi-images/gambia-niederung-v2.webp"
+},
     description: {
       de: "Tiefgelegene Gebiete um den Gambia-Flusslauf in Senegal.",
       hu: "Alacsonyan fekvő területek a Gambia folyó szenegáli szakaszán.",
@@ -371,8 +381,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Senegal Delta Ebenen",
       hu: "Szenegál-delta síkság",
       ro: "Câmpiile Deltei Senegal",
-      en: "Senegal Delta plains"
-    },
+      en: "Senegal Delta plains",
+image: "/poi-images/senegal-delta-ebene-v2.webp"
+},
     description: {
       de: "Die flache Mündungsregion des Senegal-Flusses im Norden.",
       hu: "A Szenegál folyó lapos torkolatvidéke északon.",
@@ -407,8 +418,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Lompoul Sandebene",
       hu: "Lompoul homoksíkság",
       ro: "Câmpia de nisip Lompoul",
-      en: "Lompoul sand plain"
-    },
+      en: "Lompoul sand plain",
+image: "/poi-images/lompoul-relief-v2.webp"
+},
     description: {
       de: "Eine ausgedehnte Sandlandschaft und Dünenregion.",
       hu: "Kiterjedt homokos táj és dűnevidék.",
@@ -443,8 +455,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Matam Hochebene",
       hu: "Matam-fennsík",
       ro: "Podișul Matam",
-      en: "Matam plateau"
-    },
+      en: "Matam plateau",
+image: "/poi-images/matam-hochland-v2.webp"
+},
     description: {
       de: "Ein trockenes, flaches Plateau im Nordosten des Landes.",
       hu: "Száraz, sík fennsík az ország északkeleti részén.",
@@ -479,8 +492,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Tambacounda Plateau",
       hu: "Tambacounda-fennsík",
       ro: "Podișul Tambacounda",
-      en: "Tambacounda plateau"
-    },
+      en: "Tambacounda plateau",
+image: "/poi-images/tambacounda-plateau-v2.webp"
+},
     description: {
       de: "Große, trockene Hochebene im Osten Senegals.",
       hu: "Nagy, száraz fennsík Szenegál keleti részén.",
@@ -515,8 +529,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Nördliche Küstenebene",
       hu: "Északi part menti síkság",
       ro: "Câmpia costieră nordică",
-      en: "Northern coastal plain"
-    },
+      en: "Northern coastal plain",
+image: "/poi-images/nördliche-kuestenebene-v2.webp"
+},
     description: {
       de: "Eine schmale Ebene zwischen Atlantik und dem Inland.",
       hu: "Keskeny síkság az Atlanti-óceán és a belső területek között.",
@@ -551,8 +566,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Casamance Waldhügel",
       hu: "Casamance erdős dombok",
       ro: "Dealuri împădurite Casamance",
-      en: "Casamance forested hills"
-    },
+      en: "Casamance forested hills",
+image: "/poi-images/casamance-waldhuegel-v2.webp"
+},
     description: {
       de: "Hügeliges Waldgebiet im südlichen Senegal.",
       hu: "Hilly erdős terület Szenegál déli részén.",
@@ -587,8 +603,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Mbao Waldgebiet",
       hu: "Mbao erdővidék",
       ro: "Zona forestieră Mbao",
-      en: "Mbao forest area"
-    },
+      en: "Mbao forest area",
+image: "/poi-images/mbao-waldgebiet-v2.webp"
+},
     description: {
       de: "Ein bedeutender Waldgürtel nahe der Hauptstadt Dakar.",
       hu: "Fontos erdősáv Dakar főváros közelében.",
@@ -623,8 +640,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Patar Wald",
       hu: "Patar erdő",
       ro: "Pădurea Patar",
-      en: "Patar forest"
-    },
+      en: "Patar forest",
+image: "/poi-images/patar-wald-v2.webp"
+},
     description: {
       de: "Ein kleineres, trockenes Waldgebiet im Zentrum.",
       hu: "Kisebb, száraz erdős terület a központban.",
@@ -659,8 +677,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Niokolo-Koba Bergzug",
       hu: "Niokolo-Koba hegyvonulat",
       ro: "Lanțul muntos Niokolo-Koba",
-      en: "Niokolo-Koba mountain range"
-    },
+      en: "Niokolo-Koba mountain range",
+image: "/poi-images/niokolo-koba-berg-v2.webp"
+},
     description: {
       de: "Die hügeligen Ausläufer des Niokolo-Koba Nationalparks.",
       hu: "A Niokolo-Koba Nemzeti Park dombos nyúlványai.",
@@ -695,8 +714,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Fouta-Djallon Hochland",
       hu: "Fouta-Djallon felföld",
       ro: "Ținuturile înalte Fouta-Djallon",
-      en: "Fouta-Djallon highlands"
-    },
+      en: "Fouta-Djallon highlands",
+image: "/poi-images/fouta-djallon-hochland-v2.webp"
+},
     description: {
       de: "Ein bedeutendes Massiv, das über die Grenze nach Guinea reicht.",
       hu: "Jelentős masszívum, amely átnyúlik Guinea határán.",
@@ -731,8 +751,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Kolda Hügel",
       hu: "Kolda-dombok",
       ro: "Dealurile Kolda",
-      en: "Kolda hills"
-    },
+      en: "Kolda hills",
+image: "/poi-images/kolda-huegel-v2.webp"
+},
     description: {
       de: "Hügelige Erhebungen in der Region Kolda.",
       hu: "Dombos kiemelkedések a Kolda régióban.",
@@ -767,8 +788,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Thiès Hügelzug",
       hu: "Thiès-dombság",
       ro: "Dealurile Thiès",
-      en: "Thiès ridge"
-    },
+      en: "Thiès ridge",
+image: "/poi-images/thiès-hügelzug-v2.webp"
+},
     description: {
       de: "Ein markanter, langgestreckter Hügelzug nahe Thiès.",
       hu: "Karakteres, elnyújtott dombság Thiès közelében.",
@@ -803,8 +825,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Falémé Flusstal",
       hu: "Falémé völgy",
       ro: "Valea râului Falémé",
-      en: "Falémé river valley"
-    },
+      en: "Falémé river valley",
+image: "/poi-images/faleme-tal-relief-v2.webp"
+},
     description: {
       de: "Ein tief eingeschnittenes Tal an der östlichen Landesgrenze.",
       hu: "Mély völgy a keleti országhatáron.",
@@ -839,8 +862,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Casamance Hügel",
       hu: "Casamance dombság",
       ro: "Dealurile Casamance",
-      en: "Casamance hills"
-    },
+      en: "Casamance hills",
+image: "/poi-images/casamance-huegel-v2.webp"
+},
     description: {
       de: "Die leicht hügelige Topografie im südlichen Senegal.",
       hu: "Enyhén dombos domborzat Szenegál déli részén.",
@@ -875,8 +899,9 @@ export const poiExtraSenegalReliefV2: POI[] = [
       de: "Ferlo Savannenebene",
       hu: "Ferlo-szavanna síkság",
       ro: "Câmpia de savană Ferlo",
-      en: "Ferlo savanna plain"
-    },
+      en: "Ferlo savanna plain",
+image: "/poi-images/ferlo-savanne-relief-v2.webp"
+},
     description: {
       de: "Eine endlose, flache Graslandschaft im Zentrum.",
       hu: "Végtelen, sík fűvidék a központban.",

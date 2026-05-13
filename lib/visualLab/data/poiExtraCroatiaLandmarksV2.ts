@@ -4,7 +4,9 @@ export const croatiaLandmarksV2: POI[] = [
   {
     id: "croatia-zagreb-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Zagreb", hu: "Zágrábi székesegyház", ro: "Catedrala din Zagreb", en: "Zagreb Cathedral" },
+    name: { de: "Kathedrale von Zagreb", hu: "Zágrábi székesegyház", ro: "Catedrala din Zagreb", en: "Zagreb Cathedral",
+image: "/poi-images/croatia-zagreb-cathedral-landmarks-v2.webp"
+},
     coords: [15.9799, 45.8144],
     coordinates: { lat: 45.8144, lng: 15.9799 },
     description: {
@@ -19,11 +21,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Turnurile sale ating o înălțime de 108 metri", "Reconstruită de Hermann Bollé după cutremurul din 1880", "Adăpostește mormântul cardinalului Alojzije Stepinac", "Înconjurată de ziduri de apărare din secolul al XVI-lea"],
       en: ["Spire height reaches approximately 108 meters", "Redesigned by Hermann Bollé after the 1880 earthquake", "Contains the sarcophagus of Cardinal Alojzije Stepinac", "Surrounded by defensive walls from the 16th century"],
     },
-    imageHint: "Zagreb Cathedral neo-gothic spires", image: "/poi-images/croatia-zagreb-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Zagreb Cathedral neo-gothic spires",
+    descriptionAdvanced: {
+      de: "Der Stephansdom in Zagreb ist das höchste Gebäude Kroatiens. Er wurde nach dem Erdbeben von 1880 im neogotischen Stil wiederaufgebaut und prägt mit zwei Türmen die Skyline der Stadt.",
+      hu: "A zágrábi székesegyház Horvátország legmagasabb épülete. Az 1880-as földrengés után neogótikus stílusban épült újjá, két monumentális tornyával uralja a főváros történelmi látképét.",
+      ro: "Catedrala din Zagreb este cea mai înaltă clădire din Croația. Reconstruită în stil neogotic după seismul din 1880, edificiul domină centrul istoric prin cele două turnuri emblematice.",
+      en: "Zagreb Cathedral is the tallest building in Croatia, featuring iconic twin neo-Gothic spires. It was extensively restored by Hermann Bollé after the devastating earthquake of 1880.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Türme: 108 m", "Wiederaufbau ab: 1880", "Baustil: Neugotik", "Erste Weihe: 1217"],
+      hu: ["Tornyok magassága: 108 m", "Újjáépítés éve: 1880 után", "Stílus: neogótikus", "Alapítás éve: 1094"],
+      ro: ["Înălțimea turnurilor: 108 m", "Reconstrucție: după 1880", "Stil: neogotic", "Prima atestare: 1094"],
+      en: ["Tower height: 108 m", "Reconstruction started: 1880", "Style: Neo-Gothic", "First consecration: 1217"],
+    },
+    image: "/poi-images/croatia-zagreb-cathedral-landmarks-v2.webp",
+},  {
     id: "croatia-st-marks-church-landmarks-v2",
     type: "church",
-    name: { de: "Markuskirche", hu: "Szent Márk-templom", ro: "Biserica Sfântul Marcu", en: "St. Mark's Church" },
+    name: { de: "Markuskirche", hu: "Szent Márk-templom", ro: "Biserica Sfântul Marcu", en: "St. Mark's Church",
+image: "/poi-images/croatia-st-marks-church-landmarks-v2.webp"
+},
     coords: [15.9731, 45.8164],
     coordinates: { lat: 45.8164, lng: 15.9731 },
     description: {
@@ -38,11 +55,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Acoperișul redă blazoanele Croației și Zagrebului", "Portalul sudic conține 15 sculpturi gotice", "Acoperișul a fost proiectat de Friedrich Schmidt în 1880", "Biserica datează inițial din secolul al XIII-lea"],
       en: ["Roof tiles display the coats of arms of Croatia and Zagreb", "South portal features 15 Gothic sculptures in niches", "Roof design was created in 1880 by Friedrich Schmidt", "The church's origin dates back to the 13th century"],
     },
-    imageHint: "St Mark's Church Zagreb colorful tiled roof", image: "/poi-images/croatia-st-marks-church-landmarks-v2.webp"},
-  {
+imageHint: "St Mark's Church Zagreb colorful tiled roof",
+    descriptionAdvanced: {
+      de: "Die Markuskirche ist berühmt für ihr buntes Ziegeldach, das die Wappen von Zagreb und Kroatien zeigt. Die gotische Kirche auf dem Marktplatz stammt ursprünglich aus dem 13. Jahrhundert.",
+      hu: "A Szent Márk-templom Zágráb egyik jelképe, híres a tetőcserepeiből kirakott címereiről. A 13. századi alapokon nyugvó gótikus épület a Felsőváros központjában, a kormánynegyedben áll.",
+      ro: "Biserica Sfântul Marcu este celebră pentru acoperișul său colorat ce redă stemele Zagrebului și Croației. Edificiul gotic datează din secolul al XIII-lea și se află în Orașul de Sus.",
+      en: "St. Mark's Church is famous for its colorful tiled roof depicting the coats of arms of Croatia and Zagreb. This 13th-century Gothic building is a central landmark of the Upper Town.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 13. Jahrhundert", "Wappen auf dem Dach: 2", "Renovierung: 1876-1882", "Dachziegel: Bunt glasierte Fliesen"],
+      hu: ["Építés ideje: 13. század", "Címerek száma a tetőn: 2", "Felújítás: 1876–1882", "Helyszín: Szent Márk tér"],
+      ro: ["Datare: secolul al XIII-lea", "Blazoane pe acoperiș: 2", "Restaurare: 1876-1882", "Stil: gotic și baroc"],
+      en: ["Built: 13th century", "Coats of arms on roof: 2", "Renovation: 1876–1882", "Location: St. Mark's Square"],
+    },
+    image: "/poi-images/croatia-st-marks-church-landmarks-v2.webp",
+},  {
     id: "croatia-varazdin-old-town-landmarks-v2",
     type: "castle",
-    name: { de: "Burg Varaždin", hu: "Varasdi vár", ro: "Castelul din Varaždin", en: "Varaždin Castle" },
+    name: { de: "Burg Varaždin", hu: "Varasdi vár", ro: "Castelul din Varaždin", en: "Varaždin Castle",
+image: "/poi-images/croatia-varazdin-old-town-landmarks-v2.webp"
+},
     coords: [16.3314, 46.3088],
     coordinates: { lat: 46.3088, lng: 16.3314 },
     description: {
@@ -58,11 +90,25 @@ export const croatiaLandmarksV2: POI[] = [
       en: ["Built and expanded between the 14th and 19th centuries", "Residence of the Erdödy family starting in the 16th century", "Fortification is surrounded by high earthen ramparts", "One of Croatia's finest examples of secular architecture"],
     },
     imageHint: "Varazdin Castle white walls and red roofs",
+    descriptionAdvanced: {
+      de: "Die Burg Varaždin ist eine bedeutende Renaissance-Festung und das Wahrzeichen der Stadt. Sie diente einst als Sitz des kroatischen Bans und beherbergt heute das städtische Museum.",
+      hu: "A varasdi vár egy impozáns reneszánsz erődítmény, amely egykor a horvát bánok székhelye volt. Fehér falai és bástyái a város történelmi központjának legfontosabb látnivalói.",
+      ro: "Castelul din Varaždin este o fortăreață renascentistă emblematică, servind odinioară drept reședință a banilor croați. Astăzi, complexul medieval găzduiește muzeul municipal al orașului.",
+      en: "Varaždin Castle is a stunning Renaissance fortress and the city's primary landmark. Once a seat of Croatian bans, the white-walled complex now houses the Varaždin City Museum.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 14. bis 16. Jahrhundert", "Art: Wasserburg", "Sitz des Bans bis: 1776", "Heutige Nutzung: Stadtmuseum"],
+      hu: ["Építés ideje: 14–16. század", "Típus: vízivár", "Bánok székhelye: 1776-ig", "Mai funkció: Városi Múzeum"],
+      ro: ["Construcție: secolele XIV-XVI", "Tip: cetate de apă", "Sediul banilor: până în 1776", "Utilizare: muzeu municipal"],
+      en: ["Built: 14th–16th century", "Type: Water fortress", "Capital of Croatia until: 1776", "Current use: City Museum"],
+    },
   },
   {
     id: "croatia-osijek-fortress-landmarks-v2",
     type: "monument",
-    name: { de: "Tvrđa Osijek", hu: "Eszéki vár", ro: "Cetatea Osijek", en: "Osijek Fortress" },
+    name: { de: "Tvrđa Osijek", hu: "Eszéki vár", ro: "Cetatea Osijek", en: "Osijek Fortress",
+image: "/poi-images/croatia-osijek-fortress-landmarks-v2.webp"
+},
     coords: [18.6953, 45.5608],
     coordinates: { lat: 45.5608, lng: 18.6953 },
     description: {
@@ -78,11 +124,25 @@ export const croatiaLandmarksV2: POI[] = [
       en: ["Constructed in the 18th century after the Ottoman retreat", "Features the former General Command building and monasteries", "Votive plague pillar in the square was erected in 1729", "Once a vital strategic stronghold of the Habsburg Empire"],
     },
     imageHint: "Osijek Tvrda baroque architecture square",
+    descriptionAdvanced: {
+      de: "Die Tvrđa in Osijek ist eine der am besten erhaltenen barocken Festungsanlagen Zentraleuropas. Das im 18. Jahrhundert errichtete Viertel bildet den historischen Kern der Stadt.",
+      hu: "Az eszéki vár, vagyis a Tvrđa, Közép-Európa egyik legjobb állapotban fennmaradt barokk erődrendszere. A 18. században épült katonai negyed ma a város kulturális és egyetemi központja.",
+      ro: "Cetatea din Osijek, Tvrđa, este un complex fortificat baroc remarcabil, construit de austrieci în secolul al XVIII-lea. Reprezintă nucleul istoric și cultural al orașului de pe Drava.",
+      en: "Osijek Fortress, known as Tvrđa, is one of Central Europe's best-preserved Baroque military citadels. Built in the 18th century, it remains the historic and cultural heart of the city.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1712", "Stil: Barock", "Lage: Ufer der Drau", "Fläche: 80 Hektar"],
+      hu: ["Építés kezdete: 1712", "Stílus: barokk", "Helyszín: Dráva-part", "Terület: kb. 80 hektár"],
+      ro: ["Inaugurare construcție: 1712", "Stil: baroc militar", "Locație: malul râului Drava", "Suprafață: 80 hectare"],
+      en: ["Construction start: 1712", "Style: Military Baroque", "Location: Drava river bank", "Area: approx. 80 hectares"],
+    },
   },
   {
     id: "croatia-sea-organ-landmarks-v2",
     type: "monument",
-    name: { de: "Meeresorgel Zadar", hu: "Tengeri orgona", ro: "Orga mării", en: "Sea Organ" },
+    name: { de: "Meeresorgel Zadar", hu: "Tengeri orgona", ro: "Orga mării", en: "Sea Organ",
+image: "/poi-images/croatia-sea-organ-landmarks-v2.webp"
+},
     coords: [15.2199, 44.1171],
     coordinates: { lat: 44.1171, lng: 15.2199 },
     description: {
@@ -97,11 +157,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Proiectată de arhitectul Nikola Bašić în 2005", "Formată din 35 de tuburi de orga de lungimi diferite", "Câștigătoare a Premiului European pentru Spațiu Public Urban în 2006", "Situată în vârful vestic al peninsulei orașului"],
       en: ["Designed by architect Nikola Bašić in 2005", "Consists of 35 pipes of varying lengths and diameters", "Won the European Prize for Urban Public Space in 2006", "Located at the northwestern tip of the Zadar peninsula"],
     },
-    imageHint: "Sea Organ Zadar stone steps by the sea", image: "/poi-images/croatia-sea-organ-landmarks-v2.webp"},
-  {
+imageHint: "Sea Organ Zadar stone steps by the sea",
+    descriptionAdvanced: {
+      de: "Die Meeresorgel in Zadar ist ein architektonisches Klangobjekt, das durch Wellenbewegung Musik erzeugt. Nikola Bašić schuf 2005 dieses Kunstwerk unter den Stufen der Uferpromenade.",
+      hu: "A zadari tengeri orgona egy egyedülálló építészeti alkotás, amely a hullámok energiáját alakítja dallamokká. Nikola Bašić 2005-ben átadott műve a városi móló lépcsői alatt rejtőzik.",
+      ro: "Orga mării din Zadar este o instalație sonoră unică ce transformă valurile în muzică. Creată de Nikola Bašić în 2005, aceasta se află sub treptele de piatră ale falezei orașului.",
+      en: "The Sea Organ in Zadar is an experimental musical instrument that uses wave energy to create haunting melodies. Designed by Nikola Bašić in 2005, it is hidden beneath stone steps.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: April 2005", "Anzahl der Pfeifen: 35", "Länge: 70 Meter", "Architekt: Nikola Bašić"],
+      hu: ["Megnyitás: 2005. április", "Sípok száma: 35", "Hosszúság: 70 méter", "Építész: Nikola Bašić"],
+      ro: ["Inaugurare: aprilie 2005", "Număr de tuburi: 35", "Lungime: 70 metri", "Arhitect: Nikola Bašić"],
+      en: ["Opening date: April 2005", "Number of pipes: 35", "Length: 70 meters", "Architect: Nikola Bašić"],
+    },
+    image: "/poi-images/croatia-sea-organ-landmarks-v2.webp",
+},  {
     id: "croatia-ston-walls-landmarks-v2",
     type: "monument",
-    name: { de: "Mauern von Ston", hu: "Stoni várfalak", ro: "Zidurile din Ston", en: "Ston Walls" },
+    name: { de: "Mauern von Ston", hu: "Stoni várfalak", ro: "Zidurile din Ston", en: "Ston Walls",
+image: "/poi-images/croatia-ston-walls-landmarks-v2.webp"
+},
     coords: [17.6967, 42.8411],
     coordinates: { lat: 42.8411, lng: 17.6967 },
     description: {
@@ -116,11 +191,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Lungimea inițială era de aproximativ 7 kilometri", "Construite în secolul al XIV-lea de Republica Ragusa", "Conectează localitățile Ston și Mali Ston", "Includ 40 de turnuri și 5 fortărețe"],
       en: ["Original length was approximately 7 kilometers", "Built in the 14th century by the Republic of Ragusa", "Links the villages of Ston and Mali Ston", "The system includes 40 towers and 5 fortresses"],
     },
-    imageHint: "Ston Walls aerial view Peljesac", image: "/poi-images/croatia-ston-walls-landmarks-v2.webp"},
-  {
+imageHint: "Ston Walls aerial view Peljesac",
+    descriptionAdvanced: {
+      de: "Die Mauern von Ston sind mit über 5 Kilometern das längste Verteidigungssystem Europas. Sie wurden im 14. Jahrhundert zum Schutz der wertvollen Salzpfannen der Republik Ragusa erbaut.",
+      hu: "A stoni falak Európa leghosszabb erődrendszerét alkotják, hosszuk eredetileg a 7 kilométert is elérte. A 14. században épültek a Raguzai Köztársaság sólepárlóinak védelmére.",
+      ro: "Zidurile din Ston reprezintă cel mai lung sistem defensiv din Europa, întinzându-se pe mai mulți kilometri. Au fost ridicate în secolul XIV pentru a proteja salinele Republicii Ragusa.",
+      en: "The Walls of Ston comprise the longest defensive system in Europe, spanning over 5 kilometers. Built in the 14th century, they protected the salt pans of the Republic of Ragusa.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: ca. 5,5 km", "Bauzeit: 14. bis 15. Jahrhundert", "Anzahl der Türme: 40", "Breite der Mauern: 3-5 m"],
+      hu: ["Teljes hossz: kb. 5,5 km", "Építés ideje: 14–15. század", "Tornyok száma: 40", "Vastagság: 3–5 méter"],
+      ro: ["Lungime totală: 5,5 km", "Perioada construcției: sec. XIV-XV", "Număr de turnuri: 40", "Grosime ziduri: 3-5 m"],
+      en: ["Total length: 5.5 km", "Construction: 14th–15th century", "Number of towers: 40", "Wall width: 3–5 meters"],
+    },
+    image: "/poi-images/croatia-ston-walls-landmarks-v2.webp",
+},  {
     id: "croatia-lovrijenac-fortress-landmarks-v2",
     type: "castle",
-    name: { de: "Festung Lovrijenac", hu: "Lovrijenac-erőd", ro: "Cetatea Lovrijenac", en: "Lovrijenac Fortress" },
+    name: { de: "Festung Lovrijenac", hu: "Lovrijenac-erőd", ro: "Cetatea Lovrijenac", en: "Lovrijenac Fortress",
+image: "/poi-images/croatia-lovrijenac-fortress-landmarks-v2.webp"
+},
     coords: [18.1044, 42.641],
     coordinates: { lat: 42.641, lng: 18.1044 },
     description: {
@@ -135,11 +225,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Inscripția de la poartă: Libertatea nu se vinde pentru tot aurul din lume", "Zidurile dinspre mare au o grosime de până la 12 metri", "Loc de filmare pentru serialul Game of Thrones", "Datează inițial din secolul al XI-lea"],
       en: ["Inscription above the gate: Liberty is not sold for all the gold in the world", "Seaward walls are up to 12 meters thick for defense", "Famed filming location for the 'Red Keep' in Game of Thrones", "Construction likely began as early as the 11th century"],
     },
-    imageHint: "Lovrijenac Fortress cliff view Dubrovnik", image: "/poi-images/croatia-lovrijenac-fortress-landmarks-v2.webp"},
-  {
+imageHint: "Lovrijenac Fortress cliff view Dubrovnik",
+    descriptionAdvanced: {
+      de: "Die Festung Lovrijenac thront auf einem 37 Meter hohen Felsen vor den Mauern Dubrovniks. Sie gilt als das Gibraltar der Stadt und schützte den westlichen Zugang zur Republik Ragusa.",
+      hu: "A Lovrijenac-erőd egy 37 méter magas sziklán magasodik Dubrovnik falai előtt. A város Gibraltárjaként ismert erődítmény a Raguzai Köztársaság nyugati védelmének kulcsfontosságú pontja.",
+      ro: "Fortăreața Lovrijenac este situată pe o stâncă de 37 de metri în afara zidurilor Dubrovnikului. Cunoscută ca Gibraltarul orașului, aceasta proteja accesul vestic în Republica Ragusa.",
+      en: "Lovrijenac Fortress stands on a 37-meter cliff outside Dubrovnik's walls. Often called the city's Gibraltar, it was crucial for defending the western entrance to the Ragusa Republic.",
+    },
+    factsAdvanced: {
+      de: ["Höhe über Meer: 37 m", "Mauerstärke außen: 12 m", "Bauzeit: 11. bis 16. Jahrhundert", "Motto: Libertà (Freiheit)"],
+      hu: ["Tengerszint feletti magasság: 37 m", "Külső falvastagság: 12 m", "Építés ideje: 11–16. század", "Felirat: Libertas (Szabadság)"],
+      ro: ["Înălțime: 37 metri", "Grosimea zidului exterior: 12 m", "Datare: secolele XI-XVI", "Motto: Libertatea (Libertas)"],
+      en: ["Height above sea: 37 m", "Outer wall thickness: 12 m", "Built: 11th–16th century", "Motto: Freedom (Libertas)"],
+    },
+    image: "/poi-images/croatia-lovrijenac-fortress-landmarks-v2.webp",
+},  {
     id: "croatia-rectors-palace-landmarks-v2",
     type: "palace",
-    name: { de: "Rektorenpalast", hu: "Rektori palota", ro: "Palatul Rectorului", en: "Rector's Palace" },
+    name: { de: "Rektorenpalast", hu: "Rektori palota", ro: "Palatul Rectorului", en: "Rector's Palace",
+image: "/poi-images/croatia-rectors-palace-landmarks-v2.webp"
+},
     coords: [18.1105, 42.6405],
     coordinates: { lat: 42.6405, lng: 18.1105 },
     description: {
@@ -154,11 +259,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Reconstruit de mai multe ori după explozii ale prafului de pușcă", "Curtea interioară are o acustică superbă pentru concerte", "Adăpostește monumentul dedicat lui Miho Pracat", "Include fosta închisoare de stat și arhivele"],
       en: ["Rebuilt several times after gunpowder explosions in the 15th century", "The atrium serves as a venue for classical music concerts", "Features the only public monument to a citizen (Miho Pracat)", "Contains the former state prison and government offices"],
     },
-    imageHint: "Rectors Palace Dubrovnik facade columns", image: "/poi-images/croatia-rectors-palace-landmarks-v2.webp"},
-  {
+imageHint: "Rectors Palace Dubrovnik facade columns",
+    descriptionAdvanced: {
+      de: "Der Rektorenpalast war einst der Sitz der Regierung und des Rektors der Republik Ragusa. Das Gebäude vereint harmonisch Stilelemente der Gotik, Renaissance und des Barock.",
+      hu: "A Rektori Palota a Raguzai Köztársaság kormányzati központja és a rektor székhelye volt. Az épület a gótika, a reneszánsz és a barokk stílusjegyeinek harmonikus ötvözete Dubrovnikban.",
+      ro: "Palatul Rectorului a fost sediul guvernului și al rectorului Republicii Ragusa. Edificiul îmbină armonios stilurile gotic, renascentist și baroc, fiind un simbol al puterii civice.",
+      en: "The Rector's Palace was the seat of government and the Rector of the Republic of Ragusa. This masterpiece harmoniously blends Gothic, Renaissance, and Baroque architectural styles.",
+    },
+    factsAdvanced: {
+      de: ["Stilelemente: Gotik, Renaissance", "Bauzeit: 14. bis 15. Jahrhundert", "Explosionen: 1435 und 1463", "Sitz der Regierung: Ragusa"],
+      hu: ["Stílus: gótika, reneszánsz", "Építés ideje: 14–15. század", "Robbanások: 1435 és 1463", "Sorszám: Raguzai kormányzat"],
+      ro: ["Stil: gotic, renaștere, baroc", "Construcție: secolele XIV-XV", "Explozii praf pușcă: 1435 și 1463", "Sediul puterii: Republica Ragusa"],
+      en: ["Architectural styles: Gothic, Renaissance", "Built: 14th–15th century", "Gunpowder explosions: 1435 and 1463", "Seat of: Ragusa Republic Government"],
+    },
+    image: "/poi-images/croatia-rectors-palace-landmarks-v2.webp",
+},  {
     id: "croatia-st-euphemia-church-landmarks-v2",
     type: "church",
-    name: { de: "Kirche der Heiligen Euphemia", hu: "Szent Eufémia-templom", ro: "Biserica Sfânta Eufemia", en: "Church of St. Euphemia" },
+    name: { de: "Kirche der Heiligen Euphemia", hu: "Szent Eufémia-templom", ro: "Biserica Sfânta Eufemia", en: "Church of St. Euphemia",
+image: "/poi-images/croatia-st-euphemia-church-landmarks-v2.webp"
+},
     coords: [13.6331, 45.0831],
     coordinates: { lat: 45.0831, lng: 13.6331 },
     description: {
@@ -174,11 +294,25 @@ export const croatiaLandmarksV2: POI[] = [
       en: ["Bell tower stands 60 meters high", "The copper statue of St. Euphemia on top rotates with the wind", "Contains a Roman marble sarcophagus holding the saint's remains", "The current building was constructed between 1725 and 1736"],
     },
     imageHint: "Church of St Euphemia Rovinj bell tower",
+    descriptionAdvanced: {
+      de: "Die Kirche der Heiligen Euphemia ist das Wahrzeichen von Rovinj und dominiert die Altstadt. Ihr 60 Meter hoher Glockenturm wurde nach dem Vorbild des Markusturms in Venedig errichtet.",
+      hu: "A Szent Eufémia-templom Rovinj jelképe, amely az óváros legmagasabb pontján áll. A 60 méter magas harangtornyot a velencei Szent Márk-székesegyház tornyának mintájára építették.",
+      ro: "Biserica Sfânta Eufemia este simbolul orașului Rovinj, dominând centrul istoric. Turnul său de 60 de metri a fost construit după modelul faimosului Campanile San Marco din Veneția.",
+      en: "The Church of St. Euphemia is the landmark of Rovinj, presiding over the old town. Its 60-meter bell tower was modeled after the famous St. Mark's Campanile in Venice, Italy.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Glockenturms: 60 m", "Baujahr der Kirche: 1725-1736", "Statue auf dem Turm: Kupfer", "Modell: San Marco in Venedig"],
+      hu: ["Harangtorony magassága: 60 m", "Templom építése: 1725–1736", "Szobor anyaga: vörösréz", "Modell: velencei Szent Márk torony"],
+      ro: ["Înălțime clopotniță: 60 metri", "Perioada construcției: 1725-1736", "Statuia de pe turn: cupru", "Model: San Marco din Veneția"],
+      en: ["Bell tower height: 60 m", "Church construction: 1725–1736", "Statue material: Copper", "Model: St. Mark's in Venice"],
+    },
   },
   {
     id: "croatia-national-theatre-zagreb-landmarks-v2",
     type: "theater",
-    name: { de: "Kroatisches Nationaltheater Zagreb", hu: "Horvát Nemzeti Színház", ro: "Teatrul Național Croat din Zagreb", en: "Croatian National Theatre in Zagreb" },
+    name: { de: "Kroatisches Nationaltheater Zagreb", hu: "Horvát Nemzeti Színház", ro: "Teatrul Național Croat din Zagreb", en: "Croatian National Theatre in Zagreb",
+image: "/poi-images/croatia-national-theatre-zagreb-landmarks-v2.webp"
+},
     coords: [15.97, 45.81],
     coordinates: { lat: 45.81, lng: 15.97 },
     description: {
@@ -193,12 +327,27 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Inaugurat de împăratul Franz Joseph I în 1895", "Proiectat de renumiții arhitecți Fellner & Helmer", "Fațada este vopsită în celebrul galben imperial", "Găzduiește Fântâna Vieții de Ivan Meštrović în fața intrării"],
       en: ["Inaugurated by Emperor Franz Joseph I in 1895", "Designed by the renowned architectural studio Fellner & Helmer", "The exterior is painted in distinctive 'Imperial Yellow'", "Features the 'Well of Life' sculpture by Ivan Meštrović at the entrance"],
     },
-    imageHint: "Croatian National Theatre Zagreb yellow building", image: "/poi-images/croatia-national-theatre-zagreb-landmarks-v2.webp"}
-,
+imageHint: "Croatian National Theatre Zagreb yellow building",
+    descriptionAdvanced: {
+      de: "Das Kroatische Nationaltheater in Zagreb ist ein prachtvoller neobarocker Bau von 1895. Entworfen von Fellner & Helmer, dient es als Zentrum für Oper, Ballett und Schauspielkunst.",
+      hu: "A zágrábi Horvát Nemzeti Színház egy pazar neobarokk épület, amelyet 1895-ben adtak át. A palota a város operai és balettéletének, valamint a drámai művészeteknek a legfőbb központja.",
+      ro: "Teatrul Național Croat din Zagreb este o clădire neobarocă superbă, inaugurată în 1895. Proiectat de Fellner și Helmer, edificiul rămâne centrul cultural pentru operă, balet și teatru.",
+      en: "The Croatian National Theatre in Zagreb is a magnificent Neo-Baroque landmark opened in 1895. Designed by Fellner & Helmer, it serves as the premier venue for opera and ballet.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 14. Oktober 1895", "Sitzplätze: ca. 750", "Architekten: Fellner & Helmer", "Einweihung durch: Kaiser Franz Joseph I."],
+      hu: ["Átadás napja: 1895. október 14.", "Férőhelyek száma: kb. 750", "Építészek: Fellner és Helmer", "Felavatta: I. Ferenc József császár"],
+      ro: ["Inaugurare: 14 octombrie 1895", "Locuri în sală: aprox. 750", "Arhitecți: Fellner & Helmer", "Inaugurat de: Împăratul Franz Joseph I"],
+      en: ["Opening: October 14, 1895", "Capacity: approx. 750 seats", "Architects: Fellner & Helmer", "Inaugurated by: Emperor Franz Joseph I"],
+    },
+    image: "/poi-images/croatia-national-theatre-zagreb-landmarks-v2.webp",
+},
   {
     id: "croatia-st-nicholas-fortress-landmarks-v2",
     type: "castle",
-    name: { de: "Festung St. Nikolaus", hu: "Szent Miklós-erőd", ro: "Cetatea Sfântul Nicolae", en: "St. Nicholas Fortress" },
+    name: { de: "Festung St. Nikolaus", hu: "Szent Miklós-erőd", ro: "Cetatea Sfântul Nicolae", en: "St. Nicholas Fortress",
+image: "/poi-images/croatia-st-nicholas-fortress-landmarks-v2.webp"
+},
     coordinates: { lat: 43.7219, lng: 15.8547 },
     description: {
       de: "Diese Inselfestung am Eingang des Kanals von St. Anton schützte die Stadt Šibenik vor Angriffen vom Meer aus. Sie gehört seit 2017 zum UNESCO-Weltkulturerbe.",
@@ -213,11 +362,25 @@ export const croatiaLandmarksV2: POI[] = [
       en: ["Built in the 16th century.", "Unique triangular floor plan.", "Part of the Venetian defense system.", "Constructed from brick and stone."],
     },
     imageHint: "St. Nicholas Fortress Sibenik aerial view",
+    descriptionAdvanced: {
+      de: "Die Festung St. Nikolaus in Šibenik ist ein UNESCO-Weltkulturerbe und Meisterwerk venezianischer Verteidigungsarchitektur. Sie schützte den Zugang zur Stadt vom Adriatischen Meer aus.",
+      hu: "A šibeniki Szent Miklós-erőd az UNESCO Világörökség része, a velencei védművek egyik legszebb példája. A 16. századi, háromszög alaprajzú tengeri erőd a Szent Antal-csatornát védte.",
+      ro: "Fortăreața Sfântul Nicolae din Šibenik face parte din patrimoniul UNESCO, fiind un exemplu de arhitectură militară venețiană. Aceasta păzea intrarea maritimă prin canalul Sf. Anton.",
+      en: "St. Nicholas Fortress in Šibenik is a UNESCO World Heritage site and a masterpiece of Venetian defense. This 16th-century triangular sea fort guarded the entrance to the city harbor.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1540", "Form: Dreieckig", "UNESCO-Weltkulturerbe: seit 2017", "Material: Ziegel und Stein"],
+      hu: ["Építés éve: 1540", "Alaprajz: háromszög alakú", "UNESCO Világörökség: 2017 óta", "Anyaga: tégla és kő"],
+      ro: ["Anul construcției: 1540", "Formă: triunghiulară", "Patrimoniu UNESCO: din 2017", "Materiale: cărămidă și piatră"],
+      en: ["Built: 1540", "Shape: Triangular", "UNESCO site: since 2017", "Materials: brick and stone"],
+    },
   },
   {
     id: "croatia-dubrovnik-cathedral-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Dubrovnik", hu: "Dubrovniki katedrális", ro: "Catedrala din Dubrovnik", en: "Dubrovnik Cathedral" },
+    name: { de: "Kathedrale von Dubrovnik", hu: "Dubrovniki katedrális", ro: "Catedrala din Dubrovnik", en: "Dubrovnik Cathedral",
+image: "/poi-images/croatia-dubrovnik-cathedral-landmarks-v2.webp"
+},
     coordinates: { lat: 42.6397, lng: 18.1106 },
     description: {
       de: "Die barocke Kathedrale der Himmelfahrt Mariens steht auf den Ruinen einer romanischen Kirche. Sie ist berühmt für ihre reiche Schatzkammer mit Goldreliquien.",
@@ -231,11 +394,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită între 1671 și 1713.", "Adăpostește moaștele Sfântului Blasiu.", "Proiectată de Andrea Buffalini.", "Situată în inima orașului vechi."],
       en: ["Built between 1671 and 1713.", "Houses relics of St. Blaise.", "Designed by Andrea Buffalini.", "Located in the heart of the Old Town."],
     },
-    imageHint: "Dubrovnik Cathedral Baroque facade", image: "/poi-images/croatia-dubrovnik-cathedral-landmarks-v2.webp"},
-  {
+imageHint: "Dubrovnik Cathedral Baroque facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Dubrovnik ist eine barocke Basilika, die nach dem Erdbeben von 1667 erbaut wurde. Sie beherbergt einen bedeutenden Kirchenschatz mit Reliquien des Heiligen Blasius.",
+      hu: "A dubrovniki székesegyház egy barokk bazilika, amely az 1667-es földrengés után épült fel. Kincstára világhírű arany- és ezüsttárgyakat, valamint Szent Balázs ereklyéit őrzi Dubrovnikban.",
+      ro: "Catedrala din Dubrovnik este o basilică barocă ridicată după cutremurul din 1667. Adăpostește un tezaur impresionant, incluzând moaștele Sfântului Vlaho, ocrotitorul legendar al urbei.",
+      en: "Dubrovnik Cathedral is a grand Baroque basilica built following the 1667 earthquake. It houses a world-renowned treasury featuring gold relics of St. Blaise, the city's patron saint.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1672-1713", "Baustil: Barock", "Altarbild: Maria Himmelfahrt (Tizian)", "Schatzkammer: Gold-Reliquiare"],
+      hu: ["Építés ideje: 1672–1713", "Stílus: barokk", "Oltárkép: Mária mennybevétele (Tiziano)", "Kincstár: arany ereklyetartók"],
+      ro: ["Perioada construcției: 1672-1713", "Stil: baroc", "Pictura altarului: Titian", "Tezaur: relicvarii de aur"],
+      en: ["Built: 1672–1713", "Style: Baroque", "Altar painting: Assumption (Titian)", "Treasury: Gold reliquaries"],
+    },
+    image: "/poi-images/croatia-dubrovnik-cathedral-landmarks-v2.webp",
+},  {
     id: "croatia-church-holy-cross-nin-landmarks-v2",
     type: "church",
-    name: { de: "Heilig-Kreuz-Kirche", hu: "Szent Kereszt-templom", ro: "Biserica Sfânta Cruce", en: "Church of the Holy Cross" },
+    name: { de: "Heilig-Kreuz-Kirche", hu: "Szent Kereszt-templom", ro: "Biserica Sfânta Cruce", en: "Church of the Holy Cross",
+image: "/poi-images/croatia-church-holy-cross-nin-landmarks-v2.webp"
+},
     coordinates: { lat: 44.2435, lng: 15.1843 },
     description: {
       de: "Diese vorromanische Kirche aus dem 9. Jahrhundert wird oft als kleinste Kathedrale der Welt bezeichnet. Ihre Bauweise diente als astronomische Sonnenuhr.",
@@ -249,11 +427,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al IX-lea.", "Plan central în formă de cruce.", "Cel mai important monument din Nin.", "A servit drept calendar și ceas."],
       en: ["Built in the 9th century.", "Central cross-shaped floor plan.", "Most important monument in old Nin.", "Served as a calendar and clock."],
     },
-    imageHint: "Church of the Holy Cross Nin Croatia", image: "/poi-images/croatia-church-holy-cross-nin-landmarks-v2.webp"},
-  {
+imageHint: "Church of the Holy Cross Nin Croatia",
+    descriptionAdvanced: {
+      de: "Die Heilig-Kreuz-Kirche in Nin gilt als die kleinste Kathedrale der Welt. Der vorromanische Bau aus dem 9. Jahrhundert ist so konzipiert, dass er als Sonnenuhr und Kalender fungiert.",
+      hu: "A nini Szent Kereszt-templom a világ legkisebb székesegyházaként ismert. A 9. századi preromán épület különlegessége, hogy a fény beesése alapján napóraként és naptárként is működik.",
+      ro: "Biserica Sfânta Cruce din Nin este considerată cea mai mică catedrală din lume. Edificiul pre-romanic din secolul al IX-lea a fost proiectat pentru a servi drept ceas solar și calendar.",
+      en: "The Church of the Holy Cross in Nin is known as the smallest cathedral in the world. Built in the 9th century, this Pre-Romanesque gem functions as a precise sun dial and calendar.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 9. Jahrhundert", "Abmessungen: 7,8 x 7,6 m", "Art: Preromanik", "Funktion: Astronomischer Kalender"],
+      hu: ["Építés ideje: 9. század", "Méretek: 7,8 x 7,6 méter", "Típus: preromán építészet", "Funkció: csillagászati naptár"],
+      ro: ["Datare: secolul al IX-lea", "Dimensiuni: 7,8 x 7,6 metri", "Stil: preromanic", "Funcție: calendar astronomic"],
+      en: ["Built: 9th century", "Dimensions: 7.8 x 7.6 meters", "Style: Pre-Romanesque", "Function: Astronomical calendar"],
+    },
+    image: "/poi-images/croatia-church-holy-cross-nin-landmarks-v2.webp",
+},  {
     id: "croatia-stone-gate-zagreb-landmarks-v2",
     type: "landmark",
-    name: { de: "Steinernes Tor", hu: "Kőkapu", ro: "Poarta de Piatră", en: "Stone Gate" },
+    name: { de: "Steinernes Tor", hu: "Kőkapu", ro: "Poarta de Piatră", en: "Stone Gate",
+image: "/poi-images/croatia-stone-gate-zagreb-landmarks-v2.webp"
+},
     coordinates: { lat: 45.815, lng: 15.975 },
     description: {
       de: "Das Steinerne Tor ist das einzige erhaltene Stadttor des alten Zagreb. Es beherbergt eine Kapelle mit einem Marienbild, das einen Brand im Jahr 1731 überstand.",
@@ -267,11 +460,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea.", "Icoana a supraviețuit focului.", "Loc important de rugăciune local.", "Situată în Orașul de Sus."],
       en: ["Built in the 13th century.", "The painting survived the 1731 fire.", "Important prayer site for locals.", "Located in the Upper Town (Gornji Grad)."],
     },
-    imageHint: "Stone Gate Zagreb shrine interior", image: "/poi-images/croatia-stone-gate-zagreb-landmarks-v2.webp"},
-  {
+imageHint: "Stone Gate Zagreb shrine interior",
+    descriptionAdvanced: {
+      de: "Das Steintor ist das einzige erhaltene mittelalterliche Stadttor Zagrebs. Es beherbergt eine Kapelle mit einem Marienbild, das wie durch ein Wunder den Großbrand von 1731 überstand.",
+      hu: "A Kőkapu Zágráb egyetlen épségben maradt középkori városkapuja. A benne lévő kápolnában őrzik azt a Mária-képet, amely épségben maradt az 1731-es nagy tűzvészben a Felsővárosban.",
+      ro: "Poarta de Piatră este singura poartă medievală păstrată din vechiul Zagreb. Găzduiește o capelă cu icoana Fecioarei Maria care a supraviețuit miraculos marelui incendiu din anul 1731.",
+      en: "The Stone Gate is the only preserved medieval entrance to Zagreb's Upper Town. It houses a shrine with a painting of Mary that miraculously survived a devastating fire in 1731.",
+    },
+    factsAdvanced: {
+      de: ["Großbrand: 31. Mai 1731", "Erhaltene Kapelle: Maria unter dem Tor", "Teil der: alten Stadtmauer", "Lage: Gradec (Oberstadt)"],
+      hu: ["Nagy tűzvész: 1731. május 31.", "Szentély: Mária a kapu alatt", "Védvonal: középkori városfal része", "Helyszín: Gradec (Felsőváros)"],
+      ro: ["Marele incendiu: 31 mai 1731", "Capelă: Maria sub poartă", "Origine: fortificație medievală", "Locație: Gradec (Orașul de Sus)"],
+      en: ["Great fire: May 31, 1731", "Shrine: Mary under the Gate", "Part of: medieval city walls", "Location: Gradec (Upper Town)"],
+    },
+    image: "/poi-images/croatia-stone-gate-zagreb-landmarks-v2.webp",
+},  {
     id: "croatia-mirogoj-cemetery-landmarks-v2",
     type: "landmark",
-    name: { de: "Mirogoj-Friedhof", hu: "Mirogoj temető", ro: "Cimitirul Mirogoj", en: "Mirogoj Cemetery" },
+    name: { de: "Mirogoj-Friedhof", hu: "Mirogoj temető", ro: "Cimitirul Mirogoj", en: "Mirogoj Cemetery",
+image: "/poi-images/croatia-mirogoj-cemetery-landmarks-v2.webp"
+},
     coordinates: { lat: 45.8358, lng: 15.9841 },
     description: {
       de: "Mirogoj gilt als einer der schönsten Friedhöfe Europas. Die monumentalen Arkaden und Kuppeln wurden vom Architekten Hermann Bollé entworfen.",
@@ -285,11 +493,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1876.", "Loc de veci pentru toate religiile.", "Arcade neoclasice magnifice.", "Locul de odihnă al multor celebrități."],
       en: ["Opened in 1876.", "Burial site for all religions.", "Grand neoclassical arcades.", "Resting place of many famous figures."],
     },
-    imageHint: "Mirogoj Cemetery arcades Zagreb", image: "/poi-images/croatia-mirogoj-cemetery-landmarks-v2.webp"},
-  {
+imageHint: "Mirogoj Cemetery arcades Zagreb",
+    descriptionAdvanced: {
+      de: "Der Friedhof Mirogoj in Zagreb gilt als einer der schönsten Parkfriedhöfe Europas. Die monumentalen Arkaden von Hermann Bollé verleihen der Anlage eine feierliche, ruhige Atmosphäre.",
+      hu: "A zágrábi Mirogoj temető Európa egyik legszebb parktemetője és szabadtéri galériája. A Hermann Bollé által tervezett monumentális árkádsorok különleges hangulatot árasztanak e szent helyen.",
+      ro: "Cimitirul Mirogoj din Zagreb este considerat unul dintre cele mai frumoase cimitire-parc din Europa. Arcadele monumentale proiectate de Hermann Bollé oferă un aer solemn acestui loc.",
+      en: "Mirogoj Cemetery in Zagreb is widely regarded as one of Europe's most beautiful park cemeteries. Its monumental arcades, designed by Hermann Bollé, create a serene, majestic atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1876", "Architekt: Hermann Bollé", "Anzahl der Arkaden: 20", "Status: Nationales Denkmal"],
+      hu: ["Megnyitás: 1876", "Építész: Hermann Bollé", "Árkádok száma: 20", "Státusz: nemzeti emlékhely"],
+      ro: ["Deschidere: 1876", "Arhitect: Hermann Bollé", "Număr de arcade: 20", "Statut: monument național"],
+      en: ["Opened: 1876", "Architect: Hermann Bollé", "Number of arcades: 20", "Status: National monument"],
+    },
+    image: "/poi-images/croatia-mirogoj-cemetery-landmarks-v2.webp",
+},  {
     id: "croatia-lotrscak-tower-landmarks-v2",
     type: "tower",
-    name: { de: "Lotrščak-Turm", hu: "Lotrščak-torony", ro: "Turnul Lotrščak", en: "Lotrščak Tower" },
+    name: { de: "Lotrščak-Turm", hu: "Lotrščak-torony", ro: "Turnul Lotrščak", en: "Lotrščak Tower",
+image: "/poi-images/croatia-lotrscak-tower-landmarks-v2.webp"
+},
     coordinates: { lat: 45.8143, lng: 15.9733 },
     description: {
       de: "Dieser Wehrturm aus dem 13. Jahrhundert bewachte einst das südliche Stadttor. Täglich um Punkt Mittag wird hier die Grič-Kanone abgefeuert.",
@@ -303,11 +526,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1266.", "Tunul trage zilnic din 1877.", "Oferă o vedere de 360 de grade.", "Parte din vechile fortificații."],
       en: ["Built in 1266.", "Cannon fires daily since 1877.", "Offers 360-degree views of Zagreb.", "Part of the old city fortifications."],
     },
-    imageHint: "Lotrscak Tower Zagreb exterior", image: "/poi-images/croatia-lotrscak-tower-landmarks-v2.webp"},
-  {
+imageHint: "Lotrscak Tower Zagreb exterior",
+    descriptionAdvanced: {
+      de: "Der Lotrščak-Turm ist ein Verteidigungsturm aus dem 13. Jahrhundert in der Zagreber Oberstadt. Seit 1877 wird hier täglich um Punkt Mittag eine Kanone abgefeuert, um die Zeit zu markieren.",
+      hu: "A Lotrščak-torony a 13. század óta őrzi Zágráb felsővárosát. Különlegessége a Grič-ágyú, amely 1877 óta minden nap pontosan délben dördül el, jelezve a pontos időt a városlakóknak.",
+      ro: "Turnul Lotrščak este o fortificație din secolul al XIII-lea situată în Orașul de Sus din Zagreb. Din 1877, un tun este tras zilnic la amiază, servind drept referință temporală tradițională.",
+      en: "Lotrščak Tower is a 13th-century fortification located in Zagreb's Upper Town. Since 1877, a cannon has been fired from its window every day at noon to signal the precise time.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 13. Jahrhundert", "Kanonenschuss: täglich um 12:00", "Name der Kanone: Grič-Kanone", "Aussicht: 360 Grad über Zagreb"],
+      hu: ["Építés ideje: 13. század", "Ágyúlövés: naponta 12:00-kor", "Ágyú neve: Grič-ágyú", "Kilátás: 360 fokos panoráma"],
+      ro: ["Construcție: secolul al XIII-lea", "Foc de tun: zilnic la ora 12:00", "Numele tunului: Grič", "Panoramă: 360 de grade asupra Zagrebului"],
+      en: ["Built: 13th century", "Cannon fire: daily at 12:00", "Cannon name: Grič cannon", "View: 360-degree Zagreb panorama"],
+    },
+    image: "/poi-images/croatia-lotrscak-tower-landmarks-v2.webp",
+},  {
     id: "croatia-st-michaels-fortress-landmarks-v2",
     type: "castle",
-    name: { de: "Festung St. Michael", hu: "Szent Mihály-erőd", ro: "Cetatea Sfântul Mihail", en: "St. Michaels Fortress" },
+    name: { de: "Festung St. Michael", hu: "Szent Mihály-erőd", ro: "Cetatea Sfântul Mihail", en: "St. Michaels Fortress",
+image: "/poi-images/croatia-st-michaels-fortress-landmarks-v2.webp"
+},
     coordinates: { lat: 43.7375, lng: 15.8894 },
     description: {
       de: "Die Festung St. Michael thront über der Altstadt von Šibenik. Heute dient sie als moderne Freilichtbühne für Konzerte und kulturelle Veranstaltungen.",
@@ -321,11 +559,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Cea mai veche cetate din oraș.", "Menționată prima dată în sec. XI.", "Renovată complet în 2014.", "Numită după patronul orașului."],
       en: ["Oldest fortress in the city.", "First mentioned in the 11th century.", "Renovated extensively in 2014.", "Named after the city protector."],
     },
-    imageHint: "St. Michaels Fortress Sibenik open air stage", image: "/poi-images/croatia-st-michaels-fortress-landmarks-v2.webp"},
-  {
+imageHint: "St. Michaels Fortress Sibenik open air stage",
+    descriptionAdvanced: {
+      de: "Die Festung St. Michael in Šibenik liegt auf einem steilen Hügel über der Altstadt. Die im 11. Jahrhundert erstmals erwähnte Anlage bietet einen Panoramablick auf die Adria und Inseln.",
+      hu: "A šibeniki Szent Mihály-erőd az óváros feletti dombtetőn áll, és uralja a városképet. A 11. században említett erődítmény ma modern szabadtéri színpadként és kilátóként is üzemel.",
+      ro: "Fortăreața Sfântul Mihail din Šibenik se înalță pe un deal abrupt deasupra centrului vechi. Menționată încă din secolul al XI-lea, aceasta oferă o panoramă superbă asupra Adriaticii.",
+      en: "St. Michael's Fortress in Šibenik sits on a steep hill overlooking the medieval town. First mentioned in the 11th century, it offers breathtaking views of the Adriatic Sea and islands.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1066", "Höhe: 70 m über dem Meer", "Fläche der Anlage: ca. 2.500 m²", "Umbau: 15. bis 17. Jahrhundert"],
+      hu: ["Első említés: 1066", "Magasság: 70 m a tenger felett", "Terület: kb. 2500 m²", "Átépítés: 15–17. század"],
+      ro: ["Prima atestare: 1066", "Altitudine: 70 m peste mare", "Suprafață: aprox. 2.500 m²", "Restaurare: secolele XV-XVII"],
+      en: ["First mention: 1066", "Height: 70 m above sea level", "Area: approx. 2,500 m²", "Reconstruction: 15th–17th century"],
+    },
+    image: "/poi-images/croatia-st-michaels-fortress-landmarks-v2.webp",
+},  {
     id: "croatia-st-lawrence-cathedral-trogir-landmarks-v2",
     type: "cathedral",
-    name: { de: "Kathedrale St. Laurentius", hu: "Szent Lőrinc-székesegyház", ro: "Catedrala Sfântul Laurențiu", en: "St. Lawrence Cathedral" },
+    name: { de: "Kathedrale St. Laurentius", hu: "Szent Lőrinc-székesegyház", ro: "Catedrala Sfântul Laurențiu", en: "St. Lawrence Cathedral",
+image: "/poi-images/croatia-st-lawrence-cathedral-trogir-landmarks-v2.webp"
+},
     coordinates: { lat: 43.5172, lng: 16.2514 },
     description: {
       de: "Die Kathedrale von Trogir ist berühmt für das prachtvolle Portal von Meister Radovan. Sie vereint romanische, gotische und Renaissance-Elemente.",
@@ -339,11 +592,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea.", "Portalul lui Radovan datează din 1240.", "Turnul are trei stiluri diferite.", "Parte din patrimoniul UNESCO."],
       en: ["Built in the 13th century.", "Radovans Portal dates from 1240.", "Bell tower shows three styles.", "Part of the UNESCO Heritage."],
     },
-    imageHint: "St. Lawrence Cathedral Trogir portal", image: "/poi-images/croatia-st-lawrence-cathedral-trogir-landmarks-v2.webp"},
-  {
+imageHint: "St. Lawrence Cathedral Trogir portal",
+    descriptionAdvanced: {
+      de: "Die Kathedrale des Heiligen Laurentius in Trogir ist ein Meisterwerk der Romanik und Gotik. Berühmt ist sie für das Portal von Meister Radovan aus dem Jahr 1240 am Haupteingang.",
+      hu: "A trogiri Szent Lőrinc-székesegyház a horvátországi szakrális építészet egyik csúcsműve. Legfőbb dísze a Radovan mester által 1240-ben faragott monumentális nyugati kapuzat.",
+      ro: "Catedrala Sfântul Laurențiu din Trogir este o capodoperă a arhitecturii romanico-gotice. Este celebră pentru portalul principal sculptat de Maestrul Radovan în anul 1240.",
+      en: "St. Lawrence Cathedral in Trogir is a UNESCO-listed masterpiece of Romanesque-Gothic style. It is renowned for the magnificent portal carved by Master Radovan in 1240.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1213", "Portal-Baujahr: 1240", "Höhe des Glockenturms: 47 m", "UNESCO-Welterbe: seit 1997"],
+      hu: ["Építés kezdete: 1213", "Kapuzat éve: 1240", "Harangtorony magassága: 47 m", "UNESCO Világörökség: 1997 óta"],
+      ro: ["Începerea construcției: 1213", "Finalizarea portalului: 1240", "Înălțime clopotniță: 47 m", "Patrimoniu UNESCO: din 1997"],
+      en: ["Construction start: 1213", "Portal completed: 1240", "Bell tower height: 47 m", "UNESCO site: since 1997"],
+    },
+    image: "/poi-images/croatia-st-lawrence-cathedral-trogir-landmarks-v2.webp",
+},  {
     id: "croatia-mimara-museum-landmarks-v2",
     type: "museum",
-    name: { de: "Mimara-Museum", hu: "Mimara Múzeum", ro: "Muzeul Mimara", en: "Mimara Museum" },
+    name: { de: "Mimara-Museum", hu: "Mimara Múzeum", ro: "Muzeul Mimara", en: "Mimara Museum",
+image: "/poi-images/croatia-mimara-museum-landmarks-v2.webp"
+},
     coordinates: { lat: 45.8091, lng: 15.9667 },
     description: {
       de: "Das Mimara-Museum beherbergt eine riesige Kunstsammlung in einem prachtvollen Neorenaissance-Gebäude. Es zeigt Werke von der Antike bis zum 20. Jahrhundert.",
@@ -357,11 +625,26 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Deschis în anul 1987.", "Colecția lui Ante Topić Mimara.", "Peste 3.700 de opere de artă.", "Situat în Piața Roosevelt."],
       en: ["Opened in 1987.", "Donated by Ante Topic Mimara.", "Over 3,700 works of art.", "Located in Roosevelt Square."],
     },
-    imageHint: "Mimara Museum Zagreb exterior", image: "/poi-images/croatia-mimara-museum-landmarks-v2.webp"},
-  {
+imageHint: "Mimara Museum Zagreb exterior",
+    descriptionAdvanced: {
+      de: "Das Mimara-Museum in Zagreb beherbergt die umfangreiche Kunstsammlung von Ante Topić Mimara. Das Gebäude von 1883 zeigt wertvolle Werke aus über drei Jahrtausenden Weltgeschichte.",
+      hu: "A zágrábi Mimara Múzeum Ante Topić Mimara hatalmas magángyűjteményét mutatja be. Az 1883-ban épült palotában több mint 3700 műtárgy látható az ókortól egészen a 20. századig.",
+      ro: "Muzeul Mimara din Zagreb găzduiește colecția vastă de artă donată de Ante Topić Mimara. Edificiul din 1883 expune piese valoroase ce acoperă peste trei milenii de istorie a civilizației.",
+      en: "The Mimara Museum in Zagreb showcases the vast private art collection of Ante Topić Mimara. Housed in a Neo-Renaissance building from 1883, it displays works spanning three millennia.",
+    },
+    factsAdvanced: {
+      de: ["Sammlung: über 3.700 Exponate", "Gebäude errichtet: 1883", "Stil: Neorenaissance", "Eröffnung als Museum: 1987"],
+      hu: ["Gyűjtemény: több mint 3700 tárgy", "Épület építése: 1883", "Stílus: neoreneszánsz", "Múzeum megnyitása: 1987"],
+      ro: ["Colecție: peste 3.700 piese", "Construcția clădirii: 1883", "Stil: neorenaștere", "Inaugurare muzeu: 1987"],
+      en: ["Collection: over 3,700 items", "Building constructed: 1883", "Style: Neo-Renaissance", "Museum opening: 1987"],
+    },
+    image: "/poi-images/croatia-mimara-museum-landmarks-v2.webp",
+},  {
     id: "croatia-st-blaise-church-dubrovnik-landmarks-v2",
     type: "church",
-    name: { de: "St.-Blasius-Kirche", hu: "Szent Balázs-templom", ro: "Biserica Sfântul Blasiu", en: "Church of St. Blaise" },
+    name: { de: "St.-Blasius-Kirche", hu: "Szent Balázs-templom", ro: "Biserica Sfântul Blasiu", en: "Church of St. Blaise",
+image: "/poi-images/croatia-st-blaise-church-dubrovnik-landmarks-v2.webp"
+},
     coordinates: { lat: 42.6406, lng: 18.1105 },
     description: {
       de: "Diese venezianische Barockkirche ist dem Schutzpatron von Dubrovnik gewidmet. Sie ist eines der meistbesuchten Denkmäler der Stadt.",
@@ -376,5 +659,17 @@ export const croatiaLandmarksV2: POI[] = [
       en: ["Built in 1715.", "Designed by Marino Gropelli.", "Holds a silver statue of the saint.", "Survived the 1667 earthquake."],
     },
     imageHint: "Church of St. Blaise Dubrovnik facade",
+    descriptionAdvanced: {
+      de: "Die Blasiuskirche ist dem Schutzpatron Dubrovniks geweiht und ein Juwel des venezianischen Barock. Sie wurde 1715 von Marino Gropelli an der Stelle einer romanischen Kirche errichtet.",
+      hu: "A Szent Balázs-templom Dubrovnik védőszentjének szentelt barokk ékkő a város főterén. A Marino Gropelli által 1715-ben tervezett épület a velencei barokk stílus egyik legszebb példája.",
+      ro: "Biserica Sfântul Vlaho este dedicată patronului orașului Dubrovnik și este o bijuterie a barocului venețian. Edificiul a fost ridicat în 1715 pe locul unei vechi biserici romanice.",
+      en: "The Church of St. Blaise is dedicated to the patron saint of Dubrovnik and is a Venetian Baroque gem. It was rebuilt in 1715 by Marino Gropelli on the site of a former Romanesque church.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1715", "Architekt: Marino Gropelli", "Stil: Venezianischer Barock", "Schutzpatron: St. Blasius (Vlaho)"],
+      hu: ["Építés éve: 1715", "Építész: Marino Gropelli", "Stílus: velencei barokk", "Védőszent: Szent Balázs (Vlaho)"],
+      ro: ["Anul finalizării: 1715", "Arhitect: Marino Gropelli", "Stil: baroc venețian", "Ocrotitor: Sfântul Vlaho"],
+      en: ["Built: 1715", "Architect: Marino Gropelli", "Style: Venetian Baroque", "Patron saint: St. Blaise (Vlaho)"],
+    },
   }
 ];

@@ -4,7 +4,9 @@ export const albaniaNatureV2: POI[] = [
   {
     id: "albania-shkodra-lake-nature-v2",
     type: "lake",
-    name: { de: "Skutarisee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Shkodra" },
+    name: { de: "Skutarisee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Shkodra",
+image: "/poi-images/albania-shkodra-lake-nature-v2.webp"
+},
     coords: [19.25, 42.17],
     coordinates: { lat: 42.17, lng: 19.25 },
     description: {
@@ -19,11 +21,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Suprafață între 370 și 530 km²", "Cel mai important loc de iernat pentru păsări", "Singura colonie de pelicani creți", "Adâncimea maximă este de circa 44 metri"],
       en: ["Surface area varies between 370-530 km²", "Major wintering ground for European birds", "Host to the rare Dalmatian pelican", "Maximum depth reaches about 44 meters"],
     },
-    imageHint: "Lake Shkodra panorama with mountains and water lilies", image: "/poi-images/albania-shkodra-lake-nature-v2.webp"},
-  {
+imageHint: "Lake Shkodra panorama with mountains and water lilies",
+    descriptionAdvanced: {
+      de: "Der Shkodrasee ist das größte Binnengewässer des Balkans und ein vitales Ökosystem für über 270 Vogelarten an der montenegrinischen Grenze.",
+      hu: "A Shkodrai-tó a Balkán-félsziget legnagyobb tava, amely Albánia és Montenegró határán terül el, kiemelkedő madárvilágnak adva otthont.",
+      ro: "Lacul Shkodra este cel mai mare lac din Balcani, situat la granița cu Muntenegru, fiind un refugiu vital pentru sute de specii de păsări.",
+      en: "Lake Shkodra is the largest lake in the Balkans, serving as a crucial wetland for migratory birds and shared naturally with Montenegro.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 368-540 km²", "Tiefe: maximal 44 Meter", "Vogelarten: über 270", "Albanischer Teil: 149 km²"],
+      hu: ["Területe: 368-540 km²", "Mélysége: max. 44 méter", "Madárfajok: több mint 270", "Albán rész: 149 km²"],
+      ro: ["Suprafață: 368-540 km²", "Adâncime maximă: 44 m", "Specii de păsări: peste 270", "Partea albaneză: 149 km²"],
+      en: ["Surface area: 368-540 km²", "Maximum depth: 44 meters", "Bird species: over 270", "Albanian share: 149 km²"],
+    },
+    image: "/poi-images/albania-shkodra-lake-nature-v2.webp",
+},  {
     id: "albania-vjosa-river-nature-v2",
     type: "river",
-    name: { de: "Vjosa", hu: "Vjosa-folyó", ro: "Râul Vjosa", en: "Vjosa River" },
+    name: { de: "Vjosa", hu: "Vjosa-folyó", ro: "Râul Vjosa", en: "Vjosa River",
+image: "/poi-images/albania-vjosa-river-nature-v2.webp"
+},
     coords: [19.51, 40.41],
     coordinates: { lat: 40.41, lng: 19.51 },
     description: {
@@ -38,11 +55,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Primul parc național de râu sălbatic din Europa", "Lungime totală de circa 272 kilometri", "Fără baraje pe întreg parcursul său", "Habitat pentru peste 1.100 de specii"],
       en: ["Europe's first Wild River National Park", "Total length of about 272 kilometers", "No dams or barriers along its course", "Home to over 1,100 animal species"],
     },
-    imageHint: "Wide wild river Vjosa flowing through a valley", image: "/poi-images/albania-vjosa-river-nature-v2.webp"},
-  {
+imageHint: "Wide wild river Vjosa flowing through a valley",
+    descriptionAdvanced: {
+      de: "Die Vjosa gilt als der letzte große Wildfluss Europas, der auf über 270 Kilometern ohne Staudämme durch spektakuläre Schluchten fließt.",
+      hu: "A Vjosa Európa utolsó vadfolyója, amely több mint 270 kilométeren keresztül folyik gátak nélkül, egyedülálló ökoszisztémát fenntartva.",
+      ro: "Vjosa este considerat ultimul râu sălbatic din Europa, curgând liber pe 270 km fără baraje, prin peisaje montane spectaculoase.",
+      en: "The Vjosa is celebrated as Europe's last wild river, flowing unobstructed for 270 km through pristine canyons and diverse habitats.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 272 km", "Nationalpark seit 2023", "Tierarten: über 1100", "Quelle: Pindos-Gebirge"],
+      hu: ["Hossz: 272 km", "Nemzeti park 2023 óta", "Állatfajok száma: 1100+", "Forrás: Píndosz-hegység"],
+      ro: ["Lungime totală: 272 km", "Parc Național din 2023", "Specii identificate: 1100+", "Sursa: Munții Pindului"],
+      en: ["Total length: 272 km", "National Park since 2023", "Species count: 1100+", "Source: Pindus Mountains"],
+    },
+    image: "/poi-images/albania-vjosa-river-nature-v2.webp",
+},  {
     id: "albania-theth-valley-nature-v2",
     type: "valley",
-    name: { de: "Theth-Tal", hu: "Theth-völgy", ro: "Valea Theth", en: "Theth Valley" },
+    name: { de: "Theth-Tal", hu: "Theth-völgy", ro: "Valea Theth", en: "Theth Valley",
+image: "/poi-images/albania-theth-valley-nature-v2.webp"
+},
     coords: [19.77, 42.39],
     coordinates: { lat: 42.39, lng: 19.77 },
     description: {
@@ -57,11 +89,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Înconjurată de munți de 2.500 metri", "Cunoscută pentru casele tradiționale din piatră", "Găzduiește cascada Grunas", "Parte importantă din ruta 'Peaks of the Balkans'"],
       en: ["Surrounded by 2,500m high mountains", "Famous for traditional stone houses", "Home to the Grunas Waterfall", "Key stop on the 'Peaks of the Balkans' trail"],
     },
-    imageHint: "Green valley Theth surrounded by grey jagged peaks", image: "/poi-images/albania-theth-valley-nature-v2.webp"},
-  {
+imageHint: "Green valley Theth surrounded by grey jagged peaks",
+    descriptionAdvanced: {
+      de: "Das Theth-Tal im Herzen der Albanischen Alpen ist berühmt für seine isolierte Lage, traditionelle Steinhäuser und schroffe Gipfel.",
+      hu: "Az Albán-Alpok szívében fekvő Theth-völgy híres elszigeteltségéről, hagyományos kőtornyairól és az őt körülvevő meredek bércekről.",
+      ro: "Valea Theth din inima Alpilor Albanezi este celebră pentru izolarea sa, casele tradiționale din piatră și peisajele montane dramatice.",
+      en: "Nestled in the Albanian Alps, Theth Valley is renowned for its traditional stone architecture, isolation, and towering karst peaks.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark: 26,3 km²", "Höhe: ca. 750-950 m", "Lock-in Tower: Kulla e Ngujimit", "Gipfel: Maja e Jezercës"],
+      hu: ["Nemzeti park: 26,3 km²", "Magasság: 750-950 m", "Vértorony: Kulla e Ngujimit", "Csúcs: Maja e Jezercës"],
+      ro: ["Parc Național: 26,3 km²", "Altitudine: 750-950 m", "Turn de izolare: Kulla", "Vârf: Maja e Jezercës"],
+      en: ["National Park: 26.3 km²", "Elevation: 750-950 m", "Lock-in Tower: Kulla", "Peak: Maja e Jezercës"],
+    },
+    image: "/poi-images/albania-theth-valley-nature-v2.webp",
+},  {
     id: "albania-blue-eye-nature-v2",
     type: "landmark",
-    name: { de: "Syri i Kaltër", hu: "Syri i Kaltër (Kék Szem)", ro: "Ochiul Albastru", en: "Blue Eye Spring" },
+    name: { de: "Syri i Kaltër", hu: "Syri i Kaltër (Kék Szem)", ro: "Ochiul Albastru", en: "Blue Eye Spring",
+image: "/poi-images/albania-blue-eye-nature-v2.webp"
+},
     coords: [20.19, 39.92],
     coordinates: { lat: 39.92, lng: 20.19 },
     description: {
@@ -76,11 +123,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Temperatura apei constantă la 10-13 °C", "Adâncimea exactă este încă necunoscută", "Debit de 18.400 litri pe secundă", "Monument natural popular lângă Saranda"],
       en: ["Water temperature constant at 10-13 °C", "Exact depth remains unknown to divers", "Discharge rate of 18,400 liters per second", "Popular natural monument near Saranda"],
     },
-    imageHint: "Deep blue water spring Syri i Kalter in the forest", image: "/poi-images/albania-blue-eye-nature-v2.webp"},
-  {
+imageHint: "Deep blue water spring Syri i Kalter in the forest",
+    descriptionAdvanced: {
+      de: "Das Blaue Auge ist eine seltene Karstquelle bei Saranda, deren kristallklares, tiefblaues Wasser aus über 50 Metern Tiefe sprudelt.",
+      hu: "A Kék Szem egy lenyűgöző karsztforrás Saranda közelében, ahol a kristálytiszta víz több mint 50 méteres mélységből tör a felszínre.",
+      ro: "Ochiul Albastru este o fântână carstică rară lângă Saranda, a cărei apă cristalină țâșnește de la peste 50 de metri adâncime.",
+      en: "The Blue Eye is a stunning karst spring near Saranda, where ice-cold water bubbles up from a depth exceeding 50 meters.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: über 50 Meter", "Temperatur: ca. 10 °C", "Durchfluss: 18,4 m³/s", "Status: Naturdenkmal"],
+      hu: ["Mélység: 50+ méter", "Hőmérséklet: kb. 10 °C", "Vízhozam: 18,4 m³/s", "Státusz: Természeti emlék"],
+      ro: ["Adâncime: peste 50 m", "Temperatură: aprox. 10 °C", "Debit: 18,4 m³/s", "Statut: Monument natural"],
+      en: ["Depth: over 50 meters", "Temperature: approx 10 °C", "Flow rate: 18.4 m³/s", "Status: Natural monument"],
+    },
+    image: "/poi-images/albania-blue-eye-nature-v2.webp",
+},  {
     id: "albania-karaburun-peninsula-nature-v2",
     type: "landmark",
-    name: { de: "Karaburun-Halbinsel", hu: "Karaburun-félsziget", ro: "Peninsula Karaburun", en: "Karaburun Peninsula" },
+    name: { de: "Karaburun-Halbinsel", hu: "Karaburun-félsziget", ro: "Peninsula Karaburun", en: "Karaburun Peninsula",
+image: "/poi-images/albania-karaburun-peninsula-nature-v2.webp"
+},
     coords: [19.35, 40.38],
     coordinates: { lat: 40.38, lng: 19.35 },
     description: {
@@ -95,11 +157,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Singurul parc național marin din Albania", "Multe golfuri izolate și peșteri", "Fostă zonă militară restricționată", "Găzduiește peștera Haxhi Ali"],
       en: ["Albania's only marine national park area", "Features many remote coves and sea caves", "Formerly a restricted military zone", "Home to the famous Haxhi Ali Cave"],
     },
-    imageHint: "Rugged coast of Karaburun Peninsula with blue sea", image: "/poi-images/albania-karaburun-peninsula-nature-v2.webp"},
-  {
+imageHint: "Rugged coast of Karaburun Peninsula with blue sea",
+    descriptionAdvanced: {
+      de: "Die unbewohnte Halbinsel Karaburun ist Albaniens einziger Meeresnationalpark und bietet einsame Buchten sowie antike Inschriften.",
+      hu: "A lakatlan Karaburun-félsziget Albánia egyetlen tengeri nemzeti parkja, amely eldugott öblökkel és ókori feliratokkal várja a látogatókat.",
+      ro: "Peninsula Karaburun este singurul parc marin al Albaniei, fiind nelocuită și oferind golfuri virgine și inscripții maritime antice.",
+      en: "The uninhabited Karaburun Peninsula forms Albania's only marine park, featuring rugged coastlines, hidden caves, and ancient inscriptions.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 15 km", "Fläche: 62 km²", "Höchster Punkt: 1200 m", "Status: Militärzone/Park"],
+      hu: ["Hossz: kb. 15 km", "Terület: 62 km²", "Legmagasabb pont: 1200 m", "Státusz: Katonai/Nemzeti park"],
+      ro: ["Lungime: aprox. 15 km", "Suprafață: 62 km²", "Punct maxim: 1200 m", "Statut: Zonă militară/Parc"],
+      en: ["Length: approx 15 km", "Area: 62 km²", "Highest point: 1200 m", "Status: Military zone/Park"],
+    },
+    image: "/poi-images/albania-karaburun-peninsula-nature-v2.webp",
+},  {
     id: "albania-sazan-island-nature-v2",
     type: "landmark",
-    name: { de: "Insel Sazan", hu: "Sazan-sziget", ro: "Insula Sazan", en: "Sazan Island" },
+    name: { de: "Insel Sazan", hu: "Sazan-sziget", ro: "Insula Sazan", en: "Sazan Island",
+image: "/poi-images/albania-sazan-island-nature-v2.webp"
+},
     coords: [19.28, 40.5],
     coordinates: { lat: 40.5, lng: 19.28 },
     description: {
@@ -114,11 +191,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5,7 km²", "Poziție strategică la intrarea în Golful Vlora", "Sute de buncăre sunt pe insulă", "Parte a Parcului Marin Karaburun-Sazan"],
       en: ["Surface area of about 5.7 km²", "Strategic location at the Bay of Vlorë entrance", "Home to hundreds of military bunkers", "Part of the Karaburun-Sazan Marine Park"],
     },
-    imageHint: "Aerial view of Sazan Island with rocky cliffs", image: "/poi-images/albania-sazan-island-nature-v2.webp"},
-  {
+imageHint: "Aerial view of Sazan Island with rocky cliffs",
+    descriptionAdvanced: {
+      de: "Sazan ist die größte Insel Albaniens und diente jahrzehntelang als strategische Militärbasis am Eingang zur Bucht von Vlora.",
+      hu: "Sazan Albánia legnagyobb szigete, amely évtizedekig zárt katonai bázisként szolgált a Vlorai-öböl bejáratánál.",
+      ro: "Insula Sazan este cea mai mare insulă a Albaniei, servind timp de decenii ca bază militară strategică la intrarea în Golful Vlora.",
+      en: "Sazan is Albania's largest island, a former high-security military base strategically located at the mouth of the Bay of Vlorë.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 5,7 km²", "Küstenlinie: 15 km", "Höchster Punkt: 342 m", "Geöffnet seit: 2015"],
+      hu: ["Terület: 5,7 km²", "Partvonal: 15 km", "Magasság: 342 m", "Nyitva: 2015 óta"],
+      ro: ["Suprafață: 5,7 km²", "Lungime coastă: 15 km", "Înălțime maximă: 342 m", "Deschisă din: 2015"],
+      en: ["Surface area: 5.7 km²", "Coastline: 15 km", "Highest point: 342 m", "Opened since: 2015"],
+    },
+    image: "/poi-images/albania-sazan-island-nature-v2.webp",
+},  {
     id: "albania-tomorr-mountain-nature-v2",
     type: "mountain",
-    name: { de: "Berg Tomorr", hu: "Tomorr-hegy", ro: "Muntele Tomorr", en: "Mount Tomorr" },
+    name: { de: "Berg Tomorr", hu: "Tomorr-hegy", ro: "Muntele Tomorr", en: "Mount Tomorr",
+image: "/poi-images/albania-tomorr-mountain-nature-v2.webp"
+},
     coords: [20.16, 40.63],
     coordinates: { lat: 40.63, lng: 20.16 },
     description: {
@@ -133,11 +225,25 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct este la 2.416 m", "Pelerinaj anual în luna august", "Habitat pentru ursul brun și lup", "Vedere până la Marea Adriatică pe cer senin"],
       en: ["Highest point reaches 2,416 meters", "Site of an annual pilgrimage in August", "Habitat for brown bears and wolves", "Views reach the Adriatic on clear days"],
     },
-    imageHint: "Snowy peak of Mount Tomorr above the clouds", image: "/poi-images/albania-tomorr-mountain-nature-v2.webp"},
-  {
+imageHint: "Snowy peak of Mount Tomorr above the clouds",
+    descriptionAdvanced: {
+      de: "Der Berg Tomorr gilt als heilige Stätte des Bektaschi-Ordens und ist ein markantes Kalksteinmassiv im Süden Albaniens.",
+      hu: "A Tomorr-hegy a bektasi rend szent helye, egy monumentális mészkőmasszívum, amely uralja Dél-Albánia tájképét.",
+      ro: "Muntele Tomorr este considerat un loc sacru de ordinul Bektashi, fiind un masiv calcaros impunător în sudul Albaniei.",
+      en: "Mount Tomorr is a sacred peak for the Bektashi order and a prominent limestone massif dominating the Southern Albanian landscape.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2417 Meter", "Fläche Nationalpark: 261 km²", "Wallfahrt: 20.-25. August", "Region: Berat"],
+      hu: ["Magasság: 2417 méter", "Park területe: 261 km²", "Zarándoklat: aug. 20-25.", "Régió: Berat"],
+      ro: ["Înălțime: 2417 m", "Suprafață Parc: 261 km²", "Pelerinaj: 20-25 august", "Regiunea: Berat"],
+      en: ["Elevation: 2417 meters", "Park area: 261 km²", "Pilgrimage: Aug 20-25", "Region: Berat"],
+    },
+  },  {
     id: "albania-ksamil-islands-nature-v2",
     type: "landmark",
-    name: { de: "Ksamil-Inseln", hu: "Ksamil-szigetek", ro: "Insulele Ksamil", en: "Ksamil Islands" },
+    name: { de: "Ksamil-Inseln", hu: "Ksamil-szigetek", ro: "Insulele Ksamil", en: "Ksamil Islands",
+image: "/poi-images/albania-ksamil-islands-nature-v2.webp"
+},
     coords: [19.99, 39.77],
     coordinates: { lat: 39.77, lng: 19.99 },
     description: {
@@ -152,11 +258,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Accesibile doar cu barca sau prin înot", "Fac parte din Parcul Național Butrint", "Cel mai popular motiv de carte poștală", "Vegetație mediteraneană densă"],
       en: ["Accessible only by boat or swimming", "Part of the Butrint National Park", "Most popular postcard view in Albania", "Covered in dense Mediterranean vegetation"],
     },
-    imageHint: "Small green islands Ksamil surrounded by turquoise sea", image: "/poi-images/albania-ksamil-islands-nature-v2.webp"},
-  {
+imageHint: "Small green islands Ksamil surrounded by turquoise sea",
+    descriptionAdvanced: {
+      de: "Die Ksamil-Inseln sind vier kleine, unbewohnte Eilande vor der südalbanischen Küste, bekannt für weißem Sand und türkisfarbenes Wasser.",
+      hu: "A Ksamil-szigetek négy kis lakatlan földdarab a Jón-tengeren, híresek fehér homokos partjaikról és türkizkék vizükről.",
+      ro: "Insulele Ksamil sunt patru mici insule nelocuite de pe coasta ionică, faimoase pentru nisipul alb și apele turcoaz.",
+      en: "The Ksamil Islands comprise four small, uninhabited islets near Saranda, famous for their white sands and crystal-clear turquoise waters.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl: 4 Inseln", "Entfernung: ca. 100 m", "Status: Naturschutzgebiet", "Lage: Ionisches Meer"],
+      hu: ["Szigetek száma: 4", "Távolság: kb. 100 m", "Státusz: Természetvédelmi terület", "Helyszín: Jón-tenger"],
+      ro: ["Număr insule: 4", "Distanța: aprox. 100 m", "Statut: Zonă protejată", "Locație: Marea Ionică"],
+      en: ["Number of islands: 4", "Distance: approx 100 m", "Status: Protected area", "Location: Ionian Sea"],
+    },
+    image: "/poi-images/albania-ksamil-islands-nature-v2.webp",
+},  {
     id: "albania-karavasta-lagoon-nature-v2",
     type: "lake",
-    name: { de: "Lagune von Karavasta", hu: "Karavasta-lagúna", ro: "Laguna Karavasta", en: "Karavasta Lagoon" },
+    name: { de: "Lagune von Karavasta", hu: "Karavasta-lagúna", ro: "Laguna Karavasta", en: "Karavasta Lagoon",
+image: "/poi-images/albania-karavasta-lagoon-nature-v2.webp"
+},
     coords: [19.5, 40.92],
     coordinates: { lat: 40.92, lng: 19.5 },
     description: {
@@ -171,11 +292,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 45 km²", "Parte a Parcului Național Divjaka-Karavasta", "Găzduiește peste 240 de specii de păsări", "Înconjurată de păduri vechi de pini"],
       en: ["Surface area of about 45 km²", "Part of Divjaka-Karavasta National Park", "Home to more than 240 bird species", "Surrounded by ancient pine forests"],
     },
-    imageHint: "Karavasta lagoon with dalmatian pelicans and pins", image: "/poi-images/albania-karavasta-lagoon-nature-v2.webp"},
-  {
+imageHint: "Karavasta lagoon with dalmatian pelicans and pins",
+    descriptionAdvanced: {
+      de: "Die Karavasta-Lagune ist das größte Lagunensystem Albaniens und ein bedeutender Nistplatz für den seltenen Krauskopfpelikan.",
+      hu: "A Karavasta-lagúna Albánia legnagyobb lagúnarendszere, amely a ritka borzas pelikán egyik legfontosabb fészkelőhelye.",
+      ro: "Laguna Karavasta este cel mai mare sistem de lagune din Albania, fiind un loc crucial de cuibărit pentru pelicanul creț.",
+      en: "Karavasta Lagoon is the largest in Albania and a vital sanctuary for the rare Dalmatian Pelican within Divjakë-Karavasta Park.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 42 km²", "Pelikanpopulation: ca. 5%", "Status: Ramsar-Gebiet", "Küste: Adria"],
+      hu: ["Terület: 42 km²", "Pelikán állomány: kb. 5%", "Státusz: Ramsari terület", "Part: Adriai-tenger"],
+      ro: ["Suprafață: 42 km²", "Populație pelicani: aprox. 5%", "Statut: Sit Ramsar", "Coastă: Marea Adriatică"],
+      en: ["Area: 42 km²", "Pelican population: ~5% global", "Status: Ramsar site", "Coast: Adriatic Sea"],
+    },
+    image: "/poi-images/albania-karavasta-lagoon-nature-v2.webp",
+},  {
     id: "albania-bovilla-lake-nature-v2",
     type: "lake",
-    name: { de: "Bovilla-See", hu: "Bovilla-tó", ro: "Lacul Bovilla", en: "Bovilla Lake" },
+    name: { de: "Bovilla-See", hu: "Bovilla-tó", ro: "Lacul Bovilla", en: "Bovilla Lake",
+image: "/poi-images/albania-bovilla-lake-nature-v2.webp"
+},
     coords: [19.89, 41.45],
     coordinates: { lat: 41.45, lng: 19.89 },
     description: {
@@ -190,11 +326,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Creat artificial în anul 1996", "Destinație populară pentru drumeții", "Oferă vedere spre muntele Gamti", "Suprafața apei de circa 4,6 km²"],
       en: ["Man-made reservoir created in 1996", "Popular destination for hikers and climbers", "Offers great views of Mount Gamti", "Water surface area of about 4.6 km²"],
     },
-    imageHint: "Bovilla lake surrounded by steep limestone cliffs", image: "/poi-images/albania-bovilla-lake-nature-v2.webp"},
-  {
+imageHint: "Bovilla lake surrounded by steep limestone cliffs",
+    descriptionAdvanced: {
+      de: "Der Bovilla-Stausee ist die Hauptwasserquelle von Tirana und bietet von den umliegenden Klippen ein spektakuläres Panorama.",
+      hu: "A Bovilla-tározó Tirana fő vízbázisa, amely a környező sziklákról nyíló lélegzetelállító panorámájáról is ismert.",
+      ro: "Lacul Bovilla este principala sursă de apă a Tiranei, oferind o panoramă spectaculoasă de pe stâncile înconjurătoare.",
+      en: "Bovilla Reservoir is the primary water source for Tirana, framed by dramatic cliffs that offer stunning panoramic views.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung: 15 km von Tirana", "Kapazität: 80 Mio. m³", "Wanderziel: Berg Gamti", "Status: Schutzgebiet"],
+      hu: ["Távolság: 15 km Tiranától", "Kapacitás: 80 millió m³", "Túra: Gamti-hegy", "Státusz: Védett terület"],
+      ro: ["Distanța: 15 km de Tirana", "Capacitate: 80 mil. m³", "Destinație: Muntele Gamti", "Statut: Zonă protejată"],
+      en: ["Distance: 15 km from Tirana", "Capacity: 80 million m³", "Hiking: Gamti Mountain", "Status: Protected zone"],
+    },
+    image: "/poi-images/albania-bovilla-lake-nature-v2.webp",
+},  {
     id: "albania-koman-lake-nature-v2",
     type: "lake",
-    name: { de: "Koman-See", hu: "Koman-tó", ro: "Lacul Koman", en: "Lake Koman" },
+    name: { de: "Koman-See", hu: "Koman-tó", ro: "Lacul Koman", en: "Lake Koman",
+image: "/poi-images/albania-koman-lake-nature-v2.webp"
+},
     coords: [19.82, 42.11],
     coordinates: { lat: 42.11, lng: 19.82 },
     description: {
@@ -209,11 +360,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Format în urma construirii unui baraj", "Lungime de aproximativ 34 kilometri", "Adesea comparat cu fiordurile scandinave", "Cale de transport importantă spre Bajram Curri"],
       en: ["Created by the construction of a dam", "Length of about 34 kilometers", "Often compared to Scandinavian fjords", "Crucial transport link to Bajram Curri"],
     },
-    imageHint: "Lake Koman ferry passing through steep narrow gorge", image: "/poi-images/albania-koman-lake-nature-v2.webp"},
-  {
+imageHint: "Lake Koman ferry passing through steep narrow gorge",
+    descriptionAdvanced: {
+      de: "Der Koman-Stausee windet sich wie ein Fjord durch die albanischen Alpen und dient als wichtigster Verkehrsweg in den Norden.",
+      hu: "A Koman-tó fjord-szerűen kanyarog az Albán-Alpokban, és Észak-Albánia leglátványosabb vízi közlekedési útvonala.",
+      ro: "Lacul Koman șerpuiește ca un fiord printre Alpii Albanezi, fiind cea mai pitorească rută de transport spre nordul țării.",
+      en: "Lake Koman meanders like a fjord through the Albanian Alps, providing a breathtaking ferry route between rugged mountain peaks.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1980er Jahre", "Fläche: 12 km²", "Fährdauer: ca. 2,5 Stunden", "Zweck: Wasserkraft"],
+      hu: ["Építés: 1980-as évek", "Terület: 12 km²", "Kompút: kb. 2,5 óra", "Cél: Hidroenergia"],
+      ro: ["Construcție: anii 1980", "Suprafață: 12 km²", "Durată feribot: 2,5 ore", "Scop: Hidroenergie"],
+      en: ["Built: 1980s", "Surface area: 12 km²", "Ferry duration: ~2.5 hours", "Purpose: Hydroelectricity"],
+    },
+    image: "/poi-images/albania-koman-lake-nature-v2.webp",
+},  {
     id: "albania-jezerca-mountain-nature-v2",
     type: "peak",
-    name: { de: "Maja e Jezercës", hu: "Jezerca-hegy", ro: "Muntele Jezerca", en: "Mount Jezerca" },
+    name: { de: "Maja e Jezercës", hu: "Jezerca-hegy", ro: "Muntele Jezerca", en: "Mount Jezerca",
+image: "/poi-images/albania-jezerca-mountain-nature-v2.webp"
+},
     coords: [19.81, 42.44],
     coordinates: { lat: 42.44, lng: 19.81 },
     description: {
@@ -228,11 +394,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Înălțime de 2.694 m deasupra mării", "Al doilea munte ca înălțime din Albania", "Inima 'Munților Blestemați'", "Popular printre alpiniștii experimentați"],
       en: ["Altitude of 2,694 meters above sea level", "Second highest peak in Albania after Korab", "Core of the Accursed Mountains range", "Popular among experienced mountaineers"],
     },
-    imageHint: "Jagged grey peak of Mount Jezerca with snow patches", image: "/poi-images/albania-jezerca-mountain-nature-v2.webp"},
-  {
+imageHint: "Jagged grey peak of Mount Jezerca with snow patches",
+    descriptionAdvanced: {
+      de: "Maja e Jezercës ist der höchste Gipfel der Albanischen Alpen und gilt als eine der anspruchsvollsten Bergsteigertouren der Region.",
+      hu: "A Maja e Jezercës az Albán-Alpok legmagasabb csúcsa, amely technikás mászást igénylő sziklás bérceivel vonzza a kalandorokat.",
+      ro: "Maja e Jezercës este cel mai înalt vârf din Alpii Albanezi, fiind considerat una dintre cele mai dificile ascensiuni din regiune.",
+      en: "Maja e Jezercës is the highest peak of the Dinaric Alps, a formidable limestone giant that challenges even experienced climbers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2694 Meter", "Lage: Prokletije-Massiv", "Schartenhöhe: 1983 m", "Dominanz: 80 km"],
+      hu: ["Magasság: 2694 méter", "Helyszín: Prokletije-masszívum", "Kiemelkedés: 1983 m", "Dominancia: 80 km"],
+      ro: ["Înălțime: 2694 m", "Locație: Masivul Prokletije", "Proeminență: 1983 m", "Dominanță: 80 km"],
+      en: ["Elevation: 2694 meters", "Location: Prokletije Massif", "Prominence: 1983 m", "Isolation: 80 km"],
+    },
+    image: "/poi-images/albania-jezerca-mountain-nature-v2.webp",
+},  {
     id: "albania-butrint-lake-nature-v2",
     type: "lake",
-    name: { de: "Butrint-See", hu: "Butrint-tó", ro: "Lacul Butrint", en: "Lake Butrint" },
+    name: { de: "Butrint-See", hu: "Butrint-tó", ro: "Lacul Butrint", en: "Lake Butrint",
+image: "/poi-images/albania-butrint-lake-nature-v2.webp"
+},
     coords: [20.02, 39.75],
     coordinates: { lat: 39.75, lng: 20.02 },
     description: {
@@ -247,11 +428,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lagună de origine tectonică", "Centrul principal de producție a midiilor", "Conectat prin canalul Vivari", "Înconjurat de mlaștini și ruine antice"],
       en: ["Tectonic lagoon formation", "Albania's main center for mussel farming", "Connected to the sea via Vivari Channel", "Surrounded by wetlands and ancient ruins"],
     },
-    imageHint: "Mussel farms in Lake Butrint at sunset", image: "/poi-images/albania-butrint-lake-nature-v2.webp"},
-  {
+imageHint: "Mussel farms in Lake Butrint at sunset",
+    descriptionAdvanced: {
+      de: "Der Butrint-See ist eine salzhaltige Lagune an der Ionischen Küste, berühmt für seine Muschelzucht und angrenzende Ruinen.",
+      hu: "A Butrinti-tó egy sós vizű lagúna a Jón-tenger partján, amely híres osztrigatenyésztéséről és az ókori romváros közelségéről.",
+      ro: "Lacul Butrint este o lagună sărată pe coasta ionică, faimoasă pentru fermele de scoici și vestigiile arheologice adiacente.",
+      en: "Lake Butrint is a coastal lagoon near Saranda, renowned for its traditional mussel farming and proximity to the ancient ruins.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 16 km²", "Tiefe: ca. 21 Meter", "Status: Ramsar-Gebiet", "Verbindung: Vivar-Kanal"],
+      hu: ["Terület: 16 km²", "Mélység: kb. 21 méter", "Státusz: Ramsari terület", "Csatorna: Vivar-csatorna"],
+      ro: ["Suprafață: 16 km²", "Adâncime: 21 m", "Statut: Sit Ramsar", "Canal: Vivar"],
+      en: ["Area: 16 km²", "Depth: approx 21 meters", "Status: Ramsar site", "Channel: Vivar Channel"],
+    },
+    image: "/poi-images/albania-butrint-lake-nature-v2.webp",
+},  {
     id: "albania-shkopet-lake-nature-v2",
     type: "lake",
-    name: { de: "Shkopet-See", hu: "Shkopet-tó", ro: "Lacul Shkopet", en: "Shkopet Lake" },
+    name: { de: "Shkopet-See", hu: "Shkopet-tó", ro: "Lacul Shkopet", en: "Shkopet Lake",
+image: "/poi-images/albania-shkopet-lake-nature-v2.webp"
+},
     coords: [19.83, 41.69],
     coordinates: { lat: 41.69, lng: 19.83 },
     description: {
@@ -266,11 +462,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lac artificial în centrul-nordul Albaniei", "Popular pentru pescuit și picnic", "Cunoscut pentru podul suspendat Shkopet", "Drum pitoresc pe malul lacului"],
       en: ["Man-made lake in North-Central Albania", "Popular spot for fishing and picnicking", "Famous for the Shkopet suspension bridge", "Scenic road runs along the lake shore"],
     },
-    imageHint: "Narrow Lake Shkopet with wooden suspension bridge", image: "/poi-images/albania-shkopet-lake-nature-v2.webp"},
-  {
+imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
+    descriptionAdvanced: {
+      de: "Der Shkopet-See ist ein schmaler Stausee des Mat-Flusses, der von steilen Bergen und einer markanten Hängebrücke geprägt ist.",
+      hu: "A Shkopet-tó a Mat folyó keskeny tározója, amelyet meredek hegyoldalak és egy látványos gyalogos függőhíd tesz különlegessé.",
+      ro: "Lacul Shkopet este un lac de acumulare îngust pe râul Mat, înconjurat de munți abrupți și traversat de un pod suspendat celebru.",
+      en: "Lake Shkopet is a narrow reservoir on the Mat River, known for its deep emerald waters, steep cliffs, and iconic suspension bridge.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Mat", "Region: Milot", "Brücke: Kurdari-Hängebrücke", "Zweck: Energie/Tourismus"],
+      hu: ["Folyó: Mat", "Régió: Milot", "Híd: Kurdari függőhíd", "Cél: Energia és turizmus"],
+      ro: ["Râu: Mat", "Regiunea: Milot", "Pod: Suspendat Kurdari", "Scop: Energie/Turism"],
+      en: ["River: Mat", "Region: Milot", "Bridge: Kurdari suspension bridge", "Purpose: Power/Tourism"],
+    },
+    image: "/poi-images/albania-shkopet-lake-nature-v2.webp",
+},  {
     id: "albania-grunas-waterfall-nature-v2",
     type: "landmark",
-    name: { de: "Grunas-Wasserfall", hu: "Grunas-vízesés", ro: "Cascada Grunas", en: "Grunas Waterfall" },
+    name: { de: "Grunas-Wasserfall", hu: "Grunas-vízesés", ro: "Cascada Grunas", en: "Grunas Waterfall",
+image: "/poi-images/albania-grunas-waterfall-nature-v2.webp"
+},
     coords: [19.78, 42.38],
     coordinates: { lat: 42.38, lng: 19.78 },
     description: {
@@ -285,11 +496,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Înălțime de cădere de circa 30 metri", "Apa provine din zăpada topită", "Drumeția din Theth durează cam o oră", "Monument natural protejat din 2002"],
       en: ["Plunge height of about 30 meters", "Water source is mainly melted snow", "A one-hour hike from Theth village", "Designated natural monument since 2002"],
     },
-    imageHint: "Tall Grunas waterfall splashing into a rock pool", image: "/poi-images/albania-grunas-waterfall-nature-v2.webp"},
-  {
+imageHint: "Tall Grunas waterfall splashing into a rock pool",
+    descriptionAdvanced: {
+      de: "Der Grunas-Wasserfall stürzt über 30 Meter tief in ein smaragdgrünes Becken und ist eines der Highlights im Nationalpark Theth.",
+      hu: "A Grunas-vízesés több mint 30 méteres magasságból zúdul alá, kristálytiszta medencét alkotva a Theth Nemzeti Park szívében.",
+      ro: "Cascada Grunas cade de la o înălțime de peste 30 de metri într-un bazin smarald, fiind o bijuterie a Parcului Național Theth.",
+      en: "The Grunas Waterfall drops over 30 meters into a limestone pool, standing as one of the most iconic natural sights in Theth.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 30 Meter", "Status: Naturdenkmal", "Wanderzeit: 1 Std. von Theth", "Besonderheit: Quellwasser"],
+      hu: ["Magasság: 30 méter", "Státusz: Természeti emlék", "Túra: 1 óra Theth-től", "Víz: Közvetlen forrásvíz"],
+      ro: ["Înălțime: 30 m", "Statut: Monument natural", "Traseu: 1 oră din Theth", "Sursa: Apă de izvor"],
+      en: ["Height: 30 meters", "Status: Natural monument", "Hike: 1h from Theth village", "Water: Direct spring output"],
+    },
+    image: "/poi-images/albania-grunas-waterfall-nature-v2.webp",
+},  {
     id: "albania-shengjergji-waterfall-nature-v2",
     type: "landmark",
-    name: { de: "Shëngjergji-Wasserfall", hu: "Shëngjergji-vízesés", ro: "Cascada Shëngjergji", en: "Shëngjergji Waterfall" },
+    name: { de: "Shëngjergji-Wasserfall", hu: "Shëngjergji-vízesés", ro: "Cascada Shëngjergji", en: "Shëngjergji Waterfall",
+image: "/poi-images/albania-shengjergji-waterfall-nature-v2.webp"
+},
     coords: [19.99, 41.33],
     coordinates: { lat: 41.33, lng: 19.99 },
     description: {
@@ -304,11 +530,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 30 metri", "Înconjurată de straturi de rocă colorată", "Drumeție scurtă din satul Shëngjergj", "Debit maxim în timpul primăverii"],
       en: ["Height of approximately 30 meters", "Surrounded by colorful rock layers", "Short hike from Shëngjergj village", "Best visited during the spring season"],
     },
-    imageHint: "Shëngjergji waterfall in a lush green forest", image: "/poi-images/albania-shengjergji-waterfall-nature-v2.webp"},
-  {
+imageHint: "Shëngjergji waterfall in a lush green forest",
+    descriptionAdvanced: {
+      de: "Der Shëngjergji-Wasserfall ist ein beliebtes Ausflugsziel bei Tirana, versteckt in den waldreichen Ausläufern des Mali me Gropa.",
+      hu: "A Shëngjergji-vízesés népszerű kirándulóhely Tirana közelében, a Mali me Gropa erdős lábainál rejtőzve.",
+      ro: "Cascada Shëngjergji este o destinație populară lângă Tirana, ascunsă în poalele împădurite ale muntelui Mali me Gropa.",
+      en: "Shëngjergji Waterfall is a scenic weekend escape near Tirana, tucked away in the lush forests of the Mali me Gropa range.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: ca. 30 Meter", "Entfernung: 40 km von Tirana", "Gestein: Roter Tonschiefer", "Höhe: ca. 950 m ü. M."],
+      hu: ["Magasság: kb. 30 méter", "Távolság: 40 km Tiranától", "Kőzet: Vörös agyagpala", "Magasság: 950 m"],
+      ro: ["Înălțime: aprox. 30 m", "Distanța: 40 km de Tirana", "Rocă: Șisturi roșii", "Altitudine: 950 m"],
+      en: ["Height: approx 30 meters", "Distance: 40 km from Tirana", "Rock type: Red shale", "Elevation: 950 m"],
+    },
+    image: "/poi-images/albania-shengjergji-waterfall-nature-v2.webp",
+},  {
     id: "albania-sotira-waterfall-nature-v2",
     type: "landmark",
-    name: { de: "Sotira-Wasserfall", hu: "Sotira-vízesés", ro: "Cascada Sotira", en: "Sotira Waterfall" },
+    name: { de: "Sotira-Wasserfall", hu: "Sotira-vízesés", ro: "Cascada Sotira", en: "Sotira Waterfall",
+image: "/poi-images/albania-sotira-waterfall-nature-v2.webp"
+},
     coords: [20.2, 40.75],
     coordinates: { lat: 40.75, lng: 20.2 },
     description: {
@@ -323,11 +564,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Formată din două cascade principale", "Înălțime totală de circa 100 metri", "Accesibilă din satul Sotira", "Apa izvorăște din interiorul muntelui"],
       en: ["Consists of two main cascades", "Total drop of about 100 meters", "Accessible from the village of Sotira", "Water source flows from inside the mountain"],
     },
-    imageHint: "Multiple white cascades of Sotira Waterfall on a cliff", image: "/poi-images/albania-sotira-waterfall-nature-v2.webp"},
-  {
+imageHint: "Multiple white cascades of Sotira Waterfall on a cliff",
+    descriptionAdvanced: {
+      de: "Der Sotira-Wasserfall entspringt direkt aus einer Felswand des Tomorr-Massivs und stürzt in mehreren Strömen spektakulär herab.",
+      hu: "A Sotira-vízesés közvetlenül a Tomorr-masszívum sziklafalaiból tör elő, több ágra szakadva zúdul a mélybe.",
+      ro: "Cascada Sotira țâșnește direct dintr-un perete stâncos al masivului Tomorr, căzând în mai multe fire spectaculoase.",
+      en: "Sotira Waterfall emerges directly from the rocky face of Mount Tomorr, cascading down in multiple powerful streams.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 20-100 Meter", "Region: Gramsh", "Lage: Berg Tomorr", "Wanderzeit: ca. 2 Stunden"],
+      hu: ["Magasság: 20-100 méter", "Régió: Gramsh", "Helyszín: Tomorr-hegy", "Túra: kb. 2 óra"],
+      ro: ["Înălțime: 20-100 m", "Regiunea: Gramsh", "Locație: Muntele Tomorr", "Traseu: aprox. 2 ore"],
+      en: ["Height: 20-100 meters", "Region: Gramsh", "Location: Mount Tomorr", "Hike: approx 2 hours"],
+    },
+    image: "/poi-images/albania-sotira-waterfall-nature-v2.webp",
+},  {
     id: "albania-gjipe-canyon-nature-v2",
     type: "valley",
-    name: { de: "Gjipe-Schlucht", hu: "Gjipe-kanyon", ro: "Canionul Gjipe", en: "Gjipe Canyon" },
+    name: { de: "Gjipe-Schlucht", hu: "Gjipe-kanyon", ro: "Canionul Gjipe", en: "Gjipe Canyon",
+image: "/poi-images/albania-gjipe-canyon-nature-v2.webp"
+},
     coords: [19.67, 40.12],
     coordinates: { lat: 40.12, lng: 19.67 },
     description: {
@@ -342,11 +598,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Se varsă în plaja Gjipe", "Pereții au până la 70 metri înălțime", "Accesibil doar pe jos sau cu barca", "Oferă umbră chiar și în verile fierbinți"],
       en: ["Ends at the secluded Gjipe Beach", "Walls reach up to 70 meters in height", "Accessible only by foot or boat", "Provides natural shade during hot summers"],
     },
-    imageHint: "Narrow canyon Gjipe opening to a small beach", image: "/poi-images/albania-gjipe-canyon-nature-v2.webp"},
-  {
+imageHint: "Narrow canyon Gjipe opening to a small beach",
+    descriptionAdvanced: {
+      de: "Der Gjipe-Canyon ist eine spektakuläre Schlucht an der albanischen Riviera, die an einem versteckten, unberührten Strand endet.",
+      hu: "A Gjipe-kanyon az Albán Riviéra egyik legvadabb szurdoka, amely egy eldugott, érintetlen tengerpartban végződik.",
+      ro: "Canionul Gjipe este o strâmtoare spectaculoasă pe Riviera Albaneză, care se termină pe o plajă virgină ascunsă.",
+      en: "Gjipe Canyon is a dramatic limestone gorge on the Albanian Riviera, culminating at a secluded and pristine pebble beach.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 800 Meter", "Wandhöhe: bis zu 70 m", "Erreichbarkeit: Boot/Wandern", "Küste: Ionisches Meer"],
+      hu: ["Hossz: kb. 800 méter", "Falfal magasság: 70 m", "Megközelítés: Hajó/Gyalog", "Part: Jón-tenger"],
+      ro: ["Lungime: aprox. 800 m", "Înălțime pereți: 70 m", "Acces: Barcă sau pe jos", "Coastă: Marea Ionică"],
+      en: ["Length: approx 800 meters", "Wall height: up to 70 m", "Access: Boat or hiking", "Coast: Ionian Sea"],
+    },
+    image: "/poi-images/albania-gjipe-canyon-nature-v2.webp",
+},  {
     id: "albania-buna-river-nature-v2",
     type: "river",
-    name: { de: "Buna", hu: "Buna-folyó", ro: "Râul Buna", en: "Buna River" },
+    name: { de: "Buna", hu: "Buna-folyó", ro: "Râul Buna", en: "Buna River",
+image: "/poi-images/albania-buna-river-nature-v2.webp"
+},
     coords: [19.36, 41.85],
     coordinates: { lat: 41.85, lng: 19.36 },
     description: {
@@ -361,11 +632,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 44 kilometri", "Habitat important pentru păsări migratoare", "Delta sa formează un ecosistem major", "Adâncimea apei permite navigația mică"],
       en: ["Total length of about 44 kilometers", "Crucial habitat for migratory birds", "The delta forms a significant ecosystem", "Depth allows for small-scale navigation"],
     },
-    imageHint: "Buna River flowing through a flat green landscape", image: "/poi-images/albania-buna-river-nature-v2.webp"},
-  {
+imageHint: "Buna River flowing through a flat green landscape",
+    descriptionAdvanced: {
+      de: "Die Buna ist der einzige schiffbare Fluss Albaniens und verbindet den Shkodrasee mit der Adria durch eine weite Sumpflandschaft.",
+      hu: "A Buna Albánia egyetlen hajózható folyója, amely a Shkodrai-tavat köti össze az Adriával egy mocsaras deltán keresztül.",
+      ro: "Buna este singurul râu navigabil din Albania, conectând Lacul Shkodra cu Marea Adriatică printr-o zonă umedă vastă.",
+      en: "The Buna River is Albania's only navigable waterway, flowing from Lake Shkodra to the Adriatic through a rich wetland delta.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 44 km", "Besonderheit: Geringes Gefälle", "Insel: Ada Bojana", "Grenzfluss: Montenegro"],
+      hu: ["Hossz: 44 km", "Jellemző: Alacsony esés", "Sziget: Ada Bojana", "Határ: Montenegró"],
+      ro: ["Lungime: 44 km", "Caracteristică: Pantă mică", "Insulă: Ada Bojana", "Graniță: Muntenegru"],
+      en: ["Length: 44 km", "Feature: Very low gradient", "Island: Ada Bojana", "Border: Montenegro"],
+    },
+    image: "/poi-images/albania-buna-river-nature-v2.webp",
+},  {
     id: "albania-drin-river-nature-v2",
     type: "river",
-    name: { de: "Drin", hu: "Drin-folyó", ro: "Râul Drin", en: "Drin River" },
+    name: { de: "Drin", hu: "Drin-folyó", ro: "Râul Drin", en: "Drin River",
+image: "/poi-images/albania-drin-river-nature-v2.webp"
+},
     coords: [19.57, 41.75],
     coordinates: { lat: 41.75, lng: 19.57 },
     description: {
@@ -380,11 +666,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lungime totală de circa 285 kilometri", "Trei baraje mari pentru energie electrică", "Traversează canioane spectaculoase", "Principala resursă de apă a Albaniei"],
       en: ["Total length of about 285 kilometers", "Features three major hydroelectric dams", "Flows through spectacular mountain gorges", "Albania's most important water resource"],
     },
-    imageHint: "Wide Drin River winding through Albanian mountains", image: "/poi-images/albania-drin-river-nature-v2.webp"},
-  {
+imageHint: "Wide Drin River winding through Albanian mountains",
+    descriptionAdvanced: {
+      de: "Der Drin ist mit seinen zwei Quellflüssen der längste Fluss Albaniens und von zentraler Bedeutung für die Energieerzeugung des Landes.",
+      hu: "A Drin Albánia leghosszabb folyója, amely két forráság egyesüléséből születik, és kulcsszerepet játszik az ország energiatermelésében.",
+      ro: "Drin este cel mai lung râu din Albania, format prin unirea a două ramuri și fiind esențial pentru producția de energie hidro.",
+      en: "The Drin is Albania's longest river, formed by the White and Black Drin, and is the backbone of the country's hydroelectric power.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 285 km", "Dämme: Fierza, Koman, Vau-Dejës", "Mündung: Buna/Adria", "Einzugsgebiet: 19.600 km²"],
+      hu: ["Hossz: 285 km", "Gátak: Fierza, Koman, Vau-Dejës", "Torkolat: Buna/Adria", "Vízgyűjtő: 19.600 km²"],
+      ro: ["Lungime: 285 km", "Baraje: Fierza, Koman, Vau-Dejës", "Vărsare: Buna/Adriatică", "Bazin: 19.600 km²"],
+      en: ["Length: 285 km", "Dams: Fierza, Koman, Vau-Dejës", "Outlet: Buna/Adriatic", "Basin: 19,600 km²"],
+    },
+    image: "/poi-images/albania-drin-river-nature-v2.webp",
+},  {
     id: "albania-shkumbin-river-nature-v2",
     type: "river",
-    name: { de: "Shkumbin", hu: "Shkumbin-folyó", ro: "Râul Shkumbin", en: "Shkumbin River" },
+    name: { de: "Shkumbin", hu: "Shkumbin-folyó", ro: "Râul Shkumbin", en: "Shkumbin River",
+image: "/poi-images/albania-shkumbin-river-nature-v2.webp"
+},
     coords: [19.44, 41.03],
     coordinates: { lat: 41.03, lng: 19.44 },
     description: {
@@ -399,12 +700,27 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 181 kilometri", "Valea sa a fost ruta Via Egnatia", "Împarte țara în nord și sud", "Izvorăște din munții Valamara"],
       en: ["Total length of about 181 kilometers", "The ancient Via Egnatia ran along its valley", "Divides the country into North and South", "Originates in the Valamara mountains"],
     },
-    imageHint: "Shkumbin River valley with ancient stone bridge", image: "/poi-images/albania-shkumbin-river-nature-v2.webp"}
-,
+imageHint: "Shkumbin River valley with ancient stone bridge",
+    descriptionAdvanced: {
+      de: "Der Shkumbin markiert die kulturelle und sprachliche Grenze zwischen den nordalbanischen Gegen und den südalbanischen Tosken.",
+      hu: "A Shkumbin folyó jelöli a kulturális és nyelvjárási határt az északi geg és a déli toszk albánok lakóterülete között.",
+      ro: "Râul Shkumbin marchează granița culturală și lingvistică dintre ghegii din nord și toskii din sudul Albaniei.",
+      en: "The Shkumbin River serves as the traditional cultural and linguistic divide between the Gheg and Tosk dialects of Albania.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 181 km", "Route: Via Egnatia", "Quelle: Valamara-Berge", "Mündung: Adria"],
+      hu: ["Hossz: 181 km", "Útvonal: Via Egnatia mentén", "Forrás: Valamara-hegység", "Torkolat: Adria"],
+      ro: ["Lungime: 181 km", "Ruta: Via Egnatia", "Sursa: Munții Valamara", "Vărsare: Marea Adriatică"],
+      en: ["Length: 181 km", "Route: Follows Via Egnatia", "Source: Valamara Mountains", "Mouth: Adriatic Sea"],
+    },
+    image: "/poi-images/albania-shkumbin-river-nature-v2.webp",
+},
   {
     id: "albania-langarica-canyon-nature-v2",
     type: "valley",
-    name: { de: "Langarica-Schlucht", hu: "Langarica-kanyon", ro: "Canionul Langarica", en: "Langarica Canyon" },
+    name: { de: "Langarica-Schlucht", hu: "Langarica-kanyon", ro: "Canionul Langarica", en: "Langarica Canyon",
+image: "/poi-images/albania-langarica-canyon-nature-v2.webp"
+},
     coordinates: { lat: 40.244, lng: 20.432 },
     description: {
       de: "Die Langarica-Schlucht bei Përmet ist bekannt für ihre heißen Schwefelquellen und die osmanische Kadiut-Brücke. Der Fluss hat über Jahrtausende tiefe Wände in den Kalkstein gegraben.",
@@ -419,11 +735,25 @@ export const albaniaNatureV2: POI[] = [
       en: ["Length of approximately 5 kilometers", "Water temperatures between 26 and 32 degrees Celsius", "Located within Fir of Hotovë-Dangell National Park", "Kadiut Bridge dates back to 1760"],
     },
     imageHint: "Langarica Canyon with Ottoman Kadiut Bridge",
+    descriptionAdvanced: {
+      de: "Der Langarica-Canyon ist bekannt für seine natürlichen Thermalquellen bei Përmet und seine engen, hoch aufragenden Felswände.",
+      hu: "A Langarica-kanyon a Përmet melletti természetes termálforrásairól és szűk, magasba törő sziklafalairól nevezetes.",
+      ro: "Canionul Langarica este faimos pentru izvoarele termale naturale de lângă Përmet și pereții săi stâncoși înalți și înguști.",
+      en: "Langarica Canyon is famous for its natural thermal baths at Bënjë and its narrow, towering limestone walls near Përmet.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 5 km", "Thermalquellen: Bënja-Bäder", "Brücke: Kati-Brücke (Osmanisch)", "Wassertemperatur: 26-32 °C"],
+      hu: ["Hossz: 5 km", "Források: Bënja termálfürdők", "Híd: Kati oszmán híd", "Vízhőmérséklet: 26-32 °C"],
+      ro: ["Lungime: 5 km", "Izvoare: Băile Bënja", "Pod: Podul Kati (Otoman)", "Temperatură apă: 26-32 °C"],
+      en: ["Length: 5 km", "Thermal springs: Bënjë baths", "Bridge: Ottoman Kati Bridge", "Water temperature: 26-32 °C"],
+    },
   },
   {
     id: "albania-bogove-waterfall-nature-v2",
     type: "river",
-    name: { de: "Bogovë-Wasserfall", hu: "Bogovë-vízesés", ro: "Cascada Bogovë", en: "Bogovë Waterfall" },
+    name: { de: "Bogovë-Wasserfall", hu: "Bogovë-vízesés", ro: "Cascada Bogovë", en: "Bogovë Waterfall",
+image: "/poi-images/albania-bogove-waterfall-nature-v2.webp"
+},
     coordinates: { lat: 40.569, lng: 20.101 },
     description: {
       de: "Der Bogovë-Wasserfall im Skrapar-Distrikt stürzt aus 20 Metern Höhe in ein natürliches Becken. Das kristallklare Wasser stammt direkt aus den Quellen des Tomorr-Gebirges.",
@@ -437,11 +767,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Înălțime de cădere de exact 20 de metri", "Protejată oficial ca monument al naturii", "Destinație populară de drumeție din satul Bogovë", "Temperatură constantă a apei pe tot parcursul anului"],
       en: ["Drop height of exactly 20 meters", "Officially protected as a natural monument", "Popular hiking destination from Bogovë village", "Constant water temperature throughout the year"],
     },
-    imageHint: "Bogove waterfall falling into turquoise pool", image: "/poi-images/albania-bogove-waterfall-nature-v2.webp"},
-  {
+imageHint: "Bogove waterfall falling into turquoise pool",
+    descriptionAdvanced: {
+      de: "Der Bogovë-Wasserfall ist eine versteckte Oase am Fuße des Tomorr-Gebirges, wo das Wasser in ein tiefes, blaues Becken stürzt.",
+      hu: "A Bogovë-vízesés egy rejtett oázis a Tomorr-hegység lábánál, ahol a víz egy mély, kék vizű természetes medencébe hullik.",
+      ro: "Cascada Bogovë este o oază ascunsă la poalele munților Tomorr, unde apa cade într-un bazin natural adânc și albastru.",
+      en: "Bogovë Waterfall is a hidden oasis at the base of Mount Tomorr, featuring a 20-meter drop into a deep, turquoise basin.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 20 Meter", "Region: Skrapar", "Wanderzeit: 45 Min. von Bogovë", "Bedeutung Name: Göttergarten"],
+      hu: ["Magasság: 20 méter", "Régió: Skrapar", "Túra: 45 perc Bogovë-tól", "Név jelentése: Istenek kertje"],
+      ro: ["Înălțime: 20 m", "Regiunea: Skrapar", "Traseu: 45 min din Bogovë", "Semnificație nume: Grădina Zeilor"],
+      en: ["Height: 20 meters", "Region: Skrapar", "Hike: 45 min from Bogovë", "Name meaning: Garden of Gods"],
+    },
+    image: "/poi-images/albania-bogove-waterfall-nature-v2.webp",
+},  {
     id: "albania-holta-canyon-nature-v2",
     type: "valley",
-    name: { de: "Holta-Kanyon", hu: "Holta-kanyon", ro: "Canionul Holta", en: "Holta Canyon" },
+    name: { de: "Holta-Kanyon", hu: "Holta-kanyon", ro: "Canionul Holta", en: "Holta Canyon",
+image: "/poi-images/albania-holta-canyon-nature-v2.webp"
+},
     coordinates: { lat: 40.892, lng: 20.211 },
     description: {
       de: "Der Holta-Kanyon in der Nähe von Gramsh beeindruckt durch seine steilen, 150 Meter hohen Kalksteinwände. In der Schlucht befinden sich zahlreiche Karsthöhlen und Thermalquellen.",
@@ -455,11 +800,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lungime totală de aproximativ 3 kilometri", "Pereții canionului ating până la 150 de metri", "Situat în districtul Gramsh din Albania centrală", "Adăpostește sisteme rare de peșteri"],
       en: ["Total length of about 3 kilometers", "Gorge walls reach up to 150 meters in height", "Located in the Gramsh District of central Albania", "Contains rare karst cave systems"],
     },
-    imageHint: "Holta Canyon with high limestone cliffs", image: "/poi-images/albania-holta-canyon-nature-v2.webp"},
-  {
+imageHint: "Holta Canyon with high limestone cliffs",
+    descriptionAdvanced: {
+      de: "Der Holta-Canyon ist eine wilde Schlucht in der Nähe von Gramsh, die durch ihre extrem schmalen Passagen und Höhlen besticht.",
+      hu: "A Holta-kanyon egy vadregényes szurdok Gramsh közelében, amely rendkívül szűk járataival és barlangjaival nyűgözi le a látogatókat.",
+      ro: "Canionul Holta este o strâmtoare sălbatică lângă Gramsh, impresionând prin pasajele sale extrem de înguste și peșteri.",
+      en: "Holta Canyon is a wild and narrow limestone gorge near Gramsh, offering adventurous hiking through tight passages and caves.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 3 km", "Wandhöhe: bis zu 150 m", "Region: Gramsh", "Aktivität: Canyoning/Wandern"],
+      hu: ["Hossz: 3 km", "Falfal magasság: 150 m", "Régió: Gramsh", "Aktivitás: Canyoning"],
+      ro: ["Lungime: 3 km", "Înălțime pereți: 150 m", "Regiunea: Gramsh", "Activitate: Canyoning"],
+      en: ["Length: 3 km", "Wall height: up to 150 m", "Region: Gramsh", "Activity: Canyoning"],
+    },
+    image: "/poi-images/albania-holta-canyon-nature-v2.webp",
+},  {
     id: "albania-pellumbas-cave-nature-v2",
     type: "landmark",
-    name: { de: "Pëllumbas-Höhle", hu: "Pëllumbas-barlang", ro: "Peștera Pëllumbas", en: "Pëllumbas Cave" },
+    name: { de: "Pëllumbas-Höhle", hu: "Pëllumbas-barlang", ro: "Peștera Pëllumbas", en: "Pëllumbas Cave",
+image: "/poi-images/albania-pellumbas-cave-nature-v2.webp"
+},
     coordinates: { lat: 41.251, lng: 19.996 },
     description: {
       de: "Die Pëllumbas-Höhle in der Nähe von Tirana ist eine der wichtigsten prähistorischen Fundstätten Albaniens. Sie beherbergt beeindruckende Stalaktiten und Spuren menschlicher Besiedlung.",
@@ -473,11 +833,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Se întinde pe o lungime de 360 de metri", "Urme de locuire de peste 30.000 de ani", "Situată la 350 de metri peste nivelul mării", "Locuită de colonii mari de lilieci"],
       en: ["Extends over 360 meters in length", "Habitation traces date back 30,000 years", "Located 350 meters above sea level", "Inhabited by large colonies of bats"],
     },
-    imageHint: "Entrance to Pellumbas Cave near Tirana", image: "/poi-images/albania-pellumbas-cave-nature-v2.webp"},
-  {
+imageHint: "Entrance to Pellumbas Cave near Tirana",
+    descriptionAdvanced: {
+      de: "Die Pëllumbas-Höhle, auch Schwarze Höhle genannt, beherbergte einst Höhlenbären und frühzeitliche menschliche Siedlungen.",
+      hu: "A Pëllumbas-barlang, más néven Fekete-barlang, egykor barlangi medvéknek és őskori emberi közösségeknek adott otthont.",
+      ro: "Peștera Pëllumbas, cunoscută și sub numele de Peștera Neagră, a adăpostit cândva urși de peșteră și așezări umane preistorice.",
+      en: "Pëllumbas Cave, or the Black Cave, is a prehistoric site near Tirana that once sheltered cave bears and early human settlers.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 360 Meter", "Alter: ca. 10.000 Jahre", "Höhe: 350 m ü. M.", "Lage: Erzen-Schlucht"],
+      hu: ["Hossz: 360 méter", "Kor: kb. 10.000 év", "Magasság: 350 m", "Helyszín: Erzen-szurdok"],
+      ro: ["Lungime: 360 m", "Vechime: aprox. 10.000 ani", "Altitudine: 350 m", "Locație: Canionul Erzen"],
+      en: ["Length: 360 meters", "Age: approx 10,000 years", "Elevation: 350 m", "Location: Erzen Gorge"],
+    },
+    image: "/poi-images/albania-pellumbas-cave-nature-v2.webp",
+},  {
     id: "albania-mat-river-nature-v2",
     type: "river",
-    name: { de: "Mat-Fluss", hu: "Mat-folyó", ro: "Râul Mat", en: "Mat River" },
+    name: { de: "Mat-Fluss", hu: "Mat-folyó", ro: "Râul Mat", en: "Mat River",
+image: "/poi-images/albania-mat-river-nature-v2.webp"
+},
     coordinates: { lat: 41.642, lng: 19.584 },
     description: {
       de: "Der Mat-Fluss im Norden Albaniens ist bekannt für seine tiefen Schluchten und die großen Stauseen Ulëz und Shkopet. Er mündet nördlich von Lezhë in die Adria.",
@@ -491,11 +866,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Lungime totală de aproximativ 115 kilometri", "Izvorul se află în munții Martanesh", "Alimentează hidrocentralele Ulëz și Shkopet", "Delta face parte din rezervația Kune-Vain-Tale"],
       en: ["Total length of about 115 kilometers", "Source is located in the Martanesh mountains", "Powers the Ulëz and Shkopet hydroelectric plants", "Delta is part of the Kune-Vain-Tale reserve"],
     },
-    imageHint: "Mat River flowing through mountain canyon", image: "/poi-images/albania-mat-river-nature-v2.webp"},
-  {
+imageHint: "Mat River flowing through mountain canyon",
+    descriptionAdvanced: {
+      de: "Der Mat-Fluss im Norden Albaniens ist durch seine tiefen Schluchten und die großen Stauseen zur Energiegewinnung geprägt.",
+      hu: "Az Észak-Albániában kanyargó Mat folyó mély szurdokairól és az energiatermelést szolgáló hatalmas tározóiról ismert.",
+      ro: "Râul Mat din nordul Albaniei este caracterizat prin defileele sale adânci și marile lacuri de acumulare pentru hidroenergie.",
+      en: "The Mat River in Northern Albania is defined by its deep canyons and the large reservoirs used for national electricity production.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 115 km", "Dämme: Ulëza, Shkopet", "Einzugsgebiet: 2441 km²", "Mündung: Adria"],
+      hu: ["Hossz: 115 km", "Gátak: Ulëza, Shkopet", "Vízgyűjtő: 2441 km²", "Torkolat: Adria"],
+      ro: ["Lungime: 115 km", "Baraje: Ulëza, Shkopet", "Bazin: 2441 km²", "Vărsare: Marea Adriatică"],
+      en: ["Length: 115 km", "Dams: Ulëza, Shkopet", "Basin: 2441 km²", "Mouth: Adriatic Sea"],
+    },
+    image: "/poi-images/albania-mat-river-nature-v2.webp",
+},  {
     id: "albania-grama-bay-nature-v2",
     type: "landmark",
-    name: { de: "Grama-Bucht", hu: "Grama-öböl", ro: "Golful Grama", en: "Grama Bay" },
+    name: { de: "Grama-Bucht", hu: "Grama-öböl", ro: "Golful Grama", en: "Grama Bay",
+image: "/poi-images/albania-grama-bay-nature-v2.webp"
+},
     coordinates: { lat: 40.217, lng: 19.471 },
     description: {
       de: "Die Bucht von Grama an der Ionischen Küste war seit der Antike ein Schutzhafen für Seefahrer. An den Felswänden finden sich hunderte Inschriften aus über zwei Jahrtausenden.",
@@ -509,11 +899,26 @@ export const albaniaNatureV2: POI[] = [
       ro: ["Inscripțiile datează din secolul III î.Hr.", "Accesibil aproape exclusiv cu barca", "Situat pe coasta Munților Ceraunieni", "A servit drept carieră de piatră în antichitate"],
       en: ["Inscriptions date back to the 3rd century BC", "Accessible almost exclusively by boat", "Located on the Ceraunian Mountains coastline", "Served as an ancient stone quarry"],
     },
-    imageHint: "Grama Bay with ancient inscriptions on rocks", image: "/poi-images/albania-grama-bay-nature-v2.webp"},
-  {
+imageHint: "Grama Bay with ancient inscriptions on rocks",
+    descriptionAdvanced: {
+      de: "Die Bucht von Grama ist ein Juwel der Karaburun-Halbinsel, bekannt für hunderte antike Felsinschriften von Seefahrern.",
+      hu: "A Grama-öböl a Karaburun-félsziget gyöngyszeme, ahol tengerészek által hátrahagyott ókori sziklafeliratok százai láthatók.",
+      ro: "Golful Grama este o bijuterie a peninsulei Karaburun, faimos pentru sutele de inscripții antice lăsate în stâncă de marinari.",
+      en: "Grama Bay is a hidden cove on the Karaburun Peninsula, famous for hundreds of ancient rock inscriptions left by passing sailors.",
+    },
+    factsAdvanced: {
+      de: ["Inschriften: ca. 1500", "Zeitraum: Antike bis heute", "Status: Naturdenkmal", "Zugang: Nur per Boot"],
+      hu: ["Feliratok száma: kb. 1500", "Korszak: Ókortól napjainkig", "Státusz: Természeti emlék", "Elérés: Csak hajóval"],
+      ro: ["Inscripții: aprox. 1500", "Perioadă: Antichitate-prezent", "Statut: Monument natural", "Acces: Doar cu barca"],
+      en: ["Inscriptions: approx 1500", "Period: Antiquity to modern", "Status: Natural monument", "Access: Boat only"],
+    },
+    image: "/poi-images/albania-grama-bay-nature-v2.webp",
+},  {
     id: "albania-seman-river-nature-v2",
     type: "river",
-    name: { de: "Seman-Fluss", hu: "Seman-folyó", ro: "Râul Seman", en: "Seman River" },
+    name: { de: "Seman-Fluss", hu: "Seman-folyó", ro: "Râul Seman", en: "Seman River",
+image: "/poi-images/albania-seman-river-nature-v2.webp"
+},
     coordinates: { lat: 40.812, lng: 19.349 },
     description: {
       de: "Der Seman-Fluss entsteht durch den Zusammenfluss von Osum und Devoll und durchquert die fruchtbare Myzeqe-Ebene. Er ist ein lebenswichtiger Wasserweg für die Landwirtschaft Zentralalbaniens.",
@@ -528,5 +933,17 @@ export const albaniaNatureV2: POI[] = [
       en: ["Total length of 281 km including the Devoll", "Carries 2.5 billion cubic meters of water annually", "Flows through the Fier District", "High sediment load frequently shifts its delta"],
     },
     imageHint: "Seman River winding through the Myzeqe Plain",
+    descriptionAdvanced: {
+      de: "Der Seman entsteht durch den Zusammenfluss von Osum und Devoll und schlängelt sich durch die fruchtbare Myzeqe-Ebene.",
+      hu: "A Seman az Osum és a Devoll folyók egyesüléséből jön létre, és a termékeny Myzeqe-síkságon át kanyarog az Adriáig.",
+      ro: "Râul Seman este format prin confluența râurilor Osum și Devoll, șerpuind prin fertila câmpie Myzeqe spre Marea Adriatică.",
+      en: "The Seman River is formed by the confluence of the Osum and Devoll, winding through the fertile Myzeqe plain to the sea.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 85 km (ohne Quellflüsse)", "Region: Myzeqe-Ebene", "Delta: Adria-Küste", "Besonderheit: Hohe Sedimentlast"],
+      hu: ["Hossz: 85 km (források nélkül)", "Régió: Myzeqe-síkság", "Delta: Adriai-part", "Jellemző: Magas hordalék"],
+      ro: ["Lungime: 85 km (fără afluenți)", "Regiunea: Câmpia Myzeqe", "Delta: Coasta Adriatică", "Caracteristică: Sedimente bogate"],
+      en: ["Length: 85 km (main stem)", "Region: Myzeqe Plain", "Delta: Adriatic Coast", "Feature: High sediment load"],
+    },
   }
 ];

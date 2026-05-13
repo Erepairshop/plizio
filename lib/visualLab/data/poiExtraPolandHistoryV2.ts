@@ -4,7 +4,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-grunwald-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Tannenberg", hu: "Grunwaldi csatamező", ro: "Câmpul de luptă de la Grunwald", en: "Grunwald Battlefield" },
+    name: { de: "Schlachtfeld von Tannenberg", hu: "Grunwaldi csatamező", ro: "Câmpul de luptă de la Grunwald", en: "Grunwald Battlefield",
+image: "/poi-images/poland-grunwald-battlefield-history-v2.webp"
+},
     coords: [20.124, 53.484],
     coordinates: { lat: 53.484, lng: 20.124 },
     description: {
@@ -35,7 +37,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-biskupin-settlement-history-v2",
     type: "museum",
-    name: { de: "Archäologisches Reservat Biskupin", hu: "Biskupini régészeti rezervátum", ro: "Rezervația Arheologică Biskupin", en: "Biskupin Archaeological Museum" },
+    name: { de: "Archäologisches Reservat Biskupin", hu: "Biskupini régészeti rezervátum", ro: "Rezervația Arheologică Biskupin", en: "Biskupin Archaeological Museum",
+image: "/poi-images/poland-biskupin-settlement-history-v2.webp"
+},
     coords: [17.744, 52.788],
     coordinates: { lat: 52.788, lng: 17.744 },
     description: {
@@ -66,7 +70,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-westerplatte-history-v2",
     type: "monument",
-    name: { de: "Westerplatte Denkmal", hu: "Westerplatte-emlékmű", ro: "Monumentul de la Westerplatte", en: "Westerplatte Memorial" },
+    name: { de: "Westerplatte Denkmal", hu: "Westerplatte-emlékmű", ro: "Monumentul de la Westerplatte", en: "Westerplatte Memorial",
+image: "/poi-images/poland-westerplatte-history-v2.webp"
+},
     coords: [18.667, 54.407],
     coordinates: { lat: 54.407, lng: 18.667 },
     description: {
@@ -97,7 +103,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-wawel-castle-history-v2",
     type: "castle",
-    name: { de: "Königsschloss Wawel", hu: "Waweli királyi vár", ro: "Castelul Regal Wawel", en: "Wawel Royal Castle" },
+    name: { de: "Königsschloss Wawel", hu: "Waweli királyi vár", ro: "Castelul Regal Wawel", en: "Wawel Royal Castle",
+image: "/poi-images/poland-wawel-castle-history-v2.webp"
+},
     coords: [19.936, 50.054],
     coordinates: { lat: 50.054, lng: 19.936 },
     description: {
@@ -128,7 +136,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-malbork-castle-history-v2",
     type: "castle",
-    name: { de: "Marienburg", hu: "Malborki vár", ro: "Castelul Malbork", en: "Malbork Castle" },
+    name: { de: "Marienburg", hu: "Malborki vár", ro: "Castelul Malbork", en: "Malbork Castle",
+image: "/poi-images/poland-malbork-castle-history-v2.webp"
+},
     coords: [19.028, 54.039],
     coordinates: { lat: 54.039, lng: 19.028 },
     description: {
@@ -159,7 +169,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-auschwitz-birkenau-history-v2",
     type: "museum",
-    name: { de: "Auschwitz-Birkenau Denkmal", hu: "Auschwitz-Birkenau emlékhely", ro: "Memorialul Auschwitz-Birkenau", en: "Auschwitz-Birkenau Memorial" },
+    name: { de: "Auschwitz-Birkenau Denkmal", hu: "Auschwitz-Birkenau emlékhely", ro: "Memorialul Auschwitz-Birkenau", en: "Auschwitz-Birkenau Memorial",
+image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp"
+},
     coords: [19.202, 50.027],
     coordinates: { lat: 50.027, lng: 19.202 },
     description: {
@@ -190,7 +202,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-wolfs-lair-history-v2",
     type: "ruins",
-    name: { de: "Wolfsschanze", hu: "Farkasodú", ro: "Bârlogul Lupului", en: "Wolf's Lair" },
+    name: { de: "Wolfsschanze", hu: "Farkasodú", ro: "Bârlogul Lupului", en: "Wolf's Lair",
+image: "/poi-images/poland-wolfs-lair-history-v2.webp"
+},
     coords: [21.494, 54.081],
     coordinates: { lat: 54.081, lng: 21.494 },
     description: {
@@ -221,7 +235,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-wilanow-palace-history-v2",
     type: "palace",
-    name: { de: "Schloss Wilanów", hu: "Wilanówi palota", ro: "Palatul Wilanów", en: "Wilanów Palace" },
+    name: { de: "Schloss Wilanów", hu: "Wilanówi palota", ro: "Palatul Wilanów", en: "Wilanów Palace",
+image: "/poi-images/poland-wilanow-palace-history-v2.webp"
+},
     coords: [21.09, 52.165],
     coordinates: { lat: 52.165, lng: 21.09 },
     description: {
@@ -252,7 +268,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-jasna-gora-monastery-history-v2",
     type: "church",
-    name: { de: "Kloster Jasna Góra", hu: "Jasna Góra-i kolostor", ro: "Mănăstirea Jasna Góra", en: "Jasna Góra Monastery" },
+    name: { de: "Kloster Jasna Góra", hu: "Jasna Góra-i kolostor", ro: "Mănăstirea Jasna Góra", en: "Jasna Góra Monastery",
+image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp"
+},
     coords: [19.097, 50.812],
     coordinates: { lat: 50.812, lng: 19.097 },
     description: {
@@ -283,7 +301,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-zamosc-old-town-history-v2",
     type: "town",
-    name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Orașul vechi Zamość", en: "Zamość Old Town" },
+    name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Orașul vechi Zamość", en: "Zamość Old Town",
+image: "/poi-images/poland-zamosc-old-town-history-v2.webp"
+},
     coords: [23.252, 50.717],
     coordinates: { lat: 50.717, lng: 23.252 },
     description: {
@@ -314,7 +334,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-krzemionki-mines-history-v2",
     type: "mine",
-    name: { de: "Feuersteinbergwerke Krzemionki", hu: "Krzemionki kovabánya", ro: "Minele de silex Krzemionki", en: "Krzemionki Flint Mines" },
+    name: { de: "Feuersteinbergwerke Krzemionki", hu: "Krzemionki kovabánya", ro: "Minele de silex Krzemionki", en: "Krzemionki Flint Mines",
+image: "/poi-images/poland-krzemionki-mines-history-v2.webp"
+},
     coords: [21.488, 50.969],
     coordinates: { lat: 50.969, lng: 21.488 },
     description: {
@@ -345,7 +367,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-lancut-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle" },
+    name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle",
+image: "/poi-images/poland-lancut-castle-history-v2.webp"
+},
     coords: [22.234, 50.068],
     coordinates: { lat: 50.068, lng: 22.234 },
     description: {
@@ -376,7 +400,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-ksiaz-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Fürstenstein", hu: "Książ vára", ro: "Castelul Książ", en: "Książ Castle" },
+    name: { de: "Schloss Fürstenstein", hu: "Książ vára", ro: "Castelul Książ", en: "Książ Castle",
+image: "/poi-images/poland-ksiaz-castle-history-v2.webp"
+},
     coords: [16.292, 50.842],
     coordinates: { lat: 50.842, lng: 16.292 },
     description: {
@@ -407,7 +433,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-ostrow-lednicki-history-v2",
     type: "ruins",
-    name: { de: "Ostrów Lednicki", hu: "Ostrów Lednicki", ro: "Ostrów Lednicki", en: "Ostrów Lednicki" },
+    name: { de: "Ostrów Lednicki", hu: "Ostrów Lednicki", ro: "Ostrów Lednicki", en: "Ostrów Lednicki",
+image: "/poi-images/poland-ostrow-lednicki-history-v2.webp"
+},
     coords: [17.377, 52.526],
     coordinates: { lat: 52.526, lng: 17.377 },
     description: {
@@ -438,7 +466,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-gniezno-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Gnesen", hu: "Gnieznói székesegyház", ro: "Catedrala din Gniezno", en: "Gniezno Cathedral" },
+    name: { de: "Kathedrale von Gnesen", hu: "Gnieznói székesegyház", ro: "Catedrala din Gniezno", en: "Gniezno Cathedral",
+image: "/poi-images/poland-gniezno-cathedral-history-v2.webp"
+},
     coords: [17.592, 52.536],
     coordinates: { lat: 52.536, lng: 17.592 },
     description: {
@@ -469,7 +499,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-torun-old-town-history-v2",
     type: "town",
-    name: { de: "Altstadt von Toruń", hu: "Toruń óvárosa", ro: "Orașul vechi Toruń", en: "Toruń Old Town" },
+    name: { de: "Altstadt von Toruń", hu: "Toruń óvárosa", ro: "Orașul vechi Toruń", en: "Toruń Old Town",
+image: "/poi-images/poland-torun-old-town-history-v2.webp"
+},
     coords: [18.604, 53.01],
     coordinates: { lat: 53.01, lng: 18.604 },
     description: {
@@ -500,7 +532,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-kazimierz-dolny-history-v2",
     type: "town",
-    name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny" },
+    name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny",
+image: "/poi-images/poland-kazimierz-dolny-history-v2.webp"
+},
     coords: [21.948, 51.321],
     coordinates: { lat: 51.321, lng: 21.948 },
     description: {
@@ -531,7 +565,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-frombork-cathedral-history-v2",
     type: "cathedral",
-    name: { de: "Kathedrale von Frombork", hu: "Fromborki székesegyház", ro: "Catedrala din Frombork", en: "Frombork Cathedral" },
+    name: { de: "Kathedrale von Frombork", hu: "Fromborki székesegyház", ro: "Catedrala din Frombork", en: "Frombork Cathedral",
+image: "/poi-images/poland-frombork-cathedral-history-v2.webp"
+},
     coords: [19.681, 54.357],
     coordinates: { lat: 54.357, lng: 19.681 },
     description: {
@@ -562,7 +598,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-raclawice-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Racławice", hu: "Racławicei csatamező", ro: "Câmpul de luptă de la Racławice", en: "Racławice Battlefield" },
+    name: { de: "Schlachtfeld von Racławice", hu: "Racławicei csatamező", ro: "Câmpul de luptă de la Racławice", en: "Racławice Battlefield",
+image: "/poi-images/poland-raclawice-battlefield-history-v2.webp"
+},
     coords: [20.245, 50.315],
     coordinates: { lat: 50.315, lng: 20.245 },
     description: {
@@ -593,7 +631,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-pszczyna-castle-history-v2",
     type: "castle",
-    name: { de: "Schloss Pszczyna", hu: "Pszczyna-i kastély", ro: "Castelul Pszczyna", en: "Pszczyna Castle" },
+    name: { de: "Schloss Pszczyna", hu: "Pszczyna-i kastély", ro: "Castelul Pszczyna", en: "Pszczyna Castle",
+image: "/poi-images/poland-pszczyna-castle-history-v2.webp"
+},
     coords: [18.942, 49.978],
     coordinates: { lat: 49.978, lng: 18.942 },
     description: {
@@ -624,7 +664,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-kozlowka-palace-history-v2",
     type: "palace",
-    name: { de: "Palast in Kozłówka", hu: "Kozłówkai palota", ro: "Palatul Kozłówka", en: "Kozłówka Palace" },
+    name: { de: "Palast in Kozłówka", hu: "Kozłówkai palota", ro: "Palatul Kozłówka", en: "Kozłówka Palace",
+image: "/poi-images/poland-kozlowka-palace-history-v2.webp"
+},
     coords: [22.489, 51.459],
     coordinates: { lat: 51.459, lng: 22.489 },
     description: {
@@ -655,7 +697,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-srebrna-gora-fortress-history-v2",
     type: "monument",
-    name: { de: "Festung Silberberg", hu: "Ezüsthegyi erőd", ro: "Cetatea Srebrna Góra", en: "Srebrna Góra Fortress" },
+    name: { de: "Festung Silberberg", hu: "Ezüsthegyi erőd", ro: "Cetatea Srebrna Góra", en: "Srebrna Góra Fortress",
+image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp"
+},
     coords: [16.647, 50.57],
     coordinates: { lat: 50.57, lng: 16.647 },
     description: {
@@ -686,7 +730,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-modlin-fortress-history-v2",
     type: "monument",
-    name: { de: "Festung Modlin", hu: "Modlini erőd", ro: "Cetatea Modlin", en: "Modlin Fortress" },
+    name: { de: "Festung Modlin", hu: "Modlini erőd", ro: "Cetatea Modlin", en: "Modlin Fortress",
+image: "/poi-images/poland-modlin-fortress-history-v2.webp"
+},
     coords: [20.686, 52.438],
     coordinates: { lat: 52.438, lng: 20.686 },
     description: {
@@ -717,7 +763,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-cedynia-battlefield-history-v2",
     type: "battlefield",
-    name: { de: "Schlachtfeld von Cedynia", hu: "Cedyniai csatamező", ro: "Câmpul de luptă de la Cedynia", en: "Cedynia Battlefield" },
+    name: { de: "Schlachtfeld von Cedynia", hu: "Cedyniai csatamező", ro: "Câmpul de luptă de la Cedynia", en: "Cedynia Battlefield",
+image: "/poi-images/poland-cedynia-battlefield-history-v2.webp"
+},
     coords: [14.202, 52.879],
     coordinates: { lat: 52.879, lng: 14.202 },
     description: {
@@ -748,7 +796,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-chelmno-old-town-history-v2",
     type: "town",
-    name: { de: "Altstadt von Chełmno", hu: "Chełmno óvárosa", ro: "Orașul vechi Chełmno", en: "Chełmno Old Town" },
+    name: { de: "Altstadt von Chełmno", hu: "Chełmno óvárosa", ro: "Orașul vechi Chełmno", en: "Chełmno Old Town",
+image: "/poi-images/poland-chelmno-old-town-history-v2.webp"
+},
     coords: [18.423, 53.348],
     coordinates: { lat: 53.348, lng: 18.423 },
     description: {
@@ -779,7 +829,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-tyniec-abbey-history-v2",
     type: "church",
-    name: { de: "Abtei Tyniec", hu: "Tynieci apátság", ro: "Abația Tyniec", en: "Tyniec Abbey" },
+    name: { de: "Abtei Tyniec", hu: "Tynieci apátság", ro: "Abația Tyniec", en: "Tyniec Abbey",
+image: "/poi-images/poland-tyniec-abbey-history-v2.webp"
+},
     coords: [19.802, 50.02],
     coordinates: { lat: 50.02, lng: 19.802 },
     description: {
@@ -810,7 +862,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-kalwaria-zebrzydowska-history-v2",
     type: "park",
-    name: { de: "Kalwaria Zebrzydowska", hu: "Kalwaria Zebrzydowska", ro: "Kalwaria Zebrzydowska", en: "Kalwaria Zebrzydowska" },
+    name: { de: "Kalwaria Zebrzydowska", hu: "Kalwaria Zebrzydowska", ro: "Kalwaria Zebrzydowska", en: "Kalwaria Zebrzydowska",
+image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp"
+},
     coords: [19.671, 49.859],
     coordinates: { lat: 49.859, lng: 19.671 },
     description: {
@@ -841,7 +895,9 @@ export const polandHistoryV2: POI[] = [
   {
     id: "poland-muskau-park-history-v2",
     type: "park",
-    name: { de: "Fürst-Pückler-Park Bad Muskau", hu: "Muskaui park", ro: "Parcul Muskau", en: "Muskau Park" },
+    name: { de: "Fürst-Pückler-Park Bad Muskau", hu: "Muskaui park", ro: "Parcul Muskau", en: "Muskau Park",
+image: "/poi-images/poland-muskau-park-history-v2.webp"
+},
     coords: [14.721, 51.547],
     coordinates: { lat: 51.547, lng: 14.721 },
     description: {

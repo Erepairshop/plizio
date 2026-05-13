@@ -4,7 +4,9 @@ export const swedenNatureV2: POI[] = [
   {
     id: "sweden-vanern-nature-v2",
     type: "lake",
-    name: { de: "Vänern", hu: "Vänern", ro: "Vänern", en: "Vänern" },
+    name: { de: "Vänern", hu: "Vänern", ro: "Vänern", en: "Vänern",
+image: "/poi-images/sweden-vanern-nature-v2.webp"
+},
     coords: [13.5, 58.9],
     coordinates: { lat: 58.9, lng: 13.5 },
     description: {
@@ -19,11 +21,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5.650 km²", "Adâncimea maximă este de 106 metri", "Principalul afluent este râul Klarälven", "Găzduiește arhipelagul Lurö"],
       en: ["Surface area of approx. 5,650 km²", "Maximum depth is 106 meters", "Main tributary is the Klarälven river", "Contains more than 22,000 islands"],
     },
-    imageHint: "Large blue lake with rocky islands and small lighthouse in Sweden", image: "/poi-images/sweden-vanern-nature-v2.webp"},
-  {
+imageHint: "Large blue lake with rocky islands and small lighthouse in Sweden",
+    descriptionAdvanced: {
+      de: "Der Vänern ist der größte See Schwedens und der Europäischen Union. Mit über 5.600 Quadratkilometern Fläche prägt er das Klima und die Wirtschaft Westschwedens maßgeblich.",
+      hu: "Svédország és az Európai Unió legnagyobb tava, amely több mint 5600 négyzetkilométeren terül el. Fontos vízi út, amelyet a Göta-csatorna köt össze az óceánnal.",
+      ro: "Vänern este cel mai mare lac din Suedia și din Uniunea Europeană. Cu o suprafață de peste 5.600 km², acesta joacă un rol crucial în transportul naval și ecosistemul regional.",
+      en: "Vänern is the largest lake in Sweden and the European Union, covering 5,650 square kilometres. It features an archipelago of over 22,000 islands and a unique inland ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 5.650 km²", "Maximale Tiefe: 106 Meter", "Über 22.000 Inseln", "Wasserspiegel: 44 m ü. M."],
+      hu: ["Területe: 5650 km²", "Maximális mélysége: 106 méter", "22 000-nél több sziget", "Vízszint: 44 m tengerszint felett"],
+      ro: ["Suprafață: 5.650 km²", "Adâncime maximă: 106 metri", "Peste 22.000 de insule", "Altitudine: 44 m peste nivelul mării"],
+      en: ["Surface area: 5,650 km²", "Maximum depth: 106 metres", "Over 22,000 islands", "Elevation: 44 m above sea level"],
+    },
+    image: "/poi-images/sweden-vanern-nature-v2.webp",
+},  {
     id: "sweden-vattern-nature-v2",
     type: "lake",
-    name: { de: "Vättern", hu: "Vättern", ro: "Vättern", en: "Vättern" },
+    name: { de: "Vättern", hu: "Vättern", ro: "Vättern", en: "Vättern",
+image: "/poi-images/sweden-vattern-nature-v2.webp"
+},
     coords: [14.5, 58.3],
     coordinates: { lat: 58.3, lng: 14.5 },
     description: {
@@ -38,11 +55,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 1.912 km²", "Adâncime maximă de 128 de metri", "Gazda cursei de ciclism Vätternrundan", "Sursă de apă potabilă pentru 250.000 de oameni"],
       en: ["Surface area of approx. 1,912 km²", "Maximum depth of 128 meters", "Host of the Vätternrundan cycling race", "Drinking water source for 250,000 people"],
     },
-    imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visingsö", image: "/poi-images/sweden-vattern-nature-v2.webp"},
-  {
+imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visingsö",
+    descriptionAdvanced: {
+      de: "Der Vättern ist der zweitgrößte See Schwedens und bekannt für sein extrem klares Wasser. Er ist ein tiefer Grabenbruchsee, der für seine tückischen schnellen Wetterumschwünge berüchtigt ist.",
+      hu: "Svédország második legnagyobb tava, amely kristálytiszta vizéről és nagy mélységéről ismert. A tektonikus eredetű tó híres a hirtelen kialakuló viharairól és hullámairól.",
+      ro: "Vättern este al doilea cel mai mare lac din Suedia, faimos pentru apa sa extrem de limpede. Este un lac tectonic adânc, cunoscut pentru schimbările sale meteorologice bruște.",
+      en: "Vättern is Sweden's second-largest lake, renowned for its remarkably clear water. As a deep graben lake, it is subject to sudden storms due to its unique geological structure.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.912 km²", "Tiefe: bis zu 128 Meter", "Sichtweite: bis zu 15 Meter", "Länge: etwa 135 Kilometer"],
+      hu: ["Területe: 1912 km²", "Mélysége: akár 128 méter", "Látótávolság: akár 15 méter", "Hossza: kb. 135 kilométer"],
+      ro: ["Suprafață: 1.912 km²", "Adâncime: până la 128 metri", "Vizibilitate: până la 15 metri", "Lungime: aproximativ 135 km"],
+      en: ["Surface area: 1,912 km²", "Depth: up to 128 metres", "Visibility: up to 15 metres", "Length: approx. 135 kilometres"],
+    },
+    image: "/poi-images/sweden-vattern-nature-v2.webp",
+},  {
     id: "sweden-kebnekaise-nature-v2",
     type: "peak",
-    name: { de: "Kebnekaise", hu: "Kebnekaise", ro: "Kebnekaise", en: "Kebnekaise" },
+    name: { de: "Kebnekaise", hu: "Kebnekaise", ro: "Kebnekaise", en: "Kebnekaise",
+image: "/poi-images/sweden-kebnekaise-nature-v2.webp"
+},
     coords: [18.51, 67.9],
     coordinates: { lat: 67.9, lng: 18.51 },
     description: {
@@ -57,11 +89,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 2.097 metri", "Situat în comuna Kiruna", "Destinație populară pentru alpiniști", "Vârful nordic este format din stâncă solidă"],
       en: ["Height approx. 2,097 meters", "Located in Kiruna Municipality", "Popular destination for hikers", "North peak consists of solid rock"],
     },
-    imageHint: "Snow-capped peaks of Kebnekaise mountain under a clear sky", image: "/poi-images/sweden-kebnekaise-nature-v2.webp"},
-  {
+imageHint: "Snow-capped peaks of Kebnekaise mountain under a clear sky",
+    descriptionAdvanced: {
+      de: "Das Kebnekaise-Massiv beherbergt den höchsten Punkt Schwedens. Aufgrund der Gletscherschmelze wechselt der Status des höchsten Gipfels zwischen der Süd- und der Nordspitze.",
+      hu: "A Kebnekaise-masszívum Svédország legmagasabb pontja Lappföldön. A gleccser olvadása miatt a déli és az északi csúcs magassága évről évre vetekszik egymással.",
+      ro: "Masivul Kebnekaise adăpostește cel mai înalt punct din Suedia. Din cauza topirii ghețarilor, statutul de cel mai înalt vârf alternează între vârful sudic și cel nordic.",
+      en: "The Kebnekaise massif contains Sweden's highest peaks in Lapland. Due to glacial melting, the title of highest point fluctuates between the south and north summits.",
+    },
+    factsAdvanced: {
+      de: ["Höhe Nordgipfel: 2.096,8 m", "Lage: Kiruna Kommune", "Erstbesteigung: 1883", "Gletscherrückgang: ca. 1m/Jahr"],
+      hu: ["Északi csúcs: 2096,8 méter", "Helyszín: Kiruna község", "Első megmászás: 1883", "Gleccserolvadás: kb. 1 m/év"],
+      ro: ["Vârf nordic: 2.096,8 metri", "Locație: Comuna Kiruna", "Prima escaladare: 1883", "Retragerea ghețarului: cca. 1m/an"],
+      en: ["North peak: 2,096.8 metres", "Location: Kiruna Municipality", "First ascent: 1883", "Glacial retreat: ~1m per year"],
+    },
+    image: "/poi-images/sweden-kebnekaise-nature-v2.webp",
+},  {
     id: "sweden-torne-river-nature-v2",
     type: "river",
-    name: { de: "Torne älv", hu: "Torne-folyó", ro: "Râul Torne", en: "Torne River" },
+    name: { de: "Torne älv", hu: "Torne-folyó", ro: "Râul Torne", en: "Torne River",
+image: "/poi-images/sweden-torne-river-nature-v2.webp"
+},
     coords: [22.0, 67.1],
     coordinates: { lat: 67.1, lng: 22.0 },
     description: {
@@ -76,11 +123,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de aprox. 522 km", "Sursă de gheață pentru celebrul Icehotel", "Zonă importantă de reproducere a somonului", "Se varsă în Golful Botnic"],
       en: ["Total length of approx. 522 km", "Source of ice for the Jukkasjärvi Icehotel", "Important spawning ground for salmon", "Flows into the Gulf of Bothnia"],
     },
-    imageHint: "Wide river flowing through snowy pine forests in Lapland", image: "/poi-images/sweden-torne-river-nature-v2.webp"},
-  {
+imageHint: "Wide river flowing through snowy pine forests in Lapland",
+    descriptionAdvanced: {
+      de: "Der Torne älv ist einer der wenigen unverbauten Flüsse Europas und bildet die Grenze zu Finnland. Sein reines Wasser ist die Quelle für das berühmte Eishotel in Jukkasjärvi.",
+      hu: "A Torne-folyó Európa egyik utolsó szabályozatlan folyója, amely természetes határt alkot Finnországgal. Tiszta vize adja az alapanyagot a híres jukkasjärvi jégszállóhoz.",
+      ro: "Râul Torne este unul dintre puținele râuri neamenajate din Europa, formând granița cu Finlanda. Apa sa pură este sursa de gheață pentru celebrul Icehotel din Jukkasjärvi.",
+      en: "The Torne River is one of Europe's last wild rivers, forming a natural border with Finland. Its pristine water provides ice for the world-famous Icehotel in Jukkasjärvi.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 522 Kilometer", "Einzugsgebiet: 40.157 km²", "Grenzfluss seit: 1809", "Keine Wasserkraftwerke"],
+      hu: ["Hossza: 522 kilométer", "Vízgyűjtő terület: 40 157 km²", "Határfolyó: 1809 óta", "Zéró vízi erőmű"],
+      ro: ["Lungime: 522 kilometri", "Bazin hidrografic: 40.157 km²", "Graniță din: 1809", "Fără hidrocentrale"],
+      en: ["Length: 522 kilometres", "Basin area: 40,157 km²", "Border river since: 1809", "Zero hydroelectric dams"],
+    },
+    image: "/poi-images/sweden-torne-river-nature-v2.webp",
+},  {
     id: "sweden-oland-nature-v2",
     type: "landmark",
-    name: { de: "Öland", hu: "Öland", ro: "Öland", en: "Öland" },
+    name: { de: "Öland", hu: "Öland", ro: "Öland", en: "Öland",
+image: "/poi-images/sweden-oland-nature-v2.webp"
+},
     coords: [16.65, 56.75],
     coordinates: { lat: 56.75, lng: 16.65 },
     description: {
@@ -95,11 +157,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Conectată prin podul Öland de 6 km", "Are peste 300 de mori de vânt istorice", "Reședința de vară a familiei regale", "Faimoasă pentru specii rare de orhidee"],
       en: ["Connected by the 6 km long Öland Bridge", "Features over 300 historic windmills", "Summer residence of the Swedish Royal Family", "Famous for rare species of orchids"],
     },
-    imageHint: "Traditional wooden windmills on a flat green field in Öland", image: "/poi-images/sweden-oland-nature-v2.webp"},
-  {
+imageHint: "Traditional wooden windmills on a flat green field in Öland",
+    descriptionAdvanced: {
+      de: "Öland ist die zweitgrößte Insel Schwedens und bekannt für ihre einzigartige Kalksteinebene Stora Alvaret. Die Insel ist über eine sechs Kilometer lange Brücke mit dem Festland verbunden.",
+      hu: "Öland Svédország második legnagyobb szigete, híres a Stora Alvaret mészkőfennsíkjáról. A szigetet egy hat kilométer hosszú híd köti össze Kalmar városával és a szárazfölddel.",
+      ro: "Öland este a doua cea mai mare insulă din Suedia, cunoscută pentru platoul calcaros Stora Alvaret. Insula este legată de continent printr-un pod lung de șase kilometri.",
+      en: "Öland is Sweden's second-largest island, famous for its unique limestone plateau, Stora Alvaret. A six-kilometre bridge connects the island to the mainland city of Kalmar.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.347 km²", "Höchster Punkt: 57 Meter", "Über 400 Windmühlen", "Stora Alvaret: UNESCO-Erbe"],
+      hu: ["Területe: 1347 km²", "Legmagasabb pont: 57 méter", "Több mint 400 szélmalom", "Stora Alvaret: UNESCO helyszín"],
+      ro: ["Suprafață: 1.347 km²", "Punct maxim: 57 metri", "Peste 400 de mori de vânt", "Stora Alvaret: Sit UNESCO"],
+      en: ["Surface area: 1,347 km²", "Highest point: 57 metres", "Over 400 windmills", "Stora Alvaret: UNESCO site"],
+    },
+    image: "/poi-images/sweden-oland-nature-v2.webp",
+},  {
     id: "sweden-gotland-nature-v2",
     type: "landmark",
-    name: { de: "Gotland", hu: "Gotland", ro: "Gotland", en: "Gotland" },
+    name: { de: "Gotland", hu: "Gotland", ro: "Gotland", en: "Gotland",
+image: "/poi-images/sweden-gotland-nature-v2.webp"
+},
     coords: [18.5, 57.5],
     coordinates: { lat: 57.5, lng: 18.5 },
     description: {
@@ -114,11 +191,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 2.994 km²", "Centru comercial important al Hansei", "Locul de origine al oilor de Gotland", "Adăpostește circa 92 de biserici medievale"],
       en: ["Surface area of approx. 2,994 km²", "Important trading hub of the Hanseatic League", "Home to the unique Gotland sheep", "Contains around 92 medieval churches"],
     },
-    imageHint: "Limestone sea stacks (raukar) on the coast of Gotland", image: "/poi-images/sweden-gotland-nature-v2.webp"},
-  {
+imageHint: "Limestone sea stacks (raukar) on the coast of Gotland",
+    descriptionAdvanced: {
+      de: "Gotland ist die größte Insel der Ostsee und zeichnet sich durch markante Kalksteinsäulen, die Raukar, aus. Die mittelalterliche Hauptstadt Visby gehört zum UNESCO-Welterbe.",
+      hu: "Gotland a Balti-tenger legnagyobb szigete, jellegzetes mészkőoszlopairól, a raukokról ismert. Középkori fővárosa, Visby az UNESCO Világörökség része.",
+      ro: "Gotland este cea mai mare insulă din Marea Baltică, renumită pentru coloanele sale de calcar numite raukar. Visby, capitala medievală, este inclusă în patrimoniul UNESCO.",
+      en: "Gotland is the largest island in the Baltic Sea, distinguished by its iconic limestone sea stacks called raukar. Its medieval capital, Visby, is a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 2.994 km²", "Küste: 800 km Länge", "Über 90 mittelalterliche Kirchen", "Sonnigste Region Schwedens"],
+      hu: ["Területe: 2994 km²", "Partvonal: 800 km", "Több mint 90 középkori templom", "Svédország legnaposabb tája"],
+      ro: ["Suprafață: 2.994 km²", "Țărm: 800 km lungime", "Peste 90 de biserici medievale", "Cea mai însorită regiune"],
+      en: ["Surface area: 2,994 km²", "Coastline: 800 km", "Over 90 medieval churches", "Sunniest region in Sweden"],
+    },
+    image: "/poi-images/sweden-gotland-nature-v2.webp",
+},  {
     id: "sweden-klaralven-nature-v2",
     type: "river",
-    name: { de: "Klarälven", hu: "Klarälven", ro: "Klarälven", en: "Klarälven" },
+    name: { de: "Klarälven", hu: "Klarälven", ro: "Klarälven", en: "Klarälven",
+image: "/poi-images/sweden-klaralven-nature-v2.webp"
+},
     coords: [13.5, 60.0],
     coordinates: { lat: 60.0, lng: 13.5 },
     description: {
@@ -133,11 +225,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de aprox. 460 km", "Cel mai mare afluent al lacului Vänern", "Oferă oportunități de observare a castorilor", "Cunoscut pentru meandrele sale spectaculoase"],
       en: ["Total length approx. 460 km", "Largest tributary of Lake Vänern", "Offers opportunities for beaver spotting", "Known for its distinct meandering loops"],
     },
-    imageHint: "River Klarälven with log rafts floating on the water", image: "/poi-images/sweden-klaralven-nature-v2.webp"},
-  {
+imageHint: "River Klarälven with log rafts floating on the water",
+    descriptionAdvanced: {
+      de: "Der Klarälven ist der längste Fluss Skandinaviens, wenn man seinen Verlauf durch Norwegen mitzählt. Er ist historisch bedeutend für die Flößerei und den Holztransport.",
+      hu: "A Klarälven Skandinávia leghosszabb folyórendszere, ha a norvég szakaszt is beleszámítjuk. Történelmileg a faúsztatás és az erdőgazdálkodás legfontosabb útvonala volt.",
+      ro: "Klarälven este cel mai lung râu din Scandinavia dacă includem cursul său norvegian. Istoric, a fost esențial pentru plutăritul buștenilor și industria lemnului.",
+      en: "Klarälven is Scandinavia's longest river system when including its Norwegian section. Historically, it was vital for log driving and timber transportation to the south.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 460 km", "Einmündung: Vänersee", "Letzte Flößerei: 1991", "Großes Delta bei Karlstad"],
+      hu: ["Teljes hossz: 460 km", "Torkolat: Vänern-tó", "Utolsó faúsztatás: 1991", "Hatalmas delta Karlstadnál"],
+      ro: ["Lungime totală: 460 km", "Vărsare: Lacul Vänern", "Ultimul plutărit: 1991", "Deltă majoră la Karlstad"],
+      en: ["Total length: 460 km", "Outlet: Lake Vänern", "Last log drive: 1991", "Large delta at Karlstad"],
+    },
+    image: "/poi-images/sweden-klaralven-nature-v2.webp",
+},  {
     id: "sweden-siljan-nature-v2",
     type: "lake",
-    name: { de: "Siljan", hu: "Siljan-tó", ro: "Lacul Siljan", en: "Siljan" },
+    name: { de: "Siljan", hu: "Siljan-tó", ro: "Lacul Siljan", en: "Siljan",
+image: "/poi-images/sweden-siljan-nature-v2.webp"
+},
     coords: [14.6, 60.85],
     coordinates: { lat: 60.85, lng: 14.6 },
     description: {
@@ -152,11 +259,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 290 km²", "Al șaselea lac ca mărime din Suedia", "Găzduiește insula Sollerön", "Centrul culturii tradiționale din Dalarna"],
       en: ["Surface area of approx. 290 km²", "Sixth largest lake in Sweden", "Home to the island of Sollerön", "Heart of traditional Dalarna culture"],
     },
-    imageHint: "Blue lake Siljan with traditional red wooden houses on the shore", image: "/poi-images/sweden-siljan-nature-v2.webp"},
-  {
+imageHint: "Blue lake Siljan with traditional red wooden houses on the shore",
+    descriptionAdvanced: {
+      de: "Der Siljan-See liegt im größten Einschlagkrater Europas, dem Siljan-Ring. Diese geologische Formation entstand vor etwa 377 Millionen Jahren durch einen Meteoriteneinschlag.",
+      hu: "A Siljan-tó Európa legnagyobb becsapódási kráterében, a Siljan-gyűrűben található. A geológiai képződményt egy 377 millió évvel ezelőtti meteoritbecsapódás hozta létre.",
+      ro: "Lacul Siljan este situat în cel mai mare crater de impact din Europa, Inelul Siljan. Această formațiune s-a format acum 377 de milioane de ani în urma unui impact de meteorit.",
+      en: "Lake Siljan lies within Europe's largest impact crater, the Siljan Ring. This geological formation was created by a massive meteorite strike approximately 377 million years ago.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 290 km²", "Tiefe: 134 Meter", "Kraterdurchmesser: 52 km", "Alter: 377 Mio. Jahre"],
+      hu: ["Területe: 290 km²", "Mélysége: 134 méter", "Kráter átmérője: 52 km", "Kora: 377 millió év"],
+      ro: ["Suprafață: 290 km²", "Adâncime: 134 metri", "Diametru crater: 52 km", "Vârstă: 377 milioane ani"],
+      en: ["Surface area: 290 km²", "Depth: 134 metres", "Crater diameter: 52 km", "Age: 377 million years"],
+    },
+    image: "/poi-images/sweden-siljan-nature-v2.webp",
+},  {
     id: "sweden-njupeskar-nature-v2",
     type: "landmark",
-    name: { de: "Njupeskär", hu: "Njupeskär-vízesés", ro: "Cascada Njupeskär", en: "Njupeskär Waterfall" },
+    name: { de: "Njupeskär", hu: "Njupeskär-vízesés", ro: "Cascada Njupeskär", en: "Njupeskär Waterfall",
+image: "/poi-images/sweden-njupeskar-nature-v2.webp"
+},
     coords: [12.68, 61.63],
     coordinates: { lat: 61.63, lng: 12.68 },
     description: {
@@ -171,11 +293,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime totală de 93 de metri", "Situată în provincia Dalarna", "Iarna îngheață adesea complet", "Destinație populară pentru cățărare pe gheață"],
       en: ["Total height of 93 meters", "Located in Dalarna province", "Often completely frozen in winter", "Popular spot for ice climbing"],
     },
-    imageHint: "High waterfall plunging into a narrow canyon in Sweden", image: "/poi-images/sweden-njupeskar-nature-v2.webp"},
-  {
+imageHint: "High waterfall plunging into a narrow canyon in Sweden",
+    descriptionAdvanced: {
+      de: "Der Njupeskär im Nationalpark Fulufjället ist einer der höchsten Wasserfälle Schwedens. Das Wasser stürzt über eine steile Sandsteinkante fast 100 Meter in die Tiefe.",
+      hu: "A Njupeskär a Fulufjället Nemzeti Parkban található, Svédország egyik legmagasabb vízesése. A víz csaknem 100 méteres mélységbe zúdul le egy meredek homokkőfalról.",
+      ro: "Njupeskär, situat în Parcul Național Fulufjället, este una dintre cele mai înalte cascade din Suedia. Apa cade de la aproape 100 de metri peste o margine de gresie.",
+      en: "Njupeskär in Fulufjället National Park is one of Sweden's highest waterfalls. The water plunges nearly 100 metres over a sheer sandstone edge into the canyon below.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 93 Meter", "Freier Fall: 70 Meter", "Lage: Fulufjället Park", "Ältester Baum (Old Tjikko) nah"],
+      hu: ["Teljes magasság: 93 méter", "Szabad esés: 70 méter", "Helyszín: Fulufjället park", "Old Tjikko (9550 év) közelében"],
+      ro: ["Înălțime totală: 93 metri", "Cădere liberă: 70 metri", "Locație: Parcul Fulufjället", "Aproape de cel mai vechi arbore"],
+      en: ["Total height: 93 metres", "Free fall: 70 metres", "Location: Fulufjället Park", "Near Old Tjikko (9,550 years)"],
+    },
+    image: "/poi-images/sweden-njupeskar-nature-v2.webp",
+},  {
     id: "sweden-storforsen-nature-v2",
     type: "landmark",
-    name: { de: "Storforsen", hu: "Storforsen", ro: "Storforsen", en: "Storforsen" },
+    name: { de: "Storforsen", hu: "Storforsen", ro: "Storforsen", en: "Storforsen",
+image: "/poi-images/sweden-storforsen-nature-v2.webp"
+},
     coords: [20.4, 65.85],
     coordinates: { lat: 65.85, lng: 20.4 },
     description: {
@@ -190,11 +327,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Cădere de apă de aprox. 82 metri", "Debit mediu de 250 m³/s", "Înconjurată de o rezervație naturală", "Folosită în trecut pentru transportul buștenilor"],
       en: ["Total drop of approx. 82 meters", "Average water flow of 250 m³/s", "Surrounded by a nature reserve", "Formerly used for timber floating"],
     },
-    imageHint: "Massive rushing white water rapids in a pine forest", image: "/poi-images/sweden-storforsen-nature-v2.webp"},
-  {
+imageHint: "Massive rushing white water rapids in a pine forest",
+    descriptionAdvanced: {
+      de: "Storforsen ist die größte Stromschnelle Skandinaviens mit einem gewaltigen Wasserdurchsatz. Sie friert selbst bei extremen Minusgraden im Winter niemals vollständig zu.",
+      hu: "A Storforsen Skandinávia legnagyobb zúgója, ahol hatalmas víztömeg hömpölyög. Még a legkeményebb téli fagyok idején sem fagy be teljesen a hatalmas sodrás miatt.",
+      ro: "Storforsen este cea mai mare cascadă rapidă din Scandinavia, având un debit imens de apă. Aceasta nu îngheață niciodată complet, chiar și în cele mai aspre ierni.",
+      en: "Storforsen is Scandinavia's largest rapid, boasting an immense volume of flowing water. It never completely freezes, even during the harshest Arctic winters.",
+    },
+    factsAdvanced: {
+      de: ["Fluss: Piteälven", "Fallhöhe: 82 Meter", "Durchschnittsfluss: 250 m³/s", "Länge der Stromschnelle: 5 km"],
+      hu: ["Folyó: Piteälven", "Szintkülönbség: 82 méter", "Átlagos hozam: 250 m³/s", "A zúgó hossza: 5 km"],
+      ro: ["Râu: Piteälven", "Cădere totală: 82 metri", "Debit mediu: 250 m³/s", "Lungimea pragurilor: 5 km"],
+      en: ["River: Pite River", "Total drop: 82 metres", "Average flow: 250 m³/s", "Length of rapids: 5 km"],
+    },
+    image: "/poi-images/sweden-storforsen-nature-v2.webp",
+},  {
     id: "sweden-hornavan-nature-v2",
     type: "lake",
-    name: { de: "Hornavan", hu: "Hornavan", ro: "Hornavan", en: "Hornavan" },
+    name: { de: "Hornavan", hu: "Hornavan", ro: "Hornavan", en: "Hornavan",
+image: "/poi-images/sweden-hornavan-nature-v2.webp"
+},
     coords: [17.75, 66.0],
     coordinates: { lat: 66.0, lng: 17.75 },
     description: {
@@ -209,11 +361,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Adâncime maximă de 221 de metri", "Suprafață de aprox. 252 km²", "Conține circa 400 de insule", "Vital pentru pescuitul local"],
       en: ["Maximum depth of 221 meters", "Surface area of approx. 252 km²", "Contains around 400 islands", "Important for local fishing"],
     },
-    imageHint: "Deep blue mountain lake surrounded by birch forests in Sweden", image: "/poi-images/sweden-hornavan-nature-v2.webp"},
-  {
+imageHint: "Deep blue mountain lake surrounded by birch forests in Sweden",
+    descriptionAdvanced: {
+      de: "Der Hornavan ist der tiefste See Schwedens und liegt in der malerischen Berglandschaft Lapplands. Er dient als wichtiges Wasserreservoir für die Stromerzeugung im Norden.",
+      hu: "A Hornavan Svédország legmélyebb tava, amely Lappföld festői hegyvidéki tájai között fekszik. Fontos víztározóként szolgál az északi vízi erőművek számára.",
+      ro: "Hornavan este cel mai adânc lac din Suedia, situat în peisajul muntos pitoresc al Laponiei. Acesta servește ca rezervor major pentru producția de energie hidroelectrică.",
+      en: "Hornavan is Sweden's deepest lake, situated amidst the picturesque mountain scenery of Lapland. It serves as a vital water reservoir for northern hydroelectric power.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: 221 Meter", "Fläche: 252 km²", "Lage: Arjeplog", "Höhe: 425 m ü. M."],
+      hu: ["Mélysége: 221 méter", "Területe: 252 km²", "Helyszín: Arjeplog", "Magasság: 425 m tengerszint felett"],
+      ro: ["Adâncime: 221 metri", "Suprafață: 252 km²", "Locație: Arjeplog", "Altitudine: 425 m peste nivel mării"],
+      en: ["Depth: 221 metres", "Surface area: 252 km²", "Location: Arjeplog", "Elevation: 425 m above sea level"],
+    },
+    image: "/poi-images/sweden-hornavan-nature-v2.webp",
+},  {
     id: "sweden-tornetrask-nature-v2",
     type: "lake",
-    name: { de: "Torneträsk", hu: "Torneträsk", ro: "Torneträsk", en: "Torneträsk" },
+    name: { de: "Torneträsk", hu: "Torneträsk", ro: "Torneträsk", en: "Torneträsk",
+image: "/poi-images/sweden-tornetrask-nature-v2.webp"
+},
     coords: [19.33, 68.36],
     coordinates: { lat: 68.36, lng: 19.33 },
     description: {
@@ -228,11 +395,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Al doilea lac ca mărime din Laponia", "Adâncime maximă de 168 de metri", "Situat la sud-est de Parcul Abisko", "Volum de apă de 17,1 km³"],
       en: ["Second largest lake in Lapland", "Maximum depth of 168 meters", "Located southeast of Abisko National Park", "Water volume of 17.1 km³"],
     },
-    imageHint: "Large arctic lake with floating ice chunks and distant mountains", image: "/poi-images/sweden-tornetrask-nature-v2.webp"},
-  {
+imageHint: "Large arctic lake with floating ice chunks and distant mountains",
+    descriptionAdvanced: {
+      de: "Der Torneträsk ist einer der größten Seen Lapplands und oft bis in den Juni hinein zugefroren. Das klare Wasser und die umliegenden Berge bieten ideale Nordlicht-Bedingungen.",
+      hu: "A Torneträsk Lappföld egyik legnagyobb tava, amely gyakran júniusig jégpáncél alatt marad. Tiszta vize és a környező hegyek tökéletes helyszínt biztosítanak a sarki fényhez.",
+      ro: "Torneträsk este unul dintre cele mai mari lacuri din Laponia, adesea înghețat până în luna iunie. Apa limpede și munții din jur oferă condiții ideale pentru aurora boreală.",
+      en: "Torneträsk is one of Lapland's largest lakes, often remaining ice-covered until June. Its clear waters and surrounding peaks create prime conditions for viewing the Northern Lights.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: 168 Meter", "Länge: 70 Kilometer", "Lage: Abisko Nationalpark", "Zweitgrößter See im Norden"],
+      hu: ["Mélysége: 168 méter", "Hossza: 70 kilométer", "Helyszín: Abisko Nemzeti Park", "Észak második legnagyobb tava"],
+      ro: ["Adâncime: 168 metri", "Lungime: 70 kilometri", "Locație: Parcul Național Abisko", "Al doilea lac ca mărime din nord"],
+      en: ["Depth: 168 metres", "Length: 70 kilometres", "Location: Abisko National Park", "Second largest northern lake"],
+    },
+    image: "/poi-images/sweden-tornetrask-nature-v2.webp",
+},  {
     id: "sweden-dalalven-nature-v2",
     type: "river",
-    name: { de: "Dalälven", hu: "Dalälven", ro: "Dalälven", en: "Dalälven" },
+    name: { de: "Dalälven", hu: "Dalälven", ro: "Dalälven", en: "Dalälven",
+image: "/poi-images/sweden-dalalven-nature-v2.webp"
+},
     coords: [16.0, 60.5],
     coordinates: { lat: 60.5, lng: 16.0 },
     description: {
@@ -247,11 +429,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de aprox. 520 km", "Se varsă în Golful Botnic", "Vital pentru producția de energie", "Formează numeroase lacuri și mlaștini"],
       en: ["Total length approx. 520 km", "Flows into the Gulf of Bothnia", "Important for hydroelectric power", "Creates many lakes and wetlands"],
     },
-    imageHint: "Wide river flowing through green valleys and forests in central Sweden", image: "/poi-images/sweden-dalalven-nature-v2.webp"},
-  {
+imageHint: "Wide river flowing through green valleys and forests in central Sweden",
+    descriptionAdvanced: {
+      de: "Der Dalälven ist ein bedeutender Fluss in Mittelschweden, der durch die historische Provinz Dalarna fließt. Er markiert die biologische Grenze zwischen Nord- und Südschweden.",
+      hu: "A Dalälven Közép-Svédország meghatározó folyója, amely Dalarna történelmi tartományán folyik keresztül. Fontos biológiai határvonalat képez Észak- és Dél-Svédország között.",
+      ro: "Dalälven este un râu major din Suedia centrală, traversând provincia istorică Dalarna. Acesta marchează limita biologică importantă între nordul și sudul Suediei.",
+      en: "Dalälven is a major river in central Sweden, flowing through the historic province of Dalarna. It marks the significant biological boundary between northern and southern Sweden.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 520 Kilometer", "Einzugsgebiet: 28.954 km²", "Mündung: Bottensee", "Zwei Hauptarme: West- und Österdalälven"],
+      hu: ["Hossza: 520 kilométer", "Vízgyűjtő terület: 28 954 km²", "Torkolat: Botteni-öböl", "Két ága: Nyugati és Keleti-Dalälven"],
+      ro: ["Lungime: 520 kilometri", "Bazin hidrografic: 28.954 km²", "Vărsare: Marea Botnică", "Două ramuri: Dalälven de Vest și Est"],
+      en: ["Length: 520 kilometres", "Basin area: 28,954 km²", "Outlet: Sea of Bothnia", "Two branches: West and East Dalälven"],
+    },
+    image: "/poi-images/sweden-dalalven-nature-v2.webp",
+},  {
     id: "sweden-lule-river-nature-v2",
     type: "river",
-    name: { de: "Lule älv", hu: "Lule-folyó", ro: "Râul Lule", en: "Lule River" },
+    name: { de: "Lule älv", hu: "Lule-folyó", ro: "Râul Lule", en: "Lule River",
+image: "/poi-images/sweden-lule-river-nature-v2.webp"
+},
     coords: [20.5, 66.5],
     coordinates: { lat: 66.5, lng: 20.5 },
     description: {
@@ -266,11 +463,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime de aprox. 450 km", "Se varsă în mare lângă Luleå", "Traversează situl UNESCO Laponia", "Produce circa 10% din energia Suediei"],
       en: ["Length of approx. 450 km", "Flows into the sea at Luleå", "Passes through the Laponia World Heritage site", "Produces approx. 10% of Sweden's electricity"],
     },
-    imageHint: "Large river with a massive hydroelectric dam in Lapland", image: "/poi-images/sweden-lule-river-nature-v2.webp"},
-  {
+imageHint: "Large river with a massive hydroelectric dam in Lapland",
+    descriptionAdvanced: {
+      de: "Der Lule älv ist einer der wichtigsten Energielieferanten Schwedens. Zahlreiche Wasserkraftwerke entlang seines Laufs produzieren einen Großteil des schwedischen Stroms.",
+      hu: "A Lule-folyó Svédország egyik legfontosabb energiaforrása. A folyón kiépített számos vízi erőmű termeli a svéd elektromos áram jelentős részét.",
+      ro: "Râul Lule este una dintre cele mai importante surse de energie ale Suediei. Numeroase hidrocentrale de-a lungul cursului său produc o mare parte din electricitatea țării.",
+      en: "The Lule River is one of Sweden's most critical energy sources. Numerous hydroelectric power stations along its course generate a substantial portion of the nation's electricity.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 461 Kilometer", "15 Wasserkraftwerke", "Jahresproduktion: ~14 TWh", "Mündung: Luleå"],
+      hu: ["Hossza: 461 kilométer", "15 vízi erőmű", "Éves termelés: kb. 14 TWh", "Torkolat: Luleå"],
+      ro: ["Lungime: 461 kilometri", "15 hidrocentrale", "Producție anuală: ~14 TWh", "Vărsare: Luleå"],
+      en: ["Length: 461 kilometres", "15 hydroelectric dams", "Annual production: ~14 TWh", "Outlet: Luleå"],
+    },
+    image: "/poi-images/sweden-lule-river-nature-v2.webp",
+},  {
     id: "sweden-angermanalven-nature-v2",
     type: "river",
-    name: { de: "Ångermanälven", hu: "Ångermanälven", ro: "Ångermanälven", en: "Ångermanälven" },
+    name: { de: "Ångermanälven", hu: "Ångermanälven", ro: "Ångermanälven", en: "Ångermanälven",
+image: "/poi-images/sweden-angermanalven-nature-v2.webp"
+},
     coords: [17.5, 63.5],
     coordinates: { lat: 63.5, lng: 17.5 },
     description: {
@@ -285,11 +497,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime de aprox. 460 km", "Are cel mai mare debit la estuar din Suedia", "Loc popular pentru pescuitul somonului", "Cale importantă de transport pentru lemn"],
       en: ["Length of approx. 460 km", "Has the highest water discharge at its estuary", "Popular area for salmon fishing", "Major historical route for timber transport"],
     },
-    imageHint: "Wide river mouth near a high bridge at the High Coast of Sweden", image: "/poi-images/sweden-angermanalven-nature-v2.webp"},
-  {
+imageHint: "Wide river mouth near a high bridge at the High Coast of Sweden",
+    descriptionAdvanced: {
+      de: "Der Ångermanälven ist bekannt für seine gewaltigen Wassermassen und das beeindruckende Ästuar. Er fließt durch die UNESCO-Weltnaturerbe-Region Höga Kusten.",
+      hu: "Az Ångermanälven hatalmas víztömegéről és lenyűgöző torkolatvidékéről ismert. A folyó az UNESCO világörökségi Höga Kusten (Magaspart) régión folyik keresztül.",
+      ro: "Ångermanälven este cunoscut pentru masele sale imense de apă și estuarul impresionant. Acesta traversează regiunea High Coast, sit al patrimoniului mondial UNESCO.",
+      en: "The Ångermanälven is renowned for its vast water volume and impressive estuary. It flows through the High Coast region, a designated UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 460 Kilometer", "Wasserdurchsatz: 485 m³/s", "Tiefe im Unterlauf: bis 100 m", "Mündung: Bottnischer Meerbusen"],
+      hu: ["Hossza: 460 kilométer", "Vízhozam: 485 m³/s", "Mélysége az alsó szakaszon: 100 m", "Torkolat: Botteni-öböl"],
+      ro: ["Lungime: 460 kilometri", "Debit: 485 m³/s", "Adâncime la vărsare: până la 100 m", "Vărsare: Golful Botnic"],
+      en: ["Length: 460 kilometres", "Water flow: 485 m³/s", "Lower depth: up to 100 m", "Outlet: Gulf of Bothnia"],
+    },
+    image: "/poi-images/sweden-angermanalven-nature-v2.webp",
+},  {
     id: "sweden-helagsfjallet-nature-v2",
     type: "mountain",
-    name: { de: "Helagsfjället", hu: "Helagsfjället", ro: "Helagsfjället", en: "Helagsfjället" },
+    name: { de: "Helagsfjället", hu: "Helagsfjället", ro: "Helagsfjället", en: "Helagsfjället",
+image: "/poi-images/sweden-helagsfjallet-nature-v2.webp"
+},
     coords: [12.45, 62.9],
     coordinates: { lat: 62.9, lng: 12.45 },
     description: {
@@ -304,11 +531,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime de 1.797 metri", "Cel mai sudic ghețar al țării", "Zonă importantă de cercetare a vulpilor polare", "Popular printre excursioniști vara"],
       en: ["Height of 1,797 meters", "Southernmost glacier in the country", "Crucial research area for Arctic foxes", "Popular among hikers during summer"],
     },
-    imageHint: "Snowy mountain with a small glacier bowl in Härjedalen", image: "/poi-images/sweden-helagsfjallet-nature-v2.webp"},
-  {
+imageHint: "Snowy mountain with a small glacier bowl in Härjedalen",
+    descriptionAdvanced: {
+      de: "Das Helagsfjället in Jämtland beherbergt den südlichsten Gletscher Schwedens. Der Berg ist bekannt für seine markante Form und die Population von Polarfuchsen in der Region.",
+      hu: "A Helags-hegy Jämtlandban Svédország legdélebbi gleccserének ad otthont. A hegy jellegzetes alakjáról és a környéken élő sarki róka populációról nevezetes.",
+      ro: "Muntele Helags din Jämtland adăpostește cel mai sudic ghețar din Suedia. Este cunoscut pentru forma sa distinctivă și populația de vulpi polare din regiune.",
+      en: "Mount Helags in Jämtland is home to Sweden's southernmost glacier. The mountain is famous for its distinctive profile and the local population of Arctic foxes.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe: 1.797 Meter", "Gletscher seit: Kleiner Eiszeit", "Südlichster Gletscher Schwedens", "Lage: Härjedalen/Jämtland"],
+      hu: ["Csúcsmagasság: 1797 méter", "Gleccser kora: Kis jégkorszak óta", "Svédország legdélebbi gleccsere", "Helyszín: Härjedalen/Jämtland"],
+      ro: ["Înălțime vârf: 1.797 metri", "Vârsta ghețarului: Din Mica Glaciațiune", "Cel mai sudic ghețar suedez", "Locație: Härjedalen/Jämtland"],
+      en: ["Summit: 1,797 metres", "Glacier age: Since Little Ice Age", "Southernmost glacier in Sweden", "Location: Härjedalen/Jämtland"],
+    },
+    image: "/poi-images/sweden-helagsfjallet-nature-v2.webp",
+},  {
     id: "sweden-tannforsen-nature-v2",
     type: "landmark",
-    name: { de: "Tännforsen", hu: "Tännforsen", ro: "Tännforsen", en: "Tännforsen" },
+    name: { de: "Tännforsen", hu: "Tännforsen", ro: "Tännforsen", en: "Tännforsen",
+image: "/poi-images/sweden-tannforsen-nature-v2.webp"
+},
     coords: [12.73, 63.44],
     coordinates: { lat: 63.44, lng: 12.73 },
     description: {
@@ -323,11 +565,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime de aprox. 38 de metri", "Lățime de aprox. 60 de metri", "Iarna se formează o grotă de gheață", "Situată pe râul Indalsälven"],
       en: ["Height of approx. 38 meters", "Width of approx. 60 meters", "An ice cave forms under it in winter", "Located on the Indalsälven river"],
     },
-    imageHint: "Wide and powerful waterfall in a snowy landscape in Sweden", image: "/poi-images/sweden-tannforsen-nature-v2.webp"},
-  {
+imageHint: "Wide and powerful waterfall in a snowy landscape in Sweden",
+    descriptionAdvanced: {
+      de: "Tännforsen ist Schwedens größter Wasserfall gemessen am Wasservolumen. Die Kraft der stürzenden Wassermassen ist besonders während der Schneeschmelze im Frühjahr spektakulär.",
+      hu: "A Tännforsen Svédország legnagyobb vízesése a vízhozam tekintetében. A lezúduló víztömeg ereje különösen tavasszal, a hóolvadás idején nyújt lenyűgöző látványt.",
+      ro: "Tännforsen este cea mai mare cascadă din Suedia ca volum de apă. Forța masei de apă în cădere este spectaculoasă, mai ales în timpul topirii zăpezilor de primăvară.",
+      en: "Tännforsen is Sweden's largest waterfall by water volume. The power of its falling waters is especially spectacular during the spring snowmelt season.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: 38 Meter", "Breite: 60 Meter", "Wassermenge: bis 740 m³/s", "Eisformationen im Winter"],
+      hu: ["Magasság: 38 méter", "Szélesség: 60 méter", "Vízhozam: akár 740 m³/s", "Jégalakzatok télen"],
+      ro: ["Înălțime: 38 metri", "Lățime: 60 metri", "Debit maxim: 740 m³/s", "Formațiuni de gheață iarna"],
+      en: ["Drop height: 38 metres", "Width: 60 metres", "Water flow: up to 740 m³/s", "Ice formations in winter"],
+    },
+    image: "/poi-images/sweden-tannforsen-nature-v2.webp",
+},  {
     id: "sweden-vindelfjallen-nature-v2",
     type: "wildlife",
-    name: { de: "Vindelfjällen", hu: "Vindelfjällen", ro: "Vindelfjällen", en: "Vindelfjällen" },
+    name: { de: "Vindelfjällen", hu: "Vindelfjällen", ro: "Vindelfjällen", en: "Vindelfjällen",
+image: "/poi-images/sweden-vindelfjallen-nature-v2.webp"
+},
     coords: [15.5, 65.95],
     coordinates: { lat: 65.95, lng: 15.5 },
     description: {
@@ -342,11 +599,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 5.600 km²", "Include muntele Ammarnäsfjället", "Vindelälven este un râu național protejat", "Faimoasă pentru observarea păsărilor"],
       en: ["Surface area of approx. 5,600 km²", "Includes the Ammarnäsfjället mountain", "Vindelälven is a protected national river", "Renowned for birdwatching"],
     },
-    imageHint: "Vast tundra landscape with winding rivers and low mountains", image: "/poi-images/sweden-vindelfjallen-nature-v2.webp"},
-  {
+imageHint: "Vast tundra landscape with winding rivers and low mountains",
+    descriptionAdvanced: {
+      de: "Vindelfjällen ist eines der größten Naturschutzgebiete Europas und bietet eine unberührte alpine Wildnis. Es ist ein wichtiges Rückzugsgebiet für Rentiere und seltene Tierarten.",
+      hu: "A Vindelfjällen Európa egyik legnagyobb természetvédelmi területe, amely érintetlen alpesi vadont kínál. Fontos élőhelye a rénszarvasoknak és számos ritka állatfajnak.",
+      ro: "Vindelfjällen este una dintre cele mai mari rezervații naturale din Europa, oferind o sălbăticie alpină neatinsă. Este un habitat vital pentru renii și speciile rare.",
+      en: "Vindelfjällen is one of Europe's largest nature reserves, offering a pristine alpine wilderness. It is a critical sanctuary for reindeer and various rare Arctic species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 562.772 Hektar", "Gegründet: 1974", "Höchster Punkt: 1.768 Meter", "Lage: Västerbotten"],
+      hu: ["Területe: 562 772 hektár", "Alapítva: 1974", "Legmagasabb pont: 1768 méter", "Helyszín: Västerbotten"],
+      ro: ["Suprafață: 562.772 hectare", "Înființat: 1974", "Punct maxim: 1.768 metri", "Locație: Västerbotten"],
+      en: ["Area: 562,772 hectares", "Established: 1974", "Highest point: 1,768 metres", "Location: Västerbotten"],
+    },
+    image: "/poi-images/sweden-vindelfjallen-nature-v2.webp",
+},  {
     id: "sweden-stockholm-archipelago-nature-v2",
     type: "landmark",
-    name: { de: "Stockholmer Schärengarten", hu: "Stockholmi szigetvilág", ro: "Arhipelagul Stockholm", en: "Stockholm Archipelago" },
+    name: { de: "Stockholmer Schärengarten", hu: "Stockholmi szigetvilág", ro: "Arhipelagul Stockholm", en: "Stockholm Archipelago",
+image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp"
+},
     coords: [18.6, 59.35],
     coordinates: { lat: 59.35, lng: 18.6 },
     description: {
@@ -361,11 +633,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Se întinde pe 80 km în largul mării", "Cea mai mare insulă este Värmdö", "Destinație populară pentru iahting și caiac", "Habitat crucial pentru vulturul codalb"],
       en: ["Extends 80 km from the mainland", "The largest island is Värmdö", "Popular area for sailing and kayaking", "Crucial habitat for white-tailed eagles"],
     },
-    imageHint: "Numerous small rocky islands in the blue sea near Stockholm", image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp"},
-  {
+imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
+    descriptionAdvanced: {
+      de: "Der Stockholmer Schärengarten besteht aus rund 30.000 Inseln, Felsen und Schären. Er erstreckt sich von der Stadt aus bis zu 80 Kilometer weit in die offene Ostsee hinaus.",
+      hu: "A stockholmi szigetvilág mintegy 30 000 szigetből, sziklából és zátonyból áll. A várostól indulva mintegy 80 kilométer hosszan nyúlik be a nyílt Balti-tengerbe.",
+      ro: "Arhipelagul Stockholm cuprinde aproximativ 30.000 de insule și stânci. Se întinde de la oraș până la 80 de kilometri în largul Mării Baltice.",
+      en: "The Stockholm Archipelago consists of roughly 30,000 islands, islets, and rocks. It extends from the city centre up to 80 kilometres out into the Baltic Sea.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Inseln: ca. 30.000", "Fläche: 1.700 km² (Land)", "Länge: 150 km entlang der Küste", "Einwohner: ca. 10.000 permanent"],
+      hu: ["Szigetek száma: kb. 30 000", "Szárazföldi terület: 1700 km²", "Parti hossz: 150 km", "Állandó lakosság: kb. 10 000 fő"],
+      ro: ["Număr insule: cca. 30.000", "Suprafață uscat: 1.700 km²", "Lungime coastă: 150 km", "Locuitori permanenți: cca. 10.000"],
+      en: ["Number of islands: ~30,000", "Land area: 1,700 km²", "Coastal length: 150 km", "Permanent residents: ~10,000"],
+    },
+    image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp",
+},  {
     id: "sweden-malaren-nature-v2",
     type: "lake",
-    name: { de: "Mälaren", hu: "Mälaren-tó", ro: "Lacul Mälaren", en: "Mälaren" },
+    name: { de: "Mälaren", hu: "Mälaren-tó", ro: "Lacul Mälaren", en: "Mälaren",
+image: "/poi-images/sweden-malaren-nature-v2.webp"
+},
     coords: [17.0, 59.5],
     coordinates: { lat: 59.5, lng: 17.0 },
     description: {
@@ -380,11 +667,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 1.140 km²", "Adâncime maximă de 64 de metri", "Se varsă în Marea Baltică la Stockholm", "Găzduiește situl UNESCO Birka"],
       en: ["Surface area of approx. 1.140 km²", "Maximum depth of 64 meters", "Drains into the Baltic Sea at Stockholm", "Home to the Birka World Heritage site"],
     },
-    imageHint: "Large calm lake with wooded shorelines near Stockholm", image: "/poi-images/sweden-malaren-nature-v2.webp"},
-  {
+imageHint: "Large calm lake with wooded shorelines near Stockholm",
+    descriptionAdvanced: {
+      de: "Der Mälaren ist der drittgrößte See Schwedens und war einst eine Bucht der Ostsee. Seine Ufer beherbergen zahlreiche historische Schlösser und die Wikingerstadt Birka.",
+      hu: "A Mälaren Svédország harmadik legnagyobb tava, amely egykor a Balti-tenger öble volt. Partjain számos történelmi kastély és Birka viking városa található.",
+      ro: "Mälaren este al treilea cel mai mare lac din Suedia, fiind anterior un golf al Mării Baltice. Malurile sale adăpostesc numeroase castele și orașul viking Birka.",
+      en: "Lake Mälaren is Sweden's third-largest lake and was once an inlet of the Baltic Sea. Its shores are home to many historic castles and the Viking settlement of Birka.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.140 km²", "Tiefe: 64 Meter", "Inseln: über 1.200", "Trinkwasserquelle für Stockholm"],
+      hu: ["Területe: 1140 km²", "Mélysége: 64 méter", "Szigetek: több mint 1200", "Stockholm ivóvízforrása"],
+      ro: ["Suprafață: 1.140 km²", "Adâncime: 64 metri", "Insule: peste 1.200", "Sursă de apă pentru Stockholm"],
+      en: ["Surface area: 1,140 km²", "Depth: 64 metres", "Islands: over 1,200", "Drinking water for Stockholm"],
+    },
+    image: "/poi-images/sweden-malaren-nature-v2.webp",
+},  {
     id: "sweden-storsjon-nature-v2",
     type: "lake",
-    name: { de: "Storsjön", hu: "Storsjön", ro: "Storsjön", en: "Storsjön" },
+    name: { de: "Storsjön", hu: "Storsjön", ro: "Storsjön", en: "Storsjön",
+image: "/poi-images/sweden-storsjon-nature-v2.webp"
+},
     coords: [14.35, 63.15],
     coordinates: { lat: 63.15, lng: 14.35 },
     description: {
@@ -399,12 +701,27 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 456 km²", "Adăpostește insula Frösön", "Situat într-o depresiune glaciară", "Înconjurat de terenuri agricole fertile"],
       en: ["Surface area of approx. 456 km²", "Home to the island of Frösön", "Located in a glacial depression", "Surrounded by fertile farmland"],
     },
-    imageHint: "Large lake with snowy mountains in the background and a town on its shore", image: "/poi-images/sweden-storsjon-nature-v2.webp"}
-,
+imageHint: "Large lake with snowy mountains in the background and a town on its shore",
+    descriptionAdvanced: {
+      de: "Der Storsjön ist das Herzstück von Jämtland und bekannt für die Legende vom Storsjö-Ungeheuer. Er ist ein wichtiger Treffpunkt für Wassersport und Fischerei in der Region.",
+      hu: "A Storsjön Jämtland tartomány szíve, amely a Storsjö-szörny legendájáról vált híressé. A tó a régió vízi sportjainak és halászatának legfontosabb központja.",
+      ro: "Lacul Storsjön este inima regiunii Jämtland, renumit pentru legenda monstrului Storsjöodjuret. Este un centru vital pentru sporturi nautice și pescuit.",
+      en: "Lake Storsjön is the heart of Jämtland, famous for the legend of the Storsjö Monster. It is a major hub for water sports and fishing in the northern region.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 456 km²", "Maximale Tiefe: 74 Meter", "Lage: Östersund", "Über 500 Sichtungen des Ungeheuers"],
+      hu: ["Területe: 456 km²", "Maximális mélysége: 74 méter", "Helyszín: Östersund", "Több mint 500 szörnyészlelés"],
+      ro: ["Suprafață: 456 km²", "Adâncime maximă: 74 metri", "Locație: Östersund", "Peste 500 de semnalări ale monstrului"],
+      en: ["Surface area: 456 km²", "Maximum depth: 74 metres", "Location: Östersund", "Over 500 monster sightings"],
+    },
+    image: "/poi-images/sweden-storsjon-nature-v2.webp",
+},
   {
     id: "sweden-hjalmaren-nature-v2",
     type: "lake",
-    name: { de: "Hjälmaren", hu: "Hjälmaren-tó", ro: "Lacul Hjälmaren", en: "Hjälmaren" },
+    name: { de: "Hjälmaren", hu: "Hjälmaren-tó", ro: "Lacul Hjälmaren", en: "Hjälmaren",
+image: "/poi-images/sweden-hjalmaren-nature-v2.webp"
+},
     coordinates: { lat: 59.255, lng: 15.748 },
     description: {
       de: "Der Hjälmaren ist der viertgrößte See Schwedens und liegt in den Provinzen Västmanland, Södermanland und Närke. Er ist durch den Hjälmare-Kanal direkt mit dem Mälaren verbunden.",
@@ -419,11 +736,25 @@ export const swedenNatureV2: POI[] = [
       en: ["Surface area of approximately 484 square kilometers", "Average depth is only about 6 meters", "Largest island in the lake is Vinön", "Crucial habitat for pike-perch and crayfish"],
     },
     imageHint: "Aerial view of Lake Hjälmaren with calm blue water and forested shores",
+    descriptionAdvanced: {
+      de: "Der Hjälmaren ist der viertgrößte See Schwedens und zeichnet sich durch seine geringe Tiefe aus. Er ist über den historischen Hjälmare-Kanal mit dem Mälaren verbunden.",
+      hu: "A Hjälmaren Svédország negyedik legnagyobb tava, amely sekély vizéről ismert. A történelmi Hjälmare-csatornán keresztül kapcsolódik a Mälaren-tóhoz.",
+      ro: "Hjälmaren este al patrulea cel mai mare lac din Suedia, caracterizat prin adâncimea sa redusă. Este legat de lacul Mälaren prin canalul istoric Hjälmare.",
+      en: "Hjälmaren is Sweden's fourth-largest lake, notable for its relatively shallow waters. It is connected to Lake Mälaren via the historic Hjälmare Canal.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 484 km²", "Durchschnittliche Tiefe: 6 Meter", "Größte Tiefe: 20 Meter", "Entwässerung: Eskilstunaån"],
+      hu: ["Területe: 484 km²", "Átlagos mélység: 6 méter", "Legnagyobb mélység: 20 méter", "Vízleeresztés: Eskilstunaån"],
+      ro: ["Suprafață: 484 km²", "Adâncime medie: 6 metri", "Adâncime maximă: 20 metri", "Scurgere: Eskilstunaån"],
+      en: ["Surface area: 484 km²", "Average depth: 6 metres", "Maximum depth: 20 metres", "Drainage: Eskilstunaån"],
+    },
   },
   {
     id: "sweden-indalsalven-nature-v2",
     type: "river",
-    name: { de: "Indalsälven", hu: "Indalsälven-folyó", ro: "Râul Indalsälven", en: "Indalsälven" },
+    name: { de: "Indalsälven", hu: "Indalsälven-folyó", ro: "Râul Indalsälven", en: "Indalsälven",
+image: "/poi-images/sweden-indalsalven-nature-v2.webp"
+},
     coordinates: { lat: 63.021, lng: 16.485 },
     description: {
       de: "Der Indalsälven ist einer der wasserreichsten Flüsse Schwedens und fließt durch die Provinzen Jämtland und Medelpad. Er entspringt im skandinavischen Gebirge und mündet in den Bottnischen Meerbusen.",
@@ -437,11 +768,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de 430 de kilometri", "Are 26 de hidrocentrale de-a lungul cursului său", "Gura de vărsare formează o deltă mare lângă Sundsvall", "Cunoscut pentru breșa istorică a cascadei din 1796"],
       en: ["Total length of 430 kilometers", "Features 26 hydroelectric power stations", "Mouth forms a large delta near Sundsvall", "Famous for the catastrophic flood event in 1796"],
     },
-    imageHint: "Wide river Indalsälven winding through a forested valley in Jämtland", image: "/poi-images/sweden-indalsalven-nature-v2.webp"},
-  {
+imageHint: "Wide river Indalsälven winding through a forested valley in Jämtland",
+    descriptionAdvanced: {
+      de: "Der Indalsälven ist einer der wasserreichsten Flüsse Schwedens. Er fließt durch dramatische Schluchten und wurde für die Energiegewinnung stark durch Kraftwerke erschlossen.",
+      hu: "Az Indalsälven Svédország egyik legbővizűbb folyója. Drámai szurdokokon folyik keresztül, vizét ma számos vízi erőmű hasznosítja energiatermelésre.",
+      ro: "Indalsälven este unul dintre cele mai bogate în apă râuri din Suedia. Acesta străbate canioane dramatice și este intens exploatat pentru energie hidroelectrică.",
+      en: "The Indalsälven is one of Sweden's most powerful rivers by volume. It flows through dramatic gorges and has been heavily developed for hydroelectric power generation.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 430 Kilometer", "Wasserkraftwerke: 26 Anlagen", "Mündung: Bottnischer Meerbusen", "Einzugsgebiet: 26.700 km²"],
+      hu: ["Hossza: 430 kilométer", "26 vízi erőmű", "Torkolat: Botteni-öböl", "Vízgyűjtő terület: 26 700 km²"],
+      ro: ["Lungime: 430 kilometri", "Hidrocentrale: 26 unități", "Vărsare: Golful Botnic", "Bazin hidrografic: 26.700 km²"],
+      en: ["Length: 430 kilometres", "Hydroelectric dams: 26 plants", "Outlet: Gulf of Bothnia", "Basin area: 26,700 km²"],
+    },
+    image: "/poi-images/sweden-indalsalven-nature-v2.webp",
+},  {
     id: "sweden-ristafallet-nature-v2",
     type: "landmark",
-    name: { de: "Ristafallet", hu: "Ristafallet-vízesés", ro: "Cascada Ristafallet", en: "Ristafallet" },
+    name: { de: "Ristafallet", hu: "Ristafallet-vízesés", ro: "Cascada Ristafallet", en: "Ristafallet",
+image: "/poi-images/sweden-ristafallet-nature-v2.webp"
+},
     coordinates: { lat: 63.311, lng: 13.351 },
     description: {
       de: "Ristafallet ist ein breiter Wasserfall am Fluss Indalsälven in der Nähe von Åre. Er wird durch eine bewaldete Insel in zwei parallele Kaskaden geteilt.",
@@ -455,11 +801,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lățime de aproximativ 50 de metri", "Înălțimea căderii de apă este de 14 metri", "Locație de filmare pentru 'Ronja, fiica tâlharului'", "Iarna se formează coloane masive de gheață"],
       en: ["Width of approximately 50 meters", "Drop height is 14 meters", "Filming location for 'Ronia, the Robber's Daughter'", "Massive ice columns form during the winter"],
     },
-    imageHint: "Powerful wide waterfall Ristafallet in a lush forest setting", image: "/poi-images/sweden-ristafallet-nature-v2.webp"},
-  {
+imageHint: "Powerful wide waterfall Ristafallet in a lush forest setting",
+    descriptionAdvanced: {
+      de: "Ristafallet ist ein beeindruckender Wasserfall des Indalsälven, der durch eine bewaldete Insel in zwei parallele Kaskaden geteilt wird. Er ist als Filmkulisse bekannt.",
+      hu: "A Ristafallet az Indalsälven folyó lenyűgöző vízesése, amelyet egy erdős sziget két párhuzamos ágra oszt. Híres filmes díszletként is ismert.",
+      ro: "Ristafallet este o cascadă impresionantă de pe râul Indalsälven, împărțită în două brațe paralele de o insulă împădurită. Este faimoasă ca locație de filmare.",
+      en: "Ristafallet is a stunning waterfall on the Indalsälven river, split into two parallel cascades by a wooded island. It is well-known as a filming location.",
+    },
+    factsAdvanced: {
+      de: ["Breite: 50 Meter", "Fallhöhe: 14 Meter", "Lage: Jämtland", "Film: Ronja Räubertochter"],
+      hu: ["Szélesség: 50 méter", "Magasság: 14 méter", "Helyszín: Jämtland", "Film: Ronja, a rabló lánya"],
+      ro: ["Lățime: 50 metri", "Înălțime: 14 metri", "Locație: Jämtland", "Film: Ronja, fiica tâlharului"],
+      en: ["Width: 50 metres", "Drop height: 14 metres", "Location: Jämtland", "Film: Ronia, the Robber's Daughter"],
+    },
+    image: "/poi-images/sweden-ristafallet-nature-v2.webp",
+},  {
     id: "sweden-ven-island-nature-v2",
     type: "landmark",
-    name: { de: "Insel Ven", hu: "Ven-sziget", ro: "Insula Ven", en: "Ven Island" },
+    name: { de: "Insel Ven", hu: "Ven-sziget", ro: "Insula Ven", en: "Ven Island",
+image: "/poi-images/sweden-ven-island-nature-v2.webp"
+},
     coordinates: { lat: 55.912, lng: 12.695 },
     description: {
       de: "Ven ist eine kleine schwedische Insel im Öresund zwischen Schonen und Seeland. Sie ist bekannt für ihre steilen Klippen und die historische Verbindung zum Astronomen Tycho Brahe.",
@@ -473,11 +834,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 7,5 kilometri pătrați", "Faleza Backafall se ridică până la 40 de metri", "Ciclismul este principalul mod de transport pe insulă", "Locația observatoarelor Uraniborg și Stjerneborg"],
       en: ["Area of approximately 7.5 square kilometers", "The Backafall cliffs rise up to 40 meters high", "Cycling is the primary mode of transport on the island", "Home to the Uraniborg and Stjerneborg observatories"],
     },
-    imageHint: "Scenic view of the island of Ven with green fields and coastal cliffs", image: "/poi-images/sweden-ven-island-nature-v2.webp"},
-  {
+imageHint: "Scenic view of the island of Ven with green fields and coastal cliffs",
+    descriptionAdvanced: {
+      de: "Ven ist eine malerische Insel im Öresund zwischen Schweden und Dänemark. Sie ist berühmt für ihre steilen Küstenhänge und das Erbe des Astronomen Tycho Brahe.",
+      hu: "Ven egy festői sziget az Öresund-szorosban Svédország és Dánia között. Híres meredek tengerparti szikláiról és Tycho Brahe csillagász örökségéről.",
+      ro: "Insula Ven este o locație pitorească în strâmtoarea Öresund, între Suedia și Danemarca. Este celebră pentru coastele sale abrupte și moștenirea lui Tycho Brahe.",
+      en: "Ven is a picturesque island in the Öresund strait between Sweden and Denmark. It is famous for its steep coastal slopes and the heritage of astronomer Tycho Brahe.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 7,5 km²", "Umfang: ca. 12 km", "Höhe: bis 39 Meter", "Lage: Landskrona Kommune"],
+      hu: ["Területe: 7,5 km²", "Kerülete: kb. 12 km", "Magasság: akár 39 méter", "Helyszín: Landskrona község"],
+      ro: ["Suprafață: 7,5 km²", "Circumferință: cca. 12 km", "Altitudine: până la 39 m", "Locație: Comuna Landskrona"],
+      en: ["Surface area: 7.5 km²", "Circumference: ~12 km", "Elevation: up to 39 metres", "Location: Landskrona Municipality"],
+    },
+    image: "/poi-images/sweden-ven-island-nature-v2.webp",
+},  {
     id: "sweden-bla-jungfrun-nature-v2",
     type: "park",
-    name: { de: "Blå Jungfrun", hu: "Blå Jungfrun Nemzeti Park", ro: "Parcul Național Blå Jungfrun", en: "Blå Jungfrun National Park" },
+    name: { de: "Blå Jungfrun", hu: "Blå Jungfrun Nemzeti Park", ro: "Parcul Național Blå Jungfrun", en: "Blå Jungfrun National Park",
+image: "/poi-images/sweden-bla-jungfrun-nature-v2.webp"
+},
     coordinates: { lat: 57.251, lng: 17.112 },
     description: {
       de: "Blå Jungfrun ist eine markante Granitinsel im Kalmarsund, die seit 1926 als Nationalpark geschützt ist. Die Insel ist tief in der schwedischen Folklore als Ort der Hexenversammlungen verwurzelt.",
@@ -491,11 +867,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Compusă din granit roșu de tip Rapakivi", "Cel mai înalt punct este la 86 de metri peste mare", "Găzduiește un labirint misterios din piatră", "Loc important de cuibărit pentru porumbelul de mare"],
       en: ["Composed of distinct red Rapakivi granite", "Highest point reaches 86 meters above sea level", "Features a mysterious ancient stone labyrinth", "Important breeding ground for black guillemots"],
     },
-    imageHint: "Solitary granite island of Blå Jungfrun in the blue Baltic Sea", image: "/poi-images/sweden-bla-jungfrun-nature-v2.webp"},
-  {
+imageHint: "Solitary granite island of Blå Jungfrun in the blue Baltic Sea",
+    descriptionAdvanced: {
+      de: "Die Insel Blå Jungfrun im Kalmarsund ist ein sagenumwobener Ort. Die markante Granitkuppel ist ein Nationalpark und war laut Volksglauben ein Treffpunkt für Hexen.",
+      hu: "A Blå Jungfrun-sziget a Kalmar-szorosban fekvő rejtélyes hely. A jellegzetes gránitkupola ma nemzeti park, a néphit szerint boszorkányok találkozóhelye volt.",
+      ro: "Insula Blå Jungfrun din strâmtoarea Kalmar este un loc legendar. Domul său de granit este parc național și, conform folclorului, era locul de întâlnire al vrăjitoarelor.",
+      en: "Blå Jungfrun island in the Kalmar Strait is a legendary site. Its striking granite dome is a national park and was traditionally believed to be a meeting place for witches.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 86 Meter", "Status: Nationalpark seit 1926", "Labyrinth: Trolleborg", "Lage: Kalmarsund"],
+      hu: ["Legmagasabb pont: 86 méter", "Nemzeti park: 1926 óta", "Labirintus: Trolleborg", "Helyszín: Kalmar-szoros"],
+      ro: ["Punct maxim: 86 metri", "Parc Național din: 1926", "Labirint: Trolleborg", "Locație: Strâmtoarea Kalmar"],
+      en: ["Highest point: 86 metres", "National Park since: 1926", "Labyrinth: Trolleborg", "Location: Kalmar Strait"],
+    },
+    image: "/poi-images/sweden-bla-jungfrun-nature-v2.webp",
+},  {
     id: "sweden-lapporten-nature-v2",
     type: "valley",
-    name: { de: "Lapporten", hu: "Lapp-kapu", ro: "Poarta Laponiei", en: "Lapporten" },
+    name: { de: "Lapporten", hu: "Lapp-kapu", ro: "Poarta Laponiei", en: "Lapporten",
+image: "/poi-images/sweden-lapporten-nature-v2.webp"
+},
     coordinates: { lat: 68.265, lng: 18.971 },
     description: {
       de: "Lapporten ist ein markantes U-förmiges Tal in Lappland, das durch eiszeitliche Erosion geformt wurde. Es gilt als eines der bekanntesten natürlichen Wahrzeichen Schwedens.",
@@ -509,11 +900,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Formată din vârfurile Tjuonatjåkka și Nissuntjårro", "Vârfurile depășesc înălțimea de 1.700 de metri", "Valea este situată la sud-est de Abisko", "Situl este considerat sacru de către poporul Sámi"],
       en: ["Defined by the peaks Tjuonatjåkka and Nissuntjårro", "The surrounding peaks exceed 1,700 meters in height", "Located southeast of Abisko National Park", "Regarded as a sacred site by the indigenous Sámi people"],
     },
-    imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun", image: "/poi-images/sweden-lapporten-nature-v2.webp"},
-  {
+imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
+    descriptionAdvanced: {
+      de: "Lapporten ist ein ikonisches U-förmiges Tal in Lappland, das als Tor zur Bergwelt gilt. Seine charakteristische Silhouette ist eines der meistfotografierten Motive Schwedens.",
+      hu: "A Lapporten egy ikonikus U-alakú völgy Lappföldön, amelyet a hegyek kapujának tekintenek. Jellegzetes sziluettje Svédország egyik legtöbbet fotózott természeti látképe.",
+      ro: "Lapporten este o vale iconică în formă de U din Laponia, considerată poarta către munți. Silueta sa caracteristică este unul dintre cele mai fotografiate motive din Suedia.",
+      en: "Lapporten is an iconic U-shaped valley in Lapland, often called the gateway to the mountains. Its distinctive profile is one of Sweden's most photographed natural sights.",
+    },
+    factsAdvanced: {
+      de: ["Samischer Name: Čuonjávággi", "Höhe der Gipfel: 1.704 m & 1.554 m", "Lage: Abisko", "Geomorphologie: Glaziales Trogtal"],
+      hu: ["Számi név: Čuonjávággi", "Csúcsok magassága: 1704 m és 1554 m", "Helyszín: Abisko", "Típus: Gleccservájta völgy"],
+      ro: ["Nume sami: Čuonjávággi", "Înălțime vârfuri: 1.704 m și 1.554 m", "Locație: Abisko", "Tip: Vale glaciară în U"],
+      en: ["Sami name: Čuonjávággi", "Peak heights: 1,704 m & 1,554 m", "Location: Abisko", "Type: Glacial trough valley"],
+    },
+    image: "/poi-images/sweden-lapporten-nature-v2.webp",
+},  {
     id: "sweden-ume-river-nature-v2",
     type: "river",
-    name: { de: "Umeälven", hu: "Ume-folyó", ro: "Râul Ume", en: "Ume River" },
+    name: { de: "Umeälven", hu: "Ume-folyó", ro: "Râul Ume", en: "Ume River",
+image: "/poi-images/sweden-ume-river-nature-v2.webp"
+},
     coordinates: { lat: 63.815, lng: 20.258 },
     description: {
       de: "Der Umeälven ist einer der längsten Flüsse in Nordschweden und durchquert die Provinz Västerbotten. Er entspringt am See Överuman nahe der norwegischen Grenze.",
@@ -527,11 +933,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de 470 de kilometri", "Se varsă în Golful Botnic după ce traversează orașul Umeå", "Sursă majoră de energie hidroelectrică în Suedia", "A fost o rută esențială pentru transportul buștenilor"],
       en: ["Total length of 470 kilometers", "Empties into the Gulf of Bothnia at the city of Umeå", "A major source of hydroelectric power in Sweden", "Historically significant route for timber floating"],
     },
-    imageHint: "Wide Umeälven river flowing through the city of Umeå", image: "/poi-images/sweden-ume-river-nature-v2.webp"},
-  {
+imageHint: "Wide Umeälven river flowing through the city of Umeå",
+    descriptionAdvanced: {
+      de: "Der Ume älv entspringt im norwegischen Grenzgebirge und fließt quer durch Norrland. Er ist für seine reiche Fischfauna und die Nutzung zur Stromerzeugung bekannt.",
+      hu: "Az Ume-folyó a norvég határhegységben ered és Norrlandon folyik keresztül. Gazdag halállományáról és a vízi energiatermelésben betöltött szerepéről ismert.",
+      ro: "Râul Ume izvorăște din munții de la granița cu Norvegia și traversează Norrland. Este cunoscut pentru fauna sa piscicolă bogată și utilizarea hidroelectrică.",
+      en: "The Ume River originates in the Norwegian border mountains and flows across Norrland. It is renowned for its rich fish populations and hydroelectric energy production.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 470 Kilometer", "Einzugsgebiet: 26.815 km²", "Größtes Kraftwerk: Stornorrfors", "Mündung: Umeå"],
+      hu: ["Hossza: 470 kilométer", "Vízgyűjtő terület: 26 815 km²", "Legnagyobb erőmű: Stornorrfors", "Torkolat: Umeå"],
+      ro: ["Lungime: 470 kilometri", "Bazin hidrografic: 26.815 km²", "Cea mai mare centrală: Stornorrfors", "Vărsare: Umeå"],
+      en: ["Length: 470 kilometres", "Basin area: 26,815 km²", "Largest dam: Stornorrfors", "Outlet: Umeå"],
+    },
+    image: "/poi-images/sweden-ume-river-nature-v2.webp",
+},  {
     id: "sweden-hoga-kusten-nature-v2",
     type: "landmark",
-    name: { de: "Hohe Küste", hu: "Magas-part", ro: "Coasta Înaltă", en: "The High Coast" },
+    name: { de: "Hohe Küste", hu: "Magas-part", ro: "Coasta Înaltă", en: "The High Coast",
+image: "/poi-images/sweden-hoga-kusten-nature-v2.webp"
+},
     coordinates: { lat: 63.001, lng: 18.252 },
     description: {
       de: "Die Hohe Küste ist ein Küstenstreifen am Bottnischen Meerbusen, der für seine weltweit einzigartige Landhebung bekannt ist. Sie gehört seit dem Jahr 2000 zum UNESCO-Weltnaturerbe.",
@@ -545,11 +966,26 @@ export const swedenNatureV2: POI[] = [
       ro: ["Ridicarea uscatului este de 286 de metri de la ultima glaciațiune", "Caracterizată prin faleze abrupte de granit", "Cel mai înalt punct de coastă este muntele Skuleberget", "Regiunea este celebră pentru producția de surströmming"],
       en: ["Land has risen 286 meters since the last Ice Age", "Features dramatic granite cliffs and deep inlets", "Highest coastal point is the Skuleberget mountain", "Traditional home of the fermented herring delicacy surströmming"],
     },
-    imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea", image: "/poi-images/sweden-hoga-kusten-nature-v2.webp"},
-  {
+imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
+    descriptionAdvanced: {
+      de: "Die Hohe Küste ist weltberühmt für die weltweit schnellste Landhebung nach der letzten Eiszeit. Das UNESCO-Weltnaturerbe zeigt eindrucksvoll die geologische Geschichte.",
+      hu: "A Magaspart (Höga Kusten) a világ leggyorsabb jégkorszak utáni földemelkedéséről híres. Az UNESCO világörökségi helyszín lenyűgözően mutatja be a geológiai folyamatokat.",
+      ro: "Coasta Înaltă este faimoasă pentru cea mai rapidă ridicare a scoarței terestre de după glaciațiune. Situl UNESCO prezintă spectaculos istoria geologică.",
+      en: "The High Coast is world-renowned for having the fastest post-glacial land uplift on Earth. This UNESCO site dramatically showcases the planet's geological history.",
+    },
+    factsAdvanced: {
+      de: ["Landhebung: 286 Meter total", "Aktuelle Hebung: 8 mm/Jahr", "UNESCO-Welterbe seit 2000", "Lage: Ångermanland"],
+      hu: ["Földemelkedés: összesen 286 méter", "Jelenlegi emelkedés: 8 mm/év", "UNESCO helyszín: 2000 óta", "Helyszín: Ångermanland"],
+      ro: ["Ridicare totală: 286 metri", "Ritm actual: 8 mm/an", "Patrimoniu UNESCO din: 2000", "Locație: Ångermanland"],
+      en: ["Total uplift: 286 metres", "Current rate: 8 mm per year", "UNESCO site since: 2000", "Location: Ångermanland"],
+    },
+    image: "/poi-images/sweden-hoga-kusten-nature-v2.webp",
+},  {
     id: "sweden-handolsforsen-nature-v2",
     type: "landmark",
-    name: { de: "Handölsforsen", hu: "Handölsforsen-vízesés", ro: "Cascada Handölsforsen", en: "Handölsforsen" },
+    name: { de: "Handölsforsen", hu: "Handölsforsen-vízesés", ro: "Cascada Handölsforsen", en: "Handölsforsen",
+image: "/poi-images/sweden-handolsforsen-nature-v2.webp"
+},
     coordinates: { lat: 63.262, lng: 12.449 },
     description: {
       de: "Handölsforsen ist eine beeindruckende Serie von Wasserfällen und Stromschnellen in der Provinz Jämtland. Die Kaskaden stürzen über mehrere Stufen in den See Ånn.",
@@ -564,5 +1000,17 @@ export const swedenNatureV2: POI[] = [
       en: ["Total vertical drop of approximately 110 meters", "A suspension bridge provides a view directly over the falls", "Carries immense water volumes during the spring thaw", "Located near historic soapstone quarries in Handöl"],
     },
     imageHint: "Powerful rushing cascades of Handölsforsen with a suspension bridge above",
+    descriptionAdvanced: {
+      de: "Handölsforsen ist eine Reihe spektakulärer Stromschnellen und Wasserfälle in Jämtland. Die umliegende Natur ist geprägt von Hochgebirgsvegetation und wilder Schönheit.",
+      hu: "A Handölsforsen látványos zúgók és vízesések sorozata Jämtland tartományban. A környező természetet a magashegyi növényzet és a vad szépség jellemzi.",
+      ro: "Handölsforsen este o serie de praguri și cascade spectaculoase în Jämtland. Natura înconjurătoare este marcată de vegetație montană înaltă și frumusețe sălbatică.",
+      en: "Handölsforsen is a series of spectacular rapids and waterfalls in Jämtland. The surrounding area is characterised by high-mountain vegetation and wild natural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Gesamthöhe: 110 Meter", "Fluss: Handölan", "Hängebrücke über die Fälle", "Lage: Nah der Grenze zu Norwegen"],
+      hu: ["Teljes szintkülönbség: 110 méter", "Folyó: Handölan", "Függőhíd a vízesés felett", "Helyszín: Norvég határ közelében"],
+      ro: ["Cădere totală: 110 metri", "Râu: Handölan", "Pod suspendat peste cascade", "Locație: Lângă granița cu Norvegia"],
+      en: ["Total drop: 110 metres", "River: Handölan", "Suspension bridge over falls", "Location: Near Norwegian border"],
+    },
   }
 ];

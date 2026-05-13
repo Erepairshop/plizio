@@ -4,7 +4,9 @@ export const ukraineReliefV2: POI[] = [
   {
     id: "ukraine-brebeneskul-relief-v2",
     type: "peak",
-    name: { de: "Brebeneskul", hu: "Brebeneszkul", ro: "Brebeneskul", en: "Brebeneskul" },
+    name: { de: "Brebeneskul", hu: "Brebeneszkul", ro: "Brebeneskul", en: "Brebeneskul",
+image: "/poi-images/ukraine-brebeneskul-relief-v2.webp"
+},
     coords: [24.5772, 48.0983],
     coordinates: { lat: 48.0983, lng: 24.5772 },
     description: {
@@ -19,11 +21,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2035 metri", "Al doilea vârf ca mărime", "Aproape de lacul Brebeneskul", "Relief glaciar tipic"],
       en: ["Elevation: 2,035 meters", "Second highest in Ukraine", "Glacial landforms", "Part of Chornohora range"],
     },
-    imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians", image: "/poi-images/ukraine-brebeneskul-relief-v2.webp"},
-  {
+imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
+    descriptionAdvanced: {
+      de: "Dieser 2035 Meter hohe Gipfel ist der zweithöchste Berg der Ukraine. Er liegt im zentralen Teil des Tschornohora-Massivs und ist für den gleichnamigen Gletschersee bekannt.",
+      hu: "A 2035 méteres magasságával Ukrajna második legmagasabb csúcsa. A Csornohora-hegység központi részén található, közel az ország legmagasabban fekvő tengerszeméhez.",
+      ro: "Cu o înălțime de 2035 de metri, acesta este al doilea cel mai înalt vârf din Ucraina. Situat în masivul Ciornohora, este renumit pentru lacul glaciar aflat la baza sa.",
+      en: "Standing at 2035 meters, Brebeneskul is the second highest peak in Ukraine. Located in the Chornohora range, it is famous for the highest mountain lake in the country nearby.",
+    },
+    factsAdvanced: {
+      de: ["2035 Meter hoch", "Tschornohora-Gebirge", "Höchster Bergsee nahebei", "Zweithöchster Gipfel"],
+      hu: ["2035 méter magas", "Csornohora-hegység", "Legmagasabb tengerszem", "Második legmagasabb pont"],
+      ro: ["2035 metri înălțime", "Munții Ciornohora", "Lacul Brebeneskul", "Al doilea vârf montan"],
+      en: ["2035 meters high", "Chornohora range", "Highest glacial lake", "Second highest peak"],
+    },
+    image: "/poi-images/ukraine-brebeneskul-relief-v2.webp",
+},  {
     id: "ukraine-petros-relief-v2",
     type: "peak",
-    name: { de: "Petros", hu: "Petrosz", ro: "Petros", en: "Petros" },
+    name: { de: "Petros", hu: "Petrosz", ro: "Petros", en: "Petros",
+image: "/poi-images/ukraine-petros-relief-v2.webp"
+},
     coords: [24.4194, 48.1719],
     coordinates: { lat: 48.1719, lng: 24.4194 },
     description: {
@@ -38,11 +55,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2020 metri", "Capelă de lemn pe vârf", "Pante accidentate", "Vizibilitate spre Hoverla"],
       en: ["Elevation: 2,020 meters", "Steep northwestern slopes", "Wooden chapel on summit", "Separate from main ridge"],
     },
-    imageHint: "Steep slopes of Mount Petros in the Carpathians", image: "/poi-images/ukraine-petros-relief-v2.webp"},
-  {
+imageHint: "Steep slopes of Mount Petros in the Carpathians",
+    descriptionAdvanced: {
+      de: "Der Petros ist ein markanter Gipfel im Tschornohora-Massiv mit einer Höhe von 2020 Metern. Er ist bekannt für seine steilen Hänge und die anspruchsvollen Aufstiege im Winter.",
+      hu: "A 2020 méter magas Petrosz a Csornohora-hegység egyik legnépszerűbb csúcsa. Meredek oldalai és a téli időszakban tapasztalható zord körülményei miatt a hegymászók kedvelt célpontja.",
+      ro: "Vârful Petros are o înălțime de 2020 de metri și face parte din masivul Ciornohora. Este cunoscut pentru pantele sale abrupte și pentru condițiile meteo variabile.",
+      en: "Mount Petros stands at 2020 meters in the Chornohora range. It is renowned for its steep slopes and is considered one of the most challenging peaks to climb during winter.",
+    },
+    factsAdvanced: {
+      de: ["2020 Meter hoch", "Tschornohora-Massiv", "Steile Westflanke", "Beliebtes Wanderziel"],
+      hu: ["2020 méter magas", "Csornohora-hegység", "Meredek nyugati fal", "Népszerű túraútvonal"],
+      ro: ["2020 metri înălțime", "Masivul Ciornohora", "Pante abrupte", "Destinație de alpinism"],
+      en: ["2020 meters high", "Chornohora massif", "Steep western slopes", "Popular hiking peak"],
+    },
+    image: "/poi-images/ukraine-petros-relief-v2.webp",
+},  {
     id: "ukraine-rebra-relief-v2",
     type: "peak",
-    name: { de: "Rebra", hu: "Rebra", ro: "Rebra", en: "Rebra" },
+    name: { de: "Rebra", hu: "Rebra", ro: "Rebra", en: "Rebra",
+image: "/poi-images/ukraine-rebra-relief-v2.webp"
+},
     coords: [24.5583, 48.1117],
     coordinates: { lat: 48.1117, lng: 24.5583 },
     description: {
@@ -57,11 +89,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2001 metri", "Cel mai mic vârf peste 2000m", "Creste stâncoase nordice", "Masivul Chornohora"],
       en: ["Elevation: 2,001 meters", "Lowest of the 2,000m peaks", "Rocky ribs formation", "Glacial cirques nearby"],
     },
-    imageHint: "Rocky ridges of Mount Rebra in Ukraine", image: "/poi-images/ukraine-rebra-relief-v2.webp"},
-  {
+imageHint: "Rocky ridges of Mount Rebra in Ukraine",
+    descriptionAdvanced: {
+      de: "Mit exakt 2001 Metern ist die Rebra der kleinste der sechs Zweitausender der Ukraine. Der Gipfel ist durch felsige Grate und steile Abgründe an der Nordseite geprägt.",
+      hu: "A maga 2001 méteres magasságával a Rebra a legkisebb Ukrajna hat kétezer méter feletti csúcsa közül. Északi oldalát meredek sziklafalak és mély szakadékok jellemzik.",
+      ro: "Cu o înălțime de 2001 metri, Rebra este cel mai mic dintre cei șase vârfuri de peste 2000 de metri din Ucraina. Partea sa nordică prezintă creste stâncoase abrupte.",
+      en: "At 2001 meters, Rebra is the lowest of Ukraine's six peaks exceeding two thousand meters. Its northern face is characterized by sharp rocky ridges and steep precipices.",
+    },
+    factsAdvanced: {
+      de: ["2001 Meter hoch", "Tschornohora-Gebirge", "Felsige Nordflanke", "Sechster Zweitausender"],
+      hu: ["2001 méter magas", "Csornohora-hegység", "Sziklás északi fal", "Kétezres csúcs"],
+      ro: ["2001 metri înălțime", "Munții Ciornohora", "Creste stâncoase", "Vârf de peste 2000 m"],
+      en: ["2001 meters high", "Chornohora range", "Rocky northern slopes", "Lowest 2000m peak"],
+    },
+    image: "/poi-images/ukraine-rebra-relief-v2.webp",
+},  {
     id: "ukraine-hutyn-tomnatyk-relief-v2",
     type: "peak",
-    name: { de: "Hutyn Tomnatyk", hu: "Gutin-Tomnatik", ro: "Hutin Tomnatic", en: "Hutyn Tomnatyk" },
+    name: { de: "Hutyn Tomnatyk", hu: "Gutin-Tomnatik", ro: "Hutin Tomnatic", en: "Hutyn Tomnatyk",
+image: "/poi-images/ukraine-hutyn-tomnatyk-relief-v2.webp"
+},
     coords: [24.5539, 48.1001],
     coordinates: { lat: 48.1001, lng: 24.5539 },
     description: {
@@ -76,11 +123,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2016 metri", "Al cincilea vârf ca înălțime", "Vegetație alpină bogată", "Lângă cel mai înalt lac"],
       en: ["Elevation: 2,016 meters", "Fifth highest peak", "Overlooks Brebeneskul Lake", "Rich subalpine biodiversity"],
     },
-    imageHint: "Hutyn Tomnatyk peak near a mountain lake", image: "/poi-images/ukraine-hutyn-tomnatyk-relief-v2.webp"},
-  {
+imageHint: "Hutyn Tomnatyk peak near a mountain lake",
+    descriptionAdvanced: {
+      de: "Dieser 2016 Meter hohe Berg liegt im zentralen Teil des Tschornohora-Massivs. Er ist besonders fotogen durch seine Lage direkt oberhalb des Brebeneskul-Gletschersees.",
+      hu: "Ez a 2016 méter magas hegy a Csornohora-hegység központi részén található. Különleges látványt nyújt, mivel közvetlenül a Brebeneszkul-tó felett magasodik.",
+      ro: "Acest munte de 2016 metri este situat în inima masivului Ciornohora. Este deosebit de pitoresc datorită poziției sale chiar deasupra lacului glaciar Brebeneskul.",
+      en: "Standing at 2016 meters, this peak is located in the central Chornohora range. it offers stunning views as it rises directly above the glacial Lake Brebeneskul.",
+    },
+    factsAdvanced: {
+      de: ["2016 Meter hoch", "Tschornohora-Massiv", "Nahe dem Brebeneskul-See", "Subalpine Flora"],
+      hu: ["2016 méter magas", "Csornohora-hegység", "Brebeneszkul-tó felett", "Szubalpin növényzet"],
+      ro: ["2016 metri înălțime", "Masivul Ciornohora", "Lângă lacul Brebeneskul", "Floră subalpină"],
+      en: ["2016 meters high", "Chornohora massif", "Above Lake Brebeneskul", "Subalpine zone"],
+    },
+    image: "/poi-images/ukraine-hutyn-tomnatyk-relief-v2.webp",
+},  {
     id: "ukraine-roman-kosh-relief-v2",
     type: "peak",
-    name: { de: "Roman-Kosch", hu: "Roman-Kos", ro: "Roman-Koș", en: "Roman-Kosh" },
+    name: { de: "Roman-Kosch", hu: "Roman-Kos", ro: "Roman-Koș", en: "Roman-Kosh",
+image: "/poi-images/ukraine-roman-kosh-relief-v2.webp"
+},
     coords: [34.2433, 44.6111],
     coordinates: { lat: 44.6111, lng: 34.2433 },
     description: {
@@ -95,11 +157,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1545 metri", "Cel mai înalt din Crimeea", "Masivul Babugan-Iaila", "Rezervație naturală"],
       en: ["Elevation: 1,545 meters", "Highest point in Crimea", "Limestone composition", "Part of Nature Reserve"],
     },
-    imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea", image: "/poi-images/ukraine-roman-kosh-relief-v2.webp"},
-  {
+imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
+    descriptionAdvanced: {
+      de: "Der Roman-Kosch ist mit 1545 Metern der höchste Gipfel des Krimgebirges. Er befindet sich auf dem Babuhan-Jajla-Plateau innerhalb des Krim-Naturreservats.",
+      hu: "Az 1545 méter magas Roman-Kos az ukrajnai Krím-hegység legmagasabb pontja. A Babugan-jajla karsztfennsíkon található, a Krími Természetvédelmi Terület részeként.",
+      ro: "Roman-Koș este cel mai înalt vârf din Munții Crimeii, având 1545 de metri. Acesta este situat pe platoul Babugan-Iaila, în cadrul rezervației naturale Crimeea.",
+      en: "Roman-Kosh is the highest peak of the Crimean Mountains, reaching 1545 meters. It is situated on the Babuhan-Yaila plateau within the Crimean Nature Reserve.",
+    },
+    factsAdvanced: {
+      de: ["1545 Meter hoch", "Höchster Berg der Krim", "Babuhan-Jajla-Plateau", "Kalksteinstruktur"],
+      hu: ["1545 méter magas", "A Krím legmagasabb pontja", "Babugan-jajla fennsík", "Mészkő alapkőzet"],
+      ro: ["1545 metri înălțime", "Cel mai înalt din Crimeea", "Platoul Babugan-Iaila", "Structură calcaroasă"],
+      en: ["1545 meters high", "Highest in Crimea", "Babuhan-Yaila plateau", "Limestone formation"],
+    },
+    image: "/poi-images/ukraine-roman-kosh-relief-v2.webp",
+},  {
     id: "ukraine-ai-petri-relief-v2",
     type: "peak",
-    name: { de: "Ai-Petri", hu: "Aj-Petri", ro: "Ai-Petri", en: "Ai-Petri" },
+    name: { de: "Ai-Petri", hu: "Aj-Petri", ro: "Ai-Petri", en: "Ai-Petri",
+image: "/poi-images/ukraine-ai-petri-relief-v2.webp"
+},
     coords: [34.0533, 44.4522],
     coordinates: { lat: 44.4522, lng: 34.0533 },
     description: {
@@ -114,11 +191,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1234 metri", "Cel mai vântos loc", "Telecabină din Mișhor", "Turnuri de calcar"],
       en: ["Elevation: 1,234 meters", "Windiest place in Ukraine", "Cable car access", "Limestone pinnacles"],
     },
-    imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea", image: "/poi-images/ukraine-ai-petri-relief-v2.webp"},
-  {
+imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
+    descriptionAdvanced: {
+      de: "Der Ai-Petri ist berühmt für seine markanten Kalksteinzacken, die an eine mittelalterliche Festung erinnern. Er ist durch eine Seilbahn mit der Küste verbunden.",
+      hu: "Az Aj-Petri híres jellegzetes mészkőfogaival büszkélkedhet, amelyek egy középkori várfalra emlékeztetnek. A partvidékkel kötélpálya köti össze a csúcsot.",
+      ro: "Ai-Petri este faimos pentru colții săi de calcar care seamănă cu o cetate medievală. Vârful este conectat de coastă printr-una dintre cele mai lungi telecabine.",
+      en: "Ai-Petri is famous for its distinctive limestone teeth that resemble a medieval fortress. It is connected to the coast by a spectacular cable car line.",
+    },
+    factsAdvanced: {
+      de: ["1234 Meter hoch", "Krimgebirge", "Seilbahn von Mischor", "Karsthöhlen"],
+      hu: ["1234 méter magas", "Krím-hegység", "Mishori kötélpálya", "Karsztbarlangok"],
+      ro: ["1234 metri înălțime", "Munții Crimeii", "Telecabină din Mișhor", "Peșteri carstice"],
+      en: ["1234 meters high", "Crimean Mountains", "Miskhor cable car", "Karst caves"],
+    },
+    image: "/poi-images/ukraine-ai-petri-relief-v2.webp",
+},  {
     id: "ukraine-chatyr-dag-relief-v2",
     type: "mountain",
-    name: { de: "Tschatyr-Dag", hu: "Csatir-Dag", ro: "Ceatîr-Dag", en: "Chatyr-Dag" },
+    name: { de: "Tschatyr-Dag", hu: "Csatir-Dag", ro: "Ceatîr-Dag", en: "Chatyr-Dag",
+image: "/poi-images/ukraine-chatyr-dag-relief-v2.webp"
+},
     coords: [34.3, 44.7833],
     coordinates: { lat: 44.7833, lng: 34.3 },
     description: {
@@ -133,11 +225,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Punct maxim: 1527m", "Peste 140 de peșteri", "Numele înseamnă 'Muntele Cort'", "Relief carstic dezvoltat"],
       en: ["Highest point: 1,527m", "Extensive karst cave system", "Name means 'Tent Mountain'", "Includes Marble Cave"],
     },
-    imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea", image: "/poi-images/ukraine-chatyr-dag-relief-v2.webp"},
-  {
+imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
+    descriptionAdvanced: {
+      de: "Das Tschatyr-Dag-Massiv ist für seine weiten Plateaus und über 140 Höhlen bekannt. Der Name bedeutet im Tatarischen Zeltberg, was auf seine Form hinweist.",
+      hu: "A Csadir-dag masszívum híres kiterjedt fennsíkjairól és több mint 140 barlangjáról. Neve tatár nyelven sátor-hegyet jelent, ami jellegzetes alakjára utal.",
+      ro: "Masivul Chatyr-Dag este cunoscut pentru platourile sale întinse și cele peste 140 de peșteri. Numele său înseamnă Muntele Cort în limba tătară.",
+      en: "The Chatyr-Dag massif is famous for its vast plateaus and over 140 caves. Its name means Tent Mountain in Tatar, referring to its distinctive silhouette.",
+    },
+    factsAdvanced: {
+      de: ["1527 Meter hoch", "Eklisi-Burun Gipfel", "Zeltähnliche Form", "Karstlandschaft"],
+      hu: ["1527 méter magas", "Eklizi-Burun csúcs", "Sátor alakú forma", "Karsztvidék"],
+      ro: ["1527 metri înălțime", "Vârful Eklizi-Burun", "Formă de cort", "Peisaj carstic"],
+      en: ["1527 meters high", "Eklizi-Burun peak", "Tent-like shape", "Karst landscape"],
+    },
+    image: "/poi-images/ukraine-chatyr-dag-relief-v2.webp",
+},  {
     id: "ukraine-demerdzhi-yaila-relief-v2",
     type: "mountain",
-    name: { de: "Demerdschi-Jajla", hu: "Demerdzsi-jajla", ro: "Demergi-Iaila", en: "Demerdzhi-Yaila" },
+    name: { de: "Demerdschi-Jajla", hu: "Demerdzsi-jajla", ro: "Demergi-Iaila", en: "Demerdzhi-Yaila",
+image: "/poi-images/ukraine-demerdzhi-yaila-relief-v2.webp"
+},
     coords: [34.4, 44.75],
     coordinates: { lat: 44.75, lng: 34.4 },
     description: {
@@ -152,11 +259,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Valea Fantomelor", "Formațiuni din conglomerat", "Altitudine max: 1356 m", "Peisaj spectaculos"],
       en: ["Valley of Ghosts", "Conglomerate rock pillars", "Peak height: 1,356m", "Erosional landscape"],
     },
-    imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi", image: "/poi-images/ukraine-demerdzhi-yaila-relief-v2.webp"},
-  {
+imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
+    descriptionAdvanced: {
+      de: "Dieses Bergmassiv ist weltberühmt für das Tal der Geister, eine Ansammlung bizarrer Felssäulen aus Konglomeratgestein, die durch Erosion entstanden sind.",
+      hu: "Ez a hegymasszívum világhírű a Szellemek völgyéről, ahol az erózió által formált bizarr alakú konglomerátum sziklaoszlopok sorakoznak.",
+      ro: "Acest masiv muntos este renumit pentru Valea Fantomelor, o colecție de coloane bizare din conglomerate formate prin eroziune naturală.",
+      en: "This mountain massif is world-famous for the Valley of Ghosts, a collection of bizarrely shaped conglomerate rock pillars formed by erosion.",
+    },
+    factsAdvanced: {
+      de: ["1239 Meter hoch", "Tal der Geister", "Konglomeratgestein", "Krimgebirge"],
+      hu: ["1239 méter magas", "Szellemek völgye", "Konglomerátum kőzet", "Krím-hegység"],
+      ro: ["1239 metri înălțime", "Valea Fantomelor", "Roci conglomerate", "Munții Crimeii"],
+      en: ["1239 meters high", "Valley of Ghosts", "Conglomerate rocks", "Crimean Mountains"],
+    },
+    image: "/poi-images/ukraine-demerdzhi-yaila-relief-v2.webp",
+},  {
     id: "ukraine-karadag-relief-v2",
     type: "mountain",
-    name: { de: "Karadag", hu: "Kara-Dag", ro: "Kara-Dag", en: "Karadag" },
+    name: { de: "Karadag", hu: "Kara-Dag", ro: "Kara-Dag", en: "Karadag",
+image: "/poi-images/ukraine-karadag-relief-v2.webp"
+},
     coords: [35.2167, 44.9333],
     coordinates: { lat: 44.9333, lng: 35.2167 },
     description: {
@@ -171,11 +293,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Vulcan stins", "Stânca Poarta de Aur", "Roci magmatice negre", "Rezervație geologică"],
       en: ["Extinct volcano", "Golden Gate rock arch", "Jurassic volcanic activity", "Strict nature reserve"],
     },
-    imageHint: "Volcanic coastal rocks of Karadag in Crimea", image: "/poi-images/ukraine-karadag-relief-v2.webp"},
-  {
+imageHint: "Volcanic coastal rocks of Karadag in Crimea",
+    descriptionAdvanced: {
+      de: "Der Karadag ist ein erloschener Vulkan aus dem Jura. Er beeindruckt durch seine schwarzen Klippen und die berühmte Felsformation Goldenes Tor im Meer.",
+      hu: "A Kara-dag egy jura időszaki kialudt vulkán. Lenyűgöző fekete szikláiról és a tengerben álló híres Aranykapu sziklaformációjáról ismert.",
+      ro: "Karadag este un vulcan stins din perioada jurasică. Impresionează prin stâncile sale negre și celebra formațiune Poarta de Aur situată în mare.",
+      en: "Karadag is an extinct volcano dating back to the Jurassic period. It features dramatic black cliffs and the famous Golden Gate rock formation in the sea.",
+    },
+    factsAdvanced: {
+      de: ["577 Meter hoch", "Vulkanischen Ursprungs", "Naturreservat seit 1979", "Goldenes Tor Felsen"],
+      hu: ["577 méter magas", "Vulkanikus eredetű", "Természetvédelmi terület", "Aranykapu szikla"],
+      ro: ["577 metri înălțime", "Origine vulcanică", "Rezervație din 1979", "Stânca Poarta de Aur"],
+      en: ["577 meters high", "Volcanic origin", "Nature reserve since 1979", "Golden Gate rock"],
+    },
+    image: "/poi-images/ukraine-karadag-relief-v2.webp",
+},  {
     id: "ukraine-mohyla-mechetna-relief-v2",
     type: "peak",
-    name: { de: "Mohyla Mechetna", hu: "Mohila Mecsetna", ro: "Mohila Mechetna", en: "Mohyla Mechetna" },
+    name: { de: "Mohyla Mechetna", hu: "Mohila Mecsetna", ro: "Mohila Mechetna", en: "Mohyla Mechetna",
+image: "/poi-images/ukraine-mohyla-mechetna-relief-v2.webp"
+},
     coords: [38.8642, 48.2611],
     coordinates: { lat: 48.2611, lng: 38.8642 },
     description: {
@@ -190,11 +327,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 367 metri", "Vârful podișului Doneț", "Regiunea Luhansk", "Relief de coline vechi"],
       en: ["Elevation: 367 meters", "Highest in Donets Ridge", "Luhansk region", "Eastern Ukraine's summit"],
     },
-    imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region", image: "/poi-images/ukraine-mohyla-mechetna-relief-v2.webp"},
-  {
+imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
+    descriptionAdvanced: {
+      de: "Mit 367 Metern ist die Mohyla Mechetna der höchste Punkt des Donezrückens. Sie stellt die bedeutendste Erhebung im Osten der Ukraine dar.",
+      hu: "A 367 méter magas Mohila Mecsetna a Donyeci-hátság legmagasabb pontja. Ez a kiemelkedés Kelet-Ukrajna legjelentősebb domborzati formája.",
+      ro: "Cu o înălțime de 367 de metri, Mohila Mechetna este cel mai înalt punct din Podișul Doneț. Reprezintă cea mai importantă culme din estul Ucrainei.",
+      en: "At 367 meters, Mohyla Mechetna is the highest point of the Donets Ridge. It stands as the most significant elevation in Eastern Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["367 Meter hoch", "Donezrücken", "Ostukrainisches Hochland", "Region Luhansk"],
+      hu: ["367 méter magas", "Donyeci-hátság", "Kelet-Ukrajna csúcsa", "Luhanszki terület"],
+      ro: ["367 metri înălțime", "Podișul Doneț", "Culmea est-ucraineană", "Regiunea Luhansk"],
+      en: ["367 meters high", "Donets Ridge", "Eastern Ukraine peak", "Luhansk region"],
+    },
+    image: "/poi-images/ukraine-mohyla-mechetna-relief-v2.webp",
+},  {
     id: "ukraine-belmakh-mohyla-relief-v2",
     type: "peak",
-    name: { de: "Belmach-Mohyla", hu: "Belmah-mohila", ro: "Belmah-Mohila", en: "Belmakh-Mohyla" },
+    name: { de: "Belmach-Mohyla", hu: "Belmah-mohila", ro: "Belmah-Mohila", en: "Belmakh-Mohyla",
+image: "/poi-images/ukraine-belmakh-mohyla-relief-v2.webp"
+},
     coords: [36.5783, 47.3172],
     coordinates: { lat: 47.3172, lng: 36.5783 },
     description: {
@@ -210,11 +362,25 @@ export const ukraineReliefV2: POI[] = [
       en: ["Elevation: 324 meters", "Highest in Azov Upland", "Crystalline shield outcrop", "Zaporizhzhia region"],
     },
     imageHint: "Elevated landscape of Belmakh-Mohyla hill",
+    descriptionAdvanced: {
+      de: "Die Belmach-Mohyla ist mit 324 Metern die höchste Erhebung des Asowschen Hochlandes. Sie ist ein wichtiger geodätischer Punkt im Süden der Ukraine.",
+      hu: "A 324 méter magas Belmah-mohila az Azovi-hátság legmagasabb pontja. Fontos geodéziai mérőpont és tájképi elem Ukrajna déli részén.",
+      ro: "Belmah-Mohila este cel mai înalt punct din Podișul Azov, având 324 de metri. Este un punct geodezic important în sudul Ucrainei.",
+      en: "Belmakh-Mohyla is the highest elevation of the Azov Upland, reaching 324 meters. It serves as an important geodetic point in southern Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["324 Meter hoch", "Asowsches Hochland", "Region Saporischschja", "Kristallines Fundament"],
+      hu: ["324 méter magas", "Azovi-hátság", "Zaporizzsjai terület", "Kristályos alapkőzet"],
+      ro: ["324 metri înălțime", "Podișul Azov", "Regiunea Zaporijjea", "Fundament cristalin"],
+      en: ["324 meters high", "Azov Upland", "Zaporizhzhia region", "Crystalline basement"],
+    },
   },
   {
     id: "ukraine-mount-syvulia-relief-v2",
     type: "peak",
-    name: { de: "Große Sywulja", hu: "Nagy-Szivulya", ro: "Sivula Mare", en: "Mount Syvulia" },
+    name: { de: "Große Sywulja", hu: "Nagy-Szivulya", ro: "Sivula Mare", en: "Mount Syvulia",
+image: "/poi-images/ukraine-mount-syvulia-relief-v2.webp"
+},
     coords: [24.1167, 48.55],
     coordinates: { lat: 48.55, lng: 24.1167 },
     description: {
@@ -229,11 +395,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1836 metri", "Cel mai înalt din Gorgany", "Câmpuri de piatră", "Carpații Orientali"],
       en: ["Elevation: 1,836 meters", "Highest peak of Gorgany", "Sandstone debris fields", "Ivano-Frankivsk region"],
     },
-    imageHint: "Sandstone boulder fields on Mount Syvulia", image: "/poi-images/ukraine-mount-syvulia-relief-v2.webp"},
-  {
+imageHint: "Sandstone boulder fields on Mount Syvulia",
+    descriptionAdvanced: {
+      de: "Die Sywulja ist der höchste Gipfel der Gorgany-Kette. Charakteristisch sind die riesigen Steinfelder aus Sandsteinblöcken, die lokal als Gregoty bekannt sind.",
+      hu: "A Szivulja a Gorgánok legmagasabb csúcsa. Jellemzői a hatalmas homokkő tömbökből álló kőtengerek, amelyeket a helyiek gregotinak neveznek.",
+      ro: "Vârful Syvulia este cel mai înalt din lanțul muntos Gorgany. Este caracterizat prin câmpuri vaste de blocuri de gresie, numite local grehoty.",
+      en: "Mount Syvulia is the highest peak in the Gorganys range. It is characterized by vast fields of sandstone boulders known locally as gregoty.",
+    },
+    factsAdvanced: {
+      de: ["1836 Meter hoch", "Gorgany-Gebirge", "Große Steinfelder", "Sandsteinformationen"],
+      hu: ["1836 méter magas", "Gorgánok hegység", "Hatalmas kőtengerek", "Homokkő formációk"],
+      ro: ["1836 metri înălțime", "Munții Gorgany", "Câmpuri de pietre", "Blocuri de gresie"],
+      en: ["1836 meters high", "Gorganys range", "Stone runs (gregoty)", "Sandstone blocks"],
+    },
+    image: "/poi-images/ukraine-mount-syvulia-relief-v2.webp",
+},  {
     id: "ukraine-mount-stih-relief-v2",
     type: "peak",
-    name: { de: "Stih", hu: "Asztag (Sztih)", ro: "Stogu", en: "Mount Stih" },
+    name: { de: "Stih", hu: "Asztag (Sztih)", ro: "Stogu", en: "Mount Stih",
+image: "/poi-images/ukraine-mount-stih-relief-v2.webp"
+},
     coords: [24.2167, 48.25],
     coordinates: { lat: 48.25, lng: 24.2167 },
     description: {
@@ -249,11 +430,25 @@ export const ukraineReliefV2: POI[] = [
       en: ["Elevation: 1,704 meters", "Svydovets mountain range", "Alpine meadows", "Ridge intersection"],
     },
     imageHint: "Rolling alpine meadows of Mount Stih",
+    descriptionAdvanced: {
+      de: "Der Berg Stih im Rachiw-Massiv war historisch ein wichtiger Grenzpunkt. Heute ist er ein beliebtes Ziel für Wanderer, die die unberührte Natur schätzen.",
+      hu: "A Rahói-hegységben található Sztih-hegy történelmileg fontos határpont volt. Ma a túrázók kedvelt célpontja az érintetlen természet miatt.",
+      ro: "Muntele Stih din masivul Rahiv a fost istoric un punct de frontieră important. Astăzi este o destinație populară pentru drumeții în natură virgină.",
+      en: "Mount Stih in the Rakhiv massif was historically a key border point. Today, it is a popular destination for hikers seeking pristine natural landscapes.",
+    },
+    factsAdvanced: {
+      de: ["1681 Meter hoch", "Rachiw-Massiv", "Historische Grenze", "Karpaten-Biosphäre"],
+      hu: ["1681 méter magas", "Rahói-hegység", "Történelmi határ", "Kárpáti bioszféra"],
+      ro: ["1681 metri înălțime", "Masivul Rahiv", "Graniță istorică", "Biosfera Carpatică"],
+      en: ["1681 meters high", "Rakhiv massif", "Historical border", "Carpathian biosphere"],
+    },
   },
   {
     id: "ukraine-mount-gemba-relief-v2",
     type: "peak",
-    name: { de: "Gemba", hu: "Gimba (Gemba)", ro: "Ghemba", en: "Mount Gemba" },
+    name: { de: "Gemba", hu: "Gimba (Gemba)", ro: "Ghemba", en: "Mount Gemba",
+image: "/poi-images/ukraine-mount-gemba-relief-v2.webp"
+},
     coords: [23.2708, 48.5908],
     coordinates: { lat: 48.5908, lng: 23.2708 },
     description: {
@@ -268,11 +463,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1491 metri", "Masivul Borjava", "Centru de parapantism", "Stațiunea Pilipeț"],
       en: ["Elevation: 1,491 meters", "Borzhava mountain range", "Paragliding hotspot", "Pylypets ski area"],
     },
-    imageHint: "Grassy slopes of Mount Gemba in summer", image: "/poi-images/ukraine-mount-gemba-relief-v2.webp"},
-  {
+imageHint: "Grassy slopes of Mount Gemba in summer",
+    descriptionAdvanced: {
+      de: "Die Gemba ist einer der höchsten Gipfel der Polonyna Borshava. Sie ist ein Zentrum für den Bergtourismus, das Skifahren und das Gleitschirmfliegen.",
+      hu: "A Gemba a Borzsa-havasok egyik legmagasabb csúcsa. A hegyi turizmus, a síelés és a siklóernyőzés egyik fontos központja Kárpátalján.",
+      ro: "Vârful Gemba este unul dintre cele mai înalte din Polonina Borjava. Este un centru important pentru turism montan, schi și parapantă.",
+      en: "Mount Gemba is one of the highest peaks of the Polonyna Borzhava. It is a major hub for mountain tourism, skiing, and paragliding activities.",
+    },
+    factsAdvanced: {
+      de: ["1491 Meter hoch", "Polonyna Borshava", "Skigebiet Pylypez", "Paragliding-Hotspot"],
+      hu: ["1491 méter magas", "Borzsa-havasok", "Fülöpfalvi síközpont", "Siklóernyős helyszín"],
+      ro: ["1491 metri înălțime", "Polonina Borjava", "Stațiune de schi", "Loc de parapantă"],
+      en: ["1491 meters high", "Polonyna Borzhava", "Ski resort area", "Paragliding spot"],
+    },
+    image: "/poi-images/ukraine-mount-gemba-relief-v2.webp",
+},  {
     id: "ukraine-mount-parashka-relief-v2",
     type: "peak",
-    name: { de: "Paraschka", hu: "Paraska", ro: "Parașca", en: "Mount Parashka" },
+    name: { de: "Paraschka", hu: "Paraska", ro: "Parașca", en: "Mount Parashka",
+image: "/poi-images/ukraine-mount-parashka-relief-v2.webp"
+},
     coords: [23.4167, 49.07],
     coordinates: { lat: 49.07, lng: 23.4167 },
     description: {
@@ -287,11 +497,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1268 metri", "Beskizii Skole", "Regiunea Liov", "Traseu montan popular"],
       en: ["Elevation: 1,268 meters", "Skole Beskids range", "Lviv region", "Accessible day hike"],
     },
-    imageHint: "Hiking trail on Mount Parashka ridge", image: "/poi-images/ukraine-mount-parashka-relief-v2.webp"},
-  {
+imageHint: "Hiking trail on Mount Parashka ridge",
+    descriptionAdvanced: {
+      de: "Die Paraschka ist der höchste Berg der Skoler Beskiden. Sie ist ein beliebtes Wanderziel in der Nähe von Lwiw und bietet weite Panoramaausblicke.",
+      hu: "A Paraska a Szkolei-Beszkidek legmagasabb hegye. Lviv közelében fekszik, népszerű túracélpont, amelyről gyönyörű panoráma nyílik a vidékre.",
+      ro: "Parashka este cel mai înalt munte din Beskizii Skole. Este o destinație de drumeție populară lângă Lviv, oferind panorame spectaculoase.",
+      en: "Mount Parashka is the highest peak of the Skole Beskids. Located near Lviv, it is a popular hiking destination offering sweeping panoramic views.",
+    },
+    factsAdvanced: {
+      de: ["1268 Meter hoch", "Skoler Beskiden", "Nationalpark Skole", "Aussichtspunkt"],
+      hu: ["1268 méter magas", "Szkolei-Beszkidek", "Szkolei Nemzeti Park", "Kilátópont"],
+      ro: ["1268 metri înălțime", "Beskizii Skole", "Parcul Național Skole", "Punct de belvedere"],
+      en: ["1268 meters high", "Skole Beskids", "Skole National Park", "Panoramic peak"],
+    },
+    image: "/poi-images/ukraine-mount-parashka-relief-v2.webp",
+},  {
     id: "ukraine-mount-pikuy-relief-v2",
     type: "peak",
-    name: { de: "Pikuj", hu: "Pikuj", ro: "Picu", en: "Mount Pikuy" },
+    name: { de: "Pikuj", hu: "Pikuj", ro: "Picu", en: "Mount Pikuy",
+image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp"
+},
     coords: [23.0, 48.8333],
     coordinates: { lat: 48.8333, lng: 23.0 },
     description: {
@@ -306,11 +531,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1408 metri", "Cel mai înalt din Liov", "Obelisc pe vârf", "Beskizii Orientali"],
       en: ["Elevation: 1,408 meters", "Highest in Lviv region", "Summit stone pillar", "Watershed ridge peak"],
     },
-    imageHint: "Summit obelisk on top of Mount Pikuy", image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp"},
-  {
+imageHint: "Summit obelisk on top of Mount Pikuy",
+    descriptionAdvanced: {
+      de: "Der Pikuj ist mit 1408 Metern der höchste Gipfel der Wasserscheide-Beskiden. Er markiert die Grenze zwischen den Regionen Lwiw und Transkarpatien.",
+      hu: "Az 1408 méter magas Pikuj a Vízválasztó-Beszkidek legmagasabb pontja. Határvonalat képez a Lvivi és a Kárpátaljai terület között.",
+      ro: "Vârful Pikuy este cel mai înalt din Beskizii de Cumpănă, având 1408 metri. Acesta marchează granița dintre regiunile Lviv și Transcarpatia.",
+      en: "Mount Pikuy is the highest peak of the Watershed Beskids at 1408 meters. It marks the border between the Lviv and Transcarpathian regions.",
+    },
+    factsAdvanced: {
+      de: ["1408 Meter hoch", "Wasserscheide-Beskiden", "Region Lwiw", "Steiler Felsgipfel"],
+      hu: ["1408 méter magas", "Vízválasztó-Beszkidek", "Lvivi terület", "Sziklás hegycsúcs"],
+      ro: ["1408 metri înălțime", "Beskizii de Cumpănă", "Regiunea Lviv", "Vârf stâncos"],
+      en: ["1408 meters high", "Watershed Beskids", "Lviv region", "Rocky summit"],
+    },
+    image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp",
+},  {
     id: "ukraine-mount-kamula-relief-v2",
     type: "peak",
-    name: { de: "Kamula", hu: "Kamula", ro: "Camula", en: "Mount Kamula" },
+    name: { de: "Kamula", hu: "Kamula", ro: "Camula", en: "Mount Kamula",
+image: "/poi-images/ukraine-mount-kamula-relief-v2.webp"
+},
     coords: [24.2833, 49.6833],
     coordinates: { lat: 49.6833, lng: 24.2833 },
     description: {
@@ -325,11 +565,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 471 metri", "Podișul Podoliei", "Zona Holohory", "Păduri de fag dense"],
       en: ["Elevation: 471 meters", "Highest in Podolian Upland", "Holohory hill range", "Forested summit"],
     },
-    imageHint: "Forested hill of Mount Kamula in Lviv region", image: "/poi-images/ukraine-mount-kamula-relief-v2.webp"},
-  {
+imageHint: "Forested hill of Mount Kamula in Lviv region",
+    descriptionAdvanced: {
+      de: "Die Kamula ist mit 471 Metern die höchste Erhebung des Podolischen Hochlandes. Sie liegt in der Holohory-Kette und ist bewaldet.",
+      hu: "A 471 méter magas Kamula a Podóliai-hátság legmagasabb pontja. A Holohori-dombságban található, sűrű erdővel borított kiemelkedés.",
+      ro: "Vârful Kamula este cel mai înalt punct din Podișul Podolic, având 471 de metri. Este situat în culmea Holohory și este acoperit de păduri.",
+      en: "Mount Kamula is the highest point of the Podolian Upland, reaching 471 meters. It is located in the Holohory ridge and is mostly forested.",
+    },
+    factsAdvanced: {
+      de: ["471 Meter hoch", "Podolisches Hochland", "Holohory-Kette", "Bewaldeter Gipfel"],
+      hu: ["471 méter magas", "Podóliai-hátság", "Holohori-dombság", "Erdős csúcs"],
+      ro: ["471 metri înălțime", "Podișul Podolic", "Culmea Holohory", "Vârf împădurit"],
+      en: ["471 meters high", "Podolian Upland", "Holohory ridge", "Forested peak"],
+    },
+    image: "/poi-images/ukraine-mount-kamula-relief-v2.webp",
+},  {
     id: "ukraine-podilski-tovtry-relief-v2",
     type: "landmark",
-    name: { de: "Podilski Towtry", hu: "Podóliai-tovtrák", ro: "Tovtrele Podoliei", en: "Podilski Tovtry" },
+    name: { de: "Podilski Towtry", hu: "Podóliai-tovtrák", ro: "Tovtrele Podoliei", en: "Podilski Tovtry",
+image: "/poi-images/ukraine-podilski-tovtry-relief-v2.webp"
+},
     coords: [26.5833, 48.6667],
     coordinates: { lat: 48.6667, lng: 26.5833 },
     description: {
@@ -344,11 +599,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Recife fosile", "Parc Național", "Formațiuni de calcar", "Relief relict unic"],
       en: ["Fossilized coral reefs", "National Nature Park", "Limestone ridges", "Unique geological relic"],
     },
-    imageHint: "Rocky limestone hills of Podilski Tovtry", image: "/poi-images/ukraine-podilski-tovtry-relief-v2.webp"},
-  {
+imageHint: "Rocky limestone hills of Podilski Tovtry",
+    descriptionAdvanced: {
+      de: "Die Podolski Towtry sind ein fossiles Riffsystem aus dem Miozän. Diese einzigartige Hügelkette war einst ein Korallenriff in einem tropischen Meer.",
+      hu: "A Podóliai-tovtri egy miocén kori fosszilis zátonyrendszer. Ez az egyedülálló dombsor egykor korallzátony volt egy trópusi tenger mélyén.",
+      ro: "Podilski Tovtry este un sistem de recife fosile din perioada miocenă. Acest lanț unic de dealuri a fost odată un recif de corali într-o mare tropicală.",
+      en: "Podilski Tovtry is a fossil reef system dating back to the Miocene epoch. This unique hill range was once a coral reef in a tropical sea.",
+    },
+    factsAdvanced: {
+      de: ["2613 km² Fläche", "Nationalpark", "Antikes Korallenriff", "Region Chmelnyzkyj"],
+      hu: ["2613 km² terület", "Nemzeti Park", "Ősi korallzátony", "Hmelnickiji terület"],
+      ro: ["2613 km² suprafață", "Parc Național", "Recif de corali antic", "Regiunea Hmelnîțkîi"],
+      en: ["2613 km² area", "National Park", "Ancient coral reef", "Khmelnytskyi region"],
+    },
+    image: "/poi-images/ukraine-podilski-tovtry-relief-v2.webp",
+},  {
     id: "ukraine-podolian-upland-relief-v2",
     type: "mountain",
-    name: { de: "Podolische Platte", hu: "Podóliai-hátság", ro: "Podișul Podoliei", en: "Podolian Upland" },
+    name: { de: "Podolische Platte", hu: "Podóliai-hátság", ro: "Podișul Podoliei", en: "Podolian Upland",
+image: "/poi-images/ukraine-podolian-upland-relief-v2.webp"
+},
     coords: [27.0, 49.0],
     coordinates: { lat: 49.0, lng: 27.0 },
     description: {
@@ -363,11 +633,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Platou înalt", "Relief carstic", "Soluri de loess", "Peșteri de ghips mari"],
       en: ["Extensive plateau", "Karst topography", "Loess soil cover", "Major gypsum cave systems"],
     },
-    imageHint: "Rolling plateau landscape of the Podolian Upland", image: "/poi-images/ukraine-podolian-upland-relief-v2.webp"},
-  {
+imageHint: "Rolling plateau landscape of the Podolian Upland",
+    descriptionAdvanced: {
+      de: "Das Podolische Hochland ist eine weite Hochebene im Westen der Ukraine. Es ist durch tief eingeschnittene Flusstäler wie den Dnister-Canyon geprägt.",
+      hu: "A Podóliai-hátság egy kiterjedt fennsík Ukrajna nyugati részén. Mélyen bevágódott folyóvölgyek jellemzik, mint például a Dnyeszter-kanyon.",
+      ro: "Podișul Podolic este un platou vast în vestul Ucrainei. Este caracterizat de văi fluviale adânc incizate, cum ar fi Canionul Nistrului.",
+      en: "The Podolian Upland is a vast plateau in western Ukraine. It is characterized by deeply incised river valleys, such as the Dniester Canyon.",
+    },
+    factsAdvanced: {
+      de: ["300-400 m Durchschnitt", "Westukraine", "Dnister-Canyon", "Lössboden"],
+      hu: ["300-400 m átlag", "Nyugat-Ukrajna", "Dnyeszter-kanyon", "Löszös talaj"],
+      ro: ["300-400 m medie", "Vestul Ucrainei", "Canionul Nistrului", "Soluri de loess"],
+      en: ["300-400 m average", "Western Ukraine", "Dniester Canyon", "Loess soils"],
+    },
+    image: "/poi-images/ukraine-podolian-upland-relief-v2.webp",
+},  {
     id: "ukraine-dnieper-upland-relief-v2",
     type: "mountain",
-    name: { de: "Dnjepr-Hochland", hu: "Dnyeper-menti-hátság", ro: "Podișul Niprului", en: "Dnieper Upland" },
+    name: { de: "Dnjepr-Hochland", hu: "Dnyeper-menti-hátság", ro: "Podișul Niprului", en: "Dnieper Upland",
+image: "/poi-images/ukraine-dnieper-upland-relief-v2.webp"
+},
     coords: [31.0, 49.0],
     coordinates: { lat: 49.0, lng: 31.0 },
     description: {
@@ -382,11 +667,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Dealuri ondulate", "Fundament cristalin", "Depozite de loess", "Ucraina Centrală"],
       en: ["Rolling hills", "Crystalline bedrock", "Loess deposits", "Central Ukraine"],
     },
-    imageHint: "Rolling hills of the Dnieper Upland", image: "/poi-images/ukraine-dnieper-upland-relief-v2.webp"},
-  {
+imageHint: "Rolling hills of the Dnieper Upland",
+    descriptionAdvanced: {
+      de: "Das Dnepr-Hochland erstreckt sich zwischen dem Dnepr und dem Südlichen Bug. Es ist eine hügelige Ebene mit einer maximalen Höhe von 323 Metern.",
+      hu: "A Dnyeper-menti-hátság a Dnyeper és a Déli-Bug folyók között terül el. Dombos síkság, amelynek legmagasabb pontja eléri a 323 métert.",
+      ro: "Podișul Niprului se întinde între fluviul Nipru și Bugul de Sud. Este o câmpie deluroasă cu o înălțime maximă de 323 de metri.",
+      en: "The Dnieper Upland extends between the Dnieper and Southern Bug rivers. It is a hilly plain with a maximum elevation of 323 meters.",
+    },
+    factsAdvanced: {
+      de: ["323 Meter max.", "Zentralukraine", "Granit-Untergrund", "Agrarisch genutzt"],
+      hu: ["323 méter max.", "Közép-Ukrajna", "Gránit alapkőzet", "Mezőgazdasági terület"],
+      ro: ["323 metri maxim", "Ucraina Centrală", "Substrat de granit", "Zonă agricolă"],
+      en: ["323 meters max", "Central Ukraine", "Granite basement", "Agricultural land"],
+    },
+    image: "/poi-images/ukraine-dnieper-upland-relief-v2.webp",
+},  {
     id: "ukraine-donets-ridge-relief-v2",
     type: "mountain",
-    name: { de: "Donezrücken", hu: "Donyeci-hátság", ro: "Podișul Doneț", en: "Donets Ridge" },
+    name: { de: "Donezrücken", hu: "Donyeci-hátság", ro: "Podișul Doneț", en: "Donets Ridge",
+image: "/poi-images/ukraine-donets-ridge-relief-v2.webp"
+},
     coords: [39.0, 48.0],
     coordinates: { lat: 48.0, lng: 39.0 },
     description: {
@@ -401,11 +701,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Zăcăminte de cărbune", "Relief fragmentat", "Ucraina de Est", "Altitudine max: 367m"],
       en: ["Coal deposits", "Fragmented relief", "Eastern Ukraine", "Peak height 367m"],
     },
-    imageHint: "Eroded landscape of the Donets Ridge", image: "/poi-images/ukraine-donets-ridge-relief-v2.webp"},
-  {
+imageHint: "Eroded landscape of the Donets Ridge",
+    descriptionAdvanced: {
+      de: "Der Donezrücken ist ein altes Mittelgebirge im Südosten der Ukraine. Er ist reich an Bodenschätzen, insbesondere Steinkohle, die das Donbass prägt.",
+      hu: "A Dnyeper-hátság egy ősi középhegység Ukrajna délkeleti részén. Gazdag ásványkincsekben, különösen szénben, amely meghatározza a Donyec-medencét.",
+      ro: "Podișul Doneț este o regiune de coline vechi în sud-estul Ucrainei. Este bogat în resurse minerale, în special cărbune, care definește Donbasul.",
+      en: "The Donets Ridge is an ancient upland in southeastern Ukraine. It is rich in mineral resources, particularly coal, which defines the Donbas region.",
+    },
+    factsAdvanced: {
+      de: ["367 Meter max.", "Südostukraine", "Kohlevorkommen", "Erosionslandschaft"],
+      hu: ["367 méter max.", "Délkelet-Ukrajna", "Szénlelőhelyek", "Eróziós táj"],
+      ro: ["367 metri maxim", "Sud-estul Ucrainei", "Zăcăminte de cărbune", "Peisaj de eroziune"],
+      en: ["367 meters max", "SE Ukraine", "Coal deposits", "Erosional landscape"],
+    },
+    image: "/poi-images/ukraine-donets-ridge-relief-v2.webp",
+},  {
     id: "ukraine-polissian-lowland-relief-v2",
     type: "valley",
-    name: { de: "Polesische Tiefebene", hu: "Poléziai-alföld", ro: "Câmpia Poliziei", en: "Polissian Lowland" },
+    name: { de: "Polesische Tiefebene", hu: "Poléziai-alföld", ro: "Câmpia Poliziei", en: "Polissian Lowland",
+image: "/poi-images/ukraine-polissian-lowland-relief-v2.webp"
+},
     coords: [27.0, 51.5],
     coordinates: { lat: 51.5, lng: 27.0 },
     description: {
@@ -421,11 +736,25 @@ export const ukraineReliefV2: POI[] = [
       en: ["Marshy terrain", "Glacial origin", "Northern Ukraine", "Flat topography"],
     },
     imageHint: "Flat marshy wetlands of the Polissian Lowland",
+    descriptionAdvanced: {
+      de: "Das Polessische Tiefland ist eine weite, flache und oft sumpfige Ebene im Norden der Ukraine. Sie wird durch das Einzugsgebiet des Pripjat bestimmt.",
+      hu: "A Poléziai-alföld egy kiterjedt, lapos és gyakran mocsaras síkság Ukrajna északi részén. A Pripjaty-folyó vízgyűjtő területe határozza meg.",
+      ro: "Câmpia Polesia este o regiune vastă, plată și adesea mlăștinoasă în nordul Ucrainei. Este dominată de bazinul hidrografic al râului Pripeat.",
+      en: "The Polissian Lowland is a vast, flat, and often marshy plain in northern Ukraine. It is primarily defined by the Pripyat river basin.",
+    },
+    factsAdvanced: {
+      de: ["150-200 Meter hoch", "Nordukraine", "Sumpfgebiete", "Pripjat-Becken"],
+      hu: ["150-200 méter magasság", "Észak-Ukrajna", "Mocsárvidék", "Pripjaty-medence"],
+      ro: ["150-200 metri altitudine", "Nordul Ucrainei", "Zone mlăștinoase", "Bazinul Pripeat"],
+      en: ["150-200 m elevation", "Northern Ukraine", "Marshlands", "Pripyat basin"],
+    },
   },
   {
     id: "ukraine-black-sea-lowland-relief-v2",
     type: "valley",
-    name: { de: "Schwarzmeertiefland", hu: "Fekete-tenger-menti-alföld", ro: "Câmpia Mării Negre", en: "Black Sea Lowland" },
+    name: { de: "Schwarzmeertiefland", hu: "Fekete-tenger-menti-alföld", ro: "Câmpia Mării Negre", en: "Black Sea Lowland",
+image: "/poi-images/ukraine-black-sea-lowland-relief-v2.webp"
+},
     coords: [33.0, 46.5],
     coordinates: { lat: 46.5, lng: 33.0 },
     description: {
@@ -440,11 +769,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Stepă vastă", "Ucraina de Sud", "Țărm cu limane", "Altitudine 0-150m"],
       en: ["Steppe region", "Southern Ukraine", "Limans and deltas", "Elevation 0-150m"],
     },
-    imageHint: "Vast flat steppe of the Black Sea Lowland", image: "/poi-images/ukraine-black-sea-lowland-relief-v2.webp"},
-  {
+imageHint: "Vast flat steppe of the Black Sea Lowland",
+    descriptionAdvanced: {
+      de: "Das Schwarzmeertiefland ist eine flache Steppenlandschaft im Süden der Ukraine. Sie fällt sanft zum Schwarzen und Asowschen Meer ab.",
+      hu: "A Fekete-tenger-menti-alföld egy lapos sztyeppei táj Ukrajna déli részén. Enyhén lejt a Fekete-tenger és az Azovi-tenger irányába.",
+      ro: "Câmpia Mării Negre este un peisaj de stepă plat în sudul Ucrainei. Aceasta coboară ușor spre țărmurile Mării Negre și ale Mării Azov.",
+      en: "The Black Sea Lowland is a flat steppe landscape in southern Ukraine. It slopes gently towards the shores of the Black and Azov Seas.",
+    },
+    factsAdvanced: {
+      de: ["0-150 Meter hoch", "Südukraine", "Steppenlandschaft", "Limane vorhanden"],
+      hu: ["0-150 méter magasság", "Dél-Ukrajna", "Sztyeppei táj", "Limánok"],
+      ro: ["0-150 metri altitudine", "Sudul Ucrainei", "Peisaj de stepă", "Limanuri"],
+      en: ["0-150 m elevation", "Southern Ukraine", "Steppe zone", "Coastal limans"],
+    },
+    image: "/poi-images/ukraine-black-sea-lowland-relief-v2.webp",
+},  {
     id: "ukraine-azov-upland-relief-v2",
     type: "mountain",
-    name: { de: "Asowsches Hochland", hu: "Azovi-hátság", ro: "Podișul Azov", en: "Azov Upland" },
+    name: { de: "Asowsches Hochland", hu: "Azovi-hátság", ro: "Podișul Azov", en: "Azov Upland",
+image: "/poi-images/ukraine-azov-upland-relief-v2.webp"
+},
     coords: [36.6, 47.3],
     coordinates: { lat: 47.3, lng: 36.6 },
     description: {
@@ -459,11 +803,26 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Podiș ondulat", "Nucleu cristalin", "Ucraina de Sud-Est", "Zonă de izvoare"],
       en: ["Rolling plateau", "Crystalline core", "Southeastern Ukraine", "River source area"],
     },
-    imageHint: "Rolling plateau of the Azov Upland", image: "/poi-images/ukraine-azov-upland-relief-v2.webp"},
-  {
+imageHint: "Rolling plateau of the Azov Upland",
+    descriptionAdvanced: {
+      de: "Das Asowsche Hochland liegt im Südosten der Ukraine. Es ist durch kristalline Gesteine des Ukrainischen Schildes geprägt, die hier oft zu Tage treten.",
+      hu: "Az Azovi-hátság Ukrajna délkeleti részén fekszik. Az Ukrán-pajzs kristályos kőzetei jellemzik, amelyek itt gyakran a felszínre kerülnek.",
+      ro: "Podișul Azov este situat în sud-estul Ucrainei. Este dominat de roci cristaline ale Scutului Ucrainean care apar adesea la suprafață.",
+      en: "The Azov Upland is located in southeastern Ukraine. It is characterized by crystalline rocks of the Ukrainian Shield that often surface here.",
+    },
+    factsAdvanced: {
+      de: ["324 Meter max.", "Südostukraine", "Ukrainischer Schild", "Flussquellen"],
+      hu: ["324 méter max.", "Délkelet-Ukrajna", "Ukrán-pajzs", "Folyóforrások"],
+      ro: ["324 metri maxim", "Sud-estul Ucrainei", "Scutul Ucrainean", "Izvoare de râu"],
+      en: ["324 meters max", "SE Ukraine", "Ukrainian Shield", "River sources"],
+    },
+    image: "/poi-images/ukraine-azov-upland-relief-v2.webp",
+},  {
     id: "ukraine-mount-kremenets-relief-v2",
     type: "peak",
-    name: { de: "Berg Kremenez", hu: "Kremenec-hegy", ro: "Muntele Cremeneț", en: "Mount Kremenets" },
+    name: { de: "Berg Kremenez", hu: "Kremenec-hegy", ro: "Muntele Cremeneț", en: "Mount Kremenets",
+image: "/poi-images/ukraine-mount-kremenets-relief-v2.webp"
+},
     coords: [37.2833, 49.1833],
     coordinates: { lat: 49.1833, lng: 37.2833 },
     description: {
@@ -479,5 +838,17 @@ export const ukraineReliefV2: POI[] = [
       en: ["Elevation: 218 meters", "Overlooks Izium", "Donets River valley", "Strategic vantage point"],
     },
     imageHint: "Summit of Mount Kremenets with monuments",
+    descriptionAdvanced: {
+      de: "Der Berg Kremenets bei Isjum ist eine strategisch wichtige Höhe über dem Flusstal des Siwerskyj Donez und bietet weite Blicke über die Steppe.",
+      hu: "Az Izjum közelében található Kremenyec-hegy stratégiailag fontos magaslat a Donyec folyó völgye felett, ahonnan belátható a végtelen sztyeppe.",
+      ro: "Muntele Kremenets de lângă Izium este o înălțime strategică importantă deasupra văii râului Doneț, oferind vederi largi asupra stepei.",
+      en: "Mount Kremenets near Izium is a strategically important height above the Seversky Donets river valley, offering wide views over the steppe.",
+    },
+    factsAdvanced: {
+      de: ["218 Meter hoch", "Region Charkiw", "Strategische Höhe", "Donez-Aussicht"],
+      hu: ["218 méter magas", "Harkivi terület", "Stratégiai pont", "Donyec-panoráma"],
+      ro: ["218 metri înălțime", "Regiunea Harkiv", "Înălțime strategică", "Vedere spre Doneț"],
+      en: ["218 meters high", "Kharkiv region", "Strategic height", "Donets valley view"],
+    },
   }
 ];

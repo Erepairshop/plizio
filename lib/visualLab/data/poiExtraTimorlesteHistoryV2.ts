@@ -10,8 +10,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Cristo Rei von Dili",
       hu: "Cristo Rei szobor Diliben",
       ro: "Statuia Cristo Rei din Dili",
-      en: "Cristo Rei of Dili"
-    },
+      en: "Cristo Rei of Dili",
+image: "/poi-images/cristo-rei-dili-history-v2.webp"
+},
     description: {
       de: "Diese riesige Christusstatue auf einem Hügel wurde 1996 enthüllt. Sie ist ein Symbol der Unabhängigkeit und ein Wahrzeichen der Hauptstadt Osttimors.",
       hu: "Ezt a dombtetőn álló, hatalmas Krisztus-szobrot 1996-ban avatták fel. A függetlenség szimbóluma és Kelet-Timor fővárosának egyik legismertebb nevezetessége.",
@@ -49,8 +50,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Santa-Cruz-Friedhof",
       hu: "Santa Cruz temető",
       ro: "Cimitirul Santa Cruz",
-      en: "Santa Cruz Cemetery"
-    },
+      en: "Santa Cruz Cemetery",
+image: "/poi-images/santa-cruz-cemetery-history-v2.webp"
+},
     description: {
       de: "Dieser Friedhof erlangte 1991 traurige Berühmtheit durch das Santa-Cruz-Massaker. Das Ereignis lenkte die weltweite Aufmerksamkeit auf den Unabhängigkeitskampf Osttimors.",
       hu: "Ez a temető az 1991-es Santa Cruz-i mészárlás révén vált hírhedtté. Az esemény ráirányította a világ figyelmét Kelet-Timor függetlenségi harcára.",
@@ -88,8 +90,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Chega! Ausstellung (Balide-Gefängnis)",
       hu: "Chega! Kiállítás (Balide börtön)",
       ro: "Expoziția Chega! (Închisoarea Balide)",
-      en: "Chega! Exhibition (Balide Prison)"
-    },
+      en: "Chega! Exhibition (Balide Prison)",
+image: "/poi-images/chega-museum-balide-history-v2.webp"
+},
     description: {
       de: "Das ehemalige portugiesische Gefängnis diente später als Inhaftierungsort während der indonesischen Besatzung. Heute beherbergt es eine Ausstellung über Menschenrechte und Erinnerung.",
       hu: "Az egykori portugál börtön később fogvatartási helyként szolgált az indonéz megszállás alatt. Ma emberi jogi és emlékezeti kiállításnak ad otthont.",
@@ -128,8 +131,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Timoresisches Widerstandsmuseum",
       hu: "Timori Ellenállás Múzeuma",
       ro: "Muzeul Rezistenței Timoreze",
-      en: "Timorese Resistance Archive and Museum"
-    },
+      en: "Timorese Resistance Archive and Museum",
+image: "/poi-images/resistance-museum-dili-history-v2.webp"
+},
     description: {
       de: "Dieses moderne Museum in Dili dokumentiert den langen und schmerzhaften Weg Osttimors zur Unabhängigkeit. Es ehrt die Opfer und Kämpfer des 24-jährigen Widerstands.",
       hu: "Ez a modern diliben található múzeum Kelet-Timor függetlenséghez vezető hosszú és fájdalmas útját dokumentálja. A 24 éves ellenállás áldozatai és harcosai előtt tiszteleg.",
@@ -167,8 +171,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Festung von Balibó",
       hu: "Balibó erődje",
       ro: "Fortăreața din Balibó",
-      en: "Balibo Fort"
-    },
+      en: "Balibo Fort",
+image: "/poi-images/balibo-fort-history-v2.webp"
+},
     description: {
       de: "Diese alte portugiesische Festung ist vor allem als Schauplatz des Todes der 'Balibo Five' bekannt. Fünf ausländische Journalisten wurden hier 1975 von indonesischen Truppen getötet.",
       hu: "Ez a régi portugál erőd leginkább a 'Balibo Five' halálának helyszíneként ismert. Öt külföldi újságírót öltek meg itt az indonéz csapatok 1975-ben.",
@@ -206,8 +211,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Lifau-Denkmal",
       hu: "Lifau Emlékmű",
       ro: "Monumentul Lifau",
-      en: "Lifau Monument"
-    },
+      en: "Lifau Monument",
+image: "/poi-images/lifau-monument-oecusse-history-v2.webp"
+},
     description: {
       de: "Das Denkmal erinnert an die Ankunft der ersten portugiesischen Seefahrer und Dominikanermönche im Jahr 1515. Es steht an der Stelle der ersten Kolonialhauptstadt Osttimors.",
       hu: "Az emlékmű az első portugál tengerészek és domonkos szerzetesek 1515-ös érkezésének állít emléket. Kelet-Timor első gyarmati fővárosának helyén áll.",
@@ -245,8 +251,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Alte Markthalle Baucau",
       hu: "Baucau régi piaca",
       ro: "Vechea Piață Baucau",
-      en: "Old Municipal Market of Baucau"
-    },
+      en: "Old Municipal Market of Baucau",
+image: "/poi-images/mercado-municipal-baucau-history-v2.webp"
+},
     description: {
       de: "Die Ruinen der historischen Markthalle in Baucau spiegeln die klassische portugiesische Kolonialarchitektur wider. Das Gebäude verfiel nach den Konflikten der 1990er Jahre.",
       hu: "A baucaui történelmi vásárcsarnok romjai a klasszikus portugál gyarmati építészetet tükrözik. Az épület az 1990-es évek konfliktusai után pusztult el.",
@@ -284,8 +291,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Pousada de Maubisse",
       hu: "Maubisse Pousada",
       ro: "Pousada de Maubisse",
-      en: "Maubisse Pousada"
-    },
+      en: "Maubisse Pousada",
+image: "/poi-images/pousada-de-maubisse-history-v2.webp"
+},
     description: {
       de: "Ein ehemaliges Herrenhaus des portugiesischen Gouverneurs auf einem Hügel, das heute als Gästehaus dient. Der Ort bietet Einblicke in den kolonialen Rückzug in die kühlen Berge.",
       hu: "Egy dombtetőn álló egykori portugál kormányzói kúria, amely ma vendégházként működik. A hely bepillantást enged a hűvös hegyekbe történő gyarmati visszavonulásba.",
@@ -323,8 +331,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Dare-Mahnmal",
       hu: "Dare Emlékmű",
       ro: "Memorialul Dare",
-      en: "Dare Memorial"
-    },
+      en: "Dare Memorial",
+image: "/poi-images/dare-memorial-history-v2.webp"
+},
     description: {
       de: "Das Denkmal ehrt die australischen Soldaten der 'Sparrow Force' und die timoresischen Einheimischen, die im Zweiten Weltkrieg gemeinsam gegen die japanischen Invasoren kämpften.",
       hu: "Az emlékmű a 'Sparrow Force' ausztrál katonáinak és a timori helyieknek állít emléket, akik a második világháborúban együtt harcoltak a japán megszállók ellen.",
@@ -362,8 +371,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Kirche Santo António de Motael",
       hu: "Santo António de Motael templom",
       ro: "Biserica Santo António de Motael",
-      en: "Santo António de Motael Church"
-    },
+      en: "Santo António de Motael Church",
+image: "/poi-images/motael-church-dili-history-v2.webp"
+},
     description: {
       de: "Diese historische Kirche spielte eine Schlüsselrolle im Unabhängigkeitskampf. Von hier aus startete 1991 der Protestmarsch, der in das Santa-Cruz-Massaker mündete.",
       hu: "Ez a történelmi templom kulcsszerepet játszott a függetlenségi harcban. Innen indult 1991-ben az a tiltakozó menet, amely a Santa Cruz-i mészárlásba torkollott.",
@@ -401,8 +411,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Papst Johannes Paul II. Denkmal",
       hu: "II. János Pál pápa emlékműve",
       ro: "Monumentul Papa Ioan Paul al II-lea",
-      en: "Pope John Paul II Monument"
-    },
+      en: "Pope John Paul II Monument",
+image: "/poi-images/pope-john-paul-ii-monument-history-v2.webp"
+},
     description: {
       de: "Das Denkmal in Tasi Tolu erinnert an den historischen Besuch des Papstes im Jahr 1989. Dieser Besuch richtete das Augenmerk der Weltöffentlichkeit auf die angespannte Lage in Osttimor.",
       hu: "A Tasi Tolu-ban található emlékmű a pápa 1989-es történelmi látogatásának állít emléket. Ez a látogatás a világ figyelmét a feszült kelet-timori helyzetre irányította.",
@@ -440,8 +451,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Japanische Höhlen von Venilale",
       hu: "Venilale japán barlangjai",
       ro: "Peșterile japoneze din Venilale",
-      en: "Venilale Japanese Caves"
-    },
+      en: "Venilale Japanese Caves",
+image: "/poi-images/venilale-japanese-caves-history-v2.webp"
+},
     description: {
       de: "Diese Tunnel wurden während des Zweiten Weltkriegs von lokalen Zwangsarbeitern für das japanische Militär in den Fels gehauen. Sie dienten als Munitionslager und Versteck.",
       hu: "Ezeket az alagutakat a második világháború alatt a helyi kényszermunkások vájták a sziklába a japán hadsereg számára. Lőszerraktárként és búvóhelyként szolgáltak.",
@@ -479,8 +491,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Forte de Lautém",
       hu: "Lautém erőd",
       ro: "Fortăreața din Lautém",
-      en: "Lautém Fort"
-    },
+      en: "Lautém Fort",
+image: "/poi-images/lautem-fort-history-v2.webp"
+},
     description: {
       de: "Die Ruinen dieses alten portugiesischen Forts überblicken die Nordküste. Es zeugt von der kolonialen Militärpräsenz und den Bemühungen, den Gewürzhandel zu kontrollieren.",
       hu: "Ennek a régi portugál erődnek a romjai az északi partra néznek. A gyarmati katonai jelenlétről és a fűszerkereskedelem ellenőrzésére tett erőfeszítésekről tanúskodik.",
@@ -518,8 +531,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Mission Soibada",
       hu: "Soibada Misszió",
       ro: "Misiunea Soibada",
-      en: "Soibada Mission"
-    },
+      en: "Soibada Mission",
+image: "/poi-images/soibada-mission-history-v2.webp"
+},
     description: {
       de: "Dieses historische Jesuitenkloster war einst das Bildungszentrum Osttimors. Viele bedeutende timoresische Führer erhielten hier im frühen 20. Jahrhundert ihre Ausbildung.",
       hu: "Ez a történelmi jezsuita kolostor egykor Kelet-Timor oktatási központja volt. Számos jelentős timori vezető itt kapta meg képzését a 20. század elején.",
@@ -557,8 +571,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Forte de Baguia",
       hu: "Baguia erőd",
       ro: "Fortăreața din Baguia",
-      en: "Baguia Fort"
-    },
+      en: "Baguia Fort",
+image: "/poi-images/baguia-fort-history-v2.webp"
+},
     description: {
       de: "Eine weitere verfallene portugiesische Festungsanlage im gebirgigen Landesinneren. Sie wurde 1912 von timoresischen Aufständischen angegriffen, was die Spannungen der Kolonialzeit zeigt.",
       hu: "Egy másik romos portugál erődítmény a hegyvidéki belső területeken. 1912-ben timori lázadók támadták meg, ami a gyarmati idők feszültségeit mutatja.",
@@ -596,8 +611,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Iliomar Widerstandsverstecke",
       hu: "Iliomar ellenálló búvóhelyek",
       ro: "Ascunzătorile rezistenței din Iliomar",
-      en: "Iliomar Resistance Hideouts"
-    },
+      en: "Iliomar Resistance Hideouts",
+image: "/poi-images/iliomar-resistance-hideouts-history-v2.webp"
+},
     description: {
       de: "Die dichten Wälder von Iliomar boten der FALINTIL-Guerilla während der Besatzung wichtigen Schutz. Hier fanden intensive Gefechte und das Überleben unter harten Bedingungen statt.",
       hu: "Iliomar sűrű erdei fontos menedéket nyújtottak a FALINTIL gerilláknak a megszállás alatt. Itt heves harcok zajlottak, és a túlélés kemény körülmények között történt.",
@@ -635,8 +651,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Matebian-Höhlen",
       hu: "Matebian-barlangok",
       ro: "Peșterile Matebian",
-      en: "Matebian Caves"
-    },
+      en: "Matebian Caves",
+image: "/poi-images/matebian-caves-history-v2.webp"
+},
     description: {
       de: "Der Berg Matebian war während des Zweiten Weltkriegs ein Zufluchtsort für japanische Truppen und später für den timoresischen Widerstand Ende der 1970er Jahre, der hier heftigen Bombardierungen ausgesetzt war.",
       hu: "A Matebian-hegy a második világháború alatt a japán csapatok, később, az 1970-es évek végén pedig a timori ellenállás menedéke volt, amelyet itt heves bombázások értek.",
@@ -674,8 +691,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Gouverneurspalast",
       hu: "Kormányzói Palota",
       ro: "Palatul Guvernatorului",
-      en: "Palace of the Governor"
-    },
+      en: "Palace of the Governor",
+image: "/poi-images/palacio-do-governo-dili-history-v2.webp"
+},
     description: {
       de: "Dieses markante Gebäude aus der portugiesischen Kolonialzeit ist heute der Sitz der Regierung von Osttimor. Es war oft Schauplatz politischer Reden und historischer Momente.",
       hu: "A portugál gyarmati időszakból származó jellegzetes épület ma Kelet-Timor kormányának székhelye. Gyakran volt politikai beszédek és történelmi pillanatok helyszíne.",
@@ -714,8 +732,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Kathedrale von Dili",
       hu: "Dili Katedrális",
       ro: "Catedrala din Dili",
-      en: "Dili Cathedral"
-    },
+      en: "Dili Cathedral",
+image: "/poi-images/dili-cathedral-history-v2.webp"
+},
     description: {
       de: "Die Kathedrale der Unbefleckten Empfängnis wurde in den späten 1980er Jahren erbaut und ist die größte Kirche Südostasiens. Sie war ein Ort des Trostes während schwieriger politischer Zeiten.",
       hu: "A Szeplőtelen Fogantatás Katedrális az 1980-as évek végén épült, és Délkelet-Ázsia legnagyobb temploma. A nehéz politikai időkben a vigasz helye volt.",
@@ -753,8 +772,9 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
       de: "Aileu Massaker Denkmal",
       hu: "Aileu mészárlás emlékműve",
       ro: "Memorialul masacrului din Aileu",
-      en: "Aileu Massacre Memorial"
-    },
+      en: "Aileu Massacre Memorial",
+image: "/poi-images/aileu-massacre-memorial-history-v2.webp"
+},
     description: {
       de: "Dieses Denkmal in der Bergstadt Aileu erinnert an die timoresischen Zivilisten und Kämpfer, die 1942 während der japanischen Besatzung hingerichtet wurden.",
       hu: "Ez az Aileu hegyvidéki városában található emlékmű azoknak a timori civileknek és harcosoknak állít emléket, akiket 1942-ben a japán megszállás alatt végeztek ki.",

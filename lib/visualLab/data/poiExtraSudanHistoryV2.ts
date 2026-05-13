@@ -11,8 +11,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Meroë-Pyramiden",
       hu: "Meroé piramisai",
       ro: "Piramidele din Meroë",
-      en: "Pyramids of Meroë"
-    },
+      en: "Pyramids of Meroë",
+image: "/poi-images/sd-no-meroe-pyramids-history-v2.webp"
+},
     description: {
       de: "Die antike Hauptstadt des Königreichs Kusch, berühmt für ihre markanten steilen Pyramiden.",
       hu: "A Kusita Királyság ókori fővárosa, mely meredek piramisairól híres.",
@@ -47,8 +48,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Naqa",
       hu: "Naga",
       ro: "Naqa",
-      en: "Naqa"
-    },
+      en: "Naqa",
+image: "/poi-images/sd-rs-naqa-history-v2.webp"
+},
     description: {
       de: "Eine antike Ruinenstadt des Königreichs Kusch mit gut erhaltenen Tempelanlagen.",
       hu: "A Kusita Királyság ókori romvárosa, jól megőrzött templomegyüttesekkel.",
@@ -83,8 +85,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Musawwarat es-Sufra",
       hu: "Muszavvarát esz-Szafra",
       ro: "Musawwarat es-Sufra",
-      en: "Musawwarat es-Sufra"
-    },
+      en: "Musawwarat es-Sufra",
+image: "/poi-images/sd-rs-musawwarat-es-sufra-history-v2.webp"
+},
     description: {
       de: "Ein großer antiker Tempelkomplex mit ungewöhnlicher Architektur, der einst Pilgerzentrum war.",
       hu: "Hatalmas ókori templomkomplexum szokatlan építészettel, amely egykor zarándokközpont volt.",
@@ -119,8 +122,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Alt-Dongola",
       hu: "Ó-Dongola",
       ro: "Vechea Dongola",
-      en: "Old Dongola"
-    },
+      en: "Old Dongola",
+image: "/poi-images/sd-no-old-dongola-history-v2.webp"
+},
     description: {
       de: "Die Hauptstadt des mittelalterlichen christlichen nubischen Königreichs Makuria.",
       hu: "A középkori keresztény núbiai királyság, Makuria fővárosa.",
@@ -155,8 +159,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Soleb-Tempel",
       hu: "Szoleb-templom",
       ro: "Templul Soleb",
-      en: "Temple of Soleb"
-    },
+      en: "Temple of Soleb",
+image: "/poi-images/sd-no-soleb-temple-history-v2.webp"
+},
     description: {
       de: "Ein prächtiger ägyptischer Tempel, der von Amenhotep III. im heutigen Sudan erbaut wurde.",
       hu: "Egy pompás egyiptomi templom, amelyet III. Amenhotep építtetett a mai Szudán területén.",
@@ -191,8 +196,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Kerma",
       hu: "Kerma",
       ro: "Kerma",
-      en: "Kerma"
-    },
+      en: "Kerma",
+image: "/poi-images/sd-no-kerma-history-v2.webp"
+},
     description: {
       de: "Eines der ältesten und größten archäologischen Zentren in Nubien, bekannt für die Deffufa-Bauwerke.",
       hu: "Núbia egyik legrégebbi és legnagyobb régészeti központja, amely a Defufa építményekről ismert.",
@@ -227,8 +233,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Sesibi",
       hu: "Szesibi",
       ro: "Sesibi",
-      en: "Sesibi"
-    },
+      en: "Sesibi",
+image: "/poi-images/sd-no-sesibi-history-v2.webp"
+},
     description: {
       de: "Eine antike ägyptische Siedlung und Tempelanlage am Westufer des Nils, gegründet von Echnaton.",
       hu: "Ókori egyiptomi település és templomegyüttes a Nílus nyugati partján, amelyet Ehnaton alapított.",
@@ -263,8 +270,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Sai-Insel Ruinen",
       hu: "Sai-sziget romjai",
       ro: "Ruinele Insulei Sai",
-      en: "Sai Island Ruins"
-    },
+      en: "Sai Island Ruins",
+image: "/poi-images/sd-no-sai-island-ruins-history-v2.webp"
+},
     description: {
       de: "Die Insel beherbergt prähistorische Stätten, altägyptische Tempel und Reste einer osmanischen Festung.",
       hu: "A szigeten történelem előtti lelőhelyek, óegyiptomi templomok és egy oszmán erőd romjai találhatók.",
@@ -299,8 +307,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "El-Kurru",
       hu: "El-Kurru",
       ro: "El Kurru",
-      en: "El Kurru"
-    },
+      en: "El Kurru",
+image: "/poi-images/sd-no-el-kurru-history-v2.webp"
+},
     description: {
       de: "Ein königlicher Friedhof der kuschitischen Herrscher mit Pyramiden und unterirdischen bemalten Grabkammern.",
       hu: "A kusita uralkodók királyi temetője piramisokkal és festett földalatti sírkamrákkal.",
@@ -335,8 +344,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Nuri-Pyramiden",
       hu: "Nuri piramisai",
       ro: "Piramidele din Nuri",
-      en: "Pyramids of Nuri"
-    },
+      en: "Pyramids of Nuri",
+image: "/poi-images/sd-no-nuri-pyramids-history-v2.webp"
+},
     description: {
       de: "Eine antike Nekropole mit steilen Pyramiden, in der viele nubische Könige bestattet wurden.",
       hu: "Egy ókori nekropolisz meredek piramisokkal, ahol számos núbiai királyt temettek el.",
@@ -371,8 +381,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Banganarti",
       hu: "Banganarti",
       ro: "Banganarti",
-      en: "Banganarti"
-    },
+      en: "Banganarti",
+image: "/poi-images/sd-no-banganarti-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende archäologische Stätte mit den Überresten einer wichtigen mittelalterlichen Pilgerkirche.",
       hu: "Jelentős régészeti lelőhely egy fontos középkori zarándoktemplom romjaival.",
@@ -407,8 +418,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Tombos",
       hu: "Tombos",
       ro: "Tombos",
-      en: "Tombos"
-    },
+      en: "Tombos",
+image: "/poi-images/sd-no-tombos-history-v2.webp"
+},
     description: {
       de: "Ein antiker Steinbruch am Dritten Katarakt des Nils mit Inschriften und einer unvollendeten Statue.",
       hu: "Ókori kőbánya a Nílus harmadik kataraktájánál, feliratokkal és egy befejezetlen szoborral.",
@@ -443,8 +455,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Westliche Deffufa",
       hu: "Nyugati Defufa",
       ro: "Deffufa de Vest",
-      en: "Western Deffufa"
-    },
+      en: "Western Deffufa",
+image: "/poi-images/sd-no-western-deffufa-history-v2.webp"
+},
     description: {
       de: "Das massive Zentrum der antiken Stadt Kerma, bestehend aus Lehmziegeln und Tempelstrukturen.",
       hu: "A Kerma nevű ókori város masszív központja, amely vályogtéglákból és templomokból állt.",
@@ -479,8 +492,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Kawa",
       hu: "Kawa",
       ro: "Kawa",
-      en: "Kawa"
-    },
+      en: "Kawa",
+image: "/poi-images/sd-no-kawa-history-v2.webp"
+},
     description: {
       de: "Eine antike Stadt am Nil mit Tempeln, die den ägyptischen Gott Amun verehrten.",
       hu: "Ókori város a Nílus mentén templomokkal, ahol Amon egyiptomi istent tisztelték.",
@@ -515,8 +529,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Faras-Ruinen",
       hu: "Farasz romjai",
       ro: "Ruinele Faras",
-      en: "Faras Ruins"
-    },
+      en: "Faras Ruins",
+image: "/poi-images/sd-no-faras-ruins-history-v2.webp"
+},
     description: {
       de: "Die einstige Hauptstadt des Königreichs Nobatia, bekannt für christliche Fresken, die vor der Überflutung gerettet wurden.",
       hu: "Nobatia királyságának egykori fővárosa, amely az elárasztás elől megmentett keresztény freskóiról híres.",
@@ -551,8 +566,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Ghazali-Kloster",
       hu: "Ghazali kolostor",
       ro: "Mănăstirea Ghazali",
-      en: "Ghazali Monastery"
-    },
+      en: "Ghazali Monastery",
+image: "/poi-images/sd-no-ghazali-monastery-history-v2.webp"
+},
     description: {
       de: "Ein sehr gut erhaltenes mittelalterliches christliches Kloster in der Wadi-Abu-Dom-Region.",
       hu: "Egy nagyon jól megőrzött középkori keresztény kolostor a Wadi Abu Dom régióban.",
@@ -587,8 +603,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Sedeinga",
       hu: "Szedeinga",
       ro: "Sedeinga",
-      en: "Sedeinga"
-    },
+      en: "Sedeinga",
+image: "/poi-images/sd-no-sedeinga-history-v2.webp"
+},
     description: {
       de: "Bekannt für den Tempel von Teje, der Frau von Amenhotep III., und zahlreiche kleine nubische Pyramiden.",
       hu: "Tije, III. Amenhotep feleségének templomáról és számos kis núbiai piramisról ismert.",
@@ -623,8 +640,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Semna",
       hu: "Szemna",
       ro: "Semna",
-      en: "Semna"
-    },
+      en: "Semna",
+image: "/poi-images/sd-no-semna-history-v2.webp"
+},
     description: {
       de: "Eine altägyptische Festungsanlage, die einst die südliche Grenze des ägyptischen Reiches schützte.",
       hu: "Óegyiptomi erődítmény, amely egykor az Egyiptomi Birodalom déli határát védte.",
@@ -659,8 +677,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Kumma",
       hu: "Kumma",
       ro: "Kumma",
-      en: "Kumma"
-    },
+      en: "Kumma",
+image: "/poi-images/sd-no-kumma-history-v2.webp"
+},
     description: {
       de: "Eine Zwillingsfestung von Semna am gegenüberliegenden Nilufer aus dem Mittleren Reich.",
       hu: "Szemna ikererődje a Nílus túlpartján, a Középbirodalom idejéből.",
@@ -695,8 +714,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Uronarti",
       hu: "Uronarti",
       ro: "Uronarti",
-      en: "Uronarti"
-    },
+      en: "Uronarti",
+image: "/poi-images/sd-no-uronarti-history-v2.webp"
+},
     description: {
       de: "Eine weitere altägyptische Festung auf einer Nilinsel nahe dem Zweiten Katarakt.",
       hu: "Egy újabb óegyiptomi erőd egy Nílus-szigeten a második katarakta közelében.",
@@ -731,8 +751,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Buhen",
       hu: "Buhen",
       ro: "Buhen",
-      en: "Buhen"
-    },
+      en: "Buhen",
+image: "/poi-images/sd-no-buhen-history-v2.webp"
+},
     description: {
       de: "Eine massive altägyptische Festungsstadt, deren Überreste heute weitgehend im Nassersee versunken sind.",
       hu: "Masszív óegyiptomi erődváros, amelynek romjai ma nagyrészt a Nasszer-tó vízszintje alatt vannak.",
@@ -767,8 +788,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Mirgissa",
       hu: "Mirgissza",
       ro: "Mirgissa",
-      en: "Mirgissa"
-    },
+      en: "Mirgissa",
+image: "/poi-images/sd-no-mirgissa-history-v2.webp"
+},
     description: {
       de: "Eine altägyptische Siedlung und Festung am Zweiten Katarakt, wichtig für den Handel.",
       hu: "Óegyiptomi település és erőd a második kataraktánál, amely fontos volt a kereskedelemben.",
@@ -803,8 +825,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Askut",
       hu: "Aszkut",
       ro: "Askut",
-      en: "Askut"
-    },
+      en: "Askut",
+image: "/poi-images/sd-no-askut-history-v2.webp"
+},
     description: {
       de: "Eine befestigte altägyptische Insel im Nil, die Teil des Verteidigungsnetzwerks Nubiens war.",
       hu: "Megerősített óegyiptomi sziget a Nílusban, a núbiai védelmi hálózat része.",
@@ -839,8 +862,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Shalfak",
       hu: "Salfak",
       ro: "Shalfak",
-      en: "Shalfak"
-    },
+      en: "Shalfak",
+image: "/poi-images/sd-no-shalfak-history-v2.webp"
+},
     description: {
       de: "Eine weitere Festung, die von den Pharaonen des Mittleren Reiches zur Sicherung der Grenze erbaut wurde.",
       hu: "Egy újabb erőd, amelyet a Középbirodalom fáraói építtettek a határ biztosítására.",
@@ -875,8 +899,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Amara-West",
       hu: "Amara West",
       ro: "Amara West",
-      en: "Amara West"
-    },
+      en: "Amara West",
+image: "/poi-images/sd-no-amara-west-history-v2.webp"
+},
     description: {
       de: "Eine bedeutende Verwaltungsstadt des Neuen Reiches im besetzten Nubien.",
       hu: "Az Újbirodalom jelentős közigazgatási városa a megszállt Núbiában.",
@@ -911,8 +936,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Dschebel Moya",
       hu: "Dzsebel Moya",
       ro: "Jebel Moya",
-      en: "Jebel Moya"
-    },
+      en: "Jebel Moya",
+image: "/poi-images/sd-gz-jebel-moya-history-v2.webp"
+},
     description: {
       de: "Eine prähistorische archäologische Stätte und Gräberfeld im zentralen Sudan.",
       hu: "Történelem előtti régészeti lelőhely és temető Szudán középső részén.",
@@ -947,8 +973,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Dangeil",
       hu: "Dangeil",
       ro: "Dangeil",
-      en: "Dangeil"
-    },
+      en: "Dangeil",
+image: "/poi-images/sd-rs-dangeil-history-v2.webp"
+},
     description: {
       de: "Eine archäologische Stätte des kuschitischen Reiches mit Resten eines großen Amun-Tempels.",
       hu: "A Kusita Királyság régészeti lelőhelye egy nagy Amon-templom romjaival.",
@@ -983,8 +1010,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Mahdi-Mausoleum",
       hu: "Mahdi-mauzóleum",
       ro: "Mausoleul lui Mahdi",
-      en: "Mahdi's Tomb"
-    },
+      en: "Mahdi's Tomb",
+image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp"
+},
     description: {
       de: "Die Grabstätte von Muhammad Ahmad, dem Führer des Mahdi-Aufstands im späten 19. Jahrhundert.",
       hu: "Muhammad Ahmad, a 19. század végi mahdista felkelés vezetőjének nyughelye.",
@@ -1019,8 +1047,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Khalifa-Haus",
       hu: "Kalifa-ház",
       ro: "Casa Khalifa",
-      en: "Khalifa House"
-    },
+      en: "Khalifa House",
+image: "/poi-images/sd-kh-khalifa-house-history-v2.webp"
+},
     description: {
       de: "Die ehemalige Residenz des Nachfolgers des Mahdi, die heute als historisches Museum dient.",
       hu: "A Mahdi utódjának egykori rezidenciája, amely ma történelmi múzeumként működik.",
@@ -1055,8 +1084,9 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Badi-Ruinen",
       hu: "Badi romjai",
       ro: "Ruinele Badi",
-      en: "Badi Ruins"
-    },
+      en: "Badi Ruins",
+image: "/poi-images/sd-rs-badi-ruins-history-v2.webp"
+},
     description: {
       de: "Die Ruinen einer mittelalterlichen islamischen Hafenstadt an der Küste des Roten Meeres.",
       hu: "Egy középkori iszlám kikötőváros romjai a Vörös-tenger partján.",

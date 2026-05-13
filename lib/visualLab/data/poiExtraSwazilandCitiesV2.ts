@@ -6,7 +6,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.38, -26.4988],
-    name: { de: "Manzini", hu: "Manzini", ro: "Manzini", en: "Manzini" },
+    name: { de: "Manzini", hu: "Manzini", ro: "Manzini", en: "Manzini",
+image: "/poi-images/manzini-cities-v2.webp"
+},
     description: {
       de: "Manzini ist das wirtschaftliche Herz des Landes und bekannt für seinen lebhaften zentralen Markt und seine industrielle Bedeutung.",
       hu: "Manzini az ország gazdasági központja, amely nyüzsgő központi piacáról és ipari jelentőségéről ismert.",
@@ -30,7 +32,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SZ-HH",
     coords: [31.1333, -26.3167],
-    name: { de: "Mbabane", hu: "Mbabane", ro: "Mbabane", en: "Mbabane" },
+    name: { de: "Mbabane", hu: "Mbabane", ro: "Mbabane", en: "Mbabane",
+image: "/poi-images/mbabane-cities-v2.webp"
+},
     description: {
       de: "Die am Fuße der Dlangeni-Hügel gelegene Hauptstadt Eswatinis ist bekannt für ihr kühles Bergklima und ihre sauberen Straßen.",
       hu: "A Dlangeni-hegy lábánál fekvő Mbabane Eswatini fővárosa, amely hűvös hegyi klímájáról és tiszta utcáiról ismert.",
@@ -54,7 +58,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9384, -26.7911],
-    name: { de: "Big Bend", hu: "Big Bend", ro: "Big Bend", en: "Big Bend" },
+    name: { de: "Big Bend", hu: "Big Bend", ro: "Big Bend", en: "Big Bend",
+image: "/poi-images/big-bend-cities-v2.webp"
+},
     description: {
       de: "Diese Stadt am Lusushwana-Fluss ist das Zentrum der Zuckerrohrindustrie und bekannt für ihre üppigen Plantagen.",
       hu: "A Lusushwana-folyó partján fekvő város a cukornádipar központja, amely dús ültetvényeiről ismert.",
@@ -78,7 +84,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.1833, -26.5667],
-    name: { de: "Malkerns", hu: "Malkerns", ro: "Malkerns", en: "Malkerns" },
+    name: { de: "Malkerns", hu: "Malkerns", ro: "Malkerns", en: "Malkerns",
+image: "/poi-images/malkerns-cities-v2.webp"
+},
     description: {
       de: "Ein fruchtbares Tal, das für seine Ananasplantagen und die lebhafte Kunsthandwerkerszene im 'House on Fire' bekannt ist.",
       hu: "Termékeny völgy, amely ananászültetvényeiről és a 'House on Fire' élénk kézműves világáról híres.",
@@ -103,7 +111,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.2007, -27.1127],
-    name: { de: "Nhlangano", hu: "Nhlangano", ro: "Nhlangano", en: "Nhlangano" },
+    name: { de: "Nhlangano", hu: "Nhlangano", ro: "Nhlangano", en: "Nhlangano",
+image: "/poi-images/nhlangano-cities-v2.webp"
+},
     description: {
       de: "Die viertgrößte Stadt Eswatinis bedeutet 'Ort der Begegnung' und war Schauplatz historischer königlicher Treffen.",
       hu: "Eswatini negyedik legnagyobb városa, neve 'találkozási helyet' jelent, és történelmi királyi találkozók helyszíne volt.",
@@ -127,7 +137,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.85, -26.0333],
-    name: { de: "Mhlume", hu: "Mhlume", ro: "Mhlume", en: "Mhlume" },
+    name: { de: "Mhlume", hu: "Mhlume", ro: "Mhlume", en: "Mhlume",
+image: "/poi-images/mhlume-cities-v2.webp"
+},
     description: {
       de: "Eine Industriestadt im Nordosten, die von weitläufigen Zuckerrohrfeldern und einer großen Zuckerraffinerie geprägt ist.",
       hu: "Északkeleti iparváros, amelyet kiterjedt cukornádmezők és egy nagy cukorfinomító jellemez.",
@@ -151,7 +163,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.6167, -27.2167],
-    name: { de: "Hluti", hu: "Hluti", ro: "Hluti", en: "Hluti" },
+    name: { de: "Hluti", hu: "Hluti", ro: "Hluti", en: "Hluti",
+image: "/poi-images/hluti-cities-v2.webp"
+},
     description: {
       de: "Ein kleiner Grenzort im Süden, der als wichtiges Handelszentrum für die umliegenden landwirtschaftlichen Betriebe dient.",
       hu: "Kicsi határmenti település délen, amely fontos kereskedelmi központként szolgál a környező mezőgazdasági üzemek számára.",
@@ -176,7 +190,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9195, -26.2084],
-    name: { de: "Simunye", hu: "Simunye", ro: "Simunye", en: "Simunye" },
+    name: { de: "Simunye", hu: "Simunye", ro: "Simunye", en: "Simunye",
+image: "/poi-images/simunye-cities-v2.webp"
+},
     description: {
       de: "Simunye bedeutet 'Wir sind eins' und ist eine moderne Stadt, die um eine der größten Zuckerfabriken des Landes erbaut wurde.",
       hu: "A Simunye jelentése: 'Egyek vagyunk', és egy modern város, amely az ország egyik legnagyobb cukorgyára köré épült.",
@@ -201,7 +217,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9472, -26.4525],
-    name: { de: "Siteki", hu: "Siteki", ro: "Siteki", en: "Siteki" },
+    name: { de: "Siteki", hu: "Siteki", ro: "Siteki", en: "Siteki",
+image: "/poi-images/siteki-cities-v2.webp"
+},
     description: {
       de: "Hoch oben in den Lubombo-Bergen gelegen, bietet Siteki einen atemberaubenden Blick und dient als Tor nach Mosambik.",
       hu: "A Lubombo-hegység magaslatain fekvő Siteki lenyűgöző kilátást nyújt, és kapuként szolgál Mozambik felé.",
@@ -226,7 +244,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.2476, -25.9617],
-    name: { de: "Piggs Peak", hu: "Piggs Peak", ro: "Piggs Peak", en: "Piggs Peak" },
+    name: { de: "Piggs Peak", hu: "Piggs Peak", ro: "Piggs Peak", en: "Piggs Peak",
+image: "/poi-images/piggs-peak-cities-v2.webp"
+},
     description: {
       de: "Benannt nach einem Goldgräber, ist diese Stadt heute ein Zentrum der Forstwirtschaft und von malerischen Wäldern umgeben.",
       hu: "Egy aranyásóról nevezték el, ma az erdőgazdálkodás központja, és festői erdők veszik körül.",
@@ -250,7 +270,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SZ-HH",
     coords: [31.2064, -26.4465],
-    name: { de: "Lobamba", hu: "Lobamba", ro: "Lobamba", en: "Lobamba" },
+    name: { de: "Lobamba", hu: "Lobamba", ro: "Lobamba", en: "Lobamba",
+image: "/poi-images/lobamba-cities-v2.webp"
+},
     description: {
       de: "Lobamba ist das traditionelle und gesetzgebende Herz Eswatinis, Sitz des Parlaments und des königlichen Dorfes Ludzidzini.",
       hu: "Lobamba Eswatini tradicionális és törvényhozási központja, a parlament és a Ludzidzini királyi falu székhelye.",
@@ -274,7 +296,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.8333, -26.1833],
-    name: { de: "Ngomane", hu: "Ngomane", ro: "Ngomane", en: "Ngomane" },
+    name: { de: "Ngomane", hu: "Ngomane", ro: "Ngomane", en: "Ngomane",
+image: "/poi-images/ngomane-cities-v2.webp"
+},
     description: {
       de: "Eine landwirtschaftliche Siedlung im Lubombo-Distrikt, die eine zentrale Rolle in der großflächigen Bewässerungslandwirtschaft spielt.",
       hu: "Mezőgazdasági település a Lubombo körzetben, amely központi szerepet játszik a nagyüzemi öntözéses gazdálkodásban.",
@@ -299,7 +323,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.8667, -25.9833],
-    name: { de: "Vuvulane", hu: "Vuvulane", ro: "Vuvulane", en: "Vuvulane" },
+    name: { de: "Vuvulane", hu: "Vuvulane", ro: "Vuvulane", en: "Vuvulane",
+image: "/poi-images/vuvulane-cities-v2.webp"
+},
     description: {
       de: "Vuvulane ist eine bedeutende landwirtschaftliche Gemeinde, die für ihre genossenschaftlichen Kleinbauernprojekte bekannt ist.",
       hu: "Vuvulane jelentős mezőgazdasági közösség, amely szövetkezeti kistermelői projektjeiről ismert.",
@@ -324,7 +350,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.7833, -26.4333],
-    name: { de: "Mpaka", hu: "Mpaka", ro: "Mpaka", en: "Mpaka" },
+    name: { de: "Mpaka", hu: "Mpaka", ro: "Mpaka", en: "Mpaka",
+image: "/poi-images/mpaka-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt im Osten, an dem sich bedeutende Eisenbahnlinien und Fernstraßen kreuzen.",
       hu: "Fontos kelet-eswatini közlekedési csomópont, ahol jelentős vasútvonalak és országutak keresztezik egymást.",
@@ -348,7 +376,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.3333, -26.4833],
-    name: { de: "Kwaluseni", hu: "Kwaluseni", ro: "Kwaluseni", en: "Kwaluseni" },
+    name: { de: "Kwaluseni", hu: "Kwaluseni", ro: "Kwaluseni", en: "Kwaluseni",
+image: "/poi-images/kwaluseni-cities-v2.webp"
+},
     description: {
       de: "Kwaluseni beherbergt den Hauptcampus der Universität von Eswatini und ist ein wichtiges Bildungszentrum des Landes.",
       hu: "Kwaluseni ad otthont az Eswatini Egyetem fő kampuszának, és az ország fontos oktatási központja.",
@@ -373,7 +403,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.0113, -26.5404],
-    name: { de: "Bhunya", hu: "Bhunya", ro: "Bhunya", en: "Bhunya" },
+    name: { de: "Bhunya", hu: "Bhunya", ro: "Bhunya", en: "Bhunya",
+image: "/poi-images/bhunya-cities-v2.webp"
+},
     description: {
       de: "Diese Industriestadt ist eng mit der Forstwirtschaft verbunden und beherbergte einst eine der größten Zellstofffabriken Afrikas.",
       hu: "Ez az iparváros szorosan kötődik az erdőgazdálkodáshoz, egykor Afrika egyik legnagyobb cellulózgyárának adott otthont.",
@@ -398,7 +430,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9245, -26.8667],
-    name: { de: "Matata", hu: "Matata", ro: "Matata", en: "Matata" },
+    name: { de: "Matata", hu: "Matata", ro: "Matata", en: "Matata",
+image: "/poi-images/matata-cities-v2.webp"
+},
     description: {
       de: "Ein geschäftiges Handelszentrum im Südosten, das die umliegenden ländlichen Gemeinden mit Waren und Dienstleistungen versorgt.",
       hu: "Nyüzsgő kereskedelmi központ délkeleten, amely árukkal és szolgáltatásokkal látja el a környező vidéki közösségeket.",
@@ -422,7 +456,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.0167, -26.45],
-    name: { de: "Mhlambanyatsi", hu: "Mhlambanyatsi", ro: "Mhlambanyatsi", en: "Mhlambanyatsi" },
+    name: { de: "Mhlambanyatsi", hu: "Mhlambanyatsi", ro: "Mhlambanyatsi", en: "Mhlambanyatsi",
+image: "/poi-images/mhlambanyatsi-cities-v2.webp"
+},
     description: {
       de: "Eine malerische Waldstadt, die für ihre wunderschönen Pinienwälder und das kühle Klima in den Highlands bekannt ist.",
       hu: "Festői erdei város, amely gyönyörű fenyőerdőiről és a felföldi hűvös klímájáról ismert.",
@@ -447,7 +483,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.2167, -26.2667],
-    name: { de: "Mondi", hu: "Mondi", ro: "Mondi", en: "Mondi" },
+    name: { de: "Mondi", hu: "Mondi", ro: "Mondi", en: "Mondi",
+image: "/poi-images/mondi-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Gemeinde in der Nähe der Hauptstadt, die von der Landwirtschaft und der Nähe zu Mbabane profitiert.",
       hu: "Kisebb település a főváros közelében, amely a mezőgazdaságból és Mbabane közelségéből profitál.",
@@ -472,7 +510,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9167, -26.0833],
-    name: { de: "Tabankulu", hu: "Tabankulu", ro: "Tabankulu", en: "Tabankulu" },
+    name: { de: "Tabankulu", hu: "Tabankulu", ro: "Tabankulu", en: "Tabankulu",
+image: "/poi-images/tabankulu-cities-v2.webp"
+},
     description: {
       de: "Inmitten von Zuckerrohrfeldern gelegen, ist Tabankulu eine wichtige Siedlung für die Arbeiter der umliegenden Plantagen.",
       hu: "Cukornádmezők közepén fekvő Tabankulu fontos település a környező ültetvények munkásai számára.",
@@ -497,7 +537,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.3255, -26.9739],
-    name: { de: "Hlatikulu", hu: "Hlatikulu", ro: "Hlatikulu", en: "Hlatikulu" },
+    name: { de: "Hlatikulu", hu: "Hlatikulu", ro: "Hlatikulu", en: "Hlatikulu",
+image: "/poi-images/hlatikulu-cities-v2.webp"
+},
     description: {
       de: "Hlatikulu liegt auf einem Grat und bietet einen weiten Blick über den Süden. Die Stadt ist ein regionales Zentrum für Bildung und Gesundheit.",
       hu: "Egy hegygerincen fekvő Hlatikulu tágas kilátást nyújt délre. A város az oktatás és az egészségügy regionális központja.",
@@ -521,7 +563,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.1333, -25.9333],
-    name: { de: "Bulembu", hu: "Bulembu", ro: "Bulembu", en: "Bulembu" },
+    name: { de: "Bulembu", hu: "Bulembu", ro: "Bulembu", en: "Bulembu",
+image: "/poi-images/bulembu-cities-v2.webp"
+},
     description: {
       de: "Einst eine florierende Asbestmine, ist Bulembu heute ein Zentrum für ökologische Landwirtschaft und soziale Projekte.",
       hu: "Egykor virágzó azbesztbánya, ma Bulembu az ökológiai gazdálkodás és a szociális projektek központja.",
@@ -546,7 +590,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.4833, -26.8833],
-    name: { de: "Kubuta", hu: "Kubuta", ro: "Kubuta", en: "Kubuta" },
+    name: { de: "Kubuta", hu: "Kubuta", ro: "Kubuta", en: "Kubuta",
+image: "/poi-images/kubuta-cities-v2.webp"
+},
     description: {
       de: "Ein kleiner Ort im Shiselweni-Distrikt, der für seine Bananenplantagen und die landwirtschaftliche Vielfalt bekannt ist.",
       hu: "Kisebb település a Shiselweni körzetben, amely banánültetvényeiről és mezőgazdasági sokszínűségéről ismert.",
@@ -571,7 +617,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.7167, -25.9833],
-    name: { de: "Tjaneni", hu: "Tjaneni", ro: "Tjaneni", en: "Tjaneni" },
+    name: { de: "Tjaneni", hu: "Tjaneni", ro: "Tjaneni", en: "Tjaneni",
+image: "/poi-images/tjaneni-cities-v2.webp"
+},
     description: {
       de: "Tjaneni ist ein bedeutendes Zentrum für die Zuckerrohr- und Zitrusproduktion im sonnigen Lowveld von Eswatini.",
       hu: "Tjaneni a cukornád- és citrusfélék termelésének jelentős központja Eswatini napsütötte Lowveld vidékén.",
@@ -595,7 +643,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.3833, -26.6333],
-    name: { de: "Sidvokodvo", hu: "Sidvokodvo", ro: "Sidvokodvo", en: "Sidvokodvo" },
+    name: { de: "Sidvokodvo", hu: "Sidvokodvo", ro: "Sidvokodvo", en: "Sidvokodvo",
+image: "/poi-images/sidvokodvo-cities-v2.webp"
+},
     description: {
       de: "Eine Stadt mit langer Eisenbahngeschichte, die heute als wichtiger Knotenpunkt für den Gütertransport im Land dient.",
       hu: "Hosszú vasúti múlttal rendelkező város, amely ma az ország teherfuvarozásának fontos csomópontja.",
@@ -620,7 +670,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.9, -27.3167],
-    name: { de: "Lavumisa", hu: "Lavumisa", ro: "Lavumisa", en: "Lavumisa" },
+    name: { de: "Lavumisa", hu: "Lavumisa", ro: "Lavumisa", en: "Lavumisa",
+image: "/poi-images/lavumisa-cities-v2.webp"
+},
     description: {
       de: "Lavumisa ist eine wichtige Grenzstadt zu Südafrika und ein lebendiger Umschlagplatz für Waren und Reisende.",
       hu: "Lavumisa fontos határváros Dél-Afrika felé, és az áruk és utazók nyüzsgő átszállóhelye.",
@@ -644,7 +696,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.0333, -26.2333],
-    name: { de: "Ngwenya", hu: "Ngwenya", ro: "Ngwenya", en: "Ngwenya" },
+    name: { de: "Ngwenya", hu: "Ngwenya", ro: "Ngwenya", en: "Ngwenya",
+image: "/poi-images/ngwenya-cities-v2.webp"
+},
     description: {
       de: "Bekannt für seine weltberühmte Glasfabrik und die älteste Eisenmine der Welt, ist Ngwenya ein Highlight im Westen.",
       hu: "Világhírű üveggyáráról és a világ legrégebbi vasbányájáról ismert Ngwenya nyugat-eswatini fénypontja.",
@@ -668,7 +722,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.95, -27.0333],
-    name: { de: "Nsoko", hu: "Nsoko", ro: "Nsoko", en: "Nsoko" },
+    name: { de: "Nsoko", hu: "Nsoko", ro: "Nsoko", en: "Nsoko",
+image: "/poi-images/nsoko-cities-v2.webp"
+},
     description: {
       de: "Im fruchtbaren Süden gelegen, ist Nsoko ein Zentrum für die Produktion von Zuckerrohr und Baumwolle.",
       hu: "A termékeny déli részen fekvő Nsoko a cukornád- és gyapottermelés központja.",
@@ -693,7 +749,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.0667, -26.6833],
-    name: { de: "Mankayane", hu: "Mankayane", ro: "Mankayane", en: "Mankayane" },
+    name: { de: "Mankayane", hu: "Mankayane", ro: "Mankayane", en: "Mankayane",
+image: "/poi-images/mankayane-cities-v2.webp"
+},
     description: {
       de: "Eine charmante Stadt in den Bergen, die als administratives Zentrum für die umliegende ländliche Region dient.",
       hu: "Bájos hegyvidéki város, amely a környező vidéki régió adminisztratív központjaként szolgál.",
@@ -718,7 +776,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.3167, -26.5167],
-    name: { de: "Matsapha", hu: "Matsapha", ro: "Matsapha", en: "Matsapha" },
+    name: { de: "Matsapha", hu: "Matsapha", ro: "Matsapha", en: "Matsapha",
+image: "/poi-images/matsapha-cities-v2.webp"
+},
     description: {
       de: "Matsapha ist das größte Industriegebiet des Landes und ein bedeutender Wirtschaftsmotor für die gesamte Region.",
       hu: "Matsapha az ország legnagyobb ipari területe és az egész régió jelentős gazdasági motorja.",
@@ -742,7 +802,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.1783, -26.4018],
-    name: { de: "Ezulwini", hu: "Ezulwini", ro: "Ezulwini", en: "Ezulwini" },
+    name: { de: "Ezulwini", hu: "Ezulwini", ro: "Ezulwini", en: "Ezulwini",
+image: "/poi-images/ezulwini-cities-v2.webp"
+},
     description: {
       de: "Ezulwini, das 'Tal des Himmels', ist das touristische Zentrum Eswatinis mit erstklassigen Hotels, Casinos und Handwerksmärkten.",
       hu: "Ezulwini, a 'Mennyország völgye', Eswatini turisztikai központja első osztályú szállodákkal, kaszinókkal és kézműves piacokkal.",
@@ -767,7 +829,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.7532, -26.4029],
-    name: { de: "Malindza", hu: "Malindza", ro: "Malindza", en: "Malindza" },
+    name: { de: "Malindza", hu: "Malindza", ro: "Malindza", en: "Malindza",
+image: "/poi-images/malindza-cities-v2.webp"
+},
     description: {
       de: "In der Nähe des internationalen Flughafens gelegen, ist Malindza eine wachsende Gemeinde im Herzen des Lubombo-Distrikts.",
       hu: "A nemzetközi repülőtér közelében fekvő Malindza egy növekvő település a Lubombo körzet szívében.",
@@ -792,7 +856,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.55, -26.0833],
-    name: { de: "Madlangampisi", hu: "Madlangampisi", ro: "Madlangampisi", en: "Madlangampisi" },
+    name: { de: "Madlangampisi", hu: "Madlangampisi", ro: "Madlangampisi", en: "Madlangampisi",
+image: "/poi-images/madlangampisi-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftlich geprägter Ort im Norden, der eine wichtige Rolle in der regionalen Lebensmittelversorgung spielt.",
       hu: "Mezőgazdasági jellegű település északon, amely fontos szerepet játszik a regionális élelmiszerellátásban.",
@@ -817,7 +883,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.3114, -27.0757],
-    name: { de: "Mahlalini", hu: "Mahlalini", ro: "Mahlalini", en: "Mahlalini" },
+    name: { de: "Mahlalini", hu: "Mahlalini", ro: "Mahlalini", en: "Mahlalini",
+image: "/poi-images/mahlalini-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Gemeinde im Shiselweni-Distrikt, die für ihre traditionelle Lebensweise und Landwirtschaft bekannt ist.",
       hu: "Kisebb település a Shiselweni körzetben, amely tradicionális életmódjáról és mezőgazdaságáról ismert.",
@@ -841,7 +909,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.6667, -26.05],
-    name: { de: "Nkambeni", hu: "Nkambeni", ro: "Nkambeni", en: "Nkambeni" },
+    name: { de: "Nkambeni", hu: "Nkambeni", ro: "Nkambeni", en: "Nkambeni",
+image: "/poi-images/nkambeni-cities-v2.webp"
+},
     description: {
       de: "Nkambeni ist ein lebendiger Ort im Norden, der von der Nähe zum Komati-Fluss und der Landwirtschaft profitiert.",
       hu: "Nkambeni nyüzsgő település északon, amely a Komati-folyó közelségéből és a mezőgazdaságból profitál.",
@@ -865,7 +935,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.5103, -25.923],
-    name: { de: "Buhleni", hu: "Buhleni", ro: "Buhleni", en: "Buhleni" },
+    name: { de: "Buhleni", hu: "Buhleni", ro: "Buhleni", en: "Buhleni",
+image: "/poi-images/buhleni-cities-v2.webp"
+},
     description: {
       de: "Buhleni ist bekannt für sein großes königliches Anwesen und dient als wichtiges Handelszentrum im Norden des Hhohho-Distrikts.",
       hu: "Buhleni híres nagy királyi birtokáról, és fontos kereskedelmi központként szolgál a Hhohho körzet északi részén.",
@@ -890,7 +962,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9965, -25.9901],
-    name: { de: "Lomahasha", hu: "Lomahasha", ro: "Lomahasha", en: "Lomahasha" },
+    name: { de: "Lomahasha", hu: "Lomahasha", ro: "Lomahasha", en: "Lomahasha",
+image: "/poi-images/lomahasha-cities-v2.webp"
+},
     description: {
       de: "Lomahasha liegt an der nordöstlichen Grenze und ist ein wichtiger Transitpunkt für den Handel mit Mosambik.",
       hu: "Az északkeleti határon fekvő Lomahasha fontos tranzitpont a Mozambikkal folytatott kereskedelemben.",
@@ -915,7 +989,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.4756, -26.3213],
-    name: { de: "Luve", hu: "Luve", ro: "Luve", en: "Luve" },
+    name: { de: "Luve", hu: "Luve", ro: "Luve", en: "Luve",
+image: "/poi-images/luve-cities-v2.webp"
+},
     description: {
       de: "Ein kleiner, aber wichtiger Knotenpunkt im Manzini-Distrikt, der Reisende in verschiedene Teile des Landes verbindet.",
       hu: "Kicsi, de fontos csomópont a Manzini körzetben, amely az ország különböző részeibe tartó utazókat köti össze.",
@@ -939,7 +1015,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.1333, -25.95],
-    name: { de: "Havelock", hu: "Havelock", ro: "Havelock", en: "Havelock" },
+    name: { de: "Havelock", hu: "Havelock", ro: "Havelock", en: "Havelock",
+image: "/poi-images/havelock-cities-v2.webp"
+},
     description: {
       de: "Havelock, auch als Bulembu bekannt, war Schauplatz einer der bedeutendsten Bergbauoperationen in der Geschichte des Landes.",
       hu: "Havelock, más néven Bulembu, az ország történetének egyik legjelentősebb bányászati műveletének helyszíne volt.",
@@ -963,7 +1041,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.1833, -26.5833],
-    name: { de: "Usutu", hu: "Usutu", ro: "Usutu", en: "Usutu" },
+    name: { de: "Usutu", hu: "Usutu", ro: "Usutu", en: "Usutu",
+image: "/poi-images/usutu-cities-v2.webp"
+},
     description: {
       de: "Diese Siedlung ist tief mit den Usutu-Wäldern verbunden, einem der größten künstlich angelegten Wälder der Welt.",
       hu: "Ez a település szorosan kötődik az Usutu-erdőkhöz, amely a világ egyik legnagyobb mesterségesen telepített erdője.",
@@ -987,7 +1067,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9, -27.0167],
-    name: { de: "Lubuli", hu: "Lubuli", ro: "Lubuli", en: "Lubuli" },
+    name: { de: "Lubuli", hu: "Lubuli", ro: "Lubuli", en: "Lubuli",
+image: "/poi-images/lubuli-cities-v2.webp"
+},
     description: {
       de: "Lubuli ist eine landwirtschaftliche Gemeinde im sonnigen Lowveld, die sich auf den Anbau von Zuckerrohr spezialisiert hat.",
       hu: "Lubuli mezőgazdasági közösség a napsütötte Lowveld-ben, amely cukornádtermesztésre specializálódott.",
@@ -1012,7 +1094,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.9167, -26.1333],
-    name: { de: "Nokwane", hu: "Nokwane", ro: "Nokwane", en: "Nokwane" },
+    name: { de: "Nokwane", hu: "Nokwane", ro: "Nokwane", en: "Nokwane",
+image: "/poi-images/nokwane-cities-v2.webp"
+},
     description: {
       de: "Nokwane beherbergt wichtige Infrastrukturen für den Wissenschafts- und Technologiesektor des Landes.",
       hu: "Nokwane fontos infrastruktúráknak ad otthont az ország tudományos és technológiai szektorában.",
@@ -1037,7 +1121,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.6167, -26.1833],
-    name: { de: "Croydon", hu: "Croydon", ro: "Croydon", en: "Croydon" },
+    name: { de: "Croydon", hu: "Croydon", ro: "Croydon", en: "Croydon",
+image: "/poi-images/croydon-cities-v2.webp"
+},
     description: {
       de: "Eine kleine ländliche Siedlung, die für ihre ruhige Atmosphäre und die lokale Landwirtschaft bekannt ist.",
       hu: "Kisebb vidéki település, amely nyugodt légköréről és a helyi mezőgazdaságról ismert.",
@@ -1061,7 +1147,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.5667, -26.1],
-    name: { de: "Balegana", hu: "Balegana", ro: "Balegana", en: "Balegana" },
+    name: { de: "Balegana", hu: "Balegana", ro: "Balegana", en: "Balegana",
+image: "/poi-images/balegana-cities-v2.webp"
+},
     description: {
       de: "Ein wichtiger Agrarstandort im Hhohho-Distrikt, der für seine fruchtbaren Böden und Bewässerungsprojekte bekannt ist.",
       hu: "Fontos mezőgazdasági helyszín a Hhohho körzetben, amely termékeny talajáról és öntözési projektjeiről ismert.",
@@ -1086,7 +1174,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.55, -26.35],
-    name: { de: "Holobela", hu: "Holobela", ro: "Holobela", en: "Holobela" },
+    name: { de: "Holobela", hu: "Holobela", ro: "Holobela", en: "Holobela",
+image: "/poi-images/holobela-cities-v2.webp"
+},
     description: {
       de: "Eine kleine Gemeinde im Manzini-Distrikt, die sich auf den Anbau lokaler Feldfrüchte konzentriert.",
       hu: "Kisebb közösség a Manzini körzetben, amely a helyi növénytermesztésre összpontosít.",
@@ -1111,7 +1201,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.4167, -26.4167],
-    name: { de: "Silobela", hu: "Silobela", ro: "Silobela", en: "Silobela" },
+    name: { de: "Silobela", hu: "Silobela", ro: "Silobela", en: "Silobela",
+image: "/poi-images/silobela-cities-v2.webp"
+},
     description: {
       de: "Silobela ist eine wachsende Siedlung in der Nähe von Manzini, die eine Mischung aus Wohn- und Agrarflächen bietet.",
       hu: "Silobela egy növekvő település Manzini közelében, amely lakó- és mezőgazdasági területek keverékét kínálja.",
@@ -1136,7 +1228,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-LU",
     coords: [31.6, -26.5],
-    name: { de: "Rondspring", hu: "Rondspring", ro: "Rondspring", en: "Rondspring" },
+    name: { de: "Rondspring", hu: "Rondspring", ro: "Rondspring", en: "Rondspring",
+image: "/poi-images/rondspring-cities-v2.webp"
+},
     description: {
       de: "Ein landwirtschaftlich geprägter Ort im Lubombo-Distrikt, der für seine Viehzucht bekannt ist.",
       hu: "Mezőgazdasági jellegű település a Lubombo körzetben, amely szarvasmarha-tenyésztéséről ismert.",
@@ -1160,7 +1254,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-MA",
     coords: [31.2, -26.6],
-    name: { de: "Granvalley", hu: "Granvalley", ro: "Granvalley", en: "Granvalley" },
+    name: { de: "Granvalley", hu: "Granvalley", ro: "Granvalley", en: "Granvalley",
+image: "/poi-images/granvalley-cities-v2.webp"
+},
     description: {
       de: "Ein malerisches Tal im Manzini-Distrikt, das für seine Zitrusplantagen und seine natürliche Schönheit bekannt ist.",
       hu: "Festői völgy a Manzini körzetben, amely citrusültetvényeiről és természeti szépségéről ismert.",
@@ -1185,7 +1281,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-HH",
     coords: [31.05, -26.25],
-    name: { de: "Darkton", hu: "Darkton", ro: "Darkton", en: "Darkton" },
+    name: { de: "Darkton", hu: "Darkton", ro: "Darkton", en: "Darkton",
+image: "/poi-images/darkton-cities-v2.webp"
+},
     description: {
       de: "In der Nähe der Ngwenya-Grenze gelegen, ist Darkton ein kleiner Ort, der als Tor zum westlichen Teil des Landes dient.",
       hu: "A Ngwenya határ közelében fekvő Darkton egy kis település, amely kapuként szolgál az ország nyugati része felé.",
@@ -1209,7 +1307,9 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     type: "city",
     parent: "SZ-SH",
     coords: [31.15, -26.75],
-    name: { de: "Abercorn", hu: "Abercorn", ro: "Abercorn", en: "Abercorn" },
+    name: { de: "Abercorn", hu: "Abercorn", ro: "Abercorn", en: "Abercorn",
+image: "/poi-images/abercorn-cities-v2.webp"
+},
     description: {
       de: "Eine historische Siedlung im Shiselweni-Distrikt, die eine wichtige Rolle in der frühen kolonialen Geschichte der Region spielte.",
       hu: "Történelmi település a Shiselweni körzetben, amely fontos szerepet játszott a régió korai gyarmati történetében.",

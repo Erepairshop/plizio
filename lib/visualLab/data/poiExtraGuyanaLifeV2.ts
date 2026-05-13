@@ -10,8 +10,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Kanashen-Schutzgebiet",
       hu: "Kanashen Védett Terület",
       ro: "Aria Protejată Kanashen",
-      en: "Kanashen Protected Area"
-    },
+      en: "Kanashen Protected Area",
+image: "/poi-images/kanashen-protected-area-life-v2.webp"
+},
     descriptionAdvanced: {
       de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
       hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
@@ -52,8 +53,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Karanambu-Feuchtgebiete",
       hu: "Karanambu Vizesélőhely",
       ro: "Zonele Umede Karanambu",
-      en: "Karanambu Wetlands"
-    },
+      en: "Karanambu Wetlands",
+image: "/poi-images/karanambu-wetlands-life-v2.webp"
+},
     description: {
       de: "Eine berühmte Lodge und ein Feuchtgebiet in der Rupununi-Savanne, das für seine Schutzbemühungen für Riesenotter bekannt ist.",
       hu: "Egy híres ökopark és vizesélőhely a Rupununi-szavannán, amely az óriásvidrák védelméről ismert.",
@@ -74,8 +76,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Rupununi-Savannen-Tierwelt",
       hu: "Rupununi-szavanna Vadvilága",
       ro: "Fauna Savanei Rupununi",
-      en: "Rupununi Savannah Wildlife"
-    },
+      en: "Rupununi Savannah Wildlife",
+image: "/poi-images/rupununi-savannah-wildlife-life-v2.webp"
+},
     description: {
       de: "Eine weitläufige Savannenlandschaft, in der seltene Tierarten wie der Große Ameisenbär und der Jaguar beheimatet sind.",
       hu: "Hatalmas kiterjedésű szavanna, amely olyan ritka állatfajoknak ad otthont, mint a sörényes hangyász és a jaguár.",
@@ -96,8 +99,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Mahaica-Mangrovenreservat",
       hu: "Mahaica Mangrove Rezervátum",
       ro: "Rezervația de Mangrove Mahaica",
-      en: "Mahaica Mangrove Reserve"
-    },
+      en: "Mahaica Mangrove Reserve",
+image: "/poi-images/mahaica-mangrove-reserve-life-v2.webp"
+},
     description: {
       de: "Ein wichtiges Küstenschutzgebiet in Guyana, das dichte Mangrovenwälder und den Lebensraum des seltenen Hoatzin-Vogels bewahrt.",
       hu: "Egy fontos part menti védett terület Guyanában, amely sűrű mangroveerdőket és a ritka hoacin madár élőhelyét őrzi.",
@@ -118,8 +122,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Atta-Regenwald-Kronendach",
       hu: "Atta Esőerdő Lombkorona-sétány",
       ro: "Pasarela Canopy Atta",
-      en: "Atta Rainforest Canopy"
-    },
+      en: "Atta Rainforest Canopy",
+image: "/poi-images/atta-rainforest-canopy-life-v2.webp"
+},
     description: {
       de: "Ein Hängebrückensystem in den Baumkronen des Iwokrama-Regenwaldes, ideal zur Beobachtung von Affen und exotischen Vögeln.",
       hu: "Egy függőhídrendszer az Iwokrama esőerdő lombkoronájában, amely ideális a majmok és egzotikus madarak megfigyelésére.",
@@ -140,8 +145,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Burro-Burro-Tierwelt",
       hu: "Burro-Burro Folyó Vadvilága",
       ro: "Fauna Râului Burro-Burro",
-      en: "Burro-Burro River Wildlife"
-    },
+      en: "Burro-Burro River Wildlife",
+image: "/poi-images/burro-burro-river-wildlife-life-v2.webp"
+},
     description: {
       de: "Ein wilder Flusslauf im Iwokrama-Schutzgebiet, der ein ungestörter Lebensraum für Kaimane, Schlangen und flussbewohnende Vögel ist.",
       hu: "Egy vad folyószakasz az Iwokrama védett területen, amely a kajmánok, kígyók és folyóparti madarak zavartalan élőhelye.",
@@ -162,8 +168,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Turtle-Mountain-Reservat",
       hu: "Teknős-hegy Rezervátum",
       ro: "Rezervația Turtle Mountain",
-      en: "Turtle Mountain Reserve"
-    },
+      en: "Turtle Mountain Reserve",
+image: "/poi-images/turtle-mountain-reserve-life-v2.webp"
+},
     description: {
       de: "Ein dicht bewaldeter Berg im Iwokrama-Regenwald, der einen spektakulären Panoramablick bietet und seltene Klammeraffen beheimatet.",
       hu: "Egy sűrű erdővel borított hegy az Iwokrama esőerdőben, amely látványos panorámát nyújt és ritka pókmajmoknak ad otthont.",
@@ -184,8 +191,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Rewa-Wildtiergebiet",
       hu: "Rewa Vadvilág Rezervátum",
       ro: "Aria Sălbatică Rewa",
-      en: "Rewa Wildlife Area"
-    },
+      en: "Rewa Wildlife Area",
+image: "/poi-images/rewa-wildlife-area-life-v2.webp"
+},
     description: {
       de: "Eine von der Gemeinschaft geführte Öko-Lodge am Rewa-Fluss, umgeben von einem der wildreichsten Dschungelgebiete Guyanas.",
       hu: "Egy közösség által üzemeltetett ökoszállás a Rewa folyó mentén, amelyet Guyana egyik állatokban leggazdagabb dzsungele vesz körül.",
@@ -206,8 +214,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Caiman-House-Schutzgebiet",
       hu: "Caiman House Kajmánrezervátum",
       ro: "Rezervația Caiman House",
-      en: "Caiman House Sanctuary"
-    },
+      en: "Caiman House Sanctuary",
+image: "/poi-images/caiman-house-sanctuary-life-v2.webp"
+},
     description: {
       de: "Eine Feldstation in Yupukari, die sich auf den Schutz des Schwarzen Kaimans spezialisiert hat und Gäste in die Forschung einbindet.",
       hu: "Egy terepkutató állomás Yupukariban, amely a fekete kajmán védelmére specializálódott, és a vendégeket is bevonja a kutatásba.",
@@ -228,8 +237,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Mapari-Wildnis",
       hu: "Mapari Vadon",
       ro: "Sălbăticia Mapari",
-      en: "Mapari Wilderness"
-    },
+      en: "Mapari Wilderness",
+image: "/poi-images/mapari-wilderness-life-v2.webp"
+},
     description: {
       de: "Ein abgelegenes und unzugängliches Regenwaldgebiet in den Kanuku-Bergen, das von seltenen Tieren und klaren Bächen geprägt ist.",
       hu: "Egy távoli és nehezen megközelíthető esőerdő a Kanuku-hegységben, amelyet ritka állatok és tiszta patakok jellemeznek.",
@@ -250,8 +260,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Hope-Kokosnuss-Plantage",
       hu: "Hope Kókuszültetvény",
       ro: "Plantația de Cocos Hope",
-      en: "Hope Coconut Estate"
-    },
+      en: "Hope Coconut Estate",
+image: "/poi-images/hope-coconut-estate-life-v2.webp"
+},
     description: {
       de: "Ein staatliches Agrarprojekt an der Ostküste von Demerara, das neue Kokosnusssorten züchtet und Bauern in der Region unterstützt.",
       hu: "Egy állami mezőgazdasági projekt Demerara keleti partján, amely új kókuszfajtákat nemesít és támogatja a régió gazdáit.",
@@ -272,8 +283,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Santa-Fe-Megafarm",
       hu: "Santa Fe Megafarm",
       ro: "Mega Ferma Santa Fe",
-      en: "Santa Fe Mega Farm"
-    },
+      en: "Santa Fe Mega Farm",
+image: "/poi-images/santa-fe-mega-farm-life-v2.webp"
+},
     description: {
       de: "Ein riesiges Agrarprojekt in der Rupununi-Region, das großflächig Reis, Mais und Sojabohnen im trockenen Savannenklima anbaut.",
       hu: "Egy hatalmas mezőgazdasági projekt a Rupununi régióban, amely nagy területen termeszt rizst, kukoricát és szóját a száraz szavannán.",
@@ -294,8 +306,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Mabaruma-Kakaoprojekt",
       hu: "Mabaruma Kakaóprojekt",
       ro: "Proiectul de Cacao Mabaruma",
-      en: "Mabaruma Cocoa Project"
-    },
+      en: "Mabaruma Cocoa Project",
+image: "/poi-images/mabaruma-cocoa-project-life-v2.webp"
+},
     description: {
       de: "Eine landwirtschaftliche Initiative im Nordwesten Guyanas zur Wiederbelebung des Kakaoanbaus in der indigenen Gemeinschaft.",
       hu: "Mezőgazdasági kezdeményezés Északnyugat-Guyanában, amely az őslakos közösségek kakaótermesztését hivatott újjáéleszteni.",
@@ -316,8 +329,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Charity-Bananenplantagen",
       hu: "Charity Banánültetvények",
       ro: "Plantațiile de Banane Charity",
-      en: "Charity Banana Plantations"
-    },
+      en: "Charity Banana Plantations",
+image: "/poi-images/charity-banana-plantations-life-v2.webp"
+},
     description: {
       de: "Große Bananen- und Kochbananenfelder entlang des Pomeroon-Flusses, die den wichtigen Markt der Hafenstadt Charity beliefern.",
       hu: "Nagy banán- és főzőbanánültetvények a Pomeroon folyó mentén, amelyek Charity kikötőváros fontos piacát látják el.",
@@ -339,8 +353,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Black-Bush-Polder-Reisfelder",
       hu: "Black Bush Polder Rizsföldek",
       ro: "Câmpurile de Orez Black Bush Polder",
-      en: "Black Bush Polder Rice Fields"
-    },
+      en: "Black Bush Polder Rice Fields",
+image: "/poi-images/black-bush-polder-rice-life-v2.webp"
+},
     description: {
       de: "Ein massives landwirtschaftliches Polder-System in Berbice, das eines der wichtigsten Reisanbaugebiete Guyanas darstellt.",
       hu: "Egy hatalmas mezőgazdasági polderrendszer Berbice-ben, amely Guyana egyik legfontosabb rizstermő területe.",
@@ -361,8 +376,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Wakenaam-Reisfarmen",
       hu: "Wakenaam Rizsfarmok",
       ro: "Fermele de Orez Wakenaam",
-      en: "Wakenaam Rice Farms"
-    },
+      en: "Wakenaam Rice Farms",
+image: "/poi-images/wakenaam-rice-farms-life-v2.webp"
+},
     description: {
       de: "Grüne Reisfelder, die den Großteil der Insel Wakenaam im Essequibo-Fluss bedecken und die lokale Wirtschaft dominieren.",
       hu: "Zöld rizsföldek, amelyek az Essequibo folyóban fekvő Wakenaam sziget nagy részét borítják, és uralják a helyi gazdaságot.",
@@ -383,8 +399,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Enmore-Zuckerrohrfelder",
       hu: "Enmore Cukornádültetvények",
       ro: "Câmpurile de Trestie de Zahăr Enmore",
-      en: "Enmore Sugar Fields"
-    },
+      en: "Enmore Sugar Fields",
+image: "/poi-images/enmore-sugar-fields-life-v2.webp"
+},
     description: {
       de: "Historische Zuckerrohrfelder nahe Georgetown, die lange Zeit das Zentrum der guyanischen Zuckerindustrie bildeten.",
       hu: "Történelmi cukornádültetvények Georgetown közelében, amelyek sokáig a guyanai cukoripar központját alkották.",
@@ -405,8 +422,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Kimbia-Landwirtschaftszentrum",
       hu: "Kimbia Mezőgazdasági Központ",
       ro: "Centrul Agricol Kimbia",
-      en: "Kimbia Agricultural Centre"
-    },
+      en: "Kimbia Agricultural Centre",
+image: "/poi-images/kimbia-agricultural-centre-life-v2.webp"
+},
     description: {
       de: "Ein abgelegenes landwirtschaftliches Ausbildungszentrum am Berbice-Fluss, ursprünglich als nationaler Pionierdienst gegründet.",
       hu: "Egy távoli mezőgazdasági képzési központ a Berbice folyó mentén, amelyet eredetileg nemzeti úttörőszolgálatként alapítottak.",
@@ -427,8 +445,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Hosororo-Landwirtschaftsstation",
       hu: "Hosororo Mezőgazdasági Állomás",
       ro: "Stația Agricolă Hosororo",
-      en: "Hosororo Agricultural Station"
-    },
+      en: "Hosororo Agricultural Station",
+image: "/poi-images/hosororo-agricultural-station-life-v2.webp"
+},
     description: {
       de: "Eine der ältesten landwirtschaftlichen Versuchsstationen Guyanas im Nordwesten, spezialisiert auf Zitrusfrüchte und Avocados.",
       hu: "Guyana egyik legrégebbi mezőgazdasági kísérleti állomása északnyugaton, citrusfélékre és avokádóra specializálódva.",
@@ -449,8 +468,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Ebini-Viehstation",
       hu: "Ebini Állattenyésztő Állomás",
       ro: "Stația de Zootehnie Ebini",
-      en: "Ebini Livestock Station"
-    },
+      en: "Ebini Livestock Station",
+image: "/poi-images/ebini-livestock-station-life-v2.webp"
+},
     description: {
       de: "Eine Forschungsstation in der Berbice-Savanne, die sich auf die Zucht und Verbesserung von Rinderherden in Guyana konzentriert.",
       hu: "Egy kutatóállomás a Berbice-szavannán, amely a szarvasmarha-állomány tenyésztésére és javítására összpontosít Guyanában.",
@@ -471,8 +491,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Cane-Grove-Reisfelder",
       hu: "Cane Grove Rizsföldek",
       ro: "Câmpurile de Orez Cane Grove",
-      en: "Cane Grove Rice Fields"
-    },
+      en: "Cane Grove Rice Fields",
+image: "/poi-images/cane-grove-rice-life-v2.webp"
+},
     description: {
       de: "Ein traditionelles Anbaugebiet, das einst eine Zuckerplantage war und heute eine der produktivsten Reisgemeinden in Demerara ist.",
       hu: "Egy hagyományos termőterület, amely egykor cukornádültetvény volt, ma pedig az egyik legtermékenyebb rizstermesztő közösség Demerarában.",
@@ -493,8 +514,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Guyana-Zoo",
       hu: "Guyana Állatkert",
       ro: "Grădina Zoologică din Guyana",
-      en: "Guyana Zoological Park"
-    },
+      en: "Guyana Zoological Park",
+image: "/poi-images/guyana-zoological-park-life-v2.webp"
+},
     description: {
       de: "Ein kleiner, familienfreundlicher Zoo in Georgetown, der lokale Wildtiere wie Jaguare, Harpyien und Seekühe zeigt.",
       hu: "Egy kis családbarát állatkert Georgetownban, amely olyan helyi vadállatokat mutat be, mint a jaguárok, hárpiák és manátuszok.",
@@ -515,8 +537,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Nationalpark Guyana",
       hu: "Guyana Nemzeti Park",
       ro: "Parcul Național Guyana",
-      en: "Guyana National Park"
-    },
+      en: "Guyana National Park",
+image: "/poi-images/guyana-national-park-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiger Stadtpark in Georgetown mit großen Wiesen, Spielplätzen und einer täglichen Manati-Fütterung für Kinder.",
       hu: "Egy tágas városi park Georgetownban nagy rétekkel, játszóterekkel és napi manátusz-etetéssel a gyerekek számára.",
@@ -537,8 +560,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Splashmins Wasserpark",
       hu: "Splashmins Vízipark",
       ro: "Parcul Acvatic Splashmins",
-      en: "Splashmins Water Park"
-    },
+      en: "Splashmins Water Park",
+image: "/poi-images/splashmins-water-park-life-v2.webp"
+},
     description: {
       de: "Ein beliebter Vergnügungspark am Madewini-Flusssee, ideal für Familienausflüge mit Wasserrutschen, Stränden und Picknickplätzen.",
       hu: "Egy népszerű vidámpark a Madewini folyó tóvá duzzasztott szakaszán, ideális családi kirándulásokhoz csúszdákkal és strandokkal.",
@@ -559,8 +583,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Joe-Vieira-Park",
       hu: "Joe Vieira Park",
       ro: "Parcul Joe Vieira",
-      en: "Joe Vieira Park"
-    },
+      en: "Joe Vieira Park",
+image: "/poi-images/joe-vieira-park-life-v2.webp"
+},
     description: {
       de: "Ein entspannter Freizeitpark am westlichen Ufer des Demerara, oft genutzt für Familiengrillen, Cricket und Kinderfeste.",
       hu: "Egy nyugodt szabadidőpark a Demerara nyugati partján, amelyet gyakran használnak családi grillezésre, krikettre és gyerekrendezvényekre.",
@@ -581,8 +606,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Botanischer Garten Georgetown",
       hu: "Georgetowni Botanikus Kert",
       ro: "Grădina Botanică din Georgetown",
-      en: "Georgetown Botanical Gardens"
-    },
+      en: "Georgetown Botanical Gardens",
+image: "/poi-images/georgetown-botanical-gardens-life-v2.webp"
+},
     description: {
       de: "Ein weitläufiger tropischer Garten im Herzen der Hauptstadt, ideal für Spaziergänge mit Kindern, die die riesigen Lotusblumen bestaunen.",
       hu: "Egy tágas trópusi kert a főváros szívében, ideális sétákra a gyerekekkel, akik megcsodálhatják a hatalmas lótuszvirágokat.",
@@ -603,8 +629,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Colgrain-Schwimmbad",
       hu: "Colgrain Uszoda",
       ro: "Piscina Colgrain",
-      en: "Colgrain Swimming Pool"
-    },
+      en: "Colgrain Swimming Pool",
+image: "/poi-images/colgrain-swimming-pool-life-v2.webp"
+},
     description: {
       de: "Ein beliebtes öffentliches Schwimmbad in Georgetown, in dem viele guyanische Kinder schwimmen lernen und Wettbewerbe austragen.",
       hu: "Egy népszerű nyilvános uszoda Georgetownban, ahol sok guyanai gyermek tanul meg úszni és versenyeken vesz részt.",
@@ -625,8 +652,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Pandama-Naturresort",
       hu: "Pandama Természetvédelmi Üdülő",
       ro: "Retreatul Pandama",
-      en: "Pandama Retreat"
-    },
+      en: "Pandama Retreat",
+image: "/poi-images/pandama-retreat-life-v2.webp"
+},
     description: {
       de: "Ein friedliches Naturresort, in dem Familien entspannen, baden und die Natur erkunden können, fernab vom Stadtlärm.",
       hu: "Egy békés természetvédelmi üdülőhely, ahol a családok pihenhetnek, fürödhetnek és felfedezhetik a természetet, távol a város zajától.",
@@ -647,8 +675,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Kissing Bridge",
       hu: "Kissing Bridge",
       ro: "Kissing Bridge",
-      en: "Kissing Bridge"
-    },
+      en: "Kissing Bridge",
+image: "/poi-images/kissing-bridge-georgetown-life-v2.webp"
+},
     description: {
       de: "Eine malerische, weiße Bogenbrücke im Botanischen Garten, die ein beliebtes Fotomotiv für Familien und Hochzeitspaare ist.",
       hu: "Egy festői, fehér ívhíd a Botanikus Kertben, amely népszerű fotótéma a családok és házaspárok számára.",
@@ -669,8 +698,9 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       de: "Evergreen-Naturzentrum",
       hu: "Evergreen Természeti Központ",
       ro: "Centrul de Natură Evergreen",
-      en: "Evergreen Nature Centre"
-    },
+      en: "Evergreen Nature Centre",
+image: "/poi-images/evergreen-nature-centre-life-v2.webp"
+},
     description: {
       de: "Eine private Naturoase in Ogle, wo Kinder in sicherer Umgebung die Flora und Fauna Guyanas hautnah erleben können.",
       hu: "Egy privát természeti oázis Ogle-ben, ahol a gyerekek biztonságos környezetben ismerhetik meg Guyana növény- és állatvilágát.",

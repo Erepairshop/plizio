@@ -7,7 +7,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "river",
     parent: "CI-CI",
     coords: [-5.9, 5.0],
-    name: { de: "Sassandra", hu: "Sassandra", ro: "Sassandra", en: "Sassandra" },
+    name: { de: "Sassandra", hu: "Sassandra", ro: "Sassandra", en: "Sassandra",
+image: "/poi-images/sassandra-river-nature-v2.webp"
+},
     description: { de: "Der Fluss entspringt im Norden und mündet bei der Stadt Sassandra in den Atlantik.", hu: "A folyó északról ered és Sassandra városánál ömlik az Atlanti-óceánba.", ro: "Râul izvorăște din nord și se varsă în Oceanul Atlantic lângă orașul Sassandra.", en: "The river originates in the north and flows into the Atlantic Ocean near the city of Sassandra." },
     facts: {
       de: ["Länge ca. 650 km.", "Wichtige Lebensader des Landes.", "Fließt durch tropische Gebiete.", "Bietet Wasserkraftpotenzial."],
@@ -32,7 +34,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "river",
     parent: "CI-CI",
     coords: [-7.5, 4.4],
-    name: { de: "Cavally", hu: "Cavally", ro: "Cavally", en: "Cavally" },
+    name: { de: "Cavally", hu: "Cavally", ro: "Cavally", en: "Cavally",
+image: "/poi-images/cavally-river-nature-v2.webp"
+},
     description: { de: "Dieser Grenzfluss zwischen Elfenbeinküste und Liberia mündet in den Golf von Guinea.", hu: "Ez a határfolyó Elefántcsontpart és Libéria között a Guineai-öbölbe ömlik.", ro: "Acest râu de frontieră dintre Coasta de Fildeș și Liberia se varsă în Golful Guineei.", en: "This border river between Ivory Coast and Liberia flows into the Gulf of Guinea." },
     facts: {
       de: ["Grenzfluss zu Liberia.", "Mündet in den Golf von Guinea.", "Reich an Artenvielfalt.", "Wichtige Wasserstraße für den lokalen Handel."],
@@ -57,7 +61,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-8.4, 7.6],
-    name: { de: "Mont Nimba", hu: "Nimba-hegy", ro: "Muntele Nimba", en: "Mount Nimba" },
+    name: { de: "Mont Nimba", hu: "Nimba-hegy", ro: "Muntele Nimba", en: "Mount Nimba",
+image: "/poi-images/mount-nimba-nature-v2.webp"
+},
     description: { de: "Das Nimba-Massiv ist die höchste Erhebung des Landes und ein bedeutendes Schutzgebiet.", hu: "A Nimba-hegység az ország legmagasabb pontja és jelentős természetvédelmi terület.", ro: "Masivul Nimba este cea mai înaltă zonă a țării și o arie protejată importantă.", en: "The Nimba massif is the country's highest peak and an important nature reserve." },
     facts: {
       de: ["Höchste Erhebung der Elfenbeinküste.", "UNESCO-Welterbe.", "Einzigartige Flora und Fauna.", "Liegt im Dreiländereck."],
@@ -82,7 +88,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-4.0, 5.2],
-    name: { de: "Lagune Ébrié", hu: "Ébrié-lagúna", ro: "Laguna Ébrié", en: "Ébrié Lagoon" },
+    name: { de: "Lagune Ébrié", hu: "Ébrié-lagúna", ro: "Laguna Ébrié", en: "Ébrié Lagoon",
+image: "/poi-images/lagune-ebrie-nature-v2.webp"
+},
     description: { de: "Diese Lagune verbindet Abidjan mit dem Atlantischen Ozean.", hu: "Ez a lagúna köti össze Abidjan városát az Atlanti-óceánnal.", ro: "Această lagună conectează orașul Abidjan cu Oceanul Atlantic.", en: "This lagoon connects the city of Abidjan to the Atlantic Ocean." },
     facts: {
       de: ["Wichtige Wasserstraße für den Hafen von Abidjan.", "Trennt die Stadtviertel.", "Große ökologische Bedeutung.", "Touristisches Zentrum."],
@@ -102,7 +110,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "river",
     parent: "CI-CI",
     coords: [-5.0, 5.1],
-    name: { de: "Bandama", hu: "Bandama", ro: "Bandama", en: "Bandama" },
+    name: { de: "Bandama", hu: "Bandama", ro: "Bandama", en: "Bandama",
+image: "/poi-images/bandama-river-nature-v2.webp"
+},
     description: { de: "Der längste Fluss der Elfenbeinküste durchquert das Land von Norden nach Süden.", hu: "Elefántcsontpart leghosszabb folyója északról délre szeli át az országot.", ro: "Cel mai lung râu din Coasta de Fildeș traversează țara de la nord la sud.", en: "The longest river in Ivory Coast flows through the country from north to south." },
     facts: {
       de: ["Längster Fluss des Landes.", "Speist den Kossou-Stausee.", "Wichtig für die Bewässerung.", "Natürliche Grenze für einige Regionen."],
@@ -122,7 +132,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-5.0, 5.2],
-    name: { de: "Lagune Grand-Lahou", hu: "Grand-Lahou lagúna", ro: "Laguna Grand-Lahou", en: "Grand-Lahou Lagoon" },
+    name: { de: "Lagune Grand-Lahou", hu: "Grand-Lahou lagúna", ro: "Laguna Grand-Lahou", en: "Grand-Lahou Lagoon",
+image: "/poi-images/lagune-grand-lahou-nature-v2.webp"
+},
     description: { de: "Eine bedeutende Lagune im Südwesten des Landes, bekannt für ihre Tierwelt.", hu: "Jelentős lagúna az ország délnyugati részén, gazdag élővilágáról ismert.", ro: "O lagună importantă în sud-vestul țării, cunoscută pentru biodiversitate.", en: "An important lagoon in the southwest of the country, known for its wildlife." },
     facts: {
       de: ["Schutzgebiet für zahlreiche Vögel.", "Teil eines ausgedehnten Feuchtgebietes.", "Wichtige Fischgründe.", "Nahe dem Azagny-Nationalpark."],
@@ -142,7 +154,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "river",
     parent: "CI-CI",
     coords: [-3.3, 5.1],
-    name: { de: "Comoé", hu: "Comoé", ro: "Comoé", en: "Comoé" },
+    name: { de: "Comoé", hu: "Comoé", ro: "Comoé", en: "Comoé",
+image: "/poi-images/comoe-river-nature-v2.webp"
+},
     description: { de: "Ein bedeutender Fluss im Osten des Landes, der den Komoé-Nationalpark durchfließt.", hu: "Jelentős folyó az ország keleti részén, amely átfolyik a Comoé Nemzeti Parkon.", ro: "Un râu important în estul țării, care traversează Parcul Național Comoé.", en: "A major river in the east of the country that flows through Comoé National Park." },
     facts: {
       de: ["Fließt durch den Comoé-Nationalpark.", "Lebensraum für viele Wildtiere.", "Wichtig für das Ökosystem.", "Speist den Atlantik im Osten."],
@@ -162,7 +176,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.5, 8.1],
-    name: { de: "Mont Poko", hu: "Poko-hegy", ro: "Muntele Poko", en: "Mount Poko" },
+    name: { de: "Mont Poko", hu: "Poko-hegy", ro: "Muntele Poko", en: "Mount Poko",
+image: "/poi-images/mount-poko-nature-v2.webp"
+},
     description: { de: "Ein markanter Berg im westlichen Hochland des Landes.", hu: "Kisebb kiemelkedés az ország nyugati részén, amely a sűrű trópusi erdők és a változatos állatvilág egyik élőhelye.", ro: "Un munte distinctiv în zonele înalte din vestul țării.", en: "A prominent mountain in the country's western highlands." },
     facts: {
       de: ["Teil des westlichen Berglandes.", "Umgeben von tropischen Wäldern.", "Relativ unerschlossen.", "Landschaftlich reizvoll."],
@@ -182,7 +198,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-4.5, 5.2],
-    name: { de: "Lagune La Maho", hu: "La Maho lagúna", ro: "Laguna La Maho", en: "La Maho Lagoon" },
+    name: { de: "Lagune La Maho", hu: "La Maho lagúna", ro: "Laguna La Maho", en: "La Maho Lagoon",
+image: "/poi-images/la-maho-lagoon-nature-v2.webp"
+},
     description: { de: "Ein ruhiges Gewässer im Küstenstreifen, ideal für die Tierbeobachtung.", hu: "Csendes vízfelület a partvidéken, ideális az állatok megfigyelésére.", ro: "Un corp de apă liniștit de pe coastă, ideal pentru observarea faunei.", en: "A quiet body of water on the coast, ideal for wildlife viewing." },
     facts: {
       de: ["Ruhige Wasserlage.", "Heimat seltener Fischarten.", "Wichtiges lokales Ökosystem.", "Gut für Ökotourismus."],
@@ -202,7 +220,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "forest",
     parent: "CI-CI",
     coords: [-7.3, 5.8],
-    name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest" },
+    name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest",
+image: "/poi-images/forest-ta-i-nature-v2.webp"
+},
     description: { de: "Einer der letzten großen Primärregenwälder Westafrikas und Heimat zahlreicher seltener Tierarten.", hu: "Nyugat-Afrika egyik utolsó nagy őserdeje és UNESCO világörökségi helyszíne.", ro: "Una dintre ultimele mari păduri primare din Africa de Vest și sit al Patrimoniului Mondial UNESCO.", en: "One of the last major primary forests in West Africa and a UNESCO World Heritage site." },
     facts: {
       de: ["UNESCO-Welterbe seit 1982", "Fläche ca. 3.300 km²", "Heimat von Zwergflusspferden"],
@@ -222,7 +242,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-3.8, 5.3],
-    name: { de: "Lagune Abidjan Ost", hu: "Abidjan-keleti lagúna", ro: "Laguna Abidjan Est", en: "Abidjan East Lagoon" },
+    name: { de: "Lagune Abidjan Ost", hu: "Abidjan-keleti lagúna", ro: "Laguna Abidjan Est", en: "Abidjan East Lagoon",
+image: "/poi-images/lagune-abidjan-est-nature-v2.webp"
+},
     description: { de: "Ein ökologisch wichtiger Teil des Lagunensystems im Osten Abidjans.", hu: "Az abidjani lagúnarendszer ökológiailag fontos része keleten.", ro: "O parte importantă din punct de vedere ecologic a sistemului de lagune din estul Abidjanului.", en: "An ecologically important part of the lagoon system in eastern Abidjan." },
     facts: {
       de: ["Schutz von Mangroven.", "Teil des Ébrié-Systems.", "Wichtig für lokale Fischer.", "Hohe Artenvielfalt."],
@@ -242,7 +264,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.6, 7.7],
-    name: { de: "Mont Biankouma", hu: "Biankouma-hegy", ro: "Muntele Biankouma", en: "Mount Biankouma" },
+    name: { de: "Mont Biankouma", hu: "Biankouma-hegy", ro: "Muntele Biankouma", en: "Mount Biankouma",
+image: "/poi-images/mount-biankouma-nature-v2.webp"
+},
     description: { de: "Ein Gebirgszug nahe der Grenze zu Guinea, bekannt für seine Wälder.", hu: "Hegyvonulat Guinea határának közelében, erdőiről ismert.", ro: "Muntele Biankouma domină regiunea vestică, fiind înconjurat de păduri dense și sate tradiționale ale poporului Dan.", en: "A mountain range near the border with Guinea, known for its forests." },
     facts: {
       de: ["Teil des westlichen Hochlandes.", "Dicht bewaldete Hänge.", "Wichtiges Einzugsgebiet.", "Reiches Tierleben."],
@@ -262,7 +286,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-5.1, 5.2],
-    name: { de: "Lagune Yocoboué", hu: "Yocoboué lagúna", ro: "Laguna Yocoboué", en: "Yocoboué Lagoon" },
+    name: { de: "Lagune Yocoboué", hu: "Yocoboué lagúna", ro: "Laguna Yocoboué", en: "Yocoboué Lagoon",
+image: "/poi-images/lagune-yocoboue-nature-v2.webp"
+},
     description: { de: "Ein ökologisch wertvolles Küstengewässer, das durch seine reiche Biodiversität und Mangroven geprägt ist.", hu: "További természetes lagúna az ország partvidékén.", ro: "O altă lagună naturală în zona de coastă a țării.", en: "Another natural lagoon in the coastal area of the country." },
     facts: {
       de: ["Küstenlagune", "Nahe der Stadt Yocoboué", "Wichtiger Lebensraum für Fische"],
@@ -282,7 +308,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.7, 7.4],
-    name: { de: "Mont Tonkpi", hu: "Tonkpi-hegy", ro: "Muntele Tonkpi", en: "Mount Tonkpi" },
+    name: { de: "Mont Tonkpi", hu: "Tonkpi-hegy", ro: "Muntele Tonkpi", en: "Mount Tonkpi",
+image: "/poi-images/mount-tonkpi-nature-v2.webp"
+},
     description: { de: "Der höchste Gipfel der Bergregion um Man bietet einen weiten Panoramablick über das westliche Hochland.", hu: "A Man városa melletti 1189 méteres csúcs az ország egyik legmagasabb pontja, lenyűgöző panorámát nyújtva a környékre.", ro: "Unul dintre mulții munți din regiunea Tonkpi din vestul Coastei de Fildeș.", en: "Mount Tonkpi is the highest peak in the Man mountain range, rising to 1,189 meters. It is famous for its cool climate and lush coffee and cocoa plantations." },
     facts: {
       de: ["Höhe 1.189 Meter", "Teil der Monts du Toura", "Wanderziel bei Man"],
@@ -302,7 +330,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "sea",
     parent: "CI-CI",
     coords: [-5.9, 4.9],
-    name: { de: "Sassandra-Mündung", hu: "Sassandra-torkolat", ro: "Estuarul Sassandra", en: "Sassandra Estuary" },
+    name: { de: "Sassandra-Mündung", hu: "Sassandra-torkolat", ro: "Estuarul Sassandra", en: "Sassandra Estuary",
+image: "/poi-images/sassandra-river-estuary-nature-v2.webp"
+},
     description: { de: "Der Ort, an dem der Sassandra-Fluss in den Atlantik mündet.", hu: "Az a hely, ahol a Sassandra folyó az Atlanti-óceánba torkollik.", ro: "Locul unde râul Sassandra se varsă în Atlantic.", en: "The place where the Sassandra River flows into the Atlantic." },
     facts: {
       de: ["Wichtiger Brackwasserbereich.", "Nährstoffreiches Wasser.", "Wichtiger Ort für Fischer.", "Besondere Tierwelt."],
@@ -322,7 +352,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-5.5, 5.2],
-    name: { de: "Lagune Fresco", hu: "Fresco lagúna", ro: "Laguna Fresco", en: "Fresco Lagoon" },
+    name: { de: "Lagune Fresco", hu: "Fresco lagúna", ro: "Laguna Fresco", en: "Fresco Lagoon",
+image: "/poi-images/lagune-fresco-nature-v2.webp"
+},
     description: { de: "Eine Küstenlagune nahe der Stadt Fresco.", hu: "A tengerparti Fresco közelében elterülő lagúna-rendszer fontos ökológiai terület, amely számos vízi madárnak ad otthont.", ro: "O lagună de coastă lângă orașul Fresco.", en: "A coastal lagoon near the town of Fresco." },
     facts: {
       de: ["Mangrovenwälder.", "Beliebt bei Touristen.", "Wichtig für die lokale Fischerei.", "Schöne natürliche Umgebung."],
@@ -342,7 +374,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "forest",
     parent: "CI-CI",
     coords: [-5.8, 7.3],
-    name: { de: "Marahoué-Wald", hu: "Marahoué-erdő", ro: "Pădurea Marahoué", en: "Marahoué Forest" },
+    name: { de: "Marahoué-Wald", hu: "Marahoué-erdő", ro: "Pădurea Marahoué", en: "Marahoué Forest",
+image: "/poi-images/forest-marahoue-nature-v2.webp"
+},
     description: { de: "Ein Nationalpark im Zentrum des Landes, der den Übergang zwischen Regenwald und Savanne markiert.", hu: "Jelentős erdős terület az ország középnyugati részén.", ro: "O zonă forestieră importantă în centrul-vestul țării.", en: "A significant forest area in the country's central west." },
     facts: {
       de: ["Gegründet 1968", "Fläche ca. 1.000 km²", "Vorkommen von Elefanten"],
@@ -362,7 +396,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-4.2, 5.2],
-    name: { de: "Lagune Abidjan West", hu: "Abidjan-nyugati lagúna", ro: "Laguna Abidjan Vest", en: "Abidjan West Lagoon" },
+    name: { de: "Lagune Abidjan West", hu: "Abidjan-nyugati lagúna", ro: "Laguna Abidjan Vest", en: "Abidjan West Lagoon",
+image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp"
+},
     description: { de: "Der westliche Teil der Lagune Ébrié bei Abidjan.", hu: "Az Ébrié-lagúna nyugati része Abidjan mellett.", ro: "Partea de vest a lagunei Ébrié lângă Abidjan.", en: "The western part of the Ébrié Lagoon near Abidjan." },
     facts: {
       de: ["Wichtige Wasserstraße.", "Ökologisch sensible Zone.", "Teil des Lagunensystems.", "Nahe dem Stadtzentrum."],
@@ -382,7 +418,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.5, 7.5],
-    name: { de: "Mont Mambl", hu: "Mambl-hegy", ro: "Muntele Mambl", en: "Mount Mambl" },
+    name: { de: "Mont Mambl", hu: "Mambl-hegy", ro: "Muntele Mambl", en: "Mount Mambl",
+image: "/poi-images/mount-mambl-nature-v2.webp"
+},
     description: { de: "Ein weiterer Gipfel in den westlichen Bergregionen der Elfenbeinküste.", hu: "Egy elszigetelt hegycsúcs, amely a helyi biodiverzitás szempontjából jelentős és különleges mikroklímával rendelkezik.", ro: "Un alt vârf din zonele montane vestice ale Coastei de Fildeș.", en: "Another peak in the western mountain regions of Ivory Coast." },
     facts: {
       de: ["Schöne Wanderwege.", "Dichte Vegetation.", "Ein Teil der westlichen Kette.", "Sehr malerisch."],
@@ -402,7 +440,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-3.7, 5.2],
-    name: { de: "Lagune Grand-Bassam", hu: "Grand-Bassam lagúna", ro: "Laguna Grand-Bassam", en: "Grand-Bassam Lagoon" },
+    name: { de: "Lagune Grand-Bassam", hu: "Grand-Bassam lagúna", ro: "Laguna Grand-Bassam", en: "Grand-Bassam Lagoon",
+image: "/poi-images/lagune-grand-bassam-nature-v2.webp"
+},
     description: { de: "Ein Teil des Ebrié-Lagunensystems, das die historische Stadt vom Atlantischen Ozean trennt.", hu: "A történelmi város melletti kiterjedt lagúna, ahol az édesvíz és a sós óceáni víz keveredik, gazdag élővilágot teremtve.", ro: "O lagună istorică în apropierea fostei capitale.", en: "A historic lagoon near the former capital." },
     facts: {
       de: ["Teil des Ebrié-Systems", "Östlich von Abidjan", "Mischwasser-Ökosystem"],
@@ -422,7 +462,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "forest",
     parent: "CI-CI",
     coords: [-7.4, 5.9],
-    name: { de: "Cavally-Wald", hu: "Cavally-erdő", ro: "Pădurea Cavally", en: "Cavally Forest" },
+    name: { de: "Cavally-Wald", hu: "Cavally-erdő", ro: "Pădurea Cavally", en: "Cavally Forest",
+image: "/poi-images/cavally-forest-nature-v2.webp"
+},
     description: { de: "Ein bedeutendes Waldschutzgebiet im Westen des Landes am Cavally-Fluss.", hu: "A libériai határ közelében fekvő Cavally-erdő az ország egyik utolsó érintetlen trópusi esőerdője, veszélyeztetett fajokkal.", ro: "O arie forestieră protejată importantă în vestul țării, lângă râul Cavally.", en: "An important forest protected area in the west of the country along the Cavally River." },
     facts: {
       de: ["Wichtiges Schutzgebiet.", "Dichter Regenwald.", "Hohe Biodiversität.", "Schutz für bedrohte Tierarten."],
@@ -442,7 +484,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.8, 7.2],
-    name: { de: "Mont Ni", hu: "Ni-hegy", ro: "Muntele Ni", en: "Mount Ni" },
+    name: { de: "Mont Ni", hu: "Ni-hegy", ro: "Muntele Ni", en: "Mount Ni",
+image: "/poi-images/mount-ni-nature-v2.webp"
+},
     description: { de: "Ein kleinerer, aber bedeutender Berg in der westlichen Region.", hu: "Kisebb, de jelentős hegy a nyugati régióban.", ro: "Muntele Ni oferă peisaje montane spectaculoase și un climat mai răcoros, fiind o destinație populară pentru drumeții în vestul țării.", en: "A smaller but significant mountain in the western region." },
     facts: {
       de: ["Gute Wandermöglichkeiten.", "Grüne Umgebung.", "Kühlere Temperaturen.", "Teil der Tonkpi-Berge."],
@@ -462,7 +506,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-4.1, 5.4],
-    name: { de: "Lagune Abidjan Nord", hu: "Abidjan-északi lagúna", ro: "Laguna Abidjan Nord", en: "Abidjan North Lagoon" },
+    name: { de: "Lagune Abidjan Nord", hu: "Abidjan-északi lagúna", ro: "Laguna Abidjan Nord", en: "Abidjan North Lagoon",
+image: "/poi-images/lagune-abidjan-nord-nature-v2.webp"
+},
     description: { de: "Der nördliche Bereich der Lagune Ébrié bei Abidjan.", hu: "Az Ébrié-lagúna északi területe Abidjan mellett.", ro: "Zona de nord a lagunei Ébrié lângă Abidjan.", en: "The northern area of the Ébrié Lagoon near Abidjan." },
     facts: {
       de: ["Wichtige Wasserstraße.", "Wichtig für lokale Fischer.", "Gute ökologische Wasserqualität.", "Touristisch genutzt."],
@@ -482,7 +528,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.3, 7.9],
-    name: { de: "Mont Gouane", hu: "Gouane-hegy", ro: "Muntele Gouane", en: "Mount Gouane" },
+    name: { de: "Mont Gouane", hu: "Gouane-hegy", ro: "Muntele Gouane", en: "Mount Gouane",
+image: "/poi-images/mount-gouane-nature-v2.webp"
+},
     description: { de: "Ein markanter Gipfel in der hügeligen Landschaft der Region Tonkpi im Westen der Elfenbeinküste.", hu: "A nyugati régió egyik jellegzetes hegye, amely a helyi közösségek számára spirituális jelentőséggel is bír.", ro: "Muntele Gouane este un reper natural impresionant în regiunea Tonkpi, având o importanță spirituală majoră pentru comunitățile locale.", en: "Located near the city of Man, Mount Gouane offers spectacular views of the surrounding mountainous landscape. The area is covered in dense tropical rainforest and granite outcrops." },
     facts: {
       de: ["Region Tonkpi", "Westliches Hochland", "Vulkanischen Ursprungs"],
@@ -495,7 +543,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-3.2, 5.1],
-    name: { de: "Lagune Assinie", hu: "Assinie lagúna", ro: "Laguna Assinie", en: "Assinie Lagoon" },
+    name: { de: "Lagune Assinie", hu: "Assinie lagúna", ro: "Laguna Assinie", en: "Assinie Lagoon",
+image: "/poi-images/lagune-assinie-nature-v2.webp"
+},
     description: { de: "Eine beliebte Lagune im Osten nahe der Grenze zu Ghana.", hu: "Elefántcsontpart egyik legnépszerűbb üdülőhelye, ahol a kristálytiszta lagúna és az óceánpart luxus környezetet kínál.", ro: "O lagună populară în est, aproape de granița cu Ghana.", en: "A popular lagoon in the east near the border with Ghana." },
     facts: {
       de: ["Sehr beliebtes Touristenziel.", "Wassersportmöglichkeiten.", "Schöne Strände.", "Große Biodiversität."],
@@ -508,7 +558,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "forest",
     parent: "CI-CI",
     coords: [-4.9, 5.2],
-    name: { de: "Azagny-Wald", hu: "Azagny-erdő", ro: "Pădurea Azagny", en: "Azagny Forest" },
+    name: { de: "Azagny-Wald", hu: "Azagny-erdő", ro: "Pădurea Azagny", en: "Azagny Forest",
+image: "/poi-images/forest-azagny-nature-v2.webp"
+},
     description: { de: "Ein wichtiger Waldabschnitt im Azagny-Nationalpark.", hu: "Fontos erdőszakasz az Azagny Nemzeti Parkban.", ro: "O secțiune forestieră importantă din Parcul Național Azagny.", en: "An important forest section in the Azagny National Park." },
     facts: {
       de: ["Teil des Nationalparks.", "Heimat vieler Arten.", "Wichtiger Schutzbereich.", "Sehr grün und üppig."],
@@ -521,7 +573,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "sea",
     parent: "CI-CI",
     coords: [-6.0, 4.8],
-    name: { de: "Sassandra-Küste", hu: "Sassandra-part", ro: "Coasta Sassandra", en: "Sassandra Coast" },
+    name: { de: "Sassandra-Küste", hu: "Sassandra-part", ro: "Coasta Sassandra", en: "Sassandra Coast",
+image: "/poi-images/sassandra-coastal-nature-v2.webp"
+},
     description: { de: "Ein malerischer Küstenabschnitt am Atlantik bei Sassandra.", hu: "Festői partszakasz az Atlanti-óceánon Sassandra mellett.", ro: "Coasta Sassandra este renumită pentru plajele sale sălbatice și stâncoase, unde râul Sassandra se întâlnește cu apele Atlanticului.", en: "A scenic stretch of coast on the Atlantic near Sassandra." },
     facts: {
       de: ["Wunderschöne Strände.", "Ideal für Erholung.", "Reiche Meeresfauna.", "Besondere Küstenformationen."],
@@ -534,7 +588,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "lake",
     parent: "CI-CI",
     coords: [-5.4, 5.3],
-    name: { de: "Lagune Fresco Ost", hu: "Fresco-keleti lagúna", ro: "Laguna Fresco Est", en: "Fresco East Lagoon" },
+    name: { de: "Lagune Fresco Ost", hu: "Fresco-keleti lagúna", ro: "Laguna Fresco Est", en: "Fresco East Lagoon",
+image: "/poi-images/lagune-fresco-est-nature-v2.webp"
+},
     description: { de: "Die östliche Lagune bei Fresco ist ein ruhiges Gewässer, das von dichten Mangrovenwäldern gesäumt wird.", hu: "A Fresco-lagúna keleti szakasza, amely érintetlen környezetével és vadvilágával tűnik ki a parti régióban.", ro: "Laguna Fresco Est este un ecosistem umed protejat, caracterizat prin păduri de mangrove și o bogată faună aviară.", en: "The eastern Fresco lagoon is a vital coastal ecosystem where freshwater rivers meet the Atlantic Ocean. It provides essential nesting grounds for various bird species and marine life." },
     facts: {
       de: ["Küstenregion Fresco", "Vorkommen von Rundschwanzseekühen", "Mangroven-Lebensraum"],
@@ -547,7 +603,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.2, 7.7],
-    name: { de: "Mont Niam", hu: "Niam-hegy", ro: "Muntele Niam", en: "Mount Niam" },
+    name: { de: "Mont Niam", hu: "Niam-hegy", ro: "Muntele Niam", en: "Mount Niam",
+image: "/poi-images/mount-niam-nature-v2.webp"
+},
     description: { de: "Ein Bergmassiv im Westen des Landes, das Teil der geologischen Formationen nahe der Grenze zu Guinea ist.", hu: "Az északi szavannás területeken magasodó izolált hegy, amely látványos kontrasztot alkot a sík vidékkel.", ro: "Muntele Niam este o formațiune granitică izolată în vestul țării, oferind un habitat unic pentru numeroase specii endemice.", en: "Mount Niam is a significant rocky outcrop located in the northern savanna region near Boundiali. It stands as a prominent landmark in an otherwise flat landscape." },
     facts: {
       de: ["Westliche Elfenbeinküste", "Granitische Felsformationen", "Bedeutendes Wassereinzugsgebiet"],
@@ -560,7 +618,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.4, 7.8],
-    name: { de: "Mont Toura", hu: "Toura-hegy", ro: "Muntele Toura", en: "Mount Toura" },
+    name: { de: "Mont Toura", hu: "Toura-hegy", ro: "Muntele Toura", en: "Mount Toura",
+image: "/poi-images/mount-toura-nature-v2.webp"
+},
     description: { de: "Ein Berg in der Toura-Region im Westen des Landes.", hu: "Hegy a nyugati Toura-régióban.", ro: "Munții Toura reprezintă un lanț muntos împădurit în vest, esențial pentru reglarea climatului local și a resurselor de apă.", en: "A mountain in the Toura region in the west of the country." },
     facts: {
       de: ["Schöne Wanderwege.", "Grüne Umgebung.", "Kühlere Temperaturen.", "Teil des westlichen Berglandes."],

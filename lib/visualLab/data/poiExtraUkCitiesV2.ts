@@ -4,7 +4,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-birmingham-cities-v2",
     type: "city",
-    name: { de: "Birmingham", hu: "Birmingham", ro: "Birmingham", en: "Birmingham" },
+    name: { de: "Birmingham", hu: "Birmingham", ro: "Birmingham", en: "Birmingham",
+image: "/poi-images/uk-birmingham-cities-v2.webp"
+},
     coords: [-1.8904, 52.4862],
     coordinates: { lat: 52.4862, lng: -1.8904 },
     description: {
@@ -19,11 +21,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Are mai multe canale decât Veneția", "Centrul industriei britanice de bijuterii", "Locul de origine al trupei rock Black Sabbath", "Peste 1,1 milioane de locuitori"],
       en: ["Boasts more canals than Venice", "Center of the British jewellery industry", "Birthplace of the rock band Black Sabbath", "Population of over 1.1 million"],
     },
-    imageHint: "Birmingham Library architecture and city square", image: "/poi-images/uk-birmingham-cities-v2.webp"},
-  {
+imageHint: "Birmingham Library architecture and city square",
+    descriptionAdvanced: {
+      de: "Birmingham ist die zweitgrößte Stadt des Vereinigten Königreichs und war ein Zentrum der industriellen Revolution. Die Stadt verfügt heute über mehr Kanäle als Venedig.",
+      hu: "Birmingham az Egyesült Királyság második legnagyobb városa, az ipari forradalom egykori motorja. Több csatornával rendelkezik, mint Velence, és fontos ékszergyártó központ.",
+      ro: "Birmingham este al doilea oraș ca mărime din Regatul Unit, fiind un nod vital al Revoluției Industriale. Orașul are o rețea de canale mai extinsă decât cea a Veneției.",
+      en: "Birmingham is the UK's second-largest city and a former powerhouse of the Industrial Revolution. It boasts more miles of canals than Venice and a rich cultural diversity.",
+    },
+    factsAdvanced: {
+      de: ["Über 56 km Kanäle im Stadtgebiet", "Zweitgrößte Stadt im Vereinigten Königreich", "Jewellery Quarter produziert 40 % des Schmucks", "Library of Birmingham wurde 2013 eröffnet"],
+      hu: ["Több mint 56 km csatornahálózat", "Az Egyesült Királyság második legnépesebb városa", "Az ékszernegyed adja a brit ékszerek 40%-át", "A birminghami könyvtár 2013-ban nyílt meg"],
+      ro: ["Peste 56 km de canale navigabile", "Al doilea cel mai populat oraș din Regatul Unit", "Jewellery Quarter produce 40% din bijuterii", "Biblioteca din Birmingham a fost deschisă în 2013"],
+      en: ["Over 35 miles of canals within the city", "Second largest city in the United Kingdom", "Jewellery Quarter produces 40% of UK jewellery", "The Library of Birmingham opened in 2013"],
+    },
+    image: "/poi-images/uk-birmingham-cities-v2.webp",
+},  {
     id: "uk-manchester-cities-v2",
     type: "city",
-    name: { de: "Manchester", hu: "Manchester", ro: "Manchester", en: "Manchester" },
+    name: { de: "Manchester", hu: "Manchester", ro: "Manchester", en: "Manchester",
+image: "/poi-images/uk-manchester-cities-v2.webp"
+},
     coords: [-2.2426, 53.4808],
     coordinates: { lat: 53.4808, lng: -2.2426 },
     description: {
@@ -38,11 +55,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Primul oraș industrializat din lume", "Locul de origine al echipelor United și City", "Aici a fost divizat primul atom", "Cunoscut pentru canalul navigabil Manchester"],
       en: ["World's first industrialized city", "Home to Manchester United and City", "Site where the atom was first split", "Famous for the Manchester Ship Canal"],
     },
-    imageHint: "Manchester Town Hall and Albert Square", image: "/poi-images/uk-manchester-cities-v2.webp"},
-  {
+imageHint: "Manchester Town Hall and Albert Square",
+    descriptionAdvanced: {
+      de: "Manchester gilt als die erste modern industrialisierte Stadt der Welt. Sie ist heute ein bedeutendes Zentrum für Medien, Bildung und Sport mit zwei Weltklasse-Fußballvereinen.",
+      hu: "Manchester a világ első modern ipari városa, ma pedig a média, az oktatás és a sport központja. Itt épült meg az első tárolt programú számítógép is az 1948-as évben.",
+      ro: "Manchester este considerat primul oraș industrializat din lume. Astăzi este un centru major pentru media și sport, găzduind două dintre cele mai faimoase cluburi de fotbal.",
+      en: "Manchester is recognized as the world's first industrial city. It is now a leading hub for media, culture, and sports, home to two of the most successful football clubs.",
+    },
+    factsAdvanced: {
+      de: ["Erste moderne Industriestadt weltweit", "Atomspaltung durch Rutherford im Jahr 1917", "Erster Computer mit Speicherprogramm (1948)", "Heimat von Manchester United und City"],
+      hu: ["A világ első modern ipari városa", "Rutherford itt hasította ketté az atomot 1917-ben", "Az első tárolt programú számítógép (1948)", "A Manchester United és a City otthona"],
+      ro: ["Primul oraș industrial din lume", "Atomul a fost divizat aici de Rutherford în 1917", "Primul computer cu program stocat (1948)", "Sediul cluburilor Manchester United și City"],
+      en: ["World's first modern industrial city", "Atom split here by Rutherford in 1917", "First stored-program computer built in 1948", "Home to Manchester United and Manchester City"],
+    },
+    image: "/poi-images/uk-manchester-cities-v2.webp",
+},  {
     id: "uk-glasgow-cities-v2",
     type: "city",
-    name: { de: "Glasgow", hu: "Glasgow", ro: "Glasgow", en: "Glasgow" },
+    name: { de: "Glasgow", hu: "Glasgow", ro: "Glasgow", en: "Glasgow",
+image: "/poi-images/uk-glasgow-cities-v2.webp"
+},
     coords: [-4.2518, 55.8642],
     coordinates: { lat: 55.8642, lng: -4.2518 },
     description: {
@@ -57,11 +89,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Cel mai populat oraș din Scoția", "Renumit pentru stilul Art Nouveau al lui Mackintosh", "Gazda Jocurilor Commonwealth din 2014", "Sediul Universității din Glasgow (fondată în 1451)"],
       en: ["Largest city in Scotland", "Famous for Mackintosh's Art Nouveau style", "Host of the 2014 Commonwealth Games", "Home to the University of Glasgow (est. 1451)"],
     },
-    imageHint: "Glasgow Riverside Museum and Clyde Arc bridge", image: "/poi-images/uk-glasgow-cities-v2.webp"},
-  {
+imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
+    descriptionAdvanced: {
+      de: "Glasgow ist die größte Stadt Schottlands am Fluss Clyde. Einst ein Zentrum des Schiffbaus, ist sie heute bekannt für ihre viktorianische Architektur und lebendige Kunstszene.",
+      hu: "Glasgow Skócia legnagyobb városa, a Clyde folyó partján fekszik. Egykor a hajógyártás világközpontja volt, ma vibráló művészeti életéről és építészetéről nevezetes.",
+      ro: "Glasgow este cel mai mare oraș din Scoția, situat pe râul Clyde. Fost centru al construcțiilor navale, este acum renumit pentru arhitectura sa victoriană și muzee prestigioase.",
+      en: "Glasgow is Scotland's largest city, situated on the River Clyde. Once a global leader in shipbuilding, it is now celebrated for its Victorian architecture and vibrant arts.",
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt Schottlands nach Einwohnerzahl", "Zentrum des weltweiten Schiffbaus im 19. Jh.", "Kelvingrove Art Gallery wurde 1901 eröffnet", "Burrell Collection beherbergt 9.000 Exponate"],
+      hu: ["Skócia legnépesebb városa", "A 19. századi hajógyártás világközpontja", "A Kelvingrove galéria 1901-ben nyílt meg", "A Burrell-gyűjtemény 9000 műtárgyat őriz"],
+      ro: ["Cel mai populat oraș din Scoția", "Centru mondial de construcții navale în sec. XIX", "Galeria Kelvingrove a fost deschisă în 1901", "Colecția Burrell conține 9.000 de obiecte"],
+      en: ["Largest city in Scotland by population", "World center of shipbuilding in the 19th century", "Kelvingrove Art Gallery opened in 1901", "The Burrell Collection holds 9,000 items"],
+    },
+    image: "/poi-images/uk-glasgow-cities-v2.webp",
+},  {
     id: "uk-liverpool-cities-v2",
     type: "city",
-    name: { de: "Liverpool", hu: "Liverpool", ro: "Liverpool", en: "Liverpool" },
+    name: { de: "Liverpool", hu: "Liverpool", ro: "Liverpool", en: "Liverpool",
+image: "/poi-images/uk-liverpool-cities-v2.webp"
+},
     coords: [-2.9916, 53.4084],
     coordinates: { lat: 53.4084, lng: -2.9916 },
     description: {
@@ -76,11 +123,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Locul de naștere al trupei The Beatles", "Deține două catedrale monumentale", "Royal Albert Dock este o atracție principală", "Casa clubului de fotbal Liverpool FC"],
       en: ["Birthplace of the Beatles", "Home to two magnificent cathedrals", "The Royal Albert Dock is a major landmark", "Home to the successful Liverpool FC"],
     },
-    imageHint: "Liverpool waterfront with the Royal Liver Building", image: "/poi-images/uk-liverpool-cities-v2.webp"},
-  {
+imageHint: "Liverpool waterfront with the Royal Liver Building",
+    descriptionAdvanced: {
+      de: "Liverpool ist eine bedeutende Hafenstadt an der Mersey-Mündung. Weltbekannt als Heimat der Beatles, blickt die Stadt auf eine reiche maritime Geschichte und markante Skyline.",
+      hu: "Liverpool az Egyesült Királyság egyik legfontosabb kikötővárosa. A Beatles szülőhelyeként vált világhírűvé, gazdag tengerészeti múlttal és látványos rakparttal rendelkezik.",
+      ro: "Liverpool este un oraș portuar major situat pe râul Mersey. Celebru ca oraș natal al formației The Beatles, are o istorie maritimă bogată și monumente arhitecturale deosebite.",
+      en: "Liverpool is a major port city located on the Mersey Estuary. World-renowned as the birthplace of The Beatles, it features a rich maritime heritage and an iconic waterfront.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsort der Band The Beatles", "Zweitgrößter Exporthafen Großbritanniens", "Anglikanische Kathedrale ist die größte im Land", "Status als UNESCO-Welterbe bis 2021"],
+      hu: ["A Beatles együttes szülővárosa", "Nagy-Britannia második legnagyobb exportkikötője", "Itt található az ország legnagyobb katedrálisa", "2021-ig az UNESCO Világörökség része volt"],
+      ro: ["Locul de origine al trupei The Beatles", "Al doilea cel mai mare port de export britanic", "Catedrala Anglicană este cea mai mare din țară", "Inclus în patrimoniul UNESCO până în 2021"],
+      en: ["Birthplace of the legendary band The Beatles", "Second largest export port in Great Britain", "Anglican Cathedral is the largest in the UK", "UNESCO World Heritage site status until 2021"],
+    },
+    image: "/poi-images/uk-liverpool-cities-v2.webp",
+},  {
     id: "uk-edinburgh-cities-v2",
     type: "capital",
-    name: { de: "Edinburgh", hu: "Edinburgh", ro: "Edinburgh", en: "Edinburgh" },
+    name: { de: "Edinburgh", hu: "Edinburgh", ro: "Edinburgh", en: "Edinburgh",
+image: "/poi-images/uk-edinburgh-cities-v2.webp"
+},
     coords: [-3.1883, 55.9533],
     coordinates: { lat: 55.9533, lng: -3.1883 },
     description: {
@@ -95,11 +157,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Gazda festivalului Edinburgh Festival Fringe", "Royal Mile leagă castelul de palat", "Oraș al literaturii sub protecția UNESCO", "Sediul Parlamentului Scoțian"],
       en: ["Host of the Edinburgh Festival Fringe", "The Royal Mile connects the castle and palace", "UNESCO World City of Literature", "Seat of the Scottish Parliament"],
     },
-    imageHint: "Edinburgh Castle on Castle Rock at sunset", image: "/poi-images/uk-edinburgh-cities-v2.webp"},
-  {
+imageHint: "Edinburgh Castle on Castle Rock at sunset",
+    descriptionAdvanced: {
+      de: "Edinburgh ist die schottische Hauptstadt und berühmt für ihr Schloss auf einem Vulkanfelsen. Die Altstadt und die georgianische Neustadt zählen zum UNESCO-Welterbe.",
+      hu: "Edinburgh Skócia fővárosa, amely egy kialudt vulkánra épült váráról ismert. Az óváros és az újváros az UNESCO Világörökség részét képezi, híres fesztiválváros is egyben.",
+      ro: "Edinburgh este capitala Scoției, faimoasă pentru castelul său ridicat pe o stâncă vulcanică. Orașul Vechi și Orașul Nou sunt incluse în prestigiosul patrimoniu mondial UNESCO.",
+      en: "Edinburgh is the capital of Scotland, famous for its castle perched on an extinct volcano. Its medieval Old Town and neoclassical New Town are recognized UNESCO World Heritage.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt von Schottland seit 1437", "Edinburgh Castle steht auf dem Castle Rock", "Austragungsort des weltgrößten Kunstfestivals", "Sitz des schottischen Parlaments seit 1999"],
+      hu: ["Skócia fővárosa 1437 óta", "Az edinburgh-i vár a Castle Rockon áll", "A világ legnagyobb művészeti fesztiváljának helyszíne", "A skót parlament székhelye 1999 óta"],
+      ro: ["Capitala Scoției începând cu anul 1437", "Castelul Edinburgh se află pe Castle Rock", "Găzduiește cel mai mare festival de artă mondial", "Sediul Parlamentului Scoțian din 1999"],
+      en: ["Capital of Scotland since 1437", "Edinburgh Castle stands on the volcanic Castle Rock", "Host to the world's largest arts festival (Fringe)", "Seat of the Scottish Parliament since 1999"],
+    },
+    image: "/poi-images/uk-edinburgh-cities-v2.webp",
+},  {
     id: "uk-cardiff-cities-v2",
     type: "capital",
-    name: { de: "Cardiff", hu: "Cardiff", ro: "Cardiff", en: "Cardiff" },
+    name: { de: "Cardiff", hu: "Cardiff", ro: "Cardiff", en: "Cardiff",
+image: "/poi-images/uk-cardiff-cities-v2.webp"
+},
     coords: [-3.1791, 51.4816],
     coordinates: { lat: 51.4816, lng: -3.1791 },
     description: {
@@ -114,11 +191,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Capitala Țării Galilor din 1955", "Principality Stadium este un punct de reper", "Deține un castel de origine romană", "Fost port carbonifer de mare importanță"],
       en: ["Capital of Wales since 1955", "Principality Stadium is a major landmark", "Features a castle of Roman origin", "Significant former coal exporting port"],
     },
-    imageHint: "Cardiff Bay with the Wales Millennium Centre", image: "/poi-images/uk-cardiff-cities-v2.webp"},
-  {
+imageHint: "Cardiff Bay with the Wales Millennium Centre",
+    descriptionAdvanced: {
+      de: "Cardiff ist die Hauptstadt von Wales und hat sich vom Kohlehafen zum Kulturzentrum gewandelt. Die Stadt beeindruckt durch ihr Schloss und das moderne Cardiff Bay-Viertel.",
+      hu: "Cardiff Wales fővárosa, amely jelentős szénkikötőből vált modern kulturális központtá. A város jelképe a középkori vár és a Cardiff-öböl teljesen megújult, vibráló negyede.",
+      ro: "Cardiff este capitala Țării Galilor, transformându-se dintr-un port carbonifer într-un centru cultural modern. Orașul este dominat de castelul său istoric și de Cardiff Bay.",
+      en: "Cardiff is the capital city of Wales, having transformed from a major coal port into a modern cultural hub. It is home to Cardiff Castle and the stunning Cardiff Bay area.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt von Wales seit 1955", "Principality Stadium fasst 74.500 Zuschauer", "Cardiff Castle hat römische Fundamente", "Cardiff Bay ist Europas größtes Uferprojekt"],
+      hu: ["Wales fővárosa 1955 óta", "A Principality Stadion 74 500 férőhelyes", "A cardiffi vár római alapokra épült", "A Cardiff-öböl Európa egyik legnagyobb projektje"],
+      ro: ["Capitala Țării Galilor din 1955", "Stadionul Principality are 74.500 de locuri", "Castelul Cardiff are fundații romane", "Cardiff Bay este cel mai mare proiect din Europa"],
+      en: ["Capital of Wales since 1955", "Principality Stadium seats 74,500 spectators", "Cardiff Castle features Roman foundations", "Cardiff Bay is Europe's largest waterfront project"],
+    },
+    image: "/poi-images/uk-cardiff-cities-v2.webp",
+},  {
     id: "uk-leeds-cities-v2",
     type: "city",
-    name: { de: "Leeds", hu: "Leeds", ro: "Leeds", en: "Leeds" },
+    name: { de: "Leeds", hu: "Leeds", ro: "Leeds", en: "Leeds",
+image: "/poi-images/uk-leeds-cities-v2.webp"
+},
     coords: [-1.5491, 53.8008],
     coordinates: { lat: 53.8008, lng: -1.5491 },
     description: {
@@ -133,11 +225,26 @@ export const ukCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime din Anglia", "Centru major pentru servicii juridice", "Deține clădirea splendidă Corn Exchange", "Casa clubului Leeds United"],
       en: ["Third-largest city in England", "Major center for legal and financial services", "Features the historic Corn Exchange", "Home to Leeds United football club"],
     },
-    imageHint: "Leeds Town Hall and city center architecture", image: "/poi-images/uk-leeds-cities-v2.webp"},
-  {
+imageHint: "Leeds Town Hall and city center architecture",
+    descriptionAdvanced: {
+      de: "Leeds ist das wirtschaftliche Zentrum von West Yorkshire und ein bedeutender Standort für Finanzen. Die Stadt ist bekannt für ihre Einkaufspassagen und bedeutende Museen.",
+      hu: "Leeds West Yorkshire gazdasági központja, London után az ország egyik legfontosabb pénzügyi csomópontja. Híres elegáns bevásárlóárkádjairól és gazdag múzeumi kínálatáról.",
+      ro: "Leeds este centrul economic al regiunii West Yorkshire și un nod major pentru servicii financiare. Orașul este renumit pentru arcadele sale comerciale victoriene și muzee.",
+      en: "Leeds is the economic heart of West Yorkshire and a premier center for financial services. It is celebrated for its Victorian shopping arcades and world-class museums.",
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt in West Yorkshire", "Royal Armouries Museum zeigt 8.500 Objekte", "Kirkgate Market ist Geburtsort von Marks & Spencer", "Sitz von über 30 Banken und Finanzinstituten"],
+      hu: ["West Yorkshire legnagyobb városa", "A Royal Armouries múzeum 8500 tárgyat mutat be", "A Kirkgate piac a Marks & Spencer szülőhelye", "Több mint 30 bank és pénzintézet székhelye"],
+      ro: ["Cel mai mare oraș din West Yorkshire", "Muzeul Royal Armouries expune 8.500 de obiecte", "Piața Kirkgate este locul de origine al Marks & Spencer", "Găzduiește peste 30 de bănci și instituții"],
+      en: ["Largest city in West Yorkshire", "Royal Armouries Museum displays 8,500 objects", "Kirkgate Market is the birthplace of Marks & Spencer", "Home to over 30 banks and financial institutions"],
+    },
+    image: "/poi-images/uk-leeds-cities-v2.webp",
+},  {
     id: "uk-sheffield-cities-v2",
     type: "city",
-    name: { de: "Sheffield", hu: "Sheffield", ro: "Sheffield", en: "Sheffield" },
+    name: { de: "Sheffield", hu: "Sheffield", ro: "Sheffield", en: "Sheffield",
+image: "/poi-images/uk-sheffield-cities-v2.webp"
+},
     coords: [-1.4701, 53.3811],
     coordinates: { lat: 53.3811, lng: -1.4701 },
     description: {
@@ -152,12 +259,27 @@ export const ukCitiesV2: POI[] = [
       ro: ["Centrul mondial al producției de oțel în sec. XIX", "Cel mai verde oraș din Europa pe cap de locuitor", "Are peste 250 de parcuri publice", "Casa celui mai vechi club de fotbal din lume"],
       en: ["World center for steel production in the 19th century", "Greenest city in Europe per capita", "Contains over 250 public parks", "Home to the world's oldest football club"],
     },
-    imageHint: "Sheffield Winter Garden and Peace Gardens", image: "/poi-images/uk-sheffield-cities-v2.webp"}
-,
+imageHint: "Sheffield Winter Garden and Peace Gardens",
+    descriptionAdvanced: {
+      de: "Sheffield ist als Stahlstadt bekannt und liegt am Peak District Nationalpark. Ein Drittel der Fläche liegt im Park, was sie zu einer der grünsten Städte Europas macht.",
+      hu: "Sheffield az acélváros néven ismert, a Peak District Nemzeti Park peremén fekszik. Területének egyharmada a parkhoz tartozik, így Európa egyik legzöldebb települése.",
+      ro: "Sheffield este cunoscut drept Orașul Oțelului, fiind situat lângă Parcul Național Peak District. O treime din oraș se află în interiorul parcului, fiind o zonă foarte verde.",
+      en: "Sheffield is known as the Steel City and borders the Peak District. One third of its area lies within the park, making it one of the greenest cities in the United Kingdom.",
+    },
+    factsAdvanced: {
+      de: ["Weltweit bekannt für die Stahlproduktion", "Ältester Fußballverein der Welt (1857)", "Über 2 Millionen Bäume im Stadtgebiet", "Ein Drittel der Stadt liegt im Nationalpark"],
+      hu: ["Világhírű az acélgyártásáról", "Itt alapították a világ legrégebbi fociklubját (1857)", "Több mint 2 millió fa található a városban", "A város egyharmada nemzeti parki terület"],
+      ro: ["Renumit mondial pentru producția de oțel", "Cel mai vechi club de fotbal din lume (1857)", "Peste 2 milioane de copaci în oraș", "O treime din oraș se află într-un parc național"],
+      en: ["Globally famous for its steel production", "Home to the world's oldest football club (1857)", "Over 2 million trees within the city boundaries", "One third of the city lies within a national park"],
+    },
+    image: "/poi-images/uk-sheffield-cities-v2.webp",
+},
   {
     id: "uk-bristol-cities-v2",
     type: "city",
-    name: { de: "Bristol", hu: "Bristol", ro: "Bristol", en: "Bristol" },
+    name: { de: "Bristol", hu: "Bristol", ro: "Bristol", en: "Bristol",
+image: "/poi-images/uk-bristol-cities-v2.webp"
+},
     coords: [-2.5879, 51.4545],
     coordinates: { lat: 51.4545, lng: -2.5879 },
     description: {
@@ -177,7 +299,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-leicester-cities-v2",
     type: "city",
-    name: { de: "Leicester", hu: "Leicester", ro: "Leicester", en: "Leicester" },
+    name: { de: "Leicester", hu: "Leicester", ro: "Leicester", en: "Leicester",
+image: "/poi-images/uk-leicester-cities-v2.webp"
+},
     coords: [-1.1398, 52.6369],
     coordinates: { lat: 52.6369, lng: -1.1398 },
     description: {
@@ -192,11 +316,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Regele Richard al III-lea este înmormântat în catedrală", "Găzduiește Centrul Național Spațial", "Ruinele romane Jewry Wall datează din anul 160 d.Hr.", "Unul dintre cele mai multiculturale orașe din țară"],
       en: ["King Richard III is buried in the Cathedral", "Home to the National Space Centre", "Roman ruins of Jewry Wall date to 160 AD", "One of the most multicultural cities in the UK"],
     },
-    imageHint: "Leicester Cathedral and Richard III Statue", image: "/poi-images/uk-leicester-cities-v2.webp"},
+    imageHint: "Leicester Cathedral and Richard III Statue",
+    image: "/poi-images/uk-leicester-cities-v2.webp"},
   {
     id: "uk-coventry-cities-v2",
     type: "city",
-    name: { de: "Coventry", hu: "Coventry", ro: "Coventry", en: "Coventry" },
+    name: { de: "Coventry", hu: "Coventry", ro: "Coventry", en: "Coventry",
+image: "/poi-images/uk-coventry-cities-v2.webp"
+},
     coords: [-1.5197, 52.4068],
     coordinates: { lat: 52.4068, lng: -1.5197 },
     description: {
@@ -211,12 +338,15 @@ export const ukCitiesV2: POI[] = [
       ro: ["Cunoscut ca Orașul Păcii și al Concilierii", "Locul legendarei călătorii a lui Lady Godiva", "Capitala Culturală a Regatului Unit în 2021", "Catedrala a fost distrusă de bombe în 1940"],
       en: ["Known as the City of Peace and Reconciliation", "Site of Lady Godiva's legendary ride", "UK City of Culture for 2021", "The Cathedral was destroyed by bombing in 1940"],
     },
-    imageHint: "Coventry Cathedral ruins and new building", image: "/poi-images/uk-coventry-cities-v2.webp"}
+    imageHint: "Coventry Cathedral ruins and new building",
+    image: "/poi-images/uk-coventry-cities-v2.webp"}
 ,
   {
     id: "uk-newcastle-upon-tyne-cities-v2",
     type: "city",
-    name: { de: "Newcastle upon Tyne", hu: "Newcastle upon Tyne", ro: "Newcastle upon Tyne", en: "Newcastle upon Tyne" },
+    name: { de: "Newcastle upon Tyne", hu: "Newcastle upon Tyne", ro: "Newcastle upon Tyne", en: "Newcastle upon Tyne",
+image: "/poi-images/uk-newcastle-upon-tyne-cities-v2.webp"
+},
     coords: [-1.6178, 54.9783],
     coordinates: { lat: 54.9783, lng: -1.6178 },
     description: {
@@ -236,7 +366,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-nottingham-cities-v2",
     type: "city",
-    name: { de: "Nottingham", hu: "Nottingham", ro: "Nottingham", en: "Nottingham" },
+    name: { de: "Nottingham", hu: "Nottingham", ro: "Nottingham", en: "Nottingham",
+image: "/poi-images/uk-nottingham-cities-v2.webp"
+},
     coords: [-1.1581, 52.9548],
     coordinates: { lat: 52.9548, lng: -1.1581 },
     description: {
@@ -251,11 +383,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Găzduiește Castelul Nottingham", "Deține cel mai vechi pub din Anglia", "Faimos pentru sistemul de peșteri de sub oraș", "A fost un centru al Revoluției Industriale"],
       en: ["Home to Nottingham Castle", "Claims the oldest pub in England", "Famous for the cave system beneath the city", "Was a major hub of the Industrial Revolution"],
     },
-    imageHint: "Nottingham Council House and Old Market Square", image: "/poi-images/uk-nottingham-cities-v2.webp"},
+    imageHint: "Nottingham Council House and Old Market Square",
+    image: "/poi-images/uk-nottingham-cities-v2.webp"},
   {
     id: "uk-southampton-cities-v2",
     type: "port",
-    name: { de: "Southampton", hu: "Southampton", ro: "Southampton", en: "Southampton" },
+    name: { de: "Southampton", hu: "Southampton", ro: "Southampton", en: "Southampton",
+image: "/poi-images/uk-southampton-cities-v2.webp"
+},
     coords: [-1.4044, 50.9097],
     coordinates: { lat: 50.9097, lng: -1.4044 },
     description: {
@@ -270,11 +405,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Are cele mai lungi ziduri medievale din Anglia", "Principal hub pentru nave de croazieră în Europa", "Sediul Universității din Southampton", "A fost grav bombardat în Al Doilea Război Mondial"],
       en: ["Has the longest stretch of medieval walls in England", "Major cruise ship hub in Europe", "Home to the University of Southampton", "Suffered heavy bombing during World War II"],
     },
-    imageHint: "Bargate medieval gatehouse in Southampton", image: "/poi-images/uk-southampton-cities-v2.webp"},
+    imageHint: "Bargate medieval gatehouse in Southampton",
+    image: "/poi-images/uk-southampton-cities-v2.webp"},
   {
     id: "uk-portsmouth-cities-v2",
     type: "port",
-    name: { de: "Portsmouth", hu: "Portsmouth", ro: "Portsmouth", en: "Portsmouth" },
+    name: { de: "Portsmouth", hu: "Portsmouth", ro: "Portsmouth", en: "Portsmouth",
+image: "/poi-images/uk-portsmouth-cities-v2.webp"
+},
     coords: [-1.088, 50.8198],
     coordinates: { lat: 50.8198, lng: -1.088 },
     description: {
@@ -289,11 +427,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Singurul oraș insular din Regatul Unit", "Găzduiește turnul Spinnaker de 170 de metri", "Locul de naștere al scriitorului Charles Dickens", "Sediul Royal Navy de secole"],
       en: ["Only island city in the United Kingdom", "Home to the 170-metre tall Spinnaker Tower", "Birthplace of the author Charles Dickens", "Has been a base for the Royal Navy for centuries"],
     },
-    imageHint: "Spinnaker Tower at Portsmouth Harbour", image: "/poi-images/uk-portsmouth-cities-v2.webp"},
+    imageHint: "Spinnaker Tower at Portsmouth Harbour",
+    image: "/poi-images/uk-portsmouth-cities-v2.webp"},
   {
     id: "uk-aberdeen-cities-v2",
     type: "city",
-    name: { de: "Aberdeen", hu: "Aberdeen", ro: "Aberdeen", en: "Aberdeen" },
+    name: { de: "Aberdeen", hu: "Aberdeen", ro: "Aberdeen", en: "Aberdeen",
+image: "/poi-images/uk-aberdeen-cities-v2.webp"
+},
     coords: [-2.0943, 57.1497],
     coordinates: { lat: 57.1497, lng: -2.0943 },
     description: {
@@ -308,11 +449,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Centrul industriei petroliere offshore din Europa", "Are o plajă de nisip lungă de 3 km", "Universitatea din Aberdeen a fost fondată în 1495", "Port de feribot către Insulele Shetland"],
       en: ["Europe's hub for the offshore oil industry", "Boasts a 3 km long sandy beach", "The University of Aberdeen was founded in 1495", "Main ferry port for the Shetland Islands"],
     },
-    imageHint: "Marischal College granite building in Aberdeen", image: "/poi-images/uk-aberdeen-cities-v2.webp"},
+    imageHint: "Marischal College granite building in Aberdeen",
+    image: "/poi-images/uk-aberdeen-cities-v2.webp"},
   {
     id: "uk-swansea-cities-v2",
     type: "city",
-    name: { de: "Swansea", hu: "Swansea", ro: "Swansea", en: "Swansea" },
+    name: { de: "Swansea", hu: "Swansea", ro: "Swansea", en: "Swansea",
+image: "/poi-images/uk-swansea-cities-v2.webp"
+},
     coords: [-3.9436, 51.6214],
     coordinates: { lat: 51.6214, lng: -3.9436 },
     description: {
@@ -327,11 +471,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Locul de naștere al poetului Dylan Thomas", "A fost centrul industriei cuprului în secolul al XIX-lea", "Sediul Universității Swansea", "Peninsula Gower a fost prima zonă de frumusețe naturală remarcabilă"],
       en: ["Birthplace of the poet Dylan Thomas", "Was the world centre of the copper industry in the 19th century", "Home to Swansea University", "The Gower Peninsula was the UK's first Area of Outstanding Natural Beauty"],
     },
-    imageHint: "Swansea Bay with the Mumbles lighthouse", image: "/poi-images/uk-swansea-cities-v2.webp"},
+    imageHint: "Swansea Bay with the Mumbles lighthouse",
+    image: "/poi-images/uk-swansea-cities-v2.webp"},
   {
     id: "uk-oxford-cities-v2",
     type: "university",
-    name: { de: "Oxford", hu: "Oxford", ro: "Oxford", en: "Oxford" },
+    name: { de: "Oxford", hu: "Oxford", ro: "Oxford", en: "Oxford",
+image: "/poi-images/uk-oxford-cities-v2.webp"
+},
     coords: [-1.2577, 51.752],
     coordinates: { lat: 51.752, lng: -1.2577 },
     description: {
@@ -346,12 +493,15 @@ export const ukCitiesV2: POI[] = [
       ro: ["Găzduiește cea mai veche universitate din lumea anglofonă", "Supranumit Orașul Turlelor Visătoare", "Râul Tamisa traversează orașul", "Loc de filmare pentru multe scene din Harry Potter"],
       en: ["Home to the oldest university in the English-speaking world", "Known as the City of Dreaming Spires", "The River Thames flows through the city", "Filming location for many scenes in the Harry Potter movies"],
     },
-    imageHint: "Radcliffe Camera building in Oxford", image: "/poi-images/uk-oxford-cities-v2.webp"}
+    imageHint: "Radcliffe Camera building in Oxford",
+    image: "/poi-images/uk-oxford-cities-v2.webp"}
 ,
   {
     id: "uk-inverness-cities-v2",
     type: "city",
-    name: { de: "Inverness", hu: "Inverness", ro: "Inverness", en: "Inverness" },
+    name: { de: "Inverness", hu: "Inverness", ro: "Inverness", en: "Inverness",
+image: "/poi-images/uk-inverness-cities-v2.webp"
+},
     coords: [-4.2247, 57.4778],
     coordinates: { lat: 57.4778, lng: -4.2247 },
     description: {
@@ -371,7 +521,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-bath-cities-v2",
     type: "city",
-    name: { de: "Bath", hu: "Bath", ro: "Bath", en: "Bath" },
+    name: { de: "Bath", hu: "Bath", ro: "Bath", en: "Bath",
+image: "/poi-images/uk-bath-cities-v2.webp"
+},
     coords: [-2.359, 51.3811],
     coordinates: { lat: 51.3811, lng: -2.359 },
     description: {
@@ -386,11 +538,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Templul roman a fost construit în anii 60-70 d.Hr.", "Pulteney Bridge este unul dintre puținele poduri locuite", "Royal Crescent este un faimos ansamblu în formă de semilună", "Jane Austen a locuit și a scris aici timp de mai mulți ani"],
       en: ["Roman temple was built around 60-70 AD", "Pulteney Bridge is one of only four inhabited bridges globally", "The Royal Crescent is a world-famous curved terrace", "Jane Austen lived and wrote here for several years"],
     },
-    imageHint: "The Roman Baths and Bath Abbey in Somerset", image: "/poi-images/uk-bath-cities-v2.webp"},
+    imageHint: "The Roman Baths and Bath Abbey in Somerset",
+    image: "/poi-images/uk-bath-cities-v2.webp"},
   {
     id: "uk-dundee-cities-v2",
     type: "city",
-    name: { de: "Dundee", hu: "Dundee", ro: "Dundee", en: "Dundee" },
+    name: { de: "Dundee", hu: "Dundee", ro: "Dundee", en: "Dundee",
+image: "/poi-images/uk-dundee-cities-v2.webp"
+},
     coords: [-2.9707, 56.462],
     coordinates: { lat: 56.462, lng: -2.9707 },
     description: {
@@ -405,11 +560,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Primul oraș UNESCO pentru Design din Regatul Unit", "Găzduiește muzeul de design V&A Dundee", "RRS Discovery, nava lui Scott pentru Antarctica, a fost construită aici", "Podul feroviar Tay are o lungime de peste 3,5 kilometri"],
       en: ["First UNESCO City of Design in the United Kingdom", "Home to the V&A Dundee museum of design", "RRS Discovery, Scott's Antarctic ship, was built here", "The Tay Rail Bridge spans over 3.5 kilometers"],
     },
-    imageHint: "V&A Dundee museum building by the waterfront", image: "/poi-images/uk-dundee-cities-v2.webp"},
+    imageHint: "V&A Dundee museum building by the waterfront",
+    image: "/poi-images/uk-dundee-cities-v2.webp"},
   {
     id: "uk-canterbury-cities-v2",
     type: "city",
-    name: { de: "Canterbury", hu: "Canterbury", ro: "Canterbury", en: "Canterbury" },
+    name: { de: "Canterbury", hu: "Canterbury", ro: "Canterbury", en: "Canterbury",
+image: "/poi-images/uk-canterbury-cities-v2.webp"
+},
     coords: [1.0789, 51.2802],
     coordinates: { lat: 51.2802, lng: 1.0789 },
     description: {
@@ -424,11 +582,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Catedrala a fost fondată inițial în anul 597", "Locul asasinării lui Thomas Becket în anul 1170", "Destinația pelerinilor din 'Povestirile din Canterbury' de Chaucer", "Zidurile romane ale orașului sunt încă vizibile parțial"],
       en: ["The cathedral was originally founded in 597 AD", "Site of the murder of Thomas Becket in 1170", "Destination for pilgrims in Geoffrey Chaucer's 'Canterbury Tales'", "The Roman city walls are still partially visible"],
     },
-    imageHint: "Canterbury Cathedral exterior view in Kent", image: "/poi-images/uk-canterbury-cities-v2.webp"},
+    imageHint: "Canterbury Cathedral exterior view in Kent",
+    image: "/poi-images/uk-canterbury-cities-v2.webp"},
   {
     id: "uk-derry-cities-v2",
     type: "city",
-    name: { de: "Derry", hu: "Derry", ro: "Derry", en: "Derry" },
+    name: { de: "Derry", hu: "Derry", ro: "Derry", en: "Derry",
+image: "/poi-images/uk-derry-cities-v2.webp"
+},
     coords: [-7.3086, 54.9966],
     coordinates: { lat: 54.9966, lng: -7.3086 },
     description: {
@@ -443,11 +604,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Zidurile orașului au fost construite între 1613 și 1618", "A fost prima Oraș al Culturii din Marea Britanie în 2013", "Modernul Peace Bridge leagă cele două maluri ale râului Foyle", "Singurul oraș din Irlanda ale cărui ziduri nu au fost niciodată străpunse"],
       en: ["The city walls were built between 1613 and 1618", "Was the first UK City of Culture in 2013", "The modern Peace Bridge connects both sides of the River Foyle", "The only city in Ireland whose walls were never breached"],
     },
-    imageHint: "The Peace Bridge and Guildhall in Derry/Londonderry", image: "/poi-images/uk-derry-cities-v2.webp"},
+    imageHint: "The Peace Bridge and Guildhall in Derry/Londonderry",
+    image: "/poi-images/uk-derry-cities-v2.webp"},
   {
     id: "uk-brighton-cities-v2",
     type: "city",
-    name: { de: "Brighton", hu: "Brighton", ro: "Brighton", en: "Brighton" },
+    name: { de: "Brighton", hu: "Brighton", ro: "Brighton", en: "Brighton",
+image: "/poi-images/uk-brighton-cities-v2.webp"
+},
     coords: [-0.1372, 50.8225],
     coordinates: { lat: 50.8225, lng: -0.1372 },
     description: {
@@ -462,12 +626,15 @@ export const ukCitiesV2: POI[] = [
       ro: ["Royal Pavilion a fost construit în stil indo-sarazin", "Brighton Palace Pier a fost deschis în anul 1899", "Găzduiește cel mai vechi acvariu din lume care funcționează continuu", "Faimos pentru cartierul 'The Lanes' cu străduțe înguste"],
       en: ["The Royal Pavilion was built in the Indo-Saracenic style", "Brighton Palace Pier was opened in 1899", "Home to the world's oldest continually operating aquarium", "Famous for 'The Lanes', a historic quarter with narrow alleys"],
     },
-    imageHint: "Royal Pavilion and gardens in Brighton", image: "/poi-images/uk-brighton-cities-v2.webp"}
+    imageHint: "Royal Pavilion and gardens in Brighton",
+    image: "/poi-images/uk-brighton-cities-v2.webp"}
 ,
   {
     id: "uk-ipswich-cities-v2",
     type: "town",
-    name: { de: "Ipswich", hu: "Ipswich", ro: "Ipswich", en: "Ipswich" },
+    name: { de: "Ipswich", hu: "Ipswich", ro: "Ipswich", en: "Ipswich",
+image: "/poi-images/uk-ipswich-cities-v2.webp"
+},
     coords: [1.1482, 52.0567],
     coordinates: { lat: 52.0567, lng: 1.1482 },
     description: {
@@ -487,7 +654,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-newport-cities-v2",
     type: "city",
-    name: { de: "Newport", hu: "Newport", ro: "Newport", en: "Newport" },
+    name: { de: "Newport", hu: "Newport", ro: "Newport", en: "Newport",
+image: "/poi-images/uk-newport-cities-v2.webp"
+},
     coords: [-2.9977, 51.5837],
     coordinates: { lat: 51.5837, lng: -2.9977 },
     description: {
@@ -502,11 +671,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Deține un pod transbordor rar din 1906", "Populație de aproximativ 155.000 locuitori", "Gazda Cupei Ryder în 2010", "Locația fortăreței romane Caerleon"],
       en: ["Features a rare 1906 transporter bridge", "Population approximately 155,000", "Host of the 2010 Ryder Cup", "Site of the Roman fortress Caerleon"],
     },
-    imageHint: "Newport Transporter Bridge", image: "/poi-images/uk-newport-cities-v2.webp"},
+    imageHint: "Newport Transporter Bridge",
+    image: "/poi-images/uk-newport-cities-v2.webp"},
   {
     id: "uk-preston-cities-v2",
     type: "city",
-    name: { de: "Preston", hu: "Preston", ro: "Preston", en: "Preston" },
+    name: { de: "Preston", hu: "Preston", ro: "Preston", en: "Preston",
+image: "/poi-images/uk-preston-cities-v2.webp"
+},
     coords: [-2.7031, 53.7632],
     coordinates: { lat: 53.7632, lng: -2.7031 },
     description: {
@@ -521,11 +693,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Primul oraș britanic cu autostradă (M6)", "Populație de aproximativ 142.000 locuitori", "Sărbătorește Preston Guild la fiecare 20 de ani", "Locația Muzeului Harris"],
       en: ["First British city with a motorway (M6)", "Population approximately 142.000", "Celebrates Preston Guild every 20 years", "Location of the Harris Museum"],
     },
-    imageHint: "Preston city center and Harris Museum", image: "/poi-images/uk-preston-cities-v2.webp"},
+    imageHint: "Preston city center and Harris Museum",
+    image: "/poi-images/uk-preston-cities-v2.webp"},
   {
     id: "uk-sunderland-cities-v2",
     type: "city",
-    name: { de: "Sunderland", hu: "Sunderland", ro: "Sunderland", en: "Sunderland" },
+    name: { de: "Sunderland", hu: "Sunderland", ro: "Sunderland", en: "Sunderland",
+image: "/poi-images/uk-sunderland-cities-v2.webp"
+},
     coords: [-1.3838, 54.9069],
     coordinates: { lat: 54.9069, lng: -1.3838 },
     description: {
@@ -540,11 +715,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Găzduiește o mare fabrică de mașini Nissan", "Populație de aproximativ 175.000 locuitori", "Locația Centrului Național al Sticlei", "Sediul stadionului Stadium of Light"],
       en: ["Houses a massive Nissan car plant", "Population approximately 175,000", "Location of the National Glass Centre", "Home to the Stadium of Light"],
     },
-    imageHint: "Wearmouth Bridge in Sunderland", image: "/poi-images/uk-sunderland-cities-v2.webp"},
+    imageHint: "Wearmouth Bridge in Sunderland",
+    image: "/poi-images/uk-sunderland-cities-v2.webp"},
   {
     id: "uk-gloucester-cities-v2",
     type: "city",
-    name: { de: "Gloucester", hu: "Gloucester", ro: "Gloucester", en: "Gloucester" },
+    name: { de: "Gloucester", hu: "Gloucester", ro: "Gloucester", en: "Gloucester",
+image: "/poi-images/uk-gloucester-cities-v2.webp"
+},
     coords: [-2.2444, 51.8642],
     coordinates: { lat: 51.8642, lng: -2.2444 },
     description: {
@@ -559,11 +737,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Catedrala a fost construită în secolul XI", "Populație de aproximativ 132.000 locuitori", "Loc de filmare pentru seria Harry Potter", "Port fluvial important pe râul Severn"],
       en: ["The cathedral was built in the 11th century", "Population approximately 132,000", "Filming location for Harry Potter movies", "Important inland port on the River Severn"],
     },
-    imageHint: "Gloucester Cathedral cloisters", image: "/poi-images/uk-gloucester-cities-v2.webp"},
+    imageHint: "Gloucester Cathedral cloisters",
+    image: "/poi-images/uk-gloucester-cities-v2.webp"},
   {
     id: "uk-exeter-cities-v2",
     type: "city",
-    name: { de: "Exeter", hu: "Exeter", ro: "Exeter", en: "Exeter" },
+    name: { de: "Exeter", hu: "Exeter", ro: "Exeter", en: "Exeter",
+image: "/poi-images/uk-exeter-cities-v2.webp"
+},
     coords: [-3.5339, 50.7184],
     coordinates: { lat: 50.7184, lng: -3.5339 },
     description: {
@@ -578,11 +759,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Deține o catedrală din secolul al XII-lea", "Populație de aproximativ 130.000 locuitori", "Sediul renumitei Universități din Exeter", "Zidurile orașului sunt conservate în proporție de 70%"],
       en: ["Features a 12th-century cathedral", "Population approximately 130,000", "Home to the prestigious University of Exeter", "70% of the city walls remain intact"],
     },
-    imageHint: "Exeter Cathedral and Roman walls", image: "/poi-images/uk-exeter-cities-v2.webp"},
+    imageHint: "Exeter Cathedral and Roman walls",
+    image: "/poi-images/uk-exeter-cities-v2.webp"},
   {
     id: "uk-carlisle-cities-v2",
     type: "city",
-    name: { de: "Carlisle", hu: "Carlisle", ro: "Carlisle", en: "Carlisle" },
+    name: { de: "Carlisle", hu: "Carlisle", ro: "Carlisle", en: "Carlisle",
+image: "/poi-images/uk-carlisle-cities-v2.webp"
+},
     coords: [-2.9362, 54.8948],
     coordinates: { lat: 54.8948, lng: -2.9362 },
     description: {
@@ -597,12 +781,15 @@ export const ukCitiesV2: POI[] = [
       ro: ["Castelul Carlisle are peste 900 de ani", "Populație de aproximativ 75.000 locuitori", "Situat în apropierea Zidului lui Hadrian", "Deține una dintre cele mai mici catedrale"],
       en: ["Carlisle Castle is over 900 years old", "Population approximately 75,000", "Located near Hadrian's Wall", "Features one of the smallest cathedrals"],
     },
-    imageHint: "Carlisle Castle and medieval walls", image: "/poi-images/uk-carlisle-cities-v2.webp"}
+    imageHint: "Carlisle Castle and medieval walls",
+    image: "/poi-images/uk-carlisle-cities-v2.webp"}
 ,
   {
     id: "uk-norwich-cities-v2",
     type: "city",
-    name: { de: "Norwich", hu: "Norwich", ro: "Norwich", en: "Norwich" },
+    name: { de: "Norwich", hu: "Norwich", ro: "Norwich", en: "Norwich",
+image: "/poi-images/uk-norwich-cities-v2.webp"
+},
     coords: [1.2974, 52.6309],
     coordinates: { lat: 52.6309, lng: 1.2974 },
     description: {
@@ -622,7 +809,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-stirling-cities-v2",
     type: "city",
-    name: { de: "Stirling", hu: "Stirling", ro: "Stirling", en: "Stirling" },
+    name: { de: "Stirling", hu: "Stirling", ro: "Stirling", en: "Stirling",
+image: "/poi-images/uk-stirling-cities-v2.webp"
+},
     coords: [-3.9369, 56.1165],
     coordinates: { lat: 56.1165, lng: -3.9369 },
     description: {
@@ -637,12 +826,15 @@ export const ukCitiesV2: POI[] = [
       ro: ["Locul bătăliei de la Stirling Bridge din 1297", "Găzduiește Monumentul Național Wallace", "Castelul Stirling a fost reședința regilor scoțieni", "A primit statutul oficial de oraș în 2002"],
       en: ["Site of the Battle of Stirling Bridge in 1297", "Home to the National Wallace Monument", "Stirling Castle was a royal Scottish residence", "Officially granted city status in 2002"],
     },
-    imageHint: "Stirling Castle on a volcanic crag and Wallace Monument", image: "/poi-images/uk-stirling-cities-v2.webp"}
+    imageHint: "Stirling Castle on a volcanic crag and Wallace Monument",
+    image: "/poi-images/uk-stirling-cities-v2.webp"}
 ,
   {
     id: "uk-salisbury-cities-v2",
     type: "city",
-    name: { de: "Salisbury", hu: "Salisbury", ro: "Salisbury", en: "Salisbury" },
+    name: { de: "Salisbury", hu: "Salisbury", ro: "Salisbury", en: "Salisbury",
+image: "/poi-images/uk-salisbury-cities-v2.webp"
+},
     coords: [-1.7945, 51.0688],
     coordinates: { lat: 51.0688, lng: -1.7945 },
     description: {
@@ -662,7 +854,9 @@ export const ukCitiesV2: POI[] = [
   {
     id: "uk-lincoln-cities-v2",
     type: "city",
-    name: { de: "Lincoln", hu: "Lincoln", ro: "Lincoln", en: "Lincoln" },
+    name: { de: "Lincoln", hu: "Lincoln", ro: "Lincoln", en: "Lincoln",
+image: "/poi-images/uk-lincoln-cities-v2.webp"
+},
     coords: [-0.5402, 53.2307],
     coordinates: { lat: 53.2307, lng: -0.5402 },
     description: {
@@ -677,11 +871,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Colonia romană Lindum", "Strada Steep Hill", "Magna Carta în castel", "Catedrala: cea mai înaltă 1311-1549"],
       en: ["Roman colony Lindum", "Steep Hill street", "Magna Carta in castle", "Cathedral: world's tallest 1311-1549"],
     },
-    imageHint: "Lincoln Cathedral on the hill", image: "/poi-images/uk-lincoln-cities-v2.webp"},
+    imageHint: "Lincoln Cathedral on the hill",
+    image: "/poi-images/uk-lincoln-cities-v2.webp"},
   {
     id: "uk-winchester-cities-v2",
     type: "city",
-    name: { de: "Winchester", hu: "Winchester", ro: "Winchester", en: "Winchester" },
+    name: { de: "Winchester", hu: "Winchester", ro: "Winchester", en: "Winchester",
+image: "/poi-images/uk-winchester-cities-v2.webp"
+},
     coords: [-1.3085, 51.0632],
     coordinates: { lat: 51.0632, lng: -1.3085 },
     description: {
@@ -696,11 +893,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Sediul lui Alfred cel Mare", "Cea mai lungă navă din Europa", "Mormântul lui Jane Austen", "Winchester College (1382)"],
       en: ["Seat of Alfred the Great", "Longest nave in Europe", "Jane Austen burial site", "Winchester College (1382)"],
     },
-    imageHint: "Winchester Great Hall and Round Table", image: "/poi-images/uk-winchester-cities-v2.webp"},
+    imageHint: "Winchester Great Hall and Round Table",
+    image: "/poi-images/uk-winchester-cities-v2.webp"},
   {
     id: "uk-st-davids-cities-v2",
     type: "city",
-    name: { de: "St Davids", hu: "St Davids", ro: "St Davids", en: "St Davids" },
+    name: { de: "St Davids", hu: "St Davids", ro: "St Davids", en: "St Davids",
+image: "/poi-images/uk-st-davids-cities-v2.webp"
+},
     coords: [-5.266, 51.8812],
     coordinates: { lat: 51.8812, lng: -5.266 },
     description: {
@@ -715,11 +915,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Populație: aprox. 1.600", "Locul de naștere al Sf. David", "Statut de oraș din 1995", "Catedrală din sec. XII"],
       en: ["Population: approx. 1,600", "Birthplace of St David", "City status since 1995", "12th-century cathedral"],
     },
-    imageHint: "St Davids Cathedral and landscape", image: "/poi-images/uk-st-davids-cities-v2.webp"},
+    imageHint: "St Davids Cathedral and landscape",
+    image: "/poi-images/uk-st-davids-cities-v2.webp"},
   {
     id: "uk-kingston-upon-hull-cities-v2",
     type: "city",
-    name: { de: "Kingston upon Hull", hu: "Kingston upon Hull", ro: "Kingston upon Hull", en: "Kingston upon Hull" },
+    name: { de: "Kingston upon Hull", hu: "Kingston upon Hull", ro: "Kingston upon Hull", en: "Kingston upon Hull",
+image: "/poi-images/uk-kingston-upon-hull-cities-v2.webp"
+},
     coords: [-0.3325, 53.7443],
     coordinates: { lat: 53.7443, lng: -0.3325 },
     description: {
@@ -734,11 +937,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Orașul Culturii UK 2017", "Avariul The Deep", "Podul Humber", "Casa lui William Wilberforce"],
       en: ["UK City of Culture 2017", "The Deep Aquarium", "Humber Bridge", "Home of William Wilberforce"],
     },
-    imageHint: "Hull Humber Bridge at sunset", image: "/poi-images/uk-kingston-upon-hull-cities-v2.webp"},
+    imageHint: "Hull Humber Bridge at sunset",
+    image: "/poi-images/uk-kingston-upon-hull-cities-v2.webp"},
   {
     id: "uk-wolverhampton-cities-v2",
     type: "city",
-    name: { de: "Wolverhampton", hu: "Wolverhampton", ro: "Wolverhampton", en: "Wolverhampton" },
+    name: { de: "Wolverhampton", hu: "Wolverhampton", ro: "Wolverhampton", en: "Wolverhampton",
+image: "/poi-images/uk-wolverhampton-cities-v2.webp"
+},
     coords: [-2.1288, 52.5862],
     coordinates: { lat: 52.5862, lng: -2.1288 },
     description: {
@@ -753,11 +959,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Centrul regiunii Black Country", "Wolverhampton Wanderers FC", "Biserica St Peter's", "Wightwick Manor"],
       en: ["Black Country hub", "Wolverhampton Wanderers FC", "St Peter's Collegiate Church", "Wightwick Manor"],
     },
-    imageHint: "Wolverhampton city centre aerial", image: "/poi-images/uk-wolverhampton-cities-v2.webp"},
+    imageHint: "Wolverhampton city centre aerial",
+    image: "/poi-images/uk-wolverhampton-cities-v2.webp"},
   {
     id: "uk-stoke-on-trent-cities-v2",
     type: "city",
-    name: { de: "Stoke-on-Trent", hu: "Stoke-on-Trent", ro: "Stoke-on-Trent", en: "Stoke-on-Trent" },
+    name: { de: "Stoke-on-Trent", hu: "Stoke-on-Trent", ro: "Stoke-on-Trent", en: "Stoke-on-Trent",
+image: "/poi-images/uk-stoke-on-trent-cities-v2.webp"
+},
     coords: [-2.1794, 53.0027],
     coordinates: { lat: 53.0027, lng: -2.1794 },
     description: {
@@ -772,11 +981,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Patria Wedgwood", "Muzeul Gladstone Pottery", "Alton Towers în apropiere", "Cuptoare tradiționale tip sticlă"],
       en: ["Home of Wedgwood", "Gladstone Pottery Museum", "Alton Towers nearby", "Traditional bottle kilns"],
     },
-    imageHint: "Stoke-on-Trent bottle kilns", image: "/poi-images/uk-stoke-on-trent-cities-v2.webp"},
+    imageHint: "Stoke-on-Trent bottle kilns",
+    image: "/poi-images/uk-stoke-on-trent-cities-v2.webp"},
   {
     id: "uk-derby-cities-v2",
     type: "city",
-    name: { de: "Derby", hu: "Derby", ro: "Derby", en: "Derby" },
+    name: { de: "Derby", hu: "Derby", ro: "Derby", en: "Derby",
+image: "/poi-images/uk-derby-cities-v2.webp"
+},
     coords: [-1.4746, 52.9225],
     coordinates: { lat: 52.9225, lng: -1.4746 },
     description: {
@@ -791,11 +1003,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Sediul Rolls-Royce", "Derby Museum and Art Gallery", "Silk Mill patrimoniu UNESCO", "Oraș feroviar"],
       en: ["Rolls-Royce headquarters", "Derby Museum and Art Gallery", "Silk Mill World Heritage Site", "Railway city"],
     },
-    imageHint: "Derby Silk Mill by the river", image: "/poi-images/uk-derby-cities-v2.webp"},
+    imageHint: "Derby Silk Mill by the river",
+    image: "/poi-images/uk-derby-cities-v2.webp"},
   {
     id: "uk-lancaster-cities-v2",
     type: "city",
-    name: { de: "Lancaster", hu: "Lancaster", ro: "Lancaster", en: "Lancaster" },
+    name: { de: "Lancaster", hu: "Lancaster", ro: "Lancaster", en: "Lancaster",
+image: "/poi-images/uk-lancaster-cities-v2.webp"
+},
     coords: [-2.8007, 54.047],
     coordinates: { lat: 54.047, lng: -2.8007 },
     description: {
@@ -810,11 +1025,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Casa de Lancaster (Trandafirul Roșu)", "Castelul Lancaster", "Ashton Memorial", "Universitate importantă"],
       en: ["House of Lancaster (Red Rose)", "Lancaster Castle", "Ashton Memorial", "Major university"],
     },
-    imageHint: "Lancaster Castle medieval gatehouse", image: "/poi-images/uk-lancaster-cities-v2.webp"},
+    imageHint: "Lancaster Castle medieval gatehouse",
+    image: "/poi-images/uk-lancaster-cities-v2.webp"},
   {
     id: "uk-hereford-cities-v2",
     type: "city",
-    name: { de: "Hereford", hu: "Hereford", ro: "Hereford", en: "Hereford" },
+    name: { de: "Hereford", hu: "Hereford", ro: "Hereford", en: "Hereford",
+image: "/poi-images/uk-hereford-cities-v2.webp"
+},
     coords: [-2.715, 52.0567],
     coordinates: { lat: 52.0567, lng: -2.715 },
     description: {
@@ -829,11 +1047,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Mappa Mundi (aprox. 1300)", "Vitele Hereford", "Producție de cidru", "Bibliotecă înlănțuită"],
       en: ["Mappa Mundi (c. 1300)", "Hereford cattle", "Cider production", "Chained library"],
     },
-    imageHint: "Hereford Cathedral and Mappa Mundi", image: "/poi-images/uk-hereford-cities-v2.webp"},
+    imageHint: "Hereford Cathedral and Mappa Mundi",
+    image: "/poi-images/uk-hereford-cities-v2.webp"},
   {
     id: "uk-st-albans-cities-v2",
     type: "city",
-    name: { de: "St Albans", hu: "St Albans", ro: "St Albans", en: "St Albans" },
+    name: { de: "St Albans", hu: "St Albans", ro: "St Albans", en: "St Albans",
+image: "/poi-images/uk-st-albans-cities-v2.webp"
+},
     coords: [-0.3344, 51.7519],
     coordinates: { lat: 51.7519, lng: -0.3344 },
     description: {
@@ -848,11 +1069,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Verulamium roman", "Catedrala St Albans", "Cel mai vechi pub (Ye Olde Fighting Cocks)", "Martirul Alban"],
       en: ["Roman Verulamium", "St Albans Cathedral", "Oldest pub (Ye Olde Fighting Cocks)", "Martyrdom of St Alban"],
     },
-    imageHint: "St Albans Cathedral and Roman walls", image: "/poi-images/uk-st-albans-cities-v2.webp"},
+    imageHint: "St Albans Cathedral and Roman walls",
+    image: "/poi-images/uk-st-albans-cities-v2.webp"},
   {
     id: "uk-bangor-cities-v2",
     type: "city",
-    name: { de: "Bangor", hu: "Bangor", ro: "Bangor", en: "Bangor" },
+    name: { de: "Bangor", hu: "Bangor", ro: "Bangor", en: "Bangor",
+image: "/poi-images/uk-bangor-cities-v2.webp"
+},
     coords: [-4.1293, 53.2274],
     coordinates: { lat: 53.2274, lng: -4.1293 },
     description: {
@@ -867,11 +1091,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Universitatea Bangor (1884)", "Cea mai veche dioceză din Wales", "Mollul Garth", "Podul Menai în apropiere"],
       en: ["Bangor University (1884)", "Oldest diocese in Wales", "Garth Pier", "Menai Suspension Bridge nearby"],
     },
-    imageHint: "Bangor University and Menai Strait", image: "/poi-images/uk-bangor-cities-v2.webp"},
+    imageHint: "Bangor University and Menai Strait",
+    image: "/poi-images/uk-bangor-cities-v2.webp"},
   {
     id: "uk-armagh-cities-v2",
     type: "city",
-    name: { de: "Armagh", hu: "Armagh", ro: "Armagh", en: "Armagh" },
+    name: { de: "Armagh", hu: "Armagh", ro: "Armagh", en: "Armagh",
+image: "/poi-images/uk-armagh-cities-v2.webp"
+},
     coords: [-6.6546, 54.3499],
     coordinates: { lat: 54.3499, lng: -6.6546 },
     description: {
@@ -886,11 +1113,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Sediul a doi arhiepiscopi", "Navan Fort în apropiere", "Observatorul Armagh", "Două catedrale Sf. Patrick"],
       en: ["Seat of two Archbishops", "Navan Fort nearby", "Armagh Observatory", "Two St Patrick's Cathedrals"],
     },
-    imageHint: "Armagh St Patrick's Cathedral", image: "/poi-images/uk-armagh-cities-v2.webp"},
+    imageHint: "Armagh St Patrick's Cathedral",
+    image: "/poi-images/uk-armagh-cities-v2.webp"},
   {
     id: "uk-lisburn-cities-v2",
     type: "city",
-    name: { de: "Lisburn", hu: "Lisburn", ro: "Lisburn", en: "Lisburn" },
+    name: { de: "Lisburn", hu: "Lisburn", ro: "Lisburn", en: "Lisburn",
+image: "/poi-images/uk-lisburn-cities-v2.webp"
+},
     coords: [-6.0353, 54.5126],
     coordinates: { lat: 54.5126, lng: -6.0353 },
     description: {
@@ -905,11 +1135,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Centrul inului irlandez", "Grădinile Castelului", "Statut de oraș din 2002", "Populație: aprox. 75.000"],
       en: ["Irish Linen Centre", "Castle Gardens", "City status since 2002", "Population: approx. 75,000"],
     },
-    imageHint: "Lisburn Castle Gardens and town centre", image: "/poi-images/uk-lisburn-cities-v2.webp"},
+    imageHint: "Lisburn Castle Gardens and town centre",
+    image: "/poi-images/uk-lisburn-cities-v2.webp"},
   {
     id: "uk-newry-cities-v2",
     type: "city",
-    name: { de: "Newry", hu: "Newry", ro: "Newry", en: "Newry" },
+    name: { de: "Newry", hu: "Newry", ro: "Newry", en: "Newry",
+image: "/poi-images/uk-newry-cities-v2.webp"
+},
     coords: [-6.3402, 54.1751],
     coordinates: { lat: 54.1751, lng: -6.3402 },
     description: {
@@ -924,11 +1157,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Fondat: 1144", "Canalul Newry (cel mai vechi din UK)", "Poarta către Nord", "Piață comercială importantă"],
       en: ["Founded: 1144", "Newry Canal (oldest in UK)", "Gateway to the North", "Significant marketplace"],
     },
-    imageHint: "Newry Town Hall and canal", image: "/poi-images/uk-newry-cities-v2.webp"},
+    imageHint: "Newry Town Hall and canal",
+    image: "/poi-images/uk-newry-cities-v2.webp"},
   {
     id: "uk-perth-cities-v2",
     type: "city",
-    name: { de: "Perth", hu: "Perth", ro: "Perth", en: "Perth" },
+    name: { de: "Perth", hu: "Perth", ro: "Perth", en: "Perth",
+image: "/poi-images/uk-perth-cities-v2.webp"
+},
     coords: [-3.4308, 56.395],
     coordinates: { lat: 56.395, lng: -3.4308 },
     description: {
@@ -943,11 +1179,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Fosta capitală a Scoției", "Palatul Scone (loc de încoronare)", "Cel mai mare râu cu somon (Tay)", "Statut de oraș redobândit în 2012"],
       en: ["Former capital of Scotland", "Scone Palace (coronation site)", "UK's largest salmon river (Tay)", "City status restored in 2012"],
     },
-    imageHint: "Perth Scone Palace and River Tay", image: "/poi-images/uk-perth-cities-v2.webp"},
+    imageHint: "Perth Scone Palace and River Tay",
+    image: "/poi-images/uk-perth-cities-v2.webp"},
   {
     id: "uk-st-andrews-cities-v2",
     type: "town",
-    name: { de: "St Andrews", hu: "St Andrews", ro: "St Andrews", en: "St Andrews" },
+    name: { de: "St Andrews", hu: "St Andrews", ro: "St Andrews", en: "St Andrews",
+image: "/poi-images/uk-st-andrews-cities-v2.webp"
+},
     coords: [-2.7967, 56.3396],
     coordinates: { lat: 56.3396, lng: -2.7967 },
     description: {
@@ -962,11 +1201,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Patria golfului (Old Course)", "Universitate fondată: 1413", "Locul de odihnă al Sf. Andrei", "Ruinele Catedralei St Andrews"],
       en: ["Home of golf (Old Course)", "University founded: 1413", "Resting place of St Andrew", "St Andrews Cathedral ruins"],
     },
-    imageHint: "St Andrews Old Course and beach", image: "/poi-images/uk-st-andrews-cities-v2.webp"},
+    imageHint: "St Andrews Old Course and beach",
+    image: "/poi-images/uk-st-andrews-cities-v2.webp"},
   {
     id: "uk-chichester-cities-v2",
     type: "city",
-    name: { de: "Chichester", hu: "Chichester", ro: "Chichester", en: "Chichester" },
+    name: { de: "Chichester", hu: "Chichester", ro: "Chichester", en: "Chichester",
+image: "/poi-images/uk-chichester-cities-v2.webp"
+},
     coords: [-0.7792, 50.8365],
     coordinates: { lat: 50.8365, lng: -0.7792 },
     description: {
@@ -981,11 +1223,14 @@ export const ukCitiesV2: POI[] = [
       ro: ["Ziduri romane (1,5 mile)", "Catedrala Chichester", "Market Cross (1501)", "Palatul roman Fishbourne în apropiere"],
       en: ["Roman walls (1.5 miles)", "Chichester Cathedral", "Market Cross (1501)", "Fishbourne Roman Palace nearby"],
     },
-    imageHint: "Chichester Market Cross and Cathedral", image: "/poi-images/uk-chichester-cities-v2.webp"},
+    imageHint: "Chichester Market Cross and Cathedral",
+    image: "/poi-images/uk-chichester-cities-v2.webp"},
   {
     id: "uk-wells-cities-v2",
     type: "city",
-    name: { de: "Wells", hu: "Wells", ro: "Wells", en: "Wells" },
+    name: { de: "Wells", hu: "Wells", ro: "Wells", en: "Wells",
+image: "/poi-images/uk-wells-cities-v2.webp"
+},
     coords: [-2.6446, 51.2092],
     coordinates: { lat: 51.2092, lng: -2.6446 },
     description: {
